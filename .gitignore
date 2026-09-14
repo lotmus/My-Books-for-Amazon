@@ -18,5 +18,6 @@ node_modules/
 /Science Books/The Quantum World/backup/The_Quantum_World__FINAL.rtf
 /Math for HS and College/The Mathematics Tower/
 
-# damaged former .git set aside on 2026-09-13; safe to delete
+# leftovers of the damaged first .git (never commit these)
 /.git_corrupt/
+/.git_corrupt_loose_backup/
