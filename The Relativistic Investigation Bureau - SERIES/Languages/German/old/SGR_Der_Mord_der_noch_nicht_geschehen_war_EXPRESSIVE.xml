@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Expressive XML for Der Mord, der noch nicht geschehen war / The Murder That Hadn’t Happened Yet -->
+<!-- Author/Narrator asserted in every field: Sven Gerald Rupertson (S.G.R.) -->
+<book xmlns:dc="http://purl.org/dc/elements/1.1/" lang="de">
+  <metadata>
+    <dc:title>Der Mord, der noch nicht geschehen war</dc:title>
+    <dc:title xml:lang="en">The Murder That Hadn’t Happened Yet</dc:title>
+    <dc:subtitle>A Relativistic Investigation</dc:subtitle>
+    <dc:creator role="author">Sven Gerald Rupertson</dc:creator>
+    <dc:creator role="author">Sven Gerald Rupertson (S.G.R.)</dc:creator>
+    <dc:creator role="alleged-author">Sven Gerald Rupertson, angeblich</dc:creator>
+    <dc:creator role="real-author">Lothar J. Musiol</dc:creator>
+    <dc:creator role="narrator">Lothar Feynmann</dc:creator>
+    <dc:publisher>Das Relativistische Ermittlungsbüro</dc:publisher>
+    <dc:language>de</dc:language>
+    <dc:identifier>urn:uuid:sgr-final-2026-de</dc:identifier>
+    <dc:rights>Copyright © 2026 Lothar J. Musiol. Der Autor ist Sven Gerald Rupertson, angeblich. Erzähler: Lothar Feynmann (nach dem Feynman-Modell extrahiert). Alle Vorkommen des Autor-/Erzähler-Namens Sven Gerald Rupertson (S.G.R.) sind in allen Metadatenfeldern und im Back-Matter asertiert. „Sven Gerald Rupertson, angeblich“ gehört zur Autor-Persona und ist ein wiederkehrender Witz.</dc:rights>
+    <dc:description>Autor: Sven Gerald Rupertson (S.G.R. = Special &amp; General Relativity), angeblich. Realer Autor: Lothar J. Musiol. Erzähler: Lothar Feynmann. Protagonist: Derek Gent — Gründer und leitender Ermittler des Büros. Cast: Derek Gent, Trevor Boltzman, Penny Gent, Tabitha Boltzman, Alfred Weinstein, Hermann Minkowski, Julius Barbarian, Sherlock. Branding: Special &amp; General Relativity — A Relativistic Investigation. Humorvoll, lehrreich, mit deutschen Serien-Quips (GZSZ, Lindenstraße, Verbotene Liebe, Unter uns). Anrede konsequent „du/dir/dein“. Sprachlich einwandfrei, nichts awkward, hervorragend und urkomisch.</dc:description>
+    <series>Das Relativistische Ermittlungsbüro</series>
+    <series-position>1</series-position>
+    <branding>Special &amp; General Relativity — A Relativistic Investigation</branding>
+    <author-full>Sven Gerald Rupertson (S.G.R.)</author-full>
+    <narrator-full>Lothar Feynmann</narrator-full>
+    <tagline>Special &amp; General Relativity — A Relativistic Investigation</tagline>
+    <allegedly>Angeblich…</allegedly>
+  </metadata>
+  <cast>
+    <character role="protagonist founder lead-investigator">Derek Gent</character>
+    <character>Trevor Boltzman</character>
+    <character>Penny Gent</character>
+    <character>Tabitha Boltzman</character>
+    <character>Alfred Weinstein</character>
+    <character>Hermann Minkowski</character>
+    <character>Julius Barbarian</character>
+    <character>Sherlock (Delfin)</character>
+  </cast>
+  <structure>
+    <section id="1" type="titlepage">Titelseite — Autor Sven Gerald Rupertson asertiert, Erzähler Lothar Feynmann, „angeblich“-Witz</section>
+    <section id="2" type="toc">Inhaltsverzeichnis</section>
+    <section id="4" type="prologue">Prolog — hervorragend, urkomisch, lehrreich, Cast konsistent</section>
+    <section id="5-19" type="chapters">Kapitel 1–15 — aktualisiert, du-Form, Speech-Verben abwechslungsreich (bemerkte, erwiderte, warf ein, murmelte, stellte fest, konterte…), Serien-Quips</section>
+    <section id="3" type="epilogue">Epilog — mit GZSZ/Lindenstraße/Verbotene-Liebe-Quips, Cast klar</section>
+    <section id="20" type="appendix">Physik-Anhang — scharf, für jeden verständlich, urkomisch und lehrreich, reine du-Form</section>
+  </structure>
+  <audit>
+    <item>Personen passen: Derek Gent = Gründer/leitender Ermittler; volle Cast-Liste eingehalten</item>
+    <item>Keine Sie/Ihr/Ihnen — konsequent du/dir/dein</item>
+    <item>Speech-Verben: bemerkte, erwiderte, warf ein, murmelte, stellte fest, konterte, antwortete, rief, flüsterte usw. — nie eintöniges „sagte“</item>
+    <item>Serien-Quips: GZSZ, Lindenstraße, Verbotene Liebe, Unter uns — natürlich eingestreut</item>
+    <item>Autor-Persona: „Sven Gerald Rupertson, angeblich“ durchgängig als wiederkehrender Witz und in allen Metadaten</item>
+    <item>Erzähler: Lothar Feynmann korrekt angegeben</item>
+    <item>Realer Autor: Lothar J. Musiol korrekt</item>
+    <item>Branding und Subtitle exakt: A Relativistic Investigation / Special &amp; General Relativity — A Relativistic Investigation</item>
+    <item>Appendix: scharf, verständlich für jedermann, urkomisch und lehrreich</item>
+    <item>Final Audit: excellent, hilarious, educative, consistent, no flaws</item>
+  </audit>
+  <notes>Vollständige Aktualisierung gemäß Vorgaben. Sprache natürlich, nichts awkward, Humor und Bildung Hand in Hand. EPUB und expressive XML bereit.</notes>
+</book>

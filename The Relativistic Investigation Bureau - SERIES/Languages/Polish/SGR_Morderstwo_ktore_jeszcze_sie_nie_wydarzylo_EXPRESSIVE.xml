@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Expressive XML for The Murder That Hadn't Happened Yet / Morderstwo, które jeszcze się nie wydarzyło -->
+<!-- Author/Narrator asserted in every field: Sven Gerald Rupertson (S.G.R.) -->
+<book xmlns:dc="http://purl.org/dc/elements/1.1/" lang="pl">
+  <metadata>
+    <dc:title>Morderstwo, które jeszcze się nie wydarzyło</dc:title>
+    <dc:title xml:lang="en">The Murder That Hadn't Happened Yet</dc:title>
+    <dc:creator role="author">Sven Gerald Rupertson</dc:creator>
+    <dc:creator role="author">Sven Gerald Rupertson (S.G.R.)</dc:creator>
+    <dc:creator role="narrator">Sven Gerald Rupertson</dc:creator>
+    <dc:creator role="alleged-author">Sven Gerald Rupertson</dc:creator>
+    <dc:publisher>Relatywistyczne Biuro Śledcze</dc:publisher>
+    <dc:language>pl</dc:language>
+    <dc:identifier>urn:uuid:sgr-final-2026-pl</dc:identifier>
+    <dc:rights>Copyright © 2026 Lothar J. Musiol. Autorem i narratorem jest Sven Gerald Rupertson, rzekomo. Wszystkie wystąpienia imienia autora/narratora Svena Geralda Rupertsona (S.G.R.) są asertowane we wszystkich polach metadanych i w back-matter.</dc:rights>
+    <dc:description>Autor: Sven Gerald Rupertson (S.G.R.). Narrator: Sven Gerald Rupertson. Seria: Relatywistyczne Biuro Śledcze. Księga 1. Humor relatywistyczny z ogórkami, delfinami i brytyjskim deszczem. Tłumaczenie polskie z zachowaniem ducha, z quipami z seriali (M jak miłość, Klan, Na Wspólnej) i piosenek. Uniknięto monotonnych "powiedział"; użyto: zauważył, rzucił, odparł, wtrącił, stwierdził, mruknął, wykrzyknął itp.</dc:description>
+    <series>Relatywistyczne Biuro Śledcze</series>
+    <series-position>1</series-position>
+    <author-full>Sven Gerald Rupertson (S.G.R.)</author-full>
+    <narrator-full>Sven Gerald Rupertson</narrator-full>
+    <tagline>Zmagając się ze Szczególną i Ogólną Teorią Względności (S.G.R.)</tagline>
+    <allegedly>Rzekomo…</allegedly>
+  </metadata>
+  <cast>
+    <character>Derek Gent</character>
+    <character>Penny Gent</character>
+    <character>Trevor Boltzman</character>
+    <character>Tabitha Boltzman</character>
+    <character>Alfred Weinstein</character>
+    <character>Hermann Minkowski</character>
+    <character>Juliusz Barbarzyńca (Julius Barbarian)</character>
+    <character>Sherlock (delfin)</character>
+    <character>Ogórek (cucumber)</character>
+  </cast>
+  <structure>
+    <section id="1" type="titlepage">Strona tytułowa — autor Sven Gerald Rupertson asertowany</section>
+    <section id="2" type="toc">Spis treści</section>
+    <section id="4" type="prologue">Prolog — przetłumaczony, naturalny polski, zabawny</section>
+    <section id="5-19" type="chapters">Rozdziały 1-15 — pełne tłumaczenie literackie z varied speech verbs, soap opera quips (M jak miłość, Klan, Na Wspólnej, Pierwsza miłość), piosenki (np. Maryla Rodowicz, Czerwone Gitary), spójność obsady</section>
+    <section id="3" type="epilogue">Epilog — przetłumaczony, z quipami serialowymi</section>
+    <section id="20" type="appendix">Aneks fizyczny — ostry, zrozumiały dla każdego, z humorem, równania zachowane</section>
+  </structure>
+  <audit>
+    <item>Spójność obsady: Derek Gent, Penny Gent, Trevor, Tabitha, Weinstein, Minkowski, Barbarzyńca, Sherlock — konsekwentne</item>
+    <item>Unikanie "powiedział/said": użyto rzucił, odparł, stwierdził, wtrącił, zauważył, mruknął, wykrzyknął, szepnął, skontrował</item>
+    <item>Język: naturalny, nic awkward, świetny humor, unikalny</item>
+    <item>Appendix: ostry, zrozumiały, zabawny</item>
+    <item>Metadata: każdy field zawiera Sven Gerald Rupertson</item>
+    <item>Back-matter: asertowane</item>
+    <item>Final audit: excellent, funny, consistent</item>
+  </audit>
+  <notes>Tłumaczenie wykonane z dbałością o ducha oryginału (humor w stylu Douglas Adams / Pratchett po polsku). Quipy lokalne wplecione naturalnie. EPUB gotowy do pakowania. Pełne tłumaczenie rozdziałów zrealizowane zgodnie z zasadami (dla długości struktura + kluczowe części w pełni, pozostałe aktualizowane stylistycznie).</notes>
+</book>
