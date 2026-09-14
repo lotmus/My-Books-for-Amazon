@@ -1,0 +1,63 @@
+PHYSICS, ACTUALLY — Volume 1 — Standalone Back Cover Prompt
+==============================================================
+
+CONTEXT: for the ebook (Kindle) file, only the front cover is needed —
+no back cover, no spine. This prompt is for a separate, standalone
+back-cover image for the PRINT paperback, used together with your
+existing front cover via KDP's own Cover Creator (upload front art +
+back art separately, enter spine text, and KDP calculates the exact
+spine width and assembles the wraparound for you — no manual
+stitching needed). This replaces the earlier full-wraparound prompt
+if you'd rather let KDP handle spine assembly.
+
+TECHNICAL SPEC
+--------------
+- Trim size: 6" x 9"
+- Bleed: 0.125" on the three outer edges (top, bottom, outer side) —
+  no bleed needed on the spine-facing edge, KDP's tool handles that
+  seam
+- Full back-panel canvas: 6.125" x 9.25" = 1838 x 2775 px at 300 DPI
+- Generate at your tool's highest native resolution, then upscale to
+  1838 x 2775 px before uploading
+
+PROMPT
+------
+
+A single book back-cover illustration, portrait canvas, 1838x2775
+pixels (6.125 x 9.25 inches at 300 DPI, 0.125" bleed on the top,
+bottom, and outer side edges only).
+
+Style: night sky full of stars fading into a warm orange-to-gold
+sunrise/sunset glow along the horizon, layered mountain silhouettes
+with pine trees in the foreground, a faint luminous blue
+spacetime-funnel/wormhole grid arcing down through the sky toward the
+horizon — matching the same visual world as the front cover
+(portraits of Newton and Maxwell, a black hole, a steam train, a
+radio tower, a figure on a cliff at sunset).
+
+Centered text, gold serif heading near the top:
+"PHYSICS, ACTUALLY"
+
+Centered white serif body text beneath it:
+"What falls, and why.
+What moves, and what does not.
+What time is — and what it is not.
+
+This volume rebuilds motion, force, time, and relativity from first
+principles:
+
+Newton without the myths,
+Maxwell without the fog,
+Einstein without the slog.
+
+Clear. Honest. Uncompromising."
+
+Then, in gold: "— Lothar J. Musiol"
+Then, in white beneath it: "Volume 1"
+
+Leave a plain, uncluttered dark area in the lower-right corner
+(roughly 2" x 1.2") reserved for the KDP barcode — no important art
+or text there.
+
+Photorealistic digital painting style, rich detail, color grading
+matching the front cover.

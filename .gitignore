@@ -1,0 +1,18 @@
+# Nested repositories with their own history (commit/push them separately)
+/Schrodingers_Paperwork/
+/Science Books/The Quantum Conversation/The Quantum Conversation - Manuscript/
+
+# Office lock files and temporaries
+~$*
+*_preview_tmp.pdf
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Tool caches
+__pycache__/
+node_modules/
+
+# Over GitHub's 100 MB per-file limit
+/Science Books/The Quantum World/backup/The_Quantum_World__FINAL.rtf
+/Math for HS and College/The Mathematics Tower/

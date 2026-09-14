@@ -1,0 +1,64 @@
+PHYSICS, ACTUALLY — Volume 1 — Prologue Chapter-Opener Image Prompt
+=====================================================================
+
+CONTEXT: every other chapter in this book opens with one composite
+illustration containing: a scene, a one-line caption under the scene,
+a boxed "Key idea" callout, a boxed "Examples and puzzles we'll
+explore" bullet list, and a closing italic one-line hook — all baked
+into a single image, placed directly under the chapter title. The
+Prologue is currently the only chapter missing this image. The prompt
+below matches that exact template and content style, using the same
+Newton/Maxwell pairing already established on the front cover.
+
+Generate in portrait orientation, matching the proportions of the
+other chapter-opener illustrations in this book (roughly a 3:5
+width:height ratio — e.g. 1024x1707px or higher; this is an inline
+manuscript illustration, not the print cover, so native AI-generator
+resolution is fine, no upscaling needed).
+
+PROMPT
+------
+
+A single composite illustration for a physics book's Prologue chapter
+opener, matching a consistent in-book visual template: a scene
+illustration at top, a one-line caption beneath it, a boxed "Key
+idea" callout, a boxed "Examples and puzzles we'll explore" bullet
+list, and a short italic closing line at the bottom. Portrait
+orientation, clean flat editorial-illustration style with warm gold
+and deep navy accent colors, plenty of white space, matching a
+professional nonfiction book interior (not photorealistic — this is
+a diagram-style illustration, distinct from the painterly front
+cover).
+
+Scene (top): a split composition. On the left, Isaac Newton in period
+dress, gesturing between a falling apple and the orbiting Moon above,
+with a single dashed arc connecting the apple's fall to the Moon's
+orbit. On the right, James Clerk Maxwell in period dress, standing
+beside a bar magnet with visible field lines, a beam of light, and a
+simple radio-wave symbol, showing electricity, magnetism, and light
+as one connected phenomenon. Both men face each other across a
+shared night sky filled with faint stars.
+
+Caption beneath the scene (small centered text):
+"One law explains a falling apple and the orbiting Moon.
+One set of equations explains electricity, magnetism, and light
+itself."
+
+Key idea box (gold-outlined box, centered bold text):
+"Key idea:
+Newton and Maxwell gave physics its first grand unifications — and
+made the universe look like a solved machine."
+
+Examples and puzzles we'll explore box (blue-outlined box, bulleted
+list):
+"Examples and puzzles we'll explore:
+- Why the same law governs a falling apple and the Moon
+- How electricity, magnetism, and light turned out to be one thing
+- Why this 'clockwork universe' was about to get much stranger"
+
+Closing italic line at the bottom (centered, bold italic):
+"This is the world physics thought it understood. It didn't."
+
+Do not include any large chapter title text in the image itself — the
+chapter number and title are set separately in the book's own
+typography above this illustration.

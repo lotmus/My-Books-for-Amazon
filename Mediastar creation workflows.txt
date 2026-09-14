@@ -1,0 +1,96 @@
+The creation workflows are essentially ready. The remaining work is mostly about making MediaStar a complete, polished everyday editor.
+
+Current status:
+
+- Creation workflows: **ready**
+- Magic Subject Mask: **usable, with advanced improvements open**
+- Automatic smooth playback/proxies: **ready**
+- Quick Edit accessibility: **first pass ready**
+- Timeline, project safety, media organization, color, audio and delivery: **partially ready**
+
+The open work, in recommended order:
+
+1. **Finish Clipchamp-level editing accessibility**
+
+   - Directly resize, move, rotate and crop clips in the preview
+   - Picture-in-picture by dragging
+   - Better multi-selection and grouping
+   - Obvious fades and gain controls
+   - Simple gap removal
+   - Cleaner insert, overwrite, append and replace choices
+   - Screen, webcam and voice recording
+
+2. **Timeline responsiveness and dependability**
+
+   - Test and tune heavy multi-track playback
+   - Faster, consistently smooth scrubbing
+   - Proxy-cache cleanup and size controls
+   - Complete undo/redo verification
+   - Track targeting and locking polish
+   - Real nested timelines and adjustment clips
+
+3. **Project Health and safety**
+
+   - One permanently accessible Project Health panel
+   - Guided missing-file relinking
+   - Collect the project and all media into an archive
+   - Detect unused and duplicate media
+   - Pre-export safety check
+   - Forced-crash recovery testing
+
+4. **Media-bin and source-viewer workflow**
+
+   - Proper folders and smart bins
+   - Search and metadata filters
+   - Favorites, ratings, colors and notes
+   - Thumbnail/list views and hover previews
+   - Source viewer with in/out points
+   - Insert, overwrite, append and replace from the source viewer
+   - Simple synchronization of separately recorded audio
+
+5. **Color workflow**
+
+   - Open the selected timeline clip directly in Color
+   - Return changes non-destructively
+   - Per-clip node graphs
+   - HSL qualifiers and tracked windows
+   - Reference stills and shot matching
+   - Shared grades
+   - Before/after comparison
+   - Live scopes and consistent project color management
+
+6. **Compositor integration**
+
+   - Send a clip to the compositor and return it non-destructively
+   - Universal keyframes and curve editor
+   - Tracked masks and rotoscoping
+   - Planar tracking and motion blur
+   - Object removal and clone painting
+   - Reusable title/effect templates
+   - Visible compositor caching
+   - Optional stronger neural segmentation for Magic Subject Mask
+
+7. **Audio editing ergonomics**
+
+   - Direct fade and gain handles
+   - Friendly per-track EQ and dynamics
+   - Track buses and sends
+   - Verified VST3 support
+   - Side-chain workflow
+   - Automatic dialogue leveling
+   - Room-tone filling
+   - ADR against picture
+   - Loudness history and true-peak display
+   - Sample-accurate edits and batch crossfades
+
+8. **Delivery and quality control**
+
+   - One Delivery screen
+   - Persistent render queue
+   - Background rendering
+   - Output-size estimate
+   - Automatic checks for missing media, black frames, silence, clipping, caption overflow and A/V sync
+   - Source-versus-output comparison
+   - Clear reporting of hardware or software encoding
+
+The next concrete item should be **direct manipulation in the preview**. That is the biggest remaining difference between “powerful features exist” and “editing feels as easy as Clipchamp.”
