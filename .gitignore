@@ -16,3 +16,6 @@ node_modules/
 # Over GitHub's 100 MB per-file limit
 /Science Books/The Quantum World/backup/The_Quantum_World__FINAL.rtf
 /Math for HS and College/The Mathematics Tower/
+
+# damaged former .git set aside on 2026-09-13; safe to delete
+/.git_corrupt/
