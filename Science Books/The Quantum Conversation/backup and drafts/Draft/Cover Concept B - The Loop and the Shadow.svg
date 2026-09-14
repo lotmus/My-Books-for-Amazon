@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2560" viewBox="0 0 680 1088" role="img">
+<title>The Quantum Conversation - Cover Concept B: The Loop and the Shadow</title>
+<desc>A dark book cover: a glowing elliptical ring of light in the upper third casts a solid dark force-arrow shadow into the lower third, with title text below.</desc>
+<defs>
+<linearGradient id="bgR" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#0d1322"/>
+<stop offset="100%" stop-color="#050709"/>
+</linearGradient>
+<radialGradient id="glowR" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#e8f7ff" stop-opacity="0.45"/>
+<stop offset="60%" stop-color="#4fd8ff" stop-opacity="0.12"/>
+<stop offset="100%" stop-color="#4fd8ff" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="arrowR" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#171d30"/>
+<stop offset="100%" stop-color="#0a0d16"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="680" height="1088" fill="url(#bgR)"/>
+<line x1="130" y1="72" x2="270" y2="72" stroke="#8d8a78" stroke-width="0.6"/>
+<line x1="410" y1="72" x2="550" y2="72" stroke="#8d8a78" stroke-width="0.6"/>
+<text x="340" y="78" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="4" fill="#cfc9b4">SCIENCE FOR EVERYONE</text>
+<polygon points="340,470 292,600 322,600 292,700 396,530 356,530 392,470" fill="url(#arrowR)" stroke="#232b44" stroke-width="1"/>
+<ellipse cx="340" cy="290" rx="185" ry="165" fill="url(#glowR)"/>
+<ellipse cx="340" cy="290" rx="115" ry="90" fill="none" stroke="#eaf9ff" stroke-width="5"/>
+<ellipse cx="340" cy="290" rx="115" ry="90" fill="none" stroke="#4fd8ff" stroke-width="1.2" stroke-dasharray="1 7"/>
+<ellipse cx="340" cy="290" rx="80" ry="62" fill="none" stroke="#4fd8ff" stroke-width="0.6" opacity="0.4"/>
+<text x="340" y="742" text-anchor="middle" font-family="Georgia, serif" font-weight="700" font-size="52" fill="#f2efe6">THE QUANTUM</text>
+<text x="340" y="802" text-anchor="middle" font-family="Georgia, serif" font-weight="700" font-size="52" fill="#f2efe6">CONVERSATION</text>
+<text x="340" y="864" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="18" fill="#a7a493">
+<tspan x="340" dy="0">Phase, Light, and the Hidden Architecture</tspan>
+<tspan x="340" dy="25">of Electromagnetism</tspan>
+</text>
+<line x1="290" y1="1000" x2="390" y2="1000" stroke="#5a5644" stroke-width="0.6"/>
+<text x="340" y="1030" text-anchor="middle" font-family="Georgia, serif" font-size="18" letter-spacing="3" fill="#cfc9b4">LOTHAR J. MUSIOL</text>
+</svg>
