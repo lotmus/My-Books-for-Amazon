@@ -1,0 +1,15 @@
+Vary two overused rhetorical constructions to reduce repetition fatigue
+
+The "X is not Y. It is Z" antithesis and "None of this..." openers had
+grown into the book's dominant stylistic fingerprint (29 and 14 instances
+respectively, several clustered 2-3 to a single paragraph). Rewrote about
+half of each, prioritizing every cluster, while leaving isolated uses of
+both constructions alone since occasional use is a legitimate device.
+
+Verified via full two-pass rebuild: all 70 TOC entries still resolve
+correctly, no cross-references broken, no accidental text duplication
+introduced by the edits (caught and fixed two such slips before this
+commit). 292 pages, 53,165 words (was 293 pages, 53,212 words) -- the
+small dip is consistent with tightening roughly 30 sentences, nothing more.
+
+Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
