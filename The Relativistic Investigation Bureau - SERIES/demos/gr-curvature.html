@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pending Geometry — Curved Spacetime Demo</title>
+<style>
+  :root {
+    --bg: #0b0f1a; --panel: #131a2b; --ink: #e8ecf5; --muted: #8b93a8;
+    --accent: #c792ea; --accent2: #ff6b6b; --grid: #1d2740; --good: #6ee7a0;
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; background:var(--bg); color:var(--ink); padding:16px; }
+  .wrap { max-width: 980px; margin: 0 auto; }
+  h1 { font-size:1.4rem; margin:0 0 4px; }
+  .subtitle { color:var(--muted); font-size:0.95rem; margin:0 0 20px; line-height:1.5; }
+  .layout { display:grid; grid-template-columns:1fr; gap:16px; }
+  @media (min-width:820px){ .layout{ grid-template-columns:2fr 1fr; } }
+  .panel { background:var(--panel); border-radius:12px; padding:16px; border:1px solid #223055; }
+  canvas { width:100%; height:auto; display:block; border-radius:8px; background:#060a14; }
+  .controls label { display:block; font-size:0.85rem; color:var(--muted); margin-bottom:6px; }
+  .controls input[type="range"] { width:100%; accent-color:var(--accent); }
+  .stat { display:flex; justify-content:space-between; padding:8px 0; border-bottom:1px solid #1d2740; font-size:0.9rem; }
+  .stat:last-child{border-bottom:none;}
+  .stat .k{color:var(--muted);} .stat .v{font-variant-numeric:tabular-nums; color:var(--accent);}
+  .badge { display:inline-block; background:#1d2740; color:var(--accent); padding:2px 8px; border-radius:999px; font-size:0.75rem; margin-left:8px; }
+  .legend { display:flex; gap:16px; flex-wrap:wrap; margin-top:10px; font-size:0.8rem; color:var(--muted); }
+  .legend span{ display:inline-flex; align-items:center; gap:6px; }
+  .swatch{ width:14px; height:3px; border-radius:2px; display:inline-block; }
+  .dot{ width:10px; height:10px; border-radius:50%; display:inline-block; }
+  .toggles { display:flex; gap:10px; flex-wrap:wrap; margin-top:14px; }
+  .toggles button { background:#1d2740; color:var(--ink); border:1px solid #2c3a63; padding:8px 12px; border-radius:8px; cursor:pointer; font-size:0.85rem; }
+  .toggles button.active { background:var(--accent); color:#04121c; border-color:var(--accent); }
+  footer { margin-top:20px; color:var(--muted); font-size:0.8rem; line-height:1.6; }
+  footer a{ color:var(--accent); }
+  .caption { font-size:0.85rem; color:var(--muted); margin-top:10px; line-height:1.5; }
+  nav.crumbs { font-size: 0.8rem; margin-bottom: 14px; }
+  nav.crumbs a { color: var(--muted); text-decoration: none; }
+  nav.crumbs a:hover { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <nav class="crumbs"><a href="../index.html">&larr; All demos</a></nav>
+  <h1>Pending Geometry <span class="badge">interactive</span></h1>
+  <p class="subtitle">
+    A companion demo for <em>The Murder That Hadn't Happened Yet</em>. Barbarian's garden froze because
+    something nearby was curving spacetime enough to matter. Drag the mass slider and watch a free-falling
+    test particle follow the straightest possible path through a geometry that isn't flat anymore — no force
+    required, just curvature. This is what Derek meant by "gravity is geometry, not a grudge."
+  </p>
+
+  <div class="layout">
+    <div class="panel">
+      <canvas id="diagram" width="640" height="640"></canvas>
+      <div class="legend">
+        <span><span class="dot" style="background:#c792ea"></span> Central mass (the "clock")</span>
+        <span><span class="dot" style="background:#6ee7a0"></span> Free-falling test particle</span>
+        <span><span class="swatch" style="background:#3a4a78"></span> Curved coordinate grid</span>
+        <span><span class="swatch" style="background:#ff6b6b;height:2px;border-top:2px dashed #ff6b6b;background:none"></span> Geodesic path traced</span>
+      </div>
+      <p class="caption">
+        The grid lines aren't decoration — they're what "straight" looks like near a mass. The particle never
+        gets pushed. It just follows the only path available to it, the same way Derek's case kept "curving"
+        back toward Sophie no matter which direction he investigated.
+      </p>
+    </div>
+
+    <div class="panel">
+      <div class="controls">
+        <label for="mass">Central mass — <span id="massLabel">3.0</span></label>
+        <input type="range" id="mass" min="0" max="8" step="0.1" value="3.0">
+        <label for="orbit" style="margin-top:14px;">Particle orbital radius — <span id="orbitLabel">2.2</span></label>
+        <input type="range" id="orbit" min="0.6" max="3.2" step="0.05" value="2.2">
+      </div>
+
+      <div class="toggles">
+        <button id="toggleGrid" class="active">Curved grid</button>
+        <button id="toggleTrail" class="active">Geodesic trail</button>
+        <button id="reset">Reset orbit</button>
+      </div>
+
+      <div style="margin-top:18px;">
+        <div class="stat"><span class="k">Effective curvature at particle</span><span class="v" id="curv">0.62</span></div>
+        <div class="stat"><span class="k">Orbital speed</span><span class="v" id="speed">0.44 c</span></div>
+        <div class="stat"><span class="k">Time dilation at particle</span><span class="v" id="dilation">0.91</span></div>
+        <div class="stat"><span class="k">Escape? </span><span class="v" id="escape">stable</span></div>
+      </div>
+
+      <p class="caption">
+        Push the mass up and shrink the orbit and you'll eventually see the particle spiral in rather than
+        circle — the point where "orbit" stops being a meaningful word, much like the point where Case 1047
+        stopped being a meaningful murder.
+      </p>
+    </div>
+  </div>
+
+  <footer>
+    Part of the <strong>Case 1047</strong> demo set for <em>The Murder That Hadn't Happened Yet</em>.
+    Source at <a href="https://github.com/lotmus/relativistic">github.com/lotmus/relativistic</a>.
+  </footer>
+</div>
+
+<script>
+const canvas = document.getElementById('diagram');
+const ctx = canvas.getContext('2d');
+const massSlider = document.getElementById('mass');
+const orbitSlider = document.getElementById('orbit');
+const massLabel = document.getElementById('massLabel');
+const orbitLabel = document.getElementById('orbitLabel');
+const curvEl = document.getElementById('curv');
+const speedEl = document.getElementById('speed');
+const dilationEl = document.getElementById('dilation');
+const escapeEl = document.getElementById('escape');
+
+const toggleGrid = document.getElementById('toggleGrid');
+const toggleTrail = document.getElementById('toggleTrail');
+const resetBtn = document.getElementById('reset');
+
+let showGrid = true;
+let showTrail = true;
+
+toggleGrid.addEventListener('click', () => { showGrid = !showGrid; toggleGrid.classList.toggle('active', showGrid); });
+toggleTrail.addEventListener('click', () => { showTrail = !showTrail; toggleTrail.classList.toggle('active', showTrail); trail = []; });
+
+const W = canvas.width, H = canvas.height;
+const cx = W/2, cy = H/2;
+const scale = 110; // px per unit
+
+let angle = 0;
+let trail = [];
+
+function warp(x, y, mass) {
+  // Simple visual embedding-diagram-style warp: pull grid points toward center based on 1/r
+  const dx = x, dy = y;
+  const r = Math.sqrt(dx*dx + dy*dy) + 0.0001;
+  const pull = mass * 0.14 / r;
+  const factor = Math.max(0.15, 1 - pull);
+  return [dx * factor, dy * factor];
+}
+
+function draw() {
+  const mass = parseFloat(massSlider.value);
+  const radius = parseFloat(orbitSlider.value);
+  massLabel.textContent = mass.toFixed(1);
+  orbitLabel.textContent = radius.toFixed(2);
+
+  ctx.clearRect(0,0,W,H);
+
+  // curved grid
+  if (showGrid) {
+    ctx.strokeStyle = 'rgba(58,74,120,0.9)';
+    ctx.lineWidth = 1;
+    const step = 0.4;
+    for (let gx = -3.2; gx <= 3.2; gx += step) {
+      ctx.beginPath();
+      let first = true;
+      for (let gy = -3.2; gy <= 3.2; gy += 0.08) {
+        const [wx, wy] = warp(gx, gy, mass);
+        const px = cx + wx*scale, py = cy + wy*scale;
+        if (first) { ctx.moveTo(px,py); first=false; } else { ctx.lineTo(px,py); }
+      }
+      ctx.stroke();
+    }
+    for (let gy = -3.2; gy <= 3.2; gy += step) {
+      ctx.beginPath();
+      let first = true;
+      for (let gx = -3.2; gx <= 3.2; gx += 0.08) {
+        const [wx, wy] = warp(gx, gy, mass);
+        const px = cx + wx*scale, py = cy + wy*scale;
+        if (first) { ctx.moveTo(px,py); first=false; } else { ctx.lineTo(px,py); }
+      }
+      ctx.stroke();
+    }
+  }
+
+  // central mass
+  const massRadius = 6 + mass * 2.2;
+  const grad = ctx.createRadialGradient(cx,cy,0,cx,cy,massRadius*3);
+  grad.addColorStop(0, 'rgba(199,146,234,0.9)');
+  grad.addColorStop(1, 'rgba(199,146,234,0)');
+  ctx.fillStyle = grad;
+  ctx.beginPath(); ctx.arc(cx,cy,massRadius*3,0,Math.PI*2); ctx.fill();
+  ctx.fillStyle = '#c792ea';
+  ctx.beginPath(); ctx.arc(cx,cy,massRadius,0,Math.PI*2); ctx.fill();
+
+  // orbital mechanics (heuristic, not exact GR, but responds correctly to mass/radius)
+  const gravParam = mass * 0.55;
+  const orbitalSpeed = Math.sqrt(gravParam / radius) ; // Newtonian-ish angular speed proxy
+  const angularSpeed = orbitalSpeed / radius;
+  angle += angularSpeed * 0.02;
+
+  // spiral-in effect if too close/too massive (visual only)
+  const stability = radius - mass * 0.18;
+  let effectiveRadius = radius;
+  let escapeStatus = 'stable';
+  if (stability < 0.35) {
+    effectiveRadius = Math.max(0.15, radius - (0.35 - stability) * 0.5);
+    escapeStatus = 'decaying';
+  }
+
+  const px = cx + Math.cos(angle) * effectiveRadius * scale;
+  const py = cy + Math.sin(angle) * effectiveRadius * scale * 0.94;
+
+  if (showTrail) {
+    trail.push([px,py]);
+    if (trail.length > 260) trail.shift();
+    ctx.strokeStyle = 'rgba(255,107,107,0.55)';
+    ctx.lineWidth = 1.5;
+    ctx.beginPath();
+    trail.forEach(([tx,ty],i)=>{ if(i===0) ctx.moveTo(tx,ty); else ctx.lineTo(tx,ty); });
+    ctx.stroke();
+  }
+
+  ctx.fillStyle = '#6ee7a0';
+  ctx.beginPath(); ctx.arc(px,py,7,0,Math.PI*2); ctx.fill();
+
+  // stats
+  const gamma = 1 / Math.sqrt(Math.max(0.02, 1 - Math.min(0.95, gravParam/effectiveRadius)));
+  curvEl.textContent = (mass / (effectiveRadius*effectiveRadius)).toFixed(2);
+  speedEl.textContent = Math.min(0.98, orbitalSpeed*0.35).toFixed(2) + ' c';
+  dilationEl.textContent = (1/gamma).toFixed(2);
+  escapeEl.textContent = escapeStatus;
+  escapeEl.style.color = escapeStatus === 'stable' ? '#6ee7a0' : '#ff6b6b';
+
+  requestAnimationFrame(draw);
+}
+
+resetBtn.addEventListener('click', () => { angle = 0; trail = []; });
+massSlider.addEventListener('input', () => { trail = []; });
+orbitSlider.addEventListener('input', () => { trail = []; });
+
+draw();
+</script>
+</body>
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Case 1047 — Interactive Physics Demos</title>
+<style>
+  :root {
+    --bg: #0b0f1a; --panel: #131a2b; --ink: #e8ecf5; --muted: #8b93a8;
+    --sr: #4fd3ff; --gr: #c792ea; --cosmo: #f4c95d;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg); color: var(--ink); padding: 24px;
+  }
+  .wrap { max-width: 900px; margin: 0 auto; }
+  h1 { font-size: 1.6rem; margin: 0 0 6px; }
+  .subtitle { color: var(--muted); font-size: 1rem; margin: 0 0 32px; line-height: 1.6; max-width: 620px; }
+  .cards { display: grid; grid-template-columns: 1fr; gap: 16px; }
+  @media (min-width: 700px) { .cards { grid-template-columns: repeat(3, 1fr); } }
+  a.card {
+    display: block;
+    background: var(--panel);
+    border-radius: 14px;
+    padding: 20px;
+    text-decoration: none;
+    color: var(--ink);
+    border: 1px solid #223055;
+    transition: transform 0.15s ease, border-color 0.15s ease;
+  }
+  a.card:hover { transform: translateY(-3px); }
+  .card.sr:hover { border-color: var(--sr); }
+  .card.gr:hover { border-color: var(--gr); }
+  .card.cosmo:hover { border-color: var(--cosmo); }
+  .tag { display: inline-block; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.08em; padding: 3px 8px; border-radius: 999px; margin-bottom: 10px; }
+  .card.sr .tag { background: rgba(79,211,255,0.15); color: var(--sr); }
+  .card.gr .tag { background: rgba(199,146,234,0.15); color: var(--gr); }
+  .card.cosmo .tag { background: rgba(244,201,93,0.15); color: var(--cosmo); }
+  .card h2 { font-size: 1.05rem; margin: 0 0 8px; }
+  .card p { color: var(--muted); font-size: 0.85rem; line-height: 1.5; margin: 0; }
+  footer { margin-top: 40px; color: var(--muted); font-size: 0.8rem; line-height: 1.6; }
+  footer a { color: var(--sr); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Case 1047 — Interactive Physics Demos</h1>
+  <p class="subtitle">
+    Companion visualizations for <em>The Murder That Hadn't Happened Yet</em>
+    (The Relativistic Investigation Bureau). No libraries, no tracking — just the physics
+    Derek, Weinstein, and Barbarian keep arguing about, made draggable.
+  </p>
+
+  <div class="cards">
+    <a class="card sr" href="demos/sr-simultaneity.html">
+      <span class="tag">Special Relativity</span>
+      <h2>Simultaneity &amp; Spacetime</h2>
+      <p>Why Derek's photograph and Weinstein's clock can't agree on "at the same time" — drag velocity toward c and watch the tilt.</p>
+    </a>
+    <a class="card gr" href="demos/gr-curvature.html">
+      <span class="tag">General Relativity</span>
+      <h2>Curvature &amp; Geodesics</h2>
+      <p>Gravity as geometry, not a force: a free-falling particle follows the straightest path through curved space.</p>
+    </a>
+    <a class="card cosmo" href="demos/cosmology-expansion.html">
+      <span class="tag">Cosmology</span>
+      <h2>Expanding Universe</h2>
+      <p>Nobody is at the center. Watch space itself stretch, and light redshift as the scale factor grows.</p>
+    </a>
+  </div>
+
+  <footer>
+    Built for readers of <strong>The Murder That Hadn't Happened Yet</strong>.
+    Source at <a href="https://github.com/lotmus/relativistic">github.com/lotmus/relativistic</a>.
+  </footer>
+</div>
+</body>
+</html>

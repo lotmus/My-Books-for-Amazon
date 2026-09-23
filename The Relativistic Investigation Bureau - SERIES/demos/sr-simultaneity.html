@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Case 1047 — Interactive Spacetime Diagram</title>
+<style>
+  :root {
+    --bg: #0b0f1a;
+    --panel: #131a2b;
+    --ink: #e8ecf5;
+    --muted: #8b93a8;
+    --accent: #4fd3ff;
+    --accent2: #ff6b6b;
+    --grid: #1d2740;
+    --good: #6ee7a0;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    padding: 16px;
+  }
+  .wrap { max-width: 980px; margin: 0 auto; }
+  h1 {
+    font-size: 1.4rem;
+    margin: 0 0 4px;
+    letter-spacing: 0.02em;
+  }
+  .subtitle {
+    color: var(--muted);
+    font-size: 0.95rem;
+    margin: 0 0 20px;
+    line-height: 1.5;
+  }
+  .layout {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  @media (min-width: 820px) {
+    .layout { grid-template-columns: 2fr 1fr; }
+  }
+  .panel {
+    background: var(--panel);
+    border-radius: 12px;
+    padding: 16px;
+    border: 1px solid #223055;
+  }
+  canvas {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    background: #060a14;
+  }
+  .controls label {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--muted);
+    margin-bottom: 6px;
+  }
+  .controls input[type="range"] {
+    width: 100%;
+    accent-color: var(--accent);
+  }
+  .stat {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px solid #1d2740;
+    font-size: 0.9rem;
+  }
+  .stat:last-child { border-bottom: none; }
+  .stat .k { color: var(--muted); }
+  .stat .v { font-variant-numeric: tabular-nums; color: var(--accent); }
+  .badge {
+    display: inline-block;
+    background: #1d2740;
+    color: var(--accent);
+    padding: 2px 8px;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    margin-left: 8px;
+  }
+  .legend {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    font-size: 0.8rem;
+    color: var(--muted);
+  }
+  .legend span { display: inline-flex; align-items: center; gap: 6px; }
+  .swatch { width: 14px; height: 3px; border-radius: 2px; display: inline-block; }
+  .toggles { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 14px; }
+  .toggles button {
+    background: #1d2740;
+    color: var(--ink);
+    border: 1px solid #2c3a63;
+    padding: 8px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.85rem;
+  }
+  .toggles button.active {
+    background: var(--accent);
+    color: #04121c;
+    border-color: var(--accent);
+  }
+  footer {
+    margin-top: 20px;
+    color: var(--muted);
+    font-size: 0.8rem;
+    line-height: 1.6;
+  }
+  footer a { color: var(--accent); }
+  .caption {
+    font-size: 0.85rem;
+    color: var(--muted);
+    margin-top: 10px;
+    line-height: 1.5;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Case 1047 <span class="badge">interactive</span></h1>
+  <p class="subtitle">
+    A companion demo for <em>The Murder That Hadn't Happened Yet</em> (The Relativistic Investigation Bureau).
+    Drag the velocity slider to see why Derek's photograph, Weinstein's clock, and Mrs Marsh's filing cabinet
+    cannot agree on which event happened first — and why that disagreement is physics, not misconduct.
+  </p>
+
+  <div class="layout">
+    <div class="panel">
+      <canvas id="diagram" width="640" height="640"></canvas>
+      <div class="legend">
+        <span><span class="swatch" style="background:#4fd3ff"></span> Derek's worldline (rest frame, x=0)</span>
+        <span><span class="swatch" style="background:#ff6b6b"></span> Moving observer's worldline (v)</span>
+        <span><span class="swatch" style="background:#6ee7a0"></span> Light cone (45°, c = 1)</span>
+        <span><span class="swatch" style="background:#f4c95d"></span> Line of simultaneity (moving frame)</span>
+      </div>
+      <p class="caption">
+        The dashed light cone marks the absolute boundary of cause and effect — everything Case 1047 actually
+        depends on. The tilted amber line shows "now" according to the moving observer: as v increases toward c,
+        their idea of "at the same time" swings further from Derek's, exactly the way Weinstein's Munich clock and
+        Derek's London clock stopped disagreeing about which second was real.
+      </p>
+    </div>
+
+    <div class="panel">
+      <div class="controls">
+        <label for="velocity">Relative velocity (v / c) — <span id="vLabel">0.60</span></label>
+        <input type="range" id="velocity" min="0" max="0.99" step="0.01" value="0.6">
+      </div>
+
+      <div class="toggles">
+        <button id="toggleSim" class="active">Simultaneity line</button>
+        <button id="toggleCone" class="active">Light cone</button>
+        <button id="toggleGrid">Moving frame grid</button>
+      </div>
+
+      <div style="margin-top:18px;">
+        <div class="stat"><span class="k">Lorentz factor γ</span><span class="v" id="gamma">1.25</span></div>
+        <div class="stat"><span class="k">Time dilation (Δt' / Δt)</span><span class="v" id="dilation">0.80</span></div>
+        <div class="stat"><span class="k">Length contraction (L / L₀)</span><span class="v" id="contraction">0.80</span></div>
+        <div class="stat"><span class="k">Simultaneity tilt</span><span class="v" id="tilt">31.0°</span></div>
+      </div>
+
+      <p class="caption">
+        At v = 0, everyone agrees on "now" — the amber line is flat, and Case 1047 really would just be a
+        murder. Push v toward c and watch the tilt approach 45°: at that limit, "before" and "after" stop
+        meaning anything at all, which is precisely the gap the Bureau's filing system fell into.
+      </p>
+    </div>
+  </div>
+
+  <footer>
+    Built for readers of <strong>The Murder That Hadn't Happened Yet</strong> — no libraries, no tracking,
+    just a spacetime diagram. Source lives at
+    <a href="https://github.com/lotmus/relativistic">github.com/lotmus/relativistic</a>.
+  </footer>
+</div>
+
+<script>
+const canvas = document.getElementById('diagram');
+const ctx = canvas.getContext('2d');
+const velocitySlider = document.getElementById('velocity');
+const vLabel = document.getElementById('vLabel');
+const gammaEl = document.getElementById('gamma');
+const dilationEl = document.getElementById('dilation');
+const contractionEl = document.getElementById('contraction');
+const tiltEl = document.getElementById('tilt');
+
+const toggleSim = document.getElementById('toggleSim');
+const toggleCone = document.getElementById('toggleCone');
+const toggleGrid = document.getElementById('toggleGrid');
+
+let showSim = true;
+let showCone = true;
+let showGrid = false;
+
+function setActive(btn, state) {
+  btn.classList.toggle('active', state);
+}
+
+toggleSim.addEventListener('click', () => { showSim = !showSim; setActive(toggleSim, showSim); draw(); });
+toggleCone.addEventListener('click', () => { showCone = !showCone; setActive(toggleCone, showCone); draw(); });
+toggleGrid.addEventListener('click', () => { showGrid = !showGrid; setActive(toggleGrid, showGrid); draw(); });
+
+const W = canvas.width, H = canvas.height;
+const originX = W / 2, originY = H * 0.82;
+const scale = H * 0.34; // pixels per unit (c*t or x), keep light cone at 45deg
+
+function toScreen(x, ct) {
+  return [originX + x * scale, originY - ct * scale];
+}
+
+function draw() {
+  const v = parseFloat(velocitySlider.value);
+  vLabel.textContent = v.toFixed(2);
+
+  const gamma = 1 / Math.sqrt(1 - v * v);
+  gammaEl.textContent = gamma.toFixed(2);
+  dilationEl.textContent = (1 / gamma).toFixed(2);
+  contractionEl.textContent = (1 / gamma).toFixed(2);
+  const tiltDeg = Math.atan(v) * 180 / Math.PI;
+  tiltEl.textContent = tiltDeg.toFixed(1) + '°';
+
+  ctx.clearRect(0, 0, W, H);
+
+  // background grid (rest frame)
+  ctx.strokeStyle = '#1d2740';
+  ctx.lineWidth = 1;
+  const gridStep = scale * 0.5;
+  for (let gx = originX % gridStep; gx < W; gx += gridStep) {
+    ctx.beginPath(); ctx.moveTo(gx, 0); ctx.lineTo(gx, H); ctx.stroke();
+  }
+  for (let gy = originY % gridStep; gy < H; gy += gridStep) {
+    ctx.beginPath(); ctx.moveTo(0, gy); ctx.lineTo(W, gy); ctx.stroke();
+  }
+
+  // axes
+  ctx.strokeStyle = '#3a4a78';
+  ctx.lineWidth = 1.5;
+  ctx.beginPath(); ctx.moveTo(0, originY); ctx.lineTo(W, originY); ctx.stroke(); // x axis
+  ctx.beginPath(); ctx.moveTo(originX, 0); ctx.lineTo(originX, H); ctx.stroke(); // ct axis
+
+  ctx.fillStyle = '#8b93a8';
+  ctx.font = '12px sans-serif';
+  ctx.fillText('x (space)', W - 70, originY - 8);
+  ctx.fillText('ct (time)', originX + 8, 16);
+
+  // light cone (through origin, event "the case begins")
+  if (showCone) {
+    ctx.strokeStyle = '#6ee7a0';
+    ctx.setLineDash([6, 5]);
+    ctx.lineWidth = 1.5;
+    const [x1, y1] = toScreen(-2.2, 2.2);
+    const [x2, y2] = toScreen(2.2, 2.2);
+    const [x3, y3] = toScreen(-2.2, -2.2);
+    const [x4, y4] = toScreen(2.2, -2.2);
+    ctx.beginPath(); ctx.moveTo(originX, originY); ctx.lineTo(x1, y1); ctx.stroke();
+    ctx.beginPath(); ctx.moveTo(originX, originY); ctx.lineTo(x2, y2); ctx.stroke();
+    ctx.beginPath(); ctx.moveTo(originX, originY); ctx.lineTo(x3, y3); ctx.stroke();
+    ctx.beginPath(); ctx.moveTo(originX, originY); ctx.lineTo(x4, y4); ctx.stroke();
+    ctx.setLineDash([]);
+  }
+
+  // moving frame grid (tilted)
+  if (showGrid) {
+    ctx.strokeStyle = 'rgba(255,107,107,0.35)';
+    ctx.lineWidth = 1;
+    for (let n = -4; n <= 4; n++) {
+      // lines of constant x' : ct = (x - n*L)/v  -> parametrize via x
+      // simpler: draw worldlines of constant x' (parallel to moving worldline) and lines of simultaneity (parallel to sim line)
+      const off = n * 0.5;
+      // worldline family (constant x'): x = v*ct + off*gamma_norm
+      ctx.beginPath();
+      const [wx1, wy1] = toScreen(v * (-2.2) + off, -2.2);
+      const [wx2, wy2] = toScreen(v * (2.2) + off, 2.2);
+      ctx.moveTo(wx1, wy1); ctx.lineTo(wx2, wy2); ctx.stroke();
+
+      // simultaneity family (constant t'): ct = v*x + off
+      ctx.beginPath();
+      const [sx1, sy1] = toScreen(-2.2, v * (-2.2) + off);
+      const [sx2, sy2] = toScreen(2.2, v * (2.2) + off);
+      ctx.moveTo(sx1, sy1); ctx.lineTo(sx2, sy2); ctx.stroke();
+    }
+  }
+
+  // Derek's worldline (rest frame, x = 0)
+  ctx.strokeStyle = '#4fd3ff';
+  ctx.lineWidth = 3;
+  const [dx1, dy1] = toScreen(0, -2.4);
+  const [dx2, dy2] = toScreen(0, 2.4);
+  ctx.beginPath(); ctx.moveTo(dx1, dy1); ctx.lineTo(dx2, dy2); ctx.stroke();
+
+  // Moving observer's worldline: x = v * ct
+  ctx.strokeStyle = '#ff6b6b';
+  ctx.lineWidth = 3;
+  const [mx1, my1] = toScreen(v * -2.4, -2.4);
+  const [mx2, my2] = toScreen(v * 2.4, 2.4);
+  ctx.beginPath(); ctx.moveTo(mx1, my1); ctx.lineTo(mx2, my2); ctx.stroke();
+
+  // Line of simultaneity for moving observer through origin: ct = v * x
+  if (showSim) {
+    ctx.strokeStyle = '#f4c95d';
+    ctx.lineWidth = 2.5;
+    const [sx1, sy1] = toScreen(-2.2, v * -2.2);
+    const [sx2, sy2] = toScreen(2.2, v * 2.2);
+    ctx.beginPath(); ctx.moveTo(sx1, sy1); ctx.lineTo(sx2, sy2); ctx.stroke();
+  }
+
+  // origin event marker
+  ctx.fillStyle = '#e8ecf5';
+  ctx.beginPath(); ctx.arc(originX, originY, 4, 0, Math.PI * 2); ctx.fill();
+  ctx.fillStyle = '#8b93a8';
+  ctx.fillText('Case 1047 origin', originX + 8, originY - 8);
+}
+
+velocitySlider.addEventListener('input', draw);
+draw();
+</script>
+</body>
+</html>
