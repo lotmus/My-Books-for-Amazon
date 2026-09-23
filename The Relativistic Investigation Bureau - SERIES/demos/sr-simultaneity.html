@@ -129,25 +129,26 @@
 <div class="wrap">
   <h1>Case 1047 <span class="badge">interactive</span></h1>
   <p class="subtitle">
-    A companion demo for <em>The Murder That Hadn't Happened Yet</em> (The Relativistic Investigation Bureau).
-    Drag the velocity slider to see why Derek's photograph, Weinstein's clock, and Mrs Marsh's filing cabinet
-    cannot agree on which event happened first — and why that disagreement is physics, not misconduct.
+    A companion demo for <em>The Murder That Hadn't Happened Yet</em>. Drag the velocity slider to see why
+    Derek's photograph, Weinstein's clock, and Mrs Marsh's filing cabinet cannot agree on which event happened
+    first. Nobody at the Bureau is lying, incompetent, or overdue for a performance review — the universe is
+    just built this way, which everyone found considerably harder to file a complaint about.
   </p>
 
   <div class="layout">
     <div class="panel">
       <canvas id="diagram" width="640" height="640"></canvas>
       <div class="legend">
-        <span><span class="swatch" style="background:#4fd3ff"></span> Derek's worldline (rest frame, x=0)</span>
-        <span><span class="swatch" style="background:#ff6b6b"></span> Moving observer's worldline (v)</span>
-        <span><span class="swatch" style="background:#6ee7a0"></span> Light cone (45°, c = 1)</span>
-        <span><span class="swatch" style="background:#f4c95d"></span> Line of simultaneity (moving frame)</span>
+        <span><span class="swatch" style="background:#4fd3ff"></span> Derek's worldline (rest frame, blissfully unaware)</span>
+        <span><span class="swatch" style="background:#ff6b6b"></span> Moving observer's worldline (equally convinced they're the still one)</span>
+        <span><span class="swatch" style="background:#6ee7a0"></span> Light cone (the one rule nobody gets to argue with)</span>
+        <span><span class="swatch" style="background:#f4c95d"></span> Line of simultaneity ("now," allegedly)</span>
       </div>
       <p class="caption">
-        The dashed light cone marks the absolute boundary of cause and effect — everything Case 1047 actually
-        depends on. The tilted amber line shows "now" according to the moving observer: as v increases toward c,
-        their idea of "at the same time" swings further from Derek's, exactly the way Weinstein's Munich clock and
-        Derek's London clock stopped disagreeing about which second was real.
+        The dashed light cone marks the absolute boundary of cause and effect, which is more than can be said for
+        most Bureau filing categories. The tilted amber line is "now," according to whoever's moving: push v toward
+        c and watch their "now" swing further from Derek's, with the same quiet confidence Weinstein brought to
+        insisting his Munich clock and Derek's London clock were both, somehow, correct.
       </p>
     </div>
 
@@ -164,23 +165,24 @@
       </div>
 
       <div style="margin-top:18px;">
-        <div class="stat"><span class="k">Lorentz factor γ</span><span class="v" id="gamma">1.25</span></div>
-        <div class="stat"><span class="k">Time dilation (Δt' / Δt)</span><span class="v" id="dilation">0.80</span></div>
-        <div class="stat"><span class="k">Length contraction (L / L₀)</span><span class="v" id="contraction">0.80</span></div>
-        <div class="stat"><span class="k">Simultaneity tilt</span><span class="v" id="tilt">31.0°</span></div>
+        <div class="stat"><span class="k">Lorentz factor γ (how smug you get near c)</span><span class="v" id="gamma">1.25</span></div>
+        <div class="stat"><span class="k">Time dilation (your clock, politely lagging)</span><span class="v" id="dilation">0.80</span></div>
+        <div class="stat"><span class="k">Length contraction (nobody asked to be shorter)</span><span class="v" id="contraction">0.80</span></div>
+        <div class="stat"><span class="k">Simultaneity tilt (the row about "now")</span><span class="v" id="tilt">31.0°</span></div>
       </div>
 
       <p class="caption">
-        At v = 0, everyone agrees on "now" — the amber line is flat, and Case 1047 really would just be a
-        murder. Push v toward c and watch the tilt approach 45°: at that limit, "before" and "after" stop
-        meaning anything at all, which is precisely the gap the Bureau's filing system fell into.
+        At v = 0, everyone agrees on "now," the amber line lies flat, and Case 1047 is a perfectly ordinary
+        murder with a perfectly ordinary murderer. Unfortunately for everyone's paperwork, push v toward c and
+        the tilt creeps toward 45°, at which point "before" and "after" resign on the spot — precisely the
+        gap the Bureau's filing system fell into, headfirst, without a helmet.
       </p>
     </div>
   </div>
 
   <footer>
     Built for readers of <strong>The Murder That Hadn't Happened Yet</strong> — no libraries, no tracking,
-    just a spacetime diagram. Source lives at
+    no apology for the maths. Source lives at
     <a href="https://github.com/lotmus/relativistic">github.com/lotmus/relativistic</a>.
   </footer>
 </div>
