@@ -5888,6 +5888,7 @@ Derek turned the photograph face-down. His thumb stayed on Sophie's doorway a se
 Weinstein, quiet: "The joke was thinking murder was the noun that mattered."
 Penny looked at Derek - cousin, colleague, the face that had been on the floor in a picture that was not a photograph. "Does that mean you're safe?"
 Derek didn't answer straight away. There was no one to blame for the photograph, which meant there was also no one to forgive - not the system, not Trevor, not the version of himself still lying face-down in a geometry that hadn't finished deciding what it was. He'd spent a year wanting a villain badly enough to nearly build one out of the man who made his tea, and the case had simply declined to supply one. That was going to take longer to feel like good news than it currently did.
+There was a worse thought underneath it, and he let himself have it now, in the privacy of a question nobody had actually asked aloud. If spacetime was the whole of reality - if Death, Departure, and Arrival really were one event sitting still in four dimensions, waiting for someone with the wrong coordinates to stumble across it - then that photograph hadn't been a warning at all. It had already happened, the way Wednesday had already happened before he'd lived through it. Trevor had never really had a choice not to leave that scene behind him; there had simply never been a version of the block in which he did. Derek turned that over and found, to his own surprise, that it changed almost nothing. A cause you can't blame is still not a cause you have to forgive twice. He'd spent a year investigating a filing error as though it were a crime, and apparently the only sensible response to a fixed event was the same one he gave every ordinary Tuesday: get up, put the kettle on, and try not to make it worse. Free will, he decided, was a local variable at best - but it was the only one he had jurisdiction over, and he intended to keep filing under it regardless.
 "I think so," he said, eventually. "I'm not sure 'safe' is the right unit for it, but yes."
 Penny didn't ask again. She watched his hand hover over STATUS, then land.
 Weinstein wrote one more line:
@@ -6553,6 +6554,15 @@ COMMENT: Minkowski's geometric approach to spacetime. Difficulty: Very High. Sho
 
 Mermin, N. David. It's About Time: Understanding Einstein's Relativity. Princeton University Press, 2005.
 COMMENT: Possibly the most readable relativity book on this list - conversational, minimal maths, written for genuinely curious non-physicists.
+
+Gamow, George. Mr Tompkins in Wonderland. Cambridge University Press, 1940.
+COMMENT: The original relativity-made-friendly book, decades before the rest of this list existed. Mr Tompkins falls asleep and dreams of a city where the speed of light is walking pace - trams contract, cyclists age slower than pedestrians, and nobody finds any of it as alarming as they should. Difficulty: Low. If you want to know what it might feel like to actually live inside Special Relativity, rather than merely calculate it, start here.
+
+Muller, Richard A. Now: The Physics of Time. W. W. Norton, 2016.
+COMMENT: A working physicist's attempt to explain why "now" feels so real when relativity insists it shouldn't be universal - which is, not coincidentally, the exact problem the Bureau spent a year mis-filing. Difficulty: Medium. Argues time's flow may be more fundamental than most physicists admit, which Weinstein would have opinions about.
+
+Cox, Brian, and Jeff Forshaw. Why Does E=mc²? (And Why Should We Care?). Da Capo Press, 2009.
+COMMENT: A patient, readable derivation of the equation everyone quotes and almost nobody can actually get to. Difficulty: Medium. Builds the result up from the same postulates this book keeps joking about, minus the dolphin.
 
 One Last Thing
 
