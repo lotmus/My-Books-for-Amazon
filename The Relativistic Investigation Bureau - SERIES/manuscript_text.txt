@@ -124,8 +124,8 @@ There was, he decided, a useful distinction between the things a man could act o
 Derek was forty-one, greying at the temples in a way he found more alarming than the murder notice, and built like a man who had once been reasonably athletic and had since made his peace with filing cabinets instead. He had a habit, under stress, of straightening things that were already straight - a stapler, a mug, the corner of a report nobody would ever read - as though order in small objects might eventually negotiate order in larger ones. "That's inconvenient," he commented, as if the matter were primarily a filing error. He did not yet know that the joke was the correct diagnosis - and that the email was not a warning so much as Exhibit Zero, delivered early.
 Being confronted with "Apparently I've been murdered" made Derek feel considerably less useful. Being confronted with a Bureau category that did not yet exist made him feel worse.
 Across the empty room, Trevor Boltzman looked up. Trevor was twenty-eight, tall in the specific way that seemed designed to make doorframes personal, with the kind of permanently rumpled sandy hair that suggested he had once owned a comb and lost the argument with it. He was highly intelligent, technically qualified, and possessed of the unfortunate tendency to think about one problem at a time - a trait that made him excellent at mathematics and intermittently disastrous at life. When thinking deeply, he carried himself like a frozen Windows system before reboot. 
-He had a sister, Tabitha, who was generally considered the more dangerous of the two, a fact Trevor mentioned only when cornered, and sometimes not even then. Derek, for his part, had Sophie - twelve, precise, already suspicious of adult explanations - currently at school, which was supposed to be the safest sentence in London. Sophie's mother, Tuppence - a name whose irony Derek had once pointed out, to no discernible improvement in the conversation - had left three years earlier, for a man named Julian who had made an improbable fortune manufacturing clothes hangers and bore, Derek privately maintained, a distracting resemblance to Hugh Grant in his more apologetic period. Derek would later discover, while researching the case, that a physicist named Julian Barbour had written a very respectable book arguing that time itself might not exist - and would discover rather more slowly that this was, in fact, Barbarian's real name, the front-facing one having been adopted for reasons Barbarian described as "professional" and Derek privately filed under "understandable." A third Julian, Derek felt, was pushing coincidence well past its structural limits. She had told him, with the specific clarity she reserved for important announcements, that he did not make enough money for her needs - a diagnosis Derek found difficult to dispute, given that the Bureau's ordinary cases paid terribly and its unusual ones paid worse. When Derek had attempted to point out that the Bureau offered a more relativistic kind of reward, she had considered this for exactly as long as it deserved. "Relativistic, my arse," she said, and was gone by Thursday. Derek had filed the entire matter under Processed - Do Not Reopen, which worked well enough, most days.
-At his desk - beside a glass Klein bottle bought at a maths conference and never quite forgiven for its inability to hold tea - Trevor removed his glasses, a gesture that, in the Bureau, usually preceded either insight or complete bafflement, with no reliable way of telling which in advance. "What?"
+He had a sister, Tabitha, who was generally considered the more dangerous of the two, a fact Trevor mentioned only when cornered, and sometimes not even then. Derek, for his part, had Sophie - twelve, precise, already suspicious of adult explanations - currently at school, which was supposed to be the safest sentence in London. Sophie's mother, Tuppence - a name whose irony Derek had once pointed out, to no discernible improvement in the conversation - had left three years earlier, for a man named Julian who had made an improbable fortune manufacturing clothes hangers. She had told him, with the specific clarity she reserved for important announcements, that he did not make enough money for her needs - a diagnosis Derek found difficult to dispute, given that the Bureau's ordinary cases paid terribly and its unusual ones paid worse. When Derek had attempted to point out that the Bureau offered a more relativistic kind of reward, she had considered this for exactly as long as it deserved. "Relativistic, my arse," she said, and was gone by Thursday. Derek had filed the entire matter under Processed - Do Not Reopen, which worked well enough, most days.
+At his desk, Trevor removed his glasses, a gesture that, in the Bureau, usually preceded either insight or complete bafflement, with no reliable way of telling which in advance. "What?"
 Derek had stopped trying to predict it years ago. "I've been murdered."
 "Recently?"
 "Tomorrow."
@@ -159,8 +159,6 @@ She was also one of those people who always appeared to have been designed speci
 She eyed Derek. "Morning."
 "Morning."
 She put her handbag down. "Why do you look like that?"
-"Like what?"
-"Like you've just discovered the Inland Revenue has found you."
 "I've been murdered."
 Penny paused. "Already?"
 "Apparently."
@@ -267,18 +265,7 @@ Trevor turned back. "So?"
 Derek looked at him. "Trevor, you really must learn to recognise a mystery when it is standing on the table waving its arms."
 Trevor stared at the photograph. "Oh."
 Penny smiled. "There he is."
-Trevor leaned closer. "Hang on."
-"What?"
-"If that's a photograph of tomorrow - "
-"It's not."
-"Right."
-"If it's a photograph taken tomorrow, then why does the clock show eleven-oh-three?"
-Penny replied, "Because that's when Derek dies."
-"But the clock here reads nine-twenty-one."
-"Yes."
-"So, the photograph was taken two hours later."
-"Yes."
-Trevor wore the pleased expression of a man who had just solved something. "That's what I meant."
+Trevor leaned closer. "Hang on. If the clock in the photo reads eleven-oh-three and the clock in this room reads nine-twenty-one, then the photograph was taken two hours later." He wore the pleased expression of a man who had just solved something.
 "No," Penny corrected. "It isn't."
 Trevor's expression collapsed with the quiet dignity of a man who has just watched a carefully constructed theory meet reality and lose. It was a look Derek had come to recognise, and almost respect. "Oh."
 Derek got up and walked to the window. 
@@ -6028,7 +6015,7 @@ The upper panel shows the black-hole clue. The larger horizon has twice the radi
 The lower panel shows the next idea. The bulk is the higher-dimensional interior, described using gravity. The boundary carries a quantum theory that describes the same system without its own dynamical gravity.
 The double arrow means that physical questions can be translated between the descriptions. It is not a beam projecting objects into the interior. The drawn waves suggest field activity; they are not a literal map of individual particles to matching boundary bumps.
 The boundary in this lower panel represents the boundary used in a holographic duality. It should not be confused with the black-hole horizon pictured above. Time is omitted from the drawing.
-It is also not Trevor's Klein bottle, whatever the passing resemblance. His desk ornament has no well-defined inside or outside because of its topology, a fact about the shape of glass and nothing to do with holography. The boundary above has two perfectly ordinary sides; the interesting part is that each side's physics can be translated into the other's.
+It is also not a Klein bottle - the glass novelty object with no well-defined inside or outside, a fact about the shape of glass and nothing to do with holography. The boundary above has two perfectly ordinary sides; the interesting part is that each side's physics can be translated into the other's.
 An example that does some work: holographic duality (often taught under the label AdS/CFT). In plain language: a world with gravity in one description can match a world without gravity in another — same bookkeeping, different nouns. Do not marry the acronym. Keep the idea: two descriptions, one structure.
 In Special Relativity, different observers use different coordinates. In General Relativity, different coordinate systems can describe the same geometry. In holographic duality, dramatically different-looking theories can describe the same physical system.
 That is considerably more useful than saying the universe looks a bit like a hologram. It lets physicists turn a difficult problem into a different problem they may be able to solve. Derek would approve of the method. He would object to being billed for both calculations.
