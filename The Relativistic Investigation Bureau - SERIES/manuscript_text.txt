@@ -72,15 +72,14 @@ The victim was Derek Gent. Derek was alive. He was also the sort of man who noti
 The paperwork predicted his death three days before it was due to occur. Derek therefore did what any sensible investigator would do.
 He checked the date, then the time, then the old clock.
 Then the clock again, because the first check had produced a result he found professionally inconvenient. 11:17. The mysterious clock had stopped.
-Then there was Sherlock, a dolphin who worked remotely as an occasional Bureau consultant and was paid in fish. Nobody had yet found this arrangement stranger than the cases he commented on.
+Somewhere, a dolphin named Sherlock was already thinking about it, which nobody had yet found stranger than the case itself.
 For the same reason, when Derek found a murder notice announcing his own future death, he did not immediately conclude that he was being hunted by a time traveller, a quantum ghost or an unusually vindictive neighbour. 
 The case would eventually force an even less comfortable possibility: that the Bureau's own computer was not merely recording the crime, but mis-filing a future event as one.
 He began with the evidence. 
 A stopped clock.
-A future date. 
-A murder that had not happened. 
-And, eventually, a distant, mysterious train.
-There was only one sensible response. Investigate. 
+A future date.
+A murder that had not happened.
+There was only one sensible response. Investigate.
 Preferably before 11:17. 
 Rule: A murder that has not happened yet is still a filing. Treat the paperwork as evidence.
 -> After Chapter 1, take Lesson 1 - Special Relativity Begins by Being Rude
@@ -344,8 +343,7 @@ The system showed no record of the ancient brass clock.
 No purchase.
 No inventory entry. No photograph. No mention of it.
 Derek searched the building's security footage. Nothing. He checked the office camera.
-At 9:16, the old desk was empty. At 9:17, the old desk was empty. At 9:18, the desk was empty.
-At 9:19, the old desk was empty. At 9:20, the ancient brass clock appeared. Trevor stared. "How?"
+The old desk was empty from 9:16 to 9:19. At 9:20, the ancient brass clock appeared. Trevor stared. "How?"
 Derek replayed it. The clock simply suddenly appeared. There was no hand.
 There was no person and no shadow. One frame showed nothing.
 The next showed the clock. Penny watched Derek. "That's not normal."
@@ -367,17 +365,7 @@ Then it existed again. Trevor's expression deteriorated by degrees.
 "So, how do we know anything is real?"
 Derek met his eyes. "Now you're asking the right question."
 Trevor didn't look reassured. Derek slowly opened another file. "Let's start with the clocks."
-He took the ancient brass clock from the photograph and compared its mechanism with the Bureau's clocks. 
-They were different. He compared the hands.
-Different. He compared the second hand. Identical.
-Seventeen seconds. 
-Derek frowned. Penny noticed.
-"Another problem?"
-"Yes."
-"How many are we up to?"
-"Seven."
-Trevor raised his eyebrows. "Seven?"
-"At least."
+He took the ancient brass clock from the photograph and compared its mechanism, its hands, and its case against the Bureau's own clocks. All different, except the second hand: identical. Seventeen seconds.
 Derek turned the clear photograph upside down. There was a small number written on the back. 1047.
 He reviewed the case database. Case 1047 did not exist. He searched deleted cases.
 Nothing. He searched archived cases. Nothing.
