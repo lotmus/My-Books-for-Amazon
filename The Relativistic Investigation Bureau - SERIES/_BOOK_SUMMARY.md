@@ -44,6 +44,7 @@ Physics is the literal plot engine throughout, not decoration — the mystery's 
 - **LGV** on the mystery clock — red herrings (Local Gravitational Vector, Large Goods Vehicle) before the real answer: *Ligne à Grande Vitesse* (French high-speed rail).
 - **"Virtuality" / Open-Door Principle** — closed office door = occupied ("working hard... or shagging, equally hard"); open door = person elsewhere.
 - **The ordinary cucumber** — Penny's running physics-experiment prop.
+- **Trevor's Klein bottle** — a desk ornament (Ch1), a non-orientable surface with no well-defined inside or outside. Paid off in Lesson 11 as an explicit non-example: it's unrelated topology, not holography — the joke is the contrast, not an equivalence.
 - **Tea-order callback** — "Yes."/"Milk?"/"No."/"Sugar?"/"One.", identical in Ch1 and Epilogue. Derek changes his order to "Two" in Ch1 (pre-death anxiety); does *not* in the Epilogue (at peace). Keep both instances textually identical if either is ever touched.
 
 ## Style rules established this session
