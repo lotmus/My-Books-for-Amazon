@@ -5588,7 +5588,7 @@ On the second day, Trevor stood. "Tea?"
 "Sugar?"
 "One."
 Trevor walked toward the kitchen. Derek did not call after him. One sugar remained one sugar. It was the same order, word for word, as the morning this had all begun - except that morning he'd changed his mind halfway to the door and called out "Two," because a man who thinks he might be dead by lunchtime is entitled to a second sugar. Today he let one stand. Nobody's death was scheduled for tomorrow. It was, Derek reflected, the most ordinary exchange the Bureau had produced in a fortnight, and he intended to enjoy every unremarkable second of it.
-Penny, meanwhile, was planning a holiday, which after the week they'd had she considered less a luxury than a filing requirement. She hadn't told Derek the actual reason, and didn't intend to: since Tuesday she had carried a photograph of his corpse face-down in her own bag, had rehearsed, more than once and in more detail than she'd admit, what she would say to Sophie if the geometry ever stopped cooperating - and she had done all of it standing up, in the office, on schedule, because somebody had to be the one who didn't fall apart while the men argued about reference frames. She wanted Greece specifically because it was as far from a filing cabinet as she could get without actually resigning. Whitewashed houses leaning companionably into blue, a bed and breakfast with a terrace and no view of London whatsoever, retsina she fully intended to pretend to enjoy, and enough grape leaves and olives to constitute a personality. "And technically," she added, showing Weinstein the itinerary with the satisfaction of someone who had done the maths purely to annoy him, "the flight itself will leave me very slightly younger than everyone who stayed home. Not enough to notice. Enough to mention." Weinstein confirmed, with visible reluctance, that this was correct - a few hundred billionths of a second, rewarded for services to velocity - and complained that of all the people in his life to grasp special relativity unprompted, it had to be the one planning to spend a week doing nothing with it. "I'm not doing nothing," Penny said. "I'm doing nothing, faster than you are, which technically counts."
+Penny, meanwhile, was planning a holiday, which after the week they'd had she considered less a luxury than a filing requirement. She hadn't told Derek the actual reason, and didn't intend to: since Tuesday she had carried a photograph of his corpse face-down in her own bag, had rehearsed, more than once and in more detail than she'd admit, what she would say to Sophie if the geometry ever stopped cooperating - and she had done all of it standing up, in the office, on schedule, because somebody had to be the one who didn't fall apart while the men argued about reference frames. She wanted Greece specifically because it was as far from a filing cabinet as she could get without actually resigning: whitewashed houses leaning companionably into blue, a bed and breakfast with a terrace and no view of London whatsoever, retsina she fully intended to pretend to enjoy, and enough grape leaves and olives to constitute a personality. She wanted a terrace with no view of a filing cabinet, and did not particularly care what Weinstein thought about that.
 Trevor noticed, with the weary resignation of a man updating a spreadsheet he had hoped to retire, that Derek's office door had started closing rather more often than the paperwork strictly required. The evidence sat outside it: a small dog, patient as a filed report, waiting on the corridor carpet. "Gucci's here again," he told Penny, in the tone of a man logging an observation rather than announcing a discovery. Penny didn't look up from her itinerary. "Door open or closed?" "Closed." "Then you know the rule." Trevor knew the rule. Derek had written it. He did not knock, did not call out, and did not stand in the corridor shouting anyone's name, on the grounds that the Bureau had tried all three before and none of them had ever once worked. He did, however, resolve to buy the dog a proper bed, on the grounds that even a voluntary stakeout deserved better furniture.
 One small matter had, admittedly, never been resolved. The initials on the clock - LGV - turned out, when Penny finally thought to ask a Frenchman, to mean nothing more mysterious than Ligne à Grande Vitesse: the stamp of an ordinary French high-speed railway line, most likely off a piece of decommissioned rolling stock. Penny was smug about it in person, at length, over the phone to Munich. She had, after all, guessed "a railway designation" within the first five minutes; Trevor had guessed Local Gravitational Vector, and nobody had let him forget it. "A railway designation," Weinstein repeated, with the particular weariness of a man who had built an entire theoretical framework around three letters that turned out to mean nothing more than fast train. "That's it. That's the whole geometry." "That's it," Penny agreed, not unkindly. Trevor, overhearing, announced that he stood by Local Gravitational Vector as the more interesting answer, correctness notwithstanding, and nobody had the heart to argue with him twice in one week.
 He filed actual, ordinary cases under actual, ordinary categories, and none of them concerned him personally. Sophie texted twice about nothing in particular, which he had learned to recognise as the highest compliment she had available. Penny stopped watching him sideways when she thought he wasn't looking. He allowed himself, cautiously, to believe it might simply be over.
@@ -5601,51 +5601,9 @@ Sophie considered this with the weary patience of a twelve-year-old whose father
 "That's not a real sentence."
 "It's a real sentence. It's just doing several jobs at once." The doors opened onto Ladies' Footwear. Derek stepped out first, mostly to confirm the floor was still there.
 Trevor took to walking home through Holland Park after dark, on the theory - unproven, and never to be tested again - that a man who had personally witnessed the collapse of simultaneity ought to be able to handle an unlit footpath in Notting Hill. Somewhere near the bandstand, a stranger on a bicycle whistled at him and pedalled off before Trevor could construct a suitable retort. By the time the reply arrived, fully formed and reasonably witty, the stranger had already left whatever light cone might have delivered it to him - which Trevor decided, generously, made it a problem of physics rather than wit. He settled, a full block later, for muttering it to the empty park instead. "I'm flattered, obviously," he informed a duck, "and also extremely cold." The duck did not dignify this with a response, which Trevor felt was probably fair.
-Three days later, he was standing in the Bureau when the brass clock appeared on his desk.
-Penny gazed at the clock.
-Neither of them reached for a notebook. After the week they'd had, some things no longer needed writing down. They had simply become family shorthand - the kind their grandmother would have recognised, and approved of, in her own alarming way.
-Trevor looked under the old desk, apparently on the theory that a strange clock capable of appearing on a desk might also be capable of appearing underneath it.
-Weinstein looked at nobody. He was staring at a sheet of paper.
-It had not been there a moment earlier. At the top was the familiar heading:
-RELATIVISTIC INVESTIGATION BUREAU.
-Underneath it were written four words:
-CASE STATUS: NOT YET OCCURRED.
-Derek frowned. Below the heading was a date. Tomorrow.
-Below the date was a location.
-A railway station that did not exist.
-Below the location was a final line.
-DO NOT ALLOW DEREK GENT TO
-BOARD THE MYSTERIOUS TRAIN.
-There was a long silence. Trevor eventually looked up. "That seems quite specific."
-Penny nodded. "Yes."
-Derek picked up the paper. On the back was another strange message.
-PLEASE NOTE: THE PREVIOUS WARNING WAS SENT TOO LATE.
-Derek turned the page over again. Nothing. Then the quiet office door opened.
-No one was standing there. Beyond the doorway was a railway platform. There had never been a railway platform there.
-A distant train waited in the darkness. Its destination board displayed one word.
-YESTERDAY.
-Penny smiled. It was not a reassuring smile.
-"Well," she observed, "that saves us the trouble of finding the station. The ship has left the barn, apparently."
-Derek looked at the mysterious train.
-Then at the warning. He put the paper in his pocket. "Nobody boards that train."
-From somewhere inside the carriage came three soft knocks.
-Knock. Knock. Knock.
-A voice followed. "Derek?"
-Derek went very still. It was his own voice—but not his present voice. This was Derek from somewhere later, somewhere he had already learned something. "Yes?"
-The voice from the mysterious train said slowly, "Whatever you do, do not open the door. You already know what's inside."
-Derek stared at the carriage door.
-Penny stared at Derek.
-Trevor whispered something about taking up accounting.
-And somewhere, far beyond the cold platform, Sherlock the dolphin began thinking about relations rather than tensors - which was, on balance, an improvement.
-The universe continued expanding.
-The train continued waiting.
-Derek Gent, who had spent an entire book trying to discover what had happened, was finally confronted with the much more dangerous question:
-What happens next?
-Unfortunately, the universe had already filed the answer. It was marked: 
-ALLEGEDLY.
-To be continued.
-Rule: Do not board the train marked YESTERDAY. Some warnings arrive too late because Derek already has. 
-The case is not closed—it is pending in a station where he has already arrived.
+Three days later, the brass clock reappeared on Derek's desk, exactly as before, exactly on time by nobody's clock but its own. Nobody reached for a notebook. After the week they'd had, some things no longer needed writing down; they had simply become family shorthand - the kind their grandmother would have recognised, and approved of, in her own alarming way. Derek looked at the clock for a while. Then he did not open a file. He put the kettle on instead.
+That evening Sophie rang about nothing in particular, which he had learned to recognise as the highest compliment she had available. The next morning, Trevor asked if he wanted tea. "One sugar," Derek said, and meant it, and did not change his mind.
+Rule: Pending Geometry is the correct drawer. Some cases end not with an arrest, but with a kettle.
 -> If you skipped the course: Lesson 16 - Capstone: The Clock Was Lying, Precisely
 COURSE
 Spacetime for Investigators
@@ -6235,6 +6193,22 @@ I'd be rather less pleased, though, if this book managed to make you think, *Now
 Anyway, kudos to everyone who read an early version of this manuscript and did not, in fact, ask for their afternoon back. Their forbearance was noted and is filed under Pending Gratitude.
 And to you, the reader, thanks for making it this far without once asking the Bureau for a refund. The Bureau appreciates this more than its paperwork will admit.
 Coming Next in the Relativistic Investigation Bureau Series
+Weinstein was staring at a sheet of paper. It had not been there a moment earlier. At the top was the familiar heading:
+RELATIVISTIC INVESTIGATION BUREAU.
+Underneath it were written four words:
+CASE STATUS: NOT YET OCCURRED.
+Below the heading was a date. Tomorrow. Below the date was a location - a railway station that did not exist. Below the location was a final line.
+DO NOT ALLOW DEREK GENT TO
+BOARD THE MYSTERIOUS TRAIN.
+On the back was another strange message.
+PLEASE NOTE: THE PREVIOUS WARNING WAS SENT TOO LATE.
+Then the quiet office door opened. No one was standing there. Beyond the doorway was a railway platform. There had never been a railway platform there. A distant train waited in the darkness. Its destination board displayed one word.
+YESTERDAY.
+"Well," Penny observed, "that saves us the trouble of finding the station. The ship has left the barn, apparently."
+Derek put the paper in his pocket. "Nobody boards that train."
+From somewhere inside the carriage came three soft knocks. A voice followed. "Derek?"
+It was his own voice - but not his present voice. This was Derek from somewhere later, somewhere he had already learned something.
+"Whatever you do," the voice from the mysterious train said slowly, "do not open the door. You already know what's inside."
 The clocks have stopped agreeing again. Somewhere beneath London, a train that should not exist is running to a timetable nobody has written yet, and Derek Gent has just received a case file dated tomorrow, from a sender who has not been born.
 Herbert Matkowski calls it a coordinate problem. 
 Alfred Weinstein calls it interesting. 
