@@ -2691,7 +2691,10 @@ Derek waited, then frowned in an entirely different direction. "Is that the same
 Weinstein exhaled with the particular patience of a man who had, at this point, budgeted for detours. "That is a different metric."
 "Is it a metric tensor or a system of measurement, though? Genuinely. Because both of you keep saying 'the metric' as though the other one doesn't exist, and one of you invented inches."
 "They are unrelated by every definition except the word."
-"That seems like exactly the kind of coincidence this case has taught me not to trust."
+"That seems like exactly the kind of coincidence this case has taught me not to trust." Derek was not finished. "And another thing. Three-eighths of an inch. Everybody knows what that is. You can see it. You can practically feel it. Say 'nought point three-seven-five' to a carpenter and watch him age badly in real time."
+"Three-eighths is not more precise. It is merely more familiar to you."
+"It's easier, Herbert. There's a difference. The metric system is correct. Fractions are comfortable. This case has spent a year teaching me that being correct and being comfortable are not the same axis, and frankly I resent how well that generalises."
+Weinstein said nothing for a moment, which from Weinstein counted as a concession.
 Derek waited.
 Weinstein continued, "The temporal coordinate doesn't behave like an ordinary spatial coordinate. The sign is different."
 Derek nodded. "Lorentzian geometry."
