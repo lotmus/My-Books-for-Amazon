@@ -59,4 +59,4 @@ Physics is the literal plot engine throughout, not decoration — the mystery's 
 
 ## Known-clean state (as of 2026-09-24)
 
-Structural integrity fully verified: 0 duplicate paragraphs, 0 dead cross-reference links, 0 dangling bookmarks, 17/17 images connected, all 49 headlines uniformly styled. Full read-through done on both the novel and the appendix. Check `git log` for the detailed history before assuming any of this needs redoing.
+Structural integrity fully verified: 0 duplicate paragraphs, 0 dead cross-reference links, 0 dangling bookmarks, 17/17 images connected, all 49 headlines uniformly styled. Two full read-throughs done on both the novel and the appendix (the second combined with a systematic said-synonym audit), catching ~19 line-level defects the first pass missed: paragraphs missing their quote marks entirely, a couple of genuinely garbled/merged sentences, a duplicated line, a dangling sentence fragment, an Americanized/lowercase "earth", and 2 more dialogue-tag repeats within a single exchange. Check `git log` for the detailed history before assuming any of this needs redoing.
