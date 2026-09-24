@@ -1544,7 +1544,7 @@ Trevor considered this. "Could be worse."
 Penny nodded. "Fair point."
 Derek pressed the bell. Nothing happened. He pressed it again.
 Still nothing. He pressed it a third time. The door quietly opened.
-A man stood there. Julius Barbarian was in his late sixties, perhaps early seventies. 
+A man stood there. Julius Barbarian was in his late sixties, perhaps early seventies. Derek would later discover that this was not his real name - his real name was Julian Barbour, a physicist who had written a very respectable book arguing that time itself might not exist - and would reflect, briefly and with some irritation, that this made a third Julian in his life, which was pushing coincidence well past its structural limits.
 He was slim, silver-haired, and dressed in a dark jacket, open-necked shirt and rather expensive-looking trousers that had nevertheless acquired a small stain of something orange. He looked at Derek.
 Then Penny. Then Trevor. Then the silent clock.
 "You're late."
@@ -4638,6 +4638,8 @@ Derek began walking.
 Penny followed. Trevor followed Penny. The cucumber came too.
 The idea was not Derek's.
 Back at the Bureau he put the cucumber on the desk beside Case 1047 and said nothing for ten seconds. Other-Derek had held one too. Matching props. Matching timestamps. Trevor opened his mouth to theorise. Penny pointed at the vegetable. "Evidence first."
+Trevor reached past a glass Klein bottle - bought at a maths conference, and never quite forgiven for its inability to hold tea - and picked up the cucumber instead. "Isn't this basically my bottle? No inside, no outside?"
+"No," Derek said. "Yours is a joke about topology. This is a joke about description. Don't let the glassware confuse you."
 Trevor wearily sat down. "That's not your idea."
 "I know."
 "Who proposed it?"
@@ -5929,7 +5931,7 @@ The upper panel shows the black-hole clue. The larger horizon has twice the radi
 The lower panel shows the next idea. The bulk is the higher-dimensional interior, described using gravity. The boundary carries a quantum theory that describes the same system without its own dynamical gravity.
 The double arrow means that physical questions can be translated between the descriptions. It is not a beam projecting objects into the interior. The drawn waves suggest field activity; they are not a literal map of individual particles to matching boundary bumps.
 The boundary in this lower panel represents the boundary used in a holographic duality. It should not be confused with the black-hole horizon pictured above. Time is omitted from the drawing.
-It is also not a Klein bottle - the glass novelty object with no well-defined inside or outside, a fact about the shape of glass and nothing to do with holography. The boundary above has two perfectly ordinary sides; the interesting part is that each side's physics can be translated into the other's.
+It is also not Trevor's Klein bottle, whatever the passing resemblance. His desk ornament has no well-defined inside or outside because of its topology, a fact about the shape of glass and nothing to do with holography. The boundary above has two perfectly ordinary sides; the interesting part is that each side's physics can be translated into the other's.
 An example that does some work: holographic duality (often taught under the label AdS/CFT). In plain language: a world with gravity in one description can match a world without gravity in another — same bookkeeping, different nouns. Do not marry the acronym. Keep the idea: two descriptions, one structure.
 In Special Relativity, different observers use different coordinates. In General Relativity, different coordinate systems can describe the same geometry. In holographic duality, dramatically different-looking theories can describe the same physical system.
 That is considerably more useful than saying the universe looks a bit like a hologram. It lets physicists turn a difficult problem into a different problem they may be able to solve. Derek would approve of the method. He would object to being billed for both calculations.
