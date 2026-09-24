@@ -14,7 +14,7 @@ A separate copy exists under `WORD/` (originally `D:\...\WORD`, its own independ
 
 - Front matter → PROLOGUE → 16 Chapters (fiction) → EPILOGUE
 - APPENDIX: 16 Lessons (nonfiction physics course), each paired 1:1 with a fiction chapter via cross-reference links (`-> Lesson for this chapter: N` / `<- Chapter for this lesson: N`)
-- Back matter: SUMMARY, Glossary, About the Author, Further Reading, Acknowledgements, Bibliography (8 real, verified books — never fabricate citations)
+- Back matter: SUMMARY, Glossary, About the Author, Further Reading, Acknowledgements, Bibliography (9 real, verified books — never fabricate citations). Covers SR/GR/time broadly plus one book per major detour topic (Barbour for relational time, Susskind's *The Black Hole War* for Lesson 11's holography/black-hole-entropy content).
 - Companion interactive physics demo site in `demos/` (SR/GR/cosmology), meant for GitHub Pages from the repo root
 
 ## Plot (Case 1047)
