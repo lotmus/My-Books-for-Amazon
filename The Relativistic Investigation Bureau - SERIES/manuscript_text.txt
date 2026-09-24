@@ -2695,7 +2695,7 @@ Rule: Drop something. Watch the path. Name the geometry only after it embarrasse
 Chapter 7 - The Fourth Coordinate
 For several seconds nobody offered anything. The room beneath the Louvre was small, stone-walled and entirely too quiet. There was a table.
 There was a clock. There were four people. And there was a piece of paper asking them for a value of τ.
-Derek allowed himself a brief, private observation: this was becoming a pattern. A city, a clock, a number that refused to add up. He kept the observation to himself, mostly because Trevor would have agreed, and agreement on that particular point was unlikely to help anyone. What was new, this time, was the rate. In Munich the discrepancy had grown by roughly a seventeenth of a second per hour. Here, beneath the Louvre, it was growing by nearly a full second. Whatever was causing this, it was not slowing down.
+What was new, this time, was the rate. In Munich the discrepancy had grown by roughly a seventeenth of a second per hour. Here, beneath the Louvre, it was growing by nearly a full second. Whatever was causing this, it was not slowing down.
 Trevor was the first to speak.
 "That's proper time."
 Weinstein nodded. "Yes."
@@ -3357,35 +3357,10 @@ Chapter 8 - The Cold Rain
 Derek Gent had been given a difficult assignment. He was to investigate the London Underground on rainy days.
 This was not, in itself, unusual. The London Underground was already difficult on most days. On rainy days it became something else entirely.
 People arrived wet, irritated and vaguely convinced that the entire transport system had been personally designed to inconvenience them. Trains became late. Platforms became slippery. Umbrellas became weapons. Shoes acquired the consistency of soup. Derek had been instructed to find out whether anything in the Underground, specifically on rainy days, could prevent Special Relativity and General Relativity from both being true at the same time.
-He had read the instruction three times. Then he had called Weinstein, "Alfred."
-"Yes?"
-"Are you aware that you've sent me to investigate the London Underground?"
-"Yes."
-"On rainy days."
-"Yes."
-"To determine whether it contains something that makes Special Relativity and General Relativity mutually incompatible."
-"Yes."
-Derek paused. "Fine. Next problem."
-"Good."
-"One question."
-"Yes?"
-"Why?"
-Weinstein had been silent for several seconds.
-Then he had queried:
-"Because time doesn't exist."
-Derek had waited.
-"That's your explanation?"
-"Not quite."
-"What is the rest?"
-Weinstein had wearily sighed. "I'm beginning to suspect that time is a bookkeeping device."
-"Like accounting?"
-"Exactly."
+He had read the instruction three times. Then he had called Weinstein. "Alfred. You've sent me to investigate the London Underground on rainy days, to determine whether it contains something that makes Special Relativity and General Relativity mutually incompatible. Why?"
+Weinstein had been silent for several seconds. "Because time doesn't exist. Or rather - I'm beginning to suspect it's a bookkeeping device. Like accounting."
 "That sounds dangerous."
-"It is."
-"And the Underground?"
-"Also dangerous."
-Derek had considered this. "Anything else?"
-"Rain."
+"It is. So is the Underground. And it's raining."
 "Right."
 Derek did not own a car and had never held a driving licence, a fact he attributed to a childhood theory instructor who had failed him twice on grounds of "excessive philosophical hesitation at junctions," and which he now regarded, on balance, as a mercy - a man who spent his working life arguing about whose version of "now" was correct had no business also being asked, at speed, to agree with other drivers about it. The Underground, whatever its opinion of causality, at least ran on rails that had already made up their mind.
 And that was how, at 4:18 on a wet Thursday afternoon, Derek Gent found himself standing on a London Underground platform with a notebook in one pocket, a train ticket in the other, and an increasingly damp left shoe. He looked up at the distant station sign. 
@@ -3661,14 +3636,7 @@ It did not appear in the employee handbook.
 There was, in fact, no employee handbook, largely because Derek considered employee handbooks "a form of administrative poetry."
 Nevertheless, everyone knew the rule. Open door: virtuality. It had been comedy until Sophie appeared in a doorway that was not theirs. Now an open door was a missing-person report that had not admitted it yet. Derek stopped treating empty offices as jokes.
 Penny considered this. "That's the sort of rule that sounds sensible until it starts wearing a hat."
-There was no point knocking. 
-There was no point calling. 
-There was no point standing in the doorway shouting someone's name.
-An open old office door meant the person was missing in a way paperwork refused to admit.
-They might be in another room. 
-They might be in London.
-They might be in Munich. 
-The Bureau had learned not to worry. If the door was quietly closed, however, the situation was entirely different. 
+There was no point knocking, calling, or standing in the doorway shouting someone's name. An open old office door meant the person was missing in a way paperwork refused to admit - in another room, in London, in Munich, nobody knew. The Bureau had learned not to worry. If the door was quietly closed, however, the situation was entirely different. 
 Then the person was in there.
 Obviously. They were either working hard... or shagging, equally hard.
 There was no third possibility worth discussing. 
