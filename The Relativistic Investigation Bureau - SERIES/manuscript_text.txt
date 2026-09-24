@@ -1172,7 +1172,7 @@ He stared at it. The patent attorney stopped speaking. "Herr Weinstein?"
 "Are you following me?"
 "Absolutely."
 "What did I just say?"
-Weinstein eyed the patent. Then at the attorney. Then at his pencil.
+Weinstein's attention drifted from the patent to the attorney to his own pencil.
 "You were explaining the regulator."
 "Yes."
 "And the spring."
@@ -1188,7 +1188,7 @@ The attorney blinked. "Doesn't it?"
 Weinstein turned the paper around and pointed to a line. "This coefficient changes with temperature."
 The attorney leaned over the desk. "Good heavens."
 Weinstein shrugged. "Well, there we are."
-He returned to his mysterious clock. The patent attorney studied the amended diagram. Then at Weinstein.
+He returned to his mysterious clock. The patent attorney studied the amended diagram, then Weinstein himself.
 "You've been listening after all."
 "Occasionally."
 The attorney smiled. "I suppose I should be grateful."
@@ -3468,8 +3468,7 @@ The entire station was a small laboratory of relative motion. He smiled. "Specia
 A man beside him looked over.
 Derek pretended he had said something else.
 At the bottom, he walked toward the platform. Then he stopped. There was a puddle.
-A large one. It had formed where rainwater had been carried down by passengers. Derek studied it.
-Then at the moving escalator. Then at the rails. Then at the tunnel.
+A large one. It had formed where rainwater had been carried down by passengers. Derek studied it, then the moving escalator, the rails, the tunnel.
 "Case question only," Derek said. "Does the rainy Underground make SR and GR incompatible, or only our stitching of frames? Answer that and we know whether to board."
 Trains. Platforms. Escalators.
 Ventilation systems. Water droplets. Everything moved relative to everything else.
@@ -4562,8 +4561,7 @@ He stood. Penny smiled. "You're coming?"
 Trevor's eyebrows rose.
 "Just like that?"
 Derek shrugged. "It's interesting."
-They went outside. The cold rain had become heavier. Derek looked at the street.
-Then at the laboratory. Then at the ordinary cucumber.
+They went outside. The cold rain had become heavier. Derek looked at the street, the laboratory, the ordinary cucumber.
 "Bring it."
 Penny held it up. "Seriously?"
 "Absolutely."
@@ -4641,8 +4639,7 @@ This was proving difficult. The other Derek lifted the ordinary cucumber again. 
 Penny regarded him carefully. "Why have you got a cucumber?"
 "I haven't."
 She held hers up. "No. You have."
-Derek glanced down. He was holding a cucumber. He stared at it.
-Then at Penny. Then at the other Derek. For a moment the joke didn't arrive on schedule.
+Derek glanced down. He was holding a cucumber. He stared at it, then Penny, then the other Derek. For a moment the joke didn't arrive on schedule.
 "Ah."
 Trevor sighed. "That clears everything up."
 The other Derek smiled. Then the train doors closed. The train departed.
