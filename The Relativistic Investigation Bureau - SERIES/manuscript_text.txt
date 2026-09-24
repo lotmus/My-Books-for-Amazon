@@ -2085,22 +2085,9 @@ And, according to the timetable, it had never existed at all.
 Rule: Mislaid time is still someone's proper time. Find whose.
 -> Lesson for this chapter: 5 - The Apple
 Chapter 6 - The Apple Problem
-Alfred Weinstein had never entirely trusted apples. This was not because of any defect in the fruit. Apples were perfectly respectable.
-They were roundish, nutritious, reasonably portable and, unlike pears, rarely gave the impression that they were about to collapse under their own moral burden. His distrust concerned their reputation. For centuries, apples had been given far too much credit.
-One particular red apple, in particular, had been blamed for an astonishing amount of physics. Weinstein was thinking about it on the mysterious train.
-He was on his way back to Munich after the meeting with Julius Barbarian, although "on his way back" was perhaps an unnecessarily confident description of the situation.
-The mysterious train had stopped. It had stopped between two stations. Nobody seemed particularly concerned.
-The conductor had announced that there was a "minor delay due to circumstances."
-Weinstein had spent enough time on trains to know that "circumstances" meant absolutely anything.
-He sat by the window. Across from him, a woman was reading a novel. Beside her, a man was asleep.
-Two rows ahead, a child was eating an apple. Weinstein watched the child. The child took a bite.
-Then another. Then, apparently deciding that the apple had become philosophically unacceptable, dropped it. It fell to the floor.
-Weinstein intently watched it. The apple rolled beneath the seat. He stared at the space where it had disappeared.
-Then he smiled. Newton. He thought of Newton's famous ordinary apple.
-The story was almost certainly too neat. Science rarely arrived with such excellent stage management. One could imagine the scene.
-Newton sits under a tree. An apple falls. Newton looks at it.
-Newton thinks about gravity. Physics is transformed. It was a charming story.
-It was also misleading.
+Alfred Weinstein had never entirely trusted apples. This was not because of any defect in the fruit - apples were perfectly respectable, if badly overcredited: one particular red apple had been blamed for an astonishing amount of physics, and Weinstein was thinking about it on the mysterious train.
+He was on his way back to Munich after the meeting with Julius Barbarian, although "on his way back" was perhaps an unnecessarily confident description of the situation. The train had stopped between two stations, for "circumstances" - a word Weinstein had learned, from long experience, meant absolutely anything.
+Two rows ahead, a child dropped an apple. It rolled beneath the seat. Weinstein watched the space where it had disappeared, and thought of Newton's tidy, over-managed story about a tree - charming, and almost certainly misleading.
 The apple had not explained gravity. It had offered Weinstein a decision: treat falling bodies as geometry probes, or keep inventing forces until the Bureau's clocks looked polite.
 It had merely demonstrated that something fell. The really interesting question was why. Weinstein leaned back.
 Why did the apple fall? Everyone knew the answer. Gravity.
@@ -2114,14 +2101,7 @@ Weinstein wearily sighed.
 He looked out the window. Nothing. Then, very suddenly, he had an idea.
 It was not a complete idea. It was not even a particularly respectable idea. It was the sort of idea that arrived without knocking, sat down in the middle of one's mind and refused to explain why it was there.
 Weinstein sat upright. The ordinary apple. Not the falling.
-The falling together. He took out his notebook. He drew the Earth.
-Then the apple. Then an arrow. He stopped.
-Crossed it out. Drew the Earth. Then the apple.
-Then two arrows. One pointing from the apple toward the Earth. One pointing from the Earth toward the apple.
-He stared at them. "Of course."
-The woman across the aisle looked up. Weinstein noticed.
-"Sorry."
-She returned to her book. He continued. Newton's description had made it natural to think of the Earth as pulling the apple.
+The falling together. He took out his notebook and drew the Earth, then the apple, then two arrows - one pointing from the apple toward the Earth, one pointing from the Earth toward the apple. He stared at them. "Of course." Newton's description had made it natural to think of the Earth as pulling the apple.
 He tried a third drop. The pencil hit. The office mug slid three centimetres left by itself. Weinstein wrote: PROBES DISAGREE. Then, smaller: Sophie's doorway is also a probe. Do not forget.
 The Earth moved too. Tiny amount. Almost impossibly tiny.
 But not zero. Weinstein wrote:
@@ -2137,9 +2117,7 @@ And the tree was preventing it from doing so.
 Weinstein stopped. He considered the words.
 The tree was preventing the simple apple from following its natural path. 
 He smiled. "That's rather good."
-The woman looked up again. This time she decided not to ask. Weinstein turned the page.
-He drew a tree. Then the apple. Then the ground.
-Then he drew the same apple in a lift. He imagined the lift accelerating upward in empty space. The apple would appear to fall.
+Weinstein turned the page and drew a tree, the apple, the ground - then the same apple in a lift. He imagined the lift accelerating upward in empty space. The apple would appear to fall.
 Yet there would be no gravitational field. Then he imagined the lift sitting on Earth. 
 The apple would fall again.
 He closed the notebook before it could become a lecture.
@@ -2234,25 +2212,8 @@ Weinstein smiled. "Yes."
 Derek said: "But that's not the question."
 "No."
 "What is?"
-Weinstein looked out of the window for a while, watching a bus fail to arrive on schedule. "The apple and the Earth are both moving," he continued.
-Derek nodded. "Yes."
-"The apple moves toward the Earth."
-"Yes."
-"The Earth moves toward the apple."
-"Yes."
-"Why?"
-Derek paused. Penny watched him.
-Derek stated: "Because of their mutual gravitational interaction."
-Weinstein remained silent.
-"That's the Newtonian answer." Derek continued. "But you want the General Relativistic answer."
-"Yes."
-Derek leaned back. "The geometry."
-"Yes."
-"The stress-energy determines the geometry."
-"Yes."
-"And the geometry determines the geodesics."
-"Yes," confirmed Weinstein.
-"The apple follows the geodesic."
+Weinstein looked out of the window for a while, watching a bus fail to arrive on schedule. "The apple and the Earth are both moving toward each other. Why?"
+"Their mutual gravitational interaction," Derek said. "That's the Newtonian answer. You want the geometry - stress-energy determines it, the geometry determines the geodesics, the apple follows the geodesic."
 "Yes."
 Derek paused. "There we are, then."
 Weinstein laughed. "No."
@@ -2261,8 +2222,7 @@ Derek smiled. "You've just agreed to everything."
 "Then what isn't settled?"
 Weinstein consulted his notebook. "The apple."
 Penny leaned toward the phone. "What about it?"
-"Why that apple?" Derek said with a frown, and reached for the ordinary cucumber without quite noticing he had done it.
-"Why that particular apple?"
+"Why that apple?" Derek said with a frown. "Why that particular apple?"
 "Yes."
 "Why does it matter which apple?", Weinstein emphasized.
 "That's what I don't know."
@@ -2515,65 +2475,14 @@ When Penny had asked him what, Derek had replied:
 "That's what I'm trying to find out."
 So when Weinstein learned that Derek had abruptly travelled to Paris and gone to the Louvre, he did not waste much time wondering whether Derek had developed an appreciation for Leonardo. He assumed Derek had found something. And knowing Derek, it would be something weird.
 Very weird. 
-Weinstein was standing beside the Seine when the thought about the red apple returned. He watched the river.
-Water slowly moved continuously beneath the bridges.
-Yet there was no obvious thing called "the flow of time" visible anywhere.
-There was only change. Water here. Water there.
-A boat here. A boat there. A person crossing a bridge.
-A person no longer crossing it. Weinstein frowned. Barbarian's argument was irritating precisely because it was difficult to dismiss.
-Time might not be a thing. It might be a way of describing relationships between things. That was not particularly controversial when expressed carefully.
-Physics already did something similar. Position was not a substance. Velocity was not a substance.
-Temperature was not a fluid. They were descriptions of physical relationships. Perhaps time was another.
-But General Relativity complicated the matter. There was spacetime. Four coordinates.
-Three spatial. One temporal. The metric.
-Curvature. Worldlines. Proper time. Geodesics.
-Weinstein stopped walking. He had been thinking about the apple as though it were following a line. But what if an event wasn't really a line?
-What if an event was something with structure? He considered the river. An ordinary apple falling from a tree was not merely a point moving through time. It had a history, a path, and a geometry.
-Here. Then here.
-It was a collection of positions and relationships. At every point, there was a location in space. And there was a temporal coordinate.
-He took out his notebook. 
-He drew three axes:
-x,y,z
-Then, beside them, he wrote:
-t
-He stared at it. Then crossed out
-t
-Underneath, he wrote: 
-τ
-Proper time.
-He leaned in again.
-Then he added: Was time something imaginary - not just an imaginary number in the equations?
-Sure, imaginary time was useful mathematics. It could make certain calculations beautifully behaved. But that did not mean the universe literally contained an imaginary fourth direction.
-He immediately frowned. "No."
-That was too careless.
-He rotated the time coordinate into the imaginary axis, switching from real time to imaginary time so the equations became Euclidean. It was just the usual mathematical transformation.
-It did not mean clocks suddenly ran through the complex numbers. 
-Weinstein smiled. "Not yet, anyway."
-He quietly closed the notebook. Then opened it again. There was something about the four-dimensional description that bothered him.
-Not the mathematics. The interpretation. 
-If an event was specified by three spatial coordinates and one temporal coordinate, then a complete event was a point in spacetime.
-Fine. 
-But the apple did not experience the whole spacetime diagram. The apple experienced its own worldline.
-A sequence of events. Except Barbarian would object to the word sequence. Because sequence implied time.
-Weinstein frowned at the Seine. The apple's path was already finished on the page. Asking where it was "going" suddenly sounded like asking a railway timetable which passenger was guilty.
-A curve. All at once. 
-He stopped again.
-That was uncomfortable.
-He closed the notebook. If Case 1047 was a finished curve wearing a murder label, then chasing a killer was walking the curve. He thought of Sophie in the doorway and stopped walking for a full minute - which, on his watch, lasted fifty-nine seconds, and on the brass clock lasted none.
-The red apple did not need to know about the future. 
-The geometry did. Weinstein raised his eyes.
-The Eiffel Tower was visible in the distance. He ignored it. This was more interesting.
-Suppose the universe could be represented as a four-dimensional structure in a more literal sense than in just mathematics.
-Then "past", "present" and "future" might be properties of how an observer experienced different parts of that structure.
-Not necessarily ingredients of the structure itself. He wrote:
+Weinstein was standing beside the Seine when the thought about the red apple returned. Water moved continuously beneath the bridges, yet there was no obvious thing called "the flow of time" visible anywhere - only change. A boat here, then there. Barbarian's argument was irritating precisely because it was difficult to dismiss: time might not be a thing at all, merely a way of describing relationships between things, no stranger a claim than saying position or velocity isn't a substance either.
+Weinstein stopped walking. He had been thinking about the apple as though it were following a line. But what if an event wasn't a line - what if it was something with structure? An ordinary apple falling from a tree wasn't merely a point moving through time. It had a history, a path, a geometry, all at once.
+He took out his notebook, drew three axes, then crossed out the ordinary t for time and wrote τ instead. Proper time. But the apple did not experience the whole spacetime diagram - only its own worldline. A sequence of events, except Barbarian would object even to the word sequence, since sequence implied time. The apple's path was already finished on the page. Asking where it was "going" suddenly sounded like asking a railway timetable which passenger was guilty.
+He closed the notebook. If Case 1047 was a finished curve wearing a murder label, then chasing a killer was walking the curve. He thought of Sophie in the doorway and stopped walking for a full minute - which, on his watch, lasted fifty-nine seconds, and on the brass clock lasted none. The red apple did not need to know about the future. The geometry did.
+He wrote:
 THE EVENT DOES NOT HAPPEN IN TIME.
-He paused.
-Then added:
 THE EVENT IS IN SPACETIME.
-He stared at the sentence. That was better. Much better.
-And suddenly he understood why the clocks in London and Munich were so troubling. 
-They might not be disagreeing about time. They might be sampling different geometrical relationships.
-The clocks were innocent. The geometry was not. 
+He stared at the sentence. That was better. Much better. And suddenly he understood why the clocks in London and Munich were so troubling. They might not be disagreeing about time. They might be sampling different geometrical relationships. The clocks were innocent. The geometry was not.
 Weinstein put the notebook away.
 Then his phone rang. It was Derek.
 Weinstein answered, "Where are you?"
@@ -2729,21 +2638,10 @@ Derek smiled. "Precisely."
 "What?"
 Derek pointed toward the gallery. "That man."
 A security guard stood near the doorway. Weinstein looked. "Yes?"
-"He walked past us three times."
-"So?"
-"He walked past us three times without ever appearing in the same place twice."
+"He's walked past us three times without ever appearing in the same place twice."
 Weinstein frowned. "That's normal."
-"No."
-"Why?"
-"Because the Louvre corridor is a straight line."
-Weinstein looked. It was. Derek continued, "I watched him."
-"So?"
-"He passed us."
-"Yes."
-"Then he passed us again."
-"Yes."
-"Then again."
-"Yes."
+"Not in a straight corridor, it isn't."
+Weinstein looked. It was.
 "And each time he was carrying a different newspaper."
 Weinstein stared. "That's odd."
 "Very."
