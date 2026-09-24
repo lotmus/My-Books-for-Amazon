@@ -72,13 +72,14 @@ The victim was Derek Gent. Derek was alive. He was also the sort of man who noti
 The paperwork predicted his death three days before it was due to occur. Derek therefore did what any sensible investigator would do.
 He checked the date, then the time, then the old clock.
 Then the clock again, because the first check had produced a result he found professionally inconvenient. 11:17. The mysterious clock had stopped.
-Somewhere, a dolphin named Sherlock was already thinking about it, which nobody had yet found stranger than the case itself.
+Then there was Sherlock, a dolphin who worked remotely as an occasional Bureau consultant and was paid in fish. Nobody had yet found this arrangement stranger than the cases he commented on.
 For the same reason, when Derek found a murder notice announcing his own future death, he did not immediately conclude that he was being hunted by a time traveller, a quantum ghost or an unusually vindictive neighbour. 
 The case would eventually force an even less comfortable possibility: that the Bureau's own computer was not merely recording the crime, but mis-filing a future event as one.
 He began with the evidence. 
 A stopped clock.
 A future date.
 A murder that had not happened.
+And, eventually, a distant, mysterious train.
 There was only one sensible response. Investigate.
 Preferably before 11:17. 
 Rule: A murder that has not happened yet is still a filing. Treat the paperwork as evidence.
@@ -159,6 +160,8 @@ She was also one of those people who always appeared to have been designed speci
 She eyed Derek. "Morning."
 "Morning."
 She put her handbag down. "Why do you look like that?"
+"Like what?"
+"Like you've just discovered the Inland Revenue has found you."
 "I've been murdered."
 Penny paused. "Already?"
 "Apparently."
@@ -353,6 +356,13 @@ Then it existed again. Trevor's expression deteriorated by degrees.
 Derek met his eyes. "Now you're asking the right question."
 Trevor didn't look reassured. Derek slowly opened another file. "Let's start with the clocks."
 He took the ancient brass clock from the photograph and compared its mechanism, its hands, and its case against the Bureau's own clocks. All different, except the second hand: identical. Seventeen seconds.
+Derek frowned. Penny noticed.
+"Another problem?"
+"Yes."
+"How many are we up to?"
+"Seven."
+Trevor raised his eyebrows. "Seven?"
+"At least."
 Derek turned the clear photograph upside down. There was a small number written on the back. 1047.
 He reviewed the case database. Case 1047 did not exist. He searched deleted cases.
 Nothing. He searched archived cases. Nothing.
@@ -757,7 +767,10 @@ Penny took the phone out of his hands. On the lock screen was yesterday's school
 "You are," Derek said quietly. "And I am the one who has to decide whether chasing this geometry keeps her out of that doorway or writes her into it harder."
 Mrs Marsh, passing the open door, glanced at the unauthorized minutes without breaking stride.
 Mr Pendleton appeared long enough to declare that future paperwork was still not his form, then vanished with the dignity of a man fleeing a causal loop.
+Outside, a red Mini Cooper contained more people than its volume should allow. Derek counted seven heads and one surplus hand. London, too, was failing conservation laws in public.
 Mrs Marsh walked past without breaking stride. "If that is a singularity," she said, "it is not registered to this address. Pending Geometry is drawer three. Murder is drawer one. Do try not to confuse them again."
+Derek leaned down for a closer look. The extra hand, on inspection, belonged to a passenger who had apparently brought a second, somewhat smaller passenger of his own. Nobody in the car seemed remotely troubled by this. Trevor found that considerably more alarming than the singularity.
+Since the paperwork had changed, certain older forms still referred to arrangements that no longer applied. These were kept in a drawer labelled Pre-Transition / Do Not Open. Derek had opened it once. The forms inside had the air of documents that knew they were out of date and intended to remain that way. The universe, he had noticed, had become slightly harder to interpret since the annexes stopped matching. He was becoming disturbingly skilled at scheduling problems for other days. It was one of the few forms of time travel the Bureau officially permitted. The unofficial ones were more interesting and strictly forbidden.
 The telephone rang. All three watched it.
 Derek answered. "Derek Gent."
 A pause. Then a man's voice - dry, unhurried, with the faint Bavarian clip of someone who had learned his English from textbooks and refused, on principle, to soften it for anyone's comfort. "Good morning."
@@ -2696,7 +2709,7 @@ Rule: Drop something. Watch the path. Name the geometry only after it embarrasse
 Chapter 7 - The Fourth Coordinate
 For several seconds nobody offered anything. The room beneath the Louvre was small, stone-walled and entirely too quiet. There was a table.
 There was a clock. There were four people. And there was a piece of paper asking them for a value of τ.
-What was new, this time, was the rate. In Munich the discrepancy had grown by roughly a seventeenth of a second per hour. Here, beneath the Louvre, it was growing by nearly a full second. Whatever was causing this, it was not slowing down.
+Derek allowed himself a brief, private observation: this was becoming a pattern. A city, a clock, a number that refused to add up. He kept the observation to himself, mostly because Trevor would have agreed, and agreement on that particular point was unlikely to help anyone. What was new, this time, was the rate. In Munich the discrepancy had grown by roughly a seventeenth of a second per hour. Here, beneath the Louvre, it was growing by nearly a full second. Whatever was causing this, it was not slowing down.
 Trevor was the first to speak.
 "That's proper time."
 Weinstein nodded. "Yes."
@@ -3361,7 +3374,11 @@ People arrived wet, irritated and vaguely convinced that the entire transport sy
 He had read the instruction three times. Then he had called Weinstein. "Alfred. You've sent me to investigate the London Underground on rainy days, to determine whether it contains something that makes Special Relativity and General Relativity mutually incompatible. Why?"
 Weinstein had been silent for several seconds. "Because time doesn't exist. Or rather - I'm beginning to suspect it's a bookkeeping device. Like accounting."
 "That sounds dangerous."
-"It is. So is the Underground. And it's raining."
+"It is."
+"And the Underground?"
+"Also dangerous."
+Derek had considered this. "Anything else?"
+"Rain."
 "Right."
 Derek did not own a car and had never held a driving licence, a fact he attributed to a childhood theory instructor who had failed him twice on grounds of "excessive philosophical hesitation at junctions," and which he now regarded, on balance, as a mercy - a man who spent his working life arguing about whose version of "now" was correct had no business also being asked, at speed, to agree with other drivers about it. The Underground, whatever its opinion of causality, at least ran on rails that had already made up their mind.
 And that was how, at 4:18 on a wet Thursday afternoon, Derek Gent found himself standing on a London Underground platform with a notebook in one pocket, a train ticket in the other, and an increasingly damp left shoe. He looked up at the distant station sign. 
@@ -4732,9 +4749,9 @@ Rule: Describe the inside using only the edge - then ask what survived the cheat
 -> Lesson for this chapter: 12 - The Cinema Interpretation of Everything
 Chapter 13 - Everything Everywhere All at Once
 Penny had decided that Derek was becoming unbearable. Not because he was wrong. That would have been easier. It was because he was usually right, and there was something deeply irritating about a man who could spend an afternoon discussing curved spacetime, singularities, and the holographic principle and then, when Penny pointed out an obvious practical difficulty, simply say "Yes," as though the universe had just been waiting for him to catch up. So Penny went to the cinema. Alone.
-What was unusual was the film she chose: Everything Everywhere All at Once. She settled in with popcorn, watched Jamie Lee Curtis survive yet another franchise, and decided the question the film was allowed to answer for the case wasn't "are there many worlds" but "which observables must agree - and which future of Sophie are we accidentally voting for when we pick a description?"
+What was unusual was the film she chose: Everything Everywhere All at Once. She settled into her seat with popcorn, watched the opening credits, and sat upright. "Blimey." Jamie Lee Curtis had survived Halloween after all, and had apparently decided that the next sensible career move was to become an IRS employee tormenting bewildered families across multiple universes. Penny decided the question the film was allowed to answer for the case wasn't "are there many worlds" but "which observables must agree - and which future of Sophie are we accidentally voting for when we pick a description?"
 It wasn't trying to answer that. But the underlying idea was strangely familiar - different histories, different outcomes, a universe in which one thing happened and another in which it didn't. She thought about Derek, the clock, the distant train that existed in one description of reality and not in another. If spacetime itself could be emergent, what exactly did it mean for there to be one universe?
-The film's multiverse wasn't the same thing as the multiverse physicists sometimes discuss, but it was useful as an intuition pump. Suppose reality could be described many different ways; suppose other histories existed in some mathematical sense. Then what was fundamental - the particular history, the collection of histories, or the mathematical structure connecting them? Penny thought about holography: if a higher-dimensional gravitational description could be equivalent to a lower-dimensional quantum description, then two apparently different descriptions could still be one underlying physics. "Now we're getting somewhere," she murmured.
+The film's multiverse wasn't the same thing as the multiverse physicists sometimes discuss, but it was useful as an intuition pump. Suppose reality could be described many different ways; suppose other histories existed in some mathematical sense. Then what was fundamental - the particular history, the collection of histories, or the mathematical structure connecting them? Penny thought about holography: if a higher-dimensional gravitational description could be equivalent to a lower-dimensional quantum description, then two apparently different descriptions could still be one underlying physics. "Now we're getting somewhere," she murmured. On screen, Jamie Lee Curtis did something completely unreasonable. "Twelve franchises," Penny observed, "and she still hasn't died for good." A woman sitting several seats away glanced at her. Penny lowered her voice. "This is actually rather relevant." The woman looked away.
 Something about the film's constant world-hopping bothered her, and it wasn't the physics - it was the logic. If every possible version of a person existed, what distinguished one from another? Their history. Their state. Their relationships. Their information. Investigate descriptions, not clocks - clocks were how the Bureau had got lost. A clock had a state. An ordinary cucumber had a state. A person had a state. A train had a state. Perhaps the geometry of spacetime itself emerged from relationships between quantum states. She texted Alfred: Holography: information on boundary -> bulk geometry? - then read it back and deleted it, since it had sounded profound for exactly four seconds before revealing itself as nonsense.
 The characters weren't merely travelling through space; they were switching between descriptions of reality, and the important thing wasn't that they moved between physical universes but that the information defining the character changed - different memories, different relationships, different histories, same person. Penny thought about worldlines. A worldline was a history through spacetime, but if spacetime itself was emergent, perhaps worldlines were emergent too - which would mean Derek wasn't fundamentally a line through spacetime, but a particular physical state embedded in a network of relationships, with his apparent history just one way of describing it. "That explains the other Derek." Then, frowning: "No, it doesn't." If Derek was a state rather than a line, nothing in the mathematics said there could only be one of him. Two identical states, two separate histories, no contradiction anywhere in the equations. That was the trouble with elegant explanations - they had an alarming tendency to explain slightly too much.
 The multiverse stopped being merely funny and became a question: if there were many mathematically possible descriptions of reality, what had to remain unchanged between them? The answer had to involve observables - physics couldn't depend on which coordinates, or which mathematical language, someone chose. The measurable predictions had to agree. That was already familiar from relativity: a Lorentz transformation changed the coordinates assigned to events, not the invariant interval. General Relativity wore the same lesson in a heavier coat - the geometry could bend, gravity itself could be curvature rather than a force, and the physics still didn't care which description you found frightening. Fear was a coordinate too. Whether Sophie was safe did not change with the angle you looked at it from. Perhaps holographic duality was a more radical version of the same lesson - and the murder file was merely the Bureau's least elegant dual description, one description with gravity and curved spacetime, another with quantum fields and none, both encoding the same physics. "Bloody hell," Penny said, to nobody in particular.
@@ -4746,7 +4763,7 @@ Penny smiled, put the phone away, and watched the rest of the film with the spec
 Rule: If everything happens everywhere, measure what must still agree.
 -> Lesson for this chapter: 13 - Curved Corridors and Tidal Gravity
 Chapter 14 - The Station That Wasn't Quite There
-The air was cold, a strip-light flickered out of time with the others, and it smelled, faintly and wrongly, of hot brake dust and cold stone at once. The first thing Derek noticed was that the gloomy station had twelve doors. The second thing he noticed was that it had thirteen. The third thing he noticed was that Trevor was counting them.
+The air had the particular cold of somewhere that had never been heated because no one had ever officially arrived to complain about it. A strip-light flickered two floors up its own private clock, on, off, on, out of time with the others. It smelled, faintly and wrongly, of hot brake dust and cold stone at once - a smell that belonged to two different kinds of weather that had never met anywhere else. The first thing Derek noticed was that the gloomy station had twelve doors. The second thing he noticed was that it had thirteen. The third thing he noticed was that Trevor was counting them.
 "How many?"
 "Twelve."
 Derek pointed. "Thirteen."
@@ -5382,10 +5399,18 @@ Derek nodded. "The station itself is assigning different temporal coordinates."
 Trevor frowned. "So which time is correct?"
 Derek glanced at him. "Both."
 Trevor conceded. "Obviously."
-Derek pointed toward a bench. A newspaper lay there. He picked it up. The headline read:
+Derek pointed toward a bench. A newspaper lay there. He picked it up.
+The headline read:
+RELATIVITY PROVED WRONG
+Trevor nodded. "Finally."
+Derek turned the page. Underneath was another headline:
+RELATIVITY PROVED RIGHT
+Penny laughed. "That's more like it."
+Derek turned the page again. A third headline:
 RELATIVITY PROVED BOTH
 Trevor went very still. "That's impossible."
-Derek stared at him. "No. It's journalism."
+Derek stared at him. "No."
+Trevor waited. Derek smiled. "It's journalism."
 Penny laughed. They sat on the bench.
 Derek folded the newspaper. "Never be reassured too early."
 They stood. The train had disappeared.
@@ -5417,6 +5442,7 @@ Derek nodded. "Much worse."
 A single drop of water fell from the sky. It stopped halfway down. Then slowly moved upward.
 Then sideways. Then disappeared.
 Penny said, very quietly, "If the midpoint was right - one event, three labels - then boarding the wrong train doesn't solve anything. It finishes something."
+Derek regarded her. He thought of the photograph. Of Sophie's school bag. Of Penny's hand on his sleeve. Of becoming the face on the floor because he had insisted on treating a coordinate like a corpse - or of erasing a version of Sophie by refusing the geometry that contained her. He understood, finally, what the sacrifice looked like: it was not stopping the murder. It was accepting that he might be standing in the doorway too, somewhere the paperwork could still see him.
 Derek put his hand on the carriage door and did not open it. In the window he saw the doorway from the photograph - empty, for now. "We board as people who can still refuse," he said. "Not as a filing."
 Penny didn't look at the photograph again. "You can't choose whether the drawer opens."
 "No."
@@ -5550,7 +5576,11 @@ Penny exhaled. It was not quite relief. Relief assumed the story had ended.
 "Well, Sherlock," Weinstein said.
 "Yes?"
 "I think we've finished."
-Sherlock did not reply.
+Sherlock replied:
+"No."
+Weinstein raised an eyebrow. "What now?"
+"The sequel."
+Weinstein stared at the wall. "Of course."
 And somewhere in London, Penny was taking the cucumber home.
 The cucumber had been purchased for personal use.
 Nobody cared to ask what sort of personal use.
@@ -5590,7 +5620,7 @@ On the second day, Trevor stood. "Tea?"
 "Sugar?"
 "One."
 Trevor walked toward the kitchen. Derek did not call after him. One sugar remained one sugar. It was the same order, word for word, as the morning this had all begun - except that morning he'd changed his mind halfway to the door and called out "Two," because a man who thinks he might be dead by lunchtime is entitled to a second sugar. Today he let one stand. Nobody's death was scheduled for tomorrow. It was, Derek reflected, the most ordinary exchange the Bureau had produced in a fortnight, and he intended to enjoy every unremarkable second of it.
-Penny, meanwhile, was planning a holiday, which after the week they'd had she considered less a luxury than a filing requirement. She hadn't told Derek the actual reason, and didn't intend to: since Tuesday she had carried a photograph of his corpse face-down in her own bag, had rehearsed, more than once and in more detail than she'd admit, what she would say to Sophie if the geometry ever stopped cooperating - and she had done all of it standing up, in the office, on schedule, because somebody had to be the one who didn't fall apart while the men argued about reference frames. She wanted Greece specifically because it was as far from a filing cabinet as she could get without actually resigning: whitewashed houses leaning companionably into blue, a bed and breakfast with a terrace and no view of London whatsoever, retsina she fully intended to pretend to enjoy, and enough grape leaves and olives to constitute a personality. She wanted a terrace with no view of a filing cabinet, and did not particularly care what Weinstein thought about that.
+Penny, meanwhile, was planning a holiday, which after the week they'd had she considered less a luxury than a filing requirement. She hadn't told Derek the actual reason, and didn't intend to: since Tuesday she had carried a photograph of his corpse face-down in her own bag, had rehearsed, more than once and in more detail than she'd admit, what she would say to Sophie if the geometry ever stopped cooperating - and she had done all of it standing up, in the office, on schedule, because somebody had to be the one who didn't fall apart while the men argued about reference frames. She wanted Greece specifically because it was as far from a filing cabinet as she could get without actually resigning: whitewashed houses leaning companionably into blue, a bed and breakfast with a terrace and no view of London whatsoever, retsina she fully intended to pretend to enjoy, and enough grape leaves and olives to constitute a personality. "And technically," she added, showing Weinstein the itinerary with the satisfaction of someone who had done the maths purely to annoy him, "the flight itself will leave me very slightly younger than everyone who stayed home. Not enough to notice. Enough to mention." Weinstein confirmed, with visible reluctance, that this was correct - a few hundred billionths of a second, rewarded for services to velocity - and complained that of all the people in his life to grasp special relativity unprompted, it had to be the one planning to spend a week doing nothing with it. "I'm not doing nothing," Penny said. "I'm doing nothing, faster than you are, which technically counts."
 Trevor noticed, with the weary resignation of a man updating a spreadsheet he had hoped to retire, that Derek's office door had started closing rather more often than the paperwork strictly required. The evidence sat outside it: a small dog, patient as a filed report, waiting on the corridor carpet. "Gucci's here again," he told Penny, in the tone of a man logging an observation rather than announcing a discovery. Penny didn't look up from her itinerary. "Door open or closed?" "Closed." "Then you know the rule." Trevor knew the rule. Derek had written it. He did not knock, did not call out, and did not stand in the corridor shouting anyone's name, on the grounds that the Bureau had tried all three before and none of them had ever once worked. He did, however, resolve to buy the dog a proper bed, on the grounds that even a voluntary stakeout deserved better furniture.
 One small matter had, admittedly, never been resolved. The initials on the clock - LGV - turned out, when Penny finally thought to ask a Frenchman, to mean nothing more mysterious than Ligne à Grande Vitesse: the stamp of an ordinary French high-speed railway line, most likely off a piece of decommissioned rolling stock. Penny was smug about it in person, at length, over the phone to Munich. She had, after all, guessed "a railway designation" within the first five minutes; Trevor had guessed Local Gravitational Vector, and nobody had let him forget it. "A railway designation," Weinstein repeated, with the particular weariness of a man who had built an entire theoretical framework around three letters that turned out to mean nothing more than fast train. "That's it. That's the whole geometry." "That's it," Penny agreed, not unkindly. Trevor, overhearing, announced that he stood by Local Gravitational Vector as the more interesting answer, correctness notwithstanding, and nobody had the heart to argue with him twice in one week.
 He filed actual, ordinary cases under actual, ordinary categories, and none of them concerned him personally. Sophie texted twice about nothing in particular, which he had learned to recognise as the highest compliment she had available. Penny stopped watching him sideways when she thought he wasn't looking. He allowed himself, cautiously, to believe it might simply be over.
