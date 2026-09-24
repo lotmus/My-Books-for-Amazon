@@ -55,21 +55,25 @@ KINDLE BLURB (Book Description for KDP Store Page)
 [Word count: 270 words - COPY EXACTLY as provided below]
 ================================================================================
 
+[Updated 2026-09-24 to match the sharpened blurb now live in kdp_description.docx - kept in sync, don't let these drift apart again.]
+
 A MURDER THAT HASN'T HAPPENED YET.
 A photograph from tomorrow.
-And a bureaucratic error that might save his daughter—or doom her.
+And a bureaucratic error that might save his daughter — or doom her.
 
-Derek Gent receives notification of his own death: murdered tomorrow at 11:03 AM in the Relativistic Investigation Bureau's own office. The photograph shows him dead. The filing system confirms it. His daughter Sophie stands frozen in the doorway.
+At 9:17 on a Tuesday morning, investigator Derek Gent receives an email informing him that he has been murdered. The message is polite, precise, and signed by Derek himself. Worse, the attached photograph shows him face-down on his own office floor, timestamped tomorrow at 11:03 a.m. — and frozen in the doorway behind him, mid-step, is his twelve-year-old daughter.
 
-But Sophie is safely at school. The Bureau's clocks show it's still morning. And the photograph was apparently taken from nowhere, by no one, recorded in a case file that shouldn't exist.
+The clocks in the room disagree.
+The universe disagrees.
+The paperwork, unfortunately, does not.
 
-The only reasonable explanation: someone has filed an event in the wrong reference frame. A bureaucratic error in spacetime itself.
+Derek has until tomorrow morning to find out who — or what — filed his own death. Special relativity can't explain it. General relativity can't either. And the deeper he digs with his sharp-tongued cousin Penny, his hyper-literal colleague Trevor, and a physicist who insists time itself might not be fundamental, the more it looks like reality itself has made a filing error — one that may have already decided whether his daughter walks through that doorway.
 
-As Derek, his clever partner Penny, and his anxious colleague Trevor investigate, they discover that time isn't just wrong—it's emergent. Spacetime itself might be nothing more than bookkeeping error in a universe that works differently than anyone imagined. Each clue pulls Derek closer to a terrifying truth: solving the murder might require erasing it. And erasing it might erase Sophie along with it.
+For readers who loved the "wait, WHAT" of Arrival or Tenet, but wanted it funnier, more British, and solvable with an ordinary cucumber.
 
-A mystery that asks the ultimate question: if you can't trust time itself, can you trust your own existence?
+A mystery that asks the only question that ever really mattered: if you can't trust time, can you trust what you think already happened to the people you love?
 
-The Relativistic Investigation Bureau Book 1: A mystery for anyone who's ever wondered what happens when physics gets personal.
+The Murder That Hadn't Happened Yet is Book 1 of the Relativistic Investigation Bureau — a mystery where the physics is real, the jokes are dry, and the only way out is through the equations.
 
 ================================================================================
 PRICING & ENROLLMENT
@@ -164,6 +168,9 @@ ANGLE 2 - Science Fiction Readers:
 
 ANGLE 3 - Literary/Smart Readers:
 "British wit meets rigorous physics in a novel that asks: if you can't trust time, can you trust your own existence? Philosophical, impossible, and darkly funny—a mystery that knows its own nature."
+
+ANGLE 4 - Mass/Crossover Readers (people who don't normally read SF):
+"You don't need to know any physics to read this. You just need to have ever worried about someone you love. A father gets proof of his own murder — and proof his daughter was there. Everything he learns trying to save her turns out to be true and false at the same time, and by the end you'll understand why, without a single equation. For fans of Arrival, Tenet, or anything that rearranged how you think about time in the last five minutes."
 
 ================================================================================
 POST-LAUNCH STRATEGY
