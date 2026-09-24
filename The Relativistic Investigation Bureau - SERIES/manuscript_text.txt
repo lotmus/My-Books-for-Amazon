@@ -507,6 +507,7 @@ Wednesday. 11:03. 17 seconds.
 The quiet office was empty. For the moment.
 Rule: If the case file updates itself, you are not reading news. You are reading geometry.
 -> Lesson for this chapter: 2 - Lorentz Finally Gets Involved
+Interlude - Sophie
 Sophie was small for twelve and treated this as a technicality rather than a fact, the way she treated most inconvenient data. She wore her dark hair scraped back hard enough to argue with, on the theory that anything loose was a distraction, and she had inherited her father's habit of going very still when she was thinking, which teachers mistook for daydreaming and Derek would have recognised instantly, had he been in the room. Sophie had noticed the clocks were lying. Not all of them, and not in ways that made sense. The brass one in Dad's study - the one he kept pretending he hadn't bought - was always exactly four minutes ahead of her phone. She'd tested it seventeen times. Seventeen times: four minutes, never more, never less. That wasn't a clock that was broken. That was a clock that was disagreeing on purpose. She'd started a notebook. Not because she wanted to solve anything. But because if the clocks were having an argument, someone should keep score.
 Chapter 3 - The Lorentz Transform
 By Wednesday morning, Derek Gent had decided that there were two kinds of impossible. The first kind was the ordinary sort. A man could not be in two places at once.
