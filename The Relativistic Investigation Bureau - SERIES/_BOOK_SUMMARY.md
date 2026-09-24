@@ -42,7 +42,7 @@ Physics is the literal plot engine throughout, not decoration — the mystery's 
 - **"Pending Geometry"** — the drawer/case-status for a misidentified event; the book's thematic resolution.
 - **The "17" motif** — 11:03:17, seventeen seconds, etc. Pays off literally: a brass plate engraved "17" late in the book.
 - **LGV** on the mystery clock — red herrings (Local Gravitational Vector, Large Goods Vehicle) before the real answer: *Ligne à Grande Vitesse* (French high-speed rail).
-- **"Virtuality" / Open-Door Principle** — closed office door = occupied ("working hard... or shagging, equally hard"); open door = person elsewhere.
+- **"Virtuality" / Open-Door Principle** — closed office door = occupied ("working hard... or shagging, equally hard"); open door = person elsewhere. Paid off for Derek/Tabitha in the Epilogue (Gucci waiting outside Derek's closed door; Trevor applies the rule and doesn't knock) — this is also what the "Coming Next" tease's "Gucci had already worked it out" line refers to.
 - **The ordinary cucumber** — Penny's running physics-experiment prop.
 - **Trevor's Klein bottle** — a desk ornament (Ch1), a non-orientable surface with no well-defined inside or outside. Paid off in Lesson 11 as an explicit non-example: it's unrelated topology, not holography — the joke is the contrast, not an equivalence.
 - **Tea-order callback** — "Yes."/"Milk?"/"No."/"Sugar?"/"One.", identical in Ch1 and Epilogue. Derek changes his order to "Two" in Ch1 (pre-death anxiety); does *not* in the Epilogue (at peace). Keep both instances textually identical if either is ever touched.
