@@ -4743,7 +4743,7 @@ Penny smiled, put the phone away, and watched the rest of the film with the spec
 Rule: If everything happens everywhere, measure what must still agree.
 -> Lesson for this chapter: 13 - Curved Corridors and Tidal Gravity
 Chapter 14 - The Station That Wasn't Quite There
-The air had the particular cold of somewhere that had never been heated because no one had ever officially arrived to complain about it. A strip-light flickered two floors up its own private clock, on, off, on, out of time with the others. Somewhere a long way off, water dripped onto a rail with the patience of something that had been dripping since before the station existed. It smelled, faintly and wrongly, of hot brake dust and cold stone at once - a smell that belonged to two different kinds of weather that had never met anywhere else. The first thing Derek noticed was that the gloomy station had twelve doors. The second thing he noticed was that it had thirteen. The third thing he noticed was that Trevor was counting them.
+The air was cold, a strip-light flickered out of time with the others, and it smelled, faintly and wrongly, of hot brake dust and cold stone at once. The first thing Derek noticed was that the gloomy station had twelve doors. The second thing he noticed was that it had thirteen. The third thing he noticed was that Trevor was counting them.
 "How many?"
 "Twelve."
 Derek pointed. "Thirteen."
@@ -5379,19 +5379,11 @@ Derek nodded. "The station itself is assigning different temporal coordinates."
 Trevor frowned. "So which time is correct?"
 Derek glanced at him. "Both."
 Trevor conceded. "Obviously."
-Derek pointed toward a bench. A newspaper lay there. He picked it up.
-The headline read:
-RELATIVITY PROVED WRONG
-Trevor nodded. "Finally."
-Derek turned the page. Underneath was another headline:
-RELATIVITY PROVED RIGHT
-Penny laughed. "That's more like it."
-Derek turned the page again. A third headline:
+Derek pointed toward a bench. A newspaper lay there. He picked it up. The headline read:
 RELATIVITY PROVED BOTH
 Trevor went very still. "That's impossible."
-Derek stared at him. "No."
-Trevor waited. Derek smiled. "It's journalism."
-Penny laughed. They sat on the bench. 
+Derek stared at him. "No. It's journalism."
+Penny laughed. They sat on the bench.
 Derek folded the newspaper. "Never be reassured too early."
 They stood. The train had disappeared.
 There was no record of it on the empty station board.
@@ -5422,7 +5414,6 @@ Derek nodded. "Much worse."
 A single drop of water fell from the sky. It stopped halfway down. Then slowly moved upward.
 Then sideways. Then disappeared.
 Penny said, very quietly, "If the midpoint was right - one event, three labels - then boarding the wrong train doesn't solve anything. It finishes something."
-Derek regarded her. He thought of the photograph. Of Sophie's school bag. Of Penny's hand on his sleeve. Of becoming the face on the floor because he had insisted on treating a coordinate like a corpse - or of erasing a version of Sophie by refusing the geometry that contained her. He understood, finally, what the sacrifice looked like: it was not stopping the murder. It was accepting that he might be standing in the doorway too, somewhere the paperwork could still see him.
 Derek put his hand on the carriage door and did not open it. In the window he saw the doorway from the photograph - empty, for now. "We board as people who can still refuse," he said. "Not as a filing."
 Penny didn't look at the photograph again. "You can't choose whether the drawer opens."
 "No."
@@ -5556,11 +5547,7 @@ Penny exhaled. It was not quite relief. Relief assumed the story had ended.
 "Well, Sherlock," Weinstein said.
 "Yes?"
 "I think we've finished."
-Sherlock replied:
-"No."
-Weinstein raised an eyebrow. "What now?"
-"The sequel."
-Weinstein stared at the wall. "Of course."
+Sherlock did not reply.
 And somewhere in London, Penny was taking the cucumber home.
 The cucumber had been purchased for personal use.
 Nobody cared to ask what sort of personal use.
