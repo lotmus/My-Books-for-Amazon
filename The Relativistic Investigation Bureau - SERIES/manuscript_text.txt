@@ -735,6 +735,7 @@ Penny came over. "What did you expect?"
 "And you didn't get one?"
 "I got one."
 "Then what's wrong?"
+Derek didn't answer immediately. He looked at the number a second time, as if it might have the decency to change.
 Derek pointed at the number. "It's greater than c."
 Trevor stared. "How much greater?"
 "Enough."
@@ -895,7 +896,7 @@ Derek maintained: "We're in 2026."
 "I mean I saw it earlier."
 "When?"
 Weinstein paused. "Tomorrow."
-Nobody spoke. Derek slowly sat down. Penny took the phone. "Alfred."
+Nobody spoke. Trevor's tea went cold in his hand and he didn't notice, which was itself the more alarming data point. Derek slowly sat down. Penny took the phone. "Alfred."
 "Yes?"
 "Are you saying you have already seen the clock?"
 "Yes."
@@ -2454,7 +2455,7 @@ Derek eyed Penny. "What sort of apple?"
 Derek smiled. "Alfred, are you sure you're not just watching an ordinary apple?"
 "I am."
 "Then what is it doing?"
-Weinstein was silent. Derek waited.
+Weinstein was silent long enough that Derek checked whether the call had dropped.
 Finally Weinstein asserted: "It's falling upward."
 Nobody spoke. Trevor watched Penny. Penny regarded Derek.
 Derek pointed out:
@@ -3460,7 +3461,7 @@ Trevor frowned. "That would suggest a divergent quantity."
 "Interval?"
 "Maybe."
 Derek surveyed him. "Which?"
-Weinstein didn't answer. He was staring at the painting. Then he smiled very slowly. "Now we have our singularity."
+Weinstein didn't answer. He was staring at the painting, and for several seconds nobody dared prompt him. Then he smiled very slowly. "Now we have our singularity."
 Derek gave Penny a measured look. Penny regarded Trevor. Trevor examined Weinstein.
 And somewhere, far beneath the Louvre, an ancient brass clock began ticking. Not forward. Not backward.
 But sideways. At least, that was what the silent clock appeared to think it was doing.
@@ -3626,7 +3627,7 @@ He walked toward the end of the carriage.
 The train continued.
 Then he noticed something else. The cold rain. He could see it through a small window near the door.
 Rainwater was running down the outside of the mysterious train. But the drops suddenly appeared to be moving differently. Not backwards.
-Not forwards. Simply differently. Derek stared.
+Not forwards. Simply differently. Derek stared. One of them, for a fraction of a second, seemed to be going both ways at once.
 The mysterious distant train emerged from the deep tunnel.
 Daylight flooded the carriage.
 The clocks jumped. 11:18.
@@ -4165,7 +4166,7 @@ He stared at the station clock. 11:12.
 He gazed at the train display. 11:12. "Five minutes."
 Derek glanced down the tunnel. "Yes."
 Penny smiled. "What are we expecting?"
-Derek considered this. "Nothing."
+Derek considered this for a moment longer than the question deserved. "Nothing."
 "Good."
 "That's usually when something happens."
 They boarded. The doors quietly closed. The train moved.
@@ -4498,7 +4499,7 @@ Penny surveyed him. "Because it's convenient."
 Trevor nodded. "That's one less variable, then."
 Penny smiled. "Precisely."
 She switched on the apparatus. The cold platform began to move. The cucumber rolled slightly.
-Then stopped. Trevor watched the graph. A smooth curve suddenly appeared on the monitor.
+Then stopped. Trevor watched the graph. A smooth curve suddenly appeared on the monitor, and for a few seconds it behaved exactly as it should, which was somehow worse than if it hadn't.
 Then - A tiny discontinuity. Trevor frowned. "That's odd."
 Penny nodded. "Very."
 The platform returned to its starting position. She reset the experiment. Again.
@@ -4720,7 +4721,7 @@ Penny regarded him carefully. "Why have you got a cucumber?"
 "I haven't."
 She held hers up. "No. You have."
 Derek glanced down. He was holding a cucumber. He stared at it.
-Then at Penny. Then at the other Derek.
+Then at Penny. Then at the other Derek. For a moment the joke didn't arrive on schedule.
 "Ah."
 Trevor sighed. "That clears everything up."
 The other Derek smiled. Then the train doors closed. The train departed.
@@ -5245,7 +5246,7 @@ For one second there was complete darkness.
 Then they came back on. The clocks were still there.
 The chairs were still there. The table was still there.
 But the narrow corridor outside had changed.
-Derek stepped out. There were fourteen doors.
+Derek stepped out. He counted once under his breath before trusting the number aloud. There were fourteen doors.
 Trevor counted. "Fourteen."
 Penny counted. "Thirteen."
 Derek counted. "Fourteen."
