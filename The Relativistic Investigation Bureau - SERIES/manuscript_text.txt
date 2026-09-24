@@ -197,7 +197,7 @@ Then he handed Derek the other one. Derek took a sip before looking sharply at T
 "I didn't make one."
 "Why not?"
 "I thought there were only two of us."
-Penny met his gaze. Trevor regarded Penny. Then at Derek.
+Penny met his gaze. Trevor looked at Penny. Then at Derek.
 "Oh." Derek sighed softly.
 "Trevor."
 "Yes?"
@@ -570,7 +570,7 @@ Trevor examined the clock. "They're both clocks."
 "So, they measure time."
 "Yes."
 "And time is time," Trevor said - then winced. "No. That sentence is a superstition. I withdraw it before the whiteboard hears."
-Penny smiled. Derek inspected Trevor. 
+Penny smiled. Derek eyed Trevor. 
 Trevor immediately raised both hands. "I know."
 "You've just contradicted Special Relativity."
 "I know. I withdraw it."
@@ -977,7 +977,7 @@ Matkowski's voice came faintly from the background.
 "Ask him about the train."
 Derek heard him.
 "What train?"
-Weinstein queried, "Ah."
+Weinstein said, "Ah."
 "What?"
 "There is a train."
 "What train?"
@@ -1024,7 +1024,7 @@ Trevor spoke first. "How can you be alive and dead at the same time?"
 Derek examined him. "I don't know."
 Penny commented:
 "That's not strictly what Weinstein noted."
-Trevor inspected her. "What did he say?"
+Trevor studied her. "What did he say?"
 "He observed Derek was alive and dead."
 "That's the same thing."
 "No."
@@ -1127,7 +1127,7 @@ They stepped into the narrow corridor. Derek locked the familiar office. Then st
 He looked back through the glass. For just a moment, he thought he saw somebody sitting at his desk. A man.
 Old. Grey-haired. Wearing a dark suit.
 Derek blinked. The chair was empty. He unlocked the door again.
-Trevor inspected him. "What?"
+Trevor watched him. "What?"
 "Nothing. Trick of the light."
 Trevor pointed at the brass clock. "And that?"
 Derek frowned. "Comes with us."
@@ -1216,7 +1216,7 @@ Then he examined the positions of all three. His expression changed. The patent 
 "The clocks are disagreeing."
 "They do that."
 "Not like this."
-The attorney inspected him. Weinstein took out his notebook. He calculated.
+The attorney appraised him. Weinstein took out his notebook. He calculated.
 Then calculated again. The difference was far too large. He looked at the ceiling.
 Then at the floor. The secretary came in.
 "Herr Weinstein?"
@@ -1346,7 +1346,7 @@ Matkowski nodded. "Exactly."
 "... or we're not dealing with the Earth's ordinary gravitational field."
 "Yes."
 Weinstein stopped. "Then what are we dealing with?"
-Matkowski inspected him. "That is the interesting question."
+Matkowski considered him. "That is the interesting question."
 Weinstein nodded. "Then it is decided."
 Matkowski stared at him. "What is?"
 "That we don't know."
@@ -1467,7 +1467,7 @@ Derek nodded. "You're coming, then."
 "Good," Derek said, and did not say the rest of it — that if Weinstein had already watched him die once, watching him alive again might not stay true for long.
 "When?"
 "Tomorrow."
-Derek inspected Penny. Penny smiled. "Of course."
+Derek eyed Penny. Penny smiled. "Of course."
 Weinstein continued: "I'll meet you at the station."
 "Which station?"
 "London Terminus."
@@ -1476,7 +1476,7 @@ Derek returned to the photograph. "Platform seven?"
 "Yes."
 Derek went silent. Trevor watched him. Penny understood immediately.
 "That was in the photograph."
-"Yes," Derek asserted.
+"Yes," Derek said.
 Alfred pointed out: "I know."
 Derek glanced at the brass clock. "Alfred."
 "Yes?"
@@ -1741,7 +1741,7 @@ Trevor thought. "Yes."
 Barbarian nodded. "According to what?"
 Trevor hesitated. "According to... Time."
 Barbarian smiled. "Exactly."
-Trevor regarded Derek. Derek examined Penny. Penny inspected Barbarian. "That's rather clever," she said - then, quieter: "Clever does not get Sophie out of a photograph."
+Trevor regarded Derek. Derek examined Penny. Penny studied Barbarian. "That's rather clever," she said - then, quieter: "Clever does not get Sophie out of a photograph."
 "Thank you."
 Derek picked up the silent clock. "Let's be precise."
 "Please."
@@ -1811,7 +1811,7 @@ There was silence.
 Barbarian smiled. "Excellent."
 Derek smiled. "Yes."
 Trevor surveyed the room. "What?"
-"Nothing," Derek maintained.
+"Nothing," Derek said.
 "You all look pleased."
 "We are."
 "Why?"
@@ -1892,7 +1892,7 @@ Barbarian shook his head.
 "I don't control them."
 "Who does?"
 "I don't know."
-Derek inspected Weinstein. 
+Derek watched Weinstein. 
 Weinstein was staring at the sky. "What?"
 Weinstein pointed. "Look."
 They looked upward. Nothing unusual was visible. Blue sky.
@@ -2191,7 +2191,7 @@ Derek paused. "That's not terribly specific."
 "You're already in Munich."
 "I know."
 There was silence.
-Then Derek emphasized: "Has Julius Barbarian finally broken you?"
+Then Derek asked: "Has Julius Barbarian finally broken you?"
 "No."
 "Fine."
 "I have a question."
@@ -2395,14 +2395,14 @@ Derek stared intently. "What train?"
 "Yes."
 "You were already in Munich."
 "Yes."
-Derek quietly closed his eyes. "Alfred."
+Derek closed his eyes for a moment. "Alfred."
 "Yes?"
 "You were on a train going to Munich while you were in Munich."
 "Yes."
 "How?"
 "I don't know."
 Penny smiled. "That's rather good."
-Derek inspected her. "Is it?"
+Derek appraised her. "Is it?"
 "Yes."
 "Why?"
 "Because now we have a genuine problem."
@@ -2495,7 +2495,7 @@ Derek examined the ancient brass clock. Then at the photograph. Then toward the 
 Penny smiled. "Good."
 Trevor still stood. "How are we getting there?"
 Derek put on his coat. "Train."
-Trevor inspected him. "Which train?"
+Trevor considered him. "Which train?"
 Derek paused. "The one that's already arrived."
 Trevor considered this. "That sounds difficult."
 Derek carefully opened the familiar door. "Yes."
@@ -2599,7 +2599,7 @@ Derek replied, "I'll tell you when you get here."
 "Yes."
 Weinstein glanced at the enormous building. "Why?"
 "Because I think Leonardo knew something."
-Weinstein quietly closed his eyes. "About what?"
+Weinstein closed his eyes briefly. "About what?"
 "Time."
 Weinstein opened his eyes. "Leonardo da Vinci?"
 "Yes."
@@ -2941,7 +2941,7 @@ Trevor smiled. "How large?"
 "Probably."
 Weinstein shook his head.
 "Not necessarily."
-Everyone quietly inspected him. He continued, "A gravitational field doesn't have to announce itself by dropping buildings on people."
+Everyone quietly eyed him. He continued, "A gravitational field doesn't have to announce itself by dropping buildings on people."
 "Fair."
 "And gravitational time dilation depends on the metric, not merely on some crude idea of gravitational force."
 "Meaning?"
@@ -3045,7 +3045,7 @@ Derek looked impressed. "How long?"
 Penny shrugged. "Ten minutes."
 Trevor smiled. "We'll need a laboratory."
 Penny surveyed the room. "We have one."
-Derek surveyed the room. "This is the Louvre."
+Derek took in the room. "This is the Louvre."
 "Yes."
 "Not CERN."
 "No."
@@ -3102,7 +3102,7 @@ Penny affirmed: "Could be initials."
 Nobody knew. Weinstein examined the clock. Then at the paper.
 Then at the three coordinates. 
 He suddenly stood. "Let's go upstairs."
-Derek inspected him. "Why?"
+Derek studied him. "Why?"
 "Because I want a map."
 "Of the Louvre?"
 "Yes."
@@ -3184,7 +3184,7 @@ Trevor smiled. "If the interval is timelike, the events can be causally connecte
 Derek examined the silent clock. "Then we need to determine which one this is."
 Weinstein nodded. "And that may tell us what the clock is doing."
 Derek smiled. "Right, that's that, then."
-Trevor inspected him. "What?"
+Trevor watched him. "What?"
 "We have a method."
 Penny nodded. "And a destination."
 Derek frowned. "Destination?"
@@ -3339,7 +3339,7 @@ Trevor examined the painting. "So, you're thinking there's an extreme gravitatio
 "Then where?"
 Weinstein smiled. "That's what Derek is going to investigate."
 Derek wearily sighed. "Of course I am."
-Weinstein inspected him. "You went to the Louvre."
+Weinstein appraised him. "You went to the Louvre."
 "Yes."
 "Why?"
 "Because I followed a clue."
@@ -3469,8 +3469,8 @@ Weinstein didn't answer right away — he was looking past Derek at the tiny sym
 He looked again at the painting. Three.
 Four. Twelve. Thirteen.
 And beneath them, almost invisible: ∞ Derek stopped smiling.
-Penny saw it. Trevor saw it. Weinstein stared intently. "That's not a coordinate."
-"No," Derek emphasized.
+Penny saw it. Trevor saw it. Weinstein narrowed his eyes. "That's not a coordinate."
+"No," Derek said.
 "What is it?"
 Weinstein watched the symbol. "Infinity."
 Trevor frowned. "That would suggest a divergent quantity."
@@ -3930,7 +3930,7 @@ Derek smiled. "Where?"
 There was silence.
 "We're in Munich."
 Derek paused. "Ah."
-Penny inspected him. "Virtuality?"
+Penny considered him. "Virtuality?"
 Derek nodded. "Apparently."
 Matkowski continued, "The problem concerns your clocks."
 Derek became serious.
@@ -4175,7 +4175,7 @@ Wet coats. Wet shoes. Wet umbrellas. Wet people.
 The smell of rainwater, electricity and human resignation.
 Derek descended the stairs. 
 He examined the crowds. "Excellent."
-Trevor inspected him. "What?"
+Trevor eyed him. "What?"
 "Test particles."
 Penny smiled. "Thousands of them."
 "Quite."
@@ -4235,7 +4235,7 @@ The second hand stopped. The train continued moving.
 Derek smiled. "Right."
 Derek examined Penny. "All stopped."
 She nodded. "Yes."
-Trevor surveyed the room. Nobody else seemed concerned. 
+Trevor looked around the room. Nobody else seemed concerned. 
 The train continued through the tunnel.
 Derek stood. He walked toward the window. 
 Outside, the tunnel wall slid past.
@@ -4416,7 +4416,7 @@ Derek studied her. "Yes?"
 "Upright."
 Derek lowered his gaze. His seat was reclining again. He adjusted it.
 She smiled. "Thank you."
-Then she disappeared. Derek surveyed the empty aircraft — no crew, no passengers, engines still running themselves — and understood, with the flat certainty of dreams, that nobody was flying the plane and it did not matter, because it had already landed. It just hadn't told anyone yet.
+Then she disappeared. Derek took in the empty aircraft — no crew, no passengers, engines still running themselves — and understood, with the flat certainty of dreams, that nobody was flying the plane and it did not matter, because it had already landed. It just hadn't told anyone yet.
 Derek woke with his seat upright and two clocks disagreeing on his tray table.
 The ticket said arrived. His watch disagreed. Both were stamped.
 He smiled without naming why.
@@ -4427,7 +4427,7 @@ Derek stared. "Right."
 The distant plane landed. The doors opened. Derek stepped out.
 He was back in the London Underground. He woke with a start. The mysterious train was still moving.
 Penny was sitting opposite him. Trevor was asleep beside the window. 
-Penny inspected Derek. "You were talking."
+Penny studied Derek. "You were talking."
 Derek rubbed his eyes.
 "What did I say?"
 She smiled. "You made a remark about an airline."
@@ -4557,7 +4557,7 @@ She put it beside the apparatus. Trevor examined the graph. "It's not the test o
 "Apparently not."
 "It's not the acceleration."
 "Not ordinary acceleration."
-Trevor inspected her. "What does that mean?"
+Trevor watched her. "What does that mean?"
 Penny sat down. "Imagine you're in a train."
 "All right."
 "The train begins accelerating."
@@ -5188,7 +5188,7 @@ Trevor fixed him with a look. "That is not reassuring."
 He counted.
 "Twelve."
 Penny smiled. "So, it's me."
-Trevor inspected her. "You're the problem."
+Trevor appraised her. "You're the problem."
 "It would seem so."
 Derek shook his head.
 "No."
@@ -5499,7 +5499,7 @@ Penny looked sharply down the platform. Before she could say anything, a woman's
 All three turned. 
 The woman at the end of the lonely platform looked too calm for a place that should not exist. Behind her, a departure board rearranged its own letters without anyone touching it - ARRIVAL becoming DEPARTURE becoming, for one impossible second, DEATH - then settling back into polite railway lies. Derek felt the hair on his arms invent a theory he had not authorised.
 The woman didn't so much as glance at the board. She had clearly already priced in stranger.
-A small dog's head, no larger than a fist, emerged from the collar of her coat, regarded the impossible platform with the same composure as its owner, and withdrew again.
+A small dog's head, no larger than a fist, emerged from the collar of her coat, took in the impossible platform with the same composure as its owner, and withdrew again.
 Trevor's head snapped up. "Tabitha?"
 She smiled. "Hello, little brother." She said it as if the relationship were still under review.
 Derek studied Trevor. "Your sister?"
@@ -5508,7 +5508,7 @@ Tabitha raised an eyebrow. "I heard that."
 Derek glanced at the coat. "Was that a dog?"
 "Gucci," Tabitha said, as though this settled the matter. "He doesn't care for platforms that shouldn't exist. Frankly, neither do I, but one of us has to be professional about it. He also won't touch dog food - he'll only eat if it comes hand-fed from my plate, which I'm told is a personality disorder and he's told is a lifestyle. He'll finish anyone's leftover tea, given the chance, except Earl Grey, which he regards - correctly, in my opinion - as an affectation. He also once got into a plate with Marmite on it and was sick for an hour, which I consider a reasonable response. The vomiting, I should say, was not instantaneous - there was a delay, rather like light taking its time to arrive from somewhere unpleasant. Cause and effect, several minutes apart, both entirely his own fault."
 "You were meant to."
-She inspected Derek. "So, you're Derek."
+She considered Derek. "So, you're Derek."
 "Yes."
 "Trevor maintained you were the sensible one."
 Derek glanced at Trevor. "He has never affirmed that to me."
@@ -5635,7 +5635,7 @@ Trevor stared intently. "So, the station clock hasn't advanced."
 "And we were moving relative to the station."
 "Yes."
 Trevor considered Derek. "Time dilation."
-"Possibly," Derek queried.
+"Possibly," Derek said.
 Derek's hand was still on the clock-face. It was warm—the friction from hours of ticking had leached into the metal. Tabitha glanced at the empty station clock. "Why do you keep treating that one as the correct clock?"
 Derek turned toward her. "Because it stayed at the station."
 "So?"
@@ -5681,7 +5681,7 @@ The first Derek frowned. "I haven't gone anywhere."
 The second Derek smiled. "I know."
 Trevor looked sharply between them. "Which one of you is Derek?"
 Both Dereks turned toward him. "Me."
-Trevor quietly closed his eyes. "There are two of him. Splendid. I'll need a bigger notebook."
+Trevor closed his eyes briefly. "There are two of him. Splendid. I'll need a bigger notebook."
 Penny eyed the second Derek.
 "Where did you come from?"
 "The train."
@@ -5777,7 +5777,7 @@ Penny smiled. "That's a first."
 Derek ignored her. He crouched beside the track. There was something on the rail.
 A small brass plate. He picked it up. It was engraved with a single number:
 17
-Trevor stared intently. "Again."
+Trevor leaned closer. "Again."
 Derek nodded. "Again."
 Derek studied her. "What else could it be?"
 "An event label. Death. Departure. Arrival. One geometry, three names." She stopped. The rest of the sentence sat between them, unspoken.
@@ -5804,7 +5804,7 @@ Penny didn't look at the photograph again. "You can't choose whether the drawer 
 "You can choose what walks through it."
 That, Derek thought, was the whole of it. The rest was just paperwork.
 Trevor frowned. "Are you sure?"
-Derek regarded him. "No."
+Derek looked at him. "No."
 Trevor nodded. "Case not closed. Probably."
 According to the railway timetable, it had never existed. Which, Derek thought, was probably the most reliable information of all - unless the timetable was another label.
 Rule: Stop asking when. Ask which action finishes the filing.
