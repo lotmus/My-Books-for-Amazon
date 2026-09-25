@@ -6089,7 +6089,7 @@ Put a number on it. At a steady γ = 5/3 (roughly 0.8c, chosen because the arith
 <- Chapter for this lesson: Chapter 10
 
 And this is why booking Ryanair is not actually an established method of achieving relativistic time travel.
-The airline has, so far, declined to comment.
+The airline has yet to update its terms and conditions accordingly.
 Hafele and Keating, 1971: cesium clocks flown east and west around the world, compared with clocks that stayed home. Special and general corrections both showed up. The travelling clocks were not confused. They had taken different paths. Derek's other-Derek problem is this experiment wearing a raincoat.
 
 Lesson checkpoint
@@ -6420,7 +6420,7 @@ The clock displayed the record's label.
 Those are not the same kind of thing. Proper time is what a clock reads by doing its job: ticking along its own worldline, one tick after another, at its own pace. An event coordinate is a tag in somebody's description of spacetime - a name for where and when something happens, assigned within a particular coordinate system. 
 → Glossary: Worldline
 Mistaking a coordinate for a measurement is exactly the trap this book has been warning about, chapter after chapter.
-That distinction explains the case, clue by clue. 11:03:17 was never a time anybody's watch measured - it was the death-event label attached to Case 1047 by the Bureau's own system. 11:17 and 12:04 were departure and arrival coordinates for the mysterious train, assigned within whatever description produced the impossible station; 
+That distinction explains the case, clue by clue. 11:17 and 12:04 were departure and arrival coordinates for the mysterious train, assigned within whatever description produced the impossible station; 
 Derek's own watch, ticking his own proper time throughout, read 11:18 - a completely ordinary clock doing a completely ordinary job. The record itself did not arrive from the future. It arrived through the same anomalous geometry responsible for the extra doors and the impossible station elsewhere in this book, filed according to its own event coordinate rather than Derek's local proper time.
 None of this required the Bureau's computer to predict anything. It required only that it confuse two different kinds of "when" - exactly the confusion this entire investigation turned out to be.
 The Epilogue's resolution turns on a distinction this book has been building since Chapter 3: coordinates are not reality, they are descriptions of reality.
