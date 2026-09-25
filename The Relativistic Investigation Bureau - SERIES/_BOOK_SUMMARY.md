@@ -10,6 +10,8 @@ A separate copy exists under `WORD/` (originally `D:\...\WORD`, its own independ
 
 `bak/` — pre-git backup archive. Do not touch.
 
+`CHARACTER_AND_SETTING_BIBLE.md` — looks/sound/smell/attitude for the main cast and key settings, compiled from what's actually in the manuscript. Check here before writing new descriptive material for an existing character so it stays consistent.
+
 ## Structure
 
 - Front matter → PROLOGUE → 16 Chapters (fiction) → EPILOGUE
