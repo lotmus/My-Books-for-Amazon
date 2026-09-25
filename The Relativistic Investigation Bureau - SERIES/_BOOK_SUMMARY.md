@@ -73,8 +73,10 @@ Checked two things that hadn't been specifically verified: (1) whether Lessons 1
 
 Was: `Kindle Front Cover.jpg`/`.png` and the Audible cover read "S.G.R. / Sven Gerald Rupertson" (an earlier candidate pen name, also visible in `bak/junk/SGR_Sven_Gerald_Rupertson_...` filenames) instead of the manuscript's actual developed pen name, Spezala Genara Relavi. User regenerated the front cover and Audible cover with the corrected byline same day - both now read "Spezala Genara Relavi" correctly. Re-verify if either is regenerated again.
 
-## Open item: back-cover pronoun mismatch (found 2026-09-24)
+## Back-cover pronoun mismatch - RESOLVED 2026-09-24
 
-Both `Kindle Back  Cover.jpg` and `rib back cover.png` (repo root) get the byline name right ("Spezala Genara Relavi") but the About the Author blurb calls the persona **"He"** ("He has no formal qualifications in detective work..."). The manuscript's own back matter (paragraph ~6398) is explicit this persona is **she/her** ("she understands it hopefully better than she does the Special One... She divides her time... She has not yet been murdered") - "he" belongs only to the real author, Lothar J. Musiol, a few lines later. Same fix needed as the byline: regenerate with "She has no formal qualifications..." No image-editing tool available in-session to fix directly.
+Was: About the Author blurb on the back cover called Spezala Genara Relavi "He" instead of "She" (manuscript's back matter, paragraph ~6398, is explicit she/her). `Kindle Back  Cover.jpg` was regenerated same day with the fix ("She has no formal qualifications..."), confirmed correct.
+
+**Still outstanding**: `rib back cover.png` (repo root) is an older, untouched duplicate (last modified 2026-09-20) that still has the "He" version. Unclear whether it's still used anywhere or fully superseded by `Kindle Back  Cover.jpg` - fix it too if it's still live.
 
 Check `git log` for the detailed history before assuming any of this needs redoing.
