@@ -17,9 +17,11 @@ Copyright © 2026 Lothar J. Musiol. All rights reserved.
 
 
 Table of Contents
+How to Read This Book
 PROLOGUE
 Chapter 1 - The Surprise in the Morning
 Chapter 2 - Case 1047
+Interlude - Sophie
 Chapter 3 - The Lorentz Transform
 Chapter 4 - The Weight of Time
 Chapter 5 - The Man Who Had Mislaid Time
@@ -36,6 +38,8 @@ Chapter 15 - The Train That Arrived Before It Left
 Chapter 16 - Sherlock and the Final Geometry
 EPILOGUE
 COURSE - Spacetime for Investigators
+Syllabus Map
+Preparatory Workshop - The Twin Paradox
 Chapter 1 - Appendix - Special Relativity Begins by Being Rude
 Chapter 2 - Appendix - Lorentz Finally Gets Involved
 Chapter 3 - Appendix - Time May Be Less Fundamental Than You'd Like
@@ -55,8 +59,10 @@ Chapter 16 - Appendix - Capstone: The Clock Was Lying, Precisely
 SUMMARY
 GLOSSARY
 About the Author
+Further Reading
 Acknowledgements
 Bibliography
+One Last Thing
 
 
 
@@ -81,7 +87,7 @@ In Which the Universe Refuses to Behave
 The murder had not happened yet. This would have been unremarkable, except that Derek Gent was already dead on paper—and someone had remembered to file the necessary forms.
 The time of death had been entered. The location had been entered. The victim had been identified.
 The victim was Derek Gent. Derek was alive. He was also the sort of man who noticed discrepancies in official paperwork. This particular discrepancy was rather difficult to ignore. 
-The paperwork predicted his death three days before it was due to occur. Derek therefore did what any sensible investigator would do.
+The paperwork predicted his death a day before it was due to occur. Derek therefore did what any sensible investigator would do.
 He checked the date, then the time, then the old clock.
 Then the clock again, because the first check had produced a result he found professionally inconvenient. 11:17. The mysterious clock had stopped.
 Then there was Sherlock, a dolphin who worked remotely as an occasional Bureau consultant and was paid in fish. Nobody had yet found this arrangement stranger than the cases he commented on. He had never been asked to sit the capstone, which was probably why he passed it.
@@ -98,7 +104,8 @@ Preferably before 11:17.
 Rule: A murder that has not happened yet is still a filing. Treat the paperwork as evidence.
 
 -> After Chapter 1, take Lesson 1 - Special Relativity Begins by Being Rude
-Chapter 1 - The Surprise in the Morning
+Chapter 1
+The Surprise in the Morning
 At precisely 9:17 on a Tuesday morning, Derek Gent received an email informing him that he was dead. His daughter, Sophie, was twelve years old. He checked the time on his phone and decided that one of these facts might be wrong. 
 Derek had always suspected that death would arrive by email. In this, as in so many other matters, he had been only slightly ahead of the general population - a position he found both comforting and faintly depressing, which was, on balance, better than the alternatives. The alternatives were rarely an improvement, a fact Derek had verified more than once, usually at personal cost and never with a sense of novelty.
 Not because he was especially pessimistic, but because nearly everything important seemed to arrive by email these days. Electricity bills. Convenient ways to re-enter bank account numbers for verification. Invitations to life-changing webinars. A unique opportunity to cooperate with a prince in Nigeria. Notifications that someone had changed a password Derek had never used. Insurance recommendations. Death was simply the logical next step. What surprised him was the sender.
@@ -116,7 +123,6 @@ WITHOUT AN APPOINTMENT
 Derek had objected. Penny had noted that they had never actually received a case before ten.
 Derek had said that this was beside the point.
 Penny had stated that this was precisely the point.
-Derek had lost.
 Derek had lost that argument years ago and had, as a matter of policy, continued to lose it every morning since. The sign was still right. The email was still early.
 He was now looking at an email from the Bureau. The subject line was:
 CASE UPDATE: DEREK GENT
@@ -319,7 +325,8 @@ DO NOT TRUST THE CLOCKS.
 Rule: A clock can lie by telling the wrong kind of truth.
 
 -> Lesson for this chapter: 1 - Special Relativity Begins by Being Rude
-Chapter 2 - Case 1047
+Chapter 2
+Case 1047
 For several seconds, nobody spoke. The three-line note sat on the screen like a timetable written by someone who already knew the journey.
 Penny read it. "That's ominous."
 "Very."
@@ -540,10 +547,12 @@ The quiet office was empty. For the moment.
 
 Rule: If the case file updates itself, you are not reading news. You are reading geometry.
 -> Lesson for this chapter: 2 - Lorentz Finally Gets Involved
-Interlude - Sophie
+Interlude
+Sophie
 Sophie was small for twelve and treated this as a technicality rather than a fact, the way she treated most inconvenient data. She wore her dark hair scraped back hard enough to argue with, on the theory that anything loose was a distraction, and she had inherited her father's habit of going very still when she was thinking, which teachers mistook for daydreaming and Derek would have recognised instantly, had he been in the room. Sophie had noticed the clocks were lying. Not all of them, and not in ways that made sense. The brass one in Dad's study - the one he kept pretending he hadn't bought - was always exactly four minutes ahead of her phone. She'd tested it seventeen times. Seventeen times: four minutes, never more, never less. That wasn't a clock that was broken. That was a clock that was disagreeing on purpose. She'd started a notebook. Not because she wanted to solve anything. But because if the clocks were having an argument, someone should keep score.
 She asked questions the way she asked for the salt: plainly, expecting an answer, mildly surprised when adults treated the asking as a performance.
-Chapter 3 - The Lorentz Transform
+Chapter 3
+The Lorentz Transform
 By Wednesday morning, Derek Gent had decided that there were two kinds of impossible. The first kind was the ordinary sort. A man could not be in two places at once.
 A clear photograph could not normally exist before it was taken. A clock could not run backwards without either being broken or being subjected to a level of engineering that Derek considered unnecessarily ambitious. The second kind was considerably worse.
 The second kind was something that was perfectly consistent with the laws of physics but completely inconsistent with common sense. Derek had spent most of his professional life dealing with the second kind. He found it much more expensive.
@@ -1160,7 +1169,8 @@ And somewhere, very far away - or possibly very close - the sound of a distant t
 Rule: If the algebra demands v > c, the premise is the suspect - not the universe.
 
 -> Lesson for this chapter: 3 - Time May Be Less Fundamental Than You'd Like
-Chapter 4 - The Weight of Time
+Chapter 4
+The Weight of Time
 By Thursday morning, Alfred Weinstein was sitting in a patent attorney's office in Schwabing. He was bored. This was not unusual.
 He was in his early fifties, compact and faintly stooped from decades spent leaning over desks that were never quite the right height. His hair had gone entirely grey-white, and he had long since stopped attempting to discipline it. He wore the same jacket regardless of the Munich weather, on the stated grounds that changing it more than once a season introduced an unnecessary variable.
 His voice was unhurried and faintly accented, with a habit of dropping towards a whisper exactly when a problem genuinely interested him - the reverse of everyone else in the room, who got louder under pressure.
@@ -1568,7 +1578,8 @@ They walked towards the strange station. Behind them, in the patent attorney's o
 Rule: Height is cheap. Disagreement between honest clocks is not.
 
 -> Lesson for this chapter: 4 - Enter General Relativity
-Chapter 5 - The Man Who Had Mislaid Time
+Chapter 5
+The Man Who Had Mislaid Time
 London Terminus would have to wait a few hours longer. The moment Weinstein heard the name Barbarian over the phone, he had declared - with the particular finality of a man settling an argument that predated the conversation by several years - that they would all be meeting in Munich first, since Barbarian never travelled and the physics would keep no better in London than it had anywhere else. Derek, Penny and Trevor found themselves rerouted onto a connecting train within the hour, with the vague understanding that Weinstein and Matkowski would make their own way there faster, by means neither of them had bothered to explain and Derek had decided not to ask about.
 Julius Barbarian lived in a house which appeared to have been designed by someone who had once been told what a house was and had then decided to improvise. It stood on a quiet street in Munich, behind a low wall and a hedge which had clearly given up several years earlier. There was no sign on the gate.
 There was, however, a small brass plaque beside the front door.
@@ -2099,7 +2110,8 @@ And, according to the timetable, it had never existed at all.
 Rule: Mislaid time is still someone's proper time. Find whose.
 
 -> Lesson for this chapter: 5 - The Apple
-Chapter 6 - The Apple Problem
+Chapter 6
+The Apple Problem
 Alfred Weinstein had never entirely trusted apples. This was not because of any defect in the fruit - apples were perfectly respectable, if badly overcredited: one particular red apple had been blamed for an astonishing amount of physics, and Weinstein was thinking about it on the mysterious train. He was on his way back to Munich after the meeting with Julius Barbarian, although "on his way back" was perhaps an unnecessarily confident description of the situation. The train had stopped between two stations, for "circumstances" - a word Weinstein had learned, from long experience, meant absolutely anything. Two rows ahead, a child dropped an apple. It rolled beneath the seat. Weinstein watched the space where it had disappeared, and thought of Newton's tidy, over-managed story about a tree - charming, and almost certainly misleading.
 The apple had not explained gravity. It had offered Weinstein a decision: treat falling bodies as geometry probes, or keep inventing forces until the Bureau's clocks looked polite.
 It had merely demonstrated that something fell. The really interesting question was why. Weinstein leaned back.
@@ -2735,7 +2747,8 @@ Perhaps they disagreed about which event they belonged to.
 Rule: Drop something. Watch the path. Name the geometry only after it embarrasses you.
 
 -> Lesson for this chapter: 6 - Singularities
-Chapter 7 - The Fourth Coordinate
+Chapter 7
+The Fourth Coordinate
 For several seconds nobody offered anything. The room beneath the Louvre was small, stone-walled and entirely too quiet. There was a table.
 There was a clock. There were four people. And there was a piece of paper asking them for a value of τ.
 Derek allowed himself a brief, private observation: this was becoming a pattern. A city, a clock, a number that refused to add up. He kept the observation to himself, mostly because Trevor would have agreed, and agreement on that particular point was unlikely to help anyone. What was new, this time, was the rate. In Munich the discrepancy had grown by roughly a seventeenth of a second per hour. Here, beneath the Louvre, it was growing by nearly a full second. Whatever was causing this, it was not slowing down.
@@ -2876,7 +2889,7 @@ That evening he called her back. She answered on the fourth ring, unimpressed, a
 A short laugh, despite herself. "Whatever. Don't die or anything."
 "I'll do my best."
 She hung up before he could decide whether that had been a joke.
-Back at the Bureau the next morning, Trevor was still waiting for an answer to a question he'd asked the day before.
+Back beneath the Louvre the next morning, Trevor was still waiting for an answer to a question he'd asked the day before.
 Trevor grimaced. "Explain."
 Derek indicated the floor. "We're somewhere in three-dimensional space."
 "Yes."
@@ -3395,7 +3408,8 @@ Derek did the arithmetic without quite meaning to. If the discrepancy kept growi
 Rule: A fourth coordinate is not a decoration. It is where labels pretend to be events.
 
 -> Lesson for this chapter: 7 - Why SR and GR Don't Fight
-Chapter 8 - The Cold Rain
+Chapter 8
+The Cold Rain
 Derek Gent had been given a difficult assignment. He was to investigate the London Underground on rainy days.
 This was not, in itself, unusual. The London Underground was already difficult on most days. On rainy days it became something else entirely.
 People arrived wet, irritated and vaguely convinced that the entire transport system had been personally designed to inconvenience them. Trains became late. Platforms became slippery. Umbrellas became weapons. Shoes acquired the consistency of soup. Derek had been instructed to find out whether anything in the Underground, specifically on rainy days, could prevent Special Relativity and General Relativity from both being true at the same time.
@@ -3634,9 +3648,9 @@ Derek let a breath out slowly. "Good. So SR and GR aren't fighting."
 "What?"
 "I think the Underground has a singularity. Or something that wants to be a wormhole and hasn't decided yet — and Sophie takes this line to school on Thursdays."
 Weinstein looked pained. "Please do not invent new topology without filing a form."
-Derek confirmed. "Pending Geometry - and I mean it as evidence, not comedy. If Case 1047 had lived in that drawer, Sophie would not be standing in a murder file wearing a school bag."
+Derek considered this. "Pending Geometry. It's a guess, not a diagnosis - but it's the first one that doesn't require a killer."
 Weinstein did not look reassured. Pending Geometry was already three drawers deep.
-Mrs Marsh appeared at the end of the platform as if she had always been part of the architecture. "If that is a hole, it is not one of mine. Pending Geometry is not a joke drawer. When your photograph puts a child in a doorway that does not exist, that form becomes Exhibit A. Stamp it or stop inventing Murder."
+Mrs Marsh appeared at the end of the platform as if she had always been part of the architecture. "If that is a hole, it is not one of mine. Pending Geometry is not a joke drawer either. Stamp it properly, or stop inventing Murder."
 She indicated a small official sticker on a nearby pillar. "No unauthorised singularities." 
 Derek found himself almost respecting the sticker. It had the finality of a stamped refusal.
 A tabloid, later that week, ran a headline asking whether a footbridge near Vauxhall might be an actual Einstein-Rosen bridge, on the grounds that a local resident had crossed it and sworn he'd arrived twenty minutes earlier than physically possible, which turned out on investigation to mean his watch had stopped. Weinstein, faxed a copy by someone at the Bureau who thought he'd enjoy it, did not enjoy it. He observed that holding an Einstein-Rosen bridge open long enough for anyone to cross it - alien, human, or otherwise - required exotic matter with negative energy density, a substance London Transport had not yet applied to a footbridge over the Thames, chiefly because nobody had worked out how to fund it and it would still need a health and safety inspection. "If aliens are coming," he pronounced, "they are not coming via Vauxhall. Standards would not permit it."
@@ -3678,7 +3692,8 @@ And somewhere ahead, something in the geometry of London appeared to be waiting 
 Rule: If the rain fills a cup from the bottom, stop stitching frames with hope.
 
 -> Lesson for this chapter: 8 - The Door
-Chapter 9 - The Open-Door Principle
+Chapter 9
+The Open-Door Principle
 There was a rule at the Bureau. It was not written down.
 It did not appear in the employee handbook.
 There was, in fact, no employee handbook, largely because Derek considered employee handbooks "a form of administrative poetry."
@@ -3958,7 +3973,8 @@ Outside, somewhere that was not quite the corridor, a train whistle sounded once
 Rule: An open door is a missing-person report that has not admitted it yet.
 
 -> Lesson for this chapter: 9 - Relativistic Travel
-Chapter 10 - The Relativistic Ride
+Chapter 10
+The Relativistic Ride
 The first important observation was that Derek Gent had apparently not quite murdered himself yet. Reassuring. Less so: passengers stepping off a train whose departure board still read NOT YET. The conductor apologised for the delay as if tomorrow were a timetable error. For a moment the platform felt bigger than London.
 A woman with a tomorrow-dated newspaper asked him the time. His watch said 11:18. Hers said 12:04. She thanked him as if both were correct, and walked into a Tuesday that had not finished arriving. Derek did not explain. He followed wet footprints that aimed the wrong way - and did not look at the school-bag strap visible at the edge of the photograph in his pocket.
 It was also becoming slightly embarrassing. 
@@ -4321,7 +4337,8 @@ The distant train continued into the darkness. And somewhere ahead, the clock wa
 Rule: Believe the freeze and the motion if both are stamped. Explain later.
 
 -> Lesson for this chapter: 10 - The Cucumber
-Chapter 11 - The Ordinary Cucumber Problem
+Chapter 11
+The Ordinary Cucumber Problem
 Penny had a theory. It was not a particularly complicated theory.
 Nor, for once, did it involve a lecture. She needed an ordinary cucumber - a control that could become Exhibit B if the Bureau kept filing children under Murder. She was standing in an organic fruit market in London while a man in a green apron praised soil. Penny bought the cucumber because it would not argue back. Sophie would. Sophie already had, in a photograph.
 Penny picked one up. "Naturally?"
@@ -4625,7 +4642,8 @@ Mrs Marsh, later, declined to inventory the cucumber. "It is also lunch if you f
 Rule: One object. Two descriptions. Neither is a lie until you file it as Murder.
 
 -> Lesson for this chapter: 11 - The Hologram
-Chapter 12 - The Hologram Problem
+Chapter 12
+The Hologram Problem
 Derek was still staring at himself. The other Derek was still sitting on the mysterious train. The train was still sitting in the distant station.
 The empty station clock still read 11:17. The cucumber was still in Penny's hand. Trevor was still trying very hard not to say anything stupid.
 This was proving difficult. The other Derek lifted the ordinary cucumber again. Derek raised an eyebrow. "Why has he got a cucumber?"
@@ -4781,7 +4799,8 @@ Somewhere, he suspected, a different representation of the same eleven minutes w
 Rule: Describe the inside using only the edge - then ask what survived the cheat.
 
 -> Lesson for this chapter: 12 - The Cinema Interpretation of Everything
-Chapter 13 - Everything Everywhere All at Once
+Chapter 13
+Everything Everywhere All at Once
 Penny had decided that Derek was becoming unbearable. Not because he was wrong. That would have been easier. It was because he was usually right, and there was something deeply irritating about a man who could spend an afternoon discussing curved spacetime, singularities, and the holographic principle and then, when Penny pointed out an obvious practical difficulty, simply say "Yes," as though the universe had just been waiting for him to catch up. So Penny went to the cinema. Alone.
 What was unusual was the film she chose: Everything Everywhere All at Once. She settled into her seat with popcorn and sat upright. "Blimey." Jamie Lee Curtis had survived Halloween after all, and had apparently decided that the next sensible career move was to become an IRS employee tormenting bewildered families across multiple universes. Penny decided the question the film was allowed to answer for the case wasn't "are there many worlds" but "which observables must agree - and which future of Sophie are we accidentally voting for when we pick a description?"
 It wasn't trying to answer that. But the underlying idea was strangely familiar - different histories, different outcomes, a universe in which one thing happened and another in which it didn't. She thought about Derek, the clock, the distant train that existed in one description of reality and not in another. If spacetime itself could be emergent, what exactly did it mean for there to be one universe?
@@ -4803,7 +4822,8 @@ Derek replied: Now you're talking.
 Penny smiled, put the phone away, and let the rest of the film wash over her with the specific satisfaction of someone who had just done more useful physics than the man who'd driven her out of the office to do it.
 Rule: If everything happens everywhere, measure what must still agree.
 -> Lesson for this chapter: 13 - Curved Corridors and Tidal Gravity
-Chapter 14 - The Station That Wasn't Quite There
+Chapter 14
+The Station That Wasn't Quite There
 The air had the particular cold of somewhere that had never been heated because no one had ever officially arrived to complain about it. A strip-light flickered two floors up, keeping to its own private clock - on, off, on - out of time with the others. It smelled, faintly and wrongly, of hot brake dust and cold stone at once - a smell that belonged to two different kinds of weather that had never met anywhere else. The first thing Derek noticed was that the gloomy station had twelve doors. The second thing he noticed was that it had thirteen. The third thing he noticed was that Trevor was counting them.
 "How many?"
 "Twelve."
@@ -5139,8 +5159,10 @@ Penny stood. "Where did that come from?"
 Derek studied the rails. "That's the wrong question."
 "What is the right one?"
 "Which worldline did it follow?"
-Trevor's jaw dropped. "The train has a worldline?"
+Trevor considered this. "The train has a worldline?"
 "Everything physical does."
+"I know that," Trevor said. "I mean have we measured one continuous train - or several appearances we've decided to call the same train?"
+Derek went quiet for a moment. "That's the better question."
 "Even the cucumber?"
 "Yes."
 Penny watched the ordinary cucumber, thinking, 'peeled and pre-warmed might be nicer'.
@@ -5174,7 +5196,8 @@ It was that something appeared to be curving it on purpose.
 Rule: A station that isn't quite there is still curving something on purpose.
 
 -> Lesson for this chapter: 14 - The Distant Train That Arrived Before It Left
-Chapter 15 - The Train That Arrived Before It Left
+Chapter 15
+The Train That Arrived Before It Left
 The narrow corridor ended at cold Platform Seven. Derek stopped. "Of course."
 Penny regarded the sign.
 PLATFORM 7
@@ -5500,7 +5523,8 @@ According to the railway timetable, it had never existed. Which, Derek thought, 
 Rule: Stop asking when. Ask which action finishes the filing.
 
 -> Lesson for this chapter: 15 - The Dolphin and the Final Geometry
-Chapter 16 - Sherlock and the Final Geometry
+Chapter 16
+Sherlock and the Final Geometry
 Weinstein was having a perfectly ordinary morning. This meant, naturally, that the universe was about to become ridiculous. He was sitting in his quiet office in Munich, staring at a sheet of paper on which he had written the same equation three times.
 He had crossed it out three times. The fourth version looked promising. The fifth was worse.
 The sixth looked suspiciously like the first.
@@ -5745,7 +5769,8 @@ Trevor still wants it filed under Pending Geometry. Mrs Marsh still refuses to s
 Proceed to Lesson 1.
 
 
-Lesson 1 - Special Relativity Begins by Being Rude
+Lesson 1
+Special Relativity Begins by Being Rude
 <- Chapter for this lesson: Chapter 1
 Module A · Foundations of Special Relativity · Case link: Chapters 1-3. Learning objective: State Einstein's two postulates and explain why constant c forces space and time to transform together. The first thing to understand about Special Relativity is that it does not begin with the statement:
 "Everything is relative."
@@ -5788,7 +5813,8 @@ If two inertial observers disagree about simultaneity, must one of their clocks 
 <- Chapter for this lesson: Chapter 2
 
 
-Lesson 2 - Lorentz Finally Gets Involved
+Lesson 2
+Lorentz Finally Gets Involved
 Module A · Foundations of Special Relativity · Case link: Chapter 3. Learning objective: Use the Lorentz transformation to relate coordinates between inertial frames and name at least one invariant.
 → Glossary: Lorentz Transformation
 The mathematical machinery connecting two inertial observers is the Lorentz transformation. An inertial observer moves at a constant velocity without accelerating.
@@ -5829,7 +5855,8 @@ What stays the same for all inertial observers?
 The speed of light in vacuum, and the spacetime interval between the same two events.
 speed of light
 
-Lesson 3 - Time May Be Less Fundamental Than You'd Like
+Lesson 3
+Time May Be Less Fundamental Than You'd Like
 Module A · Foundations of Special Relativity
 Case link: Chapters 5 & 15. Learning objective: Distinguish coordinate time from proper time along a worldline; reject universal Newtonian now.
 → Glossary: Proper Time · Worldline
@@ -5868,7 +5895,8 @@ Can two clocks follow different paths through spacetime and accumulate different
 Yes.
 
 
-Lesson 4 - Enter General Relativity
+Lesson 4
+Enter General Relativity
 Module B · Gravity as Geometry · Case link: Chapter 4. Learning objective: Explain gravity as spacetime geometry and state what the equivalence principle does and does not allow. Special Relativity deals with inertial frames and flat spacetime. But gravity causes a problem.
 → Glossary: Equivalence Principle
 Einstein noticed something wonderfully simple:
@@ -5910,7 +5938,8 @@ Exit Form
 What tells you that a gravitational field cannot be removed everywhere just by choosing an accelerating frame?
 Tidal effects.
 
-Lesson 5 - The Apple
+Lesson 5
+The Apple
 Module B · Gravity as Geometry
 Case link: Chapter 6.
 Learning objective: Contrast Newtonian force with geodesic free fall
@@ -5946,7 +5975,8 @@ Why do astronauts feel weightless in orbit?
 They and their spacecraft are in free fall.
 
 
-Lesson 6 - Singularities
+Lesson 6
+Singularities
 Module B · Gravity as Geometry
 Case link: Chapters 7-8.
 Learning objective: Define a singularity as a breakdown of the classical spacetime description, not merely 'very strong gravity.'
@@ -5994,7 +6024,8 @@ What should a singularity make you suspect?
 That the classical theory has reached its limit.
 
 
-Lesson 7 - Why SR and GR Don't Fight
+Lesson 7
+Why SR and GR Don't Fight
 Module B · Gravity as Geometry
 Case link: Chapters 8 & 11
 Learning objective: Explain SR as the local freely falling limit of GR; identify when frame-stitching, not physics, is the problem.
@@ -6024,7 +6055,8 @@ Why can a small freely falling laboratory behave approximately like Special Rela
 Because curvature effects become negligible over a sufficiently small region.
 
 
-Lesson 8 - The Door
+Lesson 8
+The Door
 Module C · Labels, Paths, Experiments
 Case link: Chapter 9. 
 Learning objective: Treat coordinates as labels; decide whether two number-sets describe one event or two.
@@ -6056,7 +6088,8 @@ If two coordinate systems assign different numbers to the same event, does that 
 No.
 
 
-Lesson 9 - Relativistic Travel
+Lesson 9
+Relativistic Travel
 Module C · Labels, Paths, Experiments · Case link: Chapter 10. Learning objective: Compute the idea of proper-time difference along unequal worldlines (twin paradox logic). The Lorentz transformation connects the space and time
 → Glossary: Lorentz Transformation · Worldline
 coordinates of the same events in the Earth and spaceship frames.
@@ -6086,7 +6119,8 @@ If Derek travels fast and reunites with Earth, can he have aged less than someon
 Yes.
 
 
-Lesson 10 - The Cucumber
+Lesson 10
+The Cucumber
 Module C · Labels, Paths, Experiments
 Case link: Chapters 11-12 & 14
 Learning objective: Apply length contraction correctly; use an ordinary object as a control experiment between frames.
@@ -6116,7 +6150,8 @@ If the ordinary cucumber is 20 cm long in its rest frame and γ = 2, what length
 10 cm.
 
 
-Lesson 11 - The Hologram
+Lesson 11
+The Hologram
 Module D · Dual Descriptions
 Case link: Chapter 12
 Learning objective: State the area-law clue for black-hole entropy and what holographic duality does and does not claim.
@@ -6162,7 +6197,8 @@ If a spherical black hole's horizon radius doubles, what happens to its Bekenste
 It becomes four times as large, because the horizon area becomes four times as large.
 
 
-Lesson 12 - The Cinema Interpretation of Everything
+Lesson 12
+The Cinema Interpretation of Everything
 Module D · Dual Descriptions 
 Case link: Chapter 13
 Learning objective: Use multiple descriptions as a thinking tool without confusing metaphor with evidence for a multiverse.
@@ -6249,7 +6285,8 @@ Does a film about parallel universes establish a physical multiverse?
 No.
 
 
-Lesson 13 - Curved Corridors and Tidal Gravity
+Lesson 13
+Curved Corridors and Tidal Gravity
 Module D · Dual Descriptions
 Case link: Chapter 14
 Learning objective: Recognise curvature via tidal effects / relative free-fall paths, not via a single 'downward force.'
@@ -6281,7 +6318,8 @@ What survives as evidence of curvature when a uniform gravitational field can be
 Tidal effects.
 
 
-Lesson 14 - The Distant Train That Arrived Before It Left
+Lesson 14
+The Distant Train That Arrived Before It Left
 Module E · Causality & Capstone
 Case link: Chapter 15
 Learning objective: Separate spacelike from timelike separation; say when time-order can and cannot reverse between frames.
@@ -6315,7 +6353,8 @@ If two events are causally connected, can an inertial observer simply transform 
 No.
 
 
-Lesson 15 - The Dolphin and the Final Geometry
+Lesson 15
+The Dolphin and the Final Geometry
 Module E · Causality & Capstone
 Case link: Chapter 16
 Learning objective: State what Einstein's equation relates (geometry ↔ matter-energy) at the level of ideas, not tensor drills.
@@ -6392,7 +6431,8 @@ What is on the geometric side of Einstein's field equation?
 Curvature, packaged in the Einstein tensor plus the cosmological-constant term.
 
 
-Lesson 16 - Capstone: The Clock Was Lying, Precisely
+Lesson 16
+Capstone: The Clock Was Lying, Precisely
 
 Module E · Causality & Capstone · Case link: Epilogue / Case 1047. Learning objective (capstone): Distinguish event coordinates from proper time; explain how Case 1047 can look like a completed murder without a murderer.
 → Glossary: Proper Time
