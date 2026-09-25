@@ -1001,7 +1001,6 @@ Derek studied Penny. Penny's expression had gone completely serious. Trevor was 
 Derek said:
 "We have a photograph."
 "I know."
-"I know."
 "How do you know?"
 "Because I was there."
 "When?"
@@ -1483,7 +1482,6 @@ Weinstein continued: "I'll meet you at the station."
 "Which station?"
 "London Terminus."
 Derek returned to the photograph. "Platform seven?"
-"Yes."
 "Yes."
 Derek went silent. Trevor watched him. Penny understood immediately.
 "That was in the photograph."
