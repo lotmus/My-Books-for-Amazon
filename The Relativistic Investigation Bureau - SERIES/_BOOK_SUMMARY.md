@@ -75,8 +75,6 @@ Was: `Kindle Front Cover.jpg`/`.png` and the Audible cover read "S.G.R. / Sven G
 
 ## Back-cover pronoun mismatch - RESOLVED 2026-09-24
 
-Was: About the Author blurb on the back cover called Spezala Genara Relavi "He" instead of "She" (manuscript's back matter, paragraph ~6398, is explicit she/her). `Kindle Back  Cover.jpg` was regenerated same day with the fix ("She has no formal qualifications..."), confirmed correct.
-
-**Still outstanding**: `rib back cover.png` (repo root) is an older, untouched duplicate (last modified 2026-09-20) that still has the "He" version. Unclear whether it's still used anywhere or fully superseded by `Kindle Back  Cover.jpg` - fix it too if it's still live.
+Was: About the Author blurb on the back cover called Spezala Genara Relavi "He" instead of "She" (manuscript's back matter, paragraph ~6398, is explicit she/her). `Kindle Back  Cover.jpg` was regenerated same day with the fix ("She has no formal qualifications..."), confirmed correct. The stale duplicate `rib back cover.png` (still had the old "He" text, unused) was deleted from the repo.
 
 Check `git log` for the detailed history before assuming any of this needs redoing.
