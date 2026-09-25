@@ -35,7 +35,7 @@ Chapter 14 - The Station That Wasn't Quite There
 Chapter 15 - The Train That Arrived Before It Left
 Chapter 16 - Sherlock and the Final Geometry
 EPILOGUE
-APPENDIX
+COURSE - Spacetime for Investigators
 Chapter 1 - Appendix - Special Relativity Begins by Being Rude
 Chapter 2 - Appendix - Lorentz Finally Gets Involved
 Chapter 3 - Appendix - Time May Be Less Fundamental Than You'd Like
@@ -488,7 +488,7 @@ Derek held up the photograph. "To the place where it came from."
 Penny grabbed her coat. "And where is that?"
 Derek turned the photograph over. On the back, beneath the number 1047, another line had suddenly appeared.
 LONDON TERMINUS
-Platform 7
+PLATFORM 7
 11:17
 Penny read it. "That's tomorrow."
 Derek nodded. "Yes."
@@ -517,7 +517,7 @@ He specialised in a different kind of obstruction: the kind that required signat
 Its second hand moved. One. Two.
 Three. It reached seventeen. Stopped.
 Then continued. But now the clock was showing 11:03. And outside the empty office, somewhere far away, a distant train whistle sounded.
-There was no railway empty station anywhere near the building. The whistle sounded again. Then a third time.
+There was no empty railway station anywhere near the building. The whistle sounded again. Then a third time.
 The Bureau's computer switched itself on. 
 A final message appeared.
 CASE 1047
@@ -594,7 +594,7 @@ Trevor conceded. "Position and time - labels. Not gospel."
 Penny considered the photograph the way she used to consider unfinished sentences. "If she is inside the event, we are already late. If she is outside it, we can still choose the door."
 "No."
 "It's when Derek died according to which observer."
-"I think so." Penny beamed. "Good. You've hissed all my mystery lectures, and now one has finally landed."
+"I think so." Penny beamed. "Good. You've missed all my mystery lectures, and now one has finally landed."
 Trevor glanced at Derek. "But the death itself either happened or it didn't."
 "Of course."
 "That part doesn't depend on the observer."
@@ -2153,7 +2153,7 @@ The man sleeping beside the woman opened one eye. "What?"
 The man closed his eye again. Weinstein wrote:
 ASK DEREK.
 Then underneath:
-INVESTIGATE  THE ORDINARY APPLE.
+INVESTIGATE THE ORDINARY APPLE.
 He stopped. That sounded ridiculous. He crossed out  
 THE ORDINARY APPLE 
 Then wrote:
@@ -2228,7 +2228,7 @@ Penny leaned toward the phone. "What about it?"
 "Why that apple?" Derek asked with a frown.
 "Why that particular apple?"
 "Yes."
-"Why does it matter which apple?", Weinstein emphasized.
+"Why does it matter which apple?" Weinstein emphasized.
 "That's what I don't know."
 Penny smirked. "Now that's interesting."
 Derek agreed. "Yes."
@@ -2301,7 +2301,7 @@ Penny laughed.
 Derek replied: "Come in."
 Trevor did.
 Derek said: "In spacetime an object's history is a worldline. I'm not giving a lecture. I'm asking whether the brass clock's path is strange enough to sample a geometry that makes Case 1047 look finished."
-Trevor considered. "And a clock follows "
+Trevor considered. "And a clock follows a worldline, then?"
 "Yes."
 "So, the clock doesn't merely tell us time."
 "Correct," said Derek.
@@ -3568,7 +3568,7 @@ A small official notice was taped to a pillar:
 RAIN IS NOT TO BE CONSIDERED EVIDENCE WITHOUT FORM 17B-W
 Beneath it, in different handwriting:
 Especially if it falls sideways.
-Derek studied the notice for a moment. Someone in the Bureau had clearly been here before him, or after him, or in a reference frame that made the distinction unhelpful. He photographed the notice, filed it under Provisional Geometry, and only then looked back at the rain.
+Derek studied the notice for a moment. Someone in the Bureau had clearly been here before him, or after him, or in a reference frame that made the distinction unhelpful. He photographed the notice, filed it under Pending Geometry, and only then looked back at the rain.
 Derek glanced at the cold rain. Then at the window. Then at the track.
 Then at the puddles on the lonely platform as the train approached the next station. He understood. Water was not merely water.
 It was matter moving through spacetime. 
@@ -3931,7 +3931,7 @@ Trevor indicated the screen. "Virtual Derek."
 Then at Derek. "Actual Derek."
 Derek didn't answer at first. Two of him. One typing at a keyboard that wasn't there.
 The screen changed.
-DOOR CLOSING  IN 10 SECONDS
+DOOR CLOSING IN 10 SECONDS
 They stepped backward. The heavy door slammed shut. 
 The clocks restarted. 11:18.
 The computer went dark. 
@@ -4211,7 +4211,7 @@ They waited. The cold rain continued.
 The empty station remained busy.
 Trains arrived. Trains departed. People came and went.
 Nobody paid any attention to the three people standing beside a puddle. 
-At 12:03:30  nothing happened. 
+At 12:03:30 nothing happened. 
 At 12:03:50 nothing. 
 At 12:03:59: The water moved. 
 The strange station clock did the same. Derek's watch did the same. 
@@ -4806,9 +4806,9 @@ She put the phone away for good this time, and thought about the Bureau, the clo
 Derek replied: Now you're talking.
 Penny smiled, put the phone away, and watched the rest of the film with the specific satisfaction of someone who had just done more useful physics than the man who'd driven her out of the office to do it.
 Rule: If everything happens everywhere, measure what must still agree.
--> Lesson for this chapter: 12 - The Cinema Interpretation of Everything
+-> Lesson for this chapter: 13 - Curved Corridors and Tidal Gravity
 Chapter 14 - The Station That Wasn't Quite There
-The air had the particular cold of somewhere that had never been heated because no one had ever officially arrived to complain about it. A strip-light flickered two floors up its own private clock, on, off, on, out of time with the others. It smelled, faintly and wrongly, of hot brake dust and cold stone at once - a smell that belonged to two different kinds of weather that had never met anywhere else. The first thing Derek noticed was that the gloomy station had twelve doors. The second thing he noticed was that it had thirteen. The third thing he noticed was that Trevor was counting them.
+The air had the particular cold of somewhere that had never been heated because no one had ever officially arrived to complain about it. A strip-light flickered two floors up, keeping to its own private clock - on, off, on - out of time with the others. It smelled, faintly and wrongly, of hot brake dust and cold stone at once - a smell that belonged to two different kinds of weather that had never met anywhere else. The first thing Derek noticed was that the gloomy station had twelve doors. The second thing he noticed was that it had thirteen. The third thing he noticed was that Trevor was counting them.
 "How many?"
 "Twelve."
 Derek indicated it. "Thirteen."
@@ -5181,7 +5181,7 @@ Rule: A station that isn't quite there is still curving something on purpose.
 Chapter 15 - The Train That Arrived Before It Left
 The narrow corridor ended at cold Platform Seven. Derek stopped. "Of course."
 Penny regarded the sign.
-Platform 7
+PLATFORM 7
 "There isn't a Platform Seven."
 Trevor examined the timetable. 
 "The early bird gets the warm," Trevor observed. 
@@ -5393,9 +5393,8 @@ Derek confirmed. "Yes."
 "Stop."
 Derek considered this. "Fair."
 The second Derek gestured toward the empty station. "Stop asking when. Ask what connects."
-Derek nodded. The second Derek vanished before anyone could ask for definitions.
-The second Derek studied him. "For now."
-Then he disappeared. Trevor jumped.
+Derek nodded. The second Derek studied him. "For now."
+Then he vanished before anyone could ask for definitions. Trevor jumped.
 "Where did he go?"
 Derek regarded the empty platform. "Virtuality."
 Penny conceded. "Obviously."
@@ -5602,7 +5601,7 @@ TIME IS RELATIONAL
 Then:
 A CLOCK CAN LIE BY TELLING THE WRONG KIND OF TRUTH
 Derek understood before he liked it.
- A CLOCK CAN LIE BY TELLING THE WRONG KIND OF TRUTH.
+A CLOCK CAN LIE BY TELLING THE WRONG KIND OF TRUTH.
 Trevor sat down hard. "So I didn't kill you."
 Derek turned the photograph face-down. His thumb stayed on Sophie's doorway a second too long. "Not with a knife," he answered. "Not at all - if we refuse to finish their filing."
 Weinstein, quiet: "The joke was thinking murder was the noun that mattered."
@@ -5808,7 +5807,7 @@ They do not, however, disagree about everything.
 A key invariant is the spacetime interval. For the one-dimensional motion used here:
 → Glossary: Spacetime Interval
 s² = c²Δt² - Δx²
-Here Δt is the time between the two events, and Δx  is their separation in space. All inertial observers calculate the same value of s2 for the same pair of events, provided they use the same sign convention.
+Here Δt is the time between the two events, and Δx is their separation in space. All inertial observers calculate the same value of s² for the same pair of events, provided they use the same sign convention.
 The individual space and time measurements can change. This combination stays the same.
 This chapter uses the timelike-positive convention. A later chapter uses the equally valid mostly-plus convention.
 
@@ -5856,7 +5855,7 @@ Unfortunately, he also has an alarming tendency to explain it while eating biscu
 Lesson checkpoint
 Relativity removes universal Newtonian time; each clock measures proper time along its own worldline.
 1. Each observer measures the other's moving clock as ticking slower - a relationship between frames, not one clock being objectively slow.
-2. A clock at lower gravity, e.g. on an airplane at 10km flight height, gains compared to a clock on the ground.
+2. A clock at lower gravity, e.g. on an airplane at 10 km flight height, gains compared to a clock on the ground.
 3. Relativity's "no universal now" and Barbarian's "time is not fundamental" are different claims - the first is settled physics, the second is a live research programme.
 
 <- Chapter for this lesson: Chapter 4
@@ -5966,7 +5965,7 @@ And that distinction matters enormously when we discuss black holes and the earl
 A singularity is not necessarily an object sitting somewhere waiting to be photographed.
 It may be telling us that General Relativity is incomplete at that point. 
 Which is physicist-speak for: 
-"The equations have stopped being helpful. Someone should  invent some better ones."
+"The equations have stopped being helpful. Someone should invent some better ones."
 
 
 Lesson checkpoint
@@ -6087,7 +6086,7 @@ Learning objective: Apply length contraction correctly; use an ordinary object a
 
 Length contraction: a moving object's measured length shrinks along its direction of motion; its rest length does not.
 The ordinary cucumber is useful because it is boring. Boring objects are excellent physics experiments.
-If a cucumber moves rapidly relative to an observer, special relativity predicts that its measured length along the direction of motion is contracted by a factor of 1/γ. The observer measures both endpoints at the same time in their own frame.
+If a cucumber moves rapidly relative to an observer, Special Relativity predicts that its measured length along the direction of motion is contracted by a factor of 1/γ. The observer measures both endpoints at the same time in their own frame.
 The cucumber itself does not feel squashed. Its length measured in its own rest frame remains unchanged.
 
 Again:
@@ -6256,7 +6255,7 @@ The crucial concept is tidal gravity. If gravity were perfectly uniform everywhe
 For example, Earth's gravitational field is slightly stronger closer to Earth's centre than farther away. 
 Two freely falling objects initially moving together can therefore gradually move apart or together.
 Picture two people falling toward the Earth, a few metres apart. Both are falling "straight down" - but down means toward the centre of the planet, and the centre is a single point. Their two straight-down directions are not quite parallel; they tilt very slightly toward each other, the way two people walking due north from different points on the equator slowly converge toward the pole. Nobody pushed them together. The geometry did. Chapter 14 puts exactly this argument in Derek's mouth, with two people rather than two clocks, right before the corridor stops behaving.
-That gradual convergence - or, elsewhere, a gradual separation - is what "geodesic deviation" means. Geodesics are the straight-as-possible paths freely falling objects follow. Deviation is the technical word for the fact that two nearby ones do not stay the same distance apart in curved spacetime. Flat spacetime has no such effect; parallel geodesics stay parallel forever, which is more or less the definition of flat. Curved spacetime always has some deviation, however small, and its size and direction is exactly what the curvature tensors from Lesson 15 are built to keep track of.
+That gradual convergence - or, elsewhere, a gradual separation - is what "geodesic deviation" means. Geodesics are the straight-as-possible paths freely falling objects follow. Deviation is the technical word for the fact that two nearby ones do not stay the same distance apart in curved spacetime. Flat spacetime has no such effect; parallel geodesics stay parallel forever, which is more or less the definition of flat. Curved spacetime always has some deviation, however small, and its size and direction are exactly what the curvature tensors from Lesson 15 are built to keep track of.
 → Glossary: Geodesic · Tensor
 
 The narrow corridor joke is really about something quite respectable: 
@@ -6413,14 +6412,14 @@ Final exam (open book, closed superstition): In one paragraph, explain why Case 
 
 Here is what you can now explain, presumably.
 Two observers can assign different durations to the same pair of events without either clock being broken. Clocks following different paths through spacetime can also record different elapsed times between reunions.
-The speed of light is the same for all inertial observers
+The speed of light is the same for all inertial observers.
 Special Relativity works locally inside General Relativity: in a sufficiently small, freely falling laboratory, its familiar rules apply.
-In general relativity, Gravity can be understood in the context of spacetime geometry
+In General Relativity, gravity can be understood in the context of spacetime geometry.
 Spacetime curvature produces tidal effects: nearby freely falling objects can converge, separate, or shift relative to one another.
 → Glossary: Curvature · Tidal Force
 A singularity marks a limit of the classical spacetime description - not simply a place where gravity is unusually strong.
 → Glossary: Singularity
-Coordinate descriptions can differ while invariant physics remains the same,
+Coordinate descriptions can differ while invariant physics remains the same.
 Holographic duality relates gravitational and lower-dimensional nongravitational descriptions in particular theoretical settings. It does not establish that our universe is literally a cinema screen.
 Tensors describe geometric and physical quantities whose components transform consistently under coordinate changes.
 → Glossary: Tensor
@@ -6441,7 +6440,7 @@ Einstein Equation. The central equation of general relativity, usually called th
 Equivalence Principle. In a sufficiently small, freely falling laboratory, nongravitational experiments behave as they would in an inertial laboratory without gravity. Over larger regions, tidal effects can reveal the difference. A foundation of general relativity, and the reason lifts feature so heavily in physics thought experiments.
 Event Horizon. The boundary of a black hole's region of no escape: once inside, no future-directed signal can reach the distant exterior. Not light. Not a strongly worded letter.
 Geodesic. The straightest possible path in a given geometry. Ideal freely falling objects follow spacetime geodesics when no nongravitational forces act on them. 
-Holographic Principle. The proposal, motivated by black-hole entropy, that a gravitational region's physical information can be described by degrees of freedom associated with a boundary of one fewer spatial dimension. Holographic dualities give this idea concrete form in particular theoretical settings. Its application to our universe remains an open question
+Holographic Principle. The proposal, motivated by black-hole entropy, that a gravitational region's physical information can be described by degrees of freedom associated with a boundary of one fewer spatial dimension. Holographic dualities give this idea concrete form in particular theoretical settings. Its application to our universe remains an open question.
 Light Cone. The boundary between lightlike directions and the timelike or spacelike directions at an event. Its future and past portions show the local limits on where signals can go and where they can come from. Cucumbers must remain within the speed limit.
 Lorentz Transformation. A transformation relating space and time coordinates in inertial frames while preserving the spacetime interval. Transformations between frames in relative motion underpin time dilation, length contraction, and the relativity of simultaneity.
 Manifold. A space that can be described in small patches using ordinary coordinates, even when its overall shape or connectivity is more complicated. Earth's surface is a familiar example. A manifold provides the underlying space; a metric supplies its geometry.
@@ -6458,13 +6457,13 @@ Time Dilation. Differences in clock rates associated with relative motion or gra
 Worldline. The path an object traces through spacetime: where it is and when it is there. Your biography, with fewer adjectives and more coordinates.
 Wormhole. A hypothetical connection between otherwise separate or distant regions of spacetime. Some solutions of general relativity contain wormholes, but traversable versions typically require exotic stress-energy. Mathematical availability does not guarantee a usable passage.
 About the Author
-The alleged  author Spezala Genara Relavi (S.G.R.) has never been formally accused of understanding General Relativity, though several of her fictitious colleagues maintain that she understands it hopefully better than she does the Special One. She divides her time between London, Munich, and a rather small pink filing cabinet labelled  
+The alleged author Spezala Genara Relavi (S.G.R.) has never been formally accused of understanding General Relativity, though several of her fictitious colleagues maintain that she understands it hopefully better than she does the Special One. She divides her time between London, Munich, and a rather small pink filing cabinet labelled  
 [ PRE-TRANSFORMATION / DO NOT OBSERVE ]
-Spezala Genara Relavi is the author of The Relativistic Investigation Bureau series, allegedly.  This so-called masterpiece is indeed Exhibit One, apparently. 
+Spezala Genara Relavi is the author of The Relativistic Investigation Bureau series, allegedly. This so-called masterpiece is indeed Exhibit One, apparently. 
 Ms Relavi has not yet been murdered, although she understands this might be subject to change without further notice, possibly.
 
 
-The real author, Lothar J. Musiol, exists in a more conventional sense and is responsible for the nonfiction behind the weird work of  fiction.
+The real author, Lothar J. Musiol, exists in a more conventional sense and is responsible for the nonfiction behind the weird work of fiction.
 He is German by birth, American, by choice, and writes in British because he regards it as the most awkward American dialect. For exactly that reason he is a staunch aficionado of British motion pictures, such as Four Weddings and a Funeral.
 The choice of preposterous accent, however, was rather inspired by a scene in Love Actually, where a daft sod by the name of Colin Frissell had a conversation in an American bar before he arrived at the true purpose of his travels, quite obviously. The author found that eye-opening and still hopes to get that also one day, if he continues his admittedly naff use of British dialect just long enough.
 
@@ -6519,9 +6518,9 @@ One Last Thing
 If you enjoyed this book, a short review wherever you bought it helps other readers find the Bureau.
 Readers who would like the mathematics behind Derek's cases explained directly can find it in Lothar J. Musiol's nonfiction Physics, Actually series, which covers relativity with equations and considerably fewer fictional clocks.
 
-Thank  you for reading. 
+Thank you for reading. 
 
 The clocks remain, for the moment, silent.
-Derek had, by then, more or less stopped asking them what he couldn't control. He still asked them what he could
+Derek had, by then, more or less stopped asking them what he couldn't control. He still asked them what he could.
 
 .
