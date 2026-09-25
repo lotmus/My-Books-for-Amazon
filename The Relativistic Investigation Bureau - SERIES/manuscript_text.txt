@@ -73,7 +73,9 @@ Three honest ways to read this book.
 For the story alone: read the chapters and stop at each Rule. No plot point lives only in the lessons.
 To take the class: read each chapter, then its lesson, in order. Lesson 1 assumes nothing; Lesson 16 assumes you have been paying attention.
 If you are impatient: skim the COURSE page and Lesson 16. You will still meet the brass clock.
+If you take the class out of order, take Lesson 2 before you argue with Chapter 3, and Lesson 14 before you board the train. The novel will not punish you. The algebra might.
 One promise: where Newton cannot host this mystery, the book says so. Absolute 'now' makes Case 1047 gibberish. Relativity makes the misfiling possible - and the sacrifice real.
+A companion list of films lives at the end of each lesson. None of them are required. All of them were chosen because they teach the same idea the chapter just used as a joke.
 PROLOGUE
 In Which the Universe Refuses to Behave
 The murder had not happened yet. This would have been unremarkable, except that Derek Gent was already dead on paper—and someone had remembered to file the necessary forms.
@@ -82,7 +84,7 @@ The victim was Derek Gent. Derek was alive. He was also the sort of man who noti
 The paperwork predicted his death three days before it was due to occur. Derek therefore did what any sensible investigator would do.
 He checked the date, then the time, then the old clock.
 Then the clock again, because the first check had produced a result he found professionally inconvenient. 11:17. The mysterious clock had stopped.
-Then there was Sherlock, a dolphin who worked remotely as an occasional Bureau consultant and was paid in fish. Nobody had yet found this arrangement stranger than the cases he commented on.
+Then there was Sherlock, a dolphin who worked remotely as an occasional Bureau consultant and was paid in fish. Nobody had yet found this arrangement stranger than the cases he commented on. He had never been asked to sit the capstone, which was probably why he passed it.
 The Bureau's official consultant-fee schedule still listed dolphins under Miscellaneous Marine. Accounts had queried it twice. Both queries had been answered, correctly, with a receipt for mackerel.
 For the same reason, when Derek found a murder notice announcing his own future death, he did not immediately conclude that he was being hunted by a time traveller, a quantum ghost or an unusually vindictive neighbour. 
 The case would eventually force an even less comfortable possibility: that the Bureau's own computer was not merely recording the crime, but mis-filing a future event as one.
@@ -6245,6 +6247,7 @@ For the investigation, keep four things:
 <- Chapter for this lesson: Chapter 13
 
 4.	Tensors give that consistency mathematical form. Their components transform; the physical relationships they express survive.
+Penny's question - what if the natural story is only one description - is allowed as a question. It does not license a multiverse as Case 1047's murderer. The invariant interval is still the interval. The film is still a film.
 The larger questions can wait for the dolphin.
 For now, the clock still reads 11:17, Derek is still annoyingly correct, and Jamie Lee Curtis has once again survived in accordance with the previously established Law of Conservation of Actresses.
 Americans.
@@ -6281,6 +6284,7 @@ That gradual convergence - or, elsewhere, a gradual separation - is what "geodes
 
 The narrow corridor joke is really about something quite respectable: 
 Curvature reveals itself through how neighbouring free-fall paths behave relative to one another. The narrow corridor did not actually gain a door. Probably.
+Forty-seven metres is a joke with a pedigree: it is far enough for a tide to stop pretending to be a uniform field, and close enough that nobody can call it cosmology. Chapter 14 is Lesson 4's leftover, walking.
 
 
 Lesson checkpoint
@@ -6312,6 +6316,8 @@ and regions that cannot be causally connected to it without exceeding the speed 
 If Derek sees something that appears to happen before its cause, we should first ask:
 Are those events actually causally connected? If not, the apparent reversal may simply be a consequence of the coordinate system. If they are causally connected and the story really reverses their order, then we have left ordinary Special Relativity and need some additional physics - or a very good explanation from the Relativistic Investigation Bureau.
 At which point Derek should probably stop buying train tickets.
+Events that are spacelike-separated can change order between frames. Events on a causal journey cannot. A train that "arrives before it left" is either two events wearing one noun, or a coordinate stunt. It is not a ticket to yesterday. Penrose's Andromeda paradox is the same lesson at galactic volume: a tilt of "now" is not a telegram.
+→ Glossary: Andromeda Paradox
 
 
 
@@ -6369,6 +6375,7 @@ Or, as Derek would put it:
 Trevor would then say:
 "Well, that narrows it down."
 And for once, he would be right.
+The equation relates geometry to matter-energy. It does not name a killer. Lesson 16 will say the rest: the brass clock displayed an event coordinate. Case 1047 was a drawer error with excellent production values.
 Nobody spoke for a moment. Even Trevor seemed to sense that the equation deserved it.
 But Is General Relativity the Final Answer? 
 Not necessarily.
