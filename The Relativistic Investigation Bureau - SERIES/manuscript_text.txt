@@ -103,7 +103,7 @@ At precisely 9:17 on a Tuesday morning, Derek Gent received an email informing h
 Derek had always suspected that death would arrive by email. In this, as in so many other matters, he had been only slightly ahead of the general population - a position he found both comforting and faintly depressing, which was, on balance, better than the alternatives. The alternatives were rarely an improvement, a fact Derek had verified more than once, usually at personal cost and never with a sense of novelty.
 Not because he was especially pessimistic, but because nearly everything important seemed to arrive by email these days. Electricity bills. Convenient ways to re-enter bank account numbers for verification. Invitations to life-changing webinars. A unique opportunity to cooperate with a prince in Nigeria. Notifications that someone had changed a password Derek had never used. Insurance recommendations. Death was simply the logical next step. What surprised him was the sender.
 The message had come from the Derek Gent Relativistic Investigation Bureau. Derek stared at the screen. The Bureau was not supposed to send him emails. Derek had written the rule himself, which made its violation particularly irritating.
-It was his Bureau. More precisely, it was a small private investigative organization occupying two rooms on the second floor of an old office building in London, plus a corridor which the landlord insisted was a communal area and Derek insisted belonged to his Bureau whenever he needed somewhere to dry his brolly. The whole floor smelled faintly of instant coffee, old carpet, and the particular dust that only accumulates in buildings old enough to have opinions about it. Radiators clanked on a schedule nobody had ever agreed to, and the single working lightbulb in the corridor buzzed at a frequency Trevor had once measured out of boredom and never mentioned again. The Bureau dealt primarily with unusual cases.
+It was his Bureau. More precisely, it was a small private investigative organisation occupying two rooms on the second floor of an old office building in London, plus a corridor which the landlord insisted was a communal area and Derek insisted belonged to his Bureau whenever he needed somewhere to dry his brolly. The whole floor smelled faintly of instant coffee, old carpet, and the particular dust that only accumulates in buildings old enough to have opinions about it. Radiators clanked on a schedule nobody had ever agreed to, and the single working lightbulb in the corridor buzzed at a frequency Trevor had once measured out of boredom and never mentioned again. The Bureau dealt primarily with unusual cases.
 This was partly because Derek liked unusual cases and partly because ordinary cases paid terribly. The sign on the frosted glass door read:
 DEREK GENT
 RELATIVISTIC INVESTIGATION BUREAU
@@ -170,7 +170,7 @@ Trevor stood. "Tea?"
 "No."
 "Sugar?"
 "One."
-Trevor accepted this and walked toward the kitchen. Derek called after him, "Two."
+Trevor accepted this and walked towards the kitchen. Derek called after him, "Two."
 Trevor stopped. "Two?"
 "Yes."
 Trevor continued. Derek watched him disappear. A moment later there was a knock at the door.
@@ -193,7 +193,7 @@ Derek watched her. "You're taking this remarkably well."
 Derek crossed his arms. "That doesn't explain anything."
 "It explains most things."
 She walked over to the computer. "Show me."
-Derek turned the monitor toward her. Penny read the email. Her expression changed.
+Derek turned the monitor towards her. Penny read the email. Her expression changed.
 Only slightly. Penny was clever. Very clever.
 Unlike Trevor, who approached every new piece of information as if it might require a spreadsheet, Penny seemed to absorb things almost before anyone had spoken. She read the mysterious message again. "Tomorrow at eleven-oh-three."
 "Yes."
@@ -243,7 +243,7 @@ Derek had never liked deadlines that looked back at him. Most deadlines had the 
 Derek filed the sensation under 'to be examined later' and continued working. He was good at filing things under 'later'. It was one of his more reliable skills, and possibly one of his more dangerous ones. 
 Trevor noticed. 
 Penny asked, "What?"
-Derek turned the monitor toward them. The photograph showed their office. Not a similar office.
+Derek turned the monitor towards them. The photograph showed their office. Not a similar office.
 Not a room that resembled it. The actual room. The same battered desk.
 The same green filing cabinet. The same window overlooking the street. The same framed photograph of Derek's grandfather standing beside a Morris Minor in 1964.
 And on the floor, face-down beside the familiar desk, was Derek. He was face-down, his head turned sufficiently towards the camera for identification. His right arm was beneath his chest. Blood had spread across the back of his shirt. In the doorway behind him stood a girl of twelve, frozen mid-step, holding a school bag as if she had opened the wrong door into the wrong Tuesday. Sophie. His daughter. Who was, at that moment, supposed to be safely at school.
@@ -425,7 +425,7 @@ The cursor blinked on an empty field.
 "Why?"
 "Because the originating address is..."
 He stopped. "What?"
-Derek turned the monitor toward them. The address read:
+Derek turned the monitor towards them. The address read:
 LOCALHOST
 Trevor's forehead creased. "That's the computer itself. So either someone here typed a murder into existence, or the system executed a transformation we have not written down yet. I prefer the second. People lie. Equations, when honest, merely disappoint."
 "Or the machine filed a record that arrived without a person attached," Derek offered. "Localhost means the Bureau processed it. It does not mean one of us intended it."
@@ -789,7 +789,7 @@ Trevor snatched the page. "If the timestamp is consistent with the seventeen-sec
 Penny took the phone out of his hands. On the lock screen was yesterday's school photo - Sophie mid-eye-roll, bag strap twisted. "Motifs don't have bag straps. Call her again tonight. Ordinary. Boring. Do it."
 "I'm not - " Trevor began.
 "You are," Derek admitted quietly. "And I am the one who has to decide whether chasing this geometry keeps her out of that doorway or writes her into it harder."
-Mrs Marsh, passing the open door, glanced at the unauthorized minutes without breaking stride.
+Mrs Marsh, passing the open door, glanced at the unauthorised minutes without breaking stride.
 Mr Pendleton appeared long enough to declare that future paperwork was still not his form, then vanished with the dignity of a man fleeing a causal loop.
 Outside, a red Mini Cooper contained more people than its volume should allow. Derek counted seven heads and one surplus hand. London, too, was failing conservation laws in public.
 Mrs Marsh walked past without breaking stride. "If that is a singularity," she noted, "it is not registered to this address. Pending Geometry is drawer three. Murder is drawer one. Do try not to confuse them again."
@@ -856,7 +856,7 @@ Penny took the phone. "Matkowski."
 "Yes."
 "How accurate are Weinstein's clocks?"
 "Extremely."
-"Could they be synchronized?"
+"Could they be synchronised?"
 "They were."
 "Could the difference be gravitational?"
 "Not at this magnitude."
@@ -914,7 +914,7 @@ Nobody spoke. Trevor's tea went cold in his hand and he didn't notice, which was
 "Yes."
 "Where?"
 "In London."
-Penny met Derek's gaze, one eyebrow already halfway toward the ceiling. "Here?"
+Penny met Derek's gaze, one eyebrow already halfway towards the ceiling. "Here?"
 "I believe so."
 Derek took the phone back. "Alfred, are you sure?"
 "I am very old, Mr Gent, but I am not senile."
@@ -1164,7 +1164,7 @@ Rule: If the algebra demands v > c, the premise is the suspect - not the univers
 Chapter 4 - The Weight of Time
 By Thursday morning, Alfred Weinstein was sitting in a patent attorney's office in Schwabing. He was bored. This was not unusual.
 He was in his early fifties, compact and faintly stooped from decades spent leaning over desks that were never quite the right height. His hair had gone entirely grey-white, and he had long since stopped attempting to discipline it. He wore the same jacket regardless of the Munich weather, on the stated grounds that changing it more than once a season introduced an unnecessary variable.
-His voice was unhurried and faintly accented, with a habit of dropping toward a whisper exactly when a problem genuinely interested him - the reverse of everyone else in the room, who got louder under pressure.
+His voice was unhurried and faintly accented, with a habit of dropping towards a whisper exactly when a problem genuinely interested him - the reverse of everyone else in the room, who got louder under pressure.
 He had once observed, forcefully and at some length, that a certain other physicist had also spent his most productive years examining patents in an office very much like this one, and that history had found this charming rather than suspicious. Nobody at the Bureau had found a tactful way to change the subject fast enough.
 The patent attorney was explaining a device intended to improve the efficiency of a mechanical regulator. Weinstein had been listening for approximately six minutes. He had understood the first two.
 The third had been optimistic. The fourth had involved a spring. The fifth had involved a spring behaving in a way Weinstein considered personally insulting.
@@ -1339,13 +1339,13 @@ Weinstein handed the photograph back.
 Matkowski raised an eyebrow. "Now?"
 "Yes."
 "You're not curious about the patent?"
-Weinstein looked toward the office. "No."
+Weinstein looked towards the office. "No."
 "The spring?"
 "No."
 "The regulator?"
 "No."
 Matkowski conceded. "Good."
-They walked toward the stairs.
+They walked towards the stairs.
 After a moment, Weinstein added: "There's something else."
 "What?"
 "The difference between the clocks."
@@ -1386,8 +1386,8 @@ Surprise briefly overtook Trevor's face.
 "You think General Relativity?"
 "I think we shouldn't ignore it."
 Penny agreed. "That would be sensible."
-Derek studied the silent clock.
-Derek studied the silent clock for a long moment, turning it over once in his hands, as though weight alone might explain what angle couldn't. "What?"
+Derek studied the silent clock for a long moment, turning it over once in his hands, as though weight alone might explain what angle couldn't.
+"What?"
 "The effect is too large."
 Trevor walked over. "By how much?"
 Derek showed him. 
@@ -1565,8 +1565,8 @@ Weinstein put the watch away. "Good. Progress."
 "What is?"
 "We're going to London."
 Matkowski considered. "And the patent?"
-Weinstein looked sharply toward the quiet office. "The spring can wait."
-They walked toward the strange station. Behind them, in the patent attorney's office, the silent clock started again. Only this time it was running backwards.
+Weinstein looked sharply towards the quiet office. "The spring can wait."
+They walked towards the strange station. Behind them, in the patent attorney's office, the silent clock started again. Only this time it was running backwards.
 
 Rule: Height is cheap. Disagreement between honest clocks is not.
 
@@ -1712,13 +1712,13 @@ Barbarian's smile sharpened.
 "As settled as anything ever is."
 Derek laughed. "We've been here ten minutes and you're already using our phrase."
 "I adapt quickly."
-Penny gestured toward the shelf. "Then why all the clocks?"
+Penny gestured towards the shelf. "Then why all the clocks?"
 Barbarian watched them. "Because they're useful."
 "But you responded that they don't measure time."
 "I opined that they don't measure a substance called time."
 "What's the difference?"
 Barbarian smirked. "Quite a large one."
-He picked up an old railway watch. "This tells you how one physical process relates to another. If you synchronize two clocks under specified conditions, move them apart, accelerate one, place them at different gravitational potentials and compare them again, the difference tells you something about spacetime."
+He picked up an old railway watch. "This tells you how one physical process relates to another. If you synchronise two clocks under specified conditions, move them apart, accelerate one, place them at different gravitational potentials and compare them again, the difference tells you something about spacetime."
 Weinstein confirmed. "Exactly."
 "So, clocks are not the problem."
 "No."
@@ -1836,20 +1836,20 @@ Penny smiled. "Well, there we are."
 Barbarian still stood. "Come."
 "Where?"
 "The garden."
-Derek looked sharply toward the window. "Why?"
+Derek looked sharply towards the window. "Why?"
 "Because I want to show you something."
 They followed him through the back door. The quiet garden was larger than Derek had expected. There was a lawn, a small pond, several trees and a stone path.
-At the far end quietly stood a tall wooden post. Barbarian walked toward it. At the top was a strange clock.
+At the far end quietly stood a tall wooden post. Barbarian walked towards it. At the top was a strange clock.
 Derek's brow furrowed. "Another one."
 "Yes."
 Barbarian gazed at the silent clock.
-"This one is synchronized with the one inside."
+"This one is synchronised with the one inside."
 Derek checked. They were.
 "How far apart?"
 "About forty metres."
 "Same gravitational potential to a very good approximation."
 "Yes."
-"Then they should remain almost synchronized."
+"Then they should remain almost synchronised."
 "They do."
 Trevor visibly relaxed.
 "Good."
@@ -2003,7 +2003,7 @@ Weinstein fell silent in thought. "And yet this is different."
 "Why?"
 "Because in ordinary relativity, the clocks disagree according to the geometry of spacetime."
 Barbarian considered. "And here?"
-Weinstein swept a hand toward the frozen garden. "We have no idea what geometry we're dealing with."
+Weinstein swept a hand towards the frozen garden. "We have no idea what geometry we're dealing with."
 Barbarian smirked. "Now you've reached the interesting part."
 The bird suddenly moved. It flew away. The leaves rustled.
 The distant plane continued across the sky. The cloud moved. Water rippled in the pond.
@@ -2096,7 +2096,7 @@ Barbarian examined the clocks around the empty room. Then at the sky, then at th
 Barbarian looked at him with something that was not quite approval and not quite pity. "Most people need rather longer to arrive at that."
 Penny's smile faded on the platform. "He can mislay time," she said. "He cannot mislay a twelve-year-old. That one still has a school bag."
 "Most people," Derek added, "haven't had a Tuesday like mine."
-And somewhere in London, a distant train began moving toward empty Platform Seven. It had left yesterday. It would arrive tomorrow.
+And somewhere in London, a distant train began moving towards empty Platform Seven. It had left yesterday. It would arrive tomorrow.
 And, according to the timetable, it had never existed at all.
 
 Rule: Mislaid time is still someone's proper time. Find whose.
@@ -2116,7 +2116,7 @@ The poor apple had been promoted from fruit to geometry. The distant train moved
 Weinstein wearily sighed.
 He looked out the window. Nothing. Then, very suddenly, he had an idea.
 It was not a complete idea. It was not even a particularly respectable idea. It was the sort of idea that arrived without knocking, sat down in the middle of one's mind and refused to explain why it was there.
-Weinstein sat upright. The ordinary apple. Not the falling. The falling together. He took out his notebook and drew the Earth, then the apple, then two arrows - one pointing from the apple toward the Earth, one pointing from the Earth toward the apple. He stared at them. "Of course." Newton's description had made it natural to think of the Earth as pulling the apple.
+Weinstein sat upright. The ordinary apple. Not the falling. The falling together. He took out his notebook and drew the Earth, then the apple, then two arrows - one pointing from the apple towards the Earth, one pointing from the Earth towards the apple. He stared at them. "Of course." Newton's description had made it natural to think of the Earth as pulling the apple.
 He tried a third drop. The pencil hit. The office mug slid three centimetres left by itself. Weinstein wrote: PROBES DISAGREE. Then, smaller: Sophie's doorway is also a probe. Do not forget.
 The Earth moved too. Tiny amount. Almost impossibly tiny.
 But not zero. Weinstein wrote:
@@ -2138,7 +2138,7 @@ Yet there would be no gravitational field. Then he imagined the lift sitting on 
 The apple would fall again.
 He closed the notebook before it could become a lecture.
 Everyone in the Bureau knew this. So why had the thought bothered him? He glanced at his drawing again.
-Because the apple was falling toward something. And in the accelerating lift there was no Earth. 
+Because the apple was falling towards something. And in the accelerating lift there was no Earth. 
 The apparent downward direction was created by the acceleration.
 Gravity could be imitated by acceleration. But perhaps the deeper question was the reverse. 
 Could acceleration be understood as geometry in the same way gravity was?
@@ -2218,12 +2218,12 @@ Weinstein dropped a coin. It curved wrong. "Geometry is the suspect. Don't name 
 "Exactly," Weinstein confirmed.
 "So, locally, the apple is not experiencing a force."
 "Correct."
-"Then why does it appear to accelerate toward the Earth?"
+"Then why does it appear to accelerate towards the Earth?"
 Derek thought. "Because we are observing it from a non-free-falling frame."
 "Yes."
 "And the Earth's surface is preventing us from following our own geodesic."
 "Yes."
-Penny confirmed. "That settles the basic point." Weinstein looked out of the window for a while, watching a bus fail to arrive on schedule. "But that's not the question. The apple and the Earth are both moving toward each other. Why?"
+Penny confirmed. "That settles the basic point." Weinstein looked out of the window for a while, watching a bus fail to arrive on schedule. "But that's not the question. The apple and the Earth are both moving towards each other. Why?"
 "Their mutual gravitational interaction," Derek said. "That's the Newtonian answer. You want the geometry - stress-energy determines it, the geometry determines the geodesics, the apple follows the geodesic."
 "Yes."
 Derek paused. "There we are, then."
@@ -2231,11 +2231,11 @@ Derek smiled. "You've just agreed to everything."
 "I know."
 "Then what isn't settled?"
 Weinstein consulted his notebook. "The apple."
-Penny leaned toward the phone. "What about it?"
+Penny leaned towards the phone. "What about it?"
 "Why that apple?" Derek asked with a frown.
 "Why that particular apple?"
 "Yes."
-"Why does it matter which apple?" Weinstein emphasized.
+"Why does it matter which apple?" Weinstein emphasised.
 "That's what I don't know."
 Penny smirked. "Now that's interesting."
 Derek agreed. "Yes."
@@ -2354,7 +2354,7 @@ Derek stared at the ancient brass clock. "But ours stopped at eleven seventeen."
 "Yes."
 "So, there's a one-minute difference."
 "Exactly."
-Derek thought. "That could be ordinary synchronization."
+Derek thought. "That could be ordinary synchronisation."
 "No."
 "How do you know?"
 "Because I wasn't where you think I was."
@@ -2404,13 +2404,13 @@ Derek glanced at Penny. She was smiling. "What?"
 "The investigation."
 "Yes."
 Derek turned back to the phone. "Alfred, what does the train clock say?"
-All four devices were synchronized.
+All four devices were synchronised.
 Derek asked: "And your watch?"
 "All right." Derek took a breath. "Now look outside. What do you see?"
 "Munich."
 Derek asked, "Moving?"
 "Yes."
-"Backward?"
+"Backwards?"
 "No."
 "Forward?"
 "Yes."
@@ -2461,7 +2461,7 @@ Derek granted. "Apparently."
 Penny picked up her coat. "When?"
 "Immediately."
 Trevor's brow furrowed. "Where?"
-Derek's eyes moved from the ancient brass clock to the photograph, then toward the door.
+Derek's eyes moved from the ancient brass clock to the photograph, then towards the door.
 "Munich."
 Penny grinned. "Good."
 Trevor still stood. "How are we getting there?"
@@ -2560,7 +2560,7 @@ Weinstein looked closer. "That's not unusual."
 "No."
 "It's a coordinate system."
 Derek agreed. "Just so."
-Weinstein stared at the painting. The objects appeared to converge toward a point. A mathematical point.
+Weinstein stared at the painting. The objects appeared to converge towards a point. A mathematical point.
 Not a physical object. A representation. A transformation.
 A way of describing a three-dimensional scene on a two-dimensional surface. 
 He smiled. "Interesting."
@@ -2646,7 +2646,7 @@ Derek allowed himself a smile. "Precisely."
 "And you're about to tell me you've found something."
 "I have."
 "What?"
-Derek gestured toward the gallery. "That man."
+Derek gestured towards the gallery. "That man."
 A security guard stood near the doorway. Weinstein looked. "Yes?"
 "He's walked past us three times without ever appearing in the same place twice."
 Weinstein frowned. "That's normal."
@@ -2809,7 +2809,7 @@ Tiny gears. Springs. Jewelled bearings. A balance wheel.
 An escapement. Penny examined it for several seconds. "There's nothing here."
 Derek smiled. "That's becoming a recurring feature."
 "I mean literally."
-She held the movement toward the light. "There's no mechanism capable of producing the behaviour we've seen."
+She held the movement towards the light. "There's no mechanism capable of producing the behaviour we've seen."
 Trevor considered. "Then the clock isn't doing it."
 Penny surveyed him. "What?"
 "The clock isn't deciding when to stop."
@@ -2840,7 +2840,7 @@ Penny regarded the clock. "But the clock didn't move."
 "Not ordinary acceleration."
 Trevor thought. "Gravity?"
 Weinstein granted. "Possibly."
-Derek gestured toward the ceiling. "We're beneath the Louvre."
+Derek gestured towards the ceiling. "We're beneath the Louvre."
 "Yes."
 "Could there be something beneath us?"
 Penny examined him. "Such as?"
@@ -3016,7 +3016,7 @@ Derek studied him. "Why?"
 "Because I want a map."
 "Of the Louvre?"
 "Yes."
-They returned to the main museum. A staff member directed them toward a map of the building. Weinstein examined it.
+They returned to the main museum. A staff member directed them towards a map of the building. Weinstein examined it.
 Then the underground room. Then the coordinates. 
 His brow furrowed. "These aren't Louvre coordinates."
 Derek leaned closer. "How do you know?"
@@ -3070,11 +3070,11 @@ Derek conceded. "But we don't know the interval."
 "No."
 "Then?"
 Weinstein allowed himself a smile. "Perhaps we do."
-He gestured toward the Louvre. "The clock."
+He gestured towards the Louvre. "The clock."
 Derek's expression tightened. "The clock gives us proper time."
 "Yes."
 "So, τ is the proper-time coordinate."
-Weinstein glanced toward the silent clock. "Yes."
+Weinstein glanced towards the silent clock. "Yes."
 "And the spatial distance is thirteen."
 "Yes."
 "So..."
@@ -3114,7 +3114,7 @@ Derek wearily sighed. "Origin."
 "Which is?"
 They considered the clock. Then at one another. 
 Penny gestured. "The Louvre entrance."
-They walked. The three coordinates took them toward a large painting. 
+They walked. The three coordinates took them towards a large painting. 
 Derek stopped. "This is it."
 Weinstein studied the painting. It showed a landscape. A road.
 Trees. Mountains. A distant building.
@@ -3125,7 +3125,7 @@ Derek allowed. "Yes."
 Trevor glanced at the painting. "The spatial geometry is encoded in the perspective."
 "Exactly."
 Penny indicated the horizon. "And there."
-A tiny ancient clock was visible in the distant building. Weinstein leaned toward the window. 
+A tiny ancient clock was visible in the distant building. Weinstein leaned towards the window. 
 It showed 12:04.
 Derek took the ancient brass clock from his pocket.
 Its hands had suddenly moved. 12:04.
@@ -3394,7 +3394,7 @@ Trevor threw up his hands. "You're just saying words that end in the right sound
 Derek surveyed him. "Which is it?"
 Weinstein didn't answer. He was staring at the painting, and for several seconds nobody dared prompt him. Then his mouth curved very slowly. "Now we have our singularity."
 Derek gave Penny a measured look. Penny regarded Trevor. Trevor examined Weinstein.
-And somewhere, far beneath the Louvre, an ancient brass clock began ticking. Not forward. Not backward.
+And somewhere, far beneath the Louvre, an ancient brass clock began ticking. Not forward. Not backwards.
 But sideways. At least, that was what the silent clock appeared to think it was doing.
 Derek did the arithmetic without quite meaning to. If the discrepancy kept growing at this rate, by the end of the week the clocks would not merely disagree about the time. They would start disagreeing about the day.
 
@@ -3470,7 +3470,7 @@ It moved at a different speed relative to the walls. He surveyed the people. The
 The entire station was a small laboratory of relative motion. He grinned. "Special Relativity."
 A man beside him looked over.
 Derek pretended he had said something else.
-At the bottom, he walked toward the platform. Then he stopped. There was a puddle.
+At the bottom, he walked towards the platform. Then he stopped. There was a puddle.
 A large one. It had formed where rainwater had been carried down by passengers. Derek studied it, then the moving escalator, the rails, the tunnel.
 "Case question only," Derek said. "Does the rainy Underground make SR and GR incompatible, or only our stitching of frames? Answer that and we know whether to board."
 Trains. Platforms. Escalators.
@@ -3536,7 +3536,7 @@ Nobody else seemed particularly alarmed.
 A man checked his phone again.
 Derek looked through the window. The tunnel walls moved past.
 He stood. 
-He walked toward the end of the carriage. 
+He walked towards the end of the carriage. 
 The train continued.
 Then he noticed something else. The cold rain. He could see it through a small window near the door.
 Rainwater was running down the outside of the mysterious train. But the drops suddenly appeared to be moving differently. Not backwards.
@@ -3773,7 +3773,7 @@ Then he noticed her familiar door. It was open.
 Derek frowned. "Where's Trevor?"
 "Virtuality."
 "Of course."
-He looked toward Trevor's office. His familiar door was open too. 
+He looked towards Trevor's office. His familiar door was open too. 
 Derek considered. "Both at once?"
 "Apparently."
 "That's unusual."
@@ -3839,20 +3839,20 @@ Derek sat down slowly, the chair creaking in a way that felt, this week, unneces
 "So, their proper times should differ."
 "Yes."
 "But they don't."
-Derek frowned. "Then they're synchronized."
+Derek frowned. "Then they're synchronised."
 "Exactly."
 "That's not a problem."
-"It is if they have never been synchronized."
+"It is if they have never been synchronised."
 Derek stopped. Penny considered him. "Go on."
 Matkowski commented:
-"Someone has synchronized the clocks."
+"Someone has synchronised the clocks."
 "When?"
 "We don't know."
 "How?"
 "We don't know."
 "Why?"
 "We don't know."
-Derek didn't smile. "We know almost nothing. Someone synchronized clocks across two cities without touching either of them, and hid a file with all our names in it under tomorrow's date."
+Derek didn't smile. "We know almost nothing. Someone synchronised clocks across two cities without touching either of them, and hid a file with all our names in it under tomorrow's date."
 Matkowski was quiet for a second too long. "Yes. That's the part I called about."
 Derek glanced at Penny. 
 She wore the particular smile she reserved for moments when she already knew how the conversation would end. "Fair enough."
@@ -3885,13 +3885,13 @@ Matkowski sounded irritated.
 There was another pause.
 Then Matkowski observed:
 "You should examine your own office."
-Derek looked toward the narrow corridor, where the light seemed, if anything, slightly reluctant to reach the far end. "My office?"
+Derek looked towards the narrow corridor, where the light seemed, if anything, slightly reluctant to reach the far end. "My office?"
 "Yes."
 "Why?"
 "Because the file indicates something is there."
 "What?"
 "We don't know."
-Derek stood. He walked toward his familiar office. The door was open.
+Derek stood. He walked towards his familiar office. The door was open.
 He stopped. Penny followed him. "What?"
 "Nothing."
 He looked inside. The office was empty. The old battered desk was empty.
@@ -3940,7 +3940,7 @@ Then at Derek. "Actual Derek."
 Derek didn't answer at first. Two of him. One typing at a keyboard that wasn't there.
 The screen changed.
 DOOR CLOSING IN 10 SECONDS
-They stepped backward. The heavy door slammed shut. 
+They stepped backwards. The heavy door slammed shut. 
 The clocks restarted. 11:18.
 The computer went dark. 
 Derek opened the door again. Empty. He closed it. "Me, apparently."
@@ -4034,7 +4034,7 @@ Penny grinned. "That's better."
 Derek watched the photograph. "The train."
 Penny confirmed. "Platform seven."
 "Exactly."
-Trevor looked toward the window. "Then why are we still here?"
+Trevor looked towards the window. "Then why are we still here?"
 Derek smiled. "We're not."
 Penny understood immediately.
 "We're taking the Underground."
@@ -4126,7 +4126,7 @@ Derek examined Penny. "All stopped."
 She confirmed. "Yes."
 Trevor looked around the room. Nobody else seemed concerned. 
 The train continued through the tunnel.
-Derek stood. He walked toward the window. 
+Derek stood. He walked towards the window. 
 Outside, the tunnel wall slid past.
 He watched it. 
 Then he noticed something. 
@@ -4188,7 +4188,7 @@ The train slowed. Derek glanced at the station sign. They had arrived at the nex
 Derek stepped onto the platform. 
 He looked down. Water was running along the edge.
 He crouched. 
-A stream of rainwater moved toward the drain. 
+A stream of rainwater moved towards the drain. 
 Derek watched.
 The water reached the drain. Then stopped. 
 The mysterious train doors closed. The train departed. The water remained. 
@@ -4230,7 +4230,7 @@ Then everything continued.
 Derek stared at the silent clock. 12:04. He peered at the puddle.
 The water was flowing normally. He eyed Penny.
 "Well."
-Penny watched the water resume its ordinary crawl toward the drain. "They weren't broken."
+Penny watched the water resume its ordinary crawl towards the drain. "They weren't broken."
 "No," Derek said. "They were waiting."
 "For what?"
 Derek lowered his gaze to the tunnel. "For the next event."
@@ -4293,7 +4293,7 @@ When he opened them, the aircraft was empty.
 The flight attendant was gone. The pilot was gone. The passengers were gone.
 The plane was still flying. 
 He looked out of the window. The Earth was still below. Then he noticed something.
-The clouds were moving backwards. Derek stood. He walked toward the cockpit.
+The clouds were moving backwards. Derek stood. He walked towards the cockpit.
 The door was open. Obviously, the pilot had vanished into virtuality. He looked inside.
 Nobody. The instrument panel was running. The plane continued flying.
 Derek's eyes moved from the controls to the clock, then to the empty cockpit.
@@ -4360,7 +4360,7 @@ Nothing particularly mysterious. Just a cucumber. The vendor watched her. "Anyth
 He looked disappointed. "Just the cucumber."
 "Very well."
 Penny paid. She left. It was raining.
-Of course it was. London had apparently decided that weather was unnecessary and rain was sufficient. She walked back toward the Bureau with the cucumber under her coat.
+Of course it was. London had apparently decided that weather was unnecessary and rain was sufficient. She walked back towards the Bureau with the cucumber under her coat.
 She crossed the street. A bus went past. Water sprayed from its wheels.
 She watched the droplets scatter. She grinned. Everything had a frame.
 She tucked the cucumber under her coat like contraband - evidence first, and if the Bureau asked awkward questions later, personal use was a perfectly respectable second description. If two descriptions could share one object, Case 1047 could share one event. If not, they were raising Sophie on a superstition.
@@ -4389,7 +4389,7 @@ Trevor stopped. "With a cucumber? Instruments admit they are instruments. Vegeta
 Penny faced him again. "You'd be surprised what can be gravitational."
 Trevor considered that. "Fair enough."
 They entered the laboratory. Derek was there. His familiar office door was quietly closed.
-Obviously. Trevor gestured toward it. "He's in there."
+Obviously. Trevor gestured towards it. "He's in there."
 "Working?"
 "Probably."
 Penny smirked. "Or shagging."
@@ -4455,9 +4455,9 @@ Penny sat down. "Imagine you're in a train."
 "All right."
 "The train begins accelerating."
 "Yes."
-"You feel yourself pushed backward."
+"You feel yourself pushed backwards."
 "Yes."
-"But if you're inside a sufficiently small room, you could describe the effect as though there were a gravitational field pointing backward."
+"But if you're inside a sufficiently small room, you could describe the effect as though there were a gravitational field pointing backwards."
 Trevor nodded at the graph and did not name the principle. "Change observer. See what survives."
 "Just so."
 "Locally, acceleration and gravity can be indistinguishable."
@@ -4494,7 +4494,7 @@ Penny's smile widened. "Yes."
 "Could be."
 Trevor looked impressed. "That would make the experiment rather inconvenient."
 Penny confirmed. "That's why we have Derek."
-They looked toward Derek's closed office door. Trevor smiled. "He's in there."
+They looked towards Derek's closed office door. Trevor smiled. "He's in there."
 "Yes."
 "Working hard."
 "Obviously."
@@ -4537,7 +4537,7 @@ Trevor's mouth curved. "That's clever."
 Trevor stared at her. "How?"
 Penny gestured at the door. "Derek."
 Trevor allowed. "Of course."
-He went toward the door. Then stopped. It was still closed.
+He went towards the door. Then stopped. It was still closed.
 He knocked. Nothing. He knocked again.
 Still nothing. Penny looked over. "Working hard."
 "Evidently."
@@ -4633,7 +4633,7 @@ Trevor peered at the ordinary cucumber in Penny's hand. Then back at the mysteri
 "That's rather settled."
 Derek shook his head.
 "No."
-He stepped toward the carriage.
+He stepped towards the carriage.
 "That isn't settled at all."
 Mrs Marsh, later, declined to inventory the cucumber. "It is also lunch if you fail to return it," she said. "I will not have dual-use veg left on the blotter."
 
@@ -4956,12 +4956,12 @@ Derek eyed the two clocks. "The important thing may not be the strength of the g
 Penny confirmed. "The variation."
 "Exactly."
 Trevor looked confused. "Explain."
-Derek leaned against the table. "Imagine two people falling toward Earth."
+Derek leaned against the table. "Imagine two people falling towards Earth."
 "All right."
-"They are both accelerating toward the centre of Earth."
+"They are both accelerating towards the centre of Earth."
 "Yes."
 "But the person slightly to the left is falling in a slightly different direction from the person slightly to the right."
-"Because they're pointing toward different parts of the Earth."
+"Because they're pointing towards different parts of the Earth."
 "Exactly."
 Trevor concluded, "So, their paths slowly change relative to each other."
 "Yes."
@@ -5025,8 +5025,8 @@ Penny knocked. Solid.
 Trevor knocked. Solid.
 Derek stepped back.
 "Move."
-Trevor did. Derek took three steps backward. 
-Then ran toward the wall.
+Trevor did. Derek took three steps backwards. 
+Then ran towards the wall.
 Penny shouted: "Derek!"
 He hit the wall. Except he didn't. He went through it.
 Penny leaned in. 
@@ -5041,7 +5041,7 @@ Penny confirmed. "Yes."
 Trevor conceded. "Ah."
 A voice came from the other side of the wall.
 "Come through."
-Penny walked toward the wall. She touched it. Her hand went through.
+Penny walked towards the wall. She touched it. Her hand went through.
 She smiled. "Interesting."
 Trevor looked horrified. "I don't think that's a property walls normally have."
 Penny examined him. "Nothing does until it does."
@@ -5070,12 +5070,12 @@ Penny inspected the floor. Water was running along the edge of the platform.
 She crouched. "It isn't just rain."
 Derek joined her. "What?"
 "The water."
-She indicated it. It was flowing toward the drain. 
+She indicated it. It was flowing towards the drain. 
 Then it stopped. Completely. Not slowed. Stopped.
 A drop hung at the edge of the drain. 
 Trevor crouched. "Is that normal?"
 "No," Derek responded.
-The drop moved backward. 
+The drop moved backwards. 
 Then forward. Then sideways.
 Then fell into the drain. Trevor stared. "Naturally."
 Derek stood. "The local geometry is doing something strange."
@@ -5240,7 +5240,7 @@ Derek's expression changed.
 Trevor glanced at Derek. "Weinstein is in Munich."
 "Apparently not," Derek insisted.
 Tabitha slipped the phone back into her pocket.
-"So," she emphasized, looking at the train, "which part of this is supposed to be normal?"
+"So," she emphasised, looking at the train, "which part of this is supposed to be normal?"
 Derek smiled. "We're still looking for that part."
 Tabitha grinned back. "Good. I was worried I'd missed it."
 There was, in fact, a distant, mysterious train waiting. This was unfortunate. It was an entirely ordinary Underground train.
@@ -5271,7 +5271,7 @@ Tabitha shook her head. "No." She tapped a destination word that refused to fini
 Derek gave her a measured look. For a moment he remained silent.
 "That's rather good."
 Tabitha grinned. "I was hoping you would say that."
-Penny walked toward it. 
+Penny walked towards it. 
 The destination board read:
 LONDON TERMINUS
 She stopped. "Where is London Terminus?"
@@ -5299,7 +5299,7 @@ Tabitha regarded him. "You know, for someone who asked whether it has a driver, 
 The doors quietly closed. The mysterious train moved. There was no announcement.
 No warning. 
 No reassuring strange voice telling them to mind the gap. It simply accelerated.
-"A day late and a dollar sideways," Derek remarked. "That is becoming the Bureau's unofficial motto."
+"A shilling short and a fortnight late," Derek remarked. "That is becoming the Bureau's unofficial motto."
 Derek watched the carriage. "Acceleration."
 Trevor agreed. "We can feel it."
 "Yes."
@@ -5403,7 +5403,7 @@ The second Derek watched the first. "You're still trying to describe the whole t
 Derek confirmed. "Yes."
 "Stop."
 Derek considered this. "Fair."
-The second Derek gestured toward the empty station. "Stop asking when. Ask what connects."
+The second Derek gestured towards the empty station. "Stop asking when. Ask what connects."
 Derek nodded. The second Derek studied him. "For now."
 Then he vanished before anyone could ask for definitions. Trevor jumped.
 "Where did he go?"
@@ -5671,7 +5671,7 @@ Trevor answered, listened, then held it away from his ear. "Julius Barbarian," h
 He hung up. Nobody was surprised.
 Derek therefore allowed himself one dangerous thought. Perhaps it was over.
 He sat for a while without doing anything useful, which counted.
-That evening Sophie rang about homework and complained that time was drawn as an arrow in her textbook. Derek talked too long about nothing useful. Then, almost as an afterthought, she mentioned the notebook - the one she'd started for the clocks, the one with a license plate written under the four-minute mark in her own careful hand. "The car's stopped coming," she remarked, in the tone of someone reporting a mildly interesting weather change. "The one that used to park by the gates. I looked it up, by the way. It's registered to the Bureau." Derek went very still. "You looked it up." "Obviously. You weren't going to tell me." He considered lying, decided the year had used up his quota, and admitted that yes, he'd asked Penny to have someone watch the school, quietly, the week the photograph arrived, and hadn't told her because he hadn't wanted her to know how frightened he'd actually been. Sophie was quiet for a moment. "You should have just said." "I know." "I'd have put it in the notebook properly, instead of guessing." That, Derek reflected afterward, was as close as either of them had come all year to saying something and meaning the harder thing underneath it. After she hung up he sat with the silent brass clock and did not write a word - afraid a sentence might edit her.
+That evening Sophie rang about homework and complained that time was drawn as an arrow in her textbook. Derek talked too long about nothing useful. Then, almost as an afterthought, she mentioned the notebook - the one she'd started for the clocks, the one with a number plate written under the four-minute mark in her own careful hand. "The car's stopped coming," she remarked, in the tone of someone reporting a mildly interesting weather change. "The one that used to park by the gates. I looked it up, by the way. It's registered to the Bureau." Derek went very still. "You looked it up." "Obviously. You weren't going to tell me." He considered lying, decided the year had used up his quota, and admitted that yes, he'd asked Penny to have someone watch the school, quietly, the week the photograph arrived, and hadn't told her because he hadn't wanted her to know how frightened he'd actually been. Sophie was quiet for a moment. "You should have just said." "I know." "I'd have put it in the notebook properly, instead of guessing." That, Derek reflected afterward, was as close as either of them had come all year to saying something and meaning the harder thing underneath it. After she hung up he sat with the silent brass clock and did not write a word - afraid a sentence might edit her.
 He thought about never would, and hadn't happened yet - close enough to bruise.
 The mystery had been a noun in the wrong drawer. This story could only have happened here.
 He left the thought alone.
@@ -5682,7 +5682,7 @@ On the second day, Trevor stood. "Tea?"
 "No."
 "Sugar?"
 "One."
-Trevor walked toward the kitchen. Derek did not call after him. One sugar remained one sugar. It was the same order, word for word, as the morning this had all begun - except that morning he'd changed his mind halfway to the door and called out "Two," because a man who thinks he might be dead by lunchtime is entitled to a second sugar. Today he let one stand. Nobody's death was scheduled for tomorrow. It was, Derek reflected, the most ordinary exchange the Bureau had produced in a fortnight, and he intended to enjoy every unremarkable second of it.
+Trevor walked towards the kitchen. Derek did not call after him. One sugar remained one sugar. It was the same order, word for word, as the morning this had all begun - except that morning he'd changed his mind halfway to the door and called out "Two," because a man who thinks he might be dead by lunchtime is entitled to a second sugar. Today he let one stand. Nobody's death was scheduled for tomorrow. It was, Derek reflected, the most ordinary exchange the Bureau had produced in a fortnight, and he intended to enjoy every unremarkable second of it.
 Penny, meanwhile, was planning a holiday, which after the week they'd had she considered less a luxury than a filing requirement. She hadn't told Derek the actual reason, and didn't intend to: since Tuesday she had carried a photograph of his corpse face-down in her own bag, had rehearsed, more than once and in more detail than she'd admit, what she would say to Sophie if the geometry ever stopped cooperating - and she had done all of it standing up, in the office, on schedule, because somebody had to be the one who didn't fall apart while the men argued about reference frames. She wanted Greece specifically because it was as far from a filing cabinet as she could get without actually resigning: whitewashed houses leaning companionably into blue, a bed and breakfast with a terrace and no view of London whatsoever, retsina she fully intended to pretend to enjoy, and enough grape leaves and olives to constitute a personality. "And technically," she added, showing Weinstein the itinerary with the satisfaction of someone who had done the maths purely to annoy him, "the flight itself will leave me very slightly younger than everyone who stayed home. Not enough to notice. Enough to mention." Weinstein confirmed, with visible reluctance, that this was correct - a few hundred billionths of a second, rewarded for services to velocity - and complained that of all the people in his life to grasp special relativity unprompted, it had to be the one planning to spend a week doing nothing with it. "I'm not doing nothing," Penny said. "I'm doing nothing, faster than you are, which technically counts."
 Trevor noticed, with the weary resignation of a man updating a spreadsheet he had hoped to retire, that Derek's office door had started closing rather more often than the paperwork strictly required. The evidence sat outside it: a small dog, patient as a filed report, waiting on the corridor carpet. "Gucci's here again," he told Penny, in the tone of a man logging an observation rather than announcing a discovery. Penny didn't look up from her itinerary. "Door open or closed?" "Closed." "Then you know the rule." Trevor knew the rule. Derek had written it. He did not knock, did not call out, and did not stand in the corridor shouting anyone's name, on the grounds that the Bureau had tried all three before and none of them had ever once worked. He did, however, resolve to buy the dog a proper bed, on the grounds that even a voluntary stakeout deserved better furniture.
 The Louvre guard was never identified. Weinstein made a few enquiries, of the sort that involved knowing someone who knew someone, and reported back that the museum's own staffing records showed no such person on duty that day, in that uniform, at that hour. Derek filed this exactly where it belonged - next to the singularity not registered to Mrs Marsh's building - and declined, on principle, to lose sleep over a worldline that had already demonstrated it kept its own schedule.
@@ -5796,7 +5796,7 @@ Special Relativity starts with two postulates, and the constancy of light forces
 "Relative" does not mean "anything goes." The spacetime interval and other invariant quantities remain the same.
 → Glossary: Spacetime Interval
 
-Exit ticket
+Exit Form
 If two inertial observers disagree about simultaneity, must one of their clocks be broken? No.
 → Glossary: Simultaneity
 
@@ -5839,7 +5839,7 @@ Lorentz transformations tell you how space and time coordinates change between i
 Do not add velocities using the old Newtonian rule. Ordinary velocity addition is only an approximation at low speeds. When speeds become a significant fraction of c.
 <- Chapter for this lesson: Chapter 3
 
-Exit ticket
+Exit Form
 What stays the same for all inertial observers?
 The speed of light in vacuum, and the spacetime interval between the same two events.
 speed of light
@@ -5872,13 +5872,13 @@ Unfortunately, he also has an alarming tendency to explain it while eating biscu
 Lesson checkpoint
 Relativity removes universal Newtonian time; each clock measures proper time along its own worldline.
 1. Each observer measures the other's moving clock as ticking slower - a relationship between frames, not one clock being objectively slow.
-2. A clock at lower gravity, e.g. on an airplane at 10 km flight height, gains compared to a clock on the ground.
+2. A clock at lower gravity, e.g. on an aeroplane at 10 km flight height, gains compared to a clock on the ground.
 3. Relativity's "no universal now" and Barbarian's "time is not fundamental" are different claims - the first is settled physics, the second is a live research programme.
 
 <- Chapter for this lesson: Chapter 4
 Saying 'time is not real' goes beyond what relativity itself establishes. However, there are reasons to claim that.
 
-Exit ticket
+Exit Form
 Can two clocks follow different paths through spacetime and accumulate different proper times?
 Yes.
 
@@ -5903,9 +5903,9 @@ Although the apple remains available for consultation.
 Imagine dropping a ball inside a lift. You hold the ball at some height and release it.
 Everything is normal if the lift is at rest.
 If the ball and the lift are both falling relative to the observer, the ball simply floats.
-Now imagine the lift is far away from any gravitational field and accelerating upward. The ball now moves downward toward the floor - just as it would in an ordinary gravitational field.
+Now imagine the lift is far away from any gravitational field and accelerating upward. The ball now moves downward towards the floor - just as it would in an ordinary gravitational field.
 Notice the phrase "far away from any gravitational field" in that last sentence. It is doing a great deal of work.
-Real gravity - the kind that comes from an actual planet - is not perfectly uniform. It points toward the centre of the Earth, which means "down" at Heathrow and "down" in Munich are very slightly different directions. Two balls dropped a mile apart do not fall on exactly parallel paths; they fall very slightly toward each other, both aiming at the same distant centre. An accelerating lift cannot reproduce that. Acceleration pushes everything inside it in exactly the same direction, with exactly the same strength, everywhere in the lift. Real gravity does not.
+Real gravity - the kind that comes from an actual planet - is not perfectly uniform. It points towards the centre of the Earth, which means "down" at Heathrow and "down" in Munich are very slightly different directions. Two balls dropped a mile apart do not fall on exactly parallel paths; they fall very slightly towards each other, both aiming at the same distant centre. An accelerating lift cannot reproduce that. Acceleration pushes everything inside it in exactly the same direction, with exactly the same strength, everywhere in the lift. Real gravity does not.
 That difference is the tell, and it has a name: a tidal effect. Locally - in a lift small enough, for a short enough time - acceleration and gravity are genuinely indistinguishable, which is the whole content of the equivalence principle. Stretch the region large enough to notice the two balls converging, and the disguise fails.
 → Glossary: Tidal Force
 This is why General Relativity cannot simply be "acceleration, but everywhere." A single accelerating frame can cancel gravity inside one small lift. No single frame cancels it in every lift on Earth at once, because the leftover - what no accelerating frame can absorb - is the actual curvature of spacetime. Chapter 14 puts Derek in a corridor built entirely out of that leftover: two clocks agreeing perfectly nearby and disagreeing badly forty-seven metres away, for exactly this reason.
@@ -5921,7 +5921,7 @@ General Relativity replaces flat spacetime with a dynamical geometry that respon
 The equivalence principle is local.
 A sufficiently small freely falling laboratory can mimic an inertial frame, but tidal effects reveal curvature over larger regions.
 
-Exit ticket
+Exit Form
 What tells you that a gravitational field cannot be removed everywhere just by choosing an accelerating frame?
 Tidal effects.
 
@@ -5956,7 +5956,7 @@ Lesson checkpoint
 Newtonian gravity is an extraordinarily successful approximation; General Relativity gives the deeper geometric description.
 Do not say Newton was simply wrong. Newtonian gravity remains an excellent approximation when relativistic corrections are small.
 
-Exit ticket
+Exit Form
 Why do astronauts feel weightless in orbit?
 They and their spacecraft are in free fall.
 
@@ -6003,7 +6003,7 @@ The Bureau's official position is that the Underground is merely having a bad da
 A singularity is not merely a region where gravity happens to be extremely strong.
 
 
-Exit ticket
+Exit Form
 
 What should a singularity make you suspect?
 That the classical theory has reached its limit.
@@ -6034,7 +6034,7 @@ Lesson checkpoint
 Special Relativity is the local limit of General Relativity in freely falling frames.
 GR does not make SR obsolete. It contains local SR while describing how local frames fit together in curved spacetime.
 
-Exit ticket
+Exit Form
 Why can a small freely falling laboratory behave approximately like Special Relativity?
 Because curvature effects become negligible over a sufficiently small region.
 
@@ -6053,7 +6053,7 @@ If changing coordinates could change the door itself, Derek could quite legitima
 "The door is open in my coordinate system."
 And Penny could reply:
 "Yes, but it's closed in mine."
-Trevor would then require the aforementioned slap.
+Trevor would then require a slap.
 But changing coordinates cannot do that. It cannot turn the handle, swing the hinges, or put a wooden panel across an empty doorway. Those are physical changes. They require something to happen to the door, not merely something to happen to the numbers used to describe it.
 The same discipline applies when the coordinates describe time as well as space. Before comparing two labels, we must ask what each label means and which event it identifies. Different labels can identify the same event. A disagreement between labels is not, by itself, a disagreement about what physically happened.
 Derek and Penny can therefore agree completely about the door while writing different numbers beside it. Once they explain their coordinate choices, they can translate between the descriptions.
@@ -6066,7 +6066,7 @@ Lesson checkpoint
 Coordinates are descriptions. Changing coordinates does not by itself change the physical situation.
 A metaphor about doors, maps or languages is not itself a coordinate transformation.
 
-Exit ticket
+Exit Form
 If two coordinate systems assign different numbers to the same event, does that automatically mean two different events occurred?
 No.
 
@@ -6096,7 +6096,7 @@ Lesson checkpoint
 Time is what a clock actually accumulates along its worldline; different worldlines can contain different amounts of proper time.
 Time dilation is not a malfunction of the travelling clock, and the traveler does not watch their own clock run abnormally slowly.
 
-Exit ticket
+Exit Form
 If Derek travels fast and reunites with Earth, can he have aged less than someone who stayed behind?
 Yes.
 
@@ -6126,7 +6126,7 @@ Length contraction affects the measured length parallel to relative motion.
 The moving cucumber does not discover itself physically squashed.
 Its rest-frame length remains L₀.
 
-Exit ticket
+Exit Form
 If the ordinary cucumber is 20 cm long in its rest frame and γ = 2, what length does an observer measure along the direction of motion due to contraction?
 10 cm.
 
@@ -6159,7 +6159,7 @@ The lower panel shows the next idea. The bulk is the higher-dimensional interior
 The double arrow means that physical questions can be translated between the descriptions. It is not a beam projecting objects into the interior. The drawn waves suggest field activity; they are not a literal map of individual particles to matching boundary bumps.
 The boundary in this lower panel represents the boundary used in a holographic duality. It should not be confused with the black-hole horizon pictured above. Time is omitted from the drawing.
 It is also not Trevor's Klein bottle, whatever the passing resemblance. His desk ornament has no well-defined inside or outside because of its topology, a fact about the shape of glass and nothing to do with holography. The boundary above has two perfectly ordinary sides; the interesting part is that each side's physics can be translated into the other's.
-An example that does some work: holographic duality (often taught under the label AdS/CFT). In plain language: a world with gravity in one description can match a world without gravity in another — same bookkeeping, different nouns. Do not marry the acronym. Keep the idea: two descriptions, one structure.
+An example that does some work: holographic duality (often taught under the label AdS/CFT). AdS is Anti-de Sitter space, a particular negatively-curved gravitational geometry; CFT is a Conformal Field Theory, a quantum theory living on its boundary with no gravity of its own. In plain language: a world with gravity in one description can match a world without gravity in another — same bookkeeping, different nouns. Do not marry the acronym. Keep the idea: two descriptions, one structure.
 In Special Relativity, different observers use different coordinates. In General Relativity, different coordinate systems can describe the same geometry. In holographic duality, dramatically different-looking theories can describe the same physical system.
 That is considerably more useful than saying the universe looks a bit like a hologram. It lets physicists turn a difficult problem into a different problem they may be able to solve. Derek would approve of the method. He would object to being billed for both calculations.
 None of this establishes that our own universe has the particular holographic description shown here. It does not make Derek imaginary, prove a multiverse, or provide a mechanism for tomorrow's murder notice to arrive today. Penny's cinema trip may help her ask a better question. It cannot supply the experimental evidence.
@@ -6172,7 +6172,7 @@ Black-hole entropy scales with horizon area. That helped motivate holographic de
 The boundary is not a cinema screen projecting an unreal world. 
 The claim is an equivalence between physical descriptions in particular theoretical settings.
 
-Exit ticket
+Exit Form
 If a spherical black hole's horizon radius doubles, what happens to its Bekenstein-Hawking entropy?
 It becomes four times as large, because the horizon area becomes four times as large.
 
@@ -6212,7 +6212,7 @@ Different numbers. One invariant relationship.
 
 There is a distinction worth keeping here. An observable is a quantity associated with a possible measurement. An invariant is a quantity unchanged under the transformations being considered. Those are not interchangeable definitions. A measured speed, for example, can depend on the observer.
 Penny's point survives the correction. A change of description must preserve the physical content, even when it changes the numbers used to express it.
-An example that does some work: holographic duality (often taught under the label AdS/CFT). In plain language: a world with gravity in one description can match a world without gravity in another — same bookkeeping, different nouns. Do not marry the acronym. Keep the idea: two descriptions, one structure.
+The same duality Lesson 11 called AdS/CFT - a gravitational space matched to a boundary quantum theory with no gravity of its own - is doing the same job here: same bookkeeping, different nouns, new context.
 This goes well beyond relabelling coordinates. The two descriptions use different theoretical machinery, yet the correspondence identifies their physical content.
 It is rather like Weinstein writing his patent notes in German and Trevor recording the same invention in English. Establish the translation, and you can compare what they actually mean.
 The choice of language does not get either of them out of the patent dispute.
@@ -6259,7 +6259,7 @@ Lesson checkpoint
 The film is a metaphor for thinking about different descriptions, not an interpretation of quantum mechanics and not evidence for a multiverse.
 An analogy can illuminate a concept without proving the concept. We have no proof that a Multiverse exists.
 
-Exit ticket
+Exit Form
 Does a film about parallel universes establish a physical multiverse?
 No.
 
@@ -6278,7 +6278,7 @@ The narrow corridor with twelve or thirteen doors is absurd. The underlying idea
 The crucial concept is tidal gravity. If gravity were perfectly uniform everywhere, you could locally reproduce its effects simply by accelerating your reference frame. But real gravitational fields vary from place to place. That variation produces tidal effects.
 For example, Earth's gravitational field is slightly stronger closer to Earth's centre than farther away. 
 Two freely falling objects initially moving together can therefore gradually move apart or together.
-Picture two people falling toward the Earth, a few metres apart. Both are falling "straight down" - but down means toward the centre of the planet, and the centre is a single point. Their two straight-down directions are not quite parallel; they tilt very slightly toward each other, the way two people walking due north from different points on the equator slowly converge toward the pole. Nobody pushed them together. The geometry did. Chapter 14 puts exactly this argument in Derek's mouth, with two people rather than two clocks, right before the corridor stops behaving.
+Picture two people falling towards the Earth, a few metres apart. Both are falling "straight down" - but down means towards the centre of the planet, and the centre is a single point. Their two straight-down directions are not quite parallel; they tilt very slightly towards each other, the way two people walking due north from different points on the equator slowly converge towards the pole. Nobody pushed them together. The geometry did. Chapter 14 puts exactly this argument in Derek's mouth, with two people rather than two clocks, right before the corridor stops behaving.
 That gradual convergence - or, elsewhere, a gradual separation - is what "geodesic deviation" means. Geodesics are the straight-as-possible paths freely falling objects follow. Deviation is the technical word for the fact that two nearby ones do not stay the same distance apart in curved spacetime. Flat spacetime has no such effect; parallel geodesics stay parallel forever, which is more or less the definition of flat. Curved spacetime always has some deviation, however small, and its size and direction are exactly what the curvature tensors from Lesson 15 are built to keep track of.
 → Glossary: Geodesic · Tensor
 
@@ -6291,7 +6291,7 @@ Lesson checkpoint
 Curvature reveals itself through the relative behaviour of neighbouring free-fall paths; this is the physics of tidal gravity.
 'Gravity can be transformed away' is only a local statement.
 
-Exit ticket
+Exit Form
 What survives as evidence of curvature when a uniform gravitational field can be mimicked by acceleration?
 Tidal effects.
 
@@ -6325,7 +6325,7 @@ Lesson checkpoint
 Only spacelike-separated events can have their time ordering reversed between inertial frames without contradicting relativity.
 Relativity does not allow the departure and arrival of one ordinary causal journey to swap order merely by changing coordinates.
 
-Exit ticket
+Exit Form
 If two events are causally connected, can an inertial observer simply transform them into the opposite temporal order?
 No.
 
@@ -6402,7 +6402,7 @@ Lesson checkpoint
 Tensors let physical laws be expressed consistently across different coordinate systems; the Einstein field equation relates spacetime geometry to matter and energy.
 Emergent spacetime and quantum gravity are active research areas, not completed theories.
 
-Exit ticket
+Exit Form
 What is on the geometric side of Einstein's field equation?
 Curvature, packaged in the Einstein tensor plus the cosmological-constant term.
 
@@ -6431,7 +6431,7 @@ Lesson checkpoint
 An event coordinate is a label within a description of spacetime; proper time is what a clock actually measures along its own path. Confusing the two produces exactly the kind of "impossible" result this book has been full of.
 A record that looks like it "knows the future" may simply be labelled with someone else's coordinate rather than your own proper time.
 
-Exit ticket
+Exit Form
 If a clock shows a value nobody's watch actually ticked through, is the clock lying - or is somebody reading the wrong number off it?
 The clock isn't lying. Somebody's reading a coordinate as if it were a measurement.
 SUMMARY
