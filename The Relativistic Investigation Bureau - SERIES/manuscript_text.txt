@@ -83,6 +83,7 @@ The paperwork predicted his death three days before it was due to occur. Derek t
 He checked the date, then the time, then the old clock.
 Then the clock again, because the first check had produced a result he found professionally inconvenient. 11:17. The mysterious clock had stopped.
 Then there was Sherlock, a dolphin who worked remotely as an occasional Bureau consultant and was paid in fish. Nobody had yet found this arrangement stranger than the cases he commented on.
+The Bureau's official consultant-fee schedule still listed dolphins under Miscellaneous Marine. Accounts had queried it twice. Both queries had been answered, correctly, with a receipt for mackerel.
 For the same reason, when Derek found a murder notice announcing his own future death, he did not immediately conclude that he was being hunted by a time traveller, a quantum ghost or an unusually vindictive neighbour. 
 The case would eventually force an even less comfortable possibility: that the Bureau's own computer was not merely recording the crime, but mis-filing a future event as one.
 He began with the evidence. 
@@ -114,6 +115,7 @@ Derek had objected. Penny had noted that they had never actually received a case
 Derek had said that this was beside the point.
 Penny had stated that this was precisely the point.
 Derek had lost.
+Derek had lost that argument years ago and had, as a matter of policy, continued to lose it every morning since. The sign was still right. The email was still early.
 He was now looking at an email from the Bureau. The subject line was:
 CASE UPDATE: DEREK GENT
 He opened it.
@@ -1038,6 +1040,7 @@ EVENTS
 Trevor considered. "Two frames?"
 "Possibly."
 Derek returned to the equations. "Not if the transformation requires a velocity greater than light."
+Trevor wanted to arrest the number. Penny wanted to arrest the assumption. Derek wanted tea, and then the assumption. "v > c is not a confession," he said. "It is the universe declining to countersign our form."
 Trevor thought. "Then perhaps the events are not connected the way we assume."
 "Exactly."
 Penny spun to face them. "So, we're back to the beginning."
@@ -1207,6 +1210,7 @@ He returned to his mysterious clock. The patent attorney studied the amended dia
 "Occasionally."
 The attorney allowed himself a smile. "I suppose I should be grateful."
 "You should."
+The spring would continue being wrong while he was gone. Gravity would continue being geometry. Only one of these facts was going to London.
 Weinstein regarded his watch again. The difference between it and the wall clock had increased. His brow furrowed.
 That was no longer ordinary. He stood. "Do you have another clock?"
 The attorney looked puzzled. "Yes."
@@ -2088,6 +2092,7 @@ Barbarian examined the clocks around the empty room. Then at the sky, then at th
 "You're taking this well," Barbarian observed, on the platform.
 "There's very little else to do with it," Derek said. "I can't negotiate with a frozen bird. I can investigate one. That's the whole of the choice, so I might as well make it."
 Barbarian looked at him with something that was not quite approval and not quite pity. "Most people need rather longer to arrive at that."
+Penny's smile faded on the platform. "He can mislay time," she said. "He cannot mislay a twelve-year-old. That one still has a school bag."
 "Most people," Derek added, "haven't had a Tuesday like mine."
 And somewhere in London, a distant train began moving toward empty Platform Seven. It had left yesterday. It would arrive tomorrow.
 And, according to the timetable, it had never existed at all.
@@ -3435,6 +3440,7 @@ LOCAL RULES FAIL AT ARM'S LENGTH
 He closed it before it could become a textbook.
 Nothing about that contradicted ordinary experience. It merely contradicted the assumption that everyone was entitled to the same old clock. 
 Rain struck the platform - then paused mid-air, reconsidered, and chose upward. Derek did not say gravity was geometry. He held out a cup. The cup filled from the bottom.
+"If the rain can disagree with itself in public," Derek said, "we do not arrest the weather. We ask which description we have been reading as a crime."
 Freely falling objects followed geodesics. Clocks followed worldlines and measured proper time along them. Again, nothing inherently contradictory.
 Trevor timed the upward drops against his watch and the station clock. The watch advanced. The station clock did not. "Local rules still work in my fist," he explained. "They fail at arm's length. That is the whole argument. Write nothing else down."
 Derek stopped writing.
@@ -4321,6 +4327,7 @@ Penny smiled. "Lovely. Next?"
 Derek stared at the rain. "Not quite."
 He took out his notebook. Under the previous entry he wrote:
 NOTE: Never book a relativistic flight with Ryanair.
+"If this carriage is a twin paradox," Penny said, "I want the receipt for the missing years. I will not accept a delay certificate."
 He closed the notebook without adding the joke he'd have made yesterday. Somewhere under London, a clock was still waiting for 12:04, and this time he didn't feel like laughing about it.
 The distant train continued into the darkness. And somewhere ahead, the clock was still waiting for 12:04.
 
@@ -4626,6 +4633,7 @@ Derek shook his head.
 "No."
 He stepped toward the carriage.
 "That isn't settled at all."
+Mrs Marsh, later, declined to inventory the cucumber. "It is also lunch if you fail to return it," she said. "I will not have dual-use veg left on the blotter."
 
 Rule: One object. Two descriptions. Neither is a lie until you file it as Murder.
 
@@ -4800,6 +4808,7 @@ The multiverse stopped being merely funny and became a question: if there were m
 That was already familiar from relativity: a Lorentz transformation changed the coordinates assigned to events, not the invariant interval. General Relativity wore the same lesson in a heavier coat - the geometry could bend, gravity itself could be curvature rather than a force, and the physics still didn't care which description you found frightening. Fear was a coordinate too. Whether Sophie was safe did not change with the angle you looked at it from.
 Perhaps holographic duality was a more radical version of the same lesson - and the murder file was merely the Bureau's least elegant dual description, one description with gravity and curved spacetime, another with quantum fields and none, both encoding the same physics. "Bloody hell," Penny said, to nobody in particular.
 There was a harder version of the same thought, and she made herself finish it rather than flinch. If every possible history was, in some sense, equally real mathematically, then perhaps the correct picture wasn't a multiverse of separate branching worlds at all, but a single four-dimensional block in which Tuesday and next Tuesday were simply two addresses in the same building - both permanently there, neither one waiting its turn. Not many futures. One geometry, viewed one slice at a time by someone stuck experiencing it in order. If that was right, the file marked ARRIVAL: 12:04 wasn't a prediction. It was a postcode. She did not enjoy that thought and declined, for now, to text it to Derek.
+She typed: "A change of stationery is not a change of daughter." She deleted it.
 Then she remembered the cucumber. She'd left it at the office. Derek texted: WHERE ARE YOU? - Cinema - WHAT ARE YOU WATCHING? - Everything Everywhere All at Once. - WHY? - Because you keep talking about holography and I wanted to see what the Americans think it means. - AND? - Jamie Lee Curtis survived Halloween. - THAT'S YOUR PHYSICS CONCLUSION? Penny typed: My physics conclusion is that if different descriptions can encode the same underlying reality, SR and GR don't need to be fundamental to be true. - NOT BAD. Then, a moment later: ALSO, JAMIE LEE CURTIS DID NOT "SURVIVE HALLOWEEN" IN THE PHYSICS SENSE. - You know what I meant. - I don't. - Americans. - That settles it.
 She put the phone away, laughing - and then noticed a character on screen holding a cucumber. Not identical to hers. Of course it wasn't; that would have been ridiculous. Still, she photographed the screen and sent it to Derek. LOOK. - I'M LOOKING. THAT'S A CUCUMBER. - So? - Nothing. - Yet.
 She put the phone away for good this time, and thought about the Bureau, the clocks, the cold rain, the train, the other Derek. Perhaps they had been approaching the problem backwards all along - assuming something strange was happening inside spacetime, when the strange thing might be the relationship between different descriptions of it. What if the clocks weren't moving incorrectly, only belonging to different descriptions? What if the train wasn't travelling through a strange geometry - what if the train was the strange geometry? She wrote one last message: Don't investigate the clocks. Investigate the descriptions. Maybe the universe doesn't have one story. Maybe it has several descriptions that all have to agree on what can actually happen.
@@ -5706,6 +5715,10 @@ Teaching - the physics under the joke, in ordinary language. Lesson checkpoint
 Keep this / Common trap / Quick test. If you can answer the Quick test cold, you learned something rather than merely surviving the chapter.
 Course rule: separate what an observer measures from what the theory requires is invariant. When a metaphor helps, keep it. When the metaphor starts making predictions the equations forbid - throw it away. 
 The cucumber is an excellent laboratory. It is also food.
+Three more course rules, while we're being honest:
+A shared now is a convenience, not a fact. If a plot point requires everyone in London and Munich to mean the same Tuesday, the plot point is Newtonian, and the book has already said so.
+v > c in a transform is a failed assumption about events, not a discovery about light. Arrest the premise.
+Where this book says "not settled," it means Barbarian, holography as cosmology, and emergent spacetime. It does not mean the interval, the light cone, or the equivalence principle are waiting for a committee.
 
 
 Syllabus Map
@@ -5774,6 +5787,7 @@ This is why time dilation is not a story about clocks getting confused. It is wh
 None of this is hypothetical. 
 The satellites that make a phone's map work are moving fast enough, and sitting high enough out of Earth's gravity well, that both effects discussed in this book - Special Relativity's time dilation from speed, and General Relativity's time dilation from gravity - apply to their onboard clocks simultaneously, pulling in opposite directions. 
 Engineers correct for it deliberately, every single day, or a phone's position would drift by several kilometres within hours. The Bureau finds this less remarkable than most people do. The Bureau finds most things less remarkable than most people do.
+The Bureau's brass clock is not a satellite. It is doing a ruder job: displaying a label as if it were a tick.
 
 Lesson checkpoint
 Special Relativity starts with two postulates, and the constancy of light forces space and time to transform together.
@@ -5809,6 +5823,7 @@ A key invariant is the spacetime interval. For the one-dimensional motion used h
 s² = c²Δt² - Δx²
 Here Δt is the time between the two events, and Δx is their separation in space. All inertial observers calculate the same value of s² for the same pair of events, provided they use the same sign convention.
 The individual space and time measurements can change. This combination stays the same.
+s² is what stays the same when the stationery changes. Case 1047 kept rewriting its fields because the Bureau was editing labels and calling the edits news. The interval does not care which drawer you stamp.
 This chapter uses the timelike-positive convention. A later chapter uses the equally valid mostly-plus convention.
 
 
@@ -5893,6 +5908,7 @@ That difference is the tell, and it has a name: a tidal effect. Locally - in a l
 → Glossary: Tidal Force
 This is why General Relativity cannot simply be "acceleration, but everywhere." A single accelerating frame can cancel gravity inside one small lift. No single frame cancels it in every lift on Earth at once, because the leftover - what no accelerating frame can absorb - is the actual curvature of spacetime. Chapter 14 puts Derek in a corridor built entirely out of that leftover: two clocks agreeing perfectly nearby and disagreeing badly forty-seven metres away, for exactly this reason.
 → Glossary: Curvature
+Pound and Rebka, 1960, Harvard. A gamma-ray source and an absorber separated by 22.5 metres of tower. The frequency shift matched gravitational time dilation to about one percent. Height is cheap. Disagreement between honest clocks is not. The Bureau's anomaly is larger than a tower. That is the interesting part, not a licence to invent a new theory before lunch.
 
   
 
@@ -5926,6 +5942,7 @@ The astronauts inside feel weightless because they are falling together with the
 The surface of the Earth prevents us from following our natural free-fall path.
 The floor pushes upward on our feet. 
 Which is why standing still is, in a relativistic sense, rather more strenuous than orbiting Earth.
+The floor is what keeps you off your geodesic. Derek's lift with Sophie, later, is the same joke told at department-store volume.
 The apple was therefore not really falling because gravity "pulled" it downward in the Newtonian sense.
 It was following the geometry. 
 Newton wasn't wrong. 
@@ -5966,6 +5983,7 @@ A singularity is not necessarily an object sitting somewhere waiting to be photo
 It may be telling us that General Relativity is incomplete at that point. 
 Which is physicist-speak for: 
 "The equations have stopped being helpful. Someone should invent some better ones."
+If the Underground appears to end a path, the honest question is whether the description failed - not whether London has installed a black hole between stations.
 
 
 Lesson checkpoint
@@ -5998,6 +6016,7 @@ General Relativity contains Special Relativity locally. In a sufficiently small 
 So: SR = local flat-spacetime physics while
 GR = the larger theory describing curved spacetime and how those local frames fit together. This is why the theories can coexist perfectly well.
 Here is the intuition without the mathematics. Stand on a football pitch and the ground looks flat. Look at the whole planet from orbit and it is obviously a sphere. Nothing about the Earth changed between those two views - only how much of it you were looking at. A small enough patch of a curved surface always looks flat, to whatever precision you happen to be measuring with. Spacetime behaves the same way: zoom in on a small enough patch, for a short enough time, and General Relativity's curved geometry is indistinguishable from Special Relativity's flat one. Zoom back out and the curvature reappears - not because SR broke, but because the patch was never the whole pitch.
+The cold rain going sideways is the book refusing to stay in the small patch. That is a tidal hint, not a licence to throw SR away.
 → Glossary: Curvature
 This is the same fact Lesson 4 called a tidal effect, seen from the other direction: local flatness is what you get before the tides show up.
 → Glossary: Tidal Force
@@ -6069,6 +6088,7 @@ Put a number on it. At a steady γ = 5/3 (roughly 0.8c, chosen because the arith
 
 And this is why booking Ryanair is not actually an established method of achieving relativistic time travel.
 The airline has, so far, declined to comment.
+Hafele and Keating, 1971: cesium clocks flown east and west around the world, compared with clocks that stayed home. Special and general corrections both showed up. The travelling clocks were not confused. They had taken different paths. Derek's other-Derek problem is this experiment wearing a raincoat.
 
 Lesson checkpoint
 Time is what a clock actually accumulates along its worldline; different worldlines can contain different amounts of proper time.
@@ -6094,6 +6114,7 @@ Different observers assign different measurements.
 But the underlying relativistic structure is consistent. This is precisely why the cucumber makes such a useful running joke.
 It is an ordinary object. The same laws of relativity apply to it as to everything else.
 The cucumber has, however, declined to comment.
+Length contraction is a statement about two ends measured at the same time in your frame. If you measure the front now and the back later, you have not measured a length. You have measured a muddle. The Bureau made that muddle with clocks and called it a murder.
 This is probably for the best.
 <- Chapter for this lesson: Chapter 11
 
@@ -6433,19 +6454,28 @@ Well. That's the problem.
 We haven't finished. 
 But the good news is that neither has the universe. Which is rather reassuring.
 Glossary
+Andromeda Paradox. Penrose’s illustration that a small change of velocity on Earth can swing a distant “now”-slice across days on Andromeda. It is a statement about simultaneity for spacelike separation, not a method for sending news to Andromeda.
+Block Universe. The view that past, present, and future events are equally part of a four-dimensional whole. Relativity’s geometry is friendly to it; it is not a theorem that free will is a clerical error.
 Causal Structure. The pattern of which events can influence which others, determined by spacetime's light cones and how they connect. Coordinate systems are negotiable; these causal relationships are not.
 Curvature. The departure of spacetime geometry from flatness, revealed by effects such as nearby freely falling objects accelerating relative to one another. Matter and energy influence curvature, but spacetime can be curved even in empty regions. No external dimension is required for it to bend into.
 Decoherence. The suppression of observable quantum interference as a system becomes entangled with its environment. It helps explain why everyday objects - including cucumbers - behave classically. By itself, it does not explain why a measurement yields one particular outcome.
 Einstein Equation. The central equation of general relativity, usually called the Einstein field equations. It relates spacetime curvature to the energy, momentum, and stresses of matter and fields. Matter influences geometry; geometry guides motion. The mathematics takes somewhat longer.
+Einstein Synchronisation. The convention that two distant clocks are set by assuming the one-way speed of light is the same in both directions. The two-way speed is measured; the one-way split is chosen.
 Equivalence Principle. In a sufficiently small, freely falling laboratory, nongravitational experiments behave as they would in an inertial laboratory without gravity. Over larger regions, tidal effects can reveal the difference. A foundation of general relativity, and the reason lifts feature so heavily in physics thought experiments.
+Event Coordinate. A name for where-and-when inside a chosen description of spacetime. Not proper time. A label, not a measurement of elapsed time along any particular clock’s path.
 Event Horizon. The boundary of a black hole's region of no escape: once inside, no future-directed signal can reach the distant exterior. Not light. Not a strongly worded letter.
 Geodesic. The straightest possible path in a given geometry. Ideal freely falling objects follow spacetime geodesics when no nongravitational forces act on them. 
+GPS Correction. The adjustment applied to satellite clocks for both special-relativistic slowing from orbital speed and general-relativistic speeding from weaker gravity. Both effects are real, and they point in opposite directions; skipping either term produces a map that lies.
+Hafele–Keating Experiment. A 1971 measurement in which atomic clocks flown around the world accumulated different proper time from clocks that stayed behind, in the direction relativity predicted once both speed and altitude were accounted for.
 Holographic Principle. The proposal, motivated by black-hole entropy, that a gravitational region's physical information can be described by degrees of freedom associated with a boundary of one fewer spatial dimension. Holographic dualities give this idea concrete form in particular theoretical settings. Its application to our universe remains an open question.
 Light Cone. The boundary between lightlike directions and the timelike or spacelike directions at an event. Its future and past portions show the local limits on where signals can go and where they can come from. Cucumbers must remain within the speed limit.
 Lorentz Transformation. A transformation relating space and time coordinates in inertial frames while preserving the spacetime interval. Transformations between frames in relative motion underpin time dilation, length contraction, and the relativity of simultaneity.
 Manifold. A space that can be described in small patches using ordinary coordinates, even when its overall shape or connectivity is more complicated. Earth's surface is a familiar example. A manifold provides the underlying space; a metric supplies its geometry.
 Metric. The mathematical object that determines local spacetime intervals and allows lengths and elapsed times to be calculated along paths. Its components depend on the coordinates chosen. Complicated coordinates can make even flat spacetime look mathematically unwelcoming.
+Pending Geometry. The Bureau’s filing category for an event that looks like a crime only if you insist on a shared, universal “now.” Not a punchline: the correct drawer for a coordinate label mistaken for a corpse.
+Pound–Rebka Experiment. A 1960 measurement of gravitational redshift over 22.5 metres of a tower at Harvard. Honest clocks, a small height difference, and a real, measurable disagreement.
 Proper Time. The elapsed time measured by an ideal clock along its own path through spacetime. Observers may use different coordinates, but they agree on what that clock records between two events on its path.
+Reference Frame. A systematic way of assigning coordinates to events, usually tied to an observer’s state of motion. An inertial frame is one in which free objects keep constant velocity.
 Simultaneity. The assignment of the same time to different events. Spatially separated events that are simultaneous in one inertial frame need not be simultaneous in another. Neither frame is mistaken; their definitions of "now" differ.
 Singularity. A breakdown or incompleteness of the classical spacetime description, often associated with unbounded curvature. Technically, a key sign is a freely falling or lightlike path that cannot be continued despite reaching its end in a finite path parameter. A singularity need not be an ordinary point within spacetime. The map itself has run out.
 Spacetime Interval. The invariant combination of spatial and temporal separation. In special relativity, inertial observers agree on it even when they disagree about distance and duration separately. In curved spacetime, the metric defines the corresponding local interval between infinitesimally nearby events.
@@ -6512,6 +6542,13 @@ Muller, Richard A. Now: The Physics of Time. W. W. Norton, 2016. COMMENT: A work
 Cox, Brian, and Jeff Forshaw. Why Does E=mc²? (And Why Should We Care?). Da Capo Press, 2009. COMMENT: A patient, readable derivation of the equation everyone quotes and almost nobody can actually get to. Difficulty: Medium. Builds the result up from the same postulates this book keeps joking about, minus the dolphin.
 Susskind, Leonard. The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics. Little, Brown and Company, 2008. COMMENT: The physicist who helped found the holographic principle, recounting the decades-long fight over whether information falling into a black hole is truly lost. Difficulty: Medium. Covers the area-law entropy clue and the bulk/boundary picture properly - Derek's filing cabinet is a gentler analogy than anything in this book's actual title.
 Wheeler, John Archibald. A Journey into Gravity and Spacetime. Scientific American Library, 1990. COMMENT: Wheeler practically invented the modern intuition for curved spacetime, and this is his own attempt to hand that intuition to a general reader - geometry and pictures doing the work equations do everywhere else on this list. Difficulty: Low-Medium. The natural next stop after Lesson 5's apple and Lesson 13's tidal corridor, from the physicist who saw GR most clearly in pictures.
+Carroll, Sean. Spacetime and Geometry. Addison-Wesley, 2004. COMMENT: For the reader who finishes Lesson 15 and wants the tensors to stop being metaphors. Difficulty: High. Not required for Case 1047.
+Geroch, Robert. General Relativity from A to B. University of Chicago Press, 1978. COMMENT: Almost no tensors; almost all geometry. Difficulty: Medium. The apple chapter, stretched into a short book.
+Norton, John D. Einstein for Everyone. Online lecture notes, University of Pittsburgh. COMMENT: Already linked from Lesson 1's simultaneity page - a bibliography line so the notes survive if a hyperlink rots. Difficulty: Low-Medium. Honest about history and about what the equations do not say.
+Penrose, Roger. The Emperor's New Mind. Oxford University Press, 1989. COMMENT: Use the simultaneity illustration; leave the rest of Penrose's argument for another case. Difficulty: Medium, where it stays on now-slices.
+Rovelli, Carlo. The Order of Time. Riverhead Books, 2018. COMMENT: A working physicist arguing that time's apparent flow is not fundamental. Difficulty: Low-Medium. File next to Barbour, not on top of him - they are not the same programme.
+Schutz, Bernard. A First Course in General Relativity. Cambridge University Press, 1985. COMMENT: The standard next course after this Appendix. Difficulty: High. Weinstein would assign it; Matkowski would collect the problem sets.
+Taylor, Edwin F., and John Archibald Wheeler. Spacetime Physics. W. H. Freeman, 1992. COMMENT: The cleanest introductory drill on intervals, proper time, and diagrams. Difficulty: Medium. This is Lesson 2 with homework.
 
 
 One Last Thing
