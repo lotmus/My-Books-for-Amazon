@@ -22,7 +22,68 @@ made to ask.
 
 ---
 
-## 2. The seven moves
+## 2. Who the reader is
+
+**Formally an equal. In practice, somebody who does not yet know anything about
+the subject.**
+
+Both halves matter and they are not in tension. The first governs tone: never
+talk down, never write *as you surely know*, never apologise for explaining. The
+second governs pace: assume nothing has been met before, and build it.
+
+The asymmetry is what settles every judgement call. Being told something you
+already knew costs a reader four seconds. Being hurried past something you did
+not know costs them the rest of the chapter, and sometimes the book.
+
+### The writer cannot feel the difficulty
+
+Whoever writes a passage already understands it. That understanding is invisible
+from the inside, and it quietly rewrites every estimate of what needs saying.
+The feeling that *this is surely enough introduction* is not a neutral
+observation — it is the opinion of the one person in the exchange who cannot be
+confused by the material.
+
+So do not trust it. Compensate by rule instead:
+
+- **If a passage feels slightly too slow to you, it is about right.** If it
+  feels exactly right to you, it is already too fast.
+- **Assume more introduction than seems necessary.** The on-ramps that work in
+  this book run between 380 and 660 words before the formal statement arrives.
+  That is the calibration, and it is longer than instinct suggests.
+- **One new thing per paragraph** wherever the material is hard. Two is a
+  paragraph that will have to be read twice.
+
+### Nothing may be assumed in silence
+
+Every term used has been built earlier in the book, or is built here, or is
+signposted explicitly as coming later. There is no fourth option.
+
+Two habits catch most breaches:
+
+- When you write *recall that*, stop and check it was ever actually said. Often
+  it was not, and *recall* is doing the work of a definition that never
+  happened.
+- When you use a word the reader would have to look up — *injective*,
+  *anticommutative*, *antiderivative* — either it was introduced already, or it
+  is introduced in the same sentence.
+
+### What "equal" rules out
+
+Not the explaining. The dismissiveness:
+
+- *clearly, obviously, simply, just, of course, it is easy to see* — banned at a
+  hinge, as the register section below repeats.
+- *as you know*, *you will remember*, *needless to say* — each tells a reader
+  who does not know that they ought to have.
+- Apologising for pace: *labouring the point*, *at the risk of stating the
+  obvious*. Slowness is not a fault to be flagged. Go slowly and say nothing
+  about it.
+
+A reader who already knows the material can skim four paragraphs in ten seconds.
+A reader who does not cannot reconstruct four paragraphs that were never
+written. Write for the second one; the first is never harmed.
+
+## 3. The seven moves
 
 Use these in order. Each move has a job, and skipping one is what makes an
 explanation feel like it started in the middle.
@@ -138,7 +199,7 @@ Then translate into whatever the reader arrived with. Most readers were taught
 
 ---
 
-## 3. The structural rule: intuition and proof must share numbers
+## 4. The structural rule: intuition and proof must share numbers
 
 The informal table and the formal derivation that follows **must use the same
 example and reach the same number.**
@@ -158,7 +219,7 @@ in. Every table in the Tower should be reproducible by a reader with a pencil.
 
 ---
 
-## 4. Forward references
+## 5. Forward references
 
 When a passage hand-waves, say so and say where the rigour lives.
 
@@ -176,7 +237,7 @@ again"* when the algorithm had never been shown.
 
 ---
 
-## 5. Register
+## 6. Register
 
 - **Short sentences at the point of difficulty.** Long ones are fine for scenery,
   never for the hinge.
@@ -197,7 +258,7 @@ again"* when the algorithm had never been shown.
 
 ---
 
-## 6. When to use the full seven moves — and when not
+## 7. When to use the full seven moves — and when not
 
 Use all seven for the **first encounter with a genuinely new kind of object**:
 the derivative, the integral, the limit, the vector, the logarithm, the complex
@@ -216,7 +277,7 @@ notation.
 
 ---
 
-## 7. Checklist before a room is finished
+## 8. Checklist before a room is finished
 
 1. Could a reader who skipped the previous floors follow the first paragraph?
 2. Does something familiar visibly **break** before new machinery appears?
@@ -230,10 +291,15 @@ notation.
 10. Does every forward reference point at a room that exists and delivers?
 11. Has every figure in the table been checked exactly, not numerically?
 12. Are *clearly*, *obviously*, *simply* and *just* absent from the hinge?
+13. Is every term used either built here, built earlier, or signposted as
+    coming later?
+14. Does any paragraph at the hard part carry more than one new idea?
+15. Does the passage feel slightly too slow to you? If it feels exactly right,
+    it is too fast.
 
 ---
 
-## 8. The two reference passages
+## 9. The two reference passages
 
 When in doubt, read these and copy the shape, not the words:
 

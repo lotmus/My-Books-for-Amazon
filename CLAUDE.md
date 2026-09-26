@@ -17,6 +17,29 @@ The single sentence it rests on:
 > **Never define a thing before the reader has felt the need for it, and never use
 > a symbol before the arithmetic has already made the point.**
 
+**Who the reader is — formally an equal, in practice somebody who does not yet
+know anything.** Tone treats them as an intelligent adult; pace assumes nothing
+has been met before. These do not conflict: respect is tone, slowness is pace.
+
+Everything in these books is hard to understand without a long run-up, so give
+one. The writer already understands the material and therefore cannot feel where
+it is hard — the sense that *this is surely enough introduction* is the opinion
+of the one person who cannot be confused by it. So work by rule instead:
+
+- If a passage feels slightly too slow to you, it is about right. If it feels
+  exactly right, it is already too fast.
+- Assume more introduction than seems necessary. The on-ramps that work run
+  380–660 words before the formal statement.
+- One new idea per paragraph wherever it is hard.
+- Nothing assumed in silence: every term is built here, built earlier, or
+  signposted as coming later. When you write *recall that*, check it was ever
+  actually said.
+- "Equal" rules out the dismissiveness, never the explaining. No *as you know*,
+  no *needless to say*, and no apologising for going slowly.
+
+Being told something you already knew costs a reader four seconds. Being hurried
+past something you did not know costs them the chapter.
+
 The seven moves, in order, for the first encounter with any genuinely new object:
 
 1. **Start from something the reader already owns** — a road sign's gradient, a
