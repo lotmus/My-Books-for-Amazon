@@ -1,0 +1,13 @@
+# Build dependencies (reinstall with `npm install`)
+node_modules/
+
+# Build outputs (regenerate with md2docx.js + the resolve/verify scripts) and
+# other generated/delivered binaries -- the markdown + Figures/*.png are the
+# source of truth, not these.
+*.docx
+*.pdf
+toc_pages.json
+
+# Superseded drafts, reviewer feedback, and old cover concepts -- kept locally
+# for reference, not part of the book's tracked history.
+backup and drafts/
