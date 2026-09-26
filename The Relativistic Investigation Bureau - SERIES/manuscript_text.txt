@@ -5796,7 +5796,6 @@ Proceed to Lesson 1.
 
 Lesson 1
 Special Relativity Is Rude
-<- Chapter for this lesson: Chapter 1
 Module A · Foundations of Special Relativity · Case link: Chapters 1-3. Learning objective: State Einstein's two postulates and explain why constant c forces space and time to transform together. The first thing to understand about Special Relativity is that it does not begin with the statement:
 "Everything is relative."
 That is a popular summary and is also rather misleading. Einstein's Special Relativity rests on two principles: The laws of physics are the same in all inertial reference frames.
