@@ -17,10 +17,11 @@ def font(size=90, bold=True, italic=False):
     return ImageFont.truetype(FONT_I if italic else (FONT_B if bold else FONT_R), size)
 
 def canvas():
-    im = Image.new("L", (W, H), 255)
+    # RGB, not mode L: Word often shows 8-bit grayscale PNGs as a broken picture.
+    im = Image.new("RGB", (W, H), (255, 255, 255))
     return im, ImageDraw.Draw(im)
 
-def text(d, xy, s, size=90, bold=True, anchor="mm", italic=False, fill=0):
+def text(d, xy, s, size=90, bold=True, anchor="mm", italic=False, fill=(0, 0, 0)):
     d.text(xy, s, font=font(size, bold, italic), fill=fill, anchor=anchor)
 
 def arrow(d, p0, p1, lw=LW, head=48):
@@ -492,11 +493,11 @@ PHOTOS = {
 
 def placeholder(n, desc):
     im, d = canvas()
-    d.rectangle([40, 40, W-40, H-40], outline=0, width=8)
-    d.rectangle([120, 120, W-120, H-120], outline=120, width=4)
-    text(d, (900, 520), "PHOTO", 150, fill=110)
-    text(d, (900, 690), f"Figure {n}", 100, fill=110)
-    text(d, (900, 860), desc, 56, bold=False, fill=90)
+    d.rectangle([40, 40, W-40, H-40], outline=(0, 0, 0), width=8)
+    d.rectangle([120, 120, W-120, H-120], outline=(120, 120, 120), width=4)
+    text(d, (900, 520), "PHOTO", 150, fill=(110, 110, 110))
+    text(d, (900, 690), f"Figure {n}", 100, fill=(110, 110, 110))
+    text(d, (900, 860), desc, 56, bold=False, fill=(90, 90, 90))
     save(im, f"fig{n:02d}_slot.png")
 
 if __name__ == "__main__":

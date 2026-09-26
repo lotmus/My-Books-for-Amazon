@@ -27,13 +27,13 @@ Caption: one sentence what it is, one sentence what to notice. Credit on its own
 
 | Fig | Place | Kind | Kindle picture |
 |---|---|---|---|
-| 0 | Prologue | **Photo** | A kitchen clock in a bright window, daylight outside. Not a night sky. |
+| 0 | Prologue | **Photo** | A kitchen clock on a bright wall. Not a night sky. |
 
 ## Part I — There Is No Now (Ch 1–6)
 
 | Fig | Ch | Kind | Kindle picture |
 |---|---|---|---|
-| 1 | 1 | **Photo** | Two people, one walking, one still, in good indoor light. |
+| 1 | 1 | **Photo** | One kitchen (empty still OK). Caption tells the reader to put two people in it — one walking, one still. |
 | 2 | 2 | **Diagram** | One large dot. Four large labels: *x y z t*. |
 | 3 | 3 | **Photo** | The Sun, disk filling most of the frame (SOHO/SDO). Caption: eight minutes old. |
 | 4 | 4 | **Photo** | Andromeda **cropped to the bright disk**. |

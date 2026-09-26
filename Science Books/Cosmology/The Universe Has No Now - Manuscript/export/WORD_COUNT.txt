@@ -1,3 +1,13 @@
-44172
-missing=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]
-built=[]
+112801
+docx=export\The_Universe_Has_No_Now.docx
+epub=export\The_Universe_Has_No_Now.epub
+md_images=46
+epub_images=46
+docx_images=46
+drawn_diagrams=26
+fetched_photos=fig00,fig01,fig03,fig04,fig08,fig09,fig14,fig16,fig17,fig18,fig20,fig24,fig25,fig29,fig31,fig32,fig34,fig41,fig42,fig45
+photo_placeholders=[]
+missing=[]
+broken=[]
+built=['C:\\Users\\lomus\\OneDrive\\My Books for Amazon\\Science Books\\Cosmology\\The Universe Has No Now - Manuscript\\export\\The_Universe_Has_No_Now.docx']
+cover=export\cover_typographic.jpg

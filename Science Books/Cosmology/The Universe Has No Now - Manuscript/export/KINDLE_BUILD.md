@@ -52,8 +52,8 @@ python Figures\build_docx.py "export\The_Universe_Has_No_Now.docx"
 
 ## KDP ingest
 
-1. Cover JPEG (2560×1600 or KDP’s current ratio) — not in this folder.
+1. Cover JPEG — a simple typographic file is at `cover_typographic.jpg` (1600×2560, no NASA). Open it before treating it as store-live. KDP’s current ratio still wins if Amazon has moved.
 2. Manuscript: the `.docx` or the `.epub`.
 3. Product description: paste from `..\KDP_Description.md` (sell copy, then Credits).
-4. Open the file in Kindle Create or KDP previewer. Check TOC, chapter starts, grayscale figures, and the six placeholder photos.
-5. Drop real JPEGs for `fig00`, `fig01`, `fig31`, `fig32`, `fig34`, `fig42` into `Figures\figs\` and rebuild if you do not want framed slots in the store file.
+4. Open the file in Kindle Create or KDP previewer. Check TOC, chapter starts and grayscale figures. All 20 photo slots hold real photographs since 14 Sep 2026 (sources and licences in `..\Figures\CREDITS.md`).
+5. To swap any of `fig00`, `fig01`, `fig31`, `fig32`, `fig34`, `fig42` for an author photo, drop the JPEG into `Figures\figs\`, update its credit line in `KDP_Description.md` and `CREDITS.md`, and rebuild.

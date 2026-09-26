@@ -12,7 +12,7 @@ Lothar J. Musiol. One figure per chapter plus Fig 0 (46 slots).
 
 `build_docx.py` already prefers `figNN.jpg` over `figNN_slot.png`. Drop a JPEG named for the figure number into `Figures/` or `Figures/figs/` and run `python swap_photos.py`.
 
-No AI stand-ins for Hubble, JWST, Planck, EHT, rover, or Cassini frames. The 14 photographs below are agency or survey images. The 6 kitchen / bird / vault / dish slots stay framed placeholders until a real camera JPEG is dropped in.
+No AI stand-ins for Hubble, JWST, Planck, EHT, rover, or Cassini frames. The 14 space photographs below are agency or survey images. The 6 kitchen / bird / vault / dish slots were filled on 14 September 2026 with Creative Commons and Unsplash camera photographs (see the last table); the framed `_slot.png` files stay on disk only as fallbacks.
 
 ---
 
@@ -24,7 +24,7 @@ Fig 2, 5, 6, 7, 10, 11, 12, 13, 15, 19, 21, 22, 23, 26, 27, 28, 30, 33, 35, 36, 
 
 ---
 
-## Real photographs (14)
+## Real photographs, space (14)
 
 Cropped and contrast-boosted for a 6-inch grayscale Kindle. Meaning is shape and brightness, not hue. Files: `figs/figNN.jpg`.
 
@@ -33,14 +33,14 @@ Cropped and contrast-boosted for a 6-inch grayscale Kindle. Meaning is shape and
 | 3 | `fig03.jpg` | The Sun, disk filling the frame (SDO / HMI continuum or AIA). | Credit: NASA/SDO |
 | 4 | `fig04.jpg` | Andromeda, cropped to the bright disk. | Credit: NASA/ESA/Hubble |
 | 8 | `fig08.jpg` | Deep-field crop: a handful of sharp galaxies (Hubble Ultra Deep Field). | Credit: NASA/ESA/STScI |
-| 9 | `fig09.jpg` | Planck microwave sky, grayscale, words *warmer* / *cooler*. | Credit: ESA/Planck Collaboration |
-| 14 | `fig14.jpg` | Nearby spiral (NGC 4414 or equivalent Hubble frame), disk filling the frame. | Credit: NASA/ESA/Hubble |
-| 16 | `fig16.jpg` | Survey map cropped so filaments read (SDSS large-scale structure, or NASA 2MASS LSS if SDSS is down). | Credit: SDSS Collaboration; or NASA/2MASS as stamped on the file |
-| 17 | `fig17.jpg` | Bullet Cluster composite: hot gas and mass. | Credit: NASA/CXC/CfA/M. Markevitch et al.; NASA/STScI; ESO WFI |
-| 18 | `fig18.jpg` | Supernova remnant with a bright rim (Kepler or equivalent). | Credit: NASA/ESA/JPL-Caltech/Chandra |
+| 9 | `fig09.jpg` | Planck microwave sky (Commons `Cosmic Microwave Background (CMB).jpeg`, CC BY 4.0), softened and grayscaled so patches read, words *warmer* / *cooler*. | Credit: ESA and the Planck Collaboration (CC BY 4.0) |
+| 14 | `fig14.jpg` | NGC 4414 (Hubble Heritage, opo9925a), disk filling the frame. Replaced 15 Sep 2026; the earlier file showed the interacting pair NGC 2207/IC 2163. | Credit: NASA/ESA/Hubble Heritage Team (STScI/AURA) |
+| 16 | `fig16.jpg` | 2MASS large-scale-structure chart of the whole sky (Commons `2MASS LSS chart-NEW Nasa.jpg`, public domain). Small cluster labels are part of the chart. | Credit: NASA/JPL-Caltech/IPAC (2MASS, T. Jarrett) |
+| 17 | `fig17.jpg` | Bullet Cluster composite: hot gas (X-ray) and lensing mass, with the words *hot gas* / *mass* burned in so it reads in grayscale. | Credit: NASA/CXC/CfA/M. Markevitch et al.; NASA/STScI; ESO WFI |
+| 18 | `fig18.jpg` | Crab Nebula supernova remnant (Hubble heic0515a). | Credit: NASA/ESA/J. Hester and A. Loll (Arizona State University) |
 | 20 | `fig20.jpg` | EHT image of M87*, enlarged, contrast boosted. | Credit: Event Horizon Telescope Collaboration (CC BY 4.0) |
-| 24 | `fig24.jpg` | M87 host galaxy, high contrast. A real hole lives here. | Credit: NASA/ESA/Hubble |
-| 25 | `fig25.jpg` | Perseverance on bright dusty ground, large in frame. | Credit: NASA/JPL-Caltech |
+| 24 | `fig24.jpg` | M87 with its jet (Hubble opo0020a). Replaced 15 Sep 2026; the earlier file was a Virgo-cluster mosaic. | Credit: NASA/Hubble Heritage Team (STScI/AURA) |
+| 25 | `fig25.jpg` | Perseverance selfie with Ingenuity (PIA24542), rover large in frame. Replaced 15 Sep 2026; the earlier file was a landscape with no rover. | Credit: NASA/JPL-Caltech/MSSS |
 | 29 | `fig29.jpg` | Europa, disk / ice filling the frame; cracks readable in gray. | Credit: NASA/JPL-Caltech/SETI Institute |
 | 41 | `fig41.jpg` | Apollo 8 Earthrise. | Credit: NASA |
 | 45 | `fig45.jpg` | Curiosity rover tracks toward a near horizon. | Credit: NASA/JPL-Caltech |
@@ -49,18 +49,18 @@ Fig 20 is not public domain. It is the EHT Collaboration’s released image, use
 
 ---
 
-## Framed placeholders (6) — JPEG drop-ins still needed
+## Real photographs, earthly (6) — Creative Commons / Unsplash
 
-These are real PNG files (`figNN_slot.png`), not blank slots. Drop the JPEG next to them. Do not generate a fake NASA frame for any of these.
+Fetched by `fetch_photos.py` on 14 September 2026, cropped to 4:3 and contrast-boosted like the space frames. Files: `figs/figNN.jpg`. The `figNN_slot.png` frames remain on disk as fallbacks only. **Attribution is required** for the five Commons photographs; the three CC BY-SA files also require that the adapted photograph itself (not the book) stay under the same licence. Drop a different `figNN.jpg` in and rebuild if you would rather use an author photo.
 
-| Fig | Drop-in filename | Picture to shoot or license |
-|---:|---|---|
-| 0 | **`fig00.jpg`** | A kitchen clock in a bright window, daylight outside. Not a night sky. |
-| 1 | **`fig01.jpg`** | Two people in one bright kitchen, one walking, one still. Faces and feet readable. |
-| 31 | **`fig31.jpg`** | A machine on bright dirt. The crew that can wait. (Author photo or a separately licensed frame — not an AI rover.) |
-| 32 | **`fig32.jpg`** | Svalbard Global Seed Vault door in snow. License a real photograph. |
-| 34 | **`fig34.jpg`** | A radio dish filling the frame, with ground. Author photo or observatory press still. |
-| 42 | **`fig42.jpg`** | Two or three finches (or one clear beak pair) on a light ground. |
+| Fig | File | What | Credit |
+|---:|---|---|---|
+| 0 | `fig00.jpg` | Blue battery wall clock on a white wall. | Photo: Islander61, Wikimedia Commons, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [Simple modern style battery driven wall clock.jpg](https://commons.wikimedia.org/wiki/File:Simple_modern_style_battery_driven_wall_clock.jpg) |
+| 1 | `fig01.jpg` | A bright modern kitchen (no people in frame; caption adjusted to “put two people in it”). | Photo: Unsplash ([photo-1556911220-bff31c812dba](https://images.unsplash.com/photo-1556911220-bff31c812dba)), Unsplash License (attribution not required). |
+| 31 | `fig31.jpg` | Farm tractor ploughing dark soil under a big sky. | Photo: Sasu photography, Wikimedia Commons, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Source: [Farm tractor.jpg](https://commons.wikimedia.org/wiki/File:Farm_tractor.jpg) |
+| 32 | `fig32.jpg` | Svalbard Global Seed Vault entrance in snow. | Photo: Cierra Martin for Crop Trust, via Wikimedia Commons / Flickr, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0). Source: [Svalbard Global Seed Vault Exterior 2020.jpg](https://commons.wikimedia.org/wiki/File:Svalbard_Global_Seed_Vault_Exterior_2020.jpg) |
+| 34 | `fig34.jpg` | The Parkes radio telescope dish with its tower and ground. | Photo: Corrie Barklimore, via Wikimedia Commons / Flickr, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Source: [Parkes Radio Telescope.jpg](https://commons.wikimedia.org/wiki/File:Parkes_Radio_Telescope.jpg) |
+| 42 | `fig42.jpg` | Female Galápagos medium ground finch, beak in profile. | Photo: Charles J. Sharp (Sharp Photography), Wikimedia Commons, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Source: [Female Galápagos medium ground finch.jpg](https://commons.wikimedia.org/wiki/File:Female_Gal%C3%A1pagos_medium_ground_finch.jpg) |
 
 Exact names the build looks for: `fig00.jpg`, `fig01.jpg`, `fig31.jpg`, `fig32.jpg`, `fig34.jpg`, `fig42.jpg`.
 

@@ -12,11 +12,28 @@ from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageFont, ImageOps
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "figs")
 os.makedirs(OUT, exist_ok=True)
-UA = "UniverseHasNoNow/1.0 (manuscript figure assembly; educational; contact: author)"
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
 
 # Each entry: (figure number, credit key, process tag, url list)
 # process: sun, disk, field, cmb, spiral, web, bullet, rim, eht, host, rover, europa, earth, tracks
 PHOTOS = [
+    (0, "clock", "clock", [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Simple_modern_style_battery_driven_wall_clock.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Wooden_wall_clock,_SunSquare_Cape_Town_City_Bowl_(01).jpg?width=2048",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8d/Simple_modern_style_battery_driven_wall_clock.jpg",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Kitchen_clock.jpg?width=2048",
+    ]),
+    (1, "pair", "pair", [
+        "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=2400",
+        "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=2400",
+        "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=2400",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Wecook.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Pedestrians.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/People_walking.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Couple_walking.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Two_people_walking.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/A_couple_walking.jpg?width=2048",
+    ]),
     (3, "sun", "sun", [
         "https://sdo.gsfc.nasa.gov/assets/img/browse/2015/10/27/20151027_000000_4096_HMIIF.jpg",
         "https://sdo.gsfc.nasa.gov/assets/img/browse/2017/09/06/20170906_000000_4096_HMIIF.jpg",
@@ -36,9 +53,14 @@ PHOTOS = [
         "https://images-assets.nasa.gov/image/hubble-ultra-deep-field/hubble-ultra-deep-field~large.jpg",
     ]),
     (9, "planck", "cmb", [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cosmic_Microwave_Background_(CMB).jpeg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Cosmic_Microwave_Background_(CMB).jpeg",
+        "https://noirlab.edu/public/media/archives/images/large/CMB.jpg",
+        "https://noirlab.edu/public/media/archives/images/screen/CMB.jpg",
         "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2013/03/planck_cmb/12583932-4-eng-GB/Planck_CMB.jpg",
         "https://commons.wikimedia.org/wiki/Special:FilePath/Planck_CMB.jpg?width=2048",
         "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/07/planck_s_view_of_the_cosmic_microwave_background/17552332-1-eng-GB/Planck_s_view_of_the_cosmic_microwave_background.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/48/ESA-PLANCK-CMB-DATEN.JPG",
     ]),
     (14, "spiral", "spiral", [
         "https://cdn.spacetelescope.org/archives/images/large/opo9941a.jpg",
@@ -79,6 +101,8 @@ PHOTOS = [
         "https://cdn.spacetelescope.org/archives/images/large/heic0814a.jpg",
     ]),
     (25, "rover", "rover", [
+        "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA24924.jpg",
+        "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA23764.jpg",
         "https://photojournal.jpl.nasa.gov/jpeg/PIA23764.jpg",
         "https://mars.nasa.gov/system/resources/detail_files/25058_PIA23764-web.jpg",
         "https://images-assets.nasa.gov/image/PIA23764/PIA23764~large.jpg",
@@ -86,6 +110,8 @@ PHOTOS = [
         "https://commons.wikimedia.org/wiki/Special:FilePath/PIA24924-MarsPerseveranceRover-FirstDrive-20210304.jpg?width=2048",
     ]),
     (29, "europa", "europa", [
+        "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA19048.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/54/Europa-moon.jpg",
         "https://photojournal.jpl.nasa.gov/jpeg/PIA19048.jpg",
         "https://photojournal.jpl.nasa.gov/jpeg/PIA01299.jpg",
         "https://images-assets.nasa.gov/image/PIA19048/PIA19048~large.jpg",
@@ -98,11 +124,43 @@ PHOTOS = [
         "https://www.nasa.gov/wp-content/uploads/static/history/alsj/a410/AS8-14-2383HR.jpg",
     ]),
     (45, "tracks", "tracks", [
+        "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA16093.jpg",
+        "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA16142.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ee/676029main_pia16052-color-full_full.jpg",
         "https://photojournal.jpl.nasa.gov/jpeg/PIA16052.jpg",
         "https://images-assets.nasa.gov/image/PIA16052/PIA16052~large.jpg",
         "https://photojournal.jpl.nasa.gov/jpeg/PIA16142.jpg",
         "https://mars.nasa.gov/system/resources/detail_files/4454_pia16052-full.jpg",
         "https://commons.wikimedia.org/wiki/Special:FilePath/PIA16052-MarsCuriosityRover-Tracks-20120822.jpg?width=2048",
+    ]),
+    (31, "machine", "machine", [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Tractor_plowing.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/John_Deere_tractor.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Farm_tractor.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/New_Holland_tractor.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Tractor_in_a_field.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Agricultural_tractor.jpg?width=2048",
+    ]),
+    (32, "vault", "vault", [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Svalbard_Global_Seed_Vault.JPG?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Svalbard_Global_Seed_Vault_Exterior_2020.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Svalbard_Global_Seed_Vault_2012_-_panoramio.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Entrance_to_Svalbard_Global_Seed_Vault.jpg?width=2048",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c4/Svalbard_Global_Seed_Vault_2012_-_panoramio.jpg",
+    ]),
+    (34, "dish", "dish", [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Parkes_Radio_Telescope.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/CSIRO_Parkes_Radio_Telescope.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/CSIRO_ScienceImage_8220_The_Radio_Telescope_at_Parkes.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Very_Large_Array.jpg?width=2048",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e8/Parkes_Radio_Telescope.jpg",
+    ]),
+    (42, "finch", "finch", [
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Female_Gal%C3%A1pagos_medium_ground_finch.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Geospiza_fortis.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Medium_ground_finch.jpg?width=2048",
+        "https://commons.wikimedia.org/wiki/Special:FilePath/Darwin%27s_finches_by_Gould.jpg?width=2048",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/Darwin%27s_finches_by_Gould.jpg",
     ]),
 ]
 
@@ -206,6 +264,18 @@ def process(im, tag):
         return punch(crop_43(im, 0.55, 0.42, 1.05), 1.15)
     if tag == "tracks":
         return punch(crop_43(im, 0.5, 0.55, 1.1), 1.18)
+    if tag == "clock":
+        return punch(crop_43(im, 0.5, 0.45, 1.15), 1.2)
+    if tag == "pair":
+        return punch(crop_43(im, 0.5, 0.42, 1.1), 1.12)
+    if tag == "machine":
+        return punch(crop_43(im, 0.5, 0.55, 1.15), 1.18)
+    if tag == "vault":
+        return punch(crop_43(im, 0.5, 0.55, 1.2), 1.2)
+    if tag == "dish":
+        return punch(crop_43(im, 0.5, 0.45, 1.15), 1.15)
+    if tag == "finch":
+        return punch(crop_43(im, 0.5, 0.45, 1.25), 1.18)
     return punch(crop_43(im))
 
 
@@ -217,7 +287,7 @@ def one(n, key, tag, urls):
             print("try fig%02d %s" % (n, url[:88]))
             data = fetch(url)
             im = open_rgb(data)
-            if min(im.size) < 400:
+            if min(im.size) < 600:
                 raise ValueError("tiny image %s" % (im.size,))
             out = process(im, tag)
             out.save(dest, "JPEG", quality=90, optimize=True)

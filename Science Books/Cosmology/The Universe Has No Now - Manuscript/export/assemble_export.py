@@ -6,6 +6,7 @@ import re
 import shutil
 import subprocess
 import sys
+import zipfile
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.dirname(HERE)
@@ -111,6 +112,60 @@ def word_count(text: str) -> int:
     return len(words)
 
 
+IMAGE_EXTS = (".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp")
+
+
+def inventory_from_text(text: str) -> dict[str, object]:
+    """Classify assembled markdown image links against files on disk."""
+    drawn: list[int] = []
+    photos: list[int] = []
+    slots: list[int] = []
+    broken: list[tuple[int, str]] = []
+    for cap, rel in FIG_RE.findall(text):
+        num = re.match(r"Figure\s+(\d+)", cap or "")
+        if not num:
+            continue
+        n = int(num.group(1))
+        abs_path = os.path.join(SRC, rel.replace("/", os.sep))
+        if not os.path.isfile(abs_path):
+            broken.append((n, rel))
+            continue
+        base = os.path.basename(rel).lower()
+        if base.endswith("_slot.png"):
+            slots.append(n)
+        elif base.endswith(".jpg") or base.endswith(".jpeg"):
+            photos.append(n)
+        else:
+            drawn.append(n)
+    return {
+        "md_images": len(drawn) + len(photos) + len(slots),
+        "drawn": drawn,
+        "photos": photos,
+        "slots": slots,
+        "broken": broken,
+    }
+
+
+def count_zip_images(path: str, folder_prefix: str | None = None) -> tuple[int, list[str]]:
+    if not os.path.isfile(path):
+        return 0, []
+    try:
+        with zipfile.ZipFile(path) as z:
+            names = z.namelist()
+    except zipfile.BadZipFile:
+        return 0, []
+    hits: list[str] = []
+    prefix = (folder_prefix or "").replace("\\", "/").lower()
+    for name in names:
+        low = name.replace("\\", "/").lower()
+        if not low.endswith(IMAGE_EXTS):
+            continue
+        if prefix and prefix not in low:
+            continue
+        hits.append(name)
+    return len(hits), hits
+
+
 def find_pandoc() -> str | None:
     exe = shutil.which("pandoc")
     if exe:
@@ -124,8 +179,21 @@ def find_pandoc() -> str | None:
     return None
 
 
+def find_winget() -> str | None:
+    exe = shutil.which("winget")
+    if exe:
+        return exe
+    for candidate in (
+        os.path.join(os.environ.get("LOCALAPPDATA", ""), "Microsoft", "WindowsApps", "winget.exe"),
+        r"C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\winget.exe",
+    ):
+        if os.path.isfile(candidate):
+            return candidate
+    return None
+
+
 def try_install_pandoc() -> str | None:
-    winget = shutil.which("winget")
+    winget = find_winget()
     if winget:
         print("trying winget install pandoc...")
         r = subprocess.run(
@@ -135,6 +203,8 @@ def try_install_pandoc() -> str | None:
         )
         print(r.stdout[-2000:] if r.stdout else "")
         print(r.stderr[-1000:] if r.stderr else "")
+    else:
+        print("winget not found")
     return find_pandoc()
 
 
@@ -181,68 +251,148 @@ def run_build_docx() -> str | None:
     return OUT_DOCX if r.returncode == 0 and os.path.exists(OUT_DOCX) else None
 
 
+def build_epub(pandoc: str) -> bool:
+    cmd = [
+        pandoc,
+        OUT_MD,
+        "--from",
+        "markdown+raw_tex+tex_math_dollars",
+        "--toc",
+        "--toc-depth=2",
+        "--resource-path",
+        f"{SRC}{os.pathsep}{FIGS}",
+        "--metadata",
+        "title=The Universe Has No Now",
+        "--metadata",
+        "author=Lothar J. Musiol",
+        "--metadata",
+        "lang=en-US",
+        "--to",
+        "epub3",
+        "--epub-chapter-level=2",
+        "-o",
+        OUT_EPUB,
+    ]
+    print("running", " ".join(cmd))
+    r = subprocess.run(cmd, capture_output=True, text=True)
+    if r.stdout:
+        print(r.stdout)
+    if r.stderr:
+        print(r.stderr)
+    if r.returncode == 0 and os.path.exists(OUT_EPUB):
+        print("wrote", OUT_EPUB, os.path.getsize(OUT_EPUB), "bytes")
+        return True
+    print("pandoc epub failed")
+    return False
+
+
+def write_stamp(
+    wc: int,
+    inv: dict[str, object],
+    missing: list[int],
+    built: list[str],
+    docx_n: int | None,
+    epub_n: int | None,
+    skip_docx: bool,
+) -> None:
+    photos = inv["photos"]
+    slots = inv["slots"]
+    drawn = inv["drawn"]
+    fetched = ",".join(f"fig{n:02d}" for n in photos)
+    if docx_n is None:
+        docx_line = "docx_images=not inspected"
+    elif skip_docx:
+        docx_line = f"docx_images={docx_n} (inspected, not rebuilt)"
+    else:
+        docx_line = f"docx_images={docx_n}"
+    epub_line = (
+        "epub=export\\The_Universe_Has_No_Now.epub"
+        if epub_n
+        else "epub=not built"
+    )
+    stamp = os.path.join(HERE, "WORD_COUNT.txt")
+    with open(stamp, "w", encoding="utf-8") as f:
+        f.write(
+            f"{wc}\n"
+            f"docx=export\\The_Universe_Has_No_Now.docx\n"
+            f"{epub_line}\n"
+            f"md_images={inv['md_images']}\n"
+            f"epub_images={epub_n if epub_n is not None else 'n/a'}\n"
+            f"{docx_line}\n"
+            f"drawn_diagrams={len(drawn)}\n"
+            f"fetched_photos={fetched}\n"
+            f"photo_placeholders={slots}\n"
+            f"missing={missing}\n"
+            f"broken={inv['broken']}\n"
+            f"built={built}\n"
+            "cover=export\\cover_typographic.jpg\n"
+        )
+
+
 def main() -> int:
+    skip_docx = "--skip-docx" in sys.argv
+    build_epub_too = "--with-epub" in sys.argv  # author wants docx only (26 Sep 2026); epub is opt-in now
     os.makedirs(HERE, exist_ok=True)
     text, missing = assemble()
     with open(OUT_MD, "w", encoding="utf-8", newline="\n") as f:
         f.write(text)
     wc = word_count(text)
+    inv = inventory_from_text(text)
     print("assembled", OUT_MD)
     print("words", wc)
     print("missing figure files", missing)
+    print("md_images", inv["md_images"], "drawn", len(inv["drawn"]),
+          "photos", len(inv["photos"]), "slots", inv["slots"],
+          "broken", inv["broken"])
 
     built: list[str] = []
-    docx = run_build_docx()
-    if docx:
-        built.append(docx)
-        print("build_docx wrote", docx, os.path.getsize(docx), "bytes")
+    if skip_docx:
+        print("skipping build_docx (--skip-docx); Word file left untouched")
+        if os.path.isfile(OUT_DOCX):
+            built.append(OUT_DOCX)
     else:
-        print("build_docx failed or skipped")
-
-    pandoc = find_pandoc() or try_install_pandoc()
-    if pandoc:
-        # Prefer python-docx for the 6x9 Word file; still build epub (and docx if the first failed).
+        docx = run_build_docx()
         if docx:
-            common_epub_only = True
+            built.append(docx)
+            print("build_docx wrote", docx, os.path.getsize(docx), "bytes")
         else:
-            common_epub_only = False
-        if common_epub_only:
-            r = subprocess.run(
-                [
-                    pandoc,
-                    OUT_MD,
-                    "--from",
-                    "markdown+raw_tex+tex_math_dollars",
-                    "--toc",
-                    "--toc-depth=2",
-                    "--resource-path",
-                    f"{SRC}{os.pathsep}{FIGS}",
-                    "--metadata",
-                    "title=The Universe Has No Now",
-                    "--metadata",
-                    "author=Lothar J. Musiol",
-                    "--to",
-                    "epub3",
-                    "--epub-chapter-level=2",
-                    "-o",
-                    OUT_EPUB,
-                ],
-                capture_output=True,
-                text=True,
-            )
-            print(r.stdout)
-            print(r.stderr)
-            if r.returncode == 0 and os.path.exists(OUT_EPUB):
-                print("wrote", OUT_EPUB, os.path.getsize(OUT_EPUB), "bytes")
-                built.append(OUT_EPUB)
-        else:
-            built.extend(run_pandoc(pandoc, OUT_MD))
-    else:
-        print("pandoc not found")
+            print("build_docx failed or skipped")
 
-    stamp = os.path.join(HERE, "WORD_COUNT.txt")
-    with open(stamp, "w", encoding="utf-8") as f:
-        f.write(f"{wc}\nmissing={missing}\nbuilt={built}\n")
+    epub_ok = False
+    if not build_epub_too:
+        print("skipping epub (docx-only by default; pass --with-epub to build it too)")
+    else:
+        pandoc = find_pandoc() or try_install_pandoc()
+        if pandoc:
+            # Never let pandoc overwrite a sibling-owned python-docx Word file.
+            if skip_docx or os.path.isfile(OUT_DOCX):
+                epub_ok = build_epub(pandoc)
+                if epub_ok:
+                    built.append(OUT_EPUB)
+            else:
+                built.extend(run_pandoc(pandoc, OUT_MD))
+                epub_ok = os.path.isfile(OUT_EPUB)
+        else:
+            print("pandoc not found")
+
+    docx_n, _docx_hits = count_zip_images(OUT_DOCX, "word/media/")
+    epub_n, epub_hits = count_zip_images(OUT_EPUB) if os.path.isfile(OUT_EPUB) else (None, [])
+    if epub_n is not None:
+        print("epub image files", epub_n)
+        for h in epub_hits:
+            print(" ", h)
+    if os.path.isfile(OUT_DOCX):
+        print("docx media images", docx_n)
+
+    write_stamp(
+        wc,
+        inv,
+        missing,
+        built,
+        docx_n if os.path.isfile(OUT_DOCX) else None,
+        epub_n if epub_ok or os.path.isfile(OUT_EPUB) else None,
+        skip_docx,
+    )
     return 0
 
 

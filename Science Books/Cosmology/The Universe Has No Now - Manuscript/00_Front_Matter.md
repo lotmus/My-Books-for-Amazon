@@ -14,6 +14,8 @@ Copyright © 2026 Lothar J. Musiol. All rights reserved.
 
 Look First, Volume 1.
 
+Photograph credits for agency and Creative Commons stills appear in the Amazon product description for this edition, not under the figures.
+
 ---
 
 ## How to Read This Book
@@ -32,7 +34,7 @@ A few scenes in this book are stories: a greenhouse on a dead planet, a radio th
 
 The main chapters keep the math in the sentence, the way a good explainer talks at a table. A handful of relations are important enough to number. Those numbered equations live in the Appendix, where the treatment is actually technical: the Friedmann equation, the spacetime interval, the helium calculation, the Bekenstein bound, the energy condition a wormhole has to break. If you want the scaffolding, it is there. If you want the story, you can finish the book without opening the back.
 
-This edition is longer than a Barrow pamphlet on purpose — about four hundred Kindle pages, not two hundred. The extra is not padding. It is the second trunk, the leftover in the air, the crew that does not sleep, the loop that calls itself I, and a path that refuses a last chapel. The sentences stay short. The inventory grew.
+This edition is longer than a Barrow pamphlet on purpose — about four hundred Kindle pages of teaching, not two hundred of outline. The extra is not padding. It is the second trunk, the leftover in the air, the crew that does not sleep, the loop that calls itself I, and a path that refuses a last chapel. The sentences stay short. The inventory grew.
 
 You do not need a physics degree. You need curiosity and a willingness to let “now” come apart.
 
@@ -98,4 +100,12 @@ The past we can reconstruct, from a hot, dense beginning through the forging of 
 
 If you have ever stood outside at night and felt, for a second, that the dark was not empty but *late* — that you were looking into travel time — you already have the instinct this book is going to use.
 
-![Figure 0. A kitchen clock in a bright window, daylight outside. Not a night sky. The clock is a local tool.](Figures/figs/fig00.png)
+The kitchen already contains a proof, if you will let a phone be a proof. GPS clocks in orbit run fast compared with clocks on the ground, once you have subtracted the special-relativistic slowing that comes from their speed. The two corrections are tens of microseconds a day, opposite in sign, and if you skip them your map slides into a ditch. Those microseconds are the same mathematics that refuses a shared now on Andromeda. The casserole still comes out on time. The cosmos does not share the timer.
+
+Three temperatures will follow you around. **Hot** is a measurement you can miss: the leftover glow at 2.725 degrees, the quarter of helium that stars did not have time to make, the ring around a hole. **Warm** is the best story we have with a hole in the noun: a burst before the bang, a pull that does not shine, a shove whose size we cannot derive. **Cold** is a sentence the equations permit and the data have not selected: a handle you could fall through, a required last mind, a stack of rooms with other laws. String theory, if the word appears, stays cold as a test. It cannot currently be tested.
+
+The spine of the book is a single refusal, spent in several rooms. There is no now the universe shares. The past we can rebuild is a hotter everywhere, not a grenade. The leftover light is a baby picture of a time, not a place. Most of what pulls does not shine; most of the budget shoves. A horizon is a one-way fact about events, not a door. Getting somewhere else, in the near term, is a permit: dirt, delay, ice, a woman hitting an airlock. Copies, if they exist, come in four kinds and none of them is a ticket. Arrangement is a filter, or a sample bias, or both — not a craftsman. The future, on present evidence, is allowed to be empty of us. Meaning, if you want it, is local, expensive, and optional.
+
+That last sentence is not a sulk. It is why a greenhouse is interesting. The leftover glow will still be late tomorrow whether or not anyone logs the pH of a tray of basil. You are allowed to care anyway. The book will not wait for the ending to compute you back.
+
+![Figure 0. A kitchen clock on a bright wall. Not a night sky. The clock is a local tool.](Figures/figs/fig00.png)
