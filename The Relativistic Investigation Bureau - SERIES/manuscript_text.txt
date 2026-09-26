@@ -5746,7 +5746,18 @@ Why SR survives inside GR
 Module C
 Labels, Paths, Experiments (Lessons 8-10):
 Coordinates
+Worldlines
 Length Contraction
+Module D
+Dual Descriptions (Lessons 11-13):
+Holographic Principle
+Metaphor vs. Multiverse
+Tidal Force
+Module E
+Causality & Capstone (Lessons 14-16):
+Causal Structure
+Einstein Equation
+Event Coordinate
 
 WORKSHOP
 The Twin Paradox
