@@ -33,16 +33,16 @@ Chapter 10 - The Relativistic Ride
 Chapter 11 - The Ordinary Cucumber Problem
 Chapter 12 - The Hologram Problem
 Chapter 13 - Everything Everywhere All at Once
-Chapter 14 - The Station That Wasn't Quite There
-Chapter 15 - The Train That Arrived Before It Left
+Chapter 14 - The Station Wasn't Quite There
+Chapter 15 - The Train Arrived Before It Left
 Chapter 16 - Sherlock and the Final Geometry
 EPILOGUE
 COURSE - Spacetime for Investigators
 Syllabus Map
 Preparatory Workshop - The Twin Paradox
-Chapter 1 - Appendix - Special Relativity Begins by Being Rude
+Chapter 1 - Appendix - Special Relativity Is Rude
 Chapter 2 - Appendix - Lorentz Finally Gets Involved
-Chapter 3 - Appendix - Time May Be Less Fundamental Than You'd Like
+Chapter 3 - Appendix - Time May Be Less Fundamental
 Chapter 4 - Appendix - Enter General Relativity
 Chapter 5 - Appendix - The Apple
 Chapter 6 - Appendix - Singularities
@@ -51,11 +51,11 @@ Chapter 8 - Appendix - The Door
 Chapter 9 - Appendix - Relativistic Travel
 Chapter 10 - Appendix - The Cucumber
 Chapter 11 - Appendix - The Hologram
-Chapter 12 - Appendix - The Cinema Interpretation of Everything
+Chapter 12 - Appendix - A Cinema Interpretation of Everything
 Chapter 13 - Appendix - Curved Corridors and Tidal Gravity
-Chapter 14 - Appendix - The Distant Train That Arrived Before It Left
+Chapter 14 - Appendix - The Train Arrived Before It Left
 Chapter 15 - Appendix - The Dolphin and the Final Geometry
-Chapter 16 - Appendix - Capstone: The Clock Was Lying, Precisely
+Chapter 16 - Appendix - Capstone: The Clock Was Lying
 SUMMARY
 GLOSSARY
 About the Author
@@ -103,7 +103,7 @@ There was only one sensible response. Investigate.
 Preferably before 11:17. 
 Rule: A murder that has not happened yet is still a filing. Treat the paperwork as evidence.
 
--> After Chapter 1, take Lesson 1 - Special Relativity Begins by Being Rude
+-> After Chapter 1, take Lesson 1 - Special Relativity Is Rude
 Chapter 1
 The Surprise in the Morning
 At precisely 9:17 on a Tuesday morning, Derek Gent received an email informing him that he was dead. His daughter, Sophie, was twelve years old. He checked the time on his phone and decided that one of these facts might be wrong. 
@@ -324,7 +324,7 @@ Below them:
 DO NOT TRUST THE CLOCKS.
 Rule: A clock can lie by telling the wrong kind of truth.
 
--> Lesson for this chapter: 1 - Special Relativity Begins by Being Rude
+-> Lesson for this chapter: 1 - Special Relativity Is Rude
 Chapter 2
 Case 1047
 For several seconds, nobody spoke. The three-line note sat on the screen like a timetable written by someone who already knew the journey.
@@ -1168,7 +1168,7 @@ And somewhere, very far away - or possibly very close - the sound of a distant t
 
 Rule: If the algebra demands v > c, the premise is the suspect - not the universe.
 
--> Lesson for this chapter: 3 - Time May Be Less Fundamental Than You'd Like
+-> Lesson for this chapter: 3 - Time May Be Less Fundamental
 Chapter 4
 The Weight of Time
 By Thursday morning, Alfred Weinstein was sitting in a patent attorney's office in Schwabing. He was bored. This was not unusual.
@@ -4798,7 +4798,7 @@ Somewhere, he suspected, a different representation of the same eleven minutes w
 
 Rule: Describe the inside using only the edge - then ask what survived the cheat.
 
--> Lesson for this chapter: 12 - The Cinema Interpretation of Everything
+-> Lesson for this chapter: 12 - A Cinema Interpretation of Everything
 Chapter 13
 Everything Everywhere All at Once
 Penny had decided that Derek was becoming unbearable. Not because he was wrong. That would have been easier. It was because he was usually right, and there was something deeply irritating about a man who could spend an afternoon discussing curved spacetime, singularities, and the holographic principle and then, when Penny pointed out an obvious practical difficulty, simply say "Yes," as though the universe had just been waiting for him to catch up. So Penny went to the cinema. Alone.
@@ -4823,7 +4823,7 @@ Penny smiled, put the phone away, and let the rest of the film wash over her wit
 Rule: If everything happens everywhere, measure what must still agree.
 -> Lesson for this chapter: 13 - Curved Corridors and Tidal Gravity
 Chapter 14
-The Station That Wasn't Quite There
+The Station Wasn't Quite There
 The air had the particular cold of somewhere that had never been heated because no one had ever officially arrived to complain about it. A strip-light flickered two floors up, keeping to its own private clock - on, off, on - out of time with the others. It smelled, faintly and wrongly, of hot brake dust and cold stone at once - a smell that belonged to two different kinds of weather that had never met anywhere else. The first thing Derek noticed was that the gloomy station had twelve doors. The second thing he noticed was that it had thirteen. The third thing he noticed was that Trevor was counting them.
 "How many?"
 "Twelve."
@@ -5195,9 +5195,9 @@ It was that something appeared to be curving it on purpose.
 
 Rule: A station that isn't quite there is still curving something on purpose.
 
--> Lesson for this chapter: 14 - The Distant Train That Arrived Before It Left
+-> Lesson for this chapter: 14 - The Train Arrived Before It Left
 Chapter 15
-The Train That Arrived Before It Left
+The Train Arrived Before It Left
 The narrow corridor ended at cold Platform Seven. Derek stopped. "Of course."
 Penny regarded the sign.
 PLATFORM 7
@@ -5659,7 +5659,7 @@ As it had every right to. Obviously.
 
 Rule: Pending Geometry is not a punchline. It is the correct drawer.
 
--> Lesson for this chapter: 16 - Capstone: The Clock Was Lying, Precisely
+-> Lesson for this chapter: 16 - Capstone: The Clock Was Lying
 EPILOGUE
 The Relativistic Investigation Bureau Discovers That 
 Solving One Mystery Is Merely an Invitation to Acquire Another
@@ -5711,7 +5711,7 @@ Three days later, the brass clock reappeared on Derek's desk, exactly as before,
 That evening Sophie rang about nothing in particular, which he had learned to recognise as the highest compliment she had available. The next morning, Trevor asked if he wanted tea. "One sugar," Derek said, and meant it, and did not change his mind.
 Rule: Pending Geometry is the correct drawer. Some cases end not with an arrest, but with a kettle.
 
--> If you skipped the course: Lesson 16 - Capstone: The Clock Was Lying, Precisely
+-> If you skipped the course: Lesson 16 - Capstone: The Clock Was Lying
 
 
 COURSE
@@ -5770,7 +5770,7 @@ Proceed to Lesson 1.
 
 
 Lesson 1
-Special Relativity Begins by Being Rude
+Special Relativity Is Rude
 <- Chapter for this lesson: Chapter 1
 Module A · Foundations of Special Relativity · Case link: Chapters 1-3. Learning objective: State Einstein's two postulates and explain why constant c forces space and time to transform together. The first thing to understand about Special Relativity is that it does not begin with the statement:
 "Everything is relative."
@@ -5856,7 +5856,7 @@ The speed of light in vacuum, and the spacetime interval between the same two ev
 speed of light
 
 Lesson 3
-Time May Be Less Fundamental Than You'd Like
+Time May Be Less Fundamental
 Module A · Foundations of Special Relativity
 Case link: Chapters 5 & 15. Learning objective: Distinguish coordinate time from proper time along a worldline; reject universal Newtonian now.
 → Glossary: Proper Time · Worldline
@@ -6198,7 +6198,7 @@ It becomes four times as large, because the horizon area becomes four times as l
 
 
 Lesson 12
-The Cinema Interpretation of Everything
+A Cinema Interpretation of Everything
 Module D · Dual Descriptions 
 Case link: Chapter 13
 Learning objective: Use multiple descriptions as a thinking tool without confusing metaphor with evidence for a multiverse.
@@ -6319,7 +6319,7 @@ Tidal effects.
 
 
 Lesson 14
-The Distant Train That Arrived Before It Left
+The Train Arrived Before It Left
 Module E · Causality & Capstone
 Case link: Chapter 15
 Learning objective: Separate spacelike from timelike separation; say when time-order can and cannot reverse between frames.
@@ -6432,7 +6432,7 @@ Curvature, packaged in the Einstein tensor plus the cosmological-constant term.
 
 
 Lesson 16
-Capstone: The Clock Was Lying, Precisely
+Capstone: The Clock Was Lying
 
 Module E · Causality & Capstone · Case link: Epilogue / Case 1047. Learning objective (capstone): Distinguish event coordinates from proper time; explain how Case 1047 can look like a completed murder without a murderer.
 → Glossary: Proper Time
