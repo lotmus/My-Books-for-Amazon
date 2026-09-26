@@ -51,7 +51,7 @@ Chapter 8 - Appendix - The Door
 Chapter 9 - Appendix - Relativistic Travel
 Chapter 10 - Appendix - The Cucumber
 Chapter 11 - Appendix - The Hologram
-Chapter 12 - Appendix - A Cinema Interpretation of Everything
+Chapter 12 - Appendix - Not Actually a Multiverse
 Chapter 13 - Appendix - Curved Corridors and Tidal Gravity
 Chapter 14 - Appendix - The Train Arrived Before It Left
 Chapter 15 - Appendix - The Dolphin and the Final Geometry
@@ -4798,7 +4798,7 @@ Somewhere, he suspected, a different representation of the same eleven minutes w
 
 Rule: Describe the inside using only the edge - then ask what survived the cheat.
 
--> Lesson for this chapter: 12 - A Cinema Interpretation of Everything
+-> Lesson for this chapter: 12 - Not Actually a Multiverse
 Chapter 13
 Everything Everywhere All at Once
 Penny had decided that Derek was becoming unbearable. Not because he was wrong. That would have been easier. It was because he was usually right, and there was something deeply irritating about a man who could spend an afternoon discussing curved spacetime, singularities, and the holographic principle and then, when Penny pointed out an obvious practical difficulty, simply say "Yes," as though the universe had just been waiting for him to catch up. So Penny went to the cinema. Alone.
@@ -6198,7 +6198,7 @@ It becomes four times as large, because the horizon area becomes four times as l
 
 
 Lesson 12
-A Cinema Interpretation of Everything
+Not Actually a Multiverse
 Module D · Dual Descriptions 
 Case link: Chapter 13
 Learning objective: Use multiple descriptions as a thinking tool without confusing metaphor with evidence for a multiverse.
