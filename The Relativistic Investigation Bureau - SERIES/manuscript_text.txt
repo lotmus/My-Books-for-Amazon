@@ -5819,9 +5819,13 @@ Longer path, same speed, more time. That is the whole derivation. One tick of th
 Do the geometry properly - a right triangle, Pythagoras, nothing worse - and out drops exactly the same γ you are about to meet properly in the next chapter, without asking anyone to take the mathematics on faith.
 Call one round trip of the train's own clock Δτ - proper time, measured by the clock that is actually there. With the mirrors a distance L apart, light covers 2L each tick, so:
 Δτ = 2L / c
-From the platform, that same tick takes longer - call it Δt - because the photon travels the diagonal, not the vertical. Halfway through that diagonal, the train has advanced by vΔt/2, while the photon has still only climbed a height of L. Pythagoras supplies the hypotenuse:
+From the platform, that same tick takes longer - call it Δt - because the photon travels the diagonal, not the vertical. By the time the photon reaches the top mirror - half the round trip, at time Δt/2 - the train has advanced by vΔt/2, while the photon has climbed the full height L. Pythagoras supplies the hypotenuse:
 (cΔt/2)² = L² + (vΔt/2)²
-Substitute L = cΔτ/2, clear the fractions, and rearrange:
+Substitute L = cΔτ/2, and multiply both sides by 4:
+c²Δt² = c²Δτ² + v²Δt²
+Move the v²Δt² term to the left and factor out Δt²:
+Δt² (c² - v²) = c²Δτ²
+Divide both sides by (c² - v²), then take the square root:
 Δt = Δτ / √(1 - v²/c²)
 Which is to say, Δt = γΔτ, where:
 γ = 1 / √(1 - v²/c²)
