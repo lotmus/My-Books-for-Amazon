@@ -5895,10 +5895,8 @@ Time May Be Less Fundamental
 Module A · Foundations of Special Relativity
 Case link: Chapters 5 & 15. Learning objective: Distinguish coordinate time from proper time along a worldline; reject universal Newtonian now.
 → Glossary: Proper Time · Worldline
-Proper time: two worldlines between the same two events accumulate different amounts of elapsed proper time.
-Even if the gravity is only caused by Earth, the time difference can be clearly measured using atomic clocks.
- 
-Due to the difference in gravity, the clock on the plane runs faster than the one on the ground.
+Proper time: two worldlines between the same two events accumulate different amounts of elapsed proper time. Fly an atomic clock on a plane and keep an identical one on the ground, and the difference is measurable, not hypothetical. Two effects act on the airborne clock at once, though, and they pull in opposite directions: its speed slows it, its extra height in Earth's weaker gravity speeds it up. Which one wins depends on the flight.
+→ Glossary: GPS Correction
 Julius Barbarian's claim that time does not exist is deliberately provocative. But there is serious physics hiding underneath the joke. In relativity, there is no single universal time shared by the entire universe.
 Different observers can experience different amounts of proper time between events. Proper time is the time measured by a clock travelling along a particular worldline. 
 So, instead of asking:
