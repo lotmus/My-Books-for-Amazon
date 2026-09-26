@@ -83,6 +83,7 @@ If you are impatient: skim the COURSE page and Lesson 16. You will still meet th
 If you take the class out of order, take Lesson 2 before you argue with Chapter 3, and Lesson 14 before you board the train. The novel will not punish you. The algebra might.
 One promise: where Newton cannot host this mystery, the book says so. Absolute 'now' makes Case 1047 gibberish. Relativity makes the misfiling possible - and the sacrifice real.
 A companion list of films lives at the end of each lesson. None of them are required. All of them were chosen because they teach the same idea the chapter just used as a joke.
+Three interactive demos - drag simultaneity, curvature, and cosmic expansion around until they behave - live at the book's companion demo site, built to be broken gently rather than read.
 PROLOGUE
 In Which the Universe Refuses to Behave
 The murder had not happened yet. This would have been unremarkable, except that Derek Gent was already dead on paper—and someone had remembered to file the necessary forms.
@@ -5870,6 +5871,7 @@ B's red line passes through Event 1, but Event 2 lies below it. B says Event 2 h
 Event 2 does not belong on the red line because B does not consider it simultaneous with Event 1. The coloured lines represent equal times, not paths that the events must follow.
 This disagreement is not simply about light taking time to reach someone's eyes. It remains after each observer accounts for light travel time.
 Different observers can therefore disagree about distances, elapsed times, and whether two separated events happened simultaneously.
+Drag the velocity yourself and watch the red and teal lines tilt apart at the simultaneity demo.
 They do not, however, disagree about everything.
 A key invariant is the spacetime interval. For the one-dimensional motion used here:
 → Glossary: Spacetime Interval
@@ -6001,6 +6003,7 @@ The apple was therefore not really falling because gravity "pulled" it downward 
 It was following the geometry. 
 Newton wasn't wrong. 
 He had simply discovered an extraordinarily good approximation to something deeper.
+Watch a particle trace its geodesic around an adjustable mass, with no force pushing it anywhere, at the curvature demo.
 
 <- Chapter for this lesson: Chapter 6
 
@@ -6430,6 +6433,7 @@ That would be charming but mathematically inadequate. Curvature has structure. I
 It can affect neighbouring paths differently. It can produce tidal effects. Tensors are the machinery that lets us describe all of this without losing the physics every time somebody changes coordinates.
 → Glossary: Tidal Force
 The Einstein field equation answers, in compressed mathematical form, how the geometry of spacetime is related to the distribution of matter and energy: Gμν + Λgμν = 8πG/c⁴ Tμν, where Λ is the cosmological constant, accounting for the universe's own accelerating expansion. 
+Stretch that expansion by hand, with recession speed and redshift updating live, at the cosmology demo.
 
 Or, as Derek would put it:
 "Matter tells spacetime how to curve, and spacetime tells matter how to behave."
