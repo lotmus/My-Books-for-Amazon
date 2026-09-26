@@ -1,0 +1,221 @@
+TITLE: Loop Diagrams
+TAGLINE: The first diagrams whose internal momentum is not fixed by anything external, why that forces a sum over every possibility, and why that sum, written down honestly, does not yet converge
+NUM: 61
+NEXT: Lesson 62 takes the simplest loop diagram in all of QED, a photon briefly becoming an electron-positron pair and then reforming, and computes it as far as it can be computed before the divergence found here has to be confronted directly.
+
+# How to use this lesson
+
+Go slowly through this one. Nothing here is more mathematically advanced than what Lesson 49 already used, which is why it is worth taking in small steps: the difficulty is not the tools, it is a genuinely new situation the tools are being asked to handle for the first time, and rushing past that newness is the one way to make the rest of Part IX feel like a wall of unmotivated machinery. Read Section 1 as a story with four beats — something familiar, something that breaks, a new question, a wall — before a single new symbol is written down. Expect five to seven hours, most of it spent letting the fourth beat sink in rather than doing algebra.
+
+## Learning objectives
+
+- State, in plain language, what every diagram computed in Lessons 44 through 60 had in common regarding its internal momenta.
+
+- Construct, from the electron-muon scattering diagram of Lesson 53, a modified diagram in which one internal momentum is left completely undetermined by momentum conservation.
+
+- Explain why quantum mechanics requires summing over every value that undetermined momentum could take, and why that sum takes the form of an integral.
+
+- Show, with a simple one-variable integral even simpler than any Feynman diagram, that a sum of this kind can grow without any limit as the upper end of the sum is pushed out.
+
+- Count the number of independent loop momenta in a diagram using L=I−V+1, and verify it for three specific one-loop QED diagrams.
+
+- State, without yet computing it, what physical process each of those three diagrams describes, and which lesson computes each one.
+
+- Explain, in one sentence each, why this problem is real and why it is not the end of the story.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| L | Number of independent loop momenta in a diagram |
+| I | Number of internal lines in a diagram |
+| V | Number of vertices in a diagram |
+| k | A loop momentum, unconstrained by the diagram's external data |
+| Λ | A large but finite upper limit, used to ask what an integral is doing before any limit is taken |
+
+# 1 A pattern, and where it stops
+
+## 1.1 What every diagram so far had in common
+
+Look back at any diagram this course has actually computed: the single photon exchanged in electron-muon scattering (Lesson 53), the two competing diagrams of Møller scattering (Lesson 54), the internal electron line of Compton scattering (Lesson 56). In every one of them, the moment the external momenta were fixed — an incoming electron here, an outgoing photon there — the internal momentum came along for free. Lesson 49 showed why: each vertex enforces its own momentum conservation, and with only one internal line to solve for, one equation was always enough to pin it down completely. Nothing about that internal photon or that internal electron was ever left open to choice. It was determined the moment the experiment was.
+
+This is worth stating as plainly as possible, because the rest of this lesson exists entirely to break it: **so far, an internal line's momentum has never been free.**
+
+## 1.2 Building a diagram where it is
+
+Take the electron-muon scattering diagram apart for a moment. An electron comes in, a muon comes in, a single photon passes between them, and out come an electron and a muon again. Now ask a question nobody has needed to ask until this lesson: what if, along the way, that single exchanged photon did not stay a photon the whole time? Quantum mechanics does not forbid a photon from briefly becoming an electron and a positron, provided they recombine back into a photon before the diagram's external legs are reached — Lesson 39 already established that a charged field couples to the photon, so nothing stops that coupling from acting twice in a row, once to create the pair and once to destroy it, entirely inside the diagram, invisible to every external leg.
+
+Draw this. The photon comes in from the electron-muon vertex, but partway along, it splits into two internal lines, an electron and a positron, which travel a short distance and then rejoin into a single photon line before reaching the muon vertex. Nothing about the diagram's external electron and muon has changed. But now count the internal momenta. The photon's momentum, call it q, is still fixed by the external legs, unchanged from before. The new electron-positron pair, though, carries some momentum k on one line and q−k on the other, since the two must add up to q at the point where they meet the rest of the diagram. And here is the break: **nothing fixes what k is.** Any value of k at all, from zero to enormous, is equally consistent with every conservation law at every vertex in this diagram. The pattern of Section 1.1 has failed.
+
+### Worked example 1
+
+Verify that k really is unconstrained, by checking both vertices where the new electron-positron pair meets the rest of the diagram. At the vertex where the pair is created from the incoming photon, momentum conservation reads q=k+(q−k), true for every value of k whatsoever, not just one. At the vertex where the pair recombines into the outgoing photon, the same equation appears again, in reverse. Neither vertex, nor both together, picks out a value for k; the equation is an identity, satisfied automatically, carrying no information about k at all.
+
+# 2 The new question
+
+Not "what is the value of k in this diagram," because Worked example 1 has just shown that question has no answer — every value is allowed. The question this lesson actually needs to ask is different, and it is worth saying it out loud, in one sentence, before going any further:
+
+**If quantum mechanics adds up every way a process can happen, and every value of k describes a genuinely different way, then the diagram's contribution is not one term. It is all of them, added together.**
+
+This is not a new principle. It is the same rule Lesson 34's Wick's theorem and Lesson 49's sum over diagrams have been using all along — count every possibility consistent with the external data, and add. What is new is that, for the first time, "every possibility" is not a short, finite list of diagrams. It is a continuum: every real number k could take, in every one of its four components.
+
+Adding a continuum of possibilities is what an integral is. So the loop's contribution to the amplitude must contain something like ∫d⁴k, an instruction to add up the diagram's value at every conceivable k, exactly as Lesson 34's mode sums became ∫d³p once momentum was recognized as continuous rather than discrete.
+
+### Worked example 2
+
+Explain why this integral cannot be avoided by picking "the most likely" value of k and ignoring the rest. Nothing in this diagram measures k, or could measure it even in principle, since k belongs entirely to an internal line no detector ever touches; quantum mechanics does not permit discarding unmeasured alternatives, it requires including all of them in the sum that produces the amplitude, the same rule already met in Lesson 34's mode sums and Lesson 49's sum over diagrams, now applied to a continuum instead of a short list.
+
+# 3 The wall
+
+## 3.1 A much simpler warm-up
+
+Before writing down anything as complicated as a four-dimensional loop integral, look at the simplest possible integral that grows without bound, one variable, one power, nothing else:
+
+$$ ∫_1^Λ dq/q = ln Λ
+
+Compute this for a few values of Λ, the upper limit standing in for "how far out the sum is allowed to run":
+
+@widths 2880 6912
+| Λ | ln Λ |
+| 10 | 2.3026 |
+| 100 | 4.6052 |
+| 1,000 | 6.9078 |
+| 10,000 | 9.2103 |
+| 100,000 | 11.5129 |
+
+## 3.2 What the table never does
+
+Notice what these numbers never do: they never stop growing, and they never approach a fixed number no matter how far Λ is pushed. Each tenfold increase in Λ adds exactly ln 10 ≈ 2.303 to the total, forever. There is no value of Λ large enough to make ln Λ settle down, because there is no upper bound built into the integral ∫dq/q itself; the "1" at the bottom was chosen only to keep the integral finite near q=0, and the "Λ" at the top is not part of the real problem at all — it was inserted here artificially, just to watch what happens as it is removed. Letting Λ→∞, as the real problem eventually demands, sends ln Λ→∞ as well. The integral, taken exactly as written, does not have an answer.
+
+### Worked example 3
+
+State, in one sentence, why this simple example matters for a loop diagram that no one has even written down explicitly yet. The loop integral of Section 2 shares the same structure in spirit: an integration variable, k, that is allowed to run out to arbitrarily large values with nothing in the diagram itself to stop it, and when the actual QED loop integrals of Lessons 62 through 64 are written out in full, their large-k behavior turns out to grow rather than fall away, for reasons Lesson 65 makes precise — the same wall as Section 3.1's table, arrived at by a longer road.
+
+## 3.3 Naming the wall honestly
+
+This is the point in the story where many treatments either panic or pretend nothing has happened. Neither is warranted. What has actually happened is this: the rule "add up every possibility," applied honestly to a diagram with a genuinely unconstrained internal momentum, produces a sum that, taken completely at face value and pushed out to arbitrarily large k, does not converge. This is a real mathematical fact about the object ∫d⁴k as written, not a mistake in setting it up, and not yet a statement about nature — no experiment has been consulted, and no physical prediction has been made incorrectly. It is worth feeling the discomfort of this properly, the same way Lesson 45 asked the discomfort of a squared delta function to be felt before resolving it, because everything from Lesson 65 onward is the story of what to do about exactly this wall, and a reader who has not felt it will experience regularization, three lessons from now, as an unmotivated trick rather than a rescue.
+
+### Worked example 4
+
+Explain why "the integral is infinite" cannot, by itself, be the final word on what a loop diagram predicts. Every prediction this course has made and checked, going back to the vertex factor of Lesson 44, has been a finite number compared successfully against how QED is actually tested; if loop diagrams simply produced nonsense, the theory would already have failed every precision measurement Part X eventually discusses, so an infinite-looking integral must be telling this course something about how the calculation needs to be finished, not about whether QED itself is wrong. Lessons 65 through 67 supply that ending.
+
+# 4 Counting loops properly
+
+## 4.1 The rule
+
+For a connected diagram with V vertices and I internal lines, the number of independent, genuinely unconstrained loop momenta is
+
+$$ L = I − V + 1
+
+Each vertex supplies one momentum-conservation equation among the lines meeting there, giving V equations in total; but adding all V of them together only reproduces overall momentum conservation between the diagram's external legs, already guaranteed and carrying no new information, so only V−1 of the V equations are independent. With I internal-line momenta to solve for and V−1 independent equations available, L=I−(V−1)=I−V+1 momenta are left with no equation to fix them (Exercise 9 works through this counting on a diagram already familiar from Part VIII).
+
+## 4.2 Checking it against a diagram with no loop at all
+
+Compton scattering's direct diagram (Lesson 49) has V=2 vertices and I=1 internal line, giving L=1−2+1=0. Zero unconstrained momenta is exactly Lesson 49's own finding, that the single internal momentum was completely fixed; Section 4.1's formula reproduces, as a special case, the very pattern Section 1.1 opened by describing.
+
+## 4.3 The three one-loop diagrams of QED
+
+@widths 2880 3168 2724
+| Diagram | V, I | L |
+| Section 1.2's photon self-energy (vacuum polarization) | V=2, I=2 | 1 |
+| An electron line briefly emitting and reabsorbing its own photon (self-energy) | V=2, I=2 | 1 |
+| A vertex with an extra photon connecting its two electron legs (vertex correction) | V=3, I=3 | 1 |
+
+Every one of the three simplest loop diagrams in QED carries a single unconstrained momentum, not by coincidence but because each adds one internal line beyond what a bare tree-level version of the same process would need, for one extra vertex pair.
+
+### Worked example 5
+
+State which of these three diagrams was actually constructed in Section 1.2, and name the physical process it describes. Section 1.2 built the photon self-energy diagram, in which a photon momentarily becomes a virtual electron-positron pair; this is called vacuum polarization, because the vacuum itself, disturbed by the passing photon, briefly behaves as though it were polarized by the transient charges, and it is the subject of Lesson 62 in full.
+
+# 5 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it leads |
+| An unconstrained internal momentum, for the first time | Requires the loop integral ∫d⁴k this course has never needed before |
+| The integral, honestly written, does not converge | Confronted directly and resolved in Lessons 65 through 67 |
+| L=I−V+1 | Confirms every one-loop QED diagram carries exactly one loop momentum |
+| Vacuum polarization, self-energy, vertex correction | Computed in turn in Lessons 62, 63, and 64 |
+| The −1 fermion-loop sign (Lesson 36) | Already fixed and waiting to be used the moment vacuum polarization is computed |
+
+# 6 Summary
+
+1. Every diagram computed before this lesson had its internal momenta completely fixed by momentum conservation at each vertex; a loop diagram is the first kind of diagram where this fails.
+
+2. Attaching an extra internal electron-positron pair to an existing diagram, so that it briefly replaces part of an internal photon line, leaves one internal momentum, k, unconstrained by any vertex equation.
+
+3. Quantum mechanics requires summing over every value k could take, turning that sum into an integral, ∫d⁴k.
+
+4. A much simpler integral, ∫dq/q, already shows that a sum of this kind can fail to settle on any finite value as its range is pushed outward; the actual QED loop integrals share this feature.
+
+5. This is a genuine mathematical fact about the integral as written, not a sign that QED itself has failed, since every one of this course's finite, tested predictions came from diagrams without this problem.
+
+6. Counting independent loop momenta with L=I−V+1 confirms that vacuum polarization, electron self-energy, and the vertex correction each carry exactly one such momentum, and each is treated in its own lesson next.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Pick any one diagram from Lessons 53–57 and state explicitly, in your own words, why its single internal momentum was fixed the moment the external momenta were specified. |
+| 2 | Redraw Section 1.2's modified electron-muon diagram from memory, labeling the photon's momentum q and the new pair's momenta k and q−k. |
+| 3 | Verify Worked example 1's claim by writing out momentum conservation at both new vertices explicitly and confirming each is satisfied for every value of k. |
+| 4 | Explain, in one sentence, the difference between "a diagram with more than one internal line" and "a diagram with an unconstrained internal momentum," using Compton scattering's single internal electron line as a contrasting example of the first without the second. |
+| 5 | State, in your own words, why "add up every possibility" becomes an integral once the possibilities form a continuum, referring to how Lesson 34 already made the same transition for ordinary momentum. |
+| 6 | Compute ∫₁^Λ dq/q for Λ=1,000,000 by hand, using ln(10)≈2.3026, and add it to Section 3.1's table. |
+| 7 | Explain why the lower limit of Section 3.1's integral was chosen to be 1 rather than 0, and what would happen to the integral near q=0 if it were not. |
+| 8 | State, in one sentence, what makes Section 3.3's wall a fact about the integral rather than a fact about nature. |
+| 9 | Derive L=I−V+1 from scratch: state how many momentum-conservation equations V vertices supply, explain why only V−1 of them are independent, and combine this with I unknown internal momenta. |
+| 10 | Verify L=0 for Compton scattering's direct diagram using Section 4.1's formula, and compare with Lesson 49's own finding for that diagram. |
+| 11 | Verify L=1 for the vertex-correction diagram described in Section 4.3, using V=3, I=3. |
+| 12 | Explain why adding one extra vertex pair to a tree diagram, in the way Section 1.2 did, always adds exactly one loop, referring to how V and I each change when a pair of vertices and their connecting lines are inserted. |
+| 13 | State which of Lessons 62, 63, or 64 will compute the process where an electron emits and then reabsorbs its own virtual photon, and name that process. |
+| 14 | Explain why the −1 sign associated with a closed fermion loop, first derived in Lesson 36, is expected to appear specifically in the vacuum polarization and vertex-correction diagrams of Section 4.3 but not in the self-energy diagram, referring to which of the three actually contains a closed loop built entirely from fermion lines. |
+| 15 | Explain, in your own words, why Worked example 4's argument (that QED's tested predictions are all finite) does not by itself tell you how to fix the divergent integral, only that a fix must exist. |
+| 16 | Challenge: using the pattern of Section 1.2, describe how a second, independent electron-positron pair could be inserted into the same diagram, in addition to the first, and state, using L=I−V+1, how many independent loop momenta the resulting two-pair diagram would carry. |
+
+# Solutions
+
+**1.** In any such diagram, exactly one internal line connects two vertices, and each vertex's own momentum-conservation equation, once the external momenta at that vertex are known, determines the momentum flowing along the internal line directly; with only one unknown and one equation, the internal momentum has no freedom left, since the equation is enough, by itself, to solve for it uniquely.
+
+**2.** The diagram shows the electron-muon vertex on one side and the muon vertex on the other, connected not by a single photon line but by a photon line that splits partway along its length into two internal lines, labeled k and q−k, which run parallel for a short stretch before recombining into a single photon line again on the way to the second vertex; q labels the external photon momentum fixed by the electron and muon legs, exactly as in the original diagram.
+
+**3.** At the creation vertex, the incoming photon momentum q splits into the two new lines: q=k+(q−k), which simplifies to q=q, true regardless of what k is. At the recombination vertex, the same equation appears in reverse, k+(q−k)=q, again true for any k. Neither equation contains k in a way that could be solved for it; both are automatically satisfied identities.
+
+**4.** Compton scattering's diagram has exactly one internal line, and that one line's momentum is fixed uniquely by the vertex equations at its two ends, so having an internal line at all is not the same as having an unconstrained one; a diagram needs specifically an internal momentum left over after every vertex equation has been used, which requires more internal lines than independent equations, not merely the presence of an internal line.
+
+**5.** Lesson 34 first expanded a quantum field as a sum over discrete oscillator modes, then found that a continuous range of momenta required replacing that sum with ∫d³p, since a genuinely continuous set of alternatives cannot be enumerated one at a time and added with a discrete sum; the loop momentum k belongs to the identical situation, a continuous range of unmeasured possibilities that Lesson 34's same logic turns into ∫d⁴k.
+
+**6.** ln(1,000,000)=ln(10⁶)=6×ln(10)≈6×2.3026=13.8155, extending Section 3.1's table with one further entry, still simply the previous pattern continuing upward with no sign of leveling off.
+
+**7.** Choosing the lower limit as 1 avoids the separate issue of what ∫dq/q does near q=0, where the integrand itself grows without bound (a different kind of difficulty, from small q rather than large q); starting at 1 isolates the large-Λ behavior this lesson is illustrating, without mixing in that separate small-q behavior.
+
+**8.** The wall is a fact about the integral because it follows from ordinary calculus applied to a specific, completely well-defined mathematical expression, ∫₁^Λ dq/q=ln Λ, with no reference anywhere to what nature does or to any experiment; whether nature actually behaves the way this integral, taken naively, suggests is a separate question, addressed only once the calculation is finished properly.
+
+**9.** Each of the V vertices enforces conservation of the momenta meeting at that vertex, giving one equation per vertex, V equations total. Summing all V equations together reproduces the statement that the total momentum entering the whole diagram equals the total momentum leaving it, a fact already guaranteed by the diagram's fixed external legs and containing no additional information about the internal lines, so at most V−1 of the V equations are independent. With I internal-line momenta as unknowns and V−1 independent constraints among them, L=I−(V−1)=I−V+1 momenta remain undetermined.
+
+**10.** Section 4.1 gives L=I−V+1=1−2+1=0 for Compton's direct diagram (I=1, V=2), matching Lesson 49, Section 2.3's direct finding that the single internal momentum q_A=p+k was completely fixed by the two vertex equations there, with nothing left undetermined.
+
+**11.** With V=3 and I=3, L=I−V+1=3−3+1=1, exactly one loop momentum, matching Section 4.3's table entry for the vertex-correction diagram.
+
+**12.** Before the insertion, the electron-muon diagram has V=2, I=1, so L=1−2+1=0 (Section 4.2). Inserting the pair-creation and pair-annihilation vertices adds 2 to V, giving V=4. The single original line is replaced by four lines in total: one segment from the electron vertex to the new creation vertex, two lines (k and q−k) running between the creation and annihilation vertices, and one segment from the annihilation vertex to the muon vertex; so I goes from 1 to 4, an increase of 3, not 2. The new totals give L=4−4+1=1, an increase of exactly one loop, matching Section 4.3: the extra vertex and line each vertex pair contributes do not cancel one-for-one, since inserting two vertices into a single line always produces two new line segments in addition to the lines forming the loop itself.
+
+**13.** Lesson 63 computes electron self-energy, the process of an electron emitting and reabsorbing its own virtual photon, exactly the second diagram listed in Section 4.3's table.
+
+**14.** Vacuum polarization's loop is built entirely from the closed electron-positron line circling back on itself (Section 1.2's construction), and the vertex-correction diagram's loop similarly closes through a segment of fermion line between its two extra vertices; both therefore contain a genuinely closed fermion loop of the kind Lesson 36, Section 6.2, associated with an extra minus sign. The self-energy diagram's loop, by contrast, is built from one internal photon line and one internal electron line together, not a closed fermion loop by itself, so the −1 sign specific to an all-fermion closed loop does not apply to it in the same way.
+
+**15.** Worked example 4 shows only that some resolution must exist, by pointing to the fact that QED's tested predictions are finite; it says nothing about what that resolution actually is, how to carry it out, or what steps are involved, which is exactly the content Lessons 65 through 67 still need to supply.
+
+**16.** A second electron-positron pair could be inserted along one of the existing internal fermion lines of the first pair, in the same way the first pair was inserted into the original photon line, adding 2 more vertices and 2 more internal lines to the diagram; using L=I−V+1, this second insertion adds another net loop exactly as the first one did, so the resulting two-pair diagram carries L=2 independent loop momenta, one for each inserted pair.
+
+# Mastery checklist
+
+- I can state what every tree-level diagram in this course had in common regarding its internal momenta, and construct a diagram where that pattern fails.
+
+- I can explain why an unconstrained internal momentum forces a sum to become an integral.
+
+- I can show, using a simple one-variable example, that such an integral can fail to converge as its range grows.
+
+- I can explain why this divergence is a mathematical fact about the integral, not yet a statement about nature, and why QED's success elsewhere guarantees a resolution exists.
+
+- I can count independent loop momenta with L=I−V+1 and verify it for a tree diagram and for each of the three one-loop QED diagrams.
+
+- I can name the physical process each of the three one-loop diagrams describes and which lesson computes it.

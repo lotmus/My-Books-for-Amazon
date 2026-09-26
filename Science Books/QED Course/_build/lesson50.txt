@@ -1,0 +1,219 @@
+TITLE: Scattering Amplitudes
+TAGLINE: From the invariant amplitude ℳ to a measurable cross section or decay rate, resolving the squared delta function along the way
+NUM: 50
+NEXT: Lesson 51 develops the trace technology needed to evaluate |ℳ|² explicitly when the initial spins and final polarizations are not measured, turning the spinor sums this lesson leaves abstract into concrete traces of gamma matrices.
+
+# How to use this lesson
+
+Lesson 49 showed how to write down iℳ for a given diagram. This lesson asks what ℳ is actually for: turning it into a number that can be compared with an experiment. The path runs through a genuine subtlety, squaring a momentum-conserving delta function, which looks at first like nonsense (a delta function squared is not a delta function) and resolves into one of the cleanest tricks in the subject once the delta function is read as a Fourier integral over all of spacetime. From there, converting a raw transition probability into a cross section or a decay rate is mostly bookkeeping, but the bookkeeping matters, and it ends in a genuinely striking place: the exact origin, inside the decay-rate formula itself, of relativistic time dilation for an unstable particle's lifetime. Expect five to seven hours.
+
+## Learning objectives
+
+- Resolve the squared delta function [(2π)⁴δ⁴(P)]² using its Fourier representation, identifying (2π)⁴δ⁴(0) with the total spacetime volume VT.
+
+- Derive the transition rate per unit time from |S_fi|², and explain why dividing by T, not the raw probability itself, is the physically meaningful quantity.
+
+- State the complete differential cross-section formula dσ=(1/F)|ℳ|²(2π)⁴δ⁴(ΣP_f−ΣP_i)dΠ, identifying the flux factor F and the Lorentz-invariant phase space dΠ.
+
+- State the analogous decay-rate formula dΓ=(1/2E_i)|ℳ|²(2π)⁴δ⁴(p_i−ΣP_f)dΠ, and explain why it needs no flux factor.
+
+- Derive, from the 1/(2E_i) factor alone, that an unstable particle observed in motion has a longer lifetime than in its own rest frame, by exactly the relativistic time-dilation factor γ.
+
+- Explain what a cross section measures that a raw transition rate does not.
+
+- Write both the cross-section and decay-rate formulas from memory.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| S_fi | S-matrix element between definite-momentum initial and final states |
+| F | Flux factor, F=4E₁E₂\|v₁−v₂\| (collinear beams) or 4√((p₁·p₂)²−m₁²m₂²) generally |
+| dΠ | Lorentz-invariant phase-space element, Π_f d³p_f/((2π)³2E_f) |
+| Γ, τ=1/Γ | Total decay rate and lifetime |
+| γ | Lorentz factor, E/m |
+
+# 1 From amplitude to probability
+
+## 1.1 Squaring the S-matrix element
+
+Lesson 49 defined S_fi=δ_fi+i(2π)⁴δ⁴(P_f−P_i)ℳ_fi. For a genuine scattering process (f≠i), the transition probability is |S_fi|²=|(2π)⁴δ⁴(P_f−P_i)|²|ℳ_fi|², and the first factor, a delta function squared, is not itself a delta function or any other ordinary distribution; it needs to be interpreted.
+
+## 1.2 Resolving the square
+
+Using the Fourier representation (2π)⁴δ⁴(P)=∫d⁴x e^(iPx), already used throughout Lessons 44–49, setting P=0 gives
+
+$$ (2π)⁴δ⁴(0) = ∫ d⁴x , 1 = VT
+
+the total spacetime volume, formally infinite but understood as the finite volume V and elapsed time T of a large box-normalization scheme, to be taken to infinity only after physical, finite ratios are extracted. So
+
+$$ | (2π)⁴δ⁴(P_f−P_i) |² = (2π)⁴δ⁴(P_f−P_i) · VT
+
+one factor left as an ordinary delta function (enforcing momentum conservation, as it must), the other evaluated at zero argument and replaced by VT.
+
+### Worked example 1
+
+Explain why it is legitimate to set P=0 in only one of the two copies of the delta function, not both. One copy of δ⁴(P_f−P_i) is retained as an ordinary distribution, imposing momentum conservation on whatever is integrated against it later (the final-state phase space, Section 3.3); the other copy is evaluated at the specific point P=0, which is the only point where the first delta function is nonzero, so effectively both are being evaluated together, consistently, at the physical momentum-conserving configuration.
+
+# 2 The transition rate
+
+## 2.1 Dividing by time
+
+$$ |S_fi|² = VT (2π)⁴δ⁴(P_f−P_i) |ℳ_fi|²
+
+A probability that grows linearly with the elapsed time T is exactly what should be expected of a constant transition rate accumulating over a longer observation; dividing by T gives a genuinely T-independent quantity,
+
+$$ text(rate) = |S_fi|²/T = V (2π)⁴δ⁴(P_f−P_i) |ℳ_fi|²
+
+with one factor of V remaining, to be absorbed into the normalization of the states and the definition of a cross section in Section 3.
+
+## 2.2 Why not just use |S_fi|² directly
+
+A raw probability |S_fi|² depends on the arbitrary elapsed time T over which the experiment happens to run, and, before dividing, is not even well defined (it diverges as T→∞); only after dividing by T does a finite, meaningful, repeatable number emerge, exactly analogous to how a radioactive sample's decay probability over an arbitrarily long observation is not itself the physically fundamental quantity, its decay rate (probability per unit time) is.
+
+### Worked example 2
+
+Explain why the leftover factor of V in Section 2.1's rate is not yet the end of the calculation. V is an arbitrary book-keeping volume, introduced only to make individual delta functions finite intermediate objects; a genuinely V-independent, measurable quantity requires this factor to cancel against other V-dependent normalization factors, specifically the normalization of the relativistic momentum states in the initial flux (Section 3) and, implicitly, in ℳ_fi's own definition through the external wavefunctions of Lesson 48.
+
+# 3 From rate to cross section
+
+## 3.1 Why a cross section
+
+The rate of Section 2.1 depends on how densely the beam particles are packed into the box (through the normalization of the states used to define S_fi), a detail of the experimental setup, not a property of the underlying physics; a cross section is defined precisely to remove this dependence, by dividing the rate by the incident flux, the rate at which target particles are being struck per unit density of the beam.
+
+## 3.2 The flux factor
+
+For two colliding beams with four-momenta p₁, p₂, the flux factor is
+
+$$ F = 4 E₁E₂ |v₁−v₂| ( text(collinear beams) ) = 4 √((p₁·p₂)² − m₁²m₂²) ( text(general, frame-independent) )
+
+the two forms agreeing whenever the two beams' velocities are collinear (including both the center-of-momentum frame and the fixed-target frame, the two most common experimental setups), a case checked explicitly in Exercise 8.
+
+## 3.3 Phase space
+
+Each outgoing particle contributes a factor d³p_f/((2π)³2E_f) to the final-state integration measure, the same combination already used for every mode sum since Lesson 34; the explicit 2E_f is exactly what is needed to make this measure Lorentz invariant, consistent with the relativistic normalization u†u=2E_p fixed as a convention early in this course.
+
+## 3.4 The complete formula
+
+$$ dσ = (1/F) |ℳ|² (2π)⁴δ⁴(ΣP_f−ΣP_i) Π_f , d³p_f/((2π)³2E_f)
+
+with the remaining volume factor of Section 2.1 having cancelled against the normalization built into F and the phase-space measure (Exercise 10 traces this cancellation structurally).
+
+### Worked example 3
+
+State, in words, what each of the four pieces of Section 3.4's formula represents. |ℳ|² is the process-specific physics, computed diagram by diagram as in Lesson 49; 1/F converts a raw rate into a quantity independent of beam density; (2π)⁴δ⁴(ΣP_f−ΣP_i) enforces overall energy-momentum conservation; and the product of phase-space factors sums over every kinematically allowed configuration of the final-state particles, weighted by the Lorentz-invariant measure appropriate to each.
+
+# 4 The parallel case: decay rates
+
+## 4.1 No flux factor
+
+A single unstable particle at rest (or in any frame) has no "incident beam" and hence no flux to divide by; the analogous role is played by a single factor of 1/(2E_i), from the initial particle's own relativistic normalization, in place of the two-particle flux factor F.
+
+## 4.2 The formula
+
+$$ dΓ = (1/(2E_i)) |ℳ|² (2π)⁴δ⁴(p_i−ΣP_f) Π_f , d³p_f/((2π)³2E_f)
+
+with dΓ the differential decay rate into a specific final-state configuration, and the total decay rate Γ obtained by integrating over all kinematically allowed final states and summing over all decay channels.
+
+### Worked example 4
+
+Explain why |ℳ|² and the phase-space integral in Section 4.2, each built from Lorentz scalars and Lorentz-invariant measures, being multiplied only by the single frame-dependent factor 1/(2E_i), makes the E_i-dependence of dΓ completely explicit and isolated. Every other object in Section 4.2's formula (ℳ, the delta function, each d³p_f/(2E_f)) is a Lorentz scalar or built from Lorentz-invariant measures, unaffected by which frame the calculation is performed in; the entire frame dependence of dΓ is therefore carried by the single explicit factor 1/(2E_i), with nothing else needed to track how the rate changes between frames.
+
+### Worked example 5
+
+Use Worked example 4 to derive how an unstable particle's observed lifetime depends on its speed. In the particle's own rest frame, E_i=m, giving the rest-frame decay rate Γ_0. Observed in a frame where the particle moves with energy E_i=γm (γ the Lorentz factor), every other factor in the formula is unchanged (being Lorentz invariant), so the observed rate is Γ=Γ_0/γ, smaller by exactly the factor γ. Since lifetime is the inverse of rate, τ=1/Γ=γ/Γ_0=γτ_0: the observed lifetime is longer than the rest-frame lifetime by exactly the relativistic time-dilation factor γ, derived here directly from the 1/(2E_i) normalization factor in the decay-rate formula, with no separate appeal to special relativity's time-dilation formula needed.
+
+# 5 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used next |
+| (2π)⁴δ⁴(0)=VT | The resolution of every squared delta function encountered when converting an amplitude to a probability |
+| dσ=(1/F)\|ℳ\|²(2π)⁴δ⁴(ΣP)dΠ | The formula evaluated explicitly for Compton and electron-muon scattering, Lessons 53 and beyond |
+| dΓ=(1/2E_i)\|ℳ\|²(2π)⁴δ⁴(p_i−ΣP)dΠ | Used for every unstable-particle decay calculation later in this course |
+| τ=γτ_0 derived from 1/(2E_i) | A striking, self-contained confirmation that this formalism reproduces special relativity's time dilation exactly |
+| \|ℳ\|² left unevaluated, with spin/polarization sums implicit | The explicit subject of Lesson 51's trace technology |
+
+Lesson 51 now develops the tools needed to evaluate |ℳ|² explicitly, summing and averaging over the spins and polarizations this lesson has left as an abstract, unevaluated piece of every formula.
+
+# 6 Summary
+
+1. Squaring the momentum-conserving delta function in S_fi gives (2π)⁴δ⁴(P)·VT, using the Fourier representation to identify (2π)⁴δ⁴(0)=VT.
+
+2. Dividing by T gives a genuine, T-independent transition rate, V(2π)⁴δ⁴(P)|ℳ|², with one factor of V remaining.
+
+3. Dividing by the flux F, which carries the remaining V-dependence along with the beam-density information, gives the cross-section formula dσ=(1/F)|ℳ|²(2π)⁴δ⁴(ΣP)dΠ.
+
+4. For a single decaying particle, no flux factor exists; the analogous role is played by 1/(2E_i), giving dΓ=(1/2E_i)|ℳ|²(2π)⁴δ⁴(p_i−ΣP)dΠ.
+
+5. Every factor in the decay-rate formula except 1/(2E_i) is Lorentz invariant, so the formula's entire frame dependence is carried by that one factor.
+
+6. This directly gives τ=γτ_0: an unstable particle observed in motion lives longer than in its own rest frame by exactly the time-dilation factor γ.
+
+7. Both formulas require |ℳ|², still to be evaluated explicitly, the task of Lesson 51 onward.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | State S_fi=δ_fi+i(2π)⁴δ⁴(P_f−P_i)ℳ_fi and explain why, for f≠i, only the second term contributes to \|S_fi\|². |
+| 2 | Using (2π)⁴δ⁴(P)=∫d⁴x e^(iPx), evaluate the integral at P=0 and explain why the result is the total four-volume of spacetime, VT. |
+| 3 | Combine Exercises 1 and 2 to derive \|S_fi\|²=VT(2π)⁴δ⁴(P_f−P_i)\|ℳ_fi\|². |
+| 4 | Divide Exercise 3's result by T and state the resulting expression for the transition rate. |
+| 5 | Explain, in one or two sentences, why a probability that grows linearly with T is exactly what a constant transition rate predicts, rather than a sign of an error. |
+| 6 | Explain why the leftover factor of V in the rate of Exercise 4 means this rate, by itself, is not yet a quantity two different experiments (with different beam densities) would agree on. |
+| 7 | State both forms of the flux factor F given in Section 3.2, and identify which experimental setups (name two) correspond to the collinear case where they agree. |
+| 8 | In the center-of-momentum frame, with p₁=−p₂ (equal and opposite three-momenta), write v₁=\|p₁\|/E₁ and v₂=\|p₁\|/E₂ (using \|p₂\|=\|p₁\| in this frame), and state, without full algebra, why F=4E₁E₂\|v₁−v₂\| and F=4√((p₁·p₂)²−m₁²m₂²) are expected to agree in this specific, collinear case. |
+| 9 | Explain why the phase-space measure d³p/((2π)³2E) is Lorentz invariant, citing the relativistic normalization convention u†u=2E_p already used since Lesson 19 or so. |
+| 10 | Explain, in general terms, how the leftover factor of V from Exercise 4 is expected to cancel once the flux factor F and the phase-space measure's normalization are both included in the full cross-section formula of Section 3.4. |
+| 11 | Write the complete cross-section formula from Section 3.4 and label each of its four pieces, following Worked example 3. |
+| 12 | Write the decay-rate formula of Section 4.2 and explain, in one sentence, why it has no flux factor. |
+| 13 | Explain why every factor in the decay-rate formula except 1/(2E_i) is Lorentz invariant, listing each remaining factor and its invariance property. |
+| 14 | Derive Γ=Γ_0/γ from Worked example 4's observation, using E_i=γm for a particle observed with Lorentz factor γ. |
+| 15 | Derive τ=γτ_0 from Exercise 14, and state, in a sentence, the well-known physical phenomenon this reproduces. |
+| 16 | Challenge: name the two topics (and their lesson numbers) still needed before either formula of this lesson can be evaluated explicitly and numerically for a specific QED process such as Compton scattering, and state in one sentence what each contributes. |
+
+# Solutions
+
+**1.** S_fi=δ_fi+i(2π)⁴δ⁴(P_f−P_i)ℳ_fi (Lesson 49). For f≠i, the initial and final states are distinct momentum configurations, so δ_fi=0 identically, leaving only the second term, and |S_fi|²=|i(2π)⁴δ⁴(P_f−P_i)ℳ_fi|²=|(2π)⁴δ⁴(P_f−P_i)|²|ℳ_fi|² (using |i|²=1).
+
+**2.** At P=0, e^(iPx)=e^0=1 for every x, so ∫d⁴x e^(i0x)=∫d⁴x·1, the integral of 1 over all of spacetime, which is exactly the total four-volume, formally infinite but represented as VT (a spatial volume V times an elapsed time T) in a box-normalized regularization.
+
+**3.** |(2π)⁴δ⁴(P_f−P_i)|²=(2π)⁴δ⁴(P_f−P_i)·(2π)⁴δ⁴(0) (treating one factor as an ordinary delta function and evaluating the other, formally identical factor at the point P=0, the only point where the delta function is supported); substituting (2π)⁴δ⁴(0)=VT from Exercise 2 and combining with Exercise 1 gives |S_fi|²=VT(2π)⁴δ⁴(P_f−P_i)|ℳ_fi|².
+
+**4.** Dividing Exercise 3's result by T gives |S_fi|²/T=V(2π)⁴δ⁴(P_f−P_i)|ℳ_fi|², the transition rate (probability per unit time), with one factor of T cancelled and one factor of V remaining.
+
+**5.** A constant transition rate R implies, over an elapsed time T, a total accumulated probability of RT (for T small enough that the probability stays well below 1); the linear-in-T growth of |S_fi|² found in Exercise 3 is exactly this expected behavior, confirming that dividing by T (Exercise 4) correctly recovers R as a T-independent, physically meaningful rate.
+
+**6.** V is an arbitrary book-keeping volume introduced only to regularize the delta function at zero argument (Exercise 2); two experiments using differently sized normalization boxes (a purely mathematical choice, not a physical difference) would report different numerical values for the rate of Exercise 4 unless this V-dependence is removed, which is exactly what dividing by the flux (itself V-dependent in a compensating way) accomplishes.
+
+**7.** F=4E₁E₂|v₁−v₂| for collinear beams, and F=4√((p₁·p₂)²−m₁²m₂²) in general (Section 3.2); the two agree specifically in the center-of-momentum frame and in the fixed-target frame, the two setups in which the two beams' velocities are parallel (or antiparallel) rather than at some general angle.
+
+**8.** With p₁=−p₂, both particles' three-momenta have the same magnitude |p₁|, and v₁=|p₁|/E₁, v₂=|p₁|/E₂ point in opposite directions, so |v₁−v₂|=|p₁|/E₁+|p₁|/E₂=|p₁|(E₁+E₂)/(E₁E₂), giving F=4E₁E₂·|p₁|(E₁+E₂)/(E₁E₂)=4|p₁|(E₁+E₂); this collinear-velocity form is exactly the kind of case in which the general invariant formula 4√((p₁·p₂)²−m₁²m₂²), evaluated in this same frame, is expected to reduce to the same expression, since both are meant to describe the identical physical flux in a frame where the two beams move directly toward each other.
+
+**9.** u†u=2E_p (this course's spinor normalization) shows that the natural relativistic density of states already carries a factor of 2E_p; combining d³p (an ordinary, non-invariant volume element in momentum space, since it does not include the appropriate Jacobian for a Lorentz boost) with 1/(2E_p) exactly compensates for this non-invariance, so that d³p/(2E_p), and hence d³p/((2π)³2E_p), transforms as a genuine Lorentz scalar under boosts, the standard, frequently-used fact underlying every relativistic phase-space integral in this course.
+
+**10.** The rate of Exercise 4 carries one explicit factor of V; the flux factor F, defined using the beam's physical densities (particles per unit volume, implicitly V-dependent in the box-normalization scheme used to derive Exercise 4), is expected to contribute a compensating factor of 1/V once the relativistically normalized initial states (each itself proportional to a normalization volume, as for the final-state phase-space measure of Section 3.3) are properly accounted for, so that the ratio (rate)/F is finite and V-independent, exactly the defining property a cross section is constructed to have.
+
+**11.** dσ=(1/F)|ℳ|²(2π)⁴δ⁴(ΣP_f−ΣP_i)Π_f d³p_f/((2π)³2E_f): |ℳ|² is the process-specific physics; 1/F removes the beam-density dependence; (2π)⁴δ⁴(ΣP_f−ΣP_i) enforces overall momentum conservation; the phase-space product sums over every kinematically allowed final-state configuration with the correct Lorentz-invariant weighting.
+
+**12.** dΓ=(1/(2E_i))|ℳ|²(2π)⁴δ⁴(p_i−ΣP_f)Π_fd³p_f/((2π)³2E_f) (Section 4.2). A decay involves a single initial particle, not two colliding beams, so there is no relative flux of one beam through another to normalize against; the single particle's own relativistic normalization supplies the analogous factor, 1/(2E_i), in place of F.
+
+**13.** |ℳ|² is a Lorentz scalar (built from contracted spinor and polarization indices, as established since Lesson 42's discussion of scalar invariants); (2π)⁴δ⁴(p_i−ΣP_f) is Lorentz invariant (a four-dimensional delta function transforms as a scalar density that exactly compensates the Jacobian of a Lorentz transformation, the same fact underlying Exercise 9's phase-space invariance); each d³p_f/((2π)³2E_f) is Lorentz invariant by Exercise 9 itself. Only the explicit 1/(2E_i), a single number attached to the one frame-dependent quantity (the initial particle's own energy), is not separately invariant.
+
+**14.** Setting E_i=γm (the energy of a particle of rest mass m observed with Lorentz factor γ) in dΓ=(1/(2E_i))|ℳ|²(⋯) gives dΓ=(1/(2γm))|ℳ|²(⋯); since the rest-frame rate is dΓ_0=(1/(2m))|ℳ|²(⋯) (setting γ=1, E_i=m) with the SAME |ℳ|² and phase-space integral (both Lorentz invariant, Exercise 13), dΓ=dΓ_0/γ, and integrating over the full final-state phase space gives Γ=Γ_0/γ.
+
+**15.** τ=1/Γ=1/(Γ_0/γ)=γ/Γ_0=γ(1/Γ_0)=γτ_0, using Exercise 14's Γ=Γ_0/γ. This is exactly relativistic time dilation: a moving unstable particle (such as a muon produced high in the atmosphere) is observed to live longer, by the factor γ, than its rest-frame lifetime would suggest, the well-known effect that allows a substantial fraction of cosmic-ray muons to reach the Earth's surface despite their short rest-frame lifetime.
+
+**16.** Lesson 51 (External Spinors and Polarization) supplies the trace technology needed to evaluate |ℳ|², summed or averaged over unmeasured spins and polarizations, as an explicit, closed-form expression rather than an abstract spinor sandwich; Lesson 52 (Momentum Conservation) supplies the kinematic bookkeeping (such as the Mandelstam variables) needed to carry out the remaining phase-space integrals of Section 3.4 or 4.2 explicitly for a specific process.
+
+# Mastery checklist
+
+- I can resolve the squared delta function [(2π)⁴δ⁴(P)]² using its Fourier representation.
+
+- I can derive the transition rate per unit time from |S_fi|² and explain why dividing by T is necessary.
+
+- I can state the cross-section formula and identify each of its four pieces.
+
+- I can state the decay-rate formula and explain why it needs no flux factor.
+
+- I can derive τ=γτ_0 directly from the 1/(2E_i) factor in the decay-rate formula.

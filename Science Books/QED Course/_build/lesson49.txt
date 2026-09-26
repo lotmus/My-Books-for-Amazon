@@ -1,0 +1,210 @@
+TITLE: Feynman Rules
+TAGLINE: The Dyson series to second order, momentum conservation at every vertex derived explicitly for Compton scattering, and the general recipe for writing down any QED amplitude
+NUM: 49
+NEXT: Lesson 50 takes the amplitude ℳ this lesson learns to write down and develops what is actually done with it: how |ℳ|² relates to a cross section or a decay rate, the phase-space integrals that convert it into a measurable number, and the averaging and summing over unmeasured spins and polarizations that a real experiment requires.
+
+# How to use this lesson
+
+Lesson 44 derived one vertex factor from one first-order calculation. Lessons 45 through 48 built the propagators and external-line factors that calculation needed. This lesson assembles all of it into a general method, extending Lesson 44's first-order S-matrix term to the second order needed for a genuine physical process, and deriving, by direct calculation on the concrete example of Compton scattering, the rule that has been used implicitly since Lesson 44's own discussion of internal lines: momentum is conserved at every vertex, and an internal line's momentum is whatever that conservation forces it to be. The lesson closes with the complete, general recipe used for every remaining diagram in this course. Expect six to eight hours; Section 2's calculation is the technical center of the lesson.
+
+## Learning objectives
+
+- Extend Lesson 44's first-order S-matrix term to the general Dyson series term S^(n), and verify the 1/n! is consistent with time-ordering a symmetric multiple integral.
+
+- Assemble the second-order S-matrix element for Compton scattering by contracting the interaction term twice against the appropriate external states and one internal propagator.
+
+- Derive, by direct calculation, that each vertex's spacetime integral produces a momentum-conserving delta function, and that these delta functions fix the internal line's momentum to q=p+k.
+
+- Identify the second, "crossed" diagram contributing to the same process, and explain why both must be included.
+
+- State the general Feynman-rule recipe: vertex factors, propagators with vertex-conserved momenta, external-line factors, an overall momentum-conserving delta function, and an integral over any momentum not fixed by that conservation.
+
+- State what additional bookkeeping (loop integrals, symmetry factors, the closed-fermion-loop sign) more complicated diagrams require, as a preview of later parts of the course.
+
+- Write down the complete amplitude for Compton scattering from memory, given the diagram.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| S^(n) | n-th order term of the Dyson series |
+| q | Internal (virtual) electron momentum in the Compton diagrams |
+| iℳ | Invariant amplitude, defined by S=1+i(2π)⁴δ⁴(ΣP_out−ΣP_in)ℳ |
+| s-channel, u-channel | The two diagrams contributing to Compton scattering (informal names, from the Mandelstam-variable language of Lesson 52) |
+
+# 1 The general Dyson series term
+
+## 1.1 From first to second order
+
+Lesson 44, Section 1.2, derived S^(1)=−i∫d⁴xℋ_int(x) by truncating the interaction-picture integral equation at first order. Iterating that equation once more, without yet symmetrizing, gives a term with two nested time integrals over an ordered (triangular) region, t_0≤t″≤t′≤t. Time-ordering symmetrizes this into the standard Dyson series term,
+
+$$ S^((n)) = (−i)^n/n! ∫ d⁴x₁ ⋯ d⁴x_n , T{ ℋ_int(x₁) ⋯ ℋ_int(x_n) }
+
+with S^(1) the n=1 case already derived.
+
+## 1.2 Why the 1/n! is exactly right
+
+For n=2, the nested (triangular) integral ∫_(t_0)^t dt′∫_(t_0)^(t′) dt″ H(t′)H(t″) covers only the region t″<t′; on that region T{H(t′)H(t″)}=H(t′)H(t″) (the later time already sits to the left). On the complementary region t′<t″, T{H(t′)H(t″)}=H(t″)H(t′), and relabeling the dummy integration variables t′↔t″ shows this region's contribution to ∫∫_(square) T{H(t′)H(t″)} equals the same triangular integral already computed. The full square (t′,t″∈[t_0,t]) is exactly twice the original triangular region, so (1/2!)∫∫_(square)T{HH}=∫∫_(triangle)HH, the original nested integral, confirming the 1/n! exactly compensates for symmetrizing the ordered integral into an unordered one.
+
+### Worked example 1
+
+State why this symmetrization is worth the trouble, rather than simply working with the original nested, ordered integral. The time-ordered, symmetric form is what naturally arises when the interaction terms are expressed as products of quantum fields and evaluated using Wick's theorem (Lessons 34 and 36), since Wick's theorem itself is stated for time-ordered products; working with the unordered, nested integral would require reproducing all of Wick's theorem's bookkeeping in a different, less convenient form.
+
+# 2 Assembling Compton scattering: the direct diagram
+
+## 2.1 Setting up the contraction
+
+Consider e⁻(p)+γ(k)→e⁻(p′)+γ(k′), with the interaction term e²T{[ψ̄γ^αψA_α](x₁)[ψ̄γ^βψA_β](x₂)} appearing inside S^(2) (using ℋ_int=−eψ̄γ^μψA_μ, so ℋ_int(x₁)ℋ_int(x₂)=e²[ψ̄γ^αψA_α](x₁)[ψ̄γ^βψA_β](x₂)). Following Lesson 48's leg factors, contract: ψ̄(x₁) against the outgoing electron, giving ū(p′)e^(ip′x₁); A_α(x₁) against the outgoing photon, giving ε_α(k′)e^(ik′x₁); ψ(x₂) against the incoming electron, giving u(p)e^(−ipx₂); A_β(x₂) against the incoming photon, giving ε_β(k)e^(−ikx₂). The remaining ψ(x₁) and ψ̄(x₂), not attached to any external state, contract with each other, using ⟨0|T{ψ(x₁)ψ̄(x₂)}|0⟩=S_F(x₁−x₂) (Lesson 46, Section 1.2), to form the internal electron line.
+
+## 2.2 The two vertex integrals
+
+Substituting S_F(x₁−x₂)=∫d⁴q/(2π)⁴ [i(q̸+m)/(q²−m²+iε)]e^(−iqx₁)e^(iqx₂) (Lesson 46, Section 4.2) and collecting every exponential factor,
+
+$$ e² ∫d⁴x₁d⁴x₂ ∫d⁴q/(2π)⁴ , ū(p′)γ^α [ i(q̸+m)/(q²−m²+iε) ] γ^β u(p) , ε_α(k′)ε_β(k) , e^(i(p′+k′−q)x₁) e^(i(q−p−k)x₂)
+
+The x₁ integral gives (2π)⁴δ⁴(p′+k′−q), and the x₂ integral gives (2π)⁴δ⁴(q−p−k), exactly generalizing the single vertex integral of Lesson 44, Section 3.2, to two vertices.
+
+## 2.3 The internal momentum is fixed
+
+The second delta function forces q=p+k; the first then forces p′+k′=q=p+k, that is, overall momentum conservation p+k=p′+k′, with the internal electron's momentum uniquely fixed to q=p+k by the two vertex delta functions together, and the q-integral collapses completely, with no momentum left undetermined. Collecting the overall prefactor (−i)²/2!·e²=−e²/2 from Section 1.1, together with a factor of 2 from the two equally valid ways of assigning the labels x₁, x₂ to reach this identical physical contraction (Exercise 8), the −1/2 and the 2 cancel, leaving
+
+$$ i ℳ_(direct) = (ie)² , ū(p′) γ^α [ i (p̸+k̸+m) / ((p+k)²−m²+iε) ] γ^β u(p) , ε_α(k′) ε_β(k)
+
+exactly the structure anticipated: a vertex factor ieγ^α, the propagator with its momentum fixed by conservation, and a second vertex factor ieγ^β, sandwiched between the external spinors and contracted with the external polarization vectors.
+
+### Worked example 2
+
+Confirm the overall power of i in Section 2.3's result by direct bookkeeping. The prefactor (−i)²/2!=−1/2, combined with the combinatorial factor of 2 (Exercise 8), gives an overall −1; multiplying by e² (from expanding ℋ_int(x₁)ℋ_int(x₂)) and by the propagator's own explicit i (Lesson 46, Section 4.2) gives (−1)(e²)(i)=−ie², matching (ie)²·i=i³e²=−ie² exactly, confirming the bookkeeping is self-consistent.
+
+# 3 The crossed diagram
+
+## 3.1 A second contraction
+
+Section 2's contraction was one specific way of pairing the fields in T{[ψ̄γ^αψA_α](x₁)[ψ̄γ^βψA_β](x₂)} with the four external states. A second, equally valid pairing instead contracts A_α(x₁) with the incoming photon and A_β(x₂) with the outgoing photon (the reverse photon assignment), with the internal electron propagator now carrying momentum q′=p−k′ (fixed by the same vertex-conservation mechanism of Section 2.2, applied to this different assignment).
+
+## 3.2 Both diagrams contribute
+
+Wick's theorem (Lessons 34 and 36) produces every nonzero contraction pattern consistent with the specified external states as a separate term in the full matrix element, not just the one worked out in Section 2; both the direct diagram (internal momentum p+k) and this crossed diagram (internal momentum p−k′) contribute to the same physical amplitude for Compton scattering, and the full amplitude is their sum, ℳ=ℳ_direct+ℳ_crossed. This course does not evaluate ℳ_crossed explicitly here; Lesson 53 carries out the complete calculation for a closely related process.
+
+### Worked example 3
+
+Explain, without full calculation, why the crossed diagram's internal momentum is p−k′ rather than p+k. The crossed diagram's internal line connects the vertex absorbing the incoming photon k to the vertex emitting the outgoing photon k′ in the opposite order from Section 2's assignment; following the same vertex-conservation logic of Section 2.3 with the photon legs swapped between the two vertices gives a different combination of the external momenta flowing into the internal line, specifically p−k′ in place of p+k.
+
+# 4 The general recipe
+
+Collecting Sections 1–3 into a reusable procedure for any QED diagram:
+
+1. Draw the diagram: external lines for every incoming and outgoing particle, internal lines connecting vertices, each vertex joining exactly one photon line to two fermion-line segments.
+
+2. For each external line, write the appropriate factor from Lesson 48's table (u, ū, v̄, v, or ε).
+
+3. For each vertex, write ieγ^μ, with μ the index carried by the photon line at that vertex.
+
+4. For each internal line, write its propagator (Lessons 45–47), with its momentum fixed by conservation at the vertices it connects, exactly as derived in Section 2.
+
+5. Impose momentum conservation at every vertex; for a diagram with no closed loops, this fixes every internal momentum uniquely, as in Section 2.3.
+
+6. If the diagram contains a closed loop, integrate over the one remaining undetermined momentum with ∫d⁴q/(2π)⁴, a technique this course develops further in Part IX.
+
+7. Multiply by −1 for each closed fermion loop in the diagram, the sign traced to Lesson 36, Section 6.2's fermionic reordering rule.
+
+8. Sum the resulting expressions over every distinct diagram (every distinct Wick contraction, such as Section 3's direct and crossed diagrams) contributing to the same process.
+
+### Worked example 4
+
+State which of the eight steps above were not needed for Section 2's specific calculation, and why. Step 6 (loop integration) was not needed, since Compton scattering at this order has no closed loop and both vertex delta functions were used to fix the single internal momentum completely; step 7 (fermion-loop sign) was not needed, since the diagram's fermion line runs continuously from the incoming to the outgoing electron with no closed loop anywhere in it.
+
+# 5 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used next |
+| S^(n)=(−i)^n/n! ∫⋯T{ℋ_int⋯ℋ_int} | The starting point for any perturbative QED calculation, at any order |
+| Vertex delta functions ⟹ q=p+k | Confirms momentum conservation at every vertex, used in every later diagram |
+| iℳ_direct=(ieγ^α)[propagator](ieγ^β), sandwiched | The template amplitude structure for every tree-level QED process |
+| Direct and crossed diagrams both required | Anticipates the full calculation of electron-muon and electron-electron scattering, Lessons 53–54 |
+| The eight-step recipe | Used, without re-derivation, for every remaining diagram in this course |
+
+Lesson 50 takes the amplitude this lesson learns to construct and develops the tools (squaring, spin sums, phase space) needed to turn it into an actual, measurable cross section.
+
+# 6 Summary
+
+1. The general Dyson series term S^(n)=(−i)^n/n!∫d⁴x₁⋯d⁴x_n T{ℋ_int(x₁)⋯ℋ_int(x_n)} extends Lesson 44's first-order result, with the 1/n! exactly compensating for symmetrizing a naturally ordered, iterated integral.
+
+2. Assembling Compton scattering's direct diagram from S^(2), each vertex's spacetime integral produces a momentum-conserving delta function.
+
+3. These delta functions fix the internal electron's momentum to q=p+k and enforce overall momentum conservation p+k=p′+k′.
+
+4. The resulting amplitude, iℳ_direct=(ieγ^α)[i(q̸+m)/(q²−m²+iε)](ieγ^β), sandwiched between external factors, matches the expected vertex-propagator-vertex structure exactly.
+
+5. A second, crossed diagram, with internal momentum p−k′, also contributes to the same process; the full amplitude sums every distinct diagram.
+
+6. The general recipe (external factors, vertex factors, propagators with vertex-fixed momenta, loop integrals and fermion-loop signs where needed, summed over all diagrams) is the tool used for every remaining amplitude in this course.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | State Lesson 44's S^(1) and explain how Section 1.1's S^(n) reduces to it for n=1. |
+| 2 | Explain, in your own words, why the naive iterated integral ∫_(t_0)^t dt′∫_(t_0)^(t′)dt″ H(t′)H(t″) covers only the triangular region t″<t′, and not the full square. |
+| 3 | Show that on the region t′<t″, T{H(t′)H(t″)}=H(t″)H(t′), and explain why relabeling t′↔t″ shows this region contributes the same amount as the triangular region already computed. |
+| 4 | Combine Exercises 2 and 3 to confirm (1/2!)∫∫_(square)T{HH}=∫∫_(triangle)HH, verifying Section 1.2's claim. |
+| 5 | List the four external contractions used in Section 2.1 (which field contracts with which external state) and state the resulting factor for each. |
+| 6 | Substitute S_F(x₁−x₂)'s momentum-space form into Section 2.1's contracted term and collect every exponential factor, reproducing Section 2.2's combined exponent. |
+| 7 | Carry out the x₁ and x₂ integrals of Section 2.2 explicitly and show they give (2π)⁴δ⁴(p′+k′−q) and (2π)⁴δ⁴(q−p−k) respectively. |
+| 8 | Explain the combinatorial factor of 2 mentioned in Section 2.3: why swapping the labels x₁↔x₂ (together with correspondingly swapping which external states each vertex's fields are contracted against) reproduces the identical physical contribution, doubling the naive count. |
+| 9 | Using Exercises 4 and 8, confirm the −1/2 prefactor and the factor of 2 combine to an overall −1, as used in Worked example 2. |
+| 10 | Verify Worked example 2's bookkeeping: multiply the overall −1 by e² and the propagator's explicit i, and compare with (ie)²·i. |
+| 11 | Explain, referring to Section 3.1, what specifically changes in the Wick contraction to produce the crossed diagram instead of the direct one. |
+| 12 | State the crossed diagram's internal momentum, p−k′, and verify, by an analogous vertex-conservation argument to Section 2.2–2.3 (stated qualitatively, without repeating the full integral), that this is the momentum forced by conservation at its two vertices. |
+| 13 | Explain why Wick's theorem, not an additional physical assumption, is responsible for there being exactly two contributing diagrams (direct and crossed) for Compton scattering at this order, rather than one or three. |
+| 14 | List, in order, the eight steps of Section 4's general recipe from memory, then check the list against the lesson text. |
+| 15 | Explain why steps 6 and 7 of the recipe (loop integration and the fermion-loop sign) were not needed for Section 2's calculation, referring to Worked example 4. |
+| 16 | Challenge: sketch, in a sentence or two, what would change in Section 2's calculation if the process instead had three vertices (for instance, one additional photon emission), specifically regarding how many independent momentum integrals would remain after all vertex delta functions are used, and under what circumstance (relate to the number of independent loops in the diagram) that number could be nonzero. |
+
+# Solutions
+
+**1.** S^(1)=−i∫d⁴xℋ_int(x) (Lesson 44, Section 1.2). Setting n=1 in S^(n)=(−i)^n/n!∫d⁴x₁⋯d⁴x_n T{ℋ_int(x₁)⋯ℋ_int(x_n)} gives S^(1)=(−i)^1/1!∫d⁴x₁ T{ℋ_int(x₁)}=−i∫d⁴xℋ_int(x) (a single operator has no ordering to perform, and 1!=1), exactly matching.
+
+**2.** The iterated integral arises from directly solving the interaction-picture integral equation twice: the outer integral runs over t′ from t_0 to t, and for each such t′, the inner integral runs only from t_0 up to that same t′ (not up to t), a direct consequence of how the integral equation for U_I(t,t_0) is built recursively from U_I(t′,t_0); this restricts the integration to the region where t″ is earlier than t′.
+
+**3.** By the definition of time-ordering (Section 2.1 of Lesson 46, extended to bosonic operators with no sign), T{H(t′)H(t″)} places whichever operator has the later time argument on the left; for t′<t″, t″ is later, so T{H(t′)H(t″)}=H(t″)H(t′). Relabeling the dummy variables t′↔t″ in the integral over this region turns ∫∫_(t′<t″)H(t″)H(t′) dt′dt″ into ∫∫_(t″<t′)H(t′)H(t″)dt′dt″ (swapping names only, not the region's shape, which becomes the original triangular region under the relabeling), showing it equals the same value as the triangular integral of Exercise 2.
+
+**4.** The square region splits into the two triangular regions of Exercises 2 and 3, each contributing the identical value (Exercise 3); so ∫∫_(square)T{HH}=2×∫∫_(triangle)HH, i.e. (1/2!)∫∫_(square)T{HH}=∫∫_(triangle)HH, confirming Section 1.2.
+
+**5.** ψ̄(x₁) against the outgoing electron gives ū(p′)e^(ip′x₁) (Lesson 48, Section 2.2); A_α(x₁) against the outgoing photon gives ε_α(k′)e^(ik′x₁) (Lesson 48, Section 4.2); ψ(x₂) against the incoming electron gives u(p)e^(−ipx₂) (Lesson 44/48, Section 2.1); A_β(x₂) against the incoming photon gives ε_β(k)e^(−ikx₂) (Lesson 44, Section 2.3).
+
+**6.** Combining the four external exponentials from Exercise 5 with S_F(x₁−x₂)'s own e^(−iqx₁)e^(iqx₂) (Lesson 46, Section 4.2): at x₁, e^(ip′x₁)e^(ik′x₁)e^(−iqx₁)=e^(i(p′+k′−q)x₁); at x₂, e^(−ipx₂)e^(−ikx₂)e^(iqx₂)=e^(i(q−p−k)x₂), exactly Section 2.2's combined exponent.
+
+**7.** ∫d⁴x₁ e^(i(p′+k′−q)x₁)=(2π)⁴δ⁴(p′+k′−q), and ∫d⁴x₂ e^(i(q−p−k)x₂)=(2π)⁴δ⁴(q−p−k), both by the standard four-dimensional Fourier representation of the delta function, used already in Lesson 44, Section 3.2, for the single-vertex case.
+
+**8.** T{ℋ_int(x₁)ℋ_int(x₂)} is symmetric under x₁↔x₂ (both arguments are dummy integration variables labeling two identical copies of the same interaction term); the specific contraction pattern used in Section 2.1 (outgoing states at x₁, incoming states at x₂) has an exact mirror image, with outgoing states at x₂ and incoming states at x₁ instead, reached simply by relabeling x₁↔x₂ throughout; since the integral is over both x₁ and x₂ independently, both labelings are included in the same integral and contribute identically, giving an overall factor of 2 relative to a single labeling's contribution.
+
+**9.** The prefactor from Section 1.1 is (−i)²/2!=−1/2 (Exercise 4 justified the 2! itself); combined with the factor of 2 from Exercise 8 (two labelings giving the same physical contraction), the net numerical prefactor is (−1/2)×2=−1.
+
+**10.** Multiplying the overall −1 (Exercise 9) by e² (from expanding ℋ_int(x₁)ℋ_int(x₂)=e²[⋯]) and by the propagator's explicit i (Lesson 46) gives (−1)(e²)(i)=−ie². Comparing with (ie)²·i=(i²e²)(i)=(−e²)(i)=−ie², the two expressions agree exactly.
+
+**11.** In Section 2.1's contraction, A_α(x₁) (at the vertex also connected to the outgoing electron ū(p′)) is paired with the outgoing photon, and A_β(x₂) (at the vertex connected to the incoming electron u(p)) is paired with the incoming photon. The crossed diagram instead pairs A_α(x₁) with the incoming photon and A_β(x₂) with the outgoing photon, an equally valid, distinct term produced by Wick's theorem when contracting the same six field operators against the same four external states.
+
+**12.** With the photon assignment reversed, the exponent at the vertex connected to the outgoing electron now involves e^(ip′x₁)e^(−ikx₁)e^(−iqx₁) (the incoming photon's momentum now entering at x₁), giving, after the x₁ integral, (2π)⁴δ⁴(p′−k−q), and correspondingly at x₂, (2π)⁴δ⁴(q−p+k′) (the outgoing photon's momentum now flowing out at x₂); combined, these give q=p−k′, confirming the internal momentum stated in Section 3.1, by the identical vertex-conservation mechanism as Section 2.2–2.3 applied to this different assignment.
+
+**13.** Wick's theorem states that the vacuum expectation value of a product of field operators equals the sum over every complete pairing (contraction pattern) consistent with the operators present (Lessons 34 and 36); given four external states (two fermionic, two bosonic) to attach and one leftover fermion pair to contract internally, there are exactly two ways to assign the two photon fields, A_α(x₁) and A_β(x₂), to the incoming versus outgoing photon (each vertex's photon field paired with one or the other), and no additional freedom in how the fermion fields are assigned (fixed by which field, ψ or ψ̄, can contract with which external fermion state, per Lesson 48); this combinatorial count, not an extra physical assumption, is exactly two, matching the two diagrams found.
+
+**14.** [Self-check exercise; the eight steps are listed in Section 4 of the lesson text: draw the diagram; external factors; vertex factors; propagators with vertex-fixed momenta; impose vertex momentum conservation; integrate remaining (loop) momenta; include the fermion-loop sign; sum over all contributing diagrams.]
+
+**15.** Compton scattering's direct diagram, as assembled in Section 2, has two vertices and one internal line, with both vertex delta functions used to fix that single internal momentum completely (Section 2.3), leaving no undetermined momentum for step 6 to integrate over; the diagram's fermion line runs continuously from the incoming electron, through the internal propagator, to the outgoing electron, forming no closed loop, so step 7's sign does not apply, exactly as stated in Worked example 4.
+
+**16.** With three vertices, there would be three vertex delta functions instead of two; since a diagram with three vertices and one incoming and one outgoing fermion line, plus additional photon legs, generically has more internal-line momenta to determine than there are independent vertex delta functions to fix them (each new vertex adds one delta function but can also add a new internal line), one linear combination of momenta is typically left undetermined by the vertex constraints alone whenever the diagram contains a closed loop (a cycle of internal lines returning to a vertex already visited); in that case, step 6's integral over the one remaining undetermined momentum, ∫d⁴q/(2π)⁴, does not collapse and must be carried out explicitly, the loop-integral situation previewed for Part IX.
+
+# Mastery checklist
+
+- I can state the general Dyson series term S^(n) and explain why the 1/n! is needed.
+
+- I can assemble the second-order S-matrix element for Compton scattering's direct diagram, from the interaction term to the final amplitude.
+
+- I can show, by direct calculation, that the two vertex integrals fix the internal momentum to q=p+k.
+
+- I can identify the crossed diagram and explain why both diagrams must be summed.
+
+- I can state the eight-step general recipe for writing down any QED amplitude.
+
+- I can explain what additional bookkeeping (loops, symmetry factors, fermion-loop signs) more complicated diagrams require.

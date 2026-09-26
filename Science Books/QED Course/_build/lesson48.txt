@@ -1,0 +1,231 @@
+TITLE: Interaction Vertices
+TAGLINE: The complete set of six external-line factors attached to the electron-photon vertex, the fermion-flow assembly rule, and why the same ieγ^μ serves every combination
+NUM: 48
+NEXT: Lesson 49 collects this lesson's six leg factors, the three propagators of Lessons 45–47, and Lesson 44's vertex into the complete, formal Feynman rules of QED, the recipe used to write down any diagram's amplitude directly from its picture.
+
+# How to use this lesson
+
+Lesson 44 derived the vertex factor ieγ^μ using one specific process: an incoming electron absorbing an incoming photon and leaving as an outgoing electron. That calculation used only two of the six kinds of external line QED diagrams actually need: an incoming particle and an outgoing particle, each a fermion, plus an incoming photon. This lesson fills in the remaining four, most importantly the positron legs, where a genuine subtlety appears, easy to get backwards: an incoming antiparticle is read off from ψ̄, not ψ, with a barred spinor v̄, while an outgoing antiparticle is read off from ψ itself, with an unbarred spinor v, the exact reverse of the particle assignment. Getting this right matters for every process from Lesson 53 onward that involves a positron. Expect four to six hours.
+
+## Learning objectives
+
+- State the six external-line factors: u(p) and ū(p′) for an incoming and outgoing electron, v̄(p) and v(p′) for an incoming and outgoing positron, and ε_μ(k) for an incoming or outgoing photon.
+
+- Derive the positron factors explicitly by conjugating the Dirac field's mode expansion, and explain why ψ and ψ̄ swap roles relative to the electron case.
+
+- Derive the outgoing-photon factor from the creation piece of A_μ's mode expansion.
+
+- State the fermion-flow assembly rule: a barred spinor on the left of the vertex factor, an unbarred spinor on the right, regardless of which specific particle or antiparticle each represents.
+
+- Assemble the single-vertex factor for a process involving a positron, such as e⁻e⁺→γ, and show it is kinematically incomplete by the same kind of argument used in Lesson 44 for the electron-photon vertex.
+
+- Explain why the same numerical coupling e appears in every leg combination, with no separate constant needed for an antiparticle line.
+
+- Reconstruct the full six-line table from memory.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| u_s(p), ū_s(p) | Incoming, outgoing electron spinor factors |
+| v_s(p), v̄_s(p) | Outgoing, incoming positron spinor factors |
+| ε_λ,μ(k) | Photon polarization factor, incoming or outgoing (real in this course's convention) |
+| p_+ | Positron four-momentum |
+
+# 1 Recap and strategy
+
+## 1.1 The vertex factor is fixed
+
+Lesson 44, Section 3.3, derived the vertex factor ieγ^μ by contracting the interaction term against one specific set of external states. The derivation there isolated the vertex from the external wavefunctions specifically so that the result would not depend on which particles occupy the diagram's legs; nothing in this lesson changes ieγ^μ itself.
+
+## 1.2 What varies
+
+What does vary, from one process to another, is which of six possible factors attaches to each leg meeting the vertex. Two of these (incoming and outgoing electron) were already derived in Lesson 44, Sections 2.1–2.2; one (incoming photon) in Section 2.3; this lesson derives the remaining three: outgoing photon, incoming positron, and outgoing positron.
+
+# 2 The electron legs, recalled
+
+## 2.1 Incoming electron
+
+From Lesson 44, Section 2.1, the b_s(p) term of ψ(x) contributes u_s(p)e^(−ipx) for an incoming electron of momentum p, spin s.
+
+## 2.2 Outgoing electron
+
+From Lesson 44, Section 2.2, the b_s′†(p′) term of ψ̄(x) contributes ū_s′(p′)e^(ip′x) for an outgoing electron of momentum p′, spin s′.
+
+# 3 The positron legs
+
+## 3.1 Why ψ and ψ̄ swap roles
+
+ψ(x)=∫d³p/(2π)³(2E)^(−1/2)Σ_s[b_s(p)u_s(p)e^(−ipx)+d_s†(p)v_s(p)e^(ipx)] contains d_s†(p), an operator that creates a positron; it contains no operator that annihilates one. Conjugating term by term, ψ†(x)=∫d³p/(2π)³(2E)^(−1/2)Σ_s[b_s†(p)u_s†(p)e^(ipx)+d_s(p)v_s†(p)e^(−ipx)], and multiplying by γ⁰,
+
+$$ ψ̄(x) = ψ†(x)γ⁰ = ∫ d³p/(2π)³(2E)^(−1/2) Σ_s [ b_s†(p) ū_s(p) e^(ipx) + d_s(p) v̄_s(p) e^(−ipx) ]
+
+so ψ̄(x) contains d_s(p), which does annihilate a positron. The pattern is exactly the reverse of the electron case: ψ carries the electron's annihilation operator and the positron's creation operator, while ψ̄ carries the electron's creation operator and the positron's annihilation operator.
+
+## 3.2 Incoming positron
+
+Since only ψ̄(x)'s d_s(p) term can annihilate an incoming positron, contracting against an initial state containing a positron of momentum p, spin s, picks out
+
+$$ v̄_s(p) e^(−ipx)
+
+## 3.3 Outgoing positron
+
+Since ψ(x)'s d_s′†(p′) term creates a positron, contracting against a final state containing a positron of momentum p′, spin s′, picks out
+
+$$ v_s′(p′) e^(ip′x)
+
+exactly the reverse bar-pattern from the electron case: an incoming positron uses the barred spinor v̄, and an outgoing positron uses the unbarred spinor v.
+
+### Worked example 1
+
+State a simple mnemonic for remembering Section 3.1's role-reversal without re-deriving it each time. Whichever field, ψ or ψ̄, plays the "annihilate the particle, create the antiparticle" role or the "create the particle, annihilate the antiparticle" role is fixed once and for all by which one contains b versus b† and d versus d†; since dagger-ing always swaps creation and annihilation for both operators at once, the field that annihilates the particle (ψ, via b) is exactly the field that creates the antiparticle (ψ, via d†), and the field that creates the particle (ψ̄, via b†) is exactly the field that annihilates the antiparticle (ψ̄, via d); the bar and the particle/antiparticle role are consequently always linked in this crossed way.
+
+# 4 The photon legs
+
+## 4.1 Incoming photon
+
+From Lesson 44, Section 2.3, A_μ(x)'s annihilation piece contributes ε_λ,μ(k)e^(−ikx) for an incoming photon.
+
+## 4.2 Outgoing photon
+
+The creation piece of A^i(x)'s mode expansion (Lesson 37), ∫d³k/(2π)³(2ω)^(−1/2)Σ_λε_λ^i(k)a_λ†(k)e^(ikx), contracted against a final state containing a photon of momentum k, polarization λ, contributes
+
+$$ ε_λ,μ(k) e^(ikx)
+
+In a general convention, an outgoing photon's factor would be ε*_λ,μ(k), the complex conjugate of the incoming factor; this course's polarization vectors are real (Lesson 37), so ε*=ε and no distinct notation is needed, though the exponential's sign still flips between incoming (e^(−ikx)) and outgoing (e^(ikx)).
+
+### Worked example 2
+
+Explain why the photon's incoming and outgoing factors differ only in the sign of the exponent, while the electron's incoming and outgoing factors (Sections 2.1–2.2) differ in both the exponent's sign and whether the spinor is barred. The photon field A_μ contains only one kind of ladder operator pair (a, a†), both multiplying the same real ε_λ,μ(k) (Lesson 37, following from the photon being its own antiparticle), so only the creation-versus-annihilation distinction, and hence the exponent's sign, changes; the Dirac field instead distinguishes two different particle species (electron and positron) across ψ and ψ̄, so both the exponent and which field (and hence which bar convention) is relevant change together.
+
+# 5 The complete table and an assembly example
+
+## 5.1 All six factors
+
+@widths 3672 6120
+| Leg | Factor |
+| Incoming electron, momentum p, spin s | u_s(p) |
+| Outgoing electron, momentum p′, spin s′ | ū_s′(p′) |
+| Incoming positron, momentum p, spin s | v̄_s(p) |
+| Outgoing positron, momentum p′, spin s′ | v_s′(p′) |
+| Incoming photon, momentum k, polarization λ | ε_λ,μ(k) |
+| Outgoing photon, momentum k, polarization λ | ε_λ,μ(k) |
+
+## 5.2 Assembling e⁻e⁺→γ at a single vertex
+
+Consider an incoming electron of momentum p, spin s, an incoming positron of momentum p_+, spin s_+, and an outgoing photon of momentum k, polarization λ, meeting at a single vertex. Following the fermion line through the vertex (incoming electron enters, incoming positron's line continues through as if it were an outgoing electron running backward, per the antiparticle reinterpretation of Lesson 22), the amplitude is built by placing the barred spinor on the left of the vertex factor and the unbarred spinor on the right:
+
+$$ i e , v̄_(s_+)(p_+) , γ^μ , u_s(p) , ε_λ,μ(k)
+
+exactly parallel in structure to Lesson 44, Section 3.3's ū(p′)γ^μu(p)ε_μ(k), with v̄(p_+) now occupying the position ū(p′) occupied there.
+
+### Worked example 3
+
+State the general placement rule illustrated by comparing Lesson 44's assembly with Section 5.2's. In both cases, the barred spinor, whichever specific particle it belongs to, is written to the left of the γ^μ, and the unbarred spinor to the right; this reflects the fixed matrix structure of the vertex term ψ̄γ^μψ itself, in which ψ̄ always appears to the left of γ^μ and ψ always to the right, with the specific external states attached to each simply supplying whichever leg factor, from Section 5.1's table, is relevant to that leg.
+
+# 6 Why one vertex factor serves every combination
+
+## 6.1 The vertex does not "know" which legs are attached
+
+The derivation of Lesson 44, Section 3, extracted ieγ^μ only after every leg-specific factor had been stripped away; nothing about that extraction referred to whether the legs involved were electrons, positrons, or photons, or whether they were incoming or outgoing. The vertex factor is a property of the interaction term ψ̄γ^μψA_μ itself, fixed once and for all, while Section 5.1's table supplies whatever is attached to each of its three legs in a specific diagram.
+
+## 6.2 Consistency with universality
+
+Lesson 43, Section 3, established that the coupling e is universal across every charge-(−e) field; Section 5.2's assembly used the identical constant e as Lesson 44's, with no separate positron-specific coupling introduced, consistent with the positron being the same underlying field (via the antiparticle reinterpretation of Lesson 22) as the electron, not an independent particle with its own coupling.
+
+# 7 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used next |
+| u, ū, v̄, v, ε (incoming and outgoing) | The complete external-line rules assembled formally in Lesson 49 |
+| ψ and ψ̄'s role reversal for antiparticles | Used at every positron leg from Lesson 55 onward |
+| Fermion-flow placement rule (barred left, unbarred right) | The organizing principle for writing down any QED amplitude, however many vertices |
+| e⁻e⁺→γ single-vertex assembly | A direct preview of the two-vertex process actually computed in Lesson 55 |
+| Same e at every leg combination | Confirms Lesson 43's universality extends automatically to antiparticle legs |
+
+Lesson 49 now has every ingredient needed to state the complete, formal Feynman rules of QED: the vertex of Lesson 44, the propagators of Lessons 45–47, and this lesson's six external-line factors.
+
+# 8 Summary
+
+1. The vertex factor ieγ^μ, derived in Lesson 44, is unchanged by which specific particles occupy a diagram's legs.
+
+2. Conjugating ψ's mode expansion shows ψ̄ contains the positron's annihilation operator and the electron's creation operator, the reverse of ψ itself.
+
+3. An incoming positron is read off from ψ̄ as v̄(p); an outgoing positron is read off from ψ as v(p′), the reverse of the electron's u/ū assignment.
+
+4. An outgoing photon's factor, ε_λ,μ(k)e^(ikx), differs from the incoming factor only in the sign of the exponent, since this course's polarization vectors are real.
+
+5. The general assembly rule places a barred spinor to the left of the vertex factor and an unbarred spinor to the right, regardless of which specific particle or antiparticle is involved.
+
+6. A single-vertex assembly for e⁻e⁺→γ, like Lesson 44's e⁻γ→e⁻ vertex, is not a complete physical process on its own.
+
+7. The same coupling e appears in every leg combination, consistent with the universality established in Lesson 43.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Restate, from Lesson 44, the incoming- and outgoing-electron leg factors, and explain why Lesson 44's derivation did not depend on which specific process they were used in. |
+| 2 | Conjugate ψ(x)'s b_s(p)u_s(p)e^(−ipx) term explicitly and show it becomes b_s†(p)u_s†(p)e^(ipx) in ψ†(x). |
+| 3 | Conjugate ψ(x)'s d_s†(p)v_s(p)e^(ipx) term explicitly and show it becomes d_s(p)v_s†(p)e^(−ipx) in ψ†(x). |
+| 4 | Multiply the result of Exercise 3 by γ⁰ and use v̄=v†γ⁰ to derive the d_s(p)v̄_s(p)e^(−ipx) term of ψ̄(x). |
+| 5 | Explain why this term, not any term of ψ(x), is the one responsible for annihilating an incoming positron. |
+| 6 | State which term of ψ(x) is responsible for creating an outgoing positron, and its contribution v_s′(p′)e^(ip′x). |
+| 7 | Using Worked example 1's mnemonic, explain in your own words why dagger-ing a field always swaps both creation/annihilation and particle/antiparticle roles simultaneously, never just one. |
+| 8 | Derive the outgoing-photon factor ε_λ,μ(k)e^(ikx) from the creation piece of A^i(x)'s mode expansion, paralleling Lesson 44, Section 2.3's derivation of the incoming-photon factor. |
+| 9 | Explain why this course's real-polarization convention (Lesson 37) means no separate notation (such as ε*) is needed to distinguish the outgoing-photon factor from the incoming one, beyond the sign of the exponent. |
+| 10 | Write out Section 5.1's six-line table from memory, then check it against the lesson text. |
+| 11 | For the process e⁻(p)+e⁺(p_+)→γ(k) at a single vertex, identify which of the six factors attaches to each of the three legs, and assemble the amplitude ie v̄(p_+)γ^μu(p)ε_μ(k). |
+| 12 | Verify the general placement rule (barred spinor left, unbarred spinor right) holds for both Lesson 44's ū(p′)γ^μu(p) and this lesson's v̄(p_+)γ^μu(p), and state the rule in one sentence. |
+| 13 | Show that e⁻(p)+e⁺(p_+)→γ(k) cannot conserve momentum for on-shell particles at a single vertex, by squaring p+p_+=k and showing this requires p·p_+=−m², while p·p_+≥m² always holds for two on-shell, positive-energy four-momenta of mass m (evaluate p·p_+ in the rest frame of the electron to establish the inequality). |
+| 14 | State, without deriving it, how many vertices the actual process studied in Lesson 55 (electron-positron annihilation into two photons) is expected to require, based on Exercise 13's conclusion. |
+| 15 | Explain why Section 5.2's amplitude uses the same numerical coupling e as Lesson 44's electron-photon amplitude, rather than a separate constant for the positron leg, citing Lesson 43. |
+| 16 | Challenge: write, by analogy with Lesson 44's derivation, the single-vertex amplitude for μ⁻(p)+γ(k)→μ⁻(p′) (replacing the electron with a muon), and explain, citing Lesson 43, Section 3, why the vertex factor is literally ieγ^μ again rather than requiring a new, muon-specific constant. |
+
+# Solutions
+
+**1.** Incoming electron: u_s(p)e^(−ipx), from the b_s(p) term of ψ(x); outgoing electron: ū_s′(p′)e^(ip′x), from the b_s′†(p′) term of ψ̄(x) (Lesson 44, Sections 2.1–2.2). The derivation extracted the vertex factor ieγ^μ only after stripping away these leg-specific factors entirely (Lesson 44, Section 3.3), so nothing about ieγ^μ itself depends on which process the legs belong to.
+
+**2.** (b_s(p)u_s(p)e^(−ipx))† = b_s(p)†u_s(p)†(e^(−ipx))† = b_s†(p)u_s†(p)e^(ipx), using that the dagger of a product reverses order (though b_s(p) and the c-number u_s(p) commute, so order is unaffected here), that (e^(−ipx))†=e^(ipx) since px is real, and that u_s(p)† is simply the Hermitian conjugate (conjugate transpose) of the c-number spinor u_s(p).
+
+**3.** By the identical method, (d_s†(p)v_s(p)e^(ipx))†=d_s(p)v_s†(p)e^(−ipx), using (d_s†(p))†=d_s(p) and (e^(ipx))†=e^(−ipx).
+
+**4.** Multiplying Exercise 3's term by γ⁰ on the right (as in ψ̄=ψ†γ⁰), d_s(p)v_s†(p)γ⁰e^(−ipx)=d_s(p)[v_s†(p)γ⁰]e^(−ipx)=d_s(p)v̄_s(p)e^(−ipx), using the definition v̄=v†γ⁰ (Lesson 21's Dirac-adjoint definition, applied to the v-spinor exactly as it was to u).
+
+**5.** d_s(p) is an annihilation operator for the positron (Lesson 29/35's convention, N_d counting positrons); Exercise 4 showed this operator appears in ψ̄(x), not in ψ(x) (whose only d-type term is d_s†(p), a creation operator); an incoming positron in the initial state can only be removed by an annihilation operator, so it is ψ̄(x)'s d_s(p) term, not any term of ψ(x), that is responsible.
+
+**6.** ψ(x)'s d_s′†(p′) term, ∫...d_s′†(p′)v_s′(p′)e^(ip′x)..., is a creation operator for the positron; contracted against a final state containing an outgoing positron of momentum p′, spin s′, it contributes v_s′(p′)e^(ip′x).
+
+**7.** Dagger-ing an operator such as b_s(p) (which annihilates an electron) produces b_s†(p) (which creates an electron): the creation/annihilation role flips, but the particle species (electron) stays the same, since b operators are always associated with the electron. The role-reversal between ψ and ψ̄ for antiparticles specifically arises because ψ contains BOTH b (electron annihilation) and d† (positron creation) together; dagger-ing swaps b→b† and d†→d simultaneously, so the resulting ψ̄ swaps to (electron creation, positron annihilation) as a pair, not one operator at a time.
+
+**8.** A^i(x)'s creation piece is ∫d³k/(2π)³(2ω)^(−1/2)Σ_λε_λ^i(k)a_λ†(k)e^(ikx) (Lesson 37's mode expansion); contracted against a final state containing an outgoing photon of momentum k, polarization λ, using [a_λ(k),a_λ′†(k′)]=(2π)³δ³(k−k′)δ_λλ′ to collapse the momentum integral exactly as in Lesson 44, Section 2.3's incoming-photon calculation but with the roles of a and a† exchanged, this contributes ε_λ^i(k)e^(ikx), the spatial components of ε_λ,μ(k)e^(ikx).
+
+**9.** In a general (complex) polarization convention, the outgoing-photon factor would be the complex conjugate ε*_λ,μ(k) of the incoming factor ε_λ,μ(k), since creation and annihilation pieces of a field are always related by conjugation; Lesson 37 fixed a convention with two real transverse polarization vectors, so ε*_λ,μ(k)=ε_λ,μ(k) identically, and the incoming and outgoing factors differ only through the sign of the exponent, e^(−ikx) versus e^(ikx).
+
+**10.** [Self-check exercise; the table is given in Section 5.1: u_s(p) for an incoming electron, ū_s′(p′) for an outgoing electron, v̄_s(p) for an incoming positron, v_s′(p′) for an outgoing positron, ε_λ,μ(k) for an incoming or outgoing photon.]
+
+**11.** The incoming electron of momentum p, spin s, contributes u_s(p) (Section 2.1); the incoming positron of momentum p_+, spin s_+, contributes v̄_(s_+)(p_+) (Section 3.2); the outgoing photon of momentum k, polarization λ, contributes ε_λ,μ(k) (Section 4.2). Assembled with the vertex factor ieγ^μ, following the fermion-flow placement rule, the amplitude is ie v̄_(s_+)(p_+)γ^μu_s(p)ε_λ,μ(k).
+
+**12.** In Lesson 44, the barred spinor ū(p′) (outgoing electron) sits to the left of γ^μ, and the unbarred spinor u(p) (incoming electron) sits to the right. In this lesson's e⁻e⁺→γ amplitude, the barred spinor v̄(p_+) (incoming positron) sits to the left, and the unbarred spinor u(p) (incoming electron) sits to the right. In both cases, whichever spinor is barred, regardless of whether it belongs to a particle or antiparticle or is incoming or outgoing, is written on the left of the vertex factor, and the unbarred spinor on the right; this reflects the fixed structure ψ̄γ^μψ of the interaction term itself.
+
+**13.** Squaring p+p_+=k gives p²+2p·p_++p_+²=k², i.e. m²+2p·p_++m²=0 (using p²=p_+²=m² for on-shell electron and positron, and k²=0 for the on-shell photon), so p·p_+=−m². In the electron's rest frame, p=(m,0,0,0), so p·p_+=mE_+ (E_+ the positron's energy in that frame), and since E_+≥m_+=m for any on-shell massive particle in any frame (energy is always at least the rest mass), p·p_+=mE_+≥m². Since p·p_+ is a Lorentz scalar, this bound p·p_+≥m² holds in every frame, directly contradicting the required p·p_+=−m² (a negative number, since m²>0); no on-shell solution exists, so a single vertex cannot describe this process.
+
+**14.** Since a single vertex cannot conserve on-shell momentum for e⁻e⁺→γ (Exercise 13), and a single photon in the final state is even more kinematically restrictive than two, the actual process of Lesson 55, e⁺e⁻→γγ (two photons in the final state), is expected to require at least two vertices, connected by an internal (off-shell) line, exactly the pattern already established for Compton scattering in Lesson 44, Section 4.
+
+**15.** Lesson 43, Section 3.1, established that the covariant-derivative construction, and hence the coupling constant multiplying every occurrence of the interaction term, depends only on a field's charge, not on whether a specific diagram leg represents a particle or its antiparticle; since the positron is the antiparticle of the same electron field (Lesson 22), not an independently coupled species, its leg in any vertex carries the identical numerical e already fixed for the electron.
+
+**16.** By the identical derivation as Lesson 44, Section 3, applied to a muon field of the same charge −e, the amplitude is ie ū_μ(p′)γ^μu_μ(p)ε_μ(k) (using u_μ, ū_μ for the muon's spinors, distinguished from the electron's only by the muon's different mass entering its own on-shell condition p²=m_μ²). Lesson 43, Section 3.1, established that the coupling constant multiplying the interaction term depends only on a field's charge, and the muon carries the same charge −e as the electron, so the identical constant e, not a new muon-specific coupling, appears in its vertex factor.
+
+# Mastery checklist
+
+- I can state all six external-line factors: u, ū, v̄, v, and ε (incoming and outgoing).
+
+- I can derive the positron factors by conjugating the Dirac field's mode expansion and explain the ψ/ψ̄ role reversal.
+
+- I can derive the outgoing-photon factor from the creation piece of A_μ's mode expansion.
+
+- I can state and apply the fermion-flow placement rule (barred spinor left, unbarred spinor right).
+
+- I can assemble a single-vertex amplitude for a process involving a positron and explain why it is not yet a complete physical process.
+
+- I can explain why the same coupling e appears in every leg combination.

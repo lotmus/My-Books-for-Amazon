@@ -1,0 +1,212 @@
+TITLE: Decay Rates
+TAGLINE: The same phase-space reduction as Lesson 58, applied to a single particle at rest, giving dΓ/dΩ=p_f|ℳ|²/(32π²M²) and a closed form for the two-body momentum p_f
+NUM: 59
+NEXT: Lesson 60 closes Part VIII by combining every amplitude computed in Lessons 53–57 with this lesson's and Lesson 58's phase-space formulas, stating the resulting experimental predictions in full.
+
+# How to use this lesson
+
+Lesson 50 wrote down the decay-rate formula dΓ=(1/2E_i)|ℳ|²(2π)⁴δ⁴(p_i−ΣP_f)dΠ beside the cross-section formula, promising it would need the same phase-space treatment eventually. That treatment is Lesson 58's, and this lesson shows how little needs to change to reuse it: a decaying particle at rest plays the role Lesson 58's colliding pair played together, and the same delta-function bookkeeping produces an equally compact result. The lesson closes with a fully worked, closed-form expression for the two-body decay momentum p_f, a genuinely useful formula for any later calculation involving a specific unstable particle. Expect four to six hours.
+
+## Learning objectives
+
+- Specialize Lesson 50's decay-rate formula to the rest frame of the decaying particle, and explain why this frame is the natural choice here.
+
+- Reuse Lesson 58's delta-function reduction, adapted to a single initial particle, to derive dΓ/dΩ=p_f|ℳ|²/(32π²M²).
+
+- Integrate over solid angle for an isotropic matrix element to obtain Γ=p_f|ℳ|²/(8πM²).
+
+- Derive the closed-form expression for p_f in terms of the parent mass M and the two daughter masses m₁, m₂.
+
+- State the symmetry-factor correction needed when the two final-state particles are identical.
+
+- Reproduce the full derivation, including the closed-form p_f, from memory.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| M | Mass of the decaying particle |
+| m₁, m₂ | Masses of the two decay products |
+| p_f | Magnitude of each decay product's momentum in the parent's rest frame |
+| Γ | Total decay rate into a given final state |
+
+# 1 Specializing to the rest frame
+
+## 1.1 The starting formula
+
+Lesson 50, Section 4.2, gave
+
+$$ dΓ = (1/(2E_i)) |ℳ|² (2π)⁴δ⁴(p_i−p₁−p₂) d³p₁/((2π)³2E₁) d³p₂/((2π)³2E₂)
+
+for a particle of four-momentum p_i decaying into two products.
+
+## 1.2 Why the rest frame
+
+Choosing the frame where the parent sits still, p_i=(M,0,0,0), sets E_i=M and removes any three-momentum for the delta function to balance except what the two decay products supply between them; this is not a matter of convenience alone, it is the frame in which "the particle's lifetime" is usually defined and measured relative to, the very τ₀ of Lesson 50, Section 4.2's time-dilation result.
+
+### Worked example 1
+
+State the parallel between this frame choice and Lesson 58's choice of the center-of-momentum frame. In both lessons, the working frame is chosen so the total three-momentum entering the delta function is zero, turning the spatial part of momentum conservation into "the two final-state momenta are equal and opposite," the single simplification both derivations depend on.
+
+# 2 Reusing Lesson 58's reduction
+
+## 2.1 Removing one integral
+
+The three-momentum delta function eliminates the d³p₂ integral, setting p₂=−p₁ (using p_i's vanishing three-momentum), leaving
+
+$$ dΓ = (1/(2M)) |ℳ|² (1/(2π)²) δ(M−E₁−E₂) d³p₁/(4E₁E₂)
+
+with E₂ a function of p≡|p₁| once p₂=−p₁ is substituted, exactly Lesson 58, Section 2.2's structure with M replacing √s and E_i's role folded into the single mass M.
+
+## 2.2 The radial integral
+
+Writing f(p)=M−E₁(p)−E₂(p), the identical steps as Lesson 58, Section 3, give f′(p_f)=−p_f M/(E₁E₂) (using E₁+E₂=M at the root, in place of √s), so
+
+$$ ∫ p² dp δ(f(p)) = p_f E₁E₂/M
+
+### Worked example 2
+
+State the one substitution that turns Lesson 58's radial-integral result into Section 2.2's. Wherever √s appeared in Lesson 58's derivation, standing for the total energy available, M plays the identical role here, the total energy available in the parent's own rest frame; every other step, the delta-function-of-a-function rule and the algebra that follows it, carries over without change.
+
+# 3 The two-body decay rate
+
+## 3.1 Assembling dΓ/dΩ
+
+Combining Section 2 exactly as Lesson 58, Section 5.1, assembled its result,
+
+$$ dΓ/dΩ = p_f |ℳ|² / (32 π² M²)
+
+with the numerical factor differing from Lesson 58's 64π²s because a decay has only one factor of the parent's energy (M) to contribute, where a collision had two incoming particles' worth (folded into √s and the flux factor together).
+
+## 3.2 The total rate
+
+For a matrix element that does not depend on the direction of emission (isotropic decay, the typical case for a spinless parent or after summing over the parent's own spin states),
+
+$$ Γ = ∫ dΩ , p_f|ℳ|²/(32π²M²) = 4π · p_f|ℳ|²/(32π²M²) = p_f |ℳ|² / (8 π M²)
+
+### Worked example 3
+
+Explain why an isotropic matrix element was assumed in Section 3.2 but not in Section 3.1. Section 3.1's formula holds regardless of any angular dependence in |ℳ|², since dΩ is left unintegrated; only in Section 3.2, where the full 4π solid angle is integrated to obtain a single number for Γ, does the calculation require |ℳ|² to be pulled outside the integral unchanged, valid whenever nothing in the decay singles out a preferred direction.
+
+# 4 A closed form for p_f
+
+## 4.1 Solving the energy equation
+
+From M=√(p_f²+m₁²)+√(p_f²+m₂²), isolating one square root and squaring (Exercise 9 carries out each step),
+
+$$ E₁ = (M²+m₁²−m₂²)/(2M)
+
+and, using p_f²=E₁²−m₁²,
+
+$$ p_f² = (M−m₁−m₂)(M+m₁+m₂)(M−m₁+m₂)(M+m₁−m₂) / (4M²)
+
+a fully factored expression built from four simple combinations of the three masses.
+
+## 4.2 A check
+
+Setting m₁=m₂=m (equal-mass decay products), the four factors become (M−2m)(M+2m)(M)(M)=M²(M²−4m²), giving p_f=√(M²−4m²)/2, matching the direct calculation E₁=E₂=M/2 and p_f²=(M/2)²−m²=(M²−4m²)/4 (Exercise 10).
+
+### Worked example 4
+
+State what Section 4.1's formula requires of M relative to m₁+m₂ for the decay to be kinematically possible at all. The factor (M−m₁−m₂) must be non-negative for p_f² to be non-negative (the other three factors are manifestly positive for any physical masses), so M≥m₁+m₂ is required, the direct two-body analogue of Lesson 57, Section 5.1's threshold condition, now for a decay rather than a production process.
+
+# 5 Identical final-state particles
+
+If the two decay products are identical (for instance, a process producing two photons of the same species), integrating dΩ over the full 4π solid angle counts every final configuration twice, once for each particle's momentum direction assigned to "particle 1" and once with the assignment reversed, describing the same physical outcome both times. The correct total rate then carries an extra factor of 1/2,
+
+$$ Γ = (1/2) p_f |ℳ|² / (8πM²)
+
+a symmetry factor of the same character as the combinatorial factors already met in Lesson 49's diagram counting, here arising from over-counting a single physical final state rather than from Wick contractions.
+
+### Worked example 5
+
+Explain why this factor of 1/2 was not needed in Section 3.2. Section 3.2 assumed nothing about whether the two decay products are identical; the factor becomes necessary specifically when they are, and Section 3.2's formula, as stated, applies to the case of two distinguishable decay products without modification.
+
+# 6 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Relation to earlier work |
+| dΓ=(1/2M)\|ℳ\|²(2π)⁴δ⁴(⋯)dΠ, rest frame | The direct decay-side analogue of Lesson 58's collision-frame starting point |
+| dΓ/dΩ=p_f\|ℳ\|²/(32π²M²) | Obtained by the identical delta-function method as Lesson 58, Section 5.1 |
+| Γ=p_f\|ℳ\|²/(8πM²) | Ready to combine with any spin-summed \|ℳ\|² for a decay process met later in this course |
+| p_f in closed form | A standard tool for any two-body decay calculation |
+| Symmetry factor 1/2 for identical products | Parallels Lesson 54's identical-particle bookkeeping, in a new context |
+
+Lesson 60 now assembles every piece: the amplitudes of Lessons 53–57, the cross-section formula of Lesson 58, and this lesson's decay-rate formula, into a first complete set of QED predictions.
+
+# 7 Summary
+
+1. In the parent's rest frame, Lesson 50's decay formula reduces by the same delta-function method as Lesson 58's cross-section formula, with M taking the place of √s.
+
+2. The result is dΓ/dΩ=p_f|ℳ|²/(32π²M²), integrating to Γ=p_f|ℳ|²/(8πM²) for an isotropic matrix element.
+
+3. The two-body momentum p_f has a closed form, a fully factored expression in M, m₁, and m₂, requiring M≥m₁+m₂ for the decay to occur.
+
+4. Identical final-state particles require an extra factor of 1/2, correcting for double-counting the same physical configuration.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Write Lesson 50's decay formula and identify each factor's role, following the pattern of Lesson 50, Worked example 3. |
+| 2 | Explain why setting p_i=(M,0,0,0) is possible for any massive particle, referring to the existence of a rest frame for any object with M>0. |
+| 3 | Carry out the d³p₂ integral against the spatial delta function, showing p₂=−p₁ in this frame. |
+| 4 | Write f(p)=M−E₁(p)−E₂(p) and compute f′(p), following Lesson 58, Exercise 6's method with the appropriate relabeling. |
+| 5 | Evaluate f′(p) at the root p_f, using E₁+E₂=M there, and simplify to −p_fM/(E₁E₂). |
+| 6 | Combine Exercises 3–5 to derive ∫p²dp δ(f(p))=p_fE₁E₂/M. |
+| 7 | Assemble Section 3.1's formula from Exercise 6 and the remaining factors of Section 2.1, tracking every numerical constant as in Lesson 58, Exercise 12. |
+| 8 | Integrate Section 3.1's formula over the full solid angle, assuming |ℳ|² constant, and derive Γ=p_f|ℳ|²/(8πM²). |
+| 9 | Solve M=√(p²+m₁²)+√(p²+m₂²) for E₁=√(p²+m₁²) by isolating one square root and squaring once, showing every step. |
+| 10 | Verify Section 4.2's equal-mass check, p_f=√(M²−4m²)/2, by a second, independent route: computing E₁=M/2 directly from symmetry and then p_f²=E₁²−m². |
+| 11 | Factor (M²+m₁²−m₂²)²−4M²m₁² into the four-term product of Section 4.1, following the difference-of-squares method twice in succession. |
+| 12 | State the threshold condition on M implied by Section 4.1's formula, and compare it with Lesson 57, Section 5.1's threshold for pair production. |
+| 13 | Explain, in your own words, why integrating over the full solid angle double-counts a final state with two identical decay products, but not one with two distinguishable products. |
+| 14 | Using Section 5's formula, restate Γ for identical decay products in terms of the same p_f and |ℳ|² used throughout this lesson. |
+| 15 | Explain why the closed-form p_f of Section 4.1 was not needed anywhere in Lesson 58's cross-section derivation. |
+| 16 | Challenge: for a three-body decay (one parent, three decay products), state which parts of this lesson's method (the rest-frame choice, the momentum delta function, the single-variable radial integral) would carry over unchanged and which would need to be replaced, referring to Lesson 58, Exercise 16's parallel discussion for the three-body scattering case. |
+
+# Solutions
+
+**1.** dΓ=(1/2E_i)|ℳ|²(2π)⁴δ⁴(p_i−ΣP_f)dΠ: |ℳ|² supplies the process-specific physics; 1/(2E_i) is the single-particle analogue of a cross section's flux factor, from the parent's own relativistic normalization; the delta function enforces energy-momentum conservation; dΠ sums over the allowed final-state configurations.
+
+**2.** Any particle with a positive mass M has a well-defined four-momentum satisfying p²=M²>0, a timelike vector; a timelike vector can always be brought to the form (M,0,0,0) by an appropriate Lorentz boost, defining that particle's rest frame uniquely up to spatial rotations.
+
+**3.** ∫d³p₂/(2π)³(2π)³δ³(p_i−p₁−p₂)f(p₂)=f(p_i−p₁); using p_i=(M,0,0,0), the three-vector part of p_i is zero, so the spatial component of p_i−p₁ is −p₁, giving p₂=−p₁ in this frame.
+
+**4.** f(p)=M−(p²+m₁²)^(1/2)−(p²+m₂²)^(1/2); differentiating each term as in Lesson 58, Exercise 6, f′(p)=−p/E₁−p/E₂.
+
+**5.** f′(p_f)=−p_f(1/E₁+1/E₂)=−p_f(E₁+E₂)/(E₁E₂); substituting E₁+E₂=M (energy conservation at the physical root) gives f′(p_f)=−p_fM/(E₁E₂).
+
+**6.** ∫p²dpδ(f(p))=p_f²/|f′(p_f)|=p_f²/(p_fM/(E₁E₂))=p_f²(E₁E₂)/(p_fM)=p_fE₁E₂/M, following the identical method as Lesson 58, Exercise 8.
+
+**7.** dΓ=(1/(2M))|ℳ|²(1/(2π)²)(p_fE₁E₂/M)(1/(4E₁E₂))dΩ; the E₁E₂ factors cancel between the radial-integral result and the phase-space measure, leaving dΓ/dΩ=|ℳ|²p_f/(2M·4π²·4M)=p_f|ℳ|²/(32π²M²), using 2×4π²×4=32π².
+
+**8.** ∫dΩ=4π (the full solid angle); with |ℳ|² constant, Γ=∫dΩ dΓ/dΩ=4π×p_f|ℳ|²/(32π²M²)=p_f|ℳ|²(4π)/(32π²M²)=p_f|ℳ|²/(8πM²), using 32/4=8.
+
+**9.** M−√(p²+m₁²)=√(p²+m₂²); squaring both sides, M²−2M√(p²+m₁²)+(p²+m₁²)=p²+m₂², so M²+m₁²−m₂²=2M√(p²+m₁²), giving √(p²+m₁²)=E₁=(M²+m₁²−m₂²)/(2M).
+
+**10.** By symmetry, when m₁=m₂=m, each decay product carries exactly half the total energy, E₁=E₂=M/2 (since the two products, having equal mass and equal momentum magnitude, must also share the available energy equally). Then p_f²=E₁²−m²=(M/2)²−m²=(M²−4m²)/4, so p_f=√(M²−4m²)/2, reproducing Section 4.2's result.
+
+**11.** (M²+m₁²−m₂²)²−4M²m₁²=(M²+m₁²−m₂²−2Mm₁)(M²+m₁²−m₂²+2Mm₁) (difference of squares, with 2Mm₁ as the second term). The first factor is (M−m₁)²−m₂²=(M−m₁−m₂)(M−m₁+m₂) (a second difference of squares); the second factor is (M+m₁)²−m₂²=(M+m₁−m₂)(M+m₁+m₂). Multiplying all four gives (M−m₁−m₂)(M−m₁+m₂)(M+m₁−m₂)(M+m₁+m₂), matching Section 4.1.
+
+**12.** M≥m₁+m₂ is required for p_f² to stay non-negative (Worked example 4); Lesson 57, Section 5.1, required s≥4m² for pair production with two equal-mass products, the identical condition once s is identified with M² and both product masses set equal to m.
+
+**13.** With two identical decay products, exchanging which particle is emitted into a given direction and which into the opposite direction produces the same physical final state (indistinguishable particles occupying the same pair of momentum values), so integrating naively over the full solid angle counts that one physical configuration twice, once for each of the two ways of labeling the particles; with distinguishable products, "particle 1 goes this way, particle 2 goes that way" and the reverse assignment are genuinely different, physically distinguishable outcomes, so no such double-counting occurs.
+
+**14.** Γ=(1/2)p_f|ℳ|²/(8πM²)=p_f|ℳ|²/(16πM²) for identical decay products, exactly Section 5's stated result written with the factors combined.
+
+**15.** Lesson 58's derivation left p_f (there called by the same symbol, denoting the outgoing momentum magnitude in a scattering process) as an implicit root of an energy-balance equation throughout, needed only symbolically to state the final formula; no step of that derivation required solving for its numerical value in closed form, since a cross section is typically reported as a function of the scattering angle at fixed s, not evaluated for one specific numerical p_f.
+
+**16.** The rest-frame choice would carry over unchanged, since any decaying particle still has a well-defined rest frame regardless of how many products it decays into. The momentum delta function would still remove three of the newly-nine spatial degrees of freedom (three particles' worth), following the identical logic as Lesson 58, Exercise 16, for the analogous three-body final state in scattering. The single-variable radial integral of Section 2.2, however, would not survive unchanged: with three independent final-state momenta remaining after using the delta function, no single remaining constraint fixes a unique radial variable, and the phase-space integral becomes a genuine multi-dimensional integral (parametrized, in the standard treatment of three-body decays, by two independent energy or invariant-mass variables) rather than reducing to a solid-angle integral over a fixed p_f.
+
+# Mastery checklist
+
+- I can specialize Lesson 50's decay formula to the parent's rest frame and explain why that frame is the natural choice.
+
+- I can reuse Lesson 58's delta-function reduction to derive dΓ/dΩ=p_f|ℳ|²/(32π²M²).
+
+- I can integrate this over solid angle to obtain Γ=p_f|ℳ|²/(8πM²) for an isotropic matrix element.
+
+- I can derive the closed-form expression for p_f and state the threshold condition M≥m₁+m₂.
+
+- I can state and justify the symmetry factor needed for identical decay products.

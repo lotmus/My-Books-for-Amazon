@@ -1,0 +1,308 @@
+TITLE: Euler Lagrange Equations for Fields
+TAGLINE: Varying the action in four dimensions, the general field equation, and its application to the scalar, Dirac, and electromagnetic fields
+NUM: 26
+NEXT: Lesson 27 states and proves Noether's theorem: every continuous symmetry of the Lagrangian density gives a conserved current, the general statement behind the conservation of energy, momentum, angular momentum, and electric charge.
+
+# How to use this lesson
+
+Lesson 25 wrote down the Lagrangian densities of the scalar, Dirac, and electromagnetic fields and stated the equations they lead to. This lesson derives those equations. The derivation is the field-theoretic version of the argument of Lesson 5, Section 2.2, and uses the same three ingredients: vary the action, integrate by parts to move the derivative off the variation, and invoke the fundamental lemma that a function that integrates to zero against every test function must vanish. The only new feature is that the integration is over four-dimensional spacetime and the derivative is a four-gradient.
+
+Once the general equation is in hand it is applied in turn to each field. The scalar equation is the Klein Gordon equation of Lesson 17, the Dirac field gives the Dirac equation and its adjoint, and the electromagnetic field gives the inhomogeneous Maxwell equations. That a single Lagrangian density per field reproduces every equation of Parts II and III, and the Maxwell equations of Lesson 7, is the justification for the whole Lagrangian approach. The lesson closes with a solution of the sourced scalar equation that shows how a massive field mediates a force of finite range, an idea that returns in Lesson 45. Expect seven to nine focused hours.
+
+## Learning objectives
+
+- Derive the Euler Lagrange equation for a field by varying the action and integrating by parts in four dimensions.
+
+- State the equation for a system of several fields and for complex fields treated as independent variables.
+
+- Compute the derivatives ∂ℒ/∂(∂_μφ) correctly, keeping track of index positions.
+
+- Derive the Klein Gordon equation, including the nonlinear case with a φ⁴ interaction.
+
+- Derive the Dirac equation and its adjoint from the Dirac Lagrangian density.
+
+- Derive the inhomogeneous Maxwell equations ∂_μF^(μν) = j^ν from the electromagnetic Lagrangian density and verify that current conservation follows.
+
+- Write Hamilton's equations for a field using functional derivatives.
+
+- Solve the static sourced Klein Gordon equation and relate the range of the resulting Yukawa potential to the mass of the field.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| φ_a | A collection of fields labeled by a, which may be scalars, spinor components, or vector components |
+| ∂ℒ/∂(∂_μφ) | Derivative of ℒ with respect to the gradient ∂_μφ, treating ∂_μφ as an independent variable; carries an upper index |
+| δφ | Small variation of the field, vanishing on the boundary of the region of integration |
+| δS | First-order change of the action under δφ |
+| δH/δφ | Functional derivative of H with respect to the field |
+| Y(r) = e^(−mr)/(4πr) | Yukawa function, the static Green's function of the massive field |
+| j^μ | Electromagnetic four-current |
+
+# 1 The general equation
+
+## 1.1 Varying the action
+
+Let S[φ] = ∫_Ω d⁴x ℒ(φ, ∂_μφ) be the action for a single field over a spacetime region Ω. Replace φ by φ + δφ, where δφ is an arbitrary small function that vanishes on the boundary of Ω, in the same way that the variation of a particle path vanished at its endpoints (Lesson 5, Section 2.2). Since the derivative of a variation is the variation of the derivative, δ(∂_μφ) = ∂_μ(δφ), the first-order change of ℒ is
+
+$$ δℒ = (∂ℒ/∂φ) δφ + [∂ℒ/∂(∂_μφ)] ∂_μ(δφ)
+
+A sum over the repeated index μ is understood. Here ∂ℒ/∂(∂_μφ) means the derivative of ℒ with respect to the four quantities ∂_μφ, regarded as independent variables, and it carries an upper index because it is contracted with the lower index of ∂_μδφ.
+
+## 1.2 Integrating by parts
+
+Apply the product rule to the second term, exactly as in the derivation of Lesson 2, Section 8, but with a four-dimensional derivative.
+
+$$ [∂ℒ/∂(∂_μφ)] ∂_μ(δφ) = ∂_μ{ [∂ℒ/∂(∂_μφ)] δφ } − ∂_μ[∂ℒ/∂(∂_μφ)] δφ
+
+The first term on the right is a total derivative. By the four-dimensional divergence theorem, its integral over Ω is a surface integral over the boundary of Ω, where δφ vanishes, so it contributes nothing. What remains is
+
+$$ δS = ∫_Ω d⁴x { ∂ℒ/∂φ − ∂_μ[∂ℒ/∂(∂_μφ)] } δφ
+
+## 1.3 The field equation
+
+Because δφ is arbitrary, the fundamental lemma of the calculus of variations, used in Lesson 2, Section 8, requires the bracket to vanish at every point.
+
+$$ ∂ℒ/∂φ − ∂_μ [ ∂ℒ/∂(∂_μφ) ] = 0
+
+This is the Euler Lagrange equation for a field. When there are several fields φ_a, each can be varied independently, and there is one equation of this form for each of them, with ℒ depending on all the fields and their gradients. The equation is a covariant statement: if ℒ is a Lorentz scalar, both terms are scalars, so the field equation has the same form in every frame.
+
+### Worked example 1
+
+Show that the equation reduces to the particle equation of Lesson 5. Suppose the fields depend only on time, so that a single coordinate q(t) replaces φ(t, x) and ℒ becomes the ordinary Lagrangian L(q, q̇). Then the only nonzero derivative is ∂_0q = q̇, and the equation is ∂L/∂q − d/dt(∂L/∂q̇) = 0, the Euler Lagrange equation of Lesson 5, Section 2.2. A particle is a field in zero space dimensions, and the general equation includes the mechanics of Part I as its simplest case.
+
+## 1.4 Index conventions
+
+The derivative with respect to a lowered-index quantity produces a raised index, and vice versa. For μ = 0 the object ∂ℒ/∂(∂_0φ) = ∂ℒ/∂φ̇ is the conjugate momentum density π of Lesson 25, Section 3.2. For the spatial components, ∂ℒ/∂(∂ᵢφ) is the derivative with respect to the ordinary spatial gradient ∂φ/∂xⁱ. A convenient check is to write the equation out in components: ∂ℒ/∂φ − ∂_t π − ∂ᵢ[∂ℒ/∂(∂ᵢφ)] = 0, in which the time derivative of the momentum density appears explicitly, exactly as ṗ = ∂L/∂q does for a particle.
+
+# 2 The scalar field
+
+## 2.1 The Klein Gordon equation
+
+For ℒ = (1/2)∂_αφ∂^αφ − (1/2)m²φ², the derivative with respect to φ is ∂ℒ/∂φ = −m²φ. To differentiate the kinetic term with respect to ∂_μφ, write it as (1/2)g^(αβ)∂_αφ∂_βφ. The derivative acts on each of the two factors, and by the symmetry of g^(αβ) the two contributions are equal.
+
+$$ ∂[ (1/2) g^(αβ) ∂_αφ ∂_βφ ] / ∂(∂_μφ) = (1/2)(g^(μβ)∂_βφ + g^(αμ)∂_αφ) = ∂^μφ
+
+Then ∂_μ[∂ℒ/∂(∂_μφ)] = ∂_μ∂^μφ = □φ, and the Euler Lagrange equation reads −m²φ − □φ = 0, that is
+
+$$ (□ + m²) φ = 0
+
+the Klein Gordon equation. In components, ∂ℒ/∂φ̇ = φ̇ and ∂ℒ/∂(∂ᵢφ) = −∂ᵢφ, so the equation is −m²φ − φ̈ + ∇²φ = 0, the same equation, confirming the index bookkeeping. The equation that in Lesson 17 was postulated by the operator substitution E → i∂_t, p → −i∇ now follows from a variational principle.
+
+## 2.2 The complex field
+
+For ℒ = ∂_μφ*∂^μφ − m²φ*φ, write φ = a + ib with a and b real, so that varying the real and imaginary parts independently is equivalent to varying φ and φ* independently (the combinations δφ = δa + iδb and δφ* = δa − iδb span the same space). Varying φ* gives ∂ℒ/∂φ* = −m²φ and ∂ℒ/∂(∂_μφ*) = ∂^μφ, so the Euler Lagrange equation is (□ + m²)φ = 0. Varying φ gives ∂ℒ/∂φ = −m²φ* and ∂ℒ/∂(∂_μφ) = ∂^μφ*, so (□ + m²)φ* = 0. Both the field and its conjugate obey the Klein Gordon equation, consistent with the treatment of Lesson 17. The trick of treating φ and φ* as independent is the field-theoretic counterpart of treating q and p as independent in Lesson 6.
+
+## 2.3 An interaction makes the equation nonlinear
+
+Add a quartic interaction, ℒ = (1/2)∂_μφ∂^μφ − (1/2)m²φ² − (λ/4!)φ⁴ (Lesson 25, Section 3.3). Then ∂ℒ/∂φ = −m²φ − (λ/6)φ³ and the equation of motion becomes
+
+$$ (□ + m²) φ = −(λ/6) φ³
+
+The right side is nonlinear in φ, so, unlike the free equation, the sum of two solutions is not a solution. Waves no longer pass through one another without change: they scatter. This is the classical origin of particle interactions, and the reason that quantum field theories with interaction terms produce scattering amplitudes (Lesson 50).
+
+### Worked example 2
+
+Show that the sum of two solutions of the φ⁴ equation is not a solution. Let φ₁ and φ₂ each satisfy (□ + m²)φ = −(λ/6)φ³. Then (□ + m²)(φ₁ + φ₂) = −(λ/6)(φ₁³ + φ₂³), while the right side of the equation for φ₁ + φ₂ would be −(λ/6)(φ₁ + φ₂)³ = −(λ/6)(φ₁³ + 3φ₁²φ₂ + 3φ₁φ₂² + φ₂³). The mismatch is −(λ/2)(φ₁²φ₂ + φ₁φ₂²), nonzero wherever both waves are present: the two waves interact through the cross terms, and superposition fails for λ ≠ 0.
+
+# 3 The Dirac field
+
+## 3.1 Varying ψ̄
+
+Treat ψ and ψ̄ as independent fields, as for φ and φ* above. The Dirac Lagrangian density ℒ = ψ̄(iγ^μ∂_μ − m)ψ contains no derivative of ψ̄, so ∂ℒ/∂(∂_μψ̄) = 0 and ∂ℒ/∂ψ̄ = (iγ^μ∂_μ − m)ψ. The Euler Lagrange equation for ψ̄ is therefore
+
+$$ (iγ^μ∂_μ − m) ψ = 0
+
+the Dirac equation of Lesson 19, obtained here without any of the algebra of Lesson 18: it is the equation of motion of the Lagrangian density built from the simplest Lorentz scalars.
+
+## 3.2 Varying ψ
+
+Writing the Lagrangian density as ℒ = iψ̄γ^μ∂_μψ − mψ̄ψ, the derivatives with respect to ψ are ∂ℒ/∂ψ = −mψ̄ and ∂ℒ/∂(∂_μψ) = iψ̄γ^μ, with the matrix index of γ^μ contracted with the row index of ψ̄. The Euler Lagrange equation for ψ is −mψ̄ − ∂_μ(iψ̄γ^μ) = 0, that is
+
+$$ −i (∂_μψ̄) γ^μ − m ψ̄ = 0
+
+exactly the adjoint Dirac equation derived in Lesson 23, Section 1.1, by a different route. The two equations obtained by varying ψ̄ and ψ are Hermitian conjugates of each other, so they are consistent, and either can be used to derive the conserved current ψ̄γ^μψ of Lesson 23.
+
+### Worked example 3
+
+Add a Yukawa interaction with a scalar field, ℒ = (1/2)∂_μφ∂^μφ − (1/2)M²φ² + ψ̄(iγ^μ∂_μ − m)ψ − gφψ̄ψ, and find the equations of motion. Varying ψ̄ gives (iγ^μ∂_μ − m − gφ)ψ = 0: the fermion has an effective mass m + gφ(x) that depends on the scalar field. Varying φ gives −M²φ − gψ̄ψ − □φ = 0, that is (□ + M²)φ = −gψ̄ψ: the scalar is sourced by the fermion bilinear ψ̄ψ. The pair of equations shows in miniature the structure of every interacting theory in this course, including QED: each field's equation of motion contains the other field as a source.
+
+# 4 The electromagnetic field
+
+## 4.1 Differentiating the field tensor
+
+For ℒ = −(1/4)F_αβF^(αβ) − j^αA_α, the fields are the four components A_ν. The derivative of the interaction term is ∂ℒ/∂A_ν = −j^ν. The kinetic term depends on the derivatives ∂_μA_ν only through F_αβ, and the required derivative is (Exercise 8)
+
+$$ ∂(F_αβ F^(αβ)) / ∂(∂_μA_ν) = 4 F^(μν)
+
+which follows from expanding F_αβF^(αβ) = 2∂_αA_β∂^αA^β − 2∂_αA_β∂^βA^α and differentiating each factor. Therefore ∂ℒ/∂(∂_μA_ν) = −F^(μν).
+
+## 4.2 The Maxwell equations
+
+The Euler Lagrange equation for A_ν is ∂ℒ/∂A_ν − ∂_μ[∂ℒ/∂(∂_μA_ν)] = 0, that is −j^ν + ∂_μF^(μν) = 0.
+
+$$ ∂_μ F^(μν) = j^ν
+
+These are the inhomogeneous Maxwell equations in the covariant form previewed in Lesson 4, Section 4.3, and Lesson 8, Section 7.2. The homogeneous pair, ∇·B = 0 and ∇×E = −∂B/∂t, are not equations of motion; they are the Bianchi identity ∂_[αF_βγ] = 0, satisfied automatically because F_μν = ∂_μA_ν − ∂_νA_μ (Lesson 8, Section 1). The Lagrangian density therefore produces all four Maxwell equations, two as equations of motion and two as identities.
+
+### Worked example 4
+
+Verify that the ν = 0 component of ∂_μF^(μν) = j^ν is Gauss's law. With F₀ᵢ = Eᵢ (Lesson 8, Section 7.2) and F^(0i) = −Eᵢ, F^(i0) = +Eᵢ. Since F^(00) = 0, ∂_μF^(μ0) = ∂ᵢF^(i0) = ∂ᵢEᵢ = ∇·E, and the equation reads ∇·E = j⁰ = ρ, Gauss's law in Heaviside Lorentz units (Lesson 7, Section 7.1).
+
+The spatial components ν = i give the Ampère Maxwell law. With the convention Fᵢⱼ = −εᵢⱼₖBₖ (which follows from Aᵢ = −Aⁱ) one has F^(ji) = Fⱼᵢ = εᵢⱼₖBₖ, so ∂_μF^(μi) = ∂_tF^(0i) + ∂ⱼF^(ji) = −∂_tEᵢ + (∇×B)ᵢ = jⁱ, that is ∇×B = j + ∂E/∂t (Exercise 9).
+
+## 4.3 Current conservation follows
+
+Take ∂_ν of the Maxwell equation. Since ∂_ν∂_μ is symmetric in ν and μ while F^(μν) is antisymmetric, ∂_ν∂_μF^(μν) = 0 identically (Lesson 4, Exercise 7), so
+
+$$ ∂_ν j^ν = 0
+
+The field equations can be solved only if the source is conserved, the result found from a different direction in Lesson 8, Exercise 16, and in Lesson 25, Section 6.3, where gauge invariance of the interaction required it. This is the third appearance of the same fact, and it is not a coincidence: gauge invariance, current conservation, and the consistency of the equations of motion are one requirement seen from three sides. In the Lorenz gauge, ∂_μF^(μν) = □A^ν − ∂^ν(∂_μA^μ) = □A^ν, so the equation reduces to □A^ν = j^ν, the form of Lesson 8, Section 4.1 (Exercise 11).
+
+### Worked example 5
+
+Confirm the derivative of the kinetic term for one component. Take the case in which the only nonzero field derivative in the relevant sector is ∂₁A₂ with all other ∂_μA_ν held fixed. Then F₁₂ = ∂₁A₂ − ∂₂A₁ = ∂₁A₂, and F_αβF^(αβ) contains F₁₂F^(12) + F₂₁F^(21) = 2F₁₂F^(12) = 2(∂₁A₂)², using F^(12) = F₁₂. Its derivative with respect to ∂₁A₂ is 4∂₁A₂ = 4F₁₂ = 4F^(12), in agreement with the general result 4F^(μν) for μ = 1, ν = 2.
+
+# 5 Hamilton's equations for a field
+
+## 5.1 Functional derivatives
+
+The Hamiltonian formulation of Lesson 6 extends to fields by replacing the sum over coordinates with an integral over space. The Hamiltonian is H = ∫d³x ℋ, with ℋ = πφ̇ − ℒ the Hamiltonian density of Lesson 25, Section 3.2, regarded as a function of φ and π. The functional derivative of H with respect to the field is defined by the change of H under a small change of the field.
+
+$$ δH/δφ(x) = ∂ℋ/∂φ − ∂ᵢ[∂ℋ/∂(∂ᵢφ)],    δH/δπ(x) = ∂ℋ/∂π
+
+Hamilton's equations for a field then take the form of Lesson 6, Section 2.1, with the functional derivative in place of the partial derivative.
+
+$$ φ̇ = δH/δπ,    π̇ = −δH/δφ
+
+## 5.2 The scalar field
+
+For ℋ = (1/2)π² + (1/2)(∇φ)² + (1/2)m²φ², δH/δπ = π and δH/δφ = m²φ − ∇²φ, so Hamilton's equations are φ̇ = π and π̇ = ∇²φ − m²φ. Differentiating the first and substituting the second gives φ̈ = ∇²φ − m²φ, that is (□ + m²)φ = 0, the Klein Gordon equation once more, this time from the Hamiltonian formulation (Exercise 12). The pair of equations, each first order in time, is the field version of q̇ = p/m, ṗ = −mω²q for the oscillator of Lesson 6, and it is the starting point for the canonical quantization of Lesson 32, where φ and π become operators with a commutator playing the role of the Poisson bracket.
+
+# 6 A sourced field and the range of a force
+
+## 6.1 The static equation
+
+Add a source to the scalar Lagrangian density, ℒ = (1/2)∂_μφ∂^μφ − (1/2)m²φ² + Jφ. The Euler Lagrange equation is (□ + m²)φ = J. For a time-independent source and a static solution, □ = −∇², so
+
+$$ (−∇² + m²) φ(x) = J(x)
+
+For a point source J = gδ³(x) at the origin, the solution is the Yukawa function.
+
+$$ φ(r) = g e^(−mr)/(4πr)
+
+Away from the origin this satisfies the homogeneous equation: with f = e^(−mr)/r and the spherical Laplacian ∇²f = (1/r)d²(rf)/dr², rf = e^(−mr) gives ∇²f = m²e^(−mr)/r = m²f, so (−∇² + m²)f = 0. Near the origin the solution behaves as g/(4πr), and since ∇²(1/4πr) = −δ³(x) (the Coulomb potential of Lesson 7, Section 7.1), the source term is reproduced with the correct strength, so (−∇² + m²)φ = gδ³ holds everywhere.
+
+## 6.2 Range of the force
+
+The factor e^(−mr) cuts the potential off at distances larger than 1/m. A massless field, m = 0, gives φ = g/(4πr), the Coulomb form of infinite range: this is the electrostatic potential of a point charge, since the photon field is massless. A massive field gives a force of finite range 1/m, in natural units, or ℏ/(mc) in laboratory units. Yukawa used this argument to predict a particle of mass of order 100 MeV to mediate the nuclear force, whose range is about 1.4 fm; the particle was later identified with the pion, of mass 139.6 MeV (Exercise 13). The relationship between the mass of the exchanged particle and the range of the force is one of the most useful pieces of intuition in particle physics, and Lesson 45 will show that the same Yukawa function is the Fourier transform of the propagator 1/(k² + m²) appearing in every Feynman diagram.
+
+### Worked example 6
+
+Estimate the range of the force mediated by a field of mass 100 GeV. In natural units the range is 1/m = 1/(100 GeV). Converting with ℏc = 0.1973 GeV fm (Lesson 3, Section 6.2), the range is 0.1973/100 fm ≈ 2 × 10⁻³ fm, a few thousandths of the size of a proton. A force mediated by so heavy a field is effectively a contact interaction at ordinary energies, which is why the weak interaction, mediated by particles of mass about 80 to 90 GeV, appears weak and short ranged.
+
+# 7 Connections to QED
+
+@widths 3264 6528
+| Euler Lagrange idea | Later role in QED |
+| General equation ∂ℒ/∂φ − ∂_μ[∂ℒ/∂(∂_μφ)] = 0 | Gives the equations of motion of every field in the QED Lagrangian (Lesson 41) |
+| Klein Gordon equation from the scalar Lagrangian density | Free field equation solved by the mode expansion of Lesson 32 |
+| Nonlinear terms produce interactions | Interaction terms of the QED Lagrangian generate the vertices of the Feynman rules (Lessons 44 and 48) |
+| Dirac and adjoint Dirac equations from varying ψ̄ and ψ | The free electron field quantized in Lesson 35; consistency with the current of Lesson 23 |
+| ∂_μF^(μν) = j^ν | Covariant Maxwell equations, with the electron current as the source (Lesson 42) |
+| Current conservation from antisymmetry of F | Gauge invariance and the Ward identities (Lessons 71 and 72) |
+| Yukawa potential and range 1/m | Exchange of virtual particles; the photon propagator gives the Coulomb potential (Lessons 45 and 47) |
+| Hamilton's equations with functional derivatives | Canonical quantization of scalar, Dirac, and electromagnetic fields (Part V) |
+
+The Euler Lagrange equations of this lesson are classical field equations. In QED they hold as operator equations for the quantized fields, which is why the classical analysis of Parts III and IV is not merely preparation but is the content of the free theory. The nonlinear terms, the products of different fields at one point, are what remain to be treated by perturbation theory in Parts VII and IX.
+
+# 8 Summary
+
+1. Varying the action S = ∫d⁴x ℒ with fixed boundary values and integrating by parts in four dimensions gives ∂ℒ/∂φ − ∂_μ[∂ℒ/∂(∂_μφ)] = 0 for each field.
+
+2. For a field depending only on time the equation reduces to the particle Euler Lagrange equation of Lesson 5.
+
+3. The scalar Lagrangian density gives the Klein Gordon equation; a φ⁴ term makes the equation nonlinear and superposition fails.
+
+4. A complex field and its conjugate are varied independently and each obeys the Klein Gordon equation.
+
+5. The Dirac Lagrangian density gives the Dirac equation on varying ψ̄ and the adjoint Dirac equation on varying ψ.
+
+6. The electromagnetic Lagrangian density gives ∂_μF^(μν) = j^ν; the homogeneous equations are an identity, and current conservation follows from the antisymmetry of F^(μν).
+
+7. Hamilton's equations for a field, φ̇ = δH/δπ and π̇ = −δH/δφ, reproduce the Klein Gordon equation.
+
+8. A static point source of a massive scalar field produces the Yukawa potential ge^(−mr)/(4πr), with a range 1/m set by the mass of the field.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Derive the Euler Lagrange equation for a field from δS = 0, identifying the boundary term that is discarded and the condition on δφ that allows it to be discarded. |
+| 2 | For ℒ = (1/2)∂_μφ₁∂^μφ₁ + (1/2)∂_μφ₂∂^μφ₂ − (1/2)m₁²φ₁² − (1/2)m₂²φ₂² − (g/2)φ₁φ₂², derive the equations of motion for φ₁ and φ₂. |
+| 3 | For the real scalar field, write ℒ = (1/2)φ̇² − (1/2)(∂ᵢφ)² − (1/2)m²φ² and evaluate ∂ℒ/∂φ̇ and ∂ℒ/∂(∂ᵢφ), then obtain the Klein Gordon equation from the component form of the Euler Lagrange equation. |
+| 4 | For the φ⁴ theory, derive (□ + m²)φ = −(λ/6)φ³ and show that φ = constant is a solution only if the constant satisfies m²φ + (λ/6)φ³ = 0. |
+| 5 | For the complex scalar field, derive the equations for φ and φ* by varying φ* and φ respectively, and explain why the two variations are independent. |
+| 6 | Derive the adjoint Dirac equation −i(∂_μψ̄)γ^μ − mψ̄ = 0 by varying ψ in ℒ = ψ̄(iγ^μ∂_μ − m)ψ. |
+| 7 | For the Yukawa theory of Worked example 3, verify the two equations of motion and identify the source of each field. |
+| 8 | Show that ∂(F_αβF^(αβ))/∂(∂_μA_ν) = 4F^(μν) by writing F_αβF^(αβ) = 2∂_αA_β∂^αA^β − 2∂_αA_β∂^βA^α and differentiating each term. |
+| 9 | Using F₀ᵢ = Eᵢ and Fᵢⱼ = −εᵢⱼₖBₖ, show that the ν = i component of ∂_μF^(μν) = j^ν gives ∇×B − ∂_tE = j. |
+| 10 | Show that ∂_ν∂_μF^(μν) = 0 for any antisymmetric F^(μν) with smooth components, and conclude that ∂_νj^ν = 0. |
+| 11 | Show that ∂_μF^(μν) = □A^ν − ∂^ν(∂_μA^μ), and conclude that in the Lorenz gauge ∂_μA^μ = 0 the Maxwell equation reduces to □A^ν = j^ν. |
+| 12 | For the scalar Hamiltonian density, compute δH/δφ and δH/δπ, write Hamilton's equations, and eliminate π to recover the Klein Gordon equation. |
+| 13 | Verify that (−∇² + m²)(e^(−mr)/r) = 0 for r > 0, and compute the range ℏc/(mc²) for m = 139.6 MeV using ℏc = 197.3 MeV fm. |
+| 14 | Show that the equation (□ + m²)φ = J for a static source J(x) reduces to (−∇² + m²)φ = J, and find the solution for a source J = g₁δ³(x − x₁) + g₂δ³(x − x₂) as a sum of two Yukawa functions. |
+| 15 | Explain what would be added to the derivation of Section 1 if the variation δφ did not vanish on the boundary of Ω, and why the field equation itself is unaffected. |
+| 16 | Challenge: for static sources J, show that the field energy H = ∫d³x[(1/2)(∇φ)² + (1/2)m²φ² − Jφ] evaluated on the solution equals −(1/2)∫d³x Jφ, and use the two-source solution of Exercise 14 to show that the interaction energy of the two sources is −g₁g₂e^(−mr)/(4πr) with r = \|x₁ − x₂\|. Explain why this means a scalar field attracts like sources. |
+
+# Solutions
+
+**1.** δS = ∫d⁴x{(∂ℒ/∂φ)δφ + [∂ℒ/∂(∂_μφ)]∂_μδφ}. Writing [∂ℒ/∂(∂_μφ)]∂_μδφ = ∂_μ{[∂ℒ/∂(∂_μφ)]δφ} − ∂_μ[∂ℒ/∂(∂_μφ)]δφ, the first term is a total derivative whose integral is a surface integral of [∂ℒ/∂(∂_μφ)]δφ over the boundary of Ω. It vanishes if δφ = 0 on the boundary. What remains is δS = ∫d⁴x{∂ℒ/∂φ − ∂_μ[∂ℒ/∂(∂_μφ)]}δφ, and since δφ is arbitrary in the interior the bracket must vanish.
+
+**2.** For φ₁: ∂ℒ/∂φ₁ = −m₁²φ₁ − (g/2)φ₂² and ∂ℒ/∂(∂_μφ₁) = ∂^μφ₁, so −m₁²φ₁ − (g/2)φ₂² − □φ₁ = 0, that is (□ + m₁²)φ₁ = −(g/2)φ₂². For φ₂: ∂ℒ/∂φ₂ = −m₂²φ₂ − gφ₁φ₂ and ∂ℒ/∂(∂_μφ₂) = ∂^μφ₂, so (□ + m₂²)φ₂ = −gφ₁φ₂. Each field is sourced by a product involving the other.
+
+**3.** ∂ℒ/∂φ̇ = φ̇ and ∂ℒ/∂(∂ᵢφ) = −∂ᵢφ for each spatial i, while ∂ℒ/∂φ = −m²φ. The component form of the equation is ∂ℒ/∂φ − ∂_t(∂ℒ/∂φ̇) − ∂ᵢ[∂ℒ/∂(∂ᵢφ)] = −m²φ − φ̈ + ∂ᵢ∂ᵢφ = −m²φ − φ̈ + ∇²φ = 0, that is φ̈ − ∇²φ + m²φ = (□ + m²)φ = 0.
+
+**4.** With −(λ/4!)φ⁴, ∂ℒ/∂φ = −m²φ − (λ/6)φ³, and ∂_μ[∂ℒ/∂(∂_μφ)] = □φ, so −m²φ − (λ/6)φ³ − □φ = 0, that is (□ + m²)φ = −(λ/6)φ³. A constant φ has □φ = 0, so the equation becomes m²φ = −(λ/6)φ³, that is m²φ + (λ/6)φ³ = 0, which is V′(φ) = 0 for the potential of Lesson 25, Exercise 13.
+
+**5.** Write φ = a + ib. An arbitrary variation is δφ = δa + iδb with δa and δb independent real functions, and δφ* = δa − iδb. Requiring δS = 0 for independent δa and δb is equivalent to requiring the coefficients of δφ and δφ* to vanish separately. Varying φ*: ∂ℒ/∂φ* = −m²φ and ∂ℒ/∂(∂_μφ*) = ∂^μφ, so (□ + m²)φ = 0. Varying φ: ∂ℒ/∂φ = −m²φ* and ∂ℒ/∂(∂_μφ) = ∂^μφ*, so (□ + m²)φ* = 0.
+
+**6.** With ℒ = iψ̄γ^μ∂_μψ − mψ̄ψ, ∂ℒ/∂ψ = −mψ̄ and ∂ℒ/∂(∂_μψ) = iψ̄γ^μ. The equation −mψ̄ − ∂_μ(iψ̄γ^μ) = 0 becomes −i(∂_μψ̄)γ^μ − mψ̄ = 0, the adjoint Dirac equation of Lesson 23.
+
+**7.** Varying ψ̄: ∂ℒ/∂ψ̄ = (iγ^μ∂_μ − m − gφ)ψ, so (iγ^μ∂_μ − m − gφ)ψ = 0, with the scalar field acting as a position-dependent addition to the mass. Varying φ: ∂ℒ/∂φ = −M²φ − gψ̄ψ and ∂ℒ/∂(∂_μφ) = ∂^μφ, so (□ + M²)φ = −gψ̄ψ. The source of φ is the fermion bilinear −gψ̄ψ, and the source of ψ is the term gφψ.
+
+**8.** Write F_αβF^(αβ) = (∂_αA_β − ∂_βA_α)(∂^αA^β − ∂^βA^α) = 2∂_αA_β∂^αA^β − 2∂_αA_β∂^βA^α. Differentiating 2∂_αA_β∂^αA^β with respect to ∂_μA_ν, each of the two identical factors contributes ∂^μA^ν, giving 4∂^μA^ν. For −2∂_αA_β∂^βA^α, the factor ∂_αA_β with α = μ, β = ν leaves ∂^νA^μ, and the factor ∂^βA^α with the same identification also leaves ∂^νA^μ, so the derivative is −4∂^νA^μ. The total is 4(∂^μA^ν − ∂^νA^μ) = 4F^(μν).
+
+**9.** For ν = i, ∂_μF^(μi) = ∂_0F^(0i) + ∂ⱼF^(ji). With F^(0i) = −F₀ᵢ = −Eᵢ, the first term is −∂_tEᵢ. With F^(ji) = Fⱼᵢ = −εⱼᵢₖBₖ = εᵢⱼₖBₖ, the second term is εᵢⱼₖ∂ⱼBₖ = (∇×B)ᵢ. The equation is −∂_tEᵢ + (∇×B)ᵢ = jⁱ, that is ∇×B − ∂_tE = j, the Ampère Maxwell law.
+
+**10.** The operator ∂_ν∂_μ is symmetric in ν and μ, since partial derivatives commute, and F^(μν) is antisymmetric. Contracting a symmetric with an antisymmetric tensor gives zero: ∂_ν∂_μF^(μν) = ∂_μ∂_νF^(μν) = −∂_μ∂_νF^(νμ) = −∂_ν∂_μF^(μν) after renaming the dummy indices, so it equals its own negative and vanishes. Taking ∂_ν of ∂_μF^(μν) = j^ν then gives ∂_νj^ν = 0.
+
+**11.** ∂_μF^(μν) = ∂_μ(∂^μA^ν − ∂^νA^μ) = □A^ν − ∂^ν(∂_μA^μ), using the equality of mixed partial derivatives. If ∂_μA^μ = 0, the second term vanishes and the equation is □A^ν = j^ν.
+
+**12.** δH/δπ = ∂ℋ/∂π = π. δH/δφ = ∂ℋ/∂φ − ∂ᵢ[∂ℋ/∂(∂ᵢφ)] = m²φ − ∂ᵢ(∂ᵢφ) = m²φ − ∇²φ. Hamilton's equations are φ̇ = π and π̇ = −(m²φ − ∇²φ) = ∇²φ − m²φ. Then φ̈ = π̇ = ∇²φ − m²φ, that is (∂_t² − ∇² + m²)φ = (□ + m²)φ = 0.
+
+**13.** For f = e^(−mr)/r, rf = e^(−mr), so d²(rf)/dr² = m²e^(−mr), and ∇²f = (1/r)d²(rf)/dr² = m²e^(−mr)/r = m²f for r > 0. Hence (−∇² + m²)f = 0 for r > 0. The range is ℏc/(mc²) = 197.3 MeV fm/139.6 MeV = 1.41 fm, about the range of the nuclear force.
+
+**14.** For a static source, ∂_t²φ = 0 and □φ = −∇²φ, so (□ + m²)φ = J becomes (−∇² + m²)φ = J. The operator is linear, so the solution for two sources is the sum of the solutions for each: φ(x) = g₁e^(−m|x−x₁|)/(4π|x−x₁|) + g₂e^(−m|x−x₂|)/(4π|x−x₂|).
+
+**15.** If δφ did not vanish on the boundary, the total-derivative term would leave a surface contribution ∮[∂ℒ/∂(∂_μφ)]δφ dΣ_μ in δS. The field equation is the condition that the interior contribution vanishes for every δφ, including those that vanish on the boundary, and that condition is unchanged. The surface term matters only for the choice of boundary conditions and for deriving conserved charges (Lesson 27), where a symmetry variation δφ is generally nonzero at the boundary.
+
+**16.** Using (−∇² + m²)φ = J, integrating by parts, and discarding surface terms, ∫[(1/2)(∇φ)² + (1/2)m²φ²]d³x = (1/2)∫φ(−∇² + m²)φ d³x = (1/2)∫Jφ d³x. Then H = (1/2)∫Jφ − ∫Jφ = −(1/2)∫Jφ. With J as in Exercise 14 and the Yukawa function Y(r) = e^(−mr)/(4πr), φ = g₁Y(|x−x₁|) + g₂Y(|x−x₂|), and ∫Jφ d³x = g₁[g₁Y(0) + g₂Y(r)] + g₂[g₁Y(r) + g₂Y(0)] = (g₁² + g₂²)Y(0) + 2g₁g₂Y(r). Hence H = −(1/2)(g₁² + g₂²)Y(0) − g₁g₂Y(r). The first term is a divergent self-energy independent of the separation, and the interaction energy is −g₁g₂e^(−mr)/(4πr), which is negative and decreasing in magnitude with r for g₁g₂ > 0. Energy is lowered when like sources approach one another, so a scalar field attracts like sources, in contrast with the electromagnetic potential, which repels like charges (a difference traced to the spin of the exchanged particle in Lesson 47).
+
+# Mastery checklist
+
+- I can derive the Euler Lagrange equation for a field by varying the action and integrating by parts, stating why the boundary term vanishes.
+
+- I can compute ∂ℒ/∂(∂_μφ) with the correct index positions and check the result in components.
+
+- I can derive the Klein Gordon equation, including the nonlinear case with a φ⁴ term.
+
+- I can treat φ and φ* (and ψ and ψ̄) as independent variables and derive both equations.
+
+- I can derive the Dirac and adjoint Dirac equations from the Dirac Lagrangian density.
+
+- I can derive ∂_μF^(μν) = j^ν and show that current conservation follows from the antisymmetry of the field tensor.
+
+- I can write Hamilton's equations for a scalar field using functional derivatives.
+
+- I can solve the static sourced Klein Gordon equation and relate the range of the Yukawa potential to the mass of the field.

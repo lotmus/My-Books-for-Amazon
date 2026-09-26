@@ -1,0 +1,266 @@
+TITLE: Why Particles Become Fields
+TAGLINE: The limits of single-particle relativistic quantum mechanics, the arguments from pair creation and causality, and the outline of canonical quantization of a field
+NUM: 31
+NEXT: Lesson 32 carries out the program outlined here for the free scalar field: the canonical commutation relations, the mode expansion with operator coefficients, the Hamiltonian as a sum of oscillator energies, and the vacuum.
+
+# How to use this lesson
+
+Part III ended with a single-particle relativistic quantum mechanics that is internally consistent: the Dirac equation has a positive probability density, a spin, and an antiparticle interpretation. Part IV built the classical field theory that stands behind it. This lesson opens Part V by asking why that is still not enough, and by explaining why the passage from particles to quantum fields is not an optional refinement but the only way to reconcile quantum mechanics with special relativity.
+
+The argument is made from several directions, each of which points to the same conclusion: the impossibility of localizing a relativistic particle without creating more particles, the fact that real processes change the number of particles, the incompatibility of instantaneous position measurements with causality, and the unexplained identity of all particles of one kind. The lesson then outlines the remedy, canonical quantization of a field, which is carried out in detail in the lessons that follow. Expect five to seven focused hours; the lesson is more conceptual than most.
+
+## Learning objectives
+
+- Estimate the scale below which a relativistic particle cannot be localized without pair creation.
+
+- Explain why processes such as spontaneous emission and pair annihilation require a framework in which particle number is not fixed.
+
+- Show, using the harmonic oscillator ladder algebra, that emission into a mode containing n quanta is enhanced by the factor n + 1 while absorption goes as n.
+
+- State the causality problem of the single-particle propagator outside the light cone and explain how antiparticles resolve it.
+
+- Explain why the particles of a given species must be identical if they are quanta of a single field.
+
+- Outline the four steps of canonical quantization of a field and the correspondence between oscillator and field quantities.
+
+- Identify the new problems that the field description brings, notably the infinite zero-point energy.
+
+- Distinguish the position label x of a field from the position operator of single-particle quantum mechanics.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| λ_C = 1/m | Compton wavelength in natural units, ℏ/(mc) in laboratory units |
+| φ̂(x), π̂(x) | Field operator and conjugate momentum operator at the point x |
+| a_k, a_k† | Annihilation and creation operators for the mode k |
+| \|0⟩, \|n_k⟩ | Vacuum and a state with n quanta in mode k |
+| D(x − y) | Amplitude ∫d³p/((2π)³2E_p) e^(−ip·(x−y)) for propagation from y to x |
+| n̄ | Mean number of quanta in a mode |
+| K₁ | Modified Bessel function of the second kind |
+
+# 1 The failure of single-particle relativistic quantum mechanics
+
+## 1.1 Localization and pair creation
+
+A particle localized to a region of size Δx has, by the uncertainty relation of Lesson 12, a spread of momentum Δp ≳ 1/(2Δx), and hence an energy uncertainty of order 1/Δx once the particle is relativistic. Suppose one tries to confine an electron to a region smaller than its Compton wavelength λ_C = 1/m. Then the energy involved is of order m or more, and if it reaches 2m, enough energy is available to create an electron-positron pair (Lesson 22, Section 4.2). At that point the system no longer contains one particle, and a description in which the wave function ψ(x) is the amplitude for one particle at x has lost its meaning.
+
+### Worked example 1
+
+Find the Compton wavelength of the electron. In natural units λ_C = 1/m, and converting with ℏc = 197.3 MeV fm (Lesson 3, Section 6.2), λ_C = 197.3 MeV fm/0.511 MeV = 386 fm, as found in Lesson 3, Worked example 5. Localizing an electron to Δx = λ_C/4 ≈ 97 fm would involve energies of order 1/Δx = 4m, more than the 2m needed to create a pair. The single-particle description therefore fails at distances below a few hundred femtometers for an electron, a scale far smaller than an atom (about 5 × 10⁴ fm) but not inaccessible to modern experiments.
+
+## 1.2 The Klein paradox
+
+The same conclusion appears in a definite calculation. Consider a Dirac particle of energy E incident on a potential step of height V₀. For V₀ > E + m, the single-particle Dirac equation gives a reflected flux that exceeds the incident flux, a result called the Klein paradox. Because the step lowers the energy of the negative-energy states below −m in the region behind it, the incident particle can enter those states, and the naive interpretation in terms of a single particle fails. The resolution is that a step this strong creates electron-positron pairs at the step, and the excess reflected flux is accounted for by the produced particles. The condition V₀ > E + m ≥ 2m says that the potential supplies at least the pair-creation energy. A framework that allows particles to be created is needed to make sense of the result (Exercise 8).
+
+## 1.3 Processes change the particle number
+
+Real processes change the number of particles. An electron and positron annihilate into two photons; an excited atom emits a photon and drops to a lower state; a photon converts into a pair in the field of a nucleus. In the quantum mechanics of Part II the number of particles is fixed: the wave function ψ(x₁, …, x_N) has a definite N, and the Schrodinger equation preserves it. Such a theory cannot describe any of these processes. The Dirac equation of Part III does not help, since it is still a wave equation for a fixed number of particles, and the antiparticle reinterpretation of Lesson 22 was explicitly acknowledged there to be informal because it needed a framework that changes particle number.
+
+## 1.4 Spontaneous emission
+
+The most familiar example does not require relativity at all. In Lesson 15 an atom was treated by perturbation theory in the presence of a given classical field, and transitions were driven by that field. An excited atom in empty space is in a stationary state of the atomic Hamiltonian and, in that theory, stays excited for ever, since there is no field to perturb it. In fact it decays, with a rate that depends on the atom. Einstein realized in 1917 that the decay, spontaneous emission, is needed for consistency with thermodynamics, and the explanation is that the electromagnetic field itself must be treated quantum mechanically, so that even the vacuum, with no photons, can drive a transition. Section 2 makes this precise.
+
+# 2 The amplitude to emit a quantum
+
+## 2.1 Ladder operators and the factor n + 1
+
+Once the field is expanded in modes, each mode is a harmonic oscillator (Lesson 24, Section 4.2), and the excitations of the oscillator are the quanta. The ladder operators of Lesson 11, Section 4.3, act as
+
+$$ a†|n⟩ = √(n+1) |n+1⟩,    a|n⟩ = √n |n−1⟩
+
+An atomic transition that emits a quantum into a mode contains the creation operator a† in its interaction, since it adds a quantum, and one that absorbs a quantum contains a. The probability of a transition is proportional to the square of the matrix element, so with n quanta initially present in the mode,
+
+$$ emission:  |⟨n+1|a†|n⟩|² = n + 1,    absorption:  |⟨n−1|a|n⟩|² = n
+
+Absorption requires at least one quantum to absorb, and is proportional to n. Emission is proportional to n + 1: the term proportional to n is stimulated emission, enhanced by the number of quanta already present, and the remaining term, 1, is present even when n = 0. That term is spontaneous emission, the decay of an excited atom into the vacuum of the field.
+
+### Worked example 2
+
+Show that the factor n + 1 accounts for both processes. With no photons, n = 0, emission has rate proportional to 1 and absorption to 0: the atom can only decay. With n photons present, the emission rate is (n + 1) times the vacuum rate: n units of stimulated emission on top of one unit of spontaneous emission. The unit that survives at n = 0 has no counterpart in the classical field theory of Lesson 15, in which a field of zero amplitude drives nothing. Its presence is a signature of field quantization: the state with n = 0 is not a state with no field but the ground state of the oscillators, which have zero-point fluctuations (Lesson 11, Section 4.2).
+
+## 2.2 Consistency with thermal equilibrium
+
+The ratio (n + 1) : n is exactly what is needed for thermal equilibrium (Exercise 16). For a two-level atom in equilibrium with radiation at temperature T, the upward and downward rates must balance, N₂(n̄ + 1) = N₁n̄, so that N₂/N₁ = n̄/(n̄ + 1). With the mean number of quanta in the Planck distribution, n̄ = 1/(e^(ω/T) − 1), this ratio is e^(−ω/T), the Boltzmann factor. If there were no spontaneous term, the ratio would be 1, and the atoms could not reach the correct thermal populations. That thermodynamics demands spontaneous emission is the argument Einstein made, and it shows that the quantization of the field is required for consistency, independently of any relativistic considerations.
+
+# 3 Causality and antiparticles
+
+## 3.1 The single-particle propagator
+
+Consider a relativistic particle described by a single-particle wave function with positive energy E_p = √(p² + m²). Its amplitude to propagate from the point y at time 0 to the point x at time t, with the covariant normalization of Lesson 17, is
+
+$$ D(x − y) = ∫ d³p/((2π)³ 2E_p) e^(−ip·(x−y))
+
+At t = 0 this is a function of the distance r = |x − y| alone, and can be evaluated in terms of a Bessel function.
+
+$$ D(0, r) = m K₁(mr)/(4π² r)
+
+For small mr, K₁(z) ≈ 1/z, and D → 1/(4π²r²); for large mr, D falls like e^(−mr). The amplitude is nonzero at every r, including distances at which the two points are separated by a spacelike interval. A particle that could be found at y at t = 0 has a nonzero amplitude to be found, at the same time, at a distant point x. Propagation over a spacelike interval would mean a signal faster than light, so causality appears to be violated.
+
+### Worked example 3
+
+Check the massless limit of D(0, r). For m = 0, D(0, r) = ∫d³p e^(ip·r)/((2π)³2p). Performing the angular integral, ∫d³p e^(ip·r)/p = 4π∫₀^∞ p² dp (sin pr/pr)/p = (4π/r)∫₀^∞ sin(pr)dp, and with a convergence factor e^(−εp) the integral is r/(r² + ε²) → 1/r. So D(0, r) = (1/(2(2π)³))(4π/r)(1/r) = 1/(4π²r²), in agreement with the small-mr limit of the Bessel form.
+
+## 3.2 The resolution by antiparticles
+
+The resolution, which will be verified in Lesson 32, is not that D(x − y) vanishes outside the light cone, but that it is not the only contribution to the physical effect. Two points x and y separated by a spacelike interval have no invariant time ordering: by the relativity of simultaneity (Lesson 3, Section 2.3) there is an inertial frame in which x occurs before y and another in which y occurs before x. In a frame where y is earlier, a particle propagating from y to x is described by D(x − y). In the frame where x is earlier, the same physical situation must be described by a particle propagating from x to y, with amplitude D(y − x). The two descriptions are related by a Lorentz transformation and cannot both be right unless they are the same process. A consistent theory must include, for propagation over spacelike intervals, both contributions and arrange that they cancel in the physically measurable quantity, the commutator of the field operators at the two points (Exercise 12).
+
+For the cancellation to work, the second contribution must be that of a different particle: one that propagates from x to y when a particle would propagate from y to x, and so is created at x and absorbed at y. That is an antiparticle, and for the cancellation to be exact it must have the same mass as the particle. For a charged field, the quantum number that the flow carries in one direction must be opposite to what the flow carries in the other, so the antiparticle has the opposite charge. This is an argument, independent of Dirac's, that relativity and quantum mechanics together require antiparticles.
+
+### Worked example 4
+
+Show that the time order of two events at spacelike separation can be reversed. Take Δt = 1 and Δx = 2 in units with c = 1, so that the interval is Δt² − Δx² = −3 < 0. Under a boost with speed v along x, Δt′ = γ(Δt − vΔx) = γ(1 − 2v). This vanishes at v = 1/2, which is allowed, and is negative for 1/2 < v < 1. For v = 0.8, γ = 5/3 and Δt′ = (5/3)(1 − 1.6) = −1, while Δx′ = γ(Δx − vΔt) = (5/3)(2 − 0.8) = 2, and the invariant is (−1)² − 2² = −3, as it must be. The order of the two events is reversed in the moving frame.
+
+# 4 Fields and identical particles
+
+The remaining argument is about identity. Every electron in the universe has exactly the same mass, charge, and spin, and the symmetrization postulate of Lesson 16 had to be introduced as an extra principle to say that such particles are indistinguishable. In a field theory, the electrons are the quanta of one field, the electron field, and every excitation of that field is created by the same operator. There is no room for individual differences, because there are no individuals: only excitations of a single medium. The identity of all electrons is a consequence of the theory, not an additional assumption. The statistics are fixed as well: quanta of a field satisfying commutation relations are bosons, and quanta of a field satisfying anticommutation relations are fermions, and the spin-statistics theorem of Lesson 16, Section 6.2, selects between the two (Lesson 36).
+
+# 5 The program of canonical quantization
+
+## 5.1 The four steps
+
+The remedy for all these difficulties is to apply the quantization procedure of Lessons 6 and 10 to the classical fields of Part IV. It has four steps.
+
+1. Begin with the classical field theory: the Lagrangian density ℒ, the field φ(x), its conjugate momentum π = ∂ℒ/∂φ̇, and the Hamiltonian H = ∫d³x(πφ̇ − ℒ) (Lesson 25).
+
+2. Promote φ and π to operators satisfying the equal-time commutation relation obtained from the Poisson bracket by Dirac's rule (Lesson 6, Section 7.2).
+
+$$ [φ̂(t, x), π̂(t, y)] = i δ³(x − y),    [φ̂(t, x), φ̂(t, y)] = [π̂(t, x), π̂(t, y)] = 0
+
+3. Expand the field in modes, each an oscillator (Lesson 24, Section 4), and identify the ladder operators a_k and a_k† of each mode (Lesson 33). The Hamiltonian becomes a sum of oscillator Hamiltonians.
+
+4. Construct the space of states by acting with the creation operators on the vacuum, the state annihilated by all the a_k (Lesson 34). A state with n_k quanta in each mode k is a state of Σn_k particles.
+
+## 5.2 The dictionary
+
+@widths 3264 3264 3264
+| Quantity | Single oscillator (Lesson 11) | Free field |
+| Coordinates | q, p with [q, p] = i | φ̂(x), π̂(x) with [φ̂(x), π̂(y)] = iδ³(x − y) |
+| Hamiltonian | ω(a†a + 1/2) | Σ_k ω_k(a_k†a_k + 1/2) |
+| Ladder operators | a, a† with [a, a†] = 1 | a_k, a_k† with [a_k, a_k′†] = δ_(kk′) |
+| States | \|n⟩ = (a†)ⁿ\|0⟩/√n! | \|{n_k}⟩ with n_k quanta in mode k |
+| Energy of a state | ω(n + 1/2) | Σ_k ω_k(n_k + 1/2) |
+| Meaning of a quantum | Unit of excitation | A particle of momentum k and energy ω_k = √(k² + m²) |
+
+The correspondence explains the particle concept. An excitation of a mode is not an independent object added to the theory but a unit of vibration of the field, and the relation between its energy and momentum is the relativistic one because the mode frequencies are (Lesson 24, Section 4.2).
+
+## 5.3 The position label
+
+There is a conceptual point that is easy to overlook. In single-particle quantum mechanics x̂ is an operator whose eigenvalue is the position of the particle and time is a parameter (Lesson 10). In field theory the position x is not an operator: it is a label, like the index of an oscillator, and the operator is the field φ̂(t, x) at that label. Time and space enter the operator on the same footing, as labels of the field, and Lorentz transformations act on the labels in the simple way of Lesson 24, Section 3.4. This symmetric treatment is one of the reasons the field formulation reconciles quantum mechanics with relativity, and it removes the need to define a position operator for a relativistic particle, a notion that the arguments of Section 1 showed to be problematic.
+
+# 6 New problems
+
+The field formulation resolves the difficulties of Section 1 but raises others, which the following lessons address.
+
+The first is the infinite zero-point energy. Each oscillator has ground-state energy ω_k/2, and there are infinitely many oscillators, so the vacuum energy Σ_k ω_k/2 is infinite (Exercise 5). This is dealt with in Lesson 34 by normal ordering, which drops a constant that does not affect energy differences, though the question of its physical meaning returns in more advanced treatments of gravity.
+
+The second is that interactions are hard. A free field is a set of independent oscillators and is solved exactly; an interacting field is a set of coupled oscillators and cannot be solved in closed form. Part VII develops the perturbative expansion that makes calculation possible, and Parts IX and X deal with the divergences that appear when the expansion is carried to higher order.
+
+The third is that the notion of particle is subtler in the presence of interactions and in curved spacetime than the free-field picture suggests. For the scattering processes of this course the free-field particles serve as the asymptotic states, and the subtlety does not arise.
+
+# 7 Connections to QED
+
+@widths 3264 6528
+| Idea | Later role in QED |
+| Localization below the Compton wavelength creates pairs | Scale of virtual pair effects: vacuum polarization at distances of order 1/m (Lesson 62) |
+| Klein paradox and pair creation in strong fields | Electron-positron pair production in external fields, the subject of Lesson 85 |
+| Particle number is not conserved | Fock space with states of any number of particles (Lesson 34) |
+| Emission factor n + 1 and absorption factor n | Photon emission and absorption amplitudes, spontaneous and stimulated emission (Lesson 37) |
+| Causality requires antiparticles | The field commutator vanishes outside the light cone (Lesson 32) and the Feynman propagator includes both time orders (Lesson 45) |
+| Identical particles as quanta of one field | Antisymmetric fermion states from anticommuting operators (Lesson 36) |
+| Four steps of canonical quantization | Applied in turn to the scalar (Lesson 32), Dirac (Lesson 35), and electromagnetic (Lesson 37) fields |
+| Infinite zero-point energy | Normal ordering (Lesson 34) and the vacuum diagrams that cancel in scattering amplitudes (Lesson 50) |
+| Interactions couple the oscillators | Perturbation theory in the coupling e, organized by Feynman diagrams (Part VII) |
+
+The photon is the case where the argument was historically clearest. The quantization of the electromagnetic field explained spontaneous emission, the Planck distribution, and the photoelectric effect through the single idea of quanta of a field. Lesson 37 carries out that quantization, with the additional complication of the gauge redundancy identified in Lesson 8.
+
+# 8 Summary
+
+1. A relativistic particle cannot be localized to within its Compton wavelength 1/m without creating pairs, so a single-particle wave function loses its meaning at short distances.
+
+2. The Klein paradox is the manifestation of pair creation in a strong potential step.
+
+3. Real processes change the number of particles, which fixed-number quantum mechanics cannot describe.
+
+4. Spontaneous emission requires a quantized field; the factors n + 1 for emission and n for absorption follow from the ladder operators, and their ratio reproduces the Boltzmann distribution.
+
+5. The single-particle propagator is nonzero outside the light cone; causality is restored by an antiparticle contribution that cancels it in the field commutator.
+
+6. Particles of one species are identical because they are quanta of a single field.
+
+7. Canonical quantization promotes φ and π to operators with [φ, π] = iδ³, expands in modes, identifies ladder operators, and builds the states from the vacuum.
+
+8. In field theory position is a label of the field operator, not an operator; new problems are the zero-point energy, the difficulty of interactions, and the notion of particle beyond the free theory.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Compute the Compton wavelength ℏ/(mc) of the electron and of the muon (mc² = 105.66 MeV) using ℏc = 197.3 MeV fm. |
+| 2 | Estimate the energy involved in localizing an electron to Δx = λ_C/4 using ΔE ~ 1/Δx, and compare with the pair-creation threshold 2m. |
+| 3 | Verify D(0, r) → 1/(4π²r²) for m = 0 by performing the angular integral of ∫d³p e^(ip·r)/((2π)³2p) with a convergence factor e^(−εp). |
+| 4 | Using a†\|n⟩ = √(n+1)\|n+1⟩ and a\|n⟩ = √n\|n−1⟩, compute the ratio of the emission probability to the absorption probability for a mode with n quanta, and evaluate it for n = 0, 1, 10. |
+| 5 | Estimate the zero-point energy density of a massless field with a momentum cutoff Λ by evaluating ∫d³k/(2π)³ (1/2)k up to \|k\| = Λ, and show that it scales as Λ⁴. |
+| 6 | Complete the dictionary of Section 5.2 for the number operator: write N = a†a for one oscillator and N = Σ_k a_k†a_k for the field, and state its eigenvalue on \|{n_k}⟩. |
+| 7 | Show that a state with a single quantum of momentum k, energy ω_k = √(k² + m²), satisfies E² − \|k\|² = m², and that a state with two quanta of momenta k₁ and k₂ has energy ω_(k₁) + ω_(k₂). |
+| 8 | Explain qualitatively why the Klein paradox appears only for V₀ > E + m, referring to the negative-energy states of Lesson 19 and the pair-creation threshold. |
+| 9 | Explain why the identity of all electrons is natural in field theory but must be assumed in single-particle quantum mechanics. |
+| 10 | Show that the number of modes with wave number less than K in a volume V is VK³/(6π²), and interpret it as the number of oscillators with frequency below K for a massless field. |
+| 11 | For two events with Δt = 1 and Δx = 2 (c = 1), find the boost velocity for which they are simultaneous, and verify the invariance of the interval for v = 0.8. |
+| 12 | Show that D(0, x − y) = D(0, y − x), so that the equal-time commutator [φ̂(x), φ̂(y)] = D(x − y) − D(y − x) vanishes even though D itself does not. |
+| 13 | Show that D(x − y) = ∫d³p/((2π)³2E_p) e^(−ip·(x−y)) has mass dimension 2 in natural units. |
+| 14 | From the classical mode energy H = ω\|a\|² of Lesson 24, Section 4.4, argue that a mode in a state with n quanta corresponds to \|a\|² = n and that the amplitude of the classical field grows as √n. |
+| 15 | Explain in a short paragraph the difference between the position operator x̂ of single-particle quantum mechanics and the position label x of a field. |
+| 16 | Challenge: for a two-level atom in equilibrium with radiation of mean occupation n̄ = 1/(e^(ω/T) − 1), use emission rate ∝ n̄ + 1 and absorption rate ∝ n̄ to show N₂/N₁ = e^(−ω/T), and show that omitting the spontaneous term would give N₂ = N₁ at all temperatures. |
+
+# Solutions
+
+**1.** Electron: λ_C = 197.3 MeV fm/0.511 MeV = 386 fm. Muon: λ_C = 197.3 MeV fm/105.66 MeV = 1.87 fm.
+
+**2.** Δx = λ_C/4 = 1/(4m), so ΔE ~ 1/Δx = 4m. This exceeds the pair-creation threshold 2m, so enough energy is available to create an electron-positron pair, and the one-particle description breaks down.
+
+**3.** For m = 0, D(0, r) = (1/2)(2π)⁻³∫d³p e^(ip·r)/p. Using the angular integral ∫dΩ e^(ip·r) = 4π sin(pr)/(pr), ∫d³p e^(ip·r)/p = 4π∫₀^∞ p²dp[sin(pr)/(pr)]/p = (4π/r)∫₀^∞ sin(pr)dp. With the factor e^(−εp), ∫₀^∞ sin(pr)e^(−εp)dp = r/(r² + ε²), which tends to 1/r as ε → 0. So D(0, r) = (1/2)(2π)⁻³(4π/r)(1/r) = 4π/(16π³r²) = 1/(4π²r²).
+
+**4.** Emission probability ∝ \|⟨n+1\|a†\|n⟩\|² = n + 1, absorption ∝ \|⟨n−1\|a\|n⟩\|² = n. The ratio is (n + 1)/n. For n = 1 it is 2, and for n = 10 it is 1.1. For n = 0 the absorption probability is zero and the ratio is infinite: the atom can only emit.
+
+**5.** The energy density is ρ_vac = ∫d³k/(2π)³ (1/2)k = (4π/(2π)³)(1/2)∫₀^Λ k³dk = (1/(4π²))(Λ⁴/4) = Λ⁴/(16π²). It grows as Λ⁴ and diverges as the cutoff is removed.
+
+**6.** For one oscillator, N = a†a, with N\|n⟩ = n\|n⟩. For the field, N = Σ_k a_k†a_k, and N\|{n_k}⟩ = (Σ_k n_k)\|{n_k}⟩, the total number of quanta. (Zero-point energy does not appear in N.)
+
+**7.** A single quantum of momentum k has E = ω_k = √(\|k\|² + m²), so E² − \|k\|² = m². For two quanta with momenta k₁ and k₂, the energy is the sum of the oscillator energies, ω_(k₁) + ω_(k₂) (omitting the zero-point energy), since the Hamiltonian Σω_k(a_k†a_k + 1/2) is diagonal in the occupation numbers; the invariant mass of the pair is then (ω₁ + ω₂)² − \|k₁ + k₂\|².
+
+**8.** For a step of height V₀ the energy of the incident particle relative to the potential in the region behind the step is E − V₀. When V₀ > E + m this is below −m, in the range of the negative-energy states of Lesson 19, so an incident positive-energy particle can be matched with negative-energy solutions behind the step, which the single-particle equation interprets as a transmitted current with the wrong sign. The condition V₀ > E + m ≥ 2m, since E ≥ m, says that the potential supplies at least 2m, the energy needed to create an electron-positron pair, so the anomalous flux is accounted for by pair creation at the step.
+
+**9.** In field theory every electron is a quantum of the same field and is created by the same operator, so there are no individual properties to differ: identity follows from the structure of the theory. In single-particle quantum mechanics particles are labeled entities that could in principle carry distinct labels, and the fact that electrons cannot be told apart is an additional postulate, the symmetrization postulate of Lesson 16.
+
+**10.** Each mode occupies a volume (2π)³/V in k-space. The number with \|k\| < K is V(4π/3)K³/(2π)³ = VK³/(6π²). For a massless field ω = \|k\|, so this is the number of oscillators with frequency below K.
+
+**11.** Δt′ = γ(Δt − vΔx) = γ(1 − 2v) vanishes at v = 1/2, where the events are simultaneous. For v = 0.8, γ = 5/3, Δt′ = (5/3)(1 − 1.6) = −1 and Δx′ = (5/3)(2 − 0.8) = 2. The interval is Δt′² − Δx′² = 1 − 4 = −3, the same as Δt² − Δx² = 1 − 4 = −3.
+
+**12.** At t = 0, D(0, x − y) = ∫d³p/((2π)³2E_p) e^(ip·(x−y)) depends only on p through E_p = √(p² + m²), which depends only on \|p\|. The integral over directions of p is symmetric under x − y → y − x (equivalently p → −p), so D(0, x − y) = D(0, y − x). The commutator D(x − y) − D(y − x) therefore vanishes at equal times, although each term is nonzero.
+
+**13.** In natural units d³p has dimension 3 and 1/E_p has dimension −1, so D = ∫d³p/((2π)³2E_p)e^(−ip·x) has dimension 3 − 1 = 2, that of a mass squared. This agrees with the limit D → 1/(4π²r²), which has dimension 2.
+
+**14.** The classical energy of a mode is H = ω\|a\|². A quantum state with n quanta has energy nω (omitting the zero-point term), so \|a\|² = n. The classical field amplitude is proportional to \|a\|/√(2ωV) (Lesson 24, Section 4.4), which scales as √n, so a state with many quanta corresponds to a large classical wave whose amplitude grows as the square root of the number of quanta.
+
+**15.** In single-particle quantum mechanics x̂ is an operator on the space of states whose eigenvalue is the position at which the particle is found, and time is a parameter of evolution; the two are treated asymmetrically. In field theory the field φ̂(t, x) is the operator and (t, x) are labels attached to it, like the index of an oscillator. Both time and space are labels, on the same footing, so Lorentz transformations act on them in the simple way of Lesson 24, and there is no need for a position operator for the particle.
+
+**16.** At equilibrium the number of upward transitions per unit time, N₁ × (absorption ∝ n̄), equals the number of downward transitions, N₂ × (emission ∝ n̄ + 1). So N₂/N₁ = n̄/(n̄ + 1). With n̄ = 1/(e^(ω/T) − 1), n̄ + 1 = e^(ω/T)/(e^(ω/T) − 1), and the ratio is 1/e^(ω/T) = e^(−ω/T), the Boltzmann factor. If emission were proportional to n̄ alone, with no spontaneous term, the balance N₂n̄ = N₁n̄ would give N₂ = N₁ for every temperature, which contradicts thermal equilibrium at any finite temperature, where the upper level must be less populated. Spontaneous emission is therefore required.
+
+# Mastery checklist
+
+- I can estimate the distance below which a relativistic particle cannot be localized and explain why.
+
+- I can explain why processes that change particle number require a field description.
+
+- I can derive the enhancement factors n + 1 for emission and n for absorption from the ladder operators.
+
+- I can show that the emission and absorption factors reproduce the Boltzmann ratio in thermal equilibrium.
+
+- I can state the causality problem of the single-particle propagator and how antiparticles resolve it.
+
+- I can explain why identical particles are natural in a field theory.
+
+- I can list the four steps of canonical quantization and the oscillator-to-field dictionary.
+
+- I can distinguish the position label of a field from the position operator of quantum mechanics.

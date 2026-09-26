@@ -1,0 +1,216 @@
+TITLE: External Spinors and Polarization
+TAGLINE: The general master formula converting a squared, spin-summed spinor sandwich into a gamma-matrix trace, spin averaging, and the covariant photon polarization sum
+NUM: 51
+NEXT: Lesson 52 develops the kinematic bookkeeping, the Mandelstam variables, needed to turn the traces this lesson produces into functions of physically meaningful scattering angles and energies, completing the toolkit Lesson 53 applies to electron-muon scattering.
+
+# How to use this lesson
+
+Lesson 20 built a complete toolkit of gamma-matrix trace identities and previewed, without deriving, that they would be needed "for computing |amplitude|² summed over spins" in this lesson. Lesson 21 built the completeness relations Σu_sū_s=p̸+m and Σv_sv̄_s=p̸−m and previewed the same thing. Neither lesson closed the loop: neither showed exactly how a squared, spin-summed amplitude becomes a trace in the first place. This lesson supplies that missing link, in general form, for any vertex structure Γ, then specializes it to the QED vertex γ^μ, handles the practical distinction between summing over final spins and averaging over unmeasured initial ones, and extends the same logic to the photon, where an extra subtlety (the honest transverse polarization sum versus the covariant replacement) appears. Expect five to seven hours.
+
+## Learning objectives
+
+- Derive Γ̄=γ⁰Γ†γ⁰ and the conjugation identity [ū(p′)Γu(p)]*=ū(p)Γ̄u(p′) for a general 4×4 matrix Γ.
+
+- Derive the master formula Σ_(spins)|ū(p′)Γu(p)|²=Tr[Γ(p̸+m)Γ̄(p̸′+m)] by combining this conjugation identity with the completeness relations of Lesson 21.
+
+- Specialize the master formula to Γ=γ^μ, showing Γ̄=γ^μ, and connect the result to Lesson 20's showcased trace Tr[(p̸′+m)γ^μ(p̸+m)γ^ν].
+
+- Explain why an unpolarized experiment sums over final spins but averages over initial ones, and state the resulting statistical factor.
+
+- State the honest, Coulomb-gauge photon polarization sum Σ_λε_λ^iε_λ^j=δ^ij−k̂^ik̂^j and the covariant replacement Σ_λε_λ^με_λ^ν→−g^μν used in practice.
+
+- Explain, at the level already available from Lesson 47, why the covariant replacement is expected (though not yet proven) to give the same physical answer as the honest sum.
+
+- Reconstruct the master formula and its QED specialization from memory.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| Γ | A general 4×4 matrix built from gamma matrices, e.g. γ^μ |
+| Γ̄ = γ⁰Γ†γ⁰ | The Dirac adjoint of Γ |
+| Σ_(spins) | Sum over both the initial and final spin labels |
+| (1/2)Σ_(initial) | Spin average over an unmeasured initial fermion |
+
+# 1 Why sum and why average
+
+## 1.1 Unmeasured spins
+
+Most scattering experiments neither prepare a beam in a definite spin state nor measure the spin of the outgoing particles; the measured cross section is therefore not |ℳ|² for one specific set of spins, but a suitably combined quantity over every spin configuration consistent with the observed momenta.
+
+## 1.2 Sum over final, average over initial
+
+If the final spin is not measured, every possible final spin state contributes to what is observed, and the probabilities (not amplitudes) for each add: the correct quantity sums |ℳ|² over final spins. If the initial spin is not prepared, the beam is an incoherent mixture of the two spin states, each equally likely; the correct quantity averages |ℳ|² over initial spins, weighting each equally. For one unmeasured initial fermion, this is (1/2)Σ_(s); for two unmeasured initial fermions, (1/2)(1/2)Σ_(s,s_2), and so on.
+
+### Worked example 1
+
+Explain, in one sentence, why an average (dividing by the number of states) is used for the initial spin but a plain sum (no dividing) is used for the final spin. The initial spin represents a genuine incoherent statistical mixture over which an experiment has no control and must therefore average as an ordinary probabilistic mixture, while the final spin represents every distinct, physically distinguishable outcome that a spin-blind detector fails to resolve, whose probabilities are combined by summing, exactly as the probabilities of any set of mutually exclusive, unresolved outcomes are combined.
+
+# 2 The general master formula
+
+## 2.1 Conjugating a spinor sandwich
+
+For a general 4×4 matrix Γ, [ū(p′)Γu(p)]† = u(p)†Γ†ū(p′)† = u(p)†Γ†γ⁰u(p′) (using ū(p′)†=(u(p′)†γ⁰)†=γ⁰u(p′), since γ⁰†=γ⁰). Inserting γ⁰γ⁰=I,
+
+$$ [ū(p′)Γu(p)]* = ū(p) [γ⁰Γ†γ⁰] u(p′) =: ū(p) Γ̄ u(p′) , qquad Γ̄ := γ⁰Γ†γ⁰
+
+since a 1×1 matrix's Hermitian conjugate is the same as its complex conjugate. Γ̄ is called the Dirac adjoint of Γ.
+
+## 2.2 The master formula
+
+Restoring explicit spin labels, |ū_s′(p′)Γu_s(p)|²=[ū_s′(p′)Γu_s(p)][ū_s(p)Γ̄u_s′(p′)]. Summing over both s and s′, and writing out spinor indices to separate the two independent sums (Exercise 6 works through every index explicitly),
+
+$$ Σ_(s,s′) | ū_s′(p′) Γ u_s(p) |² = Tr [ Γ (p̸+m) Γ̄ (p̸′+m) ]
+
+using the completeness relations Σ_su_s(p)ū_s(p)=p̸+m and Σ_s′u_s′(p′)ū_s′(p′)=p̸′+m (Lesson 21, Section 6.1) to collapse each spin sum into a single matrix, with the resulting matrix product's trace structure emerging automatically from how the indices contract.
+
+### Worked example 2
+
+Explain why the trace, rather than some other combination, is exactly what emerges from summing over both spins. Each completeness relation, Σu_s(p)ū_s(p)=p̸+m, replaces a specific pair of spinor indices (one from u, one from the adjacent ū) with a matrix; doing this twice, once for each spin sum, leaves every spinor index paired off into a matrix product that closes back on itself (the last index of one factor matching the first index of another, cyclically), which is precisely the definition of a trace.
+
+# 3 Specializing to the QED vertex
+
+## 3.1 Γ=γ^μ
+
+For the QED vertex, Γ=γ^μ, and Γ̄=γ⁰(γ^μ)†γ⁰=γ^μ, using the gamma matrices' Hermiticity property already established in Lesson 20 (γ⁰ is Hermitian, γ^i is anti-Hermitian, and γ⁰(γ^μ)†γ⁰=γ^μ holds uniformly for all four values of μ). So Γ̄=Γ for the vertex itself: the vertex is, in this specific sense, self-adjoint.
+
+## 3.2 The building-block trace
+
+For two possibly different vertex indices μ, ν (as arise when an amplitude squared involves two copies of the same diagram contracted with different external polarization indices),
+
+$$ Σ_(s,s′) [ ū_s′(p′)γ^μu_s(p) ] [ ū_s′(p′)γ^νu_s(p) ]* = Tr [ γ^μ (p̸+m) γ^ν (p̸′+m) ]
+
+exactly the trace Lesson 20, Section 5, already evaluated explicitly as the "standard building block of QED cross sections," now derived from first principles as the specific spin sum this lesson produces, rather than an unmotivated example.
+
+### Worked example 3
+
+Using Lesson 20, Section 5's result, Tr[(p̸₁+m)γ^μ(p̸₂+m)γ^ν]=4[p₁^μp₂^ν−(p₁·p₂−m²)g^μν+p₁^νp₂^μ] (the explicit expansion carried out there), state what this gives for Section 3.2's trace with p₁→p, p₂→p′ after using the cyclicity of the trace to match the ordering. Cyclicity gives Tr[γ^μ(p̸+m)γ^ν(p̸′+m)]=Tr[(p̸′+m)γ^μ(p̸+m)γ^ν], matching Lesson 20's pattern with p₁→p′, p₂→p, so the result is 4[p′^μp^ν−(p′·p−m²)g^μν+p′^νp^μ], the explicit, fully evaluated building block ready to be contracted with polarization vectors or further traced against another such expression.
+
+# 4 Spin averaging in practice
+
+## 4.1 Combining Section 1's factor with Section 2's sum
+
+For a process with one unmeasured initial fermion and an unmeasured final fermion, the physically relevant, averaged-and-summed quantity is (1/2)Σ_(s,s′)|ℳ|², directly using Section 2.2's master formula for the sum and Section 1.2's factor of 1/2 for the average, giving (1/2)Tr[Γ(p̸+m)Γ̄(p̸′+m)] for the vertex piece of a larger calculation.
+
+## 4.2 Multiple vertices
+
+For a diagram with more than one vertex (such as Compton scattering, Lesson 49), the same master formula applies to the complete amplitude ℳ (built from multiple vertex factors and a propagator, as in Lesson 49, Section 2.3), not merely to a single vertex factor in isolation; Γ in Section 2's derivation stands for whatever combination of gamma matrices the full diagram produces between the initial and final spinors, propagator numerators included.
+
+### Worked example 4
+
+Explain why the master formula of Section 2.2 applies unchanged to a multi-vertex amplitude, without needing to be re-derived. Section 2's derivation used only that ℳ has the general form ū(p′)[Γ]u(p) for some matrix Γ sandwiched between the external electron spinors, with no assumption about how many vertices or propagators are packed inside Γ; Lesson 49's diagram, once its propagator has been substituted and simplified, has exactly this form, with Γ=γ^α[i(q̸+m)/(q²−m²+iε)]γ^β (up to overall constants), so the master formula applies directly.
+
+# 5 The photon polarization sum
+
+## 5.1 The honest sum
+
+Lesson 37 fixed Σ_λε_λ^i(k)ε_λ^j(k)=δ^ij−k̂^ik̂^j for the two physical, transverse polarization states of a photon of momentum k; summing |ℳ|² over an unmeasured final photon's polarization, or averaging over an unmeasured initial one, uses exactly this sum in place of the completeness relations of Section 2.
+
+## 5.2 The covariant replacement
+
+In practice, this course follows the standard convention of replacing
+
+$$ Σ_λ ε_λ^μ(k) ε_λ^ν(k) → − g^(μν)
+
+a covariant object with no reference to k̂ or the specific gauge, in place of the honest, Coulomb-gauge-specific transverse sum. This is a genuinely different object (Lesson 47, Section 4.2, computed the difference between the two explicitly, in the spatial-spatial block, as ik̂^ik̂^j after accounting for the propagator's overall i), and using it is only justified because the extra pieces it introduces are expected to vanish against the conserved currents attached at either end, the same physical argument sketched in Lesson 47, Section 4.3.
+
+## 5.3 What is and is not yet established
+
+This course has not yet proven that the replacement of Section 5.2 leaves every physical cross section unchanged; Lesson 47 gave a first, partial argument (current conservation kills terms proportional to k^μ), and this lesson uses the same replacement for external polarization sums as a working tool, on the same provisional basis. The complete proof, applicable to both propagators and external polarization sums together, is the content of Lesson 71's Ward identity.
+
+### Worked example 5
+
+State what would go wrong, in principle, if the covariant replacement were used without any justification at all, even a provisional one. Without some argument tying the replacement to gauge invariance and current conservation, there would be no reason to expect −g^μν, an object differing from the true polarization sum by k-dependent terms, to reproduce the correct, physical answer; the fact that it does is a nontrivial, checkable consequence of QED's gauge symmetry, not an algebraic identity, which is exactly why Lesson 71 devotes a full, careful treatment to proving it rather than leaving it as an assumed convenience.
+
+# 6 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used next |
+| Σ\|ūΓu\|²=Tr[Γ(p̸+m)Γ̄(p̸′+m)] | The general recipe applied to every fermion-line spin sum from Lesson 53 onward |
+| Γ̄=γ^μ for the QED vertex | Confirms the vertex trace matches Lesson 20's showcased building block exactly |
+| (1/2)Σ for one unmeasured initial spin | The statistical factor included in every unpolarized cross section in this course |
+| Σε^με^ν→−g^μν | Used for every external photon polarization sum from Lesson 53 onward |
+| Provisional justification, completed in Lesson 71 | Flags exactly what remains an open, honestly-stated gap until then |
+
+Lesson 52 now develops the kinematic language (Mandelstam variables) needed to express the traces of this lesson in terms of physical scattering angles and energies, and Lesson 53 puts every piece together for electron-muon scattering.
+
+# 7 Summary
+
+1. An unpolarized experiment sums |ℳ|² over unmeasured final spins and averages over unmeasured initial spins, with a factor of 1/2 per unmeasured initial fermion.
+
+2. Conjugating a spinor sandwich gives [ū(p′)Γu(p)]*=ū(p)Γ̄u(p′), with Γ̄=γ⁰Γ†γ⁰.
+
+3. Summing over both spins using the completeness relations of Lesson 21 gives the master formula Σ|ū(p′)Γu(p)|²=Tr[Γ(p̸+m)Γ̄(p̸′+m)].
+
+4. For the QED vertex, Γ=γ^μ, Γ̄=γ^μ, and the resulting trace matches Lesson 20's already-showcased building block exactly.
+
+5. The same master formula applies unchanged to a full, multi-vertex amplitude, with Γ standing for whatever combination of matrices the complete diagram produces.
+
+6. The honest photon polarization sum is Σε_λ^iε_λ^j=δ^ij−k̂^ik̂^j; in practice this course uses the covariant replacement Σε^με^ν→−g^μν, justified only provisionally until Lesson 71.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Explain, in your own words, the physical difference between an unmeasured final spin and an unprepared initial spin, and why this difference leads to summing in one case and averaging in the other. |
+| 2 | For a process with two unmeasured initial fermions and no measured final spins, state the overall spin-averaging-and-summing factor, generalizing Section 1.2. |
+| 3 | Derive Γ̄=γ⁰Γ†γ⁰ by conjugating ū(p′)Γu(p) explicitly, following every step of Section 2.1. |
+| 4 | Verify Γ̄=γ^μ for Γ=γ^μ using γ⁰(γ^μ)†γ⁰=γ^μ, and state which earlier lesson established this Hermiticity property. |
+| 5 | Compute Γ̄ for Γ=I (the identity matrix), and explain why the result is unsurprising. |
+| 6 | Write out Section 2.2's derivation with explicit spinor indices (a,b,c,d), showing how the two completeness relations collapse the double spin sum into a single trace. |
+| 7 | Explain, using Worked example 2, why the specific index-contraction pattern of Section 2.2 produces a trace and not, for instance, a product of two separate traces. |
+| 8 | State Lesson 20, Section 5's trace Tr[(p̸₁+m)γ^μ(p̸₂+m)γ^ν] and use trace cyclicity to match it to Section 3.2's Tr[γ^μ(p̸+m)γ^ν(p̸′+m)]. |
+| 9 | Using Worked example 3's explicit expansion, evaluate Section 3.2's trace for the specific case μ=ν (contracting the two vertex indices together, using g_μμ=4 for the trace of the metric with itself in four dimensions), and simplify the result. |
+| 10 | Explain why Worked example 4's argument shows the master formula applies to Compton scattering's full two-vertex amplitude (Lesson 49) without any new derivation. |
+| 11 | Restate the honest photon polarization sum Σ_λε_λ^iε_λ^j=δ^ij−k̂^ik̂^j from Lesson 37, and state which lesson first used it to build a propagator (rather than an external-line sum). |
+| 12 | State the covariant replacement Σε^με^ν→−g^μν, and explain, citing Lesson 47, Section 4.2, what specific k-dependent term is being dropped when this replacement is used in place of the honest sum. |
+| 13 | Explain, in one or two sentences, why the covariant replacement is described in this lesson as only "provisionally" justified, rather than proven. |
+| 14 | State which lesson (by number) supplies the missing proof referenced in Exercise 13, and name the identity it proves. |
+| 15 | Explain why a term in an amplitude proportional to k^μ (where k is a photon's momentum) is expected to vanish when contracted with the electron current at the vertex where that photon attaches, citing the specific earlier result this relies on. |
+| 16 | Challenge: using Section 4.1's factor of 1/2 for one unmeasured initial spin, and imagining a process with one unmeasured initial fermion, one unmeasured initial photon, and unmeasured final spins for both a final fermion and a final photon, write the complete spin-and-polarization-averaged-and-summed expression schematically, indicating which sums carry an averaging factor and which do not. |
+
+# Solutions
+
+**1.** An unmeasured final spin corresponds to several physically distinct, mutually exclusive final outcomes that a spin-blind detector cannot distinguish; since these are different possible results of the same experiment, their probabilities (each |ℳ|² for that specific outcome) are added, i.e. summed. An unprepared initial spin instead describes a single experimental setup in which the incoming particle is, with equal likelihood, in either spin state before the reaction even begins; this is a statistical mixture over the experiment's own preparation, correctly handled by averaging (equally weighting and dividing by the number of possibilities), not summing.
+
+**2.** With two unmeasured initial fermions and no final-spin measurement, the factor is (1/2)(1/2)Σ_(s₁,s₂)=(1/4)Σ_(s₁,s₂), one factor of 1/2 for each unmeasured initial spin, with no analogous factor for the (also unmeasured, but summed rather than averaged) final spins.
+
+**3.** [ū(p′)Γu(p)]†=u(p)†Γ†ū(p′)†. Since ū(p′)=u(p′)†γ⁰, ū(p′)†=(u(p′)†γ⁰)†=γ⁰†u(p′)=γ⁰u(p′) (using γ⁰†=γ⁰, Lesson 20's Hermiticity of γ⁰). So [ū(p′)Γu(p)]†=u(p)†Γ†γ⁰u(p′). Inserting I=γ⁰γ⁰ between u(p)† and Γ†γ⁰: u(p)†γ⁰γ⁰Γ†γ⁰u(p′)=[u(p)†γ⁰][γ⁰Γ†γ⁰]u(p′)=ū(p)Γ̄u(p′), with Γ̄=γ⁰Γ†γ⁰.
+
+**4.** Γ̄=γ⁰(γ^μ)†γ⁰. Lesson 20 established γ⁰(γ^μ)†γ⁰=γ^μ for all four values of μ (γ⁰ Hermitian, each γ^i anti-Hermitian, and the sandwich by γ⁰ converting the anti-Hermiticity into the same relation uniformly), so Γ̄=γ^μ=Γ.
+
+**5.** Ī=γ⁰I†γ⁰=γ⁰γ⁰=I (using I†=I trivially and γ⁰γ⁰=I from the Clifford algebra, Lesson 20). This is unsurprising because I commutes with everything and is manifestly Hermitian in every representation, so its Dirac adjoint, built from the same conjugation-and-sandwich recipe, returns I unchanged.
+
+**6.** Writing ū_s′(p′)Γu_s(p)=ū_s′_a(p′)Γ_ab u_s_b(p) and ū_s(p)Γ̄u_s′(p′)=ū_s_c(p)Γ̄_cd u_s′_d(p′) (spinor indices a,b,c,d), the product summed over s and s′ is Σ_(s,s′) ū_s′_a(p′)Γ_ab u_s_b(p) ū_s_c(p) Γ̄_cd u_s′_d(p′) = Γ_ab Γ̄_cd [Σ_s u_s_b(p)ū_s_c(p)][Σ_s′u_s′_d(p′)ū_s′_a(p′)] = Γ_ab Γ̄_cd (p̸+m)_bc (p̸′+m)_da, using the completeness relations to replace each spin sum by a single matrix.
+
+**7.** The final expression Γ_ab(p̸+m)_bcΓ̄_cd(p̸′+m)_da has its last index, d, matching the first index of the entire chain, a, exactly the closure condition that defines a trace (Tr[M]=M_aa, summed); had the indices instead paired off into two separate closed loops, the result would have factored into a product of two traces rather than one, but the specific alternating pattern of Γ and the completeness matrices here produces a single, unbroken chain.
+
+**8.** Lesson 20 gives Tr[(p̸₁+m)γ^μ(p̸₂+m)γ^ν]=4[p₁^μp₂^ν−(p₁·p₂−m²)g^μν+p₁^νp₂^μ]. Using cyclicity, Tr[γ^μ(p̸+m)γ^ν(p̸′+m)]=Tr[(p̸′+m)γ^μ(p̸+m)γ^ν] (cycling the last factor to the front), matching Lesson 20's pattern with p₁→p′, p₂→p.
+
+**9.** Setting ν=μ in Worked example 3's result and summing over μ (using g^μ_μ=4, Lesson 4/20's trace of the metric with itself): 4[p′^μp_μ−(p′·p−m²)g^μ_μ+p′^μp_μ]=4[p′·p−4(p′·p−m²)+p′·p]=4[2p′·p−4p′·p+4m²]=4[4m²−2p′·p]=16m²−8p′·p, the simplified, fully contracted result.
+
+**10.** Worked example 4 showed the master formula's derivation only assumed ℳ has the form ū(p′)[Γ]u(p) for some matrix Γ, with no restriction on Γ's internal structure; Lesson 49's Compton amplitude, iℳ=(ieγ^α)[propagator]γ^β)u(p) sandwiched with ū(p′), is already exactly of this form once the propagator's explicit matrix structure is substituted in, so no new derivation is needed to apply the master formula to it.
+
+**11.** Σ_λε_λ^i(k)ε_λ^j(k)=δ^ij−k̂^ik̂^j (Lesson 37); Lesson 47 was the first to use it in building a propagator, specifically the Coulomb-gauge photon propagator D_F^ij(k) of Lesson 47, Section 3.1.
+
+**12.** Σε^με^ν→−g^μν; Lesson 47, Section 4.2, computed that the spatial-spatial block of this covariant object, −g^ij=δ^ij, differs from the honest Coulomb-gauge sum δ^ij−k̂^ik̂^j by exactly k̂^ik̂^j, a term proportional to the photon's own momentum direction, which is what is being effectively dropped (or rather, added and relied upon to cancel elsewhere) when the covariant replacement is used.
+
+**13.** The replacement is called provisional because this course has, so far, only given a partial, qualitative argument (Lesson 47, Section 4.3) that terms proportional to k^μ vanish against a conserved current; that argument has not been shown to hold at the level of a complete, multi-vertex quantum amplitude, only for the classical current of Lesson 41, so the replacement's validity for actual scattering calculations remains asserted rather than proven at this point in the course.
+
+**14.** Lesson 71 supplies the missing proof, establishing the Ward identity, the precise statement that guarantees amplitudes built from ℒ_QED are insensitive to exactly this kind of k^μ-proportional ambiguity in the photon propagator or polarization sum.
+
+**15.** This relies on Lesson 41, Section 5.1's derivation of current conservation, ∂_μj^μ=0, which becomes k_μj^μ(k)=0 in momentum space; a term proportional to k^μ, contracted with such a current, gives zero by this relation directly, the same argument already given in Lesson 47, Section 4.3, for the propagator and extended here to the external polarization sum.
+
+**16.** Schematically, (1/2)Σ_(s) (1/2)Σ_λ Σ_(s′) Σ_λ′ |ℳ|², with a factor of 1/2 attached to each of the two unmeasured initial degrees of freedom (the initial fermion's spin s and the initial photon's polarization λ, both averaged), and plain, unweighted sums over the two unmeasured final degrees of freedom (the final fermion's spin s′ and the final photon's polarization λ′, both summed), with the fermion spin sums evaluated via Section 2's master formula and the photon polarization sums via Section 5's covariant replacement.
+
+# Mastery checklist
+
+- I can derive Γ̄=γ⁰Γ†γ⁰ and the conjugation identity for a spinor sandwich.
+
+- I can derive the master formula Σ|ūΓu|²=Tr[Γ(p̸+m)Γ̄(p̸′+m)] from the completeness relations.
+
+- I can specialize the master formula to the QED vertex and connect it to Lesson 20's showcased trace.
+
+- I can state and justify the spin-averaging factor for an unmeasured initial fermion.
+
+- I can state both the honest and covariant photon polarization sums, and explain what is and is not yet proven about the covariant one.
