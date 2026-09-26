@@ -10,7 +10,7 @@ No part of this book may be copied, stored, transmitted, photographed, scanned, 
 
 Reality Check (Sort Of)
 
-This is a work of fiction. The names, characters, businesses, places, events, and assorted chaos contained herein are either products of the author's imagination or have been shamelessly fictionalized.
+This is a work of fiction. The names, characters, businesses, places, events, and assorted chaos contained herein are either products of the author's imagination or have been shamelessly fictionalised.
 Any resemblance to actual persons, living or dead, actual events, or suspiciously familiar situations is probably not coincidental. In fact, if you see yourself in these pages, you may want to spend a few minutes reflecting on the life choices that brought you here.
 
 Copyright © 2026 Lothar J. Musiol. All rights reserved.
@@ -705,7 +705,7 @@ x' = γ (x - vt)
 t' = γ (t - vx/c²)
 "Don't narrate the symbols," Penny urged. "Plug the numbers in and see what breaks."
 x = γ (x' + v t')
-t = (t' + v x' / c²)
+t = γ (t' + v x' / c²)
 He stared at the symmetry for a moment. "Right. Experiment one."
 Trevor inspected the equations. "The Lorentz transformation."
 "Yes."
@@ -1091,7 +1091,7 @@ Penny replied:
 "Possibly."
 "A railway designation."
 "Maybe."
-"A lorry licence," Mrs Marsh offered, passing the open door without breaking stride. "LGV. Large Goods Vehicle. My nephew has one. Drives a very ordinary truck. Nothing gravitational about it." She left before anyone could ask why she knew that, or why the mysterious clock would need a heavy goods licence, which was, on reflection, no stranger a question than most of the others that week.
+"A lorry licence," Mrs Marsh offered, passing the open door without breaking stride. "LGV. Large Goods Vehicle. My nephew has one. Drives a very ordinary lorry. Nothing gravitational about it." She left before anyone could ask why she knew that, or why the mysterious clock would need a heavy goods licence, which was, on reflection, no stranger a question than most of the others that week.
 Trevor gazed at the silent clock face.
 "Could it mean Local Gravitational Vector?"
 Derek peered at him. Penny eyed him. Trevor shrugged. "What?"
@@ -1177,7 +1177,7 @@ His voice was unhurried and faintly accented, with a habit of dropping towards a
 He had once observed, forcefully and at some length, that a certain other physicist had also spent his most productive years examining patents in an office very much like this one, and that history had found this charming rather than suspicious. Nobody at the Bureau had found a tactful way to change the subject fast enough.
 The patent attorney was explaining a device intended to improve the efficiency of a mechanical regulator. Weinstein had been listening for approximately six minutes. He had understood the first two.
 The third had been optimistic. The fourth had involved a spring. The fifth had involved a spring behaving in a way Weinstein considered personally insulting.
-By the sixth minute, his mind had left the room, drifting toward the cold window. Munich was busy.
+By the sixth minute, his mind had left the room, drifting towards the cold window. Munich was busy.
 A tram rattled past. A cyclist narrowly avoided a delivery cart.
 Someone shouted at someone else.
 A dog had apparently decided that the entire afternoon belonged to it. Weinstein watched the movement for a while. Then his attention drifted to the silent clock.
@@ -1297,7 +1297,7 @@ Weinstein peered at the vivid photograph again.
 "Tomorrow."
 Weinstein faced Matkowski. "That's inconvenient."
 "I thought you'd say that."
-Weinstein turned the photograph toward the light. Then he noticed the clock. 11:03:17.
+Weinstein turned the photograph towards the light. Then he noticed the clock. 11:03:17.
 His expression changed. "Where did you get this?"
 "From the Bureau."
 "What Bureau?"
@@ -2701,8 +2701,7 @@ Derek shook his head.
 "I don't know."
 Weinstein approached. There was something beside the silent clock. A sheet of paper.
 He picked it up. Three coordinates were written on it.
-X = 3
-y = 4 z = 12
+x = 3,  y = 4,  z = 12
 Then:
 τ =? 
 Weinstein stared. Derek came closer.
@@ -4175,7 +4174,7 @@ Outside the glass, stopped clocks kept time with a moving tunnel. That was argum
 The idea was ridiculous. 
 Derek wrote in his notebook:
 TIME MAY BE THE THING THAT STOPS POETRY FROM BEING A FART
-Trevor leaned toward the notebook. "What are you writing?"
+Trevor leaned towards the notebook. "What are you writing?"
 "Physics."
 Trevor read it. "That's not physics."
 "It will be."
@@ -5204,7 +5203,7 @@ PLATFORM 7
 "There isn't a Platform Seven."
 Trevor examined the timetable. 
 "The early bird gets the warm," Trevor observed. 
-"The early bird gets the worm." Trevor nodded. "Yes. Obviously. I was testing the bird."
+"The early bird gets the worm." Penny corrected. Trevor nodded. "Yes. Obviously. I was testing the bird."
 "Excellent."
 "Why is that excellent?"
 "Because if there were a Platform Seven, this would be considerably less interesting."
@@ -6486,15 +6485,15 @@ Well. That's the problem.
 We haven't finished. 
 But the good news is that neither has the universe. Which is rather reassuring.
 GLOSSARY
-Andromeda Paradox. Penrose’s illustration that a small change of velocity on Earth can swing a distant “now”-slice across days on Andromeda. It is a statement about simultaneity for spacelike separation, not a method for sending news to Andromeda.
-Block Universe. The view that past, present, and future events are equally part of a four-dimensional whole. Relativity’s geometry is friendly to it; it is not a theorem that free will is a clerical error.
+Andromeda Paradox. Penrose's illustration that a small change of velocity on Earth can swing a distant "now"-slice across days on Andromeda. It is a statement about simultaneity for spacelike separation, not a method for sending news to Andromeda.
+Block Universe. The view that past, present, and future events are equally part of a four-dimensional whole. Relativity's geometry is friendly to it; it is not a theorem that free will is a clerical error.
 Causal Structure. The pattern of which events can influence which others, determined by spacetime's light cones and how they connect. Coordinate systems are negotiable; these causal relationships are not.
 Curvature. The departure of spacetime geometry from flatness, revealed by effects such as nearby freely falling objects accelerating relative to one another. Matter and energy influence curvature, but spacetime can be curved even in empty regions. No external dimension is required for it to bend into.
 Decoherence. The suppression of observable quantum interference as a system becomes entangled with its environment. It helps explain why everyday objects - including cucumbers - behave classically. By itself, it does not explain why a measurement yields one particular outcome.
 Einstein Equation. The central equation of general relativity, usually called the Einstein field equations. It relates spacetime curvature to the energy, momentum, and stresses of matter and fields. Matter influences geometry; geometry guides motion. The mathematics takes somewhat longer.
 Einstein Synchronisation. The convention that two distant clocks are set by assuming the one-way speed of light is the same in both directions. The two-way speed is measured; the one-way split is chosen.
 Equivalence Principle. In a sufficiently small, freely falling laboratory, nongravitational experiments behave as they would in an inertial laboratory without gravity. Over larger regions, tidal effects can reveal the difference. A foundation of general relativity, and the reason lifts feature so heavily in physics thought experiments.
-Event Coordinate. A name for where-and-when inside a chosen description of spacetime. Not proper time. A label, not a measurement of elapsed time along any particular clock’s path.
+Event Coordinate. A name for where-and-when inside a chosen description of spacetime. Not proper time. A label, not a measurement of elapsed time along any particular clock's path.
 Event Horizon. The boundary of a black hole's region of no escape: once inside, no future-directed signal can reach the distant exterior. Not light. Not a strongly worded letter.
 Geodesic. The straightest possible path in a given geometry. Ideal freely falling objects follow spacetime geodesics when no nongravitational forces act on them. 
 GPS Correction. The adjustment applied to satellite clocks for both special-relativistic slowing from orbital speed and general-relativistic speeding from weaker gravity. Both effects are real, and they point in opposite directions; skipping either term produces a map that lies.
@@ -6504,10 +6503,10 @@ Light Cone. The boundary between lightlike directions and the timelike or spacel
 Lorentz Transformation. A transformation relating space and time coordinates in inertial frames while preserving the spacetime interval. Transformations between frames in relative motion underpin time dilation, length contraction, and the relativity of simultaneity.
 Manifold. A space that can be described in small patches using ordinary coordinates, even when its overall shape or connectivity is more complicated. Earth's surface is a familiar example. A manifold provides the underlying space; a metric supplies its geometry.
 Metric. The mathematical object that determines local spacetime intervals and allows lengths and elapsed times to be calculated along paths. Its components depend on the coordinates chosen. Complicated coordinates can make even flat spacetime look mathematically unwelcoming.
-Pending Geometry. The Bureau’s filing category for an event that looks like a crime only if you insist on a shared, universal “now.” Not a punchline: the correct drawer for a coordinate label mistaken for a corpse.
+Pending Geometry. The Bureau's filing category for an event that looks like a crime only if you insist on a shared, universal "now." Not a punchline: the correct drawer for a coordinate label mistaken for a corpse.
 Pound–Rebka Experiment. A 1960 measurement of gravitational redshift over 22.5 metres of a tower at Harvard. Honest clocks, a small height difference, and a real, measurable disagreement.
 Proper Time. The elapsed time measured by an ideal clock along its own path through spacetime. Observers may use different coordinates, but they agree on what that clock records between two events on its path.
-Reference Frame. A systematic way of assigning coordinates to events, usually tied to an observer’s state of motion. An inertial frame is one in which free objects keep constant velocity.
+Reference Frame. A systematic way of assigning coordinates to events, usually tied to an observer's state of motion. An inertial frame is one in which free objects keep constant velocity.
 Simultaneity. The assignment of the same time to different events. Spatially separated events that are simultaneous in one inertial frame need not be simultaneous in another. Neither frame is mistaken; their definitions of "now" differ.
 Singularity. A breakdown or incompleteness of the classical spacetime description, often associated with unbounded curvature. Technically, a key sign is a freely falling or lightlike path that cannot be continued despite reaching its end in a finite path parameter. A singularity need not be an ordinary point within spacetime. The map itself has run out.
 Spacetime Interval. The invariant combination of spatial and temporal separation. In special relativity, inertial observers agree on it even when they disagree about distance and duration separately. In curved spacetime, the metric defines the corresponding local interval between infinitesimally nearby events.
