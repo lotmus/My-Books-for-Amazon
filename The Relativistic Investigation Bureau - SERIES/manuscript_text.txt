@@ -52,7 +52,7 @@ Chapter 9 - Appendix - Relativistic Travel
 Chapter 10 - Appendix - The Cucumber
 Chapter 11 - Appendix - The Hologram
 Chapter 12 - Appendix - Not Actually a Multiverse
-Chapter 13 - Appendix - Curved Corridors and Tidal Gravity
+Chapter 13 - Appendix - Curved Corridors and Tides
 Chapter 14 - Appendix - The Train Arrived Before It Left
 Chapter 15 - Appendix - The Dolphin and the Final Geometry
 Chapter 16 - Appendix - Capstone: The Clock Was Lying
@@ -4821,7 +4821,7 @@ She put the phone away for good this time, and thought about the Bureau, the clo
 Derek replied: Now you're talking.
 Penny smiled, put the phone away, and let the rest of the film wash over her with the specific satisfaction of someone who had just done more useful physics than the man who'd driven her out of the office to do it.
 Rule: If everything happens everywhere, measure what must still agree.
--> Lesson for this chapter: 13 - Curved Corridors and Tidal Gravity
+-> Lesson for this chapter: 13 - Curved Corridors and Tides
 Chapter 14
 The Station Wasn't Quite There
 The air had the particular cold of somewhere that had never been heated because no one had ever officially arrived to complain about it. A strip-light flickered two floors up, keeping to its own private clock - on, off, on - out of time with the others. It smelled, faintly and wrongly, of hot brake dust and cold stone at once - a smell that belonged to two different kinds of weather that had never met anywhere else. The first thing Derek noticed was that the gloomy station had twelve doors. The second thing he noticed was that it had thirteen. The third thing he noticed was that Trevor was counting them.
@@ -6286,7 +6286,7 @@ No.
 
 
 Lesson 13
-Curved Corridors and Tidal Gravity
+Curved Corridors and Tides
 Module D · Dual Descriptions
 Case link: Chapter 14
 Learning objective: Recognise curvature via tidal effects / relative free-fall paths, not via a single 'downward force.'
