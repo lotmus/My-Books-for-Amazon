@@ -135,8 +135,16 @@ Beats: Darwin's idea as a "universal acid" that eats through every container; cr
 
 ---
 
-## Housekeeping noticed while planning (not changed)
+## Housekeeping noticed while planning (fixed 2026-09-25/26, see below)
 
-- Chapter 30's text still contains raw citation markers ("citeturn0search4" and similar) in six places.
-- Chapters 5, 23, 24, 26, 28 and 29 write book titles with literal asterisks instead of italics.
-- Chapters 3 and 5 use a slightly different Heading 1 spacing from the other eight files.
+- ~~Chapter 30's text still contains raw citation markers ("citeturn0search4" and similar) in six places.~~ Fixed during the gentle-for-beginners rewrite (2026-09-26): all citation markers removed.
+- ~~Chapters 5, 23, 24, 26, 28 and 29 write book titles with literal asterisks instead of italics.~~ Fixed the same way: every chapter now uses real italics (`*Title*`) for book titles.
+- ~~Chapters 3 and 5 use a slightly different Heading 1 spacing from the other eight files.~~ Fixed when the headline restyle (2026-09-25) unified every chapter's Title/Heading1 rPr to the same Amazon Ember / bold / blue 0000FF / 18pt block.
+
+## Headline styling (2026-09-25)
+
+Every "Chapter N" line, chapter title, and section heading across all 31 files (plus the merged manuscript's Title and Contents Part labels) now render Amazon Ember, 18pt, bold, centered, in blue `#0000FF` (Lothar's supplied swatch). Rebuild script: `restyle_headlines.py` (patches each chapter's styles.xml) — already applied; rerun only if a new chapter file is added later without it.
+
+## Gentle-for-beginners rewrite (2026-09-25/26)
+
+Per Lothar's standing instruction ("make sure the book really goes very gentle on the clueless reader... apply it to all chapters"), every one of the 31 chapters was rewritten against `00 - Voice and Accessibility Guide.md` (ten concrete rules: define every term inline, one idea per sentence with average length 9-15 words, felt comparisons for big numbers, gentle name-tags for people, light non-load-bearing cross-references, no jokes that need outside knowledge). Verified programmatically: all 31 chapters pass avg sentence length ≤15 words and fewer than 15% of sentences over 22 words. This guide is now a standing rule — apply it to any future chapter too, not just a one-time pass.
