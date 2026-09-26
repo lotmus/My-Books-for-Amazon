@@ -5791,6 +5791,15 @@ From Trevor's point of view, standing on the platform, the light doesn't simply 
 Here is the part that actually causes the trouble. The speed of light does not change for Trevor either. 
 Longer path, same speed, more time. That is the whole derivation. One tick of the train's clock, measured from the platform, simply takes longer than one tick measured on the train. 
 Do the geometry properly - a right triangle, Pythagoras, nothing worse - and out drops exactly the same γ you are about to meet properly in the next chapter, without asking anyone to take the mathematics on faith.
+Call one round trip of the train's own clock Δτ - proper time, measured by the clock that is actually there. With the mirrors a distance L apart, light covers 2L each tick, so:
+Δτ = 2L / c
+From the platform, that same tick takes longer - call it Δt - because the photon travels the diagonal, not the vertical. Halfway through that diagonal, the train has advanced by vΔt/2, while the photon has still only climbed a height of L. Pythagoras supplies the hypotenuse:
+(cΔt/2)² = L² + (vΔt/2)²
+Substitute L = cΔτ/2, clear the fractions, and rearrange:
+Δt = Δτ / √(1 - v²/c²)
+Which is to say, Δt = γΔτ, where:
+γ = 1 / √(1 - v²/c²)
+One geometric fact - light does not speed up just because you are already moving - and Pythagoras does the rest. Nobody had to take γ's word for it.
 
 The photon takes a longer path in the clock but still travels at speed c - so the tick takes longer.
 This is why time dilation is not a story about clocks getting confused. It is what geometry does when one side of the triangle refuses to change length no matter how fast you are moving.
