@@ -118,7 +118,7 @@ PRODUCTION NOTES
   first; reveal title and cover only at the very end, right before
   "link in bio." The algorithm rewards watch-through, not brand recall.
 
-- The demos/ site (github.com/lotmus/relativistic, sr-simultaneity.html
+- The demos site (github.com/lotmus/relativistic-site, sr-simultaneity.html
   in particular) makes a strong second video: screen-record the slider
   moving and voice over "this is an actual real physics demo from the
   book's companion site — drag one number and watch 'now' stop meaning
