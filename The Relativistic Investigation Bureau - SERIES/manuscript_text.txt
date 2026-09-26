@@ -267,11 +267,9 @@ Trevor considered this. "That seems like a very convenient rule."
 Trevor, carefully not looking at either of them, zoomed the image. "There's something on the desk."
 Derek peered at the screen. A small, silent brass railway clock stood beside the computer, looking entirely ordinary and entirely wrong, which was, in Derek's experience, the most dangerous combination. He had the sudden, unwelcome sense that the clock had been waiting for him.
 "Fair enough."
-Penny examined him. "Yes, you do."
+Penny examined him. "You don't recognise it?"
 "No."
-"You bought it last Thursday."
-"I did?"
-"You described it as historically significant."
+"Neither do I. Not from anywhere real."
 "What is it?"
 "An old railway clock."
 Derek looked again. The old clock showed 11:03. 
@@ -926,7 +924,7 @@ Nobody spoke. Trevor's tea went cold in his hand and he didn't notice, which was
 Penny met Derek's gaze, one eyebrow already halfway towards the ceiling. "Here?"
 "I believe so."
 Derek took the phone back. "Alfred, are you sure?"
-"I am very old, Mr Gent, but I am not senile."
+"I am old enough to know my own memory, Mr Gent, but I am not senile."
 "I didn't mean - "
 "I know what you meant."
 A pause. Then Weinstein affirmed:
@@ -3651,7 +3649,7 @@ Weinstein did not look reassured. Pending Geometry was already three drawers dee
 Mrs Marsh appeared at the end of the platform as if she had always been part of the architecture. "If that is a hole, it is not one of mine. Pending Geometry is not a joke drawer either. Stamp it properly, or stop inventing Murder."
 She indicated a small official sticker on a nearby pillar. "No unauthorised singularities." 
 Derek found himself almost respecting the sticker. It had the finality of a stamped refusal.
-A tabloid, later that week, ran a headline asking whether a footbridge near Vauxhall might be an actual Einstein-Rosen bridge, on the grounds that a local resident had crossed it and sworn he'd arrived twenty minutes earlier than physically possible, which turned out on investigation to mean his watch had stopped. Weinstein, faxed a copy by someone at the Bureau who thought he'd enjoy it, did not enjoy it. He observed that holding an Einstein-Rosen bridge open long enough for anyone to cross it - alien, human, or otherwise - required exotic matter with negative energy density, a substance London Transport had not yet applied to a footbridge over the Thames, chiefly because nobody had worked out how to fund it and it would still need a health and safety inspection. "If aliens are coming," he pronounced, "they are not coming via Vauxhall. Standards would not permit it."
+A tabloid, later that week, ran a headline asking whether a footbridge near Vauxhall might be an actual Einstein-Rosen bridge, on the grounds that a local resident had crossed it and sworn he'd arrived twenty minutes earlier than physically possible, which turned out on investigation to mean his watch had stopped. Weinstein, faxed a copy by someone at the Bureau who thought he'd enjoy it, did not enjoy it. He observed that holding a traversable wormhole open long enough for anyone to cross it - alien, human, or otherwise - required exotic matter with negative energy density, a substance London Transport had not yet applied to a footbridge over the Thames, chiefly because nobody had worked out how to fund it and it would still need a health and safety inspection. "If aliens are coming," he pronounced, "they are not coming via Vauxhall. Standards would not permit it."
 On the windowsill sat a white mug. It was the same mug that had been in the office that morning, except that it was now empty when it should have been half full, and the tea stain inside had moved three centimetres to the left. 
 No one commented. 
 In the Bureau, objects that quietly disagreed with themselves were considered ordinary until they filed a complaint.
@@ -3714,7 +3712,7 @@ Trevor had suddenly appeared beside him.
 "Where's Penny?"
 "Virtuality."
 Trevor dipped his head. "Right."
-Trevor's phone buzzed. He looked at it, sighed in the specific way reserved for one contact only, and put it face-down on the desk without answering.
+Trevor's phone buzzed. He glanced at the screen, exhaled slowly, and put it face-down on the desk without answering. Only one contact got that reaction.
 Derek raised an eyebrow. "Tabitha?"
 "Tabitha."
 "You never pick up."
@@ -3754,7 +3752,7 @@ Penny waited until the door closed. Then smiled.
 The Bureau was a peculiar place. 
 Derek returned twenty minutes later. He walked through the front door carrying a wet umbrella.
 Penny glanced up. "Where have you been?"
-"Underground."
+"Underground. Second look at Thursday's platform."
 "Did you find anything?"
 "Yes."
 "What?"
@@ -3763,7 +3761,7 @@ Penny waited.
 "Anything else?"
 "Yes."
 "What?"
-"It was falling upward."
+"It was falling upward. Same as Thursday."
 Penny conceded. "There. Sorted."
 Derek took off his coat. "Exactly."
 He put the umbrella in the stand. "Except I don't know whether the rain was falling upward."
@@ -4802,7 +4800,7 @@ What was unusual was the film she chose: Everything Everywhere All at Once. She 
 It wasn't trying to answer that. But the underlying idea was strangely familiar - different histories, different outcomes, a universe in which one thing happened and another in which it didn't. She thought about Derek, the clock, the distant train that existed in one description of reality and not in another. If spacetime itself could be emergent, what exactly did it mean for there to be one universe?
 The film's multiverse wasn't the same thing as the multiverse physicists sometimes discuss, but it was useful as an intuition pump. Suppose reality could be described many different ways; suppose other histories existed in some mathematical sense. Then what was fundamental - the particular history, the collection of histories, or the mathematical structure connecting them? Penny thought about holography: if a higher-dimensional gravitational description could be equivalent to a lower-dimensional quantum description, then two apparently different descriptions could still be one underlying physics. "Now we're getting somewhere," she murmured. On screen, Jamie Lee Curtis did something completely unreasonable. "Twelve franchises," Penny observed, "and she still hasn't died for good." A woman sitting several seats away glanced at her. Penny lowered her voice. "This is actually rather relevant." The woman shuffled discreetly further away.
 Something about the film's constant world-hopping bothered her, and it wasn't the physics - it was the logic. If every possible version of a person existed, what distinguished one from another? Their history. Their state. Their relationships. Their information. Investigate descriptions, not clocks - clocks were how the Bureau had got lost. A clock had a state. An ordinary cucumber had a state. A person had a state. A train had a state. Perhaps the geometry of spacetime itself emerged from relationships between quantum states. She texted Alfred: Holography: information on boundary -> bulk geometry? - then read it back and deleted it, since it had sounded profound for exactly four seconds before revealing itself as nonsense.
-That was also, she realised, the flaw in the film's own multiverse: it needed every branch to stay crisp and separately visible, universes stacked like drawers you could simply open the wrong one of. Real physics was ruder than that. A superposition - a cucumber genuinely being in two places, two states, at once - didn't survive contact with its surroundings for longer than an embarrassingly short time; the moment it brushed against air, light, a countertop, or Trevor's opinions, the different possibilities smeared their interference out across the environment and stopped talking to each other, a process physicists called decoherence. It wasn't that the other branches stopped existing mathematically. It was that once a cucumber became entangled with everything around it, asking which branch you were in stopped being a question with an answer worth having. That, Penny suspected, was also why nobody had ever caught the Bureau's brass clock mid-superposition, dead and standing at once, in a photograph that held still long enough to argue with. By the time light left it and reached a camera, the argument was already over.
+That was also, she realised, the flaw in the film's own multiverse: it needed every branch to stay crisp and separately visible, universes stacked like drawers you could simply open the wrong one of. Real physics was ruder than that. A superposition - a cucumber described by two states at once, not literally sitting in two places simultaneously - didn't survive contact with its surroundings for longer than an embarrassingly short time; the moment it brushed against air, light, a countertop, or Trevor's opinions, the different possibilities smeared their interference out across the environment and stopped talking to each other, a process physicists called decoherence. It wasn't that the other branches stopped existing mathematically. It was that once a cucumber became entangled with everything around it, asking which branch you were in stopped being a question with an answer worth having. That, Penny suspected, was also why nobody had ever caught the Bureau's brass clock mid-superposition, dead and standing at once, in a photograph that held still long enough to argue with. By the time light left it and reached a camera, the argument was already over.
 The characters weren't merely travelling through space; they were switching between descriptions of reality, and the important thing wasn't that they moved between physical universes but that the information defining the character changed - different memories, different relationships, different histories, same person.
 Penny thought about worldlines. A worldline was a history through spacetime, but if spacetime itself was emergent, perhaps worldlines were emergent too - which would mean Derek wasn't fundamentally a line through spacetime, but a particular physical state embedded in a network of relationships, with his apparent history just one way of describing it.
 "That explains the other Derek." Then, frowning: "No, it doesn't." If Derek was a state rather than a line, nothing in the mathematics said there could only be one of him. Two identical states, two separate histories, no contradiction anywhere in the equations. That was the trouble with elegant explanations - they had an alarming tendency to explain slightly too much.
@@ -5371,7 +5369,7 @@ She smiled. "I was afraid of that."
 Derek discovered he was not entirely sorry. The realisation that he was more comfortable with her presence than without it was, he concluded, going to be a problem for another day - preferably one that had not yet been invented. 
 He filed this under Processed as well, from long habit, before noticing that the drawer no longer seemed to close properly. It occurred to him, distantly, that some cases got reopened not because new evidence arrived, but because someone finally looked at the label twice.
 He suspected it would not remain someone else's for long. 
-Trevor, for his part, had gone quiet for a while in the specific way that meant he was recalculating several assumptions at once. "Why possibly?"
+Trevor, for his part, had gone quiet for a while, plainly recalculating several assumptions at once. "Why possibly?"
 "Because we've only observed a difference in clock readings. We still need to understand the geometry of the situation."
 Trevor said nothing. He wrote it down instead.
 Penny indicated the tunnel. "The train is coming back."
@@ -5471,7 +5469,6 @@ RELATIVITY PROVED RIGHT
 Penny laughed. "That's more like it."
 Derek turned the page again. A third headline:
 RELATIVITY PROVED BOTH
-RELATIVITY PROVED BOTH
 Trevor went very still. "That's impossible."
 Derek didn't even blink. "No."
 Trevor waited. Derek smiled. "No. It's journalism."
@@ -5523,7 +5520,7 @@ Penny didn't sit. She watched the window instead, where London went past in the 
 "Are we still counting doors?" Trevor asked.
 "No," said Derek. "We're counting whether we get off."
 Nobody answered that, on the grounds that it wasn't actually a question.
-The doors opened again before any of them had decided the journey was over. Grey London daylight. The particular smell of instant coffee and old carpet. Trevor looked out and recognised, with the specific vertigo of a man meeting his own front door from the wrong side of it, the corridor outside the Bureau.
+The doors opened again before any of them had decided the journey was over. Grey London daylight. The particular smell of instant coffee and old carpet. Trevor looked out and recognised the corridor outside the Bureau, with the lurch of meeting his own front door from the wrong side of it.
 "That's our corridor," he said.
 "Yes," Derek agreed, stepping off.
 "We didn't go anywhere."
@@ -5787,7 +5784,7 @@ This is the same idea as the invariant spacetime interval you are about to meet 
 Chapter 7, wearing a different coat. Proper time, like ordinary distance, depends on the path you actually take. 
 Drive the direct road between two towns and you burn less petrol than the driver who takes the scenic route, even though both of you started and finished in the same two places. 
 Nobody finds that paradoxical. 
-The twin paradox is exactly this, except the odometer is a wristwatch and the scenic route is nearly the speed of light. 
+The twin paradox runs on the same idea, but backwards: it's the scenic-route twin - the one who peels off toward the speed of light and comes back - who logs the fewer years, the way the direct-road driver logs the less petrol. The twin who stays on the direct, unaccelerated road through spacetime is the one who arrives having racked up more time, not less. 
 Workshop result: proper time depends on the path taken. 
 
 The same idea reappears as the invariant interval in Lesson 2, and as the other Derek problem in the novel. 
@@ -5840,7 +5837,7 @@ This is why time dilation is not a story about clocks getting confused. It is wh
 → Glossary: Time Dilation
 None of this is hypothetical. 
 The satellites that make a phone's map work are moving fast enough, and sitting high enough out of Earth's gravity well, that both effects discussed in this book - Special Relativity's time dilation from speed, and General Relativity's time dilation from gravity - apply to their onboard clocks simultaneously, pulling in opposite directions. 
-Engineers correct for it deliberately, every single day, or a phone's position would drift by several kilometres within hours. The Bureau finds this less remarkable than most people do. The Bureau finds most things less remarkable than most people do.
+Engineers correct for it deliberately, every single day, or a phone's position would drift by several kilometres a day. The Bureau finds this less remarkable than most people do. The Bureau finds most things less remarkable than most people do.
 The Bureau's brass clock is not a satellite. It is doing a ruder job: displaying a label as if it were a tick.
 
 Lesson checkpoint
@@ -5879,7 +5876,7 @@ s² = c²Δt² - Δx²
 Here Δt is the time between the two events, and Δx is their separation in space. All inertial observers calculate the same value of s² for the same pair of events, provided they use the same sign convention.
 The individual space and time measurements can change. This combination stays the same.
 s² is what stays the same when the stationery changes. Case 1047 kept rewriting its fields because the Bureau was editing labels and calling the edits news. The interval does not care which drawer you stamp.
-This chapter uses the timelike-positive convention. A later chapter uses the equally valid mostly-plus convention.
+This chapter uses the timelike-positive convention - one of two equally valid ways to assign plus and minus signs to space and time in the interval formula. A later chapter uses the equally valid mostly-plus convention, where those signs are simply flipped throughout.
 
 
 The first major lesson of relativity is this: 
@@ -5916,7 +5913,7 @@ Gravitational fields affect the rate at which clocks run relative to one another
 A strange clock deeper in a gravitational field can accumulate less proper time than one farther away. So, clocks do not merely measure some universal substance called Time. 
 They measure something associated with their physical histories.
 But notice what kind of claim that is. Relativity denies a single shared now across the universe. That part is mainstream, uncontested physics, settled since 1905. Barbarian is reaching for something further along the same road, and the two should not be filed under the same drawer.
-His actual claim, made properly rather than over tea: a clock does not measure a flowing substance called time. It compares one physical process against another - the swing of a pendulum against the turn of the Earth, the tick of a balance wheel against the fall of an apple. Take away every process in the universe, and there is nothing left over called "time" for a lone clock to still be measuring.
+His actual claim, spelled out in full, not the tea-time version: a clock does not measure a flowing substance called time. It compares one physical process against another - the swing of a pendulum against the turn of the Earth, the tick of a balance wheel against the fall of an apple. Take away every process in the universe, and there is nothing left over called "time" for a lone clock to still be measuring.
 That is why, in Chapter 5, he does not answer Derek's question about the apple with a clock. He answers it with a second configuration. Two arrangements of the same table, and a relationship between them - not because he is being difficult, but because on his account that relationship is the only thing that was ever there. Call each arrangement a Now. On the relational view, reality is not a river of such moments; it is closer to a vast collection of them, most bearing no special relationship to their neighbours - a landscape, not a timeline.
 If that is right, an honest question follows immediately: why does it feel like a river at all? Barbarian's answer is not that your memories are lies. It is that some configurations happen to contain something that looks exactly like a record of others - a photograph, a scar, a notebook Sophie kept for seventeen weeks. A configuration rich in such records is experienced as a moment with a past, whether or not anything actually flowed to get there. The Bureau, of all institutions, should recognise the danger in that: a record that looks like memory and a record that looks like evidence file the same way. Case 1047 opened because a filing system trusted a record over the geometry it was supposedly reporting on. Barbarian would say that was the mistake, not the murder.
 None of this is settled physics the way proper time is settled physics. It is a live, disputed research programme, not a conclusion in a textbook. But the core move - stop assuming a flowing background and start asking what the honest relationships between configurations actually are - is the same move Special and General Relativity already made once. Barbarian just made it twice.
@@ -5924,7 +5921,7 @@ Unfortunately, he also has an alarming tendency to explain it while eating biscu
 Lesson checkpoint
 Relativity removes universal Newtonian time; each clock measures proper time along its own worldline.
 1. Each observer measures the other's moving clock as ticking slower - a relationship between frames, not one clock being objectively slow.
-2. A clock at lower gravity, e.g. on an aeroplane at 10 km flight height, gains compared to a clock on the ground.
+2. A clock at lower gravity, e.g. on an aeroplane at 10 km flight height, gains compared to a clock on the ground - though its own speed cuts into that gain; the net result depends on both.
 3. Relativity's "no universal now" and Barbarian's "time is not fundamental" are different claims - the first is settled physics, the second is a live research programme.
 
 <- Chapter for this lesson: Chapter 4
@@ -5963,7 +5960,7 @@ That difference is the tell, and it has a name: a tidal effect. Locally - in a l
 → Glossary: Tidal Force
 This is why General Relativity cannot simply be "acceleration, but everywhere." A single accelerating frame can cancel gravity inside one small lift. No single frame cancels it in every lift on Earth at once, because the leftover - what no accelerating frame can absorb - is the actual curvature of spacetime. Chapter 14 puts Derek in a corridor built entirely out of that leftover: two clocks agreeing perfectly nearby and disagreeing badly forty-seven metres away, for exactly this reason.
 → Glossary: Curvature
-Pound and Rebka, 1960, Harvard. A gamma-ray source and an absorber separated by 22.5 metres of tower. The frequency shift matched gravitational time dilation to about one percent. Height is cheap. Disagreement between honest clocks is not. The Bureau's anomaly is larger than a tower. That is the interesting part, not a licence to invent a new theory before lunch.
+Pound and Rebka, 1960, Harvard. A gamma-ray source and an absorber separated by 22.5 metres of tower. The frequency shift matched gravitational time dilation to about ten percent. Height is cheap. Disagreement between honest clocks is not. The Bureau's anomaly is larger than a tower. That is the interesting part, not a licence to invent a new theory before lunch.
 
   
 
@@ -6055,7 +6052,6 @@ a one-way refusal to let certain paths return (white-hole-like), and
 a shortcut that should not exist (wormhole-like). 
 The Bureau's official position is that the Underground is merely having a bad day.
 
-A singularity is not merely a region where gravity happens to be extremely strong.
 
 
 Exit Form
@@ -6397,7 +6393,7 @@ Lesson 15
 The Dolphin and Final Geometry
 Module E · Causality & Capstone
 Case link: Chapter 16
-Learning objective: State what Einstein's equation relates (geometry ↔ matter-energy) at the level of ideas, not tensor drills.
+Learning objective: State what Einstein's equation relates (geometry ↔ matter-energy), with just enough tensor vocabulary to read the equation, not to compute with it.
 → Glossary: Einstein Equation · Tensor
 
 The Einstein field equation as a loop: matter tells spacetime how to curve, and spacetime tells matter how to move.
@@ -6432,7 +6428,7 @@ Then come the curvature tensors - refined and packaged for the field equation as
 That would be charming but mathematically inadequate. Curvature has structure. It can differ in different directions.
 It can affect neighbouring paths differently. It can produce tidal effects. Tensors are the machinery that lets us describe all of this without losing the physics every time somebody changes coordinates.
 → Glossary: Tidal Force
-The Einstein field equation answers, in compressed mathematical form, how the geometry of spacetime is related to the distribution of matter and energy: Gμν + Λgμν = 8πG/c⁴ Tμν. 
+The Einstein field equation answers, in compressed mathematical form, how the geometry of spacetime is related to the distribution of matter and energy: Gμν + Λgμν = 8πG/c⁴ Tμν, where Λ is the cosmological constant, accounting for the universe's own accelerating expansion. 
 
 Or, as Derek would put it:
 "Matter tells spacetime how to curve, and spacetime tells matter how to behave."
