@@ -17,6 +17,7 @@ Copyright © 2026 Lothar J. Musiol. All rights reserved.
 
 
 Table of Contents
+Author's Note
 How to Read This Book
 PROLOGUE
 Chapter 1 - The Surprise in the Morning
@@ -6298,12 +6299,12 @@ This is what makes tensors so useful in General Relativity. They allow relations
 As Chapter 15 puts it, a tensor is what happens when a vector gets promoted and starts having opinions about several directions at once.
 Penny sympathises. She came to the cinema with one opinion about Derek and now has several.
 For the investigation, keep four things:
-1.	The film's multiverse is a metaphor. Do not cite Marvel in an exam.
-2.	Different descriptions can preserve the same physical content. Coordinate changes and theoretical dualities illustrate this in different ways; they are not the same operation.
-3.	An observable need not be invariant. Measurements can depend on the observer, while valid descriptions remain consistent about what a given experiment will show.
+1. The film's multiverse is a metaphor. Do not cite Marvel in an exam.
+2. Different descriptions can preserve the same physical content. Coordinate changes and theoretical dualities illustrate this in different ways; they are not the same operation.
+3. An observable need not be invariant. Measurements can depend on the observer, while valid descriptions remain consistent about what a given experiment will show.
+4. Tensors give that consistency mathematical form. Their components transform; the physical relationships they express survive.
 <- Chapter for this lesson: Chapter 13
 
-4.	Tensors give that consistency mathematical form. Their components transform; the physical relationships they express survive.
 Penny's question - what if the natural story is only one description - is allowed as a question. It does not license a multiverse as Case 1047's murderer. The invariant interval is still the interval. The film is still a film.
 The larger questions can wait for the dolphin.
 For now, the clock still reads 11:17, Derek is still annoyingly correct, and Jamie Lee Curtis has once again survived in accordance with the previously established Law of Conservation of Actresses.
