@@ -54,7 +54,7 @@ Chapter 11 - Appendix - The Hologram
 Chapter 12 - Appendix - Not Actually a Multiverse
 Chapter 13 - Appendix - Curved Corridors and Tides
 Chapter 14 - Appendix - The Train Arrived Before It Left
-Chapter 15 - Appendix - The Dolphin and the Final Geometry
+Chapter 15 - Appendix - The Dolphin and Final Geometry
 Chapter 16 - Appendix - Capstone: The Clock Was Lying
 SUMMARY
 GLOSSARY
@@ -5522,7 +5522,7 @@ According to the railway timetable, it had never existed. Which, Derek thought, 
 
 Rule: Stop asking when. Ask which action finishes the filing.
 
--> Lesson for this chapter: 15 - The Dolphin and the Final Geometry
+-> Lesson for this chapter: 15 - The Dolphin and Final Geometry
 Chapter 16
 Sherlock and the Final Geometry
 Weinstein was having a perfectly ordinary morning. This meant, naturally, that the universe was about to become ridiculous. He was sitting in his quiet office in Munich, staring at a sheet of paper on which he had written the same equation three times.
@@ -6354,7 +6354,7 @@ No.
 
 
 Lesson 15
-The Dolphin and the Final Geometry
+The Dolphin and Final Geometry
 Module E · Causality & Capstone
 Case link: Chapter 16
 Learning objective: State what Einstein's equation relates (geometry ↔ matter-energy) at the level of ideas, not tensor drills.
