@@ -90,9 +90,11 @@ zip. Hard-won rules:
 
 ## 4. Project facts
 
-- **The .docx is the deliverable.** The EPUB and PDF are derived and go stale
-  silently — the shipped EPUB once contained every error already fixed in the
-  manuscript. Rebuild or flag them after any content change.
+- **The .docx is the only deliverable. Do not build or rebuild EPUB or PDF, and
+  do not offer to.** This is settled; treat it as standing.
+- The `.epub` and `.pdf` files sitting beside the manuscripts are **stale and
+  superseded** — they predate corrections that are in the .docx. Leave them
+  alone, and do not publish from them.
 - **Sessions are scoped per volume.** Do not edit other volumes unless asked.
 - **Several sessions edit this repo concurrently.** Re-read the file and the git
   log before writing; do not trust a status snapshot from the start of a
