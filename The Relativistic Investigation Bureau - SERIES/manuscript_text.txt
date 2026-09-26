@@ -39,7 +39,7 @@ Chapter 16 - Sherlock and the Final Geometry
 EPILOGUE
 COURSE - Spacetime for Investigators
 Syllabus Map
-Preparatory Workshop - The Twin Paradox
+WORKSHOP - The Twin Paradox
 Chapter 1 - Appendix - Special Relativity Is Rude
 Chapter 2 - Appendix - Lorentz Finally Gets Involved
 Chapter 3 - Appendix - Time May Be Less Fundamental
@@ -59,9 +59,9 @@ Chapter 16 - Appendix - Capstone: The Clock Was Lying
 SUMMARY
 GLOSSARY
 About the Author
-Further Reading
-Acknowledgements
-Bibliography
+FURTHER READING
+ACKNOWLEDGEMENTS
+BIBLIOGRAPHY
 One Last Thing
 
 
@@ -5749,7 +5749,7 @@ Labels, Paths, Experiments (Lessons 8-10):
 Coordinates
 Length Contraction
 
-Preparatory workshop
+WORKSHOP
 The Twin Paradox
  (do this before Lesson 1)
 Workshop problem: One twin boards a very fast spaceship, travels out and back near the speed of light, and returns to find their sibling considerably older. Both twins, the objection runs, saw the other one moving - so shouldn't each expect the other to have aged less?
@@ -6485,7 +6485,7 @@ There is, however, one final question. Derek's question. The question that has b
 Well. That's the problem.
 We haven't finished. 
 But the good news is that neither has the universe. Which is rather reassuring.
-Glossary
+GLOSSARY
 Andromeda Paradox. Penrose’s illustration that a small change of velocity on Earth can swing a distant “now”-slice across days on Andromeda. It is a statement about simultaneity for spacelike separation, not a method for sending news to Andromeda.
 Block Universe. The view that past, present, and future events are equally part of a four-dimensional whole. Relativity’s geometry is friendly to it; it is not a theorem that free will is a clerical error.
 Causal Structure. The pattern of which events can influence which others, determined by spacetime's light cones and how they connect. Coordinate systems are negotiable; these causal relationships are not.
