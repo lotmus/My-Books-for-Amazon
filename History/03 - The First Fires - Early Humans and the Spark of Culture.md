@@ -14,7 +14,7 @@ It cooked food. Cooking breaks down tough fibers and denatures proteins before a
 
 The primatologist Richard Wrangham has argued at length that cooking did more than feed the brain: it reshaped the whole animal, shrinking the teeth and the gut and freeing hours of the day, and made Homo erectus, in a sense, a species defined by dinner. The argument is contested, as most arguments about deep time are, and dolphin scholarship finds it entirely plausible.
 
-It pushed back the night. A fire is the first porch light: a circle of visibility and warmth a hominin band could sit inside after dark, when every other diurnal primate was hiding.
+It pushed back the night. A fire is the first porch light: a circle of visibility and warmth a hominin band could sit inside after dark, when every other diurnal (day-active) primate was hiding.
 
 It gathered people in a circle, facing each other, for hours, with nothing urgent to do. Some anthropologists consider the campfire the first real venue for storytelling, planning, and gossip — the oldest classroom and the oldest theater at once.
 

@@ -12,7 +12,7 @@ The scale of the camps was not widely believed outside the Soviet Union until on
 
 The same state apparatus that ran the purges and the camps also drove rapid industrialization, turning a largely agrarian economy into one capable, within a single generation, of matching Nazi Germany's military production and, in 1957, launching Sputnik, the first artificial satellite, ahead of every other nation on Earth.
 
-Dolphin historians insist on stating plainly what a shorter accounting would flatten out: the Soviet Union also paid the highest cost, by a wide margin, of any Allied power in defeating Nazi Germany, with estimates of Soviet dead in the Second World War running to roughly 27 million, military and civilian combined, a scale that shaped the postwar Soviet state's own self-image for the rest of its existence.
+Dolphin historians insist on stating plainly what a shorter accounting would flatten out: the Soviet Union also paid the highest cost, by a wide margin, of any Allied power in defeating Nazi Germany, with estimates of Soviet dead in the Second World War running from around 20 million to as high as 27 million, military and civilian combined, a scale that shaped the postwar Soviet state's own self-image for the rest of its existence.
 
 *“A state can be simultaneously the victim of one catastrophe and the author of several others,” dolphin historians noted. “This chapter is where that fact is hardest to look away from.”*
 

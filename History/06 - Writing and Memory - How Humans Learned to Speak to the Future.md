@@ -10,7 +10,7 @@ Neither system started as literature. The earliest Sumerian tablets are receipts
 
 Writing, in other words, was invented for bookkeeping, by the same surplus-and-ownership economy the last chapter introduced. Poetry, law, and history came later, riding on infrastructure built for tax season.
 
-The earliest personal name in the written record may be Kushim, which appears on a set of barley receipts from Uruk and may belong to an accountant. The first author known by name, roughly a thousand years later, was a woman: Enheduanna, a high priestess at Ur and a daughter of Sargon of Akkad, who around 2300 BCE composed hymns to the goddess Inanna. And the Epic of Gilgamesh, whose oldest tablets date from around 2100 BCE, contains a flood story that circulated in Mesopotamia long before the biblical one was written down.
+The earliest personal name in the written record may be Kushim, which appears on a set of barley receipts from Uruk and may belong to an accountant. The first author known by name, roughly a thousand years later, was a woman: Enheduanna, a high priestess at Ur and a daughter of Sargon of Akkad, who around 2300 BCE composed hymns to the goddess Inanna. And the Epic of Gilgamesh, whose earliest surviving Sumerian poems about the king date from around 2100 BCE, though the unified epic as later generations knew it was assembled centuries after that, contains a flood story that circulated in Mesopotamia long before the biblical one was written down.
 
 *Professor Click-Click-Whoosh, in the margin: “Fame in the literate world began with paperwork, and has not strayed far since.”*
 
