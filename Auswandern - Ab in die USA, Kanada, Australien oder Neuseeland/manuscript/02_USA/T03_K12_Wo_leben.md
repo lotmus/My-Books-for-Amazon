@@ -124,7 +124,7 @@ Die folgenden Steckbriefe fassen Kaufpreis, Miete und Standortmerkmale von 26 Me
 | Raleigh–Durham | Biotech/Pharma (RTP), Software, Universitäten | Raleigh 466.700 $ / 1.270–1.500 $; Durham 478.900 $ | NC 3,99 %; Hurrikanreste; Nonstop; ≈ 24.000 Jobs bei dt. Firmen |
 | Charlotte | Banken, Siemens Energy, Autozulieferer (Fort Mill) | 434.000 $ / 1.430–1.700 $ | NC 3,99 %; Hurrikanreste, Hitze; Nonstop |
 | Atlanta | Logistik, Fintech, Delta, Mercedes-Benz, Porsche | 387.000 $ / 1.660–2.100 $ | GA 5,19 % (auch: 4,99 %); Unwetter, Hitze; Nonstop |
-| Nashville | Gesundheitswirtschaft, Nissan NA, Oracle | 420.900 $ / 1.520–1.780 $ | TN steuerfrei; Tornados; kein Nonstop; VW Chattanooga ≈ 2 Std. |
+| Nashville | Gesundheits­wirtschaft, Nissan NA, Oracle | 420.900 $ / 1.520–1.780 $ | TN steuerfrei; Tornados; kein Nonstop; VW Chattanooga ≈ 2 Std. |
 | Greenville–Spartanburg | BMW, Bosch, ZF, Dräxlmaier | Greenville 354.400 $; Spartanburg 303.100 $ | SC bis 6,0 %; Hurrikanreste; kein Nonstop, Charlotte ≈ 1,5–2 Std. |
 | Huntsville | NASA, Redstone Arsenal, Space Command (ab 2032) | 332.400 $ | AL 2–5 %; Tornados; kein Nonstop, oft Sicherheitsüberprüfung |
 

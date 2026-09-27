@@ -152,18 +152,16 @@ Für die ehrliche Bilanz bedeutet das: Es gibt schlicht keine verlässliche Zahl
 
 ### Das Bewertungs-Raster: acht Faktoren, eine ehrliche Bestandsaufnahme
 
-Die folgende Tabelle fasst acht Faktoren zusammen, die in der Forschung zu Auslandsaufenthalten wiederholt mit gelungener Anpassung, Zufriedenheit oder – umgekehrt – mit Abbruch und Rückkehr in Verbindung stehen. Fülle sie in Ruhe aus, wenn möglich gemeinsam mit Partner oder Partnerin: Eine ehrliche 2 ist mehr wert als eine geschönte 4. Trage in die letzte Spalte eine Zahl von 1 (trifft kaum zu) bis 5 (trifft voll zu) ein – ein niedriger Wert ist kein Abbruchgrund, sondern eine Arbeitsliste.
+Die folgende Liste fasst acht Faktoren zusammen, die in der Forschung zu Auslandsaufenthalten wiederholt mit gelungener Anpassung, Zufriedenheit oder – umgekehrt – mit Abbruch und Rückkehr in Verbindung stehen. Geh sie in Ruhe durch, wenn möglich gemeinsam mit Partner oder Partnerin, und denk dir bei jedem Punkt ehrlich eine Zahl von 1 (trifft kaum zu) bis 5 (trifft voll zu): Eine ehrliche 2 ist mehr wert als eine geschönte 4. Ein niedriger Wert ist kein Abbruchgrund, sondern eine Arbeitsliste.
 
-| Faktor | Leitfrage zum Ausfüllen | Warnsignal | Deine Einschätzung (1–5) |
-|---|---|---|---|
-| Finanzielle Rücklage | Hast du mindestens 3–6 Monatsausgaben am Zielort plus Umzugskosten als Puffer, unabhängig vom ersten Gehalt? | Die Rücklage hängt vollständig vom pünktlichen ersten Gehaltseingang im Ausland ab | |
-| Risikotoleranz | Wie gehst du grundsätzlich mit Unsicherheit und Plänen um, die sich kurzfristig ändern? | Schon kleinere Planänderungen im Alltag belasten dich stark | |
-| Berufliche Übertragbarkeit | Ist dein Abschluss oder deine Berufszulassung im Zielland anerkennungsfähig, und kennst du die Dauer des Verfahrens? | Das Anerkennungsverfahren deines Berufs hast du noch nicht geprüft | |
-| Zustimmung von Partner/Kindern | Steht die ganze Familie hinter dem Plan, nicht nur du allein? | Partner oder ältere Kinder sind unentschlossen oder dagegen | |
-| Sprachniveau | Reicht dein Englisch für Behördengänge und Fachjargon, nicht nur für Small Talk im Urlaub? | Schon Behördendeutsch bereitet dir auf Deutsch Mühe | |
-| Frühere Auslands­erfahrung | Hast du schon einmal mehrere Monate am Stück im Ausland gelebt, gearbeitet oder studiert? | Kein Bezugspunkt dafür, wie sich Monate fern der Heimat anfühlen | |
-| Soziales Unterstützungs­netz | Kennst du bereits jemanden vor Ort oder eine Community, digital oder persönlich? | Keine einzige Verbindung zum Zielland oder zu bestehenden Communitys | |
-| Erwartungs­management | Stützt sich deine Vorstellung vom Alltag auf Recherche – oder vor allem auf Filme und Urlaubs­erinnerungen? | Deine Erwartung speist sich hauptsächlich aus zwei Wochen Ferienreise | |
+- **Finanzielle Rücklage.** Hast du mindestens 3–6 Monatsausgaben am Zielort plus Umzugskosten als Puffer, unabhängig vom ersten Gehalt? *Warnsignal:* Die Rücklage hängt vollständig vom pünktlichen ersten Gehaltseingang im Ausland ab.
+- **Risikotoleranz.** Wie gehst du grundsätzlich mit Unsicherheit und Plänen um, die sich kurzfristig ändern? *Warnsignal:* Schon kleinere Planänderungen im Alltag belasten dich stark.
+- **Berufliche Übertragbarkeit.** Ist dein Abschluss oder deine Berufszulassung im Zielland anerkennungsfähig, und kennst du die Dauer des Verfahrens? *Warnsignal:* Das Anerkennungsverfahren deines Berufs hast du noch nicht geprüft.
+- **Zustimmung von Partner/Kindern.** Steht die ganze Familie hinter dem Plan, nicht nur du allein? *Warnsignal:* Partner oder ältere Kinder sind unentschlossen oder dagegen.
+- **Sprachniveau.** Reicht dein Englisch für Behördengänge und Fachjargon, nicht nur für Small Talk im Urlaub? *Warnsignal:* Schon Behördendeutsch bereitet dir auf Deutsch Mühe.
+- **Frühere Auslandserfahrung.** Hast du schon einmal mehrere Monate am Stück im Ausland gelebt, gearbeitet oder studiert? *Warnsignal:* Kein Bezugspunkt dafür, wie sich Monate fern der Heimat anfühlen.
+- **Soziales Unterstützungsnetz.** Kennst du bereits jemanden vor Ort oder eine Community, digital oder persönlich? *Warnsignal:* Keine einzige Verbindung zum Zielland oder zu bestehenden Communitys.
+- **Erwartungsmanagement.** Stützt sich deine Vorstellung vom Alltag auf Recherche – oder vor allem auf Filme und Urlaubserinnerungen? *Warnsignal:* Deine Erwartung speist sich hauptsächlich aus zwei Wochen Ferienreise.
 
 > **Praxisbeispiel:** Jonas Ritter (fiktives Beispiel, nur in diesem und dem folgenden Kapitel verwendet), 33, Wirtschaftsinformatiker aus Freiburg, füllt das Raster mit seiner Partnerin Sarah, 30, Ergotherapeutin, und Tochter Mila, 4, gemeinsam aus. Bei der finanziellen Rücklage tragen beide eine 4 ein – sie haben bewusst zwölf statt sechs Monatsausgaben zurückgelegt. Unangenehmer wird es bei der beruflichen Übertragbarkeit: Sarah hat noch nicht geprüft, ob ihre Ausbildung im Zielland überhaupt anerkannt wird, und trägt ehrlich eine 2 ein. Das ist für die beiden kein Abbruchgrund, aber eine klare Aufgabe vor jeder weiteren Planung: die zuständige Anerkennungsstelle kontaktieren, bevor sie sich mit Visakategorien beschäftigen.
 
@@ -352,19 +350,19 @@ Ein Punkt, der viele Leser beunruhigt, bevor sie ihn recherchiert haben, lässt 
 
 ### Die gewichtete Vergleichs-Scorecard
 
-Die folgende Tabelle übersetzt die wichtigsten Unterschiede aus diesem Kapitel in eine Punktzahl von 1 (ungünstig) bis 5 (günstig) je Land – eine vereinfachte, eigene Einordnung der oben genannten Fakten, kein amtliches Ranking. Trage zuerst in die zweite Spalte ein, wie wichtig dir jedes Kriterium persönlich ist (1 = unwichtig, 5 = entscheidend). Multipliziere diese Gewichtung anschließend für jedes Land mit dem jeweiligen Punktwert aus der dritten Spalte und trage die vier Ergebnisse in die letzte Spalte ein. Bei der Klimazeile gibt es bewusst keine vorgegebenen Punkte – trage dort ein, was deiner eigenen Präferenz entspricht.
+Die folgende Tabelle übersetzt die wichtigsten Unterschiede aus diesem Kapitel in eine Punktzahl von 1 (ungünstig) bis 5 (günstig) je Land – eine vereinfachte, eigene Einordnung der oben genannten Fakten, kein amtliches Ranking. Bei der Klimazeile gibt es bewusst keine vorgegebenen Punkte, da das reine Geschmackssache ist.
 
-| Kriterium | Deine Gewichtung (1–5) | Punkte je Land (USA / Kanada / Australien / Neuseeland) | Dein Ergebnis (Gewichtung × Punkte) |
-|---|---|---|---|
-| Planbarkeit des Einwanderungswegs | | USA 2<br>Kanada 5<br>Australien 4<br>Neuseeland 4 | USA:<br>Kanada:<br>Australien:<br>Neuseeland: |
-| Geschwindigkeit bis zum unbefristeten Titel | | USA 2<br>Kanada 4<br>Australien 4<br>Neuseeland 5 | USA:<br>Kanada:<br>Australien:<br>Neuseeland: |
-| Automatische Gesundheitsabsicherung | | USA 1<br>Kanada 5<br>Australien 4<br>Neuseeland 5 | USA:<br>Kanada:<br>Australien:<br>Neuseeland: |
-| Niedrige Steuer- und Abgabenlast | | USA 3<br>Kanada 2<br>Australien 4<br>Neuseeland 5 | USA:<br>Kanada:<br>Australien:<br>Neuseeland: |
-| Niedrige Lebenshaltungskosten | | USA 2<br>Kanada 4<br>Australien 1<br>Neuseeland 5 | USA:<br>Kanada:<br>Australien:<br>Neuseeland: |
-| Nähe zu Deutschland (Flugzeit) | | USA 4<br>Kanada 5<br>Australien 2<br>Neuseeland 1 | USA:<br>Kanada:<br>Australien:<br>Neuseeland: |
-| Klima nach eigener Präferenz | | nach eigener Einschätzung eintragen | USA:<br>Kanada:<br>Australien:<br>Neuseeland: |
+| Kriterium | USA | Kanada | Australien | Neuseeland |
+|---|---|---|---|---|
+| Planbarkeit des Einwanderungswegs | 2 | 5 | 4 | 4 |
+| Geschwindigkeit bis zum unbefristeten Titel | 2 | 4 | 4 | 5 |
+| Automatische Gesundheitsabsicherung | 1 | 5 | 4 | 5 |
+| Niedrige Steuer- und Abgabenlast | 3 | 2 | 4 | 5 |
+| Niedrige Lebenshaltungskosten | 2 | 4 | 1 | 5 |
+| Nähe zu Deutschland (Flugzeit) | 4 | 5 | 2 | 1 |
+| Klima nach eigener Präferenz | – | – | – | – |
 
-Addiere am Ende jede der vier Spalten getrennt für USA, Kanada, Australien und Neuseeland. Auf Papier oder in einer Tabellenkalkulation hast du mehr Platz als diese Buchseite; ergänze dort gern weitere eigene Kriterien, etwa ein bestehendes Jobangebot, Familie oder Freunde vor Ort oder eine bestimmte Berufschance, die diese allgemeine Übersicht nicht abbilden kann. Das Land mit der höchsten Summe verdient eine genauere Prüfung zuerst – es ist damit noch keine endgültige Entscheidung, sondern eine begründete Reihenfolge.
+Übertrage diese Werte auf Papier oder in eine eigene Tabellenkalkulation – dort hast du mehr Platz als diese Buchseite. Gewichte dort jedes Kriterium nach persönlicher Wichtigkeit (1 = unwichtig, 5 = entscheidend), multipliziere die Gewichtung mit dem jeweiligen Punktwert aus der Tabelle und summiere die Ergebnisse je Land; bei der Klimazeile trägst du statt des Punktwerts deine eigene Einschätzung ein. Ergänze dort gern weitere eigene Kriterien, etwa ein bestehendes Jobangebot, Familie oder Freunde vor Ort oder eine bestimmte Berufschance, die diese allgemeine Übersicht nicht abbilden kann. Das Land mit der höchsten Summe verdient eine genauere Prüfung zuerst – es ist damit noch keine endgültige Entscheidung, sondern eine begründete Reihenfolge.
 
 So könnte das in der Praxis aussehen: Wer als Gewichtung die automatische Gesundheitsabsicherung und die Nähe zu Deutschland jeweils mit 5 versieht, alles andere aber nur mit 2 oder 3, landet am Ende bei Kanada – dort punkten beide hoch gewichteten Kriterien gleichzeitig. Wer dagegen vor allem auf niedrige Steuer- und Abgabenlast und niedrige Lebenshaltungskosten Wert legt und die Entfernung niedrig gewichtet, weil ohnehin nur einmal im Jahr geflogen werden soll, landet eher bei Neuseeland. Und wer die Geschwindigkeit bis zum unbefristeten Titel hoch gewichtet, weil zum Beispiel schon ein befristeter Vertrag im Zielland tickt, wird die USA in dieser Übersicht tendenziell hintenanstellen – es sei denn, ein konkretes Jobangebot verändert die Rechnung, wie oben beim Einwanderungssystem beschrieben.
 
@@ -2759,7 +2757,7 @@ Die folgenden Steckbriefe fassen Kaufpreis, Miete und Standortmerkmale von 26 Me
 | Raleigh–Durham | Biotech/Pharma (RTP), Software, Universitäten | Raleigh 466.700 $ / 1.270–1.500 $; Durham 478.900 $ | NC 3,99 %; Hurrikanreste; Nonstop; ≈ 24.000 Jobs bei dt. Firmen |
 | Charlotte | Banken, Siemens Energy, Autozulieferer (Fort Mill) | 434.000 $ / 1.430–1.700 $ | NC 3,99 %; Hurrikanreste, Hitze; Nonstop |
 | Atlanta | Logistik, Fintech, Delta, Mercedes-Benz, Porsche | 387.000 $ / 1.660–2.100 $ | GA 5,19 % (auch: 4,99 %); Unwetter, Hitze; Nonstop |
-| Nashville | Gesundheitswirtschaft, Nissan NA, Oracle | 420.900 $ / 1.520–1.780 $ | TN steuerfrei; Tornados; kein Nonstop; VW Chattanooga ≈ 2 Std. |
+| Nashville | Gesundheits­wirtschaft, Nissan NA, Oracle | 420.900 $ / 1.520–1.780 $ | TN steuerfrei; Tornados; kein Nonstop; VW Chattanooga ≈ 2 Std. |
 | Greenville–Spartanburg | BMW, Bosch, ZF, Dräxlmaier | Greenville 354.400 $; Spartanburg 303.100 $ | SC bis 6,0 %; Hurrikanreste; kein Nonstop, Charlotte ≈ 1,5–2 Std. |
 | Huntsville | NASA, Redstone Arsenal, Space Command (ab 2032) | 332.400 $ | AL 2–5 %; Tornados; kein Nonstop, oft Sicherheitsüberprüfung |
 
@@ -4889,9 +4887,9 @@ Die SSN wurde 1936 eingeführt, um Beiträge zur gesetzlichen Rente zu verfolgen
 
 Verbreiteter Irrtum: Die SSN sei so etwas wie die amerikanische Steuer-ID, nur mit anderem Namen. Tatsächlich steckt mehr dahinter – für deutsche Neuankömmlinge ist die SSN gewöhnungsbedürftig, weil Deutschland aus Datenschutzgründen bewusst kein einheitliches Personenkennzeichen hat. Die elfstellige *Steuerliche Identifikationsnummer* (Steuer-ID) und die zwölfstellige Rentenversicherungsnummer sind getrennte Systeme mit getrenntem Zweck. Die SSN vereint beide Rollen – und wird zusätzlich als praktischer Generalausweis für Kredit, Miete und Handy genutzt. Genau das macht sie in den USA so nützlich und ihren Missbrauch so folgenreich.
 
-| Merkmal | SSN (USA) | Steuer-ID (Deutschland) | Rentenversicherungsnummer (Deutschland) |
+| Merkmal | SSN (USA) | Steuer-ID (DE) | Rentenversicherungsnr. (DE) |
 |---|---|---|---|
-| Vergeben von | Sozialversicherungsbehörde SSA | Bundeszentralamt für Steuern | Deutsche Rentenversicherung |
+| Vergeben von | Sozialversicherungs­behörde SSA | Bundeszentralamt für Steuern | Deutsche Rentenversicherung |
 | Zweck | Sozialversicherung, Steuer, Arbeitsnachweis, faktisch auch Bonität | nur Steuerverfahren | nur gesetzliche Rentenversicherung |
 | Format | neun Ziffern | elf Ziffern | zwölf Zeichen (Bereich, Geburtsdatum, Buchstabe, Prüfziffern) |
 | Wird verlangt bei | Job, Bank, Kredit, Miete, Handy, Versicherung | Finanzamt, Arbeitgeber, Kindergeldkasse | nur beim Arbeitgeber für die Rentenversicherung |
@@ -11301,13 +11299,13 @@ Die Gebühren unterscheiden sich drastisch je nach Antragsart, und wie so oft im
 
 | Antragsart | Gebühr Hauptantragsteller | Zusatzgebühr Partner/Kind | Bemerkung |
 |---|---|---|---|
-| Arbeitsvisum (Work Permit) | 155 CAD | je Person gleich | zzgl. 100 CAD bei offenem, nicht arbeitgebergebundenem Visum |
+| Arbeitsvisum (Work Permit) | 155 CAD | je Person gleich | zzgl. 100 CAD bei offenem, nicht arbeitgeber­gebundenem Visum |
 | Studienvisum (Study Permit) | 150 CAD | je Person gleich | – |
 | PR Wirtschaftskategorie (Express Entry/PNP) | 1.590 CAD | Partner 1.590 CAD, Kind 270 CAD | ohne Recht-auf-PR-Gebühr nur 990 CAD |
 | Recht-auf-permanenten-Aufenthalt-Gebühr (RPRF) | 600 CAD | Partner 600 CAD, Kind entfällt | separate Zusatzgebühr, wird gern übersehen |
 | Familiennachzug Ehepartner (aus dem Ausland) | 1.260 CAD | Kind 180 CAD | ohne RPRF 660 CAD |
 | Biometrie | 85 CAD/Person | Familien-Höchstsatz 170 CAD | unabhängig von der Familiengröße gedeckelt |
-| Einbürgerung | 653 CAD (Erwachsene) | Minderjährige 100 CAD | zzgl. 75 CAD Staatsbürgerschaftszertifikat |
+| Einbürgerung | 653 CAD (Erwachsene) | Minderjährige 100 CAD | zzgl. 75 CAD Staatsbürgerschafts­zertifikat |
 
 (Stand nach der Gebührenerhöhung vom 30. April 2026; Kanada erhebt seine Gebühren in kanadischen Dollar, unabhängig vom Wechselkurs zum Euro.)
 
@@ -13876,7 +13874,7 @@ Verbreiteter Irrtum: Erdbeben seien vor allem ein Wellington-Thema, weil die Sta
 
 | Ort | Klima und Naturgefahr | Kosten (Miete NZD/Woche · Kaufmedian) | Jobmarkt-Stärke |
 |---|---|---|---|
-| Auckland | subtropisch-feucht, Starkregen- und Vulkanrisiko | 635 · 950.000 | Finanzen, Medien/Telekom, breiter Dienstleistungsmarkt |
+| Auckland | subtropisch-feucht, Starkregen- und Vulkanrisiko | 635 · 950.000 | Finanzen, Medien/Telekom, breiter Dienstleistungs­markt |
 | Wellington | windig, mild-maritim, Erdbebenrisiko | 600 · n. e. | Regierung/Verwaltung, Tech/Governance |
 | Christchurch | kühl-gemäßigt, Erdbebenrisiko (2010/11) | 660 (3–4-Zi-Haus) · 735.000 | Ingenieurwesen, Bau, Agritech |
 | Queenstown/Otago | alpin, Regenschatten, Lawinenrisiko | 730+ · 755.000 (Region Otago) | Tourismus, zunehmend Tech/Wein |
@@ -15872,7 +15870,7 @@ Dieses Buch nennt für die USA, Kanada, Australien und Neuseeland eine Reihe von
 | MSCA | My Service Canada Account – Online-Konto für SIN, Employment Insurance und CPP | Service Canada | Kanada: Ankunft |
 | RCIC | Regulated Canadian Immigration Consultant – zugelassene Einwanderungsberaterin oder zugelassener Einwanderungsberater | CICC | Kanada: Einwanderung |
 | CICC | College of Immigration and Citizenship Consultants – Aufsichtsstelle für RCIC | CICC | Kanada: Einwanderung |
-| PGP | Parents and Grandparents Program – Familiennachzugsprogramm für Eltern und Großeltern | IRCC | Kanada: Familie |
+| PGP | Parents and Grandparents Program – Familiennachzugs­programm für Eltern und Großeltern | IRCC | Kanada: Familie |
 | CBSA | Canada Border Services Agency – kanadischer Grenzschutz | CBSA | Kanada: Ankunft |
 
 ### Australien — Formulare und Abkürzungen

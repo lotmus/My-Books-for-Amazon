@@ -24,13 +24,13 @@ Die Gebühren unterscheiden sich drastisch je nach Antragsart, und wie so oft im
 
 | Antragsart | Gebühr Hauptantragsteller | Zusatzgebühr Partner/Kind | Bemerkung |
 |---|---|---|---|
-| Arbeitsvisum (Work Permit) | 155 CAD | je Person gleich | zzgl. 100 CAD bei offenem, nicht arbeitgebergebundenem Visum |
+| Arbeitsvisum (Work Permit) | 155 CAD | je Person gleich | zzgl. 100 CAD bei offenem, nicht arbeitgeber­gebundenem Visum |
 | Studienvisum (Study Permit) | 150 CAD | je Person gleich | – |
 | PR Wirtschaftskategorie (Express Entry/PNP) | 1.590 CAD | Partner 1.590 CAD, Kind 270 CAD | ohne Recht-auf-PR-Gebühr nur 990 CAD |
 | Recht-auf-permanenten-Aufenthalt-Gebühr (RPRF) | 600 CAD | Partner 600 CAD, Kind entfällt | separate Zusatzgebühr, wird gern übersehen |
 | Familiennachzug Ehepartner (aus dem Ausland) | 1.260 CAD | Kind 180 CAD | ohne RPRF 660 CAD |
 | Biometrie | 85 CAD/Person | Familien-Höchstsatz 170 CAD | unabhängig von der Familiengröße gedeckelt |
-| Einbürgerung | 653 CAD (Erwachsene) | Minderjährige 100 CAD | zzgl. 75 CAD Staatsbürgerschaftszertifikat |
+| Einbürgerung | 653 CAD (Erwachsene) | Minderjährige 100 CAD | zzgl. 75 CAD Staatsbürgerschafts­zertifikat |
 
 (Stand nach der Gebührenerhöhung vom 30. April 2026; Kanada erhebt seine Gebühren in kanadischen Dollar, unabhängig vom Wechselkurs zum Euro.)
 

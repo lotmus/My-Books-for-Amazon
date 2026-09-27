@@ -17,9 +17,9 @@ Die SSN wurde 1936 eingeführt, um Beiträge zur gesetzlichen Rente zu verfolgen
 
 Verbreiteter Irrtum: Die SSN sei so etwas wie die amerikanische Steuer-ID, nur mit anderem Namen. Tatsächlich steckt mehr dahinter – für deutsche Neuankömmlinge ist die SSN gewöhnungsbedürftig, weil Deutschland aus Datenschutzgründen bewusst kein einheitliches Personenkennzeichen hat. Die elfstellige *Steuerliche Identifikationsnummer* (Steuer-ID) und die zwölfstellige Rentenversicherungsnummer sind getrennte Systeme mit getrenntem Zweck. Die SSN vereint beide Rollen – und wird zusätzlich als praktischer Generalausweis für Kredit, Miete und Handy genutzt. Genau das macht sie in den USA so nützlich und ihren Missbrauch so folgenreich.
 
-| Merkmal | SSN (USA) | Steuer-ID (Deutschland) | Rentenversicherungsnummer (Deutschland) |
+| Merkmal | SSN (USA) | Steuer-ID (DE) | Rentenversicherungsnr. (DE) |
 |---|---|---|---|
-| Vergeben von | Sozialversicherungsbehörde SSA | Bundeszentralamt für Steuern | Deutsche Rentenversicherung |
+| Vergeben von | Sozialversicherungs­behörde SSA | Bundeszentralamt für Steuern | Deutsche Rentenversicherung |
 | Zweck | Sozialversicherung, Steuer, Arbeitsnachweis, faktisch auch Bonität | nur Steuerverfahren | nur gesetzliche Rentenversicherung |
 | Format | neun Ziffern | elf Ziffern | zwölf Zeichen (Bereich, Geburtsdatum, Buchstabe, Prüfziffern) |
 | Wird verlangt bei | Job, Bank, Kredit, Miete, Handy, Versicherung | Finanzamt, Arbeitgeber, Kindergeldkasse | nur beim Arbeitgeber für die Rentenversicherung |

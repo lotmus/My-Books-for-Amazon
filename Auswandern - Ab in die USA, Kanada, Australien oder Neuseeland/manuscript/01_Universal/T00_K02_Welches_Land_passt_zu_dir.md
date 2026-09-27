@@ -94,19 +94,19 @@ Ein Punkt, der viele Leser beunruhigt, bevor sie ihn recherchiert haben, lässt 
 
 ### Die gewichtete Vergleichs-Scorecard
 
-Die folgende Tabelle übersetzt die wichtigsten Unterschiede aus diesem Kapitel in eine Punktzahl von 1 (ungünstig) bis 5 (günstig) je Land – eine vereinfachte, eigene Einordnung der oben genannten Fakten, kein amtliches Ranking. Trage zuerst in die zweite Spalte ein, wie wichtig dir jedes Kriterium persönlich ist (1 = unwichtig, 5 = entscheidend). Multipliziere diese Gewichtung anschließend für jedes Land mit dem jeweiligen Punktwert aus der dritten Spalte und trage die vier Ergebnisse in die letzte Spalte ein. Bei der Klimazeile gibt es bewusst keine vorgegebenen Punkte – trage dort ein, was deiner eigenen Präferenz entspricht.
+Die folgende Tabelle übersetzt die wichtigsten Unterschiede aus diesem Kapitel in eine Punktzahl von 1 (ungünstig) bis 5 (günstig) je Land – eine vereinfachte, eigene Einordnung der oben genannten Fakten, kein amtliches Ranking. Bei der Klimazeile gibt es bewusst keine vorgegebenen Punkte, da das reine Geschmackssache ist.
 
-| Kriterium | Deine Gewichtung (1–5) | Punkte je Land (USA / Kanada / Australien / Neuseeland) | Dein Ergebnis (Gewichtung × Punkte) |
-|---|---|---|---|
-| Planbarkeit des Einwanderungswegs | | USA 2<br>Kanada 5<br>Australien 4<br>Neuseeland 4 | USA:<br>Kanada:<br>Australien:<br>Neuseeland: |
-| Geschwindigkeit bis zum unbefristeten Titel | | USA 2<br>Kanada 4<br>Australien 4<br>Neuseeland 5 | USA:<br>Kanada:<br>Australien:<br>Neuseeland: |
-| Automatische Gesundheitsabsicherung | | USA 1<br>Kanada 5<br>Australien 4<br>Neuseeland 5 | USA:<br>Kanada:<br>Australien:<br>Neuseeland: |
-| Niedrige Steuer- und Abgabenlast | | USA 3<br>Kanada 2<br>Australien 4<br>Neuseeland 5 | USA:<br>Kanada:<br>Australien:<br>Neuseeland: |
-| Niedrige Lebenshaltungskosten | | USA 2<br>Kanada 4<br>Australien 1<br>Neuseeland 5 | USA:<br>Kanada:<br>Australien:<br>Neuseeland: |
-| Nähe zu Deutschland (Flugzeit) | | USA 4<br>Kanada 5<br>Australien 2<br>Neuseeland 1 | USA:<br>Kanada:<br>Australien:<br>Neuseeland: |
-| Klima nach eigener Präferenz | | nach eigener Einschätzung eintragen | USA:<br>Kanada:<br>Australien:<br>Neuseeland: |
+| Kriterium | USA | Kanada | Australien | Neuseeland |
+|---|---|---|---|---|
+| Planbarkeit des Einwanderungswegs | 2 | 5 | 4 | 4 |
+| Geschwindigkeit bis zum unbefristeten Titel | 2 | 4 | 4 | 5 |
+| Automatische Gesundheitsabsicherung | 1 | 5 | 4 | 5 |
+| Niedrige Steuer- und Abgabenlast | 3 | 2 | 4 | 5 |
+| Niedrige Lebenshaltungskosten | 2 | 4 | 1 | 5 |
+| Nähe zu Deutschland (Flugzeit) | 4 | 5 | 2 | 1 |
+| Klima nach eigener Präferenz | – | – | – | – |
 
-Addiere am Ende jede der vier Spalten getrennt für USA, Kanada, Australien und Neuseeland. Auf Papier oder in einer Tabellenkalkulation hast du mehr Platz als diese Buchseite; ergänze dort gern weitere eigene Kriterien, etwa ein bestehendes Jobangebot, Familie oder Freunde vor Ort oder eine bestimmte Berufschance, die diese allgemeine Übersicht nicht abbilden kann. Das Land mit der höchsten Summe verdient eine genauere Prüfung zuerst – es ist damit noch keine endgültige Entscheidung, sondern eine begründete Reihenfolge.
+Übertrage diese Werte auf Papier oder in eine eigene Tabellenkalkulation – dort hast du mehr Platz als diese Buchseite. Gewichte dort jedes Kriterium nach persönlicher Wichtigkeit (1 = unwichtig, 5 = entscheidend), multipliziere die Gewichtung mit dem jeweiligen Punktwert aus der Tabelle und summiere die Ergebnisse je Land; bei der Klimazeile trägst du statt des Punktwerts deine eigene Einschätzung ein. Ergänze dort gern weitere eigene Kriterien, etwa ein bestehendes Jobangebot, Familie oder Freunde vor Ort oder eine bestimmte Berufschance, die diese allgemeine Übersicht nicht abbilden kann. Das Land mit der höchsten Summe verdient eine genauere Prüfung zuerst – es ist damit noch keine endgültige Entscheidung, sondern eine begründete Reihenfolge.
 
 So könnte das in der Praxis aussehen: Wer als Gewichtung die automatische Gesundheitsabsicherung und die Nähe zu Deutschland jeweils mit 5 versieht, alles andere aber nur mit 2 oder 3, landet am Ende bei Kanada – dort punkten beide hoch gewichteten Kriterien gleichzeitig. Wer dagegen vor allem auf niedrige Steuer- und Abgabenlast und niedrige Lebenshaltungskosten Wert legt und die Entfernung niedrig gewichtet, weil ohnehin nur einmal im Jahr geflogen werden soll, landet eher bei Neuseeland. Und wer die Geschwindigkeit bis zum unbefristeten Titel hoch gewichtet, weil zum Beispiel schon ein befristeter Vertrag im Zielland tickt, wird die USA in dieser Übersicht tendenziell hintenanstellen – es sei denn, ein konkretes Jobangebot verändert die Rechnung, wie oben beim Einwanderungssystem beschrieben.
 
