@@ -51,7 +51,7 @@ Verbreiteter Irrtum: Erdbeben seien vor allem ein Wellington-Thema, weil die Sta
 
 | Ort | Klima und Naturgefahr | Kosten (Miete NZD/Woche · Kaufmedian) | Jobmarkt-Stärke |
 |---|---|---|---|
-| Auckland | subtropisch-feucht, Starkregen- und Vulkanrisiko | 635 · 950.000 | Finanzen, Medien/Telekom, breiter Dienstleistungsmarkt |
+| Auckland | subtropisch-feucht, Starkregen- und Vulkanrisiko | 635 · 950.000 | Finanzen, Medien/Telekom, breiter Dienstleistungs­markt |
 | Wellington | windig, mild-maritim, Erdbebenrisiko | 600 · n. e. | Regierung/Verwaltung, Tech/Governance |
 | Christchurch | kühl-gemäßigt, Erdbebenrisiko (2010/11) | 660 (3–4-Zi-Haus) · 735.000 | Ingenieurwesen, Bau, Agritech |
 | Queenstown/Otago | alpin, Regenschatten, Lawinenrisiko | 730+ · 755.000 (Region Otago) | Tourismus, zunehmend Tech/Wein |

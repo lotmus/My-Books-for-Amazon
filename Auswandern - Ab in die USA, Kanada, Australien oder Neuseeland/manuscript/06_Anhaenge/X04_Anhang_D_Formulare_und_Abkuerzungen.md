@@ -108,7 +108,7 @@ Dieses Buch nennt für die USA, Kanada, Australien und Neuseeland eine Reihe von
 | MSCA | My Service Canada Account – Online-Konto für SIN, Employment Insurance und CPP | Service Canada | Kanada: Ankunft |
 | RCIC | Regulated Canadian Immigration Consultant – zugelassene Einwanderungsberaterin oder zugelassener Einwanderungsberater | CICC | Kanada: Einwanderung |
 | CICC | College of Immigration and Citizenship Consultants – Aufsichtsstelle für RCIC | CICC | Kanada: Einwanderung |
-| PGP | Parents and Grandparents Program – Familiennachzugsprogramm für Eltern und Großeltern | IRCC | Kanada: Familie |
+| PGP | Parents and Grandparents Program – Familiennachzugs­programm für Eltern und Großeltern | IRCC | Kanada: Familie |
 | CBSA | Canada Border Services Agency – kanadischer Grenzschutz | CBSA | Kanada: Ankunft |
 
 ### Australien — Formulare und Abkürzungen
