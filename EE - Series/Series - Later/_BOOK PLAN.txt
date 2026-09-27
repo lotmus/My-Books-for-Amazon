@@ -755,3 +755,122 @@ Book2 second review pass (2026-09-12, later the same day): user asked
   table-row insertion done on this book, verified with the same rigor
   as a paragraph insertion); delivered. Word count: 12,194 (was
   12,068). Accompanying PDF regenerated again via Word COM.
+
+Book2 gap-list closeout (2026-09-13): user asked to close out the
+  remaining lower-confidence/lower-priority items the two review passes
+  above had explicitly deferred rather than fixed, instead of leaving
+  them open indefinitely. Three items, all independently re-verified
+  against the actual chapter text before fixing:
+    Chapter 1's Appendix D summary omitted Section 1.3 (Gain and
+    Distortion) entirely -- flagged in the FIRST audit pass but never
+    actually fixed (Ch2/4/5/6/8/9 summaries were each fixed for the
+    same class of gap, but Ch1 was missed). Added a clause on the
+    gain/headroom tradeoff and clipping, matching the chapter's own
+    Common Misconception box on the same topic.
+    Appendix C's glossary was missing two named, specifically-tested
+    terms, deferred in the SECOND pass as lower-confidence and as
+    requiring a full paragraph insertion rather than a text edit:
+    "Class 2 dielectric" (tested directly by Appendix B Ch8#3 and named
+    in the Ch8 chapter summary) and "Regeneration" (a named Ch2 Key
+    Idea concept). Both added in correct alphabetical position
+    (Class 2 dielectric between Boolean algebra and Clipping;
+    Regeneration between Quality factor and Self-resonant frequency),
+    matching the existing entries' exact paragraph formatting.
+  This was the first genuine new-paragraph insertion into Appendix C on
+  this book (the second pass's Appendix A fix was a table-row
+  insertion, a different structure) -- anchored on a full </w:p><w:p>
+  boundary per this session's established practice, and validated with
+  the standard nested-w:p check in addition to XSD schema and zip
+  integrity. Delivered. Word count: 12,284 (was 12,194). PDF
+  regenerated again via Word COM. With this pass, no further deferred
+  or "possible" items remain open from either Book 2 review pass.
+
+Book2 location move + EE2 subfolder convention (2026-09-20/25): the
+  books folder moved from D:\My Books for Amazon to C:\Users\lomus\
+  OneDrive\My Books for Amazon after D: drive corruption (383 files
+  damaged 2026-09-16/17, unrelated to this book). Book 2 verified
+  intact post-move: all zip members and embedded PNGs pass CRC checks,
+  body text and images byte-identical to the last delivered build. On
+  2026-09-25 the user asked for a dedicated delivery subfolder,
+  EE - Series/EE2/, docx file only (no PDF, no debug/check files) --
+  the pre-existing root-level Core_Circuits_and_Components_Book2.docx
+  was left in place, untouched, but all NEW work from this point goes
+  to EE2/ instead.
+
+Book2 headline styling (2026-09-25): user supplied a blue swatch image
+  (sampled to #0000FF) and asked for centered, bold headline styling in
+  Amazon Ember, 18pt, applied consistently to any headline "big or
+  small." Both Heading1 and Heading2 styles changed in word/styles.xml
+  (76 instances via the style definitions, zero per-paragraph
+  overrides): font Amazon Ember, bold, centered, color 0000FF, size
+  unified to 18pt (previously two different sizes). Amazon Ember is
+  not installed on the machine that built this -- the XML correctly
+  specifies it, but any local render substitutes a fallback font until
+  opened somewhere the font is actually installed (or by Kindle's own
+  renderer). One schema bug hit and fixed: <w:jc> must precede
+  <w:outlineLvl> in a style's <w:pPr> or XSD validation fails even
+  though the XML is well-formed.
+
+Book2 overused-verb check (2026-09-25): user asked to check for verbs
+  repeated on the same page. Extracted true per-page text via Word COM
+  pagination, POS-tagged and lemmatized (NLTK) to group verb forms by
+  page. Found 127 raw same-page repeats across 28 pages; reading each
+  in context showed the large majority are legitimate technical
+  vocabulary, fixed structural labels, or deliberate parallel-structure
+  rhetoric that must NOT be touched (touching them would have undone
+  prior audit passes' careful wording). Fixed only the 5 genuine
+  same-sentence or needless-repeat cases (Ch1, Ch2, Ch4 x3), each
+  independently confirmed as a unique occurrence before editing.
+
+Book2 Physics Didactic Style Guide pass (2026-09-25): user pointed at
+  Physics Didactic Style Guide.md and asked for its approach applied
+  where easy to implement -- scoped down (per the user) from the
+  guide's full seven-move pedagogical rewrite to just its mechanical
+  Register checklist (banned dismissive hedges: clearly, obviously,
+  simply, just, of course, "it can be shown that," etc.). The book was
+  already clean on nearly every banned pattern; found and fixed the 4
+  genuine hinge-word cases (all "simply," dropped with no rewording
+  needed). No pedagogical rewrite was attempted in this pass.
+
+Book2 gentle-opener pass, ALL CHAPTERS (2026-09-25) -- STANDING
+  INSTRUCTION: user then said "make sure the book really goes very
+  gentle on the clueless reader... from now on do that," explicitly
+  escalating past the "easy to implement" scoping above and asking for
+  this quality to be maintained on all FUTURE additions to this book,
+  not just this one pass. Designed a repeatable "gentle opener"
+  pattern -- one short paragraph (14-90 words) inserted before each
+  chapter's existing opening paragraph, grounding the chapter's new
+  concept in a completely everyday, non-technical image (light switch,
+  vending machine, kitchen strainer, soda can, etc.) before the
+  chapter's own text continues unchanged. Applied to all 9 chapters,
+  each anchored on the target paragraph's own w14:paraId to avoid
+  corrupting the existing text run. Ch8/Ch9 deliberately got short
+  one-sentence callbacks instead of full new analogies, since they
+  extend Ch7's concept rather than introduce a new one. Word count
+  12,281 -> 12,862. Structurally validated; delivered to EE2/.
+
+Book2 hostile-referee pass (2026-09-26): user pasted a strict
+  adversarial-review persona (attack-only, no rewriting, no invented
+  facts, mark UNVERIFIED rather than fix, 6 attack classes). Read the
+  entire current book (485 paragraphs) in one pass rather than
+  delegating to agents, specifically to catch cross-chapter
+  contradictions. Independently re-verified all Appendix B arithmetic
+  again (fourth clean pass, zero errors). VERDICT: "publishable with
+  patches." 7 findings, all fixed on the immediate "fix/patch those"
+  follow-up: Ch2's elliptical sentence ending spelled out; Ch4's XOR
+  reference made self-contained instead of falsely implying prior
+  coverage; Ch3 Worked Example 3.1's circular proof replaced with a
+  direct two-case check; Ch4's "entire basis of synchronous design"
+  overclaim softened to "a foundation of"; Ch5's golden rules given
+  the missing identifying test for negative vs. positive feedback (the
+  most serious finding -- the book taught the rule but never how to
+  recognize its precondition); Ch6 Worked Example 6.3 given a stated
+  resistor-value criterion; Ch7's SMD-dominance overclaim broadened
+  from size alone to size/cost/assembly. Structurally validated (XSD
+  schema, zip integrity, nested-w:p); delivered to EE2/. Word count
+  12,862 -> 12,938.
+
+With this pass, Book 2 has now had six independent review/audit passes
+  (four-dimension audit, second review, gap-list closeout, plus this
+  session's verb check, style-guide check, and hostile-referee pass) --
+  no further deferred items are known to remain.
