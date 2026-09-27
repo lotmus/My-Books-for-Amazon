@@ -11,7 +11,28 @@
 //   {type:"quote", blocks:[...]}           // unlabeled blockquote
 //   {type:"directive", name}               // %%NAME%%
 
+const fs = require("fs");
+const path = require("path");
+
 const NBSP = " ";
+
+// Recursively collects manuscript chapter files under `dir` (which may group
+// them into subfolders, e.g. 02_USA/), skipping "_"-prefixed files/folders.
+// Returns paths relative to `dir`, sorted so numbered subfolders keep the
+// book's front-to-back order.
+function listManuscriptFiles(dir) {
+  const out = [];
+  (function walk(sub) {
+    const abs = path.join(dir, sub);
+    for (const entry of fs.readdirSync(abs, { withFileTypes: true }).sort((a, b) => a.name.localeCompare(b.name))) {
+      if (entry.name.startsWith("_")) continue;
+      const rel = sub ? path.join(sub, entry.name) : entry.name;
+      if (entry.isDirectory()) walk(rel);
+      else if (entry.name.endsWith(".md")) out.push(rel);
+    }
+  })("");
+  return out.sort();
+}
 
 // ---------------------------------------------------------------- typography
 // Fixes leftover straight quotes (writers are told to use typographic ones),
@@ -230,4 +251,4 @@ function bookmarkFor(h2text, filename, fallbackIdx) {
   return "s" + fallbackIdx;
 }
 
-module.exports = { NBSP, typo, parseInline, stripInline, parseMarkdown, parseLines, blockText, countWords, XREF_RE, bookmarkFor };
+module.exports = { NBSP, typo, parseInline, stripInline, parseMarkdown, parseLines, blockText, countWords, XREF_RE, bookmarkFor, listManuscriptFiles };

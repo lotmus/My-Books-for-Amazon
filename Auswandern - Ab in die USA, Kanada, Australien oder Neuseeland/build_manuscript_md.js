@@ -4,6 +4,7 @@
 
 const fs = require("fs");
 const path = require("path");
+const P = require("./lib/parse");
 
 const ROOT = __dirname;
 
@@ -17,7 +18,7 @@ const book = JSON.parse(fs.readFileSync(path.join(ROOT, "book.json"), "utf8"));
 const defaultOut = path.join("build", `${book.title} - ${book.subtitle}`.replace(/[\\/:*?"<>|]/g, "") + ".manuscript.md");
 const OUT = path.resolve(ROOT, argVal("--out", defaultOut));
 
-const files = fs.readdirSync(MS_DIR).filter((f) => f.endsWith(".md") && !f.startsWith("_")).sort();
+const files = P.listManuscriptFiles(MS_DIR);
 
 const parts = [
   `# ${book.title} – ${book.subtitle}`,

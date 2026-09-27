@@ -48,10 +48,10 @@ const NONE = { style: BorderStyle.NONE, size: 0, color: "FFFFFF" };
 const NO_BORDERS = { top: NONE, bottom: NONE, left: NONE, right: NONE, insideHorizontal: NONE, insideVertical: NONE };
 
 // ------------------------------------------------------------------ pass 1: read + collect bookmarks
-const files = fs.readdirSync(MS_DIR).filter((f) => f.endsWith(".md") && !f.startsWith("_")).sort();
+const files = P.listManuscriptFiles(MS_DIR);
 if (!files.length) { console.error("No .md files in " + MS_DIR); process.exit(1); }
 
-const docs = files.map((f) => ({ file: f, blocks: P.parseMarkdown(fs.readFileSync(path.join(MS_DIR, f), "utf-8")) }));
+const docs = files.map((f) => ({ file: path.basename(f), blocks: P.parseMarkdown(fs.readFileSync(path.join(MS_DIR, f), "utf-8")) }));
 
 const bookmarks = new Set();
 let bmCounter = 0;

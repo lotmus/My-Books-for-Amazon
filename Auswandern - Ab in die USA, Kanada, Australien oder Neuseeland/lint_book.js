@@ -13,7 +13,7 @@ const SLANG = /\b(krass|mega|geil|Hammer|Mörder|abgefahren|Bock auf|checkst|Leu
 const EMOJI = /(?![©®™↔])\p{Extended_Pictographic}/u; // © ® ™ ↔ are legitimate (technical symbols, not emoji)
 const filters = process.argv.slice(2);
 
-const allFiles = fs.readdirSync(MS).filter((f) => f.endsWith(".md") && !f.startsWith("_")).sort();
+const allFiles = P.listManuscriptFiles(MS);
 const files = allFiles.filter((f) => !filters.length || filters.some((x) => f.includes(x)));
 
 // Global anchor set for internal-link validation, built from ALL files
@@ -22,7 +22,7 @@ const allAnchors = new Set();
 allFiles.forEach((f) => {
   const blocks = P.parseMarkdown(fs.readFileSync(path.join(MS, f), "utf-8"));
   let idx = 0;
-  blocks.forEach((b) => { if (b.type === "h2") allAnchors.add(P.bookmarkFor(b.text, f, ++idx)); });
+  blocks.forEach((b) => { if (b.type === "h2") allAnchors.add(P.bookmarkFor(b.text, path.basename(f), ++idx)); });
 });
 
 function walk(blocks, fn) { blocks.forEach((b) => { fn(b); if (b.blocks) walk(b.blocks, fn); }); }
@@ -35,9 +35,10 @@ files.forEach((f) => {
   const errs = [], warns = [];
   const words = P.countWords(blocks);
   totalWords += words;
-  const km = f.match(/_K(\d\d)_/);
+  const base = path.basename(f);
+  const km = base.match(/_K(\d\d)_/);
   const NEW_PART = { TAU: "Australien", TKA: "Kanada", TNZ: "Neuseeland", T00: "Universal" };
-  const newKm = f.match(/^(TAU|TKA|TNZ|T00)_K\d\d_/);
+  const newKm = base.match(/^(TAU|TKA|TNZ|T00)_K\d\d_/);
   const isChapter = !!km;
   const num = km && !newKm ? parseInt(km[1], 10) : null;
 
