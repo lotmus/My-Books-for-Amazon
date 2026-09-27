@@ -188,7 +188,7 @@ This is not merely a theoretical curiosity. GPS satellites need extremely precis
 
 Both special and general relativity therefore matter. Engineers correct for these effects. Without those corrections, your navigation system would rapidly become inaccurate. So every time your phone tells you that you are standing in the right parking lot instead of the one next door, you are benefiting from curved spacetime.
 
-Put a number on it: the combined effect of speed and altitude leaves GPS clocks running about 38 microseconds faster per day than clocks on the ground — and light covers about 300 meters in a single microsecond. Left uncorrected, that drift compounds into a real, measurable navigation error within a single day.
+Put a number on it: the combined effect of speed and altitude leaves GPS clocks running about 38 microseconds faster per day than clocks on the ground — and light covers about 300 meters in a single microsecond — enough, on its own, for you to work out roughly how far a day’s uncorrected drift would throw off a GPS position (there’s a “Try It Yourself” problem on exactly that later in the book, if you want to check your arithmetic). Left uncorrected, that drift compounds into a real, measurable navigation error within a single day.
 
 Einstein's universe is not just philosophically interesting. It is part of the machinery of ordinary life.
 
@@ -204,9 +204,9 @@ But it was measurable. Einstein had predicted it. The result became one of the e
 
 ## Gravity affects everything that carries energy
 
-In general relativity, gravity is not simply something that acts on objects with mass. Energy, momentum, pressure, and stresses all contribute to the gravitational field. Light carries energy and momentum. Therefore light participates in gravity.
+In general relativity, gravity is not simply something that acts on objects with mass. Energy, momentum, pressure, and stresses all contribute to the gravitational field. Light carries energy and momentum, so light itself is technically a source of spacetime curvature too — not just something that responds to it, although its own contribution is fantastically tiny.
 
-This is why gravitational lensing is possible. A massive galaxy or cluster can distort spacetime so strongly that light from a more distant object is deflected around it. The universe sometimes gives us natural telescopes made of gravity.
+That is a separate point from gravitational lensing, though. Lensing works the way the previous section already described: light follows curved spacetime sourced by something massive. A galaxy or cluster can distort spacetime so strongly that light from a more distant object is deflected around it, and the universe sometimes gives us natural telescopes made of gravity.
 
 ## The geometry tells matter how to move
 
@@ -466,7 +466,7 @@ There was no cosmic bomb sitting somewhere and blasting galaxies outward into em
 
 Stand on the surface of an inflating balloon and mark several dots on it. As the balloon expands, every dot gets farther from every other dot. A dot near you is not the center. Neither is any other dot.
 
-The two-dimensional surface has no special center on the surface itself. Our universe is not literally the surface of a balloon, but the analogy helps us avoid one of the most common mistakes. The expansion of the universe does not have to have a central point inside the universe. Every sufficiently distant galaxy can see other distant galaxies receding from it.
+The two-dimensional surface has no special center on the surface itself. Our universe is not literally the surface of a balloon, and this analogy has its own limit worth naming: a balloon’s surface is closed and finite, but that’s a feature of the analogy, not a fact about the cosmos — as far as we can tell, space is very close to flat, and a flat universe could just as easily be infinite. Even so, the balloon picture helps us avoid one of the most common mistakes. The expansion of the universe does not have to have a central point inside the universe. Every sufficiently distant galaxy can see other distant galaxies receding from it.
 
 That is exactly what we would expect from a homogeneous expanding universe.
 
@@ -502,7 +502,7 @@ The early universe was not perfectly smooth. There were tiny differences in dens
 
 A region that was a little denser pulled in more matter. More matter made its gravity stronger. That attracted still more matter. Over immense stretches of time, small irregularities grew into enormous structures.
 
-Galaxies formed. Galaxies gathered into groups and clusters. A vast cosmic web emerged. The galaxies you see today are therefore not random decorations scattered through space.
+Galaxies formed. Galaxies gathered into groups and clusters. A vast cosmic web emerged (the next chapter looks at that structure up close). The galaxies you see today are therefore not random decorations scattered through space.
 
 They are the descendants of tiny variations that existed when the universe was young.
 
@@ -594,7 +594,7 @@ That is not what astronomers found. The outer stars were moving far too quickly 
 
 In the 1970s, astronomer Vera Rubin and her collaborators measured exactly how fast stars and gas moved at different distances from galactic centers. The result was striking: rotation speeds in the outer regions of many galaxies stayed surprisingly high, far past where the visible starlight faded out. Instead of dropping off as expected, the curves often went essentially flat.
 
-Put a number on the flatness: in a typical spiral galaxy, stars far out in the disk orbit at roughly the same speed — often somewhere around 200 kilometers per second — as stars much closer to the center. Newtonian intuition, with only the visible mass to go on, predicts those outer stars should be moving dramatically slower.
+Put a number on the flatness: in a typical spiral galaxy, stars far out in the disk orbit at roughly the same speed — often somewhere around 200 kilometers per second — regardless of exactly how far out they are. Newtonian intuition, with only the visible mass to go on, predicts those outer stars should be moving dramatically slower than that, tailing off the farther out you look.
 
 That was a problem. If visible matter were the whole story, those outer stars shouldn't have behaved that way. Something else was contributing gravitational mass — something surrounding the visible galaxy, something nobody could see.
 
@@ -706,7 +706,7 @@ That distinction sorts dark matter into broad categories: hot, warm, and cold. T
 
 The modern standard cosmological model is often called ΛCDM. The letters stand for its two headline ingredients: Λ, the cosmological constant associated with dark energy, and CDM, cold dark matter.
 
-Combined with ordinary matter, radiation, neutrinos, and the geometry of spacetime, this recipe describes the large-scale universe with remarkable success. It isn't necessarily the final theory, but it works extremely well — and “this works extremely well” is not the same statement as “we now understand what reality fundamentally is.”
+Combined with ordinary matter, radiation, neutrinos — ghostly, nearly massless particles we’ll meet properly in Chapter 7 — and the geometry of spacetime, this recipe describes the large-scale universe with remarkable success. It isn't necessarily the final theory, but it works extremely well — and “this works extremely well” is not the same statement as “we now understand what reality fundamentally is.”
 
 In fact there are really two separate mysteries hiding inside the phrase “dark matter.” First: is the unseen gravitational component actually matter? The evidence strongly says yes — something with matter-like gravitational behavior. Second: what is it made of? That question is still wide open.
 
@@ -762,7 +762,7 @@ The discovery of cosmic acceleration came from something that seems almost too s
 
 That means if we measure how bright one appears to us, we can estimate how far away it is. The farther away it is, the fainter it appears. Simple enough. But there's more.
 
-Because the supernova's light has also been stretched by cosmic expansion, astronomers can compare how far away it appears to be with how much the universe expanded while that light was traveling toward us. That comparison lets us reconstruct the entire history of cosmic expansion. And the results were astonishing.
+Because the supernova's light has also been stretched by cosmic expansion, astronomers can compare how far away it appears to be with how much the universe expanded while that light was traveling toward us. That comparison lets us reconstruct the entire history of cosmic expansion. And the results were astonishing: the distant supernovae were dimmer — meaning farther away — than a universe slowing down under its own gravity would predict.
 
 ## The universe had changed its mind
 
@@ -826,7 +826,7 @@ To understand the issue more precisely, cosmologists use the Friedmann equations
 
 Don't let the symbols intimidate you. The equation is essentially a cosmic accounting system. The expansion rate depends on the density of matter and radiation, the curvature of space, and the cosmological constant — how much stuff there is, what shape space takes, and how hard empty space itself is pushing.
 
-Matter tends to slow expansion down. Radiation affects the expansion strongly in the early universe. A positive cosmological constant, on the other hand, produces accelerated expansion. The entire history of the universe is a competition between these ingredients, and which one wins changes as the universe ages.
+Matter’s gravity tends to work against expansion, gradually pulling against it as the universe grows. Radiation affects the expansion strongly in the early universe. A positive cosmological constant, on the other hand, produces accelerated expansion. The entire history of the universe is a competition between these ingredients, and which one wins changes as the universe ages.
 
 ## Why does dark energy eventually dominate?
 
@@ -922,7 +922,7 @@ So the universe looks less like a uniform fog of galaxies and more like a gigant
 
 One of the key predictions of the standard cosmological model is that structure develops hierarchically: small galaxies merge into larger ones, galaxies gather under their mutual gravity into groups, and groups assemble into even larger clusters. Small first, big later — that is the rule, though a few surprisingly massive early galaxies spotted by the James Webb Space Telescope are currently testing how strictly it holds.
 
-That doesn't mean every structure grows identically. Cosmic history is messy: galaxies collide, gas flows, stars explode, black holes grow, feedback processes redistribute energy. But underneath all that complexity is a simple gravitational story — small density differences grow into large structures.
+That doesn't mean every structure grows identically. Cosmic history is messy: galaxies collide, gas flows, stars explode, and black holes grow — and all of that energetic activity can heat a galaxy's gas or blast it out entirely, a process astronomers call feedback, which throttles the galaxy's own future star formation. But underneath all that complexity is a simple gravitational story — small density differences grow into large structures.
 
 Big galaxies did not appear first and fragment into smaller pieces — they were built, piece by piece, over billions of years.
 
@@ -1088,7 +1088,7 @@ What came before? Now we reach the boundary between what we understand reasonabl
 
 *Where this stands: OPEN QUESTION — no theory of quantum gravity has earned experimental confirmation.*
 
-At unimaginably early times, around the Planck scale, quantum effects of gravity should become important. Our familiar picture of smooth spacetime may no longer be adequate. Physicists have several ideas about what might replace it, including different approaches to quantum gravity. None has yet earned the status of an experimentally confirmed theory of the earliest universe, so this is a place where scientific honesty matters more than a dramatic answer.
+At unimaginably early times — around the Planck scale, roughly 10⁻³⁵ meters and 10⁻⁴³ seconds, with Chapter 10 explaining exactly where those numbers come from — quantum effects of gravity should become important. Our familiar picture of smooth spacetime may no longer be adequate. Physicists have several ideas about what might replace it, including different approaches to quantum gravity. None has yet earned the status of an experimentally confirmed theory of the earliest universe, so this is a place where scientific honesty matters more than a dramatic answer.
 
 Did the universe begin at a point? The phrase “the beginning of the universe” can be misleading. The Big Bang model tells us that the universe was once much hotter and denser and that it has been expanding and cooling. It does not, by itself, give us a complete description of an absolute beginning from nothing.
 
@@ -1154,7 +1154,7 @@ Nuclei can be excited. They can transform. They can capture particles. They can 
 
 They can fuse. They can split. They can reveal the structure of matter at scales far smaller than chemistry. And eventually, when we ask what the proton and neutron themselves are made of, we arrive at quarks and gluons.
 
-Nuclear physics therefore leads naturally toward the Standard Model — particle physics's own master catalog of every known fundamental particle and force, a different “standard model” from the cosmological one met earlier in this book. The nucleus is not the end of the story. It is another door.
+Nuclear physics therefore leads naturally toward the Standard Model — particle physics's own master catalog of every known fundamental particle and three of the four fundamental forces — electromagnetism and the strong and weak nuclear forces, though not gravity — a different “standard model” from the cosmological one met earlier in this book. The nucleus is not the end of the story. It is another door.
 
 ## The Nuclear Punchline
 
@@ -1272,13 +1272,13 @@ The important word is exponential. Ordinary fast growth adds up. Exponential gro
 
 Suppose something doubles over and over. After ten doublings, you have 1,024 — a big number, but not an absurd one. After a hundred doublings, you have roughly a 1 followed by thirty zeros: 10³⁰. That's already larger than the number of stars in the observable universe, many times over.
 
-Inflation is essentially that process, applied to space itself. The exact expansion factor depends on the model, but the key point holds across nearly all of them: a patch far smaller than an atom can be stretched into a region vastly larger than the observable universe — and it doesn't need to take long. It only needs to be efficient. Space gets huge, fast.
+Inflation is essentially that process, applied to space itself. The exact expansion factor depends on the model, but the key point holds across nearly all of them: a patch far smaller than an atom can be stretched into a region thousands of light-years across — already bigger than a galaxy — and it doesn't need to take long. (Getting from there to today's actual observable universe takes billions more years of ordinary cosmic expansion on top of that; more in a moment.) It only needs to be efficient. Space gets huge, fast.
 
 ## What actually caused it?
 
 *Where this stands: SPECULATIVE — no inflaton field has ever been detected.*
 
-Here the story gets more speculative. The simplest inflationary models invoke a field called the inflaton — something with a value at every point in space, the way the Higgs field or the electromagnetic field does. An inflationary field would carry an energy dense enough, and shaped in just the right way, to drive accelerated expansion on its own.
+Here the story gets more speculative. The simplest inflationary models invoke a field called the inflaton — something with a value at every point in space, the way the Higgs field (the field responsible for giving fundamental particles their mass) or the electromagnetic field does. An inflationary field would carry an energy dense enough, and shaped in just the right way, to drive accelerated expansion on its own.
 
 We should add the warning immediately: nobody has detected an inflaton. Inflation is a framework with a lot of attractive consequences and real observational successes, but the exact physical field behind it — if there ever was a single one — remains unknown.
 
@@ -1396,7 +1396,7 @@ A clock deeper in a gravitational field runs more slowly relative to a clock far
 
 ## A clock on a neutron star
 
-*Where this stands: OBSERVED — confirmed routinely through precision pulsar timing.*
+*Where this stands: OBSERVED — the predicted size of the effect matches decades of precision pulsar-timing data, though (unlike the NIST comparison below) it’s inferred from how well timing models fit the data rather than read directly off a clock sitting on the star.*
 
 Take a neutron star: roughly the mass of the Sun, compressed into a sphere about twenty kilometers across. Stand a clock on its surface, and the gravitational field is billions of times stronger than anything a GPS satellite experiences. A clock there runs measurably, unmistakably slower than an identical clock far away — not by nanoseconds, but by something like fifteen to twenty-five percent, slow enough that a wristwatch, if it could survive there, would catch the difference within minutes.
 
@@ -1472,7 +1472,7 @@ Quantum effects near a black-hole horizon imply that black holes can emit therma
 
 ## The black hole information problem
 
-*Where this stands: OPEN QUESTION — genuinely unresolved, and central to current quantum-gravity research.*
+*Where this stands: OPEN QUESTION — still unresolved in general, though work since about 2019 (so-called “island” and replica-wormhole calculations) has shifted many physicists toward thinking information does survive, at least in the simplified model cases where the math has been checked; whether that holds up as a general law of nature is still very much a live debate.*
 
 Here is the trouble. Quantum mechanics normally evolves information in a way that preserves the underlying quantum state — in principle, if you knew everything about a system at one moment, you could always reconstruct everything about it at any earlier or later moment. But if a black hole evaporates completely through Hawking radiation, what happens to the information about everything that fell into it?
 
@@ -1494,9 +1494,9 @@ The Planck scale does not automatically mean that spacetime literally becomes a 
 
 *Where this stands: SPECULATIVE — a radical possibility explored by several research programs, not an established result.*
 
-Here is a truly radical possibility. Perhaps spacetime itself is not fundamental. Maybe space and time emerge from something deeper, just as temperature emerges from the collective behavior of enormous numbers of particles bouncing around. A single molecule does not have a temperature — temperature is a statistical property of trillions of them together. If that is true of spacetime, asking what spacetime is made of could be like asking what a single wave is made of — not what medium carries it, but what the wave itself, as a thing, is built from.
+Here is a truly radical possibility. Perhaps spacetime itself is not fundamental. Maybe space and time emerge from something deeper, just as temperature emerges from the collective behavior of enormous numbers of particles bouncing around. A single molecule does not have a temperature — temperature is a statistical property of trillions of them together. If that is true of spacetime, asking what spacetime is made of could be like asking what a single wave is made of — not what medium carries it, but what the wave itself, as a thing, is built from. Physicists don’t agree on which picture is closer to the truth here — whether spacetime is built from huge numbers of small, discrete pieces the way a gas is built from molecules, or whether it’s more like a pattern with nothing smaller underneath it at all, the way a wave is a shape rather than a stack of tinier waves. Both are live possibilities, and the two approaches below lean toward different ends of that spectrum.
 
-The answer is: not smaller waves. A wave is a pattern moving through something deeper, not a stack of tinier waves — and so, perhaps, is space itself.
+The answer, on the second picture, is: not smaller waves. A wave is a pattern moving through something deeper, not a stack of tinier waves — and so, perhaps, is space itself.
 
 ## String theory
 
@@ -1702,9 +1702,9 @@ These questions have led physicists to investigate whether quantum effects, chro
 
 ## The Wormhole Is Not a Portal to the Fifth Dimension
 
-This is worth repeating because popular imagery gets it wrong. A wormhole does not require a person to leave ordinary three-dimensional space and enter a magical fourth spatial dimension. The relevant geometry belongs to spacetime. Extra-dimensional theories can provide other constructions.
+One last version of the same myth, because it’s persistent: a wormhole is not a door into a hidden fourth spatial dimension floating outside our universe. The geometry doing the work is ordinary four-dimensional spacetime — not some extra layer bolted on top of it.
 
-But the ordinary Einstein–Rosen bridge is already a four-dimensional spacetime phenomenon.
+It’s the same spacetime this entire book has been describing all along.
 
 ## The tunnel is not “somewhere else.”
 
@@ -1718,7 +1718,7 @@ General relativity gives us the geometry. Quantum mechanics gives us entanglemen
 
 In modern theoretical physics, there is a conjectural connection summarized as: ER = EPR. ER means Einstein–Rosen bridge. EPR means Einstein–Podolsky–Rosen entanglement.
 
-The idea, associated especially with Juan Maldacena and Leonard Susskind, suggests that certain quantum-entangled systems may have a geometric description involving wormhole-like connections.
+The idea, associated especially with Juan Maldacena and Leonard Susskind, suggests that certain quantum-entangled systems may have a geometric description involving wormhole-like connections — that entanglement isn’t just a strange correlation between particles, but might, in some deep mathematical sense, be the same thing as a wormhole connecting them. If that turns out to be right, geometry and entanglement would be two languages describing one underlying reality, which is exactly the kind of unification physicists have been chasing since Einstein.
 
 ## Entanglement Does Not Give You a Wormhole Telephone
 
@@ -1852,7 +1852,7 @@ This is the equivalence principle, and it is the single idea the entire theory o
 
 ## Gravitational waves are real, measurable ripples in spacetime itself
 
-They were predicted in 1916 and directly detected in 2015, by measuring a distortion roughly one-thousandth the width of a proton. Spacetime is not a rigid stage. Under the right conditions, it rings like a bell.
+They were predicted in 1916 and directly detected in 2015, by measuring a distortion roughly 1/250th the width of a proton — hundreds of times smaller than the particle itself. Spacetime is not a rigid stage. Under the right conditions, it rings like a bell.
 
 ## The universe is not expanding into anything
 
@@ -1896,7 +1896,7 @@ ACTIVE RESEARCH: what dark matter and dark energy actually are; how to unify gen
 
 ## The Final Punchline
 
-Every idea in this volume traces back to the same move: take something that feels obvious — falling, standing still, empty space, the passage of time — and ask what it is actually made of. The universe has never once answered "nothing interesting." It has, every single time, answered with geometry.
+Every idea in this volume traces back to the same move: take something that feels obvious — falling, standing still, empty space, the passage of time — and ask what it is actually made of. The universe has never once answered "nothing interesting." Often, the answer has been geometry — and where it hasn't been yet (dark matter, dark energy, the deepest layer of quantum gravity), that is precisely where the most interesting work is still happening.
 
 ↑ Back to Contents
 
@@ -1972,7 +1972,7 @@ The boundary, at any event in spacetime, of everywhere light could travel to or 
 
 ## Nucleosynthesis
 
-The process by which atomic nuclei are built. Big Bang nucleosynthesis, in the universe's first few minutes, produced hydrogen and helium; heavier elements had to wait for stars. See Chapter 7.
+The process by which atomic nuclei are built. Big Bang nucleosynthesis, in the universe's first few minutes, fused some of the universe's hydrogen into helium (most hydrogen was simply left over, unfused); heavier elements had to wait for stars. See Chapter 7.
 
 ## Planck length / Planck time
 
@@ -2052,7 +2052,7 @@ During inflation, the universe's scale factor grows exponentially with time, rat
 
 a(t) is the scale factor at time t — how large the universe is relative to some earlier moment. The symbol ∝ means “grows in proportion to.” H sets the pace of the expansion. e is a special number, about 2.718, that shows up whenever growth compounds continuously.
 
-The difference between exponential and ordinary growth is the entire point: exponential growth compounds, the way money left in an account earning steady interest does, except radically faster. About a hundred doublings, repeated fast enough, can take a patch smaller than an atom past the size of the observable universe. Chapter 8 works through exactly how fast, and why physicists think it happened at all.
+The difference between exponential and ordinary growth is the entire point: exponential growth compounds, the way money left in an account earning steady interest does, except radically faster. About a hundred doublings, repeated fast enough, can take a patch smaller than an atom to a size measured in thousands of light-years — already bigger than a galaxy. Reaching today’s actual observable universe from there takes the roughly 13.8 billion years of ordinary cosmic expansion that came after inflation ended, on top of what inflation itself did. Chapter 8 works through exactly how fast, and why physicists think it happened at all.
 
 ## The Schwarzschild Radius
 
