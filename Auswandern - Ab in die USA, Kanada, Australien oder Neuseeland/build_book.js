@@ -164,14 +164,37 @@ function listParas(block, opts = {}) {
 function colWidths(header, rows) {
   const n = header.length;
   const weights = [];
+  // Longest unbreakable token (no spaces/slashes) per column, in DXA, so a
+  // single long compound word never gets forced to break mid-word instead
+  // of wrapping at a word boundary (~100 twips/char at table font size,
+  // plus cell padding).
+  const CHAR_W = 130, PAD = 250;
+  const floors = [];
   for (let j = 0; j < n; j++) {
-    const lens = [header[j], ...rows.map((r) => r[j] || "")].map((c) => P.stripInline(c).length);
+    const cells = [header[j], ...rows.map((r) => r[j] || "")];
+    const lens = cells.map((c) => P.stripInline(c).length);
     const avg = lens.reduce((a, b) => a + b, 0) / lens.length;
     const max = Math.max(...lens);
     weights.push(Math.max(9, Math.min(46, avg * 0.7 + max * 0.3)));
+    let longestToken = 0;
+    for (const c of cells) for (const tok of P.stripInline(c).split(/[\s/]+/)) longestToken = Math.max(longestToken, tok.length);
+    floors.push(Math.max(950, longestToken * CHAR_W + PAD));
   }
   const sum = weights.reduce((a, b) => a + b, 0);
-  let w = weights.map((x) => Math.max(950, Math.round((x / sum) * TEXT_W)));
+  const floorSum = floors.reduce((a, b) => a + b, 0);
+  let w;
+  if (floorSum <= TEXT_W) {
+    // Every column can have its floor plus a content-weighted share of
+    // what's left over.
+    const remaining = TEXT_W - floorSum;
+    w = floors.map((f, j) => f + Math.round(remaining * (weights[j] / sum)));
+  } else {
+    // Floors alone don't fit (several long compound words spread across
+    // different columns of the same table) -- there's no way to satisfy
+    // every column, so give each a share proportional to how much it
+    // needs rather than shrinking all of them by the same amount.
+    w = floors.map((f) => Math.max(750, Math.round((f / floorSum) * TEXT_W)));
+  }
   const diff = TEXT_W - w.reduce((a, b) => a + b, 0);
   w[w.indexOf(Math.max(...w))] += diff;
   return w;
@@ -280,15 +303,15 @@ docs.forEach((d) => {
     const b = blocks[i];
     switch (b.type) {
       case "directive":
-        if (b.name === "TITLEPAGE") { flush(); cur.push(...titlePage()); flush({ center: true, noFooter: true }); }
+        if (b.name === "TITLEPAGE") { flush(); cur.push(...titlePage()); }
         else if (b.name === "PAGEBREAK") cur.push(new Paragraph({ pageBreakBefore: true, children: [] }));
         else if (b.name === "TOC") cur.push(...tocBlock());
-        else if (b.name === "SMALL") { flush(); smallMode = true; }
-        else if (b.name === "NORMAL") { flush({ bottom: true, noFooter: true }); smallMode = false; }
+        else if (b.name === "SMALL") { cur.push(spacer(360)); smallMode = true; }
+        else if (b.name === "NORMAL") { flush({ noFooter: true }); smallMode = false; }
         break;
       case "h1": {
         flush();
-        cur.push(new Paragraph({ heading: HeadingLevel.HEADING_1, alignment: AlignmentType.CENTER, spacing: { after: 360 }, children: [new TextRun({ text: P.typo(b.text), font: HEADING_FONT, bold: true, color: HEADING_BLUE })] }));
+        cur.push(new Paragraph({ heading: HeadingLevel.HEADING_1, alignment: AlignmentType.CENTER, spacing: { after: 360, line: 340 }, children: [new TextRun({ text: P.typo(b.text), font: HEADING_FONT, bold: true, color: HEADING_BLUE })] }));
         while (i + 1 < blocks.length && blocks[i + 1].type === "p") {
           i++;
           cur.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 160, line: 300 }, indent: { left: 400, right: 400 }, children: runs(blocks[i].text, { italics: true, size: 24 }) }));
@@ -299,12 +322,12 @@ docs.forEach((d) => {
       case "h2":
         cur.push(new Paragraph({
           heading: HeadingLevel.HEADING_2, pageBreakBefore: true, keepNext: true, alignment: AlignmentType.CENTER,
-          spacing: { before: 0, after: 300 },
+          spacing: { before: 0, after: 300, line: 340 },
           children: [new Bookmark({ id: b.bookmark, children: [new TextRun({ text: P.typo(b.text), font: HEADING_FONT, size: HEADING_SIZE, bold: true, color: HEADING_BLUE })] })],
         }));
         break;
-      case "h3": cur.push(new Paragraph({ heading: HeadingLevel.HEADING_3, keepNext: true, alignment: AlignmentType.CENTER, spacing: { before: 280, after: 100 }, children: [new TextRun({ text: P.typo(b.text), font: HEADING_FONT, size: HEADING_SIZE, bold: true, color: HEADING_BLUE })] })); break;
-      case "h4": cur.push(new Paragraph({ heading: HeadingLevel.HEADING_4, keepNext: true, alignment: AlignmentType.CENTER, spacing: { before: 200, after: 80 }, children: [new TextRun({ text: P.typo(b.text), font: HEADING_FONT, size: HEADING_SIZE, bold: true, color: HEADING_BLUE })] })); break;
+      case "h3": cur.push(new Paragraph({ heading: HeadingLevel.HEADING_3, keepNext: true, alignment: AlignmentType.CENTER, spacing: { before: 280, after: 100, line: 340 }, children: [new TextRun({ text: P.typo(b.text), font: HEADING_FONT, size: HEADING_SIZE, bold: true, color: HEADING_BLUE })] })); break;
+      case "h4": cur.push(new Paragraph({ heading: HeadingLevel.HEADING_4, keepNext: true, alignment: AlignmentType.CENTER, spacing: { before: 200, after: 80, line: 340 }, children: [new TextRun({ text: P.typo(b.text), font: HEADING_FONT, size: HEADING_SIZE, bold: true, color: HEADING_BLUE })] })); break;
       case "p":
         if (smallMode) cur.push(para(b.text, { size: 17, color: "444444", after: 90, line: 260 }));
         else cur.push(para(b.text));
