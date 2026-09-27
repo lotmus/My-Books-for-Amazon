@@ -1,10 +1,7 @@
 # Build dependencies (reinstall with `npm install`)
 node_modules/
 
-# Build outputs (regenerate with `npm run build`) -- the markdown in manuscript/
-# is the source of truth, not these.
-build/
-*.docx
-*.pdf
-*.epub
+# build/ (the DOCX + combined manuscript.md) is tracked so it's visible in the
+# repo -- the markdown in manuscript/ is still the source of truth, regenerate
+# build/ with `npm run build` after editing chapters.
 ~$*
