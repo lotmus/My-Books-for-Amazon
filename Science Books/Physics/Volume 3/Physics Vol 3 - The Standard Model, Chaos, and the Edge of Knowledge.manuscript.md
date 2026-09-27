@@ -260,7 +260,7 @@ If the universe had given the electron the mass of a tau, chemistry would be a v
 
 ### Neutrinos: the particles that barely care
 
-Neutrinos are electrically neutral leptons. They interact through the weak interaction and gravity, but not through electromagnetism or the strong interaction. That makes them extraordinarily difficult to detect. Billions of neutrinos pass through your body every second.
+Neutrinos are electrically neutral leptons. They interact through the weak interaction and gravity, but not through electromagnetism or the strong interaction. That makes them extraordinarily difficult to detect. Trillions of neutrinos pass through your body every second.
 
 You generally notice none of them. Neutrinos are produced in the Sun, radioactive processes, supernovae, nuclear reactors, and particle collisions. They are among the most abundant particles in the universe, and yet they are surprisingly shy.
 
@@ -512,7 +512,7 @@ The result is not magic. It is quantum mechanics, electrostatics and materials s
 
 A diode is useful. But computing requires something more powerful. We need a device whose output can be controlled by another electrical signal. Enter the transistor.
 
-The first working transistor was demonstrated at Bell Labs in 1947 by John Bardeen, Walter Brattain and William Shockley. The transistor could amplify and switch electrical signals. That changed everything.
+The first working transistor was demonstrated at Bell Labs in December 1947 by John Bardeen and Walter Brattain, with William Shockley leading the research group; all three later shared the Nobel Prize for it. The transistor could amplify and switch electrical signals. That changed everything.
 
 ### The Great Invention Was Smaller Than the Idea
 
@@ -586,7 +586,7 @@ We started with a material that could not decide whether it was a conductor or a
 
 Then a transistor. Then millions of transistors. Then billions. Then we put them in phones, satellites, cars, hospitals, spacecraft and data centers.
 
-All because electrons live in quantum energy bands. That is a spectacular amount of civilization to build on something that, at first glance, looks like a rather boring grey crystal. Silicon, it turns out, was never boring. We simply hadn't learned how to ask it the right question.
+All because electrons live in quantum energy bands. That is a spectacular amount of civilization to build on something that, at first glance, looks like a rather boring gray crystal. Silicon, it turns out, was never boring. We simply hadn't learned how to ask it the right question.
 
 ↑ Back to Contents
 
@@ -740,15 +740,15 @@ You cannot calculate an infinitely precise future from an imperfect present.
 
 ### Lorenz's Discovery
 
-In the 1960s, meteorologist Edward Lorenz was exploring simplified models of atmospheric convection. He restarted a calculation using numbers that were almost—but not quite—the same. The resulting trajectory eventually diverged dramatically. A tiny numerical difference had produced a completely different weather-like evolution.
+In 1961, meteorologist Edward Lorenz was running a twelve-variable numerical weather model when he restarted a calculation using numbers that were almost—but not quite—the same. The resulting trajectory eventually diverged dramatically. A tiny numerical difference had produced a completely different weather-like evolution.
 
 Lorenz realized that the problem was not a computer malfunction. It was a property of the equations. Sensitive dependence on initial conditions. Chaos had announced itself.
 
 ### A Strange Attractor
 
-Lorenz's system produced a remarkable geometric structure in phase space. Trajectories did not settle into a simple repeating orbit. They did not wander randomly either. They remained confined to a complicated structure now famously associated with the Lorenz attractor.
+Two years later, in 1963, Lorenz distilled the same phenomenon into a much simpler model: just three equations describing atmospheric convection. That system produced a remarkable geometric structure in phase space. Trajectories did not settle into a simple repeating orbit. They did not wander randomly either. They remained confined to a complicated structure now famously associated with the Lorenz attractor.
 
-It looked almost like the wings of a butterfly. The butterfly finally earned the metaphor. But the real surprise was deeper: order and unpredictability could coexist.
+It looked almost like the wings of a butterfly — a striking coincidence, since the name “butterfly effect” actually comes from the title of a 1972 talk in which Lorenz asked whether a butterfly flapping its wings in Brazil could set off a tornado in Texas. But the real surprise was deeper: order and unpredictability could coexist.
 
 ### Chaos Is Not Randomness
 
@@ -865,7 +865,7 @@ This jitter has a name: zero-point energy. It is not a malfunction. It is the en
 
 Zoom into that jitter and you find something stranger. The math describes fleeting particle-antiparticle pairs flickering in and out of existence — physicists call them virtual particles. “They borrow energy and pay it back” is the standard shorthand, and it captures the flavor of the idea, but don't take it too literally: virtual particles are a feature of how the calculation works, not tiny real particles caught mid-heist.
 
-These are virtual particles. They are not detected directly, the way an ordinary particle is. But their fingerprints are all over the mathematics of quantum field theory, and increasingly, in the laboratory.
+They are not detected directly, the way an ordinary particle is. But their fingerprints are all over the mathematics of quantum field theory, and increasingly, in the laboratory.
 
 ### Nothing You Can Measure
 
@@ -875,7 +875,7 @@ Casimir predicted they would be pushed together anyway. The usual way to picture
 
 The effect was confirmed decades later. Empty space, pressing on metal. Physics had found a way to measure nothing, and nothing pushed back.
 
-### Doing the Sums
+### Doing the Math
 
 Naturally, someone tried to calculate how much energy the vacuum actually contains. Add up the zero-point energy of every quantum field, up to the smallest length scales physics currently trusts, and you get a number.
 
@@ -885,7 +885,7 @@ An enormous number. Vacuum energy this large should curve spacetime dramatically
 
 Compare that theoretical number to what cosmology observes, and the two disagree by as much as 120 orders of magnitude, depending on where the calculation is cut off. Not twice as large. Not a thousand times too large. A number so large it is easier to write as an exponent than to say out loud.
 
-This is the cosmological constant problem — sometimes called the worst quantitative prediction in the history of physics. Something must be cancelling almost all of that vacuum energy. Nobody has a confirmed explanation for why the cancellation is not complete, or why what remains has the tiny value it does.
+This is the cosmological constant problem — sometimes called the worst quantitative prediction in the history of physics. Something must be canceling almost all of that vacuum energy. Nobody has a confirmed explanation for why the cancellation is not complete, or why what remains has the tiny value it does.
 
 ### Dark Energy Walks In
 
@@ -1034,7 +1034,7 @@ Yet their entropy suggested a staggering number of underlying microscopic states
 
 ### Information Gets Involved
 
-Black holes led to an even deeper problem. If something falls into a black hole, what happens to its information? Quantum mechanics says information should not simply disappear. Classical general relativity seems to allow a black hole to evaporate anyway, slowly leaking itself away as Hawking radiation — a faint quantum glow Stephen Hawking predicted every black hole should emit, even though nothing is supposed to escape one.
+Black holes led to an even deeper problem. If something falls into a black hole, what happens to its information? Quantum mechanics says information should not simply disappear. Quantum effects seem to let a black hole evaporate anyway, slowly leaking itself away as Hawking radiation — a faint quantum glow Stephen Hawking predicted every black hole should emit, even though classical general relativity says nothing is supposed to escape one.
 
 If the radiation contains no information about what fell in, a conflict appears. This became the black hole information paradox. String theory became one of the major frameworks in which physicists tried to understand it.
 
