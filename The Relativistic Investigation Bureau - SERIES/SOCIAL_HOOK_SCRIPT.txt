@@ -1,0 +1,130 @@
+================================================================================
+SHORT-FORM VIDEO HOOK SCRIPT
+"The Murder That Hadn't Happened Yet"
+For TikTok / Instagram Reels / YouTube Shorts
+================================================================================
+
+[Added 2026-09-24. The imported promotion plan (ZERO_COST_LAUNCH_PROMOTION_PLAN.txt)
+covers Reddit, Goodreads, and email but has no short-video angle - which is how
+most mass-market book discovery actually happens now. This fills that gap.
+Designed for a single person talking to camera, or text-on-screen with a
+voiceover. Total runtime: 45-60 seconds. No props needed beyond a phone.]
+
+================================================================================
+VERSION A - "The premise" (safest, no spoilers, works cold)
+================================================================================
+
+Runtime: ~45 seconds. Delivery: fast, deadpan, mock-serious.
+
+[TEXT ON SCREEN / SPOKEN]
+
+"Imagine getting an email that says you were murdered.
+
+Tomorrow.
+
+At 11:03 AM.
+
+With a photograph attached — of you, dead, on your own office floor.
+
+Except it's this morning. You're alive. Fine, mostly. Slightly offended.
+
+And in the photo — frozen in the doorway behind your body — is your
+twelve-year-old daughter.
+
+She's at school right now. You just checked.
+
+So which one is real?
+
+That's the actual premise of a book I just read, and the answer is NOT
+'time travel' — it's something so much weirder that scientists have a
+real name for it, and by the end of the book you'll understand it better
+than most people who took physics in school.
+
+It's called 'The Murder That Hadn't Happened Yet.' It's a real mystery,
+it's genuinely funny, and I have not stopped thinking about the ending.
+
+Link in bio."
+
+[CUT ON: "Link in bio" — do not over-explain the ending. The withholding
+is doing the work.]
+
+================================================================================
+VERSION B - "The Rule" (uses the book's own built-in quotable lines)
+================================================================================
+
+Runtime: ~50 seconds. Delivery: same energy as Version A, ends differently.
+
+"A man gets proof he'll be murdered tomorrow. The photo's real. The
+timestamp's real. His daughter's in the background.
+
+He spends the whole book trying to prove the photo is lying.
+
+It isn't.
+
+Here's the twist nobody tells you going in: the book doesn't resolve like
+a mystery. It resolves like physics. And the single sentence that cracks
+the whole case is one you can say out loud and it will not sound like a
+spoiler, because you won't believe it's the answer until you've read
+the 300 pages that make it true:
+
+'A clock can lie by telling the wrong kind of truth.'
+
+That's it. That's the whole case. And the book spends 60,000 words
+earning that sentence, with jokes, with an actual cucumber used as a
+laboratory instrument, and with a physicist dolphin named Sherlock who
+solves the whole thing telepathically.
+
+I know how that sounds. Read it anyway.
+
+'The Murder That Hadn't Happened Yet.' Link in bio."
+
+================================================================================
+VERSION C - "For people who hate sci-fi" (crossover angle)
+================================================================================
+
+Runtime: ~40 seconds. Delivery: talking directly to a skeptical viewer.
+
+"If you just scrolled past this because it sounds like sci-fi — wait.
+
+You don't need to know ANY physics for this book. Zero. I didn't.
+
+Here's all you need: a dad finds out he's going to be murdered tomorrow,
+and the evidence includes his kid standing somewhere she can't actually
+be standing.
+
+That's it. That's a parent's worst fear with a deadline on it.
+
+Everything else — the relativity, the equations, the 'wait, is time even
+real' stuff — that's just how the mystery gets solved. You'll understand
+all of it by the end without trying, the same way you understood Arrival
+or Tenet without a physics degree. Except this one's funnier, and
+British, and nobody explains anything to you like you're stupid.
+
+'The Murder That Hadn't Happened Yet.' Book 1. Link in bio."
+
+================================================================================
+PRODUCTION NOTES
+================================================================================
+
+- Post Version A first (safest, broadest reach). Use B for a follow-up
+  once the account has some engagement — it rewards people who already
+  clicked through once. Use C specifically when targeting non-SF/BookTok
+  audiences (romance, thriller, litfic creators doing crossover content).
+
+- On-screen text should appear line-by-line, timed to speech, not all
+  at once - this is what makes people stop scrolling.
+
+- Do not show the cover in the first 3 seconds. Hook on the premise
+  first; reveal title and cover only at the very end, right before
+  "link in bio." The algorithm rewards watch-through, not brand recall.
+
+- The demos site (lotmus.github.io/relativistic-site, sr-simultaneity.html
+  in particular) makes a strong second video: screen-record the slider
+  moving and voice over "this is an actual real physics demo from the
+  book's companion site — drag one number and watch 'now' stop meaning
+  the same thing for two people." That's a visual hook text alone can't
+  match.
+
+- Do not promise anything the book doesn't deliver. Every line above is
+  checked against the actual manuscript text, not invented for effect.
+================================================================================

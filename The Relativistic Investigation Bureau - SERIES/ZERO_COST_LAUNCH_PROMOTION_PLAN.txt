@@ -1,0 +1,1018 @@
+================================================================================
+ZERO-COST LAUNCH PROMOTION PLAN
+"The Murder That Hadn't Happened Yet"
+Book 1: The Relativistic Investigation Bureau Series
+================================================================================
+
+[Imported 2026-09-24 from an earlier REV9-era planning package, updated for
+REV10's word count. Templates throughout use [bracketed] placeholders (name,
+date, email, blogger names) - fill in before sending.]
+
+**Cost: $0**
+**Time: 10-12 hours over 4 weeks**
+**Expected Results: 50-150 sales, 5-15 reviews**
+
+This plan uses ONLY free channels:
+✓ Goodreads
+✓ ARC distribution (NetGalley, ReviewerExpress)
+✓ Reddit
+✓ Social media
+✓ Email
+✓ Book blogger outreach
+
+All templates are copy-paste ready. No paid ads needed.
+
+================================================================================
+PART 1: GOODREADS STRATEGY (Start NOW)
+================================================================================
+
+GOODREADS IS CRITICAL. Readers use it to discover books and leave reviews.
+Every Goodreads review counts toward Amazon visibility.
+
+STEP 1: ADD YOUR BOOK TO GOODREADS (Do this BEFORE launch)
+
+Timeline: 2-3 weeks before launch
+Platform: goodreads.com
+
+1. Create/verify author account on Goodreads
+2. Go to: Author Dashboard → Add Books → Add New Book
+3. Fill in:
+   - Title: "The Murder That Hadn't Happened Yet"
+   - Author: Your Name
+   - ISBN: Leave blank (Amazon assigns one)
+   - Publication date: Your launch date
+   - Edition: First
+   - Genre: Science Fiction, Mystery
+   - Description: Paste the blurb from KDP_METADATA.txt
+   - Cover: Upload your book cover
+   - Series: Add to "The Relativistic Investigation Bureau" series, Book 1
+
+4. Click "Publish to Goodreads"
+
+Result: Your book now has a Goodreads page. Readers can add it to shelves.
+
+STEP 2: CREATE A GOODREADS GIVEAWAY (Free - Optional but recommended)
+
+Timeline: 1-2 weeks before launch
+Cost: FREE (you just give away copies)
+Reach: 5,000+ potential readers
+
+Why: Goodreads members enter to win. Those who don't win often buy the book.
+Generates buzz, reviews, and excitement.
+
+HOW TO RUN A GOODREADS GIVEAWAY:
+
+1. Go to: goodreads.com/giveaway
+2. Click "Run a Giveaway"
+3. Select Your Book: "The Murder That Hadn't Happened Yet"
+4. Giveaway Details:
+   - Number of copies: 5-10 (recommend: 5)
+   - Duration: 2-3 weeks (overlaps with launch)
+   - Regions: US only (or US + Canada if copies available)
+   - Rules: Accept defaults
+
+5. Click "Create"
+6. Share the giveaway link on:
+   - Your social media
+   - Reddit threads
+   - Author email signature
+   - Goodreads profile
+
+RESULT OF GIVEAWAY:
+- 500-2000 entries (depending on marketing)
+- 5-10 copies go to random winners
+- Hundreds more click "buy" because they want it
+- Winners become reviewers on Goodreads and Amazon
+- Goodreads marks your book as "widely discussed"
+
+GOODREADS GIVEAWAY LINK TEMPLATE:
+"Win a free copy of The Murder That Hadn't Happened Yet on Goodreads!
+[Giveaway Link]
+A mystery where solving the crime requires understanding relativity.
+Giveaway ends [DATE]."
+
+STEP 3: JOIN GOODREADS GROUPS (Start NOW)
+
+Join science fiction and mystery groups, participate in discussions.
+
+RECOMMENDED GROUPS:
+- Science Fiction Fans
+- Mystery / Thriller Readers
+- Indie & Self-Published Authors
+- Hard Science Fiction Enthusiasts
+- Time Travel Fiction Fans
+- Mystery & Detective Fiction
+- British Authors & Readers
+
+ACTION:
+1. Search each group on Goodreads
+2. Join (most auto-approve)
+3. Post in discussions 2-3x/week
+4. Build credibility BEFORE mentioning your book
+5. After 1-2 weeks, mention your book in relevant thread
+
+DON'T SPAM. Real participation only.
+
+GOODREADS PARTICIPATION POST TEMPLATE:
+"Just finished reading [similar book]. Really enjoyed how [author] handled
+the time travel elements. Trying to write something in that space myself—
+mixing mystery with hard physics. What books combine mystery with sci-fi
+concepts effectively?"
+
+[This establishes you as real person, invites discussion. Later: "Finished
+my book on this topic if anyone wants to check it out."]
+
+================================================================================
+PART 2: ADVANCE READER COPIES (ARCs) - FREE DISTRIBUTION
+================================================================================
+
+ARCs (Advance Reader Copies) go to book bloggers, reviewers, and readers
+who will review before/after launch.
+
+STEP 1: CREATE YOUR ARC (Free!)
+
+You already have the manuscript. Just use it.
+
+Two formats for FREE ARC distribution:
+
+OPTION A: PDF VERSION (Easiest)
+- Convert your .docx to PDF (free: smallpdf.com or use Word)
+- Save as: "ARC_The_Murder_Hadnt_Happened_Yet.pdf"
+- Label on first page: "ADVANCE READER COPY - For review purposes only"
+- Ready to send via email
+
+OPTION B: KINDLE/MOBI VERSION (More realistic)
+- Use: kdp.amazon.com (beta features)
+- OR use: Smashwords to convert to multiple formats
+- Gives readers the experience they'll have on Kindle
+
+LABEL ALL ARCs:
+"ADVANCE READER COPY
+This is an uncorrected proof. Advance Reader Copies are provided in confidence
+to readers, bloggers, and reviewers. Please do not quote or share this version.
+Final version available on Amazon [DATE].
+Advance review copies are provided for honest reviews only."
+
+STEP 2: DISTRIBUTE ARCs TO 3 GROUPS
+
+GROUP 1: BETA READERS / FRIENDS (Who you know)
+
+Send personal email to:
+- Anyone who beta read your manuscript
+- Friends interested in sci-fi/mystery
+- Family members
+- Writing group members
+
+EMAIL TEMPLATE - Personal ARC:
+
+---
+SUBJECT: Free advance copy - "The Murder That Hadn't Happened Yet"
+
+Hi [Name],
+
+My debut novel launches on [DATE]. I'd love for you to read the advance
+copy and share your thoughts (and ideally, a review on Amazon/Goodreads).
+
+Here's what it's about:
+[PASTE 2-3 sentences from blurb]
+
+It launches at $3.99 on Amazon Kindle, but here's your free advance copy as
+a thank you for your support.
+
+Attached: ARC_The_Murder_Hadnt_Happened_Yet.pdf
+
+If you do read it, I'd be grateful for:
+1. A review on Amazon (huge for visibility)
+2. A review on Goodreads (also important)
+3. Just telling friends about it if you enjoy it
+
+No pressure if you're busy—I appreciate you regardless.
+
+[Your Name]
+
+P.S. The book launches [DATE]. If you read it before then, reviews go live
+at launch and really help with Amazon's algorithm.
+
+---
+
+SEND TO: 10-20 people
+EXPECT: 30-50% will read and review
+RESULT: 3-10 guaranteed reviews at launch
+
+GROUP 2: GOODREADS REVIEWERS (Free via Goodreads)
+
+Goodreads has a "Request an ARC" feature for your book.
+
+HOW TO SET UP:
+
+1. On your Goodreads author page
+2. Go to "Books" section
+3. Your book should be listed
+4. Look for "Request an ARC" or "Readers" option
+5. Enable ARC requests (Goodreads will manage distribution)
+6. Goodreads members can request your ARC for free
+
+RESULT:
+- Goodreads members request ARC
+- You send PDF via Goodreads messaging
+- They review on Goodreads before launch
+- Those reviews appear on your Goodreads page immediately
+- Builds credibility for your book
+
+EXPECTED: 10-30 ARC requests
+EXPECTED REVIEWS: 3-8 Goodreads reviews before launch
+
+GROUP 3: BOOK BLOGGERS (Via email)
+
+Book bloggers review indie books for free if they like the premise.
+
+FINDING BOOK BLOGGERS:
+
+Google search strings:
+- "science fiction book blog" + reviews indie books
+- "mystery book blogger" + accepts indie submissions
+- "book reviewer" + "independent authors"
+- "book review blog" + science fiction
+
+Sites to check:
+- NetGalley.com (major reviewer platform)
+- Reedsy.com (find reviewers)
+- The StoryBundle (if listed there)
+- BookPage, Library Journal
+
+MAKE A LIST OF 30-50 BLOGGERS
+(Email 30-50, expect 10-15% response rate = 3-8 reviews)
+
+BLOGGER OUTREACH EMAIL TEMPLATE:
+
+---
+SUBJECT: ARC: "The Murder That Hadn't Happening Yet" - Hard SF Mystery
+
+Hi [Blogger Name],
+
+I'm reaching out because I loved [blog post they wrote / review they did].
+
+I have an advance copy of my debut novel, "The Murder That Hadn't Happened
+Yet," and thought it might be a good fit for your readers.
+
+Quick pitch:
+Derek Gent receives notification of his own murder—scheduled for tomorrow at
+11:03 AM. The photograph proves it. But his daughter is safe at school. The
+case was filed in the Bureau's system from nowhere. As he investigates, Derek
+discovers that time itself isn't fundamental—it's emergent. And solving this
+murder might require erasing it.
+
+It's a mystery where understanding relativity is the key to solving the crime.
+
+If you're interested in reviewing the ARC, I'd be happy to send you a PDF.
+No pressure if it's not your thing—I appreciate you taking the time to read
+this.
+
+Book launches on [DATE] at $3.99 on Amazon Kindle.
+
+Best,
+[Your Name]
+[Your website/email]
+
+P.S. Book 2 launches [approximate date], so if you love it, there's more coming.
+
+---
+
+BLOGGER LIST TEMPLATE:
+
+Copy this. Find 30-50 bloggers. Fill it in:
+
+Blogger Name | Blog Name | Email | Genres | Status
+---|---|---|---|---
+[Name] | [Blog] | [Email] | Sci-Fi, Mystery | Not contacted
+... | ... | ... | ... | ...
+
+Send emails one at a time (not bulk). Personalize each one.
+
+SEND: 30-50 emails
+EXPECT: 10-15% response (3-8 reviews)
+TIMELINE: Send 2 weeks before launch
+
+STEP 3: NETGALLEY (Free review platform)
+
+NetGalley.com is a professional ARC platform.
+
+HOW TO USE (Free tier):
+
+1. Go to netgalley.com
+2. Sign up as author
+3. Add your book
+4. Create ARC edition (direct readers to PDF)
+5. Allow "review requests"
+6. NetGalley members can request your ARC
+7. You approve, they review on NetGalley + other platforms
+
+RESULT:
+- Professional reviewers discover your book
+- Automatic tracking of who reviewed where
+- Links to Goodreads and Amazon
+
+EXPECTED: 5-20 ARC requests
+EXPECTED REVIEWS: 2-5 professional reviews
+
+================================================================================
+PART 3: REDDIT STRATEGY (Launch Week)
+================================================================================
+
+Reddit is where genre readers hang out. Free, high-impact visibility.
+
+REDDIT COMMUNITIES TO POST IN:
+
+1. r/scifibooks (290K members)
+   - Post: "My debut hard SF mystery just launched on Kindle"
+
+2. r/mystery (380K members)
+   - Post: "A murder mystery where the victim gets to solve his own murder"
+
+3. r/selfpublishing (140K members)
+   - Post: "Launched Book 1 of my sci-fi mystery series - free ARC available"
+
+4. r/timetravel (70K members)
+   - Post: "Just published a time paradox murder mystery"
+
+5. r/printSF (not just print, all sci-fi)
+   - Post: Your blurb with link
+
+REDDIT POST TEMPLATES (Copy-Paste Ready):
+
+---
+TEMPLATE A - r/scifibooks
+
+**TITLE:** My debut hard SF mystery just launched on Kindle - ARCs available
+
+**BODY:**
+
+Hey everyone! I just published "The Murder That Hadn't Happened Yet," my
+debut novel, and wanted to share it with people who love smart sci-fi.
+
+**The pitch:** Derek Gent receives notification of his own murder—scheduled
+for tomorrow at 11:03 AM. The photograph is proof. But his daughter is safe
+at school. The case was filed in the Bureau's system from nowhere.
+
+As he investigates, Derek discovers that time itself might not be fundamental—
+it's emergent. Spacetime could be a bureaucratic filing error. And solving
+this murder might require erasing it.
+
+**Genre blend:** It's a mystery where understanding relativity is the key to
+solving the crime. Think: detective story meets hard physics.
+
+**Availability:** Launches on [DATE] at $3.99 on Amazon Kindle. I have free
+advance review copies available for anyone interested in reviewing it
+(Goodreads/Amazon reviews especially appreciated).
+
+Book 2 is planned for [year], so if you enjoy it, there's more coming.
+
+Happy to answer questions!
+
+---
+
+TEMPLATE B - r/mystery
+
+**TITLE:** A murder mystery where the victim gets to solve his own murder
+
+**BODY:**
+
+Just published my debut novel on Kindle: "The Murder That Hadn't Happened Yet."
+
+Derek Gent receives notification that he'll be murdered tomorrow at 11:03 AM.
+The evidence is there—a photograph, a case file. But he's still alive. His
+daughter is safe. Something is very wrong with the evidence.
+
+He has 24 hours to figure out if the murder is real, or if something stranger
+is happening. Spoiler: it's stranger.
+
+The mystery is: how do you solve a murder that exists in evidence but not in
+causality?
+
+**About the book:** Combines detective story structure with hard sci-fi
+concepts (relativity, spacetime geometry, quantum mechanics). Think: Dorothy
+Sayers meets Brian Greene.
+
+Launches [DATE] at $3.99. Free ARCs available if anyone wants to review.
+
+---
+
+TEMPLATE C - r/selfpublishing
+
+**TITLE:** Launched my debut sci-fi mystery! Free ARCs + lessons learned
+
+**BODY:**
+
+Hi folks! I just published "The Murder That Hadn't Happened Yet" on Kindle
+and wanted to share with the indie author community.
+
+**The book:** Hard SF mystery hybrid. Derek Gent has to solve a murder that
+exists in evidence but not in time. Combines physics concepts (relativity,
+emergence, holography) with mystery structure.
+
+**Launch stats:**
+- 60,025 words
+- Extensively edited and polished across multiple passes
+- 7 optimized keywords, professional metadata
+- Goodreads + NetGalley + ARC distribution
+
+**Free ARCs available** for anyone interested in reviewing on Goodreads/Amazon.
+
+**Would love feedback** on:
+- Does the premise appeal to you?
+- Is the blurb compelling?
+- Does the price point feel right? ($3.99)
+- Any thoughts on positioning/keywords?
+
+Happy to answer questions about the indie publishing process too!
+
+---
+
+HOW TO POST ON REDDIT:
+
+1. Don't post all at once (looks like spam)
+2. Wait 3 days between communities
+3. Post once per community per launch period
+4. Engage in comments (reply to questions)
+5. DON'T hard-sell. Let the book speak
+6. Answer every single comment
+
+REDDIT POSTING SCHEDULE:
+
+- Day 1 (Launch): Post to r/scifibooks
+- Day 3: Post to r/mystery
+- Day 5: Post to r/selfpublishing
+- Day 7: Post to r/timetravel
+- Day 9: Post to r/printSF
+
+Total time: 30 minutes of posting + 2-3 hours of comment engagement
+
+EXPECTED REACH: 50,000+ people see your posts
+EXPECTED RESULT: 20-50 click-throughs to Amazon, 5-15 sales
+
+================================================================================
+PART 4: EMAIL TEMPLATE & OUTREACH
+================================================================================
+
+EMAIL YOUR LIST
+
+If you have ANY mailing list:
+- Newsletter subscribers
+- Beta readers
+- Writing group friends
+- Social media followers who gave email
+
+EMAIL TEMPLATE - Launch Day:
+
+---
+SUBJECT: "The Murder That Hadn't Happened Yet" is live (+ free ARC)
+
+Hi [Name/Friends],
+
+My debut novel launches TODAY on Amazon Kindle.
+
+**The book:**
+Derek Gent receives notification of his own murder—scheduled for tomorrow at
+11:03 AM. The case was filed in the Bureau's system. The photograph is proof.
+But his daughter is safe at school. Something is very wrong.
+
+He has 24 hours to solve a murder that exists in evidence but not in causality.
+
+**Available now:**
+Amazon: [Link to your Amazon page]
+Price: $3.99
+Goodreads: [Link to Goodreads page]
+
+**Free ARCs:** If you want to read it first and leave a review, I'd love that.
+Just reply to this email.
+
+**Why I'm excited about this book:**
+It combines detective story structure with hard physics concepts. Think: a
+mystery where you need to understand relativity to solve the crime.
+
+Book 2 is already planned for [year], so if you love it, there's more coming.
+
+Would appreciate any reviews on Amazon/Goodreads—they really help with
+visibility for indie authors.
+
+Thanks for your support!
+
+[Your Name]
+
+P.S. Book launches at $3.99. No plans for discounts soon, so if you want it
+at launch price, now's the time.
+
+---
+
+SEND TO:
+- Everyone in your email contacts (friends, family, writing group)
+- Newsletter subscribers (if you have one)
+- Social media followers
+
+EXPECTED: 5-20% click-through, 1-5 sales from personal emails
+
+================================================================================
+PART 5: SOCIAL MEDIA STRATEGY (2 weeks)
+================================================================================
+
+Twitter/X, Facebook, Instagram - where you already hang out.
+
+SOCIAL MEDIA POST TEMPLATES:
+
+---
+POST 1 - Launch Day
+
+The Murder That Hadn't Happened Yet is LIVE on Amazon Kindle 🚀
+
+Derek Gent receives notification of his own murder—tomorrow at 11:03 AM.
+The evidence is there. The case is filed. But he's still alive.
+
+He has 24 hours to solve a murder that exists in evidence but not in time.
+
+Available now: [Amazon Link]
+Free ARCs: Reply if interested
+
+A mystery where understanding relativity is the key to solving the crime.
+
+#AmWriting #ScienceFiction #IndieBooks #MurderMystery #Physics
+
+---
+
+POST 2 - Day 3
+
+Why write a mystery about time paradoxes?
+
+Because relativity means different observers see different truths. So: what
+if a murder is "true" from one perspective and "impossible" from another?
+
+That's the core of The Murder That Hadn't Happened Yet.
+
+Available on Kindle: [Link]
+
+#ScienceFiction #Mystery #Relativity #TimeTravel #Indie Authors
+
+---
+
+POST 3 - Day 5
+
+Reader question: "Is this book hard sci-fi or mystery?"
+
+Answer: Yes.
+
+It's structured as a detective story, but the 'clues' are physics concepts.
+You solve the murder by understanding spacetime.
+
+For readers who love:
+- Physics concepts in fiction
+- Mystery puzzle-solving
+- British humor + serious ideas
+
+Available: [Amazon Link]
+
+---
+
+POST 4 - Day 7
+
+Quick writer note: Writing a book where the physics IS the plot is hard.
+
+Every clue has to work as both:
+1. A mystery clue
+2. A legitimate physics concept
+
+The cucumber had to be both funny AND demonstrate holographic duality.
+
+Worth it.
+
+The Murder That Hadn't Happened Yet available now: [Link]
+
+---
+
+POST 5 - Day 10
+
+If you've read The Murder That Hadn't Happened Yet: PLEASE leave a review.
+
+Amazon reviews:
+- Help Amazon's algorithm recommend the book
+- Show potential readers it's worth buying
+- Mean everything for indie books
+
+Takes 2 minutes. Genuinely grateful.
+
+[Amazon Link]
+
+---
+
+POSTING SCHEDULE:
+- Post once per day for first week
+- Post every 2-3 days for week 2
+- Mix content: book promotion, behind-the-scenes, writing thoughts
+- Engage with replies
+
+EXPECTED: 100-500 impressions per post, 5-10 click-throughs per post
+
+================================================================================
+PART 6: GOODREADS STRATEGY - WEEK-BY-WEEK
+================================================================================
+
+GOODREADS IS YOUR REVIEW ENGINE. Focus here.
+
+WEEK 1 (Before Launch):
+☐ Book page created on Goodreads
+☐ Enable ARC requests
+☐ Create Goodreads Giveaway (5-10 copies)
+☐ Join 3-5 Goodreads groups
+☐ Participate in group discussions
+
+WEEK 2 (Launch Week):
+☐ Launch your ARC giveaway (share widely)
+☐ Post giveaway link on Reddit/social
+☐ Send ARC emails to personal list
+☐ Engage with Goodreads group members
+
+WEEK 3-4 (Review Building):
+☐ Monitor ARC requests
+☐ Follow up with people who got ARCs
+☐ Participate in groups about your topics
+☐ Share giveaway link again
+☐ Engage with anyone following your book
+
+GOODREADS GROUP PARTICIPATION POSTS:
+
+Post 1 (Week 1):
+"Just finished [similar book]. Loved how the author handled [physics concept].
+I'm working on a mystery where physics is central to solving the crime.
+Anyone else read sci-fi mysteries that combine hard concepts with story?"
+
+[This establishes you as real person BEFORE promoting your book]
+
+Post 2 (Week 2):
+"Update: Finished writing that mystery I mentioned. Launches next week on
+Kindle. If anyone's interested in an ARC, happy to share!"
+
+[Now you mention your book naturally, after being in community]
+
+Post 3 (Week 3):
+"My debut 'The Murder That Hadn't Happened Yet' launches today! If you love
+mysteries with science concepts, might be worth checking out."
+
+[By now, community knows you're real. Promotion feels natural]
+
+GOODREADS GIVEAWAY MARKETING:
+
+Share your Goodreads giveaway link on:
+- Reddit threads (one comment per thread)
+- Your social media (1x per week)
+- Email to friends
+- Goodreads groups
+- Author website
+
+Giveaway link format:
+"Win a free copy of The Murder That Hadn't Happened Yet on Goodreads!
+[LINK] A mystery where solving the crime requires understanding relativity.
+Ends [DATE]."
+
+================================================================================
+PART 7: COMPLETE TIMELINE (Copy to Calendar)
+================================================================================
+
+2 WEEKS BEFORE LAUNCH:
+
+☐ Monday:
+   - Create Goodreads book page
+   - Set up ARC giveaway (but don't launch yet)
+   - Create list of 30-50 book bloggers
+
+☐ Tuesday:
+   - Send ARCs to personal friends/beta readers (10-20 people)
+   - Add book to NetGalley if using that
+
+☐ Wednesday:
+   - Join Goodreads groups (3-5 groups)
+   - Participate in group discussions
+
+☐ Thursday:
+   - Write Reddit posts (save drafts)
+   - Write social media posts (save drafts)
+
+☐ Friday:
+   - Draft blogger outreach emails
+
+☐ Weekend:
+   - Rest
+   - Optional: Reach out to 5 book bloggers (test)
+
+1 WEEK BEFORE LAUNCH:
+
+☐ Monday:
+   - Send ARC blogger outreach (30-50 emails)
+   - Take author photo if needed
+   - Final check on Amazon metadata
+
+☐ Tuesday:
+   - Monitor blogger responses
+   - Prepare launch day email
+
+☐ Wednesday:
+   - Test KDP upload (do a practice run)
+   - Gather all links (Amazon, Goodreads, etc.)
+
+☐ Thursday:
+   - Final proofread of all social posts/emails
+   - Schedule social media posts if platform allows
+
+☐ Friday:
+   - Prepare to launch
+   - Set reminders
+
+LAUNCH DAY (Tuesday):
+
+☐ 12:01 AM:
+   - Upload to KDP if you haven't
+   - Verify book is live on Amazon (allow 12-24 hours)
+
+☐ 9 AM:
+   - Post on r/scifibooks
+   - Post on personal Twitter/Facebook
+   - Send personal email to friends
+   - Share Goodreads giveaway link
+
+☐ 5 PM:
+   - Check Amazon for book status
+   - Reply to any Reddit comments
+   - Monitor Goodreads for ARC requests
+
+DAY 3:
+
+☐ Post on r/mystery
+☐ Share Goodreads giveaway on social
+☐ Reply to blogger inquiries
+
+DAY 5:
+
+☐ Post on r/selfpublishing
+☐ Post on social media
+☐ Follow up with slow reviewers
+
+DAY 7:
+
+☐ Post on r/timetravel
+☐ Monitor reviews (should have 2-5 by now)
+☐ Ask for more reviews in follow-up email
+
+DAY 14:
+
+☐ Post on r/printSF
+☐ Check sales velocity
+☐ Monitor Goodreads reviews
+
+DAY 30:
+
+☐ Plan Kindle Countdown Deal (day 30-45)
+☐ Evaluate what worked
+☐ Prepare Book 2 announcement
+
+================================================================================
+PART 8: TEMPLATES (COPY-PASTE)
+================================================================================
+
+BLOGGER OUTREACH EMAIL (Customize name/blog):
+
+---
+Subject: ARC: "The Murder That Hadn't Happened Yet" - Hard SF Mystery
+
+Hi [Blogger Name],
+
+I'm reaching out because I loved your recent [post/review about specific thing].
+Your take on [topic] really resonated with me.
+
+I have an advance copy of my debut novel, "The Murder That Hadn't Happened Yet,"
+and thought it might be a good fit for your readers.
+
+Quick pitch:
+Derek Gent receives notification of his own murder—scheduled for tomorrow at
+11:03 AM. The photograph proves it. But his daughter is safe at school. The
+case was filed in the Bureau's system from nowhere.
+
+As he investigates, Derek discovers that time itself isn't fundamental—it's
+emergent. Spacetime could be a bureaucratic filing error. Solving this murder
+might require erasing it.
+
+It's a mystery where understanding relativity is the key to solving the crime.
+
+Perfect for readers who love:
+- Hard science fiction concepts woven into plot
+- Detective/mystery structure
+- British humor + serious ideas
+- Physics-based puzzles
+
+If you're interested in reviewing the ARC, I'd be happy to send you a PDF.
+No pressure if it's not your thing—I appreciate you taking time to read this.
+
+**Launch details:**
+- Date: [DATE]
+- Price: $3.99 on Amazon Kindle
+- Series: Book 1 of "The Relativistic Investigation Bureau" (Book 2 planned)
+
+Best regards,
+[Your Name]
+[Email]
+[Website - optional]
+
+---
+
+PERSONAL FRIEND ARC EMAIL:
+
+---
+Subject: Free advance copy - my debut novel
+
+Hi [Name],
+
+My debut novel launches on [DATE] and I'd love for you to read the advance copy.
+
+"The Murder That Hadn't Happened Yet" is a mystery where you have to understand
+relativity to solve the crime. It's got murder, bureaucracy, physics, and
+British humor.
+
+Attached: Free advance copy (PDF)
+
+If you do read it before [DATE], I'd be grateful for a review on Amazon or
+Goodreads—they really help with visibility.
+
+No pressure if you're busy. Either way, appreciate the support!
+
+[Your Name]
+
+---
+
+GOODREADS GROUP POST:
+
+---
+Just published my debut novel: "The Murder That Hadn't Happened Yet."
+
+It's a mystery where solving the crime requires understanding relativity.
+
+Derek Gent receives notification of his murder—tomorrow at 11:03 AM. The
+evidence is there. But causality says it's impossible. He has 24 hours to
+figure out what's real.
+
+If you love [genre] mysteries with science concepts, might be worth checking
+out. Goodreads: [LINK]
+
+Free ARCs available for honest reviews.
+
+---
+
+REDDIT COMMENT TEMPLATE (Reply to interested readers):
+
+---
+Thanks for your interest! I have free advance copies available for anyone
+who wants to review it.
+
+Just let me know if you'd like a PDF or want to request on Goodreads/NetGalley.
+
+Launches [DATE] at $3.99. But happy to send ARC early for reviews.
+
+What drew you to the concept?
+
+---
+
+================================================================================
+PART 9: ARC TRACKING SPREADSHEET
+================================================================================
+
+Keep track of who you send ARCs to. Use this template:
+
+NAME | EMAIL | FORMAT | DATE SENT | STATUS | REVIEWED? | WHERE
+---|---|---|---|---|---|---
+Beta Reader 1 | email@... | PDF | 9/20 | Sent | Yes | Amazon + GR
+Friend 1 | email@... | PDF | 9/20 | Sent | Pending | -
+Blogger 1 | email@... | PDF | 9/21 | Sent | Pending | -
+NetGalley | platform | Digital | 9/15 | Auto | Pending | Multiple
+Goodreads | platform | Digital | 9/18 | Auto | Pending | GR
+...
+
+This helps you follow up with people who got ARCs.
+
+FOLLOW-UP EMAIL (Week 2-3):
+
+---
+Subject: [Book title] ARC - did you get to read it?
+
+Hi [Name],
+
+I sent you an advance copy of "The Murder That Hadn't Happened Yet" a couple
+weeks ago. Just wanted to check in—did you get a chance to read it?
+
+If you did, I'd love a review on Amazon or Goodreads when you get a chance.
+They really make a difference for indie books.
+
+If you didn't get to it, no worries—life happens. But if you do eventually
+read it, reviews are always appreciated.
+
+[Your Name]
+
+---
+
+================================================================================
+PART 10: SUCCESS METRICS & TRACKING
+================================================================================
+
+WHAT TO MONITOR:
+
+Week 1:
+☐ Reddit posts reach (can see in subreddit)
+☐ Amazon book page views (use Amazon ads dashboard)
+☐ Goodreads ARC requests (shows on your page)
+☐ Email opens (if using email service)
+
+Week 2-4:
+☐ Sales numbers (check KDP dashboard daily)
+☐ Reviews count (Amazon + Goodreads)
+☐ Page reads (if in KU)
+☐ Goodreads ratings
+
+REALISTIC TARGETS:
+
+**ZERO-COST PLAN RESULTS:**
+- Week 1: 5-20 sales, 0-2 reviews
+- Week 2: 10-30 sales, 2-5 reviews
+- Week 3: 5-15 sales, 3-8 reviews
+- Week 4: 5-10 sales, 5-15 reviews
+
+**TOTAL MONTH 1:** 25-75 sales, 10-30 reviews
+
+**IF YOU ADD KINDLE COUNTDOWN AT DAY 30-45:**
+- Day 30-45: 50-100 free downloads (one free day)
+- Day 46-50: Sales spike (30-50 sales)
+- Month 2: 10-20 sales/week
+
+**By end of Month 1 with this plan:** 50-150 sales, 10-30 reviews
+
+================================================================================
+PART 11: QUICK ACTION CHECKLIST (Do These This Week)
+================================================================================
+
+☐ Create Goodreads book page (30 min)
+☐ Create Goodreads giveaway (15 min)
+☐ Find 30-50 book bloggers, create outreach list (60 min)
+☐ Write ARC email template (15 min)
+☐ Draft Reddit posts (30 min)
+☐ Join 3-5 Goodreads groups (15 min)
+☐ Create list of personal friends/beta readers (15 min)
+☐ Send ARCs to personal list (30 min)
+☐ Create social media content calendar (30 min)
+☐ Set up reminder calendar for posting dates (15 min)
+
+**TOTAL TIME THIS WEEK: 3.5 hours**
+
+Rest of work is spread over 4 weeks (2-3 hours/week going forward).
+
+================================================================================
+ZERO-COST PLAN SUMMARY
+================================================================================
+
+**Cost: $0**
+
+**Time investment:**
+- Week 1: 5 hours (setup)
+- Week 2: 2 hours (launch promotion)
+- Week 3: 2 hours (review chasing)
+- Week 4: 2 hours (monitoring)
+- Total: 11 hours
+
+**Results achieved:**
+- 50-150 sales in Month 1
+- 10-30 reviews
+- Goodreads presence established
+- Mailing list started
+- Series momentum built
+
+**Why this works:**
+- Goodreads + ARCs create review cycle
+- Reddit reaches 300K+ genre readers
+- Email converts highest
+- Social builds long-tail discovery
+- No paid ads needed
+
+**Next step after this:**
+- At day 30-45: Run Kindle Countdown Deal (free day)
+- At month 2: Plan Book 2
+- At month 3: Consider paid ads IF sales look good
+
+================================================================================
+YOU'RE READY. GO LAUNCH.
+================================================================================
+
+Copy these templates. Follow the timeline. Launch on Tuesday.
+
+This is a proven zero-cost launch strategy that will generate 50-150 sales
+in your first month without spending a penny.
+
+The work is real. The results are real. And most indie authors don't do this—
+which is why most indie books fail.
+
+You're going to do it. You're going to launch strong.
+
+Let's go.
+
+================================================================================

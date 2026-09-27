@@ -1,0 +1,194 @@
+================================================================================
+KINDLE DIRECT PUBLISHING (KDP) METADATA
+The Murder That Hadn't Happened Yet
+Book 1: The Relativistic Investigation Bureau Series
+================================================================================
+
+[Imported 2026-09-24 from an earlier REV9-era planning package, updated for
+REV10's word count. Still contains [bracketed] placeholders (author name,
+launch date, website, email) that need your actual info before use. Treat
+pricing/categories/keywords as a starting proposal to review, not a decision
+already made.]
+
+TITLE
+The Murder That Hadn't Happened Yet
+
+SUBTITLE (Optional - use in marketing materials)
+A Relativistic Investigation Bureau Mystery
+
+AUTHOR NAME
+[Your Author Name]
+
+SERIES INFORMATION
+Series: The Relativistic Investigation Bureau
+Series Position: Book 1
+Series Name on KDP: "The Relativistic Investigation Bureau"
+
+================================================================================
+CATEGORIES (Select 2)
+================================================================================
+
+PRIMARY CATEGORY:
+Hard Science Fiction
+
+SECONDARY CATEGORY:
+Mystery & Crime Fiction
+(Alternative: Science Fiction Mystery)
+
+================================================================================
+KEYWORDS (7 keywords/phrases - comma separated for KDP)
+================================================================================
+
+time travel mystery, physics mystery, hard science fiction, relativity fiction, british detective fiction, murder investigation, time anomaly
+
+[INDIVIDUAL KEYWORDS FOR RESEARCH:]
+1. time travel mystery
+2. physics mystery
+3. hard science fiction
+4. relativity fiction
+5. british detective fiction
+6. murder investigation
+7. time anomaly
+
+================================================================================
+KINDLE BLURB (Book Description for KDP Store Page)
+[Word count: 270 words - COPY EXACTLY as provided below]
+================================================================================
+
+[Updated 2026-09-24 to match the sharpened blurb now live in kdp_description.docx - kept in sync, don't let these drift apart again.]
+
+A MURDER THAT HASN'T HAPPENED YET.
+A photograph from tomorrow.
+And a bureaucratic error that might save his daughter — or doom her.
+
+At 9:17 on a Tuesday morning, investigator Derek Gent receives an email informing him that he has been murdered. The message is polite, precise, and signed by Derek himself. Worse, the attached photograph shows him face-down on his own office floor, timestamped tomorrow at 11:03 a.m. — and frozen in the doorway behind him, mid-step, is his twelve-year-old daughter.
+
+The clocks in the room disagree.
+The universe disagrees.
+The paperwork, unfortunately, does not.
+
+Derek has until tomorrow morning to find out who — or what — filed his own death. Special relativity can't explain it. General relativity can't either. And the deeper he digs with his sharp-tongued cousin Penny, his hyper-literal colleague Trevor, and a physicist who insists time itself might not be fundamental, the more it looks like reality itself has made a filing error — one that may have already decided whether his daughter walks through that doorway.
+
+For readers who loved the "wait, WHAT" of Arrival or Tenet, but wanted it funnier, more British, and solvable with an ordinary cucumber.
+
+A mystery that asks the only question that ever really mattered: if you can't trust time, can you trust what you think already happened to the people you love?
+
+The Murder That Hadn't Happened Yet is Book 1 of the Relativistic Investigation Bureau — a mystery where the physics is real, the jokes are dry, and the only way out is through the equations.
+
+================================================================================
+PRICING & ENROLLMENT
+================================================================================
+
+RECOMMENDED LAUNCH PRICE: $3.99 USD
+
+AMAZON KDPAGE PRICING:
+USD: $3.99
+GBP: £3.15 (auto-calculated)
+EUR: €3.79 (auto-calculated)
+CAD: $5.29 (auto-calculated)
+AUD: $6.49 (auto-calculated)
+
+KINDLE UNLIMITED ENROLLMENT: YES (90-day launch window)
+- Recommends KU Select enrollment for first 90 days to maximize visibility
+- After 90 days, re-evaluate and consider wider distribution
+
+ROYALTY RATE: 70% (requires price $2.99-$9.99)
+
+================================================================================
+AUTHOR BIOGRAPHY (150-200 words for KDP Back Matter)
+================================================================================
+
+Lothar J. Musiol writes mysteries where the physics is the puzzle and the impossible is inevitable. Their work sits at the intersection of hard science fiction and detective stories—books for readers who want their murders to require an understanding of relativity to solve.
+
+By day, they work in [relevant field]. By night, they investigate the implications of time travel, quantum mechanics, and what happens when bureaucratic systems encounter relativistic paradoxes.
+
+"The Murder That Hadn't Happened Yet" is Book 1 of the Relativistic Investigation Bureau series. The Bureau operates under one principle: describe the crime precisely enough and you might prevent it. Which is harder than it sounds when time is the weapon.
+
+When not writing, Lothar J. Musiol can be found reading physics papers, arguing about movie time travel, and wondering why nobody else finds filing systems suspicious.
+
+[Visit author website: WWW.YOURSITE.COM]
+[Subscribe to updates: [EMAIL NEWSLETTER]]
+
+================================================================================
+CONTENT WARNINGS / CONTENT NOTES (OPTIONAL)
+================================================================================
+
+Content: Mild violence (on-page death), temporal paradoxes, philosophical debate
+Reader Advisory: Contains discussion of time paradoxes and causality violations—best enjoyed by readers comfortable with physics-based puzzles.
+
+================================================================================
+PUBLICATION DATE
+================================================================================
+
+Release Date: [SELECT DATE - recommend Tuesday for Amazon visibility]
+Format: Kindle eBook
+Language: English (US)
+
+================================================================================
+KDP LISTING CHECKLIST
+================================================================================
+
+REQUIRED:
+☐ Title: The Murder That Hadn't Happened Yet
+☐ Author Name: [Your Name]
+☐ Primary Category: Hard Science Fiction
+☐ Secondary Category: Mystery & Crime Fiction
+☐ Blurb (above)
+☐ Keywords (7 terms provided)
+☐ Price: $3.99
+☐ KU Enrollment: Selected
+☐ Publication Date: [Your chosen date]
+
+COVER REQUIREMENTS:
+☐ Cover image provided (minimum 1000x1500 pixels)
+☐ Title legible at thumbnail size
+☐ Series branding consistent
+☐ No watermarks or copyright symbols in image
+
+MANUSCRIPT:
+☐ Properly formatted .docx or .mobi
+☐ Front matter included (copyright, TOC)
+☐ Back matter included (author bio, series info)
+☐ No extra formatting issues
+
+SERIES SETUP:
+☐ Series name entered: "The Relativistic Investigation Bureau"
+☐ Series position: Book 1
+☐ Series URL (if applicable)
+
+================================================================================
+MARKETING ANGLES (For promotional materials)
+================================================================================
+
+ANGLE 1 - Mystery Readers:
+"A locked-room mystery where the room is spacetime itself. Derek Gent has 24 hours to solve a murder that hasn't happened yet—and every clue pulls him deeper into a time-twisted case where the only solution might be to erase the crime."
+
+ANGLE 2 - Science Fiction Readers:
+"Hard physics meets murder mystery. When a murder case appears in the Bureau's files marked 11 hours in the future, Derek discovers that spacetime isn't fundamental—it's filed. Now the laws of relativity are his only tools for solving a crime that defies causality."
+
+ANGLE 3 - Literary/Smart Readers:
+"British wit meets rigorous physics in a novel that asks: if you can't trust time, can you trust your own existence? Philosophical, impossible, and darkly funny—a mystery that knows its own nature."
+
+ANGLE 4 - Mass/Crossover Readers (people who don't normally read SF):
+"You don't need to know any physics to read this. You just need to have ever worried about someone you love. A father gets proof of his own murder — and proof his daughter was there. Everything he learns trying to save her turns out to be true and false at the same time, and by the end you'll understand why, without a single equation. For fans of Arrival, Tenet, or anything that rearranged how you think about time in the last five minutes."
+
+================================================================================
+POST-LAUNCH STRATEGY
+================================================================================
+
+WEEK 1: Launch buzz
+- Post in SF/mystery forums (Reddit: r/scifibooks, r/mystery)
+- Notify newsletter subscribers
+- Request early reviews from ARCs
+
+MONTH 1-3: Visibility in KU
+- Monitor page reads vs. purchases
+- Adjust keywords if needed based on search data
+- Prepare Book 2 for announcement
+
+MONTH 3+: Post-KU evaluation
+- Analyze sales data
+- Decide on wider distribution or continued KU exclusivity
+- Launch Book 2 series momentum
+
+================================================================================
