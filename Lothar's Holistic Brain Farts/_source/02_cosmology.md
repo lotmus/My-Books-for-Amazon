@@ -10,7 +10,7 @@ One standing rule threads through the whole book: whenever string theory gets na
 
 The usual popular-cosmology playbook gets deliberately turned around. Instead of opening with a bang and working outward, the story starts with the humble idea of an "event" and the relativity of simultaneity — retiring the notion of a shared cosmic "now" — before it ever reaches the hot Big Bang, dark matter and dark energy, black holes, or the perennial questions about travel and multiverses. The reordering is the point: you can't talk sensibly about a Big Bang "moment" until you've dismantled the assumption that moments are shared in the first place.
 
-To keep things human-scaled, invented people — Mara, Eli, Lena and, later, a woman in a greenhouse on a dead world — wander through a few scenes illustrating real physics with imagined lives; the people are fictions, but the numbers attached to them are not. This is Volume 1 of the "Look First" series, alongside its siblings *A Permit Is Not a City* and *The Body Keeps Its Own Clock*, though it's written to stand comfortably on its own.
+To keep things human-scaled, invented people — Mara, Eli and, later, a woman in a greenhouse on a dead world — wander through a few scenes illustrating real physics with imagined lives; the people are fictions, but the numbers attached to them are not. This is Volume 1 of the "Look First" series, alongside its siblings *A Permit Is Not a City* and *The Body Keeps Its Own Clock*, though it's written to stand comfortably on its own.
 
 And the thesis everything else circles back to is stated plainly up front, before a single equation appears: if meaning isn't guaranteed to arrive at the end of time, it has to be made locally, and now.
 
