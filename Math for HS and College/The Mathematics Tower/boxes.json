@@ -1,0 +1,90 @@
+[
+ {
+  "room": "Room 26.6: Volterra Integro-Differential Equations",
+  "text": "A Volterra equation is one whose integral runs from a fixed starting point up to the variable t itself — ∫₀ᵗ, rather than over a fixed interval. This variable upper limit is what makes it causal, or hereditary: the value of the integral at time t depends only on the values of u at times s ≤ t, never on the future."
+ },
+ {
+  "room": "Room 28.3: Convexity and Convex Optimization",
+  "text": "A function f is convex if the line segment joining any two points on its graph never dips below the graph itself — formally,"
+ },
+ {
+  "room": "Room 28.8: Classical Applications: Geodesics, Minimal Surfaces, Isoperimetry",
+  "text": "A geodesic on a curved surface is, by definition, an extremal of the arc-length functional restricted to curves lying on that surface — the surface’s own best attempt at a straight line, given that it is not allowed to leave the surface to take a genuine shortcut through the ambient space. Its governing equation says the geodesic curvature (the curving of the path as measured within the surface itself, ignoring any curving forced merely by the surface’s own bending in space) vanishes identically."
+ },
+ {
+  "room": "Room 29.2: Root-Finding and Nonlinear Equations",
+  "text": "The oldest and most robust root-finder is bisection: given an interval [a, b] on which a continuous function f changes sign, the Intermediate Value Theorem (Floor 9, and it has been quietly doing this job ever since) guarantees a root somewhere inside."
+ },
+ {
+  "room": "Room 31.4: Surfaces and the First Fundamental Form",
+  "text": "A regular surface is the two-dimensional generalisation of a regular curve: a smooth map r(u, v) from a region of the (u, v)-plane into ℝ³, whose two partial derivatives r_u and r_v are linearly independent at every point — that is, they span an honest two-dimensional plane rather than collapsing onto a line."
+ },
+ {
+  "room": "Room 31.6: Geodesics",
+  "text": "A geodesic is a surface’s best available substitute for a straight line — the straightest possible curve the surface permits, given that the surface itself may not allow anything straight to exist on it at all."
+ },
+ {
+  "room": "Room 32.2: Metric Spaces and Continuity",
+  "text": "A metric space is a set X equipped with a distance function d: X × X → ℝ satisfying three axioms: positivity, symmetry, and the triangle inequality."
+ },
+ {
+  "room": "Room 32.3: Topological Spaces and Continuous Maps",
+  "text": "A topological space is a set X together with a distinguished collection τ of subsets, called open sets, satisfying three axioms: ∅ and X are both open; arbitrary unions of open sets are open; and finite intersections of open sets are open. Notice what has been discarded — there is no distance function anywhere in this definition, only a bookkeeping rule for which subsets count as open."
+ },
+ {
+  "room": "Room 32.4: Connectedness and Path-Connectedness",
+  "text": "A topological space X is connected if it cannot be written as the union of two disjoint, nonempty open sets. Equivalently — and this phrasing matches intuition best — X is connected if it is in one piece, with no way to split it into two open chunks sharing no points and together using up all of X."
+ },
+ {
+  "room": "Room 32.5: Compactness",
+  "text": "A space X is compact if every open cover of X — every collection of open sets whose union is all of X — admits a finite subcover, a finite sub-collection that still covers all of X."
+ },
+ {
+  "room": "Room 32.8: Covering Spaces and Classification of Surfaces",
+  "text": "A covering space of a base space X is a space X̃ together with a map p: X̃ → X that is a local homeomorphism with discrete fibers."
+ },
+ {
+  "room": "Room 34.1: Multilinear Algebra and Tensors",
+  "text": "A tensor on a vector space V is a multilinear map: it eats some number of copies of V and some number of copies of the dual space V* (the space of linear functionals on V, i.e. covectors) and produces a scalar, linearly in every single slot separately."
+ },
+ {
+  "room": "Room 34.3: Smooth Manifolds",
+  "text": "A smooth manifold of dimension n is a topological space that, near every point, looks like an open subset of ℝⁿ — ‘looks like’ meaning there is a homeomorphism (a continuous bijection with continuous inverse) from a neighbourhood of the point onto an open subset of ℝⁿ, called a chart."
+ },
+ {
+  "room": "Room 34.5: Differential Forms and Exterior Calculus",
+  "text": "A differential k-form is a smooth field of totally antisymmetric (0,k)-tensors — a smooth section of the bundle Λ^k T*M built by the exterior-algebra construction of Room 34.1, applied fibrewise."
+ },
+ {
+  "room": "Room 35.2: Banach Spaces and Hilbert Spaces",
+  "text": "A Banach space is a normed vector space that is complete: every Cauchy sequence — one whose terms eventually get and stay arbitrarily close to each other — actually converges to a limit that lives in the space."
+ },
+ {
+  "room": "Room 35.5: Weak Topologies and Reflexivity",
+  "text": "The weak topology on a Banach space X is the coarsest topology under which every continuous linear functional in X* remains continuous — coarser than the norm topology, so it is easier for a sequence to converge weakly than to converge in norm. Weak convergence xₙ ⇀ x means that"
+ },
+ {
+  "room": "Room 37.1: What Abstract Algebra Is",
+  "text": "An algebraic structure is a set equipped with one or more operations — rules for combining elements to produce new elements — that are required to satisfy a short list of axioms: rules about how the operation must behave, not what the elements themselves are. This is the entire trick of the subject, and it is worth sitting with for a moment before we race off into groups and rings."
+ },
+ {
+  "room": "Room 37.2: Groups and Homomorphisms",
+  "text": "A group is a set G together with a binary operation ∗ (a rule assigning to each ordered pair a,b ∈ G a third element a∗b ∈ G) satisfying three axioms."
+ },
+ {
+  "room": "Room 37.3: Group Actions, Cosets, and Quotient Groups",
+  "text": "A group action of G on a set X is a homomorphism from G into Sym(X), the group of all permutations of X — equivalently, a rule assigning to each g ∈ G a way of moving the points of X around, written g·x, such that the following hold for all g,h ∈ G and x ∈ X:"
+ },
+ {
+  "room": "Room 37.4: Rings, Ideals, and Quotient Rings",
+  "text": "A ring is a set R with two operations, usually called addition and multiplication, such that (R,+) is an abelian group, multiplication is associative, and multiplication distributes over addition on both sides:"
+ },
+ {
+  "room": "Room 37.5: Factorization in Integral Domains",
+  "text": "An integral domain is a commutative ring with identity 1≠0 and no zero divisors:"
+ },
+ {
+  "room": "Room 37.6: Modules over Rings",
+  "text": "A module M over a ring R is an abelian group (M,+) equipped with a scalar multiplication R×M→M satisfying the same wish-list of axioms as a vector space, except that R is only a ring, not necessarily a field."
+ }
+]
