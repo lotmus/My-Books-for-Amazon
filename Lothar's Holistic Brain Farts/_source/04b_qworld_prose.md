@@ -160,7 +160,7 @@ The most frequently cited near-term "killer application" is quantum simulation o
 
 Then comes a long stretch that is candidly labeled "controlled science fiction," imagining hundred- and thousand-year horizons: quantum computing fading into invisible, embedded infrastructure; a "quantum internet" networking together entanglement, teleportation, and sensing; quantum simulation transforming biology outright; and relativity's speed-of-light limit still stubbornly constraining any quantum computer built on a galactic scale. A future physicist looks back at today's superconducting chips — "they had to cool the whole thing down just to make a few hundred delicate quantum states behave" — and gets a wry reply: "Yes. But it worked." That sums up the whole enterprise: first we learn how to make nature do something astonishing, then we spend the next thousand years making it boring.
 
-## Appendix 1: Core Ideas and Unresolved Questions
+## Appendix 1 — Core Ideas and Unresolved Questions
 
 Appendix 1 first revisits ER = EPR, the conjecture proposing that entangled particle pairs and wormholes — Einstein-Rosen bridges — might actually be the same phenomenon described in two different mathematical languages. In simplified toy-universe models, reducing the entanglement between two regions of space literally disconnects the spacetime linking them, hinting that spacetime itself might be woven out of entanglement, an idea that connects to the holographic principle, the proposal that all the information describing a volume of space can be fully encoded on its boundary. This remains speculative and unproven for real four-dimensional spacetime, but it's an active and serious research program in quantum gravity.
 
@@ -170,7 +170,7 @@ A couple of historical dead ends show how science self-corrects in practice over
 
 What still remains unknown is stated plainly: whether spacetime and time themselves are fundamental or merely emergent, and how to unify quantum mechanics with gravity into one complete theory. We should probably avoid writing the user manual for the year 3026 just yet. Five things are worth carrying away: that the forces are quantum fields interacting with each other, gravity alone still unquantized; that entanglement is not secretly a set of pre-agreed answers, courtesy of Bell's theorem; that quantum mechanics is not simply classical physics scaled down to a smaller size; that matter has layers running far deeper than atoms, down through nuclei to quarks and gluons to quantum fields themselves; and that the field is far from finished, since every resolved question seems to open up several new ones.
 
-## Appendix 2: What We Actually Learned
+## Appendix 2 — What We Actually Learned
 
 Appendix 2 is a closing dialogue between two fictional physicists, Bob and Alice, looking back over everything covered — deliberately skipping any chapter-by-chapter recap or numbered list, on the grounds that Appendix 1 already did that job. Bob announces that they've reached the end; Alice corrects him: only the end of the book, she points out, which is not the same thing. Bob concedes, since physics has already ruined the meaning of the word "end."
 
