@@ -18,7 +18,7 @@ Letzte Aktualisierung: 23.09.2026 (Sitzung 2) — **Manuskript vollständig, fak
 
 ## Wiederaufnahme (falls die Sitzung abbricht)
 1. `node lint_book.js` — sollte „65 Dateien, 0 Fehler" zeigen. Falls nicht, fehlende/fehlerhafte Datei anhand der Ausgabe reparieren.
-2. Bauen: `node build_book.js` → `powershell -File finalize_docx.ps1 -DocPath build\Auswandern_in_die_USA.docx -OutPdfPath build\Auswandern_in_die_USA.pdf` (Word-COM; **vor jedem Lauf `Get-Process WINWORD | Stop-Process -Force` und 3 Sek. warten**). EPUB: `node build_epub.js`.
+2. Bauen: `node build_book.js` → `powershell -File finalize_docx.ps1 -DocPath build\Auswandern_in_die_USA.docx` (Word-COM; **vor jedem Lauf `Get-Process WINWORD | Stop-Process -Force` und 3 Sek. warten**). Nur DOCX wird noch erzeugt — kein PDF, kein EPUB.
 3. Layout-Kontrolle: `powershell -File render_pages.ps1 -DocPath … -OutDir … -From N -To M -Scale 1.4`.
 
 ## Bekannte, unkritische Punkte (Politur für eine spätere Runde, kein Blocker)
