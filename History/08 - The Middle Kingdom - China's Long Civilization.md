@@ -18,7 +18,7 @@ In 221 BCE, the state of Qin defeated its rivals, and its ruler took the title Q
 
 Much of what is known about this chapter, Shang oracle bones aside, comes down through one man's stubbornness. Sima Qian, the Han dynasty's Grand Historian, was castrated around 99 BCE as punishment for defending a disgraced general, and chose the humiliation of continuing his work over the alternative of an honorable suicide specifically so he could finish his Records of the Grand Historian, a history of China from its legendary founders to his own day that later dynasties took as their model for writing history at all.
 
-His dynasty collapsed within four years of his death, brutal standardization having generated exactly the resentment brutal standardization tends to generate. The Han dynasty that followed kept most of the standardization and dropped most of the brutality, a pairing dolphin historians flag as worth remembering for later chapters.
+The Qin dynasty collapsed within four years of Qin Shi Huang's death, brutal standardization having generated exactly the resentment brutal standardization tends to generate. The Han dynasty that followed kept most of the standardization and dropped most of the brutality, a pairing dolphin historians flag as worth remembering for later chapters.
 
 This pattern — unify, flourish, fracture, reunify — repeats across Chinese history for the next two thousand years with a regularity dolphin scholars compare, only half-jokingly, to a tide.
 
