@@ -106,7 +106,7 @@ Einstein's equation makes the conversion possible:
 
 E = mc²
 
-Because c² is enormous, a minuscule change in mass corresponds to a huge amount of energy. Run the actual arithmetic on one gram: multiply by c² — about 9×10¹⁶ in SI units — and that single gram, fully converted, is worth roughly 9×10¹³ joules. That is in the range of a small nuclear weapon, released from a scrap of mass you could balance on a coin.
+Here m is mass, and c is the speed of light — about 300,000 kilometers per second. Because c² is enormous, a minuscule change in mass corresponds to a huge amount of energy. Run the actual arithmetic on one gram: multiply by c² — about 9×10¹⁶ in SI units — and that single gram, fully converted, is worth roughly 9×10¹³ joules. That is in the range of a small nuclear weapon, released from a scrap of mass you could balance on a coin.
 
 This is why nuclear physics can produce energies that chemistry cannot approach.
 
@@ -274,7 +274,7 @@ So neutrinos have mass. That was a major clue that the simplest Standard Model i
 
 The up and down quarks make ordinary protons and neutrons. The strange and charm quarks appeared in heavier unstable particles. The bottom and top quarks are even heavier. The top quark is particularly strange.
 
-It is so massive that it decays before it can form ordinary hadrons. We therefore do not find top-quark atoms or top-quark nuclei. We detect the top through the products of its extremely rapid decay.
+It is so massive that it decays before it can form ordinary hadrons — particles built from quarks, like protons and neutrons. We therefore do not find top-quark atoms or top-quark nuclei. We detect the top through the products of its extremely rapid decay.
 
 ### Antimatter
 
@@ -286,7 +286,7 @@ When a particle and its antiparticle meet, they can annihilate into other partic
 
 The Standard Model also contains particles associated with interactions. The photon carries the electromagnetic interaction. The gluons carry the strong interaction. The W and Z bosons carry the weak interaction.
 
-The Higgs boson is different. It is the quantum excitation of the Higgs field and is associated with the Higgs mechanism that gives mass to the W and Z bosons and contributes to the masses of elementary fermions. Gravity is missing from this list. That omission is not a typo.
+The Higgs boson is different. It is the quantum excitation of the Higgs field and is associated with the Higgs mechanism that gives mass to the W and Z bosons and contributes to the masses of elementary fermions — the matter particles: quarks and leptons. Gravity is missing from this list. That omission is not a typo.
 
 ### The photon
 
@@ -328,11 +328,11 @@ Quarks feel the strong, weak, and electromagnetic interactions according to thei
 
 Gluons interact strongly. The W and Z mediate weak interactions. And the Higgs belongs to the mechanism that gives mass to several elementary fields.
 
-### Why three forces fit together
+### How the Forces Are Related
 
 The Standard Model is built from quantum gauge theories. Quantum electrodynamics describes electromagnetism. Quantum chromodynamics describes the strong interaction. The electroweak theory unifies the electromagnetic and weak interactions at sufficiently high energies.
 
-At ordinary energies, the electroweak symmetry is broken and the familiar photon, W, and Z appear as distinct particles. This is one of the great conceptual achievements of twentieth-century physics. Three apparently different interactions turn out to be manifestations of a common mathematical structure at high energy.
+At ordinary energies, the electroweak symmetry is broken — more on what “broken” means for a symmetry in the next chapter — and the familiar photon, W, and Z appear as distinct particles. This is one of the great conceptual achievements of twentieth-century physics: two of the three forces, electromagnetism and the weak force, really do merge into one theory at high energy. The strong force stays mathematically separate in the confirmed Standard Model, though built from the same general kind of mathematics. Whether all three fuse at even higher, untested energies remains an open question, not an established fact.
 
 ### The particle zoo becomes a theory
 
@@ -374,7 +374,7 @@ But underneath the crowd is a remarkably elegant structure of quantum fields and
 
 It is that the particles are manifestations of a small number of underlying quantum fields and interactions. And just as Maxwell revealed that electricity, magnetism, and light were one thing, the Standard Model revealed that much of the particle zoo belongs to one coherent quantum framework. There is still a missing guest at the party. Gravity.
 
-And we already know that gravity refuses to fit neatly into the Standard Model. That is one of the great open questions in physics — a puzzle for another book entirely.
+And we already know that gravity refuses to fit neatly into the Standard Model. That is one of the great open questions in physics — a puzzle this book circles back to in Part III, when we ask whether gravity might be strings, tangles, or geometry in disguise.
 
 ↑ Back to Contents
 
@@ -419,7 +419,7 @@ This is spontaneous symmetry breaking. And it becomes one of the central ideas o
 
 The Higgs mechanism is tied to the breaking of electroweak symmetry. Particles interact with the Higgs field. The W and Z bosons acquire mass through this mechanism. The Higgs boson was discovered at CERN in 2012.
 
-But the popular slogan that “the Higgs gives everything mass” is too simple. Most of the mass of ordinary matter comes from the energy associated with the strong interaction inside protons and neutrons. The Higgs is enormously important. It is not the universe's universal weight machine.
+Chapter 3 already flagged the catch: most of the mass of ordinary matter comes from the strong interaction, not the Higgs field. The Higgs is enormously important. It is simply not the universe's universal weight machine.
 
 ### Gauge Symmetry
 
@@ -524,9 +524,9 @@ And information can be processed.
 
 ### From Transistors to Logic
 
-Combine transistors into circuits. Make gates. AND. OR.
+Combine transistors into circuits. Make gates: an AND gate switches on only when both its inputs are on, an OR gate switches on if either is, and a NOT gate just flips its input.
 
-NOT. NAND. NOR. Then combine those gates into arithmetic units, memory, control systems and processors.
+NAND. NOR. Wire enough of these together and you can build arithmetic units, memory, control systems and processors.
 
 The underlying physics is still the movement of charge carriers through semiconductor structures. At the top level, your computer looks like software. At the bottom, it is an extraordinarily complicated choreography of electrons, electric fields, materials and quantum-mechanical energy bands.
 
@@ -550,7 +550,7 @@ The smartphone in your hand is therefore not merely a computer. It is a carefull
 
 ### And Then Semiconductors Learned to Make Light
 
-Semiconductors do more than switch. They can emit light. In an LED, electrons and holes recombine and can release energy as photons. The wavelength depends on the semiconductor's electronic structure.
+Semiconductors do more than switch. They can emit light. In an LED (light-emitting diode), electrons and holes recombine and can release energy as photons. The wavelength depends on the semiconductor's electronic structure.
 
 Choose the material carefully and you choose the color. In semiconductor lasers, stimulated emission can produce coherent light. This connects the physics of chips to the physics of optical communication.
 
@@ -724,7 +724,7 @@ The problem was that you never knew the starting point exactly.
 
 ### The Three-Body Problem
 
-Two bodies are comparatively polite. The Earth and Sun follow a beautifully understandable gravitational relationship. Add another massive body and things become much more interesting. The three-body problem has no general simple closed-form solution like the two-body problem.
+Two bodies are comparatively polite. The Earth and Sun follow a beautifully understandable gravitational relationship. Add another massive body and things become much more interesting. The three-body problem has no general simple closed-form solution — no single tidy formula for the future — the way the two-body problem has.
 
 Some configurations behave chaotically. A tiny change in initial conditions can eventually produce a dramatically different orbit. Newton's laws have not stopped working. They have simply revealed that knowing the law is not the same thing as possessing a crystal ball.
 
@@ -734,7 +734,7 @@ Now replace planets with the atmosphere. Temperature. Pressure. Wind.
 
 Humidity. Millions of interacting variables. Your measurements are never infinitely precise. Your model is never infinitely detailed.
 
-And the atmosphere is nonlinear. A minuscule difference can grow. The forecast may be excellent tomorrow and hopeless weeks from now. This is why long-range weather prediction has a fundamental difficulty that is not solved merely by buying a faster computer.
+And the atmosphere is nonlinear — small causes don't stay small, and effects can snowball out of proportion to their causes. A minuscule difference can grow. The forecast may be excellent tomorrow and hopeless weeks from now. This is why long-range weather prediction has a fundamental difficulty that is not solved merely by buying a faster computer.
 
 You cannot calculate an infinitely precise future from an imperfect present.
 
@@ -746,7 +746,7 @@ Lorenz realized that the problem was not a computer malfunction. It was a proper
 
 ### A Strange Attractor
 
-Two years later, in 1963, Lorenz distilled the same phenomenon into a much simpler model: just three equations describing atmospheric convection. That system produced a remarkable geometric structure in phase space. Trajectories did not settle into a simple repeating orbit. They did not wander randomly either. They remained confined to a complicated structure now famously associated with the Lorenz attractor.
+Two years later, in 1963, Lorenz distilled the same phenomenon into a much simpler model: just three equations describing atmospheric convection. That system produced a remarkable geometric structure in what's called phase space — not physical space, but a map of every possible combination of the system's variables at a given moment. Trajectories did not settle into a simple repeating orbit. They did not wander randomly either. They remained confined to a complicated structure now famously associated with the Lorenz attractor.
 
 It looked almost like the wings of a butterfly — a striking coincidence, since the name “butterfly effect” actually comes from the title of a 1972 talk in which Lorenz asked whether a butterfly flapping its wings in Brazil could set off a tornado in Texas. But the real surprise was deeper: order and unpredictability could coexist.
 
@@ -883,7 +883,7 @@ An enormous number. Vacuum energy this large should curve spacetime dramatically
 
 ### Off By a Preposterous Amount
 
-Compare that theoretical number to what cosmology observes, and the two disagree by as much as 120 orders of magnitude, depending on where the calculation is cut off. Not twice as large. Not a thousand times too large. A number so large it is easier to write as an exponent than to say out loud.
+Compare that theoretical number to what cosmology observes, and the two disagree by as much as 120 orders of magnitude, depending on where the calculation is cut off. Not twice as large. Not a thousand times too large. A number so large it is easier to write as an exponent than to say out loud — each order of magnitude is another factor of ten, and a hundred and twenty of them is a 1 followed by 120 zeros.
 
 This is the cosmological constant problem — sometimes called the worst quantitative prediction in the history of physics. Something must be canceling almost all of that vacuum energy. Nobody has a confirmed explanation for why the cancellation is not complete, or why what remains has the tiny value it does.
 
@@ -954,7 +954,7 @@ The universe had apparently hidden a gravitational theory inside a musical instr
 
 ### Then the Universe Asked for More Dimensions
 
-There was a problem. The mathematics of superstring theory works consistently only in a spacetime with more dimensions than the four we experience directly. Ten dimensions, in the most common superstring formulation — other formulations, and other string theories, land on other numbers, which is its own small headache. Ten, for now.
+There was a problem. The mathematics of superstring theory — string theory combined with supersymmetry, introduced below — works consistently only in a spacetime with more dimensions than the four we experience directly. Ten dimensions, in the most common superstring formulation — other formulations, and other string theories, land on other numbers, which is its own small headache. Ten, for now.
 
 We have three dimensions of space and one of time. Where are the others? The proposed answer is that the extra spatial dimensions are compactified—curled up so tightly that ordinary experience does not reveal them. Imagine a garden hose viewed from far away.
 
@@ -978,7 +978,7 @@ They looked like five windows.
 
 ### Enter Edward Witten
 
-In 1995, Edward Witten gave the situation a remarkable new interpretation. The five string theories, together with eleven-dimensional supergravity in the appropriate limits, appeared to be connected through a deeper framework. This became known as M-theory. The “M” has never been given one universally agreed official expansion.
+In 1995, Edward Witten gave the situation a remarkable new interpretation. The five string theories, together with eleven-dimensional supergravity — a theory that extends Einstein's gravity with supersymmetry — in the appropriate limits, appeared to be connected through a deeper framework. This became known as M-theory. The “M” has never been given one universally agreed official expansion.
 
 Mystery. Membrane. Magic. Depending on the day, physicists have enjoyed all three jokes.
 
@@ -1022,7 +1022,7 @@ The harder question is: Does string theory uniquely predict our universe? That r
 
 The enormous collection of possible solutions became known as the string landscape. Different compactifications can produce different effective physics. Different particle spectra. Different parameters.
 
-Different vacuum energies. Perhaps this is a profound feature of the theory. Perhaps it is a sign that we have not yet found the correct principle selecting our universe. Perhaps some anthropic reasoning is required.
+Different vacuum energies. Perhaps this is a profound feature of the theory. Perhaps it is a sign that we have not yet found the correct principle selecting our universe. Perhaps some anthropic reasoning is required — the idea that we should only expect to find ourselves in one of the rare universes whose laws permit observers to exist.
 
 The debate is far from settled. And the universe, as usual, has declined to provide a comment.
 
@@ -1040,7 +1040,7 @@ If the radiation contains no information about what fell in, a conflict appears.
 
 ### AdS/CFT: Two Universes in One Description
 
-Then came one of the most astonishing ideas in modern theoretical physics. In 1997, Juan Maldacena proposed the AdS/CFT correspondence. Very roughly, a gravitational theory in a higher-dimensional Anti-de Sitter spacetime can be mathematically equivalent to a quantum field theory without gravity living on its lower-dimensional boundary. Two descriptions.
+Then came one of the most astonishing ideas in modern theoretical physics. In 1997, Juan Maldacena proposed the AdS/CFT correspondence — “CFT” stands for conformal field theory, a quantum theory with a special kind of symmetry. Very roughly, a gravitational theory in a higher-dimensional Anti-de Sitter spacetime (AdS) can be mathematically equivalent to a conformal field theory without gravity living on its lower-dimensional boundary. Two descriptions.
 
 Different dimensions. Apparently different physics. Yet the same underlying information. This is the modern concrete realization behind much of the holographic principle — though it's worth being precise about what's actually been shown. The duality is proven, or very strongly supported, for a specific, idealized kind of spacetime called Anti-de Sitter space, which isn't quite the expanding universe we live in. It's a real result, not a metaphor. It just isn't yet a direct statement about our own cosmology.
 
@@ -1048,7 +1048,7 @@ And it echoes forward into this book's own closing chapters, where the question 
 
 ### Is Gravity Made of Quantum Information?
 
-If a gravitational world can be equivalent to a nongravitational quantum theory living on its boundary, perhaps gravity and spacetime are not fundamental in the way we assumed. Perhaps geometry emerges from quantum information. Perhaps entanglement helps determine the structure of spacetime. Perhaps the fabric of the universe is not made from tiny pieces of space.
+If a gravitational world can be equivalent to a nongravitational quantum theory living on its boundary, perhaps gravity and spacetime are not fundamental in the way we assumed. Perhaps geometry emerges from quantum information. Perhaps entanglement — the strange quantum link where measuring one particle instantly narrows the odds for a distant partner particle — helps determine the structure of spacetime. Perhaps the fabric of the universe is not made from tiny pieces of space.
 
 Perhaps it is made from relationships. This is active research. It is not established fact. But it is one of the most exciting clues in the search for quantum gravity.
 
@@ -1213,7 +1213,7 @@ The electroweak theory uses SU(2) × U(1). Think of U(1), SU(2) and SU(3) as dif
 
 ### The Strand Bet
 
-The strand model proposes that some of this structure might emerge from the properties of tiny strand crossings—orientation, twisting, phase and topology. That is the entire mechanism as it currently stands — nobody, including its proponent, has yet shown how those four words turn into the specific SU(3) × SU(2) × U(1) structure the Standard Model actually has. If such a mechanism worked, gauge fields would not be fundamental ingredients inserted into the theory. They would be large-scale consequences of the microscopic structure. That is a beautiful possibility.
+The strand model proposes that some of this structure might emerge from the properties of tiny strand crossings—orientation, twisting, quantum phase (a kind of internal clock-position every quantum state carries), and topology. That is the entire mechanism as it currently stands — nobody, including its proponent, has yet shown how those four words turn into the specific SU(3) × SU(2) × U(1) structure the Standard Model actually has. If such a mechanism worked, gauge fields would not be fundamental ingredients inserted into the theory. They would be large-scale consequences of the microscopic structure. That is a beautiful possibility.
 
 It is also a very high bar.
 
@@ -1402,7 +1402,7 @@ The whole has properties that make sense only when the parts interact. That is e
 
 ### Emergence Is Not Magic Dust
 
-When physicists say “emergent,” they are not quietly introducing a new force called Emergence. A hurricane emerges from ordinary molecules. A crystal emerges from atoms. Superconductivity emerges from collective quantum behavior.
+When physicists say “emergent,” they are not quietly introducing a new force called Emergence. A hurricane emerges from ordinary molecules. A crystal emerges from atoms. Superconductivity — electricity flowing with zero resistance — emerges from collective quantum behavior.
 
 Nothing has escaped physics. The interesting thing is that the large-scale pattern can be much easier to understand at its own level than by tracking every microscopic detail.
 
@@ -1416,7 +1416,7 @@ They can change the behavior of individuals. This is emergence in everyday cloth
 
 ### Simple Rules Can Make a Mess
 
-Computer scientists discovered something delightfully annoying. You can write down extremely simple rules and get behavior that is spectacularly complicated. A minuscule program can generate patterns that take pages to describe. A deterministic system can become unpredictable in practice.
+Computer scientists discovered something delightfully annoying. You can write down extremely simple rules and get behavior that is spectacularly complicated — Conway's Game of Life, a grid of on/off cells following four simple rules, is the classic case. A minuscule program can generate patterns that take pages to describe. A deterministic system can become unpredictable in practice.
 
 A few rules can create stable structures, moving structures, interacting structures, and structures that reproduce. The rulebook can be tiny. The plot can be enormous.
 
@@ -1486,7 +1486,7 @@ The remarkable thing is not that life violates physics. The remarkable thing is 
 
 Now we reach the dangerous question. Could consciousness be emergent? Possibly. But “possibly” is doing a lot of work.
 
-We do not yet have a generally accepted theory explaining why physical information processing should produce subjective experience. Hofstadter's work suggests that self-reference and recursive representation may be important. Interesting? Very.
+We do not yet have a generally accepted theory explaining why physical information processing should produce subjective experience. The cognitive scientist Douglas Hofstadter's work suggests that self-reference and recursive representation may be important. Interesting? Very.
 
 Solved? Absolutely not. The universe has not yet sent us the answer key.
 
@@ -1732,7 +1732,7 @@ At this point the brain has effectively become its own customer. This is the kin
 
 “This sentence is false” is a famous self-reference disaster. It eats its own tail and gets a headache. But self-reference does not always produce contradiction. A computer can inspect its own program.
 
-A thermostat can respond to the state it is helping regulate. A brain can think about its own thoughts. A scientific instrument can measure another instrument. The important question is what kind of loop we have.
+A thermostat can respond to the state it is helping regulate. A brain can think about its own thoughts. A scientific instrument can be used to check its own calibration. The important question is what kind of loop we have.
 
 Some loops explode. Some loops stabilize. Some loops become extraordinarily interesting.
 
@@ -1766,7 +1766,7 @@ But the recursive structure is impossible to ignore.
 
 ### A Theory Is Not the Universe
 
-A map is not the landscape. A simulation of a hurricane is not wet. An equation describing a black hole does not contain a tiny black hole. A quantum state is not necessarily a little classical object hiding inside mathematics.
+A map is not the landscape. A simulation of a hurricane is not wet. An equation describing a black hole does not contain a tiny black hole. A quantum wavefunction is not a tiny object; it is a description of possibilities.
 
 Physics constantly moves between reality and representation. Hofstadter's ideas give us a useful warning: A model can represent a thing without being the thing. This sounds obvious.
 
@@ -1806,7 +1806,7 @@ So one part of the universe has received information from another part and const
 
 ### Where We Should Stop
 
-Hofstadter's strange-loop ideas are not an established fundamental theory of physics. Gödel does not explain consciousness. Escher does not prove quantum mechanics. And the fact that the universe contains observers does not prove that observers are required for the universe to exist.
+Hofstadter's strange-loop ideas are not an established fundamental theory of physics. Gödel does not explain consciousness. Escher does not prove quantum mechanics. And the fact that the universe contains observers does not prove that observers are required for the universe to exist — the trap the anthropic principle warns against.
 
 The value is elsewhere. These ideas teach us to notice recursion, representation, emergence, and levels of description. They make us ask better questions. And sometimes a better question is the most useful piece of physics you can get.
 
@@ -1905,7 +1905,7 @@ What it means for a physical theory to refer to, or contain, itself.
 
 No solutions appendix, no grading. Some of these have a loosely checkable answer; most don't. Sit with them for as long as they're interesting and no longer.
 
-A sugar cube's worth of neutron-star material weighs about as much as a mountain. Before you look anything up: how many zeros do you think separate “sugar cube” from “mountain”? Then check how far off your gut was.
+A sugar cube's worth of neutron-star material weighs about as much as a mountain. Before you look anything up: how many zeros do you think separate the weight of an ordinary sugar cube from the weight of a mountain? Then check how far off your gut was.
 
 Roughly 65 billion solar neutrinos pass through every square centimeter of you, every second, walls or no walls. Rough estimate: how many have passed through you since you started reading this sentence?
 
