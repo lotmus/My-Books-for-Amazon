@@ -1479,3 +1479,72 @@ hyperlinks (310 internal + 100 external, up from 96 - the 4 new per-demo links),
 unchanged at 3172, zero straight quotes/apostrophes remaining anywhere in the file, zero anchored
 (floating) images remaining (21/21 now inline), zero stray leading whitespace in the Table of
 Contents.
+
+## Four-dimension audit (content, didactic simplicity, correctness, formatting), and ~28 fixes
+
+Ran four parallel background reviews, each targeted at the part of the book its dimension actually
+concerns: physics correctness and didactic clarity across the 18 Appendix lessons, and
+content/continuity plus prose-formatting consistency across the full 3172-paragraph manuscript.
+All four findings sets were fixed in one pass.
+
+**Content & continuity (novel):**
+- **A real dropped plot thread.** Gideon's "second page of 11-C is in a different folder, in a
+  different year" discovery (paras 1148, 1159, 1241) was set up three times with explicit
+  "this will matter" signalling and then never paid off anywhere in the remaining ~800 paragraphs.
+  Added one sentence to Crispin Vale's epilogue paragraph (formerly 1987) revealing the backdated
+  second page was his doing - closing the loop without a confession scene.
+- **A missing paragraph break.** Chapter 6 alone ran its closing "Rule:" sentence straight into the
+  preceding narrative with no break, unlike all 17 other chapters. Split it into its own paragraph
+  (paragraph count is now 3173, +1, entirely from this split).
+- Standardised the green notebook's label to "PRIVATE/UNHELPFUL" (was split 2-3 against
+  "PRIVATE / UNHELPFUL" across five instances).
+
+**Didactic simplicity (Appendix, 6 fixes):** all were places a beginner reader could get stuck -
+now fixed by adding the missing definition or tag at first use, not by rewriting the surrounding
+explanation:
+- Lesson 11's unmarked dense aside now carries "(skip freely)" like every other optional section.
+- Defined E(a,b) in the CHSH inequality (Lesson 13), the fidelity formula's ρ/σ/Tr (Lesson 15), and
+  "reduced density matrix" at its first use (Lesson 7).
+- ℏ and ΔH, both used unglossed in Lesson 4's Zeno-effect formula (four lessons before ℏ was
+  otherwise defined, and never for ΔH anywhere), now get a one-clause definition right there.
+
+**Correctness (Appendix, 4 fixes):**
+- Fixed a real citation bug: the Glossary's Bell's theorem entry named minutephysics as the channel
+  but described "eighteen minutes with 3Blue1Brown" - looked like copy-pasted text from a different
+  entry. Corrected the attribution.
+- Softened an unverifiable, overly precise Zurek decoherence-time figure (10⁻²³ s for a specific
+  1 g/1 cm/room-temperature case) to a defensible order-of-magnitude statement.
+- Clarified the Locality glossary entry's "loophole physicists still fight about" to specify the
+  free-choice loophole, so it no longer reads as contradicting the earlier "loophole-free since
+  2015" claim.
+- Trimmed a duplicated evaporation-time figure restated back-to-back in adjacent paragraphs.
+
+**Formatting consistency (whole book, ~14 fixes):**
+- "toward" standardised to "towards" throughout (16 whole-word instances; matches the book's
+  British spelling conventions elsewhere).
+- Collapsed a stray double space after "Going deeper (skip freely)." in 14 of 19 instances (a
+  bold-run/plain-run boundary artifact) to match the other 5.
+- Fixed two instances of a stray space before a closing curly quote after a cut-off-dialogue em
+  dash, and two Glossary entries (Holographic Duality, Holographic Principle) missing the leading
+  space in the otherwise-universal double-spaced-em-dash header format.
+- **Fixed a real Kindle-rendering bug**: Lesson 14's four-item numbered list used real Word
+  auto-numbering (List Paragraph style + numPr) on top of manually typed "1./2./3./4." prefixes
+  already in the text - would have rendered as "1. 1. String theory..." doubled. Removed the
+  numbering property and style, reverting to plain paragraphs matching all 17 other lessons.
+  same fix applied to a following empty placeholder paragraph.
+- Fixed a bold-formatting bleed in Lesson 18's "Going deeper" label, where the entire first
+  sentence was bolded along with the label (every other lesson bolds only the label itself).
+  Applied real subscript/superscript character formatting to "kB" (Lesson 16) and "10^100" (Lesson
+  18), which had been left as plain-text "kB" and a literal caret instead of matching the real
+  superscript/subscript formatting used everywhere else in the Appendix's equations.
+- Capitalised two front-matter headings ("Read this book" -> "Read This Book",
+  "of this Course" -> "of This Course") to match the book's own most common title-casing pattern.
+- Standardised "judgement" (was split 1 "judgment"/1 "judgement") and "non-relativistic" (was split
+  1 hyphenated/1 unhyphenated) to match the book's British-spelling and compound-term conventions.
+
+Verification: paragraph count 3173 (3172 + 1 from the Chapter 6 paragraph split, the only
+paragraph-count-changing edit in this batch), 287/287 bookmark pairs balanced, zero broken internal
+hyperlinks, zero straight quotes remaining, zero whole-word "toward" remaining, zero "nonrelativistic"
+or American "judgment" remaining, all ~28 fix phrases confirmed present verbatim, Lesson 14's list
+paragraphs confirmed free of numPr/List-Paragraph styling, and the new sub/superscript runs confirmed
+via run-level formatting inspection (not just text content).
