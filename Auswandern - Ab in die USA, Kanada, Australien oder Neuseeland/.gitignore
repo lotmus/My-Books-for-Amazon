@@ -1,0 +1,10 @@
+# Build dependencies (reinstall with `npm install`)
+node_modules/
+
+# Build outputs (regenerate with `npm run build`) -- the markdown in manuscript/
+# is the source of truth, not these.
+build/
+*.docx
+*.pdf
+*.epub
+~$*

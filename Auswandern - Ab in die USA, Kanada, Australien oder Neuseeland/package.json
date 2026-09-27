@@ -1,0 +1,15 @@
+{
+  "name": "auswandern-in-die-usa",
+  "version": "1.0.0",
+  "description": "Auswandern in die USA - manuscript build (Markdown -> DOCX/EPUB)",
+  "main": "build_book.js",
+  "scripts": {
+    "build": "node build_book.js",
+    "epub": "node build_epub.js"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "docx": "^9.7.1"
+  }
+}
