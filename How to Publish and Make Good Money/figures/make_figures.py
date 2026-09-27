@@ -107,6 +107,26 @@ def draw_warning(ax, x, y, s=0.11, color=STATUS["critical"]):
             color="white", fontsize=13, fontweight="bold", zorder=6)
 
 
+def draw_stage(ax, cx, cy, w, h, label, sub, color, text_color="white", fontsize=12.5, sub_fontsize=9.3):
+    """One box in a workflow diagram: a colored rounded rectangle, a bold
+    label, and an optional smaller sub-label under it."""
+    ax.add_patch(FancyBboxPatch((cx - w / 2, cy - h / 2), w, h,
+                                 boxstyle="round,pad=0,rounding_size=0.12",
+                                 facecolor=color, edgecolor="none", zorder=3))
+    ax.text(cx, cy + (0.15 if sub else 0), label, ha="center", va="center",
+            fontsize=fontsize, fontweight="bold", color=text_color, zorder=4)
+    if sub:
+        ax.text(cx, cy - 0.27, sub, ha="center", va="center",
+                fontsize=sub_fontsize, color=text_color, zorder=4, alpha=0.92)
+
+
+def draw_down_arrow(ax, cx, y_top, y_bot, color=MUTED, lw=2.2, rad=0.0):
+    style = f"arc3,rad={rad}" if rad else None
+    ax.annotate("", xy=(cx, y_bot), xytext=(cx, y_top),
+                arrowprops=dict(arrowstyle="-|>", color=color, lw=lw,
+                                 connectionstyle=style))
+
+
 # ---------------------------------------------------------------------------
 # Cover
 # ---------------------------------------------------------------------------
@@ -197,56 +217,52 @@ def fig_royalty_cliff():
 # Figure 5.1 -- Ebook vs print needs
 # ---------------------------------------------------------------------------
 def fig_ebook_vs_print():
-    fig, ax = plt.subplots(figsize=(10, 7.4), dpi=160)
+    fig, ax = plt.subplots(figsize=(10, 8.8), dpi=160)
     fig.patch.set_facecolor(PAGE)
-    ax.set_xlim(0, 10); ax.set_ylim(0, 10)
+    ax.set_xlim(0, 10); ax.set_ylim(0, 10.3)
     ax.axis("off")
+
+    draw_stage(ax, 5, 9.55, 4.2, 0.8, "Finished Manuscript", None, INK_SECONDARY)
 
     col_w, gap = 4.55, 0.3
     left_x, right_x = 0.3, 0.3 + col_w + gap
+    ax.add_patch(FancyBboxPatch((left_x, 0.35), col_w, 8.35, boxstyle="round,pad=0,rounding_size=0.18",
+                                 facecolor="#eaf3fc", edgecolor=BLUE, linewidth=1.6, zorder=1))
+    ax.add_patch(FancyBboxPatch((right_x, 0.35), col_w, 8.35, boxstyle="round,pad=0,rounding_size=0.18",
+                                 facecolor="#fdece3", edgecolor=ORANGE, linewidth=1.6, zorder=1))
+    ax.text(left_x + col_w / 2, 8.35, "EBOOK PATH", ha="center", fontsize=14.5, fontweight="bold", color=BLUE)
+    ax.text(right_x + col_w / 2, 8.35, "PRINT PATH", ha="center", fontsize=14.5, fontweight="bold", color=ORANGE)
 
-    ax.add_patch(FancyBboxPatch((left_x, 0.4), col_w, 9.2, boxstyle="round,pad=0,rounding_size=0.18",
-                                 facecolor="#eaf3fc", edgecolor=BLUE, linewidth=1.6))
-    ax.add_patch(FancyBboxPatch((right_x, 0.4), col_w, 9.2, boxstyle="round,pad=0,rounding_size=0.18",
-                                 facecolor="#fdece3", edgecolor=ORANGE, linewidth=1.6))
+    draw_down_arrow(ax, left_x + col_w / 2, 9.14, 8.75, rad=-0.15)
+    draw_down_arrow(ax, right_x + col_w / 2, 9.14, 8.75, rad=0.15)
 
-    ax.text(left_x + col_w / 2, 9.15, "EBOOK (KINDLE)", ha="center", fontsize=14.5, fontweight="bold", color=BLUE)
-    ax.text(right_x + col_w / 2, 9.15, "PRINT (PAPERBACK/HARDCOVER)", ha="center", fontsize=11.8, fontweight="bold", color=ORANGE)
-
-    ebook_rows = [
-        ("Heading 1/2 styles for Kindle nav", True),
-        ("Reflowable, device-width-safe images", True),
-        ("Plain-text contents listing (optional)", True),
-        ("Page-numbered table of contents", False),
-        ("Index", False),
-        ("Fixed page-number references", False),
+    ebook_steps = [
+        ("Apply Heading Styles", SEQ_BLUE[300], INK),
+        ("Skip TOC Page Numbers & Index", SEQ_BLUE[450], "white"),
+        ("Check in KDP Previewer", SEQ_BLUE[600], "white"),
     ]
-    print_rows = [
-        ("Page-numbered table of contents", True),
-        ("Page numbers + running headers", True),
-        ("Trim size & gutter-aware margins", True),
-        ("Spine width from KDP's calculator", True),
-        ("Bleed (only if art touches the edge)", True),
-        ("Physical proof ordered & read", True),
+    print_steps = [
+        ("Choose Trim Size & Margins", "#f3b98c", INK),
+        ("Cover via KDP's Calculator", ORANGE, "white"),
+        ("Order & Review a Proof", "#b8481f", "white"),
     ]
+    ys = [7.15, 5.75, 4.35]
+    term_y = 2.35
+    step_h = 0.95
 
-    def render_rows(rows, col_x):
-        y = 8.15
-        for label, ok in rows:
-            cx = col_x + 0.55
-            if ok:
-                ax.plot([cx - 0.16, cx - 0.02, cx + 0.22], [y, y - 0.16, y + 0.18],
-                        color=STATUS["good"], lw=3.4, solid_capstyle="round", solid_joinstyle="round")
-            else:
-                ax.plot([cx - 0.16, cx + 0.16], [y - 0.16, y + 0.16], color=MUTED, lw=3.0, solid_capstyle="round")
-                ax.plot([cx - 0.16, cx + 0.16], [y + 0.16, y - 0.16], color=MUTED, lw=3.0, solid_capstyle="round")
-            ax.text(col_x + 1.0, y, label, fontsize=10, va="center", color=INK)
-            y -= 1.28
+    def render_column(steps, terminal_label, col_x):
+        cx = col_x + col_w / 2
+        for (label, color, tcolor), y in zip(steps, ys):
+            draw_stage(ax, cx, y, col_w - 0.9, step_h, label, None, color, tcolor, fontsize=11)
+        for i in range(len(ys) - 1):
+            draw_down_arrow(ax, cx, ys[i] - step_h / 2, ys[i + 1] + step_h / 2)
+        draw_down_arrow(ax, cx, ys[-1] - step_h / 2, term_y + 0.85 / 2)
+        draw_stage(ax, cx, term_y, col_w - 1.5, 0.85, terminal_label, None, STATUS["good"])
 
-    render_rows(ebook_rows, left_x)
-    render_rows(print_rows, right_x)
+    render_column(ebook_steps, "Kindle-Ready", left_x)
+    render_column(print_steps, "Print-Ready", right_x)
 
-    ax.set_title("What Each Format Needs — and What It Doesn't", fontsize=15, fontweight="bold", pad=14)
+    ax.set_title("The Formatting Workflow", fontsize=16, fontweight="bold")
     save(fig, "fig05_ebook_vs_print.png")
 
 
@@ -440,36 +456,37 @@ def fig_acos_breakeven():
 # Figure 12.1 -- Select vs Wide
 # ---------------------------------------------------------------------------
 def fig_select_vs_wide():
-    fig, ax = plt.subplots(figsize=(10, 7.2), dpi=160)
+    fig, ax = plt.subplots(figsize=(9.5, 8.6), dpi=160)
     fig.patch.set_facecolor(PAGE)
-    ax.set_xlim(0, 10); ax.set_ylim(0, 10)
+    ax.set_xlim(0, 9.5); ax.set_ylim(0, 10)
     ax.axis("off")
 
-    col_w, gap = 4.55, 0.3
-    left_x, right_x = 0.3, 0.3 + col_w + gap
-    ax.add_patch(FancyBboxPatch((left_x, 0.4), col_w, 9.2, boxstyle="round,pad=0,rounding_size=0.18",
-                                 facecolor="#eaf3fc", edgecolor=BLUE, linewidth=1.6))
-    ax.add_patch(FancyBboxPatch((right_x, 0.4), col_w, 9.2, boxstyle="round,pad=0,rounding_size=0.18",
-                                 facecolor="#fdece3", edgecolor=ORANGE, linewidth=1.6))
-    ax.text(left_x + col_w / 2, 9.15, "KDP SELECT", ha="center", fontsize=15.5, fontweight="bold", color=BLUE)
-    ax.text(right_x + col_w / 2, 9.15, "GOING WIDE", ha="center", fontsize=15.5, fontweight="bold", color=ORANGE)
+    cx = 4.75
+    draw_stage(ax, cx, 9.3, 5.6, 0.9, "Enroll in KDP Select",
+               "90-day rolling exclusivity — ebook only", BLUE)
+    draw_down_arrow(ax, cx, 8.85, 7.75)
+    draw_stage(ax, cx, 7.3, 6.2, 0.9, "Track Kindle Unlimited Page-Reads",
+               "for one full 90-day term", SEQ_BLUE[550])
 
-    select_rows = ["90-day rolling ebook exclusivity", "Kindle Unlimited page-read income",
-                   "Free Book Promotion days", "Print editions unaffected either way"]
-    wide_rows = ["Apple, Kobo, B&N, Google, libraries", "No single platform's algorithm risk",
-                 "No Kindle Unlimited page-read income", "Aggregator takes a small cut (optional)"]
+    left_x, right_x = 2.4, 7.1
+    draw_down_arrow(ax, left_x, 6.85, 5.95, rad=0.28)
+    draw_down_arrow(ax, right_x, 6.85, 5.95, rad=-0.28)
 
-    def render(rows, col_x):
-        y = 8.0
-        for label in rows:
-            ax.add_patch(Circle((col_x + 0.5, y), 0.07, facecolor=INK_SECONDARY, edgecolor="none"))
-            ax.text(col_x + 0.85, y, label, fontsize=10.3, va="center", color=INK)
-            y -= 1.55
+    draw_stage(ax, left_x, 5.4, 4.0, 0.95, "Page-reads carry\nreal weight?", None, SEQ_BLUE[300], INK, fontsize=11.5)
+    draw_stage(ax, right_x, 5.4, 4.0, 0.95, "Reach beyond Amazon\nmatters more?", None, "#f3b98c", INK, fontsize=11.5)
 
-    render(select_rows, left_x)
-    render(wide_rows, right_x)
+    draw_down_arrow(ax, left_x, 4.9, 4.0)
+    draw_down_arrow(ax, right_x, 4.9, 4.0)
 
-    ax.set_title("Exclusivity vs. Reach", fontsize=16, fontweight="bold", pad=10)
+    draw_stage(ax, left_x, 3.5, 3.6, 0.85, "Renew Select", None, SEQ_BLUE[600])
+    draw_stage(ax, right_x, 3.5, 3.6, 0.85, "Go Wide", None, ORANGE)
+
+    ax.text(left_x, 2.5, "(Chapter 8's launch tools\nstay available)", ha="center", fontsize=8.8,
+            color=MUTED, style="italic")
+    ax.text(right_x, 2.5, "(Apple, Kobo, B&N, Google,\nlibraries — via an aggregator)", ha="center",
+            fontsize=8.8, color=MUTED, style="italic")
+
+    ax.set_title("Deciding: Select or Wide", fontsize=16, fontweight="bold")
     save(fig, "fig12_select_vs_wide.png")
 
 
@@ -568,15 +585,115 @@ def fig_first_year_roadmap():
     save(fig, "fig15_first_year_roadmap.png")
 
 
+# ---------------------------------------------------------------------------
+# Figure 1.1 -- The whole book, as one workflow
+# ---------------------------------------------------------------------------
+def _vertical_workflow(stages, filename, title, box_w=7.2, box_h=0.95, gap=0.55):
+    n = len(stages)
+    total_h = n * box_h + (n - 1) * gap
+    fig, ax = plt.subplots(figsize=(7.6, 1.35 + total_h), dpi=160)
+    fig.patch.set_facecolor(PAGE)
+    ax.set_xlim(0, 8.4)
+    ax.set_ylim(0, total_h + 1.05)
+    ax.axis("off")
+
+    cx = 4.2
+    y = total_h + 0.5 - box_h / 2
+    centers = []
+    for label, sub, color in stages:
+        centers.append(y)
+        text_color = INK if color == YELLOW else "white"
+        draw_stage(ax, cx, y, box_w, box_h, label, sub, color, text_color)
+        y -= (box_h + gap)
+    for i in range(n - 1):
+        draw_down_arrow(ax, cx, centers[i] - box_h / 2, centers[i + 1] + box_h / 2)
+
+    ax.set_title(title, fontsize=15.5, fontweight="bold")
+    save(fig, filename)
+
+
+def fig_publishing_workflow():
+    stages = [
+        ("Write & Revise", "Draft, then real editing passes — Ch 3–4", BLUE),
+        ("Format", "A Kindle file and/or a print file — Ch 5", ORANGE),
+        ("Design Cover", "Has to survive a thumbnail — Ch 6", AQUA),
+        ("Set Metadata", "Categories and keywords — Ch 7", YELLOW),
+        ("Price & Publish", "Inside the 70% band, on purpose — Ch 8", MAGENTA),
+        ("Launch & Advertise", "A concentrated week, then ads — Ch 9–10", GREEN),
+        ("Get Paid & Repeat", "Reports, taxes, book two — Ch 11, 14", VIOLET),
+    ]
+    _vertical_workflow(stages, "fig01_publishing_workflow.png", "The Self-Publishing Workflow")
+
+
+# ---------------------------------------------------------------------------
+# Figure 4.1 -- The editing workflow
+# ---------------------------------------------------------------------------
+def fig_editing_workflow():
+    stages = [
+        ("Draft", "The first complete version", BLUE),
+        ("Developmental Edit", "Is the structure right?", ORANGE),
+        ("Line Edit", "Does each paragraph read well?", AQUA),
+        ("Copyedit", "Grammar, consistency, fact-checking", YELLOW),
+        ("Proofread", "A final pass on the formatted file", MAGENTA),
+        ("Ready Manuscript", "On to formatting — Chapter 5", GREEN),
+    ]
+    _vertical_workflow(stages, "fig04_editing_workflow.png", "The Editing Workflow", box_h=0.9, gap=0.45)
+
+
+# ---------------------------------------------------------------------------
+# Figure 10.2 -- The ad campaign workflow
+# ---------------------------------------------------------------------------
+def fig_ad_workflow():
+    stages = [
+        ("Auto Campaign", "Let Amazon find real matches first", BLUE),
+        ("Search Term Report", "See what customers actually typed", ORANGE),
+        ("Harvest Winning Keywords", "Move the converters into control", AQUA),
+        ("Manual Campaign", "Bid on proven terms with intent", YELLOW),
+    ]
+    n = len(stages)
+    box_w, box_h, gap = 6.6, 0.95, 0.65
+    total_h = n * box_h + (n - 1) * gap
+    fig, ax = plt.subplots(figsize=(8.6, 1.6 + total_h), dpi=160)
+    fig.patch.set_facecolor(PAGE)
+    ax.set_xlim(0, 9.6)
+    ax.set_ylim(0, total_h + 1.1)
+    ax.axis("off")
+
+    cx = 4.0
+    y = total_h + 0.55 - box_h / 2
+    centers = []
+    for label, sub, color in stages:
+        centers.append(y)
+        text_color = INK if color == YELLOW else "white"
+        draw_stage(ax, cx, y, box_w, box_h, label, sub, color, text_color)
+        y -= (box_h + gap)
+    for i in range(n - 1):
+        draw_down_arrow(ax, cx, centers[i] - box_h / 2, centers[i + 1] + box_h / 2)
+
+    # Loop-back arrow: the cycle keeps running, off to the right of the stack
+    loop_x = cx + box_w / 2 + 0.55
+    ax.annotate("", xy=(loop_x, centers[1]), xytext=(loop_x, centers[3]),
+                arrowprops=dict(arrowstyle="-|>", color=MUTED, lw=2,
+                                 connectionstyle="arc3,rad=1.15"))
+    ax.text(loop_x + 1.55, (centers[1] + centers[3]) / 2, "new search terms\nkeep surfacing — repeat",
+            fontsize=9, color=MUTED, ha="center", va="center", style="italic")
+
+    ax.set_title("The Ad Campaign Workflow", fontsize=15.5, fontweight="bold")
+    save(fig, "fig10b_ad_workflow.png")
+
+
 if __name__ == "__main__":
     fig_cover()
+    fig_publishing_workflow()
     fig_royalty_cliff()
     fig_ebook_vs_print()
     fig_thumbnail_test()
+    fig_editing_workflow()
     fig_keyword_funnel()
     fig_pricing_sweet_spot()
     fig_launch_concentration()
     fig_acos_breakeven()
+    fig_ad_workflow()
     fig_select_vs_wide()
     fig_red_flags()
     fig_catalog_compounding()

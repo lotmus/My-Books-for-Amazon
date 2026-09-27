@@ -75,6 +75,18 @@ job in the chapters ahead — not on the platform, which is free and identical
 for every author who uses it.
 :::
 
+Every chapter from here on is one stage of a single pipeline. It's worth
+seeing the whole shape before diving into the first piece of it:
+
+::: {custom-style="FigureCaption"}
+![](figures/fig01_publishing_workflow.png)
+
+**Figure 1.1** — The self-publishing workflow this book walks through, one
+chapter at a time. Nothing here is optional; skipping a stage just means
+finding out about it later, from a review or a royalty report instead of
+from this book.
+:::
+
 ### A note on doing both
 
 These paths aren't mutually exclusive across a career, or even across a

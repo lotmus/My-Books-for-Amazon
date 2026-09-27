@@ -110,6 +110,14 @@ hire one of these out, hire the copyedit; it catches the errors a reader
 notices consciously ("that's a typo") rather than the ones they only feel
 ("something about this felt amateur").
 
+::: {custom-style="FigureCaption"}
+![](figures/fig04_editing_workflow.png)
+
+**Figure 4.1** — Four genuinely different passes, run in order, ending in a
+manuscript that's actually ready for Chapter 5 — not four names for the
+same read-through.
+:::
+
 ::: {custom-style="CaseStudy"}
 **Case study: what "professional-grade" editing actually looks like in
 practice.** Elsewhere in this same catalog, a 38-chapter technical book went
@@ -253,9 +261,10 @@ skipped, plus a few of its own:
 ::: {custom-style="FigureCaption"}
 ![](figures/fig05_ebook_vs_print.png)
 
-**Figure 5.1** — What each format needs and what it doesn't. Building both
-from one file works only if you're deliberate about which list applies to
-which output.
+**Figure 5.1** — The same finished manuscript, two different finishing
+workflows. They diverge immediately, and "did the ebook steps by habit on
+the print file" (or vice versa) is exactly the kind of avoidable bug this
+split is meant to prevent.
 :::
 
 ::: {custom-style="KeyTakeaway"}

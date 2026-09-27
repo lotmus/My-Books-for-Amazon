@@ -257,6 +257,14 @@ broad automatic spend taper down. This sequence — auto for discovery, manual
 for control — avoids the common new-advertiser mistake of guessing at
 keywords from scratch and bidding blind.
 
+::: {custom-style="FigureCaption"}
+![](figures/fig10b_ad_workflow.png)
+
+**Figure 10.1** — This isn't a one-time setup. New search terms keep
+surfacing after the first harvest, so the loop back to the Search Term
+Report keeps running for as long as the campaign does.
+:::
+
 ### The only formula that matters: break-even ACOS
 
 **ACOS** (Advertising Cost of Sales) is simply:
@@ -282,7 +290,7 @@ sales (royalty: $16.55) gives an ACOS of 10 ÷ 16.55 ≈ **60%** — under the
 ::: {custom-style="FigureCaption"}
 ![](figures/fig10_acos_breakeven.png)
 
-**Figure 10.1** — The break-even line for the $4.99 example above. Below the
+**Figure 10.2** — The break-even line for the $4.99 example above. Below the
 line, an ad is paying for itself before any read-through, page-read income,
 or brand-visibility effect is even counted; above it, the ad is a net cost
 you're choosing to pay for exposure, which can still be a reasonable choice

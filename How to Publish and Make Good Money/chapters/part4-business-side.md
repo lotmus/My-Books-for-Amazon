@@ -136,10 +136,9 @@ does.
 ::: {custom-style="FigureCaption"}
 ![](figures/fig12_select_vs_wide.png)
 
-**Figure 12.1** — The trade-off in one picture: Select concentrates
-distribution on one platform in exchange for Kindle Unlimited income and
-promotional tools; wide trades that concentration for reach and independence
-from any single platform's rules.
+**Figure 12.1** — Not a one-time choice: run one real 90-day term, then let
+what actually happened to your page-reads make the next decision instead of
+a genre-wide generalization.
 :::
 
 ### Choosing without guessing
