@@ -1479,3 +1479,75 @@ hyperlinks (310 internal + 100 external, up from 96 - the 4 new per-demo links),
 unchanged at 3172, zero straight quotes/apostrophes remaining anywhere in the file, zero anchored
 (floating) images remaining (21/21 now inline), zero stray leading whitespace in the Table of
 Contents.
+
+## Full audit: completeness, repetition, typos, formatting, novel content, appendix didactics/physics
+
+Requested as six separate axes: completeness, repeated whole sentences, typos, formatting (novel);
+fun-to-read/consistency/sharp-not-padded/character development (novel); didactics/readability/physics
+correctness (appendix).
+
+**Completeness - stale ToC found and fixed.** The renamed lesson headings (Lesson N titles shortened
+in an earlier pass, "Lecture" -> "Lesson") were never synced back to the ToC's own Appendix listing,
+which still showed the old zero-padded numbering and pre-shortening titles ("Lesson 09: Uncertainty
+Principle" vs. the heading's "Lesson 9: Uncertainty: Position and Momentum", "Lesson 14a/14b" vs.
+"Lesson 14 (1/2)/(2/2)", etc. - 12 mismatches total, all navigating correctly via bookmark but
+displaying stale text). Per user direction, resolved each by keeping whichever of the two (ToC vs.
+heading) was shorter, then synced both sides to match; see the "Sync stale ToC lesson listing" and
+git history for the itemized before/after list.
+
+**A genuine broken link, found by the same pass.** Chapter 12's ToC entry displayed "Standing in the
+Wave" (the current title) via a plain run sitting *before* its `<w:hyperlink>`, while the hyperlink
+itself wrapped three emptied-out runs - a leftover from the "Duc de Broccoli" rename that moved the
+visible text but left the old hyperlink structure behind. Looked fine in Word; not clickable on
+Kindle. Fixed by moving the text into the hyperlink's own run.
+
+**Repetition - one real structural issue, one false alarm.** All 13 "Going deeper" YouTube citations
+that repeat verbatim (Glossary + the relevant lesson, sometimes Further Reading too) are intentional
+- the same source cited consistently, not padding. The real find: all 19 lessons end with a "Stop /
+Say it to Mrs Chain / [closing encouragement]" quiz block, and the closing line was drawn from a pool
+of only 8 phrasings cycled round-robin, so the exact same sentence recurred every 2-3 lessons. Kept
+each of the 8 originals once, wrote 11 new ones for the repeats - all 19 now verbatim-unique. The
+novel itself had zero exact-duplicate long sentences anywhere (checked programmatically across the
+whole book, sentences >=60 characters).
+
+**Typos - mostly false positives, four real fixes.** A naive spellcheck pass flagged ~660 "unknown"
+words; nearly all were correct British spellings, hyphenated compounds, possessives with curly
+apostrophes, proper nouns, and physics jargon the checker's dictionary doesn't know. Four genuine
+issues survived manual review: `p_th` (error-correction threshold, Lesson 15's "going deeper") had
+lost its subscript formatting on "th" in all 3 occurrences, unlike every other formula variable in
+the book - fixed. "Wigner's-friend pressure" was the only one of 12 instances hyphenated instead of
+written as a plain possessive phrase - normalized. One Glossary entry (Holographic Duality) had
+asymmetric dash spacing vs. the Glossary's standard "  --  " - fixed. The "Table of  Contents" heading
+had a stray double space - fixed.
+
+**Formatting - clean otherwise.** Zero straight quotes/apostrophes anywhere (confirmed still holds
+after the Kindle-readiness pass). 82 double-spaces found; all but the 2 above are either a
+consistent, repeated stylistic choice (double space after "Going deeper (skip freely)." before the
+content starts, used identically in all 13 instances) or harmless trailing whitespace - left alone as
+established convention rather than "fixed" into inconsistency with itself.
+
+**Novel content - sampled opening (Prologue/Ch1), midpoint (Ch9, "The Two Columns"), and
+climax/ending (Ch16-18, Epilogue) against the specific ask: fun to read, consistent, sharp rather
+than padded, character development.** All three samples were strong: no filler paragraphs found in
+any of them - every line does double duty (comedy, plot, or physics setup); Miss Pike gets a complete
+small arc (cheerful compliance -> genuine moral reckoning) inside a single chapter (Ch9); the
+Lolly/Mrs Chain relationship pays off with real weight at the "78%/very good obituary" beat (Ch17)
+and Schrottfinger's closing monologue (Ch18) lands the book's central thesis without restating it.
+Cross-checked the recurring numbers that get referenced across multiple chapters (411 pending states,
+308 recovered, 103 unrecovered, 78% for Margaret Chain specifically) - all consistent everywhere,
+and 308 + 103 = 411 checks out arithmetically too.
+
+**Appendix - sampled Lesson 1 (Superposition, foundational), Lesson 13 (Bell's Theorem, a topic
+riddled with common misconceptions), and Lesson 14a (String Theory, the book's most speculative
+topic) against didactics, readability, and physics correctness.** The "Start here / step-by-step /
+in one breath / what this chapter was showing you / where the popular version goes wrong / going
+deeper / what sticks" structure is consistently well-executed. Physics checked correct in every
+sample: Born rule, Stern-Gerlach (1922), CHSH bound |S|<=2 and the quantum prediction of up to 2root2
+all correctly stated; Bell's theorem correctly noted as ruling out *local* hidden variables only -
+explicitly and correctly flagging that pilot-wave theory (nonlocal) survives it, a distinction most
+pop-science treatments get wrong; string/M-theory consistently and honestly framed as "an unconfirmed
+framework, not an established fact" throughout, matching the book's established epistemic-hygiene
+convention for speculative physics.
+
+Verification after all fixes in this pass: XML valid throughout, 287/287 bookmarks balanced,
+paragraph count unchanged at 3172.
