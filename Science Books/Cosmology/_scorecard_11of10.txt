@@ -1,0 +1,99 @@
+Look First (Cosmology) — scorecard after SP-method craft pass
+Series: The Universe Has No Now | A Permit Is Not a City | The Body Keeps Its Own Clock
+Date basis: 16 Sep 2026 — method borrowed from Schrödinger's Paperwork
+         (per-part ranks, popular-wrong, Rule↔ending, peak protection, NO clone padding)
+
+================================================================================
+METHOD (what raised SP; what we apply here)
+================================================================================
++ Score every part separately; elevate the softest 20% first
++ Picture / kitchen beat before jargon
++ “Where the popular version goes wrong” on load-bearing ideas
++ One Rule (or Rule-line) that echoes the chapter’s last beat
++ Hot / warm / cold temperatures kept honest
++ Majors-only names; Mara/Rohan as the only kitchen cast
++ Kindle Create lock once TOC/breaks/RGB figs are clean
+− Never pad with repeated paragraphs or “Need was N” filler
+− Never summarize a climax before the reader inhabits it
+− Never bury a peak under roll-call
+
+================================================================================
+BOOK 3 — The Body Keeps Its Own Clock (active elevation)
+================================================================================
+Front / How to Read .......... 9/10   temperatures taught; keep as frame
+Ch 01 Many clocks ............ 8.5
+Ch 02 Lifespan ≠ healthspan .. 8.5
+Ch 03 Aging clocks ........... 8.5
+Ch 04 Local fixes ............ 8.5
+Ch 05 House of doors ......... 8.0
+Ch 06 Ten percent myth ....... 9.0
+Ch 07 Toolbox ................ 8.5
+Ch 08 Carrot loop ............ 8.5
+Ch 09 Last fifty years ....... 8.5
+Ch 10 S-curves ............... 8.0   ← popular-wrong added
+Ch 11 Ten thousand years ..... 8.5
+Ch 12 Meetings / wars ........ 8.5
+Ch 13 Medicine’s invoices .... 9.0   ← clinic beat + popular-wrong + Rule
+Ch 14 Adjusting ≠ spare ...... 9.0   ← pump overtime + popular-wrong + Rule
+Ch 15 Copies / uploads ....... 9.0   ← log≠person + upload sort + Rule
+Ch 16 Honest body ............ 9.5   ← peak protected; inventory once; seal
+Appendix ..................... 8.0
+
+Book 3 floor after dedupe+craft: ~8.5 → aim 11/10 by spreading popular-wrong+Rule
+to Ch1–12 and a heuristics pass (long paras, motif stacks).
+
+What moved the needle this pass
++ Deleted expand-script clones (coat/bench/inventory repeats, “Need was N”)
++ Popular-wrong + Rule on Ch13–16 matching endings
++ Dramatized clinic / pump / pH-log beats (Mara/Rohan only)
++ Status: craft over padding
+
+================================================================================
+BOOK 2 — A Permit Is Not a City (next elevation target)
+================================================================================
+Machine floor: teaching length mostly met; thin leftovers noted in Status
+(~Ch10/12–15 under 1,500 at last stamp). Elevate like SP, not with filler:
+  1. Popular-wrong on “ISS proves downtown,” “permit = city,” Gantt-as-destiny
+  2. Rule closes that echo each chapter’s last beat
+  3. Protect Earth-recovery / umbilical peak scenes from roll-call
+  4. Heuristics: long paras, costume/temperature motif overstack
+
+Provisional average: ~8/10 pending craft pass (KC formatting already strong).
+
+================================================================================
+BOOK 1 — The Universe Has No Now (highest current floor)
+================================================================================
+~112k; temperatures + kitchen pedagogy already SP-adjacent.
+Softest risk: Appendix twin dryness; Ch30 length vs peak; obscure-name leftovers.
+Provisional average: ~9/10 — polish, don’t reopen structure.
+Needle movers if aiming 11: majors-only Further Reading, caption thesis pass,
+heuristics on megaparagraphs, Kindle Create human preview only.
+
+================================================================================
+SERIES PUNCH LIST (max 15, by score lift)
+================================================================================
+ 1. [B3 done-ish] Strip all clone padding; never re-run expand_go-style fillers
+ 2. [B3] Spread popular-wrong + Rule to Ch1–12 (match endings)
+ 3. [B3] Heuristics scan: para ≥90w, helium/Tuesday/receipt motif stacks
+ 4. [B2] Elevate thin Ch10/12–15 with craft scenes, not word-count paste
+ 5. [B2] Popular-wrong: ISS≠downtown; permit≠city; Gantt≠destiny
+ 6. [B1] Caption = one thesis sentence; grayscale-safe distinction
+ 7. [B1] Appendix name-trim / majors-only if roll-call crept in
+ 8. [All] Per-part scorecard file kept live (this document)
+ 9. [All] Kindle Create human preview (TOC, breaks, grayscale)
+10. [All] Protect emotional peaks; no cast roll-call on the button
+11. [B3 Ch16] Keep inventory once; do not re-cash in clones
+12. [B2/B3] ≥1500 only via teaching; allow late thin if dramatized (SP Ch16 lesson)
+13. [All] Hot-chair test: say it so a smart reader doesn’t check her phone
+14. [All] No fake NASA / no body credits; credits in KDP_Description only
+15. [All] Do not rebuild scaffolding when body dryness is the real gap
+
+================================================================================
+KINDLE LOCK
+================================================================================
+B1/B2/B3 builders: 6×9, RGB figs, H1/H2 page breaks, linked TOC, no body credits.
+Human: import → Accept titles → theme → preview → .kpf
+
+Outside the scorecard (not prose)
+- Cover art / KDP store assets as needed
+- Author preview in Kindle Create

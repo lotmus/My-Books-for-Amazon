@@ -16,11 +16,10 @@ node_modules/
 
 # Over GitHub's 100 MB per-file limit
 /Science Books/The Quantum World/backup/The_Quantum_World__FINAL.rtf
-/Math for HS and College/The Mathematics Tower/
 
 # leftovers of the damaged first .git (never commit these)
 /.git_corrupt/
 /.git_corrupt_loose_backup/
 
 # Local-only draft snapshots, kept on disk but not tracked
-/Lolly Wren's Curious Science Adventures - SERIES/English/drafts/*_BEFORE_*.docx
+/Lolly Wren's Curious Science Adventures - SERIES/Book 1 - Schrodingers Paperwork/English/drafts/*_BEFORE_*.docx

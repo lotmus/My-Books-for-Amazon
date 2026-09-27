@@ -1,0 +1,391 @@
+================================================================================
+COMPLETE KDP LAUNCH CHECKLIST
+"The Murder That Hadn't Happened Yet"
+Book 1: The Relativistic Investigation Bureau Series
+================================================================================
+
+[Imported 2026-09-24 from an earlier REV9-era planning package, updated for
+REV10's word count. The cover-design items below may already be done - cover
+files already exist in the repo root. Still contains [bracketed] placeholders
+that need your actual info.]
+
+STATUS: Pre-Launch Preparation
+DEADLINE: [Your target launch date]
+AUTHOR: [Your Name]
+
+================================================================================
+PRE-LAUNCH (2-4 WEEKS BEFORE)
+================================================================================
+
+MANUSCRIPT PREPARATION:
+☐ Final manuscript polished and proofread (60,025 words - DONE)
+☐ Front matter assembled (title page, copyright, TOC)
+☐ Back matter assembled (author bio, series info, newsletter signup)
+☐ Manuscript formatted for Kindle (.docx or .mobi)
+☐ No page breaks, headers/footers removed
+☐ Table of contents auto-linked in formatting
+
+COVER DESIGN:
+☐ Cover brief reviewed (see COVER_BRIEFING.txt)
+☐ Professional designer commissioned OR template design selected
+☐ Cover delivered and approved (minimum 1000x1500 pixels)
+☐ Cover tested at thumbnail size (looks good small?)
+☐ Cover works in grayscale? (Check for e-ink compatibility)
+☐ Final cover file ready (.jpg or .png)
+
+METADATA PREPARATION:
+☐ Keywords finalized (7 keywords provided in KDP_METADATA.txt)
+☐ Book description/blurb approved (270-word blurb provided)
+☐ Categories selected: Hard Science Fiction + Mystery
+☐ Price determined: $3.99 USD
+☐ Publication date selected (recommend Tuesday)
+☐ Author bio written and proofread
+☐ Author photograph obtained (for author bio)
+
+================================================================================
+1-2 WEEKS BEFORE LAUNCH
+================================================================================
+
+AMAZON KDP ACCOUNT SETUP:
+☐ KDP account created (kdp.amazon.com)
+☐ Tax information submitted (required for payment)
+☐ Bank account linked for royalty payments
+☐ Pen name vs. real name decision made
+☐ Author profile complete (bio, photo)
+
+REVIEW PREPARATION (OPTIONAL):
+☐ Advance Review Copies (ARCs) requested if using beta readers
+☐ Goodreads account created/verified
+☐ Goodreads listing created for upcoming book
+☐ Review team contacted (2-3 weeks before launch)
+
+MARKETING PREPARATION:
+☐ Mailing list created (if you have newsletter)
+☐ Newsletter signup text prepared
+☐ Pre-order notification prepared (if launch partners)
+☐ Social media accounts updated with book info
+☐ Author website/blog updated with book announcement
+☐ Marketing angles prepared (see KDP_METADATA.txt)
+
+KDP LISTING INFORMATION COMPILED:
+☐ Final title confirmed: "The Murder That Hadn't Happened Yet"
+☐ Subtitle noted: "A Relativistic Investigation Bureau Mystery"
+☐ Series name confirmed: "The Relativistic Investigation Bureau"
+☐ Book number: 1
+☐ All keywords ready to copy-paste
+☐ Blurb formatted and ready
+☐ Categories selected
+☐ Price: $3.99
+
+================================================================================
+LAUNCH DAY PREPARATION (24 HOURS BEFORE)
+================================================================================
+
+FINAL MANUSCRIPT CHECK:
+☐ Manuscript converted to .docx format
+☐ Final proofread complete (no typos in front/back matter)
+☐ Document formatting verified
+☐ Embedded fonts removed (Kindle compatibility)
+☐ Hyperlinks working in TOC
+☐ File size under 50MB
+☐ No DRM protection on personal copy
+
+COVER FINAL CHECK:
+☐ Cover dimensions: 1000x1500 minimum
+☐ Cover file format: JPEG or PNG
+☐ File size: Under 5MB
+☐ Title readable at 1-inch thumbnail size
+☐ No author watermark in image itself
+
+METADATA FINAL CHECK:
+☐ Title exactly as chosen
+☐ Blurb copied exactly from KDP_METADATA.txt
+☐ Keywords ready to paste
+☐ Author name spelled correctly
+☐ Category selections finalized
+☐ Publication date confirmed
+☐ Price: $3.99 confirmed
+☐ Kindle Unlimited enrollment: YES (90-day window)
+
+================================================================================
+LAUNCH DAY (Upload to KDP)
+================================================================================
+
+AMAZON KDP UPLOAD:
+☐ Log into KDP.amazon.com
+☐ Click "Create a New Title"
+☐ Choose "Kindle eBook"
+
+BASIC BOOK INFORMATION:
+☐ Title: "The Murder That Hadn't Happened Yet"
+☐ Subtitle: "A Relativistic Investigation Bureau Mystery"
+☐ Author: [Your Name]
+☐ Series: "The Relativistic Investigation Bureau"
+☐ Series Number: 1
+☐ Edition number: (leave blank unless applicable)
+☐ Language: English (US)
+☐ Publish to KDP Select: YES (for Kindle Unlimited)
+
+KINDLE EDITION DETAILS:
+☐ Cover image uploaded (1000x1500+ pixels)
+☐ Manuscript uploaded (.docx file)
+☐ Use ISBN: NO (Amazon provides one)
+☐ Publication date: [Your selected date]
+☐ Preview checked (Amazon will show preview of first 10%)
+
+DESCRIPTION & KEYWORDS:
+☐ Book Description: [Paste from KDP_METADATA.txt]
+☐ Keywords: [Paste 7 keywords from KDP_METADATA.txt]
+☐ Categories: Hard Science Fiction + Mystery & Crime Fiction
+☐ Content rating: General Audiences
+
+PRICING:
+☐ List Price: $3.99 USD
+☐ Enroll in Kindle Unlimited: YES
+☐ Enroll in Kindle Countdown: NO (use later for promotions)
+☐ Pre-order: NO (release immediately)
+
+AUTHOR PAGE:
+☐ Author bio linked or updated
+☐ Author photo updated
+☐ Author website link added: [Your website]
+☐ Series page created/linked
+
+REVIEW SETTINGS:
+☐ Allow customer reviews: YES
+☐ Opt-in to Book Report: YES (see sales data)
+
+SAVE & SUBMIT:
+☐ All sections reviewed and complete
+☐ Accept Kindle Direct Publishing Agreement
+☐ Submit for publishing
+
+STATUS MONITORING:
+☐ Keep refresh Amazon KDP dashboard
+☐ Note expected publication time (usually 12-24 hours)
+☐ Once live, verify on Amazon.com store page
+
+================================================================================
+POST-LAUNCH (FIRST 24-48 HOURS)
+================================================================================
+
+IMMEDIATE ACTIONS:
+☐ Verify book is live on Amazon.com
+☐ Check book page for accuracy
+  - Title correct?
+  - Cover displays properly?
+  - Description shows correctly?
+  - Author name spelled right?
+  - Series listed correctly?
+☐ Download sample from Amazon to verify formatting
+☐ Test "Look Inside" feature
+☐ Confirm price shows $3.99
+☐ Verify Kindle Unlimited enrollment appears
+
+NOTIFICATION:
+☐ Notify newsletter/mailing list of launch
+☐ Post on social media
+☐ Email review team/beta readers
+☐ Notify friends/family with book link
+☐ Add book link to author website
+
+AMAZON OPTIMIZATION:
+☐ Goodreads listing linked to Amazon book page
+☐ Series page created on Goodreads if not already
+☐ Follow book on Goodreads to track ratings
+☐ Monitor first reviews carefully
+
+================================================================================
+FIRST WEEK POST-LAUNCH
+================================================================================
+
+DAILY MONITORING:
+☐ Check KDP dashboard for sales/page reads
+☐ Monitor reviews (address any with corrections needed)
+☐ Check Amazon search visibility for keywords
+☐ Track ranking in Hard SF and Mystery categories
+
+MARKETING PUSH:
+☐ Post in relevant Reddit communities (r/scifibooks, r/mystery)
+☐ Mention in writing forums
+☐ Contact book bloggers for reviews
+☐ Reach out to genre newsletters
+☐ Tweet/post about launch
+
+FIRST CUSTOMER FEEDBACK:
+☐ Read all reviews for the first week
+☐ Note any typos or formatting issues mentioned
+☐ If major issues, plan corrected edition upload
+☐ Thank reviewers publicly when appropriate
+
+KEYWORD PERFORMANCE:
+☐ Check which keywords are driving traffic
+☐ Monitor sales by search term if visible
+☐ Note if any keywords underperform
+
+================================================================================
+FIRST MONTH POST-LAUNCH
+================================================================================
+
+SALES TRACKING:
+☐ Monitor KDP Select page read statistics
+☐ Track conversion between page reads and purchases
+☐ Note if KU readers are finishing the book
+  (High finish rate = strong sequel demand)
+
+REVIEW ACCUMULATION:
+☐ Encourage readers to leave reviews
+  (Reviews are crucial for visibility)
+☐ Aim for 10+ reviews in first month
+
+KEYWORD REFINEMENT:
+☐ If certain keywords perform better, note for Book 2
+☐ If keywords underperform, note alternative approaches
+
+BOOK 2 PREPARATION:
+☐ Begin writing/editing Book 2
+☐ Use Book 1 reader feedback to inform Book 2 tone/pacing
+☐ Plan launch timing (ideally 6-12 months after Book 1)
+
+NEWSLETTER GROWTH:
+☐ Promote newsletter signup in book and on website
+☐ Grow mailing list for Book 2 launch
+
+================================================================================
+FIRST 90 DAYS (KDP SELECT WINDOW)
+================================================================================
+
+KINDLE UNLIMITED PERFORMANCE:
+☐ Track page read volume
+☐ Monitor trend (growing? plateauing? declining?)
+☐ Note which readers finish the book (via page reads)
+☐ Assess if KU is driving good-quality readers or page-count readers
+
+PROMOTIONAL WINDOWS:
+☐ Plan Kindle Countdown Deal for days 30-45 (one free day)
+  - Offers free day to boost visibility and reviews
+  - Usually drives significant Amazon algorithm boost
+  - Drives readers to Book 2 notification
+☐ Consider running ads on Amazon (Amazon Advertising)
+  - Budget: $5-$20/day for first month
+  - Monitor ACOS (Ad Cost of Sales)
+  - Cancel if ACOS > 50%
+
+SERIES MOMENTUM:
+☐ Prepare Book 2 announcement
+☐ Start pre-launch buzz for Book 2
+☐ Notify existing readers of coming release
+
+DECIDE KU STRATEGY:
+☐ At 85-day mark, decide whether to:
+  - Renew KU Select for another 90 days
+  - OR exit KU and go wide (other retailers)
+  - Consider: Are KU readers driving good revenue?
+  - Consider: Do I want exclusivity vs. wider reach?
+
+================================================================================
+DECISION POINTS (End of KU Window)
+================================================================================
+
+IF SALES ARE STRONG:
+☐ Renew KU Select for next 90 days
+☐ Continue same strategy
+☐ Prepare Book 2 launch during Book 1's momentum
+☐ Consider running ads to boost visibility further
+
+IF SALES ARE MODERATE:
+☐ Consider going wide (upload to Draft2Digital, others)
+☐ Expand market reach beyond Amazon KU readers
+☐ Run promotions to boost visibility
+☐ Plan Book 2 for sequel momentum boost
+
+IF SALES ARE SLOW:
+☐ Evaluate: Is it the cover? Description? Positioning?
+☐ Consider cover redesign if needed
+☐ Refresh book description with successful reader testimonials
+☐ Run promotional pricing ($0.99 for limited time)
+☐ Increase marketing effort for Book 2
+
+================================================================================
+ONGOING MONITORING
+================================================================================
+
+QUARTERLY CHECKS:
+☐ Monitor sales trends
+☐ Review new reader feedback
+☐ Check if rankings improving or declining
+☐ Assess series momentum
+
+AUTHOR BRAND:
+☐ Update author bio as awards/reviews accumulate
+☐ Add testimonial quotes to book description as 5-star reviews come in
+☐ Build author platform for future books
+
+SERIES MOMENTUM:
+☐ Plan Book 2 launch to ride Book 1's success
+☐ Inform Book 1 readers of Book 2 publication
+☐ Consider bundling Book 1+2 once Book 2 launches
+
+================================================================================
+SUCCESS METRICS
+================================================================================
+
+REALISTIC FIRST-MONTH TARGETS:
+☐ 50-100 copies sold (launch week organic + early buzz)
+☐ 5-10 customer reviews (aim for 4.5+ average rating)
+☐ 10-20K page reads (if in KU - depends on book length)
+
+REALISTIC FIRST-QUARTER TARGETS:
+☐ 200-400 total copies sold
+☐ 20-30 reviews (4+ average rating)
+☐ Strong reader finish rate (80%+ readers finishing Book 1)
+☐ Growing mailing list for Book 2
+
+REALISTIC FIRST-YEAR TARGETS:
+☐ 500-1000+ copies sold
+☐ 50+ reviews (maintaining 4+ average rating)
+☐ Book 2 launches during year-end or next year
+☐ Growing reader community aware of sequel
+
+ULTIMATE SUCCESS METRIC:
+☐ Readers finish Book 1 excited for Book 2
+☐ Series becomes author's primary revenue stream
+☐ Each book builds on previous book's sales
+
+================================================================================
+IMPORTANT REMINDERS
+================================================================================
+
+- Your cover is your sales engine. Invest in quality.
+- First customer review is crucial for visibility.
+- 80%+ finish rate on Book 1 = strong Book 2 sales potential.
+- KDP dashboard data is your friend. Check it regularly.
+- Be patient. First month is about building foundation.
+- Series success depends on Book 1 quality + Book 2 momentum.
+- Respond professionally to all reviews (even negative ones).
+- Never discount too much; it trains readers to wait for sales.
+
+================================================================================
+CONTACT & SUPPORT
+================================================================================
+
+KDP Help: kdp.amazon.com/help
+KDP Community: kdp.amazon.com/community
+Amazon Author Central: authorcentral.amazon.com
+
+For technical issues: Contact KDP support
+For marketing questions: Research indie author communities
+
+================================================================================
+LAUNCH NOTES
+================================================================================
+
+[Space for personal notes, deadlines, and launch-specific details]
+
+Scheduled launch date: ________________
+Cover designer deadline: ________________
+Newsletter announcement date: ________________
+Marketing plan start: ________________
+Post-launch review date: ________________
+
+================================================================================
