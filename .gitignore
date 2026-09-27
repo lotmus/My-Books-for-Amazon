@@ -21,3 +21,6 @@ node_modules/
 # leftovers of the damaged first .git (never commit these)
 /.git_corrupt/
 /.git_corrupt_loose_backup/
+
+# Local-only draft snapshots, kept on disk but not tracked
+/Lolly Wren's Curious Science Adventures - SERIES/English/drafts/*_BEFORE_*.docx
