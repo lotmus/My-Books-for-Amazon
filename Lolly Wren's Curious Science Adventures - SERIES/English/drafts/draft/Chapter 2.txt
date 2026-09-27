@@ -1,0 +1,1715 @@
+# Chapter 2
+
+THE LORENTZ TRANSFORMATION
+
+By Wednesday morning, Derek Gent had decided that there were two kinds of impossible.
+
+The first kind was the ordinary sort.
+
+A man could not be in two places at once.
+
+A photograph could not normally exist before it was taken.
+
+A clock could not run backwards without either being broken or being subjected to a level of engineering that Derek considered unnecessarily ambitious.
+
+The second kind was considerably worse.
+
+The second kind was something that was perfectly consistent with the laws of physics but completely inconsistent with common sense.
+
+Derek had spent most of his professional life dealing with the second kind.
+
+He found it much more expensive.
+
+At 8:36 on Wednesday morning, he was standing in front of the whiteboard in the Bureau while Trevor sat at the desk and Penny leaned against the window.
+
+The brass railway clock sat between them.
+
+It had arrived sometime during the night.
+
+Nobody had seen it arrive.
+
+Nobody knew where it had come from.
+
+And it was still showing 11:03:17.
+
+Derek had written three words on the board.
+
+EVENT
+
+FRAME
+
+TIME
+
+He underlined the first.
+
+"The first thing we need to establish," he said, "is what actually happened."
+
+Trevor looked at the photograph.
+
+"You mean the murder?"
+
+"I mean the event."
+
+"Isn't that the same thing?"
+
+"No."
+
+Trevor considered this.
+
+"Not necessarily."
+
+"Exactly."
+
+Penny looked at the clock.
+
+"We have a photograph of you lying dead."
+
+"Yes."
+
+"We have a timestamp."
+
+"Apparently."
+
+"We have a second timestamp in the Bureau."
+
+"Yes."
+
+"And the two don't agree."
+
+"Not yet."
+
+Trevor frowned.
+
+"Not yet?"
+
+Derek turned.
+
+"That's an important distinction."
+
+"Why?"
+
+"Because we don't know whether they are supposed to agree."
+
+Trevor looked at the clock.
+
+"They're both clocks."
+
+"Yes."
+
+"So they measure time."
+
+"Yes."
+
+"And time is time."
+
+Penny smiled.
+
+Derek looked at Trevor.
+
+Trevor immediately raised both hands.
+
+"I know."
+
+"You've just contradicted Special Relativity."
+
+"I know."
+
+"Good."
+
+Trevor nodded.
+
+"I was testing you."
+
+"You were not."
+
+"No."
+
+Derek returned to the board.
+
+"Let's start from the beginning."
+
+He drew two points.
+
+"Two events."
+
+He labelled one A and the other B.
+
+"These happen somewhere in spacetime. We can describe each event by four coordinates."
+
+He wrote:
+
+x, y, z, t
+
+Trevor nodded.
+
+"Position and time."
+
+"Exactly."
+
+"And different observers can assign different coordinates."
+
+"Yes."
+
+"Because they're moving relative to one another."
+
+"Yes."
+
+Penny looked at the photograph.
+
+"So the question isn't simply when Derek died."
+
+"No."
+
+"It's when Derek died according to which observer."
+
+"Exactly."
+
+Trevor looked at Derek.
+
+"But the death itself either happened or it didn't."
+
+"Of course."
+
+"That part doesn't depend on the observer."
+
+"Correct."
+
+Trevor nodded.
+
+"Good."
+
+Derek smiled.
+
+"You've just rescued metaphysics from physics."
+
+"I do my best."
+
+Penny picked up the photograph.
+
+"And the photograph?"
+
+"That's more complicated."
+
+"Because light has to travel from the event to the camera."
+
+"Yes."
+
+"So the photograph doesn't show the event itself."
+
+"It shows light arriving from the event."
+
+"Which means the image contains information about an earlier event."
+
+"Exactly."
+
+Trevor looked thoughtful.
+
+"So when we say the photograph was taken at 11:03, we're already making an assumption about the relationship between the clock and the event."
+
+Derek looked at him.
+
+"Yes."
+
+Trevor smiled.
+
+"That one was easy."
+
+"Don't get used to it."
+
+Penny laughed.
+
+Derek walked to the desk and picked up the brass clock.
+
+He turned it over.
+
+There was a small metal plate on the back.
+
+No manufacturer's name.
+
+No serial number.
+
+Just three letters.
+
+LGV.
+
+Trevor looked at it.
+
+"Any idea what that means?"
+
+Derek shook his head.
+
+"Not yet."
+
+Penny took the clock.
+
+"May I?"
+
+Derek handed it to her.
+
+She examined it carefully.
+
+"This isn't a normal railway clock."
+
+"I know."
+
+"The mechanism is unusually precise."
+
+"How precise?"
+
+"More precise than it has any right to be."
+
+Trevor looked interested.
+
+"How do you know?"
+
+Penny smiled.
+
+"Because I opened it."
+
+Derek looked at the clock.
+
+"When?"
+
+"Last night."
+
+"You opened it?"
+
+"Yes."
+
+"Without telling me?"
+
+"You were asleep."
+
+"I was working."
+
+"You were asleep at your desk."
+
+"That was a temporary research posture."
+
+Penny ignored him.
+
+"There are no batteries."
+
+Derek nodded.
+
+"Mechanical?"
+
+"Not exactly."
+
+She handed the clock back.
+
+"It has a power source."
+
+"What sort?"
+
+"I don't know."
+
+Trevor took it.
+
+He examined the back.
+
+"That's odd."
+
+"What?"
+
+"There isn't enough room."
+
+"For what?"
+
+"For a power source."
+
+Derek took the clock from him.
+
+Trevor was right.
+
+The casing was too thin.
+
+There was nowhere to put anything substantial.
+
+Derek turned it over again.
+
+The second hand moved.
+
+Tick.
+
+Tick.
+
+Tick.
+
+Seventeen seconds.
+
+Tick.
+
+Tick.
+
+Trevor watched.
+
+"Why seventeen?"
+
+Derek looked at him.
+
+"I don't know."
+
+Penny looked at the photograph.
+
+"It's on the photograph too."
+
+"Yes."
+
+"And the Bureau clock."
+
+"Yes."
+
+"And yesterday's footage."
+
+Derek nodded.
+
+"Yes."
+
+Trevor thought.
+
+"So seventeen is part of the message."
+
+"Probably."
+
+"Could it be a date?"
+
+Derek shook his head.
+
+"No."
+
+"Reference to a page?"
+
+"Possibly."
+
+"An equation?"
+
+"Possibly."
+
+Penny said, "Or a velocity."
+
+Derek looked at her.
+
+"Explain."
+
+"Seventeen kilometres per second. Seventeen percent of something. Seventeen metres per second. There's no shortage of seventeen in physics."
+
+"True."
+
+Trevor looked at the clock again.
+
+"Could be 17 seconds of proper time."
+
+Derek stopped.
+
+Penny looked at him.
+
+Trevor realized he had said something interesting.
+
+"That would make the difference meaningful."
+
+"Yes."
+
+Derek took the photograph.
+
+"If seventeen seconds is a proper-time interval..."
+
+"Then we'd need to know which worldline we're talking about," Penny said.
+
+Trevor nodded.
+
+"And the gravitational potential."
+
+"Exactly."
+
+Derek looked at both of them.
+
+"Which means we're already getting ahead of ourselves."
+
+Penny smiled.
+
+"That's what we do."
+
+Derek put the photograph down.
+
+"Not yet."
+
+He turned to the whiteboard.
+
+"We need the simplest possible explanation first."
+
+Trevor nodded.
+
+"Special Relativity."
+
+"Yes."
+
+Derek wrote:
+
+x' = γ(x − vt)
+
+t' = γ(t − vx/c²)
+
+Trevor looked at the equations.
+
+"The Lorentz transformation."
+
+"Yes."
+
+Penny nodded.
+
+"Weinstein."
+
+"Yes."
+
+Trevor looked at Derek.
+
+"Do you ever find it strange saying that?"
+
+"Why?"
+
+"That you're using Weinstein's equations to investigate a case involving Weinstein's own theory."
+
+Derek thought about it.
+
+"Not particularly."
+
+"Why not?"
+
+"Because if you want to investigate a crime involving gravity, you use General Relativity."
+
+"Fair."
+
+"If you want to investigate a crime involving relative motion and time, you use Special Relativity."
+
+"And if it involves both?"
+
+"Then you start charging by the hour."
+
+Penny laughed.
+
+Derek pointed to the first equation.
+
+"This is the spatial transformation."
+
+Then the second.
+
+"This is the temporal transformation."
+
+Trevor nodded.
+
+"And the important bit is that t' depends on x."
+
+"Yes."
+
+"Meaning that time in one frame depends partly on where the event occurs in the other frame."
+
+"Correct."
+
+Trevor looked at the photograph.
+
+"So two events that are simultaneous in one frame need not be simultaneous in another."
+
+"Exactly."
+
+Penny said, "Which is relativity of simultaneity."
+
+"Yes."
+
+Derek looked at the photograph again.
+
+"And that is the first thing I want to test."
+
+He opened the Bureau's analysis software.
+
+"Suppose the photograph's timestamp is genuine."
+
+Trevor leaned forward.
+
+"All right."
+
+"Suppose the photograph corresponds to an actual event tomorrow at 11:03:17."
+
+"Okay."
+
+"And suppose the camera and the Bureau are moving relative to one another."
+
+Penny nodded.
+
+"Then the time coordinate assigned to that event could be different in the two frames."
+
+"Yes."
+
+Trevor said, "But unless they're moving at a substantial fraction of the speed of light, the difference should be tiny."
+
+Derek smiled.
+
+"Exactly."
+
+"How tiny?"
+
+"Very."
+
+"How tiny?"
+
+"Small enough that London Underground timetables are generally a greater source of temporal uncertainty."
+
+Penny smiled.
+
+"So ordinary motion can't explain a difference of nearly two hours."
+
+"No."
+
+Derek entered the relevant numbers.
+
+The computer calculated.
+
+He looked at the result.
+
+Then he entered them again.
+
+Trevor watched.
+
+"What did you get?"
+
+"Nothing."
+
+"Nothing?"
+
+"Exactly."
+
+Derek deleted the calculation.
+
+"That's the problem."
+
+Penny came over.
+
+"What did you expect?"
+
+"A result."
+
+"Meaning?"
+
+"A physically meaningful relative velocity."
+
+"And you didn't get one?"
+
+"I got one."
+
+"Then what's wrong?"
+
+Derek pointed at the number.
+
+"It's greater than c."
+
+Trevor stared.
+
+"How much greater?"
+
+"Enough."
+
+Trevor leaned closer.
+
+"That's not a velocity."
+
+"Correct."
+
+Penny looked at Derek.
+
+"So Special Relativity is telling us the premise is wrong."
+
+"Or the frame is wrong."
+
+"Or the event."
+
+"Or the clocks."
+
+"Or the photograph."
+
+"Yes."
+
+Trevor looked at the equation.
+
+"Could the photograph be showing a different event?"
+
+Derek turned.
+
+"Explain."
+
+"The photograph may be real, but we assume it shows Derek's death."
+
+"Yes."
+
+"What if it shows Derek at a different event that happens to look like his death?"
+
+Derek considered this.
+
+Penny smiled.
+
+"That would be rather unfortunate for Derek."
+
+"Indeed."
+
+Trevor continued.
+
+"Maybe the blood isn't blood."
+
+Derek looked at him.
+
+"Maybe."
+
+"Maybe the body isn't Derek."
+
+"Possible."
+
+"Maybe he's unconscious."
+
+"Possible."
+
+"Maybe the photograph has been staged."
+
+"Possible."
+
+Trevor looked pleased.
+
+"So we don't actually know that the photograph is evidence of murder."
+
+Derek nodded.
+
+"Good."
+
+Trevor sat back.
+
+"Then why did you say you'd been murdered?"
+
+Derek looked at him.
+
+"Because the Bureau told me."
+
+Trevor stared.
+
+"Right."
+
+Penny said, "We're going to need to question the Bureau."
+
+Derek nodded.
+
+"I was afraid of that."
+
+The telephone rang.
+
+All three looked at it.
+
+Derek answered.
+
+"Derek Gent."
+
+A pause.
+
+Then a man's voice.
+
+"Good morning."
+
+Derek knew the voice.
+
+"Hermann."
+
+"Yes."
+
+"Where are you?"
+
+"Munich."
+
+Derek looked at Penny.
+
+"Of course."
+
+Trevor mouthed, "Who?"
+
+Derek waved him quiet.
+
+"What do you want?"
+
+"I understand you have been using the Lorentz transformation."
+
+Derek glanced at the whiteboard.
+
+"Yes."
+
+"And?"
+
+"It doesn't work."
+
+There was silence.
+
+Then Minkowski said:
+
+"It works perfectly."
+
+"Not on this problem."
+
+"Then you're using it incorrectly."
+
+Derek frowned.
+
+"Are you telling me I don't understand Special Relativity?"
+
+"I'm telling you that you are trying to make a flat-spacetime transformation solve a problem that may not be flat."
+
+Derek looked at Penny.
+
+She immediately understood.
+
+Trevor did too.
+
+"Gravity," Derek said.
+
+"Perhaps."
+
+"We don't have evidence of gravity."
+
+"You have clocks."
+
+"We always have clocks."
+
+"Not clocks behaving like yours."
+
+Derek looked at the brass railway clock.
+
+"Where are you?"
+
+"Munich."
+
+"Why?"
+
+"Because Alfred is here."
+
+Derek paused.
+
+"Alfred Weinstein?"
+
+"Yes."
+
+"Doing what?"
+
+"Being bored."
+
+"Where?"
+
+"In a patent attorney's office in Schwabing."
+
+Derek looked at Penny.
+
+Penny raised an eyebrow.
+
+"That's very Weinstein."
+
+Minkowski continued.
+
+"He has been thinking about General Relativity."
+
+"At the moment?"
+
+"Yes."
+
+Derek looked at the clock.
+
+"How convenient."
+
+"It is not convenient."
+
+"Why?"
+
+"Because Alfred has just discovered that the clocks in his office are disagreeing."
+
+Derek's expression changed.
+
+"By how much?"
+
+Minkowski gave him the figure.
+
+Derek went very still.
+
+Penny noticed.
+
+"Same?"
+
+Derek nodded.
+
+"Same."
+
+Trevor stood.
+
+"Same what?"
+
+Derek covered the receiver.
+
+"Time difference."
+
+Trevor frowned.
+
+"Between Munich and London?"
+
+"No."
+
+"Then what?"
+
+Derek looked at the clock.
+
+"The same anomaly."
+
+Penny took the phone.
+
+"Minkowski?"
+
+"Yes."
+
+"How accurate are Weinstein's clocks?"
+
+"Extremely."
+
+"Could they be synchronized?"
+
+"They were."
+
+"Could the difference be gravitational?"
+
+"Not at this magnitude."
+
+Penny looked at Derek.
+
+"What about acceleration?"
+
+Minkowski answered.
+
+"That is precisely the question."
+
+Derek took the phone back.
+
+"Are you saying the clocks in Munich and London are showing the same relativistic anomaly?"
+
+"I'm saying that if you transform the measurements into a common frame, they are related."
+
+Derek thought.
+
+"How?"
+
+"I don't know yet."
+
+"Then why call?"
+
+"Because Alfred wants to speak to you."
+
+Derek sighed.
+
+"Put him on."
+
+There was a click.
+
+Then a different voice.
+
+Older.
+
+Calmer.
+
+Slightly irritated.
+
+"Derek Gent?"
+
+"Yes."
+
+"This is Alfred Weinstein."
+
+"I know."
+
+"Do we know each other?"
+
+"Not personally."
+
+"Hmm."
+
+A pause.
+
+"You're the detective."
+
+"Yes."
+
+"The relativistic detective."
+
+"Yes."
+
+"I've been told you have a clock."
+
+Derek looked at it.
+
+"I do."
+
+"Where did you get it?"
+
+"I don't know."
+
+"That's unhelpful."
+
+"I agree."
+
+"Does it have a brass case?"
+
+"Yes."
+
+"Old railway style?"
+
+"Yes."
+
+"Does it stop at seventeen seconds?"
+
+"Yes."
+
+There was a pause.
+
+"Then you have a problem."
+
+Derek smiled.
+
+"We had already established that."
+
+"No. You have a very specific problem."
+
+"What is it?"
+
+Weinstein took a breath.
+
+"I've seen that clock before."
+
+Derek's expression changed.
+
+"Where?"
+
+"In 2026."
+
+Derek looked at Penny.
+
+Penny looked at him.
+
+Trevor stared.
+
+Derek said:
+
+"We're in 2026."
+
+"I know."
+
+"Then what do you mean?"
+
+"I mean I saw it earlier."
+
+"When?"
+
+Weinstein paused.
+
+"Tomorrow."
+
+Nobody spoke.
+
+Derek slowly sat down.
+
+Penny took the phone.
+
+"Alfred."
+
+"Yes?"
+
+"Are you saying you have already seen the clock?"
+
+"Yes."
+
+"Where?"
+
+"In London."
+
+Penny looked at Derek.
+
+"Here?"
+
+"I believe so."
+
+Derek took the phone back.
+
+"Alfred, are you sure?"
+
+"I am very old, Mr Gent, but I am not senile."
+
+"I didn't mean—"
+
+"I know what you meant."
+
+A pause.
+
+Then Weinstein said:
+
+"The interesting thing is that I remember seeing it."
+
+"That's reassuring."
+
+"No."
+
+"Why not?"
+
+"Because I remember seeing it tomorrow."
+
+Derek closed his eyes.
+
+Trevor whispered:
+
+"That doesn't help."
+
+Derek covered the receiver.
+
+"No."
+
+He uncovered it.
+
+"Alfred, what exactly happened?"
+
+"I was standing in the Bureau."
+
+"When?"
+
+"Tomorrow."
+
+"What were you doing?"
+
+"Looking at the clock."
+
+"Anything else?"
+
+"Yes."
+
+"What?"
+
+"You were dead."
+
+Derek looked at Penny.
+
+Penny took a slow breath.
+
+Trevor looked as though he would quite like to leave the country.
+
+Derek said:
+
+"Did you see who killed me?"
+
+"No."
+
+"Why not?"
+
+"Because you were standing up."
+
+Derek blinked.
+
+"What?"
+
+Weinstein continued.
+
+"You were dead."
+
+"Yes."
+
+"But you were standing."
+
+Derek looked at Penny.
+
+Penny stared back.
+
+Trevor said:
+
+"That's not possible."
+
+Derek covered the phone.
+
+"Thank you, Trevor."
+
+"Sorry."
+
+Derek uncovered it.
+
+"Alfred, are you sure?"
+
+"Quite."
+
+"Could it have been a relativistic effect?"
+
+"Possibly."
+
+"Could the photograph have been from another frame?"
+
+"Possibly."
+
+"Could the event be displaced in time?"
+
+"Possibly."
+
+"Could I have been dead in one frame and alive in another?"
+
+There was a long silence.
+
+Then Weinstein said:
+
+"No."
+
+Derek waited.
+
+"Why not?"
+
+"Because that's nonsense."
+
+Derek nodded.
+
+"Good."
+
+"However..."
+
+Derek closed his eyes.
+
+"Yes?"
+
+"You could be dead according to one description of an event and alive according to another if we're actually talking about different events."
+
+"That's what I thought."
+
+"Which means the photograph may be telling you the truth."
+
+"Even if I'm not dead."
+
+"Yes."
+
+Derek considered that.
+
+"That's rather annoying."
+
+"I agree."
+
+Minkowski's voice came faintly from the background.
+
+"Ask him about the train."
+
+Derek heard him.
+
+"What train?"
+
+Weinstein said:
+
+"Ah."
+
+"What?"
+
+"There is a train."
+
+"What train?"
+
+"The one at the station."
+
+"What station?"
+
+"London Terminus."
+
+Derek froze.
+
+"Platform seven?"
+
+Weinstein was silent.
+
+"Alfred?"
+
+"Yes."
+
+"Platform seven?"
+
+"Yes."
+
+"At 11:17?"
+
+"Yes."
+
+Derek looked at Penny.
+
+Penny's expression had gone completely serious.
+
+Trevor was standing beside the whiteboard.
+
+Derek said:
+
+"We have a photograph."
+
+"I know."
+
+"It says 11:17 departure."
+
+"I know."
+
+"How do you know?"
+
+"Because I was there."
+
+"When?"
+
+"Tomorrow."
+
+Derek sat back.
+
+"All right."
+
+Weinstein said nothing.
+
+Derek asked:
+
+"Who else was there?"
+
+Weinstein hesitated.
+
+"You."
+
+"Alive?"
+
+"Yes."
+
+"Dead?"
+
+"Also yes."
+
+Derek stared at the phone.
+
+Trevor stared at Derek.
+
+Penny looked at the ceiling.
+
+Nobody spoke.
+
+Finally Derek said:
+
+"Alfred."
+
+"Yes?"
+
+"I think we have a problem."
+
+Weinstein sighed.
+
+"I was hoping you'd say that."
+
+The line went dead.
+
+Derek lowered the phone.
+
+Trevor spoke first.
+
+"How can you be alive and dead at the same time?"
+
+Derek looked at him.
+
+"I don't know."
+
+Penny said:
+
+"That's not strictly what Weinstein said."
+
+Trevor looked at her.
+
+"What did he say?"
+
+"He said Derek was alive and dead."
+
+"That's the same thing."
+
+"No."
+
+"How?"
+
+Penny walked to the whiteboard.
+
+She erased the word TIME.
+
+Then wrote:
+
+EVENTS.
+
+"He's seeing two descriptions."
+
+Trevor nodded.
+
+"Two frames?"
+
+"Possibly."
+
+Derek looked at the equations.
+
+"Not if the transformation requires a velocity greater than light."
+
+Trevor thought.
+
+"Then perhaps the events are not connected the way we assume."
+
+"Exactly."
+
+Penny turned.
+
+"So we're back to the beginning."
+
+"No."
+
+Derek picked up the photograph.
+
+"We're further along."
+
+"How?"
+
+"We know the train exists."
+
+"We knew that from the photograph."
+
+"We now know Weinstein saw it."
+
+"And?"
+
+"He saw it tomorrow."
+
+Trevor frowned.
+
+"That doesn't narrow it down."
+
+Derek smiled.
+
+"It does."
+
+"How?"
+
+"Because Alfred Weinstein doesn't make mistakes with relativity."
+
+Trevor nodded.
+
+"True."
+
+"He might misunderstand an unfamiliar physical phenomenon."
+
+"Yes."
+
+"But he won't misunderstand Special Relativity."
+
+"Agreed."
+
+Derek pointed at the clock.
+
+"So if Weinstein says the clock is showing us two different events rather than one event seen from two frames..."
+
+Penny finished:
+
+"Then we should believe him."
+
+Derek nodded.
+
+"Yes."
+
+Trevor looked at the whiteboard.
+
+"And then?"
+
+"Then we find the second event."
+
+"How?"
+
+Derek looked at the brass clock.
+
+"By following the clock."
+
+Penny smiled.
+
+"That sounds simple."
+
+"It won't be."
+
+"Why?"
+
+"Because the clock isn't telling us where to go."
+
+Derek turned it over.
+
+The letters LGV were still stamped into the back.
+
+Trevor looked over his shoulder.
+
+"What does LGV mean?"
+
+Derek stared at the initials.
+
+"I don't know."
+
+Penny said:
+
+"Could be someone's initials."
+
+"Could be."
+
+"A model number."
+
+"Possibly."
+
+"A railway designation."
+
+"Possibly."
+
+Trevor looked at the clock face.
+
+"Could it mean Local Gravitational Vector?"
+
+Derek looked at him.
+
+Penny looked at him.
+
+Trevor shrugged.
+
+"What?"
+
+Derek smiled.
+
+"That's actually rather good."
+
+Trevor looked pleased.
+
+"Thank you."
+
+Derek took out his phone.
+
+He searched the Bureau's records.
+
+Nothing.
+
+He searched railway archives.
+
+Nothing.
+
+He searched scientific databases.
+
+Nothing.
+
+Then the Bureau's computer chimed.
+
+A new case file had appeared.
+
+Derek opened it.
+
+CASE 1047
+
+He stared.
+
+The file was different now.
+
+CLIENT: DEREK GENT
+
+VICTIM: DEREK GENT
+
+PERPETRATOR: TREVOR BOLTZMAN
+
+WITNESS: PENNY GENT
+
+PHYSICIST: ALFRED WEINSTEIN
+
+LOCATION: LONDON TERMINUS
+
+PLATFORM: 7
+
+DEPARTURE: 11:17
+
+REFERENCE FRAME: INERTIAL
+
+Derek stared at the last line.
+
+Trevor leaned over.
+
+"Inertial."
+
+Penny nodded.
+
+"That's important."
+
+"Why?"
+
+"Because the Bureau is telling us which frame to use."
+
+Derek nodded.
+
+"And it has chosen an inertial frame."
+
+Trevor looked at the photograph.
+
+"Which means Special Relativity."
+
+"Exactly."
+
+Penny smiled.
+
+"So perhaps General Relativity isn't involved after all."
+
+Derek looked at her.
+
+"Perhaps."
+
+The computer chimed again.
+
+A final line appeared.
+
+GRAVITY: REQUIRED.
+
+Derek stared.
+
+Penny stared.
+
+Trevor stared.
+
+Then Trevor said:
+
+"That's rather rude."
+
+Derek laughed.
+
+For the first time since receiving the murder notice, he felt genuinely cheerful.
+
+Someone—or something—was giving them instructions.
+
+The instructions were cryptic.
+
+The physics was inconsistent.
+
+The future appeared to have leaked into the present.
+
+And Alfred Weinstein was apparently going to witness Derek's death tomorrow while Derek remained alive today.
+
+In other words, it was exactly the sort of case for which the Bureau existed.
+
+Derek put on his coat.
+
+"Platform seven."
+
+Penny picked up her handbag.
+
+"At eleven seventeen."
+
+Trevor grabbed the photograph.
+
+"Tomorrow."
+
+Derek nodded.
+
+"Tomorrow."
+
+Trevor looked at the brass clock.
+
+"What about this?"
+
+Derek picked it up.
+
+"We're taking it."
+
+Penny looked at him.
+
+"Why?"
+
+"Because it clearly wants to go."
+
+Trevor frowned.
+
+"Clocks don't want things."
+
+Derek opened the door.
+
+"Normally, no."
+
+He looked at the clock.
+
+"This one appears to be an exception."
+
+They stepped into the corridor.
+
+Derek locked the office.
+
+Then stopped.
+
+He looked back through the glass.
+
+For just a moment, he thought he saw somebody sitting at his desk.
+
+A man.
+
+Old.
+
+Grey-haired.
+
+Wearing a dark suit.
+
+Derek blinked.
+
+The chair was empty.
+
+He unlocked the door again.
+
+Trevor looked at him.
+
+"What?"
+
+"Nothing."
+
+Derek went inside.
+
+The desk was empty.
+
+The computer was off.
+
+The brass clock was in his hand.
+
+He looked at the chair again.
+
+Nothing.
+
+Penny appeared in the doorway.
+
+"Coming?"
+
+"Yes."
+
+Derek switched off the light.
+
+As the door closed, the computer screen came on by itself.
+
+One sentence appeared.
+
+THE LORENTZ TRANSFORMATION IS CORRECT.
+
+Then another.
+
+YOUR INTERPRETATION IS NOT.
+
+And beneath it:
+
+NEXT: FIND THE TRAIN.
+
+The screen went dark.
+
+In the corridor, Derek stopped.
+
+Penny looked at him.
+
+"What now?"
+
+Derek smiled.
+
+"Now we catch a train."
+
+Trevor frowned.
+
+"We're not going anywhere."
+
+"Not yet."
+
+Derek looked at the brass clock.
+
+"That's the point."
+
+And somewhere, very far away—or possibly very close—the sound of a train began to move through the walls.

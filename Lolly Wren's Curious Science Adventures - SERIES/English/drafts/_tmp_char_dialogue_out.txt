@@ -1,0 +1,391 @@
+MODE SCORES (heuristic from dialogue paras):
+  Derek: {'explainer': 22, 'comic': 5, 'investigator': 12, 'straight': 11} dialogue=356 expl_paras=133
+  Penny: {'explainer': 18, 'comic': 6, 'investigator': 6, 'straight': 4} dialogue=191 expl_paras=44
+  Trevor: {'explainer': 10, 'comic': 7, 'investigator': 5, 'straight': 9} dialogue=264 expl_paras=63
+  Sherlock: {'explainer': 1, 'comic': 0, 'investigator': 0, 'straight': 0} dialogue=3 expl_paras=4
+
+
+==== Derek DIALOGUE (phil first) count=356 ====
+
+[2] Chapter 1 — The Surprise in the Morning
+QUOTE: The clock reads eleven-oh-three.
+CTX: Derek pointed at the picture. “The clock reads eleven-oh-three.”
+
+[2] Chapter 10 — The Relativistic Ride
+QUOTE: Perhaps the photograph is from the future.
+CTX: Derek put the photograph down. “Perhaps the photograph is from the future.”
+
+[2] Chapter 10 — The Relativistic Ride
+QUOTE: Every passenger is following a worldline.
+CTX: Derek opened his notebook. “Every passenger is following a worldline.”
+
+[2] Chapter 10 — The Relativistic Ride
+QUOTE: The train is not an inertial frame.
+CTX: Derek took out his notebook. “The train is not an inertial frame.”
+
+[2] Chapter 10 — The Relativistic Ride
+QUOTE: That’s not how time zones work.
+CTX: Derek considered this. “That’s not how time zones work.”
+
+[2] Chapter 11 — The Ordinary Cucumber Problem
+QUOTE: The cucumber has found the reference frame.
+CTX: Derek smiled. “The cucumber has found the reference frame.”
+
+[2] Chapter 12 — The Hologram Problem
+QUOTE: So, perhaps spacetime could be like that.
+CTX: Derek pointed at the word SPACETIME. “So, perhaps spacetime could be like that.”
+
+[2] Chapter 14 — The Station That Wasn’t Quite There
+QUOTE: That’s because you haven’t seen enough mathematics.
+CTX: Derek smiled. “That’s because you haven’t seen enough mathematics.”
+
+[2] Chapter 14 — The Station That Wasn’t Quite There
+QUOTE: The local geometry is doing something strange.
+CTX: Derek stood. “The local geometry is doing something strange.”
+
+[2] Chapter 14 — The Station That Wasn’t Quite There
+QUOTE: Now we need to find out whether the geometry itself is changing.
+CTX: Derek glanced at the empty strange station. “Now we need to find out whether the geometry itself is changing.”
+
+[2] Chapter 15 — The Distant Train That Arrived Before It Left
+QUOTE: Depending on your frame.
+CTX: Derek smiled. “Depending on your frame.”
+
+[2] Chapter 15 — The Distant Train That Arrived Before It Left
+QUOTE: Proper time.
+CTX: Derek smiled. “Proper time.”
+
+[2] Chapter 15 — The Distant Train That Arrived Before It Left
+QUOTE: That depends on what you mean by time.
+CTX: Derek watched the train approach. “That depends on what you mean by time.”
+
+[2] Chapter 15 — The Distant Train That Arrived Before It Left
+QUOTE: You’re still trying to describe the whole thing with one clock.
+CTX: The second Derek watched the first. “You’re still trying to describe the whole thing with one clock.”
+
+[2] Chapter 15 — The Distant Train That Arrived Before It Left
+QUOTE: You’ve been asking why the train arrives before it leaves.
+CTX: The second Derek turned to the first. “You’ve been asking why the train arrives before it leaves.”
+
+[2] Chapter 15 — The Distant Train That Arrived Before It Left
+QUOTE: An event is represented as a point in spacetime.
+CTX: Derek drew a spacetime diagram. “An event is represented as a point in spacetime.”
+
+[2] Chapter 16 — Sherlock and the Final Geometry
+QUOTE: future knowledge
+CTX: The computer had not predicted the future. It had received a record through the same anomalous geometry that produced the impossible station and filed it according to the record’s event coordinate instead of Derek’s local proper time. Its “future knowledge” went no further than data that actually arrived through that geometry.
+
+[2] Chapter 3 — The Lorentz Transform
+QUOTE: If seventeen seconds is a proper-time interval…
+CTX: Derek took the photograph. “If seventeen seconds is a proper-time interval…”
+
+---- Derek PHILOSOPHY/EXPLANATORY PARAS ----
+
+Chapter 16 — Sherlock and the Final Geometry
+The computer had not predicted the future. It had received a record through the same anomalous geometry that produced the impossible station and filed it according to the record’s event coordinate instead of Derek’s local proper time. Its “future knowledge” went no further than data that actually arrived through that geometry.
+
+Chapter 6 — The Apple Problem
+Derek explained: “In spacetime, an object’s history can be represented as a line. Not a line through ordinary space, but through spacetime. If the object moves, its position changes with time. The complete history forms its worldline.”
+
+Chapter 7 — The Fourth Coordinate
+Derek allowed himself a brief, private observation: this was becoming a pattern. A city, a clock, a number that refused to add up. He kept the observation to himself, mostly because Trevor would have agreed, and agreement on that particular point was unlikely to help anyone. What was new, this time, was the rate. In Munich the discrepancy had grown by roughly a seventeenth of a second per hour. Here, beneath the Louvre, it was growing by nearly a full second. Whatever was causing this, it was no
+
+Chapter 5 — The Man Who Had Mislaid Time
+Derek glanced at the silent clock on the wall. “Time is what clocks measure.”
+
+Chapter 8 — The Cold Rain
+Derek thought. The clock had measured proper time. The mysterious train had followed its worldline.
+
+Chapter 10 — The Relativistic Ride
+Derek took stock. He had a murder that had not happened, a clock that disagreed with every other clock in London, a suspect who was also the victim, and a growing suspicion that the actual crime scene was spacetime itself. Four facts. No arrests. One reassuringly ordinary cucumber, for scale.
+
+Chapter 16 — Sherlock and the Final Geometry
+Which brings us, unavoidably, to the other Derek, first glimpsed in Chapter 11 and interrogated properly in Chapter 14. Whatever else was happening on that train, only one Derek could be right about how much time had passed since the two of them last shared a worldline. The Bureau has not yet worked out which one. Trevor has helpfully suggested filing the question under Pending Geometry, alongside the wormhole.
+
+Chapter 1 — The Surprise in the Morning
+Derek peered at the screen. A small, silent brass railway clock stood beside the computer, looking entirely ordinary and entirely wrong, which was, in Derek’s experience, the most dangerous combination. He had the sudden, unwelcome sense that the clock had been waiting for him.
+
+Chapter 3 — The Lorentz Transform
+A clear photograph could not normally exist before it was taken. A clock could not run backwards without either being broken or being subjected to a level of engineering that Derek considered unnecessarily ambitious. The second kind was considerably worse.
+
+Chapter 3 — The Lorentz Transform
+Derek took the photograph. “If seventeen seconds is a proper-time interval…”
+
+Chapter 3 — The Lorentz Transform
+Derek pointed at the silent clock. “So if Weinstein reads the clock is showing us two different events rather than one event seen from two frames…”
+
+Chapter 3 — The Lorentz Transform
+Derek stared at the ancient brass clock. “By following the clock.”
+
+Chapter 6 — The Apple Problem
+Derek nodded. “Yes. So, if the Bureau is experiencing an unusual spacetime effect, we should stop staring at the clocks. We should watch what moves around them.”
+
+Chapter 7 — The Fourth Coordinate
+A missing proper time. He walked to the wall. “What if the room itself is the coordinate system?” Derek stared at the doorway. “Then we’ve been barking up the wrong sausage.”
+
+
+==== Penny DIALOGUE (phil first) count=191 ====
+
+[2] Chapter 1 — The Surprise in the Morning
+QUOTE: So the death is the event, but eleven-oh-three is a time coordinate assigned to it.
+CTX: Penny looked at the body in the photograph. “So the death is the event, but eleven-oh-three is a time coordinate assigned to it.”
+
+[2] Chapter 10 — The Relativistic Ride
+QUOTE: The clock could simply be failing.
+CTX: Penny came closer. “The clock could simply be failing.”
+
+[2] Chapter 12 — The Hologram Problem
+QUOTE: So spacetime might not be fundamental.
+CTX: Penny looked at the board. “So spacetime might not be fundamental.”
+
+[2] Chapter 12 — The Hologram Problem
+QUOTE: The laws we observe don’t necessarily have to disappear merely because there’s a deeper description.
+CTX: Penny nodded. “The laws we observe don’t necessarily have to disappear merely because there’s a deeper description.”
+
+[2] Chapter 12 — The Hologram Problem
+QUOTE: Real without being fundamental.
+CTX: Penny nodded. “Real without being fundamental.”
+
+[2] Chapter 12 — The Hologram Problem
+QUOTE: If spacetime is emergent…
+CTX: Penny picked it up. “If spacetime is emergent…”
+
+[2] Chapter 14 — The Station That Wasn’t Quite There
+QUOTE: Like the spacetime interval.
+CTX: Penny nodded. “Like the spacetime interval.”
+
+[2] Chapter 14 — The Station That Wasn’t Quite There
+QUOTE: Can we distinguish that from a coordinate effect?
+CTX: Penny considered him. “Can we distinguish that from a coordinate effect?”
+
+[2] Chapter 15 — The Distant Train That Arrived Before It Left
+QUOTE: And if we want to compare the clocks properly, we have to compare the paths they actually took through spacetime.
+CTX: Penny nodded. “And if we want to compare the clocks properly, we have to compare the paths they actually took through spacetime.”
+
+[2] Chapter 15 — The Distant Train That Arrived Before It Left
+QUOTE: Perhaps 11:17 isn’t a time.
+CTX: Penny surveyed the plate. “Perhaps 11:17 isn’t a time.”
+
+[2] Chapter 15 — The Distant Train That Arrived Before It Left
+QUOTE: Then when the geometry changes, the labels become misleading.
+CTX: Penny nodded. “Then when the geometry changes, the labels become misleading.”
+
+[2] Chapter 16 — Sherlock and the Final Geometry
+QUOTE: So, the metric contains the geometry.
+CTX: Penny nodded. “So, the metric contains the geometry.”
+
+[2] Chapter 3 — The Lorentz Transform
+QUOTE: Then we’d need to know which worldline we’re talking about,
+CTX: “Then we’d need to know which worldline we’re talking about,” Penny asserted.
+
+[2] Chapter 3 — The Lorentz Transform
+QUOTE: Then the time coordinate assigned to that event could be different in the two frames.
+CTX: Penny nodded. “Then the time coordinate assigned to that event could be different in the two frames.”
+
+[2] Chapter 5 — The Man Who Had Mislaid Time
+QUOTE: So, you’re saying that reality consists of configurations, and what we call time is the ordering or relationship between them.
+CTX: Penny gazed at the clocks. “So, you’re saying that reality consists of configurations, and what we call time is the ordering or relationship between them.”
+
+[2] Chapter 5 — The Man Who Had Mislaid Time
+QUOTE: The clock is still running.
+CTX: Penny looked closely. “The clock is still running.”
+
+[2] Chapter 7 — The Fourth Coordinate
+QUOTE: But the clock didn’t move.
+CTX: Penny regarded the clock. “But the clock didn’t move.”
+
+[2] Chapter 7 — The Fourth Coordinate
+QUOTE: Could the clock be the origin?
+CTX: Penny pointed at the silent clock. “Could the clock be the origin?”
+
+---- Penny PHILOSOPHY/EXPLANATORY PARAS ----
+
+Chapter 1 — The Surprise in the Morning
+Penny looked at the body in the photograph. “So the death is the event, but eleven-oh-three is a time coordinate assigned to it.”
+
+Chapter 3 — The Lorentz Transform
+Penny nodded. “Then the time coordinate assigned to that event could be different in the two frames.”
+
+Chapter 7 — The Fourth Coordinate
+Penny regarded the clock. “But the clock didn’t move.”
+
+Chapter 7 — The Fourth Coordinate
+Penny pointed at the silent clock. “Could the clock be the origin?”
+
+Chapter 12 — The Hologram Problem
+Penny looked at the board. “So spacetime might not be fundamental.”
+
+Chapter 12 — The Hologram Problem
+Penny picked it up. “If spacetime is emergent…”
+
+Chapter 14 — The Station That Wasn’t Quite There
+Penny nodded. “Like the spacetime interval.”
+
+Chapter 14 — The Station That Wasn’t Quite There
+Penny considered him. “Can we distinguish that from a coordinate effect?”
+
+Chapter 15 — The Distant Train That Arrived Before It Left
+Trevor stopped. Penny stared at the clock. “She’s right.” Derek found the observation more interesting than he had expected.
+
+Chapter 2 — Case 1047
+The next showed the clock. Penny watched Derek. “That’s not normal.”
+
+Chapter 2 — Case 1047
+Penny studied it again, more carefully this time. It did. The shadow moved normally as the light from the window changed.
+
+Chapter 2 — Case 1047
+Penny frowned. “The clock?”
+
+Chapter 3 — The Lorentz Transform
+At 8:36 on Wednesday morning, he was standing in front of the whiteboard in the Bureau while Trevor sat at the old desk and Penny leaned against the window. The brass railway clock sat between them. It had arrived sometime during the night.
+
+Chapter 3 — The Lorentz Transform
+Penny regarded the silent clock. “We have a photograph of you lying dead.”
+
+
+==== Trevor DIALOGUE (phil first) count=264 ====
+
+[2] Chapter 1 — The Surprise in the Morning
+QUOTE: Meaning the picture can tell us what was seen, but not yet which frame made that timestamp meaningful.
+CTX: Trevor looked again at the clock. “Meaning the picture can tell us what was seen, but not yet which frame made that timestamp meaningful.”
+
+[2] Chapter 10 — The Relativistic Ride
+QUOTE: That doesn’t mean its proper time has stopped.
+CTX: Trevor nodded. “That doesn’t mean its proper time has stopped.”
+
+[2] Chapter 11 — The Ordinary Cucumber Problem
+QUOTE: At any particular point along its worldline, we can construct a local inertial frame.
+CTX: Trevor nodded. “At any particular point along its worldline, we can construct a local inertial frame.”
+
+[2] Chapter 11 — The Ordinary Cucumber Problem
+QUOTE: Could it be a coordinate effect?
+CTX: Trevor frowned. “Could it be a coordinate effect?”
+
+[2] Chapter 11 — The Ordinary Cucumber Problem
+QUOTE: So, the cucumber isn’t the cause.
+CTX: Trevor examined the cucumber. “So, the cucumber isn’t the cause.”
+
+[2] Chapter 12 — The Hologram Problem
+QUOTE: Then SR could describe the local behaviour of the emergent spacetime.
+CTX: Trevor considered it in silence. “Then SR could describe the local behaviour of the emergent spacetime.”
+
+[2] Chapter 14 — The Station That Wasn’t Quite There
+QUOTE: You carry a tape measure?
+CTX: Trevor surveyed him. “You carry a tape measure?”
+
+[2] Chapter 14 — The Station That Wasn’t Quite There
+QUOTE: How can you see geometry?
+CTX: Trevor frowned. “How can you see geometry?”
+
+[2] Chapter 14 — The Station That Wasn’t Quite There
+QUOTE: And you’re saying all of this can happen because spacetime is curved?
+CTX: Trevor looked increasingly uncomfortable. “And you’re saying all of this can happen because spacetime is curved?”
+
+[2] Chapter 14 — The Station That Wasn’t Quite There
+QUOTE: The train has a worldline?
+CTX: Trevor stared at him. “The train has a worldline?”
+
+[2] Chapter 15 — The Distant Train That Arrived Before It Left
+QUOTE: So, the station clock hasn’t advanced.
+CTX: Trevor stared intently. “So, the station clock hasn’t advanced.”
+
+[2] Chapter 15 — The Distant Train That Arrived Before It Left
+QUOTE: Time dilation.
+CTX: Trevor considered Derek. “Time dilation.”
+
+[2] Chapter 15 — The Distant Train That Arrived Before It Left
+QUOTE: So, the difference isn’t evidence that one clock is wrong.
+CTX: Trevor pointed at the clocks. “So, the difference isn’t evidence that one clock is wrong.”
+
+[2] Chapter 15 — The Distant Train That Arrived Before It Left
+QUOTE: So which time is correct?
+CTX: Trevor frowned. “So which time is correct?”
+
+[2] Chapter 16 — Sherlock and the Final Geometry
+QUOTE: So, now we can finally understand the equation.
+CTX: Trevor smiled. “So, now we can finally understand the equation.”
+
+[2] Chapter 3 — The Lorentz Transform
+QUOTE: Position and time.
+CTX: Trevor nodded. “Position and time.”
+
+[2] Chapter 3 — The Lorentz Transform
+QUOTE: So, when we say the photograph was taken at 11:03, we’re already making an assumption about the relationship between the clock and the event.
+CTX: Trevor fell into thought. “So, when we say the photograph was taken at 11:03, we’re already making an assumption about the relationship between the clock and the event.”
+
+[2] Chapter 3 — The Lorentz Transform
+QUOTE: Could be 17 seconds of proper time.
+CTX: Trevor studied the clock again. “Could be 17 seconds of proper time.”
+
+---- Trevor PHILOSOPHY/EXPLANATORY PARAS ----
+
+Chapter 7 — The Fourth Coordinate
+Derek allowed himself a brief, private observation: this was becoming a pattern. A city, a clock, a number that refused to add up. He kept the observation to himself, mostly because Trevor would have agreed, and agreement on that particular point was unlikely to help anyone. What was new, this time, was the rate. In Munich the discrepancy had grown by roughly a seventeenth of a second per hour. Here, beneath the Louvre, it was growing by nearly a full second. Whatever was causing this, it was no
+
+Chapter 6 — The Apple Problem
+Trevor studied the ancient brass clock. “Then if the clock behaves strangely, we should ask whether its worldline is strange.”
+
+Chapter 16 — Sherlock and the Final Geometry
+Which brings us, unavoidably, to the other Derek, first glimpsed in Chapter 11 and interrogated properly in Chapter 14. Whatever else was happening on that train, only one Derek could be right about how much time had passed since the two of them last shared a worldline. The Bureau has not yet worked out which one. Trevor has helpfully suggested filing the question under Pending Geometry, alongside the wormhole.
+
+Chapter 1 — The Surprise in the Morning
+Across the empty room, Trevor Boltzman looked up. Trevor was twenty-eight, highly intelligent, technically qualified, and possessed of the unfortunate tendency to think about one problem at a time — a trait that made him excellent at mathematics and intermittently disastrous at life. When thinking deeply, he carried himself like a frozen Windows system before reboot.
+
+Chapter 1 — The Surprise in the Morning
+Trevor looked again at the clock. “Meaning the picture can tell us what was seen, but not yet which frame made that timestamp meaningful.”
+
+Chapter 3 — The Lorentz Transform
+Trevor studied the clock again. “Could be 17 seconds of proper time.”
+
+Chapter 7 — The Fourth Coordinate
+Trevor nodded. “The clock could be experiencing proper time normally while its display remains fixed.”
+
+Chapter 7 — The Fourth Coordinate
+Trevor studied the three coordinates. “Then the missing τ could be the proper-time difference along a worldline approaching that region.”
+
+Chapter 11 — The Ordinary Cucumber Problem
+Trevor nodded. “At any particular point along its worldline, we can construct a local inertial frame.”
+
+Chapter 11 — The Ordinary Cucumber Problem
+Trevor frowned. “Could it be a coordinate effect?”
+
+Chapter 12 — The Hologram Problem
+Trevor considered it in silence. “Then SR could describe the local behaviour of the emergent spacetime.”
+
+Chapter 15 — The Distant Train That Arrived Before It Left
+Trevor stopped. Penny stared at the clock. “She’s right.” Derek found the observation more interesting than he had expected.
+
+Chapter 2 — Case 1047
+At 9:19, the old desk was empty. At 9:20, the ancient brass clock appeared. Trevor stared. “How?”
+
+Chapter 3 — The Lorentz Transform
+At 8:36 on Wednesday morning, he was standing in front of the whiteboard in the Bureau while Trevor sat at the old desk and Penny leaned against the window. The brass railway clock sat between them. It had arrived sometime during the night.
+
+
+==== Sherlock DIALOGUE (phil first) count=3 ====
+
+[0] Chapter 16 — Sherlock and the Final Geometry
+QUOTE: I read a great deal.
+CTX: Sherlock replied: “I read a great deal.”
+
+[0] Chapter 16 — Sherlock and the Final Geometry
+QUOTE: Fish are very good listeners.
+CTX: Sherlock was silent. Then: “Fish are very good listeners.”
+
+[0] Chapter 16 — Sherlock and the Final Geometry
+QUOTE: Because you were going to find it anyway.
+CTX: Sherlock answered immediately, “Because you were going to find it anyway.”
+
+---- Sherlock PHILOSOPHY/EXPLANATORY PARAS ----
+
+Chapter 16 — Sherlock and the Final Geometry
+Sherlock continued. Spacetime was not a passive stage. It was part of the physical system.
+
+Chapter 16 — Sherlock and the Final Geometry
+Sherlock sent him an image. It was not an image in the ordinary sense. It was a geometry.
+
+Chapter 16 — Sherlock and the Final Geometry
+The Earth rotated. The Sun continued shining. And somewhere in the Atlantic, a dolphin named Sherlock was apparently thinking about differential geometry.
+
+Chapter 11 takes us to a more ambitious example: the AdS/CFT correspondence. In this theoretical framework, a gravitatio
+Without quite meaning to, Penny has also approached the question Sherlock the dolphin will raise properly in Chapter 16: could spacetime itself emerge from more basic relationships, rather than provide the stage on which those relationships occur?

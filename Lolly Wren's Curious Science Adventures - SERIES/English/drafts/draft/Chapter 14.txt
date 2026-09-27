@@ -1,0 +1,1017 @@
+# Chapter 14
+
+## The Train That Arrived Before It Left
+
+The corridor ended at Platform Seven.
+
+Derek stopped.
+
+"Of course."
+
+Penny looked at the sign.
+
+**PLATFORM 7**
+
+Trevor looked at the timetable.
+
+"There isn't a Platform Seven."
+
+Derek nodded.
+
+"Excellent."
+
+Trevor stared at him.
+
+"Why is that excellent?"
+
+"Because if there were a Platform Seven, this would be considerably less interesting."
+
+Penny looked down the platform.
+
+There was, in fact, a train waiting.
+
+This was unfortunate.
+
+It was an entirely ordinary Underground train.
+
+Grey.
+
+Damp.
+
+Slightly depressing.
+
+The sort of train that looked as though it had been designed by a committee whose principal objective had been to discourage tourism.
+
+Except for one small problem.
+
+There was no driver.
+
+There were no passengers.
+
+There was no conductor.
+
+There was no staff.
+
+And there was no record of the train on the timetable.
+
+Trevor checked the timetable again.
+
+Nothing.
+
+He checked his phone.
+
+Nothing.
+
+He checked the transport app.
+
+Nothing.
+
+He looked at Derek.
+
+"Perhaps it's cancelled."
+
+Derek looked at the train.
+
+"It's here."
+
+"Yes."
+
+"Therefore it isn't cancelled."
+
+Trevor considered this.
+
+"That's not how cancellations work."
+
+"It is if the train exists."
+
+"Does it?"
+
+Derek smiled.
+
+"Excellent question."
+
+Penny walked toward it.
+
+The destination board read:
+
+**LONDON TERMINUS**
+
+She stopped.
+
+"Where is London Terminus?"
+
+Derek looked at the sign.
+
+"Everywhere."
+
+Trevor sighed.
+
+"That isn't helpful."
+
+"It wasn't intended to be."
+
+Penny looked at the train.
+
+"There's no such station."
+
+Derek nodded.
+
+"Correct."
+
+"Then why does the train say it's going there?"
+
+"Perhaps it's optimistic."
+
+The doors opened.
+
+Nobody moved.
+
+Derek stepped inside.
+
+Penny followed.
+
+Trevor remained on the platform.
+
+Derek looked back.
+
+"Coming?"
+
+Trevor looked at the empty carriage.
+
+"Do you know where it goes?"
+
+"No."
+
+"Do you know who is driving it?"
+
+"No."
+
+"Do you know why it exists?"
+
+"No."
+
+Trevor sighed.
+
+"Fine."
+
+He stepped aboard.
+
+The doors closed.
+
+The train moved.
+
+There was no announcement.
+
+No warning.
+
+No reassuring voice telling them to mind the gap.
+
+It simply accelerated.
+
+Derek looked at his watch.
+
+11:17.
+
+The train clock showed 11:17.
+
+Penny's phone showed 11:17.
+
+Trevor checked his.
+
+11:17.
+
+Everything appeared perfectly normal.
+
+This was, naturally, suspicious.
+
+The train accelerated harder.
+
+Derek watched the carriage.
+
+"Acceleration."
+
+Trevor nodded.
+
+"We can feel it."
+
+"Yes."
+
+"And that means this isn't an inertial frame."
+
+"Correct."
+
+Penny looked out of the window.
+
+"The station is accelerating away from us."
+
+Derek smiled.
+
+"Depending on your frame."
+
+Trevor nodded.
+
+"Right."
+
+The train continued into the tunnel.
+
+Derek took out his notebook.
+
+"Let's keep this simple."
+
+Trevor looked at him.
+
+"That's unusual."
+
+"Special Relativity first."
+
+He wrote:
+
+**INERTIAL FRAME**
+
+Then:
+
+**LORENTZ TRANSFORMATION**
+
+Then:
+
+**PROPER TIME**
+
+Penny nodded.
+
+"The train has its own proper time."
+
+"Yes."
+
+"The passengers would have their own worldlines."
+
+"Yes."
+
+"The station has another."
+
+"Yes."
+
+"And the clocks measure proper time along their respective worldlines."
+
+"Exactly."
+
+Trevor nodded.
+
+"Fine."
+
+The train suddenly slowed.
+
+Derek looked at the clock.
+
+11:17.
+
+The train stopped.
+
+The doors opened.
+
+They stepped onto the platform.
+
+Trevor looked around.
+
+His expression changed.
+
+"This is Platform Seven."
+
+Derek nodded.
+
+"Yes."
+
+"But..."
+
+Trevor pointed down the tunnel.
+
+"We just left here."
+
+"Yes."
+
+"And now we're back."
+
+"Yes."
+
+Trevor checked his phone.
+
+11:18.
+
+Derek checked his watch.
+
+11:18.
+
+Penny checked hers.
+
+11:18.
+
+The station clock read:
+
+**11:17**
+
+Trevor stared.
+
+"So the station clock hasn't advanced."
+
+"No."
+
+"But our clocks have."
+
+"Yes."
+
+"And we were moving relative to the station."
+
+"Yes."
+
+Trevor looked at Derek.
+
+"Time dilation."
+
+Derek smiled.
+
+"Possibly."
+
+"Why possibly?"
+
+"Because we've only observed a difference in clock readings. We still need to understand the geometry of the situation."
+
+Trevor nodded.
+
+"Right."
+
+Penny pointed at the tunnel.
+
+"The train is coming back."
+
+Derek looked.
+
+The same train was approaching.
+
+Trevor frowned.
+
+"But we just got off it."
+
+"Yes."
+
+"It hasn't had time to go anywhere."
+
+Derek watched the train approach.
+
+"That depends on what you mean by time."
+
+Trevor sighed.
+
+"I knew you were going to say that."
+
+The train stopped.
+
+The doors opened.
+
+A second Derek stepped out.
+
+Trevor went completely still.
+
+Penny stared.
+
+Derek stared at Derek.
+
+The second Derek looked at them.
+
+Then at his watch.
+
+Then at the station clock.
+
+"You're late."
+
+The first Derek frowned.
+
+"I haven't gone anywhere."
+
+The second Derek smiled.
+
+"I know."
+
+Trevor looked between them.
+
+"Which one of you is Derek?"
+
+Both Dereks turned toward him.
+
+"Me."
+
+Trevor closed his eyes.
+
+"Of course."
+
+Penny looked at the second Derek.
+
+"Where did you come from?"
+
+"The train."
+
+"Where was the train?"
+
+"Here."
+
+"It wasn't."
+
+"It was."
+
+"You just arrived."
+
+"Yes."
+
+"From where?"
+
+"Here."
+
+Penny stared.
+
+Derek smiled.
+
+"He's right."
+
+Trevor opened his eyes.
+
+"Don't encourage him."
+
+The second Derek looked at the first.
+
+"You're still trying to describe the whole thing with one clock."
+
+Derek nodded.
+
+"Yes."
+
+"Stop."
+
+Derek considered this.
+
+"Fair."
+
+The second Derek pointed toward the station.
+
+"Think locally."
+
+Derek looked around.
+
+"Local inertial frames."
+
+"Exactly."
+
+"Special Relativity applies locally."
+
+"Yes."
+
+"But globally the geometry can be curved."
+
+"Yes."
+
+"So the coordinates can become strange."
+
+"Very."
+
+"But the physical laws remain consistent."
+
+"Exactly."
+
+Trevor looked at Penny.
+
+"Are they always like this?"
+
+Penny smiled.
+
+"Unfortunately."
+
+The second Derek turned to the first.
+
+"You've been asking why the train arrives before it leaves."
+
+"Yes."
+
+"Wrong question."
+
+"What is the right one?"
+
+"Which events are actually connected by a causal curve?"
+
+Derek stared.
+
+Trevor frowned.
+
+Penny nodded.
+
+"Causality."
+
+"Exactly."
+
+Derek looked down the tunnel.
+
+"Light cones."
+
+"Yes."
+
+"The causal future and causal past of an event."
+
+"Yes."
+
+"And events outside the light cone are spacelike separated."
+
+"Exactly."
+
+Trevor nodded slowly.
+
+"So two observers can disagree about which of two spacelike-separated events happened first."
+
+"Yes."
+
+"But they cannot use that to send information into their own past."
+
+"Correct."
+
+Derek smiled.
+
+"Well, that's settled."
+
+The second Derek looked at him.
+
+"For now."
+
+Then he disappeared.
+
+Trevor jumped.
+
+"Where did he go?"
+
+Derek looked at the empty platform.
+
+"Virtuality."
+
+Penny nodded.
+
+"Obviously."
+
+Trevor stared at them.
+
+"I am beginning to dislike that word."
+
+The train doors closed.
+
+The train departed.
+
+This time Derek watched carefully.
+
+He took measurements.
+
+Speed.
+
+Acceleration.
+
+Distance.
+
+Clock readings.
+
+Everything appeared ordinary.
+
+Then the train emerged from the tunnel.
+
+They were above ground.
+
+Rain streaked across the windows.
+
+London appeared.
+
+Grey buildings.
+
+Grey sky.
+
+Grey people.
+
+Grey everything.
+
+Trevor looked relieved.
+
+"Back to normal."
+
+A raindrop hit the window.
+
+It travelled downward.
+
+Then stopped.
+
+Then moved sideways.
+
+Then went upward.
+
+Trevor stared.
+
+"No."
+
+Penny leaned closer.
+
+"Interesting."
+
+Derek smiled.
+
+"Very."
+
+The droplet split into two.
+
+One part moved down.
+
+The other moved up.
+
+Trevor looked at Derek.
+
+"That isn't normal."
+
+"No."
+
+"Coordinate effect?"
+
+"Possibly."
+
+"Geometry?"
+
+"Possibly."
+
+"Train?"
+
+"Possibly."
+
+"Rain?"
+
+"Possibly."
+
+Trevor sighed.
+
+"You're enjoying this."
+
+"Immensely."
+
+The train slowed.
+
+Derek checked his watch.
+
+11:18.
+
+The train clock:
+
+11:18.
+
+Penny's phone:
+
+11:18.
+
+The station clock outside:
+
+12:04.
+
+They stopped.
+
+The doors opened.
+
+Everyone stepped out.
+
+The rain was falling normally again.
+
+Trevor looked at the station clock.
+
+12:04.
+
+He looked at his phone.
+
+11:18.
+
+Then back at the clock.
+
+12:04.
+
+"Now what?"
+
+Derek smiled.
+
+"Now we have a problem."
+
+Penny nodded.
+
+"Good."
+
+Trevor stared at her.
+
+"Why is that good?"
+
+"Because we know the discrepancy is not just between two clocks."
+
+Derek nodded.
+
+"The station itself is assigning different temporal coordinates."
+
+Trevor frowned.
+
+"So which time is correct?"
+
+Derek looked at him.
+
+"Both."
+
+Trevor sighed.
+
+"Of course."
+
+Derek pointed toward a bench.
+
+A newspaper lay there.
+
+He picked it up.
+
+The headline read:
+
+**RELATIVITY PROVED WRONG**
+
+Trevor nodded.
+
+"Finally."
+
+Derek turned the page.
+
+Underneath was another headline:
+
+**RELATIVITY PROVED RIGHT**
+
+Penny laughed.
+
+"That's more like it."
+
+Derek turned the page again.
+
+A third headline:
+
+**RELATIVITY PROVED BOTH**
+
+Trevor stared.
+
+"That's impossible."
+
+Derek looked at him.
+
+"No."
+
+Trevor waited.
+
+Derek smiled.
+
+"It's journalism."
+
+Penny laughed.
+
+They sat on the bench.
+
+Derek spread the newspaper across his knees.
+
+"Let's sort this out."
+
+Trevor nodded.
+
+"Please."
+
+Derek drew a spacetime diagram.
+
+"An event is represented as a point in spacetime."
+
+He drew another point.
+
+"Different observers can assign different coordinates to those events."
+
+Penny nodded.
+
+"Because their frames of reference differ."
+
+"Yes."
+
+He drew light cones.
+
+"The speed of light defines the causal structure."
+
+Trevor looked at the diagram.
+
+"If two events are inside one another's light cones..."
+
+"They can be causally connected."
+
+"And everyone agrees on their causal order."
+
+"Yes."
+
+"But if they're outside one another's light cones..."
+
+"They're spacelike separated."
+
+"And different observers can disagree about which happened first."
+
+"Exactly."
+
+Trevor smiled.
+
+"That explains the train."
+
+Derek nodded.
+
+"Potentially."
+
+Trevor frowned.
+
+"Why potentially?"
+
+"Because our train is also moving through curved spacetime."
+
+"So General Relativity matters."
+
+"Yes."
+
+"And then the coordinates can become even stranger."
+
+"Yes."
+
+Penny pointed at the newspaper.
+
+"So the headline could appear before the article that caused it."
+
+Derek looked at her.
+
+"Not quite."
+
+"Why?"
+
+"Because information cannot travel outside the causal structure."
+
+"So no actual message from the future."
+
+"Correct."
+
+"Just a strange coordinate description."
+
+"Exactly."
+
+Trevor nodded.
+
+"That's reassuring."
+
+Derek folded the newspaper.
+
+"Never be reassured too early."
+
+They stood.
+
+The train had disappeared.
+
+There was no record of it on the station board.
+
+No destination.
+
+No arrival.
+
+No departure.
+
+Nothing.
+
+Trevor looked at Derek.
+
+"Where did it go?"
+
+Derek looked at the rails.
+
+"I don't know."
+
+Penny smiled.
+
+"That's a first."
+
+Derek ignored her.
+
+He crouched beside the track.
+
+There was something on the rail.
+
+A small brass plate.
+
+He picked it up.
+
+It was engraved with a single number:
+
+**11:17**
+
+Trevor stared.
+
+"Again."
+
+Derek nodded.
+
+"Again."
+
+Penny looked at the plate.
+
+"Perhaps 11:17 isn't a time."
+
+Derek looked at her.
+
+"What else could it be?"
+
+"An event."
+
+Derek went very still.
+
+Penny continued.
+
+"Something happens at 11:17."
+
+"Yes."
+
+"But perhaps the clocks aren't telling us when it happens."
+
+Derek nodded slowly.
+
+"They're identifying it."
+
+"Exactly."
+
+Trevor looked between them.
+
+"So 11:17 is an event label."
+
+Derek smiled.
+
+"Maybe."
+
+Penny nodded.
+
+"Then when the geometry changes, the labels become misleading."
+
+Derek looked toward the tunnel.
+
+"Which means we've been asking the wrong question."
+
+Trevor sighed.
+
+"Again?"
+
+Derek smiled.
+
+"Again."
+
+They stood silently for a moment.
+
+Then Derek looked at the sky.
+
+The rain had stopped.
+
+That was unusual.
+
+Very unusual.
+
+Penny noticed it too.
+
+"London has stopped raining."
+
+Trevor looked upward.
+
+"That's worse than the train."
+
+Derek nodded.
+
+"Much worse."
+
+A single drop of water fell from the sky.
+
+It stopped halfway down.
+
+Then moved upward.
+
+Then sideways.
+
+Then disappeared.
+
+Derek smiled.
+
+"General Relativity."
+
+Trevor frowned.
+
+"Are you sure?"
+
+Derek looked at him.
+
+"No."
+
+Trevor nodded.
+
+"Well, that's settled."
+
+And somewhere beneath them, the train that had never officially existed began its journey again.
+
+According to one clock, it had already arrived.
+
+According to another, it had not yet departed.
+
+According to the railway timetable, it had never existed.
+
+Which, Derek thought, was probably the most reliable information of all.
