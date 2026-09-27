@@ -65,10 +65,12 @@ BOX_START_SPACING = 160  # twips before a paragraph that opens a new box
 CSS = """
 body { font-family: Georgia, 'Times New Roman', serif; line-height: 1.5;
        margin: 0 5%; color: #1a1a1a; background: #ffffff; }
-h1 { font-size: 1.6em; color: #1B2A44; margin: 1.4em 0 .2em; line-height: 1.25;
+h1, h2, h3 { font-family: 'Amazon Ember', 'Bookerly', 'Segoe UI', sans-serif;
+     color: #0000FF; text-align: center; }
+h1 { font-size: 1.6em; margin: 1.4em 0 .2em; line-height: 1.25;
      border-bottom: 2px solid #C9A227; padding-bottom: .25em; }
-h2 { font-size: 1.22em; color: #1B2A44; margin: 1.5em 0 .3em; line-height: 1.3; }
-h3 { font-size: 1.05em; color: #3B5578; margin: 1.2em 0 .3em; }
+h2 { font-size: 1.22em; margin: 1.5em 0 .3em; line-height: 1.3; }
+h3 { font-size: 1.05em; margin: 1.2em 0 .3em; }
 p  { margin: 0 0 .75em; text-align: justify; }
 .ex-num, .ex-both, .callout, .notice, .warn {
      padding: .6em .8em; margin: 1em 0; border-radius: 2px; color: #1a1a1a; }
@@ -86,7 +88,7 @@ table { border-collapse: collapse; margin: 1.2em auto; font-size: .95em; }
 td, th { border: 1px solid #bfc7d2; padding: .3em .55em; text-align: left;
          vertical-align: top; }
 td p, th p { margin: 0; text-align: left; }
-.title  { text-align: center; font-size: 2em; margin-top: 3em; color: #1B2A44;
+.title  { text-align: center; font-size: 2em; margin-top: 3em; color: #0000FF;
           border-bottom: none; }
 .subtit { text-align: center; font-style: italic; font-size: 1.1em; color: #444; }
 .byline { text-align: center; margin-top: 2em; }
