@@ -4,7 +4,7 @@ Read this first. Only open the full manuscript for things that genuinely need it
 
 ## Canonical file
 
-`FINAL_REV10_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx` at the repo root. Git repo, branch `main`, remote `github.com/lotmus/relativistic`. ~6,800 paragraphs, ~60K words (novel + physics appendix).
+`FINAL_REV10_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx` at the repo root. ~6,800 paragraphs, ~60K words (novel + physics appendix). Lives in the `lotmus/My-Books-for-Amazon` monorepo at `The Relativistic Investigation Bureau - SERIES/` (branch `main`) — merged in 2026-09-26 with full history from the standalone `lotmus/relativistic` repo, which has since been deleted. No nested `.git` here anymore; this folder is a plain part of the monorepo.
 
 A separate copy exists under `WORD/` (originally `D:\...\WORD`, its own independent git repo, no remote). **Not canonical.** As of 2026-09-24 everything genuinely valuable there was already superseded by this file — don't merge from it again without checking first.
 
