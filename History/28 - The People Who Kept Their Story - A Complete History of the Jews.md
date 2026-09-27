@@ -22,7 +22,7 @@ His teaching, as the accounts have it, emphasized compassion, humility, forgiven
 
 *“The message,” the Society recorded, “was simpler than the debates that followed.”*
 
-Judea itself did not stay quiet under Rome. A major revolt from 66 to 73 CE ended with the Second Temple's destruction in 70 CE — only its western retaining wall still stands — and the mass suicide of the revolt's last holdouts at Masada. A second revolt, in 132-135 CE, was crushed even more completely; Rome barred Jews from Jerusalem and renamed the province Syria Palaestina.
+Judea itself did not stay quiet under Rome. A major revolt from 66 to 73 CE ended with the Second Temple's destruction in 70 CE — only its western retaining wall still stands — and, by tradition, the mass suicide of the revolt's last holdouts at Masada. That account comes down from a single source, the historian Josephus, and its details are still debated by archaeologists, some of whom question how much of it happened as described. A second revolt, in 132-135 CE, was crushed even more completely; Rome barred Jews from Jerusalem and renamed the province Syria Palaestina.
 
 What followed was the diaspora: Jewish communities scattered across the Mediterranean, the Middle East, and eventually the whole of Europe and Asia, carrying identity for the next eighteen centuries not through a land or a state, which they mostly did not have, but through law, text, and memory — the Talmud, compiled across the centuries that followed, and an unbroken chain of communal practice.
 
