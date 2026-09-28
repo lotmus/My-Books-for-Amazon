@@ -81,7 +81,7 @@ For the story alone: read the chapters and stop at each Rule. No plot point live
 To take the class: read each chapter, then its lesson, in order. Lesson 1 assumes nothing; Lesson 16 assumes you have been paying attention.
 If you are impatient: skim the COURSE page and Lesson 16. You will still meet the brass clock.
 If you take the class out of order, take Lesson 2 before you argue with Chapter 3, and Lesson 14 before you board the train. The novel will not punish you. The algebra might.
-One promise: where Newton cannot host this mystery, the book says so. Absolute 'now' makes Case 1047 gibberish. Relativity makes the misfiling possible — and the sacrifice real.
+One promise: where Newton cannot host this mystery, the book says so. Absolute 'now' makes Case 1047 gibberish. Relativity makes the misfiling possible — and the fear of it real.
 A companion list of films lives at the end of each lesson. None of them are required. All of them were chosen because they teach the same idea the chapter just used as a joke.
 Three interactive demos — drag simultaneity, curvature, and cosmic expansion around until they behave — live at the book's companion demo site, built to be broken gently rather than read.
 PROLOGUE
@@ -3397,6 +3397,7 @@ Rule: A fourth coordinate is not a decoration. It is where labels pretend to be 
 -> Lesson for this chapter: 7 - Why SR and GR Don't Fight
 Chapter 8
 The Cold Rain
+Wednesday had come and gone. Eleven-oh-three had arrived, been logged, and passed without incident, which Derek found almost more unsettling than if something had actually happened - a threat that simply declines to go off doesn't stop being a threat. It just becomes a longer one.
 Derek Gent had been given a difficult assignment. He was to investigate the London Underground on rainy days.
 This was not, in itself, unusual. The London Underground was already difficult on most days. On rainy days it became something else entirely.
 People arrived wet, irritated and vaguely convinced that the entire transport system had been personally designed to inconvenience them. Trains became late. Platforms became slippery. Umbrellas became weapons. Shoes acquired the consistency of soup. Derek had been instructed to find out whether anything in the Underground, specifically on rainy days, could prevent Special Relativity and General Relativity from both being true at the same time.
@@ -5637,6 +5638,8 @@ Derek asked it plainly. "And the man on the train. The one wearing my face."
 "The same discontinuity, in a longer coat," Sherlock said. "Not a second Derek waiting in the wings — a worldline the geometry hadn't finished labelling yet. Departure, dressed as a person, because that's what a mind does with an event it can't file. You didn't meet him. You watched an unlabelled coordinate for long enough that it blinked."
 Derek made himself ask the only question that had actually kept him awake. "And Sophie. In the doorway, behind me, in the photograph. Why was she there at all?"
 "She wasn't," Sherlock said. "Not in any event that occurred. The filing pulled her in the way a bad exposure pulls in a smear at the edge of a frame — because Departure and Arrival both needed a witness on file for that address, and the system reached for the nearest worldline it had. Yours. Hers. The same drawer, the same mistake, twice over. She was never standing in that doorway. She was misfiled into it, exactly the way Trevor was misfiled into Perpetrator."
+Derek thought of her clock, then - the one on his study windowsill, four minutes fast for as long as anyone could remember. "Her clock. The one that runs fast. Is that -"
+"Not the same fault," Sherlock said. "That one really is just a clock that runs fast, and nobody has filed a single form about it in eleven years. Not everything in this house is a symptom. Some of it is just a clock."
 Derek felt something in his chest loosen and tighten at once. Relief and loss. There was no killer to catch. There was only a daughter he'd saved by refusing to finish their filing. But somewhere in the geometry, he was still lying face-down on the floor, and he'd never know if that version of himself had been trying to save her too. "So there was no murderer."
 "Pending Geometry," Sherlock finished. "And a daughter in a doorway it should never have contained."
 Penny whispered, "Pending Geometry."
