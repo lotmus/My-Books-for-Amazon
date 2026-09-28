@@ -553,6 +553,9 @@ Interlude
 Sophie
 Sophie was small for twelve and treated this as a technicality rather than a fact, the way she treated most inconvenient data. She wore her dark hair scraped back hard enough to argue with, on the theory that anything loose was a distraction, and she had inherited her father's habit of going very still when she was thinking, which teachers mistook for daydreaming and Derek would have recognised instantly, had he been in the room. Sophie had noticed the clocks were lying. Not all of them, and not in ways that made sense. The brass one in Dad's study — the one he kept pretending he hadn't bought — was always exactly four minutes ahead of her phone. She'd tested it seventeen times. Seventeen times: four minutes, never more, never less. That wasn't a clock that was broken. That was a clock that was disagreeing on purpose. She'd started a notebook. Not because she wanted to solve anything. But because if the clocks were having an argument, someone should keep score.
 She asked questions the way she asked for the salt: plainly, expecting an answer, mildly surprised when adults treated the asking as a performance.
+There was a car outside school now, too, and she hadn't decided yet whether it counted as data. It parked in the same spot most afternoons, engine off, nobody getting out — not close enough to the gates to be picking anyone up, not far enough away to be anything else. On Tuesday she made herself walk past it slowly, the way you're meant to check a floor for ice, and the man inside never once looked at his phone, which was the detail that actually frightened her. Everyone looked at their phone. That was the whole point of having one. A person who didn't was a person doing something else with his eyes, and the something else was her.
+On Thursday the car followed her for two streets before it turned off, and she did not walk home the rest of the way so much as arrive there, faster than she would ever admit to, her heart going in a way that had nothing to do with proper time. She let herself in, locked the door — which she never usually bothered with, not at four in the afternoon — and stood in the hall for a full minute doing the thing her father did without noticing he did it: breathing carefully, as if the air itself needed managing.
+She thought about telling him. She decided against it, on the grounds that he'd been strange all week — quieter on the phone, checking his watch like it owed him money, wearing the specific careful-cheerful voice that meant something was being kept from her — and one Gent's allotted quota of quiet dread seemed like enough for the week. Instead she wrote the number plate on the inside back cover of the notebook, under the clock data, beneath a heading she gave more thought to than she'd admit: PROBABLY NOTHING. She knew even as she wrote it that this wasn't a proper scientific category. She kept it anyway. Some data you collect before you know which drawer it belongs in.
 Chapter 3
 The Lorentz Transform
 By Wednesday morning, Derek Gent had decided that there were two kinds of impossible. The first kind was the ordinary sort. A man could not be in two places at once.
@@ -1693,7 +1696,7 @@ Julius granted. "Quite."
 "Yes."
 "An observer carries a clock, and the clock measures proper time along that observer's worldline."
 "Yes."
-Weinstein's mouth twitched with something like appreciation. "So, we cannot simply declare time nonexistent and walk away."
+Weinstein looked, for a moment, genuinely appreciative. "So, we cannot simply declare time nonexistent and walk away."
 Barbarian smirked back. "I wasn't planning to."
 "Good."
 "I have a much more irritating plan."
@@ -4092,7 +4095,7 @@ The train accelerated.
 Trevor found his eyes. "Now what?"
 "Acceleration."
 "Ah."
-At 11:17 the displays froze. The train did not. Derek chose, silently: believe the freeze, or believe the motion — or admit both were true and stop talking.
+The displays froze again, precisely at 11:17. The train did not. Derek chose, silently: believe the freeze, or believe the motion — or admit both were true and stop talking.
 Trevor slowly eyed the tunnel.
 "So, there's no contradiction."
 "Not ordinarily."
