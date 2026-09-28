@@ -1,6 +1,6 @@
 # STATUS — How to Publish and Make Good Money
 
-Last updated: 2026-09-28 (session 4) — **combined from two projects into one complete book**
+Last updated: 2026-09-28 (session 5) — **added Chapter 17 on AI use; refused a copyright-laundering method**
 
 ## Where this stands
 
@@ -72,6 +72,36 @@ repo, on explicit instruction:
   correct position in the text. See `CLAUDE.md` for the Markdown
   conventions now standing in for the source's named Word paragraph styles
   (KeyTakeaway, WorkedExample, CaseStudy, FigureCaption, ChecklistItem).
+
+## Session 5: added Chapter 17, "Using AI Without Losing the Business"
+
+New chapter, new **Part VII — Using AI Well**, appended after Part VI (same
+renumbering-avoidance reasoning as Chapter 16: nothing in Chapters 1–16
+needed touching, just one added cross-reference each in Chapter 4 and
+Chapter 13 pointing to it). Covers:
+- AI's legitimate use elsewhere in the business (cover concepts, ad copy,
+  keyword brainstorming) — Chapter 4 already covered manuscript-writing use
+- The AI-generated vs. AI-assisted disclosure distinction, stated in full
+  with the same verified citation (KDP Help G200672390) already used in
+  Chapter 16, but as this book's primary, complete treatment of it
+- A named trap: condensing a handful of existing books with AI, then
+  running a "similarity audit" specifically designed to erase resemblance
+  to those sources. This is distinct from Chapter 13's "AI-content
+  flooding" (which is about thin, obviously low-effort volume) — this
+  version can look polished and heavily edited while still being a
+  derivative-work/copyright problem, which is exactly why it's dangerous
+  enough to name directly rather than leave implicit.
+
+**Why this chapter exists**: the author uploaded two files (for a
+"textbook" and a "popular science book") describing exactly that
+condense-and-audit method as a commercial content-production process. It
+was declined — not implemented, not summarized as a how-to — because the
+method's own "similarity audit" step (checking a draft against specific
+source books to eliminate "close parallels" in examples, analogies, and
+explanatory structure) only makes sense if the underlying process expects
+to produce infringing similarity and is built to launder it. The chapter
+names the pattern abstractly (enough for a reader to recognize and avoid
+it) without providing its mechanics as a recipe.
 
 ## Open questions for the author
 
