@@ -13,18 +13,25 @@ touching, say so and wait to be asked — don't go do it.
 
 ## Project facts
 
-- **Author is Lothar J. Musiol**, consistent with the rest of this repo's catalog.
-- This is a **new project, early stage**. As of the first scaffold commit, exactly
-  one chapter exists: `manuscript/The First-Review Problem.md`, about seeding
-  Amazon/Goodreads reviews and pricing a debut Kindle book. It has no confirmed
-  chapter number — there is no outline yet establishing where it sits in the book.
-- The chapter was rebuilt from two author-supplied `.docx` revisions kept in
-  `_source/` for provenance (`REV1` and `REV2`). `REV2` is canonical: it is a
-  strict superset of `REV1`, adding a section on who is actually eligible to post
-  an Amazon review (the $50/12-month spend rule) and how Goodreads' rules differ.
-  Two straight-quote/apostrophe slips introduced in `REV2`'s new material were
-  normalized to the manuscript's curly-quote convention when transcribing to
-  Markdown; no wording was otherwise changed. See `_STATUS.md` for detail.
+- **Book title is "Your First Book That Sells"** and **author is Kevin Drew
+  Peters — a pen name**, both confirmed directly by the author in chat. This is
+  a deliberate departure from the rest of this repo's catalog, which publishes
+  under Lothar J. Musiol: do not attach the real name anywhere in this book's
+  manuscript, metadata, or KDP listing.
+- This is a **new project, early stage**. As of the second scaffold session,
+  exactly one chapter exists: `manuscript/The First-Review Problem.md`, about
+  seeding Amazon/Goodreads reviews and pricing a debut Kindle book. It has no
+  confirmed chapter number — there is no outline yet establishing where it sits
+  in the book.
+- The chapter was rebuilt from three author-supplied `.docx` revisions kept in
+  `_source/` for provenance (`REV1`, `REV2`, `REV3`). `REV3` is canonical: each
+  revision is a strict superset of the last. REV2 added a section on who is
+  actually eligible to post an Amazon review (the $50/12-month spend rule) and
+  how Goodreads' rules differ; REV3 added EPUB-delivery mechanics and where to
+  recruit ARC readers with no existing list. Straight-quote/apostrophe slips in
+  REV2's new material were normalized to the manuscript's curly-quote
+  convention when transcribing to Markdown; no wording was otherwise changed.
+  See `_STATUS.md` for detail.
 - **No outline, book bible, or build system exists yet.** Don't invent a full
   chapter list or a fictional cast of examples for this book — ask, or wait for
   more source material from the author's local folder, before assuming structure
