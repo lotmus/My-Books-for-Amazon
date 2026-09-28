@@ -1042,6 +1042,8 @@ None of the following, on its own, makes a derivative work legal — each gets r
 - “It’s transformative” — transformative purpose is one factor in a four-factor U.S. test, not a standalone pass (see the [Fair Use Index](https://www.copyright.gov/fair-use/)).
 - “It’s for an educational market.”
 - “Only the structure or approach is the same, not the exact words.”
+- “I didn’t charge money for it.” Commercial gain is one factor courts weigh, not a threshold — plenty of noncommercial uses still infringe.
+- “It’s a parody.” Parody, satire, and pastiche are specific, narrow legal categories with their own requirements; calling something a parody doesn’t make it one, and a work that doesn’t actually comment on or mock its source through the borrowing itself won’t qualify just because the author labels it that way.
 
 If the goal is genuinely to build on someone else’s existing work rather than your own research, there are exactly two legitimate paths: get a license from the rights holder, or adapt something actually in the public domain — not just old, not just freely downloadable somewhere, but verified public domain in every territory you’ll sell in. Duration rules are jurisdiction-specific and don’t track intuition: a modern translation of a public-domain original can still be separately protected, and an “old” edition can carry its own separately-copyrighted introduction, annotations, or cover art ([Circular 15A: Duration of Copyright](https://www.copyright.gov/circs/circ15a.pdf)). Verify the exact edition and every layer of it before you build anything on it — not after.
 
