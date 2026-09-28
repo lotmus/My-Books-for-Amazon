@@ -1,6 +1,19 @@
 # STATUS — Your First YouTube Channel That Sells
 
-Last updated: 2026-09-28 (session 2) — **all three planned chapters now drafted, open as a draft PR**
+Last updated: 2026-09-28 (session 2) — **all three planned chapters now drafted, audited, open as a draft PR**
+
+Post-draft audit (session 2) checked all three chapters for: leaked
+personal-project terms (clean), balanced markdown tables/links (clean,
+one false alarm on my own miscount), and house style. Found and fixed two
+real issues: the Build chapter's platform table named seven platforms with
+no hyperlinks, inconsistent with the book's link convention (fixed —
+added real URLs, only where a search had actually returned one); and all
+three chapters, including the already-merged chapter 1, used straight
+quotes/apostrophes rather than the curly ones `CLAUDE.md` specifies
+(fixed — converted uniformly, including one instance inside
+`figures/follower-floor.svg`'s own visible text). PR #36 is currently
+clean: mergeable, no CI configured in this repo, no reviews or comments
+yet.
 
 ## Where this stands
 
