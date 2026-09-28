@@ -23,7 +23,7 @@ A Note Before You Begin
 **Part II — Writing and Producing the Book**
 3. Choosing What to Write
 4. From Draft to Manuscript
-5. Formatting That Doesn't Break Kindle
+5. Formatting That Doesn’t Break Kindle
 6. Covers That Sell in a Thumbnail
 
 **Part III — Getting Discovered**
@@ -55,6 +55,8 @@ A Closing Word
 # A Note Before You Begin
 
 This book makes you one promise: every number in it comes with the arithmetic attached. When it says a 70% royalty, it shows you what’s subtracted before that 70% ever reaches your account. When it says a category trick works, it tells you which part is a documented KDP mechanism and which part is a reasonable-but-unverifiable inference about how the algorithm behaves. When a chart is illustrating a shape rather than a disclosed statistic — a pricing curve, a launch-week effect, a backlist compounding over years — its caption says so, in words, on the chart itself. Nobody selling you a course about “the Amazon algorithm” actually has its source code, and a book that pretends otherwise is the first warning sign covered in Chapter 13.
+
+Say the goal plainly, since the title already does: the point of everything that follows is making real, durable money from what you publish, not admiring the craft of publishing for its own sake. Most of what actually stands between a finished manuscript and real income isn’t talent — it’s a specific, learnable set of hurdles: an empty review section that makes cold traffic distrust an otherwise good page, a price picked by guesswork instead of arithmetic, a category chosen for ego instead of visibility, a scam that extracts money before the book has sold a single copy, a first year of income too thin to notice before the compounding in Chapter 14 has a chance to start. Every chapter ahead exists to get you past one specific hurdle on that list, in order, not to make you a more refined hobbyist.
 
 That distinction matters because self-publishing has two very different reputations. To one crowd, it’s the most honest deal in publishing: no gatekeeper, a royalty rate three to seven times what traditional trade publishing pays, and a payment that lands every month for as long as the book sells. To another crowd, it’s a swamp of “publish a book in a weekend with AI” grifters, hybrid presses that charge new authors thousands of dollars for what a KDP account gives away free, and get-rich-quick threads that quietly stop posting income updates once the truth sets in. Both reputations are earned. The mechanics in this book are the same mechanics the grifters misrepresent — the difference is entirely in whether you use them to publish something worth reading, priced and positioned honestly, or to flood a category with noise until Amazon’s own enforcement catches up with you.
 
@@ -127,6 +129,8 @@ At 35% (say the author instead priced it at $2.49, just under the band): $2.49 �
 If you enroll a book in KDP Select (Chapter 12 covers the exclusivity trade-off that comes with it), it becomes available to Kindle Unlimited and Kindle Owners’ Lending Library subscribers, and you’re paid not a royalty per “sale” but a per-page rate out of a shared monthly fund — Amazon sets aside a pool of money each month and divides it by the total normalized pages read across all Select books. The per-page rate therefore moves slightly every month; it has historically sat in the range of roughly $0.004–$0.005 per page (KDP announces the exact figure after each month closes, in your Reports dashboard). Pages are counted using Amazon’s own KENPC (Kindle Edition Normalized Page Count) standard, not your Word document’s page count, so formatting choices — font embedding, image sizing, front-matter bloat — can shift your page count even though the words didn’t change.
 
 > Worked example. A 300-KENPC-page book fully read by one subscriber, in a month where the fund pays $0.0045/page: 300 × $0.0045 = $1.35 for that one full read — comparable to, sometimes less than, a single 70%-royalty sale, but earned from a reader who might never have paid $4.99 up front. Whether that trade is good for your book is exactly the question Chapter 12 answers.
+
+For a sense of scale with a real book instead of a round number: this book runs about 23,000 words. Amazon doesn’t publish its exact KENPC formula, but the figure self-publishers have reverse-engineered by comparing known word counts against observed KENPC values clusters around 250 words per normalized page — which would put this book at roughly 90 KENPC pages, and one full Kindle Unlimited read of it at around $0.40 at the rate used above. Treat that as an estimate, not a receipt; the point is that a word count and a KU payout are the same number wearing different clothes.
 
 ### Print: paperback and hardcover
 
@@ -222,7 +226,7 @@ Amazon requires disclosure. KDP’s publishing questionnaire asks you to declare
 
 A human has to be the last editorial judgment. Whatever tools condense, draft, or suggest, the decision that a sentence is accurate, that an example is correct, and that a chapter says what you actually mean has to be made by a person who is accountable for it — which in practice means the fact-check and consistency passes above are not optional just because a tool helped write the first draft.
 
-Chapter 17 covers AI's use elsewhere in the business (covers, ad copy, keyword research), states the disclosure rule in full, and names a specific process — condensing existing books and auditing the result until it no longer resembles them — that is not the same thing as what this section describes.
+Chapter 17 covers AI’s use elsewhere in the business (covers, ad copy, keyword research), states the disclosure rule in full, and names a specific process — condensing existing books and auditing the result until it no longer resembles them — that is not the same thing as what this section describes.
 
 ### A minimum revision checklist
 
@@ -338,9 +342,9 @@ Where do the actual phrases come from? The single best free source is Amazon’s
 
 At upload, KDP lets you choose up to three browse categories from Amazon’s BISAC-based category tree. The instinct to pick the biggest, most prominent category (“Business & Money”) is usually a mistake — it’s an enormous room where you’re competing against every business book on Amazon for attention. The more specific leaf category you can honestly claim (“Business & Money → Small Business & Entrepreneurship → Home-Based Businesses,” for instance) is a much smaller room, which means a given level of sales velocity moves you much further up its charts — including, for a genuinely small category, potentially far enough to earn an “#1 Best Seller” orange tag, which is itself a credibility signal that helps convert future browsers.
 
-Amazon’s full category list is considerably longer than the categories exposed in KDP’s own self-service picker. If you find categories in Amazon’s published category list that fit your book better than anything in the picker, you can request them directly: contact KDP support through your bookshelf (Contact Us → the appropriate content or metadata topic) and give them the exact category paths, taken from Amazon’s official category list, that you want added. This is a real, ordinary support request, not a workaround — support staff add categories manually all the time when an author identifies a better-fitting one that the upload picker doesn’t surface.
+Amazon’s full category list is considerably longer than the three slots exposed in KDP’s own self-service picker, so choose your three with real care at upload rather than treating the choice as a draft you’ll casually widen later. More generally, whatever question or problem comes up anywhere along the way — categories included, but by no means limited to them — [KDP support](https://kdp.amazon.com/en_US/contact-us) is there to help, and a direct answer from them beats guessing from any outside source, including this book.
 
-> **Key takeaway: Both categories and keywords are free, instant, and editable — you can revisit them the day after launch based on how the book is actually performing. Set them thoughtfully at launch, but don’t treat the first choice as permanent; if a category isn’t producing visibility after a reasonable window, it costs nothing to request a better-fitting one.**
+> **Key takeaway: Keywords are free, instant, and editable — you can revisit them the day after launch based on how the book is actually performing. Categories are chosen once at upload from a shorter list than Amazon’s full category tree contains, so choose your three with real care.**
 
 ### Your product page: the description does the selling the cover can’t
 
@@ -455,6 +459,8 @@ An ad is profitable exactly when its ACOS is below your break-even ACOS — the 
 Break-even ACOS ≈ Royalty per Copy ÷ Sale Price × 100%
 
 > Worked example. A $4.99 ebook earning a $3.31 net royalty (Chapter 2’s worked example) has a break-even ACOS of 3.31 ÷ 4.99 ≈ 66%. Spend $10 in ads and sell three copies attributed to that spend (royalty: $9.93) and your actual ACOS is 10 ÷ 9.93 ≈ 101% — losing money on the ad, even though it “worked” in the sense of generating sales. The same $10 spend producing five sales (royalty: $16.55) gives an ACOS of 10 ÷ 16.55 ≈ 60% — under the 66% break-even line, and genuinely profitable.
+
+Break-even is a floor, not a target. Community-reported benchmarks among self-published authors commonly put a healthy target ACOS for a single nonfiction title with no backend series well below that floor — often cited in the 20–35% range — with more room to run a break-even or slightly negative campaign on a series book that has real read-through behind it. Expect the first thirty to sixty days of any new campaign to run hotter than your real target while it gathers the data described below; a high ACOS in that window is normal, not a verdict on the book.
 
 ![figure](../figures/fig11.png)
 
@@ -584,6 +590,16 @@ Two mistakes show up often enough to name directly: assuming something is public
 
 *Figure 13.1 — The common thread across every trap above: a shortcut that trades a small, certain cost now (an editor’s fee, a slower honest launch) against a large, uncertain cost later (a suspended account, a damaged reputation, a copyright claim) — and the trade almost never pays off in your favor.*
 
+### Two more triggers worth naming directly
+
+Two more patterns come up often enough in independently reported KDP account actions to name on their own, and neither one requires the bad intent behind the traps described above — an author can trigger either while doing something that felt entirely reasonable at the time.
+
+Duplicate or near-duplicate content: publishing the same book, or a lightly reworded version of it, under a new title, a new cover, or a new account. This is the specific risk a poorly done public-domain modernization (Chapter 17) can run into even with no intent to deceive anyone, and it’s also what a “relaunch” of a book that didn’t sell can look like to Amazon’s systems if the fix was cosmetic rather than substantive.
+
+KDP Select exclusivity violations: while a book is enrolled in Select (Chapter 12), its ebook can’t be sold, given away, or distributed anywhere else Amazon doesn’t control — not another retailer, not your own website, not a bulk-emailed review PDF. The common way authors trip this isn’t defiance, it’s forgetting: a book enrolled in Select months ago, then quietly included in a later website giveaway or bundle without checking whether it’s still exclusive.
+
+Add banned or misleading backend keywords (Chapter 7) and a skipped AI-content disclosure (Chapters 4 and 17) to the list, and that covers most of what independent trackers of KDP account actions report repeatedly, alongside the review-manipulation and copyright traps already named above. None of the five requires malice — which is exactly the argument for treating this chapter as a checklist to run against your own upcoming launch, not just a warning about other people’s bad behavior.
+
 ### The best filter: check KDP’s own help pages first
 
 A large share of “secret” paid courses promising to reveal how self-publishing really works are, on close inspection, reselling information KDP already publishes for free in its own Help pages and this book’s chapters. Before paying for any course or service that claims special insider knowledge of “the algorithm” or “what really works,” spend twenty minutes checking whether the claim is actually just documented KDP policy with a markup attached. Often, it is.
@@ -700,6 +716,8 @@ The promotional newsletters that actually move the needle — the ones worth pay
 
 A standalone debut only gets one chance to collect money from a given reader: that one purchase, or those pages read. A series gets to collect again. If half the readers who finish book one go on to buy book two at full royalty, then book one can reasonably be priced as bait to get them there. If there is no book two, that same low price is just a cheap book with nothing behind it. The authors who report genuinely real income are disproportionately the ones with several related titles, not the ones with one beloved book and a perfect product description.
 
+Amazon doesn’t publish a read-through figure, so what counts as “healthy” is only ever self-reported — but series authors who track their own numbers commonly describe 50 to 60 percent from book one to book two as solid, with anything well under half treated as a sign to fix book one’s ending, blurb, or back matter rather than a reason to rush book three into print. A free or heavily discounted book one pulls that number down on its own, since it fills the funnel with readers who paid nothing and were never sorted for fit — weigh read-through from a launch discount against another discounted launch, not against a full-price one, or the comparison won’t mean much.
+
 Kindle Unlimited complicates this picture in a useful way: a borrow counts as a commercial event the moment it happens, and the pages read after that pay out separately, from a shared pool (Chapter 2). A book that converts borrows well but loses most of its readers by chapter two has a real leak in it — and advance readers who either finish the book or stop partway through and tell you why are a much cheaper way to find that leak than discovering it after a month of paid ads.
 
 ### The first-review problem, restated as cash flow
@@ -806,7 +824,7 @@ Goodreads works under an entirely different rule: it has no spend minimum at all
 
 For advance copies specifically, Goodreads now asks the reader to confirm they actually read the book (marking it Did Not Finish is an allowed answer) and to pick a source for how they got it — author or publisher, Giveaway, NetGalley, or other — and that source can display alongside the review. Marking a book “Want to Read” isn’t enough to leave a star rating; the book has to sit on Read, Currently Reading, or Did Not Finish. Never tell readers to hide the fact that they received a free copy on Goodreads — the source picker itself is how that gets disclosed.
 
-![Can this reader actually post a review: Amazon's $50 spend-history check versus Goodreads' no-minimum rule](../figures/fig03_review_eligibility.png)
+![Can this reader actually post a review: Amazon’s $50 spend-history check versus Goodreads’ no-minimum rule](../figures/fig03_review_eligibility.png)
 
 #### The first bad one
 
@@ -969,55 +987,67 @@ One last limit worth stating plainly: this book cannot choose your tropes for yo
 
 ## Chapter 17: Using AI Without Losing the Business
 
-Chapter 4 already covered the core rule for AI in your manuscript: it can speed up the unglamorous parts of writing, disclosure to KDP is mandatory, and a human stays the last editorial judgment. Chapter 13 covered the volume version of misusing it — flooding categories with thin, minimally reviewed AI output. This chapter is the rest of it: where AI genuinely helps everywhere else in the business, the disclosure rule stated in full, and the one line that separates "AI helped me write my book" from "I laundered someone else's" — because that line gets crossed by processes that sound perfectly professional right up until the step that gives them away.
+Chapter 4 already covered the core rule for AI in your manuscript: it can speed up the unglamorous parts of writing, disclosure to KDP is mandatory, and a human stays the last editorial judgment. Chapter 13 covered the volume version of misusing it — flooding categories with thin, minimally reviewed AI output. This chapter is the rest of it: where AI genuinely helps everywhere else in the business, the disclosure rule stated in full, and the one line that separates “AI helped me write my book” from “I laundered someone else’s” — because that line gets crossed by processes that sound perfectly professional right up until the step that gives them away.
 
 ### Where it earns its place beyond the manuscript
 
 The same tools that help with a first draft are useful at almost every later stage of this pipeline, used the same way: as a fast first pass a person then judges, not as the final decision.
 
 - **Cover concepts** (Chapter 6): generating rough visual directions or thumbnail-test variants to react to, before a human designer executes the one that actually works. An AI-generated *final* cover image carries its own disclosure obligation — see below — separate from the manuscript text.
-- **Ad copy and product-page description drafts** (Chapters 7 and 10): fast variants of a headline, a bullet list of benefits, or an ad's body text, for you to pick from and edit — the same "several alternatives, human picks and rewrites" pattern Chapter 4 already described for manuscript prose.
-- **Keyword and category brainstorming** (Chapter 7): surfacing phrases and angles you might not have thought of, which you then verify the way this whole book insists on — checking they're real search terms and an honest fit, not just plausible-sounding.
-- **Research synthesis in your own words**: using AI to summarize a pile of your own notes or a topic you're already researching, then writing the actual explanation yourself. This is meaningfully different from the trap in the next section, and the difference is exactly what that section is about.
+- **Ad copy and product-page description drafts** (Chapters 7 and 10): fast variants of a headline, a bullet list of benefits, or an ad’s body text, for you to pick from and edit — the same “several alternatives, human picks and rewrites” pattern Chapter 4 already described for manuscript prose.
+- **Keyword and category brainstorming** (Chapter 7): surfacing phrases and angles you might not have thought of, which you then verify the way this whole book insists on — checking they’re real search terms and an honest fit, not just plausible-sounding.
+- **Research synthesis in your own words**: using AI to summarize a pile of your own notes or a topic you’re already researching, then writing the actual explanation yourself. This is meaningfully different from the trap in the next section, and the difference is exactly what that section is about.
+
+### Building background knowledge on a topic, the legitimate way
+
+Writing competently about a topic you don’t already know cold takes real background research, and there’s nothing improper about drawing on more than one kind of source to get there — the question is always what you do with what you gather, not how many places you looked. A straightforward, legitimate process runs through three steps:
+
+1. **General search first.** A search engine orients you fast: current terminology, what’s actually being asked and argued about the topic right now, recent developments a book written five years ago wouldn’t know about. Treat this as a map of the territory, not a source to write from directly — you’re finding out what’s out there and which questions matter, not collecting text to reuse.
+2. **AI for explanation and gap-filling.** Ask an AI tool to explain a concept, walk through an argument, or suggest an analogy the way you’d ask a knowledgeable colleague — not “condense these three specific books,” but “explain X” or “what’s the standard way to think about Y.” Use the answer to test and sharpen your own understanding, then write the explanation yourself, in your own words and your own structure. This is the same research synthesis named above, and it’s exactly why the distinction matters: you’re the one producing the explanation that ends up on the page.
+3. **Read what’s already published in the space — condensing and merging is fine here, as background.** Reading other books on your topic is normal, expected preparation, and for a topic two or three existing books already cover, condensing each one’s key content into your own notes and merging those notes into one synthesized picture of what the field already says is exactly what a literature review or a research binder is — a legitimate way to get oriented fast instead of slowly. The rule that keeps this a research technique rather than the trap in the next section: those merged notes exist to build your own understanding, and nothing else. Close them before you draft, and write the actual manuscript from what you now know, in your own words, your own structure, your own examples — not by editing the merged notes themselves into publishable prose.
+
+None of this is the trap the next section names, as long as the condensing and merging stays on the input side, feeding your own understanding, and never becomes the output you edit into your book. The difference was never about how many sources you touch, or even whether you condense them — it’s whether the condensed material stays private research or quietly turns into the draft. If the thing you’re polishing into a finished chapter is the condensation itself, you’ve crossed into the next section’s trap, no matter how good your notes were.
 
 ### The disclosure rule, stated precisely
 
-KDP's publishing questionnaire requires you to disclose AI involvement, and the platform draws a specific line worth stating exactly rather than approximately:
+KDP’s publishing questionnaire requires you to disclose AI involvement, and the platform draws a specific line worth stating exactly rather than approximately:
 
-> **Key takeaway:** *AI-generated* content — text, images, or translations an AI tool produced, even if you edited the result afterward — must be disclosed. *AI-assisted* content — where you wrote or created it yourself and a tool only edited, refined, error-checked, or helped you brainstorm — does not need to be disclosed. The distinction is Amazon's to draw, not yours to interpret generously: get it wrong and the risk is the listing coming down, not a warning email. Disclosure happens privately at upload and never appears on the product page. See [KDP Help: Content Guidelines](https://kdp.amazon.com/en_US/help/topic/G200672390) (G200672390) before you check either box — for the manuscript, the cover, or both.
+> **Key takeaway:** *AI-generated* content — text, images, or translations an AI tool produced, even if you edited the result afterward — must be disclosed. *AI-assisted* content — where you wrote or created it yourself and a tool only edited, refined, error-checked, or helped you brainstorm — does not need to be disclosed. The distinction is Amazon’s to draw, not yours to interpret generously: get it wrong and the risk is the listing coming down, not a warning email. Disclosure happens privately at upload and never appears on the product page. See [KDP Help: Content Guidelines](https://kdp.amazon.com/en_US/help/topic/G200672390) (G200672390) before you check either box — for the manuscript, the cover, or both.
 
-That same distinction is why "I used AI to help me write" and "AI wrote it and I edited it" are not the same sentence, even when the finished pages look similar. Which side of the line a given book falls on is a fact about how it was made, not a matter of how confident you feel about your edits.
+That same distinction is why “I used AI to help me write” and “AI wrote it and I edited it” are not the same sentence, even when the finished pages look similar. Which side of the line a given book falls on is a fact about how it was made, not a matter of how confident you feel about your edits.
 
 ### The trap that looks like a process
 
-A specific pattern is worth naming directly, because it's packaged persuasively enough that it can look like professional workflow rather than what it actually is: take a small number of existing books on the same topic, have AI condense and merge them, then run a "similarity audit" whose job is to find and eliminate close parallels with those specific sources — in wording, in examples, in the particular way a concept is explained — until the draft no longer looks traceably derived.
+A specific pattern is worth naming directly, because it’s packaged persuasively enough that it can look like professional workflow rather than what it actually is: take a small number of existing books on the same topic, have AI condense and merge them, then run a “similarity audit” whose job is to find and eliminate close parallels with those specific sources — in wording, in examples, in the particular way a concept is explained — until the draft no longer looks traceably derived.
 
-The tell is the audit step itself. Legitimate research doesn't need to check a finished manuscript against a short list of specific source books to scrub out whatever still resembles them — that step only exists because the process expects resemblance and is designed to launder it. Facts and concepts in a textbook aren't protected by copyright; the specific way an author explains them, their chosen analogies, and their pedagogical structure are exactly what copyright protects. A workflow whose last move is erasing detectable similarity to particular copyrighted works isn't producing independent material — it's producing a derivative one dressed to pass inspection.
+The tell is the audit step itself. Legitimate research doesn’t need to check a finished manuscript against a short list of specific source books to scrub out whatever still resembles them — that step only exists because the process expects resemblance and is designed to launder it. Facts and concepts in a textbook aren’t protected by copyright; the specific way an author explains them, their chosen analogies, and their pedagogical structure are exactly what copyright protects. A workflow whose last move is erasing detectable similarity to particular copyrighted works isn’t producing independent material — it’s producing a derivative one dressed to pass inspection.
 
-This isn't only a copyright problem you'd face from the original authors. It's also a direct hit on the account-level trust this entire book keeps coming back to (Chapter 13): a catalog built this way is one infringement claim away from every title on the account, not just the one book, and "an AI tool did the condensing" is not a defense KDP or a court is likely to find persuasive. If you want to write a textbook or a popular-science book on a subject other authors have already covered, the legitimate version of that project starts with researching the actual subject matter — not condensing their books — and produces your own explanations, your own examples, and your own structure, informed by the field rather than assembled from a few competitors' pages.
+This isn’t only a copyright problem you’d face from the original authors. It’s also a direct hit on the account-level trust this entire book keeps coming back to (Chapter 13): a catalog built this way is one infringement claim away from every title on the account, not just the one book, and “an AI tool did the condensing” is not a defense KDP or a court is likely to find persuasive. If you want to write a textbook or a popular-science book on a subject other authors have already covered, the legitimate version of that project starts with researching the actual subject matter — not condensing their books — and produces your own explanations, your own examples, and your own structure, informed by the field rather than assembled from a few competitors’ pages.
 
 ### Claims that do not survive contact with a copyright claim
 
-- That rewriting a summary in different words makes it original. Originality lives in structure, explanation, and example — not just vocabulary — and a similarity audit built to catch exactly that isn't evidence of originality, it's evidence the process expected to need one.
-- That AI involvement dilutes responsibility for what gets published. KDP's disclosure requirement and ordinary copyright law both attach to the publishing account, not to whichever tool typed the words.
-- That a book has to *look* AI-flooded (thin, generic, unedited) to be a policy problem. A polished, heavily-edited book built by laundering specific existing sources is a different, more serious problem than the volume-flooding trap in Chapter 13 — better production values don't fix a derivative-work claim.
+- That rewriting a summary in different words makes it original. Originality lives in structure, explanation, and example — not just vocabulary — and a similarity audit built to catch exactly that isn’t evidence of originality, it’s evidence the process expected to need one.
+- That AI involvement dilutes responsibility for what gets published. KDP’s disclosure requirement and ordinary copyright law both attach to the publishing account, not to whichever tool typed the words.
+- That a book has to *look* AI-flooded (thin, generic, unedited) to be a policy problem. A polished, heavily-edited book built by laundering specific existing sources is a different, more serious problem than the volume-flooding trap in Chapter 13 — better production values don’t fix a derivative-work claim.
 
-### What copyright actually protects — and a legitimate way to adapt someone else's work
+### What copyright actually protects — and a legitimate way to adapt someone else’s work
 
-Copyright protects the specific way an idea gets expressed — wording, chosen analogies, structure — not the underlying facts or ideas themselves ([U.S. Copyright Act §102(b)](https://www.copyright.gov/title17/92chap1.html)). That is exactly why "I kept the facts and just rewrote the wording" is weaker than it sounds for nonfiction: the analogies, the structure, and the explanatory choices *are* the expression, not decoration around it.
+Copyright protects the specific way an idea gets expressed — wording, chosen analogies, structure — not the underlying facts or ideas themselves ([U.S. Copyright Act §102(b)](https://www.copyright.gov/title17/92chap1.html)). That is exactly why “I kept the facts and just rewrote the wording” is weaker than it sounds for nonfiction: the analogies, the structure, and the explanatory choices *are* the expression, not decoration around it.
 
 None of the following, on its own, makes a derivative work legal — each gets repeated constantly, and none of them holds up:
 
-- "I changed a set percentage of it."
-- "AI wrote the new wording."
-- "I credited the original author."
-- "It's transformative" — transformative purpose is one factor in a four-factor U.S. test, not a standalone pass (see the [Fair Use Index](https://www.copyright.gov/fair-use/)).
-- "It's for an educational market."
-- "Only the structure or approach is the same, not the exact words."
+- “I changed a set percentage of it.”
+- “AI wrote the new wording.”
+- “I credited the original author.”
+- “It’s transformative” — transformative purpose is one factor in a four-factor U.S. test, not a standalone pass (see the [Fair Use Index](https://www.copyright.gov/fair-use/)).
+- “It’s for an educational market.”
+- “Only the structure or approach is the same, not the exact words.”
+- “I didn’t charge money for it.” Commercial gain is one factor courts weigh, not a threshold — plenty of noncommercial uses still infringe.
+- “It’s a parody.” Parody, satire, and pastiche are specific, narrow legal categories with their own requirements; calling something a parody doesn’t make it one, and a work that doesn’t actually comment on or mock its source through the borrowing itself won’t qualify just because the author labels it that way.
 
-If the goal is genuinely to build on someone else's existing work rather than your own research, there are exactly two legitimate paths: get a license from the rights holder, or adapt something actually in the public domain — not just old, not just freely downloadable somewhere, but verified public domain in every territory you'll sell in. Duration rules are jurisdiction-specific and don't track intuition: a modern translation of a public-domain original can still be separately protected, and an "old" edition can carry its own separately-copyrighted introduction, annotations, or cover art ([Circular 15A: Duration of Copyright](https://www.copyright.gov/circs/circ15a.pdf)). Verify the exact edition and every layer of it before you build anything on it — not after.
+If the goal is genuinely to build on someone else’s existing work rather than your own research, there are exactly two legitimate paths: get a license from the rights holder, or adapt something actually in the public domain — not just old, not just freely downloadable somewhere, but verified public domain in every territory you’ll sell in. Duration rules are jurisdiction-specific and don’t track intuition: a modern translation of a public-domain original can still be separately protected, and an “old” edition can carry its own separately-copyrighted introduction, annotations, or cover art ([Circular 15A: Duration of Copyright](https://www.copyright.gov/circs/circ15a.pdf)). Verify the exact edition and every layer of it before you build anything on it — not after.
 
-> **Key takeaway:** "I checked, and this exact text and translation are public domain everywhere I'm selling" is a real starting point. "It felt old enough" is not, and has ended author careers that started from exactly that assumption.
+> **Key takeaway:** “I checked, and this exact text and translation are public domain everywhere I’m selling” is a real starting point. “It felt old enough” is not, and has ended author careers that started from exactly that assumption.
 
 ---
 
@@ -1058,7 +1088,7 @@ If the goal is genuinely to build on someone else's existing work rather than yo
 
 - [ ] All seven backend keyword slots used, as full phrases, none repeating title/subtitle words (Chapter 7)
 
-- [ ] Most specific honest category chosen in all three slots; additional categories requested from KDP support if a better fit exists outside the picker (Chapter 7)
+- [ ] Most specific honest category chosen in all three slots — chosen with care (Chapter 7)
 
 - [ ] Price set deliberately inside (or intentionally outside) the 70% band, not by default (Chapter 8)
 
