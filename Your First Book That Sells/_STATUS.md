@@ -1,6 +1,6 @@
 # STATUS — Your First Book That Sells
 
-Last updated: 2026-09-28 (session 2) — **REV3 folded in; title and author confirmed**
+Last updated: 2026-09-28 (session 3) — **editorial pass: fixed a math error, added sourced material, added diagrams**
 
 ## Where this stands
 
@@ -61,6 +61,41 @@ three data tables are byte-for-byte identical to REV2's. Two insertions:
 Both insertions were already clean of straight quotes, so no typography
 normalization was needed this pass. No wording, numbers, or claims were
 otherwise changed.
+
+## Session 3: editorial pass on the one existing chapter
+
+A close read of `manuscript/The First-Review Problem.md` turned up one real
+error and a few gaps, all now fixed:
+
+- **The royalty table's numbers didn't match its own stated method.** The
+  text says the ~$0.15/MB delivery fee is deducted under the 70% royalty; the
+  worked table wasn't actually deducting it, overstating every 70%-band net
+  by roughly 21 cents. Recomputed all rows; also split the old combined
+  "$1.99 or $13+" row, since the two have different failure modes (a bad
+  royalty rate vs. fine math but no proof to hold the price).
+- **One case study didn't clear this chapter's own sourcing bar.** The
+  "Urban fantasy quartet" example was secondhand and anonymous, which the
+  chapter's house style explicitly rules out for case studies. Relabeled it
+  as an explicitly illustrative composite rather than pretending it was a
+  named, checkable source like the Arenson and Sell examples.
+- **Two terms were used without ever being defined** ("the quiet water
+  test," an unexplained "ABA" acronym) — added an inline definition for the
+  first, dropped the acronym for the second since it added no information.
+- Added, all separately sourced (see inline links in the manuscript): a
+  section on handling a negative first review (not previously covered at
+  all), KDP's AI-content disclosure rule (distinct from AI-written *reviews*,
+  which the chapter already covered) with a citation to KDP Help: Content
+  Guidelines (G200672390), a note that royalty bands and review-eligibility
+  spend bars are both set per-marketplace rather than globally, a worked
+  pricing example for a heavier illustrated file, sourced ARC-response-rate
+  ranges, and a new named reference (Michael Anderle / 20Booksto50K,
+  explicitly scoped as a philosophy rather than a launch case study).
+- Added three diagrams under `figures/`: the launch timeline (§X), the
+  pricing decision tree (§V), and the review-eligibility flow (§VI).
+
+Chapter is now ~5,800 words, up from ~4,500. Not literally doubled — the
+added material is real and sourced, not padding, and stopped where the
+sourcing did.
 
 ## Open questions for the author
 
