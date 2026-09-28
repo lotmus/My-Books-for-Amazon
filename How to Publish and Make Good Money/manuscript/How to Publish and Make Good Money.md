@@ -128,6 +128,8 @@ If you enroll a book in KDP Select (Chapter 12 covers the exclusivity trade-off 
 
 > Worked example. A 300-KENPC-page book fully read by one subscriber, in a month where the fund pays $0.0045/page: 300 × $0.0045 = $1.35 for that one full read — comparable to, sometimes less than, a single 70%-royalty sale, but earned from a reader who might never have paid $4.99 up front. Whether that trade is good for your book is exactly the question Chapter 12 answers.
 
+For a sense of scale with a real book instead of a round number: this book runs about 23,000 words. Amazon doesn't publish its exact KENPC formula, but the figure self-publishers have reverse-engineered by comparing known word counts against observed KENPC values clusters around 250 words per normalized page — which would put this book at roughly 90 KENPC pages, and one full Kindle Unlimited read of it at around $0.40 at the rate used above. Treat that as an estimate, not a receipt; the point is that a word count and a KU payout are the same number wearing different clothes.
+
 ### Print: paperback and hardcover
 
 Print royalties don’t use a percentage-of-price plan the way ebooks do; they use a formula:
