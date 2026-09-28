@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Assemble Lothar's Holistic Brain Farts from the condensed markdown fragments.
+"""Assemble Sparks: An Almanac of Knowledge from the condensed markdown fragments.
 
 Usage: python build_almanac.py [output.docx]
 The table of contents is written directly into the file as hyperlinked entries
@@ -424,13 +424,13 @@ def linkify_document():
 def build(out_path):
     doc = docx.Document()
     setup_styles(doc)
-    doc.core_properties.title = "Lothar's Holistic Brain Farts"
+    doc.core_properties.title = "Sparks: An Almanac of Knowledge"
     doc.core_properties.author = "Lothar J. Musiol"
     doc.core_properties.comments = "An almanac of highlights compiled from the author's non-fiction catalog."
 
     # Title page
     flush_left(doc.add_paragraph(), space_before=170, align=WD_ALIGN_PARAGRAPH.CENTER)
-    t = doc.paragraphs[-1].add_run("Lothar's Holistic Brain Farts")
+    t = doc.paragraphs[-1].add_run("Sparks: An Almanac of Knowledge")
     t.bold = True
     t.font.size = Pt(34)
     t.font.name = HEADLINE_FONT
