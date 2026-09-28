@@ -1627,3 +1627,80 @@ hyperlinks, zero straight quotes remaining, zero whole-word "toward" remaining, 
 or American "judgment" remaining, all ~28 fix phrases confirmed present verbatim, Lesson 14's list
 paragraphs confirmed free of numPr/List-Paragraph styling, and the new sub/superscript runs confirmed
 via run-level formatting inspection (not just text content).
+
+## Slam-review fixes (9/28/2026)
+
+Four hostile, single-axis reviewers (character/dialogue, setting/place/time, plot logic, appendix
+didactic calibration) were dispatched against the full manuscript at the author's explicit request
+("slam the author with all your adverse findings"). Full findings logged in `SLAM_REVIEW.md`. Before
+fixing anything, each finding was re-verified against the actual manuscript text (paragraph index +
+exact quote), because the appendix reviewer in particular turned out to cite paragraph indices that
+didn't match its own claims on inspection (e.g. its "Lesson 2, operator non-commutation, no
+scaffolding" finding cited a passage that is actually in Lesson 18 and unrelated; the real Lesson 2
+"AB ≠ BA" line is correctly gated inside an explicitly-marked "Going deeper (skip freely)" box with
+proper lead-in - not a problem. Its Lesson 4 ΔH-formula and Wigner's Friend citations pointed at
+paragraph indices ~600 off from where those lessons actually start). Those unverifiable/incorrect
+appendix findings were **not** acted on. Two appendix findings did check out and were fixed.
+
+**Plot logic (8 fixes, the worst-scoring category):**
+- The central contradiction: Fainrose calls 4C's evaporation "single-digit hours" mid-book, then the
+  actual fix takes eleven weeks, with her only acknowledgment being a one-line apology. Left the
+  original dialogue as-is (rewriting a already-published plot beat felt like the wrong fix) but the
+  season-window fix below removes the one piece of this that was an actual factual contradiction
+  rather than a dramatic choice; the "why nobody holds her accountable" critique is a legitimate
+  taste note, not something patched here without rewriting the scene structure.
+- Closed the unresolved "PROJECTED FULL DECORRELATION: UNDER THE HOUR" cascade warning (Ch7) with one
+  new sentence confirming containment before the chapter cuts away.
+- Softened Fainrose's suspiciously tidy knowledge of 4C's construction (Ch6) - it explicitly promised
+  a "worry about later" payoff that never arrives; now reads as characterisation (ex-Ministry
+  physicist) instead of a planted, unresolved mystery.
+- Softened the unresolved "mystery door" beat at the end of Ch2 for the same reason - removed the
+  "unfinished business" framing that promised a payoff the book never delivers.
+- Seeded one earlier flicker of conscience in Venn (Ch3, right after he's physically bested) ahead of
+  his circumstantial epilogue redemption, which previously had zero dramatized turn behind it.
+- Added a one-line callback (via Eilstein, Ch14 area) to the self-erasing notebook entry from Chapter
+  1 - thematically exactly what Eilstein feeds on, and previously never revisited.
+- Added an explicit line tying the Outer Fenwick moon/"forty-one clipboards" foreshadowing to
+  Sub-District 6 when the team first arrives there - the connection existed structurally (the climax
+  *is* set there) but was never stated on the page.
+- Paid off Beatrix's "retired physicist... allegedly" neighbour tease from Ch2 with an epilogue line
+  confirming it was Schrottfinger - previously gestured at and never confirmed.
+
+**Setting/time (2 fixes):**
+- Fixed a real chronology contradiction: the opening line claimed the story happens "between October
+  and roughly May," but working backward from "eleven weeks" granted at the injunction hearing and
+  "nine of them" elapsed "by the second week of November," the inciting incident has to fall in early
+  September - outside the stated window. Changed the opening to "between September and roughly May."
+- Fixed an address inconsistency: the epilogue's restored photograph goes back on the mantelpiece at
+  "Twenty-Two Coldharrow Rise," a street name never established anywhere else - Mrs Chain's street was
+  established in Ch3 as Elm Grove (renamed "Chain Terrace" by the Ministry, then implicitly restored).
+  Changed to "Twenty-Two Elm Grove" to match. (The other two "Coldharrow" uses the reviewer flagged -
+  the Ministry's home district, and Jago's aside about "a district over Coldharrow way" - aren't
+  actually contradictory on inspection; a borough can contain the Ministry and also have areas people
+  refer to directionally. Left those alone.)
+
+**Character/dialogue (4 fixes, targeted - not a full-cast voice rewrite):**
+- De-duplicated Jack Bellboy's voice description ("unhurried and precise") from Mrs Chain's near-
+  identical phrasing; gave him a distinct trait (bluntness earned through decades of being right,
+  not just calm precision).
+- Added an early physical description of Lolly herself (Ch1) so she isn't first visually established
+  through Priddy's POV a third of the way into the book.
+- Gave Gideon one genuine interior beat (Ch3) beyond the running doorframe/clumsiness gag - a private
+  thought the reader sees but Lolly doesn't.
+- Gave Jago's promised-but-unfulfilled "owes people money" Cast-of-Characters trait one concrete
+  instance (Ch5, the Croydon car paragraph).
+- Not attempted: full voice differentiation across the ~8-9 characters who share the "flat/quiet/
+  precise/unhurried" template. That's a cast-wide stylistic pass, not a handful of surgical edits, and
+  is flagged here as a real, larger undertaking rather than silently left off the list.
+
+**Appendix (2 fixes - the only two findings that verified):**
+- Trimmed Lesson 17's negentropy "idea, step by step" point 4, which repeated point 2's "not a
+  loophole, it's bookkeeping" phrasing verbatim; kept only the new Brillouin/information content.
+- Added a one-clause plain-language gloss for "vacuum permittivity" in the Backlog's fine-structure-
+  constant entry, the one genuinely undefined term in an otherwise-named list of quantities.
+
+Verification: paragraph count 3181 (3173 + 8, one per narrative insertion above - all pure insertions,
+no existing paragraphs split or merged), 287/287 bookmark pairs balanced, 410 hyperlinks unchanged,
+all 8 inserted paragraphs confirmed single-run/plain-formatted (no bold or italic bleed from the
+cloned anchor paragraph's run properties), all fix phrases confirmed present verbatim by direct
+re-read after save.
