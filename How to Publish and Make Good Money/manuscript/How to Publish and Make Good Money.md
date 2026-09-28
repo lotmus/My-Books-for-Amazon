@@ -340,9 +340,9 @@ Where do the actual phrases come from? The single best free source is Amazon’s
 
 At upload, KDP lets you choose up to three browse categories from Amazon’s BISAC-based category tree. The instinct to pick the biggest, most prominent category (“Business & Money”) is usually a mistake — it’s an enormous room where you’re competing against every business book on Amazon for attention. The more specific leaf category you can honestly claim (“Business & Money → Small Business & Entrepreneurship → Home-Based Businesses,” for instance) is a much smaller room, which means a given level of sales velocity moves you much further up its charts — including, for a genuinely small category, potentially far enough to earn an “#1 Best Seller” orange tag, which is itself a credibility signal that helps convert future browsers.
 
-Amazon’s full category list is considerably longer than the categories exposed in KDP’s own self-service picker. If you find categories in Amazon’s published category list that fit your book better than anything in the picker, you can request them directly: contact KDP support through your bookshelf (Contact Us → the appropriate content or metadata topic) and give them the exact category paths, taken from Amazon’s official category list, that you want added. This is a real, ordinary support request, not a workaround — support staff add categories manually all the time when an author identifies a better-fitting one that the upload picker doesn’t surface.
+Amazon’s full category list is considerably longer than the three slots exposed in KDP’s own self-service picker. Choose your three with real care at upload rather than treating the choice as a draft you’ll casually widen later — but if none of the three genuinely fits, or a specific leaf category from Amazon’s published category list seems like a clear match that the picker doesn’t offer, contacting [KDP support](https://kdp.amazon.com/en_US/contact-us) directly and describing exactly what you’re looking for is a reasonable, low-cost thing to try. Policy on what support can and can’t add changes without much notice, so treat their answer as current fact and don’t plan around any secondhand claim about it, including one in this book.
 
-> **Key takeaway: Both categories and keywords are free, instant, and editable — you can revisit them the day after launch based on how the book is actually performing. Set them thoughtfully at launch, but don’t treat the first choice as permanent; if a category isn’t producing visibility after a reasonable window, it costs nothing to request a better-fitting one.**
+> **Key takeaway: Keywords are free, instant, and editable — you can revisit them the day after launch based on how the book is actually performing. Categories are chosen once at upload from a shorter list than Amazon’s full category tree contains, so choose your three with real care. If something about categories — or anything else about your listing — doesn’t match what you expect, [KDP support](https://kdp.amazon.com/en_US/contact-us) is the right place to ask.**
 
 ### Your product page: the description does the selling the cover can’t
 
@@ -457,6 +457,8 @@ An ad is profitable exactly when its ACOS is below your break-even ACOS — the 
 Break-even ACOS ≈ Royalty per Copy ÷ Sale Price × 100%
 
 > Worked example. A $4.99 ebook earning a $3.31 net royalty (Chapter 2’s worked example) has a break-even ACOS of 3.31 ÷ 4.99 ≈ 66%. Spend $10 in ads and sell three copies attributed to that spend (royalty: $9.93) and your actual ACOS is 10 ÷ 9.93 ≈ 101% — losing money on the ad, even though it “worked” in the sense of generating sales. The same $10 spend producing five sales (royalty: $16.55) gives an ACOS of 10 ÷ 16.55 ≈ 60% — under the 66% break-even line, and genuinely profitable.
+
+Break-even is a floor, not a target. Community-reported benchmarks among self-published authors commonly put a healthy target ACOS for a single nonfiction title with no backend series well below that floor — often cited in the 20–35% range — with more room to run a break-even or slightly negative campaign on a series book that has real read-through behind it. Expect the first thirty to sixty days of any new campaign to run hotter than your real target while it gathers the data described below; a high ACOS in that window is normal, not a verdict on the book.
 
 ![figure](../figures/fig11.png)
 
@@ -586,6 +588,16 @@ Two mistakes show up often enough to name directly: assuming something is public
 
 *Figure 13.1 — The common thread across every trap above: a shortcut that trades a small, certain cost now (an editor’s fee, a slower honest launch) against a large, uncertain cost later (a suspended account, a damaged reputation, a copyright claim) — and the trade almost never pays off in your favor.*
 
+### Two more triggers worth naming directly
+
+Two more patterns come up often enough in independently reported KDP account actions to name on their own, and neither one requires the bad intent behind the traps described above — an author can trigger either while doing something that felt entirely reasonable at the time.
+
+Duplicate or near-duplicate content: publishing the same book, or a lightly reworded version of it, under a new title, a new cover, or a new account. This is the specific risk a poorly done public-domain modernization (Chapter 17) can run into even with no intent to deceive anyone, and it’s also what a “relaunch” of a book that didn’t sell can look like to Amazon’s systems if the fix was cosmetic rather than substantive.
+
+KDP Select exclusivity violations: while a book is enrolled in Select (Chapter 12), its ebook can’t be sold, given away, or distributed anywhere else Amazon doesn’t control — not another retailer, not your own website, not a bulk-emailed review PDF. The common way authors trip this isn’t defiance, it’s forgetting: a book enrolled in Select months ago, then quietly included in a later website giveaway or bundle without checking whether it’s still exclusive.
+
+Add banned or misleading backend keywords (Chapter 7) and a skipped AI-content disclosure (Chapters 4 and 17) to the list, and that covers most of what independent trackers of KDP account actions report repeatedly, alongside the review-manipulation and copyright traps already named above. None of the five requires malice — which is exactly the argument for treating this chapter as a checklist to run against your own upcoming launch, not just a warning about other people’s bad behavior.
+
 ### The best filter: check KDP’s own help pages first
 
 A large share of “secret” paid courses promising to reveal how self-publishing really works are, on close inspection, reselling information KDP already publishes for free in its own Help pages and this book’s chapters. Before paying for any course or service that claims special insider knowledge of “the algorithm” or “what really works,” spend twenty minutes checking whether the claim is actually just documented KDP policy with a markup attached. Often, it is.
@@ -701,6 +713,8 @@ The promotional newsletters that actually move the needle — the ones worth pay
 #### From read-through, not from a single SKU
 
 A standalone debut only gets one chance to collect money from a given reader: that one purchase, or those pages read. A series gets to collect again. If half the readers who finish book one go on to buy book two at full royalty, then book one can reasonably be priced as bait to get them there. If there is no book two, that same low price is just a cheap book with nothing behind it. The authors who report genuinely real income are disproportionately the ones with several related titles, not the ones with one beloved book and a perfect product description.
+
+Amazon doesn’t publish a read-through figure, so what counts as “healthy” is only ever self-reported — but series authors who track their own numbers commonly describe 50 to 60 percent from book one to book two as solid, with anything well under half treated as a sign to fix book one’s ending, blurb, or back matter rather than a reason to rush book three into print. A free or heavily discounted book one pulls that number down on its own, since it fills the funnel with readers who paid nothing and were never sorted for fit — weigh read-through from a launch discount against another discounted launch, not against a full-price one, or the comparison won’t mean much.
 
 Kindle Unlimited complicates this picture in a useful way: a borrow counts as a commercial event the moment it happens, and the pages read after that pay out separately, from a shared pool (Chapter 2). A book that converts borrows well but loses most of its readers by chapter two has a real leak in it — and advance readers who either finish the book or stop partway through and tell you why are a much cheaper way to find that leak than discovering it after a month of paid ads.
 
@@ -1060,7 +1074,7 @@ If the goal is genuinely to build on someone else's existing work rather than yo
 
 - [ ] All seven backend keyword slots used, as full phrases, none repeating title/subtitle words (Chapter 7)
 
-- [ ] Most specific honest category chosen in all three slots; additional categories requested from KDP support if a better fit exists outside the picker (Chapter 7)
+- [ ] Most specific honest category chosen in all three slots — chosen with care, with [KDP support](https://kdp.amazon.com/en_US/contact-us) as the place to ask if none of the three really fits (Chapter 7)
 
 - [ ] Price set deliberately inside (or intentionally outside) the 70% band, not by default (Chapter 8)
 
