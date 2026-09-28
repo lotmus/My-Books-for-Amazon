@@ -44,6 +44,9 @@ A Note Before You Begin
 **Part VI — One Topic, in Depth**
 16. The First-Review Problem
 
+**Part VII — Using AI Well**
+17. Using AI Without Losing the Business
+
 Appendix A — The One-Page Launch Checklist
 Appendix B — Royalty Quick Reference
 Appendix C — ISBNs, Wide Distribution, and Further Reading
@@ -206,6 +209,8 @@ Two things are not optional, regardless of how much AI assistance you use in you
 Amazon requires disclosure. KDP’s publishing questionnaire asks you to declare whether a title contains AI-generated text, images, or translation, and misrepresenting that is a content-policy violation, not a gray area. Answer it honestly.
 
 A human has to be the last editorial judgment. Whatever tools condense, draft, or suggest, the decision that a sentence is accurate, that an example is correct, and that a chapter says what you actually mean has to be made by a person who is accountable for it — which in practice means the fact-check and consistency passes above are not optional just because a tool helped write the first draft.
+
+Chapter 17 covers AI's use elsewhere in the business (covers, ad copy, keyword research), states the disclosure rule in full, and names a specific process — condensing existing books and auditing the result until it no longer resembles them — that is not the same thing as what this section describes.
 
 ### A minimum revision checklist
 
@@ -548,6 +553,8 @@ Buying reviews, joining a review-swap ring, or paying for a “guaranteed rankin
 ### AI-content flooding
 
 A different, newer version of the same underlying trap: mass-producing large numbers of thin, minimally reviewed, AI-generated books to flood categories, hoping volume compensates for quality. Amazon has been actively tightening enforcement against exactly this pattern — content-quality policies, required AI-content disclosure (Chapter 4), and account-level publishing limits for accounts that trip its low-quality signals. Beyond the policy risk, it’s a reputation trap for your author name and your existing titles: a flood of low-effort books under one name damages trust in your better books too, in a marketplace where a reader’s next click is often “see all books by this author.”
+
+A more polished-looking relative of this trap gets its own treatment in Chapter 17: books that don’t look thin or AI-flooded at all, because the process used to make them included a step specifically designed to erase the resemblance to the handful of existing books they were actually built from.
 
 ### Copyright and licensing traps
 
@@ -933,6 +940,66 @@ A last limit. This book will not choose your tropes or make a bad cover convert.
 ---
 
 *Sources: KDP Help: Customer Reviews (G202101910); ebook list price and 70 percent option; Free Book Promotions; Select terms. Amazon Community Guidelines. Vendor pricing pages, because they move.*
+
+*Not legal advice. Not an Amazon publication.*
+
+# Part VII — Using AI Well
+
+## Chapter 17: Using AI Without Losing the Business
+
+Chapter 4 already covered the core rule for AI in your manuscript: it can speed up the unglamorous parts of writing, disclosure to KDP is mandatory, and a human stays the last editorial judgment. Chapter 13 covered the volume version of misusing it — flooding categories with thin, minimally reviewed AI output. This chapter is the rest of it: where AI genuinely helps everywhere else in the business, the disclosure rule stated in full, and the one line that separates "AI helped me write my book" from "I laundered someone else's" — because that line gets crossed by processes that sound perfectly professional right up until the step that gives them away.
+
+### Where it earns its place beyond the manuscript
+
+The same tools that help with a first draft are useful at almost every later stage of this pipeline, used the same way: as a fast first pass a person then judges, not as the final decision.
+
+- **Cover concepts** (Chapter 6): generating rough visual directions or thumbnail-test variants to react to, before a human designer executes the one that actually works. An AI-generated *final* cover image carries its own disclosure obligation — see below — separate from the manuscript text.
+- **Ad copy and product-page description drafts** (Chapters 7 and 10): fast variants of a headline, a bullet list of benefits, or an ad's body text, for you to pick from and edit — the same "several alternatives, human picks and rewrites" pattern Chapter 4 already described for manuscript prose.
+- **Keyword and category brainstorming** (Chapter 7): surfacing phrases and angles you might not have thought of, which you then verify the way this whole book insists on — checking they're real search terms and an honest fit, not just plausible-sounding.
+- **Research synthesis in your own words**: using AI to summarize a pile of your own notes or a topic you're already researching, then writing the actual explanation yourself. This is meaningfully different from the trap in the next section, and the difference is exactly what that section is about.
+
+### The disclosure rule, stated precisely
+
+KDP's publishing questionnaire requires you to disclose AI involvement, and the platform draws a specific line worth stating exactly rather than approximately:
+
+> **Key takeaway:** *AI-generated* content — text, images, or translations an AI tool produced, even if you edited the result afterward — must be disclosed. *AI-assisted* content — where you wrote or created it yourself and a tool only edited, refined, error-checked, or helped you brainstorm — does not need to be disclosed. The distinction is Amazon's to draw, not yours to interpret generously: get it wrong and the risk is the listing coming down, not a warning email. Disclosure happens privately at upload and never appears on the product page. See [KDP Help: Content Guidelines](https://kdp.amazon.com/en_US/help/topic/G200672390) (G200672390) before you check either box — for the manuscript, the cover, or both.
+
+That same distinction is why "I used AI to help me write" and "AI wrote it and I edited it" are not the same sentence, even when the finished pages look similar. Which side of the line a given book falls on is a fact about how it was made, not a matter of how confident you feel about your edits.
+
+### The trap that looks like a process
+
+A specific pattern is worth naming directly, because it's packaged persuasively enough that it can look like professional workflow rather than what it actually is: take a small number of existing books on the same topic, have AI condense and merge them, then run a "similarity audit" whose job is to find and eliminate close parallels with those specific sources — in wording, in examples, in the particular way a concept is explained — until the draft no longer looks traceably derived.
+
+The tell is the audit step itself. Legitimate research doesn't need to check a finished manuscript against a short list of specific source books to scrub out whatever still resembles them — that step only exists because the process expects resemblance and is designed to launder it. Facts and concepts in a textbook aren't protected by copyright; the specific way an author explains them, their chosen analogies, and their pedagogical structure are exactly what copyright protects. A workflow whose last move is erasing detectable similarity to particular copyrighted works isn't producing independent material — it's producing a derivative one dressed to pass inspection.
+
+This isn't only a copyright problem you'd face from the original authors. It's also a direct hit on the account-level trust this entire book keeps coming back to (Chapter 13): a catalog built this way is one infringement claim away from every title on the account, not just the one book, and "an AI tool did the condensing" is not a defense KDP or a court is likely to find persuasive. If you want to write a textbook or a popular-science book on a subject other authors have already covered, the legitimate version of that project starts with researching the actual subject matter — not condensing their books — and produces your own explanations, your own examples, and your own structure, informed by the field rather than assembled from a few competitors' pages.
+
+### Claims that do not survive contact with a copyright claim
+
+- That rewriting a summary in different words makes it original. Originality lives in structure, explanation, and example — not just vocabulary — and a similarity audit built to catch exactly that isn't evidence of originality, it's evidence the process expected to need one.
+- That AI involvement dilutes responsibility for what gets published. KDP's disclosure requirement and ordinary copyright law both attach to the publishing account, not to whichever tool typed the words.
+- That a book has to *look* AI-flooded (thin, generic, unedited) to be a policy problem. A polished, heavily-edited book built by laundering specific existing sources is a different, more serious problem than the volume-flooding trap in Chapter 13 — better production values don't fix a derivative-work claim.
+
+### What copyright actually protects — and a legitimate way to adapt someone else's work
+
+Copyright protects the specific way an idea gets expressed — wording, chosen analogies, structure — not the underlying facts or ideas themselves ([U.S. Copyright Act §102(b)](https://www.copyright.gov/title17/92chap1.html)). That is exactly why "I kept the facts and just rewrote the wording" is weaker than it sounds for nonfiction: the analogies, the structure, and the explanatory choices *are* the expression, not decoration around it.
+
+None of the following, on its own, makes a derivative work legal — each gets repeated constantly, and none of them holds up:
+
+- "I changed a set percentage of it."
+- "AI wrote the new wording."
+- "I credited the original author."
+- "It's transformative" — transformative purpose is one factor in a four-factor U.S. test, not a standalone pass (see the [Fair Use Index](https://www.copyright.gov/fair-use/)).
+- "It's for an educational market."
+- "Only the structure or approach is the same, not the exact words."
+
+If the goal is genuinely to build on someone else's existing work rather than your own research, there are exactly two legitimate paths: get a license from the rights holder, or adapt something actually in the public domain — not just old, not just freely downloadable somewhere, but verified public domain in every territory you'll sell in. Duration rules are jurisdiction-specific and don't track intuition: a modern translation of a public-domain original can still be separately protected, and an "old" edition can carry its own separately-copyrighted introduction, annotations, or cover art ([Circular 15A: Duration of Copyright](https://www.copyright.gov/circs/circ15a.pdf)). Verify the exact edition and every layer of it before you build anything on it — not after.
+
+> **Key takeaway:** "I checked, and this exact text and translation are public domain everywhere I'm selling" is a real starting point. "It felt old enough" is not, and has ended author careers that started from exactly that assumption.
+
+---
+
+*Sources: KDP Help: Content Guidelines (G200672390); U.S. Copyright Act §102(b); U.S. Copyright Office Fair Use Index; U.S. Copyright Office Circular 15A (Duration of Copyright). General principles only, not legal advice — get a lawyer for a specific manuscript, not a book chapter.*
 
 *Not legal advice. Not an Amazon publication.*
 
