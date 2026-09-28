@@ -10,6 +10,50 @@ By Professor Click-Click-Whoosh
 
 **Table of Contents**
 
+- Prologue: Humans Have Ape Ancestors
+- Chapter 1: No Hands, No Cities — Why the Dolphins Only Watched
+- Chapter 2: Where Everyone Is From — Africa and the Making of Humans
+- Chapter 3: The First Fires — Early Humans and the Spark of Culture
+- Chapter 4: Out of Africa — The Long Walk Across the World
+- Chapter 5: The First Villages — Agriculture and the End of Wandering
+- Chapter 6: Writing and Memory — How Humans Learned to Speak to the Future
+- Chapter 7: Gods and Kings — Mesopotamia, Egypt, and the First Empires
+- Chapter 8: The Middle Kingdom — China's Long Civilization
+- Chapter 9: The Subcontinent — Zero, Gods, and Glorious Complexity
+- Chapter 10: Democracy's Experiment — Ancient Greece
+- Chapter 11: Rome — The Empire That Built the World and Broke It
+- Chapter 12: Faiths, Crusades, and the Medieval World
+- Chapter 13: The Allegedly Dark Ages
+- Chapter 14: Silk, Steppe, and Plague — The Roads That Connected Everyone, Including the Germs
+- Chapter 15: Gold, Salt, and Stone — The Kingdoms of Africa
+- Chapter 16: Before Columbus — Cities, Corn, and Knotted String
+- Chapter 17: Ships, Gunpowder, and Gold — Exploration, Conquest, and the Colonial Age
+- Chapter 18: Machines and Manifestos — Renaissance, Enlightenment, and Industry
+- Chapter 19: The Republic, With Exceptions — America, 1776-1865
+- Chapter 20: God's Own Experiment — Religion in America
+- Chapter 21: Home by Christmas — The First World War
+- Chapter 22: Genius and Catastrophe — Great Countries, Terrible Decades
+- Chapter 23: Japan, Restoration, and Empire
+- Chapter 24: Italy, Rome's Heir and the Fascist Detour
+- Chapter 25: Spain, Convivencia and the General
+- Chapter 26: The Soviet Union, Ideals and Iron
+- Chapter 27: China, the Long Memory and the Great Leap
+- Chapter 28: The People Who Kept Their Story — A Complete History of the Jews
+- Chapter 29: Cold War — Two Powers, One Planet
+- Chapter 30: Leaving the Cradle — Space Travel, the Moon, Mars, and (Maybe) the Galaxy
+- Chapter 31: The Physics That Finally Made Sense to Someone
+- Chapter 32: Decolonization — The World Redraws Itself
+- Chapter 33: Civil Rights and Liberation — Humanity Argues With Itself
+- Chapter 34: The Digital Leap — Computers, Networks, and a Connected World
+- Chapter 35: The World Was Supposed to End in 2012 (It Didn't)
+- Chapter 36: Something Might Be Watching (Probably Not What You Think)
+- Chapter 37: Medicine and Its Cost — How Humans Learned to Heal
+- Chapter 38: Climate and Consequence — The Price of Progress
+- Chapter 39: A Fractured Present — Democracy, Authoritarianism, and the Information Age
+- Chapter 40: The Dolphins' Long View — What a Non-Human Species Makes of Human History
+- Chapter 41: Half the World, All the Time — The Timelines This Book Almost Skipped
+- Epilogue: After Homo Sapiens — Superhumans and Androids
+- Further Reading — For Humans
 
 
 ## Prologue: Humans Have Ape Ancestors
@@ -23,8 +67,11 @@ At first they were small, frightened mammals running from predators. Eventually 
 This is their story, as told by the neighbors.
 
 A note on sources, for readers wondering how a dolphin knows anything about the Roman Senate. Dolphins have no libraries. They have coastlines, and coastlines are where humans do their loudest talking. Sailors read aloud, harbors gossip, and for several thousand years nearly everything the species knew about itself was, at some point, shouted across water. More recently there has been the habit of playing the radio on deck. Where the record is thin, the dolphins say so. Where it is disputed, they say that too, and try not to pick a side merely to sound decisive. Where the evidence runs out entirely, they have been known to guess, and to label the guess as one.
+The method has needed stretching as this book moves closer to the present, and the Society would rather admit the stretch than pretend it did not happen. A Gulag camp, a Cultural Revolution purge, a classified briefing, a laboratory bench, none of these happen anywhere near a coastline, and no dolphin has ever swum through one. What eventually reaches the water is the paper trail: the memoir once it is published, the archive once it is declassified, the testimony once it is given in open court, the study once it clears peer review. Dolphin scholarship works, in these chapters, from what has surfaced rather than from what it watched happen, and says so plainly whenever the distance between the two is wider than usual.
 
 Such matters are settled by the International Dolphin Historical Society, which the reader will meet from time to time as the Society, and whose votes are complicated by the fact that dolphins sleep one half of the brain at a time, so that any decision is technically taken by a quorum of the half-awake.
+
+Two members of that quorum are worth naming before the book gets underway, since the reader will hear from both of them again. Professor Click-Click-Whoosh, credited on this book's cover, chairs the Society and edits its verdicts into their final form. Dr. Susurrus Undertow, who does not chair anything and has never wanted to, is the Society's standing dissent: the scholar assigned, by long tradition, to argue against whatever the half-awake quorum is about to agree on, on the theory that a verdict nobody had to defend is a verdict nobody actually earned. She loses more often than she wins. The book will note when she wins.
 
 The dolphins have been watching the land for a very long time.
 
@@ -99,6 +146,8 @@ Put a human brain in a dolphin's body and the result is still a very clever anim
 There is a way to tell this chapter as a tragedy. Dolphin historians decline to tell it that way.
 
 *“We were never damaged by our own inventions,” dolphin historians noted, “because we were never permitted to have any. There are worse fates than being only a witness.”*
+
+Dr. Susurrus Undertow, the Society's standing dissent, declined to let that line pass unchallenged. Her objection, entered into the record and outvoted by the usual half-awake margin, was that a species with no hands never had to choose not to build the bomb, poison the river, or draft its young — and that congratulating yourself for a virtue you were never in a position to fail at is not the same as having it. The quorum's majority held that watching a species make the choice, badly, for forty chapters, was itself a kind of education dolphins had earned the right to draw a conclusion from. Both positions remain on file.
 
 No dolphin has ever been laid off by a dolphin-built machine, poisoned by dolphin industrial runoff, or drafted into a war fought with dolphin-forged weapons. The species that got hands got all of that too, along with everything else.
 
@@ -186,7 +235,7 @@ By 1.7 million years ago, Homo erectus was making the Acheulean hand axe: a symm
 
 Language almost certainly came later and slower than either fire or stone, and dolphins are candid that nobody, human or dolphin, knows exactly when. What is certain is that a species sitting in circles, handling shared tools, teaching a hand axe's proportions to the next generation without a single word written down, already needed something well beyond grunts.
 
-Dolphins, watching all this from offshore for once quite literally, since early hominin sites cluster near African lakes and rivers, noted the smoke first.
+Dolphin scholarship concedes a small liberty here: the earliest hominin sites cluster around inland Rift Valley lakes and rivers, not the ocean coastline the Society otherwise relies on, and no oceanic dolphin has ever swum in one. The Society's official position is that a river empties into the sea eventually, and that this is close enough.
 
 **Dolphin verdict:**
 
@@ -504,64 +553,37 @@ What outlasted the fighting, in dolphin scholarship's accounting, was the contac
 
 ## Chapter 13: The Allegedly Dark Ages
 
-After the fall of Rome, Europe fragmented into smaller kingdoms.
+After the fall of Rome, Western Europe fragmented into smaller, poorer, and considerably more quarrelsome kingdoms, and humans later gave the centuries that followed a name that has stuck for longer than it deserves to: the Dark Ages. Dolphin historians found the label suspicious from the moment they first heard it, on the reasonable grounds that a period does not go dark just because the paperwork does.
 
-Humans later called this period the Dark Ages.
+*“Was it truly dark,” the Society asked, “or were the humans simply missing paperwork?”*
 
-The dolphins found this suspicious.
+The honest answer is a little of both. There were, in the former western half of the Roman Empire specifically, fewer surviving written records than during Rome's height, many cities shrank, and long-distance trade contracted in some regions. But the label was never meant to describe the whole planet, or even the whole of Europe, and treating it as though it did is where the myth gets its legs.
 
-*“Was it truly dark, or were the humans simply missing paperwork?”*
+Constantinople alone should have made the label harder to sustain. The Byzantine emperor Justinian, ruling from 527 to 565, commissioned a systematic compilation of Roman law, the Corpus Juris Civilis, that went on to shape European legal systems for the next fifteen hundred years, and built the Hagia Sophia, completed in 537, whose vast dome remained the largest enclosed interior space anywhere on Earth for the better part of a thousand years. In Baghdad, scholars at the House of Wisdom were doing work that deserves a name, not just a mention: al-Khwarizmi worked there in the 9th century and left behind two words still in daily use, algebra, from the title of his book on solving equations, and algorithm, a Latinized version of his own name. Humans, it should be noted, named a basic unit of modern computing after a mathematician from the middle of their allegedly dark age. Meanwhile India and China continued as thriving, literate, mathematically and artistically productive civilizations that never noticed they were supposed to be participating in anyone else's dark age at all.
 
-There were fewer records than during the Roman Empire, and many cities shrank. Trade became less extensive in some regions.
+The label itself has a specific culprit and a much narrower original meaning than students are usually given. The 14th-century Italian poet Petrarch coined it first, and applied it only to what he saw as the loss of classical Latin literary style in the centuries after Rome, not to the era's politics, religion, or science, and not at all to Byzantium, the Islamic world, India, or China, none of which he was thinking about. A phrase invented to describe a decline in one man's preferred prose style went on, several centuries later, to describe an entire hemisphere for a thousand years.
 
-Yet elsewhere, life continued.
+*“The oceans,” the dolphins concluded, “did not notice any darkness.”*
 
-In Constantinople, emperors governed.
-
-In Baghdad, scholars studied mathematics and astronomy.
-
-Constantinople alone should have made the label harder to sustain. The emperor Justinian, ruling from 527 to 565, commissioned a systematic compilation of Roman law, the Corpus Juris Civilis, that went on to shape European legal systems for the next fifteen hundred years, and built the Hagia Sophia, completed in 537, whose vast dome remained the largest enclosed interior space anywhere on Earth for the better part of a thousand years.
-
-In India and China, civilizations flourished.
-
-The label itself has a specific culprit and a much narrower original meaning than students are usually given. The 14th-century Italian poet Petrarch coined it first, and applied it only to what he saw as the loss of classical Latin literary style in the centuries after Rome, not to the era's politics, religion, or science, and not at all to Byzantium, the Islamic world, India, or China, none of which he was thinking about.
-
-The dolphins concluded:
-
-*“The oceans did not notice any darkness.”*
-
-Nor was Europe standing still. Kingdoms formed, trade expanded, farming improved with the heavy plow, the water mill, and the horse collar, and, a little later, universities appeared.
-
-Charlemagne, crowned Holy Roman Emperor in Rome on Christmas Day, 800 CE, gathered scholars from across Europe at his court, the Englishman Alcuin of York chief among them, and standardized a new, clearer handwriting, Carolingian minuscule, whose rounded lowercase letters are the direct ancestors of the ones printed on this page. Charlemagne himself, by his own biographer's account, kept writing tablets under his pillow to practice his letters and never fully mastered the skill.
+Nor was even Western Europe standing still through this period. Kingdoms formed and reformed, trade slowly expanded again, farming improved with the heavy plow, the water mill, and the horse collar, and, a little later, the first universities appeared. Charlemagne, crowned Holy Roman Emperor in Rome on Christmas Day, 800 CE, gathered scholars from across Europe at his court, the Englishman Alcuin of York chief among them, and standardized a new, clearer handwriting, Carolingian minuscule, whose rounded lowercase letters are the direct ancestors of the ones printed on this page. Charlemagne himself, by his own biographer's account, kept writing tablets under his pillow to practice his letters and never fully mastered the skill.
 
 *“The man who revived European literacy,” dolphin historians observed, “reportedly could not write his own name. Humans, it should be said, have never let competence stand in the way of sponsorship.”*
 
-The disruption was not entirely a matter of missing paperwork, either. Norse raiders sacked the monastery at Lindisfarne, off the English coast, in 793 CE, a single attack Christian Europe treated for a generation afterward as a sign the world had turned hostile, and Viking raids and settlement continued for the better part of three centuries.
-
-One popular idea about the period is worth correcting directly, since it runs exactly backward. Educated medieval Europeans did not believe the world was flat. The Earth's sphericity, established by Greek astronomers centuries earlier, was standard teaching in medieval universities and never seriously disputed by anyone with an education to lose. The flat-earth myth about the era was largely manufactured in the 19th century, not least by Washington Irving's mostly invented 1828 biography of Columbus, which put a fictional flat-earth argument into the mouths of scholars who had never made one.
-
-Humans were, however, still deeply committed to warfare. Castles appeared.
-
-The dolphins were confused.
+The disruption was not entirely a matter of missing paperwork, either. Norse raiders sacked the monastery at Lindisfarne, off the English coast, in 793 CE, a single attack Christian Europe treated for a generation afterward as a sign the world had turned hostile, and Viking raids and settlement continued for the better part of three centuries. Humans, for all the quiet scholarship happening in Baghdad and Constantinople, remained deeply committed to warfare closer to home, and castles rose across the continent as the preferred answer to a dispute. The dolphins found this puzzling.
 
 *“Instead of solving their disputes,” dolphin historians noted, “they built larger walls.”*
 
-Centuries later, some humans became so dissatisfied with the traditional story that they proposed radical alternatives.
+One popular idea about the period is worth correcting directly, since it runs exactly backward. Educated medieval Europeans did not believe the world was flat. The Earth's sphericity, established by Greek astronomers centuries earlier, was standard teaching in medieval universities and never seriously disputed by anyone with an education to lose. The flat-earth myth about the era was largely manufactured in the 19th century, not least by Washington Irving's mostly invented 1828 biography of Columbus, which put a fictional flat-earth argument into the mouths of scholars who had never made one.
 
-One mathematician, Anatoly Fomenko, argued that large parts of ancient history had been misdated and that the timeline was wrong. He suggested that many events thought to belong to antiquity actually occurred much later.
+Centuries later, a small number of humans became so dissatisfied with the conventional timeline that they proposed replacing it outright. The mathematician Anatoly Fomenko argued that large stretches of ancient and medieval history had been misdated, and that many events historians place in antiquity actually happened centuries later than believed. Most historians rejected the idea, pointing to archaeological stratigraphy, independent written records from multiple civilizations, radiocarbon dating, and dendrochronology, all of which converge on the conventional dates far too consistently to be the result of a shared, centuries-long clerical error.
 
-Most historians rejected this idea and pointed to archaeological evidence, written records, radiocarbon dating, and other methods that support the conventional timeline.
+*“Human historians,” the dolphins observed, with evident amusement, “were arguing not merely about what happened, but about when it happened.”*
 
-The dolphins regarded the dispute with amusement.
-
-*“Human historians were arguing not merely about what happened, but about when it happened.”*
-
-After studying both sides, the International Dolphin Historical Society reached its own verdict.
+After studying both sides, the International Dolphin Historical Society reached its own verdict, and it is the one they consider the honest reading of the whole period.
 
 **Dolphin verdict:**
 
-*The age was not dark. It was only complicated. Humans often confuse the absence of records with the absence of history.*
-
+*The age was not dark. It was only complicated, uneven, and badly named by a poet who was thinking about something else entirely. Humans, watching their own written record thin out in one corner of one continent, mistook the absence of records for the absence of history — and missed the House of Wisdom, the Hagia Sophia, and two continents' worth of civilization still very much in the light.*
 
 
 ## Chapter 14: Silk, Steppe, and Plague — The Roads That Connected Everyone, Including the Germs
@@ -1390,17 +1412,19 @@ What dolphin scholarship can say, having watched the entire record rather than a
 
 It has, to be fair, sometimes arrived on time, and dolphin historians keep a short list: a Christmas truce organized by soldiers who then had to be ordered to stop, a naval officer in a submarine who declined to vote for war, a watch officer who distrusted his own machine. Every entry on it is one person or a few, acting against expectation and occasionally against orders. It has never yet arrived in bulk.
 
+Dr. Susurrus Undertow asked, at this point in the Society's final deliberations, that her Chapter 1 dissent be entered into the record as won. Her argument then was that a species never denied the hands to fail with does not get credit merely for not failing; the credit, if any is owed, belongs to whichever few individuals on that short list chose the harder option when the easier one was fully available to them. The quorum, less than half awake but for once unanimous, agreed to strike “we do not envy humans” from the earlier verdict and let this one stand instead: humans deserve less credit for having a conscience than for the handful of times, against every incentive in the room, they used it.
+
 **Humanity's Report Card**
 
-**Creativity: A+. **Humans painted caves, built cathedrals, composed symphonies, and walked on the Moon, and did a suspicious amount of it for no practical reason, which the committee considers the point.
+**Creativity: A+.** Humans painted caves, built cathedrals, composed symphonies, and walked on the Moon, and did a suspicious amount of it for no practical reason, which the committee considers the point.
 
-**Curiosity: A+. **They never stopped asking questions, including several the committee would have preferred they leave alone.
+**Curiosity: A+.** They never stopped asking questions, including several the committee would have preferred they leave alone.
 
-**Cooperation: B+. **Capable of extraordinary collaboration, which they deploy in emergencies, on Moon landings, and at football matches, and withhold, with equal enthusiasm, from almost everything else.
+**Cooperation: B+.** Capable of extraordinary collaboration, which they deploy in emergencies, on Moon landings, and at football matches, and withhold, with equal enthusiasm, from almost everything else.
 
-**Wisdom: Inconsistent. **The committee considered “Incomplete” but felt it promised a submission date.
+**Wisdom: Inconsistent.** The committee considered “Incomplete” but felt it promised a submission date.
 
-**Treatment of Oceans: Needs Improvement. **See attached plastic.
+**Treatment of Oceans: Needs Improvement.** See attached plastic.
 
 **Overall Assessment**
 
@@ -1476,38 +1500,38 @@ Signed,
 
 Dolphin scholarship is obliged to disclose that it has not read any of the following, dolphins being unable to read. It has had them read aloud, at some length, by sailors, and offers them as the humans' own best accounts of themselves. Each contains arguments the dolphins have not settled, and one is a comedy.
 
-**The Origin of Our Species, by Chris Stringer (2011). **For the African chapters, by a man who has spent his career among the actual bones.
+**The Origin of Our Species, by Chris Stringer (2011).** For the African chapters, by a man who has spent his career among the actual bones.
 
-**Guns, Germs, and Steel, by Jared Diamond (1997). **Why some societies got the tools first. Argued over ever since, and still the best book to start an argument with.
+**Guns, Germs, and Steel, by Jared Diamond (1997).** Why some societies got the tools first. Argued over ever since, and still the best book to start an argument with.
 
-**Sapiens, by Yuval Noah Harari (English edition 2014). **The species' summary of itself, at speed, with opinions.
+**Sapiens, by Yuval Noah Harari (English edition 2014).** The species' summary of itself, at speed, with opinions.
 
 **1491, by Charles C. Mann (2005). **The Americas before Columbus, and how much of what humans thought they knew about them was wrong.
 
-**The Silk Roads, by Peter Frankopan (2015). **The caravans, the Mongols, and the argument that history has been facing the wrong way.
+**The Silk Roads, by Peter Frankopan (2015).** The caravans, the Mongols, and the argument that history has been facing the wrong way.
 
-**A Fistful of Shells, by Toby Green (2019). **West African history told from West Africa.
+**A Fistful of Shells, by Toby Green (2019).** West African history told from West Africa.
 
-**SPQR, by Mary Beard (2015). **Rome, with the myths taken out and the jokes left in.
+**SPQR, by Mary Beard (2015).** Rome, with the myths taken out and the jokes left in.
 
-**The Story of the Jews, by Simon Schama (two volumes, 2013 and 2017). **The long thread of Chapter 23, at the length it deserves.
+**The Story of the Jews, by Simon Schama (two volumes, 2013 and 2017).** The long thread this book gives a chapter of its own, at the length it deserves.
 
-**The Anarchy, by William Dalrymple (2019). **How a company with a private army acquired a subcontinent.
+**The Anarchy, by William Dalrymple (2019).** How a company with a private army acquired a subcontinent.
 
-**The Sleepwalkers, by Christopher Clark (2012). **How Europe walked into 1914, in slow motion, with its eyes open.
+**The Sleepwalkers, by Christopher Clark (2012).** How Europe walked into 1914, in slow motion, with its eyes open.
 
-**The Guns of August, by Barbara Tuchman (1962). **The first month of the First World War, told as tragedy, and the standard popular history still tries to meet.
+**The Guns of August, by Barbara Tuchman (1962).** The first month of the First World War, told as tragedy, and the standard popular history still tries to meet.
 
-**The Coming of the Third Reich, by Richard J. Evans (2003). **How a cultured country handed power to Hitler, in the detail a summary chapter cannot afford.
+**The Coming of the Third Reich, by Richard J. Evans (2003).** How a cultured country handed power to Hitler, in the detail a summary chapter cannot afford.
 
-**Gulag: A History, by Anne Applebaum (2003). **The camps, in full.
+**Gulag: A History, by Anne Applebaum (2003).** The camps, in full.
 
-**Mao's Great Famine, by Frank Dikötter (2010). **The famine the summary chapters could only name.
+**Mao's Great Famine, by Frank Dikötter (2010).** The famine the summary chapters could only name.
 
-**The Making of the Atomic Bomb, by Richard Rhodes (1986). **The science, the scientists, and the moment the apex predator learned physics.
+**The Making of the Atomic Bomb, by Richard Rhodes (1986).** The science, the scientists, and the moment the apex predator learned physics.
 
-**A Short History of Nearly Everything, by Bill Bryson (2003). **For the parts of nature that history rests on.
+**A Short History of Nearly Everything, by Bill Bryson (2003).** For the parts of nature that history rests on.
 
 **1066 and All That, by W. C. Sellar and R. J. Yeatman (1930). **The British comic history, and the model for treating the past with affection and no respect. The dolphins consider it the most honest history in this list.
 
-**The Hitchhiker's Guide to the Galaxy, by Douglas Adams (1979). **For the other dolphins, and for the general approach to explaining everything. The dolphins appear in the fourth book of the series, So Long, and Thanks for All the Fish (1984). The dolphins here wish it noted that they are not the same dolphins.
+**The Hitchhiker's Guide to the Galaxy, by Douglas Adams (1979).** For the other dolphins, and for the general approach to explaining everything. The dolphins appear in the fourth book of the series, So Long, and Thanks for All the Fish (1984). The dolphins here wish it noted that they are not the same dolphins.
