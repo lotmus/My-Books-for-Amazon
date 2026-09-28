@@ -247,7 +247,7 @@ Penny grinned, clearly amused. "Don't worry. He's usually this bright."
 "We know."
 Derek turned back to the computer. Something was still bothering him, and it was not the murder itself.
 The date was the problem. He clicked the attachment.
-A photograph appeared. For a moment Derek stopped breathing. The room felt briefly smaller, as if the air itself had taken an interest. He recognised the feeling: it was the same one that arrived just before a theory collapsed, or a relationship, or both. Somewhere beneath the professional irritation, something colder and more personal had stirred — the quiet recognition that the face in the photograph was not merely a case, but a deadline. 
+A photograph appeared. For a moment Derek stopped breathing. The room felt briefly smaller, as if the air itself had taken an interest. He recognised the feeling: it was the same one that arrived just before a theory collapsed. Somewhere beneath the professional irritation, something colder and more personal had stirred — the quiet recognition that the face in the photograph was not merely a case, but a deadline. 
 Derek had never liked deadlines that looked back at him. Most deadlines had the decency to remain abstract. 
 Derek filed the sensation under 'to be examined later' and continued working. He was good at filing things under 'later'. It was one of his more reliable skills, and possibly one of his more dangerous ones. 
 Trevor noticed. 
@@ -686,6 +686,7 @@ There's no shortage of seventeen in physics."
 "True."
 Trevor studied the clock again. "Could be 17 seconds of proper time."
 Derek stopped. Penny regarded him.
+The whiteboard behind them was still crowded with the morning's half-finished sums, and for a moment none of the three of them reached for a marker.
 Trevor realised he had announced something interesting, "That would make the difference meaningful."
 "Yes."
 Derek took the photograph. "If seventeen seconds is a proper-time interval..."
@@ -4527,7 +4528,7 @@ Trevor opened the door. Derek was sitting at his desk. "What?"
 "We need you."
 "For what?"
 "An experiment."
-Derek looked at the ordinary cucumber, then at Penny, harder than either of them deserved.
+Derek looked, harder than either of them deserved, at the cucumber, then at Penny.
 Then back at the cucumber.
 "No."
 Penny laughed. "It's not about the cucumber."
@@ -5164,13 +5165,13 @@ Trevor considered this. "The train has a worldline?"
 Derek went quiet for a moment. "That's the better question."
 "Even the cucumber?"
 "Yes."
-Penny watched the ordinary cucumber, thinking, 'peeled and pre-warmed might be nicer'.
+Penny watched the ordinary cucumber and thought that peeled and pre-warmed might be nicer.
 Then she confirmed, "Even the cucumber."
 Trevor conceded slowly. "Splendid. Moving on."
 The train approached. It stopped. The doors opened.
 Nobody got off. Nobody got on. Inside, the carriage was completely empty.
 Except for a single seat. And on the seat was another cucumber. Derek stared at it.
-Penny paled at the sight of him. 
+Penny paled at the sight of the second cucumber. 
 Trevor swallowed hard. 
 Nobody offered anything.
 Then Derek grinned. "Well."
@@ -5626,7 +5627,7 @@ Trevor wasn't finished. "A filing doesn't bleed. I saw a photograph — real lig
 Trevor considered this with visible suspicion. "That is a deeply unsatisfying answer."
 "Most true ones are," Sherlock said.
 Trevor demanded, "Then why did the system name me? PERPETRATOR. My name. Not a guess — my name." It came out smaller than he meant it to.
-Sherlock replied, "Because a form asked for one. A field marked Perpetrator does not stay empty just because nobody committed anything. The system reached for whoever's worldline sat closest to the misfiled coordinate at the moment it was opened. You were in the room. That is the entire crime you're guilty of."
+Sherlock replied, "Because a form asked for one. A field marked Perpetrator does not stay empty. Not because someone committed something — because someone asked. The system reached for whoever's worldline sat closest to the misfiled coordinate at the moment it was opened. You were in the room. That is the entire crime you're guilty of."
 Trevor sat with that. "I'd have preferred a better reason."
 "Most people would."
 Weinstein rubbed his eyes. "And Derek standing up. Dead, and standing. I watched it happen. I am not owed a hallucination, Sherlock."
