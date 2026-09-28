@@ -144,7 +144,7 @@ Everything appeared to be where it ought to be. Derek did not find this reassuri
 The filing cabinet was locked. The kettle was where the kettle normally was, which was not necessarily where it ought to be.
 Outside, a bus pulled away from the kerb with a noise suggesting that several of its components had voted against the decision. Rain tapped the window. Somewhere downstairs, the landlord was drilling into something which, judging by previous work, would shortly become the Bureau's responsibility.
 Derek gazed at the email again, with the particular stillness of a man who has just been handed a problem that refuses to sit neatly in any of the usual categories. The Bureau had categories for almost everything. This was not among them. A new category would no doubt be invented once the damage was complete.
-There was, he decided, a useful distinction between the things a man could act on and the things he could merely be informed of. Whether he died tomorrow fell into the second category, and no amount of staring at the screen would move it into the first. Whether Sophie was safe did not. That one, at least, he could still do something about, and it seemed the more efficient use of the morning.
+There was, he decided, a useful distinction between the things a man could act on and the things he could merely be informed of. Whether he died tomorrow fell into the second category, and no amount of staring at the screen would move it into the first. Whether Sophie was safe did not. That one, at least, he could still do something about — he was already reaching for the phone before he'd finished the thought — and it seemed the more efficient use of the morning.
 Derek was thirty-eight, greying at the temples in a way he found more alarming than the murder notice, and built like a man who had once been reasonably athletic and had since made his peace with filing cabinets instead. He had a habit, under stress, of straightening things that were already straight — a stapler, a mug, the corner of a report nobody would ever read — as though order in small objects might eventually negotiate order in larger ones. "That's inconvenient," he commented, as if the matter were primarily a filing error. He did not yet know that the joke was the correct diagnosis — and that the email was not a warning so much as Exhibit Zero, delivered early.
 Being confronted with "Apparently I've been murdered" made Derek feel considerably less useful. Being confronted with a Bureau category that did not yet exist made him feel worse.
 Across the empty room, Trevor Boltzman looked up. Trevor was twenty-eight, tall in the specific way that seemed designed to make doorframes personal, with the kind of permanently rumpled sandy hair that suggested he had once owned a comb and lost the argument with it. He was highly intelligent, technically qualified, and possessed of the unfortunate tendency to think about one problem at a time — a trait that made him excellent at mathematics and intermittently disastrous at life. When thinking deeply, he carried himself like a frozen Windows system before reboot. 
@@ -195,7 +195,7 @@ Penny paused. "Already?"
 "Apparently."
 "Who did it?"
 "I did."
-She conceded. "Fair enough."
+She conceded. "Suppose so."
 "You're taking this remarkably well."
 "It's Tuesday."
 Derek crossed his arms. "That doesn't explain anything."
@@ -314,7 +314,7 @@ Penny looked at Sophie in the photograph. "So the death is the event. Eleven-oh-
 "Yes. And a photograph records light arriving somewhere, not a view from nowhere. If this image came out of our own system, it may not be a camera at all."
 Trevor looked at the clock, then at Penny, then at the maths he trusted more than either. "Then we test the labels. Carefully."
 Derek inclined his head at the brass clock, not at either of them. "Measure. Then fight. In that order."
-Penny enlarged the lower-right corner of the image. She did not speak for a long time. The three lines sat there like a spell the Bureau had not meant to cast: Death. Departure. Arrival. The room felt briefly as if it had more dimensions than furniture.
+Penny enlarged the lower-right corner of the image. She did not speak for a long time. The three lines sat there like a spell the Bureau had not meant to cast: Death. Departure. Arrival.
 There was something in the lower-right corner. A piece of paper.
 Penny zoomed in. It contained three lines.
 11:03 - DEATH
@@ -455,7 +455,7 @@ CASE UPDATE
 PERPETRATOR IDENTIFIED
 Derek opened it. The name appeared.
 TREVOR BOLTZMAN
-Trevor went very still. "What?"
+Trevor froze. "What?"
 Somewhere down the corridor, the single working lightbulb buzzed on exactly as it always did, entirely unmoved by the fact that a computer had just accused someone of a murder that hadn't happened.
 Trevor sat down without deciding to. "No — one thing at a time. Either I'm a suspect, or the case is wrong, or the frame is wrong. I need you to tell me which one I'm allowed to panic about first."
 Derek gave him a measured look. 
@@ -854,7 +854,7 @@ Derek inspected the silent clock. "How convenient."
 "Because Alfred has just discovered that the clocks in his office are disagreeing."
 Derek's expression changed.
 "By how much?"
-Matkowski gave him the figure. Derek went very still. Penny noticed. "Same?"
+Matkowski gave him the figure. Derek stopped moving entirely. Penny noticed. "Same?"
 Derek confirmed. "Same."
 Trevor stood. "Same what?"
 Derek covered the receiver. "Time difference."
@@ -975,7 +975,7 @@ Derek tried once more. "Could I have been dead in one frame and alive in another
 There was a long silence.
 Then Weinstein answered emphatically. "No."
 Derek waited. "Why not?"
-"Because that's nonsense," Weinstein declared. "And nonsense is what you get when detectives demand a shared Tuesday. I deal in geometry. You deal in arrests. Do not confuse my tools with your nouns."
+"Because that's nonsense," Weinstein declared. "I deal in geometry. You deal in arrests. Do not confuse my tools with your nouns."
 Derek inclined his head. "Good."
 "However..."
 Derek closed his eyes.
@@ -1104,7 +1104,7 @@ He searched railway archives. Nothing. He searched scientific databases.
 Nothing. Then the Bureau's computer chimed. A new case file had appeared.
 Derek opened it.
 CASE 1047
-He went very still. The file was different now.
+He stopped, mid-motion. The file was different now.
 CLIENT: DEREK GENT
 VICTIM: DEREK GENT
 PERPETRATOR: TREVOR BOLTZMAN
@@ -1519,7 +1519,7 @@ Trevor conceded. "It is."
 Derek ignored both of them.
 "Alfred, one more thing."
 "Yes?"
-"Does General Relativity explain what we're seeing — or only remind us that magnitude isn't the principle? Because if gravity is the culprit, the numbers laugh at us."
+"Does General Relativity actually explain what we're seeing, or just remind us we're asking the wrong question?"
 There was a pause.
 Then Weinstein answered: "It explains the principle."
 "But not the effect."
@@ -1614,7 +1614,7 @@ Derek hesitated. "How did you know who we were?"
 "Your car."
 "We came by train."
 "Exactly."
-Derek stared at him. Barbarian's mouth curved. "Come in."
+Derek stared at him. Barbarian looked amused. "Come in."
 They entered. The hallway was surprisingly ordinary. Bookshelves occupied both walls.
 There were papers everywhere. Not piles of papers, as in an ordinary untidy quiet office. Rather, papers appeared to have been distributed according to some private mathematical principle which Barbarian alone understood.
 There were books on physics, philosophy, mathematics and cosmology. There were also several books about gardening. One shelf contained nothing but clocks.
@@ -1675,7 +1675,7 @@ Derek confirmed. "It measures change against change."
 Interest sharpened Trevor's expression.
 "That doesn't mean time doesn't exist."
 Barbarian faced him. "No. It means we have to be careful about what we mean by 'exists.'"
-Trevor allowed. "Fair enough."
+Trevor allowed. "I'll grant you that."
 Barbarian smirked. "Excellent."
 He gestured at the table. "Suppose I place an apple here." He put it down, then moved it. "The apple has changed position. Do we need time to describe that, or only two configurations and a relationship between them?"
 Trevor's brow creased. "So where does time go?"
@@ -1711,7 +1711,7 @@ Weinstein agreed. "Correct."
 "So, the universe doesn't come with a giant clock mounted above it."
 Derek turned that over privately. If simultaneity was relative — if there was no "now" that everyone shared — then dread had no more claim to being universal than a wristwatch did. His fear of tomorrow was one frame's reading. It wasn't the only one available, and it certainly wasn't the invariant one.
 Derek mentioned: "That would be inconveniently large."
-Barbarian's mouth curved. "Quite."
+Barbarian looked pleased with himself. "Quite."
 Trevor eyed the silent clock shelf.
 "Then what are clocks actually telling us?"
 "Relationships."
@@ -1748,7 +1748,7 @@ Barbarian looked up. "Yes."
 Barbarian smirked. "That's the wrong question."
 Weinstein grimaced. "Don't start."
 Barbarian laughed. "Very well."
-He placed the clock on the table. "I saw it yesterday." Derek went very still.
+He placed the clock on the table. "I saw it yesterday." Derek didn't move.
 Derek frowned. "Where?"
 "Here. On this table." The silence that followed had weight. Everyone understood simultaneously: if the clock was here yesterday, and is here now, someone—or something—is describing the same location in two different moments.
 Derek cast a quick look around.
@@ -1961,7 +1961,7 @@ Barbarian inclined his head.
 Derek thought. "Because our local physical processes haven't stopped."
 "Perhaps."
 "Then time hasn't stopped."
-Barbarian's mouth curved. "Perhaps."
+Something amused crossed Barbarian's face. "Perhaps."
 Weinstein looked annoyed. "You're enjoying this."
 "Immensely."
 "Why?"
@@ -2030,7 +2030,7 @@ He unfolded the paper. It read:
 12:04 - ALL CLOCKS START
 A new line appeared in Case 1047 under REMOTE CONSULTANT NOTE: SHERLOCK 
  If every clock agrees too perfectly, ask whether it is telling time or identifying something.
-Derek went very still. Penny leaned over. Trevor read it.
+Derek froze. Penny leaned over. Trevor read it.
 Weinstein faced Barbarian. 
 Barbarian's smile disappeared. "That's new."
 Derek raised his eyes. "Very."
@@ -2048,7 +2048,7 @@ Derek shook his head.
 Weinstein allowed. "And the clocks recorded it."
 Barbarian tilted his head. "Or participated in it."
 Derek considered that. "What's the difference?"
-Barbarian's mouth curved faintly. "That is the question."
+Barbarian permitted himself the faintest flicker of amusement. "That is the question."
 The ancient brass clock in Derek's pocket began ticking. Once. Twice.
 Then it stopped. Derek took it out. 
 The face now read: 12:04. 
@@ -2095,7 +2095,7 @@ Barbarian conceded. "Good."
 Derek opened the door. Then stopped. "One thing."
 "What?"
 "If time doesn't exist..."
-Barbarian's mouth curved. "Yes?"
+Barbarian's eyes glinted with something like mischief. "Yes?"
 "What day is it?"
 Barbarian regarded him. For the first time since they'd arrived, he seemed genuinely uncertain.
 "Ah."
@@ -2206,7 +2206,7 @@ Derek was silent. Then: "Are you serious?"
 "Perfectly."
 "Gravity."
 "No."
-Derek wearily sighed. "Don't start."
+Derek sighed, out of patience. "Don't start."
 "I'm not starting anything."
 "You've just asked me why an apple falls."
 "Yes."
@@ -2535,7 +2535,7 @@ Weinstein opened his eyes. "Leonardo da Vinci?"
 "Yes."
 "The painter?"
 "Among other things."
-Weinstein wearily sighed. "All right."
+Weinstein exhaled slowly. "All right."
 "Come inside."
 "I am."
 "Excellent."
@@ -2708,7 +2708,7 @@ Then:
 τ =? 
 Weinstein stared. Derek came closer.
 "Well?"
-Weinstein's mouth curved. "Now we have a problem."
+Weinstein looked, unmistakably, pleased. "Now we have a problem."
 Derek conceded. "Good."
 "Why?"
 "Because problems are what we investigate."
@@ -2925,7 +2925,7 @@ Derek stared at him. "More than one?"
 "Different times."
 Derek smirked. "That's a rather circular answer."
 "Only if you assume time is fundamental."
-Derek laughed. "Fair enough."
+Derek laughed. "Can't argue with that."
 Trevor walked over to the wall. He took the piece of paper and copied the numbers. Then he drew three axes.
 x,y, z
 He marked the point.
@@ -3038,7 +3038,7 @@ He marked three points. "Not ordinary Cartesian coordinates."
 "Relative coordinates."
 Derek glanced at him. "Relative to what?"
 Weinstein drummed his fingers against the map.
-Then his mouth curved. "That's the question."
+Then something in his expression sharpened into interest. "That's the question."
 Penny gestured at the silent clock. "Could the clock be the origin?"
 Weinstein granted. "Possibly."
 Trevor stared at the numbers. "Three, four, twelve."
@@ -3068,7 +3068,7 @@ Derek waited.
 Weinstein surveyed the silent clock. "The missing coordinate may be related to the invariant interval."
 Derek's expression changed.
 "Go on."
-Derek drew three marks and refused to give them Greek names. "Timelike, spacelike, or null. Pick the fork that keeps Sophie's doorway causally connected to my corpse — or admit they are different events and the photograph is a liar with excellent stationery."
+Derek drew three marks and refused to give them Greek names. "Timelike, spacelike, or null. Pick the fork that keeps Sophie's doorway causally connected to my corpse — or admit they're different events entirely."
 He wrote: 
 ds² = dx² + dy² + dz² - c²dt²
 Trevor allowed. "Depending on sign convention."
@@ -3119,7 +3119,7 @@ Derek checked the coordinates. "We're here."
 Trevor checked the numbers again. "Three metres east."
 "From what?"
 Trevor's ears reddened. "Right."
-Derek wearily sighed. "Origin."
+Derek rubbed his eyes. "Origin."
 "Yes."
 "Which is?"
 They considered the clock. Then at one another. 
@@ -3164,7 +3164,7 @@ Derek faced him. "Why are you pleased?"
 Weinstein indicated the painting. "The event isn't moving through time."
 Derek waited.
 "It's changing the geometry."
-The brass clock in his hand began ticking backwards. Somewhere beneath Paris, another clock began ticking forwards. Derek did not speak. The Louvre's stone seemed to lean in, listening to a quarrel between two kinds of time.
+The brass clock in his hand began ticking backwards. Somewhere beneath Paris, another clock began ticking forwards. Derek did not speak. Somewhere beneath the gallery, he could feel the two clocks disagreeing, the way you feel weather changing before you can name it.
 Neither was wrong. 
 And, for the first time, Weinstein understood why the question on the paper had not been:
 WHEN?
@@ -3339,7 +3339,7 @@ Penny gazed at the clock.
 Weinstein granted. "Perhaps."
 "Perhaps it's telling us that the geometry between two events has become extreme."
 "Yes."
-Trevor studied the three coordinates. "If τ is the gap, we measure the gap. We do not name it until the measurement embarrasses us." He glanced at Derek. "And we do not put Sophie's name on a gap we have not measured."
+Trevor studied the three coordinates. "If τ is the gap, then the gap is what we measure — not what we assume." He glanced at Derek, and the anxious edge came back into his voice. "I don't want Sophie's name anywhere near a number we haven't actually measured yet."
 Weinstein spun sharply. "Yes."
 Trevor continued, "And if the proper time remains finite while something else becomes infinite..."
 "Then we could have a singular behaviour."
@@ -3400,7 +3400,7 @@ Trevor's forehead creased. "That would suggest a divergent quantity."
 Trevor threw up his hands. "You're just saying words that end in the right sound."
 "Also possible."
 Derek surveyed him. "Which is it?"
-Weinstein didn't answer. He was staring at the painting, and for several seconds nobody dared prompt him. Then his mouth curved very slowly. "Now we have our singularity."
+Weinstein didn't answer. He was staring at the painting, and for several seconds nobody dared prompt him. Then satisfaction settled slowly over his face. "Now we have our singularity."
 Derek gave Penny a measured look. Penny regarded Trevor. Trevor examined Weinstein.
 And somewhere, far beneath the Louvre, an ancient brass clock began ticking. Not forward. Not backwards.
 But sideways. At least, that was what the silent clock appeared to think it was doing.
@@ -3783,7 +3783,7 @@ Derek considered. "Both at once?"
 "Apparently."
 "That's unusual."
 "Not really."
-Derek considered this. "Fair enough."
+Derek considered this. "Point taken."
 He walked to the whiteboard. 
 There were equations everywhere.
 Lorentz transformations.
@@ -3860,7 +3860,7 @@ Matkowski commented:
 Derek didn't smile. "We know almost nothing. Someone synchronised clocks across two cities without touching either of them, and hid a file with all our names in it under tomorrow's date."
 Matkowski was quiet for a second too long. "Yes. That's the part I called about."
 Derek glanced at Penny. 
-She wore the particular smile she reserved for moments when she already knew how the conversation would end. "Fair enough."
+She wore the particular smile she reserved for moments when she already knew how the conversation would end. "I'll take it."
 Matkowski continued, "There is something else."
 "Of course."
 "We found a reference to the Louvre."
@@ -3931,7 +3931,7 @@ OCCUPANT STATUS: VIRTUAL
 Derek frowned. "Who's the occupant?"
 The computer answered.
 DEREK GENT
-Derek went very still. So did Trevor. So did Penny.
+Derek went rigid. So did Trevor. So did Penny.
 Derek dropped his eyes at himself.
 "I'm here."
 Penny confirmed. "Yes."
@@ -4002,7 +4002,7 @@ Penny conceded. "Obviously."
 Trevor's brow furrowed. "Or another Derek."
 "There's only one of me."
 Trevor granted. "That's what makes it difficult."
-Derek wearily sighed. "Thank you."
+Derek let out a long breath. "Thank you."
 "You're welcome."
 The office door remained quietly closed. Which meant Derek was in there. Obviously. "Or we're being mildly inconvenient again."
 Penny quietly stared at the door. "Although technically..."
@@ -4118,7 +4118,7 @@ Normal.
 "Again."
 Trevor surveyed him. "Again what?"
 "Acceleration."
-Trevor wearily sighed. "Yes."
+Trevor sighed. "Yes."
 They continued. 11:15. 11:16.
 Derek counted the seconds under his breath.
 The second hand moved smoothly.
@@ -4386,13 +4386,13 @@ Penny walked past him. He followed. "Is it dangerous?"
 "Possibly."
 Trevor stopped. "With a cucumber? Instruments admit they are instruments. Vegetables become dangerous when they start proving things. Especially when Sophie is in the file."
 Penny faced him again. "You'd be surprised what can be gravitational."
-Trevor considered that. "Fair enough."
+Trevor considered that. "Can't fault the logic."
 They entered the laboratory. Derek was there. His familiar office door was quietly closed.
 Obviously. Trevor gestured towards it. "He's in there."
 "Working?"
 "Probably."
 Penny smirked. "Or shagging."
-Trevor wearily sighed. "Please don't."
+Trevor pinched the bridge of his nose. "Please don't."
 "Why?"
 "Because I know what you're going to say."
 Penny smiled. "Then you have excellent predictive powers."
@@ -4612,10 +4612,10 @@ Derek dropped his eyes into the Underground entrance.
 Trevor examined the cucumber. "So, the cucumber isn't the cause."
 "No."
 "It's a witness."
-Derek's mouth curved. "Exactly."
+Derek looked, briefly, rather pleased with himself. "Exactly."
 Penny inspected the Underground entrance. "Then perhaps we should go down."
 Derek inclined his head.
-Trevor wearily sighed. "Again?"
+Trevor exhaled through his nose. "Again?"
 Derek turned his attention to him. "Did you have another appointment?"
 "No."
 "Good."
@@ -4810,8 +4810,29 @@ That was already familiar from relativity: a Lorentz transformation changed the 
 Perhaps holographic duality was a more radical version of the same lesson — and the murder file was merely the Bureau's least elegant dual description, one description with gravity and curved spacetime, another with quantum fields and none, both encoding the same physics. "Bloody hell," Penny said, to nobody in particular.
 There was a harder version of the same thought, and she made herself finish it rather than flinch. If every possible history was, in some sense, equally real mathematically, then perhaps the correct picture wasn't a multiverse of separate branching worlds at all, but a single four-dimensional block in which Tuesday and next Tuesday were simply two addresses in the same building — both permanently there, neither one waiting its turn. Not many futures. One geometry, viewed one slice at a time by someone stuck experiencing it in order. If that was right, the file marked ARRIVAL: 12:04 wasn't a prediction. It was a postcode. She did not enjoy that thought and declined, for now, to text it to Derek.
 She typed: "A change of stationery is not a change of daughter." She deleted it.
-Then she remembered the cucumber. She'd left it at the office. Derek texted: WHERE ARE YOU? — Cinema — WHAT ARE YOU WATCHING? — Everything Everywhere All at Once. — WHY? — Because you keep talking about holography and I wanted to see what the Americans think it means. — AND? — Jamie Lee Curtis survived Halloween. — THAT'S YOUR PHYSICS CONCLUSION? Penny typed: My physics conclusion is that if different descriptions can encode the same underlying reality, SR and GR don't need to be fundamental to be true. — NOT BAD. Then, a moment later: ALSO, JAMIE LEE CURTIS DID NOT "SURVIVE HALLOWEEN" IN THE PHYSICS SENSE. — You know what I meant. — I don't. — Americans. — That settles it.
-She put the phone away, laughing — and then noticed a character on screen holding a cucumber. Not identical to hers. Of course it wasn't; that would have been ridiculous. Still, she photographed the screen and sent it to Derek. LOOK. — I'M LOOKING. THAT'S A CUCUMBER. — So? — Nothing. — Yet.
+Then she remembered the cucumber. She'd left it at the office.
+Derek texted: WHERE ARE YOU?
+Cinema.
+WHAT ARE YOU WATCHING?
+Everything Everywhere All at Once.
+WHY?
+Because you keep talking about holography and I wanted to see what the Americans think it means.
+AND?
+Jamie Lee Curtis survived Halloween.
+THAT'S YOUR PHYSICS CONCLUSION?
+Penny typed: My physics conclusion is that if different descriptions can encode the same underlying reality, SR and GR don't need to be fundamental to be true.
+NOT BAD.
+Then, a moment later: ALSO, JAMIE LEE CURTIS DID NOT "SURVIVE HALLOWEEN" IN THE PHYSICS SENSE.
+You know what I meant.
+I don't.
+Americans.
+That settles it.
+She put the phone away, laughing, and then noticed a character on screen holding a cucumber. Not identical to hers. Of course it wasn't; that would have been ridiculous. Still, she photographed the screen and sent it to Derek.
+LOOK.
+I'M LOOKING. THAT'S A CUCUMBER.
+So?
+Nothing.
+Yet.
 She put the phone away for good this time, and thought about the Bureau, the clocks, the cold rain, the train, the other Derek. Perhaps they had been approaching the problem backwards all along — assuming something strange was happening inside spacetime, when the strange thing might be the relationship between different descriptions of it. What if the clocks weren't moving incorrectly, only belonging to different descriptions? What if the train wasn't travelling through a strange geometry — what if the train was the strange geometry? She wrote one last message: Don't investigate the clocks. Investigate the descriptions. Maybe the universe doesn't have one story. Maybe it has several descriptions that all have to agree on what can actually happen.
 Derek replied: Now you're talking.
 Penny smiled, put the phone away, and let the rest of the film wash over her with the specific satisfaction of someone who had just done more useful physics than the man who'd driven her out of the office to do it.
@@ -5111,7 +5132,7 @@ Trevor smiled. "Still Special Relativity."
 "Yes."
 Then they stopped. The cucumber returned to thirty-one centimetres. Perfectly ordinary.
 Penny grinned. "Excellent."
-Derek nodded. "Now we know the cucumber works — joke, clue, experiment, evidence, and whatever Penny is carefully not saying aloud. One object, two behaviours depending on the frame. If Case 1047 is the same trick with a corpse-shaped label, we are done hunting killers. If we get this wrong, Sophie stays in the wrong noun."
+Derek nodded. "Now we know the cucumber works — joke, clue, experiment, evidence, and whatever Penny is carefully not saying aloud. One object, two behaviours, depending on the frame. If Case 1047 is the same trick with a corpse-shaped label, we're done hunting killers."
 Trevor blinked twice. "What does that mean?"
 "It obeys relativity."
 "Of course it does."
@@ -5176,7 +5197,7 @@ Penny folded her arms. "Don't."
 Derek surveyed the second cucumber. "All right. Two cucumbers. Or one cucumber under two labels. I am beginning to hate that sentence."
 He stepped into the carriage. 
 Penny followed.
-Trevor wearily sighed.
+Trevor looked, briefly, entirely done with this.
 Then followed them. The doors quietly closed. 
 The mysterious train began to move.
 Behind them, the station disappeared. 
@@ -5294,7 +5315,7 @@ Trevor hung back from the empty carriage. "Do you know where it goes?"
 "No."
 "Do you know why it exists?"
 "No."
-Trevor wearily sighed. "Fine."
+Trevor sighed. "Fine."
 He stepped aboard. 
 Tabitha regarded him. "You know, for someone who asked whether it has a driver, you seem remarkably willing to get on it."
 "I am beginning to suspect that refusing to board would be less safe."
@@ -5424,7 +5445,7 @@ Cold rain streaked across the windows.
 London suddenly appeared. 
 Grey buildings. Grey sky. Grey people. Grey everything. 
 Trevor looked sharply relieved. "Back to normal."
-A raindrop hit the window. Derek watched it, and his stomach dropped—time seemed to slow as the drop hesitated mid-fall, hung there like an indrawn breath, then reversed. Then stopped.
+A raindrop hit the window. Derek watched it hesitate mid-fall, hang there a moment too long, then reverse. Then stop.
 Then moved sideways. Then went upward. Against every law Derek understood. Against the geometry that had governed his entire life.
 Trevor paused. "No."
 Penny leaned closer. "Interesting."
@@ -5470,7 +5491,7 @@ RELATIVITY PROVED RIGHT
 Penny laughed. "That's more like it."
 Derek turned the page again. A third headline:
 RELATIVITY PROVED BOTH
-Trevor went very still. "That's impossible."
+Trevor's whole body stilled. "That's impossible."
 Derek didn't even blink. "No."
 Trevor waited. Derek smiled. "No. It's journalism."
 Penny laughed. They sat on the bench. 
@@ -5488,13 +5509,13 @@ Trevor leaned closer. "Again."
 Derek confirmed. "Again."
 Derek tipped his head towards her. "What else could it be?"
 "An event label. Death. Departure. Arrival. One geometry, three names." She stopped. The rest of the sentence sat between them, unspoken.
-Derek went very still. Something about Tuesday morning's email rearranged itself behind his eyes. He did not say it aloud.
+Derek stopped moving. Something about Tuesday morning's email rearranged itself behind his eyes. He did not say it aloud.
 Trevor waved a hand between them. "So which clock is correct?"
 "Wrong question," Derek corrected. "Which description is allowed — and which action turns a label into proper time."
 Trevor angled his phone so the graphs filled the room. "Clocks are data. Data first."
 Penny pocketed the brass plate and turned her phone face-down. Trevor's graphs reflected in the glass; she did not look.
-Trevor wearily sighed. "I still want a person. Persons can be arrested."
-Derek's mouth curved without humour. "Then we may be hunting the wrong kind of noun."
+Trevor rubbed his eyes. "I still want a person. Persons can be arrested."
+Something crossed Derek's face that wasn't quite a smile. "Then we may be hunting the wrong kind of noun."
 They stood silently for a moment.
 Then Derek looked at the sky. The cold rain had stopped.
 That was unusual. Very unusual.
@@ -5725,8 +5746,8 @@ The Louvre guard was never identified. Weinstein made a few enquiries, of the so
 Nobody ever worked out who had sent Tabitha that message from Trevor's number, or how they'd known to send it eleven minutes before a train that, officially, did not exist pulled into a platform that also did not exist. Trevor checked his phone's sent folder obsessively for a week and found nothing. Penny suggested filing it under Pending Geometry, alongside the singularity and the cucumber. Derek suspected, without being able to prove it, that this particular drawer was going to need reopening sooner rather than later.
 Nor did anyone establish what would actually have happened had Weinstein reached the empty station first — only that two separate warnings, arriving by two entirely different routes — one buried in a case file, one sent from a phone that swore it hadn't — had gone to some trouble to make sure he didn't. Weinstein found this considerably more alarming than the geometry that had produced it, and said so, at length, to colleagues who had stopped finding it alarming several near-misses ago. Derek's own theory — that somewhere a version of the case existed in which nobody had listened, and the whole point of the warning was to make sure they never met it — was, he privately admitted, unprovable, uncomfortable, and almost certainly correct. He filed it under Pending Geometry and left the drawer shut.
 Derek never worked out how a note in his own handwriting had ended up inside Case 1047, warning him to keep Trevor away from a clock neither of them had found yet, in a hand he had no memory of using. He filed the question next to the others, on the grounds that a man who already owned one photograph of himself face-down on a floor was not obliged to go looking for a second mystery involving his own handwriting. Trevor, for his part, remained unconvinced he'd been fairly represented, and spent the rest of his professional life approaching every clock in the building with the particular caution of a man who had once been warned off one by name.
-Derek never explained, even to himself, the man he'd glimpsed sitting at his own desk that first week — old, grey-haired, gone the second time he looked — beyond noting that the chair had definitely been occupied and was then definitely not, which was, by that stage of the case, barely worth mentioning. He filed it under the same heading as the singularity and the Louvre guard, and didn't mention it to Trevor, on the grounds that Trevor already had one clock-based grievance and did not require a second.
-Derek never identified the woman on the Underground platform who'd known, correctly and without being told, that he was doing both kinds of relativity at once. He looked for her, in the loose, deniable way a man looks for someone he has decided not to be looking for, and never found her again. He filed her, eventually, next to the old man in the dark suit — not because the two cases had anything in common, but because both drawers were labelled Probably Irrelevant, and he had learned, by then, exactly how much that label was worth.
+Nor could he explain, even to himself, the man he'd glimpsed sitting at his own desk that first week — old, grey-haired, gone the second time he looked — beyond noting that the chair had definitely been occupied and was then definitely not, which was, by that stage of the case, barely worth mentioning. He filed it under the same heading as the singularity and the Louvre guard, and didn't mention it to Trevor, on the grounds that Trevor already had one clock-based grievance and did not require a second.
+The woman on the Underground platform went unidentified too — she'd known, correctly and without being told, that he was doing both kinds of relativity at once. He looked for her, in the loose, deniable way a man looks for someone he has decided not to be looking for, and never found her again. He filed her, eventually, next to the old man in the dark suit — not because the two cases had anything in common, but because both drawers were labelled Probably Irrelevant, and he had learned, by then, exactly how much that label was worth.
 Weinstein's own missing minute — his Munich clock had stopped at 11:16, a full sixty seconds before the Bureau's did in London — never received a tidier explanation than the general shape of the geometry itself. He filed it as a data point rather than a separate mystery, on the grounds that a physicist who chased down every disagreeing clock would simply never leave the house.
 The cucumber that had appeared in Derek's own hand on the platform — conjured from nowhere, its provenance never established — joined the same drawer. He ate it, eventually, on the grounds that evidence with no ongoing investigative value was, strictly speaking, lunch.
 Sophie's own brass clock — the one in her father's study, permanently and precisely four minutes fast — never made it into any official filing at all, mostly because nobody thought to ask a twelve-year-old for her evidence. She kept testing it anyway, on the grounds that someone in the family should keep a proper notebook, and filed the omission under the same heading her father would have used, had he known to: Pending Geometry.
