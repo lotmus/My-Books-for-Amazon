@@ -124,9 +124,17 @@ The operational translation is unromantic. A form that admits the review is opti
 
 Convert the Word file to EPUB for humans. KDP can eat .docx. Readers should not have to. Lock the text before anyone reviews it. A public review of a draft is a review of a draft.
 
+If you email the EPUB: the attachment is the book. They save it. They do not send it back to you. A Kindle does not open a Gmail attachment by itself. They send that saved file to their own address ending in @kindle.com (Amazon then Content and Devices then Preferences then Personal Document Settings), from an email Amazon has approved on that page — or they open the .epub in the Kindle app, Apple Books, or Google Play Books. BookFunnel and StoryOrigin exist so you do not teach this one reader at a time.
+
 ## VII. The free pipeline, now as a profit tool
 
 Open the form the week the draft hits KDP. Aim for thirty to fifty people if you want something near ten posts. Send two to three weeks before live. Ask for Amazon reviews only when the form exists. Paid matching services, if you use one, prefer a runway of about forty days and a title that is not already stale.
+
+### Who the form is for, and where it goes when you have no list
+
+The Google Form is an application. Who fills it: strangers who already read this genre. Not family. If you have no list and no followers, skip those sources. You never had them. Build the form at forms.google.com: name, email, three in-genre titles from the last year, Amazon or Goodreads profile, device, finish-by date, optional tropes or hard nos, required checkbox that any review is optional and honest. Copy the link. Never put the EPUB on the form. The spreadsheet behind the form is the roster. You approve; then you send the file.
+
+Where the link goes: Facebook group search for Indie Fantasy Addicts ARC and Beta Readers; ARC Group-for Readers & Authors; ARC Readers and Authors; plus a science-fiction ARC group if the book is SF. Join, read the pin, post once. No buy link. No required review. On Reddit use only r/ARCReaders and r/AdvanceReaderCopy. Not r/scifi. Not r/selfpublish. One pen-name public post and five DMs to small reviewers who already post in-genre are optional. Zero signups after a week is a reason to run the quiet water test or to pay BookSirens later — not a reason to recruit cousins.
 
 | When | Action | Money reason |
 |---|---|---|
