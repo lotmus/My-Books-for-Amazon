@@ -18,6 +18,8 @@ What dolphin scholarship can say, having watched the entire record rather than a
 
 It has, to be fair, sometimes arrived on time, and dolphin historians keep a short list: a Christmas truce organized by soldiers who then had to be ordered to stop, a naval officer in a submarine who declined to vote for war, a watch officer who distrusted his own machine. Every entry on it is one person or a few, acting against expectation and occasionally against orders. It has never yet arrived in bulk.
 
+Dr. Susurrus Undertow asked, at this point in the Society's final deliberations, that her Chapter 1 dissent be entered into the record as won. Her argument then was that a species never denied the hands to fail with does not get credit merely for not failing; the credit, if any is owed, belongs to whichever few individuals on that short list chose the harder option when the easier one was fully available to them. The quorum, less than half awake but for once unanimous, agreed to strike “we do not envy humans” from the earlier verdict and let this one stand instead: humans deserve less credit for having a conscience than for the handful of times, against every incentive in the room, they used it.
+
 **Humanity's Report Card**
 
 **Creativity: A+.** Humans painted caves, built cathedrals, composed symphonies, and walked on the Moon, and did a suspicious amount of it for no practical reason, which the committee considers the point.

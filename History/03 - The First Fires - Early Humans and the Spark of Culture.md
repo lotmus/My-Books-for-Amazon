@@ -24,7 +24,7 @@ By 1.7 million years ago, Homo erectus was making the Acheulean hand axe: a symm
 
 Language almost certainly came later and slower than either fire or stone, and dolphins are candid that nobody, human or dolphin, knows exactly when. What is certain is that a species sitting in circles, handling shared tools, teaching a hand axe's proportions to the next generation without a single word written down, already needed something well beyond grunts.
 
-Dolphins, watching all this from offshore for once quite literally, since early hominin sites cluster near African lakes and rivers, noted the smoke first.
+Dolphin scholarship concedes a small liberty here: the earliest hominin sites cluster around inland Rift Valley lakes and rivers, not the ocean coastline the Society otherwise relies on, and no oceanic dolphin has ever swum in one. The Society's official position is that a river empties into the sea eventually, and that this is close enough.
 
 **Dolphin verdict:**
 
