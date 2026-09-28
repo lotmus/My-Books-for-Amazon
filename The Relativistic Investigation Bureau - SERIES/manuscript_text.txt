@@ -91,7 +91,7 @@ The time of death had been entered. The location had been entered. The victim ha
 The victim was Derek Gent. Derek was alive. He was also the sort of man who noticed discrepancies in official paperwork. This particular discrepancy was rather difficult to ignore. 
 The paperwork predicted his death a day before it was due to occur. Derek therefore did what any sensible investigator would do.
 He checked the date, then the time, then the old clock.
-Then the clock again, because the first check had produced a result he found professionally inconvenient. 11:17. The mysterious clock had stopped.
+Then the clock again, because the first check had produced a result he found professionally inconvenient. 11:17 — not the beginning of this, not even close, but somewhere in the middle of it, which was somehow worse. The mysterious clock had stopped.
 Then there was Sherlock, a dolphin who worked remotely as an occasional Bureau consultant and was paid in fish. Nobody had yet found this arrangement stranger than the cases he commented on. He had never been asked to sit the capstone, which was probably why he passed it.
 The Bureau's official consultant-fee schedule still listed dolphins under Miscellaneous Marine. Accounts had queried it twice. Both queries had been answered, correctly, with a receipt for mackerel.
 For the same reason, when Derek found a murder notice announcing his own future death, he did not immediately conclude that he was being hunted by a time traveller, a quantum ghost or an unusually vindictive neighbour. 
@@ -2082,6 +2082,7 @@ Penny picked up her coat. "London?"
 "London."
 Trevor stood. "Platform seven?"
 "Platform seven."
+It was, Derek noted, the meeting Weinstein had proposed two days ago and they had never quite got round to — delayed by a very persuasive detour through Munich.
 Weinstein studied the clock. "And the train?"
 Derek carefully opened the door. "We'll find it."
 Barbarian called after him, "Mr Gent."
@@ -3961,6 +3962,7 @@ Rule: An open door is a missing-person report that has not admitted it yet.
 -> Lesson for this chapter: 9 - Relativistic Travel
 Chapter 10
 The Relativistic Ride
+It was Saturday, which Derek noted mainly because the Underground was, if anything, more crowded than usual, and less because he had any particular fondness for the distinction.
 The first important observation was that Derek Gent had apparently not quite murdered himself yet. Reassuring. Less so: passengers stepping off a train whose departure board still read NOT YET. The conductor apologised for the delay as if tomorrow were a timetable error. For a moment the platform felt bigger than London.
 A woman with a tomorrow-dated newspaper asked him the time. His watch said 11:18. Hers said 12:04. She thanked him as if both were correct, and walked into a Tuesday that had not finished arriving. Derek did not explain. He followed wet footprints that aimed the wrong way — and did not look at the school-bag strap visible at the edge of the photograph in his pocket.
 It was also becoming slightly embarrassing. 
@@ -5492,6 +5494,7 @@ Derek ignored her. He crouched beside the track. There was something on the rail
 A small brass plate. He picked it up. It was engraved with a single number:
 17
 Trevor leaned closer. "Again."
+Trevor stared at it for a long moment. "That's the number I guessed. Seventeen seconds of proper time — days ago, before we'd even confirmed a gap existed." He said it quietly, the way a man says something he doesn't quite want to be right about.
 Derek confirmed. "Again."
 Derek tipped his head towards her. "What else could it be?"
 "An event label. Death. Departure. Arrival. One geometry, three names." She stopped. The rest of the sentence sat between them, unspoken.
@@ -5744,7 +5747,7 @@ One small matter had, admittedly, been resolved. The initials on the clock — L
 He filed actual, ordinary cases under actual, ordinary categories, and none of them concerned him personally. Sophie texted twice about nothing in particular, which he had learned to recognise as the highest compliment she had available. Penny stopped watching him sideways when she thought he wasn't looking. He allowed himself, cautiously, to believe it might simply be over.
 On the Friday, Penny ordered curry for the whole Bureau, on the grounds that a team that had spent a week arguing about whether the dead could still receive post deserved at least one meal that didn't come out of a vending machine. They ate it straight from the containers, at desks still faintly haunted by chalk diagrams of spacetime. Derek discovered, somewhere around his second popadom, that he was extremely and uncomplicatedly glad to be alive — not in the abstract, philosophical way the case had spent every day of that week making him consider it, but in the specific, practical way that meant he was eating a chicken jalfrezi instead of, as had at various points seemed likely, pushing up daisies. He mentioned this to no one, on the grounds that saying it aloud would have obliged someone to make a joke about it, and he wanted, just this once, to enjoy being not dead in silence.
 Weinstein, predictably, ruined the silence. He remarked, through a mouthful of naan, that the curry had taken forty minutes to arrive by the delivery driver's watch and thirty-nine by the Bureau's, on account of a set of traffic lights that had briefly convinced two clocks they disagreed about the order of events. Trevor asked, not unreasonably, whether the delivery firm could simply hire a tachyon and skip the traffic altogether. Weinstein said that a tachyon would arrive before it had been dispatched, refuse the order retroactively, and leave the Bureau owing a refund to a version of itself that had never placed one — which, he added, was a worse system than the Northern line, and that was saying something. Nobody found any of this as fascinating as Weinstein did. Derek found it, on reflection, exactly fascinating enough — the universe was still out there disagreeing with itself about details, same as ever, and for once none of the disagreements involved anyone's death. He decided he could live with a universe like that.
-Later that week, Derek took Sophie shopping for school shoes, on the grounds that fatherhood, like the universe, occasionally demanded ordinary maintenance. The department store's lift stuttered between the second and third floors, held, and dropped an inch with a lurch that emptied both their stomachs at once. Sophie gripped the handrail. "Are we falling?"
+Later that week, Derek took Sophie shopping for school shoes ahead of the new term, on the grounds that fatherhood, like the universe, occasionally demanded ordinary maintenance. The department store's lift stuttered between the second and third floors, held, and dropped an inch with a lurch that emptied both their stomachs at once. Sophie gripped the handrail. "Are we falling?"
 Derek considered this with more care than the question strictly required. "Technically," he said, "there's no experiment you could run inside this lift that would tell you whether we're falling freely or just floating in a lift far from any gravity at all. It's called the equivalence principle. Chapter Six of my life, roughly." The lift shuddered and resumed its climb, gravity reasserting its usual bureaucratic authority. "Turns out it also can't tell you whether the culprit is a cable or a motor that hates Tuesdays."
 Sophie considered this with the weary patience of a twelve-year-old whose father had spent a week investigating a filing error. "Dad. It's a lift."
 "Everything's a lift, if you corner it correctly."
