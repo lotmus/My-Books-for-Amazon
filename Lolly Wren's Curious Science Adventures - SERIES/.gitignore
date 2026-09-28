@@ -1,0 +1,6 @@
+# Local-only draft snapshots, kept on disk but not tracked
+Book 1 - Schrodingers Paperwork/English/drafts/*_BEFORE_*.docx
+
+# Office lock files and tool caches (in case root .gitignore is ever missing/stale)
+~$*
+__pycache__/
