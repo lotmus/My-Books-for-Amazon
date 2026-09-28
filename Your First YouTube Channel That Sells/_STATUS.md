@@ -27,9 +27,11 @@ Current contents:
   merged — see below.
 - `figures/free-production-pipeline.svg` — a colorful five-stage diagram
   summarizing that chapter, used as its opening visual.
-- `_source/` — four author-uploaded files (see below for what each actually
-  is). A much larger batch of files uploaded mid-session-2 was *not* added
-  here — see "Session 2: a large uploaded-file batch" below for why.
+- `_source/` — six files (see below for what each actually is). Four are
+  from session 1; two more (general free-media/stock-site lists) were added
+  in session 2. A much larger batch of files uploaded mid-session-2 was
+  *not* added here — see "Session 2: a large uploaded-file batch" below for
+  why.
 - `CLAUDE.md` — scope, project facts, and house style.
 
 ## What's actually in `_source/` — read this before using any of it
@@ -53,6 +55,13 @@ Current contents:
   kind of source as above) on how caption/subtitle controls and the Studio
   upload workflow work. General and reusable; the content itself is ordinary,
   checkable interface behavior.
+- `Free Media (curated shortlist).txt` and `More Free Stock Video and Music
+  URLs (pasted chat content).txt` — added session 2. Both are plain lists of
+  free/CC-licensed stock-footage and music sites (Pexels, Pixabay, Mixkit,
+  Videvo, Life of Vids, Mazwai, Dareful, Uppbeat, Jamendo, Purple Planet
+  Music, and others), same kind of source as the bookmark list above.
+  General and reusable; several entries are already cited in the *Create*
+  chapter's footage/music tables.
 
 ## The incident this session's CLAUDE.md rule comes from
 
@@ -95,25 +104,46 @@ Notably:
   YouTube export settings (resolution, frame rate, codec, bitrate, audio
   settings) — was extracted with no reference to that project and folded into
   the new chapter.
-- `Teach_German_with_comic-style_news_with_own_text.docx`,
-  `Stummfilm_Workflow.docx`, and `Style_Deadpan_cinematic_surreal.txt` —
-  read but not used: each reads as a distinct personal channel concept of the
-  author's (a German-vocabulary comic-news format, a silent-film restoration
-  workflow, a visual style guide), not general craft, and none fit an
-  already-planned chapter. Left alone.
+- `Teach_German_with_comic-style_news_with_own_text.docx` and
+  `Stummfilm_Workflow.docx` — read but not used: each reads as a distinct
+  personal channel concept of the author's (a German-vocabulary comic-news
+  format, a silent-film restoration workflow), not general craft, and neither
+  fits an already-planned chapter. Left alone.
+- `TTS_-_The_Alien_Genius_of_the_Ocean_-_Octopus.txt` — a finished script for
+  what reads as the author's own actual, existing channel ("Planetary
+  Knowledge Hub"). Specific real content, not general teaching material —
+  excluded the same way the HEI and Singsang material was.
+
+**Two files were excluded for a different reason, and it's worth being
+explicit about it rather than filing them next to the merely off-topic
+ones.** `Style_Deadpan_cinematic_surreal.txt` is an AI-video prompt built
+around a real, named actor's likeness in an invented scene. `high_quality_
+clear_cinematic._she.txt` is an explicit sexual AI-image/video prompt, one
+variant of which names a real public figure's likeness in a fabricated
+sexual scenario. A third file, `workable_free_versions.txt`, otherwise a
+normal tool bookmark list, contained one line in the same category (making
+a real political figure appear to say fabricated things) that was cut before
+anything else in that file was used. None of the three were summarized,
+referenced, or mined for "general technique" — a real person's likeness used
+without consent isn't a scope problem the way the channel-specific files
+above are; it's excluded outright, regardless of context. If either of the
+first two files resurfaces in a future session, treat them the same way.
 
 Other files in the same batch were general and safe to use the same way the
 original `_source/` bookmark list was — free-media site lists (expanding the
-footage and music tables), a note on 100%-free-forever AI video tools, a
-note on TTS/faceless-channel voice options, and a general chat answer on the
+footage and music tables; the two source files are now in `_source/` — see
+above), a note on 100%-free-forever AI video tools, more free/near-free AI
+avatar and text-to-video tools with their free-tier limits (from the
+sanitized remainder of `workable_free_versions.txt`), a note on
+TTS/faceless-channel voice options, and a general chat answer on the
 copyright-safe "rewrite it yourself" workflow. These were mined for
 technique only, per the author's explicit instruction ("incorporate anything
 useful in general ways, not examples") — no scripts, character names, niche
 ideas, or pricing decisions from any of these files made it into the
-manuscript. None of the ~20 uploaded files were copied into this repo's
-`_source/`; they only exist in the chat upload area. Worth asking the author
-whether the two generic free-media-list files specifically are worth adding
-to `_source/` for future reference.
+manuscript. Other than the two free-media files, none of the ~20 uploaded
+files were copied into this repo's `_source/`; the rest only exist in the
+chat upload area, and given what turned up in this batch, nothing further
+should be copied in without the same read-first triage this batch got.
 
 Two files in the batch were unrelated to this book entirely: a duplicate of
 a decades-old, public Microsoft Knowledge Base article on Visual Basic 6
