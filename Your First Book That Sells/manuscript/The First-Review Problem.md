@@ -8,6 +8,8 @@ The target is not “a few sales so the page looks alive.” The target is unit 
 
 Amazon’s written rules are treated as constraints. Ranking talk is labeled as inference. Pricing bands below reflect KDP’s 70 percent ebook option as expanded in July 2026 ($2.99–$12.99 on Amazon.com). Confirm the live help page before you lock a price.
 
+> **Terms used in this chapter.** ARC: advance reader copy, sent before the book is live. KU / Select: Kindle Unlimited and KDP Select, Amazon’s borrow-and-subscription program. ASIN: the product ID a book receives on publication — no review can post before it exists. EPUB: the reflowable file format every e-reader except Kindle actually wants.
+
 ## I. Selling a few copies is not a business
 
 Most debut Kindle books do sell. They sell to the author, a handful of acquaintances, and whoever stumbles in during the week the title is new. Then the week ends. Best Sellers Rank slides. Ads, if they ran at all, start costing more than they return. The author concludes that “self-publishing doesn’t pay” after sampling a market that never saw a trustworthy product page.
@@ -22,7 +24,7 @@ The rest of this book is the sequence that makes those two sentences operational
 
 ### Not from the first ten cousins
 
-Friends and family can put a number on a dashboard. They cannot put you in “Customers who bought this also bought.” They cannot teach Amazon who the book is for. They often cannot review without violating Community Guidelines. Count them as a rounding error. If the business plan requires them, there is no business plan.
+Friends and family can put a number on a dashboard. They cannot put you in “Customers who bought this also bought.” They cannot teach Amazon who the book is for. They often cannot review without violating Community Guidelines — the $50 spend-history rule in §VI is the specific trap. Count them as a rounding error. If the business plan requires them, there is no business plan.
 
 ### From conversion on paid and organic traffic
 
@@ -42,7 +44,7 @@ Launch week is the only cheap moment in which your own list, incoming advance-co
 
 That is why you recruit readers while the KDP file is still a draft. They cannot post until the ASIN exists. They cannot read a novel overnight. The calendar is a reading calendar first. Reverse it and launch week is an apology.
 
-A Select free day is not a substitute. Free downloads do not count as paid sales. They produce files, not reliably reviews. Organic review rates after a cold free grab are often described in fractions of a percent. An advance-reader group that asked for the book in-genre is a different population; posting rates of a quarter to two-fifths are commonly logged by authors who bother to count. Use the crowd after the page can convert. Use the small group to make conversion possible.
+A Select free day is not a substitute. Free downloads do not count as paid sales. They produce files, not reliably reviews. Nobody publishes a clean study on organic post-free review rates; author forums describe them anecdotally, in fractions of a percent — treat that as a reason to test small, not as a citation. An advance-reader group that asked for the book in-genre is a different population; posting rates of a quarter to two-fifths are commonly logged by authors who bother to count — call it survivorship bias with better manners, but it is the bias you want. Use the crowd after the page can convert. Use the small group to make conversion possible.
 
 > **Certainty, labeled.** If Amazon never uses review count internally, shoppers still see the empty module, newsletter editors still use it as a gate, and ads still die on untrusted pages. The cash-flow case does not require an occult coefficient.
 
@@ -50,22 +52,29 @@ A Select free day is not a substitute. Free downloads do not count as paid sales
 
 On Amazon.com, the 70 percent ebook option applies when the list price sits in the published band — $2.99 to $12.99 after the July 2026 expansion — and you have actually selected that option. Outside the band you earn 35 percent. Delivery cost (on the order of $0.15 per megabyte of the file) is deducted under 70 percent and not under 35 percent. A lean novel file makes 70 percent unambiguously better inside the band. An illustrated file can nibble the advantage; check the size.
 
-Worked picture, approximate, 2 MB file, 70 percent selected:
+Worked picture, approximate, 2 MB file, 70 percent selected — delivery fee (~$0.15/MB × 2MB = $0.30) subtracted wherever 70 percent applies, per the rule above:
 
 | List price | Typical royalty band | Rough net / sale | Job of this price |
 |---|---|---|---|
 | $0.99 | 35% | ~$0.35 | Launch spike or loss-leader. Never the forever price of a lone book. |
-| $2.99 | 70% | ~$2.00 | Floor of serious money. Default if unsure. |
-| $3.99–$4.99 | 70% | ~$2.70–$3.40 | Genre fiction’s long-term home for many series mid-books. |
-| $5.99–$7.99 | 70% | higher | Longer work, established name, or dense nonfiction. |
-| $9.99–$12.99 | 70% if option on | highest unit | Only if comps and proof support it. Debut novels rarely. |
-| $1.99 or $13+ | 35% | often worse than $2.99 | Usually a mistake unless you have a specific reason. |
+| $2.99 | 70% | ~$1.79 | Floor of serious money. Default if unsure. |
+| $3.99–$4.99 | 70% | ~$2.49–$3.19 | Genre fiction’s long-term home for many series mid-books. |
+| $5.99–$7.99 | 70% | ~$3.89–$5.29 | Longer work, established name, or dense nonfiction. |
+| $9.99–$12.99 | 70% if option on | ~$6.69–$8.79 | Only if comps and proof support it. Debut novels rarely. |
+| $1.99 | 35% | ~$0.70 | The 35% trap dressed up as a friendly compromise. Worse net than $2.99 despite looking cheaper to the reader. |
+| $13+ | 35% (outside the band) | high in isolation | The royalty math is fine alone; a debut rarely has the comps or proof to hold that price, so volume collapses before the math gets to matter. |
 
 The important inequality: $2.99 at 70 percent usually earns more per copy than $1.99 at 35 percent, and often more than a higher price that fell out of the band before July 2026. Do not price at $1.99 to “meet people halfway.” You have left most of the copy on the table.
 
-Print is a separate ledger. Paperback royalties are list minus print cost times the print rate, which Amazon has tightened in recent years on lower-priced paperbacks. Do not set ebook price by paperback vanity. Do not set paperback price so low the print cost eats it.
+A worked contrast for a heavier file: a 20 MB illustrated nonfiction title at $9.99, 70 percent selected. Royalty: $9.99 × 0.70 = $6.99. Delivery: $0.15/MB × 20 MB = $3.00. Net: roughly **$4.00** — not the $6.69–$8.79 the table above shows for a lean 2 MB file at similar prices. The percentage never changed; the file did. Compress images before you trust any of these numbers, and rerun the math on [Kindlepreneur’s KDP royalty calculator](https://kindlepreneur.com/kdp-royalty-calculator/) with your own file’s actual size, not the 2 MB assumption this chapter has been using throughout.
+
+Print is a separate ledger. Paperback royalties are list minus print cost times the print rate, which Amazon has tightened in recent years on lower-priced paperbacks. Do not set ebook price by paperback vanity. Do not set paperback price so low the print cost eats it — print cost does not care how proud you are of the cover.
 
 ## V. Initial price versus later price
+
+Skip to whichever subsection matches where you actually are — a debut with nothing behind it, or a series with at least one sequel live. The math does not agree with itself across the two cases, on purpose.
+
+![Which pricing path are you on: a decision tree branching on whether a paid sequel already exists](../figures/fig02_pricing_decision.png)
 
 ### The principle
 
@@ -108,11 +117,22 @@ If the title is in Select, a $0.99 or free window still pays you when KU readers
 
 Amazon’s help text: you may give a free or discounted copy; you may not require a review, steer it, or add a gift. Friends, employees, and author-for-author swaps sit outside the fence. Unverified advance-copy reviews still display. They simply lack the purchase badge. Chasing the badge with refunds is how listings get cleaned.
 
+Enforcement has only gotten more aggressive, not less: Amazon has spent the last few years pulling flagged reviews — incentivized, traded, or machine-written — and closing accounts on both sides of the trade. One genuine, unsolicited paragraph from a stranger now outlives a hundred purchased five-star ratings that vanish in the next sweep. Confirm the current Community Guidelines before you build a roster; this is the part of the rulebook that moves the most.
+
+A second, separate rule now applies to the manuscript itself, not just its reviews. KDP requires disclosure of AI-*generated* content — text, images, or translations an AI tool produced, even if you edited the result afterward — but not of AI-*assisted* content, where you wrote it yourself and a tool only edited, refined, or helped you brainstorm. The distinction is Amazon’s to draw, not this book’s judgment call: get it wrong and the risk is the listing coming down. Disclosure happens privately at upload and never appears on the product page, so a reader cannot tell either way — which is exactly why the honesty is owed to Amazon, not performed for a shopper. See [KDP Help: Content Guidelines](https://kdp.amazon.com/en_US/help/topic/G200672390) (G200672390) before you check either box.
+
 ### Who is allowed to post on Amazon
 
-A free copy is not enough. On Amazon.com, Community Guidelines require the reviewer to have spent at least $50 on that marketplace with a credit or debit card in the past twelve months before they can leave a rating or written review. Promotional discounts do not count. Gift-card-only spend is widely treated as not counting. Spend on Amazon.co.uk or .ca does not qualify an account on .com.
+A free copy is not enough. On Amazon.com, Community Guidelines require the reviewer to clear a spend bar before they can leave a rating or written review:
+
+- At least **$50** spent on that marketplace with a credit or debit card in the past twelve months.
+- Promotional discounts do not count toward that $50.
+- Gift-card-only spend is widely treated as not counting either.
+- Each Amazon marketplace sets its own bar in its own currency — spend on Amazon.co.uk or .ca does not qualify an account on .com, and the reverse is equally true.
 
 That is why a brand-new login can read your EPUB and still hit a wall at the review button. Prefer ARC readers who already have Amazon reviews of other books. Do not tell anyone to spend fifty dollars so they can review you; that starts to look like a condition. Meeting the spend bar still does not create a Verified Purchase badge. Verification is a separate check that they bought this title on Amazon at a normal price.
+
+The same fragmentation shows up in royalty bands, not just review eligibility. Amazon.com’s 70 percent band is priced in dollars; Amazon.co.uk, .de, and the rest each publish their own band in their own currency, and a book can sit inside the band on one storefront and outside it on another at what looks like “the same” converted price. A series priced consistently in USD is not automatically priced consistently in royalty terms once it is live on five storefronts. Check each marketplace’s own current help page — not a currency converter — before assuming the domestic price logic travels.
 
 ### Goodreads is a different door
 
@@ -120,21 +140,42 @@ Goodreads has no spend minimum. A normal member account can rate a book as soon 
 
 For advance copies Goodreads now asks the reader to confirm they read the book (DNF is allowed) and to pick a source — author or publisher, Giveaway, NetGalley, other. That source can display with the review. Want to Read is not enough to leave stars; the book must sit on Read, Currently Reading, or Did Not Finish. Do not tell readers to hide the free copy on Goodreads. The source picker is the disclosure.
 
+![Can this reader actually post a review: Amazon's $50 spend-history check versus Goodreads' no-minimum rule](../figures/fig03_review_eligibility.png)
+
+### The first bad one
+
+It will not always be a good one. Amazon does not remove a review for being critical or for landing at one or two stars — only for violating Community Guidelines: obscenity, harassment, spam, off-topic content, someone else’s personal information, or a competitor posting in bad faith. A reader who genuinely disliked the book is none of those things, and reporting that review through Amazon’s “Report abuse” link will not remove it, nor should it.
+
+Do not reply to it. An author’s public reply sits permanently under the review, and a defensive one reads worse than the original star rating ever did. If the review names a real production fault — a broken table, a missing chapter, a formatting error — fix the file and move on; the fix helps the next hundred readers more than an argument with one of them ever would.
+
+A single candid three-star review that names a specific gripe is, by most working authors’ own account, worth more to a cold shopper than another five-star repeating “loved it.” A page of nothing but superlatives reads like a page nobody dared to be honest on. Recruit for honest reactions, not for unanimous ones; the ARC form in §VII already asks for exactly that.
+
+### Running the roster without breaking the rule
+
 The operational translation is unromantic. A form that admits the review is optional. A roster that prefers genre readers with a public history of writing sentences — and, on Amazon, an account that can actually post. Three emails: you are on the list; here is the file; here is the live URL. One later note to downloaders. No “book two only if you posted four stars.” That sentence is a gift card.
+
+### Delivering the file
 
 Convert the Word file to EPUB for humans. KDP can eat .docx. Readers should not have to. Lock the text before anyone reviews it. A public review of a draft is a review of a draft.
 
-If you email the EPUB: the attachment is the book. They save it. They do not send it back to you. A Kindle does not open a Gmail attachment by itself. They send that saved file to their own address ending in @kindle.com (Amazon then Content and Devices then Preferences then Personal Document Settings), from an email Amazon has approved on that page — or they open the .epub in the Kindle app, Apple Books, or Google Play Books. BookFunnel and StoryOrigin exist so you do not teach this one reader at a time.
+If you email the EPUB, the attachment is the book — but a Kindle does not open a Gmail attachment by itself. The reader has two paths:
+
+- Forward the saved file to their own address ending in **@kindle.com** (Amazon → Content and Devices → Preferences → Personal Document Settings), sent from an email address Amazon has already approved on that same page.
+- Or open the `.epub` directly in the Kindle app, Apple Books, or Google Play Books.
+
+BookFunnel and StoryOrigin exist so you do not teach this one reader at a time.
 
 ## VII. The free pipeline, now as a profit tool
 
 Open the form the week the draft hits KDP. Aim for thirty to fifty people if you want something near ten posts. Send two to three weeks before live. Ask for Amazon reviews only when the form exists. Paid matching services, if you use one, prefer a runway of about forty days and a title that is not already stale.
 
+[Published guidance on managed ARC campaigns](https://www.bookready.net/blog/20-reviews-launch-day-arc) — deadlines, reminders, a real roster instead of a link dropped in a group — reports review rates landing between roughly **38% and 75%** of the readers who received a file, nowhere near the fractional percentage a cold free-day grab produces. [A roster of twenty to thirty readers](https://indiebookbeacon.com/2026/06/02/what-is-an-arc-team-and-do-you-need-one/) commonly turns into ten or more day-one posts on exactly that logic.
+
 ### Who the form is for, and where it goes when you have no list
 
 The Google Form is an application. Who fills it: strangers who already read this genre. Not family. If you have no list and no followers, skip those sources. You never had them. Build the form at forms.google.com: name, email, three in-genre titles from the last year, Amazon or Goodreads profile, device, finish-by date, optional tropes or hard nos, required checkbox that any review is optional and honest. Copy the link. Never put the EPUB on the form. The spreadsheet behind the form is the roster. You approve; then you send the file.
 
-Where the link goes: Facebook group search for Indie Fantasy Addicts ARC and Beta Readers; ARC Group-for Readers & Authors; ARC Readers and Authors; plus a science-fiction ARC group if the book is SF. Join, read the pin, post once. No buy link. No required review. On Reddit use only r/ARCReaders and r/AdvanceReaderCopy. Not r/scifi. Not r/selfpublish. One pen-name public post and five DMs to small reviewers who already post in-genre are optional. Zero signups after a week is a reason to run the quiet water test or to pay BookSirens later — not a reason to recruit cousins.
+Where the link goes: Facebook group search for Indie Fantasy Addicts ARC and Beta Readers; ARC Group-for Readers & Authors; ARC Readers and Authors; plus a science-fiction ARC group if the book is SF. Join, read the pin, post once. No buy link. No required review. On Reddit use only r/ARCReaders and r/AdvanceReaderCopy. Not r/scifi. Not r/selfpublish. One pen-name public post and five DMs to small reviewers who already post in-genre are optional. Zero signups after a week is a reason to run the quiet water test — repost the identical ask in exactly one low-traffic group, alone, and see if that single quiet pond produces a single bite before concluding the whole genre has no readers — or to pay BookSirens later. It is not a reason to recruit cousins.
 
 | When | Action | Money reason |
 |---|---|---|
@@ -148,7 +189,7 @@ Recruit from a list first, then your own channels, then groups that exist for ad
 
 ## VIII. What to pay for — only if it raises expected value
 
-Pay to fill a hole in the funnel, not to soothe anxiety. No names: a capped matching service (BookSirens Promote or Booksprout). Kindle tickets eating the week: BookFunnel’s mail tool. Desire to trade newsletters later: StoryOrigin. Librarians: NetGalley, which will not print ten Amazon reviews on a budget. Two finder networks on one title is waste.
+Pay to fill a hole in the funnel, not to soothe anxiety. No names: a capped matching service (BookSirens Promote or Booksprout). Kindle tickets eating the week: BookFunnel’s mail tool. Desire to trade newsletters later: StoryOrigin. Librarians: NetGalley, which will not print ten Amazon reviews on a budget. Two finder networks on one title is waste — the same reader does not convert twice as fast for being found by both of them.
 
 A bounded BookSirens experiment — listing fee plus a few dollars per reader they find who downloads, capped at twenty-five — is cheaper than a month of ads onto an empty page. You are buying downloads from people who asked to read, not guaranteed sentences. The review remains optional. That is the point.
 
@@ -161,6 +202,8 @@ Wide, if you decline Select: Draft2Digital to other stores and library vendors. 
 Ads belong after the module is no longer empty and after price sits where you intend to live. Otherwise you are paying to demonstrate that untrusted pages do not convert — a lesson this book was meant to spare you.
 
 ## X. A sequence that is allowed to mention money
+
+![The launch timeline as a pipeline: upload week, 2-3 weeks out, live week, weeks 3-6, and book 2 in hand, each with its money reason](../figures/fig01_launch_timeline.png)
 
 1. Lock the manuscript. Make an EPUB. Price the ebook in the 70 percent band unless you already have a sequel to justify bait.
 2. Recruit advance readers now. Send files two to three weeks before the page exists.
@@ -180,7 +223,7 @@ Ads belong after the module is no longer empty and after price sits where you in
 
 ## XI. Field reports — what published accounts actually show
 
-Blogs are not laboratories. They are still better than folklore, provided you notice who already had a list. The pattern that repeats is not magic. It is proof on the page, a price that can move, and something to sell after book one.
+> **Certainty, labeled.** Blogs and author interviews are not laboratories. They are still better than folklore, provided you notice who already had a list before the launch you are reading about. The pattern that repeats is not magic — it is proof on the page, a price that can move, and something to sell after book one.
 
 ### This book’s approach, in the wild
 
@@ -192,13 +235,19 @@ What to copy: the two-week ARC window, BookFunnel as plumbing, a planned raise. 
 
 #### Cindy L. Sell, *Remnants* (BookBub Partners interview, 2024)
 
-A closer debut. She built the roster with a Google Form, social posts, BookFunnel delivery, and BookSirens (nine of their readers, seven reviews, some of them usefully long). Goodreads filled first — about 120 ratings before Amazon was dense. She priced the ebook at $3.99 and did not discount it immediately. A week after launch she reported more than 200 copies. The features that moved units were BookBub New Releases for Less and an ABA advance-access blast, not the ARC team alone.
+A closer debut. She built the roster with a Google Form, social posts, BookFunnel delivery, and BookSirens (nine of their readers, seven reviews, some of them usefully long). Goodreads filled first — about 120 ratings before Amazon was dense. She priced the ebook at $3.99 and did not discount it immediately. A week after launch she reported more than 200 copies. The features that moved units were BookBub New Releases for Less and an advance-access email blast, not the ARC team alone.
 
 What to copy: form plus a capped matcher; hold $3.99 when you have no sequel to recover a $0.99 week; treat BookSirens as a quality supplement. Treat extra physical gifts as off-limits if they are tied to an Amazon review. Amazon’s rule remains the book only.
 
-#### Urban fantasy quartet (HMD Publishing, 2026)
+#### Michael Anderle and the 20Booksto50K philosophy (multiple interviews, 2017–2024)
 
-A formatter reported KDP exports from a four-book series that sat at a flat $4.99 for six months. Book-one to book-two read-through ran about 11 percent. The author then cut book one to $0.99 for thirty days with the rest of the series already live. Read-through to book two rose to about 19 percent in that window. One series, one month, not a trial. It is still the series-bait pattern: do not light book one on fire until there is a paid book two.
+Not a single launch, and not this chapter’s kind of case study — a publishing philosophy, on the record across many interviews rather than one countable event. Anderle (LMBPN Publishing) built a multi-hundred-title catalog on a stated unit target: roughly $7.50 in royalty per book per day as the bar a title needs to clear to stay worth active promotion, a number he has repeated across interviews rather than asserted once. The name “20Booksto50K” describes the movement his and Judith Anderle’s talks helped start: volume and catalog depth over any single book’s performance, book one priced to move readers into the books that actually carry the margin.
+
+What to copy: a stated per-unit bar instead of a vague “it’s selling okay,” and book one treated as acquisition cost on purpose, at catalog scale. What not to copy blindly: the model assumes a catalog large enough that the bar can be measured across dozens of titles — [discussed across multiple interviews](https://starkreflections.ca/2021/02/19/episode-178-the-wide-world-vision-of-judith-and-michael-anderle-of-lmbpn-publishing/) rather than a debut author's single book, which has no fleet average to fall back on.
+
+#### A composite pattern, illustrative only (not a single checkable source)
+
+Unlike the two named cases above, this one does not clear this book’s own bar for a case study: it comes secondhand, from a formatter describing unnamed KDP exports, not a named author on the record. It stays in only because the shape recurs often enough to be worth naming, clearly marked as the exception it is. A four-book series sat at a flat $4.99 for six months; book-one-to-book-two read-through ran about 11 percent. Book one was cut to $0.99 for thirty days with the rest of the series already live; read-through to book two rose to about 19 percent in that window. Treat the shape, not the specific numbers, as the takeaway: do not light book one on fire until there is a paid book two.
 
 #### Kboards thread on full price versus 99 cents (2017)
 
@@ -208,7 +257,7 @@ Working authors compared notes in public. One launched at $2.99 and raised to $4
 
 #### List first, book second
 
-Arenson’s result is partly a list result. Some authors refuse to launch until a few hundred addresses exist. The first-review problem shrinks because launch week is no longer cold. The cost is time. If the novel is already finished, waiting a year to start the ARC clock is usually the wrong trade. Build the list in parallel.
+Arenson’s result is partly a list result. Some authors refuse to launch until a few hundred addresses exist. The first-review problem shrinks because launch week is no longer cold. The cost is time. If the novel is already finished, waiting a year to start the ARC clock is usually the wrong trade — a finished manuscript ages like milk, not wine. Build the list in parallel.
 
 #### Full-price launch, no 99-cent week
 
