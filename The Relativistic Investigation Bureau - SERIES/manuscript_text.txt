@@ -153,7 +153,7 @@ He had a sister, Tabitha, who was generally considered the more dangerous of the
 Derek, for his part, had Sophie - twelve, precise, already suspicious of adult explanations - currently at school, which was supposed to be the safest sentence in London.
 Sophie's mother, Tuppence - a name whose irony Derek had once pointed out, to no discernible improvement in the conversation - had left three years earlier, for a man named Julian who had made an improbable fortune manufacturing clothes hangers. She had told him, with the specific clarity she reserved for important announcements, that he did not make enough money for her needs - a diagnosis Derek found difficult to dispute, given that the Bureau's ordinary cases paid terribly and its unusual ones paid worse. When Derek had attempted to point out that the Bureau offered a more relativistic kind of reward, she had considered this for exactly as long as it deserved. "Relativistic, my arse," she said, and was gone by Thursday. Derek had filed the entire matter under Processed - Do Not Reopen, which worked well enough, most days.
 Tuppence had been, by every account Derek retained without particularly wanting to, immaculately put together - the sort of competence that read as polish, heels chosen for effect rather than comfort, opinions delivered as though already finalised by committee. It was, he privately conceded, an entirely reasonable set of qualities to want from a life. He had simply never managed to embody them himself.
-At his desk, Trevor removed his glasses, a gesture that, in the Bureau, usually preceded either insight or complete bafflement, with no reliable way of telling which in advance. "What?"
+At his desk, Trevor removed his glasses - a small, unhelpful tic, giving no reliable clue whether insight or complete bafflement was about to follow. "What?"
 Derek had stopped trying to predict it years ago. "I've been murdered."
 "Recently?"
 "Tomorrow."
@@ -3466,10 +3466,6 @@ Derek lifted his gaze. He had been expecting something. He wasn't sure what.
 Perhaps the carriage would suddenly become six-dimensional. Perhaps the passengers would all age at different rates. Perhaps a small black hole would appear near the emergency familiar door.
 Nothing happened. A man sneezed.
 Derek softly sighed.
-He got off. Rainwater dripped from his umbrella as he climbed the stairs. At street level he stopped.
-The cold rain was heavier now. He eyed the sky. Then at the pavement.
-Then at the Underground entrance. The cold rain was falling. The trains were moving.
-The clocks were ticking. Everything seemed perfectly ordinary. Which, Derek had learned, was often when things became interesting.
 He went back underground. This time he chose an empty station with a long escalator. He quietly stood still while it carried him downward.
 He quietly studied the steps. They moved beneath him. He tracked the handrail.
 It moved at a different speed relative to the walls. He surveyed the people. They were moving relative to him.
@@ -5607,6 +5603,7 @@ Weinstein exhaled. "Like the cucumber."
 Somewhere across London, in the Bureau's quiet office, Trevor and Penny and Derek heard the same voice inside their own heads, walking the same four steps.
 Trevor's attention quickened. "If this is another lecture - "
 "It isn't," Penny corrected. "It's arithmetic. Listen."
+Derek got there first, half a second ahead of the voice in his own skull: "One event. Three labels. We've been arresting a coordinate, not a killer."
 On Derek's screen the category field flickered, one step behind Sherlock's argument: MURDER... DEPARTURE... ARRIVAL... PENDING GEOMETRY. Mrs Marsh's stamp appeared in the margin without a hand attached. The photograph's caption blanked, then returned as EVENT - UNSORTED.
 The brass clock stayed at 11:03. The office clocks kept counting. Nobody confused them again.
 Penny remembered asking, days ago, whether "departure" meant the train, and being told only "perhaps" - as if a correct guess still had to wait its turn behind the evidence.
@@ -5621,6 +5618,8 @@ Weinstein rubbed his eyes. "And Derek standing up. Dead, and standing. I watched
 "You weren't given one," Sherlock continued. "You watched the label change - Death to Departure to Arrival - faster than your eye could sort it, and your eye did what eyes do with a discontinuity: it filled the gap with a body getting up. You didn't see a corpse stand. You saw a frame boundary, and flinched it into a story."
 Weinstein said nothing for a moment. Then, quietly, as if filing it away for later: "I would still have sworn to it in court."
 "Most witnesses would."
+Derek asked it plainly. "And the man on the train. The one wearing my face."
+"The same discontinuity, in a longer coat," Sherlock said. "Not a second Derek waiting in the wings - a worldline the geometry hadn't finished labelling yet. Departure, dressed as a person, because that's what a mind does with an event it can't file. You didn't meet him. You watched an unlabelled coordinate for long enough that it blinked."
 Derek felt something in his chest loosen and tighten at once. Relief and loss. There was no killer to catch. There was only a daughter he'd saved by refusing to finish their filing. But somewhere in the geometry, he was still lying face-down on the floor, and he'd never know if that version of himself had been trying to save her too. "So there was no murderer."
 "Pending Geometry," Sherlock finished. "And a daughter in a doorway it should never have contained."
 Penny whispered, "Pending Geometry."
@@ -5711,6 +5710,7 @@ Derek never worked out how a note in his own handwriting had ended up inside Cas
 Derek never explained, even to himself, the man he'd glimpsed sitting at his own desk that first week - old, grey-haired, gone the second time he looked - beyond noting that the chair had definitely been occupied and was then definitely not, which was, by that stage of the case, barely worth mentioning. He filed it under the same heading as the singularity and the Louvre guard, and didn't mention it to Trevor, on the grounds that Trevor already had one clock-based grievance and did not require a second.
 Derek never identified the woman on the Underground platform who'd known, correctly and without being told, that he was doing both kinds of relativity at once. He looked for her, in the loose, deniable way a man looks for someone he has decided not to be looking for, and never found her again. He filed her, eventually, next to the old man in the dark suit - not because the two cases had anything in common, but because both drawers were labelled Probably Irrelevant, and he had learned, by then, exactly how much that label was worth.
 Weinstein's own missing minute - his Munich clock had stopped at 11:16, a full sixty seconds before the Bureau's did in London - never received a tidier explanation than the general shape of the geometry itself. He filed it as a data point rather than a separate mystery, on the grounds that a physicist who chased down every disagreeing clock would simply never leave the house.
+The cucumber that had appeared in Derek's own hand on the platform - conjured from nowhere, its provenance never established - joined the same drawer. He ate it, eventually, on the grounds that evidence with no ongoing investigative value was, strictly speaking, lunch.
 Sophie's own brass clock - the one in her father's study, permanently and precisely four minutes fast - never made it into any official filing at all, mostly because nobody thought to ask a twelve-year-old for her evidence. She kept testing it anyway, on the grounds that someone in the family should keep a proper notebook, and filed the omission under the same heading her father would have used, had he known to: Pending Geometry.
 One small matter had, admittedly, been resolved. The initials on the clock - LGV - turned out, when Penny finally thought to ask a Frenchman, to mean nothing more mysterious than Ligne à Grande Vitesse: the stamp of an ordinary French high-speed railway line, most likely off a piece of decommissioned rolling stock. Penny was smug about it in person, at length, over the phone to Munich. She had, after all, guessed "a railway designation" within the first five minutes; Trevor had guessed Local Gravitational Vector, and nobody had let him forget it. "A railway designation," Weinstein repeated, with the particular weariness of a man who had built an entire theoretical framework around three letters that turned out to mean nothing more than fast train. "That's it. That's the whole geometry." "That's it," Penny agreed, not unkindly. Trevor, overhearing, announced that he stood by Local Gravitational Vector as the more interesting answer, correctness notwithstanding, and nobody had the heart to argue with him twice in one week.
 He filed actual, ordinary cases under actual, ordinary categories, and none of them concerned him personally. Sophie texted twice about nothing in particular, which he had learned to recognise as the highest compliment she had available. Penny stopped watching him sideways when she thought he wasn't looking. He allowed himself, cautiously, to believe it might simply be over.
@@ -5741,6 +5741,7 @@ Learning objective - what you should be able to do.
 Teaching - the physics under the joke, in ordinary language. Lesson checkpoint 
 Keep this / Common trap / Quick test. If you can answer the Quick test cold, you learned something rather than merely surviving the chapter.
 Course rule: separate what an observer measures from what the theory requires is invariant. When a metaphor helps, keep it. When the metaphor starts making predictions the equations forbid - throw it away. 
+Quick definition, since the word does a lot of work from here on: invariant means unchanged when you switch coordinate systems. What an observer measures can change from frame to frame; an invariant quantity does not.
 The cucumber is an excellent laboratory. It is also food.
 Three more course rules, while we're being honest:
 A shared now is a convenience, not a fact. If a plot point requires everyone in London and Munich to mean the same Tuesday, the plot point is Newtonian, and the book has already said so.
@@ -5783,7 +5784,7 @@ Workshop problem: One twin boards a very fast spaceship, travels out and back ne
 It cannot, and it isn't. The two twins do not take the same route through spacetime between their parting and their reunion - only the travelling twin's path bends, out and back, while the twin on the sofa travels a straight, unaccelerated line between the same two events. 
 That is the entire resolution: proper time depends on the path taken, not merely on relative motion, and the straight path between two events always racks up more of it than any bent one. Turning around is what makes the paths different - it is not, by itself, what makes the travelling twin younger. There is a genuine fact about which twin aged less, and it belongs to whoever took the bent path.
 This is the same idea as the invariant spacetime interval you are about to meet in 
-Chapter 7, wearing a different coat. Proper time, like ordinary distance, depends on the path you actually take. 
+Lesson 2, wearing a different coat. Proper time, like ordinary distance, depends on the path you actually take. 
 Drive the direct road between two towns and you burn less petrol than the driver who takes the scenic route, even though both of you started and finished in the same two places. 
 Nobody finds that paradoxical. 
 The twin paradox runs on the same idea, but backwards: it's the scenic-route twin - the one who peels off toward the speed of light and comes back - who logs the fewer years, the way the direct-road driver logs the less petrol. The twin who stays on the direct, unaccelerated road through spacetime is the one who arrives having racked up more time, not less. 
@@ -5955,7 +5956,7 @@ Although the apple remains available for consultation.
 
 Imagine dropping a ball inside a lift. You hold the ball at some height and release it.
 Everything is normal if the lift is at rest.
-If the ball and the lift are both falling relative to the observer, the ball simply floats.
+If the ball and the lift are both falling together, at the same rate, relative to the observer, the ball simply floats.
 Now imagine the lift is far away from any gravitational field and accelerating upward. The ball now moves downward towards the floor - just as it would in an ordinary gravitational field.
 Notice the phrase "far away from any gravitational field" in that last sentence. It is doing a great deal of work.
 Real gravity - the kind that comes from an actual planet - is not perfectly uniform. It points towards the centre of the Earth, which means "down" at Heathrow and "down" in Munich are very slightly different directions. Two balls dropped a mile apart do not fall on exactly parallel paths; they fall very slightly towards each other, both aiming at the same distant centre. An accelerating lift cannot reproduce that. Acceleration pushes everything inside it in exactly the same direction, with exactly the same strength, everywhere in the lift. Real gravity does not.
@@ -6042,6 +6043,7 @@ It may be telling us that General Relativity is incomplete at that point.
 Which is physicist-speak for: 
 "The equations have stopped being helpful. Someone should invent some better ones."
 If the Underground appears to end a path, the honest question is whether the description failed - not whether London has installed a black hole between stations.
+Two related ideas are worth naming here, though neither is this story's actual diagnosis: a white hole is a black hole's time-reverse, a region that can only emit and never absorb, and a wormhole is a hypothetical tunnel connecting two distant regions of spacetime. Both are solutions on paper. Neither has ever been observed.
 
 
 Lesson checkpoint
@@ -6203,7 +6205,7 @@ Black-hole physics suggests a stranger kind of accounting. When physicists calcu
 The filing cabinet is an analogy. Please do not attempt the experiment with the Bureau's furniture. 
 What the black holes tell us: A black hole's event horizon is the boundary beyond which light cannot escape to distant observers. It is not a solid shell.
 → Glossary: Event Horizon
-Bekenstein and Hawking connected the horizon's area to entropy. Here, entropy measures how many microscopic possibilities are compatible with the black hole's large-scale properties. More precisely, it depends on the logarithm of that number. It can also be expressed as an amount of information in bits.
+Bekenstein and Hawking connected the horizon's area to entropy. Here, entropy measures how many microscopic possibilities are compatible with the black hole's large-scale properties. More precisely, it depends on the logarithm of that number (roughly: how many digits the number has, not the number itself, which is why entropy grows far more slowly than the raw count of possibilities). It can also be expressed as an amount of information in bits.
 For a spherical horizon, area is 4πR². Double the radius, and the area becomes four times as large. The Bekenstein-Hawking entropy therefore becomes four times as large too.
 An ordinary ball with twice the radius has eight times the volume. This contrast is the clue: the black hole's entropy follows an area rule.
 Penny would describe this as being charged for storage by the size of the wrapping paper. Derek would ask whether the wrapping paper was included.
@@ -6220,6 +6222,7 @@ The double arrow means that physical questions can be translated between the des
 The boundary in this lower panel represents the boundary used in a holographic duality. It should not be confused with the black-hole horizon pictured above. Time is omitted from the drawing.
 It is also not Trevor's Klein bottle, whatever the passing resemblance. His desk ornament has no well-defined inside or outside because of its topology, a fact about the shape of glass and nothing to do with holography. The boundary above has two perfectly ordinary sides; the interesting part is that each side's physics can be translated into the other's.
 An example that does some work: holographic duality (often taught under the label AdS/CFT). AdS is Anti-de Sitter space, a particular negatively-curved gravitational geometry; CFT is a Conformal Field Theory, a quantum theory living on its boundary with no gravity of its own. In plain language: a world with gravity in one description can match a world without gravity in another — same bookkeeping, different nouns. Do not marry the acronym. Keep the idea: two descriptions, one structure.
+In plain terms: "negatively curved" means space that bends away from itself, like a saddle rather than a ball, and "conformal" means a description that only cares about angles and shapes, not absolute size.
 In Special Relativity, different observers use different coordinates. In General Relativity, different coordinate systems can describe the same geometry. In holographic duality, dramatically different-looking theories can describe the same physical system.
 That is considerably more useful than saying the universe looks a bit like a hologram. It lets physicists turn a difficult problem into a different problem they may be able to solve. Derek would approve of the method. He would object to being billed for both calculations.
 None of this establishes that our own universe has the particular holographic description shown here. It does not make Derek imaginary, prove a multiverse, or provide a mechanism for tomorrow's murder notice to arrive today. Penny's cinema trip may help her ask a better question. It cannot supply the experimental evidence.
@@ -6297,6 +6300,7 @@ She has found a question worth asking.
 And that brings us towards tensors.
 → Glossary: Tensor
 A tensor is a mathematical object whose components change according to definite rules when the coordinate system changes. Those rules let us distinguish the underlying object from the numbers used to represent it.
+Here is the short version, ahead of the careful one: a tensor is what a vector becomes once it has to track several directions' worth of information at once, and it still has to look sensible no matter which coordinate grid you draw it on.
 The components may look different. The object has not changed.
 This is what makes tensors so useful in General Relativity. They allow relationships involving spacetime geometry, matter and energy to be expressed consistently across coordinate systems. You can change the mathematical viewpoint without changing the physical claim.
 As Chapter 15 puts it, a tensor is what happens when a vector gets promoted and starts having opinions about several directions at once.
@@ -6372,8 +6376,8 @@ The light cone: only events inside it can causally influence, or be influenced b
 That sounds like a violation of causality.
 But before screaming "time machine", we need to distinguish coordinate descriptions from actual causal structure.
 → Glossary: Causal Structure
-In relativity, different observers can disagree about the temporal ordering of spacelike-separated events. For causally connected events, all inertial observers agree on their temporal order. Relativity does not let an ordinary cause arrive after its effect merely by changing coordinates. The light cone is the key.
 For an event, spacetime can be divided into: its causal past, its causal future,
+In relativity, different observers can disagree about the temporal ordering of spacelike-separated events. For causally connected events, all inertial observers agree on their temporal order. Relativity does not let an ordinary cause arrive after its effect merely by changing coordinates. The light cone is the key.
 and regions that cannot be causally connected to it without exceeding the speed of light. The light-cone structure - what can causally influence what - is invariant. 
 
 If Derek sees something that appears to happen before its cause, we should first ask:
@@ -6418,6 +6422,7 @@ A tensor is not simply a "higher-dimensional vector." What matters is that its c
 And that is exactly why tensors are so useful in General Relativity. Spacetime can be curved. Coordinates can be awkward.
 Observers can accelerate. Someone can be falling into a black hole while someone else is sitting safely in an office complaining about the coffee. We need mathematical objects that behave properly when we change coordinates.
 Tensors do precisely that. The most important tensor is called the metric tensor, written gμν. It tells us how spacetime is measured: ds² = gμν dxμ dxν, a combination of regular distances in space plus a time component. 
+μ and ν each range over the four spacetime directions - one time, three space - and a repeated index means: add up the matching term for all four. That bookkeeping convention is why the equation looks short. It is quietly doing sixteen additions in shorthand.
 → Glossary: Metric
 The metric can vary from place to place.
 So physicists combine the changes in all the relevant directions according to the metric, and get the spacetime interval.
@@ -6432,7 +6437,7 @@ Then come the curvature tensors - refined and packaged for the field equation as
 That would be charming but mathematically inadequate. Curvature has structure. It can differ in different directions.
 It can affect neighbouring paths differently. It can produce tidal effects. Tensors are the machinery that lets us describe all of this without losing the physics every time somebody changes coordinates.
 → Glossary: Tidal Force
-The Einstein field equation answers, in compressed mathematical form, how the geometry of spacetime is related to the distribution of matter and energy: Gμν + Λgμν = 8πG/c⁴ Tμν, where Λ is the cosmological constant, accounting for the universe's own accelerating expansion. 
+The Einstein field equation answers, in compressed mathematical form, how the geometry of spacetime is related to the distribution of matter and energy: Gμν + Λgμν = 8πG/c⁴ Tμν, where Λ is the cosmological constant, accounting for the universe's own accelerating expansion. (The G on the right, in 8πG/c⁴, is Newton's ordinary gravitational constant - not the Einstein tensor Gμν on the left, despite the shared letter.) 
 Stretch that expansion by hand, with recession speed and redshift updating live, at the cosmology demo.
 
 Or, as Derek would put it:
@@ -6557,6 +6562,7 @@ Tensor. A mathematical object whose components change according to precise rules
 Tidal Force. The relative acceleration of nearby freely falling objects, producing stretching or squeezing. In general relativity, these effects reveal spacetime curvature. Their strength depends on the circumstances.
 Time Dilation. Differences in clock rates associated with relative motion or gravitational circumstances. Two inertial observers in relative motion can each assign a slower rate to the other's clock, using their own frame's definition of simultaneity. Gravitational comparisons are different: for stationary clocks around Earth, the lower clock runs more slowly than the higher one. The mutual-slowing argument does not apply to that comparison.
 
+White Hole. The time-reverse of a black hole in the equations: a region from which matter and light can only emerge, never enter. A mathematical solution, not an observed object.
 Worldline. The path an object traces through spacetime: where it is and when it is there. Your biography, with fewer adjectives and more coordinates.
 Wormhole. A hypothetical connection between otherwise separate or distant regions of spacetime. Some solutions of general relativity contain wormholes, but traversable versions typically require exotic stress-energy. Mathematical availability does not guarantee a usable passage.
 About the Author

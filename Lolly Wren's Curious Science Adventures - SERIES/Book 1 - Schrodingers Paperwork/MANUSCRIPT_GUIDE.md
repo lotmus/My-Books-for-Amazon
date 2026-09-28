@@ -1479,3 +1479,151 @@ hyperlinks (310 internal + 100 external, up from 96 - the 4 new per-demo links),
 unchanged at 3172, zero straight quotes/apostrophes remaining anywhere in the file, zero anchored
 (floating) images remaining (21/21 now inline), zero stray leading whitespace in the Table of
 Contents.
+
+## Full audit: completeness, repetition, typos, formatting, novel content, appendix didactics/physics
+
+Requested as six separate axes: completeness, repeated whole sentences, typos, formatting (novel);
+fun-to-read/consistency/sharp-not-padded/character development (novel); didactics/readability/physics
+correctness (appendix). Run independently and in parallel with the four-dimension audit logged
+below - see that section's note on the one place the two disagreed.
+
+**Completeness - stale ToC found and fixed.** The renamed lesson headings (Lesson N titles shortened
+in an earlier pass, "Lecture" -> "Lesson") were never synced back to the ToC's own Appendix listing,
+which still showed the old zero-padded numbering and pre-shortening titles ("Lesson 09: Uncertainty
+Principle" vs. the heading's "Lesson 9: Uncertainty: Position and Momentum", "Lesson 14a/14b" vs.
+"Lesson 14 (1/2)/(2/2)", etc. - 12 mismatches total, all navigating correctly via bookmark but
+displaying stale text). Per user direction, resolved each by keeping whichever of the two (ToC vs.
+heading) was shorter, then synced both sides to match; see the "Sync stale ToC lesson listing" and
+git history for the itemized before/after list.
+
+**A genuine broken link, found by the same pass.** Chapter 12's ToC entry displayed "Standing in the
+Wave" (the current title) via a plain run sitting *before* its `<w:hyperlink>`, while the hyperlink
+itself wrapped three emptied-out runs - a leftover from the "Duc de Broccoli" rename that moved the
+visible text but left the old hyperlink structure behind. Looked fine in Word; not clickable on
+Kindle. Fixed by moving the text into the hyperlink's own run.
+
+**Repetition - one real structural issue, one false alarm.** All 13 "Going deeper" YouTube citations
+that repeat verbatim (Glossary + the relevant lesson, sometimes Further Reading too) are intentional
+- the same source cited consistently, not padding. The real find: all 19 lessons end with a "Stop /
+Say it to Mrs Chain / [closing encouragement]" quiz block, and the closing line was drawn from a pool
+of only 8 phrasings cycled round-robin, so the exact same sentence recurred every 2-3 lessons. Kept
+each of the 8 originals once, wrote 11 new ones for the repeats - all 19 now verbatim-unique. The
+novel itself had zero exact-duplicate long sentences anywhere (checked programmatically across the
+whole book, sentences >=60 characters).
+
+**Typos - mostly false positives, four real fixes.** A naive spellcheck pass flagged ~660 "unknown"
+words; nearly all were correct British spellings, hyphenated compounds, possessives with curly
+apostrophes, proper nouns, and physics jargon the checker's dictionary doesn't know. Four genuine
+issues survived manual review: `p_th` (error-correction threshold, Lesson 15's "going deeper") had
+lost its subscript formatting on "th" in all 3 occurrences, unlike every other formula variable in
+the book - fixed. "Wigner's-friend pressure" was the only one of 12 instances hyphenated instead of
+written as a plain possessive phrase - normalized. One Glossary entry (Holographic Duality) had
+asymmetric dash spacing vs. the Glossary's standard "  --  " - fixed. The "Table of  Contents" heading
+had a stray double space - fixed.
+
+**Formatting - clean otherwise.** Zero straight quotes/apostrophes anywhere (confirmed still holds
+after the Kindle-readiness pass). 82 double-spaces found; all but the 2 above are either a
+consistent, repeated stylistic choice (double space after "Going deeper (skip freely)." before the
+content starts, used identically in all 13 instances) or harmless trailing whitespace - left alone as
+established convention rather than "fixed" into inconsistency with itself.
+
+**Novel content - sampled opening (Prologue/Ch1), midpoint (Ch9, "The Two Columns"), and
+climax/ending (Ch16-18, Epilogue) against the specific ask: fun to read, consistent, sharp rather
+than padded, character development.** All three samples were strong: no filler paragraphs found in
+any of them - every line does double duty (comedy, plot, or physics setup); Miss Pike gets a complete
+small arc (cheerful compliance -> genuine moral reckoning) inside a single chapter (Ch9); the
+Lolly/Mrs Chain relationship pays off with real weight at the "78%/very good obituary" beat (Ch17)
+and Schrottfinger's closing monologue (Ch18) lands the book's central thesis without restating it.
+Cross-checked the recurring numbers that get referenced across multiple chapters (411 pending states,
+308 recovered, 103 unrecovered, 78% for Margaret Chain specifically) - all consistent everywhere,
+and 308 + 103 = 411 checks out arithmetically too.
+
+**Appendix - sampled Lesson 1 (Superposition, foundational), Lesson 13 (Bell's Theorem, a topic
+riddled with common misconceptions), and Lesson 14a (String Theory, the book's most speculative
+topic) against didactics, readability, and physics correctness.** The "Start here / step-by-step /
+in one breath / what this chapter was showing you / where the popular version goes wrong / going
+deeper / what sticks" structure is consistently well-executed. Physics checked correct in every
+sample: Born rule, Stern-Gerlach (1922), CHSH bound |S|<=2 and the quantum prediction of up to 2root2
+all correctly stated; Bell's theorem correctly noted as ruling out *local* hidden variables only -
+explicitly and correctly flagging that pilot-wave theory (nonlocal) survives it, a distinction most
+pop-science treatments get wrong; string/M-theory consistently and honestly framed as "an unconfirmed
+framework, not an established fact" throughout, matching the book's established epistemic-hygiene
+convention for speculative physics.
+
+Verification after all fixes in this pass: XML valid throughout, 287/287 bookmarks balanced,
+paragraph count unchanged at 3172.
+
+## Four-dimension audit (content, didactic simplicity, correctness, formatting), and ~28 fixes
+
+Ran four parallel background reviews, each targeted at the part of the book its dimension actually
+concerns: physics correctness and didactic clarity across the 18 Appendix lessons, and
+content/continuity plus prose-formatting consistency across the full 3172-paragraph manuscript.
+All four findings sets were fixed in one pass.
+
+**Content & continuity (novel):**
+- **A real dropped plot thread.** Gideon's "second page of 11-C is in a different folder, in a
+  different year" discovery (paras 1148, 1159, 1241) was set up three times with explicit
+  "this will matter" signalling and then never paid off anywhere in the remaining ~800 paragraphs.
+  Added one sentence to Crispin Vale's epilogue paragraph (formerly 1987) revealing the backdated
+  second page was his doing - closing the loop without a confession scene.
+- **A missing paragraph break.** Chapter 6 alone ran its closing "Rule:" sentence straight into the
+  preceding narrative with no break, unlike all 17 other chapters. Split it into its own paragraph
+  (paragraph count is now 3173, +1, entirely from this split).
+- Standardised the green notebook's label to "PRIVATE/UNHELPFUL" (was split 2-3 against
+  "PRIVATE / UNHELPFUL" across five instances).
+
+**Didactic simplicity (Appendix, 6 fixes):** all were places a beginner reader could get stuck -
+now fixed by adding the missing definition or tag at first use, not by rewriting the surrounding
+explanation:
+- Lesson 11's unmarked dense aside now carries "(skip freely)" like every other optional section.
+- Defined E(a,b) in the CHSH inequality (Lesson 13), the fidelity formula's ρ/σ/Tr (Lesson 15), and
+  "reduced density matrix" at its first use (Lesson 7).
+- ℏ and ΔH, both used unglossed in Lesson 4's Zeno-effect formula (four lessons before ℏ was
+  otherwise defined, and never for ΔH anywhere), now get a one-clause definition right there.
+
+**Correctness (Appendix, 4 fixes):**
+- Fixed a real citation bug: the Glossary's Bell's theorem entry named minutephysics as the channel
+  but described "eighteen minutes with 3Blue1Brown" - looked like copy-pasted text from a different
+  entry. Corrected the attribution.
+- Softened an unverifiable, overly precise Zurek decoherence-time figure (10⁻²³ s for a specific
+  1 g/1 cm/room-temperature case) to a defensible order-of-magnitude statement.
+- Clarified the Locality glossary entry's "loophole physicists still fight about" to specify the
+  free-choice loophole, so it no longer reads as contradicting the earlier "loophole-free since
+  2015" claim.
+- Trimmed a duplicated evaporation-time figure restated back-to-back in adjacent paragraphs.
+
+**Formatting consistency (whole book, ~14 fixes):**
+- "toward" standardised to "towards" throughout (16 whole-word instances; matches the book's
+  British spelling conventions elsewhere).
+- Collapsed a stray double space after "Going deeper (skip freely)." in 14 of 19 instances (a
+  bold-run/plain-run boundary artifact) to match the other 5. (Note: the parallel "Full audit" pass
+  below independently found this same double-space and concluded the opposite - that it was a
+  deliberate, consistent convention and should be left alone. Its own count only found 13 of 19
+  instances double-spaced, not all 19, which undercuts "consistent convention"; kept this fix since
+  full single-space consistency across all 19 is the more defensible end state either way, and the
+  double space is traceable to a genuine two-run artifact - a bold label run with a trailing space
+  followed by a plain run with a leading space - rather than anything typed deliberately.)
+- Fixed two instances of a stray space before a closing curly quote after a cut-off-dialogue em
+  dash, and two Glossary entries (Holographic Duality, Holographic Principle) missing the leading
+  space in the otherwise-universal double-spaced-em-dash header format.
+- **Fixed a real Kindle-rendering bug**: Lesson 14's four-item numbered list used real Word
+  auto-numbering (List Paragraph style + numPr) on top of manually typed "1./2./3./4." prefixes
+  already in the text - would have rendered as "1. 1. String theory..." doubled. Removed the
+  numbering property and style, reverting to plain paragraphs matching all 17 other lessons.
+  same fix applied to a following empty placeholder paragraph.
+- Fixed a bold-formatting bleed in Lesson 18's "Going deeper" label, where the entire first
+  sentence was bolded along with the label (every other lesson bolds only the label itself).
+  Applied real subscript/superscript character formatting to "kB" (Lesson 16) and "10^100" (Lesson
+  18), which had been left as plain-text "kB" and a literal caret instead of matching the real
+  superscript/subscript formatting used everywhere else in the Appendix's equations.
+- Capitalised two front-matter headings ("Read this book" -> "Read This Book",
+  "of this Course" -> "of This Course") to match the book's own most common title-casing pattern.
+- Standardised "judgement" (was split 1 "judgment"/1 "judgement") and "non-relativistic" (was split
+  1 hyphenated/1 unhyphenated) to match the book's British-spelling and compound-term conventions.
+
+Verification: paragraph count 3173 (3172 + 1 from the Chapter 6 paragraph split, the only
+paragraph-count-changing edit in this batch), 287/287 bookmark pairs balanced, zero broken internal
+hyperlinks, zero straight quotes remaining, zero whole-word "toward" remaining, zero "nonrelativistic"
+or American "judgment" remaining, all ~28 fix phrases confirmed present verbatim, Lesson 14's list
+paragraphs confirmed free of numPr/List-Paragraph styling, and the new sub/superscript runs confirmed
+via run-level formatting inspection (not just text content).

@@ -29,7 +29,7 @@ Physics is the literal plot engine throughout, not decoration — the mystery's 
 
 ## Main cast (+ real-physicist analog — explicit author instruction: "physics is theirs, private lives are wholly invented")
 
-- **Derek Gent** — protagonist, Bureau founder, dry wit, deflects with humor. No driving licence. 23 years in the field (deliberate callback number, used twice — Ch1 and Epilogue). Father to Sophie, cousin to Penny, unresolved romantic tension with Tabitha.
+- **Derek Gent** — protagonist, Bureau founder, dry wit, deflects with humor. No driving licence. Seventeen years in the field (deliberate use of the book's "17" motif, used twice — Ch1 and Epilogue; this note previously said 23, which was stale/wrong — verified against the actual text 2026-09-27). Father to Sophie, cousin to Penny, unresolved romantic tension with Tabitha.
 - **Penny Gent** — Derek's cousin. Sharp, impatient, intuitive counterpart to Trevor's literalism.
 - **Trevor Boltzman** — junior colleague. Hyper-literal, anxious, genuinely brilliant at maths, comic relief. Sister: Tabitha.
 - **Alfred Weinstein** — Einstein analog.
