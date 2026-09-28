@@ -5601,6 +5601,10 @@ Weinstein exhaled. "Like the cucumber."
 "Exactly like the cucumber. One object, two descriptions, neither one a lie. Cut it end to end, it's a line. Cut it across, it's a circle. Nobody murdered the cucumber into being both."
 "So Case 1047 - "
 " - is not a corpse with three witnesses disagreeing about a killer. It is one event - Death, Departure, Arrival are the same word said in three coordinate systems - filed under the wrong heading because London insisted a coordinate needed a culprit."
+Weinstein found his voice again first. "That is a generous use of the phrase 'coordinate system.' Death happened in an office. Departure and Arrival happened on a railway platform. Those are not two number-sets for one location. They are two different places."
+"They are," Sherlock agreed. "Which is exactly why this was never an ordinary relabelling - the kind where a door stays where it is and only the numbers beside it change. Nobody is asking you to accept that trick twice, somewhere it doesn't belong. What London built, without meaning to, is closer to the holography Julius keeps threatening you with: two descriptions that look like they live on separate stages, until you learn to read one of them as the boundary of the other. The office and the platform were never two rooms sharing a coincidence. They were one event, described from its two ends, and nobody had written down the dictionary that translates between them - until today."
+Weinstein was quiet for a moment. "Julius is going to be unbearable about this."
+"He already is," Sherlock said. "He's on the other line."
 Somewhere across London, in the Bureau's quiet office, Trevor and Penny and Derek heard the same voice inside their own heads, walking the same four steps.
 Trevor's attention quickened. "If this is another lecture - "
 "It isn't," Penny corrected. "It's arithmetic. Listen."
@@ -5611,6 +5615,10 @@ Penny remembered asking, days ago, whether "departure" meant the train, and bein
 Tuesday's email had been sitting on the desk the whole time - not a warning. Evidence, for a filing nobody had made yet.
 Trevor managed, "I saw blood."
 "You saw a filing," Sherlock clarified. "Three labels, one event, the wrong drawer. Not Murder. Not a killer waiting in your future. Just Pending Geometry, waiting to be corrected." Derek's hand stopped shaking.
+Trevor wasn't finished. "A filing doesn't bleed. I saw a photograph - real light, on a real sensor, of a wound that isn't in this room. Where does blood come from if nobody was stabbed?"
+"The same place the cucumber's circle comes from when you slice it the wrong way," Sherlock said. "Not from a lie. From a projection. A photograph is a boundary reading of an event, the same as a length is a boundary reading of a journey. Slice a journey badly enough and the length can tell you almost anything, including things that never happened along the path you actually took. Your camera didn't lie about what it read off that boundary. It only failed to say which boundary it was reading."
+Trevor considered this with visible suspicion. "That is a deeply unsatisfying answer."
+"Most true ones are," Sherlock said.
 Trevor demanded, "Then why did the system name me? PERPETRATOR. My name. Not a guess - my name." It came out smaller than he meant it to.
 Sherlock replied, "Because a form asked for one. A field marked Perpetrator does not stay empty just because nobody committed anything. The system reached for whoever's worldline sat closest to the misfiled coordinate at the moment it was opened. You were in the room. That is the entire crime you're guilty of."
 Trevor sat with that. "I'd have preferred a better reason."
@@ -5621,6 +5629,8 @@ Weinstein said nothing for a moment. Then, quietly, as if filing it away for lat
 "Most witnesses would."
 Derek asked it plainly. "And the man on the train. The one wearing my face."
 "The same discontinuity, in a longer coat," Sherlock said. "Not a second Derek waiting in the wings - a worldline the geometry hadn't finished labelling yet. Departure, dressed as a person, because that's what a mind does with an event it can't file. You didn't meet him. You watched an unlabelled coordinate for long enough that it blinked."
+Derek made himself ask the only question that had actually kept him awake. "And Sophie. In the doorway, behind me, in the photograph. Why was she there at all?"
+"She wasn't," Sherlock said. "Not in any event that occurred. The filing pulled her in the way a bad exposure pulls in a smear at the edge of a frame - because Departure and Arrival both needed a witness on file for that address, and the system reached for the nearest worldline it had. Yours. Hers. The same drawer, the same mistake, twice over. She was never standing in that doorway. She was misfiled into it, exactly the way Trevor was misfiled into Perpetrator."
 Derek felt something in his chest loosen and tighten at once. Relief and loss. There was no killer to catch. There was only a daughter he'd saved by refusing to finish their filing. But somewhere in the geometry, he was still lying face-down on the floor, and he'd never know if that version of himself had been trying to save her too. "So there was no murderer."
 "Pending Geometry," Sherlock finished. "And a daughter in a doorway it should never have contained."
 Penny whispered, "Pending Geometry."
