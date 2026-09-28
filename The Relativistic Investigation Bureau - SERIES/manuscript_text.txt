@@ -436,7 +436,7 @@ Derek turned the monitor towards them. The address read:
 LOCALHOST
 Trevor's forehead creased. "That's the computer itself. So either someone here typed a murder into existence, or the system executed a transformation we have not written down yet. I prefer the second. People lie. Equations, when honest, merely disappoint."
 "Or the machine filed a record that arrived without a person attached," Derek offered. "Localhost means the Bureau processed it. It does not mean one of us intended it."
-"That's negotiable causality," Trevor countered. "Negotiable causality is what you get when you trust feeling over frame. I don't. Argue with the transform, not with me."
+"That's negotiable causality," Trevor said, and didn't much like how it sounded coming out of his own mouth. "Feelings aren't in the equations. If you want an argument, argue with the transform. Not with me."
 "I'll argue with both," Penny declared. She tapped the doorway in the photo once, lightly, as if knocking. "She answers first."
 Penny surveyed the room. There were three people in it. Derek.
 Trevor. Penny. Nobody else.
@@ -741,7 +741,7 @@ Trevor leaned forward. "All right."
 Penny nodded. "If that works, Sophie is standing in a frame disagreement. If it doesn't, she's standing in something worse."
 "Yes."
 Trevor clarified, "But unless they're moving at a substantial fraction of the speed of light, the difference should be tiny."
-Derek allowed himself a smile. "Exactly."
+Derek's mouth twitched. "Exactly."
 "How tiny?"
 "Very."
 "How tiny?"
@@ -947,6 +947,7 @@ He uncovered it. "Alfred, what exactly happened?"
 "Anything else?"
 "Yes!" Weinstein confirmed.
 "What?"
+Derek's grip tightened on the phone. Whatever came next, he already knew it wasn't going to be small.
 "You were dead."
 Derek watched Penny. Penny took a slow breath. Trevor looked as though he would quite like to leave the country.
 Derek pressed: "Did you see who killed me?"
@@ -1063,7 +1064,7 @@ Derek picked up the photograph. "We're further along."
 "And?"
 "He saw it tomorrow."
 Trevor frowned. "That doesn't narrow it down."
-Derek allowed himself a smile. "It does."
+Something eased in Derek's face. "It does."
 "How?"
 "Because Alfred Weinstein doesn't make mistakes with relativity."
 Trevor granted. "True."
@@ -1219,7 +1220,7 @@ Weinstein shrugged. "Well, there we are."
 He returned to his mysterious clock. The patent attorney studied the amended diagram, then Weinstein himself.
 "You've been listening after all."
 "Occasionally."
-The attorney allowed himself a smile. "I suppose I should be grateful."
+The attorney permitted himself a small, professional smile. "I suppose I should be grateful."
 "You should."
 The spring would continue being wrong while he was gone. Gravity would continue being geometry. Only one of these facts was going to London.
 Weinstein regarded his watch again. The difference between it and the wall clock had increased. His brow furrowed.
@@ -1280,7 +1281,7 @@ Matkowski confirmed. "Yes."
 "Well?"
 "Well what?"
 "What is happening?"
-Matkowski allowed himself a smile. "That is what Derek Gent is trying to discover."
+Matkowski's expression warmed slightly. "That is what Derek Gent is trying to discover."
 Weinstein's forehead creased. "Who?"
 "Derek Gent."
 "Never heard of him."
@@ -1370,7 +1371,7 @@ Matkowski considered him. "That is the interesting question."
 Weinstein allowed. "Then it is decided."
 "What is?"
 "That we don't know."
-Matkowski allowed himself a smile. "Quite."
+Matkowski permitted himself the faintest smile. "Quite."
 They continued down the stairs. In London, Derek Gent was standing in the Bureau, staring at the same photograph. Penny stood beside him.
 Trevor was at the computer. The Lorentz transform against the timestamps had refused to close. "Mathematics says something here exceeds c, or our assumption of a shared event is dead," he maintained. "I vote we kill the assumption before we kill the light speed - and before Sophie's doorway becomes a second assumption we also refuse to kill."
 The mathematics worked. The interpretation didn't. Derek considered the latest calculation. "We've got a problem."
@@ -1511,7 +1512,7 @@ Derek thought. "Then we have a causal loop."
 Penny studied him. "Don't get excited."
 "I wasn't."
 "You were."
-Derek allowed himself a smile. "I was mildly interested."
+Derek let a trace of amusement through. "I was mildly interested."
 "That's your version of excitement."
 Trevor conceded. "It is."
 Derek ignored both of them.
@@ -1564,7 +1565,7 @@ Finally, one more line appeared.
 HERBERT MATKOWSKI: CONSULTING
 The screen went dark. In Munich, at almost exactly the same moment, the wall clock in the patent attorney's familiar office stopped. Weinstein noticed.
 He watched his watch. Then at the clock. Then at the second hand.
-It had stopped at seventeen. He allowed himself a smile. Matkowski noticed.
+It had stopped at seventeen. Something eased in his face. Matkowski noticed.
 "What?"
 Weinstein held up his watch. "Same thing."
 "Indeed."
@@ -1694,7 +1695,7 @@ Julius granted. "Quite."
 "Yes."
 "An observer carries a clock, and the clock measures proper time along that observer's worldline."
 "Yes."
-Weinstein allowed himself a smile. "So, we cannot simply declare time nonexistent and walk away."
+Weinstein's mouth twitched with something like appreciation. "So, we cannot simply declare time nonexistent and walk away."
 Barbarian smirked back. "I wasn't planning to."
 "Good."
 "I have a much more irritating plan."
@@ -1832,7 +1833,7 @@ Relief crossed Trevor's face.
 Everyone stared at him. Trevor gestured at the silent clock. "We still don't know why the relationships are wrong."
 There was silence. 
 Barbarian's mouth curved. "Excellent."
-Derek allowed himself a smile. "Yes."
+Derek huffed, not quite a laugh. "Yes."
 Trevor surveyed the room. "What?"
 "Nothing," Derek said.
 "You all look pleased."
@@ -2088,7 +2089,7 @@ Derek carefully opened the door. "We'll find it."
 Barbarian called after him, "Mr Gent."
 Derek pivoted. "Yes?"
 Barbarian indicated the silent clock. "Don't trust it."
-Derek allowed himself a smile. "We weren't planning to."
+A flicker of amusement crossed Derek's face. "We weren't planning to."
 Barbarian conceded. "Good."
 Derek opened the door. Then stopped. "One thing."
 "What?"
@@ -2177,7 +2178,7 @@ INVESTIGATE THE FALLING BODY.
 He stared at it. Too clinical. He crossed out the whole line.
 He wrote:
 WHY DOES THE APPLE FALL?
-He allowed himself a smile. That was better. He took out his phone.
+Something in him eased. That was better. He took out his phone.
 He called Derek.
 Derek answered on the fourth ring, "Yes?"
 "Alfred."
@@ -2310,7 +2311,7 @@ Trevor, who clearly had been listening, suddenly appeared in the doorway.
 "That means the clocks themselves are part of the experiment," he concluded.
 Derek surveyed him. "Yes."
 Trevor nodded. "Splendid. Moving on."
-Derek allowed himself a smile. "See? He's learning."
+Derek's mouth twitched. "See? He's learning."
 Trevor's expression brightened. 
 Then asked: "What's a worldline?"
 Penny laughed.
@@ -2560,7 +2561,7 @@ Weinstein gazed at him.
 "The problem."
 Weinstein examined the painting again. Then he understood.
 "The vanishing point."
-Derek allowed himself a smile. "Exactly."
+Something close to a smile crossed Derek's face. "Exactly."
 Weinstein leaned in. "That's not unusual."
 "No."
 "But the way the scene is constructed..."
@@ -2651,7 +2652,7 @@ Weinstein did.
 Weinstein surveyed him. "Careful."
 "Why?"
 "Because a person is a worldline, not a single event."
-Derek allowed himself a smile. "Precisely."
+Derek let himself look pleased, briefly. "Precisely."
 "And you're about to tell me you've found something."
 "I have."
 "What?"
@@ -2791,7 +2792,7 @@ Trevor faced her. "What else could it ask for?"
 "An interval."
 Trevor's brow furrowed. "Between what?"
 Penny gestured at the mysterious clock. "Two events."
-Weinstein allowed himself a smile. "Exactly."
+Weinstein permitted himself a small, satisfied sound. "Exactly."
 Derek rubbed the back of his neck. "So, the missing coordinate isn't necessarily a timestamp."
 "No."
 "It's proper time between events."
@@ -2839,7 +2840,7 @@ Weinstein allowed. "In principle."
 "Not without enormous acceleration."
 "How enormous?"
 "Enough that you'd notice."
-Derek allowed himself a smile. "That seems useful."
+Derek's expression eased. "That seems useful."
 "Yes."
 Penny regarded the clock. "But the clock didn't move."
 "Not in any ordinary sense."
@@ -2968,7 +2969,7 @@ Derek took in the room. "This is the Louvre."
 "No."
 "Then where exactly is the laboratory?"
 Penny tapped the old clock. "Here."
-Derek allowed himself a smile. "Of course."
+Derek huffed, not quite a laugh. "Of course."
 They spent the next half hour examining the silent clock. There was nothing supernatural about it. That was, in some ways, the most unsettling thing.
 The balance wheel oscillated normally. The spring behaved normally. The escapement behaved normally.
 The gears moved. Everything mechanical suddenly appeared perfectly ordinary. And yet the silent clock had stopped.
@@ -3093,11 +3094,11 @@ Derek laughed. "That's a very dramatic pause for nothing."
 Penny confirmed. "Timelike, spacelike or null."
 Weinstein regarded her. "Exactly."
 Trevor smiled. "If the interval is timelike, the events can be causally connected."
-"Yes."
+"Just so."
 "If spacelike, they can't."
 "Correct."
 "If null, they're connected by light."
-"Yes."
+"Precisely."
 Derek examined the silent clock. "Then we need to determine which one this is."
 Weinstein allowed. "And that may tell us what the clock is doing."
 Derek grinned. "Right, that's that, then."
@@ -3214,7 +3215,7 @@ Trevor's brow furrowed. "Why?"
 Weinstein surveyed him. Trevor waited. Weinstein considered the question. "Perhaps there isn't."
 Trevor inclined his head. "Right."
 Weinstein continued, "But suppose there is."
-Derek allowed himself a smile. "That's rather different."
+The corner of Derek's mouth lifted. "That's rather different."
 "Yes."
 Weinstein drew a curve that became increasingly steep.
 "Imagine curvature increasing."
@@ -3297,7 +3298,7 @@ Trevor's finger hovered between them. "So, we're not looking at a strange painti
 Trevor thought. "Then perhaps the painting isn't showing us a place."
 Weinstein spun to face them. "What is it showing us?"
 Trevor indicated it. "An event."
-There was silence. Derek allowed himself a smile. "Good. Moving on."
+There was silence. Derek didn't quite smile, but it was close. "Good. Moving on."
 Penny conceded. "Good."
 Weinstein faced Trevor. "You may keep him."
 Derek laughed. 
@@ -3341,7 +3342,7 @@ Weinstein spun sharply. "Yes."
 Trevor continued, "And if the proper time remains finite while something else becomes infinite..."
 "Then we could have a singular behaviour."
 "Yes."
-Weinstein allowed himself a smile. "Very good."
+Something in Weinstein's expression eased. "Very good."
 Trevor brightened. Derek peered at Penny.
 "He's becoming dangerous."
 "He was always dangerous."
@@ -3455,7 +3456,7 @@ Derek stopped writing.
 Derek wrote nothing about enemies or limits. The cup had filled from the bottom. That was enough.
 So why had Weinstein sent him into the Underground? Derek looked at the wet floor. A drop of water rolled along the rubber mat.
 He watched it. It moved. Stopped.
-Moved again. He allowed himself a smile. Perhaps the question wasn't whether SR and GR could both be true.
+Moved again. Something eased in his face. Perhaps the question wasn't whether SR and GR could both be true.
 Perhaps the question was whether the way they described time could be reconciled with the strange behaviour they were observing. The train entered a narrow tunnel. The lights flickered.
 Derek eyed his watch. Normal. He checked the empty station strange clock.
 Normal. He checked the silent clock on the train. Normal.
@@ -3619,7 +3620,7 @@ The changing perspective.
 The missing coordinate. The infinity.
 Then 12:04.
 Then the train. Then the cold rain. 
-He allowed himself a smile.
+Something close to a smile crossed his face.
 Perhaps the Underground wasn't causing the contradiction. 
 Perhaps it was revealing it. 
 He called Weinstein.
@@ -3770,7 +3771,7 @@ Penny considered. "Or?"
 "Good."
 Derek fixed her with a look. "You're getting rather good at this."
 "I've had excellent training."
-He allowed himself a smile. 
+The corner of his mouth lifted. 
 Then he noticed her familiar door. It was open.
 Derek frowned. "Where's Trevor?"
 "Virtuality."
@@ -3913,7 +3914,7 @@ Trevor read it.
 "That's confusing."
 Penny agreed. "Yes."
 Trevor thought. "Perhaps we're not supposed to be here."
-Derek allowed himself a smile. "Excellent."
+Derek's mouth twitched. "Excellent."
 A pleased smile appeared on Trevor's face. "I've solved it."
 "Not quite."
 "Oh."
@@ -4241,7 +4242,7 @@ Derek's face changed. "That's our train."
 "The train is coming from the wrong direction."
 "Yes."
 Penny studied the silent clock. 12:04. 
-Derek allowed himself a smile. "Of course."
+Something eased in Derek's face. "Of course."
 The train stopped. The doors opened. Inside, the carriage was empty.
 Completely empty. No passengers. No driver.
 Then Derek stepped aboard. Penny grabbed his arm. "Derek."
@@ -4778,7 +4779,7 @@ Derek confirmed. "Yes."
 "Like spacetime."
 "Just so."
 Trevor stared at the paired notes. "Then the cucumber is Exhibit B, Marsh's form is Exhibit A, and LOCALHOST is the clerk who filed a child under the wrong noun. I preferred when vegetables were lunch."
-Derek allowed himself a smile. "Of course."
+Derek let a trace of amusement through. "Of course."
 "Really?"
 "In principle."
 Trevor surveyed it. "That's extraordinary."
@@ -5126,7 +5127,7 @@ Penny frowned at the track. "Could the gravitational field be responsible?"
 "The tidal field?"
 "More likely."
 Trevor took in the room. "How much curvature would we need?"
-Derek allowed himself a smile. "More than London normally provides."
+Derek let himself look pleased, briefly. "More than London normally provides."
 "That's reassuring."
 "Unfortunately..."
 Derek gestured down the track. 
@@ -5635,7 +5636,11 @@ Trevor sat down hard. "So I didn't kill you."
 Derek turned the photograph face-down. His thumb stayed on Sophie's doorway a second too long. "Not with a knife," he answered. "Not at all - if we refuse to finish their filing."
 Weinstein, quiet: "The joke was thinking murder was the noun that mattered."
 Penny looked at Derek - cousin, colleague, the face that had been on the floor in a picture that was not a photograph. "Does that mean you're safe?"
-Derek didn't answer straight away. There was no one to blame for the photograph, which meant there was also no one to forgive - not the system, not Trevor, not the version of himself still lying face-down in a geometry that hadn't finished deciding what it was. He'd spent every day of this case wanting a villain badly enough to nearly build one out of the man who made his tea, and the case had simply declined to supply one. That was going to take longer to feel like good news than it currently did. There was a worse thought underneath it, and he let himself have it now, in the privacy of a question nobody had actually asked aloud. If spacetime was the whole of reality - what physicists rather flatly called a block universe - if Death, Departure, and Arrival really were one event sitting still in four dimensions, waiting for someone with the wrong coordinates to stumble across it - then that photograph hadn't been a warning at all. It had already happened, the way Wednesday had already happened before he'd lived through it. Trevor had never really had a choice not to leave that scene behind him; there had simply never been a version of the block in which he did. Derek turned that over and found, to his own surprise, that it changed almost nothing. A cause you can't blame is still not a cause you have to forgive twice. He'd spent a week investigating a filing error as though it were a crime, and apparently the only sensible response to a fixed event was the same one he gave every ordinary Tuesday: get up, put the kettle on, and try not to make it worse. Free will, he decided, was a local variable at best - but it was the only one he had jurisdiction over, and he intended to keep filing under it regardless.
+Derek didn't answer straight away. There was no one to blame for the photograph, which meant there was also no one to forgive - not the system, not Trevor, not the version of himself still lying face-down in a geometry that hadn't finished deciding what it was. He'd spent every day of this case wanting a villain badly enough to nearly build one out of the man who made his tea, and the case had simply declined to supply one. That was going to take longer to feel like good news than it currently did.
+Across the desk, Penny watched him think it through, patient in the specific way she only managed when she already suspected the answer wouldn't be simple.
+There was a worse thought underneath it, and he let himself have it now, in the privacy of a question nobody had actually asked aloud. If spacetime was the whole of reality - what physicists rather flatly called a block universe - if Death, Departure, and Arrival really were one event sitting still in four dimensions, waiting for someone with the wrong coordinates to stumble across it - then that photograph hadn't been a warning at all. It had already happened, the way Wednesday had already happened before he'd lived through it.
+Trevor had never really had a choice not to leave that scene behind him; there had simply never been a version of the block in which he did. Derek turned that over and found, to his own surprise, that it changed almost nothing. A cause you can't blame is still not a cause you have to forgive twice.
+He'd spent a week investigating a filing error as though it were a crime, and apparently the only sensible response to a fixed event was the same one he gave every ordinary Tuesday: get up, put the kettle on, and try not to make it worse. Free will, he decided, was a local variable at best - but it was the only one he had jurisdiction over, and he intended to keep filing under it regardless.
 "I think so," he admitted, eventually. "I'm not sure 'safe' is the right unit for it, but yes."
 Penny didn't ask again. Her breath caught as his hand hovered over STATUS, then landed.
 Weinstein wrote one more line:
@@ -6107,13 +6112,14 @@ Coordinate-dependent descriptions: the same door, the same physics, described di
 It is also an excellent metaphor for something real. Physics is full of boundaries between descriptions. One observer assigns an object one set of coordinates; another assigns different coordinates to the same object. The numbers change because the observers organise their descriptions differently. Nothing has to happen to the object itself.
 The picture makes this concrete. Derek chooses one place as his zero point and labels the marked location at the door "four metres." Penny chooses a zero point two metres closer and labels that same location "two metres." Both labels work. Neither person has misplaced the door. They have simply started counting from different places.
 
-The underlying physics doesn't change merely because the description changes. This is another recurring lesson: a coordinate description is not an invariant physical fact. Here, "invariant" means something that remains unchanged when we change coordinates. The door's position label depends on the chosen origin. Whether that same door is open at the event being described does not.
+The underlying physics doesn't change merely because the description changes: the door's position label depends on the chosen origin, but whether that same door is open at the event being described does not.
 If changing coordinates could change the door itself, Derek could quite legitimately say:
 "The door is open in my coordinate system."
 And Penny could reply:
 "Yes, but it's closed in mine."
 Trevor would then require a slap.
 But changing coordinates cannot do that. It cannot turn the handle, swing the hinges, or put a wooden panel across an empty doorway. Those are physical changes. They require something to happen to the door, not merely something to happen to the numbers used to describe it.
+Keep that distinction in reserve. Nothing in this lesson says two events already known to be separate can be merged into one by relabelling them - and Case 1047's eventual resolution is not a relabelling of one door. It is a claim that two apparently separate events were never two to begin with. That is a far stronger, and far rarer, claim than anything in this lesson, and when it arrives, it will need to earn it.
 The same discipline applies when the coordinates describe time as well as space. Before comparing two labels, we must ask what each label means and which event it identifies. Different labels can identify the same event. A disagreement between labels is not, by itself, a disagreement about what physically happened.
 Derek and Penny can therefore agree completely about the door while writing different numbers beside it. Once they explain their coordinate choices, they can translate between the descriptions.
 
