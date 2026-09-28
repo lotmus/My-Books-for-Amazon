@@ -1,0 +1,1028 @@
+# How to Publish and Make Good Money
+
+*A Straight, Show-Your-Work Guide to Self-Publishing Profitable Books on Amazon*
+
+**by Kevin Drew Peters**
+
+Copyright © 2026 Kevin Drew Peters. All rights reserved.
+
+No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright holder, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+
+This book is a general educational guide. Amazon’s KDP terms, royalty rates, tax rules, and advertising tools change over time and by marketplace; treat every number in this book as “how the arithmetic works,” verify the current figures on KDP’s own pages before you rely on them, and get professional advice for your specific tax and legal situation.
+
+“Amazon,” “Kindle,” “KDP,” “Kindle Direct Publishing,” and “Kindle Unlimited” are trademarks of Amazon.com, Inc. or its affiliates. This book is an independent guide and is not produced, endorsed, or reviewed by Amazon.
+
+# Contents
+
+A Note Before You Begin
+
+**Part I — The Landscape**
+1. Why Self-Publish
+2. How Amazon Actually Pays You
+
+**Part II — Writing and Producing the Book**
+3. Choosing What to Write
+4. From Draft to Manuscript
+5. Formatting That Doesn't Break Kindle
+6. Covers That Sell in a Thumbnail
+
+**Part III — Getting Discovered**
+7. Categories, Keywords, and Your Product Page
+8. Pricing for Profit
+9. Launching Without an Audience
+10. Amazon Ads Without Wasting Money
+
+**Part IV — The Business Side**
+11. Getting Paid: Taxes, Payments, and Reporting
+12. KDP Select vs. Going Wide
+13. Avoiding the Traps
+
+**Part V — Playing the Long Game**
+14. From One Book to a Catalog
+15. A Realistic First-Year Plan
+
+**Part VI — One Topic, in Depth**
+16. The First-Review Problem
+
+Appendix A — The One-Page Launch Checklist
+Appendix B — Royalty Quick Reference
+Appendix C — ISBNs, Wide Distribution, and Further Reading
+A Closing Word
+
+# A Note Before You Begin
+
+This book makes you one promise: every number in it comes with the arithmetic attached. When it says a 70% royalty, it shows you what’s subtracted before that 70% ever reaches your account. When it says a category trick works, it tells you which part is a documented KDP mechanism and which part is a reasonable-but-unverifiable inference about how the algorithm behaves. When a chart is illustrating a shape rather than a disclosed statistic — a pricing curve, a launch-week effect, a backlist compounding over years — its caption says so, in words, on the chart itself. Nobody selling you a course about “the Amazon algorithm” actually has its source code, and a book that pretends otherwise is the first warning sign covered in Chapter 13.
+
+That distinction matters because self-publishing has two very different reputations. To one crowd, it’s the most honest deal in publishing: no gatekeeper, a royalty rate three to seven times what traditional trade publishing pays, and a payment that lands every month for as long as the book sells. To another crowd, it’s a swamp of “publish a book in a weekend with AI” grifters, hybrid presses that charge new authors thousands of dollars for what a KDP account gives away free, and get-rich-quick threads that quietly stop posting income updates once the truth sets in. Both reputations are earned. The mechanics in this book are the same mechanics the grifters misrepresent — the difference is entirely in whether you use them to publish something worth reading, priced and positioned honestly, or to flood a category with noise until Amazon’s own enforcement catches up with you.
+
+Who this book is for: someone who either has a manuscript already, or is willing to write one, and wants the business of getting it in front of buyers explained without a sales pitch at the end of every chapter. It is not a writing-craft book — Chapter 4 touches revision because revision is where most self-published books actually lose readers, but it will not teach you plot structure or sentence rhythm. It is not a get-rich-quick book either. Chapter 15 is blunt about what a realistic first year looks like, and it is not a yacht.
+
+One more thing before Chapter 1: everything downstream of “click Publish” — categories, keywords, price, ads, reviews — only works on a book someone actually wants to finish. No amount of keyword research rescues a book that doesn’t deliver on its own cover promise. Keep that in the back of your mind through every chapter that follows; it is the one piece of advice in this book that was true before Amazon existed and will still be true after whatever replaces it.
+
+# Part I — The Landscape
+
+## Chapter 1: Why Self-Publish
+
+Publishing a book used to mean convincing a gatekeeper. You wrote a query letter, an agent said yes or (nineteen times out of twenty) no, the agent pitched editors, an imprint offered a contract, and eighteen months to two years later a book appeared in stores — assuming nothing fell through along the way, which it often did. That path still exists, it still confers real prestige and real distribution, and for some books it’s still the right choice. It is also not the subject of this book.
+
+Self-publishing through Amazon’s Kindle Direct Publishing (KDP) collapses that entire chain into: you upload a file, you set a price, and roughly 24–72 hours later the book is for sale, worldwide, with no one’s permission required but your own. That is either the best thing to happen to writers in a century or a flood of unedited noise, depending on which corner of the internet you ask, and the honest answer is that it’s both — the barrier to publishing dropped to zero, and the barrier to publishing well did not move an inch. This book is about the second barrier.
+
+### The three doors, and what each one actually costs
+
+Traditional publishing. An advance (increasingly modest for all but lead titles), a royalty typically in the 7–25% range depending on format and figured off list or net price depending on the contract, professional editing and distribution you don’t have to arrange yourself, and a timeline measured in years. You give up pricing control, cover approval is often just consultation, and rights can be tied up for the life of copyright unless the contract reverts them. For a debut author with no platform, traditional deals have also gotten harder to land, not easier — imprints increasingly want an existing audience before they’ll bet on a book.
+
+Hybrid and vanity publishers. A company offers to “publish” your book for a fee — sometimes a few hundred dollars, sometimes tens of thousands — providing some mix of editing, cover design, formatting, and distribution. Some hybrid presses are legitimate and transparent about exactly what they charge for and why. A great many are not: they charge premium prices for services (an ISBN, an ebook conversion, a KDP upload) that cost nothing or almost nothing to do yourself, and they lean on a new author’s uncertainty about the process to make “free” look like “expensive.” Chapter 13 covers how to tell the two apart before you sign anything.
+
+Self-publishing. You are the publisher. That sentence is doing a lot of work, and it cuts both ways: no one is stopping you, and no one is helping you either, unless you hire the help yourself. In exchange, KDP pays a 70% royalty on ebooks in the standard price band (Chapter 2 shows the exact arithmetic) against traditional publishing’s single-digit-to-teens net royalty, keeps your rights entirely in your own hands, lets you change a price or fix a typo the same afternoon you notice it, and puts the book for sale before a traditional deal would have finished its first round of submissions. The cost is that editing, cover design, formatting, categories, keywords, pricing, launch, and advertising are now your job — either your own labor or money you spend hiring someone else’s. Every chapter after this one is one piece of that job, done properly instead of guessed at.
+
+### Why “self-published” stopped meaning “unedited”
+
+A decade ago “self-published” was near-synonymous with “unedited, badly formatted, amateur cover.” That reputation is dying slowly, for a specific reason: the authors making real money at this treat it like the small business it is. They hire editors. They commission or carefully design covers that meet genre and category conventions. They track royalty reports the way any business owner tracks a P&L. Amazon’s own bestseller lists are now thick with self-published authors who outsell most traditionally published midlist titles, precisely because they run the operation professionally rather than treating “self-published” as a license to skip the parts of publishing that were never actually optional.
+
+> **Key takeaway: Self-publishing removes the gatekeeper, not the job. It trades a publisher’s cut and a publisher’s timeline for a publisher’s workload. Whether that trade pays off depends entirely on how well you do the job in the chapters ahead — not on the platform, which is free and identical for every author who uses it.**
+
+Every chapter from here on is one stage of a single pipeline. It’s worth seeing the whole shape before diving into the first piece of it:
+
+![figure](../figures/fig01.png)
+
+*Figure 1.1 — The self-publishing workflow this book walks through, one chapter at a time. Nothing here is optional; skipping a stage just means finding out about it later, from a review or a royalty report instead of from this book.*
+
+### A note on doing both
+
+These paths aren’t mutually exclusive across a career, or even across a single book — some authors self-publish a series to prove it sells, then use that sales data to land a traditional deal for future volumes; others go the other direction, getting rights reverted on an out-of-print traditionally published backlist title and re-publishing it themselves. Nothing in this book requires you to pick a side forever. It requires only that, for the books you do self-publish, you treat the business side with the same care you’d want from a publisher you were paying to do it for you.
+
+## Chapter 2: How Amazon Actually Pays You
+
+Before categories, before keywords, before a single dollar of advertising — you need to know what a sale is actually worth to you, in real currency, after Amazon’s cut and its fees. Almost every downstream decision in this book (what to price the book, whether an ad is profitable, whether Kindle Unlimited is worth joining) is a variation on the arithmetic in this chapter. Get this part wrong and every later chapter inherits the error.
+
+### The ebook royalty: two plans, one cliff
+
+KDP offers two ebook royalty plans, and — this trips up a lot of new authors — which one you get is determined automatically by your list price, not chosen as a marketing strategy:
+
+70% royalty, available when your list price falls within the plan’s price band for that marketplace (as of this writing, $2.99–$12.99 in the US store — expanded from a $9.99 ceiling that had stood since 2007, effective July 2026 — with corresponding bands in other currencies), minus a delivery fee based on the file’s size — historically about $0.15 per megabyte. This plan also carries a “don’t undercut yourself” rule: KDP can decline the 70% rate if you’re offering the same book for less somewhere else. The expansion is opt-in for existing titles: a book already priced between $10 and $12.99 stays on the 35% plan until you go into Rights & Pricing and switch it by hand — the wider band doesn’t apply itself.
+
+> **This number will move again.** The ceiling sat at $9.99 for nineteen years before this book was written, then changed. Every dollar figure in this book is a snapshot, not a law of nature — KDP changes royalty splits, price bands, and delivery-fee rates on its own schedule, with no obligation to announce it loudly. Check the current numbers on KDP’s own Pricing Page before you act on anything in this chapter; if it disagrees with a number printed here, KDP is right and this book is out of date.
+
+35% royalty, available at any price from $0.99 up to $200, with no delivery fee subtracted. This is the only plan available outside the 70% price band — price a book at $1.99 or $12.99 and you’re on 35% automatically, whether you meant to be or not.
+
+That’s the cliff: price one cent outside the 70% band and your royalty rate doesn’t taper, it drops by half. A worked example makes the stakes concrete.
+
+> Worked example. A 350-page ebook, roughly 1.2 MB as an EPUB, priced at $4.99:
+
+At 70%: $4.99 × 0.70 = $3.493, minus a delivery fee of roughly 1.2 MB × $0.15 ≈ $0.18. Net royalty ≈ $3.31 per copy.
+
+At 35% (say the author instead priced it at $2.49, just under the band): $2.49 × 0.35 = $0.87 per copy — with no delivery fee to subtract, but also less than a third of the higher price’s payout.
+
+> Pricing $2.50 lower cost this author roughly $2.44 per sale, not $0.87. That gap is the whole reason Chapter 8 spends as much time on pricing psychology as it does — the 70% band isn’t a suggestion, it’s where almost every nonfiction ebook in this genre should live unless there’s a specific reason not to.
+
+![figure](../figures/fig02.png)
+
+*Figure 2.1 — Net author royalty per copy at each price point. The step at $2.99 and the ceiling at $12.99 are the 70%-plan boundaries; everything outside that band falls back to the flat 35% line.*
+
+### Kindle Unlimited and the page-read fund
+
+If you enroll a book in KDP Select (Chapter 12 covers the exclusivity trade-off that comes with it), it becomes available to Kindle Unlimited and Kindle Owners’ Lending Library subscribers, and you’re paid not a royalty per “sale” but a per-page rate out of a shared monthly fund — Amazon sets aside a pool of money each month and divides it by the total normalized pages read across all Select books. The per-page rate therefore moves slightly every month; it has historically sat in the range of roughly $0.004–$0.005 per page (KDP announces the exact figure after each month closes, in your Reports dashboard). Pages are counted using Amazon’s own KENPC (Kindle Edition Normalized Page Count) standard, not your Word document’s page count, so formatting choices — font embedding, image sizing, front-matter bloat — can shift your page count even though the words didn’t change.
+
+> Worked example. A 300-KENPC-page book fully read by one subscriber, in a month where the fund pays $0.0045/page: 300 × $0.0045 = $1.35 for that one full read — comparable to, sometimes less than, a single 70%-royalty sale, but earned from a reader who might never have paid $4.99 up front. Whether that trade is good for your book is exactly the question Chapter 12 answers.
+
+### Print: paperback and hardcover
+
+Print royalties don’t use a percentage-of-price plan the way ebooks do; they use a formula:
+
+Royalty = (List Price × Royalty Rate) − Printing Cost
+
+Paperback, sold through Amazon’s own store: 60% royalty rate.
+
+Paperback through expanded distribution (third-party retailers, bookstores, and libraries KDP can place the book with beyond Amazon itself): 40% royalty rate — the same list price, a smaller share, and worth checking on a book-by-book basis whether it’s worth opting into.
+
+Hardcover: also a 60% royalty rate minus printing cost, sold through Amazon’s own store.
+
+Printing cost is not a number you pick — KDP calculates it from page count, trim size, ink type (black-and-white vs. color interior), and paper choice (standard white vs. cream), and it recalculates automatically if you change any of those. Use KDP’s own price calculator when you’re setting a print list price; don’t estimate the printing cost by hand, and don’t set a list price without checking that royalty ends up positive — it’s possible to price a heavily illustrated color paperback so low that KDP’s own calculator shows a negative or near-zero royalty at that price.
+
+> **Key takeaway: A royalty rate is not a profit margin. It’s the number Amazon subtracts its own costs from — delivery fees for ebooks, printing costs for paperback and hardcover. Your actual per-copy profit is always smaller than the headline percentage, and every pricing decision later in this book starts from the real number, not the advertised one.**
+
+### Reading your own numbers
+
+Everything above is policy, which changes; your KDP Reports dashboard is fact, which doesn’t. Once a book is live, check the Sales Dashboard for units and estimated royalties in near-real time, and the Prior Months’ Royalties report once a month closes for the exact, finalized figures (including that month’s KENP rate). Get in the habit of reading it weekly during a launch and monthly afterward — it’s the only source in this entire book that’s about your book specifically rather than the platform in general, and every other chapter’s advice should eventually show up as a change in these numbers.
+
+# Part II — Writing and Producing the Book
+
+## Chapter 3: Choosing What to Write
+
+“Write the book only you can write” is lovely advice and a poor business plan on its own. The books that make good money on Amazon sit at the intersection of two circles: something you can actually write well, and something a large enough group of people are already actively trying to buy. This chapter is about finding that intersection using Amazon’s own storefront as a research tool, instead of guessing.
+
+### Amazon is a market-research tool you already have access to
+
+You do not need paid keyword-research software to start. Amazon shows you demand directly, if you know where to look:
+
+Browse the category you’re considering (not just the top-level genre — drill into the specific subcategory) and look at the current Best Sellers and Hot New Releases lists, not just the all-time top 100. All-time lists are survivorship-biased: they show you what won years ago, not what’s selling now. Hot New Releases shows recent books that are already gaining traction — a much better signal of live demand.
+
+Check review count relative to publication date. A book with 4,000 reviews published eight years ago tells you the category has (or had) demand; a book with 300 reviews published four months ago tells you demand exists right now and a new entrant can still compete for it.
+
+Look at who’s publishing in the category. A subcategory dominated by three or four publishers with decades of backlist is a hard room to enter. A subcategory full of single-book authors and recent, thin catalogs is fragmented — easier to be noticed in, though sometimes fragmented because the actual demand is smaller than it looks.
+
+Read the one- and two-star reviews on the current bestsellers in your topic, not the five-star ones. Five-star reviews tell you the book worked; one- and two-star reviews tell you exactly what it left out, explained by someone who wanted it to be there. That gap is your outline.
+
+### Write to a shelf, not into a void
+
+Publishers call this “writing to a shelf” — knowing, before you write a word, which existing shelf your book would sit on, and what a reader browsing that shelf already expects. It sounds like it constrains creativity; in practice it’s the opposite of chasing a trend. Trend-chasing means noticing something is popular this month and racing to publish before the wave passes — by the time a trend is visible on Amazon’s charts, a meaningful number of other authors have already seen it too, and the category fills up fast. Writing to a shelf means picking a category with durable, structural demand (a persistent problem, a persistent hobby, a persistent stage of life) and writing the best specific answer to a specific reader’s specific question, rather than the broadest possible book that vaguely covers a popular topic.
+
+> **Key takeaway: “Broad audience” and “big audience” are not the same thing. A book explicitly written for one clearly defined reader — a specific skill level, a specific goal, a specific constraint — usually outsells a book written to appeal to everyone, because the specific book’s cover, title, and sample pages all signal “this is for you” to the reader who actually needs it, instead of asking a general browser to self-select from vague language.**
+
+### Standalone economics vs. series economics
+
+A standalone book earns once per reader. A series earns on read-through — a reader who finishes book one and buys book two, three, four without any new marketing spend from you at all, because Amazon’s own “customers who bought this also bought” and “next in series” placements do the selling. This is the single biggest lever available to a self-published author with a limited budget: a five-book series with modest per-book sales and strong read-through routinely outearns a single book that sold as many total copies, because the series compounds — every new reader of book one is a prospective buyer of the other four, indefinitely, with no additional ad spend required. This applies to nonfiction too: a “beginner,” “intermediate,” and “advanced” set on the same topic, or a set of books that each solve one piece of a larger problem, gets the same compounding effect fiction series get from cliffhangers.
+
+None of this is a substitute for writing something good. It’s the difference between writing something good into a category with active buyers and writing something equally good into a category nobody is currently searching. Both take the same effort to write; only one reliably gets found.
+
+## Chapter 4: From Draft to Manuscript
+
+A finished draft and a finished manuscript are not the same object, and the gap between them is where most self-published books lose readers — not at the idea stage, and not usually at the sentence-craft stage, but in the unglamorous work of catching the errors, gaps, and inconsistencies that a single read-through by the person who wrote it will never catch, because that person already knows what they meant to say.
+
+### The passes, in order
+
+Developmental — is the structure right? Does the argument (nonfiction) or the plot (fiction) actually hold together, in the right order, with nothing important missing and nothing redundant?
+
+Line edit — does each paragraph read well? Is the voice consistent? Are explanations at the right level for the stated audience?
+
+Copyedit — grammar, consistency (character names, spelled-out numbers vs. numerals, capitalization rules, a style choice applied the same way everywhere), and fact-checking any claim a reader could look up and check.
+
+Proofread — the final pass, done on the manuscript in its near-final formatted state, catching typos, double spaces, and formatting accidents introduced by the editing process itself.
+
+These are genuinely different skills, and treating them as one pass — “I’ll just read it again” — is the most common reason a self-edited book feels “almost professional” instead of professional. If you can only afford to hire one of these out, hire the copyedit; it catches the errors a reader notices consciously (“that’s a typo”) rather than the ones they only feel (“something about this felt amateur”).
+
+![figure](../figures/fig03.png)
+
+*Figure 4.1 — Four genuinely different passes, run in order, ending in a manuscript that’s actually ready for Chapter 5 — not four names for the same read-through.*
+
+> Case study: what “professional-grade” editing actually looks like in practice. One real example: a long technical nonfiction manuscript went through three separate independent review passes after its first “complete” draft — each one specifically briefed to hunt for what the previous pass missed rather than re-check settled items, each one independently re-deriving every worked numerical example from scratch rather than trusting the displayed answer. The three passes together found and fixed 13, then 21, then 18 confirmed issues — genuine arithmetic errors, a claim that quietly contradicted the book’s own stated formula two paragraphs earlier, cross-references pointing at the wrong chapter after a renumbering, and (twice) a fix from an earlier pass that had itself introduced a new, smaller inconsistency. A separate manuscript was put through a dedicated mechanical sweep for overused qualifier words — “roughly,” “essentially,” “itself” — appearing twice on the same page, catching 111 instances a normal read-through had sailed past every time, because a reader’s eye and a targeted script are looking for different things. The lesson isn’t “hire three editors” if your budget doesn’t allow it — it’s that the errors still in your manuscript after one careful read are, almost by definition, the ones a normal read doesn’t catch. Budget at least one pass that is specifically not just reading the book again: a fact-check pass, a consistency script, a reader who has never seen the manuscript before.
+
+### Where AI genuinely helps, and where the line is
+
+Used well, AI tools can speed up the unglamorous parts of this process: a first-pass consistency check across hundreds of pages, generating several alternative phrasings of an awkward paragraph for you to choose between and rewrite, condensing research notes, or catching a subset of the kind of mechanical errors described above. Used badly, it becomes the entire book — a prompt, minimal human review, and a KDP upload — and readers have gotten noticeably better at spotting the tell-tale flatness of that approach, which shows up in review sections as a specific and damaging complaint.
+
+Two things are not optional, regardless of how much AI assistance you use in your process:
+
+Amazon requires disclosure. KDP’s publishing questionnaire asks you to declare whether a title contains AI-generated text, images, or translation, and misrepresenting that is a content-policy violation, not a gray area. Answer it honestly.
+
+A human has to be the last editorial judgment. Whatever tools condense, draft, or suggest, the decision that a sentence is accurate, that an example is correct, and that a chapter says what you actually mean has to be made by a person who is accountable for it — which in practice means the fact-check and consistency passes above are not optional just because a tool helped write the first draft.
+
+### A minimum revision checklist
+
+If you do nothing else before publishing, do these:
+
+Read it aloud, or have text-to-speech read it to you. Your ear catches rhythm problems and repeated words your eye slides past.
+
+Check every number and every cross-reference. “As shown in Chapter 4” needs to actually be Chapter 4, still, after every reorganization.
+
+Run one adversarial pass. Read it once specifically looking for ways to be wrong — a claim you can’t actually back up, a promise the book doesn’t deliver on, a contradiction between an early chapter and a later one.
+
+Get at least one outside reader who has never seen the manuscript before, and ask them specifically where they got confused or bored, not just whether they “liked it.”
+
+## Chapter 5: Formatting That Doesn’t Break Kindle
+
+Ebook formatting and print formatting are not the same job wearing two hats — they solve different problems, and treating one file as automatically correct for both formats is where a lot of self-published books develop avoidable, embarrassing bugs (a page-number reference in a book with no fixed pages, a table of contents with no working links, a paperback with no page numbers at all).
+
+### Ebooks: let Kindle do the navigation
+
+A Kindle reader can change font size, font, and line spacing, which means your ebook has no fixed pages — “page 47” means something different on every device and at every font size a reader might choose. Two consequences follow directly:
+
+Don’t build a page-numbered table of contents. It cannot be accurate, because there are no fixed pages to number. Kindle instead builds its own “Go To” navigation menu automatically, directly from your document’s Heading 1 / Heading 2 paragraph styles — which is why using real heading styles (not just bold, oversized text that merely looks like a heading) is the single most important formatting choice in the whole manuscript. A plain-text contents listing (titles only, no page numbers, the way this book’s own front matter does it) is a nice reader convenience on top of that, not a replacement for it.
+
+Skip the index. A print index maps terms to page numbers; without fixed pages, that mapping is meaningless. If a reference title needs a true, searchable index, that’s a signal to route it through print rather than positioning it as a Kindle-only reference work.
+
+Beyond headings, keep ebook formatting deliberately plain: standard paragraph styles, images sized to look correct at typical device widths rather than at one specific screen size, and no fixed-width text boxes or multi-column layouts, which most reflowable Kindle formats handle poorly. Kindle Create (Amazon’s free formatting tool) or a clean Word document with correctly applied heading styles both get you there; what matters is the underlying structure, not which tool produced it. Before you publish, use KDP’s own online previewer and check the book on more than one simulated device size — a layout that looks fine on a tablet-width preview can crowd an image awkwardly on a phone-width one.
+
+### Print: everything the ebook didn’t need
+
+A paperback or hardcover interior needs the things the ebook explicitly skipped, plus a few of its own:
+
+A real, page-numbered table of contents — because print pages are fixed, this one actually works, and readers expect it.
+
+Page numbers and (usually) running headers, placed and styled consistently throughout.
+
+Front matter in the conventional order: title page, copyright page, optional dedication, table of contents, then the body — readers of print nonfiction expect this shape, and deviating from it reads as amateur even when nothing is technically wrong.
+
+A trim size choice. 6”×9” is the most common choice for nonfiction — large enough to keep line lengths comfortable, small enough to print economically — with 5.5”×8.5” a common alternative for shorter, more portable guides.
+
+Margins that account for the gutter — the inner margin needs extra room so text isn’t swallowed by the binding, especially as page count grows.
+
+Bleed, only if something touches the page edge. A book with no full-bleed images or background color doesn’t need a bleed margin at all; add one only for pages that actually require it.
+
+Spine width and cover dimensions calculated by KDP’s own cover template tool, not by hand. Spine width depends on exact page count, trim size, paper color (white vs. cream), and interior ink (black-and-white vs. color) — four variables that make hand-calculating it a good way to order a cover that doesn’t fit.
+
+A physical proof, ordered and actually read, before you hit publish. Screen previews miss things — color that renders differently in print, a margin that looked fine on screen but crowds the gutter, a font substitution — that only show up in your hands.
+
+![figure](../figures/fig04.png)
+
+*Figure 5.1 — The same finished manuscript, two different finishing workflows. They diverge immediately, and “did the ebook steps by habit on the print file” (or vice versa) is exactly the kind of avoidable bug this split is meant to prevent.*
+
+> **Key takeaway: Format for the reader’s actual device, not for how the manuscript looks in your word processor. An ebook formatted like a Word printout (fixed page-number references, a dead table of contents) looks broken to a Kindle reader; a paperback formatted like a webpage (no page numbers, no running headers) looks unfinished to a print reader. Same words, two different finished products.**
+
+## Chapter 6: Covers That Sell in a Thumbnail
+
+A cover has one job before it has any other job: survive being shown at roughly the size of a postage stamp. Almost every place a shopper actually encounters your book for the first time — search results, a “customers also bought” carousel, a category browse grid — shows it small, often under 150 pixels wide, often on a phone screen, often for under a second before the shopper’s eye moves on. A cover that looks stunning full-screen and unreadable as a thumbnail has failed at its actual job, no matter how good the artwork is.
+
+### The thumbnail test
+
+Before you finalize any cover — yours or a hired designer’s — shrink it down to actual thumbnail size and look at it from a normal viewing distance, not zoomed in on your monitor. Ask three questions:
+
+Can you read the title at that size, at a glance, without leaning in?
+
+Does the genre or category read correctly at a glance — does a business book look like a business book, a thriller like a thriller — even with no ability to read the small print?
+
+Is there one clear focal point, or does the eye not know where to land?
+
+![figure](../figures/fig05.png)
+
+*Figure 6.1 — The same cover concept at full size and at the size a shopper actually sees it first. Details that read fine large enough often disappear entirely at thumbnail size — check at the smaller size, not the larger one.*
+
+### Genre conventions exist because readers use them
+
+A reader scanning a category page is pattern-matching, not reading — they’ve learned, from years of browsing, what a thriller cover looks like versus a cozy mystery, what a business book looks like versus a memoir. This isn’t a creative constraint to fight; it’s a communication channel to use. A cover that deliberately breaks convention can work, but only as a calculated choice made after you understand what you’re breaking from — breaking convention by accident, because you didn’t research what similar, successful books in your exact category actually look like, just reads as confusing rather than distinctive. Before commissioning or designing a cover, pull up the current bestsellers in your specific subcategory and note what they share: color palette conventions, typography weight, how much of the cover is imagery versus type, where the author name sits relative to the title.
+
+### Hierarchy: title, subtitle, author — in that order, usually
+
+For most nonfiction, the reading order a cover should guide the eye through is: title first (the hook), subtitle second (the specific promise — for nonfiction, the subtitle is doing real advertising copy work, not just decoration; it’s where “learn to play piano” becomes “learn to play piano in 30 days with no prior experience”), author name last, unless you’re already a known quantity in the category, in which case your name can carry as much weight as the title. Don’t split attention evenly across all three — a cover where the title, subtitle, and author name are all the same visual weight gives the eye nowhere obvious to start.
+
+### DIY, template, or hire — and what each actually costs
+
+KDP’s built-in Cover Creator produces a serviceable, template-based cover for free. It is recognizable as a template to anyone who’s seen a few of them, which is a real cost even though the dollar cost is zero — fine for testing an idea, rarely the right choice for a book you’re investing real marketing effort behind.
+
+Template marketplaces and freelance platforms (pre-made cover templates customized with your title, or a freelancer working from a brief) typically run from double digits to a few hundred dollars and can look genuinely professional if you choose a template built for your actual genre and category, not just one that looks nice in isolation.
+
+A dedicated cover designer, especially one who already works in your specific category, costs more — often several hundred dollars and up — but understands the genre conventions above without being told, and is usually the best return on investment for a book you expect to actively market, because the cover is one of the few assets that keeps working for you on every single impression, for free, for as long as the book is listed.
+
+Whichever route you take, run the finished cover through the thumbnail test above before you commit to it — it’s the cheapest quality check in this entire chapter, and the one most often skipped.
+
+# Part III — Getting Discovered
+
+## Chapter 7: Categories, Keywords, and Your Product Page
+
+A shopper finds your book two ways: searching for it directly, or browsing a category and encountering it. Keywords control the first path, categories control the second, and both are set from the same KDP upload screen in about five minutes — which is exactly why they’re worth doing carefully instead of on autopilot. This is the cheapest, highest-leverage discoverability work in the entire book, because it costs nothing and takes effect immediately.
+
+### The seven keyword slots
+
+KDP gives you seven keyword fields, each accepting a phrase of up to fifty characters. Three rules make the difference between slots that work and slots that are quietly wasted:
+
+Use full phrases, not single words. A slot can hold “budgeting for freelancers with irregular income,” not just “budgeting” — and a specific phrase matches how people actually type search queries far better than any single generic word does. A single word also wastes the other forty-plus characters of space you were given.
+
+Don’t repeat words already in your title, subtitle, or series name. Amazon already indexes those for search; a keyword slot spent repeating “budgeting” when your title already contains “budgeting” is a slot doing no new work at all. Spend every slot on a phrase your title doesn’t already cover.
+
+Never use another author’s name, a competing book’s title, or a trademarked term you don’t own, even though it’s technically possible to type one into the field. This is a KDP content-policy violation, not a gray-area growth hack, and it risks the listing itself, not just the keyword.
+
+Where do the actual phrases come from? The single best free source is Amazon’s own search bar: start typing a query a real customer might type — “how to self-publish,” “self-publishing for” — and read the autocomplete suggestions. Those are real, aggregated queries other shoppers have actually typed, which makes them a far better source than guessing. Reading the “Look Inside” blurb language and the customer-review wording on the current bestsellers in your category is a second free source — readers often describe a book using different words than the author chose for the title, and those reader words are exactly what future readers will search.
+
+![figure](../figures/fig06.png)
+
+*Figure 7.1 — Discovery is a funnel: your title and subtitle are indexed automatically, seven backend keyword slots extend that coverage to phrases the title doesn’t use, categories place you on the right shelf, and all of it only pays off if it matches what a real shopper actually types or browses for.*
+
+### Categories: pick the smallest room you actually belong in
+
+At upload, KDP lets you choose up to three browse categories from Amazon’s BISAC-based category tree. The instinct to pick the biggest, most prominent category (“Business & Money”) is usually a mistake — it’s an enormous room where you’re competing against every business book on Amazon for attention. The more specific leaf category you can honestly claim (“Business & Money → Small Business & Entrepreneurship → Home-Based Businesses,” for instance) is a much smaller room, which means a given level of sales velocity moves you much further up its charts — including, for a genuinely small category, potentially far enough to earn an “#1 Best Seller” orange tag, which is itself a credibility signal that helps convert future browsers.
+
+Amazon’s full category list is considerably longer than the categories exposed in KDP’s own self-service picker. If you find categories in Amazon’s published category list that fit your book better than anything in the picker, you can request them directly: contact KDP support through your bookshelf (Contact Us → the appropriate content or metadata topic) and give them the exact category paths, taken from Amazon’s official category list, that you want added. This is a real, ordinary support request, not a workaround — support staff add categories manually all the time when an author identifies a better-fitting one that the upload picker doesn’t surface.
+
+> **Key takeaway: Both categories and keywords are free, instant, and editable — you can revisit them the day after launch based on how the book is actually performing. Set them thoughtfully at launch, but don’t treat the first choice as permanent; if a category isn’t producing visibility after a reasonable window, it costs nothing to request a better-fitting one.**
+
+### Your product page: the description does the selling the cover can’t
+
+The cover (Chapter 6) earns the click. The book description — the block of text on the product page, up to 4,000 characters, with light HTML formatting available (bold, italics, line breaks, bullet lists) through KDP’s description editor — is what turns that click into a sale. It is advertising copy, not a table of contents, and the single most common mistake is writing it like the second thing instead of the first.
+
+The shape that works, in order:
+
+A hook, in one or two sentences. Open on the reader’s actual problem or the transformation they want, not on your book’s topic. “Most new authors lose money on their first book” earns another sentence of attention; “This book is about self-publishing on Amazon” does not.
+
+The promise. One short paragraph on what the book delivers and, for nonfiction specifically, why this author — credentials, results, or a specific angle that differentiates it from the ten other books on the same shelf.
+
+A scannable bulleted list of concrete takeaways. Most shoppers skim rather than read a product description top to bottom; five to eight specific, concrete bullets (“The exact royalty math behind the 70%/35% split,” not “Learn about royalties”) do more conversion work than another paragraph of prose.
+
+Proof, if you have it. A review pull-quote, a credential, a relevant result — this section is optional and short; don’t manufacture proof you don’t have.
+
+A short call to action. One line, telling the reader what happens next (“Scroll up and grab your copy” reads as a cliché for a reason — it works because it removes the last moment of friction before the buy button).
+
+> **Worked example — before and after.**
+
+> Before: “This book covers how to publish on Amazon KDP. It talks about royalties, pricing, categories, keywords, and marketing. It is useful for anyone who wants to become a self-published author.”
+
+> After: “Most new authors lose money on their first book — not because the book is bad, but because nobody told them how the royalty math, the categories, or the ads actually work. How to Publish and Make Good Money fixes that, with the arithmetic shown every time. Inside, you’ll learn: the exact price where your royalty rate cuts in half (and why most authors hit it by accident) · the seven keyword slots almost everyone wastes · a break-even ad formula you can run in your head · which KDP Select and going-wide decision actually fits your book. No guru pitch, no upsell — just the mechanics, shown, so you can run the numbers yourself.”
+
+> Same facts, same length limit — the difference is entirely in what got promoted to the first sentence and what got turned into something scannable instead of buried in a paragraph.
+
+![figure](../figures/fig07.png)
+
+*Figure 7.2 — The description’s job, in order. Skip the hook and open on your topic instead, and most shoppers never reach the part where you actually make your case.*
+
+Two more product-page pieces, both free and easy to skip:
+
+Amazon Author Central. A free profile — bio, photo, and every book you publish under that name, automatically linked — that turns a single-book sale into a chance to be discovered as an author with a catalog (Chapter 14). There’s no reason not to set this up on day one.
+
+A+ Content (Enhanced Brand Content). Image-and-text modules that can appear further down the product page. Eligibility and setup have changed more than once and vary by account, so treat this as “worth checking your current KDP dashboard for,” not as a guaranteed day-one option the way Author Central is.
+
+Like price and keywords, the description isn’t a one-time decision — it’s editable the same afternoon you notice it isn’t converting, at zero cost. If a book has decent traffic (from ads or category placement) but a weak conversion rate, the description is one of the first three places to look, right alongside the cover and the price.
+
+## Chapter 8: Pricing for Profit
+
+Chapter 2 showed you the mechanical cliff between the 35% and 70% royalty plans. This chapter is about where inside — or deliberately outside — that band your specific book should sit, and why “as high as the market will bear” and “as low as possible to win on price” are both usually wrong answers for a new nonfiction title.
+
+### The default range, and why
+
+For most standalone nonfiction in the $2.99–$12.99 band, $3.99–$6.99 is a sensible starting range: high enough to signal real value (a $0.99 how-to guide reads, fairly or not, as slight and disposable to a lot of shoppers), low enough to be an easy impulse decision against a specific, felt problem. A narrow, high-authority professional or technical niche can often support pricing at or near the $12.99 ceiling of the 70% band — readers solving an expensive problem (a business decision, a certification, a skill tied directly to income) are reliably less price-sensitive than readers buying general-interest nonfiction, and testing a higher price within the band costs you nothing but a little time to observe the effect on conversion.
+
+Pricing under $2.99 does double damage at once: it drops you to the 35% royalty plan (Chapter 2’s cliff) and it can read, to a browsing shopper, as a signal that the book itself is thin or low-effort — the opposite of the “impulse-buy bargain” effect a low price is often chosen to create. There are legitimate reasons to price low deliberately (a short lead-in title meant to build an email list or a series, discussed below) — but those are choices made for a specific strategic reason, not a default.
+
+![figure](../figures/fig08.png)
+
+*Figure 8.1 — Illustrative model, not a disclosed Amazon statistic: take-home per book is price times conversion, and conversion falls as price rises. The curve’s shape — a broad middle that beats both extremes — is the real lesson; the exact peak location varies by book, category, and audience.*
+
+### Print has its own floor
+
+A paperback or hardcover list price must clear the printing cost before any royalty exists at all (Chapter 2’s formula). KDP’s price calculator will show you the minimum list price at which a royalty becomes positive for your exact page count, trim size, and ink choice — treat that number as an absolute floor, not a target, since a print book priced at the bare minimum often leaves you earning a few cents a copy after printing cost, which covers approximately none of the time this book has described so far.
+
+### Pricing a series on purpose
+
+For a series or a closely related set of nonfiction guides, price is a strategic lever across the whole set, not just one book: many authors price the first entry a little lower than the rest, specifically to lower the barrier to the read-through effect described in Chapter 3 — a reader who tries book one cheaply and likes it converts into a full-price buyer for every subsequent book, with no further marketing spend from you. True “$0.00 forever” pricing isn’t directly settable on KDP outside specific short promotional windows; the common way authors achieve a genuinely permanent free first-in-series title is by setting the ebook free on a retailer that allows it directly (Apple Books, or a distributor like Draft2Digital that reaches several at once — see Chapter 12), then submitting that lower price to Amazon as a price-match request, since Amazon’s own systems will match a lower verified price found elsewhere.
+
+### Discount tools, honestly described
+
+KDP Select enrollment (Chapter 12) unlocks Free Book Promotions — a limited number of days where an enrolled book can be offered free directly on Amazon, useful for a launch push or to re-energize a backlist title’s visibility. Kindle Countdown Deals, a previous KDP Select discount tool, have since been discontinued — a reminder that this entire category of tool changes over time, and the right move before running any promotion is checking your KDP Select terms page for what’s currently actually offered, not relying on what an older blog post describes.
+
+This chapter covers pricing at the level every book needs. Chapter 16 goes much further into one specific piece of it — the mechanics of *when* to move the price and why, tied to the review-seeding timeline — for anyone who wants the deeper tactical version once the basics here are settled.
+
+## Chapter 9: Launching Without an Audience
+
+The single biggest myth about a book launch is that it requires an existing audience. It doesn’t — it requires concentration: the same number of sales and reviews landing in a short, coordinated window does far more for a new book’s visibility than the identical numbers trickling in over a month, because Amazon’s own ranking and recommendation systems respond to velocity — how fast a book is moving right now — not just cumulative totals.
+
+### Pre-orders: a deadline you set for yourself
+
+KDP lets you list a book for pre-order up to a year ahead of its release date, which gives you weeks or months to gather momentum before day one instead of starting cold. The trade-off is a real deadline: your final manuscript file has to be locked in and approved before the release date, and Amazon has tightened its enforcement around pre-orders that miss their promised release — a pattern of late files can cost an account its pre-order privileges entirely. If you use a pre-order, treat the file-upload deadline as immovable and finish your revision passes (Chapter 4) with real margin before it, not right up against it.
+
+### Building an ARC team, correctly
+
+An ARC (Advance Reader Copy) team is a small group of readers who receive the book free, ahead of or right at launch, in exchange for an honest review. Recruiting one is straightforward — a call-out to your existing network, relevant online communities for your genre or topic, or a simple sign-up page — but the ethical and policy line here is sharp and worth stating plainly:
+
+> **Key takeaway: You may give a book away free in exchange for a reader’s honest opinion. You may never give anything — a free copy, cash, a discount, or any other incentive — in exchange for a positive review, or review-swap with other authors. The first is normal, encouraged industry practice and is what an ARC team actually is. The second is a violation of both Amazon’s content policies and FTC disclosure rules, and it’s the exact mechanism behind several real account suspensions. Ask for honesty, not praise, and say so explicitly when you hand out review copies.**
+
+### Launch week is a coordination problem, not a luck problem
+
+The goal of launch week is to concentrate every review, every purchase from your own network, and any promotional push you’re running into the same narrow window — rather than let them land in a scattered trickle — because a short burst of real velocity is what triggers “Hot New Release” placement and meaningful category rank movement. Category rank is relative and constantly recalculated: it reflects your sales velocity compared to everything else currently active in that category, not a lifetime total, which is exactly why the specific, smaller category you chose in Chapter 7 matters so much at launch — the same burst of sales that barely dents a giant category’s chart can be enough to hit #1 New Release or #1 Best Seller in a well-chosen, narrower one, and that badge then becomes its own discoverability and credibility signal to every subsequent browser.
+
+![figure](../figures/fig09.png)
+
+*Figure 9.1 — Illustrative model: the same total sales, spread thin across a month versus concentrated into a launch week. Amazon’s own ranking mechanics aren’t public, but the qualitative effect — concentrated velocity moves rank further than the same total spread thin — is well established indie-publishing practice, not a guarantee for any specific book.*
+
+A practical launch-week checklist: line up your ARC reviews to post at or immediately after launch rather than whenever each reader happens to finish; tell your own network the specific date rather than “it’s out now” whenever convenient; and hold back any planned ad spend or promotion (Chapter 10) to start the same day rather than staggering it in afterward.
+
+Everything above is the shape of a launch. Chapter 16 is the deep version of just the ARC and review-eligibility piece — who can actually post where, how to run the roster without tripping Amazon’s rules, and what to do with the first review that isn’t a good one — for anyone whose launch lives or dies on review count specifically.
+
+## Chapter 10: Amazon Ads Without Wasting Money
+
+Amazon Advertising (Sponsored Products, for most authors) lets you pay to place your book directly in search results and on other books’ product pages. It’s the closest thing self-publishing has to a dial you can turn up or down on demand — and also the fastest way to lose money if you turn it on without understanding the one number that actually matters: whether an ad is profitable at all.
+
+### Auto campaigns first, manual campaigns second
+
+Start with an automatic targeting campaign, where Amazon chooses which searches and product pages to show your ad against based on your book’s own metadata. Its job isn’t to be profitable on day one — it’s to generate data: after a couple of weeks, its Search Term Report shows you exactly which real customer searches actually led to clicks and sales. Take the phrases that converted well and move them into a manual campaign, where you control the bid on each keyword directly, and let the underperforming broad automatic spend taper down. This sequence — auto for discovery, manual for control — avoids the common new-advertiser mistake of guessing at keywords from scratch and bidding blind.
+
+![figure](../figures/fig10.png)
+
+*Figure 10.1 — This isn’t a one-time setup. New search terms keep surfacing after the first harvest, so the loop back to the Search Term Report keeps running for as long as the campaign does.*
+
+### The only formula that matters: break-even ACOS
+
+ACOS (Advertising Cost of Sales) is simply:
+
+ACOS = Ad Spend ÷ Ad-Attributed Sales × 100%
+
+An ad is profitable exactly when its ACOS is below your break-even ACOS — the percentage of a sale’s revenue that equals your actual royalty margin:
+
+Break-even ACOS ≈ Royalty per Copy ÷ Sale Price × 100%
+
+> Worked example. A $4.99 ebook earning a $3.31 net royalty (Chapter 2’s worked example) has a break-even ACOS of 3.31 ÷ 4.99 ≈ 66%. Spend $10 in ads and sell three copies attributed to that spend (royalty: $9.93) and your actual ACOS is 10 ÷ 9.93 ≈ 101% — losing money on the ad, even though it “worked” in the sense of generating sales. The same $10 spend producing five sales (royalty: $16.55) gives an ACOS of 10 ÷ 16.55 ≈ 60% — under the 66% break-even line, and genuinely profitable.
+
+![figure](../figures/fig11.png)
+
+*Figure 10.2 — The break-even line for the $4.99 example above. Below the line, an ad is paying for itself before any read-through, page-read income, or brand-visibility effect is even counted; above it, the ad is a net cost you’re choosing to pay for exposure, which can still be a reasonable choice during a launch, as long as you’re making that trade on purpose.*
+
+Two caveats worth holding onto: direct ACOS profitability isn’t the whole picture. A break-even-or-slightly-negative ad during launch week can still be worth running for the visibility and momentum effects described in Chapter 9, as a deliberate, bounded spend — the danger is treating every ad that way indefinitely, rather than as a specific, time-limited choice. And a single sale can undercount a book’s real return if it’s part of a series — factor a reasonable estimate of read-through into subsequent volumes before writing off a campaign that looks marginal on book one alone.
+
+### Budget discipline for a new advertiser
+
+Start with a small daily budget and let a campaign run long enough to gather a meaningful number of clicks before judging it — a campaign killed after two days rarely has enough data to mean anything.
+
+Read the Search Term Report, not just the campaign-level ACOS — it’s common for one converting phrase to be subsidizing several non-converting ones sitting in the same auto campaign.
+
+Add non-converting search terms as negative keywords once they’ve had enough clicks with zero sales to be a real signal, not a fluke — this stops you paying repeatedly for traffic that’s already shown you it doesn’t convert.
+
+Revisit bids and budgets weekly, not daily — day-to-day noise in a small campaign’s numbers is mostly randomness, not signal.
+
+# Part IV — The Business Side
+
+## Chapter 11: Getting Paid: Taxes, Payments, and Reporting
+
+The most common reason a new author’s first royalty payment is delayed or smaller than expected has nothing to do with sales — it’s an incomplete tax interview. This chapter is the unglamorous plumbing that makes sure the money your earlier chapters worked to earn actually reaches you, at the rate it’s supposed to.
+
+### The tax interview isn’t optional paperwork — it sets your withholding rate
+
+Before KDP releases any royalty, it requires a tax interview, completed in your account settings:
+
+US persons complete a Form W-9.
+
+Non-US individuals complete a Form W-8BEN.
+
+Non-US entities (a company rather than an individual) complete a Form W-8BEN-E.
+
+Here is the part that catches people off guard: royalties are US-source income for tax purposes, and the default US withholding rate on that income for a non-US person is 30%, taken straight off the top before you ever see it. Many countries have a tax treaty with the United States that reduces or eliminates this withholding on royalty income specifically — but that reduced rate is not automatic. To claim it, your W-8BEN needs a foreign taxpayer identification number and an explicit treaty claim referencing the relevant treaty article. Skip that step, even by accident, and you default to the full 30% withholding regardless of what your country’s treaty actually allows.
+
+> **Key takeaway: Treaty rates and eligibility genuinely vary by country and change over time — this book won’t guess a number for your specific situation. Look up your country’s current entry in the US Tax Treaty tables (or ask an accountant who handles cross-border royalty income) before your first sale, get whatever foreign tax ID the treaty claim requires, and complete the W-8BEN correctly the first time. Fixing an incorrect tax interview after the fact is entirely possible but slower than doing it right before you need it.**
+
+If a required taxpayer ID takes time to obtain in your country, start that process as early as possible — ideally before you expect your first payment — rather than discovering the delay when a payment is already held up.
+
+### How and when you’re actually paid
+
+KDP pays royalties by direct deposit (or check, where direct deposit isn’t available for your country/currency), roughly 60 days after the month in which the royalty was earned closes — a February sale is typically paid around the end of April, not immediately. Payment also requires your accumulated royalty balance to clear a minimum threshold, which varies by currency and payment method; check your own Payment settings inside KDP for the current number rather than relying on a fixed figure here, since these thresholds are exactly the kind of detail that changes without much announcement.
+
+### Reading your reports without confusing yourself
+
+KDP gives you three different views of your own money, and new authors frequently compare the wrong two against each other:
+
+Sales Dashboard — near-real-time, estimated units and royalties. Useful for watching a launch unfold; not the final number.
+
+Prior Months’ Royalties report — the finalized figures for a closed month, after returns and any KENP fund rate is set. This is the number that will actually match what gets paid.
+
+Payments report — the actual disbursements made to your bank account, which lag the royalty-earned month by the ~60-day delay above.
+
+Expect the Sales Dashboard’s running estimate and the eventual finalized monthly report to differ slightly — that’s normal, not an error, and it’s exactly why the finalized report, not the live dashboard, is the number to use for any real accounting.
+
+### Treat it like the business it is
+
+Once money is actually moving, a little bookkeeping discipline pays for itself: keep records of every business expense (editing, cover design, ads, any software or service subscriptions) against your royalty income, and consider a dedicated bank account once revenue is more than trivial, purely to keep the paper trail clean. Whether self-published royalty income counts as self-employment income or passive royalty income for tax purposes is a real, fact-specific question in a number of jurisdictions — it typically depends on how regularly and actively you’re engaged in the business of writing and publishing, not just on the fact that “royalty” is in the name — and it materially affects which expenses are deductible and whether self-employment-type tax applies. This is exactly the kind of question worth a genuine conversation with an accountant familiar with creative or royalty income once you’re earning enough for the distinction to matter, rather than a guess from a general-purpose guide like this one.
+
+## Chapter 12: KDP Select vs. Going Wide
+
+Once a book is written, formatted, priced, and ready to launch, you face one more structural decision: does the ebook live on Amazon exclusively, or everywhere at once? Neither answer is universally correct, and the honest version of this chapter is that it depends heavily on your genre and your specific readers.
+
+### What Select actually asks for, and what it gives back
+
+Enrolling an ebook in KDP Select commits it to a rolling 90-day exclusivity period: for that ebook edition specifically, it can only be sold as an ebook through Amazon — not Apple Books, Kobo, or anywhere else. This restriction applies to the digital edition only; a paperback or hardcover edition of the same book is entirely unaffected and can be sold anywhere regardless of your Select enrollment. In exchange, Select unlocks:
+
+Kindle Unlimited / Kindle Owners’ Lending Library page-read income (Chapter 2’s KENP mechanics) — for some genres, this is not a minor bonus but the majority of total revenue.
+
+Free Book Promotions — a limited number of days where the book can be offered free directly on Amazon, useful for a launch push, a series first-volume strategy (Chapter 8), or reviving a quiet backlist title.
+
+At the end of each 90-day term, Select auto-renews unless you opt out — worth calendaring, so a decision to go wide doesn’t get delayed by simply forgetting the renewal date exists.
+
+### What “going wide” gets you instead
+
+Going wide means distributing the ebook to multiple retailers and library platforms — Apple Books, Kobo, Barnes & Noble, Google Play Books, and library-lending systems — either by uploading to each directly or, far more commonly, through an aggregator like Draft2Digital or PublishDrive, which handles the individual retailer relationships for a cut of sales made through it. The upside is real: your income isn’t dependent on one platform’s rules, algorithm changes, or payment terms, and some readerships (certain nonfiction niches especially) skew more heavily toward Apple or library reading than Amazon’s fiction-heavy Kindle Unlimited subscriber base does.
+
+![figure](../figures/fig12.png)
+
+*Figure 12.1 — Not a one-time choice: run one real 90-day term, then let what actually happened to your page-reads make the next decision instead of a genre-wide generalization.*
+
+### Choosing without guessing
+
+A reasonable default for a new author with no existing data: enroll the first book (or series) in Select for one 90-day term, watch the actual page-read numbers against what wide distribution would plausibly have earned, and make the next term’s decision from real data instead of a genre-wide generalization. Kindle Unlimited tends to matter most for genres with heavy series readers who consume books quickly (romance, fantasy, thriller fiction, in particular) and matters less for many nonfiction categories, where a reader may buy once rather than subscribe-and-binge — but “tends to” is not a guarantee for your specific book, which is exactly why testing one real term beats assuming either way.
+
+## Chapter 13: Avoiding the Traps
+
+Every mechanism described in this book so far is free, documented, and available to any KDP account. Everything in this chapter exists because that fact — self-publishing costs nothing but effort — is exactly what a whole ecosystem of scams, shortcuts, and account-ending mistakes is built to obscure. Knowing what this chapter covers is often the difference between a first-time author who keeps their account and their earnings, and one who doesn’t.
+
+### Vanity and predatory hybrid publishers
+
+The scam is almost always the same shape: a company charges a new author a fee — anywhere from a few hundred to many thousands of dollars — for services that either cost nothing (an ISBN assignment, a KDP upload, basic ebook formatting) or cost a small fraction of what’s being charged (professional cover design, a real developmental edit). Watch for:
+
+Unsolicited contact — “we read your manuscript and think it has real potential” from a company you never submitted to. Legitimate publishers don’t cold-call unpublished manuscripts they found on their own.
+
+Upfront fees framed as necessary for basic access to distribution that KDP already provides for free.
+
+Vague, inflated promises — “bestseller,” “bookstore placement,” “Hollywood option potential” — offered with no specifics about how, paired with pressure to sign quickly.
+
+None of this means every paid publishing-adjacent service is a scam — freelance editors, cover designers, and formatters described in earlier chapters are legitimate paid services doing real, specific work. The distinguishing question is always the same: can you name, specifically, what this fee is paying for, and could you get that same specific thing done elsewhere for less? A legitimate freelancer answers that question instantly. A predatory hybrid publisher’s answer is deliberately vague.
+
+### Fake reviews and rank manipulation
+
+Buying reviews, joining a review-swap ring, or paying for a “guaranteed ranking boost” service are all violations of Amazon’s content policies, and the consequence isn’t limited to the one book involved — Amazon can suspend an entire account over manipulated reviews or rank manipulation, which means every book you’ve ever published under that account stops earning at once, not just the one that triggered it. There is no version of this trade-off that’s worth it: the honest ARC-team approach from Chapter 9 achieves the same “reviews at launch” goal legitimately, with none of the downside risk.
+
+### AI-content flooding
+
+A different, newer version of the same underlying trap: mass-producing large numbers of thin, minimally reviewed, AI-generated books to flood categories, hoping volume compensates for quality. Amazon has been actively tightening enforcement against exactly this pattern — content-quality policies, required AI-content disclosure (Chapter 4), and account-level publishing limits for accounts that trip its low-quality signals. Beyond the policy risk, it’s a reputation trap for your author name and your existing titles: a flood of low-effort books under one name damages trust in your better books too, in a marketplace where a reader’s next click is often “see all books by this author.”
+
+### Copyright and licensing traps
+
+Two mistakes show up often enough to name directly: assuming something is public domain when it isn’t (public-domain status depends on specific publication dates and jurisdictions, and a translation, annotation, or edited edition of a public-domain work can itself carry separate copyright even when the underlying original doesn’t), and using images — cover art, interior illustrations — without a license that actually covers commercial use. A stock image licensed for personal or editorial use is not automatically licensed for a book you’re selling; check the specific license terms every time, for every image, not just the ones that look obviously professional.
+
+![figure](../figures/fig13.png)
+
+*Figure 13.1 — The common thread across every trap above: a shortcut that trades a small, certain cost now (an editor’s fee, a slower honest launch) against a large, uncertain cost later (a suspended account, a damaged reputation, a copyright claim) — and the trade almost never pays off in your favor.*
+
+### The best filter: check KDP’s own help pages first
+
+A large share of “secret” paid courses promising to reveal how self-publishing really works are, on close inspection, reselling information KDP already publishes for free in its own Help pages and this book’s chapters. Before paying for any course or service that claims special insider knowledge of “the algorithm” or “what really works,” spend twenty minutes checking whether the claim is actually just documented KDP policy with a markup attached. Often, it is.
+
+# Part V — Playing the Long Game
+
+## Chapter 14: From One Book to a Catalog
+
+Every chapter so far has been about one book. This chapter is about the point at which the math changes: a catalog of several related books doesn’t just add up its individual books’ income — it compounds, because each additional title increases the discoverability surface of every title already in the catalog, not just its own.
+
+### Why a catalog outearns the sum of its books
+
+A reader who finishes your first book is shown your other books directly, on your Amazon author page, on each book’s “more by this author” section, and through “customers also bought” placements — at zero additional marketing cost, because you already paid the one-time cost (writing it, formatting it, launching it) to acquire that reader’s attention in the first place. A five-book catalog isn’t five separate customer-acquisition problems; it’s one customer-acquisition problem (get a reader to try book one) followed by four essentially free upsells. This is the same read-through economics from Chapter 3, extended from a single series to an entire body of work.
+
+There’s a second, quieter compounding effect: the fixed costs of learning this whole system are paid once. The time spent learning to navigate KDP’s upload flow, understanding your own ad account well enough to run a profitable campaign, developing a cover style that reads correctly for your category, building an ARC team and an email list — none of that resets to zero for book two. Book two of a well-run catalog typically takes meaningfully less total effort to launch than book one did, for the simple reason that most of that effort was fixed-cost learning, not per-book labor.
+
+> Case study: planning for compounding from day one. One real example: a technical nonfiction series was planned from the start as many separate, topic-sized books rather than as a single giant volume — explicitly so that each finished book would immediately extend the discoverability and “more by this author” surface of every other book already published, instead of asking one enormous, slow-to-finish book to carry the entire catalog’s earning potential alone. A broader catalog built the same way often spans several genuinely different categories at once, which spreads risk the same way a diversified small-business portfolio does: a slow month or an algorithm change affecting one category doesn’t take down income from the others at the same time. Neither choice — many small books in one series, or several unrelated catalogs at once — is the “correct” one in isolation; both are the same underlying principle (a catalog compounds; a single book doesn’t) applied to two different situations.
+
+![figure](../figures/fig14.png)
+
+*Figure 14.1 — Illustrative model, not a disclosed statistic: cumulative catalog income over time as each new book adds both its own sales and a cross-sell boost to every earlier title. The compounding shape is the real lesson — a real catalog’s actual curve depends entirely on genre, quality, and consistency of output.*
+
+### Bundles and an owned audience
+
+Two more tools extend a catalog’s earning power beyond individual book sales:
+
+Box sets and bundles. Combining several existing books into one discounted bundle product creates a new, sellable item with close to zero additional creation cost — the content already exists — while giving price-sensitive readers and new-to-you browsers a lower-friction way to try several books at once.
+
+An email list, built from a simple sign-up offer (a short bonus chapter, a checklist, a free related short work) placed inside your existing books’ back matter. A list of genuinely interested readers is a source of concentrated launch-day velocity (Chapter 9) that you control directly, rather than one that depends entirely on Amazon’s algorithms, ad auctions, or luck — the single most durable hedge against any one platform changing its rules on you.
+
+### A second format, mostly for free: audiobooks
+
+There’s a third format beyond ebook and print, and it extends a catalog the same way bundles and an email list do: almost all of its cost is paid once, against content that already exists. ACX (Audiobook Creation Exchange) is Amazon’s audiobook platform, producing for Audible, Amazon, and iTunes from one submission — the audio equivalent of KDP itself.
+
+Three ways to get a finished audiobook, at three very different price points:
+
+Narrate it yourself. Zero cost beyond your own time and reasonably decent recording equipment. A real option for nonfiction in particular, if the author has a clear, listenable voice — readers of a how-to guide are often buying the author’s judgment as much as the words, and hearing it in their own voice is not a downgrade.
+
+Royalty share with a narrator. No upfront cash — the narrator is paid out of future royalties instead of a fee, typically splitting close to evenly with the rights holder. This is the standard route for an author with no production budget but a book (or catalog) with a real chance of actually selling, since a narrator taking a royalty-share deal is, in effect, betting on the book too.
+
+Pay-per-finished-hour (PFH). A professional narrator, paid a flat fee for each finished hour of audio — commonly several hundred dollars per hour, which puts a full-length audiobook’s upfront cost in the low-to-mid thousands. You keep the full royalty going forward; you also carry the entire financial risk if the audiobook doesn’t earn it back.
+
+A newer, fourth option: Amazon has been rolling out AI-narrated (“Virtual Voice”) audiobooks directly through KDP for eligible titles, at little to no cost — a real, current alternative to the three routes above for an author testing whether their book’s audience wants audio at all before committing real money to it. Eligibility, available voices, and quality have been moving targets since this feature launched; check your own KDP dashboard for what’s actually offered before assuming it works the way an older article describes.
+
+> Worked example. A pay-per-finished-hour audiobook running 6 finished hours at $300/hour costs $1,800 upfront, fully owned by the author afterward. The same book via royalty share costs $0 upfront, but every future audiobook royalty is split with the narrator, indefinitely. Neither choice is simply “better” — PFH is the better bet for a book with proven sales already (Chapters 2 and 15 show you how to tell); royalty share is the better bet for a first audiobook on an unproven title, since it caps the downside at zero.
+
+Exclusivity works the same trade-off shape as KDP Select (Chapter 12): ACX offers a meaningfully higher royalty rate for audiobooks distributed exclusively through Audible, Amazon, and iTunes, against a lower rate for non-exclusive distribution that also reaches other audiobook retailers and library platforms. Check ACX’s current royalty table before committing — like every rate in this book, it’s a real number that changes over time, not a fixed constant.
+
+Not every book belongs in audio. A book that leans on charts, worked numerical examples, or anything the reader needs to see translates poorly to a listen-only format — this book’s own royalty-cliff chart and break-even ACOS math, read aloud with no image to look at, would be a worse experience than the page version, not an equal one. A narrative nonfiction book, a memoir, or a novel has no such problem. Know which kind of book you’ve written before assuming audio is the obvious next format.
+
+## Chapter 15: A Realistic First-Year Plan
+
+This book opened with a promise to show its arithmetic, including the unflattering parts. Here is the unflattering part: self-publishing income is a power law, not a bell curve. A small share of books and authors earn very well; a large share earn modestly or barely cover their production costs; very few outcomes land neatly in between. Nothing in this book changes that distribution — what it changes is your odds of landing in the better half of it, by doing the specific, checkable things (real editing, honest launch coordination, correct categories and keywords, disciplined ad spending, a catalog instead of a single bet) that separate a professionally run small business from a hopeful one-off.
+
+> **Key takeaway: Treat your first book as tuition, not a lottery ticket. Its most valuable output may not be its own royalty check — it may be everything you learn about your category, your readers, and your own process, which book two then gets to apply at a fraction of the effort. That’s not a consolation prize; it’s exactly how the compounding in Chapter 14 gets started.**
+
+### A month-by-month shape for a first book
+
+Every catalog’s real timeline will vary, but a reasonable default shape, tying every earlier chapter together:
+
+Months 1–2 — Write and research (Chapters 1, 3). Confirm the category and audience against real Amazon signals before finishing the draft, not after.
+
+Month 3 — Revise, design, recruit (Chapters 4, 6, 9). Run your editing passes, commission or finalize the cover, and open ARC-team recruitment early enough for readers to actually finish the book before launch.
+
+Month 4 — Format, list, launch (Chapters 5, 7, 8, 9). Format for the correct output(s), set categories and keywords deliberately, price with intent, and concentrate your launch-week activity rather than spreading it thin.
+
+Months 5–6 — Read the data, adjust, decide on ads (Chapters 10, 11, 12). Start (or continue) advertising with real break-even math, read your first finalized royalty report rather than the running estimate, and make your first informed KDP Select renewal decision from actual page-read numbers.
+
+Months 7–12 — Start the next book, with everything you now know (Chapters 3, 14). Apply the category and audience research to book two (or book one of your next series) with the fixed-cost learning from this round already paid off, and begin building the email list and bundle options that only make sense once more than one book exists.
+
+![figure](../figures/fig15.png)
+
+*Figure 15.1 — A default first-year shape. The exact pace will stretch or compress around real life — the sequence (research before writing, editing before launch, data before the next big decision) matters more than hitting these specific months.*
+
+Whatever your book earns in its first year, the honest measure of whether this was worth doing isn’t that first royalty number in isolation — it’s whether you finished the year with a repeatable process and a second book underway. That’s the entire difference between having self-published a book, and having become a self-publisher.
+
+# Part VI — One Topic, in Depth
+
+## Chapter 16: The First-Review Problem
+
+The target is not “a few sales so the page looks alive.” The target is unit economics that survive after your friends have already bought the book. Reviews and price are the two levers you control before you have a list large enough to matter.
+
+Amazon’s written rules are treated as constraints. Ranking talk is labeled as inference. Pricing bands below reflect KDP’s 70 percent ebook option as expanded in July 2026 ($2.99–$12.99 on Amazon.com). Confirm the live help page before you lock a price.
+
+> **Terms used in this chapter.** ARC: advance reader copy, sent before the book is live. KU / Select: Kindle Unlimited and KDP Select, Amazon’s borrow-and-subscription program. ASIN: the product ID a book receives on publication — no review can post before it exists. EPUB: the reflowable file format every e-reader except Kindle actually wants.
+
+### I. Selling a few copies is not a business
+
+Most debut Kindle books do sell. They sell to the author, a handful of acquaintances, and whoever stumbles in during the week the title is new. Then the week ends. Best Sellers Rank slides. Ads, if they ran at all, start costing more than they return. The author concludes that “self-publishing doesn’t pay” after sampling a market that never saw a trustworthy product page.
+
+A book that makes money does three things a hobby listing does not. It converts strangers. It remains findable after the launch spike. It leads somewhere — another title, a list, a borrow that pays by the page. None of those three begins with hoping. They begin with a page a cold reader will finish saying yes to, at a price that leaves enough royalty to fund the next unit of attention.
+
+Reviews are not decoration. They are how a stranger agrees to pay. Price is not a personality trait. It is how much of that yes you keep, and whether the store will even show you in the band where serious shoppers live.
+
+The rest of this book is the sequence that makes those two sentences operational: seed honest reviews before you buy traffic; price for the royalty band and for the life of the catalog; treat book one as an acquisition cost only when book two exists to collect the debt.
+
+### II. Where the money actually comes from
+
+#### Not from the first ten cousins
+
+Friends and family can put a number on a dashboard. They cannot put you in “Customers who bought this also bought.” They cannot teach Amazon who the book is for. They often cannot review without violating Community Guidelines — the $50 spend-history rule in §VI is the specific trap. Count them as a rounding error. If the business plan requires them, there is no business plan.
+
+#### From conversion on paid and organic traffic
+
+Amazon is paid when someone buys or, in Kindle Unlimited, when someone borrows. Rank, as authors observe it, follows recent commercial events. Reviews do not appear in a published formula as a direct rank weight. They change whether a click becomes one of those events. A listing that converts at twice the rate of its neighbor can buy the same ads for half the effective cost per sale. That is why a zero-review page makes advertising look like a scam and a reviewed page makes the same bid look rational.
+
+Promotional newsletters that move the needle — the ones worth paying after you have proof — routinely refuse books with empty or near-empty modules. They are not being precious. They are protecting their own conversion. Your free days and your $0.99 blast are mute without them if you have no other list.
+
+#### From read-through, not from a single SKU
+
+A standalone debut has one chance to collect money: that purchase or those pages. A series collects again. If half the people who finish book one buy book two at full royalty, book one can be priced as bait. If there is no book two, bait is just a cheap book. The authors who report real income are disproportionately people with several related titles, not people with one beloved object and a perfect blurb.
+
+Unlimited complicates the picture in a useful way. A borrow counts commercially at the door. Pages after that pay from a pool. A book that converts borrows but loses readers at chapter two is a leak. Advance readers who finish — or who stop and say why — are cheaper than learning that leak from a month of ads.
+
+### III. The first-review problem, restated as cash flow
+
+Launch week is the only cheap moment in which your own list, incoming advance-copy posts, and any small test of ads can occupy the same window. Amazon weights what happened recently. Spend that window on a page with no testimony and you convert poorly. Spend it on a page that already contains a few independent paragraphs and more of the same visitors become units. Units are what the store knows how to extend.
+
+That is why you recruit readers while the KDP file is still a draft. They cannot post until the ASIN exists. They cannot read a novel overnight. The calendar is a reading calendar first. Reverse it and launch week is an apology.
+
+A Select free day is not a substitute. Free downloads do not count as paid sales. They produce files, not reliably reviews. Nobody publishes a clean study on organic post-free review rates; author forums describe them anecdotally, in fractions of a percent — treat that as a reason to test small, not as a citation. An advance-reader group that asked for the book in-genre is a different population; posting rates of a quarter to two-fifths are commonly logged by authors who bother to count — call it survivorship bias with better manners, but it is the bias you want. Use the crowd after the page can convert. Use the small group to make conversion possible.
+
+> **Certainty, labeled.** If Amazon never uses review count internally, shoppers still see the empty module, newsletter editors still use it as a gate, and ads still die on untrusted pages. The cash-flow case does not require an occult coefficient.
+
+### IV. Price: what KDP will pay you
+
+On Amazon.com, the 70 percent ebook option applies when the list price sits in the published band — $2.99 to $12.99 after the July 2026 expansion — and you have actually selected that option. Outside the band you earn 35 percent. Delivery cost (on the order of $0.15 per megabyte of the file) is deducted under 70 percent and not under 35 percent. A lean novel file makes 70 percent unambiguously better inside the band. An illustrated file can nibble the advantage; check the size.
+
+Worked picture, approximate, 2 MB file, 70 percent selected — delivery fee (~$0.15/MB × 2MB = $0.30) subtracted wherever 70 percent applies, per the rule above:
+
+| List price | Typical royalty band | Rough net / sale | Job of this price |
+|---|---|---|---|
+| $0.99 | 35% | ~$0.35 | Launch spike or loss-leader. Never the forever price of a lone book. |
+| $2.99 | 70% | ~$1.79 | Floor of serious money. Default if unsure. |
+| $3.99–$4.99 | 70% | ~$2.49–$3.19 | Genre fiction’s long-term home for many series mid-books. |
+| $5.99–$7.99 | 70% | ~$3.89–$5.29 | Longer work, established name, or dense nonfiction. |
+| $9.99–$12.99 | 70% if option on | ~$6.69–$8.79 | Only if comps and proof support it. Debut novels rarely. |
+| $1.99 | 35% | ~$0.70 | The 35% trap dressed up as a friendly compromise. Worse net than $2.99 despite looking cheaper to the reader. |
+| $13+ | 35% (outside the band) | high in isolation | The royalty math is fine alone; a debut rarely has the comps or proof to hold that price, so volume collapses before the math gets to matter. |
+
+The important inequality: $2.99 at 70 percent usually earns more per copy than $1.99 at 35 percent, and often more than a higher price that fell out of the band before July 2026. Do not price at $1.99 to “meet people halfway.” You have left most of the copy on the table.
+
+A worked contrast for a heavier file: a 20 MB illustrated nonfiction title at $9.99, 70 percent selected. Royalty: $9.99 × 0.70 = $6.99. Delivery: $0.15/MB × 20 MB = $3.00. Net: roughly **$4.00** — not the $6.69–$8.79 the table above shows for a lean 2 MB file at similar prices. The percentage never changed; the file did. Compress images before you trust any of these numbers, and rerun the math on [Kindlepreneur’s KDP royalty calculator](https://kindlepreneur.com/kdp-royalty-calculator/) with your own file’s actual size, not the 2 MB assumption this chapter has been using throughout.
+
+Print is a separate ledger. Paperback royalties are list minus print cost times the print rate, which Amazon has tightened in recent years on lower-priced paperbacks. Do not set ebook price by paperback vanity. Do not set paperback price so low the print cost eats it — print cost does not care how proud you are of the cover.
+
+### V. Initial price versus later price
+
+Skip to whichever subsection matches where you actually are — a debut with nothing behind it, or a series with at least one sequel live. The math does not agree with itself across the two cases, on purpose.
+
+![Which pricing path are you on: a decision tree branching on whether a paid sequel already exists](../figures/fig02_pricing_decision.png)
+
+#### The principle
+
+Early price buys information and motion. Later price harvests trust. A debut with no reviews cannot support the top of the genre band; shoppers have no reason to pay a premium for an untested object. After the page has proof, raising the price is not greed. It is refusing to subsidize strangers forever.
+
+#### A debut standalone (or book one with nothing behind it)
+
+- Do not launch at $0.99 unless you have a list or a paid blast lined up. You will earn almost nothing per copy and you will train the first public readers that the book is a bargain bin item. You also have no sequel to recover the subsidy.
+- Launch in the 70 percent band. $2.99 is the default. $3.99 if your category’s visible comps cluster there and the book is long enough that $2.99 looks oddly cheap.
+- Hold that price through the advance-copy window and the first two to four weeks live. You are collecting reviews and a first also-bought neighborhood, not maximizing theoretical margin.
+- Raise toward $3.99 or $4.99 when two things are true: a handful of specific reviews exist, and daily units did not depend on the lower price alone. If units collapse when you raise by a dollar, you learned the ceiling. Put it back. That is data, not failure.
+- Do not open at $7.99–$12.99 on a first novel with no name. Literary exceptions exist; they are not the mean. Look at the first page of your category, not at your feelings about the manuscript’s worth.
+
+#### A series, once two or more books exist
+
+Book one becomes an acquisition cost. Books two and after become the margin. The usual pattern that survives contact with royalty math:
+
+| Title | Early life | Settled life | Why |
+|---|---|---|---|
+| Book 1, only child | $2.99–$3.99 | Same until a sequel exists | No funnel. This book must earn. |
+| Book 1, sequel live | $0.99 for a launch window, or stay $2.99 | $0.99, $2.99, or permafree | You can now afford to give the first yes away. |
+| Books 2–n | $3.99–$5.99 | Hold or step up on later volumes | This is the catalog’s wage. |
+| Box set | Inside 70% band | A little under the sum of parts | Catches binge readers; still pick 70%. |
+
+Permafree book one — free everywhere, Amazon price-matched — conflicts with KDP Select on that title. It is a wide-store tactic. It only pays if read-through to paid sequels is real. A free book one with a single thin sequel is a gift to the internet.
+
+$0.99 on book one during a new-release window in the series is the Select-compatible version of the same idea. You earn 35 percent on those copies and, if enrolled, page reads from Unlimited. The point is traffic into book two at 70 percent.
+
+#### When to raise, when to cut
+
+- Raise after proof exists, after a sequel exists, after a promo window ends, or when comps in the same shelf have moved. Raise by a dollar and watch a week. Do not yo-yo daily.
+- Cut for a scheduled promotion you can announce, not because you are lonely on a Tuesday. Permanent cuts train your list to wait.
+- Never pair a price cut with a required review. The copy is the only legal concession.
+
+#### Kindle Unlimited changes the launch discount
+
+If the title is in Select, a $0.99 or free window still pays you when KU readers actually read. That makes a launch discount less suicidal than it is outside Select — provided people finish. If they do not finish, you have paid for sampling that produced neither royalty nor a review. Advance copies exist partly to find that out privately.
+
+### VI. The constraint that keeps the money
+
+Amazon’s help text: you may give a free or discounted copy; you may not require a review, steer it, or add a gift. Friends, employees, and author-for-author swaps sit outside the fence. Unverified advance-copy reviews still display. They simply lack the purchase badge. Chasing the badge with refunds is how listings get cleaned.
+
+Enforcement has only gotten more aggressive, not less: Amazon has spent the last few years pulling flagged reviews — incentivized, traded, or machine-written — and closing accounts on both sides of the trade. One genuine, unsolicited paragraph from a stranger now outlives a hundred purchased five-star ratings that vanish in the next sweep. Confirm the current Community Guidelines before you build a roster; this is the part of the rulebook that moves the most.
+
+A second, separate rule now applies to the manuscript itself, not just its reviews. KDP requires disclosure of AI-*generated* content — text, images, or translations an AI tool produced, even if you edited the result afterward — but not of AI-*assisted* content, where you wrote it yourself and a tool only edited, refined, or helped you brainstorm. The distinction is Amazon’s to draw, not this book’s judgment call: get it wrong and the risk is the listing coming down. Disclosure happens privately at upload and never appears on the product page, so a reader cannot tell either way — which is exactly why the honesty is owed to Amazon, not performed for a shopper. See [KDP Help: Content Guidelines](https://kdp.amazon.com/en_US/help/topic/G200672390) (G200672390) before you check either box.
+
+#### Who is allowed to post on Amazon
+
+A free copy is not enough. On Amazon.com, Community Guidelines require the reviewer to clear a spend bar before they can leave a rating or written review:
+
+- At least **$50** spent on that marketplace with a credit or debit card in the past twelve months.
+- Promotional discounts do not count toward that $50.
+- Gift-card-only spend is widely treated as not counting either.
+- Each Amazon marketplace sets its own bar in its own currency — spend on Amazon.co.uk or .ca does not qualify an account on .com, and the reverse is equally true.
+
+That is why a brand-new login can read your EPUB and still hit a wall at the review button. Prefer ARC readers who already have Amazon reviews of other books. Do not tell anyone to spend fifty dollars so they can review you; that starts to look like a condition. Meeting the spend bar still does not create a Verified Purchase badge. Verification is a separate check that they bought this title on Amazon at a normal price.
+
+The same fragmentation shows up in royalty bands, not just review eligibility. Amazon.com’s 70 percent band is priced in dollars; Amazon.co.uk, .de, and the rest each publish their own band in their own currency, and a book can sit inside the band on one storefront and outside it on another at what looks like “the same” converted price. A series priced consistently in USD is not automatically priced consistently in royalty terms once it is live on five storefronts. Check each marketplace’s own current help page — not a currency converter — before assuming the domestic price logic travels.
+
+#### Goodreads is a different door
+
+Goodreads has no spend minimum. A normal member account can rate a book as soon as the edition exists, including before publication. Amazon cannot. Treat the two posts as two jobs: Goodreads while they read; Amazon the morning the KDP page is live. A Goodreads rating does not count as an Amazon review.
+
+For advance copies Goodreads now asks the reader to confirm they read the book (DNF is allowed) and to pick a source — author or publisher, Giveaway, NetGalley, other. That source can display with the review. Want to Read is not enough to leave stars; the book must sit on Read, Currently Reading, or Did Not Finish. Do not tell readers to hide the free copy on Goodreads. The source picker is the disclosure.
+
+![Can this reader actually post a review: Amazon's $50 spend-history check versus Goodreads' no-minimum rule](../figures/fig03_review_eligibility.png)
+
+#### The first bad one
+
+It will not always be a good one. Amazon does not remove a review for being critical or for landing at one or two stars — only for violating Community Guidelines: obscenity, harassment, spam, off-topic content, someone else’s personal information, or a competitor posting in bad faith. A reader who genuinely disliked the book is none of those things, and reporting that review through Amazon’s “Report abuse” link will not remove it, nor should it.
+
+Do not reply to it. An author’s public reply sits permanently under the review, and a defensive one reads worse than the original star rating ever did. If the review names a real production fault — a broken table, a missing chapter, a formatting error — fix the file and move on; the fix helps the next hundred readers more than an argument with one of them ever would.
+
+A single candid three-star review that names a specific gripe is, by most working authors’ own account, worth more to a cold shopper than another five-star repeating “loved it.” A page of nothing but superlatives reads like a page nobody dared to be honest on. Recruit for honest reactions, not for unanimous ones; the ARC form in §VII already asks for exactly that.
+
+#### Running the roster without breaking the rule
+
+The operational translation is unromantic. A form that admits the review is optional. A roster that prefers genre readers with a public history of writing sentences — and, on Amazon, an account that can actually post. Three emails: you are on the list; here is the file; here is the live URL. One later note to downloaders. No “book two only if you posted four stars.” That sentence is a gift card.
+
+#### Delivering the file
+
+Convert the Word file to EPUB for humans. KDP can eat .docx. Readers should not have to. Lock the text before anyone reviews it. A public review of a draft is a review of a draft.
+
+If you email the EPUB, the attachment is the book — but a Kindle does not open a Gmail attachment by itself. The reader has two paths:
+
+- Forward the saved file to their own address ending in **@kindle.com** (Amazon → Content and Devices → Preferences → Personal Document Settings), sent from an email address Amazon has already approved on that same page.
+- Or open the `.epub` directly in the Kindle app, Apple Books, or Google Play Books.
+
+BookFunnel and StoryOrigin exist so you do not teach this one reader at a time.
+
+### VII. The free pipeline, now as a profit tool
+
+Open the form the week the draft hits KDP. Aim for thirty to fifty people if you want something near ten posts. Send two to three weeks before live. Ask for Amazon reviews only when the form exists. Paid matching services, if you use one, prefer a runway of about forty days and a title that is not already stale.
+
+[Published guidance on managed ARC campaigns](https://www.bookready.net/blog/20-reviews-launch-day-arc) — deadlines, reminders, a real roster instead of a link dropped in a group — reports review rates landing between roughly **38% and 75%** of the readers who received a file, nowhere near the fractional percentage a cold free-day grab produces. [A roster of twenty to thirty readers](https://indiebookbeacon.com/2026/06/02/what-is-an-arc-team-and-do-you-need-one/) commonly turns into ten or more day-one posts on exactly that logic.
+
+#### Who the form is for, and where it goes when you have no list
+
+The Google Form is an application. Who fills it: strangers who already read this genre. Not family. If you have no list and no followers, skip those sources. You never had them. Build the form at forms.google.com: name, email, three in-genre titles from the last year, Amazon or Goodreads profile, device, finish-by date, optional tropes or hard nos, required checkbox that any review is optional and honest. Copy the link. Never put the EPUB on the form. The spreadsheet behind the form is the roster. You approve; then you send the file.
+
+Where the link goes: Facebook group search for Indie Fantasy Addicts ARC and Beta Readers; ARC Group-for Readers & Authors; ARC Readers and Authors; plus a science-fiction ARC group if the book is SF. Join, read the pin, post once. No buy link. No required review. On Reddit use only r/ARCReaders and r/AdvanceReaderCopy. Not r/scifi. Not r/selfpublish. One pen-name public post and five DMs to small reviewers who already post in-genre are optional. Zero signups after a week is a reason to run the quiet water test — repost the identical ask in exactly one low-traffic group, alone, and see if that single quiet pond produces a single bite before concluding the whole genre has no readers — or to pay BookSirens later. It is not a reason to recruit cousins.
+
+| When | Action | Money reason |
+|---|---|---|
+| Upload week | EPUB, form, recruit | Reading time is the bottleneck on launch conversion. |
+| 2–3 weeks out | Deliver files | Posts need to exist the week units are cheap to get. |
+| Live week | Review URL; hold sensible price | Convert the spike. Do not discount into 35% without a sequel. |
+| Weeks 3–6 | Consider a $1 raise if proof exists | Stop subsidizing once trust is visible. |
+| Book 2 in hand | Reprice book 1 as bait if you wish | Move margin to the titles that collect it. |
+
+Recruit from a list first, then your own channels, then groups that exist for advance copies. Screen for genre and a real profile. Tag Core / Soft / Out after the campaign. Core is invited next time because they posted, not because they awarded fireworks. Measure downloads over sends, posts over sends, and Core next time over Core this time. Vanity retention of people who never opened the file is how catalogs stay hobbies.
+
+### VIII. What to pay for — only if it raises expected value
+
+Pay to fill a hole in the funnel, not to soothe anxiety. No names: a capped matching service (BookSirens Promote or Booksprout). Kindle tickets eating the week: BookFunnel’s mail tool. Desire to trade newsletters later: StoryOrigin. Librarians: NetGalley, which will not print ten Amazon reviews on a budget. Two finder networks on one title is waste — the same reader does not convert twice as fast for being found by both of them.
+
+A bounded BookSirens experiment — listing fee plus a few dollars per reader they find who downloads, capped at twenty-five — is cheaper than a month of ads onto an empty page. You are buying downloads from people who asked to read, not guaranteed sentences. The review remains optional. That is the point.
+
+### IX. After the listing can bear traffic
+
+Select is a ninety-day exclusive that pays Unlimited pages and offers either five free days or a Countdown. Free days after proof, announced to someone, can be acquisition. Free days before proof, announced to no one, are a tree in an empty forest. A Countdown keeps a price and a 70 percent royalty if you remain in band; it is for books that already sell.
+
+Wide, if you decline Select: Draft2Digital to other stores and library vendors. Uncheck Amazon there. Library licenses are a slow second market, not launch week. Permafree book one lives in the wide world, not inside Select.
+
+Ads belong after the module is no longer empty and after price sits where you intend to live. Otherwise you are paying to demonstrate that untrusted pages do not convert — a lesson this book was meant to spare you.
+
+### X. A sequence that is allowed to mention money
+
+![The launch timeline as a pipeline: upload week, 2-3 weeks out, live week, weeks 3-6, and book 2 in hand, each with its money reason](../figures/fig01_launch_timeline.png)
+
+1. Lock the manuscript. Make an EPUB. Price the ebook in the 70 percent band unless you already have a sequel to justify bait.
+2. Recruit advance readers now. Send files two to three weeks before the page exists.
+3. Go live. Send the review URL. Do not spend serious ad money until a few honest posts exist.
+4. If the roster is thin, one capped matching campaign.
+5. After proof: raise a dollar if units hold, or keep the floor and write book two.
+6. When book two exists, decide whether book one becomes bait. Put the margin on the titles that can collect it.
+7. Only then spend on free windows, newsletters, or ads as if the page were a product instead of a plea.
+
+##### Letters
+
+> You are confirmed for an advance copy of [Title]. File on [date]. Live [date]. An honest review after publication would help the book find strangers. It is not required. No rating is requested. If the date fails, reply and you are removed.
+
+> The file is ready. I will send the Amazon address on publication morning. Write what you think, or write nothing.
+
+> The book is live. Optional honest review: https://www.amazon.com/review/create-review?asin=YOURASIN
+
+### XI. Field reports — what published accounts actually show
+
+> **Certainty, labeled.** Blogs and author interviews are not laboratories. They are still better than folklore, provided you notice who already had a list before the launch you are reading about. The pattern that repeats is not magic — it is proof on the page, a price that can move, and something to sell after book one.
+
+#### This book’s approach, in the wild
+
+##### Daniel Arenson, *Earth Alone* (BookBub Partners, 2016)
+
+Arenson was not a first-time author. That is part of the lesson. Two weeks before live he sent digital advance copies to forty readers through BookFunnel. About half posted on launch day. He also placed short quotes in the editorial-review field, which is not the customer-review module. He launched at $0.99, then raised to $2.99 within a week. First seven weeks: more than 20,000 copies plus a large Unlimited read. He is explicit that the mailing list did more than any single tactic.
+
+What to copy: the two-week ARC window, BookFunnel as plumbing, a planned raise. What not to copy blindly: opening at $0.99 with no list and no sequel. He was buying rank with a crowd he already owned.
+
+##### Cindy L. Sell, *Remnants* (BookBub Partners interview, 2024)
+
+A closer debut. She built the roster with a Google Form, social posts, BookFunnel delivery, and BookSirens (nine of their readers, seven reviews, some of them usefully long). Goodreads filled first — about 120 ratings before Amazon was dense. She priced the ebook at $3.99 and did not discount it immediately. A week after launch she reported more than 200 copies. The features that moved units were BookBub New Releases for Less and an advance-access email blast, not the ARC team alone.
+
+What to copy: form plus a capped matcher; hold $3.99 when you have no sequel to recover a $0.99 week; treat BookSirens as a quality supplement. Treat extra physical gifts as off-limits if they are tied to an Amazon review. Amazon’s rule remains the book only.
+
+##### Michael Anderle and the 20Booksto50K philosophy (multiple interviews, 2017–2024)
+
+Not a single launch, and not this chapter’s kind of case study — a publishing philosophy, on the record across many interviews rather than one countable event. Anderle (LMBPN Publishing) built a multi-hundred-title catalog on a stated unit target: roughly $7.50 in royalty per book per day as the bar a title needs to clear to stay worth active promotion, a number he has repeated across interviews rather than asserted once. The name “20Booksto50K” describes the movement his and Judith Anderle’s talks helped start: volume and catalog depth over any single book’s performance, book one priced to move readers into the books that actually carry the margin.
+
+What to copy: a stated per-unit bar instead of a vague “it’s selling okay,” and book one treated as acquisition cost on purpose, at catalog scale. What not to copy blindly: the model assumes a catalog large enough that the bar can be measured across dozens of titles — [discussed across multiple interviews](https://starkreflections.ca/2021/02/19/episode-178-the-wide-world-vision-of-judith-and-michael-anderle-of-lmbpn-publishing/) rather than a debut author's single book, which has no fleet average to fall back on.
+
+##### A composite pattern, illustrative only (not a single checkable source)
+
+Unlike the two named cases above, this one does not clear this book’s own bar for a case study: it comes secondhand, from a formatter describing unnamed KDP exports, not a named author on the record. It stays in only because the shape recurs often enough to be worth naming, clearly marked as the exception it is. A four-book series sat at a flat $4.99 for six months; book-one-to-book-two read-through ran about 11 percent. Book one was cut to $0.99 for thirty days with the rest of the series already live; read-through to book two rose to about 19 percent in that window. Treat the shape, not the specific numbers, as the takeaway: do not light book one on fire until there is a paid book two.
+
+##### Kboards thread on full price versus 99 cents (2017)
+
+Working authors compared notes in public. One launched at $2.99 and raised to $4.99 after three or four weeks; unit rank worsened and revenue improved. Another launched a sequel at $0.99 while book one ran free days. The store has changed. The residue is the tradeoff: $0.99 buys motion; $2.99–$4.99 buys margin. Pick which problem you have.
+
+#### Alternatives that are not the same book
+
+##### List first, book second
+
+Arenson’s result is partly a list result. Some authors refuse to launch until a few hundred addresses exist. The first-review problem shrinks because launch week is no longer cold. The cost is time. If the novel is already finished, waiting a year to start the ARC clock is usually the wrong trade — a finished manuscript ages like milk, not wine. Build the list in parallel.
+
+##### Full-price launch, no 99-cent week
+
+Sell’s $3.99 hold is this alternative. So is the Kboards report of raising to $4.99 and taking home more money on fewer copies. It fits a standalone, a slow writer, or anyone who will not have a sequel this year.
+
+##### Promo stacking after proof
+
+Freebooksy, Bargain Booksy, Fussy Librarian, and stacked partners are how many midlist fiction authors create a second spike. Ricci Wolman of Written Word Media has described stacking several lists on a planned price cut rather than lighting a silent free day. Those sites often want a review floor. That is the hinge: ARCs first, stack later.
+
+##### Wide and slow
+
+Plans published via Jane Friedman’s site, including first-year notes from authors building across several stores, treat success as steady doubling rather than an Amazon spike. Libraries and Apple promotions via Draft2Digital become part of the engine. Reviews still matter on every storefront. Select free days and permafree book one cannot share a title. Different calendar, real business.
+
+##### What the blogs get wrong
+
+Some street-team posts tell you to make advance readers buy the live book so the review is verified. Amazon does not require that. Pressuring it reconstructs a condition. Some relaunch write-ups spend thousands on ads to a page that still cannot convert, then blame the ads. Some promise a hundred reviews in forty-eight hours. That is not a method this book will house.
+
+The accounts that hold together share three facts. Someone read the book before the crowd arrived. The price either sat in the 70 percent band or was a temporary tax paid to move people into a sequel. There was a next title, a list, or both. Missing all three is how a book sells to cousins and then stops.
+
+### XII. Claims that do not survive a spreadsheet
+
+- That a debut should open at $0.99 to get reviews. Reviews come from people who agreed to read, not from a royalty you set on fire.
+- That $1.99 is a friendly compromise. It is often a 35 percent trap that earns less than $2.99.
+- That you should keep a first novel at $0.99 forever. Forever bait with no sequel is charity.
+- That raising the price after reviews is a betrayal. Early price rented attention. Later price collects it.
+- That one hundred reviews are required before anyone pays. The costly gap is zero testimony.
+- That free days print reviews. They print files.
+- That family reviews, properly disclosed, are a business plan. They are a policy problem.
+
+A last limit. This book will not choose your tropes or make a bad cover convert. It will not freeze KDP’s band or BookSirens’ fees. Look both up in the month you publish. What it will do is refuse the hobbyist story in which a few courtesy sales count as a launch. Strangers pay after they see that other strangers finished the book, at a price the royalty table does not punish, into a catalog that has somewhere else to send them. That is the whole commercial problem. The rest is typing.
+
+---
+
+*Sources: KDP Help: Customer Reviews (G202101910); ebook list price and 70 percent option; Free Book Promotions; Select terms. Amazon Community Guidelines. Vendor pricing pages, because they move.*
+
+*Not legal advice. Not an Amazon publication.*
+
+
+## Appendix A — The One-Page Launch Checklist
+
+- [ ] Manuscript
+
+- [ ] Developmental, line, copy, and proofread passes complete (Chapter 4)
+
+- [ ] At least one pass done by someone other than you
+
+- [ ] Every number and cross-reference checked
+
+- [ ] Format
+
+- [ ] Ebook: real Heading 1/2 styles used throughout; no page-numbered TOC; no index (Chapter 5)
+
+- [ ] Print: page numbers, running headers, correct trim size and margins; spine width from KDP’s calculator, not hand-calculated (Chapter 5)
+
+- [ ] Checked in KDP’s online previewer on more than one device size
+
+- [ ] Physical proof ordered and read, for any print edition
+
+- [ ] Cover
+
+- [ ] Passes the thumbnail test at actual small size (Chapter 6)
+
+- [ ] Matches genre/category conventions on purpose, not by accident
+
+- [ ] Title readable, one clear focal point
+
+- [ ] Metadata
+
+- [ ] All seven backend keyword slots used, as full phrases, none repeating title/subtitle words (Chapter 7)
+
+- [ ] Most specific honest category chosen in all three slots; additional categories requested from KDP support if a better fit exists outside the picker (Chapter 7)
+
+- [ ] Price set deliberately inside (or intentionally outside) the 70% band, not by default (Chapter 8)
+
+- [ ] Compliance
+
+- [ ] Tax interview (W-9 / W-8BEN / W-8BEN-E) completed and correct (Chapter 11)
+
+- [ ] AI-content disclosure answered honestly, if applicable (Chapter 4)
+
+- [ ] KDP Select enrollment decided on purpose, not left on autopilot (Chapter 12)
+
+- [ ] Launch
+
+- [ ] ARC team recruited, copies out with enough lead time to finish reading
+
+- [ ] Reviews and personal-network purchases coordinated to land at/near launch, not trickled (Chapter 9)
+
+- [ ] Ad campaign (auto, small budget) ready to start on launch day, if using one (Chapter 10)
+
+## Appendix B — Royalty Quick Reference
+
+- [ ] Ebook
+
+- [ ] 70% royalty band: list price $2.99–$12.99 (US), minus a delivery fee (~$0.15 per MB of file size) — the top of the band expanded from $9.99 in July 2026; existing titles priced $10–$12.99 must be switched to the new band by hand in Rights & Pricing
+
+- [ ] 35% royalty: any price outside that band ($0.99–$200), no delivery fee subtracted
+
+- [ ] Kindle Unlimited / KOLL: paid per KENPC page read, from a shared monthly fund; rate varies month to month (historically roughly $0.004–$0.005/page) — check your Reports dashboard for the actual current rate
+
+- [ ] Print
+
+- [ ] Paperback (Amazon channel): 60% of list price, minus printing cost
+
+- [ ] Paperback (expanded distribution): 40% of list price, minus printing cost
+
+- [ ] Hardcover (Amazon channel): 60% of list price, minus printing cost
+
+- [ ] Printing cost depends on page count, trim size, ink (B&W vs. color), and paper choice — always confirm with KDP’s own price calculator before setting a list price
+
+- [ ] The one formula worth memorizing
+
+- [ ] Break-even ACOS ≈ Royalty per copy ÷ Sale price × 100%
+
+## Appendix C — ISBNs, Wide Distribution, and Further Reading
+
+### ISBNs
+
+A Kindle ebook needs no ISBN at all — it’s identified by its Amazon-assigned ASIN instead. A paperback or hardcover does need one, and KDP will assign a free KDP ISBN automatically if you don’t provide your own. The trade-off: a free KDP ISBN lists KDP as the book’s publisher of record and ties that specific ISBN to Amazon’s own print service. Buying your own ISBN (from Bowker in the US, or your country’s national ISBN agency elsewhere) costs money but lists you as the publisher of record and gives you the freedom to move the same edition to a different print provider later without changing its identifying number. For a book staying on KDP print indefinitely, the free ISBN is a perfectly reasonable choice; for a book where you specifically want to be recorded as your own imprint, or expect to need print-provider flexibility, buying your own is worth the cost.
+
+### Wide distribution tools
+
+For authors choosing to go wide (Chapter 12) rather than enroll in KDP Select, common legitimate routes include distributing directly to individual retailers (Apple Books, Kobo, Barnes & Noble Press) or through an aggregator that handles multiple retailers and library platforms from a single upload — Draft2Digital and PublishDrive are widely used examples. For wider print distribution into bookstores and libraries beyond KDP’s own expanded distribution option, IngramSpark is the most commonly used print-on-demand and distribution service in the indie-publishing space.
+
+### Further reading and legitimate resources
+
+KDP’s own Help pages and KDP University — the single best free, authoritative, continuously updated source for exact current policies, price bands, and thresholds. When any number in this book conflicts with what KDP’s own pages currently say, trust KDP’s pages — this book’s arithmetic will still be correct, but specific figures (delivery fee rates, payment thresholds, category lists) are exactly the kind of detail that changes over time.
+
+Author communities built around self-publishing craft and business (genre-specific writing organizations, indie-author forums and groups) are a good source of current, lived experience — read them the same way Chapter 13 recommends reading anything: with an eye for whether a claim is documented policy or someone’s unverified theory about “the algorithm.”
+
+A tax professional familiar with royalty or self-employment income, for the specific questions Chapter 11 deliberately declined to answer in general terms.
+
+## A Closing Word
+
+Nothing in this book is complicated on its own. Royalty math is arithmetic. Keyword slots are a form field. A launch is a calendar with the same events moved closer together. What makes self-publishing hard isn’t any individual step — it’s that all fifteen chapters’ worth of steps land on one person, and it’s tempting to skip the unglamorous ones (a real editing pass, an honest category choice, the tax interview) in favor of the exciting one (hitting publish).
+
+The authors who make good money at this aren’t the ones who found a secret Amazon doesn’t want you to know. They’re the ones who did the plain, checkable, occasionally tedious work in every chapter of this book, on purpose, in order, and then did it again for the next book — because by the second time, most of it was already fixed cost, paid off. That’s the whole secret, and it was never actually a secret. Go write something worth finding.
