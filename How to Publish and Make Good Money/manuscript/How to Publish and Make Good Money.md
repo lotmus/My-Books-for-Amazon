@@ -998,6 +998,16 @@ The same tools that help with a first draft are useful at almost every later sta
 - **Keyword and category brainstorming** (Chapter 7): surfacing phrases and angles you might not have thought of, which you then verify the way this whole book insists on — checking they’re real search terms and an honest fit, not just plausible-sounding.
 - **Research synthesis in your own words**: using AI to summarize a pile of your own notes or a topic you’re already researching, then writing the actual explanation yourself. This is meaningfully different from the trap in the next section, and the difference is exactly what that section is about.
 
+### Building background knowledge on a topic, the legitimate way
+
+Writing competently about a topic you don’t already know cold takes real background research, and there’s nothing improper about drawing on more than one kind of source to get there — the question is always what you do with what you gather, not how many places you looked. A straightforward, legitimate process runs through three steps:
+
+1. **General search first.** A search engine orients you fast: current terminology, what’s actually being asked and argued about the topic right now, recent developments a book written five years ago wouldn’t know about. Treat this as a map of the territory, not a source to write from directly — you’re finding out what’s out there and which questions matter, not collecting text to reuse.
+2. **AI for explanation and gap-filling.** Ask an AI tool to explain a concept, walk through an argument, or suggest an analogy the way you’d ask a knowledgeable colleague — not “condense these three specific books,” but “explain X” or “what’s the standard way to think about Y.” Use the answer to test and sharpen your own understanding, then write the explanation yourself, in your own words and your own structure. This is the same research synthesis named above, and it’s exactly why the distinction matters: you’re the one producing the explanation that ends up on the page.
+3. **Read what’s already published in the space.** Reading other books on your topic is normal, expected preparation — it shows you what’s already been said well, what’s missing, and what a reader of this kind of book expects to find (Chapter 3’s category research runs on the same instinct). Read for orientation, not extraction: no book you read this way should be condensed, closely paraphrased, or checked afterward for how much resemblance survived. If you can describe what you learned without the source open in front of you, you’re doing this correctly.
+
+None of this is the trap the next section names. The difference was never about how many sources you touch — it’s whether you’re building your own understanding well enough to explain in your own voice, or running specific source texts through a process built to reproduce them with the fingerprints removed.
+
 ### The disclosure rule, stated precisely
 
 KDP’s publishing questionnaire requires you to disclose AI involvement, and the platform draws a specific line worth stating exactly rather than approximately:
