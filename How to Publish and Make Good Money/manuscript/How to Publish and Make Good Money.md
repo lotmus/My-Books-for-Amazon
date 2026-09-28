@@ -980,9 +980,26 @@ This isn't only a copyright problem you'd face from the original authors. It's a
 - That AI involvement dilutes responsibility for what gets published. KDP's disclosure requirement and ordinary copyright law both attach to the publishing account, not to whichever tool typed the words.
 - That a book has to *look* AI-flooded (thin, generic, unedited) to be a policy problem. A polished, heavily-edited book built by laundering specific existing sources is a different, more serious problem than the volume-flooding trap in Chapter 13 — better production values don't fix a derivative-work claim.
 
+### What copyright actually protects — and a legitimate way to adapt someone else's work
+
+Copyright protects the specific way an idea gets expressed — wording, chosen analogies, structure — not the underlying facts or ideas themselves ([U.S. Copyright Act §102(b)](https://www.copyright.gov/title17/92chap1.html)). That is exactly why "I kept the facts and just rewrote the wording" is weaker than it sounds for nonfiction: the analogies, the structure, and the explanatory choices *are* the expression, not decoration around it.
+
+None of the following, on its own, makes a derivative work legal — each gets repeated constantly, and none of them holds up:
+
+- "I changed a set percentage of it."
+- "AI wrote the new wording."
+- "I credited the original author."
+- "It's transformative" — transformative purpose is one factor in a four-factor U.S. test, not a standalone pass (see the [Fair Use Index](https://www.copyright.gov/fair-use/)).
+- "It's for an educational market."
+- "Only the structure or approach is the same, not the exact words."
+
+If the goal is genuinely to build on someone else's existing work rather than your own research, there are exactly two legitimate paths: get a license from the rights holder, or adapt something actually in the public domain — not just old, not just freely downloadable somewhere, but verified public domain in every territory you'll sell in. Duration rules are jurisdiction-specific and don't track intuition: a modern translation of a public-domain original can still be separately protected, and an "old" edition can carry its own separately-copyrighted introduction, annotations, or cover art ([Circular 15A: Duration of Copyright](https://www.copyright.gov/circs/circ15a.pdf)). Verify the exact edition and every layer of it before you build anything on it — not after.
+
+> **Key takeaway:** "I checked, and this exact text and translation are public domain everywhere I'm selling" is a real starting point. "It felt old enough" is not, and has ended author careers that started from exactly that assumption.
+
 ---
 
-*Sources: KDP Help: Content Guidelines (G200672390). General principles of copyright as applied to nonfiction structure, analogy, and explanatory expression are stated here at the level of "how the arithmetic works," not as legal advice — get a lawyer for a specific manuscript, not a book chapter.*
+*Sources: KDP Help: Content Guidelines (G200672390); U.S. Copyright Act §102(b); U.S. Copyright Office Fair Use Index; U.S. Copyright Office Circular 15A (Duration of Copyright). General principles only, not legal advice — get a lawyer for a specific manuscript, not a book chapter.*
 
 *Not legal advice. Not an Amazon publication.*
 

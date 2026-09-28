@@ -103,6 +103,21 @@ to produce infringing similarity and is built to launder it. The chapter
 names the pattern abstractly (enough for a reader to recognize and avoid
 it) without providing its mechanics as a recipe.
 
+**Later same session**: the author resent the same two files (this time
+also as a fiction-adaptation "Book Study and Reimagining Manual", a
+different and more legally literate document) explicitly as background,
+not a request to implement anything. Mined all three for the legitimate,
+citable content only — none of it mechanics — and added a new subsection
+to Chapter 17, "What copyright actually protects — and a legitimate way to
+adapt someone else's work": the facts/expression distinction with a real
+citation, a list of claims that don't actually establish legality ("I
+changed X%," "AI wrote it," "it's transformative," etc.), and verified
+public-domain adaptation (or licensing) as the two real paths if someone
+wants to build on existing work rather than their own research. Sources
+line at the bottom of the chapter updated to cite U.S. Copyright Act
+§102(b), the Fair Use Index, and Circular 15A alongside the existing KDP
+Help citation.
+
 ## Open questions for the author
 
 1. Chapter 16's own open questions from the earlier project are unresolved
