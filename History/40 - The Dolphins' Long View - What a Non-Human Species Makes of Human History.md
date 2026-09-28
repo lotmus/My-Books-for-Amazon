@@ -20,15 +20,15 @@ It has, to be fair, sometimes arrived on time, and dolphin historians keep a sho
 
 **Humanity's Report Card**
 
-**Creativity: A+. **Humans painted caves, built cathedrals, composed symphonies, and walked on the Moon, and did a suspicious amount of it for no practical reason, which the committee considers the point.
+**Creativity: A+.** Humans painted caves, built cathedrals, composed symphonies, and walked on the Moon, and did a suspicious amount of it for no practical reason, which the committee considers the point.
 
-**Curiosity: A+. **They never stopped asking questions, including several the committee would have preferred they leave alone.
+**Curiosity: A+.** They never stopped asking questions, including several the committee would have preferred they leave alone.
 
-**Cooperation: B+. **Capable of extraordinary collaboration, which they deploy in emergencies, on Moon landings, and at football matches, and withhold, with equal enthusiasm, from almost everything else.
+**Cooperation: B+.** Capable of extraordinary collaboration, which they deploy in emergencies, on Moon landings, and at football matches, and withhold, with equal enthusiasm, from almost everything else.
 
-**Wisdom: Inconsistent. **The committee considered “Incomplete” but felt it promised a submission date.
+**Wisdom: Inconsistent.** The committee considered “Incomplete” but felt it promised a submission date.
 
-**Treatment of Oceans: Needs Improvement. **See attached plastic.
+**Treatment of Oceans: Needs Improvement.** See attached plastic.
 
 **Overall Assessment**
 

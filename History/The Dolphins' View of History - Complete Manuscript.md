@@ -1320,6 +1320,10 @@ The 2021 Pacific Northwest heat dome, which pushed temperatures in normally mild
 
 The measured results were not a future prediction by the time this book was written. They were already underway: average global temperatures measurably higher than pre-industrial levels, oceans absorbing both extra heat and extra carbon dioxide (the latter making seawater more acidic), more frequent and severe extreme weather events, glacial and polar ice loss raising sea levels, and coral reefs bleaching under heat stress at a scale with no precedent in the observational record.
 
+Geologists have their own name for what all of this adds up to: the Anthropocene, a proposed new epoch defined not by ice or asteroid but by one species' own signature, layered permanently into the planet's rock and sediment. The term was popularized in 2000 by the chemist Paul Crutzen and the biologist Eugene Stoermer, and a working group of scientists spent the following two decades hunting for a single physical site where a future geologist, digging up this era millions of years from now, could point to an exact line and say the old epoch ended here. Their leading candidate was the mid-20th century, marked by a sudden, unmistakable layer of radioactive fallout from nuclear weapons testing, alongside plastic, concrete dust, and fly ash, all showing up in lake sediment worldwide within the same few years. In 2024, the body responsible for officially naming geological epochs voted the specific proposal down anyway, not because the evidence was wrong but because its members could not agree the change deserved a new epoch rather than a chapter inside the current one. The debate over the name continues; the sediment layer it was arguing about does not care either way.
+
+*“Humans spent two decades arguing over what to call the layer of rock they were leaving behind,” dolphin historians noted, “rather than the century arguing over whether to leave it. We note the committee vote changed nothing about the rock.”*
+
 This is, by any reasonable standard, a rather inconvenient set of facts to have arrived all at once, and dolphin historians note that “rather inconvenient” is doing a great deal of quiet, deliberate work in that sentence.
 
 *“Dolphins hold documentation rights on this chapter that no other chapter in the book requires us to claim,” dolphin historians observed. “This is our habitat being measured, not only humanity's.”*
@@ -1409,6 +1413,32 @@ The story is not finished. Two branch points, arriving at the same time, may be 
 **Dolphin verdict:**
 
 *A whole book of hands, fire, empires, faiths, dictatorships, wars, and wires points to one plain reading: this species keeps getting better at doing things, and keeps getting only intermittently better at deciding which things are worth doing. Dolphins have had tens of millions of years to watch this gap open and close, open and close, and have learned exactly one thing from the pattern worth stating outright. The gap does not close by itself. Someone with hands has to close it.*
+
+
+
+## Chapter 41: Half the World, All the Time — The Timelines This Book Almost Skipped
+
+Dolphin scholarship keeps an index of every timeline humans have bothered to write down about themselves: wars sorted by year, dynasties sorted by collapse, inventions sorted by patent. It is, by the Society's count, an enormous list. Reviewing it against this book's own table of contents turned up an uncomfortable fact: several of the timelines that actually ran underneath everything else in this book — counted the whole time, changing the whole time — never got a chapter of their own.
+
+This chapter is the dolphins going back for them.
+
+Start with the plainest number in the whole list: how many humans there were. For most of this book, the answer was small and slow. It took until 1804, on most estimates, for the global population to reach one billion — a milestone that arrived only after every chapter from the Prologue through the fall of Napoleon had already happened. The second billion took until 1927, a mere hundred-plus years later. The third took until 1960. The fourth took fourteen years. By 2022 the count passed eight billion. Dolphin historians note that this book's own chapters get denser and faster toward the end for the same reason the population curve does: there were, quite simply, more humans available to have more history.
+
+*“A species can spend six thousand years building empires on a planet with under a billion of itself on it,” dolphin historians observed, “and then spend the next two hundred years adding seven billion more. We would not call this planning. We would call it momentum.”*
+
+The second overlooked timeline is who, exactly, got to take part in the story this book has been telling. For most of the book's chapters, "citizen," "voter," and "person with legal standing" quietly meant men. New Zealand gave women the vote first among self-governing nations, in 1893. The United States managed it in 1920, after decades of suffragist organizing this book's civil rights chapter only partly covers. Most of the rest of the world followed across the twentieth century, at its own pace, and the line has not finished running yet.
+
+*“Every chapter in this book about a great civilization,” the Society recorded, “was, for most of its length, a chapter about roughly half of that civilization deciding things for the other half. We mention this now because a book that never mentioned it would be telling a shorter story than the one that actually happened.”*
+
+A third timeline, easy to lose inside chapters about wars and empires, is the slow construction of a single idea: that some rules should apply to every human regardless of which empire they were born under. The Universal Declaration of Human Rights, adopted by the newly formed United Nations in 1948, in the wreckage of the war this book covers at length, was the first attempt at a document meant to bind everyone rather than one nation's own citizens. It has no army and no court that can force compliance, a fact dolphin historians find almost charmingly naive and also, on the evidence of the eight decades since, not nothing: nations that ignore it still feel obliged to explain why.
+
+A fourth and final timeline belongs to the numbers themselves. This book has mentioned, in passing, that ancient India gave the world the mathematical zero and that ancient Greece gave it geometry, but never paused on the throughline connecting them to the physics and computing chapters near this book's end. The 9th-century Baghdad mathematician al-Khwarizmi, whose name gives us the word algorithm, wrote the treatise that gave the West the word algebra. Isaac Newton and Gottfried Leibniz independently developed calculus in the 17th century, arguing bitterly for the rest of their lives over who got there first. Alan Turing's 1936 paper on computable numbers, written before any computer existed to run on, defined what a computer could and could not do in principle — a piece of pure mathematics that this book's own digital chapter turns out to depend on entirely.
+
+*“We are aware,” dolphin historians noted, dryly, “that a species capable of noticing all four of these timelines while writing a history book, and still leaving them out of the first draft, has proven the book's own thesis rather better than any single chapter did.”*
+
+**Dolphin verdict:**
+
+*Every chapter in this book told the story of a place, a war, or an idea, one at a time, in the order humans usually tell it. But underneath all of them, the same four things were running the entire time: there were more humans every year, and only slowly did more of them count; the world was slowly agreeing, on paper if not yet in practice, that its rules should apply to everyone; and the numbers themselves, invented quietly by people this book barely names, were doing more work than any king this book named twice. A history told only in nations and wars will always miss the timelines that do not stop at a border. This chapter exists because the dolphins went back and checked, and found the missing timelines were not minor. They were most of the ledger.*
 
 
 

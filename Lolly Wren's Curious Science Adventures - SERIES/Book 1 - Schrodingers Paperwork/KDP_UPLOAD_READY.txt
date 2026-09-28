@@ -1,21 +1,26 @@
 SCHRÖDINGER'S PAPERWORK - KINDLE UPLOAD PACKAGE
 Ready for KDP Publication
 Generated: September 21, 2026
+Corrected and verified against the actual files: September 28, 2026 (see note at end)
 
 ================================================================================
 FINAL FILES (Root Directory)
 ================================================================================
 
 1. Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx
-   - Manuscript with full 13/10 edit pass on chapters 9-11
-   - Redundant Miss Pike observation removed (~75 words)
-   - Lolly's self-awareness moment added (character arc deepening)
+   - Manuscript with full 13/10 edit pass on chapters 9-11, plus a full
+     content/didactic-simplicity/correctness/formatting audit since
+   - Redundant Miss Pike observation removed (~75 words) - verified absent
+   - Lolly's self-awareness moment added (character arc deepening) - verified present
    - All physics lectures integrated and formatted
    - Ready for direct KDP upload or Kindle Create conversion
 
 2. KINDLE_COVER_FINAL.png
-   - High-resolution Kindle cover (3000x4000+ recommended for KDP)
-   - Tested for thumbnail readability at 1-inch size
+   - 1024x1536 px (8-bit RGB). This clears KDP's real minimum (625x1000,
+     ~1.6:1 ratio) comfortably, but is NOT the "3000x4000+" this section
+     used to claim - that figure did not match any actual file. Fine for
+     standard Kindle Store/thumbnail display; if you later want print-on-demand
+     or a large promotional blowup, a higher-res re-export is worth doing first.
    - Signals three reader audiences simultaneously:
      * Pratchett/Adams fans (absurdist humor)
      * Sci-fi readers (retro-futuristic London aesthetic)
@@ -23,13 +28,14 @@ FINAL FILES (Root Directory)
    - Female protagonist foregrounded (captures "women in science" searches)
 
 3. KDP_DESCRIPTION_FINAL.txt
-   - Kindle-optimized book description (296 words)
+   - Kindle-optimized book description (308 words) - this is the
+     "KINDLE_OPTIMIZED" draft, chosen over two longer, more literary
+     alternatives that were also in circulation (see note at end)
    - Punchy opening hook: "What happens when..."
-   - Escalating tension in first 5 paragraphs
+   - Names "The Simplification Initiative" as the plot's inciting device
    - Tone matches cover: wry, absurdist, funny
    - Physics course positioned as bonus, not barrier
    - Mobile-scannable paragraph breaks
-   - All keywords naturally integrated
 
 ================================================================================
 METADATA FOR KDP ENTRY
@@ -40,7 +46,8 @@ Subtitle:               A Novel of Quantum Bureaucracy
 Series:                 Lolly Wren's Curious Science Adventures, Book 1
 Author:                 Q.E.D. (Quentin Edmund Darling)
 Language:               English
-Word Count:             ~95,000 words
+Word Count:             ~82,000 words (raw text count, verified 9/28/2026; the ~95,000 figure
+                        this used to say did not match the actual manuscript)
 
 Keywords (7):
   1. quantum mechanics
@@ -101,8 +108,10 @@ NEXT STEPS FOR KDP UPLOAD
    - Use Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx directly
    - OR convert to .mobi/.epub if preferred
 4. Upload cover:
-   - Use KINDLE_COVER_FINAL.png
-   - Verify dimensions meet KDP specs (3000x4000 minimum for quality)
+   - Use KINDLE_COVER_FINAL.png (1024x1536 - clears KDP's real minimum of
+     625x1000 at ~1.6:1, but is not especially high-res; fine for the
+     Kindle Store, worth re-exporting larger first only if you want it for
+     print-on-demand or a big promotional blowup)
 5. Enter metadata:
    - Copy title/subtitle/description from this package
    - Set keywords and categories as listed above
@@ -148,6 +157,29 @@ Expected: Within 72 hours of submission
 
 First 30 days: Algorithm seeding phase (reviews + purchases key)
 Days 31+: If in KDP Select, Unlimited borrows contribute to rank
+
+================================================================================
+CORRECTION NOTE (9/28/2026)
+================================================================================
+
+This file originally (9/21/2026) claimed things that didn't match the actual
+files on disk: a ~95,000-word count (actual is ~82,000), a "3000x4000+" cover
+resolution (the real file is 1024x1536), and file paths for the cover and
+description that pointed at the root directory when the files were actually
+sitting in English/drafts/ under several different, competing names. All
+three are now fixed above, and the referenced cover/description files have
+been copied to this folder's root so the paths in this document are accurate.
+
+The description was one of three different drafts in circulation (two of
+which turned out to have identical body text under different filenames).
+KDP_DESCRIPTION_FINAL.txt is now the "KINDLE_OPTIMIZED" version, chosen over
+the longer alternative - if you'd rather use the longer one, it's preserved
+at English/drafts/kdp_description FINAL.txt.
+
+Everything else in this file (positioning, comps, pricing recommendation,
+timeline) is the previous session's business/marketing judgment, not
+something re-verified here - treat it as a starting opinion, not a checked
+fact.
 
 ================================================================================
 
