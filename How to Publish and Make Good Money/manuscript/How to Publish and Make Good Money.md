@@ -521,7 +521,9 @@ Going wide means distributing the ebook to multiple retailers and library platfo
 
 ### Choosing without guessing
 
-A reasonable default for a new author with no existing data: enroll the first book (or series) in Select for one 90-day term, watch the actual page-read numbers against what wide distribution would plausibly have earned, and make the next term’s decision from real data instead of a genre-wide generalization. Kindle Unlimited tends to matter most for genres with heavy series readers who consume books quickly (romance, fantasy, thriller fiction, in particular) and matters less for many nonfiction categories, where a reader may buy once rather than subscribe-and-binge — but “tends to” is not a guarantee for your specific book, which is exactly why testing one real term beats assuming either way.
+A reasonable default for a new author with no existing data: enroll the first book (or series) in Select for one 90-day term, watch the actual page-read numbers against what wide distribution would plausibly have earned, and make the next term’s decision from real data instead of a genre-wide generalization.
+
+> **Certainty, labeled.** Kindle Unlimited tends to matter most for genres with heavy series readers who consume books quickly (romance, fantasy, thriller fiction, in particular) and matters less for many nonfiction categories, where a reader may buy once rather than subscribe-and-binge. That is a widely observed pattern among authors, not a KDP-published rule — “tends to” is not a guarantee for your specific book, which is exactly why testing one real term beats assuming either way.
 
 ## Chapter 13: Avoiding the Traps
 
@@ -651,6 +653,8 @@ Reviews are not decoration. They are how a stranger agrees to pay. Price is not 
 
 The rest of this book is the sequence that makes those two sentences operational: seed honest reviews before you buy traffic; price for the royalty band and for the life of the catalog; treat book one as an acquisition cost only when book two exists to collect the debt.
 
+> **Key takeaway:** Reviews and price are not marketing decoration on top of a finished book — they are the two levers that decide whether a finished book becomes a business. Get the sequence right (proof before spend, price for the band and for the catalog) and everything else in this chapter is mechanics.
+
 ### II. Where the money actually comes from
 
 #### Not from the first ten cousins
@@ -683,7 +687,7 @@ A Select free day is not a substitute. Free downloads do not count as paid sales
 
 On Amazon.com, the 70 percent ebook option applies when the list price sits in the published band — $2.99 to $12.99 after the July 2026 expansion — and you have actually selected that option. Outside the band you earn 35 percent. Delivery cost (on the order of $0.15 per megabyte of the file) is deducted under 70 percent and not under 35 percent. A lean novel file makes 70 percent unambiguously better inside the band. An illustrated file can nibble the advantage; check the size.
 
-Worked picture, approximate, 2 MB file, 70 percent selected — delivery fee (~$0.15/MB × 2MB = $0.30) subtracted wherever 70 percent applies, per the rule above:
+> **Worked example.** A price-by-price picture, approximate, 2 MB file, 70 percent selected — delivery fee (~$0.15/MB × 2MB = $0.30) subtracted wherever 70 percent applies, per the rule above:
 
 | List price | Typical royalty band | Rough net / sale | Job of this price |
 |---|---|---|---|
@@ -710,6 +714,8 @@ Skip to whichever subsection matches where you actually are — a debut with not
 #### The principle
 
 Early price buys information and motion. Later price harvests trust. A debut with no reviews cannot support the top of the genre band; shoppers have no reason to pay a premium for an untested object. After the page has proof, raising the price is not greed. It is refusing to subsidize strangers forever.
+
+![Two price journeys plotted against launch week: a debut standalone holding $2.99 then raising to $3.99-$4.99, versus a series book one discounting to $0.99 at launch before returning to $2.99](../figures/fig05_price_journey.png)
 
 #### A debut standalone (or book one with nothing behind it)
 
@@ -796,11 +802,15 @@ If you email the EPUB, the attachment is the book — but a Kindle does not open
 
 BookFunnel and StoryOrigin exist so you do not teach this one reader at a time.
 
+> **Key takeaway:** Every rule in this section exists to answer one question honestly — did a real reader choose to say this? A free copy, a spend threshold, a disclosure checkbox, and a delivery method are all just plumbing in service of that one fact. Optimize the plumbing all you want; never touch the fact itself.
+
 ### VII. The free pipeline, now as a profit tool
 
 Open the form the week the draft hits KDP. Aim for thirty to fifty people if you want something near ten posts. Send two to three weeks before live. Ask for Amazon reviews only when the form exists. Paid matching services, if you use one, prefer a runway of about forty days and a title that is not already stale.
 
 [Published guidance on managed ARC campaigns](https://www.bookready.net/blog/20-reviews-launch-day-arc) — deadlines, reminders, a real roster instead of a link dropped in a group — reports review rates landing between roughly **38% and 75%** of the readers who received a file, nowhere near the fractional percentage a cold free-day grab produces. [A roster of twenty to thirty readers](https://indiebookbeacon.com/2026/06/02/what-is-an-arc-team-and-do-you-need-one/) commonly turns into ten or more day-one posts on exactly that logic.
+
+![Review response rate by recruitment method: cold free-day grab under 1%, an in-genre ARC group 25-40%, a managed ARC campaign 38-75%](../figures/fig04_arc_response_rates.png)
 
 #### Who the form is for, and where it goes when you have no list
 
