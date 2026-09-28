@@ -1704,3 +1704,51 @@ no existing paragraphs split or merged), 287/287 bookmark pairs balanced, 410 hy
 all 8 inserted paragraphs confirmed single-run/plain-formatted (no bold or italic bleed from the
 cloned anchor paragraph's run properties), all fix phrases confirmed present verbatim by direct
 re-read after save.
+
+A follow-up pass (commit fcf3a6d, same day) caught 4 straight apostrophes those insertions had
+introduced against the book's zero-straight-quotes convention, fixed them, and additionally
+independently re-verified the appendix's remaining 3 "not independently re-verified" findings
+(Lesson 4 ΔH, Lesson 15 "What sticks", Lesson 9 pacing) - none of them held up as real issues either,
+closing out the appendix section of the slam review entirely.
+
+## Slam-review "open" items fixed (9/28/2026, later same day)
+
+The slam review left a number of findings explicitly marked "— open (taste call)" rather than fixed
+or dismissed - real critiques, but ones that seemed too large or too subjective to fix without an
+explicit request. The author asked for those too. All addressed below; `SLAM_REVIEW.md` status
+markers updated to match.
+
+- **4C evaporation timeline** [~1730]: added a beat right after Fainrose's "I was wrong, and I have
+  had three days to sit with that" where Lolly actually registers the weight of a ~1000x error from
+  the one character built to be reliable, instead of moving on wordlessly. Didn't touch the original
+  dialogue or the plot's eleven-week resolution - just gave the moment the reaction it was missing.
+- **Physics panelists as position papers** [~1547]: gave Heisenburger, Tengelman, and Bellboy one
+  concrete non-interpretation trait each (a photograph he won't discuss, surprising cooking skill,
+  money quietly sent home) so they're not purely mouthpieces for their assigned interpretation of QM.
+- **Lolly/Gideon relationship** [~1993, epilogue]: added a second beat alongside Gideon's own epilogue
+  fate, showing the relationship move past the single suppressed clause from Ch3 without turning it
+  into a separate romance subplot the book was never built to carry.
+- **Catchpole/Venn/Voller "cloned bureaucrat" voices** [414]: gave Catchpole a distinct physical tell
+  (nervous, apologetic dampness) contrasted explicitly against Venn's composed menace. Voller turned
+  out to already be distinctly characterised (obsessive about stated margins of error, paid off
+  consistently in his own epilogue fate) - left alone.
+- **"They drove west" thin travelogue** [792]: named the actual road (A40) and general area (past the
+  Uxbridge road), and used the added geography to also resolve the sentence's morning/afternoon clash
+  as an explicit time-lapse during the drive rather than an unnoticed contradiction.
+- **Grey overuse** [340, 779]: varied 2 of the 5 flagged instances (Beatrix's outfit, the getaway car)
+  to break the monotony. Left the Ministry building, Venn's case, and the stabiliser module grey -
+  those are doing deliberate "institutional issue" world-building work, not overuse.
+- **Fainrose's Institute abandoned after Ch5** [~1435]: added a one-paragraph callback during the
+  climax referencing the Institute (the boot-scraper, the armillary sphere) instead of never
+  mentioning it again after its one vivid introduction.
+- **Vague "national" stakes** [946]: grounded the claim with three other named regions (Preston,
+  Cardiff, a Dumfries sub-post office) filing the same category of report, instead of leaving
+  "national" as an assertion the story's geography never supports.
+- **Lesson 17's equation with no worked example** [2810]: added a short worked example tying the
+  formula directly to the book's own "Mrs Chain's seventy-eight per cent" figure, already established
+  elsewhere in the same lesson and the Backlog.
+
+Verification: paragraph count 3181 -> 3188 (7 pure insertions + 3 in-place edits, no splits/merges),
+287/287 bookmarks balanced, 410 hyperlinks unchanged. All new paragraphs initially introduced 3
+straight apostrophes (Fainrose's, Jago's, can't); caught and converted to curly immediately, before
+committing - whole-document straight-quote count confirmed at zero after the fix.
