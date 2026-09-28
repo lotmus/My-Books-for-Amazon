@@ -39,15 +39,15 @@ YouTube is not the only platform that will pay for a video, and treating it as t
 | Platform | Program | Threshold (at time of writing) | Model |
 |---|---|---|---|
 | YouTube | Partner Program | 1,000 subscribers + 4,000 watch hours/12 months, or 10M Shorts views/90 days | Ad revenue share |
-| TikTok | Creator Rewards | 10,000 followers + 100,000 views/30 days; 18+; videos 60s or longer; limited countries | Pay per qualified view |
-| Facebook | Content Monetization | 10,000 followers + 600,000 minutes watched/60 days + 5 videos on the Page | Ad revenue share |
-| Snapchat | Spotlight monetization | 50,000 followers + 25 posts/month + 100 hours of Spotlight view time/28 days | Ad revenue share |
-| X | Original Content Rewards | Active Premium subscription + 500 verified followers + 500,000 impressions/90 days | Pay per qualified impression |
-| Rumble | Partner Program | No follower minimum; 30-day-old account in good standing, one original upload | Ad revenue share |
-| Dailymotion | Partner Program | Sources disagree — confirm directly with Dailymotion | Ad revenue share |
+| [TikTok](https://www.tiktok.com/creator-academy/article/eligibility) | Creator Rewards | 10,000 followers + 100,000 views/30 days; 18+; videos 60s or longer; limited countries | Pay per qualified view |
+| [Facebook](https://creators.facebook.com/tools/ad-breaks/v2/) | Content Monetization | 10,000 followers + 600,000 minutes watched/60 days + 5 videos on the Page | Ad revenue share |
+| [Snapchat](https://help.snapchat.com/hc/en-us/articles/7012310905876) | Spotlight monetization | 50,000 followers + 25 posts/month + 100 hours of Spotlight view time/28 days | Ad revenue share |
+| [X](https://help.x.com/en/using-x/original-content-rewards) | Original Content Rewards | Active Premium subscription + 500 verified followers + 500,000 impressions/90 days | Pay per qualified impression |
+| [Rumble](https://rumble.support/help/rumble-creator-program) | Partner Program | No follower minimum; 30-day-old account in good standing, one original upload | Ad revenue share |
+| [Dailymotion](https://faq.dailymotion.com/hc/en-us/articles/11526400930194-Become-a-Creator) | Partner Program | Sources disagree — confirm directly with Dailymotion | Ad revenue share |
 | Instagram | Gifts / Subscriptions | No fixed public threshold; direct-payout bonus programs are mostly invite-only | Viewer tipping / subscriptions |
 | Vimeo | — | On Demand is being discontinued in 2026, not replaced with an equivalent | Was pay-per-view; replaced by a paid-subscription tool, not a payout program |
-| Tumblr | — | No dedicated video ad-monetization program | Traffic and referral platform, not currently a payout source |
+| [Tumblr](https://help.tumblr.com/knowledge-base/paid-feature-eligibility/) | — | No dedicated video ad-monetization program | Traffic and referral platform, not currently a payout source |
 
 Two platforms in this table changed their entire monetization program within the same year this chapter was written. Facebook's old In-Stream Ads program ended outright — for on-demand video in 2025, for Live video in mid-2026 — replaced by the unified Content Monetization Program above. X retired its original revenue-sharing program in September 2026, the same month this chapter was drafted, in favor of the Original Content Rewards Program shown here, which pays for qualified impressions on original content rather than for engagement on replies. Neither change was unusual; it is the normal pace at which a platform's monetization terms move, and it is the reason every number in this table needs reconfirming before you rely on it.
 
