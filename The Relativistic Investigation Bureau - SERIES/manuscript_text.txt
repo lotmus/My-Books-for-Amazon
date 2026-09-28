@@ -153,6 +153,7 @@ He had a sister, Tabitha, who was generally considered the more dangerous of the
 Derek, for his part, had Sophie — twelve, precise, already suspicious of adult explanations — currently at school, which was supposed to be the safest sentence in London.
 Sophie's mother, Tuppence — a name whose irony Derek had once pointed out, to no discernible improvement in the conversation — had left three years earlier, for a man named Julian who had made an improbable fortune manufacturing clothes hangers. She had told him, with the specific clarity she reserved for important announcements, that he did not make enough money for her needs — a diagnosis Derek found difficult to dispute, given that the Bureau's ordinary cases paid terribly and its unusual ones paid worse. When Derek had attempted to point out that the Bureau offered a more relativistic kind of reward, she had considered this for exactly as long as it deserved. "Relativistic, my arse," she said, and was gone by Thursday. Derek had filed the entire matter under Processed — Do Not Reopen, which worked well enough, most days.
 Tuppence had been, by every account Derek retained without particularly wanting to, immaculately put together — the sort of competence that read as polish, heels chosen for effect rather than comfort, opinions delivered as though already finalised by committee. It was, he privately conceded, an entirely reasonable set of qualities to want from a life. He had simply never managed to embody them himself.
+None of which made her a bad mother. She rang Sophie every Sunday without fail, remembered the names of Sophie's friends better than Derek generally managed, and had never once, in three years, made Sophie feel like an inconvenience to either household. Whatever she and Derek had failed to be for each other, she had not extended the failure to their daughter.
 At his desk, Trevor removed his glasses — a small, unhelpful tic, giving no reliable clue whether insight or complete bafflement was about to follow. "What?"
 Derek had stopped trying to predict it years ago. "I've been murdered."
 "Recently?"
@@ -795,7 +796,7 @@ Trevor snatched the page. "If the timestamp is consistent with the seventeen-sec
 Penny took the phone out of his hands. On the lock screen was yesterday's school photo — Sophie mid-eye-roll, bag strap twisted. "Motifs don't have bag straps. Call her again tonight. Ordinary. Boring. Do it."
 "I'm not — " Trevor began.
 "You are," Derek admitted quietly. "And I am the one who has to decide whether chasing this geometry keeps her out of that doorway or writes her into it harder."
-Mrs Marsh, passing the open door, glanced at the unauthorised minutes without breaking stride.
+Mrs Marsh, passing the open door, glanced at the unauthorised minutes and allowed herself, uncharacteristically, half a second of visible concern before her professional face reasserted itself.
 Mr Pendleton appeared long enough to declare that future paperwork was still not his form, then vanished with the dignity of a man fleeing a causal loop.
 Outside, a red Mini Cooper contained more people than its volume should allow. Derek counted seven heads and one surplus hand. London, too, was failing conservation laws in public.
 Mrs Marsh walked past without breaking stride. "If that is a singularity," she noted, "it is not registered to this address. Pending Geometry is drawer three. Murder is drawer one. Do try not to confuse them again."
@@ -1087,7 +1088,7 @@ Penny replied:
 "Possibly."
 "A railway designation."
 "Maybe."
-"A lorry licence," Mrs Marsh offered, passing the open door without breaking stride. "LGV. Large Goods Vehicle. My nephew has one. Drives a very ordinary lorry. Nothing gravitational about it." She left before anyone could ask why she knew that, or why the mysterious clock would need a heavy goods licence, which was, on reflection, no stranger a question than most of the others that week.
+"A lorry licence," Mrs Marsh said, not even pausing on her way past the door. "LGV. Large Goods Vehicle. My nephew has one. Drives a very ordinary lorry. Nothing gravitational about it." She left before anyone could ask why she knew that, or why the mysterious clock would need a heavy goods licence, which was, on reflection, no stranger a question than most of the others that week.
 Trevor gazed at the silent clock face.
 "Could it mean Local Gravitational Vector?"
 Derek peered at him. Penny eyed him. Trevor shrugged. "What?"
@@ -5631,6 +5632,7 @@ Weinstein rubbed his eyes. "And Derek standing up. Dead, and standing. I watched
 "You weren't given one," Sherlock continued. "You watched the label change — Death to Departure to Arrival — faster than your eye could sort it, and your eye did what eyes do with a discontinuity: it filled the gap with a body getting up. You didn't see a corpse stand. You saw a frame boundary, and flinched it into a story."
 Weinstein said nothing for a moment. Then, quietly, as if filing it away for later: "I would still have sworn to it in court."
 "Most witnesses would."
+Weinstein didn't say anything else for a while. For a man who had spent forty years trusting his own careful eye over everyone else's careless one, watching it fail him this completely was going to cost more than an afternoon to file away properly.
 Derek asked it plainly. "And the man on the train. The one wearing my face."
 "The same discontinuity, in a longer coat," Sherlock said. "Not a second Derek waiting in the wings — a worldline the geometry hadn't finished labelling yet. Departure, dressed as a person, because that's what a mind does with an event it can't file. You didn't meet him. You watched an unlabelled coordinate for long enough that it blinked."
 Derek made himself ask the only question that had actually kept him awake. "And Sophie. In the doorway, behind me, in the photograph. Why was she there at all?"
