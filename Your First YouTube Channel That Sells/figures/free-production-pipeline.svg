@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 712" font-family="'Helvetica Neue', Arial, sans-serif">
+  <rect x="0" y="0" width="1600" height="712" fill="#FFFFFF"/>
+
+  <!-- Title -->
+  <text x="800" y="52" text-anchor="middle" font-size="40" font-weight="700" fill="#1E293B">The Free Production Pipeline</text>
+  <text x="800" y="86" text-anchor="middle" font-size="20" fill="#64748B">Five jobs a first video needs done — and a free tool for each one</text>
+
+  <!-- ===== Card definitions ===== -->
+  <!-- Card 1: Generate Footage -->
+  <clipPath id="card0"><rect x="40" y="140" width="284" height="420" rx="18"/></clipPath>
+  <g clip-path="url(#card0)">
+    <rect x="40" y="140" width="284" height="420" fill="#EFF4FF"/>
+    <rect x="40" y="140" width="284" height="90" fill="#2563EB"/>
+  </g>
+  <text x="182" y="182" text-anchor="middle" font-size="22" font-weight="700" fill="#FFFFFF">I</text>
+  <text x="182" y="212" text-anchor="middle" font-size="21" font-weight="700" fill="#FFFFFF">Generate Footage</text>
+  <rect x="64" y="256" width="236" height="56" rx="12" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+  <text x="182" y="290" text-anchor="middle" font-size="19" fill="#1E293B">Sora 2</text>
+  <rect x="64" y="332" width="236" height="56" rx="12" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+  <text x="182" y="366" text-anchor="middle" font-size="19" fill="#1E293B">InVideo</text>
+  <rect x="64" y="408" width="236" height="56" rx="12" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+  <text x="182" y="442" text-anchor="middle" font-size="19" fill="#1E293B">Magic Hour</text>
+
+  <!-- Arrow 1 -->
+  <path d="M 326 336 L 348 350 L 326 364 Z" fill="#94A3B8"/>
+
+  <!-- Card 2: Stock Footage & Photos -->
+  <clipPath id="card1"><rect x="348" y="140" width="284" height="420" rx="18"/></clipPath>
+  <g clip-path="url(#card1)">
+    <rect x="348" y="140" width="284" height="420" fill="#ECFDF5"/>
+    <rect x="348" y="140" width="284" height="90" fill="#059669"/>
+  </g>
+  <text x="490" y="182" text-anchor="middle" font-size="22" font-weight="700" fill="#FFFFFF">II</text>
+  <text x="490" y="212" text-anchor="middle" font-size="21" font-weight="700" fill="#FFFFFF">Stock Footage &amp; Photos</text>
+  <rect x="372" y="256" width="236" height="56" rx="12" fill="#FFFFFF" stroke="#059669" stroke-width="2"/>
+  <text x="490" y="290" text-anchor="middle" font-size="19" fill="#1E293B">Pexels</text>
+  <rect x="372" y="332" width="236" height="56" rx="12" fill="#FFFFFF" stroke="#059669" stroke-width="2"/>
+  <text x="490" y="366" text-anchor="middle" font-size="19" fill="#1E293B">Pixabay</text>
+  <rect x="372" y="408" width="236" height="56" rx="12" fill="#FFFFFF" stroke="#059669" stroke-width="2"/>
+  <text x="490" y="442" text-anchor="middle" font-size="19" fill="#1E293B">Mixkit</text>
+
+  <!-- Arrow 2 -->
+  <path d="M 634 336 L 656 350 L 634 364 Z" fill="#94A3B8"/>
+
+  <!-- Card 3: Music & Sound -->
+  <clipPath id="card2"><rect x="656" y="140" width="284" height="420" rx="18"/></clipPath>
+  <g clip-path="url(#card2)">
+    <rect x="656" y="140" width="284" height="420" fill="#FFFBEB"/>
+    <rect x="656" y="140" width="284" height="90" fill="#D97706"/>
+  </g>
+  <text x="798" y="182" text-anchor="middle" font-size="22" font-weight="700" fill="#FFFFFF">III</text>
+  <text x="798" y="212" text-anchor="middle" font-size="21" font-weight="700" fill="#FFFFFF">Music &amp; Sound</text>
+  <rect x="680" y="256" width="236" height="56" rx="12" fill="#FFFFFF" stroke="#D97706" stroke-width="2"/>
+  <text x="798" y="290" text-anchor="middle" font-size="17" fill="#1E293B">YouTube Audio Library</text>
+  <rect x="680" y="332" width="236" height="56" rx="12" fill="#FFFFFF" stroke="#D97706" stroke-width="2"/>
+  <text x="798" y="366" text-anchor="middle" font-size="19" fill="#1E293B">FreePD</text>
+  <rect x="680" y="408" width="236" height="56" rx="12" fill="#FFFFFF" stroke="#D97706" stroke-width="2"/>
+  <text x="798" y="442" text-anchor="middle" font-size="19" fill="#1E293B">Incompetech</text>
+
+  <!-- Arrow 3 -->
+  <path d="M 942 336 L 964 350 L 942 364 Z" fill="#94A3B8"/>
+
+  <!-- Card 4: Voice -->
+  <clipPath id="card3"><rect x="964" y="140" width="284" height="420" rx="18"/></clipPath>
+  <g clip-path="url(#card3)">
+    <rect x="964" y="140" width="284" height="420" fill="#FDF2F8"/>
+    <rect x="964" y="140" width="284" height="90" fill="#DB2777"/>
+  </g>
+  <text x="1106" y="182" text-anchor="middle" font-size="22" font-weight="700" fill="#FFFFFF">IV</text>
+  <text x="1106" y="212" text-anchor="middle" font-size="21" font-weight="700" fill="#FFFFFF">Voice</text>
+  <rect x="988" y="256" width="236" height="56" rx="12" fill="#FFFFFF" stroke="#DB2777" stroke-width="2"/>
+  <text x="1106" y="290" text-anchor="middle" font-size="19" fill="#1E293B">FineVoice</text>
+  <rect x="988" y="332" width="236" height="56" rx="12" fill="#FFFFFF" stroke="#DB2777" stroke-width="2"/>
+  <text x="1106" y="366" text-anchor="middle" font-size="19" fill="#1E293B">Revoicer</text>
+  <rect x="988" y="408" width="236" height="56" rx="12" fill="#FFFFFF" stroke="#DB2777" stroke-width="2"/>
+  <text x="1106" y="442" text-anchor="middle" font-size="19" fill="#1E293B">Turboscribe</text>
+
+  <!-- Arrow 4 -->
+  <path d="M 1250 336 L 1272 350 L 1250 364 Z" fill="#94A3B8"/>
+
+  <!-- Card 5: Edit & Export -->
+  <clipPath id="card4"><rect x="1272" y="140" width="284" height="420" rx="18"/></clipPath>
+  <g clip-path="url(#card4)">
+    <rect x="1272" y="140" width="284" height="420" fill="#F5F3FF"/>
+    <rect x="1272" y="140" width="284" height="90" fill="#7C3AED"/>
+  </g>
+  <text x="1414" y="182" text-anchor="middle" font-size="22" font-weight="700" fill="#FFFFFF">V</text>
+  <text x="1414" y="212" text-anchor="middle" font-size="21" font-weight="700" fill="#FFFFFF">Edit &amp; Export</text>
+  <rect x="1296" y="256" width="236" height="56" rx="12" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+  <text x="1414" y="290" text-anchor="middle" font-size="19" fill="#1E293B">CapCut</text>
+  <rect x="1296" y="332" width="236" height="56" rx="12" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+  <text x="1414" y="366" text-anchor="middle" font-size="19" fill="#1E293B">123apps</text>
+  <rect x="1296" y="408" width="236" height="56" rx="12" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+  <text x="1414" y="442" text-anchor="middle" font-size="19" fill="#1E293B">FFmpeg</text>
+
+  <!-- Warning banner -->
+  <rect x="40" y="592" width="1516" height="100" rx="16" fill="#FEF3C7" stroke="#D97706" stroke-width="2"/>
+  <text x="798" y="632" text-anchor="middle" font-size="23" font-weight="700" fill="#78350F">Free tool ≠ free to use commercially.</text>
+  <text x="798" y="664" text-anchor="middle" font-size="19" fill="#78350F">Read the license page before you publish — not just the price page.</text>
+</svg>
