@@ -51,7 +51,6 @@ By Professor Click-Click-Whoosh
 - Chapter 38: Climate and Consequence — The Price of Progress
 - Chapter 39: A Fractured Present — Democracy, Authoritarianism, and the Information Age
 - Chapter 40: The Dolphins' Long View — What a Non-Human Species Makes of Human History
-- Chapter 41: Half the World, All the Time — The Timelines This Book Almost Skipped
 - Epilogue: After Homo Sapiens — Superhumans and Androids
 - Further Reading — For Humans
 
@@ -1406,13 +1405,25 @@ The six genius-and-catastrophe case studies, Germany, Japan, Italy, Spain, the S
 
 The chapters since have shown the same pattern still running, just with better tools: a nuclear standoff the two powers holding it, remarkably, chose not to fire; movements that changed a society's own rules about who belonged in it without a battlefield; a communications network that delivered more human connection and more human manipulation in the same decade, through the same wires; and a climate emergency whose physics nobody disputes and whose response, as this chapter is being written, nobody has yet matched to the scale of the problem.
 
-*“We do not envy humans,” the Society recorded, “and we do not pity them either. Envy and pity both assume we would have made different choices with the same hands. We were never given the hands to find out.”*
+*"We do not envy humans," the Society recorded, "and we do not pity them either. Envy and pity both assume we would have made different choices with the same hands. We were never given the hands to find out."*
 
 What dolphin scholarship can say, having watched the entire record rather than any single chapter of it, is this: capability has compounded in this species faster than in any other lineage this book, or the fossil record behind it, has ever recorded. Wisdom has arrived unevenly, late, and often only after the capability it was meant to guide had already been used once, badly, first.
 
 It has, to be fair, sometimes arrived on time, and dolphin historians keep a short list: a Christmas truce organized by soldiers who then had to be ordered to stop, a naval officer in a submarine who declined to vote for war, a watch officer who distrusted his own machine. Every entry on it is one person or a few, acting against expectation and occasionally against orders. It has never yet arrived in bulk.
 
-Dr. Susurrus Undertow asked, at this point in the Society's final deliberations, that her Chapter 1 dissent be entered into the record as won. Her argument then was that a species never denied the hands to fail with does not get credit merely for not failing; the credit, if any is owed, belongs to whichever few individuals on that short list chose the harder option when the easier one was fully available to them. The quorum, less than half awake but for once unanimous, agreed to strike “we do not envy humans” from the earlier verdict and let this one stand instead: humans deserve less credit for having a conscience than for the handful of times, against every incentive in the room, they used it.
+Dr. Susurrus Undertow asked, at this point in the Society's final deliberations, that her Chapter 1 dissent be entered into the record as won. Her argument then was that a species never denied the hands to fail with does not get credit merely for not failing; the credit, if any is owed, belongs to whichever few individuals on that short list chose the harder option when the easier one was fully available to them. The quorum, less than half awake but for once unanimous, agreed to strike "we do not envy humans" from the earlier verdict and let this one stand instead: humans deserve less credit for having a conscience than for the handful of times, against every incentive in the room, they used it.
+
+Reviewing this chapter against the rest of the book turned up an uncomfortable fact: several of the timelines that actually ran underneath everything else in it, counted the whole time, changing the whole time, never got a mention of their own. The plainest is the simplest number in the whole record: how many humans there were. For most of this book, the answer was small and slow. It took until 1804, on most estimates, for the global population to reach one billion, a milestone that arrived only after every chapter from the Prologue through the fall of Napoleon had already happened. The second billion took until 1927. The third took until 1960. The fourth took fourteen years. By 2022 the count passed eight billion. This book's own chapters get denser and faster toward the end for the same reason the population curve does: there were, quite simply, more humans available to have more history.
+
+*"A species can spend six thousand years building empires on a planet with under a billion of itself on it," dolphin historians observed, "and then spend the next two hundred years adding seven billion more. We would not call this planning. We would call it momentum."*
+
+The second overlooked timeline is who, exactly, got to take part in the story this book has been telling. For most of the book's chapters, "citizen," "voter," and "person with legal standing" quietly meant men. New Zealand gave women the vote first among self-governing nations, in 1893. The United States managed it in 1920, after decades of suffragist organizing this book's civil rights chapter only partly covers. Most of the rest of the world followed across the twentieth century, at its own pace, and the line has not finished running yet. A third timeline, easy to lose inside chapters about wars and empires, is the slow construction of a single idea: that some rules should apply to every human regardless of which empire they were born under. The Universal Declaration of Human Rights, adopted by the newly formed United Nations in 1948, in the wreckage of the war this book covers at length, was the first attempt at a document meant to bind everyone rather than one nation's own citizens. It has no army and no court that can force compliance, a fact dolphin historians find almost charmingly naive and also, on the evidence of the eight decades since, not nothing: nations that ignore it still feel obliged to explain why.
+
+*"Every chapter in this book about a great civilization," the Society recorded, "was, for most of its length, a chapter about roughly half of that civilization deciding things for the other half. We mention this now because a book that never mentioned it would be telling a shorter story than the one that actually happened."*
+
+A fourth and final timeline belongs to the numbers themselves. This book has mentioned, in passing, that ancient India gave the world the mathematical zero and that ancient Greece gave it geometry, but never paused on the throughline connecting them to the physics and computing chapters near this book's end. The 9th-century Baghdad mathematician al-Khwarizmi, whose name gives us the word algorithm, wrote the treatise that gave the West the word algebra. Isaac Newton and Gottfried Leibniz independently developed calculus in the 17th century, arguing bitterly for the rest of their lives over who got there first. Alan Turing's 1936 paper on computable numbers, written before any computer existed to run on, defined what a computer could and could not do in principle, a piece of pure mathematics that this book's own digital chapter turns out to depend on entirely.
+
+*"We are aware," dolphin historians noted, dryly, "that a species capable of noticing all four of these timelines while writing its own history, and still leaving them out of the first draft, has proven this book's thesis rather better than any single chapter did."*
 
 **Humanity's Report Card**
 
@@ -1422,48 +1433,21 @@ Dr. Susurrus Undertow asked, at this point in the Society's final deliberations,
 
 **Cooperation: B+.** Capable of extraordinary collaboration, which they deploy in emergencies, on Moon landings, and at football matches, and withhold, with equal enthusiasm, from almost everything else.
 
-**Wisdom: Inconsistent.** The committee considered “Incomplete” but felt it promised a submission date.
+**Wisdom: Inconsistent.** The committee considered "Incomplete" but felt it promised a submission date.
 
 **Treatment of Oceans: Needs Improvement.** See attached plastic.
 
 **Overall Assessment**
 
-*“Humans are neither the heroes nor the villains of Earth's story. They are a young, brilliant, chaotic species still deciding what kind of civilization they wish to become. Their greatest achievements came when they cooperated. Their worst disasters came when fear, greed, or tribalism overwhelmed reason. Whether they deserve a lasting place in history depends on what they do next.”*
+*"Humans are neither the heroes nor the villains of Earth's story. They are a young, brilliant, chaotic species still deciding what kind of civilization they wish to become. Their greatest achievements came when they cooperated. Their worst disasters came when fear, greed, or tribalism overwhelmed reason. Whether they deserve a lasting place in history depends on what they do next."*
 
-*Professor Click-Click-Whoosh has added, in the margin: “See me.”*
+*Professor Click-Click-Whoosh has added, in the margin: "See me."*
 
-The story is not finished. Two branch points, arriving at the same time, may be the strangest ones yet, and dolphin scholarship has assigned them the book's final chapter.
-
-**Dolphin verdict:**
-
-*A whole book of hands, fire, empires, faiths, dictatorships, wars, and wires points to one plain reading: this species keeps getting better at doing things, and keeps getting only intermittently better at deciding which things are worth doing. Dolphins have had tens of millions of years to watch this gap open and close, open and close, and have learned exactly one thing from the pattern worth stating outright. The gap does not close by itself. Someone with hands has to close it.*
-
-
-
-## Chapter 41: Half the World, All the Time — The Timelines This Book Almost Skipped
-
-Dolphin scholarship keeps an index of every timeline humans have bothered to write down about themselves: wars sorted by year, dynasties sorted by collapse, inventions sorted by patent. It is, by the Society's count, an enormous list. Reviewing it against this book's own table of contents turned up an uncomfortable fact: several of the timelines that actually ran underneath everything else in this book — counted the whole time, changing the whole time — never got a chapter of their own.
-
-This chapter is the dolphins going back for them.
-
-Start with the plainest number in the whole list: how many humans there were. For most of this book, the answer was small and slow. It took until 1804, on most estimates, for the global population to reach one billion — a milestone that arrived only after every chapter from the Prologue through the fall of Napoleon had already happened. The second billion took until 1927, a mere hundred-plus years later. The third took until 1960. The fourth took fourteen years. By 2022 the count passed eight billion. Dolphin historians note that this book's own chapters get denser and faster toward the end for the same reason the population curve does: there were, quite simply, more humans available to have more history.
-
-*“A species can spend six thousand years building empires on a planet with under a billion of itself on it,” dolphin historians observed, “and then spend the next two hundred years adding seven billion more. We would not call this planning. We would call it momentum.”*
-
-The second overlooked timeline is who, exactly, got to take part in the story this book has been telling. For most of the book's chapters, "citizen," "voter," and "person with legal standing" quietly meant men. New Zealand gave women the vote first among self-governing nations, in 1893. The United States managed it in 1920, after decades of suffragist organizing this book's civil rights chapter only partly covers. Most of the rest of the world followed across the twentieth century, at its own pace, and the line has not finished running yet.
-
-*“Every chapter in this book about a great civilization,” the Society recorded, “was, for most of its length, a chapter about roughly half of that civilization deciding things for the other half. We mention this now because a book that never mentioned it would be telling a shorter story than the one that actually happened.”*
-
-A third timeline, easy to lose inside chapters about wars and empires, is the slow construction of a single idea: that some rules should apply to every human regardless of which empire they were born under. The Universal Declaration of Human Rights, adopted by the newly formed United Nations in 1948, in the wreckage of the war this book covers at length, was the first attempt at a document meant to bind everyone rather than one nation's own citizens. It has no army and no court that can force compliance, a fact dolphin historians find almost charmingly naive and also, on the evidence of the eight decades since, not nothing: nations that ignore it still feel obliged to explain why.
-
-A fourth and final timeline belongs to the numbers themselves. This book has mentioned, in passing, that ancient India gave the world the mathematical zero and that ancient Greece gave it geometry, but never paused on the throughline connecting them to the physics and computing chapters near this book's end. The 9th-century Baghdad mathematician al-Khwarizmi, whose name gives us the word algorithm, wrote the treatise that gave the West the word algebra. Isaac Newton and Gottfried Leibniz independently developed calculus in the 17th century, arguing bitterly for the rest of their lives over who got there first. Alan Turing's 1936 paper on computable numbers, written before any computer existed to run on, defined what a computer could and could not do in principle — a piece of pure mathematics that this book's own digital chapter turns out to depend on entirely.
-
-*“We are aware,” dolphin historians noted, dryly, “that a species capable of noticing all four of these timelines while writing a history book, and still leaving them out of the first draft, has proven the book's own thesis rather better than any single chapter did.”*
+The story is not finished. Two branch points, arriving at the same time, may be the strangest ones yet, and dolphin scholarship has assigned them the book's final pages.
 
 **Dolphin verdict:**
 
-*Every chapter in this book told the story of a place, a war, or an idea, one at a time, in the order humans usually tell it. But underneath all of them, the same four things were running the entire time: there were more humans every year, and only slowly did more of them count; the world was slowly agreeing, on paper if not yet in practice, that its rules should apply to everyone; and the numbers themselves, invented quietly by people this book barely names, were doing more work than any king this book named twice. A history told only in nations and wars will always miss the timelines that do not stop at a border. This chapter exists because the dolphins went back and checked, and found the missing timelines were not minor. They were most of the ledger.*
-
+*A whole book of hands, fire, empires, faiths, dictatorships, wars, and wires points to one plain reading: this species keeps getting better at doing things, and keeps getting only intermittently better at deciding which things are worth doing. Underneath all of it, the same four quieter timelines were running the entire time: there were more humans every year, and only slowly did more of them count; the world was slowly agreeing, on paper if not yet in practice, that its rules should apply to everyone; and the numbers themselves, invented quietly by people this book barely names, were doing more work than any king this book named twice. Dolphins have had tens of millions of years to watch the louder gap, between what this species can do and what it has decided is worth doing, open and close, open and close, and have learned exactly one thing from the pattern worth stating outright. The gap does not close by itself. Someone with hands has to close it.*
 
 
 ## Epilogue: After Homo Sapiens — Superhumans and Androids
