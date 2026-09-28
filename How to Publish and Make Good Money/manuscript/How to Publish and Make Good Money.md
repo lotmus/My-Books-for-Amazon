@@ -340,9 +340,9 @@ Where do the actual phrases come from? The single best free source is Amazon’s
 
 At upload, KDP lets you choose up to three browse categories from Amazon’s BISAC-based category tree. The instinct to pick the biggest, most prominent category (“Business & Money”) is usually a mistake — it’s an enormous room where you’re competing against every business book on Amazon for attention. The more specific leaf category you can honestly claim (“Business & Money → Small Business & Entrepreneurship → Home-Based Businesses,” for instance) is a much smaller room, which means a given level of sales velocity moves you much further up its charts — including, for a genuinely small category, potentially far enough to earn an “#1 Best Seller” orange tag, which is itself a credibility signal that helps convert future browsers.
 
-Amazon’s full category list is considerably longer than the three slots exposed in KDP’s own self-service picker. Choose your three with real care at upload rather than treating the choice as a draft you’ll casually widen later — but if none of the three genuinely fits, or a specific leaf category from Amazon’s published category list seems like a clear match that the picker doesn’t offer, contacting [KDP support](https://kdp.amazon.com/en_US/contact-us) directly and describing exactly what you’re looking for is a reasonable, low-cost thing to try. Policy on what support can and can’t add changes without much notice, so treat their answer as current fact and don’t plan around any secondhand claim about it, including one in this book.
+Amazon’s full category list is considerably longer than the three slots exposed in KDP’s own self-service picker, so choose your three with real care at upload rather than treating the choice as a draft you’ll casually widen later. More generally, whatever question or problem comes up anywhere along the way — categories included, but by no means limited to them — [KDP support](https://kdp.amazon.com/en_US/contact-us) is there to help, and a direct answer from them beats guessing from any outside source, including this book.
 
-> **Key takeaway: Keywords are free, instant, and editable — you can revisit them the day after launch based on how the book is actually performing. Categories are chosen once at upload from a shorter list than Amazon’s full category tree contains, so choose your three with real care. If something about categories — or anything else about your listing — doesn’t match what you expect, [KDP support](https://kdp.amazon.com/en_US/contact-us) is the right place to ask.**
+> **Key takeaway: Keywords are free, instant, and editable — you can revisit them the day after launch based on how the book is actually performing. Categories are chosen once at upload from a shorter list than Amazon’s full category tree contains, so choose your three with real care.**
 
 ### Your product page: the description does the selling the cover can’t
 
@@ -1074,7 +1074,7 @@ If the goal is genuinely to build on someone else's existing work rather than yo
 
 - [ ] All seven backend keyword slots used, as full phrases, none repeating title/subtitle words (Chapter 7)
 
-- [ ] Most specific honest category chosen in all three slots — chosen with care, with [KDP support](https://kdp.amazon.com/en_US/contact-us) as the place to ask if none of the three really fits (Chapter 7)
+- [ ] Most specific honest category chosen in all three slots — chosen with care (Chapter 7)
 
 - [ ] Price set deliberately inside (or intentionally outside) the 70% band, not by default (Chapter 8)
 
