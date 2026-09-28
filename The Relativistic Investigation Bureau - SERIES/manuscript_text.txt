@@ -6235,7 +6235,7 @@ Black-hole physics suggests a stranger kind of accounting. When physicists calcu
 The filing cabinet is an analogy. Please do not attempt the experiment with the Bureau's furniture. 
 What the black holes tell us: A black hole's event horizon is the boundary beyond which light cannot escape to distant observers. It is not a solid shell.
 → Glossary: Event Horizon
-Bekenstein and Hawking connected the horizon's area to entropy. Here, entropy measures how many microscopic possibilities are compatible with the black hole's large-scale properties. More precisely, it depends on the logarithm of that number (roughly: how many digits the number has, not the number itself, which is why entropy grows far more slowly than the raw count of possibilities). It can also be expressed as an amount of information in bits.
+Bekenstein and Hawking connected the horizon's area to entropy. Here, entropy measures how many microscopic possibilities are compatible with the black hole's large-scale properties. More precisely, it depends on the logarithm of that number (roughly: how many digits the number has, not the number itself, which is why entropy grows far more slowly than the raw count of possibilities). It can also be expressed as an amount of information in bits (a bit is the answer to one yes/no question).
 For a spherical horizon, area is 4πR². Double the radius, and the area becomes four times as large. The Bekenstein-Hawking entropy therefore becomes four times as large too.
 An ordinary ball with twice the radius has eight times the volume. This contrast is the clue: the black hole's entropy follows an area rule.
 Penny would describe this as being charged for storage by the size of the wrapping paper. Derek would ask whether the wrapping paper was included.
