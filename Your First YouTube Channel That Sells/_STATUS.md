@@ -1,6 +1,6 @@
 # STATUS — Your First YouTube Channel That Sells
 
-Last updated: 2026-09-28 (session 2) — **second chapter drafted, open as a draft PR**
+Last updated: 2026-09-28 (session 2) — **all three planned chapters now drafted, open as a draft PR**
 
 ## Where this stands
 
@@ -27,6 +27,22 @@ Current contents:
   merged — see below.
 - `figures/free-production-pipeline.svg` — a colorful five-stage diagram
   summarizing that chapter, used as its opening visual.
+- `manuscript/Where the Money Actually Comes From.md` — the *Build* chapter
+  (session 2): YouTube's own two-tier Partner Program thresholds and the
+  tactics that actually move subscriber/watch-hour numbers, the second-
+  channel-starts-at-zero point (from `_source/YouTube Tricks`), a table and
+  chart comparing monetization programs across eight other platforms
+  (TikTok, Facebook, Snapchat, X, Rumble, Dailymotion, Instagram, Vimeo,
+  Tumblr) with current figures verified via live web search, and affiliate
+  links as a revenue stream independent of any one platform's program.
+  Notes candidly that two of those programs (Facebook's, X's) were replaced
+  entirely within the months before this chapter was written, and that
+  Vimeo's On Demand marketplace is being shut down outright — used as the
+  chapter's own argument for verifying every number before relying on it.
+- `figures/follower-floor.svg` — a bar chart (YouTube highlighted against
+  the rest) comparing the follower/subscriber floor across platforms,
+  built following the repo-wide dataviz skill (validated palette, emphasis
+  form).
 - `_source/` — six files (see below for what each actually is). Four are
   from session 1; two more (general free-media/stock-site lists) were added
   in session 2. A much larger batch of files uploaded mid-session-2 was
@@ -158,14 +174,18 @@ used now.
 1. **Chapter order isn't fixed.** "The Click Is the Whole Business" was
    written first because the character-limit facts were handed over directly
    and needed no research; it doesn't have to be chapter one.
-2. **The *Build* chapter still isn't written**, and now has more source
-   material queued for it than originally planned: the `YouTube Tricks`
-   transcript (second-channel redirect rules), plus the subscriber-conversion,
-   affiliate-link, and second-channel-monetization material identified above.
-   Also queued: the drawback the author flagged mid-session-2 — each
-   additional channel has to separately clear YouTube Partner Program's own
-   monetization thresholds; a redirect/placeholder channel doesn't inherit
-   the main channel's monetized status.
+2. **The *Build* chapter is now written** (`Where the Money Actually Comes
+   From.md`), using the `YouTube Tricks` transcript, the vetted subscriber-
+   conversion and affiliate-link material, and the second-channel-
+   monetization drawback the author flagged mid-session-2 — all as planned.
+   It also grew beyond the original scope into a cross-platform monetization
+   comparison (TikTok, Facebook, Snapchat, X, Rumble, Dailymotion, Instagram,
+   Vimeo, Tumblr), per the author's session-2 request to expand into "other
+   potential places to earn with videos." Worth the author's review
+   specifically for accuracy — the platform figures move fast enough that
+   two cited programs changed entirely in the weeks around when this chapter
+   was drafted, and Dailymotion's own requirements could not be confirmed to
+   the same standard as the others (flagged in the chapter's own text).
 3. **No case studies exist in this book yet.** The Kindle book leans heavily
    on named, checkable creator case studies; this book doesn't have any yet
    because no session has done that research pass. Worth doing before this
