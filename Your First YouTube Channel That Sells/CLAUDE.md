@@ -49,6 +49,33 @@ touching, say so and wait to be asked — don't go do it.
   to writing new prose from extracted facts, never lightly editing the source
   transcripts' own sentences.
 
+## Style conventions (Markdown standing in for Word paragraph styles)
+
+Match the Markdown conventions established in the sibling KDP book, *How to
+Publish and Make Good Money* (same repo, its own CLAUDE.md documents these
+for that book). Use the same set here so both books convert the same way if
+either is ever assembled into a Word/EPUB deliverable:
+
+- `# ` — book title (once) and Part-level headings, if this book ends up
+  using Parts.
+- `## Chapter N: Title` — chapter headings.
+- `### ` / `#### ` — sections and subsections within a chapter.
+- `> **Key takeaway:** …` — a chapter's summary-style callout.
+- `> Worked example. …` — a numbers-shown worked calculation.
+- `> Case study: …` — a real, generic-but-true illustrative example (never
+  identifying another book in this account's catalog by name or inferable
+  detail — that rule applies account-wide, not just to the KDP book).
+- `![figure](../figures/fileName.png)` followed by an italic
+  `*Figure N.N — caption.*` line — an embedded chart/diagram.
+- `- [ ] item` — a checklist item.
+
+Once this book has enough content (and its own `figures/`), add a checked-in
+`build_book.py` that assembles the manuscript into a Word `.docx` the same
+way the KDP book's does: plain `python-docx` (no pandoc dependency — not
+available in this environment), Heading 1/2 styles set to page-break-before
+so chapters start a fresh page, real clickable hyperlinks for inline links,
+and GFM tables rendered as real Word tables.
+
 ## House style
 
 Match *Your First Book That Sells*'s established voice unless a reason
