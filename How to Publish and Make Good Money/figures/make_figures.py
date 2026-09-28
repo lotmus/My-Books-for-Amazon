@@ -617,7 +617,7 @@ def fig_publishing_workflow():
         ("Write & Revise", "Draft, then real editing passes — Ch 3–4", BLUE),
         ("Format", "A Kindle file and/or a print file — Ch 5", ORANGE),
         ("Design Cover", "Has to survive a thumbnail — Ch 6", AQUA),
-        ("Set Metadata", "Categories and keywords — Ch 7", YELLOW),
+        ("Set Metadata & Listing Copy", "Categories, keywords, description — Ch 7", YELLOW),
         ("Price & Publish", "Inside the 70% band, on purpose — Ch 8", MAGENTA),
         ("Launch & Advertise", "A concentrated week, then ads — Ch 9–10", GREEN),
         ("Get Paid & Repeat", "Reports, taxes, book two — Ch 11, 14", VIOLET),
@@ -682,6 +682,21 @@ def fig_ad_workflow():
     save(fig, "fig10b_ad_workflow.png")
 
 
+# ---------------------------------------------------------------------------
+# Figure 7.2 -- Anatomy of a product-page description
+# ---------------------------------------------------------------------------
+def fig_product_page_anatomy():
+    stages = [
+        ("The Hook", "The reader's problem, not your topic", BLUE),
+        ("The Promise", "What the book delivers, and why you", ORANGE),
+        ("Scannable Bullets", "5-8 concrete, specific takeaways", AQUA),
+        ("Proof (optional)", "A quote, a credential, a result", YELLOW),
+        ("Call to Action", "One line, remove the last friction", MAGENTA),
+    ]
+    _vertical_workflow(stages, "fig07b_product_page_anatomy.png",
+                        "Anatomy of a Product Description", box_h=0.9, gap=0.45)
+
+
 if __name__ == "__main__":
     fig_cover()
     fig_publishing_workflow()
@@ -689,6 +704,7 @@ if __name__ == "__main__":
     fig_ebook_vs_print()
     fig_thumbnail_test()
     fig_editing_workflow()
+    fig_product_page_anatomy()
     fig_keyword_funnel()
     fig_pricing_sweet_spot()
     fig_launch_concentration()

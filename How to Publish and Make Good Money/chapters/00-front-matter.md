@@ -57,7 +57,7 @@ A Note Before You Begin
 
 **Part III — Getting Discovered**
 
-7\. Categories and Keywords, Done Right
+7\. Categories, Keywords, and Your Product Page
 
 8\. Pricing for Profit
 

@@ -77,7 +77,9 @@ than a generic "edit your book" bullet point.
   5. Formatting That Doesn't Break Kindle
   6. Covers That Sell in a Thumbnail
 - **Part III — Getting Discovered**
-  7. Categories and Keywords, Done Right
+  7. Categories, Keywords, and Your Product Page (expanded 2026-09-28 to fold
+     in book-description/A+ Content copywriting alongside categories/keywords —
+     see status log)
   8. Pricing for Profit
   9. Launching Without an Audience
   10. Amazon Ads Without Wasting Money
@@ -86,27 +88,37 @@ than a generic "edit your book" bullet point.
   12. KDP Select vs. Going Wide
   13. Avoiding the Traps
 - **Part V — Playing the Long Game**
-  14. From One Book to a Catalog
+  14. From One Book to a Catalog (expanded 2026-09-28 with an audiobooks/ACX
+      section — see status log)
   15. A Realistic First-Year Plan
 
 **Back matter**: Appendix A (Launch Checklist), Appendix B (Royalty Quick
 Reference), Appendix C (ISBN/Wide-Distribution Notes + Further Reading), A
 Closing Word.
 
-## Illustrations (12 total, `figures/`)
+## Illustrations (16 total, `figures/`)
 
 1. `cover.png` — title art (standalone, for KDP cover upload)
-2. `fig02_royalty_cliff.png` — the 70%/35% royalty curve across price points (Ch2)
-3. `fig06_thumbnail_test.png` — a cover mockup at full size vs. actual thumbnail size (Ch6)
-4. `fig07_keyword_funnel.png` — title words → 7 backend slots → categories → search match (Ch7)
-5. `fig08_pricing_sweet_spot.png` — illustrative price-vs-take-home curve (Ch8, labeled illustrative)
-6. `fig09_launch_concentration.png` — same sales spread out vs. concentrated (Ch9, labeled illustrative)
-7. `fig10_acos_breakeven.png` — break-even ACOS worked example, good/critical zones (Ch10)
-8. `fig12_select_vs_wide.png` — exclusivity/reach comparison (Ch12)
-9. `fig13_red_flags.png` — scam warning-sign checklist graphic (Ch13)
-10. `fig14_catalog_compounding.png` — illustrative backlist income compounding (Ch14, labeled illustrative)
-11. `fig15_first_year_roadmap.png` — 12-month phase timeline (Ch15)
-12. `fig05_ebook_vs_print.png` — what an ebook doesn't need vs. what print does (Ch5)
+2. `fig01_publishing_workflow.png` — the whole book as one 8-stage pipeline (Ch1)
+3. `fig02_royalty_cliff.png` — the 70%/35% royalty curve across price points (Ch2)
+4. `fig04_editing_workflow.png` — the 4-pass editing pipeline, draft to ready manuscript (Ch4)
+5. `fig05_ebook_vs_print.png` — a branching workflow: manuscript splits into the Kindle path vs. the print path (Ch5)
+6. `fig06_thumbnail_test.png` — a cover mockup at full size vs. actual thumbnail size (Ch6)
+7. `fig07_keyword_funnel.png` — title words → 7 backend slots → categories → search match (Ch7)
+8. `fig07b_product_page_anatomy.png` — the 5-stage anatomy of a converting book description (Ch7)
+9. `fig08_pricing_sweet_spot.png` — illustrative price-vs-take-home curve (Ch8, labeled illustrative)
+10. `fig09_launch_concentration.png` — same sales spread out vs. concentrated (Ch9, labeled illustrative)
+11. `fig10_acos_breakeven.png` — break-even ACOS worked example, good/critical zones (Ch10)
+12. `fig10b_ad_workflow.png` — auto campaign → search term report → harvest → manual, with the ongoing-refinement loop (Ch10)
+13. `fig12_select_vs_wide.png` — a decision workflow: enroll → track page-reads → renew or go wide (Ch12)
+14. `fig13_red_flags.png` — scam warning-sign checklist graphic (Ch13)
+15. `fig14_catalog_compounding.png` — illustrative backlist income compounding (Ch14, labeled illustrative)
+16. `fig15_first_year_roadmap.png` — 12-month phase timeline (Ch15)
+
+Two figures (`fig05`, `fig12`) were redesigned from static two-column
+checklists into branching workflow/decision diagrams after the user flagged
+the original set as "too generic" and asked for something about workflows
+— see status log.
 
 ## Status log
 
@@ -145,3 +157,52 @@ Closing Word.
   factual/numeric errors); no reader has verified the KDP policy specifics
   (price bands, keyword-slot count, royalty formulas) against KDP's current
   live help pages, which the book itself repeatedly tells readers to do.
+
+- 2026-09-27 (later): user feedback — several figures read as generic
+  (static two-column checklists) where the underlying content was actually
+  a process. Added three new workflow diagrams (the whole book as one
+  8-stage pipeline for Ch1, the 4-pass editing pipeline for Ch4, the ad
+  auto-to-manual cycle with its ongoing-refinement loop for Ch10) and
+  redesigned `fig05` and `fig12` from static comparisons into a branching
+  formatting workflow and a Select-vs-Wide decision flow, respectively.
+  One layout bug caught on the first render and fixed before shipping: the
+  curved connector arrows from "Finished Manuscript" into each column in
+  the new `fig05` crossed directly through the "EBOOK PATH"/"PRINT PATH"
+  header text — shortened the arrows to stop at the column's top edge
+  instead of continuing down into the header's vertical space. 14
+  illustrations total after this pass. Pushed as a second commit to the
+  same PR (#18) rather than amending.
+
+- 2026-09-28: user said "continue writing." Rather than pad existing
+  chapters or insert new numbered chapters mid-book (which would force a
+  renumbering cascade across every later chapter heading, every figure
+  caption, and every prose cross-reference like "Chapter 9" or "Ch 11" —
+  exactly the bug class the EE series' and History book's own status logs
+  describe fixing repeatedly after their renumbering passes), filled two
+  genuine content gaps by folding them into the most thematically-fitting
+  existing chapter, so no other chapter's number, figure number, or
+  cross-reference needed to change:
+    - Chapter 7 (renamed "Categories, Keywords, and Your Product Page")
+      gained a full section on writing the Amazon book description itself
+      — the hook/promise/bullets/proof/CTA structure, a before-and-after
+      worked example, and Author Central vs. A+ Content — since the
+      description is a real, previously-missing third pillar of "the
+      product page" alongside the cover (Ch6) and categories/keywords.
+    - Chapter 14 gained an audiobooks/ACX section (DIY narration vs.
+      royalty share vs. pay-per-finished-hour vs. the newer AI/"Virtual
+      Voice" option, the exclusivity trade-off vs. going wide, a worked
+      cost example, and a note on which books suit audio at all) — a
+      second-format revenue lever that fits the chapter's existing
+      "extend a catalog's earning power" theme exactly.
+  One new figure added (`fig07b_product_page_anatomy.png`, a 5-stage
+  workflow reusing the same `_vertical_workflow` helper the Ch1/Ch4/Ch10
+  diagrams already use) — correctly numbered Figure 7.2 since Chapter 7
+  already had a Figure 7.1 (the keyword funnel). Deliberately did NOT add
+  a figure to the audiobooks section: its three routes are a menu of
+  parallel options, not a sequence, and the worked-example box already
+  gives it the concrete treatment without forcing a diagram where the
+  content doesn't call for one. Also updated `fig01_publishing_workflow`'s
+  "Set Metadata" stage label to "Set Metadata & Listing Copy" to reflect
+  Chapter 7's wider scope — no chapter numbers in that figure needed to
+  change, since none of the chapters they reference were renumbered.
+  16 illustrations total after this pass; word count ~13,600.

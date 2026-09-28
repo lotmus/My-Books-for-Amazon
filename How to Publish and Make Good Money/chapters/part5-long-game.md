@@ -76,6 +76,69 @@ sales:
   ad auctions, or luck — the single most durable hedge against any one
   platform changing its rules on you.
 
+### A second format, mostly for free: audiobooks
+
+There's a third format beyond ebook and print, and it extends a catalog the
+same way bundles and an email list do: almost all of its cost is paid once,
+against content that already exists. **ACX** (Audiobook Creation Exchange)
+is Amazon's audiobook platform, producing for Audible, Amazon, and iTunes
+from one submission — the audio equivalent of KDP itself.
+
+**Three ways to get a finished audiobook, at three very different price
+points:**
+
+- **Narrate it yourself.** Zero cost beyond your own time and reasonably
+  decent recording equipment. A real option for nonfiction in particular, if
+  the author has a clear, listenable voice — readers of a how-to guide are
+  often buying the author's judgment as much as the words, and hearing it in
+  their own voice is not a downgrade.
+- **Royalty share with a narrator.** No upfront cash — the narrator is paid
+  out of future royalties instead of a fee, typically splitting close to
+  evenly with the rights holder. This is the standard route for an author
+  with no production budget but a book (or catalog) with a real chance of
+  actually selling, since a narrator taking a royalty-share deal is, in
+  effect, betting on the book too.
+- **Pay-per-finished-hour (PFH).** A professional narrator, paid a flat fee
+  for each finished hour of audio — commonly several hundred dollars per
+  hour, which puts a full-length audiobook's upfront cost in the
+  low-to-mid thousands. You keep the full royalty going forward; you also
+  carry the entire financial risk if the audiobook doesn't earn it back.
+
+**A newer, fourth option**: Amazon has been rolling out **AI-narrated
+("Virtual Voice") audiobooks** directly through KDP for eligible titles, at
+little to no cost — a real, current alternative to the three routes above
+for an author testing whether their book's audience wants audio at all
+before committing real money to it. Eligibility, available voices, and
+quality have been moving targets since this feature launched; check your
+own KDP dashboard for what's actually offered before assuming it works the
+way an older article describes.
+
+::: {custom-style="WorkedExample"}
+**Worked example.** A pay-per-finished-hour audiobook running 6 finished
+hours at $300/hour costs **$1,800** upfront, fully owned by the author
+afterward. The same book via royalty share costs **$0** upfront, but every
+future audiobook royalty is split with the narrator, indefinitely. Neither
+choice is simply "better" — PFH is the better bet for a book with proven
+sales already (Chapters 2 and 15 show you how to tell); royalty share is
+the better bet for a first audiobook on an unproven title, since it caps
+the downside at zero.
+:::
+
+Exclusivity works the same trade-off shape as KDP Select (Chapter 12): ACX
+offers a meaningfully higher royalty rate for audiobooks distributed
+**exclusively** through Audible, Amazon, and iTunes, against a lower rate
+for **non-exclusive** distribution that also reaches other audiobook
+retailers and library platforms. Check ACX's current royalty table before
+committing — like every rate in this book, it's a real number that changes
+over time, not a fixed constant.
+
+Not every book belongs in audio. A book that leans on charts, worked
+numerical examples, or anything the reader needs to *see* translates
+poorly to a listen-only format — this book's own royalty-cliff chart and
+break-even ACOS math, read aloud with no image to look at, would be a
+worse experience than the page version, not an equal one. A narrative
+nonfiction book, a memoir, or a novel has no such problem. Know which kind
+of book you've written before assuming audio is the obvious next format.
 
 ## Chapter 15: A Realistic First-Year Plan
 

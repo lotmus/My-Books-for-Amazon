@@ -1,6 +1,6 @@
 # Part III — Getting Discovered
 
-## Chapter 7: Categories and Keywords, Done Right
+## Chapter 7: Categories, Keywords, and Your Product Page
 
 A shopper finds your book two ways: searching for it directly, or browsing a
 category and encountering it. Keywords control the first path, categories
@@ -85,6 +85,86 @@ first choice as permanent; if a category isn't producing visibility after a
 reasonable window, it costs nothing to request a better-fitting one.
 :::
 
+### Your product page: the description does the selling the cover can't
+
+The cover (Chapter 6) earns the click. The **book description** — the block
+of text on the product page, up to 4,000 characters, with light HTML
+formatting available (bold, italics, line breaks, bullet lists) through
+KDP's description editor — is what turns that click into a sale. It is
+advertising copy, not a table of contents, and the single most common
+mistake is writing it like the second thing instead of the first.
+
+**The shape that works, in order:**
+
+1. **A hook, in one or two sentences.** Open on the reader's actual problem
+   or the transformation they want, not on your book's topic. "Most new
+   authors lose money on their first book" earns another sentence of
+   attention; "This book is about self-publishing on Amazon" does not.
+2. **The promise.** One short paragraph on what the book delivers and, for
+   nonfiction specifically, *why this author* — credentials, results, or a
+   specific angle that differentiates it from the ten other books on the
+   same shelf.
+3. **A scannable bulleted list of concrete takeaways.** Most shoppers skim
+   rather than read a product description top to bottom; five to eight
+   specific, concrete bullets ("The exact royalty math behind the 70%/35%
+   split," not "Learn about royalties") do more conversion work than another
+   paragraph of prose.
+4. **Proof, if you have it.** A review pull-quote, a credential, a relevant
+   result — this section is optional and short; don't manufacture proof you
+   don't have.
+5. **A short call to action.** One line, telling the reader what happens
+   next ("Scroll up and grab your copy" reads as a cliché for a reason — it
+   works because it removes the last moment of friction before the buy
+   button).
+
+::: {custom-style="WorkedExample"}
+**Worked example — before and after.**
+
+*Before:* "This book covers how to publish on Amazon KDP. It talks about
+royalties, pricing, categories, keywords, and marketing. It is useful for
+anyone who wants to become a self-published author."
+
+*After:* "Most new authors lose money on their first book — not because the
+book is bad, but because nobody told them how the royalty math, the
+categories, or the ads actually work. **How to Publish and Make Good
+Money** fixes that, with the arithmetic shown every time. Inside, you'll
+learn: the exact price where your royalty rate cuts in half (and why most
+authors hit it by accident) · the seven keyword slots almost everyone
+wastes · a break-even ad formula you can run in your head · which
+KDP Select and going-wide decision actually fits your book. No
+guru pitch, no upsell — just the mechanics, shown, so you can run the
+numbers yourself."
+
+Same facts, same length limit — the difference is entirely in what got
+promoted to the first sentence and what got turned into something scannable
+instead of buried in a paragraph.
+:::
+
+::: {custom-style="FigureCaption"}
+![](figures/fig07b_product_page_anatomy.png)
+
+**Figure 7.2** — The description's job, in order. Skip the hook and open on
+your topic instead, and most shoppers never reach the part where you
+actually make your case.
+:::
+
+**Two more product-page pieces, both free and easy to skip:**
+
+- **Amazon Author Central.** A free profile — bio, photo, and every book you
+  publish under that name, automatically linked — that turns a single-book
+  sale into a chance to be discovered as an author with a catalog (Chapter
+  14). There's no reason not to set this up on day one.
+- **A+ Content (Enhanced Brand Content).** Image-and-text modules that can
+  appear further down the product page. Eligibility and setup have changed
+  more than once and vary by account, so treat this as "worth checking your
+  current KDP dashboard for," not as a guaranteed day-one option the way
+  Author Central is.
+
+Like price and keywords, the description isn't a one-time decision — it's
+editable the same afternoon you notice it isn't converting, at zero cost.
+If a book has decent traffic (from ads or category placement) but a weak
+conversion rate, the description is one of the first three places to look,
+right alongside the cover and the price.
 
 ## Chapter 8: Pricing for Profit
 
