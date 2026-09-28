@@ -5766,7 +5766,7 @@ Spacetime for Investigators
 A Short Course from the Relativistic Investigation Bureau
 This is not decorative back matter. It is the training course the Bureau pretends its staff have already passed. 
 By the end you should be able to explain the central ideas yourself — allegedly — and see why Case 1047 could only happen in a universe with reference frames, proper time, and causal structure. The novel was the exam. This is the worked solution, with jokes still attached.
-Prerequisite: curiosity, arithmetic, a little algebra, and the willingness to let 'obviously' lose an argument.
+Prerequisite: curiosity, arithmetic, a little algebra, a willingness to let 'obviously' lose an argument, and to look at one equation near the end you won't be asked to solve.
 How each lesson works: 
 Learning objective — what you should be able to do. 
 Teaching — the physics under the joke, in ordinary language. Lesson checkpoint 
@@ -5914,7 +5914,7 @@ Here Δt is the time between the two events, and Δx is their separation in spac
 The individual space and time measurements can change. This combination stays the same.
 Worked check, using the same event as before: in A's frame, s² = c²Δt² − Δx² = 4² − 3² = 7 (in units where c = 1 light-second per second). In B's frame, using the transformed values from a moment ago, s² = 2.75² − 0.75² = 7.5625 − 0.5625 = 7. Same number, different coordinates - that's the invariance, not just an assertion of it.
 s² is what stays the same when the stationery changes. Case 1047 kept rewriting its fields because the Bureau was editing labels and calling the edits news. The interval does not care which drawer you stamp.
-This chapter uses the timelike-positive convention — one of two equally valid ways to assign plus and minus signs to space and time in the interval formula. A later chapter uses the equally valid mostly-plus convention, where those signs are simply flipped throughout.
+This chapter uses the timelike-positive convention — one of two equally valid ways to assign plus and minus signs to space and time in the interval formula. 
 
 
 The first major lesson of relativity is this: 
@@ -5934,7 +5934,7 @@ The speed of light in vacuum, and the spacetime interval between the same two ev
 Lesson 3
 Time May Be Less Fundamental
 Module A · Foundations of Special Relativity
-Case link: Chapters 5 & 15. Learning objective: Distinguish coordinate time from proper time along a worldline; reject universal Newtonian now.
+Case link: Chapter 5. Learning objective: Distinguish coordinate time from proper time along a worldline; reject universal Newtonian now.
 → Glossary: Proper Time · Worldline
 Proper time: two worldlines between the same two events accumulate different amounts of elapsed proper time. Fly an atomic clock on a plane and keep an identical one on the ground, and the difference is measurable, not hypothetical. Two effects act on the airborne clock at once, though, and they pull in opposite directions: its speed slows it, its extra height in Earth's weaker gravity speeds it up. Which one wins depends on the flight.
 → Glossary: GPS Correction
@@ -6141,11 +6141,7 @@ It is also an excellent metaphor for something real. Physics is full of boundari
 The picture makes this concrete. Derek chooses one place as his zero point and labels the marked location at the door "four metres." Penny chooses a zero point two metres closer and labels that same location "two metres." Both labels work. Neither person has misplaced the door. They have simply started counting from different places.
 
 The underlying physics doesn't change merely because the description changes: the door's position label depends on the chosen origin, but whether that same door is open at the event being described does not.
-If changing coordinates could change the door itself, Derek could quite legitimately say:
-"The door is open in my coordinate system."
-And Penny could reply:
-"Yes, but it's closed in mine."
-Trevor would then require a slap.
+If changing coordinates could change the door itself, Derek could legitimately claim it was open while Penny insisted it was closed — and Trevor would require a slap, not a physics lesson.
 But changing coordinates cannot do that. It cannot turn the handle, swing the hinges, or put a wooden panel across an empty doorway. Those are physical changes. They require something to happen to the door, not merely something to happen to the numbers used to describe it.
 Keep that distinction in reserve. Nothing in this lesson says two events already known to be separate can be merged into one by relabelling them — and Case 1047's eventual resolution is not a relabelling of one door. It is a claim that two apparently separate events were never two to begin with. That is a far stronger, and far rarer, claim than anything in this lesson, and when it arrives, it will need to earn it.
 The same discipline applies when the coordinates describe time as well as space. Before comparing two labels, we must ask what each label means and which event it identifies. Different labels can identify the same event. A disagreement between labels is not, by itself, a disagreement about what physically happened.
@@ -6234,7 +6230,7 @@ Learning objective: State the area-law clue for black-hole entropy and what holo
 
 Derek's filing cabinet was full. This was an established fact, supported by the drawer that no longer shut.
 Ordinarily, the remedy would be a larger cabinet. Double its width, height and depth, and there would be eight times as much room for files. Trevor would fill it in a fortnight, but that was a staffing problem.
-Black-hole physics suggests a stranger kind of accounting. When physicists calculate a black hole's entropy, the quantity that matters is the area of its horizon. That unexpected result helped inspire the holographic principle: a theory describing a region with gravity may have an equivalent description on a boundary with one fewer spatial dimension.
+Black-hole physics suggests a stranger kind of accounting. When physicists calculate a black hole's entropy (roughly: how disordered or unpredictable its microscopic details are), the quantity that matters is the area of its horizon. That unexpected result helped inspire the holographic principle: a theory describing a region with gravity may have an equivalent description on a boundary with one fewer spatial dimension.
 → Glossary: Holographic Principle
 The filing cabinet is an analogy. Please do not attempt the experiment with the Bureau's furniture. 
 What the black holes tell us: A black hole's event horizon is the boundary beyond which light cannot escape to distant observers. It is not a solid shell.
@@ -6297,7 +6293,7 @@ The film's alternative lives are a storytelling device. They are not a working m
 Treat it as you would the ordinary cucumber: an excellent aid to intuition and completely inadmissible as evidence.
 What catches Penny's attention is a question the book has been asking since Chapter 2:
 What can change in a description without changing the thing being described?
-Consider a sentence translated from English into German. The words change. The grammar changes. With a good translation, the meaning survives.
+Consider a sentence translated from English into German. The words change. The grammar changes. With a good translation, the meaning survives - though a human translator still has to judge what "survives" means. A coordinate change is stricter than that: it is an exact, invertible map, not a judgement call.
 Physics has its own versions of this distinction. Coordinates label events. Change the labels correctly, and you have not changed the events.
 This does not mean every measured number stays the same. Different observers can measure different distances and durations. The requirement is that the descriptions fit together consistently: once you account for who is measuring what, they must agree on the prediction for the same physical experiment.
 Penny types:
@@ -6576,7 +6572,6 @@ Causal Structure. The pattern of which events can influence which others, determ
 Curvature. The departure of spacetime geometry from flatness, revealed by effects such as nearby freely falling objects accelerating relative to one another. Matter and energy influence curvature, but spacetime can be curved even in empty regions. No external dimension is required for it to bend into.
 Decoherence. The suppression of observable quantum interference as a system becomes entangled with its environment. It helps explain why everyday objects — including cucumbers — behave classically. By itself, it does not explain why a measurement yields one particular outcome.
 Einstein Equation. The central equation of general relativity, usually called the Einstein field equations. It relates spacetime curvature to the energy, momentum, and stresses of matter and fields. Matter influences geometry; geometry guides motion. The mathematics takes somewhat longer.
-Einstein Synchronisation. The convention that two distant clocks are set by assuming the one-way speed of light is the same in both directions. The two-way speed is measured; the one-way split is chosen.
 Equivalence Principle. In a sufficiently small, freely falling laboratory, nongravitational experiments behave as they would in an inertial laboratory without gravity. Over larger regions, tidal effects can reveal the difference. A foundation of general relativity, and the reason lifts feature so heavily in physics thought experiments.
 Event Coordinate. A name for where-and-when inside a chosen description of spacetime. Not proper time. A label, not a measurement of elapsed time along any particular clock's path.
 Event Horizon. The boundary of a black hole's region of no escape: once inside, no future-directed signal can reach the distant exterior. Not light. Not a strongly worded letter.
@@ -6586,7 +6581,6 @@ Hafele–Keating Experiment. A 1971 measurement in which atomic clocks flown aro
 Holographic Principle. The proposal, motivated by black-hole entropy, that a gravitational region's physical information can be described by degrees of freedom associated with a boundary of one fewer spatial dimension. Holographic dualities give this idea concrete form in particular theoretical settings. Its application to our universe remains an open question.
 Light Cone. The boundary between lightlike directions and the timelike or spacelike directions at an event. Its future and past portions show the local limits on where signals can go and where they can come from. Cucumbers must remain within the speed limit.
 Lorentz Transformation. A transformation relating space and time coordinates in inertial frames while preserving the spacetime interval. Transformations between frames in relative motion underpin time dilation, length contraction, and the relativity of simultaneity.
-Manifold. A space that can be described in small patches using ordinary coordinates, even when its overall shape or connectivity is more complicated. Earth's surface is a familiar example. A manifold provides the underlying space; a metric supplies its geometry.
 Metric. The mathematical object that determines local spacetime intervals and allows lengths and elapsed times to be calculated along paths. Its components depend on the coordinates chosen. Complicated coordinates can make even flat spacetime look mathematically unwelcoming.
 Pending Geometry. The Bureau's filing category for an event that looks like a crime only if you insist on a shared, universal "now." Not a punchline: the correct drawer for a coordinate label mistaken for a corpse.
 Pound–Rebka Experiment. A 1960 measurement of gravitational redshift over 22.5 metres of a tower at Harvard. Honest clocks, a small height difference, and a real, measurable disagreement.
