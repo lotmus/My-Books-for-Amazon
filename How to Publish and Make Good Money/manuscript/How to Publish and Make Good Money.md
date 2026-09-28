@@ -166,6 +166,18 @@ Look at who’s publishing in the category. A subcategory dominated by three or 
 
 Read the one- and two-star reviews on the current bestsellers in your topic, not the five-star ones. Five-star reviews tell you the book worked; one- and two-star reviews tell you exactly what it left out, explained by someone who wanted it to be there. That gap is your outline.
 
+> Worked example. Applying all four checks to one hypothetical category — a beginner’s guide to a specific hobby:
+
+Best Sellers vs. Hot New Releases: the all-time top 20 are dominated by three books published 6–10 years ago, each with 8,000+ reviews. Hot New Releases for the same category shows two books published in the last 90 days already at 40–60 reviews — live demand, not fossilized demand.
+
+Review count vs. publication date: one of those new entrants has 55 reviews after 10 weeks, roughly 5–6 a week — livelier than the older incumbents, who now average under 20 a week each.
+
+Who’s publishing: four different single-book authors published in the last 18 months sit alongside the three long-established incumbents in that top 20 — fragmented, not a closed shop.
+
+One- and two-star reviews on the incumbents: a specific complaint — no troubleshooting section for humid climates — recurs across dozens of reviews on all three bestsellers, and none of them has fixed it.
+
+None of that guarantees a sale. It tells you the category has live buyers, room for a new entrant, and one specific, checkable gap a new book could lead with in its own subtitle and description (Chapter 7) — the difference between “I think people want this” and “here’s what twenty minutes of browsing this exact category actually showed me.”
+
 ### Write to a shelf, not into a void
 
 Publishers call this “writing to a shelf” — knowing, before you write a word, which existing shelf your book would sit on, and what a reader browsing that shelf already expects. It sounds like it constrains creativity; in practice it’s the opposite of chasing a trend. Trend-chasing means noticing something is popular this month and racing to publish before the wave passes — by the time a trend is visible on Amazon’s charts, a meaningful number of other authors have already seen it too, and the category fills up fast. Writing to a shelf means picking a category with durable, structural demand (a persistent problem, a persistent hobby, a persistent stage of life) and writing the best specific answer to a specific reader’s specific question, rather than the broadest possible book that vaguely covers a popular topic.
@@ -528,6 +540,14 @@ Going wide means distributing the ebook to multiple retailers and library platfo
 
 A reasonable default for a new author with no existing data: enroll the first book (or series) in Select for one 90-day term, watch the actual page-read numbers against what wide distribution would plausibly have earned, and make the next term’s decision from real data instead of a genre-wide generalization.
 
+> Worked example. A 300-KENPC-page nonfiction ebook at $4.99 (net 70% royalty ≈ $3.31/copy after the delivery fee, per Chapter 2), against 300 reader engagements over one 90-day term:
+
+All 300 as direct purchases, wide distribution, comparable net across stores: 300 × $3.31 ≈ **$993** for the term.
+
+The same 300 readers under Select, but 120 of them read the book in full through Kindle Unlimited instead of buying it (at Chapter 2’s illustrative $0.0045/page rate): 180 direct sales (180 × $3.31 ≈ $595.80) plus 120 full KU reads (120 × 300 pages × $0.0045 ≈ $162) ≈ **$757.80**.
+
+In this illustration, wide comes out ahead per reader, because a full KU read at $1.35 is worth less than a $3.31 sale. Select only wins the comparison when it brings in readers who would not have bought at $4.99 at all — a number this book cannot supply for your specific book, your genre, or your audience. That missing number is exactly why the advice above is to run one real term and read your own dashboard, not to trust this arithmetic, or anyone else’s, for a decision this dependent on who your actual readers are.
+
 > **Certainty, labeled.** Kindle Unlimited tends to matter most for genres with heavy series readers who consume books quickly (romance, fantasy, thriller fiction, in particular) and matters less for many nonfiction categories, where a reader may buy once rather than subscribe-and-binge. That is a widely observed pattern among authors, not a KDP-published rule — “tends to” is not a guarantee for your specific book, which is exactly why testing one real term beats assuming either way.
 
 ## Chapter 13: Avoiding the Traps
@@ -650,7 +670,9 @@ Amazon’s written rules are treated as constraints. Ranking talk is labeled as 
 
 > **Terms used in this chapter.** ARC: advance reader copy, sent before the book is live. KU / Select: Kindle Unlimited and KDP Select, Amazon’s borrow-and-subscription program. ASIN: the product ID a book receives on publication — no review can post before it exists. EPUB: the reflowable file format every e-reader except Kindle actually wants.
 
-### I. Selling a few copies is not a business
+A note on the examples ahead: the public field reports this chapter can actually check — named authors, real numbers, a real launch date — mostly come from fiction, because fiction authors publish that kind of detail far more often than nonfiction authors do. The mechanics don’t care: a review-eligibility rule, a royalty band, and a launch-week concentration effect work identically on a novel and a how-to guide. Read “book one” and “series” below as your nonfiction title and your line of related titles (Chapter 14) — the arithmetic transfers directly, even where the example doesn’t.
+
+### Selling a few copies is not a business
 
 Most debut Kindle books do sell. They sell to the author, a handful of acquaintances, and whoever stumbles in during the week the title is new. Then the week ends. Best Sellers Rank slides. Ads, if they ran at all, start costing more than they return. The author concludes that “self-publishing doesn’t pay” after sampling a market that never saw a trustworthy product page.
 
@@ -662,11 +684,11 @@ The rest of this book is the sequence that makes those two sentences operational
 
 > **Key takeaway:** Reviews and price are not marketing decoration on top of a finished book — they are the two levers that decide whether a finished book becomes a business. Get the sequence right (proof before spend, price for the band and for the catalog) and everything else in this chapter is mechanics.
 
-### II. Where the money actually comes from
+### Where the money actually comes from
 
 #### Not from the first ten cousins
 
-Friends and family can put a number on a dashboard. They cannot put you in “Customers who bought this also bought.” They cannot teach Amazon who the book is for. They often cannot review without violating Community Guidelines — the $50 spend-history rule in §VI is the specific trap. Count them as a rounding error. If the business plan requires them, there is no business plan.
+Friends and family can put a number on a dashboard. They cannot put you in “Customers who bought this also bought.” They cannot teach Amazon who the book is for. They often cannot review without violating Community Guidelines — the $50 spend-history rule described later in this chapter is the specific trap. Count them as a rounding error. If the business plan requires them, there is no business plan.
 
 #### From conversion on paid and organic traffic
 
@@ -680,7 +702,7 @@ A standalone debut has one chance to collect money: that purchase or those pages
 
 Unlimited complicates the picture in a useful way. A borrow counts commercially at the door. Pages after that pay from a pool. A book that converts borrows but loses readers at chapter two is a leak. Advance readers who finish — or who stop and say why — are cheaper than learning that leak from a month of ads.
 
-### III. The first-review problem, restated as cash flow
+### The first-review problem, restated as cash flow
 
 Launch week is the only cheap moment in which your own list, incoming advance-copy posts, and any small test of ads can occupy the same window. Amazon weights what happened recently. Spend that window on a page with no testimony and you convert poorly. Spend it on a page that already contains a few independent paragraphs and more of the same visitors become units. Units are what the store knows how to extend.
 
@@ -690,7 +712,7 @@ A Select free day is not a substitute. Free downloads do not count as paid sales
 
 > **Certainty, labeled.** If Amazon never uses review count internally, shoppers still see the empty module, newsletter editors still use it as a gate, and ads still die on untrusted pages. The cash-flow case does not require an occult coefficient.
 
-### IV. Price: what KDP will pay you
+### Price: what KDP will pay you
 
 On Amazon.com, the 70 percent ebook option applies when the list price sits in the published band — $2.99 to $12.99 after the July 2026 expansion — and you have actually selected that option. Outside the band you earn 35 percent. Delivery cost (on the order of $0.15 per megabyte of the file) is deducted under 70 percent and not under 35 percent. A lean novel file makes 70 percent unambiguously better inside the band. An illustrated file can nibble the advantage; check the size.
 
@@ -712,7 +734,7 @@ A worked contrast for a heavier file: a 20 MB illustrated nonfiction title at $9
 
 Print is a separate ledger. Paperback royalties are list minus print cost times the print rate, which Amazon has tightened in recent years on lower-priced paperbacks. Do not set ebook price by paperback vanity. Do not set paperback price so low the print cost eats it — print cost does not care how proud you are of the cover.
 
-### V. Initial price versus later price
+### Initial price versus later price
 
 Skip to whichever subsection matches where you actually are — a debut with nothing behind it, or a series with at least one sequel live. The math does not agree with itself across the two cases, on purpose.
 
@@ -757,13 +779,13 @@ $0.99 on book one during a new-release window in the series is the Select-compat
 
 If the title is in Select, a $0.99 or free window still pays you when KU readers actually read. That makes a launch discount less suicidal than it is outside Select — provided people finish. If they do not finish, you have paid for sampling that produced neither royalty nor a review. Advance copies exist partly to find that out privately.
 
-### VI. The constraint that keeps the money
+### The constraint that keeps the money
 
 Amazon’s help text: you may give a free or discounted copy; you may not require a review, steer it, or add a gift. Friends, employees, and author-for-author swaps sit outside the fence. Unverified advance-copy reviews still display. They simply lack the purchase badge. Chasing the badge with refunds is how listings get cleaned.
 
 Enforcement has only gotten more aggressive, not less: Amazon has spent the last few years pulling flagged reviews — incentivized, traded, or machine-written — and closing accounts on both sides of the trade. One genuine, unsolicited paragraph from a stranger now outlives a hundred purchased five-star ratings that vanish in the next sweep. Confirm the current Community Guidelines before you build a roster; this is the part of the rulebook that moves the most.
 
-A second, separate rule now applies to the manuscript itself, not just its reviews. KDP requires disclosure of AI-*generated* content — text, images, or translations an AI tool produced, even if you edited the result afterward — but not of AI-*assisted* content, where you wrote it yourself and a tool only edited, refined, or helped you brainstorm. The distinction is Amazon’s to draw, not this book’s judgment call: get it wrong and the risk is the listing coming down. Disclosure happens privately at upload and never appears on the product page, so a reader cannot tell either way — which is exactly why the honesty is owed to Amazon, not performed for a shopper. See [KDP Help: Content Guidelines](https://kdp.amazon.com/en_US/help/topic/G200672390) (G200672390) before you check either box.
+A second, separate rule applies to the manuscript itself, not just its reviews: KDP requires disclosure of AI-generated content, on a distinction that is Amazon’s to draw, not an author’s judgment call. Chapter 17 states that rule in full, with the exact line KDP draws between disclosed and undisclosed use — read it before you check either box on the AI-content questionnaire.
 
 #### Who is allowed to post on Amazon
 
@@ -792,7 +814,7 @@ It will not always be a good one. Amazon does not remove a review for being crit
 
 Do not reply to it. An author’s public reply sits permanently under the review, and a defensive one reads worse than the original star rating ever did. If the review names a real production fault — a broken table, a missing chapter, a formatting error — fix the file and move on; the fix helps the next hundred readers more than an argument with one of them ever would.
 
-A single candid three-star review that names a specific gripe is, by most working authors’ own account, worth more to a cold shopper than another five-star repeating “loved it.” A page of nothing but superlatives reads like a page nobody dared to be honest on. Recruit for honest reactions, not for unanimous ones; the ARC form in §VII already asks for exactly that.
+A single candid three-star review that names a specific gripe is, by most working authors’ own account, worth more to a cold shopper than another five-star repeating “loved it.” A page of nothing but superlatives reads like a page nobody dared to be honest on. Recruit for honest reactions, not for unanimous ones; the ARC form described below already asks for exactly that.
 
 #### Running the roster without breaking the rule
 
@@ -811,7 +833,7 @@ BookFunnel and StoryOrigin exist so you do not teach this one reader at a time.
 
 > **Key takeaway:** Every rule in this section exists to answer one question honestly — did a real reader choose to say this? A free copy, a spend threshold, a disclosure checkbox, and a delivery method are all just plumbing in service of that one fact. Optimize the plumbing all you want; never touch the fact itself.
 
-### VII. The free pipeline, now as a profit tool
+### The free pipeline, now as a profit tool
 
 Open the form the week the draft hits KDP. Aim for thirty to fifty people if you want something near ten posts. Send two to three weeks before live. Ask for Amazon reviews only when the form exists. Paid matching services, if you use one, prefer a runway of about forty days and a title that is not already stale.
 
@@ -835,13 +857,13 @@ Where the link goes: Facebook group search for Indie Fantasy Addicts ARC and Bet
 
 Recruit from a list first, then your own channels, then groups that exist for advance copies. Screen for genre and a real profile. Tag Core / Soft / Out after the campaign. Core is invited next time because they posted, not because they awarded fireworks. Measure downloads over sends, posts over sends, and Core next time over Core this time. Vanity retention of people who never opened the file is how catalogs stay hobbies.
 
-### VIII. What to pay for — only if it raises expected value
+### What to pay for — only if it raises expected value
 
 Pay to fill a hole in the funnel, not to soothe anxiety. No names: a capped matching service (BookSirens Promote or Booksprout). Kindle tickets eating the week: BookFunnel’s mail tool. Desire to trade newsletters later: StoryOrigin. Librarians: NetGalley, which will not print ten Amazon reviews on a budget. Two finder networks on one title is waste — the same reader does not convert twice as fast for being found by both of them.
 
 A bounded BookSirens experiment — listing fee plus a few dollars per reader they find who downloads, capped at twenty-five — is cheaper than a month of ads onto an empty page. You are buying downloads from people who asked to read, not guaranteed sentences. The review remains optional. That is the point.
 
-### IX. After the listing can bear traffic
+### After the listing can bear traffic
 
 Select is a ninety-day exclusive that pays Unlimited pages and offers either five free days or a Countdown. Free days after proof, announced to someone, can be acquisition. Free days before proof, announced to no one, are a tree in an empty forest. A Countdown keeps a price and a 70 percent royalty if you remain in band; it is for books that already sell.
 
@@ -849,7 +871,7 @@ Wide, if you decline Select: Draft2Digital to other stores and library vendors. 
 
 Ads belong after the module is no longer empty and after price sits where you intend to live. Otherwise you are paying to demonstrate that untrusted pages do not convert — a lesson this book was meant to spare you.
 
-### X. A sequence that is allowed to mention money
+### A sequence that is allowed to mention money
 
 ![The launch timeline as a pipeline: upload week, 2-3 weeks out, live week, weeks 3-6, and book 2 in hand, each with its money reason](../figures/fig01_launch_timeline.png)
 
@@ -869,7 +891,7 @@ Ads belong after the module is no longer empty and after price sits where you in
 
 > The book is live. Optional honest review: https://www.amazon.com/review/create-review?asin=YOURASIN
 
-### XI. Field reports — what published accounts actually show
+### Field reports — what published accounts actually show
 
 > **Certainty, labeled.** Blogs and author interviews are not laboratories. They are still better than folklore, provided you notice who already had a list before the launch you are reading about. The pattern that repeats is not magic — it is proof on the page, a price that can move, and something to sell after book one.
 
@@ -913,11 +935,11 @@ Sell’s $3.99 hold is this alternative. So is the Kboards report of raising to 
 
 ##### Promo stacking after proof
 
-Freebooksy, Bargain Booksy, Fussy Librarian, and stacked partners are how many midlist fiction authors create a second spike. Ricci Wolman of Written Word Media has described stacking several lists on a planned price cut rather than lighting a silent free day. Those sites often want a review floor. That is the hinge: ARCs first, stack later.
+Freebooksy, Bargain Booksy, Fussy Librarian, and stacked partners are how many midlist fiction authors create a second spike. The commonly reported practice is stacking several lists on one planned price cut rather than lighting a silent free day. Those sites often want a review floor. That is the hinge: ARCs first, stack later.
 
 ##### Wide and slow
 
-Plans published via Jane Friedman’s site, including first-year notes from authors building across several stores, treat success as steady doubling rather than an Amazon spike. Libraries and Apple promotions via Draft2Digital become part of the engine. Reviews still matter on every storefront. Select free days and permafree book one cannot share a title. Different calendar, real business.
+Published first-year accounts from authors building across several stores at once treat success as steady doubling rather than an Amazon spike. Libraries and Apple promotions via Draft2Digital become part of the engine. Reviews still matter on every storefront. Select free days and permafree book one cannot share a title. Different calendar, real business.
 
 ##### What the blogs get wrong
 
@@ -925,7 +947,7 @@ Some street-team posts tell you to make advance readers buy the live book so the
 
 The accounts that hold together share three facts. Someone read the book before the crowd arrived. The price either sat in the 70 percent band or was a temporary tax paid to move people into a sequel. There was a next title, a list, or both. Missing all three is how a book sells to cousins and then stops.
 
-### XII. Claims that do not survive a spreadsheet
+### Claims that do not survive a spreadsheet
 
 - That a debut should open at $0.99 to get reviews. Reviews come from people who agreed to read, not from a royalty you set on fire.
 - That $1.99 is a friendly compromise. It is often a 35 percent trap that earns less than $2.99.
@@ -1044,7 +1066,7 @@ If the goal is genuinely to build on someone else's existing work rather than yo
 
 - [ ] Tax interview (W-9 / W-8BEN / W-8BEN-E) completed and correct (Chapter 11)
 
-- [ ] AI-content disclosure answered honestly, if applicable (Chapter 4)
+- [ ] AI-content disclosure answered honestly, if applicable (Chapter 4; Chapter 17 has the full disclosure rule and the trap to avoid)
 
 - [ ] KDP Select enrollment decided on purpose, not left on autopilot (Chapter 12)
 
@@ -1100,6 +1122,6 @@ A tax professional familiar with royalty or self-employment income, for the spec
 
 ## A Closing Word
 
-Nothing in this book is complicated on its own. Royalty math is arithmetic. Keyword slots are a form field. A launch is a calendar with the same events moved closer together. What makes self-publishing hard isn’t any individual step — it’s that all fifteen chapters’ worth of steps land on one person, and it’s tempting to skip the unglamorous ones (a real editing pass, an honest category choice, the tax interview) in favor of the exciting one (hitting publish).
+Nothing in this book is complicated on its own. Royalty math is arithmetic. Keyword slots are a form field. A launch is a calendar with the same events moved closer together. What makes self-publishing hard isn’t any individual step — it’s that all seventeen chapters’ worth of steps land on one person, and it’s tempting to skip the unglamorous ones (a real editing pass, an honest category choice, the tax interview) in favor of the exciting one (hitting publish).
 
 The authors who make good money at this aren’t the ones who found a secret Amazon doesn’t want you to know. They’re the ones who did the plain, checkable, occasionally tedious work in every chapter of this book, on purpose, in order, and then did it again for the next book — because by the second time, most of it was already fixed cost, paid off. That’s the whole secret, and it was never actually a secret. Go write something worth finding.
