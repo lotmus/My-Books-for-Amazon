@@ -5867,6 +5867,7 @@ None of this is hypothetical.
 The satellites that make a phone's map work are moving fast enough, and sitting high enough out of Earth's gravity well, that both effects discussed in this book — Special Relativity's time dilation from speed, and General Relativity's time dilation from gravity — apply to their onboard clocks simultaneously, pulling in opposite directions. 
 Engineers correct for it deliberately, every single day, or a phone's position would drift by several kilometres a day. The Bureau finds this less remarkable than most people do. The Bureau finds most things less remarkable than most people do.
 The Bureau's brass clock is not a satellite. It is doing a ruder job: displaying a label as if it were a tick.
+One more term worth planting here, since the checkpoint below uses it: two observers can disagree about whether two events happened "at the same time" - that disagreement is called simultaneity, and it's exactly what Lesson 2 examines in detail. Nothing about it breaks physics. It just means "at the same time" needs a frame attached.
 
 Lesson checkpoint
 Special Relativity starts with two postulates, and the constancy of light forces space and time to transform together.
@@ -5890,6 +5891,7 @@ x′ = γ(x — vt)
 t′ = γ(t — vx/c²)
 Here c is the speed of light in vacuum, and γ is the Lorentz factor.
 Do not panic. γ is merely a number that becomes increasingly annoying as your speed approaches the speed of light. The important thing is that space and time transform together.
+A quick worked example, with v = 0.6c (so γ = 1.25, a clean number to check by hand): suppose A clocks an event at x = 3 light-seconds, t = 4 seconds. Then x′ = 1.25 × (3 − 0.6×4) = 0.75 light-seconds, and t′ = 1.25 × (4 − 0.6×3) = 2.75 seconds. B assigns the same event different numbers on both counts - and that's the whole transformation, run once, by hand.
 Look at the time equation: B's time depends on both A's time and A's position. That position term is why two events happening at the same time in A's frame can happen at different times in B's.
 This explains the diagram. Each coloured line shows what one observer considers to happen at the same time as Event 1.
 A's teal line passes through both events. A says they happen at the same time.
@@ -5904,6 +5906,7 @@ A key invariant is the spacetime interval. For the one-dimensional motion used h
 s² = c²Δt² — Δx²
 Here Δt is the time between the two events, and Δx is their separation in space. All inertial observers calculate the same value of s² for the same pair of events, provided they use the same sign convention.
 The individual space and time measurements can change. This combination stays the same.
+Worked check, using the same event as before: in A's frame, s² = c²Δt² − Δx² = 4² − 3² = 7 (in units where c = 1 light-second per second). In B's frame, using the transformed values from a moment ago, s² = 2.75² − 0.75² = 7.5625 − 0.5625 = 7. Same number, different coordinates - that's the invariance, not just an assertion of it.
 s² is what stays the same when the stationery changes. Case 1047 kept rewriting its fields because the Bureau was editing labels and calling the edits news. The interval does not care which drawer you stamp.
 This chapter uses the timelike-positive convention — one of two equally valid ways to assign plus and minus signs to space and time in the interval formula. A later chapter uses the equally valid mostly-plus convention, where those signs are simply flipped throughout.
 
@@ -5921,7 +5924,6 @@ Do not add velocities using the old Newtonian rule. Ordinary velocity addition i
 Exit Form
 What stays the same for all inertial observers?
 The speed of light in vacuum, and the spacetime interval between the same two events.
-speed of light
 
 Lesson 3
 Time May Be Less Fundamental
@@ -6247,6 +6249,7 @@ The lower panel shows the next idea. The bulk is the higher-dimensional interior
 The double arrow means that physical questions can be translated between the descriptions. It is not a beam projecting objects into the interior. The drawn waves suggest field activity; they are not a literal map of individual particles to matching boundary bumps.
 The boundary in this lower panel represents the boundary used in a holographic duality. It should not be confused with the black-hole horizon pictured above. Time is omitted from the drawing.
 It is also not Trevor's Klein bottle, whatever the passing resemblance. His desk ornament has no well-defined inside or outside because of its topology, a fact about the shape of glass and nothing to do with holography. The boundary above has two perfectly ordinary sides; the interesting part is that each side's physics can be translated into the other's.
+Pause here for a moment - that's the black-hole half of the lesson, and it's already a real, settled result, not speculation. What follows is a specific, much more debated idea about how far that area-rule clue might generalise. Worth slowing down for.
 An example that does some work: holographic duality (often taught under the label AdS/CFT). AdS is Anti-de Sitter space, a particular negatively-curved gravitational geometry; CFT is a Conformal Field Theory, a quantum theory living on its boundary with no gravity of its own. In plain language: a world with gravity in one description can match a world without gravity in another — same bookkeeping, different nouns. Do not marry the acronym. Keep the idea: two descriptions, one structure.
 In plain terms: "negatively curved" means space that bends away from itself, like a saddle rather than a ball, and "conformal" means a description that only cares about angles and shapes, not absolute size.
 In Special Relativity, different observers use different coordinates. In General Relativity, different coordinate systems can describe the same geometry. In holographic duality, dramatically different-looking theories can describe the same physical system.
@@ -6270,7 +6273,7 @@ Lesson 12
 Not Actually a Multiverse
 Module D · Dual Descriptions 
 Case link: Chapter 13
-Learning objective: Use multiple descriptions as a thinking tool without confusing metaphor with evidence for a multiverse.
+Learning objective: Use multiple descriptions as a thinking tool without confusing metaphor with evidence for a multiverse, and meet the tensor - the object that makes "different description, same physics" precise.
 
 Different coordinates. Same events. Same invariant interval.
 Optional detour: You do not need this chapter to understand or solve the murder. It follows a thread from relativity into more speculative territory. Treat it as context, not evidence on the same footing as the Lorentz transformation.
@@ -6323,7 +6326,7 @@ Without quite meaning to, Penny has also approached the question Sherlock the do
 That is a speculative next step. It does not follow automatically from coordinate invariance or from a film about alternative lives. It asks whether some of the structure we take for granted might have a deeper explanation.
 Penny has not proved it.
 She has found a question worth asking.
-And that brings us towards tensors.
+And that brings us towards tensors - the object that makes "different description, same physics" precise, rather than just a nice turn of phrase.
 → Glossary: Tensor
 A tensor is a mathematical object whose components change according to definite rules when the coordinate system changes. Those rules let us distinguish the underlying object from the numbers used to represent it.
 Here is the short version, ahead of the careful one: a tensor is what a vector becomes once it has to track several directions' worth of information at once, and it still has to look sensible no matter which coordinate grid you draw it on.
@@ -6353,6 +6356,8 @@ An analogy can illuminate a concept without proving the concept. We have no proo
 Exit Form
 Does a film about parallel universes establish a physical multiverse?
 No.
+What does it mean to say a tensor's components "transform" when coordinates change?
+The individual numbers change; the physical relationship they express does not.
 
 
 Lesson 13
@@ -6409,7 +6414,7 @@ and regions that cannot be causally connected to it without exceeding the speed 
 If Derek sees something that appears to happen before its cause, we should first ask:
 Are those events actually causally connected? If not, the apparent reversal may simply be a consequence of the coordinate system. If they are causally connected and the story really reverses their order, then we have left ordinary Special Relativity and need some additional physics — or a very good explanation from the Relativistic Investigation Bureau.
 At which point Derek should probably stop buying train tickets.
-Events that are spacelike-separated can change order between frames. Events on a causal journey cannot. A train that "arrives before it left" is either two events wearing one noun, or a coordinate stunt. It is not a ticket to yesterday. Penrose's Andromeda paradox is the same lesson at galactic volume: a tilt of "now" is not a telegram.
+Events that are spacelike-separated can change order between frames. Events on a causal journey cannot. A train that "arrives before it left" is either two events wearing one noun, or a coordinate stunt. It is not a ticket to yesterday. Penrose's Andromeda paradox makes the same point at galactic scale: a small change in an observer's velocity can shift which distant events count as "now" by days, for a galaxy as far off as Andromeda. That shift in bookkeeping doesn't let anyone actually receive news early - a tilt of "now" is not a telegram.
 → Glossary: Andromeda Paradox
 
 
@@ -6432,6 +6437,7 @@ Learning objective: State what Einstein's equation relates (geometry ↔ matter-
 
 The Einstein field equation as a loop: matter tells spacetime how to curve, and spacetime tells matter how to move.
 And now Sherlock. A dolphin communicating General Relativity telepathically is not established physics. The Einstein field equations are.
+Before the harder material: Lesson 14 established that causal order - what can affect what - is frame-independent, even though simultaneity for spacelike-separated events isn't. Keep that distinction in your pocket. The equation below is what actually enforces it, mathematically.
 Tensors: Vectors' slightly more ambitious cousins. A vector is already rather clever.
 It can tell you something like:
 "Go three metres east and two metres north."
@@ -6442,7 +6448,7 @@ Scalar: one number.
 Vector: directional components.
 Tensor: components describing relationships between directions.
 So, in the spirit of the Relativistic Investigation Bureau: 
-A tensor is what happens when a vector gets promoted and starts having opinions about several directions simultaneously. 
+A tensor is what happens when a vector gets promoted and starts having opinions about several directions simultaneously - the same promotion Lesson 12 already gave it, worth repeating because the field equation is about to lean on it hard. 
 That is a useful analogy. It is not the formal mathematical definition.
 A tensor is not simply a "higher-dimensional vector." What matters is that its components obey specific transformation rules when we change coordinates, so that the underlying physical object remains well-defined.
 And that is exactly why tensors are so useful in General Relativity. Spacetime can be curved. Coordinates can be awkward.
@@ -6581,7 +6587,7 @@ Pound–Rebka Experiment. A 1960 measurement of gravitational redshift over 22.5
 Proper Time. The elapsed time measured by an ideal clock along its own path through spacetime. Observers may use different coordinates, but they agree on what that clock records between two events on its path.
 Reference Frame. A systematic way of assigning coordinates to events, usually tied to an observer's state of motion. An inertial frame is one in which free objects keep constant velocity.
 Simultaneity. The assignment of the same time to different events. Spatially separated events that are simultaneous in one inertial frame need not be simultaneous in another. Neither frame is mistaken; their definitions of "now" differ.
-Singularity. A breakdown or incompleteness of the classical spacetime description, often associated with unbounded curvature. Technically, a key sign is a freely falling or lightlike path that cannot be continued despite reaching its end in a finite path parameter. A singularity need not be an ordinary point within spacetime. The map itself has run out.
+Singularity. A breakdown or incompleteness of the classical spacetime description, often associated with unbounded curvature. As Lesson 6 puts it: a key sign is geodesic incompleteness - a free-fall path that simply cannot be continued further, the way an ordinary path normally could be. A singularity need not be an ordinary point within spacetime. The map itself has run out.
 Spacetime Interval. The invariant combination of spatial and temporal separation. In special relativity, inertial observers agree on it even when they disagree about distance and duration separately. In curved spacetime, the metric defines the corresponding local interval between infinitesimally nearby events.
 Stress-Energy Tensor. The tensor describing energy density, momentum density, energy flow, pressure, and shear stresses. It supplies the matter-and-fields side of the Einstein field equations. It constrains curvature, although it does not by itself determine the entire spacetime geometry.
 Tensor. A mathematical object whose components change according to precise rules when coordinates change, leaving the object itself unchanged. Scalars and vectors are simple examples; the metric and curvature tensors are more elaborate ones. Different numbers, consistent physics.
