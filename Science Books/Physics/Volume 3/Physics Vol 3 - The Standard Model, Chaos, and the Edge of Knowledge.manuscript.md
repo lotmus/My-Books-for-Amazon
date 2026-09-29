@@ -1,7 +1,5 @@
 # PHYSICS, ACTUALLY
 
-*Science for Everyone*
-
 **VOLUME 3**
 *The Standard Model, Chaos, and the Edge of Knowledge*
 

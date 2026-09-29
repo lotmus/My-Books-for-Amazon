@@ -725,7 +725,7 @@ Derek thought about it. "Only if the equations get it wrong. Then we're not inve
 "Then you start charging by the hour."
 Penny laughed. 
 Trevor already had the input file open. "Assume one event. Assume flat spacetime. Assume the two-hour gap is a frame disagreement."
-Derek admitted. "Run it."
+Derek allowed. "Run it."
 "I am running it," Trevor protested. "You are hovering. Hovering is not mathematics."
 Penny set the photograph flat on the desk and put her palm over Sophie's face. Not to hide her. To keep her from becoming a number we could solve. "She is not a variable."
 "I'm not ignoring her," Trevor snapped. "I'm refusing to let her become an excuse to stop calculating."
@@ -877,7 +877,7 @@ Derek thought. "How?"
 "I don't know yet."
 "Then why the call?"
 "Because Alfred wants to speak to you."
-Derek exhaled. "Put him on."
+Derek wearily sighed. "Put him on."
 There was a click. Then a different voice. Older. Calmer. Slightly irritated.
 "Derek Gent?"
 "Yes."
@@ -1368,7 +1368,7 @@ Matkowski nodded. "Exactly."
 "Yes."
 Weinstein stopped. "Then what are we dealing with?"
 Matkowski considered him. "That is the interesting question."
-Weinstein acknowledged. "Then it is decided."
+Weinstein allowed. "Then it is decided."
 "What is?"
 "That we don't know."
 Matkowski permitted himself the faintest smile. "Quite."
@@ -1392,7 +1392,7 @@ Trevor glanced at the equation. "Then one of our assumptions is wrong."
 Derek looked at her.
 "Yes."
 Trevor thought for a moment. "Gravity."
-Derek said. "Possibly."
+Derek allowed. "Possibly."
 Surprise briefly overtook Trevor's face.
 "You think General Relativity?"
 "I think we shouldn't ignore it."
@@ -1473,8 +1473,12 @@ Outside, the rain had not let up. Derek glanced once at the window before return
 "Yes."
 "Ordinary Earth gravity?"
 "No."
-Derek asked, "Then acceleration? Curvature? A combination of both?"
-"Possibly. Perhaps. Could be."
+"Could it be acceleration?"
+"Possibly."
+Derek asked, "Could it be spacetime curvature?"
+"Perhaps."
+"Could it be a combination?"
+"Could be."
 Derek smirked. "Very helpful."
 "I am not there to solve your case."
 "Then why are you coming to London?"
@@ -1522,7 +1526,7 @@ Then Weinstein answered: "It explains the principle."
 "No."
 Derek waited. Weinstein continued:
 "The gravitational time-dilation effect is real. We understand it extremely well. What we don't understand is why your clocks are showing a difference so large."
-Derek conceded. "So, we're not discovering new relativity."
+Derek allowed. "So, we're not discovering new relativity."
 "No."
 "We're applying known relativity to an unknown situation."
 "Exactly."
@@ -1791,7 +1795,7 @@ Barbarian indicated the silent clock. "Here."
 Derek looked up sharply. "Here?"
 "On this table."
 "But it wasn't here yesterday."
-Barbarian granted. "Not according to your description."
+Barbarian allowed. "Not according to your description."
 Weinstein smirked. "Now we're getting somewhere."
 Barbarian sat down again. "This is precisely why I wanted to speak to you."
 "Why?"
@@ -2041,7 +2045,7 @@ Derek shook his head.
 "No."
 "It was an event."
 "Yes."
-Weinstein granted. "And the clocks recorded it."
+Weinstein allowed. "And the clocks recorded it."
 Barbarian tilted his head. "Or participated in it."
 Derek considered that. "What's the difference?"
 Barbarian permitted himself the faintest flicker of amusement. "That is the question."
@@ -2121,7 +2125,7 @@ The predictions worked. The planets obeyed them. The Moon obeyed them.
 The apple obeyed them. Everything seemed to obey them. Then General Relativity had come along and changed the question.
 Weinstein dropped a pencil. It fell. He dropped it again from the other side of the desk. Same fall — until the brass clock on the blotter skipped seventeen seconds without moving. The pencil had taken an ordinary path. The clock had not. He did not explain. He circled both.
 The poor apple had been promoted from fruit to geometry. The distant train moved. Then stopped again.
-Weinstein sighed.
+Weinstein wearily sighed.
 Then, very suddenly, he had an idea.
 It was not a complete idea. It was not even a particularly respectable idea. It was the sort of idea that arrived without knocking, sat down in the middle of one's mind and refused to explain why it was there.
 Weinstein sat upright. The ordinary apple. Not the falling. The falling together. He took out his notebook and drew the Earth, then the apple, then two arrows — one pointing from the apple towards the Earth, one pointing from the Earth towards the apple. He stared at them. "Of course." Newton's description had made it natural to think of the Earth as pulling the apple.
@@ -2296,7 +2300,7 @@ Derek stared at the phone. "The trajectories of what?"
 "Everything?"
 "Start with the clocks."
 Derek watched Penny.
-Penny accepted. "That actually makes sense."
+Penny allowed. "That actually makes sense."
 Derek observed: "We've been treating the clocks as stationary measuring devices."
 "Yes."
 "Perhaps we should treat them as physical objects following worldlines."
@@ -2623,7 +2627,7 @@ Weinstein exhaled with the particular patience of a man who had, at this point, 
 Weinstein said nothing for a moment, which from Weinstein counted as a concession.
 Derek waited. 
 Weinstein continued, "The temporal coordinate doesn't behave like an ordinary spatial coordinate. The sign is different."
-Derek granted. "Lorentzian geometry."
+Derek allowed. "Lorentzian geometry."
 "Exactly."
 "So, not an ordinary four-dimensional Euclidean space."
 "No."
@@ -2858,7 +2862,7 @@ Everyone quietly eyed him. He continued, "A gravitational field doesn't have to 
 "And gravitational time dilation depends on the metric, not merely on some crude idea of gravitational force."
 "Meaning?"
 "Two clocks at different gravitational potentials can accumulate different proper times."
-Trevor conceded. "But not by forty-seven minutes in an ordinary room."
+Trevor allowed. "But not by forty-seven minutes in an ordinary room."
 "Correct."
 Derek considered the clock. "Then we're back to the same problem."
 "Yes."
@@ -2940,7 +2944,7 @@ Trevor's eyes widened.
 "Then the clock's reading has stopped, but the clock hasn't."
 "Yes."
 Derek studied the movement. "That's interesting."
-Trevor admitted. "The clock could be experiencing proper time normally while its display remains fixed."
+Trevor allowed. "The clock could be experiencing proper time normally while its display remains fixed."
 Weinstein smirked. "That is much more interesting."
 Derek turned to Penny.
 "Can we test it?"
@@ -2981,7 +2985,7 @@ Trevor snapped his fingers. "That means the hands aren't coupled to the movement
 Trevor examined the mechanism. "There must be an intermediate mechanism."
 "Which we can't find."
 "Correct."
-Weinstein admitted. "Then perhaps it isn't mechanical."
+Weinstein allowed. "Then perhaps it isn't mechanical."
 Derek surveyed the clock. "It certainly looks mechanical."
 "Appearance isn't evidence."
 Penny smirked. "That's something Derek usually maintained."
@@ -3090,7 +3094,7 @@ Trevor smiled. "If the interval is timelike, the events can be causally connecte
 "If null, they're connected by light."
 "Precisely."
 Derek examined the silent clock. "Then we need to determine which one this is."
-Weinstein acknowledged. "And that may tell us what the clock is doing."
+Weinstein allowed. "And that may tell us what the clock is doing."
 Derek grinned. "Right, that's that, then."
 Trevor watched him. "What?"
 "We have a method."
@@ -3119,7 +3123,7 @@ Trees. Mountains. A distant building.
 Nothing unusual. Then he noticed the perspective. The vanishing point.
 The same feature Derek had noticed earlier. Weinstein stepped closer.
 "The coordinate system."
-Derek said. "Yes."
+Derek allowed. "Yes."
 Trevor glanced at the painting. "The spatial geometry is encoded in the perspective."
 "Exactly."
 Penny indicated the horizon. "And there."
@@ -3246,7 +3250,7 @@ Trevor examined the painting. "So, you're thinking there's an extreme gravitatio
 "No."
 "Then where?"
 Weinstein smirked. "That's what Derek is going to investigate."
-Derek admitted. "Of course I am."
+Derek wearily sighed. "Of course I am."
 Weinstein appraised him. "You went to the Louvre."
 "Yes."
 "Why?"
@@ -3320,7 +3324,7 @@ Weinstein quietly stared at the brass clock. "Not in any ordinary sense."
 "The classical spacetime description itself becomes pathological."
 "Meaning?"
 "You can't simply ask what the clock does at the singularity. And you especially can't ask what it does if the singularity is only one end of a wormhole."
-Derek admitted. "Because the theory has stopped telling us."
+Derek allowed. "Because the theory has stopped telling us."
 "Exactly."
 Penny gazed at the clock.
 "Then perhaps the clock isn't near one."
@@ -3812,7 +3816,7 @@ There was silence.
 "We're in Munich."
 Derek paused. "Ah."
 Penny considered him. "Virtuality?"
-Derek acknowledged. "Apparently."
+Derek allowed. "Apparently."
 Matkowski continued, "The problem concerns your clocks."
 Derek became serious.
 "What about them?"
@@ -4014,7 +4018,7 @@ Trevor peered at him. Derek indicated the window. Trevor followed his finger.
 The drops were falling normally. Downward. He grimaced. "That's disappointing."
 "Give it time."
 Penny picked up the silent brass clock. It was reading 11:18. She turned it over. "Still no explanation."
-Derek conceded. "Then perhaps we're asking the wrong question."
+Derek allowed. "Then perhaps we're asking the wrong question."
 "Which one?"
 "Why the clock stops."
 Trevor gave him a measured look.
@@ -4129,7 +4133,7 @@ Trevor joined him. "What's interesting?"
 "Yet its clock isn't advancing."
 "Yes."
 "So, the train's spatial coordinates are changing while its displayed temporal coordinate isn't."
-Trevor accepted. "That doesn't mean its proper time has stopped."
+Trevor allowed. "That doesn't mean its proper time has stopped."
 "Correct."
 Penny came closer. "The clock could simply be failing."
 "Except all of them stopped."
@@ -4406,7 +4410,7 @@ Penny surveyed him. "Because it's convenient."
 "Nothing."
 "And cucumbers?"
 "We haven't tested one."
-Trevor acknowledged. "That's one less variable, then."
+Trevor allowed. "That's one less variable, then."
 Penny grinned. "Precisely."
 She switched on the apparatus. The cold platform began to move. The cucumber rolled slightly.
 Then stopped. Trevor watched the graph. A smooth curve suddenly appeared on the monitor. Trevor watched it a beat too long, waiting for it to behave exactly as it should, which was somehow worse than if it hadn't.
@@ -4465,7 +4469,7 @@ Trevor stared. "Everywhere."
 Penny shook her head. "Not necessarily."
 "Why?"
 "Because our laboratory is tiny compared with the scale of the geometry we're investigating."
-Trevor granted. "So, the curvature could be approximately uniform across the room."
+Trevor allowed. "So, the curvature could be approximately uniform across the room."
 "Exactly."
 "Then we'd need a larger baseline."
 Penny smirked. "Now you're thinking."
@@ -4521,7 +4525,7 @@ Trevor's mouth curved. "That's clever."
 "We change observers."
 Trevor stared at her. "How?"
 Penny gestured at the door. "Derek."
-Trevor said. "Of course."
+Trevor allowed. "Of course."
 He went towards the door. Then stopped. It was still closed.
 He knocked. Nothing. He knocked again.
 Still nothing. "Working hard."
@@ -4834,7 +4838,7 @@ Trevor counted again.
 "Twelve."
 Penny counted them herself. "Thirteen."
 Trevor rubbed his eyes. "Twelve."
-Derek said. "Good."
+Derek allowed. "Good."
 Trevor's forehead creased sharply. "Good?"
 "At least we're all seeing the same disagreement."
 They were standing in a strange corridor beneath London. It looked like an ordinary Underground corridor. This was, naturally, suspicious.
@@ -4872,7 +4876,7 @@ Trevor regarded him. "What's good about forty-seven metres?"
 "Nothing."
 "Then why — "
 "Because it's the same."
-Trevor sighed. "Of course it's the same. Everything's the same until it isn't."
+Trevor wearily sighed. "Of course it's the same. Everything's the same until it isn't."
 Derek examined the doors. "Now let's count them again."
 They did. 
 Twelve. Then thirteen. Then twelve. Then thirteen. 
@@ -5099,7 +5103,7 @@ She took the cucumber from her bag.
 "Obviously."
 "Why?"
 "You never know."
-Trevor accepted. "That resolves it, then."
+Trevor allowed. "That resolves it, then."
 They placed the ordinary cucumber on the platform. Length thirty-one centimetres — until it wasn't. Local SR still worked; position-dependent length meant the corridor was not flat. The cucumber had become the control with a worldline.
 Penny measured it. Exactly thirty-one centimetres. Trevor measured it.
 Thirty-one centimetres. 
@@ -5440,8 +5444,14 @@ Derek grinned. "Very."
 The droplet split into two. One part moved down. The other moved up.
 Trevor examined Derek. "That isn't normal."
 "No."
-Trevor asked, "Coordinate effect? Geometry? The train? The rain?"
-"Yes. Possibly. Maybe. All of it."
+"Coordinate effect?"
+"Possibly."
+"Geometry?"
+"Perhaps."
+"Train?"
+"Maybe."
+"Rain?"
+"Possibly."
 Trevor sighed. "You're enjoying this."
 "Immensely."
 The mysterious train slowed. 
@@ -5503,7 +5513,7 @@ Then Derek looked at the sky. The cold rain had stopped.
 That was unusual. Very unusual.
 Penny noticed it too. "London has stopped raining."
 Trevor craned his neck back. "That's worse than the train."
-Derek admitted. "Much worse."
+Derek allowed. "Much worse."
 A single drop of water fell from the sky. It stopped halfway down. Then slowly moved upward.
 Then sideways. Then disappeared.
 Penny said, very quietly, "If the midpoint was right — one event, three labels — then boarding the wrong train doesn't solve anything. It finishes something."
@@ -5540,7 +5550,7 @@ Sherlock and the Final Geometry
 Weinstein was having a perfectly ordinary morning. This meant, naturally, that the universe was about to become ridiculous. He was sitting in his quiet office in Munich, staring at a sheet of paper on which he had written the same equation three times.
 He had crossed it out three times. The fourth version looked promising. The fifth was worse.
 The sixth looked suspiciously like the first.
-Weinstein pushed the pencil aside.
+Weinstein wearily sighed.
 General Relativity had reached the tea stage: every answer bred two better questions. Weinstein crossed out the equation again. The sixth version was, once again, indistinguishable from the first.
 It still worked. That was the insult.
 He wrote CASE 1047 under the crossed lines and underlined DEAD as if the word might confess.

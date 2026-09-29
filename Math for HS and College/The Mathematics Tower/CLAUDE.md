@@ -79,8 +79,9 @@ Two standing cautions:
 
 ## 2. House style
 
-- **British English throughout** (-ise, not -ize). Verified zero US spellings; keep
-  it that way.
+- **American English throughout** (-ize, not -ise). Switched from the original
+  British-English standard. Volume 3 is fully converted; Volumes 1, 2, and 4 are
+  still on the old British spelling and need converting.
 - **Curly quotes and apostrophes only.** The text has no straight ones.
 - **Em dashes spaced** — like this — on both sides.
 - Proper minus signs (−) not hyphens, and the arrow glyph (→) not `->`.
