@@ -1,0 +1,113 @@
+SCHRÖDINGER'S PAPERWORK — EDUCATOR'S GUIDE
+Supplementary reading for introductory quantum mechanics / modern physics
+
+================================================================================
+WHAT THIS BOOK IS
+================================================================================
+
+Schrödinger's Paperwork is a satirical novel in which each of its 18
+narrative chapters is paired with an optional, standalone physics
+lecture in the Appendix. The lectures are not simplified for the joke —
+they are honest introductory-level treatments of real quantum
+mechanics, written to the standard "if you cannot explain it simply,
+you do not understand it yet."
+
+The novel is not required to understand the lectures, and the lectures
+are not required to enjoy the novel. Students can be assigned either
+independently.
+
+================================================================================
+WHY ASSIGN IT
+================================================================================
+
+- Each lecture is short (10-20 minutes' reading) and self-contained,
+  making it easy to assign one per week alongside a standard syllabus.
+- The book is explicit about what is settled physics versus what
+  remains an open interpretation question (see especially Lecture 11,
+  The Measurement Problem, and Lecture 12, Pilot-Wave Theory) — useful
+  for teaching students to distinguish consensus science from ongoing
+  debate.
+- The novel's bureaucratic-satire framing gives students a concrete,
+  memorable narrative hook for otherwise abstract ideas (measurement,
+  decoherence, entanglement) — several of the book's central scenes
+  are built to BE the physics concept dramatized, not just illustrate
+  it.
+- A curated set of interactive physics demonstrations exists for many
+  of the lectures (eleven, at last count — see the book's companion
+  index at lotmus.github.io/lolly-wren-companion), suitable for
+  in-class use or as a pre-lecture hook.
+
+================================================================================
+LECTURE-BY-LECTURE MAP TO A STANDARD SYLLABUS
+================================================================================
+
+Lecture 01  Superposition                          -> Week 1: QM postulates
+Lecture 02  Measurement & Forced Collapse           -> Week 1-2: Measurement
+Lecture 03  Premature Collapse                      -> Week 2: Zeno effect
+Lecture 04  Repeated Measurement / Quantum Zeno      -> Week 2: Zeno effect
+Lecture 05  Lawful Evolution Between Measurements   -> Week 2-3: Schrödinger eq.
+Lecture 06  Hawking Radiation                       -> Week 9-10: Black holes (optional/advanced)
+Lecture 07  Entanglement & Start of Decoherence     -> Week 4: Entanglement
+Lecture 08  No-Cloning & Error Correction           -> Week 4-5: No-cloning theorem
+Lecture 09  Uncertainty: Position and Momentum      -> Week 1: Uncertainty principle
+Lecture 10  Decoherence and Einselection            -> Week 5: Decoherence
+Lecture 11  Measurement Problem & Wigner's Friend   -> Week 6: Interpretations
+Lecture 12  Matter Waves and Pilot-Wave Theory      -> Week 3, 6: De Broglie / Bohmian mechanics
+Lecture 13  Bell's Theorem and CHSH Inequality      -> Week 7: Bell tests
+Lecture 14  String Theory, M-Theory, Holography     -> Week 10+ (advanced/optional)
+Lecture 15  Error Correction & Partial Recovery     -> Week 5: Quantum information (advanced)
+Lecture 16  Thermodynamics                          -> Week 8: Entropy & info
+Lecture 17  Negentropy                              -> Week 8: Entropy & info
+Lecture 18  The Long Future                         -> Closing/cosmology (optional)
+
+================================================================================
+SAMPLE DISCUSSION / HOMEWORK PROMPTS
+================================================================================
+
+Lecture 02 + Chapter 2 ("The Wrong Queue"):
+  The Ministry's queue-sorting system forces an outcome by asking a
+  question in a particular basis. Have students identify the specific
+  moment reality is "measured" in the chapter, and name which basis is
+  being used. Compare to a real experimental measurement basis choice
+  (e.g. polarization angle in a Bell test).
+
+Lecture 09 + Chapter 9 ("The Two Columns"):
+  Directive 11-C demands simultaneous exact position AND exact
+  trajectory certification. Have students derive, in their own words,
+  why Δx·Δp ≥ ℏ/2 makes this specific bureaucratic demand impossible in
+  principle, not just impractical.
+
+Lecture 13 + Chapter 13 ("The Panel of Experts"):
+  Assign the CHSH inequality derivation, then have students calculate
+  why classical strategies cap at S = 2 while quantum strategies reach
+  2√2. The book's companion index includes an interactive demonstration
+  ("Beat the Classical Limit") suitable for an in-class exercise before
+  the formal derivation.
+
+Lecture 16-17 (Thermodynamics / Negentropy):
+  Have students explain, using Landauer's Principle, why "the Ministry
+  cannot erase a record for free" is not just a narrative device but a
+  literally true thermodynamic statement.
+
+================================================================================
+CAVEATS FOR CLASSROOM USE
+================================================================================
+
+- The book is honest about unsettled physics but is still a work of
+  comic fiction; treat character dialogue as narrative color, not as a
+  citation-grade source. The lectures themselves are the citable
+  content.
+- Lecture 14 (string theory/M-theory/holography) covers speculative,
+  experimentally unconfirmed physics. The lecture itself says so
+  explicitly and is best used as an "advanced/optional" enrichment
+  section rather than core curriculum.
+- No exercises or problem sets are included in the published book;
+  the prompts above are original to this guide.
+
+================================================================================
+CONTACT
+================================================================================
+
+Instructors adopting the book for a course, or wanting an examination
+copy, may contact the author via the publisher listing on the book's
+Amazon page.

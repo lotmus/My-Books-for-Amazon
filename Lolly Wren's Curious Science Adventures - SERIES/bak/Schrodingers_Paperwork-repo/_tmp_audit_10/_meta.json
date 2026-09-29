@@ -1,0 +1,1083 @@
+[
+  {
+    "title": "How to Read This Book",
+    "start": 62,
+    "end": 81,
+    "words": 520,
+    "rules": [],
+    "phys_ptrs": [
+      [
+        66,
+        "The lectures live together in the Appendix as a real class — eighteen lectures in four parts, one per chapter (Lecture 14 in two hours). Most chapters still end the same way: a rul"
+      ]
+    ],
+    "opening": [
+      [
+        63,
+        "This is a satirical, absurdist novel with a strong dose of British humour. You need to know no physics at all to read it, and nothing in the story requires homework. The physics is there for the same reason the forms are there: because reality does not go away when you stop looking at it, and neither does the paperwork."
+      ],
+      [
+        64,
+        "But it is also an honest book, and it is built in two layers."
+      ],
+      [
+        65,
+        "The novel is the story of Lolly Wren, a Transit Reconciliation Officer, Third Grade, who spent ten years in the electronics trade and eleven minutes as a working physicist, and who discovers that her department has been making reality simpler by pushing the difficult parts of it into a black hole in regional infrastructure."
+      ],
+      [
+        66,
+        "The lectures live together in the Appendix as a real class — eighteen lectures in four parts, one per chapter (Lecture 14 in two hours). Most chapters still end the same way: a rule, and a single link to your lecture. Follow it. Each lecture tells you what you need first, what you leave knowing how to do, and then stops you cold until you can say the idea plainly to the woman in the chair."
+      ]
+    ],
+    "closing": [
+      [
+        76,
+        "Three honest ways to read this book."
+      ],
+      [
+        77,
+        "For the story alone: read the chapters and stop at each rule. You will lose nothing. Not a single plot point lives in the lectures."
+      ],
+      [
+        78,
+        "To take the class: read each chapter, then its lecture, in order. Lecture 1 assumes nothing; Lecture 18 assumes Lecture 17. Use “The shape of the course” if you want the map. By the end you will genuinely understand superposition, measurement, entanglement, uncertainty, decoherence, Bell’s theorem, why black holes are a problem, why local order is always paid for somewhere else, and why there is no final lid — and you will know which of the things you have heard about quantum physics are false."
+      ],
+      [
+        79,
+        "If you are impatient: the Physics Prologue at the back summarises the entire scientific content of the book in bullet points, drily, in about ten minutes. It was written by a civil servant for other civil servants and it gives away nothing except the physics."
+      ],
+      [
+        80,
+        "One promise, kept throughout: where the science is genuinely unsettled — and a great deal of it is — this book says so plainly rather than tidying it away. Tidying things away is what the Ministry does, and look where that got them."
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 19,
+    "file": "How_to_Read_This_Book.txt"
+  },
+  {
+    "title": "Prologue: Before Anything Went Wrong",
+    "start": 81,
+    "end": 109,
+    "words": 418,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        82,
+        "There was a time when the Ministry of Eventualities was not in trouble."
+      ],
+      [
+        83,
+        "This was mainly because nobody had yet noticed that it existed."
+      ],
+      [
+        84,
+        "The Ministry occupied a respectable grey building in Coldharrow, between a Department of Minor Infrastructure and an office responsible for the licensing of ceremonial ladders. Its sign was small. Its corridors were long. Its carpets had the peculiar brown colour adopted by institutions that have survived several changes of government and are now too embarrassed to ask for anything."
+      ],
+      [
+        85,
+        "Its official purpose was simple: to deal with events that had not happened yet."
+      ]
+    ],
+    "closing": [
+      [
+        104,
+        "There was, unfortunately, a black hole."
+      ],
+      [
+        105,
+        "And so, on an otherwise unremarkable morning, Lolly Wren sat down with a cup of tea, a complaint terminal, and the entirely reasonable expectation that the worst thing she would have to deal with that day was a misplaced train."
+      ],
+      [
+        106,
+        "She was wrong."
+      ],
+      [
+        107,
+        "Obviously."
+      ],
+      [
+        108,
+        "She simply did not yet have the paperwork to prove it."
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 28,
+    "file": "Prologue_Before_Anything_Went_Wrong.txt"
+  },
+  {
+    "title": "Chapter 1: The Form That Would Not Resolve",
+    "start": 109,
+    "end": 260,
+    "words": 2807,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        110,
+        "There are, in the management of large and failing systems, certain sounds one learns to distrust. The metallic cough of a heating vent in late November, for instance, which means either nothing at all or a catastrophe in the wall. The tiny, clerical thump of an internal memorandum landing in the inbox, which means either lunch has been moved to Wednesday or civilisation has. And then there was the particular soft clicking noise made by the complaint terminal on Lolly Wren’s desk when it had decided, in its own limited but vindictive fashion, that the morning was not going to proceed properly."
+      ],
+      [
+        111,
+        "Lolly looked up from her tea. This was unfortunate for two reasons. The first was that she had not yet had enough of it to be tolerant. The second was that the tea itself, purchased in a spirit of optimism from a machine on the fourth floor, had the colour and emotional range of varnished disappointment, and appeared to have taken a personal view of her. The terminal clicked again. Lolly sighed in the manner of a woman who had once trained in theoretical physics and now worked in Transit Reconciliation, which is rather like having spent one’s youth studying celestial harmony only to discover that the stars have all gone into local government."
+      ],
+      [
+        112,
+        "Her office, if such a term may be generously applied to a room with one window, four filing stacks, and the temperament of a damp envelope, occupied the far end of the Regional Transit Reconciliation Annex."
+      ],
+      [
+        113,
+        "Gideon Wigglesworth was one of the few people who visited Lolly there voluntarily. He was also one of the few people Lolly trusted to look at an impossible problem without first asking which form was required. They had shared a workbench for the better part of a decade, back when the problems still came with a soldering iron attached, and had kept the habit of each other since. Gideon was very clever, painfully clumsy, and so generally agreeable that even the Ministry’s furniture seemed reluctant to injure him. He appeared in the doorway carrying two coffees, caught his shoe on the threshold, recovered with surprising dignity, and handed Lolly one of them."
+      ]
+    ],
+    "closing": [
+      [
+        255,
+        "Then the terminal clicked again. A new line appeared across the screen in bright administrative blue: CASE ESCALATED. PLEASE REPORT TO QUEUE MANAGEMENT."
+      ],
+      [
+        256,
+        "Lolly stared at it. There are few phrases in government more sinister than Queue Management. Most of them are longer, and available only in landscape format."
+      ],
+      [
+        257,
+        "Mrs Chain picked up her handbag. “Well,” she said, “that sounds dreadful.” Lolly reached for her coat. “Yes,” she said. “I rather think it does.” Blankly, almost cheerfully, the printer produced a second sheet all by itself. Across the top it read: FOR THE AVOIDANCE OF CONFUSION Lolly shut her eyes. This, she felt, was how serious things generally began. Not with thunder. Not with prophecy. Not with reason. With stationery."
+      ],
+      [
+        258,
+        "Rule: Before a measurement forces one answer, a quantum state may be more than a list of answers waiting in a drawer."
+      ],
+      [
+        259,
+        "→ Lecture for this chapter: Superposition"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 151,
+    "file": "Chapter_1_The_Form_That_Would_Not_Resolve.txt"
+  },
+  {
+    "title": "Chapter 2: The Wrong Queue",
+    "start": 260,
+    "end": 459,
+    "words": 2974,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        261,
+        "The queue to which Lolly had now been summoned was not the ordinary version. She and Mrs Elspeth Chain followed the signs down two flights of stairs, along a beige corridor devoted entirely to lowering expectations, and through a pair of glass doors bearing the legend: QUEUE MANAGEMENT For the Avoidance of Unauthorised Resolution"
+      ],
+      [
+        262,
+        "“That,” said Mrs Chain, reading it once and rejecting it absolutely, “is a revolting sentence.”"
+      ],
+      [
+        263,
+        "“Yes,” said Lolly. “It’s new.”"
+      ],
+      [
+        264,
+        "Inside, Queue Management occupied what must once have been an atrium, since persuaded to regret its openness: chrome stanchions, retractable belts, lanes of subtle cruelty under a high ceiling that had given up on grandeur."
+      ]
+    ],
+    "closing": [
+      [
+        454,
+        "Then she shut it."
+      ],
+      [
+        455,
+        "Because ahead of them, under a newly lit sign reading PROVISIONAL REALITY ADJUSTMENTS, a door had opened that Lolly was quite certain had not been there before. And from beyond it came the unmistakable sound of someone important approaching with papers."
+      ],
+      [
+        456,
+        "They did not wait to find out who. Beatrix was already three strides down the corridor, on the grounds — offered without turning round — that whoever it was could file a complaint like everybody else."
+      ],
+      [
+        457,
+        "Rule: Ask reality through the wrong sorting frame, and the answer may be the only part of it your apparatus has left standing."
+      ],
+      [
+        458,
+        "→ Lecture for this chapter: Measurement Basis and Forced Collapse"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 199,
+    "file": "Chapter_2_The_Wrong_Queue.txt"
+  },
+  {
+    "title": "Chapter 3: A Small Error in Reality",
+    "start": 459,
+    "end": 658,
+    "words": 3282,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        460,
+        "By half past eleven, Lolly Wren decided that watching reality subdivide before lunch had become, in a professional sense, personal. She followed Beatrix out of Queue Management with Mrs Chain beside her and Jago materialising wherever least helpful. Beatrix walked quickly — not hurriedly — and corridors cleared."
+      ],
+      [
+        461,
+        "“We’re not going upstairs?” said Lolly, clutching the pale blue memorandum marked Phase One Implementation Notes."
+      ],
+      [
+        462,
+        "“No,” said Beatrix."
+      ],
+      [
+        463,
+        "“To whom, then, are we escalating this?”"
+      ]
+    ],
+    "closing": [
+      [
+        653,
+        "Lolly looked down at the humming module in her hands, at the cracked mirror, at the photograph that was still trying intermittently to become a clock, and then back at the man in the doorway. For the first time that day, the problem seemed almost refreshingly simple. “Oh,” she said. “Was that yours.”"
+      ],
+      [
+        654,
+        "At the end of the corridor, a door that had been there ten minutes earlier was no longer there. Lolly wrote its number down before she could forget it. When she looked again, the number was still in the notebook. The door was not."
+      ],
+      [
+        655,
+        "That was the first time she understood that the Ministry was no longer merely recording errors in reality. It was beginning to acquire them."
+      ],
+      [
+        656,
+        "Rule: A measurement gets its answer by touching the system, which is why asking too soon can spoil what the system might otherwise have shown."
+      ],
+      [
+        657,
+        "→ Lecture for this chapter: Premature Collapse"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 199,
+    "file": "Chapter_3_A_Small_Error_in_Reality.txt"
+  },
+  {
+    "title": "Chapter 4: Continuity Review",
+    "start": 658,
+    "end": 816,
+    "words": 2302,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        659,
+        "The man in Mrs Chain’s doorway was not damp, which only served to make the rest of him more offensive. He was in a dark coat of almost expensive sobriety, with a narrow tie and a face that looked as though it had once tried charm and settled, after a risk assessment, on procedure."
+      ],
+      [
+        660,
+        "In his right hand he carried a slim case of brushed grey metal. In his left he held a card badge displaying a silver spiral and the words:"
+      ],
+      [
+        661,
+        "MINISTRY OF CIVIC STABILITY CONTINUITY REVIEW Field Resolution"
+      ],
+      [
+        662,
+        "Mrs Elspeth Chain tightened her grip on the umbrella."
+      ]
+    ],
+    "closing": [
+      [
+        811,
+        "Need Fainrose."
+      ],
+      [
+        812,
+        "She did not wait to see whether the sentence agreed with her. She was already reaching for her coat."
+      ],
+      [
+        813,
+        "“Bring the module,” said Beatrix, without turning. “If we are going to be wrong, we will be wrong with evidence.”"
+      ],
+      [
+        814,
+        "Rule: Inspect a quantum state often enough in the right physical way, and the inspection itself can help keep it where it was."
+      ],
+      [
+        815,
+        "→ Lecture for this chapter: State Reduction via Repeated Measurement"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 158,
+    "file": "Chapter_4_Continuity_Review.txt"
+  },
+  {
+    "title": "Chapter 5: Dr Fainrose Is Not Reassured",
+    "start": 816,
+    "end": 954,
+    "words": 2559,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        817,
+        "Forty minutes after the interruption of Mrs Elspeth Chain’s domestic convergence, Beatrix Sloan was in an unlicensed grey car with Lolly Wren, Jago Flint, a confiscated Civic Stability Substrate module, one morally indignant umbrella, and a woman whose house was fluctuating between several unsatisfactory versions of itself. This was, by her own private reckoning, witness selection — the third of the only three responses to institutional catastrophe she considered proper, the first being documentation and the second containment, and reserved, as a rule, for special occasions and senior management."
+      ],
+      [
+        818,
+        "The car belonged to Jago. Or rather, it belonged to a man in Croydon who believed it was in long-term bonded storage, which was not identical but had, Jago maintained, all the practical advantages of ownership without the correspondence."
+      ],
+      [
+        819,
+        "Lolly sat in the back holding the grey module in both hands, as if it might otherwise begin revising her. Mrs Chain sat beside her with the umbrella across her knees like a constitutional amendment awaiting use. Beatrix occupied the front passenger seat in a state of concentrated disapproval. Jago drove with one hand and the relaxed fatalism of a man who trusted neither maps nor causality."
+      ],
+      [
+        820,
+        "“Where exactly,” said Lolly, for the third time, “are we going.”"
+      ]
+    ],
+    "closing": [
+      [
+        949,
+        "“Then,” said Fainrose, “we begin by assuming the worst and trying, with discipline, not to underestimate it.”"
+      ],
+      [
+        950,
+        "Mrs Chain set down the umbrella with ceremony. “At last,” she said, “someone sensible.”"
+      ],
+      [
+        951,
+        "Lolly opened the green notebook and wrote only four words. Fainrose not reassured. Then, beneath it: Neither am I."
+      ],
+      [
+        952,
+        "Rule: Quantum theory is not strange because nothing obeys a law; it is strange because the law is so orderly until a record is made."
+      ],
+      [
+        953,
+        "→ Lecture for this chapter: The Schrödinger Equation and Lawful Evolution"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 138,
+    "file": "Chapter_5_Dr_Fainrose_Is_Not_Reassured.txt"
+  },
+  {
+    "title": "Chapter 6: The Object Is Not Mislaid",
+    "start": 954,
+    "end": 1082,
+    "words": 1871,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        955,
+        "Stephanie Fainrose said there was a black hole in regional infrastructure while adjusting the flame under a kettle with one hand and isolating a collapsing gravitational trace with the other."
+      ],
+      [
+        956,
+        "Nobody spoke for several seconds. Then Jago Flint said, “I don’t wish to seem needlessly difficult, but that sounds like the sort of thing someone ought to have mentioned on a sign.”"
+      ],
+      [
+        957,
+        "Fainrose ignored him. On the narrow screen above the wire mesh box, the line marked Singularity Asset 4C continued its steady descent. It did not plunge, jitter, or fail theatrically. It diminished with the calm self-possession of a process obeying a law."
+      ],
+      [
+        958,
+        "Lolly found this more disturbing than panic would have been. She moved closer to the display. “When you say black hole—”"
+      ]
+    ],
+    "closing": [
+      [
+        1077,
+        "Lolly closed the notebook. On the last line she wrote: Not vanishing by error. Vanishing by law. Then, after a moment: Much worse."
+      ],
+      [
+        1078,
+        "Fainrose looked at the gravitational trace and then at Lolly. “We have a clock,” she said. “A real one. Not a Ministry deadline. The anchor is evaporating, and when it goes, whatever is still inside it stops being recoverable.”"
+      ],
+      [
+        1079,
+        "Lolly wrote the time down. She underlined it twice. For once, the paperwork was not the most frightening thing in the room."
+      ],
+      [
+        1080,
+        "Rule: Asset 4C is not going missing; it is becoming hotter, smaller, and harder to forgive."
+      ],
+      [
+        1081,
+        "→ Lecture for this chapter: Hawking Radiation"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 128,
+    "file": "Chapter_6_The_Object_Is_Not_Mislaid.txt"
+  },
+  {
+    "title": "Chapter 7: What Remains Correlated",
+    "start": 1082,
+    "end": 1221,
+    "words": 2213,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        1083,
+        "By the time they reached the Regional Compression Annex, the day had acquired the exhausted brightness peculiar to national mistakes. The building stood behind two fences, one camera mast, and a sign which read:"
+      ],
+      [
+        1084,
+        "CIVIC INFRASTRUCTURE HARMONISATION SITE Authorised access only No public gravitation beyond this point"
+      ],
+      [
+        1085,
+        "“There,” said Jago Flint, slowing the car, “is a sentence nobody wrote with a clear conscience or a functioning solicitor.”"
+      ],
+      [
+        1086,
+        "The annex had once been a distribution hub, though years of government improvement had polished it into the sort of place that no longer admitted to having had a function. Its walls were pale, windowless, and faintly curved in a way that suggested either modern design or local damage to geometry. Several service roads led toward it and then, halfway there, seemed to lose confidence and become lay-bys."
+      ]
+    ],
+    "closing": [
+      [
+        1216,
+        "Entangled systems fail together. Decohered systems do not forgive sequence."
+      ],
+      [
+        1217,
+        "Then, beneath it:"
+      ],
+      [
+        1218,
+        "The country is attached to a dying argument with physics."
+      ],
+      [
+        1219,
+        "Rule: When connections are treated as expendable, a shared quantum state shares the damage as well."
+      ],
+      [
+        1220,
+        "→ Lecture for this chapter: Entanglement and the Beginning of Decoherence"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 139,
+    "file": "Chapter_7_What_Remains_Correlated.txt"
+  },
+  {
+    "title": "Chapter 8: The Backup That Could Not Exist",
+    "start": 1221,
+    "end": 1312,
+    "words": 1894,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        1222,
+        "Mr Voller had reached this stage by twenty past four. “There is a restoration protocol,” he said."
+      ],
+      [
+        1223,
+        "The Regional Compression Annex had by then acquired the atmosphere of a hospital in which the patient had begun offering opinions. Two of the wall displays were showing districts that did not currently agree on their own boundaries. A printer in the corner had produced eleven copies of a form that had never been designed. Somewhere below them, in the deeper part of the building where the anchor housing sat behind three doors and a good deal of optimism, something was making a sound not unlike a cathedral clearing its throat."
+      ],
+      [
+        1224,
+        "Stephanie Fainrose did not look up from the console. “Say that again,” she said."
+      ],
+      [
+        1225,
+        "Voller straightened his cuffs, which is what such men do instead of praying, having long ago misfiled the latter as an external dependency. “There is a restoration protocol,” he repeated. “Full-state civic reconstruction. We hold a reference copy.”"
+      ]
+    ],
+    "closing": [
+      [
+        1307,
+        "And then, after a moment, in smaller letters:"
+      ],
+      [
+        1308,
+        "They built a vault. They should have built a code."
+      ],
+      [
+        1309,
+        "Beatrix did not look up from the seal. “I can file a theorem,” she said. “I cannot file a hope.”"
+      ],
+      [
+        1310,
+        "Rule: There is no perfect copy of an unknown state; what can be saved lives in the pattern, not the vault."
+      ],
+      [
+        1311,
+        "→ Lecture for this chapter: The No-Cloning Theorem and Quantum Error Correction"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 91,
+    "file": "Chapter_8_The_Backup_That_Could_Not_Exist.txt"
+  },
+  {
+    "title": "Chapter 9: The Two Columns",
+    "start": 1312,
+    "end": 1445,
+    "words": 2287,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        1313,
+        "At eight she had been downstairs. The requisition archive occupied a basement room designed for files and since surrendered to them. Gideon sat at the central table with his coat still on, because the heating in the annex had an interpretive relationship with winter, and a stack of ledgers arranged in a kind of apologetic order."
+      ],
+      [
+        1314,
+        "“You look as if you have been here all night,” Lolly said."
+      ],
+      [
+        1315,
+        "“I have been here all night,” said Gideon. “The distinction is one I have been meaning to mention to someone.” He took the tea she had brought, missed the saucer by the usual margin, and recovered both without spilling, which she chose not to comment on. “Vale signed for the vault isolation. Voller countersigned. The second page of 11-C is in a different folder, in a different year, and nobody who signed the first page appears to have seen it.”"
+      ],
+      [
+        1316,
+        "“That is going to matter.”"
+      ]
+    ],
+    "closing": [
+      [
+        1440,
+        "Fainrose looked at the clock. “Until it becomes self-consistent.”"
+      ],
+      [
+        1441,
+        "“And if it does?”"
+      ],
+      [
+        1442,
+        "She did not answer."
+      ],
+      [
+        1443,
+        "Rule: Quantum mechanics permits a precise location or a precise motion, but not two limitless certificates at once."
+      ],
+      [
+        1444,
+        "→ Lecture for this chapter: The Uncertainty Principle—Position and Momentum"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 133,
+    "file": "Chapter_9_The_Two_Columns.txt"
+  },
+  {
+    "title": "Chapter 10: The Moon That Was Pending",
+    "start": 1445,
+    "end": 1500,
+    "words": 1628,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        1446,
+        "The complaint came in from Outer Fenwick at half past seven in the evening, which was itself unusual, because Outer Fenwick did not officially exist until the moon came up, and the moon did not officially come up until enough people had filled in the form saying they had seen it."
+      ],
+      [
+        1447,
+        "Lolly Wren read the complaint three times before she accepted that she had read it correctly."
+      ],
+      [
+        1448,
+        "“Ratepayer states,” she said aloud, “that on the night of the fourteenth, insufficient observation returns were logged by nine p.m., and the moon”—she checked the wording again—“‘did not come up properly, and hung about at the edge looking unconvincing until gone eleven, at which point enough of the residents had done their forms and it committed.’”"
+      ],
+      [
+        1449,
+        "Beatrix Sloan did not look up from her boxes. “Committed to what?”"
+      ]
+    ],
+    "closing": [
+      [
+        1495,
+        "They found a machine that quietened the mercy, called the silence a shortfall, and billed the street to fix what they had broken."
+      ],
+      [
+        1496,
+        "And at the bottom, in the smaller hand she used for the sentences she did not entirely want to admit to writing:"
+      ],
+      [
+        1497,
+        "The moon does not need forty-one witnesses. It needs the sky to be allowed to keep noticing it. Most things do."
+      ],
+      [
+        1498,
+        "Rule: The moon stays definite because the whole sky keeps physically recording it, not because forty-one signatures have been collected."
+      ],
+      [
+        1499,
+        "→ Lecture for this chapter: Decoherence and Einselection"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 55,
+    "file": "Chapter_10_The_Moon_That_Was_Pending.txt"
+  },
+  {
+    "title": "Chapter 11: An Uninvited Reflection",
+    "start": 1500,
+    "end": 1597,
+    "words": 2274,
+    "rules": [],
+    "phys_ptrs": [
+      [
+        1516,
+        "He had a great disorganised nimbus of white hair, a moustache of magnificent indifference, a cardigan that had clearly outlived several arguments, and no shoes. His face was one th"
+      ]
+    ],
+    "opening": [
+      [
+        1501,
+        "The Phase Two papers arrived at two, in eleven boxes, and Beatrix Sloan had read four of them by half past five with the expression of a woman conducting a post-mortem on someone she had known."
+      ],
+      [
+        1502,
+        "Lolly Wren had been given box seven, which contained the consent architecture, and it was in box seven that she found the thing that made her go and stand outside for a while."
+      ],
+      [
+        1503,
+        "“It’s the invitation,” she said when she came back in."
+      ],
+      [
+        1504,
+        "Fainrose looked up. “Say that again.”"
+      ]
+    ],
+    "closing": [
+      [
+        1592,
+        "Beatrix went very still. “How many signatures?”"
+      ],
+      [
+        1593,
+        "Lolly looked at the box. “Nine thousand, if the rollout goes national.”"
+      ],
+      [
+        1594,
+        "Nobody made a joke. That frightened her more than the vampire had."
+      ],
+      [
+        1595,
+        "Rule: If quantum evolution applies to everything, the unanswered question is what makes one answer the one we live with."
+      ],
+      [
+        1596,
+        "→ Lecture for this chapter: The Measurement Problem and Wigner’s Friend"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 97,
+    "file": "Chapter_11_An_Uninvited_Reflection.txt"
+  },
+  {
+    "title": "Chapter 12: The Duc de Brévanne Explains Himself Slowly",
+    "start": 1597,
+    "end": 1693,
+    "words": 2896,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        1598,
+        "Phase Two went live at seven the next morning in four sub-districts, because Vale had been suspended at midnight and the Board had discovered, on reading his file, that they preferred the version of him that had signed things."
+      ],
+      [
+        1599,
+        "Fainrose had a view, which she delivered to the syndrome table rather than to anyone in particular. “They have taken the one signature off the directive,” she said. “Now it has no author, and the only way it gets one again is for someone to stand up in that inquiry and say what it did — and whoever does that will be thanked for the disruption and not the truth. It is the cheapest move there is, and they will make it every time.”"
+      ],
+      [
+        1600,
+        "By eight, Beatrix Sloan had established that the suspension had been proposed by a committee none of whose members would consent to be named. By nine she had stopped shouting at telephones and started drafting, which Lolly Wren had learned to recognise as the more dangerous phase."
+      ],
+      [
+        1601,
+        "Lolly, by ten in the morning, was no use to anybody."
+      ]
+    ],
+    "closing": [
+      [
+        1688,
+        "“Lolly,” she said."
+      ],
+      [
+        1689,
+        "“Yes.”"
+      ],
+      [
+        1690,
+        "“Where exactly,” said Stephanie Fainrose, “did you get the idea that you were the assistant?”"
+      ],
+      [
+        1691,
+        "Rule: A pilot-wave particle is always somewhere, but the whole wave — including its empty possibilities — helps decide where it goes next."
+      ],
+      [
+        1692,
+        "→ Lecture for this chapter: De Broglie Matter Waves and Pilot-Wave Theory"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 96,
+    "file": "Chapter_12_The_Duc_de_Brévanne_Explains_Himself_Slowly.txt"
+  },
+  {
+    "title": "Chapter 13: The Panel of Experts",
+    "start": 1693,
+    "end": 1797,
+    "words": 2867,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        1694,
+        "The Board of Inquiry sat at eleven in the annex conference room, and its first act was to establish that it did not intend to decide anything."
+      ],
+      [
+        1695,
+        "“We are not here to adjudicate physics,” said the chair, a Mr Pilbeam, who had been brought in from Transport on the grounds that he had once managed a bridge, although the bridge had not supplied a reference."
+      ],
+      [
+        1696,
+        "“We are here to determine whether a recommendation exists. If the expert panel is unanimous, we may act. If it is divided, the matter is unresolved and current arrangements continue.”"
+      ],
+      [
+        1697,
+        "Beatrix Sloan, at the side table with eleven boxes and a fountain pen, wrote a single word on her pad. Lolly leaned over and read it. Divided."
+      ]
+    ],
+    "closing": [
+      [
+        1792,
+        "And beneath that:"
+      ],
+      [
+        1793,
+        "They surveyed nine thousand houses separately. If the correlations exceed the ceiling, then there were never nine thousand cases. There was one."
+      ],
+      [
+        1794,
+        "“Get the number,” said Bellew, from a doorway that was no longer occupied. “Then you may philosophise on your own time.”"
+      ],
+      [
+        1795,
+        "Rule: Local innocence cannot explain the correlations; a number can show that, and a committee cannot talk it away."
+      ],
+      [
+        1796,
+        "→ Lecture for this chapter: Bell’s Theorem and the CHSH Inequality"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 104,
+    "file": "Chapter_13_The_Panel_of_Experts.txt"
+  },
+  {
+    "title": "Chapter 14: Eleven Dimensions and a Whisper",
+    "start": 1797,
+    "end": 1895,
+    "words": 2926,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        1798,
+        "They went into Sub-District 6 on the Thursday with two vans, a portable timing rack, four hired photodetectors, and paperwork Beatrix had signed in a hand that dared anyone to query it. Fainrose was in the primary school hall running cable. Jago had gone for a fifth detector on terms nobody had asked about. Lolly, sent out for exceeding her quota of useful questions, ended up in the Coldharrow Street library with the green notebook and eleven photocopied pages from box seven."
+      ],
+      [
+        1799,
+        "There was one other person in the reading room: a slight man in his seventies, entirely bald, papers colonising two additional tables as though the furniture had signed a memorandum. He wrote in pencil, continuously, pausing every twenty minutes to look at the shut-down carpet showroom. The librarian had given up asking him to consolidate, and simply reshelved around him."
+      ],
+      [
+        1800,
+        "At about four o’clock he said, without turning round, in a voice so quiet that Lolly was not initially certain it had been aimed at her: “You are the person doing the Bell test on the housing lattice.”"
+      ],
+      [
+        1801,
+        "Lolly put down her pen. “How do you know that.”"
+      ]
+    ],
+    "closing": [
+      [
+        1890,
+        "Fainrose stopped writing. “That’s not a signal.”"
+      ],
+      [
+        1891,
+        "“What is it?” Lolly asked."
+      ],
+      [
+        1892,
+        "She looked at the timing trace. “It’s the apparatus measuring itself.”"
+      ],
+      [
+        1893,
+        "Rule: One object, many notes — and still no certificate that restores a sister."
+      ],
+      [
+        1894,
+        "→ Lecture for this chapter: String Theory and M-Theory\n→ and: Black-Hole Entropy and Holography"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 98,
+    "file": "Chapter_14_Eleven_Dimensions_and_a_Whisper.txt"
+  },
+  {
+    "title": "Chapter 15: Final State Pending",
+    "start": 1895,
+    "end": 1967,
+    "words": 2385,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        1896,
+        "The fault took a day to find and an afternoon to starve."
+      ],
+      [
+        1897,
+        "What the four detectors had been agreeing about, in the end, was the time. Every timing rack the Ministry owned drew its clock from the same civic distribution. The two ends of a Bell test are meant to be strangers to one another. Hers had been keeping time by the same heartbeat, drawing their random setting-choices off the same central feed, and between them they had produced a beautiful, stable and entirely worthless agreement: the apparatus, measuring the Ministry, and subtracting it from itself."
+      ],
+      [
+        1898,
+        "“It is the cleanest result I have ever recorded,” Fainrose said, “it means nothing whatsoever, and had I taken it to a committee they would have funded three more.”"
+      ],
+      [
+        1899,
+        "Lolly had the shape of it before the explanation finished, because by then she had the shape of it everywhere. “It’s Venn’s scanner. The instrument was inside the thing it was measuring.”"
+      ]
+    ],
+    "closing": [
+      [
+        1962,
+        "“That is either the plainest sentence you have said since breakfast,” said Fainrose, “or the most sentimental, and I find I am too tired to tell which, which may itself be the first reliable instrument reading we have had all afternoon.”"
+      ],
+      [
+        1963,
+        "She wrote it down anyway."
+      ],
+      [
+        1964,
+        "Beatrix looked in from the corridor. “It’s on their desk,” she said. “We have a plan. They have a Board. I know which of those I would rather take into a courtroom.”"
+      ],
+      [
+        1965,
+        "Rule: The honest plan repairs what survives and names what does not; it does not require picking an interpretation first."
+      ],
+      [
+        1966,
+        "→ Lecture for this chapter: Quantum Error Correction, Partial Recovery and Planning Without an Interpretation"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 72,
+    "file": "Chapter_15_Final_State_Pending.txt"
+  },
+  {
+    "title": "Chapter 16: The Decision",
+    "start": 1967,
+    "end": 1990,
+    "words": 1263,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        1968,
+        "The written order was sealed on the Tuesday, once the plan the Board had demanded on the Monday — as the price of losing the hearing — was on the judge’s desk. He understood none of the physics and all of the paperwork, which turned out to be sufficient. Beatrix Sloan had not argued that reality had been damaged. She had learned, by then, that courts do not adjudicate ontology. She had argued instead that the Ministry had certified nine thousand separate local determinations while holding, in its own filing system, a measurement establishing that they were one act — and that a body which certifies nine thousand times what it knows to be one thing has not made an error of physics but a false instrument in a live system. Which is a thing the law has known how to dislike since the fourteenth century, as the Duc de Brévanne observed with some satisfaction from the public gallery."
+      ],
+      [
+        1969,
+        "They got eleven weeks. It was not enough, and nobody had prepared a form in which enough was an available option. Von Wittenberg’s people listened to the horizon for nine of them, from a rented industrial unit outside Sub-District 6, with equipment that cost more than the district’s entire housing stock and had, for that reason, a more generous maintenance schedule, and that Fainrose described, in her only published remark on the matter, as “an ear held against a burning wall.”"
+      ],
+      [
+        1970,
+        "Of the four hundred and eleven P-9 states, they recovered three hundred and eight. It was not a triumph and Fainrose refused, in every interview afterwards, to let it be described as one. They were pending human states, unscrambled from the radiation and returned to the districts they had come out of: a child’s route to school, a marriage in the middle of being decided, an apprenticeship, two reconciliations, a great many small unfinished intentions of no civic significance whatever."
+      ],
+      [
+        1971,
+        "One hundred and three were not recovered, and their names were published, because Beatrix insisted, and because Miss Dorothy Kell — whose brother’s apprenticeship was one of the hundred and three, and who had written to the inquiry every week since the freeze — said that a list of the unrecovered was the only memorial such things could have."
+      ]
+    ],
+    "closing": [
+      [
+        1985,
+        "Then the coherence monitor Fainrose had left running since Sub-District 6 — flat at 1.2 for eleven weeks, with the patience of something that had given up being interesting — climbed to 2.79 in slightly under forty minutes, and stopped."
+      ],
+      [
+        1986,
+        "Fainrose read it twice. “That’s disconnection,” she said, in the voice of someone reporting a result she had stopped allowing herself to expect. “Clean disconnection. The number climbs because the houses can finally hold together with one another again — they had been spending all of it on the anchor, and the anchor has let go. It’s not listening to us any more. It’s just — a black hole. An ordinary, boring, evaporating black hole, doing the only thing black holes are supposed to do, which is leave.”"
+      ],
+      [
+        1987,
+        "Nobody cheered. Lolly noted, and later wrote in the green notebook, that this seemed correct: there is no ceremony appropriate to successfully stopping a government department from continuing to be haunted."
+      ],
+      [
+        1988,
+        "Rule: Close the door if you must; the bill was never in the cupboard, and never will be."
+      ],
+      [
+        1989,
+        "→ Lecture for this chapter: Thermodynamics"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 23,
+    "file": "Chapter_16_The_Decision.txt"
+  },
+  {
+    "title": "Chapter 17: A Very Good Obituary",
+    "start": 1990,
+    "end": 2026,
+    "words": 1221,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        1991,
+        "The districts resolved over the following month, badly and thinly and in the wrong order. On every screen it looked like collapse — which is why Crispin Vale, who had testified for eleven days against the directive he had signed, was blamed for the disorder the recovery made rather than credited for making the recovery lawful. Fainrose had said that would happen. She took no visible pleasure in being right."
+      ],
+      [
+        1992,
+        "The Fenwick mast was found in the weeks after the coupling was cut — a decorative weathercock on the Memorial Hall with more electronics under the tail than any weathercock requires, and a plate reading PROPERTY OF THE SIMPLIFICATION INITIATIVE. Jago opened it with a screwdriver he was not supposed to be carrying. Mrs Prosser arrived with tea, confirmed what fourteen months of moon rota had already taught her, and watched the Ministry switch it off eleven days later, apologise without using the word sorry, and send her a revised quorum of thirty-nine. “It is encouraging,” she said, “to see government respond to evidence.”"
+      ],
+      [
+        1994,
+        "Lolly delivered Mrs Elspeth Chain’s certificate herself, on a Tuesday in March, because she had learned by then that some documents should not simply be posted."
+      ],
+      [
+        1995,
+        "Twenty-Two Coldharrow Rise — where she had been moved when the old house was condemned — smelled of instant coffee and furniture polish, applied in that order and recently. Mrs Chain read the certificate at her own kitchen table, twice, without comment, while Lolly sat opposite and did the thing she had got, over the winter, genuinely good at: nothing. Not filling the silence. Not explaining that the seventy-eight per cent was a figure for her sister and not for the district — arrived at another way, and not the three hundred and eight in four hundred and eleven — and that a person was in any case a poor thing to render as a fraction; or the seven weeks it had taken von Wittenberg’s team to be sure of it; or the specific and until recently classified sense in which “settled record” did not mean the same thing as “returned.”"
+      ]
+    ],
+    "closing": [
+      [
+        2021,
+        "“I’m not qualified.”"
+      ],
+      [
+        2022,
+        "“Lolly,” she said, “we have been over this in a car park.”"
+      ],
+      [
+        2023,
+        "She took it, and kept the green notebook, which by then had four hundred pages and had begun a second volume, and which is quoted in the schedule to the Act."
+      ],
+      [
+        2024,
+        "Rule: Seventy-eight per cent of a life, named as such, is truer than a hundred per cent of a form."
+      ],
+      [
+        2025,
+        "→ Lecture for this chapter: Negentropy"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 36,
+    "file": "Chapter_17_A_Very_Good_Obituary.txt"
+  },
+  {
+    "title": "Chapter 18: There Is No Lid",
+    "start": 2026,
+    "end": 2071,
+    "words": 2133,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        2027,
+        "And on a Friday in March, in the reading room of the branch library on Coldharrow Street, at the table by the window overlooking the shut-down carpet showroom, she found a very old Austrian gentleman waiting for her with a wooden box on the table and two cups of coffee already going cold."
+      ],
+      [
+        2028,
+        "“Sit,” said the old man. “I have ordered you a coffee and it is already unpleasant, which is the most reliable thing in this building. Erich Schrottfinger. You have been sent to me by a dead Irishman, a French duke, and a vampire, which is a referral pattern I have not had since 1953.”"
+      ],
+      [
+        2029,
+        "He was very old and very Viennese, in a bow tie that had been tied by somebody who cared, with a great deal of white hair and an air of enormous and slightly disreputable charm. The box between them was about the size of a hatbox, with air holes."
+      ],
+      [
+        2030,
+        "Lolly looked at the box."
+      ]
+    ],
+    "closing": [
+      [
+        2066,
+        "Then, last, in the ordinary handwriting of someone who had somewhere to be:"
+      ],
+      [
+        2067,
+        "There is no lid."
+      ],
+      [
+        2068,
+        "Which is to say: the beginning of the part that has not been written down."
+      ],
+      [
+        2069,
+        "Rule: Keep the ledger honest. Keep noticing. There is no lid."
+      ],
+      [
+        2070,
+        "→ Lecture for this chapter: The Long Future"
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 45,
+    "file": "Chapter_18_There_Is_No_Lid.txt"
+  },
+  {
+    "title": "Epilogue: The Ministry Has Learned Nothing",
+    "start": 2071,
+    "end": 2104,
+    "words": 350,
+    "rules": [],
+    "phys_ptrs": [],
+    "opening": [
+      [
+        2072,
+        "Three weeks after the incident, the Ministry issued a statement."
+      ],
+      [
+        2073,
+        "It was signed by Q.E.D., whose full name was Quentin Edmund Darling, allegedly."
+      ],
+      [
+        2074,
+        "It was seventeen pages long."
+      ],
+      [
+        2075,
+        "The first sixteen pages explained that nothing unusual had happened."
+      ]
+    ],
+    "closing": [
+      [
+        2099,
+        "Allegedly. Apparently. Or, as the Ministry preferred to put it, all is well. Or is it?"
+      ],
+      [
+        2100,
+        "And in the basement, beneath several floors of perfectly respectable bureaucracy, the Ministry continued to simplify reality by making it someone else’s problem."
+      ],
+      [
+        2101,
+        "Which was, after all, what it had been designed to do."
+      ],
+      [
+        2102,
+        "THE END."
+      ],
+      [
+        2103,
+        "Obviously."
+      ]
+    ],
+    "empty_clusters": [],
+    "para_count": 33,
+    "file": "Epilogue_The_Ministry_Has_Learned_Nothing.txt"
+  }
+]

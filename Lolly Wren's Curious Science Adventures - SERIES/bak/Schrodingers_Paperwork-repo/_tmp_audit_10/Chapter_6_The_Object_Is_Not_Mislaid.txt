@@ -1,0 +1,128 @@
+954|Heading 1|Chapter 6: The Object Is Not Mislaid
+955|Normal|Stephanie Fainrose said there was a black hole in regional infrastructure while adjusting the flame under a kettle with one hand and isolating a collapsing gravitational trace with the other.
+956|Normal|Nobody spoke for several seconds. Then Jago Flint said, “I don’t wish to seem needlessly difficult, but that sounds like the sort of thing someone ought to have mentioned on a sign.”
+957|Normal|Fainrose ignored him. On the narrow screen above the wire mesh box, the line marked Singularity Asset 4C continued its steady descent. It did not plunge, jitter, or fail theatrically. It diminished with the calm self-possession of a process obeying a law.
+958|Normal|Lolly found this more disturbing than panic would have been. She moved closer to the display. “When you say black hole—”
+959|Normal|“I do,” said Fainrose.
+960|Normal|“Yes, but in what sense.”
+961|Normal|“In the astrophysical one, regrettably.”
+962|Normal|Mrs Elspeth Chain, who had accepted over the last day that government could ruin a home, falsify a queue, and rename a sister out of existence, nevertheless seemed to feel that black holes ought to remain above the civil-service grade at which incompetence became infrastructure.
+963|Normal|“You cannot possibly mean,” she said, “that the Ministry put an actual cosmic abyss under public administration.”
+964|Normal|Fainrose poured water into a teapot. “My dear Mrs Chain,” she said, “the modern state will administer anything it cannot properly understand. Gravity is attractive to them because it looks authoritative from a distance.”
+965|Normal|Beatrix Sloan remained by the bench, arms folded. “You said transport curvature and waste density management.”
+966|Normal|“Yes.”
+967|Normal|“That sounds invented.”
+968|Normal|“Almost everything important does at first hearing.”
+969|Normal|She brought the tea to the table with the composure of a woman whose threshold for disaster had long ago ceased to be numerical. “There were experimental civic singularities fifteen years ago,” she said. “Tiny, engineered, heavily contained, used as anchor points for compression arrays, freight deflection, deep storage, and several proposals too idiotic to survive daylight. Most were decommissioned, on paper. A few, I suspect, were transferred into administrative twilight, where oversight goes when ministers require deniability.”
+970|Normal|Jago accepted a cup. “And this one.”
+971|Normal|“This one,” said Fainrose, “appears to be shrinking.”
+972|Normal|Lolly sat down without entirely deciding to. “Black holes can lose mass,” she said slowly. “In principle.”
+973|Normal|Fainrose looked at her over the rim of her spectacles. “Yes.”
+974|Normal|“But not because someone moved a decimal point.”
+975|Normal|“No.”
+976|Normal|“Then why is it happening now.”
+977|Normal|Fainrose set down her cup and returned to the bench. With quick, exact movements she called up a second plot beside the first: one curve descending, another climbing with glacial patience. TEMPERATURE ESTIMATE.
+978|Normal|“Because,” she said, “the universe is under no obligation to preserve large, gloomy objects merely because institutions have built paperwork around them.”
+979|Normal|Lolly stood again. “You think it’s Hawking radiation.”
+980|Normal|“I think,” said Fainrose, “that if a black hole loses energy by quantum emission, its mass falls. As its mass falls, its temperature rises. As its temperature rises, it radiates more efficiently. Which means the process does not merely continue. It accelerates.”
+981|Normal|Mrs Chain stared. “Who is Hawking.”
+982|Normal|There was a silence. Beatrix closed her eyes briefly.
+983|Normal|Jago said, “A physicist, Mrs Chain, not a department.”
+984|Normal|“Though his name does have the regrettable competence of one,” said Fainrose.
+985|Normal|Lolly was watching the screen. “That line—is that temperature increasing.”
+986|Normal|“Yes.”
+987|Normal|“And the downward line is mass.”
+988|Normal|“Yes.”
+989|Normal|“So the smaller it gets, the hotter it becomes.”
+990|Normal|“Yes.”
+991|Normal|“And eventually—”
+992|Normal|“Eventually,” said Fainrose, “the object ceases to be a useful noun, which is rarely a calming development.”
+993|Normal|Jago sipped tea. “I dislike it when physics becomes literary.”
+994|Normal|“It is a flaw in the subject,” said Fainrose.
+995|Normal|Beatrix stepped closer to the display. “How certain.”
+996|Normal|“Of the mechanism, moderately. Of the consequences, sufficiently.”
+997|Normal|“That is not a percentage.”
+998|Normal|“No.”
+999|Normal|Fainrose adjusted the scale again. The descending curve sharpened at its lower end, as though modestly reluctant to admit what came next. “There is a vulgar public explanation,” she said, “involving particle pairs and one escaping from the horizon while the other falls inward. It is not wholly useless, but it encourages exactly the wrong sort of confidence. The cleaner statement is that quantum fields do not remain politely empty in curved spacetime, and black holes therefore emit thermal radiation. Once you accept that, the rest is book-keeping with terrible implications.”
+1000|Normal|Lolly opened the green notebook. “Thermal,” she said aloud while writing. “So not random debris. Not leakage. Radiation with a temperature.”
+1001|Normal|“Quite.”
+1002|Normal|“And if it radiates, it loses energy.”
+1003|Normal|“Yes.”
+1004|Normal|“And since mass and energy—”
+1005|Normal|“Are old friends,” said Fainrose.
+1006|Normal|She wrote faster.
+1007|Normal|Mrs Chain, who had no intention of being excluded merely because the apocalypse had become mathematical, said, “What happens when it’s gone.”
+1008|Normal|Nobody answered her at once. Outside, something metallic shifted in the garden. A branch tapped the window with the faint insistence of weather wishing to be kept informed.
+1009|Normal|At last Fainrose said, “That depends on what the Ministry has attached to it.”
+1010|Normal|Beatrix’s expression hardened. “Anchors.”
+1011|Normal|“Yes.”
+1012|Normal|“Compression fields.”
+1013|Normal|“Yes.”
+1014|Normal|“Transport shortcuts.”
+1015|Normal|“Possibly.”
+1016|Normal|Mrs Chain set down her cup with care. “In ordinary language.”
+1017|Normal|Fainrose turned. “If they built civic systems around a singularity,” she said, “then those systems are using extreme gravity as part of their structure. Remove the object, and whatever was leaning on it must either fail, detach, or seek another way to remain possible.”
+1018|Normal|Jago gave this a moment’s thought. “Roads may become philosophical.”
+1019|Normal|“Roads are already philosophical,” said Lolly.
+1020|Normal|“Good,” said Jago. “Then they may begin issuing manifestos at roundabouts.”
+1021|Normal|Fainrose almost smiled again.
+1022|Normal|Lolly looked from the plots to the wire-mesh box holding the domestic stabiliser. “The house module found it.”
+1023|Normal|“Yes.”
+1024|Normal|“Why.”
+1025|Normal|“Because the same idiots are involved,” said Fainrose. “Coercive civic simplification requires anchors. If you want to force rich systems into cheaper states, you need somewhere for the surplus possibility to go.”
+1026|Normal|Mrs Chain blinked. “I’m sorry. The surplus what.”
+1027|Normal|“Possibility,” said Fainrose. “Ambiguity. Unrealised structure. Contradictory detail. The things bureaucracies call inefficiency when they mean life.”
+1028|Normal|Lolly stopped writing. A thought had arrived with the unpleasant smoothness of a blade entering water. “You mean the Ministry hasn’t just been classifying reality,” she said. “It has been removing degrees of freedom and dumping the cost elsewhere.”
+1029|Normal|Fainrose looked at her directly. “Yes.”
+1030|Normal|“Into the singularity.”
+1031|Normal|“Likely.”
+1032|Normal|Jago set his cup down. “And now the singularity is evaporating.”
+1033|Normal|“Yes.”
+1034|Normal|“So all the suppressed nonsense comes back out.”
+1035|Normal|Fainrose tilted her head. “That is not a scientific phrase.”
+1036|Normal|“Is it wrong.”
+1037|Normal|She considered. “No,” she said. “Annoyingly.”
+1038|Normal|Beatrix spoke at once. “Then we need location, rate, and threshold.”
+1039|Normal|“I’m getting them.”
+1040|Normal|“And after that.”
+1041|Normal|Fainrose’s fingers paused over the keyboard. “After that,” she said, “we determine whether this is merely catastrophic, or historically embarrassing.”
+1042|Normal|Lolly stared at the temperature curve. There was a peculiar stillness to the room now, the stillness produced when every person present has understood the same fact but not yet found a shape in which to admit it. The black hole was not being stolen. It was not being hidden. It was not awaiting approval. It was vanishing because the laws of quantum physics, after years of patient neglect, had at last presented their invoice.
+1043|Normal|Mrs Chain broke the silence first. “Can it be stopped.”
+1044|Normal|Fainrose did not answer immediately, which was answer enough to be offensive. “Perhaps slowed,” she said at last. “Not by people who say leveraging gravitational assets in meetings.”
+1045|Normal|“Can it be repaired.”
+1046|Normal|“One does not repair a black hole, Mrs Chain. One regrets having treated it municipally.”
+1047|Normal|Jago let out a quiet breath. “Marvelous sentence.”
+1048|Normal|Beatrix ignored him. “How long.”
+1049|Normal|Fainrose expanded the end of the curve until the graph showed only a steepening tail. “That,” she said, “depends on its actual mass, its present feed rate, and how aggressively they have been using it as a sink for administrative overreach. Large black holes evaporate so slowly as to be practically eternal. Small ones are another matter.”
+1050|Normal|Lolly looked up. “And this one is small.”
+1051|Normal|“It was designed to be manageable,” said Fainrose, in a tone making plain that this was among the more reckless adjectives ever attached to a singularity, just ahead of affordable.
+1052|Normal|The kettle ticked as it cooled. Somewhere in the shelves behind them, a clock chose that moment to resume, giving a single abrupt click as though time itself had remembered an appointment.
+1053|Normal|Lolly turned another page in the notebook. “If the radiation is thermal,” she said, “then what comes out doesn’t obviously tell you what fell in.”
+1054|Normal|Fainrose’s face became very still. “No,” she said.
+1055|Normal|Jago glanced between them. “I don’t care for that tone.”
+1056|Normal|“You shouldn’t,” said Fainrose.
+1057|Normal|Beatrix said, “Explain.”
+1058|Normal|Fainrose rested both hands on the bench. “If a black hole forms from real matter, absorbs structure, and later evaporates into radiation that appears to carry only broad thermodynamic character, then one must ask what became of the original information.”
+1059|Normal|Mrs Chain said, “Information.”
+1060|Normal|“Yes.”
+1061|Normal|“Not matter.”
+1062|Normal|“Both, if you enjoy losing sleep properly.”
+1063|Normal|Lolly felt a chill quite unrelated to temperature. “The house,” she said.
+1064|Normal|Fainrose nodded once. “The house.”
+1065|Normal|“The queue.”
+1066|Normal|“Yes.”
+1067|Normal|“The missing details. The erased alternatives. The parts they compressed.”
+1068|Normal|“Yes, Lolly.”
+1069|Normal|She looked at the shrinking curve and understood, with a sensation bordering on nausea, that the Ministry’s project was not merely untidy governance. It was a wager against the recoverability of reality.
+1070|Normal|Mrs Chain rose from the table. “I knew,” she said, “the moment they altered my crockery that this would end in moral sewage.”
+1071|Normal|No one contradicted her. Fainrose typed three final commands. A printer beneath the bench woke, considered its obligations, and began producing a long sheet of dense numbers and clipped warnings. At the top, in red, appeared: SINGULARITY ASSET 4C NET MASS LOSS CONSISTENT WITH HAWKING REGIME ANCHOR INSTABILITY ESCALATING
+1072|Normal|Beatrix took the page as it emerged. “Good,” she said. “Now we can prove they knew.”
+1073|Normal|Fainrose removed her spectacles, cleaned them once, and put them back on. “No,” she said. “Now we can prove they should have known. Which, in institutional terms, is often the more fatal category.”
+1074|Normal|Jago stood up. “I’m beginning to like science. It keeps its vindictive edges properly peer-reviewed.”
+1075|Normal|Mrs Chain picked up her umbrella. “And what exactly do we do now.”
+1076|Normal|Fainrose looked toward the window, where the afternoon had become unnaturally bright in the flat administrative way weather sometimes acquires before events. “We go and see,” she said, “how close the country is to being held together by an evaporating hole and several assumptions.”
+1077|Normal|Lolly closed the notebook. On the last line she wrote: Not vanishing by error. Vanishing by law. Then, after a moment: Much worse.
+1078|Normal|Fainrose looked at the gravitational trace and then at Lolly. “We have a clock,” she said. “A real one. Not a Ministry deadline. The anchor is evaporating, and when it goes, whatever is still inside it stops being recoverable.”
+1079|Normal|Lolly wrote the time down. She underlined it twice. For once, the paperwork was not the most frightening thing in the room.
+1080|Normal|Rule: Asset 4C is not going missing; it is becoming hotter, smaller, and harder to forgive.
+1081|Normal|→ Lecture for this chapter: Hawking Radiation

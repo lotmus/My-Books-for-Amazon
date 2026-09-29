@@ -1,0 +1,79 @@
+=== Heading1 style ===
+<w:style w:type="paragraph" w:styleId="Heading1"><w:name w:val="heading 1"/><w:uiPriority w:val="9"/><w:qFormat/><w:pPr><w:outlineLvl w:val="0"/></w:pPr><w:rPr><w:color w:val="2E74B5"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:style>
+
+=== Heading-styled paragraphs ===
+H1 pbb=True hard=False | Dedication
+H1 pbb=True hard=False | Contents
+H1 pbb=True hard=False | How to Read This Book
+H1 pbb=True hard=False | Physics Prologue
+H1 pbb=True hard=False | Cast of Characters
+H1 pbb=True hard=False | Prologue: Before Anything Went Wrong
+H1 pbb=True hard=False | Chapter 1: The Form That Would Not Resolve
+H1 pbb=True hard=False | Chapter 2: The Wrong Queue
+H1 pbb=True hard=False | Chapter 3: A Small Error in Reality
+H1 pbb=True hard=False | Chapter 4: Continuity Review
+H1 pbb=True hard=False | Chapter 5: Dr Fainrose Is Not Reassured
+H1 pbb=True hard=False | Chapter 6: The Object Is Not Mislaid
+H1 pbb=True hard=False | Chapter 7: What Remains Correlated
+H1 pbb=True hard=False | Chapter 8: The Backup That Could Not Exist
+H1 pbb=True hard=False | Chapter 9: The Two Columns
+H1 pbb=True hard=False | Chapter 10: The Moon That Was Pending
+H1 pbb=True hard=False | Chapter 11: An Uninvited Reflection
+H1 pbb=True hard=False | Chapter 12: The Duc de Brévanne Explains Himself Slowly
+H1 pbb=True hard=False | Chapter 13: The Panel of Experts
+H1 pbb=True hard=False | Chapter 14: Eleven Dimensions and a Whisper
+H1 pbb=True hard=False | Chapter 15: Final State Pending
+H1 pbb=True hard=False | Chapter 16: The Decision
+H1 pbb=True hard=False | Epilogue: The Ministry Has Learned Nothing
+H1 pbb=True hard=False | Appendix: The Physics Lecture
+H2 pbb=False hard=False | Chapter 1: Physics Notes: Superposition
+H2 pbb=False hard=False | Chapter 2: Physics Notes: Measurement Basis and Forced Collapse
+H2 pbb=False hard=False | Chapter 3: Physics Notes: Premature Collapse
+H2 pbb=False hard=False | Chapter 4: Physics Notes: State Reduction via Repeated Measurement
+H2 pbb=False hard=False | Chapter 5: Physics Notes: The Schrödinger Equation and Lawful Evolution
+H2 pbb=False hard=False | Chapter 6: Physics Notes: Hawking Radiation
+H2 pbb=False hard=False | Chapter 7: Physics Notes: Entanglement and the Beginning of Decoherence
+H2 pbb=False hard=False | Chapter 8: Physics Notes: The No-Cloning Theorem and Quantum Error Correction
+H2 pbb=False hard=False | Chapter 9: Physics Notes: The Uncertainty Principle—Position and Momentum
+H2 pbb=False hard=False | Chapter 10: Physics Notes: Decoherence and Einselection
+H2 pbb=False hard=False | Chapter 11: Physics Notes: The Measurement Problem and Wigner’s Friend
+H2 pbb=False hard=False | Chapter 12: Physics Notes: De Broglie Matter Waves and Pilot-Wave Theory
+H2 pbb=False hard=False | Chapter 13: Physics Notes: Bell’s Theorem and the CHSH Inequality
+H2 pbb=False hard=False | Chapter 14: Physics Notes (Part One of Two): String Theory and M-Theory
+H2 pbb=False hard=False | Chapter 14: Physics Notes (Part Two of Two): Black-Hole Entropy and Holography
+H2 pbb=False hard=False | Chapter 15: Physics Notes: Quantum Error Correction, Partial Recovery and Planni
+H2 pbb=False hard=False | Chapter 16: Physics Notes: Thermodynamics, Negentropy and the Long Future
+H2 pbb=False hard=False | Further Reading
+H2 pbb=False hard=False | Glossary
+H1 pbb=True hard=False | A Word on Who Is Who
+H1 pbb=True hard=False | A Note on the Author
+H1 pbb=True hard=False | About the Series
+
+Heading1 count=27
+Heading1 with pageBreakBefore=27
+hard page-break runs in document=1
+pageBreakBefore total occurrences=27
+
+=== lines that look like chapters but may not be Heading1 ===
+NOT HEADING pbb=False | How to Read This Book
+NOT HEADING pbb=False | Physics Prologue: The Whole Book, Briefly
+NOT HEADING pbb=False | Cast of Characters
+NOT HEADING pbb=False | Prologue: Before Anything Went Wrong
+NOT HEADING pbb=False | Epilogue: The Ministry Has Learned Nothing
+NOT HEADING pbb=False | Appendix: The Physics Lecture
+NOT HEADING pbb=False | Chapter 1 — Superposition. Max Born, the probability interpretation of the wavefunction (1
+NOT HEADING pbb=False | Chapter 2 — Measurement Basis and Forced Collapse. Otto Stern and Walther Gerlach, the Ste
+NOT HEADING pbb=False | Chapter 3 — Premature Collapse. Berthold-Georg Englert, the quantitative relation between 
+NOT HEADING pbb=False | Chapter 4 — State Reduction via Repeated Measurement. Baidyanath Misra and E. C. George Su
+NOT HEADING pbb=False | Chapter 5 — The Schrödinger Equation and Lawful Evolution. Erwin Schrödinger, the time-evo
+NOT HEADING pbb=False | Chapter 6 — Hawking Radiation. Stephen Hawking, “Black hole explosions?” (1974) — a title 
+NOT HEADING pbb=False | Chapter 7 — Entanglement and the Beginning of Decoherence. John Bell, the inequality rulin
+NOT HEADING pbb=False | Chapter 8 — The No-Cloning Theorem and Quantum Error Correction. W. K. Wootters and W. H. 
+NOT HEADING pbb=False | Chapter 9 — The Uncertainty Principle. Werner Heisenberg, the original relation (1927) — n
+NOT HEADING pbb=False | Chapter 10 — Decoherence and Einselection. H. Dieter Zeh, the environment-entanglement acc
+NOT HEADING pbb=False | Chapter 11 — The Measurement Problem and Wigner’s Friend. John von Neumann, the formulatio
+NOT HEADING pbb=False | Chapter 12 — De Broglie Matter Waves and Pilot-Wave Theory. Louis de Broglie, the matter-w
+NOT HEADING pbb=False | Chapter 13 — Bell’s Theorem and the CHSH Inequality. John Bell, the original inequality (1
+NOT HEADING pbb=False | Chapter 14 — String Theory, M-Theory, Black-Hole Entropy and Holography. Edward Witten, th
+NOT HEADING pbb=False | Chapter 15 — Quantum Error Correction, Partial Recovery and Planning Without an Interpreta
+NOT HEADING pbb=False | Chapter 16 — Thermodynamics, Negentropy and the Long Future. Ludwig Boltzmann, the statist

@@ -1,0 +1,2124 @@
+======================================================================
+PROLOGUE.txt
+lines=17 chars=1552
+--- HEAD ---
+In Which the Universe Refuses to Behave
+The murder had not happened yet. This was unusual mainly because the paperwork said that it had.
+The time of death had been entered. The location had been entered. The victim had been identified.
+The victim was Derek Gent. Derek was alive. He was also the sort of man who noticed discrepancies in official paperwork. This particular discrepancy was rather difficult to ignore.
+The paperwork predicted his death three days before it was due to occur. Derek therefore did what any sensible investigator would do.
+He checked the date, then the time, then the old clock.
+Then the clock again, because the first check had produced a result he found professionally inconvenient. 11:17. The mysterious clock had stopped.
+Then there was Sherlock, a dolphin who worked remotely as an occasional Bureau consultant and was paid in fish. Nobody had yet found this arrangement stranger than the cases he commented on.
+For the same reason, when Derek found a murder notice announcing his own future death, he did not immediately conclude that he was being hunted by a time traveller, a quantum ghost or an unusually vindictive neighbour.
+The case would eventually force an even less comfortable possibility: that the Bureau’s own computer was not merely recording the crime, but mis-filing a future event as one.
+He began with the evidence.
+A stopped clock.
+A future date.
+A murder that had not happened.
+And, eventually, a distant, mysterious train.
+There was only one sensible response. Investigate.
+Preferably before 11:17.
+--- TAIL ---
+In Which the Universe Refuses to Behave
+The murder had not happened yet. This was unusual mainly because the paperwork said that it had.
+The time of death had been entered. The location had been entered. The victim had been identified.
+The victim was Derek Gent. Derek was alive. He was also the sort of man who noticed discrepancies in official paperwork. This particular discrepancy was rather difficult to ignore.
+The paperwork predicted his death three days before it was due to occur. Derek therefore did what any sensible investigator would do.
+He checked the date, then the time, then the old clock.
+Then the clock again, because the first check had produced a result he found professionally inconvenient. 11:17. The mysterious clock had stopped.
+Then there was Sherlock, a dolphin who worked remotely as an occasional Bureau consultant and was paid in fish. Nobody had yet found this arrangement stranger than the cases he commented on.
+For the same reason, when Derek found a murder notice announcing his own future death, he did not immediately conclude that he was being hunted by a time traveller, a quantum ghost or an unusually vindictive neighbour.
+The case would eventually force an even less comfortable possibility: that the Bureau’s own computer was not merely recording the crime, but mis-filing a future event as one.
+He began with the evidence.
+A stopped clock.
+A future date.
+A murder that had not happened.
+And, eventually, a distant, mysterious train.
+There was only one sensible response. Investigate.
+Preferably before 11:17.
+--- GAG/KEY HITS ---
+[dolphin] (1 hits)
+  L8: Then there was Sherlock, a dolphin who worked remotely as an occasional Bureau consultant and was paid in fish. Nobody had yet found this ar
+[11:03|11:17|seventeen] (2 hits)
+  L7: Then the clock again, because the first check had produced a result he found professionally inconvenient. 11:17. The mysterious clock had st
+  L17: Preferably before 11:17.
+[clock] (3 hits)
+  L6: He checked the date, then the time, then the old clock.
+  L7: Then the clock again, because the first check had produced a result he found professionally inconvenient. 11:17. The mysterious clock had st
+  L12: A stopped clock.
+[murder] (3 hits)
+  L2: The murder had not happened yet. This was unusual mainly because the paperwork said that it had.
+  L9: For the same reason, when Derek found a murder notice announcing his own future death, he did not immediately conclude that he was being hun
+  L14: A murder that had not happened.
+[train] (1 hits)
+  L15: And, eventually, a distant, mysterious train.
+[Sherlock] (1 hits)
+  L8: Then there was Sherlock, a dolphin who worked remotely as an occasional Bureau consultant and was paid in fish. Nobody had yet found this ar
+
+======================================================================
+Chapter 1 _ The Surprise in the Morning.txt
+lines=218 chars=13816
+--- HEAD ---
+At precisely 9:17 on a Tuesday morning, Derek Gent received an email informing him that he was dead. He was not particularly surprised.
+Derek had always suspected that death would arrive by email. In this, as in so many other matters, he had been only slightly ahead of the general population — a position he found both comforting and faintly depressing, which was, on balance, better than the alternatives. The alternatives were rarely an improvement, a fact Derek had verified more than once, usually at personal cost and never with a sense of novelty.
+Not because he was especially pessimistic, but because nearly everything important seemed to arrive by email these days. Electricity bills. Convenient ways to re-enter bank account numbers for verification. Invitations to life-changing webinars. A unique opportunity to cooperate with a prince in Nigeria. Notifications that someone had changed a password Derek had never used. Insurance recommendations. Death was simply the logical next step. What surprised him was the sender.
+The message had come from the Derek Gent Relativistic Investigation Bureau. Derek stared at the screen. The Bureau was not supposed to send him emails. Derek had written the rule himself, which made its violation particularly irritating.
+It was his Bureau. More precisely, it was a small private investigative organization occupying two rooms on the second floor of an old office building in London, plus a corridor which the landlord insisted was a communal area and Derek insisted belonged to his Bureau whenever he needed somewhere to dry his brolly. The Bureau dealt primarily with unusual cases.
+This was partly because Derek liked unusual cases and partly because ordinary cases paid terribly. The sign on the frosted glass door read:
+DEREK GENT
+RELATIVISTIC INVESTIGATION BUREAU
+Underneath, in smaller letters:
+CAUSALITY, CHRONOLOGY &
+OTHER INCONVENIENCES
+And underneath that, added by Penny several years earlier:
+NO MURDERS BEFORE 10 A.M.
+WITHOUT AN APPOINTMENT
+Derek had objected. Penny had pointed out that they had never actually received a case before ten.
+Derek had said that this was beside the point.
+Penny had stated that was precisely the point.
+Derek had lost.
+He was now looking at an email from the Bureau. The subject line was:
+CASE UPDATE: DEREK GENT
+He opened it.
+Dear Mr Gent,
+We regret to inform you that you have been
+murdered.
+The incident will occur tomorrow at 11:03 a.m.
+The perpetrator has been identified. It is you.
+Kind regards,
+Derek Gent
+Relativistic Investigation Bureau.
+Derek read it again.
+Then a third time. He glanced at the sender’s address. It was correct.
+Then he stared at the Bureau’s computer. It was his computer.
+Everything appeared to be where it ought to be. Derek did not find this reassuring.
+The filing cabinet was locked. The kettle was where the kettle normally was, which was not necessarily where it ought to be.
+Outside, a bus pulled away from the kerb with a noise suggesting that several of its components had voted against the decision. Rain tapped the window. Somewhere downstairs, the landlord was drilling into something which, judging by previous work, would shortly become the Bureau’s responsibility.
+Derek gazed at the email again, with the particular stillness of a man who has just been handed a problem that refuses to sit neatly in any of the usual categories. The Bureau had categories for almost everything. This was not among them. A new category would no doubt be invented once the damage was complete.
+“That’s inconvenient,” he commented, as if the matter were primarily a filing error.
+Being confronted with a situation such as “Apparently I’ve been murdered.”  made Derek feel considerably less useful.
+Across the empty room, Trevor Boltzman looked up. Trevor was twenty-eight, highly intelligent, technically qualified, and possessed of the unfortunate tendency to think about one problem at a time — a trait that made him excellent at mathematics and intermittently disastrous at life. When thinking deeply, he carried himself like a frozen Windows system before reboot.
+He had a sister, Tabitha, who was generally considered the more dangerous of the two, a fact Trevor mentioned only when cornered, and sometimes not even then.
+At his desk, Trevor removed his glasses — a gesture that, in the Bureau, usually preceded either insight or complete bafflement, with no reliable way of telling which in advance. “What?”
+Derek had stopped trying to predict it years ago. “I’ve been murdered.”
+“Recently?”
+“Tomorrow.”
+Trevor stared at him. “Tomorrow?”
+--- TAIL ---
+“So, the photograph was taken two hours later.”
+“Yes.”
+Trevor wore the pleased expression of a man who had just solved something. “That’s what I meant.”
+“No,” Penny replied. “It isn’t.”
+Trevor’s expression collapsed with the quiet dignity of a man who has just watched a carefully constructed theory meet reality and lose. It was a look Derek had come to recognise, and almost respect. “Oh.”
+Derek got up and walked to the window.
+Outside, London was grey and wet. A bus stopped at the kerb, and another stopped behind it.
+Derek watched the traffic. London was, as usual, being mildly inconvenient.
+Penny raised her eyes. “Your impending murder?”
+“Other than that.”
+“Your Bureau?”
+“Also other than that.”
+Trevor thought. “Your cousin?”
+Penny gazed at him. Trevor immediately reconsidered his life choices.
+But Derek smiled softly. “No.”
+He tapped the photograph. “We have a clock reading eleven-oh-three and a room full of clocks reading nine-twenty-one. Before we call either one wrong, we need to ask whose time it is.”
+Trevor frowned. “Special Relativity?”
+“Exactly. Two observers in relative motion can disagree about whether separated events are simultaneous without either observer being wrong.”
+Penny looked at the body in the photograph. “So the death is the event, but eleven-oh-three is a time coordinate assigned to it.”
+“Yes. And a photograph records light arriving at a camera, not some universal view from nowhere.”
+Trevor looked again at the clock. “Meaning the picture can tell us what was seen, but not yet which frame made that timestamp meaningful.”
+Derek nodded. “That is all the relativity we need for the moment. The train and the algebra can wait until we actually have a train.”
+Penny enlarged the lower-right corner of the image. “Good. Because we have something better than a lecture.”
+There was something in the lower-right corner. A piece of paper.
+Penny zoomed in. It contained three lines.
+11:03 — DEATH
+11:17 — DEPARTURE
+12:04 — ARRIVAL
+Below them:
+DO NOT TRUST THE CLOCKS.
+--- GAG/KEY HITS ---
+[bureaucracy|bureaucratic|Inland Revenue|forms?\b|appointment] (3 hits)
+  L14: WITHOUT AN APPOINTMENT
+  L23: We regret to inform you that you have been
+  L76: “Like you’ve just discovered the Inland Revenue has found you.”
+[tea\b] (2 hits)
+  L60: Trevor stood. “Tea?”
+  L125: “You made two cups of tea.”
+[Tuesday] (2 hits)
+  L1: At precisely 9:17 on a Tuesday morning, Derek Gent received an email informing him that he was dead. He was not particularly surprised.
+  L84: “It’s Tuesday.”
+[11:03|11:17|seventeen] (5 hits)
+  L25: The incident will occur tomorrow at 11:03 a.m.
+  L160: Derek looked again. The old clock showed 11:03.
+  L164: He looked back at the photograph. 11:03.
+  L214: 11:03 — DEATH
+[clock] (12 hits)
+  L70: Before Derek could answer, the door opened. Penny Gent, Derek’s cousin, stepped in without waiting for an invitation. She had never been muc
+  L151: Derek peered at the screen. A small, silent brass railway clock stood beside the computer, looking entirely ordinary and entirely wrong, whi
+  L159: “An old railway clock.”
+  L160: Derek looked again. The old clock showed 11:03.
+[murder] (11 hits)
+  L13: NO MURDERS BEFORE 10 A.M.
+  L24: murdered.
+  L38: Being confronted with a situation such as “Apparently I’ve been murdered.”  made Derek feel considerably less useful.
+  L42: Derek had stopped trying to predict it years ago. “I’ve been murdered.”
+[photograph] (13 hits)
+  L134: A photograph appeared. For a moment Derek stopped breathing. The room felt briefly smaller, as if the air itself had taken an interest. He r
+  L139: Derek turned the monitor toward them. The photograph showed their office. Not a similar office.
+  L141: The same green filing cabinet. The same window overlooking the street. The same framed photograph of Derek’s grandfather standing beside a M
+  L164: He looked back at the photograph. 11:03.
+[frame] (2 hits)
+  L141: The same green filing cabinet. The same window overlooking the street. The same framed photograph of Derek’s grandfather standing beside a M
+  L209: Trevor looked again at the clock. “Meaning the picture can tell us what was seen, but not yet which frame made that timestamp meaningful.”
+[train] (2 hits)
+  L71: She was also one of those people who always appeared to have been designed specifically to make other people lose their train of thought. Sh
+  L210: Derek nodded. “That is all the relativity we need for the moment. The train and the algebra can wait until we actually have a train.”
+[causality] (1 hits)
+  L10: CAUSALITY, CHRONOLOGY &
+
+======================================================================
+Chapter 2 _ Case 1047.txt
+lines=219 chars=8936
+--- HEAD ---
+For several seconds, nobody spoke. The three-line note sat on the screen like a timetable written by someone who already knew the journey.
+Penny read it. “That’s ominous.”
+“Very.”
+“Could ‘departure’ mean the train?”
+“Perhaps.”
+“Arrival?”
+“Perhaps.”
+“Death?”
+“Almost certainly me.”
+Trevor shifted uneasily.
+Penny turned to him. “That’s a surprisingly weak argument.”
+“It has served me well.”
+Derek zoomed in again.
+The railway silent clock in the photograph wasn’t showing exactly 11:03.
+It showed 11:03:17.
+Derek stared intently.
+He looked at his own clock. 9:27:17.
+He checked his phone. 9:27:17.
+The wall clock. 9:27:17.
+Derek pointed. “Seventeen seconds.”
+He said it quietly, as if the number itself might change if spoken too loudly.
+Trevor looked sharply. “Same.”
+Derek nodded. “That’s interesting.”
+Penny leaned closer. “Why?”
+“Because if this were simply a badly set clock, there’s no reason for the seconds to line up.”
+Trevor thought about that. “Could someone have set it deliberately?”
+“Yes.”
+Penny fixed him with a look.
+Trevor nodded quickly. “Exactly.”
+Derek opened the Bureau’s internal records.
+The system showed no record of the ancient brass clock.
+No purchase.
+No inventory entry. No photograph. No mention of it.
+Derek searched the building’s security footage. Nothing. He checked the office camera.
+At 9:16, the old desk was empty. At 9:17, the old desk was empty. At 9:18, the desk was empty.
+At 9:19, the old desk was empty. At 9:20, the ancient brass clock appeared. Trevor stared. “How?”
+Derek replayed it. The clock simply suddenly appeared. There was no hand.
+There was no person and no shadow. One frame showed nothing.
+The next showed the clock. Penny watched Derek. “That’s not normal.”
+“No.”
+“No.”
+“Could the camera have glitched?”
+“Yes.”
+“Did it?”
+“No.”
+--- TAIL ---
+Derek opened the door. “Because someone has already told us that we will.”
+Penny followed him. Trevor remained where he was.
+“Derek?”
+“Yes?”
+“What if the message is wrong?”
+Derek turned back. “Then we’ll have wasted a perfectly good morning.”
+“And if it’s right?”
+Derek smiled. “Then I suppose I’ll have to solve my own murder. The words sounded almost reasonable until one considered them.”
+They stepped into the corridor. Mrs Marsh, the building superintendent, was already there, polishing a non-existent mark on the wall with the air of someone who had been waiting specifically to be inconvenient. She was widely regarded as the most immovable object in the building, and possibly in several adjacent dimensions. She did not look up. “You’re tracking geometry in again,” she said.
+Further down the corridor, Mr Pendleton from Facilities stood with a clipboard and the expression of a man who had already decided the answer was no.
+He specialised in a different kind of obstruction: the kind that required signatures, countersignatures, and the quiet insistence that whatever you needed was in a different section, a different building, or a different continuum. The heavy door closed behind them with the finality of a decision that had already been made somewhere else. Inside the empty office, the old brass clock appeared on Derek’s desk as if it had been waiting for the room to be unoccupied.
+Its second hand moved. One. Two.
+Three. It reached seventeen. Stopped.
+Then continued. But now the clock was showing 11:03. And outside the empty office, somewhere far away, a distant train whistle sounded.
+There was no railway empty station anywhere near the building. The whistle sounded again. Then a third time.
+The Bureau’s computer switched itself on.
+A final message appeared.
+CASE 1047
+STATUS: ACTIVE
+VICTIM: DEREK GENT
+PERPETRATOR: TREVOR BOLTZMAN
+WITNESS: PENNY
+PHYSICIST: ALFRED WEINSTEIN
+REFERENCE FRAME: UNKNOWN
+And beneath it, in smaller letters:
+DO NOT LET WEINSTEIN GET TO THE EMPTY STATION FIRST.
+The message disappeared. The screen went black.
+Then the computer displayed the date.
+Wednesday. 11:03. 17 seconds.
+The quiet office was empty. For the moment.
+--- GAG/KEY HITS ---
+[bureaucracy|bureaucratic|Inland Revenue|forms?\b|appointment] (1 hits)
+  L175: Platform 7
+[11:03|11:17|seventeen] (11 hits)
+  L14: The railway silent clock in the photograph wasn’t showing exactly 11:03.
+  L15: It showed 11:03:17.
+  L20: Derek pointed. “Seventeen seconds.”
+  L61: Seventeen seconds.
+[Weinstein] (2 hits)
+  L212: PHYSICIST: ALFRED WEINSTEIN
+  L215: DO NOT LET WEINSTEIN GET TO THE EMPTY STATION FIRST.
+[clock] (19 hits)
+  L14: The railway silent clock in the photograph wasn’t showing exactly 11:03.
+  L17: He looked at his own clock. 9:27:17.
+  L19: The wall clock. 9:27:17.
+  L25: “Because if this were simply a badly set clock, there’s no reason for the seconds to line up.”
+[murder] (3 hits)
+  L81: SUBJECT: Murder
+  L187: “After you’re murdered?”
+  L197: Derek smiled. “Then I suppose I’ll have to solve my own murder. The words sounded almost reasonable until one considered them.”
+[photograph] (10 hits)
+  L14: The railway silent clock in the photograph wasn’t showing exactly 11:03.
+  L33: No inventory entry. No photograph. No mention of it.
+  L53: “Could they have edited the photograph?”
+  L58: He took the ancient brass clock from the photograph and compared its mechanism with the Bureau’s clocks.
+[frame] (3 hits)
+  L38: There was no person and no shadow. One frame showed nothing.
+  L152: FRAME
+  L213: REFERENCE FRAME: UNKNOWN
+[train] (2 hits)
+  L4: “Could ‘departure’ mean the train?”
+  L203: Then continued. But now the clock was showing 11:03. And outside the empty office, somewhere far away, a distant train whistle sounded.
+[station] (2 hits)
+  L204: There was no railway empty station anywhere near the building. The whistle sounded again. Then a third time.
+  L215: DO NOT LET WEINSTEIN GET TO THE EMPTY STATION FIRST.
+
+======================================================================
+Chapter 3 _ The Lorentz Transform.txt
+lines=631 chars=25519
+--- HEAD ---
+By Wednesday morning, Derek Gent had decided that there were two kinds of impossible. The first kind was the ordinary sort. A man could not be in two places at once.
+A clear photograph could not normally exist before it was taken. A clock could not run backwards without either being broken or being subjected to a level of engineering that Derek considered unnecessarily ambitious. The second kind was considerably worse.
+The second kind was something that was perfectly consistent with the laws of physics but completely inconsistent with common sense. Derek had spent most of his professional life dealing with the second kind. He found it much more expensive.
+At 8:36 on Wednesday morning, he was standing in front of the whiteboard in the Bureau while Trevor sat at the old desk and Penny leaned against the window. The brass railway clock sat between them. It had arrived sometime during the night.
+Nobody had seen it arrive.
+Nobody knew where it had come from.
+And it was still showing 11:03:17.
+Derek had written three words on the board.
+EVENT
+FRAME
+TIME
+He underlined the first.
+“The first thing we need to establish,” he explained, “is what actually happened.”
+Trevor studied the photograph. “You mean the murder?”
+“I mean the event.”
+“Isn’t that the same thing?”
+“No.”
+Trevor considered this. “Not necessarily. You may be putting the cart before the flaming horse.”
+“Precisely.”
+Penny regarded the silent clock. “We have a photograph of you lying dead.”
+“Yes.”
+“We have a timestamp.”
+“Apparently.”
+“We have a second timestamp in the Bureau,” Penny stated.
+“Yes.”
+“And the two don’t agree.”
+“Not yet.”
+Trevor frowned. “Not yet?”
+Derek turned to him. “That’s an important distinction.”
+“Why?”
+“Because we don’t know whether they are supposed to agree.”
+Trevor examined the clock. “They’re both clocks.”
+“Yes.”
+“So, they measure time.”
+“Yes.”
+“And time is time.”
+Penny smiled. Derek inspected Trevor.
+Trevor immediately raised both hands. “I know.”
+“You’ve just contradicted Special Relativity.”
+“I know.”
+“Good.”
+Trevor nodded.
+Trevor sighed. “I was merely testing the waters.”
+Derek found his eyes. “You were throwing the fish tank into the river.”
+“No.”
+--- TAIL ---
+Derek opened the old door. “Normally, no.”
+He examined the clock. “This one appears to be an exception.”
+They stepped into the narrow corridor. Derek locked the familiar office. Then stopped.
+He looked back through the glass. For just a moment, he thought he saw somebody sitting at his desk. A man.
+Old. Grey-haired. Wearing a dark suit.
+Derek blinked. The chair was empty. He unlocked the door again.
+Trevor inspected him. “What?”
+“Nothing.”
+“The one at the station.”
+Derek frowned. “What station?”
+Weinstein answered, “London Terminus.”
+Derek froze. “Platform seven?”
+Weinstein confirmed, “At 11:17?”
+“Yes.”
+Derek exhaled. “Right. The ship has left the barn.”
+The brass clock was in his hand. He considered the chair again. Nothing.
+Penny mysteriously appeared in the doorway. “Coming?”
+“Yes.”
+Derek switched off the light. As the familiar door closed, the computer screen came on by itself. One sentence appeared.
+THE LORENTZ TRANSFORMATION IS CORRECT
+Then another.
+YOUR INTERPRETATION IS NOT
+And beneath it:
+NEXT: FIND THE STRANGE TRAIN
+The screen went dark. In the narrow corridor, Derek stopped. Penny glanced at him. “What now?”
+Derek smiled. “Now we catch a train.”
+Trevor frowned. “We’re not going anywhere.”
+“Not yet.”
+Derek studied the ancient mysterious brass clock. “That’s the point.”
+And somewhere, very far away—or possibly very close—the sound of a distant train began to move through the walls.
+--- GAG/KEY HITS ---
+[singularit] (2 hits)
+  L268: Mrs Marsh walked past without breaking stride. “If that is a singularity,” she said, “it is not registered to this address.”
+  L269: Derek leaned down for a closer look. The extra hand, on inspection, belonged to a passenger who had apparently brought a second, somewhat sm
+[bureaucracy|bureaucratic|Inland Revenue|forms?\b|appointment] (7 hits)
+  L270: Since the paperwork had changed, certain older forms still referred to arrangements that no longer applied. These were kept in a drawer labe
+  L338: “I’m saying that if you transform the measurements into a common frame, they are related.”
+  L464: Derek froze. “Platform seven?”
+  L468: “Platform seven?”
+[11:03|11:17|seventeen] (17 hits)
+  L7: And it was still showing 11:03:17.
+  L76: Trevor fell into thought. “So, when we say the photograph was taken at 11:03, we’re already making an assumption about the relationship betw
+  L120: Seventeen ticks for 17 seconds. Obviously. Wait, no, audibly.
+  L121: Trevor watched. “Why seventeen?”
+[Weinstein] (27 hits)
+  L167: Penny nodded. “Weinstein.”
+  L171: “No, I mean, that you’re using Weinstein’s equations to investigate a case involving Weinstein’s own theory.”
+  L303: Derek paused. “Alfred Weinstein?”
+  L309: Derek examined Penny. Penny raised an eyebrow. “That’s very Weinstein.”
+[LGV] (2 hits)
+  L84: LGV
+  L549: Derek turned it over. The letters LGV were still stamped into the back. Trevor looked over his shoulder. “What does LGV mean?”
+[clock] (36 hits)
+  L2: A clear photograph could not normally exist before it was taken. A clock could not run backwards without either being broken or being subjec
+  L4: At 8:36 on Wednesday morning, he was standing in front of the whiteboard in the Bureau while Trevor sat at the old desk and Penny leaned aga
+  L20: Penny regarded the silent clock. “We have a photograph of you lying dead.”
+  L32: Trevor examined the clock. “They’re both clocks.”
+[murder] (4 hits)
+  L14: Trevor studied the photograph. “You mean the murder?”
+  L248: Trevor brightened. “So, we don’t actually know that the photograph is evidence of murder.”
+  L250: Trevor sat back. “Then why did you say you’d been murdered?”
+  L591: Derek laughed. For the first time since receiving the murder notice, he felt genuinely cheerful. Someone—or something—was giving them instru
+[photograph] (26 hits)
+  L2: A clear photograph could not normally exist before it was taken. A clock could not run backwards without either being broken or being subjec
+  L14: Trevor studied the photograph. “You mean the murder?”
+  L20: Penny regarded the silent clock. “We have a photograph of you lying dead.”
+  L57: Penny considered the photograph. “So, the question isn’t simply when Derek did.”
+[frame] (13 hits)
+  L10: FRAME
+  L185: “Meaning that time in one frame depends partly on where the event occurs in the other frame.”
+  L187: Trevor studied the photograph. “So, two events that are simultaneous in one frame need not be simultaneous in another.”
+  L197: Penny nodded. “Then the time coordinate assigned to that event could be different in the two frames.”
+[proper time] (1 hits)
+  L144: Trevor studied the clock again. “Could be 17 seconds of proper time.”
+[Lorentz] (3 hits)
+  L165: Trevor inspected the equations. “The Lorentz transformation.”
+  L281: “I understand you have been using the Lorentz transformation.”
+  L621: THE LORENTZ TRANSFORMATION IS CORRECT
+[train] (8 hits)
+  L454: “Ask him about the train.”
+  L456: “What train?”
+  L459: “There is a train.”
+  L460: “What train?”
+[station] (5 hits)
+  L264: Mrs Marsh, Derek suspected, operated on similar principles, only with better stationery.
+  L461: “The one at the station.”
+  L462: “What station?”
+  L610: “The one at the station.”
+
+======================================================================
+Chapter 4 _ The Weight of Time.txt
+lines=417 chars=15583
+--- HEAD ---
+By Thursday morning, Alfred Weinstein was sitting in a patent attorney’s office in Schwabing. He was bored. This was not unusual.
+He had once pointed out, forcefully and at some length, that a certain other physicist had also spent his most productive years examining patents in an office very much like this one, and that history had found this charming rather than suspicious. Nobody at the Bureau had found a tactful way to change the subject fast enough.
+The patent attorney was explaining a device intended to improve the efficiency of a mechanical regulator. Weinstein had been listening for approximately six minutes. He had understood the first two.
+The third had been optimistic. The fourth had involved a spring. The fifth had involved a spring behaving in a way Weinstein considered personally insulting.
+By the sixth minute, his mind had left the room. He looked out of the cold window. Munich was busy.
+A tram rattled past. A cyclist narrowly avoided a delivery cart.
+Someone shouted at someone else.
+A dog had apparently decided that the entire afternoon belonged to it. Weinstein watched the movement for a while. Then he quietly stared at the silent clock.
+He had been in the quiet office for forty-three minutes. It felt like three hours. He smiled.
+That was an interesting thought. The feeling of time passing was obviously psychological. Physical time was another matter.
+He gazed at the clock again. Then at his watch. They disagreed.
+Only slightly. Weinstein frowned. He checked them again.
+The difference was still there. He looked around the office. One mysterious clock was on the wall.
+His watch was on his wrist. Nothing unusual about that. He returned to the patent.
+The attorney was still speaking. Weinstein lasted another twelve seconds. Then his mind wandered back to the clocks.
+Suppose two identical clocks were placed at different heights. Would they remain synchronized? He knew the answer.
+No.
+General Relativity predicted that a strange clock deeper in a gravitational field would run more slowly than one higher up. The difference under ordinary circumstances was extremely small. But it was real.
+And, more importantly, it was measurable. Weinstein picked up his pencil. On the margin of the patent application he wrote:
+GRAVITY CHANGES THE RATE OF TIME
+He reread the sentence.
+Then added:
+THE DIFFERENCE SHOULD BE MEASURABLE
+He stared at it. The patent attorney stopped speaking. “Herr Weinstein?”
+“Yes?”
+“Are you following me?”
+“Absolutely.”
+“What did I just say?”
+Weinstein eyed the patent. Then at the attorney. Then at his pencil.
+“You were explaining the regulator.”
+“Yes.”
+“And the spring.”
+“Yes.”
+“The spring is wrong.”
+The attorney stared at him. “I beg your pardon?”
+Weinstein watched the diagram. “It won’t behave as you’ve described.”
+“Why not?”
+Weinstein surveyed the drawing for a moment. “Because you’ve assumed the temperature remains constant.”
+The attorney blinked. “Doesn’t it?”
+“No.”
+“Oh.”
+Weinstein turned the paper around and pointed to a line. “This coefficient changes with temperature.”
+The attorney leaned over the desk. “Good heavens.”
+Weinstein shrugged. “Well, there we are.”
+He returned to his mysterious clock. The patent attorney studied the amended diagram. Then at Weinstein.
+--- TAIL ---
+Penny paused at the door. “What?”
+Derek turned the silent clock over. The initials LGV were still stamped into the back.
+“I want to know what this means.”
+Trevor eyed it.
+“Perhaps Weinstein knows.”
+Derek nodded. “Perhaps.”
+Penny opened the door. “Ask him tomorrow.”
+Derek put the silent clock in his coat pocket. “Good idea.”
+They left the Bureau. Behind them, the computer switched itself on. A new case note mysteriously appeared.
+CASE 1047
+REFERENCE FRAME: INERTIAL
+GRAVITATIONAL CORRECTION: REQUIRED
+Derek’s name suddenly appeared beneath it.
+Then Trevor’s.
+Then Penny’s.
+Then Alfred Weinstein’s.
+Finally, one more line appeared.
+HERBERT MATKOWSKI: CONSULTING
+The screen went dark. In Munich, at almost exactly the same moment, the wall clock in the patent attorney’s familiar office stopped. Weinstein noticed.
+He watched his watch. Then at the clock. Then at the second hand.
+It had stopped at seventeen. He smiled. Matkowski noticed.
+“What?”
+Weinstein held up his watch. “Same thing.”
+Matkowski looked. “Indeed.”
+Weinstein put the watch away. “Good. Progress.”
+“What is?”
+“We’re going to London.”
+Matkowski nodded. “And the patent?”
+Weinstein looked sharply toward the quiet office. “The spring can wait.”
+They walked toward the strange station. Behind them, in the patent attorney’s office, the silent clock started again. Only this time it was running backwards.
+--- GAG/KEY HITS ---
+[bureaucracy|bureaucratic|Inland Revenue|forms?\b|appointment] (2 hits)
+  L203: “The relative velocity required to transform the two timestamps is greater than the speed of light.”
+  L325: Derek returned to the photograph. “Platform seven?”
+[Tuesday] (1 hits)
+  L258: Penny’s expression changed. She had gone very still, the way she did whenever the ordinary rules of a Tuesday afternoon stopped applying. Tr
+[11:03|11:17|seventeen] (5 hits)
+  L125: Weinstein studied the photograph. Then he noticed the clock. 11:03:17.
+  L327: “At 11:17?”
+  L374: “At 11:17.”
+  L385: Tick. It reached seventeen.
+[Weinstein] (55 hits)
+  L1: By Thursday morning, Alfred Weinstein was sitting in a patent attorney’s office in Schwabing. He was bored. This was not unusual.
+  L3: The patent attorney was explaining a device intended to improve the efficiency of a mechanical regulator. Weinstein had been listening for a
+  L4: The third had been optimistic. The fourth had involved a spring. The fifth had involved a spring behaving in a way Weinstein considered pers
+  L8: A dog had apparently decided that the entire afternoon belonged to it. Weinstein watched the movement for a while. Then he quietly stared at
+[LGV] (1 hits)
+  L389: Derek turned the silent clock over. The initials LGV were still stamped into the back.
+[clock] (37 hits)
+  L8: A dog had apparently decided that the entire afternoon belonged to it. Weinstein watched the movement for a while. Then he quietly stared at
+  L11: He gazed at the clock again. Then at his watch. They disagreed.
+  L13: The difference was still there. He looked around the office. One mysterious clock was on the wall.
+  L15: The attorney was still speaking. Weinstein lasted another twelve seconds. Then his mind wandered back to the clocks.
+[murder] (1 hits)
+  L376: “After your supposed murder.”
+[photograph] (10 hits)
+  L113: Matkowski handed him a vivid photograph.
+  L120: Weinstein peered at the strange vivid photograph again.
+  L125: Weinstein studied the photograph. Then he noticed the clock. 11:03:17.
+  L130: Weinstein watched the photograph.
+[frame] (5 hits)
+  L136: “What frame?”
+  L146: “And the observer’s frame.”
+  L204: Penny nodded. “So, the two timestamps cannot simply be the same event described in two inertial frames.”
+  L212: “Could the clock be genuine but the frame wrong?”
+[Lorentz] (1 hits)
+  L200: Trevor was at the computer. The three of them had spent the morning testing the Lorentz transformation against the mysterious timestamps. Th
+[station] (3 hits)
+  L322: Weinstein continued: “I’ll meet you at the station.”
+  L323: “Which station?”
+  L417: They walked toward the strange station. Behind them, in the patent attorney’s office, the silent clock started again. Only this time it was 
+
+======================================================================
+Chapter 5 _ The Man Who Had Mislaid Time.txt
+lines=567 chars=23987
+--- HEAD ---
+Julius Barbarian lived in a house which appeared to have been designed by someone who had once been told what a house was and had then decided to improvise. It stood on a quiet street in Munich, behind a low wall and a hedge which had clearly given up several years earlier. There was no sign on the gate.
+There was, however, a small brass plaque beside the front door.
+JULIUS BARBARIAN, PHYSICIST
+Underneath, in smaller letters:
+APPOINTMENTS ARE A HUMAN CONVENTION
+Underneath that, in smaller letters still, clearly added by hand at a later date:
+(Tuesdays remain broadly real. Mostly.)
+Derek Gent read it twice. “He’s going to be one of those people.”
+Penny surveyed the plaque. “Almost certainly.”
+Trevor still stood behind them, holding the ancient brass clock. “What sort of people?”
+“The sort who put philosophical statements on doorways.”
+Trevor considered this. “Could be worse.”
+“How?”
+“They could put them on mugs.”
+Penny nodded. “Fair point.”
+Derek pressed the bell. Nothing happened. He pressed it again.
+Still nothing. He pressed it a third time. The door quietly opened.
+A man stood there. Julius Barbarian was in his late sixties, perhaps early seventies.
+He was slim, silver-haired, and dressed in a dark jacket, open-necked shirt and rather expensive-looking trousers that had nevertheless acquired a small stain of something orange. He looked at Derek.
+Then Penny. Then Trevor. Then the silent clock.
+“You’re late.”
+Derek glanced at his watch. “We’re three minutes early.”
+“Precisely.”
+Barbarian opened the door wider. “Come in.”
+Derek hesitated. “How did you know who we were?”
+“I knew you were coming.”
+“How?”
+“Your car.”
+“We came by train.”
+“Exactly.”
+Derek stared at him. Barbarian smiled. “Come in.”
+They entered. The hallway was surprisingly ordinary. Bookshelves occupied both walls.
+There were papers everywhere. Not piles of papers, as in an ordinary untidy quiet office. Rather, papers appeared to have been distributed according to some private mathematical principle which Barbarian alone understood.
+There were books on physics, philosophy, mathematics and cosmology. There were also several books about gardening. One shelf contained nothing but clocks.
+Derek stopped. There were perhaps twenty of them. Pocket watches.
+Marine chronometers. Railway clocks. A grandfather clock.
+A small digital clock. A sundial. And, inexplicably, an egg timer.
+Trevor noticed it too.
+“Do you collect clocks?”
+“No.”
+Barbarian took off his jacket. “I collect things people use to pretend time exists.”
+Derek regarded Penny. Penny examined him.
+Trevor inspected the clocks. “That’s a rather strong statement.”
+Barbarian softly smiled. “I’ve been told.”
+He walked into the sitting room. They followed. A large wooden table occupied the centre of the room.
+--- TAIL ---
+Barbarian surveyed him. “Excellent?”
+“We have forty-seven minutes to find out where the train is going.”
+Barbarian shook his head.
+“No.”
+Derek frowned. “What?”
+“You have forty-seven minutes to find out where the train has already been.”
+Derek stared at him. Then smiled. “Right.”
+Penny picked up her coat. “London?”
+“London.”
+Trevor stood. “Platform seven?”
+“Platform seven.”
+Weinstein studied the clock. “And the train?”
+Derek carefully opened the door. “We’ll find it.”
+Barbarian called after him, “Mr Gent.”
+Derek turned. “Yes?”
+Barbarian pointed at the silent clock. “Don’t trust it.”
+Derek smiled. “We weren’t planning to.”
+Barbarian nodded. “Good.”
+Derek opened the door. Then stopped. “One thing.”
+“What?”
+“If time doesn’t exist…”
+Barbarian smiled. “Yes?”
+“What day is it?”
+Barbarian regarded him. For the first time since they’d arrived, he seemed genuinely uncertain.
+“Ah.”
+Penny laughed. Trevor laughed. Even Weinstein smiled.
+Barbarian examined the clocks around the empty room. Then at the sky.
+Then at the brass clock in Derek’s hand. “Well,” he insisted, “that’s rather embarrassing.”
+And somewhere in London, a distant train began moving toward empty Platform Seven. It had left yesterday. It would arrive tomorrow.
+And, according to the timetable, it had never existed at all.
+--- GAG/KEY HITS ---
+[bureaucracy|bureaucratic|Inland Revenue|forms?\b|appointment] (4 hits)
+  L5: APPOINTMENTS ARE A HUMAN CONVENTION
+  L547: Trevor stood. “Platform seven?”
+  L548: “Platform seven.”
+  L566: And somewhere in London, a distant train began moving toward empty Platform Seven. It had left yesterday. It would arrive tomorrow.
+[tea\b] (1 hits)
+  L65: Weinstein waited. Barbarian picked up a cup of tea. “I invited you here because I think you are assuming that time is something more than th
+[Tuesday] (1 hits)
+  L7: (Tuesdays remain broadly real. Mostly.)
+[11:03|11:17|seventeen] (24 hits)
+  L306: Derek walked closer. The silent clock had stopped at exactly 11:17:00. He checked his watch.
+  L307: 11:17:00. The indoor clock read 11:17:00. Everything was synchronized.
+  L322: Exactly at 11:17.
+  L323: Trevor checked his phone. 11:17.
+[Weinstein] (35 hits)
+  L48: Then Barbarian looked directly at Weinstein. “Alfred.”
+  L49: Weinstein, who had been examining a book on the shelf, turned.
+  L55: Weinstein sat opposite him. “We have clocks that appear to disagree by an amount that cannot be explained by ordinary gravitational time dil
+  L65: Weinstein waited. Barbarian picked up a cup of tea. “I invited you here because I think you are assuming that time is something more than th
+[LGV] (1 hits)
+  L174: LGV.
+[clock] (73 hits)
+  L10: Trevor still stood behind them, holding the ancient brass clock. “What sort of people?”
+  L20: Then Penny. Then Trevor. Then the silent clock.
+  L34: There were books on physics, philosophy, mathematics and cosmology. There were also several books about gardening. One shelf contained nothi
+  L36: Marine chronometers. Railway clocks. A grandfather clock.
+[photograph] (5 hits)
+  L208: Derek clarified, “Not a photograph.”
+  L348: Everyone went quiet. The photograph.
+  L352: Derek took out the photograph.
+  L353: The clock in the photograph showed 11:03:17.
+[proper time] (3 hits)
+  L126: “Proper time along a worldline is measurable.”
+  L128: “An observer carries a clock, and the clock measures proper time along that observer’s worldline.”
+  L253: “And proper time is what a physical clock measures along a worldline.”
+[Lorentz] (1 hits)
+  L249: Weinstein continued, “And the Lorentz transformation tells us how different inertial observers assign coordinates to events.”
+[apple] (6 hits)
+  L93: He pointed at the table. “Suppose I place an apple here.”
+  L94: He put an apple on the table. “Then I move it there.”
+  L96: “The apple has changed position.”
+  L105: He picked up the apple. “But suppose instead of saying the apple moved through time, we simply describe two complete configurations.”
+[train] (6 hits)
+  L29: “We came by train.”
+  L347: Derek thought. “The train.”
+  L539: “We have forty-seven minutes to find out where the train is going.”
+  L543: “You have forty-seven minutes to find out where the train has already been.”
+[Sherlock] (1 hits)
+  L485: A new line appeared in Case 1047 under REMOTE CONSULTANT NOTE: SHERLOCK
+
+======================================================================
+Chapter 6 _ The Apple Problem.txt
+lines=742 chars=31764
+--- HEAD ---
+Alfred Weinstein had never entirely trusted apples. This was not because of any defect in the fruit. Apples were perfectly respectable.
+They were roundish, nutritious, reasonably portable and, unlike pears, rarely gave the impression that they were about to collapse under their own moral burden. His distrust concerned their reputation. For centuries, apples had been given far too much credit.
+One particular red apple, in particular, had been blamed for an astonishing amount of physics. Weinstein was thinking about it on the mysterious train.
+He was on his way back to Munich after the meeting with Julius Barbarian, although “on his way back” was perhaps an unnecessarily confident description of the situation.
+The mysterious train had stopped. It had stopped between two stations. Nobody seemed particularly concerned.
+The conductor had announced that there was a “minor delay due to circumstances.”
+Weinstein had spent enough time on trains to know that “circumstances” meant absolutely anything.
+He sat by the window. Across from him, a woman was reading a novel. Beside her, a man was asleep.
+Two rows ahead, a child was eating an apple. Weinstein watched the child. The child took a bite.
+Then another. Then, apparently deciding that the apple had become philosophically unacceptable, dropped it. It fell to the floor.
+Weinstein intently watched it. The apple rolled beneath the seat. He stared at the space where it had disappeared.
+Then he smiled. Newton. He thought of Newton’s famous ordinary apple.
+The story was almost certainly too neat. Science rarely arrived with such excellent stage management. One could imagine the scene.
+Newton sits under a tree. An apple falls. Newton looks at it.
+Newton thinks about gravity. Physics is transformed. It was a charming story.
+It was also misleading.
+The apple had not explained gravity.
+It had merely demonstrated that something fell. The really interesting question was why. Weinstein leaned back.
+Why did the apple fall? Everyone knew the answer. Gravity.
+But that was not an answer. It was a name. He had spent most of his life telling physicists not to confuse naming a phenomenon with explaining it.
+Newton had described gravity extraordinarily well. The inverse-square law worked. The equations worked.
+The predictions worked. The planets obeyed them. The Moon obeyed them.
+The apple obeyed them. Everything seemed to obey them. Then General Relativity had come along and changed the question.
+The apple was no longer simply being pulled downward by a force. It was following a geodesic through curved spacetime. Weinstein smiled.
+The poor apple had been promoted from fruit to geometry. The distant train moved. Then stopped again.
+Weinstein wearily sighed.
+He looked out the window. Nothing. Then, very suddenly, he had an idea.
+It was not a complete idea. It was not even a particularly respectable idea. It was the sort of idea that arrived without knocking, sat down in the middle of one’s mind and refused to explain why it was there.
+Weinstein sat upright. The ordinary apple. Not the falling.
+The falling together. He took out his notebook. He drew the Earth.
+Then the apple. Then an arrow. He stopped.
+Crossed it out. Drew the Earth. Then the apple.
+Then two arrows. One pointing from the apple toward the Earth. One pointing from the Earth toward the apple.
+He stared at them. “Of course.”
+The woman across the aisle looked up. Weinstein noticed.
+“Sorry.”
+She returned to her book. He continued. Newton’s description had made it natural to think of the Earth as pulling the apple.
+But General Relativity made a remark more subtle. The apple and the Earth were both responding to the geometry. The apple fell.
+The Earth moved too. Tiny amount. Almost impossibly tiny.
+But not zero. Weinstein wrote:
+THE SIMPLE APPLE DOES NOT FALL TOWARD THE EARTH.
+He stopped. That was not quite right. He crossed it out.
+THE EARTH AND THE APPLE FALL TOWARD EACH OTHER.
+He inspected it. Better. Then another thought struck him.
+If the apple and the Earth were both following the geometry, what exactly determined the geometry?
+--- TAIL ---
+He responded:
+“The three spatial coordinates are specified.”
+“Yes.”
+“But proper time isn’t.”
+“No.”
+“Someone has given us a three-dimensional event.”
+Derek frowned. “An event needs four coordinates.”
+“Exactly.”
+“So, whoever left this knows that.”
+“Yes.”
+Derek inspected the silent clock. “And they’re asking us to find the fourth.”
+Weinstein nodded. “Yes.”
+Penny’s calm voice suddenly came from the doorway.
+“Then I suppose we ought to.”
+They both turned. Penny stood there. Trevor was behind her, looking rather pleased with himself.
+Derek stared. “How did you get here?”
+Penny smiled. “Train.”
+Derek looked at Trevor. “And you?”
+“Also train.”
+Derek nodded. “Right. Next.”
+Penny glanced at the clock. “No.”
+“What?”
+“That’s not the weird part.”
+She pointed at the paper. “The weird part is the date.”
+Weinstein dropped his eyes. He hadn’t noticed it. At the bottom of the page was a date.
+Tomorrow. Derek stared at Penny. Then at Trevor.
+Then at Weinstein.
+Weinstein slowly smiled. “Now,” he opined, “we’re getting somewhere.”
+And above them, in the Louvre, a clock struck twelve. Below them, the brass railway clock struck eleven seventeen. For the first time, Weinstein wondered whether the problem was not that the clocks disagreed about time. It was that reality had decided to play the pot calling the kettle fabulous.
+Perhaps they disagreed about which event they belonged to.
+--- GAG/KEY HITS ---
+[cucumber] (1 hits)
+  L178: “Why that apple?”Derek said with a frown, and reached for the ordinary cucumber without quite noticing he had done it.
+[bureaucracy|bureaucratic|Inland Revenue|forms?\b|appointment] (1 hits)
+  L254: Derek explained: “In spacetime, an object’s history can be represented as a line. Not a line through ordinary space, but through spacetime. 
+[11:03|11:17|seventeen] (9 hits)
+  L299: Derek stared at the ancient brass clock. “But ours stopped at eleven seventeen.”
+  L353: “11:17.”
+  L354: Derek stared at the Bureau clock. 11:17.
+  L355: Penny gazed at hers. 11:17.
+[Weinstein] (101 hits)
+  L1: Alfred Weinstein had never entirely trusted apples. This was not because of any defect in the fruit. Apples were perfectly respectable.
+  L3: One particular red apple, in particular, had been blamed for an astonishing amount of physics. Weinstein was thinking about it on the myster
+  L7: Weinstein had spent enough time on trains to know that “circumstances” meant absolutely anything.
+  L9: Two rows ahead, a child was eating an apple. Weinstein watched the child. The child took a bite.
+[clock] (29 hits)
+  L185: Weinstein continued: “The Bureau has been investigating events that appear to depend on which frame we use. Julius Barbarian has been arguin
+  L219: “The Bureau’s clocks.”
+  L229: Derek frowned. “Or the clocks are.”
+  L231: “But we’ve already ruled out ordinary clock failure, said Derek.”
+[murder] (2 hits)
+  L537: Derek was staring at it with the concentration of a man trying to solve a murder. Weinstein approached.
+  L583: Derek smiled. “We’re dealing with my murder.”
+[photograph] (1 hits)
+  L417: Derek examined the ancient brass clock. Then at the photograph. Then toward the door.
+[frame] (3 hits)
+  L142: Derek thought. “Because we are observing it from a non-free-falling frame.”
+  L185: Weinstein continued: “The Bureau has been investigating events that appear to depend on which frame we use. Julius Barbarian has been arguin
+  L332: Trevor looked at Penny. “Could he be in two reference frames?”
+[proper time] (4 hits)
+  L223: “They’re measuring proper time.”
+  L453: Curvature. Worldlines. Proper time. Geodesics.
+  L466: Proper time.
+  L716: “But proper time isn’t.”
+[Lorentz] (1 hits)
+  L617: Derek nodded. “Lorentzian geometry.”
+[apple] (70 hits)
+  L1: Alfred Weinstein had never entirely trusted apples. This was not because of any defect in the fruit. Apples were perfectly respectable.
+  L2: They were roundish, nutritious, reasonably portable and, unlike pears, rarely gave the impression that they were about to collapse under the
+  L3: One particular red apple, in particular, had been blamed for an astonishing amount of physics. Weinstein was thinking about it on the myster
+  L9: Two rows ahead, a child was eating an apple. Weinstein watched the child. The child took a bite.
+[train] (23 hits)
+  L3: One particular red apple, in particular, had been blamed for an astonishing amount of physics. Weinstein was thinking about it on the myster
+  L5: The mysterious train had stopped. It had stopped between two stations. Nobody seemed particularly concerned.
+  L7: Weinstein had spent enough time on trains to know that “circumstances” meant absolutely anything.
+  L25: The poor apple had been promoted from fruit to geometry. The distant train moved. Then stopped again.
+[station] (4 hits)
+  L5: The mysterious train had stopped. It had stopped between two stations. Nobody seemed particularly concerned.
+  L240: Derek observed: “We’ve been treating the clocks as stationary measuring devices.”
+  L335: Deerek asked, “Alfred, can you see the station?”
+  L341: “Relative to the station?”
+
+======================================================================
+Chapter 7 _ The Fourth Coordinate.txt
+lines=646 chars=25715
+--- HEAD ---
+For several seconds nobody offered anything. The room beneath the Louvre was small, stone-walled and entirely too quiet. There was a table.
+There was a clock. There were four people. And there was a piece of paper asking them for a value of τ.
+Derek allowed himself a brief, private observation: this was becoming a pattern. A city, a clock, a number that refused to add up. He kept the observation to himself, mostly because Trevor would have agreed, and agreement on that particular point was unlikely to help anyone. What was new, this time, was the rate. In Munich the discrepancy had grown by roughly a seventeenth of a second per hour. Here, beneath the Louvre, it was growing by nearly a full second. Whatever was causing this, it was not slowing down.
+Trevor was the first to speak.
+“That’s proper time.”
+Weinstein nodded. “Yes.”
+Derek gazed at the paper.
+“Which means?”
+Trevor pointed at the three numbers. “Three spatial coordinates have been supplied. The fourth coordinate is missing.”
+“Correct.”
+“And they’re asking us to calculate it.”
+“Apparently.”
+Trevor considered the problem. “Do we know the
+metric?”
+“No.”
+“The worldline?”
+“No.”
+“The gravitational field?”
+“No.”
+“The initial conditions?”
+“No.”
+Trevor peered at the paper again.
+“Then we can’t calculate it.”
+He paused. “Unless that’s the point.”
+Derek looked up. “What do you mean?”
+“If whoever wrote this knew we couldn’t solve it without the missing information, they weren’t actually asking us to calculate τ.
+They were showing us that τ is missing.
+That’s not a question. That’s a diagnosis.”
+Derek studied him for a moment. “That’s rather good, Trevor.”
+Trevor looked pleased, and then faintly suspicious of looking pleased. “Thank you.”
+Penny, however, had not moved. She was looking at the silent clock. “There’s something else.”
+Derek followed her gaze. “What?”
+“Look at the time.”
+“11:17.”
+“Precisely.”
+“Yes.”
+“That’s when the clocks stopped.”
+Derek nodded. “And restarted.”
+“At 12:04.”
+“Yes.”
+Penny pointed to the paper. “Then perhaps τ isn’t asking us for a number.”
+Trevor turned to her. “What else could it ask for?”
+“An interval.”
+Trevor frowned. “Between what?”
+Penny pointed at the mysterious clock. “Two events.”
+--- TAIL ---
+“Because we’re assuming Euclidean space.”
+Trevor nodded. “Right.”
+Weinstein took out his pencil. “If this is spacetime, the invariant interval isn’t simply the Euclidean distance.”
+He wrote:
+ds² = dx² + dy² + dz² − c²dt²
+Then stopped. “Unless we’re using the opposite sign convention.”
+Derek smiled. “Does it matter?”
+“Not for the physical content.”
+“Well, that’s settled.”
+Weinstein laughed. He looked again at the painting. Three.
+Four. Twelve. Thirteen.
+And beneath them, almost invisible: ∞ Derek stopped smiling.
+Penny saw it. Trevor saw it. Weinstein stared intently. “That’s not a coordinate.”
+“No,” Derek emphasized.
+“What is it?”
+Weinstein watched the symbol. “Infinity.”
+Trevor frowned. “That would suggest a divergent quantity.”
+“Yes.”
+“Curvature?”
+“Possibly.”
+“Proper time?”
+“Perhaps.”
+“Interval?”
+“Maybe.”
+Derek surveyed him. “Which?”
+Weinstein didn’t answer. He was staring at the painting. Then he smiled very slowly. “Now we have our singularity.”
+Derek gave Penny a measured look. Penny regarded Trevor. Trevor examined Weinstein.
+And somewhere, far beneath the Louvre, an ancient brass clock began ticking. Not forward. Not backward.
+But sideways. At least, that was what the silent clock appeared to think it was doing.
+Derek did the arithmetic without quite meaning to. If the discrepancy kept growing at this rate, by the end of the week the clocks would not merely disagree about the time. They would start disagreeing about the day.
+--- GAG/KEY HITS ---
+[singularit] (9 hits)
+  L472: He paused. “… is where we call it a singularity.”
+  L473: Trevor regarded him. “You’re defining a singularity as ‘too much curvature’?”
+  L477: “A singularity isn’t simply a region where spacetime is very curved.”
+  L551: SINGULARITY
+[11:03|11:17|seventeen] (2 hits)
+  L3: Derek allowed himself a brief, private observation: this was becoming a pattern. A city, a clock, a number that refused to add up. He kept t
+  L34: “11:17.”
+[Weinstein] (87 hits)
+  L6: Weinstein nodded. “Yes.”
+  L46: Weinstein smiled. “Exactly.”
+  L56: Weinstein pointed at the silent clock. “The clock.”
+  L66: Weinstein watched.
+[LGV] (2 hits)
+  L229: LGV.
+  L230: He stared at them. Then he took out his notebook. “LGV.”
+[clock] (55 hits)
+  L2: There was a clock. There were four people. And there was a piece of paper asking them for a value of τ.
+  L3: Derek allowed himself a brief, private observation: this was becoming a pattern. A city, a clock, a number that refused to add up. He kept t
+  L31: Penny, however, had not moved. She was looking at the silent clock. “There’s something else.”
+  L37: “That’s when the clocks stopped.”
+[photograph] (2 hits)
+  L413: Visitors wandered past the painting. A guide explained something about perspective to a group of tourists. Someone took a vivid photograph. 
+  L518: Derek took out a photograph. It showed the same painting. But the perspective was subtly different.
+[frame] (1 hits)
+  L609: It wasn’t. A tiny number was visible beneath the ancient brass clock in the painting. It had been almost completely hidden by the frame.
+[proper time] (11 hits)
+  L5: “That’s proper time.”
+  L49: “It’s proper time between events.”
+  L83: “It measures proper time along that worldline.”
+  L118: “Two clocks at different gravitational potentials can accumulate different proper times.”
+
+======================================================================
+Chapter 8 _ The Cold Rain.txt
+lines=311 chars=16931
+--- HEAD ---
+Derek Gent had been given a difficult assignment. He was to investigate the London Underground on rainy days.
+This was not, in itself, unusual. The London Underground was already difficult on most days. On rainy days it became something else entirely.
+People arrived wet, irritated and vaguely convinced that the entire transport system had been personally designed to inconvenience them. Trains became late. Platforms became slippery. Umbrellas became weapons. Shoes acquired the consistency of soup. Derek had been instructed to find out whether anything in the Underground, specifically on rainy days, could prevent Special Relativity and General Relativity from both being true at the same time.
+He had read the instruction three times. Then he had called Weinstein, “Alfred.”
+“Yes?”
+“Are you aware that you’ve sent me to investigate the London Underground?”
+“Yes.”
+“On rainy days.”
+“Yes.”
+“To determine whether it contains something that makes Special Relativity and General Relativity mutually incompatible.”
+“Yes.”
+Derek paused. “Fine. Next problem.”
+“Good.”
+“One question.”
+“Yes?”
+“Why?”
+Weinstein had been silent for several seconds.
+Then he had queried:
+“Because time doesn’t exist.”
+Derek had waited.
+“That’s your explanation?”
+“Not quite.”
+“What is the rest?”
+Weinstein had wearily softly sighed. “I’m beginning to suspect that time is a bookkeeping device.”
+“Like accounting?”
+“Exactly.”
+“That sounds dangerous.”
+“It is.”
+“And the Underground?”
+“Also dangerous.”
+Derek had considered this. “Anything else?”
+“Rain.”
+“Right.”
+And that was how, at 4:18 on a wet Thursday afternoon, Derek Gent found himself standing on a London Underground platform with a notebook in one pocket, a train ticket in the other, and an increasingly damp left shoe. He looked up at the distant station sign.
+He inspected the rainwater dripping from the entrance. He considered the arriving empty train. Then he glanced at his notebook.
+At the top of the page he had written:
+INVESTIGATION 1047-B
+QUESTION:
+Can London Underground infrastructure, under rainy conditions, prevent SR and GR from simultaneously describing reality?
+Under that he had written:
+SECONDARY QUESTION:
+Why?
+And underneath that:
+THIRD QUESTION:
+What the hell does poetry have to do with it?
+--- TAIL ---
+Weinstein was silent.
+Then: “Where?”
+Derek lowered his gaze to the platform. At the far end, beyond the lights, a distant strange train was approaching. He gazed at the rain.
+Then at the clock. 11:17.
+Then he peered at the dark tunnel. “That’s what I’m trying to find out.”
+Weinstein remained silent. Derek waited.
+Finally Weinstein stated: “Don’t go into the tunnel.”
+Derek smiled. “Why?”
+“Because I know you.”
+“That’s not a scientific reason.”
+“No.”
+“Then?”
+“Because the last time you claimed ‘I’m trying to find out’, you ended up in the basement of the Louvre.”
+Derek considered this. “Fair.”
+He hung up. The train arrived. The doors opened.
+Derek stepped inside.
+He eyed the clock. 11:17.
+The doors quietly closed. The mysterious train suddenly moved into the tunnel. And the cold rain continued falling outside.
+Derek watched the droplets through the window. One of them ran upward. He stared.
+Then another. Derek smiled. “Well.”
+He took out his notebook.
+And wrote:
+THE COLD RAIN IS FALLING UP
+He thought about it.
+Then added:
+OR THE TRAIN IS FALLING DOWN
+He paused. Then, beneath that:
+OR NEITHER
+The mysterious train entered darkness.
+And somewhere ahead, something in the geometry of London appeared to be waiting for him.
+--- GAG/KEY HITS ---
+[singularit] (3 hits)
+  L239: A singularity. A boundary. Something pathological.
+  L269: “I think the Underground has a singularity. Or something that wants to be a wormhole and hasn’t decided yet.”
+  L274: She pointed at a small official sticker on a nearby pillar. “No unauthorised singularities.”
+[bureaucracy|bureaucratic|Inland Revenue|forms?\b|appointment] (11 hits)
+  L3: People arrived wet, irritated and vaguely convinced that the entire transport system had been personally designed to inconvenience them. Tra
+  L34: And that was how, at 4:18 on a wet Thursday afternoon, Derek Gent found himself standing on a London Underground platform with a notebook in
+  L88: At the bottom, he walked toward the platform. Then he stopped. There was a puddle.
+  L92: Trains. Platforms. Escalators.
+[tea\b] (1 hits)
+  L276: On the windowsill sat a white mug. It was the same mug that had been in the office that morning, except that it was now empty when it should
+[11:03|11:17|seventeen] (10 hits)
+  L147: He examined it. 11:17.
+  L148: He inspected the mysterious clock. 11:17.
+  L149: The carriage display. 11:17.
+  L151: Several passengers checked them. 11:17.
+[Weinstein] (19 hits)
+  L4: He had read the instruction three times. Then he had called Weinstein, “Alfred.”
+  L17: Weinstein had been silent for several seconds.
+  L24: Weinstein had wearily softly sighed. “I’m beginning to suspect that time is a bookkeeping device.”
+  L65: So why had Weinstein sent him into the Underground? Derek looked at the wet floor. A drop of water rolled along the rubber mat.
+[clock] (17 hits)
+  L59: Nothing about that contradicted ordinary experience. It merely contradicted the assumption that everyone was entitled to the same old clock.
+  L61: Freely falling objects followed geodesics. Clocks followed worldlines and measured proper time along them. Again, nothing inherently contrad
+  L69: Derek eyed his watch. Normal. He checked the empty station strange clock.
+  L70: Normal. He checked the silent clock on the train. Normal.
+[photograph] (1 hits)
+  L204: Derek studied the notice for a moment. Someone in the Bureau had clearly been here before him, or after him, or in a reference frame that ma
+[frame] (10 hits)
+  L58: Time intervals and spatial intervals could differ between frames. The speed of light remained invariant. The Lorentz transformation connecte
+  L91: An idea occurred to him. The Underground was full of reference frames. Passengers.
+  L94: And yet the laws of physics were supposed to work for all of them. SR did not say that only one frame was correct. GR did not say that eithe
+  L96: SR: local inertial frames. Then: GR: curved spacetime.
+[proper time] (2 hits)
+  L61: Freely falling objects followed geodesics. Clocks followed worldlines and measured proper time along them. Again, nothing inherently contrad
+  L177: Derek thought. The clock had measured proper time. The mysterious train had followed its worldline.
+[Lorentz] (1 hits)
+  L58: Time intervals and spatial intervals could differ between frames. The speed of light remained invariant. The Lorentz transformation connecte
+[apple] (1 hits)
+  L223: The apple. The clock. The train. The cold rain.
+[train] (28 hits)
+  L3: People arrived wet, irritated and vaguely convinced that the entire transport system had been personally designed to inconvenience them. Tra
+  L34: And that was how, at 4:18 on a wet Thursday afternoon, Derek Gent found himself standing on a London Underground platform with a notebook in
+  L35: He inspected the rainwater dripping from the entrance. He considered the arriving empty train. Then he glanced at his notebook.
+  L52: She stepped onto the empty train. Derek followed. The train doors quietly closed.
+[station] (8 hits)
+  L34: And that was how, at 4:18 on a wet Thursday afternoon, Derek Gent found himself standing on a London Underground platform with a notebook in
+  L69: Derek eyed his watch. Normal. He checked the empty station strange clock.
+  L73: A recorded voice announced the empty station.
+  L82: He went back underground. This time he chose an empty station with a long escalator. He quietly stood still while it carried him downward.
+
+======================================================================
+Chapter 9 _ The Open-Door Principle.txt
+lines=282 chars=9288
+--- HEAD ---
+There was a rule at the Bureau. It was not written down.
+It did not appear in the employee handbook.
+There was, in fact, no employee handbook, largely because Derek considered employee handbooks “a form of administrative poetry.”
+Nevertheless, everyone knew the rule. If an office door was open, the occupant had vanished into virtuality. Obviously.
+Penny considered this. “That’s the sort of rule that sounds sensible until it starts wearing a hat.”
+There was no point knocking.
+There was no point calling.
+There was no point standing in the doorway shouting someone’s name.
+An open old office door meant that the person in question had ceased, for all practical purposes, to occupy ordinary spacetime.
+They might be in another room.
+They might be in London.
+They might be in Munich.
+They might be in a completely different reference frame. They might even, on occasion, be dead.
+The Bureau had learned not to worry. If the door was quietly closed, however, the situation was entirely different.
+Then the person was in there.
+Obviously. They were either working hard… or shagging, equally hard.
+There was no third possibility worth discussing.
+Derek had first formulated the principle after Penny had disappeared for three hours.
+He had found her office door open.
+He had checked the kitchen. Nothing.
+He had checked the laboratory. Nothing.
+He had checked the basement. Nothing.
+He had checked the train timetable. Nothing.
+Eventually he had returned to her office.
+The door was still open.
+Trevor had suddenly appeared beside him.
+“Where’s Penny?”
+“Virtuality.”
+Trevor nodded. “Right.”
+They went back to work.
+Three hours later Penny had emerged from Derek’s office carrying a notebook.
+Derek had watched her. “Where were you?”
+“Working.”
+“With the door closed?”
+“Yes.”
+Derek nodded. “There we are, then.”
+Penny had softly smiled. Trevor had surveyed the two of them.
+Then at the quietly closed old door.
+Then at Derek.
+Then at Penny. He had wisely remained silent.
+The rule had subsequently become part of Bureau culture.
+And on Friday morning, Derek’s office door was open. Penny’s was quietly closed.
+Trevor’s was open. Weinstein’s was quietly closed. Nobody found this unusual.
+Trevor walked down the narrow corridor carrying three cups of tea.
+He stopped outside Derek’s office. The door was open.
+--- TAIL ---
+Trevor pointed at the screen. “Virtual Derek.”
+Then at Derek.
+“Actual Derek.”
+Derek smiled. “Well, that’s inconvenient.”
+The screen changed.
+DOOR CLOSING IN 10 SECONDS
+Derek surveyed the door. “Why?”
+The countdown began.
+Penny replied: “Perhaps you should leave.”
+Derek nodded. “Good idea.”
+They stepped backward. The heavy door slammed shut. The clocks restarted. 11:18.
+The computer went dark. For several seconds nobody moved.
+Then Derek studied Penny. “What does a closed door mean?”
+Penny smiled. “Someone’s in there.”
+Derek nodded. “Obviously.”
+Trevor regarded the door. “Who?”
+Derek opened it. The quiet office was empty. He stared.
+Then quietly closed it again. “Me, apparently.”
+Penny laughed.
+Derek examined the closed door. “Right.”
+He knocked.
+From inside came Derek’s own quiet voice. “Come in.”
+Trevor’s mouth fell open.
+Penny looked delighted.
+Derek carefully opened the door.
+His office was still empty. Except for himself. He stood in the doorway.
+His own voice came from somewhere inside. “You’re late.”
+Derek stared into the empty room.
+Then answered: “Well, that’s settled.”
+The distant voice answered: “Not remotely.”
+--- GAG/KEY HITS ---
+[bureaucracy|bureaucratic|Inland Revenue|forms?\b|appointment] (1 hits)
+  L3: There was, in fact, no employee handbook, largely because Derek considered employee handbooks “a form of administrative poetry.”
+[tea\b] (2 hits)
+  L44: Trevor walked down the narrow corridor carrying three cups of tea.
+  L54: Trevor put down her tea. “Working hard?”
+[11:03|11:17|seventeen] (1 hits)
+  L237: Then at the clock. 11:17.
+[Weinstein] (1 hits)
+  L43: Trevor’s was open. Weinstein’s was quietly closed. Nobody found this unusual.
+[clock] (6 hits)
+  L134: Matkowski continued, “The problem concerns your clocks.”
+  L145: “The clocks are following different worldlines.”
+  L160: “Someone has synchronized the clocks.”
+  L237: Then at the clock. 11:17.
+[frame] (1 hits)
+  L13: They might be in a completely different reference frame. They might even, on occasion, be dead.
+[proper time] (1 hits)
+  L151: “So, their proper times should differ.”
+[Lorentz] (1 hits)
+  L95: Lorentz transformations.
+[apple] (1 hits)
+  L98: A badly drawn simple apple.
+[train] (5 hits)
+  L23: He had checked the train timetable. Nothing.
+  L76: “The train was falling downward.”
+  L81: “I’ve had excellent training.”
+  L99: An empty train.
+
+======================================================================
+Chapter 10 _ The Relativistic Ride.txt
+lines=443 chars=17931
+--- HEAD ---
+The first important observation was that Derek Gent had apparently not quite murdered himself yet. This was reassuring.
+Derek took stock. He had a murder that had not happened, a clock that disagreed with every other clock in London, a suspect who was also the victim, and a growing suspicion that the actual crime scene was spacetime itself. Four facts. No arrests. One reassuringly ordinary cucumber, for scale.
+It was also becoming slightly embarrassing.
+The Bureau had announced his death with considerable confidence.
+There had been a photograph, a timestamp, a location, and enough circumstantial evidence to make most people reasonably uncomfortable about their own mortality.
+Yet Derek remained alive.
+He found this increasingly difficult to reconcile with the paperwork. He was standing in his office, staring at the quietly closed door.
+From inside came his own voice. “You’re late.”
+Derek stared at the empty room.
+Penny stood behind him.
+Trevor stood beside her.
+Nobody spoke.
+Finally Derek added: “I don’t think I’ve murdered myself yet.”
+Penny nodded. “Apparently not.”
+Trevor inspected the photograph. “That’s encouraging.”
+Derek glanced at him. “Is it?”
+“Well, if you had already done it, we’d have a rather awkward problem.”
+“We already have an awkward problem.”
+“True.”
+Derek returned to the photograph. The dead man was unmistakably him. Same face.
+Same clothes. Same regrettable tendency to look as though he had just been interrupted while thinking about something complicated. Yet he was still standing.
+Alive. Annoyed. And, at least for the moment, in possession of all the usual body parts.
+Derek put the photograph down. “Perhaps the photograph is from the future.”
+Penny nodded. “Obviously.”
+“Or another event.”
+“Yes.”
+“Or another worldline.”
+“Possibly.”
+Trevor’s brow furrowed. “Or another Derek.”
+Derek glanced at him. “There’s only one of me.”
+Trevor nodded. “That’s what makes it difficult.”
+Derek wearily sighed. “Thank you.”
+“You’re welcome.”
+The office door remained quietly closed. Which meant Derek was in there. Obviously. Trevor looked at Penny. “Or we’re being mildly inconvenient again.”
+Penny quietly stared at the door. “Although technically…”
+Derek raised a hand. “No.”
+“What?”
+“Let’s not complicate the door.”
+“Fair.”
+He looked out of the window. Rain was falling. It had been raining for most of the day.
+This was not particularly surprising. It was London. Rain in London was not weather so much as a local administrative policy.
+Derek watched the drops run down the glass. “Rain.”
+Trevor gazed at him.
+“Yes.”
+“We keep coming back to rain.”
+--- TAIL ---
+She smiled. “Thank you.”
+Then she disappeared. Derek surveyed the room. The aircraft was empty again.
+He regarded the clock.
+11:17. Then 12:04. Then 11:17. Then 12:04.
+He understood.
+The aircraft wasn’t travelling through a single universal time. Its clocks were describing different relationships between events. The flight had not been late.
+The arrival event had not happened “later.”
+The entire question of later and earlier had become frame-dependent. Derek smiled. “That’s actually quite beautiful.”
+Then he examined the airline ticket.
+It announced:
+ARRIVAL: YESTERDAY
+Derek stared. “Right.”
+The distant plane landed. The doors opened. Derek stepped out.
+He was back in the London Underground. He woke with a start. The mysterious train was still moving.
+Penny was sitting opposite him. Trevor was asleep beside the window.
+Penny inspected Derek. “You were talking.”
+Derek rubbed his eyes.
+“What did I say?”
+She smiled. “You made a remark about an airline.”
+Derek checked the clock. 11:17. Still.
+He looked out the window. Cold rain streaked across the glass. Then he noticed that his seat was reclined.
+He stared at it. Penny glanced at him. “What?”
+Derek slowly pushed the seat upright.
+“Nothing.”
+Penny smiled. “Lovely. Next?”
+Derek stared at the rain. “Not quite.”
+He took out his notebook. Under the previous entry he wrote:
+NOTE: Never book a relativistic flight with Ryanair.
+Then, after a moment’s thought: British Airways probably isn’t much better. He closed the notebook.
+The distant train continued into the darkness. And somewhere ahead, the clock was still waiting for 12:04.
+--- GAG/KEY HITS ---
+[cucumber] (1 hits)
+  L2: Derek took stock. He had a murder that had not happened, a clock that disagreed with every other clock in London, a suspect who was also the
+[bureaucracy|bureaucratic|Inland Revenue|forms?\b|appointment] (6 hits)
+  L66: Penny nodded. “Platform seven.”
+  L115: They reached the platform. The train arrived.
+  L255: Derek stepped onto the platform.
+  L297: The train arriving at the cold platform seemed to hesitate for the briefest fraction of a second.
+[11:03|11:17|seventeen] (23 hits)
+  L61: Derek nodded. “And why does it always happen at 11:17?”
+  L62: Trevor explained: “Because something happens at 11:17.”
+  L119: Trevor nodded. “Until 11:17.”
+  L164: 11:16:50 > 11:16:55 > 11:16:58 > 11:16:59 > 11:17:00.
+[Weinstein] (1 hits)
+  L76: “Because Weinstein wants a relativistic ride.”
+[clock] (29 hits)
+  L2: Derek took stock. He had a murder that had not happened, a clock that disagreed with every other clock in London, a suspect who was also the
+  L53: Penny picked up the ancient silent brass clock. It was reading 11:18. She turned it over. “Still no explanation.”
+  L56: “Why the clock stops.”
+  L117: He stared at the station clock. 11:12.
+[murder] (3 hits)
+  L1: The first important observation was that Derek Gent had apparently not quite murdered himself yet. This was reassuring.
+  L2: Derek took stock. He had a murder that had not happened, a clock that disagreed with every other clock in London, a suspect who was also the
+  L13: Finally Derek added: “I don’t think I’ve murdered myself yet.”
+[photograph] (5 hits)
+  L5: There had been a photograph, a timestamp, a location, and enough circumstantial evidence to make most people reasonably uncomfortable about 
+  L15: Trevor inspected the photograph. “That’s encouraging.”
+  L20: Derek returned to the photograph. The dead man was unmistakably him. Same face.
+  L23: Derek put the photograph down. “Perhaps the photograph is from the future.”
+[frame] (4 hits)
+  L134: Derek took out his notebook. “The train is not an inertial frame.”
+  L142: Penny nodded. “And General Relativity tells us how the local inertial frames fit together.”
+  L358: “Different reference frame?”
+  L421: The entire question of later and earlier had become frame-dependent. Derek smiled. “That’s actually quite beautiful.”
+[proper time] (2 hits)
+  L188: Trevor nodded. “That doesn’t mean its proper time has stopped.”
+  L394: Derek looked out of the narrow window. The Earth was below. He thought about proper time.
+[train] (32 hits)
+  L65: Derek watched the photograph. “The train.”
+  L103: Trevor nodded. “Every train as well.”
+  L115: They reached the platform. The train arrived.
+  L118: He gazed at the train display. 11:12. “Five minutes.”
+[station] (8 hits)
+  L105: “The station.”
+  L117: He stared at the station clock. 11:12.
+  L150: The mysterious train entered a station.
+  L252: The train slowed. Derek glanced at the station sign. They had arrived at the next station.
+
+======================================================================
+Chapter 11 _ The Ordinary Cucumber Problem.txt
+lines=304 chars=12072
+--- HEAD ---
+Penny had a theory. It was not a particularly complicated theory.
+Nor, for once, did it involve spacetime. She needed an ordinary cucumber. She was standing in an organic fruit market in London, looking at a crate of them while a man in a green apron explained the virtues of soil, “The important thing,” he asserted, “is that they’re grown naturally.”
+Penny picked one up. “Naturally?”
+“Without synthetic pesticides.”
+“Right.”
+She examined it. “Are cucumbers fruits?”
+The man hesitated. “Botanically, yes.”
+Penny nodded. “Excellent.”
+“But culinarily—”
+“Don’t.”
+He stopped. Penny put the cucumber in her basket. She had no particular interest in the botanical classification of cucumbers.
+She had an interest in what they could be used for. And at the moment, she needed one for an experiment. Nothing sexual.
+Nothing particularly mysterious. Just a cucumber. The vendor watched her. “Anything else?”
+“No.”
+“Tomatoes?”
+“No.”
+“Courgettes?”
+“No.”
+“Organic aubergines?”
+“No.”
+He looked disappointed. “Just the cucumber.”
+“Very well.”
+Penny paid. She left. It was raining.
+Of course it was. London had apparently decided that weather was unnecessary and rain was sufficient. She walked back toward the Bureau with the cucumber under her coat.
+She crossed the street. A bus went past. Water sprayed from its wheels.
+She watched the droplets scatter. She smiled. Everything had a frame.
+Everything had a worldline. Everything had relationships. Even cucumbers.
+Perhaps especially cucumbers. She reached the Investigation Bureau. Trevor was sitting at the familiar front desk.
+He gazed at the cucumber. Then at Penny. Then at the cucumber again.
+“What is that?”
+“A cucumber.”
+“I can see that.”
+“Then why ask?”
+Trevor nodded. “True.”
+He peered at it again.
+“What are you doing with it?”
+“Experiment.”
+“What sort?”
+“Relativistic.”
+Trevor nodded. “Of course.”
+Penny walked past him. He followed. “Is it dangerous?”
+“No.”
+“Explosive?”
+“No.”
+“Quantum?”
+--- TAIL ---
+“Yes.”
+“The rain behaves strangely.”
+“Yes.”
+“And now our test mass detects a discontinuity.”
+“Yes.”
+Trevor examined the cucumber. “So, the cucumber isn’t the cause.”
+“No.”
+“It’s a witness.”
+Derek softly smiled. “Exactly.”
+Penny inspected the Underground entrance. “Then perhaps we should go down.”
+Derek nodded.
+Trevor wearily sighed. “Again?”
+Derek turned his attention to him. “Did you have another appointment?”
+“No.”
+“Good.”
+They descended. The cold rain continued falling above them. The cucumber came too.
+And, somewhere deep beneath London, an empty train was approaching a station at exactly 11:17.
+Derek quietly glanced at the silent clock. It stopped.
+The train arrived. The doors opened. For one second, Derek could see through the carriage.
+There was nobody inside — except at the far end, sitting calmly by the window, was Derek Gent. Derek stared at himself.
+The other Derek tipped his head back. Their eyes met. The other Derek smiled.
+Derek did not smile back.
+Then he raised an ordinary cucumber. Derek stared at Penny. Penny gazed at Trevor.
+Trevor peered at the ordinary cucumber in Penny’s hand. Then back at the mysterious train.
+“Well,” he pointed out.
+“That’s rather settled.”
+Derek shook his head.
+“No.”
+He stepped toward the carriage.
+“That isn’t settled at all.”
+--- GAG/KEY HITS ---
+[cucumber] (33 hits)
+  L2: Nor, for once, did it involve spacetime. She needed an ordinary cucumber. She was standing in an organic fruit market in London, looking at 
+  L6: She examined it. “Are cucumbers fruits?”
+  L11: He stopped. Penny put the cucumber in her basket. She had no particular interest in the botanical classification of cucumbers.
+  L13: Nothing particularly mysterious. Just a cucumber. The vendor watched her. “Anything else?”
+[bureaucracy|bureaucratic|Inland Revenue|forms?\b|appointment] (6 hits)
+  L75: She placed the ordinary cucumber on a small platform. The platform was mounted on a sensitive motion sensor. Trevor leaned over. “You’re usi
+  L87: She switched on the apparatus. The cold platform began to move. The cucumber rolled slightly.
+  L91: The platform returned to its starting position. She reset the experiment. Again.
+  L135: “Possibly.” Penny stood. She moved the sensor lonely platform a metre to the left. They ran the test.
+[11:03|11:17|seventeen] (6 hits)
+  L260: Then at the silent clock. 11:17.
+  L262: Derek pointed. The station clock had stopped. 11:17.
+  L263: Trevor regarded his phone. 11:17.
+  L264: The sensor clock. 11:17.
+[clock] (6 hits)
+  L70: Penny watched the cucumber. Then at the silent clock. Then at the equipment.
+  L260: Then at the silent clock. 11:17.
+  L262: Derek pointed. The station clock had stopped. 11:17.
+  L264: The sensor clock. 11:17.
+[frame] (11 hits)
+  L26: She watched the droplets scatter. She smiled. Everything had a frame.
+  L71: “Whether an ordinary object can help us detect the strange change in the local frame that Derek encountered on the Underground.”
+  L165: Then a series of small local frames around it.
+  L167: Trevor nodded. “At any particular point along its worldline, we can construct a local inertial frame.”
+[train] (9 hits)
+  L115: Penny sat down. “Imagine you’re in a train.”
+  L117: “The train begins accelerating.”
+  L150: “The whole train.”
+  L164: Trevor shut up. Penny walked to the whiteboard. She drew a distant empty train.
+[station] (4 hits)
+  L152: “Perhaps the whole station.”
+  L257: Derek cast a quick look around. They were beside a distant station entrance. He checked the map. “Which line?”
+  L262: Derek pointed. The station clock had stopped. 11:17.
+  L291: And, somewhere deep beneath London, an empty train was approaching a station at exactly 11:17.
+
+======================================================================
+Chapter 12 _ The Hologram Problem.txt
+lines=194 chars=7834
+--- HEAD ---
+Derek was still staring at himself. The other Derek was still sitting on the mysterious train. The train was still sitting in the distant station.
+The empty station clock still read 11:17. The cucumber was still in Penny’s hand. Trevor was still trying very hard not to say anything stupid.
+This was proving difficult. The other Derek raised the ordinary cucumber again. Derek raised an eyebrow. “Why has he got a cucumber?”
+Penny regarded him carefully. “Why have you got a cucumber?”
+“I haven’t.”
+She held hers up. “No. You have.”
+Derek glanced down. He was holding a cucumber. He stared at it.
+Then at Penny. Then at the other Derek.
+“Ah.”
+Trevor sighed. “That clears everything up.”
+The other Derek smiled. Then the train doors closed. The train departed.
+Derek ran after it.
+“Wait!”
+The empty train disappeared into the deep tunnel. Derek stopped. He watched the empty track.
+Then at the cucumber in his hand.
+“Right.”
+Penny walked over. “You’ve got a cucumber.”
+“Apparently.”
+“Where did you get it?”
+“I don’t know.”
+“You were holding it.”
+“I know.”
+“Then you got it somewhere.”
+“That’s annoyingly logical.”
+Trevor surveyed the dark tunnel. “Perhaps we should ask whether the other Derek is real.”
+Derek met his gaze. “Excellent question.”
+Penny nodded. “How would we know?”
+Trevor thought. “If he can interact with things…”
+“He can.”
+“If he has a worldline…”
+“Apparently.”
+“If he has proper time…”
+“Unknown.”
+“If he can eat a cucumber…”
+Derek regarded him. “Why would that prove anything?”
+Trevor shrugged. “It would at least be satisfying.”
+Penny laughed. Derek examined the cucumber. Then at the dark tunnel.
+Then at the clock. 11:17.
+He suddenly smiled. “Maybe we’ve been asking the wrong question.”
+Penny nodded. “Again?”
+“Yes.”
+“What is it this time?”
+“Not whether the other Derek is real.”
+“Then?”
+“Whether reality itself is real in the way we think it is.”
+--- TAIL ---
+Derek smiled. “Excellent epistemology.”
+Penny took the ordinary cucumber from him. “Perhaps we should test it.”
+Derek looked suspicious. “How?”
+“Measure it.”
+“With what?”
+“A scale.”
+“Fine.”
+She weighed it. Trevor recorded the result. Penny measured its length.
+Then circumference. Then temperature. Then mass distribution.
+Derek intently watched. “What are we proving?”
+“Nothing.”
+“Good.”
+“We’re establishing that the cucumber has observable properties.”
+“Yes.”
+“And if the holographic description is correct, those properties must ultimately be encoded in the underlying degrees of freedom.”
+Derek nodded. “Yes.”
+“So, the cucumber can be described in more than one way.”
+“Like spacetime.”
+“Just so.”
+Trevor fell into thought. “Could the cucumber itself have a holographic description?”
+Derek smiled. “Of course.”
+“Really?”
+“In principle.”
+Trevor surveyed it. “That’s extraordinary.”
+Derek nodded. “The information describing the physical system can have different representations.”
+Penny smiled. “Just don’t tell the cucumber.”
+“Why?”
+“It may become arrogant.”
+Derek checked his watch. Still 11:17.
+Somewhere, he suspected, a different representation of the same eleven minutes was already causing trouble.
+--- GAG/KEY HITS ---
+[cucumber] (21 hits)
+  L2: The empty station clock still read 11:17. The cucumber was still in Penny’s hand. Trevor was still trying very hard not to say anything stup
+  L3: This was proving difficult. The other Derek raised the ordinary cucumber again. Derek raised an eyebrow. “Why has he got a cucumber?”
+  L4: Penny regarded him carefully. “Why have you got a cucumber?”
+  L7: Derek glanced down. He was holding a cucumber. He stared at it.
+[11:03|11:17|seventeen] (3 hits)
+  L2: The empty station clock still read 11:17. The cucumber was still in Penny’s hand. Trevor was still trying very hard not to say anything stup
+  L38: Then at the clock. 11:17.
+  L193: Derek checked his watch. Still 11:17.
+[clock] (3 hits)
+  L2: The empty station clock still read 11:17. The cucumber was still in Penny’s hand. Trevor was still trying very hard not to say anything stup
+  L38: Then at the clock. 11:17.
+  L109: It was, Derek reflected, precisely the kind of idea that made a stopped clock and a train that only sometimes existed feel less like anomali
+[proper time] (1 hits)
+  L32: “If he has proper time…”
+[hologram] (1 hits)
+  L83: “Like a hologram?”
+[train] (4 hits)
+  L1: Derek was still staring at himself. The other Derek was still sitting on the mysterious train. The train was still sitting in the distant st
+  L11: The other Derek smiled. Then the train doors closed. The train departed.
+  L14: The empty train disappeared into the deep tunnel. Derek stopped. He watched the empty track.
+  L109: It was, Derek reflected, precisely the kind of idea that made a stopped clock and a train that only sometimes existed feel less like anomali
+[station] (2 hits)
+  L1: Derek was still staring at himself. The other Derek was still sitting on the mysterious train. The train was still sitting in the distant st
+  L2: The empty station clock still read 11:17. The cucumber was still in Penny’s hand. Trevor was still trying very hard not to say anything stup
+
+======================================================================
+Chapter 13 _ Everything Everywhere All at Once.txt
+lines=216 chars=10926
+--- HEAD ---
+Penny had decided that Derek was becoming unbearable. Not because he was wrong. That would have been easier.
+It was because he was usually right. There was something deeply irritating about a man who could spend an afternoon discussing curved spacetime, singularities and the holographic principle and then, when Penny pointed out an obvious practical difficulty, simply say:
+“Yes.”
+As though the universe had just been waiting for him to catch up. So, Penny went to the cinema. Alone.
+This was not particularly unusual. What was unusual was the film she chose.
+Everything Everywhere All at Once
+She settled into her seat with popcorn and a drink and watched the opening credits. Then she saw her.
+Penny sat upright. “Blimey.”
+Jamie Lee Curtis.
+She had survived Halloween after all.
+Apparently, having spent several films being pursued by a man who refused to die, she had decided that the next sensible career move was to become an IRS employee and spend her time tormenting bewildered Asians across multiple universes.
+Penny smiled. “Americans.”
+She took a handful of popcorn. The film began.
+Within minutes there were universes.
+Then other universes. Then other versions of the same people. Then universes in which perfectly ordinary things had become completely ridiculous.
+Penny watched. She became increasingly interested. Not because the film was physically accurate.
+It wasn’t. Nor was it trying to be. But the underlying idea was strangely familiar.
+Different possible realities.
+Different versions of people.
+Different histories.
+Different outcomes.
+Different choices.
+A universe in which one thing happened.
+Another in which it didn’t.
+Penny thought about Derek.
+She thought about the clock.
+She thought about the distant train that apparently existed in one description of reality and didn’t in another. And about Weinstein’s question…
+If spacetime itself could be emergent, what exactly did it mean for there to be one universe?
+She leaned back. The film continued.
+Michelle Yeoh’s character moved through wildly different versions of reality.
+Penny smiled. “Right.”
+A woman sitting several seats away glanced at her.
+Penny lowered her strange voice. “This is actually rather relevant.”
+The woman looked away.
+Penny continued watching.
+The film’s multiverse was not the same thing as the multiverse physicists sometimes discuss.
+That distinction mattered. But it was useful as an intuition pump.
+Suppose reality could be described in many different ways.
+Suppose an observer occupied one particular history. Suppose other histories existed in some mathematical sense.
+Then the question became:
+What was fundamental?
+The particular history?
+The collection of histories?
+The mathematical structure connecting them?
+Or something deeper still? Penny thought about holography.
+--- TAIL ---
+Perhaps the Relativistic Investigation Bureau had been approaching the problem backwards.
+They had assumed that something strange was happening inside spacetime.
+What if the strange thing was the relationship between different descriptions of spacetime?
+What if the clocks weren’t moving incorrectly?
+What if they belonged to different descriptions?
+What if the mysterious train wasn’t travelling through a strange geometry?
+What if the train was the strange geometry?
+Penny wearily sat very still. Then she smiled. She took out her phone.
+She wrote one final sudden message to Derek.
+Don’t investigate the clocks.
+His reply came:
+Why?
+She typed:
+Investigate the descriptions
+A pause. Then:
+Explain
+Penny examined the film. Then at the ordinary cucumber. Then at the rain running down the cinema window.
+She wrote:
+Maybe the universe doesn’t have one story.
+She thought for a moment.
+Then added:
+Maybe it has several descriptions that all have to agree on what can actually happen.
+Derek replied:
+Now you’re talking.
+Penny smiled. She put the phone away.
+On the screen, everything was happening everywhere all at once.
+Penny watched for another minute.
+Then quietly mentioned: “Americans.”
+She ate another piece of popcorn. “That settles it.”
+And somewhere in London, a clock stopped at 11:17. Again.
+--- GAG/KEY HITS ---
+[cucumber] (8 hits)
+  L66: An ordinary cucumber had a state.
+  L127: The cucumber.
+  L160: Penny laughed. She put the phone away. Then she noticed something. On the screen, a character was holding a cucumber.
+  L162: There it was. A cucumber.
+[singularit] (1 hits)
+  L2: It was because he was usually right. There was something deeply irritating about a man who could spend an afternoon discussing curved spacet
+[11:03|11:17|seventeen] (1 hits)
+  L216: And somewhere in London, a clock stopped at 11:17. Again.
+[Weinstein] (2 hits)
+  L27: She thought about the distant train that apparently existed in one description of reality and didn’t in another. And about Weinstein’s quest
+  L185: About Derek. About Weinstein. About Barbarian.
+[clock] (6 hits)
+  L26: She thought about the clock.
+  L65: A clock had a state.
+  L186: About the clocks. About the cold rain. About the train. About the other Derek.
+  L190: What if the clocks weren’t moving incorrectly?
+[photograph] (1 hits)
+  L171: Penny took a vivid photograph of the screen. She sent it to Derek.
+[Lorentz] (1 hits)
+  L114: A Lorentz transformation changed the coordinates assigned to events.
+[train] (6 hits)
+  L27: She thought about the distant train that apparently existed in one description of reality and didn’t in another. And about Weinstein’s quest
+  L68: A train had a state.
+  L130: Derek nodded. “Neither does the train, apparently.”
+  L186: About the clocks. About the cold rain. About the train. About the other Derek.
+
+======================================================================
+Chapter 14 _ The Station That Wasn_t Quite There.txt
+lines=374 chars=13778
+--- HEAD ---
+The first thing Derek noticed was that the gloomy station had twelve doors. The second thing he noticed was that it had thirteen. The third thing he noticed was that Trevor was counting them.
+“How many?”
+“Twelve.”
+Derek pointed. “Thirteen.”
+Trevor counted again.
+“Twelve.”
+Penny looked. “Thirteen.”
+Trevor looked again. “Twelve.”
+Derek nodded. “Good.”
+Trevor sharply frowned. “Good?”
+“At least we’re all seeing the same disagreement.”
+They were standing in a strange corridor beneath London. It looked like an ordinary Underground corridor. This was, naturally, suspicious.
+The tiles were ordinary. The fluorescent lights were ordinary. The smell was ordinary.
+Even the damp patch on the wall was reassuringly ordinary. But the narrow corridor was wrong. Not dramatically wrong.
+That would have been easier. Dramatically wrong things announce themselves. They have the decency to be obvious.
+This narrow corridor was merely wrong enough to make a sensible person uncomfortable. Derek walked back to the entrance and eyed the sign.
+There was no station name. Only:
+PLATFORM 7
+Penny watched it. “We’re already on Platform Seven.”
+Derek nodded. “Apparently.”
+Trevor looked behind them. There was no Platform Seven. There was only the narrow corridor.
+“Perhaps it’s a service corridor.”
+Derek considered this. “Then why does it have a platform number?”
+Trevor shrugged. “British Rail?”
+“It’s the Underground.”
+“Even worse.”
+Penny smiled. “Glad that’s cleared up.”
+Derek ignored them. He took a tape measure from his coat.
+Trevor surveyed him. “You carry a tape measure?”
+“I investigate things.”
+“You carry one everywhere?”
+“Not everywhere.”
+“Where don’t you carry it?”
+Derek thought. “The shower.”
+Penny studied him. “Why not?”
+Derek stared. “Because I have limits.”
+They measured the strange corridor. Forty-seven metres.
+Exactly.
+Derek wrote it down. Then he walked from one end to the other. Forty-seven metres.
+He walked back. Forty-seven metres.
+Penny did the same. Forty-seven metres.
+Trevor did the same. Forty-seven metres.
+Derek nodded. “Good.”
+Trevor regarded him. “What’s good about forty-seven metres?”
+“Nothing.”
+--- TAIL ---
+“Even the cucumber?”
+“Yes.”
+Penny watched the ordinary cucumber, thinking, 'peeled and pre-warmed might be nicer'.
+Then she said, “Even the cucumber.”
+Trevor nodded slowly. “Splendid. Moving on.”
+The train approached. It stopped. The doors opened.
+Nobody got off. Nobody got on. Inside, the carriage was completely empty.
+Except for a single seat. And on the seat was another cucumber. Derek stared at it.
+Penny stared at Derek.
+Trevor stared at Penny.
+Nobody offered anything.
+Then Derek smiled. “Well.”
+Penny folded her arms. “Don’t.”
+“I haven’t offered anything.”
+“You were about to.”
+Derek surveyed the second cucumber. “All right.”
+He stepped into the carriage.
+Penny followed.
+Trevor wearily sighed.
+Then followed them. The doors quietly closed.
+The mysterious train began to move.
+Behind them, the station disappeared.
+Ahead, the tunnel curved.
+And somewhere between London and somewhere that London had apparently forgotten to put on the map, the clocks began moving again.
+11:18. 11:19. 11:20.
+Derek studied his watch. It still read 11:17.
+He smiled. “There. Progress.”
+The mysterious distant train accelerated into the darkness.
+And for the first time, Derek began to suspect that the strangest thing about the empty station was not that its geometry was curved.
+It was that something appeared to be curving it on purpose.
+--- GAG/KEY HITS ---
+[cucumber] (13 hits)
+  L267: Trevor glanced around. “The cucumber.”
+  L271: She took the cucumber from her bag.
+  L277: They placed the ordinary cucumber on the platform. Derek measured its length. Exactly thirty-one centimetres.
+  L293: Then they stopped. The cucumber returned to thirty-one centimetres. Perfectly ordinary.
+[bureaucracy|bureaucratic|Inland Revenue|forms?\b|appointment] (10 hits)
+  L18: PLATFORM 7
+  L19: Penny watched it. “We’re already on Platform Seven.”
+  L21: Trevor looked behind them. There was no Platform Seven. There was only the narrow corridor.
+  L23: Derek considered this. “Then why does it have a platform number?”
+[11:03|11:17|seventeen] (7 hits)
+  L101: Derek stared at the clocks. One read: 11:17
+  L330: The clocks all stopped. 11:17.
+  L331: Penny gazed at her phone. 11:17.
+  L332: Trevor checked his. 11:17.
+[clock] (10 hits)
+  L98: Two chairs. A table. Two clocks. Nothing else.
+  L101: Derek stared at the clocks. One read: 11:17
+  L116: Trevor gazed at the two clocks. “They’re less than two metres apart.”
+  L125: They measured again. Nothing. Derek moved the 12:04 clock three metres down the corridor.
+[train] (5 hits)
+  L337: A train appeared in the tunnel. No headlights. No sound.
+  L343: Trevor stared at him. “The train has a worldline?”
+  L350: The train approached. It stopped. The doors opened.
+  L365: The mysterious train began to move.
+[station] (8 hits)
+  L1: The first thing Derek noticed was that the gloomy station had twelve doors. The second thing he noticed was that it had thirteen. The third 
+  L17: There was no station name. Only:
+  L234: And, unlike the first strange corridor, it contained no doors at all. At the far end was a station platform.
+  L280: Derek nodded. “Stationary.”
+
+======================================================================
+Chapter 15 _ The Distant Train That Arrived Before It Left.txt
+lines=394 chars=17954
+--- HEAD ---
+The narrow corridor ended at cold Platform Seven. Derek stopped. “Of course.”
+Penny regarded the sign.
+Platform 7
+“There isn’t a Platform Seven.”
+Trevor examined the timetable.
+“The early bird gets the warm,” Trevor observed.
+Penny stared at him. “The early bird gets the worm.” Trevor nodded. “Yes. Obviously. I was testing the bird.”
+“Excellent.”
+Trevor stared at him. “Why is that excellent?”
+“Because if there were a Platform Seven, this would be considerably less interesting.”
+Penny looked sharply down the platform. Before she could say anything, a woman’s voice came from behind them.
+“If you’re planning to take that train, I’d recommend knowing where it goes first.”
+All three turned.
+The woman standing at the end of the lonely platform looked entirely too calm for someone who had just appeared on a railway platform that officially did not exist. She wore a dark coat, carried a small overnight bag, and had the expression of someone who had arrived expecting trouble and was mildly disappointed to find that it had already started.
+Trevor stared intently. “Tabitha?”
+She smiled. “Hello, little brother.” She said it as if the relationship were still under review.
+Derek studied Trevor. “Your sister?”
+“Unfortunately,” Trevor opined.
+Tabitha raised an eyebrow. “I heard that.”
+“You were meant to.”
+She inspected Derek. “So, you’re Derek.”
+“Yes.”
+“Trevor maintained you were the sensible one.”
+Derek glanced at Trevor. “He has never affirmed that to me.”
+“Good,” Tabitha confirmed. “I’d hate to begin with a false impression.”
+Penny looked from Tabitha to Derek. She remained silent. She was very good at saying nothing in ways that made Derek nervous.
+Derek found himself noticing that Tabitha was watching him. Then she looked away. She had the calm of someone who could leave at any moment and be late for something better.
+He decided not to think about that. The decision proved only partially successful, which was becoming a pattern.
+Which was, in retrospect, the first sign that this was going to be a problem.
+He remembered, belatedly, that she had once asked a single question about simultaneous events at a Bureau function and left before anyone could answer it properly.
+He suspected, uneasily, that she had already worked out the answer herself.
+“How did you get here?” Derek asked.
+Tabitha held up her phone. “Trevor sent me a message.”
+Trevor frowned. “I didn’t.”
+Tabitha scanned the screen.
+“Apparently someone using your number did.”
+Silence. Derek held out his hand. “What did it say?”
+Tabitha showed him.
+DON’T LET WEINSTEIN GET TO THE STATION FIRST.
+Derek’s expression changed.
+“When did you receive that?”
+“Eleven minutes ago.”
+Trevor glanced at Derek. “Weinstein is in Munich.”
+“Apparently not,” Derek insisted.
+Tabitha slipped the phone back into her pocket.
+--- TAIL ---
+11:17 Trevor stared intently. “Again.”
+Derek nodded. “Again.”
+Penny surveyed the plate. “Perhaps 11:17 isn’t a time.”
+Derek studied her. “What else could it be?”
+“An event.”
+Derek went very still.
+Penny continued, “Something happens at 11:17.”
+“Yes.”
+“But perhaps the clocks aren’t telling us when it happens.”
+Derek nodded slowly. “They’re identifying it.”
+“Exactly.”
+Trevor looked between them. “So, 11:17 is an event label.”
+Derek smiled. “Maybe.”
+Penny nodded. “Then when the geometry changes, the labels become misleading.”
+Derek looked toward the tunnel. “Which means we’ve been asking the wrong question.”
+Trevor wearily sighed. “Still?”
+Derek smiled. “Again.”
+They stood silently for a moment.
+Then Derek looked at the sky. The cold rain had stopped.
+That was unusual. Very unusual.
+Penny noticed it too. “London has stopped raining.”
+Trevor looked upward. “That’s worse than the train.”
+Derek nodded. “Much worse.”
+A single drop of water fell from the sky. It stopped halfway down. Then slowly moved upward.
+Then sideways. Then disappeared. Derek smiled. “General Relativity.”
+Trevor frowned. “Are you sure?”
+Derek regarded him. “No.”
+Trevor nodded. “Case closed. Probably.”
+And somewhere beneath them, the mysterious train that had never officially existed began its journey again. According to one clock, it had already arrived. According to another, it had not yet departed.
+According to the railway timetable, it had never existed. Which, Derek thought, was probably the most reliable information of all.
+--- GAG/KEY HITS ---
+[bureaucracy|bureaucratic|Inland Revenue|forms?\b|appointment] (11 hits)
+  L1: The narrow corridor ended at cold Platform Seven. Derek stopped. “Of course.”
+  L3: Platform 7
+  L4: “There isn’t a Platform Seven.”
+  L10: “Because if there were a Platform Seven, this would be considerably less interesting.”
+[11:03|11:17|seventeen] (10 hits)
+  L105: Derek studied his watch. 11:17.
+  L106: The train clock showed 11:17.
+  L107: Penny’s phone showed 11:17.
+  L108: Trevor checked his. 11:17.
+[Weinstein] (2 hits)
+  L39: DON’T LET WEINSTEIN GET TO THE STATION FIRST.
+  L43: Trevor glanced at Derek. “Weinstein is in Munich.”
+[clock] (26 hits)
+  L106: The train clock showed 11:17.
+  L134: “And the clocks measure proper time along their respective worldlines.”
+  L137: The train suddenly slowed. Derek inspected the silent clock. 11:17.
+  L150: The empty station clock slowly read: 11:17.
+[frame] (5 hits)
+  L113: “And that means this isn’t an inertial frame.”
+  L116: Derek smiled. “Depending on your frame.”
+  L122: INERTIAL FRAME
+  L222: Derek surveyed the room. “Local inertial frames.”
+[proper time] (4 hits)
+  L126: PROPER TIME
+  L128: “The train has its own proper time.”
+  L134: “And the clocks measure proper time along their respective worldlines.”
+  L175: Derek smiled. “Proper time.”
+[Lorentz] (1 hits)
+  L124: LORENTZ TRANSFORMATION
+[train] (35 hits)
+  L12: “If you’re planning to take that train, I’d recommend knowing where it goes first.”
+  L46: “So,” she emphasized, looking at the train, “which part of this is supposed to be normal?”
+  L49: There was, in fact, a distant, mysterious train waiting. This was unfortunate. It was an entirely ordinary Underground train.
+  L51: The sort of train that looked as though it had been designed by a committee whose principal objective had been to discourage tourism.
+[station] (19 hits)
+  L39: DON’T LET WEINSTEIN GET TO THE STATION FIRST.
+  L84: Penny surveyed the mysterious train. “There’s no such station.”
+  L115: Penny looked out of the window. “The station is accelerating away from us.”
+  L132: “The station has another.”
+[causality] (1 hits)
+  L242: Penny nodded. “Causality.”
+
+======================================================================
+Chapter 16 _ Sherlock and the Final Geometry.txt
+lines=270 chars=13098
+--- HEAD ---
+Weinstein was having a perfectly ordinary morning. This meant, naturally, that the universe was about to become ridiculous. He was sitting in his quiet office in Munich, staring at a sheet of paper on which he had written the same equation three times.
+He had crossed it out three times. The fourth version looked promising. The fifth looked worse.
+The sixth looked suspiciously like the first.
+Weinstein wearily sighed.
+General Relativity had reached that stage of the investigation where every answer suddenly appeared to generate two better questions, three worse equations and an overwhelming desire for tea. He leaned back. The problem was not that General Relativity didn’t work.
+It worked remarkably well. Too well, in fact. It described gravity as geometry.
+Matter and energy determined the curvature of spacetime. Free particles followed geodesics. Clocks measured proper time along worldlines.
+Special Relativity emerged locally. Everything fitted.
+And yet Weinstein had the persistent feeling that he was looking at the description rather than the thing being described.
+He wrote:
+WHAT IS SPACETIME ACTUALLY MADE OF?
+Then underneath:
+AND WHY DOES IT HAVE TO BE FOUR-DIMENSIONAL?
+He stared at the words. Then came a noise. Not a knock.
+Not a telephone. Not the sound of someone opening his empty old office door. It was a voice.
+Inside his head. “Good question.”
+Weinstein froze. He looked around. Nobody.
+The familiar office door was quietly closed.
+Therefore somebody was definitely in there. Obviously.
+Weinstein stood. “Who commented that?”
+Silence. Then:
+“I did.”
+Weinstein silently stared at the wall. “Who are you?”
+A pause. “Sherlock.”
+Weinstein frowned. “Sherlock who?”
+Another pause.
+“Sherlock.”
+“That’s not a surname.”
+“No.”
+“Are you a person?”
+“No.”
+Weinstein asked, “A computer?”
+“No.”
+“An artificial intelligence?”
+“No.”
+“Then what are you?”
+The answer arrived calmly.
+“A dolphin.”
+Weinstein sat down. “Of course.”
+There was another pause.
+“You don’t believe me.”
+“I am receiving a telepathic communication from a dolphin called Sherlock.”
+“Yes.”
+“In Munich.”
+“Yes.”
+--- TAIL ---
+Weinstein laughed again. Then he stopped. Something else had suddenly appeared on the page.
+He hadn’t written it. The words were there in his own handwriting.
+THE UNIVERSE DOES NOT NEED A STAGE
+Below it:
+THE STAGE IS THE PHYSICS
+Weinstein stared. Sherlock was silent. Outside, Munich continued being Munich.
+Cars slowly moved. People walked. Clocks ticked.
+The Earth rotated. The Sun continued shining. And somewhere in the Atlantic, a dolphin named Sherlock was apparently thinking about differential geometry.
+For a moment, neither of them said anything at all.
+If Weinstein was right — if the equations he already knew were not merely describing space and time, but encoding whatever deeper thing made space and time possible in the first place — then the stage had never been fundamental to begin with. Geometry itself might be the emergent one.
+Not the actors. Not even the play.
+Something underneath both.
+Weinstein picked up his pen. He wrote the final equation. Then he glanced at it.
+It was not a new equation. That was the point. His field equations were already there.
+The breakthrough was understanding what they meant. General Relativity was not merely a theory of gravity. It was a theory in which spacetime itself was dynamical.
+And if the deeper theory eventually explained where that spacetime came from, General Relativity would remain exactly what it had always been: the extraordinarily successful macroscopic description of a deeper reality.
+Weinstein smiled. “Well, Sherlock.”
+“Yes?”
+“I think we’ve finished.”
+Sherlock replied:
+“No.”
+Weinstein raised an eyebrow. “What now?”
+“The sequel.”
+Weinstein stared at the wall. “Of course.”
+And somewhere in London, Penny was taking the cucumber home.
+The cucumber had been purchased for personal use.
+Nobody cared to ask what sort of personal use.
+Some questions are better left beyond the blanket.
+The universe, meanwhile, continued to curve.
+As it had every right to. Obviously.
+--- GAG/KEY HITS ---
+[cucumber] (4 hits)
+  L199: The other Derek. The ordinary cucumber. Everything was suddenly connected.
+  L234: Sherlock sent him an image. A cucumber.
+  L265: And somewhere in London, Penny was taking the cucumber home.
+  L266: The cucumber had been purchased for personal use.
+[dolphin] (4 hits)
+  L38: “A dolphin.”
+  L42: “I am receiving a telepathic communication from a dolphin called Sherlock.”
+  L219: Weinstein leaned back. For several seconds he remained silent. Then: “You’re a very clever dolphin.”
+  L248: The Earth rotated. The Sun continued shining. And somewhere in the Atlantic, a dolphin named Sherlock was apparently thinking about differen
+[singularit] (2 hits)
+  L157: Weinstein watched. The geodesic could not be extended. He frowned. “A singularity.”
+  L165: “So, a singularity isn’t necessarily a place.”
+[bureaucracy|bureaucratic|Inland Revenue|forms?\b|appointment] (1 hits)
+  L95: “In flat spacetime, the interval can be written in the familiar form involving time and the three spatial directions. In curved spacetime, t
+[tea\b] (1 hits)
+  L5: General Relativity had reached that stage of the investigation where every answer suddenly appeared to generate two better questions, three 
+[11:03|11:17|seventeen] (2 hits)
+  L51: Weinstein examined the clock. 11:17.
+  L52: He looked again. Still 11:17.
+[Weinstein] (56 hits)
+  L1: Weinstein was having a perfectly ordinary morning. This meant, naturally, that the universe was about to become ridiculous. He was sitting i
+  L4: Weinstein wearily sighed.
+  L9: And yet Weinstein had the persistent feeling that he was looking at the description rather than the thing being described.
+  L17: Weinstein froze. He looked around. Nobody.
+[clock] (4 hits)
+  L7: Matter and energy determined the curvature of spacetime. Free particles followed geodesics. Clocks measured proper time along worldlines.
+  L51: Weinstein examined the clock. 11:17.
+  L198: The clocks. The cold rain. The train.
+  L247: Cars slowly moved. People walked. Clocks ticked.
+[proper time] (3 hits)
+  L7: Matter and energy determined the curvature of spacetime. Free particles followed geodesics. Clocks measured proper time along worldlines.
+  L65: Worldlines. Proper time. Geodesics.
+  L153: The interval. Proper time. Causal structure.
+[train] (1 hits)
+  L198: The clocks. The cold rain. The train.
+[station] (1 hits)
+  L222: “I live near a marine research station.”
+[Sherlock] (28 hits)
+  L24: A pause. “Sherlock.”
+  L25: Weinstein frowned. “Sherlock who?”
+  L27: “Sherlock.”
+  L42: “I am receiving a telepathic communication from a dolphin called Sherlock.”
+
+======================================================================
+EPILOGUE.txt
+lines=74 chars=6776
+--- HEAD ---
+The Relativistic Investigation Bureau Discovers That
+Solving One Mystery Is Merely an Invitation to Acquire Another
+The Bureau had solved the murder. This was the good news. The bad news was that the murder’s one defining characteristic, on reflection, was that it had never actually been a murder — which left ‘solved’ doing a great deal of unearned work.
+Derek Gent found this distinction less reassuring than the others did.
+There had been no human murderer. The closest thing to a perpetrator was the Bureau’s own computer: Case 1047 had arrived as a future-event record and the machine identified by LOCALHOST had filed it as though the event were already complete. Trevor’s name in the PERPETRATOR field had been another classification error, not a confession.
+The photograph had not been taken by a hidden photographer at all. It was a Bureau system output generated with Case 1047. Its 11:03:17 was the death-event label in the record’s reference frame, not a universal time stamped by a camera. The matching seventeen seconds came from that same event label being propagated into the image and the live display.
+The brass clock was the liar, but only in a precise sense: it sometimes displayed an event coordinate instead of its own proper time. The ordinary clocks had been doing exactly what clocks do.
+The rest of the note finally mapped onto the journey. 11:17 was the departure coordinate at Platform 7. 12:04 was the arrival coordinate shown by the station when they got off, even though their local watches read 11:18.
+The computer had not predicted the future. It had received a record through the same anomalous geometry that produced the impossible station and filed it according to the record’s event coordinate instead of Derek’s local proper time. Its “future knowledge” went no further than data that actually arrived through that geometry.
+The clocks had been explained.
+The mysterious train had been investigated. The corridor had been counted several times, with results that depended alarmingly on who was doing the counting. The cucumber had been measured, discussed and, for reasons nobody could later justify, purchased again.
+Even the dolphin had contributed, at 1.7 fish per hour. The appendix had done its best to make all of this sound respectable. It had nearly succeeded.
+Mrs Marsh knocked once, entered without waiting for a reply, and set a single sheet of paper on Derek’s desk.
+“The singularity,” she said, “is still not registered to my building. I checked twice.”
+She left before anyone could thank her. Mr Pendleton followed almost immediately, clipboard in hand. “Whichever form is required,” he announced, “it is not my form.”
+“Which form is it, then?” Derek asked.
+“Unknown. But it is definitely not mine.”
+He left, apparently satisfied.
+The telephone rang once more.
+Trevor answered, listened, then held it away from his ear. “Julius Barbarian,” he reported, “declines to comment, on the grounds that comment implies a timeline, and he is not prepared to commit to one.”
+He hung up. Nobody was surprised.
+Derek therefore allowed himself one dangerous thought. Perhaps it was over.
+He sat for a while without doing anything useful, which was, for Derek, its own kind of achievement.
+He thought about the photograph — his own face, on the floor, in a moment that had never happened and now, perhaps, never would.
+He thought about how close those two things had sat, for a while: never would, and hadn’t happened yet.
+The distance between them turned out to matter more than he had expected.
+He did not examine the thought any further than that. Some thoughts, he had found, were better left proper time to settle.
+He was standing in the Bureau that evening when the brass clock appeared on his desk.
+It read 11:17. Derek stared at Penny.
+Penny gazed at the clock.
+Neither of them reached for a notebook. After the year they’d had, some things no longer needed writing down. They had simply become family shorthand — the kind their grandmother would have recognised, and approved of, in her own alarming way.
+Trevor looked under the old desk, apparently on the theory that a strange clock capable of appearing on a desk might also be capable of appearing underneath it.
+Weinstein looked at nobody. He was staring at a sheet of paper.
+It had not been there a moment earlier. At the top was the familiar heading:
+RELATIVISTIC INVESTIGATION BUREAU.
+Underneath it were written four words:
+CASE STATUS: NOT YET OCCURRED.
+Derek frowned. Below the heading was a date. Tomorrow.
+Below the date was a location.
+A railway station that did not exist.
+Below the location was a final line.
+DO NOT ALLOW DEREK GENT TO
+BOARD THE MYSTERIOUS TRAIN.
+There was a long silence. Trevor eventually looked up. “That seems quite specific.”
+Penny nodded. “Yes.”
+--- TAIL ---
+Penny nodded. “Yes.”
+Derek picked up the paper. On the back was another strange message.
+PLEASE NOTE: THE PREVIOUS WARNING WAS SENT TOO LATE.
+Derek turned the page over again. Nothing. Then the quiet office door opened.
+No one was standing there. Beyond the doorway was a railway platform. There had never been a railway platform there.
+A distant train waited in the darkness. Its destination board displayed one word.
+YESTERDAY.
+Penny smiled. It was not a reassuring smile.
+“Well,” she observed, “that saves us the trouble of finding the station. The ship has left the barn, apparently.”
+Derek looked at the mysterious train.
+Then at the silent clock. 11:17.
+Then at the warning. He put the paper in his pocket. “Nobody boards that train.”
+From somewhere inside the carriage came three soft knocks.
+Knock. Knock. Knock.
+A voice followed. “Derek?”
+Derek went very still. It was his own voice. “Yes?”
+The voice from the mysterious train called back, “Whatever you do, do not open the door.”
+Derek stared at the carriage door.
+Penny stared at Derek.
+Trevor whispered something about taking up accounting.
+And somewhere, far beyond the cold platform, Sherlock the dolphin began thinking about tensors.
+The universe continued expanding.
+The train continued waiting.
+The silent clock remained at 11:17.
+Derek Gent, who had spent an entire book trying to discover what had happened, was finally confronted with the much more dangerous question:
+What happens next?
+Unfortunately, the universe had already filed the answer. It was marked:   ALLEGEDLY.
+To be continued.
+One small matter had, admittedly, never been resolved. The initials on the clock — LGV — turned out, when Penny finally thought to ask a Frenchman, to mean nothing more mysterious than Ligne à Grande Vitesse: the stamp of an ordinary French high-speed railway line, most likely off a piece of decommissioned rolling stock.
+Trevor was delighted. He had, after all, guessed ‘a railway designation’ within the first five minutes, and nobody had believed him.
+--- GAG/KEY HITS ---
+[cucumber] (1 hits)
+  L11: The mysterious train had been investigated. The corridor had been counted several times, with results that depended alarmingly on who was do
+[dolphin] (2 hits)
+  L12: Even the dolphin had contributed, at 1.7 fish per hour. The appendix had done its best to make all of this sound respectable. It had nearly 
+  L65: And somewhere, far beyond the cold platform, Sherlock the dolphin began thinking about tensors.
+[singularit] (1 hits)
+  L14: “The singularity,” she said, “is still not registered to my building. I checked twice.”
+[bureaucracy|bureaucratic|Inland Revenue|forms?\b|appointment] (5 hits)
+  L8: The rest of the note finally mapped onto the journey. 11:17 was the departure coordinate at Platform 7. 12:04 was the arrival coordinate sho
+  L15: She left before anyone could thank her. Mr Pendleton followed almost immediately, clipboard in hand. “Whichever form is required,” he announ
+  L16: “Which form is it, then?” Derek asked.
+  L49: No one was standing there. Beyond the doorway was a railway platform. There had never been a railway platform there.
+[11:03|11:17|seventeen] (5 hits)
+  L6: The photograph had not been taken by a hidden photographer at all. It was a Bureau system output generated with Case 1047. Its 11:03:17 was 
+  L8: The rest of the note finally mapped onto the journey. 11:17 was the departure coordinate at Platform 7. 12:04 was the arrival coordinate sho
+  L29: It read 11:17. Derek stared at Penny.
+  L55: Then at the silent clock. 11:17.
+[Weinstein] (1 hits)
+  L33: Weinstein looked at nobody. He was staring at a sheet of paper.
+[LGV] (1 hits)
+  L73: One small matter had, admittedly, never been resolved. The initials on the clock — LGV — turned out, when Penny finally thought to ask a Fre
+[clock] (8 hits)
+  L7: The brass clock was the liar, but only in a precise sense: it sometimes displayed an event coordinate instead of its own proper time. The or
+  L10: The clocks had been explained.
+  L28: He was standing in the Bureau that evening when the brass clock appeared on his desk.
+  L30: Penny gazed at the clock.
+[murder] (2 hits)
+  L3: The Bureau had solved the murder. This was the good news. The bad news was that the murder’s one defining characteristic, on reflection, was
+  L5: There had been no human murderer. The closest thing to a perpetrator was the Bureau’s own computer: Case 1047 had arrived as a future-event 
+[photograph] (2 hits)
+  L6: The photograph had not been taken by a hidden photographer at all. It was a Bureau system output generated with Case 1047. Its 11:03:17 was 
+  L24: He thought about the photograph — his own face, on the floor, in a moment that had never happened and now, perhaps, never would.
+[frame] (1 hits)
+  L6: The photograph had not been taken by a hidden photographer at all. It was a Bureau system output generated with Case 1047. Its 11:03:17 was 
+[proper time] (3 hits)
+  L7: The brass clock was the liar, but only in a precise sense: it sometimes displayed an event coordinate instead of its own proper time. The or
+  L9: The computer had not predicted the future. It had received a record through the same anomalous geometry that produced the impossible station
+  L27: He did not examine the thought any further than that. Some thoughts, he had found, were better left proper time to settle.
+[train] (7 hits)
+  L11: The mysterious train had been investigated. The corridor had been counted several times, with results that depended alarmingly on who was do
+  L43: BOARD THE MYSTERIOUS TRAIN.
+  L50: A distant train waited in the darkness. Its destination board displayed one word.
+  L54: Derek looked at the mysterious train.
+[station] (4 hits)
+  L8: The rest of the note finally mapped onto the journey. 11:17 was the departure coordinate at Platform 7. 12:04 was the arrival coordinate sho
+  L9: The computer had not predicted the future. It had received a record through the same anomalous geometry that produced the impossible station
+  L40: A railway station that did not exist.
+  L53: “Well,” she observed, “that saves us the trouble of finding the station. The ship has left the barn, apparently.”
+[Sherlock] (1 hits)
+  L65: And somewhere, far beyond the cold platform, Sherlock the dolphin began thinking about tensors.

@@ -1,0 +1,502 @@
+================================================================================
+SCHRÖDINGER'S PAPERWORK — PHYSICS APPENDIX 10/10 AUDIT
+Target standard: Feynman-class teaching (intuition, honesty, concrete picture, no hand-waving)
+Source: D:\My Books for Amazon\Schrodingers_Paperwork\Schrodingers_Paperwork_BOOK_1.docx
+Appendix: "Appendix: Lectures on What the Universe Is Doing" (paragraph ~2152)
+Audit date: 16 September 2026
+Thoroughness: very thorough (full body read of Lectures 1–18 / 14 Parts One & Two)
+================================================================================
+
+VERDICT IN ONE LINE
+--------------------
+Scaffolding is already ~9/10. Body teaching averages ~7.5–8.5/10. The gap to 10/10 is
+almost entirely inside "The idea, step by step" (still Ministry-definition voice), a few
+thin "Going deeper / Where popular goes wrong" blocks, one curriculum sequencing slip
+(L7→Bell), title dual-naming drift, and Lecture 18's stop-question testing chapter
+speech that the lecture body never teaches.
+
+
+METHOD
+------
+Extracted the live appendix with python-docx (paras 2152–2688). Read every lecture
+body end-to-end. Scaffolding marked "already done" was not undone and was not scored
+as the problem. Scores below are editorial judgments of classroom feel vs dry notes,
+not automated keyword averages.
+
+
+WHAT IS ALREADY WORKING (DO NOT UNDO)
+-------------------------------------
+Canonical lecture layout (matches How to Read, paras 67–75):
+  You need first → When you walk out → Lolly notebook beat → In one breath →
+  Start here → The idea, step by step → What this chapter was actually showing you →
+  Where the popular version goes wrong → Going deeper (skip freely) → What sticks →
+  One-line summary → Stop. Before you go on → Pretend a funny, smart, hot woman…
+
+Course frame (paras 2152–2160): Feynman standard, how to sit, four-part shape —
+excellent. Closing course checklist (2673–2674) and Further Reading (2676–2688) —
+honest and on-brand.
+
+Strongest teaching already in place (keep / protect):
+  • Start-here pictures: recipe card (L1), sieve/magnet (L2), wet paint (L3), office
+    chair (L4), clockwork under glass (L5), ice block (L6), glove boxes (L7), wax seal
+    (L8), sound through wall (L9), muddy path (L10), sealed office (L11), toy boat
+    (L12), two restaurants (L13), violin (L14.1), circle on paper (L14.2), mural tiles
+    (L15), tidy kitchen (L16–17), coffee going cold (L18)
+  • "Where the popular version goes wrong" honesty — especially L6 virtual-pair
+    critique, L9 instruments-vs-state, L10 observation-makes-reality, L13 Bell slogans
+  • Chapter bridges ("What this chapter was actually showing you") — Ministry satire
+    locked to physics without pretending houses are qubits
+  • Lolly notebook openings — voice is already the frame
+
+
+NAMING NOTE (vs earlier brief)
+------------------------------
+Earlier elevation brief named some labels that the live book has already evolved:
+
+  Brief said                      Live book has
+  -----------------------------   ------------------------------------------
+  "Picture"                       Folded into "Start here" (How to Read defines it)
+  "After this lecture..."         "When you walk out, you should be able to:"
+  "Hot chair" label               Present as the Pretend-…woman paragraph (no label)
+  "Modules"                       Course Parts I–IV + "In one breath" / shape lines
+
+This is consistency with How to Read, not missing scaffolding. Do not reintroduce a
+separate "Picture" / "Objective" / "Check yourself" layer on top.
+
+
+================================================================================
+GLOBAL FLAGS
+================================================================================
+
+1) Lesson vs Lecture leftovers
+   - ZERO "Lesson N" headers in appendix.
+   - ONE leftover wording: [2671] Stop question says "according to this lesson"
+     → change to "this lecture" (and fix content match; see L18).
+
+2) "Objective:" / "Check yourself" leftovers
+   - NONE found in appendix or chapter pointers.
+   - Functional replacements already present: "When you walk out…" and Stop/Pretend.
+
+3) Doubled Contents titles
+   - No doubled "Contents" heading inside the appendix.
+   - REAL double: course-shape Part I appears twice in a row:
+       [2156] I. What a state is… (Lectures 1–5) …
+       [2161] I. What a state is… (Lectures 1–5) …   ← DELETE or replace with II/III/IV only if missing
+     Paras 2156–2159 already list I–IV; [2161] is a stray duplicate of I only.
+     Fix: delete [2161].
+
+4) Physics Notes dual naming
+   - Inside LIVE Book 1.docx: chapter-end links already say
+     "→ Lecture for this chapter: …" (not "Physics Notes").
+   - Appendix H2s say "Chapter N: Lecture: …"
+   - Lecture titles say "Lecture N — …"
+   - "Physics Notes" string: ZERO hits in this .docx body.
+   - Dual naming still lives in older English/ working copies, TTS cast notes, and
+     About-the-Series drafts elsewhere in the repo — intentional legacy flavor if you
+     want "Ministry filing name = Physics Notes / classroom name = Lectures". For the
+     live manuscript, naming is already Lectures. Author decision only if you want
+     deliberate dual branding back in.
+
+5) Inconsistent section labels (soft)
+   - "Going deeper (skip freely)." vs "This block is optional." vs "This block can be
+     skipped." vs "This paragraph can be skipped." — harmless but polishable to one
+     stock phrase.
+   - "Start here." always present; never a bare "Picture." label (by design).
+
+6) Title drift (Chapter header / end-link / Lecture N title)
+   Several chapters still use the OLD Physics-Notes-era long title while the Lecture N
+   header uses the shorter classroom title:
+
+   L4  CH/link: "State Reduction via Repeated Measurement"
+       Lecture: "Repeated Measurement and the Quantum Zeno Effect"
+   L5  CH/link: "The Schrödinger Equation and Lawful Evolution"
+       Lecture: "Lawful Evolution Between Measurements"
+   L7  CH: "…Beginning of Decoherence" / Lecture: "…Start of Decoherence"
+   L8  CH: "The No-Cloning Theorem…" / Lecture: "No-Cloning and…"
+   L9  CH: "The Uncertainty Principle—…" / Lecture: "Uncertainty: …"
+   L12 CH: "De Broglie Matter Waves…" / Lecture: "Matter Waves…"
+   L15 CH: long QEC title / Lecture: "Partial Recovery Without Picking an Interpretation"
+
+   Recommendation: pick ONE title per lecture; sync Chapter H2, end-of-chapter link,
+   and Lecture N header. Prefer the Lecture N classroom titles (shorter, Feynman-cleaner).
+
+7) Blank paragraphs before notebook voice
+   [2605], [2630], [2654] empty lines before L16/L17/L18 Lolly intros — cosmetic; delete.
+
+
+================================================================================
+PER-LECTURE SCORECARD
+================================================================================
+Format: Rank / Voice / Sections / Weak spots (idx + first ~100 chars) / Notes
+
+------------------------------------------------------------------------------
+LECTURE 1 — Superposition | paras 2164–2188 | RANK: 7.5/10
+Voice: Strong Start here + popular-wrong; steps still textbook definitions
+Sections: Start here / popular wrong / Going deeper / Stop+Pretend — YES
+         Standalone Picture label — N/A (folded into Start here)
+         "After this lecture" — present as "When you walk out" [2166]
+
+Weak / elevate:
+  [2168] In one breath. A quantum thing is described by its state: the best complete account…
+        → Accurate but dense; open with "what results can come out" before "state".
+  [2171] 1. A state is a compact description of a system that lets physics predict…
+  [2172] 2. A measurement is a physical interaction between the system and an apparatus…
+  [2173] 3. For one chosen property, a quantum state can be a superposition…
+  [2174] 4. If the apparatus measures that property, it produces one allowed result…
+  [2175] 5. Before such a measurement, the alternatives can interfere…
+        → Whole step block is Ministry-notes dry. Keep numbering; rewrite each line
+          as something you would say at a board, referencing the recipe-card picture.
+
+Protect: [2169] recipe card; [2177] "two places at once" takedown; [2186] one-line.
+
+------------------------------------------------------------------------------
+LECTURE 2 — Measurement Basis and Forced Collapse | 2191–2215 | RANK: 7.5/10
+Voice: Sieve/magnet picture is Feynman; steps are glossary entries
+
+Weak:
+  [2195] In one breath… (abstract "basis-independent set of sharp true values")
+  [2198] 1. A measurement basis is the set of distinct alternatives…
+  [2199]–[2202] remaining steps — correct, passive, low picture
+Protect: [2196] sieve/magnet; [2204] popular wrong; queue bridge [2203]
+
+------------------------------------------------------------------------------
+LECTURE 3 — Premature Collapse | 2218–2243 | RANK: 8.0/10
+Voice: Wet-paint analogy + decoherence honesty already strong
+
+Weak:
+  [2225]–[2230] step list — workable but still "is/are" definitional
+  [2227] "In the ideal textbook description, this produces state reduction…"
+        → Say what the student should picture happening, then name the jargon.
+Protect: [2223] wet paint; [2232] observation-makes-it-real takedown
+
+------------------------------------------------------------------------------
+LECTURE 4 — Repeated Measurement and the Quantum Zeno Effect | 2246–2271 | RANK: 8.0/10
+Voice: Office-chair picture excellent; anti-Zeno honesty good
+
+Weak:
+  [2253]–[2258] steps — accurate lab protocol voice, low classroom warmth
+  Title sync: Chapter/link still "State Reduction via Repeated Measurement"
+Protect: [2251] chair; [2260] watched-pot takedown
+
+------------------------------------------------------------------------------
+LECTURE 5 — Lawful Evolution Between Measurements | 2274–2299 | RANK: 8.0/10
+Voice: Clockwork under glass is the right picture; measurement-problem honesty good
+
+Weak:
+  [2281] 1. A quantum state is the best complete description…
+  [2282]–[2286] steps — slightly recursive with L1 definitions; make them about
+        TIME (what changes between records) not re-defining "state"
+  Title sync: Chapter/link "Schrödinger Equation…" vs Lecture "Lawful Evolution…"
+Protect: [2279] clockwork; [2288] "mysterious until someone looks" reversal
+
+------------------------------------------------------------------------------
+LECTURE 6 — Hawking Radiation | 2303–2328 | RANK: 8.5/10
+Voice: Near Feynman already; ice-block pace change + virtual-pair honesty
+
+Weak (minor):
+  [2310] 1. A black hole is a region whose gravity is so strong…
+        → One definitional opener is fine; consider starting from "why the curves
+          move opposite ways" (mass↓ temp↑) since that's the chapter's hook
+Protect: [2308] ice; [2317] virtual-pair critique; [2326] Asset 4C one-liner
+
+------------------------------------------------------------------------------
+LECTURE 7 — Entanglement and the Start of Decoherence | 2331–2356 | RANK: 7.0/10
+Voice: Glove-box picture good; Going deeper opens on the wrong lecture
+
+CRITICAL weak:
+  [2346] Going deeper… In 1964 Bell derived inequalities…
+        → Curriculum bug. Bell belongs to L13. L7 Going deeper should teach the
+          entangled state + reduced density / environment spread, with at most a
+          one-line "Bell will make this precise in Lecture 13." Present text
+          front-loads Bell for a full sentence block before the |Ψ⟩ example.
+
+Also weak:
+  [2338]–[2343] steps — solid but glossary-like; step 2 definition of entanglement
+        could open from the glove picture ("the pair has one description…")
+Protect: [2336] gloves; [2345] no-FTL / decoherence-doesn't-solve-measurement
+
+------------------------------------------------------------------------------
+LECTURE 8 — No-Cloning and Quantum Error Correction | 2359–2382 | RANK: 8.5/10
+Voice: Wax-seal analogy is A-grade; popular-wrong precise
+
+Weak (minor):
+  [2366]–[2371] steps — already better than L1–2; polish step 1's "relations that
+        no one has already written down" into plainer speech
+Protect: [2364] wax seal; [2373] not-every-state-may-exist-only-once
+
+------------------------------------------------------------------------------
+LECTURE 9 — Uncertainty: Position and Momentum | 2385–2410 | RANK: 8.5/10
+Voice: Sound-through-wall is textbook Feynman; Directive 11-C bridge is long but earned
+
+Weak (minor):
+  [2392] 1. Position answers where a thing is, while momentum describes…
+        → Fine as setup; ensure steps 2–4 stay wave-picture, not definition dump
+  [2398] chapter bridge is very long — consider one mid-paragraph breath / split
+Protect: [2390] sound; [2399] instruments-vs-state takedown
+
+------------------------------------------------------------------------------
+LECTURE 10 — Decoherence and Einselection | 2413–2436 | RANK: 9.0/10
+Voice: Muddy path + moon rota = best lecture in the book so far
+
+Weak (tiny):
+  [2420] 1. A superposition is… — re-defines L1; could start "Remember the recipe
+        card — now ask why a moon never needs one"
+  [2428] Going deeper is short and abstract — one concrete experiment mention
+        (C60 interference / superconducting decoherence) would lift it
+Protect: almost everything; [2434] one-line is perfect
+
+------------------------------------------------------------------------------
+LECTURE 11 — The Measurement Problem and Wigner’s Friend | 2440–2466 | RANK: 8.5/10
+Voice: Sealed-office picture + Everett honesty block = Feynman-class
+
+Weak:
+  [2447]–[2452] steps — good structure; step 2 "textbook measurement is usually said"
+        is a bit meta — say what the lab notebook claims happened
+  [2453] Everett block is long (worth keeping) — ensure a student who skips it still
+        gets the Stop question; currently Stop is about Phase Two forms (chapter), OK
+Protect: [2445] sealed office; [2455] consciousness-collapse takedown; Everett cost line
+
+------------------------------------------------------------------------------
+LECTURE 12 — Matter Waves and Pilot-Wave Theory | 2469–2494 | RANK: 8.0/10
+Voice: Toy-boat picture good; nonlocality honesty good
+
+Weak:
+  [2476]–[2481] steps — historically ordered (fine) but step 1–2 read as encyclopaedia
+        → Lead with the boat, then "de Broglie said matter has a wavelength…"
+Protect: [2474] boat; [2483] not-water-ripple / Bell-doesn't-kill-pilot-wave
+
+------------------------------------------------------------------------------
+LECTURE 13 — Bell’s Theorem and the CHSH Inequality | 2497–2522 | RANK: 9.0/10
+Voice: Two-restaurants picture + CHSH numbers = classroom gold
+
+Weak (tiny):
+  [2504]–[2509] steps — already good; step 2 "hidden-variable account says" could
+        say "pre-written local answers, like the breakfast plan"
+Protect: [2502] restaurants; [2511] popular slogans; [2514] Nobel/loophole line
+
+------------------------------------------------------------------------------
+LECTURE 14 Part One — String Theory and M-Theory | 2525–2546 | RANK: 8.0/10
+Voice: Violin + "beauty is not evidence" = honesty mark hit
+
+Weak:
+  [2532]–[2535] only four steps — thin vs other lectures; add one step on
+        "what would count as evidence" / "what is still missing"
+  [2537] Where the popular version goes wrong — only ~44 words; expand one beat
+        ("strings of spaghetti / everything is vibration" pop version)
+  [2538] Going deeper — dense Witten/duality paragraph; one concrete duality picture
+        (strong↔weak) already there — keep, maybe split into two sentences for air
+Protect: [2530] violin; [2528] notebook honesty; [2544] one-line
+
+------------------------------------------------------------------------------
+LECTURE 14 Part Two — Black-Hole Entropy and Holography | 2549–2570 | RANK: 8.0/10
+Voice: Circle-on-paper is a good start; area-law honesty good
+
+Weak:
+  [2556]–[2558] only three steps — thinnest argument spine in the appendix; expand
+        to 5: entropy~area → microscopic count success → holography claim →
+        what it does NOT claim → why 4C cares (scrambled disclosure)
+  [2554] Start here circle analogy is geometric, not entropic — consider one sentence
+        linking "boundary carries the whole story" to "horizon as ledger"
+Protect: [2560] cinema-screen takedown; [2568] one-line
+
+------------------------------------------------------------------------------
+LECTURE 15 — Partial Recovery Without Picking an Interpretation | 2574–2599 | RANK: 8.5/10
+Voice: Mural tiles excellent; interpretation-neutrality is the book's thesis lecture
+
+Weak (minor):
+  [2581]–[2586] steps — good; step 1 cites "Chapter 8" (Ministry notes flavor — OK)
+  [2587] chapter bridge is a plot dump — earned, but denser than a lecture needs;
+        one clarifying sentence at the top ("the plan has four tools, zero churches")
+Protect: [2579] mural; [2588] not-a-time-machine; [2597] one-line
+
+------------------------------------------------------------------------------
+LECTURE 16 — Thermodynamics | 2602–2624 | RANK: 7.5/10
+Voice: Kitchen picture good; moral-analogy honesty in popular-wrong is essential
+
+Weak:
+  [2605] blank paragraph — delete
+  [2610]–[2613] only four steps; step 3–4 leap to Ministry — insert one pure-physics
+        step about heat flow / irreversibility before satire
+  [2616] Going deeper only ~42 words (S = k ln Ω and ΔS≥0) — thinnest deeper block;
+        add one sentence on why "exported disorder" is not optional bookkeeping
+Protect: [2608] kitchen; [2615] admin≠entropy honesty; [2622] one-line
+
+------------------------------------------------------------------------------
+LECTURE 17 — Negentropy | 2627–2648 | RANK: 8.5/10
+Voice: Certificate-vs-obituary is already the book's moral physics
+
+Weak:
+  [2630] blank — delete
+  [2635]–[2638] only four steps — add one step distinguishing "pattern that holds"
+        from "fraction of a person" (bridges the 78% without sentimentality)
+Protect: [2633] kitchen reprise; [2640] life-doesn't-beat-entropy; [2646] one-line
+
+------------------------------------------------------------------------------
+LECTURE 18 — The Long Future | 2651–2672 | RANK: 7.0/10
+Voice: Coffee→cosmos picture fine; Stop question fails the lecture
+
+CRITICAL weak:
+  [2671] Stop. Before you go on — What, according to this lesson, is rarer than gravity…
+        TWO bugs:
+        (a) says "lesson" not "lecture"
+        (b) tests Schrottfinger's chapter speech (accounts/descriptions as the scarce
+            commodity, paras ~2033–2034) which the LECTURE BODY NEVER TEACHES.
+            Lecture body covers eras / no lid / cat-as-reductio.
+        Fix options (pick one):
+          A. Rewrite Stop to match taught content (no lid; cat not literal; provisional eras)
+          B. Add one Start-here or step paragraph teaching "accounts rarer than gravity"
+             / noticing as scarce, then keep a repaired Stop question
+        Recommend B — that line is the novel's last physics thesis.
+
+Also weak:
+  [2654] blank — delete
+  [2659]–[2662] steps — OK but miss the rare-accounts idea entirely
+  [2665] Going deeper mixes cat history + far-future eras — fine, but the rare-accounts
+        idea still absent
+Protect: [2657] coffee; [2664] cat reductio; [2670] one-line
+
+
+================================================================================
+SUMMARY TABLE
+================================================================================
+ L   Score   Title (short)                         Main gap to 10
+--   -----   -----------------------------------   ------------------------------
+ 1    7.5    Superposition                         Dry definitional steps
+ 2    7.5    Measurement Basis                     Dry steps / dense In one breath
+ 3    8.0    Premature Collapse                    Steps still textbook
+ 4    8.0    Zeno / Repeated Measurement           Steps + title sync
+ 5    8.0    Lawful Evolution                      Steps re-define state; title sync
+ 6    8.5    Hawking Radiation                     Minor step opener
+ 7    7.0    Entanglement / Decoherence start      Going deeper opens on Bell
+ 8    8.5    No-Cloning / QEC                      Minor polish
+ 9    8.5    Uncertainty                           Long chapter bridge
+10    9.0    Decoherence / Einselection            Tiny; deepen Going deeper
+11    8.5    Measurement Problem / Wigner          Meta step wording
+12    8.0    Matter Waves / Pilot-wave             Encyclopaedic early steps
+13    9.0    Bell / CHSH                           Near done
+14a   8.0    Strings / M-theory                    Thin popular-wrong + few steps
+14b   8.0    BH entropy / holography               Only 3 steps; analogy→entropy link
+15    8.5    Partial recovery                      Dense plot bridge
+16    7.5    Thermodynamics                        Thin Going deeper; short spine
+17    8.5    Negentropy                            Short spine; blank para
+18    7.0    Long Future                           Stop≠body; missing rare-accounts
+
+Average (treating 14a/14b as two): ~8.05/10
+Lectures most below Feynman-class target (<8): 1, 2, 7, 16, 18
+Already near ceiling (≥8.5): 6, 8, 9, 10, 11, 13, 15, 17
+
+
+================================================================================
+PRIORITIZED REWRITE LIST (MAX 30)
+================================================================================
+Goal of each rewrite: still accurate; still Ministry/chapter-locked; still Lolly notebook
+flavor where the frame fits; feel like sitting in a brilliant class — picture → honesty
+→ precision.
+
+Priority order = impact × (bug severity + dryness + student-facing damage).
+
+ 1. [2671] L18 Stop question — fix "lesson"→"lecture" AND align with taught content
+    OR teach "accounts rarer than gravity" in the body first. Highest pedagogy bug.
+
+ 2. [2346] L7 Going deeper — remove/relocate Bell lead-in; teach entanglement +
+    decoherence machinery; one-line forward pointer to L13.
+
+ 3. [2171]–[2175] L1 steps (treat as one rewrite pass) — board-voice from recipe card;
+    kill "X is a compact description…" openers.
+
+ 4. [2198]–[2202] L2 steps — rewrite from sieve/magnet; basis = "which distinction
+    this tool can make."
+
+ 5. [2168] L1 In one breath — less abstract; results-first, then "state".
+
+ 6. [2195] L2 In one breath — same: question-the-apparatus-can-ask first.
+
+ 7. [2659]–[2662] L18 steps — add the rare-accounts / noticing thesis so Stop works;
+    keep eras + no lid.
+
+ 8. [2556]–[2558] L14.2 steps — expand 3→5; connect circle analogy to horizon ledger.
+
+ 9. [2616] L16 Going deeper — thicken beyond S=k ln Ω; export-of-disorder picture.
+
+10. [2537] L14.1 Where popular goes wrong — expand thin block (~44 words).
+
+11. [2532]–[2535] L14.1 steps — add evidence/missing-experiment step.
+
+12. [2225]–[2230] L3 steps — contact/record before jargon "state reduction".
+
+13. [2253]–[2258] L4 steps — chair-picture language; "checks prepare, they don't peek".
+
+14. [2281]–[2286] L5 steps — about lawful change BETWEEN records, not redefining state.
+
+15. [2338]–[2343] L7 steps — start from shared description / glove failure of labels.
+
+16. [2610]–[2613] L16 steps — insert pure heat-flow step before Ministry satire.
+
+17. [2428] L10 Going deeper — one concrete lab example of watched interference loss.
+
+18. [2476]–[2478] L12 early steps — boat first, history second.
+
+19. [2554] L14.2 Start here — one sentence linking geometric boundary → entropy ledger.
+
+20. [2398] L9 chapter bridge — split or breathe; density is the only drag on an 8.5.
+
+21. [2587] L15 chapter bridge — one topic sentence upfront ("four tools, zero churches").
+
+22. [2453] L11 Everett block — optional micro-trim for skippers; keep honesty/cost lines.
+
+23. [2635]–[2638] L17 steps — add pattern-vs-forged-completeness beat for the 78%.
+
+24. [2310] L6 step 1 — open from linked curves (mass↓/temp↑) not dictionary BH.
+
+25. [2420] L10 step 1 — don't re-lecture superposition; bridge from L1 picture to moon.
+
+26. Title sync pass (not prose, but required for 10/10 polish): unify L4, L5, L7, L8,
+    L9, L12, L15 titles across Chapter H2 / end-link / Lecture N header.
+
+27. [2161] Delete duplicated "I. What a state is…" course-shape line.
+
+28. [2605], [2630], [2654] Delete blank paras before L16–18 notebook intros.
+
+29. Going-deeper stock phrase pass — one wording: "Going deeper (skip freely). Optional."
+
+30. [2671] companion: if choosing Fix B, add ~1 paragraph after [2657] or as new step
+    teaching Schrottfinger's rare-accounts idea in lecture voice (not chapter dialogue).
+
+
+REWRITE ANGLES (quick reference)
+--------------------------------
+Definitional step ("X is a…"):
+  → Start from the Start-here picture; name the term after the student can see it.
+
+Passive/procedural:
+  → "You prepare / you measure / nature answers — what changed?"
+
+Going deeper dump:
+  → One concrete experiment or number, then the equation, then the honesty limit.
+
+Ministry satire paragraph:
+  → Keep; don't dilute. Only trim when it buries the physics claim.
+
+
+================================================================================
+EDITORIAL PATH TO 10/10
+================================================================================
+Do NOT rebuild scaffolding. Do NOT add Objective/Check-yourself. Do NOT rename
+Start here back to Picture unless How to Read is rewritten with it.
+
+Sequence of work:
+  Phase A — bugs: items 1, 2, 26, 27, 28 (Stop/L7/titles/dupe/blanks)
+  Phase B — dryness: items 3–6, 12–15 (L1–L5, L7 steps + In one breath)
+  Phase C — thin blocks: items 8–11, 16–17, 19 (L14, L16, L10 deeper)
+  Phase D — polish: remaining items; stock "Going deeper" phrase; L18 rare-accounts
+
+When Phase A–C are done, the appendix should feel like one continuous brilliant class:
+pictures already on the board, Ministry jokes as worked examples, Lolly's notebook as
+the student's margins — and no stop question that exams material the lecture never taught.
+
+Full paragraph dump used for this audit:
+  D:\My Books for Amazon\Schrodingers_Paperwork\_tmp_appendix_extract.txt
+
+================================================================================
+END OF AUDIT
+================================================================================

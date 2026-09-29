@@ -1,6 +1,6 @@
 ## Chapter 35: The World Was Supposed to End in 2012 (It Didn't)
 
-Dolphin historians have, by this point in the book, catalogued a great many things humans got wrong about their own past. This chapter catalogues something rarer: an entire civilization getting blamed for a future that never happened.
+Dolphin historians have, by this point in the book, cataloged a great many things humans got wrong about their own past. This chapter catalogs something rarer: an entire civilization getting blamed for a future that never happened.
 
 The Maya civilization, whose sophisticated cities, mathematics (including an independently invented concept of zero), and astronomy this book has already touched on, tracked time with several overlapping calendar systems. The most elaborate, the Long Count, measured days elapsed since a fixed mythological starting point rather than resetting every year the way a modern calendar does.
 

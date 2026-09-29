@@ -1,0 +1,219 @@
+For several seconds, nobody spoke. The three-line note sat on the screen like a timetable written by someone who already knew the journey.
+Penny read it. “That’s ominous.”
+“Very.”
+“Could ‘departure’ mean the train?”
+“Perhaps.”
+“Arrival?”
+“Perhaps.”
+“Death?”
+“Almost certainly me.”
+Trevor shifted uneasily.
+Penny turned to him. “That’s a surprisingly weak argument.”
+“It has served me well.”
+Derek zoomed in again.
+The railway silent clock in the photograph wasn’t showing exactly 11:03.
+It showed 11:03:17.
+Derek stared intently.
+He looked at his own clock. 9:27:17.
+He checked his phone. 9:27:17.
+The wall clock. 9:27:17.
+Derek pointed. “Seventeen seconds.”
+He said it quietly, as if the number itself might change if spoken too loudly.
+Trevor looked sharply. “Same.”
+Derek nodded. “That’s interesting.”
+Penny leaned closer. “Why?”
+“Because if this were simply a badly set clock, there’s no reason for the seconds to line up.”
+Trevor thought about that. “Could someone have set it deliberately?”
+“Yes.”
+Penny fixed him with a look.
+Trevor nodded quickly. “Exactly.”
+Derek opened the Bureau’s internal records.
+The system showed no record of the ancient brass clock.
+No purchase.
+No inventory entry. No photograph. No mention of it.
+Derek searched the building’s security footage. Nothing. He checked the office camera.
+At 9:16, the old desk was empty. At 9:17, the old desk was empty. At 9:18, the desk was empty.
+At 9:19, the old desk was empty. At 9:20, the ancient brass clock appeared. Trevor stared. “How?”
+Derek replayed it. The clock simply suddenly appeared. There was no hand.
+There was no person and no shadow. One frame showed nothing.
+The next showed the clock. Penny watched Derek. “That’s not normal.”
+“No.”
+“No.”
+“Could the camera have glitched?”
+“Yes.”
+“Did it?”
+“No.”
+“How do you know?”
+“Because the clock casts a shadow.”
+Penny studied it again, more carefully this time. It did. The shadow moved normally as the light from the window changed.
+Derek replayed the footage. The silent clock existed. Then it didn’t.
+Then it existed again. Trevor’s expression deteriorated by degrees.
+“Could someone have edited the footage?”
+“Yes.”
+“Could they have edited the photograph?”
+“Yes.”
+“So, how do we know anything is real?”
+Derek met his eyes. “Now you’re asking the right question.”
+Trevor didn’t look reassured. Derek slowly opened another file. “Let’s start with the clocks.”
+He took the ancient brass clock from the photograph and compared its mechanism with the Bureau’s clocks.
+They were different. He compared the hands.
+Different. He compared the second hand. Identical.
+Seventeen seconds.
+Derek frowned. Penny noticed.
+“Another problem?”
+“Yes.”
+“How many are we up to?”
+“Seven.”
+Trevor raised his eyebrows. “Seven?”
+“At least.”
+Derek turned the clear photograph upside down. There was a small number written on the back. 1047.
+He reviewed the case database. Case 1047 did not exist. He searched deleted cases.
+Nothing. He searched archived cases. Nothing.
+He searched future-dated cases. Nothing.
+Then the computer made a noise. A soft chime. A new case appeared.
+CASE 1047
+CLIENT: Derek Gent
+STATUS: ACTIVE
+Derek stared intently. Penny leaned over. “What does it say?”
+Derek scrolled.
+The case contained only three pieces of information.
+CLIENT: Derek Gent
+SUBJECT: Murder
+DATE: WEDNESDAY
+TIME: 11:03:17
+Derek clicked “Assigned Investigator.”
+The field was blank.
+He clicked “Perpetrator.”
+Blank.
+He clicked “Victim.”
+Derek Gent.
+He clicked “Case Notes.”
+There was one note. Written in Derek’s own handwriting.
+DO NOT LET TREVOR NEAR THE STRANGE CLOCK.
+Trevor read it. “I feel slightly insulted.”
+Derek turned toward him. “Don’t.”
+“I wasn’t going to.”
+“You were.”
+“I was.”
+Penny smiled. “This is becoming quite good.”
+Derek stared at the screen. “Something is using the Bureau.”
+“What?”
+“Someone — or something—is creating cases inside our system.”
+“From where?”
+“I don’t know.”
+“Can we trace it?”
+Derek checked. “No.”
+“Why?”
+“Because the originating address is…”
+He stopped. “What?”
+Derek turned the monitor toward them. The address read:
+LOCALHOST
+Trevor frowned. “That’s the computer.”
+“Yes.”
+“So, someone is doing it from here.”
+“Apparently.”
+Penny surveyed the room. There were three people in it. Derek.
+Trevor. Penny. Nobody else.
+She folded her arms. “Well.”
+Trevor met her gaze. “What?”
+“You’ve got an interesting problem.”
+“Which one?”
+“One of us is lying.”
+Derek looked at the three chairs. Then the silent clock. Then the computer.
+“Perhaps.”
+Penny smiled. “Or one of us hasn’t done it yet.”
+Derek regarded her. The office suddenly felt colder. Not the ordinary London cold — something more precise, as if a draft had found its way in from a place that did not appear on any map. Trevor swallowed. “You mean…”
+Derek didn’t answer. The computer chimed again. All three studied the screen.
+A new message suddenly appeared.
+CASE UPDATE
+PERPETRATOR IDENTIFIED
+Derek opened it. The name appeared.
+TREVOR BOLTZMAN
+Trevor stared silently. “What?”
+Derek gave him a measured look.
+Trevor and Penny exchanged a glance.
+“That wasn’t me.”
+“I know,” Derek added.
+“How do you know?”
+“Because you’re still here.”
+Trevor blinked. “That’s your evidence?”
+“For the moment.”
+Penny walked to the window. “Then who is framing him?”
+Derek glanced at the clock. 9:31:17.
+He stared at the photograph.
+11:03:17. He returned to the case file.
+Then he looked at Trevor. “Maybe nobody.”
+Trevor frowned. “What does that mean?”
+Derek walked to the whiteboard. He wrote:
+EVENT
+Then:
+OBSERVER
+Then:
+FRAME
+Then:
+TIME
+He circled the first three.
+“Before we worry about who did it, we need to know what actually happened.”
+Trevor nodded. “Right.”
+Penny regarded him carefully. “Do you understand?”
+Trevor thought for a while. “I think so.”
+“Good.”
+Derek picked up his coat. The decision, once made, felt both inevitable and slightly unreal.
+“Then we’re going to need to leave.”
+“Where?”
+Derek considered the photograph. “The clock.”
+Penny frowned. “The clock?”
+“So, whoever put it here expected us to find it.”
+“What about it?”
+“It doesn’t belong here.”
+“So?”
+Trevor stood. “All right, then, where are we going?”
+Derek held up the photograph. “To the place where it came from.”
+Penny grabbed her coat. “And where is that?”
+Derek turned the photograph over. On the back, beneath the number 1047, another line had suddenly appeared.
+LONDON TERMINUS
+Platform 7
+11:17
+Penny read it. “That’s tomorrow.”
+Derek nodded. “Yes.”
+Trevor surveyed the photograph. “And that’s after you’re dead.”
+“So it appears.”
+“So, how are we supposed to investigate it?”
+Derek smiled. “We’ll have to be there.”
+Trevor looked concerned. “Tomorrow?”
+“Yes.”
+“At eleven seventeen?”
+“Yes.”
+“After you’re murdered?”
+“Presumably.”
+Trevor thought for a moment. “How do we know we’ll get there?”
+Derek opened the door. “Because someone has already told us that we will.”
+Penny followed him. Trevor remained where he was.
+“Derek?”
+“Yes?”
+“What if the message is wrong?”
+Derek turned back. “Then we’ll have wasted a perfectly good morning.”
+“And if it’s right?”
+Derek smiled. “Then I suppose I’ll have to solve my own murder. The words sounded almost reasonable until one considered them.”
+They stepped into the corridor. Mrs Marsh, the building superintendent, was already there, polishing a non-existent mark on the wall with the air of someone who had been waiting specifically to be inconvenient. She was widely regarded as the most immovable object in the building, and possibly in several adjacent dimensions. She did not look up. “You’re tracking geometry in again,” she said.
+Further down the corridor, Mr Pendleton from Facilities stood with a clipboard and the expression of a man who had already decided the answer was no.
+He specialised in a different kind of obstruction: the kind that required signatures, countersignatures, and the quiet insistence that whatever you needed was in a different section, a different building, or a different continuum. The heavy door closed behind them with the finality of a decision that had already been made somewhere else. Inside the empty office, the old brass clock appeared on Derek’s desk as if it had been waiting for the room to be unoccupied.
+Its second hand moved. One. Two.
+Three. It reached seventeen. Stopped.
+Then continued. But now the clock was showing 11:03. And outside the empty office, somewhere far away, a distant train whistle sounded.
+There was no railway empty station anywhere near the building. The whistle sounded again. Then a third time.
+The Bureau’s computer switched itself on.
+A final message appeared.
+CASE 1047
+STATUS: ACTIVE
+VICTIM: DEREK GENT
+PERPETRATOR: TREVOR BOLTZMAN
+WITNESS: PENNY
+PHYSICIST: ALFRED WEINSTEIN
+REFERENCE FRAME: UNKNOWN
+And beneath it, in smaller letters:
+DO NOT LET WEINSTEIN GET TO THE EMPTY STATION FIRST.
+The message disappeared. The screen went black.
+Then the computer displayed the date.
+Wednesday. 11:03. 17 seconds.
+The quiet office was empty. For the moment.

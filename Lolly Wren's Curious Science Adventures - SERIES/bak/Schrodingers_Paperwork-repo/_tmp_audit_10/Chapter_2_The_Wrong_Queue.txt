@@ -1,0 +1,199 @@
+260|Heading 1|Chapter 2: The Wrong Queue
+261|Normal|The queue to which Lolly had now been summoned was not the ordinary version. She and Mrs Elspeth Chain followed the signs down two flights of stairs, along a beige corridor devoted entirely to lowering expectations, and through a pair of glass doors bearing the legend: QUEUE MANAGEMENT For the Avoidance of Unauthorised Resolution
+262|Normal|“That,” said Mrs Chain, reading it once and rejecting it absolutely, “is a revolting sentence.”
+263|Normal|“Yes,” said Lolly. “It’s new.”
+264|Normal|Inside, Queue Management occupied what must once have been an atrium, since persuaded to regret its openness: chrome stanchions, retractable belts, lanes of subtle cruelty under a high ceiling that had given up on grandeur.
+265|Normal|At the far end stood six service desks beneath softly glowing signs: INITIAL DETERMINATIONS REVISIONAL DETERMINATIONS POST-DETERMINATE APPEALS PRE-RESOLVED EXCEPTIONS INTENT ALIGNMENT GENERAL ENQUIRIES / NO
+266|Normal|Between the doors and the desks stood perhaps fifty people in a queue which immediately, and with appalling confidence, divided into six.
+267|Normal|Lolly stopped. Mrs Chain stopped beside her.
+268|Normal|“I see,” she said after a moment, “that this is idiotic.”
+269|Normal|Lolly stared ahead. “Yes.”
+270|Normal|“How does one join it?”
+271|Normal|“I’m not yet sure it can be joined in any recognisably civic sense.”
+272|Normal|At the entrance stood a free-standing pillar dispensing numbered tickets. This, in any civilised institution, would have been reassuring.
+273|Normal|Lolly pressed the button. The machine emitted a mild chime and produced three tickets. A17. A17 (provisional). A17/b.
+274|Normal|Lolly looked down at them in silence.
+275|Normal|Mrs Chain took one, adjusted her spectacles, and read it. “What,” she asked, “is a provisional seventeen?”
+276|Normal|“I would assume,” said Lolly, “a seventeen that has not committed.”
+277|Normal|“And the b?”
+278|Normal|“I refuse to speculate.”
+279|Normal|Near the pillar a young man in a reflective waistcoat was attempting to provide guidance to the public in the bright, exhausted tone of someone whose training had been both inadequate and recent.
+280|Normal|“If you are here regarding an unresolved outcome,” he was saying, “please proceed to the queue most closely aligned with your present state. If uncertain, join the uncertainty lane until a more definite uncertainty becomes available.”
+281|Normal|A woman clutching a pram said, “Which one is the uncertainty lane?”
+282|Normal|The young man looked around helplessly. “At the moment, madam, all of them.”
+283|Normal|Mrs Chain closed her eyes briefly. “Oh, very good. They’ve hired a poet and issued him a lanyard.”
+284|Normal|Lolly examined the room. The six lanes were not stable. That was the first problem.
+285|Normal|The second was that they were not, in any useful sense, separate. The queue seemed to divide and rejoin itself according to principles more suggestive of philosophy than architecture.
+286|Normal|A man in a pinstripe suit occupied two adjacent lanes by means of a posture that deserved a pension. An elderly couple entered Revisional Determinations and emerged in General Enquiries. A student with a rucksack advanced without moving his feet.
+287|Normal|Lolly watched for perhaps ten seconds and had the distinct feeling that the room was selecting answers based on the questions people brought into it. She disliked rooms that had opinions.
+288|Normal|“Ms Wren?”
+289|Normal|She turned.
+290|Normal|A woman approached from Desk Three with a file under one arm and the expression of someone who had once been patient and had since overcome it. Dark grey; badge clipped with punitive exactness. This, Lolly realised, would be Desk Three’s idea of help.
+291|Normal|BEATRIX SLOAN Internal Audit
+292|Normal|She looked first at Lolly, then at Mrs Chain, then at the three contradictory queue tickets in Lolly’s hand, and seemed not at all surprised.
+293|Normal|“You’re the Chain case,” she said.
+294|Normal|Lolly inclined her head. “Lolly Wren. Transit Reconciliation.”
+295|Normal|“I know.” She held out a hand to Mrs Chain. “Sloan. Internal Audit.”
+296|Normal|Mrs Chain shook it. “Are you in charge of this?”
+297|Normal|“No,” said Beatrix. “Otherwise it would be less decorative.”
+298|Normal|She took one of Lolly’s tickets and read it without approval. “They’ve started branching admissions.”
+299|Normal|“What does that mean?” asked Lolly.
+300|Normal|“It means,” said Beatrix, “that rather than deciding what category a problem belongs in, the department now permits the problem to be processed under several mutually incompatible interpretations until one of them becomes administratively cheaper.”
+301|Normal|Mrs Chain considered this. “That sounds immoral.”
+302|Normal|Beatrix gave a tiny shrug. “Yes, but efficiently so, which is the current preference.”
+303|Normal|She turned and set off toward the lanes without waiting to see if they followed, which they did, because some people generate obedience merely by walking as though corridors owe them truth.
+304|Normal|At the mouth of the queue Beatrix stopped and pointed. “Look carefully,” she said.
+305|Normal|Lolly did. To an untrained eye, the movement of the lanes might have appeared merely disorderly. But once one attended to the signs, a pattern emerged.
+306|Normal|Citizens approaching with misplaced luggage tended to be pulled toward General Enquiries / No. Those with contradictory documents drifted toward Revisional Determinations. People with the stunned, inward-looking expression of persons whose day had become ontological were drawn, slowly but unmistakably, toward Intent Alignment.
+307|Normal|“Is it sorting by complaint type?” Lolly asked.
+308|Normal|“Not exactly,” said Beatrix. “It’s sorting by interpretive frame.”
+309|Normal|Mrs Chain gave her a sharp look. “In English.”
+310|Normal|Beatrix obliged at once. “The room decides what sort of problem you are having, and then forces you to become that sort of problem.”
+311|Normal|Lolly felt a small, unpleasant quickening in the back of her mind. “Based on what?”
+312|Normal|“On what is observed first,” said Beatrix.
+313|Normal|There are sentences which, to a former physicist trapped in public administration, land with the emotional force of a brick through stained glass.
+314|Normal|Lolly looked again at the room. A man holding a damp briefcase was being asked, at Desk One, whether his issue concerned delay, duplication, or symbolic displacement. Each answer altered the forms placed before him.
+315|Normal|A woman near Desk Five had apparently described her missing husband as both late and increasingly hypothetical, and was now being redirected toward Post-Determinate Appeals with an orange folder marked DOMESTIC AMBIGUITY.
+316|Normal|Lolly said quietly, “It’s choosing what kind of complaint it can bear to have.”
+317|Normal|Beatrix looked at her. “I beg your pardon?”
+318|Normal|“The system,” she said, more quickly now. “It isn’t receiving the complaint. It is deciding, from the first question, what sort of person is permitted to bring it. Delay, identity, route, intent — after that, everything has to fit.”
+319|Normal|Mrs Chain folded her arms. “So if I say I took the wrong bus, that’s one problem. And if I say I arrived before deciding, that’s another.”
+320|Normal|“Exactly,” said Lolly. “But they are the same thing.”
+321|Normal|“Yes,” said Mrs Chain.
+322|Normal|“That’s monstrous,” said Lolly.
+323|Normal|“Yes,” said Beatrix. “But very modern.”
+324|Normal|Lolly took out her pencil and, balancing the green notebook against one hand, wrote:
+325|Normal|First question becomes first answer.
+326|Normal|Then below it:
+327|Normal|The queue does not ask. It assigns.
+328|Normal|Mrs Chain peered at the page. “That’s not going to improve matters, is it.”
+329|Normal|“No,” said Lolly. “But it may help identify the species of disaster.”
+330|Normal|They entered the lane marked INTENT ALIGNMENT.
+331|Normal|At once the carpet changed colour from apologetic blue to a slightly sterner shade of blue, as if to indicate that uncertainty was tolerated here only under supervision. The barriers to either side gave a faint electric hum.
+332|Normal|Ahead of them stood five citizens in various states of administrative fatigue: a cyclist received by his office before he had left home, though only emotionally; a teacher whose afternoon had been reassigned to Thursday; a teenager with a parcel who had meant to visit his grandmother “in principle.”
+333|Normal|As the line advanced, Lolly noticed something even less encouraging. The questions changed people.
+334|Normal|A clerk at the front desk, hidden until now by a partition, was speaking in a soothing voice to the cyclist.
+335|Normal|“Did you intend,” she asked, “to go to work?”
+336|Normal|“Yes, obviously.”
+337|Normal|“Fully?”
+338|Normal|The cyclist blinked. “What?”
+339|Normal|“Would you say your intention was complete, partial, or symbolic?”
+340|Normal|“Complete, I suppose.”
+341|Normal|The clerk ticked a box. At once the screen beside her updated: COMMUTER MISSEQUENCING SUBTYPE: PRE-COMMITTED ARRIVAL
+342|Normal|The cyclist looked down at the label that had printed for him, and in that instant his whole complaint seemed to shrink. He began repeating the clerk’s terminology back to her, as though his own experience had already been translated into something smaller and easier to store.
+343|Normal|Lolly felt cold.
+344|Normal|The teacher stepped up next. Her account of a missing afternoon was reframed, within seconds, as TEMPORAL MISALLOCATION WITH EDUCATIONAL IMPACT. By the time she left the desk, she seemed almost persuaded that the matter concerned staffing.
+345|Normal|Mrs Chain said under her breath, “They file you until you agree.”
+346|Normal|“Yes,” said Lolly.
+347|Normal|Beatrix, ahead of them, nodded once. “That’s the model.”
+348|Normal|Then it was Mrs Chain’s turn.
+349|Normal|The clerk looked up with the professionally laundered smile of a person trained never to acknowledge originality in suffering. “Good morning. Nature of unresolved intent discrepancy?”
+350|Normal|Mrs Chain set her handbag down on the counter with deliberate care. “I went to visit my sister in Whitbury-on-Sea.”
+351|Normal|“Certainly.”
+352|Normal|“I had not entirely decided to go.”
+353|Normal|“Yes.”
+354|Normal|“And when I arrived, the town seemed to be missing part of its sea.”
+355|Normal|The clerk’s fingers paused above the keyboard. “Was the destination emotionally authorised prior to embarkation?”
+356|Normal|Mrs Chain stared at her. “It was what?”
+357|Normal|“Emotionally authorised.”
+358|Normal|“No,” said Mrs Chain. “It was my sister.”
+359|Normal|The clerk blinked. “Would you classify your journey as voluntary, reluctant, habitual, or familial?”
+360|Normal|Mrs Chain drew herself up. “I would classify it as none of your business.”
+361|Normal|Lolly almost admired the speed with which Beatrix stepped in. “Internal Audit,” she said, placing her badge on the counter. “This case is under review.”
+362|Normal|The clerk’s face changed by perhaps half a millimetre, which in administrative environments counts as a passionate emotional event. “Of course,” she said. “Then I’ll need Form IA-9 for diverted interpretive handling.”
+363|Normal|“You will not,” said Beatrix. “You will give me the current classification tree and the routing logic for this lane.”
+364|Normal|“That material is not available at desk level.”
+365|Normal|“Then fetch someone to whom availability has happened.”
+366|Normal|The clerk hesitated. There are many people in bureaucracy who wield power, but very few who wield certainty. Beatrix Sloan wielded certainty in a way that made lesser officials briefly consider confession.
+367|Normal|The clerk rose and vanished through a side door.
+368|Normal|Mrs Chain turned. “I like her.”
+369|Normal|“I noticed,” said Lolly. “Does she ever smile?”
+370|Normal|“Possibly in private,” she said.
+371|Normal|“Wasteful.”
+372|Normal|While they waited, Lolly examined the counter terminal. On the edge of the screen, where some programmer had assumed no one with curiosity would ever be employed, ran a diagnostic panel:
+373|Normal|PRIMARY MEASUREMENT FRAME: INTENT SECONDARY FRAME: ROUTE TERTIARY FRAME: CIVIC STABILITY AUTO-COLLAPSE ENABLED: YES
+374|Normal|Lolly’s mouth went dry. She copied it into the notebook.
+375|Normal|Auto-collapse. That was not a phrase one used by accident.
+376|Normal|She drew a line beneath it and wrote:
+377|Normal|Ask different first question obtain different world.
+378|Normal|A quiet voice at her elbow said, “That’s true more often than people care to admit.”
+379|Normal|Lolly turned. The speaker was the thin young man she had noticed only in passing when they entered: dark coat, narrow face, stack of sealed envelopes under one arm, the general air of someone who belonged everywhere on a provisional basis.
+380|Normal|He had somehow arrived beside them without ever seeming to cross the intervening space.
+381|Normal|“I’m sorry?” said Lolly.
+382|Normal|The young man nodded toward the notebook. “Different question, different world. Sensible. Bit gloomy, but sensible.”
+383|Normal|Mrs Chain eyed him. “Were you in this queue?”
+384|Normal|“Briefly,” he said.
+385|Normal|“And now?”
+386|Normal|“I’ve improved my position by not belonging to it.”
+387|Normal|Beatrix looked over. “Who are you.”
+388|Normal|“Jago Flint.” He produced an identification card so quickly and casually that Lolly entirely missed where it had been kept.
+389|Normal|Interdepartmental Courier Service Restricted / Floating Clearance
+390|Normal|“Floating clearance?” Lolly asked.
+391|Normal|Jago smiled. “Means I’m authorised where things aren’t fully settled.”
+392|Normal|“That can’t be an actual credential,” said Lolly.
+393|Normal|“Ms Wren,” said Jago pleasantly, “neither, at present, can your sea.”
+394|Normal|Before Lolly could reply, the side door reopened and the clerk returned with three forms, a thin man in a mustard tie, and an atmosphere of immediate uselessness.
+395|Normal|“This is Deputy Lane Supervisor Pritchard,” she said.
+396|Normal|Pritchard had the stooped, hesitant manner of a man who had been promoted specifically because he would not resist language. He gave them all a smile of deep institutional sadness.
+397|Normal|“What seems to be the difficulty?”
+398|Normal|Beatrix handed him Mrs Chain’s printout, Lolly’s contradictory tickets, and the audit badge in one economical movement. “The difficulty,” she said, “is that Queue Management is collapsing cases into interpretive states based on intake phrasing.”
+399|Normal|Pritchard glanced at the papers. “Ah.”
+400|Normal|“Do you deny it?”
+401|Normal|“No,” he said. “That is the intended service enhancement.”
+402|Normal|Lolly spoke before she could help herself. “Service enhancement?”
+403|Normal|“Yes. Citizens were becoming distressed by prolonged ambiguity. The new system ensures each event is processed under a stable descriptive regime at the earliest convenience.”
+404|Normal|“But if the description is wrong,” said Lolly, “the outcome is wrong.”
+405|Normal|Pritchard offered a smile of almost paternal despair. “Ms Wren, outcomes are more manageable when they are stable.”
+406|Normal|“That is not the same thing.”
+407|Normal|“No,” said Pritchard. “But it is budgetable.”
+408|Normal|There was a brief silence. Somewhere across the room a woman began arguing that her fiancé had split into a weekday version and a weekend version, both of which were disappointing in different ways.
+409|Normal|Lolly looked at Pritchard. “Who authorised auto-collapse?”
+410|Normal|Pritchard’s expression altered very slightly. “That terminology is internal.”
+411|Normal|“So is panic,” said Beatrix, “but here we are.”
+412|Normal|Pritchard cleared his throat. “The Simplification Initiative has determined that multiple coexisting interpretations of public events create undue load on systems, staff, and public confidence.”
+413|Normal|Mrs Chain said, “Public confidence in what?”
+414|Normal|No one answered.
+415|Normal|Jago, leaning one shoulder against the barrier as though he had always been part of the architecture, said, “That’s usually a bad sign. The fuller answer is probably restricted to senior management.”
+416|Normal|Lolly held up the printout. “Whitbury-on-Sea has been updated to its nearest stable version.”
+417|Normal|Pritchard nodded sympathetically. “Coastal redundancies are outside my lane.”
+418|Normal|“It has a sea in the name,” said Lolly.
+419|Normal|“Yes,” said Pritchard, “but names can be legacy features.”
+420|Normal|Mrs Chain made a sound that would have done credit to artillery.
+421|Normal|Beatrix stepped forward. “I want the routing logic, the collapse parameters, and the policy authorisation.”
+422|Normal|“I’m afraid I can’t release—”
+423|Normal|“Then I’ll seize.”
+424|Normal|Pritchard looked at her, then at the badge, then at the growing unease around the room as more people noticed that their complaints were being translated into sanctioned nonsense.
+425|Normal|Lolly saw the moment at which the deputy supervisor made his choice. It was not a noble choice, or even a thoughtful one. It was the small, bleak calculation of a bureaucrat determining which form of trouble might leave fewer marks.
+426|Normal|He reached into his folder and withdrew a pale blue memorandum. “This,” he said carefully, “was circulated yesterday under restricted headings. I should not, strictly speaking, have brought it to floor level.”
+427|Normal|Beatrix took it.
+428|Normal|Across the top, in a typeface Lolly already despised on moral grounds, were the words: SIMPLIFICATION INITIATIVE PHASE ONE IMPLEMENTATION NOTES
+429|Normal|Below that: To minimise interpretive drift, all citizen-facing anomalies are to be resolved within the first viable measurement frame.
+430|Normal|Lolly read the sentence twice. Then a third time.
+431|Normal|There are few moments in life when one feels the exact hinge on which a disaster turns. Lolly felt this one with mathematical clarity.
+432|Normal|They were not merely mishandling reality. They were teaching it to answer too soon.
+433|Normal|At the bottom of the page, almost as an afterthought, a line in smaller type read: Where persistence of alternate states produces resistance, escalate to Continuity Review.
+434|Normal|Jago let out a low whistle.
+435|Normal|Mrs Chain said, “What is Continuity Review?”
+436|Normal|No one replied at once. Because all four of them, in their different ways, understood that some phrases explain themselves.
+437|Normal|Across the room, a printer began to chatter. Then another. Then another. Sheets emerged at half a dozen desks simultaneously.
+438|Normal|The clerks read them, and several visibly paled.
+439|Normal|Pritchard took one from the nearest tray, glanced down, and closed his eyes.
+440|Normal|“What now,” said Beatrix.
+441|Normal|He swallowed. “We appear to have an expansion event.”
+442|Normal|Lolly felt her stomach perform a small, unauthorised administrative review. “Meaning?”
+443|Normal|Pritchard handed her the notice.
+444|Normal|IN RESPONSE TO INCREASED PUBLIC VARIANCE, QUEUE MANAGEMENT WILL NOW OPERATE IN PARALLEL MODES.
+445|Normal|As she looked up, the six service signs at the far end of the room flickered. There was a soft electrical sigh. Then each sign doubled.
+446|Normal|Twelve desks. Twelve lanes. Twelve different ways, Lolly thought, for the wrong question to become official.
+447|Normal|Beside her, Jago Flint smiled in a way that was either delighted or appalled, and with him one could never be sure that the distinction existed.
+448|Normal|“Well,” he said, “that’s new.”
+449|Normal|Beatrix snatched the memo from Lolly’s hand.
+450|Normal|Mrs Chain clutched her handbag like a weapon of last constitutional resort.
+451|Normal|Somewhere behind them a child asked whether they were all in the wrong line and was told, with admirable honesty, that no one knew.
+452|Normal|Lolly opened the green notebook and wrote only one sentence.
+453|Normal|The queue is measuring the public.
+454|Normal|Then she shut it.
+455|Normal|Because ahead of them, under a newly lit sign reading PROVISIONAL REALITY ADJUSTMENTS, a door had opened that Lolly was quite certain had not been there before. And from beyond it came the unmistakable sound of someone important approaching with papers.
+456|Normal|They did not wait to find out who. Beatrix was already three strides down the corridor, on the grounds — offered without turning round — that whoever it was could file a complaint like everybody else.
+457|Normal|Rule: Ask reality through the wrong sorting frame, and the answer may be the only part of it your apparatus has left standing.
+458|Normal|→ Lecture for this chapter: Measurement Basis and Forced Collapse

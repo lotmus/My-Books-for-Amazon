@@ -1,0 +1,493 @@
+{
+  "avg_score": 4.026315789473684,
+  "scores": {
+    "1": 4.0,
+    "2": 4.0,
+    "3": 4.0,
+    "4": 4.0,
+    "5": 4.0,
+    "6": 4.0,
+    "7": 4.0,
+    "8": 4.0,
+    "9": 4.0,
+    "10": 4.0,
+    "11": 4.0,
+    "12": 4.0,
+    "13": 4.0,
+    "14": 4.0,
+    "15": 4.0,
+    "16": 4.0,
+    "17": 4.0,
+    "18": 4.5
+  },
+  "top30": [
+    {
+      "priority": 39,
+      "lecture": 11,
+      "title": "The Measurement Problem and Wigner’s Friend",
+      "idx": 2458,
+      "first100": "which says that the state |ψ⟩ changes continuously under the system’s energy operator H. Wigner’s fr",
+      "reasons": [
+        "score_hint=3",
+        "long dry block"
+      ],
+      "flags": [
+        "formula without picture",
+        "long dry block"
+      ],
+      "full_len": 475
+    },
+    {
+      "priority": 38,
+      "lecture": 12,
+      "title": "Matter Waves and Pilot-Wave Theory",
+      "idx": 2486,
+      "first100": "where λ is the matter wavelength, h is Planck’s constant, and p is momentum. Electron diffraction in",
+      "reasons": [
+        "score_hint=4",
+        "long dry block",
+        "no classroom voice / no picture"
+      ],
+      "flags": [
+        "long dry block"
+      ],
+      "full_len": 694
+    },
+    {
+      "priority": 37,
+      "lecture": 2,
+      "title": "Measurement Basis and Forced Collapse",
+      "idx": 2207,
+      "first100": "Two observables are incompatible when their operators do not commute, written AB ≠ BA. The Stern–Ger",
+      "reasons": [
+        "score_hint=4",
+        "long dry block",
+        "no classroom voice / no picture"
+      ],
+      "flags": [
+        "long dry block"
+      ],
+      "full_len": 450
+    },
+    {
+      "priority": 37,
+      "lecture": 4,
+      "title": "Repeated Measurement and the Quantum Zeno Effect",
+      "idx": 2263,
+      "first100": "Repeated ideal checks spaced within that regime can repeatedly re-prepare the state and inhibit its ",
+      "reasons": [
+        "score_hint=4",
+        "long dry block",
+        "no classroom voice / no picture"
+      ],
+      "flags": [
+        "long dry block"
+      ],
+      "full_len": 496
+    },
+    {
+      "priority": 37,
+      "lecture": 13,
+      "title": "Bell’s Theorem and the CHSH Inequality",
+      "idx": 2514,
+      "first100": "Quantum mechanics predicts up to 2√2 for suitable entangled states, while its individual outcomes re",
+      "reasons": [
+        "score_hint=4",
+        "long dry block",
+        "no classroom voice / no picture"
+      ],
+      "flags": [
+        "long dry block"
+      ],
+      "full_len": 453
+    },
+    {
+      "priority": 37,
+      "lecture": 14,
+      "title": "Part Two: Black-Hole Entropy and Holography",
+      "idx": 2563,
+      "first100": "The equation says that the entropy SBH is proportional to the horizon area A, with the striking fact",
+      "reasons": [
+        "score_hint=4",
+        "long dry block",
+        "no classroom voice / no picture"
+      ],
+      "flags": [
+        "long dry block"
+      ],
+      "full_len": 477
+    },
+    {
+      "priority": 36,
+      "lecture": 9,
+      "title": "Uncertainty: Position and Momentum",
+      "idx": 2402,
+      "first100": "The symbol ℏ is Planck’s constant divided by 2π, a very small quantity, which is why the restriction",
+      "reasons": [
+        "score_hint=4",
+        "long dry block",
+        "no classroom voice / no picture"
+      ],
+      "flags": [
+        "long dry block"
+      ],
+      "full_len": 437
+    },
+    {
+      "priority": 35,
+      "lecture": 5,
+      "title": "Lawful Evolution Between Measurements",
+      "idx": 2291,
+      "first100": "When Ĥ does not explicitly change with time, this produces unitary evolution, |ψ(t)⟩ = e−iĤt/ℏ|ψ(0)⟩",
+      "reasons": [
+        "score_hint=4",
+        "no classroom voice / no picture"
+      ],
+      "flags": [
+        "formula without picture"
+      ],
+      "full_len": 372
+    },
+    {
+      "priority": 31.0,
+      "lecture": 15,
+      "title": "Partial Recovery Without Picking an Interpretation",
+      "idx": 2578,
+      "first100": "In one breath. Quantum error correction can repair damage by using correlations spread across many p",
+      "reasons": [
+        "score_hint=4.5",
+        "long dry block",
+        "no classroom voice / no picture"
+      ],
+      "flags": [
+        "long dry block",
+        "novel/Ministry flavor present"
+      ],
+      "full_len": 401
+    },
+    {
+      "priority": 30,
+      "lecture": 14,
+      "title": "Part Two: Black-Hole Entropy and Holography",
+      "idx": 2559,
+      "first100": "What this chapter was actually showing you. This is von Wittenberg’s useful contribution to 4C: Hawk",
+      "reasons": [
+        "score_hint=4",
+        "long dry block"
+      ],
+      "flags": [
+        "long dry block"
+      ],
+      "full_len": 644
+    },
+    {
+      "priority": 30,
+      "lecture": 16,
+      "title": "Thermodynamics",
+      "idx": 2614,
+      "first100": "What this chapter was actually showing you. They cut the coupling at 06:04. For eleven seconds nothi",
+      "reasons": [
+        "score_hint=4",
+        "long dry block"
+      ],
+      "flags": [
+        "long dry block"
+      ],
+      "full_len": 608
+    },
+    {
+      "priority": 30,
+      "lecture": 18,
+      "title": "The Long Future",
+      "idx": 2674,
+      "first100": "You can now do the only thing that counts: describe a state and a measurement; say why the question ",
+      "reasons": [
+        "score_hint=4",
+        "long dry block"
+      ],
+      "flags": [
+        "long dry block"
+      ],
+      "full_len": 631
+    },
+    {
+      "priority": 25,
+      "lecture": 1,
+      "title": "Superposition",
+      "idx": 2168,
+      "first100": "In one breath. A quantum thing is described by its state: the best complete account physics can give",
+      "reasons": [
+        "score_hint=5",
+        "no classroom voice / no picture"
+      ],
+      "flags": [],
+      "full_len": 378
+    },
+    {
+      "priority": 25,
+      "lecture": 1,
+      "title": "Superposition",
+      "idx": 2180,
+      "first100": "The amplitudes can be complex numbers, which is why they can interfere before probabilities are calc",
+      "reasons": [
+        "score_hint=5",
+        "no classroom voice / no picture"
+      ],
+      "flags": [],
+      "full_len": 393
+    },
+    {
+      "priority": 25.0,
+      "lecture": 2,
+      "title": "Measurement Basis and Forced Collapse",
+      "idx": 2203,
+      "first100": "What this chapter was actually showing you. Queue Management forces Mrs Chain’s one experience into ",
+      "reasons": [
+        "score_hint=4.5",
+        "long dry block"
+      ],
+      "flags": [
+        "long dry block",
+        "novel/Ministry flavor present"
+      ],
+      "full_len": 590
+    },
+    {
+      "priority": 25,
+      "lecture": 3,
+      "title": "Premature Collapse",
+      "idx": 2222,
+      "first100": "In one breath. Measurement does not merely uncover a completed quantum story: it physically couples ",
+      "reasons": [
+        "score_hint=5",
+        "no classroom voice / no picture"
+      ],
+      "flags": [],
+      "full_len": 385
+    },
+    {
+      "priority": 25.0,
+      "lecture": 3,
+      "title": "Premature Collapse",
+      "idx": 2231,
+      "first100": "What this chapter was actually showing you. Mrs Chain’s Equivalent Residence Unit 7B has been forced",
+      "reasons": [
+        "score_hint=4.5",
+        "long dry block"
+      ],
+      "flags": [
+        "long dry block",
+        "novel/Ministry flavor present"
+      ],
+      "full_len": 722
+    },
+    {
+      "priority": 25.0,
+      "lecture": 4,
+      "title": "Repeated Measurement and the Quantum Zeno Effect",
+      "idx": 2259,
+      "first100": "What this chapter was actually showing you. Alistair Venn scans Mrs Chain’s house object by object, ",
+      "reasons": [
+        "score_hint=4.5",
+        "long dry block"
+      ],
+      "flags": [
+        "long dry block",
+        "novel/Ministry flavor present"
+      ],
+      "full_len": 781
+    },
+    {
+      "priority": 25.0,
+      "lecture": 5,
+      "title": "Lawful Evolution Between Measurements",
+      "idx": 2287,
+      "first100": "What this chapter was actually showing you. Dr Fainrose sees that Mrs Chain’s domestic stabiliser ha",
+      "reasons": [
+        "score_hint=4.5",
+        "long dry block"
+      ],
+      "flags": [
+        "long dry block",
+        "novel/Ministry flavor present"
+      ],
+      "full_len": 841
+    },
+    {
+      "priority": 25.0,
+      "lecture": 6,
+      "title": "Hawking Radiation",
+      "idx": 2316,
+      "first100": "What this chapter was actually showing you. Fainrose’s two curves — Asset 4C’s mass descending and i",
+      "reasons": [
+        "score_hint=4.5",
+        "long dry block"
+      ],
+      "flags": [
+        "long dry block",
+        "novel/Ministry flavor present"
+      ],
+      "full_len": 889
+    },
+    {
+      "priority": 25,
+      "lecture": 7,
+      "title": "Entanglement and the Start of Decoherence",
+      "idx": 2335,
+      "first100": "In one breath. Entangled objects have one shared quantum description, so their correlations can be s",
+      "reasons": [
+        "score_hint=5",
+        "no classroom voice / no picture"
+      ],
+      "flags": [],
+      "full_len": 389
+    },
+    {
+      "priority": 25.0,
+      "lecture": 7,
+      "title": "Entanglement and the Start of Decoherence",
+      "idx": 2344,
+      "first100": "What this chapter was actually showing you. At the Regional Compression Annex, Lolly discovers that ",
+      "reasons": [
+        "score_hint=4.5",
+        "long dry block"
+      ],
+      "flags": [
+        "long dry block",
+        "novel/Ministry flavor present"
+      ],
+      "full_len": 744
+    },
+    {
+      "priority": 25.0,
+      "lecture": 8,
+      "title": "No-Cloning and Quantum Error Correction",
+      "idx": 2372,
+      "first100": "What this chapter was actually showing you. Mr Voller’s cold vault contains ticked boxes, classical ",
+      "reasons": [
+        "score_hint=4.5",
+        "long dry block"
+      ],
+      "flags": [
+        "long dry block",
+        "novel/Ministry flavor present"
+      ],
+      "full_len": 749
+    },
+    {
+      "priority": 25.0,
+      "lecture": 9,
+      "title": "Uncertainty: Position and Momentum",
+      "idx": 2398,
+      "first100": "What this chapter was actually showing you. Directive 11-C demands that each dwelling and person rec",
+      "reasons": [
+        "score_hint=4.5",
+        "long dry block"
+      ],
+      "flags": [
+        "long dry block",
+        "novel/Ministry flavor present"
+      ],
+      "full_len": 1159
+    },
+    {
+      "priority": 25.0,
+      "lecture": 10,
+      "title": "Decoherence and Einselection",
+      "idx": 2426,
+      "first100": "What this chapter was actually showing you. Mrs Prosser’s forty-one-person moon rota mistakes a civi",
+      "reasons": [
+        "score_hint=4.5",
+        "long dry block"
+      ],
+      "flags": [
+        "long dry block",
+        "novel/Ministry flavor present"
+      ],
+      "full_len": 818
+    },
+    {
+      "priority": 25.0,
+      "lecture": 11,
+      "title": "The Measurement Problem and Wigner’s Friend",
+      "idx": 2454,
+      "first100": "What this chapter was actually showing you. Alfred Keinschein turns discarded outcomes into vampire ",
+      "reasons": [
+        "score_hint=4.5",
+        "long dry block"
+      ],
+      "flags": [
+        "long dry block",
+        "novel/Ministry flavor present"
+      ],
+      "full_len": 719
+    },
+    {
+      "priority": 25.0,
+      "lecture": 13,
+      "title": "Bell’s Theorem and the CHSH Inequality",
+      "idx": 2510,
+      "first100": "What this chapter was actually showing you. Jack Bellew gives Mr Pilbeam a number rather than a favo",
+      "reasons": [
+        "score_hint=4.5",
+        "long dry block"
+      ],
+      "flags": [
+        "long dry block",
+        "novel/Ministry flavor present"
+      ],
+      "full_len": 632
+    },
+    {
+      "priority": 25.0,
+      "lecture": 17,
+      "title": "Negentropy",
+      "idx": 2639,
+      "first100": "What this chapter was actually showing you. Lolly delivers Mrs Chain a figure — seventy-eight per ce",
+      "reasons": [
+        "score_hint=4.5",
+        "long dry block"
+      ],
+      "flags": [
+        "long dry block",
+        "novel/Ministry flavor present"
+      ],
+      "full_len": 840
+    },
+    {
+      "priority": 24,
+      "lecture": 2,
+      "title": "Measurement Basis and Forced Collapse",
+      "idx": 2195,
+      "first100": "In one breath. A measurement can answer only the particular kind of question its apparatus is built ",
+      "reasons": [
+        "score_hint=5",
+        "no classroom voice / no picture"
+      ],
+      "flags": [],
+      "full_len": 333
+    },
+    {
+      "priority": 24,
+      "lecture": 4,
+      "title": "Repeated Measurement and the Quantum Zeno Effect",
+      "idx": 2250,
+      "first100": "In one breath. A measurement prepares as well as reports a state, so an immediate repeat of the same",
+      "reasons": [
+        "score_hint=5",
+        "no classroom voice / no picture"
+      ],
+      "flags": [],
+      "full_len": 335
+    }
+  ],
+  "global_flag_counts": {
+    "Lesson leftovers": 0,
+    "Objective leftovers": 0,
+    "Check yourself leftovers": 0,
+    "Doubled Contents": 0,
+    "Physics Notes pointers": 0,
+    "Lecture vs Lesson mix": 0,
+    "Inconsistent section labels": 19
+  }
+}

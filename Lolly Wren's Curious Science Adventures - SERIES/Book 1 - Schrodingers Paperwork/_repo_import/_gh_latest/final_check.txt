@@ -1,0 +1,14 @@
+paragraphs 3181
+'The ones from yesterday': False
+'mantelpiece at Twenty-Two Elm Grove': False
+'Three weeks after the incident': False
+'18 lectures in four parts': False
+'Physics Notes have also been rebuilt': False
+'unlikely to be relevant': False
+'Lolly’s new work': False
+'feed-rate clock': True
+'She did go downstairs': True
+'hospital door, not from Pauli': True
+'18 lectures in five parts': True
+'What sticks: the few things': True
+'say it to Mrs Chain': True

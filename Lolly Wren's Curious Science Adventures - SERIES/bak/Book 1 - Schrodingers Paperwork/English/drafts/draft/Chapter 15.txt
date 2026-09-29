@@ -1,0 +1,833 @@
+# Chapter 15
+
+## Sherlock and the Final Geometry
+
+Weinstein was having a perfectly ordinary morning.
+
+This meant, naturally, that the universe was about to become ridiculous.
+
+He was sitting in his office in Munich, staring at a sheet of paper on which he had written the same equation three times.
+
+He had crossed it out three times.
+
+The fourth version looked promising.
+
+The fifth looked worse.
+
+The sixth looked suspiciously like the first.
+
+Weinstein sighed.
+
+General Relativity had reached that stage of the investigation where every answer appeared to generate two better questions, three worse equations and an overwhelming desire for tea.
+
+He leaned back.
+
+The problem was not that General Relativity didn't work.
+
+It worked remarkably well.
+
+Too well, in fact.
+
+It described gravity as geometry.
+
+Matter and energy determined the curvature of spacetime.
+
+Free particles followed geodesics.
+
+Clocks measured proper time along worldlines.
+
+Special Relativity emerged locally.
+
+Everything fitted.
+
+And yet Weinstein had the persistent feeling that he was looking at the description rather than the thing being described.
+
+He wrote:
+
+**WHAT IS SPACETIME ACTUALLY MADE OF?**
+
+Then underneath:
+
+**AND WHY DOES IT HAVE TO BE FOUR-DIMENSIONAL?**
+
+He stared at the words.
+
+Then came a noise.
+
+Not a knock.
+
+Not a telephone.
+
+Not the sound of someone opening his office door.
+
+It was a voice.
+
+Inside his head.
+
+"Good question."
+
+Weinstein froze.
+
+He looked around.
+
+Nobody.
+
+The office door was closed.
+
+Therefore somebody was definitely in there.
+
+Obviously.
+
+Weinstein stood.
+
+"Who said that?"
+
+Silence.
+
+Then:
+
+"I did."
+
+Weinstein stared at the wall.
+
+"Who are you?"
+
+A pause.
+
+"Sherlock."
+
+Weinstein frowned.
+
+"Sherlock who?"
+
+Another pause.
+
+"Sherlock."
+
+"That's not a surname."
+
+"No."
+
+"Are you a person?"
+
+"No."
+
+"A computer?"
+
+"No."
+
+"An artificial intelligence?"
+
+"No."
+
+"Then what are you?"
+
+The answer arrived calmly.
+
+"A dolphin."
+
+Weinstein sat down.
+
+"Of course."
+
+There was another pause.
+
+"You don't believe me."
+
+"I am receiving a telepathic communication from a dolphin called Sherlock."
+
+"Yes."
+
+"In Munich."
+
+"Yes."
+
+"Inside my head."
+
+"Yes."
+
+Weinstein considered this.
+
+"Well, that's settled."
+
+Sherlock seemed pleased.
+
+"Good."
+
+Weinstein looked at the clock.
+
+11:17.
+
+He looked again.
+
+Still 11:17.
+
+"Why are you contacting me?"
+
+"Because you are almost finished."
+
+"Finished with what?"
+
+"General Relativity."
+
+Weinstein sat upright.
+
+"You have a final theory?"
+
+"No."
+
+"Then what do you have?"
+
+"The final geometry."
+
+Weinstein stared.
+
+"Go on."
+
+Sherlock began.
+
+And somehow Weinstein understood.
+
+Not as words.
+
+Not exactly.
+
+The communication was more like a sequence of concepts arriving simultaneously.
+
+Geometry.
+
+Curvature.
+
+Matter.
+
+Energy.
+
+Worldlines.
+
+Proper time.
+
+Geodesics.
+
+The Einstein field equations.
+
+Then something deeper.
+
+Weinstein's hand began moving across the paper.
+
+He wrote:
+
+But before he could explain the equation, Weinstein stopped.
+
+There was a problem.
+
+The symbols were perfectly familiar to him, but they were not yet particularly friendly to everyone else.
+
+Especially Trevor.
+
+And if the book was going to explain General Relativity to people who had successfully survived high-school physics, it seemed unfair to throw a Greek alphabet at them and then run away.
+
+Weinstein picked up the pen again.
+
+"Vectors first."
+
+Sherlock approved.
+
+A vector, Weinstein explained, is a quantity that has both magnitude and direction.
+
+Velocity is a good example.
+
+If a car is travelling at 30 kilometres per hour east, that is not merely a number. It tells you how fast and in which direction.
+
+You can represent a vector by components, such as:
+
+**v = (vx, vy, vz)**
+
+Change your coordinate system and the components change.
+
+The physical vector does not.
+
+Weinstein paused.
+
+"A tensor is, roughly speaking, the next level of this idea."
+
+Trevor looked interested.
+
+"Next level?"
+
+"Yes."
+
+"A more complicated vector?"
+
+"That's a useful way to begin thinking about it."
+
+"Not actually the definition?"
+
+"No."
+
+"Good."
+
+Weinstein nodded.
+
+"A tensor can describe relationships involving several directions at once. Scalars have no directional components. Vectors have one directional character. Tensors generalise this idea and, crucially, have well-defined transformation rules when we change coordinates."
+
+Trevor nodded.
+
+"So the components can change while the physical object doesn't."
+
+"Exactly."
+
+Penny smiled.
+
+"That's going to be important."
+
+"Very."
+
+Weinstein turned to the board.
+
+"General Relativity needs tensors because spacetime can be curved and coordinates can be extremely inconvenient."
+
+He wrote:
+
+**METRIC TENSOR → gμν**
+
+"The metric tensor tells us how spacetime is measured."
+
+He wrote:
+
+**ds² = gμν dxμ dxν**
+
+Trevor looked at it.
+
+"That looks unpleasant."
+
+"It is mostly bookkeeping."
+
+"Ah."
+
+"In flat spacetime, the interval can be written in the familiar form involving time and the three spatial directions. In curved spacetime, the metric can vary from place to place."
+
+Penny nodded.
+
+"So the metric contains the geometry."
+
+"Exactly."
+
+"Distances."
+
+"Yes."
+
+"Times."
+
+"Yes."
+
+"Angles."
+
+"Yes."
+
+"Causal structure."
+
+"Yes."
+
+Weinstein smiled.
+
+"The metric is rather like the instruction manual for measuring spacetime."
+
+Trevor nodded.
+
+"That's better."
+
+Sherlock sent another burst of information.
+
+Weinstein wrote:
+
+**Tμν — STRESS-ENERGY TENSOR**
+
+"This one describes matter and energy."
+
+Trevor frowned.
+
+"Everything?"
+
+"Energy density, momentum density, stresses and pressures, and their flow."
+
+"So it's a sort of inventory?"
+
+"An extremely sophisticated inventory."
+
+"Right."
+
+"Then we have the curvature tensors."
+
+He wrote:
+
+**Riemann curvature tensor**
+
+Then:
+
+**Ricci tensor**
+
+Then:
+
+**Einstein tensor — Gμν**
+
+Trevor stared at the collection.
+
+"Why so many?"
+
+"Because spacetime is complicated."
+
+Penny nodded.
+
+"And physicists enjoy making things look worse than they are."
+
+"That too."
+
+Weinstein pointed to the Einstein tensor.
+
+"Fortunately, Einstein packaged the relevant curvature information into a tensor that fits beautifully into the field equation."
+
+Trevor smiled.
+
+"So now we can finally understand the equation."
+
+"Exactly."
+
+Weinstein returned to the top of the page.
+
+He wrote:
+
+**Gμν + Λgμν = 8πG/c⁴ Tμν**
+
+He stared at it.
+
+Sherlock continued.
+
+The left-hand side described geometry.
+
+The right-hand side described matter and energy.
+
+But the equation did something more profound than simply relating gravity to matter.
+
+It said that the geometry of spacetime itself was dynamical.
+
+Weinstein nodded.
+
+"Yes."
+
+Sherlock continued.
+
+Spacetime was not a passive stage.
+
+It was part of the physical system.
+
+Matter told spacetime how to curve.
+
+Curved spacetime told matter how to move.
+
+Weinstein smiled.
+
+"That's already General Relativity."
+
+"Yes."
+
+"Then what's missing?"
+
+Sherlock sent him an image.
+
+It was not an image in the ordinary sense.
+
+It was a geometry.
+
+A four-dimensional manifold.
+
+Curved.
+
+Smooth.
+
+Locally Minkowskian.
+
+But globally complicated.
+
+Weinstein understood.
+
+"Local flatness."
+
+"Yes."
+
+"Every sufficiently small freely falling region looks like Special Relativity."
+
+"Yes."
+
+"So SR isn't replaced by GR."
+
+"No."
+
+"It is contained within it."
+
+"Yes."
+
+Weinstein smiled.
+
+"Well, that's settled."
+
+Sherlock sent another thought.
+
+Not all observers agreed on coordinates.
+
+But all physical observers agreed on invariant quantities.
+
+The interval.
+
+Proper time.
+
+Causal structure.
+
+Curvature invariants.
+
+Weinstein nodded.
+
+"Exactly."
+
+Then Sherlock showed him something else.
+
+A geodesic.
+
+It approached a region of extreme curvature.
+
+Weinstein watched.
+
+The geodesic could not be extended.
+
+He frowned.
+
+"A singularity."
+
+"Not exactly."
+
+Weinstein looked again.
+
+The geometry had become incomplete.
+
+"The classical description breaks down."
+
+"Yes."
+
+"That's the important point."
+
+"Yes."
+
+Weinstein stood.
+
+He began pacing.
+
+"So a singularity isn't necessarily a place."
+
+"No."
+
+"Nor necessarily a physical object."
+
+"No."
+
+"It is a failure of the classical spacetime description."
+
+"Yes."
+
+Weinstein stopped.
+
+"Then the final geometry must tell us where that description fails."
+
+Sherlock answered:
+
+"Or why."
+
+Weinstein looked at the equation.
+
+The answer was beginning to emerge.
+
+General Relativity described spacetime geometrically.
+
+But if spacetime itself was emergent, then the Einstein field equations might be a macroscopic limit of something deeper.
+
+Weinstein whispered:
+
+"Like thermodynamics."
+
+Sherlock sent approval.
+
+Macroscopic quantities.
+
+Microscopic degrees of freedom.
+
+Emergent behaviour.
+
+Weinstein wrote:
+
+**GR : SPACETIME :: THERMODYNAMICS : MATTER**
+
+He stared.
+
+"Then curvature could be emergent."
+
+"Yes."
+
+"Gravity could be emergent."
+
+"Yes."
+
+"Time could be emergent."
+
+"Yes."
+
+"And the fundamental theory wouldn't necessarily contain spacetime at all."
+
+"Correct."
+
+Weinstein sat down.
+
+He was suddenly very still.
+
+"Then what does it contain?"
+
+Sherlock answered with a single concept.
+
+**RELATIONS.**
+
+Weinstein stared at the word.
+
+Relations.
+
+Not objects sitting in space.
+
+Not events occurring in time.
+
+Relations from which the apparent structure of space and time could emerge.
+
+He thought about the holographic principle.
+
+He thought about entanglement.
+
+He thought about information.
+
+He thought about the Underground.
+
+The clocks.
+
+The rain.
+
+The train.
+
+The other Derek.
+
+The cucumber.
+
+Everything was suddenly connected.
+
+Not because everything occupied the same place.
+
+Because everything participated in relationships.
+
+He wrote:
+
+**GEOMETRY IS RELATIONAL.**
+
+Then:
+
+**TIME IS RELATIONAL.**
+
+Then:
+
+**GRAVITY IS GEOMETRY.**
+
+Then:
+
+**GEOMETRY MAY BE INFORMATION.**
+
+Sherlock sent another thought.
+
+Weinstein understood.
+
+The final theory would not abolish General Relativity.
+
+It would explain why General Relativity works.
+
+Weinstein stared at the page.
+
+"That..."
+
+He stopped.
+
+Sherlock waited.
+
+"...would be the final GR."
+
+"Yes."
+
+Weinstein smiled.
+
+"Not the replacement."
+
+"No."
+
+"The completion."
+
+"Yes."
+
+Weinstein leaned back.
+
+For several seconds he said nothing.
+
+Then:
+
+"You're a very clever dolphin."
+
+Sherlock replied:
+
+"I read a great deal."
+
+Weinstein laughed.
+
+"How?"
+
+"I live near a marine research station."
+
+"That doesn't explain the physics."
+
+"No."
+
+"How did you learn it?"
+
+Sherlock was silent.
+
+Then:
+
+"Fish are very good listeners."
+
+Weinstein laughed so loudly that someone in the corridor stopped.
+
+The office door remained closed.
+
+The person in the corridor therefore knew better than to enter.
+
+Obviously.
+
+Weinstein looked down at the equations.
+
+There was still one question.
+
+"Why me?"
+
+Sherlock answered immediately.
+
+"Because you were going to find it anyway."
+
+Weinstein smiled.
+
+"Then why contact me?"
+
+"Because you were about to get distracted."
+
+"By what?"
+
+Sherlock sent him an image.
+
+A cucumber.
+
+Weinstein stared.
+
+"That's ridiculous."
+
+"Yes."
+
+"Why is it in the theory?"
+
+"It isn't."
+
+"Then why show it to me?"
+
+"Because Penny thinks it is."
+
+Weinstein laughed again.
+
+Then he stopped.
+
+Something else had appeared on the page.
+
+He hadn't written it.
+
+The words were there in his own handwriting.
+
+**THE UNIVERSE DOES NOT NEED A STAGE.**
+
+Below it:
+
+**THE STAGE IS THE PHYSICS.**
+
+Weinstein stared.
+
+Sherlock was silent.
+
+Outside, Munich continued being Munich.
+
+Cars moved.
+
+People walked.
+
+Clocks ticked.
+
+The Earth rotated.
+
+The Sun continued shining.
+
+And somewhere in the Atlantic, a dolphin named Sherlock was apparently thinking about differential geometry.
+
+Weinstein picked up his pen.
+
+He wrote the final equation.
+
+Then he looked at it.
+
+It was not a new equation.
+
+That was the point.
+
+The Einstein field equations were already there.
+
+The breakthrough was understanding what they meant.
+
+General Relativity was not merely a theory of gravity.
+
+It was a theory in which **spacetime itself was dynamical**.
+
+And if the deeper theory eventually explained where that spacetime came from, General Relativity would remain exactly what it had always been:
+
+the extraordinarily successful macroscopic description of a deeper reality.
+
+Weinstein smiled.
+
+"Well, Sherlock."
+
+"Yes?"
+
+"I think we've finished."
+
+Sherlock replied:
+
+"No."
+
+Weinstein raised an eyebrow.
+
+"What now?"
+
+"The sequel."
+
+Weinstein stared at the wall.
+
+"Of course."
+
+And somewhere in London, Penny was buying another cucumber.
+
+The universe, meanwhile, continued to curve.
+
+As it had every right to.
+
+Obviously.

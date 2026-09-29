@@ -1,0 +1,375 @@
+[Mon Sep 21 04:47:51 UTC 2026][INFO] [Action] EE NewBook
+[Mon Sep 21 04:48:09 UTC 2026][INFO] [Action] E AutoChapterGroupAction - 0
+[Mon Sep 21 04:48:53 UTC 2026][INFO] [Action] E UpdateStyle - (c,1,1),49:0.250000:2,(r,1,1),F
+[Mon Sep 21 04:48:56 UTC 2026][INFO] [Action] E UpdateStyle - (c,1,1),49:0.000000:2,(r,1,1),F
+[Mon Sep 21 04:49:00 UTC 2026][INFO] [Action] E UpdateStyle - (c,1,1),47:1.750000:2,(r,1,1),F
+[Mon Sep 21 04:49:00 UTC 2026][INFO] [Action] E UpdateStyle - (c,1,1),47:1.500000:2,(r,1,1),F
+[Mon Sep 21 04:49:00 UTC 2026][INFO] [Action] E UpdateStyle - (c,1,1),47:1.250000:2,(r,1,1),F
+[Mon Sep 21 04:49:01 UTC 2026][INFO] [Action] E UpdateStyle - (c,1,1),47:1.000000:2,(r,1,1),F
+[Mon Sep 21 04:49:01 UTC 2026][INFO] [Action] E UpdateStyle - (c,1,1),47:0.750000:2,(r,1,1),F
+[Mon Sep 21 04:49:01 UTC 2026][INFO] [Action] E UpdateStyle - (c,1,1),47:0.500000:2,(r,1,1),F
+[Mon Sep 21 04:49:01 UTC 2026][INFO] [Action] E UpdateStyle - (c,1,1),47:0.250000:2,(r,1,1),F
+[Mon Sep 21 04:49:01 UTC 2026][INFO] [Action] E UpdateStyle - (c,1,1),47:0.000000:2,(r,1,1),F
+[Mon Sep 21 04:49:09 UTC 2026][INFO] [Action] E UpdateStyle - (r,1,23),16:20.000000:2,(r,1,23),F
+[Mon Sep 21 04:49:14 UTC 2026][INFO] [Action] E UpdateStyle - (c,23,2),49:0.250000:2,(r,23,23),F
+[Mon Sep 21 04:49:16 UTC 2026][INFO] [Action] E UpdateStyle - (c,23,2),49:0.500000:2,(r,23,23),F
+[Mon Sep 21 04:50:02 UTC 2026][INFO] [Action] E UpdateStyle - (r,24,130),16:10.000000:2,(r,24,130),F
+[Mon Sep 21 04:50:09 UTC 2026][INFO] [Action] E UpdateStyle - (c,247,1),47:2.250000:2,(r,247,247),F
+[Mon Sep 21 04:50:09 UTC 2026][INFO] [Action] E UpdateStyle - (c,247,1),47:2.000000:2,(r,247,247),F
+[Mon Sep 21 04:50:10 UTC 2026][INFO] [Action] E UpdateStyle - (c,247,1),47:1.750000:2,(r,247,247),F
+[Mon Sep 21 04:50:10 UTC 2026][INFO] [Action] E UpdateStyle - (c,247,1),47:1.500000:2,(r,247,247),F
+[Mon Sep 21 04:50:10 UTC 2026][INFO] [Action] E UpdateStyle - (c,247,1),47:1.250000:2,(r,247,247),F
+[Mon Sep 21 04:50:25 UTC 2026][INFO] [Action] E Cut - (r,176,183)
+[Mon Sep 21 04:50:28 UTC 2026][INFO] [Action] E DeleteContent - (r,176,176),F
+[Mon Sep 21 04:50:34 UTC 2026][INFO] [Action] E Paste - (c,176,1),8
+[Mon Sep 21 04:50:37 UTC 2026][INFO] [Action] E InsertTextContent - (c,183,2),[,]
+[Mon Sep 21 04:50:46 UTC 2026][INFO] [Action] E Cut - (r,179,184)
+[Mon Sep 21 04:50:50 UTC 2026][INFO] [Action] E InsertTextContent - (c,200,2),[SPACE]
+[Mon Sep 21 04:50:53 UTC 2026][INFO] [Action] E InsertTextContent - (c,201,2),[(]
+[Mon Sep 21 04:50:54 UTC 2026][INFO] [Action] E Paste - (c,202,2),6
+[Mon Sep 21 04:50:55 UTC 2026][INFO] [Action] E InsertTextContent - (c,208,2),[)]
+[Mon Sep 21 04:50:58 UTC 2026][INFO] [Action] E DeleteContent - (c,209,1),B
+[Mon Sep 21 04:50:59 UTC 2026][INFO] [Action] E InsertTextContent - (c,208,1),[.]
+[Mon Sep 21 04:51:17 UTC 2026][INFO] [Action] E UpdateStyle - (r,176,249),16:12.000000:2,(r,176,249),F
+[Mon Sep 21 04:51:19 UTC 2026][INFO] [Action] E UpdateStyle - (r,176,249),12:382:3,(r,176,249),F
+[Mon Sep 21 04:51:31 UTC 2026][INFO] [Action] E UpdateStyle - (r,202,210),47:0.500000:2,(r,202,210),F
+[Mon Sep 21 04:51:32 UTC 2026][INFO] [Action] E UpdateStyle - (r,202,210),47:0.750000:2,(r,202,210),F
+[Mon Sep 21 04:51:34 UTC 2026][INFO] [Action] E UpdateStyle - (r,202,210),47:0.500000:2,(r,202,210),F
+[Mon Sep 21 04:51:35 UTC 2026][INFO] [Action] E UpdateStyle - (r,202,210),47:0.250000:2,(r,202,210),F
+[Mon Sep 21 04:51:37 UTC 2026][INFO] [Action] E UpdateStyle - (r,202,210),47:0.500000:2,(r,202,210),F
+[Mon Sep 21 04:51:40 UTC 2026][INFO] [Action] E UpdateStyle - (c,175,2),47:0.500000:2,(r,175,175),F
+[Mon Sep 21 04:51:41 UTC 2026][INFO] [Action] E UpdateStyle - (c,175,2),47:0.250000:2,(r,175,175),F
+[Mon Sep 21 04:51:46 UTC 2026][INFO] [Action] E UpdateStyle - (c,175,2),49:0.250000:2,(r,175,175),F
+[Mon Sep 21 04:51:47 UTC 2026][INFO] [Action] E UpdateStyle - (c,175,2),49:0.500000:2,(r,175,175),F
+[Mon Sep 21 04:51:47 UTC 2026][INFO] [Action] E UpdateStyle - (c,175,2),49:0.750000:2,(r,175,175),F
+[Mon Sep 21 04:51:58 UTC 2026][INFO] [Action] E UpdateStyle - (c,1566,2),49:0.250000:2,(r,1566,1566),F
+[Mon Sep 21 04:51:58 UTC 2026][INFO] [Action] E UpdateStyle - (c,1566,2),49:0.000000:2,(r,1566,1566),F
+[Mon Sep 21 04:52:02 UTC 2026][INFO] [Action] E UpdateStyle - (c,1577,2),47:3.000000:2,(r,1577,1577),F
+[Mon Sep 21 04:52:02 UTC 2026][INFO] [Action] E UpdateStyle - (c,1577,2),47:2.750000:2,(r,1577,1577),F
+[Mon Sep 21 04:52:02 UTC 2026][INFO] [Action] E UpdateStyle - (c,1577,2),47:2.500000:2,(r,1577,1577),F
+[Mon Sep 21 04:52:02 UTC 2026][INFO] [Action] E UpdateStyle - (c,1577,2),47:2.250000:2,(r,1577,1577),F
+[Mon Sep 21 04:52:03 UTC 2026][INFO] [Action] E UpdateStyle - (c,1577,2),47:2.000000:2,(r,1577,1577),F
+[Mon Sep 21 04:52:03 UTC 2026][INFO] [Action] E UpdateStyle - (c,1577,2),47:1.750000:2,(r,1577,1577),F
+[Mon Sep 21 04:52:03 UTC 2026][INFO] [Action] E UpdateStyle - (c,1577,2),47:1.500000:2,(r,1577,1577),F
+[Mon Sep 21 04:52:04 UTC 2026][INFO] [Action] E UpdateStyle - (c,1577,2),47:1.250000:2,(r,1577,1577),F
+[Mon Sep 21 04:52:11 UTC 2026][INFO] [Action] E UpdateStyle - (r,250,1622),16:10.000000:2,(r,250,1622),F
+[Mon Sep 21 04:52:14 UTC 2026][INFO] [Action] E UpdateStyle - (r,250,1622),16:8.000000:2,(r,250,1622),F
+[Mon Sep 21 04:52:17 UTC 2026][INFO] [Action] E UpdateStyle - (r,250,1622),16:9.000000:2,(r,250,1622),F
+[Mon Sep 21 04:52:35 UTC 2026][INFO] [Action] E UpdateStyle - (c,1876,1),47:0.500000:2,(r,1876,1876),F
+[Mon Sep 21 04:52:35 UTC 2026][INFO] [Action] E UpdateStyle - (c,1876,1),47:0.250000:2,(r,1876,1876),F
+[Mon Sep 21 04:52:36 UTC 2026][INFO] [Action] E UpdateStyle - (c,1876,1),47:0.000000:2,(r,1876,1876),F
+[Mon Sep 21 04:52:41 UTC 2026][INFO] [Action] E UpdateStyle - (c,1875,2),49:0.250000:2,(r,1875,1875),F
+[Mon Sep 21 04:52:46 UTC 2026][INFO] [Action] E UpdateStyle - (c,1914,2),47:0.250000:2,(r,1914,1914),F
+[Mon Sep 21 04:52:48 UTC 2026][INFO] [Action] E UpdateStyle - (c,1914,2),47:0.500000:2,(r,1914,1914),F
+[Mon Sep 21 04:52:49 UTC 2026][INFO] [Action] E UpdateStyle - (c,1914,2),47:0.250000:2,(r,1914,1914),F
+[Mon Sep 21 04:52:50 UTC 2026][INFO] [Action] E UpdateStyle - (c,1914,2),47:0.000000:2,(r,1914,1914),F
+[Mon Sep 21 04:52:52 UTC 2026][INFO] [Action] E UpdateStyle - (c,1914,2),49:0.250000:2,(r,1914,1914),F
+[Mon Sep 21 04:52:55 UTC 2026][INFO] [Action] E UpdateStyle - (c,1914,2),49:0.500000:2,(r,1914,1914),F
+[Mon Sep 21 04:53:00 UTC 2026][INFO] [Action] E UpdateStyle - (c,1923,2),49:0.250000:2,(r,1923,1923),F
+[Mon Sep 21 04:53:18 UTC 2026][INFO] [Action] E UpdateStyle - (r,1871,3926),16:10.000000:2,(r,1871,3926),F
+[Mon Sep 21 04:53:31 UTC 2026][INFO] [Action] E UpdateStyle - (c,1915,1),42:1.250000:2,(r,1915,1915),F
+[Mon Sep 21 04:53:32 UTC 2026][INFO] [Action] E UpdateStyle - (c,1915,1),42:1.500000:2,(r,1915,1915),F
+[Mon Sep 21 04:53:32 UTC 2026][INFO] [Action] E UpdateStyle - (c,1915,1),42:1.750000:2,(r,1915,1915),F
+[Mon Sep 21 04:53:32 UTC 2026][INFO] [Action] E UpdateStyle - (c,1915,1),42:2.000000:2,(r,1915,1915),F
+[Mon Sep 21 04:53:33 UTC 2026][INFO] [Action] E UpdateStyle - (c,1915,1),42:2.250000:2,(r,1915,1915),F
+[Mon Sep 21 04:53:37 UTC 2026][INFO] [Action] E AddTextContainer - (c,2629,2),0,0,0
+[Mon Sep 21 04:53:37 UTC 2026][INFO] [Action] EFail AddTextContainer - 4
+[Mon Sep 21 04:53:39 UTC 2026][INFO] [Action] E AddTextContainer - (c,2629,2),0,0,0
+[Mon Sep 21 04:53:39 UTC 2026][INFO] [Action] EFail AddTextContainer - 4
+[Mon Sep 21 04:53:45 UTC 2026][INFO] [Action] E UpdateStyle - (c,2630,1),47:0.250000:2,(r,2630,2630),F
+[Mon Sep 21 04:53:46 UTC 2026][INFO] [Action] E UpdateStyle - (c,2630,1),47:0.500000:2,(r,2630,2630),F
+[Mon Sep 21 04:53:46 UTC 2026][INFO] [Action] E UpdateStyle - (c,2630,1),47:0.750000:2,(r,2630,2630),F
+[Mon Sep 21 04:53:46 UTC 2026][INFO] [Action] E UpdateStyle - (c,2630,1),47:1.000000:2,(r,2630,2630),F
+[Mon Sep 21 04:53:47 UTC 2026][INFO] [Action] E UpdateStyle - (c,2630,1),47:1.250000:2,(r,2630,2630),F
+[Mon Sep 21 04:53:47 UTC 2026][INFO] [Action] E UpdateStyle - (c,2630,1),47:1.500000:2,(r,2630,2630),F
+[Mon Sep 21 04:53:48 UTC 2026][INFO] [Action] E UpdateStyle - (c,2630,1),47:1.750000:2,(r,2630,2630),F
+[Mon Sep 21 04:53:48 UTC 2026][INFO] [Action] E UpdateStyle - (c,2630,1),47:2.000000:2,(r,2630,2630),F
+[Mon Sep 21 04:53:48 UTC 2026][INFO] [Action] E UpdateStyle - (c,2630,1),47:2.250000:2,(r,2630,2630),F
+[Mon Sep 21 04:53:59 UTC 2026][INFO] [Action] U UpdateStyle
+[Mon Sep 21 04:54:00 UTC 2026][INFO] [Action] R UpdateStyle
+[Mon Sep 21 04:54:05 UTC 2026][INFO] [Action] E DeleteContent - (r,2947,2950),B
+[Mon Sep 21 04:54:09 UTC 2026][INFO] [Action] E InsertTextContent - (c,2946,2),[SPACE]
+[Mon Sep 21 04:54:18 UTC 2026][INFO] [Action] E InsertTextContent - (r,2955,2956),[SPACE]
+[Mon Sep 21 04:54:21 UTC 2026][INFO] [Action] E InsertTextContent - (c,2955,2),[4]
+[Mon Sep 21 04:54:37 UTC 2026][INFO] [Action] E UpdateStyle - (r,2945,2947),16:8.000000:2,(r,2945,2947),F
+[Mon Sep 21 04:55:04 UTC 2026][INFO] [Action] E UpdateStyle - (r,2642,3923),16:10.000000:2,(r,2642,3923),F
+[Mon Sep 21 04:55:28 UTC 2026][INFO] [Action] E InsertTextContent - (r,2960,2985),[T]
+[Mon Sep 21 04:55:35 UTC 2026][INFO] [Action] E InsertTextContent - (c,2960,1),[SPACE]
+[Mon Sep 21 04:55:41 UTC 2026][INFO] [Action] E InsertTextContent - (c,2947,1),[SPACE]
+[Mon Sep 21 04:55:41 UTC 2026][INFO] [Action] E InsertTextContent - (c,2947,2),[SPACE]
+[Mon Sep 21 04:55:42 UTC 2026][INFO] [Action] E InsertTextContent - (c,2948,2),[SPACE]
+[Mon Sep 21 04:55:51 UTC 2026][INFO] [Action] E DeleteContent - (r,2963,2963),B
+[Mon Sep 21 04:56:22 UTC 2026][INFO] [Action] E DeleteContent - (r,3649,3703),B
+[Mon Sep 21 04:56:22 UTC 2026][INFO] [Action] E DeleteContent - (c,3648,2),B
+[Mon Sep 21 04:56:23 UTC 2026][INFO] [Action] E DeleteContent - (c,3647,2),B
+[Mon Sep 21 04:56:34 UTC 2026][INFO] [Action] E UpdateStyle - (c,2814,2),49:0.250000:2,(r,2814,2814),F
+[Mon Sep 21 04:56:34 UTC 2026][INFO] [Action] E UpdateStyle - (c,2814,2),49:0.500000:2,(r,2814,2814),F
+[Mon Sep 21 04:56:40 UTC 2026][INFO] [Action] U UpdateStyle
+[Mon Sep 21 04:56:46 UTC 2026][INFO] [Action] E UpdateStyle - (r,2790,2790),49:0.500000:2,(r,2790,2790),F
+[Mon Sep 21 04:56:48 UTC 2026][INFO] [Action] E UpdateStyle - (r,2790,2790),49:0.250000:2,(r,2790,2790),F
+[Mon Sep 21 04:56:50 UTC 2026][INFO] [Action] E UpdateStyle - (r,2790,2790),47:0.250000:2,(r,2790,2790),F
+[Mon Sep 21 04:56:52 UTC 2026][INFO] [Action] E UpdateStyle - (r,2790,2790),47:0.500000:2,(r,2790,2790),F
+[Mon Sep 21 04:57:15 UTC 2026][INFO] [Action] E Cut - (r,2683,2732)
+[Mon Sep 21 04:57:18 UTC 2026][INFO] [Action] E AddTextContainer - (c,2764,2),0,0,0
+[Mon Sep 21 04:57:20 UTC 2026][INFO] [Action] E Paste - (c,2765,1),53
+[Mon Sep 21 04:57:28 UTC 2026][INFO] [Action] U Paste
+[Mon Sep 21 04:57:31 UTC 2026][INFO] [Action] U AddTextContainer
+[Mon Sep 21 04:57:31 UTC 2026][INFO] [Action] U Cut
+[Mon Sep 21 04:57:36 UTC 2026][INFO] [Action] E AddTextContainer - (c,2814,2),0,0,0
+[Mon Sep 21 04:58:12 UTC 2026][INFO] [Action] E Cut - (r,245725,248781)
+[Mon Sep 21 04:58:28 UTC 2026][INFO] [Action] E ItemChanged - -1,24218
+[Mon Sep 21 04:58:33 UTC 2026][INFO] [Action] E ItemChanged - -1,1624
+[Mon Sep 21 04:58:36 UTC 2026][INFO] [Action] E ItemChanged - -1,1
+[Mon Sep 21 04:58:38 UTC 2026][INFO] [Action] E ItemChanged - -1,1863
+[Mon Sep 21 04:58:39 UTC 2026][INFO] [Action] E ItemChanged - -1,1624
+[Mon Sep 21 04:58:43 UTC 2026][INFO] [Action] E AddTextContainer - (c,1861,2),0,0,0
+[Mon Sep 21 04:58:43 UTC 2026][INFO] [Action] E AddTextContainer - (c,1862,1),1,0,0
+[Mon Sep 21 04:58:45 UTC 2026][INFO] [Action] E Paste - (c,1863,1),3129
+[Mon Sep 21 04:58:53 UTC 2026][INFO] [Action] E ItemChanged - -1,362844
+[Mon Sep 21 04:58:55 UTC 2026][INFO] [Action] E ItemChanged - -1,361383
+[Mon Sep 21 04:58:57 UTC 2026][INFO] [Action] E ItemChanged - -1,358922
+[Mon Sep 21 04:59:04 UTC 2026][INFO] [Action] E ItemChanged - -1,348731
+[Mon Sep 21 04:59:07 UTC 2026][INFO] [Action] E ItemChanged - -1,347401
+[Mon Sep 21 04:59:09 UTC 2026][INFO] [Action] E ItemChanged - -1,341992
+[Mon Sep 21 05:00:20 UTC 2026][INFO] [Action] E ItemChanged - -1,348731
+[Mon Sep 21 05:00:25 UTC 2026][INFO] [Action] U Paste
+[Mon Sep 21 05:00:27 UTC 2026][INFO] [Action] U AddTextContainer
+[Mon Sep 21 05:00:29 UTC 2026][INFO] [Action] U AddTextContainer
+[Mon Sep 21 05:00:30 UTC 2026][INFO] [Action] U Cut
+[Mon Sep 21 05:00:42 UTC 2026][INFO] [Action] E ItemChanged - -1,245725
+[Mon Sep 21 05:01:01 UTC 2026][INFO] [Action] E Cut - (r,245725,248832)
+[Mon Sep 21 05:01:07 UTC 2026][INFO] [Action] E ItemChanged - -1,1
+[Mon Sep 21 05:01:08 UTC 2026][INFO] [Action] E ItemChanged - -1,1624
+[Mon Sep 21 05:01:15 UTC 2026][INFO] [Action] E AddTextContainer - (c,1861,2),0,0,0
+[Mon Sep 21 05:01:16 UTC 2026][INFO] [Action] E AddTextContainer - (c,1862,1),1,0,0
+[Mon Sep 21 05:01:18 UTC 2026][INFO] [Action] E Paste - (c,1863,1),3180
+[Mon Sep 21 05:01:35 UTC 2026][INFO] [Action] E UpdateStyle - (r,4445,4456),13:361:3,(r,4445,4456),F
+[Mon Sep 21 05:01:40 UTC 2026][INFO] [Action] E UpdateStyle - (r,4716,4739),13:361:3,(r,4716,4739),F
+[Mon Sep 21 05:01:44 UTC 2026][INFO] [Action] E UpdateStyle - (r,4844,4862),13:361:3,(r,4844,4862),F
+[Mon Sep 21 05:01:57 UTC 2026][INFO] [Action] E Copy - (r,4445,4456)
+[Mon Sep 21 05:03:02 UTC 2026][INFO] [Action] E Copy - (r,4449,4455)
+[Mon Sep 21 05:03:49 UTC 2026][INFO] [Action] E InsertTextContent - (c,176729,2),[e]
+[Mon Sep 21 05:03:49 UTC 2026][INFO] [Action] E InsertTextContent - (c,176730,2),[r]
+[Mon Sep 21 05:03:54 UTC 2026][INFO] [Action] E InsertTextContent - (r,176734,176735),[n]
+[Mon Sep 21 05:04:02 UTC 2026][INFO] [Action] E Copy - (r,176727,176734)
+[Mon Sep 21 05:04:22 UTC 2026][INFO] [Action] E Paste - (r,176875,176881),8
+[Mon Sep 21 05:04:35 UTC 2026][INFO] [Action] E Paste - (r,178656,178662),8
+[Mon Sep 21 05:04:43 UTC 2026][INFO] [Action] E Paste - (r,178656,178663),8
+[Mon Sep 21 05:05:00 UTC 2026][INFO] [Action] E Paste - (r,179741,179747),8
+[Mon Sep 21 05:05:09 UTC 2026][INFO] [Action] E Paste - (r,181092,181098),8
+[Mon Sep 21 05:05:14 UTC 2026][INFO] [Action] E Paste - (r,180119,180125),8
+[Mon Sep 21 05:05:25 UTC 2026][INFO] [Action] E Paste - (r,180773,180779),8
+[Mon Sep 21 05:05:36 UTC 2026][INFO] [Action] E Paste - (r,186291,186297),8
+[Mon Sep 21 05:05:46 UTC 2026][INFO] [Action] E Paste - (r,186515,186521),8
+[Mon Sep 21 05:05:53 UTC 2026][INFO] [Action] E Paste - (r,236517,236523),8
+[Mon Sep 21 05:06:01 UTC 2026][INFO] [Action] E Paste - (r,239348,239354),8
+[Mon Sep 21 05:06:23 UTC 2026][INFO] [Action] E Paste - (c,315277,1),8
+[Mon Sep 21 05:06:26 UTC 2026][INFO] [Action] E DeleteContent - (r,315285,315285),F
+[Mon Sep 21 05:06:27 UTC 2026][INFO] [Action] E DeleteContent - (r,315285,315285),F
+[Mon Sep 21 05:06:27 UTC 2026][INFO] [Action] E DeleteContent - (r,315285,315285),F
+[Mon Sep 21 05:06:27 UTC 2026][INFO] [Action] E DeleteContent - (r,315285,315285),F
+[Mon Sep 21 05:06:27 UTC 2026][INFO] [Action] E DeleteContent - (r,315285,315285),F
+[Mon Sep 21 05:06:28 UTC 2026][INFO] [Action] E DeleteContent - (r,315285,315285),F
+[Mon Sep 21 05:06:29 UTC 2026][INFO] [Action] E DeleteContent - (r,315285,315285),F
+[Mon Sep 21 05:06:40 UTC 2026][INFO] [Action] E Paste - (r,315479,315485),8
+[Mon Sep 21 05:07:13 UTC 2026][INFO] [Action] E Paste - (r,359912,361125),8
+[Mon Sep 21 05:07:19 UTC 2026][INFO] [Action] U Paste
+[Mon Sep 21 05:07:55 UTC 2026][INFO] [Action] E DeleteContent - (c,360459,2),B
+[Mon Sep 21 05:07:55 UTC 2026][INFO] [Action] EFail DeleteContent - 4
+[Mon Sep 21 05:07:55 UTC 2026][INFO] [Action] E DeleteContent - (c,360459,2),B
+[Mon Sep 21 05:07:55 UTC 2026][INFO] [Action] EFail DeleteContent - 4
+[Mon Sep 21 05:09:43 UTC 2026][INFO] [Action] E InsertTextContent - (c,361028,1),[v]
+[Mon Sep 21 05:09:43 UTC 2026][INFO] [Action] EFail InsertTextContent - 4
+[Mon Sep 21 05:09:44 UTC 2026][INFO] [Action] E InsertTextContent - (c,361028,1),[v]
+[Mon Sep 21 05:09:44 UTC 2026][INFO] [Action] EFail InsertTextContent - 4
+[Mon Sep 21 05:09:44 UTC 2026][INFO] [Action] E InsertTextContent - (c,361028,1),[v]
+[Mon Sep 21 05:09:44 UTC 2026][INFO] [Action] EFail InsertTextContent - 4
+[Mon Sep 21 05:09:44 UTC 2026][INFO] [Action] E InsertTextContent - (c,361028,1),[v]
+[Mon Sep 21 05:09:44 UTC 2026][INFO] [Action] EFail InsertTextContent - 4
+[Mon Sep 21 05:09:44 UTC 2026][INFO] [Action] E InsertTextContent - (c,361028,1),[v]
+[Mon Sep 21 05:09:44 UTC 2026][INFO] [Action] EFail InsertTextContent - 4
+[Mon Sep 21 05:10:01 UTC 2026][INFO] [Action] E DeleteContent - (r,360457,360457),F
+[Mon Sep 21 05:10:01 UTC 2026][INFO] [Action] EFail DeleteContent - 4
+[Mon Sep 21 05:10:01 UTC 2026][INFO] [Action] E DeleteContent - (r,360457,360457),F
+[Mon Sep 21 05:10:01 UTC 2026][INFO] [Action] EFail DeleteContent - 4
+[Mon Sep 21 05:10:02 UTC 2026][INFO] [Action] E DeleteContent - (r,360458,360458),F
+[Mon Sep 21 05:10:02 UTC 2026][INFO] [Action] EFail DeleteContent - 4
+[Mon Sep 21 05:10:02 UTC 2026][INFO] [Action] E DeleteContent - (r,360458,360458),F
+[Mon Sep 21 05:10:02 UTC 2026][INFO] [Action] EFail DeleteContent - 4
+[Mon Sep 21 05:10:03 UTC 2026][INFO] [Action] E DeleteContent - (r,360459,360459),F
+[Mon Sep 21 05:10:03 UTC 2026][INFO] [Action] EFail DeleteContent - 4
+[Mon Sep 21 05:10:04 UTC 2026][INFO] [Action] E DeleteContent - (r,360459,360459),F
+[Mon Sep 21 05:10:04 UTC 2026][INFO] [Action] EFail DeleteContent - 4
+[Mon Sep 21 05:11:15 UTC 2026][INFO] [Action] E ItemChanged - -1,265235
+[Mon Sep 21 05:11:21 UTC 2026][INFO] [Action] E ItemChanged - -1,358934
+[Mon Sep 21 05:12:02 UTC 2026][INFO] [Action] E Paste - (r,179089,179095),8
+[Mon Sep 21 05:12:14 UTC 2026][INFO] [Action] E Paste - (r,4449,4455),8
+[Mon Sep 21 05:12:19 UTC 2026][INFO] [Action] E UpdateStyle - (r,4449,4457),13:361:3,(r,4449,4457),F
+[Mon Sep 21 05:13:00 UTC 2026][INFO] [Action] E Cut - (r,358936,361395)
+[Mon Sep 21 05:14:15 UTC 2026][INFO] [Action] E AddTextContainer - (c,360395,2),0,0,0
+[Mon Sep 21 05:14:15 UTC 2026][INFO] [Action] E AddTextContainer - (c,360396,1),1,0,0
+[Mon Sep 21 05:14:15 UTC 2026][INFO] [Action] E AddTextContainer - (c,360397,1),1,0,0
+[Mon Sep 21 05:14:27 UTC 2026][INFO] [Action] E Paste - (c,360398,2),2477
+[Mon Sep 21 05:14:35 UTC 2026][INFO] [Action] U Paste
+[Mon Sep 21 05:14:52 UTC 2026][INFO] [Action] E InsertTextContent - (r,358678,358678),[F]
+[Mon Sep 21 05:16:09 UTC 2026][INFO] [Action] E InsertSectionBreak - (c,358936,2)
+[Mon Sep 21 05:16:17 UTC 2026][INFO] [Action] E Paste - (c,358936,1),2477
+[Mon Sep 21 05:16:24 UTC 2026][INFO] [Action] E SplitContainer - 358957
+[Mon Sep 21 05:16:28 UTC 2026][INFO] [Action] E UpdateStyle - (c,358956,2),34:320:3,(r,358956,358956),F
+[Mon Sep 21 05:17:13 UTC 2026][INFO] [Action] E SplitContainer - 359916
+[Mon Sep 21 05:17:47 UTC 2026][INFO] [Action] E InsertTextContent - (r,360455,360458),[e]
+[Mon Sep 21 05:17:47 UTC 2026][INFO] [Action] E InsertTextContent - (c,360455,2),[r]
+[Mon Sep 21 05:17:48 UTC 2026][INFO] [Action] E InsertTextContent - (c,360456,2),[m]
+[Mon Sep 21 05:17:48 UTC 2026][INFO] [Action] E InsertTextContent - (c,360457,2),[a]
+[Mon Sep 21 05:17:49 UTC 2026][INFO] [Action] E InsertTextContent - (c,360458,2),[n]
+[Mon Sep 21 05:18:30 UTC 2026][INFO] [Action] E SplitContainer - 359972
+[Mon Sep 21 05:18:43 UTC 2026][INFO] [Action] E SplitContainer - 360173
+[Mon Sep 21 05:26:44 UTC 2026][INFO] [Action] U SplitContainer
+[Mon Sep 21 05:26:45 UTC 2026][INFO] [Action] U SplitContainer
+[Mon Sep 21 05:26:46 UTC 2026][INFO] [Action] U InsertTextContent
+[Mon Sep 21 05:26:49 UTC 2026][INFO] [Action] U InsertTextContent
+[Mon Sep 21 05:26:50 UTC 2026][INFO] [Action] U InsertTextContent
+[Mon Sep 21 05:26:50 UTC 2026][INFO] [Action] U InsertTextContent
+[Mon Sep 21 05:26:50 UTC 2026][INFO] [Action] U InsertTextContent
+[Mon Sep 21 05:26:50 UTC 2026][INFO] [Action] U SplitContainer
+[Mon Sep 21 05:26:51 UTC 2026][INFO] [Action] U UpdateStyle
+[Mon Sep 21 05:26:52 UTC 2026][INFO] [Action] U SplitContainer
+[Mon Sep 21 05:26:52 UTC 2026][INFO] [Action] U Paste
+[Mon Sep 21 05:26:53 UTC 2026][INFO] [Action] U InsertSectionBreak
+[Mon Sep 21 05:26:57 UTC 2026][INFO] [Action] U InsertTextContent
+[Mon Sep 21 05:26:58 UTC 2026][INFO] [Action] U AddTextContainer
+[Mon Sep 21 05:26:59 UTC 2026][INFO] [Action] U AddTextContainer
+[Mon Sep 21 05:27:00 UTC 2026][INFO] [Action] U AddTextContainer
+[Mon Sep 21 05:27:01 UTC 2026][INFO] [Action] U Cut
+[Mon Sep 21 05:27:26 UTC 2026][INFO] [Action] R Cut
+[Mon Sep 21 05:27:27 UTC 2026][INFO] [Action] R AddTextContainer
+[Mon Sep 21 05:27:27 UTC 2026][INFO] [Action] R AddTextContainer
+[Mon Sep 21 05:27:27 UTC 2026][INFO] [Action] R AddTextContainer
+[Mon Sep 21 05:27:27 UTC 2026][INFO] [Action] R InsertTextContent
+[Mon Sep 21 05:27:28 UTC 2026][INFO] [Action] R InsertSectionBreak
+[Mon Sep 21 05:27:28 UTC 2026][INFO] [Action] R Paste
+[Mon Sep 21 05:27:28 UTC 2026][INFO] [Action] R SplitContainer
+[Mon Sep 21 05:27:28 UTC 2026][INFO] [Action] R UpdateStyle
+[Mon Sep 21 05:27:28 UTC 2026][INFO] [Action] R SplitContainer
+[Mon Sep 21 05:27:28 UTC 2026][INFO] [Action] R InsertTextContent
+[Mon Sep 21 05:27:28 UTC 2026][INFO] [Action] R InsertTextContent
+[Mon Sep 21 05:27:28 UTC 2026][INFO] [Action] R InsertTextContent
+[Mon Sep 21 05:27:28 UTC 2026][INFO] [Action] R InsertTextContent
+[Mon Sep 21 05:27:29 UTC 2026][INFO] [Action] R InsertTextContent
+[Mon Sep 21 05:27:29 UTC 2026][INFO] [Action] R SplitContainer
+[Mon Sep 21 05:27:29 UTC 2026][INFO] [Action] R SplitContainer
+[Mon Sep 21 05:33:10 UTC 2026][INFO] [Action] E SplitContainer - 361124
+[Mon Sep 21 05:33:10 UTC 2026][INFO] [Action] E AddTextContainer - (c,361124,1),1,0,0
+[Mon Sep 21 05:35:04 UTC 2026][INFO] [Action] E Copy - (r,360913,360942)
+[Mon Sep 21 05:41:41 UTC 2026][INFO] [Action] E Copy - (r,361109,361122)
+[Mon Sep 21 05:42:21 UTC 2026][INFO] [Action] E Copy - (r,360408,360421)
+[Mon Sep 21 05:42:55 UTC 2026][INFO] [Action] E Copy - (r,360428,360446)
+[Mon Sep 21 05:45:18 UTC 2026][INFO] [Action] E Copy - (r,359916,359929)
+[Mon Sep 21 05:45:37 UTC 2026][INFO] [Action] E Copy - (r,359930,359940)
+[Mon Sep 21 05:45:56 UTC 2026][INFO] [Action] E Copy - (r,359942,359971)
+[Mon Sep 21 05:49:54 UTC 2026][INFO] [Action] E Paste - (r,359916,359971),977
+[Mon Sep 21 05:50:01 UTC 2026][INFO] [Action] E InsertTextContent - (r,360891,361520),[SPACE]
+[Mon Sep 21 05:50:05 UTC 2026][INFO] [Action] E InsertTextContent - (r,360891,361413),[SPACE]
+[Mon Sep 21 05:50:08 UTC 2026][INFO] [Action] E MergeContainer - 360891,0
+[Mon Sep 21 05:50:18 UTC 2026][INFO] [Action] E UpdateStyle - (r,358936,358956),13:361:3,(r,358936,358956),F
+[Mon Sep 21 05:50:22 UTC 2026][INFO] [Action] E UpdateStyle - (r,358936,358956),11:Bookerly,serif:4,(r,358936,358956),F
+[Mon Sep 21 05:50:24 UTC 2026][INFO] [Action] E UpdateStyle - (r,358936,358956),11:AmazonEmber,sans-serif:4,(r,358936,358956),F
+[Mon Sep 21 05:51:20 UTC 2026][INFO] [Action] E DeleteContent - (r,361304,361424),B
+[Mon Sep 21 05:51:26 UTC 2026][INFO] [Action] E InsertTextContent - (r,361313,361313),[Q]
+[Mon Sep 21 05:51:29 UTC 2026][INFO] [Action] E InsertTextContent - (r,361321,361321),[E]
+[Mon Sep 21 05:51:34 UTC 2026][INFO] [Action] E InsertTextContent - (r,361256,361257),[D]
+[Mon Sep 21 05:51:36 UTC 2026][INFO] [Action] E InsertTextContent - (c,361256,2),[e]
+[Mon Sep 21 05:51:44 UTC 2026][INFO] [Action] E InsertTextContent - (r,361246,361246),[Q]
+[Mon Sep 21 05:51:47 UTC 2026][INFO] [Action] E InsertTextContent - (r,361251,361251),[E]
+[Mon Sep 21 05:51:58 UTC 2026][INFO] [Action] E UpdateStyle - (r,361245,361268),13:361:3,(r,361245,361268),F
+[Mon Sep 21 05:52:06 UTC 2026][INFO] [Action] E UpdateStyle - (r,361312,361335),13:361:3,(r,361312,361335),F
+[Mon Sep 21 05:52:09 UTC 2026][INFO] [Action] E UpdateStyle - (r,361312,361335),12:382:3,(r,361312,361335),F
+[Mon Sep 21 05:52:58 UTC 2026][INFO] [Action] E ItemChanged - -1,1
+[Mon Sep 21 05:53:08 UTC 2026][INFO] [Action] E Copy - (r,179,209)
+[Mon Sep 21 05:53:14 UTC 2026][INFO] [Action] E ItemChanged - -1,362505
+[Mon Sep 21 05:53:15 UTC 2026][INFO] [Action] E ItemChanged - -1,361162
+[Mon Sep 21 05:53:22 UTC 2026][INFO] [Action] E Paste - (r,361182,361187),31
+[Mon Sep 21 05:53:25 UTC 2026][INFO] [Action] E MergeContainer - 361182,1
+[Mon Sep 21 05:53:28 UTC 2026][INFO] [Action] U MergeContainer
+[Mon Sep 21 05:53:40 UTC 2026][INFO] [Action] E UpdateStyle - (r,361182,361228),12:350:3,(r,361182,361228),F
+[Mon Sep 21 05:53:48 UTC 2026][INFO] [Action] E UpdateStyle - (r,361182,361228),48:1.000000:2,(r,361182,361228),F
+[Mon Sep 21 05:53:50 UTC 2026][INFO] [Action] E UpdateStyle - (r,361182,361228),48:0.000000:2,(r,361182,361228),F
+[Mon Sep 21 05:53:54 UTC 2026][INFO] [Action] E UpdateStyle - (r,361182,361228),34:59:3,(r,361182,361228),F
+[Mon Sep 21 05:54:16 UTC 2026][INFO] [Action] E SplitContainer - 361271
+[Mon Sep 21 05:54:23 UTC 2026][INFO] [Action] E SplitContainer - 361338
+[Mon Sep 21 05:55:02 UTC 2026][INFO] [Action] E InsertTextContent - (c,361297,1),[(]
+[Mon Sep 21 05:55:03 UTC 2026][INFO] [Action] E InsertTextContent - (c,361297,2),[L]
+[Mon Sep 21 05:55:03 UTC 2026][INFO] [Action] E InsertTextContent - (c,361298,2),[a]
+[Mon Sep 21 05:55:04 UTC 2026][INFO] [Action] E InsertTextContent - (c,361299,2),[t]
+[Mon Sep 21 05:55:04 UTC 2026][INFO] [Action] E InsertTextContent - (c,361300,2),[i]
+[Mon Sep 21 05:55:05 UTC 2026][INFO] [Action] E InsertTextContent - (c,361301,2),[n]
+[Mon Sep 21 05:55:05 UTC 2026][INFO] [Action] E InsertTextContent - (c,361302,2),[f]
+[Mon Sep 21 05:55:06 UTC 2026][INFO] [Action] E InsertTextContent - (c,361303,2),[o]
+[Mon Sep 21 05:55:07 UTC 2026][INFO] [Action] E InsertTextContent - (c,361304,2),[r]
+[Mon Sep 21 05:55:09 UTC 2026][INFO] [Action] E InsertTextContent - (c,361305,2),[SPACE]
+[Mon Sep 21 05:55:11 UTC 2026][INFO] [Action] E InsertTextContent - (c,361303,1),[SPACE]
+[Mon Sep 21 05:55:17 UTC 2026][INFO] [Action] E InsertTextContent - (r,361336,361338),[)]
+[Mon Sep 21 05:55:20 UTC 2026][INFO] [Action] E DeleteContent - (r,361337,361337),F
+[Mon Sep 21 05:55:21 UTC 2026][INFO] [Action] E DeleteContent - (r,361337,361337),F
+[Mon Sep 21 05:55:37 UTC 2026][INFO] [Action] E SplitContainer - 361295
+[Mon Sep 21 05:55:38 UTC 2026][INFO] [Action] E DeleteContent - (r,361295,361295),F
+[Mon Sep 21 05:55:39 UTC 2026][INFO] [Action] E DeleteContent - (r,361295,361295),F
+[Mon Sep 21 05:55:47 UTC 2026][INFO] [Action] E InsertTextContent - (c,361336,1),[SPACE]
+[Mon Sep 21 05:55:48 UTC 2026][INFO] [Action] E InsertTextContent - (c,361336,2),[SPACE]
+[Mon Sep 21 05:55:54 UTC 2026][INFO] [Action] E InsertTextContent - (c,361333,2),[d]
+[Mon Sep 21 05:56:08 UTC 2026][INFO] [Action] E SplitContainer - 361371
+[Mon Sep 21 05:56:51 UTC 2026][INFO] [Action] E InsertTextContent - (r,361736,361775),[s]
+[Mon Sep 21 05:56:52 UTC 2026][INFO] [Action] E InsertTextContent - (c,361736,2),[e]
+[Mon Sep 21 05:56:52 UTC 2026][INFO] [Action] E InsertTextContent - (c,361737,2),[m]
+[Mon Sep 21 05:56:52 UTC 2026][INFO] [Action] E InsertTextContent - (c,361738,2),[i]
+[Mon Sep 21 05:56:53 UTC 2026][INFO] [Action] E InsertTextContent - (c,361739,2),[c]
+[Mon Sep 21 05:56:53 UTC 2026][INFO] [Action] E InsertTextContent - (c,361740,2),[o]
+[Mon Sep 21 05:56:54 UTC 2026][INFO] [Action] E InsertTextContent - (c,361741,2),[n]
+[Mon Sep 21 05:56:54 UTC 2026][INFO] [Action] E InsertTextContent - (c,361742,2),[d]
+[Mon Sep 21 05:56:54 UTC 2026][INFO] [Action] E InsertTextContent - (c,361743,2),[u]
+[Mon Sep 21 05:56:55 UTC 2026][INFO] [Action] E InsertTextContent - (c,361744,2),[c]
+[Mon Sep 21 05:56:55 UTC 2026][INFO] [Action] E InsertTextContent - (c,361745,2),[t]
+[Mon Sep 21 05:56:55 UTC 2026][INFO] [Action] E InsertTextContent - (c,361746,2),[o]
+[Mon Sep 21 05:56:56 UTC 2026][INFO] [Action] E InsertTextContent - (c,361747,2),[r]
+[Mon Sep 21 05:56:56 UTC 2026][INFO] [Action] E InsertTextContent - (c,361748,2),[s]
+[Mon Sep 21 05:57:01 UTC 2026][INFO] [Action] E InsertTextContent - (c,361736,1),[SPACE]
+[Mon Sep 21 05:57:39 UTC 2026][INFO] [Action] E UpdateStyle - (r,361620,362508),16:10.000000:2,(r,361620,362508),F
+[Mon Sep 21 05:57:46 UTC 2026][INFO] [Action] E UpdateStyle - (c,361619,2),49:0.500000:2,(r,361619,361619),F
+[Mon Sep 21 06:00:39 UTC 2026][INFO] [Action] E SaveBook - Save
+[Mon Sep 21 06:01:00 UTC 2026][INFO] [Action] E ItemChanged - -1,347415
+[Mon Sep 21 06:01:21 UTC 2026][INFO] [Action] E UpdateStyle - (r,347464,348743),16:10.000000:2,(r,347464,348743),F
+[Mon Sep 21 06:01:30 UTC 2026][INFO] [Action] E ItemChanged - -1,348745
+[Mon Sep 21 06:01:31 UTC 2026][INFO] [Action] E ItemChanged - -1,348745
+[Mon Sep 21 06:01:31 UTC 2026][INFO] [Action] E ItemChanged - -1,348745
+[Mon Sep 21 06:01:34 UTC 2026][INFO] [Action] U UpdateStyle
+[Mon Sep 21 06:01:38 UTC 2026][INFO] [Action] E ItemChanged - -1,348745
+[Mon Sep 21 06:01:39 UTC 2026][INFO] [Action] E ItemChanged - -1,348745
+[Mon Sep 21 06:01:41 UTC 2026][INFO] [Action] E ItemChanged - -1,348745
+[Mon Sep 21 06:01:43 UTC 2026][INFO] [Action] R UpdateStyle
+[Mon Sep 21 06:01:45 UTC 2026][INFO] [Action] E ItemChanged - -1,358936
+[Mon Sep 21 06:01:47 UTC 2026][INFO] [Action] E ItemChanged - -1,348745
+[Mon Sep 21 06:01:57 UTC 2026][INFO] [Action] E ItemChanged - -1,362513
+[Mon Sep 21 06:02:09 UTC 2026][INFO] [Action] E MergeContainer - 362511,1
+[Mon Sep 21 06:02:53 UTC 2026][INFO] [Action] E MergeContainer - 355812,1
+[Mon Sep 21 06:03:09 UTC 2026][INFO] [Action] E AddTextContainer - (c,348743,2),0,0,0
+[Mon Sep 21 06:03:16 UTC 2026][INFO] [Action] U AddTextContainer
+[Mon Sep 21 06:03:17 UTC 2026][INFO] [Action] U MergeContainer
+[Mon Sep 21 06:03:20 UTC 2026][INFO] [Action] E ItemChanged - -1,358936
+[Mon Sep 21 06:03:42 UTC 2026][INFO] [Action] E ItemChanged - -1,347415
+[Mon Sep 21 06:04:19 UTC 2026][INFO] [Action] E InsertSectionBreak - (c,348745,2)
+[Mon Sep 21 06:04:23 UTC 2026][INFO] [Action] E ItemChanged - -1,347415
+[Mon Sep 21 06:04:24 UTC 2026][INFO] [Action] E ItemChanged - -1,348745
+[Mon Sep 21 06:04:24 UTC 2026][INFO] [Action] E ItemChanged - -1,348747
+[Mon Sep 21 06:04:26 UTC 2026][INFO] [Action] E ItemChanged - -1,348747
+[Mon Sep 21 06:04:26 UTC 2026][INFO] [Action] E ItemChanged - -1,348747
+[Mon Sep 21 06:04:28 UTC 2026][INFO] [Action] E ItemChanged - -1,348747
+[Mon Sep 21 06:04:35 UTC 2026][INFO] [Action] E ItemChanged - -1,358938
+[Mon Sep 21 06:04:40 UTC 2026][INFO] [Action] E ItemChanged - -1,347415
+[Mon Sep 21 06:04:41 UTC 2026][INFO] [Action] E ItemChanged - -1,348745
+[Mon Sep 21 06:04:43 UTC 2026][INFO] [Action] E ItemChanged - -1,348745
+[Mon Sep 21 06:04:49 UTC 2026][INFO] [Action] U InsertSectionBreak
+[Mon Sep 21 06:05:12 UTC 2026][INFO] [Action] E ItemChanged - -1,348745
+[Mon Sep 21 06:05:13 UTC 2026][INFO] [Action] E ItemChanged - -1,348745
+[Mon Sep 21 06:05:14 UTC 2026][INFO] [Action] E ItemChanged - -1,348745
+[Mon Sep 21 06:05:14 UTC 2026][INFO] [Action] E ItemChanged - -1,348745
+[Mon Sep 21 06:05:30 UTC 2026][INFO] [Action] E ConvertGenericPageAction - 11,46

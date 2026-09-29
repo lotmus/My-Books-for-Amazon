@@ -8,7 +8,7 @@ Along the way:
 • Feynman’s sum-over-histories, and why a light ray “choosing” the path to your eye is the same arithmetic as interference
 • Carver Mead’s collective electrodynamics — not a new fundamental theory, but a way of reading superconductivity, flux quantization, and working circuits from quantum phase outward. SQUID sensors, including those used to image the human brain, live in this world
 • Wheeler and Feynman’s mid-century question about radiation: must the field be an independent substance, or can electrodynamics be written charge to charge? The book treats that as a question, not a replacement for QED
-• The parts of quantum electrodynamics this picture does not give you for free — vacuum polarization, renormalization, particle creation, and the electron’s magnetic moment, tested to better than one part in a billion
+• The parts of quantum electrodynamics this picture does not give you for free — vacuum polarization, renormalization, particle creation, and the electron’s magnetic moment, tested to better than one part in a trillion
 • A last descent from one electron’s phase to the act of a person reading these words
 
 This book does not claim to have unified physics. It says, more than once, what it has shown and what it has not proven. A synthesis that stops where the evidence stops is one you can trust the next time it surprises you.

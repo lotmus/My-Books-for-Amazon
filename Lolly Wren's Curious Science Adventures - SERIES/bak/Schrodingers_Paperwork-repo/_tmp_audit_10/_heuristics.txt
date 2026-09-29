@@ -1,0 +1,257 @@
+
+### How to Read This Book (520w, 18 paras)
+  dialogue≈0 narr≈18 dial%=0% hedges=1 emdashes=12
+  long_paras(>=90w)=0 dial_runs(>=8)=[]
+
+### Prologue: Before Anything Went Wrong (418w, 27 paras)
+  dialogue≈0 narr≈27 dial%=0% hedges=3 emdashes=0
+  long_paras(>=90w)=0 dial_runs(>=8)=[]
+  STACK p107 ['Obviously']: Obviously.
+
+### Chapter 1: The Form That Would Not Resolve (2807w, 150 paras)
+  dialogue≈69 narr≈81 dial%=46% hedges=24 emdashes=0
+  long_paras(>=90w)=4 dial_runs(>=8)=[]
+  repeated openers: [('the young man', 3)]
+  LONG p110 (102w): There are, in the management of large and failing systems, certain sounds one learns to distrust. The metallic cough of a heating vent in late November, for ins
+  LONG p111 (114w): Lolly looked up from her tea. This was unfortunate for two reasons. The first was that she had not yet had enough of it to be tolerant. The second was that the 
+  LONG p113 (112w): Gideon Wigglesworth was one of the few people who visited Lolly there voluntarily. He was also one of the few people Lolly trusted to look at an impossible prob
+  LONG p126 (115w): There came a brisk knock at the open office door, immediately followed by a woman entering without waiting for permission, which in Lolly’s experience generally
+
+### Chapter 2: The Wrong Queue (2974w, 198 paras)
+  dialogue≈65 narr≈133 dial%=33% hedges=21 emdashes=4
+  long_paras(>=90w)=0 dial_runs(>=8)=[]
+
+### Chapter 3: A Small Error in Reality (3282w, 198 paras)
+  dialogue≈39 narr≈159 dial%=20% hedges=21 emdashes=6
+  long_paras(>=90w)=0 dial_runs(>=8)=[]
+  repeated openers: [('“no,” said beatrix.', 3), ('“yes,” said lolly.', 3)]
+  STACK p508 ['Apparently']: Gideon looked up at the map. “Apparently.”
+
+### Chapter 4: Continuity Review (2302w, 157 paras)
+  dialogue≈50 narr≈107 dial%=32% hedges=8 emdashes=3
+  long_paras(>=90w)=0 dial_runs(>=8)=[]
+
+### Chapter 5: Dr Fainrose Is Not Reassured (2559w, 137 paras)
+  dialogue≈57 narr≈80 dial%=42% hedges=17 emdashes=4
+  long_paras(>=90w)=0 dial_runs(>=8)=[]
+  repeated openers: [('“yes.”', 5), ('“no,” said fainrose.', 4), ('mrs chain looked', 3), ('fainrose looked at', 3)]
+  STACK p907 ['Obviously']: “Obviously.”
+
+### Chapter 6: The Object Is Not Mislaid (1871w, 127 paras)
+  dialogue≈59 narr≈68 dial%=46% hedges=9 emdashes=4
+  long_paras(>=90w)=1 dial_runs(>=8)=[]
+  repeated openers: [('“yes.”', 11), ('fainrose looked at', 3)]
+  LONG p999 (91w): Fainrose adjusted the scale again. The descending curve sharpened at its lower end, as though modestly reluctant to admit what came next. “There is a vulgar pub
+
+### Chapter 7: What Remains Correlated (2213w, 138 paras)
+  dialogue≈47 narr≈91 dial%=34% hedges=14 emdashes=1
+  long_paras(>=90w)=0 dial_runs(>=8)=[]
+  repeated openers: [('“yes.”', 3)]
+
+### Chapter 8: The Backup That Could Not Exist (1894w, 90 paras)
+  dialogue≈38 narr≈52 dial%=42% hedges=3 emdashes=11
+  long_paras(>=90w)=2 dial_runs(>=8)=[]
+  repeated openers: [('“no,” said fainrose.', 3)]
+  LONG p1223 (91w): The Regional Compression Annex had by then acquired the atmosphere of a hospital in which the patient had begun offering opinions. Two of the wall displays were
+  LONG p1264 (102w): “You back up records,” said Fainrose. “You have never once backed up a state. Nobody has. Nobody will. If a general quantum state could be duplicated, you could
+
+### Chapter 9: The Two Columns (2287w, 132 paras)
+  dialogue≈73 narr≈59 dial%=55% hedges=7 emdashes=8
+  long_paras(>=90w)=1 dial_runs(>=8)=[]
+  repeated openers: [('“yes.”', 6), ('fainrose looked at', 3), ('miss pike looked', 3)]
+  LONG p1410 (98w): Every dwelling certified to the highest precision in Column A showed, in the days following, the wildest instability in every other respect. Routes to the shops
+
+### Chapter 10: The Moon That Was Pending (1628w, 54 paras)
+  dialogue≈28 narr≈26 dial%=52% hedges=5 emdashes=15
+  long_paras(>=90w)=1 dial_runs(>=8)=[]
+  LONG p1475 (146w): Mrs Prosser was, it turned out, exactly the witness a desperate physicist could have ordered from a catalogue. She had logged everything. At 8:52 there had been
+
+### Chapter 11: An Uninvited Reflection (2274w, 96 paras)
+  dialogue≈44 narr≈52 dial%=46% hedges=7 emdashes=11
+  long_paras(>=90w)=6 dial_runs(>=8)=[]
+  LONG p1546 (98w): “I do not drink blood, Mrs Chain. Blood is a courier. It carries the thing but it is not the thing.” He laced his old, spotted hands together. “When a question 
+  LONG p1552 (96w): “Nine thousand dwellings,” he said, “each one forced from a rich state into a thin one, tens of thousands of alternatives extinguished per address, per week, at
+  LONG p1561 (93w): “Yes,” said Keinschein, and looked at her with real approval. “Yes, the girl has it. Your Dr Fainrose is quite right that the country can be recovered from its 
+  LONG p1567 (92w): “Entirely for my own reasons,” said Keinschein. “Mrs Chain, I am eleven thousand times your age and I have never once acted from virtue. But my reasons and your
+  LONG p1572 (115w): “You write,” said Keinschein, “as though a measurement were an event: a thing that happens at a time, after which there is one answer.” He shook his great white
+
+### Chapter 12: The Duc de Brévanne Explains Himself Slowly (2896w, 95 paras)
+  dialogue≈60 narr≈35 dial%=63% hedges=11 emdashes=13
+  long_paras(>=90w)=6 dial_runs(>=8)=[]
+  repeated openers: [('“yes.”', 4)]
+  LONG p1628 (96w): “In 1911 my brother served as secretary to a congress of physicists,” said de Brévanne, “and brought home the papers. I read them because I read everything. I d
+  LONG p1638 (123w): “No,” said de Brévanne. “That is my point. You are treating the pre-existence of the name as evidence that the observation was worthless. It is evidence that th
+  LONG p1654 (103w): “Suppose the house always had one definite configuration. One actual wallpaper. Not a haze of possibilities: an actual state, at every moment, as common sense i
+  LONG p1659 (107w): “He did not create a fact. There was already a fact.” De Brévanne’s voice sharpened for the first time. “He deformed the guidance. He put his apparatus into the
+  LONG p1662 (96w): “It is an entirely different crime,” said de Brévanne, “and this is my lesson, and the only thing I came to say.” He turned to face her fully. “Ms Sloan is upst
+  STACK p1685 ['Probably']: “Probably,” said Lolly. She put the notebook on the console, open. “Read it anyway.”
+
+### Chapter 13: The Panel of Experts (2867w, 103 paras)
+  dialogue≈51 narr≈52 dial%=50% hedges=5 emdashes=24
+  long_paras(>=90w)=3 dial_runs(>=8)=[]
+  LONG p1708 (113w): The second arrived talking. He was younger by decades, sandy-haired, in a jacket over a T-shirt, and he came in mid-sentence with a tablet in one hand and a cof
+  LONG p1722 (90w): Tegmark had his hand half up like a schoolboy. “See, this is where I get off the bus,” he said. “Werner — may I — this is the thing. You say the question genera
+  LONG p1743 (108w): Everyone looked at him. Bellew had not moved. He sat with his forearms on the table and his bright pale eyes going from Heitmann to Tegmark and back. “Werner sa
+
+### Chapter 14: Eleven Dimensions and a Whisper (2926w, 97 paras)
+  dialogue≈52 narr≈45 dial%=54% hedges=10 emdashes=24
+  long_paras(>=90w)=3 dial_runs(>=8)=[(1832, 8)]
+  LONG p1840 (165w): Lolly closed the notebook. “Professor von Wittenberg,” she said. “I will write down anything that tells me what they dumped into 4C. I will not take dictation o
+  LONG p1846 (102w): “Alfred telephoned me on Tuesday and shouted at me for eleven minutes, which at his age is a considerable investment and, I think, a form of affection.” Von Wit
+  LONG p1851 (97w): “In 1996 two colleagues took a particular class of black hole in string theory, built it out of membranes and strings, counted the possible configurations of th
+
+### Chapter 15: Final State Pending (2385w, 71 paras)
+  dialogue≈34 narr≈37 dial%=48% hedges=8 emdashes=11
+  long_paras(>=90w)=4 dial_runs(>=8)=[]
+  LONG p1901 (178w): The repair was not clever. It was subtraction, which by now Lolly understood to be the only move the whole business had ever actually rewarded. They cut the rig
+  LONG p1908 (90w): “Then you’re clear of it.” He looked at the trace a moment longer. “A change made in one place altering what is true in another, and nothing crossing between. N
+  LONG p1923 (100w): “Yes,” said Lolly. “And Bellew told me not to pick until something forced me to, and to use whichever one told me where to put the probe.” She closed the notebo
+  LONG p1946 (101w): “I told her the truth, which is that I did not know, and that anybody who told her a number this week was lying to her for the same reason Voller lied to himsel
+
+### Chapter 16: The Decision (1263w, 22 paras)
+  dialogue≈3 narr≈19 dial%=14% hedges=3 emdashes=13
+  long_paras(>=90w)=4 dial_runs(>=8)=[]
+  LONG p1968 (159w): The written order was sealed on the Tuesday, once the plan the Board had demanded on the Monday — as the price of losing the hearing — was on the judge’s desk. 
+  LONG p1975 (109w): He had been carrying courier bags in and out of the annex for eleven weeks without once being asked to sit down, which meant he had spent eleven weeks looking a
+  LONG p1980 (92w): Gideon Wigglesworth, who had spent the last two hours failing to locate a plug socket that was, by his own later admission, directly behind him, straightened up
+  LONG p1983 (140w): They cut the coupling at 06:04 on the fourteenth of November. It was not dramatic to watch — a technician in a borrowed coat opened a junction box that had not 
+
+### Chapter 17: A Very Good Obituary (1221w, 34 paras)
+  dialogue≈12 narr≈22 dial%=35% hedges=3 emdashes=9
+  long_paras(>=90w)=3 dial_runs(>=8)=[]
+  LONG p1992 (104w): The Fenwick mast was found in the weeks after the coupling was cut — a decorative weathercock on the Memorial Hall with more electronics under the tail than any
+  LONG p1995 (151w): Twenty-Two Coldharrow Rise — where she had been moved when the old house was condemned — smelled of instant coffee and furniture polish, applied in that order a
+  LONG p2006 (107w): The photograph turned up that spring — the one of the two sisters laughing at some unseen mishap, which had hung on through the whole of it and then been left b
+
+### Chapter 18: There Is No Lid (2133w, 44 paras)
+  dialogue≈21 narr≈23 dial%=48% hedges=7 emdashes=13
+  long_paras(>=90w)=7 dial_runs(>=8)=[]
+  LONG p2040 (172w): “The stars are the first thing to understand. There are stars now. This is not the normal condition. Star formation peaked long ago and is declining, and the ga
+  LONG p2041 (111w): “And then it is the age of the black holes, and they are the last structures, and they do exactly what your 4C did in a car park in Surrey: they evaporate. Slow
+  LONG p2046 (188w): “Your Ministry, Ms Wren, was doing the same thing, badly, and without knowing it. It wished a district to be simple — that is, low in complexity, low in ambigui
+  LONG p2048 (126w): “And so — the outlook,” said Schrottfinger. “Yes. In the long run: the embers, the holes, the dark. I shall not soften it and I dislike people who do. But consi
+  LONG p2050 (126w): “Your Ministry was engaged in reducing the number of such accounts, and calling it efficiency, and the reason that was a crime and not merely a mistake is that 
+
+### Epilogue: The Ministry Has Learned Nothing (350w, 30 paras)
+  dialogue≈4 narr≈26 dial%=13% hedges=0 emdashes=0
+  long_paras(>=90w)=0 dial_runs(>=8)=[]
+  STACK p2080 ['Allegedly']: “Allegedly.”
+  STACK p2081 ['Obviously']: “Obviously.”
+  STACK p2092 ['Obviously']: Obviously, this is someone else’s problem.
+  STACK p2098 ['Probably']: Probably.
+  STACK p2099 ['Allegedly', 'Apparently']: Allegedly. Apparently. Or, as the Ministry preferred to put it, all is well. Or is it?
+  STACK p2103 ['Obviously']: Obviously.
+
+
+=== TARGETED PHRASE LOCS ===
+
+eighth week: 0
+
+Tuesday afternoon: 0
+
+Tegn[eé]r: 0
+
+\bPeck\b: 0
+
+\bVoss\b: 0
+
+von Wittenberg: 29
+  p1802: “Dr Bellew mentioned it.” The man turned. He had a pleasant, unemphatic, slightly abstracted face and the mildest possible manner, and he sp
+  p1804: “Yes.” Von Wittenberg gathered three sheets of paper together, apparently at random, and came and sat down opposite her. “May I ask you some
+  p1812: Von Wittenberg smiled very slightly and looked out at the carpet showroom. “That is the standard answer and it is the best-tested answer in 
+  p1814: “I am going to tell you something a little worse than that,” said Leonhard von Wittenberg apologetically. “May I use your notebook? I shall 
+  p1822: “Ah,” said von Wittenberg, and for the first time something in his face brightened. “That is the part that persuaded me. You must understand
+  p1825: “The graviton,” said von Wittenberg. “You do not put gravity in. You cannot keep it out. It is simply one of the things the string does.” He
+  p1827: “There are three, and I shall not hide them.” Von Wittenberg counted them off on his fingers, mildly. “First: the strings are so small that 
+  p1832: “It is, yes.” Von Wittenberg looked pleased. “And the third catch is the one that mattered most, and it is the reason I am in a library in S
+  p1834: “In 1995,” said Leonhard von Wittenberg, “I gave a talk.” He said this with the caution of a man aware that institutions have been damaged b
+  p1835: “The five theories were not five theories,” said von Wittenberg. “They were five descriptions of one structure, related by dualities — the s
+  p1839: “Membrane,” said von Wittenberg. “Or mystery. Or magic. According to taste. I have never settled it, and I have come to think the vagueness 
+  p1840: Lolly closed the notebook. “Professor von Wittenberg,” she said. “I will write down anything that tells me what they dumped into 4C. I will 
+  p1841: Von Wittenberg did not take offence. He seemed, if anything, to have been waiting for it. “That is the right question and I shall answer it 
+  p1846: “Alfred telephoned me on Tuesday and shouted at me for eleven minutes, which at his age is a considerable investment and, I think, a form of
+  p1848: “No,” said von Wittenberg. “But I can tell you why he may be wrong, and it is the one thing my subject has actually achieved.” He turned the
+
+the the\b: 0
+
+\b(\w{4,})\s+\1\b: 0
+
+had been waiting: 0
+
+without turning: 6
+  p456: They did not wait to find out who. Beatrix was already three strides down the corridor, on the grounds — offered without turning round — tha
+  p813: “Bring the module,” said Beatrix, without turning. “If we are going to be wrong, we will be wrong with evidence.”
+  p925: She answered without turning. “A black hole.”
+  p1463: Jago Flint, driving, took the last bend onto the ridge somewhat faster than the road recommended and said, without turning round, “I’ve hear
+  p1640: Somewhere behind her, on the other side of the annex wall, a phone began ringing and did not stop for a long time. When it cut off, Jago’s v
+  p1800: At about four o’clock he said, without turning round, in a voice so quiet that Lolly was not initially certain it had been aimed at her: “Yo
+
+particular patience: 1
+  p1272: Beatrix looked at him with the particular patience of an auditor who has been waiting eleven years for exactly this sentence. “Mr Voller,” s
+
+expression of a woman: 3
+  p126: There came a brisk knock at the open office door, immediately followed by a woman entering without waiting for permission, which in Lolly’s 
+  p1247: Mrs Elspeth Chain had come to the console with her umbrella in the crook of her arm and the expression of a woman determined to be present a
+  p1501: The Phase Two papers arrived at two, in eleven boxes, and Beatrix Sloan had read four of them by half past five with the expression of a wom
+
+air of: 10
+  p261: The queue to which Lolly had now been summoned was not the ordinary version. She and Mrs Elspeth Chain followed the signs down two flights o
+  p379: Lolly turned. The speaker was the thin young man she had noticed only in passing when they entered: dark coat, narrow face, stack of sealed 
+  p521: Semi-detached houses stood in rows behind low hedges, each one acceptable at first glance. At second glance the violations emerged: numbers 
+  p669: Beatrix Sloan had already moved to one side of the hall, where she stood with her arms folded and the air of an auditor preparing to improve
+  p843: Beyond the gate stood a long, low brick house with a slate roof, tall narrow windows, and the defensive air of a property that had spent yea
+  p1104: They passed through two security doors, a control station, and a room full of humming cabinets attended by three technicians who possessed t
+  p1708: The second arrived talking. He was younger by decades, sandy-haired, in a jacket over a T-shirt, and he came in mid-sentence with a tablet i
+  p1743: Everyone looked at him. Bellew had not moved. He sat with his forearms on the table and his bright pale eyes going from Heitmann to Tegmark 
+  p1901: The repair was not clever. It was subtraction, which by now Lolly understood to be the only move the whole business had ever actually reward
+  p2029: He was very old and very Viennese, in a bow tie that had been tied by somebody who cared, with a great deal of white hair and an air of enor
+
+in a professional sense: 1
+  p460: By half past eleven, Lolly Wren decided that watching reality subdivide before lunch had become, in a professional sense, personal. She foll
+
+which only served: 1
+  p659: The man in Mrs Chain’s doorway was not damp, which only served to make the rest of him more offensive. He was in a dark coat of almost expen
+
+for the first time: 11
+  p625: Too late. She struck the mirror smartly across the middle. The text vanished. The mirror cracked in a neat diagonal line and, for the first 
+  p653: Lolly looked down at the humming module in her hands, at the cracked mirror, at the photograph that was still trying intermittently to becom
+  p768: Venn’s expression tightened for the first time. “Ms Wren, you are not qualified to assess continuity architecture.”
+  p798: Beatrix read the inscription, and for the first time since Lolly had known her, her expression shifted from contemptuous control to somethin
+  p1490: Mrs Prosser brightened for the first time since they had arrived. “There is an invoice,” she said. “I kept that too.”
+  p1554: Keinschein’s expression changed for the first time.
+  p1659: “He did not create a fact. There was already a fact.” De Brévanne’s voice sharpened for the first time. “He deformed the guidance. He put hi
+  p1766: Bellew smiled for the first time, and it was not a warm expression, it was the smile of a man watching a tool being picked up by the correct
+  p1822: “Ah,” said von Wittenberg, and for the first time something in his face brightened. “That is the part that persuaded me. You must understand
+  p1937: Beatrix wrote this down in the flattened, unpoetic language a court could not misread, and delivered it at four o’clock precisely. The Board
+  p2084: Beatrix Sloan billed the Ministry for eleven weeks of emergency litigation and was paid within the statutory deadline for the first time in 
+
+not identical but: 1
+  p818: The car belonged to Jago. Or rather, it belonged to a man in Croydon who believed it was in long-term bonded storage, which was not identica
+
+Once more than: 0
+
+
+=== WEEK / TIMELINE REFS Ch14-17 ===
+p1798: They went into Sub-District 6 on the Thursday with two vans, a portable timing rack, four hired photodetectors, and paperwork Beatrix had signed in a hand that dared anyone to query it. Fainrose was i
+p1841: Von Wittenberg did not take offence. He seemed, if anything, to have been waiting for it. “That is the right question and I shall answer it in the correct order,” he said. “First: nothing. You are sup
+p1846: “Alfred telephoned me on Tuesday and shouted at me for eleven minutes, which at his age is a considerable investment and, I think, a form of affection.” Von Wittenberg’s mouth twitched. “His concern, 
+p1863: He gathered his papers. “This is the difficulty with being in my line of work. We have produced, I think, the most beautiful structure in the history of physics, and we have not produced a single numb
+p1867: He picked up his pencil. “I mention it only because I notice that everybody who has come to talk to you this week arrived from somewhere else, and I do not think that is a coincidence, and I do not th
+p1904: They ran it clean on the Sunday. The number Bellew had promised in the conference room came up a little after four.
+p1915: Beatrix Sloan won the injunction application on the Monday morning and lost the argument about what to do with it by lunchtime, because the Board, faced with an order it could not ignore, did what boa
+p1923: “Yes,” said Lolly. “And Bellew told me not to pick until something forced me to, and to use whichever one told me where to put the probe.” She closed the notebook. “Nothing has forced me to pick. So I
+p1936: “I know which nineteen cupboards it might be in,” said Gideon. “I can find out the other one by Thursday.” He stood to go and refill his coffee, misjudged the doorway by the same half-inch he had been
+p1946: “I told her the truth, which is that I did not know, and that anybody who told her a number this week was lying to her for the same reason Voller lied to himself about the vault — because a number is 
+p1952: “Not a cartoon. Not a copy. Not a photograph of a conversation.” Fainrose looked at her. “A district that remembers, imperfectly, that a Ministry once stood in its wave with a clipboard. Mrs Chain wan
+p1968: The written order was sealed on the Tuesday, once the plan the Board had demanded on the Monday — as the price of losing the hearing — was on the judge’s desk. He understood none of the physics and al
+p1969: They got eleven weeks. It was not enough, and nobody had prepared a form in which enough was an available option. Von Wittenberg’s people listened to the horizon for nine of them, from a rented indust
+p1971: One hundred and three were not recovered, and their names were published, because Beatrix insisted, and because Miss Dorothy Kell — whose brother’s apprenticeship was one of the hundred and three, and
+p1972: By the second week of November the operation had stopped resembling physics and had started resembling a hospital corridor: mostly waiting, occasionally interrupted by everyone in the room forgetting,
+p1975: He had been carrying courier bags in and out of the annex for eleven weeks without once being asked to sit down, which meant he had spent eleven weeks looking at the coupling lattice the way nobody pa
+p1981: Beatrix looked at him for a long moment. “That is either the most useful thing anyone has said in this room in eleven weeks,” she said, “or you have been standing near a filing cabinet radiating somet
+p1984: Even Beatrix Sloan, who had spent eleven weeks being audibly certain about everything, said nothing at all for the whole eleven seconds, and did not reach for her pen until it was over, which Lolly un
+p1985: Then the coherence monitor Fainrose had left running since Sub-District 6 — flat at 1.2 for eleven weeks, with the patience of something that had given up being interesting — climbed to 2.79 in slight
+p1992: The Fenwick mast was found in the weeks after the coupling was cut — a decorative weathercock on the Memorial Hall with more electronics under the tail than any weathercock requires, and a plate readi
+p1994: Lolly delivered Mrs Elspeth Chain’s certificate herself, on a Tuesday in March, because she had learned by then that some documents should not simply be posted.
+p1995: Twenty-Two Coldharrow Rise — where she had been moved when the old house was condemned — smelled of instant coffee and furniture polish, applied in that order and recently. Mrs Chain read the certific
+p2018: In February, Stephanie Fainrose was appointed to chair the reconstituted oversight body, on terms she dictated in writing and which included the phrase no certificate may require the simultaneous dete

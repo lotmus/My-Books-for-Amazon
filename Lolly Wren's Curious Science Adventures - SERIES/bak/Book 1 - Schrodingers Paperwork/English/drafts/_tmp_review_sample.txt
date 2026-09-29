@@ -1,0 +1,545 @@
+=== FRONT TOC DISCLAIMER / WHO IS WHO PREVIEW ===
+1|Schrödinger’s Paperwork
+2|A Novel of Quantum Bureaucracy, apparently.
+4|Lolly Wren’s Curious Science Adventures
+6|Book 1
+8|By Q.E.D.
+10|Quentin Edmund Darling, allegedly.
+11|Lothar J. Musiol, obviously.
+15|All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.
+16|This is a work of fiction. Names, characters, departments, directives, forms, schedules, institutions, and incidents are either the product of the author’s imagination or are used fictitiously. Any resemblance to actual government bodies, living or defunct, is regretted rather than denied.
+17|Several characters in this book are fictional inventions inspired by real historical physicists and are given altered names for that reason. Their scientific positions are represented as faithfully as comedy allows; their personal habits, dialogue, private opinions, legal disputes and dietary requirements are entirely invented. No claim is made about any real person.
+18|The physics explained in the Physics Notes sections is presented in good faith and to the best of the author’s understanding. Where the science is unsettled, the text says so. Readers intending to sit an examination are warmly encouraged to consult a textbook as well.
+22|1st Edition
+23|© 2026 Lothar J. Musiol. All rights reserved.
+25|Dedication
+26|For everyone who has ever been asked to fill in a form in triplicate to explain something that has not, strictly, happened yet.
+27|And for the ones who kept the notebook anyway.
+28|Contents
+29|Front
+30|How to Read This Book
+31|The Novel
+32|Prologue: Before Anything Went Wrong
+33|The Form That Would Not Resolve
+34|The Wrong Queue
+35|A Small Error in Reality
+36|Continuity Review
+37|Dr Fainrose Is Not Reassured
+38|The Object Is Not Mislaid
+39|What Remains Correlated
+40|The Backup That Could Not Exist
+41|The Two Columns
+42|The Moon That Was Pending
+43|An Uninvited Reflection
+44|The Duc de Brévanne Explains Himself Slowly
+45|The Panel of Experts
+46|Eleven Dimensions and a Whisper
+47|Final State Pending
+48|The Decision
+49|A Very Good Obituary
+50|There Is No Lid
+51|Back
+52|Epilogue: The Ministry Has Learned Nothing
+53|Physics Prologue: The Whole Book, Briefly
+54|Cast of Characters
+55|Appendix: The Physics Lecture
+56|Glossary
+57|A Word on Who Is Who
+58|A Note on the Author
+59|About the Series
+60|How to Read This Book
+61|This is a satirical, absurdist novel with a strong dose of British humour. You need to know no physics at all to read it, and nothing in the story requires homework.
+62|But it is also an honest book, and it is built in two layers.
+63|The novel is the story of Lolly Wren, a Transit Reconciliation Officer, Third Grade, who spent ten years in the electronics trade and eleven minutes as a working physicist, and who discovers that her department has been making reality simpler by pushing the difficult parts of it into a black hole in regional infrastructure.
+64|The Physics Notes live together in the Appendix, one section per chapter. Most chapters still end the same way: a rule, and a single link telling you exactly which section is yours. Follow it and you land on the note that takes the quantum-mechanical idea the chapter has just dramatised and explains it properly, starting from nothing, in plain English, for a reader with roughly high-school science.
+65|Each Physics Notes section is laid out the same way, so you always know where you are:
+66|In one breath — the whole idea in a sentence or two.
+67|Start here — an everyday analogy, no jargon.
+68|The idea, step by step — the argument assembled in order.
+69|What this chapter was actually showing you — the story and the science locked together.
+70|Where the popular version goes wrong — the misconception you have probably been taught, corrected.
+71|Going deeper — the real machinery, the equations, the named experiments. Explicitly skippable.
+72|What the reader learns — takeaways you can tick off.
+73|One-line summary — the sentence to keep.
+74|Three honest ways to read this book.
+75|For the story alone: read the chapters and stop at each rule. You will lose nothing. Not a single plot point lives in the Physics Notes.
+76|To learn quantum mechanics properly: read each chapter, then its Physics Notes, in order. The notes are built as a course. Chapter 1 assumes nothing; Chapter 18 assumes Chapter 17. By the end you will genuinely understand superposition, measurement, entanglement, uncertainty, decoherence, Bell’s theorem, why black holes are a problem, why local order is always paid for somewhere else, and why there is no final lid — and you will know which of the things you have heard about quantum physics are false.
+77|If you are impatient: the Physics Prologue at the back summarises the entire scientific content of the book in bullet points, drily, in about ten minutes. It was written by a civil servant for other civil servants and it gives away nothing except the physics.
+78|One promise, kept throughout: where the science is genuinely unsettled — and a great deal of it is — this book says so plainly rather than tidying it away. Tidying things away is what the Ministry does, and look where that got them.
+79|Prologue: Before Anything Went Wrong
+
+=== HOW TO READ (first ~8 nonempty after heading) ===
+60|How to Read This Book
+61|This is a satirical, absurdist novel with a strong dose of British humour. You need to know no physics at all to read it, and nothing in the story requires homework.
+62|But it is also an honest book, and it is built in two layers.
+63|The novel is the story of Lolly Wren, a Transit Reconciliation Officer, Third Grade, who spent ten years in the electronics trade and eleven minutes as a working physicist, and who discovers that her department has been making reality simpler by pushing the difficult parts of it into a black hole in regional infrastructure.
+64|The Physics Notes live together in the Appendix, one section per chapter. Most chapters still end the same way: a rule, and a single link telling you exactly which section is yours. Follow it and you land on the note that takes the quantum-mechanical idea the chapter has just dramatised and explains it properly, starting from nothing, in plain English, for a reader with roughly high-school science.
+65|Each Physics Notes section is laid out the same way, so you always know where you are:
+66|In one breath — the whole idea in a sentence or two.
+67|Start here — an everyday analogy, no jargon.
+68|The idea, step by step — the argument assembled in order.
+69|What this chapter was actually showing you — the story and the science locked together.
+70|Where the popular version goes wrong — the misconception you have probably been taught, corrected.
+71|Going deeper — the real machinery, the equations, the named experiments. Explicitly skippable.
+
+=== PROLOGUE OPENING ===
+79|Prologue: Before Anything Went Wrong
+80|There was a time when the Ministry of Eventualities was not in trouble.
+81|This was mainly because nobody had yet noticed that it existed.
+82|The Ministry occupied a respectable grey building in Coldharrow, between a Department of Minor Infrastructure and an office responsible for the licensing of ceremonial ladders. Its sign was small. Its corridors were long. Its carpets had the peculiar brown colour adopted by institutions that have survived several changes of government and are now too embarrassed to ask for anything.
+83|Its official purpose was simple: to deal with events that had not happened yet.
+84|This sounded reasonable when written in a memorandum. All was well, obviously. Or was it?
+
+=== CH1 OPENING ===
+107|Chapter 1: The Form That Would Not Resolve
+108|There are, in the management of large and failing systems, certain sounds one learns to distrust. The metallic cough of a heating vent in late November, for instance, which means either nothing at all or a catastrophe in the wall. The tiny, clerical thump of an internal memorandum landing in the inbox, which means either lunch has been moved to Wednesday or civilisation has. And then there was the particular soft clicking noise made by the complaint terminal on Lolly Wren’s desk when it had decided, in its own limited but vindictive fashion, that the morning was not going to proceed properly.
+109|Lolly looked up from her tea. This was unfortunate for two reasons. The first was that she had not yet had enough of it to be tolerant. The second was that the tea itself, purchased in a spirit of optimism from a machine on the fourth floor, had the colour and emotional range of varnished disappointment, and appeared to have taken a personal view of her. The terminal clicked again. Lolly sighed in the manner of a woman who had once trained in theoretical physics and now worked in Transit Reconciliation, which is rather like having spent one’s youth studying celestial harmony only to discover that the stars have all gone into local government.
+110|Her office, if such a term may be generously applied to a room with one window, four filing stacks, and the temperament of a damp envelope, occupied the far end of the Regional Transit Reconciliation Annex.
+111|Gideon Wigglesworth was one of the few people who visited Lolly there voluntarily. He was also one of the few people Lolly trusted to look at an impossible problem without first asking which form was required. They had shared a workbench for the better part of a decade, back when the problems still came with a soldering iron attached, and had kept the habit of each other since. Gideon was very clever, painfully clumsy, and so generally agreeable that even the Ministry’s furniture seemed reluctant to injure him. He appeared in the doorway carrying two coffees, caught his shoe on the threshold, recovered with surprising dignity, and handed Lolly one of them.
+112|“Your machine is making the usual noise,” Gideon said.
+113|Lolly glanced at the terminal. “It has only just started.”
+114|“No. The machine has only just admitted it.” Gideon looked at the case file, which had opened itself on the screen unbidden and had not yet settled on its own fields. “What is the order of those?”
+
+=== CH1 CLOSING ===
+245|Mrs Chain, still by the chair, said very distinctly, “A what?”
+246|The young man looked as if he wished to be elsewhere, preferably in a different branch of causality. “Equivalent residence unit,” he repeated. “It’s on the paperwork.”
+247|Lolly felt something cold settle in the centre of her thoughts. “Who issued the classification?”
+248|The young man held up one of the forms. Across the top, in a new departmental font Lolly already despised, were the words: SIMPLIFICATION INITIATIVE CIVIC STABILITY THROUGH OUTCOME CONSOLIDATION
+249|Lolly took the paper. For a moment the office seemed to become very still. Even the terminal stopped clicking, which was somehow worse.
+250|Mrs Chain spoke first. “Ms Wren,” she said, “is someone altering the world on purpose?”
+251|Lolly looked from the form to the flickering complaint file, to the private notebook on her desk, to the pale and panting messenger in the doorway, and at last back to Mrs Chain, who had arrived somewhere before deciding to go there and now seemed, quite reasonably, to require a grown woman to explain the universe. She wished very much that the tea had been better.
+252|“I sincerely hope not,” she said.
+253|Then the terminal clicked again. A new line appeared across the screen in bright administrative blue: CASE ESCALATED. PLEASE REPORT TO QUEUE MANAGEMENT.
+254|Lolly stared at it. There are few phrases in government more sinister than Queue Management. Most of them are longer, and available only in landscape format.
+255|Mrs Chain picked up her handbag. “Well,” she said, “that sounds dreadful.” Lolly reached for her coat. “Yes,” she said. “I rather think it does.” Blankly, almost cheerfully, the printer produced a second sheet all by itself. Across the top it read: FOR THE AVOIDANCE OF CONFUSION Lolly shut her eyes. This, she felt, was how serious things generally began. Not with thunder. Not with prophecy. Not with reason. With stationery.
+256|→ Physics Notes for this chapter: Superposition
+
+=== CH9 OPENING ===
+1302|Chapter 9: The Two Columns
+1303|At eight she had been downstairs. The requisition archive occupied a basement room designed for files and since surrendered to them. Gideon sat at the central table with his coat still on, because the heating in the annex had an interpretive relationship with winter, and a stack of ledgers arranged in a kind of apologetic order.
+1304|“You look as if you have been here all night,” Lolly said.
+1305|“I have been here all night,” said Gideon. “The distinction is one I have been meaning to mention to someone.” He took the tea she had brought, missed the saucer by the usual margin, and recovered both without spilling, which she chose not to comment on. “Vale signed for the vault isolation. Voller countersigned. The second page of 11-C is in a different folder, in a different year, and nobody who signed the first page appears to have seen it.”
+1306|“That is going to matter.”
+1307|“Yes,” he said. “I thought I’d mention it before I walked into anything.”
+1308|She looked at him. He looked at the ledger. The heating made a decision and reversed it.
+1309|“You’re doing the useful part,” she said.
+1310|“I’m reading other people’s handwriting. That’s not the useful part. That’s the part I can do without breaking the building.” He turned a page. “Go upstairs. Something on paper is coming. Paper is never a social call.”
+1311|She went. At six minutes past nine, he was proved right.
+
+=== CH9 GIDEON HITS ===
+1303|At eight she had been downstairs. The requisition archive occupied a basement room designed for files and since surrendered to them. Gideon sat at the central table with his coat still on, because the
+1305|“I have been here all night,” said Gideon. “The distinction is one I have been meaning to mention to someone.” He took the tea she had brought, missed the saucer by the usual margin, and recovered bot
+1303|At eight she had been downstairs. The requisition archive occupied a basement room designed for files and since surrendered to them. Gideon sat at the central table with his coat still on, because the
+
+=== CH10 OPENING ===
+1434|Chapter 10: The Moon That Was Pending
+1435|The complaint came in from Outer Fenwick at half past seven in the evening, which was itself unusual, because Outer Fenwick did not officially exist until the moon came up, and the moon did not officially come up until enough people had filled in the form saying they had seen it.
+1436|Lolly Wren read the complaint three times before she accepted that she had read it correctly.
+1437|“Ratepayer states,” she said aloud, “that on the night of the fourteenth, insufficient observation returns were logged by nine p.m., and the moon”—she checked the wording again—“‘did not come up properly, and hung about at the edge looking unconvincing until gone eleven, at which point enough of the residents had done their forms and it committed.’”
+1438|Beatrix Sloan did not look up from her boxes. “Committed to what?”
+
+=== CH10 LAST 10 ===
+1478|“Because a moon requiring forty-one confirmed observations to commit is a moon the district can be billed for,” said Beatrix Sloan, who had got out of the car at some point during this and had already found, unerringly, the one sentence in the whole business that was actually about money. “Ongoing amenity-resolution services. I should like to see the invoice.”
+1479|Mrs Prosser brightened for the first time since they had arrived. “There is an invoice,” she said. “I kept that too.”
+1480|On the drive back that night, Lolly opened the green notebook.
+1481|She wrote:
+1482|Nobody has to look at the moon for it to stay a moon. The air is looking at it constantly, on nobody’s authority, and that is a mercy, not a technicality.
+1483|Then, underneath:
+1484|They found a machine that quietened the mercy, called the silence a shortfall, and billed the street to fix what they had broken.
+1485|And at the bottom, in the smaller hand she used for the sentences she did not entirely want to admit to writing:
+1486|The moon does not need forty-one witnesses. It needs the sky to be allowed to keep noticing it. Most things do.
+1487|→ Physics Notes for this chapter: Decoherence and Einselection
+
+=== CH15 FULL TEXT (for calendar) ===
+1879|Chapter 15: Final State Pending
+1880|The fault took a day to find and an afternoon to starve.
+1881|What the four detectors had been agreeing about, in the end, was the time. Every timing rack the Ministry owned drew its clock from the same civic distribution. The two ends of a Bell test are meant to be strangers to one another. Hers had been keeping time by the same heartbeat, drawing their random setting-choices off the same central feed, and between them they had produced a beautiful, stable and entirely worthless agreement: the apparatus, measuring the Ministry, and subtracting it from itself.
+1882|“It is the cleanest result I have ever recorded,” Fainrose said, “it means nothing whatsoever, and had I taken it to a committee they would have funded three more.”
+1883|Lolly had the shape of it before the explanation finished, because by then she had the shape of it everywhere. “It’s Venn’s scanner. The instrument was inside the thing it was measuring.”
+1884|“The instrument was inside the thing it was measuring,” Fainrose agreed, “and the instrument was ours, so nobody thought to look.”
+1885|The repair was not clever. It was subtraction, which by now Lolly understood to be the only move the whole business had ever actually rewarded. They cut the rig loose from anything with a crest on it. Two clocks instead of one — a pair of cheap oscillators left to run free and deliberately out of step, one at each station. The setting-choices now came off two smoke-detector sources Gideon had signed out of the annex stores, on the principle that decay does not wait for a central feed. Jago left the second detector rack in a van on the ridge with a car battery and a young man from the annex whose entire brief was to change nothing. What the rig did, once it was properly deaf, was put the same two questions to a pair of houses at opposite ends of Fainrose’s lattice — houses the Ministry had surveyed as separate cases, on separate afternoons, in separate folders — over and over, in an order neither end could predict, and count how often their answers agreed.
+1886|They agreed far too often.
+1887|“That’s the one Bell minded about most,” said Bellew, who had come out to the hall to watch a trace he had no need to watch, being both dead and certain. “Not the detectors. The choices. If something you cannot see is deciding what gets measured and which measurement gets made, the argument folds and you never learn that it folded. He worried about it to the end. So should you.”
+1888|They ran it clean on the Sunday. The number Bellew had promised in the conference room came up a little after four.
+1889|Fainrose read it off the timing computer with no expression at all, which was how Lolly knew it was real. “Two point four one. Plus or minus three in the last place.”
+1890|“Ceiling’s two,” said Bellew.
+1891|“The ceiling is two. The threshold we put in front of Pilbeam in writing was two point three, error bars clear of it.”
+1892|“Then you’re clear of it.” He looked at the trace a moment longer. “A change made in one place altering what is true in another, and nothing crossing between. Nine thousand houses, surveyed one at a time, answering as one thing. Werner cannot call that metaphysics — it is an instrument reading, and instrument readings are the only things he has ever accepted. Max cannot call it harmless — it is his instrument reading too. There is no interpretation anywhere in the figure. That is precisely why it will hold.”
+1893|Fainrose did not pack the rig away afterwards. She moved one station indoors, retuned it from Bellew’s cross-lattice correlation to the district’s own internal one, and set it to log. “That one stays,” she said. “Different pair, different number. It will sit flat and stupid for as long as the anchor is still listening to these houses. The morning it starts to climb is the morning we have actually let go.”
+1894|Lolly wrote the legal number in the green notebook, and then the sentence beneath it that mattered more:
+1895|You cannot test a thing with an instrument that shares its clock. The apparatus was part of the Ministry, so of course it agreed with the Ministry.
+1896|And under that:
+1897|They surveyed nine thousand houses separately. The houses answered as one. That is now a measured fact rather than an argument, and it is the only sentence in this entire affair that a court cannot talk its way around.
+1898|She telephoned Beatrix at six and was told to say the number. She said it. Beatrix hung up without another word, which from Beatrix was effusive.
+1899|Beatrix Sloan won the injunction application on the Monday morning and lost the argument about what to do with it by lunchtime, because the Board, faced with an order it could not ignore, did what boards do when cornered: it asked for a plan, in writing, by four o’clock, confident that no plan could possibly exist and that confidence, once minuted, would constitute a defence.
+1900|“They think we’re bluffing,” said Beatrix, setting down the telephone with the particular gentleness of a woman who would have preferred to throw it.
+1901|“We are not bluffing,” said Fainrose. “We simply do not yet have a plan.”
+1902|“That is the same thing to a Board, for four hours and two biscuits.”
+1903|Lolly Wren, who had spent the walk back from the courthouse turning something over in the green notebook that she could not yet make into sentences, said, “We have four plans. We have never had fewer than four.”
+1904|Everyone looked at her.
+1905|“Keinschein says nothing is definite until agreement spreads, so the fix is to spread better agreement — his word, not mine, though I notice he never once told us how.” She turned a page. “De Brévanne says nothing was ever lost, only steered wrong, and the fix is to take the apparatus out of the wave and let the guidance relax. Fainrose says the fix is error correction: don’t restore a copy, repair from the correlations that survive, in the right order. And von Wittenberg says the record isn’t inside 4C at all, it’s on the horizon, coming out in the radiation, and the fix is to listen faster than it burns.”
+1906|“Those are four different physics,” said Fainrose, “held by four people who have never once agreed on anything else.”
+1907|“Yes,” said Lolly. “And Bellew told me not to pick until something forced me to, and to use whichever one told me where to put the probe.” She closed the notebook. “Nothing has forced me to pick. So I’m not going to. I’m going to use all four, because none of them actually contradicts what we do with a cable and a timing rack on an ordinary working afternoon. They only contradict each other about what it means. Nobody has ever asked us to certify what it means. The injunction asks us to fix nine thousand houses in eleven weeks.”
+1908|Fainrose was quiet for a moment, in the stillness that Lolly now knew to wait out rather than fill.
+1909|“Say the plan,” she said. “Slowly. I want to write it down exactly once.”
+1910|She said the plan slowly.
+1911|Von Wittenberg’s people would go to the horizon and listen — not to solve anything, but to recover, from the scrambled radiation, whatever fragments of the four hundred and eleven suppressed states — the P-9 log, closed at last — could still be pulled out before the anchor finished evaporating, on the working assumption that the record was written on the surface and not lost inside it. That was the deadline, and it was fixed, and nothing anyone did elsewhere would move it.
+1912|Meanwhile, Fainrose’s team would treat the correlation lattice exactly as error-correcting code, exactly as she had described to Voller in the cold vault: not restoring any single node, but repairing the pattern across all of them, in the order the syndrome tables specified, measuring damage without measuring the citizens who carried it.
+1913|And the apparatus — the survey scanners, the certification passes, the entire industrial machinery of asking — would be switched off first, before any repair began. If de Brévanne was right that the apparatus itself had been deforming the guidance, then the most useful thing anyone could do before a clever repair was to stop making it worse.
+1914|“That’s not physics,” said Fainrose. “That’s just turning it off.”
+1915|“It is the least fashionable intervention available,” said Lolly. “That’s what turning it off is, when you’ve spent fifteen years arguing about the theory instead. De Brévanne didn’t give me a new machine. He gave me permission to stop running the old one before we’d agreed why it was broken.”
+1916|Gideon Wigglesworth, who had come up from the requisition archive that morning and been sitting by the window with a coffee gone cold an hour ago, and had said nothing for so long that everyone except Lolly had stopped noticing him, said, “You’ll still need to know where the off switch actually is.”
+1917|Fainrose looked round. “I beg your pardon.”
+1918|“The scanners. The certification passes. The entire industrial machinery of asking, you said.” Gideon set his cup down with care. “Nobody built one switch. They built forty, over fifteen years, in whatever cupboard was nearest. Nobody ever plans a shutdown; they only ever plan a launch. If you want it off, you don’t need a theory. You need someone who has spent three years reading requisition forms and already knows which cupboard the relay is in.”
+1919|“And you know,” said Lolly.
+1920|“I know which nineteen cupboards it might be in,” said Gideon. “I can find out the other one by Thursday.” He stood to go and refill his coffee, misjudged the doorway by the same half-inch he had been misjudging it for as long as Lolly had known him, and did not, on this occasion, spill any of it, which she chose to take as a good omen.
+1921|Beatrix wrote this down in the flattened, unpoetic language a court could not misread, and delivered it at four o’clock precisely. The Board — which had wanted a plan mainly in order to reject one — discovered it could not credibly call this absent, and was obliged, for the first time in the Initiative’s history, to fund something rather than merely surviving a review of it.
+1922|The deadline was no longer an administrative fiction. At 4C, the anchor had begun to lose mass. Every hour they spent arguing about interpretation was an hour in which information could become physically unrecoverable.
+1923|Gideon looked at the clock. “We should probably stop debating whether we’re ready.”
+1924|Beatrix looked at him. “Why?”
+1925|“Because the universe doesn’t appear to have asked whether we are.”
+1926|It was that same afternoon, with the plan on the Board’s desk and not a scanner yet switched off, that Mrs Elspeth Chain came to the annex and asked to see Fainrose alone, which she had not done before.
+1927|Lolly was not present for the conversation. She learned what mattered from Fainrose afterward, on the crate by the timing rack, with two mugs of the annex tea, which nobody had improved.
+1928|“She asked me for a number,” said Fainrose. “How much of her sister we would get back. A percentage. She wanted it before the injunction ran out, not after, because she said she had spent her whole life being told good news arrived on time and had never once seen it happen and did not intend to be surprised twice.”
+1929|“And you gave her one.”
+1930|“I told her the truth, which is that I did not know, and that anybody who told her a number this week was lying to her for the same reason Voller lied to himself about the vault — because a number is comforting and a distribution is not, and she deserved the distribution.” Fainrose turned the mug in her hands. “She said that was the first honest answer anybody in this building had given her, and that she would come back when there was one worth hearing. Then she left without shouting, which frightened me considerably more than if she had.”
+1931|Lolly thought about the photograph on the mantelpiece, restored by a man pulling a cable out of a skirting board without permission, and about the two duvets, and about a woman standing in a doorway in her own house asking a government to explain itself.
+1932|“What do we actually owe her,” she said. “Not the district. Her.”
+1933|Fainrose did not answer immediately, which she had learned to recognise as the shape of an answer arriving.
+1934|“I used to think the job was restoration,” she said at last. “Put it back. That’s what I trained for, that’s what the vault was supposed to do badly, that’s what we are about to spend the winter doing carefully instead. But de Brévanne asked me, in the first week of all this, whether a fully restored district — every node repaired, every correlation exact — would in fact be a country, or merely a very good forgery of the country that would have existed if nobody had touched it. And I did not have an answer, and I am unused to that, and I have decided I dislike it less than I expected.”
+1935|“What’s the alternative to restoration.”
+1936|“Not a cartoon. Not a copy. Not a photograph of a conversation.” Fainrose looked at her. “Something that is allowed to have come through this. A district that remembers, imperfectly and honestly, that a Ministry once stood in its wave with a clipboard — rather than one so perfectly repaired that the crime leaves no mark and therefore, eventually, no lesson. Mrs Chain does not want her sister back exactly as she was. She wants her sister recoverable, not undamaged — she has said it in my own words from week one, which she is entitled to do. I meant it as the difference between a person and a form, then put it down and went back to the syndrome tables. She kept it. None of the rest of us did.”
+1937|Lolly opened the green notebook and found the page from the night of the cold vault, Fainrose’s words, jotted beneath the note about the code, almost as an afterthought: She will be recoverable. That is not the same as unharmed.
+1938|“Then that’s the plan,” she said slowly. “Not full-state reconstruction. Not the vault’s dream of exactness. A negotiated settlement between what was and what can honestly be recovered — published, itemised, with the gaps named rather than papered over. Von Wittenberg’s list, when it comes. Whatever fraction it turns out to be.”
+1939|“A country that admits its own scar tissue,” said Fainrose, “rather than one that pretends to have been born without a wound.”
+1940|“Will the Board accept that.”
+1941|“The Board,” said Fainrose, “will accept whatever a court orders it to accept, and courts, it turns out, have a great deal of respect for an itemised list of gaps and no respect whatever for a certificate of perfection. Beatrix explained this to me on the second day and I did not believe her and I believe her now.”
+1942|They sat for a while without talking, which by then had become one of the more comfortable things either of them did.
+1943|“I keep thinking about the moon,” said Lolly eventually.
+1944|“Outer Fenwick.”
+1945|“It didn’t need forty-one people to stay a moon. It needed the air to be let alone to keep noticing it.” She turned the notebook to a blank page. “I think that’s what we’re actually trying to give Mrs Chain back. Not a certificate. Not a copy. Just — permission for her ordinary life to go on being noticed by everything around it, undisturbed, so it can stay itself without anyone standing over it with a form.”
+1946|“That is either the plainest sentence you have said since breakfast,” said Fainrose, “or the most sentimental, and I find I am too tired to tell which, which may itself be the first reliable instrument reading we have had all afternoon.”
+1947|She wrote it down anyway.
+1948|Beatrix looked in from the corridor. “It’s on their desk,” she said. “We have a plan. They have a Board. I know which of those I would rather take into a courtroom.”
+1949|→ Physics Notes for this chapter: Quantum Error Correction, Partial Recovery and Planning Without an Interpretation
+
+=== CH16 OPENING ===
+1950|Chapter 16: The Decision
+1951|The written order was sealed on the Tuesday, once the plan the Board had demanded on the Monday — as the price of losing the hearing — was on the judge’s desk. He understood none of the physics and all of the paperwork, which turned out to be sufficient. Beatrix Sloan had not argued that reality had been damaged. She had learned, by then, that courts do not adjudicate ontology. She had argued instead that the Ministry had certified nine thousand separate local determinations while holding, in its own filing system, a measurement establishing that they were one act — and that a body which certifies nine thousand times what it knows to be one thing has not made an error of physics but a false instrument in a live system. Which is a thing the law has known how to dislike since the fourteenth century, as the Duc de Brévanne observed with some satisfaction from the public gallery.
+1952|They got eleven weeks. It was not enough, and nobody had prepared a form in which enough was an available option. Von Wittenberg’s people listened to the horizon for nine of them, from a rented industrial unit outside Sub-District 6, with equipment that cost more than the district’s entire housing stock and had, for that reason, a more generous maintenance schedule, and that Fainrose described, in her only published remark on the matter, as “an ear held against a burning wall.”
+1953|Of the four hundred and eleven P-9 states, they recovered three hundred and eight. It was not a triumph and Fainrose refused, in every interview afterwards, to let it be described as one. They were pending human states, unscrambled from the radiation and returned to the districts they had come out of: a child’s route to school, a marriage in the middle of being decided, an apprenticeship, two reconciliations, a great many small unfinished intentions of no civic significance whatever.
+1954|One hundred and three were not recovered, and their names were published, because Beatrix insisted, and because Miss Dorothy Kell — whose brother’s apprenticeship was one of the hundred and three, and who had written to the inquiry every week since the freeze — said that a list of the unrecovered was the only memorial such things could have.
+1955|By the second week of November the operation had stopped resembling physics and had started resembling a hospital corridor: mostly waiting, occasionally interrupted by everyone in the room forgetting, briefly and in unison, how to breathe.
+
+=== CH16 CLOSING ===
+1962|Nobody objected, which in a Ministry annex at one in the morning was the closest thing to unanimous consent that existed.
+1963|Gideon Wigglesworth, who had spent the last two hours failing to locate a plug socket that was, by his own later admission, directly behind him, straightened up with the abrupt clarity of a man who has just understood something he wasn’t trying to understand. “It’s not a valve,” he said. “Everyone’s been treating it like a valve. It’s a — ” He stopped, visibly hunting for the word, found it, looked faintly betrayed by how obvious it now seemed. “It’s a bridge. You don’t turn a bridge off. You take it down.”
+1964|Beatrix looked at him for a long moment. “That is either the most useful thing anyone has said in this room in eleven weeks,” she said, “or you have been standing near a filing cabinet radiating something we should be measuring.”
+1965|“Possibly both,” said Gideon, and walked, with some dignity, directly into the filing cabinet.
+1966|They cut the coupling at 06:04 on the fourteenth of November. It was not dramatic to watch — a technician in a borrowed coat opened a junction box that had not been opened since the annex was built, located the correct relay by the light of a torch held in her teeth, and removed it, the way one removes a fuse. The junction box itself had been found, three days earlier, by Gideon Wigglesworth, who had gone through nineteen requisition ledgers by hand and got it right on the first try, a fact he mentioned only once and only when nobody appeared to be listening. For eleven seconds nothing happened, which was the longest eleven seconds of Lolly’s professional life, four hundred and eleven pending states and one entire district balanced on a torch battery and a woman’s steady hand.
+1967|Even Beatrix Sloan, who had spent eleven weeks being audibly certain about everything, said nothing at all for the whole eleven seconds, and did not reach for her pen until it was over, which Lolly understood to be the nearest thing to fear that Beatrix Sloan permitted herself in public.
+1968|Then the coherence monitor Fainrose had left running since Sub-District 6 — flat at 1.2 for eleven weeks, with the patience of something that had given up being interesting — climbed to 2.79 in slightly under forty minutes, and stopped.
+1969|Fainrose read it twice. “That’s disconnection,” she said, in the voice of someone reporting a result she had stopped allowing herself to expect. “Clean disconnection. The number climbs because the houses can finally hold together with one another again — they had been spending all of it on the anchor, and the anchor has let go. It’s not listening to us any more. It’s just — a black hole. An ordinary, boring, evaporating black hole, doing the only thing black holes are supposed to do, which is leave.”
+1970|Nobody cheered. Lolly noted, and later wrote in the green notebook, that this seemed correct: there is no ceremony appropriate to successfully stopping a government department from continuing to be haunted.
+1971|→ Physics Notes for this chapter: Thermodynamics
+WORDCOUNT_CH16=1246
+
+=== CH17 OPENING ===
+1972|Chapter 17: A Very Good Obituary
+1973|The districts resolved over the following month, badly and thinly and in the wrong order, and on every screen at every desk in the building it looked exactly like collapse — which is why Crispin Vale — who by then had testified for eleven days, every hour of it against the directive he had signed, and had stopped bringing biscuits, a loss the inquiry did not minute — was blamed for the disorder the recovery made rather than credited for the eleven days that had made the recovery lawful at all. It was, almost to the word, what Fainrose had said would happen to whoever stood up in that inquiry and told the truth. She took no visible pleasure in being right.
+1974|The Fenwick mast was found in the weeks after the coupling was cut, by Jago Flint, who went back with a stepladder and the specific expression of a man who does not trust a wiring diagram he has not personally stood underneath.
+1975|It was disguised as a decorative weathercock on the roof of the Memorial Hall — copper, verdigrised to precisely the shade a real one would manage after forty years, and mounted at the one angle that kept anybody standing on the ground from getting a proper look at the housing bolted beneath the cockerel’s tail. Jago got the housing open with a screwdriver he was not, strictly, supposed to be carrying, and found considerably more electronics than a weathercock strictly requires, along with a small brass plate that read PROPERTY OF THE SIMPLIFICATION INITIATIVE in the Ministry’s own condescending capitals.
+1976|“It’s not even hidden well,” he said, to nobody, the only witness being a pigeon that had clearly known for some time and had opinions about the arrangement it was keeping to itself. “It’s hidden the way a bill is hidden inside a birthday card.”
+1977|Mrs Prosser arrived with tea before he had finished writing it up, on the grounds — offered without being asked — that fourteen months of running a moon rota had given her a professional sense for when official misconduct was about to be confirmed nearby, and she liked to be present for it. She looked at the mast, then at Jago, then at the pigeon, and appeared satisfied with all three.
+
+=== CH17 CLOSING ===
+2006|Werner Heitmann sent a letter. It was two lines long. It said: The measurement was correctly performed and the inference is sound. I have never in my life been able to say more than that and I have never been able to say less. Fainrose kept it in the front of the syndrome file for the rest of her career.
+2007|Jack Bellew did not appear again, which Lolly chose to interpret as approval.
+2008|Mr Voller was reassigned to Backup Standards in January, where he wrote, over the objections of at least four separate committees, a new specification requiring every departmental backup to state its own margin of error on the front page, in bold, above the signature line. Nobody thanked him for it. He minded, visibly, and did it anyway, which was as close as Voller ever came to growth, and rather more than Lolly had expected of him.
+2009|In February, Stephanie Fainrose was appointed to chair the reconstituted oversight body, on terms she dictated in writing and which included the phrase no certificate may require the simultaneous determination of conjugate quantities, and she offered Lolly Wren the post of Principal Officer, Relational Integrity, which was a job title she had invented late on a Thursday and would spend the next eight months defending with the ferocity of a constitutional principle.
+2010|She asked what the work was.
+2011|“Noticing,” said Fainrose. “Professionally. With a budget.”
+2012|“I’m not qualified.”
+2013|“Lolly,” she said, “we have been over this in a car park.”
+2014|She took it, and kept the green notebook, which by then had four hundred pages and had begun a second volume, and which is quoted in the schedule to the Act.
+2015|→ Physics Notes for this chapter: Negentropy
+WORDCOUNT_CH17=1527
+
+=== CH18 OPENING ===
+2016|Chapter 18: There Is No Lid
+2017|And on a Friday in March, in the reading room of the branch library on Coldharrow Street, at the table by the window overlooking the shut-down carpet showroom, she found a very old Austrian gentleman waiting for her with a wooden box on the table and two cups of coffee already going cold.
+2018|“Sit,” said the old man. “I have ordered you a coffee and it is already unpleasant, which is the most reliable thing in this building. Erich Schrottfinger. You have been sent to me by a dead Irishman, a French duke, and a vampire, which is a referral pattern I have not had since 1953.”
+2019|He was very old and very Viennese, in a bow tie that had been tied by somebody who cared, with a great deal of white hair and an air of enormous and slightly disreputable charm. The box between them was about the size of a hatbox, with air holes.
+2020|Lolly looked at the box.
+2021|“Don’t,” said Schrottfinger. “It is empty. It has always been empty. It was always a joke, Ms Wren, that is the thing nobody will accept — I invented it to be ridiculous, to show my colleagues that their position led somewhere absurd, and within twenty years it was on the side of coffee mugs. You cannot win. You make one sarcastic remark about a cat and it outlives your equation.”
+
+=== CH18 CLOSING ===
+2050|He went out through the reading room, past the local history shelves, and cast a completely ordinary shadow, and did not look back.
+2051|Lolly sat by the window for a while with the cold coffee and the noise of Coldharrow Street coming through the glass — a district in the middle of resolving, badly and slowly and in the wrong order, and not finished.
+2052|Then she took out the notebook, and turned to a clean page, and wrote at the top:
+2053|PROLOGUE
+2054|And underneath:
+2055|Order is not free. Simplicity is always paid for somewhere else, and any institution that will not say where is lying or ignorant, and it does not matter which. The universe is mostly not yet. Almost everything is still pending. That is not a fault in the filing.
+2056|Then, last, in the ordinary handwriting of someone who had somewhere to be:
+2057|There is no lid.
+2058|THE END which is to say, the beginning of the part that has not been written down.
+2059|→ Physics Notes for this chapter: The Long Future
+WORDCOUNT_CH18=2125
+
+=== EPILOGUE FULL ===
+2060|Epilogue: The Ministry Has Learned Nothing
+2061|Three weeks after the incident, the Ministry issued a statement.
+2062|It was signed by Q.E.D., whose full name was Quentin Edmund Darling, allegedly.
+2063|It was seventeen pages long.
+2064|The first sixteen pages explained that nothing unusual had happened.
+2065|The seventeenth explained that the unusual thing which had not happened had nevertheless been handled in accordance with procedure.
+2066|Nobody was entirely sure which procedure.
+2067|“So everything is fine,” said Gideon.
+2068|“Is it?” said Lolly.
+2069|“Allegedly.”
+2070|“Obviously.”
+2071|Everything else took the winter, and most of it has been written down already.
+2072|Mrs Chain was given a seat on the citizens’ panel that now had to countersign every continuity order before it could be issued — a body which existed, more or less, because she had proved impossible to keep out of things. Human Resources tried to process her as a new employee, was corrected at length, and filed the result as a promotion. She accepted on the understanding that it did not involve more meetings. Human Resources disagreed, which was unfortunate for Human Resources.
+2073|Beatrix Sloan billed the Ministry for eleven weeks of emergency litigation and was paid within the statutory deadline for the first time in the Initiative’s history, a result she found considerably more suspicious than the black hole.
+2074|Crispin Vale went home after eleven days of testimony, having been thanked for his candour and blamed for the disorder in the same week. The Ministry opened a form to confirm that he was no longer required as a witness, and never closed it. On paper he remains unexcused. In person he is in a garden in Woking, declining to take calls.
+2075|Nobody minuted that either.
+2076|Jago Flint put a sign on his door: REALITY UNDER REVIEW. PLEASE DO NOT ASSIST.
+2077|Gideon Wigglesworth was given a commendation for locating the coupling relay, which he accepted while walking directly into the frame holding it, an outcome the ceremony’s organisers agreed, afterwards, felt entirely appropriate.
+2078|It was not.
+2079|Gideon’s new office was three doors down, a fact Lolly had established on the first morning and mentioned to nobody.
+2080|Then the complaint terminal clicked.
+2081|COMPLAINT TYPE: FUTURE DISCREPANCY SUBCATEGORY: EVENT HAS OCCURRED BUT IS NOT YET SCHEDULED URGENCY: MODERATE TO EXISTENTIAL
+2082|Lolly looked at her tea. Then at the notebook. Then she wrote:
+2083|Obviously, this is someone else’s problem.
+2084|The terminal clicked again.
+2085|It printed a form.
+2086|The form was dated tomorrow.
+2087|Somewhere in the building, a filing cabinet opened by itself and accepted a document that had not yet been written.
+2088|Somewhere else, a physicist would eventually explain why.
+2089|Probably.
+2090|Allegedly. Apparently. Or, as the Ministry preferred to put it, all is well. Or is it?
+2091|And in the basement, beneath several floors of perfectly respectable bureaucracy, the Ministry continued to simplify reality by making it someone else’s problem.
+2092|Which was, after all, what it had been designed to do.
+2093|THE END.
+2094|Obviously.
+WORDCOUNT_EPILOGUE=486
+
+WORDCOUNT_CH15=2754
+WORDCOUNT_CH9=2270
+WORDCOUNT_CH10=1609
+
+=== PHYS NOTES CH15 SHOWING ===
+2500|What this chapter was actually showing you. Fainrose’s first Bell run is beautifully clean and worthless: the apparatus shared the Ministry’s clock, so it measured the Ministry and subtracted it from itself. Lolly sees the shape before the explanation finishes. The repaired Sunday test gives Bellew’s number; Beatrix takes it to court on the Monday; the Board, cornered, demands a plan by four o’clock. Lolly refuses to pick an interpretation. She puts all four into one plan: switch the scanners off first (de Brévanne), repair the lattice from surviving correlations (Fainrose), listen to the horizon before 4C finishes evaporating (von Wittenberg), and spread agreement rather than forge a copy (Keinschein). Gideon knows where the actual relays are. That same afternoon Mrs Chain asks Fainrose for a percentage and is refused a comforting number. The chapter’s standard of success is named here and not yet delivered: recoverable, not unharmed; an itemised list of gaps, not a certificate of perfection. Beatrix confirms it is on the Board’s desk. They have a plan. The Board has a Board. The scanners are still on.
+2501|Where the popular version goes wrong. Error correction is not a time machine and it is not covert cloning. It protects a state only because the information was encoded before the relevant damage and because enough controlled correlations remain accessible. Decoherence – the environment-blabbing effect from Chapter 10 – is especially serious here: once an uncontrolled environment has become entangled with information and the needed correlations are unavailable, a local repair cannot simply command it back. A threshold is not a universal percentage at which all recovery suddenly becomes hopeless; it depends on the code and the noise. Nor does successful engineering choose an interpretation. Copenhagen-style accounts, many-worlds and pilot-wave theory remain experimentally indistinguishable, even though they can all guide the same laboratory precautions.
+2502|Going deeper (skip freely). This block is optional. Peter Shor’s 1995 code and Andrew Steane’s 1996 code showed explicitly how a logical qubit can be protected by entangling it with several physical qubits and measuring error syndromes rather than the encoded amplitudes. A code’s distance determines how many errors it can certainly correct in an idealised model; for an error-correction threshold pth, physical error rates p < pth can in principle be suppressed by increasing the code size and running fault-tolerant correction. For p > pth, enlarging the procedure does not rescue the computation because new faults outrun the redundancy. A useful recovery score is fidelity,
+2503|F(ρ,σ) = ( Tr √( √ρ σ √ρ ) )2,
+2504|which compares a recovered state ρ with its target σ. It permits a graded, honest result, but no score transforms unavailable environmental information into an exact original history.
+2505|What the reader learns
+2506|• Quantum error correction uses distributed correlations and syndrome measurements, not a forbidden copy of an unknown state.
+2507|• Thresholds are code- and noise-dependent limits beyond which errors accumulate faster than a code can control them.
+
+=== PHYS NOTES CH17 SHOWING ===
+2542|What this chapter was actually showing you. Lolly delivers Mrs Chain a figure — seventy-eight per cent of her sister, as much of the pattern as survived the listening — and Mrs Chain names it correctly: a very good obituary, not a resurrection. The photograph a burglar has the decency to return is worth more than a government signature because it is a remaining correlation, not a claimed whole. Lolly’s new work, “Noticing, professionally, with a budget,” is the humane version of this bookkeeping: trace what still holds, name what does not, and refuse the vault’s dream of exactness. The Fenwick mast, found in the weeks after the coupling was cut and billed as an amenity, is the same accounting in civic miniature: order on the street, disorder on the invoice, a revised quorum of thirty-nine pretending to be a response to evidence.
+2543|Where the popular version goes wrong. “Negentropy” does not mean life beats entropy. Life exports entropy while maintaining local structure. Schrödinger’s cat, which belongs to the next note, was not a claim that living things occupy contradictory states until observed; it was a 1935 complaint about measurement. A person is a poor thing to render as a fraction, and the fraction is still more honest than a green tick on a vault manifest.
+2544|Going deeper (skip freely). This block is optional. In What Is Life? (1944), Erwin Schrödinger said that organisms feed on “negative entropy”; modern thermodynamics states the point more precisely as entropy export by open systems. The Ministry’s vault promised a perfect classical copy of a prior state. That was already forbidden by the no-cloning result in Chapter 8. This chapter adds the living-system reason the same promise is dishonest even as an ideal: a life is a pattern held against the current, paid for elsewhere, and never a sealed file.
+2545|What the reader learns
+2546|• Schrödinger’s negentropy is an account of life maintaining order, not an exception to the second law.
+2547|• Honest recovery reports the pattern that survives. It does not mint a person who was never damaged.
+2548|• A tidy certificate can conceal a mess; it cannot repeal the ledger.
+2549|One-line summary. Seventy-eight per cent of a life, named as such, is truer than a hundred per cent of a form.
+
+=== PHYS NOTES CH15 SECTION HEADS ===
+2488|Chapter 15: Physics Notes: Quantum Error Correction, Partial Recovery and Planning Without an Interpretation
+2489|← Back to Chapter 15: Final State Pending
+2490|This is the chapter where “good enough, honestly reported” became the actual standard, rather than the thing I said when a better one wasn't available.
+2491|In one breath. Quantum error correction can repair damage by using correlations spread across many physical systems, but it cannot recreate information that has leaked irretrievably away. That is why the honest standard becomes recoverability rather than an impossible guarantee of being unharmed, an
+2492|Start here. Think of a mural copied across a row of tiled walls. If one tile cracks, the repeated pattern around it can show a restorer what probably belonged there. If a fire takes half the walls, the surviving pieces may still support a careful partial repair, but no honest restorer can promise to
+2493|The idea, step by step
+2494|1. The no-cloning result from Chapter 8 says that an unknown quantum state cannot be kept as an ordinary perfect backup copy.
+2495|2. Quantum error correction instead encodes one logical state across several physical systems, so that the information lives in their joint pattern rather than in one vulnerable place.
+2496|3. A syndrome measurement asks which sort of damage occurred without reading out the protected logical state itself; it is a physical interaction, not a conscious observation.
+2497|4. Every code has a threshold: below its tolerable error rate, repeated correction can make the logical information more reliable as the code is enlarged; above it, damage accumulates faster than correction can contain it.
+2498|5. When uncontrolled surroundings have carried away too much of the joint pattern, the missing information cannot be reconstructed from the survivors alone, however much paperwork asks for it.
+2499|6. Different interpretations can disagree about what the state means while agreeing on the same practical sequence: stop adding damage, collect surviving evidence, correct what the syndromes justify, and publish the uncertainty.
+2500|What this chapter was actually showing you. Fainrose’s first Bell run is beautifully clean and worthless: the apparatus shared the Ministry’s clock, so it measured the Ministry and subtracted it from itself. Lolly sees the shape before the explanation finishes. The repaired Sunday test gives Bellew’
+2501|Where the popular version goes wrong. Error correction is not a time machine and it is not covert cloning. It protects a state only because the information was encoded before the relevant damage and because enough controlled correlations remain accessible. Decoherence – the environment-blabbing effe
+2502|Going deeper (skip freely). This block is optional. Peter Shor’s 1995 code and Andrew Steane’s 1996 code showed explicitly how a logical qubit can be protected by entangling it with several physical qubits and measuring error syndromes rather than the encoded amplitudes. A code’s distance determines
+2503|F(ρ,σ) = ( Tr √( √ρ σ √ρ ) )2,
+2504|which compares a recovered state ρ with its target σ. It permits a graded, honest result, but no score transforms unavailable environmental information into an exact original history.
+2505|What the reader learns
+2506|• Quantum error correction uses distributed correlations and syndrome measurements, not a forbidden copy of an unknown state.
+2507|• Thresholds are code- and noise-dependent limits beyond which errors accumulate faster than a code can control them.
+2508|• Information that has escaped into inaccessible surroundings can make exact recovery genuinely impossible.
+2509|• Practical quantum work can be correct without settling which interpretation of quantum mechanics is right.
+2510|One-line summary. The honest plan is not the one that promises a perfect past, but the one that repairs what survives and names what does not.
+
+=== PHYS NOTES CH17 SECTION ===
+2531|Chapter 17: Physics Notes: Negentropy
+2532|← Back to Chapter 17: A Very Good Obituary
+2534|I wrote this note after delivering the certificate, not before. I wanted to be sure I could explain what a person is owed before I explained what a scheme is owed.
+2535|In one breath. A living thing maintains local order by importing usable structure and exporting disorder. Schrödinger called that intake negative entropy, or negentropy. It is a scheme within the accounts, not an exemption from them — which is why a seventy-eight per cent certificate can be honest a
+2536|Start here. A living body works on the same principle as the tidy kitchen: it keeps an intricate pattern going by taking in useful food and sunlight and sending heat and waste out into the wider world. The pattern is real. It is also never a sealed, complete duplicate of what it was yesterday.
+2537|The idea, step by step
+2538|1. A living thing is an open system: it maintains local order by importing low-entropy resources and exporting heat, waste and entropy to its surroundings.
+2539|2. Schrödinger’s phrase negative entropy, or negentropy, describes that intake of usable order; it is not a loophole in the second law.
+2540|3. What can be honestly said about a recovered life is the pattern that still holds, not a forged completeness.
+2541|4. A certificate of perfection would conceal the exported cost. An itemised gap keeps the ledger readable.
+2542|What this chapter was actually showing you. Lolly delivers Mrs Chain a figure — seventy-eight per cent of her sister, as much of the pattern as survived the listening — and Mrs Chain names it correctly: a very good obituary, not a resurrection. The photograph a burglar has the decency to return is w
+2543|Where the popular version goes wrong. “Negentropy” does not mean life beats entropy. Life exports entropy while maintaining local structure. Schrödinger’s cat, which belongs to the next note, was not a claim that living things occupy contradictory states until observed; it was a 1935 complaint about
+2544|Going deeper (skip freely). This block is optional. In What Is Life? (1944), Erwin Schrödinger said that organisms feed on “negative entropy”; modern thermodynamics states the point more precisely as entropy export by open systems. The Ministry’s vault promised a perfect classical copy of a prior st
+2545|What the reader learns
+2546|• Schrödinger’s negentropy is an account of life maintaining order, not an exception to the second law.
+2547|• Honest recovery reports the pattern that survives. It does not mint a person who was never damaged.
+2548|• A tidy certificate can conceal a mess; it cannot repeal the ledger.
+2549|One-line summary. Seventy-eight per cent of a life, named as such, is truer than a hundred per cent of a form.
+
+=== DISCLAIMER AREA (front matter paras ~1-29) ===
+1|Schrödinger’s Paperwork
+2|A Novel of Quantum Bureaucracy, apparently.
+4|Lolly Wren’s Curious Science Adventures
+6|Book 1
+8|By Q.E.D.
+10|Quentin Edmund Darling, allegedly.
+11|Lothar J. Musiol, obviously.
+15|All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.
+16|This is a work of fiction. Names, characters, departments, directives, forms, schedules, institutions, and incidents are either the product of the author’s imagination or are used fictitiously. Any resemblance to actual government bodies, living or defunct, is regretted rather than denied.
+17|Several characters in this book are fictional inventions inspired by real historical physicists and are given altered names for that reason. Their scientific positions are represented as faithfully as comedy allows; their personal habits, dialogue, private opinions, legal disputes and dietary requirements are entirely invented. No claim is made about any real person.
+18|The physics explained in the Physics Notes sections is presented in good faith and to the best of the author’s understanding. Where the science is unsettled, the text says so. Readers intending to sit an examination are warmly encouraged to consult a textbook as well.
+22|1st Edition
+23|© 2026 Lothar J. Musiol. All rights reserved.
+25|Dedication
+26|For everyone who has ever been asked to fill in a form in triplicate to explain something that has not, strictly, happened yet.
+27|And for the ones who kept the notebook anyway.
+28|Contents
+29|Front
+
+=== WHO IS WHO TABLE ===
+2639|A Word on Who Is Who
+2640|This novel gives away real physicists twice over, by two entirely different methods.
+2641|The first is a joke told out loud. Characters in this book say the names of real scientists without the faintest idea who they are. A woman whose crockery has been administratively altered will demand to know who Hawking is, and be told, correctly, that he is a physicist and not a department. That one is free.
+2642|The second method is quieter, and if you enjoy working things out before you are told, stop reading this page now and come back when you have finished the book. Nothing here spoils the plot. It does spoil a run of small pleasures.
+2643|Still here?
+2644|The consultants are the greatest physicists of the twentieth century, lightly disguised, mildly inconvenienced, and required to explain themselves to a Third Grade officer with a green notebook. They are not caricatures of the real people and their private lives here are wholly invented — but their physics is theirs.
+2646|No disrespect is intended to any of them, living or dead. All of them did rather more for human understanding than anyone in this book manages, and not one of them, so far as the author has been able to establish, was ever required to complete a Form 4C in triplicate.
+2647|A Note on the Author
+2648|Q.E.D. is a pseudonym.
+2649|It stands, depending on whom you ask, for quod erat demonstrandum — “which was to be demonstrated,” the phrase generations of mathematicians have written at the foot of a proof to mean, more or less, there, I told you so — or for quantum electrodynamics, the theory that finally taught physics to be honest about how thoroughly strange light and matter actually are.
+2650|Both readings are correct. That was rather the point of the book you have just finished.
+2651|The name behind the pseudonym is Lothar J. Musiol.
+2652|Mr Musiol spent more than forty years in the electronics industry: the kind of career that leaves a person fluent in oscillators, tolerances, failure modes, and the precise moment at which an engineering deadline becomes a philosophical position. Before that he studied physics seriously enough to know exactly how much of it he is simplifying here for comic effect, and exactly how much he is not. Readers who found the bra-ket notation in Lolly Wren’s green notebook oddly natural rather than decorative may draw their own conclusions.
+2653|He wrote Schrödinger’s Paperwork the way Lolly Wren does most things — carefully, in the margins of a life spent elsewhere, and with the slowly hardening suspicion that the paperwork was more interesting than anyone had given it credit for.
+2654|He is German by birth and writes in English by choice, which may explain the book’s affection for the precise word in the wrong register.
+2655|About the Series
+2656|Schrödinger’s Paperwork is Book 1 of Lolly Wren’s Curious Science Adventures, a series in which large institutions attempt to administer physics, and physics declines to cooperate.
+2657|Each book stands alone. Each teaches its own set of ideas honestly, in the same two-layer form: a comic novel that never stops to lecture, and clearly separated Physics Notes for readers who want the real science and are prepared to be told when it is unsettled.
+2658|A second volume exists, concerning a different Ministry, in a different country, with a rather different arrangement of collapsing certainties — for readers who did not, in the event, get enough forms the first time.
+2659|If this made you curious
+2660|None of the physics in this book was invented for the joke. If you would like to go further than a Ministry can take you, three places are worth the trip: Sean Carroll’s Something Deeply Hidden takes many-worlds seriously and argues for it properly; Carlo Rovelli’s Helgoland makes the case for relational quantum mechanics in prose good enough to make you forgive him for being persuasive. And if you want the same territory covered by the same author’s non-fiction companion, at considerably greater length and with rather less bureaucracy, The Quantum World goes much further into most of the questions this book only had time to dramatise.
+2661|Whichever you pick, ask the question this book kept asking — not “does it feel right,” but “what does the theory predict, and did the experiment agree.” That much, at least, was never a joke.
+2662|If you enjoyed this book
+2663|Reviews are how small books find readers. If Schrödinger’s Paperwork made you laugh, or taught you something you had been told was impossible to understand, a few honest sentences on the store page will do more good than the author can do alone.
+2664|And if it made you look at some official letter differently — at the sentence in it that quietly moves a difficulty somewhere you cannot see — then the book has done its actual work, and you may consider the notebook passed on.
+2665|There is no lid.
+
+=== TEGNER / WITTENBERG NAME HITS ===
+1694|The second arrived talking. He was younger by decades, sandy-haired, in a jacket over a T-shirt, and he came in mid-sentence with a tablet in one hand and a coffee in the other and an air of enormous delight at being ali
+1695|Fainrose said, “Sit down, Professor Tegnér.”
+1708|Tegnér had his hand half up like a schoolboy. “See, this is where I get off the bus,” he said. “Werner — may I — this is the thing. You say the question generates no numbers. But the equation generates numbers, and the e
+1711|“And so nothing was destroyed,” said Tegnér.
+1716|Tegnér turned, and to his credit he did not flinch. “She’s in the branches where the record wasn’t overwritten,” he said. “Which is most of them, statistically—”
+1721|“That’s fair,” said Max Tegnér quietly. “That’s actually a fair objection and it’s the one I’ve never had a good answer to.”
+1725|Tegnér put his coffee down. “I’d hate that,” he said. “For the record — I’d hate that. It’s a real misuse. The multiverse doesn’t make cruelty free. My branch still has the crying person in it—”
+1727|“Yeah,” said Tegnér. “Yeah, I know. That’s — yeah.”
+1729|Everyone looked at him. Bellew had not moved. He sat with his forearms on the table and his bright pale eyes going from Heitmann to Tegnér and back. “Werner says the question has no meaning. Max says the question has too
+1757|Tegnér said, “Jack. If they measure it and it violates, my picture survives that.”
+1759|“No,” said Tegnér, with real cheerfulness, “but I’ll take it. And for what it’s worth—” he turned to Mrs Chain, and did it properly, and looked at her while he said it — “you were right and I was glib. Nothing being dest
+1787|“Dr Bellew mentioned it.” The man turned. He had a pleasant, unemphatic, slightly abstracted face and the mildest possible manner, and he spoke so softly that Lolly found herself leaning forward before the sentence was f
+1789|“Yes.” Von Wittenberg gathered three sheets of paper together, apparently at random, and came and sat down opposite her. “May I ask you something before you ask me anything?”
+1797|Von Wittenberg smiled very slightly and looked out at the carpet showroom. “That is the standard answer and it is the best-tested answer in the history of thought,” he said. “It is also, I believe, wrong, and I have beli
+1799|“I am going to tell you something a little worse than that,” said Leonhard von Wittenberg apologetically. “May I use your notebook? I shall use a clean page.”
+1807|“Ah,” said von Wittenberg, and for the first time something in his face brightened. “That is the part that persuaded me. You must understand — for fifty years the great scandal of physics was that our theory of the very 
+1810|“The graviton,” said von Wittenberg. “You do not put gravity in. You cannot keep it out. It is simply one of the things the string does.” He paused. “I have never got over that. I am seventy-four and I have not got over 
+1812|“There are three, and I shall not hide them.” Von Wittenberg counted them off on his fingers, mildly. “First: the strings are so small that no accelerator we could build on this planet or in this solar system could see o
+1817|“It is, yes.” Von Wittenberg looked pleased. “And the third catch is the one that mattered most, and it is the reason I am in a library in Sub-District 6 rather than at home. For a long time there were five different str
+1819|“In 1995,” said Leonhard von Wittenberg, “I gave a talk.” He said this with the caution of a man aware that institutions have been damaged by less. He said it so quietly and so flatly that Lolly nearly missed the size of
+1820|“The five theories were not five theories,” said von Wittenberg. “They were five descriptions. Each one was a different limited view of a single underlying structure — and one could pass between them by a set of relation
+1824|“Membrane,” said von Wittenberg. “Or mystery. Or magic. According to taste. I have never settled it, and I have come to think the vagueness was accidentally honest.”
+1825|Lolly closed the notebook. “Professor von Wittenberg,” she said. “I will write down anything that tells me what they dumped into 4C. I will not take dictation on eleven dimensions until then. I have to say this. In three
+1826|Von Wittenberg did not take offence. He seemed, if anything, to have been waiting for it. “That is the right question and I shall answer it in the correct order,” he said. “First: nothing. You are supposed to do nothing 
+1831|“Alfred telephoned me on Tuesday and shouted at me for eleven minutes, which at his age is a considerable investment and, I think, a form of affection.” Von Wittenberg’s mouth twitched. “His concern, as I understand it, 
+1833|“No,” said von Wittenberg. “But I can tell you why he may be wrong, and it is the one thing my subject has actually achieved.” He turned the sheet over. “A black hole has an entropy,” he said. “Bekenstein saw it and Hawk
+1840|“Then the question becomes whether the radiation carries them out,” said von Wittenberg, “and here is the deeper thing, and it is why I asked you what the correlations were between.” He turned the sheet again. “The area 
+1842|“That is what I came to say,” said von Wittenberg. “The record of what fell in — of what they dumped — isn’t in the interior waiting to be annihilated when the interior stops existing. It’s on the horizon. It’s in the su
+1844|“Yes,” said Leonhard von Wittenberg. “And so the current view — not proven, not settled, but the view — is that evaporation does not destroy the information. It is scrambled almost beyond recovery, it emerges in correlat
+1847|“I believe it in the way de Brévanne believes his wave,” said von Wittenberg. “Which is to say: I have thought about it for decades, the mathematics is far too good to be an accident, and I cannot show it to you. Dr Bell
+1851|“You told Dr Bellew you were a physicist for eleven minutes, once.” Von Wittenberg looked faintly embarrassed. “I was a history major. I intended to be a journalist. I worked on a political campaign. I came to physics la
+1855|“You’ve been with von Wittenberg,” she said. “You’ve got the expression. Everyone gets the expression.”
+1905|“Keinschein says nothing is definite until agreement spreads, so the fix is to spread better agreement — his word, not mine, though I notice he never once told us how.” She turned a page. “De Brévanne says nothing was ev
+1911|Von Wittenberg’s people would go to the horizon and listen — not to solve anything, but to recover, from the scrambled radiation, whatever fragments of the four hundred and eleven suppressed states — the P-9 log, closed 
+1938|“Then that’s the plan,” she said slowly. “Not full-state reconstruction. Not the vault’s dream of exactness. A negotiated settlement between what was and what can honestly be recovered — published, itemised, with the gap
+1952|They got eleven weeks. It was not enough, and nobody had prepared a form in which enough was an available option. Von Wittenberg’s people listened to the horizon for nine of them, from a rented industrial unit outside Su
+1956|Von Wittenberg’s team worked in shifts around a horizon that would not hold still. Numbers came back out of the radiation in fragments, the way a memory comes back to someone recovering from a fever — a name, a colour, a
+1986|Twenty-Two Coldharrow Rise — where she had been moved when the old house was condemned — smelled of instant coffee and furniture polish, applied in that order and recently. Mrs Chain read the certificate at her own kitch
+2005|Max Tegnér testified for the prosecution, at his own request, on the specific question of whether a multiverse makes cruelty free. His answer ran to four hours and can be fairly summarised as no.
+2024|Schrottfinger pushed it aside. “Now. You have written four hundred pages and you have finished a thing, and you have come to a library on a Friday because you want somebody to tell you what it was all for, and Fainrose c
+2047|“One last thing, since you have been polite and have not once mentioned the cat’s welfare. You will be tempted, in your new post, to find out which of them was right. De Brévanne and his wave, Keinschein and his agreemen
+2439|What this chapter was actually showing you. Jack Bellew gives Mr Pilbeam a number rather than a favourite account of reality. The Ministry calls its surveys of nine thousand dwellings separate local acts; Lolly sees that
+2452|Von Wittenberg gave me eleven dimensions and considerably more enthusiasm than the evidence currently supports. I have tried to keep both, honestly labelled.
+2460|What this chapter was actually showing you. Leonhard von Wittenberg is careful not to sell strings as a remedy for Mrs Chain or as a result that can compete with Bellew’s Bell test. His tutorial is honest about what the 
+2468|One-line summary. Von Wittenberg’s own phrase for it: one object, many notes — five theories that were one theory seen from five sides.
+2471|The second half of that same conversation. Von Wittenberg does not stop at one idea, and by that point in the year, neither did I.
+2478|What this chapter was actually showing you. This is von Wittenberg’s useful contribution to 4C: Bekenstein-Hawking entropy makes the horizon a vast ledger of possible states, and holography makes Fainrose’s phrase “an ea
+2487|One-line summary. In von Wittenberg’s cautious picture, the black hole’s vanishing is not proof of loss but a brief, terrible chance to read a scrambled account.
+2500|What this chapter was actually showing you. Fainrose’s first Bell run is beautifully clean and worthless: the apparatus shared the Ministry’s clock, so it measured the Ministry and subtracted it from itself. Lolly sees t
+2584|Chapter 14 — String Theory, M-Theory, Black-Hole Entropy and Holography. Edward Witten, the 1995 work unifying five string theories into M-theory, and the reason a physicist called von Wittenberg cannot, by his own admis
+
+=== CH15 CALENDAR KEYWORD HITS ===
+-- Sunday: 1 hits
+  1888|They ran it clean on the Sunday. The number Bellew had promised in the conference room came up a little after four.
+-- Monday: 1 hits
+  1899|Beatrix Sloan won the injunction application on the Monday morning and lost the argument about what to do with it by lunchtime, because the Board, faced with an order it could not ignore, did what boa
+-- Tuesday: 0 hits
+-- Wednesday: 0 hits
+-- Thursday: 1 hits
+  1920|“I know which nineteen cupboards it might be in,” said Gideon. “I can find out the other one by Thursday.” He stood to go and refill his coffee, misjudged the doorway by the same half-inch he had been
+-- Friday: 0 hits
+-- Saturday: 0 hits
+-- week: 4 hits
+  1907|“Yes,” said Lolly. “And Bellew told me not to pick until something forced me to, and to use whichever one told me where to put the probe.” She closed the notebook. “Nothing has forced me to pick. So I
+  1930|“I told her the truth, which is that I did not know, and that anybody who told her a number this week was lying to her for the same reason Voller lied to himself about the vault — because a number is 
+  1934|“I used to think the job was restoration,” she said at last. “Put it back. That’s what I trained for, that’s what the vault was supposed to do badly, that’s what we are about to spend the winter doing
+  1936|“Not a cartoon. Not a copy. Not a photograph of a conversation.” Fainrose looked at her. “Something that is allowed to have come through this. A district that remembers, imperfectly and honestly, that
+-- o'clock: 0 hits
+-- four: 10 hits
+  1881|What the four detectors had been agreeing about, in the end, was the time. Every timing rack the Ministry owned drew its clock from the same civic distribution. The two ends of a Bell test are meant t
+  1888|They ran it clean on the Sunday. The number Bellew had promised in the conference room came up a little after four.
+  1889|Fainrose read it off the timing computer with no expression at all, which was how Lolly knew it was real. “Two point four one. Plus or minus three in the last place.”
+  1899|Beatrix Sloan won the injunction application on the Monday morning and lost the argument about what to do with it by lunchtime, because the Board, faced with an order it could not ignore, did what boa
+  1902|“That is the same thing to a Board, for four hours and two biscuits.”
+  1903|Lolly Wren, who had spent the walk back from the courthouse turning something over in the green notebook that she could not yet make into sentences, said, “We have four plans. We have never had fewer 
+  1906|“Those are four different physics,” said Fainrose, “held by four people who have never once agreed on anything else.”
+  1907|“Yes,” said Lolly. “And Bellew told me not to pick until something forced me to, and to use whichever one told me where to put the probe.” She closed the notebook. “Nothing has forced me to pick. So I
+-- afternoon: 5 hits
+  1880|The fault took a day to find and an afternoon to starve.
+  1885|The repair was not clever. It was subtraction, which by now Lolly understood to be the only move the whole business had ever actually rewarded. They cut the rig loose from anything with a crest on it.
+  1907|“Yes,” said Lolly. “And Bellew told me not to pick until something forced me to, and to use whichever one told me where to put the probe.” She closed the notebook. “Nothing has forced me to pick. So I
+  1926|It was that same afternoon, with the plan on the Board’s desk and not a scanner yet switched off, that Mrs Elspeth Chain came to the annex and asked to see Fainrose alone, which she had not done befor
+  1946|“That is either the plainest sentence you have said since breakfast,” said Fainrose, “or the most sentimental, and I find I am too tired to tell which, which may itself be the first reliable instrumen
+-- Bell: 6 hits
+  1881|What the four detectors had been agreeing about, in the end, was the time. Every timing rack the Ministry owned drew its clock from the same civic distribution. The two ends of a Bell test are meant t
+  1887|“That’s the one Bell minded about most,” said Bellew, who had come out to the hall to watch a trace he had no need to watch, being both dead and certain. “Not the detectors. The choices. If something 
+  1888|They ran it clean on the Sunday. The number Bellew had promised in the conference room came up a little after four.
+  1890|“Ceiling’s two,” said Bellew.
+  1893|Fainrose did not pack the rig away afterwards. She moved one station indoors, retuned it from Bellew’s cross-lattice correlation to the district’s own internal one, and set it to log. “That one stays,
+  1907|“Yes,” said Lolly. “And Bellew told me not to pick until something forced me to, and to use whichever one told me where to put the probe.” She closed the notebook. “Nothing has forced me to pick. So I
+-- desk: 2 hits
+  1926|It was that same afternoon, with the plan on the Board’s desk and not a scanner yet switched off, that Mrs Elspeth Chain came to the annex and asked to see Fainrose alone, which she had not done befor
+  1948|Beatrix looked in from the corridor. “It’s on their desk,” she said. “We have a plan. They have a Board. I know which of those I would rather take into a courtroom.”
+-- Mrs Chain: 2 hits
+  1936|“Not a cartoon. Not a copy. Not a photograph of a conversation.” Fainrose looked at her. “Something that is allowed to have come through this. A district that remembers, imperfectly and honestly, that
+  1945|“It didn’t need forty-one people to stay a moon. It needed the air to be let alone to keep noticing it.” She turned the notebook to a blank page. “I think that’s what we’re actually trying to give Mrs
+
+=== EIGHTH WEEK SEARCH (ch15+) ===
+
+=== PECK/VOSS SEARCH ===
+(none)

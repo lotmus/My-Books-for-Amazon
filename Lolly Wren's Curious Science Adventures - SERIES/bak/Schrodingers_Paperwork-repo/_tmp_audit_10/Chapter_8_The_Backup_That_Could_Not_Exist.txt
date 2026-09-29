@@ -1,0 +1,91 @@
+1221|Heading 1|Chapter 8: The Backup That Could Not Exist
+1222|Normal|Mr Voller had reached this stage by twenty past four. “There is a restoration protocol,” he said.
+1223|Normal|The Regional Compression Annex had by then acquired the atmosphere of a hospital in which the patient had begun offering opinions. Two of the wall displays were showing districts that did not currently agree on their own boundaries. A printer in the corner had produced eleven copies of a form that had never been designed. Somewhere below them, in the deeper part of the building where the anchor housing sat behind three doors and a good deal of optimism, something was making a sound not unlike a cathedral clearing its throat.
+1224|Normal|Stephanie Fainrose did not look up from the console. “Say that again,” she said.
+1225|Normal|Voller straightened his cuffs, which is what such men do instead of praying, having long ago misfiled the latter as an external dependency. “There is a restoration protocol,” he repeated. “Full-state civic reconstruction. We hold a reference copy.”
+1226|Normal|Beatrix Sloan turned very slowly. “You hold what.”
+1227|Normal|“A reference copy,” said Voller. “Of the pre-simplification configuration. Homes, records, routes, identity linkages. Everything the Initiative touched was mirrored before adjustment. It was a condition of approval. I signed the assurance myself.”
+1228|Normal|Lolly Wren, who had spent the last hour watching reality itemise its own injuries, felt a brief and treacherous flare of hope. It lasted approximately as long as it took her to look at Fainrose’s face. She had gone quite still.
+1229|Normal|“Mr Voller,” she said, and her voice had lost all its edges, which was infinitely worse than when it had them, “where is this copy.”
+1230|Normal|“Cold vault. Sub-level two. Independent substrate, isolated field, no live coupling.” He permitted himself the smallest recovery of dignity. “Precisely so that it could not be affected by anything occurring above.”
+1231|Normal|“And what,” said Fainrose, “is in it.”
+1232|Normal|Voller blinked. “The state. The prior state.”
+1233|Normal|“Which prior state.”
+1234|Normal|“The correct one.”
+1235|Normal|Fainrose closed her eyes for a moment. “Lolly,” she said. “Come here.”
+1236|Normal|She went.
+1237|Normal|She pulled a fresh pane onto the display and typed a short command.
+1238|Normal|The vault manifest opened: page after page of entries, each one a district, a street, a dwelling, a person, a linkage, all neatly indexed, all timestamped, all marked with a small green tick indicating successful capture.
+1239|Normal|It was, Lolly thought, one of the most reassuring documents she had ever seen, and she understood at once that this was the problem with it.
+1240|Normal|“Look at the fidelity column,” said Fainrose.
+1241|Normal|She looked.
+1242|Normal|STATE CAPTURE: COMPLETE CLASSICAL REPRESENTATION: VERIFIED PHASE RECORD: NOT APPLICABLE
+1243|Normal|She read the last line three times, in the manner of a woman hoping that words might be persuaded. “Not applicable,” she said.
+1244|Normal|“Not applicable,” said Fainrose. “They didn’t record the phase relations.”
+1245|Normal|“They could not record the phase relations,” said Lolly. “Then this isn’t a copy.”
+1246|Normal|“No,” said Fainrose. “It is a photograph of a conversation, with all the inconvenient replies removed.”
+1247|Normal|Mrs Elspeth Chain had come to the console with her umbrella in the crook of her arm and the expression of a woman determined to be present at the moment when the men admitted it. “Explain,” she said.
+1248|Normal|Fainrose turned to her, and something in her manner changed. She spoke to Mrs Chain, always, as though Mrs Chain were the only person in the room whose understanding actually mattered — which, Lolly had begun to suspect, was a fairly accurate assessment.
+1249|Normal|“When they measured your house,” said Fainrose, “in order to save it, they had to ask it questions.”
+1250|Normal|“They asked a great many.”
+1251|Normal|“Yes. And each question returned an answer. Blue wallpaper. One duvet. Husband present. Sister absent. All perfectly recordable. All faithfully written down.” She tapped the manifest. “That is what is in the vault. Answers.”
+1252|Normal|“And that is not the house.”
+1253|Normal|“That is not the house. The house was also the relations between the answers. The way the sister depended on the kitchen, and the kitchen on the route to the shops, and the route on forty years of walking it. Those relations were not answers to any question they knew how to ask. To write them down, they would have had to ask a different question — and asking it would have destroyed the answers they had already taken.”
+1254|Normal|Mrs Chain considered this for some time. “So they could have one or the other,” she said.
+1255|Normal|“Yes.”
+1256|Normal|“But not both.”
+1257|Normal|“Not both. Never both. Not by incompetence — by law.”
+1258|Normal|Fainrose’s mouth tightened. “And so, being administrators, they took the one that fitted the form.”
+1259|Normal|Jago Flint, from his position against the doorframe, said, “Forgive me. Could they not simply have made a second house and asked it the other question.”
+1260|Normal|“No,” said Fainrose.
+1261|Normal|“Why not.”
+1262|Normal|“Because you cannot copy it, Mr Flint. That is not a difficulty. That is a theorem.”
+1263|Normal|Voller made a small noise of protest. “We back up systems constantly. Every department—”
+1264|Normal|“You back up records,” said Fainrose. “You have never once backed up a state. Nobody has. Nobody will. If a general quantum state could be duplicated, you could measure the copy without disturbing the original, and the entire structure of physics would come apart in your hands like wet cardboard. It cannot be done. It has been known that it cannot be done for a very long time. It is in the literature. It is not obscure.” She looked at him. “You signed an assurance that you had done an impossible thing, and nobody in the approval chain knew enough to laugh.”
+1265|Normal|The silence that followed had a specific quality. It was the silence of five people all doing the same arithmetic and arriving at the same figure.
+1266|Normal|Lolly broke it. “Then the vault is worthless.”
+1267|Normal|“No,” said Fainrose. “Worthless would be a mercy. The vault is plausible. Which means that at some point in the next several hours, a senior person will be told that a full restoration is available, and that person will authorise it, and the system will overwrite what remains of the real configuration with a flattened cartoon of it, and it will report success in green letters.”
+1268|Normal|Beatrix had already moved. “Then we lock the vault.”
+1269|Normal|“Yes,” said Fainrose. “On what authority.”
+1270|Normal|“Mine,” said Beatrix, “retroactively.”
+1271|Normal|Voller found his voice. “You cannot seal a national restoration asset on a theoretical objection.”
+1272|Normal|Beatrix looked at him with the particular patience of an auditor who has been waiting eleven years for exactly this sentence. “Mr Voller,” she said, “I have sealed a hospital laundry contract over a missing signature. You have no idea what I am capable of when the physics is on my side. It is an unusually well-documented side.”
+1273|Normal|She began typing.
+1274|Normal|Fainrose, meanwhile, had turned back to the anchor traces, and Lolly — who had learned over the past day to read her shoulders the way sailors read weather — saw that she had stopped being angry, which meant she had started being useful.
+1275|Normal|“If we cannot restore it,” she said, “what can we do.”
+1276|Normal|“Something better,” said Fainrose. “Something the vault people never understood, because they were thinking about storage instead of structure.”
+1277|Normal|She pulled up the correlation lattice again: the great trembling web of district nodes, domestic nodes, routing lines, all of it still convergent on the black disk marked 4C. “Look at it properly, Lolly. Not as a map. As a code.”
+1278|Normal|She looked.
+1279|Normal|“There’s redundancy,” she said slowly. “The same information appears in more than one place. Mrs Chain’s sister isn’t only in Mrs Chain’s house. She’s in the ownership record, and the queue token, and the memorial photograph, and the route to the shops, and the two contradictory birth entries—”
+1280|Normal|“Go on.”
+1281|Normal|“-and no single one of those is sufficient. But together they overdetermine her.”
+1282|Normal|She felt the shape of it arrive. “You don’t need the copy. The information isn’t in any one place. It’s in the pattern across all of them.”
+1283|Normal|Fainrose permitted herself, at last, the full smile. It was brief, and slightly frightening, and Lolly understood that she had just passed an examination she had not known she was sitting.
+1284|Normal|“That,” she said, “is how one protects a delicate thing without ever holding it. You do not keep a copy. You spread it out so thin that no local damage can find enough of it to destroy. Any single node may be lost, corrupted, misfiled, or run over by a lorry, and the whole may still be recovered from what remains — provided you know which correlations to trust, and provided you repair them in the right order.”
+1285|Normal|Jago said, “And do we know the right order.”
+1286|Normal|“No.”
+1287|Normal|“Ah.”
+1288|Normal|“But we know it exists,” said Fainrose, “which is more than the Ministry has known about anything since Tuesday.”
+1289|Normal|Beatrix finished typing and stood back.
+1290|Normal|On the main display, the words RESTORATION ASSET: SEALED PENDING REVIEW appeared, followed almost immediately by three separate priority queries from three separate departments, all of which she ignored with the serenity of a woman who had already decided which hill this was.
+1291|Normal|“How long to work out the order,” she said.
+1292|Normal|Fainrose was already assembling something on the second console — a syndrome table, Lolly realised, watching the columns fill: not a list of what was broken, but a list of which combinations of breakages could be told apart from one another. “That depends,” she said, “on whether we can measure the damage without measuring the thing.”
+1293|Normal|Lolly stared at her. “Is that possible.”
+1294|Normal|“It is the only thing that is possible,” said Fainrose. “You do not ask the patient how they are. You ask whether their left hand and right hand still agree. The answer tells you where the injury is and nothing whatever about who they are — which is precisely why it does not hurt them.”
+1295|Normal|She glanced up. “It is the one form of inspection this Ministry never learned, because it requires wanting to know something other than an answer.”
+1296|Normal|Below them, in the anchor housing, the cathedral cleared its throat again.
+1297|Normal|Mrs Chain looked at the ceiling, then at the floor, then at Fainrose. “Dr Fainrose.”
+1298|Normal|“Mrs Chain.”
+1299|Normal|“When you have finished,” said Mrs Chain, “will my sister be my sister.”
+1300|Normal|Fainrose did not soften it, and Lolly thought better of her for it. “She will be recoverable,” she said. “That is not the same as unharmed. But it is the difference between a person and a form, and I intend to spend the rest of the evening defending it.”
+1301|Normal|Mrs Chain nodded once. “Then I shall make the tea,” she said, “and you will all stop apologising and start working.”
+1302|Normal|Lolly opened the green notebook.
+1303|Normal|She wrote:
+1304|Normal|No copy exists. No copy can exist.
+1305|Normal|Then, below it:
+1306|Normal|But it is written everywhere at once, faintly, and that is stronger than a copy — provided one repairs it in the right order.
+1307|Normal|And then, after a moment, in smaller letters:
+1308|Normal|They built a vault. They should have built a code.
+1309|Normal|Beatrix did not look up from the seal. “I can file a theorem,” she said. “I cannot file a hope.”
+1310|Normal|Rule: There is no perfect copy of an unknown state; what can be saved lives in the pattern, not the vault.
+1311|Normal|→ Lecture for this chapter: The No-Cloning Theorem and Quantum Error Correction

@@ -1,0 +1,19 @@
+62|Heading 1|How to Read This Book
+63|Normal|This is a satirical, absurdist novel with a strong dose of British humour. You need to know no physics at all to read it, and nothing in the story requires homework. The physics is there for the same reason the forms are there: because reality does not go away when you stop looking at it, and neither does the paperwork.
+64|Normal|But it is also an honest book, and it is built in two layers.
+65|Normal|The novel is the story of Lolly Wren, a Transit Reconciliation Officer, Third Grade, who spent ten years in the electronics trade and eleven minutes as a working physicist, and who discovers that her department has been making reality simpler by pushing the difficult parts of it into a black hole in regional infrastructure.
+66|Normal|The lectures live together in the Appendix as a real class — eighteen lectures in four parts, one per chapter (Lecture 14 in two hours). Most chapters still end the same way: a rule, and a single link to your lecture. Follow it. Each lecture tells you what you need first, what you leave knowing how to do, and then stops you cold until you can say the idea plainly to the woman in the chair.
+67|Normal|Each lecture is laid out the same way, so you always know where you are:
+68|List Paragraph|In one breath — the whole idea in a sentence or two.
+69|List Paragraph|Start here — an everyday analogy, no jargon.
+70|List Paragraph|The idea, step by step — the argument assembled in order.
+71|List Paragraph|What this chapter was actually showing you — the story and the science locked together.
+72|List Paragraph|Where the popular version goes wrong — the misconception you have probably been taught, corrected.
+73|List Paragraph|Going deeper — the real machinery, the equations, the named experiments. Explicitly skippable.
+74|List Paragraph|What sticks — the few things worth keeping without notes.
+75|List Paragraph|One-line summary — the sentence to keep.
+76|Normal|Three honest ways to read this book.
+77|Normal|For the story alone: read the chapters and stop at each rule. You will lose nothing. Not a single plot point lives in the lectures.
+78|Normal|To take the class: read each chapter, then its lecture, in order. Lecture 1 assumes nothing; Lecture 18 assumes Lecture 17. Use “The shape of the course” if you want the map. By the end you will genuinely understand superposition, measurement, entanglement, uncertainty, decoherence, Bell’s theorem, why black holes are a problem, why local order is always paid for somewhere else, and why there is no final lid — and you will know which of the things you have heard about quantum physics are false.
+79|Normal|If you are impatient: the Physics Prologue at the back summarises the entire scientific content of the book in bullet points, drily, in about ten minutes. It was written by a civil servant for other civil servants and it gives away nothing except the physics.
+80|Normal|One promise, kept throughout: where the science is genuinely unsettled — and a great deal of it is — this book says so plainly rather than tidying it away. Tidying things away is what the Ministry does, and look where that got them.

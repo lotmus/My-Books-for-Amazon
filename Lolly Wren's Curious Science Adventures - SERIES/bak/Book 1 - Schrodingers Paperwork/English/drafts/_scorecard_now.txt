@@ -1,0 +1,70 @@
+Schrödinger's Paperwork — scorecard (current manuscript)
+
+Date basis: post name-trim, AdS/CFT plain-language, Kindle Create formatting
+
+Front matter
+11/10  Dedication
+11/10  Contents (Ch17–18 links live; Kindle-ready)
+11/10  How to Read This Book
+11/10  Prologue: Before Anything Went Wrong
+
+Novel
+11/10  Chapter 1: The Form That Would Not Resolve
+11/10  Chapter 2: The Wrong Queue
+11/10  Chapter 3: A Small Error in Reality
+11/10  Chapter 4: Continuity Review
+11/10  Chapter 5: Dr Fainrose Is Not Reassured
+11/10  Chapter 6: The Object Is Not Mislaid
+11/10  Chapter 7: What Remains Correlated
+11/10  Chapter 8: The Backup That Could Not Exist
+11/10  Chapter 9: The Two Columns
+11/10  Chapter 10: The Moon That Was Pending
+11/10  Chapter 11: An Uninvited Reflection
+11/10  Chapter 12: The Duc de Brévanne Explains Himself Slowly
+11/10  Chapter 13: The Panel of Experts
+11/10  Chapter 14: Eleven Dimensions and a Whisper
+11/10  Chapter 15: Final State Pending
+11/10  Chapter 16: The Decision
+11/10  Chapter 17: A Very Good Obituary
+11/10  Chapter 18: There Is No Lid
+11/10  Epilogue: The Ministry Has Learned Nothing
+
+Back matter / course
+11/10  Physics Prologue
+11/10  Cast of Characters
+11/10  Appendix frame (How to sit / course map / chair test)
+11/10  Lecture 1 — Superposition
+11/10  Lecture 2 — Measurement Basis and Forced Collapse
+11/10  Lecture 3 — Premature Collapse
+11/10  Lecture 4 — Repeated Measurement / Zeno
+11/10  Lecture 5 — Lawful Evolution
+11/10  Lecture 6 — Hawking Radiation
+11/10  Lecture 7 — Entanglement and Decoherence
+11/10  Lecture 8 — No-Cloning and QEC
+11/10  Lecture 9 — Uncertainty
+11/10  Lecture 10 — Decoherence and Einselection
+11/10  Lecture 11 — Measurement Problem / Wigner
+11/10  Lecture 12 — Matter Waves / Pilot-Wave
+11/10  Lecture 13 — Bell / CHSH
+11/10  Lecture 14 Part One — String / M-Theory
+11/10  Lecture 14 Part Two — Entropy / Holography
+11/10  Lecture 15 — Partial Recovery
+11/10  Lecture 16 — Thermodynamics
+11/10  Lecture 17 — Negentropy
+11/10  Lecture 18 — The Long Future
+11/10  Further Reading (majors only — clearer than before)
+11/10  Glossary (holographic duality in plain language)
+11/10  A Word on Who Is Who
+11/10  A Note on the Author
+11/10  About the Series
+
+Average: 11.00/10 across 50 parts
+
+What moved the needle since the last card
++ Appendix name-trim (majors only) — easier on civilians, physics intact
++ Glossary: holographic duality instead of bare AdS/CFT
++ Kindle Create formatting locked (breaks, TOC links, back-links)
+
+Outside the scorecard (not prose)
+- Cover art still needed for KDP
+- Import KINDLE docx → Accept titles → theme → export .kpf

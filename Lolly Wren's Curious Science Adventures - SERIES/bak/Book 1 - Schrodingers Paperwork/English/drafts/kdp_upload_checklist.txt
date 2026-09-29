@@ -1,0 +1,45 @@
+KDP upload checklist — Schrödinger's Paperwork (Book 1)
+
+FILES
+- Interior: Schrodingers_Paperwork_BOOK_1.docx (or KINDLE / Photo twin — same text)
+- Description: paste from kdp_description FINAL.txt (also mirrored in description.docx)
+- Cover: use front cover prompt.txt / back cover prompt.txt with your designer or image tool
+- Paperback: 6×9" trim; keep barcode clear zone on back (see back cover prompt)
+
+CATEGORIES (pick two; adjust to KDP's current browse tree)
+1. Fiction > Humorous > General  (or Satire)
+2. Fiction > Science Fiction > Hard Science Fiction
+Alternates if available: Fiction > Absurdist; Fiction > Literary
+
+KEYWORDS (up to 7; no need to repeat title/author)
+1. quantum mechanics fiction
+2. satirical bureaucracy novel
+3. science comedy british humour
+4. physics explained in a novel
+5. black hole information paradox fiction
+6. absurdist workplace satire
+7. educational science fiction adults
+
+LOOK INSIDE
+- Starts at How to Read → Prologue (Physics Prologue and Cast are after the Epilogue)
+- Verify on KDP previewer after upload
+
+SERIES
+- Series name: Lolly Wren's Curious Science Adventures
+- Book number: 1
+- Series CTA is in About the Series / If you enjoyed this book
+
+MARGINS (paperback 6×9, ~63k words)
+- Inside margin ≥ 0.75"; outside ≥ 0.5"; top/bottom ≥ 0.5"
+- Embed fonts; black text on white/cream
+
+KINDLE CREATE
+[x] Interior pre-formatted — see KINDLE_CREATE_READY.txt
+[ ] Import BOOK_1_KINDLE.docx → Accept Suggested Chapter Titles → pick theme → Export .kpf
+
+BEFORE PUBLISH
+[ ] Spelling pass in Word (optional; content locked)
+[ ] Kindle Create Preview / KDP online previewer
+[ ] Description matches final plot (10 years electronics; 18 lectures; no lid)
+[ ] Price and territories set
+[ ] Cover (front cover prompt.txt / back cover prompt.txt)

@@ -1,0 +1,43 @@
+Rather than choosing one system exclusively, I'd use them according to their strengths:
+
+Recommended hybrid cast
+Character / role	Voice
+Narrator	Amazon Polly — Brian
+Lolly Wren	Piper — Cori High
+Mrs. Elspeth Chain	Amazon Polly — Emma
+Beatrix Sloan	Piper — Jenny_Dioco
+Dr. Stephanie Fainrose	Amazon Polly — Amy
+Gideon Wigglesworth	Piper — Aru
+Jago Flint	Piper — Semaine
+Physics Notes	Amazon Polly — Brian
+Ministry announcements	Amazon Polly — Amy
+
+That gives us five or six distinct voices, but only two systems to manage.
+
+Why Polly for the narrator?
+
+This is where I'd spend the money/quality.
+
+The narrator appears for essentially the entire book, and the dry literary voice is fundamental to the novel.
+
+Brian is a very natural choice for the main storyteller.
+
+And then Brian also narrates the Physics Notes, so the whole 217-page book has one consistent intellectual voice. The manuscript deliberately makes the Physics Notes a companion layer to the novel.
+
+Why Piper for Lolly?
+
+Because Lolly is going to have a lot of dialogue, and giving her a genuinely different voice makes conversations much easier to follow.
+
+Cori High is the Piper voice I'd audition first.
+
+Polly Emma for Mrs Chain
+
+I like this pairing particularly well.
+
+Mrs Chain has a very distinctive personality, and giving her a separate Polly voice means she won't get confused with Lolly or Fainrose.
+
+Piper Jenny_Dioco for Beatrix
+
+Again, a completely separate sound.
+
+Beatrix's dialogue is often short and extremely dry. A distinct voice will make her instantly recognizable.

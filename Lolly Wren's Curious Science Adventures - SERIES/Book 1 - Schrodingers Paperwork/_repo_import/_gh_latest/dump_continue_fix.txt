@@ -1,0 +1,636 @@
+xml paras 3214 docx paras 3181
+
+=== bookmarks (282) ===
+  glJackBellboy
+  Chapter03SmallErrorInReality
+  Lecture01Superposition
+  Lecture02MeasurementBasis
+  Lecture04QuantumZeno
+  Lecture06HawkingRadiation
+  Lecture07Entanglement
+  Lecture09Uncertainty
+  Lecture10Decoherence
+  Lecture11MeasurementProblem
+  Lecture12PilotWave
+  Lecture13BellsTheorem
+  Lecture15ErrorCorrection
+  Lecture17Negentropy
+  glBellstheorem
+  glDecoherence
+  glEinselection
+  glEntanglement
+  glHawking
+  glMeasurement
+  glMeasurementBasis
+  glMeasurementProblem
+  glNegentropy
+  glNocommunication
+  glPilot
+  glPointer
+  glQuantumErrorCorrection
+  glQuantumtunnelling
+  glQuantumZeno
+  glSuperposition
+  glUncertainty
+
+=== ALL bookmark names containing glossary-ish ===
+  TitlePage
+  bm4
+  glThenovel
+  glThree
+  bm6
+  glLollyWren
+  glGideonWigglesworth
+  glDrStephanieFainrose
+  glBeatrixSloan
+  glJagoFlint
+  glMrsElspethChain
+  glDetectiveInspectorAlbertPriddy
+  glCrispinVale
+  glAlistairVenn
+  glMrVoller
+  glMissAdaezePike
+  glMrsProsser
+  glMrPilbeam
+  glAlbrechtEilstein
+  glTheDucdeBroccoli
+  glWernerHeisenburger
+  glMaxTengelman
+  glJackBellboy
+  glEduardvonWittenberg
+  glErichSchrottfinger
+  bm8
+  Chapter01FormThatWouldNotResolve
+  Chapter02TheWrongQueue
+  Chapter03SmallErrorInReality
+  Chapter04ContinuityReview
+  Chapter05DrFainroseNotReassured
+  Chapter06ObjectNotMislaid
+  Chapter07WhatRemainsCorrelated
+  Chapter08BackupCouldNotExist
+  Chapter09TwoColumns
+  Chapter10MoonThatWasPending
+  Chapter11UninvitedReflection
+  Chapter12DucDeBroccoli
+  Chapter13PanelOfExperts
+  Chapter14ElevenDimensions
+  Chapter15FinalStatePending
+  Chapter16TheDecision
+  Chapter17VeryGoodObituary
+  Chapter18ThereIsNoLid
+  bm25
+  PhysicsPrologue
+  AppendixLectures
+  ShapeOfTheCourse
+  Lecture01Superposition
+  glStarthere_1
+  glTheideastepbystep_1
+  glInonebreath_1
+  glWhatthischapterwasactuallysh_1
+  glWherethepopularversiongoeswr_1
+  glGoingdeeperskipfreely_1
+  glWhatsticks_1
+  glOnelinesummary_1
+  Lecture02MeasurementBasis
+  glStarthere_2
+  glTheideastepbystep_2
+  glWhatthischapterwasactuallysh_2
+  glWherethepopularversiongoeswr_2
+  glGoingdeeperskipfreely_2
+  glWhatsticks_2
+  glOnelinesummary_2
+  Lecture03PrematureCollapse
+  glStarthere_3
+  glTheideastepbystep_3
+  glInonebreath_2
+  glWhatthischapterwasactuallysh_3
+  glWherethepopularversiongoeswr_3
+  glGoingdeeperskipfreely_3
+  glWhatsticks_3
+  glOnelinesummary_3
+  Lecture04QuantumZeno
+  glStarthere_4
+  glTheideastepbystep_4
+  glInonebreath_3
+  glWhatthischapterwasactuallysh_4
+  glWherethepopularversiongoeswr_4
+  glGoingdeeperskipfreely_4
+  glWhatsticks_4
+  glOnelinesummary_4
+  Lecture05LawfulEvolution
+  glStarthere_5
+  glTheideastepbystep_5
+  glInonebreath_4
+  glWherethepopularversiongoeswr_5
+  glGoingdeeperskipfreely_5
+  glWhatsticks_5
+  glOnelinesummary_5
+  Lecture06HawkingRadiation
+  glStarthere_6
+  glTheideastepbystep_6
+  glInonebreath_5
+  glWhatthischapterwasactuallysh_5
+  glWherethepopularversiongoeswr_6
+  glGoingdeeperskipfreely_6
+  glWhatsticks_6
+  glOnelinesummary_6
+  Lecture07Entanglement
+  glStarthere_7
+  glTheideastepbystep_7
+  glInonebreath_6
+  glWhatthischapterwasactuallysh_6
+  glWherethepopularversiongoeswr_7
+  glGoingdeeperskipfreely_7
+  glWhatsticks_7
+  glOnelinesummary_7
+  Lecture08NoCloning
+  glStarthere_8
+  glTheideastepbystep_8
+  glInonebreath_7
+  glWhatthischapterwasactuallysh_7
+  glWherethepopularversiongoeswr_8
+  glGoingdeeperskipfreely_8
+  glWhatsticks_8
+  glOnelinesummary_8
+  Lecture09Uncertainty
+  glStarthere_9
+  glTheideastepbystep_9
+  glInonebreath_8
+  glWhatthischapterwasactuallysh_8
+  glWherethepopularversiongoeswr_9
+  glGoingdeeperskipfreely_9
+  glWhatsticks_9
+  glOnelinesummary_9
+  Lecture10Decoherence
+  glStarthere_10
+  glTheideastepbystep_10
+  glInonebreath_9
+  glWhatthischapterwasactuallysh_9
+  glWherethepopularversiongoeswr_10
+  glGoingdeeperskipfreely_10
+  glWhatsticks_10
+  glOnelinesummary_10
+  Lecture11MeasurementProblem
+  glStarthere_11
+  glTheideastepbystep_11
+  glInonebreath_10
+  glAcloserlooktheEverettmanywor
+  glWhatthischapterwasactuallysh_10
+  glWherethepopularversiongoeswr_11
+  glGoingdeeperskipfreely_11
+  glWhatsticks_11
+  glOnelinesummary_11
+  Lecture12PilotWave
+  glStarthere_12
+  glTheideastepbystep_12
+  glInonebreath_11
+  glWhatthischapterwasactuallysh_11
+  glWherethepopularversiongoeswr_12
+  glGoingdeeperskipfreely_12
+  glWhatsticks_12
+  glOnelinesummary_12
+  Lecture13BellsTheorem
+  glStarthere_13
+  glTheideastepbystep_13
+  glInonebreath_12
+  glWherethepopularversiongoeswr_13
+  glGoingdeeperskipfreely_13
+  glWhatsticks_13
+  glOnelinesummary_13
+  Lecture14aStringTheory
+  glStarthere_14
+  glTheideastepbystep_14
+  glStringtheory
+  glMtheory_1
+  glInonebreath_13
+  glWherethepopularversiongoeswr_14
+  glGoingdeeperskipfreely_14
+  glWhatsticks_14
+  Lecture14bHolography
+  glStarthere_15
+  glTheideastepbystep_15
+  glInonebreath_14
+  glWhatthischapterwasactuallysh_12
+  glWherethepopularversiongoeswr_15
+  glGoingdeeperskipfreely_15
+  glWhatsticks_15
+  glOnelinesummary_14
+  Lecture15ErrorCorrection
+  glStarthere_16
+  glTheideastepbystep_16
+  glWherethepopularversiongoeswr_16
+  glGoingdeeperskipfreely_16
+  glWhatsticks_16
+  glOnelinesummary_15
+  Lecture16Thermodynamics
+  glStarthere_17
+  glTheideastepbystep_17
+  glWhatthischapterwasactuallysh_14
+  glWherethepopularversiongoeswr_17
+  glGoingdeeperskipfreely_17
+  glWhatsticks_17
+  glOnelinesummary_16
+  Lecture17Negentropy
+  glStarthere_18
+  glTheideastepbystep_18
+  glInonebreath_15
+  glWherethepopularversiongoeswr_18
+  glGoingdeeperskipfreely_18
+  glWhatsticks_18
+  glOnelinesummary_17
+  Lecture18LongFuture
+  glStarthere_19
+  glTheideastepbystep_19
+  glInonebreath_16
+  glWherethepopularversiongoeswr_19
+  glGoingdeeperskipfreely_19
+  glWhatsticks_19
+  BacklogHeading
+  bm46
+  glAmplitude
+  glBellstheorem
+  glBlackHole
+  glBlackholearealaw
+  glBornrule
+  glBraKet
+  glCHSH
+  glCollapse
+  glCopenhagen
+  glDeBroglie
+  glDecoherence
+  glDeterminism
+  glDuality
+  glEinselection
+  glEntanglement
+  glEntropy
+  glEvent
+  glFineStructure
+  glHawking
+  glHidden
+  glHilbertspace
+  glHolographicDuality
+  glHolographicPrinciple
+  glInformation
+  glInterference
+  glLandauers
+  glLocality
+  glMtheory
+  glMany
+  glMatter
+  glMeasurement
+  glMeasurementBasis
+  glMeasurementProblem
+  glNegentropy
+  glNocloning
+  glNocommunication
+  glNodeleting
+  glNonlocality
+  glNuclearShell
+  glPagecurve
+  glPilot
+  glPointer
+  glQBism
+  glQuantumDarwinism
+  glQuantumErrorCorrection
+  glQuantumtunnelling
+  glQuantumZeno
+  glRelational
+  glSchrdinger
+  glSchrdingers
+  glSecond
+  glState
+  glStateReduction
+  glString
+  glSuperposition
+  glSyndrome
+  glTsirelson
+  glUncertainty
+  glUnitary
+  glUnruh
+  glWigners
+  FurtherReadingHeading
+  frCarrollSomethingDeeplyHidden
+  frRovelliHelgoland
+  bm7
+  bm27
+  bm28
+  IfThisMadeYouCurious
+  IfYouEnjoyedThisBook
+
+=== sample internal hyperlinks (first 40 with anchor) ===
+p21 anchor='TitlePage' vis='Title Page'
+p22 anchor='bm4' vis='How to Read This Book'
+p23 anchor='glThree' vis='Three Honest Ways to Read this book'
+p24 anchor='bm6' vis='Cast of Characters'
+p27 anchor='bm8' vis='Prologue: Before Anything Went Wrong'
+p28 anchor='Chapter01FormThatWouldNotResolve' vis='The Form That Would Not Resolve'
+p29 anchor='Chapter02TheWrongQueue' vis='The Wrong Queue'
+p30 anchor='Chapter03SmallErrorInReality' vis='A Small Error in Reality'
+p31 anchor='Chapter04ContinuityReview' vis='Continuity Review'
+p32 anchor='Chapter05DrFainroseNotReassured' vis='Dr Fainrose Is Not Reassured'
+p33 anchor='Chapter06ObjectNotMislaid' vis='The Object Is Not Mislaid'
+p34 anchor='Chapter07WhatRemainsCorrelated' vis='What Remains Correlated'
+p35 anchor='Chapter08BackupCouldNotExist' vis='The Backup That Could Not Exist'
+p36 anchor='Chapter09TwoColumns' vis='The Two Columns'
+p37 anchor='Chapter10MoonThatWasPending' vis='The Moon That Was Pending'
+p38 anchor='Chapter11UninvitedReflection' vis='An Uninvited Reflection'
+p39 anchor='Chapter12DucDeBroccoli' vis='Standing in the Wave'
+p40 anchor='Chapter13PanelOfExperts' vis='The Panel of Experts'
+p41 anchor='Chapter14ElevenDimensions' vis='Eleven Dimensions and a Whisper'
+p42 anchor='Chapter15FinalStatePending' vis='Final State Pending'
+p43 anchor='Chapter16TheDecision' vis='The Decision'
+p44 anchor='Chapter17VeryGoodObituary' vis='A Very Good Obituary'
+p45 anchor='Chapter18ThereIsNoLid' vis='There Is No Lid'
+p46 anchor='bm25' vis='Epilogue: The Ministry Has Learned Nothing'
+p49 anchor='PhysicsPrologue' vis='Physics Prologue'
+p50 anchor='AppendixLectures' vis='Appendix: Lessons'
+p51 anchor='ShapeOfTheCourse' vis='The Shape of this Course'
+p52 anchor='Lecture01Superposition' vis='Lesson 1: Superposition'
+p53 anchor='Lecture02MeasurementBasis' vis='Lesson 2: Measurement Basis'
+p54 anchor='Lecture03PrematureCollapse' vis='Lesson 3: Premature Collapse'
+p55 anchor='Lecture04QuantumZeno' vis='Lesson 4: The Quantum Zeno Effect'
+p56 anchor='Lecture05LawfulEvolution' vis='Lesson 5: Lawful Evolution'
+p57 anchor='Lecture06HawkingRadiation' vis='Lesson 6: Hawking Radiation'
+p58 anchor='Lecture07Entanglement' vis='Lesson 7: Entanglement and Decoherence'
+p59 anchor='Lecture08NoCloning' vis='Lesson 8: No-Cloning Theorem'
+p60 anchor='Lecture09Uncertainty' vis='Lesson 9: Uncertainty Principle'
+p61 anchor='Lecture10Decoherence' vis='Lesson 10: Decoherence and Einselection'
+p62 anchor='Lecture11MeasurementProblem' vis='Lesson 11: Wigner’s Friend'
+p63 anchor='Lecture12PilotWave' vis='Lesson 12: Pilot-Wave Theory'
+p64 anchor='Lecture13BellsTheorem' vis='Lesson 13: Bell’s Theorem'
+
+=== novel youtube (p<2100) full ===
+p236 rid=rId106 tgt=https://www.youtube.com/watch?v=28Fwx1RMTfg
+   vis='They simply both were'
+p402 rid=rId107 tgt=https://www.youtube.com/watch?v=aJ1wB9Gwyrc
+   vis='a choice of question'
+p624 rid=rId108 tgt=https://www.youtube.com/watch?v=wXJ9eQ7qTQk
+   vis='The false certainty had only been holding them down'
+p691 rid=rId109 tgt=https://www.youtube.com/watch?v=dOY0NbR1ppw
+   vis='the Quantum Zeno Effect'
+p832 rid=rId110 tgt=https://www.youtube.com/watch?v=P__dEWo_WiI
+   vis='the Schrödinger equation'
+p928 rid=rId111 tgt=https://www.youtube.com/watch?v=cFslUSyfZPc
+   vis='evaporate so slowly as to be practically eternal'
+p1035 rid=rId112 tgt=https://www.youtube.com/watch?v=tuyY2RlseBM
+   vis='no separate story left to know'
+p1108 rid=rId113 tgt=https://www.youtube.com/watch?v=JhHMJCUmq28
+   vis='you cannot copy it'
+p1209 rid=rId114 tgt=https://www.youtube.com/watch?v=dgoA_jmGIcA
+   vis='The Uncertainty Principle'
+p1300 rid=rId115 tgt=https://www.youtube.com/watch?v=igsuIuI_HAQ
+   vis='only one moon is left standing in the record'
+p1400 rid=rId116 tgt=https://www.youtube.com/watch?v=BU8Lg_R2DL0
+   vis='the measurement problem'
+p1490 rid=rId117 tgt=https://www.youtube.com/watch?v=WIyTZDHuarQ
+   vis='Pilot-wave theory'
+p1587 rid=rId118 tgt=https://www.youtube.com/watch?v=w_fK3EBPNb8
+   vis='an inequality somebody was bound to write down eventually'
+p1710 rid=rId119 tgt=https://www.youtube.com/watch?v=k6TWO-ESC6A
+   vis='counted the configurations of D-branes, and found'
+p1797 rid=rId120 tgt=https://www.youtube.com/watch?v=XbL64sz8dQI
+   vis='error-correcting code'
+p1866 rid=rId121 tgt=https://www.youtube.com/watch?v=uc9P5yb3Xtc
+   vis='Erase a bit, you owe the universe warmth'
+p1912 rid=rId122 tgt=https://www.youtube.com/watch?v=QImCld9YubE
+   vis='negentropic'
+p1950 rid=rId123 tgt=https://www.youtube.com/watch?v=OkVpMAbNOAo
+   vis='my cat'
+
+=== book-looking youtube (p>3060) ===
+p3064 tgt=https://www.youtube.com/watch?v=GoTeGW2csPk vis='Barbour, Julian' para='Barbour, Julian. The End of Time: The Next Revolution in Physics. Oxford University Press,'
+p3074 tgt=https://www.youtube.com/watch?v=XBQorAnnICs vis='Carroll, Sean' para='Carroll, Sean. Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime. Dut'
+p3076 tgt=https://www.youtube.com/watch?v=kEx-gRfuhhk vis='Feynman, Richard P.' para='Feynman, Richard P. The Character of Physical Law. MIT Press, 1967.'
+p3078 tgt=https://www.youtube.com/watch?v=bAnnEiAjN6U vis='Feynman, Richard P.' para='Feynman, Richard P. QED: The Strange Theory of Light and Matter. Princeton University Pres'
+p3080 tgt=https://www.youtube.com/watch?v=WIKOFLRQuc8 vis='Gamow, George' para='Gamow, George. Mr Tompkins in Wonderland. Cambridge University Press, 1940.'
+p3082 tgt=https://www.youtube.com/watch?v=jKFZSzJMqpg vis='Gell-Mann, Murray' para='Gell-Mann, Murray. The Quark and the Jaguar: Adventures in the Simple and the Complex. W. '
+p3085 tgt=https://www.youtube.com/watch?v=YtdE662eY_M vis='Greene, Brian' para='Greene, Brian. The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for th'
+p3087 tgt=https://www.youtube.com/watch?v=8V669ohFOkI vis='Gribbin, John' para='Gribbin, John. In Search of Schrödinger’s Cat: Quantum Physics and Reality. Bantam Books, '
+p3089 tgt=https://www.youtube.com/watch?v=FY076-fEZ-s vis='Griffiths, David J.' para='Griffiths, David J., and Darrell F. Schroeter. Introduction to Quantum Mechanics. 3rd ed.,'
+p3092 tgt=https://www.youtube.com/watch?v=EPNGZpp6Glo vis='Hawking, Stephen W.' para='Hawking, Stephen W. A Brief History of Time. Bantam Books, 1988.'
+p3094 tgt=https://www.youtube.com/watch?v=5hVmeOCJjOU vis='Hawking, Stephen' para='Hawking, Stephen, ed. The Dreams That Stuff Is Made Of: The Most Astounding Papers of Quan'
+p3097 tgt=https://www.youtube.com/watch?v=xbpOMkBMtYU vis='Heisenberg, Werner' para='Heisenberg, Werner. Physics and Philosophy: The Revolution in Modern Science. Harper & Row'
+p3099 tgt=https://www.youtube.com/watch?v=kZY0lhgZC0c vis='McFadden, Johnjoe' para='McFadden, Johnjoe, and Jim Al-Khalili. Life on the Edge: The Coming of Age of Quantum Biol'
+p3108 tgt=https://www.youtube.com/watch?v=gpWf2wyGQ0Q vis='Rovelli, Carlo' para='Rovelli, Carlo. Helgoland: Making Sense of the Quantum Revolution. Riverhead Books, 2021.'
+p3110 tgt=https://www.youtube.com/watch?v=uGGfmZGgoAE vis='Schrödinger, Erwin' para='Schrödinger, Erwin. What Is Life? The Physical Aspect of the Living Cell. Cambridge Univer'
+p3117 tgt=https://www.youtube.com/watch?v=SsBACBVtPYs vis='Wheeler, John Archibald' para='Wheeler, John Archibald, with Kenneth Ford. Geons, Black Holes, and Quantum Foam: A Life i'
+p3120 tgt=https://www.youtube.com/watch?v=vSnq5Hs3_wI vis='Zurek, Wojciech H.' para='Zurek, Wojciech H. Quantum Darwinism. Nature Physics, vol. 5, 2009, pp. 181–188.'
+p3125 tgt=https://www.youtube.com/watch?v=vSnq5Hs3_wI vis='“How Do Quantum States Manifest In The Classical World?”' para='PBS Space Time. “How Do Quantum States Manifest In The Classical World?” YouTube, 16 Mar. '
+
+===== TITLE 0-20 =====
+1|Schrödinger’s Paperwork
+3|A satirical science comedy about quantum physics and a Ministry that will not stop simplifying.
+5|Lolly Wren’s Curious Science Adventures 
+7|Book 1
+9|By Quentin Edmund Darling (Q.E.D.), allegedly.
+10|By Lothar J. Musiol, obviously.
+12|All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.
+13|This is a work of fiction. Names, characters, departments, directives, forms, schedules, institutions, and incidents are either the product of the author’s imagination or are used fictitiously. Any resemblance to actual government bodies, living or defunct, is regretted rather than denied.
+14|Several characters in this book are fictional inventions inspired by real physicists and are given altered names for that reason. Their scientific positions are represented as faithfully as comedy allows; their personal habits, dialogue, private opinions, legal disputes and dietary requirements are entirely invented. No claim is fashioned about any real person.
+15|The physics explained in the lectures in the Appendix is presented in good faith and to the best of the author’s understanding. Where the science is unsettled, the text says so. Readers intending to sit an examination are warmly encouraged to consult a textbook as well.
+17|1st Edition
+18|© 2026 Lothar J. Musiol. All rights reserved.
+20|Table of Contents
+
+===== LESSON 6 2345-2395 =====
+2345|• A quantum state needs a law of change as well as a list of possible measurement results.
+2346|• The Schrödinger equation gives smooth, deterministic and reversible evolution for an isolated system.
+2347|• Measurement is physical interaction, not audience participation.
+2348|• The measurement problem concerns definite outcomes, not a gap in ordinary quantum evolution.
+2350|One-line summary. Quantum theory is not strange because nothing obeys a law; it is strange because the law is so orderly until a record is made.
+2351|Stop. Before you go on — Where does the strangeness of quantum theory enter, if the Schrödinger evolution itself is orderly?
+2352|Say it to Mrs Chain. She will not blink at ‘orderly’; she wants to know what happens the moment the order stops.
+2353|Struggling is not failing here. It only means: reread, then continue.
+2354|Lesson 6: Hawking Radiation
+2356|← Back to Chapter 6: The Object Is Not Mislaid
+2357|You need first: Lessons 1 and 5. Lesson 3 if you want records.
+2358|When you walk out, you should be able to: Link falling mass to rising temperature for an evaporating black hole, and name why information loss is a problem.
+2360|Start here. Picture a very large block of ice in a quiet, cold room. It melts so slowly that, for a long while, it looks permanent. A smaller block has less staying power: as it dwindles, the conditions that rendered it seem solid no longer protect it in the same way, and the ending becomes noticeably brisker. A black hole is not ice, and one should resist improving the analogy past its useful life, but the change of pace matters.
+2362|The idea, step by step
+2363|1. A black hole is a region whose gravity is so strong that, once past its event horizon, light cannot return to a distant observer.
+2364|2. In quantum field theory on curved spacetime, a distant observer predicts that a black hole emits faint thermal radiation, called Hawking radiation.
+2365|3. Radiation carries energy away, and energy has mass-equivalent, so an isolated black hole loses mass.
+2366|4. A smaller black hole has a higher Hawking temperature, so it emits more strongly than a larger one.
+2367|5. The loss therefore accelerates as the hole shrinks; large astrophysical holes change absurdly slowly, while a hypothetical small engineered one would be less patient.
+2368|6. If the final radiation looks only thermal, we must ask how the detailed quantum information about what formed and entered the hole can still be preserved.
+2370|In one breath. A black hole is not perfectly black: quantum physics predicts that it emits thermal radiation and therefore loses mass. The smaller it becomes, the hotter it gets and the faster the loss proceeds, while what happens to the information in everything it swallowed remains a deep problem.
+2371|What this chapter was actually showing you. Fainrose’s two curves — Asset 4C’s mass descending and its temperature rising — are the distinctive linked signs of Hawking evaporation. The Ministry has not mislaid a civic object; its black hole is shrinking by law, which is why “within projected envelope” is such a poor comfort. When Lolly notices that thermal radiation does not plainly reveal what fell in, she reaches the black-hole information problem. Mrs Chain’s home, the queue records and the overflowed alternatives give that question human stakes: if a system has stored irreplaceable structure in 4C, it matters fiercely whether that structure is recoverable. In the novel, that makes the black hole a deadline rather than merely a scientific curiosity: when the anchor evaporates, information that has not been recovered may no longer be recoverable by any ordinary intervention.
+2372|Where the popular version goes wrong. The usual tale says that a pair of “virtual particles” appears at the horizon, one falls in and one escapes. It can gesture towards the answer, but it is only a heuristic and is widely criticised as a literal account; it suggests little particles popping out at one special place and can get the energy bookkeeping badly wrong. The better framing is about quantum fields in curved spacetime. What counts as an empty vacuum, and even what counts as a particle, is not observer-independent there; comparing the field’s distant past and distant future around a black hole yields radiation for a far-away observer. No little horizon factory is required. A separate, more calculable derivation treats the process as quantum tunnelling — the same barrier-crossing mechanism behind alpha decay and the scanning tunnelling microscope, where a particle has some probability of crossing a region classical physics says it cannot reach — applied to the horizon itself; it reproduces Hawking’s temperature exactly, with no factory and no story about where the pair was born.
+2374|Going deeper (skip freely). Hawking’s 1974 calculation applied quantum field theory to a black-hole spacetime and found a thermal spectrum at infinity. In words, the temperature is inversely proportional to the mass: double the mass and halve the temperature.
+2375|TH = ℏc3 / (8πGMkB).
+
+2376|Put a number on it: for one solar mass, that formula gives a Hawking temperature of roughly 60 billionths of a kelvin — colder than the cosmic microwave background it sits in, which is why no astrophysical black hole has ever been caught evaporating. In the semiclassical treatment, the evaporation time of an isolated, non-rotating, uncharged black hole scales as tevap ∝ M3. That calculation creates the information problem: quantum evolution normally preserves distinctions between initial states, but exactly thermal final radiation seems not to display them. Most modern work expects information to be preserved, yet the complete mechanism requires quantum gravity and is not settled in a simple textbook picture.
+2378|What sticks
+2379|• Hawking radiation is a predicted thermal emission from black holes.
+2380|• Smaller isolated black holes are hotter and evaporate faster as they lose mass.
+2381|• The “particle pair at the horizon” story is a limited heuristic, not the mechanism to take literally.
+2382|• Black-hole evaporation raises the question of how quantum information is preserved.
+2384|One-line summary. Asset 4C is not going missing; it is becoming hotter, smaller, and harder to forgive.
+2385|Stop. Before you go on — Why is “within projected envelope” a useless comfort if Asset 4C is evaporating by law?
+2387|Say it to Mrs Chain. Tell her Asset 4C is not ‘within projected envelope’ — it is evaporating, on a schedule, by law.
+2389|If that stumped you, you are not behind — you are simply not done. Reread, then go on.
+2390|Lesson 7: Entanglement and Decoherence
+2392|← Back to Chapter 7: What Remains Correlated
+2393|You need first: Lessons 1–6.
+2394|When you walk out, you should be able to: Define entanglement without faster-than-light messaging, and say how decoherence makes interference practically unavailable.
+
+===== LESSON 12 2570-2635 =====
+2571|One-line summary. If quantum evolution applies to everything, the unanswered question is what makes one answer the one we live with.
+2572|Stop. Before you go on — What goes wrong if Phase Two treats a completed memory form as if it only retrieved a pre-existing official fact?
+2574|Say it to Mrs Chain. She will want to know whether Phase Two created the fact or found it, and she will notice if you dodge the question.
+2576|A stall here is ordinary, not a verdict on you. Reread, then move on.
+2577|Lesson 12: Pilot-Wave Theory
+2579|← Back to Chapter 12: Standing in the Wave
+2580|You need first: Lessons 1–11.
+2581|When you walk out, you should be able to: State de Broglie’s matter-wave idea and the pilot-wave picture: definite positions guided by a real, nonlocal wave.
+2583|Start here. Imagine a small toy boat in a canal. The boat is at one particular place, but ripples arriving from different parts of the water can still steer its next turn; the route depends on a wider pattern than the boat alone. The image is not a literal model of an electron, but it earns the central thought: something can have a definite location while being guided by an extended pattern.
+2585|The idea, step by step
+2586|1. In 1924 Louis de Broglie proposed that material particles have an associated matter wave, extending the already puzzling wave-and-particle behaviour of light.
+2587|2. The de Broglie wavelength is shorter for greater momentum, so the wave aspect of a fast macroscopic object is far too fine to notice in daily life.
+2588|3. Electrons and other particles produce diffraction and interference patterns, showing that “a particle is only a tiny hard ball” is not an adequate account.
+2589|4. Pilot-wave theory, also called de Broglie-Bohm theory, adds a definite particle position at every moment and a real wavefunction that guides its path.
+2590|5. The particle occupies one path, but unoccupied or “empty” parts of the guiding wave can still affect its motion and produce interference; the wave does not collapse in this account.
+2591|6. The theory is explicitly nonlocal: the guidance of one particle can depend on the wider configuration, including distant entangled particles. That is not a defect concealed by the theory but the reason Bell’s theorem, next chapter, does not rule it out.
+2593|In one breath. Matter can show a wave-like pattern, and one interpretation says a particle is always somewhere definite while a real guiding wave directs its motion. That interpretation is deterministic, but its guidance reaches across distance in a way that is explicitly nonlocal.
+2595|What this chapter was actually showing you. The Duc de Broccoli gives Lolly an alternative to Eilstein’s account. When he speaks of one actual wallpaper, a wave spread over other possible configurations, and “empty” alternatives that still steer, he is describing pilot-wave theory in the language of Mrs Chain’s house. On that interpretation Mr Venn’s scanner did not conjure a fact out of conscious observation; it physically changed the guiding conditions, while the actual configuration remained definite. 
+2596|Where the popular version goes wrong. Matter waves do not mean that an electron is a miniature ripple of water, nor that standard quantum mechanics has simply been replaced by a classical hidden mechanism. Pilot-wave theory is a serious interpretation that reproduces the ordinary quantum statistics under its usual assumptions, but it pays for definite particle positions with genuine nonlocality. Bell’s theorem rules out local hidden-variable accounts, not every possible hidden-variable account; pilot-wave theory survives precisely because it does not pretend to be local. The guiding wave is a physical part of the theory, not a record waiting for a conscious observer to read.
+2598|Going deeper (skip freely). De Broglie’s 1924 doctoral thesis proposed the relation
+2599|
+λ = h / p
+2600|where λ is the matter wavelength, h is Planck’s constant, and p is momentum. Electron diffraction in the late 1920s made the wave aspect impossible to dismiss; de Broglie’s idea earned the recognition that follows being right about something that strange. Bohm later gave pilot-wave theory its modern general form: a deterministic guiding law once the initial positions and wavefunction are fixed, with the usual probabilities arising from an unknown distribution of those positions. In the normal quantum-equilibrium form, it makes the same tested predictions as standard non-relativistic quantum mechanics, so it remains an interpretation rather than an experimentally established replacement.
+2602|What sticks
+2603|• Matter has a de Broglie wavelength and can produce wave-like diffraction and interference.
+2604|• Pilot-wave theory gives particles definite positions guided by a non-collapsing real wave.
+2605|• Empty parts of the guiding wave can affect the particle that is actually present.
+2606|• Pilot-wave theory is nonlocal, which is why Bell’s theorem does not exclude it.
+2608|One-line summary. A pilot-wave particle is always somewhere, but the whole wave, including its empty possibilities, helps decide where it goes next.
+2609|Stop. Before you go on — On the Duc’s picture, what does removing the Ministry’s apparatus do that “restoring a copy” cannot?
+2610|Say it to Mrs Chain. She will not settle for ‘restored’; she wants to know what the apparatus was doing to the wave in the first place.
+2611|This is the sort of thing that takes a second look. Reread, then go on.
+2613|Lesson 13: Bell’s Theorem
+2615|← Back to Chapter 13: The Panel of Experts
+2616|You need first: Lessons 1–12.
+2617|When you walk out, you should be able to: State Bell’s theorem: local hidden variables cannot reproduce the observed correlations; name what a CHSH violation means for administration.
+2619|Start here. Imagine two friends who take jobs at opposite ends of a city, one at each of two restaurants. Each restaurant asks its server, at random, whether to offer tea or coffee. The friends have agreed in advance exactly how to answer either question, but cannot phone one another after they leave home. Their answers can match with real cleverness, yet there is a maximum cleverness possible when all the agreement was packed into the plan at breakfast. If the matches are better than that maximum, the friends did not merely bring a local plan.
+2621|The idea, step by step
+2622|1. A pair of particles can be prepared in an entangled state, meaning that separate measurements show a pattern of joint results that cannot be reduced to two independent descriptions.
+2623|2. A hidden-variable account says each particle carries additional, pre-existing instructions that determine its result for every measurement that might be chosen.
+2624|3. Locality adds that the result here cannot depend on which measurement is freely chosen far away, except through influences no faster than light.
+2625|4. Bell showed that local pre-written instructions put a numerical ceiling on the correlations between the two sets of results.
+2626|5. The CHSH test uses four alternative settings, chosen after the pair has separated, and experiments find correlations above that ceiling.
+2627|6. Each result seen at either end remains unpredictable on its own, so the shared pattern cannot be turned into a faster-than-light telephone.
+2630|In one breath. Bell’s theorem says that if distant things carry pre-written local answers, their joint results can only agree up to a fixed limit. Experiments exceed that limit, so nature cannot be explained by local hidden variables, even though it still cannot be used to send a message faster than light.
+2631|What this chapter was actually showing you. Jack Bellboy gives Mr Pilbeam a number rather than a favourite account of reality. The Ministry calls its surveys of nine thousand dwellings separate local acts; Lolly sees that a Bell-style test across Fainrose’s correlation lattice can test that claim. Heisenburger, Tengelman and Bellboy disagree about what quantum mechanics means, but all three can be bound in advance by the reading from the timing rack in Sub-District 6. Mrs Chain’s correction matters too: even if Tengelman’s branches are part of an interpretation, harm in her branch is not fashioned cost-free by an account of other branches.
+2632|Where the popular version goes wrong. The slogan is not that Bell proved that “nothing is real”, nor that a conscious observer reaches across space and changes a distant particle. A measurement is settled by the apparatus, not by anyone’s gaze. Bell’s result rules out the combination of local influence and pre-existing hidden instructions under the usual assumption that the setting choices are not secretly coordinated with the source. It does not rule out every hidden-variable theory: the pilot-wave theory met in Chapter 12 has definite particle positions but is explicitly nonlocal, and so it survives Bell’s theorem. Nor does a Bell violation settle the competition among Copenhagen-style accounts, many-worlds, and pilot-wave theory; those interpretations are not currently experimentally distinguished.
+2634|Going deeper (skip freely). Bell’s theorem was a direct answer to a 1935 challenge from Einstein, Podolsky and Rosen — the “EPR paradox” — who argued that if quantum mechanics were complete, a measurement here should not be able to fix the value of a property over there, and that the theory must therefore be incomplete. In Bell’s 1964 argument, and in the later CHSH form used in most modern tests, each side chooses one of two settings, a, a′ and b, b′. If the outcomes are recorded as +1 or −1, a local-hidden-variable model must obey
+2635|
+|S| = |E(a,b) + E(a,b′) + E(a′,b) − E(a′,b′)| ≤ 2  
+
+===== GLOSSARY POINTER-ISH 2988-3010 =====
+2988|Nonlocality  —  A dependence of what is true here on a distant configuration, with no signal passing between. Pilot-wave theory is openly nonlocal; Bell’s theorem shows nature is not locally real.  (Chapter 13)
+2989|Veritasium. “Quantum Entanglement & Spooky Action at a Distance” YouTube, 12 Jan. 2015, youtube.com/watch?v=ZuvK-od647c.
+2990|Nine minutes on the distant-correlation half of the same footage — what changes on one side when nothing is touched on the other. Same video as No-communication theorem, which covers why no message can ride along.
+2991|Nuclear Shell Model  —  The reason some isotopes are stable while their neighbours are not: protons and neutrons fill discrete nuclear energy shells, the same shell logic that organises electrons into atomic orbitals, just at nuclear rather than atomic energies.
+2992|DrPhysicsA. “The Nuclear Shell Model: An Introduction” YouTube, Sept. 2012, youtube.com/watch?v=8vMwzkOi0v4.
+2993|DrPhysicsA works the same shell-filling argument on a whiteboard, at lecture pace, deriving the magic numbers instead of just declaring them.
+2994|Page curve  —  The expected rise-then-fall of the entropy carried by a black hole’s emitted radiation, if the information is preserved. Early radiation looks thermal; later radiation is correlated with it, so its entropy falls again as the correlations accumulate.  (Chapter 14)
+2995|PBS Space Time. “Have We SOLVED The Black Hole Information Paradox with Wormholes?” YouTube, 15 June 2022, youtube.com/watch?v=epSev7ovVew.
+2996|Already cited under the Information Problem; this is the curve’s own name, for Lecture 14 to point at directly.
+2997|Pilot-Wave Theory (de Broglie–Bohm)  —  An interpretation in which particles always have definite positions and are guided by a real, non-collapsing wave spread over every possible configuration. Deterministic and explicitly nonlocal.  (Chapter 12)
+2998|PBS Space Time. “Pilot Wave Theory and Quantum Realism | Space Time | PBS Digital Studios” YouTube, 30 Nov. 2016, youtube.com/watch?v=RlXdsyctD50.
+2999|The de Broglie–Bohm case at video speed — twelve minutes, hosted by an astrophysicist who treats a non-collapsing wave as unremarkable.
+3000|Pointer States  —  The robust, stable states — typically well-defined positions — that survive constant environmental monitoring and make up the everyday classical world. They are the states that survive being photocopied by the environment; superpositions of very different positions do not photocopy.  (Chapter 10)
+3001|PBS Space Time. “How Do Quantum States Manifest In The Classical World?” YouTube, 16 Mar. 2020, youtube.com/watch?v=vSnq5Hs3_wI.
+3002|PBS Space Time’s Matt O’Dowd explains why pointer states survive the environment’s constant surveillance, unlike everything else quantum and interesting. Same video as Einselection and Quantum Darwinism; this entry is the what-survives half.
+3003|QBism  —  An interpretation that treats the quantum state as an agent’s own degree of belief about what they will experience next, not as an objective, mind-independent description of the world.  (Chapter 11)
+3004|Use as a map of the options on the panel, not as an endorsement of any one of them.
+3005|Quantum Darwinism  —  The idea that especially robust states get copied redundantly into many parts of the environment, so that independent observers checking different fragments of it agree on the same outcome. The physical content behind a phrase like ‘a widening region of agreement, spreading at the speed of gossip.’  (Chapter 11)
+3006|PBS Space Time. “How Do Quantum States Manifest In The Classical World?” YouTube, 16 Mar. 2020, youtube.com/watch?v=vSnq5Hs3_wI.
+3007|Fourteen minutes of decoherence and redundant records, walked through by a host who lets the tensor products do the talking. Same video as Einselection and Pointer States; this entry is the many-observers-agree half.
+3008|Quantum Error Correction  —  Protecting information by spreading it across many systems as a pattern, then checking for damage with syndrome measurements that locate errors without reading the protected data. Works below a threshold error rate, not above it.  (Chapter 15)
+3009|Google Quantum AI. “Demonstrating Quantum Error Correction” YouTube, 22 Feb. 2023, youtube.com/watch?v=_ugJLuJ1_gM.
+3010|The Nature paper compressed into four minutes, narrated by the physicists who actually ran the experiment and watched the errors shrink.
+
+===== ABOUT SERIES 3148-3175 =====
+3148|The name behind the pseudonym is 
+3150|Lothar J. Musiol
+3152|Mr Musiol spent decades in the electronics industry: the kind of career that leaves a person fluent in semiconductors, RF, and the precise moment at which an engineering deadline becomes a philosophical position. 
+3154|Before that he studied physics seriously enough to know exactly how much of it he is simplifying here for comic effect, and exactly how much he is not. 
+3156|Readers who found the bra-ket notation in Lolly Wren’s green notebook oddly natural instead of decorative may draw their own conclusions.
+3158|He wrote Schrödinger’s Paperwork the way Lolly Wren does most things — carefully, in the margins of a life spent elsewhere, and with the slowly hardening suspicion that the paperwork was more interesting than anyone had given it credit for.
+3160|He is German by birth, and chooses the almost-right official word on purpose, which may explain the book’s affection for language that is careful, exact, and very slightly in the wrong register.
+3161|About the Series
+3162|Schrödinger’s Paperwork is Book 1 of Lolly Wren’s Curious Science Adventures: adult satirical science fiction in which large institutions attempt to administer physics, and physics declines to cooperate.
+3163|Each book stands alone. Each teaches its own set of ideas honestly, in the same two-layer form: a comic novel that never stops to lecture, and clearly separated lectures for readers who want the real science and are prepared to be told when it is unsettled.
+3164|Book 2 is already waiting: a different story with a different arrangement of collapsing certainties — for readers who did not, in the event, get enough the first time.  It also inherits what still didn’t fit: nuclear shells, and everything else that never made it past a glossary entry, are now, appropriately, somebody else’s problem.
+3165|Look for the next Lolly Wren novel wherever you found this one.
+3167|If This Made You Curious
+3168|None of the physics in this book was invented for the joke. If you would like to go further than a Ministry can take you, three places are worth the trip — two of them already named above, one not: 
+3169|Sean Carroll’s Something Deeply Hidden takes many-worlds seriously and argues for it properly.
+3170|Carlo Rovelli’s Helgoland makes the case for relational quantum mechanics in prose good enough to make you forgive him for being persuasive. And if you want the same territory covered at considerably greater length and with far less bureaucracy, 
+3171|Kenneth Ford’s The Quantum World goes much further into most of the questions this book only had time to dramatise.
+3174|If You Enjoyed This Book
+3175|Reviews are how small books find their readers. If Schrödinger’s Paperwork made you laugh, or helped you understand something you had always been told was impossible to grasp, a few honest sentences on the store page will do more good than the author ever could alone.
+
+=== glossary / lecture search ===
+22|How to Read This Book 
+72|Glossary
+73|Further Reading
+80|How to Read This Book
+1810|While she waited, Lolly stood at the tall window at the end of the corridor, which nobody had cleaned since the Initiative began and which nonetheless gave, unexpectedly, the best view in the building. Somewhere among th
+2315|Lesson 5: Lawful Evolution
+2354|Lesson 6: Hawking Radiation
+2372|Where the popular version goes wrong. The usual tale says that a pair of “virtual particles” appears at the horizon, one falls in and one escapes. It can gesture towards the answer, but it is only a heuristic and is wide
+2390|Lesson 7: Entanglement and Decoherence
+2412|has a definite joint pattern but does not give either side its own definite 0 or 1 before a measurement in that basis. Decoherence is described by entanglement with many environmental degrees of freedom; a system’s reduc
+2418|• Decoherence explains lost observable interference, not by itself a single chosen outcome.
+2474|3. A wave packed into a small region needs many wavelengths mixed together, and that mixture corresponds to a wide spread of possible momenta.
+2475|4. A wave with one very well-defined wavelength has a well-defined momentum, but it must extend over a wide region instead of having one sharply fixed position.
+2489|The mathematical reason is a Fourier relation: narrowing a position wave pattern requires combining a broad range of wavelengths, while a narrow range of wavelengths makes the pattern spatially broad. 
+2504|Lesson 10: Decoherence and Einselection
+2516|4. Decoherence is the resulting loss of practically accessible interference between those alternatives; it does not require a mind to look at anything.
+2517|5. The environment does not preserve every possible state equally: einselection — environment-induced superselection — favours robust pointer states, such as stable, reasonably definite positions.
+2518|6. Decoherence explains why a moon behaves as though it has one settled location for all practical purposes, but it does not by itself answer why one outcome is experienced rather than another.
+2523|Going deeper (skip freely). Decoherence theory explains how environmental coupling continually spreads information about especially robust states into many separate fragments of the surroundings, making them independentl
+2528|• Decoherence makes interference between macroscopic alternatives practically inaccessible.
+2529|• Einselection favours robust pointer states rather than every possible quantum description.
+2530|• Decoherence does not, by itself, settle why one definite outcome is experienced.
+2531|Einselection is not a committee. It is the environment’s habit of keeping the records that survive being copied. Pointer states are the ones that photocopy well. Superpositions of wildly different positions do not. The m
+2554|6. Decoherence — the environment-blabbing effect of Chapter 10 — makes records robust, but interpretations still disagree about whether collapse, branching, hidden variables, or some relational account supplies the final
+2558|What this chapter was actually showing you. Albrecht Eilstein turns discarded outcomes into vampire nourishment, which is fiction with excellent table manners, but his arrival exposes the real difficulty. Phase Two asks 
+2561|Going deeper (skip freely). By the early 1930s it was already clear you could push the quantum description from a measured system through an apparatus and, in principle, to an observer — which is exactly where the measur
+2563|which says that the state |ψ⟩ changes continuously under the system’s energy operator H. Wigner’s friend (1961) imagines someone who has measured inside a closed laboratory while you remain outside. Collapse theories add
+2569|• Decoherence stabilises records but does not by itself choose one experienced outcome.
+2572|Stop. Before you go on — What goes wrong if Phase Two treats a completed memory form as if it only retrieved a pre-existing official fact?
+2574|Say it to Mrs Chain. She will want to know whether Phase Two created the fact or found it, and she will notice if you dodge the question.
+2581|When you walk out, you should be able to: State de Broglie’s matter-wave idea and the pilot-wave picture: definite positions guided by a real, nonlocal wave.
+2586|1. In 1924 Louis de Broglie proposed that material particles have an associated matter wave, extending the already puzzling wave-and-particle behaviour of light.
+2587|2. The de Broglie wavelength is shorter for greater momentum, so the wave aspect of a fast macroscopic object is far too fine to notice in daily life.
+2589|4. Pilot-wave theory, also called de Broglie-Bohm theory, adds a definite particle position at every moment and a real wavefunction that guides its path.
+2600|where λ is the matter wavelength, h is Planck’s constant, and p is momentum. Electron diffraction in the late 1920s made the wave aspect impossible to dismiss; de Broglie’s idea earned the recognition that follows being 
+2603|• Matter has a de Broglie wavelength and can produce wave-like diffraction and interference.
+2738|Where the popular version goes wrong. Error correction is not a time machine and it is not covert cloning. It protects a state only because the information was encoded before the relevant damage and because enough contro
+2863|On the wavelength of a proton (from Lecture 12). A proton is about 1836 times more massive than an electron, so at a comparable speed its momentum, and therefore its wavelength, is nearly two thousand times shorter — its
+2864|A heavy particle is not thereby a classical one. Solar-core temperatures are nowhere near hot enough, classically, for protons to overcome their mutual electrical repulsion; the Sun fuses hydrogen only because protons ca
+2868|That combination fuses electromagnetism, quantum mechanics, and relativity into a single figure, and no theory has ever derived it from more basic principles. It has only ever been measured — currently to about ten signi
+2875|Glossary
+2904|De Broglie Wavelength  —  The wavelength associated with any moving object, shorter for greater momentum: λ = h/p. Far too small to notice for anything larger than a molecule.  (Chapter 12)
+2907|Decoherence  —  The leakage of a system’s quantum relationships into its uncontrolled surroundings, which makes interference between alternatives practically unrecoverable and is why large objects look definite. Not a so
+2908|PBS Space Time. “How Decoherence Splits The Quantum Multiverse” YouTube, 24 Feb. 2020, youtube.com/watch?v=GlOwJWJWPUs.
+2916|Einselection  —  Environment-induced superselection: the way constant environmental interaction singles out a small set of robust, stable pointer states from all the states a system could in principle occupy.  (Chapter 1
+2918|Zurek’s einselection walked through slowly, with diagrams, by a host who trusts the audience to sit through the hard part. Same video as Pointer States and Quantum Darwinism; this entry is the environment-does-the-select
+2950|PBS Space Time. “How Decoherence Splits The Quantum Multiverse” YouTube, 24 Feb. 2020, youtube.com/watch?v=GlOwJWJWPUs.
+2951|Fifteen minutes with a working astrophysicist on why interference dies the moment the universe quietly records which path you took. Same video as Decoherence, which covers where the leaked information goes.
+2965|Sixty Symbols. “de Broglie Waves - Sixty Symbols” YouTube, 17 May 2011, youtube.com/watch?v=JIGI-eXK0tg.
+2997|Pilot-Wave Theory (de Broglie–Bohm)  —  An interpretation in which particles always have definite positions and are guided by a real, non-collapsing wave spread over every possible configuration. Deterministic and explic
+2999|The de Broglie–Bohm case at video speed — twelve minutes, hosted by an astrophysicist who treats a non-collapsing wave as unremarkable.
+3000|Pointer States  —  The robust, stable states — typically well-defined positions — that survive constant environmental monitoring and make up the everyday classical world. They are the states that survive being photocopie
+3002|PBS Space Time’s Matt O’Dowd explains why pointer states survive the environment’s constant surveillance, unlike everything else quantum and interesting. Same video as Einselection and Quantum Darwinism; this entry is th
+3007|Fourteen minutes of decoherence and redundant records, walked through by a host who lets the tensor products do the talking. Same video as Einselection and Pointer States; this entry is the many-observers-agree half.
+3011|Quantum tunnelling  —  A system’s amplitude leaks through a barrier that classical energy accounting would call closed. Alpha decay, the scanning tunnelling microscope, and the Sun’s fusion all depend on it.  (Chapter 6 
+3012|PBS Space Time. “Is Quantum Tunneling Faster than Light?” YouTube, 2 June 2016, youtube.com/watch?v=-IfmgyXs7z8.
+3018|Helgoland, already in Further Reading, is the book-length version — Wigner’s friend taken seriously instead of panicked about.
+3059|Further Reading
+3076|Feynman, Richard P. The Character of Physical Law. MIT Press, 1967.
+3078|Feynman, Richard P. QED: The Strange Theory of Light and Matter. Princeton University Press, 1985.
+3081|A physicist shrinks the speed of light and Planck’s constant down to walking pace, so tunnelling through a wall looks as ordinary as it apparently is. The oldest trick in this list, and still the friendliest.

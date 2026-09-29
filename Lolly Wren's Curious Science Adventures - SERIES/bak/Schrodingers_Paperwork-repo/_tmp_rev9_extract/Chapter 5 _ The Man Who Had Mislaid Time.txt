@@ -1,0 +1,567 @@
+Julius Barbarian lived in a house which appeared to have been designed by someone who had once been told what a house was and had then decided to improvise. It stood on a quiet street in Munich, behind a low wall and a hedge which had clearly given up several years earlier. There was no sign on the gate.
+There was, however, a small brass plaque beside the front door.
+JULIUS BARBARIAN, PHYSICIST
+Underneath, in smaller letters:
+APPOINTMENTS ARE A HUMAN CONVENTION
+Underneath that, in smaller letters still, clearly added by hand at a later date:
+(Tuesdays remain broadly real. Mostly.)
+Derek Gent read it twice. “He’s going to be one of those people.”
+Penny surveyed the plaque. “Almost certainly.”
+Trevor still stood behind them, holding the ancient brass clock. “What sort of people?”
+“The sort who put philosophical statements on doorways.”
+Trevor considered this. “Could be worse.”
+“How?”
+“They could put them on mugs.”
+Penny nodded. “Fair point.”
+Derek pressed the bell. Nothing happened. He pressed it again.
+Still nothing. He pressed it a third time. The door quietly opened.
+A man stood there. Julius Barbarian was in his late sixties, perhaps early seventies.
+He was slim, silver-haired, and dressed in a dark jacket, open-necked shirt and rather expensive-looking trousers that had nevertheless acquired a small stain of something orange. He looked at Derek.
+Then Penny. Then Trevor. Then the silent clock.
+“You’re late.”
+Derek glanced at his watch. “We’re three minutes early.”
+“Precisely.”
+Barbarian opened the door wider. “Come in.”
+Derek hesitated. “How did you know who we were?”
+“I knew you were coming.”
+“How?”
+“Your car.”
+“We came by train.”
+“Exactly.”
+Derek stared at him. Barbarian smiled. “Come in.”
+They entered. The hallway was surprisingly ordinary. Bookshelves occupied both walls.
+There were papers everywhere. Not piles of papers, as in an ordinary untidy quiet office. Rather, papers appeared to have been distributed according to some private mathematical principle which Barbarian alone understood.
+There were books on physics, philosophy, mathematics and cosmology. There were also several books about gardening. One shelf contained nothing but clocks.
+Derek stopped. There were perhaps twenty of them. Pocket watches.
+Marine chronometers. Railway clocks. A grandfather clock.
+A small digital clock. A sundial. And, inexplicably, an egg timer.
+Trevor noticed it too.
+“Do you collect clocks?”
+“No.”
+Barbarian took off his jacket. “I collect things people use to pretend time exists.”
+Derek regarded Penny. Penny examined him.
+Trevor inspected the clocks. “That’s a rather strong statement.”
+Barbarian softly smiled. “I’ve been told.”
+He walked into the sitting room. They followed. A large wooden table occupied the centre of the room.
+There were four chairs. Barbarian sat down. The others did likewise.
+For several seconds nobody spoke.
+Then Barbarian looked directly at Weinstein. “Alfred.”
+Weinstein, who had been examining a book on the shelf, turned.
+“Yes?”
+“You’ve spent most of your life making time behave.”
+“I’ve spent most of my life making physicists stop treating it as obvious.”
+“Better.”
+Barbarian leaned back. “Now you’re having trouble with it.”
+Weinstein sat opposite him. “We have clocks that appear to disagree by an amount that cannot be explained by ordinary gravitational time dilation.”
+Julius nodded. “Yes.”
+“And the same anomaly appears in London and Munich.”
+“Yes.”
+“And the clocks appear to be connected to an event which hasn’t happened yet.”
+“Yes.”
+“And you invited us here because you think the problem is that we’re assuming time exists.”
+Julius Barbarian smiled. “Perhaps.”
+Derek nodded. “Close enough for government paperwork.”
+Barbarian smiled. “No.”
+Weinstein waited. Barbarian picked up a cup of tea. “I invited you here because I think you are assuming that time is something more than the relationships between events.”
+Weinstein nodded slowly. “That’s different.”
+“Very.”
+Derek leaned forward. “How?”
+Barbarian considered him. “Tell me what time is.”
+Derek softly smiled. “That’s a dangerous question.”
+“It’s a simple one.”
+“No. It’s a question designed to make the answer complicated.”
+“Excellent.”
+Derek glanced at the silent clock on the wall. “Time is what clocks measure.”
+Barbarian smiled. “No.”
+“That’s at least a useful operational definition.”
+“Certainly.”
+“Then what’s wrong with it?”
+“Nothing.”
+Derek paused. “Well, that settles it.”
+Barbarian laughed. “I like you.”
+Penny smiled. “He’s getting that a lot lately.”
+Barbarian stared at the old clock. “Clocks measure regular physical processes. Oscillations. Rotations. Atomic transitions. Mechanical motion. You choose a process you believe is sufficiently regular, call it a clock, and compare other changes with it.”
+“Yes.”
+“So, a clock doesn’t measure some invisible substance called time.”
+Derek nodded. “It measures change against change.”
+“Exactly.”
+Interest sharpened Trevor’s expression.
+“That doesn’t mean time doesn’t exist.”
+Barbarian turned toward him. “No. It means we have to be careful about what we mean by ‘exists.‘”
+Trevor nodded. “Fair enough.”
+Barbarian smiled. “Excellent.”
+He pointed at the table. “Suppose I place an apple here.”
+He put an apple on the table. “Then I move it there.”
+He moved it.
+“The apple has changed position.”
+“Yes,” Trevor clarified.
+“Do we need time to describe that?”
+Trevor thought. “We need some ordering.”
+“Perhaps.”
+“We need to distinguish the first state from the second.”
+“Yes.”
+“Otherwise we can’t say it moved.”
+Barbarian nodded. “Good.”
+He picked up the apple. “But suppose instead of saying the apple moved through time, we simply describe two complete configurations.”
+He put the red apple back. “Configuration A.”
+Then moved it. “Configuration B.”
+Trevor nodded. “The relationship between them tells us that the apple changed position.”
+“Exactly.”
+“And the amount of change tells us something about the dynamics.”
+“Yes.”
+“So where does time go?”
+Barbarian softly smiled. “That’s the question.”
+Derek leaned back. “It doesn’t necessarily go anywhere.”
+“Precisely.”
+Penny gazed at the clocks. “So, you’re saying that reality consists of configurations, and what we call time is the ordering or relationship between them.”
+“Something like that.”
+Weinstein folded his hands. “That is philosophically attractive.”
+Barbarian raised an eyebrow. “But?”
+“But General Relativity doesn’t give us such an easy picture.”
+Julius nodded. “Quite.”
+“In General Relativity, time is part of spacetime.”
+“Yes,” Julius said.
+“And the geometry of spacetime is dynamical.”
+“Yes.”
+“Proper time along a worldline is measurable.”
+“Yes.”
+“An observer carries a clock, and the clock measures proper time along that observer’s worldline.”
+“Yes.”
+Weinstein smiled. “So, we cannot simply declare time nonexistent and walk away.”
+Barbarian smiled back. “I wasn’t planning to.”
+“Good.”
+“I have a much more irritating plan.”
+Derek turned to Penny. “He’s definitely one of those people.”
+Penny nodded. “Yes.”
+Barbarian continued, “General Relativity tells us something extraordinary. There is no single universal time that everyone in the universe must agree upon.”
+Weinstein nodded. “Correct.”
+“In Special Relativity, simultaneity is relative.”
+“Yes.”
+“In General Relativity, the situation becomes even richer because spacetime itself is dynamical.”
+“Yes.”
+“So, the universe doesn’t come with a giant clock mounted above it.”
+Derek mentioned: “That would be inconveniently large.”
+Barbarian smiled. “Quite.”
+Trevor eyed the silent clock shelf.
+“Then what are clocks actually telling us?”
+“Relationships.”
+“Between what?”
+“Between physical processes.”
+Trevor nodded. “Right.”
+Barbarian’s smile sharpened.
+“As settled as anything ever is.”
+Derek laughed. “We’ve been here ten minutes and you’re already using our phrase.”
+“I adapt quickly.”
+Penny pointed toward the shelf. “Then why all the clocks?”
+Barbarian watched them. “Because they’re useful.”
+“But you responded that they don’t measure time.”
+“I opined that they don’t measure a substance called time.”
+“What’s the difference?”
+Barbarian smiled. “Quite a large one.”
+He picked up an old railway watch. “This tells you how one physical process relates to another. If you synchronize two clocks under specified conditions, move them apart, accelerate one, place them at different gravitational potentials and compare them again, the difference tells you something about spacetime.”
+Weinstein nodded. “Exactly.”
+“So, clocks are not the problem.”
+“No.”
+“They are evidence.”
+“Yes.”
+“Excellent.”
+Barbarian put the watch down. “The problem is the interpretation.” Penny nodded. “Exactly. We’re skating on thin gravy.”
+Derek surveyed the brass clock Trevor was holding. “Which brings us to this.”
+Barbarian’s expression changed. Only slightly. But everyone noticed.
+“Yes.”
+He stood. “May I?”
+Trevor handed him the clock. Barbarian turned it over. He examined the initials.
+LGV.
+Then the mechanism. Then the face. He remained silent.
+Weinstein watched him. “You’ve seen it before.”
+Barbarian looked up. “Yes.”
+“When?”
+Barbarian smiled. “That’s the wrong question.”
+Weinstein frowned. “Don’t start.”
+Barbarian laughed. “Very well.”
+He placed the clock on the table. “I saw it yesterday.”
+Derek frowned. “Where?”
+“Here.”
+Derek cast a quick look around.
+“You had this clock yesterday?”
+“No.”
+“Then what do you mean?”
+“I saw it.”
+“When?”
+“Yesterday.”
+Trevor frowned. “That’s perfectly ordinary.”
+Barbarian studied him. “Is it?”
+Trevor thought. “Yes.”
+“Why?”
+“Because yesterday precedes today.”
+Barbarian nodded. “According to what?”
+Trevor hesitated. “According to… Time.”
+Barbarian smiled. “Exactly.”
+Trevor regarded Derek. Derek examined Penny. Penny inspected Barbarian. “That’s rather clever.”
+“Thank you.”
+Derek picked up the silent clock. “Let’s be precise.”
+“Please.”
+“You saw this clock yesterday.”
+“Yes.”
+“The physical clock.”
+“Yes.”
+Derek clarified, “Not a photograph.”
+“No.”
+“Not an identical clock.”
+“No.”
+“This exact clock.”
+“Yes.”
+Derek frowned. “And it is currently here.”
+“Yes.”
+“Which means either you saw it before it arrived here…”
+Barbarian nodded. “… or the clock has somehow moved backwards through whatever we mean by time.”
+“Possibly.”
+“Or your memory is wrong.”
+“Also possible.”
+Derek nodded. “Good.”
+Barbarian smiled. “You see the difficulty.”
+“Yes.”
+Weinstein checked the silent clock. “Where did you see it?”
+Barbarian pointed at the silent ancient clock. “Here.”
+Derek stared intently. “Here?”
+“On this table.”
+“But it wasn’t here yesterday.”
+Barbarian nodded. “Not according to your description.”
+Weinstein smiled. “Now we’re getting somewhere.”
+Barbarian sat down again. “This is precisely why I wanted to speak to you.”
+“Why?”
+“Because you understand the mathematics well enough not to be frightened by the philosophical consequences.”
+Derek smiled. “That’s a generous assessment.”
+“Is it wrong?”
+“No.”
+“Right.”
+Weinstein picked up a notebook. “Suppose we forget the word ‘time’ for a moment.”
+Derek nodded. “We have events.”
+“Yes.”
+“Each event has relationships to other events.”
+“Yes.”
+“Those relationships can be described geometrically.”
+“Yes.”
+“Some observers call one relationship earlier and another later.”
+“Yes.”
+“But those labels are not fundamental.”
+Barbarian smiled. “Now you’re talking.”
+Weinstein continued, “And the Lorentz transformation tells us how different inertial observers assign coordinates to events.”
+“Yes.”
+“While General Relativity tells us how the geometry of spacetime behaves in the presence of matter and energy.”
+“Yes.”
+“And proper time is what a physical clock measures along a worldline.”
+“Yes.”
+“So, perhaps what we’re calling time is the structure of these relationships.”
+Barbarian nodded. “That is a respectable way of putting it.”
+Derek leaned forward. “And if the clocks aren’t showing different amounts of some universal substance called time…”
+Barbarian waited.
+“They’re showing different relationships between events.”
+“Exactly.”
+Derek glanced at Penny. “Good. Moving on.”
+Penny nodded. “Good.”
+Relief crossed Trevor’s face.
+“Does it?”
+Everyone stared at him. Trevor pointed at the silent ancient clock. “We still don’t know why the relationships are wrong.”
+There was silence.
+Barbarian smiled. “Excellent.”
+Derek smiled. “Yes.”
+Trevor surveyed the room. “What?”
+“Nothing,” Derek maintained.
+“You all look pleased.”
+“We are.”
+“Why?”
+“Because you noticed the actual problem.”
+Trevor nodded. “Oh.”
+Penny smiled. “Well, there we are.”
+Barbarian still stood. “Come.”
+“Where?”
+“The garden.”
+Derek looked sharply toward the window. “Why?”
+“Because I want to show you something.”
+They followed him through the back door. The quiet garden was larger than Derek had expected. There was a lawn, a small pond, several trees and a stone path.
+At the far end quietly stood a tall wooden post. Barbarian walked toward it. At the top was a strange clock.
+Derek frowned. “Another one.”
+“Yes.”
+Barbarian gazed at the silent clock.
+“This one is synchronized with the one inside.”
+Derek checked. They were.
+“How far apart?”
+“About forty metres.”
+“Same gravitational potential to a very good approximation.”
+“Yes.”
+“Then they should remain almost synchronized.”
+“They do.”
+Trevor visibly relaxed.
+“Good.”
+Barbarian smiled. “Now wait.”
+They waited. Nothing happened. A bird landed on the fence.
+A car passed somewhere beyond the garden. The wind slowly moved the leaves. The clocks continued ticking.
+Derek peered at his watch. Five minutes passed. Then ten.
+Then fifteen. Still nothing. Trevor looked at Barbarian. “What are we waiting for?”
+“Change.”
+Derek smiled. “That’s a very philosophical answer.”
+“It’s also accurate.”
+Another five minutes. Then the silent clock on the post stopped. The indoor clock continued.
+Derek walked closer. The silent clock had stopped at exactly 11:17:00. He checked his watch.
+11:17:00. The indoor clock read 11:17:00. Everything was synchronized.
+Derek watched Barbarian. “Well, that’s odd.”
+“Yes.”
+Trevor examined the clock. “Mechanical failure?”
+“Possibly,” Barbarian affirmed.
+Derek shook his head.
+“No.”
+“Why?”
+“The second hand isn’t jammed.”
+He pointed. The hand was moving. But it was moving in tiny jumps.
+One second. Then a pause. Then another.
+Penny looked closely. “The clock is still running.”
+“Yes.”
+“Then why isn’t the display advancing?”
+Derek frowned. He surveyed the silent clock inside the house. That one had also stopped.
+Exactly at 11:17.
+Trevor checked his phone. 11:17.
+His phone had stopped too.
+Penny checked hers. 11:17.
+Stopped.
+Weinstein checked his watch. 11:17.
+Stopped. Everyone looked at one another. Barbarian smiled. “Interesting.”
+Derek stared at him. “Did you arrange this?”
+“No.”
+“Did you know it would happen?”
+“No.”
+“Then why are you smiling?”
+“Because now we have something useful.”
+The seconds did not move. The world did not stop. A bird flew across the quiet garden.
+A leaf fell. The wind continued. Derek studied the clocks. “Everything is moving.”
+“Yes.”
+“Yet all the clocks have stopped.”
+“Yes.”
+Trevor frowned. “So, the clocks have failed.”
+Derek shook his head.
+“No.”
+“How do you know?”
+“Because they’re all failing identically.”
+Penny nodded. “And at exactly the same reading.”
+Weinstein looked around. “What’s the significance of 11:17?”
+Derek thought. “The train.”
+Everyone went quiet. The photograph.
+11:03 — DEATH
+11:17 — DEPARTURE
+12:04 — ARRIVAL
+Derek took out the photograph.
+The clock in the photograph showed 11:03:17.
+He regarded the actual clocks. 11:17:00.
+Then he examined Barbarian. “Can you make them start again?”
+Barbarian shook his head.
+“I don’t control them.”
+“Who does?”
+“I don’t know.”
+Derek inspected Weinstein.
+Weinstein was staring at the sky. “What?”
+Weinstein pointed. “Look.”
+They looked upward. Nothing unusual was visible. Blue sky.
+Clouds. A plane. Then Derek noticed something.
+The plane wasn’t moving. Neither was the cloud. The leaves had stopped.
+The bird was suspended in the air.
+Trevor stared. “That’s impossible.”
+Derek smiled. “Yes.”
+Penny considered him. “Don’t say it.”
+“Why?”
+“Because I know what you’re going to say.”
+Derek grinned. “Well, that’s settled.”
+Barbarian looked remarkably calm. Weinstein wasn’t. He silently stared at the suspended plane. “The physical world has stopped.”
+Barbarian shook his head. “No.”
+“What do you mean, no?”
+“Look at the pond.”
+They did. The surface of the water was perfectly still. But a small insect was sitting on it.
+Not moving. Derek took in the room. Nothing moved.
+Not the leaves. Not the clouds. Not the distant plane.
+Not the bird. Not the water.
+Then Penny pointed. “Look at Trevor.”
+Everyone glanced at Trevor who was standing perfectly still. He blinked.
+Everyone stared intently.
+Trevor blinked again. “What?”
+Derek smiled. “You’re moving.”
+Trevor stared at his hands. “So, are you.”
+Penny slowly moved her head. “So, am I.”
+Weinstein gazed at Barbarian. “You can move.”
+“Yes.”
+“So, can we.”
+“Yes.”
+“But everything else is frozen.”
+“Apparently.”
+Derek checked his watch. Still 11:17.
+He eyed the sky. Still frozen.
+He watched Barbarian. “How?”
+Barbarian smiled. “Perhaps time has stopped.”
+Derek frowned. “You’ve been waiting your entire career to say that, haven’t you?”
+“Possibly.”
+Trevor glanced around. “If time has stopped, why are we moving?”
+Barbarian nodded.
+Derek thought. “Because our local physical processes haven’t stopped.”
+“Perhaps.”
+“Then time hasn’t stopped.”
+Barbarian smiled. “Perhaps.”
+Weinstein looked annoyed. “You’re enjoying this.”
+“Immensely.”
+“Why?”
+“Because you’re trying to make the word ‘time’ do too much work.”
+Weinstein folded his arms. “Explain.”
+Barbarian gestured around the quiet garden. “Suppose there is no fundamental time variable ticking behind reality.”
+“All right.”
+“Suppose instead there are physical configurations.”
+He pointed to the frozen plane. “One configuration contains that plane in one position.”
+He pointed to the garden. “Another contains it somewhere else.”
+He pointed at the clocks. “The clocks are physical systems within those configurations.”
+He pointed at Trevor. “And so are we.”
+Trevor nodded. “Yes.”
+“So if we move from one configuration to another while the clocks don’t advance, the clocks don’t provide the ordering.”
+Derek understood.
+“The relationships do.”
+“Just so.”
+Weinstein frowned. “But then what has happened to the time coordinate in the equations?”
+Barbarian smiled. “Nothing.”
+“Nothing?”
+“The equations remain useful.”
+“Then you aren’t denying time in physics.”
+“I’m denying that the symbol t must correspond to a fundamental substance flowing through the universe.”
+Weinstein nodded slowly. “That’s more defensible.”
+“Much.”
+Penny surveyed the strangely frozen plane. “So what we’re seeing is a physical configuration in which the clocks aren’t advancing.”
+“Yes.”
+“But we’re still changing.”
+“Yes.”
+“Then the clocks aren’t fundamental.”
+“No.”
+“They’re just one type of physical process.”
+“Exactly.”
+Derek studied the silent brass clock. “And this one is somehow associated with a different sequence of configurations.”
+Barbarian nodded. “Perhaps.”
+Derek smiled. “Fine. Next problem.”
+Trevor regarded him. “What?”
+“We’ve learned something.”
+“What?”
+“That the clock isn’t measuring some universal time.”
+“Right.”
+“It is measuring something physical.”
+“Yes.”
+“And that physical process can disagree with other physical processes.”
+“Yes.”
+Penny smiled. “Which is exactly what relativity already told us.”
+Derek nodded. “Yes.”
+Weinstein fell silent in thought. “And yet this is different.”
+“Why?”
+“Because in ordinary relativity, the clocks disagree according to the geometry of spacetime.”
+Barbarian nodded. “And here?”
+Weinstein pointed at the frozen garden. “We have no idea what geometry we’re dealing with.”
+Barbarian smiled. “Now you’ve reached the interesting part.”
+The bird suddenly moved. It flew away. The leaves rustled.
+The distant plane continued across the sky. The cloud moved. Water rippled in the pond.
+All the clocks began ticking again. 11:17:01.
+Then 11:17:02.
+Then 11:17:03.
+Everyone stood silently.
+Trevor checked his phone. 11:17:03.
+Penny checked hers. 11:17:03.
+Derek examined the wall clock through the window. 11:17:03.
+Weinstein inspected his watch. 11:17:03.
+Barbarian smiled. “Well.”
+Derek nodded. “Well, that’s settled.”
+Trevor took in the room. “What is?”
+“Time exists.”
+Barbarian shook his head. “No.”
+Derek smiled. “You couldn’t resist.”
+“Not really.”
+Penny laughed. The clocks continued ticking.
+Derek studied the photograph again.
+11:03 — DEATH
+11:17 — DEPARTURE
+12:04 — ARRIVAL
+Then he noticed something he hadn’t noticed before. There was a fourth line. It had been hidden beneath the fold.
+He unfolded the paper. It read:
+11:17 — ALL CLOCKS STOP
+12:04 — ALL CLOCKS START
+A new line appeared in Case 1047 under REMOTE CONSULTANT NOTE: SHERLOCK
+If every clock agrees too perfectly, ask whether it is telling time or identifying something.
+Derek silently stared. Penny leaned over. Trevor read it.
+Weinstein turned to Barbarian.
+Barbarian’s smile disappeared. “That’s new.”
+Derek raised his eyes. “Very.”
+Trevor confirmed: “But the clocks just stopped.”
+“Yes.”
+“And started again.”
+“Yes.”
+“Exactly as described.”
+“Yes.”
+Penny glanced at the paper. “So, this wasn’t a malfunction.”
+Derek shook his head.
+“No.”
+“It was an event.”
+“Yes.”
+Weinstein nodded. “And the clocks recorded it.”
+Barbarian slowly stared at them. “Or participated in it.”
+Derek considered that. “What’s the difference?”
+Barbarian smiled faintly. “That is the question.”
+The ancient brass clock in Derek’s pocket began ticking. Once. Twice.
+Then it stopped. Derek took it out.
+The face now read: 12:04.
+Trevor stared intently. “But it’s 11:17.”
+Derek gazed at him.
+“Apparently.”
+Penny smiled. “Well, that’s inconvenient.”
+Derek peered at the silent clock.
+“Very.”
+Weinstein took it from him. He examined the mechanism. Nothing.
+No obvious fault. No hidden mechanism. No battery.
+No radio receiver. No trick. He eyed Barbarian.
+“Do you still think time doesn’t exist?”
+Barbarian considered the question. “I think reality is perfectly capable of existing without asking my permission.”
+Weinstein smiled. “That’s not an answer.”
+“No.”
+“Then?”
+Barbarian handed the silent clock back.
+“Time may be a very useful description of relationships between events.”
+He paused. “But I have never been convinced that the universe itself carries a watch.”
+Derek watched the silent clock. “Perhaps it doesn’t.”
+“Perhaps.”
+“Perhaps we’re the ones carrying it.”
+“Exactly.”
+Derek put the silent clock back into his pocket. “Well, that’s settled.”
+Trevor smiled. “What?”
+“We’ve learned something useful.”
+“What?”
+Derek looked toward the frozen sky. “The next event is at 12:04.”
+Penny nodded. “And we’re currently at 11:17.”
+Trevor checked his phone. “Forty-seven minutes.”
+Derek smiled. “Excellent.”
+Barbarian surveyed him. “Excellent?”
+“We have forty-seven minutes to find out where the train is going.”
+Barbarian shook his head.
+“No.”
+Derek frowned. “What?”
+“You have forty-seven minutes to find out where the train has already been.”
+Derek stared at him. Then smiled. “Right.”
+Penny picked up her coat. “London?”
+“London.”
+Trevor stood. “Platform seven?”
+“Platform seven.”
+Weinstein studied the clock. “And the train?”
+Derek carefully opened the door. “We’ll find it.”
+Barbarian called after him, “Mr Gent.”
+Derek turned. “Yes?”
+Barbarian pointed at the silent clock. “Don’t trust it.”
+Derek smiled. “We weren’t planning to.”
+Barbarian nodded. “Good.”
+Derek opened the door. Then stopped. “One thing.”
+“What?”
+“If time doesn’t exist…”
+Barbarian smiled. “Yes?”
+“What day is it?”
+Barbarian regarded him. For the first time since they’d arrived, he seemed genuinely uncertain.
+“Ah.”
+Penny laughed. Trevor laughed. Even Weinstein smiled.
+Barbarian examined the clocks around the empty room. Then at the sky.
+Then at the brass clock in Derek’s hand. “Well,” he insisted, “that’s rather embarrassing.”
+And somewhere in London, a distant train began moving toward empty Platform Seven. It had left yesterday. It would arrive tomorrow.
+And, according to the timetable, it had never existed at all.

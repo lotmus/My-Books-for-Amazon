@@ -1,0 +1,20 @@
+import re, zipfile
+from pathlib import Path
+p = Path(r"D:\My Books for Amazon\Schrodingers_Paperwork\Schrodingers_Paperwork_BOOK_1_2.docx")
+with zipfile.ZipFile(p) as z:
+    xml = z.read("word/document.xml").decode("utf-8")
+    styles = z.read("word/styles.xml").decode("utf-8")
+    print("testzip", z.testzip())
+    print("size", p.stat().st_size)
+print("de-DE", "de-DE" in xml, "de-DE styles", "de-DE" in styles)
+print("en-GB", xml.count("en-GB"))
+print("blue heading", "2E74B5" in styles)
+print("black heading", 'w:val="000000"' in styles)
+print("lastRendered", "lastRenderedPageBreak" in xml)
+print("Ember", "Amazon Ember" in xml)
+print("pageBreak style", "pageBreakBefore" in styles)
+h1 = re.search(r'<w:style w:type="paragraph" w:styleId="Heading1">.*?</w:style>', styles, re.DOTALL)
+print("H1", h1.group(0)[:400] if h1 else "missing")
+extents = re.findall(r'<wp:extent cx="(\d+)" cy="(\d+)"', xml)
+print("max_in", max(int(cy)/914400 for _, cy in extents))
+print("tallest", max((int(cy), int(cx)) for cx, cy in extents))

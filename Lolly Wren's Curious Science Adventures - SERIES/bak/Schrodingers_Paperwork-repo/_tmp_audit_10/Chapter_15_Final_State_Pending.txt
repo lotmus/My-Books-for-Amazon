@@ -1,0 +1,72 @@
+1895|Heading 1|Chapter 15: Final State Pending
+1896|Normal|The fault took a day to find and an afternoon to starve.
+1897|Normal|What the four detectors had been agreeing about, in the end, was the time. Every timing rack the Ministry owned drew its clock from the same civic distribution. The two ends of a Bell test are meant to be strangers to one another. Hers had been keeping time by the same heartbeat, drawing their random setting-choices off the same central feed, and between them they had produced a beautiful, stable and entirely worthless agreement: the apparatus, measuring the Ministry, and subtracting it from itself.
+1898|Normal|“It is the cleanest result I have ever recorded,” Fainrose said, “it means nothing whatsoever, and had I taken it to a committee they would have funded three more.”
+1899|Normal|Lolly had the shape of it before the explanation finished, because by then she had the shape of it everywhere. “It’s Venn’s scanner. The instrument was inside the thing it was measuring.”
+1900|Normal|“The instrument was inside the thing it was measuring,” Fainrose agreed, “and the instrument was ours, so nobody thought to look.”
+1901|Normal|The repair was not clever. It was subtraction, which by now Lolly understood to be the only move the whole business had ever actually rewarded. They cut the rig loose from anything with a crest on it. Two clocks instead of one — a pair of cheap oscillators left to run free and deliberately out of step, one at each station. The setting-choices now came off two smoke-detector sources Gideon had signed out of the annex stores, on the principle that decay does not wait for a central feed. Jago left the second detector rack in a van on the ridge with a car battery and a young man from the annex whose entire brief was to change nothing. What the rig did, once it was properly deaf, was put the same two questions to a pair of houses at opposite ends of Fainrose’s lattice — houses the Ministry had surveyed as separate cases, on separate afternoons, in separate folders — over and over, in an order neither end could predict, and count how often their answers agreed.
+1902|Normal|They agreed far too often.
+1903|Normal|“That’s the one Bell minded about most,” said Bellew, who had come out to the hall to watch a trace he had no need to watch, being both dead and certain. “Not the detectors. The choices. If something you cannot see is deciding what gets measured and which measurement gets made, the argument folds and you never learn that it folded. He worried about it to the end. So should you.”
+1904|Normal|They ran it clean on the Sunday. The number Bellew had promised in the conference room came up a little after four.
+1905|Normal|Fainrose read it off the timing computer with no expression at all, which was how Lolly knew it was real. “Two point four one. Plus or minus three in the last place.”
+1906|Normal|“Ceiling’s two,” said Bellew.
+1907|Normal|“The ceiling is two. The threshold we put in front of Pilbeam in writing was two point three, error bars clear of it.”
+1908|Normal|“Then you’re clear of it.” He looked at the trace a moment longer. “A change made in one place altering what is true in another, and nothing crossing between. Nine thousand houses, surveyed one at a time, answering as one thing. Werner cannot call that metaphysics — it is an instrument reading, and instrument readings are the only things he has ever accepted. Max cannot call it harmless — it is his instrument reading too. There is no interpretation anywhere in the figure. That is precisely why it will hold.”
+1909|Normal|Fainrose did not pack the rig away afterwards. She moved one station indoors, retuned it from Bellew’s cross-lattice correlation to the district’s own internal one, and set it to log. “That one stays,” she said. “Different pair, different number. It will sit flat and stupid for as long as the anchor is still listening to these houses. The morning it starts to climb is the morning we have actually let go.”
+1910|Normal|Lolly wrote the legal number in the green notebook, and then the sentence beneath it that mattered more:
+1911|Normal|You cannot test a thing with an instrument that shares its clock. The apparatus was part of the Ministry, so of course it agreed with the Ministry.
+1912|Normal|And under that:
+1913|Normal|They surveyed nine thousand houses separately. The houses answered as one. That is now a measured fact rather than an argument, and it is the only sentence in this entire affair that a court cannot talk its way around.
+1914|Normal|She telephoned Beatrix at six and was told to say the number. She said it. Beatrix hung up without another word, which from Beatrix was effusive.
+1915|Normal|Beatrix Sloan won the injunction application on the Monday morning and lost the argument about what to do with it by lunchtime, because the Board, faced with an order it could not ignore, did what boards do when cornered: it asked for a plan, in writing, by four o’clock, confident that no plan could possibly exist and that confidence, once minuted, would constitute a defence.
+1916|Normal|“They think we’re bluffing,” said Beatrix, setting down the telephone with the particular gentleness of a woman who would have preferred to throw it.
+1917|Normal|“We are not bluffing,” said Fainrose. “We simply do not yet have a plan.”
+1918|Normal|“That is the same thing to a Board, for four hours and two biscuits.”
+1919|Normal|Lolly Wren, who had spent the walk back from the courthouse turning something over in the green notebook that she could not yet make into sentences, said, “We have four plans. We have never had fewer than four.”
+1920|Normal|Everyone looked at her.
+1921|Normal|“Keinschein: spread better agreement. De Brévanne: take the apparatus out of the wave. Fainrose: repair from surviving correlations, in the right order. Von Wittenberg: listen to the horizon before it finishes burning.”
+1922|Normal|“Those are four different physics,” said Fainrose, “held by four people who have never once agreed on anything else.”
+1923|Normal|“Yes,” said Lolly. “And Bellew told me not to pick until something forced me to, and to use whichever one told me where to put the probe.” She closed the notebook. “Nothing has forced me to pick. So I’m not going to. I’m going to use all four, because none of them actually contradicts what we do with a cable and a timing rack on an ordinary working afternoon. They only contradict each other about what it means. Nobody has ever asked us to certify what it means. The injunction asks us to fix nine thousand houses in eleven weeks.”
+1924|Normal|Fainrose was quiet for a moment, in the stillness that Lolly now knew to wait out rather than fill.
+1925|Normal|“Say the plan,” she said. “Slowly. I want to write it down exactly once.”
+1926|Normal|She said the plan slowly.
+1927|Normal|Von Wittenberg’s people would listen at the horizon for whatever of the four hundred and eleven P-9 states could still be pulled from the radiation before the anchor finished evaporating. That deadline would not move.
+1928|Normal|Fainrose’s team would treat the lattice as error-correcting code: repair the pattern, in syndrome order, without measuring the citizens who carried it.
+1929|Normal|And the apparatus would be switched off first. If the scanners had been deforming the guidance, the most useful move before any clever repair was to stop making it worse.
+1930|Normal|“That’s not physics,” said Fainrose. “That’s just turning it off.”
+1931|Normal|“It is the least fashionable intervention available,” said Lolly. “De Brévanne didn’t give me a new machine. He gave me permission to stop running the old one.”
+1932|Normal|Gideon Wigglesworth, who had been sitting by the window with a coffee gone cold, said, “You’ll still need to know where the off switch actually is.”
+1933|Normal|Fainrose looked round. “I beg your pardon.”
+1934|Normal|“The scanners. The certification passes. The entire industrial machinery of asking, you said.” Gideon set his cup down with care. “Nobody built one switch. They built forty, over fifteen years, in whatever cupboard was nearest. Nobody ever plans a shutdown; they only ever plan a launch. If you want it off, you don’t need a theory. You need someone who has spent three years reading requisition forms and already knows which cupboard the relay is in.”
+1935|Normal|“And you know,” said Lolly.
+1936|Normal|“I know which nineteen cupboards it might be in,” said Gideon. “I can find out the other one by Thursday.” He stood to go and refill his coffee, misjudged the doorway by the same half-inch he had been misjudging it for as long as Lolly had known him, and did not, on this occasion, spill any of it, which she chose to take as a good omen.
+1937|Normal|Beatrix wrote this down in the flattened, unpoetic language a court could not misread, and delivered it at four o’clock precisely. The Board — which had wanted a plan mainly in order to reject one — discovered it could not credibly call this absent, and was obliged, for the first time in the Initiative’s history, to fund something rather than merely surviving a review of it.
+1938|Normal|The deadline was no longer an administrative fiction. At 4C, the anchor had begun to lose mass. Every hour they spent arguing about interpretation was an hour in which information could become physically unrecoverable.
+1939|Normal|Gideon looked at the clock. “We should probably stop debating whether we’re ready.”
+1940|Normal|Beatrix looked at him. “Why?”
+1941|Normal|“Because the universe doesn’t appear to have asked whether we are.”
+1942|Normal|It was that same afternoon, with the plan on the Board’s desk and not a scanner yet switched off, that Mrs Elspeth Chain came to the annex and asked to see Fainrose alone, which she had not done before.
+1943|Normal|Lolly was not present for the conversation. She learned what mattered from Fainrose afterward, on the crate by the timing rack, with two mugs of the annex tea, which nobody had improved.
+1944|Normal|“She asked me for a number,” said Fainrose. “How much of her sister we would get back. A percentage. She wanted it before the injunction ran out, not after, because she said she had spent her whole life being told good news arrived on time and had never once seen it happen and did not intend to be surprised twice.”
+1945|Normal|“And you gave her one.”
+1946|Normal|“I told her the truth, which is that I did not know, and that anybody who told her a number this week was lying to her for the same reason Voller lied to himself about the vault — because a number is comforting and a distribution is not, and she deserved the distribution.” Fainrose turned the mug in her hands. “She said that was the first honest answer anybody in this building had given her, and that she would come back when there was one worth hearing. Then she left without shouting, which frightened me considerably more than if she had.”
+1947|Normal|Lolly thought about the photograph on the mantelpiece, restored by a man pulling a cable out of a skirting board without permission, and about the two duvets, and about a woman standing in a doorway in her own house asking a government to explain itself.
+1948|Normal|“What do we actually owe her,” she said. “Not the district. Her.”
+1949|Normal|Fainrose did not answer immediately, which she had learned to recognise as the shape of an answer arriving.
+1950|Normal|“I used to think the job was restoration,” she said at last. “Put it back. That’s what I trained for. But de Brévanne asked whether a fully restored district would be a country, or a forgery of the country that would have existed if nobody had touched it. I did not have an answer. I am unused to that, and I dislike it less than I expected.”
+1951|Normal|“What’s the alternative to restoration.”
+1952|Normal|“Not a cartoon. Not a copy. Not a photograph of a conversation.” Fainrose looked at her. “A district that remembers, imperfectly, that a Ministry once stood in its wave with a clipboard. Mrs Chain wants her sister recoverable, not undamaged — my words from week one, which she kept. None of the rest of us did.”
+1953|Normal|Lolly opened the green notebook and found the page from the night of the cold vault, Fainrose’s words, jotted beneath the note about the code, almost as an afterthought: She will be recoverable. That is not the same as unharmed.
+1954|Normal|“Then that’s the plan,” she said slowly. “Not full-state reconstruction. Not the vault’s dream of exactness. A negotiated settlement between what was and what can honestly be recovered — published, itemised, with the gaps named rather than papered over. Von Wittenberg’s list, when it comes. Whatever fraction it turns out to be.”
+1955|Normal|“A country that admits its own scar tissue,” said Fainrose, “rather than one that pretends to have been born without a wound.”
+1956|Normal|“Will the Board accept that.”
+1957|Normal|“The Board,” said Fainrose, “will accept whatever a court orders it to accept, and courts, it turns out, have a great deal of respect for an itemised list of gaps and no respect whatever for a certificate of perfection. Beatrix explained this to me on the second day and I did not believe her and I believe her now.”
+1958|Normal|They sat for a while without talking, which by then had become one of the more comfortable things either of them did.
+1959|Normal|“I keep thinking about the moon,” said Lolly eventually.
+1960|Normal|“Outer Fenwick.”
+1961|Normal|“It didn’t need forty-one people to stay a moon. It needed the air left alone to keep noticing it. That is what we’re trying to give Mrs Chain back — not a certificate. Permission for an ordinary life to stay itself without a form standing over it.”
+1962|Normal|“That is either the plainest sentence you have said since breakfast,” said Fainrose, “or the most sentimental, and I find I am too tired to tell which, which may itself be the first reliable instrument reading we have had all afternoon.”
+1963|Normal|She wrote it down anyway.
+1964|Normal|Beatrix looked in from the corridor. “It’s on their desk,” she said. “We have a plan. They have a Board. I know which of those I would rather take into a courtroom.”
+1965|Normal|Rule: The honest plan repairs what survives and names what does not; it does not require picking an interpretation first.
+1966|Normal|→ Lecture for this chapter: Quantum Error Correction, Partial Recovery and Planning Without an Interpretation

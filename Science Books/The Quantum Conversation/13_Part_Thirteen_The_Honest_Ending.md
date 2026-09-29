@@ -4,7 +4,7 @@
 
 ## 46. The Ladder of Descriptions: Electron to Eye
 
-![Figure 12. Six landmark stations on the climb from bedrock to everyday sight: quantum amplitudes for each path, summed as Feynman diagrams, organized as QED, building atoms and chemistry, producing light and color, and finally reaching a person seeing the world. These are stops along the path, not a box for every step of it — the chapter walks through several more rungs between them, bulk materials and superconducting phase and circuit QED among them. No new fundamental law is inserted going up at any of those in-between steps either — only new collective variables and effective descriptions, emerging at each one.](fig12_ladder.png)
+![Figure 12. Six landmark stations on the climb from bedrock to everyday sight: quantum amplitudes for each path, summed as Feynman diagrams, organized as QED, building atoms and chemistry, producing light and color, and finally reaching a person seeing the world. These are stops along the path, not a box for every step of it — the chapter walks through several more rungs between them, bulk materials and superconducting phase and circuit QED among them. No new fundamental law is inserted going up at any of those in-between steps either — only new collective variables and effective descriptions, emerging at each one.](fig08_ladder.png)
 
 Start with a single electron. At the microscopic level, it is a quantum excitation of a relativistic matter field. It carries charge, it interacts with the electromagnetic field, its amplitudes carry phase, and its interactions produce the quantum corrections worked out in Part Ten. This is QED, in its rawest and most fundamental form — the floor this ladder stands on.
 

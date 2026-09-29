@@ -1,0 +1,182 @@
+76 [About the Series] About the Series
+84 [The lectures live together] The lectures live together in the Appendix as a real class, 18 lectures in four parts, one per chapter.
+110 [interactive demonstrations] A number of the experiments described in the Physics Notes have also been rebuilt as interactive demonstrations, viewable at lotmus.github.io/lolly-wren-companion. No form is required to access them, no queue must be joined, and no signature is collected on the way in. The author is aware how suspicious this looks and stands by it anyway.
+112 [Lecture 1:] Lecture 1: Two Slits, One Question — a two-path superposition you can refuse to collapse. Lecture 2: Through a Polarizer — polarisers as a measurement basis. Lecture 4: A Watched Pot — a Zeno slider that makes Venn look less hypothetical. Lecture 13: Beat the Classical Limit — a CHSH scoreboard that will not let you beat 2√2. If a demo is down, the
+125 [Mrs Prosser] Mrs Prosser — of Outer Fenwick. Runs the moon rota. Has written to the Ministry nine times and would like that on record.
+126 [Mr Pilbeam] Mr Pilbeam — chairs the Board of Inquiry with the weary patience of a man who has chaired several universes’ worth of them. Has the rare administrative gift of looking as though he has already written the minutes of the meeting you have not yet decided to call.
+127 [Albrecht Eilstein] Albrecht Eilstein — oldest “consequence”, which is his own polite word for “vampire”; feeds on what didn’t happen; arrives when invited. Excellent table manners. Unsettling honesty.
+133 [Erich Schrottfinger] Erich Schrottfinger — one hundred and fourteen (or thereabouts); empty wooden box; views about how his cat has been reported; there is no lid.
+1276 [Mrs Prosser] “You’ll be from the Ministry,” she managed, without much enthusiasm. “I’m Mrs Prosser. I do the rota.” | “The rota for what, precisely?” Fainrose asked.
+1277 [Mrs Prosser] “The moon.” Mrs Prosser ventured it as one might say the bins: a fact of civic life requiring management rather than wonder. “It came in with the Continuity Review, love. Fourteen months back. Somebody at the Ministry decided Outer Fenwick’s night sky was an ‘unresolved amenity pending classical adequacy determination’ (those are the exact words; I
+1281 [Mrs Prosser] “Forty-one,” replied Mrs Prosser, with the flat authority of a woman who had fought this battle with a spreadsheet and won. “It was thirty-eight for the first six months. Then they moved the district boundary, picked up three more houses, and never revised the number back down. I have written to them nine times about it, and I would like it on reco
+1284 [Mrs Prosser] “It gets vague,” Mrs Prosser explained. “Not gone. Vague. You get a sort of grey smudge where it ought to be, like a photograph somebody’s thumb was over half of. Cats won’t sit by the window, and my Reginald says his knee plays up, though Reginald’s knee plays up regardless and I don’t put that one on the Ministry. I have standards. The lamp on Cu
+1285 [Mrs Prosser] Somewhere behind the house a voice called out a number — thirty-six, it sounded like — and Mrs Prosser did not so much as glance towards it, which told Lolly more about how often this happened than any of the forms had.
+1287 [Mrs Prosser] “Mrs Prosser,” she instructed. “On the night the complaint describes, talk me through it minute by minute.”
+1288 [Mrs Prosser] Mrs Prosser was, it turned out, exactly the witness a desperate physicist could have ordered from a catalogue. She had logged everything. At 8:52 there had been thirty-four confirmed observation returns: people on steps, forms ticked, the usual quorum falling short by the usual margin, which normally resolved itself by nine as the last few latecome
+1289 [Mrs Prosser] But on the fourteenth, seven regular observers had been at the church hall for the whist drive, and the moon (Mrs Prosser used the word with the weary precision of someone who had stopped finding it strange) had “sort of dithered.” It was visible from some houses and not from others. One household reported a crescent; the house two doors along, loo
+1290 [Mrs Prosser] “And then,” remarked Mrs Prosser, “gone eleven, the whist drive let out, and everybody came home and had cocoa and looked up out of habit more than hope, and there it was. Properly there. Committed, like the letter said.”
+1291 [Mrs Prosser] “Like the complaint said,” Lolly corrected gently. | “Same thing round here,” agreed Mrs Prosser.
+1300 [Mrs Prosser] Lolly looked from her to Mrs Prosser to the moon and felt the particular vertigo she had come, over the past few days, to recognise as understanding arriving slightly ahead of comfort.
+1304 [Mrs Prosser] Mrs Prosser brightened. “There is an invoice,” she announced, and fetched a folder kept for exactly this moment.
+1336 [Albrecht Eilstein] He beamed at them. “Albrecht Eilstein,” he announced. “Please don’t.” | “Don’t what?” Lolly asked. | “Say it. Everybody says it. I have had eleven decades of it, and it was tiresome by 1931.”
+1368 [Albrecht Eilstein] “Then—” Lolly’s voice came out wrong, and she started again. “Then the Simplification Initiative—” | “Is the finest thing that has happened to me since agriculture,” replied Albrecht Eilstein.
+1395 [Albrecht Eilstein] Albrecht Eilstein smiled. It was not a comfortable smile, and Lolly understood that they had arrived at the thing the old man had actually come to say.
+1408 [Albrecht Eilstein] “It will be writing it,” finished Albrecht Eilstein. “And it will be inside the sentence when it does. Good evening. Do not invite me anywhere without meaning it.”
+1451 [Albrecht Eilstein] “I have known Albrecht Eilstein,” he began, “for ninety-one years, and I have never once forgiven him. I would trust him with my life and nothing smaller. He telephoned me last night. He said: Louis, they have a clerk who has understood four things by herself, and she is about to stop.” Then De Broccoli turned his head. “Was he correct?”
+1527 [Mr Pilbeam] “We are not here to adjudicate physics,” announced the chair, a Mr Pilbeam, who had been brought in from Transport on the grounds that he had once managed a bridge, although the bridge had not supplied a reference. “We are here to determine whether a recommendation exists. If the expert panel is unanimous, we may act. If it is divided, the matter i
+1591 [Mr Pilbeam] “You’ve been told it’s metaphysics,” Bellboy continued, “and that her guiding wave is unfalsifiable, and both dismissals are true and both are beside the point.” He nodded towards Lolly. “You don’t need to win the interpretation. You need one thing in front of Mr Pilbeam, the one thing tested to death: that a change compelled in one place can alter
+1619 [Mr Pilbeam] Numbers have the administrative advantage of not caring who chairs the panel. Mr Pilbeam, who had chaired several universes’ worth of them, recognised this immediately and looked, for a moment, almost grateful.
+1746 [If the apparatus shares] Rule: If the apparatus shares the Ministry’s clock, it will measure the Ministry and call the agreement a result.
+1878 [Mrs Prosser] Jago opened it with a screwdriver he was not supposed to be carrying. “Well,” he said, “that explains the improved weather forecasts.” | Mrs Prosser arrived with tea, confirmed what fourteen months of moon rota had already taught her, and watched the Ministry switch the mast off eleven days later, apologise without once using the word sorry, and send
+1882 [Mrs Prosser] Jago brightened. Mrs Prosser produced a thermos. Beatrix urged, “Go on, then,” in the tone of someone settling in for a play she suspected would not end well.
+1891 [Mrs Prosser] Fainrose, who had come only to observe and regretted it slightly less than she had expected to, examined the report over Priddy’s shoulder. “These marks are consistent with Unit 7B’s own settling cycle,” she noted. “It sheds structure it can no longer support. Nobody damaged it. It simply declined to be one thing for the whole evening.” | “As did Mr 
+1916 [Erich Schrottfinger] “Sit,” Schrottfinger announced. “I have ordered you a coffee and it is already unpleasant, which is the most reliable thing in this building. Erich Schrottfinger. You have been sent to me by a dead Irishman, a French duke, and a vampire, which is a referral pattern I have not had since 1953.”
+1931 [Erich Schrottfinger] “Now,” Erich Schrottfinger continued. “The interesting part. Every physicist my age was taught that the universe runs down: order becomes disorder, and that is the second law of thermodynamics, and it is perfectly true. Tell me, Ms Wren. You are young, and you are, I am reliably informed, alive. What is the thermodynamic difference between you and 
+1981 [Albrecht Eilstein] Albrecht Eilstein left in December, without ceremony, having eaten nothing for six weeks. “They have stopped asking on an industrial scale,” he remarked, on the annex steps, with his coat over his arm and no shadow on the concrete. “Ask the fellow with the box. He has been waiting since 1935. So, I am told, has the cat.”
+1988 [Mr Pilbeam] Mr Pilbeam continued to chair the Board of Inquiry, on the grounds that nobody else had volunteered and nobody could work out how to un-volunteer him. Nelson continued to attend without permission and continued, on balance, to achieve more clarity per sitting than the Board itself.
+1997 [Erich Schrottfinger] It was Jago who eventually put it together: the elderly gentleman two doors from Beatrix’s flat, the one she had spent years not asking about the box, had signed his witness statement for the Sub-District 6 inquiry as Erich Schrottfinger. Beatrix read it twice, said nothing for a full minute, and then went out and bought better coffee for the next 
+2158 [You need first] You need first: nothing. This is where we begin.
+2161 [Start here.] Start here. Think of a recipe card still being written, with two genuinely possible dinners pencilled in: soup if the weather stays cold, salad if it clears. Until someone makes the deciding trip to the shops, neither dinner is the one being cooked. The image helps with one point: sometimes it is wrong to imagine that one settled answer has merely 
+2197 [You need first] You need first: Lesson 1 (state, measurement, superposition).
+2200 [Start here.] Start here. A kitchen sieve can sort a mixed tin into things smaller than its holes and things larger than its holes. A magnet can sort some objects from the same tin by a different feature. Neither tool reveals every useful fact at once; each makes one distinction and ignores another. The important habit of thought is the same: the question built 
+2233 [You need first] You need first: Lessons 1–2.
+2236 [Start here.] Start here. Imagine trying to watch the colours blend in wet paint by pressing a clean sheet of paper onto it every few seconds. Each press leaves a mark, but it also interrupts and spoils the pattern you wished to see. The record and the disturbance come together. The comparison is imperfect, but it shares the crucial feature that obtaining a reco
+2271 [You need first] You need first: Lessons 1–3.
+2274 [Start here.] Start here. Picture a spinning office chair that is allowed to turn freely only between inspections. If someone stops it, lines it up with a strip of tape, and repeats that intervention again and again, the chair is kept near its starting direction. The chair is only an everyday comparison, but it gives the honest intuition: the repeated checks are
+2309 [You need first] You need first: Lessons 1–4.
+2311 [Start here.] Start here. Think of a perfectly compelled clockwork toy under a glass cover. If nobody touches it, each wheel makes the next one turn in a particular way; run the motion backwards and, in principle, every wheel could retrace its route. The difficult moment is not the clockwork itself. It is opening the cover, prodding a wheel with a ruler, and the
+2350 [You need first] You need first: Lessons 1–5 (especially states and records).
+2353 [Start here.] Start here. Picture a very large block of ice in a quiet, cold room. It melts so slowly that, for a long while, it looks permanent. A smaller block has less staying power: as it dwindles, the conditions that rendered it seem solid no longer protect it in the same way, and the ending becomes noticeably brisker. A black hole is not ice, and one shoul
+2386 [You need first] You need first: Lessons 1–6.
+2389 [Start here.] Start here. Imagine two gloves packed into two sealed boxes by a mischievous warehouse. Opening one box and finding a left glove tells you the other contains a right glove, but only because each glove had a hand before the boxes were sent. Now imagine a much odder arrangement: before either box is opened, it is not correct to say which box contains
+2420 [You need first] You need first: Lessons 1–7.
+2424 [Start here.] Start here. A wax seal on an unopened letter can be carried elsewhere without changing its pattern. You can also make many seals from a design you already know. What you cannot do is press a blank lump of wax against an unknown sealed letter, make a perfect second seal, and leave the first one untouched while learning every fine ridge. Some kinds o
+2459 [You need first] You need first: Lessons 1–8 (especially incompatible questions).
+2462 [Start here.] Start here. Think of a sound heard through a wall. A brief click can be placed with great accuracy in time, but it contains a muddle of musical notes; a long, pure note has a clear pitch, but no equally clear beginning or end. Making one description tight makes the other spread out. No amount of better listening turns one sound into both a perfect 
+2500 [You need first] You need first: Lessons 1–9 (especially entanglement and environment).
+2503 [Start here.] Start here. Imagine a muddy path after a busy morning. Shoes, bicycle tyres, rain, and a dog have each left traces of what passed through; by lunchtime there is no special official whose glance makes the path a path. The surroundings have been taking part all along, and some marks survive the traffic better than others.
+2514 [Mrs Prosser] What this chapter was actually showing you. Mrs Prosser’s forty-one-person moon rota mistakes a civic quorum for a physical process. Outer Fenwick’s moon needs no clipboard holders: photons from the Sun and the moon, air, thermal radiation, and the rest of its surroundings are interacting with it continuously. Within the chapter’s extraordinary mac
+2526 [Mrs Prosser] One-line summary. The moon stays definite because the whole sky keeps physically recording it, not because Mrs Prosser secures forty-one signatures.
+2539 [You need first] You need first: Lessons 1–10.
+2542 [Start here.] Start here. Picture a colleague in a sealed office opening a folded card marked either YES or NO and writing the answer in a notebook. For the colleague, the matter is settled at once; for someone outside who has not opened the door, the office is still a closed story whose contents must be inferred. In ordinary life there is no puzzle about this. 
+2554 [Albrecht Eilstein] What this chapter was actually showing you. Albrecht Eilstein turns discarded outcomes into vampire nourishment, which is fiction with excellent table manners, but his arrival exposes the real difficulty. Phase Two asks a citizen to state a memory, then treats the completed form as if it merely retrieved a pre-existing official fact. Fainrose and L
+2576 [You need first] You need first: Lessons 1–11.
+2579 [Start here.] Start here. Imagine a small toy boat in a canal. The boat is at one particular place, but ripples arriving from different parts of the water can still steer its next turn; the route depends on a wider pattern than the boat alone. The image is not a literal model of an electron, but it earns the central thought: something can have a definite locatio
+2614 [You need first] You need first: Lessons 1–12.
+2617 [Start here.] Start here. Imagine two friends who take jobs at opposite ends of a city, one at each of two restaurants. Each restaurant asks its server, at random, whether to offer tea or coffee. The friends have agreed in advance exactly how to answer either question, but cannot phone one another after they leave home. Their answers can match with real cleverne
+2629 [Mr Pilbeam] What this chapter was actually showing you. Jack Bellboy gives Mr Pilbeam a number rather than a favourite account of reality. The Ministry calls its surveys of nine thousand dwellings separate local acts; Lolly sees that a Bell-style test across Fainrose’s correlation lattice can test that claim. Heisenburger, Tengelman and Bellboy disagree about 
+2651 [You need first] You need first: Lessons 1–13. Optional depth: unconfirmed framework, honest limits.
+2655 [Start here.] Start here. A violin is one object that can make many notes. Change how the string moves and the sound changes; you have not invented a new violin each time. String theory asks whether the zoo of particles might be like that: one kind of tiny vibrating thread, many notes. It is a beautiful idea. Beauty is not evidence. Hold both facts in your head 
+2683 [You need first] You need first: Lesson 14, Part 1, and Lesson 6.
+2687 [Start here.] Start here. A circle drawn on paper can be fully described by a single number written on its edge: the radius. You do not need to describe the whole disc it encloses to know everything geometrical about it — the boundary already carries that information. Holography proposes something far stranger but structurally similar: a full description of a vo
+2721 [You need first] You need first: Lessons 1–14 (especially 8, 12–14).
+2724 [Start here.] Start here. Think of a mural copied across a row of tiled walls. If one tile cracks, the repeated pattern around it can show a restorer what probably belonged there. If a fire takes half the walls, the surviving pieces may still support a repair, but no honest restorer can promise to recover every brushstroke.
+2760 [You need first] You need first: Lessons 1–15.
+2763 [Start here.] Start here. A tidy kitchen does not become tidy because the washing-up has ceased to exist. Someone uses energy to wash, dry and stack it, while warm air, dirty water and a fuller bin carry the untidiness elsewhere. The mess has been paid for, not abolished.
+2794 [You need first] You need first: Lessons 8 and 16.
+2797 [Start here.] Start here. A living body works on the same principle as the tidy kitchen: it keeps an intricate pattern going by taking in useful food and sunlight and sending heat and waste out into the wider world. The pattern is real. It is also never a sealed, complete duplicate of what it was yesterday.
+2806 [What this chapter was actually showing you. Lolly delivers] What this chapter was actually showing you. Lolly delivers Mrs Chain a figure — seventy-eight per cent of her sister, as much of the pattern as survived the listening — and Mrs Chain names it correctly: a very good obituary, not a resurrection. What can be honestly said about a recovered life is the pattern that still holds, not a forged completene
+2830 [You need first] You need first: Lessons 11 and 16–17.
+2833 [Start here.] Start here. A cup of coffee going cold is a small, local version of the same rundown: order spent, heat shared, the drink finished though the evening is not. Scale that up far enough and you get stars, then embers, then evaporating holes, then a dark that is not an appointment in anyone’s diary.
+3161 [About the Series] About the Series
+=== CAST 117-145 ===
+117 Beatrix Sloan — Internal Audit. Wields certainty the way other people wield a truncheon. Builds the legal case that will eventually save everyone, several forms at a time. Loathed by her neighbour’s c
+118 Jago Flint — Interdepartmental Courier Service, Restricted/Floating Clearance. Knows everyone, in several cases rather better than the personnel files admit. Owes half of them money. Drives faster tha
+119 Mrs Elspeth Chain — a citizen. Her sister is the reason any of this matters. Armed at all times with an umbrella that has seen things.
+120 Detective Inspector Albert Priddy — CID. Investigates the impossible by entirely reasonable methods, and closes the file honestly when they don’t hold up.
+121 Crispin Vale — signs Directive 11-C without reading the second page.
+122 Alistair Venn — Senior Review Officer, Continuity. Believes, sincerely and without malice, that reality is a filing problem.
+123 Mr Voller — vault custodian. Builds a backup that the laws of physics say cannot exist. Feels strongly that this ought to count for more than it does.
+124 Miss Adaeze Pike — Certification. Has read Directive 11-C in full, including the second page, and wishes she hadn’t.
+125 Mrs Prosser — of Outer Fenwick. Runs the moon rota. Has written to the Ministry nine times and would like that on record.
+126 Mr Pilbeam — chairs the Board of Inquiry with the weary patience of a man who has chaired several universes’ worth of them. Has the rare administrative gift of looking as though he has already written
+127 Albrecht Eilstein — oldest “consequence”, which is his own polite word for “vampire”; feeds on what didn’t happen; arrives when invited. Excellent table manners. Unsettling honesty.
+128 The Duc de Broccoli — explains himself very slowly; pilot-wave theory in the language of wallpaper; gloves; patience mistaken for faith.
+129 Werner Heisenburger — declines to speculate about anything he cannot measure; formalism, not foundations; the difference is the entire difference.
+130 Max Tengelman — cheerfully believes in all of it, all at once (as himself); many worlds; will put a local objection in the minutes when corrected.
+131 Jack Bellboy — deceased, of Belfast, and still the most dangerous man in the room; brings a number instead of an interpretation.
+132 Eduard von Wittenberg — eleven dimensions, no experimental confirmation, and says so; history major once; listens at horizons.
+133 Erich Schrottfinger — one hundred and fourteen (or thereabouts); empty wooden box; views about how his cat has been reported; there is no lid.
+135 Prologue: Before Anything Went Wrong
+136 There was a time when the Ministry of Eventualities was not in trouble.
+137 This was mainly because nobody had yet noticed that it existed.
+138 The Ministry occupied a respectable grey building in Coldharrow, between a Department of Minor Infrastructure and an office responsible for the licensing of ceremonial ladders. Its sign was small. Its
+139 Its official purpose was simple: to deal with events that had not happened yet.
+140 This sounded reasonable when written in a memorandum. It still does, which is the trouble with memoranda.
+141 The difficulty was deciding what counted as such an event.
+142 Almost anything did, apparently.
+143 The Ministry had forms for anticipated accidents, projected disputes, future absences, possible administrative consequences, and one particularly unpopular form for things that were almost certainly g
+144 Nobody considered this strange.
+145 This was the first mistake.
+=== HOW TO READ 80-115 ===
+80 How to Read This Book
+81 This is a satirical, absurdist novel with a strong dose of British humour. You need to know no physics at all to read it, and nothing in the story requires homework. The physics is there for the same reason the forms are there: because reality does n
+82 But it is also an honest book, and it is built in two layers.
+83 The novel is the story of Lolly Wren, a Transit Reconciliation Officer, Third Grade, who spent ten years in the electronics trade and eleven minutes as a working physicist, and who discovers that her department has been making reality simpler by push
+84 The lectures live together in the Appendix as a real class, 18 lectures in four parts, one per chapter.
+85 Each lecture tells you what you need first, what you leave knowing how to do, and then stops you cold until you can say the idea plainly to someone who has never heard the jargon, and keep her interested.
+86 Each lecture is laid out the same way, so you always know where you are:
+87 In one breath: the whole idea in a sentence or two.
+88 Start here: an everyday analogy, no jargon.
+89 The idea, step by step: the argument assembled in order.
+90 What this chapter was actually showing you: the story and the science locked together.
+91 Where the popular version goes wrong: the misconception you have probably been taught, corrected.
+92 Going deeper: the real machinery, the equations, the named experiments. Explicitly skippable.
+93 What sticks: the few things worth keeping without notes.
+94 One-line summary: the sentence to keep.
+97 Three Honest Ways to Read This Book
+98 For the story alone: read the chapters and stop at each rule.
+99 You will lose nothing. The lectures recap what you have already read; they do not advance the story.
+100 To take the class: read each chapter, then its lecture, in order.
+101 Lecture 1 assumes nothing;
+102 Lecture 18 assumes Lecture 17.
+103 Use “The Shape of the Course” if you want the map.
+104 By the end you will genuinely understand superposition, measurement, entanglement, uncertainty, decoherence, Bell’s theorem, why black holes are a problem, why local order is always paid for somewhere else, and why there is no final lid, and you will
+105 If you are impatient: the Physics Prologue at the back summarises the entire scientific content of the book in bullet points, drily, in about ten minutes.
+106 It was written by a civil servant for other civil servants and it gives away nothing except the physics.
+107 There is a fourth way, which the Ministry would approve and which this book does not: skip the story, skip the lectures, and keep only the one-line summaries. You will finish in twenty minutes and be able to pass a quiz set by someone who has also on
+108 One promise, kept throughout: where the science is genuinely unsettled, and a great deal of it is, this book says so plainly rather than tidying it away.
+109 Tidying things away is what the Ministry does, and look where that got them.
+110 A number of the experiments described in the Physics Notes have also been rebuilt as interactive demonstrations, viewable at lotmus.github.io/lolly-wren-companion. No form is required to access them, no queue must be joined, and no signature is colle
+111 If a demonstration is mentioned in a lecture’s Going-deeper block, the companion page for that lecture is the one whose number matches the chapter. Lecture 1’s superposition toy is not a plot device. It is the thing Lolly wrote in pencil and then cov
+112 Lecture 1: Two Slits, One Question — a two-path superposition you can refuse to collapse. Lecture 2: Through a Polarizer — polarisers as a measurement basis. Lecture 4: A Watched Pot — a Zeno slider that makes Venn look less hypothetical. Lecture 13:
+113 Cast of Characters
+114 Lolly Wren — Transit Reconciliation Officer, Third Grade. Ten years in the electronics trade before that; eleven minutes as a working physicist before that, which is a story she does not tell at parties. Keeps a green notebook marked PRIVATE / UNHELP
+115 Gideon Wigglesworth — Lolly’s friend, and a bench engineer beside her for years before the Ministry claimed them both. Exceptionally intelligent, remarkably clumsy, and almost impossible not to like. Has a habit of solving difficult problems immediat
+=== APPENDIX BANNERS ===
+2037 Part One: What the universe is actually doing (Chapters 1–5)
+2050 Part Two: What happens when you file it (Chapters 6–10)
+2058 Part Three: What cannot be done (Chapters 8–9, restated for emphasis)
+2063 Part Four: What the experts do not agree about (Chapters 11–14)
+2081 Part Five: What can be recovered (Chapters 15–18)
+2136 What happens when you file the world (Lessons 6–10)
+2345 What happens when you file the world (Lessons 6–10)
+=== ABOUT SERIES / END ===
+3140 Quentin Edmund Darling (Q.E.D.) is a pseudonym. It stands, depending on whom you ask,
+3141 for
+3142 Quod Erat Demonstrandum — Latin for “which was to be demonstrated”
+3143 or for
+3144 Quantum ElectroDynamics — the theory that finally taught physics to be honest about how thoroughly strange light and matter actually are.
+3146 Both readings are correct. That was rather the point of the book you have just finished.
+3148 The name behind the pseudonym is
+3150 Lothar J. Musiol
+3152 Mr Musiol spent decades in the electronics industry: the kind of career that leaves a person fluent in semiconductors, RF, and the precise moment at which an engineering deadline becomes a philosophical position.
+3154 Before that he studied physics seriously enough to know exactly how much of it he is simplifying here for comic effect, and exactly how much he is not.
+3156 Readers who found the bra-ket notation in Lolly Wren’s green notebook oddly natural instead of decorative may draw their own conclusions.
+3158 He wrote Schrödinger’s Paperwork the way Lolly Wren does most things — carefully, in the margins of a life spent elsewhere, and with the slowly hardening suspicion that the paperwork was more interesting than anyone had 
+3160 He is German by birth, and chooses the almost-right official word on purpose, which may explain the book’s affection for language that is careful, exact, and very slightly in the wrong register.
+3161 About the Series
+3162 Schrödinger’s Paperwork is Book 1 of Lolly Wren’s Curious Science Adventures, a series in which large institutions attempt to administer physics, and physics declines to cooperate.
+3163 Each book stands alone. Each teaches its own set of ideas honestly, in the same two-layer form: a comic novel that never stops to lecture, and clearly separated lectures for readers who want the real science and are prep
+3164 Book 2 is already waiting: a different story with a different arrangement of collapsing certainties — for readers who did not, in the event, get enough the first time.  It also inherits what still didn’t fit: nuclear she
+3165 Look for the next Lolly Wren adventure wherever you found this one.
+3167 If This Made You Curious
+3168 None of the physics in this book was invented for the joke. If you would like to go further than a Ministry can take you, three places are worth the trip — two of them already named above, one not:
+3169 Sean Carroll’s Something Deeply Hidden takes many-worlds seriously and argues for it properly.
+3170 Carlo Rovelli’s Helgoland makes the case for relational quantum mechanics in prose good enough to make you forgive him for being persuasive. And if you want the same territory covered at considerably greater length and w
+3171 Kenneth Ford’s The Quantum World goes much further into most of the questions this book only had time to dramatise.
+3174 If You Enjoyed This Book
+3175 Reviews are how small books find their readers. If Schrödinger’s Paperwork made you laugh, or helped you understand something you had always been told was impossible to grasp, a few honest sentences on the store page wil
+3176 And if you want more paperwork failing at physics, Book 2 of Lolly Wren’s Curious Science Adventures is already sharpening its pencils.
+3177 If the book also made you look differently at an official letter, at the sentence that quietly moves a difficulty somewhere you cannot quite see, then it has done its real work. In that case, you may consider the noteboo
+3179 There is no lid.

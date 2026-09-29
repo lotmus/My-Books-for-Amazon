@@ -1,0 +1,36 @@
+1990|Heading 1|Chapter 17: A Very Good Obituary
+1991|Normal|The districts resolved over the following month, badly and thinly and in the wrong order. On every screen it looked like collapse — which is why Crispin Vale, who had testified for eleven days against the directive he had signed, was blamed for the disorder the recovery made rather than credited for making the recovery lawful. Fainrose had said that would happen. She took no visible pleasure in being right.
+1992|Normal|The Fenwick mast was found in the weeks after the coupling was cut — a decorative weathercock on the Memorial Hall with more electronics under the tail than any weathercock requires, and a plate reading PROPERTY OF THE SIMPLIFICATION INITIATIVE. Jago opened it with a screwdriver he was not supposed to be carrying. Mrs Prosser arrived with tea, confirmed what fourteen months of moon rota had already taught her, and watched the Ministry switch it off eleven days later, apologise without using the word sorry, and send her a revised quorum of thirty-nine. “It is encouraging,” she said, “to see government respond to evidence.”
+1993|Normal|
+1994|Normal|Lolly delivered Mrs Elspeth Chain’s certificate herself, on a Tuesday in March, because she had learned by then that some documents should not simply be posted.
+1995|Normal|Twenty-Two Coldharrow Rise — where she had been moved when the old house was condemned — smelled of instant coffee and furniture polish, applied in that order and recently. Mrs Chain read the certificate at her own kitchen table, twice, without comment, while Lolly sat opposite and did the thing she had got, over the winter, genuinely good at: nothing. Not filling the silence. Not explaining that the seventy-eight per cent was a figure for her sister and not for the district — arrived at another way, and not the three hundred and eight in four hundred and eleven — and that a person was in any case a poor thing to render as a fraction; or the seven weeks it had taken von Wittenberg’s team to be sure of it; or the specific and until recently classified sense in which “settled record” did not mean the same thing as “returned.”
+1996|Normal|“Seventy-eight per cent,” Mrs Chain said eventually, not as a question.
+1997|Normal|“Yes.”
+1998|Normal|“Of what, exactly.”
+1999|Normal|Lolly had rehearsed several answers to this on the bus, all of them technically accurate and all of them, she now realised, useless. She gave Mrs Chain the true one instead. “Of her. As much of the pattern as survived the listening. Enough that we know, properly know, who she was and most of what happened to her. Not enough to bring her back.”
+2000|Normal|Mrs Chain nodded slowly, the nod of a woman filing the information somewhere it would not need retrieving again. “So it’s not a resurrection.”
+2001|Normal|“No.”
+2002|Normal|“It’s a very good obituary.”
+2003|Normal|“Yes,” said Lolly. “I think that’s exactly what it is.”
+2004|Normal|Mrs Chain was quiet for a while after that, looking at the certificate the way one looks at a photograph of a house one used to live in. Then she said, without any particular drama, “I’d have taken the obituary from the start, if anyone had had the decency to offer it instead of a form.”
+2005|Normal|She did not come back. Lolly did not pretend otherwise, then or later, and it was this, more than the certificate, more than the apology the Ministry eventually and grudgingly issued, that Mrs Chain would describe at the inquiry as the first honest thing the Ministry had ever given her.
+2006|Normal|The photograph turned up that spring — the one of the two sisters laughing at some unseen mishap, which had hung on through the whole of it and then been left behind when the old house was condemned. A man let himself into the scaffolded shell of it, took the photograph off the wall, and returned it without permission or explanation, on the grounds — he said afterwards — that it looked like something that shouldn’t be left lying about. It went back on the mantelpiece at Twenty-Two Coldharrow Rise as if it had never left, which, in the sense that mattered to Mrs Chain, it hadn’t.
+2007|Normal|“A photograph a burglar had the decency to return,” she told the inquiry, in the remark that was quoted rather more widely than the Ministry would have liked, “is worth more than a certificate a government had the nerve to sign.”
+2008|Normal|Alfred Keinschein left in December, without ceremony, having eaten nothing for six weeks.
+2009|Normal|“They have stopped asking on an industrial scale,” he said, on the annex steps, with his coat over his arm and no shadow on the concrete. “It is a famine and I have brought it on myself and I find I do not mind as much as I expected. There will be other centuries.”
+2010|Normal|He shook Lolly’s hand with his cold one.
+2011|Normal|“Ms Wren. You will want to know whether I was right or whether the Duc was, and I shall tell you honestly that I have had eleven thousand years and I do not know. Ask the fellow with the box. He has been waiting since 1935 and nobody has had the courtesy.”
+2012|Normal|Lolly said, “Which fellow with the box.”
+2013|Normal|But Keinschein had already gone, in the manner of a thing that had not, strictly, been present.
+2014|Normal|Max Tegmark testified for the prosecution, at his own request, on the specific question of whether a multiverse makes cruelty free. His answer ran to four hours and can be fairly summarised as no.
+2015|Normal|Werner Heitmann sent a letter. It was two lines long. It said: The measurement was correctly performed and the inference is sound. I have never in my life been able to say more than that and I have never been able to say less. Fainrose kept it in the front of the syndrome file for the rest of her career.
+2016|Normal|Jack Bellew did not appear again, which Lolly chose to interpret as approval.
+2017|Normal|Mr Voller was reassigned to Backup Standards in January, where he wrote, over the objections of at least four separate committees, a new specification requiring every departmental backup to state its own margin of error on the front page, in bold, above the signature line. Nobody thanked him for it. He minded, visibly, and did it anyway, which was as close as Voller ever came to growth, and rather more than Lolly had expected of him.
+2018|Normal|In February, Stephanie Fainrose was appointed to chair the reconstituted oversight body, on terms she dictated in writing and which included the phrase no certificate may require the simultaneous determination of conjugate quantities, and she offered Lolly Wren the post of Principal Officer, Relational Integrity, which was a job title she had invented late on a Thursday and would spend the next eight months defending with the ferocity of a constitutional principle.
+2019|Normal|She asked what the work was.
+2020|Normal|“Noticing,” said Fainrose. “Professionally. With a budget.”
+2021|Normal|“I’m not qualified.”
+2022|Normal|“Lolly,” she said, “we have been over this in a car park.”
+2023|Normal|She took it, and kept the green notebook, which by then had four hundred pages and had begun a second volume, and which is quoted in the schedule to the Act.
+2024|Normal|Rule: Seventy-eight per cent of a life, named as such, is truer than a hundred per cent of a form.
+2025|Normal|→ Lecture for this chapter: Negentropy

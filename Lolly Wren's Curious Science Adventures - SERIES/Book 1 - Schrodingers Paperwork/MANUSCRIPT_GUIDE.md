@@ -1752,3 +1752,65 @@ Verification: paragraph count 3181 -> 3188 (7 pure insertions + 3 in-place edits
 287/287 bookmarks balanced, 410 hyperlinks unchanged. All new paragraphs initially introduced 3
 straight apostrophes (Fainrose's, Jago's, can't); caught and converted to curly immediately, before
 committing - whole-document straight-quote count confirmed at zero after the fix.
+
+## Brought in from the Schrodingers_Paperwork repo (29 Sep 2026)
+
+The standalone `Schrodingers_Paperwork` folder was merged into this series Book 1 folder.
+Files that existed only in the repo (cover JPGs, the voice-pass character guide, and the repo Kindle file) were copied here. Files the series copy already had were left in place.
+
+The two Kindle manuscripts had branched, so neither file was overwritten:
+
+- `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx` is the series copy. It has the slam-review address fix (Twenty-Two Elm Grove) and the Uxbridge travel line.
+- `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.voice-unruh-brillouin.docx` is the repo copy. It has the recast, voice, Unruh, quietly, and Brillouin passes below, and it still says Twenty-Two Coldharrow Rise.
+- `CHARACTER_AND_PLACE_GUIDE.md` matches the series manuscript. `CHARACTER_AND_PLACE_GUIDE.voice-pass.md` matches the repo voice pass.
+
+The three log sections below are copied from the repo guide. They describe the repo Kindle file, not the series Kindle file.
+
+## Recast continue-fix (28 Sep 2026)
+
+Same recast-not-cut rule. Applied to the live Kindle file.
+
+- Ch3/Ch10 `pointer state` glossary wraps repaired (they had split mid-word: `pointer s`+`tate`, `pointer st`+`ate: an answer`+`that`). Space restored: `an answer that survives`. Epilogue list-as-pointer wrapped cleanly to the same glossary door.
+- In-novel YouTube hyperlinks (18 stealth links on chapter phrases) retargeted to Glossary/lecture bookmarks. How to Read now says marked phrases are glossary doors; videos stay in Further Reading, where they belong. Book-author names in the bibliography no longer jump to unrelated YouTube interviews.
+- Feynman-arrow visits given unique jobs: the tutor still plants the method; Hawking uses the summing for a thermal vacuum; Fainrose uses length vs angle (phase the vault cannot file); Eilstein uses calculation without a collapse moment; the epilogue callbacks the tutor instead of teaching a fifth time.
+- Title page series line recast to `A novel of the Ministry of Eventualities`. KDP series name kept in About the Series.
+- Lesson 12 Going deeper now carries the nucleus-wavelength clause (proton ~1836× an electron) and points at the Backlog, which still holds the full argument (Born–Oppenheimer, solar tunnelling, nuclear shells).
+- Garden square kept. Lesson 6 now uses a locked London square as the tunnelling analogy; the corridor scene callbacks Fainrose's word for it.
+
+Paragraph count 3182 (one How-to-Read insert). Bookmarks 282/282. Series copy is canonical; workspace KINDLE file synced.
+
+## Voice, grey, Unruh pass (28 Sep 2026)
+
+Recast-not-cut. Applied to the live Kindle file.
+
+**Cast-wide voice (intros only; dialogue already character-led)**
+Each overlapping "flat/quiet/precise/unhurried/lean-in" intro now has one acoustic job:
+- Lolly: already-edited, as if the sentence spent a night in the green notebook.
+- Mrs Chain: low and dry, built to carry a queue (kept; dry is hers).
+- Jago: cheerful courier-parcel, slightly too much information.
+- Priddy: dictation, not conversation (warrant-card satisfaction is professional, not unhurried).
+- Beatrix: the voice she uses for minutes; each clause already a finding.
+- Fainrose: quieter than the doorway; words set down like a calibrated instrument.
+- Gideon: volume as something you can trip over.
+- Eilstein: old accent plus a courtesy so complete it is faintly alarming (dry paper given back to Mrs Chain).
+- de Broccoli: slow and exact.
+- Bellboy: Belfast worn smooth by being right in rooms that resented it.
+- Heisenburger: keeps the flat monotone (emphasis set to zero).
+- von Wittenberg: does not compete with the room; the size of the claim does the volume.
+- Schrottfinger: Vienna gravel/delight (untouched).
+
+**Grey**
+Atmospheric greys recast to specific jobs. Kept on purpose: Earl Grey; the module's first sighting; Mrs Prosser's moon-smudge; the strip of sky the colour of an unsigned form. Venn's case now matches the teal already named in the hall and the Epilogue.
+
+**Unruh**
+Employed, not parked. Fainrose names it over the Ch6 temperature curve (cousin to Hawking; do not check in a Ministry car). Lesson 6 Going deeper carries the 1976 clause; a What-sticks bullet; Lesson 14b names the flat-spacetime cousin. Glossary and Backlog ("legacy emptiness") kept.
+
+Paragraph count 3184 (two inserts: Ch6 Unruh line, Lesson 6 stick). Series copy is canonical; workspace KINDLE file synced.
+
+## Quietly / Brillouin pass (28 Sep 2026)
+
+Recast-not-cut. The leftover shared adverb after the voice-intro pass was `quietly` on dialogue tags: Lolly, Fainrose, de Broccoli, Tengelman, Heisenburger, and von Wittenberg were all "speaking quietly." Each tag now does that character's job instead (notebook confirmation; looking at the lanes; hoping the notebook will contradict her; no shout; to the screen; word set down; correcting a menu; Tengelman actually yielding the floor; nothing underlined; the number sits). Institutional/atmospheric quietly kept (complexity moved, email forgotten, injunction renewed, Bellboy's entrance, Venn reassigned).
+
+Brillouin employed in Ch18: Schrottfinger allows the Frenchman's information-reading of negentropy (`a shape that stays a shape`) and does not take it as a loophole. Lesson 17 keeps the named lecture account.
+
+Paragraph count unchanged at 3184. Series copy is canonical; workspace KINDLE file synced.

@@ -1,0 +1,139 @@
+1082|Heading 1|Chapter 7: What Remains Correlated
+1083|Normal|By the time they reached the Regional Compression Annex, the day had acquired the exhausted brightness peculiar to national mistakes. The building stood behind two fences, one camera mast, and a sign which read:
+1084|Normal|CIVIC INFRASTRUCTURE HARMONISATION SITE Authorised access only No public gravitation beyond this point
+1085|Normal|“There,” said Jago Flint, slowing the car, “is a sentence nobody wrote with a clear conscience or a functioning solicitor.”
+1086|Normal|The annex had once been a distribution hub, though years of government improvement had polished it into the sort of place that no longer admitted to having had a function. Its walls were pale, windowless, and faintly curved in a way that suggested either modern design or local damage to geometry. Several service roads led toward it and then, halfway there, seemed to lose confidence and become lay-bys.
+1087|Normal|Stephanie Fainrose observed all this without visible surprise. “That’s new,” she said.
+1088|Normal|“The building?” asked Lolly.
+1089|Normal|“The curvature suppression.”
+1090|Normal|She looked again. Now that she had said it, the air above the concrete yard did seem oddly mannered, as if distances were being encouraged not to express themselves fully.
+1091|Normal|Beatrix Sloan had already stepped out of the car and was walking toward the gate with the clipped inevitability of an approaching audit.
+1092|Normal|“Do we have entry authority,” said Lolly.
+1093|Normal|“No,” said Beatrix.
+1094|Normal|“Then what exactly is the plan.”
+1095|Normal|“I am going to ask in a tone that makes refusal sound career-limiting and pension-adjacent.”
+1096|Normal|Mrs Elspeth Chain emerged from the back seat with her umbrella and looked up at the sign. “No public gravitation,” she read. “They always phrase wickedness as if it were a leisure rule.”
+1097|Normal|The gate guard, whose relationship with sleep appeared to have become historical, took one look at Beatrix’s identification, one look at Fainrose’s face, and decided that regulations were excellent in principle but perhaps not in this specific hour. They were admitted.
+1098|Normal|Inside, the annex was colder than the day required. Corridors extended in several directions under long white lights, all of them labelled with the sort of terminology institutions use when trying to make dangerous machinery sound recyclable. Signs pointed toward VECTOR SANITISATION, METRIC STORAGE, and ANCHOR MANAGEMENT. One arrow had been hastily covered over, but not so well that Lolly could not still read GRAVITY WELL OBSERVATION beneath the tape.
+1099|Normal|“Subtle,” said Jago.
+1100|Normal|“It used to be worse,” said Fainrose.
+1101|Normal|“You’ve been here.”
+1102|Normal|“Once. I resigned shortly afterwards.”
+1103|Normal|This seemed fair.
+1104|Normal|They passed through two security doors, a control station, and a room full of humming cabinets attended by three technicians who possessed the unmistakable air of people who had obeyed instructions for so long that reality itself now felt above their pay grade.
+1105|Normal|On the far wall, a large display showed the same descending trace they had seen at Fainrose’s house, only here it was surrounded by status lights, internal bulletins, and an amber warning banner that read:
+1106|Normal|ANCHOR THERMAL DRIFT WITHIN PROJECTED ENVELOPE No intervention required at this time
+1107|Normal|Fainrose stopped dead. “Oh,” she said softly. “Now I’m angry.”
+1108|Normal|One of the technicians rose. He was young, eager, and had the brittle optimism of a man who believed complex systems were improved by badges. “This area is restricted,” he began.
+1109|Normal|Beatrix placed the printed diagnostic from Fainrose’s bench on the console. “No,” she said, “this area is evidence.”
+1110|Normal|He looked down at the page, then up at Fainrose, and visibly regretted several earlier life choices. “We’ve been assured,” he said, “that the anchor is shedding excess load in a controlled manner.”
+1111|Normal|Fainrose stared at him. “That sentence,” she said, “contains so little understanding I scarcely know where to begin.”
+1112|Normal|Lolly moved closer to the master display. Several subsidiary windows were open around the main mass-loss curve. One showed municipal transport routes blinking in and out like doubtful constellations. Another listed compression burdens by district. A third, to her growing unease, contained a stream of domestic reconciliation events, each with timestamps and area codes.
+1113|Normal|Mrs Chain saw it too. “My house,” she said.
+1114|Normal|There it was.
+1115|Normal|CHAIN, E. Residential convergence: incomplete. Residual identity conflict: elevated. Overflow channel: accepted.
+1116|Normal|Lolly read the last line twice. Overflow channel.
+1117|Normal|She turned to Fainrose. “They really are using the singularity as a sink.”
+1118|Normal|“Yes,” she said. “For unresolved alternatives, unstable classifications, excess correlation, and anything else their system cannot afford to keep locally.”
+1119|Normal|The young technician tried a professional smile and failed at it midway. “It’s only metadata.”
+1120|Normal|“No,” said Fainrose. “That is what foolish people call reality when they are too cowardly to say they have abstracted it.”
+1121|Normal|Beatrix was already scanning the local logs. “How long have they known about the thermal rise.”
+1122|Normal|The technician hesitated.
+1123|Normal|Jago leaned on the console. “I ask this as a friend of institutional collapse: answer quickly.”
+1124|Normal|“Three months,” said the man.
+1125|Normal|Beatrix looked up. “Three months.”
+1126|Normal|“It was judged non-critical.”
+1127|Normal|Fainrose gave a short laugh devoid of amusement. “Of course it was. Slow disasters are irresistible to committees. They offer so many opportunities for scheduling.”
+1128|Normal|Lolly was no longer looking at the technicians. She was watching the transport map. Each time one route vanished, a line elsewhere brightened. Each time a domestic event entered the overflow channel, the anchor field fluctuated by a tiny amount. Separately, none of it meant much. Together, it produced a pattern so offensively neat that she felt insulted on behalf of causality.
+1129|Normal|“These aren’t separate failures,” she said.
+1130|Normal|“No,” said Fainrose. “The routes, the queue, the houses—”
+1131|Normal|“No,” said Lolly. “They’re coupled.”
+1132|Normal|Fainrose came to stand beside her. “Yes.”
+1133|Normal|On the lower part of the screen, hidden behind system tabs, was a label she had not noticed before:
+1134|Normal|CORRELATION BUDGET
+1135|Normal|Beneath it, a meter was moving steadily toward red.
+1136|Normal|“What,” said Lolly, “is a correlation budget.”
+1137|Normal|The room became quiet in the way rooms do when language has at last chosen to become incriminating.
+1138|Normal|Fainrose folded her arms. “It means,” she said, “that some administrative ghoul decided interconnectedness was too expensive to maintain in full.”
+1139|Normal|Mrs Chain frowned. “Interconnectedness of what.”
+1140|Normal|“Lives. Records. Places. Choices. Shared histories. Mutual constraints. Any detail whose meaning depends on something else.”
+1141|Normal|Jago considered this. “So instead of managing complexity, they’ve been charging it rent, with a late fee for sentiment.”
+1142|Normal|“Precisely.”
+1143|Normal|The technician, perhaps sensing a need to defend the dead, said, “The system only suppresses non-essential linkages.”
+1144|Normal|Mrs Chain turned to him with the calm of a woman who had already passed through outrage and was now travelling under clearer weather. “My sister,” she said, “is not a linkage.”
+1145|Normal|Nobody improved on this.
+1146|Normal|Fainrose reached over the console and opened a deeper systems pane. The diagram that appeared looked less like software than a nervous breakdown rendered in geometry: district nodes, domestic nodes, routing lattices, and at the centre a black disk marked 4C, around which thousands of fine lines converged and vanished.
+1147|Normal|Lolly stared. “They attached everything to it.”
+1148|Normal|“Not everything,” said Fainrose. “Only everything they meant to simplify.”
+1149|Normal|“And now it’s evaporating.”
+1150|Normal|“Yes.”
+1151|Normal|“So the things tied to it don’t just break. They become uncertain together.”
+1152|Normal|“Exactly.”
+1153|Normal|One of the senior technicians entered at that moment, carrying a clipboard and the settled confidence of a man who had survived many meetings by confusing sequence with thought. “What is going on here.”
+1154|Normal|Beatrix held up her identification. “Official review.”
+1155|Normal|“We have no notice of review.”
+1156|Normal|“You do now.”
+1157|Normal|He took this badly and looked to the monitors for institutional support. Instead he found Fainrose. His face altered. “Dr Fainrose.”
+1158|Normal|“Mr Voller.”
+1159|Normal|“I was told you had become private.”
+1160|Normal|“And I was told you had become harmless. We are both disappointed.”
+1161|Normal|Voller drew himself up. “The anchor remains within tolerance.”
+1162|Normal|Fainrose pointed at the red-trending mass curve. “No. The software remains within tolerance. The black hole is evaporating.”
+1163|Normal|He smiled the smile of a career bureaucrat greeting an inconvenient noun. “That interpretation is contested.”
+1164|Normal|“It is thermodynamics,” said Fainrose. “Not a consultation.”
+1165|Normal|Lolly almost wrote that down and then realised she had already started.
+1166|Normal|Voller turned to the correlation display. “The coupling lattice is robust.”
+1167|Normal|Fainrose’s expression became almost kind, which made it much worse. “Yes,” she said. “That is the problem. The more robust the entanglement, the less politely the decoherence spreads.”
+1168|Normal|Voller blinked. “The what spreads.”
+1169|Normal|Now Lolly was listening with her whole body.
+1170|Normal|Fainrose tapped the central black disk. “You tied many local systems to one central quantum-gravitational anchor. That means their states are no longer fully independent. They share structure. Once the anchor becomes noisy, hot, or unstable, the environment starts learning which alternatives are linked to which. Coherence drains away. The system stops behaving like one carefully maintained possibility and starts behaving like a classical mess.”
+1171|Normal|The technician at the near console said, “That sounds speculative.”
+1172|Normal|“It sounds,” said Fainrose, “like you were never taught any quantum mechanics.”
+1173|Normal|Lolly looked back at the diagram. “Entanglement,” she said slowly, “means you can’t describe the parts independently anymore.”
+1174|Normal|“Yes.”
+1175|Normal|“And decoherence means the environment starts carrying away the phase relations.”
+1176|Normal|“Yes.”
+1177|Normal|“So once that happens, the lost alternatives don’t recombine cleanly.”
+1178|Normal|“No.”
+1179|Normal|“They become records of damage.”
+1180|Normal|Fainrose glanced at her, and for a moment there was something almost approving in her face. “Very good.”
+1181|Normal|Mrs Chain surveyed the room, the screens, the men, the language, and the trembling civic skeleton of the thing. “In plain English,” she said.
+1182|Normal|Fainrose obliged. “They have connected too many delicate realities to one dying object. Now that object is leaking order.”
+1183|Normal|“That,” said Mrs Chain, “is plain enough.”
+1184|Normal|On the main display, the correlation budget crossed into red. Every monitor in the room flickered once. Then again. Across the transport map, three routes vanished simultaneously. The domestic-events stream began scrolling too fast to read. Somewhere deeper in the annex, an alarm started and then stopped, as if embarrassed to have noticed reality before management had approved the event.
+1185|Normal|Voller turned pale. “What did you do.”
+1186|Normal|Fainrose did not move. “I arrived,” she said. “The universe did the rest.”
+1187|Normal|Lolly was watching one smaller pane on the right-hand side of the screen. It listed overflow returns. Items that had been channelled into the anchor were beginning, for want of a better term, to come back. Not whole. Fragments. Alternative street names. Contradictory birth records. Old queue tokens. Ownership disputes. Duplicate memorial photographs. Rejected room layouts. Mislaid correspondences. A hundred small amputations of the ordinary, all pressing at once against the weakened civic membrane.
+1188|Normal|“They’re coming out,” she said.
+1189|Normal|“They were never gone,” said Fainrose. “They were only stored somewhere obscene.”
+1190|Normal|Beatrix had already moved to the emergency controls. “Can we isolate districts.”
+1191|Normal|“Not without making choices,” said Fainrose.
+1192|Normal|“What choices.”
+1193|Normal|“Which correlations to save.”
+1194|Normal|Nobody enjoyed that sentence.
+1195|Normal|Jago looked at the map and whistled softly. “Well,” he said, “we seem at last to have found the national character: underfunded entanglement with a modest contingency reserve.”
+1196|Normal|Voller was shouting into a desk phone now, demanding senior clearance from people who were almost certainly already practising distance.
+1197|Normal|The screens flashed again. This time, Lolly felt it. Not physically, exactly. More as a brief rearrangement in the logic of nearby things, as if every object in the room had been forced to remember what else it depended on.
+1198|Normal|She saw Mrs Chain grip the umbrella, saw Beatrix brace one hand on the console, saw Jago step back from a monitor that had begun listing addresses in two different counties at once.
+1199|Normal|And then, on the central display, a new warning appeared:
+1200|Normal|ANCHOR COHERENCE LOSS CASCADING LOCAL RECOVERY NO LONGER COMMUTATIVE
+1201|Normal|Lolly stared at the last word.
+1202|Normal|Fainrose saw it too. “Oh, excellent,” she said without enthusiasm. “Order now matters.”
+1203|Normal|Mrs Chain said, “I beg your pardon.”
+1204|Normal|“It means,” said Lolly, before she could stop herself, “that you can’t fix everything in any sequence you like. If two repairs don’t commute, doing A then B gives a different result from doing B then A.”
+1205|Normal|Fainrose looked at her. “Yes,” she said. “And now you see why I never sleep.”
+1206|Normal|Beatrix turned from the controls. “Can we still stop the cascade.”
+1207|Normal|Fainrose’s answer was immediate. “No.”
+1208|Normal|The room held that. Then she added, “But we may still choose its shape.”
+1209|Normal|That was the point, Lolly realised, at which disaster ceased to be theoretical and became administration again, though of a more honest and terrible sort.
+1210|Normal|Beatrix straightened. “Right,” she said. “Then we prioritise.”
+1211|Normal|Mrs Chain lifted her umbrella. “At last,” she said, “a meeting with a moral centre.”
+1212|Normal|Fainrose began issuing instructions so quickly that even panic had to become organised to keep up. “Freeze new convergence events. Cut overflow routing. Detach non-essential transport couplings. Preserve hospitals, archives, and power lattices. Anything sentimental with structural dependency goes above policy threshold.”
+1213|Normal|Voller stared. “Sentimental.”
+1214|Normal|“Yes,” snapped Fainrose. “That is where people keep the irreplaceable pieces, Mr Voller. We have been over this as a civilisation.”
+1215|Normal|Lolly opened her notebook to a clean page and wrote:
+1216|Normal|Entangled systems fail together. Decohered systems do not forgive sequence.
+1217|Normal|Then, beneath it:
+1218|Normal|The country is attached to a dying argument with physics.
+1219|Normal|Rule: When connections are treated as expendable, a shared quantum state shares the damage as well.
+1220|Normal|→ Lecture for this chapter: Entanglement and the Beginning of Decoherence
