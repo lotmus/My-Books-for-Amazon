@@ -5776,15 +5776,15 @@ Where this book says "not settled," it means Barbarian, holography as cosmology,
 Syllabus Map
 Module A
 Foundations of Special Relativity (Lessons 1-3):
-Lorentz transforms 
 Postulates
+Lorentz transforms 
 Proper time
 Module B
 Gravity as Geometry (Lessons 4-7):
  GR
 Free Fall
 Singularities
-Why SR survives inside GR
+Why SR and GR Don't Fight
 Module C
 Labels, Paths, Experiments (Lessons 8-10):
 Coordinates

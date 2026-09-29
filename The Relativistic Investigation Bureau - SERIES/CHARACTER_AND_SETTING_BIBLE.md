@@ -41,7 +41,7 @@ Reference only — not for publication. Compiled 2026-09-24 from what's actually
 - **Smell**: [not established]
 - **Attitude**: was once **Weinstein's mathematics professor** (new this session — echoes the real, well-documented Minkowski/Einstein history where Minkowski reportedly called young Einstein a "lazy dog"). Holds the standing, frequently reconfirmed opinion that Weinstein is **"very, very smart and very, very lazy"** — grading his coursework decades ago was the first reliable evidence for both. Works in careful steps where Weinstein works in leaps, and considers this the more honest method. The existing "Three-eighths is not more precise... It's easier, Herbert" exchange (Ch7 Louvre scene) is this exact dynamic already playing out on the page.
 
-### Julius Barbarian — Barbour analog (real name: Julian Barbour, per the joke that Derek now has three Julians in his life)
+### Julius Barbarian — Barbour analog (real name: Julian Barbour, per the joke that Derek now has another Julian in his life — Tuppence's Julian being the first, per line ~1600 of the manuscript)
 - **Age**: late 60s/early 70s.
 - **Looks**: slim, silver-haired, dark jacket, open-necked shirt, expensive-looking trousers with a small orange stain. Already fully described at his in-person intro (Ch5) — **no further work needed here.**
 - **Sound**: eyes "glinted" when contrarian; mouth "curved" rather than smiled outright.
@@ -87,7 +87,7 @@ Reference only — not for publication. Compiled 2026-09-24 from what's actually
 Two rooms, second floor of an old office building. Frosted-glass door: *"DEREK GENT / RELATIVISTIC INVESTIGATION BUREAU / CAUSALITY, CHRONOLOGY & OTHER INCONVENIENCES"* plus Penny's added *"NO MURDERS BEFORE 10 A.M. WITHOUT AN APPOINTMENT."* Locked filing cabinet, a kettle that's "not necessarily where it ought to be," a window facing the street (rain, buses, traffic noise heard through it). **Smell: [not established].**
 
 ### Julius Barbarian's house
-Already richly described: looks like it was "designed by someone who had once been told what a house was and had then decided to improve on the concept." Hallway lined with bookshelves and loose, seemingly self-distributed papers. A personal collection of ~20 clocks (pocket watches, marine chronometers, railway clocks, a grandfather clock, a sundial, an egg timer) and books spanning physics, philosophy, cosmology, and gardening. Sitting room with a large wooden table, four chairs. **Smell: [not established].**
+Already richly described: looks like it was "designed by someone who had once been told what a house was and had then decided to improve on the concept." Hallway lined with bookshelves and loose, seemingly self-distributed papers. A personal collection of ~20 clocks (pocket watches, marine chronometers, railway clocks, a grandfather clock, a sundial, an egg timer) and books spanning physics, philosophy, cosmology, and gardening. Sitting room with a large wooden table, five chairs — an oddly specific number for a man who lives alone (per the manuscript's own line noting Derek clocks this). **Smell: [not established].**
 
 ### Weinstein's Munich patent-attorney office
 Cold window overlooking a busy Munich street (trams, cyclists, delivery carts). A blotter, a desk, a brass clock that "skips." **Smell: [not established].**
