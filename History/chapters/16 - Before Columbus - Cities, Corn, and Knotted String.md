@@ -12,6 +12,8 @@ In the Andes, the Inca Empire, at its height in the 15th century, ruled some ten
 
 *“The writing chapter counted four independent inventions of writing,” dolphin historians noted. “The Inca ran an empire of ten million on knotted string and declined to be counted among them. The fifth candidate has never quite been ruled out.”*
 
+Inca stonework matched the roads for ambition. At sites like Sacsayhuamán above Cusco and the mountaintop retreat of Machu Picchu, built around 1450 CE for reasons still debated (a royal estate is the leading guess), masons fitted multi-ton stones together without mortar so precisely that a knife blade still cannot slide between the joints, a technique that has helped several Inca walls outlast earthquakes that leveled colonial Spanish buildings raised right beside them centuries later.
+
 North of Mexico, Cahokia, beside the Mississippi near present-day St. Louis, held perhaps ten to twenty thousand people around 1100 CE and built Monks Mound, an earthwork larger at its base than the Great Pyramid of Giza. In the Amazon basin, farmers engineered dark, fertile soils, terra preta, that are still worked today. Estimates of the population of the whole hemisphere before 1492 run to tens of millions.
 
 Dolphins, who had spent thousands of years watching both coasts, have one small footnote to add. Genetic studies published in 2020 found Native American ancestry in people on several Polynesian islands, dated to around 1200 CE, which suggests that Polynesian voyagers reached South America and came back some three centuries before Columbus, possibly with the sweet potato. Dolphin historians say only that they saw the canoes.

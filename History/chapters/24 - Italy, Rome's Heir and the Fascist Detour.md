@@ -20,6 +20,8 @@ What followed was a civil war fought inside the larger world war: Italian partis
 
 Postwar Italy returned to democracy in 1946, messy and coalition-prone in the decades that followed, but real, uninterrupted, and never seriously threatened by a return to the fascist model that had briefly interrupted it.
 
+The reckoning with that interruption trailed well behind the recovery. Italy passed no equivalent of Germany's sustained postwar program of formal denazification, and a 1946 amnesty, drafted by the Communist justice minister Palmiro Togliatti with reconciliation, not accountability, in mind, released the great majority of Italians jailed for fascist-era crimes within a few years of the war's end. Many former officials returned quietly to public life, and Italy's own reckoning with the period stayed, for decades, a much quieter conversation than Germany's.
+
 **Dolphin verdict:**
 
 *Rome, the Renaissance, and fascism all happened in the same few hundred square miles, separated by centuries the dolphins keep having to remind themselves belong to one continuous country. The pattern's length is clearly not fixed by how deep a civilization's past runs, only by the choices it makes in one particular decade. Italy had the deepest past of any case in this part of the book and still made those choices, and then, after defeat and a civil war of its own, unmade them.*

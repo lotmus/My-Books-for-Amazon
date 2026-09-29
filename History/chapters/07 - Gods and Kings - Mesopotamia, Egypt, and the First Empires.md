@@ -24,6 +24,8 @@ Bureaucracy, in the dry modern sense of scribes, tax rolls, and standing regulat
 
 Standing armies did the same for coercion that bureaucracy did for taxation: a permanent, trained force loyal to the state rather than a set of neighbors who happened to answer a call to arms.
 
+This chapter's political inventions extended even to peace. In 1259 BCE, Egypt's Ramesses II and the Hittite king Hattusili III signed what survives as the oldest peace treaty whose full text is still known, ending decades of war between the two great powers of the age and pledging mutual defense and the return of fugitives in language strikingly close to a modern treaty's own. A copy of it hangs today at the United Nations headquarters in New York, a three-thousand-year-old reminder that this species invented the peace treaty in practically the same breath it invented the war worth ending.
+
 Dolphin historians treat this chapter as a turning point distinct from the tools before it. Fire, stone axes, and farming were all technologies applied to the physical world. Kingship, law, and bureaucracy are technologies applied to other humans.
 
 *“An idea, believed by enough people, organizes exactly as much labor as a tool,” dolphin scholars remarked, “and needs no metal at all.”*

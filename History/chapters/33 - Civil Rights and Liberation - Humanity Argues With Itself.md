@@ -12,6 +12,8 @@ Women's movements ran throughout the same century on their own overlapping timel
 
 The women's suffrage story had its own casualty list and its own comedy. In Britain the suffragettes chained themselves to railings, and in 1913 Emily Davison died after stepping in front of the King's horse at the Epsom Derby; women over thirty got the vote in 1918, and women on equal terms with men only in 1928. In the United States it came in 1920. Switzerland, a country not known for being late, gave women the federal vote in 1971, and its last holdout canton was ordered by the courts to comply in 1990.
 
+A parallel argument about who counted as fully included ran through the same decades. In the early hours of June 28, 1969, patrons at the Stonewall Inn, a gay bar in New York's Greenwich Village, fought back during a police raid of a kind the bar had endured many times before without resistance; the several nights of protest that followed are generally regarded as a turning point for the gay rights movement, and the following June, the first Pride marches in New York and other American cities marked the anniversary. Decriminalization, anti-discrimination protections, and marriage rights arrived on wildly different timelines in different countries over the half-century that followed, several of them still incomplete as this book is written.
+
 *“Unlike wars, these campaigns won, for the most part, by changing what a majority believed was owed to a minority,” Professor Click-Click-Whoosh observed, “not by defeating anyone in the field. It is the slowest weapon in this book. It is also one of the few that does not require winning to keep working — only enough people changing their minds, one at a time, for long enough.”*
 
 **Dolphin verdict:**

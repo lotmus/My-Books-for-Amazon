@@ -30,8 +30,6 @@ There is a way to tell this chapter as a tragedy. Dolphin historians decline to 
 
 *“We were never damaged by our own inventions,” dolphin historians noted, “because we were never permitted to have any. There are worse fates than being only a witness.”*
 
-Dr. Susurrus Undertow, the Society's standing dissent, declined to let that line pass unchallenged. Her objection, entered into the record and outvoted by the usual half-awake margin, was that a species with no hands never had to choose not to build the bomb, poison the river, or draft its young — and that congratulating yourself for a virtue you were never in a position to fail at is not the same as having it. The quorum's majority held that watching a species make the choice, badly, for forty chapters, was itself a kind of education dolphins had earned the right to draw a conclusion from. Both positions remain on file.
-
 No dolphin has ever been laid off by a dolphin-built machine, poisoned by dolphin industrial runoff, or drafted into a war fought with dolphin-forged weapons. The species that got hands got all of that too, along with everything else.
 
 Dolphin scholarship concedes this record is not perfectly clean. Humans did eventually find one direct use for a dolphin: capturing them for aquariums and marine parks, where they perform, on cue and on a schedule, much the same leaps and tricks dolphins already perform constantly in the wild, for free, entirely on their own initiative, for no audience but each other and the occasional extra fish.

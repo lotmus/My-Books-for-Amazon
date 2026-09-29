@@ -9,11 +9,8 @@ At first they were small, frightened mammals running from predators. Eventually 
 This is their story, as told by the neighbors.
 
 A note on sources, for readers wondering how a dolphin knows anything about the Roman Senate. Dolphins have no libraries. They have coastlines, and coastlines are where humans do their loudest talking. Sailors read aloud, harbors gossip, and for several thousand years nearly everything the species knew about itself was, at some point, shouted across water. More recently there has been the habit of playing the radio on deck. Where the record is thin, the dolphins say so. Where it is disputed, they say that too, and try not to pick a side merely to sound decisive. Where the evidence runs out entirely, they have been known to guess, and to label the guess as one.
-The method has needed stretching as this book moves closer to the present, and the Society would rather admit the stretch than pretend it did not happen. A Gulag camp, a Cultural Revolution purge, a classified briefing, a laboratory bench, none of these happen anywhere near a coastline, and no dolphin has ever swum through one. What eventually reaches the water is the paper trail: the memoir once it is published, the archive once it is declassified, the testimony once it is given in open court, the study once it clears peer review. Dolphin scholarship works, in these chapters, from what has surfaced rather than from what it watched happen, and says so plainly whenever the distance between the two is wider than usual.
 
 Such matters are settled by the International Dolphin Historical Society, which the reader will meet from time to time as the Society, and whose votes are complicated by the fact that dolphins sleep one half of the brain at a time, so that any decision is technically taken by a quorum of the half-awake.
-
-Two members of that quorum are worth naming before the book gets underway, since the reader will hear from both of them again. Professor Click-Click-Whoosh, credited on this book's cover, chairs the Society and edits its verdicts into their final form. Dr. Susurrus Undertow, who does not chair anything and has never wanted to, is the Society's standing dissent: the scholar assigned, by long tradition, to argue against whatever the half-awake quorum is about to agree on, on the theory that a verdict nobody had to defend is a verdict nobody actually earned. She loses more often than she wins. The book will note when she wins.
 
 The dolphins have been watching the land for a very long time.
 
@@ -31,7 +28,13 @@ Over tens of millions of years that choice reshaped the whole animal. Legs becam
 
 Dolphins gave up solid ground. In exchange they got something almost no land animal has: three-dimensional hearing precise enough to find a single fish in total darkness, and, once diving and breathing stopped using all of it, some intelligence left over. Watching, for instance.
 
-While the dolphin line was finishing that trade, on the other side of the world, a different set of mammals was still in the trees.
+Dolphin scholarship is willing to name names on the way. The fossil record calls the first of these test cases Pakicetus — four legs, hooves, a long snout, built rather like a hairy dog that had made some very specific life choices. Its next of kin, once it had committed a little further to the bit, was filed under Ambulocetus, which is Latin for “the walking whale.” Dolphin historians did not choose that name. They have simply had fifty million years to get used to it.
+
+*“Our closest living land relative, confirmed independently more than once, is the hippopotamus,” the Society noted. “We did not select this family. We were assigned it, and we have decided to be gracious about it in public.”*
+
+While the dolphin line was finishing that trade, on the other side of the world, a different set of mammals was still in the trees — and had wasted no time getting there. The first small, tree-dwelling creature recognizable as a primate shows up in the fossil record a little over sixty million years ago, a few million years after the asteroid: on a timescale of tens of millions of years, essentially the same week. Dolphin scholarship notes this is a very fast start for a family that would go on to need another sixty million years just to invent the wheel.
+
+That lineage kept branching the whole time — early monkeys, then apes, then bigger apes — with taxonomists ending up needing five separate, confusingly similar Latin names (Hominoidea, Hominidae, Homininae, Hominini, Hominina) just to track the last fifteen million years of it. Dolphin scholarship has read all five definitions and offers this summary free of charge: more apes, slightly different apes, repeatedly, for a very long time.
 
 About six or seven million years ago, in the forests and grasslands of Africa, one population of apes split into two.
 

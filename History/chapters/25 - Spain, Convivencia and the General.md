@@ -4,6 +4,8 @@ Dolphin historians open this chapter earlier than its 20th-century subject, beca
 
 Medieval al-Andalus, the Muslim-ruled portion of the Iberian Peninsula, sustained centuries of coexistence and scholarship among Muslim, Christian, and Jewish communities — convivencia — with Córdoba and Toledo among the era's great centers of translation and learning, preserving and extending Greek philosophy, mathematics, and medicine at a time large parts of Christian Europe had less access to them.
 
+Convivencia's most famous graduate was born in Córdoba around 1135-38: Maimonides, a Jewish philosopher and physician who wrote his greatest works in Arabic and went on to shape Jewish, Islamic, and Christian scholastic thought alike, a single career that could not have happened in a Córdoba of only one faith.
+
 That convivencia ended deliberately. The Reconquista's completion in January 1492, with the fall of Granada, was followed within months by the Alhambra Decree expelling Spain's Jewish population — the same year, not coincidentally, Spain funded the voyage that opened the Americas to European conquest in the chapter on exploration.
 
 The Spanish Golden Age that followed in the 16th and 17th centuries, Cervantes writing Don Quixote, Velázquez painting, arrived hand in hand with the Inquisition's religious enforcement and a colonial empire built on the conquest covered elsewhere in this book. Genius and catastrophe, in Spain's case, are not sequential the way they are for Germany or Japan. They arrived together, repeatedly.

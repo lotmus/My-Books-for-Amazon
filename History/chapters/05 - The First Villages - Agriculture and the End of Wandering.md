@@ -8,6 +8,8 @@ The story is not quite as tidy as fields first, temples later. At Göbekli Tepe 
 
 Rice was domesticated separately in China by roughly 8,000 BCE. Maize, beans, and squash came together in Mesoamerica. Yams and taro were domesticated in New Guinea. None of these groups had contact with each other. All arrived, on their own clocks, at the same idea.
 
+One domestication in this chapter predates all of them and involved no crop whatsoever. Wolves and humans had struck their own bargain some 15,000 years ago, well before the first wheat was ever planted on purpose, arriving uninvited to a chapter otherwise about fields and grain as proof that not every alliance in this book needed a harvest to get started.
+
 The idea, in full, was: stop following the food, and make the food follow you instead.
 
 Domestication changed both species in the bargain. Wild wheat shatters its seed head to scatter grain across the ground; the mutant stalks that held onto their seed, useless to the plant in the wild, were exactly the ones a human harvester kept and replanted, generation after generation, until an entire species had been redesigned to be worse at surviving without people.

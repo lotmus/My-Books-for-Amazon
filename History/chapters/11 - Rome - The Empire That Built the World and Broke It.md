@@ -4,6 +4,8 @@ Rome starts, by its own telling, as a small settlement of shepherds on the Tiber
 
 What is well documented is the Republic that followed the expulsion of its last king in 509 BCE: an elected Senate, annually elected magistrates called consuls, and a system of checks built specifically to prevent any one Roman from becoming king again.
 
+Early in the Republic's life, around 451-450 BCE, ordinary citizens pressured the aristocratic Senate into publishing the Twelve Tables, Rome's first written law code, inscribed on bronze or wood and displayed in the Forum precisely so a plebeian could no longer be told after the fact what the law had always supposedly said. The tables were blunt and, by modern standards, often brutal, and were revised many times over the centuries that followed — but the principle that law had to be written where the ruled could read it outlived every revision, and outlived the Republic that first wrote it down.
+
 The system worked, more or less, for nearly five hundred years, before its own success broke it. Conquest brought wealth, slaves, and provinces faster than the Republic's institutions, built for a city-state, could absorb. Ambitious generals commanding personal armies proved more powerful than the Senate nominally in charge of them.
 
 Julius Caesar crossed the Rubicon river with his army in 49 BCE, in defiance of the Senate's explicit order to disband it, and won the civil war that followed. His assassination in 44 BCE, by senators trying to save the Republic, instead finished killing it. His adopted heir, Octavian, emerged from the next round of civil war as Rome's first emperor, taking the name Augustus in 27 BCE.

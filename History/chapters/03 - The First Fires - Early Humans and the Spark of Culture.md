@@ -22,9 +22,11 @@ Stone tools kept pace. The earliest deliberately shaped stones, simple sharp-edg
 
 By 1.7 million years ago, Homo erectus was making the Acheulean hand axe: a symmetrical, teardrop-shaped tool that took real planning to produce and stayed in use, largely unchanged, for over a million years — the longest-running product design in history, by a spectacular margin.
 
+Fire did one more thing that took stone tools by surprise. At Pinnacle Point on South Africa's coast, toolmakers learned to bury certain stone in a bed of coals for a slow, controlled bake before knapping it, a heat treatment that made silcrete flake more predictably into sharper, thinner blades. The earliest confirmed example dates to around 164,000 years ago. Cooking improved the meal; this improved the knife that helped make the meal possible — heat spent on the tool instead of the dinner, a use nobody, dolphin or human, would have predicted from a species that had only just learned to keep a flame alive.
+
 Language almost certainly came later and slower than either fire or stone, and dolphins are candid that nobody, human or dolphin, knows exactly when. What is certain is that a species sitting in circles, handling shared tools, teaching a hand axe's proportions to the next generation without a single word written down, already needed something well beyond grunts.
 
-Dolphin scholarship concedes a small liberty here: the earliest hominin sites cluster around inland Rift Valley lakes and rivers, not the ocean coastline the Society otherwise relies on, and no oceanic dolphin has ever swum in one. The Society's official position is that a river empties into the sea eventually, and that this is close enough.
+Dolphins, watching all this from offshore for once quite literally, since early hominin sites cluster near African lakes and rivers, noted the smoke first.
 
 **Dolphin verdict:**
 
