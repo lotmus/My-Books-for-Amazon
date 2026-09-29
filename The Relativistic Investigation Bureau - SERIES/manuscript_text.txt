@@ -1,3 +1,4 @@
+﻿
 The Murder That Hadn't Happened Yet
 A Relativistic Investigation Bureau Mystery
 By Spezala Genara Relavi (S.G.R.), allegedly.
@@ -41,6 +42,7 @@ EPILOGUE
 COURSE - Spacetime for Investigators
 Syllabus Map
 WORKSHOP - The Twin Paradox
+
 Chapter 1 - Appendix - Special Relativity Is Rude
 Chapter 2 - Appendix - Lorentz Finally Gets Involved
 Chapter 3 - Appendix - Time May Be Less Fundamental
@@ -554,8 +556,8 @@ Sophie
 Sophie was small for twelve and treated this as a technicality rather than a fact, the way she treated most inconvenient data. She wore her dark hair scraped back hard enough to argue with, on the theory that anything loose was a distraction, and she had inherited her father's habit of going very still when she was thinking, which teachers mistook for daydreaming and Derek would have recognised instantly, had he been in the room. Sophie had noticed the clocks were lying. Not all of them, and not in ways that made sense. The brass one in Dad's study — the one he kept pretending he hadn't bought — was always exactly four minutes ahead of her phone. She'd tested it seventeen times. Seventeen times: four minutes, never more, never less. That wasn't a clock that was broken. That was a clock that was disagreeing on purpose. She'd started a notebook. Not because she wanted to solve anything. But because if the clocks were having an argument, someone should keep score.
 She asked questions the way she asked for the salt: plainly, expecting an answer, mildly surprised when adults treated the asking as a performance.
 There was a car outside school now, too, and she hadn't decided yet whether it counted as data. It parked in the same spot most afternoons, engine off, nobody getting out — not close enough to the gates to be picking anyone up, not far enough away to be anything else. On Tuesday she made herself walk past it slowly, the way you're meant to check a floor for ice, and the man inside never once looked at his phone, which was the detail that actually frightened her. Everyone looked at their phone. That was the whole point of having one. A person who didn't was a person doing something else with his eyes, and the something else was her.
-On Thursday the car followed her for two streets before it turned off, and she did not walk home the rest of the way so much as arrive there, faster than she would ever admit to, her heart going in a way that had nothing to do with proper time. She let herself in, locked the door — which she never usually bothered with, not at four in the afternoon — and stood in the hall for a full minute doing the thing her father did without noticing he did it: breathing carefully, as if the air itself needed managing.
-She thought about telling him. She decided against it, on the grounds that he'd been strange all week — quieter on the phone, checking his watch like it owed him money, wearing the specific careful-cheerful voice that meant something was being kept from her — and one Gent's allotted quota of quiet dread seemed like enough for the week. Instead she wrote the number plate on the inside back cover of the notebook, under the clock data, beneath a heading she gave more thought to than she'd admit: PROBABLY NOTHING. She knew even as she wrote it that this wasn't a proper scientific category. She kept it anyway. Some data you collect before you know which drawer it belongs in.
+After school she looked for it again. Same spot. Same man. Still not on his phone. She did not walk past a second time. She went the long way, faster than she would ever admit to, her heart going in a way that had nothing to do with proper time. She let herself in, locked the door — which she never usually bothered with, not at four in the afternoon — and stood in the hall for a full minute doing the thing her father did without noticing he did it: breathing carefully, as if the air itself needed managing.
+She thought about telling him. She decided against it, on the grounds that he'd been strange since breakfast — quieter on the phone, checking his watch like it owed him money, wearing the specific careful-cheerful voice that meant something was being kept from her — and one Gent's allotted quota of quiet dread seemed like enough for one Tuesday. Instead she wrote the number plate on the inside back cover of the notebook, under the clock data, beneath a heading she gave more thought to than she'd admit: PROBABLY NOTHING. She knew even as she wrote it that this wasn't a proper scientific category. She kept it anyway. Some data you collect before you know which drawer it belongs in.
 Chapter 3
 The Lorentz Transform
 By Wednesday morning, Derek Gent had decided that there were two kinds of impossible. The first kind was the ordinary sort. A man could not be in two places at once.
@@ -861,51 +863,24 @@ Trevor's brow creased. "Between Munich and London?"
 "No."
 "Then what?"
 Derek considered the clock. "The same anomaly."
-Penny took the phone. "Matkowski."
-"Yes."
-"How accurate are Weinstein's clocks?"
-"Extremely."
-"Could they be synchronised?"
-"They were."
-"Could the difference be gravitational?"
-"Not at this magnitude."
-Penny glanced at Derek. "What about acceleration?"
-Matkowski answered: "That is precisely the question."
-Derek took the phone back. "Are you saying the clocks in Munich and London are showing the same relativistic anomaly?"
-"I'm saying that if you transform the measurements into a common frame, they are related."
-Derek thought. "How?"
-"I don't know yet."
-"Then why the call?"
-"Because Alfred wants to speak to you."
+Penny took the phone. "Matkowski. Don't start with the metric. Start with whether Alfred's clocks are still speaking to each other."
+"They were synchronised," Matkowski said. "They are now related, which is a ruder word. Gravity will not buy you this size of disagreement. Acceleration might. That is the question I rang to avoid answering."
+Derek took the phone. "Are Munich and London showing the same anomaly, or two anomalies that have learned to rhyme?"
+"If you put them in one frame they are cousins. I do not yet know the family. Alfred wants you. I am the corridor he walks through when he does not wish to dial."
 Derek exhaled. "Put him on."
 There was a click. Then a different voice. Older. Calmer. Slightly irritated.
-"Derek Gent?"
+"Gent."
 "Yes."
-"This is Alfred Weinstein."
-"I know."
-"Do we know each other?"
+"Weinstein. Don't say you know me. You know a paper."
 "Not personally."
-"Hmm." A pause.
-Weinstein replied, "You're the detective."
-"Yes."
-"The relativistic detective."
-"Yes."
-"I've been told you have a clock."
-Derek stared at it. "I do."
-"Where did you get it?"
-"I don't know."
-"That's unhelpful." "Then we should stop asking where and start asking *when*," Derek said. Weinstein paused. "Now you're interesting."
-"I agree."
-Weinstein asked, "Does it have a brass case?"
-"Yes."
-"Old railway style?"
-"Yes."
-"Does it stop at seventeen seconds?"
-"Yes."
-There was a pause. "Then you have a problem."
-Derek smiled. "We had already established that."
-"No. You have a very specific problem."
-"What is it?"
+"Good. Personal is how people stop measuring. You're the detective. The one who puts relativity on the door."
+"The door was Penny's idea."
+"I've been told you have a clock. Brass. Railway. Stops at seventeen. If you say yes three times I shall hang up."
+Derek looked at it. "All three. I don't know where it came from."
+"That's unhelpful."
+"Then we should stop asking where and start asking when."
+Weinstein paused. "Now you're interesting."
+"Then you have a problem. Not the general kind."
 Weinstein took a breath. "I've seen that clock. Tomorrow. And you were there. Alive. Dead. Simultaneously."
 Derek's expression changed.
 "Where?"
@@ -964,7 +939,7 @@ Derek covered the phone. "Thank you, Trevor."
 "Sorry."
 Derek uncovered it. "Alfred, are you sure?"
 "Quite."
-Derek continued. "Could it have been a relativistic effect?"
+Derek continued. "Could it have been a relativistic effect, or is that just what we say when a photograph has better manners than a corpse?"
 "Possibly."
 "Could the photograph have been from another frame?"
 "Perhaps."
@@ -1686,27 +1661,15 @@ Barbarian raised an eyebrow. "But?"
 Julius granted. "Quite."
 "In General Relativity, time is part of spacetime."
 "Yes," Julius granted.
-"And the geometry of spacetime is dynamical."
-"Yes."
-"Proper time along a worldline is measurable."
-"Yes."
-"An observer carries a clock, and the clock measures proper time along that observer's worldline."
-"Yes."
-Weinstein looked, for a moment, genuinely appreciative. "So, we cannot simply declare time nonexistent and walk away."
-Barbarian smirked back. "I wasn't planning to."
-"Good."
-"I have a much more irritating plan."
-Derek faced Penny. "He's definitely one of those people."
-Penny confirmed. "Yes."
-Barbarian continued, "General Relativity already told you: there is no single universal time. Your alibi problem is that everyone still behaves as if there were."
-Weinstein agreed. "Correct."
-"In Special Relativity, simultaneity is relative."
-"Yes."
-"In General Relativity, the situation becomes even richer because spacetime itself is dynamical."
-"Yes."
-"So, the universe doesn't come with a giant clock mounted above it."
+"And spacetime has opinions," Weinstein said. "Measurable ones. You don't get to cancel the subject." 
+"I wasn't planning to," Barbarian said. "I have a much more irritating plan."
+Derek faced Penny. "He's one of those people."
+"Yes," Penny said, as if this were a filing category.
+"General Relativity already told you there is no giant clock above the universe," Barbarian went on. "Your alibi problem is that everyone still behaves as if there were."
+Weinstein looked, for a moment, genuinely appreciative. "So we cannot declare time nonexistent and walk away."
+"Correct," Weinstein said. "We can only misfile it."
+"No mounted clock," Derek said. "That would be inconveniently large."
 Derek turned that over privately. If simultaneity was relative — if there was no "now" that everyone shared — then dread had no more claim to being universal than a wristwatch did. His fear of tomorrow was one frame's reading. It wasn't the only one available, and it certainly wasn't the invariant one.
-Derek mentioned: "That would be inconveniently large."
 Barbarian looked pleased with himself. "Quite."
 Trevor eyed the silent clock shelf.
 "Then what are clocks actually telling us?"
@@ -1811,13 +1774,10 @@ Derek confirmed. "We have events."
 "Yes."
 "But those labels are not fundamental."
 Barbarian smirked. "Now you're talking."
-Weinstein continued, "And the Lorentz transformation tells us how different inertial observers assign coordinates to events — labels, not sacred hours."
+Weinstein continued, "Lorentz tells you how to label an event. General Relativity tells you what the labels are sitting on. Neither of them owes you a sacred hour."
+"And a clock," Derek said, "only measures the path it actually walked."
 "Yes."
-"While General Relativity tells us how the geometry of spacetime behaves in the presence of matter and energy."
-"Yes."
-"And proper time is what a physical clock measures along a worldline."
-"Yes."
-"So, perhaps what we're calling time is the structure of these relationships."
+"So perhaps what we're calling time is just those relationships, wearing a hat."
 Barbarian granted. "That is a respectable way of putting it."
 Derek leaned forward. "And if the clocks aren't showing different amounts of some universal substance called time..."
 Barbarian waited. 
@@ -2105,9 +2065,7 @@ Penny's smile faded on the platform. "He can mislay time," she said. "He cannot 
 "Most people," Derek added, "haven't had a Tuesday like mine."
 And somewhere in London, a distant train began moving towards empty Platform Seven. It had left yesterday. It would arrive tomorrow.
 And, according to the timetable, it had never existed at all.
-
 Rule: Mislaid time is still someone's proper time. Find whose.
-
 -> Lesson for this chapter: 5 - The Apple
 Chapter 6
 The Apple Problem
@@ -2252,40 +2210,21 @@ Weinstein continued, "Suppose the apple falls."
 "Suppose we reverse the process."
 Derek paused. "Reverse it?"
 "Imagine reconstructing the trajectory."
-"From the ground upward?"
-"Yes."
-"We'd have to know its position and velocity."
+"From the ground up we'd need its position, its velocity, the field, the geometry, and whatever else the apple refused to mention."
 "Yes," Weinstein said, without hesitating.
-"And the gravitational field."
+Then Derek understood, which he tried not to make a habit of.
+"We'd need the whole local configuration. The apple is gossiping about the room."
 "Yes."
-Derek continued, "And the geometry."
-"Yes."
-"And the matter distribution."
-"Yes. Exactly," Weinstein noted.
-Derek waited. Then he understood.
-"We'd need the entire local configuration."
-"Yes."
-Penny eyed Derek.
-"So, the apple's trajectory contains information about the geometry."
-"Yes."
-"And the geometry contains information about the matter."
-"Yes," Weinstein agreed.
-"And therefore the falling apple is effectively telling us something about its environment."
-"Exactly."
+Penny eyed Derek, the look of someone watching a man compliment a fruit.
 Derek grinned. "There, that's—"
 "No," Weinstein cut in. "Don't say it's settled. I've just had another thought."
 "Because I've just had another thought."
 "Of course you have."
 "The Bureau's clocks."
 Derek straightened. "What about them?"
-"They are following worldlines."
+"They are following worldlines," Weinstein said, as if this were gossip about the neighbours.
 "Yes."
-"They're measuring proper time."
-"Yes."
-"They are effectively sampling spacetime along those worldlines."
-"Yes."
-"And if their readings are anomalous..."
-"Then the geometry is anomalous — perhaps."
+"They're sampling spacetime. If the readings are wrong, either the geometry is having a mood or the clocks are lying in a new dialect."
 Derek grimaced. "Or the clocks are."
 "Yes."
 "But we've already ruled out ordinary clock failure," said Derek.
@@ -2747,24 +2686,18 @@ For several seconds nobody offered anything. The room beneath the Louvre was sma
 There was a clock. There were four people. And there was a piece of paper asking them for a value of τ.
 Derek allowed himself a brief, private observation: this was becoming a pattern. A city, a clock, a number that refused to add up. He kept the observation to himself, mostly because Trevor would have agreed, and agreement on that particular point was unlikely to help anyone. What was new, this time, was the rate. In Munich the discrepancy had grown by roughly a seventeenth of a second per hour. Here, beneath the Louvre, it was growing by nearly a full second. Whatever was causing this, it was not slowing down.
 Trevor was the first to speak.
-"That's proper time."
-Weinstein confirmed. "Yes."
+"That's proper time," Trevor said, in the tone of a man identifying a body.
+"Yes," Weinstein said. "How kind of it to introduce itself."
 Derek gazed at the paper.
 "Which means?"
 Trevor indicated the three numbers. "Three spatial coordinates have been supplied. The fourth coordinate is missing."
 "Correct."
 "And they're asking us to calculate it."
 "Apparently."
-Trevor considered the problem. "Do we know the metric?"
-"No."
-"The worldline?"
-"No."
-"The gravitational field?"
-"No."
-"The initial conditions?"
+Trevor considered the problem. "Do we know the metric, the worldline, the field, or anything else a respectable calculation might require?"
 "No."
 Trevor peered at the paper again.
-"Then we can't calculate it."
+"Then we can't calculate it. Unless that's the joke."
 He paused. "Unless that's the point."
 "What do you mean?"
 Trevor tapped the board. "τ is not a missing when. Or it is. If τ is a timestamp, we're still worshipping a universal now. If τ is an interval along a path, the murder becomes a missing worldline segment — and that I can calculate.
@@ -2818,14 +2751,8 @@ Penny surveyed him. "What?"
 "Go on."
 "It's responding to something."
 Derek confirmed. "Exactly."
-Weinstein took the clock. "The clock is a physical system."
-"Yes."
-"It has a worldline."
-Weinstein turned the movement over in his palm. "Yes."
-"It measures proper time along that worldline."
-"Yes."
-"So if it stops while everything else continues..."
-"Then something about the physical conditions along its worldline has changed."
+Weinstein took the clock. "Physical system. Worldline. Proper time. If it stops while the rest of us continue, either its path changed or it has started lying in a new dialect."
+Trevor looked personally offended. "Or the clock itself has changed. Clocks do that. It's one of their hobbies."
 Trevor turned his attention to him. "Or the clock itself has changed."
 "Yes."
 "Could it have been accelerated?"
@@ -2853,9 +2780,9 @@ Trevor grinned. "How large?"
 "Probably."
 Weinstein shook his head.
 "Not necessarily."
-Everyone quietly eyed him. He continued, "A gravitational field doesn't have to announce itself by dropping buildings on people."
+He continued, "A gravitational field doesn't have to announce itself by dropping buildings on people. That would be vulgar."
 "Fair."
-"And gravitational time dilation depends on the metric, not merely on some crude idea of gravitational force."
+"And gravitational time dilation depends on the metric, not on how loudly the room feels heavy."
 "Meaning?"
 "Two clocks at different gravitational potentials can accumulate different proper times."
 Trevor conceded. "But not by forty-seven minutes in an ordinary room."
@@ -3399,11 +3326,11 @@ Rule: A fourth coordinate is not a decoration. It is where labels pretend to be 
 -> Lesson for this chapter: 7 - Why SR and GR Don't Fight
 Chapter 8
 The Cold Rain
-Wednesday had come and gone. Eleven-oh-three had arrived, been logged, and passed without incident, which Derek found almost more unsettling than if something had actually happened - a threat that simply declines to go off doesn't stop being a threat. It just becomes a longer one.
+Wednesday had come and gone. Eleven-oh-three had arrived, been logged, and passed without incident, which Derek found almost more unsettling than if something had actually happened — a threat that simply declines to go off doesn't stop being a threat. It just becomes a longer one. Sophie took that line to school on Thursdays. He was not going underground to settle a quarrel between two theories. He was going to see whether the platform in the photograph still wanted a witness.
 Derek Gent had been given a difficult assignment. He was to investigate the London Underground on rainy days.
 This was not, in itself, unusual. The London Underground was already difficult on most days. On rainy days it became something else entirely.
-People arrived wet, irritated and vaguely convinced that the entire transport system had been personally designed to inconvenience them. Trains became late. Platforms became slippery. Umbrellas became weapons. Shoes acquired the consistency of soup. Derek had been instructed to find out whether anything in the Underground, specifically on rainy days, could prevent Special Relativity and General Relativity from both being true at the same time.
-He had read the instruction three times. Then he had called Weinstein. "Alfred. You've sent me to investigate the London Underground on rainy days, to determine whether it contains something that makes Special Relativity and General Relativity mutually incompatible. Why?"
+People arrived wet, irritated and vaguely convinced that the entire transport system had been personally designed to inconvenience them. Trains became late. Platforms became slippery. Umbrellas became weapons. Shoes acquired the consistency of soup. Weinstein's brief, which had the decency to arrive by email rather than by drowning, asked whether anything down here could stop two respectable theories from being true at the same time. Derek had worked worse jobs. He could not, at present, remember one.
+He had read the instruction three times, in case the fourth reading produced a different Underground. Then he called Weinstein. "Alfred. You've sent me into the rain to see whether Special Relativity and General Relativity have started a fight. Why?"
 Weinstein had been silent for several seconds. "Because time doesn't exist. Or rather — I'm beginning to suspect it's a bookkeeping device. Like accounting."
 "That sounds dangerous."
 "It is."
@@ -3418,7 +3345,7 @@ He inspected the rainwater dripping from the entrance. He considered the arrivin
 At the top of the page he had written:
 INVESTIGATION 1047-B
 QUESTION:
-Can London Underground infrastructure, under rainy conditions, prevent SR and GR from simultaneously describing reality?
+Can TfL, under drizzle, make two theories have an argument they are not having?
 Under that he had written:
 SECONDARY QUESTION:
 Why?
@@ -3438,17 +3365,16 @@ Then at his notebook. He quietly opened it again.
 Derek's notebook held one line only: 
 LOCAL RULES FAIL AT ARM'S LENGTH
 He closed it before it could become a textbook.
-Nothing about that contradicted ordinary experience. It merely contradicted the assumption that everyone was entitled to the same old clock. 
+Nothing about that contradicted ordinary experience. It merely contradicted the assumption that London was entitled to one clock and would like it back.
 Rain struck the platform — then paused mid-air, reconsidered, and chose upward. Derek did not say gravity was geometry. He held out a cup. The cup filled from the bottom.
-"If the rain can disagree with itself in public," Derek said, "we do not arrest the weather. We ask which description we have been reading as a crime."
-Freely falling objects followed geodesics. Clocks followed worldlines and measured proper time along them. Again, nothing inherently contradictory.
-Trevor timed the upward drops against his watch and the station clock. The watch advanced. The station clock did not. "Local rules still work in my fist," he explained. "They fail at arm's length. That is the whole argument. Write nothing else down."
-Derek stopped writing.
+"If the rain can disagree with itself in public," Derek said, "we do not arrest the weather. We ask which description we have been reading as a crime. And we do not put that sentence in the report."
+Trevor timed the upward drops against his watch and the station clock, then looked personally betrayed by both. "Local rules still work in my fist," he said. "They fail at arm's length. That is the whole argument. Write nothing that sounds like a lesson."
+Derek stopped writing. It was the first useful order he had received all afternoon.
 Derek wrote nothing about enemies or limits. The cup had filled from the bottom. That was enough.
 So why had Weinstein sent him into the Underground? Derek looked at the wet floor. A drop of water rolled along the rubber mat.
 He watched it. It moved. Stopped.
-Moved again. Something eased in his face. Perhaps the question wasn't whether SR and GR could both be true.
-Perhaps the question was whether the way they described time could be reconciled with the strange behaviour they were observing. The train entered a narrow tunnel. The lights flickered.
+Moved again. Something eased in his face. The theories were not the problem. The stationery was.
+The train entered a narrow tunnel. The lights flickered, with the air of equipment that had filed a complaint and been ignored.
 Derek eyed his watch. Normal. He checked the empty station strange clock.
 Normal. He checked the silent clock on the train. Normal.
 Three clocks. Three agreements. He wrote:
@@ -3461,22 +3387,22 @@ Derek softly sighed.
 He went back underground. This time he chose an empty station with a long escalator. He quietly stood still while it carried him downward.
 He quietly studied the steps. They moved beneath him. He tracked the handrail.
 It moved at a different speed relative to the walls. He surveyed the people. They were moving relative to him.
-The entire station was a small laboratory of relative motion. He grinned. "Special Relativity."
+The entire station was a small laboratory of relative motion. He grinned, which was a mistake. "Special Relativity."
 A man beside him edged half a step away.
 Derek pretended he had said something else.
 At the bottom, he walked towards the platform. Then he stopped. There was a puddle.
 A large one. It had formed where rainwater had been carried down by passengers. Derek studied it, then the moving escalator, the rails, the tunnel.
-"Case question only," Derek said. "Does the rainy Underground make SR and GR incompatible, or only our stitching of frames? Answer that and we know whether to board."
+"Case question only," Derek said, to the puddle, which did not take notes. "Is the Underground broken, or are we?"
 Trains. Platforms. Escalators.
 Ventilation systems. Water droplets. Everything moved relative to everything else.
-And yet the laws of physics were supposed to work for all of them. SR did not say that only one frame was correct. GR did not say that either.
-So what could possibly go wrong? Derek took out his notebook. He wrote:
-SR: local inertial frames. Then: GR: curved spacetime.
-Then: Question: what happens where the Underground is not locally inertial? He stopped.
-That was better. A distant train accelerating away from a station was not an inertial frame. A train braking into one wasn't either.
-A passenger standing on the platform was supported by the Earth. The platform was therefore not a freely falling frame. The Earth itself was rotating.
-The entire planet was orbiting the Sun. The Sun was moving through the galaxy. The galaxy was moving relative to other galaxies.
-There was no shortage of motion. Derek smiled. The universe had an extraordinary sense of humour.
+The laws of physics were supposed to work for all of them. This included the man eating crisps as a moral position.
+So what could possibly go wrong? Derek took out his notebook, considered writing a lecture, and wrote instead:
+TRAINS BRAKE. PLATFORMS DO NOT FALL. NOBODY ASKED THE GALAXY.
+He stopped. That was quite enough theory for a puddle.
+A train leaving a station was not an inertial frame. Neither was a train arriving. Neither, if one was being honest, was Derek.
+The platform was held up by the Earth, which was rotating, which was orbiting, which was moving through a galaxy that had not been copied on the email.
+There was no shortage of motion. There was a shortage of chairs.
+Derek smiled. The universe had an extraordinary sense of humour and a poor sense of audience.
 He put the notebook away. Then he heard a quiet voice behind him.
 "You're thinking too hard."
 He pivoted. A woman was standing there. She was perhaps forty, dressed in a dark coat, holding an umbrella.
@@ -3542,11 +3468,9 @@ Derek sat down.
 He opened his notebook and wrote:
 Ancient clock stopped for approximately?
 He looked at the second hand. It had not advanced. But the train had travelled several kilometres.
-Derek thought. The clock had measured proper time. The mysterious train had followed its worldline.
-The passengers had followed theirs. 
-The Earth had followed its own. 
-All of them had continued through physical processes.
-Yet the displayed time had stopped. That was not necessarily a failure of time. It was a failure — or transformation — of the relationship between a physical clock and the events around it.
+Derek thought. The clock had stopped. The train had not. That was the entire observation. He declined to promote it.
+Passengers kept having pulses. The Earth kept having a job.
+The displayed time had stopped. Time, so far as anyone could prove from inside a carriage, had not. Someone would later call this a transformation. Derek called it inconvenient.
 Derek grinned. "Weinstein."
 He called. No answer. He called again.
 Still nothing. Then a message appeared.
@@ -3571,12 +3495,11 @@ Beneath it, in different handwriting:
 Especially if it falls sideways.
 Derek studied the notice for a moment. Someone in the Bureau had clearly been here before him, or after him, or in a reference frame that made the distinction unhelpful. He photographed the notice, filed it under Pending Geometry, and only then looked back at the rain.
 Derek glanced at the cold rain. Then at the window. Then at the track.
-Then at the puddles on the lonely platform as the train approached the next station. He understood. Water was not merely water.
-It was matter moving through spacetime. 
-Each droplet followed a trajectory. 
-Each trajectory depended on its initial conditions and the geometry.
-If there was something strange about the geometry, the water would reveal it. 
-The Underground had thousands of natural test particles. Rain provided millions.
+Then at the puddles on the lonely platform as the train approached the next station. Water, he conceded, was doing more work than the briefing.
+It was not a metaphor. It was wet.
+Each drop went somewhere. Most of them chose drains, which at least had a policy.
+If the geometry was lying, the water would be the first witness too cheap to hire.
+The Underground had thousands of test particles and no budget for any of them.
 Derek got off the train. 
 He stood beneath the gloomy station canopy. 
 Rain poured beyond it.
@@ -3587,20 +3510,17 @@ Some ran along walls.
 Some disappeared into drains. 
 Every one of them had a history.
 A worldline. 
-Derek suddenly understood what Weinstein had been getting at. 
-The apple. The clock. The train. The cold rain.
-They were all the same problem. 
-Different physical systems. Different worldlines.
-Different measurements. One geometry. 
+Derek understood what Weinstein had been getting at, which was always a worrying development.
+The apple. The clock. The train. The cold rain. Same joke. Different props.
+He did not write 'one geometry.' He had some pride left.
 He opened his notebook.
-He underlined one line in the notebook and stopped: if local rules fail at arm's length, stop stitching frames with hope.
-Then:
-GR determines how those local frames fit together globally. 
-Then: 
-Therefore, if the Underground appears to produce a contradiction, the contradiction must be in our description, not in the theories.
+He underlined one line and stopped: if local rules fail at arm's length, stop stitching frames with hope.
+Then, because the notebook looked lonely:
+IF THE DESCRIPTION CONTRADICTS ITSELF, BLAME THE DESCRIPTION.
+He refused to write 'therefore.' Therefore was how lectures escaped.
 He stopped. 
 That was it. 
-That was what Weinstein wanted him to find.
+That was what Weinstein wanted him to find. Weinstein wanted a great many things, most of them drier than this.
 Unless... Derek stared at the cold rain.
 Unless there was a region where the assumptions needed to connect the local frames failed.
 A singularity. A boundary. Something pathological.
@@ -3616,19 +3536,19 @@ Perhaps the Underground wasn't causing the contradiction.
 Perhaps it was revealing it. 
 He called Weinstein.
 This time Weinstein answered, "Yes?"
-"I think I understand."
+"The rain is being unprofessional."
 "Fine."
-"SR and GR don't conflict."
-"No."
-"SR works locally."
-"Yes."
-Derek continued, "GR tells us how those local inertial frames fit into curved spacetime."
-"Yes."
-"And if we find something that appears to make them incompatible..."
-"We've misunderstood something."
-"Precisely."
+"Your two theories are not having a fight. The puddle is."
+"Correct. Annoyingly."
+"Good. I thought I'd ask before I invented a wormhole."
+"Please don't."
+"Too late to make it a preference."
+"Of course it is."
+"If something down here looks impossible—"
+"You've misfiled it."
+"That is becoming a theme."
 There was a pause. 
-Derek let a breath out slowly. "Good. So SR and GR aren't fighting."
+Derek let a breath out slowly. "So they aren't fighting."
 "No."
 "There's just one problem."
 "What?"
@@ -3824,14 +3744,7 @@ Derek grimaced. "That's good."
 "Why not?"
 "Because they should."
 Derek sat down slowly, the chair creaking in a way that felt, this week, unnecessarily editorial. "Explain."
-"The clocks are following different worldlines."
-"Yes."
-"Different gravitational potentials."
-"Yes."
-"Different motions."
-"Yes."
-"So, their proper times should differ."
-"Yes."
+"The clocks are on different paths, in different holes in the field, doing different speeds. Their proper times should disagree. They don't. That's not harmony. That's someone setting the exam answers."
 "But they don't."
 Derek frowned. "Then they're synchronised."
 "Exactly."
@@ -3921,7 +3834,7 @@ Derek frowned. "Who's the occupant?"
 The computer answered.
 DEREK GENT
 Derek went rigid. So did Trevor. So did Penny.
-Derek dropped his eyes at himself.
+Derek dropped his eyes to himself.
 "I'm here."
 Penny confirmed. "Yes."
 Trevor considered this. "Apparently you're both here."
@@ -3955,9 +3868,7 @@ Trevor stared at the closed door as if causality itself had personally insulted 
 Derek said nothing to the empty room.
 The distant voice answered anyway: "Not remotely."
 Outside, somewhere that was not quite the corridor, a train whistle sounded once — the sound of an arrival insisting it was also a departure.
-
 Rule: An open door is a missing-person report that has not admitted it yet.
-
 -> Lesson for this chapter: 9 - Relativistic Travel
 Chapter 10
 The Relativistic Ride
@@ -4270,7 +4181,7 @@ Derek glanced down. His seat was reclining. "Yes."
 "Upright, please."
 Derek adjusted it. She nodded approvingly. "Much better."
 Then she walked away. Derek watched her go. 
-He looked at the aircraft strange clock. 12:04.
+He looked at the strange aircraft clock. 12:04.
 He paused. "Well, that's not good."
 The captain's voice came over the speaker: cruising altitude, nothing else. Derek looked out at the Earth below and, for once, didn't think about proper time at all. He closed his eyes.
 When he opened them, the aircraft was empty.
@@ -4316,9 +4227,7 @@ NOTE: Never book a relativistic flight with Ryanair.
 "If this carriage is a twin paradox," Penny said, "I want the receipt for the missing years. I will not accept a delay certificate."
 He closed the notebook without adding the joke he'd have made yesterday. Somewhere under London, a clock was still waiting for 12:04, and this time he didn't feel like laughing about it.
 The distant train continued into the darkness. And somewhere ahead, the clock was still waiting for 12:04.
-
 Rule: Believe the freeze and the motion if both are stamped. Explain later.
-
 -> Lesson for this chapter: 10 - The Cucumber
 Chapter 11
 The Ordinary Cucumber Problem
@@ -4487,10 +4396,9 @@ Trevor nodded at Derek's closed office door. "He's in there."
 Penny aimed a finger at him. "Don't."
 Penny walked to the whiteboard. She drew one jagged discontinuity and nothing else. "Invariant or label? Measure first. If it survives a change of observer, keep it. If not, bin it. And if Sophie is standing inside the jump, we do not get to call the jump philosophical."
 Then a series of small local frames around it.
-"Imagine the train moving through space and time."
-Trevor continued. "At any particular point along its worldline, we can construct a local inertial frame."
-"Yes." Penny didn't look up from the whiteboard.
-"Inside that sufficiently small region, Special Relativity works." Trevor was pacing now, warming to it.
+"Imagine the train moving through space and time," Trevor said, then heard himself, and looked as if he would like the sentence back.
+"At any point along its path we can pretend we are not accelerating. Inside that pretence, Special Relativity works. Outside it, we are lying with a smaller map."
+"Yes." Penny didn't look up. "Write the small map. Do not marry it."
 "Yes."
 "But as we move farther along the train — or farther through space — the local frames don't necessarily line up globally."
 Penny capped her marker. "Because of curvature."
@@ -4771,7 +4679,7 @@ Derek let a trace of amusement through. "Of course."
 "Really?"
 "In principle."
 Trevor surveyed it. "That's extraordinary."
-Derek continued. "The information describing the physical system can have different representations."
+Derek continued. "Same object. Different paperwork. The cucumber has been trying to tell us that for days."
 Penny smiled. "Just don't tell the cucumber."
 "Why?"
 "It may become arrogant."
@@ -5459,7 +5367,7 @@ Derek allowed himself a smile. "Now we have a problem."
 Penny confirmed. "Good."
 Trevor's eyebrows shot up. "Why is that good?"
 "Because we know the discrepancy is not just between two clocks."
-Derek continued. "The station itself is assigning different temporal coordinates."
+Derek continued. "The station is handing out times the way a cloakroom hands out tickets. Both numbers are correct. Neither of them is the coat."
 Trevor's forehead creased. "So which time is correct?"
 Derek glanced at him. "Both."
 Trevor conceded. "Obviously."
@@ -5591,33 +5499,30 @@ Sherlock seemed pleased.
 "About what?"
 "The murder that isn't one."
 Weinstein sat upright. "You have a solution?"
-"I have a geometry — and what the Bureau did with it."
-Weinstein leaned in. "Go on."
-Sherlock began. Not with an answer. With a question. "The note on the corpse-file. Three words. Death. Departure. Arrival. How many events does that describe?"
-Weinstein's expression tightened. "Three, obviously."
-"Wrong. Say it again, slower."
-Weinstein said it again. Then stopped. "...One event. Three labels for the same coordinate, depending which frame is reading it."
-"Correct. Now the drawer. Mrs Marsh keeps one marked Pending Geometry. Nobody uses it. Why?"
-"Because everyone assumes an event that looks like a corpse belongs in Murder."
-"And an event that looks like nothing yet — a train that hasn't arrived, a child in a doorway that doesn't exist — where does that belong?"
-Weinstein wrote it down before he'd finished thinking it: PENDING GEOMETRY.
-"Now the file," Sherlock explained. "It kept rewriting itself. Not because a ghost was typing. Because the case was open at both ends — unresolved in exactly the way an interval is unresolved until you fix a frame. The file wasn't haunted. It was uncommitted."
-Weinstein exhaled. "Like the cucumber."
-"Exactly like the cucumber. One object, two descriptions, neither one a lie. Cut it end to end, it's a line. Cut it across, it's a circle. Nobody murdered the cucumber into being both."
-"So Case 1047 — "
-" — is not a corpse with three witnesses disagreeing about a killer. It is one event — Death, Departure, Arrival are the same word said in three coordinate systems — filed under the wrong heading because London insisted a coordinate needed a culprit."
-Weinstein found his voice again first. "That is a generous use of the phrase 'coordinate system.' Death happened in an office. Departure and Arrival happened on a railway platform. Those are not two number-sets for one location. They are two different places."
+"I have a question. What did London write, just now?"
+Weinstein found his voice. "I haven't spoken to London in twenty minutes."
+"Look anyway."
+On Derek's screen in London the category field was already changing — not because a dolphin had started a lecture, but because Derek had stopped waiting for one. He typed it himself, twice, to see if the machine would throw it back: PENDING GEOMETRY.
+Penny read it over his shoulder. "That's Marsh's joke drawer."
+"Then Marsh can have the last laugh," Derek said. "Death. Departure. Arrival. We have been arresting three labels for one event. There is no killer in the photograph. There is a coordinate in the wrong drawer."
+Trevor's mouth opened. Closed. "You don't get to decide that because you're tired of being dead."
+"I'm deciding it because the file kept rewriting itself," Derek said. "Not haunted. Uncommitted. Same as the cucumber: one object, two cuts, neither cut a lie. Murder was the cut that made a culprit appear."
+Mrs Marsh's stamp appeared in the margin without a hand attached. The photograph's caption blanked, then returned as EVENT — UNSORTED.
+The brass clock stayed at 11:03. The office clocks kept counting.
+Penny remembered asking, days ago, whether "departure" meant the train, and being told only "perhaps."
+Tuesday's email had been sitting on the desk the whole time — not a warning. Evidence, for a filing nobody had made yet.
+Weinstein, in Munich, read the updated field on a screen he had not been invited to watch. "Pending Geometry," he said. "You filed that without me."
+"I filed it because I was in the photograph," Derek said, and Sherlock carried the sentence to Munich without asking anyone's permission.
+"So Case 1047 is not a corpse with three witnesses. It is one event, said three ways, and London insisted a coordinate needed a culprit."
+Weinstein did not concede. "That is a generous use of the phrase 'coordinate system.' Death happened in an office. Departure and Arrival happened on a railway platform. Those are not two number-sets for one location. They are two different places."
 "They are," Sherlock agreed. "Which is exactly why this was never an ordinary relabelling — the kind where a door stays where it is and only the numbers beside it change. Nobody is asking you to accept that trick twice, somewhere it doesn't belong. What London built, without meaning to, is closer to the holography Julius keeps threatening you with: two descriptions that look like they live on separate stages, until you learn to read one of them as the boundary of the other. The office and the platform were never two rooms sharing a coincidence. They were one event, described from its two ends, and nobody had written down the dictionary that translates between them — until today."
 Weinstein was quiet for a moment. "Julius is going to be unbearable about this."
 "He already is," Sherlock said. "He's on the other line."
-Somewhere across London, in the Bureau's quiet office, Trevor and Penny and Derek heard the same voice inside their own heads, walking the same four steps.
-Trevor's attention quickened. "If this is another lecture — "
-"It isn't," Penny corrected. "It's arithmetic. Listen."
-Derek got there first, half a second ahead of the voice in his own skull: "One event. Three labels. We've been arresting a coordinate, not a killer."
-On Derek's screen the category field flickered, one step behind Sherlock's argument: MURDER... DEPARTURE... ARRIVAL... PENDING GEOMETRY. Mrs Marsh's stamp appeared in the margin without a hand attached. The photograph's caption blanked, then returned as EVENT — UNSORTED.
-The brass clock stayed at 11:03. The office clocks kept counting. Nobody confused them again.
-Penny remembered asking, days ago, whether "departure" meant the train, and being told only "perhaps" — as if a correct guess still had to wait its turn behind the evidence.
-Tuesday's email had been sitting on the desk the whole time — not a warning. Evidence, for a filing nobody had made yet.
+The voice arrived in all four heads after the stamp, not before it.
+Trevor's attention quickened. "If this is another lecture —"
+"It isn't," Sherlock said. "You already did the arithmetic. Now survive the photograph."
+Derek did not repeat himself. The field still read PENDING GEOMETRY. That was the whole argument.
+Nobody confused the clocks again.
 Trevor managed, "I saw blood."
 "You saw a filing," Sherlock clarified. "Three labels, one event, the wrong drawer. Not Murder. Not a killer waiting in your future. Just Pending Geometry, waiting to be corrected." Derek's hand stopped shaking.
 Trevor wasn't finished. "A filing doesn't bleed. I saw a photograph — real light, on a real sensor, of a wound that isn't in this room. Where does blood come from if nobody was stabbed?"
@@ -5727,15 +5632,7 @@ Trevor walked towards the kitchen. Derek did not call after him. One sugar remai
 Penny, meanwhile, was planning a holiday, which after the week they'd had she considered less a luxury than a filing requirement. She hadn't told Derek the actual reason, and didn't intend to: since Tuesday she had carried a photograph of his corpse face-down in her own bag, had rehearsed, more than once and in more detail than she'd admit, what she would say to Sophie if the geometry ever stopped cooperating — and she had done all of it standing up, in the office, on schedule, because somebody had to be the one who didn't fall apart while the men argued about reference frames. She wanted Greece specifically because it was as far from a filing cabinet as she could get without actually resigning: whitewashed houses leaning companionably into blue, a bed and breakfast with a terrace and no view of London whatsoever, retsina she fully intended to pretend to enjoy, and enough grape leaves and olives to constitute a personality. "And technically," she added, showing Weinstein the itinerary with the satisfaction of someone who had done the maths purely to annoy him, "the flight itself will leave me very slightly older than everyone who stayed home. Not enough to notice. Enough to mention." Weinstein confirmed, with visible reluctance, that this was correct — a few tens of billionths of a second, the going rate for spending a week rather further from the ground — and complained that of all the people in his life to grasp general relativity unprompted, it had to be the one planning to spend a week doing nothing with it. "I'm not doing nothing," Penny said. "I'm doing nothing, further up than you are, which technically counts."
 Tabitha had rung that morning, ostensibly to ask whether Gucci had left a lead at the Bureau. She did not ask, in as many words, whether Derek was still alive, but she stayed on the line four minutes longer than a lost lead required, and Derek let her. "Tell Trevor the dog misses structure," she said eventually, in the tone of someone changing the subject before the subject could change her. "And tell yourself whatever you need to, about why you kept me talking." She rang off before he could answer that, which he privately considered good tactics. He hadn't had an answer ready.
 Trevor noticed, with the weary resignation of a man updating a spreadsheet he had hoped to retire, that Derek's office door had started closing rather more often than the paperwork strictly required. The evidence sat outside it: a small dog, patient as a filed report, waiting on the corridor carpet. "Gucci's here again," he told Penny, in the tone of a man logging an observation rather than announcing a discovery. Penny didn't look up from her itinerary. "Door open or closed?" "Closed." "Then you know the rule." Trevor knew the rule. Derek had written it. He did not knock, did not call out, and did not stand in the corridor shouting anyone's name, on the grounds that the Bureau had tried all three before and none of them had ever once worked. He did, however, resolve to buy the dog a proper bed, on the grounds that even a voluntary stakeout deserved better furniture.
-The Louvre guard was never identified. Weinstein made a few enquiries, of the sort that involved knowing someone who knew someone, and reported back that the museum's own staffing records showed no such person on duty that day, in that uniform, at that hour. Derek filed this exactly where it belonged — next to the singularity not registered to Mrs Marsh's building — and declined, on principle, to lose sleep over a worldline that had already demonstrated it kept its own schedule. He did, however, leave the drawer unlocked.
-Nobody ever worked out who had sent Tabitha that message from Trevor's number, or how they'd known to send it eleven minutes before a train that, officially, did not exist pulled into a platform that also did not exist. Trevor checked his phone's sent folder obsessively for a week and found nothing. Penny suggested filing it under Pending Geometry, alongside the singularity and the cucumber. Derek suspected, without being able to prove it, that this particular drawer was going to need reopening sooner rather than later.
-Nor did anyone establish what would actually have happened had Weinstein reached the empty station first — only that two separate warnings, arriving by two entirely different routes — one buried in a case file, one sent from a phone that swore it hadn't — had gone to some trouble to make sure he didn't. Weinstein found this considerably more alarming than the geometry that had produced it, and said so, at length, to colleagues who had stopped finding it alarming several near-misses ago. Derek's own theory — that somewhere a version of the case existed in which nobody had listened, and the whole point of the warning was to make sure they never met it — was, he privately admitted, unprovable, uncomfortable, and almost certainly correct. He filed it under Pending Geometry and left the drawer shut.
-Derek never worked out how a note in his own handwriting had ended up inside Case 1047, warning him to keep Trevor away from a clock neither of them had found yet, in a hand he had no memory of using. He filed the question next to the others, on the grounds that a man who already owned one photograph of himself face-down on a floor was not obliged to go looking for a second mystery involving his own handwriting. Trevor, for his part, remained unconvinced he'd been fairly represented, and spent the rest of his professional life approaching every clock in the building with the particular caution of a man who had once been warned off one by name.
-Nor could he explain, even to himself, the man he'd glimpsed sitting at his own desk that first week — old, grey-haired, gone the second time he looked — beyond noting that the chair had definitely been occupied and was then definitely not, which was, by that stage of the case, barely worth mentioning. He filed it under the same heading as the singularity and the Louvre guard, and didn't mention it to Trevor, on the grounds that Trevor already had one clock-based grievance and did not require a second.
-The woman on the Underground platform went unidentified too — she'd known, correctly and without being told, that he was doing both kinds of relativity at once. He looked for her, in the loose, deniable way a man looks for someone he has decided not to be looking for, and never found her again. He filed her, eventually, next to the old man in the dark suit — not because the two cases had anything in common, but because both drawers were labelled Probably Irrelevant, and he had learned, by then, exactly how much that label was worth. Some worldlines, he suspected, were simply waiting for a better excuse to cross his again.
-Weinstein's own missing minute — his Munich clock had stopped at 11:16, a full sixty seconds before the Bureau's did in London — never received a tidier explanation than the general shape of the geometry itself. He filed it as a data point rather than a separate mystery, on the grounds that a physicist who chased down every disagreeing clock would simply never leave the house.
-The cucumber that had appeared in Derek's own hand on the platform — conjured from nowhere, its provenance never established — joined the same drawer. He ate it, eventually, on the grounds that evidence with no ongoing investigative value was, strictly speaking, lunch.
-Sophie's own brass clock — the one in her father's study, permanently and precisely four minutes fast — never made it into any official filing at all, mostly because nobody thought to ask a twelve-year-old for her evidence. She kept testing it anyway, on the grounds that someone in the family should keep a proper notebook, and filed the omission under the same heading her father would have used, had he known to: Pending Geometry.
+Two things he refused to inventory. Who had texted Tabitha from Trevor's number eleven minutes before a train that did not exist; and what would have happened if Weinstein had reached the empty station first. He left both in Pending Geometry and did not open the drawer. The sequel, if there was going to be one, could knock.
 One small matter had, admittedly, been resolved. The initials on the clock — LGV — turned out, when Penny finally thought to ask a Frenchman, to mean nothing more mysterious than Ligne à Grande Vitesse: the stamp of an ordinary French high-speed railway line, most likely off a piece of decommissioned rolling stock. Penny was smug about it in person, at length, over the phone to Munich. She had, after all, guessed "a railway designation" within the first five minutes; Trevor had guessed Local Gravitational Vector, and nobody had let him forget it. "A railway designation," Weinstein repeated, with the particular weariness of a man who had built an entire theoretical framework around three letters that turned out to mean nothing more than fast train. "That's it. That's the whole geometry." "That's it," Penny agreed, not unkindly. Trevor, overhearing, announced that he stood by Local Gravitational Vector as the more interesting answer, correctness notwithstanding, and nobody had the heart to argue with him twice in one week.
 He filed actual, ordinary cases under actual, ordinary categories, and none of them concerned him personally. Sophie texted twice about nothing in particular, which he had learned to recognise as the highest compliment she had available. Penny stopped watching him sideways when she thought he wasn't looking. He allowed himself, cautiously, to believe it might simply be over.
 On the Friday, Penny ordered curry for the whole Bureau, on the grounds that a team that had spent a week arguing about whether the dead could still receive post deserved at least one meal that didn't come out of a vending machine. They ate it straight from the containers, at desks still faintly haunted by chalk diagrams of spacetime. Derek discovered, somewhere around his second popadom, that he was extremely and uncomplicatedly glad to be alive — not in the abstract, philosophical way the case had spent every day of that week making him consider it, but in the specific, practical way that meant he was eating a chicken jalfrezi instead of, as had at various points seemed likely, pushing up daisies. He mentioned this to no one, on the grounds that saying it aloud would have obliged someone to make a joke about it, and he wanted, just this once, to enjoy being not dead in silence.
@@ -5761,9 +5658,9 @@ This is not decorative back matter. It is the training course the Bureau pretend
 By the end you should be able to explain the central ideas yourself — allegedly — and see why Case 1047 could only happen in a universe with reference frames, proper time, and causal structure. The novel was the exam. This is the worked solution, with jokes still attached.
 Prerequisite: curiosity, arithmetic, a little algebra, a willingness to let 'obviously' lose an argument, and to look at one equation near the end you won't be asked to solve.
 How each lesson works: 
-Learning objective — what you should be able to do. 
-Teaching — the physics under the joke, in ordinary language. Lesson checkpoint 
-Keep this / Common trap / Quick test. If you can answer the Quick test cold, you learned something rather than merely surviving the chapter.
+    • Learning objective — what you should be able to do. 
+    • Teaching — the physics under the joke, in ordinary language. Lesson checkpoint 
+    • Keep this / Common trap / Quick test. If you can answer the Quick test cold, you learned something rather than merely surviving the chapter.
 Course rule: separate what an observer measures from what the theory requires is invariant. When a metaphor helps, keep it. When the metaphor starts making predictions the equations forbid — throw it away. 
 Quick definition, since the word does a lot of work from here on: invariant means unchanged when you switch coordinate systems. What an observer measures can change from frame to frame; an invariant quantity does not.
 The cucumber is an excellent laboratory. It is also food.
@@ -5803,18 +5700,17 @@ Event Coordinate
 
 WORKSHOP
 The Twin Paradox
- (do this before Lesson 1)
-Workshop problem: One twin boards a very fast spaceship, travels out and back near the speed of light, and returns to find their sibling considerably older. Both twins, the objection runs, saw the other one moving — so shouldn't each expect the other to have aged less?
-It cannot, and it isn't. The two twins do not take the same route through spacetime between their parting and their reunion — only the travelling twin's path bends, out and back, while the twin on the sofa travels a straight, unaccelerated line between the same two events. 
-That is the entire resolution: proper time depends on the path taken, not merely on relative motion, and the straight path between two events always racks up more of it than any bent one. Turning around is what makes the paths different — it is not, by itself, what makes the travelling twin younger. There is a genuine fact about which twin aged less, and it belongs to whoever took the bent path.
-This is the same idea as the invariant spacetime interval you are about to meet in 
-Lesson 2, wearing a different coat. Proper time, like ordinary distance, depends on the path you actually take. 
-Drive the direct road between two towns and you burn less petrol than the driver who takes the scenic route, even though both of you started and finished in the same two places. 
-Nobody finds that paradoxical. 
-The twin paradox runs on the same idea, but backwards: it's the scenic-route twin — the one who peels off toward the speed of light and comes back — who logs the fewer years, the way the direct-road driver logs the less petrol. The twin who stays on the direct, unaccelerated road through spacetime is the one who arrives having racked up more time, not less. 
-Workshop result: proper time depends on the path taken. 
+(Do this before Lesson 1. You need no maths.)
+The problem: one twin flies out and back very fast. They come home younger than the twin who stayed put. The objection: each twin saw the other moving. So why isn't each twin the young one?
+Because they did not take the same trip. Stay-at-home walks a straight line from goodbye to hello. Traveller goes out, turns, and comes back. Same two meetings. Different routes.
+A clock only counts time along the route it actually takes. That counted time is called proper time — your clock, your path, nobody else's. The straight route between two meetings always racks up more proper time than the bent one. Turning around is what makes the routes different. It is not a magic youth button.
+Picture two drivers. Same two towns. One takes the direct road. One takes the scenic loop. The scenic driver burns more petrol. Nobody calls that a paradox.
+Twins work the same way, backwards: the scenic-route twin logs fewer years. Space and time share one geometry. A longer wander through space leaves less time on the clock.
+Workshop result, in one line: a clock measures the path it took, not a universal now hanging over the universe.
+Lesson 2 will give that idea a name (the interval). The novel already used it: two Dereks, two routes, one photograph.
+Trevor still wants it filed under Pending Geometry. Mrs Marsh still refuses to stamp the form.
 
-The same idea reappears as the invariant interval in Lesson 2, and as the other Derek problem in the novel. 
+Proceed to Lesson 1.
 
 Trevor still wants it filed under Pending Geometry. Mrs Marsh still refuses to stamp the form. 
 
@@ -5823,10 +5719,10 @@ Proceed to Lesson 1.
 
 Lesson 1
 Special Relativity Is Rude
-Module A · Foundations of Special Relativity · Case link: Chapters 1-3. Learning objective: State Einstein's two postulates and explain why constant c forces space and time to transform together. The first thing to understand about Special Relativity is that it does not begin with the statement:
+Module A · After Chapter 1. Rule in one line: light does not pick up extra speed from the thing that emitted it. That rudeness is why space and time have to share the work.
 "Everything is relative."
-That is a popular summary and is also rather misleading. Einstein's Special Relativity rests on two principles: The laws of physics are the same in all inertial reference frames.
-The speed of light in vacuum is the same for all inertial observers. It's the second one that causes all the trouble. Suppose you are sitting on a distant train.
+Special Relativity does not begin with "everything is relative." It begins with two rules. First: the laws of physics look the same for anyone moving at a steady speed in a straight line (an inertial frame — a lab that is not speeding up, slowing down, or turning).
+Second: everyone measures the same speed of light in empty space. Call that speed c. The second rule is the rude one.
 You throw a ball forward at 10 m/s. Someone standing on the platform sees the ball moving at roughly: train speed + 10 m/s.
 Perfectly ordinary. Now replace the ball with light.
 Classical intuition replied that the person on the platform should measure:
@@ -5842,8 +5738,8 @@ Now put that clock on the mysterious train, moving past a platform at speed v.
 From Trevor's point of view, standing on the platform, the light doesn't simply go straight up and down — the train is moving, so the photon has to travel diagonally to keep up with the departing mirror, tracing a longer zigzag path for each tick.
 Here is the part that actually causes the trouble. The speed of light does not change for Trevor either. 
 Longer path, same speed, more time. That is the whole derivation. One tick of the train's clock, measured from the platform, simply takes longer than one tick measured on the train. 
-Do the geometry properly — a right triangle, Pythagoras, nothing worse — and out drops exactly the same γ you are about to meet properly in the next chapter, without asking anyone to take the mathematics on faith.
-Call one round trip of the train's own clock Δτ — proper time, measured by the clock that is actually there. With the mirrors a distance L apart, light covers 2L each tick, so:
+If you want the number, stay for the triangle below. If you only want the idea, you already have it: longer path, same speed, more time. That extra time is time dilation. Skip to the checkpoint if the algebra makes you want to arrest Pythagoras.
+Optional algebra. Call one tick on the train's own clock Δτ — proper time, the time the clock that is actually there measures. Mirrors a distance L apart, light covers 2L each tick:
 Δτ = 2L / c
 From the platform, that same tick takes longer — call it Δt — because the photon travels the diagonal, not the vertical. By the time the photon reaches the top mirror — half the round trip, at time Δt/2 — the train has advanced by vΔt/2, while the photon has climbed the full height L. Pythagoras supplies the hypotenuse:
 (cΔt/2)² = L² + (vΔt/2)²
@@ -5866,35 +5762,35 @@ None of this is hypothetical.
 The satellites that make a phone's map work are moving fast enough, and sitting high enough out of Earth's gravity well, that both effects discussed in this book — Special Relativity's time dilation from speed, and General Relativity's time dilation from gravity — apply to their onboard clocks simultaneously, pulling in opposite directions. 
 Engineers correct for it deliberately, every single day, or a phone's position would drift by several kilometres a day. The Bureau finds this less remarkable than most people do. The Bureau finds most things less remarkable than most people do.
 The Bureau's brass clock is not a satellite. It is doing a ruder job: displaying a label as if it were a tick.
-One more term worth planting here, since the checkpoint below uses it: two observers can disagree about whether two events happened "at the same time" - that disagreement is called simultaneity, and it's exactly what Lesson 2 examines in detail. Nothing about it breaks physics. It just means "at the same time" needs a frame attached.
+Lesson 2 will handle a second rudeness: two people can disagree about whether two distant events happened "at the same time." That disagreement is called simultaneity. It does not mean a clock is broken. It means "at the same time" needs a whose.
 
 Lesson checkpoint
-Special Relativity starts with two postulates, and the constancy of light forces space and time to transform together.
-"Relative" does not mean "anything goes." The spacetime interval and other invariant quantities remain the same.
+Keep this: light's speed does not add. A moving light-clock therefore takes longer to tick when someone else watches it. That is time dilation, not a confused clock.
+Trap: "relative" does not mean "anything goes." Some numbers stay the same for everyone. Lesson 2 names the main one.
 → Glossary: Spacetime Interval
 
 Exit Form
-If two inertial observers disagree about simultaneity, must one of their clocks be broken? No.
-→ Glossary: Simultaneity
+You throw a torch forward from a moving train. Does the platform measure torch-speed plus train-speed?
+No. They still measure c.
 
-<- Chapter for this lesson: Chapter 2
+<- Back to Chapter 1
 
 
 Lesson 2
 Lorentz Finally Gets Involved
-Module A · Foundations of Special Relativity · Case link: Chapter 3. Learning objective: Use the Lorentz transformation to relate coordinates between inertial frames and name at least one invariant.
+Module A · After Chapter 2. Rule in one line: "now" is a choice of description, not a fact about the universe. Some labels change when you change observers. One combination of space and time does not.
 → Glossary: Lorentz Transformation
-The mathematical machinery connecting two inertial observers is the Lorentz transformation. An inertial observer moves at a constant velocity without accelerating.
-Let A describe an event using position (x) and time (t). B describes that same event using (x′) and (t′). If B moves to A's right at speed (v), and their coordinate origins coincide when both clocks read zero, then:
+An inertial observer is anyone moving at a steady speed in a straight line — not speeding up, not turning. The tool that converts one such observer's map into another's is the Lorentz transformation. You do not need to love the name.
+Person A labels an event with position x and time t. Person B, moving to A's right at speed v, labels the same event x′ and t′. When their origins and clocks match at zero:
 x′ = γ(x — vt)
 t′ = γ(t — vx/c²)
-Here c is the speed of light in vacuum, and γ is the Lorentz factor.
-Do not panic. γ is merely a number that becomes increasingly annoying as your speed approaches the speed of light. The important thing is that space and time transform together.
+c is the speed of light. γ is the same number from Lesson 1: it gets larger as v gets closer to c, and it is 1 when you are sitting still.
+Do not panic. The only idea that matters is this: B's time depends on A's time and on where the event happened. Place sneaks into the clock.
 A quick worked example, with v = 0.6c (so γ = 1.25, a clean number to check by hand): suppose A clocks an event at x = 3 light-seconds, t = 4 seconds. Then x′ = 1.25 × (3 − 0.6×4) = 0.75 light-seconds, and t′ = 1.25 × (4 − 0.6×3) = 2.75 seconds. B assigns the same event different numbers on both counts - and that's the whole transformation, run once, by hand.
 Look at the time equation: B's time depends on both A's time and A's position. That position term is why two events happening at the same time in A's frame can happen at different times in B's.
 This explains the diagram. Each coloured line shows what one observer considers to happen at the same time as Event 1.
-A's teal line passes through both events. A says they happen at the same time.
-B's red line passes through Event 1, but Event 2 lies below it. B says Event 2 happened earlier than Event 1.
+    • A's teal line passes through both events. A says they happen at the same time.
+    • B's red line passes through Event 1, but Event 2 lies below it. B says Event 2 happened earlier than Event 1.
 Event 2 does not belong on the red line because B does not consider it simultaneous with Event 1. The coloured lines represent equal times, not paths that the events must follow.
 This disagreement is not simply about light taking time to reach someone's eyes. It remains after each observer accounts for light travel time.
 Different observers can therefore disagree about distances, elapsed times, and whether two separated events happened simultaneously.
@@ -5916,9 +5812,9 @@ And that distinction will become increasingly important.
 
 
 Lesson checkpoint
-Lorentz transformations tell you how space and time coordinates change between inertial frames.
-Do not add velocities using the old Newtonian rule. Ordinary velocity addition is only an approximation at low speeds. When speeds become a significant fraction of c.
-<- Chapter for this lesson: Chapter 3
+Keep this: two people in relative motion can disagree about whether two distant things happened at the same time. Both can still be right. That is simultaneity.
+Trap: do not add speeds the old way (train + ball) when the speeds are a large fraction of c. Light never accepts the extra.
+<- Back to Chapter 2
 
 Exit Form
 What stays the same for all inertial observers?
@@ -5927,11 +5823,11 @@ The speed of light in vacuum, and the spacetime interval between the same two ev
 Lesson 3
 Time May Be Less Fundamental
 Module A · Foundations of Special Relativity
-Case link: Chapter 5. Learning objective: Distinguish coordinate time from proper time along a worldline; reject universal Newtonian now.
+Module A · After Chapter 3. Rule in one line: your clock only measures your path. There is no master clock for the whole universe.
 → Glossary: Proper Time · Worldline
-Proper time: two worldlines between the same two events accumulate different amounts of elapsed proper time. Fly an atomic clock on a plane and keep an identical one on the ground, and the difference is measurable, not hypothetical. Two effects act on the airborne clock at once, though, and they pull in opposite directions: its speed slows it, its extra height in Earth's weaker gravity speeds it up. Which one wins depends on the flight.
+Proper time is the time a clock records by ticking along the route it actually takes. That route through space and time is its worldline — a biography with coordinates instead of adjectives. Two clocks that part and later meet can show different totals. That is not a fault. They walked different routes.
 → Glossary: GPS Correction
-Julius Barbarian's claim that time does not exist is deliberately provocative. But there is serious physics hiding underneath the joke. In relativity, there is no single universal time shared by the entire universe.
+Julius Barbarian likes to say time does not exist. File that separately. Relativity's actual claim is smaller and settled: there is no single "now" shared by the whole universe. That has been textbook physics since 1905.
 Different observers can experience different amounts of proper time between events. Proper time is the time measured by a clock travelling along a particular worldline. 
 So, instead of asking:
 "What time is it everywhere?" 
@@ -5940,7 +5836,7 @@ relativity encourages us to ask:
 That is a much better question. 
 And General Relativity goes further. 
 Gravitational fields affect the rate at which clocks run relative to one another.
-A strange clock deeper in a gravitational field can accumulate less proper time than one farther away. So, clocks do not merely measure some universal substance called Time. 
+A clock sitting deeper in a gravity well — closer to Earth, not higher on a plane — racks up less proper time than a clock farther out. Height is cheap. Disagreement between honest clocks is not.
 They measure something associated with their physical histories.
 But notice what kind of claim that is. Relativity denies a single shared now across the universe. That part is mainstream, uncontested physics, settled since 1905. Barbarian is reaching for something further along the same road, and the two should not be filed under the same drawer.
 His actual claim, spelled out in full, not the tea-time version: a clock does not measure a flowing substance called time. It compares one physical process against another — the swing of a pendulum against the turn of the Earth, the tick of a balance wheel against the fall of an apple. Take away every process in the universe, and there is nothing left over called "time" for a lone clock to still be measuring.
@@ -5949,12 +5845,12 @@ If that is right, an honest question follows immediately: why does it feel like 
 None of this is settled physics the way proper time is settled physics. It is a live, disputed research programme, not a conclusion in a textbook. But the core move — stop assuming a flowing background and start asking what the honest relationships between configurations actually are — is the same move Special and General Relativity already made once. Barbarian just made it twice.
 Unfortunately, he also has an alarming tendency to explain it while eating biscuits.
 Lesson checkpoint
-Relativity removes universal Newtonian time; each clock measures proper time along its own worldline.
-1. Each observer measures the other's moving clock as ticking slower — a relationship between frames, not one clock being objectively slow.
-2. A clock at lower gravity, e.g. on an aeroplane at 10 km flight height, gains compared to a clock on the ground — though its own speed cuts into that gain; the net result depends on both.
-3. Relativity's "no universal now" and Barbarian's "time is not fundamental" are different claims — the first is settled physics, the second is a live research programme.
+Keep this: ask "how much time elapsed on this path?" not "what time is it everywhere?"
+1. Two people in relative motion can each say the other's moving clock is slow. That is a relationship between maps, not one broken watch.
+2. A clock higher up, where gravity is weaker — an aeroplane at 10 km, for instance — runs slightly fast compared with a clock on the ground. Its speed works the other way and steals some of that gain. The net result depends on both.
+3. "No universal now" is settled physics. "Time is not fundamental" is Barbarian's extra claim. Do not stamp them with the same form.
 
-<- Chapter for this lesson: Chapter 4
+<- Back to Chapter 3
 Saying 'time is not real' goes beyond what relativity itself establishes. However, there are reasons to claim that.
 
 Exit Form
@@ -5964,10 +5860,10 @@ Yes.
 
 Lesson 4
 Enter General Relativity
-Module B · Gravity as Geometry · Case link: Chapter 4. Learning objective: Explain gravity as spacetime geometry and state what the equivalence principle does and does not allow. Special Relativity deals with inertial frames and flat spacetime. But gravity causes a problem.
+Module B · After Chapter 4. Rule in one line: in a small falling lift you cannot tell gravity from weightlessness. Stretch the lift and the disguise fails. That leftover is curvature — gravity as shape, not as a tug.
 → Glossary: Equivalence Principle
 Einstein noticed something wonderfully simple:
-If you are inside a freely falling lift, you cannot locally distinguish falling freely in a gravitational field from drifting weightlessly in empty space, far from any gravity. This is the equivalence principle. 
+If you are inside a freely falling lift, you cannot tell — locally — whether you are falling in gravity or drifting in empty space. That local disguise is the equivalence principle. Local means: small room, short time, no peeking at the neighbours.
 That suggested something profound: 
 Perhaps gravity isn't fundamentally a conventional force. 
 Perhaps it is geometry.
@@ -5981,24 +5877,24 @@ That is considerably more accurate than blaming gravity on the apple.
 Although the apple remains available for consultation.
 
 Imagine dropping a ball inside a lift. You hold the ball at some height and release it.
-Everything is normal if the lift is at rest.
-If the ball and the lift are both falling together, at the same rate, relative to the observer, the ball simply floats.
-Now imagine the lift is far away from any gravitational field and accelerating upward. The ball now moves downward towards the floor — just as it would in an ordinary gravitational field.
-Notice the phrase "far away from any gravitational field" in that last sentence. It is doing a great deal of work.
-Real gravity — the kind that comes from an actual planet — is not perfectly uniform. It points towards the centre of the Earth, which means "down" at Heathrow and "down" in Munich are very slightly different directions. Two balls dropped a mile apart do not fall on exactly parallel paths; they fall very slightly towards each other, both aiming at the same distant centre. An accelerating lift cannot reproduce that. Acceleration pushes everything inside it in exactly the same direction, with exactly the same strength, everywhere in the lift. Real gravity does not.
-That difference is the tell, and it has a name: a tidal effect. Locally — in a lift small enough, for a short enough time — acceleration and gravity are genuinely indistinguishable, which is the whole content of the equivalence principle. Stretch the region large enough to notice the two balls converging, and the disguise fails.
+    1. Everything is normal if the lift is at rest.
+    2. If the ball and the lift are both falling together, at the same rate, relative to the observer, the ball simply floats.
+    3. Now imagine the lift is far away from any gravitational field and accelerating upward. The ball now moves downward towards the floor — just as it would in an ordinary gravitational field.
+    4. Notice the phrase "far away from any gravitational field" in that last sentence. It is doing a great deal of work.
+    5. Real gravity — the kind that comes from an actual planet — is not perfectly uniform. It points towards the centre of the Earth, which means "down" at Heathrow and "down" in Munich are very slightly different directions. Two balls dropped a mile apart do not fall on exactly parallel paths; they fall very slightly towards each other, both aiming at the same distant centre. An accelerating lift cannot reproduce that. Acceleration pushes everything inside it in exactly the same direction, with exactly the same strength, everywhere in the lift. Real gravity does not.
+    6. That difference is the tell, and it has a name: a tidal effect. Locally — in a lift small enough, for a short enough time — acceleration and gravity are genuinely indistinguishable, which is the whole content of the equivalence principle. Stretch the region large enough to notice the two balls converging, and the disguise fails.
 → Glossary: Tidal Force
-This is why General Relativity cannot simply be "acceleration, but everywhere." A single accelerating frame can cancel gravity inside one small lift. No single frame cancels it in every lift on Earth at once, because the leftover — what no accelerating frame can absorb — is the actual curvature of spacetime. Chapter 14 puts Derek in a corridor built entirely out of that leftover: two clocks agreeing perfectly nearby and disagreeing badly forty-seven metres away, for exactly this reason.
+    7. This is why General Relativity cannot simply be "acceleration, but everywhere." A single accelerating frame can cancel gravity inside one small lift. No single frame cancels it in every lift on Earth at once, because the leftover — what no accelerating frame can absorb — is the actual curvature of spacetime. Chapter 14 puts Derek in a corridor built entirely out of that leftover: two clocks agreeing perfectly nearby and disagreeing badly forty-seven metres away, for exactly this reason.
 → Glossary: Curvature
 Pound and Rebka, 1960, Harvard. A gamma-ray source and an absorber separated by 22.5 metres of tower. The frequency shift matched gravitational time dilation to about ten percent. Height is cheap. Disagreement between honest clocks is not. The Bureau's anomaly is larger than a tower. That is the interesting part, not a licence to invent a new theory before lunch.
 
   
 
 Lesson checkpoint
-General Relativity replaces flat spacetime with a dynamical geometry that responds to matter and energy.
-<- Chapter for this lesson: Chapter 5
+Keep this: matter and energy change the shape of spacetime; things then follow that shape. The lift trick only works in a small enough room.
+<- Back to Chapter 4
 
-The equivalence principle is local.
+Trap: the equivalence principle is local. Two balls a mile apart fall slightly toward each other. An accelerating lift cannot fake that. The leftover is a tidal effect.
 A sufficiently small freely falling laboratory can mimic an inertial frame, but tidal effects reveal curvature over larger regions.
 
 Exit Form
@@ -6008,15 +5904,15 @@ Tidal effects.
 Lesson 5
 The Apple
 Module B · Gravity as Geometry
-Case link: Chapter 6.
+Module B · After Chapter 5. Rule in one line: a falling apple is not being yanked. It is taking the straightest path the shape of spacetime still allows. That path is a geodesic.
 Learning objective: Contrast Newtonian force with geodesic free fall
 → Glossary: Geodesic
 
-Say when Newton remains an excellent approximation.
+Newton remains an excellent everyday approximation. Use him for apples and buses. Use Einstein when clocks disagree about height or speed.
 Newton vs. Einstein: the same falling apple, explained as a force or as motion along a geodesic.
 Newton answered: There is a gravitational force.
 Einstein eventually answered: The object is following a natural path through curved spacetime. 
-That natural path is called a geodesic. 
+That natural path is called a geodesic — the straightest line the geometry will still let you fall on. No extra shove required.
 
 On the surface of the Earth, an orbiting spacecraft is actually in free fall.
 It is not being "held up" by a mysterious absence of gravity.
@@ -6032,10 +5928,10 @@ Newton wasn't wrong.
 He had simply discovered an extraordinarily good approximation to something deeper.
 Watch a particle trace its geodesic around an adjustable mass, with no force pushing it anywhere, at the curvature demo.
 
-<- Chapter for this lesson: Chapter 6
+<- Back to Chapter 5
 
 Lesson checkpoint
-Newtonian gravity is an extraordinarily successful approximation; General Relativity gives the deeper geometric description.
+Keep this: astronauts feel weightless because they and the ship are falling together. The floor under you is what stops you falling. Standing is the effort. Orbit is the holiday.
 Do not say Newton was simply wrong. Newtonian gravity remains an excellent approximation when relativistic corrections are small.
 
 Exit Form
@@ -6048,12 +5944,12 @@ Singularities
 Module B · Gravity as Geometry
 Case link: Chapters 7-8.
 Learning objective: Define a singularity as a breakdown of the classical spacetime description, not merely 'very strong gravity.'
-→ Glossary: Singularity
+Module B · After Chapter 6. Rule in one line: a singularity is not a monster and not just "very strong gravity." It is the map running out. The theory can no longer continue a falling path the way a path is normally continued.
 
 Here Derek makes an important distinction. A singularity is not simply a place where gravity is very strong. 
 That would be too easy.
 A singularity represents a breakdown of the classical spacetime description. One useful way of expressing this is through geodesic incompleteness. Normally, you should be able to keep extending that path. At a singularity, the classical theory can tell you that the path simply cannot be continued in the expected way. 
-→ Glossary: Geodesic
+A useful test has an ugly name: geodesic incompleteness. Translation: you should be able to keep extending a free-fall path. At a singularity the classical theory says you cannot. The path stops being a path.
 Imagine following a freely falling observer's worldline. 
 → Glossary: Worldline
  
@@ -6076,12 +5972,11 @@ Lesson checkpoint
 A singularity is best understood as a failure or incompleteness of the classical spacetime description. Black holes contain singularities (classically) hidden behind event horizons. White holes are their time-reverse: regions that can emit but not absorb. Wormholes are hypothetical tunnels connecting distant regions of spacetime.
 → Glossary: Event Horizon · Wormhole
 
-<- Chapter for this lesson: Chapter 7
-
+<- Back to Chapter 6
 In this story, the Underground's stranger geometry occasionally behaves as if it were flirting with all three: 
-a breakdown of the classical description (singularity-like), 
-a one-way refusal to let certain paths return (white-hole-like), and 
-a shortcut that should not exist (wormhole-like). 
+    • a breakdown of the classical description (singularity-like), 
+    • a one-way refusal to let certain paths return (white-hole-like), and 
+    • a shortcut that should not exist (wormhole-like). 
 The Bureau's official position is that the Underground is merely having a bad day.
 
 
@@ -6095,7 +5990,7 @@ That the classical theory has reached its limit.
 Lesson 7
 Why SR and GR Don't Fight
 Module B · Gravity as Geometry
-Case link: Chapters 8 & 11
+Module B · After Chapter 7. Rule in one line: Special Relativity is what General Relativity looks like in a small falling room. If two theories seem to fight, you probably stitched two rooms together with hope.
 Learning objective: Explain SR as the local freely falling limit of GR; identify when frame-stitching, not physics, is the problem.
 Special Relativity as the local limit of General Relativity: any sufficiently small freely falling patch looks flat.
 General Relativity contains Special Relativity locally. In a sufficiently small region of spacetime, a freely falling observer can construct a local inertial frame. Within that small region, physics looks like Special Relativity.
@@ -6110,7 +6005,7 @@ This is the same fact Lesson 4 called a tidal effect, seen from the other direct
 The Underground was therefore not going to discover that SR was "wrong."
 It was more likely to reveal that Derek had chosen a sufficiently inconvenient coordinate system. This is an important distinction.
 
-<- Chapter for this lesson: Chapter 8
+<- Back to Chapter 7
 
 
 
@@ -6126,8 +6021,8 @@ Because curvature effects become negligible over a sufficiently small region.
 Lesson 8
 The Door
 Module C · Labels, Paths, Experiments
-Case link: Chapter 9. 
-Learning objective: Treat coordinates as labels; decide whether two number-sets describe one event or two.
+Module C · After Chapter 8. Rule in one line: a coordinate is a name on a map, not the land. Two different number-sets can still be one event. Two identical labels can still be two events. Ask which.
+Learning job: treat x and t as labels. Decide whether you are looking at one happening described twice, or two happenings sharing stationery.
 
 Coordinate-dependent descriptions: the same door, the same physics, described differently by two coordinate systems.
 It is also an excellent metaphor for something real. Physics is full of boundaries between descriptions. One observer assigns an object one set of coordinates; another assigns different coordinates to the same object. The numbers change because the observers organise their descriptions differently. Nothing has to happen to the object itself.
@@ -6140,7 +6035,7 @@ Keep that distinction in reserve. Nothing in this lesson says two events already
 The same discipline applies when the coordinates describe time as well as space. Before comparing two labels, we must ask what each label means and which event it identifies. Different labels can identify the same event. A disagreement between labels is not, by itself, a disagreement about what physically happened.
 Derek and Penny can therefore agree completely about the door while writing different numbers beside it. Once they explain their coordinate choices, they can translate between the descriptions.
 
-<- Chapter for this lesson: Chapter 9
+<- Back to Chapter 8
 
 The description changes; the physical situation does not.
 
@@ -6155,7 +6050,7 @@ No.
 
 Lesson 9
 Relativistic Travel
-Module C · Labels, Paths, Experiments · Case link: Chapter 10. Learning objective: Compute the idea of proper-time difference along unequal worldlines (twin paradox logic). The Lorentz transformation connects the space and time
+Module C · After Chapter 9. Rule in one line: the twin who takes the long wander through space comes home with less time on the clock. Same two meetings, different routes — the Workshop again, now with a name.
 → Glossary: Lorentz Transformation · Worldline
 coordinates of the same events in the Earth and spaceship frames.
 
@@ -6169,7 +6064,7 @@ Nobody experiences their own clock as running slowly. Your own clock always appe
 If Derek flies to another star at enormous speed and returns, he might have aged considerably less than people who stayed on Earth. His watch did not malfunction. It correctly measured his proper time.
 Put a number on it. At a steady γ = 5/3 (roughly 0.8c, chosen because the arithmetic behaves), a ten-year round trip by Earth's clocks costs Derek only six years of his own proper time. The missing four years are not lost, stolen, or hidden in a drawer marked Pending Geometry — they simply never accumulated, because his path through spacetime between the same two events was shorter in exactly the sense that matters.
 
-<- Chapter for this lesson: Chapter 10
+<- Back to Chapter 9
 
 And this is why booking Ryanair is not actually an established method of achieving relativistic time travel.
 The airline has yet to update its terms and conditions accordingly.
@@ -6187,8 +6082,8 @@ Yes.
 Lesson 10
 The Cucumber
 Module C · Labels, Paths, Experiments
-Case link: Chapters 11-12 & 14
-Learning objective: Apply length contraction correctly; use an ordinary object as a control experiment between frames.
+Module C · After Chapter 10. Rule in one line: a moving object looks shorter along the direction of motion. The object did not get crushed. Your measuring stick and its measuring stick disagree about length, the same way clocks disagree about ticks.
+Learning job: use an ordinary object — yes, the cucumber — as a control. If two frames describe it differently and both descriptions work, you have length contraction, not vandalism.
 
 Length contraction: a moving object's measured length shrinks along its direction of motion; its rest length does not.
 The ordinary cucumber is useful because it is boring. Boring objects are excellent physics experiments.
@@ -6202,7 +6097,7 @@ It is an ordinary object. The same laws of relativity apply to it as to everythi
 The cucumber has, however, declined to comment.
 Length contraction is a statement about two ends measured at the same time in your frame. If you measure the front now and the back later, you have not measured a length. You have measured a muddle. The Bureau made that muddle with clocks and called it a murder.
 This is probably for the best.
-<- Chapter for this lesson: Chapter 11
+<- Back to Chapter 10
 
 
 Lesson checkpoint
@@ -6218,8 +6113,8 @@ If the ordinary cucumber is 20 cm long in its rest frame and γ = 2, what length
 Lesson 11
 The Hologram
 Module D · Dual Descriptions
-Case link: Chapter 12
-Learning objective: State the area-law clue for black-hole entropy and what holographic duality does and does not claim.
+Module D · After Chapter 11. Rule in one line: a black hole's information budget scales with the area of its surface, not the volume inside. That clue is why people talk about holograms. It is not a claim that the universe is a cinema.
+Learning job: say what holographic duality does (two matching descriptions in particular theories) and what it does not (prove we live on a screen).
 
 Derek's filing cabinet was full. This was an established fact, supported by the drawer that no longer shut.
 Ordinarily, the remedy would be a larger cabinet. Double its width, height and depth, and there would be eight times as much room for files. Trevor would fill it in a fortnight, but that was a staffing problem.
@@ -6250,7 +6145,7 @@ In plain terms: "negatively curved" means space that bends away from itself, lik
 In Special Relativity, different observers use different coordinates. In General Relativity, different coordinate systems can describe the same geometry. In holographic duality, dramatically different-looking theories can describe the same physical system.
 That is considerably more useful than saying the universe looks a bit like a hologram. It lets physicists turn a difficult problem into a different problem they may be able to solve. Derek would approve of the method. He would object to being billed for both calculations.
 None of this establishes that our own universe has the particular holographic description shown here. It does not make Derek imaginary, prove a multiverse, or provide a mechanism for tomorrow's murder notice to arrive today. Penny's cinema trip may help her ask a better question. It cannot supply the experimental evidence.
-<- Chapter for this lesson: Chapter 12
+<- Back to Chapter 11
 Neither can Jamie Lee Curtis, despite an impressive ability to survive changes of genre.
 
 
@@ -6267,8 +6162,8 @@ It becomes four times as large, because the horizon area becomes four times as l
 Lesson 12
 Not Actually a Multiverse
 Module D · Dual Descriptions 
-Case link: Chapter 13
-Learning objective: Use multiple descriptions as a thinking tool without confusing metaphor with evidence for a multiverse, and meet the tensor - the object that makes "different description, same physics" precise.
+Module D · After Chapter 12. Rule in one line: two good descriptions of one fact are not two universes. A tensor is just a quantity that keeps its meaning when you change the map's labels.
+Learning job: use extra descriptions as a thinking tool. Do not promote a metaphor into evidence for a multiverse.
 
 Different coordinates. Same events. Same invariant interval.
 Optional detour: You do not need this chapter to understand or solve the murder. It follows a thread from relativity into more speculative territory. Treat it as context, not evidence on the same footing as the Lorentz transformation.
@@ -6334,7 +6229,7 @@ For the investigation, keep four things:
 2. Different descriptions can preserve the same physical content. Coordinate changes and theoretical dualities illustrate this in different ways; they are not the same operation.
 3. An observable need not be invariant. Measurements can depend on the observer, while valid descriptions remain consistent about what a given experiment will show.
 4. Tensors give that consistency mathematical form. Their components transform; the physical relationships they express survive.
-<- Chapter for this lesson: Chapter 13
+<- Back to Chapter 12
 
 Penny's question — what if the natural story is only one description — is allowed as a question. It does not license a multiverse as Case 1047's murderer. The invariant interval is still the interval. The film is still a film.
 The larger questions can wait for the dolphin.
@@ -6358,14 +6253,14 @@ The individual numbers change; the physical relationship they express does not.
 Lesson 13
 Curved Corridors and Tides
 Module D · Dual Descriptions
-Case link: Chapter 14
-Learning objective: Recognise curvature via tidal effects / relative free-fall paths, not via a single 'downward force.'
+Module D · After Chapter 13. Rule in one line: you notice curvature when two nearby falling things stop keeping step — they drift together or apart. That drift is a tidal effect. One "downward pull" will not show it.
+Learning job: recognise curvature from relative free-fall paths, not from a single force arrow.
 → Glossary: Curvature · Tidal Force
 
 Tidal gravity: two initially parallel free-fall paths converge as they pass near a mass — curvature made visible.
 The narrow corridor with twelve or thirteen doors is absurd. The underlying idea is not. In curved spacetime, local measurements can differ from measurements made over larger regions.
 
-<- Chapter for this lesson: Chapter 14
+<- Back to Chapter 13
 
 The crucial concept is tidal gravity. If gravity were perfectly uniform everywhere, you could locally reproduce its effects simply by accelerating your reference frame. But real gravitational fields vary from place to place. That variation produces tidal effects.
 For example, Earth's gravitational field is slightly stronger closer to Earth's centre than farther away. 
@@ -6391,13 +6286,13 @@ Tidal effects.
 Lesson 14
 The Train Arrived Before It Left
 Module E · Causality & Capstone
-Case link: Chapter 15
-Learning objective: Separate spacelike from timelike separation; say when time-order can and cannot reverse between frames.
+Module E · After Chapter 14. Rule in one line: if two events are far enough apart in space and close enough in time that light cannot travel from one to the other, their order can swap between maps. If light (or anything slower) can connect them, the order cannot swap. Causes stay causes.
+Learning job: spacelike means "too far, too soon for a signal." Timelike means "a clock could travel from one to the other." Only spacelike pairs can change order.
 
 The light cone: only events inside it can causally influence, or be influenced by, the event at its tip.
 → Glossary: Light Cone
 
-<- Chapter for this lesson: Chapter 15
+<- Back to Chapter 14
 
 That sounds like a violation of causality.
 But before screaming "time machine", we need to distinguish coordinate descriptions from actual causal structure.
@@ -6426,8 +6321,8 @@ No.
 Lesson 15
 The Dolphin and Final Geometry
 Module E · Causality & Capstone
-Case link: Chapter 16
-Learning objective: State what Einstein's equation relates (geometry ↔ matter-energy), with just enough tensor vocabulary to read the equation, not to compute with it.
+Module E · After Chapter 15. Rule in one line: Einstein's equation says geometry and matter-energy talk to each other. You are not being asked to solve it. You are being asked to read the sentence.
+Learning job: left side is shape (curvature, packaged in a tensor). Right side is stuff (energy, momentum, pressure). A tensor is a quantity whose parts change with the map so the thing itself does not.
 → Glossary: Einstein Equation · Tensor
 
 The Einstein field equation as a loop: matter tells spacetime how to curve, and spacetime tells matter how to move.
@@ -6483,7 +6378,7 @@ holography, entanglement, information,
 and emergent spacetime raise the possibility that spacetime itself might not be fundamental. 
 That is an active research idea, not an established conclusion.
 
-<- Chapter for this lesson: Chapter 16
+<- Back to Chapter 15
 
 If a deeper theory eventually explains this, General Relativity would not become "wrong."
 It would become something like thermodynamics. 
@@ -6507,7 +6402,7 @@ Curvature, packaged in the Einstein tensor plus the cosmological-constant term.
 Lesson 16
 Capstone: The Clock Was Lying
 
-Module E · Causality & Capstone · Case link: Epilogue / Case 1047. Learning objective (capstone): Distinguish event coordinates from proper time; explain how Case 1047 can look like a completed murder without a murderer.
+Module E · After Chapter 16 and the Epilogue. Rule in one line: an event coordinate is a label in a filing system. Proper time is what a clock actually ticked. Case 1047 mixed them up and called the mix a murder.
 → Glossary: Proper Time
 The brass clock did not malfunction, and it did not see the future. It occasionally displayed something else entirely: an event coordinate — a label attached to a record — instead of its own proper time, the time it had actually measured by ticking.
 The clock displayed the record's label.
@@ -6518,7 +6413,7 @@ The clock displayed the record's label.
 Those are not the same kind of thing. Proper time is what a clock reads by doing its job: ticking along its own worldline, one tick after another, at its own pace. An event coordinate is a tag in somebody's description of spacetime — a name for where and when something happens, assigned within a particular coordinate system. 
 → Glossary: Worldline
 Mistaking a coordinate for a measurement is exactly the trap this book has been warning about, chapter after chapter.
-That distinction explains the case, clue by clue. 11:17 and 12:04 were departure and arrival coordinates for the mysterious train, assigned within whatever description produced the impossible station; 
+That distinction explains the case, clue by clue. 11:17 and 12:04 were departure and arrival coordinates for the mysterious train, assigned within whatever description produced the impossible station;
 Derek's own watch, ticking his own proper time throughout, read 11:18 — a completely ordinary clock doing a completely ordinary job. The record itself did not arrive from the future. It arrived through the same anomalous geometry responsible for the extra doors and the impossible station elsewhere in this book, filed according to its own event coordinate rather than Derek's local proper time.
 None of this required the Bureau's computer to predict anything. It required only that it confuse two different kinds of "when" — exactly the confusion this entire investigation turned out to be.
 The Epilogue's resolution turns on a distinction this book has been building since Chapter 3: coordinates are not reality, they are descriptions of reality.
@@ -6528,28 +6423,28 @@ The Epilogue's resolution turns on a distinction this book has been building sin
 Lesson checkpoint
 An event coordinate is a label within a description of spacetime; proper time is what a clock actually measures along its own path. Confusing the two produces exactly the kind of "impossible" result this book has been full of.
 A record that looks like it "knows the future" may simply be labelled with someone else's coordinate rather than your own proper time.
-
+<- Back to Chapter 16
 Exit Form
 If a clock shows a value nobody's watch actually ticked through, is the clock lying — or is somebody reading the wrong number off it?
 The clock isn't lying. Somebody's reading a coordinate as if it were a measurement.
 SUMMARY
-Final exam (open book, closed superstition): In one paragraph, explain why Case 1047 can present a completed murder photograph without a murderer, using only: event, reference frame, event coordinate, proper time, and causal structure. If your answer works equally well with magic instead of relativity, you have failed the course — retake Module E.
+Final exam (open book, closed superstition): In one short paragraph, say why Case 1047 can show a finished murder photograph with no murderer. Use only these ideas, in ordinary words: an event (a happening), a reference frame (whose map you are using), an event coordinate (a label on that map), proper time (what a clock actually ticked), and causal structure (what can affect what). If your answer still works if you replace relativity with magic, you have failed — retake Module E.
 → Glossary: Causal Structure
 
 Here is what you can now explain, presumably.
-Two observers can assign different durations to the same pair of events without either clock being broken. Clocks following different paths through spacetime can also record different elapsed times between reunions.
-The speed of light is the same for all inertial observers.
-Special Relativity works locally inside General Relativity: in a sufficiently small, freely falling laboratory, its familiar rules apply.
-In General Relativity, gravity can be understood in the context of spacetime geometry.
-Spacetime curvature produces tidal effects: nearby freely falling objects can converge, separate, or shift relative to one another.
+    1. Two observers can assign different durations to the same pair of events without either clock being broken. Clocks following different paths through spacetime can also record different elapsed times between reunions.
+    2. The speed of light is the same for all inertial observers.
+    3. Special Relativity works locally inside General Relativity: in a sufficiently small, freely falling laboratory, its familiar rules apply.
+    4. In General Relativity, gravity can be understood in the context of spacetime geometry.
+    5. Spacetime curvature produces tidal effects: nearby freely falling objects can converge, separate, or shift relative to one another.
 → Glossary: Curvature · Tidal Force
-A singularity marks a limit of the classical spacetime description — not simply a place where gravity is unusually strong.
+    6. A singularity marks a limit of the classical spacetime description — not simply a place where gravity is unusually strong.
 → Glossary: Singularity
-Coordinate descriptions can differ while invariant physics remains the same.
-Holographic duality relates gravitational and lower-dimensional nongravitational descriptions in particular theoretical settings. It does not establish that our universe is literally a cinema screen.
-Tensors describe geometric and physical quantities whose components transform consistently under coordinate changes.
+    7. Coordinate descriptions can differ while invariant physics remains the same.
+    8. Holographic duality relates gravitational and lower-dimensional nongravitational descriptions in particular theoretical settings. It does not establish that our universe is literally a cinema screen.
+    9. Tensors describe geometric and physical quantities whose components transform consistently under coordinate changes.
 → Glossary: Tensor
-An ordinary cucumber might have a role in an experiment. Its contribution to quantum gravity remains unestablished.
+    10. An ordinary cucumber might have a role in an experiment. Its contribution to quantum gravity remains unestablished.
 
 Congratulations!
 You now understand the essential ideas. You may safely discuss relativity at dinner. Or you can have another piece of cake. The second option is generally shorter and, in Derek's experience, no less illuminating.
@@ -6586,7 +6481,6 @@ Stress-Energy Tensor. The tensor describing energy density, momentum density, en
 Tensor. A mathematical object whose components change according to precise rules when coordinates change, leaving the object itself unchanged. Scalars and vectors are simple examples; the metric and curvature tensors are more elaborate ones. Different numbers, consistent physics.
 Tidal Force. The relative acceleration of nearby freely falling objects, producing stretching or squeezing. In general relativity, these effects reveal spacetime curvature. Their strength depends on the circumstances.
 Time Dilation. Differences in clock rates associated with relative motion or gravitational circumstances. Two inertial observers in relative motion can each assign a slower rate to the other's clock, using their own frame's definition of simultaneity. Gravitational comparisons are different: for stationary clocks around Earth, the lower clock runs more slowly than the higher one. The mutual-slowing argument does not apply to that comparison.
-
 White Hole. The time-reverse of a black hole in the equations: a region from which matter and light can only emerge, never enter. A mathematical solution, not an observed object.
 Worldline. The path an object traces through spacetime: where it is and when it is there. Your biography, with fewer adjectives and more coordinates.
 Wormhole. A hypothetical connection between otherwise separate or distant regions of spacetime. Some solutions of general relativity contain wormholes, but traversable versions typically require exotic stress-energy. Mathematical availability does not guarantee a usable passage.
