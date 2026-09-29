@@ -400,6 +400,10 @@ function parseFile(mdPath, ctx) {
       buildTOCParagraphs().forEach((p) => ctx.pushPara(p));
       i++; continue;
     }
+    if (line.trim() === "%%PAGEBREAK%%") {
+      ctx.pushPara(new Paragraph({ pageBreakBefore: true, children: [] }));
+      i++; continue;
+    }
     if (line.startsWith("## ")) {
       ctx.pushPara(new Paragraph({
         heading: HeadingLevel.HEADING_2,
