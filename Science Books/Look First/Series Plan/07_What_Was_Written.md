@@ -11,8 +11,8 @@ Series root: `D:\My Books for Amazon\Science Books\Look First\`
 | Book | Manuscript folder | Chapters | Words (parts + appendix) | Kindle file | State |
 |---|---|---:|---:|---|---|
 | 1 | `The Universe Has No Now - Manuscript\` | 45 + Prologue | **112,690** (assembled) | `export\The_Universe_Has_No_Now.docx` (361 pp., 46 figures, rebuilt 15 Sep 2026) | Closed. Awaiting author cover check and KDP previewer pass. |
-| 2 | `A Permit Is Not a City - Manuscript\` | 16 | **17,884** (16,240 main + 1,721 appendix, 1,155 front) | `A Permit Is Not a City - Kindle.docx` (built 13 Sep 2026, 16 figures) | First draft, outline-thin. |
-| 3 | `The Body Keeps Its Own Clock - Manuscript\` | 16 | **18,152** (16,717 main + 1,513 appendix, 1,891 front) | `The Body Keeps Its Own Clock - Kindle.docx` (built 13 Sep 2026, 14 figures + 2 placeholders) | First draft, outline-thin. |
+| 2 | `A Trip Is Not a Settlement - Manuscript\` | 16 | **17,884** (16,240 main + 1,721 appendix, 1,155 front) | `A Permit Is Not a City - Kindle.docx` (built 13 Sep 2026, 16 figures) | First draft, outline-thin. |
+| 3 | `A Longer Life Is Not a New Body - Manuscript\` | 16 | **18,152** (16,717 main + 1,513 appendix, 1,891 front) | `The Body Keeps Its Own Clock - Kindle.docx` (built 13 Sep 2026, 14 figures + 2 placeholders) | First draft, outline-thin. |
 
 The bible's length target for Books 2 and 3 is ~70–90k words each. Both drafts sit at roughly one quarter of that. Book 1 was in the same state (44,172 words) before its lengthening pass took every thin chapter to ~1,800–2,200 words of body. The same pass is what Books 2 and 3 owe. Chapters are ~500–1,500 words each now; a teaching chapter in this series runs ~2,000.
 
@@ -28,7 +28,7 @@ The bible's length target for Books 2 and 3 is ~70–90k words each. Both drafts
 - Close-out record: `00_Status.md`.
 - The older `The Universe Has No Now - Kindle.docx` in the manuscript root (12 Sep) is superseded by the export folder file. Do not upload it.
 
-## Book 2 — *A Permit Is Not a City*
+## Book 2 — *A Trip Is Not a Settlement*
 
 - Parts: `01_Part_One_Dirt_Delay_Dates.md` (Ch 1–3), `02_Part_Two_The_Moon_First.md` (Ch 4–9), `03_Part_Three_Vehicle_Not_City.md` (Ch 10–12), `04_Part_Four_Who_Stays.md` (Ch 13–16); `00_Front_Matter.md`; `11_Appendix.md` (A0–A16).
 - Chapter headlines and appendix map: `00_Chapter_Outline.md`. Matches the plan in `02_Book_2_Outline.md` title for title.
@@ -36,7 +36,7 @@ The bible's length target for Books 2 and 3 is ~70–90k words each. Both drafts
 - The sample pages `04_Sample_Earth_Recovery.md` and `05_Sample_Moon_Mars_How_Soon.md` have been folded into the draft (their sentences appear in Ch 1, Ch 11–12 and Ch 13–16). The samples are now historical.
 - Thinnest rooms: Ch 9 (641 words), Ch 15 (672), Ch 13 (707), Ch 8 (781), Ch 6 (788).
 
-## Book 3 — *The Body Keeps Its Own Clock*
+## Book 3 — *A Longer Life Is Not a New Body*
 
 - Parts: `01_Part_One_Many_Clocks.md` (Ch 1–5), `02_Part_Two_The_Organ_You_Already_Use.md` (Ch 6–8), `03_Part_Three_Not_A_Straight_Line.md` (Ch 9–12), `04_Part_Four_The_Honest_Body.md` (Ch 13–16); `00_Front_Matter.md` (with Prologue); `11_Appendix.md` (A0–A16).
 - Chapter headlines and appendix map: `00_Chapter_Outline.md`. Matches `03_Book_3_Outline.md` title for title.

@@ -4,7 +4,7 @@
 **Author:** Lothar J. Musiol.  
 **Title:** A Trip Is Not a Settlement.  
 **Subtitle:** The Moon, Mars, and Why Leaving Does Not Clean the Earth.  
-Folder on disk is still `A Permit Is Not a City - Manuscript` (29 Sep 2026 retitle; path unchanged).  
+Folder on disk is `A Trip Is Not a Settlement - Manuscript`. The previous Kindle file, `A Permit Is Not a City - Kindle.docx`, is in `bak`.  
 **Subtitle:** Moon, Mars, and Why Leaving Does Not Clean the Kitchen.  
 **Series:** Volume 2 of *Look First*. Books 1 and 3 were not reopened in this pass.
 
@@ -35,7 +35,7 @@ Plan: `00_Figure_Plan.md`. Pixels: `Figures/`.
 **On disk**
 
 - Part markdown + appendix as listed above.
-- Kindle Word: `A Permit Is Not a City - Kindle.docx` (rebuild with `python Figures\build_book.py permit`).
+- Kindle Word: `A Trip Is Not a Settlement - Kindle.docx` (rebuild with `python Figures\build_book.py permit`).
 - Amazon paste: `KDP_Description.md`.
 
 **Still human**
@@ -54,7 +54,7 @@ Plan: `00_Figure_Plan.md`. Pixels: `Figures/`.
 ## Close-out, 16 Sep 2026
 
 - SP-method gap close: popular-wrong + Rule on every Ch1–16; invented cast → roles (Mara/Rohan kept).
-- Rebuilt `A Permit Is Not a City - Kindle.docx` — KINDLE_CREATE READY (validate pass).
+- Rebuilt `A Trip Is Not a Settlement - Kindle.docx` — KINDLE_CREATE READY (validate pass).
 - Stamp: **48,627** words. Thin: none. Missing Rules: none.
 - Human only: Kindle Create / KDP previewer.
 

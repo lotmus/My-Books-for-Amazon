@@ -4,8 +4,8 @@ from collections import Counter
 
 books = [
     ("B1 The Universe Has No Now", Path(r"D:\My Books for Amazon\Science Books\Look First\The Universe Has No Now - Manuscript")),
-    ("B2 A Permit Is Not a City", Path(r"D:\My Books for Amazon\Science Books\Look First\A Permit Is Not a City - Manuscript")),
-    ("B3 The Body Keeps Its Own Clock", Path(r"D:\My Books for Amazon\Science Books\Look First\The Body Keeps Its Own Clock - Manuscript")),
+    ("B2 A Permit Is Not a City", Path(r"D:\My Books for Amazon\Science Books\Look First\A Trip Is Not a Settlement - Manuscript")),
+    ("B3 The Body Keeps Its Own Clock", Path(r"D:\My Books for Amazon\Science Books\Look First\A Longer Life Is Not a New Body - Manuscript")),
 ]
 
 

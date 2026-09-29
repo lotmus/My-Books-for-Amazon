@@ -6,7 +6,7 @@ No film titles. Stories are invented scenes. String theory, if named: cannot cur
 
 **Length:** 16 chapters, four parts. Neighbors that taught the same sentence have been kept in one courtroom.
 
-**Series:** Volume 2 of *Look First*. Stands alone. Volume 1, written as its own book: *The Universe Has No Now* (time, origins, elsewhere as a permit). Volume 3, written as its own book: *A Longer Life Is Not a New Body* (healthspan, local gene fixes, no spare-brain unlock). Do not add those rooms here. Folder name on disk is still *A Permit Is Not a City*.
+**Series:** Volume 2 of *Look First*. Stands alone. Volume 1, written as its own book: *The Universe Has No Now* (time, origins, elsewhere as a permit). Volume 3, written as its own book: *A Longer Life Is Not a New Body* (healthspan, local gene fixes, no spare-brain unlock). Do not add those rooms here. Folder name on disk is `A Trip Is Not a Settlement - Manuscript`.
 
 **Date hygiene:** written from a 2026 kitchen. Official years will move. Write *kinds of clocks*. A slip is engineering plus politics. It is not destiny and it is not, by itself, fraud.
 

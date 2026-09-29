@@ -1,6 +1,6 @@
 ﻿from pathlib import Path
 import re, os
-ROOT = Path(r"D:\My Books for Amazon\Science Books\Look First\The Body Keeps Its Own Clock - Manuscript")
+ROOT = Path(r"C:\Users\lomus\OneDrive\My Books for Amazon\Science Books\Look First\A Longer Life Is Not a New Body - Manuscript")
 def wc(text):
     body=re.sub(r"!\[.*?\]\(.*?\)"," ",text); body=re.sub(r"^#+\s+.*$"," ",body,flags=re.M)
     return len(re.findall(r"[A-Za-z0-9\u2019']+",body))

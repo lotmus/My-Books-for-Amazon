@@ -5,8 +5,8 @@ import re
 import subprocess
 import sys
 
-B2 = Path(r"D:\My Books for Amazon\Science Books\Look First\A Permit Is Not a City - Manuscript")
-B3 = Path(r"D:\My Books for Amazon\Science Books\Look First\The Body Keeps Its Own Clock - Manuscript")
+B2 = Path(r"D:\My Books for Amazon\Science Books\Look First\A Trip Is Not a Settlement - Manuscript")
+B3 = Path(r"D:\My Books for Amazon\Science Books\Look First\A Longer Life Is Not a New Body - Manuscript")
 
 B3_RULES = {
     1: ("01_Part_One_Many_Clocks.md", "Hands still age after a useful dose. Take the local win. Put helium down."),

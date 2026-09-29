@@ -6,7 +6,7 @@ No film titles. Stories are invented scenes. String theory, if named: cannot cur
 
 **Length:** 16 chapters, Barrow-short per idea. Neighbors that would have repeated a costume have been merged into one argument.
 
-**Series:** Volume 3 of *Look First*. Display title: *A Longer Life Is Not a New Body*. Folder name on disk is still *The Body Keeps Its Own Clock*. Stands alone. Temperatures are taught in Chapter 1. Book 1’s carrot (sex as shuffle, supernormal cue) is pointed at once, not assigned as homework. Forever-mind and a required Omega Point stay **out** and **cold**.
+**Series:** Volume 3 of *Look First*. Display title: *A Longer Life Is Not a New Body*. Folder on disk: `A Longer Life Is Not a New Body - Manuscript`. Stands alone. Temperatures are taught in Chapter 1. Book 1’s carrot (sex as shuffle, supernormal cue) is pointed at once, not assigned as homework. Forever-mind and a required Omega Point stay **out** and **cold**.
 
 ---
 

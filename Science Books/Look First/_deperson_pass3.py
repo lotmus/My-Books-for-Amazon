@@ -3,7 +3,7 @@ import subprocess, sys
 
 pairs = [
 (
-Path(r"D:\My Books for Amazon\Science Books\Look First\A Permit Is Not a City - Manuscript\02_Part_Two_The_Moon_First.md"),
+Path(r"D:\My Books for Amazon\Science Books\Look First\A Trip Is Not a Settlement - Manuscript\02_Part_Two_The_Moon_First.md"),
 [
 (
 "Rohan, on the other side of Mara’s tin, used to work payloads. He is invented. He still flinches",
@@ -20,7 +20,7 @@ Path(r"D:\My Books for Amazon\Science Books\Look First\A Permit Is Not a City - 
 ],
 ),
 (
-Path(r"D:\My Books for Amazon\Science Books\Look First\A Permit Is Not a City - Manuscript\04_Part_Four_Who_Stays.md"),
+Path(r"D:\My Books for Amazon\Science Books\Look First\A Trip Is Not a Settlement - Manuscript\04_Part_Four_Who_Stays.md"),
 [
 (
 "Rohan’s mother lives in a city that floods in the ugly years. She is invented. The flood is not a metaphor.",
@@ -29,7 +29,7 @@ Path(r"D:\My Books for Amazon\Science Books\Look First\A Permit Is Not a City - 
 ],
 ),
 (
-Path(r"D:\My Books for Amazon\Science Books\Look First\A Permit Is Not a City - Manuscript\01_Part_One_Dirt_Delay_Dates.md"),
+Path(r"D:\My Books for Amazon\Science Books\Look First\A Trip Is Not a Settlement - Manuscript\01_Part_One_Dirt_Delay_Dates.md"),
 [
 (
 "Tom Brennan writes dates for a living. He is invented. His job is real and has a nicer name on the org chart. He sits in the review lead’s reviews with a spreadsheet that has three columns: *announced*, *internal*, *what I would bet*. He is not allowed to show the third column. The third column is why he still has a conscience.",
@@ -54,7 +54,7 @@ print("done", n)
 r = subprocess.run(
     [
         sys.executable,
-        r"D:\My Books for Amazon\Science Books\Look First\A Permit Is Not a City - Manuscript\Figures\build_book.py",
+        r"D:\My Books for Amazon\Science Books\Look First\A Trip Is Not a Settlement - Manuscript\Figures\build_book.py",
         "permit",
     ],
     capture_output=True,

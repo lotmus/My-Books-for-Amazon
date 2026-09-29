@@ -58,7 +58,7 @@ You do not need a physics degree. You need curiosity and a willingness to let �
 
 This book is Volume 1 of *Look First*. It is a complete book. You are not being assigned homework.
 
-If you liked the greenhouse and wanted a downtown, that want has a later kitchen: *A Permit Is Not a City* — Moon, Mars, and why leaving does not clean the one you already staff. If you liked the carrot and wanted helium, that want has a later kitchen: *The Body Keeps Its Own Clock* — lifespan, minds, and why ten thousand years is not a straight line.
+If you liked the greenhouse and wanted a downtown, that want has a later kitchen: *A Trip Is Not a Settlement* — the Moon, Mars, and why leaving does not clean the Earth you already staff. If you liked the carrot and wanted helium, that want has a later kitchen: *A Longer Life Is Not a New Body* — healthspan, the brain you already use, and why ten thousand years is not a straight line.
 
 Those books stand alone. They reuse a woman, three temperatures, and a habit of looking first. They do not reopen this spine. You can stop here. The leftover glow will still be late tomorrow.
 

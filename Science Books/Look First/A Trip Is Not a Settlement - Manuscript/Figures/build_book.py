@@ -15,13 +15,13 @@ AUTHOR = "Lothar J. Musiol"
 BODY_FONT = "Georgia"
 BOOKS = {
  "permit": dict(
-    SRC=r"C:\Users\lomus\OneDrive\My Books for Amazon\Science Books\Look First\A Permit Is Not a City - Manuscript",
+    SRC=r"C:\Users\lomus\OneDrive\My Books for Amazon\Science Books\Look First\A Trip Is Not a Settlement - Manuscript",
     TITLE="A Trip Is Not a Settlement", SUBTITLE="The Moon, Mars, and Why Leaving Does Not Clean the Earth",
     VOLUME="Look First, Volume 2.", FIGS=os.path.join(HERE, "figs_permit"),
     PHOTOS={13: "Credit: NASA/DSCOVR EPIC"},           # figure number -> credit line when the real photo is present
  ),
  "body": dict(
-    SRC=r"C:\Users\lomus\OneDrive\My Books for Amazon\Science Books\Look First\The Body Keeps Its Own Clock - Manuscript",
+    SRC=r"C:\Users\lomus\OneDrive\My Books for Amazon\Science Books\Look First\A Longer Life Is Not a New Body - Manuscript",
     TITLE="A Longer Life Is Not a New Body", SUBTITLE="Healthspan, the Brain You Already Use, and Why Ten Thousand Years Is Not a Straight Line",
     VOLUME="Look First, Volume 3.", FIGS=os.path.join(HERE, "figs_body"),
     PHOTOS={1: "", 16: ""},

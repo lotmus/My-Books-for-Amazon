@@ -2,7 +2,7 @@
 
 **Kitchen date:** 25 September 2026.
 **Author:** Lothar J. Musiol.
-**Title:** A Longer Life Is Not a New Body (29 Sep 2026). Earlier display titles: *The Body Keeps Its Own Clock*, then *The Body’s Honest Invoice*. The manuscript folder and internal file paths still use the Clock name.
+**Title:** A Longer Life Is Not a New Body (29 Sep 2026). Earlier display titles: *The Body Keeps Its Own Clock*, then *The Body’s Honest Invoice*. Manuscript folder: `A Longer Life Is Not a New Body - Manuscript`.
 **Subtitle:** Lifespan, Minds, and Why Ten Thousand Years Is Not a Straight Line.
 **Series:** Volume 3 of *Look First*. Books 1 and 2 were not reopened in this pass.
 
@@ -35,7 +35,7 @@ New this pass: `fig04.png` (four hazard-curve bars: mouse/human/mole-rat/shark),
 ## Kindle
 
 - Rebuild: `python Figures\build_book.py body` from this manuscript's Figures folder. `build_book.py`'s `BOOKS["body"]["SRC"]` is hardcoded to a gone D: path; a fallback (added 23 Sep) points it at the Figures folder's parent when that path is missing, so it also runs from a relocated copy.
-- File: `The Body’s Honest Invoice - Kindle.docx` (built under the new title 25 Sep 2026; the old-named file `The Body Keeps Its Own Clock - Kindle.docx` is superseded — delete it). Verified after the final rebuild: 20 chapter headings, 20 appendix notes, 20 figure captions, 54 hyperlinked TOC entries, 20 embedded images, **0 straight quotes/apostrophes anywhere in the book** (3 pre-existing ones in the old Chapter 20 text were also found and fixed this pass).
+- File the builder writes now: `A Longer Life Is Not a New Body - Kindle.docx`. The older files `The Body Keeps Its Own Clock - Kindle.docx` and `The Body’s Honest Invoice - Kindle.docx` are in `bak`. Verified after the final rebuild: 20 chapter headings, 20 appendix notes, 20 figure captions, 54 hyperlinked TOC entries, 20 embedded images, **0 straight quotes/apostrophes anywhere in the book** (3 pre-existing ones in the old Chapter 20 text were also found and fixed this pass).
 - Amazon paste: `KDP_Description.md`.
 
 ## Sources added 23 Sep
@@ -64,7 +64,7 @@ Net effect: word count moved from 37,848 to **36,362** — a small net *decrease
 
 ## Retitle and story pass, 25 Sep 2026
 
-Retitled from *The Body Keeps Its Own Clock* to **The Body's Honest Invoice**, at Lothar's suggestion: the clock image fit Part I and the relativity/torpor chapters but never fit the brain-myth or progress-extrapolation parts, and "invoice"/"honest" are each used dozens of times across all twenty chapters already. Also renamed Part I from "Many Clocks" to **"Local Fixes, Not Fountains"** for the same reason — gene editing and reprogramming don't read as "clocks" either. Updated everywhere: front matter, KDP description, chapter outline, figure plan, `build_book.py`'s TITLE (which also renamed the output file), `Figures/CREDITS.md`, both draw-script comment headers, and the series bible / Book 3 outline in `Series Plan/`. Old-titled docx deleted as superseded. The manuscript folder itself and internal `SRC` path in `build_book.py` still say "Clock" — not renamed, to avoid touching git tracking and OneDrive sync paths; only the book's own displayed title changed.
+Retitled from *The Body Keeps Its Own Clock* to **The Body's Honest Invoice**, at Lothar's suggestion: the clock image fit Part I and the relativity/torpor chapters but never fit the brain-myth or progress-extrapolation parts, and "invoice"/"honest" are each used dozens of times across all twenty chapters already. Also renamed Part I from "Many Clocks" to **"Local Fixes, Not Fountains"** for the same reason — gene editing and reprogramming don't read as "clocks" either. Updated everywhere: front matter, KDP description, chapter outline, figure plan, `build_book.py`'s TITLE (which also renamed the output file), `Figures/CREDITS.md`, both draw-script comment headers, and the series bible / Book 3 outline in `Series Plan/`. Old-titled docx deleted as superseded. The manuscript folder itself and internal `SRC` path in `build_book.py` still said "Clock" on this date — left alone then, to avoid touching git tracking and OneDrive sync paths; only the book's own displayed title changed. On 29 Sep 2026 the folder and those path strings were renamed to `A Longer Life Is Not a New Body - Manuscript`.
 
 Then, at Lothar's request to make the invented story more complete and compelling, found and fixed a real continuity error: Chapter 18 (pre-existing) establishes that Rohan supports Mara only through the same light-delayed link as everything else — "Rohan on the delay," "teaching a valve she has never seen" — he is never physically with her. My own three new chapters (4, 6, 15) had accidentally written him as co-present ("over Mara's shoulder," "he taps the printout," "he hands the printout back," "he shrugs"). Rewrote all three scenes as asynchronous recorded exchanges instead — each line composed without having heard the reply to the previous one — which is more consistent and, incidentally, more affecting, since the delay itself becomes part of the scene rather than being ignored. Also gave Chapter 15's scene a personal hook: Mara's own outbound transit (conscious, not torpor) rather than a purely abstract policy question.
 

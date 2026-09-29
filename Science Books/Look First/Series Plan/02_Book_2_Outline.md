@@ -1,4 +1,4 @@
-# Book 2 Outline — *A Permit Is Not a City*
+# Book 2 Outline — *A Trip Is Not a Settlement*
 
 **Subtitle:** *Moon, Mars, and Why Leaving Does Not Clean the Kitchen*
 
