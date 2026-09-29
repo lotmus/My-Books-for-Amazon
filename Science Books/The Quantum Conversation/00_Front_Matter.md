@@ -8,6 +8,18 @@
 
 ---
 
+%%PAGEBREAK%%
+
+*Copyright © 2026 by Lothar J. Musiol. All rights reserved.*
+
+No part of this book may be reproduced, stored in a retrieval system, or transmitted in any form or by any means — electronic, mechanical, photocopying, recording, or otherwise — without the prior written permission of the author, except for brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+
+This is a work of nonfiction. The physics, historical accounts, and experimental results described are presented to the best of the author's knowledge; sources are cited throughout the text and in the back matter.
+
+First edition.
+
+---
+
 %%TOC%%
 
 ## Prologue: A Different Way of Thinking
