@@ -4,6 +4,12 @@ Reference file for editorial/formatting work on `Schrodingers_Paperwork_BOOK_1_K
 Read this first. Only open the full manuscript for tasks that genuinely need it (continuity checks,
 verifying a specific passage, reading unfamiliar new content). Keep this file updated as facts change.
 
+Handover, 30 September 2026. This Kindle file is the live Book 1. Do not edit
+`Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.voice-unruh-brillouin.docx` or any `*.before-*.docx` as the book.
+The parent-folder `Schrodingers_Paperwork/` tree is not this manuscript.
+Live Book 2 is `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_DRAFT.docx`, and its guide is
+`Book 2 - The Permitted Options/MANUSCRIPT_GUIDE.md`. Do not overwrite `bak/The_Permitted_Options_BOOK_2_DRAFT.docx`.
+
 ## Premise
 
 The Ministry of Eventualities is a satirical UK civil-service department that handles "events that
@@ -138,20 +144,14 @@ verified to be a real book with the correct author/publisher/year.
 
 ## Project/repo notes
 
-- Canonical file: `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx` (repo root). `BOOK_1.docx` and
-  the Photo Edition were retired once work consolidated onto this file.
-- GitHub remote: `https://github.com/lotmus/schrodingers-paperwork-manuscript` (branch `main`).
-- **This repo is shared with at least one other active Claude session** (also Sonnet 5, same git
-  identity `lotmus <lomus@live.com>`) doing complementary creative work (new scenes/texture, its own
-  bug-fixing passes). Always `git pull`/check `git log origin/main` before starting a new work
-  session in case it has moved forward; prefer fast-forward merges.
-- A "Lolly Wren's Curious Science Adventures - SERIES" folder alongside this repo contains ~45 dated
-  historical backups (`*_BEFORE_*.docx`) from earlier editing sessions — useful for archaeology
-  (recovering lost content/phrasing) but not otherwise part of this repo.
-- Standard safety pattern for any docx edit: copy the file to the scratchpad first, make the change
-  via python-docx/lxml, validate (well-formed XML + expected paragraph-count delta), spot-check, only
-  then commit. For text-only reformatting (no wording change), pre-verify that the reconstructed text
-  exactly matches the original before writing, to catch transcription slips.
+Read this before editing. Several agents work in this series at once. The live `.docx` wins over any older note, including the progress log below.
+
+- Canonical Book 1 file, in this folder: `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`.
+- Not canonical: `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.voice-unruh-brillouin.docx` (older branch; it still says Twenty-Two Coldharrow Rise). Not canonical: anything under `English\drafts\`. Not canonical: `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.before-review-fix.docx`, which is the snapshot from before the 30 Sep 2026 review fix. Do not overwrite that snapshot, and do not copy it back over the live file.
+- The nested GitHub repo `schrodingers-paperwork-manuscript` was deleted. Do not `git pull` it. The parent repo is `C:\Users\lomus\OneDrive\My Books for Amazon`, remote `https://github.com/lotmus/My-Books-for-Amazon.git`. Do not commit or push unless the user asks. Do not force-push.
+- Book 2's canonical file and its own open items are in `HANDOVER.md` at the series root. Do not edit Book 2 while "fixing" Book 1.
+- How to edit the Kindle file: it is about 10MB and contains images. Replace `word/document.xml` inside the zip and preserve each entry's compression. Do not `Document.save()` it with python-docx. Collapsing a paragraph's runs destroys hyperlinks. Do not mass-split dialogue that uses line breaks inside one paragraph. Headings stay at 45 characters or fewer. Quotes in this file are curly. Continued speech in Chapters 12 and 18 is left open on purpose; do not add closing quotes to "balance" them.
+- Bookmarks were 286 after the 30 Sep 2026 edit. Do not delete a paragraph that contains a bookmark.
 
 ## Progress log (speaker-change line-break pass, chapter by chapter)
 
@@ -1823,4 +1823,18 @@ Applied on the series Kindle file, which already had the slam-review Elm Grove m
 - Quietly / Brillouin dialogue recast applied on this same file.
 - Epilogue residence brought into line with the mantelpiece: Mrs Chain is at Twenty-Two Elm Grove, back under its own name after the Chain Terrace plates came down. Coldharrow Rise is gone from the manuscript and from the character guide.
 - Jammed speaker changes (a closing quote stuck to the next speaker) were split onto their own paragraphs where the paragraph was plain text. Paragraphs that already held a hyperlink or a picture got a space instead, so those links stayed intact.
+
+## Handover (30 Sep 2026)
+
+The review fix is in the live Kindle file. Do not restore the previous wording from `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.before-review-fix.docx`.
+
+- A look does not move a street. 4C does, because it is coupled to unresolved alternatives and built to force a record. Buses, complaint files, and Whitbury are enlargements. The nine thousand dwellings are the coupling. That rule is in the Physics Prologue and in Lesson 1's "what this chapter was actually showing you."
+- Lesson 1's Mrs Chain line is: she will not accept "more than one answer waiting in a drawer"; the alternatives can still interfere, which a hidden answer never can. Do not put back "she will nod at more than one answer waiting."
+- Coldharrow is a district of west London that kept its own name. The A40 runs west out of Coldharrow and on out of London, past the Uxbridge road. Do not make Coldharrow, London, and Uxbridge three different maps.
+- The cast list does not name the consultants' theories. "A Word on Who Is Who," at the back, is the reveal. Do not put pilot-wave, many worlds, eleven dimensions, or the cat back into the cast.
+- Gideon's doorframe is the Chapter 1 scene. It is not in the cast list and not in the epilogue. His promotion, and Lolly saying some of it out loud, stay.
+- The epilogue's Board, Voller, Pike, and Venn are one paragraph. Eilstein's departure, the offer of the post, and the nine thousand dwellings stay.
+- Heisenburger's acknowledgment is numbered 137. That is the fine-structure constant's famous approximation, stated after the formula in the backlog. The Hawking-anthology note says so. It is not a derivation.
+- Shared films are linked once in the glossary. The other entry points at that one. Definitions stand if a film has moved.
+- The contents list uses ListParagraph. Do not promote those lines to Heading 1, or the Kindle contents will list every chapter twice.
 

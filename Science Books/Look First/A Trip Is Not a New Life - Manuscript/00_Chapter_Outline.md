@@ -73,7 +73,7 @@ Former display titles, absorbed 29 September 2026: *A Trip Is Not a Settlement*;
 
 ## Part VI — The Long Ticket
 
-Moved here from *The Universe Has No Now*, Chapters 31 and 32. Book 1 keeps a short bridge under the old numbers, so its later chapters still have a chapter to point at. The greenhouse morning stays in Book 1. It is the scale of a near ticket. This part is the far one.
+These two chapters also live in *The Universe Has No Now*, as chapters 31 and 32, restored there as full lessons on 29 Sep 2026. Do not cut the Book 1 chapters back to bridges. The greenhouse morning stays in Book 1. It is the scale of a near ticket. This part is the far one.
 
 | Ch | Popular | Appendix |
 |---:|---|---|

@@ -1,8 +1,19 @@
 # STATUS — Your First YouTube Channel That Sells
 
-Last updated: 2026-09-30 — nine chapters, order fixed in `build_docx.py`. Chapter 1 is *Sell One Thing*. The click chapter is chapter 2. Production is chapter 3. The eight selling videos are chapter 4. Platform money is chapter 5. Then the six-week calendar, the wording, the workbook, and the diagnosis when nothing sells. The Word file matches that list. Pull request #36 (the original three chapters) is already merged. The notes below are the session history; where they still say the book is three chapters or that chapter order is open, this paragraph wins.
+## Current state
 
-Last updated: 2026-09-28 (session 2) — **all three planned chapters now drafted, audited, open as a draft PR**
+Updated 2026-09-30. This heading is what `CLAUDE.md` tells the next agent to read. It wins over every older sentence below, including any line that says this book is one chapter, three chapters, or an open pull request.
+
+- Repo: `lotmus/My-Books-for-Amazon`, branch `main`, folder `Your First YouTube Channel That Sells/`. This book is not its own GitHub repo and not a submodule.
+- Nine chapters are already on `main` (recorded in `cdc2ff0`). Order is the `ORDER` list in `build_docx.py`: Sell One Thing; The Click Is the Whole Business; Nobody Can Tell What It Cost; The Videos That Do the Selling; Where the Money Actually Comes From; Six Weeks to a Live Offer; Say This; The Channel Workbook; When Nothing Sells. Do not recreate them and do not reorder them.
+- Chapter 1 is *Sell One Thing*. The click chapter is chapter 2. Production is chapter 3. The eight selling videos are chapter 4. Platform money is chapter 5.
+- The Word file is `Your First YouTube Channel That Sells.docx`, rebuilt only with `python build_docx.py` from this folder. There is no `build_book.py`.
+- The job of the book is one offer a stranger can buy. Pen name: Kevin Drew Peters.
+- Pull request 36 is merged (`525dcab`, 2026-09-29). Its branch, `claude/youtube-book-create-chapter`, has no merge base with `main` and was merged with the `ours` strategy, so `main`’s files were kept. Do not reopen that pull request and do not merge that branch again.
+- Git, while other agents are in this same checkout: `git add` only paths inside this folder. Do not stage other books. Do not force-push `main`.
+- The exclusion rules in the history below are still in force. Sentences down there about an open draft pull request, or about chapter order still being open, are a log of 2026-09-28. They are not a task.
+
+## History — 2026-09-28 session 2 (already merged)
 
 Post-draft audit (session 2) checked all three chapters for: leaked
 personal-project terms (clean), balanced markdown tables/links (clean,
@@ -13,11 +24,10 @@ added real URLs, only where a search had actually returned one); and all
 three chapters, including the already-merged chapter 1, used straight
 quotes/apostrophes rather than the curly ones `CLAUDE.md` specifies
 (fixed — converted uniformly, including one instance inside
-`figures/follower-floor.svg`'s own visible text). PR #36 is currently
-clean: mergeable, no CI configured in this repo, no reviews or comments
-yet.
+`figures/follower-floor.svg`'s own visible text). Pull request 36 later
+merged. See Current state. Do not reopen it.
 
-## Where this stands
+## History — where the three-chapter draft stood
 
 This is a new, separate companion book to *Your First Book That Sells*,
 started in session 1. Its title deliberately echoes the Kindle book's, with
@@ -25,7 +35,7 @@ started in session 1. Its title deliberately echoes the Kindle book's, with
 title needs its keyword — search discoverability, on Amazon and on YouTube's
 own search once discussed in the book.
 
-Current contents:
+Contents of that draft, not the live book:
 - `manuscript/The Click Is the Whole Business.md` — one chapter (~1,900
   words) covering the title/description/tag character limits, why some
   emotionally accurate tags trigger a content-safety category, captions and
@@ -38,8 +48,7 @@ Current contents:
   and sound libraries plus mixing ratios, text-to-speech/transcription and a
   hard line on voice-cloning consent, free browser editors and FFmpeg, and a
   closing section on the one production workflow (fully original text, voice,
-  and visuals) that never needs a rights check. Opens as a draft PR, not yet
-  merged — see below.
+  and visuals) that never needs a rights check. This chapter is on `main`.
 - `figures/free-production-pipeline.svg` — a colorful five-stage diagram
   summarizing that chapter, used as its opening visual.
 - `manuscript/Where the Money Actually Comes From.md` — the *Build* chapter

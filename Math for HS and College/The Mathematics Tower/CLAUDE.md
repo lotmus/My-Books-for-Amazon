@@ -107,8 +107,9 @@ zip. Hard-won rules:
 - **Prefer styles.xml to touching paragraphs.** Restyling 180 headings is one edit
   there, and safe only when no paragraph carries direct formatting — check first.
 - **Verify after every write, before replacing the live file:** `testzip()` clean,
-  entry list unchanged, media count 97, `document.xml` parses, and every replaced
-  image still decodes.
+  entry list unchanged, media count unchanged, `document.xml` parses, and every
+  replaced image still decodes. Media counts are per volume: Volume 1 = 97,
+  Volume 2 = 107, Volume 3 = 102, Volume 4 = 114.
 - **Verify arithmetic exactly** — as fractions, never floating point. Every table
   in the book should be reproducible by a reader with a pencil.
 
@@ -124,3 +125,36 @@ zip. Hard-won rules:
   log before writing; do not trust a status snapshot from the start of a
   conversation.
 - Backups live in `Archive - not for publication`.
+
+## 5. Floor map — cite these numbers
+
+An older draft called the derivative Floor 6 and the limit Floor 8. Those
+numbers are trigonometry and systems of equations. A sentence that sends the
+reader to Floor 6 for a derivative, or to Floor 8 for an ε–δ argument, is wrong.
+
+Volume 1, Floors 1–12. Floor 1 has Rooms 1.1–1.10; Floors 2–12 have Rooms
+X.1–X.9.
+
+- Floor 1 Something Countable
+- Floor 2 The Algebra of Almost
+- Floor 3 Functions, Graphs & Graph Analysis
+- Floor 4 Coordinate Systems
+- Floor 5 Euclidean Geometry
+- Floor 6 Trigonometry
+- Floor 7 Logarithms & Potencies
+- Floor 8 Systems of Equations
+- Floor 9 Vectors & Vector Algebra
+- Floor 10 Limits (ε–δ and continuity live here)
+- Floor 11 Differential (the derivative, the product rule, linear approximation, related rates, extreme values)
+- Floor 12 Integral. The Fundamental Theorem of Calculus is Room 12.3.
+
+Volume 2 is Floors 13–25 (118 rooms; Floor 18 has Rooms 18.1–18.10). Floor 17
+is Fourier. Floor 18 is the Laplace transform. Eigenvalues are Floors 20–21.
+The Picard named on this volume is Picard’s theorem on essential singularities.
+Picard iteration is built in Room 26.1, not inherited from here.
+
+Volume 3 is Floors 26–37. Volume 4 is Floors 38–50.
+
+Do not rename the Volume 2 bookmark `room_18_9`. It sits on the Room 18.10
+heading, and two hyperlinks whose visible text is “Room 18.10” use that
+anchor. The real Room 18.9 heading uses `room_18_9_tables`.

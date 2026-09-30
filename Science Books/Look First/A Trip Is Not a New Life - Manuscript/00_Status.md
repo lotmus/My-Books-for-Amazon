@@ -1,10 +1,14 @@
 # Status — *A Trip Is Not a New Life*
 
+**Current, 30 September 2026.** Handover: `../HANDOVER.md`. The part files win if this log disagrees.
+
+Book 1 teaches the crew and the library again in its own chapters 31 and 32. Those chapters are lessons, not bridges. This book keeps the same subjects as chapters 25 and 26. Do not tell Book 1 to cut them back.
+
 **Kitchen date:** 29 September 2026.
 **Author:** Lothar J. Musiol.
 **Title:** A Trip Is Not a New Life.
 **Subtitle:** Camps, the Body, and the Earth You Do Not Abandon.
-**Series:** Volume 2 of *Look First*. Volume 1 was not reopened except to move two chapters out and leave bridges.
+**Series:** Volume 2 of *Look First*. Two books, not three.
 
 ## What this file is
 
@@ -15,7 +19,7 @@ Those two, from *The Universe Has No Now*:
 - Chapter 31, **Crews That Do Not Sleep** — now Chapter 25.
 - Chapter 32, **A Library of Earth** — now Chapter 26.
 
-Book 1 still has short bridges under the old numbers, so its ice-ocean and handle chapters can keep pointing. The greenhouse morning stayed in Book 1. The operational camp, the Earth who stays, and the aging hands were already this book.
+Book 1 teaches those two subjects again in chapters 31 and 32 (restored 29 Sep 2026). Do not cut them back to bridges. The greenhouse morning stayed in Book 1. The operational camp, the Earth who stays, and the aging hands were already this book.
 
 Source folders were not deleted. They are marked absorbed. Edit this folder.
 
@@ -33,4 +37,4 @@ Date pass, kitchen 29 September 2026: Artemis II flew in April 2026. The heat-sh
 
 ## Not done
 
-A human pass in the KDP previewer before upload. The single tank-to-tank transfer was not re-opened in this kitchen. The old `.docx` files in the absorbed folders are the previous separate editions.
+A human pass in the KDP previewer before upload. The single tank-to-tank transfer was not re-opened in this kitchen. The old `.docx` files in the absorbed folders are the previous separate editions. Do not restore the deleted three-book Series Plan, and do not renumber the appendix again. Popular chapters keep “a landing attempt in the 2030s.”

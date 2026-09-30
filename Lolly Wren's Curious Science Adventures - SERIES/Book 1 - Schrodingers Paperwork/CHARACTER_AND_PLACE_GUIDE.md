@@ -30,12 +30,12 @@ invented. Useful for cover art, illustration, ARC/marketing materials, and Book 
 - **Sound:** Speaks as if volume were a thing you could trip over: "carefully, and a little behind the thought, which always arrived intact even when the cup didn’t." (Ch9)
 - **Smell:** "Hot solder and pencil shavings — a combination Lolly had come to associate with problems
   that were about to be solved rather than caused." (Ch1)
-- **Attitude:** "Exceptionally intelligent, remarkably clumsy, and almost impossible not to like...
-  solving difficult problems immediately before walking into something stationary" (Cast of
-  Characters). Lolly's old bench-engineer friend; quietly essential (finds the physical relay that
-  lets them cut 4C's coupling in Ch16). In Book 2 he keeps the department's benches and remains
-  her close friend: he does the physical work, she thinks of him when he is elsewhere, and he is
-  the person she can be unfinished with.
+- **Attitude:** Exceptionally intelligent, remarkably clumsy, and almost impossible not to like.
+  The cast list stops at the kettle and the Hamiltonian. The doorframe is the Chapter 1 scene only;
+  do not put it back into the cast or the epilogue. Lolly's old bench-engineer friend; quietly
+  essential (finds the physical relay that lets them cut 4C's coupling in Ch16). In Book 2 he keeps
+  the department's benches and remains her close friend: he does the physical work, she thinks of
+  him when he is elsewhere, and he is the person she can be unfinished with.
 
 ### Dr Stephanie Fainrose
 - **Looks:** "Not tall, and not young, and had a stillness that forced other people to feel
@@ -242,6 +242,7 @@ the in-book identities only.)*
 ## Places
 
 ### The Ministry of Eventualities (Coldharrow HQ) / Regional Transit Reconciliation Annex
+Coldharrow is a district of west London that kept its own name. The Annex window looks onto that weather. The A40 runs west out of Coldharrow and on out of London, past the Uxbridge road. Do not treat Coldharrow, London, and Uxbridge as three maps.
 "A respectable soot-softened stone building in Coldharrow, between a Department of Minor Infrastructure and an
 office responsible for the licensing of ceremonial ladders. Its sign was small. Its corridors were
 long. Its carpets had the peculiar brown colour adopted by institutions that have survived several
@@ -255,7 +256,7 @@ of subtle cruelty under a high ceiling that had given up on grandeur." Smells of
 plastic from the ticket printer, and the flat, coffee-less anxiety of people who had been standing
 there long enough to consider it a personality trait." (Ch2)
 
-### Mrs Chain's house — Chain Terrace (formerly Elm Grove), Equivalent Residence Unit 7B
+### Mrs Chain's house — Twenty-Two Elm Grove (called Chain Terrace only during the crisis), Equivalent Residence Unit 7B
 A "modest cream-coloured house with blue trim" among identical semi-detached houses with fractionally
 wrong numbers and identical stone birdbaths — "as if someone had described cheerfulness to a machine
 and accepted the first draft." (Ch3) Interior: scentlessly immaculate, "the specific scentlessness of

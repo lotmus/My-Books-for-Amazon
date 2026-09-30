@@ -1,9 +1,19 @@
 # Book 1 status — *The Universe Has No Now*
 
-**Kitchen date:** 16 September 2026.  
+**Current, 30 September 2026.** This file is Look First only, and this book only: *The Universe Has No Now*. Handover: `../HANDOVER.md`. The part files win if this log disagrees. The newest section below wins if two sections disagree.
+
+- Look First has one sequel, *A Trip Is Not a New Life*. It is not this book. There is no Book 3. Other series in the parent repo are not this job.
+- Chapters 31 and 32 are full lessons again. Notes A31 and A32 hold the numbers. Do not cut them back to bridges.
+- Photograph credits are on the copyright page and in `KDP_Description.md`.
+- Headlines are navy `0C2D5A`, not `#0000FF`.
+- Stamp **111,305** words. KDP ingest is `export\The_Universe_Has_No_Now.docx`.
+
+The kitchen date and the early sections below are the history of closed passes. They still say “books 2 and 3,” “credits only on the Amazon page,” and “chapters 31 and 32 stay bridges.” Those sentences describe the pass that wrote them.
+
+**Kitchen date of the first close-out:** 16 September 2026.  
 **Author:** Lothar J. Musiol.  
 **Title:** The Universe Has No Now.  
-**Series:** Volume 1 of *Look First*. Books 2 and 3 were not opened in this pass.
+**Series:** Volume 1 of *Look First*.
 
 This file is the close-out checklist after the full-length Book 1 pass.
 
@@ -193,9 +203,9 @@ Author: docx only from here on — no EPUB, no PDF. `export\assemble_export.py` 
 
 Rebuilt `The_Universe_Has_No_Now.md` and `export\The_Universe_Has_No_Now.docx` (docx only, per the new default). Stamp: **112,801** words; 46 images; 0 placeholders/missing/broken.
 
-## Bridge rebuild, 29 Sep 2026
+## Bridge rebuild, 29 Sep 2026 — historical, superseded the same day
 
-Chapters 31 and 32 stay bridges. The classrooms remain in *A Trip Is Not a New Life*, Chapters 25 and 26.
+This pass cut chapters 31 and 32 down to bridges and left the classrooms in *A Trip Is Not a New Life*, Chapters 25 and 26. The next section restored the lessons. Do not repeat this cut. Book 2 still has its own chapters 25 and 26.
 
 Three pointers still promised the old rooms. Fixed in the part files:
 
