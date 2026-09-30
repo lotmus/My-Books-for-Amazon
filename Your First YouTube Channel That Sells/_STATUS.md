@@ -1,5 +1,7 @@
 # STATUS — Your First YouTube Channel That Sells
 
+Last updated: 2026-09-30 — nine chapters, order fixed in `build_docx.py`. Chapter 1 is *Sell One Thing*. The click chapter is chapter 2. Production is chapter 3. The eight selling videos are chapter 4. Platform money is chapter 5. Then the six-week calendar, the wording, the workbook, and the diagnosis when nothing sells. The Word file matches that list. Pull request #36 (the original three chapters) is already merged. The notes below are the session history; where they still say the book is three chapters or that chapter order is open, this paragraph wins.
+
 Last updated: 2026-09-28 (session 2) — **all three planned chapters now drafted, audited, open as a draft PR**
 
 Post-draft audit (session 2) checked all three chapters for: leaked
@@ -184,9 +186,9 @@ used now.
 
 ## Open questions for the author
 
-1. **Chapter order isn't fixed.** "The Click Is the Whole Business" was
-   written first because the character-limit facts were handed over directly
-   and needed no research; it doesn't have to be chapter one.
+1. **Chapter order is fixed** as of 30 September 2026. See the list at the
+   top of this file and `build_docx.py`. "The Click Is the Whole Business"
+   was written first; it is chapter 2.
 2. **The *Build* chapter is now written** (`Where the Money Actually Comes
    From.md`), using the `YouTube Tricks` transcript, the vetted subscriber-
    conversion and affiliate-link material, and the second-channel-

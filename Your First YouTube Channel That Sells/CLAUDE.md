@@ -13,20 +13,21 @@ folder, or repo in this account while working on this one, even if a fix
 elsewhere looks related. If something outside this folder seems worth
 touching, say so and wait to be asked — don't go do it.
 
+Before editing, read the **Current state** section at the top of `_STATUS.md`.
+If an older paragraph in that file disagrees with it, Current state wins.
+
 ## Project facts
 
-- **New project, early stage.** One chapter exists so far:
-  `manuscript/The Click Is the Whole Business.md`, on titles, descriptions,
-  tags, the content-safety category some words trigger, captions, retention,
-  and posting cadence. No outline or chapter order is confirmed yet.
-- **Two more chapters are planned but not written**, matching a
-  Create → Publish → Build arc:
-  - *Create*: making videos cheaply with free/low-cost tools (AI text-to-video,
-    stock footage/music, FFmpeg-based automation) — source material exists in
-    `_source/Making YouTube Videos Cheaply with Online Tools.docx`.
-  - *Build*: channel strategy, including running a second channel and what
-    that does and doesn't allow — source material exists in
-    `_source/YouTube Tricks (chat transcript).docx`.
+- **Nine chapters, order fixed** in `build_docx.py`. Read that list before
+  adding a chapter. As of 30 September 2026 the order is: Sell One Thing;
+  The Click Is the Whole Business; Nobody Can Tell What It Cost; The Videos
+  That Do the Selling; Where the Money Actually Comes From; Six Weeks to a
+  Live Offer; Say This; The Channel Workbook; When Nothing Sells. The Word
+  file in this folder is rebuilt from those files. The job of the book is
+  one offer a stranger can buy.
+- The click chapter is chapter 2, not chapter 1. The cheap-production
+  chapter is chapter 3. The platform-money chapter is chapter 5. Do not
+  point at “the first chapter” when you mean the click.
 - **Source material provenance matters here more than usual.** Everything in
   `_source/` except this file and `_STATUS.md` originated as either the
   author's own raw notes (a bookmark list of tools) or a saved chat transcript
@@ -51,15 +52,14 @@ touching, say so and wait to be asked — don't go do it.
 
 ## Style conventions (Markdown standing in for Word paragraph styles)
 
-Match the Markdown conventions established in the sibling KDP book, *How to
-Publish and Make Good Money* (same repo, its own CLAUDE.md documents these
-for that book). Use the same set here so both books convert the same way if
-either is ever assembled into a Word/EPUB deliverable:
+The chapters already on disk are the style to match. Each file opens with
+the series line, then `# Chapter title`, then an italic job line. Sections
+inside a chapter are `## ` with a roman numeral. Do not rename headings to
+`## Chapter N:`. *How to Publish and Make Good Money* is not in this repo
+anymore; do not restore that folder to copy its style.
 
-- `# ` — book title (once) and Part-level headings, if this book ends up
-  using Parts.
-- `## Chapter N: Title` — chapter headings.
-- `### ` / `#### ` — sections and subsections within a chapter.
+- `# Title` — the chapter title in each manuscript file. No “Chapter N” prefix. `build_docx.py` numbers chapters from its `ORDER` list.
+- `## I. Section title` — a section. The builder turns this into Heading 2. Do not use `###` for those sections. A `###` line is not a heading in this builder; it would be printed as plain text, hashes included.
 - `> **Key takeaway:** …` — a chapter's summary-style callout.
 - `> Worked example. …` — a numbers-shown worked calculation.
 - `> Case study: …` — a real, generic-but-true illustrative example (never
@@ -69,12 +69,8 @@ either is ever assembled into a Word/EPUB deliverable:
   `*Figure N.N — caption.*` line — an embedded chart/diagram.
 - `- [ ] item` — a checklist item.
 
-Once this book has enough content (and its own `figures/`), add a checked-in
-`build_book.py` that assembles the manuscript into a Word `.docx` the same
-way the KDP book's does: plain `python-docx` (no pandoc dependency — not
-available in this environment), Heading 1/2 styles set to page-break-before
-so chapters start a fresh page, real clickable hyperlinks for inline links,
-and GFM tables rendered as real Word tables.
+Rebuild the Word file with `python build_docx.py` from this folder. It is
+plain `python-docx`. Do not add a second builder.
 
 ## House style
 

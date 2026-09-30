@@ -12,9 +12,15 @@ from docx.text.paragraph import Paragraph
 ROOT = Path(__file__).parent
 FIG = ROOT / "figures"
 ORDER = [
-    (1, ROOT / "manuscript" / "The Click Is the Whole Business.md"),
-    (2, ROOT / "manuscript" / "Nobody Can Tell What It Cost.md"),
-    (3, ROOT / "manuscript" / "Where the Money Actually Comes From.md"),
+    (1, ROOT / "manuscript" / "Sell One Thing.md"),
+    (2, ROOT / "manuscript" / "The Click Is the Whole Business.md"),
+    (3, ROOT / "manuscript" / "Nobody Can Tell What It Cost.md"),
+    (4, ROOT / "manuscript" / "The Videos That Do the Selling.md"),
+    (5, ROOT / "manuscript" / "Where the Money Actually Comes From.md"),
+    (6, ROOT / "manuscript" / "Six Weeks to a Live Offer.md"),
+    (7, ROOT / "manuscript" / "Say This.md"),
+    (8, ROOT / "manuscript" / "The Channel Workbook.md"),
+    (9, ROOT / "manuscript" / "When Nothing Sells.md"),
 ]
 SERIES = "A working guide for creators who want a channel, not a hobby."
 TOKEN = re.compile(r"(\*\*[^*]+?\*\*|\*[^*]+?\*|`[^`]+`|\[[^\]]+?\]\([^)]+?\))")
@@ -314,7 +320,7 @@ def main():
 
     doc.add_paragraph("Your First YouTube\nChannel That Sells", "Title")
     doc.add_paragraph(
-        "How to Make Videos Cheaply, Win the Click, and Build a Channel That Can Pay",
+        "How to Choose One Offer, Make the Videos That Sell It, and Get Paid",
         "Subtitle",
     )
     doc.add_paragraph(SERIES)
@@ -350,20 +356,23 @@ def main():
 
 
 START = [
-    "A channel starts when a stranger can find a video, tell what it offers, and decide it is worth their time. This guide is the process for doing that on a small budget: make the video cheaply, win the click honestly, and know which numbers a platform requires before it pays you.",
-    "Read the chapters in order if you are starting. If you already post, open the chapter that matches the problem you can see.",
-    "Chapter 1 is the click. A thumbnail and a title win or lose the viewer before a second of the video plays. The chapter covers the title, description, and tag limits you can count in the upload form, the words that can suppress reach, captions, retention as creator consensus rather than a published formula, and a short-form to long-form posting rhythm.",
-    "Chapter 2 is production. Footage, music, a voice, and an export each have a free or near-free tool. None of those tools tell you what you are allowed to publish. The license check is yours.",
-    "Chapter 3 is the money. A subscriber count is not a monetized channel. YouTube’s Partner Program has two gates, a second channel starts back at zero, other platforms pay on different terms that change quickly, and an affiliate link does not depend on any one of those programs surviving.",
-    "Character limits, export settings, and eligibility rules are stated as facts because they are checkable in the product. Ranking behavior and retention percentages are labeled as inference or creator consensus. Tool prices and platform thresholds move. Recheck the upload form and the linked help pages before you build a plan on a specific number.",
-    "This is a companion to a Kindle publishing guide, not a chapter of it. It does not tell you what your videos should be about, and it is not legal, tax, or official platform advice.",
+    "A channel that sells has one thing a stranger can buy. Views, subscribers, and a monetization badge are not that thing. This book is the path from no offer to a small set of videos that point at one price.",
+    "Read it in order if you are starting. If you already post, use the last chapter to find the earliest break, then go to the chapter that fixes that break.",
+    "Chapter 1 names the buyer and the single offer, and puts a price on a page before you film.",
+    "Chapter 2 wins the click: titles, descriptions, tags, captions, and a posting rhythm you can keep. Ranking claims are labeled as creator consensus, not platform formulas.",
+    "Chapter 3 makes the videos cheaply enough that you can continue, and tells you which licenses you still have to read.",
+    "Chapter 4 is the first eight videos, each with one job, including the video that states the offer.",
+    "Chapter 5 is how money actually arrives: platform programs, their thresholds, and affiliate links. Ad revenue is extra. It is not the offer.",
+    "Chapter 6 is six weeks to get that offer in front of strangers. Chapter 7 is wording you can paste and then make true. Chapter 8 is the notebook. Chapter 9 is what to fix when nothing sells.",
+    "Character limits, export settings, and eligibility rules are facts you can check in the product. They move. The planning numbers in this book are arithmetic, not promises of income. This is not legal, tax, or official platform advice.",
 ]
 
 SOURCES = [
-    "These notes support the claims in the chapters. Planning methods and creator-consensus tactics are editorial guidance, not platform requirements. Accessed September 2026.",
-    "*Chapter 1. YouTube Studio’s own upload interface (title, description, and tag character limits, and the captions workflow). YouTube’s advertiser-friendly content guidelines, for the existence of a sensitive-content category. Retention benchmarks and posting-cadence figures are creator consensus, not published platform figures.*",
-    "*Chapter 2. Tool names and URLs come from working bookmark lists of video, footage, music, and voice tools. A few transferable techniques — reference-image consistency, mixing ratios, export settings, and the fully original workflow — were taken from saved research and rewritten. Specific personal projects were not used. Pricing, licenses, and features change.*",
-    "*Chapter 3. YouTube Partner Program requirements were checked against YouTube’s own monetization guidance. Other platforms were checked against their own creator or help pages. Dailymotion’s requirements could not be confirmed to the same standard and are flagged in the chapter. Subscriber-conversion tactics and affiliate-link placement are creator consensus, not published policy.*",
+    "These notes support the claims in the chapters. Planning methods, worksheets, and creator-consensus tactics are editorial guidance, not platform requirements. The sample conversion figures are arithmetic placeholders, not measured rates. Accessed September 2026.",
+    "*Chapters 1, 4, and 6 through 9 are a selling path: one offer, eight videos, a six-week calendar, wording, a workbook, and a diagnosis when nothing sells. They state no ranking formula.*",
+    "*Chapter 2. YouTube Studio’s upload interface for title, description, and tag limits, and the captions workflow. YouTube’s advertiser-friendly content guidelines, for the existence of a sensitive-content category. Retention benchmarks and posting cadence are creator consensus, not published platform figures.*",
+    "*Chapter 3. Tool names and URLs come from working bookmark lists. Pricing, licenses, and features change. Specific personal projects were not used.*",
+    "*Chapter 5. YouTube Partner Program requirements were checked against YouTube’s own monetization guidance. Other platforms were checked against their own creator or help pages. Dailymotion’s requirements could not be confirmed to the same standard and are flagged in the chapter. Affiliate-link placement is creator consensus plus a disclosure habit, not a promise of income.*",
     "Independent guide. Not affiliated with or endorsed by YouTube or any other platform named here. Not legal or tax advice. Check current official terms before acting.",
 ]
 
