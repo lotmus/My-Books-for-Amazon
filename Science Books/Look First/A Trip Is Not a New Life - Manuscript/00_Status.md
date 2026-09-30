@@ -21,7 +21,7 @@ Source folders were not deleted. They are marked absorbed. Edit this folder.
 
 ## Shape
 
-42 chapters. Parts I—V are the trip. Part VI is the long ticket. Parts VII—X are the body. Appendix notes A1—A16 and A25—A42. Chapters 17—24 still have no twin notes. Body-half equations were renumbered (9)—(16) so they do not collide with the trip-half (1)—(8).
+46 chapters, restored the same evening from the long Kindle files. The camp half is the backup *A Permit Is Not a City* Kindle, about 72,000 words. The 48,627 figure was an earlier stamp of that book. The body half is *The Body’s Honest Invoice* Kindle, about 37,000 words, including four chapters the short markdown had folded away. Parts I—V are the camp. Part VI is the long ticket from Book 1. Parts VII—X are the body. About 116,000 words, about 366 Kindle pages.
 
 Internal ’Chapter N’ pointers inside the body half were shifted by 26. Two cross-book pointers were turned into local ones: the three nouns are Chapter 12 of this book; a slipped date is Chapter 3 of this book.
 

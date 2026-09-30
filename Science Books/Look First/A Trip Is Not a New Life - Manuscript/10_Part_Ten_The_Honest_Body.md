@@ -1,199 +1,136 @@
 # PART X — The Honest Body
 
----
-
-## 39. Medicine’s Invoices
+## 43. Medicine’s Invoices
 
 A local fix is a win with a bill. The bill is not only money. It is a trial that can fail, a side effect that can stay, a conditioning regimen that is not a vitamin, a zip code that was not invited.
 
-![Figure 39. A receipt: trial, harm, zip code. The local fix is on the last line, not the first.](fig39.png)
-
-Hot as a class: sickle-cell-class edits, a handful of enzyme replacements, a retinal truck, a CAR-T that hunts a blood cancer, a hip, a cataract, a pill that turns a cliff into a negotiation. Cold as a default: everyone shares those gains. The invoices are unequally paid.
-
+Figure 17. A receipt: trial, harm, zip code. The local fix is on the last line, not the first.
+Hot as a class: sickle-cell-class edits, a handful of enzyme replacements (a missing body chemical, delivered by infusion for life), a retinal truck, a CAR-T (a patient’s own immune cells, retrained to hunt a blood cancer), a hip, a cataract, a pill that turns a cliff into a negotiation. Cold as a default: everyone shares those gains. The invoices are unequally paid.
 A trial is how a kitchen refuses to take a founder’s word. It is slow, expensive, rude to hope, and still the least-bad way we have learned to not poison a population with a story. Trials fail. They fail because the trick did not work, because the trick worked in a mouse, because the trick worked and the harm was louder, because not enough people could be found, because a war moved the staff. A failed trial is not a proof that the next letter cannot be edited. It is a proof that the invoice includes a no.
-
-Side effects are not fine print. They are the entry fee. Wipe a marrow to make room for an edited lineage and you have bought a month that can kill you on the way to a life that can save you. A drug that clears a plaque and also rattles a vessel is a negotiation, not a halo. A stimulant that buys a morning and steals a sleep is Chapter 33’s toolbox with the lights on. Naming the fee is not pessimism. It is the difference between a tool and a sermon.
-
----
-
+Side effects are not fine print. They are the entry fee. Wipe a marrow to make room for an edited lineage and you have bought a month that can kill you on the way to a life that can save you. A drug that clears a plaque and also rattles a vessel is a negotiation, not a halo. A stimulant that buys a morning and steals a sleep is Chapter 35’s toolbox with the lights on. Naming the fee is not pessimism. It is the difference between a tool and a sermon.
 Who pays.
-
-A price in the low millions per person, in present ledgers, is a local fix that a kingdom can buy for a few and a village cannot buy for its own. Insurance, a ministry, a charity, a lottery of a lawsuit: these are the real delivery trucks for many of the wins. Delivery of the *molecule* was Chapter 30’s problem. Delivery of the *payment* is this chapter’s. Modest further healthy-year gains this century in rich-country medicine are warm. Everyone shares them: cold. The same decades that cheapened a sequence did not cheapen a hospital night in some ledgers; they dearened it. An S-curve in a lab is not an S-curve in a bill.
-
-Inequality is not a subplot you add for manners. It is a clock. A body in a zip code without a trial site does not have the same many clocks as a body next to a campus. The clocks are the same biology. The *access* is a different pot. Healthspan as a product, if it remains a rich-country hobby, is a product that will be sold as a species story and billed as a membership.
-
+A price in the low millions per person, in present ledgers, is a local fix that a kingdom can buy for a few and a village cannot buy for its own. Insurance, a ministry, a charity, a lottery of a lawsuit: these are the real delivery trucks for many of the wins. Delivery of the molecule — getting the fix into the right cells at all — was Chapter 31’s problem. Delivery of the payment is this chapter’s. Modest further healthy-year gains this century in rich-country medicine are warm. Everyone shares them: cold. The same decades that cheapened a sequence did not cheapen a hospital night in some ledgers; they dearened it. An S-curve in a lab is not an S-curve in a bill.
+Inequality is not a subplot you add for manners. It is a clock. A body in a zip code without a trial site does not have the same many clocks as a body next to a campus. The clocks are the same biology. The access is a different pot. Healthspan as a product, if it remains a rich-country hobby, is a product that will be sold as a species story and billed as a membership.
 Look first. Do not overwrite a childhood in a poor kitchen because a rich kitchen’s slide said enhancement. The child in the poor kitchen may need a vaccine that already exists and a fridge that already exists. The slide likes the new scissors. The fridge is ruder and hotter.
-
----
-
 What a trial is, when you sit still with it.
-
 Phase 1 asks: does this kill you on the way in? A handful of people, a dose that climbs, a staff that watches a liver number. Phase 2 asks: does anything useful happen, and to whom? Phase 3 asks: compared with what we already have, in enough bodies that a statistic can be rude. Phase 4, if you get there, is the kitchen after the press release — rare harms, real zip codes, a trick that was clean in a campus and messy in a night clinic. Each phase is a meeting. Each meeting can say no. A no is not a conspiracy against helium. A no is how you do not staff a funeral with a slogan.
+Mice lie in a particular way. They live fast, they are inbred, they do not pay rent, they do not have a seventy-year atherosclerosis — arteries silting up over a lifetime — they do not have a human immune memory of a century of viruses. A mouse that lived longer is a paper. A paper is allowed. A paper is not a woman at an airlock. Translation is the unpaid invoice of every fountain slide. Chapter 29 already said the clocks are many. Translation is why a shout at one clock in a mouse dies in a woman who is still running five.
+A trial doctor enrolls people and then sits with the ones the trial did not choose. The sitting is the job. There is a win on the wall and a stack of letters that say not eligible. Eligible is a biological word and a geographic word and an insurance word. Do not let a founder use that wall as a downtown. The wall is a door that opened for some. Chapter 33 already said the house has other doors. This chapter says some houses do not get a carpenter.
+Mara’s capsule has a label and a delay. Someone paid. A ministry, a contractor, a theater of “crew health.” She takes the dose for the joint. She does not become a different species, and she does not become a proof that her sister will get the same dose.
+Her sister’s name is Priya, and the letter that comes in on the same downlink as everything else says the trial two ferries from her clinic closed enrollment before her scans came back. Not a villain. A number: the study needed a narrower biology than hers, and narrower biology fills faster in a city with three hospitals feeding it than in a coastal clinic with one. Priya will get, if she is lucky, the boring wins instead: a blood-pressure pill that has existed since before Mara was born, a vaccine that already exists, a surgeon who can still be afforded because the operation is not the one on the poster. Mara reads the letter twice before she answers it, because the honest answer is that a local fix bought for a joint on a dead world and a local fix that closed enrollment on a coast are two ends of the same invoice, and the ledger did not ask either of them what they would have voted for. Boring is hot. Helium is cold. She writes back the only true thing she has: that she is glad Priya still has the surgeon, and sorry that gladness is the whole of what she can send on a fifteen-minute delay.
+The receipt, line by line, without a founder’s font.
+Trial. A protocol, a statistician, a data lock — the day a trial’s numbers stop being editable — a meeting that can say no. Cost in years and money and hope. Failure is on the invoice as a line item, not as a scandal.
+Harm. Conditioning that can kill on the way to a save. A side effect that stays. A drug that buys a morning and steals a sleep. Naming the fee is how a tool stays a tool.
+Zip code. Distance to a trial site. A fridge. A nurse. An insurance word that decides whether the molecule is a gift or a rumor. Access is a clock that demographers already know how to count; marketers prefer not to.
+Price. Millions per person, in some present ledgers, for a class of edit that is real and narrow. Delivery of payment is delivery of the win. A village without a kingdom’s ledger does not get the last line of the receipt.
+Staff. Someone has to run the apheresis — hours hooked to a machine that filters out the needed cells — watch the liver number, teach the family what “not eligible” means without lying. Staff is an S-curve. You cannot download it.
+CRISPR-class edits stay local in this book’s mouth: this gene, this tissue, this invoice. They do not become a fountain because the scissors got famous. A sickle-cell-class win on the hospital board is hot as a door and cold as a default for everyone. The temperature split is the hygiene. Laundering starts when the door is photographed and the receipt is cropped.
+Warm: modest further healthy-year gains this century in rich-country medicine, if institutions hold. Hot: local fixes exist and have bills. Cold: everyone shares them on a schedule, and the bill was only money.
+A morning in the clinic, without a founder’s font.
+Rohan sits with a family while Mara’s capsule paperwork is still a rumor on a delay. The wall has a photograph of a win. The desk has a stack that says not eligible in a font designed to look neutral. He does not lie. He names the three clocks: the biology that did not match the protocol, the geography that put the trial two ferries away, the insurance word that turned a molecule into a rumor. The family wanted a downtown. They leave with a blood-pressure pill that already exists and a surgeon’s name that can still be afforded. Boring. Hot. The photograph on the wall does not get to vote.
+What “local” costs when you refuse the costume.
+A sickle-cell-class edit is a door. The door has a conditioning month that can kill on the way to a save, a staff that cannot be downloaded, a ledger that decides whether the door is a gift or a membership. Hot as a class of win. Cold as a default for every zip code. Warm only if you keep the receipt on the counter where helium cannot sweep it off. Delivery of the molecule was Chapter 31’s truck. Delivery of the payment is this chapter’s. Two trucks. Same rule: a molecule without a route is a press release.
+Say it so a smart person does not check her phone: a trial is a meeting that can say no; a mouse paper is not a woman at an airlock; inequality is a clock; keep the receipt.
+Where the popular version goes wrong.
+The slide crops the receipt. It shows the door that opened and deletes the zip code, the conditioning month, the not-eligible stack, and the nurse who cannot be downloaded. It treats a mouse paper as a woman at an airlock. It calls inequality a subplot instead of a clock. Look first: if the photograph has no invoice, it is marketing wearing a lab coat.
+Rule: Keep the receipt. Name eligible as three clocks at once — biology, geography, insurance. Refuse helium as a schedule for everyone. The local fix is the last line, and only for the addresses that can open the door.
 
-Mice lie in a particular way. They live fast, they are inbred, they do not pay rent, they do not have a seventy-year atherosclerosis, they do not have a human immune memory of a century of viruses. A mouse that lived longer is a paper. A paper is allowed. A paper is not a woman at an airlock. Translation is the unpaid invoice of every fountain slide. Chapter 29 already said the clocks are many. Translation is why a shout at one clock in a mouse dies in a woman who is still running five.
-
-Dr. Anjali Mehta enrolls people in a trial and then sits with the ones the trial did not choose. She is invented. The sitting is the job. She has a win on her wall and a stack of letters that say *not eligible*. Eligible is a biological word and a geographic word and an insurance word. She will not let a founder use her wall as a downtown. The wall is a door that opened for some. Chapter 31 already said the house has other doors. This chapter says some houses do not get a carpenter.
-
-Mara’s capsule has a label and a delay. Someone paid. A ministry, a contractor, a theater of “crew health.” She takes the dose for the joint. She does not become a different species, and she does not become a proof that the sister on the coast will get the same dose. The sister will get, if she is lucky, the boring wins: a blood-pressure pill, a vaccine, a surgeon who can still be afforded. Boring is hot. Helium is cold.
-
-A receipt with the lights on, for one class of win.
-
-Sickle-cell disease is a single-letter problem in hemoglobin, inherited, painful, and already a shortened life in too many zip codes. The edit that has reached a clinic does not, in the common version, rewrite that letter in the bone. It wakes a fetal form of hemoglobin by breaking a switch, in a patient’s own blood-forming cells, after a conditioning that empties the marrow enough for the new lineage to take. The person spends a hospital month that can kill them. The price, in the ledgers of the middle of this decade, sits in the low millions per person. Some people stop having the crises. That is hot as a class of result. It is also a receipt: a gene, a tissue, a harm on the way in, a kingdom’s budget, a village that has the disease and not the budget.
-
-Who is not on the receipt. A person whose disease is not this letter. A person who cannot reach the center. A person whose insurer says not yet. A person in a trial’s exclusion list because their kidneys, or their age, or their other medicines made the statistic ugly. Dr. Mehta’s letters are this paragraph. The wall in her office is not a picture of the species. It is a picture of the people who cleared every line of the receipt.
-
-Translation, priced. A mouse study can cost less than a phase 1 and answer a different question. Phase 3 is where the bill becomes a crowd: hundreds or thousands of people, years, a comparison that is allowed to be disappointing. Most tricks die before that crowd. The dying is the system working. A founder who shows you the mouse and the price of the human in the same sentence, as if they were the same coin, is laundering. Ask which phase. Ask who paid. Ask what the harm was. If the answers are “preclinical,” “a slide,” and “not listed,” you are not looking at a healthspan. You are looking at a costume.
-
-Mara’s joint capsule is a milder line on a milder receipt: a dose, a label, a contractor, a delay. It will not be priced in the millions. It will also not be offered, automatically, to her sister. Boring medicine — pressure, sugar, a vaccine, a surgeon — is the healthspan most bodies will actually buy this century. Warm, if the institutions of Chapter 38 hold. Cold, as a species upgrade.
-
-Appendix A39 writes trial phases, harm as an entry fee, and price-as-delivery. Here, keep the receipt. The local fix is the last line. The first lines are how you got to sit at the table.
-
----
-
-## 40. Adjusting Is Not Spare Capacity
+## 44. Adjusting Is Not Spare Capacity
 
 Plasticity is real and expensive. We meet new challenges with the organ we have, plus tools, plus other people. That is already the method. It is not a tank of unused mind waiting for a password.
 
-![Figure 40. A staff rerouting after a chair is empty. Overtime, not a hidden room.](fig40.png)
-
-Hot: a brain can change what it does. Practice thickens a skill. Sleep consolidates. A child can lose a hemisphere and still talk, later, with a cost. An adult can recover a piece of a hand after a stroke, with a year of ugly work. A musician’s map of the fingers is not a civilian’s. A taxi driver’s map of a city, in the old days of paper, was a hippocampus that had been hired extra. None of this is a spare ninety percent. It is a staff doing overtime and rerouting.
-
+Figure 18. A staff rerouting after a chair is empty. Overtime, not a hidden room.
+Hot: a brain can change what it does. Practice thickens a skill. Sleep consolidates. A child whose seizures are severe enough to require removing half the brain can still talk, later, with a cost. An adult can recover a piece of a hand after a stroke, with a year of ugly work. A musician’s map of the fingers is not a civilian’s. A taxi driver’s map of a city, in the old days of paper, was a hippocampus — the brain’s map-room, met already in Chapter 34 — that had been hired extra. None of this is a spare ninety percent. It is a staff doing overtime and rerouting.
 Expensive is the word the ten-percent story skips.
-
 Rerouting costs time, watts, frustration, a therapist, a family that will walk the same hallway a thousand times, a sleep that must actually happen. It costs the function you borrowed from. A skill you thicken can thin a neighbor if you are not careful; more often it just eats the mornings you would have spent on a different skill. A child construction site can reroute more cheaply than an adult office. That is development, not a cupboard. Adults pay more per increment. Diminishing returns live in skulls too.
-
 Tools are part of the method, not a confession of failure. Writing is a tool. A checklist is a tool. A hearing aid is a tool. A notebook on a dead world is a tool. Other people are the oldest tool: a crew, a kitchen, a science that is a conversation with the dead and the delayed. A species that meets a new challenge by inventing a tool and teaching it is not a species that had ninety percent off. It is a species that was already on duty and hired help.
-
----
-
-New challenges — a climate needle, a new pathogen, a camp on a dead world, a job that does not exist yet — will be met this way or not met. They will not be met by unlocking a hidden loft. Chapter 32 emptied the loft. Chapter 33 put tools on the table. Chapter 34 said the carrot will try to sell the loft again. This chapter is the labor: overtime, not helium.
-
+New challenges — a climate needle, a new pathogen, a camp on a dead world, a job that does not exist yet — will be met this way or not met. They will not be met by unlocking a hidden loft. Chapter 34 emptied the loft. Chapter 35 put tools on the table. Chapter 36 said the carrot will try to sell the loft again. This chapter is the labor: overtime, not helium.
 A second origin might have hired a web, a committee, a mind that is only itself when plugged into itself. Courtesy: that zoo is not this book’s. This ape adjusts with this skull, this sleep, this staff of other apes, this notebook. It is already a great deal. It is not a spare tank.
-
----
-
 She learns a new pump the week the old one dies. The learning is ugly. Rohan already knew the pump. She did not. Plasticity is Rohan talking and her hands doing the wrong thing twelve times and then the right thing. No cupboard opened. A colleague and a tool and a morning she would vote for because the water still has to melt. She logs the pH. The log is part of the adjustment. Sentiment named the basil. The log kept it alive.
+What overtime looks like when you refuse the loft story.
+A stroke takes a hand’s map and leaves a person who has to rebuild a reach with sweat and a therapist’s boredom. The rebuild is real. The bill is a year of mornings that cannot also be spent inventing a new job, a new language, a new self that the slide promised was free. Sensitive periods in a child are cheaper plasticity, not a proof that adults have a tank. Adults pay more per increment. That is hot as a developmental fact and cold as a marketing denial.
+Practice thickens a skill and eats a calendar. Sleep consolidates and cannot be replaced by a sermon about unlocking. A crew on a dead world meets a new failure mode the way crews always have: someone talks, someone writes a checklist, someone does the wrong thing until the right thing sticks, someone else already knew. That is Chapter 35’s toolbox with dirt on it. Tools and other people are not confessions that the skull was idle. They are how a staff that was busy from the start hires help.
+The ten-percent sentence loved a hidden room. Chapter 34 emptied it. This chapter’s job is the labor theory of mind that remains: you meet novelty with rerouting, watts, frustration, and a notebook. Climate needle, new pathogen, camp chemistry, a job title that did not exist when you were twenty — same method or no method. There is no password. There is overtime.
+What the bill itemizes, when you refuse to romanticize it.
+Time. A year of hallway walks is a year not spent on a different skill. Plasticity is a budget. Budgets have opportunity costs.
+Watts. The skull already runs expensive. Learning adds overtime on top of the baseline bill Chapter 34 named. You cannot invent a free reroute.
+Frustration. Error is not optional. Twelve wrong grips on a pump are the method. A slide that sells unlocking deletes the ugly middle because ugly does not fundraise.
+Borrowed function. Sometimes the staff that covers for a lost chair was doing another job. Recovery can thin a neighbor map. More often the neighbor is just a morning you no longer have.
+Teachers. Rohan on the delay. A therapist. A notebook written by someone dead. Other people are not a workaround for a cupboard. They are the oldest line on the invoice.
+Temperatures, short:
+Hot: brains change with use, injury, sleep, and teaching; the change costs.
+Warm: tools and institutions are part of how this ape adjusts at species scale.
+Cold: a spare ninety percent waiting for a key; helium as unlocking; adjustment as proof you were not already on duty.
+Mara’s pump week is the whole argument in a blister of time. Rohan’s voice on the delay. Her hands wrong, then less wrong. A log that is not her and still keeps the plant alive. She would vote for the Tuesday. She would not vote for a story that says the learning was free because a cupboard opened. The cupboard was always empty. The staff was always on duty. The overtime was the method.
+Look first when a founder says we will adapt. Adapt is a verb with a receipt. Ask who walks the hallway. Ask what sleep was protected. Ask which tool was invented and which childhood was treated as a construction site because adaptation sounded cheaper than a fridge. Adjusting is not spare capacity. It is the capacity you already had, spent — plus help you hired — plus a morning you will not get twice.
+A second blister of time, after the pump week.
+The joint is a two. The radio is late. Rohan is on the delay teaching a valve she has never seen. She wants the learning to be free — a cupboard opening, a spare self stepping forward. It is not free. It costs the morning she would have spent on the basil log, the sleep she almost skipped, the frustration that is the method. Twelve wrong grips. A right one. No loft. Chapter 34 emptied the loft; this chapter is the invoice for using the staff you already had.
+What institutions buy that skulls cannot.
+A checklist is a tool. A night nurse is a tool. A school that protects sleep for the people who will walk the stroke hallway is a tool. Species-scale adjustment is not a password; it is overtime plus help plus mornings that do not come twice. Cold: selling that package as unlocking. Warm: naming tools and other people as the method, with no need to call the skull idle. Hot: brains change, and the change costs.
+Say it so she stays in the chair: plasticity is real; spare capacity was a sales word; keep the log.
+Where the popular version goes wrong.
+Adaptation is sold as a free loft: unlock, reroute, done. The kitchen has told you all along that the loft was empty. What looks like spare capacity on a slide is overtime with dirt on it — sleep protected or stolen, a therapist or not, a colleague who knew the pump going in, twelve wrong grips before a right one. A brand that skips the receipt is selling helium as unlocking.
+Hot-chair, one breath: the brain you have is already on duty. Practice, sleep, teaching, and other people are the method. A founder who says we will adapt with no receipt is selling the loft Chapter 34 emptied. Ask who walks the hallway. Ask what sleep was protected. Ask which childhood was treated as a construction site because adaptation sounded cheaper than a fridge.
+Clinics have known this for years, no sermon required. Stroke teams log overtime. Music teachers log overtime. Crews on a dead world log overtime when a pump dies. The notebook is not romantic. It is the spare that survives the pitch when spare capacity was the brand.
+Rule: Plasticity is overtime, not a loft. Keep the log. The notebook is the only spare that keeps showing up.
 
-A new world is the same labor with a worse hallway.
-
-Mara learning the pump is a small case. A crew learning a dead world’s dust, a new radio discipline, a night that lasts two weeks, is plasticity with a dosimeter. Nothing in the skull was waiting, labeled *Mars*. The maps that will exist are maps someone practices until the wrong motion becomes the rare one. Sleep is part of the practice. A crew that skips sleep to “use more of the brain” is spending the consolidation the skill needed. Chapter 32 already said the organ is on. This is the invoice for turning it toward a job it did not grow up doing.
-
-Children do this more cheaply, which is why a settlement fantasy always smuggles a child. A child on a new world would build the maps in the construction site, not by unlocking a loft. That child still needs a childhood that was not overwritten, a language, other people, and a kitchen that does not kill them while the maps form. Plasticity is not a reason to send them. It is a reason the sending, if it ever happens, is a school with a bill, not a download.
-
-What the overtime looks like when someone has actually paid it.
-
-A stroke takes a piece of the map. The hand does not know it is a hand. The work back, when it works, is repetition that would bore a slogan to death: the same grasp, the same step, a therapist, a year, a family. Some ground returns. Some does not. The brain reroutes around a dead patch by hiring neighbors, not by opening a room that had been locked. Neighbors were already busy. The cost is those neighbors’ old jobs, done worse for a while, and the watts, and the sleep in which the new path is written down. Skip the sleep and you skipped the payroll.
-
-A child can lose a whole hemisphere and still learn to talk, if the loss is early enough that the construction site is open. The child does not get a free spare brain. The child gets one hemisphere doing two jobs, and a body that pays — a weak side, a different childhood, a bill the poster never itemizes. That is the strongest plasticity a clinic can show you. It is still expensive, still partial, still a development window and not a cupboard you can open at forty because a job got hard.
-
-Practice leaves a mark a scanner can see. People who spent years holding a whole city in their heads, in the era before a phone did it for them, grew a measurable change in a memory structure. Musicians thicken the map of the hand. The mark is the job, written into tissue. It is not unused capacity waiting for a password. Take the job away and some of the mark fades. Use it and you spent the mornings. A taxi driver is not a preview of a hidden ninety percent. A taxi driver is a person who did the route until the route was anatomy.
-
-Sleep is not a pause in the method. It is part of the method. Motor skills consolidate overnight. A crew that treats sleep as the off-switch they can skip, in order to “use more brain,” is burning the consolidation. The tin will still need the pump in the morning. The hands will be worse at it.
-
-So the new challenge is hired the old way. A tool. A colleague. A repetition. A childhood, if you are lucky enough to still be in one. A notebook, because writing is a way of making the overtime survivable. Mara’s twelve wrong tries and one right one are the whole science of adjusting, at the only scale a Tuesday has.
-
-Appendix A40 writes stroke recovery, sensitive periods, and practice as a bill. Here, keep the overtime. Adjusting is not spare capacity. It is the capacity you already had, spent.
-
----
-
-## 41. Copies, Uploads, and Cold Immortality
+## 45. Copies, Uploads, and Cold Immortality
 
 A file is not a worldline.
-
 Cold: a mind poured into a machine, running forever, you in the pour. Allowed as a story. Not selected by present levers. Not selected, either, by a careful reading of what a copy is.
 
-![Figure 41. One thread; a box beside it labeled file. The box is not the thread.](fig41.png)
-
-If you have *The Universe Has No Now*, you have already been told that branches are not destinations and that a required last mind at the end of time fails the leftover shove. Courtesy: that is all. This kitchen can teach the smaller sentence. A scan of a brain, if we had one fine enough — we do not — would be a map. A map is not a walk. Running the map on a substrate that is not the meat would be, at best, a second person who thinks they remember your Tuesdays. The first person would still be in the meat, aging, or dead. Travel did not happen. A photocopy of a letter does not move the sender.
-
+Figure 19. One thread; a box beside it labeled file. The box is not the thread.
+If you have the longer book, you have already been told that branches are not destinations and that a required last mind at the end of time fails the leftover shove. Courtesy: that is all. This kitchen can teach the smaller sentence. A scan of a brain, if we had one fine enough — we do not — would be a map. A map is not a walk. Running the map on a substrate that is not the meat would be, at best, a second person who thinks they remember your Tuesdays. The first person would still be in the meat, aging, or dead. Travel did not happen. A photocopy of a letter does not move the sender.
 The carrot loves the file. The file looks like an off-switch for death and a spare tank for the mind and a 10,000-year catalog all at once. It is three colds in a trench coat. Death is not an engineering problem with a single port. The mind is not ninety percent waiting to be ported. The catalog is not a method.
-
-What is warm, and should be kept: prostheses, a chip that returns a lost function, a closed-loop stimulator that quiets a tremor, a cochlear implant that is a tool with scars. Local. Chapter 30’s word. A restoration is not an upload. A restoration is a hearing aid with a worse invoice and a better miracle-story. Take the restoration if the Tuesday votes for it. Put the forever-mind down.
-
-Omega-ish stories — a last computation, a required immortality of information, a universe that must end as a mind — stay cold. They were not selected by the accelerating stretch, and they are not selected by a clinic. Anthroposophy and a craftsman cosmos are a different game. This book does not play them.
-
-Incompleteness, if you need a wall: a formal system cannot be its own finished proof. A map of a mind is not obliged to *be* the mind. That is enough. No sermon from a named book. No helium in a footnote.
-
----
-
+What is warm, and should be kept: prostheses, a chip that returns a lost function, a closed-loop stimulator that quiets a tremor, a cochlear implant that is a tool with scars. Local. Chapter 31’s word. A restoration is not an upload. A restoration is a hearing aid with a worse invoice and a better miracle-story. Take the restoration if the Tuesday votes for it. Put the forever-mind down.
+Omega-ish stories — a last computation, a required immortality of information, a universe that must end as a mind — stay cold. They were not selected by the accelerating stretch — the universe’s expansion, which is speeding up — and they are not selected by a clinic. Anthroposophy and a craftsman cosmos are a different game. This book does not play them.
+Incompleteness, if you need a wall: a formal system cannot be its own finished proof — no set of rules can fully verify itself from the inside. A map of a mind is not obliged to be the mind. That is enough. No sermon from a named book. No helium in a footnote.
 She will not be uploaded. The sentence is a kindness. The capsule may keep a joint useful. The radio will stay late. The basil will still need a number. A file of her would be a file. The pH log is already a file, and it is not her. She hits the airlock. The seal is a body fact. Bodies end. The ending is not a failure of a port. It is the size of a worldline.
+Copy versus travel, without incense.
+A photocopy of a letter leaves the sender at the desk. A twin born tomorrow is not you moved; it is a second person with a shared past up to a cut. A perfect scan — which we do not have — would still be a map unless something continuous carried the walk. Continuity is what death interrupts. Interruption is not solved by naming a hard drive. The second person on the substrate may insist they remember your Tuesdays. Their insistence is a psychology. It is not a ticket stub from your worldline.
+What people mean when they say upload, sorted so the temperatures can stick.
+Sometimes they mean a backup: a record for historians, a medical chart, a pH log. That is a file. Files are useful. Files are not persons. Mara’s log is already this case.
+Sometimes they mean a prosthesis network: sensors and stimulators that keep a body in the game. That is restoration. Local. Warm when the Tuesday votes for it. Not a pour.
+Sometimes they mean a second runner who wakes up sure they are you. That is a copy. Hot as a distinction: the first worldline did not travel. Cold as a product if sold as immortality-for-the-original.
+Sometimes they mean the original somehow continues in the machine. That claim needs a carrier for continuity that we do not have and a clinic that does not exist. Cold.
+The carrot stacks three colds and calls the stack a product. Off-switch for death: cold as a single port. Spare tank for the mind: already emptied in Part II. Catalog for year 12,000: refused in Chapter 39. A file that promises all three is a trench coat. Look first. Ask what was measured. Ask what still ages. Ask who is left in the meat when the copy boots.
+Identity talk without a sermon: the kitchen does not need a finished metaphysics. It needs one refusal. Do not let a map launder a walk. Do not let a second person’s confidence launder a ticket. Do not let a restoration’s miracle-story launder a forever. Take the implant if the joint of hearing is what you paid for. Put the port down.
+Warm: prostheses and closed-loop tools that return a Tuesday. Hot: a file is not a worldline; travel did not happen. Cold: poured forever-you as a scheduled product; required last mind; helium as a port.
+Mara’s kindness to herself is practical. She will not be uploaded. The joint may stay useful. The log will outlast a season and still not be a person. The airlock still needs a seal that fits a body that ends. Ending is not a bug in the export settings. Ending is the size at which a morning can still matter. A species that spends its treasure on better Tuesdays is not a species that failed to find the port. It is a species that stopped waiting for helium long enough to hit the airlock.
+Kitchen picture, no incense.
+Mara’s pH log is already a file. It keeps the plant alive across a delay. It is not her. If someone copied the log onto a prettier drive and called the drive Mara, the basil would still need a number from hands that age. The copy would remember Tuesdays. The remembering would be a psychology. The worldline in the meat would still be the worldline in the meat. Travel did not happen. A photocopy of a letter does not move the sender; a twin born tomorrow is not you relocated; a perfect scan — which we do not have — is still a map unless something continuous carried the walk. Continuity is what death interrupts. Naming a hard drive does not repair the interruption.
+Sort the word upload before the carrot stacks it.
+Backup for historians: a file. Useful. Not a person. Prosthesis network that returns a Tuesday: restoration. Local. Warm when the kitchen votes. Second runner who wakes sure they are you: a copy. Hot as a distinction — the first worldline did not travel. Cold as a product if sold as immortality-for-the-original. Original continues in the machine: needs a carrier for continuity we do not have. Cold.
+Incompleteness is enough of a wall if you need one: a map of a mind is not obliged to be the mind. No sermon from a named book. No helium in a footnote. Omega-ish required last minds stay cold; they were not selected by a clinic and they are not selected by the accelerating stretch. Take the implant if hearing is what you paid for. Put the port down.
+Say it so she does not reach for her phone: a file is not a worldline; a restoration is not a pour; hang the three colds apart.
+Where the popular version goes wrong.
+Upload is sold as travel. It is not. A map is not a walk. A second person who wakes sure they are you is a psychology, not a ticket stub from your worldline. A prosthetic that returns a Tuesday is a restoration — warm when the kitchen votes for it — and still not a pour. The carrot hangs three colds on one coat (death’s off-switch, spare mind, catalog to year 12,000) because the coat photographs. Hang them apart. Each claim has to earn its own temperature.
+Hot-chair, one breath: if the copy boots and you are still in the meat, travel did not happen. If the copy boots and you are dead, the copy is still not your ticket stub — it is a second person with a story. Restorations that return a Tuesday remain warm-to-hot and local. Forever-you as a scheduled product stays cold. Hang death’s off-switch, the spare mind, and the year-12,000 catalog on separate hooks until each earns a temperature. The coat photographs. The hooks tell the truth.
+Mara’s kindness is practical. She will not be uploaded. The joint may stay useful. The log will outlast a season and still not be a person. The airlock still needs a seal that fits a body that ends. Ending is not a bug in the export settings. Ending is the size at which a morning can still matter.
+Rule: A file is not a worldline. Take the local restoration if Tuesday votes. Refuse the pour. Bodies end. Copies do not travel.
 
-There is a cheaper costume than the file. It is sleep.
-
-Induced torpor — cooling a person, or drugging them toward something like hibernation, so a long trip costs less food, less air, less quarrel — is a warm engineering wish and a cold medical product. Hibernators already do a version. A ground squirrel can drop its metabolism and come back. The brain of a hibernator is a research program: synapses that are allowed to shrink and then rebuild, a temperature the squirrel’s proteins tolerate. A human is not that squirrel. Therapeutic hypothermia, used after some injuries, has a narrowing evidence base and a real harm list. It is a local tool in an intensive-care kitchen. It is not a six-month nap on the way to Mars.
-
-A long sleep is not a long life. The clock does not stop because you are cold. It slows some ledgers and ruins others. Muscle goes. Bone goes. The immune system keeps a grudge. A brain that was promised a gentle pause can wake with a bill. If the trip was the fast one from Chapter 37, you also skipped the years; the sleep did not give them back. If the trip was the slow one, a season or three in a tin, the sleep might save stores and still hand you a body that needs a clinic at the other end. Clinics are Chapter 39. They are not on the poster.
-
-Mars-transit proposals that put the crew in a freezer are logistics. Logistics are allowed. Calling the freezer immortality, or even a healthspan, is the fountain in a sleeping bag. Look first. A hibernator is a cousin, like the shark. A cousin is not a dose.
-
-How far the map actually is, so the file cannot pretend to be in the drawer.
-
-A fruit fly has a brain we have now drawn, synapse by synapse, on the order of a hundred thousand neurons. That drawing is a triumph of a decade and a kind of honesty: here is a whole small nervous system, as a wiring diagram. A human brain is on the order of eighty-six billion neurons, and the connections among them are not a thicker fly. They are a different weather: chemistry that changes by the minute, a body that is sending blood and hormones and pain, a history that is not in the wires alone. We do not have that drawing. If we had the drawing, we would have a map of a state the brain was in when it died or was stained. We would not have the Tuesday, which was a walk.
-
-Running the map is a second problem wearing the first problem’s coat. A simulation that merely stores the wires is a library. A simulation that *does what the wires did* needs a physics for the membrane, the glia, the neuromodulators, the body that was the other half of the thinking. Energy for that, at anything like the brain’s own thrift, is an unsolved engineering bill. Energy for a crude version is a warehouse. A warehouse that outputs sentences is not the person whose Tuesday you wanted to keep. At best it is a new speaker with a stolen diary. The diary’s author is still in the meat, or is gone.
-
-Restorations stay on the warm shelf because they do not make this claim. A cochlear implant drives a nerve that is still the person’s nerve. A stimulator quiets a circuit that is still in the skull. The worldline continues in the same body, with a tool in it. The file-story asks the worldline to jump. Nothing in the clinic, the fly drawing, or the twin who took a fast trip has shown a jump. The fast trip skipped years and kept the same joints. The file would abandon the joints and hope the joints were never the person. Hope is allowed. Selection is not.
-
-Torpor does not sneak the jump in through the side door. You wake as the same worldline, colder, weaker, and late. If someone scanned you while you slept, they would have a picture of a sleeper. The sleeper is still the one who has to hit the airlock.
-
-Appendix A41 writes copy-versus-travel, restoration-versus-upload, torpor as logistics, and why a required forever-mind stays cold. Here, keep the thread and the box. The box is not the thread. The sleeping bag is not a longer thread either.
-
----
-
-## 42. The Honest Body
-
-How to hear a headline, before the cash-out. The book is a set of grades. A grade is something you can do on a Tuesday without a catalog.
-
-*A drug resets biological age.* Ask which clock moved. An epigenetic score is a correlate. Hands, vessels, a memory, a cancer risk are other clocks. If the headline names one score and a mouse, the temperature is warm at best, and only as a direction. If it names a person and a morning they would vote for, ask for the trial phase and the harm. A reset of the house is still cold.
-
-*Gene editing will let us live to 150.* Ask: this gene, this tissue, this person? A sickle-cell-class edit is hot as a local win and does not print a birthday. A fountain date is cold. Modest extra healthy years in a rich clinic, if the meetings hold, are warm. “Us” is doing the work the word *we* did in Chapter 13. Most of us are not on the receipt.
-
-*We only use ten percent of the brain.* False. Hot as a correction. The organ is already on duty. What looks like a leap is overtime, a tool, another person, and a sleep. A child who reroutes after a terrible loss paid a bill. There is no loft to unlock for a harder job.
-
-*At this rate, in ten thousand years.* Ask which fifty they photographed, and what ×200 does to the wall of that sport. Compute hits a power bill. Sequencing hits a meaning. Vaccines hit a meeting. A fast trip, if anyone ever pays it, skips the years and keeps the old body. A long sleep keeps the same body and adds a clinic at the other end. Neither is a longer life.
-
-*You could be copied.* A fly’s wiring diagram is not a human walk. A file beside a worldline is a second object. Restorations that stay in the meat are tools. A required mind at the end of time is a cold story this book does not need, and *The Universe Has No Now* already refused it.
-
-If the headline survives those questions, it might be a local win. Take the local win. The rest of this chapter is only that habit, said once, in the tin.
+## 46. The Honest Body
 
 Cash the recognitions.
-
 Lifespan is not healthspan. That split is hot. The product, if you want one, is mornings you would vote to repeat, not a longer evening in a chair.
-
 Aging is many clocks, not one fuse. Hot-to-warm. A shout at one clock does not reset the kitchen.
-
 Gene fixes are local. Sickle-cell-class wins are hot. A fountain is cold. 150, 200, 1,000 as a scheduled product: cold. Modest further healthy years this century in rich-country medicine: warm. Everyone shares them: cold.
-
 We already use the organ. The ten-percent sentence is false. Hot as a correction. Plasticity is real and expensive. A spare-tank unlock is cold.
-
 The carrot has no off-switch. A longer life is more calendar for the same loop. Look first before you call that an upgrade. Do not overwrite a childhood because a slide said enhancement.
-
 The last fifty years were real and not a straight line. Progress is more often an S. Ten thousand years is not ×200. The limit is often a meeting, a ledger, a famine, a front. A file is not a worldline. Forever-mind stays cold.
 
-![Figure 42. Hands, a basil tray, a blister, a pH log. The caption: do not wait for helium.](fig42.png)
-
----
-
-What she can say, if the radio works, to a person who only heard the headlines.
-
-The capsule helped the joint. It did not hire a new body. Her hands still age. She was already using her mind; the pump took practice, a colleague, and a sleep, not a locked room. A longer stay in the tin would be more calendar for the same loop, including the want that does not come with an off-switch. Nobody on this crew is a preview of year 12,000. A meeting on Earth moved their spare part. A file of her would be a file. She is the one who has to hit the seal.
-
-That is a short enough message to survive the delay. It is also the book.
-
-She names the basil. Sentiment does not get to vote. The capsule may buy her a useful season. It will not buy her helium, and it will not unlock a brain she was not already using. She is not a different species. Her hands still age. The dirt still has a chemistry. The chemistry can be bullied. That was always the whole trick.
-
-Hit the airlock. Log the pH. Take the local win. Put the sermon down. The radio will be late. The delay is light. Light does not care. You do not have to care about helium. You have to care about the Tuesday.
-
-If you wanted a thousand-year ape, you should leave with a colder, better want: more mornings that are worth logging. If you wanted a spare ninety percent, you should leave with the organ you were already using, plus a notebook, plus a night’s sleep, plus someone like Rohan who already knows the pump. If you wanted year 12,000’s kitchen, you should leave with the invoices that will still be due, and without a catalog we cannot name.
-
-The first half of this book already kept her seal and refused a downtown. *The Universe Has No Now*, if you want it, already refused a cosmic now and a required last mind. You do not need that book to finish this one. You can stop here. The hands will still be the hands tomorrow.
-
-A last inventory, spoken in the tin so it has dirt on it.
-
-The capsule is late. The label is still optimistic. The joint is a two today and not an eight. That is a local win. She would vote for this Tuesday: the airlock, the basil, Rohan’s bad joke about the pump, a radio that carries a slipped date and does not get to vote. She would not vote for a longer evening in which the pulse continues and the hands will not open a jar. She does not have a spare mind in the cupboard. She has a notebook. She does not have a file that is her. She has a log that is not her. She does not have year 12,000. She has a film that will go alkaline if she gets sentimental.
-
-That is the honest body. It is not small. It is the only size that has ever reliably been for sale.
-
-Do not wait for helium.
-
----
+Figure 20. Hands, a basil tray, a blister, a pH log. The caption: do not wait for helium.
+She names the basil. Sentiment does not get to vote. The capsule may buy her a useful season. It will not buy her helium, and it will not unlock a brain she was not already using. She is not a different species. Her hands still age. The dirt still has a chemistry. The chemistry can be bullied. That was always the whole trick. Hit the airlock. Log the pH. Take the local win. Put the sermon down.
+If you wanted a thousand-year ape, you should leave with a colder, better want: more mornings that are worth logging. If you wanted a spare ninety percent, you should leave with the organ you were already using, plus a notebook, plus a night’s sleep, plus someone like Rohan who already knows the pump. If you wanted year 12,000’s kitchen, you should leave with the invoices that will still be due, and without a catalog we cannot name. A destinations book, if you want it, will keep her seal and refuse a downtown. A loaf book, if you want it, already refused a cosmic now and a required last mind. You do not need them. You can stop here. The hands will still be the hands tomorrow.
+A last inventory, spoken in the tin so it has dirt on it. The capsule is late. The label is still optimistic. The joint is a two today and not an eight. That is a local win. She would vote for this Tuesday: the airlock, the basil, Rohan’s bad joke about the pump, a radio that carries a slipped date and does not get to vote. She would not vote for a longer evening in which the pulse continues and the hands will not open a jar. She does not have a spare mind in the cupboard. She has a notebook. She does not have a file that is her. She has a log that is not her. She does not have year 12,000. She has a film that will go alkaline if she gets sentimental. That is the honest body. It is not small. It is the only size that has ever reliably been for sale.
+Cash the inventory by temperature, so a slide cannot rearrange it on the way out.
+Hot. Lifespan is not healthspan. The ten-percent sentence is false. Hands age after a useful dose. Sickle-cell-class edits are a real class of local win. The last fifty years produced uneven stairs — vaccines, sequences, packets, cheaper compute — that were not myths. A file is not a worldline. Fifty into ten thousand is two hundred, which is arithmetic, not a method. The limit is often a meeting, a ledger, a famine, a front.
+Warm. Aging is many clocks. Modest further healthy years this century in rich-country medicine, if institutions hold. Progress is more often an S than a rocket. Plasticity is real and expensive; tools and other people are part of the method. Whatever is invented still pays energy, coordination, and the body’s invoices. Restorations — hearing, tremor, a joint season — can be worth taking without becoming helium.
+Cold. A fountain. A scheduled 150-, 200-, or thousand-year ape. Unlocking a spare tank of mind. Last fifty × 200 as named furniture. Forever-you in a file. A required last mind. Progress as a law that fires if we wait. A childhood overwritten because a ruler said enhancement. The gadget catalog this book refused to print.
+How to spend a Tuesday after the inventory. You can keep a capsule without a sermon. You can keep a hearing aid without a spare-tank story. You can keep a sickle-cell-class door open on the hospital board without calling it a downtown. You can teach a pump on a delay without unlocking a loft. You can refuse a file that claims to be a person and still love a log that keeps a plant alive. None of that is small-mindedness. It is temperature hygiene applied to a morning.
+Priya, on the coast, still needs the boring wins. The fridge. The vaccine that already exists. The surgeon who can still be afforded. A book that only sings to the lucky zip code has failed its own receipt. Inequality is a clock. Chapter 43 said so. This closing keeps it on the counter so helium cannot sweep it off.
+The letter that finally answers Mara’s letter takes its usual day and a half, and says only that the surgery went the boring way: the surgeon showed up, the anesthesia held, the recovery is a hallway walked slowly and then less slowly. No downtown. No fountain. A body that still has to be walked back into working by a staff that was already on duty, on a coast a season’s cargo run away from a joint that is a two today instead of an eight. Mara reads it twice, the way she read the first one, and logs the pH before she lets herself feel anything about it, because the plant does not know its owner is relieved and would die anyway if the film went alkaline. Two sisters, two invoices, paid in the same currency for once: boring, hot, and real.
+What to want instead is not a smaller life. It is a colder, better product: mornings you would vote to repeat. The radio will be late. The delay is light. Light does not care. You do not have to care about helium. You have to care about the Tuesday — the one in the greenhouse and the one on the coast, paid for the same boring way, by two different staffs who were already on duty.
+Where the popular version goes wrong.
+The slide sells helium as a product and crops the Tuesday. Look first: cash the recognitions once; vote for mornings worth repeating; keep Priya’s boring wins on the counter.
+Rule: Do not wait for helium. Cash the recognitions once. Vote for the Tuesday you would repeat — and for the Tuesday that did not get the capsule. Seal it.

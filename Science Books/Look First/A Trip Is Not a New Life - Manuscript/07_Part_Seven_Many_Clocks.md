@@ -1,305 +1,229 @@
-# PART VII — Many Clocks
-
----
-
-## The Capsule and the Hands
-
-A capsule arrives on the same delay as the orbiter’s voice. The label is optimistic. Her hands are not.
-
-She works a greenhouse on a dead world — wet soil under LEDs the color of an overcast noon, a tray of basil that does not belong to this dirt, a radio that answers a quarter-hour late, or four minutes, depending on the week. There is no conversation. There is a stack of monologues that eventually, if everyone lives, amount to a plan.
-
-The capsule is a local win in a blister pack. A joint that still works. A season she can still hit an airlock for. She takes the dose because local wins are the only kind biology has ever reliably sold. She does not become a different species. She names the basil, which is sentimental, and logs the pH, which is not.
-
-The first half of this book priced the camp and the Earth she did not get to abandon by leaving. This half is about what the capsule is allowed to mean, and what a slide deck is not allowed to sell on the back of it.
-
-The short version, before it has been earned:
-
-Lifespan is not healthspan. Aging is many clocks, not one fuse. A gene fix is a local repair — this instruction, this tissue, this invoice — not a fountain. The sentence *we only use ten percent of our brain* is false. You do not have a spare ninety percent in the cupboard waiting for a password. You have the organ you already use, plus sleep, plus practice, plus tools, plus other people. The carrot that makes a body chase a cue has no off-switch. A long life does not install one. And the last fifty years of real, uneven progress are not a method for drawing a straight line to the year 12,000.
-
-Those are recognitions, not moods. They wear temperatures. If you came for helium, you will not get helium. You may leave with a colder, better want: more mornings that are still worth logging.
-
----
+# PART VII — Local Fixes, Not Fountains
 
 ## 27. Her Hands Still Age
 
 The airlock sticks on cold mornings. She hits it with the heel of her glove, the way you hit a jammed kitchen drawer, and it sighs. Inside, the greenhouse is the only room that smells like a lie: wet soil, torn basil, a sweetness that does not belong to this planet. The lie is maintained with LEDs and a tray of water she melted, yesterday, from a vein of ice the color of dirty chalk.
-
-A capsule arrives on the same delay as the orbiter’s voice. Twenty minutes, or four, depending on the week. The label is optimistic. A small paragraph about *support* and *maintenance* and a season that can still be used. Her hands are not optimistic. The knuckles have begun to look like a map of a place she has already walked. The joint that used to open a jar without a thought now asks for a meeting.
-
+A capsule arrives on the same delay as the orbiter’s voice. Twenty minutes, or four, depending on the week. The label is optimistic. A small paragraph about support and maintenance and a season that can still be used. Her hands are not optimistic. The knuckles have begun to look like a map of a place she has already walked. The joint that used to open a jar without a thought now asks for a meeting.
 She takes the dose because a joint that still works is a local win, and local wins are the only kind biology has ever reliably sold. She does not become a different species. She names the basil, which is sentimental, and logs the pH, which is not. On a dead world, sentiment is allowed as long as it does not get to vote.
 
-![Figure 27. Working hands over a basil tray in hard light; a plain blister at the edge. The dose is local. The hands are still the hands.](fig27.png)
-
+Figure 1. Working hands over a basil tray in hard light; a plain blister at the edge. The dose is local. The hands are still the hands.
 This is the only honest picture of “the future of us” this book will allow in the near term. Not a downtown on a poster. Not a thousand-year ape with a product number. A body you can weigh. A chemistry you can bully. A radio that is late on purpose. A useful season, if the invoice clears.
-
 The rest of the book is about what that scene is not allowed to launder.
-
----
-
 People meet a capsule and promote it.
-
 The promotion has a few favorite costumes. The dose becomes a species change. The gene becomes a fountain. The brain becomes a cupboard with ninety percent still in the wrapping. The last fifty years of gadgets become a ruler you can lay across ten thousand years of unnamed furniture. Each costume is useful to someone who sells keys. None of them is a measurement.
-
 This book will keep a kitchen habit about claims. Every sentence that matters wears a temperature.
-
-**Hot** means established: measured, repeated, used to predict the next measurement. Her hands age. That is hot. A pulse can embarrass a wall clock for a long evening in a chair, and those extra years are not the same pot as years you would vote to repeat. That split is hot. The sentence *we only use ten percent of our brain* is false. That correction is hot. In a growing list of cases, a broken instruction in a lineage of cells can be reached and corrected, and the lineage keeps the correction. That class of win is hot.
-
-**Warm** means a working account with real gaps. Aging is many clocks, not one fuse. The clocks have names and papers. A single switch that resets the kitchen is not on the counter. Modest further gains in healthy years this century, in rich-country medicine, if the institutions that run trials and pay invoices still exist. Progress that rises, drunk, and then meets a wall more often than it rises forever. Whatever is invented will still pay energy, coordination, and the body’s bills.
-
-**Cold** means a wish allowed by talk, not selected by present levers. A body-wide rewind. A scheduled product at 150 years, or 200, or 1,000. Unlocking a hidden full brain. Last fifty × 200 = the year 12,000’s kitchen. A file that is you, running forever. A required last mind at the end of time. Progress as a law that fires if we wait.
-
+Hot means established: measured, repeated, used to predict the next measurement. Her hands age. That is hot. A pulse can embarrass a wall clock for a long evening in a chair, and those extra years are not the same pot as years you would vote to repeat. That split is hot. The sentence we only use ten percent of our brain is false. That correction is hot. In a growing list of cases, a broken instruction in a lineage of cells can be reached and corrected, and the lineage keeps the correction. That class of win is hot.
+Warm means a working account with real gaps. Aging is many clocks, not one fuse. The clocks have names and papers. A single switch that resets the kitchen is not on the counter. Modest further gains in healthy years this century, in rich-country medicine, if the institutions that run trials and pay invoices still exist. Progress that rises, drunk, and then meets a wall more often than it rises forever. Whatever is invented will still pay energy, coordination, and the body’s bills.
+Cold means a wish allowed by talk, not selected by present levers. A body-wide rewind. A scheduled product at 150 years, or 200, or 1,000. Unlocking a hidden full brain. Last fifty × 200 = the year 12,000’s kitchen. A file that is you, running forever. A required last mind at the end of time. Progress as a law that fires if we wait.
 A claim can change temperature. A local edit that was a clever paper can become a clinic. A fountain does not become a clinic because the local edit did. The laundering is the sport this book is here to spoil.
-
 If you have Volume 1 of this series, you have already met the temperatures on a different kitchen clock — the one that pretended the universe shared a now. You do not need those pages. The hygiene travels. The leftover glow does not. We will not reopen that courtroom.
-
-If you have never met the temperatures, you have them now. Use them on the capsule. Use them on the slide. Use them on the sentence that says *DNA* as if DNA were a tap.
-
----
-
+If you have never met the temperatures, you have them now. Use them on the capsule. Use them on the slide. Use them on the sentence that says DNA as if DNA were a tap.
 She is an invented person. The numbers around her are not invented.
-
-A human joint is cartilage, bone, a little sac of fluid, a staff of cells that keep a surface honest. The staff gets worse at the job. Inflammation writes graffiti. The surface pits. Pain is not a metaphor. Pain is a measurement the nervous system makes and will not stop making because a label was optimistic. A drug that lowers the graffiti, or a lubricant the body will accept, or a replacement that a surgeon can bolt in, is a local win. Local is the word that has to sit still.
-
+Worldwide, on the most recent count anyone has bothered to run properly, something like 595 million people carry osteoarthritis in some joint, and roughly 194 million of those cases sit in the hands specifically — hers is not a rare complaint, it is one of the most common diagnoses a human body ever files. A human joint is cartilage, bone, a little sac of fluid, a staff of cells that keep a surface honest. The staff gets worse at the job. Inflammation writes graffiti. The surface pits. Pain is not a metaphor. Pain is a measurement the nervous system makes and will not stop making because a label was optimistic. A drug that lowers the graffiti, or a lubricant the body will accept, or a replacement that a surgeon can bolt in, is a local win. Local is the word that has to sit still.
 where local means this tissue, this season, this invoice — not a reset of the house.
-
-The same woman still copies DNA with a small error rate. She still shortens the little caps on the ends of chromosomes in the lineages that divide. She still runs mitochondria that leak and forget. She still keeps an immune system that has learned too many grudges and forgotten some of its tact. She still accumulates cells that refuse to die and then spoil the room. She still wears grooves in a brain that has been on duty since the first language she learned. Chapter 29 is those clocks. Chapter 27 is the refusal to let one useful dose pretend it wound them all back.
-
+The same woman still copies DNA with a small error rate. She still shortens the little caps on the ends of chromosomes — the long strands of coiled DNA inside a cell — in the lineages that divide. She still runs mitochondria that leak and forget. She still keeps an immune system that has learned too many grudges and forgotten some of its tact. She still accumulates cells that refuse to die and then spoil the room. She still wears grooves in a brain that has been on duty since the first language she learned. Chapter 29 is those clocks. Chapter 27 is the refusal to let one useful dose pretend it wound them all back.
 Look first.
-
-That rule, in Volume 1, meant do not plague a dark sea because you were lonely for a cousin. Here it means a narrower, ruder thing: do not overwrite a genome, or a childhood, or a morning you already know how to staff, because a slide said *enhancement*. The slide is a cue. The carrot that makes a cue feel like a feast has no off-switch. Chapter 34 teaches the loop. You do not need a prior book to take the warning. If a capsule arrives with a sermon attached — *this is the first day of the new species* — put the sermon down and keep the joint, if the joint is what you paid for.
-
+That rule, in Volume 1, meant do not plague a dark sea because you were lonely for a cousin. Here it means a narrower, ruder thing: do not overwrite a genome, or a childhood, or a morning you already know how to staff, because a slide said enhancement. The slide is a cue. The carrot that makes a cue feel like a feast has no off-switch. Chapter 36 teaches the loop. You do not need a prior book to take the warning. If a capsule arrives with a sermon attached — this is the first day of the new species — put the sermon down and keep the joint, if the joint is what you paid for.
 She logs the pH because the dirt has a chemistry, and the chemistry can be bullied, and bullying is a measurement. Sentiment names the basil. Sentiment does not get to vote on whether the tray is too alkaline. The future of the body is the same kitchen. You can name the hope. You log the clocks.
-
----
-
 A word about helium, so we do not waste it later.
-
 Helium, in this series, is the thing a slide wants you to treat as already on the loading dock: immortality, a downtown on a dead world as a product this decade, a required mind at the end of time, a spare brain in the cupboard, a straight line to furniture we cannot name. Helium is cold when it is sold as scheduled. Useful seasons are not helium. A hearing aid is not helium. A vaccine that closed a room of death is not helium. A sickle-cell-class edit that lets a person walk without a crisis is not helium. Those are tools. Tools have invoices. Helium is what you wait for instead of hitting the airlock.
-
 She does not wait for helium. She hits the airlock. The rest of this book is the argument that this is not small-mindedness. It is the only size biology has ever reliably sold.
-
-Appendix A27 writes what “local” has to mean when a pharmacist and a marketer share a noun. Here, keep the hands. They still age. That is the first hot fact. Everything colder will have to walk past it.
-
----
+Local is a pharmacist word before it is a slide word. A dose that keeps a joint useful for a season is a win with a blister and a delay. It is not a species change. Marketers borrow the noun and promote it until the hands look like a footnote. Put the hands back in the frame. They still age. That is hot. The capsule may buy a Tuesday she would vote to repeat. It will not buy helium. On a dead world, sentiment may name the basil. Sentiment does not get to vote. Log the pH. Hit the airlock. Take the local win. Walk past every colder costume that tries to launder it into a fountain.
+Appendix A1 writes what “local” has to mean when a pharmacist and a marketer share a noun. Here, keep the hands. They still age. That is the first hot fact. Everything colder will have to walk past it.
+Where the popular version goes wrong.
+The slide promotes the noun and crops the receipt. Look first: ask what was measured, what still needs Earth or a body, what the checklist still leaves empty.
+Rule: Hands still age after a useful dose. Take the local win. Put helium down.
 
 ## 28. Lifespan Is Not Healthspan
 
 Lifespan is not healthspan.
-
 Lifespan is how long the clock on the wall can be embarrassed by your pulse. Healthspan is how many of those years you would vote to repeat. You can add frail years. That is easy to mistake for a miracle. It is a longer evening in a chair. The honest product, if you want one, is mornings that are still worth hitting an airlock for.
 
-![Figure 28. Two full-width bars: lifespan and healthspan. The leftover hatch is frail years. Notice which bar people think they bought.](fig28.png)
-
+Figure 2. Two full-width bars: lifespan and healthspan. The leftover hatch is frail years. Notice which bar people think they bought.
 The split is hot. Demographers have been running it for decades under plainer names. Life expectancy at birth is a summary of death rates in a year, not a promise to a baby. Healthy life expectancy — HALE, in the World Health Organization’s ledger — subtracts years lived with disability, weighted by how much function was lost. The subtraction is ugly and necessary. A country can raise the first number by keeping people alive in a bed. The second number tells you whether the extra was a morning.
-
 where HALE is the years lived in a state you would, on present evidence, vote to repeat.
-
 In rich countries the wall-clock number sits in the low-to-mid eighties for women, a little lower for men. Japan, Switzerland, Spain, Australia, Italy, the Nordic kitchens: that band. The United States runs lower — the high seventies in recent ledgers, after a ugly dip and a partial climb — because a rich country can still fail at the boring work: guns, opioids, metabolic disease, a medical bill that is also a maze. Global life expectancy rose by decades across the twentieth century. Most of that rise was not a fountain. It was clean water, vaccines, antibiotics, midwifery, food that arrived. Child death is a slaughter of years. Stop the slaughter and the average leaps. That leap is hot, and it is mostly finished in the places that already have pipes.
-
-Healthspan lags. The lag is the point. A person can live into the eighties and spend the last eight or ten years in a narrowing of the room: the walk that became a shuffle, the names that need a prompt, the joint that will not take the airlock, the breath that makes a sentence a project. Those years count on the wall. They do not automatically count as the product people heard when they heard *we are living longer*.
-
+Healthspan lags. The lag is the point. A person can live into the eighties and spend the last eight or ten years in a narrowing of the room: the walk that became a shuffle, the names that need a prompt, the joint that will not take the airlock, the breath that makes a sentence a project. Those years count on the wall. They do not automatically count as the product people heard when they heard we are living longer.
 Compression of morbidity is the warm hope with a name. You keep the bad years short and stacked against the end. Expansion of morbidity is the easy mistake: you stretch the bad years because you are good at not letting the pulse stop and less good at keeping the morning. Both happen. Different diseases, different countries, different decades. The honest ledger is not a vibe. It is two numbers and a fight about the weights.
-
----
-
-Jeanne Calment died at 122.
-
-That sentence is a tail, not a product. She was a French woman with a documented life that ran from 1875 to 1997, and the documentation has been picked at, as tails always are. Take the number as ~122 and sit it still. It is the far end of a distribution, not a mean you can schedule. Supercentenarians — 110 and over — are rare enough to be a sport for validators. The sport is not a clinic. Nobody has a protocol that prints 122. Nobody has a protocol that prints 150 as a SKU. The tail says a human body *can*, under a lottery of genes, luck, and a century that did not kill her early, run that long. The tail does not say your slide can order the lottery.
-
-Maximum lifespan and life expectancy are different pots again. Life expectancy is a population average that moves when children stop dying and when seventy-year-olds stop dying of things we learned to treat. Maximum lifespan is the right-hand fence of the species as observed. The fence has not sprinted. The averages did. That is why a chart of “we doubled life” can be true about the average and a liar about the fence. We doubled the average mostly by not losing the young. We did not double Jeanne Calment.
-
-A person who wants helium hears 122 and adds a gene. The arithmetic feels like science because both sides have numbers. It is not a method. Chapter 31 is the cold water. Here, keep the two pots. You can raise a mean without moving a fence. You can move a fence in a mouse and not in a woman. You can add years to a pulse and subtract them from a vote.
-
----
-
+The longest well-documented human life ended at 122.
+That sentence is a tail, not a product. Her name was Jeanne Calment, a Frenchwoman with a documented life that ran from 1875 to 1997, and the documentation has been picked at, as tails always are: a researcher argued in 2018 that she and her daughter had swapped identities decades earlier for a tax dodge, which would have made the real record younger by a generation. Demographers went back through birth, marriage, and property records and found the swap did not hold up; the 122 years stood, the most thoroughly checked age claim on record precisely because someone tried hard to break it. Take the number as ~122 and sit it still. It is the far end of a distribution, not a mean you can schedule. Supercentenarians — 110 and over — are rare enough to be a sport for validators. The sport is not a clinic. Nobody has a protocol that prints 122. Nobody has a protocol that prints 150 as a SKU. The tail says a human body can, under a lottery of genes, luck, and a century that did not kill her early, run that long. The tail does not say your slide can order the lottery.
+Maximum lifespan and life expectancy are different pots again. Life expectancy is a population average that moves when children stop dying and when seventy-year-olds stop dying of things we learned to treat. Maximum lifespan is the right-hand fence of the species as observed. The fence has not sprinted. The averages did. That is why a chart of “we doubled life” can be true about the average and a liar about the fence. We doubled the average mostly by not losing the young. We did not double the right-hand fence.
+A person who wants helium hears 122 and adds a gene. The arithmetic feels like science because both sides have numbers. It is not a method. Chapter 33 is the cold water. Here, keep the two pots. You can raise a mean without moving a fence. You can move a fence in a mouse and not in a woman. You can add years to a pulse and subtract them from a vote.
 What would a vote even mean?
-
 Not a survey in a mall. A vote, in this book, is the test you already know how to run. Would you take this Tuesday again? The Tuesday with the walk, the work, the name of the basil, the radio that is late, the pain that is a two and not an eight. If the answer is yes, that year is healthspan even if a doctor’s form has a code on it. If the answer is no, and the no is not a mood but a room that has closed, that year is lifespan without the product.
-
-People lie to themselves about the vote. A slide can make a chair look like a morning. Grief can make a morning look like a chair. The scientific point is narrower than therapy. When a company says *years of life*, ask *which pot*. When a government boasts a rising expectancy, ask what happened to HALE. When a founder says *150 is conservative*, ask for the fence, the species, and the invoice.
-
-Rich-country medicine in the last seventy years added a great deal of lifespan and a real, smaller deal of healthspan. Hip replacements, cataracts, blood pressure pills, statins, HIV turned from a cliff into a condition, some cancers turned from a sentence into a long negotiation. Those are hot as classes of win. They are also a demonstration of the split. You can walk on a metal hip and still be running many clocks. You can see the basil again and still be tired in a way sleep does not fix. The product was the walk and the sight. The sermon was *we are becoming immortal*. The sermon was cold.
-
-Modest further gains in healthy years this century, in the kitchens that already have pipes and trials, are warm. Not a law. A continuation of a slowing curve if the institutions hold. Everyone on Earth shares those gains: cold as a default. The invoices are unequally paid. Chapter 39 is that inequality with the lights on. Here, notice that a global average can rise while a neighborhood falls, and that a neighborhood can rise while a body in it is still a chair.
-
+People lie to themselves about the vote. A slide can make a chair look like a morning. Grief can make a morning look like a chair. The scientific point is narrower than therapy. When a company says years of life, ask which pot. When a government boasts a rising expectancy, ask what happened to HALE. When a founder says 150 is conservative, ask for the fence, the species, and the invoice.
+Rich-country medicine in the last seventy years added a great deal of lifespan and a real, smaller deal of healthspan. Hip replacements, cataracts, blood pressure pills, statins, HIV turned from a cliff into a condition, some cancers turned from a sentence into a long negotiation. Those are hot as classes of win. They are also a demonstration of the split. You can walk on a metal hip and still be running many clocks. You can see the basil again and still be tired in a way sleep does not fix. The product was the walk and the sight. The sermon was we are becoming immortal. The sermon was cold.
+Modest further gains in healthy years this century, in the kitchens that already have pipes and trials, are warm. Not a law. A continuation of a slowing curve if the institutions hold. Everyone on Earth shares those gains: cold as a default. The invoices are unequally paid. Chapter 43 is that inequality with the lights on. Here, notice that a global average can rise while a neighborhood falls, and that a neighborhood can rise while a body in it is still a chair.
 She would vote for a morning that includes the airlock. She would not vote for a longer evening in which the radio still answers and the hands will not. The capsule, if it works, buys the morning. That is already a great deal. It is not a different species. It is not a fence moved to 200. It is a joint.
-
-Appendix A28 writes the ledgers: life expectancy bands, HALE gaps, Calment as a tail, the United States as a rich-country warning. Here, keep the two bars. If you remember one sentence from this chapter, make it the title. Lifespan is not healthspan. The rest of the book is what happens when people sell you the first and bill you as if you bought the second.
-
----
+Healthspan is the product people thought they bought when the wall clock lost. A longer pulse is not a Tuesday you would vote to repeat. Demographers split the pots long ago; marketers glue them back together for a slide. Ask for HALE, or for the morning test, before you pay for a calendar. The 122-year fence is a tail on a distribution, checked hard and still standing, not a ship date for a brand. Averages rose mostly by sparing the young from slaughter. That leap is mostly finished where pipes, vaccines, and midwives already run. Keep the two bars hatched differently. If a founder sells lifespan as if it were healthspan, ask which bar is on the invoice.
+Where the popular version goes wrong.
+The slide promotes the noun and crops the receipt. Look first: ask what was measured, what still needs Earth or a body, what the checklist still leaves empty.
+Rule: Lifespan is not healthspan. Want mornings you would vote to repeat, not a longer evening in a chair.
 
 ## 29. Many Clocks, Not One Fuse
 
 Aging is not one fuse. It is many clocks.
-
 That sentence is hot-to-warm. Hot as a refusal of the single-switch story. Warm as a map of mechanisms that are real, incomplete, and still being argued by people who do this for a living. The map is not a product. The map is why a pill that shouts at one clock does not reset the kitchen.
 
-![Figure 29. Six kitchen clocks, one fuse crossed out. DNA, telomere, mitochondria, immune, senescent, brain. A shout at one is not a rewind.](fig29.png)
-
+Figure 3. Six kitchen clocks, one fuse crossed out. DNA, telomere, mitochondria, immune, senescent, brain. A shout at one is not a rewind.
 Start with the letters.
-
-DNA is a chemical that copies. Copying has a residual error rate even when the staff is sober. Ultraviolet light, oxidation, a replication fork that stalls, a repair crew that arrives late or guesses: the book acquires typos. Most typos in a cell that will die next week do not matter. Typos in a stem cell, or in a lineage that keeps dividing, can matter a great deal. Cancer is one way a typo becomes a career. Loss of function is another. Genomic instability is the grown-up name. It is a clock because damage accumulates and the repair budget is not infinite. It is not *the* clock. People with unusually clean repair can still go gray, go stiff, go slow. People with a broken repair gene can get a specific cancer young and still not explain why a heart stiffens at seventy.
-
+DNA is a chemical that copies. Copying has a residual error rate even when the staff is sober. Ultraviolet light, oxidation, a replication fork that stalls, a repair crew that arrives late or guesses: the book acquires typos. Most typos in a cell that will die next week do not matter. Typos in a stem cell, or in a lineage that keeps dividing, can matter a great deal. Cancer is one way a typo becomes a career. Loss of function is another. Genomic instability is the grown-up name. It is a clock because damage accumulates and the repair budget is not infinite. It is not the clock. People with unusually clean repair can still go gray, go stiff, go slow. People with a broken repair gene can get a specific cancer young and still not explain why a heart stiffens at seventy.
 Telomeres are the plastic tips on the shoelace.
-
 Each time a linear chromosome copies, the very end is an awkward job. The cap shortens. An enzyme, telomerase, can pay the cap back. Most of your somatic cells do not run that enzyme as a lifestyle. A limit appears.
-
-where the Hayflick limit is the observation that many human cell types in a dish divide about forty to sixty times and then stop.
-
-Hayflick is not a mystic number. It is a dish fact with a molecular accent: short caps, a DNA-damage alarm, a cell that refuses to copy. In a body the story is messier. Stem cells have more telomerase. Cancers often steal the enzyme and become rude. A mouse is not a woman; mice have longer telomeres and shorter lives, which is already a warning against a single-clock sermon. Lengthening telomeres in the wrong cell is a cancer dare. Short telomeres in the right cell are a worn joint. The clock is real. The rewind is not a free lunch.
-
+where the cell-division fence is the observation that many human cell types in a dish divide about forty to sixty times and then stop.
+The dish fence is not a mystic number. It is a dish fact with a molecular accent: short caps, a DNA-damage alarm, a cell that refuses to copy. In a body the story is messier. Stem cells have more telomerase. Cancers often steal the enzyme and become rude. A mouse is not a woman; mice have longer telomeres and shorter lives, which is already a warning against a single-clock sermon. Lengthening telomeres in the wrong cell is a cancer dare. Short telomeres in the right cell are a worn joint. The clock is real. The rewind is not a free lunch.
 Mitochondria forget their job.
-
 They are the old bacterial hires that make the majority of a cell’s ATP and leak reactive oxygen as a side effect of being a furnace. Their own small genome sits next to the furnace, which is a staffing error evolution never quite filed. Damage, deletion, a cell that becomes a mosaic of good and bad power plants: tissues that spend energy — brain, heart, muscle — feel it first. Mitochondrial disease in the young is a specific tragedy. Mitochondrial decline in the old is a background weather. A pill that makes mitochondria “happier” in a worm is a paper. A pill that resets a seventy-year-old woman’s furnaces without touching the rest of the house has not clocked in as a scheduled product. Warm as a target. Cold as helium.
-
 The immune system grows bitter.
-
-It learns. Learning is the point of adaptive immunity. Learning also means a repertoire that fills with old grudges — viruses you met in childhood, a cytomegalovirus that never quite leaves, a library of memory cells that occupy seats a naive cell might have used for a new flu. The innate side gets louder and sloppier: a background inflammation with a nickname, inflammaging, that is rude to vessels, to joints, to brains. Vaccines work less well in the old because the staff is tired and the library is crowded. That is a clock. It is why a flu shot is a tool and not a sermon. It is why “rejuvenate the immune system” is a research program and not a SKU.
-
+It learns. Learning is the point of adaptive immunity. Learning also means a repertoire that fills with old grudges — viruses you met in childhood, a cytomegalovirus — a common virus most people quietly carry for life — that never quite leaves, a library of memory cells that occupy seats a naive cell might have used for a new flu. The innate side gets louder and sloppier: a background inflammation with a nickname, inflammaging, that is rude to vessels, to joints, to brains. Vaccines work less well in the old because the staff is tired and the library is crowded. That is a clock. It is why a flu shot is a tool and not a sermon. It is why “rejuvenate the immune system” is a research program and not a SKU.
 Senescent cells refuse to die and then spoil the room.
-
-A cell that has taken too much damage, or hit a telomere alarm, or been shoved by an oncogene, can enter a state where it does not divide and does not leave. It secretes a cocktail — the SASP, if you like letters — that tells neighbors to inflame, remodel, and sometimes misbehave. In a young tissue a few of these cells are a cleanup crew. In an old tissue they are squatters. Senolytics are drugs that try to evict them. In mice, evictions have made pretty graphs. In people, the graphs are early, mixed, and not a fountain. A senescent cell is one clock. Clearing some of them is a local experiment. The house still has the other clocks.
-
+A cell that has taken too much damage, or hit a telomere alarm, or been shoved by an oncogene — a gene damaged into pushing runaway growth — can enter a state where it does not divide and does not leave. It secretes a cocktail — the SASP, if you like letters — that tells neighbors to inflame, remodel, and sometimes misbehave. In a young tissue a few of these cells are a cleanup crew. In an old tissue they are squatters. Senolytics are drugs that try to evict them. In mice, evictions have made pretty graphs. In people, the graphs are early, mixed, and not a fountain. A senescent cell is one clock. Clearing some of them is a local experiment. The house still has the other clocks.
 The brain wears its own grooves.
-
-Neurons are mostly not a renewing lawn. They are a long-staffed office. They accumulate waste proteins that clump. They lose the tact of synapses. White-matter cables thin. Blood vessels stiffen and sprinkle silent insults. Sleep, which is when a good deal of the cleanup is supposed to run, fragments. The skull’s immune cells, the microglia, get their own bitterness. Alzheimer’s is not “aging.” It is a disease with aging as a steep risk factor and with its own ugly, plural mechanisms. Ordinary slowing — the name on the tip of the tongue, the night driving that became a negotiation — is another clock, overlapping, not identical. Chapter 32 will refuse the idea that this office was ninety percent empty. Here, notice that a brain clock can ruin a healthspan while a pulse is still embarrassing a wall.
-
----
-
+Neurons are mostly not a renewing lawn. They are a long-staffed office. They accumulate waste proteins that clump. They lose the tact of synapses. White-matter cables thin. Blood vessels stiffen and sprinkle silent insults. Sleep, which is when a good deal of the cleanup is supposed to run, fragments. The skull’s immune cells, the microglia, get their own bitterness. Alzheimer’s is not “aging.” It is a disease with aging as a steep risk factor and with its own ugly, plural mechanisms. Ordinary slowing — the name on the tip of the tongue, the night driving that became a negotiation — is another clock, overlapping, not identical. Chapter 34 will refuse the idea that this office was ninety percent empty. Here, notice that a brain clock can ruin a healthspan while a pulse is still embarrassing a wall.
 Those six are not a complete inventory. They are a kitchen tour.
-
-Researchers who try to be complete publish *hallmarks*: a list that began as nine and grew to twelve when the papers needed more drawers. Genomic instability, telomere attrition, epigenetic marks that drift, proteins that misfold and are not cleared, nutrient-sensing that forgets the difference between feast and famine, mitochondria, senescence, stem cells that exhaust, communication between cells that turns into gossip, autophagy that slacks, chronic inflammation, a gut ecology that goes off. Appendix A29 writes the list the way a review writes it. Here, the list is a warning. A list of twelve is already a confession that there is not one fuse.
-
+Researchers who try to be complete publish hallmarks: a list that began as nine and grew to twelve when the papers needed more drawers. Genomic instability, telomere attrition, epigenetic marks that drift, proteins that misfold and are not cleared, nutrient-sensing that forgets the difference between feast and famine, mitochondria, senescence, stem cells that exhaust, communication between cells that turns into gossip, autophagy — a cell’s own cleanup-and-recycling crew — that slacks, chronic inflammation, a gut ecology that goes off. Appendix A3 writes the list the way a review writes it. Here, the list is a warning. A list of twelve is already a confession that there is not one fuse.
 Epigenetics deserves a sentence because it has become a product costume. Marks on DNA and its packaging change with age in ways you can train a clock to read. The clock is a predictor. It is hot as a correlate. It is warm as a mechanism. It is cold as a proof that wiping the marks wipes the person back to twenty. A predictor is not a fuse. You can have a gray hair and a young epigenetic score, or the reverse. You can reset marks in a dish and still have the same mitochondria, the same senescent neighbors, the same skull.
-
-Nutrient sensing is the other costume. Calorie restriction lengthens life in some species and makes a miserable kitchen in others. Rapamycin, metformin, a fasting ritual: each has a paper trail. Some of the trail is real. None of the trail is a species change. A worm is not a woman. A mouse is not a woman. A thin, closely watched monkey is not a woman in a suburb with a night shift. The warm claim is that metabolism and aging talk. The cold claim is that we have the talking stick.
-
----
-
+Nutrient sensing is the other costume. Calorie restriction lengthens life in some species and makes a miserable kitchen in others. Rapamycin (a transplant drug that quiets the immune system), metformin (an old, ordinary diabetes pill), a fasting ritual: each has a paper trail. Some of the trail is real. None of the trail is a species change. A worm is not a woman. A mouse is not a woman. A thin, closely watched monkey is not a woman in a suburb with a night shift. The warm claim is that metabolism and aging talk. The cold claim is that we have the talking stick.
 Why do people want one fuse?
-
-Because one fuse is a product. Many clocks are a clinic, a budget, a set of local wins, a refusal. A slide that says *aging is a disease* is doing two jobs at once. One job is useful: it asks insurers and agencies to treat function as a target, not as fate. The other job is a laundering: if aging is one disease, it might have one drug. The second job is not selected by the hallmarks. The hallmarks selected a messy kitchen.
-
+Because one fuse is a product. Many clocks are a clinic, a budget, a set of local wins, a refusal. A slide that says aging is a disease is doing two jobs at once. One job is useful: it asks insurers and agencies to treat function as a target, not as fate. The other job is a laundering: if aging is one disease, it might have one drug. The second job is not selected by the hallmarks. The hallmarks selected a messy kitchen.
 A filter, not a craftsman. Bodies that lasted long enough to copy were bodies that spent the repair budget on the reproductive years and not on an infinite warranty. There is no committee that chose seventy as a moral. There is a mesh that did not pay for a 200-year ape because a 200-year ape was not the cheaper way to get the next copy. That is not a purpose. It is why a fountain would have to fight a staffing decision that is older than agriculture.
-
 She can take a capsule that helps a joint and still be running the other clocks. The basil does not care. The pH log does not care. A shout at telomeres does not rewind the immune grudges. A clearance of senescent cells in a knee does not unclump a protein in a hippocampus. This is not pessimism. It is the reason local wins are worth taking and sermons are worth putting down.
+Appendix A3 writes the dish-division range, the hallmark table, the mouse-to-human translation problem. Here, keep the six clocks and the crossed-out fuse. If a founder shows you one knob, ask which five they left in the drawer.
+Where the popular version goes wrong.
+The slide promotes the noun and crops the receipt. Look first: ask what was measured, what still needs Earth or a body, what the checklist still leaves empty.
+Rule: Aging is many clocks, not one fuse. A shout at one clock does not reset the kitchen.
 
-Other species already hired other clocks. That is the cousin drawer, and it is the drawer the fountain slide raids.
+## 30. Every Clock Has a Cousin
 
-A naked mole rat lives decades in a burrow that would kill a mouse of gossip and cancer. Its hazard curve is rude: it does not show the steep late climb mammals are supposed to owe. Hot as a fact about a rodent. Cold as a protocol for a woman at an airlock. The mole rat did not buy a pill. It bought a life in the dark, a strange extracellular matrix, a cancer resistance that is a research program and not a prescription. Copying one trick into a human body is Chapter 30’s local problem, if the trick even survives the translation. The whole animal is not for sale.
+Chapter 29 said aging is many clocks, not one fuse, and meant it inside a single body. The same sentence holds up between bodies. No species found the one switch either. Some species just built a very different staff.
+Hot: at least four lineages combine an ordinary body plan with a hazard of death that barely climbs, or a clock that runs for centuries, or a way to reset a cell’s job description after damage. Cold: that nature is hiding one trick, and finding it hands you a capsule.
 
-A Greenland shark may be centuries old in cold water, with a lens that clouds and a life that is mostly waiting. Jonathan, a tortoise, is a documented long career on an island, not a mean. *Turritopsis*, the so-called immortal jellyfish, can fall back toward a younger stage when the sea is rude. That is a real developmental trick. It is not a person rewinding a Tuesday. A hydra that does not seem to senesce in the lab is a lab. None of these cousins selected a single fuse. They selected different invoices: cold, size, a matrix, a life cycle that is allowed to start over as a blob. A slide that shows the shark and then a human face is doing a costume change. Ask which clock they actually measured, and which five they left in the drawer.
+Figure 4. Four hazard curves on one chart: mouse climbs fast, human climbs at midlife, mole rat stays low and flat, shark barely rises at all. None of them touch zero.
+where a hazard curve plots the chance of dying in the next year against age; a rising curve is what “aging” means at the level of a population, and a flat curve past maturity is what these four species show instead.
+Start with a rodent about the size of a mouse that outlives a mouse by a factor of ten.
+The naked mole rat is not larger, not colder-blooded, not especially rare, and not, on first inspection, an animal anyone would nominate for greatness. It looks like a thumb that has given up. It lives in burrows in East Africa, is roughly mouse-sized, and can live past thirty-seven years where a laboratory mouse manages two or three. Past its own maturity, its hazard of dying does not rise the way every other studied mammal’s does — not zero, not immortal, just flat, for a rodent that by every other lab measure should be reading a calendar the way a mouse does. It keeps breeding into its third decade. It almost never gets cancer. It has, in short, done everything right while looking like nothing at all.
+One mechanism is on the record. Naked mole-rat cells make a form of hyaluronan — a jelly-like molecule in the space between cells — that runs more than five times larger than the human or mouse version. It gums up the machinery that lets a cell ignore its neighbors and divide without permission. In 2023 a lab put the mole rat’s gene for making it into ordinary mice. The mice made the oversized hyaluronan, got less cancer, ran cooler inflammation, and lived longer and healthier than their unmodified littermates. That is Chapter 31’s local fix arriving a chapter early: one gene, borrowed wholesale from a different animal, doing one job, in mice, not yet in a clinic, not a rewrite of what aging is.
+Take the clock that barely moves at all.
+The Greenland shark lives in the cold water off the Arctic, grows about a centimeter a year, and does not mature until roughly a century and a half into its life, which is a career path no careers advisor would recommend. In 2016 researchers radiocarbon-dated the lens of the eye — a tissue laid down once, in order, like tree rings, and never replaced — in twenty-eight female sharks. The oldest was estimated at nearly four hundred years, with the study’s own uncertainty running from about two hundred seventy up to five hundred, which is either an admirably honest error bar or a shrug dressed up in statistics, depending on your mood. It is the longest-lived vertebrate found so far: a heart, a brain, a liver, a hazard curve, just stretched over a clock running at a fraction of a mammal’s speed, in water barely above freezing.
+Nothing here is a stopped clock. It is the same clock, run cold, slow, and with absolutely nowhere to be.
+Take the animal that resets its own job description.
+Turritopsis dohrnii, the “immortal jellyfish,” is a few millimeters across as an adult, which is roughly the size of the gap between what its nickname promises and what it delivers. Damaged or starved, instead of dying it can revert: mature cells lose their assignment and become the stem-like cells of an earlier stage, and the whole animal rebuilds itself as a juvenile polyp. In principle the cycle can repeat without limit. In practice, individuals are still eaten, still get sick, still die of something — nature having apparently decided that a loophole in aging is no reason to close the loophole marked predation. What resets is a colony’s bookkeeping, not a particular animal’s uninterrupted memory of being that animal. Immortal is doing a great deal of unpaid overtime in that nickname. Chapter 45 will come back to exactly this distinction, for a very different kind of copy.
+Take the one that used no trick at all.
+Jonathan, a Seychelles giant tortoise living on Saint Helena, is a reasonable one hundred ninety-three years old as this book is written, and was already an adult when he arrived on the island in 1882 — which makes him, among other things, a British colonial civil servant who simply never got around to retiring. He is blind from cataracts and has lost his sense of smell. He is not negligibly senescent — he shows the ordinary wear of a very old body, gamely carried on. His whole trick is being large, cold-blooded, and unhurried: a slow metabolism and a body too big for most predators, stacked for two centuries. No molecule made him a special case. Size, patience, and a complete lack of urgency about anything were enough.
+None of the four rewrote Chapter 29’s six clocks. Each leaned on one and left the rest standing.
+The mole rat did not silence its DNA-damage clock or its immune clock; it changed the rules for its senescent-cell and cancer clock specifically, with one oversized molecule, and kept breeding into its third decade on the strength of that one change. The shark did not invent a seventh clock; it turned every one of the six down at once, the way a cold room turns down a whole kitchen rather than one burner. The jellyfish did not defeat its cellular clocks; it found a door back to an earlier reading on them, the way a stem cell already can inside a body that is not reverting. The tortoise ran the same six clocks a human runs, just slower, on a furnace sized for a very large, unhurried, cold-blooded animal. Four species, four different bets on which existing clock to lean on — not one of them a fifth or sixth hallmark nobody has met before.
+Rohan attaches the mole rat gene study to his weekly packet, with a note that arrives, like everything he says, several minutes after he has stopped thinking about it.
+“So we just need the mole rat’s gene,” his message says, with the cheerful confidence of a man who has never had to file a permit for anything.
+She logs the pH, thinks about it for a day, and records her reply for the next window. “And its burrow, and its oxygen chemistry, and to stop being the size we are,” she says. “The paper got healthier mice. Not younger mice, not mice with an off-switch. Mice with less cancer and calmer inflammation. That’s a real invoice, and it’s a rather good one, as these things go. It is not a secret nature was hiding from us out of spite, or waiting for the right committee to declassify it.”
+His reply, when it lands, has clearly been composed before hers arrived, the two of them always half a conversation out of step. “The shark got four hundred years,” it says.
+She answers it anyway, as if the joke were still fresh, because by the time either of them hears anything the other has already moved on to a different sentence. “At a body temperature you would not survive an hour in, growing a centimeter a year, doing none of what you are doing right now, which I gather mostly involves standing there being disappointed in a rodent.” She caps the pen. “Every one of them paid for what they got. None of them got to skip paying. Nature doesn’t do loyalty cards.”
+Days later, his answer to an answer he never heard: “So the secret of eternal life is being a bad-tempered, freezing, four-hundred-year-old fish who never got anywhere in a hurry.”
+She does not wait for that one to land before recording the last word, because on a delay the last word is a decision, not a reflex. “The secret of eternal life is that there isn’t one. There’s just an extremely long list of things you’re not allowed to be if you want the extension, and warm, quick, and in a rush is not on it. You’re disqualified on page one.”
+Here is the invoice underneath all four.
+The mole rat’s trick is one molecule, tied to a burrowing rodent’s whole chemistry; only the molecule, not the burrow, has so far crossed into a mouse, and it bought health, not a stopped clock. The shark’s trick is metabolic patience purchased with cold water and two centuries to reach adulthood — not a schedule a warm, fast, hurried animal can adopt. The jellyfish’s trick requires giving up being one continuous animal with a nervous system in order to become, briefly, something simpler that can start over; the price is identity, not metabolism. The tortoise’s trick is size, a slow furnace, and no rent due on a nervous system built for urgency. Every one of the four still dies of something. None of them is a capsule sitting in a rainforest waiting to be found.
+Temperatures, applied to comparative biology.
+Hot: at least four real lineages combine an ordinary vertebrate or near-vertebrate body with a hazard of death that stays flat, runs on a multi-century clock, or resets after damage; the mole-rat mechanism has already been moved into a mouse and measurably helped it.
+Warm: more species will likely turn out to combine other tricks with other costs; comparative biology is an active field, not a closed inventory.
+Cold: that one of these tricks is a suppressed answer waiting for funding, transferable to a human body without also transferring the burrow, the ocean, the reset, or the size.
+Where the popular version goes wrong.
+The slide holds up an animal and asks why we don’t just have what it has, as if evolution left a working part on the shelf out of neglect. Look first: ask what the animal gave up to get that part, and whether the part was ever separable from the whole animal it belongs to.
+Appendix A4 keeps the four citations and the exact numbers. Here, keep the four clocks: a flat hazard bought with a molecule and a burrow, a slow hazard bought with cold and patience, a reset bought with identity, a plain hazard bought with size. None of them is one switch.
+Rule: Other species did not skip the bill. They just wrote it in a different currency.
 
-A mouse lives a few years and is the animal the fountain prefers, because a few years fit a grant. A mouse that lives thirty percent longer is a paper. Papers are allowed. A paper is not a healthspan. The cousin drawer is useful because it kills the sentence *aging works one way*. It does not install the sentence *therefore we can pick the way we like*.
+## 31. Local Fixes
 
-Appendix A29 writes Hayflick’s range, the hallmark table, the mouse-to-human translation problem, and the cousin drawer as permission, not a menu. Here, keep the six clocks and the crossed-out fuse. If a founder shows you one knob, ask which five they left in the drawer.
-
----
-
-## 30. Local Fixes
-
-Gene fixes are local. That sentence should be printed on every slide that says *DNA* as if DNA were a fountain.
-
+Gene fixes are local. That sentence should be printed on every slide that says DNA as if DNA were a fountain.
 Hot: we can, in a growing list of cases, reach into a lineage of cells and correct a broken instruction — a blood disease, a rare enzyme, a tissue that will take the edit and keep it. CRISPR and its cousins are tools. They are not magic. They are scissors with paperwork.
 
-![Figure 30. One door unstuck in a simple house. The label is this tissue. Scissors with paperwork, not a fountain.](fig30.png)
-
+Figure 5. One door unstuck in a simple house. The label is this tissue. Scissors with paperwork, not a fountain.
 Start with the scissors, because the brand names will rot and the class will not.
-
 A genome is a long string. A disease can be a single wrong letter, a missing chunk, a control switch stuck in the wrong position. For a long time the only way to change that string in a person was luck: a bone-marrow transplant from someone whose string was kinder, a virus we did not design well, a prayer. Gene therapy, as a field, spent decades in the wilderness of immune reactions and leukemia scares and invoices that could bankrupt a kingdom. Then the scissors got sharper.
-
-CRISPR, in the kitchen, is a bacterial memory system hired as a cutter. You supply a guide that finds a sequence. You supply an enzyme that cuts. The cell’s own repair crew then either wrecks the site (sometimes that is the point) or, with more paperwork, inserts a template. Base editors and prime editors are cousins that try to rewrite a letter with less of a cut. Viral vectors — AAV, lentivirus — are delivery trucks. Delivery is most of the problem. A truck that reaches the liver is not a truck that reaches the brain. A truck the immune system remembers is a truck you may not send twice.
-
+CRISPR, in the kitchen, is a bacterial memory system hired as a cutter. You supply a guide that finds a sequence. You supply an enzyme that cuts. The cell’s own repair crew then either wrecks the site (sometimes that is the point) or, with more paperwork, inserts a template. Base editors and prime editors are cousins that try to rewrite a letter with less of a cut. Viral vectors — a hollowed-out virus put to work as a truck, in classes called AAV and lentivirus — are delivery trucks. Delivery is most of the problem. A truck that reaches the liver is not a truck that reaches the brain. A truck the immune system remembers is a truck you may not send twice.
 where a local fix means this gene, in this tissue, in this person, at this price, with this known damage as the entry fee.
-
 The sickle-cell-class win is the one that should be taught in every school that already teaches Mendel.
-
-Sickle cell disease is a single-letter change in the adult hemoglobin gene. The wrong letter makes a protein that can stack, and the stack makes a red cell into a blade, and the blade jams vessels and wrecks childhoods. The heterozygote — one copy — is a malaria bargain the mesh kept. The homozygote is a chronic emergency. For decades the local fix was a matched donor’s marrow, if you had a match and a center and a body that could survive the conditioning. Now there is a class of autologous edits: take the person’s own blood-forming stem cells, edit them outside the body, wipe the old marrow with chemotherapy hard enough that the edited cells can take the seats, put the edited cells back.
-
+Sickle cell disease is a single-letter change in the adult hemoglobin gene. The wrong letter makes a protein that can stack, and the stack makes a red cell into a blade, and the blade jams vessels and wrecks childhoods. Everyone carries two copies of most genes, one from each parent. The heterozygote — one copy of the wrong letter — is a malaria bargain the mesh kept. The homozygote — two copies of the wrong letter — is a chronic emergency. For decades the local fix was a matched donor’s marrow, if you had a match and a center and a body that could survive the conditioning. Now there is a class of autologous edits: take the person’s own blood-forming stem cells, edit them outside the body, wipe the old marrow with chemotherapy hard enough that the edited cells can take the seats, put the edited cells back.
 One version of the class does not even correct the original letter. It wakes fetal hemoglobin, the version you used before you were born, by breaking a switch (BCL11A and its enhancer) that had turned the fetal gene off. The fetal protein dilutes the sickle protein. The crises fall. That is a local fix with a long invoice: manufacturing, a hospital stay, a conditioning regimen that is not a vitamin, a price that, in present ledgers, sits in the low millions of dollars per person. It is still a win. It is hot as a class. It is not a fountain. The person’s telomeres did not rewind. Their arteries did not become twenty. Their brain did not unlock a cupboard. Their children, if the edit was only in blood, still inherit the letter unless a different, ruder conversation is had about germline work.
-
-Name the class, not a halo. Exagamglogene-class CRISPR for sickle cell and transfusion-dependent beta thalassemia is a 2023-era clinic fact. Lentiviral gene-addition cousins sit in the same drawer. The brand on the box will change. The structure will not: this lineage, this instruction, this bill.
-
----
-
+Name the class, not a halo. Exagamglogene-class CRISPR for sickle cell and transfusion-dependent beta thalassemia — another inherited blood disorder — is a 2023-era clinic fact. Lentiviral gene-addition cousins sit in the same drawer. The brand on the box will change. The structure will not: this lineage, this instruction, this bill.
+The pivotal trial’s own numbers are the invoice, printed plainly. Forty-four people received the edited cells. Of the thirty followed long enough to judge, twenty-nine, ninety-seven percent, went a full year without a single vaso-occlusive crisis, and every one of the thirty avoided a crisis-related hospital stay for that year. Those are hot numbers, published in a medical journal in April 2024, not a keynote slide. They describe a lineage of blood cells in a person’s own marrow, wiped and reseeded once, at a price that runs to the millions and a conditioning regimen that is itself a small ordeal. They do not describe a telomere, an artery, or a brain. The crisis stopped. The person did not become someone who does not age.
 Rare enzymes are the other honest drawer.
-
-A child missing one metabolic enzyme can be a tragedy that a protein infusion, or a gene truck to the liver, or an edit in the right cells, can interrupt. Spinal muscular atrophy, a handful of immunodeficiencies, a retinal disease that steals a childhood’s sight: each has a story in which a local delivery changed a life. Each story has a graveyard next to it — the trials that triggered immune storms, the doses that did not reach the tissue, the prices that made a cure a rumor for everyone who did not live near the right zip code. Chapter 39 is the graveyard and the zip code. Here, keep the structure. A rare, monogenic, accessible tissue is the kind of lock these scissors were forged for. Aging is not that lock. Aging is the house.
-
-Cancer, ironically, is already a gene-therapy customer and still not a fountain. CAR-T cells are a local rewrite of an immune cell to hunt a blood cancer. The rewrite can save a life and still leave the person aged by chemotherapy, aged by cytokine storms, aged by the clocks that were never the target. Solid tumors are ruder. A thousand-year ape would still need a cancer policy. Chapter 31 is that policy.
-
-Germline editing — changing the string in a sperm, an egg, or a first clump of cells so that every tissue and every descendant carries the change — is a different door. It is technically closer than it was. It is ethically and politically a front, not a kitchen gadget. A front is Chapter 38’s kind of wall. This book will not print a catalog of designer children. Look first. A slide that says *enhancement* about a child who cannot consent is the carrot with a new face. The off-switch was not hired.
-
----
-
+A child missing one metabolic enzyme can be a tragedy that a protein infusion, or a gene truck to the liver, or an edit in the right cells, can interrupt. Spinal muscular atrophy, a handful of immunodeficiencies, a retinal disease that steals a childhood’s sight: each has a story in which a local delivery changed a life. Each story has a graveyard next to it — the trials that triggered immune storms, the doses that did not reach the tissue, the prices that made a cure a rumor for everyone who did not live near the right zip code. Chapter 43 is the graveyard and the zip code. Here, keep the structure. A rare, monogenic, accessible tissue is the kind of lock these scissors were forged for. Aging is not that lock. Aging is the house.
+Cancer, ironically, is already a gene-therapy customer and still not a fountain. CAR-T cells are a local rewrite of an immune cell to hunt a blood cancer. The rewrite can save a life and still leave the person aged by chemotherapy, aged by cytokine storms — the immune system overreacting to the treatment itself — aged by the clocks that were never the target. Solid tumors are ruder. A thousand-year ape would still need a cancer policy. Chapter 33 is that policy.
+Germline editing — changing the string in a sperm, an egg, or a first clump of cells so that every tissue and every descendant carries the change — is a different door. It is technically closer than it was. It is ethically and politically a front, not a kitchen gadget. A front is Chapter 42’s kind of wall. This book will not print a catalog of designer children. Look first. A slide that says enhancement about a child who cannot consent is the carrot with a new face. The off-switch was not hired.
 What CRISPR is not.
-
 It is not a search-and-replace for “old.” Old is not a sequence. Old is the many clocks. You can imagine, cold, a future in which many tissues are edited, many times, for many letters, at a price a village can pay, with delivery trucks that know the brain and the heart and the stem-cell niches. You can imagine it. Imagination is not a schedule. The present kitchen is: a short list of monogenic wins, a longer list of trials, a delivery problem, an immune memory, an invoice, and a house that still ages while you celebrate the one door you unstuck.
-
 She will not get a CRISPR for being fifty-eight and having hands. She might, in a later decade, get a better joint drug, or a better way to quiet a senescent crowd in a knee, or nothing new except the same bullying of chemistry she already knows. The capsule on the radio delay is honest if it stays local. It becomes a lie when the label starts talking about the species.
+Delivery is the unpaid invoice of every headline that says CRISPR as if the word were a method for forever. This tissue, this lineage, this conditioning regimen, this zip code that can reach a trial site: that is local. A sickle-cell-class win is hot as a class. A body-wide rewind stays cold. Do not let a hot door launder a cold house. Mara takes a capsule for a joint. She does not become a different species, and she does not become proof that her sister on the coast gets the same dose.
+Scissors with paperwork: consent, a delivery vector, an off-target worry, a marrow wipe that can kill on the way to a save. Headline CRISPR is incense for a conference. A class-of-edit is a door in one room of one house. Clinics keep score in adverse events and follow-up years, not in applause. Do not remodel the cosmos because one latch moved. Local. Tissue. Invoice. Keep saying those three until the fountain slides look cheap.
+Appendix A5 writes the sickle-cell-class schematic, the delivery problem, and why “CRISPR” in a headline is not a method for helium. Here, print the sentence again. Gene fixes are local. Keep it.
+Where the popular version goes wrong.
+The slide promotes the noun and crops the receipt. Look first: ask what was measured, what still needs Earth or a body, what the checklist still leaves empty.
+Rule: Gene fixes and tools are local. A fountain is cold. Keep the invoice on the counter.
 
-Appendix A30 writes the sickle-cell-class schematic, the delivery problem, and why “CRISPR” in a headline is not a method for helium. Here, print the sentence again. Gene fixes are local. Keep it.
+## 32. The Reset That Isn’t
 
----
+Chapter 31 drew the line: a local fix is this gene, this tissue, this invoice, not a fountain. One line of research keeps getting sold as the fountain anyway, because for once the picture looks almost like one. It is worth a chapter of its own, because it is the best real candidate the popular version has, and it is still not what the slide says it is.
+Hot: cells carry a partial, recoverable record of an earlier state, and biologists can nudge some of them to read from it again. Cold: that this means aging can be reset, in a body, the way a document reverts to an earlier save.
 
-## 31. Not a Fountain
+Figure 6. A cell’s clock hand pushed back partway, then stopped by a fence. Past the fence: an unlabeled door marked “identity lost.”
+where the fence is not a mystery; it is the difference between nudging a cell’s markings younger and erasing what kind of cell it is.
+Start with the four keys and the door they open too far.
+In 2006 a Japanese lab showed that four proteins — a cocktail now taught in every stem-cell course — can take a skin cell all the way back to an embryonic-like state in a dish. That discovery, done outside a body, won a Nobel Prize and built the entire field of induced stem cells. It also came with a receipt, because good news in biology is contractually obliged to arrive with one. In 2013 a European team ran a version of the same four-protein cocktail briefly inside living mice, and tumors called teratomas grew from multiple organs — the stomach, the intestine, the pancreas, the kidney, all of them apparently keen to try something new. Full reprogramming does not know when to stop. Taken all the way, a cell does not get younger. It forgets it is a stomach cell at all, and starts building the wrong parts, with the enthusiasm of an intern given no job description.
+That is the fence. The question since 2013 has been whether the same clock can be nudged partway, and held there, without walking through the door marked identity. Two different answers have since shipped, and they are not the same trick.
+The first answer kept all four proteins and changed the rhythm instead of the recipe.
+In 2016 a lab ran the full four-protein cocktail in mice bred with a severe, accelerated-aging condition — not ordinary old age, a specific genetic defect that mimics it — but ran it in short pulses, two days on and five days off, rather than the steady pressure that grew tumors in 2013. At that cyclic dose the mice showed improved markers across several of Chapter 29’s clocks at once, and lived measurably longer: about a third longer at the midpoint of the group, about a fifth longer at the far tail. No teratomas were reported at that schedule. The lesson was not that the four proteins were ever safe. It was that a cell reads a steady four-protein signal as an order to become embryonic, and reads a brief, interrupted one differently — closer to a correction than an instruction.
+In 2020 a lab published a second answer that used three of the four proteins, not all four, and left the fourth — the one most associated with runaway growth — on the shelf. In mice, aimed at the optic nerve, the three-factor cocktail restored a younger pattern of DNA marking in retinal ganglion cells, helped injured nerve fibers regrow, and reversed vision loss in both an eye-pressure model of glaucoma and in ordinary old mice. The effect required two enzymes, TET1 and TET2, that erase old chemical marks on DNA — the marks a cell’s methylation clock actually reads. The finding was not that a cell got younger. It was that some of what the clock reads is a stored, partly recoverable record, not a one-way ledger entry, at least in this tissue, at this dose, for this outcome.
+The chapter title is not being cute. This is a reset. It is not the reset the slide sells.
+The dose that helped an eye is not a dose that has been given to an entire mouse, let alone a whole person. On 28 January 2026 the FDA cleared the first human trial of a reprogramming therapy built on exactly this recipe — three factors, without the fourth, delivered by injection into one eye, for two specific optic diseases. That is the real, current, hot fact: a human trial exists, as of this writing, for one organ, one delivery route, one narrow set of conditions, seven years after the mouse result and thirteen years after the version that grew tumors. Nobody has cleared a trial for a body. Nobody has cleared a trial for “younger.” The trial that exists is for an eye that has stopped working.
+Mara reads the trial announcement on the same downlink that carries her mail, and records her line before she has finished deciding what she thinks of it.
+“They’re testing it on people now,” she says.
+The reply is waiting for her a day later, sent, she suspects, before he had finished reading past the headline. “On an eye,” Rohan’s message says. “One eye. For a nerve that’s already dying. It’s not exactly a press release for eternal youth, is it.”
+She lets that sit for an evening before she answers it. “It could reach a knee eventually. A whole knee.”
+His answer to that has the unhurried shape of something written, deleted, and written again. “Eventually is doing a lot of work in that sentence. Thirteen years between the tumor mice and the eye mice. Seven more to a human trial for the eye alone. You want to bet on a knee inside your own paperwork, or would you rather I quoted you odds?”
+“You’re very cheerful about this,” she tells a version of him that, by the time he hears it, will have moved on to some other argument entirely.
+He has. His reply answers a comment she made two exchanges ago, the two of them permanently a little out of season with each other. “I’m delighted. A field that spent thirteen years politely not growing tumors in anyone is my idea of a rollicking success story. Ask me again in another thirteen.”
+She doesn’t answer. She logs the pH instead, which has never needed thirteen years to tell her the truth.
+Here is the invoice underneath the headline.
+Model is the first line. The 2016 lifespan numbers come from mice built with one severe genetic defect, not from ordinary old mice living out an ordinary span; a rescue of a specific broken part is not yet a demonstration that healthy aging responds the same way, at the same dose, on the same schedule. Dose is the second line. Too little reprogramming does nothing measurable. Too much erases what a cell is and grows a tumor instead of a fix — the 2013 result is not a footnote, it is the ceiling the entire field designs against. Route matters as much as dose: an injection that reaches one accessible nerve is not a systemic therapy, and nobody has shown the same three factors are safe delivered to a whole body rather than one contained organ. Timeline is not a detail: fourteen years passed between the discovery that full reprogramming works and a cleared human trial for the safest, narrowest version of it, in the one place — an eye, with its own barrier from the rest of the body — where a mistake stays local. A slide that shows the 2020 mouse photograph next to a caption about reversing human aging is skipping every one of those four lines on the invoice.
+Temperatures, applied to reprogramming.
+Hot: a cyclic, all-four-protein schedule extended lifespan in a mouse model of one severe aging-mimicking defect; a partial, three-protein version restored a younger DNA-methylation pattern and function in specific mouse tissue; a human safety trial for the three-protein approach, aimed at one organ, exists as of January 2026.
+Warm: the same approaches may extend to other organs, other kinds of damage, and ordinary aging rather than one genetic defect, over the coming decade; partial reprogramming by either route is an active, well-funded research program, not a dead end.
+Cold: whole-body reprogramming, a reprogramming pill, or reprogramming as a general reversal of aging rather than a local repair of one tissue’s readable record.
+Where the popular version goes wrong.
+The slide shows the mouse eye photograph and calls it proof that aging is reversible, full stop, coming soon. Look first: ask which factor was left out on purpose, which organ took the injection, and how many years sit between the photograph and the trial it is standing in for.
+Appendix A6 keeps the four papers, the dates, and the dose problem in more detail. Here, keep the fence: a partial nudge back, held short of the door marked identity lost, tested first in the one organ that can fail alone.
+Rule: The record is partly recoverable. The cell is not a document with an undo button.
+
+## 33. Not a Fountain
 
 A local fix is not a reset of every clock.
-
-That is the laundering this chapter exists to stop. Chapter 30 gave you a hot win. This chapter will not take the win away. It will refuse to let the win rent a halo.
-
+That is the laundering this chapter exists to stop. Chapter 31 gave you a hot win. This chapter will not take the win away. It will refuse to let the win rent a halo.
 Cold: a body-wide rewind. A thousand-year ape as a scheduled product. Helium. The rest of the house still ages while you celebrate the one door you unstuck. Cancer is not one door. The brain’s long goodbye is not one door. Atherosclerosis is a plumbing problem with a biological accent. Local is the word. Keep it.
 
-![Figure 31. The same house. Three doors still stuck: cancer, plumbing, long goodbye. One unstuck door is not a remodel.](fig31.png)
-
+Figure 7. The same house. Three doors still stuck: cancer, plumbing, long goodbye. One unstuck door is not a remodel.
 Cancer is not one door.
-
 Cancer is hundreds of careers a cell can take when the copy-edits and the brakes and the immune surveillance fail in combination. A blood lineage you can harvest and rewrite is one kind of fight. A pancreas, a lung, a glioblastoma behind a barrier that keeps trucks out, a metastasis that has already rented rooms in bone: other fights. Prevention — do not smoke, vaccinate against the viruses that set up shop, find the polyp while it is a polyp — is still the cheap, rude, hot work. Treatment has become, in some cancers, a long negotiation with targeted drugs and immune checkpoint tricks and local rewrites. Five-year survival moved for some diagnoses and barely moved for others. Curing one blood cancer in a twenty-year-old does not make her immortal. It makes her a person who will now have to die of something else, later, which is exactly the point of medicine and exactly not a fountain.
-
 A body that lasted 200 years would be a longer exposure to the same mutational weather. More copies, more chances, more careers for a rude cell. Unless you imagine a surveillance state inside every tissue that never sleeps and never errs — cold, as a scheduled product — the long ape is a cancer problem with more calendar. The mesh did not have to solve that problem. A product that claims to have solved aging without a cancer policy has not read the house.
-
 Atherosclerosis is plumbing with a biological accent.
-
 Fat, calcium, immune grudges, a lining that scars, a clot that finishes the job: the pipes of the heart and brain. Blood-pressure pills, statins, smoking cessation, a stent, a bypass — local, incremental, hot as classes of win. They moved rich-country death. They did not make arteries into a twenty-year-old’s pipes on demand. A gene that lowers an ugly lipoprotein can be a local fix for a family that inherited a disaster. It is not a rewind of seventy years of shear stress and dinner. The long ape would still have fluid dynamics. Fluid dynamics does not care that your slide is exponential.
-
 The brain’s long goodbye is not one door.
-
-Alzheimer’s, Parkinson’s, Lewy bodies, vascular scraps, frontotemporal ruin, the ordinary narrowing that is not a named disease and still steals the vote: plural. Amyloid is a character in one of the plays and not the whole theater. A drug that clears a plaque and buys a modest delay is a local, expensive, argued win — warm-to-hot as a *class of result*, not as a resurrection. A 200-year skull would need a waste-clearance policy, a vascular policy, a sleep policy, a protein-folding policy, and a theory of what a self is when the office has been restaffed. Chapter 41 is the cold version of that last sentence. Here, notice that you can fix a blood letter and still lose the names.
-
----
-
+Alzheimer’s, Parkinson’s, Lewy bodies (a different clumping protein, a different disease), vascular scraps, frontotemporal ruin (a dementia that eats personality and language before it eats memory), the ordinary narrowing that is not a named disease and still steals the vote: plural. Amyloid — one of those clumping waste proteins from Chapter 29 — is a character in one of the plays and not the whole theater. A drug that clears a plaque and buys a modest delay is a local, expensive, argued win — warm-to-hot as a class of result, not as a resurrection. Two amyloid-clearing antibodies reached the clinic on trials that measured the delay honestly: one slowed decline on the standard dementia scale by about a quarter over eighteen months, the other by roughly a third, with a share of patients on that second drug showing no measurable progression at all after a year. Those are real numbers, hard-won, worth having. They are also a quarter and a third of a decline that still continues, in a disease that is still plural, not a name struck from the list. A 200-year skull would need a waste-clearance policy, a vascular policy, a sleep policy, a protein-folding policy, and a theory of what a self is when the office has been restaffed. Chapter 45 is the cold version of that last sentence. Here, notice that you can fix a blood letter and still lose the names.
 150. 200. 1,000.
-
 Those numbers arrive on slides the way helium arrives in balloons: they look like they are already flying. Mark them.
-
 Typical human life to 150 years as a scheduled product: cold. Allowed as a wish. Not selected by present levers. We have a tail at ~122 and a mean in the eighties in the lucky kitchens. We do not have a protocol.
-
 200: colder. You have left the observed fence and entered a different animal.
-
 1,000: costume. A thousand-year ape is a science-fiction staffing problem — cancer, brain, pipes, teeth, boredom, the carrot with no off-switch, the institutions that would have to keep the insulin coming — dressed as a roadmap. This book will not print the roadmap. It will name the invoices.
-
-Modest further gains in *healthy* years this century in rich-country medicine: warm. A few more mornings, if the boring work continues and the trials stay honest and the pipes do not fail. Not a law. Not a species change. Everyone shares them: cold as a default. The zip code still votes.
-
+Modest further gains in healthy years this century in rich-country medicine: warm. A few more mornings, if the boring work continues and the trials stay honest and the pipes do not fail. Not a law. Not a species change. Everyone shares them: cold as a default. The zip code still votes.
 A note on “aging is a disease.” If the phrase gets a trial endpoint that measures walking speed and cognition and hospitalization, it can be a useful bureaucratic trick. If the phrase gets a supplement aisle and a founder who is already 150 on the slide, it is a costume. Temperatures, not vibes.
-
----
-
 She will die of something.
-
-That sentence is not cruelty. It is the block the pulse occupies. A local fix changes the *something* and the *when* and, if you are lucky, the number of Tuesdays she would vote for. It does not promote her to a different species. It does not unlock a brain she was not using. It does not pay the energy bill of a civilization that wants to multiply the last fifty years by two hundred and call the product a kitchen.
-
+That sentence is not cruelty. It is the block the pulse occupies. A local fix changes the something and the when and, if you are lucky, the number of Tuesdays she would vote for. It does not promote her to a different species. It does not unlock a brain she was not using. It does not pay the energy bill of a civilization that wants to multiply the last fifty years by two hundred and call the product a kitchen.
 The dirt still has a chemistry. The chemistry can be bullied. That was always the whole trick. The trick is already enough to grow basil under a lie of LEDs. It is not enough to purchase helium. Do not wait. Hit the airlock. Log the pH. Take the capsule if the joint is the thing it buys. Put the sermon down.
-
-There is a louder costume than the one-knob drug. It is the reset.
-
-In 2013 a lab showed that pushing adult cells hard toward an embryonic program can make them young-looking and also make them a tumor. The teratoma was not a footnote. It was the invoice. Later work tried to dose the same factors in pulses, or to leave one factor out, so the cell would forget some age marks and not forget what organ it was. A 2020 result in a mouse eye, with three factors and a careful schedule, restored a function in that tissue. That is a local win in a mouse, warm as a direction, cold as a fountain. A first human trial of a related idea, reported as underway in the middle of this decade, is a trial. A trial asks whether the dose kills you on the way in. It does not ask the universe to issue a new body.
-
-Partial reprogramming is the honest name. Partial means this tissue, this factor set, this number of days on, this number of days off. The off days are the point. Leave the program on and you are not rejuvenating a person. You are erasing a specialist. A neuron that forgets it is a neuron is not a younger you. It is a mess. The epigenetic clock can move in a dish while the mitochondria, the senescent neighbors, the stiffened vessels, and the memories stay where they were. One clock blinked. The house did not.
-
-So the reset that is sold on a slide is the same laundering as the one fuse. A real experiment can warm. The word *reset* stays cold until a person, not a cell, has more mornings they would vote for, and the other clocks have been counted, and the tumor has been looked for with the lights on.
-
-Appendix A31 writes cancer as a plural, vascular risk as a ledger, neurodegeneration as a set of overlapping messes, the reprogramming pulses, and why a mouse that lived longer is not a woman who will. Here, keep the house with three stuck doors. Chapter 30 unstuck one. That was honest. This chapter is the honesty that follows.
-
+Cancer is plural doors with different locks. Solid tumors hide behind barriers drugs do not cross for free. Blood cancers and sickle-cell-class lineages can be different sports. Vessels are arithmetic with blood: pressure, plaque, a clot that arrives on a Tuesday. Brains are overlapping messes — plaques, tangles, vessels, sleep, inflammation — without a single product SKU. Aging itself is not one lock labeled rewind. Triage and local repair stay hot because they land at addresses. A skeleton key stays cold because it has nowhere to ship. Chapter 31 opened one honest door. This chapter refuses to sell the house as unlocked. Keep naming doors. Take the master-key slide off the deck.
+Appendix A7 writes cancer as a plural, vascular risk as a ledger, neurodegeneration as a set of overlapping messes, and why a mouse that lived longer is not a woman who will. Here, keep the house with three stuck doors. Chapter 31 unstuck one. That was honest. This chapter is the honesty that follows.
+Where the popular version goes wrong.
+The slide holds up the one unstuck door and photographs it as the whole house. Look first: ask how many other doors the disease has, and whether the mouse in the photograph was ever asked to live a human Tuesday.
+Rule: A local fix is not a remodel. Cancer, plumbing, and the long goodbye are still three stuck doors.
 Part II is the other cartoon: the cupboard in the skull. The hands still age. The organ was already on duty.
+Where the popular version goes wrong.
+The slide promotes the noun and crops the receipt. Look first: ask what was measured, what still needs Earth or a body, what the checklist still leaves empty.
+Rule: Not a fountain. Modest further healthy years are warm; everyone shares them on a schedule is cold.
 
----
