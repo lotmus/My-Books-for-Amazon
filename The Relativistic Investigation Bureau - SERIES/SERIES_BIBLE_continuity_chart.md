@@ -1,7 +1,7 @@
 # Case 1047 — Private Continuity Chart
 ### (Author reference only — not for publication)
 
-Purpose: track, for every major clue, what *actually* happened (per the Ch16 resolution) vs. what was *perceived*, in which *frame*, with what *timestamp*, in what *Bureau record*, and *who knew what, when*. Built to catch contradictions like the "case duration" bug found and fixed this session (several epilogue scenes said "a year"/"eleven months" when the book's own chapter openers — "By Wednesday morning," "By Thursday morning," "Friday morning" — establish a span of days).
+Purpose: track, for every major clue, what *actually* happened (per the Ch16 resolution) vs. what was *perceived*, in which *frame*, with what *timestamp*, in what *Bureau record*, and *who knew what, when*. Built to catch contradictions like the "case duration" bug found and fixed this session (several epilogue scenes said "a year"/"eleven months" when the book's own chapter openers — "By Wednesday morning" (Ch3 and Ch4), "Friday morning" — establish a span of days).
 
 **Ground truth (established in Ch16):** There is no murder and no murderer. Death / Departure / Arrival are one event, described in three coordinate systems. The Bureau's filing system needed a PERPETRATOR value and picked whoever's worldline was nearest the misfiled coordinate (Trevor, who was in the room). The "standing corpse" Weinstein saw was a frame-boundary discontinuity his eye smoothed into a false narrative, not a real event.
 
@@ -12,10 +12,11 @@ Purpose: track, for every major clue, what *actually* happened (per the Ch16 res
 | Day | Chapter(s) | Anchor line |
 |---|---|---|
 | Tuesday | Ch1–2 | "At precisely 9:17 on a Tuesday morning..." (Ch1) |
-| Wednesday | Ch3–4 (early) | "By Wednesday morning, Derek Gent had decided..." (Ch3) |
-| Thursday | Ch4 (Munich) | "By Thursday morning, Alfred Weinstein was sitting..." (Ch4) |
+| Wednesday | Ch3–5 | Ch3 London and Ch4 Munich both open "By Wednesday morning..."; Ch5 is the same day's Barbarian detour |
+| Thursday | Ch8 | "4:18 on a wet Thursday afternoon" |
 | Friday | Ch9 (office rule scene) | "And on Friday morning, Derek's office door was open." (Ch9) |
-| (unspecified, but same week) | Ch5–8, 10–16 | No explicit day-markers; internally consistent only if kept within the same ~5–7 day window |
+| Saturday | Ch10 | "It was Saturday..." |
+| (unspecified, but same week) | Ch6–7, 11–16 | Internally consistent only if kept within the same ~5–7 day window |
 | Epilogue: "three days of nothing happened" | Epilogue | Explicit — three days after the case closes |
 | Epilogue: "three days later" (cliffhanger) | Epilogue | Explicit — three more days |
 
@@ -41,7 +42,7 @@ Five axes tracked per clue, per the ruthless distinction this mystery depends on
 | **Bureau car watching Sophie's school** | A protective surveillance detail Derek quietly asked Penny to arrange after the photograph arrived | Sophie initially reads it as sinister | Not filed anywhere — an off-the-books request from Derek to Penny | Sophie's observation from school | Wrong assumption: that the watchers are part of the anomaly rather than her own father. Corrected: Epilogue (Derek's confession) |
 | **The "other Derek" / doubled Derek** | A worldline/description artifact consistent with the block-universe reading — "two identical states, two separate histories, no contradiction in the equations" (Penny, Ch13) | Team initially treats it as a genuine duplication/danger | Not filed separately; treated as part of Case 1047 | Direct observation by Trevor/Derek/Penny, Ch11 (cucumber test) and Ch15 (Platform Seven) | Wrong assumption: that "two Dereks" requires one to be false/dangerous, rather than being two valid descriptions. Softened by Ch13, resolved in spirit by Ch16 |
 | **Tabitha's "stationary relative to what, exactly?"** | Genuine, correct physics insight — not a supernatural clue, just Tabitha being sharp | Team treats her arrival + insight as significant to the investigation | N/A | Platform Seven scene, Ch15 | No wrong assumption embedded here — a character-plant payoff, not a mystery clue |
-| **YESTERDAY train / three knocks / "the previous warning was sent too late"** | Explicitly unresolved — the book's own sequel hook | Cliffhanger, deliberately not explained in Book 1 | The warning note itself | The mysterious train/Bureau door; destination board "YESTERDAY" | Not corrected in this book by design — carries into Book 2. Penny's own gloss: "They're warning us about something that's already happened — just on the part of the curve we can't see yet" |
+| **YESTERDAY train / three knocks / "the previous warning was sent too late"** | Explicitly unresolved — the book's own sequel hook | Cliffhanger, deliberately not explained in Book 1 | The warning note itself (Coming Next, after the kettle) | The mysterious train/Bureau door; destination board "YESTERDAY" | Not corrected in this book by design — carries into Book 2. Book 1 does not treat these as already solved. Ch10's dream stamp ARRIVAL: YESTERDAY is a plant, not the sequel case. Coming Next is a *new* file, not a rewrite of Case 1047's LOCALHOST sender. |
 
 ---
 
@@ -54,5 +55,9 @@ Five axes tracked per clue, per the ruthless distinction this mystery depends on
 ## Resolved audit items (checked 2026-09-24)
 
 - **Louvre "tomorrow" date**: No contradiction. The Louvre/Paris detour (Ch6, paras ~2472-2724) has no explicit day-of-week stated for itself, so "tomorrow" is never pinned to a conflicting date. Under either plausible reading (detour on Wednesday, or on Thursday itself), "tomorrow" resolves consistently to a day later confirmed explicitly on-page: Ch8 states "a wet Thursday afternoon" (para 3410) and Ch9 opens "Friday morning" (para 3722). No fix needed.
-- **Weinstein's phone call timeline**: Not two separate discoveries needing reconciliation - it's one continuous, unbroken phone call in Ch3 (paras ~820-1009+) that covers the Munich/London clock discrepancy, the "dead and standing" vision, and the Platform Seven train revelation in a single conversation. The earlier note above (crediting the clock discrepancy to "Ch4") was an imprecision in this chart, not a manuscript bug. No fix needed.
+- **Weinstein's phone call timeline**: One call, told from London in Ch3 (Lorentz failure, alive/dead, Platform 7, child in the doorway, disagreement growing, Barbarian named). Ch4 is the same Wednesday in the Schwabing patent office; it does not retell the call. No fix needed unless a later draft splits them again.
+- **YESTERDAY sting**: Last page of the novel, after the kettle, before COURSE. Not after the acknowledgements. Coming Next is a new case file (NOT YET OCCURRED), not Case 1047 restated. The unborn sender is sequel bait for that new file; Book 1's photograph still originates at LOCALHOST.
+- **Place map (Book 1)**: London Bureau (two rooms). Weinstein: Schwabing patent office + Munich S-Bahn after Barbarian (Barbarian's house is also Munich — he is not "going back to Munich"). Louvre/Paris is where the already-arrived train dumps them instead of Munich. Ch8 is London again. Platform Seven / London Terminus is the anomalous station, not a real National Rail name. Weinstein has no door on the London corridor.
+- **Sherlock**: First named in the Ch5 REMOTE CONSULTANT NOTE. Prologue does not introduce him.
+- **Ch9 death-coordinate warning**: Paid in Ch16 when Derek almost smashes the brass clock and Penny says "Don't complete the coordinate."
 - **Absolute duration language sweep**: Full-book scan (excluding epilogue and appendix) for "year(s)/month(s)/decade(s)/week(s)" found no stray case-duration errors. Every hit is either legitimate character backstory (Sophie's age, Weinstein's decades in the field, Trevor's years of experience, the Barbarian/Weinstein history, etc. - all properly distant and unrelated to case length) or explicit "a week"/"this week"/"that week" phrasing, which matches the established ~10-14 day timeline. No fix needed.

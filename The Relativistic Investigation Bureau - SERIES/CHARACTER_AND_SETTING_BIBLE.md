@@ -26,6 +26,7 @@ Reference only — not for publication. Compiled 2026-09-24 from what's actually
 - **Smell**: [not established]
 - **Attitude**: highly intelligent, hyper-literal, anxious, genuinely brilliant at maths, thinks about one problem at a time ("excellent at mathematics and intermittently disastrous at life"). Carries himself "like a frozen Windows system before reboot" when thinking deeply.
 - **Family**: sister Tabitha ("generally considered the more dangerous of the two").
+- **Prop**: glass Klein bottle on his desk from Ch1, bought at a maths conference, unable to hold tea. Lesson 11 uses it as a non-example of holography.
 
 ### Alfred Weinstein — Einstein analog
 - **Age**: early-to-mid 50s.
@@ -41,7 +42,7 @@ Reference only — not for publication. Compiled 2026-09-24 from what's actually
 - **Smell**: [not established]
 - **Attitude**: was once **Weinstein's mathematics professor** (new this session — echoes the real, well-documented Minkowski/Einstein history where Minkowski reportedly called young Einstein a "lazy dog"). Holds the standing, frequently reconfirmed opinion that Weinstein is **"very, very smart and very, very lazy"** — grading his coursework decades ago was the first reliable evidence for both. Works in careful steps where Weinstein works in leaps, and considers this the more honest method. The existing "Three-eighths is not more precise... It's easier, Herbert" exchange (Ch7 Louvre scene) is this exact dynamic already playing out on the page.
 
-### Julius Barbarian — Barbour analog (real name: Julian Barbour, per the joke that Derek now has three Julians in his life)
+### Julius Barbarian — Barbour analog (relational/timeless physics). Do **not** name Julian Barbour as the character's "real name" in the novel. The bibliography may cite *The End of Time*. The extra Julian in Derek's life is Tuppence's.
 - **Age**: late 60s/early 70s.
 - **Looks**: slim, silver-haired, dark jacket, open-necked shirt, expensive-looking trousers with a small orange stain. Already fully described at his in-person intro (Ch5) — **no further work needed here.**
 - **Sound**: eyes "glinted" when contrarian; mouth "curved" rather than smiled outright.
@@ -56,17 +57,19 @@ Reference only — not for publication. Compiled 2026-09-24 from what's actually
 
 ### Tuppence — Sophie's mother, Derek's ex
 - **Looks/attitude**: immaculately put together, competence that reads as polish — heels for effect not comfort, opinions delivered "as though already finalised by committee." Left three years before the novel's events for a man named Julian who made a fortune manufacturing clothes hangers. Line: *"Relativistic, my arse."*
-- **Sound/smell**: [not established — she never appears on-page, only in Derek's recollection]
+- **Sound/smell**: [not established except the voicemail]
+- **On-page**: Ch1 voicemail timestamped 9:16, overlapping the murder email; school called her first; tells Derek not to turn up at the gates.
 - **Note**: if "Miranda" ever appears anywhere in the text, that's a leftover bug from an earlier draft — fix it.
 
-### Tabitha — Trevor's sister, introduced Ch15
+### Tabitha — Trevor's sister
 - **Looks**: unhurried in a way Trevor never manages, dark hair pulled back with the same practical impatience as Sophie's (a small family-resemblance echo, not a coincidence). Dressed for weather, not effect. Has a small dog, Gucci, who rides in her coat collar.
 - **Sound**: flat, dry delivery — genuinely correct physics insight ("stationary relative to what, exactly?") lands in the same tone she'd use to order a coffee.
 - **Smell**: [not established]
-- **Attitude**: the family's nerve where Trevor is the family's brain. Goes quiet in a different register than Derek/Sophie's stillness — hers is the quiet of someone who's already finished thinking and is waiting for everyone else to catch up. Romantic interest for Derek, resolved via the Open-Door Principle beat in the Epilogue.
+- **Attitude**: the family's nerve where Trevor is the family's brain. Seeded Ch1 (unanswered text) and Ch9 (phone face-down). Arrives Ch15. Romantic interest for Derek, resolved via the Open-Door Principle beat in the Epilogue.
 
 ### Sherlock — telepathic dolphin, remote Bureau consultant
 - **Looks/sound/smell**: **deliberately never physically described** — he communicates remotely/telepathically and is never directly "on camera" in a way that would call for it. This is consistent with the book's own rule about its "impossible objects" (see `SERIES_BIBLE_continuity_chart.md`): never mechanically explained, and by extension never over-described. Leave as-is.
+- **Plant**: Ch5 REMOTE CONSULTANT NOTE. Accounts files him under Miscellaneous Marine; mackerel receipts. First question in the room is "Sherlock who?"
 - **Attitude**: calm, delivers the Ch16 resolution. Wears a deerstalker in the cover art (visual-only joke, not textual).
 
 ### Mrs Marsh — building superintendent
@@ -84,7 +87,7 @@ Reference only — not for publication. Compiled 2026-09-24 from what's actually
 ## Key settings
 
 ### The Bureau office (London)
-Two rooms, second floor of an old office building. Frosted-glass door: *"DEREK GENT / RELATIVISTIC INVESTIGATION BUREAU / CAUSALITY, CHRONOLOGY & OTHER INCONVENIENCES"* plus Penny's added *"NO MURDERS BEFORE 10 A.M. WITHOUT AN APPOINTMENT."* Locked filing cabinet, a kettle that's "not necessarily where it ought to be," a window facing the street (rain, buses, traffic noise heard through it). **Smell: [not established].**
+Two rooms, second floor of an old office building. Frosted-glass door: *"DEREK GENT / RELATIVISTIC INVESTIGATION BUREAU / CAUSALITY, CHRONOLOGY & OTHER INCONVENIENCES"* plus Penny's added *"NO MURDERS BEFORE 10 A.M. WITHOUT AN APPOINTMENT."* Locked filing cabinet, a kettle that's "not necessarily where it ought to be," a window facing the street (rain, buses, traffic noise heard through it). **Smell: [not established].** Weinstein does **not** have a London office door; he works in Munich. The Open-Door Principle is a London-corridor rule.
 
 ### Julius Barbarian's house
 Already richly described: looks like it was "designed by someone who had once been told what a house was and had then decided to improve on the concept." Hallway lined with bookshelves and loose, seemingly self-distributed papers. A personal collection of ~20 clocks (pocket watches, marine chronometers, railway clocks, a grandfather clock, a sundial, an egg timer) and books spanning physics, philosophy, cosmology, and gardening. Sitting room with a large wooden table, four chairs. **Smell: [not established].**
