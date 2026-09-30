@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" font-family="'Helvetica Neue', Arial, sans-serif">
+  <rect x="0" y="0" width="1200" height="640" fill="#fcfcfb"/>
+
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" font-size="36" font-weight="700" fill="#0b0b0b">The Follower Floor</text>
+  <text x="600" y="82" text-anchor="middle" font-size="18" fill="#52514e">Followers or subscribers needed before each platform’s main monetization program is even available</text>
+
+  <!-- Baseline -->
+  <line x1="70" y1="560" x2="1130" y2="560" stroke="#c3c2b7" stroke-width="2"/>
+
+  <!-- Rumble: 0 -->
+  <rect x="108" y="558" width="100" height="2" rx="1" fill="#d6d5cf" stroke="#b3b2ac" stroke-width="1"/>
+  <text x="158" y="542" text-anchor="middle" font-size="20" font-weight="700" fill="#52514e">0</text>
+  <text x="158" y="590" text-anchor="middle" font-size="20" fill="#52514e">Rumble</text>
+  <text x="158" y="612" text-anchor="middle" font-size="14" fill="#898781">(no minimum)</text>
+
+  <!-- X: 500 -->
+  <rect x="284" y="556" width="100" height="4" rx="2" fill="#d6d5cf" stroke="#b3b2ac" stroke-width="1"/>
+  <text x="334" y="540" text-anchor="middle" font-size="20" font-weight="700" fill="#52514e">500</text>
+  <text x="334" y="590" text-anchor="middle" font-size="20" fill="#52514e">X</text>
+
+  <!-- YouTube: 1,000 (accent) -->
+  <rect x="460" y="552" width="100" height="8" rx="4" fill="#2a78d6"/>
+  <text x="510" y="536" text-anchor="middle" font-size="21" font-weight="700" fill="#0b0b0b">1,000</text>
+  <text x="510" y="590" text-anchor="middle" font-size="21" font-weight="700" fill="#2a78d6">YouTube</text>
+
+  <!-- TikTok: 10,000 -->
+  <rect x="636" y="485" width="100" height="75" rx="4" fill="#d6d5cf" stroke="#b3b2ac" stroke-width="1"/>
+  <text x="686" y="469" text-anchor="middle" font-size="20" font-weight="700" fill="#52514e">10,000</text>
+  <text x="686" y="590" text-anchor="middle" font-size="20" fill="#52514e">TikTok</text>
+
+  <!-- Facebook: 10,000 -->
+  <rect x="812" y="485" width="100" height="75" rx="4" fill="#d6d5cf" stroke="#b3b2ac" stroke-width="1"/>
+  <text x="862" y="469" text-anchor="middle" font-size="20" font-weight="700" fill="#52514e">10,000</text>
+  <text x="862" y="590" text-anchor="middle" font-size="20" fill="#52514e">Facebook</text>
+
+  <!-- Snapchat: 50,000 -->
+  <rect x="988" y="187" width="100" height="373" rx="4" fill="#d6d5cf" stroke="#b3b2ac" stroke-width="1"/>
+  <text x="1038" y="171" text-anchor="middle" font-size="20" font-weight="700" fill="#52514e">50,000</text>
+  <text x="1038" y="590" text-anchor="middle" font-size="20" fill="#52514e">Snapchat</text>
+</svg>
