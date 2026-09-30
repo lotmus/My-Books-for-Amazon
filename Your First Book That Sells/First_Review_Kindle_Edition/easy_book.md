@@ -12,6 +12,24 @@ Every dollar figure is marked. A teaching example is a made-up sum so you can pr
 
 If the manuscript does not exist yet, do chapter 15 before you buy a cover or an ad.
 
+## The keep test
+
+This book has one method. Use it before you spend money or a week.
+
+Write three lines.
+
+The keep. What does one sale leave you, in dollars, from the estimate in your KDP account? If you have no file yet, use a labeled practice number from chapter 2, and write the word “practice” next to it.
+
+The reader. The two sentences from chapter 1. Who it is for. Who it is not for.
+
+The date. The one change you will make, and the day you will look. One change. Not three.
+
+If a line is blank, you are not ready to pay for an ad, a promo, or a stack of free copies. Fill the line. The rest of this book is ways to pass that test, not ways to skip it.
+
+You will see the same three lines at the hard decisions. That is on purpose. A new tactic that does not name a keep, a reader, and a date is a hobby.
+
+{{img:keep_test.png|Three boxes: the keep, the reader, and the date. If a line is blank, do not spend.}}
+
 {{img:readers.png|An author and a diverse group of readers sharing an open book.}}
 
 # Contents
@@ -22,7 +40,7 @@ If the manuscript does not exist yet, do chapter 15 before you buy a cover or an
 4 Cover, keywords, and categories
 5 Ask for an honest review
 6 Find readers and send the copy
-7 Twenty-four ways a book can pay you
+7 Thirty-two ways a book can pay you
 8 A small ad test
 9 The next book
 10 Six calm weeks
@@ -263,9 +281,16 @@ Pick two places to invite people. Write the limit of free copies you can support
 
 Stop inviting when you hit the limit. More free copies are not free to you. They cost time you could spend on a book someone pays for.
 
-# 7 Twenty-four ways a book can pay you
+# 7 Thirty-two ways a book can pay you
 
 Pick three for this month. One should be a price. One should be the next book, even if the next book is only a sentence. One should be a format or a short extra.
+
+Run every idea you pick through the same four steps. This is the whole depth of the list. You do not need a different system for each door.
+
+Step 1. Write the keep for that product, from chapter 2 or from KDP’s estimate.
+Step 2. Do the smallest version that can teach you something. A sentence of book two counts. A finished trilogy is not required to start.
+Step 3. Pick the day you will look. Two weeks, or four. Write it down before you start.
+Step 4. On that day, keep the idea or stop it, in one sentence on the money sheet. “Held the $3.99 price.” “Stopped the free days. No second book.” Do not start the next idea until that sentence exists.
 
 Each idea below says what to do, how a sale relates to the keep, and when to skip it. The keeps are the chapter 2 examples: about $0.35 at $0.99, about $1.88 at $2.99, about $2.58 at $3.99, about $3.28 at $4.99, about $5.38 at $7.99. Your file’s estimate wins over these rounds.
 
@@ -365,6 +390,54 @@ A club, a class, a workplace book may buy several copies, paper or ebook, withou
 
 If you do not know the keep, you cannot know whether a click is a donation. Chapter 8 is the sum. Skip ads while the thumbnail fails or the first two description lines are still “a must-read for everyone.”
 
+## 25 Sell the ebook in more than one store
+
+If you are not in KDP Select, you may sell the same ebook elsewhere. That is a second door for the same file. You keep whatever that store pays, which you must read on that store’s page, not guess from the Amazon table. Skip this while you are inside a Select term. The exclusivity is the point of that term. [5]
+
+This month: pick one other store, read its royalty page, and upload only if you are not exclusive. Judge it in 90 days, not in a weekend.
+
+## 26 Write to readers who asked
+
+An email list is a way to offer book two to people who already trusted you. Ask for the address in the back of the book, as a choice, not as a toll. Tell them what the notes will contain. Skip a list you never write to. A dead list does not create a keep.
+
+This month: put one honest sentence in the back matter and one place on your own site where a person can join. Send one note when you have something true to say, such as a date you can keep.
+
+## 27 Add a hardcover only when the calculator leaves a keep
+
+Hardcover is another format, with a higher sticker and a higher print cost. The shape is the same as paperback: rate times price, minus print. Skip it on book one if the paperback proof is not even in your hands yet. A second unfinished format is not a business.
+
+This month: run one hardcover price through the calculator. If the keep is smaller than the ebook keep, do not list it yet.
+
+## 28 Publish a second edition for a real reason
+
+A corrected, updated book gives you a true reason to write to past readers. Fix errors. Add a chapter you promised. Do not shuffle sentences and call it new. Skip a “second edition” that exists only to fish for new reviews.
+
+This month: list the three fixes that would make a past reader glad they heard from you. If you cannot list three, you do not have an edition. You have a wish.
+
+## 29 Give away a short extra, not the whole book
+
+A reader magnet should be a small piece made for the purpose: a story, a checklist, a scene. It earns its place when people who take it later buy the book. Skip giving away the only book you have. That was idea 10. This one is the short piece that points at the paid book.
+
+This month: outline the short piece on one page. Do not write it until the paid book’s first two description lines are done.
+
+## 30 Open one more Amazon marketplace
+
+Amazon.com is not the only storefront. UK, Canada, Australia, and others have their own prices and their own rules. Do not copy a US price across and hope. Set the price in that market, read the keep estimate there, and link the same book. Skip opening five countries on the same day. You will not know which one was worth it.
+
+This month: pick one country where your reader actually lives, set a price, and write that country’s estimate on the sheet.
+
+## 31 Share a bundle with one other author
+
+Two authors can point at each other’s finished books, or sell a small set, if each book truly fits the same reader. No review exchange. No “I praise you if you praise me.” The money is the sale, under each store’s rules. Skip a bundle with a stranger you have not read. You are lending them your reader.
+
+This month: name one book you would honestly hand your reader. Ask that author if a simple link trade, not a review trade, is welcome. If the answer is no, stop.
+
+## 32 Revisit the backlist price once a year
+
+Once a year, look at each live book. Write the keep. Ask whether the price still matches the chapter 2 band and the reader. Move one price, or move none. Skip a monthly fidget. You will confuse yourself. Story A in this chapter is the shape: one change, one window, one sentence.
+
+This month: if you have an older book, put its current keep on the sheet. Change it only if you can say why in one line.
+
 Leave these for later. Mugs. A paid fan club. A big course with no audience. They add work. They rarely add a keep until strangers already want the book.
 
 ## Three ideas, done all the way through
@@ -383,7 +456,7 @@ Circle three of the twenty-four. Put a date on each. If one of them is “write 
 
 ## Your action
 
-Do not start a twenty-fifth idea until one of the three has either paid you something or taught you to stop.
+Do not start another idea until one of the three has either paid you something or taught you to stop. The four steps are the point. The number thirty-two is only a menu.
 
 # 8 A small ad test
 
@@ -395,7 +468,14 @@ Teaching example. You keep $1.88 on a $2.99 sale. A click costs $0.30. If one sa
 
 {{img:ad_math.png|Five lines showing that a 30 cent click can cost 3 dollars to earn a 1 dollar 88 cent royalty.}}
 
-A practical test uses Sponsored Products, the ad type that shows a book to shoppers. One campaign is enough. Cap the test at an amount you can lose, such as $20 or $60, and write the stop date before you turn it on. Use a handful of phrases your reader would type, or a handful of books they already buy. Do not paste a hundred keywords you have not read.
+A practical test uses Sponsored Products, the kind of ad that shows a book to shoppers. Button names on the ad site change. The decisions do not. You still choose a budget, an end date, a few phrases a reader would type, or a few books that reader already buys. One campaign is enough. Cap the test at an amount you can lose, such as $20 or $60, and write the stop date before you turn it on. Do not paste a hundred keywords you have not read.
+
+Here is a fourteen-day log you can copy. Teaching example. Keep about $2.58 on a $3.99 ebook. Cap $40.
+
+Day 0. Write the keep, the cap, the stop date, and five phrases. Turn the test on.
+Day 3. Look only. Do not change anything. Note money spent.
+Day 7. If almost nobody clicked, the cover or the phrases are the suspect. Change one of those, not the cap.
+Day 14. Stop at $40 even if you have not “learned enough.” Write sales, money spent, and money kept if each sale matched the $2.58 example. Then one sentence: continue, change the page, or stop.
 
 When you look, use this order.
 
@@ -490,6 +570,17 @@ Several readers name the same flaw. Believe the pattern. Fix the book or the des
 Sales happen and you still lose money. Separate the keep from the sticker. Subtract ad spend. A hundred sales at $0.35, minus a $60 ad, can be a loss. Pause the spend. Consider the $2.99 or $3.99 keep if the book is worth that price. Test the price by itself.
 
 You are about to add a second ad, a second discount, and a new cover on the same day. Do not. You will learn nothing.
+
+## How you know the fix worked
+
+Pick the number before you start the two weeks. Examples of a fair test, not targets you are owed:
+
+The thumbnail. Two people who have not seen the cover can read the title on a phone.
+The description. Two people can say who the book is for after the first two lines.
+The price. You changed only the price, and the keep on the sheet is higher or lower for a reason you can say.
+The ad. You stopped at the cap. Money kept is written next to money spent. You are allowed to stop.
+
+If you cannot say the number in advance, you will talk yourself into another spend.
 
 ## Money idea
 

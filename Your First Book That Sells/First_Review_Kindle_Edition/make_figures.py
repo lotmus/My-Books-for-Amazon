@@ -110,9 +110,27 @@ def three():
     im.save(out / "three_ways.png")
 
 
+def keep_test():
+    im, d = canvas()
+    title(d, "The keep test. Three lines, or you do not spend.")
+    rows = [
+        ("1. The keep", "Dollars left on one sale, from your KDP estimate."),
+        ("2. The reader", "Who it is for. Who it is not for."),
+        ("3. The date", "One change. The day you will judge it."),
+    ]
+    y = 200
+    for name, body in rows:
+        d.rounded_rectangle((80, y, 1520, y + 180), radius=16, outline=NAVY, width=4, fill=(255, 255, 255))
+        d.text((120, y + 30), name, fill=NAVY, font=font(40))
+        d.text((120, y + 100), body, fill=INK, font=font(32))
+        y += 210
+    im.save(out / "keep_test.png")
+
+
 if __name__ == "__main__":
     keep_chart()
     weeks()
     ad_math()
     three()
+    keep_test()
     print("figures ok")
