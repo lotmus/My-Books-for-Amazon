@@ -1,4 +1,0 @@
-[submodule "your-first-book-that-sells"]
-	path = Your First Book That Sells
-	url = https://github.com/lotmus/your-first-book-that-sells.git
-	branch = main
