@@ -265,7 +265,7 @@ Teaching example, not a rate you are owed. You invite 40 suitable people. 24 acc
 
 Make the file easy to open. Test the link yourself, including any expiry. Name the file with the title and the date. Send it to one willing person before you send it to the group.
 
-Then send three notes at most. Confirmation. The file. After publication, when reviews can be posted, the store link, plus one gentle follow-up a week or two later. Then stop. If your file was broken, fix it and extend the time. Do not “follow up” at someone who could not open the book.
+Send four notes at most. A confirmation. The file. After publication, when reviews can be posted, the store link. One gentle follow-up a week or two later. Then stop. If your file was broken, fix it and extend the time. Do not send the follow-up to someone who could not open the book.
 
 If you are in KDP Select, or about to join, read the exclusivity rules before you email the ebook. A public full-book giveaway can break those terms. Ask KDP if you are unsure. [5]
 
@@ -452,7 +452,7 @@ Story C, the capped ad. June writes “keep about $2.58” at the top of a page.
 
 ## This week
 
-Circle three of the twenty-four. Put a date on each. If one of them is “write book two,” the date can be “one sentence by Friday,” not “finished book.” Copy the shape of story A, B, or C for the idea you circled.
+Circle three of the thirty-two. Put a date on each. If one of them is “write book two,” the date can be “one sentence by Friday,” not “finished book.” Copy the shape of story A, B, or C for the idea you circled.
 
 ## Your action
 
@@ -706,7 +706,7 @@ One sentence for the form. One page of words. One page for the path. Then return
 
 # Official sources
 
-These links support the platform rules named above. The twenty-four ideas, the sample months, and the rounded keeps are teaching tools, not Amazon rules. Checked 27 September 2026. Look again before you publish.
+These links support the platform rules named above. The thirty-two ideas, the sample months, and the rounded keeps are teaching tools, not Amazon rules. Checked 27 September 2026. Look again before you publish.
 
 [1] Amazon KDP Customer Reviews
 https://kdp.amazon.com/en_US/help/topic/G202101910
