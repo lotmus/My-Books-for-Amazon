@@ -42,11 +42,11 @@ HEAD_START = (
 )
 
 FIGURES = [
-    ("Drag the velocity yourself", ROOT / "coordinates.png"),
-    ("Watch a particle trace its geodesic", ROOT / "formula.jpg"),
+    ("The picture makes this concrete. Derek chooses one place", ROOT / "coordinates.png"),
+    ("The Einstein field equation as a loop", ROOT / "formula.jpg"),
     ("Lesson 8\nThe Door", ROOT / "newDoor.png"),
     ("Lesson 11\nThe Hologram", ROOT / "Appendix_11_Holographic_Principle_REVISED.png"),
-    ("Mrs Marsh keeps a form for Pending Geometry", ROOT / "cabinet hole.png"),
+    ("The filing cabinet is an analogy", ROOT / "cabinet hole.png"),
 ]
 
 
@@ -90,9 +90,11 @@ def add_hyperlink(paragraph, url, text):
     paragraph._p.append(hyperlink)
 
 
-def is_heading(line: str, nxt: str) -> bool:
+def is_heading(line: str, nxt: str, prev: str = "") -> bool:
     if not line or line.startswith("->") or line.startswith("<-") or line.startswith("→"):
         return False
+    if re.fullmatch(r"(?:Chapter \d+|Lesson \d+|PROLOGUE)", prev):
+        return True
     if line.startswith(HEAD_START):
         return True
     if line in {
@@ -170,13 +172,14 @@ def main():
     used = set()
     i = 0
     first = True
+    prev = ""
     while i < len(lines):
         line = lines[i].rstrip()
         nxt = lines[i + 1].rstrip() if i + 1 < len(lines) else ""
         if not line:
             i += 1
             continue
-        if is_heading(line, nxt):
+        if is_heading(line, nxt, prev):
             add_heading_line(doc, line, first=first)
             first = False
             tail = "\n".join(lines[i : i + 4])
@@ -184,6 +187,7 @@ def main():
         else:
             add_body(doc, line)
             maybe_figure(doc, "\n".join(lines[max(0, i - 2) : i + 3]), used)
+        prev = line
         i += 1
 
     doc.save(OUT)

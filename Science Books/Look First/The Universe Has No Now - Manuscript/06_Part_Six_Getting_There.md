@@ -255,21 +255,7 @@ What would they eat?
 
 Not our gold. Not, if they have a choice, our water — ice is cheap in the dark. Not, casually, *us*. We are a wrong-handed, four-letter lunch, and a seeder’s crop is as likely to be poison as protein. If they eat a biosphere, they are eating a library, which is either vandalism or a sample. If they eat starlight, they are a Dyson habit: a wrap, a leak of infrared, a slope stolen from a sun. If they eat rock, they are a vent. If they eat the leftover unfairness of Chapter 10 — the fact that matter won by a billion — they are eating the same menu physics already set. A being without a metabolism, Chapter 31’s crew, does not eat. It spends joules. The joules still come from a slope, and the slope still ends as heat.
 
-Animals eat animals. That is not a scandal. It is a slope with teeth. The sermon is the next sentence: *but not their own.*
-
-The sermon is a liar about the zoo. Spiders eat suitors. Fish eat fry. Bears, when the ice fails, eat bears. Chimpanzees have done it. A praying mantis is a bad date on purpose. Cannibalism is a staffing choice, not a forbidden operator. Plenty of lineages hired it. Plenty fired it. Humans mostly fired it and then wrote a law, which is what a filter looks like when it grows a conscience.
-
-What is *wrong* with it, if you want a reason that is not a shudder?
-
-Not the calories. Meat of your own kind is chemically a cousin of any other meat. The field equation does not care whose muscle it was. The mesh is uglier and better.
-
-**Pathogens.** A parasite, a virus, a prion that learned your species has a short commute if you eat a neighbor. Kuru, in a highland people who honored the dead by a meal, was a classroom: the same brain-protein, folded wrong, coming home. Cattle fed cattle learned the same lesson in a different kitchen. Eating *across* a larger gap of kinship is not kindness. It is a worse match for the specialist that wants your exact blood. The taboo is, in part, hygiene that got a moral.
-
-**Kin.** A gene that dines on its copies is a bad accountant. Inclusive fitness is a cold word for a warm fact: the child, the sibling, the cousin you did not recognize in the dark. Even a stranger of your species is, statistically, a closer ledger than a cow.
-
-**Retaliation.** A species that can remember a face and organize a punishment makes a meal of its own a bad career. The nest in Chapter 32 already knows this at ant-scale. Apes know it with lawyers.
-
-None of that makes cannibalism a law of physics. Starvation hires it again. Ritual hired it. A second origin might hire it as casually as we hire a chicken — or might have a taboo so wide they will not eat *any* cousin chemistry, and we would look, to them, like a plague on a plate. Aliens eating *us* is not cannibalism. It is lunch across a trunk. The wrong-handed, four-letter problem still sits on the plate. The shudder still does. The shudder is not a theorem.
+Animals eat animals. That is a slope with teeth, not a scandal, and not a ban. Eating your own kind is common, and it is not a field equation. Three meshes make it expensive, and Appendix A30 files them: a parasite that already knows your flesh, a gene dining on its own copies, and a city that remembers an intruder and organizes a punishment. A nest already knows the third at ant-scale. None of that makes the shudder a theorem. A second origin might hire the meal, or might refuse every cousin chemistry and then look at us as lunch across a trunk. Aliens eating us is not cannibalism. It is a different menu, and the wrong-handed, four-letter problem still sits on the plate.
 
 Is sex how life lives forever — here, and everywhere?
 
@@ -283,19 +269,7 @@ The honest answers are warm, not helium. A shuffle breaks up the coalitions of g
 
 What would be strange, on a second trunk, is not the absence of our bedroom. It is the absence of *any* mixing in a world that also has parasites and time. Mixing is a warm bet wherever death keeps score with specialists. Our exact meiosis, our two-body habit, our idea that the child is how the parent outruns the grave: those are local costumes. The individual who does not die is the rare hire, and even then the lineage still mutates. Forever, in this book, is the wrong noun. The loaf already has all the times. Biology’s trick is not to escape the loaf. It is to put another thread on it before the first one ends.
 
-Then why does the expensive hire feel like a feast?
-
-Because the filter does not mail a pamphlet. It mails a *carrot*. A lineage that must pay two-to-make-one, search, risk, and the two-fold cost of males will not last if the staff treats the invoice as optional. Those who found the act reinforcing left more descendants. Those who found it a chore, all else equal, left fewer. Pleasure is not the cosmic point.
-
-where the point is: a copy that ships.
-
-The kitchen already knows this trick. Sugar is a bribe so you eat the ripe fruit. Salt is a bribe so you do not die of a blank soup. Orgasm is a bribe so the shuffle happens often enough that parasites and rust do not win the century. The wanting is one juice — a seeking loop that tags a cue as worth chasing. The liking is another — a completion stamp that says *do that again*. Bonding chemicals can glue two bodies into a season or a decade, which is useful if the young are expensive. None of that is a soul leaking. It is staffing. The same house also hired people who barely want the feast, or want a different menu. Asexuality is not a bug in the cosmos. It is what a lottery looks like when the carrot is optional and the culture is loud.
-
-The carrot has no off-switch labeled *this is only a picture*.
-
-A gull will sit a giant fake egg in preference to its own. A stickleback will attack a slab of red more fiercely than a rival. That is a supernormal stimulus: the cue, turned up, outbids the thing. We are a visual primate with cheap infinite images. The factory sells the cue without the invoice — no second person who can leave, no pathogen, no child, a new face every thirty seconds. The Coolidge effect is an old mammalian hire: novelty re-opens the wanting. Industry industrialized the novelty. That is the same family of mismatch as a cupboard of sugar, a slot machine, a feed that never ends. Hot as a mechanism. Not a verdict on a species, and not a proof that everyone bought a ticket. Plenty of people shrug. Plenty of people drown. Both are allowed by the same wiring.
-
-It is not a law that a second origin will invent our bedroom pictures. It is warm that any reward system can be spoofed once recording is cheap. A smell-world might bottle a plume. A vibration-world might keep a drum that never tires. A mind that eats gradients of status might hoard a leaderboard. The honest sentence is smaller than a sermon and ruder than a blush: we enjoy the feast because lineages that did not enjoy it are thinner on the ground, and we enjoy the fake because the carrot was hired for a scarce, expensive act and we built a tap.
+The expensive hire comes with a carrot, or the staff will not pay the invoice. Pleasure is staffing, not a pamphlet the universe mailed. A cue can be turned up until it outbids the costly act. That spoof is warm wherever recording is cheap. It is not a law that a second origin will invent our pictures of it. Appendix A30 keeps the reward loop with the other biological invoices. The cosmic claim stops at the shuffle.
 
 So the alien latrine, if there is one, is this: a gradient used up, dumped as warmth, as gas, as a rust, as a plume that should have eaten itself and didn’t. We already hunt that. We call it a biosignature when it is sloppy and alive, a technosignature when it is sloppy and industrial. The polite word is disequilibrium. The kitchen word is shit. Both are allowed. Neither requires a face.
 
@@ -407,9 +381,9 @@ It must dissolve the staff so they can meet. It must let them move — diffusion
 
 Titan is the nearby exhibition. Ninety-four kelvin. An air of nitrogen thicker than ours, with methane as the weather. Lakes and seas of methane and ethane, mapped by radar, photographed as dark stains on a pale world, landed in by a probe that saw rounded cobbles and a humidity of the same stuff. Cassini flew. Huygens fell. The lakes are hot as geology. A biosphere in them is not. We have not detected one. We have a world that hired a different solvent and left the recipe on the counter.
 
-The counter is slow. A chemist’s rough kitchen rule is that many reactions roughly double in haste for every ten degrees of warmth. From a sink at 300 K to a Titan lake at 94 K is not a cooler afternoon. It is a statue. Photochemistry in the high air — sunlight and Saturn’s magnetosphere shredding methane into a brown haze — can still be busy. The *lake*, left to itself, is a pot you turned off last winter. Anyone who wants life there needs a trick we did not hire: a catalyst, a surface, a chemistry that was never ours.
+The counter is slow. Reaction rates do not politely double for every ten degrees across a drop like this. They fall the way Arrhenius wrote them: exponentially, as the temperature in the denominator shrinks and the hill the molecules must climb stays tall. From a sink at 300 K to a Titan lake at 94 K is not twenty cozy steps. It is a statue. Appendix A30 names that suppression. Photochemistry in the high air — sunlight and Saturn’s magnetosphere shredding methane into a brown haze — can still be busy. The *lake*, left to itself, is a pot you turned off last winter. Anyone who wants life there needs a trick we did not hire: a catalyst, a surface, a chemistry that was never ours.
 
-The papers have names. Azotosomes: bubbles of nitrogen-rich skin, proposed as a methane-world stand-in for our lipid rooms. Acrylonitrile, the suggested brick, has been smelled in Titan’s air. Whether the bubbles would hold is a fight. Hydrogen plus acetylene as a lunch — a metabolism that would thin the air of H₂ and leave a fingerprint — is another warm page. Cassini left puzzles that were argued like a will. None of this is a zoo. None of it is a detection. Warm as permission. Cold as a neighbor you could wave to.
+The papers have names. Azotosomes: bubbles of nitrogen-rich skin, proposed as a methane-world stand-in for our lipid rooms. Acrylonitrile, the suggested brick, has been smelled in Titan’s air. The case that those skins would hold as membranes has gone against them. Cold as a cell wall. The molecule in the air is not a membrane. Hydrogen plus acetylene as a lunch — a metabolism that would thin the air of H₂ and leave a fingerprint — is another warm page. Cassini left puzzles that were argued like a will. None of this is a zoo. None of it is a detection. Warm as permission. Cold as a neighbor you could wave to.
 
 Ammonia is the other cold pot. At one atmosphere it is liquid from about 195 K to 240 K — a narrower window than water, unless you mix it or squeeze it. It is polar. It gossips. It can, on paper, dissolve a staff. Water–ammonia slush stays wet colder still, which is why the giant planets’ insides and some ice-moon stories keep a bottle of it on the shelf. The invoices are real: different acids and bases, weaker hydrogen bonds than water, a kitchen that would pickle our proteins and call it weather. Ammonia as a solvent, on a cold world, is a paper, not a zoo.
 
@@ -447,31 +421,73 @@ Appendix A30 writes Viking, the codon freeze, Titan’s 94 K lakes, caves and ve
 
 ## 31. Crews That Do Not Sleep
 
-A trip to Mars is a year of your proper time if you are lucky and the window is kind. A trip past that, at speeds we do not own, is a career for a machine, or a story biochemistry has not signed. At a hundredth of light speed, the nearest other sun is four centuries away. At a tenth, it is forty years, plus the problem of slowing down, plus a grain of dust that has become an energy rumor. Unshielded flesh in deep space collects a career-limiting dose in a handful of years. A machine can wait. Waiting is not wisdom.
+A trip to Mars is a year of your proper time if you are lucky and the window is kind. A trip to Europa is years, with a nuclear brick in the back and Jupiter’s radiation as a landlord. A trip to a large moon of a cold planet around another star is not a trip. It is a career for a civilization, or a nap that no flesh can take, or a crew that does not have a metabolism.
 
-![Figure 31. A tractor on bright dirt, working a field. The photograph is patient Earth labor; the chapter’s crew that does not sleep is still a machine that can wait.](Figures/figs/fig31.jpg)
+At a hundredth of light speed — already an aspiration that makes chemical rockets look like horses — the nearest other sun is four centuries away. At a tenth, it is forty years, plus the problem of slowing down, plus a grain of dust at that speed becoming an energy rumor. Flesh does not like forty years in a can. Flesh does not like four hundred at all. Generation ships are a story we tell to see if we mean it. Sleeping flesh is a story biochemistry has not signed.
 
-The full classroom now lives in *A Trip Is Not a New Life*, Chapter 25: travel time, dose, a control system that must not go mad in the quiet, and why a pattern engine that completes a sentence is not yet that crew. This book keeps the facts the later chapters spend.
+Machines do not sign either, but they do not starve. An autonomous crew — processors, actuators, repair arms, a body that may look like a person because the tools were built for hands, or may look like a drill because the job is ice — can wait. It can coast. It can wake for a course correction every decade. It can arrive at a moon that has not heard of Earth in a thousand years and still know how to melt a hole.
 
-A crew that does not sleep can, in principle, coast, wake for a correction, and arrive still knowing the job. That project has a failure rate. It is not the Omega Point, and it is not a destiny. Present ’AI’ is a pattern engine. A century cruise needs a control loop that still makes sense after decades of bit flips. We own the beginnings of the first. We do not yet own the second. Keep the plug in reach. Do not ask the tool to be better than a person at being a person.
+![Figure 31. A tractor working a field, with no one you can see in the seat. Patience is the picture. The crew that can wait is that patience, off the Earth, with a spare for every bit the rays flip.](Figures/figs/fig31.jpg)
 
-Chapter 32 is the box that crew would carry. Chapter 29’s melt-probe is the same kind of object on a shorter commute. The greenhouse in Chapter 25 of this book is the near ticket: a jammed door, a late radio, a potato. The century cruise is the far ticket, and it is billed in the other kitchen.
+Call it AI if you want the current trademark. Call it a robot if you want the older one. Call it an android if the hull is a courtesy to human doorways. The physics does not care about the courtesy. The physics cares about joules per bit, about error-correcting memory against cosmic rays, about a reactor that still knows its job after a century of quiet. Appendix A31 writes the dose and the two speeds. Here, keep one image: a thing that does not sleep, hanging in the dark, carrying a library, aimed at a lid of ice.
 
-Appendix A31 points there.
+The quiet is the job. Galactic cosmic rays — a drizzle of fast nuclei that no planetary magnetic mood is catching — punch bits all century. Unshielded flesh, in deep space, collects a career-limiting dose in a handful of years: tenths of a sievert a year, order of, enough to make a human worldline a bad hire for a four-century commute. The machine does not have marrow. It has parity, redundancy, a memory that expects to be wrong and keeps a spare. A grain of dust at a tenth of light is not dust. It is an energy rumor with a mass. Slowing down at the far end is a second fortune, as rude as leaving. Chemical tanks will not pay it. A brick that still knows how to be a brick after a hundred years of cold might.
+
+It wakes, if it wakes, for a star that has drifted, a gyro that has sulked, a bit that flipped and must be voted off the island. Then it sleeps again, which is a word for a low-power wait, not a dream. This crew wants a plug you can still reach from Earth for the first years, and then a set of orders dull enough that a flipped bit cannot found a religion. Chapter 29’s melt-probe is the same object on a shorter commute. Chapter 32’s library is the cargo that makes the commute worth the failure rate. Chapter 25’s greenhouse is the near ticket: a jammed door, a late radio, a potato.
+
+This is not the Omega Point. It is not destiny. It is a project with a failure rate. The machine can miss. The ice can be thicker than the melt. The sea can be sealed from rock. The sea can already be taken. The project is still the way “long travel” stops being a poster.
+
+A pattern engine that completes a sentence is not this crew. “AI” in a kitchen now finishes a phrase, folds a protein, aims a weapon, or lies with a straight face. That is already a fact. It is not a mind, and it is not a toy. “AI” on a century cruise is a control loop that must still make sense after decades of bit flips. We own the beginnings of the first. We do not yet own the second. Keep the plug in reach.
+
+Will the first eat the species that built it? Take the keys? Be better? Three different questions. The posters fuse them. Ask what the device does, in a room you can walk into. *Will it take over?* is not a question until you say what takeover is — a board vote, a power grid, a goal that keeps itself on when you try to pull the plug. *Is it better?* is not a question until you name the task. Better at chess is hot. Better at being the woman in the greenhouse is a category error with a marketing department.
+
+Two serious ideas about mind sit under the better-question, and they do not shake hands.
+
+One says a someone is a pattern in matter. Computation is physical. Nothing in the block forbids a later architecture from being a someone. Nothing in the block requires it of a chatbot. A duplicate loop, if you ever had one, would be a second person, not a hop. Chapter 40 already refused the hop.
+
+The other says a someone is not a program. A formal system cannot, from inside, certify every truth a mathematician can point at, and that incompleteness is used as a wedge: if understanding is the wedge, no stack of tokens is a mind, however fluent. A stronger version ties awareness to a collapse that gravity itself is supposed to finish. That is a minority research program. It is not helium. Appendix A40 keeps both morals of the same theorem. If the wedge is right, the century crew can still steer a melt and still not be a colleague. If it is wrong, a colleague remains a physical permission, not a press release.
+
+The same theorem faces the other way, and Chapter 6 already used that face. Incompleteness can be how a formal system talks about itself and an “I” appears: a tangle, a translation, a map that contains the mapmaker. On that reading a pattern engine that completes a phrase is a very large parrot. A someone would be a loop that stays closed. We do not own that loop in silicon. The fight is unfinished. Neither chair is a license to send a cruise without a plug.
+
+A goal that improves itself, and that we cannot switch off, is a warning rather than a theory of mind. Extra assumptions about speed and stable preferences turn the warning into a scheduled apocalypse. The Omega Point already tried to make a mind into a law of the future. The shove declined. Fraud at scale, a targeting loop that does not get tired, a design assistant for a plague, a civilization that lets the engine write procedures it then cannot read: those are hot as a class of misuse. Takeover by a new agent that treats us as the nest in Chapter 32 is an extra hypothesis. Treat it as an engineering fear for a reactor, a silo, or a century cruise. Do not treat it as a calendar.
+
+Alignment is local control on one thread. It is not a destiny. Do not ask the tool to be better than a person at being a person. Ask it to be better at the task, and to stop when the task is done. A machine can wait. Waiting is not wisdom.
+
+Chapter 32 is the box this crew would carry.
+
+Appendix A31 writes the cruise times, the dose, and the temperature of the warning.
 
 ---
 
 ## 32. A Library of Earth
 
-If you send a crew that does not sleep, send more than a flag. Iron is common. The interesting inventory is a trick of carbon and water that learned to copy, then to remember, then to write the memory down. A human genome is a novella. A biosphere is a literature. Sequence without a kitchen is a book no one left standing can cook.
+If you send a crew that does not sleep, send more than a flag.
+
+Earth’s interesting inventory is not its iron. Iron is common. The interesting inventory is a trick of carbon and water that learned to copy, then to remember, then to write the memory down. The memory, at the bottom, is sequence. You can put a surprising amount of it into a box. A mountain vault holds seeds because mountains outlast ministries. A cruise to a dark sea puts sequence into a memory that expects rays, and into printers that must themselves survive the trip. Sequence without a kitchen is a book no one left standing can cook.
+
+A human genome is a novella: a few billion letters, small once the repeats are compressed. A biosphere is a literature. The box that holds one ape, one crop, and a slogan is a vandal’s suitcase. What you want, if you are not a vandal, is the staff that can live in the available trick: rock-eaters for a vent, light-eaters for a tray, seeds that remember winter, a wet lab that can turn a recipe back into a membrane. The printers are kitchens. They are not magic. Appendix A32 writes the sizes and the protection categories.
 
 ![Figure 32. A vault door in snow, large in frame. A library is a physical object.](Figures/figs/fig32.png)
 
-Look first. Seed later. Taste the plume before you pour. If the sea is already taken, the library stays shut. If the exam was already empty, a greenhouse is a small farm, not a genesis. A nest of ants is the scale worth keeping: a city that farms and wars is impressive at its own size, and it is not a colleague. A printer that can make a cell can also make a plague. The box is as dangerous as it is precious.
+Look first. Seed later. Taste the plume. Melt a hole. Ask whether a chemistry already wants a story. If the sea is taken, the library stays shut. If the exam was already empty, opening the library is a first day of school you do not get to un-teach. Chapter 25’s greenhouse is that empty-exam case, run small, on a world close enough to argue with. A dark sea is not that world until the melt says so. You cannot know from the basil. Light-hours of delay do not carry a verdict from under the ice.
 
-The full invoice — genome size, synthesis, planetary-protection categories, directed seeding as a project rather than a detection — is *A Trip Is Not a New Life*, Chapter 26. This book keeps the rule, because Chapter 29 already hired it and Chapter 34 will spend it. A mountain outlasts a ministry. A cruise outlasts a body. Neither outlasts a mistake poured into a sea that already copies.
+Directed seeding is an old idea with Crick and Orgel’s names on one famous version: maybe someone already did this to us, or we do it next. Cold as a detection in our rocks. Warm as a project we might do, and therefore a project we can refuse. If Europa’s sea has a biosphere, our dirt is a conquistador. If it does not, the same dirt is a greenhouse. Chapter 29 already hired the rule. This chapter is the box the rule governs.
 
-Appendix A32 points there.
+Would we know, if the pour had been ours, four billion years ago? The leftover glow does not say. The rocks of the first wet days are almost gone. What we have is one code, one handedness, and a chemical path that is incomplete and not empty. A serial number in the genome has been looked for by people who wanted to find it. What they found was mostly leftover we had misread. A seeder still needed a kitchen somewhere. The first hour does not disappear because a librarian arrived for the second.
+
+Ants are the scale worth keeping.
+
+A leafcutter city farms. It wars. No worker negotiates with us. We step over, or we study, or we pour. To a crew that crossed a century, an ape city may be that nest: impressive at its own size, not a colleague. Chapter 6 used the nest as a diagram of a self. Chapter 30 spends the same scale on a visitor who files the cars and misses the mite. Here the scale is a warning about the box. Talking is not what you do with a nest. Pouring is. If the printers work and the look-first failed, the box is the pour.
+
+The printers cut the other way too. A wet lab that can make a cell can make a plague. Sterility is filters and assays, not a mood. The box is as dangerous as it is precious. A librarian who only loves the literature will pour. A librarian who only fears it will never farm a dead world whose exam is already empty. The rule splits the cases. Do not mix the folders.
+
+Logistics has a mass. The wet lab, the spare parts, the memory, the power to keep a freezer cold through a century of quiet: those are kilograms the departure still invoices. A flag is light. A literature is not. Special relativity still makes the mail late. Quantum mechanics still makes the recipe a sequence of letters, not a spark. General relativity still refuses a handle unless someone pays Chapter 33’s bill. A being printed at the far end can look like a miracle to a city that did not own the printer. It is a miracle of logistics.
+
+A library of Earth, carried well, is still Earth. The letters are ours. A second dictionary, Chapter 30’s jackpot, is what this box must not pretend to be. Pouring our dictionary into an unread sea writes a shipping label where an exam should have been. The crew that does not sleep can wait a century. It cannot wait an origin. Look first is how you refuse to spend the only data. Seed later is how you farm a room that has already been graded empty.
+
+A mountain outlasts a ministry. A cruise outlasts a body. Neither outlasts a mistake poured into a sea that already copies.
+
+Appendix A32 writes the numbers.
 
 ---
 
@@ -613,4 +629,4 @@ A signal is not a savior. It does not fix the shove. It does not open a handle. 
 
 An unidentified light in our own air is not a better savior. It is a closer residual: sometimes a pixel with no range, sometimes a radar and two eyeballs and a camera on the same leftover, and still not a sentence we can read. If a visitor were here, the visitor would still be a worldline, late or local, paying the same bills as the rest of this part. The clean search remains the one that can be missed — a dish, a spectrum, a plume, a melt. The dirty search is the one we already have, and it is not empty.
 
-Until then we have a greenhouse, a dark sea, a library, and a delay. That is enough to be getting on with. It is already a better story than a door.
+Until then we have a greenhouse, a dark sea, a library, and a delay. That is enough to be getting on with. It is already a better story than a door. Chapter 41 is where this watchmaker meets the filter and is refused a hire. The six chapters between are copies and loops. They do not reopen the signal. Chapter 41 is where this watchmaker meets the filter and is refused a hire. The six chapters between are copies and loops. They do not reopen the signal.

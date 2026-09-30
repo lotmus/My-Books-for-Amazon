@@ -19,7 +19,8 @@ TITLE = "The Universe Has No Now"
 SUBTITLE = "Time, Origins, and Whether We Can Get Somewhere Else"
 AUTHOR = "Lothar J. Musiol"
 HEADLINE_FONT = "Amazon Ember"
-HEADLINE_BLUE = RGBColor(0x00, 0x00, 0xFF)  # sampled from the author's reference swatch
+# Deep navy, still blue, and not the pure #0000FF that reads as a hyperlink.
+HEADLINE_BLUE = RGBColor(0x0C, 0x2D, 0x5A)
 BODY_FONT = "Georgia"
 
 # ---------------- figure table: number -> (kind, caption, credit-when-real) ----------------
@@ -55,7 +56,7 @@ FIG = {
  28: ("diagram", "A hatched band around a star where liquid water can last. Earth is in the band; Mars sits on the rim.", ""),
  29: ("photo", "Europa’s ice, cracks readable in gray. A windshield that heals because a sea kneads it from below.", "Credit: NASA/JPL-Caltech/SETI Institute"),
  30: ("diagram", "Two trunks: Earth’s tree of life solid, a second trunk dotted. Sample size: one.", ""),
- 31: ("photo", "A tractor on bright dirt, working a field. The photograph is patient Earth labor; the chapter’s crew that does not sleep is still a machine that can wait.", ""),
+ 31: ("photo", "A tractor working a field, with no one you can see in the seat. Patience is the picture. The crew that can wait is that patience, off the Earth, with a spare for every bit the rays flip.", ""),
  32: ("photo", "A vault door in snow. A library is a physical object.", ""),
  33: ("diagram", "Two large circles joined by a short, fat handle: here and there. A wormhole would be a handle on the block, not a subway.", ""),
  34: ("photo", "A radio dish with ground in the frame. A signal is light, and light is late.", ""),
@@ -250,7 +251,7 @@ def add_runs(par, text, bold=False, italic=False, sup=False, sub=False, size=Non
     if pos < len(text):
         _run(par, text[pos:], bold, italic, sup, sub, size)
 
-def _run(par, s, bold, italic, sup, sub, size):
+def _emit(par, s, bold, italic, sup, sub, size):
     if not s: return
     r = par.add_run(s.replace("", "*"))
     r.bold = bold or None
@@ -259,6 +260,32 @@ def _run(par, s, bold, italic, sup, sub, size):
     if sub: r.font.subscript = True
     if size: r.font.size = Pt(size)
     return r
+
+def _run(par, s, bold, italic, sup, sub, size):
+    if not s: return
+    if not XREF_ANCHORS or not XREF_RE.search(s):
+        _emit(par, s, bold, italic, sup, sub, size)
+        return
+    pos = 0
+    for m in XREF_RE.finditer(s):
+        if m.start() > pos:
+            _emit(par, s[pos:m.start()], bold, italic, sup, sub, size)
+        if m.group(2):
+            key, label = m.group(2), m.group(1) + m.group(2)
+        elif m.group(4):
+            key, label = m.group(4), m.group(3) + m.group(4)
+        elif m.group(6):
+            key, label = m.group(6), m.group(5) + m.group(6)
+        else:
+            key, label = m.group(8), m.group(8)
+        anchor = XREF_ANCHORS.get(key)
+        if anchor:
+            add_internal_link(par, label, anchor, bold=bold, size=size)
+        else:
+            _emit(par, label, bold, italic, sup, sub, size)
+        pos = m.end()
+    if pos < len(s):
+        _emit(par, s[pos:], bold, italic, sup, sub, size)
 
 def plain_text(t):
     """Heading text without markdown emphasis markers (for TOC links and bookmarks)."""
@@ -281,9 +308,15 @@ def add_internal_link(par, text, anchor, bold=False, size=None):
         b = OxmlElement("w:b"); rpr.append(b)
     if size:
         sz = OxmlElement("w:sz"); sz.set(qn("w:val"), str(int(size*2))); rpr.append(sz)
+    color = OxmlElement("w:color"); color.set(qn("w:val"), "0563C1"); rpr.append(color)
+    u = OxmlElement("w:u"); u.set(qn("w:val"), "single"); rpr.append(u)
     r.append(rpr)
     t = OxmlElement("w:t"); t.text = text; t.set(qn("xml:space"), "preserve"); r.append(t)
     h.append(r); par._p.append(h)
+
+# Filled in build() from heading bookmarks. Keys: "31", "A31".
+XREF_ANCHORS = {}
+XREF_RE = re.compile(r"(Chapter\s+)(\d+)|(\bAppendix\s+)(A\d+)|(\bCh\.\s*)(\d+)|(\b)(A\d+)(?=\b)")
 
 def page_break(doc):
     p = doc.add_paragraph(); p.add_run().add_break(WD_BREAK.PAGE)
@@ -389,8 +422,18 @@ def build():
         if b[0] == "h1": heads.append(("part", b[1]))
         elif b[0] == "h2": heads.append(("chapter", b[1]))
     anchors = {}; k = 0
+    XREF_ANCHORS.clear()
     for kind, t in heads:
-        k += 1; anchors[(kind, t)] = f"bm_{k:03d}"
+        k += 1
+        name = f"bm_{k:03d}"
+        anchors[(kind, t)] = name
+        pt = plain_text(t)
+        m = re.match(r"(\d+)\.\s", pt)
+        if m:
+            XREF_ANCHORS[m.group(1)] = name
+        m = re.match(r"(A\d+)\.", pt)
+        if m:
+            XREF_ANCHORS[m.group(1)] = name
     # title page
     titlelines = [b[1] for b in blocks if b[0] == "titleline"]
     doc.add_paragraph(TITLE, style="Title Page")

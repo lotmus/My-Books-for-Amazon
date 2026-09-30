@@ -14,7 +14,9 @@ Copyright © 2026 Lothar J. Musiol. All rights reserved.
 
 Look First, Volume 1.
 
-Photograph credits for agency and Creative Commons stills appear in the Amazon product description for this edition, not under the figures.
+Photograph credits are not printed under the figures. They are in this file, so a copy that never sees the store page still names its sources.
+
+**Photographs.** Fig 0: Islander61, Wikimedia Commons, CC BY-SA 4.0. Fig 1: Unsplash. Fig 3: NASA/SDO. Fig 4: NASA/ESA/Hubble. Fig 8: NASA/ESA/STScI. Fig 9: ESA and the Planck Collaboration, CC BY 4.0. Fig 14: NASA/ESA/Hubble Heritage Team (STScI/AURA). Fig 16: NASA/JPL-Caltech/IPAC (2MASS, T. Jarrett). Fig 17: NASA/CXC/CfA/M. Markevitch et al.; NASA/STScI; ESO WFI. Fig 18: NASA/ESA/J. Hester and A. Loll (Arizona State University). Fig 20: Event Horizon Telescope Collaboration, CC BY 4.0. Fig 24: NASA/Hubble Heritage Team (STScI/AURA). Fig 25: NASA/JPL-Caltech/MSSS. Fig 29: NASA/JPL-Caltech/SETI Institute. Fig 31: Sasu photography, Wikimedia Commons, CC BY-SA 4.0. Fig 32: Cierra Martin for Crop Trust, Wikimedia Commons, CC BY-SA 2.0. Fig 34: Corrie Barklimore, Wikimedia Commons, CC BY 2.0. Fig 41: NASA. Fig 42: Charles J. Sharp, Wikimedia Commons, CC BY-SA 3.0. Fig 45: NASA/JPL-Caltech. Diagrams are original line art for this book.
 
 ---
 
@@ -42,9 +44,9 @@ You do not need a physics degree. You need curiosity and a willingness to let �
 
 ## A Note on the Series
 
-This book is Volume 1 of *Look First*. It is a complete book. You are not being assigned homework.
+This book is Volume 1 of *Look First*. It is a complete book. The crew that can wait, and the library that crew would carry, are taught here. You are not sent to another volume to finish this argument.
 
-If you liked the greenhouse and wanted a downtown, or a fountain, that want has one later kitchen: *A Trip Is Not a New Life* — camps, the body, and the Earth you do not abandon. A trip is not a settlement. A longer life is not a new body. They are the same invoice.
+If you liked the greenhouse and wanted a downtown, or a fountain, that want has one later kitchen: *A Trip Is Not a New Life* — camps, the body, and the Earth you do not abandon. A trip is not a settlement. A longer life is not a new body. They are the same invoice. That kitchen is optional. It is not the missing half of this one.
 
 That book stands alone. It reuses a woman, three temperatures, and a habit of looking first. It does not reopen this spine. You can stop here. The leftover glow will still be late tomorrow.
 

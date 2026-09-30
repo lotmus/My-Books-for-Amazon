@@ -1,4 +1,4 @@
-112801
+111305
 docx=export\The_Universe_Has_No_Now.docx
 epub=export\The_Universe_Has_No_Now.epub
 md_images=46
@@ -9,5 +9,5 @@ fetched_photos=fig00,fig01,fig03,fig04,fig08,fig09,fig14,fig16,fig17,fig18,fig20
 photo_placeholders=[]
 missing=[]
 broken=[]
-built=['C:\\Users\\lomus\\OneDrive\\My Books for Amazon\\Science Books\\Look First\\The Universe Has No Now - Manuscript\\export\\The_Universe_Has_No_Now.docx']
+built=['C:\\Users\\lomus\\OneDrive\\My Books for Amazon\\Science Books\\Look First\\The Universe Has No Now - Manuscript\\export\\The_Universe_Has_No_Now.docx', 'C:\\Users\\lomus\\OneDrive\\My Books for Amazon\\Science Books\\Look First\\The Universe Has No Now - Manuscript\\export\\The_Universe_Has_No_Now.epub']
 cover=export\cover_typographic.jpg

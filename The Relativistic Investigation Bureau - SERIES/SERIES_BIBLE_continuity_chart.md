@@ -17,8 +17,9 @@ Purpose: track, for every major clue, what *actually* happened (per the Ch16 res
 | Friday | Ch9 (office rule scene) | "And on Friday morning, Derek's office door was open." (Ch9) |
 | Saturday | Ch10 | "It was Saturday..." |
 | (unspecified, but same week) | Ch6–7, 11–16 | Internally consistent only if kept within the same ~5–7 day window |
-| Epilogue: "three days of nothing happened" | Epilogue | Explicit — three days after the case closes |
-| Epilogue: "three days later" (cliffhanger) | Epilogue | Explicit — three more days |
+| Epilogue: "three days of nothing happened" | Epilogue | Explicit — three days after the case closes. The tea callback is the second of those days, and it says "since Tuesday," not a fortnight. |
+| Epilogue Friday, same afternoon | Epilogue | Curry, then school shoes that afternoon, then Trevor's walk home. Not "later that week" after the Friday. |
+| Epilogue: "three days later" (cliffhanger) | Epilogue | Explicit — three days after that Friday. Inside the 10–14 day window. |
 
 **Total story clock: roughly 10–14 days start to cliffhanger.** Any future draft language describing the case as "weeks," "months," or "a year" will contradict this — the fix applied this session standardized emotionally-weighted lines to "this week"/"since Tuesday" rather than removing the emotional weight.
 

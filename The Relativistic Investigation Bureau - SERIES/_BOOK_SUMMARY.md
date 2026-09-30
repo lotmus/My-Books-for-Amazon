@@ -15,7 +15,7 @@ A separate copy exists under `WORD/` (originally `D:\...\WORD`, its own independ
 ## Structure
 
 - Front matter → PROLOGUE → 16 Chapters (fiction) → EPILOGUE → Coming Next (YESTERDAY sting) → COURSE
-- APPENDIX: 16 Lessons. Forward arrows follow the **physics object**, not matching integers (Ch3→L2, Ch5→L3, Ch6→L5 … Ch16→L15; Epilogue→L16). Reverse arrows match the object (L1→Ch1, L3→Ch5, L4→Ch4, L16→Epilogue).
+- APPENDIX: 16 Lessons. Forward arrows follow the **physics object**, not matching integers (Ch3→L2, Ch5→L3, Ch6→L5 … Ch16→L15; Epilogue has a formal `-> Lesson 16` after the kettle, plus the skip-line after Coming Next). Reverse arrows match the object (L1→Ch1, L3→Ch5, L4→Ch4, L16→Epilogue).
 - Back matter: SUMMARY, Glossary, About the Author, Further Reading (start-here list), Acknowledgements, Bibliography (17 real, verified books — never fabricate citations).
 - `manuscript_text.txt` — canonical working text. Rebuild the Kindle docx from this file; do not treat the docx as a second original.
 - `kdp_description.docx` — the actual Amazon product listing copy. Keep it free of anything but the sales description itself.
@@ -89,10 +89,11 @@ What moved, not cut:
 - How to Read no longer solves the drawer. Sherlock dump left the Prologue; marine/mackerel lives at the Ch5 consultant note after "Sherlock who?"
 - Tuppence's "Relativistic, my arse" is a 9:16 voicemail overlapping the murder email. Tabitha seeded Ch1 (unanswered text) and Ch9. Klein bottle on Trevor's desk from Ch1.
 - One Munich call (Ch3). Ch4 is the same Wednesday in Schwabing, then joins the call that already happened. Barbarian named on that line.
-- Ch9 death-coordinate warning paid in Ch16: Derek almost smashes the brass clock; second hand starts past 11:03; Penny: "Don't complete the coordinate."
-- Ch15 keeps the boarding refusal and does not name the triad; Sherlock names it.
-- YESTERDAY sting is the last page of the novel, before COURSE. Film list lives on the COURSE page. Lesson 12 is a drill. Lesson arrows follow the object. Bibliography 17; Minkowski line unmixed (Perrett–Jeffery Methuen/Dover, not the Calcutta volume). Further Reading is the start-here shelf.
-- Ch1 Look Inside: email then photograph/Sophie/school/Tuppence, then Bureau rooms. How to Read, Author's Note, and the long copyright joke sit after Chapter 1. Front TOC is the novel only.
-- Apple reconstructed-trajectory teaching lives in Lesson 5. Ch13 is titled The Wrong Kind of Multiverse. Derek and Penny close Case 1047; Sherlock witnesses. Workshop sits after Lesson 2. Julius is not named as Julian Barbour. Demo and Stanford URLs are printed.
+- Ch9 keeps the death-coordinate warning and does not name the triad or call it one structure. Paid in Ch16: Derek almost smashes the brass clock; second hand starts past 11:03; Penny: "Don't complete the coordinate." Derek and Penny close the case there; Sherlock witnesses.
+- Ch15 keeps the boarding refusal and does not name the triad.
+- YESTERDAY sting is the last page of the novel, before COURSE. The film list lives on the COURSE page, and each lesson ends with that same one-line reminder. Lesson 16's film is Christian Marclay's The Clock. Lesson 12 is a drill. Lesson arrows follow the object. Bibliography 17; Minkowski line unmixed (Perrett–Jeffery Methuen/Dover, not the Calcutta volume). Further Reading is the start-here shelf.
+- Ch1 Look Inside: email then photograph/Sophie/school/Tuppence, then Bureau rooms. How to Read, Author's Note, and the long copyright joke sit after Chapter 1. Front TOC lists every novel chapter (not a collapsed 3–16 line).
+- Apple reconstructed-trajectory teaching lives in Lesson 5. Ch13 is titled The Wrong Kind of Multiverse. Derek and Penny close Case 1047; Sherlock witnesses. Workshop sits after Lesson 2. Julius is not named as Julian Barbour. Demo URL and live Stanford URLs (spacetime2.html, qanda.html) are printed. The old qframe3.html Q&A frameset is dead; do not restore it.
 - Places: Barbarian and Weinstein are both in Munich (S-Bahn, not a return from another country). The train that had already arrived takes the Bureau from London-bound-for-Munich to the Louvre. Ch8 tags the return to London. Weinstein has no London door. Coming Next is a *new* file, not a rewrite of Case 1047's LOCALHOST sender. Ch10 `ARRIVAL: YESTERDAY` is a dream plant, not Book 2 already happening.
+- `The_Murder_That_Hadnt_Happened_Yet_Additions_Packet.docx` (25 Sep 2026) is fully merged or superseded. Archived to `bak/`. Do not re-apply. Left unused on purpose: YouTube pile (book uses the demo + Norton + Stanford), HTML `toc_lesson_*` anchors (no HTML edition), Sherlock-in-Prologue (moved to Ch5), extra per-chapter glossary arrows (one object-true arrow instead), Lesson 8 Death/Departure spoiler, Ch7 Underground insert (Ch7 is the Louvre), Pound–Rebka “one percent” (1960 result was ~10%). Last leftover used: glossary line for Einstein synchronisation.
 

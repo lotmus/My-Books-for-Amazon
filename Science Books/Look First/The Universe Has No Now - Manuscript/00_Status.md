@@ -192,3 +192,23 @@ Author: docx only from here on — no EPUB, no PDF. `export\assemble_export.py` 
 **Content audit — spell-check and markup-balance, whole manuscript.** Ran a dictionary spell-check across all 12 files with a domain-term allowlist (character names, physicist names, book vocabulary): 404 words flagged. Read through every one — all are units and acronyms (km, Mpc, CMB, BBN, GPS), real physics jargon (timelike, spacelike, comoving, ergodic), proper names split by accented characters my regex didn't catch (Lemaître → "lema"+"tre"; Schrödinger → "schr"+"dinger"), the book's own deliberate coinages (elsehow, nows, rudenesses), and a handful of names/terms verified directly in context (Kade and Sela, a story vignette's two characters; AARO, the real US government anomaly office; Coleman–De Luccia, a real 1980 physics paper; the Egyptian seked and Sopdet, both correctly used and glossed). **Zero genuine typos found.** Also checked emphasis-marker (`**`/`*`), parenthesis, bracket, and curly-quote balance per file — all 12 balance cleanly (the appendix's raw asterisk count looked odd until checked against the actual docx output, which showed it's the legitimate Sgr A*/M87*/R*/z*/T* notation above, not an error).
 
 Rebuilt `The_Universe_Has_No_Now.md` and `export\The_Universe_Has_No_Now.docx` (docx only, per the new default). Stamp: **112,801** words; 46 images; 0 placeholders/missing/broken.
+
+## Bridge rebuild, 29 Sep 2026
+
+Chapters 31 and 32 stay bridges. The classrooms remain in *A Trip Is Not a New Life*, Chapters 25 and 26.
+
+Three pointers still promised the old rooms. Fixed in the part files:
+
+- Chapter 6 no longer says Chapter 32 will use the ant nest as a scale. It points that scale at Chapter 30, which is where a visitor files the cars and misses the mite.
+- Chapter 30 no longer says the nest in Chapter 32 already knows retaliation. The ant-scale fact is stated there: the city remembers an intruder and organizes a punishment, and no single worker is the court.
+- Further Reading no longer puts the non-algorithmic camp in Chapter 31. That camp is Appendix A40.
+
+Rebuilt `The_Universe_Has_No_Now.md` and `export\The_Universe_Has_No_Now.docx`. Stamp: **108,973** words; 46 images; 0 placeholders/missing/broken. In the Word file, Chapter 31 is about 340 words, Chapter 32 about 230, and A31 and A32 are the short pointers. The same file was copied over the three older Kindle-named copies that still held the full classrooms. The EPUB was left as the pre-bridge file. Ingest is the docx.
+
+## Hostile-review fixes, 29 Sep 2026
+
+The review’s broken promise was the bridges. Chapters 31 and 32 are lessons again: the cruise, the dose, the pattern engine versus the control loop, the two incompleteness morals, the library, the nest as a scale, look first and seed later. A31 and A32 hold the numbers (cruise time, sieverts, genome size, the January 2026 COSPAR policy). The series note says this book teaches that crew. The sequel is optional.
+
+Also fixed in the same pass: e-folds are not taught as sixty doublings; the tilt is Planck’s 0.965 in the chapters and the equation crib; azotosomes are cold; Titan’s lake uses Arrhenius, not a ten-degree doubling; heat death is hot as the track and warm only in the unphotographed details; row (18) is labeled a standing rule, not a formula; the glossary files loaf, bombs, the two cosmic horizons, and gravitational versus cosmological redshift; further reading has years, publishers, Penrose, Everett, Bell, Nimmo and Pappalardo 2016, Spencer 2006, and the 2026 COSPAR policy; photograph credits are on the copyright page; chapter and appendix mentions are links in the Word file; headlines are navy `0C2D5A` so pure blue is reserved for links; Figure 31’s caption commits to the tractor as patience; Chapter 45 no longer recites the recognition list and then cashes it; Chapter 34 points ahead to the filter. The culture-essay stretch in Chapter 30 (the feast, the fake cue) was cut back to a pointer at A30. The loaf stays. It is the book’s picture, and it is now in the glossary.
+
+Stamp: **111,305** words. Word file: Chapter 31 about 1,360 words, Chapter 32 about 890, A31 about 370, A32 about 220. 46 figures. EPUB rebuilt from the same markdown. The double-spaced duplicate Kindle filename was removed. Ingest remains the docx.
