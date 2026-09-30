@@ -4,7 +4,7 @@ Working series title: **Look First**
 
 Sibling, not a volume of this trilogy: *The Quantum Conversation* (phase first). Readers may notice the family method. They do not need that book to finish any of these.
 
-Do not invent a twelve-book encyclopedia. Three books. Each has one promise on the cover. Book 1 is already long. The piled questions that are *not* cosmology go later.
+Do not invent a twelve-book encyclopedia. Two books. Each has one promise on the cover. Book 1 is the cosmos. Book 2 is the invoice you cannot leave: a camp is not a city, and a longer life is not a new body.
 
 ---
 
@@ -24,7 +24,9 @@ Each later book **stands alone**. A backward point is a courtesy, not a homework
 
 ---
 
-## The three books
+## The two books
+
+**29 September 2026.** Former Volumes 2 and 3 are one manuscript, *A Trip Is Not a New Life*. The old titles (*A Trip Is Not a Settlement*, *A Longer Life Is Not a New Body*) are the two halves. Book 1’s century crew and library of Earth moved into that book as Chapters 25 and 26. The greenhouse morning stayed in Book 1 as the scale of a near ticket.
 
 ### Book 1 — locked
 
@@ -34,29 +36,18 @@ Each later book **stands alone**. A backward point is a courtesy, not a homework
 **For:** The reader who wants cosmology without swagger. The person who liked a short, sceptical physics book and is willing to let the kitchen clock come apart.  
 **Length (locked):** ~45 chapters, ~400 Kindle pages, ~127k words.
 
-### Book 2 — destinations and the Earth you do not abandon
+### Book 2 — the invoice you cannot leave
 
-**Title:** *A Trip Is Not a Settlement*  
-**Subtitle:** *The Moon, Mars, and Why Leaving Does Not Clean the Earth*  
-**Promise:** Real programs, real clocks, and the planet you do not get to save by boarding a ship.  
-**For:** The reader who wants space without posters. Someone who will finish a book about Artemis, Starship, and Earth recovery, and will not be sold a downtown on Mars as helium.
+**Title:** *A Trip Is Not a New Life*  
+**Subtitle:** *Camps, the Body, and the Earth You Do Not Abandon*  
+**Promise:** You do not get a new world by boarding, and you do not get a new body by waiting. Programs, the Earth that stays, and the hands that still age are one invoice.  
+**For:** The reader who wants the Moon, Mars, and a longer life without a downtown and without helium.  
+**Shape:** Parts I–V are the camp (the old trip book). Part VI is the far ticket, moved from Book 1 (a crew that does not sleep; a library of Earth). Parts VII–X are the body (the old longevity book).  
+**Folder:** `A Trip Is Not a New Life - Manuscript`. The old folders are absorbed sources. Edit the new one.
 
-Backup titles if the winner is taken or too wry: *The Next Cheap Path*; *Leaving Does Not Clean the Kitchen*.
+The two halves used to be separate ISBNs because a Gantt chart and a gene edit rot on different clocks. They are one book now because the refusal is the same: a poster is not a life. Years in the camp half will still need a date pass. The body’s walls date more slowly. Do not split them back apart without a new reason.
 
-### Book 3 — the body, the brain, the long fake straight line
-
-**Title:** *A Longer Life Is Not a New Body*  
-**Subtitle:** *Healthspan, the Brain You Already Use, and Why Ten Thousand Years Is Not a Straight Line*  
-**Promise:** What medicine and machines can actually do to us — healthspan, local gene fixes, a brain we already use — without a fountain, a unused-90-percent unlock, or a 10,000-year exponential.  
-**For:** The reader who wants longevity and “the future of us” without a sermon from a slide deck.
-
-Backup titles: *We Already Use the Organ*; *Ten Thousand Years Is Not a Straight Line*.
-
-### Why not two books, and why not four
-
-Folding Book 2 into Book 3 recreates the stew: NASA Gantt charts next to CRISPR next to a 10,000-year cartoon. Those are different shoppers and different stale-date problems. Book 2’s years rot; Book 3’s biological walls do not.
-
-A fourth book is not justified. SETI / leftovers-in-the-air already live in Book 1, Chapter 34. Do not split them off.
+SETI and leftovers-in-the-air stay in Book 1, Chapter 34. Do not make them a third book.
 
 ---
 
@@ -65,21 +56,22 @@ A fourth book is not justified. SETI / leftovers-in-the-air already live in Book
 | Book | Reader | What they came to buy | What they must not be sold |
 |---|---|---|---|
 | 1 | Curious adult; no physics degree required | Time, origins, whether “somewhere else” is even a legal sentence | A colony brochure; a 1,000-year lifespan; a Mars city this decade |
-| 2 | Space-curious; news-aware | How soon the Moon and Mars, and whether Earth heals if people leave | Settlement as a product; departure as cleanup; date slips as destiny or fraud |
-| 3 | Body-and-future curious | How long we live, whether the brain has a spare tank, what 10,000 years of tech could mean | Helium immortality; the 10% myth; last-50-years × 200 |
+| 2 | Space-curious or body-curious; news-aware | How soon a camp, whether Earth heals if people leave, how long a body lasts | Settlement as a product; departure as cleanup; helium immortality; the 10% myth; last-50-years × 200 |
 
 ---
 
 ## IN / OUT
 
-| Topic | Book 1 | Book 2 | Book 3 |
+The Book 2 and Book 3 columns are the two halves of *A Trip Is Not a New Life*. The split is where each topic sits inside that one book.
+
+| Topic | Book 1 | Camp half | Body half |
 |---|---|---|---|
 | No global now; block; light cones | **IN** | Out (one-sentence courtesy) | Out (one-sentence courtesy) |
 | Hot past, CMB, BBN, inventory | **IN** | Out | Out |
 | Inflation, dark sector, holes | **IN** | Out | Out |
 | Habitable-zone *permits*; ice seas | **IN** | Point back if a destination needs a wet map | Out |
 | Second origin; other solvents; sex as shuffle; reward / supernormal cue | **IN** (Ch. 30) | Out | Point back: the carrot has no off-switch |
-| Crews that do not sleep; library of Earth; look first / seed later as *physics and hygiene* | **IN** | Reuse the rule on Earth and on camps | Reuse if a “print a person” claim appears |
+| Crews that do not sleep; library of Earth | Bridge only (Ch. 31–32) | **IN** (Ch. 25–26) | Reuse if a “print a person” claim appears |
 | Handles, loops, copies, filter, endings | **IN** | Out | Cold uploads / Omega-ish forever-mind: point to Book 1 and keep **cold** |
 | Artemis, Gateway, HLS / Starship, ILRS | Mention as hardware only if a scene needs a window | **IN** | Out |
 | Moon / Mars *how soon*; sortie vs settlement | Out (Ch. 25 is a greenhouse, not a Gantt chart) | **IN** | Out |
@@ -99,9 +91,9 @@ A fourth book is not justified. SETI / leftovers-in-the-air already live in Book
 
 **Kitchen voice.** Short sentences. Analogies from ovens, drawers, pots, invoices, staff. “where X is Y” on its own line when a number has to sit still.
 
-**The greenhouse woman.** Book 1: she hits an airlock and logs pH; she is the honest picture of *near-term elsewhere*. Book 2: she is still there, or her shift-mate is; the question is whether a camp becomes a town and whether the kitchen she left behind heals. Book 3: her hands still age; a pill does not make her a different species; unused-brain talk does not water the basil.
+**The greenhouse woman.** Book 1: she hits an airlock and logs pH; she is the honest picture of *near-term elsewhere*. Book 2’s camp half: she is still there; the question is whether a camp becomes a town and whether the kitchen she left behind heals. Book 2’s body half: her hands still age; a pill does not make her a different species; unused-brain talk does not water the basil.
 
-**Look first / seed later.** Book 1: do not plague a dark sea. Book 2: do not treat Earth as already written off, and do not call a flag a biosphere. Book 3: do not overwrite a genome, or a childhood, because a slide said “enhancement.”
+**Look first / seed later.** Book 1: do not plague a dark sea. The rule’s full classroom now lives in Book 2, Chapter 26. On a camp, do not treat Earth as already written off, and do not call a flag a biosphere. On a body, do not overwrite a genome, or a childhood, because a slide said “enhancement.”
 
 **Filter, not craftsman.** Still the mesh. Settlement is not a destiny. A long life is not a purpose the cosmos owes.
 
@@ -111,13 +103,12 @@ A fourth book is not justified. SETI / leftovers-in-the-air already live in Book
 
 ## Publication order
 
-1. **Book 1** — *The Universe Has No Now*. Drafted manuscript exists. It sets the voice, the temperatures, and the woman. Do not reopen the spine.
-2. **Book 2** — *A Trip Is Not a Settlement*. First-draft manuscript exists (16 chapters + appendix). It rides current programs. Write *kinds of clocks*, not a year-as-destiny. A 2026 kitchen will need a date pass before upload; the temperatures should survive the pass.
-3. **Book 3** — *A Longer Life Is Not a New Body*. First-draft manuscript exists (16 chapters + appendix). Biology’s walls date more slowly than a landing window. Point backward to Chapter 30’s carrot and to Book 1’s filter. Do not require those pages.
+1. **Book 1** — *The Universe Has No Now*. The spine stays. Chapters 31 and 32 are bridges. The classrooms moved to Book 2.
+2. **Book 2** — *A Trip Is Not a New Life*. One manuscript, two halves, plus the far ticket. Write *kinds of clocks*, not a year-as-destiny. A 2026 kitchen will need a date pass on the camp half before upload. The body’s walls date more slowly. Point at Book 1’s carrot and filter. Do not require those pages.
 
-See `07_What_Was_Written.md` for the file map and honest counts.
+See `07_What_Was_Written.md` for the file map.
 
-Do not announce a twelve-book “universe.” Three ISBNs. Cross-links in back matter, not in the opening dare.
+Do not announce a twelve-book “universe.” Two ISBNs. Cross-links in back matter, not in the opening dare.
 
 ---
 
@@ -137,7 +128,7 @@ Cover test: a stranger can say the promise in one sentence. If they say “it’
 
 ## Length targets for later books (not locked)
 
-Book 1 is the long one on purpose. Books 2 and 3 should land shorter: roughly **22–28 main chapters** is too many; the outlines use **16–18**. Aim ~70–90k words each (~220–280 Kindle pages) unless a later pass earns more rooms the way Book 1 earned other body plans. Still Barrow-short *per idea*.
+Book 1 is the long one on purpose. Book 2 is now both later kitchens in one file: 42 chapters, about 55,000 words of reader text on the day they were joined. That is under the old 70–90k target for either half alone, and it is one book. Still Barrow-short *per idea*. A date pass on the camp half is still owed before upload.
 
 ---
 

@@ -1814,3 +1814,13 @@ Recast-not-cut. The leftover shared adverb after the voice-intro pass was `quiet
 Brillouin employed in Ch18: Schrottfinger allows the Frenchman's information-reading of negentropy (`a shape that stays a shape`) and does not take it as a loophole. Lesson 17 keeps the named lecture account.
 
 Paragraph count unchanged at 3184. Series copy is canonical; workspace KINDLE file synced.
+
+## Audit fixes (29 Sep 2026)
+
+Applied on the series Kindle file, which already had the slam-review Elm Grove mantelpiece and the Uxbridge line.
+
+- Voice, grey, and Unruh passes applied here (they had lived only in the repo copy). Beatrix's charcoal-wool sentence from the slam pass was left as written. The getaway car was already recast, so the pool-car line was not forced back.
+- Quietly / Brillouin dialogue recast applied on this same file.
+- Epilogue residence brought into line with the mantelpiece: Mrs Chain is at Twenty-Two Elm Grove, back under its own name after the Chain Terrace plates came down. Coldharrow Rise is gone from the manuscript and from the character guide.
+- Jammed speaker changes (a closing quote stuck to the next speaker) were split onto their own paragraphs where the paragraph was plain text. Paragraphs that already held a hyperlink or a picture got a space instead, so those links stayed intact.
+

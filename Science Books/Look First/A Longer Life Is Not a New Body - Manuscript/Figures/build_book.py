@@ -23,7 +23,7 @@ BOOKS = {
  "body": dict(
     SRC=r"C:\Users\lomus\OneDrive\My Books for Amazon\Science Books\Look First\A Longer Life Is Not a New Body - Manuscript",
     TITLE="A Longer Life Is Not a New Body", SUBTITLE="Healthspan, the Brain You Already Use, and Why Ten Thousand Years Is Not a Straight Line",
-    VOLUME="Look First, Volume 3.", FIGS=os.path.join(HERE, "figs_body"),
+    VOLUME="Look First, Volume 3.", FIGS=HERE,
     PHOTOS={1: "", 16: ""},
  ),
 }

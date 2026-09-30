@@ -1,5 +1,9 @@
 # What Was Written — File Map and Honest Counts
 
+**29 September 2026.** The series is two books. *A Trip Is Not a Settlement* and *A Longer Life Is Not a New Body* were merged into `A Trip Is Not a New Life - Manuscript` (42 chapters). Book 1 Chapters 31 and 32 moved there as Chapters 25 and 26; Book 1 keeps bridges under the old numbers. The greenhouse morning stayed in Book 1. The counts below this note are the 15 September stamp, before that merge.
+
+
+
 **Kitchen date:** 15 September 2026. Counts are stamps from the files on disk, not estimates. Re-run the word counts before trusting them a month later.
 
 Series root: `C:\Users\lomus\OneDrive\My Books for Amazon\Science Books\Look First\`

@@ -72,6 +72,8 @@ Loop ≠ landing ≠ return ≠ shift.
 
 A loop tests stack, guidance, and Earth entry. A landing tests the last kilometer in a vacuum well. A return tests ascent, rendezvous or direct throw, and a second entry. A shift is a roster that repeats. This century has loops, landings, and returns. It has machine shifts beginning. It has not had a human winter-over on the Moon.
 
+Mass gap, order of: Chang’e-5/6 returns ~1–2 kg; Apollo returns a few hundred kg; a night-surviving habitat is tonnes. 2024–25 truck-service class: a leak that never landed, a tip that still phoned home, a precision landing that ended on its head, a lunar-day shift that stood, a south-polar attempt that ended on its side. Hot as flown manners. Cold as a town.
+
 ---
 
 ## A6. Artemis-II-Class: Sortie, Not Town
@@ -124,6 +126,8 @@ where routine means lights, flies, is refilled, repeats on a planner’s calenda
 
 Refuel campaigns ≠ one pour. Reliability for a hull that is also a house is a funeral statistic until the rate is boring.
 
+A hundred tonnes of *useful* cargo is one large object or a season of consumables for a small camp. Most of a stack is the propellant it burns. Food for one person for a year, shipped, is on the order of a tonne of dry calories. Left-mass (spares, dirt, a second pump) fattens an outpost. It does not close the loops.
+
 Uncrewed Mars this decade because a founder named a year: **cold** as a schedule. Vehicle class changing *mass if routine*: **warm**.
 
 ---
@@ -145,6 +149,8 @@ Light-time: see (1) and A1. Crewed Mars landing in the 2030s: **warm-to-cold**. 
 **(8)**  A settlement test: if ships from Earth stop, do the babies still eat?
 
 Closed-enough loops to show: air, water, calories, spare parts, medicine, law, teaching. Headcount is not a loop. ISS and Antarctic stations fail the test on purpose and are honest outposts.
+
+Orders: ~1 kg O₂ per person-day; a few liters of water; ~0.5–1 kg dry food. Four people, a year of food: on the order of a tonne. A missed Mars window is ~26 months of whatever you cannot make. A seal you cannot replace ends the kitchen even if the calories close.
 
 ISRU is the middle noun trying to become the third. Papers exist. A city does not.
 

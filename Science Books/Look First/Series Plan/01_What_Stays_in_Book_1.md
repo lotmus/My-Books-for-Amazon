@@ -25,8 +25,8 @@ The outline already merged the neighbors that were one courtroom. Leave that wor
 | 28 | Starlight habitable *band* = permit | A real-estate ad |
 | 29 | Tidal seas; look first | A Europa flag |
 | 30 | Second origin, including **other solvents** | A zoo; a methane civilization |
-| 31 | Crews that do not sleep; travel time | A product launch for androids |
-| 32 | Library of Earth; seed later | A moral of “we must seed” |
+| 31 | A bridge. The classroom moved to *A Trip Is Not a New Life*, Chapter 25 | A product launch for androids |
+| 32 | A bridge. The classroom moved to *A Trip Is Not a New Life*, Chapter 26 | A moral of “we must seed” |
 | 33 | Handles and the bill | A subway |
 | 34 | Watchmaker + leftover in the air | A disclosure sermon |
 | 35–36 | Loops are shapes; a stack is not a hallway | A time-machine manual |

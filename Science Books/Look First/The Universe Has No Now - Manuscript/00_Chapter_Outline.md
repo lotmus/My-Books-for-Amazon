@@ -6,7 +6,7 @@ No film titles. Stories are invented scenes. String theory, if named: cannot cur
 
 **Length:** ~45 chapters, ~400 Kindle pages. Neighbors that taught the same sentence have been merged.
 
-**Series:** Volume 1 of *Look First*. Later volumes, written as their own books: *A Trip Is Not a Settlement* (the Moon, Mars, and the Earth you do not abandon); *A Longer Life Is Not a New Body* (healthspan, local gene fixes, no spare-brain unlock). Do not add those rooms here.
+**Series:** Volume 1 of *Look First*. The later volume, written as its own book: *A Trip Is Not a New Life* (camps, healthspan, and the Earth you do not abandon). Chapters 31 and 32 keep a bridge. The classrooms themselves moved there. Do not add settlement Gantt charts or fountain medicine back into this book.
 
 ---
 

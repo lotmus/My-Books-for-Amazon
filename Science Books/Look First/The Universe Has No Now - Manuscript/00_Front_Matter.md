@@ -44,9 +44,9 @@ You do not need a physics degree. You need curiosity and a willingness to let �
 
 This book is Volume 1 of *Look First*. It is a complete book. You are not being assigned homework.
 
-If you liked the greenhouse and wanted a downtown, that want has a later kitchen: *A Trip Is Not a Settlement* — the Moon, Mars, and why leaving does not clean the Earth you already staff. If you liked the carrot and wanted helium, that want has a later kitchen: *A Longer Life Is Not a New Body* — healthspan, the brain you already use, and why ten thousand years is not a straight line.
+If you liked the greenhouse and wanted a downtown, or a fountain, that want has one later kitchen: *A Trip Is Not a New Life* — camps, the body, and the Earth you do not abandon. A trip is not a settlement. A longer life is not a new body. They are the same invoice.
 
-Those books stand alone. They reuse a woman, three temperatures, and a habit of looking first. They do not reopen this spine. You can stop here. The leftover glow will still be late tomorrow.
+That book stands alone. It reuses a woman, three temperatures, and a habit of looking first. It does not reopen this spine. You can stop here. The leftover glow will still be late tomorrow.
 
 ---
 

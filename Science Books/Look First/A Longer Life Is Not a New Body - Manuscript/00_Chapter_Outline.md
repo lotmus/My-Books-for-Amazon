@@ -1,3 +1,5 @@
+> **Absorbed 29 September 2026.** This folder is a source half. The live book is `A Trip Is Not a New Life - Manuscript`. Do not extend this manuscript on its own.
+
 # A Longer Life Is Not a New Body — Headlines
 
 Each popular chapter has a matching appendix note. The main text stays readable. The appendix is the scientific detail.

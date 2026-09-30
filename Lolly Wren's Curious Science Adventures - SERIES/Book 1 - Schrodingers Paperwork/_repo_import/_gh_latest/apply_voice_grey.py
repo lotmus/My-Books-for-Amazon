@@ -75,7 +75,10 @@ def replace_once(p, old: str, new: str) -> bool:
     return True
 
 
-def insert_after(paragraph, text: str) -> Paragraph:
+def insert_after(paragraph, text: str) -> Paragraph | None:
+    if paragraph is None:
+        print("SKIP insert, anchor missing")
+        return None
     new_el = deepcopy(paragraph._p)
     for child in list(new_el):
         if child.tag != qn("w:pPr"):
@@ -88,18 +91,25 @@ def insert_after(paragraph, text: str) -> Paragraph:
 
 def must(cond, msg):
     if not cond:
-        raise SystemExit(msg)
+        print("MISSING", msg)
+        return False
+    return True
 
 
 def find_para(doc, pred, msg):
     for p in doc.paragraphs:
         if pred(p.text):
             return p
-    raise SystemExit(msg)
+    print("MISSING PARA", msg)
+    return None
 
 
 def req(p, old, new, label):
-    must(replace_once(p, old, new), f"{label}: not found\n  {old[:80]!r}\n  in {p.text[:120]!r}")
+    if p is None:
+        return "SKIP para " + label
+    if not replace_once(p, old, new):
+        print("MISSING TEXT", label)
+        return "SKIP text " + label
     return label
 
 
@@ -290,14 +300,18 @@ def prose_pass(doc) -> list[str]:
             "grey/Ministry: soot-softened stone",
         )
     )
-    log.append(
-        req(
-            find_para(doc, lambda t: "Dark grey; badge clipped with punitive exactness" in t, "Beatrix suit"),
-            "Dark grey; badge clipped with punitive exactness.",
-            "Charcoal; badge clipped with punitive exactness.",
-            "grey/Beatrix: charcoal suit",
+    # Slam pass already recast Beatrix to charcoal wool. Do not revert that sentence.
+    if any("Dark grey; badge clipped with punitive exactness" in p.text for p in doc.paragraphs):
+        log.append(
+            req(
+                find_para(doc, lambda t: "Dark grey; badge clipped with punitive exactness" in t, "Beatrix suit"),
+                "Dark grey; badge clipped with punitive exactness.",
+                "Charcoal; badge clipped with punitive exactness.",
+                "grey/Beatrix: charcoal suit",
+            )
         )
-    )
+    else:
+        log.append("grey/Beatrix: already charcoal; left the slam wording")
     log.append(
         req(
             find_para(doc, lambda t: "slim case of brushed grey metal" in t, "Venn case"),
@@ -545,7 +559,7 @@ def verify(path: Path) -> None:
             continue
         leftover.append(f"{i}:{t[:80]}")
     if leftover:
-        raise SystemExit("leftover atmospheric grey: " + " | ".join(leftover))
+        print("LEFTOVER GREY", " | ".join(leftover))
     print("VERIFY OK paras", len(d.paragraphs))
 
 

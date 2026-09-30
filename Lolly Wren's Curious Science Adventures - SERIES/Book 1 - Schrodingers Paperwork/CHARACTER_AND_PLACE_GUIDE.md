@@ -13,10 +13,10 @@ invented. Useful for cover art, illustration, ARC/marketing materials, and Book 
 ### Lolly Wren
 - **Looks:** Thin, but not zero — the one direct description comes from Priddy's POV in Ch4: "middling
   height, dark hair escaping its clip, and a pencil, never a pen, worn down to a stub behind one ear.
-  Its graphite had left a grey smudge across the pad of her thumb." Otherwise the book characterises
+  Its graphite had left a graphite smudge across the pad of her thumb." Otherwise the book characterises
   her almost entirely through action and voice — genuinely the thinnest physical description of any
   major character, which is why the cover art needed the most invention for her face specifically.
-- **Sound:** Not directly described (she's the narrating consciousness for most of the book).
+- **Sound:** When she speaks up the chain: already edited, "as if the sentence had spent a night in the green notebook first." (Ch1)
 - **Smell:** Not described.
 - **Attitude:** Ex-physicist (eleven minutes as one, then ten years in electronics, then Transit
   Reconciliation), dry, observant, self-deprecating. Thinks in bra-ket notation when frightened,
@@ -27,22 +27,21 @@ invented. Useful for cover art, illustration, ARC/marketing materials, and Book 
 ### Gideon Wigglesworth
 - **Looks:** "A big, rumpled man, built more for a workbench than an office chair, with shirtsleeves
   perpetually pushed back over forearms freckled with old solder burns." (Ch1)
-- **Sound:** Speaks in a "soft, unhurried register... as though raising his voice were one more form
-  of clumsiness he had long since trained himself out of." (Ch9)
+- **Sound:** Speaks as if volume were a thing you could trip over: "carefully, and a little behind the thought, which always arrived intact even when the cup didn’t." (Ch9)
 - **Smell:** "Hot solder and pencil shavings — a combination Lolly had come to associate with problems
   that were about to be solved rather than caused." (Ch1)
 - **Attitude:** "Exceptionally intelligent, remarkably clumsy, and almost impossible not to like...
   solving difficult problems immediately before walking into something stationary" (Cast of
   Characters). Lolly's old bench-engineer friend; quietly essential (finds the physical relay that
-  lets them cut 4C's coupling in Ch16).
+  lets them cut 4C's coupling in Ch16). In Book 2 he keeps the department's benches and remains
+  her close friend: he does the physical work, she thinks of him when he is elsewhere, and he is
+  the person she can be unfinished with.
 
 ### Dr Stephanie Fainrose
 - **Looks:** "Not tall, and not young, and had a stillness that forced other people to feel
   over-articulated. She wore a dark cardigan, narrow trousers, and spectacles that looked like a
   final administrative judgment upon the human face." (Ch5)
-- **Sound:** "Quieter than the doorway suggested it should be, precise rather than raised, each word
-  set down like an instrument she'd already calibrated. It carried the particular weariness that
-  comes of spending a career making catastrophic news sound like routine paperwork." (Ch5)
+- **Sound:** "Quieter than the doorway suggested it should be, each word set down like an instrument she'd already calibrated. It carried the particular weariness that comes of spending a career making catastrophic news sound like routine paperwork." (Ch5)
 - **Smell:** Her house: "paper, tea, solder, and intellectual impatience." Her kitchen, later:
   "scorched flux and Earl Grey — the two ingredients... from which Dr Fainrose was assembled." (Ch5-6)
 - **Attitude:** Former Ministry physicist, brilliant, blunt, exacting. "Rarely reassured." Left the
@@ -51,11 +50,10 @@ invented. Useful for cover art, illustration, ARC/marketing materials, and Book 
 
 ### Beatrix Sloan
 - **Looks:** First seen from Desk Three: "a file under one arm and the expression of someone who had
-  once been patient and had since overcome it. Dark grey; badge clipped with punitive exactness."
+  once been patient and had since overcome it. Charcoal; badge clipped with punitive exactness."
   "Narrow and upright, and moved with the same brisk economy she brought to a ledger: nothing wasted,
   nothing repeated." (Ch2)
-- **Sound:** Not separately described from her manner — dialogue carries her voice (clipped,
-  declarative, unadorned).
+- **Sound:** "The voice she used for minutes: each clause already a finding." Dialogue stays clipped, declarative, unadorned. (Ch2, Ch5)
 - **Smell:** "Faintly of ink and wet wool, a combination Lolly would learn to recognise from three
   departments away." (Ch2)
 - **Attitude:** Internal Audit. "Wields certainty the way other people wield a truncheon." Builds the
@@ -66,8 +64,7 @@ invented. Useful for cover art, illustration, ARC/marketing materials, and Book 
 - **Looks:** "Dark coat, narrow face, stack of sealed envelopes under one arm, the general air of
   someone who belonged everywhere on a provisional basis." (Ch2) No hair colour, build, or age given
   beyond Eilstein calling him "a quick young man."
-- **Sound:** "Unhurried, faintly amused, and pitched low enough that people found themselves leaning
-  in before they'd decided the sentence was worth it." (Ch2)
+- **Sound:** "Cheerful, faintly amused, and carrying slightly too much information, as if the sentence were a parcel he was pleased to have got through in one piece." (Ch2)
 - **Smell:** "Biro ink and other people's post." (Ch2)
 - **Attitude:** Interdepartmental Courier Service, Restricted/Floating Clearance ("authorised where
   things aren't settled"). Knows everyone, rather better than the personnel files admit; owes half of
@@ -96,8 +93,7 @@ invented. Useful for cover art, illustration, ARC/marketing materials, and Book 
 - **Looks:** "Compact, tweed-jacketed, and carried an umbrella he plainly considered a professional
   instrument rather than a concession to weather." Carries a black, elastic-banded notebook whose
   corners are "exactly as soft with handling" as Lolly's own. (Ch4, Ch17)
-- **Sound:** "Flat and precise, pitched for the page rather than the room, as though every sentence to
-  come was already halfway to being a statement." (Ch4)
+- **Sound:** Built for dictation, not conversation, "as though every sentence to come was already halfway to being a statement." (Ch4)
 - **Smell:** "Wet wool and boot polish, the smell of a man permanently between a rained-on beat and a
   report not yet written." (Ch4)
 - **Attitude:** CID. Investigates the impossible by entirely reasonable methods, and closes the file
@@ -108,7 +104,7 @@ invented. Useful for cover art, illustration, ARC/marketing materials, and Book 
 ### Alistair Venn
 - **Looks:** "A dark coat of almost expensive sobriety, with a narrow tie and a face that looked as
   though it had once tried charm and settled, after a risk assessment, on procedure." Carries a slim
-  case of brushed grey metal and a card badge with a silver spiral. (Ch4)
+  case of brushed metal (later teal) and a card badge with a silver spiral. (Ch4)
 - **Sound:** Polished, procedural — "the polished smile of someone whose job consisted of describing
   intolerable things as procedural necessities." (Ch3-4)
 - **Smell:** Not described ("was not damp, which only served to make the rest of him more offensive" —
@@ -170,8 +166,7 @@ the in-book identities only.)*
 - **Looks:** "A great disorganised nimbus of white hair, a moustache of magnificent indifference, a
   cardigan that had outlived several arguments, and no shoes. His face was one everyone in the room
   had seen on posters and school laboratory walls." Casts no shadow, has no reflection. (Ch11)
-- **Sound:** "Low, dry as old paper, and carried the ghost of an accent too old to belong to any
-  country still drawing its own borders." (Ch11)
+- **Sound:** Ghost of an accent too old for any country still drawing its own borders, "and a courtesy so complete it was faintly alarming." (Ch11)
 - **Smell:** "Very faintly, of spent matches and photographic developer." (Ch11)
 - **Attitude:** "The oldest consequence" — a vampire who feeds on discarded quantum branches, not
   blood ("Blood is a courier"). Excellent table manners, unsettling honesty. Genuinely alarmed by
@@ -184,15 +179,13 @@ the in-book identities only.)*
 - **Looks:** "Slight, elderly, and dressed with an exactness that had gone out of fashion so long ago
   it had returned as a moral position: a dark suit of beautiful cut, a stiff collar, a narrow grey
   tie, and gloves. He held a hat." His handshake is "quite cold" and never warms. (Ch12)
-- **Sound:** "Slow, exact, and unhurried in a way that made Lolly realise how quickly everybody else
-  had been speaking." (Ch12)
+- **Sound:** "Slow and exact," which makes Lolly realise how quickly everybody else has been speaking. (Ch12)
 - **Smell:** "Something old... beeswax, or cedar, or a wardrobe shut a very long time ago." (Ch12)
 - **Attitude:** Explains pilot-wave theory in the language of Mrs Chain's wallpaper. Patient almost to
   the point of stillness; describes his own certainty about unproven physics as "patience," not faith.
 
 ### Werner Heisenburger *(disguised Werner Heisenberg)*
-- **Looks:** "Tall, hollow-cheeked, immaculately grey, his posture that of someone who had spent
-  decades being the cleverest person in dangerous rooms. He carried nothing." (Ch13)
+- **Looks:** "Tall, hollow-cheeked, charcoal from collar to cuff, his posture that of someone who had spent decades being the cleverest person in dangerous rooms. He carried nothing." (Ch13)
 - **Sound:** "The same flat monotone he brought to every sentence, each word given exactly the same
   weight as the last, as though emphasis were a variable he had long ago set to zero." (Ch13)
 - **Smell:** Deliberately none: "He carried no scent either — no coffee, no chalk dust, nothing... his
@@ -215,7 +208,7 @@ the in-book identities only.)*
 ### Jack Bellboy *(disguised John Bell)*
 - **Looks:** "A smallish man with a red beard going white, in a jumper, with the bright unblinking
   gaze of somebody who has spent thirty years being polite to people he considers sloppy." (Ch13)
-- **Sound:** "A Belfast voice, unhurried and precise." (Ch13)
+- **Sound:** Belfast worn smooth by decades of being right in rooms that resented it. Brings a number, not an interpretation. (Ch13)
 - **Smell:** Not described (he is, notably, dead — "deceased, of Belfast, and still the most dangerous
   man in the room," per the Cast of Characters).
 - **Attitude:** Brings a number instead of an interpretation. No patience for theories in which nobody
@@ -226,7 +219,7 @@ the in-book identities only.)*
 - **Looks:** "A slight man in his seventies, entirely bald... a pleasant, unemphatic face and the
   mildest possible manner." Writes with a pencil "resharpened so many times... it was barely the
   length of a finger." (Ch14)
-- **Sound:** Speaks "so softly that Lolly found herself leaning forward." (Ch14)
+- **Sound:** Speaks without competing with the room, so that she has to come to the sentence. The size of the claim does the volume. (Ch14)
 - **Smell:** "Old paper and cold radiator dust — the kind of smell that settles into a man after
   decades spent among books." (Ch14)
 - **Attitude:** "Eleven dimensions, no experimental confirmation, and says so" (Cast of Characters).
@@ -249,7 +242,7 @@ the in-book identities only.)*
 ## Places
 
 ### The Ministry of Eventualities (Coldharrow HQ) / Regional Transit Reconciliation Annex
-"A respectable grey building in Coldharrow, between a Department of Minor Infrastructure and an
+"A respectable soot-softened stone building in Coldharrow, between a Department of Minor Infrastructure and an
 office responsible for the licensing of ceremonial ladders. Its sign was small. Its corridors were
 long. Its carpets had the peculiar brown colour adopted by institutions that have survived several
 changes of government and are now too embarrassed to ask for anything." (Prologue) Lolly's own
@@ -266,7 +259,7 @@ there long enough to consider it a personality trait." (Ch2)
 A "modest cream-coloured house with blue trim" among identical semi-detached houses with fractionally
 wrong numbers and identical stone birdbaths — "as if someone had described cheerfulness to a machine
 and accepted the first draft." (Ch3) Interior: scentlessly immaculate, "the specific scentlessness of
-a show home." (Ch3) Later, her actual final home: **Twenty-Two Coldharrow Rise**, which smells of
+a show home." (Ch3) Later, her actual final home: **Twenty-Two Elm Grove**, restored after the Ministry's Chain Terrace plates came down, which smells of
 "instant coffee and furniture polish, applied in that order and recently." (Ch17)
 
 ### The Institute for Unhelpful Clarity (Fainrose's home)

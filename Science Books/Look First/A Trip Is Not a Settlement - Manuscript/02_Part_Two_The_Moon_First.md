@@ -88,6 +88,20 @@ A flag is a photograph of a sortie that ended. A shift is a roster that repeats,
 
 She hears, on the delay, that another lander has tipped. Someone on Earth is already writing the sentence that the tipped lander means the program is a con, or the sentence that the tipped lander means the downtown is one failure closer to being inevitable. Both sentences are costumes. The tipped lander means the last kilometer is still a sport. She logs the pH. The basil does not require a flag.
 
+A ledger, so a kiss of dust has a weight.
+
+Last century: twelve people walked, stayed hours to a few days, and the last of them came home in 1972. They brought back on the order of a few hundred kilograms of rock, and a photograph the century has been trying to rent as a lease. The lease expired when they left. That is hot. It is also over.
+
+This century’s returns are smaller and ruder, which is why they are the honest inventory. Chang’e-5, 2020, a near-side sample on the order of a couple of kilograms, in a box you can drive to. Chang’e-6, 2024, a far-side sample of the same modest mass. A kilogram is a library. A habitat that keeps a person through a lunar night is tonnes: shell, power, air, water, a spare pump, the dirt you pile on the roof when the Sun throws a fit. The gap between the box and the tonnes is the whole sport. Do not let a press kit step over it.
+
+The truck service, named so it cannot hide in “commercial.”
+
+In 2024 a private lander left Earth, sprang a propellant leak, and never got the chance to negotiate the last kilometer. The same year another private lander did negotiate it, tipped, and still phoned home with a science haul from a crooked floor. Japan’s SLIM, the same season, landed with a precision the old program would have envied and then spent its career on its head, solar panel in the wrong argument with the Sun, and still worked. In 2025 a third private lander stood up and worked a lunar day like a shift. Another, aimed at the south, ended in a crater on its side. Hot, all of them, as a class: the last kilometer is now a thing companies do in public, including the failures. Cold as a town. A shift for machines is a machine that is replaced when it dies, on a calendar, with a spare already on the pad. We are at the beginning of that calendar. We are not at the babies.
+
+What a machine shift would have to show before a body is asked to log a year. A lander that can be wrong and still leave a working radio. A rover that survives the night, not as a miracle, as a second unit already designed. A sample can that comes home often enough that a missed one is a slip, not a decade. A map of the ice that a miner could stake a shift on, not a radar rumor. None of those is a school. All of them are hotter than a dome.
+
+Rohan’s gram is this paragraph. He will put the gram on a bench and tell you what it cost. He will not let you multiply the gram by a press conference until it becomes a street.
+
 Appendix A5 writes a ledger of this century’s loops, landers, and returns — successes, tip-overs, boxes in deserts — without turning any logo into a hero. Here, keep the capsule in the frame. Rock in a box is inventory. A skyline is not.
 
 ---
@@ -225,6 +239,14 @@ The existence proof is already flying, and it is not a city.
 The station in low Earth orbit has been continuously staffed for a quarter century. Cargo ships climb to it on a schedule that is a trucking company, not a miracle. Crews stay months. The mass of food, water, oxygen, spare pumps, and experiments that must arrive or the outpost becomes a problem is measured in tonnes a year, not in a vibe. Children are not born there as a people. When a toilet fails, Earth sends a part. When a politics fails, the crew still needs the part. That is an outpost with an umbilical. A lunar porch would be the same sentence with a worse well: fewer tonnes, a longer delay, a solar storm with less air in the way, a partner module that can slip a year and leave a bolt pattern waiting.
 
 Numbers, so the porch cannot become a downtown by adjective. A near-rectilinear halo is not low orbit. Going down from it and coming back up is a Δv you pay every shift, on the order of a couple of kilometers per second depending on the exact path — a real burn, not a hop. A surface tin pays a different bill: night, dust, and the leave. Neither bill is “a station,” which is a word people use when they want both bills to have been paid already. They have not.
+
+What the existence proof actually eats.
+
+A handful of people have lived above the air, continuously, since the year 2000. Call it seven, give or take a politics. They do not live on a vibe. They live on a recycle loop that still leaks, and on cargo ships that arrive with food, spare pumps, experiments, and the occasional toilet. Order of magnitude: tonnes a year for that handful, not a suitcase. Water is the item the posters forget, because the station recycles most of it and still has to be topped up when the loop sulks. Oxygen is a machine with a spare. Food is the thing you cannot yet print from a view of Earth. Cut the ships and you have months of rations, then a problem, then a wreck. That is an outpost that has already been paid for a generation. It is the most successful camp our species has ever flown. It has no children who grew up there as a people. It has no farm that would feed the next crew if the pad went quiet.
+
+A lunar porch inherits the sentence and loses the kindnesses. The well is deeper. The storm shelter is a can with less air in the way of the Sun’s tantrum. The cargo ship is not a day’s climb; it is a campaign. A partner module that slips a year does not slip a paint color. It slips a bolt pattern, a power standard, a hatch that was supposed to meet another hatch. Nandita’s version 8 is that sentence. The fight about whether you need the porch at all is allowed to last a decade. A decade of drawings is not a decade of nights survived on the dirt.
+
+Surface-first has its own tonne. A tin on the ice must carry the night — two weeks if you were foolish enough to sit on the equator, a stingy Sun if you sat on a polar ridge and still drew a shadow you cannot argue with. Power for that night is batteries you flew, a cable to a lit peak, or a reactor with a politics. Life support for a crew of four for a month is not a romance. It is on the order of a hundred kilograms of oxygen if you are only counting the breath, plus the machine, plus the water you will not want to ship twice, plus the food you cannot yet grow in a tray that has learned the dust. Four people, one month, one spare of every thing that can stick. That is already a cargo ship’s problem. It is an outpost if you can repeat it. It is a settlement only when the repeat can fail and the next generation still eats. Chapter 12 keeps that test. This chapter only refuses to let the porch skip it by being called a station.
 
 Appendix A8 writes NRHO, the porch-versus-dirt fight, and why the low-Earth station is an outpost with an umbilical, not a template for a downtown. Here, keep the two floor plans. A fight, not a law.
 

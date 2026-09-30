@@ -1,3 +1,5 @@
+> **Absorbed 29 September 2026.** This folder is a source half. The live book is `A Trip Is Not a New Life - Manuscript`. Do not extend this manuscript on its own.
+
 # Book 2 status — *A Trip Is Not a Settlement*
 
 **Kitchen date:** 16 September 2026.  
