@@ -3,9 +3,9 @@ from pathlib import Path
 from collections import Counter
 
 books = [
-    ("B1 The Universe Has No Now", Path(r"D:\My Books for Amazon\Science Books\Look First\The Universe Has No Now - Manuscript")),
-    ("B2 A Permit Is Not a City", Path(r"D:\My Books for Amazon\Science Books\Look First\A Trip Is Not a Settlement - Manuscript")),
-    ("B3 The Body Keeps Its Own Clock", Path(r"D:\My Books for Amazon\Science Books\Look First\A Longer Life Is Not a New Body - Manuscript")),
+    ("B1 The Universe Has No Now", Path(r"C:\Users\lomus\OneDrive\My Books for Amazon\Science Books\Look First\The Universe Has No Now - Manuscript")),
+    ("B2 A Trip Is Not a Settlement", Path(r"C:\Users\lomus\OneDrive\My Books for Amazon\Science Books\Look First\A Trip Is Not a Settlement - Manuscript")),
+    ("B3 A Longer Life Is Not a New Body", Path(r"C:\Users\lomus\OneDrive\My Books for Amazon\Science Books\Look First\A Longer Life Is Not a New Body - Manuscript")),
 ]
 
 

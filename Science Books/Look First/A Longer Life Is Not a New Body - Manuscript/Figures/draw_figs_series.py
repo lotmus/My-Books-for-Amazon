@@ -1,4 +1,4 @@
-# Diagrams for "A Permit Is Not a City" (figs_permit) and "The Body Keeps Its Own Clock" (figs_body).
+# Diagrams for "A Trip Is Not a Settlement" (figs_permit) and "A Longer Life Is Not a New Body" (figs_body).
 # Same Kindle spec as draw_figs.py: 1800x1350, black on white, thick lines, big type.
 import os, math, shutil
 from PIL import Image, ImageDraw

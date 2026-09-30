@@ -16,7 +16,7 @@
   - Plus two appendix-only expansions (no new chapter): a "biological age" test subsection added to A2, and a longevity-drugs subsection (metformin/rapamycin/senolytics trials) added to A5.
 - `00_Chapter_Outline.md` and `00_Figure_Plan.md` updated to match the 20-chapter state.
 - Temperatures taught in front matter / Ch 1. Forever-mind and Omega Point stay cold and out.
-- No Artemis / Starship downtown courtroom; no CMB / second-origin zoo reopened. The one pre-existing cross-series reference ("Chapter 12 of the other book," meaning *A Permit Is Not a City*'s own Chapter 12) was correctly left unrenumbered throughout both passes.
+- No Artemis / Starship downtown courtroom; no CMB / second-origin zoo reopened. The one pre-existing cross-series reference ("Chapter 12 of the other book," meaning *A Trip Is Not a Settlement*’s own Chapter 12 (earlier title *A Permit Is Not a City*)) was correctly left unrenumbered throughout both passes.
 
 ## Word count
 

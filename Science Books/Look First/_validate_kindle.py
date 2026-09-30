@@ -8,10 +8,10 @@ from docx.shared import Inches
 NS = {"w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}
 
 FILES = [
-    Path(r"D:\My Books for Amazon\Science Books\Look First\A Trip Is Not a Settlement - Manuscript\A Trip Is Not a Settlement - Kindle.docx"),
-    Path(r"D:\My Books for Amazon\Science Books\Look First\A Longer Life Is Not a New Body - Manuscript\A Longer Life Is Not a New Body - Kindle.docx"),
-    Path(r"D:\My Books for Amazon\Science Books\Look First\The Universe Has No Now - Manuscript\Figures\The Universe Has No Now - Kindle.docx"),
-    Path(r"D:\My Books for Amazon\Science Books\Look First\The Universe Has No Now - Manuscript\export\The_Universe_Has_No_Now.docx"),
+    Path(r"C:\Users\lomus\OneDrive\My Books for Amazon\Science Books\Look First\A Trip Is Not a Settlement - Manuscript\A Trip Is Not a Settlement - Kindle.docx"),
+    Path(r"C:\Users\lomus\OneDrive\My Books for Amazon\Science Books\Look First\A Longer Life Is Not a New Body - Manuscript\A Longer Life Is Not a New Body - Kindle.docx"),
+    Path(r"C:\Users\lomus\OneDrive\My Books for Amazon\Science Books\Look First\The Universe Has No Now - Manuscript\Figures\The Universe Has No Now - Kindle.docx"),
+    Path(r"C:\Users\lomus\OneDrive\My Books for Amazon\Science Books\Look First\The Universe Has No Now - Manuscript\export\The_Universe_Has_No_Now.docx"),
 ]
 
 

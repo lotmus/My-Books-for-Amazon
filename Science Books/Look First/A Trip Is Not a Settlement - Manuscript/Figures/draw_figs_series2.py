@@ -13,7 +13,7 @@ def lander(d, cx, base, w=360, h=200):
 def flag(d, x, base, h=220):
     d.line([(x, base), (x, base-h)], fill=0, width=LW2); d.line([(x, base-h), (x+120, base-h+35), (x, base-h+70), (x, base-h)], fill=0, width=LW2)
 
-# ---------------- A Permit Is Not a City ----------------
+# ---------------- A Trip Is Not a Settlement ----------------
 def p01():
     im, d = canvas()
     rect(d, (150, 200, 700, 1000)); circle(d, (425, 560), 170); d.line([(425, 560), (540, 460)], fill=0, width=LW+8)
@@ -114,7 +114,7 @@ def p16():
     text(d, (900, 200), "the bill of going is paid at home", 84)
     save(im, P, 16)
 
-# ---------------- The Body Keeps Its Own Clock ----------------
+# ---------------- A Longer Life Is Not a New Body ----------------
 def b09():
     im, d = canvas()
     x, y, step, rise = 180, 1050, 360, 200

@@ -2,7 +2,7 @@
 
 **Kitchen date:** 15 September 2026. Counts are stamps from the files on disk, not estimates. Re-run the word counts before trusting them a month later.
 
-Series root: `D:\My Books for Amazon\Science Books\Look First\`
+Series root: `C:\Users\lomus\OneDrive\My Books for Amazon\Science Books\Look First\`
 
 ---
 
@@ -11,8 +11,8 @@ Series root: `D:\My Books for Amazon\Science Books\Look First\`
 | Book | Manuscript folder | Chapters | Words (parts + appendix) | Kindle file | State |
 |---|---|---:|---:|---|---|
 | 1 | `The Universe Has No Now - Manuscript\` | 45 + Prologue | **112,690** (assembled) | `export\The_Universe_Has_No_Now.docx` (361 pp., 46 figures, rebuilt 15 Sep 2026) | Closed. Awaiting author cover check and KDP previewer pass. |
-| 2 | `A Trip Is Not a Settlement - Manuscript\` | 16 | **17,884** (16,240 main + 1,721 appendix, 1,155 front) | `A Permit Is Not a City - Kindle.docx` (built 13 Sep 2026, 16 figures) | First draft, outline-thin. |
-| 3 | `A Longer Life Is Not a New Body - Manuscript\` | 16 | **18,152** (16,717 main + 1,513 appendix, 1,891 front) | `The Body Keeps Its Own Clock - Kindle.docx` (built 13 Sep 2026, 14 figures + 2 placeholders) | First draft, outline-thin. |
+| 2 | `A Trip Is Not a Settlement - Manuscript\` | 16 | **17,884** (16,240 main + 1,721 appendix, 1,155 front) | `A Trip Is Not a Settlement - Kindle.docx` (built 13 Sep 2026, 16 figures) | First draft, outline-thin. |
+| 3 | `A Longer Life Is Not a New Body - Manuscript\` | 16 | **18,152** (16,717 main + 1,513 appendix, 1,891 front) | `A Longer Life Is Not a New Body - Kindle.docx` (built 13 Sep 2026, 14 figures + 2 placeholders) | First draft, outline-thin. |
 
 The bible's length target for Books 2 and 3 is ~70–90k words each. Both drafts sit at roughly one quarter of that. Book 1 was in the same state (44,172 words) before its lengthening pass took every thin chapter to ~1,800–2,200 words of body. The same pass is what Books 2 and 3 owe. Chapters are ~500–1,500 words each now; a teaching chapter in this series runs ~2,000.
 
