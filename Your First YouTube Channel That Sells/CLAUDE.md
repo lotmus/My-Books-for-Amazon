@@ -15,6 +15,13 @@ touching, say so and wait to be asked — don't go do it.
 
 Before editing, read the **Current state** section at the top of `_STATUS.md`.
 If an older paragraph in that file disagrees with it, Current state wins.
+That includes any memory that pull request 36 is still open or that this
+book has only the first three chapters.
+
+**Git, with other agents in this checkout.** Stage and commit only files
+inside this folder. Do not `git add` the parent tree. Other books have
+their own uncommitted work. Do not force-push `main`. Do not merge
+`claude/youtube-book-create-chapter` again; pull request 36 is already merged.
 
 ## Project facts
 
