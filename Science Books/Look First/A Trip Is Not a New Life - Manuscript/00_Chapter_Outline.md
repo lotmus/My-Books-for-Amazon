@@ -1,10 +1,10 @@
 # A Trip Is Not a New Life — Headlines
 
-Each popular chapter has a matching appendix note where a note exists. Chapters 17—24 are taught in the main text and do not yet have twin notes.
+Each popular chapter has a matching appendix note. A1 through A26 twin the camp, the classroom, and the long ticket. The body notes begin at A27 and twin the chapter with the same number.
 
 No film titles. Stories are invented scenes. String theory, if named: cannot currently be tested.
 
-**Length:** 42 chapters. Two former books, one invoice. Neighbors that taught the same sentence were already merged inside each half. This pass did not merge them again.
+**Length:** 46 chapters. Two former books, one invoice. Neighbors that taught the same sentence were already merged inside each half. This pass did not merge them again.
 
 **Series:** Volume 2 of *Look First*. Stands alone. Volume 1: *The Universe Has No Now* (time, origins, elsewhere as a permit). Folder on disk: `A Trip Is Not a New Life - Manuscript`.
 
@@ -62,14 +62,14 @@ Former display titles, absorbed 29 September 2026: *A Trip Is Not a Settlement*;
 
 | Ch | Popular | Appendix |
 |---:|---|---|
-| 17 | **A Suit Is a Spacecraft** | *(in the chapter)* |
-| 18 | **Two Weeks of Night** | *(in the chapter)* |
-| 19 | **The Ice Has to Pay for Itself** | *(in the chapter)* |
-| 20 | **Dust Is Not Dirt** | *(in the chapter)* |
-| 21 | **The Dose** | *(in the chapter)* |
-| 22 | **Abort Is a Path** | *(in the chapter)* |
-| 23 | **Nobody Owns the Crater** | *(in the chapter)* |
-| 24 | **What a Program Costs** | *(in the chapter)* |
+| 17 | **A Suit Is a Spacecraft** | **A17** |
+| 18 | **Two Weeks of Night** | **A18** |
+| 19 | **The Ice Has to Pay for Itself** | **A19** |
+| 20 | **Dust Is Not Dirt** | **A20** |
+| 21 | **The Dose** | **A21** |
+| 22 | **Abort Is a Path** | **A22** |
+| 23 | **Nobody Owns the Crater** | **A23** |
+| 24 | **What a Program Costs** | **A24** |
 
 ## Part VI — The Long Ticket
 
@@ -80,47 +80,51 @@ Moved here from *The Universe Has No Now*, Chapters 31 and 32. Book 1 keeps a sh
 | 25 | **Crews That Do Not Sleep** | **A25** |
 | 26 | **A Library of Earth** | **A26** |
 
-## Part VII — Many Clocks
+## Part VII — Local Fixes, Not Fountains
 
-| Ch | Popular | Was | Appendix |
-|---:|---|---:|---|
-| 27 | **Her Hands Still Age** | 1 | **A27** |
-| 28 | **Lifespan Is Not Healthspan** | 2 | **A28** |
-| 29 | **Many Clocks, Not One Fuse** | 3 | **A29** |
-| 30 | **Local Fixes** | 4 | **A30** |
-| 31 | **Not a Fountain** | 5 | **A31** |
+| Ch | Popular | Appendix |
+|---:|---|---|
+| 27 | **Her Hands Still Age** | **A27** |
+| 28 | **Lifespan Is Not Healthspan** | **A28** |
+| 29 | **Many Clocks, Not One Fuse** | **A29** |
+| 30 | **Every Clock Has a Cousin** | **A30** |
+| 31 | **Local Fixes** | **A31** |
+| 32 | **The Reset That Isn’t** | **A32** |
+| 33 | **Not a Fountain** | **A33** |
 
 ## Part VIII — The Organ You Already Use
 
-| Ch | Popular | Was | Appendix |
-|---:|---|---:|---|
-| 32 | **We Already Use the Organ** | 6 | **A32** |
-| 33 | **Cognitive Enhancement, Two Temperatures** | 7 | **A33** |
-| 34 | **The Carrot Has No Off-Switch** | 8 | **A34** |
+| Ch | Popular | Appendix |
+|---:|---|---|
+| 34 | **We Already Use the Organ** | **A34** |
+| 35 | **Cognitive Enhancement, Two Temperatures** | **A35** |
+| 36 | **The Carrot Has No Off-Switch** | **A36** |
 
 ## Part IX — Not a Straight Line
 
-| Ch | Popular | Was | Appendix |
-|---:|---|---:|---|
-| 35 | **The Last Fifty Years Were Not a Straight Line** | 9 | **A35** |
-| 36 | **S-Curves and Invoices** | 10 | **A36** |
-| 37 | **Ten Thousand Years Is Not —200** | 11 | **A37** |
-| 38 | **Coordination, Wars, Institutions** | 12 | **A38** |
+| Ch | Popular | Appendix |
+|---:|---|---|
+| 37 | **The Last Fifty Years Were Not a Straight Line** | **A37** |
+| 38 | **S-Curves and Invoices** | **A38** |
+| 39 | **Ten Thousand Years Is Not ×200** | **A39** |
+| 40 | **A Fast Trip Is Not a Long Life** | **A40** |
+| 41 | **A Long Sleep Is Not a Long Life** | **A41** |
+| 42 | **Coordination, Wars, Institutions** | **A42** |
 
 ## Part X — The Honest Body
 
-| Ch | Popular | Was | Appendix |
-|---:|---|---:|---|
-| 39 | **Medicine’s Invoices** | 13 | **A39** |
-| 40 | **Adjusting Is Not Spare Capacity** | 14 | **A40** |
-| 41 | **Copies, Uploads, and Cold Immortality** | 15 | **A41** |
-| 42 | **The Honest Body** | 16 | **A42** |
+| Ch | Popular | Appendix |
+|---:|---|---|
+| 43 | **Medicine’s Invoices** | **A43** |
+| 44 | **Adjusting Is Not Spare Capacity** | **A44** |
+| 45 | **Copies, Uploads, and Cold Immortality** | **A45** |
+| 46 | **The Honest Body** | **A46** |
 
 ---
 
 ## What stayed in Book 1
 
-The greenhouse morning (Book 1, Chapter 25), the exoplanet census, habitable-zone permits, ice oceans, and the second-origin courtroom stay there. They are the cosmology book’s question: whether ’somewhere else’ is even a legal sentence. Proper time as the death of a shared now stays there too. This book spends proper time once, as a skip that is not a longer life, in Chapter 37.
+The greenhouse morning (Book 1, Chapter 25), the exoplanet census, habitable-zone permits, ice oceans, and the second-origin courtroom stay there. They are the cosmology book’s question: whether ’somewhere else’ is even a legal sentence. Proper time as the death of a shared now stays there too. This book spends proper time once, as a skip that is not a longer life, in Chapter 40.
 
 ---
 
