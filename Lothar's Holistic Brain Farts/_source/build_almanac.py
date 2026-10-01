@@ -109,6 +109,7 @@ BODY_PARAGRAPHS = []      # (paragraph, local_numeric_dict) scanned in the final
 PART_ROMAN_RE = re.compile(r'^Part (I|II|III|IV|V|VI)\b')
 NUM_HEADING_RE = re.compile(r'^(\d+)\.\s')
 LABEL_NUM_RE = re.compile(r'^(?:Chapter|Storey|Lesson)\s+(\d+)\b')
+LABEL_RANGE_RE = re.compile(r'^(?:Chapters|Lessons)\s+(\d+)\s*[–-]\s*(\d+)\b')
 CHAPTER_NUM_RE = re.compile(r'\b(?:Chapter|Storey|Lesson) \d+\b')
 
 
@@ -259,7 +260,8 @@ def register_heading(p, level, text):
     # Skip numbered chapter/storey/lesson headings (linked separately, by number) and
     # generic front-matter labels that are just ordinary English words elsewhere.
     if (clean not in TITLE_LINK_STOPLIST and len(clean.split()) >= 3
-            and not NUM_HEADING_RE.match(clean) and not LABEL_NUM_RE.match(clean)):
+            and not NUM_HEADING_RE.match(clean) and not LABEL_NUM_RE.match(clean)
+            and not LABEL_RANGE_RE.match(clean)):
         GLOBAL_TITLE_LINKS.setdefault(clean, name)
     part_m = PART_ROMAN_RE.match(clean)
     if part_m:
@@ -314,6 +316,10 @@ def render_markdown(doc, path, heading_offset=0, flat=False, note=None):
             m = NUM_HEADING_RE.match(text) or LABEL_NUM_RE.match(text)
             if m and bookmark:
                 segment[int(m.group(1))] = bookmark
+            r = LABEL_RANGE_RE.match(text)
+            if r and bookmark:
+                for n in range(int(r.group(1)), int(r.group(2)) + 1):
+                    segment.setdefault(n, bookmark)
             if note:
                 flush_left(doc.add_paragraph(), space_before=0, space_after=10, italic=True, text=note)
                 note = None
@@ -473,11 +479,13 @@ def build(out_path):
         "inside a murder mystery."
     ), {}))
     BODY_PARAGRAPHS.append((doc.add_paragraph(
-        "None of that is a reading order, though. Every Part is written to stand on its "
-        "own two feet, and the advanced material inside any single one of them never "
-        "depends on having read another first. Skip straight to whichever Part you're "
-        "curious about, read them out of order, or read only one — the book will not mind, "
-        "and neither will the author."
+        "None of that is a reading order between Parts, though. Every Part is written to "
+        "stand on its own two feet, and none of them depends on having read another first. "
+        "Skip straight to whichever Part you're curious about, read them out of order, or "
+        "read only one — the book will not mind, and neither will the author. Three "
+        "sections inside the Parts are courses rather than highlights, and those do want "
+        "reading front to back: the Mathematics Tower, the Complete QED Course, and the "
+        "Quantum Lectures. Each lesson there spends the one before it."
     ), {}))
     BODY_PARAGRAPHS.append((doc.add_paragraph(
         "A few appendices smuggled in from the novels are here too, on the "
