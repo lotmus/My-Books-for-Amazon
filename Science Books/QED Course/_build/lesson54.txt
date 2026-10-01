@@ -34,6 +34,13 @@ Lesson 53 computed electron-muon scattering by exchanging one photon between two
 
 # 1 Two diagrams, one relative sign
 
+FIG:
+ e^{-}(p1) ----*~~~~γ~~~~*---- e^{-}(p3)      e^{-}(p1) ----*~~~~γ~~~~*---- e^{-}(p4)
+               |         |                                  |         |
+ e^{-}(p2) ----*         *---- e^{-}(p4)      e^{-}(p2) ----*         *---- e^{-}(p3)
+            ℳ_t, photon in t                     ℳ_u, photon in u, relative minus
+ENDFIG
+
 ## 1.1 A second Wick contraction
 
 For e⁻(p₁)+e⁻(p₂)→e⁻(p₃)+e⁻(p₄), the same second-order S-matrix term used in Lesson 53 now has ψ_e, ψ̄_e appearing at both vertices, since only one field species is involved. Wick's theorem produces two inequivalent contractions consistent with the external states: one in which the electron at x₁ becomes the outgoing electron labeled 3 (direct), and one in which it becomes the electron labeled 4 (exchange), with the photon still connecting the two vertices in either case.

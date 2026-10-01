@@ -32,6 +32,11 @@ Lesson 67 absorbed a divergence into a mass nobody measures. This lesson does th
 
 # 1 Putting Π back into the photon line
 
+FIG:
+  ~~~~  +  ~~~~(Π)~~~~  +  ~~~~(Π)~~~~(Π)~~~~  +  ⋯   =  ~~~~ / (1−Π)
+  bare     one loop          two loops                    resummed D′
+ENDFIG
+
 ## 1.1 The series
 
 A photon line in any larger diagram can carry zero, one, two, … vacuum-polarization insertions. Each insertion contributes iΠ^μν(q) between two bare photon propagators. In Feynman gauge the bare propagator is D_μν(q)=−ig_μν/(q²+iε). Using Lesson 62's transversality, Π^μν=(q²g^μν−q^μq^ν)Π(q²), the q^μq^ν pieces drop against conserved currents (Lesson 47, to be proved in Lesson 71), and what survives of each insertion is multiplication by Π(q²).

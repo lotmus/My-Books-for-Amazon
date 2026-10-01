@@ -28,6 +28,12 @@ Every time this course replaced a photon polarization sum by −g_μν, or dropp
 
 # 1 The statement
 
+FIG:
+ e^{-} ----*---- e^{-}          replace ε_μ by k_μ at the vertex:
+           |                    k_μ (ie γ^μ) sandwiched between
+          γ(k)                  on-shell spinors vanishes by p̸u=mu
+ENDFIG
+
 A physical QED amplitude with one external photon of momentum k and polarization ε may be written iℳ=ε_μ ℳ^μ. The Ward identity is
 
 $$ k_μ ℳ^μ(k) = 0

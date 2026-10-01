@@ -1,118 +1,145 @@
 TITLE: Vacuum Polarization and Precision
 TAGLINE: The Uehling potential, the finite q² dependence of Π̂ from Lesson 68, as a correction to Coulomb's law inside an atom
 NUM: 77
-NEXT: Lesson 78 places g−2, the Lamb shift, and the running of α next to the measurements they are tested against.
+NEXT: Lesson 78 places g−2, the Lamb interval, and the running of α next to the measurements they are tested against.
 
 # How to use this lesson
-Lesson 68 ran the charge at |q²|≫m². Inside hydrogen, typical |q| is the Bohr momentum αm, smaller than m, so the logarithm of Lesson 68 is not large. The finite remainder Π̂(q²) still modifies the photon propagator, equivalent to a short-range correction to the Coulomb potential, the Uehling potential. Expect four to six hours. At small q² the finite vacuum polarization behaves as Π̂(q²)∝q²/m². Replacing 1/q² by 1/q² × 1/(1−Π̂)≈1/q² + (α/15π)/m² in momentum space is a contact-like correction after Fourier transform, smeared over the Compton wavelength 1/m. An s-state, with support at the origin, sees this as a shift. The sign in hydrogen is a slight reduction of the 2s energy relative to the naive Coulomb value in the opposite direction from Bethe's self-energy log, a smaller term. The same function Π̂, evaluated at large q², is Lesson 68's running. Precision and running are one object at two kinematic points.
+
+Lesson 68 ran the charge at |q²|≫m². Inside hydrogen, typical momenta are the Bohr momentum αm, smaller than m, so that logarithm is not large. The finite remainder Π̂(q²) still modifies the photon propagator. This lesson expands Π̂ at small q², Fourier-transforms the correction, and obtains the Uehling shift of the 2s state, about −27 MHz. Expect five to seven hours.
+
 ## Learning objectives
-- Obtain, for |q²|≪m², Π̂(q²)≈(α/15π)(q²/m²) as the leading expansion of vacuum polarization.
-- Interpret this as a correction to 1/q² in the photon propagator, hence to the Coulomb potential in coordinate space.
-- State that the Uehling potential is attractive extra strength at r≲1/m and contributes about −27 MHz to the hydrogen Lamb shift, opposite in sign to the dominant self-energy piece.
-- Connect the same Π̂ at large q² to Lesson 68's running.
+
+- Expand Lesson 62's vacuum polarization at |q²|≪m² to Π̂(q²)≈(α/15π)(q²/m²).
+
+- Convert that expansion into a correction to the Coulomb potential in momentum space and in r-space.
+
+- Evaluate the contact piece on |ψ_{2s}(0)|² and obtain a shift of order −27 MHz, opposite in sign to Bethe's self-energy log.
+
+- Recover Lesson 68's running by evaluating the same Π̂ at |q²|≫m².
 
 ## Notation and conventions
 
 @widths 2160 7632
 | Symbol | Meaning |
-| Π̂(q²)≈(α/15π)q²/m² | Π̂(q²)≈(α/15π)q²/m² |
-| Uehling | Uehling potential |
-| −27 | −27 MHz in hydrogen 2s |
+| Π̂(q²)=Π(q²)−Π(0) | Finite remainder of vacuum polarization, Π̂(0)=0 |
+| V_U(r) | Uehling potential, the coordinate-space image of Π̂ |
+| δE_U | Expectation value of V_U in a hydrogen state |
 
-# 1 The physical point
+# 1 The same Π, the other kinematic end
 
-Lesson 68 ran the charge at |q²|≫m². Inside hydrogen, typical |q| is the Bohr momentum αm, smaller than m, so the logarithm of Lesson 68 is not large. The finite remainder Π̂(q²) still modifies the photon propagator, equivalent to a short-range correction to the Coulomb potential, the Uehling potential. Expect four to six hours. At small q² the finite vacuum polarization behaves as Π̂(q²)∝q²/m². Replacing 1/q² by 1/q² × 1/(1−Π̂)≈1/q² + (α/15π)/m² in momentum space is a contact-like correction after Fourier transform, smeared over the Compton wavelength 1/m. An s-state, with support at the origin, sees this as a shift. The sign in hydrogen is a slight reduction of the 2s energy relative to the naive Coulomb value in the opposite direction from Bethe's self-energy log, a smaller term. The same function Π̂, evaluated at large q², is Lesson 68's running. Precision and running are one object at two kinematic points.
+FIG:
+  e⁻  -------*~~~~~~(Π)~~~~~~*-------  e⁻     Coulomb photon with
+              \              /                 a vacuum-polarization
+               *------------*  e⁺e⁻ loop       insertion, Lesson 62
+ENDFIG
+
+Lesson 68 wrote Π(q²)=Π(0)+Π̂(q²) and absorbed Π(0) into the definition of e. What remains in the photon line is a factor 1/(1−Π̂)≈1+Π̂. At large |q²| this is the running coupling. At small |q²| it is a short-range modification of Coulomb's law.
+
+# 2 Small-q² expansion
+
+## 2.1 Why the first term is q²/m²
+
+Π̂(0)=0 by construction. Analyticity in q² near 0, and the absence of a massless charged particle that could produce a branch cut at q²=0, imply Π̂(q²)=c q²/m²+O(q⁴/m⁴). The coefficient c is a finite Feynman-parameter integral over Lesson 62's integrand. Its value is
+
+$$ Π̂(q²) = (α / 15π) (q² / m²) + O(q⁴/m⁴) , qquad |q²| ≪ m²
 
 ### Worked example 1
 
-State the central relation of this lesson in one sentence and name the earlier lesson it uses. At small q² the finite vacuum polarization behaves as Π̂(q²)∝q²/m².
+Check dimensions. Π̂ is dimensionless, q²/m² is dimensionless, α is dimensionless, so c is a pure number. The 15 in the denominator is 1/5 of the 3 in Lesson 68's (α/3π) log, coming from the first two moments of the same spectral function: the log is the large-q² end, 1/15 is the small-q² end.
 
-# 2 Development
+## 2.2 From Π̂ to a potential
 
-Start from the objects already in hand. Separate a definition from a derived consequence. Evaluate a limit (low energy, on-shell, or μ→μ₀) as a check. Then name what is still incomplete.
+In momentum space the Coulomb interaction is 4πα/q² (Heaviside–Lorentz, α=e²/4π). Replacing 1/q² by (1+Π̂)/q² adds
+
+$$ ΔṼ(q) = (4π α / q²) Π̂(q²) ≈ 4π α (α / 15π) (1/m²) = (4α² / 15) (1/m²)
+
+a q-independent constant. The Fourier transform of a constant in three-momentum is a contact term:
+
+$$ ΔV(r) = − (4α² / 15 m²) δ³(r)
+
+up to the sign convention that a negative potential is attractive. (The overall sign follows because Π̂>0 at spacelike q² in our metric, which screens the charge at long distance and therefore concentrates extra attraction at r≲1/m.) The true Uehling potential is this contact term smeared over a Compton wavelength, not a mathematical δ³(r); for atomic expectation values in states whose support is a₀≫1/m, the contact approximation is enough.
+
+# 3 The 2s shift
+
+$$ δE_U(ns) = ⟨ns|ΔV|ns⟩ = − (4α² / 15 m²) |ψ_{ns}(0)|²
+
+Using |ψ_{2s}(0)|²=(αm)³/(8π) from Lesson 76,
+
+$$ δE_U(2s) = − (4α² / 15 m²) (α³ m³ / 8π) = − (α⁴ m / 30π) α
+
+which is of order 10 MHz. The standard evaluation of the unsmeared-plus-Uehling integral for hydrogen 2s−2p is −27.13 MHz. Because 2p has ψ(0)=0, this piece, like Lesson 76's contact self-energy, is almost entirely a 2s shift. It lowers 2s, which shrinks the Lamb interval: vacuum polarization works against Bethe's self-energy logarithm.
 
 ### Worked example 2
 
-Identify which step is a definition, which is a physical assumption, and which is algebra, using this lesson's core relation.
+State the sign in words. Vacuum polarization screens: at distances ≫1/m the effective charge is smaller. An s-electron, which samples r~1/m, sees extra unscreened charge and is bound more tightly, so its energy goes down. The 2s–2p Lamb interval, which had 2s above 2p from the self-energy, is reduced.
 
-# 3 What is not being claimed
+# 4 One function, two places
 
-This lesson does not replace a numerical computer algebra evaluation of every integral it names. It does state a checkable relation, a limit, and the connection to a previous derivation in this course.
+At |q²|≫m², the same Π̂ is Lesson 68's (α/3π) log(|q²|/m²). Precision in hydrogen and running at a collider are not two theories. They are Π̂(q²) at two values of q². Lesson 78 will put numbers on both.
 
 # Connections to QED
 
 @widths 3264 6528
 | Result of this lesson | Where it is used |
-| Π̂(q²)≈(α/15π)q²/m² | Used in later precision or formal chapters |
-| Uehling potential | Organizes the present calculation |
+| Π̂(q²)≈(α/15π)q²/m² | Small-q² end of Lesson 62 |
+| Uehling ΔV∝−δ³(r)/m² | −27 MHz in the hydrogen Lamb interval |
+| Same Π̂ at large q² | Running of α, Lesson 68 |
 
 # Summary
 
-1. Lesson 68 ran the charge at |q²|≫m².
+1. After charge renormalization, a finite Π̂(q²) remains in the photon line.
 
-2. The core relation is stated and checked in a limit.
+2. At |q²|≪m², Π̂(q²)=(α/15π)(q²/m²)+⋯.
 
-3. Earlier lessons supply the ingredients; this lesson supplies the interpretation.
+3. That expansion is a contact correction to the Coulomb potential, the Uehling potential.
+
+4. In hydrogen 2s it contributes about −27 MHz, opposite to Lesson 76's self-energy log.
+
+5. The large-q² limit of the same function is the running coupling.
 
 # Exercises
 
 @widths 720 9072
 | No | Problem |
-| 1 | State the core relation without looking. |
-| 2 | Name the earlier lesson that supplies the main ingredient. |
-| 3 | Check a special case or limit of the relation. |
-| 4 | Identify one convention that would change intermediate signs but not the observable. |
-| 5 | Write the mass dimension of each new symbol. |
-| 6 | Explain, in one sentence, what would go wrong if the main assumption were dropped. |
-| 7 | Connect this result to a tree-level process in Part VIII. |
-| 8 | Connect this result to a loop in Part IX. |
-| 9 | Is the result ultraviolet, infrared, or finite? Justify. |
-| 10 | Quote a number, a sign, or a functional form from the lesson. |
-| 11 | What measurement would test this? |
-| 12 | What does this lesson explicitly not compute? |
-| 13 | Write a one-line Feynman-diagram description of the effect. |
-| 14 | Restate the result in the notation of Lesson 41's Lagrangian if possible. |
-| 15 | Give a wrong statement a reader might walk away with, and correct it. |
-| 16 | Challenge: sketch the next correction beyond this lesson's order. |
+| 1 | Why is Π̂(0)=0, and why does that forbid a 1/r correction that survives at infinite distance? |
+| 2 | Obtain ΔṼ(q)≈(4α²/15)/m² from Π̂≈(α/15π)q²/m². |
+| 3 | Fourier-transform a momentum-space constant to a δ³(r) potential. |
+| 4 | Evaluate δE_U(2s) using |ψ_{2s}(0)|²=(αm)³/(8π). |
+| 5 | Why is δE_U(2p) negligible compared with δE_U(2s)? |
+| 6 | Sign: does Uehling increase or decrease the 1058 MHz interval? |
+| 7 | What does the same Π̂ become at |q²|≫m²? |
+| 8 | Why is the contact approximation better in hydrogen than in a muonic atom? |
+| 9 | Connect the 15 in 15π to a Feynman-parameter integral, at the level of “the second moment of the same spectral density that produced 3π in Lesson 68.” |
+| 10 | Challenge: estimate the muonic-hydrogen Uehling shift relative to electronic hydrogen by replacing m→m in |ψ(0)|²~(α m_μ)³ while the potential's range remains 1/m_e. |
 
 # Solutions
 
-**1.** See the displayed relation in Section 1.
+**1.** Π̂(0)=0 is the renormalization condition that the long-distance charge is the measured e. A nonzero Π̂(0) would rescale 1/r at infinity, which has already been absorbed. There is therefore no correction to the coefficient of 1/r at r→∞.
 
-**2.** Named in the opening and in Worked example 1.
+**2.** (4πα/q²)Π̂=(4πα/q²)(α/15π)(q²/m²)=(4α²/15)/m².
 
-**3.** The low-energy, on-shell, or μ→μ₀ limit discussed in Section 2.
+**3.** ∫d³q/(2π)³ e^{iq·r} × const = const × δ³(r). The overall 4π conventions follow the Coulomb Fourier pair 4πα/q² ↔ α/r.
 
-**4.** Metric signature, charge-sign convention, or ξ; observables unchanged.
+**4.** δE=−(4α²/15 m²)(αm)³/(8π)=−α⁵ m/(30π), of order tens of MHz once converted with 1 eV=2.418×10¹⁴ Hz. The textbook number including the full Uehling shape is −27.13 MHz.
 
-**5.** Read off from ℒ having dimension 4, as in Lesson 25.
+**5.** ψ_{2p}(0)=0, so a contact operator vanishes. The smeared Uehling tail gives a much smaller 2p piece.
 
-**6.** The derivation's first step would not be available; the result would not follow.
+**6.** Decreases it: 2s is lowered.
 
-**7.** Part VIII supplies the tree process whose correction this is, or the kinematics.
+**7.** Π̂(q²)≈−(α/3π)log(|q²|/m²) in the mostly-minus metric conventions of Lesson 68, producing α(q²)=α/[1−(α/3π)log(|q²|/m²)].
 
-**8.** Part IX supplies the loop integral being interpreted.
+**8.** A muon's Bohr radius is 1/(α m_μ), comparable to 1/m_e, so the Uehling cloud is no longer a point relative to the wavefunction and the shift is a large fraction of the muonic Lamb interval.
 
-**9.** Stated in the lesson: UV absorbed, IR cancelled inclusively, or finite prediction.
+**9.** Both 3 and 15 are moments of the one-loop fermion spectral function of Π; the log is the high-q² moment, 1/15 the threshold moment.
 
-**10.** The number or form in the introduction.
-
-**11.** The precision experiment named, or a scattering process at the relevant q².
-
-**12.** Full numerical integral, higher loops, or hadronic pieces, as the opening said.
-
-**13.** The diagram of the relevant lesson (vertex, vacuum polarization, or emission).
-
-**14.** Match symbols to e, m, A_μ, ψ as appropriate.
-
-**15.** A common overclaim is that the template slogans were already a derivation; this lesson is the derivation of the named relation only, at the stated order.
-
-**16.** The next order in α, or the next operator in an effective Lagrangian.
+**10.** |ψ(0)|² grows as m_μ³, so the contact estimate is larger by (m_μ/m_e)³≈200³, while the true Uehling function, varying on 1/m_e, must be integrated against the muon wavefunction. Muonic hydrogen is a vacuum-polarization laboratory; this volume does not compute it.
 
 # Mastery checklist
 
-- I can state this lesson's core relation and the lesson it depends on.
+- I can write Π̂(q²)≈(α/15π)q²/m² and convert it to a contact potential.
 
-- I can check a limit and name what is not computed.
+- I can evaluate that potential on |ψ_{2s}(0)|² and quote −27 MHz.
 
-- I can place the result among tree processes, loops, and measurements.
+- I can state the sign relative to Bethe's self-energy log.
+
+- I can identify the large-q² limit as Lesson 68's running.

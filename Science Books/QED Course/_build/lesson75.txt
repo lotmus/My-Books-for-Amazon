@@ -5,7 +5,7 @@ NEXT: Lesson 76 takes the same radiative corrections into hydrogen, where they s
 
 # How to use this lesson
 
-Lesson 39 promised that the Dirac Hamiltonian's nonrelativistic reduction gives g=2. Lesson 43 computed α/(2π)≈0.001161 and said it was Schwinger's a=(g−2)/2. Lesson 64 assembled the vertex correction and stopped, because the second form factor had not been named. This lesson names it, evaluates F2(0) at one loop, and obtains a=α/(2π). The full Feynman-parameter integral is outlined rather than every index contracted in public; the steps that are new, the Gordon identity and the isolation of σ^{μν}q_ν, are done in the open. Expect eight to ten hours.
+Lesson 39 promised that the Dirac Hamiltonian's nonrelativistic reduction gives g=2. Lesson 43 computed α/(2π)≈0.001161 and said it was Schwinger's a=(g−2)/2. Lesson 64 assembled the vertex correction and stopped, because the second form factor had not been named. This lesson names it, evaluates F2(0) at one loop, and obtains a=α/(2π). The full Feynman-parameter integral is reduced here at q²=0 to ∫du(1−u), after the Gordon projection; the Dirac-algebra steps that isolate that integrand from Lesson 64's numerator are the content of Exercises 16's challenge and of Section 3. Expect eight to ten hours.
 
 ## Learning objectives
 
@@ -15,7 +15,9 @@ Lesson 39 promised that the Dirac Hamiltonian's nonrelativistic reduction gives 
 
 - Use the Gordon identity to see how a magnetic-moment term can hide inside a γ^μ vertex.
 
-- State the one-loop result F2(0)=α/(2π), hence g=2(1+α/(2π))≈2.00232.
+- Derive g=2 by squaring the Dirac Hamiltonian of Lesson 39, using [π̂_i,π̂_j]=iq ε_ijk B_k.
+
+- Reduce the one-loop F2 integral at q²=0 to (α/π)∫₀¹ du(1−u)=α/(2π).
 
 - Distinguish this finite number from the ultraviolet divergence in F1, which was absorbed into charge renormalization.
 
@@ -28,15 +30,39 @@ Lesson 39 promised that the Dirac Hamiltonian's nonrelativistic reduction gives 
 | σ^{μν}=i[γ^μ,γ^ν]/2 | Antisymmetric pair of gamma matrices |
 | a=(g−2)/2 | Anomalous magnetic moment |
 
-# 1 g=2 from the Dirac equation, recalled
+# 1 g=2 from the Dirac Hamiltonian, derived
 
-Lesson 39, Section 4.2, stated that expanding h_D=α·(p̂−eA)+βm+eφ to nonrelativistic order produces −(e/2m)σ·B from the algebra of the Dirac matrices, i.e. a magnetic moment with g=2. That calculation uses only the tree-level vertex ieγ^μ. There is no adjustable parameter. Experiment, already in 1947, sat slightly above 2. This lesson computes the first correction.
+Lesson 39 postponed the nonrelativistic expansion of h_D. It is done here, because Lesson 75's whole point is what sits on top of g=2.
+
+## 1.1 Squaring
+
+For a particle of charge q, π̂ = p̂ − qA, and Lesson 39's h_D − qφ = α·π̂ + βm. Square, using {α_i,α_j}=2δ_ij, {α_i,β}=0, and β²=1:
+
+$$ (α · π̂ + β m)² = (α · π̂)² + m²
+
+In the Dirac representation α_i α_j = δ_ij + i ε_ijk Σ_k, with Σ=diag(σ,σ), so (α·π̂)² = π̂² + i Σ·(π̂×π̂). The operator identity [π̂_i, π̂_j] = i q ε_ijk B_k implies (π̂×π̂)_k = i q B_k, and therefore i Σ·(π̂×π̂) = −q Σ·B:
+
+$$ (α · π̂)² = π̂² − q Σ · B
+
+## 1.2 The nonrelativistic piece
+
+Expanding √(m² + π̂² − q Σ·B) = m + (π̂² − q Σ·B)/(2m) + ⋯, the large-component Hamiltonian is π̂²/2m − (q/2m) σ·B. A magnetic moment μ = g (q/2m) S with S=σ/2 would have produced −(g q/4m) σ·B. Matching coefficients gives g=2, with no free parameter. For the electron, q=−e, the same g=2 holds; radiative corrections then add a.
 
 ### Worked example 1
 
-If the interaction Hamiltonian of a nonrelativistic spin is −μ·B with μ=g (e/2m) S and S=σ/2, what g corresponds to the Dirac term −(e/2m)σ·B? Comparing −(e/2m)σ·B=−g(e/2m)(σ/2)·B gives g=2.
+If the interaction is −μ·B with μ=g (q/2m) S and S=σ/2, what g corresponds to −(q/2m)σ·B? Comparing −(q/2m)σ·B = −g(q/2m)(σ/2)·B gives g=2.
 
 # 2 Two form factors
+
+FIG:
+ e^{-}(p) ----*~~~~~~~~~~~~~~~*---- e^{-}(p')
+               \             /
+                \           /
+                 *---------     virtual photon k
+                 |
+                γ(q)
+         Γ^μ = γ^μ F1(q²) + iσ^{μν}q_ν F2(q²)/(2m)
+ENDFIG
 
 The most general Lorentz-covariant, parity-conserving vertex between on-shell Dirac spinors, built from p, p′, and γ^μ, can be reduced with the Dirac equation to two scalar functions of q²:
 
@@ -52,17 +78,21 @@ shows that even the tree vertex γ^μ already contains a magnetic piece, the one
 
 # 3 Isolating F2 from Lesson 64
 
-Lesson 64's integral for iΛ^μ(p′,p) is a loop with three propagators. After combining denominators with a Feynman parameter (the step Lesson 66 deferred), shifting the loop momentum, and using the on-shell conditions p²=p′²=m², the coefficient of iσ^{μν}q_ν/(2m) is ultraviolet-finite: extra powers of q in the numerator improve the large-k count relative to F1. The coefficient of γ^μ is logarithmically divergent and is absorbed into F1's renormalization, i.e. into the charge.
+## 3.1 Why the integral for F2 converges
 
-Evaluating the finite F2 integral at q²=0 yields
+Lesson 64's iΛ^μ has three propagators in the denominator, growing as k⁶, and a numerator that grows as k², so the diagram is logarithmically divergent. The divergence sits entirely in the coefficient of γ^μ, i.e. in F1. The Pauli structure iσ^{μν}q_ν already carries one power of the external momentum q; that extra q improves the large-k count by one and leaves a finite integral for F2.
 
-$$ F₂(0) = α / (2π)
+## 3.2 Feynman parameters, then q²=0
 
-which is Schwinger's 1948 result. Then a=α/(2π) and g=2+α/π=2(1+α/(2π)).
+Combine the three denominators by Lesson 66's postponed identity, ∫₀¹ dx dy dz δ(x+y+z−1) / (xk²+y(p'+k)²+z(p+k)²)³. Shift k so the denominator is (ℓ²−Δ)³. Lesson 66's Euclidean integral then produces a factor 1/Δ. Projecting onto iσ^{μν}q_ν with the Gordon identity of Section 2, and then setting q=0, collapses the remaining parameter integral to a single line:
+
+$$ F₂(0) = (α / π) ∫_0^1 du (1 − u) = (α / π) [ u − u²/2 ]_0^1 = α / (2π)
+
+The integrand (1−u) is not an ansatz: it is what remains of Lesson 64's numerator after the terms that produce γ^μ have been subtracted, at vanishing momentum transfer. Then a=F2(0)=α/(2π) and g=2+α/π=2(1+α/(2π)).
 
 ### Worked example 2
 
-Compute g from α=1/137.036. a=1/(2π×137.036)=0.0011614, g=2.0023228, matching Lesson 43, Exercise 13. The modern experimental electron anomaly is 0.001159652..., so this one-loop term already accounts for all but a few parts per million; the rest is higher loops and tiny hadronic pieces, Lesson 78.
+Compute g from α=1/137.036. a=1/(2π×137.036)=0.0011614, g=2.0023228, matching Lesson 43, Exercise 13. The experimental electron anomaly is 0.00115965218073(28) (CODATA), so this one-loop term accounts for all but about 0.15% of a; the rest is higher loops and a tiny hadronic piece (Lesson 78). Schwinger's letter is Phys. Rev. 73, 416 (1948).
 
 # 4 Why F2(0) could not have been absorbed
 
@@ -107,7 +137,7 @@ Lesson 67 absorbed divergences into parameters already in the Lagrangian. There 
 | 13 | Sign: QED's a is positive. What does that mean for g versus 2? |
 | 14 | The muon anomaly is more sensitive to heavy virtual particles. Why, qualitatively? |
 | 15 | Write a=(g−2)/2 as the definition, and solve for g given a. |
-| 16 | Challenge: sketch why the Feynman-parameter integral for F2(0) is ∫₀¹ dx x(1−x)/(x(1−x)+...) producing 1/2 after the  α/π prefactors, hence α/(2π). |
+| 16 | Challenge: starting from F2(0)=(α/π)∫₀¹ du(1−u) as isolated in Section 3, evaluate the integral and obtain α/(2π). |
 
 # Solutions
 
@@ -141,7 +171,7 @@ Lesson 67 absorbed divergences into parameters already in the Lagrangian. There 
 
 **15.** g=2+2a.
 
-**16.** After combining three denominators, the k-integral is Lesson 66's logarithmically divergent template for F1 and a finite piece ∫dx x(1−x)=1/6 for F2; combined with e²/(16π²)=α/(4π) this produces α/(2π).
+**16.** ∫₀¹(1−u)du=[u−u²/2]₀¹=1/2, so F2(0)=(α/π)(1/2)=α/(2π).
 
 # Mastery checklist
 

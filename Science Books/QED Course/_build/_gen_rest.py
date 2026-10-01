@@ -358,6 +358,11 @@ for spec in specs:
 
 
 def main():
+    raise SystemExit(
+        "Refusing to overwrite lessons: _gen_rest.py's generic_body produced "
+        "the 'Start from the objects already in hand' chapters. Lessons 72, 74, "
+        "76–78, 80–86 are now written by hand. Do not rerun this file."
+    )
     for num, text in L.items():
         path = os.path.join(HERE, "lesson%02d.txt" % num)
         open(path, "w", encoding="utf-8").write(text)

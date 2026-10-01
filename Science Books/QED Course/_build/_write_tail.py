@@ -82,6 +82,9 @@ INDEX = [
     ("Ward identity", "k_μ ℳ^μ=0 (Lesson 71)"),
     ("Soft emission", "ℳ_soft=e(p·ε/p·k)ℳ_tree (Lesson 74)"),
     ("Anomalous moment", "a=F₂(0)=α/(2π) (Lesson 75)"),
+    ("Lamb contact / Bethe log", "ΔE_ns=(4α/(3π m²))|ψ(0)|² log(m/⟨ΔE⟩) (Lesson 76)"),
+    ("Uehling at small q²", "Π̂(q²)≈(α/15π)(q²/m²); δE_U(2s)≈−27 MHz (Lesson 77)"),
+    ("Schwinger pair rate", "Γ/V=(eE)²/(4π³) exp(−π m²/eE) (Lesson 85)"),
     ("Path integral", "Z=∫Dφ exp(iS[φ]) (Lesson 79)"),
 ]
 
@@ -120,14 +123,38 @@ def build_tail(b):
     b.heading("Consolidated formula index", 1)
     b.para("Working formulae as they appear in the written lessons, not slogans from a skeleton outline.")
     b.table([["Topic", "Formula"]] + [list(row) for row in INDEX], [2880, 6912])
+    b.pagebreak()
+    b.heading("Bibliography", 1)
+    b.para(
+        "Papers and books named at the moment this course uses them. "
+        "CODATA and the Particle Data Group are the sources for the constants in Lesson 78."
+    )
+    b.table(
+        [
+            ["Item", "Reference"],
+            ["Dirac equation and g=2", "P. A. M. Dirac, Proc. Roy. Soc. A 117, 610 (1928)."],
+            ["Schwinger a=α/(2π)", "J. Schwinger, Phys. Rev. 73, 416 (1948)."],
+            ["Lamb–Retherford interval", "W. E. Lamb and R. C. Retherford, Phys. Rev. 72, 241 (1947)."],
+            ["Bethe logarithm", "H. A. Bethe, Phys. Rev. 72, 339 (1947)."],
+            ["Uehling potential", "E. A. Uehling, Phys. Rev. 48, 55 (1935)."],
+            ["Bloch–Nordsieck IR", "F. Bloch and A. Nordsieck, Phys. Rev. 52, 54 (1937)."],
+            ["Schwinger pair production", "J. Schwinger, Phys. Rev. 82, 664 (1951)."],
+            ["Constants", "CODATA recommended values; Particle Data Group Review of Particle Physics."],
+            ["QED textbook (traces)", "M. D. Schwartz, Quantum Field Theory and the Standard Model, Cambridge (2014)."],
+            ["QED textbook (loops)", "M. E. Peskin and D. V. Schroeder, An Introduction to Quantum Field Theory, Westview (1995)."],
+            ["QED textbook (canonical)", "F. Mandl and G. Shaw, Quantum Field Theory, Wiley, 2nd ed. (2010)."],
+            ["External fields", "C. Itzykson and J.-B. Zuber, Quantum Field Theory, McGraw-Hill (1980), ch. 4."],
+        ],
+        [2880, 6912],
+    )
 
 
 def main():
     doc = Document(COMPLETE)
     body = doc.element.body
-    start = find_start(body, "Course capstone")
+    start = find_start(body, "Glossary")
     if start is None:
-        start = find_start(body, "Glossary")
+        start = find_start(body, "Course capstone")
     if start is None:
         raise RuntimeError("could not find capstone or glossary")
     node = start

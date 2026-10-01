@@ -206,21 +206,25 @@ class Builder:
             num_pr.get_or_add_numId().val = num_id
 
     def math(self, text):
-        p = self.doc.add_paragraph()
-        p.paragraph_format.space_before = Pt(5)
-        p.paragraph_format.space_after = Pt(8)
-        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        omp = etree.SubElement(p._p, "{%s}oMathPara" % M_NS)
-        om = etree.SubElement(omp, "{%s}oMath" % M_NS)
-        try:
-            from omath import fill_omath
-            fill_omath(om, text)
-        except Exception:
-            r = etree.SubElement(om, "{%s}r" % M_NS)
-            t = etree.SubElement(r, "{%s}t" % M_NS)
-            t.set(XML_SPACE, "preserve")
-            t.text = text
-        self.elements.append(p._p)
+        parts = [p.strip() for p in re.split(r"\s*,?\s*qquad\s*", text) if p.strip()]
+        if not parts:
+            parts = [text]
+        for i, part in enumerate(parts):
+            p = self.doc.add_paragraph()
+            p.paragraph_format.space_before = Pt(5 if i == 0 else 2)
+            p.paragraph_format.space_after = Pt(8 if i == len(parts) - 1 else 2)
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            omp = etree.SubElement(p._p, "{%s}oMathPara" % M_NS)
+            om = etree.SubElement(omp, "{%s}oMath" % M_NS)
+            try:
+                from omath import fill_omath
+                fill_omath(om, part)
+            except Exception:
+                r = etree.SubElement(om, "{%s}r" % M_NS)
+                t = etree.SubElement(r, "{%s}t" % M_NS)
+                t.set(XML_SPACE, "preserve")
+                t.text = part
+            self.elements.append(p._p)
 
     def figure(self, lines):
         p = self.doc.add_paragraph()
@@ -300,11 +304,16 @@ class Builder:
         for b in blocks:
             kind = b[0]
             if kind == "h1":
-                self.heading(b[1], 1)
-            elif kind == "h2":
+                # Lesson titles are Heading 1; intra-lesson # sections are Heading 2
+                # so the TOC lists lessons, not every "How to use this lesson".
                 self.heading(b[1], 2)
-            elif kind == "h3":
+            elif kind == "h2":
                 self.heading(b[1], 3)
+            elif kind == "h3":
+                p = self.para(style=None)
+                run = p.add_run(b[1])
+                run.bold = True
+                run.italic = True
             elif kind == "bullet":
                 self.bullet(b[1])
             elif kind == "numbered":
@@ -325,7 +334,18 @@ class Builder:
                 raise ValueError(kind)
 
 
-# ---------------------------------------------------------------- outputs
+def _bookmark_paragraph(paragraph, name, bid):
+    """Attach a Word bookmark to an existing paragraph."""
+    start = OxmlElement("w:bookmarkStart")
+    start.set(qn("w:id"), str(bid))
+    start.set(qn("w:name"), name)
+    paragraph._p.insert(0, start)
+    end = OxmlElement("w:bookmarkEnd")
+    end.set(qn("w:id"), str(bid))
+    paragraph._p.append(end)
+    return paragraph
+
+
 def build_standalone(meta, blocks, out_path):
     doc = Document(TEMPLATE)
     body = doc.element.body
@@ -359,12 +379,15 @@ def build_standalone(meta, blocks, out_path):
     b.pagebreak()
     b.render(blocks)
     if meta.get("NEXT"):
-        b.heading("Next lesson", 1)
+        b.heading("Next lesson", 2)
         b.para(meta["NEXT"])
     doc.save(out_path)
 
 
-LESSON_RE = re.compile(r"^(Lesson \d+ |Part [IVX]+ |Course capstone|Consolidated formula index)")
+LESSON_RE = re.compile(
+    r"^(Lesson \d+ |Part [IVX]+ |Course capstone|Consolidated formula index|"
+    r"Glossary of symbols|Bibliography)"
+)
 
 
 def heading1_text(child):
@@ -398,10 +421,11 @@ def splice_into_complete(meta, blocks):
         body.remove(node)
         node = nxt
     b = Builder(doc)
-    b.heading("Lesson %d %s" % (num, meta["TITLE"]), 1)
+    title_p = b.heading("Lesson %d %s" % (num, meta["TITLE"]), 1)
+    _bookmark_paragraph(title_p, "Lesson%d" % num, 1000 + num)
     b.render(blocks)
     if meta.get("NEXT"):
-        b.heading("Next lesson", 1)
+        b.heading("Next lesson", 2)
         b.para(meta["NEXT"])
     b.pagebreak()
     for el in b.elements:  # move the new elements in front of the next section

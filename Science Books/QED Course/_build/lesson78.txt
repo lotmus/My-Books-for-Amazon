@@ -4,115 +4,124 @@ NUM: 78
 NEXT: Lesson 79 opens Part XI with the path integral as an equivalent derivation of the Feynman rules this course already has.
 
 # How to use this lesson
-This course now has three quantitative QED claims that meet experiment: a=α/(2π) at one loop (Lesson 75), a Lamb interval of order 10³ MHz (Lesson 76), and a few-percent running of α up to the Z (Lesson 68). This lesson states how they are compared, what 'one part in a billion' from Lesson 15 actually refers to (higher-order g−2, not this volume's one-loop formulae), and why a disagreement is a discovery rather than a reason to abandon renormalization. Expect four to six hours. Lesson 43's α/(2π) already matches the electron anomaly to about 0.15%. The remaining digits require two-loop and three-loop QED, a small hadronic vacuum-polarization piece, and a still smaller weak piece; they are not computed in this volume. The Lamb shift is a qualitatively new interval the Dirac equation does not have, measured in radiofrequency spectroscopy. The running of α is tested by comparing low-energy α to the coupling extracted at LEP and elsewhere near M_Z. Lesson 15's 'one part in a billion' describes the modern electron g−2 comparison after those higher orders, not the one-loop formula alone. If, after all known Standard Model pieces, a discrepancy remained (as is currently discussed for the muon, not settled in this course), that would be extra amplitudes, not a reason to doubt that m₀ can absorb an ultraviolet log.
+
+Three quantitative claims now sit on the page: a=α/(2π) at one loop (Lesson 75), a Lamb interval of order 10³ MHz (Lessons 76–77), and a few-percent running of α up to the Z (Lesson 68). This lesson places those claims next to the measurements, states what Lesson 15's “one part in a billion” actually referred to, and says what a genuine discrepancy would mean. Expect four to six hours.
+
 ## Learning objectives
-- Quote a_e(theory, one loop)=α/(2π)≈0.0011614 versus a_e(exp)≈0.00115965, and name higher loops as the difference.
-- Quote the Lamb interval ~1057.8 MHz as a measured QED effect absent from the Dirac spectrum.
-- Quote α⁻¹(0)≈137.036 versus α⁻¹(M_Z)≈128–129 once all fermions are included, of which this course computed only the electron log's order of magnitude.
-- State that a genuine discrepancy remaining after higher orders and hadronic vacuum polarization would be new physics, not a failure of Lesson 67's logic.
+
+- Quote a_e(one loop)=α/(2π)≈0.00116141 versus a_e(exp)=0.00115965218073(28), and name higher loops as the difference.
+
+- Quote the Lamb interval 1057.845(9) MHz as a measured QED effect absent from the Dirac spectrum.
+
+- Quote α⁻¹(0)≈137.036 versus α⁻¹(M_Z)≈127.95 once all charged fermions are included, of which this course computed only the electron logarithm's order of magnitude.
+
+- State that a discrepancy remaining after higher orders and hadronic vacuum polarization would be extra amplitudes, not a failure of Lesson 67's mass renormalization.
 
 ## Notation and conventions
 
 @widths 2160 7632
 | Symbol | Meaning |
-| a_e | a_e one loop vs experiment |
-| Lamb | Lamb 1057.8 MHz |
-| α(0) | α(0) vs α(M_Z) |
+| a_e | Electron anomaly (g_e−2)/2 |
+| Δν_Lamb | Hydrogen 2s_{1/2}−2p_{1/2} frequency |
+| α(M_Z) | Effective coupling at the Z mass, ~91 GeV |
 
-# 1 The physical point
+# 1 Three numbers this volume actually derived
 
-This course now has three quantitative QED claims that meet experiment: a=α/(2π) at one loop (Lesson 75), a Lamb interval of order 10³ MHz (Lesson 76), and a few-percent running of α up to the Z (Lesson 68). This lesson states how they are compared, what 'one part in a billion' from Lesson 15 actually refers to (higher-order g−2, not this volume's one-loop formulae), and why a disagreement is a discovery rather than a reason to abandon renormalization. Expect four to six hours. Lesson 43's α/(2π) already matches the electron anomaly to about 0.15%. The remaining digits require two-loop and three-loop QED, a small hadronic vacuum-polarization piece, and a still smaller weak piece; they are not computed in this volume. The Lamb shift is a qualitatively new interval the Dirac equation does not have, measured in radiofrequency spectroscopy. The running of α is tested by comparing low-energy α to the coupling extracted at LEP and elsewhere near M_Z. Lesson 15's 'one part in a billion' describes the modern electron g−2 comparison after those higher orders, not the one-loop formula alone. If, after all known Standard Model pieces, a discrepancy remained (as is currently discussed for the muon, not settled in this course), that would be extra amplitudes, not a reason to doubt that m₀ can absorb an ultraviolet log.
+@widths 3264 6528
+| Quantity | This volume | Measurement / full theory |
+| a_e | α/(2π)=0.00116141 | 0.00115965218073(28) (CODATA) |
+| Lamb 2s–2p | leading log ~10³ MHz, Uehling −27 MHz | 1057.845(9) MHz |
+| α⁻¹ | 137.036 at q²=0; electron log only at large q | α⁻¹(M_Z)≈127.95 (PDG) |
+
+The one-loop anomaly accounts for all but about 0.15% of a_e. The omitted 0.15% is (α/π)² and higher, plus a hadronic vacuum-polarization piece below 10⁻¹² and a still smaller weak piece. Lesson 15's “one part in a billion” is the comparison after those higher orders, not the comparison of α/(2π) with experiment. Quoting a billionth from this volume's one-loop formula would be a false advertisement.
 
 ### Worked example 1
 
-State the central relation of this lesson in one sentence and name the earlier lesson it uses. Lesson 43's α/(2π) already matches the electron anomaly to about 0.
+Compute the relative error of the one-loop anomaly. (0.00116141−0.00115965)/0.00115965≈0.00152, one and a half parts per thousand of a, matching the expected size of the two-loop term, which is of order α/π times the one-loop term.
 
-# 2 Development
+# 2 The Lamb interval as a qualitative test
 
-Start from the objects already in hand. Separate a definition from a derived consequence. Evaluate a limit (low energy, on-shell, or μ→μ₀) as a check. Then name what is still incomplete.
+Dirac hydrogen has no 2s–2p interval. Measuring 1057.8 MHz is therefore not a more precise value of a number the tree theory already had; it is the existence of an effect the tree theory forbids. Lessons 76–77 derived the two leading mechanisms and their signs. They did not produce 1057.845 from a complete numerical evaluation, and this lesson will not pretend they did.
+
+# 3 Running, with an honest coefficient
+
+Lesson 68's formula α(q²)=α/[1−(α/3π)log(|q²|/m²)] includes one charged fermion, the electron. From q=m_e to q=M_Z the electron logarithm is (α/3π)log(M_Z²/m_e²)≈0.006, a 0.6% shift of α, or about one unit in α⁻¹. The measured shift, 137.036→127.95, is ten units. The extra nine come from muons, taus, and quarks, each adding to Π with a coefficient 1/3 per charged lepton and 3Q²/3 per quark colour. This course computed the mechanism and the electron term. It did not compute α(M_Z).
 
 ### Worked example 2
 
-Identify which step is a definition, which is a physical assumption, and which is algebra, using this lesson's core relation.
+Why does a quark with charge 2/3 contribute 4/9 times as much as a lepton of charge 1, times N_c=3? Vacuum polarization is proportional to Q², and three colours multiply that by 3, so 3×(4/9)=4/3 of a lepton. Up-type quarks therefore out-weight electrons in the running, which is why the electron-only logarithm underestimates the shift to M_Z.
 
-# 3 What is not being claimed
+# 4 What a discrepancy would mean
 
-This lesson does not replace a numerical computer algebra evaluation of every integral it names. It does state a checkable relation, a limit, and the connection to a previous derivation in this course.
+Lesson 67 absorbed an ultraviolet log into m₀. That logic does not become false if a_μ, after every Standard-Model diagram, disagreed with storage-ring data. Such a disagreement, if it survived, would be additional amplitudes: extra particles in the muon loop, extra operators, an incomplete hadronic evaluation. It would not license discarding mass renormalization, any more than a wrong tree-level Compton formula would license discarding Maxwell's equations. The muon anomaly is not settled in this volume and is not used as a premise.
+
+# 5 Citations for the numbers
+
+Schwinger, Phys. Rev. 73, 416 (1948), a=α/(2π). Lamb and Retherford, Phys. Rev. 72, 241 (1947), the microwave interval. Bethe, Phys. Rev. 72, 339 (1947), the leading log. CODATA and the Particle Data Group for the modern constants. Those papers and reviews are listed again in the bibliography at the end of the book.
 
 # Connections to QED
 
 @widths 3264 6528
 | Result of this lesson | Where it is used |
-| a_e one loop vs experiment | Used in later precision or formal chapters |
-| Lamb 1057.8 MHz | Organizes the present calculation |
+| One-loop a_e vs CODATA | Scope of Lesson 75 |
+| Lamb 1057.8 MHz | Scope of Lessons 76–77 |
+| Electron log vs α(M_Z) | Scope of Lesson 68 |
 
 # Summary
 
-1. This course now has three quantitative QED claims that meet experiment: a=α/(2π) at one loop (Lesson 75), a Lamb interval of order 10³ MHz (Lesson 76), and a few-percent running of α up to the Z (Lesson 68).
+1. One-loop a_e matches experiment to 0.15%; the rest is higher orders this volume does not compute.
 
-2. The core relation is stated and checked in a limit.
+2. The Lamb interval is a qualitative QED effect; 1058 MHz is measured, 1040 MHz and −27 MHz are the pieces derived here.
 
-3. Earlier lessons supply the ingredients; this lesson supplies the interpretation.
+3. The electron running is a 0.6% effect to M_Z; the full shift is larger because other charged fermions contribute.
+
+4. “One part in a billion” is not a claim about α/(2π) alone.
+
+5. A residual discrepancy would be new amplitudes, not a license to abandon renormalization.
 
 # Exercises
 
 @widths 720 9072
 | No | Problem |
-| 1 | State the core relation without looking. |
-| 2 | Name the earlier lesson that supplies the main ingredient. |
-| 3 | Check a special case or limit of the relation. |
-| 4 | Identify one convention that would change intermediate signs but not the observable. |
-| 5 | Write the mass dimension of each new symbol. |
-| 6 | Explain, in one sentence, what would go wrong if the main assumption were dropped. |
-| 7 | Connect this result to a tree-level process in Part VIII. |
-| 8 | Connect this result to a loop in Part IX. |
-| 9 | Is the result ultraviolet, infrared, or finite? Justify. |
-| 10 | Quote a number, a sign, or a functional form from the lesson. |
-| 11 | What measurement would test this? |
-| 12 | What does this lesson explicitly not compute? |
-| 13 | Write a one-line Feynman-diagram description of the effect. |
-| 14 | Restate the result in the notation of Lesson 41's Lagrangian if possible. |
-| 15 | Give a wrong statement a reader might walk away with, and correct it. |
-| 16 | Challenge: sketch the next correction beyond this lesson's order. |
+| 1 | Compute α/(2π) from α=1/137.036. |
+| 2 | What fraction of a_e(exp) is missing from the one-loop formula? |
+| 3 | Name the three ingredients of the missing fraction. |
+| 4 | Why is the Lamb interval a stronger qualitative test than a more precise Rydberg? |
+| 5 | Estimate the electron-only shift of α from m_e to M_Z≈91 GeV. |
+| 6 | Why is that estimate smaller than 137.036−127.95? |
+| 7 | What would a confirmed a_μ discrepancy mean for Lesson 67? |
+| 8 | Quote the experimental Lamb interval with its uncertainty. |
+| 9 | Where in this course is F2(0)=α/(2π) derived, not quoted? |
+| 10 | Challenge: using Q_u=2/3, Q_d=−1/3, N_c=3, write the one-loop coefficient of the β-function relative to a single electron for one generation of quarks. |
 
 # Solutions
 
-**1.** See the displayed relation in Section 1.
+**1.** 1/(2π×137.036)=0.00116141.
 
-**2.** Named in the opening and in Worked example 1.
+**2.** About 0.15% of a_e.
 
-**3.** The low-energy, on-shell, or μ→μ₀ limit discussed in Section 2.
+**3.** Two-loop and higher QED; hadronic vacuum polarization; a weak (Z,W) piece.
 
-**4.** Metric signature, charge-sign convention, or ξ; observables unchanged.
+**4.** The Dirac theory predicts zero for 2s−2p; a nonzero measurement is the existence of loops, not a refined digit of a tree-level formula.
 
-**5.** Read off from ℒ having dimension 4, as in Lesson 25.
+**5.** (α/3π)log((91×10⁹/5.11×10⁵)²)≈(1/1290)×log((1.78×10⁵)²)≈0.006, a 0.6% increase of α.
 
-**6.** The derivation's first step would not be available; the result would not follow.
+**6.** Muons, taus, and quarks also run the coupling.
 
-**7.** Part VIII supplies the tree process whose correction this is, or the kinematics.
+**7.** Nothing: m=m₀+A(m₀²) would still hold. Extra amplitudes would be added on top.
 
-**8.** Part IX supplies the loop integral being interpreted.
+**8.** 1057.845(9) MHz (Lundeen and Pipkin).
 
-**9.** Stated in the lesson: UV absorbed, IR cancelled inclusively, or finite prediction.
+**9.** Lesson 75, Section 3.
 
-**10.** The number or form in the introduction.
-
-**11.** The precision experiment named, or a scattering process at the relevant q².
-
-**12.** Full numerical integral, higher loops, or hadronic pieces, as the opening said.
-
-**13.** The diagram of the relevant lesson (vertex, vacuum polarization, or emission).
-
-**14.** Match symbols to e, m, A_μ, ψ as appropriate.
-
-**15.** A common overclaim is that the template slogans were already a derivation; this lesson is the derivation of the named relation only, at the stated order.
-
-**16.** The next order in α, or the next operator in an effective Lagrangian.
+**10.** 3[(2/3)²+(2/3)²+(−1/3)²]=3[4/9+4/9+1/9]=3= three times one electron, for u,c,t counted as two charge-2/3 and one charge-1/3 per generation. (A generation is one up-type, one down-type, times colour: 3[(2/3)²+(−1/3)²]=3(4/9+1/9)=5/3 of an electron.)
 
 # Mastery checklist
 
-- I can state this lesson's core relation and the lesson it depends on.
+- I can compare one-loop a_e with CODATA and name the missing 0.15%.
 
-- I can check a limit and name what is not computed.
+- I can state what this volume does and does not claim about 1057.8 MHz.
 
-- I can place the result among tree processes, loops, and measurements.
+- I can explain why the electron log underestimates α(M_Z).
+
+- I can say what a discrepancy would and would not overturn.

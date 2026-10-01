@@ -34,6 +34,13 @@ Lesson 44 first raised electron-positron annihilation into a photon as an exampl
 
 # 1 The process and its two diagrams
 
+FIG:
+ e^{-}(p1) ----*----------------*---- e^{+}(p2)     e^{-}(p1) ----*----------------*---- e^{+}(p2)
+               |                |                                 |                |
+              γ(k1)            γ(k2)                             γ(k2)            γ(k1)
+                 diagram A, t-channel                               diagram B, u-channel
+ENDFIG
+
 ## 1.1 The Wick contraction
 
 Following Lesson 49's method, at second order the interaction term e²[ψ̄γ^αψA_α](x₁)[ψ̄γ^βψA_β](x₂) contracts ψ(x₁) with the incoming electron (u(p₁)e^(−ip₁x₁), Lesson 48, Section 2.1), ψ̄(x₂) with the incoming positron (v̄(p₂)e^(−ip₂x₂), using ψ̄'s d-term per the corrected assignment of Lesson 48, Section 3.2), and A_α(x₁), A_β(x₂) with the two outgoing photons (ε_α(k₁)e^(ik₁x₁), ε_β(k₂)e^(ik₂x₂), Lesson 48, Section 4.2). The remaining fields, ψ̄(x₁) and ψ(x₂), contract into the internal propagator S_F.
