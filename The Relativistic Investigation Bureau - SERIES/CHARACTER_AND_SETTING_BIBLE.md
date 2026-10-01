@@ -12,7 +12,7 @@ Reference only — not for publication. Compiled 2026-09-24 from what's actually
 - **Sound**: voice that barely changes register regardless of the news it carries — *"I've been murdered"* and *"would you like tea"* land almost identically. Reads as either extremely calm or extremely alarming depending how well you know him.
 - **Smell**: [not established]
 - **Attitude**: dry, deflects with humour, methodical under absurd pressure. Goes very still when thinking (established via Sophie's intro as an inherited trait — don't restate it at his own intro, it's meant to land as a quiet reveal there).
-- **Family**: father to Sophie (12), cousin to Penny, ex to Tuppence. Tabitha: shut-door evenings by the end of Book 1; in Book 2 he says so, she kisses him once, and the office door is left open on purpose. Do not restart them as strangers. See `SERIES_SEAM.md`.
+- **Family**: father to Sophie (12), cousin to Penny, ex to Tuppence. Tabitha: shut-door evenings by the end of Book 1; in Book 2 he says so, she kisses him once, and the office door stays open because the platform is in the hinge. He would not have shut her out if it could. Do not restart them as strangers. See `SERIES_SEAM.md`.
 
 ### Penny Gent — Derek's cousin
 - **Looks**: dark coat, handbag, the expression of someone already bored with the morning. "Striking brunette" was removed from Book 1. Do not put it back.
