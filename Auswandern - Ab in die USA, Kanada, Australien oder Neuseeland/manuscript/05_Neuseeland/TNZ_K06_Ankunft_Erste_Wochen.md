@@ -9,6 +9,7 @@ Der Koffer ist noch nicht ausgepackt, der Langstreckenflug über Dubai oder Sing
 > - Zugang zum öffentlichen Gesundheitssystem hast du erst mit einem Visum für mindestens zwei Jahre oder als Resident – die *ACC* (die staatliche Unfallversicherung) deckt dagegen von der ersten Minute an jeden in Neuseeland ab.
 > - Organisiere SIM-Karte und Internet früh, idealerweise schon vor dem Abflug.
 > - Buche die erste Unterkunft nur als flexible Übergangslösung; die eigentliche Wohnungssuche läuft am besten vor Ort.
+> - Hund oder Katze: Deutschland ist ein zugelassenes Herkunftsland, aber du brauchst Importgenehmigung, Tollwut-Bluttest und mindestens zehn Tage Quarantäne. Der Container wird genauso geprüft wie der Rucksack.
 
 ### Einreise: NZTD, Zoll und Biosecurity
 
@@ -16,7 +17,7 @@ Vor dem Abflug – frühestens 24 Stunden davor, spätestens vor der Passkontrol
 
 Direkt nach der Passkontrolle folgt die Biosecurity-Prüfung durch das *Ministry for Primary Industries* (MPI, das Ministerium für Grundstoffindustrien, zuständig unter anderem für Biosicherheit). Neuseeland zählt zu den Ländern mit der strengsten Einfuhrkontrolle für Lebensmittel, Pflanzen, Holzprodukte und gebrauchte Outdoor-Ausrüstung weltweit – aus gutem Grund: Ohne nennenswerte natürliche Fressfeinde reagiert das Inselökosystem empfindlich auf eingeschleppte Schädlinge. Wanderschuhe mit Erdresten, Camping-Ausrüstung, Honig, frisches Obst oder auch nur eine offen angebrochene Tüte Nüsse gehören auf die Erklärung, ganz gleich, wie harmlos sie wirken. Speziell trainierte Spürhunde patrouillieren am Gepäckband und finden zuverlässig, was in der Eile vergessen wurde. Ehrliches Deklarieren kostet höchstens ein paar Minuten Nachfrage; Verschweigen kann teuer werden.
 
-> **Achtung:** Die Biosecurity-Kontrolle gilt für jedes Familienmitglied und jedes Gepäckstück einzeln. Ein einzelner vergessener Apfel im Rucksack der Kinder reicht, um die ganze Familie in die längere Kontrollspur zu schicken – deklariere lieber einmal zu viel als zu wenig.
+> **Achtung:** Das MPI prüft jedes Gepäckstück, nicht nur deins. Ein vergessener Apfel schickt die Familie in die lange Spur. Deklariere lieber zu viel. Die ausführliche Haustier- und Containerregel steht weiter unten in diesem Kapitel, nicht in der Apfelkontrolle.
 
 Vom Flughafen geht es meist per Shuttle, Taxi, Fahrdienst oder Mietwagen weiter; in Christchurch, Auckland und Wellington sind die Stadtzentren jeweils nur eine kurze Fahrt entfernt. Wechsle nur so viel Bargeld wie nötig am Flughafenschalter – die Kurse dort sind selten die besten –, den Rest erledigst du bequemer über Karte oder das neue Konto.
 
@@ -36,13 +37,9 @@ Bei erfolgreicher Online-Verifizierung kommt die IRD-Nummer meist innerhalb von 
 
 > **Achtung:** Mehrere unabhängige Quellen berichten übereinstimmend, dass Banken und Arbeitgeber ohne vorliegende IRD-Nummer Zinsen und bestimmte Zahlungen mit einem hohen pauschalen „No-notification“-Satz einbehalten müssen; der exakte Prozentsatz und Anwendungsbereich ließen sich nicht abschließend an der offiziellen IRD-Quelle verifizieren. Verlasse dich sicherheitshalber nicht auf eine bestimmte Zahl, sondern beantrage die Nummer schlicht so früh wie möglich – das kostet nichts und erspart im Zweifel eine unangenehme erste Gehaltsabrechnung.
 
-### Bankkonto: am besten schon vor dem Abflug vorbereitet
+### Bankkonto: was hier anders ist
 
-Für Gehalt, Miete und Alltag brauchst du ein neuseeländisches Bankkonto – und die gute Nachricht vorweg: ANZ bietet für die meisten Visumkategorien eine Kontoeröffnung bis zu 90 Tage vor der Einreise an, ASB lässt sich per App schon aus dem Ausland kontaktieren, sofern ein längerfristiges Visum vorliegt. Bei Westpac und BNZ ist laut mehreren Quellen eher ein persönlicher Filialbesuch üblich, wobei sich die genauen Abläufe der Banken immer wieder ändern. Nutze eine Vorab-Eröffnung, wenn deine Zielbank sie anbietet: Dann bist du vom ersten Arbeitstag an zahlungsfähig, statt in der turbulentesten Woche noch einen Filialtermin einzuschieben.
-
-Unabhängig vom Vorab-Status bleibt jedes Konto bis zur persönlichen Identitätsprüfung in einer Filiale – mit Pass, Visumsnachweis und einem neuseeländischen Adressnachweis – im reinen „Nur-Einzahlung“-Modus: Geld kommt rein, aber Überweisungen, Karte und Online-Banking funktionieren erst nach der Verifizierung vor Ort. Auch ohne IRD-Nummer und ohne feste Adresse lässt sich meist ein Übergangskonto eröffnen; reiche die IRD-Nummer aber zügig nach, sonst greift bei Zinserträgen der oben beschriebene hohe Vorsteuersatz. Wie du dir eine neuseeländische Kreditwürdigkeit aufbaust und welche Bank sich für dich lohnt, vertieft das [Kapitel zu Steuer-ID, Bank und Kredit in diesem Teil](#tnz07).
-
-> **Spartipp:** Vergleiche vor der Wahl der Bank gezielt die Kontoführungsgebühren für Neuankömmlinge – einige Institute bieten befristete gebührenfreie Pakete an, die im Kleingedruckten der Newcomer-Seiten stehen, nicht auf der allgemeinen Startseite.
+Die gemeinsamen Schritte stehen im kanadischen Ankunftskapitel: vor dem Abflug online anfangen, in der Filiale ausweisen, deutsche Bonität zählt nicht. Anders ist hier der Weg zur Bank. ANZ bietet für die meisten Visumkategorien eine Eröffnung bis zu 90 Tage vor der Einreise. ASB lässt sich per App aus dem Ausland anstoßen, wenn das Visum länger läuft. Bei Westpac und BNZ ist nach mehreren Quellen eher der Filialbesuch der Weg. Die Abläufe ändern sich. Bis zur Prüfung mit Pass, Visumsnachweis und neuseeländischem Adressnachweis bleibt das Konto im Modus „Nur Einzahlung“: Geld kommt rein, Überweisung, Karte und Online-Banking nicht. Auch ohne IRD-Nummer und ohne feste Adresse geht meist ein Übergangskonto. Reich die IRD-Nummer nach, sonst gilt bei Zinsen der hohe Vorsteuersatz aus dem vorigen Abschnitt. Gebührenfreie Newcomer-Pakete stehen auf den Newcomer-Seiten der Bank, nicht auf der Startseite. Den Kreditaufbau vertieft das [Kapitel zu Steuer-ID, Bank und Kredit in diesem Teil](#tnz07).
 
 Auch der Beitritt zu KiwiSaver ist in den ersten Wochen meist noch kein Thema: Berechtigt sind nur Personen mit einem unbefristeten Aufenthaltsrecht, also in aller Regel erst ab einem Resident-Visum. Wer mit AEWV oder Working Holiday einreist, ist von KiwiSaver zunächst ausgeschlossen, selbst wenn der Arbeitsvertrag über Jahre läuft – das holst du nach, sobald ein Daueraufenthaltstitel vorliegt, nicht vorher.
 
@@ -58,7 +55,7 @@ Ganz anders die *Accident Compensation Corporation* (ACC): Dieses staatliche No-
 
 ### SIM-Karte und Internet
 
-Deutsche Mobilfunktarife bieten für Neuseeland in aller Regel kein EU-Roaming, und wer das erst am Gepäckband merkt, zahlt für die ersten Anrufe unangenehm viel. Praktischer ist eine *eSIM* (eine rein digitale SIM-Karte) mit Neuseeland-Datenpaket, eingerichtet schon vor dem Abflug, oder eine physische Prepaid-SIM direkt nach der Landung – erhältlich an Kiosken im Ankunftsbereich, in Supermärkten oder bei den Netzbetreibern selbst. Die drei großen Netze sind Spark, One NZ (früher Vodafone New Zealand) und 2degrees; alle drei betreiben eigene Mobilfunknetze mit guter Abdeckung in den Städten, während abgelegenere Regionen der Südinsel stellenweise dünner versorgt sind. Wer besonders auf den Preis schaut, findet bei Skinny – der Billigmarke von Spark – günstige Prepaid-Tarife ganz ohne Bonitätsprüfung. Behalte deine deutsche Nummer als Zweit-SIM, solange dort noch Bestätigungscodes von Bank oder deutschen Behörden eintreffen.
+Das Grundmuster steht im australischen Ankunftskapitel: kein EU-Roaming, eSIM oder Prepaid, deutsche Nummer als Zweit-SIM. In Neuseeland heißen die Netze Spark, One NZ und 2degrees. Abseits der Städte, vor allem auf der Südinsel, wird die Abdeckung dünner. Skinny, die Billigmarke von Spark, ist der Prepaid-Weg ohne Bonitätsprüfung.
 
 ### Die erste Unterkunft: Übergang und Wohnungssuche
 
@@ -82,6 +79,24 @@ Die folgende Übersicht ordnet die wichtigsten Schritte grob nach Zeitpunkt – 
 
 > **Praxisbeispiel:** Paul Lindner reist mit seinem bereits genehmigten Skilled Migrant Category Resident Visa nach Auckland, zunächst für zwei Wochen in ein möbliertes Apartment mit Wochenpreis gebucht. Am zweiten Tag holt er seine vorab online bestellte eSIM ab, am dritten Tag beantragt er über myIR seine IRD-Nummer – bestätigt zwei Tage später. Da er als Resident-Visum-Inhaber sofortigen Zugang zum öffentlichen Gesundheitssystem hat, meldet er sich noch in derselben Woche an. Die Wohnungssuche beginnt er bewusst erst, nachdem Bankkonto und erster Gehaltsnachweis stehen – eine Reihenfolge, die ihm bei der Bewerbung um eine WG-Wohnung in Ponsonby merklich hilft. (Fiktives Beispiel.)
 
+### Hund, Katze und der Container
+
+Der Apfel in Lottas Rucksack war eine kurze Zusatzkontrolle. Der Hund, den Petra als Tierärztin selbst „schon irgendwie durchbekommt“, ist ein anderes Verfahren. Neuseeland lässt Hunde und Katzen nur aus Ländern ein, die das *Ministry for Primary Industries* (MPI) zugelassen hat. Deutschland steht auf dieser Liste. In der aktuellen Einteilung fällt es in Kategorie 3: Tollwut gilt als nicht vorhanden oder gut kontrolliert. Die Kategorie kann sich ändern. Schau sie im Länderverzeichnis der MPI nach, bevor du einen Transport buchst, nicht in einem Blog, der Europa in eine Zeile packt.
+
+Für Kategorie 3 ist eine Importgenehmigung Pflicht, und der Antrag ist kein leeres Formular. Dazu gehören die Tollwut-Impfunterlagen, das Ergebnis eines *Rabies Neutralising Antibody Titre Test* (RNATT), das *Category 3 Rabies Certification Form* und eine unterschriebene Buchungsbestätigung für die Quarantäne. Ohne den Quarantäneplatz gibt es die Genehmigung nicht, auch wenn alle Impfungen stimmen. Nach der Ankunft bleiben Hund und Katze mindestens zehn Tage in einer von der MPI zugelassenen Einrichtung. Das ist nicht eine einzelne staatliche Station wie Mickleham in Australien; es gibt mehrere zugelassene Anbieter, mit eigenen Preisen, Besuchsregeln und Wartezeiten auf einen Platz. Die Gebühr der MPI und den Tagessatz der Station nenne ich hier nicht: Beides steht auf den aktuellen Seiten, und beides ändert sich.
+
+Für Katzen nennt der behördliche Leitfaden für Kategorie 3 zwei Schwellen, die Familien oft zu spät lesen: Das Tier muss am Reisetag mindestens neun Monate alt sein, und es muss mindestens sechs Monate – oder seit der Geburt – in einem zugelassenen Land gelebt haben. Hunde haben im selben *Import Health Standard* eigene Altersregeln und eine Liste ausgeschlossener Rassen. Lies beide, bevor du den Flug der Familie an den des Tieres hängst. Die Einreise ist nicht über jeden internationalen Flughafen möglich; die zugelassenen Orte stehen im Standard. Stell den Antrag so früh, wie die MPI-Seite es verlangt, nicht in der Woche vor dem Abflug.
+
+> **Achtung:** Genehmigung, Bluttest und Quarantänebuchung sind ein Paket. Wer nur die Impfung im Impfpass hat und den Platz in der Station „vor Ort klärt“, reist ohne Hund.
+
+> **Praxisbeispiel:** Petra Krüger (fiktiv), Tierärztin, kannte den RNATT aus der Praxis in Rostock und hielt den neuseeländischen Weg deshalb für Formsache. Die Buchung der Quarantänestation bei Christchurch hatte aber erst in elf Wochen einen Platz, und die Importgenehmigung ließ sich ohne diese Bestätigung nicht abschicken. Der Hund blieb bei Petras Eltern, die Familie flog zum Schulbeginn der Kinder. Petra sagt später, der teure Teil sei nicht die Station gewesen, sondern die Wochen, in denen sie in Christchurch einen Hund erklärt hat, der noch in Rostock auf dem Sofa lag.
+
+Dasselbe Prinzip gilt für den Container, nur ohne Quarantänetage auf der Rechnung. Das MPI prüft unbegleitetes Umzugsgut auf dasselbe, was der Beagle am Flughafen sucht: Lebensmittel, Honig, Samen, Erde an Wanderschuhen und Zelten, unbehandeltes Holz. Eine Beanstandung kann Reinigung bedeuten, und die zahlst du, während die Kiste liegt. Ob gebrauchter Hausrat zollfrei hereinkommt, entscheidet der New Zealand Customs Service nach den aktuellen Regeln für Menschen, die ihren Wohnsitz verlegen. Schwellen gehören auf diese Seite, nicht in einen Ratgeber. Pässe, Visumsbestätigungen und Zeugnisse gehören ins Handgepäck.
+
+> **Spartipp:** Die ersten Wochen in einer möblierten Übergangswohnung brauchst du keinen deutschen Kleiderschrank. Was die Kinder vermissen, geht als Luftfracht. Der Container lohnt sich erst, wenn die Adresse feststeht und die Kisten ohne Erdreste gepackt sind.
+
+> **Merke:** Neuseeland ist bei Hund und Katze näher an Australien als an Kanada: zugelassen heißt nicht einfach. Genehmigung, Bluttest und mindestens zehn Tage Quarantäne sind der Normalweg aus Deutschland.
+
 ### Plus und Minus
 
 | Plus | Minus |
@@ -90,6 +105,7 @@ Die folgende Übersicht ordnet die wichtigsten Schritte grob nach Zeitpunkt – 
 | IRD-Nummer oft innerhalb weniger Tage bestätigt | Bankkonto bis zur Filial-Identifizierung nur im Einzahlungsmodus |
 | ACC deckt jeden ab der ersten Minute bei Unfällen ab | Öffentliches Gesundheitssystem erst ab zweijährigem Visum oder Residency |
 | SIM-Karten und Prepaid-Tarife unkompliziert, ohne Bonitätsprüfung | Wohnungssuche in Auckland und Wellington spürbar kompetitiv |
+| Hund und Katze aus Deutschland sind grundsätzlich einfuhrfähig | Importgenehmigung, RNATT und mindestens zehn Tage Quarantäne |
 
 ### Was jetzt zu tun ist
 
@@ -105,13 +121,16 @@ Fülle die NZTD rechtzeitig vor dem Abflug aus und kläre vorab, welche Bank ein
 > - [ ] Eigene Berechtigung fürs öffentliche Gesundheitssystem anhand der Visumdauer geprüft
 > - [ ] Bei fehlender Berechtigung: private Übergangsversicherung ab Ankunftstag aktiv
 > - [ ] Bewerbungsunterlagen für die Wohnungssuche zusammengestellt (Gehaltsnachweis, Referenzen, Ausweis)
+> - [ ] Bei Hund oder Katze: Kategorie Deutschlands bei der MPI geprüft, RNATT und Quarantänebuchung da, Importgenehmigung beantragt
+> - [ ] Container ohne Lebensmittel, Samen, Erde und unbehandeltes Holz gepackt; Zollregeln für Wohnsitzverlegung beim Customs Service geprüft
 
 ### Quellen und weiterführende Links
 - New Zealand Customs Service — New Zealand Traveller Declaration: [travellerdeclaration.govt.nz](https://travellerdeclaration.govt.nz)
 - Ministry for Primary Industries — Biosecurity bei der Einreise: [mpi.govt.nz](https://mpi.govt.nz)
+- Ministry for Primary Industries — Import Health Standard Cats and Dogs, Kategorien und Quarantäne: [mpi.govt.nz](https://www.mpi.govt.nz)
 - Inland Revenue Department — IRD-Nummer für Neuankömmlinge: [ird.govt.nz](https://ird.govt.nz)
 - Immigration New Zealand — Zugang zum Gesundheitssystem: [immigration.govt.nz](https://immigration.govt.nz)
 - Tenancy Services — Kaution und Mietrecht: [tenancy.govt.nz](https://tenancy.govt.nz)
 - Deutsche Botschaft Wellington und Honorarkonsulate: [wellington.diplo.de](https://wellington.diplo.de)
 
-> **Stand:** 23.09.2026. Diese Angaben ändern sich schnell: die genauen Bedingungen der NZTD, Bankkonditionen für Neuankömmlinge, die Höhe des „No-notification“-Steuersatzes ohne IRD-Nummer sowie die Zwei-Jahres-Schwelle beim öffentlichen Gesundheitssystem. Prüfe vor der Einreise die aktuellen Seiten des New Zealand Customs Service, des Inland Revenue Department und von Immigration New Zealand.
+> **Stand:** 23.09.2026. Diese Angaben ändern sich schnell: die genauen Bedingungen der NZTD, die Länderkategorie und die Quarantäneregeln für Hunde und Katzen, Bankkonditionen für Neuankömmlinge, die Höhe des „No-notification“-Steuersatzes ohne IRD-Nummer sowie die Zwei-Jahres-Schwelle beim öffentlichen Gesundheitssystem. Prüfe vor der Einreise die aktuellen Seiten des New Zealand Customs Service, des MPI, des Inland Revenue Department und von Immigration New Zealand.

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Assemble Lothar's Holistic Brain Farts from the condensed markdown fragments.
+"""Assemble The Universe Keeps the Books from the condensed markdown fragments.
 
 Usage: python build_almanac.py [output.docx]
 The table of contents is written directly into the file as hyperlinked entries
@@ -54,12 +54,7 @@ PARTS = [
      "In which numbers behave themselves rather better than anything else in this book. Every "
      "equation quietly stripped out of Parts I and II is hiding in here somewhere, fully "
      "dressed and considerably less embarrassed.",
-     ["06_math_tower.md",
-      (BRIDGE, "The Mathematics Tower just walked through these twenty ideas floor by floor, in "
-               "order. What follows covers much of the same ground a second time, topic by "
-               "topic rather than storey by storey — worth keeping both passes, since a "
-               "subject rarely sticks the first time it's explained."),
-      "07_math_topics_a.md"]),
+     ["06_math_tower.md"]),
     ("Part IV — Electrical Engineering & QED",
      "In which electrons are persuaded to do useful things, mostly by asking nicely. This is "
      "Part III's mathematics, put to work paying rent.",
@@ -73,10 +68,8 @@ PARTS = [
      "Where the plot pauses so someone can explain relativity. Consider it proof that a fair "
      "chunk of Part I can survive being smuggled into a joke.",
      ["10_novel_appendices.md",
-      (BRIDGE, "Appendices are where a novel apologizes for having stopped to teach you "
-               "something. What follows is where it never bothered to stop at all — the "
-               "same physics, still in motion, hiding inside scenes that were nominally about a "
-               "murder."),
+      (BRIDGE, "The lectures just above are the course. What follows keeps only the scenes "
+               "that are not that course a second time."),
       "11_novel_narrative_science.md"]),
 ]
 
@@ -424,20 +417,20 @@ def linkify_document():
 def build(out_path):
     doc = docx.Document()
     setup_styles(doc)
-    doc.core_properties.title = "Lothar's Holistic Brain Farts"
+    doc.core_properties.title = "The Universe Keeps the Books"
     doc.core_properties.author = "Lothar J. Musiol"
     doc.core_properties.comments = "An almanac of highlights compiled from the author's non-fiction catalog."
 
     # Title page
     flush_left(doc.add_paragraph(), space_before=170, align=WD_ALIGN_PARAGRAPH.CENTER)
-    t = doc.paragraphs[-1].add_run("Lothar's Holistic Brain Farts")
+    t = doc.paragraphs[-1].add_run("The Universe Keeps the Books")
     t.bold = True
     t.font.size = Pt(34)
     t.font.name = HEADLINE_FONT
     t.font.color.rgb = HEADLINE_COLOR
     flush_left(doc.add_paragraph(), space_before=24, italic=True, align=WD_ALIGN_PARAGRAPH.CENTER,
-               text="An Almanac of Everything Lothar J. Musiol Has Written (So Far),\n"
-                    "Compressed Into Highlights", size=15)
+               text="Physics, life, mathematics, and history.\n"
+                    "The same few rules, told in highlights.", size=15)
     flush_left(doc.add_paragraph(), space_before=90, align=WD_ALIGN_PARAGRAPH.CENTER,
                text="Lothar J. Musiol", size=14)
     doc.add_page_break()
@@ -526,24 +519,8 @@ def build(out_path):
     # Afterword
     heading(doc, 1, "Afterword")
     BODY_PARAGRAPHS.append((doc.add_paragraph(
-        "Six parts, one set of underlying regularities, looked at from six different "
-        "distances: Part III writes them out in plain sentences. Part I is what they do to "
-        "matter and energy. Part II is what they do to matter and energy that has started "
-        "keeping records of itself. Part IV is that same fluency put to work building "
-        "things on purpose. Part V is the audit of what got built with it. Part VI is what "
-        "happens when someone decides that audit needed a body count and a decent joke "
-        "every few pages."
-    ), {}))
-    BODY_PARAGRAPHS.append((doc.add_paragraph(
-        "Six distances, not six rungs, though — it isn't a set of directions for reading "
-        "them. The Foreword's invitation to skip around holds exactly as much at this page "
-        "as it did at the first: whichever Part you started with, or finished with, was "
-        "never wrong."
-    ), {}))
-    BODY_PARAGRAPHS.append((doc.add_paragraph(
-        "None of this was meant to be exhaustive, and several hundred thousand words of the "
-        "source material didn't make the cut. What's here is the highlight reel — the "
-        "parts worth remembering after the details fade, which is, admittedly, most of them."
+        "Where an idea was explained once and then explained again with a different picture, "
+        "the second copy is gone. The long books are still the long books."
     ), {}))
 
     # Auto-link 'Part N', book titles, and 'Chapter/Storey/Lesson N' cross-references

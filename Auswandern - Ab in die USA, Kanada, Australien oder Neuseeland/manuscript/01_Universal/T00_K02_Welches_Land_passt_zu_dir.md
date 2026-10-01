@@ -114,6 +114,22 @@ So könnte das in der Praxis aussehen: Wer als Gewichtung die automatische Gesun
 
 Landen am Ende zwei Länder mit einer sehr ähnlichen Summe nebeneinander, ist das kein Rechenfehler, sondern ein ehrliches Ergebnis: Beide passen ungefähr gleich gut zu deinen Prioritäten, zumindest auf dieser groben Ebene. In diesem Fall helfen drei Fragen weiter, die keine Tabelle beantworten kann. Erstens: Bei welchem der beiden Länder-Teile in diesem Buch fällt dir beim Lesen ein konkreterer, realistischerer nächster Schritt ein – ein Formular, eine Stadt, ein Ansprechpartner? Zweitens: Kennst du bereits jemanden, der in einem der beiden Länder lebt und mit dem du einmal ehrlich sprechen könntest, bevor du dich festlegst? Drittens: Welches der beiden Ergebnisse überrascht dich mehr – und was sagt diese Überraschung über eine Priorität aus, die du in der Scorecard vielleicht zu niedrig gewichtet hast? Ein Unentschieden ist selten ein Zeichen dafür, dass die Entscheidung unmöglich ist; meistens zeigt es nur, dass ein Kriterium fehlt, das dir wichtiger ist, als du zunächst dachtest. Manchmal löst sich ein scheinbares Patt auch von selbst, sobald ein einzelner, sehr persönlicher Punkt dazukommt, den keine Tabelle vorwegnehmen kann – ein Jobangebot, das nur in einem der beiden Länder auf dem Tisch liegt, oder die Erkenntnis, dass eines der beiden Länder für deinen Beruf ein deutlich einfacheres Anerkennungsverfahren hat als das andere.
 
+### Welche der vier Länder passt zu dir, wenn die Tabelle schweigt
+
+Die Scorecard oben gewichtet Systeme. Diese fünf Fragen schneiden danach weg, was zu dir nicht passt. Sie ersetzen die Tabelle nicht. Sie verhindern, dass eine hohe Summe ein Land rettet, das an einer einzigen Tatsache scheitert.
+
+**Reglementierter Beruf.** Willst du als Ärztin, Pfleger, Lehrerin, Ingenieurin mit Unterschriftsrecht oder in einem lizenzierten Gewerk arbeiten, ist das Visum der kürzere Vorgang. Die USA behandeln die Lizenz in Kapitel 19. Kanada, Australien und Neuseeland haben je ein Kapitel zur Anerkennung deutscher Berufsabschlüsse. Wenn du den deutschen Titel in den ersten Monaten brauchst, ist keines der vier Länder ein schneller Weg. Ein Land, in dem du in der Zwischenzeit nur eine nicht geschützte Tätigkeit findest, kann trotzdem passen. Eine eigene Praxis im ersten Jahr passt nicht.
+
+**Sprache.** Englisch trägt die USA, Australien, Neuseeland und den größten Teil Kanadas. Québec verlangt für geschützte Berufe und oft für den Alltag Französisch. Wer das nicht mitbringt und Montréal als Selbstverständlichkeit plant, plant an der Provinz vorbei. Ein Sprachtest fürs Visum ist keine Lizenz und kein Alltag.
+
+**Familie.** Wer innerhalb eines Tages bei pflegebedürftigen Eltern sein muss, sortiert Australien und Neuseeland aus. Die Flugzeit steht weiter unten in diesem Kapitel. Sie ist kein Stimmungsbild, sondern eine Erreichbarkeit. Kanada und die Ostküste der USA bleiben anstrengend, aber sie sind kein Tagesverlust durch die Datumsgrenze.
+
+**Zeit.** Ein Working-Holiday-Visum ist ein befristetes Reinschnuppern, kein Umzug. Die Altersgrenze hängt am Programm. Subclass 417 für deutsche Pässe nach Australien ist nicht das Germany Working Holiday Visa nach Neuseeland. Beide Grenzen stehen auf der Behördenseite des jeweiligen Programms. Wer darüber liegt, hat diesen Seiteneingang nicht und sollte ihn nicht aus dem anderen Land importieren.
+
+**Klima.** Wer einen harten, langen Winter nicht will, sollte Kanada und den Norden der USA nur mit einer konkreten Stadt prüfen, nicht als Land. Wer Buschfeuer, Zyklon oder Erdbeben nicht einplanen will, sollte die Kapitel zu Wohnen und Sicherheit lesen, bevor die Scorecard Australien oder Neuseeland nach vorn rechnet. Die Tabelle lässt die Klimazeile absichtlich leer. Diese Frage füllt sie nicht mit einer Scheinpunktzahl.
+
+> **Merke:** Ein Land, das bei Steuern gewinnt und bei Beruf, Sprache oder Familie verliert, ist kein Kompromiss. Es ist der falsche Kandidat. Streich ihn, auch wenn die Summe hoch war.
+
 ### Was dieser Vergleich nicht ersetzt
 
 Diese Scorecard ist bewusst grob. Sie kann kein konkretes Jobangebot, keine bereits dort lebende Familie und keine sehr persönliche Präferenz ersetzen, die sich in keiner Tabelle abbilden lässt. Sie ist ein Startpunkt zur Eingrenzung auf ein oder zwei Favoriten – nicht das letzte Wort. Sobald du eine Vorauswahl getroffen hast, lohnt sich die volle Tiefe des jeweiligen Länder-Teils: konkrete Visumswege, Städte, Kosten und die typischen Fallen, die diese Übersicht nicht zeigen kann.
@@ -121,6 +137,7 @@ Diese Scorecard ist bewusst grob. Sie kann kein konkretes Jobangebot, keine bere
 Nimm dir für das Ausfüllen bewusst Zeit und mach es nicht nebenbei am Handy. Die Gewichtung in der zweiten Spalte ist der eigentlich schwierige Teil dieser Übung, nicht die Multiplikation danach: Die meisten Menschen haben ein diffuses Gefühl, dass ihnen „irgendwie alles wichtig“ ist, bis sie gezwungen werden, Prioritäten tatsächlich gegeneinander abzuwägen. Wenn du mit Partner oder Familie ausfüllst, lohnt es sich, die Gewichtung zunächst getrennt vorzunehmen und die Ergebnisse erst danach zu vergleichen – große Abweichungen bei einzelnen Kriterien sind oft aufschlussreicher als die fertige Summe selbst.
 
 > **Checkliste:**
+> - [ ] Die fünf Fragen zu Beruf, Sprache, Familie, Zeit und Klima beantwortet und unpassende Länder gestrichen
 > - [ ] Eigene Prioritäten in der Scorecard gewichtet (1–5 je Kriterium)
 > - [ ] Alle vier Länder-Ergebnisse ausgerechnet und verglichen
 > - [ ] Eigene, hier nicht abgebildete Kriterien ergänzt (Jobangebot, Familie, Freunde vor Ort)

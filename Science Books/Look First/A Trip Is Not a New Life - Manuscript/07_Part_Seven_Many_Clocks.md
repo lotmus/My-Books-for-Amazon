@@ -4,37 +4,24 @@ The camp has been priced. The classroom was the bills a poster skips. The long t
 
 ## 27. Her Hands Still Age
 
-The airlock sticks on cold mornings. She hits it with the heel of her glove, the way you hit a jammed kitchen drawer, and it sighs. Inside, the greenhouse is the only room that smells like a lie: wet soil, torn basil, a sweetness that does not belong to this planet. The lie is maintained with LEDs and a tray of water she melted, yesterday, from a vein of ice the color of dirty chalk.
-A capsule arrives on the same delay as the orbiter’s voice. Twenty minutes, or four, depending on the week. The label is optimistic. A small paragraph about support and maintenance and a season that can still be used. Her hands are not optimistic. The knuckles have begun to look like a map of a place she has already walked. The joint that used to open a jar without a thought now asks for a meeting.
-She takes the dose because a joint that still works is a local win, and local wins are the only kind biology has ever reliably sold. She does not become a different species. She names the basil, which is sentimental, and logs the pH, which is not. On a dead world, sentiment is allowed as long as it does not get to vote.
+The same glove. A new invoice.
+
+Mara’s airlock still sticks. She already hit it, in Chapter 1, and the seal already sighed. What arrives on the delay this morning is a capsule. The label is optimistic. A small paragraph about support and maintenance and a season that can still be used. Her hands are not optimistic. The knuckles have begun to look like a map of a place she has already walked. The joint that used to open a jar without a thought now asks for a meeting.
+
+She takes the dose because a joint that still works is a local win, and local wins are the only kind biology has ever reliably sold. She does not become a different species. She names the basil, which is sentimental, and logs the pH, which is not. On Mars, sentiment is allowed as long as it does not get to vote.
 
 Figure 27. Working hands over a basil tray in hard light; a plain blister at the edge. The dose is local. The hands are still the hands.
-This is the only honest picture of “the future of us” this book will allow in the near term. Not a downtown on a poster. Not a thousand-year ape with a product number. A body you can weigh. A chemistry you can bully. A radio that is late on purpose. A useful season, if the invoice clears.
-The rest of the book is about what that scene is not allowed to launder.
-People meet a capsule and promote it.
-The promotion has a few favorite costumes. The dose becomes a species change. The gene becomes a fountain. The brain becomes a cupboard with ninety percent still in the wrapping. The last fifty years of gadgets become a ruler you can lay across ten thousand years of unnamed furniture. Each costume is useful to someone who sells keys. None of them is a measurement.
-This book will keep a kitchen habit about claims. Every sentence that matters wears a temperature.
-Hot means established: measured, repeated, used to predict the next measurement. Her hands age. That is hot. A pulse can embarrass a wall clock for a long evening in a chair, and those extra years are not the same pot as years you would vote to repeat. That split is hot. The sentence we only use ten percent of our brain is false. That correction is hot. In a growing list of cases, a broken instruction in a lineage of cells can be reached and corrected, and the lineage keeps the correction. That class of win is hot.
-Warm means a working account with real gaps. Aging is many clocks, not one fuse. The clocks have names and papers. A single switch that resets the kitchen is not on the counter. Modest further gains in healthy years this century, in rich-country medicine, if the institutions that run trials and pay invoices still exist. Progress that rises, drunk, and then meets a wall more often than it rises forever. Whatever is invented will still pay energy, coordination, and the body’s bills.
-Cold means a wish allowed by talk, not selected by present levers. A body-wide rewind. A scheduled product at 150 years, or 200, or 1,000. Unlocking a hidden full brain. Last fifty × 200 = the year 12,000’s kitchen. A file that is you, running forever. A required last mind at the end of time. Progress as a law that fires if we wait.
-A claim can change temperature. A local edit that was a clever paper can become a clinic. A fountain does not become a clinic because the local edit did. The laundering is the sport this book is here to spoil.
-If you have Volume 1 of this series, you have already met the temperatures on a different kitchen clock — the one that pretended the universe shared a now. You do not need those pages. The hygiene travels. The leftover glow does not. We will not reopen that courtroom.
-If you have never met the temperatures, you have them now. Use them on the capsule. Use them on the slide. Use them on the sentence that says DNA as if DNA were a tap.
-She is an invented person. The numbers around her are not invented.
-Worldwide, on the most recent count anyone has bothered to run properly, something like 595 million people carry osteoarthritis in some joint, and roughly 194 million of those cases sit in the hands specifically — hers is not a rare complaint, it is one of the most common diagnoses a human body ever files. A human joint is cartilage, bone, a little sac of fluid, a staff of cells that keep a surface honest. The staff gets worse at the job. Inflammation writes graffiti. The surface pits. Pain is not a metaphor. Pain is a measurement the nervous system makes and will not stop making because a label was optimistic. A drug that lowers the graffiti, or a lubricant the body will accept, or a replacement that a surgeon can bolt in, is a local win. Local is the word that has to sit still.
-Local means this tissue, this season, this invoice — not a reset of the house.
-The same woman still copies DNA with a small error rate. She still shortens the little caps on the ends of chromosomes — the long strands of coiled DNA inside a cell — in the lineages that divide. She still runs mitochondria that leak and forget. She still keeps an immune system that has learned too many grudges and forgotten some of its tact. She still accumulates cells that refuse to die and then spoil the room. She still wears grooves in a brain that has been on duty since the first language she learned. Chapter 29 is those clocks. Chapter 27 is the refusal to let one useful dose pretend it wound them all back.
-Look first.
-That rule, in Volume 1, meant do not plague a dark sea because you were lonely for a cousin. Here it means a narrower, ruder thing: do not overwrite a genome, or a childhood, or a morning you already know how to staff, because a slide said enhancement. The slide is a cue. The carrot that makes a cue feel like a feast has no off-switch. Chapter 36 teaches the loop. You do not need a prior book to take the warning. If a capsule arrives with a sermon attached — this is the first day of the new species — put the sermon down and keep the joint, if the joint is what you paid for.
-She logs the pH because the dirt has a chemistry, and the chemistry can be bullied, and bullying is a measurement. Sentiment names the basil. Sentiment does not get to vote on whether the tray is too alkaline. The future of the body is the same kitchen. You can name the hope. You log the clocks.
-A word about helium, so we do not waste it later.
-Helium, in this series, is the thing a slide wants you to treat as already on the loading dock: immortality, a downtown on a dead world as a product this decade, a required mind at the end of time, a spare brain in the cupboard, a straight line to furniture we cannot name. Helium is cold when it is sold as scheduled. Useful seasons are not helium. A hearing aid is not helium. A vaccine that closed a room of death is not helium. A sickle-cell-class edit that lets a person walk without a crisis is not helium. Those are tools. Tools have invoices. Helium is what you wait for instead of hitting the airlock.
-She does not wait for helium. She hits the airlock. The rest of this book is the argument that this is not small-mindedness. It is the only size biology has ever reliably sold.
-Local is a pharmacist word before it is a slide word. A dose that keeps a joint useful for a season is a win with a blister and a delay. It is not a species change. Marketers borrow the noun and promote it until the hands look like a footnote. Put the hands back in the frame. They still age. That is hot. The capsule may buy a Tuesday she would vote to repeat. It will not buy helium. On a dead world, sentiment may name the basil. Sentiment does not get to vote. Log the pH. Hit the airlock. Take the local win. Walk past every colder costume that tries to launder it into a fountain.
+
+Worldwide, on the most recent count anyone has bothered to run properly, something like 595 million people carry osteoarthritis in some joint, and roughly 194 million of those cases sit in the hands specifically. Hers is not a rare complaint. It is one of the most common diagnoses a human body ever files. A human joint is cartilage, bone, a little sac of fluid, a staff of cells that keep a surface honest. The staff gets worse at the job. Inflammation writes graffiti. The surface pits. Pain is not a metaphor. Pain is a measurement the nervous system makes and will not stop making because a label was optimistic. A drug that lowers the graffiti, or a lubricant the body will accept, or a replacement that a surgeon can bolt in, is a local win. Local is the word that has to sit still.
+
+Local means this tissue, this season, this invoice. It does not mean a reset of the house.
+
+The same woman still copies DNA with a small error rate. She still shortens the little caps on the ends of chromosomes, the long strands of coiled DNA inside a cell, in the lineages that divide. She still runs mitochondria that leak and forget. She still keeps an immune system that has learned too many grudges and forgotten some of its tact. She still accumulates cells that refuse to die and then spoil the room. She still wears grooves in a brain that has been on duty since the first language she learned. Chapter 29 is those clocks. This chapter is the refusal to let one useful dose pretend it wound them all back.
+
+Temperatures, and the word helium, are already in How to Read. Use them on the capsule. A useful season is not helium. A sermon that calls the dose the first day of a new species is helium. Put the sermon down and keep the joint, if the joint is what she paid for. Priya’s hands, on the coast, are starting to ask for the same kind of meeting. The letter about that meeting is still ahead of her.
+
 Appendix A27 writes what “local” has to mean when a pharmacist and a marketer share a noun. Here, keep the hands. They still age. That is the first hot fact. Everything colder will have to walk past it.
-Where the popular version goes wrong.
-The slide sells a dose as a new body. Look first: the hands, after the useful repair, still aging.
-Rule: Hands still age after a useful dose. Take the local win. Put helium down.
+
 
 ## 28. Lifespan Is Not Healthspan
 
@@ -65,9 +52,6 @@ A woman who has already reached eighty, in a lucky kitchen, is often looking at 
 Life expectancy at birth jumped, in the last century, mostly because children stopped dying. That leap is hot, and it is mostly finished where the pipes, the vaccines, and the midwives already run. The fence on the right did not sprint with the average. A founder who hears eighties and prints 150 has changed pots. Ask which bar is on the invoice. The wall-clock bar can rise because a bed got better at not letting the pulse stop. The hatched bar rises only when the morning is one she would take again.
 
 Appendix A28 writes life expectancy against healthy life expectancy, the 122-year tail, and why a methylation number is not a second pot. Here, keep the two bars.
-Where the popular version goes wrong.
-The slide stretches the wall clock and calls the stretch health. Look first: the decade left at eighty, and how many of those mornings she would vote to repeat.
-Rule: Lifespan is not healthspan. Want mornings you would vote to repeat, not a longer evening in a chair.
 
 ## 29. Many Clocks, Not One Fuse
 
@@ -98,9 +82,6 @@ Because one fuse is a product. Many clocks are a clinic, a budget, a set of loca
 A filter, not a craftsman. Bodies that lasted long enough to copy were bodies that spent the repair budget on the reproductive years and not on an infinite warranty. There is no committee that chose seventy as a moral. There is a mesh that did not pay for a 200-year ape because a 200-year ape was not the cheaper way to get the next copy. That is not a purpose. It is why a fountain would have to fight a staffing decision that is older than agriculture.
 She can take a capsule that helps a joint and still be running the other clocks. The basil does not care. The pH log does not care. A shout at telomeres does not rewind the immune grudges. A clearance of senescent cells in a knee does not unclump a protein in a hippocampus. This is not pessimism. It is the reason local wins are worth taking and sermons are worth putting down.
 Appendix A29 writes the dish-division range, the hallmark table, the mouse-to-human translation problem. Here, keep the six clocks and the crossed-out fuse. If a founder shows you one knob, ask which five they left in the drawer.
-Where the popular version goes wrong.
-The slide offers one knob for the kitchen. Look first: which five clocks stayed in the drawer.
-Rule: Aging is many clocks, not one fuse. A shout at one clock does not reset the kitchen.
 
 ## 30. Every Clock Has a Cousin
 
@@ -134,10 +115,6 @@ Temperatures, applied to comparative biology.
 Hot: at least four real lineages combine an ordinary vertebrate or near-vertebrate body with a hazard of death that stays flat, runs on a multi-century clock, or resets after damage; the mole-rat mechanism has already been moved into a mouse and measurably helped it.
 Warm: more species will likely turn out to combine other tricks with other costs; comparative biology is an active field, not a closed inventory.
 Cold: that one of these tricks is a suppressed answer waiting for funding, transferable to a human body without also transferring the burrow, the ocean, the reset, or the size.
-Where the popular version goes wrong.
-The slide holds up an animal and asks why we don’t just have what it has, as if evolution left a working part on the shelf out of neglect. Look first: ask what the animal gave up to get that part, and whether the part was ever separable from the whole animal it belongs to.
-Appendix A30 keeps the four citations and the exact numbers. Here, keep the four clocks: a flat hazard bought with a molecule and a burrow, a slow hazard bought with cold and patience, a reset bought with identity, a plain hazard bought with size. None of them is one switch.
-Rule: Other species did not skip the bill. They just wrote it in a different currency.
 
 ## 31. Local Fixes
 
@@ -164,9 +141,6 @@ She will not get a CRISPR for being fifty-eight and having hands. She might, in 
 Delivery is the unpaid invoice of every headline that says CRISPR as if the word were a method for forever. This tissue, this lineage, this conditioning regimen, this zip code that can reach a trial site: that is local. A sickle-cell-class win is hot as a class. A body-wide rewind stays cold. Do not let a hot door launder a cold house. Mara takes a capsule for a joint. She does not become a different species, and she does not become proof that her sister on the coast gets the same dose.
 Scissors with paperwork: consent, a delivery vector, an off-target worry, a marrow wipe that can kill on the way to a save. Headline CRISPR is incense for a conference. A class-of-edit is a door in one room of one house. Clinics keep score in adverse events and follow-up years, not in applause. Do not remodel the cosmos because one latch moved. Local. Tissue. Invoice. Keep saying those three until the fountain slides look cheap.
 Appendix A31 writes the sickle-cell-class schematic, the delivery problem, and why “CRISPR” in a headline is not a method for helium. Here, print the sentence again. Gene fixes are local. Keep it.
-Where the popular version goes wrong.
-The slide says the name of a cutter and means everyone. Look first: this gene, this tissue, this invoice.
-Rule: Gene fixes and tools are local. A fountain is cold. Keep the invoice on the counter.
 
 ## 32. The Reset That Isn’t
 
@@ -197,10 +171,6 @@ Temperatures, applied to reprogramming.
 Hot: a cyclic, all-four-protein schedule extended lifespan in a mouse model of one severe aging-mimicking defect; a partial, three-protein version restored a younger DNA-methylation pattern and function in specific mouse tissue; a human safety trial for the three-protein approach, aimed at one organ, exists as of January 2026.
 Warm: the same approaches may extend to other organs, other kinds of damage, and ordinary aging rather than one genetic defect, over the coming decade; partial reprogramming by either route is an active, well-funded research program, not a dead end.
 Cold: whole-body reprogramming, a reprogramming pill, or reprogramming as a general reversal of aging rather than a local repair of one tissue’s readable record.
-Where the popular version goes wrong.
-The slide shows the mouse eye photograph and calls it proof that aging is reversible, full stop, coming soon. Look first: ask which factor was left out on purpose, which organ took the injection, and how many years sit between the photograph and the trial it is standing in for.
-Appendix A32 keeps the four papers, the dates, and the dose problem in more detail. Here, keep the fence: a partial nudge back, held short of the door marked identity lost, tested first in the one organ that can fail alone.
-Rule: The record is partly recoverable. The cell is not a document with an undo button.
 
 ## 33. Not a Fountain
 
@@ -232,7 +202,5 @@ A mouse can be made to live a noticeable fraction longer. A diet. A drug. A cage
 The translation rule is dull and sufficient. A result that moves a mouse fence is a paper. It becomes a human product only when a trial measures walking, memory, and hospitalization in people, and even then only as a local door with a price. Modest further healthy years, in the kitchens that already run trials, stay warm. A scheduled 150, 200, or 1,000 stays cold. She will not let the cage rent the halo. She will take the capsule if the joint is the door it actually opens, and she will leave the master key on the table.
 
 Appendix A33 writes cancer as a plural, vascular risk as a ledger, neurodegeneration as a set of overlapping messes, and why a mouse that lived longer is not a woman who will. Here, keep the house with three stuck doors. Chapter 31 unstuck one. That was honest. This chapter is the honesty that follows.
-Where the popular version goes wrong.
-The slide holds up the one unstuck door and photographs it as the whole house. Look first: ask how many other doors the disease has, and whether the mouse in the photograph was ever asked to live a human Tuesday.
 Rule: A local fix is not a remodel. Cancer, plumbing, and the long goodbye are still three stuck doors.
 

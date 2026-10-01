@@ -45,7 +45,6 @@ function smartenQuotes(text) {
 // immediately above it.
 const TOC_ENTRIES = [
   { type: "front", title: "Prologue: A Different Way of Thinking" },
-  { type: "front", title: "Author's Note" },
   { type: "front", title: "What's Mead, What's Feynman, What's New Here" },
   { type: "part", title: "PART ONE — Phase, Not Force" },
   { type: "chapter", title: "1. The Invisible Interaction" },
@@ -79,7 +78,7 @@ const TOC_ENTRIES = [
   { type: "part", title: "PART SEVEN — Geometry, Symmetry, Vacuum" },
   { type: "chapter", title: "24. Charge Is the Price of Changing Phase Locally" },
   { type: "chapter", title: "25. Why the Classical Path Wins" },
-  { type: "chapter", title: "26. Magnetism Is Relativity in Disguise" },
+  { type: "chapter", title: "26. Magnetism, Light, and Empty Space" },
   { type: "chapter", title: "27. The Phase Can Wind" },
   { type: "part", title: "PART EIGHT — Following an Electron" },
   { type: "chapter", title: "28. The Equation Behind the Conversation" },
@@ -110,6 +109,9 @@ const TOC_ENTRIES = [
   { type: "chapter", title: "48. Epilogue: The Law Becomes Visible" },
   { type: "back", title: "Appendix A: Equations at a Glance" },
   { type: "back", title: "Appendix B: Notes on Sources" },
+  { type: "back", title: "Appendix C: Glossary" },
+  { type: "back", title: "Appendix D: Index" },
+  { type: "back", title: "Appendix E: Symbols, Numbers, and Distinctions" },
   { type: "back", title: "If This Book Worked for You" },
   { type: "back", title: "Also by Lothar J. Musiol" },
   { type: "back", title: "About the Author" },

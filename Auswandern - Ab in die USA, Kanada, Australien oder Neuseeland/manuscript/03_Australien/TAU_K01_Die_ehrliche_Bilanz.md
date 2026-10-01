@@ -48,6 +48,10 @@ Für alle, die dauerhaft bleiben, ist die Rechnung freundlicher: Das Guthaben w�
 
 Schon vor dem ersten Gehaltseingang verlangt Australien Vorleistungen. Ein Skilled-Visum (Subclass 189, 190 oder 491) kostet an reiner Antragsgebühr rund 6.135 AUD für den Hauptantragsteller, ein arbeitgebergesponsertes Skills-in-Demand-Visum (482) rund 4.015 AUD. Dazu kommen für jedes Visum eine Gesundheitsuntersuchung (rund 150 bis 400 AUD pro Person), Führungszeugnisse aus jedem Land mit mehr als zwölf Monaten Aufenthalt seit dem 16. Geburtstag, oft ein kostenpflichtiger Sprachtest und, je nach Beruf, eine Kompetenzbewertung durch eine anerkannte Fachstelle (*Skills Assessment*, etwa Engineers Australia oder den Australian Computer Society) – deren Gebühren und Fristen von Berufsverband zu Berufsverband stark schwanken. Für eine vierköpfige Familie kommen so leicht mehrere Zehntausend AUD zusammen, bevor überhaupt ein Flug gebucht ist. Details zu den einzelnen Wegen, ihren Fristen und Kosten stehen im [nächsten Kapitel dieses Teils](#tau02).
 
+Was in dieser Rechnung fast immer fehlt, ist der Kalender, nicht die nächste Gebühr. Ein Container mit gebrauchtem Hausrat ist nach Australien kein normaler Überseeumzug. Lebensmittel, Samen, Erde an Schuhen und Campingzeug sowie unbehandeltes Holz lösen bei der Biosicherheitskontrolle Rückfragen aus, und eine Beanstandung kann Reinigung auf deine Kosten bedeuten, während die Kiste im Hafen steht. Ob gebrauchtes Umzugsgut zollfrei hereinkommt, entscheidet die Australian Border Force nach ihren aktuellen Regeln für unbegleitetes persönliches Umzugsgut; Schwellen ändern sich, deshalb steht hier kein Betrag.
+
+Noch enger wird der Kalender mit Hund oder Katze. Deutschland ist für die Einfuhr nach Australien ein zugelassenes Herkunftsland der Gruppe 3. Das *Department of Agriculture, Fisheries and Forestry* (DAFF) selbst sagt: Plane mindestens sechs Monate ein. Das Tier muss vor der Ausfuhr mindestens 180 Tage am Stück in einem zugelassenen Land gelebt haben – das ist keine Quarantäne, der Hund wohnt in dieser Zeit bei dir –, danach wartet in Mickleham bei Melbourne eine echte Quarantäne von mindestens 30 Tagen, verkürzbar auf mindestens 10, wenn die Identität vor dem Tollwut-Bluttest amtlich geprüft wurde. Gebühren für Genehmigung und Quarantäneplatz nennt nur die DAFF-Seite. Wer den Flug bucht und das Tier „irgendwie nachschickt“, verliert nicht ein Wochenende, sondern ein halbes Jahr. Der Ablauf steht im [Kapitel zur Ankunft in diesem Teil](#tau06).
+
 > **Praxisbeispiel:** Familie Reinhardt (fiktiv) rechnete vor der Entscheidung zweimal nach. Thomas' Punktestand von 85 lag komfortabel über dem gesetzlichen Minimum von 65 – realistisch für einen Bauingenieur mit einigen Jahren Berufserfahrung und solidem Englisch. An Antragsgebühren, Gesundheitschecks und Führungszeugnissen für die ganze Familie kamen dennoch über 10.000 AUD zusammen, bevor die erste Gehaltsabrechnung in Melbourne überhaupt existierte. Auf der Habenseite stand: Als Inhaber eines permanenten Visums waren Thomas, Sandra, Emil und Clara ab dem Tag der Einreise bei Medicare angemeldet – die monatelange Versicherungslücke, die viele befristete Visa-Inhaber überbrücken müssen, blieb ihnen erspart.
 
 ### Was sich nicht in AUD messen lässt
@@ -84,6 +88,7 @@ Rechne, bevor du dich entscheidest, mit deinen eigenen Zahlen: Trage dein voraus
 > - [ ] Geklärt, ob und wie lange eine private Zusatzversicherung bis zum Medicare-Zugang nötig ist
 > - [ ] Lebenshaltungskosten am konkreten Zielort, nicht nur den Landesdurchschnitt, recherchiert
 > - [ ] Überlegt, wie die Superannuation im Fall einer späteren Rückkehr nach Deutschland zu bewerten ist
+> - [ ] Bei Hund oder Katze den halben Jahr Vorlauf und die Quarantäne in Mickleham als eigenen Posten eingeplant, nicht als Nachgedanke zum Flug
 
 ### Quellen und weiterführende Links
 - Department of Home Affairs — Visa-Gebühren und Bearbeitungszeiten ([immi.homeaffairs.gov.au](https://immi.homeaffairs.gov.au))
@@ -92,5 +97,6 @@ Rechne, bevor du dich entscheidest, mit deinen eigenen Zahlen: Trage dein voraus
 - Australian Taxation Office — Superannuation und Departing Australia Superannuation Payment ([ato.gov.au](https://ato.gov.au))
 - OECD — Taxing Wages, Steuerkeil-Vergleich ([oecd.org](https://oecd.org))
 - Numbeo — Lebenshaltungskosten im Städtevergleich ([numbeo.com](https://numbeo.com))
+- Department of Agriculture, Fisheries and Forestry — Einfuhr von Hunden und Katzen ([agriculture.gov.au/cats-dogs](https://www.agriculture.gov.au/cats-dogs))
 
 > **Stand:** 23.09.2026. Visagebühren wurden zum 1. Juli 2026 um rund 25 % angehoben, Steuerstufen und Freibeträge werden jährlich angepasst, und die Working-Holiday-Regeln ändern sich 2026 mehrfach (Altersgrenze, Losverfahren für das zweite Jahr). Prüfe vor jeder Entscheidung die aktuellen Werte auf immi.homeaffairs.gov.au und ato.gov.au.

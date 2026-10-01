@@ -3,22 +3,22 @@
 Reference file for editorial work on `The_Permitted_Options_BOOK_2_DRAFT.docx` in this folder.
 Shared facts for every book in the series are in `../SERIES_BIBLE.md`. Read that before changing a person, a place, a date, or a physics claim.
 Read this first for Book 2's file. Only open the manuscript for a passage you are actually changing.
-If the live file is no longer 2071 paragraphs, the index map below is stale. Re-read the file and update this guide.
+If the live file is no longer 1982 paragraphs, the index map below is stale. Re-read the file and update this guide.
 
-Verified 30 September 2026. Typeset as a book after the cast scenes.
+Verified 30 September 2026. The novel reads straight through. The lectures follow Q.E.D.
 
 ## Live file
 
 `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_DRAFT.docx`
 
-2071 paragraphs, including a three-line title page. Styles were Body Text, First Paragraph, Heading 3, Heading 2, Source Code, and Author before the title page was added.
-Straight quotes and straight apostrophes: 0. Curly double quotes: 1362 open, 1362 close, 0 unbalanced paragraphs.
-Bookmarks `ch00`–`ch15` are Chapter One through Chapter Sixteen, in that order. Ten glossary hyperlinks use those anchors.
-Heading 2 count of 34 is the check: 16 chapter titles, 16 `Physics` headings, `Glossary`, `Bibliography`.
+1982 paragraphs, including a three-line title page. Styles in use include Body Text, First Paragraph, Heading 3, Heading 2, Source Code, and Author.
+Straight quotes and straight apostrophes: 0. Curly double quotes: 1359 open, 1359 close, 0 unbalanced paragraphs.
+Bookmarks `ch00`–`ch15` are Chapter One through Chapter Sixteen. Lecture bookmarks are `lectures` and `lec00`–`lec15`. Glossary terms and the lecture list use those anchors. Eight bibliography entries carry a stable DOI or arXiv link.
+Heading 2 count of 35 is the check: 16 chapter titles, `The Lectures`, 16 `Lecture. Chapter` titles, `Glossary`, `Bibliography`. There is no Heading 2 called `Physics`.
 
 ## Book format
 
-The live file is a 6 by 9 inch book. Body text is Bookerly, 12pt, with a first-line indent and no gap between paragraphs. The first paragraph after a heading is not indented. Chapter titles, the glossary, and the bibliography are Amazon Ember, centered, in `#0C447C`, and each starts a new page. The scene title under a chapter is centered and italic. Lesson labels stay smaller and at the left. Physics stays with its chapter. The title page has no header and no page number. Later pages carry the title in the header and a page number in the footer.
+The live file is a 6 by 9 inch book. Body text is Bookerly, 12pt, with a first-line indent and no gap between paragraphs. The first paragraph after a heading is not indented. Chapter titles, `The Lectures`, each lecture title, the glossary, and the bibliography are Amazon Ember, centered, in `#0C447C`, and each starts a new page. The scene title under a chapter is centered and italic. Lesson labels inside a lecture stay smaller and at the left. The title page has no header and no page number. Later pages carry the title in the header and a page number in the footer.
 
 Do not put the working-draft spacing back (space before and after every paragraph). Do not remove the title page.
 
@@ -34,6 +34,7 @@ Do not put the working-draft spacing back (space before and after every paragrap
 | `bak/The_Permitted_Options_BOOK_2_DRAFT.before-story-restore.docx` | Review cuts and glossary, before Gideon and the name restore. |
 | `bak/The_Permitted_Options_BOOK_2_DRAFT.before-cast-scenes.docx` | Live file before Jago, Mrs Chain, Vale, and the Duc came on. |
 | `bak/The_Permitted_Options_BOOK_2_DRAFT.before-book-format.docx` | Cast scenes in, before the book typesetting. |
+| `bak/The_Permitted_Options_BOOK_2_DRAFT.before-score-raise.docx` | Typeset novel with a lecture still inside each chapter. Do not copy it over the live file. |
 | `bak/Ministry - Book 2 (original RTF).rtf` | Abandoned Neville/Weinstein draft. Not a source for names or plot. |
 
 Use a snapshot to recover a deleted sentence. Do not copy a snapshot over the live file.
@@ -47,19 +48,25 @@ Removed from the reader's copy on purpose:
 - "Stop. Before you go on"
 - Continuity notes
 - Chapter previews that say "looks like"
+- "You need first"
+- "When you walk out, you should be able to"
+- "Start here."
+- "The idea, step by step."
 
-The novel's last two story paragraphs are Body Text, not headings: "The Permitted Options ends here…" and "Q.E.D." A deletion that runs until the next heading will swallow them. Stop before those two paragraphs.
+The novel's last two story paragraphs are Body Text, not headings: "The Permitted Options ends here…" and "Q.E.D." They sit immediately after Chapter Sixteen and immediately before `The Lectures`. A deletion that runs until the next heading will swallow them. Stop before those two paragraphs.
 
 Kept on purpose:
 
 - In-story physics explanations
-- "You need first", "When you walk out, you should be able to", and "What the reader learns" (16 of each)
-- Lesson headings say `Physics` and `What the reader learns`. They do not say `Physics and mathematics` or `What sticks`.
+- The lectures, after Q.E.D., one to a chapter, in chapter order
+- "What the reader learns" and "Going deeper", inside the lectures
+- Lesson headings say `Lecture. Chapter …` and `What the reader learns`. They do not say `Physics`, `Physics and mathematics`, or `What sticks`.
 
 ## Back matter
 
-After Q.E.D.: Heading 2 `Glossary`, then Body Text entries, then Heading 2 `Bibliography`, then Body Text sources.
-Glossary terms link to chapter bookmarks. If you insert a paragraph after `Glossary` or `Bibliography`, set its style to Body Text. Those headings' paragraph properties clone onto the next insert, and a Heading 2 entry becomes its own Kindle chapter.
+After Q.E.D.: Heading 2 `The Lectures`, a Body Text door, sixteen linked chapter lines, then `Lecture. Chapter One` through `Lecture. Chapter Sixteen`, then Heading 2 `Glossary`, then the entries, then Heading 2 `Bibliography`.
+The lecture list and the glossary terms are Body Text. The line under `Glossary` that begins "Terms the story uses" is First Paragraph. If you insert a paragraph after any of these headings, set its style to Body Text. A Heading 2 entry becomes its own Kindle chapter.
+Do not reverse this block. An earlier save had every lecture paragraph backwards; the reading order above is the one to keep.
 
 ## Names and dates in the live file
 
@@ -77,7 +84,7 @@ Book 1 places and voices: `Book 1 - Schrodingers Paperwork/CHARACTER_AND_PLACE_G
 
 He is in the live draft. Eighteen paragraphs use his name, and the introduction uses Wigglesworth. Do not insert these scenes again.
 
-Chapter 3 order is fixed and easy to break: "He could not come in" opens the chapter (Thursday evening, Eilstein). The stair tea comes later. "Gideon had cleaned the Cheltenham earth overnight" comes after "We were in the shadow of something" and before that chapter's `Physics` heading, and that paragraph is Body Text.
+Chapter 3 order is fixed and easy to break: "He could not come in" opens the chapter (Thursday evening, Eilstein). The stair tea comes later. "Gideon had cleaned the Cheltenham earth overnight" comes after "We were in the shadow of something" and before Chapter Four, and that paragraph is Body Text.
 
 Scenes already sit after these anchors:
 
@@ -108,6 +115,9 @@ Do not insert these again. Order is part of the sense.
 - Mrs Elspeth Chain comes on the Tuesday after Fainrose says "Get her in." and before "Mrs Susie Kind arrived". She does not sit inside the Sunday letter. Lolly crosses "resolved" off Ellen Prosper's cover and clips a card: speak to her, not to the trace. She does not alter the trace.
 - Crispin Vale comes after "Beatrix has got one," and before "On the way to the session". Lolly minutes that he came anyway and refused to sign away the fourteen. She does not forgive him.
 - The Duc de Broccoli comes in after Esaki's car leaves and before "He just did to Chapter One". He keeps the path. Esaki keeps the wave. The room does not choose. Chapter 15 does not settle it.
+- Detective Inspector Albert Priddy is on the landing after the Chapter Nine backlog and before "Gideon was in the corridor with the coat". He closes the criminal file on the fourteen and does not close Ellen. His carbon is clipped beside Mrs Chain's card. He keeps his own umbrella.
+- Werner Heisenburger stands at the back of the Schwarzschild reading, before "Eilstein, summoned again". He will not name a second building until a dial moves. He carries nothing and leaves no scent.
+- Erich Schrottfinger comes up after the transit motion and before "the last piece of the department". The box has air holes and nothing in it. He refuses to be the cat in the file.
 - On the ninth of February, Ellen's card is still on the outside of the file, after "Fourteen tunnelled,".
 
 ## Gödel
@@ -136,34 +146,37 @@ PowerShell breaks on the apostrophe in `Lolly Wren's`. Put the script under `C:\
 
 Inserting after a paragraph copies that paragraph's style. After a Heading, set Body Text on the new paragraph or it enters the contents.
 
-## Chapter map (2071 paragraphs)
+## Chapter map (1982 paragraphs)
 
-Indexes include the title page. Chapter One is the first chapter heading.
+Indexes include the title page. Chapter One is the first chapter heading. Chapter Two follows Chapter One's last story line, "Nothing local at all."
 
 These indexes move as soon as anyone inserts or deletes. Anchors above are the stable ones.
 
 | Heading | Index |
 |---|---|
 | Chapter One | 4 |
-| Chapter Two | 134 |
-| Chapter Three | 275 |
-| Chapter Four | 437 |
-| Chapter Five | 580 |
-| Chapter Six | 734 |
-| Chapter Seven | 872 |
-| Chapter Eight | 1003 |
-| Chapter Nine | 1127 |
-| Chapter Ten | 1219 |
-| Chapter Eleven | 1335 |
-| Chapter Twelve | 1473 |
-| Chapter Thirteen | 1618 |
-| Chapter Fourteen | 1768 |
-| Chapter Fifteen | 1854 |
-| Chapter Sixteen | 1948 |
-| Glossary | 2042 |
-| Bibliography | 2054 |
+| Chapter Two | 101 |
+| Chapter Three | 206 |
+| Chapter Four | 333 |
+| Chapter Five | 440 |
+| Chapter Six | 558 |
+| Chapter Seven | 662 |
+| Chapter Eight | 756 |
+| Chapter Nine | 840 |
+| Chapter Ten | 909 |
+| Chapter Eleven | 988 |
+| Chapter Twelve | 1084 |
+| Chapter Thirteen | 1184 |
+| Chapter Fourteen | 1295 |
+| Chapter Fifteen | 1348 |
+| Chapter Sixteen | 1416 |
+| The Lectures | 1486 |
+| Lecture. Chapter One | 1504 |
+| Lecture. Chapter Sixteen | 1929 |
+| Glossary | 1949 |
+| Bibliography | 1965 |
 
-Each `Physics` heading is the Heading 2 between that chapter's story and the next chapter.
+`The Lectures` is the first Heading 2 after Q.E.D. Lecture. Chapter One is the next lecture heading. Lecture. Chapter Sixteen is the last. Nothing called `Physics` sits between a chapter and the next.
 
 ## Book 1, if you are in both
 

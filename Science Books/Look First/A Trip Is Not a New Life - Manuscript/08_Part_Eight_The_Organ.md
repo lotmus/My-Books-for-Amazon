@@ -28,9 +28,6 @@ Hot as a correction means you do not get to dress the myth back up as a future. 
 She does not have ninety percent of a mind in the cupboard. She has a morning, a radio delay, a basil plant, a joint that may take a capsule, and an organ that has been paying twenty percent since before she learned the names of the herbs. The organ is why she can name them. It is not waiting for a password to start.
 About two percent of mass, about twenty percent of resting energy: that bill is not how a miser keeps a dark warehouse. Lesions teach the same lesson from the other side — lose a piece and a function fails; there was no spare loft labeled ninety percent. Quiet voxels are not off-duty cupboards. Idle-looking is not unlocked potential. You already use the organ. Tools and sleep and other people are how you meet new work, not a password to a tank.
 Appendix A34 writes the energy fraction, the lesion logic, and why a quiet voxel is not a spare tank. Here, if you take one thing, take the bill. A miser does not keep a dark warehouse at those rates. You already use the organ.
-Where the popular version goes wrong.
-The slide offers a password to an unused ninety percent. Look first: the energy bill of an organ that is already on duty.
-Rule: We already use the organ. The ten-percent sentence is false. Hot as a correction.
 
 ## 35. Cognitive Enhancement, Two Temperatures
 
@@ -58,9 +55,6 @@ Look first before you overwrite a childhood because a slide said enhancement. A 
 She uses checklists because memory is a staff, not a miracle. She sleeps in a bunk that smells faintly of basil and dust because the organ has a night shift. She does not wait for a chip to make the radio delay shorter. The delay is light. Light is late on purpose. A mind that is already on duty can still be a mind that uses a notebook.
 A toolbox is not a confession of defeat. Writing that holds a day, checklists that catch a miss, hearing aids that return a room, scored pills that land on time, closed-loop stimulators that quiet a tremor, a cochlear code a brain must relearn for months: local restorations with scars and schedules. Cold is the empty tank labeled ninety percent, as if the label filled it. Warm is the trade-off you can name out loud. Hot is the false ten-percent sentence that dies every time it is printed and somehow returns in the next pitch deck, because a lockpick needs a lock. Keep the toolbox. Evict the loft. Take the tool if the Tuesday votes for it. Put the spare-tank sermon down before it hires the carrot.
 Appendix A35 writes sleep, hearing, stimulants, and implants as tools with invoices. Here, keep the toolbox.
-Where the popular version goes wrong.
-The slide sells a spare mind. Look first: which tool gives back a lost function, and which tool promises a tank that was never there.
-Rule: Cognitive tools have two temperatures. Restoration can be warm; unlocking a spare tank stays cold.
 
 ## 36. The Carrot Has No Off-Switch
 
@@ -91,7 +85,5 @@ She wants the basil to live. That is a loop. She logs the pH anyway. That is a t
 The honest upgrade, if you want the noun, is not a longer seek. It is more Tuesdays you would vote to repeat, with the seek still in the house, and a kitchen that knows the difference between a tool and a fake. Chapter 28 split the pots — lifespan in one, healthspan in the other. This chapter says why the pots get confused. The carrot will still be running at 80, and at 100, and at 122 if you are the tail. Plan the morning as if that were true. It is.
 Mismatch with more calendar is the polite name for a Pleistocene wanting-loop living in a body the savannah never budgeted for. Wanting stamps; liking is another juice; the off-switch was never on the hiring plan. Sugar, feeds, slots, slides that say enhancement: same family, same mechanism, the cue turned up until it outbids the thing. Look first. A longer healthspan without loop hygiene is more chase dressed as wisdom. Time bought without attention paid is not a win you would vote to repeat.
 Appendix A36 writes wanting against liking, and why more calendar is not an off-switch. Here, keep the loop.
-Where the popular version goes wrong.
-The slide calls more years a wiser life. Look first: the same seek loop, on a longer calendar.
 Rule: The carrot has no off-switch. A longer life is more calendar for the same loop. Look first.
 

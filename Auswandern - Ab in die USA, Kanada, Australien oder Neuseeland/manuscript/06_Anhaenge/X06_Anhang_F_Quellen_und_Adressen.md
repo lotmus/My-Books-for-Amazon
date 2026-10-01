@@ -156,6 +156,7 @@ Diese Liste bündelt die offiziellen und seriösen Adressen aus allen Kapiteln d
 | bmvg.de | Wehrdienst und Auslandsaufenthalt | Kapitel 16 |
 | bfaa.diplo.de | Apostillen für Bundesbehörden | Kapitel 19 |
 | bundesjustizamt.de | Führungszeugnis, Antrag aus dem Ausland | Kapitel 19 |
+| deutsche-rentenversicherung.de | Abkommensländer, Beratung vor dem Wegzug, für jedes Zielland einzeln | Deutschland vor dem Abflug |
 | zoll.de | Bargeld und Ausfuhr, Umzugsgut, Heimtiere, Übersiedlungsgut | Kapitel 20, 21, 22, 42 |
 | destatis.de | Statistisches Bundesamt, Wohnen und Mieten in Deutschland | Kapitel 3 |
 | bva.bund.de | Bundesverwaltungsamt, Mehrstaatigkeit und Beibehaltung | Kapitel 41 |
@@ -283,6 +284,7 @@ Die deutsche Botschaft sitzt in Washington, D. C.; für die übrigen Bundesstaat
 | college-ic.ca | College of Immigration and Citizenship Consultants, Register zugelassener Berater | Kanada: Einwanderung |
 | visa.vfsglobal.com/deu/de/can | Visa Application Centre Berlin | Kanada: Einwanderung |
 | cbsa-asfc.gc.ca | Canada Border Services Agency, Einreise | Kanada: Ankunft |
+| inspection.canada.ca/en/importing-food-plants-animals/pets | CFIA, Einfuhr von Hunden und Katzen | Kanada: Ankunft |
 | canada.ca/en/employment-social-development/services/sin.html | Social Insurance Number (SIN) beantragen | Kanada: Ankunft |
 | canada.ca/en/immigration-refugees-citizenship/services/work-canada | Work Permit, Arbeitgeberwechsel, Bridging Open Work Permit | Kanada: Arbeitswelt |
 | canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary/vulnerable-workers.html | Offenes Arbeitsvisum für gefährdete Arbeitnehmer | Kanada: Arbeitswelt |
@@ -359,6 +361,10 @@ Die deutsche Botschaft sitzt in Washington, D. C.; für die übrigen Bundesstaat
 | gistonline.ca | German International School Toronto | Kanada: Bildung |
 | vwgs.org, calgarygermanschool.com | Vancouver Westside German School, Calgary German Language School | Kanada: Bildung |
 | jobbank.gc.ca | Job Bank (ESDC): Stellensuche, Lebenslauf-Hilfe, Lohnvergleiche | Kanada: Arbeitswelt |
+| mcc.ca | Medical Council of Canada, Bewertung ausländischer Ärztinnen und Ärzte | Kanada: Anerkennung |
+| nnas.ca | National Nursing Assessment Service | Kanada: Anerkennung |
+| engineerscanada.ca | Überblick Ingenieurlizenz, die Lizenz erteilt die Provinz | Kanada: Anerkennung |
+| red-seal.ca | Red Seal, Vergleich kanadischer Gewerbeabschlüsse zwischen Provinzen | Kanada: Anerkennung |
 | ontario.ca/document/your-guide-employment-standards-act-0 | Employment Standards Act: Kündigungsfristen und Urlaub | Kanada: Arbeitswelt |
 | alberta.ca/employment-standards | Employment Standards Code Alberta | Kanada: Arbeitswelt |
 | bpb.de | Multikulturalismus in Kanada, Einordnung für Deutschland | Kanada: Alltag |
@@ -396,6 +402,7 @@ Die deutsche Botschaft sitzt in Ottawa; kanada.diplo.de führt zu den Generalkon
 | immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times | Visa-Bearbeitungszeiten und -prioritäten | Australien: Einwanderung |
 | portal.mara.gov.au | OMARA, Register der Migration Agents | Australien: Einwanderung |
 | abf.gov.au | Australian Border Force, Biosecurity und Zoll bei der Einreise | Australien: Ankunft |
+| agriculture.gov.au/cats-dogs | DAFF, Einfuhr von Hunden und Katzen, Gruppe 3, Quarantäne Mickleham | Australien: Ankunft |
 | homeaffairs.gov.au | Citizenship by Conferral: Voraussetzungen, Test, Gebühren, Residence Calculator | Australien: Staatsbürgerschaft |
 | bmi.bund.de | Staatsangehörigkeitsrecht, Reform 2024 | Australien: Staatsbürgerschaft |
 
@@ -458,6 +465,12 @@ Die deutsche Botschaft sitzt in Ottawa; kanada.diplo.de führt zu den Generalkon
 | education.nsw.gov.au | Term- und Ferientermine (Beispiel New South Wales) | Australien: Bildung |
 | uac.edu.au | Universities Admissions Centre, Erklärung und Berechnung des ATAR | Australien: Bildung |
 | fairwork.gov.au | National Employment Standards, Kündigungsfristen, Urlaub, Right to Disconnect | Australien: Arbeitswelt |
+| ahpra.gov.au | Ahpra, Registrierung Medizin und Pflege | Australien: Anerkennung |
+| amc.org.au | Australian Medical Council | Australien: Anerkennung |
+| anmac.org.au | ANMAC, Skills Assessment Pflege, nicht die Berufserlaubnis | Australien: Anerkennung |
+| aitsl.edu.au | AITSL, Skills Assessment Lehramt | Australien: Anerkennung |
+| engineersaustralia.org.au | Engineers Australia | Australien: Anerkennung |
+| tradesrecognitionaustralia.gov.au | Trades Recognition Australia | Australien: Anerkennung |
 | fwc.gov.au | Fair Work Commission: Unfair Dismissal, Mindestlohn, High Income Threshold | Australien: Arbeitswelt |
 | culturalatlas.sbs.com.au | SBS Cultural Atlas, Kommunikationsstil und Alltagskultur | Australien: Alltag |
 | australia.com | Tourism Australia, Alltag und Umgangsformen für Neuankömmlinge | Australien: Alltag |
@@ -496,6 +509,7 @@ Die deutsche Botschaft sitzt in Canberra, das für weite Teile des Landes zustä
 | iaa.govt.nz | Immigration Advisers Authority, Register zugelassener Berater | Neuseeland: Einwanderung |
 | travellerdeclaration.govt.nz | New Zealand Traveller Declaration | Neuseeland: Ankunft |
 | mpi.govt.nz | Ministry for Primary Industries, Biosecurity bei der Einreise | Neuseeland: Ankunft |
+| mpi.govt.nz (Import Health Standard: Cats and Dogs) | Einfuhr von Hunden und Katzen, Länderkategorie, Quarantäne | Neuseeland: Ankunft |
 | dia.govt.nz | Citizenship by Grant: Voraussetzungen, Gebühren, Staatskundetest | Neuseeland: Staatsbürgerschaft |
 | bmi.bund.de | Staatsangehörigkeitsrecht, Reform 2024 | Neuseeland: Staatsbürgerschaft |
 
@@ -555,6 +569,12 @@ Die deutsche Botschaft sitzt in Canberra, das für weite Teile des Landes zustä
 | education.govt.nz | Schulsystem, Term- und Ferientermine, ESOL-Förderung | Neuseeland: Bildung |
 | nzqa.govt.nz | New Zealand Qualifications Authority, NCEA, Reformpläne ab 2028 | Neuseeland: Bildung |
 | employment.govt.nz | Employment Relations Act, Holidays Act, Musterverträge, 90-Day Trial Periods | Neuseeland: Arbeitswelt |
+| mcnz.org.nz | Medical Council of New Zealand | Neuseeland: Anerkennung |
+| nursingcouncil.org.nz | Nursing Council of New Zealand | Neuseeland: Anerkennung |
+| teachingcouncil.nz | Teaching Council of Aotearoa New Zealand | Neuseeland: Anerkennung |
+| engineeringnz.org | Engineering New Zealand | Neuseeland: Anerkennung |
+| nzqa.govt.nz | NZQA, Einordnung von Abschlüssen, nicht jede Gewerbelizenz | Neuseeland: Anerkennung |
+| vetcouncil.org.nz | Veterinary Council of New Zealand | Neuseeland: Anerkennung |
 | era.govt.nz | Employment Relations Authority, Verfahren bei Personal Grievance | Neuseeland: Arbeitswelt |
 | legislation.govt.nz | Employment Relations (Trial Periods) Amendment Act 2023 | Neuseeland: Arbeitswelt |
 | seek.co.nz, trademe.co.nz/jobs | Stellenbörsen | Neuseeland: Arbeitswelt |

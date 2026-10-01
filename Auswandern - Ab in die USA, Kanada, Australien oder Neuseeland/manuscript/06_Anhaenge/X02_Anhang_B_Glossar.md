@@ -340,6 +340,6 @@ Dieses Buch erklärt englische Fachbegriffe bei ihrem ersten Auftreten im jeweil
 | Transitional Resident | steuerliche Befreiung für Neuankömmlinge auf die meisten ausländischen Kapital-, Miet- und Beteiligungseinkünfte, 48 Monate lang | Neuseeland: Steuer |
 | Trial Period | bis zu 90-tägige Probezeit ohne Kündigungsschutz, seit 2023 für jeden Arbeitgeber unabhängig von der Betriebsgröße möglich | Neuseeland: Arbeit |
 | Warrant of Fitness (WoF) | neuseeländisches Pendant zum TÜV, bei Verkauf höchstens einen Monat alt | Neuseeland: Führerschein |
-| Working Holiday Visa | befristetes Visum für 18- bis 30-jährige Deutsche ohne Jobangebot, bis zu 12 Monate, kein Weg zum Daueraufenthalt | Neuseeland: Einwanderung |
+| Working Holiday Visa | Germany Working Holiday Visa für deutsche Staatsangehörige. Altersgrenze zum Stand des Neuseeland-Kapitels 18 bis 30 Jahre, nur auf immigration.govt.nz verbindlich. Nicht die australische Subclass 417 (dort im Kapitel 18 bis 35 seit 1. Juli 2026). Kein Weg zum Daueraufenthalt | Neuseeland: Einwanderung |
 
 > **Stand:** September 2026. Gesetze, Formularnummern und Programmdetails ändern sich; prüfe bei einem konkreten Vorhaben die aktuelle Fassung auf der zuständigen Behördenseite.

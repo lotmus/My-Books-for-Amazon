@@ -115,7 +115,7 @@ Beginne mit einer ehrlichen Bestandsaufnahme: Alter, Beruf, Englischniveau, vorh
 > - [ ] Eigenes Alter in die Punktetabelle eingeordnet und geprüft, ob der Punktetest-Weg überhaupt offensteht
 > - [ ] Englischniveau realistisch eingeschätzt, ggf. Testtermin für IELTS oder einen gleichwertigen Test gebucht
 > - [ ] Geprüft, ob ein Jobangebot eines australischen Arbeitgebers realistisch erreichbar ist
-> - [ ] Working Holiday als möglichen ersten Schritt erwogen, falls unter 35 und noch unentschlossen
+> - [ ] Working Holiday als möglichen ersten Schritt erwogen, nur für Subclass 417 und nur im Rahmen, den dieses Kapitel nennt (18 bis 35 Jahre seit 1. Juli 2026). Die Grenze auf immi.homeaffairs.gov.au prüfen. Nicht das neuseeländische Working Holiday (18 bis 30 im dortigen Kapitelstand) übernehmen
 > - [ ] Studienvisum als Zwischenschritt geprüft, falls Punktzahl oder Abschluss noch nicht reichen
 > - [ ] [Kapitel zu Familie, Investor und Ruhestand in diesem Teil](#tau04) gelesen, falls kein eigener gefragter Beruf vorliegt
 > - [ ] Aktuelle Gebühren, Cut-offs und Bearbeitungszeiten direkt bei Home Affairs geprüft

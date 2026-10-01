@@ -18,11 +18,13 @@ Every claim in these pages wears one of three temperatures. The difference matte
 
 **Cold — speculation sold as inventory.** A city on the Moon or Mars this decade. Settlement as something you can buy by Friday. Leaving as a cleanup. A body-wide rewind. A scheduled 150-year or thousand-year ape. A hidden ninety percent of mind. Last fifty years times two hundred as the furniture of the year 12,000. A file that is you, forever. A required last mind at the end of time.
 
+Helium, in this book, is a cold product sold as if it were already on the dock: a scheduled immortality, a downtown by Friday, a spare mind, a straight line to furniture nobody can name. A hearing aid is not helium. A vaccine is not helium. A sickle-cell-class edit is not helium. Those are tools, and tools have invoices. Helium is what a slide asks you to wait for instead.
+
 A temperature can change. A stack that has flown is hotter than a rendering. A local gene fix that was a paper can become a clinic. A fountain does not get warmer because the local fix did. A slipped date is not, by itself, a con, and it is not destiny. It is an invoice the slide did not want to show.
 
 On one standing rule. **String theory, if it is named in this book, cannot currently be tested.** It will barely be named. Camps need dirt, delay, and dates. Bodies need clocks you can already count. Neither needs an extra dimension.
 
-A few scenes are stories: a woman on a Mars-like dead world, an airlock that sticks, basil under an LED, a radio that answers late, a capsule with an optimistic label, a meeting that tries to fuse three nouns. They are thought experiments with dirt on them. The numbers in them are real. The people are invented.
+A few scenes are stories: a woman on Mars, an airlock that sticks, basil under an LED, a radio that answers late, a capsule with an optimistic label, a meeting that tries to fuse three nouns. They are thought experiments with dirt on them. The numbers in them are real. The people are invented.
 
 The main chapters keep the math in the sentence. Numbered relations live in the Appendix. If you want the scaffolding, it is there. If you want the argument, you can finish the book without opening the back.
 

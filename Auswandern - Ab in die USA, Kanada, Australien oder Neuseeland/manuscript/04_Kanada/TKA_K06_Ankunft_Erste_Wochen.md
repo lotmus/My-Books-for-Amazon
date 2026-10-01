@@ -9,6 +9,7 @@ Der Koffer steht noch halb gepackt in der Ecke, der Jetlag hat sich noch nicht v
 > - Ob du sofort Zugang zur staatlichen Provinz-Krankenversicherung hast, hängt stark von der Provinz ab – Ontario ohne Wartezeit, andere Provinzen mit bis zu drei Monaten.
 > - Organisiere SIM-Karte und Internet früh, idealerweise schon vor dem Abflug.
 > - Buche die erste Unterkunft nur als flexible Übergangslösung; die eigentliche Wohnungssuche läuft besser vor Ort.
+> - Das eigene erwachsene Haustier aus Deutschland braucht in der Regel ein Tollwutzeugnis auf Englisch oder Französisch, keine monatelange Quarantäne. Welpen und der Container haben eigene Regeln.
 
 ### Einreise: CBSA und die eigentliche „Landung“
 
@@ -54,7 +55,7 @@ Für jede Wartefrist gilt dieselbe Empfehlung: eine private Übergangsversicheru
 
 ### SIM-Karte und Internet
 
-Deutsche Mobilfunktarife bieten für Kanada in aller Regel kein EU-Roaming, und wer das erst am Flughafen bemerkt, zahlt für die ersten Anrufe unangenehm viel. Praktischer ist eine *eSIM* (eine rein digitale SIM-Karte) mit Kanada-Datenpaket, eingerichtet schon vor dem Abflug, oder eine physische Prepaid-SIM direkt nach der Landung – erhältlich an Kiosken im Ankunftsbereich, in Drogerien und bei den Netzbetreibern selbst. Die drei etablierten Anbieter Rogers, Bell und Telus decken das Land am dichtesten ab, auch abseits der Großstädte, verlangen dafür aber meist höhere Preise als ihre eigenen Zweitmarken – etwa Fido, Koodo, Virgin Plus oder Chatr –, die auf demselben Netz laufen, jedoch günstiger und meist ganz ohne Bonitätsprüfung zu haben sind. Für den Anfang ist Prepaid die unkompliziertere Wahl; einen Laufzeitvertrag verlangt ohnehin oft eine kanadische Kreditkarte oder Bonitätsprüfung, die frisch Angekommene naturgemäß noch nicht vorweisen können. Behalte deine deutsche Nummer als Zweit-SIM, solange dort noch Bestätigungscodes von Bank oder deutschen Behörden ankommen.
+Das Muster steht einmal vollständig im australischen Ankunftskapitel und gilt hier genauso: kein EU-Roaming, eSIM oder Prepaid, deutsche Nummer als Zweit-SIM für Codes, Laufzeitvertrag erst mit Bonität. In Kanada heißen die großen Netze Rogers, Bell und Telus. Günstiger und oft ohne Bonitätsprüfung sind die Zweitmarken auf demselben Netz, etwa Fido, Koodo, Virgin Plus oder Chatr. Prepaid ist der Anfang.
 
 ### Die erste Wohnung: Übergang und Suche
 
@@ -78,6 +79,22 @@ Die folgende Übersicht ordnet die wichtigsten Schritte grob nach Zeitpunkt – 
 
 > **Praxisbeispiel:** Lukas Berger reist mit seinem Arbeitsvisum allein nach Calgary, zunächst für zwei Wochen in ein möbliertes Apartment mit Wochenpreis. Am dritten Tag holt er seine vorab online bestellte Prepaid-SIM in einer Drogerie ab, am vierten Tag beantragt er online die SIN – bestätigt fünf Tage später. Da Alberta laut den ihm vorliegenden Informationen ohne nennenswerte Wartefrist arbeitet, meldet er sich in der zweiten Woche direkt bei der Provinzbehörde für die Gesundheitsversicherung an, sicherheitshalber mit einer zusätzlichen kurzen privaten Überbrückungspolice für die ersten Tage. Die Wohnungssuche beginnt er bewusst erst, nachdem der erste Gehaltsnachweis vorliegt. (Fiktives Beispiel.)
 
+### Hund, Katze und der Container
+
+Kanada ist unter den vier Ländern dieses Buches der unkomplizierteste Weg für das eigene Haustier – und genau deshalb unterschätzen ihn Leute, die gerade die australischen oder neuseeländischen Regeln gelesen haben. Die *Canadian Food Inspection Agency* (CFIA, die kanadische Behörde für Lebensmittelsicherheit und Tiergesundheit) führt Deutschland nicht auf der kurzen Liste der als tollwutfrei geltenden Länder. Auf dieser Liste stehen unter anderem Australien, Finnland, Irland, Island, Japan, Neuseeland, Schweden und das Vereinigte Königreich, nicht die Bundesrepublik. Für die meisten erwachsenen Hunde und Katzen, die als eigenes Haustier aus Deutschland einreisen, ist deshalb ein gültiges Tollwut-Impfzeugnis der Kern der Papiere: auf Englisch oder Französisch, ausgestellt von einer zugelassenen Tierärztin oder einem zugelassenen Tierarzt, und so, dass das Tier eindeutig zu erkennen ist. Ein europäischer Heimtierausweis kann reichen, wenn Impfstoff, Datum und Identität klar und in einer dieser beiden Sprachen lesbar sind. Fehlt die Sprache, brauchst du ein separates Zeugnis oder eine Übersetzung, die die CFIA akzeptiert.
+
+Eine Routine-Quarantäne wie in Mickleham oder in einer neuseeländischen Station ist auf diesem persönlichen Weg nicht vorgesehen, und eine Importgenehmigung ist es für das begleitete erwachsene Haustier typischerweise ebenfalls nicht. Das gilt nicht automatisch für alles, was vier Beine hat. Hunde unter acht Monaten, Tiere, die nicht mit dir reisen, und jede Einfuhr, die die CFIA als kommerziell einstuft – Verkauf, Vermittlung, Adoption, Zucht –, folgen anderen Regeln. Der interaktive Wegweiser auf [inspection.canada.ca](https://inspection.canada.ca/en/importing-food-plants-animals/pets) fragt Alter, Begleitung und Herkunftsland ab. Klick ihn durch, bevor du den Flug buchst. Die Airline hat dazu eigene Regeln für Kabine, Frachtraum und Transportbox; die ersetzen die CFIA-Papiere nicht und umgekehrt.
+
+> **Achtung:** „Kanada ist entspannt“ heißt nicht „irgendein Zettel vom Tierarzt auf Deutsch“. Ohne englisches oder französisches Zeugnis, das das Tier klar benennt, kann die Grenze ablehnen, auch wenn die Impfung in der Praxis in Hannover frisch ist.
+
+> **Praxisbeispiel:** Familie Ahrens (fiktiv) nimmt ihre Katze mit in die Kabine nach Toronto. Julia lässt den Heimtierausweis sechs Wochen vor dem Flug von der Tierärztin auf Englisch ergänzen: Name, Farbe, Gewicht, Impfstoff, Datum, Gültigkeit. Markus prüft parallel die Airline-Regel für die Transportbox, nicht nur die CFIA-Seite. Am Flughafen ist die Kontrolle ein Blick auf das Zeugnis, kein Quarantäneplatz. Finn hatte gefragt, ob die Katze „wie in Australien erst mal weg“ müsse. Die Antwort war nein – und genau diese Antwort hätten sie sich fast erspart, weil ein Forum beide Länder in einen Topf geworfen hatte.
+
+Umzugsgut ist die zweite, ruhigere Falle. Die *Canada Border Services Agency* (CBSA) hat für Menschen, die nach Kanada ziehen, eigene Regeln für persönliches Umzugsgut, auf Englisch *settlers' effects*: typischerweise Sachen, die du schon besessen und benutzt hast, bevor du einreist. Ob sie abgabenfrei hereinkommen, entscheidet deine Erklärung an der Grenze nach den aktuellen CBSA-Regeln, nicht ein Pauschalsatz aus einem Ratgeber. Lebensmittel, Pflanzen, Erde und Holz können trotzdem beschränkt sein, auch wenn das Sofa selbst durchgewunken wird. Liste den Inhalt ehrlich. Originalpapiere – Pässe, Urkunden, Zeugnisse, die COPR – gehören ins Handgepäck, nicht in die Kiste, die zwei Wochen später im Hafen liegt.
+
+> **Spartipp:** Im ersten Winter in einer Mietwohnung brauchst du selten das deutsche Wohnzimmer. Koffer plus eine kleine Luftfracht mit Kleidung und Unterlagen reichen, bis die Adresse feststeht. Einen Container zu schicken, dessen Ziel du noch nicht kennst, bindet Geld, das du in Kaution und die ersten Monate besser flüssig hast.
+
+> **Merke:** Für das eigene erwachsene Haustier ist Kanada ein Papierweg, kein Quarantäneweg. Für Welpen, nicht begleitete Tiere und den Container gelten andere Fragen – und die stellt die Behörde, nicht die Airline allein.
+
 ### Plus und Minus
 
 | Plus | Minus |
@@ -86,6 +103,7 @@ Die folgende Übersicht ordnet die wichtigsten Schritte grob nach Zeitpunkt – 
 | SIN-Bestätigung meist innerhalb weniger Werktage | Kanadische Kredithistorie beginnt trotz deutscher Bonität bei null |
 | Ontario ganz ohne Wartefrist beim Gesundheitssystem | BC und einige andere Provinzen mit bis zu drei Monaten Wartefrist |
 | Prepaid-SIM unkompliziert und ohne Bonitätsprüfung | Wohnungssuche ohne Kredithistorie stellenweise mühsam |
+| Eigenes erwachsenes Haustier ohne Routine-Quarantäne | Zeugnis muss auf Englisch oder Französisch das Tier eindeutig benennen |
 
 ### Was jetzt zu tun ist
 
@@ -101,13 +119,16 @@ Kläre vor dem Abflug, welche Bank eine Online-Voreröffnung anbietet, richte di
 > - [ ] Bei Wartefrist: private Übergangsversicherung ab Ankunftstag aktiv
 > - [ ] Secured Credit Card oder Newcomer-Kreditkarte in der ersten Woche beantragt
 > - [ ] Bewerbungsmappe für die Wohnungssuche zusammengestellt (Gehaltsnachweis, Referenzen, Ausweis)
+> - [ ] Bei Hund oder Katze: CFIA-Wegweiser für Alter und Begleitung durchgeklickt, Tollwutzeugnis auf Englisch oder Französisch dabei
+> - [ ] Containerinhalt für die CBSA gelistet; Pässe, COPR und Zeugnisse im Handgepäck, nicht in der Kiste
 
 ### Quellen und weiterführende Links
 - Canada Border Services Agency — Einreise: [cbsa-asfc.gc.ca](https://cbsa-asfc.gc.ca)
+- Canadian Food Inspection Agency — Hunde und Katzen: [inspection.canada.ca/en/importing-food-plants-animals/pets](https://inspection.canada.ca/en/importing-food-plants-animals/pets)
 - Service Canada — Social Insurance Number: [canada.ca/en/employment-social-development/services/sin.html](https://canada.ca/en/employment-social-development/services/sin.html)
 - Ontario — OHIP-Anmeldung: [ontario.ca/page/apply-ohip-and-get-health-card](https://ontario.ca/page/apply-ohip-and-get-health-card)
 - British Columbia — MSP-Wartefrist: [www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp](https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp)
 - CRA — Steuern für Neuankömmlinge: [canada.ca/en/revenue-agency/services/tax/individuals/international-tax/newcomers-canada-immigrants.html](https://canada.ca/en/revenue-agency/services/tax/individuals/international-tax/newcomers-canada-immigrants.html)
 - Deutsche Vertretungen in Kanada: [kanada.diplo.de](https://kanada.diplo.de)
 
-> **Stand:** 23.09.2026. Diese Angaben ändern sich schnell: Wartefristen der Provinz-Krankenversicherungen, SIN-Verfahren, Bankkonditionen für Neuankömmlinge sowie Mobilfunktarife. Prüfe vor der Einreise die aktuellen Seiten von CBSA, Service Canada und der Provinzbehörde deines Zielorts.
+> **Stand:** 23.09.2026. Diese Angaben ändern sich schnell: Wartefristen der Provinz-Krankenversicherungen, SIN-Verfahren, Bankkonditionen für Neuankömmlinge, die CFIA-Regeln für Hunde und Katzen sowie Mobilfunktarife. Prüfe vor der Einreise die aktuellen Seiten von CBSA, CFIA, Service Canada und der Provinzbehörde deines Zielorts.

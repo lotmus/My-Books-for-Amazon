@@ -1,5 +1,7 @@
 # The Quantum Conversation — Consolidation Outline
 
+**Status.** Drafting map from before the final numbering. The chapter files, `md2docx.js`, and `toc_entries.json` are the book. Do not revise the manuscript to match the chapter numbers or equation numbers below.
+
 Working document. Maps the existing draft (338 numbered sections, ~56,000 words,
 22 inconsistently-labeled "Parts") onto a proposed finished structure of 56 chapters
 in 13 Parts, plus front and back matter. Target: ~900–1,300 words per chapter

@@ -1,6 +1,6 @@
 ## Kapitel 16: Behörden, Verträge, Versicherungen abwickeln
 
-Sechs Wochen nach dem Umzug landet im Briefkasten deiner alten Wohnung eine Mahnung des Beitragsservice: Rundfunkbeitrag für eine Wohnung, in der du längst nicht mehr lebst. Am selben Tag bucht die Krankenkasse den nächsten Monatsbeitrag ab. Deutschland lässt dich nicht automatisch los: Verträge laufen weiter, bis du sie beendest, und Vertragspartner erfahren vom Wegzug nur, wenn du es ihnen schreibst. Dieses Kapitel zeigt, was du wann kündigst, was du bewusst behältst und wie du dabei nichts Wichtiges verlierst.
+Sechs Wochen nach dem Umzug landet im Briefkasten deiner alten Wohnung eine Mahnung des Beitragsservice: Rundfunkbeitrag für eine Wohnung, in der du längst nicht mehr lebst. Am selben Tag bucht die Krankenkasse den nächsten Monatsbeitrag ab. Deutschland lässt dich nicht automatisch los. Die länderunabhängige Liste steht im Kapitel [Deutschland vor dem Abflug](#t0003). Dieses Kapitel vertieft die USA: Verträge, Fristen und was du bewusst behältst.
 
 > **Kurz gesagt:**
 > - Kein Vertrag endet mit dem Flug: Miete, Handy, Versicherungen, Rundfunkbeitrag und eine freiwillige Krankenversicherung laufen weiter, bis du kündigst oder abmeldest.

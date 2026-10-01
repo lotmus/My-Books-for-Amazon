@@ -129,6 +129,8 @@ Rechne deine Punktzahl ehrlich durch, bevor du dich auf einen Weg festlegst, und
 > - [ ] Finanzpuffer für eine Wartezeit von einem Jahr oder mehr einplanen.
 > - [ ] Führungszeugnisse für alle Länder mit mehr als 12 Monaten Aufenthalt seit dem 16. Geburtstag rechtzeitig beantragen.
 > - [ ] Vor jeder Kündigung in Deutschland aktuelle Gebühren, Fristen und Berufslisten direkt bei Home Affairs gegenprüfen.
+> - [ ] Anerkennung und Visum-Assessment als zwei Vorgänge gelesen: [Anerkennung deutscher Berufsabschlüsse](#tau17)
+> - [ ] Abmeldung, Rente und Krankenkasse über [Deutschland vor dem Abflug](#t0003) geplant, nicht über die USA-Kapitel
 
 ### Quellen und weiterführende Links
 

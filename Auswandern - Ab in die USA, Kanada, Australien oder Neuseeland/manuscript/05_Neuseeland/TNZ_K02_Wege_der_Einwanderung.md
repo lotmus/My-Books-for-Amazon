@@ -64,7 +64,7 @@ Wo kein eigener berufsspezifischer Schwellenwert gilt, greift als Mindestlohn de
 
 ### Working Holiday: der Seiteneingang für junge Deutsche
 
-Das *Working-Holiday-Visum* ist für sich genommen kein Weg zum Daueraufenthalt, aber für viele junge Deutsche der niedrigschwelligste erste Einstieg. Voraussetzungen: Alter zwischen 18 und 30 Jahren, deutsche Staatsangehörigkeit, kein früheres, bereits genutztes Working-Holiday-Visum, eine Vollkrankenversicherung für die gesamte Aufenthaltsdauer und der Nachweis von mindestens 4.200 NZD an Lebenshaltungsmitteln. Der Aufenthalt ist auf bis zu 12 Monate befristet, ein Daueranstellungsverhältnis ist ausdrücklich nicht erlaubt, Studium oder Ausbildung sind für bis zu 6 Monate im Rahmen des Aufenthalts zulässig. Die Gebühr liegt bei 770 NZD, ein Jobangebot ist für die Antragstellung nicht nötig.
+Das *Working-Holiday-Visum* ist für sich genommen kein Weg zum Daueraufenthalt. Für viele junge Deutsche ist es trotzdem der niedrigste Einstieg. Das Programm heißt Germany Working Holiday Visa und gilt nur für deutsche Staatsangehörige. Die Altersgrenze liest du auf der INZ-Seite, bevor du zahlst. Zum Stand dieses Kapitels liegt sie bei 18 bis 30 Jahren. Sie ist nicht die Grenze der australischen Subclass 417. Dazu kommen: kein früheres, bereits genutztes Working-Holiday-Visum, eine Vollkrankenversicherung für die gesamte Aufenthaltsdauer und der Nachweis von mindestens 4.200 NZD an Lebenshaltungsmitteln. Der Aufenthalt ist auf bis zu 12 Monate befristet. Ein Daueranstellungsverhältnis ist nicht erlaubt. Studium oder Ausbildung sind für bis zu 6 Monate zulässig. Die Gebühr liegt bei 770 NZD. Ein Jobangebot ist für die Antragstellung nicht nötig. Prüfe Betrag und Altersgrenze auf immigration.govt.nz, wenn zwischen diesem Stand und deinem Antrag Zeit vergangen ist.
 
 Der eigentliche Wert dieses Visums liegt selten im Visum selbst, sondern in dem, was währenddessen entsteht: ein Netzwerk, ein Probejob, im besten Fall ein Arbeitgeber, der anschließend bereit ist, ein AEWV zu sponsern. Da für das Working-Holiday-Visum kein Jobangebot vorausgesetzt wird, steht dem Umstieg auf ein AEWV grundsätzlich nichts entgegen, sobald sich vor Ort eine passende Stelle findet.
 
@@ -97,7 +97,7 @@ Die Entscheidung ist selten eine reine Punkterechnung. Wer eine Familie mitnimmt
 | Jobangebot mit hohem Gehalt, SMC-Punktzahl direkt erreichbar | Skilled Migrant Category, direkt aus Deutschland |
 | Beruf steht auf der Green List, Jobangebot liegt vor | Green List Tier 1 (direkt) oder Tier 2 über AEWV |
 | Jobangebot vorhanden, Beruf nicht auf der Green List | Accredited Employer Work Visa, später ggf. SMC |
-| Noch kein Jobangebot, 18 bis 30 Jahre, will erst reinschnuppern | Working Holiday |
+| Noch kein Jobangebot, Altersrahmen des Germany Working Holiday Visa (Kapitelstand 18 bis 30, Grenze auf der INZ-Seite), will erst reinschnuppern | Working Holiday |
 | Punktzahl oder Abschluss reichen noch nicht | Studienvisum als Zwischenschritt über PSWV |
 | Über 55 Jahre oder Punktetest-Weg nicht offen | siehe [Kapitel zu Familie, Investor und Ruhestand in diesem Teil](#tnz04) |
 
@@ -122,7 +122,7 @@ Beginne mit einer ehrlichen Bestandsaufnahme: Beruf, Alter, Sprachniveau, vorhan
 > - [ ] Eigenen Beruf mit der aktuellen Green List und dem passenden ANZSCO-Code abgeglichen
 > - [ ] SMC-Punktzahl überschlägig berechnet (Qualifikation, Registrierung, Einkommen, NZ-Erfahrung)
 > - [ ] Geprüft, ob ein Jobangebot eines akkreditierten Arbeitgebers realistisch erreichbar ist
-> - [ ] Working Holiday als möglichen ersten Schritt erwogen, falls 18 bis 30 Jahre und noch unentschlossen
+> - [ ] Working Holiday als möglichen ersten Schritt erwogen, nur wenn du im Rahmen des Germany Working Holiday Visa liegst (zum Stand dieses Kapitels 18 bis 30 Jahre). Grenze auf der INZ-Seite prüfen, nicht die australische 417 übernehmen
 > - [ ] Studienvisum als Zwischenschritt geprüft, falls Punktzahl oder Abschluss noch nicht reichen
 > - [ ] Aktuelle Lohnschwellen, Gebühren und Bearbeitungszeiten direkt bei Immigration New Zealand geprüft
 
