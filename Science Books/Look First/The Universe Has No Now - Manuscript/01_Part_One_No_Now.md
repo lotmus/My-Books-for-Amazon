@@ -8,7 +8,7 @@ Imagine two people in a kitchen arguing about whether the casserole is done. One
 
 That sounds like a joke. It is the opening move of twentieth-century physics.
 
-Call the woman with the pot holders Mara. Call the walker Eli. They are invented. The casserole is invented. The disagreement is not. It is what falls out of a speed that refuses to change when you do. She is the one who later leaves this kitchen. He is the one who keeps the clock. A later page may put her on Mars, with a sister named Priya and a colleague named Rohan. That is still this woman, and Eli is still here. The lamps do not need that future. They need the walk.
+Call the woman with the pot holders Mara. Call the walker Eli. They are invented. The casserole is invented. The disagreement is not. It is what falls out of a speed that refuses to change when you do. She is the one who later leaves this kitchen. He is the one who keeps the clock. The lamps do not need that future. They need the walk.
 
 In Newton’s world the joke would be on the physicist. Space was a box. Time was a universal tick, the same in London and on Jupiter. You could, in principle, freeze the universe and take a photograph of “everything at this instant.” The casserole, the moons of Saturn, and a supernova in a galaxy we have not named yet would all sit in one frame, labeled NOW.
 

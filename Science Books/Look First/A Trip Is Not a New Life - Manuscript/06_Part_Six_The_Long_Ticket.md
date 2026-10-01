@@ -24,8 +24,7 @@ It wakes, if it wakes, for a star that has drifted, a gyro that has sulked, a bi
 
 This is not the Omega Point. It is not destiny. It is a project with a failure rate. The machine can miss. The ice can be thicker than the melt. The sea can be sealed from rock. The sea can already be taken. The project is still the only way “long travel” stops being a poster. Flesh can follow later, as cargo or as a reconstruction, if the library is good and the greenhouse, under some other sun or under some other lid, has begun to smell like a lie again.
 
-A warning, because this book has a temperature habit. “AI” in the kitchen now is a pattern engine. “AI” on a century cruise is a control system that must not go mad in the quiet. Those are not the same object. We do not yet own the second. We own the beginnings of the first. The chapter is an outlook, not a purchase order.
-
+A warning, because this book has a temperature habit. “AI” in the kitchen now is a pattern engine. “AI” on a century cruise is a control system that must not go mad in the quiet. Those are not the same object. We do not yet own the second. We own the beginnings of the first. The chapter is an outlook, not a purchase order. What it may hand her is a machine that can wait. It may not hand her a colleague.
 
 The greenhouse woman, if a machine ever takes her shift, still needs the stuck airlock to sigh. Joules per bit do not name a potato. A century crew that arrives at a lid of ice with a library and a melt plan is a success of waiting, not a replacement of the observer who can be surprised by a yellow leaf. Keep the orders dull. Keep the plug. The rest is Chapter 26’s box and the hole under the ice, in the other book. This chapter is only the crew that can wait.
 

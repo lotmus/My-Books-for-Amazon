@@ -20,7 +20,7 @@ The same woman still copies DNA with a small error rate. She still shortens the 
 
 The test is a jar, and then it is the airlock.
 
-A hand joint is a small meeting: two bones, a cap of cartilage, a slick of fluid, a staff of cells whose job is to keep that surface honest. The staff gets worse at the job. The surface pits. Inflammation writes on it. Pain is the nervous system reporting the pit, and it will not stop reporting because a label was hopeful. The first thing Mara loses is not a speech. It is the jar. The lid that used to turn without a thought now asks for a second hand, then for Rohan, then for a postponement she pretends is about the basil. The heel of the glove is the same joint, asked to do a ruder job. A camp that cannot open its own seal has not been saved by a slogan. It has been stopped by a knuckle.
+The first thing Mara loses is not a speech. It is the jar. The lid that used to turn without a thought now asks for a second hand, then for Rohan, then for a postponement she pretends is about the basil. The heel of the glove is the same joint, asked to do a ruder job. A camp that cannot open its own seal has been stopped by a knuckle.
 
 What the capsule is allowed to be.
 
@@ -28,13 +28,13 @@ She reads the label the way she reads a pump manual. Support. Maintenance. A sea
 
 Rohan notices the blister before he notices the label.
 
-He is better at pumps than at basil, and he is worse at pretending a hand is fine. He does not make a speech. He sets the spare lid where her left hand can reach it, which is a joke only if you have never needed the spare lid. She does not laugh on cue. She logs the pH, then she logs the joint the way she logs the seal torque: a number, an instrument, an action. Two, today. Not eight. The number is allowed to be boring. Boring is how she will know, in a month, whether the capsule bought a season or only bought a paragraph.
+He is better at pumps than at basil, and he is worse at pretending a hand is fine. He does not make a speech. He sets the spare lid where her left hand can reach it. She logs the pH, then she logs the joint the way she logs the seal torque: a number, an instrument, an action. Two, today. Not eight. The number is allowed to be boring. Boring is how she will know, in a month, whether the capsule bought a season or only bought a paragraph.
 
 Priya’s hands are the same diagnosis on a different invoice.
 
-About 194 million of those cases sit in hands like theirs. Priya will not get a ticket, and she will not get this capsule by being Mara’s sister. Her clinic, on the coast, has a fridge and a surgery date and a stack of letters that say not eligible. Chapter 43 is that morning. This chapter only refuses the promotion: a useful dose on Mars is not proof that the coast received one. The hands still age in both rooms. That is hot. The delivery is a zip code. That is the rest of the book’s receipt.
+The same count sits in hands like theirs. Priya will not get a ticket, and she will not get this capsule by being Mara’s sister. Her clinic, on the coast, has a fridge and a surgery date and a stack of letters that say not eligible. Chapter 43 is that morning. This chapter only refuses the promotion: a useful dose on Mars is not proof that the coast received one. The hands still age in both rooms. That is hot. The delivery is a zip code. That is the rest of the book’s receipt.
 
-Temperatures, and the word helium, are already in How to Read. Use them on the capsule. A useful season is not helium. A sermon that calls the dose the first day of a new species is helium. Put the sermon down and keep the joint, if the joint is what she paid for. Priya’s hands, on the coast, are starting to ask for the same kind of meeting. The letter about that meeting is still ahead of her.
+Temperatures, and the word helium, are already in How to Read. Use them on the capsule. A useful season is not helium. A sermon that calls the dose the first day of a new species is helium. Put the sermon down and keep the joint, if the joint is what she paid for.
 
 Appendix A27 writes what “local” has to mean when a pharmacist and a marketer share a noun. Here, keep the hands. They still age. That is the first hot fact. Everything colder will have to walk past it.
 
