@@ -146,7 +146,7 @@ Die Listen oben beschreiben Systeme. Diese fünf Fragen schneiden danach weg, wa
 
 **Klima.** Wer einen harten, langen Winter nicht will, sollte Kanada und den Norden der USA nur mit einer konkreten Stadt prüfen, nicht als Land. Wer Buschfeuer, Zyklon oder Erdbeben nicht einplanen will, sollte die Kapitel zu Wohnen und Sicherheit lesen, bevor die Scorecard Australien oder Neuseeland nach vorn rechnet. Die Tabelle lässt die Klimazeile absichtlich leer. Diese Frage füllt sie nicht mit einer Scheinpunktzahl.
 
-> **Merke:** Ein Land, das bei Steuern gewinnt und bei Beruf, Sprache oder Familie verliert, ist kein Kompromiss. Es ist der falsche Kandidat. Streich ihn, auch wenn die Summe hoch war.
+> **Merke:** Ein Land, das beim Steuerkeil gut aussieht und bei Beruf, Sprache oder Familie scheitert, ist der falsche Kandidat. Streich ihn. Eine Liste hat dagegen kein Vetorecht.
 
 ### Was dieser Vergleich nicht ersetzt
 
