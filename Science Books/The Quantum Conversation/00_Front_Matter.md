@@ -24,7 +24,7 @@ Then comes quantum electrodynamics, and the electromagnetic interaction itself t
 
 At this point, you might reasonably expect the basic picture to have become clearer. Instead, it becomes stranger. What, exactly, is an electromagnetic field? Is it a physical thing filling space, or merely a convenient way of describing relationships between charges? What is a photon? Does it travel from one electron to another like a microscopic bullet? What is the electromagnetic potential, and why does quantum mechanics seem to care about it so much more than classical physics ever did? And perhaps the most uncomfortable question of all: what is actually fundamental here?
 
-I am not going to hand you that answer here. The questions above are the book. The Lorentz force still predicts the motion of every charged object in the laboratory, and nothing in these pages retires it. What that force is a trace of is what the long way is for.
+I am not going to hand you that answer here. The questions above are the book. The Lorentz force still predicts the motion of every charged object in the laboratory, and nothing in these pages retires it.
 
 These aren't philosophical decorations hung around the equations after the fact — they shape how the equations themselves get understood.
 
@@ -32,13 +32,9 @@ Richard Feynman spent much of his career searching for ways of thinking about ph
 
 The two approaches are not identical, and I won't pretend otherwise. They cannot simply be pasted together and declared one theory. Feynman's quantum electrodynamics is a relativistic quantum field theory, describing photons, charged particles, radiation, quantum corrections, and processes in which particles are created and destroyed — one of the most successful theories in the history of science, full stop. Mead's approach is a different kind of achievement, placing quantum phase, electromagnetic potentials, and coherent collective behavior at the center of the story, especially in systems like superconductors, where that phase becomes something you can measure with an ordinary instrument.
 
-And yet a remarkable thread runs through both of them. Each invites you to stop thinking of electromagnetism as, fundamentally, a story about small objects being shoved around by invisible mechanical forces. Something more subtle is happening in both pictures: quantum phase is changing. That single observation is the guide I follow from the first chapter to the last.
-
 The path runs, roughly, like this. Begin with waves, and discover phase hiding inside them. Follow phase to the electromagnetic potential. Follow the potential to the interaction between charges, and from there to photons, to collective quantum matter, and eventually back out to classical electromagnetism — arriving, by the end, at quantum electrodynamics again, but carrying a very different intuition than the one this book started with.
 
-The goal was to find a way of thinking in which several genuinely different descriptions of the same physical world begin to look like different windows onto one structure, rather than rival claims about what is really there — not to replace one theory with another.
-
-Perhaps that is what Feynman was after all along.
+The goal was to find a way of thinking in which several genuinely different descriptions of the same physical world begin to look like different windows onto one structure, rather than rival claims about what is really there.
 
 ---
 
@@ -63,8 +59,6 @@ Readers of *The Quantum World*, elsewhere in this series, will recognize the see
 One page, before the first chapter, showing the whole shape of where this is going:
 
 ![Roadmap: how the argument fits together. Phase and the potential branch into Maxwell's classical world and QED's quantum one, then reunite through coherence in a circuit you can build. Wheeler–Feynman direct action hangs off to the side because it's a historical alternative, not a replacement.](fig13_master_map.png)
-
-Stay if you already know that an electron interferes, and you want to know why the potential — the quantity a first course tells you to ignore — is the thing the interference notices. Put the book down if you wanted a textbook, a history of quantum electrodynamics, or a claim that fields are illusions. It is none of those.
 
 Before Chapter 1, you should have met electric and magnetic fields, and you should know that an electron can be described by a wave that interferes. This book does not teach calculus, Maxwell's equations from nothing, or quantum field theory. It does stop to say what a phase, a potential, and a gauge transformation are doing. When a formula appears, the sentence in front of it is the part to hold onto if the symbols are new.
 

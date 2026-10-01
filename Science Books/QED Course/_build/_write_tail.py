@@ -33,6 +33,9 @@ def find_start(body, prefix):
 
 
 GLOSSARY = [
+    ("arrow", "Prologue 1 amplitude: a length and a direction in a plane. Probability = (length)²."),
+    ("diagram", "Cartoon of the three QED actions; one term in ℳ (Prologue 9, Lesson 49). Not a bubble-chamber photograph."),
+    ("S-parameter", "Microwave in-to-out amplitude; laboratory cousin of ⟨f|S|i⟩ (Prologue 8)."),
     ("α", "Fine-structure constant, α=e²/4π≈1/137.036 at low energy (Lesson 43). Runs with q² (Lesson 68)."),
     ("α(q²)", "Effective coupling at momentum transfer q, Lesson 68."),
     ("β(e)", "μ de/dμ. One-loop QED, one charged fermion: e³/(12π²) (Lesson 69)."),
@@ -132,6 +135,9 @@ def build_tail(b):
     b.table(
         [
             ["Item", "Reference"],
+            ["Easy QED (opening)", "R. P. Feynman, QED: The Strange Theory of Light and Matter, Princeton (1985). Physics only; this course does not reproduce the text."],
+            ["S-parameters", "D. M. Pozar, Microwave Engineering, Wiley. Two-port S is the laboratory cousin of ⟨f|S|i⟩."],
+            ["Mead’s view (Interlude)", "C. A. Mead, Collective Electrodynamics: Quantum Foundations of Electromagnetism, MIT Press (2000)."],
             ["Dirac equation and g=2", "P. A. M. Dirac, Proc. Roy. Soc. A 117, 610 (1928)."],
             ["Schwinger a=α/(2π)", "J. Schwinger, Phys. Rev. 73, 416 (1948)."],
             ["Lamb–Retherford interval", "W. E. Lamb and R. C. Retherford, Phys. Rev. 72, 241 (1947)."],

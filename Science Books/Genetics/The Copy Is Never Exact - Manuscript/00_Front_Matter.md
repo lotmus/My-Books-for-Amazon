@@ -16,23 +16,15 @@ Photographs in this book are from Wikimedia Commons and are credited in the appe
 
 ---
 
-## How to Read This Book
-
-This is a book about a text. The text is written in four letters. One parental set of it, the reference genome, runs to about 3.1 billion letters. Almost every cell you own holds two sets, about 6.2 billion letters. A cell is one of the tiny living units your whole body is built from, too small to see, trillions of them working at once. It is copied every time a cell divides in two, which is how a body grows and repairs itself. The copy is never exact. That last fact is the hinge of the whole story, so it is worth saying once, plainly, before anything else: if the copy were perfect there would be no evolution, no cancer, no difference between you and your sister, and nothing for this book to be about.
-
-The chapters run in roughly the order the world found things out. Part I is the shape, discovered in 1953. Part II is the molecule itself, its chemistry, and how it copies and miscopies. Parts III and IV are inheritance and the monk who measured it first. Part V is how we learned to read the text, Part VI what we can now do with it, and Parts VII and VIII are copies and dinner: cloning, and the plants and animals we have been editing for ten thousand years. Part IX is the whole human text, read once at great cost and now read for the price of a night in a hotel. Part X is what your own text can and cannot tell you. Part XI is correction, and the argument about where correction should stop.
-
-Where the status of a claim matters, I say which of three things it is. *Settled*: measured, repeated, and used every day. *Working*: the best current account, with real gaps. *Speculative*: allowed by what we know, not shown. Most of the book is settled. The last chapters are not, and say so.
-
-Three people appear throughout: Ruth, born in 1948, her daughter Anna, born in 1978, and Anna's son Theo, born in 2011. They are invented. Their freckles, their milk tolerance, and their arguments at the table are there so that the mechanisms have somewhere to happen. Nothing bad is done to them for drama.
-
-Gene names are in italics (*BRCA1*). The proteins they encode are not (the BRCA1 protein). Prices are in United States dollars and carry a year. Where I give my own opinion, I mark it as mine.
-
----
-
 ## Author's Note
 
 I am not a geneticist. I am someone who wanted to know what was in the tube, and kept reading. The people who did the work are named in the text, with the year and the journal where it matters, so that anyone who wants the original can find it. Where the record is disputed, as it is for 1953, I have tried to give each side its best case and then say what I think.
+
+Three people appear in this book: Ruth, born in 1948, her daughter Anna, born in 1978, and Anna's son Theo, born in 2011. They are invented. Their freckles, their milk tolerance, and their arguments at the table are there so that the mechanisms have somewhere to happen. Nothing bad is done to them for drama.
+
+Where the status of a claim matters, I say which of three things it is. *Settled*: measured, repeated, and used every day. *Working*: the best current account, with real gaps. *Speculative*: allowed by what we know, not shown. Most of the book is settled. The last chapters are not, and say so.
+
+Gene names are in italics (*BRCA1*). The proteins they encode are not (the BRCA1 protein). Prices are in United States dollars and carry a year. Where I give my own opinion, I mark it as mine.
 
 %%TOC%%
 
@@ -42,7 +34,7 @@ It is a Tuesday in early spring, and a woman named Anna is standing at a mailbox
 
 Anna is invented. So is her mother, Ruth, who is seventy-eight and lives twenty minutes away, and so is Anna's son Theo, who is fifteen and thinks the whole thing is slightly disgusting. The tube is not invented. Several million people have mailed one. What matters at the mailbox is what Anna has just posted.
 
-![Figure 0. A saliva collection tube, the kind a spit kit arrives in, cap still sealed.](Figures/figs/fig00.jpg)
+![Figure 0. An opened spit-kit box, the collection tube still sealed in its bag.](Figures/figs/fig00.jpg)
 
 Two millilitres of spit looks like nothing much. Mixed into it, with the bacteria and the crumbs of breakfast, are a few hundred thousand cells shed from the lining of her cheeks. A cell is one of the tiny living units a body is built from. Each of these is about fifteen microns across, roughly a fifth the width of a human hair.
 
@@ -50,7 +42,7 @@ Each cell has a nucleus, a small compartment that holds the instructions. The in
 
 Nearly every cell from her scalp to her heels carries the same pair of texts, with tiny differences. She has about thirty-seven trillion of those cells. Multiply the two metres by that number and she is carrying something like seventy billion kilometres of thread. That is more than four hundred times the distance from the Earth to the Sun.
 
-None of this was known when Ruth was born. In 1948 the molecule had been named and its ingredients listed, and most people who thought about it believed it was too dull to carry information. Proteins, the working molecules that do almost every job in a cell, were the interesting ones. The physicist Max Delbrück dismissed the repeating chain as a stupid molecule, too monotonous to be a gene. The geneticist Evelyn Witkin later recalled the phrase, in a 2012 interview published in *PLOS Genetics*; it was the view of the laboratory, not a line from a paper of his. Five years later, in the spring of 1953, two men in Cambridge built a model out of metal plates and wire that showed what the chain was for. The sentence they wrote is quietly loaded: it had not escaped their notice that the pairing they proposed suggested a copying mechanism.
+None of this was known when Ruth was born. In 1948 the molecule had been named and its ingredients listed, and most people who thought about it believed it was too dull to carry information. Proteins, the working molecules that do almost every job in a cell, were the interesting ones. The physicist Max Delbrück dismissed the repeating chain as a stupid molecule, too monotonous to be a gene. The geneticist Evelyn Witkin later recalled the phrase, in a 2012 interview published in *PLOS Genetics*; it was the view of the laboratory, not a line from a paper of his. Five years later, in the spring of 1953, James Watson and Francis Crick built a model in Cambridge out of metal plates and wire that showed what the chain was for. The photograph that settled the shape as a helix came from Rosalind Franklin's laboratory at King's College London. Her student Raymond Gosling took it, under her direction, of the wet form of the molecule. The sentence Watson and Crick wrote is quietly loaded: it had not escaped their notice that the pairing they proposed suggested a copying mechanism.
 
 The shape and the copying are the same fact. DNA is a twisted ladder split lengthwise into two strands. Pull the strands apart and each is a template the cell can rebuild the missing half from, so one ladder becomes two. A cell does this every time it divides. Anna's body has been doing it since a single cell in 1978 became two.
 

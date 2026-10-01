@@ -1,0 +1,179 @@
+diff --git a/Science Books/Look First/A Trip Is Not a New Life - Manuscript/01_Part_One_Dirt_Delay_Dates.md b/Science Books/Look First/A Trip Is Not a New Life - Manuscript/01_Part_One_Dirt_Delay_Dates.md
+index b9c9a31..05da29c 100644
+--- a/Science Books/Look First/A Trip Is Not a New Life - Manuscript/01_Part_One_Dirt_Delay_Dates.md	
++++ b/Science Books/Look First/A Trip Is Not a New Life - Manuscript/01_Part_One_Dirt_Delay_Dates.md	
+@@ -16 +16 @@ Dates are the only one of the three that a human can move. A slide can print a y
+-where a synodic period is the time for two planets to return to the same lineup ??? for Earth and this world, about 780 days.
++A synodic period is the time for two planets to return to the same lineup ??? for Earth and this world, about 780 days.
+@@ -69 +69 @@ Appendix A1 writes delay, dirt, and why this kitchen is not a loaf. Here, keep t
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -95 +95 @@ Apollo climbed to rung five and was cancelled before rung six. The International
+-Where does the money sit on the ladder? Mostly at rungs two through four, because that is where money turns into embarrassment. That is also where the years slip, because rungs three and four are the ones that find the cracks. A budget line is hot as a fact about spending. It says nothing about which rung the spending has reached.
++Does the money sit on the ladder? Mostly at rungs two through four, because that is where money turns into embarrassment. That is also where the years slip, because rungs three and four are the ones that find the cracks. A budget line is hot as a fact about spending. It says nothing about which rung the spending has reached.
+@@ -141 +141 @@ Appendix A2 writes a short ledger of what has actually flown in this century ???
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -153 +153 @@ Official slips are engineering plus politics. Both words have to sit still.
+-where a slip is a moved official date for a named class of mission ??? not a mood, not a conspiracy proof, not a destiny.
++A slip is a moved official date for a named class of mission ??? not a mood, not a conspiracy proof, not a destiny.
+@@ -163 +163 @@ Why do honest people print optimistic years in the first place? Because a progra
+-where the outside view is the year you would bet on if you were only allowed to look at the record of similar programs, not at the slide.
++The outside view is the year you would bet on if you were only allowed to look at the record of similar programs, not at the slide.
+@@ -213 +213 @@ Appendix A3 writes a short pattern-book of public slips ??? Apollo, Shuttle, Con
+-Where the popular version goes wrong.
++The popular version goes wrong.
+diff --git a/Science Books/Look First/A Trip Is Not a New Life - Manuscript/07_Part_Seven_Many_Clocks.md b/Science Books/Look First/A Trip Is Not a New Life - Manuscript/07_Part_Seven_Many_Clocks.md
+index 3e5487c..aaf5c3c 100644
+--- a/Science Books/Look First/A Trip Is Not a New Life - Manuscript/07_Part_Seven_Many_Clocks.md	
++++ b/Science Books/Look First/A Trip Is Not a New Life - Manuscript/07_Part_Seven_Many_Clocks.md	
+@@ -25 +25 @@ Worldwide, on the most recent count anyone has bothered to run properly, somethi
+-where local means this tissue, this season, this invoice ??? not a reset of the house.
++Local means this tissue, this season, this invoice ??? not a reset of the house.
+@@ -35 +35 @@ Appendix A27 writes what ???local??? has to mean when a pharmacist and a markete
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -46 +46 @@ The split is hot. Demographers have been running it for decades under plainer na
+-where HALE is the years lived in a state you would, on present evidence, vote to repeat.
++HALE is the years lived in a state you would, on present evidence, vote to repeat.
+@@ -60,0 +61,6 @@ Healthspan is the product people thought they bought when the wall clock lost. A
++Mara prices the hatch in the figure with a person who has already arrived, not with a baby.
++
++A woman who has already reached eighty, in a lucky kitchen, is often looking at about another decade. Not forty years. Not 122. The decade is where the frail years and the mornings share a calendar. Some of those years she would vote to repeat: the walk, the work, a joint that is a two and not an eight. Some of them are the walk that became a shuffle while the pulse still embarrasses the wall clock. Buying the joint back, so the decade still includes the airlock, moves healthspan inside a life that was already going to be about that long. It does not move the fence. Jeanne Calment???s 122 is the far tail of a distribution, checked and still standing. It is not the remaining life of the woman at eighty, and it is not a ship date.
++
++Life expectancy at birth jumped, in the last century, mostly because children stopped dying. That leap is hot, and it is mostly finished where the pipes, the vaccines, and the midwives already run. The fence on the right did not sprint with the average. A founder who hears eighties and prints 150 has changed pots. Ask which bar is on the invoice. The wall-clock bar can rise because a bed got better at not letting the pulse stop. The hatched bar rises only when the morning is one she would take again.
++
+@@ -62 +68 @@ Appendix A28 writes life expectancy against healthy life expectancy, the 122-yea
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -76 +82 @@ Each time a linear chromosome copies, the very end is an awkward job. The cap sh
+-where the cell-division fence is the observation that many human cell types in a dish divide about forty to sixty times and then stop.
++The cell-division fence is the observation that many human cell types in a dish divide about forty to sixty times and then stop.
+@@ -95 +101 @@ Appendix A29 writes the dish-division range, the hallmark table, the mouse-to-hu
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -105 +111 @@ Figure 30. Four hazard curves on one chart: mouse climbs fast, human climbs at m
+-where a hazard curve plots the chance of dying in the next year against age; a rising curve is what ???aging??? means at the level of a population, and a flat curve past maturity is what these four species show instead.
++A hazard curve plots the chance of dying in the next year against age; a rising curve is what aging means at the level of a population, and a flat curve past maturity is what these four species show instead.
+@@ -131 +137 @@ Cold: that one of these tricks is a suppressed answer waiting for funding, trans
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -145 +151 @@ CRISPR, in the kitchen, is a bacterial memory system hired as a cutter. You supp
+-where a local fix means this gene, in this tissue, in this person, at this price, with this known damage as the entry fee.
++A local fix means this gene, in this tissue, in this person, at this price, with this known damage as the entry fee.
+@@ -161 +167 @@ Appendix A31 writes the sickle-cell-class schematic, the delivery problem, and w
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -171 +177 @@ Figure 32. A cell???s clock hand pushed back partway, then stopped by a fence. P
+-where the fence is not a mystery; it is the difference between nudging a cell???s markings younger and erasing what kind of cell it is.
++The fence is not a mystery; it is the difference between nudging a cell???s markings younger and erasing what kind of cell it is.
+@@ -194 +200 @@ Cold: whole-body reprogramming, a reprogramming pill, or reprogramming as a gene
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -223,0 +230,4 @@ Cancer is plural doors with different locks. Solid tumors hide behind barriers d
++A mouse can be made to live a noticeable fraction longer. A diet. A drug. A cage. The graph is real inside the cage. The cage is not a Tuesday. The mouse does not bring a childhood, a zip code, or a cancer policy written for a two-hundred-year exposure. More calendar is more copies of cells, and more copies are more chances for a rude lineage. A body-wide rewind that does not say what it does about cancer, pipes, and the long goodbye has not read the house. It has photographed the one door Chapter 31 unstuck and rented the photograph a halo.
++
++The translation rule is dull and sufficient. A result that moves a mouse fence is a paper. It becomes a human product only when a trial measures walking, memory, and hospitalization in people, and even then only as a local door with a price. Modest further healthy years, in the kitchens that already run trials, stay warm. A scheduled 150, 200, or 1,000 stays cold. She will not let the cage rent the halo. She will take the capsule if the joint is the door it actually opens, and she will leave the master key on the table.
++
+@@ -225 +235 @@ Appendix A33 writes cancer as a plural, vascular risk as a ledger, neurodegenera
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -229 +239 @@ Part II is the other cartoon: the cupboard in the skull. The hands still age. Th
+-Where the popular version goes wrong.
++The popular version goes wrong.
+diff --git a/Science Books/Look First/A Trip Is Not a New Life - Manuscript/08_Part_Eight_The_Organ.md b/Science Books/Look First/A Trip Is Not a New Life - Manuscript/08_Part_Eight_The_Organ.md
+index c99e2de..4305a63 100644
+--- a/Science Books/Look First/A Trip Is Not a New Life - Manuscript/08_Part_Eight_The_Organ.md	
++++ b/Science Books/Look First/A Trip Is Not a New Life - Manuscript/08_Part_Eight_The_Organ.md	
+@@ -11 +11 @@ The sentence is a zombie because it is flattering. It tells you that the person
+-Where did it come from? Not from a measurement you can cite and keep. It gathered like kitchen grease: a misread of early neurologists who noticed that large injuries sometimes left surprising function; a self-help habit of turning ???we do not understand everything??? into ???ninety percent is waiting???; a cartoon of unused neurons sitting in the dark like unused guest soaps. A century-old moral sentence said we live below our limits. That is effort-talk. It is not a volumetric survey of cortex. The ten-percent figure is a mutation of effort-talk into a floor plan. The floor plan is wrong.
++Did it come from? Not from a measurement you can cite and keep. It gathered like kitchen grease: a misread of early neurologists who noticed that large injuries sometimes left surprising function; a self-help habit of turning we do not understand everything into ninety percent is waiting; a cartoon of unused neurons sitting in the dark like unused guest soaps. A century-old moral sentence said we live below our limits. That is effort-talk. It is not a volumetric survey of cortex. The ten-percent figure is a mutation of effort-talk into a floor plan. The floor plan is wrong.
+@@ -14 +14 @@ The brain is roughly two percent of a body???s mass and takes roughly twenty per
+-where the twenty percent is of resting metabolic rate ??? the quiet kitchen, not a sprint.
++The twenty percent is of resting metabolic rate ??? the quiet kitchen, not a sprint.
+@@ -31 +31 @@ Appendix A34 writes the energy fraction, the lesion logic, and why a quiet voxel
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -61 +61 @@ Appendix A35 writes sleep, hearing, stimulants, and implants as tools with invoi
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -73 +73 @@ A body stays organized by running downhill on a difference: hot to cold, charged
+-where the point is: a copy that ships, and a body that lasts long enough to ship it.
++The point is: a copy that ships, and a body that lasts long enough to ship it.
+@@ -94 +94 @@ Appendix A36 writes wanting against liking, and why more calendar is not an off-
+-Where the popular version goes wrong.
++The popular version goes wrong.
+diff --git a/Science Books/Look First/A Trip Is Not a New Life - Manuscript/09_Part_Nine_Not_A_Straight_Line.md b/Science Books/Look First/A Trip Is Not a New Life - Manuscript/09_Part_Nine_Not_A_Straight_Line.md
+index 4617f86..3588afb 100644
+--- a/Science Books/Look First/A Trip Is Not a New Life - Manuscript/09_Part_Nine_Not_A_Straight_Line.md	
++++ b/Science Books/Look First/A Trip Is Not a New Life - Manuscript/09_Part_Nine_Not_A_Straight_Line.md	
+@@ -24,0 +25,6 @@ Uneven is the honest adjective. A lucky zip code forgot childhood death; another
++One flight, with both ends kept in the picture.
++
++Smallpox was declared gone in 1980. That stair has a top: a vaccine, a program, a last case, a room that stayed closed. Measles is the same class of molecule and an unfinished flight, because a program can be skipped and the disease walks back in. The stair did not fail as chemistry. It failed as a meeting. The genome draft finished in 2003 at a cost on the order of three billion dollars. A read of the same order of letters can now be a few hundred dollars in a day. That drop is one of the steepest any kitchen has measured. The nurse who gives the measles shot did not get cheaper on that curve. Her wage, the fridge, the cold box, and the rumor that keeps a door shut are the wall at the end of the flight.
++
++Mara???s meter rode the cheap curve and then rode a cargo ship. Priya???s clinic did not. Both are this species. A ruler laid from the vaccine to the year 12,000 deletes the nurse, and the nurse is the reason one flight finished and the other did not. Keep the stair. Name the wall. Leave the ruler on the floor.
++
+@@ -26 +32 @@ Appendix A37 writes the class of wins ??? vaccines, sequencing, packets, compute
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -36 +42 @@ Figure 38. One S: slow, steep, flat. Labels: start, drunk middle, wall. Not a ro
+-where a logistic is a growth that feeds on what is left to gain, and therefore slows as the room fills.
++A logistic is a growth that feeds on what is left to gain, and therefore slows as the room fills.
+@@ -54 +60 @@ Appendix A38 writes logistic shape, Moore???s bend, and sequencing???s dollar dr
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -64 +70 @@ Figure 39. 10,000 / 50 = 200, crossed out. The label: arithmetic, not a method.
+-where 10,000 / 50 = 200 is a ratio of years, not a law that copies a kitchen 200 times.
++The sum 10,000 / 50 = 200 is a ratio of years, not a law that copies a kitchen 200 times.
+@@ -69 +75 @@ A gadget catalog for the year 12,000 is cold as a method and rude as a promise.
+-People reach for ??200 because the last fifty felt like more than a lifetime of change. Felt is a measurement of surprise, not of slope. A person born in 1975 met packets, a cheaper genome, a quieter childhood disease, a louder pocket, a climate needle that did not droop. That is a lot of furniture to rearrange in one career. Rearrangement is not a license to multiply the career by two hundred. The century before last rearranged furniture too: engines, wires, vaccines of an older class, a war that ate a generation. If you had multiplied that fifty by two hundred, you would have printed a 3900s kitchen that was all steam and no transistor, or all transistor and no steam, depending on which drunk middle you photographed. The method fails in the rearview. It does not get a promotion because we like this rearview better.
++People reach for ??200 because the last fifty felt like more than a lifetime of change. Felt is a measurement of surprise, not of slope. A person born in 1975 met packets, a cheaper genome, a quieter childhood disease, a louder pocket, a climate needle that did not droop. That is a lot of furniture to rearrange in one career. Rearrangement is not a license to multiply the career by two hundred. The century before last rearranged furniture too: engines, wires, vaccines of an older class, a war that ate a generation. If you had multiplied that fifty by two hundred, the calendar would have jumped ten thousand years. The sum later in this chapter names the year. It does not let you pack furniture from a century you have not reached. The method fails in the rearview. It does not get a promotion because we like this rearview better.
+@@ -87,0 +94,6 @@ Felt is surprise, not slope. The last fifty years felt larger than a lifetime be
++Do the arithmetic where a hearing can see it. Ten thousand divided by fifty is two hundred. Write the two hundred on the slide, then ask what was multiplied. If the thing multiplied was ???childhood death became rare,??? two hundred times that is not a child who cannot die. If it was ???a letter got cheaper to read,??? two hundred times that is not wisdom about the letter. The ratio is a clock divided by a clock. It does not copy a kitchen.
++
++Run it backward, with the calendar visible. A fifty-year window that ends in 1900, stretched by the same trick, claims the year 11900. The claim would have been more engines and more wire. The method is not allowed to import, from a future it has not reached, the antibiotic, the transistor, or the wars that ate the people who would have built either. That is the method failing in a century we already lived. It does not get a promotion because the last fifty years felt larger. Felt is surprise. Surprise is not a slope.
++
++Cross out the sum. Keep the invoices that do not care about the feeling: energy, heat that has to go somewhere, a meeting that can fail, a body of many clocks, a childhood that is not a construction site.
++
+@@ -89 +101 @@ Appendix A39 writes the ratio, the rearview failure, and a short list of invoice
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -99 +111 @@ Figure 40. Time runs up the page. Two paths join the same two events. The straig
+-where the clock along a path reads the length of that path, measured the way time and space measure it together, and a bend can only shorten the reading.
++The clock along a path reads the length of that path, measured the way time and space measure it together, and a bend can only shorten the reading.
+@@ -132 +144 @@ Cold: a fast trip sold as an anti-aging plan. A body that ages slowly by its own
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -143 +155 @@ Figure 41. A furnace dial turned down from ???on??? to ???low.??? Below it, two
+-where ???torpor??? is a real, reversible drop in body temperature and metabolic rate, seen naturally in hibernating mammals and induced experimentally, in narrower forms, in humans.
++Torpor is a real, reversible drop in body temperature and metabolic rate, seen naturally in hibernating mammals and induced experimentally, in narrower forms, in humans.
+@@ -165 +177 @@ Cold: a scheduled human hibernation flight; torpor as a general anti-aging tool;
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -166,0 +179,6 @@ The slide shows a hibernating bear next to a sleeping astronaut and calls the se
++Price the spreadsheet, so the savings cannot be smuggled across into a longer life.
++
++Food for a crew is on the order of a kilogram a person a day, once you stop pretending a picnic is a manifest. Four people, six months, is the better part of a tonne before anyone has counted water, and water is the larger tank if the loop is not closed. A habitat that also carries the awake crew???s air, exercise, and room is larger again. Turn the furnace down and the spreadsheet smiles: less food, less water, a smaller can. Those savings are real as logistics. They are the bill Rohan already called a life-support answer. They are not a count of heartbeats. Nothing in the trial record says the traveler???s own clocks ran fewer ticks because the cruise was spent asleep.
++
++The squirrel clears a frightening brain marker in hours because the squirrel was built, over a very long winter, to do that and wake up. A healthy human has not been shown to collect extra Tuesdays by the same trick. Cardiac-arrest cooling is a narrow help for an injured brain in a short window. It is not a dial you set on a well person and then invoice as lifespan. Keep the two hourglasses in the figure draining. One is slower. Neither has stopped. Slower is not longer until a study measures the life, not the food.
++
+@@ -194 +212 @@ Appendix A42 writes institutions as a failure mode, war as a knowledge risk, and
+-Where the popular version goes wrong.
++The popular version goes wrong.
+diff --git a/Science Books/Look First/A Trip Is Not a New Life - Manuscript/10_Part_Ten_The_Honest_Body.md b/Science Books/Look First/A Trip Is Not a New Life - Manuscript/10_Part_Ten_The_Honest_Body.md
+index a5a621b..bd94f8e 100644
+--- a/Science Books/Look First/A Trip Is Not a New Life - Manuscript/10_Part_Ten_The_Honest_Body.md	
++++ b/Science Books/Look First/A Trip Is Not a New Life - Manuscript/10_Part_Ten_The_Honest_Body.md	
+@@ -35 +35 @@ Appendix A43 writes trials, harm, and why a price is a delivery truck. Here, kee
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -73 +73 @@ Say it so she stays in the chair: plasticity is real; spare capacity was a sales
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -109 +109 @@ Appendix A45 writes why a map is not a walk, and why a run of the map is at best
+-Where the popular version goes wrong.
++The popular version goes wrong.
+@@ -138 +138 @@ Appendix A46 writes the inventory by temperature, so a slide cannot rearrange it
+-Where the popular version goes wrong.
++The popular version goes wrong.

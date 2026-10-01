@@ -102,4 +102,4 @@ These need not be treated as rival descriptions fighting over which one is real.
 
 That said, one of the deepest questions in this entire subject is now sitting in plain view, and it would be evasive to keep walking past it. If the electromagnetic interaction can be described through relationships between charges, and if the potential enters directly into the phase of matter without needing a separate mediator to carry it — do we actually need to treat the electromagnetic field as an independent physical entity at all, with its own degrees of freedom, sitting between the charges as a substance in its own right?
 
-This is precisely the question Richard Feynman took up, a few years before quantum electrodynamics became his more famous legacy, in an unusual collaboration with John Wheeler. It gets the next several chapters, not a shrug.
+This is precisely the question Richard Feynman took up, a few years before quantum electrodynamics became his more famous legacy, in an unusual collaboration with John Wheeler. The next part keeps that question in its place. The list of what the quantum theory actually adds is Chapter 20.

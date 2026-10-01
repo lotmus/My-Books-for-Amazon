@@ -80,10 +80,10 @@ def ad_math():
     title(d, "When an ad cannot pay for itself")
     d.text((60, 140), "Teaching example. Not a bid you should copy.", fill=MUTED, font=font(26))
     lines = [
-        "You keep $1.88 on a $2.99 sale.",
+        "June keeps about $2.58 on a $3.99 sale.",
         "A click costs $0.30.",
-        "1 sale from every 10 clicks means the ad costs $3.00 to make that $1.88.",
-        "The click would need to cost about $0.19 or less to break even.",
+        "1 sale from every 10 clicks means the ad costs $3.00 to make that $2.58.",
+        "The click would need to cost about $0.26 or less to break even.",
         "If it costs more, fix the page before you raise the budget.",
     ]
     y = 230

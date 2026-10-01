@@ -26,7 +26,7 @@ It helps to make this concrete. Suppose an electron can reach a detector by two 
 
 Nothing about either route changed in isolation. Only the relationship between their two angles changed, and that relationship alone decided what showed up on the detector. This is the arithmetic underneath every interference pattern anyone has ever photographed, from ripples on a pond to the banded fringes of light passing through two narrow slits. Carry it forward as a mental picture: quantum outcomes are decided by adding arrows, not by adding probabilities.
 
-Do the addition once, on a page, with two arrows of length 1. Point one due north and one due south. Head to tail, they close: the sum has length 0, and a detector at that spot stays dark. Tip the south-pointing arrow ten degrees toward the east. They no longer close. A short leftover remains, and that leftover is the faint signal. The routes did not change their lengths. Only the angle between them changed. Keep this pair. Chapter 10 asks you to add it for neighboring paths. Chapter 25 asks you to add it for the path that wins.
+Do the addition once, on a page, with two arrows of length 1. Point one due north and one due south. Head to tail, they close: the sum has length 0, and a detector at that spot stays dark. Tip the south-pointing arrow ten degrees toward the east. They no longer close. The leftover has length about 0.17, and that 0.17 is the faint signal. The routes did not change their lengths. Only the angle between them changed. Keep this pair, and keep the number. Chapter 10 asks you to add it for neighboring paths. Chapter 25 asks you to add it for the path that wins.
 
 ![Figure 1. When two arrows point nearly the same way, they add into a long arrow — nearly opposite, and they cancel toward nothing. This one piece of arithmetic underlies every interference pattern in this book.](fig01_interference.png)
 
@@ -69,6 +69,8 @@ This raises an old worry in a sharper form. If potentials are doing real physica
 Physics is full of quantities that are perfectly solid at one scale and don't apply, as stated, at another. The right question, then, isn't *are the fields real?* but *at what level of description do they become the natural variables?* That distinction will matter a great deal once we get to systems where trillions of charges start acting as one, and this book will return to it more than once, from more than one angle, because it is easy to state and surprisingly hard to internalize.
 
 For now, there is a simpler experiment waiting, and it is the cleanest version of the puzzle we have just been circling. Take a charged quantum amplitude. Send it around a closed loop, back to where it started. And ask a question that sounds almost too simple to matter: did its phase come back unchanged?
+
+Stay if that question is the one you came for: you already know an electron interferes, and you want to know why the potential, the quantity a first course tells you to ignore, is the thing the interference notices. Put the book down if you wanted a textbook, a history of quantum electrodynamics, or a claim that fields are illusions. This book is none of those.
 
 ---
 

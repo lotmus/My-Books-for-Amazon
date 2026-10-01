@@ -1,0 +1,1130 @@
+THE RELATIVISTIC INVESTIGATION BUREAU
+
+A Novel
+
+by Nobody Who Was Entirely Certain That Time Exists
+
+
+PROLOGUE
+In Which Nobody Is Particularly Surprised by London
+
+There are certain things one should simply accept about London.
+
+It rains.
+
+The Underground is late.
+
+People queue for reasons that are not always immediately apparent.
+
+The Americans have opinions.
+
+And if somebody tells you that spacetime has become locally peculiar beneath a railway station, the sensible response is not to panic.
+
+One has tea.
+
+Then one panics.
+
+The Relativistic Investigation Bureau had been founded for precisely this sort of eventuality.
+
+Its purpose was not, strictly speaking, to investigate relativity. That would have been far too straightforward. It investigated things which appeared to be perfectly ordinary until someone applied Special or General Relativity to them, at which point they became either extremely interesting or extremely annoying.
+
+Usually both.
+
+The Bureau was run by Derek Gent, a man of formidable intelligence and questionable judgement, assisted by Trevor Boltzman, who was equally intelligent but occasionally required a small slap to make the obvious become obvious, and Penny, Derek's brilliant brunette cousin, who had developed the unfortunate habit of describing almost everything in terms which made Trevor reconsider the wisdom of having ears.
+
+Then there was Alfred Weinstein.
+
+He was the real inventor of Special and General Relativity.
+
+The fact that the world had somehow managed to attribute this achievement to a man named Einstein was regarded by Weinstein as an administrative error of truly impressive persistence.
+
+There was also Hermann Minkowski, Julius Barbarian, a cucumber, several clocks which had become increasingly unreliable in philosophical matters, and a London Underground train which appeared not to have been built.
+
+Things had therefore reached the stage at which nobody was especially surprised by anything.
+
+This was fortunate.
+
+Because the next three chapters were going to require it.
+
+
+CHAPTER 13
+The Station That Wasn't Quite There
+
+The first thing Derek noticed was that the station had twelve doors.
+
+The second thing he noticed was that it had thirteen.
+
+The third thing he noticed was that Trevor was counting them.
+
+"How many?"
+
+"Twelve."
+
+Derek pointed.
+
+"Thirteen."
+
+Trevor counted again.
+
+"Twelve."
+
+Penny looked.
+
+"Thirteen."
+
+Trevor looked again.
+
+"Twelve."
+
+Derek nodded.
+
+"Good."
+
+Trevor frowned.
+
+"Good?"
+
+"At least we're all seeing the same disagreement."
+
+They were standing in a corridor beneath London.
+
+It looked like an ordinary Underground corridor.
+
+This was, naturally, suspicious.
+
+The tiles were ordinary.
+
+The fluorescent lights were ordinary.
+
+The smell was ordinary.
+
+Even the damp patch on the wall was reassuringly ordinary.
+
+But the corridor was wrong.
+
+They had measured it.
+
+From one end to the other, it was exactly forty-seven metres.
+
+Walking one way took forty-seven metres.
+
+Walking back took forty-seven metres.
+
+Yet the number of doors changed.
+
+Penny stood at one end.
+
+"Again."
+
+Derek walked to the other.
+
+He counted.
+
+"Thirteen."
+
+Trevor followed.
+
+"Twelve."
+
+They returned.
+
+"Twelve."
+
+Penny smiled.
+
+"Thirteen."
+
+Derek stopped.
+
+"This isn't a door problem."
+
+Trevor looked relieved.
+
+"Excellent."
+
+"It's a geometry problem."
+
+Trevor looked less relieved.
+
+Derek took out his notebook.
+
+"Suppose we're looking at a coordinate effect."
+
+Penny nodded.
+
+"The physical corridor remains the same."
+
+"Yes."
+
+"But the coordinates assigned to it change."
+
+"Yes."
+
+Derek drew two coordinate grids.
+
+"The same event can have different coordinates in different frames."
+
+Trevor nodded.
+
+"Special Relativity."
+
+"Correct."
+
+"But this isn't simply Lorentz contraction."
+
+"Because?"
+
+"The discrepancy persists even when we're stationary relative to the corridor."
+
+Trevor frowned.
+
+"So SR isn't enough."
+
+"Exactly."
+
+Penny looked at the walls.
+
+"General Relativity."
+
+Derek nodded.
+
+"Curved spacetime."
+
+He drew a curved line.
+
+"In a curved spacetime, the geometry itself determines how distances and times relate locally."
+
+Trevor looked at the corridor.
+
+"But curvature isn't just something that makes rulers shrink."
+
+"No."
+
+"It changes the relationship between neighbouring measurements."
+
+"Exactly."
+
+Penny pointed.
+
+"So if we had a sufficiently strong gravitational field..."
+
+"Yes."
+
+"...two observers could construct local inertial frames that worked perfectly well in their own small regions, while their coordinate systems failed to fit together globally in the simple way we'd expect from flat spacetime."
+
+Derek smiled.
+
+"Precisely."
+
+Trevor nodded.
+
+"Well, that's settled."
+
+A train went past behind the wall.
+
+The entire corridor moved.
+
+Derek looked at it.
+
+"The station isn't moving."
+
+Trevor frowned.
+
+"The train is."
+
+"No."
+
+Penny looked at him.
+
+"What do you mean?"
+
+Derek pointed at the wall.
+
+"The station is moving relative to the train."
+
+Penny smiled.
+
+"Relativity."
+
+"Exactly."
+
+The lights flickered.
+
+For one second, every door disappeared.
+
+Then they returned.
+
+There were fourteen.
+
+Nobody spoke.
+
+Trevor counted them.
+
+"Fourteen."
+
+Penny counted.
+
+"Thirteen."
+
+Derek smiled.
+
+"Now we're getting somewhere."
+
+They moved toward the nearest door.
+
+It was numbered 7.
+
+They opened it.
+
+Inside was a small room containing two clocks.
+
+One read 11:17.
+
+The other read 12:04.
+
+Penny stared.
+
+"Again."
+
+Derek nodded.
+
+But this time there was something different.
+
+The clocks were not merely disagreeing.
+
+They were physically identical and standing less than two metres apart.
+
+Derek checked their mechanisms.
+
+Perfectly normal.
+
+He checked their positions.
+
+Normal.
+
+He checked the gravitational potential.
+
+Nothing remarkable.
+
+Then he moved one clock three metres down the corridor.
+
+The difference increased.
+
+He moved it back.
+
+The difference decreased.
+
+Trevor stared.
+
+"The gravitational field."
+
+Derek nodded.
+
+"But the field isn't strong enough."
+
+Penny looked at the clocks.
+
+"Not ordinary gravity."
+
+Derek shook his head.
+
+"Tidal gravity."
+
+He drew two nearby worldlines.
+
+"The important thing isn't simply the gravitational potential at one point. It's how the geometry changes from one point to another."
+
+Trevor nodded.
+
+"Geodesic deviation."
+
+"Exactly."
+
+The corridor suddenly tilted.
+
+Not physically.
+
+Geometrically.
+
+The clocks remained upright.
+
+The floor remained level.
+
+Yet Derek felt himself leaning.
+
+Penny grabbed the wall.
+
+Trevor sat down.
+
+"That's new."
+
+Derek smiled.
+
+"Very."
+
+A voice came from the loudspeaker.
+
+"Mind the gap."
+
+Derek looked up.
+
+"There is no gap."
+
+The voice repeated:
+
+"Mind the gap."
+
+The wall opened.
+
+Beyond it was another corridor.
+
+This one was longer.
+
+Much longer.
+
+It disappeared into darkness.
+
+Derek stared.
+
+"That shouldn't be there."
+
+Penny smiled.
+
+"Don't say impossible."
+
+"I wasn't going to."
+
+Trevor looked down the corridor.
+
+"Where does it go?"
+
+Derek checked the clock.
+
+11:17.
+
+Then the corridor clock.
+
+12:04.
+
+Then the clock on his wrist.
+
+It had stopped.
+
+He smiled.
+
+"Somewhere with a rather complicated metric."
+
+They walked in.
+
+
+CHAPTER 14
+The Train That Arrived Before It Left
+
+The corridor ended at Platform Seven.
+
+Derek stopped.
+
+"Of course."
+
+Penny looked at the sign.
+
+"Platform Seven."
+
+Trevor looked at the timetable.
+
+"There isn't a Platform Seven."
+
+Derek nodded.
+
+"Excellent."
+
+A train stood waiting.
+
+It was an ordinary Underground train.
+
+Except there was no driver.
+
+No passengers.
+
+No staff.
+
+And no record of the train on the timetable.
+
+Trevor looked at the destination board.
+
+LONDON TERMINUS.
+
+Penny frowned.
+
+"Where is that?"
+
+"Everywhere," said Derek.
+
+Trevor sighed.
+
+"That isn't helpful."
+
+The doors opened.
+
+Derek stepped inside.
+
+Penny followed.
+
+Trevor hesitated.
+
+Then followed.
+
+The doors closed.
+
+The train moved.
+
+It accelerated smoothly.
+
+Derek checked his watch.
+
+11:17.
+
+The train clock showed 11:17.
+
+Penny's phone showed 11:17.
+
+Trevor's phone showed 11:17.
+
+Everything was behaving.
+
+For almost three minutes.
+
+Then the train stopped.
+
+The doors opened.
+
+They were back at Platform Seven.
+
+Trevor stared.
+
+"But we haven't gone anywhere."
+
+Derek looked at the tunnel.
+
+"We did."
+
+"Where?"
+
+Derek pointed at the clocks.
+
+"They've advanced."
+
+11:18.
+
+Trevor looked at his phone.
+
+11:18.
+
+"But the station clock says 11:17."
+
+Penny smiled.
+
+"Different worldlines."
+
+Derek nodded.
+
+"Exactly."
+
+The train departed again.
+
+This time they watched the speed.
+
+It accelerated.
+
+The train's clock advanced.
+
+The platform clock did not.
+
+Then something truly odd happened.
+
+The train returned.
+
+Before it had left.
+
+They watched themselves standing on the platform.
+
+A second version of Derek stepped off the train.
+
+The two Dereks looked at each other.
+
+The first Derek said:
+
+"You're late."
+
+The second said:
+
+"I arrived before I left."
+
+Derek frowned.
+
+"That isn't possible."
+
+The other Derek smiled.
+
+"You're still thinking globally."
+
+Derek stared at him.
+
+The other Derek pointed at the train.
+
+"Locally, everything is fine."
+
+Penny stepped forward.
+
+"Then what's wrong?"
+
+"The coordinates."
+
+Trevor nodded.
+
+"Not the physics."
+
+"Exactly."
+
+The other Derek looked at Weinstein's equations written on a piece of paper.
+
+"Special Relativity tells you how inertial observers relate."
+
+Derek nodded.
+
+"Yes."
+
+"General Relativity tells you how spacetime itself can be curved."
+
+"Yes."
+
+"And neither theory requires a universal clock."
+
+Derek smiled.
+
+"Correct."
+
+The other Derek pointed at the station.
+
+"Then why are you insisting on one?"
+
+Derek looked around.
+
+The answer was obvious.
+
+He simply didn't like it.
+
+"We aren't."
+
+The other Derek smiled.
+
+"Good."
+
+He disappeared.
+
+Not vanished.
+
+Not faded.
+
+He simply ceased to be there.
+
+Trevor stared.
+
+"Where did he go?"
+
+Derek shrugged.
+
+"Virtuality."
+
+Penny smiled.
+
+"Obviously."
+
+The train moved again.
+
+This time Derek watched the rain.
+
+They had emerged above ground.
+
+Rain fell across the window.
+
+One droplet struck the glass.
+
+It split.
+
+One part went down.
+
+The other went up.
+
+Derek frowned.
+
+"That's not right."
+
+Penny nodded.
+
+"No."
+
+Trevor watched the droplet.
+
+"Could it be the train?"
+
+"Possibly."
+
+"The rain?"
+
+"Possibly."
+
+"The geometry?"
+
+Derek smiled.
+
+"Now you're thinking."
+
+They arrived at a station.
+
+The clocks all read 12:04.
+
+Derek stepped onto the platform.
+
+The rain was falling normally again.
+
+A newspaper lay on a bench.
+
+The headline read:
+
+RELATIVITY PROVED WRONG.
+
+Derek picked it up.
+
+Underneath was a second headline:
+
+RELATIVITY PROVED RIGHT.
+
+Underneath that:
+
+BOTH.
+
+He smiled.
+
+"Americans?"
+
+Penny looked at the paper.
+
+"No."
+
+Derek nodded.
+
+"Fair."
+
+
+CHAPTER 15
+The Geometry of Everything Else
+
+Back at the Bureau, Weinstein was waiting.
+
+The door to his office was closed.
+
+Obviously.
+
+Derek knocked.
+
+"Come in."
+
+They entered.
+
+Weinstein looked at the clocks.
+
+Then at the cucumber.
+
+Then at Derek.
+
+"You've found it."
+
+Derek nodded.
+
+"The geometry."
+
+Weinstein smiled.
+
+"Yes."
+
+Penny put the cucumber on the desk.
+
+"We found something else."
+
+Weinstein looked at it.
+
+"What?"
+
+"The cucumber was in all the frames."
+
+Trevor nodded.
+
+"Same object."
+
+"Different coordinates."
+
+"Yes."
+
+"Different measured lengths while moving."
+
+"Yes."
+
+"Same invariant physics."
+
+"Yes."
+
+Weinstein nodded.
+
+"Good."
+
+Derek sat down.
+
+"So what have we actually discovered?"
+
+Weinstein looked out the window.
+
+"It isn't that SR and GR are competing descriptions."
+
+"No."
+
+"They are layers of the same description."
+
+"Yes."
+
+"SR tells us what physics looks like locally when gravity can be neglected."
+
+"Yes."
+
+"GR tells us how those local descriptions fit together in curved spacetime."
+
+"Yes."
+
+"And the deeper question is whether spacetime itself is fundamental."
+
+Derek nodded.
+
+"Holography."
+
+"Perhaps."
+
+"Information."
+
+"Perhaps."
+
+"Entanglement."
+
+"Perhaps."
+
+"Time."
+
+Weinstein smiled.
+
+"Especially time."
+
+Trevor frowned.
+
+"So time doesn't exist?"
+
+Weinstein looked at him.
+
+"That is too strong."
+
+Trevor nodded.
+
+"Right."
+
+"We experience temporal order."
+
+"Yes."
+
+"We measure proper time."
+
+"Yes."
+
+"Clocks are physical systems."
+
+"Yes."
+
+"So time is certainly meaningful."
+
+"Yes."
+
+"But whether time is fundamental is another question."
+
+Trevor nodded.
+
+"Well, that's settled."
+
+Weinstein smiled.
+
+"For now."
+
+Derek looked at the cucumber.
+
+"And the singularity?"
+
+Weinstein's expression changed.
+
+"The singularity is where our classical description reaches its limit."
+
+"Because curvature becomes pathological."
+
+"Possibly."
+
+"Or geodesics become incomplete."
+
+"Yes."
+
+"Not simply because gravity becomes very strong."
+
+"Correct."
+
+Derek nodded.
+
+"Good."
+
+Penny leaned against the desk.
+
+"So what was the London Underground anomaly?"
+
+Weinstein looked at her.
+
+"A clue."
+
+"To what?"
+
+"To the fact that coordinate descriptions can become misleading when spacetime geometry is nontrivial."
+
+"That's it?"
+
+"That is quite a lot."
+
+Penny smiled.
+
+"Fair."
+
+Derek looked at the clocks.
+
+"Then why did they all stop at 11:17?"
+
+Weinstein didn't answer immediately.
+
+He walked to the window.
+
+Rain was falling.
+
+Normal rain.
+
+Very British rain.
+
+He watched it for a moment.
+
+Then said:
+
+"Perhaps 11:17 wasn't a time."
+
+Derek stared.
+
+"What?"
+
+"It was an event."
+
+Penny nodded slowly.
+
+"The clocks were labelling the event."
+
+"Yes."
+
+"And when the geometry changed, the labels became useless."
+
+"Exactly."
+
+Trevor looked thoughtful.
+
+"So 12:04 wasn't later than 11:17?"
+
+Weinstein smiled.
+
+"Not necessarily in the simplistic sense you're imagining."
+
+Trevor nodded.
+
+"Right."
+
+Derek smiled.
+
+"Well, that's settled."
+
+They all looked at him.
+
+Then laughed.
+
+For once, nobody objected.
+
+The room became quiet.
+
+Then Penny noticed something.
+
+The cucumber was ticking.
+
+She looked at it.
+
+Tick.
+
+Tick.
+
+Tick.
+
+Derek approached.
+
+"What is it?"
+
+Penny shook her head.
+
+"I don't know."
+
+Weinstein picked it up.
+
+The ticking stopped.
+
+Everyone waited.
+
+Nothing.
+
+He put it down.
+
+Tick.
+
+Tick.
+
+Tick.
+
+Trevor looked horrified.
+
+"That's definitely not normal."
+
+Derek smiled.
+
+"No."
+
+Penny picked it up.
+
+The ticking stopped.
+
+She put it down.
+
+Tick.
+
+Tick.
+
+Derek looked at Weinstein.
+
+"Clock?"
+
+"No."
+
+"Quantum effect?"
+
+"Possibly."
+
+"Gravitational?"
+
+"Possibly."
+
+"Holographic?"
+
+"Possibly."
+
+"Relativistic?"
+
+"Definitely."
+
+Derek smiled.
+
+"Well, that's settled."
+
+The cucumber ticked again.
+
+11:17.
+
+And then the Bureau's lights went out.
+
+For three seconds there was complete darkness.
+
+When the lights came back on, every office door was open.
+
+Every single one.
+
+Derek looked down the corridor.
+
+Empty offices.
+
+Open doors.
+
+Virtuality everywhere.
+
+He smiled.
+
+"That's going to make tomorrow interesting."
+
+Penny looked at him.
+
+"Tomorrow?"
+
+Derek checked his watch.
+
+It read 11:17.
+
+Then 12:04.
+
+Then nothing.
+
+He shrugged.
+
+"Eventually."
+
+Outside, the rain continued.
+
+London continued.
+
+The Underground continued.
+
+The Earth continued rotating.
+
+The planets continued orbiting.
+
+The stars continued burning.
+
+And somewhere, perhaps on a boundary we could not see, the information describing all of it continued doing whatever information does when nobody is looking.
+
+Perhaps spacetime was fundamental.
+
+Perhaps it was emergent.
+
+Perhaps time existed.
+
+Perhaps it merely kept poetry from sounding like a fart.
+
+Perhaps the universe was holographic.
+
+Perhaps the cucumber was not.
+
+Nobody knew.
+
+But the Bureau had learned one thing.
+
+If two perfectly respectable theories appeared to disagree, the sensible response was not to choose sides.
+
+One investigated the geometry.
+
+One checked the clocks.
+
+One brought a cucumber.
+
+And, if the office door was open, one waited.
+
+Obviously.
+
+
+END OF BOOK

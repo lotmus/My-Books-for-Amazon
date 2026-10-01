@@ -1,5 +1,7 @@
 Every electromagnetism course teaches the same story in the same order: charges make fields, fields exert forces, and quantum mechanics gets bolted on later as a correction. THE QUANTUM CONVERSATION tells the story in the opposite direction — not because that replaces the textbook, but because that is the direction in which the quantum description actually runs.
 
+Feynman explains quantum electrodynamics from the field forward. Mead starts from the superconductor. This book walks from one electron’s phase to a circuit you can build, and it says where each of them stops.
+
 It starts with one electron’s quantum phase: the angle hiding inside every amplitude that most courses mention once and never use again. From there it builds outward. The electromagnetic potential is what reshapes that phase. The familiar E and B fields are what that structure looks like after you have already taken the classical limit. The Lorentz force is not being retired. It is being placed.
 
 Along the way:

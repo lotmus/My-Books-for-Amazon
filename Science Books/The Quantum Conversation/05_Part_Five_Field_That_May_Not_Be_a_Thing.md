@@ -4,8 +4,6 @@
 
 ## 15. What If the Field Isn't Independent?
 
-*The next five chapters are a question, not a replacement for QED. Wheeler–Feynman absorber theory is a mid-century reformulation of classical radiation reaction. It cannot reproduce QED's radiative corrections, vacuum polarization, or particle creation. Its value is the question it forces: must the field be an independent thing, or can it be a bookkeeping of relationships? The standard theory remains QED. If you are on the spine, read this chapter and the next, then go to Chapter 20. Chapters 17 through 19 are the rest of the aside.*
-
 Physics has a dangerous habit. Someone invents a useful mathematical object. It works. People calculate with it. Other people learn to calculate with it. Textbooks get written about it. And somewhere along the way, everyone forgets that the object was invented at all — it starts to feel like a piece of furniture that was simply sitting in the universe, waiting to be discovered rather than constructed.
 
 Fields are unusually susceptible to this treatment, and the electromagnetic field most of all. It is so deeply embedded in how physics gets taught and practiced that asking whether it's an independent piece of physical furniture, rather than a useful description, can sound almost heretical. But physics has taught this lesson to itself repeatedly, in other contexts, without much controversy. Temperature is real, measurably real, and yet there is no tiny substance called temperature that flows from a hot object into a cold one; temperature is a statistical property of a huge number of molecular motions, not itself one more ingredient added to the mix.
@@ -42,31 +40,15 @@ That viewpoint becomes especially provocative once set beside the quantum-phase 
 
 ![Figure 14. Retarded and advanced are two pieces of one solution, drawn here as arrows in time. Sum the response of every charge that will absorb the radiation, and the backward pieces cancel. What remains is the forward radiation and the recoil a detector actually sees.](fig14_absorber.png)
 
-The spine resumes at Chapter 20. Chapters 17 through 19 stay with the question only where it gets expensive: a beam that carries energy, the Poynting flux that accounts for it, and the photon that arrives with a definite energy and momentum. Skip there if the circuit is why you came.
+Sound needs air. Take the air away and the conversation stops, because a sound wave is a disturbance of a material. Light does not work that way. It crosses a vacuum, and the standard description of that fact is the quantized electromagnetic field. This part is not reviving the nineteenth-century ether, the invisible mechanical medium that was discarded for good reason.
 
----
-
-## 17. A Field or a Relationship?
-
-This chapter is the aside. The spine resumes at Chapter 20.
-
-Picture two people talking across a room. You can describe the conversation as sound waves propagating through the air between them — a perfectly good physical account. Or you could describe it as the state of one person's vocal apparatus, the state of the air, and the response of the other person's ears — a different but equally valid decomposition of the very same physical process. Now imagine removing the air. The analogy collapses immediately, because sound requires a material medium to propagate through, and no clever reformulation changes that fact.
-
-Electromagnetism does not share this limitation. Electromagnetic radiation crosses the vacuum of space perfectly well, with no material medium required, and the standard description of that fact is the quantized electromagnetic field. To be clear, this Part draws no support from the old nineteenth-century luminiferous ether, the invisible mechanical medium physicists eventually discarded for good reason; reviving it here would be a step backward, not forward.
-
-The interesting question is subtler than "field or ether." A mathematical object can be treated as fundamental and dynamical in one formulation of a theory, and as a derived or effective object in another formulation of the very same physics — and modern physics is full of this kind of flexibility, where different mathematical descriptions expose different structure while still agreeing on every observable prediction. That is why "field versus relationship" has no single winner-takes-all answer; the more productive question is which description makes which physics easiest to see clearly.
-
-For microscopic scattering processes at high energy, the quantum-field formulation of QED is extraordinarily powerful, and nothing else comes close. For coherent superconducting systems, a collective-phase description can make phenomena that look baffling in field language almost obvious. For certain deep questions about radiation and interaction, direct-action thinking exposes conceptual structure that the field description tends to paper over. The mistake would be insisting that any one of these three languages ought to handle every explanatory job equally well. A subway map is a wonderful way to navigate underground transit and a nearly useless way to find a hiking trail; that doesn't make the subway map wrong, it makes it a tool built for a specific purpose.
-
-Physics is more tightly constrained than cartography (every formulation still has to respect the same experiments, in a way that a hiking map and a subway map never have to agree with each other), but the underlying lesson survives the analogy intact: a good physical description is one that makes the structure relevant to the question at hand visible, not one that claims to be the single true picture underlying all the others.
-
-Chapter 18 is where the idea gets expensive. A beam of light carries energy whether or not anyone has decided the field is a substance.
+The useful question is which description makes which physics easy to see. High-energy scattering belongs to QED. A coherent superconductor belongs to the collective phase. Radiation reaction is where the direct-action account earns its keep. None of the three is obliged to do the other two jobs. Chapter 18 is where that limit shows up in the laboratory: a beam of light carries energy and momentum whether or not anyone has decided the field is a substance. Absorber theory, as this chapter has it, cannot reproduce QED's radiative corrections, vacuum polarization, or particle creation. If the circuit is the destination, Chapter 20 is next.
 
 ---
 
 ## 18. Radiation Is Where Things Get Serious
 
-A beam of light carries energy and momentum. It can push a solar sail. It knocks electrons out of a metal one photon at a time. The last three chapters made an independent field sound optional: charges interact, phases shift, familiar fields emerge downstream, coherence makes phase visible. The beam is where that idea gets expensive.
+A beam of light carries energy and momentum. It can push a solar sail. It knocks electrons out of a metal one photon at a time. The last two chapters made an independent field sound optional: charges interact, phases shift, familiar fields emerge downstream, coherence makes phase visible. The beam is where that idea gets expensive.
 
 There are, in fact, several different questions tangled together inside the single word *radiation*, and keeping them apart matters. One is a classical question: how does an accelerating charge come to produce electromagnetic radiation in the first place? A second is a quantum question: how does matter emit and absorb individual photons? A third is a foundational question, and the hardest of the three: does the mere existence of radiation require the electromagnetic field to possess independent degrees of freedom of its own? These questions are related, but they are not the same question wearing three hats.
 
@@ -106,15 +88,7 @@ That reformulation is conceptually possible in certain restricted settings, but 
 
 Claiming that all electromagnetic energy ultimately belongs to matter and its interactions carries an obligation to show, in detail, how that reformulated theory reproduces energy conservation, momentum conservation, radiation, propagation at the speed of light, interference, electromagnetic waves, photon emission, photon absorption, and the experimentally verified quantum corrections that QED gets right to the same one-part-in-a-billion precision noted back in Chapter 9. That is a formidable list. Direct-action thinking illuminates real pieces of it beautifully. Ordinary QED remains powerful because it handles the entire list at once, inside one relativistic quantum framework, without needing to reformulate anything on a case-by-case basis.
 
-The honest move here isn't to declare a winner but to ask a sharper question: what is gained, in each specific case, by changing the viewpoint?
-
-Here is one way to hold both halves of that answer at once, borrowed from something more mundane than physics. Imagine a complicated financial transaction involving thousands of people. You could track every individual account separately, transaction by transaction. Or you could build an intermediate accounting system that records the flow of funds between departments, without needing to reference any one person's account directly. That accounting system is not a person, and it would be strange to worry that it might be secretly alive. But it is not meaningless either: it captures real constraints, real conservation laws, real structure in how money moves.
-
-The electromagnetic field can be viewed, at least in part, in this spirit: a local bookkeeping system, telling you what's happening at every point in spacetime, letting you write conservation laws locally rather than only globally, providing a natural relativistic description, and, once quantized, giving you photons as a bonus. Calling it a bookkeeper does not mean calling it imaginary.
-
-Before moving on, one clarification: the phrase "energy stored in the field" invites the kind of philosophical confusion this book keeps trying to head off. A different formulation may legitimately assign the very same total energy differently than the standard field picture does — emphasizing interaction terms between charges, say, rather than crediting an independent field with carrying energy of its own. But a different bookkeeping convention is not the same thing as energy disappearing. Energy conservation survives every reformulation on offer. Momentum conservation survives. Radiation survives, unambiguously, as a real, measurable phenomenon.
-
-What actually changes from formulation to formulation is only where the mathematical description chooses to place the corresponding degrees of freedom. That is a legitimate, serious foundational question. It is never permission to quietly stop conserving energy.
+What changes from one formulation to another is where the description places the degrees of freedom. A different bookkeeping can assign the same total energy to the interaction of the charges rather than to a field sitting between them. Energy conservation survives that rewrite. Momentum conservation survives it. Radiation survives it. The rewrite is never permission to stop conserving energy, and it is not, by itself, a replacement for QED.
 
 There is a further reason to hold this discussion to a high standard, and it's the same reason Chapter 9 raised in passing: a real photon is more than an accounting entry in someone's calculation. It can be detected, arriving at a detector with a definite, measurable energy and momentum:
 

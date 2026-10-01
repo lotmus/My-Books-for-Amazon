@@ -6,7 +6,7 @@
 
 Use this as a frame, the way you would use a launch calendar for a book. If a step is not true yet — the page does not take payment, the example in the video is fake, the license on the footage is unread — move the date. A channel that goes live with nothing to buy has followed a posting schedule and missed the title of this book.
 
-Hours below are a modest pace for one person using the free tools in the production chapter. If you have less time, stretch a week into two. Do not delete the offer to save an evening.
+Hours below are a modest pace for one person using the free tools in the production chapter. If you have less time, stretch a week into two. Do not delete the offer to save an evening. The $200 in the offer chapter is the offer video alone. The other seven videos have hours too. Write them on the money sheet before the decision in week six.
 
 ## I. Week one: the offer on a page
 
@@ -20,7 +20,7 @@ Set up the channel only as far as the offer needs: a name a buyer understands, a
 
 Film “who it is for” and the offer video. Package them with the click chapter’s limits: keyword first in the title, benefit in the first lines of the description, one link, pinned comment with the same link. Review the captions before you publish. A misheard price in the automatic captions is a broken offer.
 
-Publish both in the same week if they are ready. Tell three people who match the buyer sentence, not three people who like you, and ask them to try to find the price without your help. If they cannot, fix the description before you make video three.
+Publish both in the same week if they are ready. Those two go up before the other six exist, on purpose, so a stranger can find a price while the rest of the set is still unfilmed. The order a stranger should watch is a different list. Week five’s last video names it. Tell three people who match the buyer sentence, not three people who like you, and ask them to try to find the price without your help. If they cannot, fix the description before you make video three.
 
 ## III. Week three: their words, then the method
 
@@ -36,7 +36,7 @@ Check the offer page again. Does it match what these videos now promise? Update 
 
 ## V. Week five: comparison, the path, then the count
 
-Film the comparison: your offer versus the usual alternative, including doing nothing. Then film the short video whose only job is to name which of the other seven to watch next, in order, by title. Publish both. Then stop making new videos for several days and read only these counts, written down with the date:
+Film the comparison: your offer versus the usual alternative, including doing nothing. Then film the video whose only job is to name which of the other seven to watch next, in order, by title. That video may be a long video, or a Short that points at one of them. The offer video may not be a Short. Publish both. This path video is the order a stranger should watch. The week-two pair was the early test. Then stop making new videos for several days and read only these counts, written down with the date:
 
 - Views on the offer video.
 - Clicks from your videos to the offer page, if your page or the platform shows them. If you cannot see clicks, count visits to the page another honest way, or ask the three buyers from week two what they clicked.
@@ -47,7 +47,7 @@ Do not change the price, the title, and the offer in the same week. You would no
 
 ## VI. Week six: one decision
 
-Choose one of these, and write the reason in a sentence:
+Read the money sheet first, including the hours of every video you have filmed. The offer chapter’s $200 was one video. Then choose one of these, and write the reason in a sentence:
 
 - **Keep the offer and fill any gap in the eight,** because someone who is not a friend reached the page or paid. If all eight are already live, do not invent a ninth topic. Make the path between them clearer.
 - **Rewrite the offer video and the first lines of the description,** because people watched and did not reach the page.

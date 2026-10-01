@@ -22,11 +22,11 @@ Der Vergleich mit Deutschland hilft beim Einordnen. Die Blaue Karte EU verlangt 
 
 ### Der Umweg über ein Arbeitsvisum: TFWP und IMP
 
-Nicht jeder Weg nach Kanada führt zuerst über Express Entry. Wer schneller einreisen will oder noch nicht genug CRS-Punkte hat, kann über ein befristetes Arbeitsvisum vorgehen – und sich die kanadische Erfahrung später für die Canadian Experience Class oder eine Provinznominierung anrechnen lassen. Kanada trennt befristete Arbeitserlaubnisse in zwei Schienen. Das *Temporary Foreign Worker Program* (TFWP) verlangt vom kanadischen Arbeitgeber vorab eine positive *Labour Market Impact Assessment* (LMIA, eine Arbeitsmarktprüfung), den behördlichen Nachweis, dass keine Kanadierin, kein Kanadier und keine bereits im Land lebende Person für die Stelle verfügbar ist. Die LMIA-Gebühr von 1.000 CAD je Stelle trägt allein der Arbeitgeber, nicht erstattungsfähig; die Bearbeitung dauert je nach Kategorie höchst unterschiedlich lang, von rund zehn Werktagen (Global Talent Stream) bis zu etwa 88 Werktagen bei Standardanträgen im hohen Lohnsegment.
+Nicht jeder Weg nach Kanada führt zuerst über Express Entry. Wer schneller einreisen will oder noch nicht genug CRS-Punkte hat, kann über ein befristetes Arbeitsvisum vorgehen – und sich die kanadische Erfahrung später für die Canadian Experience Class oder eine Provinznominierung anrechnen lassen. Kanada trennt befristete Arbeitserlaubnisse in zwei Schienen. Das *Temporary Foreign Worker Program* (TFWP) verlangt vom kanadischen Arbeitgeber vorab eine positive *Labour Market Impact Assessment* (LMIA, eine Arbeitsmarktprüfung), den behördlichen Nachweis, dass keine Kanadierin, kein Kanadier und keine bereits im Land lebende Person für die Stelle verfügbar ist. Die LMIA-Gebühr trägt der Arbeitgeber. Den Betrag und die aktuelle Bearbeitungsrichtung nennt IRCC auf canada.ca, bevor jemand zahlt.
 
 Das *International Mobility Program* (IMP) befreit von dieser Pflicht, wenn die Stelle einen breiteren wirtschaftlichen, kulturellen oder reziproken Nutzen für Kanada hat. Für deutsche Bewerberinnen und Bewerber ist hier vor allem eine Kategorie interessant: Das Handelsabkommen *CETA* (das Freihandelsabkommen zwischen der EU und Kanada) erlaubt bestimmten Berufsgruppen – etwa in Management- oder Spezialistenfunktionen – ein LMIA-freies Arbeitsvisum, sofern die Voraussetzungen des Abkommens erfüllt sind. Auch konzerninterne Versetzungen (*Intra-Company Transfer*, ICT) laufen über das IMP, ebenso das Post-Graduation Work Permit für Absolventinnen und Absolventen kanadischer Hochschulen.
 
-Seit Februar 2026 prüft IRCC einige dieser LMIA-freien Kategorien deutlich strenger: Bei konzerninternen Versetzungen muss die Muttergesellschaft inzwischen eine umsatzerzielende Geschäftstätigkeit in mindestens zwei Ländern nachweisen; eine reine kanadische Neugründung ohne bestehendes Auslandsgeschäft qualifiziert nicht mehr. Ein Standard-Arbeitsvisum kostet 155 CAD je Person (inklusive Verlängerungen), ein offenes, nicht arbeitgebergebundenes Arbeitsvisum zusätzlich 100 CAD Zuschlag.
+Seit Februar 2026 prüft IRCC einige dieser LMIA-freien Kategorien deutlich strenger: Bei konzerninternen Versetzungen muss die Muttergesellschaft inzwischen eine umsatzerzielende Geschäftstätigkeit in mindestens zwei Ländern nachweisen; eine reine kanadische Neugründung ohne bestehendes Auslandsgeschäft qualifiziert nicht mehr. Die Gebühr für das Arbeitsvisum und den Zuschlag für ein offenes Visum liest du auf der IRCC-Gebührenseite, bevor du zahlst.
 
 > **Achtung:** Ein Arbeitsvisum über TFWP oder IMP ist immer befristet und meist an einen einzigen Arbeitgeber gebunden. Es ersetzt keinen PR-Antrag – wer nicht rechtzeitig einen Anschlussweg einleitet (CEC, Provinznominierung, eine neue Express-Entry-Runde), muss Kanada nach Ablauf des Visums wieder verlassen.
 
@@ -119,7 +119,7 @@ Beginne mit der Bestandsaufnahme: Lass deinen Abschluss über eine anerkannte St
 > - [ ] Prüfen, ob ein befristetes Arbeitsvisum als schnellerer Zwischenschritt infrage kommt
 > - [ ] Bei knappem Score: Französischkenntnisse als zusätzlichen Hebel erwägen
 > - [ ] Vor jeder Entscheidung aktuelle Cutoffs und Gebühren auf canada.ca prüfen
-> - [ ] ECA nicht mit der Provinzlizenz verwechseln: [Anerkennung deutscher Berufsabschlüsse](#tka17)
+> - [ ] ECA nicht mit der Provinzlizenz verwechseln: [Anerkennung deutscher Berufsabschlüsse](#tka03a)
 > - [ ] Abmeldung und Rente über [Deutschland vor dem Abflug](#t0003) planen
 
 ### Quellen und weiterführende Links

@@ -1,0 +1,156 @@
+words 229576 paras 8874 tables 287
+h1 count 1156
+styles [('Normal', 4535), ('Heading 1', 1156), ('List Bullet', 1149), ('Heading 2', 1070), ('List Number', 570), ('Heading 3', 392), ('Title', 1), ('Subtitle', 1)]
+margins L0.900 R0.800 T0.800 B0.750
+hyperlinks 0
+drawings 0
+oMath 3036
+--- H1 LESSONS ---
+Table of Contents
+Lesson 1 Complex Numbers and Linear Algebra
+Part I Prerequisites
+Lesson 2 Calculus and Differential Equations
+Lesson 3 Special Relativity
+Lesson 4 Four Vectors and Lorentz Transformations
+Lesson 5 Classical Mechanics and Lagrangians
+Lesson 6 Hamiltonian Mechanics
+Lesson 7 Maxwell Equations
+Lesson 8 Electromagnetic Potentials and Gauge Freedom
+Part II Quantum Mechanics
+Lesson 9 Wave Functions and Hilbert Spaces
+Lesson 10 Operators and Observables
+Lesson 11 Schrodinger Equation
+Lesson 12 Momentum and Position
+Lesson 13 Angular Momentum
+Lesson 14 Spin and Pauli Matrices
+Lesson 15 Perturbation Theory
+Lesson 16 Identical Particles
+Part III Relativistic Quantum Mechanics
+Lesson 17 Klein Gordon Equation
+Lesson 18 Why the Schrodinger Equation Is Not Enough
+Lesson 19 Dirac Equation
+Lesson 20 Gamma Matrices
+Lesson 21 Dirac Spinors
+Lesson 22 Antiparticles
+Lesson 23 Relativistic Probability and Current
+Part IV Classical Field Theory
+Lesson 24 Fields as Dynamical Systems
+Lesson 25 Lagrangian Density
+Lesson 26 Euler Lagrange Equations for Fields
+Lesson 27 Noether Theorem
+Lesson 28 Continuous Symmetries
+Lesson 29 Conserved Currents
+Lesson 30 Global U(1) Symmetry
+Part V Quantum Field Theory
+Lesson 31 Why Particles Become Fields
+Lesson 32 Quantizing the Scalar Field
+Lesson 33 Creation and Annihilation Operators
+Lesson 34 Fock Space
+Lesson 35 Quantizing the Dirac Field
+Lesson 36 Anticommutation Relations
+Lesson 37 Quantizing the Electromagnetic Field
+Part VI QED
+Lesson 38 Local U 1 Gauge Symmetry
+Lesson 39 Deriving the Electromagnetic Interaction
+Lesson 40 The Covariant Derivative
+Lesson 41 The QED Lagrangian
+Lesson 42 The Field Tensor
+Lesson 43 Charge as a Coupling Constant
+Lesson 44 The Electron-Photon Vertex
+Part VII Feynman Diagrams
+Lesson 45 Propagators
+Lesson 46 The Electron Propagator
+Lesson 47 The Photon Propagator
+Lesson 48 Interaction Vertices
+Lesson 49 Feynman Rules
+Lesson 50 Scattering Amplitudes
+Lesson 51 External Spinors and Polarization
+Lesson 52 Momentum Conservation
+Part VIII Real Calculations
+Lesson 53 Electron-Muon Scattering
+Lesson 54 Electron-Electron Scattering
+Lesson 55 Electron-Positron Annihilation
+Lesson 56 Compton Scattering
+Lesson 57 Pair Production
+Lesson 58 From Amplitude to Cross Section
+Lesson 59 Decay Rates
+Lesson 60 Experimental Predictions
+Part IX Quantum Corrections
+Lesson 61 Loop Diagrams
+Lesson 62 Vacuum Polarization
+Lesson 63 Electron Self-Energy
+Lesson 64 Vertex Corrections
+Lesson 65 Ultraviolet Divergences
+Lesson 66 Regularization
+Lesson 67 Renormalization
+Lesson 68 Running Electric Charge
+Lesson 69 Renormalization Group
+Part X Deep QED
+Lesson 70 Gauge Fixing
+Lesson 71 Ward Identities
+Lesson 72 Gauge Invariance
+Lesson 73 Infrared Divergences
+Lesson 74 Soft Photons
+Lesson 75 The Anomalous Magnetic Moment
+Lesson 76 Lamb Shift
+Lesson 77 Vacuum Polarization and Precision
+Lesson 78 Precision Tests of QED
+Part XI Beyond the Basic Course
+Lesson 79 Path Integrals
+Lesson 80 Generating Functionals
+Lesson 81 Effective Actions
+Lesson 82 Functional Methods
+Lesson 83 Feynman Rules from the Path Integral
+Lesson 84 QED at Finite Temperature
+Lesson 85 QED in External Fields
+Lesson 86 Connection to the Standard Model
+Glossary of symbols
+Course capstone
+Consolidated formula index
+--- NEEDLES ---
+YES Update Field
+YES __QEDCourseTOC_END__
+YES sky is blue
+YES Rayleigh
+NO  define the essential objects
+NO  d=4−2ε
+NO  Copyright
+NO  ISBN
+YES Glossary of symbols
+YES Bloch-Nordsieck
+YES α/(2π)
+YES e²_eff
+NO  FIG:
+YES collinear
+YES How to use this lesson
+--- L68 ---
+Lesson 68 carries this out in full, and finds something Section 4 did not: the measured charge, once vacuum polarization is properly included, is not even quite the same number at every energy scale.
+Worked example 5
+State, without doing any calculation, what result from earlier in this course already suggested that Lesson 68 would need to say something about vacuum polarization specifically. Lesson 62 closed by naming this same connection: its Section 5 described three remaining tasks, and the third, using Π(q²) to determine how the electron's effective charge depends on distance or energy, was assigned to Lesson 68.
+6 Why a short list makes this work for the whole theory
+Lesson 65 found that only four combinations of external legs can ever produce a divergent diagram in QED, at least at the one-loop order this course works at: two photons (vacuum polarization), two electrons (self-ener
+--- L76 ---
+Lesson 76 revisits this calculation using the full Dirac equation, which reproduces this same formula exactly, order by order, and adds further corrections, the Lamb shift, that require quantum field theory itself.
+6 The nature of the perturbation series
+6.1 Asymptotic, not convergent
+The perturbation series of Section 2 is, in most physically interesting cases including QED itself, an asymptotic series rather than a convergent one: adding more terms improves the approximation up to some optimal order, after which further terms make it worse, because the true dependence on the coupling constant (here, informally, the strength of H′) is typically not an analytic function of it near zero, a fact tied to the existence of processes, such as ionization in a static field however small, that have no perturbative counterpart at any finite order. This does not undermine the method: the first few 
+--- L86 ---
+Lesson 86 closes the course by placing U(1)_EM inside the electroweak theory, without deriving the Higgs mechanism in full.
+
+Lesson 86 Connection to the Standard Model
+How to use this lesson
+This course quantized a U(1) gauge theory of electrons and photons. In the Standard Model the photon is a mixture of the weak hypercharge boson and the third weak isospin boson, after a scalar vacuum expectation value breaks SU(2)×U(1)_Y to U(1)_EM. This lesson states that fact, identifies α as a low-energy parameter, and does not derive the Higgs potential or compute a weak decay. Expect four to five hours. Everything this course derived remains the correct description of electrons and photons at energies well below 80 GeV, up to corrections of order s/M_W². The running of α continues; other charged particles, including quarks, add to Lesson 68's coefficient. The Ward identity still protects the pho
+--- GLOSS ---
+Glossary of symbols
+Compiled from the lesson notation tables. When a symbol changes meaning, both uses are listed.
+
+Course capstone
+Starting from a free Dirac field, impose local U(1) phase invariance, introduce the covariant derivative and the electromagnetic field, derive the QED Lagrangian, quantize the free fields, read off the vertex +ieγ^μ and the propagators, construct the five tree-level processes of Part VIII, convert |ℳ|² to a cross section, and distinguish Rutherford's photon-exchange pole from a collinear fermion pole. Then, at one loop, regularize with a cutoff, absorb the ultraviolet divergence of the self-energy into m₀, run the charge with vacuum polarization, state the Ward identity that justifies Feynman gauge, cancel infrared logarithms in an inclusive rate, and derive a=α/(2π). The capstone is complete when each arrow is justified with an equation from this volume.
+
+C
+--- CAP ---
+Course capstone
+Starting from a free Dirac field, impose local U(1) phase invariance, introduce the covariant derivative and the electromagnetic field, derive the QED Lagrangian, quantize the free fields, read off the vertex +ieγ^μ and the propagators, construct the five tree-level processes of Part VIII, convert |ℳ|² to a cross section, and distinguish Rutherford's photon-exchange pole from a collinear fermion pole. Then, at one loop, regularize with a cutoff, absorb the ultraviolet divergence of the self-energy into m₀, run the charge with vacuum polarization, state the Ward identity that justifies Feynman gauge, cancel infrared logarithms in an inclusive rate, and derive a=α/(2π). The capstone is complete when each arrow is justified with an equation from this volume.
+
+Consolidated formula index
+Working formulae as they appear in the written lessons, not slogans from a skeleton outlin

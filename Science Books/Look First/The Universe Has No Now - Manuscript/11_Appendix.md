@@ -33,7 +33,7 @@ This is not a signal. Nothing travels from here to Andromeda in the instant you 
 
 Worked numbers, Andromeda at Δ*x*/c ≈ 2.5 × 10⁶ yr. Walking, *v ≈ 1.4 m/s*, so *v/c ≈ 4.7 × 10⁻⁹*. Then *Δt ≈ 4.7 × 10⁻⁹ × 2.5 × 10⁶ yr ≈ 0.012 yr ≈ 4 days*. The kitchen walker and the kitchen stander do not share a “now” on Andromeda to better than a long weekend. An airliner, *v ≈ 250 m/s*, tilts the same slice by *~2 yr*. Earth’s orbital speed, *v ≈ 30 km/s*, tilts it by *~250 yr*. None of those numbers is a photograph of Andromeda’s navy. Light from M31 is 2.5 million years late for everyone in the kitchen. The disagreement is about which events on that galaxy you *label* simultaneous with the casserole, not about which photons you receive.
 
-At laboratory distances the same formula is tiny. Across a 10 m kitchen at walking speed, *Δt ~ 5 × 10⁻¹⁷ s* — below any clock you own. Relativity of simultaneity is therefore easy to miss and easy to oversell. It is a convention-plus-Lorentz fact. It becomes a plot point only when *Δx* is huge or *v* is not small. Chapter 1’s kitchen is the first case.
+At laboratory distances the same formula is tiny. Across a 10 m kitchen at walking speed, *Δt ~ 5 × 10⁻¹⁷ s* — below any clock you own. Relativity of simultaneity is therefore easy to miss and easy to oversell. The one-way speed used to set the clocks is the convention. Once both kitchens have adopted it, the disagreement about which distant events share a slice is not a convention. It is what the Lorentz transformation does to those clocks. Chapter 1’s lamps are that second fact. Calling the whole disagreement “only a convention” is the reading Chapter 1 refused. The disagreement becomes a plot point only when *Δx* is huge or *v* is not small. Chapter 1’s kitchen is the first case.
 
 ---
 
@@ -563,7 +563,7 @@ WAP (Carter; Barrow–Tipler’s wording): observed constants are restricted by 
 
 SAP — “the universe *must* permit life” — is either tautological (it did, so it must have been able to), ensemble-selection (WAP with a capital letter), or teleology (a purpose in the laws). The first is empty. The second is WAP again. The third is not a physical model. This book does not hire SAP.
 
-FAP — “intelligence must arise and never die out” — plus the Omega Point (Tipler) requires a recollapse, horizon-free control of the geometry, and infinite computation in finite proper time. Each requirement fails a measurement or a theorem this book already has: *Ω_Λ > 0* and *q₀ < 0* (A18–A19); Bekenstein / de Sitter area counting (A23, A26); BKL chaos on the approach to a crunch (A16). The Omega Point as *required law* stays failed. Anthroposophy is not a physical model. A late mind that computes forever is a wish the shove will not sign.
+FAP — “intelligence must arise and never die out” — plus the Omega Point (Tipler) requires a recollapse, horizon-free control of the geometry, and infinite computation in finite proper time. Each requirement fails a measurement or a theorem this book already has: *Ω_Λ > 0* and *q₀ < 0* (A18–A19); Bekenstein / de Sitter area counting (A23, A26); BKL chaos on the approach to a crunch (A16). The Omega Point as *required law* stays failed. A required final mind is not a physical model. A late mind that computes forever is a wish the shove will not sign.
 
 What remains: WAP as a cut *if* an ensemble exists (warm as a method, not as a proof the ensemble is real). A future that stays habitable in pockets (stars for 10¹² yr; white-dwarf cooling; tidal seas) is allowed and unpromised. Destiny is not a Friedmann equation.
 
@@ -585,7 +585,7 @@ Wheeler–DeWitt: *Ĥ Ψ = 0* — the Hamiltonian constraint of canonical GR, im
 
 Recovered time is always extra structure. Semiclassical WKB: when *Ψ* peaks on a family of classical 3-geometries, a phase gradient can play the role of *t* and matter can obey an approximate Schrödinger equation. Relational clocks: a degree of freedom (a scalar field; a dust; the leftover glow’s temperature) is promoted to a clock, and the rest of the universe is “changing with respect to” it. Thermal time (Rovelli): a state plus the Hamiltonian defines a flow; equilibrium is special. Configuration-space geodesics (Barbour): best-matching of 3-geometries, duration as a derived length. None of these is a laboratory selection. All are attempts to get *t* back out of a timeless constraint.
 
-Hartle–Hawking no-boundary: a path integral over compact 4-geometries with no past boundary; time as we use it emerges for large 3-geometries when the wavefunction becomes oscillatory. Vilenko’s tunneling proposal is a cousin with a different contour. Both are cold-to-warm. They do not restore a kitchen-time “before” the bang, and they do not pick an inflaton. Loop quantum gravity and string cosmology offer other recoveries. String recoveries inherit (18). The mismatch between QM and GR is a real gap. It is not a permit for a first tick you can stand in, a hop between branches, or a craftsman.
+Hartle–Hawking no-boundary: a path integral over compact 4-geometries with no past boundary; time as we use it emerges for large 3-geometries when the wavefunction becomes oscillatory. Vilenkin’s tunneling proposal is a cousin with a different contour. Both are cold-to-warm. They do not restore a kitchen-time “before” the bang, and they do not pick an inflaton. Loop quantum gravity and string cosmology offer other recoveries. String recoveries inherit (18). The mismatch between QM and GR is a real gap. It is not a permit for a first tick you can stand in, a hop between branches, or a craftsman.
 
 ---
 
@@ -595,13 +595,15 @@ Hartle–Hawking no-boundary: a path integral over compact 4-geometries with no 
 
 **Warm:** a local inflationary burst as the source of the tilt and the flatness; CDM as a collisionless fluid whose particle is unspecified (LZ/XENON nulls); *Λ* as the shove rather than a slow field; Hawking radiation as a calculation not yet photographed; WAP as a cut *if* an ensemble exists; tidal oceans on icy moons (Europa/Enceladus evidence strong for *oceans*, not for *life*); *H₀* tension as a real discrepancy without a named winner; chronology protection as a conjecture that keeps edits dead.
 
-**Cold:** required Omega Point; SAP/FAP as physics; traversable wormholes or Alcubierre bubbles as engineering; hops between Everett branches; string landscape as an explanation (18); anthroposophy; a proven beginning “before” which there was kitchen-time; BICEP2’s *r ~ 0.2* as primordial tensors; a white hole in the catalog of the sky; a craftsman in the leftover glow.
+**Cold:** required Omega Point; SAP/FAP as physics; traversable wormholes or Alcubierre bubbles as engineering; hops between Everett branches; string landscape as an explanation (18); a proven beginning “before” which there was kitchen-time; BICEP2’s *r ~ 0.2* as primordial tensors; a white hole in the catalog of the sky; a craftsman in the leftover glow.
 
 A claim can change temperature (A0). This list is the book’s oven reading on publication day, not a creed. New digits — a tensor background, a WIMP, a *w(z)* that refuses −1, a vacuum-decay product — would move lines. They would not restore a universal now, a required final mind, or a hallway through a horizon.
 
 ---
 
 ## Equations at a Glance
+
+Rows (1)–(17) are formulas. The last row is a rule this book refuses to disguise as one.
 
 | # | Relation | Role |
 |---|---|---|
@@ -628,6 +630,8 @@ A claim can change temperature (A0). This list is the book’s oven reading on p
 ## Further Reading (tiered)
 
 Years and publishers are here so a shelf can be fetched. The notes cite papers in place, with the year and the venue, and that citation is the bibliography entry. This list is the next reading, not a second copy of those notes. Together they are the shelf.
+
+**Named in the text:** Albert A. Michelson and Edward W. Morley, “On the Relative Motion of the Earth and the Luminiferous Ether,” *American Journal of Science* 34 (1887): 333–345. Henri Poincaré, “La mesure du temps,” *Revue de métaphysique et de morale* 6 (1898): 1–13. Albert Einstein, “On the Electrodynamics of Moving Bodies,” *Annalen der Physik* 17 (1905): 891–921. Hermann Minkowski, “Space and Time,” lecture, Cologne, 21 September 1908, *Physikalische Zeitschrift* 10 (1909): 104–111. J. C. Hafele and Richard E. Keating, “Around-the-World Atomic Clocks,” *Science* 177 (1972): 166–170. C. W. Rietdijk, “A Rigorous Proof of Determinism Derived from the Special Theory of Relativity,” *Philosophy of Science* 33 (1966): 341–344. Hilary Putnam, “Time and Physical Geometry,” *Journal of Philosophy* 64 (1967): 240–247. Neil Ashby, “Relativity in the Global Positioning System,” *Living Reviews in Relativity* 6 (2003): 1. The Andromeda walk is in Roger Penrose, *The Emperor’s New Mind* (Oxford University Press, 1989), also on the loops shelf below. Adam G. Riess and colleagues, “Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant,” *Astronomical Journal* 116 (1998): 1009–1038. S. Perlmutter and colleagues, “Measurements of Omega and Lambda from 42 High-Redshift Supernovae,” *Astrophysical Journal* 517 (1999): 565–586. Steven Weinberg, “Anthropic Bound on the Cosmological Constant,” *Physical Review Letters* 59 (1987): 2607–2610. Planck Collaboration, “Planck 2018 results. VI. Cosmological parameters,” *Astronomy & Astrophysics* 641 (2020): A6. J. B. Hartle and S. W. Hawking, “Wave function of the Universe,” *Physical Review D* 28 (1983): 2960–2975. Alexander Vilenkin, “Creation of Universes from Nothing,” *Physics Letters B* 117 (1982): 25–28. DESI Collaboration, “DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations,” arXiv:2404.03002 (2024), the drifting-*w* conversation in A43.
 
 **Start here:** Steven Weinberg, *The First Three Minutes* (Basic Books, 1977; updated edition 1993). John D. Barrow, *The Origin of the Universe* (Basic Books / Science Masters, 1994). Barbara Ryden, *Introduction to Cosmology*, 2nd ed. (Cambridge University Press, 2017). Katie Mack, *The End of Everything (Astrophysically Speaking)* (Scribner, 2020).
 
@@ -662,6 +666,18 @@ Years and publishers are here so a shelf can be fetched. The notes cite papers i
 **Proper time.** Length of a timelike worldline.
 
 **Interval.** Invariant *ds²* in (1). The split into space and time is not invariant.
+
+**Simultaneity.** Two events called the same time. Observers in relative motion do not share the distant ones. Chapter 1. The one-way speed used to set the clocks is a convention. The disagreement, once both kitchens use that convention, is not.
+
+**Ether.** The resting stuff nineteenth-century optics wanted light to wave in. The 1887 Cleveland experiment did not find it.
+
+**Timelike.** A separation a slower-than-light signal can cross. Everyone agrees on the order.
+
+**Lightlike.** The edge of that permission. Only light makes the trip.
+
+**Spacelike.** Too far apart for light. Order is not agreed. Elsewhere.
+
+**Light cone.** Past cone: events that can affect you. Future cone: events you can affect. The rest is elsewhere. Chapter 3.
 
 **Geodesic.** The straightest path the geometry allows. Free stones and free clocks follow one.
 

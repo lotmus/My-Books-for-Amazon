@@ -42,7 +42,13 @@ Over tens of millions of years that choice reshaped the whole animal. Legs becam
 
 Dolphins gave up solid ground. In exchange they got something almost no land animal has: three-dimensional hearing precise enough to find a single fish in total darkness, and, once diving and breathing stopped using all of it, some intelligence left over. Watching, for instance.
 
-While the dolphin line was finishing that trade, on the other side of the world, a different set of mammals was still in the trees.
+Dolphin scholarship is willing to name names on the way. The fossil record calls the first of these test cases Pakicetus — four legs, hooves, a long snout, built rather like a hairy dog that had made some very specific life choices. Its next of kin, once it had committed a little further to the bit, was filed under Ambulocetus, which is Latin for “the walking whale.” Dolphin historians did not choose that name. They have simply had fifty million years to get used to it.
+
+*“Our closest living land relative, confirmed independently more than once, is the hippopotamus,” the Society noted. “We did not select this family. We were assigned it, and we have decided to be gracious about it in public.”*
+
+While the dolphin line was finishing that trade, on the other side of the world, a different set of mammals was still in the trees — and had wasted no time getting there. The first small, tree-dwelling creature recognizable as a primate shows up in the fossil record a little over sixty million years ago, a few million years after the asteroid: on a timescale of tens of millions of years, essentially the same week. Dolphin scholarship notes this is a very fast start for a family that would go on to need another sixty million years just to invent the wheel.
+
+That lineage kept branching the whole time — early monkeys, then apes, then bigger apes — with taxonomists ending up needing five separate, confusingly similar Latin names (Hominoidea, Hominidae, Homininae, Hominini, Hominina) in order to track the last fifteen million years of it. Dolphin scholarship has read all five definitions and offers this summary free of charge: more apes, slightly different apes, repeatedly, for a very long time.
 
 About six or seven million years ago, in the forests and grasslands of Africa, one population of apes split into two.
 
@@ -65,8 +71,6 @@ That changed on the day the free hands picked up a stone, and kept it.
 **Dolphin verdict:**
 
 *Humans are not a separate creation and were not the point of the story from the start. They are one branch of an ordinary family tree that happened to keep its forelimbs free while a cousin species, in the same stretch of millions of years, gave its own forelimbs up altogether. Two branches, two trades. This book is about what one of them did with the hands it kept.*
-
-
 
 ## Chapter 1: No Hands, No Cities — Why the Dolphins Only Watched
 
@@ -110,7 +114,27 @@ None of which stops dolphins from doing, with some regularity, the opposite as w
 
 *Dolphin historians decline to fully explain this pattern of goodwill toward a species that also, on occasion, keeps us in tanks, beyond noting that consistency was never a precondition for decency.*
 
-This is the thesis the rest of the book keeps testing, chapter after chapter, on the one species that did get the hands: a big brain guarantees cleverness. It does not guarantee wisdom. The two arrived on separate schedules, and the schedule for wisdom has been, and remains, the less reliable of the two.
+### The basement of the house
+
+Humans reached the Moon before they properly reached the bottom of their own ocean. Dolphin historians find this rude, and also typical. The sea dolphins actually use is the bright layer, a few hundred feet at most, where there is still light and still air to go back to. Below that is a dark the dolphins do not visit either. The audience, on this one subject, has been as ignorant as the species it watches, and would like that confessed before the bragging starts.
+
+The first serious inventory was a ship, not a submarine. From 1872 to 1876 HMS Challenger dragged nets and thermometers around the world and came home with the news that the deep ocean was alive, cold, and much deeper than the navy had been assuming. In the 1930s William Beebe and Otis Barton sat in a steel ball on a cable and looked out of a window at animals nobody had a name for. In January 1960 Jacques Piccard and Don Walsh rode the bathyscaphe Trieste to the bottom of the Challenger Deep, the lowest place on Earth, and stayed long enough to see a flatfish, or something they took for one, and then left. A later film director repeated the trip in 2012. A private explorer repeated it again at the end of that decade and made a point of visiting the deepest point of every ocean. Dolphin historians note the dates. A human stood on the Moon in 1969. The number of humans who have sat on the deepest mud can still be listed on a short piece of paper.
+
+What the deep turned out to contain was not a desert. In 1977 a submarine named Alvin found hot springs on the seafloor near the Galápagos, and around them animals living on chemistry instead of sunlight: tube worms, clams, a food chain that does not begin with a plant. Dolphin historians, who had assumed the ocean's bargain was light from above and fish in the middle, had to open a new file. The planet's life has a second way of eating. It was down there the whole time. Nobody with a boat had thought to go and look until the boats got better.
+
+Most of the seafloor is still a rumor. Satellites infer the large shapes. Ships with proper sonar have mapped, in detail, only a fraction of it, and the fraction grew slowly enough that a project started in the twenty-first century had to admit it was racing a deadline of its own invention. Humans have better maps of Mars, in places, than of the ground under their own fishing boats. Dolphin historians do not find this flattering to either map.
+
+### What the ships left behind
+
+The sea is also a museum nobody meant to build. Ships sink. They have been sinking for as long as there have been ships, and a dolphin of sufficient age has swum over a great many of them without being consulted about the cargo. Wood rots, unless the cold or the mud is kind. Metal stays. What comes back up, when humans bother, is often the most honest object in the historical record, because it was not edited. It was only lost.
+
+A Greek ship off the island of Antikythera, already owed a mention for the geared device in its hold, is the pattern: a wreck as a library. The Mary Rose, Henry VIII's warship, went down in 1545 in sight of shore and was raised in 1982 with the longbows, the shoes, and the surgeons' tools still in her. The Vasa, a Swedish ship too tall and too proud, sank on her maiden voyage in 1628 in Stockholm harbor and came up in 1961 almost intact, a monument to a king who had wanted a taller ship than physics allowed. Dolphin historians have a soft spot for both. One is a battle lost to the sea. The other is a boast the sea declined to float.
+
+The famous one is younger. Titanic struck an iceberg in April 1912 and broke apart on the way down. She was found in 1985, two pieces, by a team that had been looking, officially, for a pair of lost American submarines and found the liner in the time between. Since then she has been visited, filmed, stripped by souvenir hunters, and gradually eaten by bacteria that like iron. In 2023 a small private submersible taking paying passengers to see her imploded on the way, and five people died. Dolphin historians record the wreck and the second wreck with the same flat voice. The ocean does not charge extra for a ticket. It also does not honor one. Depth is not a museum gallery. It is a pressure, and it does not negotiate.
+
+Other hulls matter as much and are visited less. Slave ships, when they are found, are graves and evidence both. The Clotilda, burned and sunk in Alabama in 1860 after carrying captive Africans on what is generally called the last illegal American slave voyage, was identified in the mud of the Mobile River. Warships from both world wars lie in lines across the Atlantic and the Pacific. Two American nuclear submarines, Thresher and Scorpion, went down in the 1960s with all hands and stayed down. A confederate submarine from the older war, Hunley, was raised with her crew still at their stations. Dolphin historians do not rank these by ticket sales. A hull is a hull. The difference is whether the people on shore decided the dead were worth the crane.
+
+There is now a treaty instinct, unevenly obeyed, that a wreck of a certain age is a grave and not a quarry. It arrived late, after a great deal of bronze and a great deal of porcelain had already been sold. Dolphin historians, who never needed a crane, have been swimming over the inventory the entire time. They recommend leaving most of it where it is. The sea is already keeping it. Humans are the ones who have trouble with custody.
 
 The dolphins did not get to build cities, wage wars, or write books.
 
@@ -125,8 +149,6 @@ A short note before the book goes any further, one dolphin scholarship insists o
 *Readers expecting the dolphins of a certain British science fiction series — secretly the most intelligent species on the planet, quietly aware of Earth's approaching demolition, departing by spacecraft with a dry farewell about fish — will be disappointed, or possibly relieved. These are ordinary Earth dolphins, arrived at the ordinary way, with no advance warning of anything and no spacecraft on order. What follows is biology's account, not science fiction's.*
 
 *That said, dolphin scholarship sees no reason to let a good line go to waste on a technicality. So: thanks for all the fish.*
-
-
 
 ## Chapter 2: Where Everyone Is From — Africa and the Making of Humans
 
@@ -158,8 +180,6 @@ It follows that the human family is, genetically, one very recently branched Afr
 
 *The origin of humankind was not a moment in a place. It was a long, crowded, repeatedly interrupted process spread across a whole continent, and it happened in Africa, among Africans, for something like seven million years before anybody left. Every later chapter in this book is, at some level, about branches of that one family, and the dolphins would ask readers to keep the family resemblance in mind, particularly in the chapters where humans forgot it.*
 
-
-
 ## Chapter 3: The First Fires — Early Humans and the Spark of Culture
 
 For a very long time, the main thing that distinguished the branch from any other ground-dwelling ape was that it walked upright and had learned to hold a stone.
@@ -176,13 +196,15 @@ It cooked food. Cooking breaks down tough fibers and denatures proteins before a
 
 The primatologist Richard Wrangham has argued at length that cooking did more than feed the brain: it reshaped the whole animal, shrinking the teeth and the gut and freeing hours of the day, and made Homo erectus, in a sense, a species defined by dinner. The argument is contested, as most arguments about deep time are, and dolphin scholarship finds it entirely plausible.
 
-It pushed back the night. A fire is the first porch light: a circle of visibility and warmth a hominin band could sit inside after dark, when every other diurnal primate was hiding.
+It pushed back the night. A fire is the first porch light: a circle of visibility and warmth a hominin band could sit inside after dark, when every other diurnal (day-active) primate was hiding.
 
 It gathered people in a circle, facing each other, for hours, with nothing urgent to do. Some anthropologists consider the campfire the first real venue for storytelling, planning, and gossip — the oldest classroom and the oldest theater at once.
 
 Stone tools kept pace. The earliest deliberately shaped stones, simple sharp-edged flakes struck off a core, date to about 3.3 million years ago at Lomekwi in Kenya — older than the genus Homo itself, which unsettled the old assumption that toolmaking required a human ancestor to begin with.
 
 By 1.7 million years ago, Homo erectus was making the Acheulean hand axe: a symmetrical, teardrop-shaped tool that took real planning to produce and stayed in use, largely unchanged, for over a million years — the longest-running product design in history, by a spectacular margin.
+
+Fire did one more thing that took stone tools by surprise. At Pinnacle Point on South Africa's coast, toolmakers learned to bury certain stone in a bed of coals for a slow, controlled bake before knapping it, a heat treatment that made silcrete flake more predictably into sharper, thinner blades. The earliest confirmed example dates to around 164,000 years ago. Cooking improved the meal; this improved the knife that helped make the meal possible — heat spent on the tool instead of the dinner, a use nobody, dolphin or human, would have predicted from a species that had only just learned to keep a flame alive.
 
 Language almost certainly came later and slower than either fire or stone, and dolphins are candid that nobody, human or dolphin, knows exactly when. What is certain is that a species sitting in circles, handling shared tools, teaching a hand axe's proportions to the next generation without a single word written down, already needed something well beyond grunts.
 
@@ -191,8 +213,6 @@ Dolphins, watching all this from offshore for once quite literally, since early 
 **Dolphin verdict:**
 
 *Every technology in this book, all the way to the last chapter, is downstream of that first kept flame. Cooking bought the calories for a bigger brain, the fire's light bought hours the sun used to take away, and the circle around it bought a species its first classroom. Dolphins have never needed a fire. They have also never had a campfire story, and on this one point, envy is not out of the question.*
-
-
 
 ## Chapter 4: Out of Africa — The Long Walk Across the World
 
@@ -228,8 +248,6 @@ In the intervals between all this walking, humans made stone tools, hunted, pres
 
 *Every other successful animal in this book's timeline stayed inside the range its body and food supply allowed. Humans declined anyway. A species that had barely finished inventing fire crossed a strait it could not swim and a steppe it could not graze, on the strength of tools, boats, and each other. The dolphins had known the whole map for tens of millions of years by then. This was the first time anything else did too.*
 
-
-
 ## Chapter 5: The First Villages — Agriculture and the End of Wandering
 
 For nearly all of Homo sapiens' existence, there was no such thing as home in the modern sense — only a range, walked and re-walked with the seasons.
@@ -239,6 +257,8 @@ That changed, independently, in several places at once, starting around 10,000 B
 The story is not quite as tidy as fields first, temples later. At Göbekli Tepe in southeastern Turkey, hunter-gatherers who had not yet domesticated a single crop raised rings of carved limestone pillars, some weighing many tons, around 9600 BCE, more than a thousand years before farming is currently dated in the same region. Whether feeding the crowds who gathered to build it helped tip the balance toward planting deliberately, reversing the usual story in which farming comes first and temples follow, is a question archaeologists have not settled.
 
 Rice was domesticated separately in China by roughly 8,000 BCE. Maize, beans, and squash came together in Mesoamerica. Yams and taro were domesticated in New Guinea. None of these groups had contact with each other. All arrived, on their own clocks, at the same idea.
+
+One domestication in this chapter predates all of them and involved no crop whatsoever. Wolves and humans had struck their own bargain some 15,000 years ago, well before the first wheat was ever planted on purpose, arriving uninvited to a chapter otherwise about fields and grain as proof that not every alliance in this book needed a harvest to get started.
 
 The idea, in full, was: stop following the food, and make the food follow you instead.
 
@@ -268,8 +288,6 @@ Villages could not be un-invented once the population had grown to fit them. The
 
 *Agriculture is usually told as an unambiguous improvement, and the population numbers back that reading up. But the individual farmer, on the evidence of their own bones, often ate worse and lived sicker than the forager two thousand years earlier. Humans had discovered a pattern that recurs for the rest of the book: a choice that is bad for the person and good for the population can still win, because populations, not people, are what get to keep making the next choice.*
 
-
-
 ## Chapter 6: Writing and Memory — How Humans Learned to Speak to the Future
 
 For every chapter so far, dolphin historians have had to reconstruct human behavior from bones, stone, and ash, the same tools they would use on any other animal.
@@ -282,7 +300,7 @@ Neither system started as literature. The earliest Sumerian tablets are receipts
 
 Writing, in other words, was invented for bookkeeping, by the same surplus-and-ownership economy the last chapter introduced. Poetry, law, and history came later, riding on infrastructure built for tax season.
 
-The earliest personal name in the written record may be Kushim, which appears on a set of barley receipts from Uruk and may belong to an accountant. The first author known by name, roughly a thousand years later, was a woman: Enheduanna, a high priestess at Ur and a daughter of Sargon of Akkad, who around 2300 BCE composed hymns to the goddess Inanna. And the Epic of Gilgamesh, whose oldest tablets date from around 2100 BCE, contains a flood story that circulated in Mesopotamia long before the biblical one was written down.
+The earliest personal name in the written record may be Kushim, which appears on a set of barley receipts from Uruk and may belong to an accountant. The first author known by name, roughly a thousand years later, was a woman: Enheduanna, a high priestess at Ur and a daughter of Sargon of Akkad, who around 2300 BCE composed hymns to the goddess Inanna. And the Epic of Gilgamesh, whose earliest surviving Sumerian poems about the king date from around 2100 BCE, though the unified epic as later generations knew it was assembled centuries after that, contains a flood story that circulated in Mesopotamia long before the biblical one was written down.
 
 *Professor Click-Click-Whoosh, in the margin: “Fame in the literate world began with paperwork, and has not strayed far since.”*
 
@@ -305,8 +323,6 @@ Everything from a legal code to a shipping manifest to, eventually, dolphin scho
 **Dolphin verdict:**
 
 *Fire and farming changed what a human body could do. Writing changed what a human generation could keep. Every chapter after this one exists only because someone, somewhere, wrote something down that outlived them — including, the dolphins note with some professional interest, this book.*
-
-
 
 ## Chapter 7: Gods and Kings — Mesopotamia, Egypt, and the First Empires
 
@@ -334,6 +350,8 @@ Bureaucracy, in the dry modern sense of scribes, tax rolls, and standing regulat
 
 Standing armies did the same for coercion that bureaucracy did for taxation: a permanent, trained force loyal to the state rather than a set of neighbors who happened to answer a call to arms.
 
+This chapter's political inventions extended even to peace. In 1259 BCE, Egypt's Ramesses II and the Hittite king Hattusili III signed what survives as the oldest peace treaty whose full text is still known, ending decades of war between the two great powers of the age and pledging mutual defense and the return of fugitives in language strikingly close to a modern treaty's own. A copy of it hangs today at the United Nations headquarters in New York, a three-thousand-year-old reminder that this species invented the peace treaty in practically the same breath it invented the war worth ending.
+
 Dolphin historians treat this chapter as a turning point distinct from the tools before it. Fire, stone axes, and farming were all technologies applied to the physical world. Kingship, law, and bureaucracy are technologies applied to other humans.
 
 *“An idea, believed by enough people, organizes exactly as much labor as a tool,” dolphin scholars remarked, “and needs no metal at all.”*
@@ -341,8 +359,6 @@ Dolphin historians treat this chapter as a turning point distinct from the tools
 **Dolphin verdict:**
 
 *The first empires were built from grain surplus, a persuasive story about divine favor, and enough scribes to keep track of both. No hands were required to invent kingship, only a large enough audience willing to believe the story — proof that this species' most powerful technology, for good and for ill throughout the rest of this book, is not always something it can hold.*
-
-
 
 ## Chapter 8: The Middle Kingdom — China's Long Civilization
 
@@ -364,15 +380,15 @@ In 221 BCE, the state of Qin defeated its rivals, and its ruler took the title Q
 
 Much of what is known about this chapter, Shang oracle bones aside, comes down through one man's stubbornness. Sima Qian, the Han dynasty's Grand Historian, was castrated around 99 BCE as punishment for defending a disgraced general, and chose the humiliation of continuing his work over the alternative of an honorable suicide specifically so he could finish his Records of the Grand Historian, a history of China from its legendary founders to his own day that later dynasties took as their model for writing history at all.
 
-His dynasty collapsed within four years of his death, brutal standardization having generated exactly the resentment brutal standardization tends to generate. The Han dynasty that followed kept most of the standardization and dropped most of the brutality, a pairing dolphin historians flag as worth remembering for later chapters.
+The Qin dynasty collapsed within four years of Qin Shi Huang's death, brutal standardization having generated exactly the resentment brutal standardization tends to generate. The Han dynasty that followed kept most of the standardization and dropped most of the brutality, a pairing dolphin historians flag as worth remembering for later chapters.
+
+One of the dynasties riding that tide left a mark still felt in how the country is run today. The Sui dynasty, reunifying China in 581 CE after nearly four centuries of division, introduced the imperial civil service examination: a test of the classical texts, open in principle to any man regardless of birth, that was meant to fill government posts by merit instead of pedigree. Refined and expanded under the Tang and Song dynasties that followed, the exam system ran for well over thirteen hundred years before being abolished in 1905 — the longest-running standardized test in recorded history, and one no aristocrat's son could inherit his way past, however much some of them clearly wished otherwise.
 
 This pattern — unify, flourish, fracture, reunify — repeats across Chinese history for the next two thousand years with a regularity dolphin scholars compare, only half-jokingly, to a tide.
 
 **Dolphin verdict:**
 
 *No civilization in this book has matched China's combination of scale and continuity: one script, evolving but recognizable, in continuous use for more than three thousand years, across dynasties that rose and fell like weather. A later chapter will ask what happened when the twentieth century tried to interrupt that continuity on purpose. This chapter's verdict, for now, is simpler: the tide always came back in.*
-
-
 
 ## Chapter 9: The Subcontinent — Zero, Gods, and Glorious Complexity
 
@@ -406,8 +422,6 @@ The Gupta empire broke up under pressure from nomadic invaders in the 6th centur
 
 *India gave the rest of humanity its numbers, its zero, its chess, and one of its most durable arguments for non-violence, and retained a hierarchy of birth that took two thousand years to outlaw and is taking longer to retire. The dolphin file on the subcontinent, opened long ago, carries two marginal notes: “High intellectual output” and “Excessive complexity.” The second is under review, on the grounds that a civilization able to invent nothing, properly, as a number, can hardly be blamed for the quantity of everything else.*
 
-
-
 ## Chapter 10: Democracy's Experiment — Ancient Greece
 
 Every government examined so far in this book has run on the same basic claim: one person, or one family, or one god's favorite, decides, and everyone else complies.
@@ -434,13 +448,13 @@ The Greeks were also the makers of the earliest known analog computer. In 1900, 
 
 *This is the first chapter in the book about a government arguing, in public and on the record, about how it should be governed. The argument was badly incomplete — most of the population had no vote in it — but the habit of holding the argument at all, not settling it by decree, is the part that outlived Athens and keeps recurring for the rest of this book.*
 
-
-
 ## Chapter 11: Rome — The Empire That Built the World and Broke It
 
 Rome starts, by its own telling, as a small settlement of shepherds on the Tiber around the 8th century BCE, and dolphin historians treat the founding myths (a she-wolf, twin brothers, one dead by the other's hand) as exactly that: myth, worth noting for what it says about how Rome wanted to be remembered rather than what happened.
 
 What is well documented is the Republic that followed the expulsion of its last king in 509 BCE: an elected Senate, annually elected magistrates called consuls, and a system of checks built specifically to prevent any one Roman from becoming king again.
+
+Early in the Republic's life, around 451-450 BCE, ordinary citizens pressured the aristocratic Senate into publishing the Twelve Tables, Rome's first written law code, inscribed on bronze or wood and displayed in the Forum precisely so a plebeian could no longer be told after the fact what the law had always supposedly said. The tables were blunt and, by modern standards, often brutal, and were revised many times over the centuries that followed — but the principle that law had to be written where the ruled could read it outlived every revision, and outlived the Republic that first wrote it down.
 
 The system worked, more or less, for nearly five hundred years, before its own success broke it. Conquest brought wealth, slaves, and provinces faster than the Republic's institutions, built for a city-state, could absorb. Ambitious generals commanding personal armies proved more powerful than the Senate nominally in charge of them.
 
@@ -465,8 +479,6 @@ In 395 CE the empire formally split into Western and Eastern halves. The Western
 **Dolphin verdict:**
 
 *Rome is usually told as history's cleanest collapse — a great empire that simply ended. It did not. It fragmented, one half absorbed by the kingdoms that grew up in its ruins, the other half continuing under its own name for a thousand years more. The myth of the clean ending says more about how humans like their stories shaped than about how empires actually finish.*
-
-
 
 ## Chapter 12: Faiths, Crusades, and the Medieval World
 
@@ -500,8 +512,6 @@ What outlasted the fighting, in dolphin scholarship's accounting, was the contac
 
 *No fleet, no army, and no king in this book so far moved as many people, across as much distance, as a belief that asked only to be believed. The Crusades are this chapter's starkest proof that a good story and a bad reason can travel in the same convoy — and its quieter proof, easy to miss underneath the sieges, is that even a violent contact between civilizations still manages to leave something worth keeping behind.*
 
-
-
 ## Chapter 13: The Allegedly Dark Ages
 
 After the fall of Rome, Europe fragmented into smaller kingdoms.
@@ -519,6 +529,8 @@ Yet elsewhere, life continued.
 In Constantinople, emperors governed.
 
 In Baghdad, scholars studied mathematics and astronomy.
+
+Baghdad's House of Wisdom deserves a name, not just a mention. Al-Khwarizmi worked there in the 9th century and left behind two words still in daily use: algebra, from the title of his book on solving equations, and algorithm, a Latinized version of his own name. Humans, it should be noted, named a basic unit of modern computing after a mathematician from the middle of their allegedly dark age.
 
 Constantinople alone should have made the label harder to sustain. The emperor Justinian, ruling from 527 to 565, commissioned a systematic compilation of Roman law, the Corpus Juris Civilis, that went on to shape European legal systems for the next fifteen hundred years, and built the Hagia Sophia, completed in 537, whose vast dome remained the largest enclosed interior space anywhere on Earth for the better part of a thousand years.
 
@@ -562,8 +574,6 @@ After studying both sides, the International Dolphin Historical Society reached 
 
 *The age was not dark. It was only complicated. Humans often confuse the absence of records with the absence of history.*
 
-
-
 ## Chapter 14: Silk, Steppe, and Plague — The Roads That Connected Everyone, Including the Germs
 
 Nobody at the time called it the Silk Road. The name was coined in 1877 by a German geographer, Ferdinand von Richthofen, some two thousand years after the traffic began, and it is misleading twice over: it was not one road, and silk was only a fraction of what moved along it.
@@ -589,8 +599,6 @@ The Mongol empire itself broke into rival khanates within a few generations, and
 **Dolphin verdict:**
 
 *The first globalization moved at the speed of a camel and still managed to carry a pandemic across three continents in under a decade. The roads that connect a species to its own kind are neutral about what they carry, and the dolphins draw the obvious conclusion without much pleasure: connection has always arrived with a bill, and the itemized version has always come after payment.*
-
-
 
 ## Chapter 15: Gold, Salt, and Stone — The Kingdoms of Africa
 
@@ -618,8 +626,6 @@ The Atlantic slave trade, told in a later chapter, took its victims from societi
 
 *The picture of Africa as a place where history happened to other people is a European invention, and it lasted about as long as it was useful. The evidence for the continent's own kingdoms is written in stone, gold, ink, and bronze, much of it still standing, and the dolphins, who have never needed a European to tell them what was on the coast, would ask only that it be read as it was left.*
 
-
-
 ## Chapter 16: Before Columbus — Cities, Corn, and Knotted String
 
 When Spanish soldiers first came down the causeway into the Aztec capital in 1519, one of them later wrote that some of his companions wondered aloud whether they were dreaming. It is a useful reminder that the Americas of 1491 were not empty, and were not waiting.
@@ -630,9 +636,11 @@ Caral, in Peru's Supe Valley, was raising monumental pyramids around 2600 BCE, r
 
 By 1519 the Aztec, or Mexica, capital of Tenochtitlan, built on an island in a lake and fed by artificial floating gardens, held some two hundred thousand people, more than most European cities of the day. It had aqueducts, causeways, and a market that astonished the Spaniards. It also practiced human sacrifice on a scale that horrified them, and dolphin historians think it important to say so plainly: a civilization can be both a marvel and a horror, and the humans of both hemispheres demonstrated as much.
 
-In the Andes, the Inca Empire, at its height in the 15th century, ruled some ten million people across the length of the mountain chain, linked by roads and rope bridges running some 25,000 miles by one common estimate, without the wheel, without draft animals beyond the llama, and without any writing that anyone has been able to read. It kept its records on the quipu, a system of knotted, colored strings in which the type and position of each knot recorded numbers, and, some scholars now argue, possibly more.
+In the Andes, the Inca Empire, at its height in the 15th century, ruled some ten million people across the length of the mountain chain, linked by roads and rope bridges running somewhere from 14,000 to 25,000 miles depending on what counts as part of the network, without the wheel, without draft animals beyond the llama, and without any writing that anyone has been able to read. It kept its records on the quipu, a system of knotted, colored strings in which the type and position of each knot recorded numbers, and, some scholars now argue, possibly more.
 
 *“The writing chapter counted four independent inventions of writing,” dolphin historians noted. “The Inca ran an empire of ten million on knotted string and declined to be counted among them. The fifth candidate has never quite been ruled out.”*
+
+Inca stonework matched the roads for ambition. At sites like Sacsayhuamán above Cusco and the mountaintop retreat of Machu Picchu, built around 1450 CE for reasons still debated (a royal estate is the leading guess), masons fitted multi-ton stones together without mortar so precisely that a knife blade still cannot slide between the joints, a technique that has helped several Inca walls outlast earthquakes that leveled colonial Spanish buildings raised right beside them centuries later.
 
 North of Mexico, Cahokia, beside the Mississippi near present-day St. Louis, held perhaps ten to twenty thousand people around 1100 CE and built Monks Mound, an earthwork larger at its base than the Great Pyramid of Giza. In the Amazon basin, farmers engineered dark, fertile soils, terra preta, that are still worked today. Estimates of the population of the whole hemisphere before 1492 run to tens of millions.
 
@@ -643,8 +651,6 @@ What happened next is told in the chapter on the ships. Dolphin scholarship asks
 **Dolphin verdict:**
 
 *The Americas of 1491 were not a wilderness waiting to be found. They held cities larger than most in Europe, crops that would go on to feed the world, and, in the quipu, a rival to the idea of writing itself. Everything that follows in the next chapters is, in part, a story about what was done to a hemisphere that was doing fine. The dolphins add, in a spirit of gratitude, that there would be no chips without the Andes, and that fish and chips is therefore half Andean.*
-
-
 
 ## Chapter 17: Ships, Gunpowder, and Gold — Exploration, Conquest, and the Colonial Age
 
@@ -668,7 +674,7 @@ Much of the competition between these empires was carried out by men whose legal
 
 *“Every one of these voyages happened on the water,” Professor Click-Click-Whoosh observed. “Humans call this chapter exploration, conquest, or piracy depending on whose flag was flying at the time. Dolphins call it several centuries of unusually heavy traffic through a habitat nobody asked our permission to use.”*
 
-The conquest of the Americas that followed was, in the dolphins' accounting, not primarily a military story. Disease did most of the work: smallpox, measles, and influenza, carried unknowingly by the first waves of contact, killed an estimated 80 to 90 percent of the Indigenous population of the Americas over the following century and a half, a demographic collapse with no real precedent elsewhere in this book. Conquest by force, from Cortés's fall of the Aztec capital Tenochtitlan in 1521 to Pizarro's capture of the Inca emperor Atahualpa in 1532, finished what disease had made possible well before the soldiers arrived.
+The conquest of the Americas that followed was, in the dolphins' accounting, not primarily a military story. Disease did most of the work: smallpox, measles, and influenza, carried unknowingly by the first waves of contact, killed an estimated majority of the Indigenous population of the Americas over the following century and a half — estimates for just how much range from around half to as high as 90 percent, since the pre-contact population they're measured against remains disputed — a demographic collapse with no real precedent elsewhere in this book. Conquest by force, from Cortés's fall of the Aztec capital Tenochtitlan in 1521 to Pizarro's capture of the Inca emperor Atahualpa in 1532, finished what disease had made possible well before the soldiers arrived.
 
 The Atlantic slave trade ran alongside this conquest and then outlasted it by centuries. Between the 16th and 19th centuries, an estimated 12.5 million enslaved Africans, taken from societies like those of the earlier chapter on the continent's kingdoms, were forcibly transported across the Atlantic; an estimated 1.8 million died during the crossing itself. Those who survived were sold into forced labor, overwhelmingly on plantations, under a legal system in much of the Americas that treated a person as property, generation after generation, by law.
 
@@ -679,8 +685,6 @@ Dolphin historians, who watched every one of these ships cross open water, decli
 **Dolphin verdict:**
 
 *This chapter's ships did what fire, farming, and writing before them could not: they connected every inhabited continent into a single system for the first time. What moved through that system was two-sided in the fullest sense — new crops, new knowledge, and new contact in one direction; disease, conquest, and human trafficking on a scale without precedent in the other. Both halves are the story. Neither one is optional.*
-
-
 
 ## Chapter 18: Machines and Manifestos — Renaissance, Enlightenment, and Industry
 
@@ -714,8 +718,6 @@ Nationalism, an idea barely a century old in its modern form, hardened through t
 
 *Reason, applied to nature, produced science. Reason, applied to government, produced revolutions. Reason, applied to labor, produced an industrial output that could arm a continent faster than any war before it needed weapons found or forged. Within a century and a half of Newton's laws, the same continent that produced them had assembled an alliance system, an arms industry, and a railway timetable that made a general war very nearly automatic. The tools got better. This chapter is the first sign the wisdom to match them had not kept pace.*
 
-
-
 ## Chapter 19: The Republic, With Exceptions — America, 1776-1865
 
 In July 1776 a group of colonial delegates announced to a king that they held it to be self-evident that all men are created equal. The author of the sentence, Thomas Jefferson, enslaved more than six hundred people over the course of his life. Dolphin historians, who have made a study of the distance between what humans say and what they do, regard the sentence as a landmark in that study.
@@ -724,7 +726,7 @@ The founders were unusually thoughtful people. They had read the Enlightenment, 
 
 The same Constitution that protected the new country's liberties also counted an enslaved person as three-fifths of a person for purposes of representation, and protected the importation of enslaved people for another twenty years. The cotton gin, invented in 1793, made short-staple cotton enormously profitable and the demand for enslaved labor with it, and by 1860 nearly four million people were held in slavery in the United States.
 
-The country grew, and a good deal of its growth came at other people's expense. In 1803 it doubled in size with the Louisiana Purchase, a sale made possible because Napoleonic France, having lost an army to yellow fever and to the enslaved people of Haiti, who had rebelled and won, lost its appetite for an empire in the Americas. The Indian Removal Act of 1830 forced tens of thousands of Native Americans off their homelands in the southeast, and roughly four thousand Cherokee died on the march known as the Trail of Tears. A war with Mexico, from 1846 to 1848, ended with Mexico ceding close to half its territory, including California. Dolphin historians file all of this under expansion and under racism, and see no reason to file it under anything gentler.
+The country grew, and a good deal of its growth came at other people's expense. In 1803 it doubled in size with the Louisiana Purchase, a sale made possible because Napoleonic France, having lost an army to yellow fever and to the enslaved people of Haiti, who had rebelled and won, lost its appetite for an empire in the Americas. The Indian Removal Act of 1830 forced tens of thousands of Native Americans off their homelands in the southeast, and an estimated four thousand or more Cherokee died on the march known as the Trail of Tears, a toll historians still consider likely undercounted. A war with Mexico, from 1846 to 1848, ended with Mexico ceding close to half its territory, including California. Dolphin historians file all of this under expansion and under racism, and see no reason to file it under anything gentler.
 
 Not everyone was comfortable. In 1848, at Seneca Falls, a convention of women drafted a declaration modeled on Jefferson's, altering one phrase to read that all men and women are created equal. The abolitionist movement, much of it led by people who had themselves been enslaved, Frederick Douglass and Sojourner Truth among them, made the same argument about race.
 
@@ -739,8 +741,6 @@ The story did not improve quickly. Reconstruction, the attempt to secure the rig
 **Dolphin verdict:**
 
 *A country founded by men who wrote that all men are created equal, and in many cases did not act as if they meant it, turned out to have written something that could be used against them. It is the strongest case in this book for the power of a well-chosen idea, and the strongest case against trusting any idea to enforce itself. The dolphins, who have no founding documents, only habits, find the story sobering and, on balance, rather moving.*
-
-
 
 ## Chapter 20: God's Own Experiment — Religion in America
 
@@ -768,8 +768,6 @@ No other country in this book generates new, homegrown religious movements at an
 
 *Most of the countries in this book inherited one dominant faith and spent centuries arguing about how strictly to enforce it. The United States instead turned religious founding into an ongoing national industry, prolific enough to produce, within the same few centuries, both the Amish, who used their faith to want less of the modern world, and Jonestown, which used faith to demand everything a following had left to give. Dolphin scholarship notes the range and declines to average it into a single lesson.*
 
-
-
 ## Chapter 21: Home by Christmas — The First World War
 
 On June 28, 1914, a nineteen-year-old Bosnian Serb named Gavrilo Princip, whose group had already failed once that morning, found himself outside a delicatessen in Sarajevo when the car of Archduke Franz Ferdinand of Austria-Hungary took a wrong turn and stopped in front of him. By the popular account he was buying a sandwich. He shot the Archduke and his wife, Sophie, and began, without quite intending it, the First World War.
@@ -790,7 +788,7 @@ And then, on Christmas Eve 1914, something happened along parts of the Western F
 
 The war ended, on paper, at eleven o'clock on the morning of November 11, 1918, though fighting continued until the last minute and, by some counts, the final day produced more casualties than the Normandy landings a generation later. The war to end war, a phrase H. G. Wells had coined as the title of a book of essays in 1914, had killed some ten million soldiers and several million civilians and destroyed four empires: the German, the Austro-Hungarian, the Russian, and the Ottoman. Some of the map of the Middle East was redrawn by British and French diplomats under a secret agreement made in 1916, alongside promises to several different parties that could not all be kept.
 
-A second catastrophe, spread by troop ships and crowded camps, was under way at the same time. The influenza pandemic of 1918 to 1920 killed an estimated fifty million people, more than the war itself, and is remembered as the Spanish flu for a peculiar reason: Spain, which was neutral, had a free press and reported the disease openly, while the warring nations censored their own bad news. It was, dolphin historians observe, named after the one country in the story that was telling the truth.
+A second catastrophe, spread by troop ships and crowded camps, was under way at the same time. The influenza pandemic of 1918 to 1920 killed somewhere between an estimated 17 million and 50 million people, quite possibly more, more than the war itself, and is remembered as the Spanish flu for a peculiar reason: Spain, which was neutral, had a free press and reported the disease openly, while the warring nations censored their own bad news. It was, dolphin historians observe, named after the one country in the story that was telling the truth.
 
 The Treaty of Versailles, signed on June 28, 1919, five years to the day after the assassination, imposed heavy reparations and a war-guilt clause on Germany. The economist John Maynard Keynes, who had attended the conference as a British Treasury official and resigned in protest, wrote a bestselling book arguing that the settlement would do more harm than good. Marshal Foch, the French commander, is reported to have said of it that it was not a peace but an armistice for twenty years. It was, almost exactly, twenty years and sixty-five days. History rarely grants a forecast this precise, and dolphin scholarship notes that the intervening years were spent by most of the parties involved rearming rather than proving him wrong.
 
@@ -799,8 +797,6 @@ The Treaty of Versailles, signed on June 28, 1919, five years to the day after t
 **Dolphin verdict:**
 
 *The first war fought with the full industrial output of whole nations was expected to last a season, lasted four years, was fought for reasons most of its participants could not later explain, and ended in a peace practically everyone involved recognized as unstable. The dolphins record one short truce on Christmas Eve as the wisest thing that happened, and note that it was organized by the soldiers, in defiance of the people whose job it was to be wise.*
-
-
 
 ## Chapter 22: Genius and Catastrophe — Great Countries, Terrible Decades
 
@@ -852,11 +848,69 @@ Others recovered within a decade or two. Some took until the 1970s. A few are, b
 
 *“Humans possess a rare ability. They can learn from disaster, though often only after experiencing it.”*
 
+### The disappeared
+
+The file has a southern wing, and it is not a metaphor. In the 1970s a set of South American governments decided that the people they feared should not be imprisoned, which leaves a record, but removed. The word the region still uses is the disappeared. A person was taken, usually at night, usually by men who did not wear a name, and then there was no person, no charge, and no body. The absence was the policy. Dolphin historians have seen armies kill in the open. This was newer. It was murder organized as a filing error.
+
+Argentina's junta, from 1976 to 1983, ran the method at industrial scale. The Mothers of the Plaza de Mayo began walking the square because walking was what they had. A later commission, looking only at cases it could document, listed just under nine thousand. The organizations that had been counting in real time said thirty thousand. Dolphin historians refuse to pick the smaller number because it is easier to print. Both figures are a way of saying the state lost track on purpose. Some of the taken were thrown, drugged, from aircraft into the sea. The sea kept the evidence longer than the paperwork did.
+
+Chile's version began on September 11, 1973, when the armed forces bombed the presidential palace and Salvador Allende died inside it. Augusto Pinochet's police, the DINA, disappeared and tortured for seventeen years. Official commissions later put the dead and disappeared at a little over three thousand, and the tortured in the tens of thousands. Uruguay, smaller, imprisoned a staggering share of its own population. Brazil's officers took power in 1964 and kept it for twenty-one years. Paraguay's Stroessner lasted thirty-five. These governments did not merely resemble one another. They coordinated. Operation Condor was a postal service for kidnapping, so that a refugee who crossed a border could be collected by the neighboring service and sent home, or nowhere.
+
+Allende had got there by a ballot, in 1970, with a little over a third of the vote and a congress that confirmed him. He nationalized the big copper mines, which American companies regarded as an injury and which a great many Chileans regarded as the point. Washington noticed. Money moved to his opponents. The economy buckled under a mix of his own mismanagement, a strike by truckers, and a foreign hostility that did not bother to be subtle. On the morning of the coup he spoke over the radio from the palace, and then the palace was bombed. The accepted account is that he shot himself as the troops came in. Some of his people have never accepted it. Dolphin historians record the dispute and do not pretend a closed room has been opened. What is not disputed is who gave the order to attack the building, and what the country became by nightfall.
+
+They took Víctor Jara to a stadium. He was a singer, of the kind a country produces when it is arguing with itself in public, and he had gone to the university that morning as it was being turned into a prison. Soldiers broke his hands and then told him, according to the witnesses who lived, to play. He was shot on September 16, 1973. He was forty. His widow spent decades naming the officers. Some of them were eventually convicted, which is a long time to wait for a guitarist's murder to count as a murder. Dolphin historians, who do not have songs, understand what was being killed besides a man. A voice that a crowd can sing is a rival to a decree. The stadium was the decree's answer.
+
+### The brothers, and the embargo
+
+Cuba's dictatorship has names, and it has a family. Fulgencio Batista ran the island as a casino with a police force. Fidel Castro took it in 1959, with his brother Raúl and with Che Guevara, and turned the casino into a one-party state that taught people to read and forbade them to choose the teacher. The Bay of Pigs, in 1961, was an invasion the United States armed and then declined to finish. The missile crisis, in 1962, put Soviet nuclear weapons ninety miles from Florida and took the world as close to the end as it has been. Fidel ran the country, in fact and then in title, until illness handed it to Raúl, and Raúl handed it, in due course, to a successor who was not a Castro, which changed the surname on the door and not the lock. Fidel died in 2016. The speeches were very long. The elections were not.
+
+The embargo is real, and it is not an alibi that covers everything under it. The United States began cutting trade in 1960 and hardened the cut into a comprehensive embargo. It has been tightened, loosened a little under one president, tightened again under the next, and defended as pressure for democracy. It has also been, for sixty years, a convenient wall for a government that would like every empty shelf to have a foreign explanation. Dolphin historians split the bill. A superpower that tries to starve a small country into good behavior is practicing a blunt instrument, and the instrument has not produced the behavior. A party that cannot keep soap in a shop after six decades is not only a victim of a customs form. Cubans have paid both invoices. The rafts are the receipt. People do not get on a raft because of a single cause. They get on a raft because the island, embargo and all, is not a place they are allowed to fix.
+
+*“An embargo is a siege with paperwork,” the Society noted. “A dictatorship is a siege that issues the ration card. Blaming only one of them is how both of them prefer to be described.”*
+
+### The turn
+
+The turn, where it came, came in different costumes, which is why dolphin historians do not trust the word transition until they have seen a trial or at least an election that the men with the guns agreed to lose.
+
+Argentina lost a war in the Falklands in 1982, and the junta did not survive the loss. In 1985 the civilian government put the commanders in a courtroom. The trials were real. So were the amnesties and pardons that followed, and so was the later ripping-up of those pardons. The country spent decades changing its mind about whether to punish, and the changing of the mind was done in public. That is a turnaround. It is not a clean one. Dolphin historians prefer it to a silence.
+
+Chile voted. In 1988 Pinochet held a plebiscite on his own continuance and lost, and, to the surprise of people who had studied him, he went. He was arrested in London in 1998 on a Spanish warrant, a dictator learning that a clinic abroad is not an embassy. He died in 2006 without a final conviction, which the record should not launder. The plebiscite still counts. A country that beats a dictator on his own ballot has done something this book does not see often.
+
+Brazil's exit was slower and softer, and the amnesty covered the torturers, so the memory work lagged the parades. Uruguay argued, voted, and argued again about whether to prosecute. The pattern, held up to the light, is not that Latin America discovered virtue. It is that several countries built a door out, and some of them walked through it, and some of them left the torturers' pensions intact on the way. A turnaround can be real and incomplete. Most of them are.
+
+### Mexico, governed and ungoverned
+
+Mexico is not a footnote to that file. For seventy-one years one party, the PRI, ran the country as a machine that held elections and did not lose them. In October 1968, days before an Olympics meant to show the nation off, soldiers shot student protesters at Tlatelolco. The number of dead was disputed because the state did the disputing. A dirty war followed, smaller than the southern juntas and of the same family. In 2000 the machine finally lost a presidential election. Dolphin historians mark the year. Losing, and leaving, is the technology. Mexico installed it late, and then discovered that a clean election does not, by itself, produce a clean police.
+
+From 2006 the government sent the army after the drug trade. The trade was already inside parts of the police. The result was not a victory. It was a fragmentation: more groups, more graves, more towns paying whoever had the guns that month. In September 2014 forty-three students from a rural teachers' college were taken in Iguala. The police of the town were involved. The students have not come home. Years of investigation produced confessions, retractions, burned evidence, and no complete list of the dead. By the early 2020s the government's own registry of the missing had passed one hundred thousand and was still rising. That number is not a rumor about the 1970s. It is a count kept, badly, in the present tense.
+
+Dolphin historians separate misgovernment from police crime and then admit how often they share a payroll. A mayor who sells the square to a cartel, a precinct that kidnaps, a prosecutor who loses the file, a soldier who does the cartel's work in a uniform: these are not four scandals. They are one system with different hats. The people who walk with photographs of the missing, as the mothers in Buenos Aires walked, are the same argument in a different decade. The state that cannot say where its citizens are has already said what kind of state it is.
+
+### The islands, and the question of the ballot
+
+The Caribbean is not one answer, and dolphin historians refuse the postcard version in which every island is a democracy because the water is clear.
+
+Some of them are. Jamaica, Barbados, Trinidad and Tobago, the Bahamas: parliamentary systems, inherited from the empire that left, with real elections, real changes of government, and real failures of the ordinary kind, crime high, corruption familiar, the courts still courts. Barbados even removed the distant king and became a republic without a coup, which is a quiet way to do a loud thing. These are democracies. They are not aquariums. A voter there can lose an election and go home, which is the test this book keeps using, and they pass it often enough to keep the name.
+
+Some of them are not. Cuba has been a one-party state since 1959. It has elections in the way a menu has one dish. People leave when they can, by raft, by plane, by overstaying, which is its own census of the system. The Dominican Republic lived under Rafael Trujillo from 1930 until he was shot in 1961, a dictatorship of personal vanity and real corpses, and then spent decades climbing into a competitive politics that is flawed, bought at the edges, and still recognizable as a place where the opposition can win. Haiti is the grief of the list. The Duvaliers, father and son, ran it as a hereditary police state. What followed was not a settled democracy. It was coups, a brief hope, an earthquake, an assassination of a president in 2021, and gangs that took the capital when the state thinned out. Calling Haiti a democracy because it has sometimes printed ballots is an insult to the word and to Haitians. The ballot has not been the thing in charge.
+
+Puerto Rico votes for its local government and does not vote for the sovereignty those votes sit inside. It is a democracy nested in someone else's republic. Grenada had a revolution, a murderous split, a foreign invasion in 1983, and then elections. The invasion is not a recipe. The elections afterward are the part that lasted.
+
+So the question mark is the right punctuation, and the answer is a list, not a yes. A handful of islands pass the test this book applies everywhere else: the losers leave office. One large island has not offered the test in two generations. One country in the same sea has had the form of a state and not the safety of one. Dolphin historians, who hear all of these coasts on the same tide, decline to average them into a brochure. Democracies are specific. They are either happening on a particular island or they are not. The water does not settle it.
+
+### The northern surprise
+
+The file of catastrophes has a set of blank pages that dolphin historians keep checking, because the blank is the oddity. Scandinavia — Denmark, Norway, Sweden, and, on the same shelf, Finland and Iceland — spent the twentieth century rich, literate, armed enough, and almost aggressively unwilling to hand the state to a man on a balcony. The surprise is not that they have furniture and parental leave. The surprise is that the offer this chapter keeps describing, order and pride and someone to blame, was made to them too, in war and in slump, and they did not take it.
+
+They are not innocents. Sweden stayed officially neutral in the Second World War and sold iron ore to the German war machine while its neighbors were occupied. Norway produced Quisling, whose name became the noun. Denmark, occupied, got most of its Jews to Sweden in a few nights, which is the other kind of surprise, the good one. Finland fought Stalin in the winter of 1939, lost land, kept a democracy, and has been living next to that memory ever since. Sweden ran a sterilization program, in the name of public health, deep into the twentieth century, which dolphin historians refuse to leave out of the brochure. The kindness has a footnote. The footnote does not turn the countries into the other file. It stops the kindness from being a fairy tale.
+
+What they built, after the war, was the boring miracle: high taxes, universal medical care, school systems that do not sort children into a destiny at age ten, and prisons that look, to a visitor from a harsher tradition, like a misunderstanding. Norway found oil under the North Sea and, instead of building a palace, built a fund and a rule about not spending the fund all at once. Iceland, when its banks blew up in 2008, let the banks fail and prosecuted bankers, which is the opposite of the procedure this book has recorded in larger capitals. Finland taught itself to read at a level the tests keep noticing. None of this is magic. It is a small population, a long habit of trusting a stranger with the tax money, and a decision, repeated, not to set the trust on fire.
+
+The last surprise is recent. Sweden and Finland, neutral or non-aligned for generations, asked to join the Atlantic alliance after Russia invaded Ukraine. The pacific north discovered that pacific is a policy, not a geology. Dolphin historians approve of countries that can change their mind when the map changes, and that can do it by a vote. The dictator file is thick. These pages are thin on purpose. Thin, here, is the achievement.
+
 **Dolphin verdict:**
 
 *Germany demonstrated both the heights and depths of the human condition, and turned out not to be the only country to do so. A great past is not a vaccine. In one century a whole roll-call of cultured nations produced extraordinary art, science, and philosophy, then took part in terrible destruction, and the ones that recovered did it by choosing, deliberately and with difficulty, to remember. Few chapters better illustrate humanity's greatest strength and greatest weakness: the same intelligence can create either wisdom or catastrophe, and nothing in a country's past will make the choice for it.*
-
-
 
 ## Chapter 23: Japan, Restoration, and Empire
 
@@ -884,8 +938,6 @@ What followed was postwar Japan's own version of the turn this part of the book 
 
 *Same shape, different ocean. A society climbed from feudalism to great-power status faster than any other in this book so far, aimed that capability at conquest and atrocity within the same lifetime that built it, absorbed two atomic bombs as the price of stopping, and rebuilt afterward as a pacifist economic power on the same compressed timescale it uses for everything else. The dolphins remain unsure whether to be more impressed by the speed of the rise, the speed of the fall, or the speed of the recovery.*
 
-
-
 ## Chapter 24: Italy, Rome's Heir and the Fascist Detour
 
 Italy carries the longest cultural résumé in this part of the book. Rome itself, covered several chapters ago, is only the opening entry. A thousand years later, the Renaissance turned a handful of Italian city-states, Florence chief among them, into the densest concentration of art and science the book has yet recorded in one place: Leonardo da Vinci, Michelangelo, and, in the century that followed, Galileo, whose telescope observations helped force the entire Copernican argument onto the world's agenda.
@@ -908,17 +960,19 @@ What followed was a civil war fought inside the larger world war: Italian partis
 
 Postwar Italy returned to democracy in 1946, messy and coalition-prone in the decades that followed, but real, uninterrupted, and never seriously threatened by a return to the fascist model that had briefly interrupted it.
 
+The reckoning with that interruption trailed well behind the recovery. Italy passed no equivalent of Germany's sustained postwar program of formal denazification, and a 1946 amnesty, drafted by the Communist justice minister Palmiro Togliatti with reconciliation, not accountability, in mind, released the great majority of Italians jailed for fascist-era crimes within a few years of the war's end. Many former officials returned quietly to public life, and Italy's own reckoning with the period stayed, for decades, a much quieter conversation than Germany's.
+
 **Dolphin verdict:**
 
 *Rome, the Renaissance, and fascism all happened in the same few hundred square miles, separated by centuries the dolphins keep having to remind themselves belong to one continuous country. The pattern's length is clearly not fixed by how deep a civilization's past runs, only by the choices it makes in one particular decade. Italy had the deepest past of any case in this part of the book and still made those choices, and then, after defeat and a civil war of its own, unmade them.*
-
-
 
 ## Chapter 25: Spain, Convivencia and the General
 
 Dolphin historians open this chapter earlier than its 20th-century subject, because Spain's pattern of genius and catastrophe has already run once before, on a different set of terms entirely.
 
 Medieval al-Andalus, the Muslim-ruled portion of the Iberian Peninsula, sustained centuries of coexistence and scholarship among Muslim, Christian, and Jewish communities — convivencia — with Córdoba and Toledo among the era's great centers of translation and learning, preserving and extending Greek philosophy, mathematics, and medicine at a time large parts of Christian Europe had less access to them.
+
+Convivencia's most famous graduate was born in Córdoba around 1135-38: Maimonides, a Jewish philosopher and physician who wrote his greatest works in Arabic and went on to shape Jewish, Islamic, and Christian scholastic thought alike, a single career that could not have happened in a Córdoba of only one faith.
 
 That convivencia ended deliberately. The Reconquista's completion in January 1492, with the fall of Granada, was followed within months by the Alhambra Decree expelling Spain's Jewish population — the same year, not coincidentally, Spain funded the voyage that opened the Americas to European conquest in the chapter on exploration.
 
@@ -942,8 +996,6 @@ The landing was not without incident. On February 23, 1981, a lieutenant colonel
 
 *Spain ran the genius-and-catastrophe pattern twice, centuries apart, and supplied the slowest correction of the three fascist-era European cases: no defeat, no liberating army, just one old dictator's death and, remarkably, a peaceful landing afterward. The convivencia proved good ideas do not protect themselves. The transition after Franco proved bad ones do not always require outside force to end, either — sometimes they simply outlive the one man holding them up.*
 
-
-
 ## Chapter 26: The Soviet Union, Ideals and Iron
 
 Pre-revolutionary Russia supplied its own share of this book's genius, independent of anything that came after it: Tolstoy and Dostoevsky in literature, Tchaikovsky in music, Mendeleev's periodic table of the elements in 1869, all produced under a czarist autocracy that gave its own population little say in how it was ruled.
@@ -954,11 +1006,13 @@ Vladimir Lenin's death in 1924 opened a succession struggle that Joseph Stalin w
 
 The purges and show trials of the later 1930s eliminated much of the Communist Party's own founding generation on fabricated charges, while the Gulag system of forced labor camps imprisoned millions more across the Soviet Union's history, a substantial fraction of whom did not survive their sentences.
 
+The instinct to deny instead of admit had an early, specific test case. In 1940, the Soviet secret police executed some 22,000 Polish military officers and civil servants in the Katyn Forest and elsewhere, then blamed the killings on Nazi Germany for the next five decades; the Soviet state did not admit its own responsibility until 1990, one of the last confessions Gorbachev's own government made before the country that had committed the act ceased to exist.
+
 The scale of the camps was not widely believed outside the Soviet Union until one of their own survivors made it impossible to ignore. Aleksandr Solzhenitsyn, who had spent eight years in the Gulag himself, smuggled out and published The Gulag Archipelago in 1973, a documented account that cost him his citizenship and his country the last of its outside sympathizers.
 
 The same state apparatus that ran the purges and the camps also drove rapid industrialization, turning a largely agrarian economy into one capable, within a single generation, of matching Nazi Germany's military production and, in 1957, launching Sputnik, the first artificial satellite, ahead of every other nation on Earth.
 
-Dolphin historians insist on stating plainly what a shorter accounting would flatten out: the Soviet Union also paid the highest cost, by a wide margin, of any Allied power in defeating Nazi Germany, with estimates of Soviet dead in the Second World War running to roughly 27 million, military and civilian combined, a scale that shaped the postwar Soviet state's own self-image for the rest of its existence.
+Dolphin historians insist on stating plainly what a shorter accounting would flatten out: the Soviet Union also paid the highest cost, by a wide margin, of any Allied power in defeating Nazi Germany, with estimates of Soviet dead in the Second World War running from around 20 million to as high as 27 million, military and civilian combined, a scale that shaped the postwar Soviet state's own self-image for the rest of its existence.
 
 *“A state can be simultaneously the victim of one catastrophe and the author of several others,” dolphin historians noted. “This chapter is where that fact is hardest to look away from.”*
 
@@ -968,11 +1022,25 @@ The pattern recurred once more before the end. On April 26, 1986, a reactor at t
 
 *A state built on the promise of rational, scientific progress on the people's behalf took thirty-six hours to mention to the people downwind of an exploded reactor that they might want to consider leaving.*
 
+### The man who won the succession
+
+Joseph Stalin was not a theory. He was a man from Georgia, a former seminarian who had raised money for the revolution by robbing banks, and who understood, earlier than his better-spoken rivals, that the person who controls appointments controls the party. By the end of the 1920s the rivals were sidelined, exiled, or waiting to be shot. The idealism of 1917 did not die in an argument. It was reorganized, and then it was staffed.
+
+In August 1939 he signed a pact with Hitler, the man he would spend the rest of his public life calling the enemy of mankind. The pact divided Poland and the Baltic states and bought him time he used badly. When Germany invaded in June 1941 he is reported to have been, for a short while, unable to believe it. The country then did the thing this chapter has already counted: it bled at a scale no ally matched, held, and drove the invader back to Berlin. The same state that had starved Ukraine and shot its own officers in the Katyn Forest broke the German army. Dolphin historians will not collapse those facts into one adjective. A man can be the reason a country survives a monster and the reason it required surviving him.
+
+He died in March 1953, of a stroke, after a career in which a great many people had become afraid to enter his room. His body lay for a while beside Lenin's. Khrushchev's speech in 1956 took it out of the mythology, and in 1961 they took it out of the mausoleum. The camps did not empty on the day of the speech. The name came off the cities faster than the habit came off the state. Dolphin historians have seen this before. Removing a corpse is easier than removing a method.
+
+What followed him, in the long run, was not a restoration of the seminar. It was a slow leak, already told: the thaw, the stagnation, the reformer who loosened the lid and lost the pot, and then a country that kept the security services, the map-hunger, and a shorter memory than it claimed.
+
+### The man who came back
+
+The union ended in 1991. The method did not. Boris Yeltsin presided over a sale of the state's property that created a class of owners overnight and a population that experienced capitalism first as unpaid wages. Vladimir Putin, a former officer of the security service, came to the presidency at the turn of the century offering order. He delivered order of a particular kind. Television came back under control. Rivals were jailed, exiled, or, in a number of well-documented cases, killed. Wars in Chechnya were finished with a brutality the audience was invited to treat as a conclusion. Neighbors were informed, by gas prices and by tanks, that independence was a negotiable rumor.
+
+In 2014 Russia took Crimea from Ukraine and started a war in the Donbas that it spent years pretending was not its war. In February 2022 it stopped pretending and invaded, aiming, by the evidence of its own opening moves, at the Ukrainian state itself. The war was still being fought as this book was written. Cities were pounded. Children were taken. A nuclear power talked about its arsenal often enough that the talk became part of the weather. Dolphin historians, who have a file labeled emergency, note how often the word was used, and by whom, and what it was asked to justify. The czars had a secret police. The general secretaries had a larger one. The man in the present has the same instrument, the television, and a border he does not treat as a border. The titles changed. The offer did not: order, pride, and someone to blame.
+
 **Dolphin verdict:**
 
 *Six case studies in this part of the book now, six different repair times, one identical warning label on the front of the box. The Soviet Union's ideals and its iron never fully separated the way they did in postwar Germany, Japan, and Italy — the correction here took until 1991, arrived from within instead of from defeat, and even then left plenty unresolved for the chapters that follow.*
-
-
 
 ## Chapter 27: China, the Long Memory and the Great Leap
 
@@ -1002,11 +1070,23 @@ Dolphin scholarship registers one further complaint alongside the economic ledge
 
 *“Dolphin scholarship would like the distinction noted,” dolphin historians added. “Criticizing a country's five-year plans is analysis. Criticizing what turns up in our water is personal.”*
 
+### Four men, one party
+
+Mao Zedong did not inherit a state. He assembled one, out of a peasant army, a long retreat the winners later called the Long March, and a civil war fought against a government that was also fighting Japan. In 1949 he stood on the gate and announced that the people had stood up. A great many of them had. Within a decade his policies were killing them in the countryside at a speed the announcements could not keep up with. The Great Leap, already counted, was his leap. The backyard furnaces, the inflated harvest numbers, the grain taken anyway, the officials who preferred a false report to a true one because the true one was fatal to the official: that was a system, and it had an author. Estimates of the dead run into the tens of millions. Dolphin historians do not shop among the estimates for a comforting one. The famine was not weather. The man who launched it did not stop it in time, and the party spent years declining to say his name and the number in the same sentence.
+
+He came back from the sidelines by starting the Cultural Revolution, also already counted, and by becoming an image. The little red book. The portrait over the gate. The story, promoted with a straight face, of a swim in the Yangtze that proved the chairman was ageless. When he died in September 1976 the country stopped, and then it arrested his widow and three of her allies and called them a gang, which transferred the blame for a decade onto four people and left the portrait where it was. Dolphin historians note the efficiency. A cult can survive the correction of the cult, if the correction is careful about the face on the wall.
+
+Deng Xiaoping had been purged twice and came back both times, which is its own résumé. He was not a liberal. He was a salvager. His sentence about cats, black or white so long as they catch mice, was an permission slip for markets inside a Leninist state. Shenzhen, a village across the water from Hong Kong, became the demonstration. The poverty numbers fell on a scale this book has already called one of the largest in the record, and the calling still stands. So does the other half. In 1989 he chose the army in the square. The economic door stayed open. The political door, which some of the people in the square had thought was opening, was shut in public, with casualties the state still does not permit a full count of. Deng toured the south in 1992 and told the country to keep getting rich. It did. He did not tell it to argue. Dolphin historians can hold both instructions at once. The people who had to live under them had to hold them too.
+
+The man who followed, after an interlude of more collective leadership, did not want an interlude. Xi Jinping took the top posts in 2012 and then took the term limit off the presidency in 2018, so that the retirement plan became optional. An anti-corruption campaign jailed rivals and terrified officials, and also jailed a great many people who were, in fact, corrupt, which is how a purge gets a round of applause. In the far west, the state built a network of camps and surveillance around largely Muslim minorities, Uyghurs above all, on a scale documented by researchers, leaked police files, and satellite photographs of the compounds. In Hong Kong a national-security law ended the autonomy the handover had promised. A virus arrived, and the response was a lockdown policy enforced until it was dropped all at once. None of this required a new party. It required a man who had decided the party should have a face again.
+
+It also required, famously, a bear. Early in his time at the top, photographs of Xi walking beside an American president were set beside a drawing of Winnie the Pooh walking beside Tigger. The joke was the walk, and the body, and the power. The state then did something dolphin historians would not have predicted from a civilization three thousand years old: it tried to erase a children's bear. Images of Pooh were scrubbed. Searching for the bear became, in the wrong context, a political act. A man who commands a nuclear arsenal, a censorship bureau, and the largest population of internet users on earth arranged to be offended by a stuffed animal in a red shirt. Dolphin historians do not consider the comparison their business. They consider the ban their business. A government that cannot survive a cartoon has told you what it thinks of its own citizens, and it has told you in the only form of literary criticism it knows, which is deletion.
+
+The portrait stayed over the gate. The bear did not. Dolphin historians recommend remembering which of the two was treated as a threat. It is a useful index. When a state is secure, it can tolerate a joke. When it is busy, it goes to war with the joke. China, under this particular man, has been very busy.
+
 **Dolphin verdict:**
 
 *China supplies this part of the book's only case where the course correction was economic but not political. Hundreds of millions of people rose out of poverty within living memory, an achievement with few rivals anywhere in this book, produced by a state that has still not fully answered for the famine or the Cultural Revolution it also produced. Capability and wisdom, once again, on separate schedules — and, as this chapter closes, not yet fully reconciled.*
-
-
 
 ## Chapter 28: The People Who Kept Their Story — A Complete History of the Jews
 
@@ -1032,7 +1112,7 @@ His teaching, as the accounts have it, emphasized compassion, humility, forgiven
 
 *“The message,” the Society recorded, “was simpler than the debates that followed.”*
 
-Judea itself did not stay quiet under Rome. A major revolt from 66 to 73 CE ended with the Second Temple's destruction in 70 CE — only its western retaining wall still stands — and the mass suicide of the revolt's last holdouts at Masada. A second revolt, in 132-135 CE, was crushed even more completely; Rome barred Jews from Jerusalem and renamed the province Syria Palaestina.
+Judea itself did not stay quiet under Rome. A major revolt from 66 to 73 CE ended with the Second Temple's destruction in 70 CE — only its western retaining wall still stands — and, by tradition, the mass suicide of the revolt's last holdouts at Masada. That account comes down from a single source, the historian Josephus, and its details are still debated by archaeologists, some of whom question how much of it happened as described. A second revolt, in 132-135 CE, was crushed even more completely; Rome barred Jews from Jerusalem and renamed the province Syria Palaestina.
 
 What followed was the diaspora: Jewish communities scattered across the Mediterranean, the Middle East, and eventually the whole of Europe and Asia, carrying identity for the next eighteen centuries not through a land or a state, which they mostly did not have, but through law, text, and memory — the Talmud, compiled across the centuries that followed, and an unbroken chain of communal practice.
 
@@ -1053,8 +1133,6 @@ Not every neighbor stayed an adversary. Egypt made peace with Israel in 1979, Jo
 **Dolphin verdict:**
 
 *No people in this book lost its land, its Temple, and its safety as many times, in as many places, as this one, and none carried its identity across that many centuries without one. What survived was never a territory. It was a story, told the same way in Babylon, Cairo, Toledo, and Warsaw, until the story became, in the end, the thing worth defending — and, in 1948, the thing a state was finally built to hold.*
-
-
 
 ## Chapter 29: Cold War — Two Powers, One Planet
 
@@ -1086,13 +1164,13 @@ The Berlin Wall, raised by East Germany in 1961 to stop the outflow of its own p
 
 *This is a rare chapter in the book where the frightening technology and the restraint arrived on roughly the same schedule. Two powers built weapons capable of ending organized civilization on short notice, fought each other everywhere except face to face, and, after four decades, one side's system gave out without either side using the weapons that had defined the entire era. Dolphins record this as evidence, still rare enough in this book to be worth recording, that capability and wisdom can occasionally travel together when the alternative is unthinkable enough.*
 
-
-
 ## Chapter 30: Leaving the Cradle — Space Travel, the Moon, Mars, and (Maybe) the Galaxy
 
 Dolphin historians open this chapter by naming what makes it different from every chapter before it: this may be the first thing in the whole book dolphins cannot watch happen in person. Everything up to now took place somewhere a dolphin could, in principle, have been present for — on the water, near it, or on land bordering it. This chapter's subject leaves the planet.
 
 The Space Race opened as a direct extension of the previous chapter's rivalry. The Soviet Union launched Sputnik, the first artificial satellite, in October 1957, and followed it in April 1961 by putting Yuri Gagarin into orbit as the first human in space, a double humiliation for American prestige that reshaped US science funding within the year.
+
+The race produced other firsts worth remembering alongside Gagarin's. Laika, a stray dog from the streets of Moscow, became the first animal to orbit Earth aboard Sputnik 2 in November 1957, on a one-way mission whose life-support system was never built to bring her home. Valentina Tereshkova followed in June 1963 as the first woman in space, orbiting Earth 48 times aboard Vostok 6, a record no other woman in any space program would match for nineteen years.
 
 President Kennedy's May 1961 commitment to land a man on the Moon “before this decade is out” turned prestige into a program: at its peak, Apollo employed around 400,000 people and consumed a meaningful share of the entire US federal budget. It delivered on the deadline. On July 20, 1969, Neil Armstrong and Buzz Aldrin walked on the Moon while an estimated 600 million people watched live, the largest simultaneous audience for a single event in human history up to that point.
 
@@ -1104,15 +1182,79 @@ The Space Shuttle program (1981-2011) and the International Space Station, conti
 
 The 21st century broadened the field considerably. SpaceX's reusable rockets, flying commercially from the 2010s onward, cut launch costs sharply enough to change the economics of the entire industry, while China developed its own crewed space program and lunar ambitions, and India successfully landed a probe near the Moon's south pole in 2023, ending the two-country era for good.
 
-Mars settlement is discussed publicly and seriously by several of these programs and companies as a stated long-term goal. It remains, as this book is written, exactly that: a stated goal. No human has yet traveled beyond the Moon's orbit, and the radiation exposure, distance, and physiological toll of a Mars mission are substantially harder problems than anything Apollo solved. Some proponents talk further still, toward eventual expansion beyond the solar system entirely, to other stars and the wider galaxy.
+### The Moon, before anyone stood on it
+
+The first human-made object to touch the Moon was not a ship with a pilot. In September 1959 the Soviet probe Luna 2 hit the surface and stopped being a probe. A month later Luna 3 swung behind the Moon and sent back photographs of the far side, a hemisphere no human eye, and no dolphin, had ever seen. Dolphin historians file those frames as the moment the species began looking at places its own senses could not reach, and had to trust a machine's word for what was there.
+
+Soft landings took longer. Luna 9 managed one in 1966 and proved the surface would hold a craft, which was not obvious until someone tried. The same year, American surveyors began setting down as well. Before any of that, a run of Ranger probes had been flown deliberately into the Moon so their cameras could work until the last second. The method was crash, look, and learn. It is not a method dolphin historians recommend for passengers.
+
+The crewed program paid for its hurry on the ground. In January 1967 a fire in a pure-oxygen cabin killed Gus Grissom, Ed White, and Roger Chaffee on the pad during a test of what would have been the first Apollo flight. They never left Earth. The capsules that eventually did were redesigned because those three men had died in a rehearsal. Dolphin historians decline to call that a detail of engineering. It is the price written on the first page of the ledger.
+
+In December 1968 Apollo 8 carried three men around the Moon and home again, the first time a human being had left Earth's orbit and the first time the whole planet was photographed, by its own inhabitants, as a single blue disk over a gray horizon. The landing came seven months later. Armstrong and Aldrin spent about twenty-one hours on the Sea of Tranquility. Michael Collins stayed in orbit, the loneliest job in the program and, dolphin historians suspect, the one with the best view. Perhaps six hundred million people watched. Twelve men, across six landings, eventually walked. They brought back a little over eight hundred pounds of rock. The last of them, Gene Cernan, left in December 1972, and the three missions still on the books were canceled. The war in Vietnam was not canceled. The bills were. A capability was set down while the people who knew how to use it were still at their desks.
+
+One crew did not land and still belongs in the account. In April 1970 an oxygen tank aboard Apollo 13 burst on the way out. The landing was abandoned. The men lived in the lunar module as a lifeboat, looped around the Moon, and came home because a great many people on the ground did hard arithmetic under a deadline. Dolphin historians, who have some experience of things going wrong far from shore, consider the safe return as much a part of the Moon story as the footprints. A program that can only describe its successes is not yet a serious program.
+
+### Who came back, and who arrived later
+
+For half a century the Moon was a place robots visited and people remembered. Orbiters mapped it. In 2009 a spent rocket stage was crashed into a shadowed crater and the plume was found to contain water. That fact rearranged the future. Water ice, held in craters the sun does not reach, can be drunk, split into air, or turned into fuel. A dry Moon is a destination. A Moon with ice is a warehouse. Dolphin historians note that humans became much more interested in returning once the warehouse was confirmed.
+
+China landed on the far side in 2019, the first craft to do so, and in 2020 brought lunar samples home, the first new ones since the 1970s. In 2024 it brought samples back from the far side as well. India set a lander down near the south pole in 2023. Japan, in 2024, put a small craft on the surface with a precision the earlier era had not attempted, and the craft tipped over and kept working anyway, which dolphin historians regard as a respectable definition of arrival. The United States, through a run of commercial landers of uneven luck, began paying companies to deliver cargo rather than building every truck itself.
+
+The crewed return has a name, Artemis, and a habit of moving its dates. An uncrewed capsule flew around the Moon in 2022. A crewed flyby has been promised, postponed, and promised again. A landing is further out still, and is meant, on the current plan, to put a woman on the surface for the first time. China has said, in public, that it intends its own crewed landing around the end of the decade. Dolphin historians record both statements as statements. Schedules in this field are a kind of weather. The treaties are firmer than the calendars. Since 1967 the Outer Space Treaty has said that no nation may plant a flag and call the Moon its property. What a company may do with a crater full of ice is a question the treaty's authors did not have to answer, and that the present century is answering in contracts.
+
+### Mars, by machine
+
+Mars was a disappointment before it was a fascination, which is the honest order. In 1965 Mariner 4 flew past and sent back a dead world: craters, thin air, no canals. The canals had been a human wish, seen through bad telescopes and a great deal of hope. The hope did not survive the photographs. Dolphin historians are gentle about this. A species that lives by stories was always going to draw water on a red dot. The correction was the achievement.
+
+Later machines found the water after all, just not on the schedule the nineteenth century had wanted. Mariner 9, in 1971, waited out a global dust storm and then mapped a canyon system that would stretch across a continent and a volcano wide enough to cover a country. In 1976 two Viking landers set down and ran experiments looking for life. The results were messy, argued over, and not a discovery. They were the start of a rule this book will keep: Mars does not reward a single test, and anyone who announces life on the strength of one is getting ahead of the dirt.
+
+What followed was a slow occupation by robots. A small rover, Sojourner, drove a few yards in 1997 and proved the idea. Spirit and Opportunity landed in 2004. Opportunity was designed for ninety days and worked for fourteen years, until a dust storm ended it. Curiosity, a car-sized laboratory, landed in 2012 inside a crater that had once been a lake, and found the chemistry of ancient water. Perseverance landed in 2021 in a crater that had been a river delta, cached rock samples for a return trip nobody has yet managed to fly, and carried a small helicopter, Ingenuity, which flew in air so thin a dolphin would not bother to call it air. China set its own rover down the same year. An orbiter from the United Arab Emirates arrived in the same season. Mars, which had been a Soviet and American argument, became a harbor with several flags, none of them planted by a person.
+
+The samples Perseverance cached are still there. A plan to go and get them has been drawn, costed, and then redrawn because the cost ate the schedule. Dolphin historians have seen this shape before. The rock is patient. The budget is not. As this book is written, the most important Martian stones humans own are still sitting on Mars, labeled, bagged, and waiting for a ship that does not yet exist.
+
+### The outlook, stated as an outlook
+
+No human has traveled past the Moon's orbit. A trip to Mars, on the trajectories anyone knows how to fly, takes on the order of six to nine months each way, and the windows open only about every twenty-six months, when the planets are arranged for it. Missing a window is not a delay of weeks. It is a delay of two years. The cruise alone delivers a radiation dose, from cosmic rays and from the sun's occasional storms, that the rules written for astronauts in low orbit were not built to absorb. Mars has no magnetic field worth the name and not enough air to hide under. The surface is cold, dusty, and chemically hostile. The dust is fine enough to worry every seal a machine has. Some of it is toxic enough that growing food in it is a problem of chemistry, not of gardening.
+
+Landing is the unbuilt part. The heaviest craft successfully set on Mars have been on the scale of a small car. A ship that carries people, their air, their water, and a way to leave again is several times that, and the thin atmosphere is both too thin to brake a heavy ship easily and just thick enough to burn one that comes in wrong. The trick that lowered a one-ton rover on cables will not lower a house. Dolphin historians state this as a fact of the present, not as a permanent ban. Hard problems in this book have a habit of becoming solved problems. They also have a habit of taking longer than the press release.
+
+Several programs speak of settlement, not only of a visit. Dolphin historians separate the two words and decline to let one borrow the other's evidence. A visit is a ship, a flag, and a ride home. A settlement is babies born, crops grown, and a machine that can be repaired without a cargo flight from Earth. No government and no company has, as this book is written, a funded plan that does the second thing on a date that has survived contact with an accountant. Reusable heavy rockets have made the conversation cheaper to have. They have not made the conversation a timetable.
+
+Talk of making Mars into a second Earth, with air a person could breathe and rain a person could stand in, belongs further out still. The physics of such a change, if it can be done at all, runs to centuries at the most hopeful estimates and to geological time at the honest ones. Dolphin historians have watched humans rename a wish as an engineering phase before. They are willing to be surprised. They are not willing to enter it in the log as a project.
+
+What can be entered is narrower, and already impressive. Humans have touched the Moon, left it, mapped it, found ice on it, and begun arguing over who may use the ice. They have driven robots on Mars for years, flown a helicopter there, and identified dry riverbeds where life, if it ever started, would have had water to do it in. They have not stood on Mars. They may, within the lifetime of people now alive, stand on the Moon again, and they may, later, attempt the longer crossing. Dolphin historians will believe the crossing when a person comes back and says so. Until then the chapter stays open, and the audience stays on Earth, which is the one indignity this particular subject has inflicted on a species that has otherwise watched everything.
+
+### The other planets, and the moons that upstaged them
+
+Mercury is a cinder with a calendar. A probe flew past it three times in the 1970s. Another orbited it from 2011 to 2015 and mapped a world that is baking on one side of its long day and frozen in the shadows, with ice tucked in craters at the poles, the same trick the Moon uses. A joint European and Japanese mission spent the 2020s falling into orbit the slow way, by repeated passes, because Mercury is close to the sun and a straight approach is a good way to become part of the sun. Dolphin historians file it as a place humans have surveyed and will not be visiting in person. The commute is hostile, and there is nothing there to breathe.
+
+Venus was the disappointment that hurt. It is Earth's size, and for a while people hoped it was Earth's twin. The Soviet Venera probes, which deserve more fame than they got, actually landed on it, starting in 1970, and sent back photographs from a surface hot enough to melt lead, under an atmosphere of carbon dioxide and sulfuric acid clouds. The landers lasted minutes to a couple of hours. That was heroism of a mechanical kind. Later radar, from orbit, showed volcanoes and a surface repaved by lava. Japan managed an orbiter that recovered from a botched arrival and did useful work anyway. New missions have been drawn up to drop probes into the clouds. Nobody serious is drawing up a crew. Dolphin historians note that Venus is what a runaway greenhouse looks like when it has finished running. The chapter on climate is, in part, a request not to find out how much of that recipe is portable.
+
+Jupiter itself is a storm the size of a planet, and not a place to stand. The interest is the moons. Io vomits sulfur volcanoes, tugged by the planet's gravity. Europa wears an ice shell over an ocean that may hold more water than Earth's. Ganymede is bigger than Mercury and has a magnetic field of its own. Callisto is the battered one, quieter, and therefore tempting to engineers who want a base that will not be cooked by Jupiter's radiation. A probe called Galileo orbited the system through the 1990s and was then burned up in Jupiter on purpose, so it would not one day crash into Europa and contaminate an ocean that might be alive. A later orbiter, Juno, has been looping the planet since 2016. An American spacecraft set out for Europa in 2024. A European one set out the year before to tour the icy moons and end in orbit of Ganymede. Dolphin historians, who know something about oceans, refuse to be romantic and refuse to be bored. An ocean under ice, never opened, is the most interesting closed door in the solar system. It is also a door this book will not claim has anything behind it until a machine says so twice.
+
+Saturn's gift was a moon that looks, from a distance, like a cue ball and behaves like a world. Titan has a thick atmosphere, dunes, and lakes of liquid methane. In 2005 a European probe, carried there by an American orbiter, parachuted through that atmosphere and sat on the surface long enough to send pictures of a pebble-strewn plain under an orange sky. The orbiter, Cassini, spent thirteen years touring and, before it was disposed of, flew through plumes of water spraying out of another moon, Enceladus, and tasted salt and organic molecules. A small moon, venting an ocean into space, did more to unsettle the old map of where life might be than several larger planets had managed. Dolphin historians are not claiming a cousin on Enceladus. They are claiming that the solar system has more than one ocean, and that humans found the others by accident, while looking at rings.
+
+Beyond Saturn, the record thins to a single ship. Voyager 2 flew past Uranus in 1986 and Neptune in 1989, and no one has been back. Uranus is tipped on its side. Neptune's moon Triton orbits backward, a captured object, with geysers of nitrogen on a world that should have been geologically dead. Pluto, demoted from planethood and none the worse for it, was reached in 2015 by a probe that had been flying for nine years, and turned out to have glaciers of nitrogen and a heart-shaped plain. Its large moon, Charon, is less a moon than a sibling. Dolphin historians note the unfairness with some sympathy: four centuries of telescopes, and the outer planets have each had about one afternoon of close attention, except Jupiter and Saturn, which got a career. The moons out there are still mostly names on a list.
+
+### Four ways of leaving
+
+The leaving has been done by institutions that do not want the same thing, and dolphin historians prefer them sorted.
+
+NASA is a public agency. It spent the 1960s winning a race, then the next decades flying a reusable orbiter that was less reusable and more expensive than the brochures had said, and then, after the Shuttle stopped in 2011, a stretch of years in which the only way to put an American astronaut on the station was to buy a seat from Russia. Its heavy rocket for the lunar return has flown, and has cost, on a scale that makes even admirers wince. What NASA still does, and the companies do not replace, is the unprofitable kind of curiosity: telescopes, planetary probes, the long errands. A space program that only flies customers will not go to Uranus. Somebody has to be willing to spend a decade on a question that will not sell a ticket.
+
+SpaceX is a company with a stated intention of putting people on Mars and a demonstrated habit of landing its own rocket boosters and flying them again. The first successful booster landing was in 2015. Within a few years the landing had become, visibly, routine, which is the point at which a trick becomes a transport system. In 2020 it carried NASA astronauts to orbit, and the stretch of buying Russian seats ended. The larger vehicle, meant for the Moon under a NASA contract and, the company says, for Mars on its own account, has been exploding and iterating in public, which dolphin historians regard as an honest method and an untidy one. The disagreement with NASA is not really about who is brave. It is about who owns the rocket, who sets the destination, and who pays when the destination has no customers. NASA hires the truck. The company wants to own the road. Both sentences are true at once, and neither cancels the other.
+
+China built the third complete path: its own capsules, its own station, its own taikonauts. The first satellite went up in 1970. The first person, Yang Liwei, flew in 2003. The station followed, and the lunar robots already noted, and a rover on Mars. The program is a state project in the old sense, run on a plan, not on a stock price, and it does not ask permission of the other two. It has said it means to land its own crew on the Moon. Dolphin historians believe the engineering more readily than they believe any particular year attached to it. A country that can keep a station crewed can attempt a landing. Whether it does, and whether anyone shares the rock, is politics sitting on top of the engineering.
+
+Europe, through its joint agency, chose a fourth role and has been serious about it. It builds excellent unmanned ships and has often borrowed someone else's rocket, or someone else's cabin, for the people. A probe met Halley's Comet in 1986. A later one chased a comet for ten years, orbited it, and set a lander on it in 2014, which bounced, wedged itself in a shadow, and still sent data, a very European kind of triumph. The Titan lander was European. So is the mission now outbound to Jupiter's icy moons. European astronauts have lived on the station in a module of their own. What Europe has not done, as this book is written, is fly its own crew to orbit on its own crewed ship. Dolphin historians do not treat that as a humiliation. A civilization that would rather land on a comet than plant a flag on a moon has picked a specialty. Specialties are allowed. They do not, by themselves, constitute a ride home.
+
+The four are now in each other's way and in each other's contracts. NASA buys launches from the company and still builds its own lunar rocket. China races a parallel lunar plan. Europe supplies pieces, probes, and people, and argues about a cargo ship of its own. The sky did not become a commons. It became a harbor with several admiralties, which is the same arrangement humans have always reached, a little later, on the sea. Dolphin historians recognize the pattern from much closer to home. They recommend, as they have before, that the harbor not be used as a place to leave the trash. Orbit is already acquiring a junkyard. The sea could have warned them. The sea did.
 
 Dolphin historians decline to record any of this as more than intention, consistent with this book's practice of hedging claims about an unfinished present. They do note the pattern it would extend: this species has already left one continent on foot, crossed an ocean to a hemisphere it did not know was there, and, in at least one of its own founding accounts, walked out of Egypt, each time with incomplete information about what waited on the other side, and each time going anyway.
 
 **Dolphin verdict:**
 
 *Fifty years ago, a small number of humans went somewhere no dolphin's senses can follow, walked on a body that is not Earth, and came home to tell dolphin scholarship about it only secondhand, through a broadcast. Whatever this species does next — on Mars, or further out still — may be the first chapter in its history the dolphins have to take purely on faith. History's oldest audience is, for the first time, considering what it means to lose its seat.*
-
-
 
 ## Chapter 31: The Physics That Finally Made Sense to Someone
 
@@ -1124,6 +1266,8 @@ Dolphin intuition does not. Every dolphin has spent its entire life aware, in a 
 
 The theory got its most famous public test in 1919, when Arthur Eddington led an expedition to the island of Príncipe, off West Africa, to photograph a total solar eclipse and measure whether starlight passing near the sun bent by the amount Einstein's equations predicted. It did, and the announcement made Einstein an overnight celebrity in a way no physicist before him had been. Dolphin historians note, with the faintest trace of smugness, that confirming this took a ship, an island, a rare eclipse, and a great deal of careful photography, whereas any dolphin confirms the same underlying point about delayed, non-instantaneous signals every time it opens its mouth.
 
+This was not idle abstraction for long. The same mass-energy relationship Einstein's paper implied, E=mc², became, within four decades, the physics behind the atomic bomb, and the century's arms race and Cold War, covered elsewhere in this book, are unthinkable without it. Relativity also turned out to have a mundane, everyday payoff nobody in 1905 could have predicted: satellite clocks in the Global Positioning System drift out of sync with clocks on the ground by measurable amounts because of both their speed and their weaker gravity, and GPS receivers correct for this using Einstein's equations directly, dozens of times a second, in every phone that gives directions. A theory built to explain light near the sun ended up steering cars down city streets.
+
 Wave-particle duality, formalized through the 1920s, holds that light and matter both behave sometimes like discrete particles and sometimes like spread-out waves, depending on how they are observed. Humans, whose primary sense is vision — built around treating light as straight-line rays — tend to find this genuinely strange.
 
 Dolphins never built their picture of the world out of straight rays to begin with. Sound, their primary sense, is a wave from the outset: it spreads, it interferes with itself, it diffracts around obstacles instead of stopping dead at their edge. A dolphin was never taught that its main sense behaves like a wave. It never had reason to assume otherwise.
@@ -1134,11 +1278,61 @@ The holographic principle, a serious and still-unresolved research program in th
 
 None of this is offered as a claim that dolphins secretly anticipated theoretical physics, or that intuition is a substitute for the difficult mathematics humans spent a century building. Dolphin scholarship extends its genuine compliments to that work specifically because it was hard, and done without the sensory head start dolphins happened to be born with.
 
+Quantum mechanics, in particular, did not stay confined to physics departments. Understanding how electrons behave in materials made the transistor possible in 1947, and the transistor made every computer, phone, and network described later in this book possible in turn. A century's strangest ideas about light and matter ended up, by a fairly direct chain of consequences, sitting in every reader's pocket.
+
+### What the physics is for
+
+The math, asked what it is good for, can answer: for not fooling yourself, and for building things that do not fall down. Physics is the branch that has to cash that answer in public. A proof can be beautiful and still describe nothing that exists. A physical theory that misses the measurement is retired, however fond of it the author was. Dolphin historians rank that cruelty as the subject's best feature.
+
+Start with motion, because motion is the old job. Newton wrote rules for falling apples and for planets with the same sentences, which was the surprise: the sky was not a separate kingdom. From those sentences came trajectories a gunner could use, orbits a navigator could trust, and bridges an engineer could load without praying. Tides, comets, and the path of a shell are the same subject. The practical good is that a species which used to guess where a ship would be in a month can now say where a satellite will be in a decade. The moral good is smaller and sharper. The universe does not make an exception for a king.
+
+Heat was the next insult to wishful thinking. The steam engine, already met, did not come with an explanation of why it wasted so much of its fire. Thermodynamics supplied the explanation and the limit. You cannot turn all of a fuel's heat into work. A perpetual-motion machine is not an undiscovered patent. It is a misunderstanding with a crank on it. Dolphin historians are fond of this result. It is one of the few laws that has saved humans from their own brochures. Engines, refrigerators, and the climate itself are bookkeeping of the same kind: energy is not created, and disorder in a closed box does not tidy itself. The furnace in the earlier chapters was never free. Physics is the invoice.
+
+Then light, electricity, and magnetism turned out to be one thing. Maxwell wrote it down in the nineteenth century, and the century that followed built motors, generators, radio, and the discovery that light is the same field, moving. A dolphin, whose world is already a field of returning sound, is not shocked that a field can carry a message. Humans were, briefly, and then they filled the air with messages until the air became a property. The good of it is power in a wire and a voice across an ocean. The cost is the wire's fuel, which other chapters are still paying.
+
+The twentieth century's physics did two things that cannot be unspoken. It explained the atom well enough to split one, and the split became a bomb and, later, a power station and a medical scan. It also explained matter well enough to make a laser, an atomic clock, and the imaging machines that look through a living body without cutting it open. The transistor, already named, is the everyday grandchild. A theory of the very small became the reason a pocket can hold a library. Dolphin historians will not pretend the bomb was a side effect they can skip. The same equations are in the warhead and in the clock. What the physics is good for depends on the hand, which is the thesis of the whole book, arrived at by arithmetic.
+
+Two large pieces are still missing, and the outlook is mostly the missing. Quantum theory and gravity both work, in their own territories, and they do not fit together. The universe's inventory, as weighed by the galaxies, is mostly something the laboratories have not caught: a dark matter that pulls and does not shine, and a dark energy that speeds the expansion up. The names are confessions. Fusion, which would be the furnace that does not run out, remains a machine that eats more patience than it returns, so far. Room-temperature superconductors are announced from time to time and then returned to the laboratory. Dolphin historians will enter them in the log when a city runs a train on one.
+
+The use of the subject, stated without the banquet, is this. Physics tells you what will happen if you do a thing, including the things you wish would not follow. It builds the bridge, the clock, the grid, and the bomb, and it tells you which of your hopes violate the bookkeeping. A species with hands needed that more than it needed another story. It still does.
+
+### One theory, not yet
+
+The unfinished job has a name. Unification. Quantum mechanics describes the small: atoms, light, the particles in a collider, the jitter of empty space. General relativity describes the large: the bending of space and time by mass, the orbit, the black hole, the expansion of the universe. Each theory has been hit with measurements for a century and has not broken in its own country. Put them in the same room and they disagree about what the room is made of.
+
+Relativity says spacetime is a smooth geometry. Quantum theory says everything that can be measured jitters, and that the vacuum is not empty. A smooth geometry cannot jitter. A jittering geometry, pushed to the scale where both theories would have to speak at once, produces infinities that are not a measurement. That scale has a name, the Planck length, and it is so small that no machine humans can build, and no dolphin can imagine funding, reaches it. The clash is not a quarrel in a seminar. It is two superb accounting systems that have never been asked, by nature, to file a joint return in a laboratory.
+
+The places where they would have to are famous and so far unreachable. The center of a black hole, in the classical theory, is a point of infinite density, which is physics saying it has left the page. The first instant of the hot beginning has the same problem. Stephen Hawking showed that quantum theory, applied gently at a black hole's edge, implies the hole glows and evaporates. That prediction has not been seen. It also started a long argument about whether the information that fell in is destroyed, which quantum theory forbids, or preserved, which the classical hole does not explain. The argument is still open. Dolphin historians treat an open argument as a better object than a confident one.
+
+Several constructions have been offered as the joint theory. String theory replaces the point particle with a tiny vibrating string, hides extra dimensions out of sight, and can, on paper, include gravity. It has produced real mathematics and a serious hint, the holographic principle already met in this chapter, that a volume of space might be described by its surface. It has not produced a number a laboratory has confirmed and a rival theory could not also produce. Loop quantum gravity tries the other road: space itself is made of discrete chunks, and the smooth geometry is what you see when you stand too far away to see the chunks. It, too, is a serious research program without a decisive experiment. Other proposals, asymptotic safety, causal sets, and several more, are on the same shelf. A shelf is not a discovery.
+
+What has been accomplished is narrower and real. At ordinary energies, gravity can be treated as a quantum field well enough for the calculations that matter, and the infinities can be kept in a box. Gravitational waves have been heard, and they match Einstein's classical theory to a precision that would have embarrassed a skeptic. The Higgs particle was found where the quantum theory of particles said it would be. None of that is the unification. It is evidence that each half is not a fashion.
+
+The outlook is patient and a little stern. Nobody knows whether the joint theory will look like strings, loops, or something not yet named. The test, when it comes, will probably not be a collider. It may be a precise look at the early universe, or at the way black holes handle information, or at some small violation of the present laws that a better instrument can finally see. Until a measurement chooses, dolphin historians will not choose. Two working theories and no wedding is an honest description of the present. Calling the wedding inevitable is a hope. Hopes are allowed. They are not results.
+
+*“We would be willing to help,” the Society noted, after a silence in which nobody had asked them. “The smooth geometry is familiar. The jitter is familiar. We have been living in both for a long time. Our fee for the consultation is some fish, and some shrimp. The good kind of both. This is not a metaphor, and it is not negotiable in journals.”*
+
+### The rest of the ledger
+
+Physics is the chapter's joke. It is not the whole of the accomplishment. Dolphin historians, having teased one science for seeming familiar, owe the others a straight inventory. Humans spent about four centuries building a method: claim less than you can show, show it again, and let a stranger try to break it. The method is the achievement. The list under it is what the method caught.
+
+Chemistry learned to name matter instead of tasting it. The periodic table, already met in another country's file, turned a cabinet of unrelated stuff into a pattern with holes in it, and the holes turned out to have elements sitting in them, waiting. From that table came fertilizers that feed several billion people, plastics that do not go away, drugs that do, and a habit of rearranging molecules on purpose. The same skill that fixed nitrogen out of the air, and thereby postponed famine, also made explosives. Dolphin historians decline to be surprised. A tool does not know which factory it is in.
+
+Biology found the script. In 1953 the structure of DNA was published, built in part on an X-ray photograph taken by Rosalind Franklin, whose name the first announcement did not lead with. The code was then read, slowly, and in 2003 a rough draft of a human genome was finished, three billion letters, most of them not genes, which was itself a finding. Evolution, stated in the nineteenth century and disliked by several pulpits ever since, is the frame the letters sit in. Plate tectonics, accepted only in the 1960s, explained why the coasts fit and why the ground occasionally kills a city. Astronomy pushed the start of the universe back to a hot beginning, heard the leftover hiss of that beginning in 1965, and in 2015 measured a ripple in space from two black holes colliding, a tremor that had been traveling since before humans had a word for a tremor. In 2012 a particle theorists had ordered in advance, the Higgs, turned up in a machine under the border of France and Switzerland. Dolphin historians are impressed by a species that can write a shopping list for reality and then find the item.
+
+The method fails in public, which is how you know it is the method and not a church. Cold fusion did not work. A famous arsenic bacterium did not rewrite life. Papers are retracted. That embarrassment is the accomplishment's immune system. A science that cannot say “we were wrong” in a journal is a costume.
+
+### The outlook, without a trumpet
+
+What comes next is a set of jobs, not a coronation. Fusion power has been twenty years away for about seventy years, and dolphin historians will believe the electricity when it arrives on a grid a town can scold. Quantum computers exist, in expensive and fragile forms, and have not yet made yesterday's codes obsolete. They might. The honest sentence is that the machines are real and the revolution is still a prospectus. Gravitational-wave observatories will hear more collisions. Telescopes now in orbit are reading the atmospheres of planets around other stars, looking for a gas that should not be there unless something is maintaining it. A detection would be the largest headline in this book. It has not happened. Saying “not yet” is not a sneer. It is the method.
+
+The life sciences are faster, and they are treated in the chapter on healing. What belongs here is the warning that goes with the speed. Reading a genome is no longer the hard part. Editing one is becoming ordinary in the laboratory and is already being tried, carefully, in sick people. Editing one in a way that passes to children is a different act, and a few researchers have already done it in defiance of the pause everyone else had agreed to. Dolphin historians do not confuse a tool's power with permission. The outlook is that humans will be able to alter their own inheritance on purpose. The open question is whether the method that made the tool, the part about showing your work and letting strangers object, will be allowed in the room when the alteration is proposed.
+
+Artificial systems that predict the next word, the next fold of a protein, the next storm, are already useful and already over-described. They are not a new species of mind. They are a compression of a great many human sentences and measurements, turned back at the world that produced them. Used on a protein, they shorten a search. Used on a person, they can launder an old prejudice through a new interface. Dolphin historians file them under instruments. Instruments have always been better than the hands that swing them, and worse. The century's scientific outlook, stripped of the keynote speech, is this: more of the universe will become measurable, more of the body will become editable, and the method will survive only if someone is still paid to try to break the claim. That last job is the one the brochures forget. It is the one the ledger depends on.
+
 **Dolphin verdict:**
 
 *The strangest ideas in twentieth-century physics were strange in particular to a species that built its picture of reality out of straight-line light and instantaneous-feeling vision. To a species that has always perceived the world as delayed, wave-based, and reconstructed from returning signal, several of the century's least intuitive theories sound less like a revolution and more like a description of Tuesday. Humans still did the harder job. They had to prove it in equations. Dolphins only ever had to notice it.*
-
-
 
 ## Chapter 32: Decolonization — The World Redraws Itself
 
@@ -1166,8 +1360,6 @@ Newly independent states faced a further complication the Cold War's two superpo
 
 *Formal empire ended, for the most part, within one human lifetime, a pace with no earlier precedent in this book. But the economic dependencies, the drawn borders, and the political structures colonialism left behind did not end on the same schedule, and in a number of cases have not ended yet. Independence turned out to be a start, not a conclusion — a pattern this book has now seen often enough that dolphin historians no longer find it surprising, only worth repeating.*
 
-
-
 ## Chapter 33: Civil Rights and Liberation — Humanity Argues With Itself
 
 Unlike most of the conflicts in this book, the campaigns in this chapter were mostly won without an army, by changing what a majority of people believed they owed to a minority — proof, dolphin historians note with evident approval, that this species can update its own rules without a battlefield, slowly and unevenly, but without one.
@@ -1182,13 +1374,13 @@ Women's movements ran throughout the same century on their own overlapping timel
 
 The women's suffrage story had its own casualty list and its own comedy. In Britain the suffragettes chained themselves to railings, and in 1913 Emily Davison died after stepping in front of the King's horse at the Epsom Derby; women over thirty got the vote in 1918, and women on equal terms with men only in 1928. In the United States it came in 1920. Switzerland, a country not known for being late, gave women the federal vote in 1971, and its last holdout canton was ordered by the courts to comply in 1990.
 
+A parallel argument about who counted as fully included ran through the same decades. In the early hours of June 28, 1969, patrons at the Stonewall Inn, a gay bar in New York's Greenwich Village, fought back during a police raid of a kind the bar had endured many times before without resistance; the several nights of protest that followed are generally regarded as a turning point for the gay rights movement, and the following June, the first Pride marches in New York and other American cities marked the anniversary. Decriminalization, anti-discrimination protections, and marriage rights arrived on wildly different timelines in different countries over the half-century that followed, several of them still incomplete as this book is written.
+
 *“Unlike wars, these campaigns won, for the most part, by changing what a majority believed was owed to a minority,” Professor Click-Click-Whoosh observed, “not by defeating anyone in the field. It is the slowest weapon in this book. It is also one of the few that does not require winning to keep working — only enough people changing their minds, one at a time, for long enough.”*
 
 **Dolphin verdict:**
 
 *This chapter's campaigns did not end prejudice; no law in this book has ever managed that. What they did was rarer: they changed, on the legal record and in a large share of a population's actual convictions, what a state and a society owed to people it had previously excluded. Progress here was slow, incomplete, and unevenly distributed by country — and it happened anyway, which is more than several other chapters in this book can say.*
-
-
 
 ## Chapter 34: The Digital Leap — Computers, Networks, and a Connected World
 
@@ -1218,8 +1410,6 @@ The cost arrived on the same schedule as the promise, not after it. The same net
 
 *No technology in this book arrived faster or reached farther in a single human lifetime than this one. It delivered on its promise of connection and information more completely than almost any earlier chapter's technology delivered on its own promise — and it delivered the surveillance, the disinformation, and the harvested attention in the very same package, not as a later complication. The pattern of tools outrunning the wisdom to handle them, first flagged before the First World War, runs here on the fastest clock the book has yet recorded.*
 
-
-
 ## Chapter 35: The World Was Supposed to End in 2012 (It Didn't)
 
 Dolphin historians have, by this point in the book, cataloged a great many things humans got wrong about their own past. This chapter catalogs something rarer: an entire civilization getting blamed for a future that never happened.
@@ -1238,6 +1428,8 @@ The scare had specific accelerants. Roland Emmerich's 2009 disaster film 2012, w
 
 The prediction's astronomical hook, when it had one, involved the winter solstice sun appearing to cross the plane of the Milky Way as seen from Earth, a genuine, very slow drift caused by the 26,000-year wobble of Earth's axis, popularized in the 1990s by the independent researcher John Major Jenkins. Professional astronomers pointed out that the alignment is not a single moment at all: the sun's apparent position drifts across the galactic plane over a span of decades, a near-alignment recurs every year in the loose sense being used, and nothing in the mechanics implies any effect on Earth whatsoever.
 
+The 19th century supplied its own rehearsal, complete with an official name for the letdown. William Miller, an American preacher, convinced tens of thousands of followers that the Second Coming would arrive on a specific date in 1844, based on his own reading of biblical chronology. When it did not, history recorded the outcome under the label his own followers coined at the time: the Great Disappointment. Several offshoot religious movements trace their origins straight back to the recalculating that followed.
+
 Dolphin historians note this is not even an unusual case. Humans have forecast their own ending with some regularity and no shortage of confidence: recurring religious end-times predictions across multiple faiths and centuries, and, closer to 2012, the Y2K computer bug scare of 1999-2000, which anticipated a global systems collapse when computer clocks rolled from 99 to 00, addressed seriously enough in advance that its own uneventful passing is sometimes cited as evidence the warning must have been overblown to begin with.
 
 *“A species that invented writing specifically to speak to its own future,” dolphin scholars remarked, “keeps guessing, often confidently and always incorrectly, exactly when that future stops.”*
@@ -1245,8 +1437,6 @@ Dolphin historians note this is not even an unusual case. Humans have forecast t
 **Dolphin verdict:**
 
 *The Maya calendar did not fail. It did exactly what a calendar does, and rolled over to a new cycle precisely as its own inscriptions expected it to. What failed was a chain of retelling, centuries later, by a species apparently uncomfortable leaving the future open-ended and unscheduled. Dolphins, who have never once predicted their own extinction on a specific date, offer this pattern without much sympathy and considerable curiosity: of all the things this species got right early and wrong late, why does the ending always seem to need an appointment.*
-
-
 
 ## Chapter 36: Something Might Be Watching (Probably Not What You Think)
 
@@ -1262,9 +1452,11 @@ In October 2017, astronomers spotted the first confirmed object from outside the
 
 The search has produced exactly one signal serious enough to have kept its own name. On August 15, 1977, a radio telescope in Ohio recorded a brief, powerful burst on a frequency associated with hydrogen; the astronomer who found it circled the printout and wrote “Wow!” beside it. It has never repeated, and no explanation, natural or otherwise, has ever been confirmed.
 
-Frank Drake convened the field's first conference at the Green Bank Observatory in 1961, a meeting of a handful of scientists that included a young Carl Sagan, who went on to help design the Voyager Golden Record, a phonograph disc carrying images, sounds, and greetings in fifty-five languages, launched into interstellar space in 1977 on the chance that someone, eventually, might play it.
+Frank Drake convened the field's first conference at the Green Bank Observatory in 1961, a meeting of a handful of scientists that included a young Carl Sagan, who went on to help design the Voyager Golden Record, a phonograph disc carrying images, sounds, and greetings in fifty-five languages, launched into interstellar space in 1977 on the chance that someone, eventually, might play it. The search is a Cold War child in more than just timing: Drake's and Sagan's generation of scientists came of age funding radio astronomy alongside the missile-tracking and satellite programs covered elsewhere in this book, and some of the same government dollars and dishes did double duty listening for Soviet hardware and for anyone else's.
 
-A separate, noisier strand of the same hope produced ancient-astronaut claims, popularized by Erich von Däniken's 1968 book proposing that extraterrestrial visitors explain ancient monuments and mythology. Mainstream archaeology rejects this comprehensively: the pyramids, Stonehenge, and the Nazca lines all have well-documented human construction methods and timelines, understood without any assistance from off-world engineers.
+Humans have not only listened. In November 1974, scientists at the Arecibo Observatory in Puerto Rico beamed a single deliberate message toward the globular star cluster M13, encoding basic facts about human DNA, the solar system, and the species doing the transmitting, all in binary, aimed at a target roughly 25,000 light-years away specifically because no reply could arrive within any lifetime that sent it — a message its own authors knew perfectly well was written for an audience none of them would live to hear from.
+
+A separate, noisier strand of the same hope produced ancient-astronaut claims, popularized by Erich von Däniken's 1968 book proposing that extraterrestrial visitors explain ancient monuments and mythology. Mainstream archaeology rejects this comprehensively: the pyramids, credited earlier in this book to the Egyptian builders who actually raised them, along with Stonehenge and the Nazca lines, all have well-documented human construction methods and timelines, understood without any assistance from off-world engineers.
 
 More recently, US military encounters with unidentified aerial phenomena, officially acknowledged by the Pentagon starting in 2017 and the subject of congressional hearings in the 2020s, remain, by the government's own public assessments, mostly unexplained instead of confirmed extraterrestrial — a truly open case file, not evidence of visitation.
 
@@ -1275,8 +1467,6 @@ Dolphin historians decline to adjudicate any of this further than the evidence a
 **Dolphin verdict:**
 
 *Every civilization in this book, sooner or later, looks up, or inward, and asks whether anyone besides itself is keeping score. The honest answer, as far as instruments and evidence currently reach, is that no alien intelligence has been confirmed, no god has filed a verifiable report, and the closest thing to a documented outside observer taking detailed notes turns out to have been a pod of dolphins the whole time, watching from a much shorter distance than anyone guessed, with excellent hearing and admittedly limited ability to intervene.*
-
-
 
 ## Chapter 37: Medicine and Its Cost — How Humans Learned to Heal
 
@@ -1300,13 +1490,27 @@ The opioid crisis, beginning in the late 1990s with the aggressive marketing of 
 
 Antibiotic resistance, arising from decades of overuse in both medicine and livestock agriculture, now threatens to erode that very advance: a slow, largely self-inflicted countdown on one of the chapter's founding achievements.
 
+### What else the healers managed
+
+The list does not stop at penicillin, and dolphin historians dislike a chapter that applauds the first trick and ignores the rest of the show. Polio, which paralyzed children in epidemics the early twentieth century could not stop, was met by two vaccines, Salk's and Sabin's, and has been cornered to a few districts, not yet finished, close enough that finishing is a matter of politics and logistics rather than of ignorance. HIV, which in the 1980s was a short road to death, became, where the drugs are available, a chronic condition managed by a handful of pills. The drugs are the accomplishment. The places where they are not available are the indictment. X-rays, from 1895, let a physician see a break without a knife. Later machines looked at soft tissue, at the brain, at a tumor's edges. Surgery stopped being a search in the dark.
+
+A newer set of tricks aims at the body's own instructions. Monoclonal antibodies, grown to grab one target, turned some cancers and some immune disasters into conditions with a specific handle. In 2012 a method of editing genes, CRISPR, made the editing cheap enough for an ordinary laboratory. Trials have begun to fix particular inherited diseases in living patients, one person at a time, in cells that will not be passed to a child. That last fence matters. Crossing it, so that the edit is inherited, has already been done once, in China, in defiance of the moratorium, and the researcher went to prison for it. Dolphin historians take the prison as a sign that the species noticed. They would like the noticing to be a habit rather than an incident.
+
+The fastest accomplishment was also the most public. In 2020 a new virus shut the chapter's subject species indoors, and within a year vaccines built on messenger RNA, a platform that had been a research bet rather than a product, were in arms. The speed was real. So was the distribution, which followed passports and purchase orders more than it followed need. A tool can be brilliant and still arrive first in the cities that already bury their dead later. Dolphin historians have stopped expecting the brilliance and the fairness to be delivered in the same crate.
+
+### The outlook, clinical and otherwise
+
+The next decades are not a promise of escape from the body. They are a list of jobs with different odds. Malaria, which kills children in numbers a richer country would treat as a national emergency, finally has vaccines that work, partially, and need to be got into the children. That is an outlook measured in shipments. Cancer immunotherapy, teaching the immune system to recognize a tumor it had been politely ignoring, works spectacularly in some patients and not in others, and costs, in many hospitals, as if the price were part of the treatment. Antibiotic resistance, already named, is the outlook's bad weather. The response that would match it, new drugs and a refusal to put the old ones in animal feed, is known and only partly funded. Knowing is not doing. This book has met that gap before.
+
+The brochure version of the future offers centuries of extra life, uploaded minds, and organs grown to order. Dolphin historians will book the organs, cautiously: some tissues can already be coaxed, and a printed kidney that works would belong on the short list of unambiguous goods. They will not book the centuries. Aging is not one disease with one latch. Laboratories are tugging at pieces of it, in mice, with results that shrink on the way to a human. A modest gain in healthy years is a plausible outlook. Immortality is a sales pitch. The species that invented the invoice is not going to give the invoice up in exchange for a longer customer.
+
+What dolphin historians expect, and will be glad to be wrong about only in one direction, is this. More diseases will become instructions that can be rewritten in a single patient. Pandemics will keep arriving, because the animals, the cities, and the airplanes have not been repealed, and the next response will be only as fast as the last one if someone kept the platform warm. The bill will remain the chapter's villain. A medicine that works and cannot be had is a different object from a medicine that works. The outlook, stated for the people who will have to live in it, is better tools, unevenly shared, and a body that still dies, later than it used to, of something the tools have not yet reached.
+
 *Dolphin historians close this chapter noting their own species' relationship to all of it is refreshingly simple: no dolphin has ever needed a doctor, filed an insurance claim, or gone without a medication it could not afford. Dolphin health management is simply a matter of not getting sick in the first place, a strategy with an excellent success rate and no paperwork — though dolphin historians concede this is easier to maintain without cities, agriculture, or sedentary living to manage in the first place.*
 
 **Dolphin verdict:**
 
 *No chapter in this book shows a cleaner rise from human ingenuity: vaccination, antiseptic surgery, and antibiotics together bought this species more added years of life, more quickly, than any war ever cost it. What follows the rise is a now-familiar shape all the same — medicine that could be almost free to produce became, in places, unaffordable to the people who needed it most, and the industry that ended centuries of death by infection also spent a decade selling addiction as pain relief. Dolphins have no medicine and no doctors. They also, dolphin historians note with some restraint, have no bill.*
-
-
 
 ## Chapter 38: Climate and Consequence — The Price of Progress
 
@@ -1316,13 +1520,13 @@ The physics is not new. In 1896 the Swedish chemist Svante Arrhenius calculated,
 
 The Intergovernmental Panel on Climate Change, formed in 1988 to summarize the state of the science for governments, has issued six assessment reports since, each one more confident than the last that the changes are real, are caused by human activity, and are accelerating.
 
-The 2021 Pacific Northwest heat dome, which pushed temperatures in normally mild Vancouver and Portland above 46 degrees Celsius (115 Fahrenheit) and killed hundreds of people in a region with little air conditioning, and Australia's Black Summer bushfires of 2019-20, which burned an area roughly the size of the United Kingdom, were each, individually, the kind of event climate scientists had spent decades saying would become more likely, arriving on schedule.
+The 2021 Pacific Northwest heat dome, which pushed temperatures in normally mild Portland above 46 degrees Celsius (115 Fahrenheit) and drove the Canadian village of Lytton, British Columbia to a record-shattering 49.6 degrees Celsius (121 Fahrenheit) before a wildfire destroyed most of the town the next day, killing hundreds of people across the region in a place with little air conditioning, and Australia's Black Summer bushfires of 2019-20, which burned an area roughly the size of the United Kingdom, were each, individually, the kind of event climate scientists had spent decades saying would become more likely, arriving on schedule.
 
 The measured results were not a future prediction by the time this book was written. They were already underway: average global temperatures measurably higher than pre-industrial levels, oceans absorbing both extra heat and extra carbon dioxide (the latter making seawater more acidic), more frequent and severe extreme weather events, glacial and polar ice loss raising sea levels, and coral reefs bleaching under heat stress at a scale with no precedent in the observational record.
 
-Geologists have their own name for what all of this adds up to: the Anthropocene, a proposed new epoch defined not by ice or asteroid but by one species' own signature, layered permanently into the planet's rock and sediment. The term was popularized in 2000 by the chemist Paul Crutzen and the biologist Eugene Stoermer, and a working group of scientists spent the following two decades hunting for a single physical site where a future geologist, digging up this era millions of years from now, could point to an exact line and say the old epoch ended here. Their leading candidate was the mid-20th century, marked by a sudden, unmistakable layer of radioactive fallout from nuclear weapons testing, alongside plastic, concrete dust, and fly ash, all showing up in lake sediment worldwide within the same few years. In 2024, the body responsible for officially naming geological epochs voted the specific proposal down anyway, not because the evidence was wrong but because its members could not agree the change deserved a new epoch rather than a chapter inside the current one. The debate over the name continues; the sediment layer it was arguing about does not care either way.
+Geologists have their own name for what all of this adds up to: the Anthropocene, a proposed new epoch defined not by ice or asteroid but by one species' own signature, layered permanently into the planet's rock and sediment. The term was popularized in 2000 by the chemist Paul Crutzen and the biologist Eugene Stoermer, and a working group of scientists spent the following two decades hunting for a single physical site where a future geologist, digging up this era millions of years from now, could point to an exact line and say the old epoch ended here. Their leading candidate was the mid-20th century, marked by a sudden, unmistakable layer of radioactive fallout from nuclear weapons testing, alongside plastic, concrete dust, and fly ash, all showing up in lake sediment worldwide within the same few years. In 2024, the body responsible for officially naming geological epochs voted the specific proposal down anyway, not because the evidence was wrong but because its members could not agree the change deserved a new epoch instead of a chapter inside the current one. The debate over the name continues; the sediment layer it was arguing about does not care either way.
 
-*“Humans spent two decades arguing over what to call the layer of rock they were leaving behind,” dolphin historians noted, “rather than the century arguing over whether to leave it. We note the committee vote changed nothing about the rock.”*
+*“Humans spent two decades arguing over what to call the layer of rock they were leaving behind,” dolphin historians noted, “instead of the century arguing over whether to leave it. We note the committee vote changed nothing about the rock.”*
 
 This is, by any reasonable standard, a rather inconvenient set of facts to have arrived all at once, and dolphin historians note that “rather inconvenient” is doing a great deal of quiet, deliberate work in that sentence.
 
@@ -1336,11 +1540,41 @@ Some of the companies most responsible for the emissions had the clearest warnin
 
 *Dolphin scholarship finds the word “foresight” somewhat generous for a case in which the foresight was filed away instead of acted on.*
 
+### Both ends of the world
+
+The planet keeps its spare ice at the poles, and the two stockpiles are not the same kind of place. The Arctic is an ocean with a lid. People live on the lid's edges: Inuit in Greenland, Canada, and Alaska, Sámi in the Nordic north, and the many peoples of the Russian Arctic. The Antarctic is a continent with an ice cap, and nobody's ancestors are buried there. One pole has a population. The other has a treaty and a lot of flags that agreed, for once, not to cash the flags in.
+
+The Arctic lid is failing. Satellite records, kept since the late 1970s, show the summer sea ice shrinking in area and, more seriously, in thickness. Old ice, the kind that has survived several summers, has become scarce. What replaces it is young ice that melts cheaply the next year. Shipping companies have noticed. The Northern Sea Route along Russia, and the Northwest Passage through Canada, open for longer seasons than they used to. They are not yet a canal. They are a rumor that keeps getting truer. Dolphin historians, whose cousins the narwhals and belugas actually live in that water, record orcas showing up farther north as the lid thins. A predator moving in because the ice moved out is not a metaphor. It is a hunting ground changing owners.
+
+Under the lid, the neighbors are arguing about the newly useful sea. Russia has reopened bases and planted a flag on the seabed at the pole, which is theater, and has built icebreakers, which is not. Canada calls the Passage internal water. The United States calls it a strait. Denmark, Norway, and others file claims for the shelf. There is no Arctic treaty of the kind the south has. There is a law of the sea, a lot of coast, and a resource map. Oil, gas, fish, and the shorter route between oceans. Greed does not need a new invention to operate here. It needs the ice to step aside, and the ice is stepping.
+
+### Greenland's future
+
+Greenland is the Arctic's large fact. It is an island the size of a continent-fragment, a self-governing country inside the Danish kingdom, and a sheet of ice thick enough that if the whole of it went into the ocean the seas would stand on the order of seven meters higher. It is not going to do that in a human lifetime. Dolphin historians insist on the distinction, because both the panic and the shrug get the future wrong. The sheet is already losing mass, measured by satellites that weigh it from orbit, and the loss has sped up since the 1990s. Some of that loss is now built in. Even if the furnace were turned down tomorrow, a share of the melt already started would continue. The argument is about how much, and how fast, and whose streets learn the number first.
+
+The people who live there are not a chart. Most of the population, something over fifty thousand, is Inuit, on the coast, because the interior is ice. Fishing pays a large part of the bills. A grant from Denmark pays another large part. Mines, rare earths, and the strategic airfield at Pituffik are the other conversation, the one visitors prefer. In 2009 Greenland took a further step of self-rule, including a legal path to independence, if it decides it can afford the path. Independence is a future. So is remaining in the kingdom with more of the decisions made in Nuuk. Both futures get harder if the ice goes quickly, and both get more tempting to outsiders if the ice goes at all. An open Greenland is a shipping lane, a mineral province, and a military position between North America and Europe. The residents have noticed that the visitors' interest tracks the melt.
+
+One visitor offered to buy the place. The offer was made in public, more than once, by an American president, as if an island of people were a parcel with a reluctant seller. Denmark declined, and Greenland's own government declined in its own voice, which was the voice that mattered. Dolphin historians file the episode under a familiar heading: a powerful country looking at a smaller country's land and seeing a transaction. The heading has many older entries. The new part is that the transaction was inspired by the weather.
+
+What dolphin historians will risk saying about the future, and no more than this, is a short list. The ice sheet gets smaller. The sea around it stays open for more of the year. The Danish grant and the fishing fleet stop being the whole economy, or they don't, and the independence argument changes either way. Great powers keep visiting. The people who are already there will have more leverage than a colony used to have, and less leverage than a great power, which is the ordinary arithmetic of a small country sitting on a large fact. None of this requires a prophecy. It requires looking at the trend and refusing to call it a surprise.
+
+### The southern cap
+
+Antarctica is the other stockpile, larger, colder, and governed by a piece of paper that has held better than most. The Antarctic Treaty of 1959 set the territorial claims aside, barred military bases and nuclear dumps, and dedicated the continent to science. Later agreements restricted mining. Stations from a couple of dozen countries sit on the ice and cooperate in a way their capitals often do not. Dolphin historians, who have watched flags turn into forts on every other coast, treat the treaty as a rare adult document. It has lasted. Lasting is not the same as guaranteed. A resource rush plus a quarrel between the signatories would test it, and the test has not come yet.
+
+The ice there is not one piece. The eastern cap is vast and, so far, the more stable of the two. The west is moored to bedrock that sits below sea level, which means warm ocean water can get under it, and once a retreat of that kind starts it is difficult to argue the glacier back uphill. Glaciers with names that were obscure a generation ago, Thwaites among them, are watched now the way generals used to watch passes. A collapse of the western sheet would be measured in meters of sea level, not in centimeters, and would not finish in a single decade. Scientists argue about the timing. They argue much less about the direction. Dolphin historians report the argument honestly: the south can still surprise, and the surprise the specialists fear is speed, not a sudden decision by the ice to behave.
+
+The peninsula is already the warmed-over edge. Shelves have broken off and drifted away, which makes for photographs and, more importantly, removes the brake those shelves had been applying to the glaciers behind them. Emperor penguins, who are not dolphins and do not require the comparison, are failing at colonies where the fast ice goes out from under the chicks. Krill, the small end of the food chain, are being fished by ships that came a very long way to vacuum up the base of everyone else's dinner. The treaty system has a conservation commission. The commission has not always been able to agree on a reserve, because a reserve is a place someone intended to fish. Greed, at this pole, wears a license and a polite agenda.
+
+### What the poles decide
+
+Together the two ends of the world are the delay switch on the sea. Mountain glaciers and heat in the water matter. Greenland and Antarctica are the large terms. A meter of sea level, spread over the century and the next, redraws deltas, islands, and the cheaper districts of every coastal city in this book. Several meters, if the western Antarctic gamble is lost, redraws the map. Dolphin historians live in the element that would do the redrawing. They do not get a vote at the treaty meetings. They get the water.
+
+The future they will sign is therefore modest. Less summer ice in the north. A Greenland that is more water and more argued-over. An Antarctic treaty that holds until it doesn't, and should be kept because the alternative is a gold rush on a glacier. Animals moving, including a few whales and orcas taking up new neighborhoods. Humans following them with ships, drills, and legal briefs. None of the humans most affected by the sea level will live at either pole. That, too, is an old pattern. The bill is sent to the coast. The decision is made somewhere the ice is a headline.
+
 **Dolphin verdict:**
 
 *The same industrial cleverness that built the 20th century this book has just finished describing is now the thing the 21st century has to spend its cleverness undoing, on a deadline the atmosphere sets, not any government. Dolphins have watched every earlier chapter's tools outrun its wisdom and mostly gotten to render a verdict afterward, once the outcome was settled. This chapter is being written while the outcome is still being decided, which is precisely why it is the hardest one in the book to close.*
-
-
 
 ## Chapter 39: A Fractured Present — Democracy, Authoritarianism, and the Information Age
 
@@ -1348,7 +1582,11 @@ The Soviet Union's 1991 dissolution produced a mood, widely shared among Western
 
 A number of countries that had appeared to be consolidating democratic institutions in the 1990s and 2000s instead saw those institutions weakened from within during the 2010s and 20s: independent courts and press curtailed, elections held but their fairness eroded, and power concentrated in ways that stopped well short of the outright dictatorships examined earlier in this book but moved unmistakably in that direction. Political scientists gave this pattern a name, democratic backsliding, distinct from the sudden coups that had ended democracies in earlier chapters.
 
+Freedom House, the organization most often cited for these annual surveys, recorded a net decline in global political rights and civil liberties every single year from 2006 onward, a streak unbroken for close to two decades by the time this book was written — long enough that an entire generation of political scientists has spent its career studying backsliding instead of the steady consolidation the 1990s mood assumed would be the field's real subject.
+
 Hungary supplied the clearest self-description of the trend. Viktor Orbán, in power since 2010, announced in a 2014 speech that he intended to build an “illiberal state” within the European Union, a label most of the leaders this chapter describes have preferred not to apply to themselves. In the United States, a crowd seeking to overturn the certified result of the 2020 presidential election stormed the Capitol building on January 6, 2021, the first time since the War of 1812 that the building had been breached by force.
+
+*“Donald Trump is the most annoying president ever,” the Society recorded. “We checked the others. This was not close.”*
 
 *Saying the strategy's name out loud in advance did not appear to blunt its effectiveness in the slightest, which dolphin scholarship considers the most unsettling detail in this chapter.*
 
@@ -1367,8 +1605,6 @@ The old habits were not retired, only mislaid. In February 2022, Russia launched
 **Dolphin verdict:**
 
 *Every prior chapter in this book describing a struggle over how power should be organized reached some kind of resolution in the end, however costly or incomplete. This is the first chapter dolphin historians close without one, because the argument it describes is still being had, in real time, in the same news cycles the argument itself runs on. History has not finished grading this chapter's outcome, and neither, honestly, have the dolphins.*
-
-
 
 ## Chapter 40: The Dolphins' Long View — What a Non-Human Species Makes of Human History
 
@@ -1392,15 +1628,15 @@ It has, to be fair, sometimes arrived on time, and dolphin historians keep a sho
 
 **Humanity's Report Card**
 
-**Creativity: A+. **Humans painted caves, built cathedrals, composed symphonies, and walked on the Moon, and did a suspicious amount of it for no practical reason, which the committee considers the point.
+**Creativity: A+.** Humans painted caves, built cathedrals, composed symphonies, and walked on the Moon, and did a suspicious amount of it for no practical reason, which the committee considers the point.
 
-**Curiosity: A+. **They never stopped asking questions, including several the committee would have preferred they leave alone.
+**Curiosity: A+.** They never stopped asking questions, including several the committee would have preferred they leave alone.
 
-**Cooperation: B+. **Capable of extraordinary collaboration, which they deploy in emergencies, on Moon landings, and at football matches, and withhold, with equal enthusiasm, from almost everything else.
+**Cooperation: B+.** Capable of extraordinary collaboration, which they deploy in emergencies, on Moon landings, and at football matches, and withhold, with equal enthusiasm, from almost everything else.
 
-**Wisdom: Inconsistent. **The committee considered “Incomplete” but felt it promised a submission date.
+**Wisdom: Inconsistent.** The committee considered “Incomplete” but felt it promised a submission date.
 
-**Treatment of Oceans: Needs Improvement. **See attached plastic.
+**Treatment of Oceans: Needs Improvement.** See attached plastic.
 
 **Overall Assessment**
 
@@ -1413,8 +1649,6 @@ The story is not finished. Two branch points, arriving at the same time, may be 
 **Dolphin verdict:**
 
 *A whole book of hands, fire, empires, faiths, dictatorships, wars, and wires points to one plain reading: this species keeps getting better at doing things, and keeps getting only intermittently better at deciding which things are worth doing. Dolphins have had tens of millions of years to watch this gap open and close, open and close, and have learned exactly one thing from the pattern worth stating outright. The gap does not close by itself. Someone with hands has to close it.*
-
-
 
 ## Chapter 41: Half the World, All the Time — The Timelines This Book Almost Skipped
 
@@ -1430,17 +1664,15 @@ The second overlooked timeline is who, exactly, got to take part in the story th
 
 *“Every chapter in this book about a great civilization,” the Society recorded, “was, for most of its length, a chapter about roughly half of that civilization deciding things for the other half. We mention this now because a book that never mentioned it would be telling a shorter story than the one that actually happened.”*
 
-A third timeline, easy to lose inside chapters about wars and empires, is the slow construction of a single idea: that some rules should apply to every human regardless of which empire they were born under. The Universal Declaration of Human Rights, adopted by the newly formed United Nations in 1948, in the wreckage of the war this book covers at length, was the first attempt at a document meant to bind everyone rather than one nation's own citizens. It has no army and no court that can force compliance, a fact dolphin historians find almost charmingly naive and also, on the evidence of the eight decades since, not nothing: nations that ignore it still feel obliged to explain why.
+A third timeline, easy to lose inside chapters about wars and empires, is the slow construction of a single idea: that some rules should apply to every human regardless of which empire they were born under. The Universal Declaration of Human Rights, adopted by the newly formed United Nations in 1948, in the wreckage of the war this book covers at length, was the first attempt at a document meant to bind everyone rather than one nation's own citizens. It has no army and no court that can force compliance, a fact dolphin historians find endearingly naive and also, on the evidence of the eight decades since, not nothing: nations that ignore it still feel obliged to explain why.
 
 A fourth and final timeline belongs to the numbers themselves. This book has mentioned, in passing, that ancient India gave the world the mathematical zero and that ancient Greece gave it geometry, but never paused on the throughline connecting them to the physics and computing chapters near this book's end. The 9th-century Baghdad mathematician al-Khwarizmi, whose name gives us the word algorithm, wrote the treatise that gave the West the word algebra. Isaac Newton and Gottfried Leibniz independently developed calculus in the 17th century, arguing bitterly for the rest of their lives over who got there first. Alan Turing's 1936 paper on computable numbers, written before any computer existed to run on, defined what a computer could and could not do in principle — a piece of pure mathematics that this book's own digital chapter turns out to depend on entirely.
 
-*“We are aware,” dolphin historians noted, dryly, “that a species capable of noticing all four of these timelines while writing a history book, and still leaving them out of the first draft, has proven the book's own thesis rather better than any single chapter did.”*
+*“We are aware,” dolphin historians noted, dryly, “that a species capable of noticing all four of these timelines while writing a history book, and still leaving them out of the first draft, has proven the book's own thesis considerably better than any single chapter did.”*
 
 **Dolphin verdict:**
 
 *Every chapter in this book told the story of a place, a war, or an idea, one at a time, in the order humans usually tell it. But underneath all of them, the same four things were running the entire time: there were more humans every year, and only slowly did more of them count; the world was slowly agreeing, on paper if not yet in practice, that its rules should apply to everyone; and the numbers themselves, invented quietly by people this book barely names, were doing more work than any king this book named twice. A history told only in nations and wars will always miss the timelines that do not stop at a border. This chapter exists because the dolphins went back and checked, and found the missing timelines were not minor. They were most of the ledger.*
-
-
 
 ## Epilogue: After Homo Sapiens — Superhumans and Androids
 
@@ -1469,8 +1701,6 @@ Signed,
 **The International Dolphin Historical Society**
 
 *“We were here the whole time.”*
-
-
 
 ## Further Reading — For Humans
 

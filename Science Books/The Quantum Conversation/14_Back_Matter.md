@@ -208,71 +208,20 @@ Short meanings, in the sense this book uses them, in one alphabet. The chapter i
 
 ## Appendix D: Index of Chapters
 
-Each entry names the chapter where the idea is developed, not every mention, and not a page. The typeset file fills page numbers in the table of contents. Until you are holding that file, the number after each entry is the chapter.
+Names and experiments. The words live in the glossary, which already gives the chapter. Each number below is a chapter. Page numbers belong to the typeset book, and the table of contents is where they are filled in.
 
-Abrikosov vortex lattice, 27
-Absorber theory, advanced and retarded, 15, 16
-Action, 10, 25, 28
-Aharonov–Bohm effect, 2, 3, 30
-Amplitude and the Born rule, 1, 10
-Anomalous magnetic moment, 20, 37
-Antiparticle and pair production, 20
+Abrikosov, 27
 Aspect, Grangier, and Roger, 33
-Bandgap and the photoelectric effect, 9
-Canonical and mechanical momentum, 7, 30
-Casimir effect, 26, 34
-Cavity QED and circuit QED, 34, 40, 41
-Central bridge, *J ∝ ħ∇θ − qA*, 31, 32
-Charge conservation and Noether's theorem, 24
-Coherence, of matter and of light, 5, 6, 14, 19, 32
-Compton scattering, 20
-Connection and curvature, 21, 48
-Cooper pair, 3, 40
-Coulomb force, 30
-Covariant derivative, 28
-Crossing, 20
-Decoherence, 32
-Dirac monopole, 27
-Effective theory, 22, 38, 39
 Einstein, magnet and conductor, 26
-Entanglement, 34
-Feynman, path integral and diagrams, 10, 16, 29
-Feynman diagrams, 29, 37
-Fine-structure constant, 38
-Flux quantum and fluxoid, 3
-Four-potential, 4, 12, 26
-Gauge transformation, 4
-Green's function and causality, 8
-Interference, 1, 10
-Josephson, 40
-Josephson relations and the volt, 40
-Lagrangian of QED, 28
+Feynman, 10, 16, 29
 Lamb and Retherford, 20
-Lamb shift, 20
 Lamoreaux, 26
-Laser and coherence, 14
-Lorentz force, 25, 26
-Maxwell's equations, 12, 13
-Mead's contribution, front matter, 42, 47
+Mead, front matter, 42, 47
 Noether, 24
-Path integral, 1, 10, 16
-Phase, 1–4
-Photon, real and virtual, 9, 19, 29
-Potential, scalar and vector, 2, 4, 7
-Poynting theorem, 18, 19
-Renormalization, 37–39
-Running coupling, 37, 38
-Schwinger's term, *α*/(2π), 37
-Speed of light, from the unit ratio, 26
-SQUID, 5
-Stokes' theorem, 3, 21, 31
-Superconducting circuit and qubit, 40, 41
-Supercurrent, 31, 32
+Schwinger, 37
 Tonomura, 2
-Vacuum polarization and light-by-light, 36
 Weber and Kohlrausch, 26
-Wheeler–Feynman absorber theory, 15–19, 47
-Wilson loop, 35
+Wheeler and Feynman, 15, 16, 18, 19, 47
 
 ## Appendix E: Symbols, Numbers, and Distinctions
 
@@ -310,21 +259,13 @@ The interaction term in Chapter 28 can be checked by the substitution just descr
 
 ## If This Book Worked for You
 
-Read *The Quantum World* next if you want the map this book grew out of: entanglement, Bell tests, quantum fields, quantum gravity, interpretations, computing, and cryptography. This book began there, as an interlude on collective electrodynamics that outgrew its chapter.
+Read *The Quantum World* next. It is the map this book grew out of: entanglement, Bell tests, quantum fields, quantum gravity, interpretations, computing, and cryptography. This book began there, as an interlude on collective electrodynamics that outgrew its chapter.
 
-If the curl in Chapter 2 was the hard part, read *Physics Vol. 1 — Motion, Forces, Time, and Relativity* before you reread the loop.
-
-Feynman's *QED* and Mead's *Collective Electrodynamics*, and the other books named along the way, are listed with their editions at the end of Appendix B.
+Feynman's *QED* and Mead's *Collective Electrodynamics* are listed with their editions at the end of Appendix B.
 
 ## Also by Lothar J. Musiol
 
-One next book, then the rest of the shelf. *The Quantum World* is the map. This book is one stop on it, walked all the way out.
-
-**Science for Everyone.** *The Quantum World* · *Physics Vol. 1 — Motion, Forces, Time, and Relativity* · *Physics Vol. 2 — Gravity, Cosmology, and the Limits of Spacetime* · *Physics Vol. 3 — The Standard Model, Chaos, and the Edge of Knowledge*
-
-**Also nonfiction.** *The Mathematics Tower* · *Foundations of Electronics*
-
-**Fiction.** *The Relativistic Investigation Bureau* · *Schrödinger's Paperwork*
+*The Quantum World*
 
 ## About the Author
 
@@ -336,4 +277,4 @@ Dual citizenship lets him split his time between San Clemente, California, and P
 
 ## A Small Request
 
-If one sentence in this book changed how you hear the word *field*, the useful review is the one that says which sentence. Leave it where you found the book. That is how the next reader, looking for this particular argument, recognizes it.
+If one sentence in this book changed how you hear the word *field*, the useful review is the one that says which sentence. Leave it on Amazon. That is how the next reader, looking for this particular argument, recognizes it.

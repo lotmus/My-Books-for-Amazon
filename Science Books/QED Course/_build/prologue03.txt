@@ -1,0 +1,116 @@
+TITLE: Electrons and the Three Actions
+TAGLINE: The whole theory, at this level, is three verbs: a photon goes, an electron goes, an electron emits or absorbs a photon
+NUM: 3
+NEXT: Prologue 4 collects the leftover puzzles of this picture — extra diagrams, the magnetic moment, and infinities — and points to the lessons that compute them.
+
+# How to use this prologue
+
+Feynman's third lecture adds the electron. Photons were Prologue 1–2. Electrons have arrows too: an amplitude to go from one place and time to another. The new event is a junction, a vertex, where an electron emits or absorbs a photon. The amplitude for that junction is a small number, about 0.1 in the units of those lectures, whose square is the same order as this course's α≈1/137. Three actions. That is the theory. Expect five to seven hours.
+
+## Learning objectives
+
+- Write the three basic actions of QED in words.
+
+- Assign an arrow to an electron going from A to B, distinct from a photon going from A to B.
+
+- Identify the vertex as the only interaction: an electron emits or absorbs a photon, with an amplitude of order 0.1.
+
+- Draw the picture of an electron scattering off another by exchanging a photon.
+
+- Connect the 0.1 to α=e²/4π of Lesson 43 without claiming the conventions already match.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| P(A→B) | Amplitude for a photon to go from A to B |
+| E(A→B) | Amplitude for an electron to go from A to B |
+| j ~ 0.1 | Vertex amplitude to emit or absorb a photon (Feynman's easy-book number) |
+| α = e²/4π | This course's coupling, Lesson 43 |
+
+# 1 Three actions
+
+FIG:
+  photon goes:     * ~~~~~~ *          A to B, wavy line
+  electron goes:   * ------ *          A to B, straight line
+  vertex:          *------             electron in, electron out, photon attached
+                    \
+                     ~~~~
+ENDFIG
+
+Everything this course will compute is an assembly of those three. Compton scattering (Lesson 56) is two vertices and one internal electron. Møller scattering (Lesson 54) is two vertices and one internal photon. Pair production (Lesson 57) is the electron line running backward in time in the sense of Lesson 22.
+
+# 2 Electrons have arrows too
+
+An electron's amplitude to go from one place to another is not the same function as a photon's. The electron has mass, so there is an amplitude to go slower than light; a photon's amplitude for that is zero. The electron has a direction of spin, which Prologue 1 did not need. Lesson 19 will write the Dirac equation that encodes both. For this opening it is enough that E(A→B) is an arrow (later a spinor sandwich) and that it is added over paths just as the photon's was.
+
+# 3 The vertex is small
+
+The amplitude to emit or absorb a photon at a point is a small number. In Feynman's easy lectures it is about −0.1. In this course's Heaviside–Lorentz units the charge e satisfies e²/4π=α≈1/137, so e≈0.303, and the vertex of Lesson 44 is +ieγ^μ. The two numbers are the same coupling in different conventions and at different stages of packaging. The physics is: an extra photon on an electron line is a 10% effect on the amplitude, a 1% effect on a probability, which is why perturbation theory in Parts VIII–IX can start with tree diagrams and add loops.
+
+### Worked example 1
+
+Why does exchanging one photon between two electrons produce a factor of order α, not of order 0.1? Two vertices, each of order e, and a photon connecting them: e×e, which is 4πα. Rutherford scattering's 1/t pole in Lesson 53 is that factor sitting on a photon that is off shell.
+
+# 4 Scattering as a picture
+
+Two electrons in, two electrons out: each electron line runs through, and a photon is exchanged. That is the first diagram of Lesson 54. If the electrons are identical, a second diagram exchanges which outgoing line is which, with a minus sign (Lesson 36). The easy picture already knows there will be two ways; the later algebra computes their interference.
+
+# Connections to QED
+
+@widths 3264 6528
+| Result of this prologue | Where it is used |
+| Three actions | Feynman rules, Lesson 49 |
+| Vertex ~ 0.1 | Coupling e, Lesson 43; +ieγ^μ, Lesson 44 |
+| Photon exchange | Lessons 53–55 |
+
+# Summary
+
+1. A photon goes from place to place.
+
+2. An electron goes from place to place.
+
+3. An electron emits or absorbs a photon, with a small amplitude.
+
+4. Scattering is exchange of a photon, drawn as a diagram.
+
+5. α≈1/137 is that small amplitude, squared and conventionally normalized.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Name the three actions. |
+| 2 | Why is a photon's amplitude to travel slower than light zero, while an electron's is not? |
+| 3 | Two vertices of size e: what combination is α? |
+| 4 | Draw, in words, Compton scattering from the three actions. |
+| 5 | Why is a one-loop correction smaller than a tree? |
+| 6 | Where in this course is the vertex computed as +ieγ^μ? |
+| 7 | What does "the electron line runs backward" mean for pair production, in one sentence? |
+| 8 | Challenge: a diagram with four vertices is of what order in α? |
+
+# Solutions
+
+**1.** Photon goes; electron goes; electron emits or absorbs a photon.
+
+**2.** The photon is massless and on-shell travels at c; the electron is massive.
+
+**3.** e²/4π=α in this course's units.
+
+**4.** Electron in, electron out; photon in, photon out; two vertices and an internal electron connecting them, plus the crossed diagram.
+
+**5.** Each extra vertex brings another factor of e, so a loop, which has two extra vertices relative to a tree of the same process, is down by α.
+
+**6.** Lesson 44.
+
+**7.** The same electron-goes action, with the line oriented from the positron's momentum, Lesson 22.
+
+**8.** Four vertices ~ e⁴ ~ α², a one-loop or two-photon-exchange order.
+
+# Mastery checklist
+
+- I can recite the three actions and draw photon exchange.
+
+- I can relate j~0.1 to α≈1/137 without mixing conventions blindly.
+
+- I can see Compton and Møller as assemblies of the three actions.

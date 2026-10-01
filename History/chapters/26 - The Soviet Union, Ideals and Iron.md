@@ -24,6 +24,22 @@ The pattern recurred once more before the end. On April 26, 1986, a reactor at t
 
 *A state built on the promise of rational, scientific progress on the people's behalf took thirty-six hours to mention to the people downwind of an exploded reactor that they might want to consider leaving.*
 
+### The man who won the succession
+
+Joseph Stalin was not a theory. He was a man from Georgia, a former seminarian who had raised money for the revolution by robbing banks, and who understood, earlier than his better-spoken rivals, that the person who controls appointments controls the party. By the end of the 1920s the rivals were sidelined, exiled, or waiting to be shot. The idealism of 1917 did not die in an argument. It was reorganized, and then it was staffed.
+
+In August 1939 he signed a pact with Hitler, the man he would spend the rest of his public life calling the enemy of mankind. The pact divided Poland and the Baltic states and bought him time he used badly. When Germany invaded in June 1941 he is reported to have been, for a short while, unable to believe it. The country then did the thing this chapter has already counted: it bled at a scale no ally matched, held, and drove the invader back to Berlin. The same state that had starved Ukraine and shot its own officers in the Katyn Forest broke the German army. Dolphin historians will not collapse those facts into one adjective. A man can be the reason a country survives a monster and the reason it required surviving him.
+
+He died in March 1953, of a stroke, after a career in which a great many people had become afraid to enter his room. His body lay for a while beside Lenin's. Khrushchev's speech in 1956 took it out of the mythology, and in 1961 they took it out of the mausoleum. The camps did not empty on the day of the speech. The name came off the cities faster than the habit came off the state. Dolphin historians have seen this before. Removing a corpse is easier than removing a method.
+
+What followed him, in the long run, was not a restoration of the seminar. It was a slow leak, already told: the thaw, the stagnation, the reformer who loosened the lid and lost the pot, and then a country that kept the security services, the map-hunger, and a shorter memory than it claimed.
+
+### The man who came back
+
+The union ended in 1991. The method did not. Boris Yeltsin presided over a sale of the state's property that created a class of owners overnight and a population that experienced capitalism first as unpaid wages. Vladimir Putin, a former officer of the security service, came to the presidency at the turn of the century offering order. He delivered order of a particular kind. Television came back under control. Rivals were jailed, exiled, or, in a number of well-documented cases, killed. Wars in Chechnya were finished with a brutality the audience was invited to treat as a conclusion. Neighbors were informed, by gas prices and by tanks, that independence was a negotiable rumor.
+
+In 2014 Russia took Crimea from Ukraine and started a war in the Donbas that it spent years pretending was not its war. In February 2022 it stopped pretending and invaded, aiming, by the evidence of its own opening moves, at the Ukrainian state itself. The war was still being fought as this book was written. Cities were pounded. Children were taken. A nuclear power talked about its arsenal often enough that the talk became part of the weather. Dolphin historians, who have a file labeled emergency, note how often the word was used, and by whom, and what it was asked to justify. The czars had a secret police. The general secretaries had a larger one. The man in the present has the same instrument, the television, and a border he does not treat as a border. The titles changed. The offer did not: order, pride, and someone to blame.
+
 **Dolphin verdict:**
 
 *Six case studies in this part of the book now, six different repair times, one identical warning label on the front of the box. The Soviet Union's ideals and its iron never fully separated the way they did in postwar Germany, Japan, and Italy — the correction here took until 1991, arrived from within instead of from defeat, and even then left plenty unresolved for the chapters that follow.*

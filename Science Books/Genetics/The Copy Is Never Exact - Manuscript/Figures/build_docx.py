@@ -19,11 +19,11 @@ SUBTITLE = "DNA, Inheritance, and the Coming Edit of Ourselves"
 AUTHOR = "Lothar J. Musiol"
 BODY_FONT = "Georgia"
 HEAD_FONT = "Amazon Ember"
-HEAD_COLOR = RGBColor(0x00, 0x00, 0xFF)
+HEAD_COLOR = RGBColor(0x1A, 0x1A, 0x1A)
 
 # ---------------- figure table: number -> (kind, caption) ----------------
 FIG = {
- 0: ("photo", "A saliva collection tube, the kind a spit kit arrives in, cap still sealed."),
+ 0: ("photo", "An opened spit-kit box, the collection tube still sealed in its bag."),
  1: ("photo", "The Eagle, Bene't Street, Cambridge."),
  2: ("diagram", "The X-shaped diffraction pattern of a helix."),
  3: ("diagram", "The ladder: A with T, G with C."),
@@ -57,12 +57,12 @@ FIG = {
  31: ("photo", "An electron microscope in a laboratory, about 1980."),
  32: ("photo", "Ears of corn, kernels locked in straight rows."),
  33: ("photo", "Tomatoes on a market stall, stacked for sale."),
- 34: ("photo", "A poultry barn, birds at the density the breeding produced."),
+ 34: ("photo", "The exterior of a poultry barn, red walls and a metal roof, not the birds inside."),
  35: ("photo", "The entrance of the Svalbard Global Seed Vault."),
  36: ("photo", "DNA sequencers in a laboratory."),
  37: ("diagram", "A chromosome ideogram with the regions finished after 2003 marked."),
  38: ("diagram", "A Manhattan plot, sketched."),
- 39: ("photo", "A consumer saliva collection tube."),
+ 39: ("photo", "A consumer saliva collection tube on a kit instruction card, a different company from the one this chapter names."),
  40: ("diagram", "Risk against penetrance."),
  41: ("diagram", "Two overlapping bell curves."),
  42: ("photo", "Server racks in a data centre."),

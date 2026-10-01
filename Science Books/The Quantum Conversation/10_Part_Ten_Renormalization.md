@@ -71,7 +71,7 @@ Every diagram corresponds to one precisely defined mathematical contribution to 
 
 In diagram language, that one rule is drawn as a vertex — a single point where a charged particle line meets a photon line, schematically *electron + photon ↔ electron*, with the coupling strength there fixed by the electromagnetic coupling constant.
 
-![Figure 15. The vertex is one meeting of a charged-particle line and a photon line. It is a term in an amplitude. It is not a photograph of a collision.](fig15_vertex.png)
+![Figure 15. The vertex is one meeting of a charged-particle line and a photon line: a term in an amplitude.](fig15_vertex.png)
 
 It's tempting to picture the vertex as a tiny physical event happening at one precise point in spacetime. It's more accurate, and more useful, to think of it as the basic interaction term in the Lagrangian, generating diagrams, which generate amplitudes, which generate probabilities, which generate the experimental predictions tested in a lab — the picture sitting at the very end of that mathematical chain, not the beginning of it.
 

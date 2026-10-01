@@ -385,7 +385,8 @@ def build_standalone(meta, blocks, out_path):
 
 
 LESSON_RE = re.compile(
-    r"^(Lesson \d+ |Part [IVX]+ |Course capstone|Consolidated formula index|"
+    r"^(Lesson \d+ |Part [IVX0]|Prologue \d+|Interlude |"
+    r"Course capstone|Consolidated formula index|"
     r"Glossary of symbols|Bibliography)"
 )
 

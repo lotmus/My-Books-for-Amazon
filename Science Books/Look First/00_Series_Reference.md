@@ -39,7 +39,7 @@ Both manuscripts contain the crew and the library. That is already true in the p
 - Every term in the popular text was already built, is built where it is used, or is pointed forward with a chapter number. The Floor/Room machinery of the physics didactic guide was not applied. The file named in the 25 Sep 2026 status was not in the parent folder when this note was written. The sentence that was kept is the term rule above.
 - Headlines in this book’s Word file are navy `0C2D5A`.
 - Photograph credits are on the copyright page and in `KDP_Description.md`.
-- Stamp 113,624 words. Ingest: `export\The_Universe_Has_No_Now.docx`, with a matching EPUB. Rebuild: `python export\assemble_export.py --with-epub` from that manuscript folder.
+- Stamp 112,883 words. Ingest: `export\The_Universe_Has_No_Now.docx`, with a matching EPUB. Rebuild: `python export\assemble_export.py --with-epub` from that manuscript folder. Mara is the kitchen and the greenhouse. Eli keeps the clock.
 - Spine constraints for this book alone: `00_Book_Spine.md`.
 
 ## Book 2 only

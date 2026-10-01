@@ -539,7 +539,7 @@ GLOSSARY = [
     ("Fader", "The volume slider in an editor. A music fader at about a tenth to a fifth of the way up is a position on that slider, not a measurement of loudness."),
     ("Text-to-speech", "A tool that reads a script aloud. Usable when the voice is not a clone of someone else. Cloning someone else’s voice is a consent question the tool does not answer for you."),
     ("Stock license", "The terms on one clip or track. “Free” and “free to use commercially” are different sentences. Read the line on that file before you publish it, including on a second site."),
-    ("Offer page", "The page where a stranger sees the price and pays or books. The video is not that page unless the platform gives you a product shelf you are allowed to use."),
+    ("Offer page", "A page you control, where a stranger sees the price and pays or books, without an account on the video site. A pay button does that for a file. A booking page does it for a call. The video is not that page unless the platform gives you a product shelf you are allowed to use."),
     ("Short", "A vertical video, 1080 by 1920. On YouTube, an address in a Short’s description or comments is not clickable. A Short can point at a long video. It cannot be the checkout."),
     ("Qualified Shorts views", "Public views of Shorts in the Shorts feed that YouTube counts toward the Shorts bars: 3 million in 90 days for the expanded program, or 10 million in 90 days for the Partner Program. They do not fill the long-form hour bars."),
 ]

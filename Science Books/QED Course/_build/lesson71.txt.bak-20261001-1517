@@ -1,0 +1,174 @@
+TITLE: Ward Identities
+TAGLINE: Replacing a photon polarization by its own momentum makes a physical amplitude vanish, which is why Lesson 47's covariant propagator and Lesson 51's −g_μν replacement are finally justified
+NUM: 71
+NEXT: Lesson 72 collects the same identity as a statement that observables do not depend on the gauge, including the ξ of Lesson 70.
+
+# How to use this lesson
+
+Every time this course replaced a photon polarization sum by −g_μν, or dropped k_μk_ν from a photon propagator, it said the justification was a Ward identity and then postponed the proof. This lesson supplies that proof at tree level, in a form that extends to the loops of Part IX: if iℳ(k)=ε_μ(k)ℳ^μ(k) is a physical amplitude with an external photon of momentum k, then k_μ ℳ^μ(k)=0. The argument is current conservation, applied inside the perturbative expansion rather than only to the classical Maxwell equation. Expect six to eight hours.
+
+## Learning objectives
+
+- State the Ward identity: k_μ ℳ^μ=0 for a physical amplitude with an external photon momentum k.
+
+- Derive it at tree level by replacing ε_μ→k_μ at a vertex ieγ^μ and using the Dirac equation on the adjacent spinors, or equivalently p̸−m=0.
+
+- Show that the same contraction on an internal photon line cancels between diagrams that differ by where the photon attaches along a charged line.
+
+- Justify the replacement Σε_με_ν→−g_μν in |ℳ|², and the dropping of ξ-dependent pieces of D_μν.
+
+- State what the identity implies for vacuum polarization: q_μ Π^μν(q)=0, the transversality Lesson 62 expected.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| ℳ^μ | Amplitude with the external polarization ε_μ stripped off |
+| k_μ ℳ^μ=0 | The Ward identity |
+
+# 1 The statement
+
+FIG:
+ e^{-} ----*---- e^{-}          replace ε_μ by k_μ at the vertex:
+           |                    k_μ (ie γ^μ) sandwiched between
+          γ(k)                  on-shell spinors vanishes by p̸u=mu
+ENDFIG
+
+A physical QED amplitude with one external photon of momentum k and polarization ε may be written iℳ=ε_μ ℳ^μ. The Ward identity is
+
+$$ k_μ ℳ^μ(k) = 0
+
+so that ℳ is unchanged if ε_μ is shifted by any multiple of k_μ, which is a residual gauge transformation of the polarization.
+
+### Worked example 1
+
+Why is this the same statement as "a longitudinal photon does not scatter"? A polarization ε_μ∝k_μ is a pure gauge (in momentum space); the identity says the amplitude for emitting or absorbing that mode is zero.
+
+# 2 Tree-level proof, one charged line
+
+## 2.1 Emission from an external electron
+
+Suppose the photon attaches to an outgoing electron of momentum p′, so the vertex is ū(p′)(ieγ^μ) and p′=p+k. Replacing ε_μ by k_μ gives ū(p′)γ^μ k_μ=ū(p′)k̸. But k̸=p̸′−p̸, so
+
+$$ ū(p′) k̸ = ū(p′)(p̸′ − p̸) = ū(p′)(m − p̸)
+
+using ū(p′)(p̸′−m)=0. The remaining ū(p′)(m−p̸) then cancels against the adjacent electron propagator or the incoming spinor by the same Dirac equation, leaving zero (Exercise 6 works the incoming-photon-on-incoming-electron case the same way).
+
+## 2.2 Attachment along an internal line
+
+If the photon can attach at more than one point along a charged line, replacing ε by k produces a telescoping difference of inverse propagators, S⁻¹(p+k)−S⁻¹(p), which is exactly the Ward identity in the form
+
+$$ k_μ Γ^μ(p+k, p) = S⁻¹(p+k) − S⁻¹(p)
+
+quoted in this course's formula index. Summing every attachment point along the line, the interior terms cancel and the ends are killed by on-shell spinors, so the full amplitude still vanishes.
+
+### Worked example 2
+
+State why a diagram with the photon attached to a closed fermion loop, and no other charged external legs, already vanishes when contracted with k_μ. The loop is a closed charged line with no on-shell ends; the telescoping sum around a loop is identically zero, which is Lesson 62's transversality.
+
+# 3 Consequences this course has been using
+
+## 3.1 Polarization sums
+
+The physical sum is over two transverse polarizations, Σε_μ ε_ν=−g_μν+(gauge terms built from k). Those extra terms contract with ℳ^μℳ^ν and vanish by Section 1, so
+
+$$ Σ |ε_μ ℳ^μ|² = (− g_(μν)) ℳ^μ ℳ^ν
+
+which is Lesson 51's covariant replacement.
+
+## 3.2 The photon propagator
+
+Lesson 70's ξ-dependent piece is proportional to k_μk_ν. Inserted between two conserved vertices, it vanishes by the same identity, so Feynman gauge ξ=1 may be used in any physical |ℳ|². This completes Lesson 47.
+
+## 3.3 Vacuum polarization
+
+q_μ Π^μν(q)=0 follows by applying Section 2.2 to the closed loop of Lesson 62. Combined with Lorentz covariance, Π^μν=(q²g^μν−q^μq^ν)Π(q²), as Lesson 62 previewed and Lesson 66 can check after regularization.
+
+# 4 Loops and infrared photons
+
+The same telescoping works diagram by diagram at one loop provided a gauge-invariant regulator is used. A hard cutoff can break the identity; that is one reason Lesson 66's cutoff was a teaching device, and why a fully consistent treatment of loops uses a regulator that preserves k_μℳ^μ=0. Infrared photons, Lesson 73, require the identity in a different way: soft emission amplitudes are themselves proportional to e p·ε/p·k, which is gauge invariant because of this same contraction.
+
+# 5 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used |
+| k_μ ℳ^μ=0 | Polarization sums, gauge independence, transversality |
+| k_μ Γ^μ=S⁻¹(p+k)−S⁻¹(p) | Vertex versus self-energy, Lesson 64 and 67 |
+| q_μ Π^μν=0 | Lesson 62, now proved rather than expected |
+
+# 6 Summary
+
+1. The Ward identity is k_μ ℳ^μ=0 for a physical amplitude with external photon k.
+
+2. At tree level it follows from the Dirac equation on external spinors and a telescoping sum along a charged line.
+
+3. It justifies Σεε→−g and the dropping of ξ-dependent propagator terms.
+
+4. It implies transversality of vacuum polarization.
+
+5. A regulator that breaks it cannot be the last word on a loop that is supposed to respect gauge invariance.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Write iℳ=ε_μ ℳ^μ and state k_μ ℳ^μ=0 in words. |
+| 2 | If ε_μ→ε_μ+λ k_μ, show ℳ is unchanged given the identity. |
+| 3 | For an outgoing electron, reduce ū(p′)k̸ using k=p′−p and the Dirac equation. |
+| 4 | Repeat for an incoming electron with v or u as appropriate. |
+| 5 | Sketch the telescoping for a photon attaching at two possible vertices on one line. |
+| 6 | Carry out the incoming-electron, incoming-photon case of Section 2.1. |
+| 7 | Derive k_μ Γ^μ=S⁻¹(p+k)−S⁻¹(p) from S⁻¹(p)=p̸−m and Γ^μ=γ^μ at tree level. |
+| 8 | Use Exercise 7 to confirm the tree-level vertex satisfies the identity. |
+| 9 | Explain why Σε_με_ν→−g_μν is valid inside |ℳ|². |
+| 10 | Which piece of D_μν(k;ξ) drops, and why? |
+| 11 | Deduce q_μ Π^μν=0 from the closed-loop version of the telescoping sum. |
+| 12 | Why does a hard cutoff threaten the identity? |
+| 13 | Connect this lesson to Lesson 8's residual gauge freedom after Lorenz gauge. |
+| 14 | Why must both Compton diagrams of Lesson 56 be kept for the identity to hold? |
+| 15 | State the identity for two external photons, qualitatively. |
+| 16 | Challenge: using ℳ=e (p′·ε/p′·k − p·ε/p·k) for soft emission from a classical current, verify k_μ ℳ^μ=0 by inspection. |
+
+# Solutions
+
+**1.** Contracting the photon's momentum into the amplitude, with the polarization stripped off, gives zero.
+
+**2.** Δℳ=λ k_μ ℳ^μ=0.
+
+**3.** ū(p′)k̸=ū(p′)(p̸′−p̸)=ū(p′)(m−p̸), which cancels against the rest of the line.
+
+**4.** (p̸−m)u(p)=0 similarly kills the incoming end.
+
+**5.** Attachment at p versus p+k produces S(p+k) k̸ S(p)=S(p)−S(p+k) after using k̸=S⁻¹(p+k)−S⁻¹(p), a difference that telescopes.
+
+**6.** Incoming photon k absorbed by incoming electron p, outgoing p′=p+k: u-bar side as in Section 2.1, or the incoming spinor (p̸−m)u=0 after k̸=p̸′−p̸.
+
+**7.** S⁻¹(p+k)−S⁻¹(p)=(p̸+k̸−m)−(p̸−m)=k̸=k_μ γ^μ=k_μ Γ^μ_tree.
+
+**8.** Immediate from Exercise 7.
+
+**9.** The difference between the transverse projector and −g_μν is built from k; it vanishes against ℳ^μℳ^ν.
+
+**10.** The (1−ξ)k_μk_ν/k² piece.
+
+**11.** Summing attachments around a closed loop telescopes to zero with no leftover on-shell ends.
+
+**12.** Cutting |k_E|<Λ is not a gauge-invariant restriction; it can generate a spurious longitudinal piece.
+
+**13.** Residual χ with □χ=0 are plane-wave gauges, i.e. ε∝k; the Ward identity says those modes drop from amplitudes.
+
+**14.** Each diagram separately is not gauge invariant; their sum is. Dropping one would leave a residual k_μ ℳ^μ.
+
+**15.** k_{1μ} ℳ^{μν}=0 and k_{2ν} ℳ^{μν}=0 separately, for on-shell photons.
+
+**16.** k·p′/p′·k − k·p/p·k=1−1=0.
+
+# Mastery checklist
+
+- I can state k_μ ℳ^μ=0 and derive it at tree level from the Dirac equation.
+
+- I can justify −g_μν polarization sums and ξ-independence.
+
+- I can obtain q_μ Π^μν=0 as the closed-loop case.
+
+- I know why both Compton diagrams are required by gauge invariance.

@@ -7,7 +7,6 @@ import os
 import re
 import sys
 import time
-import time
 
 from docx import Document
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
@@ -23,11 +22,21 @@ COMPLETE = bl.COMPLETE
 BOOKMARK_TOC = "QEDCourseTOC"
 
 KEEP_H1 = re.compile(
-    r"^(Lesson \d+ |Part [IVX]+|Table of Contents|Copyright|How to read this book|"
-    r"Glossary of symbols|Course capstone|Consolidated formula index|Bibliography)"
+    r"^(Lesson \d+ |Part [IVX0]|Prologue \d+|Interlude |Table of Contents|Copyright|"
+    r"How to read this book|Glossary of symbols|Course capstone|"
+    r"Consolidated formula index|Bibliography)"
 )
 LESSON_H1 = re.compile(r"^Lesson (\d+) ")
 LESSON_MENTION = re.compile(r"Lesson (\d+)")
+
+
+def _is_body_start(text):
+    t = text or ""
+    return (
+        t.startswith("Lesson 1 ")
+        or t.startswith("Part 0")
+        or t.startswith("Prologue 1")
+    )
 
 
 def _text(child):
@@ -119,10 +128,10 @@ def remove_old_toc(doc):
             to_remove.append(child)
         if in_block and (
             text == "__QEDCourseTOC_END__"
-            or (style == "Heading1" and text.startswith("Lesson 1 "))
+            or (style == "Heading1" and _is_body_start(text))
         ):
-            if text.startswith("Lesson 1 "):
-                to_remove.pop()  # keep Lesson 1
+            if _is_body_start(text):
+                to_remove.pop()  # keep Part 0 / Prologue 1 / Lesson 1
             break
     for node in to_remove:
         parent = node.getparent()
@@ -146,7 +155,7 @@ def remove_old_front(doc):
         if in_block and style == "Heading1" and text not in markers and text:
             to_remove.pop()
             break
-        if in_block and style == "Heading1" and text.startswith("Lesson 1 "):
+        if in_block and style == "Heading1" and _is_body_start(text):
             to_remove.pop()
             break
     for node in to_remove:
@@ -227,7 +236,11 @@ def bookmark_lessons(doc):
             continue
         text = _text(child) or ""
         if text.startswith("Part "):
-            slug = "Part" + re.sub(r"[^IVX]", "", text.split()[1] if len(text.split()) > 1 else "")
+            token = text.split()[1] if len(text.split()) > 1 else ""
+            if token.startswith("0"):
+                slug = "Part0"
+            else:
+                slug = "Part" + re.sub(r"[^IVX]", "", token)
             _bookmark_p(child, slug or "Part", 2000 + hash(text) % 500)
         elif text == "Glossary of symbols":
             _bookmark_p(child, "Glossary", 3001)
@@ -237,6 +250,12 @@ def bookmark_lessons(doc):
             _bookmark_p(child, "FormulaIndex", 3003)
         elif text == "Bibliography":
             _bookmark_p(child, "Bibliography", 3004)
+        elif text.startswith("Prologue "):
+            pm = re.match(r"^Prologue (\d+)", text)
+            if pm:
+                _bookmark_p(child, "Prologue%s" % pm.group(1), 4000 + int(pm.group(1)))
+        elif text.startswith("Interlude "):
+            _bookmark_p(child, "Mead", 4010)
         elif text == "How to read this book":
             _bookmark_p(child, "HowToRead", 3005)
         elif text == "Copyright":
@@ -256,9 +275,20 @@ def collect_toc_entries(doc):
         if m:
             entries.append(("Lesson%d" % int(m.group(1)), text, False))
             continue
+        pm = re.match(r"^Prologue (\d+)", text)
+        if pm:
+            entries.append(("Prologue%s" % pm.group(1), text, False))
+            continue
+        if text.startswith("Interlude "):
+            entries.append(("Mead", text, False))
+            continue
         if text.startswith("Part "):
-            slug = "Part" + re.sub(r"[^IVX]", "", text.split()[1])
-            entries.append((slug, text, True))
+            token = text.split()[1] if len(text.split()) > 1 else ""
+            if token.startswith("0"):
+                slug = "Part0"
+            else:
+                slug = "Part" + re.sub(r"[^IVX]", "", token)
+            entries.append((slug or "Part", text, True))
         elif text == "How to read this book":
             entries.append(("HowToRead", text, False))
         elif text == "Glossary of symbols":
@@ -284,7 +314,7 @@ def insert_static_toc(doc, entries):
             last = child
             while node is not None:
                 nxt = node.getnext()
-                if nxt is not None and _p_style(nxt) == "Heading1" and _text(nxt).startswith("Lesson 1 "):
+                if nxt is not None and _p_style(nxt) == "Heading1" and _is_body_start(_text(nxt)):
                     anchor = last
                     break
                 last = nxt if nxt is not None else last
@@ -355,10 +385,18 @@ def insert_front_matter(doc):
         "Work with pencil and paper. Attempt each worked example before reading its answer, "
         "and the exercises before the solutions. Solutions sit at the end of the lesson that posed them."
     )
-    b.para("Three routes:")
+    b.para("Four routes:")
+    b.bullet(
+        "Prologues 1–9 first, always. Feynman’s easy QED in this course’s words (photons, arrows, all paths, three actions), "
+        "Maxwell as the many-photon alternative, bras and kets, the Schrödinger equation, S-parameters as ⟨f|S|i⟩, "
+        "and Feynman diagrams with no assumed background. Plan on 30–50 hours. Then Lesson 1."
+    )
     b.bullet(
         "Lessons 1–37, the foundation, if complex numbers, Dirac matrices, or canonical quantization are not yet automatic. "
         "Plan on 150–250 hours."
+    )
+    b.bullet(
+        "After Lesson 40, read the Interlude on Mead’s view (A as the phase standard; E and B derived). Do not move it to the front."
     )
     b.bullet(
         "Lessons 38–60, the QED spine, if the foundation is already in hand. Start at Lesson 38. "

@@ -4,7 +4,7 @@
 
 ## 28. The Equation Behind the Conversation
 
-Here is the equation the book has been walking toward. If a symbol is new, keep the sentence in front of it. The matrices can stay unread. This part is heading for one coupling, and that coupling shows up again in a wire.
+Here is the equation the book has been walking toward. I spent forty years using what it predicts without being able to say what the line meant. If a symbol is new, keep the sentence in front of it. The matrices can stay unread. This part is heading for one coupling, and that coupling shows up again in a wire.
 
 The central object in modern quantum field theory is called the Lagrangian density, and for quantum electrodynamics it can be written as
 
@@ -38,8 +38,6 @@ This is the interaction term of QED, in a form where the algebra can be checked.
 The Lagrangian splits cleanly into a matter sector, an electromagnetic sector, and the interaction connecting them (*matter + electromagnetism + interaction*), and that three-part organization is what makes the whole framework so powerful: it lets you calculate electron scattering, photon emission and absorption, corrections to the electron's magnetic moment, vacuum polarization, and a vast range of other experimentally testable phenomena, all from the same handful of terms. What's philosophically striking is that the interaction shows up here as a term in the action, not a classical force sitting between two otherwise separate sectors: the action reshapes the quantum amplitude, the amplitude interferes with other amplitudes, and observable probabilities emerge only at the end of that chain.
 
 The old force picture survives this encounter, just not intact — call it *absorbed*, a useful word to hold onto, since absorbed is not the same thing as discarded. The classical force remains exactly where it always was, as a limiting description; the quantum theory tells you, for the first time, what's actually sitting underneath it.
-
-Spine: Chapter 32 is the bridge, Chapters 40 through 42 are the circuit, and Chapter 47 draws the boundary. The pages between here and the bridge are one electron's amplitude becoming a diagram, a force, and a current.
 
 ---
 
@@ -159,5 +157,3 @@ Feynman's QED supplies the microscopic relativistic framework nothing else can r
 A theory, in the end, is as much a choice about which variables deserve to be treated as the important ones as it is a collection of equations — Newton chose positions and momenta, Maxwell chose fields, Einstein chose spacetime geometry, quantum mechanics chose amplitudes, Feynman chose histories and phase, gauge theory chose connections and symmetry, and Mead chose collective quantum phase and the electromagnetic potential. Each choice changes what becomes obvious and what stays hidden. The universe does not arrive labeled with instructions about which variable is secretly the fundamental one.
 
 Useful variables get discovered by finding descriptions that compress the physics without losing what matters — and sometimes the deepest available insight is not a new equation at all, but the recognition that the old question was being asked in the wrong variables all along. That recognition is a great deal of what doing physics consists of, far more than a footnote to it.
-
-Spine: the wire is Chapters 40 through 42. Chapter 47 is the ledger. Before the wire, an electron has to meet light, and the precision has to be earned.

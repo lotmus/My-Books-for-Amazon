@@ -1,0 +1,145 @@
+TITLE: Gauge Fixing
+TAGLINE: The covariant gauge-fixing term Lesson 37 postponed, the parameter ξ, and the photon propagator that interpolates between Feynman gauge and Landau gauge
+NUM: 70
+NEXT: Lesson 71 proves the Ward identity that makes physical amplitudes independent of ξ, completing the argument Lesson 47 could only sketch.
+
+# How to use this lesson
+
+Lesson 37 quantized A^i in Coulomb gauge. Lesson 47 then used −ig_μν/(k²+iε) anyway, with a partial argument that the difference does not affect physical results. This lesson writes the missing covariant starting point: add a gauge-fixing term to the Lagrangian, derive the photon propagator for arbitrary ξ, and identify Feynman gauge ξ=1 and Landau gauge ξ=0. The identity that makes ξ drop out of observables is Lesson 71. Expect five to seven hours.
+
+## Learning objectives
+
+- State why a gauge field cannot be quantized from ℒ=−¼F_μνF^μν alone: the kinetic operator has a kernel consisting of pure gauges.
+
+- Add ℒ_gf=−(∂·A)²/(2ξ) and invert the kinetic operator to obtain D_μν(k)=−i[g_μν−(1−ξ)k_μk_ν/k²]/(k²+iε).
+
+- Recover Feynman gauge at ξ=1 and Landau gauge (∂·A=0) at ξ=0.
+
+- Explain what remains to be proved before ξ-independence of amplitudes is guaranteed.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| ξ | Gauge-fixing parameter |
+| ℒ_gf | −(∂_μ A^μ)²/(2ξ) |
+| D_μν(k;ξ) | Photon propagator in covariant R_ξ gauge |
+
+# 1 The problem without gauge fixing
+
+The quadratic photon term −¼F_μνF^μν, in momentum space, produces a kinetic operator k²g_μν−k_μk_ν. This operator annihilates any k_ν: (k²g_μν−k_μk_ν)k^ν=0. Pure-gauge configurations A_μ=∂_μχ are therefore null vectors, and the operator has no inverse. A photon propagator cannot even be written down until this kernel is removed.
+
+### Worked example 1
+
+Show (k²g_μν−k_μk_ν)k^ν=0 by direct contraction. k²k_μ−k_μk²=0.
+
+# 2 Adding a term
+
+## 2.1 The gauge-fixing Lagrangian
+
+Add
+
+$$ ℒ_gf = − (∂_μ A^μ)² / (2ξ)
+
+which is not gauge invariant, and is not meant to be: it is a device that selects a slice through the gauge orbits. The combined quadratic operator becomes k²g_μν−(1−1/ξ)k_μk_ν, which is invertible for ξ finite.
+
+## 2.2 The inverse
+
+Inverting that operator (Exercise 6) gives the covariant propagator
+
+$$ D_(μν)(k; ξ) = − i [ g_(μν) − (1−ξ) k_μ k_ν / k² ] / (k² + iε)
+
+## 2.3 Named gauges
+
+ξ=1: D_μν=−ig_μν/(k²+iε), Feynman gauge, the propagator this course has used since Lesson 47. ξ=0: D_μν=−i(g_μν−k_μk_ν/k²)/k², Landau gauge, with k^μ D_μν=0. Coulomb gauge is not a value of ξ; it is a different, non-covariant condition ∇·A=0 used in Lesson 37.
+
+### Worked example 2
+
+Verify that ξ=1 reproduces Lesson 47's Feynman-gauge propagator exactly. Substituting ξ=1 cancels the k_μk_ν term, leaving −ig_μν/(k²+iε).
+
+# 3 What is not yet proved
+
+A physical amplitude, after summing diagrams, must not depend on ξ. That is a statement about the full theory's gauge invariance, not about this propagator sitting by itself. Lesson 47 argued that k_μ pieces drop against conserved currents. Lesson 71 proves the Ward identity that makes this precise for the quantum amplitude, including loops.
+
+# 4 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used next |
+| ℒ_gf=−(∂·A)²/(2ξ) | Covariant starting point for the photon |
+| D_μν(k;ξ) | Interpolating propagator; ξ=1 is Feynman gauge |
+| ξ-independence postponed | Proved via the Ward identity, Lesson 71 |
+
+# 5 Summary
+
+1. −¼F² has no inverse because of residual gauge freedom.
+
+2. ℒ_gf=−(∂·A)²/(2ξ) makes the kinetic operator invertible.
+
+3. D_μν=−i[g_μν−(1−ξ)k_μk_ν/k²]/(k²+iε); ξ=1 is Feynman gauge, ξ=0 is Landau gauge.
+
+4. Independence of ξ is Lesson 71, not an algebraic identity of this propagator alone.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Show that A_μ→A_μ+∂_μχ leaves F_μν invariant, so −¼F² cannot distinguish gauges. |
+| 2 | Show that the kinetic operator k²g_μν−k_μk_ν annihilates k^ν. |
+| 3 | Why does the absence of an inverse prevent writing a propagator? |
+| 4 | Write ℒ_gf and state the mass dimension of ξ (dimensionless). |
+| 5 | Combine −¼F² with ℒ_gf and read off the momentum-space operator k²g_μν−(1−1/ξ)k_μk_ν. |
+| 6 | Invert that operator to obtain D_μν(k;ξ). |
+| 7 | Specialize to ξ=1. |
+| 8 | Specialize to ξ=0 and verify k^μ D_μν=0. |
+| 9 | Explain why Coulomb gauge is not ξ=something. |
+| 10 | What would go wrong if one used D_μν(k;ξ) in a physical amplitude without a Ward identity? |
+| 11 | Lesson 37's two transverse polarizations: which ξ choice makes unphysical polarizations most explicit, qualitatively? |
+| 12 | Does ℒ_gf change Maxwell's equations for physical, conserved currents? Argue using the Lorenz condition. |
+| 13 | Recover Lesson 8's Lorenz gauge as the ξ→0 limit of the gauge condition implied by ℒ_gf. |
+| 14 | Why is ξ allowed to appear in intermediate diagrams but not in |ℳ|² after a complete sum? |
+| 15 | Write the ξ-dependent term in D_μν as something proportional to k_μk_ν. |
+| 16 | Challenge: sketch why a closed fermion loop attached to a single photon vanishes when contracted with k_μ, previewing Lesson 71. |
+
+# Solutions
+
+**1.** F_μν=∂_μA_ν−∂_νA_μ changes by ∂_μ∂_νχ−∂_ν∂_μχ=0.
+
+**2.** k²k_μ−k_μ(k·k)=0.
+
+**3.** The propagator is defined as the inverse of the kinetic operator; no inverse, no Green's function.
+
+**4.** ℒ_gf=−(∂·A)²/(2ξ); ξ is dimensionless because ∂·A has dimension 2 and ℒ has dimension 4.
+
+**5.** The gauge-fixing term contributes (1/ξ)k_μk_ν to the operator, producing k²g_μν−k_μk_ν+(1/ξ)k_μk_ν=k²g_μν−(1−1/ξ)k_μk_ν.
+
+**6.** A standard inversion: the inverse of Ag_μν+B k_μk_ν is (1/A)[g_μν−B k_μk_ν/(A+B k²)], yielding the stated D_μν after restoring −i/(k²).
+
+**7.** ξ=1: −ig_μν/(k²+iε).
+
+**8.** ξ=0: −i(g_μν−k_μk_ν/k²)/k²; contracting k^μ gives −i(k_ν−k_ν)/k²=0.
+
+**9.** Coulomb gauge is ∇·A=0, which singles out a time direction; R_ξ gauges are Lorentz covariant.
+
+**10.** The k_μk_ν piece could contribute, and different ξ values would appear to give different answers.
+
+**11.** Feynman gauge treats four components symmetrically, so unphysical polarizations are present and must cancel in observables; Coulomb gauge never introduces them.
+
+**12.** For a conserved current the extra term generated by ℒ_gf can be arranged to vanish on physical configurations satisfying Lorenz gauge.
+
+**13.** ξ→0 enforces ∂·A=0 as a constraint, Lorenz gauge.
+
+**14.** Gauge invariance of the theory, expressed as a Ward identity, cancels all ξ dependence once every diagram contributing to a physical process is included.
+
+**15.** −i(1−ξ)k_μk_ν/[k²(k²+iε)].
+
+**16.** Current conservation in momentum space is k_μ J^μ=0; a closed loop that is itself a conserved current therefore vanishes when contracted with k_μ, which is the content of transversality in Lesson 62 and of the Ward identity in Lesson 71.
+
+# Mastery checklist
+
+- I can explain why −¼F² has no inverse.
+
+- I can write ℒ_gf and the R_ξ propagator.
+
+- I can recover Feynman and Landau gauges as ξ=1 and ξ=0.
+
+- I know that ξ-independence is a Ward-identity statement, not automatic.

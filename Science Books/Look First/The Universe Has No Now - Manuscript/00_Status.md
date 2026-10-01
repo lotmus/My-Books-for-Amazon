@@ -7,7 +7,7 @@
 - Photograph credits are on the copyright page and in `KDP_Description.md`.
 - Headlines are navy `0C2D5A`, not `#0000FF`.
 - Chapters 31 and 32 are full lessons at the same length as the other teaching chapters (about 1,990 and 2,080 words). A32 notes the queue, the assay, and the spare copies.
-- Stamp **113,624** words. KDP ingest is `export\The_Universe_Has_No_Now.docx`, rebuilt 30 Sep 2026 with the EPUB from the same markdown. Plural chapter mentions link. Chapter 34’s doubled closing sentence is gone.
+- Stamp **112,883** words. KDP ingest is `export\The_Universe_Has_No_Now.docx`, rebuilt 1 Oct 2026 with the EPUB from the same markdown. Mara is the woman in the kitchen and in the greenhouse. Eli keeps the clock. Plural chapter mentions link. Chapter 34’s doubled closing sentence is gone.
 
 The kitchen date and the early sections below are the history of closed passes. They still say “books 2 and 3,” “credits only on the Amazon page,” and “chapters 31 and 32 stay bridges.” Those sentences describe the pass that wrote them.
 

@@ -18,33 +18,20 @@ Write a second sentence: “This channel is a poor fit for people who want [diff
 
 ## II. One offer, on purpose
 
-Pick one of these for the first ninety days. You may add a second later. You may not start with all three and call it a business.
+Pick one shape for the first ninety days. You may add a second later. Two shapes on day one is a menu.
 
-- **A thing you made.** A short paid guide, a template pack, a recorded class, a physical product you can ship. You keep most of the money. You also own the support.
-- **A service you do.** An audit, a setup, a consult, a done-for-you job with a written scope. One clear price or a small menu of two. “Message me for rates” is not an offer.
-- **Someone else’s product, with a disclosed affiliate link.** You recommend a tool or book you would use anyway, and you are paid if the viewer buys. The link has to be allowed on the platform, and the disclosure has to sit next to the link, not in a footnote. Read that program’s own commission page before you film. A high percentage of a cheap download can pay less than a low percentage of an expensive tool, and a subscription can pay again next month. A roundup’s rate table is not the contract. The money chapter covers placement. This chapter only requires that you choose the product before you film the recommendation.
+- **A file.** A checklist, a template, or a short recorded class. The free video shows one real step. The file is the rest, in order, with a price. The page names the file, the price, and what is in it. Say: “I made [name]. It costs [price]. Here is the link.”
+- **A ticket.** One workshop on one date. After that date, sell the recording as the file, or stop. Do not leave both on the page. The page names the date, the length, and the price. Say: “On [date] I teach [result]. It costs [price]. Here is the link.”
+- **A thing you ship.** Only if you can send ten of them this month without breaking the promise. The page names what arrives, how long it takes, and the price, including whether shipping is inside the number. Say: “I will send you [thing]. It costs [price]. Here is the link.”
+- **A license.** A set price for someone else to use a clip or a template you made. The page says what the buyer may do with it, and what they may not. Say: “You can use [thing] for [the use you wrote down]. It costs [price]. Here is the link.”
+- **A call.** One length, one result, one price. Or one afternoon of office hours, a set number of seats, a set price. “Message me for rates” is not an offer. The page names the length, the result, and the price. Say: “I will [result] with you for [length]. It costs [price]. Here is the link.” The sales that count are the ones that cover the hours in §IV.
+- **One affiliate product.** A tool or a book you already use. The link has to be allowed on the platform, and the disclosure sits next to the link. Read that program’s own commission page before you film. A high percentage of a cheap download can pay less than a low percentage of an expensive tool, and a subscription can pay again next month. A roundup’s rate table is not the contract. The money chapter covers placement. The page the stranger pays on is the merchant’s. Say: “I use [product]. This is an affiliate link. The price on their page is [price].”
+- **A monthly pass you bill yourself.** The next file, or the next call, paid to you. A video site’s own membership button can wait until you have cleared that site’s gate. Until then, your page is the pass. The page says what arrives each month and when the next charge happens. Say: “Each month you get [thing]. It costs [price] a month. Here is the link. You can cancel before the next charge.”
+- **One sponsor, for one video.** Say so in the video and next to the link. Do not also pitch your file in that same video. Two asks is a menu. If the file is the offer, the sponsor waits. If the sponsor pays you directly, the sentence is the disclosure. Say: “[Sponsor] paid for this video. The link is theirs.”
 
-Ways to fill those three, still one at a time:
-
-- **A file.** A checklist, a template, or a short recorded class. The free video shows one real step. The file is the rest, in order, with a price.
-- **A ticket.** One workshop on one date. After that date, sell the recording as the file, or stop selling the ticket. Do not sell both as if they were two businesses.
-- **A thing you ship.** Only if you can send ten of them this month without breaking the promise.
-- **A license.** A set price for someone else to use a clip or a template you made. The page says what they may do with it, and what they may not.
-- **A call or a job.** One length, one result, one price. Or one afternoon of office hours, a set number of seats, a set price. “Message me for rates” is still not an offer.
-- **One affiliate product.** A tool or a book you already use. Not a list of ten.
-- **A monthly pass you bill yourself.** The next file, or the next call, paid to you. A video site’s own membership button can wait until you have cleared that site’s gate. Until then, your page is the pass.
-- **One sponsor, for one video.** Say so in the video and next to the link. Do not also pitch your file in that same video. Two asks is a menu. If the file is the offer, the sponsor waits.
+A file, a ticket, a thing you ship, and a license are things you made. You keep most of the money, and you own the support. A call is a service you do. An affiliate product is someone else’s. A monthly pass is the next file or the next call, billed by you. A sponsor is one company paying for one video.
 
 Week one of the calendar builds the page for the shape you picked, and you say that shape’s sentence. One page. One sentence. One shape for ninety days.
-
-- **File.** The page names the file, the price, and what is in it. Say: “I made [name]. It costs [price]. Here is the link.”
-- **Ticket.** The page names the date, the length, and the price. Say: “On [date] I teach [result]. It costs [price]. Here is the link.” After that date, sell the recording as the file, or stop. Do not leave both on the page.
-- **A thing you ship.** The page names what arrives, how long it takes, and the price, including whether shipping is inside the number. Say: “I will send you [thing]. It costs [price]. Here is the link.”
-- **License.** The page says what the buyer may do with the clip or the template, and what they may not. Say: “You can use [thing] for [the use you wrote down]. It costs [price]. Here is the link.”
-- **Call.** The page names the length, the result, and the price. Say: “I will [result] with you for [length]. It costs [price]. Here is the link.”
-- **One affiliate product.** The page the stranger pays on is the merchant’s. Your sentence carries the disclosure. Say: “I use [product]. This is an affiliate link. The price on their page is [price].”
-- **Monthly pass.** The page says what arrives each month and when the next charge happens. Say: “Each month you get [thing]. It costs [price] a month. Here is the link. You can cancel before the next charge.”
-- **One sponsor.** If the sponsor pays you directly, the sentence is the disclosure. Say: “[Sponsor] paid for this video. The link is theirs.” Do not also name your file.
 
 Ad revenue from a platform partner program is not this offer. It can become extra income after the thresholds in the money chapter. It is a slow, uncertain side effect of attention. Do not build the channel as if the badge is the product. A channel with no offer can be popular and still sell nothing you control.
 
@@ -68,11 +55,11 @@ Suppose the offer earns you $30 after fees on each sale. Suppose, as a planning 
 
 A service priced at $150 with the same 2-in-100 guess needs only the same 50 views to earn $150. Fewer buyers can be a better business than many buyers of a $9 file, if you can deliver the service without drowning. Write down which one you can actually fulfill this month.
 
-Price the hours as well. Suppose the offer video takes eight hours, and you need those hours to be worth $25 each. The video costs $200 of your time before a sale. At $30 a sale you need seven sales, about 350 views of that video at the 2-in-100 guess, before the time is covered. The $150 call covers those same hours on the second sale. Write your own hours and your own rate on the money sheet. If the file cannot cover the hours, sell the call, or make a shorter video. The 2-in-100 figure stays a placeholder until your own count replaces it.
+Price the hours as well. Suppose the offer video takes eight hours, and you need those hours to be worth $25 each. That one video costs $200 of your time before a sale. At $30 a sale you need seven sales, about 350 views of that video at the 2-in-100 guess, before the time is covered. The $150 call covers those same hours on the second sale. The $200 is this video alone. The calendar films eight. Write the hours of the other seven on the money sheet before the decision in week six. A file that fails the test on the offer video will not look healthier after seven more videos of unpaid time. Write your own hours and your own rate. If the file cannot cover the hours, sell the call, or make a shorter video. The 2-in-100 figure stays a placeholder until your own count replaces it.
 
 ## V. Put the sale where a stranger can reach it
 
-The sale does not happen inside the player unless the platform gives you a product shelf and you are eligible to use it. For almost every new channel, the sale happens at a link: a simple page with the name of the offer, the price, what is included, and a way to pay or book.
+The sale does not happen inside the player unless the platform gives you a product shelf and you are eligible to use it. For almost every new channel, the sale happens on a page you control. The stranger sees the name of the offer, the price, what is included, and a way to pay or book, without an account on the video site. A pay button does that job for a file. A booking page does it for a call. The tool is whichever one takes the card or holds the seat. The test is your phone, not the brand name on the button.
 
 Before the first video, that page exists. The channel description links to it. The video where you explain the offer links to it in the first two lines of the description and in the pinned comment. One primary link. A row of six competing links is a menu, and menus are where undecided people go to leave.
 

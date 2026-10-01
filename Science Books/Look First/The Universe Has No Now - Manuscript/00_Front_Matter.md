@@ -64,19 +64,7 @@ This book runs a different sequence on purpose. It starts with *events*, because
 
 John D. Barrow’s short book *The Origin of the Universe* is the formal model: brief chapters, no swagger, a clean line between a measurement and an idea for ideas. Steven Weinberg’s *The First Three Minutes* is the model for the thermal past — a reconstruction, minute by minute, that anyone can follow and that happens to be right. Sean Carroll’s work on the arrow of time, Alan Guth’s and Andrei Linde’s inflation, Roger Penrose’s singularity theorems, P. J. E. Peebles’s insistence that structure is a physical problem, Katie Mack’s tour of cosmic endings — these are the sources. They are used. They are not copied. Where they disagree, the disagreement is the point.
 
-A book like this should not succeed because a reader can recite a definition of spacetime. It should succeed if a sequence of recognitions arrives and stays:
-
-that an event is a happening, not an object;  
-that “now” is a slice you draw, not a pulse the cosmos shares;  
-that the past is reconstructible in detail for the first three minutes and foggy before that;  
-that most of what gravitates does not shine, and most of what speeds the expansion has no agreed name beyond “dark energy”;  
-that a black hole is not a door;  
-that a wormhole, if it existed, would be a handle on the block, not a subway;  
-that looking arranged is not the same as being arranged;  
-that every allowed quantum outcome may already be on the inventory — and that you still have only one worldline to live;  
-and that the future, on present evidence, is allowed to be empty of us.
-
-That last recognition is not a counsel of despair. It is the opposite. If meaning is not scheduled for the end of time, it has to be made in the middle, which is the only part of the block we occupy — this copy, this planet, this launch window.
+A book like this should succeed if those recognitions arrive in the chapters, not in this note. If meaning is not scheduled for the end of time, it has to be made in the middle: this copy, this planet, this launch window.
 
 Readers of *The Quantum Conversation*, elsewhere in this series, will notice a family resemblance: start with the variable that makes the physics simple, not the variable that got discovered first. There, the variable was phase. Here, it is the event.
 
@@ -94,20 +82,10 @@ The clock cannot hold those facts together. It was built for a kitchen.
 
 This book is about what replaces the kitchen clock once you take Einstein seriously, and then take the sky seriously after that. It is a scientific book. It is also meant to be a good time. Those two aims are not at war. The universe is allowed to be precise and still be the strangest story anyone ever told.
 
-The short version, before it has been earned:
-
-Space and time are not a stage with a single present tense. They are a four-dimensional spread of *events* — happenings with a where and a when. Your life is a thin thread through that spread. Quantum mechanics, read one way, says the spread is larger still: every outcome the equations allow is on the inventory, not just the outcome you remember. All the times. All the versions. Not as a carnival trick — as a reading of the same rule that tells an electron where it may be found. That reading is a core element of this book. It is also, for now, a warm claim, not a photograph.
-
-The past we can reconstruct, from a hot, dense beginning through the forging of hydrogen and helium to the leftover glow in every direction, is not a myth. The future we can forecast, with the same equations, does not owe us a reunion, a resurrection, or a cosmic purpose. If the universe looks arranged for observers, the honest move is the one Darwin made on Earth: look for a filter, not a craftsman.
-
 If you have ever stood outside at night and felt, for a second, that the dark was not empty but *late* — that you were looking into travel time — you already have the instinct this book is going to use.
 
 The kitchen already contains a proof, if you will let a phone be a proof. GPS clocks in orbit run fast compared with clocks on the ground, once you have subtracted the special-relativistic slowing that comes from their speed. The two corrections are tens of microseconds a day, opposite in sign, and if you skip them your map slides into a ditch. Those microseconds are the same mathematics that refuses a shared now on Andromeda. The casserole still comes out on time. The cosmos does not share the timer.
 
-Three temperatures will follow you around. **Hot** is a measurement you can miss: the leftover glow at 2.725 degrees, the quarter of helium that stars did not have time to make, the ring around a hole. **Warm** is the best story we have with a hole in the noun: a burst before the bang, a pull that does not shine, a shove whose size we cannot derive. **Cold** is a sentence the equations permit and the data have not selected: a handle you could fall through, a required last mind, a stack of rooms with other laws. String theory, if the word appears, stays cold as a test. It cannot currently be tested.
-
-The spine of the book is a single refusal, spent in several rooms. There is no now the universe shares. The past we can rebuild is a hotter everywhere, not a grenade. The leftover light is a baby picture of a time, not a place. Most of what pulls does not shine; most of the budget shoves. A horizon is a one-way fact about events, not a door. Getting somewhere else, in the near term, is a permit: dirt, delay, ice, a woman hitting an airlock. Copies, if they exist, come in four kinds and none of them is a ticket. Arrangement is a filter, or a sample bias, or both — not a craftsman. The future, on present evidence, is allowed to be empty of us. Meaning, if you want it, is local, expensive, and optional.
-
-That last sentence is not a sulk. It is why a greenhouse is interesting. The leftover glow will still be late tomorrow whether or not anyone logs the pH of a tray of basil. You are allowed to care anyway. The book will not wait for the ending to compute you back.
+Mara will leave that kitchen. Eli will keep the clock. The dark, if you have stood outside and felt it, is not empty. It is late.
 
 ![Figure 0. A kitchen clock on a bright wall. Not a night sky. The clock is a local tool.](Figures/figs/fig00.png)

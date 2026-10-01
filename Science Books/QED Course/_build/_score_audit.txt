@@ -1,0 +1,203 @@
+PARAS 9075 TABLES 289 WORDS 231120
+HYPERLINKS 607 DRAWINGS 0 OMATH 794
+H1 COUNT 104
+--- H1 ---
+Copyright
+How to read this book
+Table of Contents
+Lesson 1 Complex Numbers and Linear Algebra
+Part I Prerequisites
+Lesson 2 Calculus and Differential Equations
+Lesson 3 Special Relativity
+Lesson 4 Four Vectors and Lorentz Transformations
+Lesson 5 Classical Mechanics and Lagrangians
+Lesson 6 Hamiltonian Mechanics
+Lesson 7 Maxwell Equations
+Lesson 8 Electromagnetic Potentials and Gauge Freedom
+Part II Quantum Mechanics
+Lesson 9 Wave Functions and Hilbert Spaces
+Lesson 10 Operators and Observables
+Lesson 11 Schrodinger Equation
+Lesson 12 Momentum and Position
+Lesson 13 Angular Momentum
+Lesson 14 Spin and Pauli Matrices
+Lesson 15 Perturbation Theory
+Lesson 16 Identical Particles
+Part III Relativistic Quantum Mechanics
+Lesson 17 Klein Gordon Equation
+Lesson 18 Why the Schrodinger Equation Is Not Enough
+Lesson 19 Dirac Equation
+Lesson 20 Gamma Matrices
+Lesson 21 Dirac Spinors
+Lesson 22 Antiparticles
+Lesson 23 Relativistic Probability and Current
+Part IV Classical Field Theory
+Lesson 24 Fields as Dynamical Systems
+Lesson 25 Lagrangian Density
+Lesson 26 Euler Lagrange Equations for Fields
+Lesson 27 Noether Theorem
+Lesson 28 Continuous Symmetries
+Lesson 29 Conserved Currents
+Lesson 30 Global U(1) Symmetry
+Part V Quantum Field Theory
+Lesson 31 Why Particles Become Fields
+Lesson 32 Quantizing the Scalar Field
+Lesson 33 Creation and Annihilation Operators
+Lesson 34 Fock Space
+Lesson 35 Quantizing the Dirac Field
+Lesson 36 Anticommutation Relations
+Lesson 37 Quantizing the Electromagnetic Field
+Part VI QED
+Lesson 38 Local U 1 Gauge Symmetry
+Lesson 39 Deriving the Electromagnetic Interaction
+Lesson 40 The Covariant Derivative
+Lesson 41 The QED Lagrangian
+Lesson 42 The Field Tensor
+Lesson 43 Charge as a Coupling Constant
+Lesson 44 The Electron-Photon Vertex
+Part VII Feynman Diagrams
+Lesson 45 Propagators
+Lesson 46 The Electron Propagator
+Lesson 47 The Photon Propagator
+Lesson 48 Interaction Vertices
+Lesson 49 Feynman Rules
+Lesson 50 Scattering Amplitudes
+Lesson 51 External Spinors and Polarization
+Lesson 52 Momentum Conservation
+Part VIII Real Calculations
+Lesson 53 Electron-Muon Scattering
+Lesson 54 Electron-Electron Scattering
+Lesson 55 Electron-Positron Annihilation
+Lesson 56 Compton Scattering
+Lesson 57 Pair Production
+Lesson 58 From Amplitude to Cross Section
+Lesson 59 Decay Rates
+Lesson 60 Experimental Predictions
+Part IX Quantum Corrections
+Lesson 61 Loop Diagrams
+Lesson 62 Vacuum Polarization
+Lesson 63 Electron Self-Energy
+Lesson 64 Vertex Corrections
+Lesson 65 Ultraviolet Divergences
+Lesson 66 Regularization
+Lesson 67 Renormalization
+Lesson 68 Running Electric Charge
+Lesson 69 Renormalization Group
+Part X Deep QED
+Lesson 70 Gauge Fixing
+Lesson 71 Ward Identities
+Lesson 72 Gauge Invariance
+Lesson 73 Infrared Divergences
+Lesson 74 Soft Photons
+Lesson 75 The Anomalous Magnetic Moment
+Lesson 76 Lamb Shift
+Lesson 77 Vacuum Polarization and Precision
+Lesson 78 Precision Tests of QED
+Part XI Beyond the Basic Course
+Lesson 79 Path Integrals
+Lesson 80 Generating Functionals
+Lesson 81 Effective Actions
+Lesson 82 Functional Methods
+Lesson 83 Feynman Rules from the Path Integral
+Lesson 84 QED at Finite Temperature
+Lesson 85 QED in External Fields
+Lesson 86 Connection to the Standard Model
+Glossary of symbols
+Course capstone
+Consolidated formula index
+Bibliography
+--- CHECKS ---
+NO   Start from the objects already in hand
+NO   __QEDCourseTOC_END__
+NO   press F9
+NO   precision QED
+HAS  (4π)³
+NO   (4π)^3
+HAS  (eE)²/(4π)³
+NO   (eE)² / (4π)³
+HAS  4π³
+HAS  α/(2π)
+HAS  Copyright
+HAS  Bibliography
+HAS  How to read this book
+HAS  one-loop QED
+HAS  Schwinger
+HAS  Uehling
+--- STYLES ---
+Normal 4778
+Heading 2 1911
+List Bullet 1164
+List Number 590
+Heading 3 526
+Heading 1 104
+Title 1
+Subtitle 1
+--- OPENING ---
+[Title] Complete Quantum Electrodynamics Course
+[Subtitle] From mathematical foundations to one-loop QED
+[Normal] A calculation course from complex numbers to a=α/(2π), the running of α, and the Lamb and Schwinger mechanisms
+[Normal] First edition, 2026
+[Heading 1] Copyright
+[Normal] Complete Quantum Electrodynamics Course
+[Normal] From mathematical foundations to one-loop QED
+[Normal] First edition, 2026
+[Normal] © 2026 the author. All rights reserved. Independently published. No ISBN has been assigned to this file. Permission is granted to the purchaser to print one copy for personal study. Redistribution of the digital file is 
+[Normal] Units throughout: ℏ = c = 1, Heaviside–Lorentz, mostly-minus metric g = diag(1, −1, −1, −1). The electron charge in the vertex is +ieγ^μ as derived in Lesson 44. α = e²/4π ≈ 1/137.036 at vanishing momentum transfer.
+[Normal] This book derives tree-level QED processes, one-loop mass and charge renormalization, the running of α for one lepton, the Ward identity, infrared cancellation, Dirac g = 2, Schwinger’s a = α/(2π), the leading Lamb mecha
+[Heading 1] How to read this book
+[Normal] Work with pencil and paper. Attempt each worked example before reading its answer, and the exercises before the solutions. Solutions sit at the end of the lesson that posed them.
+[Normal] Three routes:
+[List Bullet] Lessons 1–37, the foundation, if complex numbers, Dirac matrices, or canonical quantization are not yet automatic. Plan on 150–250 hours.
+[List Bullet] Lessons 38–60, the QED spine, if the foundation is already in hand. Start at Lesson 38. The last tree-level result is Compton’s (1/4)Σ|ℳ|² = −2e⁴(s/u+u/s) and the conversion to a cross section. Plan on 80–120 hours.
+[List Bullet] Lessons 61–86, one-loop QED and the path-integral language. Do not skip 53–57; later chapters use those amplitudes. Plan on 80–120 hours. The last derived numbers are a = α/(2π), the Lamb mechanism at ~10³ MHz, and Γ/V =
+[Normal] A reader who wants only the Feynman rules and tree processes can stop after Lesson 60. A reader who wants renormalization can stop after Lesson 69. Lessons 79–86 re-derive the same rules in the path integral and place QE
+[Normal] Do not start this book as a first course in calculus. Do start it as a first course in QED if linear algebra and ordinary quantum mechanics are willing to be rebuilt rather than assumed.
+[Heading 1] Table of Contents
+[Normal] Click any entry to jump. Page numbers appear in a printed copy; this table lists the course in reading order.
+[Normal] How to read this book
+[Normal] Lesson 1 Complex Numbers and Linear Algebra
+[Normal] Part I Prerequisites
+[Normal] Lesson 2 Calculus and Differential Equations
+[Normal] Lesson 3 Special Relativity
+[Normal] Lesson 4 Four Vectors and Lorentz Transformations
+[Normal] Lesson 5 Classical Mechanics and Lagrangians
+[Normal] Lesson 6 Hamiltonian Mechanics
+[Normal] Lesson 7 Maxwell Equations
+[Normal] Lesson 8 Electromagnetic Potentials and Gauge Freedom
+[Normal] Part II Quantum Mechanics
+[Normal] Lesson 9 Wave Functions and Hilbert Spaces
+[Normal] Lesson 10 Operators and Observables
+[Normal] Lesson 11 Schrodinger Equation
+--- L75 sample ---
+Lesson 75 The Anomalous Magnetic Moment
+Lesson 76 Lamb Shift
+Lesson 77 Vacuum Polarization and Precision
+Lesson 78 Precision Tests of QED
+Part XI Beyond the Basic Course
+Lesson 79 Path Integrals
+Lesson 80 Generating Functionals
+Lesson 81 Effective Actions
+Lesson 82 Functional Methods
+Lesson 83 Feynman Rules from the Path Integral
+Lesson 84 QED at Finite Temperature
+Lesson 85 QED in External Fields
+--- L85 sample ---
+Lesson 85 QED in External Fields
+Lesson 86 Connection to the Standard Model
+Glossary of symbols
+Course capstone
+Consolidated formula index
+Bibliography
+Lesson 1 Complex Numbers and Linear Algebra
+How to use this lesson
+Quantum electrodynamics is written in the language of complex vector spaces and linear operators. This lesson develops that language from first principles. The emphasis is not only on calculation, but on recognizing the structures that retu
+Work through the examples with pencil and paper. Attempt the exercises before reading the solutions. A learner comfortable with algebra can complete the lesson in six to ten focused hours; mastery comes from repeating the calculations until
+--- L76 generator? ---
+Lesson 76 Lamb Shift
+Lesson 77 Vacuum Polarization and Precision
+Lesson 78 Precision Tests of QED
+Part XI Beyond the Basic Course
+Lesson 79 Path Integrals
+Lesson 80 Generating Functionals
+Lesson 81 Effective Actions
+Lesson 82 Functional Methods

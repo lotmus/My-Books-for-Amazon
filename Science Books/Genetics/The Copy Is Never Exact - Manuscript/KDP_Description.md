@@ -7,15 +7,24 @@
 
 ## Product description
 
-A woman mails two millilitres of saliva. Inside it are a few hundred thousand cells, and inside each cell are two copies of a text about 3.1 billion letters long. The laboratory will not read all of it. It will look at a few hundred thousand positions and send back a web page: ancestry, a handful of risks, a second cousin in Ohio. That page is where this book starts, and it is not where the science stops.
+A woman mails two millilitres of saliva. The laboratory will not read all of it. It will look at a few hundred thousand positions and send back a web page: ancestry, a handful of risks, a second cousin in Ohio. That page is where this book starts, and it is not where the science stops.
 
-The Copy Is Never Exact is the story of that text. How a shape built in Cambridge in 1953 explained how living things copy themselves. How a friar's peas, a bottle of fruit flies, and a sheep named Dolly each showed a different part of the same fact: the copy is never perfect, and everything that evolves, including us, is downstream of the errors. How we learned to read the letters, then to cut them, then to rewrite a single one in a living patient.
+The Copy Is Never Exact is the story of that text. How Watson and Crick, reading Rosalind Franklin's X-ray photographs, built a shape in 1953 that explained how living things copy themselves. How a friar's peas, a bottle of fruit flies, and a sheep named Dolly each showed a different part of the same fact: the copy is never perfect, and everything that evolves, including us, is downstream of the errors. How we learned to read the letters, then to cut them, then to rewrite a single one in a living patient. The later chapters reach CRISPR, the spit kit on the kitchen table, and the coming edit of the copy, without promising anyone a cure.
 
 The book stays with the numbers. One parental set is about 3.1 billion letters. A cell holds two sets, about 6.2 billion, packed into a nucleus a tenth the width of a hair. About one and a half percent of the text codes for protein. About 20,000 genes, not the 100,000 the genome project was sold on. A spit kit reads a fraction of a percent. A clinical genome can still not tell you how tall your child will be, or how long you will live.
 
 It also stays with the argument. What we can already correct: sickle cell, a few rare diseases, a bespoke edit for one baby in 2025. What we said we would not do: alter an embryo so the change passes to the children. What "superhuman" usually turns out to be: a trade, already priced by evolution, not a free upgrade. The last chapter sorts the next hundred years into what is already happening, what is the best current account, and what is only allowed.
 
 Written for a reader who never studied biology. Every term is explained in the sentence that first uses it. Claims are marked when their status matters: settled, working, or speculative. The author's own views are marked as his.
+
+## BISAC
+
+Science / Life Sciences / Genetics
+Science / History
+
+## Keywords
+
+human genome, CRISPR, DNA test, spit kit, Mendel, cloning, gene editing
 
 ## Photo credits (for the copyright page, not the sales description)
 

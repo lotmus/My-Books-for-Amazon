@@ -45,27 +45,17 @@ Official sources
 
 # 1 Write one kind of book
 
-The next chapter assumes a manuscript exists. If yours does not, write it here, before you shop for a cover. A price has nothing to multiply until the book has a form.
+June’s book is a mystery. She calls it The Guest on Sunday. Maren is her detective. One ferry office, one missing guest, one week. That is a form. If your book is also one kind of thing, write the sentence you could print under the title and go to chapter 2.
 
-Pick one form and put it in a sentence you could print under the title.
+June’s sentence is: a gentle mystery, a small town, no gore.
 
-A textbook is for a reader who must do the next step. One meaning per word. A result they can use. Practice. Keep the order a student in that subject already expects, unless a different order clearly teaches better.
+Then write one page for the path. What the reader knows at the start. What they know at the end. Fill the chapters inside that page. If you can retell the book by listing someone else’s chapters, you copied a table of contents. If you remember a clue from a book you admire, invent another. June’s chess piece has to be hers.
 
-A popular book is for a reader who can leave. Voice, the pictures you choose, and the path from what they believe now to what they can see at the end are the product. Worksheets are not.
-
-Write one page of the words you will use, and the one meaning each word has in this book. If you learned the subject from two teachers, they used two names. Pick one.
-
-Write one page for the path before you draft chapters. For a textbook, that page is the list of things the reader can do at the end. For a popular book, it is the belief at the start and the sight at the end. Fill chapters inside that page. Do not invent a new shape every time a paragraph gets interesting.
-
-If you can retell your book by listing someone else’s chapters, you copied a table of contents. If you remember an example from a book you admire, it is still that book’s example. Write a new one, with your numbers or your case.
-
-Check any figure a reader could look up. If you invent a price, a rate, or a profit inside your own book, label it as a teaching example. The keep numbers in this guide are labeled that way on purpose.
-
-A book in one form is easier to price, easier to describe in two lines, and easier to follow with a second book that has its own keep. A mix of textbook and chat is hard to sell because the buyer does not know what they paid for.
+If you are not writing fiction, the same rule is stricter, and it is a note, not the door of this book. A textbook needs one meaning per word, a result the reader can use, and practice. A popular explanation needs a voice and a path a person can leave. Do not mix them in one file. Keep a familiar teaching order unless a different order teaches better. Then come back. The rest of this book is how the book, whichever kind it is, gets paid for.
 
 ## Your action
 
-One sentence for the form. One page of words. One page for the path. Then return to chapter 2. Do not buy a cover for a manuscript that is still both kinds of book at once.
+One sentence for the form. One page for the path. Then chapter 2. Do not buy a cover while the manuscript is still two kinds of book.
 
 # 2 Name the reader
 
@@ -85,6 +75,16 @@ Here is a filled pair for a novel.
 
 This book entertains readers who like a gentle small-town mystery and a heroine who solves it without a gun. It is a poor fit for people who want a thriller, a romance with no puzzle, or a joke on every page.
 
+June looked at five books on 27 September 2026. These are teaching examples of a shelf, with ordinary prices, not a sale price. They are not a list to paste onto your own page.
+
+The Lakeside Inn Mystery, $4.99
+A Sleuth on the Night Desk, $3.99
+No Gore in the Village, $4.99
+The Locked Pantry, $2.99
+Small Town, Quiet Case, $3.99
+
+These are other people’s books. June’s own title is The Guest on Sunday, and it is not on this shelf. The phrases she later uses in an ad are words from these five titles: lakeside inn mystery, sleuth on the night desk, no gore in the village, the locked pantry, small town quiet case.
+
 Here is a filled pair for a guide.
 
 This book helps a first-time Kindle author set a price, ask for an honest review, and decide what not to spend. It is a poor fit for people who want a guarantee of sales or a tour of every KDP button.
@@ -95,17 +95,9 @@ The second sentence is as useful as the first. It stops you from begging the wro
 
 Two sentences. Five books a reader like yours already buys. One sentence about what your book must contain so the promise is true.
 
-## Money idea
-
-Those two sentences are the first two lines of the description, the test of the cover, and the reason someone pays. If you cannot say them, an ad has nothing to sell.
-
-## This week
-
-Write the two sentences today. Tomorrow, find five books aimed at that same reader. Write their usual price, not a one-day sale price, and the date you looked.
-
 ## Your action
 
-If the two sentences are still blank on Friday, do not buy traffic.
+Write the two sentences before Friday. If they are blank, do not buy traffic.
 
 # 3 The number you keep
 
@@ -151,24 +143,19 @@ Teaching example only, not a quote for your book. A $14.99 paperback at a 60 per
 
 Your price, the band it sits in, and the keep written in dollars and cents.
 
-## This week
+## Your action
 
-Open KDP’s pricing page and write down the estimate for your real file. If you do not have a file yet, use the $2.99 and $3.99 lines above as practice, and label them practice.
-
+Open KDP’s estimate for your real file. Do not use $0.99 as the price of a book you spent months on.
 
 Before you spend, fill June’s three lines with your own.
 
-Keep: about $2.58 on a $3.99 ebook in the chapter 3 example, or the estimate KDP shows for your file.
+Keep: about $0.35 at $0.99 today. The test is $3.99, about $2.58, if the file matches the chapter 3 example.
 
 Reader: the two sentences from chapter 2.
 
-Date: the one change, and the day you will look.
+Date: raise the ebook from $0.99 to $3.99, change nothing else, and look in four weeks.
 
 If one line is still blank, do not pay yet.
-
-## Your action
-
-Do not pick $0.99 for a book you spent months on unless it is a short extra pointing at a longer book. At 35 percent, $0.99 keeps about $0.35. You would need many sales to match one $3.99 sale.
 
 # 4 A page a stranger can trust
 
@@ -182,9 +169,9 @@ Here is a weak opening.
 
 It names no reader and no promise. “Everyone” is the sentence chapter 2 told you not to write.
 
-Here is a usable opening for the same kind of book.
+Here is the opening of June’s book, The Guest on Sunday. Maren is her detective. The inn on the comparison shelf belongs to someone else.
 
-“Maren keeps the night desk at a lakeside inn. When a guest vanishes and leaves a chess piece on the blotter, she has until Sunday to find him, without scaring off the wedding party in the dining room. A gentle mystery for readers who want a small town, a puzzle, and no gore.”
+“Maren keeps the ferry office. When a guest vanishes and leaves a chess piece on the blotter, she has until Sunday to find him, without scaring off the wedding party in the dining room. A gentle mystery for readers who want a small town, a puzzle, and no gore.”
 
 The second version can be priced. The first version cannot.
 
@@ -192,17 +179,9 @@ Read your first two sentences out loud. If a stranger cannot say who the book is
 
 Then open the sample on your phone. Count how many screens appear before something the reader came for. Front matter is fine. A tunnel of copyright, praise, and a preface is a reason to close the sample.
 
-## Money idea
-
-A clear page sells while you are asleep. A muddy page makes you pay for clicks that never become a keep of $1.88 or $2.58.
-
-## This week
-
-Write a bad two-sentence description, then a true one, using your own book. Show both to one person who has not read the manuscript. Ask only, “Who is this for?”
-
 ## Your action
 
-If their answer is wrong, fix the sentences. Do not buy an ad to explain the page.
+Show June’s two lines, or your own, to one stranger. If they cannot say who the book is for, fix the lines before you buy an ad.
 
 # 5 Cover, keywords, and categories
 
@@ -214,19 +193,19 @@ The author’s name should not be the largest words unless strangers already see
 
 Do not put a sentence on the cover that you cannot see at thumbnail size. Do not depend on a color alone to carry the meaning. The cover will be seen in gray on some devices.
 
-Keywords are the phrases a reader types. On the KDP details page you get a set of keyword boxes. Fill them with phrases, not single vague words like “book” or “fiction.” Use the words your reader would type: “small town mystery,” “cozy mystery no gore,” “first kindle book pricing.” Do not repeat the title in every box. Do not type claims you cannot stand behind, such as “bestseller” or “guaranteed income.” If the form on the page has changed since 27 September 2026, follow the form, not this paragraph.
+Keywords are the phrases a reader types. On the KDP details page you get a set of keyword boxes. Fill them with phrases, not single vague words like “book” or “fiction.” Use words a reader would type, the way June’s phrases are words from the titles in chapter 2. Do not repeat the title in every box. Do not type claims you cannot stand behind, such as “bestseller” or “guaranteed income.” If the form on the page has changed since 27 September 2026, follow the form, not this paragraph.
 
 Categories are shelves. The biggest shelf hides a new book. Look at five books your reader already buys and note where they sit. Choose the closest true shelves KDP offers, not the most famous shelf in the store. You can ask KDP to add categories later. Ask for shelves that are true. A book in the wrong shelf gets the wrong readers, and the wrong readers do not pay twice.
 
 Here is a filled keyword set for the gentle mystery. It is an example of the kind of phrase, not a list to paste onto a different book.
 
-small town mystery
-cozy mystery female sleuth
-mystery without gore
 lakeside inn mystery
+sleuth on the night desk
+no gore in the village
+the locked pantry
+small town quiet case
 gentle puzzle novel
 weekend mystery book
-chess clue mystery
 
 None of those is the title. Each is a way a reader might search. If a phrase does not fit the book, it does not go in the box, even if it is popular.
 
@@ -238,23 +217,15 @@ Must not look like: a romance cover, a thriller with a gun, a textbook.
 Three words on the image at most, besides the title and your name.
 I will reject it if I cannot read the title on my phone’s lock screen.
 
-## Money idea
-
-Being findable is a price decision. A book nobody can classify does not get to use its keep number at all.
-
-## This week
-
-Do the thumbnail test. Write seven phrases a reader might type. List two true categories and the five books that convinced you.
-
 ## Your action
 
-If the title fails the thumbnail test, fix the cover before launch week. A new cover later is allowed. Launching blind is expensive.
+If the title fails on a phone, fix the cover before launch week.
 
 # 6 Ask for an honest review
 
 A new book has little proof. An honest review is one piece of proof. It is not a bill.
 
-You may send a free advance copy. Say that a review is welcome and optional. Do not ask for stars. Do not offer a gift card, a refund, or a favor in exchange for a kind review. Amazon has said a free or discounted copy is allowed only when you do not require a review and do not try to steer it. Extra incentives can wipe out that exception. Read the current Customer Reviews page before you send the invitation. [1] [2]
+You may send a free advance copy. Say that a review is welcome and optional. Do not ask for stars. Do not offer a gift card, a refund, or a favor in exchange for a kind review. Amazon has said a free or discounted copy is allowed only when you do not require a review and do not try to steer it. Extra incentives can wipe out that exception. Read the current Customer Reviews page before you send the invitation. [1] [2] A reader on Amazon.com generally must have spent $50 with a credit or debit card in the past 12 months before they can post. Promotional discounts do not count toward that $50. A willing reader who has not spent that much still cannot post. That is the platform, not a failed invitation. You do not review your own book. A friend, relative, or business partner is a conflict, not a useful first review. [2]
 
 Do not buy a pack of reviews. Do not trade reviews with other authors as a deal. Do not ask a reader to change a star. Do not make a second account to post what the first account could not.
 
@@ -272,17 +243,9 @@ Here is a clean line.
 
 If a review never appears, check the store, the edition, and whether reviews are open yet. A preorder page is not always a place a reader can post. Do not tell anyone to make a new account to get around a block.
 
-## Money idea
-
-Reviews do not deposit the keep. They help the next stranger decide to pay it. Ten honest notes are worth more than a bought pile that can get the book pulled.
-
-## This week
-
-Read your invitation and highlight every sentence that sounds like a trade. Delete those sentences.
-
 ## Your action
 
-If a service promises a fixed number of favorable reviews, do not pay them.
+Delete any invitation line that sounds like a trade. Do not pay a service that promises stars.
 
 # 7 Find readers and send the copy
 
@@ -296,32 +259,21 @@ Teaching example, not a rate you are owed. You invite 40 suitable people. 24 acc
 
 Make the file easy to open. Test the link yourself, including any expiry. Name the file with the title and the date. Send it to one willing person before you send it to the group.
 
+June sent The Guest on Sunday to a man who had asked for a thriller. He wrote back that the chess piece wasted his evening. She had skipped the sentence about who the book is not for. The file cost her an hour and taught her nothing about Maren.
+
 Send four notes at most. A confirmation. The file. After publication, when reviews can be posted, the store link. One gentle follow-up a week or two later. Then stop. If your file was broken, fix it and extend the time. Do not send the follow-up to someone who could not open the book.
 
 If you are in KDP Select, or about to join, read the exclusivity rules before you email the ebook. A public full-book giveaway can break those terms. Ask KDP if you are unsure. [5]
 
-## Money idea
-
-The right thirty people are worth more than a thousand strangers. They are the ones who can pay the keep again on book two.
-
-## This week
-
-Pick two places to invite people. Write the limit of free copies you can support. Test one download.
-
-
 Before you spend, fill June’s three lines with your own.
 
-Keep: about $2.58 on a $3.99 ebook in the chapter 3 example, or the estimate KDP shows for your file.
+Keep: $0. A free copy leaves nothing. The paid ebook is a separate line on the sheet.
 
 Reader: the two sentences from chapter 2.
 
-Date: the one change, and the day you will look.
+Date: send no more than the free copies you can support, and look when that limit is reached.
 
-If one line is still blank, do not pay yet.
-
-## Your action
-
-Stop inviting when you hit the limit. More free copies are not free to you. They cost time you could spend on a book someone pays for.
+If one line is still blank, do not pay yet. Stop when you hit that number.
 
 # 8 Thirty-two ways a book can pay you
 
@@ -334,199 +286,264 @@ Step 2. Do the smallest version that can teach you something. A sentence of book
 Step 3. Pick the day you will look. Two weeks, or four. Write it down before you start.
 Step 4. On that day, keep the idea or stop it, in one sentence on the money sheet. “Held the $3.99 price.” “Stopped the free days. No second book.” Do not start the next idea until that sentence exists.
 
-Each idea below says what to do, how a sale relates to the keep, and when to skip it. The keeps are the chapter 3 examples: about $0.35 at $0.99, about $1.88 at $2.99, about $2.58 at $3.99, about $3.28 at $4.99, about $5.38 at $7.99. Your file’s estimate wins over these rounds.
+Each idea below is three lines. What it is. The smallest version. The number that means stop. The keeps, when a line needs one, are the chapter 3 examples. After June raises her price, her ebook keep is about $2.58. Your file’s estimate wins over that round.
 
 ## 1 Charge a real ebook price
 
-Put a normal-length book in the 70 percent band if you are eligible. A $3.99 sale that keeps about $2.58 can beat several $0.99 sales that keep about $0.35. Skip $0.99 as the main price unless the book is a short door to a longer one.
+A normal book belongs in the 70 percent band when you qualify. June’s test is $3.99, about $2.58 kept, against $0.99, about $0.35.
 
-This month: if you qualify for 70 percent, set the ebook at $3.99 and label the keep “about $2.58, practice” until KDP shows your file’s estimate. Do not change the cover in those same two weeks.
+Smallest version: change only the price, for four weeks.
+
+Stop if the keep on the sheet is lower than it was at the old price.
 
 ## 2 Make book one the handshake
 
-Price book one at $2.99 (about $1.88 kept) and book two at $3.99 or $4.99 (about $2.58 or $3.28). The first book is easier to try. The second is where the catalog starts to pay. Skip this if book two does not exist and you have no date you can keep.
+Book one can be the book a stranger tries. Book two is where the catalog pays. After June’s change, book one already keeps about $2.58. Do not cut it to make book two look expensive.
 
-This month: write book one’s price and book two’s price on one line. If book two has no date you can keep, leave book one at its normal price.
+Smallest version: write both prices on one line.
+
+Stop if book two still has no date you can say out loud.
 
 ## 3 Write the next book while this one is still warm
 
-A second book is the ordinary way a single sale becomes two. Start it with one sentence this week: who it is for, and why a reader of book one wants it. Skip a sequel that repeats book one. A reader who wanted a new problem, or a new case, will not pay again for the same chapter.
+A second sale is the ordinary way one reader pays you twice.
 
-This month: write one sentence for book two. Say who it is for, and why a reader of book one wants it. Put that sentence at the end of book one.
+Smallest version: one sentence at the end of book one, saying who book two is for.
+
+Stop if that sentence could describe book one again.
 
 ## 4 Use a series page
 
-When more than one book shares a reader, put them in a series so a shopper who likes one can see the others. The keep does not change. The chance of a second keep goes up. Skip a series label if the books do not belong together. A fake series annoys the reader who came for a continuation.
+A series page lets a shopper who liked one book see the next. The keep per sale does not change. The chance of a second keep does.
 
-This month: if two finished books share a reader, put them in one series and check that each page links to the other. One book does not need a series button.
+Smallest version: two finished books, each page linking to the other.
+
+Stop if a reader of book one would not recognize book two as the next thing they wanted.
 
 ## 5 Sell a box set after three books
 
-Three related books can also be one purchase. Three sales at the $3.99 keep of about $2.58 are about $7.74 if the reader buys them one by one. A set priced at $7.99, same 2 MB example, no tax, keeps 0.70 × ($7.99 − $0.30), about $5.38. The reader pays less. You keep less than three separate sales. Take the set only if you want that $5.38. Skip a set made of one finished book and two promises.
+Three sales at about $2.58 keep about $7.74. A set at $7.99, same 2 MB example, no tax, keeps 0.70 × ($7.99 − $0.30), about $5.38. Take the set only if you want that $5.38.
 
-This month: add the three keeps, then price the set so one purchase still leaves a keep you would accept. Do not build a set from unfinished files.
+Smallest version: three finished files, and that sum written down.
+
+Stop if the set keep is a number you would not accept, or if two of the three books are still promises.
 
 ## 6 Add a paperback
 
-Many readers will pay a higher sticker for paper. You do not keep the sticker. Use chapter 3’s shape: rate times list price, minus print cost. Skip paperback if you have not run the calculator. A pretty $14.99 price can keep less than the ebook if the book is long.
+You keep the rate times the list price, minus print cost. Not the sticker.
 
-This month: run one paperback price through the calculator. Write list price, print cost, and keep. Order a proof only if that keep is worth printing.
+Smallest version: one price in the calculator, then a proof if the keep is worth printing.
+
+Stop if that keep is smaller than the ebook’s about $2.58 and nobody has asked for paper.
 
 ## 7 Add large print
 
-Same words, larger type, another listing, often a higher price and a higher print cost. It serves readers who want the bigger type. Run the calculator again. Skip it if your audience is not asking and the print cost would leave you cents.
+Same words, larger type, another listing, a higher print cost.
 
-This month: copy the paperback setup, enlarge the type, and run the calculator again. List it only if the keep survives the higher print cost.
+Smallest version: copy the paperback setup, enlarge the type, run the calculator again.
+
+Stop if the keep falls below the ebook keep.
 
 ## 8 Try Kindle Unlimited on purpose
 
-KDP Select is a 90-day choice. You can be paid for pages read, and you agree not to sell that ebook elsewhere during the term. It can suit fiction and some how-to books that readers finish. It is a bad fit if you need to sell the ebook on other stores. Read the current terms and the renewal setting. Enrollment is not a promise of reads. You cannot lay a page-read next to a $2.58 sale using this book. Amazon’s per-page rate changes, and it is in your reports, not here. Until you have read that rate, Select is a choice about where the ebook is sold, not a second keep. [5]
+Select is 90 days. Page reads may pay you. The ebook stays out of other stores. You cannot lay a page read next to a $2.58 sale with the numbers in this book. The rate is in your reports. [5]
 
-This month: read the current Select terms and the renewal box. Join only if you can skip other ebook stores for 90 days. Write the end date on the sheet.
+Smallest version: read the terms and the renewal box, and write the end date.
+
+Stop at day 90 if the page-read money is not worth the sales you gave up.
 
 ## 9 Run a short countdown, then restore the price
 
-A countdown is a visit. The everyday price is the business. A qualifying countdown can sometimes keep the 70 percent rate below $2.99. Check enrollment, marketplace, and price history before you schedule one. [6] Skip it if you have no link to a second book and no plan for what the visit is supposed to prove.
+A countdown is a visit. The everyday price is the business. A qualifying countdown can sometimes keep 70 percent below $2.99. Check the rules. [6]
 
-This month: confirm you qualify, schedule a few days, and write the day the old price comes back. No second book linked means no countdown.
+Smallest version: a few days, and the morning the full price returns written on the sheet.
+
+Stop if you cannot name that morning, or if book two is not linked.
 
 ## 10 Make book one free only when book two is ready
 
-A free download is not a sale and keeps $0 that day. It can pay only if some of those readers buy something else. Put the paid next book in the back and on the series page before the free days. Skip a free run of your only book. You gave away the only keep you had.
+A free download keeps $0. It pays only if some of those readers buy something else.
 
-This month: confirm book two is live and linked. Only then schedule free days.
+Smallest version: book two live and linked, then the free days.
+
+Stop if book two is not live.
 
 ## 11 Sell a workbook beside the main book
 
-A short book of checklists and prompts can be its own $2.99 or $4.99 listing, with its own keep of about $1.88 or $3.28 in the chapter 3 example. The main book must still be complete without it. Skip a workbook that withholds a step the main book promised.
+A short book of prompts can be its own listing, at a keep of about $1.88 or about $3.28 in the chapter 3 example. The main book must still be complete.
 
-This month: list ten prompts that are not already chapters of the main book. If you cannot, you do not have a workbook.
+Smallest version: a list of ten prompts that are not already chapters.
+
+Stop if you cannot list ten.
 
 ## 12 Sell a one-sitting extra
 
-A field guide, a recipe card set, a troubleshooting list. Small, finished, and priced so the keep is not a few cents. Skip it until the main book’s page is clear. A second muddy page does not fix the first.
+A field guide or a troubleshooting list, finished, and priced so the keep is not a few cents.
 
-This month: name the extra and a price in the 70 percent band. Do not draft it until the main book’s first two lines are clear.
+Smallest version: one sentence and a price in the 70 percent band.
+
+Stop if you cannot say it in one line, or if the main book’s first two lines are still unclear.
 
 ## 13 Teach the chapter once
 
-A one-hour class, a lunch talk, or a live lesson can be a fee plus book sales. Ten people in a room can be worth more than ten ebook keeps. You still have to deliver the hour. Skip this if you dislike teaching or cannot name ten people who would care.
+An hour in a room can be a fee plus book sales. Ten seats can be worth more than ten keeps of about $2.58.
 
-This month: pick the chapter, write a one-hour outline, and name the fee. The test is whether anyone pays the fee, not whether the ebook moved.
+Smallest version: one chapter, a one-hour outline, and a fee.
+
+Stop if you cannot name ten people who would care.
 
 ## 14 Sell a template pack from your own site
 
-For a how-to, a spreadsheet or a set of prompts can be a separate payment. Say what it is. The book a reader bought has to stand alone. Skip it if the “pack” is the real book chopped out and sold again.
+A spreadsheet or a set of prompts, sold beside the book. The book has to stand alone.
 
-This month: name the files and the price. Read the main book and confirm a buyer who never buys the pack still received what the book promised.
+Smallest version: the file names and the price, written down.
+
+Stop if a buyer who never buys the pack did not get what the book promised.
 
 ## 15 Translate one book that already sells
 
-One language you can check, or pay someone you can check, is a second listing of a book strangers already want. A bad translation creates refunds, which take the keep back. Skip translation of a book that has not found its readers in the first language.
+A second language is a second listing of a book strangers already want. A bad translation comes back as a return, and a return takes the keep back.
 
-This month: choose a language only if the book already has readers. Have one chapter read by someone who knows that language before you pay for the rest.
+Smallest version: one chapter, read by someone who knows that language, before you pay for the rest.
+
+Stop if the book has no readers yet.
 
 ## 16 Record audio after the ebook has readers
 
-Audio is a second product with its own cost. It is a poor first bet. When people finish the ebook and ask, look at a narrator or a careful self-recording. Skip audio while the ebook page is still unclear.
+Audio is a second product. It is a poor first bet.
 
-This month: ask people who finished whether they would listen. If they would not, do not hire a narrator.
+Smallest version: ask people who finished whether they would listen.
+
+Stop if they would not.
 
 ## 17 Open a preorder you can finish
 
-A preorder lets a reader pay before the day. You must deliver the file on time. The keep arrives under the preorder rules for that marketplace. Skip a preorder if the book is still a pile of notes. A missed date costs trust you needed for book two.
+A reader can pay before the day. You must deliver the file on time.
 
-This month: open a preorder only if the file is already done. A date you hope to meet is not a date you can keep.
+Smallest version: a date, and a file that is already done.
+
+Stop if the file is not done.
 
 ## 18 Choose a shelf where you can be seen
 
-Two true categories beat one giant category where you are invisible. Findability is what lets the keep happen at all. Skip a category that is only “popular” if your book is not that kind of book. Wrong readers do not become series readers.
+Two true categories beat one giant shelf where you are invisible.
 
-This month: write two categories and the five books that sit on them. Change your categories only if those books are truly for your reader.
+Smallest version: two categories, and the five books that sit on them.
+
+Stop if those five are not books your reader already buys.
 
 ## 19 Put the promise in the first two lines
 
-Use the sentences from chapter 2 and the before-and-after from chapter 4. A clearer description does not change the keep per sale. It changes how many strangers get as far as the buy button. Skip clever lines that hide who the book is for.
+The sentences from chapter 2, in the description. They do not change the keep. They change how many people reach the button.
 
-This month: put the chapter 2 sentences in the first two lines. Show them to one stranger. If they cannot say who the book is for, rewrite the lines.
+Smallest version: show the two lines to one stranger.
+
+Stop rewriting when that person can say who the book is for.
 
 ## 20 Leave the old books up
 
-A quiet month can still pay you from books you finished last year, if they are linked and still good. That is the backlist. Skip leaving up a book whose sample is broken or whose promise you no longer stand behind. Fix it or unpublish it.
+The backlist can pay you in a quiet month, if the samples still work.
 
-This month: open each old sample on your phone. Fix a broken sample this week, or unpublish that book.
+Smallest version: open each old sample on your phone.
+
+Stop leaving a book up when the sample is broken. Fix it this week or unpublish it.
 
 ## 21 Write one seasonal short
 
-A holiday story, a new-year checklist, a summer guide. Price it as a short, in or near the band that keeps more than cents, and link the main book. Skip a seasonal book that misses the season. A Christmas story in February is a different, harder sale.
+A holiday story or a summer guide, linked to the main book, live while the season is alive.
 
-This month: name the season and the date the short must be live. If that date has passed, aim at the next season.
+Smallest version: the season, and the date it must be on sale.
+
+Stop if that date has passed.
 
 ## 22 Price a paperback a library can buy
 
-Some paperbacks are ordered one at a time for a long while. A sale on Amazon’s own store often uses a higher rate than expanded distribution, which is the path many library sales use. In the chapter 3 illustration, $14.99 at 60 percent, after a $4 print cost, keeps about $5. The same book at a 40 percent expanded-distribution rate keeps (0.40 × $14.99) − $4, about $2. Those rates are the usual ones to check, not a promise. The calculator wins. One library order will not pay your rent. Skip a price so low that print cost eats it.
+Expanded distribution, the path many libraries use, pays a lower rate than Amazon’s own store. In the chapter 3 illustration, $14.99 at 60 percent keeps about $5 after $4 to print. At 40 percent it keeps (0.40 × $14.99) − $4, about $2. The calculator wins.
 
-This month: run the calculator and write the keep. If print cost eats the price, raise the price or skip this idea.
+Smallest version: one expanded-distribution price, and the keep written down.
+
+Stop if that keep is about $2 or less and print cost eats the rest.
 
 ## 23 Offer the book to a group you already know
 
-A club, a class, a workplace book may buy several copies, paper or ebook, without an ad. You still follow the store’s rules on discounts and distribution. Skip any deal that asks you to hide the book or to promise grades, income, or reviews.
+A club or a class may buy several copies without an ad.
 
-This month: write one club, class, or workplace you actually know, and offer copies. Do not promise reviews, grades, or income.
+Smallest version: one letter to one group you actually know.
+
+Stop if the offer has to promise reviews, grades, or income.
 
 ## 24 Spend on ads only after the keep is written down
 
-If you do not know the keep, you cannot know whether a click is a donation. Chapter 8 is the sum. Skip ads while the thumbnail fails or the first two description lines are still “a must-read for everyone.”
+A click is a donation until you know the keep. Chapter 9 is the test.
 
-This month: if the keep line is blank, stay out of the ads site. Fill chapter 3 first.
+Smallest version: the keep line, filled, before you open the ads site.
+
+Stop if that line is blank.
 
 ## 25 Sell the ebook in more than one store
 
-If you are not in KDP Select, you may sell the same ebook elsewhere. That is a second door for the same file. You keep whatever that store pays, which you must read on that store’s page, not guess from the Amazon table. Skip this while you are inside a Select term. The exclusivity is the point of that term. [5]
+If you are not in Select, the same file can be sold elsewhere. That store’s keep is on that store’s page, not in the Amazon table. [5]
 
-This month: pick one other store, read its royalty page, and upload only if you are not exclusive. Judge it in 90 days, not in a weekend.
+Smallest version: one other store, and its royalty page, read.
+
+Stop while you are inside a Select term.
 
 ## 26 Write to readers who asked
 
-An email list is a way to offer book two to people who already trusted you. Ask for the address in the back of the book, as a choice, not as a toll. Tell them what the notes will contain. Skip a list you never write to. A dead list does not create a keep.
+A list is a way to offer book two to people who already trusted you. It is a choice, not a toll.
 
-This month: put one honest sentence in the back matter and one place on your own site where a person can join. Send one note when you have something true to say, such as a date you can keep.
+Smallest version: one sentence in the back of the book, and one place to join.
+
+Stop if you never write to them.
 
 ## 27 Add a hardcover only when the calculator leaves a keep
 
-Hardcover is another format, with a higher sticker and a higher print cost. The shape is the same as paperback: rate times price, minus print. Skip it on book one if the paperback proof is not even in your hands yet. A second unfinished format is not a business.
+Hardcover is a higher sticker and a higher print cost. Rate times price, minus print.
 
-This month: run one hardcover price through the calculator. If the keep is smaller than the ebook keep, do not list it yet.
+Smallest version: one price in the calculator.
+
+Stop if that keep is smaller than the ebook’s about $2.58, or if you have not held a paperback proof yet.
 
 ## 28 Publish a second edition for a real reason
 
-A corrected, updated book gives you a true reason to write to past readers. Fix errors. Add a chapter you promised. Do not shuffle sentences and call it new. Skip a “second edition” that exists only to fish for new reviews.
+A real correction gives you a reason to write to past readers. Shuffling sentences does not.
 
-This month: list the three fixes that would make a past reader glad they heard from you. If you cannot list three, you do not have an edition. You have a wish.
+Smallest version: a list of three fixes a past reader would be glad to hear about.
+
+Stop if you cannot name three.
 
 ## 29 Give away a short extra, not the whole book
 
-A reader magnet should be a small piece made for the purpose: a story, a checklist, a scene. It earns its place when people who take it later buy the book. Skip giving away the only book you have. That was idea 10. This one is the short piece that points at the paid book.
+A story or a checklist, made to point at the paid book. Not the only book you have. That was idea 10.
 
-This month: outline the short piece on one page. Do not write it until the paid book’s first two description lines are done.
+Smallest version: the extra, outlined on one page.
+
+Stop if the paid book’s first two lines are not done.
 
 ## 30 Open one more Amazon marketplace
 
-Amazon.com is not the only storefront. UK, Canada, Australia, and others have their own prices and their own rules. Do not copy a US price across and hope. Set the price in that market, read the keep estimate there, and link the same book. Skip opening five countries on the same day. You will not know which one was worth it.
+Another country has its own price and its own estimate. Do not copy the US price across.
 
-This month: pick one country where your reader actually lives, set a price, and write that country’s estimate on the sheet.
+Smallest version: one country where your reader lives, and that estimate on the sheet.
+
+Stop if you are about to open five countries on the same day.
 
 ## 31 Share a bundle with one other author
 
-Two authors can point at each other’s finished books, or sell a small set, if each book truly fits the same reader. No review exchange. No “I praise you if you praise me.” The money is the sale, under each store’s rules. Skip a bundle with a stranger you have not read. You are lending them your reader.
+Two finished books, the same reader, a link, and no review trade.
 
-This month: name one book you would honestly hand your reader. Ask that author if a simple link trade, not a review trade, is welcome. If the answer is no, stop.
+Smallest version: one book you would hand your own reader, and one question to that author.
+
+Stop if you have not read their book, or if they want a review swap.
 
 ## 32 Revisit the backlist price once a year
 
-Once a year, look at each live book. Write the keep. Ask whether the price still matches the chapter 3 band and the reader. Move one price, or move none. Skip a monthly fidget. You will confuse yourself. Story A in this chapter is the shape: one change, one window, one sentence.
+Once a year, write the keep for each live book. Move one price, or move none. Story A is the shape.
 
-This month: if you have an older book, put its current keep on the sheet. Change it only if you can say why in one line.
+Smallest version: the current keep of the oldest book, on the sheet.
+
+Stop if you are changing prices every month.
+
 
 Leave these for later. Mugs. A paid fan club. A big course with no audience. They add work. They rarely add a keep until strangers already want the book.
 
@@ -536,28 +553,19 @@ These are teaching stories. Copy the shape, not the dollars.
 
 Story A, the price. This is June, later in the same month. Her only book is $0.99. The KDP estimate says she keeps about $0.35. In four quiet weeks she sells 20 copies. Keep, about $7. She changes only the price, to $3.99. The estimate now says about $2.58. She does not touch the cover or the ad, because there is no ad. Over the next four weeks she sells 12 copies. Keep, about $31. Fewer sales, more money. She writes that on the sheet and holds the price for another four weeks before she believes it. If the second month collapses, she can go back. One change. One window.
 
-Story B, the paperback. June’s ebook keeps about $2.58 at $3.99. She wants paper. The calculator says a 240-page paperback costs about $4 to print in her marketplace. She tries $14.99 at 60 percent: (0.60 × $14.99) − $4 is about $5. She does not list it at $9.99, because (0.60 × $9.99) − $4 is about $2, less than the ebook, for a heavier object. She orders a proof, reads ten pages, and only then clicks publish. The print cost in this story is an illustration. Her calculator, not this paragraph, sets the real number.
+Story B, the paperback. June’s ebook keeps about $2.58 at $3.99. She wants paper. The calculator says a 240-page paperback costs about $4 to print in her marketplace. She tries $14.99 at 60 percent: (0.60 × $14.99) − $4 is about $5. She does not list it at $9.99. At 60 percent, 0.60 × $9.99 is $5.99, minus $4 to print, about $2. The ebook keeps about $2.58. Paper at that price pays less, and it is a heavier object. She orders a proof, reads ten pages, and only then clicks publish. The print cost in this story is an illustration. Her calculator, not this paragraph, sets the real number.
 
-Story C, the capped ad. June writes “keep about $2.58” at the top of a page. She sets a $40 cap and a stop date. She uses five phrases a cozy-mystery reader might type, taken from the five books in chapter 2, not from a downloaded list of a thousand words. After the cap, the screen shows clicks and two sales. Two times $2.58 is about $5, against $40 spent. She does not raise the budget. She rewrites the first two description lines, waits, and only then decides whether another $40 is a test or a habit.
-
-## This week
-
-Circle three of the thirty-two. Put a date on each. If one of them is “write book two,” the date can be “one sentence by Friday,” not “finished book.” Copy the shape of story A, B, or C for the idea you circled.
-
+Story C, the capped ad. June writes “keep about $2.58” at the top of a page. She sets a $40 cap and a stop date. She uses the five phrases from the titles in chapter 2: lakeside inn mystery, sleuth on the night desk, no gore in the village, the locked pantry, small town quiet case. After the cap, the screen shows clicks and two sales. Two times $2.58 is about $5, against $40 spent. She does not raise the budget. She rewrites the first two description lines, waits, and only then decides whether another $40 is a test or a habit.
 
 Before you spend, fill June’s three lines with your own.
 
-Keep: about $2.58 on a $3.99 ebook in the chapter 3 example, or the estimate KDP shows for your file.
+Keep: about $2.58 on The Guest on Sunday, now at $3.99.
 
-Reader: the two sentences from chapter 2.
+Reader: a gentle mystery, a small town, no gore. Not a thriller.
 
-Date: the one change, and the day you will look.
+Date: run one idea, and look on the day you wrote down before you started.
 
-If one line is still blank, do not pay yet.
-
-## Your action
-
-Do not start another idea until one of the three has either paid you something or taught you to stop. The four steps are the point. The number thirty-two is only a menu.
+If one line is still blank, do not pay yet. Do not start a second idea until this one has paid you or taught you to stop.
 
 # 9 A small ad test
 
@@ -565,9 +573,9 @@ An ad introduces the book. It also shows you a weak page, because you pay for th
 
 You do not need a large review pile to run a tiny test. You do need a cover that passes the thumbnail test, two true description lines, and a keep written down. Large spending with none of those is how a quiet book becomes an expensive quiet book.
 
-Teaching example. You keep $1.88 on a $2.99 sale. A click costs $0.30. If one sale comes from every ten clicks, the ad costs $3.00 to earn that $1.88. The click would have to cost about $0.19 or less to break even at a 10 percent sale rate, because $1.88 × 0.10 = $0.19. At 5 percent, the ceiling is about $0.09. These are ceilings, not recommended bids. Refunds, delayed reports, and page-read money move the real result. Stay under the ceiling. Do not treat the sales number in an ad screen as the money you keep.
+Teaching example, after June’s price change. She keeps about $2.58 on a $3.99 sale. A click costs $0.30. If one sale comes from every ten clicks, the ad costs $3.00 to earn that $2.58. The click would have to cost about $0.26 or less to break even, because $2.58 × 0.10 = $0.26. At 5 percent, the ceiling is about $0.13. These are ceilings, not recommended bids. Refunds, delayed reports, and page-read money move the real result. Stay under the ceiling. Do not treat the sales number in an ad screen as the money you keep.
 
-{{img:ad_math.png|Five lines showing that a 30 cent click can cost 3 dollars to earn a 1 dollar 88 cent royalty.}}
+{{img:ad_math.png|Five lines showing that a 30 cent click can cost 3 dollars to earn a 2 dollar 58 cent royalty.}}
 
 A practical test uses Sponsored Products, the kind of ad that shows a book to shoppers. Button names on the ad site change. The decisions do not. You still choose a budget, an end date, a few phrases a reader would type, or a few books that reader already buys. One campaign is enough. Cap the test at an amount you can lose, such as $20 or $60, and write the stop date before you turn it on. Do not paste a hundred keywords you have not read.
 
@@ -590,24 +598,15 @@ Stop at the cap even if you are curious. Curiosity is not a budget.
 
 Kindle Unlimited money, if you are enrolled, goes in its own column. Do not give the ad credit for every page read that week.
 
-## This week
-
-Write the cap, the stop date, and the keep you are using. If you cannot write the keep, you are not ready to pay for clicks.
-
-
 Before you spend, fill June’s three lines with your own.
 
-Keep: about $2.58 on a $3.99 ebook in the chapter 3 example, or the estimate KDP shows for your file.
+Keep: about $2.58 on The Guest on Sunday, now at $3.99.
 
-Reader: the two sentences from chapter 2.
+Reader: a gentle mystery, a small town, no gore. Not a thriller.
 
-Date: the one change, and the day you will look.
+Date: stop the ad at $40, or on day 14, whichever comes first.
 
-If one line is still blank, do not pay yet.
-
-## Your action
-
-One test. One change if it fails. Then a new decision. Never an open-ended daily spend.
+If one line is still blank, do not pay yet. One test. Stop at the cap. Then one new decision.
 
 # 10 The next book
 
@@ -615,30 +614,21 @@ One book can pay you a little. A row of books can pay you again from a reader wh
 
 That second payment is not a reason to lose money on purpose today. If book one loses money, book two is a second product, not a refund of the first loss.
 
-Teaching example. 100 people buy book one at $0.99, keep about $0.35, so those first sales keep about $35. Thirty of them later buy book two at $3.99, keep about $2.58 each, about $77. Together that is about $112, or about $1.12 per first buyer. It does not support paying $2 to acquire each first buyer.
+Teaching example, after the price change. 100 people buy book one at $3.99 and she keeps about $2.58, so those first sales keep about $258. Thirty of them later buy book two at the same keep, about $77. Together that is about $335, or about $3.35 per first buyer. Paying $2 to find one of those buyers can fit. Paying $4 does not.
 
-If half of those book-two buyers also buy a third book at the same $2.58 keep, that is 15 people, about $39 more, about $1.51 per original buyer. Still under $2. Do not count a whole series as if every reader buys every book.
+If half of those book-two buyers also buy a third book at the same $2.58 keep, that is 15 people, about $39 more, about $3.74 per original buyer. Still under $4. Do not count a whole series as if every reader buys every book.
 
 Name the next book. Link it when the link works. If it is not written, say so. Do not print a month you cannot meet.
 
-## This week
-
-Write the one sentence a happy reader of book one would recognize as the reason for book two. Price book two on paper using the chapter 3 keep, even if the book is not finished.
-
-
 Before you spend, fill June’s three lines with your own.
 
-Keep: about $2.58 on a $3.99 ebook in the chapter 3 example, or the estimate KDP shows for your file.
+Keep: about $2.58 on The Guest on Sunday. Do not cut that price to advertise a book that does not exist.
 
-Reader: the two sentences from chapter 2.
+Reader: a gentle mystery, a small town, no gore. Not a thriller.
 
-Date: the one change, and the day you will look.
+Date: do not discount book one unless the sentence for book two is written, and look again in four weeks.
 
-If one line is still blank, do not pay yet.
-
-## Your action
-
-If you do not have that sentence, do not discount book one “to build a brand.” Let it earn at its ordinary price.
+If one line is still blank, do not pay yet. If you cannot say why a reader wants book two, leave book one at its ordinary price.
 
 # 11 Six calm weeks
 
@@ -668,9 +658,7 @@ Day 5. Read the sample on a phone and fix the first stuck point.
 Day 6. Circle three money ideas from chapter 8. Date them.
 Day 7. Fill the money sheet with this week’s real numbers, even if they are zero.
 
-## Your action
-
-Put the seven days or the six weeks on a calendar. A plan that stays in this book does not change your month.
+Put those seven days, or the six weeks, on a calendar today.
 
 # 12 When the book is already live
 
@@ -701,28 +689,15 @@ The ad. You stopped at the cap. Money kept is written next to money spent. You a
 
 If you cannot say the number in advance, you will talk yourself into another spend.
 
-## Money idea
-
-A quiet book is a report. The usual fix is the page, the price, or the promise. It is rarely another $100.
-
-## This week
-
-Name the earliest broken step in one line. Schedule the two-week check. Do nothing else to the listing until that day, except a broken file.
-
-
 Before you spend, fill June’s three lines with your own.
 
-Keep: about $2.58 on a $3.99 ebook in the chapter 3 example, or the estimate KDP shows for your file.
+Keep: about $2.58 on The Guest on Sunday, unless the broken step is the price itself.
 
-Reader: the two sentences from chapter 2.
+Reader: a gentle mystery, a small town, no gore. Not a thriller.
 
-Date: the one change, and the day you will look.
+Date: change only the earliest broken step, and look in two weeks.
 
-If one line is still blank, do not pay yet.
-
-## Your action
-
-Write the result on the money sheet. Keep the change, or revert it. Then choose the next single step.
+If one line is still blank, do not pay yet. Write the result on the sheet. Keep the change, or revert it.
 
 # 13 Words you can copy
 
@@ -762,33 +737,53 @@ For a guide: “This book helps [specific reader] do [specific job] without [the
 
 # 14 A filled money sheet
 
-Copy this shape. Keep the guesses next to the results so you can see where you were wrong.
+Copy this shape. The lines under each label are yours to fill. The numbers above them are June’s month, a teaching example, not a report.
 
-Teaching example for a month. Not a report of a real author.
+Book: The Guest on Sunday
+____________________
 
-Book: a gentle mystery, ebook only.
-Price: $3.99.
-Expected keep, from the chapter 3 sum: about $2.58.
-File estimate in KDP: write yours here. The example uses $2.58.
-Copies you hoped to sell: 40. Hoped-for keep: about $103.
-Ad cap: $40. Stop date: the 28th.
-Sales you would have expected with no ad: 10.
-Actual paid copies: 22.
-Rough keep if each copy matched the example: 22 × $2.58, about $57.
-Ad spend: $40.
-Left after the ad: about $17.
-Editor and cover, still unpaid: $600. This month did not repay them. That is normal for month one. Write it down anyway.
-Page reads: none. Not in Select.
-What you changed: nothing except the ad. Good. You can read the month.
-Next single step: rewrite the first two description lines. Look again in two weeks. Do not raise the ad cap.
+Price: $3.99 in the example
+____________________
 
-A useful sentence to store with the sheet: “$3.99, keep about $2.58 in the example, ad stopped at $40, royalties did not repay the cover. Description is the next test.”
+Keep per sale: about $2.58 in the example
+____________________
 
-A useless sentence: “Ads don’t work.” You do not know that. You know this month, this page, and this cap.
+Copies you hoped for: 40. Hoped-for keep about $103.
+____________________
 
-## Your action
+Ad cap and stop date: $40, the 28th
+____________________
 
-Fill the sheet for the current month, even if every number is zero. Zero is a result.
+Sales you would have had with no ad: 10
+____________________
+
+Actual paid copies: 22
+____________________
+
+Money kept, if each copy matched $2.58: about $57
+____________________
+
+Money spent: $40
+____________________
+
+Left after the spend: about $17
+____________________
+
+Editor and cover still unpaid: $600. Month one did not repay them.
+____________________
+
+Page reads: none. She is not in Select.
+____________________
+
+The one change: the ad, and nothing else
+____________________
+
+The day you look: two weeks. Do not raise the cap.
+____________________
+
+A useful sentence: “$3.99, keep about $2.58, ad stopped at $40, the cover is still unpaid. The description is the next test.”
+
+A useless sentence: “Ads don’t work.” You know this month. You do not know ads.
 
 # 15 The Kindle file
 
@@ -800,15 +795,7 @@ Check the author name, title, subtitle, description, cover, categories, keyword 
 
 If text or images were generated and you then edited them, answer KDP’s AI question for what you actually did. Help with spelling is not the same as a generated book. [8]
 
-Have one other person open the ebook, jump to a chapter, follow one example, and come back to the contents. Fix the place they get stuck.
-
-## Money idea
-
-A return takes the keep back. Previewing is part of getting paid, not a courtesy.
-
-## Your action
-
-Do not announce the book until that person can move through it without you in the room.
+Have one other person open the ebook, jump to a chapter, follow one example, and come back to the contents. Do not announce the book until that person can move through it without you in the room. A return takes the keep back.
 
 # Glossary
 
@@ -816,13 +803,13 @@ One line each. The chapter that teaches the word is named.
 
 Advance copy. A free book you send before publication. A review is optional. Chapter 6.
 
-Backlist. The books you already published and left on sale. Chapter 8.
+Backlist. The books you already published and left on sale. Idea 20 in chapter 8.
 
-Countdown. A short, scheduled price cut that may keep the 70 percent rate below $2.99 if you qualify. Chapter 8. [6]
+Countdown. A short, scheduled price cut that may keep the 70 percent rate below $2.99 if you qualify. Idea 9 in chapter 8. [6]
 
 Delivery. A per-megabyte charge taken off before the 70 percent cut. Not taken off in the 35 percent band. Chapter 3.
 
-Expanded distribution. The wider paperback channel. Its rate is lower than a sale on Amazon’s own store. Chapter 3 and chapter 8.
+Expanded distribution. The wider paperback channel. Its rate is lower than a sale on Amazon’s own store. Idea 22 in chapter 8.
 
 Keep. What one sale leaves you after the percentage and, when it applies, delivery. Chapter 3.
 

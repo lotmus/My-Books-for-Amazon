@@ -12,7 +12,7 @@ Ranking mechanics are treated as inference unless a platform policy is cited dir
 
 ## I. The title: one keyword, one benefit, one hook
 
-A title has 100 characters. YouTube counts every one: letters, numbers, commas, spaces, hyphens. That is roughly twelve words. A title that describes the whole video will not fit. A title that gets the click will.
+A title has 100 characters. YouTube counts every one: letters, numbers, commas, spaces, hyphens. The bathroom title in this section is 13 words and 68 characters, and it fits. A title that describes the whole video will not. A title that gets the click will.
 
 The working formula is three parts, in this order:
 1. **The keyword** — the exact phrase a stranger would type into the search bar, not a clever paraphrase of it.
@@ -31,7 +31,7 @@ The thumbnail does not repeat the title. The title carries the keyword. The pict
 
 | Field | Character limit | What that means in practice |
 |---|---|---|
-| Title | 100 | About twelve words. Front-load the keyword. |
+| Title | 100 | The bathroom title in §I is 13 words and 68 characters. Front-load the keyword. |
 | Description | 5,000 | Generous, but only the first two lines show before “more” — write those two lines as if they are the whole description. |
 | Tags | 500 total | Not per tag. The whole list shares one budget. Use it for phrases a viewer would type. |
 

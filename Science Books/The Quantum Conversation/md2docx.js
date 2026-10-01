@@ -67,7 +67,6 @@ const TOC_ENTRIES = [
   { type: "part", title: "PART FIVE — The Field That May Not Be a Thing" },
   { type: "chapter", title: "15. What If the Field Isn't Independent?" },
   { type: "chapter", title: "16. Wheeler and Feynman: The Universe Talks Back" },
-  { type: "chapter", title: "17. A Field or a Relationship?" },
   { type: "chapter", title: "18. Radiation Is Where Things Get Serious" },
   { type: "chapter", title: "19. Where Is the Energy?" },
   { type: "part", title: "PART SIX — What Survives the Merger" },

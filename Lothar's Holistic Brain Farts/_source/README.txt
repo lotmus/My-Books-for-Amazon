@@ -1,10 +1,18 @@
 The Universe Keeps the Books - source files
-Built 2026-09-20/21.
 
-The .md files are the text of each section (edit these, not the .docx).
-To rebuild the Word file after editing (needs Python + python-docx):
+The .md files are the text of each book (edit these, not the .docx).
+Needs Python with python-docx and matplotlib; the print edition also needs Microsoft Word and pywin32.
 
-    python build_almanac.py "The Universe Keeps the Books.docx"
+    python make_figures.py                                              redraw figures/ (only after changing a figure)
+    python build_almanac.py "The Universe Keeps the Books.docx"          Kindle edition
+    python build_almanac.py --print "The Universe Keeps the Books - Print.docx"
+                                                                        6x9 print edition with page numbers, index and PDF
+    python build_almanac.py --volume 1 "The Universe Keeps the Books - Volume 1.docx"
+                                                                        one volume of the four-volume set (1 to 4; add --print if wanted)
 
-Section order, part titles, bridge paragraphs, foreword and afterword live in build_almanac.py.
-Move this folder next to the book in "Lothar's Accumulated Knowledge and then some" when the USB library drive is connected.
+Part order, bridges, front and back matter, figure placement, full-edition pointers and the
+Also By list live in build_almanac.py. 12_glossary.md is the back glossary; references in it
+("Physics 14", "Quantum Lectures 7") become links.
+
+Status lines: a line "*Status: Settled.*" right under a chapter heading is styled as the
+chapter's certainty label (Settled / Strange but solid / Serious but unconfirmed / Speculative).

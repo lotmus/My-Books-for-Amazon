@@ -1,7 +1,7 @@
 TITLE: The Covariant Derivative
 TAGLINE: The generalized Leibniz rule, the commutator [D_μ,D_ν]=iqF_μν proved in full, and the field strength as curvature
 NUM: 40
-NEXT: Lesson 41 assembles the complete QED Lagrangian, adding the photon's own kinetic term −(1/4)F_μνF^μν to the interacting matter Lagrangian derived in Lesson 39, and confirms that varying it with respect to A_μ reproduces the inhomogeneous Maxwell equation with the electron current as its source.
+NEXT: Stop for the Interlude on Mead's view (A as the phase standard; E and B derived). Then Lesson 41 assembles the complete QED Lagrangian, adding the photon's own kinetic term −(1/4)F_μνF^μν to the interacting matter Lagrangian derived in Lesson 39, and confirms that varying it with respect to A_μ reproduces the inhomogeneous Maxwell equation with the electron current as its source.
 
 # How to use this lesson
 

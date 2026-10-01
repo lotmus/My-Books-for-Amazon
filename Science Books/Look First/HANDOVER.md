@@ -24,7 +24,7 @@ PowerShell does not accept `&&`. Do not pass inline Python that contains a regex
 
 Chapters 31 and 32 are full lessons in `06_Part_Six_Getting_There.md` (headings at “31. Crews That Do Not Sleep” and “32. A Library of Earth”). Appendix A31 and A32 hold the numbers. Do not shorten them. Do not put back the sentence “The full classroom now lives in…”.
 
-Stamp: **113,624** words in `export\WORD_COUNT.txt` (30 Sep 2026). The docx and the EPUB were rebuilt from the same markdown.
+Stamp: **112,883** words in `export\WORD_COUNT.txt` (1 Oct 2026). The docx and the EPUB were rebuilt from the same markdown.
 
 KDP ingest is the docx:
 

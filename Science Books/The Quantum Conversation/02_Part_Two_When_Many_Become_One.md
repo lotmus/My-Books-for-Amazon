@@ -138,6 +138,4 @@ But there is another way to think about the very same causal structure — one t
 
 It also turns out to matter enormously, because it is the seed of an entire alternative tradition in electromagnetic theory — one associated with John Wheeler and Richard Feynman himself, which asks whether the electromagnetic field's independent degrees of freedom are strictly necessary at all, or whether the interaction between charged particles can be described directly, without ever positing a separate field to carry it.
 
-That question is far more radical than anything raised so far, and a passing mention won't do it justice. Part Five keeps it in its place. Chapter 15 states the question. Chapter 16 gives the absorber. Chapters 17 through 19 are the aside: radiation, energy, and the photon. If that question is not why you came, Chapter 20 is the door back.
-
-If you are walking the spine from the front matter, the circuit is Chapters 40 through 42, reached through Chapters 28 and 32, and the boundary of the claim is Chapter 47. The same door is marked again at the end of those chapters. First, though, standard quantum electrodynamics has to say what a photon is. Otherwise the aside has nothing to be an aside from.
+That question is far more radical than anything raised so far, and a passing mention won't do it justice. Part Five keeps it in its place. First, though, standard quantum electrodynamics has to say what a photon is. Otherwise that question has nothing to be a question about.

@@ -136,7 +136,7 @@ The book was *The Anthropic Cosmological Principle*, 1986, a thick, serious, som
 
 The known laws do not require it. The data have been voting no since 1998.
 
-A crunch needs the pull to win. The shove is winning. For the Omega Point to be a destiny rather than a story, the shove would have to fade, reverse, or be a mirage. None of those is the working theory. A story can still imagine a different bubble, a different branch, a later surprise in the vacuum. A destiny cannot hide in a surprise. Destiny is supposed to be what the laws demand. The laws, plus the bombs, demand a long, thinning, accelerating future, not a steered collapse.
+A crunch needs the pull to win. The shove is winning. For the Omega Point to be a destiny rather than a story, the shove would have to fade, reverse, or be a mirage. None of those is the working theory. A story can still imagine a different bubble, a different branch, a later surprise in the vacuum. A destiny cannot hide in a surprise. Destiny is supposed to be what the laws demand. The laws, plus the bombs — the Type Ia supernovae of Chapter 18, not weapons — demand a long, thinning, accelerating future, not a steered collapse.
 
 Here is the kitchen version, and it is ruder than a diagram. Imagine a will that names destinies the bank account cannot pay. The will is eloquent. It leaves the house to a dynasty, the orchard to a school, the future to a mind that never sleeps. Then you open the ledger. The shove is two-thirds of the budget. Recollapse is not in the data. The will is still a document. The bank is still empty of that particular future. You do not get to call the will a law of physics because the prose was confident.
 

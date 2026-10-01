@@ -22,7 +22,7 @@ One proof you actually have:
 
 ## II. Offer sheet
 
-Offer type: file, class, ticket, physical, license / call or done-for-you / one affiliate / monthly pass you bill / one sponsor
+Offer type: file / ticket / a thing you ship / license / call / one affiliate product / monthly pass / one sponsor
 
 Name:
 
@@ -40,7 +40,9 @@ The twenty-second spoken version:
 
 What would make you change the price:
 
-Can you deliver ten sales this month without breaking the promise: yes / no
+If you ship a thing: can you send ten this month without breaking the promise: yes / no
+
+If this is a call: can you deliver the sales that cover the hours: yes / no
 
 Phone test of the payment page, finished: yes / no
 
@@ -95,7 +97,7 @@ Earnings from any platform program, kept separate:
 
 Net this week: earnings minus promotion minus money spent making it
 
-Hours are not nothing. If the video took ten hours and earned $20, write that down. You do not have to quit. You do have to see it. A channel that sells is allowed to be small. It is not allowed to pretend hours were free if you needed those hours for rent.
+Hours are not nothing. If the video took ten hours and earned $20, write that down. You do not have to quit. You do have to see it. A channel that sells is allowed to be small. It is not allowed to pretend hours were free if you needed those hours for rent. The offer chapter’s $200 is one video. Add the hours of the other seven here before the week-six decision.
 
 Platform ad money does not get mixed into offer money. They answer different questions. The money chapter is where the platform thresholds live. This sheet is where your offer either paid you or did not.
 
@@ -131,7 +133,7 @@ The promise in one sentence: you can see what a quote should include before you 
 
 One proof you actually have: one quote you wrote, with only the numbers you are allowed to show. If you have never written that quote, this line stays blank and you do not publish the proof video yet.
 
-Offer type: a thing you made. Name: the bathroom quote checklist. Price after fees: $30 in the planning example. Your number goes here when you have one you can say. Included: the checklist, and one quote filled in line by line. Not included: a visit to the house, or a promise the contractor will honor the list. The page: one link, price visible, tested on your phone. Spoken version: “If you want a bathroom quote you can compare before you sign, I made a checklist. It costs $30. Here is the link. You do not have to buy it to use what this video already taught you.” Change the price if you cannot deliver the file, or if the same objection shows up twice. Ten sales this month: yes, because it is a file. If the honest answer is no, the offer is the wrong size.
+Offer type: a file. Name: the bathroom quote checklist. Price after fees: $30 in the planning example. Your number goes here when you have one you can say. Included: the checklist, and one quote filled in line by line. Not included: a visit to the house, or a promise the contractor will honor the list. The page: one link, price visible, tested on your phone. Spoken version: “If you want a bathroom quote you can compare before you sign, I made a checklist. It costs $30. Here is the link. You do not have to buy it to use what this video already taught you.” Change the price if you cannot deliver the file, or if the same objection shows up twice. Sending ten of them does not apply. This is a file. The hours test does: at $30, the offer video’s eight hours are covered around the seventh sale. If you cannot see that path, sell the call instead, and take the file off the page.
 
 The eight videos, each with a working title and one action:
 
@@ -144,7 +146,7 @@ The eight videos, each with a working title and one action:
 7. The offer — “The bathroom quote checklist, and what the $30 file includes.” Action: the link.
 8. The next video — “Price a bathroom repair: which video to watch next.” Action: name the seven, in order.
 
-A second shape, still hypothetical. Same buyer. The offer is a call, not the file. Do not run both in the same ninety days. Offer type: a service. Name: a 30-minute review of one bathroom quote. Price after fees: $150, the service figure from the offer chapter’s planning arithmetic. Included: you mark the missing lines on the quote they already have. Not included: a visit, a second quote, or a promise the contractor will honor the marks. Ten sales this month: only if you can take ten calls. If the answer is no, sell the $30 file instead, and take this call off the page.
+A second shape, still hypothetical. Same buyer. The offer is a call, not the file. Do not run both in the same ninety days. Offer type: a call. Name: a 30-minute review of one bathroom quote. Price after fees: $150, the service figure from the offer chapter’s planning arithmetic. Included: you mark the missing lines on the quote they already have. Not included: a visit, a second quote, or a promise the contractor will honor the marks. Sending ten does not apply. Two sales of this call cover the same eight hours the file needed seven sales to cover, if you can take those two calls. If you cannot take two, shrink the promise or leave the call off the page. Do not answer that by putting the $30 file back beside it.
 
 > **Key takeaway:** Write the number down. Change one thing. Look again on the date you set.
 
@@ -152,7 +154,7 @@ A second shape, still hypothetical. Same buyer. The offer is a call, not the fil
 
 - That you will remember the price you tested. You will not. Write it.
 - That likes are a substitute for the payment line. Likes are polite. The payment line is the title of this book.
-- That a blank “can you deliver ten sales” box can stay blank. If the answer is no, shrink the offer until the answer is yes. Do not advertise a service you will resent on sale three.
+- That a blank shipping line can stay blank. If you ship a thing and cannot send ten this month, shrink the offer until you can. A call is judged by the sales that cover the hours, not by ten. Do not advertise a job you will resent on sale three.
 - That the filled bathroom example is the niche to copy. The file and the call are two shapes of a finished sheet. Your buyer, your price, and your proof replace every line. Run one of them.
 
 A last limit. Blank sheets do not make a channel sell. Filled sheets make the next decision obvious, including the decision to stop.

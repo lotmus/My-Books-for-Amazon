@@ -36,11 +36,11 @@ Einwanderungsrecht ist Bundesrecht, deshalb genügt in der Regel die Zulassung i
 
 Die Honorare (Marktangaben von Kanzleien und Vergleichsportalen 2026, kein amtlicher Tarif):
 
-- Erstberatung: 100–400 $, manche Kanzleien bieten sie kostenlos an.
-- Stundensatz: meist 250–500 $, Spanne 150–600 $.
-- H-1B-Erstpetition als Pauschale: meist 2.000–5.000 $, bezahlt vom Arbeitgeber.
-- Antwort auf eine Nachforderung: 1.000–3.000 $, teils mehr; manche Pauschalen enthalten sie.
-- Zweitmeinung für dich: ein bis zwei Stunden, also grob 300–1.000 $.
+- Erstberatung: manche Kanzleien bieten sie kostenlos an. Den Preis nennt die Kanzlei.
+- Stundensatz: die Kanzlei nennt ihn. Dieses Kapitel druckt keine Spanne.
+- H-1B-Erstpetition als Pauschale: bezahlt vom Arbeitgeber. Das Honorar nennt die Kanzlei.
+- Antwort auf eine Nachforderung: oft extra. Das Honorar nennt die Kanzlei.
+- Zweitmeinung für dich: ein bis zwei Stunden. Den Satz nennt die Kanzlei.
 
 ### Plus und Minus
 
@@ -48,7 +48,7 @@ Eigener Anwalt zusätzlich zur Kanzlei des Arbeitgebers:
 
 | Plus | Minus |
 |---|---|
-| Berät nur dich, nicht deinen Arbeitgeber | Erstberatung 100–400 $, danach 250–500 $ pro Stunde |
+| Berät nur dich, nicht deinen Arbeitgeber | Honorar nennt die Kanzlei |
 | Zweitmeinung zu Lohn-Level, Zeitplan und Risiken | Die Petition reicht weiter die Kanzlei des Arbeitgebers ein |
 | Bleibt Ansprechpartner, auch wenn du die Stelle wechselst | Zwei Anwälte bedeuten mehr Abstimmung |
 | Hilft bei Vorgeschichte, Familie und Sonderfällen | Auch er kann kein Ergebnis garantieren |
@@ -69,7 +69,7 @@ Mit ESTA reisen Deutsche in die USA, arbeiten dürfen sie damit nicht. Für H-1B
 
 1. **Bescheid und Petitionsnummer.** Die Kanzlei schickt dir den Bescheid (Form I-797) mit der Nummer der Petition (*Receipt Number*), die das DS-160 verlangt. Bitte auch um Kopien von Petition und LCA, damit deine Angaben dazu passen.
 2. **DS-160 ausfüllen.** Das Online-Formular (ceac.state.gov/genniv) ist kostenlos und auf Englisch. Es fragt nach Person, Reisen, Arbeitgebern, Ausbildung, Familie und Social-Media-Konten der letzten fünf Jahre. Drucke die Bestätigungsseite mit Barcode aus.
-3. **Gebühr zahlen.** Die Konsulargebühr (*MRV fee*) beträgt 205 $ je Person, auch für H-4. Der Beleg gilt 365 Tage, ohne Zahlung gibt es keinen Termin. Ob für deine Staatsangehörigkeit zusätzlich eine Reziprozitätsgebühr anfällt, zeigt die Länderseite Deutschland auf travel.state.gov.
+3. **Gebühr zahlen.** Die Konsulargebühr (*MRV fee*) gilt je Person, auch für H-4. Den Betrag nennt travel.state.gov. Der Beleg gilt 365 Tage. Ohne Zahlung gibt es keinen Termin. Ob zusätzlich eine Reziprozitätsgebühr anfällt, zeigt die Länderseite Deutschland auf travel.state.gov.
 4. **Termin buchen.** Nichteinwanderervisa vergeben Frankfurt, Berlin und München. Der nächste freie Termin für H/L/O/P/Q lag am 20. September 2026 laut Aggregatoren (Daten des State Department) in Frankfurt bei ca. zwei Monaten, in Berlin bei ca. einem Monat, in München unter zwei Wochen. Familien buchen gemeinsam.
 
 Die Wartezeiten schwanken wöchentlich; aktuelle Werte zeigt das *Global Visa Wait Times*-Tool auf travel.state.gov. Ein Standort mit kürzerer Wartezeit lohnt oft die Bahnfahrt, soweit das Portal ihn anbietet.
@@ -100,7 +100,7 @@ Elektronische Geräte sind oft nur eingeschränkt erlaubt (Hinweise in der Termi
 
 Die Fragen folgen der Petition. Einen offiziellen Katalog gibt es nicht; erfahrungsgemäß geht es um deinen Arbeitgeber und dessen Geschäft, deine künftigen Aufgaben, dein Gehalt, deinen Abschluss und darum, wie du die Stelle gefunden hast. H-4-Antragsteller werden nach Beruf und Arbeitgeber des Partners gefragt. Antworte knapp, wahrheitsgemäß und im Einklang mit den Unterlagen; übe, deine Stelle in zwei englischen Sätzen zu erklären. Anders als bei Studien- oder Besuchervisa musst du nicht beweisen, dass du zurückkehrst (*Dual Intent*), der H-1B verträgt spätere Green-Card-Pläne. Das Gespräch dauert oft nur wenige Minuten.
 
-> **Praxisbeispiel:** Sabine Keller (33, München) bucht nach der Genehmigung ihres H-1B-Antrags den Termin im Konsulat München, wo der nächste Slot in zwei Wochen frei ist. Vorher gleicht sie DS-160 und Lebenslauf ab und stellt ihre Konten auf „öffentlich“. Am Schalter fragt die Beamtin nach Arbeitgeber, Aufgaben und Abschluss und behält nach vier Minuten den Pass. Kosten für Sabine: 205 $ Konsulargebühr, dazu 250 $ Visa Integrity Fee, falls erhoben. Sabine kündigt ihren Job erst, als der Pass mit dem Visum zurück ist. (Fiktives Beispiel.)
+> **Praxisbeispiel:** Sabine Keller (33, München) bucht nach der Genehmigung ihres H-1B-Antrags den Termin im Konsulat München, wo der nächste Slot in zwei Wochen frei ist. Vorher gleicht sie DS-160 und Lebenslauf ab und stellt ihre Konten auf „öffentlich“. Am Schalter fragt die Beamtin nach Arbeitgeber, Aufgaben und Abschluss und behält nach vier Minuten den Pass. Kosten für Sabine: die Konsulargebühr und, falls das Konsulat sie verlangt, die Visa Integrity Fee. Die Beträge stehen auf travel.state.gov, nicht in diesem Beispiel. Sabine kündigt ihren Job erst, als der Pass mit dem Visum zurück ist. (Fiktives Beispiel.)
 
 ### Nach dem Interview: Visum, Prüfung, Ablehnung
 
@@ -120,7 +120,7 @@ Das Verfahren ist seit 2025 strenger und teurer geworden. Wichtig ist die Trennu
 
 - **Interview für fast alle** und Antrag im Land der Staatsangehörigkeit oder des Wohnsitzes (siehe oben).
 - **Online-Präsenz-Prüfung** seit 15. Dezember 2025: H-1B- und H-4-Antragsteller sollen ihre Profile in sozialen Netzwerken öffentlich stellen. Laut Kanzleien achten Konsulate auf Widersprüche zu DS-160 und Petition, auf Feindseligkeit gegenüber den USA und bei H-1B auf die Beteiligung an „Zensur“ amerikanischer Bürger; berichtet wird eine interne Weisung, die Tätigkeiten in Content-Moderation, Faktenprüfung oder Online-Sicherheit erfasst. Private Profile können negative Schlüsse zulassen, Verzögerungen sind wahrscheinlicher – lösche nichts hektisch, kläre Zweifel vorher mit der Kanzlei.
-- **Visa Integrity Fee:** gesetzlich 250 $ je Visum, fällig bei Ausstellung, nicht für ESTA-Reisende. Die Erhebung ist uneinheitlich, ein Rückerstattungsverfahren nicht etabliert. Ob Frankfurt, Berlin und München sie aktuell verlangen, war nicht bestätigt – plane sie ein und frage bei der Buchung nach.
+- **Visa Integrity Fee:** kann je Visum bei der Ausstellung anfallen, nicht für ESTA-Reisende. Ob Frankfurt, Berlin und München sie verlangen und in welcher Höhe, sagt das Konsulat. Dieses Kapitel druckt den Betrag nicht.
 - **Zusatzzahlung nach Proklamation 10973:** Sie kann neue Petitionen für Personen im Ausland treffen. Ob sie in der Woche der Einreichung erhoben wird, liest du auf der USCIS-Alert-Seite. Dieses Kapitel druckt den Betrag nicht und sagt nicht, dass er gerade nicht erhoben wird. Einzelheiten: Kapitel 5.
 - **Kürzere RFE-Fristen** seit 5. August 2026 (siehe unten).
 
@@ -148,15 +148,15 @@ Premium Processing entscheidet binnen 15 Werktagen. Die Gebühr steht auf g-1055
 
 Was dich betrifft: Die ACWIA-Gebühr sowie Anwalts- und Petitionskosten darf der Arbeitgeber nicht vom Lohn zurückholen. Konsulargebühren, Visa Integrity Fee, H-4-Anträge und Umzug zahlst du, sofern nichts anderes vereinbart ist – eine feste Regel gibt es nicht, es zählt, was im Angebotsschreiben steht.
 
-> **Praxisbeispiel:** Familie Brandt (Markus, Anna, Lena, Jonas) bucht vier Termine in München statt Frankfurt: Dort ist der nächste frei in zwei Wochen, in Frankfurt erst in acht. Die Rechnung: 4 × 205 $ = 820 $ Konsulargebühr, dazu möglicherweise 4 × 250 $ = 1.000 $ Visa Integrity Fee, zusammen bis zu 1.820 $. Im Angebot stand die Erstattung. Markus’ Interview endet mit einem 221(g)-Vermerk: Die Beamtin verlangt eine Arbeitgeberbestätigung und die Diplome. Nach fünf Wochen liegen alle vier Visa vor; das ist kein Richtwert. Als der Kurierumschlag mit den Pässen ankommt, breitet Anna alle vier aufgeschlagenen Visumseiten auf dem Küchentisch aus und fotografiert sie – der erste Beweis, dass der Umzug wirklich passiert. (Fiktives Beispiel.)
+> **Praxisbeispiel:** Familie Brandt (Markus, Anna, Lena, Jonas) bucht vier Termine in München statt Frankfurt: Dort ist der nächste frei in zwei Wochen, in Frankfurt erst in acht. Die Rechnung steht auf travel.state.gov: Konsulargebühr je Person, dazu möglicherweise die Visa Integrity Fee. Dieses Beispiel druckt die Summe nicht. Im Angebot stand die Erstattung. Markus’ Interview endet mit einem 221(g)-Vermerk: Die Beamtin verlangt eine Arbeitgeberbestätigung und die Diplome. Nach fünf Wochen liegen alle vier Visa vor; das ist kein Richtwert. Als der Kurierumschlag mit den Pässen ankommt, breitet Anna alle vier aufgeschlagenen Visumseiten auf dem Küchentisch aus und fotografiert sie – der erste Beweis, dass der Umzug wirklich passiert. (Fiktives Beispiel.)
 
-> **Spartipp:** Lass dir im Angebotsschreiben ausdrücklich zusichern, dass der Arbeitgeber Konsulargebühren, Visa Integrity Fee und H-4-Kosten für die ganze Familie erstattet. Bei vier Personen sind das bis zu rund 1.800 $. Die Umzugskosten gehören in dieselbe Verhandlung (Kapitel 20).
+> **Spartipp:** Lass dir im Angebotsschreiben ausdrücklich zusichern, dass der Arbeitgeber Konsulargebühren, Visa Integrity Fee und H-4-Kosten für die ganze Familie erstattet. Die Beträge stehen auf travel.state.gov. Die Umzugskosten gehören in dieselbe Verhandlung (Kapitel 20).
 
 ### Request for Evidence: wenn USCIS nachfragt
 
 Eine *Request for Evidence* (RFE, Nachforderung) heißt: USCIS hält die Belege für unzureichend und will mehr sehen, bevor die Behörde entscheidet – keine Ablehnung, aber ernst. Typische Themen: ob die Stelle eine *Specialty Occupation* ist, ob dein Abschluss zur Stelle passt (für deutsche Abschlüsse ist ein Äquivalenzgutachten üblich, Kapitel 19), Arbeitsort und Kunde bei Einsätzen bei Dritten sowie die Lohnhöhe.
 
-Die Frist für die Antwort beträgt nach der Regel bis zu 84 Tage. Seit einer USCIS-Richtlinie vom 5. August 2026 dürfen Sachbearbeiter kürzere, fallbezogene Fristen setzen; Kanzleien berichten von RFE mit nur 30 Tagen. Die Antwort muss bei USCIS eingehen, nicht nur abgeschickt sein, und USCIS lehnt Anträge mit fehlenden Pflichtbelegen laut Kanzleien jetzt öfter ohne vorherige Nachforderung ab. Beim Premium Processing steht die 15-Werktage-Uhr während der RFE still. Die Antwort kostet 1.000–3.000 $ und geht zulasten des Arbeitgebers.
+Die Frist für die Antwort beträgt nach der Regel bis zu 84 Tage. Seit einer USCIS-Richtlinie vom 5. August 2026 dürfen Sachbearbeiter kürzere, fallbezogene Fristen setzen; Kanzleien berichten von RFE mit nur 30 Tagen. Die Antwort muss bei USCIS eingehen, nicht nur abgeschickt sein, und USCIS lehnt Anträge mit fehlenden Pflichtbelegen laut Kanzleien jetzt öfter ohne vorherige Nachforderung ab. Beim Premium Processing steht die 15-Werktage-Uhr während der RFE still. Die Antwort kostet ein Honorar, das die Kanzlei nennt, und geht zulasten des Arbeitgebers.
 
 > **Achtung:** Bei 30 Tagen zählt jede Woche. Halte Diplome, Zeugnisse, Arbeitszeugnisse und Stellenbeschreibung griffbereit, bleibe auch im Urlaub erreichbar und liefere angeforderte Unterlagen der Kanzlei binnen zwei Tagen.
 
