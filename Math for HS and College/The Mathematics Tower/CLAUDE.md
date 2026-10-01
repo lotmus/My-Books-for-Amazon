@@ -3,6 +3,10 @@
 This repository holds the manuscripts of *The Mathematics Tower* (Volumes 1–4)
 and their derived editions. Read this before editing anything.
 
+What the four volumes contain, and the house facts every volume shares, is in
+`Tower - Series Reference.md`. Cite floors from that file. Do not keep a second
+copy of the floor map here.
+
 ---
 
 ## 1. How to write — the didactic contract
@@ -79,14 +83,9 @@ Two standing cautions:
 
 ## 2. House style
 
-- **American English throughout** (-ize, not -ise). Switched from the original
-  British-English standard. Volume 3 is fully converted; Volumes 1, 2, and 4 are
-  still on the old British spelling and need converting.
-- **Curly quotes and apostrophes only.** The text has no straight ones.
-- **Em dashes spaced** — like this — on both sides.
-- Proper minus signs (−) not hyphens, and the arrow glyph (→) not `->`.
-- Author is **Lothar J. Musiol**, alone.
-- The vocabulary is **Floors, Rooms and the Tower**. Never "storeys".
+House style — American English, curly quotes, spaced em dashes, a proper minus,
+the author, and the words Floor, Room, and Tower — is in
+`Tower - Series Reference.md`. Follow that file.
 
 ---
 
@@ -108,8 +107,8 @@ zip. Hard-won rules:
   there, and safe only when no paragraph carries direct formatting — check first.
 - **Verify after every write, before replacing the live file:** `testzip()` clean,
   entry list unchanged, media count unchanged, `document.xml` parses, and every
-  replaced image still decodes. Media counts are per volume: Volume 1 = 97,
-  Volume 2 = 107, Volume 3 = 102, Volume 4 = 114.
+  replaced image still decodes. Picture counts are in
+  `Tower - Series Reference.md`.
 - **Verify arithmetic exactly** — as fractions, never floating point. Every table
   in the book should be reproducible by a reader with a pencil.
 
@@ -126,35 +125,8 @@ zip. Hard-won rules:
   conversation.
 - Backups live in `Archive - not for publication`.
 
-## 5. Floor map — cite these numbers
+## 5. Where things live
 
-An older draft called the derivative Floor 6 and the limit Floor 8. Those
-numbers are trigonometry and systems of equations. A sentence that sends the
-reader to Floor 6 for a derivative, or to Floor 8 for an ε–δ argument, is wrong.
-
-Volume 1, Floors 1–12. Floor 1 has Rooms 1.1–1.10; Floors 2–12 have Rooms
-X.1–X.9.
-
-- Floor 1 Something Countable
-- Floor 2 The Algebra of Almost
-- Floor 3 Functions, Graphs & Graph Analysis
-- Floor 4 Coordinate Systems
-- Floor 5 Euclidean Geometry
-- Floor 6 Trigonometry
-- Floor 7 Logarithms & Potencies
-- Floor 8 Systems of Equations
-- Floor 9 Vectors & Vector Algebra
-- Floor 10 Limits (ε–δ and continuity live here)
-- Floor 11 Differential (the derivative, the product rule, linear approximation, related rates, extreme values)
-- Floor 12 Integral. The Fundamental Theorem of Calculus is Room 12.3.
-
-Volume 2 is Floors 13–25 (118 rooms; Floor 18 has Rooms 18.1–18.10). Floor 17
-is Fourier. Floor 18 is the Laplace transform. Eigenvalues are Floors 20–21.
-The Picard named on this volume is Picard’s theorem on essential singularities.
-Picard iteration is built in Room 26.1, not inherited from here.
-
-Volume 3 is Floors 26–37. Volume 4 is Floors 38–50.
-
-Do not rename the Volume 2 bookmark `room_18_9`. It sits on the Room 18.10
-heading, and two hyperlinks whose visible text is “Room 18.10” use that
-anchor. The real Room 18.9 heading uses `room_18_9_tables`.
+The floor map, the room pattern, and the citations that are easy to get wrong
+are in `Tower - Series Reference.md`. That file also records the Floor 18
+bookmark names. Leave them as they are.

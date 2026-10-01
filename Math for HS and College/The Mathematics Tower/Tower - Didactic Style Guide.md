@@ -5,6 +5,10 @@ passages that work best — the opening of Room 11.1 (the derivative) and the
 opening of Room 12.1 (the integral) — and generalised so the same shape can be
 applied to any room in any volume.
 
+What each floor contains, and which earlier floor a cross-reference may name,
+is in `Tower - Series Reference.md`. This guide says how to introduce an idea.
+That file says where the idea already lives.
+
 ---
 
 ## 1. The principle, in one sentence
