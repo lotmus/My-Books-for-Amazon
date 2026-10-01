@@ -1,0 +1,118 @@
+TITLE: Effective Actions
+TAGLINE: The Legendre transform Γ[φ_cl] of W[J], whose tree diagrams in the φ_cl field sum the 1PI loops of the original theory
+NUM: 81
+NEXT: Lesson 82 collects the functional derivatives and 1PI expansion as a practical toolkit, then Lesson 83 reads Feynman rules off Z.
+
+# How to use this lesson
+W[J] generates connected diagrams. Its Legendre transform Γ[φ_cl]=W[J]−∫J φ_cl, with φ_cl=δW/δJ, generates one-particle-irreducible diagrams. The classical field φ_cl satisfies δΓ/δφ_cl=−J, the quantum-corrected equation of motion. Expect four to six hours. The effective action is the tool that makes 'tree level in a corrected Lagrangian' mean 'all loops in the original theory, but only 1PI ones, with full propagators on the external legs.' Lesson 67's resummed propagator is Γ's second derivative inverted. Charge and mass renormalization are statements about the low-momentum expansion of Γ.
+## Learning objectives
+- Define Γ[φ_cl] as the Legendre transform of W[J].
+- State that vertices of Γ are 1PI correlators.
+- Identify δΓ/δφ=0, at J=0, as the condition for the quantum vacuum expectation value.
+- Note that the second derivative of Γ is the inverse of the full connected two-point function, i.e. the inverse of S_F′ from Lesson 67.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| Γ[φ]=W−Jφ | Γ[φ]=W−Jφ |
+| 1PI | 1PI vertices |
+| Γ''(φ) | Γ''(φ) = (full propagator)⁻¹ |
+
+# 1 The physical point
+
+W[J] generates connected diagrams. Its Legendre transform Γ[φ_cl]=W[J]−∫J φ_cl, with φ_cl=δW/δJ, generates one-particle-irreducible diagrams. The classical field φ_cl satisfies δΓ/δφ_cl=−J, the quantum-corrected equation of motion. Expect four to six hours. The effective action is the tool that makes 'tree level in a corrected Lagrangian' mean 'all loops in the original theory, but only 1PI ones, with full propagators on the external legs.' Lesson 67's resummed propagator is Γ's second derivative inverted. Charge and mass renormalization are statements about the low-momentum expansion of Γ.
+
+### Worked example 1
+
+State the central relation of this lesson in one sentence and name the earlier lesson it uses. The effective action is the tool that makes 'tree level in a corrected Lagrangian' mean 'all loops in the original theory, but only 1PI ones, with full propagators on the external legs.
+
+# 2 Development
+
+Start from the objects already in hand. Separate a definition from a derived consequence. Evaluate a limit (low energy, on-shell, or μ→μ₀) as a check. Then name what is still incomplete.
+
+### Worked example 2
+
+Identify which step is a definition, which is a physical assumption, and which is algebra, using this lesson's core relation.
+
+# 3 What is not being claimed
+
+This lesson does not replace a numerical computer algebra evaluation of every integral it names. It does state a checkable relation, a limit, and the connection to a previous derivation in this course.
+
+# Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used |
+| Γ[φ]=W−Jφ | Used in later precision or formal chapters |
+| 1PI vertices | Organizes the present calculation |
+
+# Summary
+
+1. W[J] generates connected diagrams.
+
+2. The core relation is stated and checked in a limit.
+
+3. Earlier lessons supply the ingredients; this lesson supplies the interpretation.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | State the core relation without looking. |
+| 2 | Name the earlier lesson that supplies the main ingredient. |
+| 3 | Check a special case or limit of the relation. |
+| 4 | Identify one convention that would change intermediate signs but not the observable. |
+| 5 | Write the mass dimension of each new symbol. |
+| 6 | Explain, in one sentence, what would go wrong if the main assumption were dropped. |
+| 7 | Connect this result to a tree-level process in Part VIII. |
+| 8 | Connect this result to a loop in Part IX. |
+| 9 | Is the result ultraviolet, infrared, or finite? Justify. |
+| 10 | Quote a number, a sign, or a functional form from the lesson. |
+| 11 | What measurement would test this? |
+| 12 | What does this lesson explicitly not compute? |
+| 13 | Write a one-line Feynman-diagram description of the effect. |
+| 14 | Restate the result in the notation of Lesson 41's Lagrangian if possible. |
+| 15 | Give a wrong statement a reader might walk away with, and correct it. |
+| 16 | Challenge: sketch the next correction beyond this lesson's order. |
+
+# Solutions
+
+**1.** See the displayed relation in Section 1.
+
+**2.** Named in the opening and in Worked example 1.
+
+**3.** The low-energy, on-shell, or μ→μ₀ limit discussed in Section 2.
+
+**4.** Metric signature, charge-sign convention, or ξ; observables unchanged.
+
+**5.** Read off from ℒ having dimension 4, as in Lesson 25.
+
+**6.** The derivation's first step would not be available; the result would not follow.
+
+**7.** Part VIII supplies the tree process whose correction this is, or the kinematics.
+
+**8.** Part IX supplies the loop integral being interpreted.
+
+**9.** Stated in the lesson: UV absorbed, IR cancelled inclusively, or finite prediction.
+
+**10.** The number or form in the introduction.
+
+**11.** The precision experiment named, or a scattering process at the relevant q².
+
+**12.** Full numerical integral, higher loops, or hadronic pieces, as the opening said.
+
+**13.** The diagram of the relevant lesson (vertex, vacuum polarization, or emission).
+
+**14.** Match symbols to e, m, A_μ, ψ as appropriate.
+
+**15.** A common overclaim is that the template slogans were already a derivation; this lesson is the derivation of the named relation only, at the stated order.
+
+**16.** The next order in α, or the next operator in an effective Lagrangian.
+
+# Mastery checklist
+
+- I can state this lesson's core relation and the lesson it depends on.
+
+- I can check a limit and name what is not computed.
+
+- I can place the result among tree processes, loops, and measurements.

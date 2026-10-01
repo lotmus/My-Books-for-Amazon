@@ -1,0 +1,118 @@
+TITLE: Vacuum Polarization and Precision
+TAGLINE: The Uehling potential, the finite q² dependence of Π̂ from Lesson 68, as a correction to Coulomb's law inside an atom
+NUM: 77
+NEXT: Lesson 78 places g−2, the Lamb shift, and the running of α next to the measurements they are tested against.
+
+# How to use this lesson
+Lesson 68 ran the charge at |q²|≫m². Inside hydrogen, typical |q| is the Bohr momentum αm, smaller than m, so the logarithm of Lesson 68 is not large. The finite remainder Π̂(q²) still modifies the photon propagator, equivalent to a short-range correction to the Coulomb potential, the Uehling potential. Expect four to six hours. At small q² the finite vacuum polarization behaves as Π̂(q²)∝q²/m². Replacing 1/q² by 1/q² × 1/(1−Π̂)≈1/q² + (α/15π)/m² in momentum space is a contact-like correction after Fourier transform, smeared over the Compton wavelength 1/m. An s-state, with support at the origin, sees this as a shift. The sign in hydrogen is a slight reduction of the 2s energy relative to the naive Coulomb value in the opposite direction from Bethe's self-energy log, a smaller term. The same function Π̂, evaluated at large q², is Lesson 68's running. Precision and running are one object at two kinematic points.
+## Learning objectives
+- Obtain, for |q²|≪m², Π̂(q²)≈(α/15π)(q²/m²) as the leading expansion of vacuum polarization.
+- Interpret this as a correction to 1/q² in the photon propagator, hence to the Coulomb potential in coordinate space.
+- State that the Uehling potential is attractive extra strength at r≲1/m and contributes about −27 MHz to the hydrogen Lamb shift, opposite in sign to the dominant self-energy piece.
+- Connect the same Π̂ at large q² to Lesson 68's running.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| Π̂(q²)≈(α/15π)q²/m² | Π̂(q²)≈(α/15π)q²/m² |
+| Uehling | Uehling potential |
+| −27 | −27 MHz in hydrogen 2s |
+
+# 1 The physical point
+
+Lesson 68 ran the charge at |q²|≫m². Inside hydrogen, typical |q| is the Bohr momentum αm, smaller than m, so the logarithm of Lesson 68 is not large. The finite remainder Π̂(q²) still modifies the photon propagator, equivalent to a short-range correction to the Coulomb potential, the Uehling potential. Expect four to six hours. At small q² the finite vacuum polarization behaves as Π̂(q²)∝q²/m². Replacing 1/q² by 1/q² × 1/(1−Π̂)≈1/q² + (α/15π)/m² in momentum space is a contact-like correction after Fourier transform, smeared over the Compton wavelength 1/m. An s-state, with support at the origin, sees this as a shift. The sign in hydrogen is a slight reduction of the 2s energy relative to the naive Coulomb value in the opposite direction from Bethe's self-energy log, a smaller term. The same function Π̂, evaluated at large q², is Lesson 68's running. Precision and running are one object at two kinematic points.
+
+### Worked example 1
+
+State the central relation of this lesson in one sentence and name the earlier lesson it uses. At small q² the finite vacuum polarization behaves as Π̂(q²)∝q²/m².
+
+# 2 Development
+
+Start from the objects already in hand. Separate a definition from a derived consequence. Evaluate a limit (low energy, on-shell, or μ→μ₀) as a check. Then name what is still incomplete.
+
+### Worked example 2
+
+Identify which step is a definition, which is a physical assumption, and which is algebra, using this lesson's core relation.
+
+# 3 What is not being claimed
+
+This lesson does not replace a numerical computer algebra evaluation of every integral it names. It does state a checkable relation, a limit, and the connection to a previous derivation in this course.
+
+# Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used |
+| Π̂(q²)≈(α/15π)q²/m² | Used in later precision or formal chapters |
+| Uehling potential | Organizes the present calculation |
+
+# Summary
+
+1. Lesson 68 ran the charge at |q²|≫m².
+
+2. The core relation is stated and checked in a limit.
+
+3. Earlier lessons supply the ingredients; this lesson supplies the interpretation.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | State the core relation without looking. |
+| 2 | Name the earlier lesson that supplies the main ingredient. |
+| 3 | Check a special case or limit of the relation. |
+| 4 | Identify one convention that would change intermediate signs but not the observable. |
+| 5 | Write the mass dimension of each new symbol. |
+| 6 | Explain, in one sentence, what would go wrong if the main assumption were dropped. |
+| 7 | Connect this result to a tree-level process in Part VIII. |
+| 8 | Connect this result to a loop in Part IX. |
+| 9 | Is the result ultraviolet, infrared, or finite? Justify. |
+| 10 | Quote a number, a sign, or a functional form from the lesson. |
+| 11 | What measurement would test this? |
+| 12 | What does this lesson explicitly not compute? |
+| 13 | Write a one-line Feynman-diagram description of the effect. |
+| 14 | Restate the result in the notation of Lesson 41's Lagrangian if possible. |
+| 15 | Give a wrong statement a reader might walk away with, and correct it. |
+| 16 | Challenge: sketch the next correction beyond this lesson's order. |
+
+# Solutions
+
+**1.** See the displayed relation in Section 1.
+
+**2.** Named in the opening and in Worked example 1.
+
+**3.** The low-energy, on-shell, or μ→μ₀ limit discussed in Section 2.
+
+**4.** Metric signature, charge-sign convention, or ξ; observables unchanged.
+
+**5.** Read off from ℒ having dimension 4, as in Lesson 25.
+
+**6.** The derivation's first step would not be available; the result would not follow.
+
+**7.** Part VIII supplies the tree process whose correction this is, or the kinematics.
+
+**8.** Part IX supplies the loop integral being interpreted.
+
+**9.** Stated in the lesson: UV absorbed, IR cancelled inclusively, or finite prediction.
+
+**10.** The number or form in the introduction.
+
+**11.** The precision experiment named, or a scattering process at the relevant q².
+
+**12.** Full numerical integral, higher loops, or hadronic pieces, as the opening said.
+
+**13.** The diagram of the relevant lesson (vertex, vacuum polarization, or emission).
+
+**14.** Match symbols to e, m, A_μ, ψ as appropriate.
+
+**15.** A common overclaim is that the template slogans were already a derivation; this lesson is the derivation of the named relation only, at the stated order.
+
+**16.** The next order in α, or the next operator in an effective Lagrangian.
+
+# Mastery checklist
+
+- I can state this lesson's core relation and the lesson it depends on.
+
+- I can check a limit and name what is not computed.
+
+- I can place the result among tree processes, loops, and measurements.

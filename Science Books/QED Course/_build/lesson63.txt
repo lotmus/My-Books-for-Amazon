@@ -34,6 +34,15 @@ An electron does not have to interact with anything else to feel the effect of i
 
 # 1 The diagram
 
+FIG:
+ e^{-}(p) ----*~~~~~~~~~~~~~~~*
+               \             /
+                \           /
+                 \         /
+                  ---------     virtual photon k
+                electron p−k
+ENDFIG
+
 ## 1.1 What it looks like
 
 An electron enters carrying momentum p. At one vertex it emits a photon of momentum k, continuing onward with momentum p−k. That internal electron travels some distance, and at a second vertex it reabsorbs the same photon, emerging again with momentum p, ready to continue on to wherever the diagram attaches next. Two vertices, one internal electron line, one internal photon line: by Lesson 61, Section 4.1's counting, V=2 and I=2, giving L=I−V+1=1, one loop momentum, exactly the same count as vacuum polarization.

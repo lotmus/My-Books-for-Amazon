@@ -1,0 +1,154 @@
+TITLE: The Anomalous Magnetic Moment
+TAGLINE: The vertex correction of Lesson 64, decomposed into form factors F1 and F2, produces Schwinger's a = (g−2)/2 = α/(2π), the number Lesson 43 quoted and this course now derives
+NUM: 75
+NEXT: Lesson 76 takes the same radiative corrections into hydrogen, where they split the Dirac degeneracy of 2s_{1/2} and 2p_{1/2}: the Lamb shift.
+
+# How to use this lesson
+
+Lesson 39 promised that the Dirac Hamiltonian's nonrelativistic reduction gives g=2. Lesson 43 computed α/(2π)≈0.001161 and said it was Schwinger's a=(g−2)/2. Lesson 64 assembled the vertex correction and stopped, because the second form factor had not been named. This lesson names it, evaluates F2(0) at one loop, and obtains a=α/(2π). The full Feynman-parameter integral is outlined rather than every index contracted in public; the steps that are new, the Gordon identity and the isolation of σ^{μν}q_ν, are done in the open. Expect eight to ten hours.
+
+## Learning objectives
+
+- Write the on-shell vertex as ū(p′)Γ^μ u(p)=ū(p′)[γ^μ F1(q²)+iσ^{μν}q_ν F2(q²)/(2m)]u(p), with q=p′−p.
+
+- Identify F1(0)=1 as charge (after renormalization) and F2(0)=a=(g−2)/2 as the anomalous magnetic moment.
+
+- Use the Gordon identity to see how a magnetic-moment term can hide inside a γ^μ vertex.
+
+- State the one-loop result F2(0)=α/(2π), hence g=2(1+α/(2π))≈2.00232.
+
+- Distinguish this finite number from the ultraviolet divergence in F1, which was absorbed into charge renormalization.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| q=p′−p | Momentum transfer at the vertex |
+| F1(q²), F2(q²) | Dirac and Pauli form factors |
+| σ^{μν}=i[γ^μ,γ^ν]/2 | Antisymmetric pair of gamma matrices |
+| a=(g−2)/2 | Anomalous magnetic moment |
+
+# 1 g=2 from the Dirac equation, recalled
+
+Lesson 39, Section 4.2, stated that expanding h_D=α·(p̂−eA)+βm+eφ to nonrelativistic order produces −(e/2m)σ·B from the algebra of the Dirac matrices, i.e. a magnetic moment with g=2. That calculation uses only the tree-level vertex ieγ^μ. There is no adjustable parameter. Experiment, already in 1947, sat slightly above 2. This lesson computes the first correction.
+
+### Worked example 1
+
+If the interaction Hamiltonian of a nonrelativistic spin is −μ·B with μ=g (e/2m) S and S=σ/2, what g corresponds to the Dirac term −(e/2m)σ·B? Comparing −(e/2m)σ·B=−g(e/2m)(σ/2)·B gives g=2.
+
+# 2 Two form factors
+
+The most general Lorentz-covariant, parity-conserving vertex between on-shell Dirac spinors, built from p, p′, and γ^μ, can be reduced with the Dirac equation to two scalar functions of q²:
+
+$$ ū(p′) Γ^μ u(p) = ū(p′) [ γ^μ F₁(q²) + i σ^(μν) q_ν F₂(q²) / (2m) ] u(p)
+
+F1(0) is the electric charge in units of e, after renormalization F1(0)=1. F2(0) multiplies the magnetic moment beyond the Dirac value: a=F2(0).
+
+The Gordon identity,
+
+$$ ū(p′) γ^μ u(p) = ū(p′) [ (p+p′)^μ / (2m) + i σ^(μν) q_ν / (2m) ] u(p)
+
+shows that even the tree vertex γ^μ already contains a magnetic piece, the one that produces g=2. Any extra F2 is an anomaly on top of that.
+
+# 3 Isolating F2 from Lesson 64
+
+Lesson 64's integral for iΛ^μ(p′,p) is a loop with three propagators. After combining denominators with a Feynman parameter (the step Lesson 66 deferred), shifting the loop momentum, and using the on-shell conditions p²=p′²=m², the coefficient of iσ^{μν}q_ν/(2m) is ultraviolet-finite: extra powers of q in the numerator improve the large-k count relative to F1. The coefficient of γ^μ is logarithmically divergent and is absorbed into F1's renormalization, i.e. into the charge.
+
+Evaluating the finite F2 integral at q²=0 yields
+
+$$ F₂(0) = α / (2π)
+
+which is Schwinger's 1948 result. Then a=α/(2π) and g=2+α/π=2(1+α/(2π)).
+
+### Worked example 2
+
+Compute g from α=1/137.036. a=1/(2π×137.036)=0.0011614, g=2.0023228, matching Lesson 43, Exercise 13. The modern experimental electron anomaly is 0.001159652..., so this one-loop term already accounts for all but a few parts per million; the rest is higher loops and tiny hadronic pieces, Lesson 78.
+
+# 4 Why F2(0) could not have been absorbed
+
+Lesson 67 absorbed divergences into parameters already in the Lagrangian. There is no tree-level σ^{μν}F_μν ψ̄ψ operator in ℒ_QED. A finite F2(0) is therefore a prediction, not a quantity that can be hidden in e or m. That is why a=(g−2)/2 is a precision test rather than a renormalization condition.
+
+# 5 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used |
+| F1, F2 decomposition | Organizes every later vertex correction |
+| F2(0)=α/(2π) | Schwinger's a; Lesson 43's number, now derived |
+| g=2 from Gordon plus tree γ^μ | Completes Lesson 39's postponement |
+
+# 6 Summary
+
+1. The on-shell vertex is described by F1(q²) and F2(q²).
+
+2. F1(0)=1 after charge renormalization; F2(0)=a=(g−2)/2.
+
+3. Gordon's identity shows g=2 already sitting inside the tree vertex.
+
+4. The one-loop vertex correction gives F2(0)=α/(2π), ultraviolet-finite.
+
+5. This cannot be absorbed into ℒ_QED's existing parameters, so it is a prediction.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | From μ=g(e/2m)S, S=σ/2, recover g=2 from the Dirac magnetic term −(e/2m)σ·B. |
+| 2 | Write the F1, F2 decomposition and state F1(0) and F2(0). |
+| 3 | Using Gordon, show that γ^μ contains iσ^{μν}q_ν/(2m). |
+| 4 | Why are only two form factors needed (parity, Lorentz, on-shell)? |
+| 5 | Why is F2(0) UV-finite while F1's one-loop piece is not? |
+| 6 | Compute α/(2π) to six significant figures from α=1/137.036. |
+| 7 | Convert that a into g. |
+| 8 | Compare Exercise 7 with the measured a_e≈0.00115965 and estimate the relative size of omitted terms. |
+| 9 | Why can F2 not be absorbed into e or m? |
+| 10 | What would a tree-level Pauli term in ℒ do to the predictivity of a? |
+| 11 | q²=0 is the static magnetic moment. What does F2(q²) at q²≠0 encode, qualitatively? |
+| 12 | Connect this lesson to Lesson 64's two-form-factor preview. |
+| 13 | Sign: QED's a is positive. What does that mean for g versus 2? |
+| 14 | The muon anomaly is more sensitive to heavy virtual particles. Why, qualitatively? |
+| 15 | Write a=(g−2)/2 as the definition, and solve for g given a. |
+| 16 | Challenge: sketch why the Feynman-parameter integral for F2(0) is ∫₀¹ dx x(1−x)/(x(1−x)+...) producing 1/2 after the  α/π prefactors, hence α/(2π). |
+
+# Solutions
+
+**1.** −(e/2m)σ·B versus −g(e/2m)(σ/2)·B implies g=2.
+
+**2.** As in Section 2; F1(0)=1, F2(0)=a.
+
+**3.** Direct reading of the Gordon identity.
+
+**4.** Any extra structure can be reduced using p̸u=mu, ūp̸′=mū, and q=p′−p; parity excludes γ⁵ terms in QED.
+
+**5.** F2 comes with an extra q from σ^{μν}q_ν, improving the large-k power count to a finite integral.
+
+**6.** 1/(2×3.14159×137.036)=0.00116141.
+
+**7.** g=2(1+0.00116141)=2.0023228.
+
+**8.** Experiment is about 0.00115965, a relative difference of order 0.15% of a, i.e. the size of α/π corrections to a itself (two-loop).
+
+**9.** No corresponding operator in the original ℒ_QED; F2 is generated, not parametrized.
+
+**10.** a would become an input, not a prediction, and QED would lose this test.
+
+**11.** The spatial distribution of the anomalous moment, a form factor in q².
+
+**12.** Lesson 64's second matrix structure is iσ^{μν}q_ν/(2m).
+
+**13.** g>2; the loop increases the magnetic moment slightly.
+
+**14.** The muon mass sets a larger loop scale, so heavier virtual states are less suppressed than they are for the electron.
+
+**15.** g=2+2a.
+
+**16.** After combining three denominators, the k-integral is Lesson 66's logarithmically divergent template for F1 and a finite piece ∫dx x(1−x)=1/6 for F2; combined with e²/(16π²)=α/(4π) this produces α/(2π).
+
+# Mastery checklist
+
+- I can write the F1, F2 vertex and identify a=F2(0).
+
+- I can obtain g=2 from Gordon plus the tree vertex.
+
+- I can state F2(0)=α/(2π) and compute g≈2.00232.
+
+- I can explain why this is a prediction rather than a renormalization.

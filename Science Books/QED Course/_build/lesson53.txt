@@ -34,6 +34,14 @@ Every tool this course has built is now put to use at once. Electron-muon scatte
 
 # 1 The diagram and amplitude
 
+FIG:
+ e^{-}(p1) ----*---- e^{-}(p3)
+               |
+               |  γ*  q = p1 − p3
+               |
+ μ^{-}(p2) ----*---- μ^{-}(p4)
+ENDFIG
+
 ## 1.1 The process
 
 Electron-muon scattering proceeds, at leading order, by a single virtual photon exchanged between the two particles: the electron emits (or absorbs) the photon at one vertex, and the muon absorbs (or emits) it at the other. Since the electron and the muon are distinguishable particles, there is no second diagram obtained by relabeling which particle does what, unlike Lesson 49's Compton scattering.

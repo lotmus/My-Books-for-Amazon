@@ -98,6 +98,13 @@ $$ ⟨p′,s′| S^((1)) |p,s;k,λ⟩ = ie , ū_s′(p′) γ^μ u_s(p) , ε_λ,
 
 ## 3.3 The vertex factor
 
+FIG:
+ e^{-}(p) ----*---- e^{-}(p')
+              |
+              |
+             γ(k)
+ENDFIG
+
 Writing this as i(2π)⁴δ⁴(p′−p−k)ℳ, the standard convention separating the universal momentum-conserving delta function from the process-specific amplitude ℳ, ℳ = e ū(p′)γ^μu(p)ε_μ(k). Stripping the external wavefunctions ū(p′), u(p), ε_μ(k), which will be replaced by whatever specific particles occupy each leg in a larger diagram, the object attached to this vertex, for every process built from it, is
 
 $$ i e γ^μ

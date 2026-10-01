@@ -1,19 +1,19 @@
 TITLE: Experimental Predictions
-TAGLINE: Combining Lessons 53–59 into real angular distributions, the Rutherford-like forward peak every t-channel process shares, and where these five processes actually show up in a laboratory
+TAGLINE: Combining Lessons 53–59 into real angular distributions, separating the photon-exchange peak from the collinear fermion poles, and naming where these five processes actually show up in a laboratory
 NUM: 60
 NEXT: Lesson 61 opens Part IX, where the tree-level results collected here stop being the whole story: quantum corrections, computed order by order in the small parameter α fixed in Lesson 43, refine every prediction this lesson has just stated.
 
 # How to use this lesson
 
-Five amplitudes, two phase-space formulas, and nothing left to derive: this lesson's job is to put the pieces of Lessons 53 through 59 together and read off what they actually say about a measurement. Two features turn out to be shared by every process built from a t-channel photon exchange, not accidents of any one calculation, and one of them has a name older than quantum mechanics itself — a divergence Rutherford met in 1911 studying gold foil, still sitting inside these formulas unchanged. The lesson closes Part VIII by naming where each of these five processes is actually used today, before Part IX asks what happens once the tree-level answer is corrected. Expect five to seven hours.
+Five amplitudes, two phase-space formulas, and nothing left to derive: this lesson's job is to put the pieces of Lessons 53 through 59 together and read off what they actually say about a measurement. Electron-muon and Møller scattering really do share Rutherford's 1911 forward peak, a massless photon exchanged at vanishing momentum transfer. Annihilation, Compton scattering, and pair production have poles of a different origin: a fermion propagator going on shell when a photon and an electron are collinear. Treating those two singularities as one phenomenon is a mistake this lesson is written to prevent. The lesson closes Part VIII by naming where each of these five processes is actually used today, before Part IX asks what happens once the tree-level answer is corrected. Expect five to seven hours.
 
 ## Learning objectives
 
 - Assemble the explicit differential cross section for each of Lessons 53–57's processes, combining the spin-summed amplitude with Lesson 58's phase-space formula.
 
-- Rewrite the momentum transfer t in terms of the scattering angle using the half-angle identity t=−4p²sin²(θ/2), and recognize the resulting sin⁻⁴(θ/2) dependence as the Rutherford formula.
+- Rewrite the momentum transfer t in terms of the scattering angle using the half-angle identity t=−4p²sin²(θ/2), and recognize the resulting sin⁻⁴(θ/2) dependence as the Rutherford formula for photon-exchange processes only.
 
-- Explain why the total cross section for any process with a massless-photon t-channel pole diverges as the scattering angle goes to zero, and why this is a real physical feature, not a defect of the calculation.
+- Distinguish the photon-exchange pole (Rutherford, t-channel photon) from the collinear fermion poles in annihilation, Compton scattering, and pair production, and explain why only the first of these is the long-range Coulomb singularity.
 
 - Derive, by a dimensional argument, that every one of these differential cross sections falls as 1/s at fixed scattering angle as the collision energy grows.
 
@@ -59,7 +59,7 @@ so t²=16p⁴sin⁴(θ/2).
 
 ## 2.2 Recognizing Rutherford's formula
 
-Every row of Section 1's table containing an explicit 1/t² (electron-muon scattering and Møller scattering's direct term) therefore carries a factor of 1/sin⁴(θ/2), the exact angular dependence Rutherford derived in 1911 for a charged particle scattered by a fixed Coulomb potential, long before quantum mechanics or QED existed. The two derivations start from entirely different assumptions, a classical trajectory bent by an inverse-square force in one case, a quantum amplitude built from a virtual photon in the other, and land on the identical angular shape.
+Every row of Section 1's table containing an explicit 1/t² (electron-muon scattering and Møller scattering's direct term) therefore carries a factor of 1/sin⁴(θ/2), the exact angular dependence Rutherford derived in 1911 for a charged particle scattered by a fixed Coulomb potential, long before quantum mechanics or QED existed. Those two rows, and only those two rows, are photon-exchange processes: the pole is in a photon propagator, at t=0. The two derivations start from entirely different assumptions, a classical trajectory bent by an inverse-square force in one case, a quantum amplitude built from a virtual photon in the other, and land on the identical angular shape.
 
 ### Worked example 2
 
@@ -67,11 +67,20 @@ State what feature of the interaction, present in both the classical and quantum
 
 ## 2.3 Why the total cross section diverges
 
-Integrating 1/t² over solid angle, using dΩ=2π sinθ dθ and t²∝sin⁴(θ/2), the integral behaves near θ=0 as ∫sinθ dθ/sin⁴(θ/2), which grows without bound as θ→0 (Exercise 9 works out the leading power). The total cross section for Rutherford-type scattering, quantum or classical, is therefore genuinely infinite unless something regulates the smallest angles, physically because a single point charge's field reaches to infinite distance and can deflect a passing particle by an arbitrarily small amount no matter how far away it passes. This is not a flaw in the calculation; it is a correct statement about an idealized, perfectly long-ranged force, and Lesson 73 returns to the same divergence in its quantum form, there called an infrared divergence, and shows what a real, finite measurement does about it.
+Integrating 1/t² over solid angle, using dΩ=2π sinθ dθ and t²∝sin⁴(θ/2), the integral behaves near θ=0 as ∫sinθ dθ/sin⁴(θ/2), which grows without bound as θ→0 (Exercise 9 works out the leading power). The total cross section for Rutherford-type scattering, quantum or classical, is therefore genuinely infinite unless something regulates the smallest angles, physically because a single point charge's field reaches to infinite distance and can deflect a passing particle by an arbitrarily small amount no matter how far away it passes. This is not a flaw in the calculation; it is a correct statement about an idealized, perfectly long-ranged force, and Lesson 73 returns to the same photon-exchange divergence in its quantum form, there called an infrared divergence, and shows what a real, finite measurement does about it. The collinear fermion poles of Section 2.4 are a different, still infrared, problem, and that lesson treats them separately rather than as a second copy of Rutherford.
 
 ### Worked example 3
 
-Explain why the pair-production and annihilation rows of Section 1's table, built from t/u+u/t rather than a bare 1/t², do not show the identical divergence pattern as electron-muon or Møller scattering. t/u+u/t still contains a 1/u pole (from the u-channel diagram) and, for annihilation, a 1/t pole as well, so both processes still diverge at their own respective forward or backward configurations; the difference from electron-muon scattering is one of bookkeeping (which variable labels which pole) rather than of physical origin, since every pole in every one of these five formulas traces back to the same source, a massless photon exchanged with vanishing momentum transfer.
+Explain why the pair-production and annihilation rows of Section 1's table, built from t/u+u/t rather than a bare 1/t², do not show the identical divergence as electron-muon or Møller scattering. Those rows have no photon propagator at all: both diagrams of Lesson 55 and of Lesson 57 have an internal fermion line. The poles sit where that fermion goes on shell, which happens when a photon and an electron (or positron) become collinear, not when a photon is exchanged with vanishing momentum transfer. Calling those poles Rutherford's is a misidentification of which line in the diagram is responsible.
+
+## 2.4 Two singularities, two diagrams
+
+@widths 2880 6912
+| Process | Which line is singular | Physical origin |
+| e⁻μ⁻ and Møller | Photon propagator, ~1/t | Massless photon, long-range Coulomb force |
+| Annihilation, Compton, pair production | Fermion propagator, ~1/s, 1/t, or 1/u | Internal electron on shell when a photon and a fermion are collinear |
+
+Lesson 73's infrared problem for photon exchange is the first row: arbitrarily soft photons, arbitrarily small deflections. The second row is a collinear divergence, still infrared, still requiring an inclusive measurement, but not a statement about the range of the Coulomb field. The bookkeeping of Mandelstam variables can make the two look similar, because a collinear configuration can send t or u to zero; the diagrams are not similar.
 
 # 3 A shared feature: falling with energy
 
@@ -97,7 +106,7 @@ Møller scattering (Lesson 54) is used as a polarimeter in its own right: firing
 
 ## 4.2 Compton scattering
 
-Compton scattering (Lesson 56) is the working principle of a Compton polarimeter, used at particle accelerators to measure a beam's polarization by scattering laser light from it, and its low-energy limit, where the incoming photon's energy is small compared to the electron mass, reduces to the classical Thomson cross section, the pre-quantum formula describing why the sky is blue (short-wavelength light scatters more strongly than long-wavelength light off the atmosphere's electrons). This course does not carry out that low-energy limit in detail, since it requires a frame-dependent kinematic step beyond what Lesson 58 developed, but the connection is a standard, well-documented one.
+Compton scattering (Lesson 56) is the working principle of a Compton polarimeter, used at particle accelerators to measure a beam's polarization by scattering laser light from it. In the low-energy limit, where the incoming photon's energy is small compared to the electron mass, the QED result reduces to the classical Thomson cross section σ_T=8πα²/(3m²)=8πr_e²/3, with r_e=α/m the classical electron radius of Lesson 3. Thomson scattering from a free electron does not depend on wavelength. The sky is blue for a different reason: Rayleigh scattering of sunlight from molecules much smaller than a visible wavelength, with a cross section falling as 1/λ⁴. Those electrons are bound in molecules; the free-electron Compton calculation of Lesson 56 is not that process. This course does not carry out the Thomson limit in detail, since it requires a frame-dependent kinematic step beyond what Lesson 58 developed, but the polarimeter use is a genuine use of the process computed here.
 
 ## 4.3 Annihilation and pair production
 
@@ -109,14 +118,14 @@ Explain, in one sentence, why positron emission tomography needs the two annihil
 
 # 5 What Part VIII has established
 
-Starting from the vertex and propagators of Part VII, Part VIII derived five complete, spin-summed amplitudes from first principles, developed the general two-body phase-space formulas needed to turn any of them into a measurable rate, and found, in this lesson, that the results share structural features (the Rutherford-type forward peak, the 1/s falloff) traced back to the photon's masslessness and to the coupling constant's smallness, both fixed as far back as Lessons 37 and 43. Every formula in Section 1's table is a genuine, checkable, tree-level QED prediction. What none of them yet include is any correction beyond the single-photon-exchange or single-vertex-pair diagrams computed so far; Part IX asks what changes once diagrams with closed loops are added to the sum.
+Starting from the vertex and propagators of Part VII, Part VIII derived five complete, spin-summed amplitudes from first principles, developed the general two-body phase-space formulas needed to turn any of them into a measurable rate, and found, in this lesson, that photon-exchange processes share Rutherford's forward peak while Compton, annihilation, and pair production have collinear fermion poles instead, and that every differential cross section here falls as 1/s at fixed angle. Every formula in Section 1's table is a genuine, checkable, tree-level QED prediction. What none of them yet include is any correction beyond the single-photon-exchange or single-vertex-pair diagrams computed so far; Part IX asks what changes once diagrams with closed loops are added to the sum.
 
 # 6 Connections to QED
 
 @widths 3264 6528
 | Result of this lesson | Where it points |
-| t=−4p²sin²(θ/2) | Recovers the classical Rutherford angular dependence from a purely quantum derivation |
-| Divergent total cross section at θ→0 | The tree-level preview of Lesson 73's infrared divergence |
+| t=−4p²sin²(θ/2) | Recovers the classical Rutherford angular dependence for photon-exchange processes |
+| Photon pole versus fermion pole | Two infrared problems, distinguished here and treated separately in Lesson 73 |
 | dσ/dΩ∝1/s at fixed angle | A general high-energy scaling law for single-photon-exchange processes |
 | Møller/Compton polarimetry, PET, showers | Concrete settings where this course's five processes are used or observed |
 | Five complete tree-level predictions | The baseline Part IX's loop corrections refine |
@@ -125,9 +134,9 @@ Starting from the vertex and propagators of Part VII, Part VIII derived five com
 
 1. Combining Lessons 53–57's amplitudes with Lesson 58's phase-space formula gives five explicit differential cross sections, collected in Section 1's table.
 
-2. Writing t in terms of the scattering angle, t=−4p²sin²(θ/2), reveals the classic Rutherford sin⁻⁴(θ/2) dependence inside any t-channel process.
+2. Writing t in terms of the scattering angle, t=−4p²sin²(θ/2), reveals the classic Rutherford sin⁻⁴(θ/2) dependence inside photon-exchange processes (electron-muon and Møller), not inside every process that happens to have a Mandelstam variable in a denominator.
 
-3. The total cross section for such a process diverges as the scattering angle goes to zero, a genuine consequence of the photon's masslessness, previewed here and resolved properly in Lesson 73.
+3. The photon-exchange total cross section diverges as the scattering angle goes to zero, a genuine consequence of the photon's masslessness. Annihilation, Compton scattering, and pair production diverge for a different reason, a collinear fermion propagator, previewed here and resolved properly in Lesson 73.
 
 4. Every differential cross section in this course's table falls as 1/s at fixed angle as the collision energy grows, a dimensional consequence of the ratios of Mandelstam variables involved.
 
@@ -184,7 +193,7 @@ Starting from the vertex and propagators of Part VII, Part VIII derived five com
 
 **13.** dσ/dΩ=|ℳ|²/(64π²s), and |ℳ|² is built from ratios such as s²/t² that, by Exercise 12, approach fixed, s-independent values at fixed θ; the only remaining s-dependence in the whole expression is the explicit 1/s prefactor, so dσ/dΩ∝1/s at fixed angle as claimed.
 
-**14.** Electron-muon scattering (Lesson 53): structurally the same calculation underlying early electron-proton structure experiments. Møller scattering (Lesson 54): beam polarimetry at accelerators. Electron-positron annihilation (Lesson 55): positron emission tomography. Compton scattering (Lesson 56): Compton polarimetry and, in its low-energy limit, the classical explanation of the sky's color. Pair production (Lesson 57): electromagnetic showers in particle detectors and in the atmosphere.
+**14.** Electron-muon scattering (Lesson 53): structurally the same calculation underlying early electron-proton structure experiments. Møller scattering (Lesson 54): beam polarimetry at accelerators. Electron-positron annihilation (Lesson 55): positron emission tomography. Compton scattering (Lesson 56): Compton polarimetry; its low-energy limit is Thomson scattering, which is wavelength-independent and is not why the sky is blue (that is Rayleigh scattering from molecules). Pair production (Lesson 57): electromagnetic showers in particle detectors and in the atmosphere.
 
 **15.** A single annihilation photon would violate momentum conservation for an electron-positron pair with nonzero total momentum in most frames (essentially the single-vertex obstruction of Lesson 44, Section 4, revisited), and any channel with more than two photons, or with additional particles, spreads the available energy across more final-state directions, making the clean, back-to-back two-photon signature (Lesson 55's own kinematics) the practical, reconstructible pattern the imaging technique relies on directly.
 
@@ -194,9 +203,9 @@ Starting from the vertex and propagators of Part VII, Part VIII derived five com
 
 - I can assemble the explicit differential cross section for each of Lessons 53–57's processes.
 
-- I can rewrite t in terms of the scattering angle and recognize the Rutherford sin⁻⁴(θ/2) form.
+- I can rewrite t in terms of the scattering angle and recognize the Rutherford sin⁻⁴(θ/2) form for photon-exchange processes.
 
-- I can explain why the total cross section for a t-channel photon-exchange process diverges at small angles, and why this reflects real physics.
+- I can distinguish a photon-propagator pole from a collinear fermion-propagator pole, and I know which of the five processes is which.
 
 - I can derive the 1/s falloff of these cross sections at fixed angle and high energy.
 

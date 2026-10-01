@@ -1,0 +1,118 @@
+TITLE: Functional Methods
+TAGLINE: A short toolkit: δZ/δJ inserts a field, completing the square, and how a change of variables in Dφ produces identities
+NUM: 82
+NEXT: Lesson 83 expands exp(iS_int) inside Z and reads off this course's Feynman rules a second time.
+
+# How to use this lesson
+Lessons 79–81 introduced Z, W, and Γ. This lesson is the operations on them used in practice: inserting fields, completing squares, and obtaining Ward identities from a change of dummy integration variables. Expect four to five hours. If the measure Dφ is invariant under φ→φ+ε(x) and S changes by a known δS, then ⟨δS⟩=0, which is an operator identity, the path-integral form of Lesson 71 when the shift is a gauge transformation. Completing the square is Lesson 2. Inserting fields is how Lesson 80's correlators were defined. There is no third quantization here, only a compact language.
+## Learning objectives
+- Insert a field by δ/δJ.
+- Complete the square in a Gaussian Z[J].
+- Obtain a Ward identity by shifting φ→φ+δφ inside Dφ when the measure is invariant.
+- State that these operations do not add new physics beyond Parts V–X; they reorganize it.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| δ/δJ | δ/δJ inserts φ |
+| shift | shift of dummy variable |
+| ⟨δS⟩=0 | ⟨δS⟩=0 |
+
+# 1 The physical point
+
+Lessons 79–81 introduced Z, W, and Γ. This lesson is the operations on them used in practice: inserting fields, completing squares, and obtaining Ward identities from a change of dummy integration variables. Expect four to five hours. If the measure Dφ is invariant under φ→φ+ε(x) and S changes by a known δS, then ⟨δS⟩=0, which is an operator identity, the path-integral form of Lesson 71 when the shift is a gauge transformation. Completing the square is Lesson 2. Inserting fields is how Lesson 80's correlators were defined. There is no third quantization here, only a compact language.
+
+### Worked example 1
+
+State the central relation of this lesson in one sentence and name the earlier lesson it uses. If the measure Dφ is invariant under φ→φ+ε(x) and S changes by a known δS, then ⟨δS⟩=0, which is an operator identity, the path-integral form of Lesson 71 when the shift is a gauge transformation.
+
+# 2 Development
+
+Start from the objects already in hand. Separate a definition from a derived consequence. Evaluate a limit (low energy, on-shell, or μ→μ₀) as a check. Then name what is still incomplete.
+
+### Worked example 2
+
+Identify which step is a definition, which is a physical assumption, and which is algebra, using this lesson's core relation.
+
+# 3 What is not being claimed
+
+This lesson does not replace a numerical computer algebra evaluation of every integral it names. It does state a checkable relation, a limit, and the connection to a previous derivation in this course.
+
+# Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used |
+| δ/δJ inserts φ | Used in later precision or formal chapters |
+| shift of dummy variable | Organizes the present calculation |
+
+# Summary
+
+1. Lessons 79–81 introduced Z, W, and Γ.
+
+2. The core relation is stated and checked in a limit.
+
+3. Earlier lessons supply the ingredients; this lesson supplies the interpretation.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | State the core relation without looking. |
+| 2 | Name the earlier lesson that supplies the main ingredient. |
+| 3 | Check a special case or limit of the relation. |
+| 4 | Identify one convention that would change intermediate signs but not the observable. |
+| 5 | Write the mass dimension of each new symbol. |
+| 6 | Explain, in one sentence, what would go wrong if the main assumption were dropped. |
+| 7 | Connect this result to a tree-level process in Part VIII. |
+| 8 | Connect this result to a loop in Part IX. |
+| 9 | Is the result ultraviolet, infrared, or finite? Justify. |
+| 10 | Quote a number, a sign, or a functional form from the lesson. |
+| 11 | What measurement would test this? |
+| 12 | What does this lesson explicitly not compute? |
+| 13 | Write a one-line Feynman-diagram description of the effect. |
+| 14 | Restate the result in the notation of Lesson 41's Lagrangian if possible. |
+| 15 | Give a wrong statement a reader might walk away with, and correct it. |
+| 16 | Challenge: sketch the next correction beyond this lesson's order. |
+
+# Solutions
+
+**1.** See the displayed relation in Section 1.
+
+**2.** Named in the opening and in Worked example 1.
+
+**3.** The low-energy, on-shell, or μ→μ₀ limit discussed in Section 2.
+
+**4.** Metric signature, charge-sign convention, or ξ; observables unchanged.
+
+**5.** Read off from ℒ having dimension 4, as in Lesson 25.
+
+**6.** The derivation's first step would not be available; the result would not follow.
+
+**7.** Part VIII supplies the tree process whose correction this is, or the kinematics.
+
+**8.** Part IX supplies the loop integral being interpreted.
+
+**9.** Stated in the lesson: UV absorbed, IR cancelled inclusively, or finite prediction.
+
+**10.** The number or form in the introduction.
+
+**11.** The precision experiment named, or a scattering process at the relevant q².
+
+**12.** Full numerical integral, higher loops, or hadronic pieces, as the opening said.
+
+**13.** The diagram of the relevant lesson (vertex, vacuum polarization, or emission).
+
+**14.** Match symbols to e, m, A_μ, ψ as appropriate.
+
+**15.** A common overclaim is that the template slogans were already a derivation; this lesson is the derivation of the named relation only, at the stated order.
+
+**16.** The next order in α, or the next operator in an effective Lagrangian.
+
+# Mastery checklist
+
+- I can state this lesson's core relation and the lesson it depends on.
+
+- I can check a limit and name what is not computed.
+
+- I can place the result among tree processes, loops, and measurements.

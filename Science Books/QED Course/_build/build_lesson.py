@@ -29,6 +29,8 @@ from docx.shared import Pt, RGBColor, Twips
 from lxml import etree
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+if HERE not in sys.path:
+    sys.path.insert(0, HERE)
 ROOT = os.path.dirname(HERE)
 TEMPLATE = os.path.join(ROOT, "Lesson 01 Complex Numbers and Linear Algebra.docx")
 COMPLETE = os.path.join(ROOT, "Complete QED Course.docx")
@@ -79,6 +81,16 @@ def parse(path):
                 if j < len(lines) and re.match(r"^\d+\.\s", lines[j]):
                     i = j
             blocks.append(("numbered", items))
+            continue
+        if line.startswith("FIG:"):
+            fig = []
+            i += 1
+            while i < len(lines) and lines[i].strip() != "ENDFIG":
+                fig.append(lines[i][1:] if lines[i].startswith(" ") else lines[i])
+                i += 1
+            if i < len(lines) and lines[i].strip() == "ENDFIG":
+                i += 1
+            blocks.append(("figure", fig))
             continue
         if line.startswith("### "):
             blocks.append(("h3", line[4:]))
@@ -200,10 +212,32 @@ class Builder:
         p.alignment = WD_ALIGN_PARAGRAPH.CENTER
         omp = etree.SubElement(p._p, "{%s}oMathPara" % M_NS)
         om = etree.SubElement(omp, "{%s}oMath" % M_NS)
-        r = etree.SubElement(om, "{%s}r" % M_NS)
-        t = etree.SubElement(r, "{%s}t" % M_NS)
-        t.set(XML_SPACE, "preserve")
-        t.text = text
+        try:
+            from omath import fill_omath
+            fill_omath(om, text)
+        except Exception:
+            r = etree.SubElement(om, "{%s}r" % M_NS)
+            t = etree.SubElement(r, "{%s}t" % M_NS)
+            t.set(XML_SPACE, "preserve")
+            t.text = text
+        self.elements.append(p._p)
+
+    def figure(self, lines):
+        p = self.doc.add_paragraph()
+        p.paragraph_format.space_before = Pt(8)
+        p.paragraph_format.space_after = Pt(8)
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        for i, line in enumerate(lines):
+            run = p.add_run(("" if i == 0 else "\n") + line)
+            run.font.name = "Consolas"
+            run.font.size = Pt(10)
+            rpr = run._element.get_or_add_rPr()
+            rfonts = rpr.find(qn("w:rFonts"))
+            if rfonts is None:
+                rfonts = OxmlElement("w:rFonts")
+                rpr.append(rfonts)
+            for a in ("w:ascii", "w:hAnsi", "w:cs", "w:eastAsia"):
+                rfonts.set(qn(a), "Consolas")
         self.elements.append(p._p)
 
     def solution(self, lead, text):
@@ -281,6 +315,8 @@ class Builder:
                 self.table(b[2], b[1])
             elif kind == "solution":
                 self.solution(b[1], b[2])
+            elif kind == "figure":
+                self.figure(b[1])
             elif kind == "pagebreak":
                 self.pagebreak()
             elif kind == "para":

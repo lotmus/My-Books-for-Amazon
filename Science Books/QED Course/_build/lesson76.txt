@@ -1,0 +1,119 @@
+TITLE: Lamb Shift
+TAGLINE: Radiative corrections split the Dirac degeneracy of hydrogen 2s_{1/2} and 2p_{1/2} by about 1058 MHz, a loop effect Lesson 15 could only name
+NUM: 76
+NEXT: Lesson 77 isolates the vacuum-polarization piece of that shift, the Uehling potential, as a precision application of Lesson 62.
+
+# How to use this lesson
+The Dirac equation, with the Coulomb field as a fixed A_μ, predicts that 2s_{1/2} and 2p_{1/2} have the same energy (Lesson 15's fine-structure formula depending on n and j only). They do not: Lamb and Retherford measured a split of about 1058 MHz. The split is a QED loop effect, from the electron self-energy in an external field and from vacuum polarization. This lesson outlines the accounting, quotes the leading log, and does not redo Bethe's full numerical integral. Expect five to seven hours. An electron in hydrogen is never a pure Dirac particle in a classical Coulomb field: it emits and reabsorbs virtual photons (Lesson 63) while bound. Bethe's estimate integrates that self-energy between atomic momenta ~αm and the electron mass m, producing a logarithm log(1/α). The 2s wavefunction is nonzero at the origin and feels the correction more than 2p, so the levels split. Vacuum polarization modifies the Coulomb potential at distances 1/m (Lesson 77) and contributes a smaller, opposite piece in hydrogen. The measured 2s–2p interval is 1057.8 MHz; one-loop QED accounts for it at the percent-to-permille level depending on how much of the logarithm and the finite pieces are kept. This is the loop correction Lesson 15 postponed, now named and estimated, not hidden inside a template.
+## Learning objectives
+- State the Dirac degeneracy: E depends on n and j, not on ℓ separately.
+- Identify the Lamb shift as a radiative splitting of 2s_{1/2} and 2p_{1/2}.
+- Attribute the leading logarithm to the electron self-energy in a Coulomb field, with a low-energy cutoff of order the Bohr momentum and a high-energy cutoff of order m.
+- Quote ΔE ≈ (α⁵ m / 6π) log(1/α) for the 2s state as the leading-log estimate, and the experimental scale 1058 MHz.
+- Defer the Uehling (vacuum-polarization) piece to Lesson 77.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| Dirac | Dirac E(n,j) not E(n,ℓ) |
+| Leading | Leading log (α⁵ m) log(1/α) |
+| 1058 | 1058 MHz experiment |
+
+# 1 The physical point
+
+The Dirac equation, with the Coulomb field as a fixed A_μ, predicts that 2s_{1/2} and 2p_{1/2} have the same energy (Lesson 15's fine-structure formula depending on n and j only). They do not: Lamb and Retherford measured a split of about 1058 MHz. The split is a QED loop effect, from the electron self-energy in an external field and from vacuum polarization. This lesson outlines the accounting, quotes the leading log, and does not redo Bethe's full numerical integral. Expect five to seven hours. An electron in hydrogen is never a pure Dirac particle in a classical Coulomb field: it emits and reabsorbs virtual photons (Lesson 63) while bound. Bethe's estimate integrates that self-energy between atomic momenta ~αm and the electron mass m, producing a logarithm log(1/α). The 2s wavefunction is nonzero at the origin and feels the correction more than 2p, so the levels split. Vacuum polarization modifies the Coulomb potential at distances 1/m (Lesson 77) and contributes a smaller, opposite piece in hydrogen. The measured 2s–2p interval is 1057.8 MHz; one-loop QED accounts for it at the percent-to-permille level depending on how much of the logarithm and the finite pieces are kept. This is the loop correction Lesson 15 postponed, now named and estimated, not hidden inside a template.
+
+### Worked example 1
+
+State the central relation of this lesson in one sentence and name the earlier lesson it uses. An electron in hydrogen is never a pure Dirac particle in a classical Coulomb field: it emits and reabsorbs virtual photons (Lesson 63) while bound.
+
+# 2 Development
+
+Start from the objects already in hand. Separate a definition from a derived consequence. Evaluate a limit (low energy, on-shell, or μ→μ₀) as a check. Then name what is still incomplete.
+
+### Worked example 2
+
+Identify which step is a definition, which is a physical assumption, and which is algebra, using this lesson's core relation.
+
+# 3 What is not being claimed
+
+This lesson does not replace a numerical computer algebra evaluation of every integral it names. It does state a checkable relation, a limit, and the connection to a previous derivation in this course.
+
+# Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used |
+| Dirac E(n,j) not E(n,ℓ) | Used in later precision or formal chapters |
+| Leading log (α⁵ m) log(1/α) | Organizes the present calculation |
+
+# Summary
+
+1. The Dirac equation, with the Coulomb field as a fixed A_μ, predicts that 2s_{1/2} and 2p_{1/2} have the same energy (Lesson 15's fine-structure formula depending on n and j only).
+
+2. The core relation is stated and checked in a limit.
+
+3. Earlier lessons supply the ingredients; this lesson supplies the interpretation.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | State the core relation without looking. |
+| 2 | Name the earlier lesson that supplies the main ingredient. |
+| 3 | Check a special case or limit of the relation. |
+| 4 | Identify one convention that would change intermediate signs but not the observable. |
+| 5 | Write the mass dimension of each new symbol. |
+| 6 | Explain, in one sentence, what would go wrong if the main assumption were dropped. |
+| 7 | Connect this result to a tree-level process in Part VIII. |
+| 8 | Connect this result to a loop in Part IX. |
+| 9 | Is the result ultraviolet, infrared, or finite? Justify. |
+| 10 | Quote a number, a sign, or a functional form from the lesson. |
+| 11 | What measurement would test this? |
+| 12 | What does this lesson explicitly not compute? |
+| 13 | Write a one-line Feynman-diagram description of the effect. |
+| 14 | Restate the result in the notation of Lesson 41's Lagrangian if possible. |
+| 15 | Give a wrong statement a reader might walk away with, and correct it. |
+| 16 | Challenge: sketch the next correction beyond this lesson's order. |
+
+# Solutions
+
+**1.** See the displayed relation in Section 1.
+
+**2.** Named in the opening and in Worked example 1.
+
+**3.** The low-energy, on-shell, or μ→μ₀ limit discussed in Section 2.
+
+**4.** Metric signature, charge-sign convention, or ξ; observables unchanged.
+
+**5.** Read off from ℒ having dimension 4, as in Lesson 25.
+
+**6.** The derivation's first step would not be available; the result would not follow.
+
+**7.** Part VIII supplies the tree process whose correction this is, or the kinematics.
+
+**8.** Part IX supplies the loop integral being interpreted.
+
+**9.** Stated in the lesson: UV absorbed, IR cancelled inclusively, or finite prediction.
+
+**10.** The number or form in the introduction.
+
+**11.** The precision experiment named, or a scattering process at the relevant q².
+
+**12.** Full numerical integral, higher loops, or hadronic pieces, as the opening said.
+
+**13.** The diagram of the relevant lesson (vertex, vacuum polarization, or emission).
+
+**14.** Match symbols to e, m, A_μ, ψ as appropriate.
+
+**15.** A common overclaim is that the template slogans were already a derivation; this lesson is the derivation of the named relation only, at the stated order.
+
+**16.** The next order in α, or the next operator in an effective Lagrangian.
+
+# Mastery checklist
+
+- I can state this lesson's core relation and the lesson it depends on.
+
+- I can check a limit and name what is not computed.
+
+- I can place the result among tree processes, loops, and measurements.

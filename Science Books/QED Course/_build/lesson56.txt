@@ -32,6 +32,15 @@ Lesson 49 set up Compton scattering in full: the two diagrams, the vertex factor
 
 # 1 Completing Compton scattering
 
+FIG:
+          γ(k)                 γ(k')              γ(k)                 γ(k')
+           |                    |                  |                    |
+           |                    |                  |                    |
+ e^{-} ----*--------------------*---- e^{-}     e^{-} ----*--------------------*---- e^{-}
+        (p)      q_A = p+k     (p')                    (p)   q_B = p−k'     (p')
+            diagram A,  s-channel                    diagram B,  u-channel
+ENDFIG
+
 ## 1.1 Recap
 
 Lesson 49 derived iℳ_A=(ie)²ū(p′)γ^β[i(q̸_A+m)/(q_A²−m²+iε)]γ^αu(p)ε_α(k)ε_β(k′), with q_A=p+k the direct diagram's internal momentum (q_A²=s), and identified a second, crossed diagram with internal momentum q_B=p−k′ (q_B²=u, Lesson 49, Section 3.1). Both enter with a plain plus sign: the two diagrams differ in which of the two photon fields is contracted with the incoming versus outgoing photon, an ordinary bosonic reassignment carrying no minus sign, exactly as in Lesson 55, Section 1.2.

@@ -34,6 +34,15 @@ Two loops have been built by hand, one attached to a photon line and one attache
 
 # 1 The diagram
 
+FIG:
+ e^{-}(p) ----*~~~~~~~~~~~~~~~*---- e^{-}(p')
+               \             /
+                \           /
+                 *---------     virtual photon k
+                 |
+                γ(q)
+ENDFIG
+
 ## 1.1 What it looks like
 
 An electron enters with momentum p and leaves with momentum p′, exactly as at any ordinary vertex, with an external photon of momentum q=p′−p attaching somewhere along the way. The correction this lesson builds inserts an extra virtual photon: the electron emits it near the start, carrying momentum k away, absorbs the external photon while carrying the shifted momentum p−k, then reabsorbs the virtual photon before finally reaching p′. Three vertices, three internal lines (two electron propagators and one photon propagator): Lesson 61, Section 4.1, gives L=I−V+1=3−3+1=1, the same single loop momentum as the previous two diagrams, arranged in a new pattern.

@@ -32,6 +32,20 @@ Before any algebra, a picture. The vacuum of quantum electrodynamics is not empt
 
 # 1 Assembling the diagram, piece by piece
 
+FIG:
+          γ(q)
+           |
+           *
+          / \
+         /   \
+        |     |   electron loop, momenta k and k−q
+         \   /
+          \ /
+           *
+           |
+          γ(q)
+ENDFIG
+
 ## 1.1 What already exists
 
 Four ingredients go into this diagram, and every one of them was built in an earlier lesson, for a different purpose, well before this lesson needed them.
