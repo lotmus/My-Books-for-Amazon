@@ -1,0 +1,27 @@
+---
+description: Which manuscript is live, and which files other agents must not overwrite
+alwaysApply: true
+---
+
+# Manuscript handover
+
+Read the guide before editing. Re-count the live file if its size or paragraph count differs from the guide. Paragraph indexes move; trust anchor sentences.
+
+## Live files
+
+- Book 1: `Book 1 - Schrodingers Paperwork/Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`. Guide: `MANUSCRIPT_GUIDE.md`. Places: `CHARACTER_AND_PLACE_GUIDE.md`.
+- Book 2: `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_DRAFT.docx`. Guide: `Book 2 - The Permitted Options/MANUSCRIPT_GUIDE.md`.
+
+## Not the live book
+
+- Book 1 `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.voice-unruh-brillouin.docx` and any `*.before-*.docx`.
+- Book 2 `bak/The_Permitted_Options_BOOK_2_DRAFT.docx` (pre-name-fix). Never overwrite it. Other `bak/before-*` files are snapshots. The original RTF is an abandoned Neville/Weinstein draft.
+- The parent folder `Schrodingers_Paperwork/` is a different tree. The series Book 1 is the path above.
+
+## While editing
+
+- Curly quotes only. Reset quote state at each paragraph. A quote right after an em dash closes. Do not collapse runs in a paragraph that has a hyperlink.
+- New prose inserted after a heading must be set to Body Text. Cloning a heading's style puts the new paragraph in the Kindle contents.
+- Book 2 glossary entries and bibliography entries are Body Text. Only the two headings `Glossary` and `Bibliography` are Heading 2.
+- Do not restore Book 2 working titles, one-line summaries, "Stop. Before you go on", or continuity notes. Those deletions stop before "The Permitted Options ends here" and "Q.E.D."
+- Do not commit or push unless the user asks. Parent git root is `My Books for Amazon`. Do not force-push.

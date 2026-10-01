@@ -1,7 +1,8 @@
 # Schrödinger's Paperwork — Book 1 — Working Guide
 
 Reference file for editorial/formatting work on `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`.
-Read this first. Only open the full manuscript for tasks that genuinely need it (continuity checks,
+Shared facts for every book in the series are in `../SERIES_BIBLE.md`. Read that before changing a person, a place, a date, or a physics claim.
+Read this first for Book 1's file. Only open the full manuscript for tasks that genuinely need it (continuity checks,
 verifying a specific passage, reading unfamiliar new content). Keep this file updated as facts change.
 
 Handover, 30 September 2026. This Kindle file is the live Book 1. Do not edit
@@ -25,8 +26,8 @@ plan that uses tools from all of them. The anchor is safely decoupled; 308 of 41
 recovered; the book ends on themes of honest incompleteness ("recoverable, not unharmed") and the
 long cosmological future ("There is no lid").
 
-Structure: Prologue + 18 chapters + Epilogue (the story), then an Appendix of 19 physics lectures
-(one per chapter, teaching the real quantum mechanics behind that chapter's plot beat), then back
+Structure: Prologue + 18 chapters + Epilogue (the story), then an Appendix of 18 physics lectures
+(Chapter 14 has two: strings, then entropy and holography), then back
 matter (Glossary, Further Reading, Who Is Who, Author's Note, About the Series).
 
 ## Main characters
@@ -1828,7 +1829,7 @@ Applied on the series Kindle file, which already had the slam-review Elm Grove m
 
 The review fix is in the live Kindle file. Do not restore the previous wording from `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.before-review-fix.docx`.
 
-- A look does not move a street. 4C does, because it is coupled to unresolved alternatives and built to force a record. Buses, complaint files, and Whitbury are enlargements. The nine thousand dwellings are the coupling. That rule is in the Physics Prologue and in Lesson 1's "what this chapter was actually showing you."
+- A look does not move a street. 4C does, because it is coupled to unresolved alternatives and built to force a record. Buses, complaint files, and Whitbury are enlargements. The nine thousand dwellings are the coupling. That rule is in the prologue (the Ministry misunderstood "collapse"), in the Physics Prologue, and in Lesson 1. Do not put the eye and the clipboard back on equal terms.
 - Lesson 1's Mrs Chain line is: she will not accept "more than one answer waiting in a drawer"; the alternatives can still interfere, which a hidden answer never can. Do not put back "she will nod at more than one answer waiting."
 - Coldharrow is a district of west London that kept its own name. The A40 runs west out of Coldharrow and on out of London, past the Uxbridge road. Do not make Coldharrow, London, and Uxbridge three different maps.
 - The cast list does not name the consultants' theories. "A Word on Who Is Who," at the back, is the reveal. Do not put pilot-wave, many worlds, eleven dimensions, or the cat back into the cast.
@@ -1837,4 +1838,11 @@ The review fix is in the live Kindle file. Do not restore the previous wording f
 - Heisenburger's acknowledgment is numbered 137. That is the fine-structure constant's famous approximation, stated after the formula in the backlog. The Hawking-anthology note says so. It is not a derivation.
 - Shared films are linked once in the glossary. The other entry points at that one. Definitions stand if a film has moved.
 - The contents list uses ListParagraph. Do not promote those lines to Heading 1, or the Kindle contents will list every chapter twice.
+- The cast line for Eilstein says he is very old and arrives when invited. Vampire and what he feeds on stay in Chapter 11 and in "A Word on Who Is Who."
+- Gideon locates the relay and pulls it. The technician holds the torch. Do not give the relay back to her.
+- Chapter 16 does not name Landauer or Boltzmann. Chapter 17 does not say negentropic. Those lessons stay in the appendix.
+- Lesson 7 stops at entanglement. Decoherence is Lesson 10. Chapter 14 has two lectures, 14a and 14b.
+- The eight-part lecture map and the companion demos sit after "The Shape of This Course," not in How to Read.
+- Jago pays one Cardiff chit during the eleven weeks. Venn leaves the tape roll out the week before the frame is found. The epilogue still does not have him confess.
+- The book ends on THE END. Do not put the one-word Obviously back after it.
 

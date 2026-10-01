@@ -168,8 +168,9 @@ the in-book identities only.)*
   had seen on posters and school laboratory walls." Casts no shadow, has no reflection. (Ch11)
 - **Sound:** Ghost of an accent too old for any country still drawing its own borders, "and a courtesy so complete it was faintly alarming." (Ch11)
 - **Smell:** "Very faintly, of spent matches and photographic developer." (Ch11)
-- **Attitude:** "The oldest consequence" — a vampire who feeds on discarded quantum branches, not
-  blood ("Blood is a courier"). Excellent table manners, unsettling honesty. Genuinely alarmed by
+- **Attitude:** "The oldest consequence" — in the story he is a vampire who feeds on discarded quantum branches, not
+  blood ("Blood is a courier"). The cast list does not say vampire and does not say what he feeds on.
+  It says he is very old and arrives when invited. Excellent table manners, unsettling honesty. Genuinely alarmed by
   Phase Two despite (because of) his own appetite for collapse. Needs to be invited in. Also the
   subject of a running mundane-explanation joke: Jago claims he already asked, years earlier ("in a
   stairwell in '19"), and got told the pallor is office fluorescents and the Bloody Marys are just a

@@ -1,6 +1,6 @@
 # Series handover — 30 Sep 2026
 
-Several agents edit these books at the same time. Read this, then the live file. If the file is newer than this note, the file wins. Do not commit or push unless asked. Do not overwrite anything in a `bak` folder.
+Several agents edit these books at the same time. Read `SERIES_BIBLE.md` in this folder before adding a person, a place, a date, a physics claim, or a plot. Then read this file, then the live manuscript. If the file is newer than this note, the file wins. Do not commit or push unless asked. Do not overwrite anything in a `bak` folder.
 
 The parent repository is `C:\Users\lomus\OneDrive\My Books for Amazon`, remote `https://github.com/lotmus/My-Books-for-Amazon.git`. The old `schrodingers-paperwork-manuscript` remote is gone. Do not pull it.
 
