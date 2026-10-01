@@ -40,37 +40,68 @@ def add_pic(name, alt):
     r._r.xpath(".//wp:docPr")[0].set("descr", alt)
 
 
-buf = []
+def bookmark(paragraph, name):
+    start = OxmlElement("w:bookmarkStart")
+    start.set(qn("w:id"), str(bookmark.next_id))
+    start.set(qn("w:name"), name)
+    end = OxmlElement("w:bookmarkEnd")
+    end.set(qn("w:id"), str(bookmark.next_id))
+    bookmark.next_id += 1
+    paragraph._p.insert(0, start)
+    paragraph._p.append(end)
 
 
-def flush():
-    text = " ".join(x.strip() for x in buf).strip()
-    buf.clear()
-    if text:
-        d.add_paragraph(text)
+bookmark.next_id = 1
 
 
+def link_to(paragraph, text, anchor):
+    hyperlink = OxmlElement("w:hyperlink")
+    hyperlink.set(qn("w:anchor"), anchor)
+    run = OxmlElement("w:r")
+    rpr = OxmlElement("w:rPr")
+    color = OxmlElement("w:color")
+    color.set(qn("w:val"), "0C2D5A")
+    underline = OxmlElement("w:u")
+    underline.set(qn("w:val"), "single")
+    rpr.append(color)
+    rpr.append(underline)
+    run.append(rpr)
+    node = OxmlElement("w:t")
+    node.text = text
+    run.append(node)
+    hyperlink.append(run)
+    paragraph._p.append(hyperlink)
+
+
+from docx.oxml.ns import qn
+from docx.oxml import OxmlElement
+
+in_contents = False
 for raw in src.splitlines():
     line = raw.rstrip()
     if not line.strip():
-        flush()
         continue
     if line.startswith("{{img:") and line.endswith("}}"):
-        flush()
         body = line[len("{{img:") : -2]
         name, alt = body.split("|", 1)
         add_pic(name.strip(), alt.strip())
         continue
     if line.startswith("# "):
-        flush()
-        d.add_paragraph(line[2:].strip(), "Heading 1")
+        title = line[2:].strip()
+        in_contents = title == "Contents"
+        paragraph = d.add_paragraph(title, "Heading 1")
+        slug = "h_" + "".join(ch.lower() if ch.isalnum() else "_" for ch in title)[:40]
+        bookmark(paragraph, slug)
         continue
     if line.startswith("## "):
-        flush()
         d.add_paragraph(line[3:].strip(), "Heading 2")
         continue
-    buf.append(line)
-flush()
+    if in_contents:
+        paragraph = d.add_paragraph()
+        slug = "h_" + "".join(ch.lower() if ch.isalnum() else "_" for ch in line)[:40]
+        link_to(paragraph, line.strip(), slug)
+        continue
+    d.add_paragraph(line.strip())
 
 d.save(out)
 words = sum(len(p.text.split()) for p in d.paragraphs)
