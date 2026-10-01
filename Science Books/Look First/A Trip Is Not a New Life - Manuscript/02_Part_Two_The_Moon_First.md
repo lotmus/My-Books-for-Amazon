@@ -6,7 +6,7 @@ The Moon is first because it is close. That sentence is allowed to be boring. Bo
 Three days, not months. A second and a third for the radio, not four minutes, not twenty. One-sixth of the weight you grew up in, which is a kindness to the legs and a rudeness to the dust: everything you kick stays in the conversation longer than you wanted. A test kitchen, not a spare Earth.
 
 Figure 4. Earth and Moon on a simple line; a three-day tick, a 1.3-second tick. Close is a clock, not a romance.
-where light-time to the Moon is about 1.3 seconds one way — a delay you can talk through, if you are patient, and still call a conversation.
+Light-time to the Moon is about 1.3 seconds one way — a delay you can talk through, if you are patient, and still call a conversation.
 Mars will not give you that. Mars gives you a monologue with a pause that can eat a lunch. The Moon gives you a slightly drunk phone call. That difference is not poetry. It is why a medical emergency, a jammed airlock, a software load that needs a human who is still on Earth, is a different sport at three days than at a season.
 The cheap path to the Moon is not a Hohmann argument with a twenty-six-month sulk. You wait for a monthly-ish window, you light, you coast a few days, you arrive in a gravity well that is shallow compared with home and still perfectly able to kill you if you arrive wrong. Abort, in many of the early hours, still means fall back to Earth with a heat shield and a prayer that is really a number. Abort from a Mars transfer, once you are weeks in, is a different novel. Chapter 11 writes that novel. This chapter writes the reason the novel is not the first homework.
 Close is not kind. Close is reachable.
@@ -30,7 +30,7 @@ Landing without air to bite. Leaving without a crane that has already practiced 
 Close also means the Moon will never be a spare Earth. No biosphere. No forest to grow back. No grandmother of a bird to un-kill. Useful well, useful ice rumor, useful closeness. Call it a classroom and you will wash the kitchen at home. Call it a spare and you will stop washing.
 Close, in numbers you can carry.
 The Moon sits, on average, about 384,000 kilometers away — thirty Earths laid side by side, a little less. Light crosses that in a second and a quarter. A cabin on the paths we actually fly crosses it in about three days, because we do not go straight and we do not go fast; we go on a curve that a modest engine can afford, and we arrive with enough left to slow down. Apollo took about three days out and three days back. A modern cabin takes about the same, because the orbits did not change and the engines are not magic.
-where the trip is set by fuel, not by distance — a faster path exists and costs more than any stack wants to carry.
+The trip is set by fuel, not by distance — a faster path exists and costs more than any stack wants to carry.
 The well is shallow. To leave the Moon entirely you need a little under two and a half kilometers a second of speed, against Earth’s eleven. That is why a lander’s ascent stage can be a small fierce thing instead of a skyscraper, and why the whole enterprise is possible with chemistry. It is not why it is easy. The ledger from a low Earth orbit to the lunar surface and back is on the order of six kilometers a second of change, paid in pieces: a burn to leave, a burn to be captured, a burn to come down, a burn to come up, a burn to come home. Every piece is propellant. Propellant is mass. Mass is the invoice Chapter 10 keeps mentioning.
 Windows are gentle here. The Moon is always roughly where it was last month. A polar landing site wants a particular lighting and a particular alignment, which turns any day into a few days a month, but the sulk if you miss is weeks, not years. That gentleness is a large part of why first. A missed lunar window is an annoyance. A missed Mars window is a chapter.
 The two weeks of night.
@@ -61,7 +61,7 @@ Beyond the abrasive glass-shard dust described above, the lunar surface receives
 This is not a dramatic risk in the way a large impact would be; the odds of a strike sizable enough to breach a hull, over any single mission’s duration, are low enough that no program treats it as a top-line concern. It is a slow risk, the same category this book keeps arguing matters more than the dramatic one: a coating that degrades a fraction of a percent per month, a solar panel whose output quietly declines across a multi-year mission, a visor that needs replacing on a schedule no first-time visitor would have guessed. A camp meant to last does not just fight the dust it kicks up. It fights the dust the sky sends down, continuously, for free, whether or not anyone is watching.
 Appendix A4 writes the 1.3 seconds, the three days, the one-sixth, a sketch of lunar Δv, and why polar ice is a maybe-tank, not a city charter. Here, keep the line with two ticks. Close is a clock. Romance can sit in the hall.
 Where the popular version goes wrong.
-The slide promotes the noun and crops the receipt. Look first: ask what was measured, what still needs Earth or a body, what the checklist still leaves empty.
+The slide calls close a romance. Look first: a little over a second of light-time, a few days of coast, and the cargo that delay still invoices.
 Rule: The Moon first, because it is close. Close is a temperature about delay and cargo, not destiny.
 
 ## 5. What Has Already Flown
@@ -130,7 +130,7 @@ Lunar and Martian material, once it reaches Earth, is not simply unpacked on a l
 This is the least photographed room in the entire inventory Chapters 1 through 5 have been cataloguing, and it is arguably the most consequential: every fact this chapter has given about lunar chemistry, water-ice signatures, and basin ages passed through a room like this one first, where a single sneeze in the wrong place could have erased a measurement no launch will ever recollect.
 Appendix A5 writes a ledger of this century’s loops, landers, and returns — successes, tip-overs, boxes in deserts — without turning any logo into a hero. Here, keep the capsule in the frame. Rock in a box is inventory. A skyline is not.
 Where the popular version goes wrong.
-The slide promotes the noun and crops the receipt. Look first: ask what was measured, what still needs Earth or a body, what the checklist still leaves empty.
+The slide promotes a logo into a downtown. Look first: the capsule, the tip-over, the box of rock. Inventory is the rock.
 Rule: What has already flown is inventory. Inventory is not a downtown.
 
 ## 6. The Next Crew Around the Moon
@@ -194,7 +194,7 @@ Crews assigned to a flight of this class enter a formal health-stabilization per
 The last century’s program, after one crew brought a case of German measles home from a pre-launch visit with an unvaccinated family member, delayed a mission by days rather than risk exposure, and the practice has only tightened since, not loosened. A poster shows the launch. It has never once shown the quiet, guarded dormitory in the days before it, where an entire flight’s schedule quietly depends on nobody in the immediate vicinity of the crew sneezing at the wrong moment.
 Appendix A6 writes what an Artemis-II-class morning has to demonstrate and what it is not asked to demonstrate. Here, keep the cabin on the loop. Seats occupied. No dome.
 Where the popular version goes wrong.
-The slide promotes the noun and crops the receipt. Look first: ask what was measured, what still needs Earth or a body, what the checklist still leaves empty.
+The slide puts a feeling in the window. Look first: occupied seats, a radio, and a splashdown the architecture was allowed to call a success.
 Rule: A crew around the Moon is a sortie with a radio. Feelings stop at the window.
 
 ## 7. A Landable Year Is Not a Town
@@ -262,7 +262,7 @@ Beyond the in-flight abort just described, a crew capsule of this class is built
 A pad abort is, in a strict sense, the least glamorous possible use of a vehicle’s most dramatic-looking hardware: an escape system built, hoped-for, tested at real cost, specifically so that it is never actually needed for the reason it was built. A program that tests its abort system and never has to use it in anger has not wasted the test. It has spent money precisely the way this book has argued money should be spent throughout: on the invoice for a lesson nobody wanted to need, paid in advance, so the actual bill, if it ever arrives, is smaller than it would otherwise have been.
 Appendix A7 writes the long poles — refuel, last kilometer, leave, suits — as a list you can keep when the logo changes. Here, keep the ladder and the word attempt. A landable year is not a town.
 Where the popular version goes wrong.
-The slide promotes the noun and crops the receipt. Look first: ask what was measured, what still needs Earth or a body, what the checklist still leaves empty.
+The slide prints a landable year and rents it a town. Look first: the suit, the dust, the leave, and the wrist that still has to bend.
 Rule: A landable year is not a town. Suits, dust, and wrists still have invoices.
 
 ## 8. Gateway and the Architecture Fights
@@ -272,7 +272,7 @@ Warm-to-cold: a winter-over. Months. Cargo from Earth. A Gateway or a surface ti
 
 Figure 8. Two floor plans, same dirt: a can in a high odd orbit; a tin on the ground. A fight, not a law.
 Gateway, in the American ledger and its partners’ ledgers, is a small station in a near-rectilinear halo orbit — a path that is a compromise between seeing the Moon, seeing Earth, and not spending a fortune every time you want to go down or go home.
-where NRHO is a high, lopsided lunar orbit that stays in view of Earth for long stretches and is not “low Moon” in the postcard sense.
+NRHO is a high, lopsided lunar orbit that stays in view of Earth for long stretches and is not “low Moon” in the postcard sense.
 A can in that path can be a staging porch: park, refuel, wait, send a lander down, catch a lander up, hide from a solar storm, run a science rack, let a crew sleep somewhere that is not the lander. It can also be a porch you paid for and then found you did not need, if the lander can go from Earth-side to dirt and back without the handshake. That sentence is the fight.
 Surface-first people say: every kilogram in the halo can is a kilogram that is not a tin on the ice, not a rover, not a power cable. They say a porch is how you never arrive. Orbit-first people say: every crew that has no porch is a crew with one failure mode away from a very long wait, and a lander that is also a house is a house that must also be a rocket. Both are engineering sentences. Both can be true in different decades. Neither is a law of nature. A law of nature does not issue a contract amendment.
 Architecture fights are how you know you are in a program and not a poster. A poster has one floor plan. A program has a graveyard of floor plans and a meeting that is late.
@@ -296,7 +296,7 @@ Mara, on a morning when the seal sticks harder than usual, thinks of a spare can
 The porch, walked once.
 The near-rectilinear halo orbit that the current American ledger picked for its station is a strange path and it was picked for reasons. It is a long loop, about a week around, that swings close over the Moon’s south pole — a few thousand kilometers up — and then far out over the north, to something like seventy thousand kilometers, moving slowly there like a ball at the top of its throw. Because of the shape, a can in that orbit can see Earth almost all the time, avoids the Moon’s shadow for most of the year, and needs only small nudges to stay put. Those are engineering virtues. They are real.
 The cost is the fight. From that orbit, going down to the surface and coming back costs more speed change — more propellant, more mass — than it would from a low, close orbit. So every lander that uses the porch pays a toll for the porch’s convenience, and every kilogram of toll is a kilogram not on the surface. The surface-first people did that arithmetic and did not like it. The orbit-first people did the arithmetic on a crew stuck on the surface with a broken lander and no porch, and did not like that either. Both did arithmetic. Neither found a law.
-where a floor plan is a set of trades that can be re-traded — and a law of nature is a thing that cannot.
+A floor plan is a set of trades that can be re-traded — and a law of nature is a thing that cannot.
 The porch’s ledger, as of this kitchen.
 Two modules first — a power-and-propulsion tug and a small habitat — built, delayed, built some more. Partner nations’ cans behind them: a larger habitat from Europe, life-support pieces from Japan, a robotic arm from Canada, which is how a legislature buys a seat in a cabin. Launch years that moved. And, in the budget year this book was written in, a proposal from the executive to cancel the porch outright, which the legislature declined to fund as a cancellation, so the modules stayed in their buildings and the fight stayed a fight. A porch that can be fired by a budget memo and rehired by a committee is warm-to-cold by definition. It is also, and this matters, a porch that exists as hardware in a room. That is warmer than most of the drawings it competes with.
 The honest cousin, in numbers.
@@ -329,7 +329,7 @@ An earlier orbital station, operated by a different nation’s program across th
 The pattern this chapter has spent its pages describing is not new to this decade’s halo-orbit pause. It is the oldest pattern in the whole subject: a station is a floor plan, a floor plan is a choice, and a choice, once made, can be unmade by the next ledger that inherits the bill. The modules built for the paused porch are not the first flight hardware to wait in a drawer for an architecture to want them again. They are simply the most recent.
 Appendix A8 writes NRHO, the porch-versus-dirt fight and its 2026 resolution, and why ISS is an outpost with an umbilical, not a template for a downtown. Here, keep the two floor plans. A fight, not a law — including the fight that just ended.
 Where the popular version goes wrong.
-The slide promotes the noun and crops the receipt. Look first: ask what was measured, what still needs Earth or a body, what the checklist still leaves empty.
+The slide draws one floor plan and calls the fight finished. Look first: which porch, which dirt, and which invoice the meeting still owes.
 Rule: Gateway is an architecture fight. Settled architecture is how meetings end; camps should show invoices.
 
 ## 9. Other Flags, Other Ledgers
@@ -398,6 +398,6 @@ The framework this chapter’s appendix has already named permits a signatory to
 The framework’s defenders respond that the alternative — no coordination mechanism at all, with every camp free to land wherever it chooses, including immediately adjacent to another nation’s existing hardware — is worse, and that a notification-based safety zone is a genuinely modest tool next to an actual claim of sovereignty, which the 1967 treaty cited earlier still flatly prohibits regardless of what any later framework says. Neither side of this argument has yet been tested by an actual crater with two nations’ hardware close enough together to force the question. Read the debate the way every other unresolved fight in these pages should be read: as a real disagreement, warm as a diplomatic question, with no hot answer yet, because no ships have actually had to share a neighborhood.
 Appendix A9 writes Chang’e-class facts, ILRS as a paper camp, and other partners as a list that will rot and be replaced. Here, keep the two ledgers. Precursors are inventory. A name on a station is a wish that has started to buy metal. Metal is not a city.
 Where the popular version goes wrong.
-The slide promotes the noun and crops the receipt. Look first: ask what was measured, what still needs Earth or a body, what the checklist still leaves empty.
+The slide counts flags and calls the sum a biosphere. Look first: the sample that came home, and the station that is still a name.
 Rule: More flags are access, not a biosphere. Precursors are inventory. Metal is not a city.
 

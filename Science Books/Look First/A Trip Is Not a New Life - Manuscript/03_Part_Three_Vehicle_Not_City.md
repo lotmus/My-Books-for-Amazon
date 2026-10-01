@@ -12,7 +12,7 @@ You could throw tanks, not thimbles. You could throw a tin that is a room, not a
 What it would not change:
 The six millibars of excuse on Mars. The last kilometer. The twenty-minute argument. The twenty-six-month sulk if you miss the window. The ice that must be mined, cracked, stored, and not lost to a leak. The dust. The dosimeter. The pH. The fact that a baby is a life-support system with opinions. The fact that a town is a web of invoices — food, law, medicine, boredom, spare parts — that a hull cannot print by being large.
 Routine is the word that has to sit still.
-where routine means: lights, flies, lands or is caught, is filled again, does this on a calendar that a cargo planner can bet a camp on, and does not make the news every time.
+Routine means: lights, flies, lands or is caught, is filled again, does this on a calendar that a cargo planner can bet a camp on, and does not make the news every time.
 One loud flight is a dare. A dozen loud flights are a test campaign. A hundred quiet flights are the beginning of a truck. We have, in this kitchen, a vehicle class that has lit, flown, broken, taught, and sometimes come back in ways that make a clip. We do not have, as of this writing, the quiet hundred. By the time you read this, the count may be kinder. The temperature of routine should still be earned, not declared. Declaring routine is how a slide cashes an invoice it has not paid.
 Refueling is the other unpaid line. A heavy lander or a Mars stack that needs to be filled in orbit is a stack that needs a tanker company, not a tanker occasion. Transferring cryogenic propellant in zero-g without making a fountain or a bomb is a sport. The sport has papers and tests. A camp that depends on the sport cannot print a month that the sport has not yet survived.
 Reliability is the third line. A trucking company that loses one hull in twenty is a headline. A trucking company that loses one in twenty when the hull is also a house is a funeral program. The number that would make a planner sleep is ruder than the number that makes a clip.
@@ -62,7 +62,7 @@ Before the vehicle this chapter has spent its pages on could fly its early test 
 This is the same fight, in miniature and in advance, that Chapter 16’s later material describes at the industry scale. A single pad’s permit fight is not a footnote to the engineering story. It is a real gate a genuine program had to clear, argued in public, decided by regulators with no stake in the vehicle’s success. A reader who has only seen the flight footage has seen the part of this program that took the least legal effort to produce. The environmental review took years. The flight took minutes.
 Appendix A10 writes mass, cadence, and why “cheap per tonne” is a conditional with three unpaid clauses. Here, keep the truck and the empty box. The box is labeled routine. It is still empty until a planner can bet a camp on it.
 Where the popular version goes wrong.
-The slide promotes the noun. Look first: ask what was measured, what still needs Earth, what the checklist still leaves empty.
+The slide sells hull size as a city. Look first: quiet flights, a calendar a cargo planner can bet, and the routine box that is still empty.
 Rule: A truck is not a downtown. Count quiet flights, not hull size. Keep the empty routine box empty until a planner can bet a camp on it.
 
 ## 11. Mars Rhetoric vs Mars Engineering
@@ -72,13 +72,13 @@ Rhetoric is a decade, a founder, a child in a dome, a species that has become a 
 
 Figure 11. Four large nouns: window, EDL, ISRU, delay. No skyline. The thin air is a bar at the bottom.
 Windows. A cheap path from Earth to Mars is a Hohmann-class fall: you leave when the planets are about to be kind, you coast most of a season, you arrive.
-where a Hohmann-class transfer is on the order of six to nine months, and the kind alignment — the synodic clock — repeats about every twenty-six months.
+A Hohmann-class transfer is on the order of six to nine months, and the kind alignment — the synodic clock — repeats about every twenty-six months.
 Miss the window and you wait on the clock, not on a mood. There is no “we will leave on Tuesday because the slide is lonely.” There is a season you can buy, then a long sulk. A camp that needs a resupply and misses a window is a camp that has just learned what an umbilical is. Twenty-six months is not a weather delay. It is a second calendar you do not get to vote off.
 EDL. Entry, descent, landing. You arrive at a world with an atmosphere that is a rumor by Earth’s standards — about six millibars at the surface, a percent of a percent of what your lungs grew up in — and you arrive fast, because interplanetary falls are fast. You must spend that speed on a heat shield, a parachute that has almost nothing to bite, engines that must finish the job, a crane, a belly flop, a trick that has not yet been demonstrated at the mass of a house. Rovers have done a version of this at the mass of a car, with a decade of nerves and a sky crane — a hovering rocket stage that lowers the vehicle on cables, then flies off to crash somewhere safe — that still looks like a dare. A hull the size of a building is not a car. The thin air does not become thicker because the hull is famous.
-where six millibars is the order of the surface pressure — a kitchen you cannot breathe, a parachute you can barely hire, a sky that is a lie the color of butterscotch.
+Six millibars is the order of the surface pressure — a kitchen you cannot breathe, a parachute you can barely hire, a sky that is a lie the color of butterscotch.
 ISRU. In-situ resource utilization: melt the ice, crack the carbon dioxide, print a spare, make the oxygen you will need to leave, make the methane if your engines drink that pair. MOXIE-class boxes have already, on a rover, made a breath of oxygen from the air that is mostly CO₂. That is hot as a trick in miniature. It is not a tank farm. A tank farm is power, mass, a mine, a leak policy, a winter, a spare, a person who logs the numbers when the box sulks. Papers and prototypes exist. A city does not.
 Delay. Light-time one way is about four minutes at a kind opposition — when Earth and Mars line up on the same side of the Sun, as close as the two orbits allow — and about twenty at the rude ends, when the Sun sits nearly between them.
-where the round trip is eight to forty-some minutes, and a conversation is a word you should retire.
+The round trip is eight to forty-some minutes, and a conversation is a word you should retire.
 You send. You wait. You receive a reply to a problem that has already become a different problem. Surgery, a software panic, a seal, a fight: you own them. Earth owns an archive of advice that arrives late. Mara already lives in this sentence. The posters do not.
 Crewed Mars landing in the 2030s: warm-to-cold. Allowed by hopium and by a lucky engineering decade. Not selected by present demonstrated pieces. The pieces we have photographed working are: rovers, a breath of oxygen, orbits, landings at car-mass, a vehicle class that is not yet routine, a species that has not yet walked on the Moon in this century. A lucky decade could stack those into a first foot. A first foot is a sortie. It is not a town.
 Uncrewed hardware might be thrown in a lucky window this decade. Cold as a schedule if the reason is a founder’s year. Allowed as a dare if the vehicle earns the window and the EDL at that mass is not a wish. Still not a town.
@@ -130,7 +130,7 @@ A rover currently operating on Mars has, across its mission, drilled and sealed 
 The cached tubes are not going anywhere; Mars’s thin, dry atmosphere is, if anything, a better preservation environment for sealed metal tubes than most Earth storage would be. The real clock here is institutional, not physical: a return architecture that keeps slipping is a program that keeps re-arguing its own cost against competing priorities, the same fight this book’s Chapter 9 appendix has already shown you happening to a lunar station’s hardware. The rocks are patient. The budget process, on the evidence of this whole book, rarely is.
 Appendix A11 writes the synodic clock, the Hohmann band, the six millibars, MOXIE-class oxygen, and light-time as a table that is allowed to sit still. Here, keep the four nouns. Window. EDL. ISRU. Delay. No skyline.
 Where the popular version goes wrong.
-The slide promotes the noun and crops the receipt. Look first: ask what was measured, what still needs Earth or a body, what the checklist still leaves empty.
+The slide sells a decade and a dome. Look first: the window, the seven minutes, the six millibars, and the delay that has already finished the landing before the cheer arrives.
 Rule: Mars rhetoric is a decade and a dome. Mars engineering is thin air, EDL, ISRU, and delay.
 
 ## 12. Three Nouns: Sortie, Outpost, Settlement
@@ -152,7 +152,7 @@ Someone shows an outpost drawing — a can, a solar farm, a rover — and says t
 Someone shows a hull and says a thousand people. A thousand people is a cruise ship if the umbilical is fat, and a famine if it is not. Headcount is not the test. The test is the babies and the cut cable.
 Someone says of course there will be cargo at first. At first is how the third noun is always promised and never billed. A settlement can have trade. Trade is not an umbilical that, if cut, ends the children. Earth’s cities trade. Earth’s cities also grow food in a biosphere that was not shipped last Tuesday. That biosphere is the unpaid character in every Mars downtown.
 The cargo-cult test, written so it can sit still.
-where a cargo cult, in this book, is a camp whose kitchen is a religion of ships — the ships must come, the calendar of ships is the calendar of life, and the children eat the ships.
+A cargo cult, in this book, is a camp whose kitchen is a religion of ships — the ships must come, the calendar of ships is the calendar of life, and the children eat the ships.
 Antarctica is an outpost. It has a cargo cult and is honest about it. No one calls McMurdo a spare Earth.
 ISS is an outpost. Cut the Progress, the Dragon, the Cygnus, and you have months of rations and then a problem.
 A lunar polar camp in the 2030s–2040s, if it exists, will be an outpost. Warm-to-cold as a schedule. Honest if it says so.
@@ -209,6 +209,6 @@ The engineering discipline that studies technology maturity uses a nine-level sc
 Score any settlement pitch’s individual technologies against this same nine-level scale, component by component, the same way its seven rows just got scored, and the two exercises converge on the same honest answer from two different directions: real hardware, clustered mostly at maturity levels well below the top of the scale, on every technology an actual settlement would need working at once.
 Appendix A12 writes the cargo-cult test as a list of closed loops a settlement would have to show, and why headcount is not one of the loops. Here, keep the three words unfused. If you remember one courtroom from this book, make it this one.
 Where the popular version goes wrong.
-The slide promotes the noun. Look first: ask what was measured, what still needs Earth, what the checklist still leaves empty.
+The slide promotes a camp into a city by changing the noun. Look first: the seven rows, scored one at a time.
 Rule: Sortie, outpost, settlement are three nouns. Score the seven rows. Do not let a poster promote a camp into a city.
 

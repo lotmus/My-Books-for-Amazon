@@ -11,7 +11,7 @@ The sentence is a zombie because it is flattering. It tells you that the person 
 Where did it come from? Not from a measurement you can cite and keep. It gathered like kitchen grease: a misread of early neurologists who noticed that large injuries sometimes left surprising function; a self-help habit of turning “we do not understand everything” into “ninety percent is waiting”; a cartoon of unused neurons sitting in the dark like unused guest soaps. A century-old moral sentence said we live below our limits. That is effort-talk. It is not a volumetric survey of cortex. The ten-percent figure is a mutation of effort-talk into a floor plan. The floor plan is wrong.
 Start with the bill, because the bill does not flatter.
 The brain is roughly two percent of a body’s mass and takes roughly twenty percent of the resting energy.
-where the twenty percent is of resting metabolic rate — the quiet kitchen, not a sprint.
+The twenty percent is of resting metabolic rate — the quiet kitchen, not a sprint.
 Twenty percent of the quiet kitchen is an outrageous line item for an organ that, in the ten-percent story, is mostly on unpaid leave. Evolution is a miser about watts. A miser does not keep a ninety-percent dark warehouse of tissue that costs like a furnace and does nothing. The wattage is not a vibe. It is glucose and oxygen, measurable in a PET scanner, a machine that tracks where the brain is spending fuel, measurable as a reason you get faint when blood sugar drops, measurable as a reason a small animal with a large brain had better have a good reason. Humans paid the reason: social prediction, language, hands that can bully chemistry, a childhood long enough to load the software. We did not pay for a decorative loaf of unused cortex.
 The number is not “twenty percent of thought.” Thought is not a pie you can slice that way. The number is energy. Energy is what a cupboard of idle tissue would still owe. Idle tissue that owed this much would have been fired by the mesh — this book’s name for the sieve of natural selection, keeping some traits and dropping others — unless it was doing something. The something is the rest of this chapter.
 Lesions are the rude teacher.
@@ -29,7 +29,7 @@ She does not have ninety percent of a mind in the cupboard. She has a morning, a
 About two percent of mass, about twenty percent of resting energy: that bill is not how a miser keeps a dark warehouse. Lesions teach the same lesson from the other side — lose a piece and a function fails; there was no spare loft labeled ninety percent. Quiet voxels are not off-duty cupboards. Idle-looking is not unlocked potential. You already use the organ. Tools and sleep and other people are how you meet new work, not a password to a tank.
 Appendix A34 writes the energy fraction, the lesion logic, and why a quiet voxel is not a spare tank. Here, if you take one thing, take the bill. A miser does not keep a dark warehouse at those rates. You already use the organ.
 Where the popular version goes wrong.
-The slide promotes the noun and crops the receipt. Look first: ask what was measured, what still needs Earth or a body, what the checklist still leaves empty.
+The slide offers a password to an unused ninety percent. Look first: the energy bill of an organ that is already on duty.
 Rule: We already use the organ. The ten-percent sentence is false. Hot as a correction.
 
 ## 35. Cognitive Enhancement, Two Temperatures
@@ -59,7 +59,7 @@ She uses checklists because memory is a staff, not a miracle. She sleeps in a bu
 A toolbox is not a confession of defeat. Writing that holds a day, checklists that catch a miss, hearing aids that return a room, scored pills that land on time, closed-loop stimulators that quiet a tremor, a cochlear code a brain must relearn for months: local restorations with scars and schedules. Cold is the empty tank labeled ninety percent, as if the label filled it. Warm is the trade-off you can name out loud. Hot is the false ten-percent sentence that dies every time it is printed and somehow returns in the next pitch deck, because a lockpick needs a lock. Keep the toolbox. Evict the loft. Take the tool if the Tuesday votes for it. Put the spare-tank sermon down before it hires the carrot.
 Appendix A35 writes sleep, hearing, stimulants, and implants as tools with invoices. Here, keep the toolbox.
 Where the popular version goes wrong.
-The slide promotes the noun and crops the receipt. Look first: ask what was measured, what still needs Earth or a body, what the checklist still leaves empty.
+The slide sells a spare mind. Look first: which tool gives back a lost function, and which tool promises a tank that was never there.
 Rule: Cognitive tools have two temperatures. Restoration can be warm; unlocking a spare tank stays cold.
 
 ## 36. The Carrot Has No Off-Switch
@@ -70,7 +70,7 @@ Book 1 said it about a feast and a fake. It is still true if the feast is a long
 Figure 36. A loop: want, chase, stamp, want. No switch. One extra tick marked more calendar.
 Food is not a sandwich. Food is a slope.
 A body stays organized by running downhill on a difference: hot to cold, charged to spent, food-molecule to ash. The kitchen name for the ash is waste. Heat is the waste you cannot hide. A nervous system is a staff hired to keep the slopes coming — to find the fruit, the salt, the copy, the ally, the shade. The staff does not mail a pamphlet titled reproduce, then maintain. It mails a carrot. Those who found the act reinforcing left more descendants. Those who found it a chore, all else equal, left fewer. Pleasure is not the cosmic point.
-where the point is: a copy that ships, and a body that lasts long enough to ship it.
+The point is: a copy that ships, and a body that lasts long enough to ship it.
 Wanting is one juice. Liking is another.
 Wanting is the seek loop: a cue tagged as worth chasing, a go, a narrowing of the room until the cue is got. Dopamine — a brain chemical that carries signals between neurons — in the popular mouth, is this juice, and the popular mouth is not entirely wrong and is too simple. Liking is the completion stamp: do that again. The stamp can be small. The seek can be huge. A person can want a thing they no longer like. A person can like a thing they barely chase. Addiction, in the ugly cases, is a seek loop that has uncoupled from the stamp and from the vote you would cast on a Tuesday. This is not a sermon about vice. It is staffing. The same house hired people who barely want the old feasts, or want a different menu. That is allowed. A lottery that must work on average will throw off quiet tickets.
 The carrot has no off-switch labeled this is only a picture.
@@ -92,6 +92,6 @@ The honest upgrade, if you want the noun, is not a longer seek. It is more Tuesd
 Mismatch with more calendar is the polite name for a Pleistocene wanting-loop living in a body the savannah never budgeted for. Wanting stamps; liking is another juice; the off-switch was never on the hiring plan. Sugar, feeds, slots, slides that say enhancement: same family, same mechanism, the cue turned up until it outbids the thing. Look first. A longer healthspan without loop hygiene is more chase dressed as wisdom. Time bought without attention paid is not a win you would vote to repeat.
 Appendix A36 writes wanting against liking, and why more calendar is not an off-switch. Here, keep the loop.
 Where the popular version goes wrong.
-The slide promotes the noun and crops the receipt. Look first: ask what was measured, what still needs Earth or a body, what the checklist still leaves empty.
+The slide calls more years a wiser life. Look first: the same seek loop, on a longer calendar.
 Rule: The carrot has no off-switch. A longer life is more calendar for the same loop. Look first.
 

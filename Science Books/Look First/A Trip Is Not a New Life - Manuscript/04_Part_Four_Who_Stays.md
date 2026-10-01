@@ -63,7 +63,7 @@ Beyond the simulator time Chapter 6 described for a specific flight, several sta
 This matters for the headcount argument this chapter has built from a different angle. The filters this chapter names — body, nation, family — are the filters that decide who gets considered. Analog missions are studying a filter this chapter has not yet named directly: which combinations of otherwise-qualified people can actually live together, for years, in a can, without the mission ending in the same factional collapse the closed-ecosystem trial suffered. It is, on the evidence gathered so far, a harder problem than the engineering, and one this book’s seven rows do not have a clean column for.
 Appendix A13 writes launch cadence versus headcount, and why “multiplanetary” in the near term is a camp plus a metaphor. Here, keep the disk. The tiny mark is the camp. The staff is the bright thing.
 Where the popular version goes wrong.
-The slide promotes the noun and crops the receipt. Look first: ask what was measured, what still needs Earth or a body, what the checklist still leaves empty.
+The slide crops the disk until the camp looks like the world. Look first: who stays, who waters the basil, and who is not on the ship.
 Rule: Who stays is the staffed world. Exit stories do not water the basil.
 
 ## 14. The Clocks of Recovery
@@ -72,7 +72,7 @@ Claim, hot: different damages keep different clocks. They do not share a kitchen
 
 Figure 14. Four pots on a stove, four large labels: air, ice, plastics, extinct. Different flames.
 Air. The fastest pot that still pretends to be slow. Carbon dioxide is a well-mixed gas with manners we have measured. A large share of an extra pulse is taken up by oceans and land in decades to a few centuries. A tail stays. The deep ocean and the rocks are ruder; they think in millennia. If you turned every engine off tomorrow, the casserole would not leap back to 1800 by Friday. It would coast. The needle would droop, then linger. A century of burning is not a weekend of weather.
-where a pulse of CO₂ is a slug added to the air — and “taken up” means moved into water and wood and soil, not uninvented.
+A pulse of CO₂ is a slug added to the air — and “taken up” means moved into water and wood and soil, not uninvented.
 The air also has a faster, ruder guest: methane, which is a stronger blanket per molecule and a shorter career, and aerosols, which are a parasol. The parasol is Chapter 15’s business. Here, keep the pot. Air is the one people mean when they say recover. They mean the needle. The needle is real. It is not the only pot.
 Ice. Ice sheets have millennial manners. A melt you earned in a century does not file a resignation because a launch window opened. Greenland and the Antarctic south are not ice cubes in a glass. They are continents of frozen time. They respond to the heat you already put in the well. They can be committed to a loss that arrives after the slide has been forgotten. Mountain glaciers are faster and still not a weekend. Sea ice is faster still, and its death is not the same sentence as a sheet’s death: one is a white lid on a dark ocean, a mirror; the other is a pile that raises the water when it leaves the land. Different clocks. Distinct invoices.
 Plastics. Plastics are not a gas. They are a junk drawer the size of a coast. They do not unmake because the clever apes learned a new hobby. They break into smaller rudenesses. They sit in a gyre, in a bird, in a sediment. You can stop making them. You cannot recall the ones you already threw. A recovery of production is a policy. A recovery of the drawer is a fantasy with a broom. The broom is worth pushing. The drawer will still be there for a career measured in centuries, and fragments after that.
@@ -129,7 +129,7 @@ Roughly a quarter to a third of the carbon dioxide humans add to the atmosphere 
 This is the ocean paying a bill the atmosphere pot’s own bookkeeping quietly moved off its own ledger. The two pots this chapter named for air and reef bleaching are related but not identical: bleaching is a heat problem, acidification is a chemistry problem, and a reef under both burdens at once is a reef fighting two clocks rather than one. A slide that claims Earth heals once the ambitious have gone would need to reverse a chemistry already measured in the ocean’s own pH meters, on a clock that has never once heard of a launch window.
 Appendix A14 writes the pulse remaining, the ice-sheet manners, the plastic persistence, and extinction as a one-way mark. Here, keep the four pots — and the two extras if you need them. Different flames.
 Where the popular version goes wrong.
-The slide promotes the noun and crops the receipt. Look first: ask what was measured, what still needs Earth or a body, what the checklist still leaves empty.
+The slide offers a launch as a reset of the clocks. Look first: which pot the leaving does not touch.
 Rule: Recovery has clocks. Leaving does not reset the tide gauge.
 
 ## 15. Leaving Is Not a Cleanup
@@ -140,7 +140,7 @@ Claim, cold: leaving is a cleanup. It is not. The kitchen you abandoned is still
 Figure 15. A needle that does not move when a tiny group steps off a scale. The label: headcount is not a thermostat.
 Do the arithmetic once, so it can sit still.
 A person is not a tonne of carbon. A life is a pattern of energy: a house, a plate, a road, a grid, a state that pours concrete. The pattern varies by zip code more than by virtue. A rich-country life can be on the order of ten-and-more tonnes of CO₂ a year; a poorer life, less; a camp life on a dead world, at first, more, because rockets and life support and printed spare parts are not a monastery. Take ten thousand settlers. Give them, generously, a rich-country footprint and then some. You have a town’s emissions. Global emissions are measured in tens of billions of tonnes a year. The town is a rounding error that might even have the wrong sign if the camp is a construction site.
-where the thermostat is industry and land use, not headcount on a ship.
+The thermostat is industry and land use, not headcount on a ship.
 The slide that says if we leave, Earth can heal is doing a swap. It swaps a species-move — which is not on offer — for a camp, and then swaps the camp for a shutdown of the furnaces. The furnaces are not on the ship. The furnaces are in the kitchen that still has the staff.
 Claim, warm: if industry collapsed — not a camp departing, but the furnaces going dark — emissions would fall fast. Aerosols would fall too, the bright soot and sulfate that were pretending to be a parasol. The mix is not a simple spring morning. You can lose the parasol before you lose the heat. The casserole can feel, for a while, ruder. Ecosystems would start a different career, not rewind the tape. Collapse is not a cleanup method. It is a distinct story with its own dead.
 This is the paragraph people skip when they want leaving to be a virtue. A virtue that requires a collapse is not a cleanup. It is a famine with a press kit. The dead in that story are not a greenhouse. They are Rohan’s mother’s street, and the tide gauge, and the sister who still says we.
@@ -192,7 +192,7 @@ The same orbital imagery this book’s earlier chapters have used for landing-si
 The tool is a genuine improvement on the honor system it replaced, and it also belongs to the category of infrastructure this whole book keeps insisting is real and valuable: not a settlement, not a poster, a boring, unglamorous, repeatedly orbiting camera, doing the actual work of making a claim checkable. If this book has a favorite kind of hardware, it is this kind: the kind that exists specifically to keep a slide honest.
 Appendix A15 writes the settler-versus-emissions arithmetic and the aerosol unmasking as a warm caution, not as a wish for collapse. Here, keep the needle. Headcount on a ship is not a thermostat.
 Where the popular version goes wrong.
-The slide promotes the noun. Look first: ask what was measured, what still needs Earth, what the checklist still leaves empty.
+The slide calls leaving a cleanup. Look first: the heads who would have to move, against the heads who stay.
 Rule: Leaving is not a cleanup. The ambitious are a rounding error. The planet does not know we left.
 
 ## 16. The Bill of Going
@@ -261,5 +261,5 @@ It is a small line on the very long bill this final chapter has been itemizing, 
 Appendix A16 writes rockets on a carbon ledger, mines, and why a write-off is a vote. Here, keep the pad and the slide that says spare. The bill is paid at home.
 A later book, if you want it, will keep her hands and refuse helium. You do not need it. You can stop here. The seal will still need the heel of a glove tomorrow.
 Where the popular version goes wrong.
-The slide promotes the noun. Look first: ask what was measured, what still needs Earth, what the checklist still leaves empty.
+The slide spends the tide gauge on a spare Earth. Look first: which bill is paid at home, and which sentence is trying to spend it.
 Rule: The bill is paid at home. Wash the staffed world. Do not let a spare-Earth sentence spend the tide gauge.
