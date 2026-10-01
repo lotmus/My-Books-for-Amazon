@@ -77,7 +77,9 @@ R_MEAS = 3.0  # m, Class B distance in this book's FCC snapshot
 LOOP_SIDE = 0.02  # m
 LOOP_AREA = LOOP_SIDE * LOOP_SIDE
 E_LIMIT_100 = 150.0e-6  # V/m, FCC 15.109 Class B, 88-216 MHz, 3 m
-I_LOOP_FOR_LIMIT = E_LIMIT_100 * R_MEAS / e_loop(F_HARM, 1.0, LOOP_AREA, R_MEAS)
+# Field of one ampere already includes 1/r. Do not multiply by r again.
+E_LOOP_1A = e_loop(F_HARM, 1.0, LOOP_AREA, R_MEAS)
+I_LOOP_FOR_LIMIT = E_LIMIT_100 / E_LOOP_1A
 
 WIRE_L = 0.10  # m, short beside lambda at 100 MHz
 I_WIRE_FOR_LIMIT = E_LIMIT_100 * (4.0 * math.pi * R_MEAS) / (
@@ -126,6 +128,11 @@ V_CM = 0.010  # V, declared noise voltage
 I_BEFORE = V_CM / Z_BEFORE
 I_AFTER = V_CM / (Z_BEFORE + Z_CHOKE)
 I_RATIO_CHOKE = I_BEFORE / I_AFTER
+LOOP_OVER_WIRE = I_LOOP_FOR_LIMIT / I_WIRE_FOR_LIMIT
+LOG10_16 = math.log10(16.0)
+SLOT_AREA_CM2 = 5.0 * 2.0
+TEACH_AREA_CM2 = (LOOP_SIDE * 100.0) ** 2
+SLOT_OVER_TEACH = SLOT_AREA_CM2 / TEACH_AREA_CM2
 
 # sanity
 assert abs(RATIO_E - 16.0) < 1e-9
@@ -156,7 +163,13 @@ N = {
     "db16": f1(DB_16),
     "third_net": f0(THIRD_E_NET),
     "db_third": f1(DB_THIRD),
-    "i_loop_ma": f1(I_LOOP_FOR_LIMIT * 1e3),
+    "i_loop_ma": f2(I_LOOP_FOR_LIMIT * 1e3),
+    "e_loop_1a_uv": f0(E_LOOP_1A * 1e6),
+    "loop_over_wire": f0(LOOP_OVER_WIRE),
+    "log10_16": f"{LOG10_16:.4f}",
+    "slot_cm2": f0(SLOT_AREA_CM2),
+    "teach_cm2": f0(TEACH_AREA_CM2),
+    "slot_over": f1(SLOT_OVER_TEACH),
     "i_wire_ua": sci_ua(I_WIRE_FOR_LIMIT),
     "lam100": f2(LAM_100),
     "lam25": f2(LAM_25),
@@ -177,6 +190,14 @@ N = {
     "choke_ratio": f1(I_RATIO_CHOKE),
     "eta": f1(ETA),
     "e_const": f"{e_loop(1.0, 1.0, 1.0, 1.0):.3e}",
+    "half_m": f2(LAM_100 / 2.0),
+    "skin_mm": f"{SKIN_100_MM:.4f}",
+    "t_over_d": f2(COPPER_OZ_MM / SKIN_100_MM),
+    "neper": f2(NEPER_DB),
+    "ln_term": f2(math.log(8.0 * LOOP_R / WIRE_A) - 2.0),
+    "eight_over_a": f1(8.0 * LOOP_R / WIRE_A),
+    "sqrt_field2": f2(math.sqrt(FIELD_RATIO_2DB)),
+    "side_cm": f2(2.0 / math.sqrt(FIELD_RATIO_2DB)),
 }
 
 
@@ -308,7 +329,7 @@ def blocks():
     )
     add(
         "body",
-        "E scales with I, so I = E × r / (the field of one ampere at that r). The result is {i_loop_ma} mA. Tens of milliamperes in a tight loop, not microamperes. A logic edge can source that much into a bad return. A tight return makes the area smaller than 4 cm² and the same current falls short of the limit. The number is the model's number. A real board has more than one loop, a ground plane, and a cable, and the cable is the next chapter.",
+        "E scales with I. The distance is already inside the field of one ampere, so it is not multiplied in again. I = 150 μV/m divided by {e_loop_1a_uv} μV/m per ampere, which is {i_loop_ma} mA. A few milliamperes in a tight loop, set next to the microamperes of the next chapter. A logic edge can source that much into a bad return. A tight return makes the area smaller than 4 cm² and the same current falls short of the limit. The number is the model's number. A real board has more than one loop, a ground plane, and a cable, and the cable is the next chapter.",
     )
     add("h2", "Practice")
     add("body", "1. The same loop at the same current, at 50 MHz instead of 100 MHz. By what factor does the far field drop?")
@@ -319,7 +340,7 @@ def blocks():
     add("h1", "Chapter 3. The Cable You Did Not Call an Antenna")
     add(
         "body",
-        "A cable becomes an antenna when the current on it is common mode: the same direction on the signal and on its return, or on the shield, with the true return somewhere else. The loop in Chapter 2 needed tens of milliamperes. A wire needs far less, which is the whole reason chambers are full of ferrite placed on cables at the last hour.",
+        "A cable becomes an antenna when the current on it is common mode: the same direction on the signal and on its return, or on the shield, with the true return somewhere else. The loop in Chapter 2 needed {i_loop_ma} mA for the same limit the short wire will meet with microamperes. That gap is why chambers are full of ferrite placed on cables at the last hour.",
     )
     add("h2", "3.1 A short wire, on purpose")
     add(
@@ -329,7 +350,7 @@ def blocks():
     add("h2", "3.2 Microamperes, not milliamperes")
     add(
         "body",
-        "Set E to 150 μV/m, r to 3 m, L to 10 cm, f to 100 MHz. The current that meets the Class B row in this model is {i_wire_ua} μA. The 2 cm loop needed {i_loop_ma} mA for the same field. The wire is worse by about three orders of magnitude of current, and it is only 10 cm long. A meter of cable, no longer inside the short-dipole assumption, is not going to need more current than that. It will need less. That is what the draft meant by saying the cable usually fails, not the clock trace.",
+        "Set E to 150 μV/m, r to 3 m, L to 10 cm, f to 100 MHz. The current that meets the Class B row in this model is {i_wire_ua} μA. The 2 cm loop needed {i_loop_ma} mA for the same field, which is {loop_over_wire} times as much current. The wire is only 10 cm long. A meter of cable, no longer inside the short-dipole assumption, is not going to need more current than that. It will need less. That is what the draft meant by saying the cable usually fails, not the clock trace.",
     )
     add(
         "body",
@@ -376,7 +397,7 @@ def blocks():
     )
     add(
         "body",
-        "A rough rectangle 5 cm by 2 cm has area 1 cm². The teaching square has area 4 cm². The slot loop is smaller than the teaching square, not free. If the current in the trace is larger than the {i_loop_ma} mA of Worked Example 2.1, even this smaller area can meet the same field. The estimate ignores the frequency and the plane's real current spread. It is enough to stop a layout review from calling the slot \"just a ground cut.\"",
+        "A rough rectangle 5 cm by 2 cm has area 5 × 2 = {slot_cm2} cm². The teaching square has area {teach_cm2} cm². The slot loop is {slot_over} times the teaching square, so the same current radiates more, not less. If the current in the trace is even a fraction of the {i_loop_ma} mA of Worked Example 2.1, this larger area can meet the same field. The estimate ignores the frequency and the plane's real current spread. It is enough to stop a layout review from calling the slot \"just a ground cut.\"",
     )
     add("h2", "Practice")
     add("body", "1. At 1 kHz, does return current hug the trace or spread through the copper? Which impedance won?")
@@ -958,6 +979,15 @@ def blocks():
         "body",
         "Key idea. One volume for the physics, the solver, and the certificate. The neighboring volumes keep their own numbers.",
     )
+    add("h2", "Worked Example 21.1")
+    add(
+        "body",
+        "A paragraph in this book starts to derive Friis transmission for a 2.45 GHz link. Where does the paragraph stop?",
+    )
+    add(
+        "body",
+        "It stops at the pointer. Antenna gain and the Friis factor are Book 4. This book may say that the mask on what left the antenna is measured here. It may not recompute the link.",
+    )
     add("h2", "Practice")
     add("body", "1. A 100 W GaN amplifier at 3.5 GHz fails a harmonic mask. Which book owns the amplifier, and which book owns the mask measurement?")
     add("body", "2. A buck at 400 kHz fails conducted emission. Which book owns the converter, and which chapter of this book owns the LISN reading?")
@@ -1082,7 +1112,37 @@ def blocks():
     add("body", "δ, copper skin depth, 66/√f millimeters. Book 8 owns the magnetics use of this rule.")
     add("body", "η, 376.7 Ω, free-space E/H. Not a load resistor in SPICE.")
 
-    return b
+    return enrich(b)
+
+
+def enrich(rows):
+    """Give every chapter the third section and the shown product that Book 3 Part I uses."""
+    from book7_part_i import AFTER, BEFORE
+
+    out = []
+    i = 0
+    while i < len(rows):
+        kind, text = rows[i]
+        if kind == "h2" and text.startswith("Worked Example "):
+            num = int(text.split()[2].split(".")[0])
+            if rows[i + 1][0] != "body" or rows[i + 2][0] != "body":
+                raise SystemExit(f"worked example {num} is not prompt plus answer")
+            if rows[i + 3][0] != "h2" or not rows[i + 3][1].startswith("Practice"):
+                raise SystemExit(f"worked example {num} is not followed by Practice")
+            for k, t in BEFORE[num]:
+                out.append((k, t.format(**N)))
+            out.extend(rows[i : i + 3])
+            for k, t in AFTER[num]:
+                out.append((k, t.format(**N)))
+            i += 3
+            continue
+        out.append((kind, text))
+        i += 1
+    heads = [t for k, t in out if k == "h2"]
+    for n in range(1, 22):
+        if not any(h.startswith(f"{n}.3 ") for h in heads):
+            raise SystemExit(f"missing section {n}.3")
+    return out
 
 
 def paragraph_xml(kind, text):
@@ -1095,7 +1155,7 @@ def paragraph_xml(kind, text):
             "<w:b/><w:i w:val=\"0\"/><w:color w:val=\"0000FF\"/><w:sz w:val=\"56\"/>"
             f"</w:rPr><w:t xml:space=\"preserve\">{safe}</w:t></w:r></w:p>"
         )
-    if kind in ("center", "italic"):
+    if kind in ("center", "italic", "eq"):
         italic = "<w:i/>" if kind == "italic" else "<w:i w:val=\"0\"/>"
         return (
             "<w:p><w:pPr><w:spacing w:after=\"160\" w:line=\"276\" w:lineRule=\"auto\"/>"
