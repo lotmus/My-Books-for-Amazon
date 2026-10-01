@@ -159,20 +159,10 @@ def book6(doc):
 
 
 def book7(doc):
-    ratio = (100 / 25) ** 2
-    add_p(doc, "Book 7 of 9. Old 11, 19, and 20.", center=True, italic=True)
-    h(doc, "Chapter 1. Why a Board Radiates")
-    add_p(doc, f"Small-loop E-field scales with area, current, and f². A 25 MHz clock, 100 MHz harmonic: 4² = {ratio:.0f}. Sixteen is the scaling if current matched, not a prediction. Common-mode on a cable usually fails, not the clock trace.")
-    add_p(doc, "Keep high di/dt loops small. Do not slot ground under a return. Filter I/O. Ott and Montrose are the books. Methods are CISPR 16 and ANSI C63.4.")
-    h(doc, "Chapter 2. Chamber and Mask")
-    add_p(doc, "Semi-anechoic, 3 m or 10 m, metal floor is part of the method. Turntable 360°, antenna 1–4 m, both polarizations, max hold. NSA and SVSWR make the site legal. GTEM is pre-compliance. FCC 15 B Class B is tighter than Class A. EN 55032 = CISPR 32. Radio conformance is dBm/dBc/EVM, a second report. Immunity is EMC. OTA/SAR sit on the radio side.")
-    h(doc, "Chapter 3. Compute First")
-    add_p(doc, "SPICE for lumped circuits. ADS or Microwave Office for harmonic balance. Momentum, AXIEM, Sonnet for 2.5D stackups. HFSS/CST/Analyst for connectors, packages, antennas, cavities. No open-source Microwave Office. AWR is not HFSS.")
-    h(doc, "Chapter 4. The Day in the Lab")
-    add_p(doc, "7layers (Bureau Veritas) is the connected-product lab. Hermon Laboratories, Binyamina, not Harmon, is the broader product lab (A2LA, FCC IL1001, MIL/RTCA in one building). They measure. They do not design. Debug is extra. Failing 2 dB is a layout change; the theory is Chapter 1.")
-    add_p(doc, "Key idea. One volume for the physics, the solver, and the certificate.")
-    h(doc, "Practice")
-    add_p(doc, "1. Name the method standard that owns antenna height and the quasi-peak detector. 2. A Wi-Fi gadget: which two reports? 3. Why is AXIEM the wrong tool for a chassis-mounted connector?")
+    """Retired stub. The manuscript is EE7/build_book7.py."""
+    raise RuntimeError(
+        "Book 7 is built by EE7/build_book7.py. Do not overwrite that manuscript from this stub."
+    )
 
 
 def book8(doc):
@@ -230,7 +220,7 @@ def main():
         ("EE4", "RF_Microwave_and_Antennas_Book4.docx", "RF, Microwave, and Antennas", "Book 4 of 9", book4),
         ("EE5", "Communications_Wireless_and_SDR_Book5.docx", "Communications, Wireless, and SDR", "Book 5 of 9", book5),
         ("EE6", "Transceivers_and_High_Power_RF_Book6.docx", "Transceivers and High-Power RF", "Book 6 of 9", book6),
-        ("EE7", "EMC_Simulation_and_Test_Book7.docx", "EMC, Simulation, and Test", "Book 7 of 9", book7),
+        # Book 7 is built by EE7/build_book7.py. Do not regenerate it here.
         ("EE8", "Power_and_Energy_Book8.docx", "Power and Energy", "Book 8 of 9", book8),
         ("EE9", "Packaging_Layout_and_Emerging_Book9.docx", "Packaging, Layout, and Emerging Systems", "Book 9 of 9", book9),
     ]
