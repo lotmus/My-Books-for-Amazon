@@ -3,7 +3,7 @@
 Reference file for editorial work on `The_Permitted_Options_BOOK_2_DRAFT.docx` in this folder.
 Shared facts for every book in the series are in `../SERIES_BIBLE.md`. Read that before changing a person, a place, a date, a physics claim, or the way anyone speaks. The section "Tone and humour" binds the joke and the furniture.
 Read this first for Book 2's file. Only open the manuscript for a passage you are actually changing.
-If the live file is no longer 1875 paragraphs, the index map below is stale. Re-read the file and update this guide.
+If the live file is no longer 1981 paragraphs, the index map below is stale. Re-read the file and update this guide.
 
 Verified 1 October 2026. The novel reads straight through. The lectures follow Q.E.D.
 
@@ -11,8 +11,8 @@ Verified 1 October 2026. The novel reads straight through. The lectures follow Q
 
 `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_DRAFT.docx`
 
-1875 paragraphs, including a three-line title page. Styles in use include Body Text, First Paragraph, Heading 3, Heading 2, Source Code, and Author.
-Straight quotes and straight apostrophes: 0. Curly double quotes: 1359 open, 1359 close, 0 unbalanced paragraphs.
+1981 paragraphs, including a three-line title page. Styles in use include Body Text, First Paragraph, Heading 3, Heading 2, Source Code, and Author.
+The 1 October 2026 restore put the cut notebook pages and lecture sections back. Curly quotes were balanced at that save. Re-count them before relying on an older open and close figure.
 Bookmarks `ch00`–`ch15` are Chapter One through Chapter Sixteen. Lecture bookmarks are `lectures` and `lec00`–`lec15`. Glossary terms and the lecture list use those anchors. Eight bibliography entries carry a stable DOI or arXiv link.
 Heading 2 count of 35 is the check: 16 chapter titles, `The Lectures`, 16 `Lecture. Chapter` titles, `Glossary`, `Bibliography`. There is no Heading 2 called `Physics`.
 
@@ -52,9 +52,9 @@ Removed from the reader's copy on purpose:
 - "When you walk out, you should be able to"
 - "Start here."
 - "The idea, step by step."
-- "What this chapter was actually showing you."
-- Characters naming the chapters ("Chapter One" and the rest). A lecture may still say Book One.
 - A plate reading that identifies a throat, sizes it, or matches the fourteen "to within instrument error."
+
+The end-of-chapter notebook recaps and every lecture's "What this chapter was actually showing you" were put back on 1 October 2026. Do not delete them to shorten the book. Some restored notebook lines still name a chapter. Leave those paragraphs in place. A lecture may still say Book One.
 
 The novel's last two story paragraphs are Body Text, not headings: "The Permitted Options ends here…" and "Q.E.D." They sit immediately after Chapter Sixteen and immediately before `The Lectures`. A deletion that runs until the next heading will swallow them. Stop before those two paragraphs.
 
@@ -62,7 +62,8 @@ Kept on purpose:
 
 - In-story physics explanations
 - The lectures, after Q.E.D., one to a chapter, in chapter order
-- "What the reader learns" and "Going deeper", inside the lectures
+- "What the reader learns", "Going deeper", and "What this chapter was actually showing you", inside the lectures
+- The end-of-chapter notebook recaps
 - Lesson headings say `Lecture. Chapter …` and `What the reader learns`. They do not say `Physics`, `Physics and mathematics`, or `What sticks`.
 
 ## Back matter
@@ -149,7 +150,7 @@ PowerShell breaks on the apostrophe in `Lolly Wren's`. Put the script under `C:\
 
 Inserting after a paragraph copies that paragraph's style. After a Heading, set Body Text on the new paragraph or it enters the contents.
 
-## Chapter map (1875 paragraphs)
+## Chapter map (1981 paragraphs)
 
 Indexes include the title page. Chapter One is the first chapter heading. Chapter Two follows Chapter One's last story line, "Nothing local at all."
 
@@ -160,38 +161,38 @@ These indexes move as soon as anyone inserts or deletes. Anchors above are the s
 | Chapter One | 4 |
 | Chapter Two | 101 |
 | Chapter Three | 206 |
-| Chapter Four | 328 |
-| Chapter Five | 428 |
-| Chapter Six | 540 |
-| Chapter Seven | 635 |
-| Chapter Eight | 720 |
-| Chapter Nine | 795 |
-| Chapter Ten | 857 |
-| Chapter Eleven | 933 |
-| Chapter Twelve | 1025 |
-| Chapter Thirteen | 1125 |
-| Chapter Fourteen | 1237 |
-| Chapter Fifteen | 1279 |
-| Chapter Sixteen | 1338 |
-| The Lectures | 1411 |
-| Lecture. Chapter One | 1429 |
-| Lecture. Chapter Two | 1446 |
-| Lecture. Chapter Three | 1472 |
-| Lecture. Chapter Four | 1497 |
-| Lecture. Chapter Five | 1523 |
-| Lecture. Chapter Six | 1549 |
-| Lecture. Chapter Seven | 1573 |
-| Lecture. Chapter Eight | 1600 |
-| Lecture. Chapter Nine | 1630 |
-| Lecture. Chapter Ten | 1650 |
-| Lecture. Chapter Eleven | 1677 |
-| Lecture. Chapter Twelve | 1709 |
-| Lecture. Chapter Thirteen | 1744 |
-| Lecture. Chapter Fourteen | 1773 |
-| Lecture. Chapter Fifteen | 1797 |
-| Lecture. Chapter Sixteen | 1818 |
-| Glossary | 1836 |
-| Bibliography | 1854 |
+| Chapter Four | 333 |
+| Chapter Five | 440 |
+| Chapter Six | 558 |
+| Chapter Seven | 662 |
+| Chapter Eight | 756 |
+| Chapter Nine | 840 |
+| Chapter Ten | 909 |
+| Chapter Eleven | 988 |
+| Chapter Twelve | 1084 |
+| Chapter Thirteen | 1187 |
+| Chapter Fourteen | 1299 |
+| Chapter Fifteen | 1352 |
+| Chapter Sixteen | 1420 |
+| The Lectures | 1501 |
+| Lecture. Chapter One | 1519 |
+| Lecture. Chapter Two | 1537 |
+| Lecture. Chapter Three | 1564 |
+| Lecture. Chapter Four | 1590 |
+| Lecture. Chapter Five | 1617 |
+| Lecture. Chapter Six | 1644 |
+| Lecture. Chapter Seven | 1669 |
+| Lecture. Chapter Eight | 1697 |
+| Lecture. Chapter Nine | 1728 |
+| Lecture. Chapter Ten | 1749 |
+| Lecture. Chapter Eleven | 1777 |
+| Lecture. Chapter Twelve | 1810 |
+| Lecture. Chapter Thirteen | 1846 |
+| Lecture. Chapter Fourteen | 1876 |
+| Lecture. Chapter Fifteen | 1901 |
+| Lecture. Chapter Sixteen | 1923 |
+| Glossary | 1942 |
+| Bibliography | 1960 |
 
 `The Lectures` is the first Heading 2 after Q.E.D. Lecture. Chapter One is the next lecture heading. Lecture. Chapter Sixteen is the last. Nothing called `Physics` sits between a chapter and the next.
 
