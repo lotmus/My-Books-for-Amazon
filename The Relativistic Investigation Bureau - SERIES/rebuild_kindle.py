@@ -42,12 +42,20 @@ HEAD_START = (
 )
 
 FIGURES = [
-    ("The picture makes this concrete. Derek chooses one place", ROOT / "coordinates.png"),
-    ("The Einstein field equation as a loop", ROOT / "formula.jpg"),
+    ("Drag the velocity yourself", ROOT / "coordinates.png"),
+    ("Watch a particle trace its geodesic", ROOT / "formula.jpg"),
     ("Lesson 8\nThe Door", ROOT / "newDoor.png"),
     ("Lesson 11\nThe Hologram", ROOT / "Appendix_11_Holographic_Principle_REVISED.png"),
     ("The filing cabinet is an analogy", ROOT / "cabinet hole.png"),
 ]
+
+LESSON_ARROW = re.compile(r"^-> Lesson for this chapter: (\d+) - .+$")
+CHAPTER_ARROW = re.compile(r"^<- Chapter for this lesson: Chapter (\d+)\s*$")
+EPILOGUE_ARROW = re.compile(r"^<- Chapter for this lesson: Epilogue\s*$")
+SKIP_ARROW = re.compile(r"^-> If you skipped the course: Lesson (\d+) - .+$")
+GLOSS_LINE = re.compile(r"^→ Glossary: (.+)$")
+GLOSS_ENTRY = re.compile(r"^([A-Z][^.]{1,80})\. ")
+_BOOKMARK_ID = 1
 
 
 def set_run_font(run, name="Georgia", size=11, bold=False, color=None, heading=False):
@@ -90,8 +98,15 @@ def add_hyperlink(paragraph, url, text):
     paragraph._p.append(hyperlink)
 
 
+def gloss_anchor(term: str) -> str:
+    return "gloss_" + re.sub(r"[^A-Za-z0-9]+", "_", term).strip("_")
+
+
 def is_heading(line: str, nxt: str, prev: str = "") -> bool:
     if not line or line.startswith("->") or line.startswith("<-") or line.startswith("→"):
+        return False
+    # Film-list lines and the typed contents are not a second set of chapter titles.
+    if re.match(r"Lesson \d+ —", line) or re.match(r"Chapter \d+ - ", line):
         return False
     if re.fullmatch(r"(?:Chapter \d+|Lesson \d+|PROLOGUE)", prev):
         return True
@@ -113,23 +128,91 @@ def is_heading(line: str, nxt: str, prev: str = "") -> bool:
     return False
 
 
-def add_body(doc, text: str):
+def add_internal_link(paragraph, anchor, text):
+    hyperlink = OxmlElement("w:hyperlink")
+    hyperlink.set(qn("w:anchor"), anchor)
+    new_run = OxmlElement("w:r")
+    rPr = OxmlElement("w:rPr")
+    rFonts = OxmlElement("w:rFonts")
+    rFonts.set(qn("w:ascii"), "Georgia")
+    rFonts.set(qn("w:hAnsi"), "Georgia")
+    sz = OxmlElement("w:sz")
+    sz.set(qn("w:val"), "22")
+    color = OxmlElement("w:color")
+    color.set(qn("w:val"), "0563C1")
+    u = OxmlElement("w:u")
+    u.set(qn("w:val"), "single")
+    rPr.extend([rFonts, sz, color, u])
+    new_run.append(rPr)
+    t = OxmlElement("w:t")
+    t.set(qn("xml:space"), "preserve")
+    t.text = text
+    new_run.append(t)
+    hyperlink.append(new_run)
+    paragraph._p.append(hyperlink)
+
+
+def mark_bookmark(paragraph, name):
+    global _BOOKMARK_ID
+    start = OxmlElement("w:bookmarkStart")
+    start.set(qn("w:id"), str(_BOOKMARK_ID))
+    start.set(qn("w:name"), name)
+    end = OxmlElement("w:bookmarkEnd")
+    end.set(qn("w:id"), str(_BOOKMARK_ID))
+    _BOOKMARK_ID += 1
+    paragraph._p.insert(0, start)
+    paragraph._p.append(end)
+
+
+def add_plain(paragraph, text):
+    if not text:
+        return
+    run = paragraph.add_run(text)
+    set_run_font(run)
+
+
+def add_body(doc, text: str, glossary: bool = False):
     p = doc.add_paragraph()
-    p.paragraph_format.space_after = Pt(8)
+    stripped = text.strip()
+    short_talk = len(stripped) <= 90 and stripped[:1] in "\"'“"
+    p.paragraph_format.space_after = Pt(2 if short_talk else 8)
     p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.SINGLE
+
+    lesson = LESSON_ARROW.match(stripped) or SKIP_ARROW.match(stripped)
+    if lesson:
+        add_internal_link(p, f"lesson_{lesson.group(1)}", stripped)
+        return p
+    chapter = CHAPTER_ARROW.match(stripped)
+    if chapter:
+        add_internal_link(p, f"chapter_{chapter.group(1)}", stripped)
+        return p
+    if EPILOGUE_ARROW.match(stripped):
+        add_internal_link(p, "epilogue", stripped)
+        return p
+    gloss = GLOSS_LINE.match(stripped)
+    if gloss:
+        add_plain(p, "→ Glossary: ")
+        terms = [part.strip() for part in gloss.group(1).split("·")]
+        for i, term in enumerate(terms):
+            if i:
+                add_plain(p, " · ")
+            add_internal_link(p, gloss_anchor(term), term)
+        return p
+
     pos = 0
     for m in URL_RE.finditer(text):
         if m.start() > pos:
-            run = p.add_run(text[pos : m.start()])
-            set_run_font(run)
-        add_hyperlink(p, m.group(1).rstrip(").,;"), m.group(1).rstrip(").,;"))
+            add_plain(p, text[pos : m.start()])
+        url = m.group(1).rstrip(").,;")
+        add_hyperlink(p, url, url)
         pos = m.end()
     if pos == 0:
-        run = p.add_run(text)
-        set_run_font(run)
+        add_plain(p, text)
     elif pos < len(text):
-        run = p.add_run(text[pos:])
-        set_run_font(run)
+        add_plain(p, text[pos:])
+    entry = GLOSS_ENTRY.match(stripped)
+    if glossary and entry:
+        mark_bookmark(p, gloss_anchor(entry.group(1)))
     return p
 
 
@@ -173,19 +256,30 @@ def main():
     i = 0
     first = True
     prev = ""
+    in_glossary = False
     while i < len(lines):
         line = lines[i].rstrip()
         nxt = lines[i + 1].rstrip() if i + 1 < len(lines) else ""
         if not line:
             i += 1
             continue
+        if line == "GLOSSARY":
+            in_glossary = True
+        elif line in {"About the Author", "FURTHER READING", "ACKNOWLEDGEMENTS", "BIBLIOGRAPHY"}:
+            in_glossary = False
         if is_heading(line, nxt, prev):
-            add_heading_line(doc, line, first=first)
+            para = add_heading_line(doc, line, first=first)
             first = False
+            if re.fullmatch(r"Chapter \d+", line):
+                mark_bookmark(para, "chapter_" + line.split()[1])
+            elif re.fullmatch(r"Lesson \d+", line):
+                mark_bookmark(para, "lesson_" + line.split()[1])
+            elif line == "EPILOGUE":
+                mark_bookmark(para, "epilogue")
             tail = "\n".join(lines[i : i + 4])
             maybe_figure(doc, tail, used)
         else:
-            add_body(doc, line)
+            add_body(doc, line, glossary=in_glossary)
             maybe_figure(doc, "\n".join(lines[max(0, i - 2) : i + 3]), used)
         prev = line
         i += 1
