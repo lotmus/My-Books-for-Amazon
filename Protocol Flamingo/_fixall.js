@@ -31,6 +31,28 @@ function setParaText(p, text) {
 function bodyPara(model, text) {
   return setParaText(model, text);
 }
+function parseParas(paraXml) {
+  const out = [];
+  let i = 0;
+  while (i < paraXml.length) {
+    const a = paraXml.indexOf("<w:p ", i);
+    const b = paraXml.indexOf("<w:p>", i);
+    let start = -1;
+    if (a < 0) start = b;
+    else if (b < 0) start = a;
+    else start = Math.min(a, b);
+    if (start < 0) {
+      if (paraXml.slice(i).trim()) throw new Error("trailing non-para " + paraXml.slice(i, i + 80));
+      break;
+    }
+    if (paraXml.slice(i, start).trim()) throw new Error("gap " + paraXml.slice(i, i + 80));
+    const end = paraXml.indexOf("</w:p>", start);
+    if (end < 0) throw new Error("unclosed p");
+    out.push(paraXml.slice(start, end + "</w:p>".length));
+    i = end + "</w:p>".length;
+  }
+  return out;
+}
 
 (async () => {
   const zip = await JSZip.loadAsync(fs.readFileSync(path));
@@ -301,6 +323,8 @@ function bodyPara(model, text) {
     }
   }
   {
+    const braceParas = arr.filter((p) => /Bracewell|patient probe/.test(paraText(p)));
+    console.log("brace debug", braceParas.map((p) => JSON.stringify(paraText(p).slice(0, 160))));
     const b = one((t) => t.includes("Bracewell, R. N."), "bracewell bib");
     if (arr[b].includes("https://en.wikipedia.org/wiki/Bracewell_probe")) {
       arr[b] = arr[b]
