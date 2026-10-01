@@ -21,7 +21,7 @@ de-extinction, embryo selection, genetic privacy, and longevity.
 ## Manuscript (complete)
 
 - Prologue + 46 chapters in eleven parts + appendix, matching `00_Chapter_Outline.md`.
-- About 95,400 words of prologue and chapter body after the length pass. Later passes stayed inside the bands. A count on 30 September 2026, after the continuity pass below, put the prologue at 938 words and left every chapter that was remeasured inside 1,900 to 2,400. Spot counts from that run: chapter 10, 2,113; chapter 11, 1,940; chapter 18, 2,049; chapter 21, 2,009; chapter 25, 2,096; chapter 32, 2,211; chapter 38, 2,125; chapter 39, 2,167; chapter 43, 2,314; chapter 46, 2,275.
+- About 95,400 words of prologue and chapter body after the length pass. Later passes stayed inside the bands. A count on 1 October 2026, after the fact-check pass below, put the prologue at 938 words and left every chapter that was remeasured inside 1,900 to 2,400. A full count that morning, before the last inserts, was 96,736 words of prologue plus chapters. Spot counts from that run: chapter 10, 2,113 before the tunnelling insert; chapter 26, 2,084; chapter 33, 2,129; chapter 38, 2,125; chapter 43, 2,314.
 - What that pass added: chapter 4, Griffith's typing work, Avery's May 1943 letter to his brother (paraphrased, not quoted), and the Hershey-Chase blender chemistry with the 1952 paper's sulfur and phosphorus splits. Chapter 8, how the poly-U tape was made, the 27 May 1961 run, the ribosome's three slots, and why several antibiotics jam bacterial ribosomes. Chapter 9, microRNAs, the distant limb enhancer of *SHH*, and the *XIST* RNA that coats one X chromosome. Chapter 17, Bateson and Punnett's sweet peas, coupling, and the reduplication scheme. Chapter 18, salivary-gland chromosome maps and Dobzhansky's seasonal counts on Mount San Jacinto. A later pass removed the bell-curve toy from this chapter, because chapter 10 already teaches the Modern Synthesis. Chapter 30, imprinting slips at *IGF2* and related genes in large-offspring calves, and the mitochondrial mismatch in a clone.
 - Continuity pass, 30 September 2026. Milk is one fact in every file: Ruth cannot drink a glass (lactase switches off); Anna inherited the persistence variant from her father and can; Theo inherited Anna's copy and can. The variant sits about fourteen thousand base pairs upstream of *LCT*, in *MCM6*. A line in chapter 22 that had Ruth carrying the variant, and passing it to Anna, was wrong and has been cut. Rio Red is 1984. The fruit Ruth grew up on is Ruby Red, the 1929 bud sport. The FDA animal-cloning risk assessment is dated 15 January 2008 in chapters 30 and 34. That is the date on the FDA risk assessment and the accompanying guidance. The Federal Register notice of availability is 16 January 2008. The book uses the document date in both chapters. No primary source found in this pass gave a different day for the assessment itself.
 - Chapter 39 is Ruth, Anna, and Theo at a table, labeled invented once at the start of that part, disagreeing about a spit-kit result. The chip is about 0.02 percent of one parental set. Chapter 11 points forward to the pea garden in Part IV and does not teach the ratios. The prologue keeps one scale picture, a cheek cell, two metres, a handful of mistakes in one division, and does not preview Shenzhen, a prison, or the $2.2 million price. Chapter 18 recalls the Modern Synthesis in two sentences and leaves the lecture in chapter 10. The San Jacinto counts stay. Chapter 43 meets Casgevy, then the edit, then busulfan, then each priced medicine, then the virus envelope, one at a time. Chapter 46's middle is continuous prose. It reminds the reader that the 2020 pathway is the heritable-genome-editing report's requirement for a long medical reason and broad oversight. Gattaca is one clause. The closing sentences, one letter in a billion still wrong, and the refusal to make copying perfect, are still the last words.
@@ -49,19 +49,47 @@ de-extinction, embryo selection, genetic privacy, and longevity.
 
 ## On disk for ingest
 
-- Word file: the continuity pass rebuilt cleanly to `export/The_Copy_Is_Never_Exact_new.docx` on 30 September 2026. The builder reported 47 figures and no placeholder slots. The previous attempt to overwrite `export/The_Copy_Is_Never_Exact.docx` failed, so this build was written to the new filename and the old file was left alone. A Word or KDP previewer pass has not been done.
+- Word file: the 1 October 2026 fact-check pass rebuilt to `export/The_Copy_Is_Never_Exact_new.docx`. The builder reported 47 figures and no placeholder slots. The previous attempt to overwrite `export/The_Copy_Is_Never_Exact.docx` failed, so this build uses the new filename. A Word or KDP previewer pass has not been done.
 - Front cover: `cover/front_cover.png`, 1800 by 2700 pixels (6 by 9 inches at 300 dpi). Original artwork, title, subtitle, and author set in Georgia. Not a photograph of a person.
 - `KDP_Description.md` holds the Amazon sell copy and a short credit list. The description makes no medical promise and quotes no review.
 
 ## Rebuild
 
 ```
-python Figures/build_docx.py export/The_Copy_Is_Never_Exact.docx
+python Figures/build_docx.py export/The_Copy_Is_Never_Exact_new.docx
 ```
+
+## Fact-check pass, 1 October 2026
+
+Verified against a fresh source, and updated in the chapters if needed:
+
+- Casgevy US price: Vertex Form 8-K, 8 December 2023, wholesale acquisition cost $2.2 million. That is the published US list, not a hospital bill and not the NHS price. NICE TA1003 and TA1044: published UK list £1,651,000 per course, confidential NHS discount. MHRA marketing authorisation 15 November 2023 (the GOV.UK news post is dated 16 November). FDA sickle cell 8 December 2023; FDA transfusion-dependent beta-thalassaemia 16 January 2024. Chapters 26 and 43 now say WAC, UK list, and 15 November.
+- KJ Muldoon: Musunuru et al., *NEJM*, online 15 May 2025, reports two infusions at about 7 and 8 months of age. CHOP and later university accounts of the same case have spoken of a third dose. Chapters 26 and 43 follow the paper and flag the later accounts as later accounts.
+- UK Biobank: recruitment still given as about 502,000. Whole genomes released 30 November 2023; *Nature* 6 August 2025 counts 490,640. Chapter 38 uses that count.
+- All of Us: first large genomic release, *Nature* 2024, 245,388 whole genomes. NIH news, 30 June 2026: enrolment over 883,000, more than 535,000 whole genomes in that later release. Chapter 38 updated.
+- deCODE: "about half the adult population" was too neat. Softened to more than 160,000 people by 2018, a large share of a small country. Could not independently pin a single official adult-fraction figure that held still.
+- China Kadoorie Biobank >512,000 (2004–2008) and FinnGen about 500,000 held. Million Veteran Program passed a million enrollees in 2023 held.
+- Flavr Savr: FDA letter to Calgene is 17 May 1994, not 18 May. "About twice the price" was not verified; softened to a premium. *Alliance for Bio-Integrity v. Shalala* (2000) and Vermont's 2014 labelling law, overridden by the 2016 federal statute, added to chapter 33.
+- Cloned food: FDA risk assessment 15 January 2008, no label required, held. Campaigners petitioned in 2006. No later lawsuit forced a cloned-food label onto a package. Chapter 34 now says so.
+- Bowman v. Monsanto, 13 May 2013, unanimous, and Schmeiser 2004 SCC 34, five to four, held.
+- Gene-therapy launch prices held as launch prices: Luxturna about $850,000 both eyes (2017); Zolgensma $2.125 million (2019); Zynteglo $2.8 million (2022); Hemgenix $3.5 million (2022); Roctavian $2.9 million (2023); Lyfgenia $3.1 million (December 2023). Later list prices have moved (Zolgensma has been quoted higher). The book keeps the year-of-approval figure.
+- ViaGen Pets: dog and cat cloning listed at $50,000 in the mid-2020s; genetic preservation listed at $1,600, not a few hundred dollars. Chapter 30 corrected.
+- 23andMe GSK $300 million (July 2018), Regeneron $256 million then TTAM $305 million (2025), held.
+- Proton tunnelling: Löwdin, *Rev. Mod. Phys.*, July 1963; Slocombe, Sacchi, Al-Khalili, *Communications Physics*, 2022; Slocombe, Winokan et al., *J. Phys. Chem. Lett.*, 23 December 2022. Chapter 10 adds the later polymerase-wobble calculation and still calls the claim working, not settled.
+
+Could not verify, so left soft or untouched:
+
+- A cloned calf at $15,000 to $20,000: industry order-of-magnitude, not a single invoice.
+- The exact NHS confidential discount for Casgevy: commercial in confidence.
+- deCODE as a precise fraction of adult Icelanders: competing round numbers (two thirds by company accounts; about 42 percent of the whole population in one 2025 table).
+- Flavr Savr supermarket price as a multiple of ordinary tomatoes.
+- China's Tianjin cattle-cloning plant at 100,000 animals a year: already flagged in chapter 34 as not to be taken at face value.
+- A reliable count of couples for whom embryo selection cannot help: chapter 44 already says none was found.
+- The EU new-genomic-technique final text after the December 2025 provisional deal: chapter 33 still says to check the final text.
+- A Word or KDP previewer pass: not done.
 
 ## Still on Lothar
 
 - A KDP previewer pass. Nothing in this file claims that pass has been done.
-- Dollar figures and trial counts that this pass did not reopen against a new source, including the Casgevy list price cited from Vertex's 8 December 2023 announcement, are still the ones already in the chapters. They were not invented in this pass, and they were not re-audited against a fresh download.
-- A fact-check pass on dates, dollar figures, and specific counts is still recommended before publication. The haploid and diploid letter counts are consistent: about 3.1 billion in one parental set, about 6.2 billion in a nucleus.
-- This manuscript sits in the existing Books for Amazon git repository, which already has commits. The fixes in this pass have not been committed.
+- The haploid and diploid letter counts are consistent: about 3.1 billion in one parental set, about 6.2 billion in a nucleus.
+- This manuscript sits in the existing Books for Amazon git repository.

@@ -124,14 +124,22 @@ Jinek, M., Chylinski, K., Fonfara, I., Hauer, M., Doudna, J. A., and Charpentier
 International Human Genome Sequencing Consortium. "Initial Sequencing and Analysis of the Human Genome." *Nature*, February 2001.
 Green, R. E., et al. (Pääbo lab). "A Draft Sequence of the Neanderthal Genome." *Science*, May 2010.
 Slocombe, L., Sacchi, M., and Al-Khalili, J. "An Open Quantum Systems Approach to Proton Tunnelling in DNA." *Communications Physics*, 2022.
+Slocombe, L., Winokan, M., et al. "Quantum Tunnelling Effects in the Guanine-Thymine Wobble Misincorporation via Tautomerism." *Journal of Physical Chemistry Letters*, 23 December 2022. A later calculation, still not an experiment in a living cell.
+Löwdin, P.-O. "Proton Tunneling in DNA and its Biological Implications." *Reviews of Modern Physics*, July 1963.
 Wilmut, I., Schnieke, A. E., McWhir, J., Kind, A. J., and Campbell, K. H. S. "Viable Offspring Derived from Fetal and Adult Mammalian Cells." *Nature*, February 1997.
 Nurk, S., et al. "The Complete Sequence of a Human Genome." *Science*, 31 March 2022. The nuclear assembly is 3,054,815,472 base pairs; with the mitochondrial genome of 16,569 the one-parental-set total is 3,054,832,041.
-Musunuru, K., et al. "Patient-Specific In Vivo Gene Editing to Treat a Rare Genetic Disease." *New England Journal of Medicine*, online 15 May 2025. The paper on KJ Muldoon. It reports two infusions.
+Musunuru, K., et al. "Patient-Specific In Vivo Gene Editing to Treat a Rare Genetic Disease." *New England Journal of Medicine*, online 15 May 2025. The paper on KJ Muldoon. It reports two infusions. Later hospital and university accounts of the same case have spoken of a third dose.
 Bycroft, C., et al. "The UK Biobank Resource with Deep Phenotyping and Genomic Data." *Nature*, 2018.
+UK Biobank Whole-Genome Sequencing Consortium. "Whole-Genome Sequencing of 490,640 UK Biobank Participants." *Nature*, 6 August 2025.
 The All of Us Research Program Genomics Investigators. "Genomic Data in the All of Us Research Program." *Nature*, 2024. The release described in the paper contains 245,388 whole genomes.
+National Institutes of Health. "NIH's All of Us Research Program is now the largest integrated genomics and health database in the world." 30 June 2026. Enrolment over 883,000; more than 535,000 whole genomes in that release.
 Sclater, A. "The Extent of Charles Darwin's Knowledge of Mendel." *Journal of Biosciences*, June 2006. Darwin's copy of Focke, pages 108 to 110 uncut.
 Gitschier, J. "It Was Heaven: An Interview with Evelyn Witkin." *PLOS Genetics*, 2012. Witkin's recollection that Max Delbrück called DNA a stupid molecule.
-Vertex Pharmaceuticals. Announcement of the United States list price of Casgevy at $2.2 million, 8 December 2023, the day the Food and Drug Administration approved it.
+Vertex Pharmaceuticals. Form 8-K, 8 December 2023. Wholesale acquisition cost of Casgevy in the United States set at $2.2 million, the day the Food and Drug Administration approved it for sickle cell disease.
+Medicines and Healthcare products Regulatory Agency. Casgevy marketing authorisation, 15 November 2023.
+National Institute for Health and Care Excellence. TA1003 and TA1044. Published list price of exagamglogene autotemcel £1,651,000 per course, with a confidential NHS discount.
+Food and Drug Administration. Letter to Calgene, Inc., 17 May 1994, concluding that FLAVR SAVR tomatoes had not been significantly altered compared with tomatoes with a history of safe use.
+Alliance for Bio-Integrity v. Shalala, 116 F. Supp. 2d 166 (D.D.C. 2000).
 Bowman v. Monsanto Co., 569 U.S. 278 (2013).
 Monsanto Canada Inc. v. Schmeiser, 2004 SCC 34.
 
