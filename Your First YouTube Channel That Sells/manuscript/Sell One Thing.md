@@ -35,6 +35,17 @@ Ways to fill those three, still one at a time:
 - **A monthly pass you bill yourself.** The next file, or the next call, paid to you. A video site’s own membership button can wait until you have cleared that site’s gate. Until then, your page is the pass.
 - **One sponsor, for one video.** Say so in the video and next to the link. Do not also pitch your file in that same video. Two asks is a menu. If the file is the offer, the sponsor waits.
 
+Week one of the calendar builds the page for the shape you picked, and you say that shape’s sentence. One page. One sentence. One shape for ninety days.
+
+- **File.** The page names the file, the price, and what is in it. Say: “I made [name]. It costs [price]. Here is the link.”
+- **Ticket.** The page names the date, the length, and the price. Say: “On [date] I teach [result]. It costs [price]. Here is the link.” After that date, sell the recording as the file, or stop. Do not leave both on the page.
+- **A thing you ship.** The page names what arrives, how long it takes, and the price, including whether shipping is inside the number. Say: “I will send you [thing]. It costs [price]. Here is the link.”
+- **License.** The page says what the buyer may do with the clip or the template, and what they may not. Say: “You can use [thing] for [the use you wrote down]. It costs [price]. Here is the link.”
+- **Call.** The page names the length, the result, and the price. Say: “I will [result] with you for [length]. It costs [price]. Here is the link.”
+- **One affiliate product.** The page the stranger pays on is the merchant’s. Your sentence carries the disclosure. Say: “I use [product]. This is an affiliate link. The price on their page is [price].”
+- **Monthly pass.** The page says what arrives each month and when the next charge happens. Say: “Each month you get [thing]. It costs [price] a month. Here is the link. You can cancel before the next charge.”
+- **One sponsor.** If the sponsor pays you directly, the sentence is the disclosure. Say: “[Sponsor] paid for this video. The link is theirs.” Do not also name your file.
+
 Ad revenue from a platform partner program is not this offer. It can become extra income after the thresholds in the money chapter. It is a slow, uncertain side effect of attention. Do not build the channel as if the badge is the product. A channel with no offer can be popular and still sell nothing you control.
 
 ## III. The promise the video has to keep
@@ -57,6 +68,8 @@ Suppose the offer earns you $30 after fees on each sale. Suppose, as a planning 
 
 A service priced at $150 with the same 2-in-100 guess needs only the same 50 views to earn $150. Fewer buyers can be a better business than many buyers of a $9 file, if you can deliver the service without drowning. Write down which one you can actually fulfill this month.
 
+Price the hours as well. Suppose the offer video takes eight hours, and you need those hours to be worth $25 each. The video costs $200 of your time before a sale. At $30 a sale you need seven sales, about 350 views of that video at the 2-in-100 guess, before the time is covered. The $150 call covers those same hours on the second sale. Write your own hours and your own rate on the money sheet. If the file cannot cover the hours, sell the call, or make a shorter video. The 2-in-100 figure stays a placeholder until your own count replaces it.
+
 ## V. Put the sale where a stranger can reach it
 
 The sale does not happen inside the player unless the platform gives you a product shelf and you are eligible to use it. For almost every new channel, the sale happens at a link: a simple page with the name of the offer, the price, what is included, and a way to pay or book.
@@ -67,7 +80,9 @@ If you are not ready to take money, you are not ready to call the channel a chan
 
 The page has one job. A stranger on a phone can see the price and pay, or book, without asking you what it costs. If the number sits behind “request a quote,” you have rebuilt “message me for rates.” Put the price on the page.
 
-Then buy it yourself. On your phone, open the link the way a stranger will, from the description, not from a bookmark you already trust. Finish the payment or the booking. If the tool allows a refund of that test, refund it. The step where you stalled is the step a buyer will abandon. Do this before the first video.
+Then buy it yourself. On your phone, open the link the way a stranger will, from the description, not from a bookmark you already trust.
+
+Here is the test when it fails. The page says “request a quote.” Or the pay button loads and the form will not take the card. You stop. That stall is the buyer’s stall. Fix the page before you film. If a payment did go through and the tool allows a refund, refund it. The step where you stalled is the step a buyer will abandon. Do this before the first video.
 
 A free email list can sit beside that page. It cannot replace it. The first message names the offer, the price, and the same single link, and it says what later messages will be and how often they come. “Join my community,” with no offer and no date, is a waitlist with an extra step.
 
