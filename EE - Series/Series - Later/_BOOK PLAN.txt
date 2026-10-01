@@ -1076,3 +1076,297 @@ Book 3 status (2026-09-30): Part I drafted in
   at rest, the diode law, and the diode you can buy. Working constants
   are declared in the book (VT = 26 mV, ni = 1.0e10 cm^-3). Parts II
   through VI are not in the file yet. Books 4-21 are not started.
+
+SOURCE MAP ADDITIONS (2026-09-30, second pass)
+  The first map was strong on RF circuits, digital and SDR, CMOS
+  logic, loops, PCB, and board-level regulators. The holes below are
+  filed on the volume that owns them. Do not paste these books in.
+  Three power professions stay on separate shelves. A kW RF
+  transmitter is not a buck converter, and a Marx bank is not a
+  48 V bus.
+
+  General analog, the judgment layer. Horowitz and Hill, The Art of
+  Electronics, plus the X-Chapters: grounding, probing, discretes,
+  op-amps, noise, and the failures specialty texts skip. Name it from
+  Books 2, 3, and 20. Gray, Hurst, Lewis, and Meyer, Analysis and
+  Design of Analog Integrated Circuits, and Razavi, Design of Analog
+  CMOS Integrated Circuits, belong to Book 3 once the chapter is an
+  analog chip rather than a radio. Razavi's RFIC book stays on
+  Books 7, 12, and 17.
+
+  Fields, the layer under RF. Pozar assumes this language already.
+  Ulaby, Fundamentals of Applied Electromagnetics, is the gentler
+  on-ramp. Hayt and Buck, or Cheng, Engineering Electromagnetics,
+  is the course book. Balanis, Advanced Engineering Electromagnetics,
+  is the reference. Book 1 already did circuit-level electricity and
+  magnetism. These three support Books 4, 8, 9, and 10, and the
+  sentence "why this via radiates" in Books 11 and 18. Do not rewrite
+  Book 1 as a fields course.
+
+  Antennas and propagation. Book 10 owns them. Balanis, Antenna
+  Theory. Stutzman and Thiele, Antenna Theory and Design. The ARRL
+  Antenna Book when the job is to build one. Rappaport, Wireless
+  Communications, for cellular channels, shared with Book 12.
+  Bertoni or Parsons when the problem is an urban link rather than
+  the circuit.
+
+  Measurements. Book 20 owns the instruments, with Book 8 as the
+  microwave-component partner. Dunsmore, Handbook of Microwave
+  Component Measurements, for the VNA, calibration, and fixtures.
+  Keysight and Rohde & Schwarz application notes, and the Agilent /
+  Keysight spectrum-analyzer and phase-noise primers, stay free and
+  are often the better second read. Sandler stays on Book 15 for
+  loop and PDN measurement, and is cited again here when the
+  question is "did the loop really measure as stable."
+
+  Noise as its own subject. Book 5 owns it. Motchenbacher and
+  Connelly, Low-Noise Electronic System Design. Hajimiri and Lee
+  on phase noise, and Razavi's phase-noise chapters. Robins, Phase
+  Noise in Signal Sources. PLL residual noise stays with Gardner,
+  Best, and Goldberg on Book 7. Do not leave phase noise only as a
+  aside inside Pozar or Razavi.
+
+  Data converters. Book 14 owns the ADC and DAC that a digital
+  radio actually uses. Van de Plassche. Razavi, Principles of Data
+  Conversion System Design. Kester and Analog Devices, The Data
+  Conversion Handbook. Maloberti, Data Converters. Sampling,
+  aperture jitter, SFDR, and the clock are the joint between this
+  book and the RF front end in Books 4 and 5.
+
+  Filters. Microwave filters: Matthaei, Young, and Jones is no
+  longer only a named gap. Book 8 owns it, with Hunter, Theory and
+  Design of Microwave Filters. Lumped analog filters: Van Valkenburg,
+  or Schaumann, Xiao, and Van Valkenburg, Design of Analog Filters,
+  on Book 2's filter chapter and again on Book 4 when the filter
+  is still lumped.
+
+  Oscillators, as distinct from PLLs. Book 17 owns the oscillator.
+  Grebennikov, RF and Microwave Transistor Oscillator Design.
+  Rohde, Microwave Circuit Design Using Linear and Nonlinear
+  Techniques (oscillators, mixers, and synthesizers). Rhea,
+  Oscillator Design and Computer Simulation. Book 7 keeps the
+  phase-locked loop wrapped around that oscillator.
+
+  Mixers, power amplifiers, nonlinear circuits. Book 17 owns them.
+  Cripps, RF Power Amplifiers for Wireless Communications, and
+  Advanced Techniques in RF Power Amplifier Design, are owned
+  books here, not a one-line mention. Maas, Microwave Mixers, and
+  Nonlinear Microwave and RF Circuits. Vendelin, Pavio, and Rohde
+  for nonlinear techniques. Gonzalez remains the stability text on
+  this same book.
+
+  Magnetics beyond one SMPS chapter. McLyman stays on Book 15 for
+  the converter inductor and transformer. Sevick, Transmission
+  Line Transformers, is the RF balun and transformer book: Books
+  4, 8, and 17. Erickson and Witulski's magnetics chapters stay
+  with the converter plant on Book 15.
+
+  Thermal, reliability, packaging. Book 18 owns them. Seri Lee and
+  Lasance style thermal management. Chuck Harper on packaging.
+  MIL-HDBK and IEC derating practice. A reliability text of the
+  RIAC sort if the book is about shipping a product. Vendor SOA
+  and theta-JA notes are often enough for a single part, and they
+  belong in the same chapter as the copper that heats it.
+
+  Safety, isolation, mains entry. Book 15's offline-regulator
+  chapters own Pressman and Billings on isolation, IEC 62368-1
+  practice, and creepage and clearance notes. Whitaker moves to
+  the high-power RF shelf below when the voltage is a broadcast
+  or high-power RF plant, not a wall-wart.
+
+  Radar, electronic warfare, radio systems. Book 13 owns them.
+  Steer volume 1 is the systems-lite on-ramp and stays on Book 4.
+  Skolnik, Introduction to Radar Systems, and Radar Handbook.
+  Richards, Fundamentals of Radar Signal Processing. Tsui,
+  Microwave Receivers with Electronic Warfare Applications.
+
+  Tools. Book 19 owns them. Vladimirescu, or Basso's SPICE book,
+  for circuit simulation, without moving Basso off Book 15.
+  Swanson and Hoefer, or the vendor HFSS and CST cookbooks, for
+  electromagnetic simulation. Reed stays on Book 14. PySDR stays
+  on Book 14.
+
+  Lab craft. Book 20 owns it. The Art of Electronics again. Pease,
+  Troubleshooting Analog Circuits. Witte, Electronic Test
+  Instruments, or Spectrum and Network Measurements.
+
+  Compact stack for the holes, if a reader asks for the shortest
+  pile that the earlier lists assumed: Horowitz and Hill; Ulaby;
+  Dunsmore; Balanis, Antenna Theory; the ADI Data Conversion
+  Handbook plus Razavi on converters; Cripps; McLyman; Pease.
+
+  THREE POWER SHELVES. Do not merge these into the LDO and
+  switcher chapters already filed on Book 15.
+
+  Shelf A. High-power RF. Transmitters, combiners, tubes, from
+  kilowatts upward. This continues Cripps and Grebennikov. It does
+  not continue Erickson. Home: Book 17, in its own part, after the
+  small-signal transceiver chapters.
+          Cripps, both PA books.
+          Grebennikov, RF and Microwave Transmitter Design
+          (matching, combiners, classes D, E, and F, radar,
+          broadcast, and cellular architectures).
+          Grebennikov, Sokal, and Franco, Switchmode RF and
+          Microwave Power Amplifiers (class E and F, Doherty).
+          Kazimierczuk, RF Power Amplifiers, for class A through F
+          with design equations.
+          Raab, RF and Microwave Power Amplifiers (2025), for
+          efficiency, SWR, and GaN, LDMOS, and HBT practice.
+          Whitaker, The RF Transmission Systems Handbook, and the
+          related broadcast books, for kilowatt plants: tubes,
+          lines, combiners, dummy loads, cooling, maintenance.
+          Eimac / CPI, Care and Feeding of Power Grid Tubes.
+          Gilmour, Klystrons, Traveling Wave Tubes, Magnetrons,
+          Crossed-Field Amplifiers, and Gyrotrons, when the device
+          is a tube.
+          High-power combiners, couplers, pressurized line, and
+          VSWR foldback are app notes and Whitaker, not a separate
+          textbook. Thermal companion: Harper (Book 18) and the
+          vendor GaN or LDMOS reference design. A PA drain supply
+          may be a Basso or Erickson regulator, but at tens of
+          volts and tens or hundreds of amperes, with hot-loop
+          inductance measured in nanohenries. Say that in Book 17
+          and point at Book 15. Do not teach the transmitter inside
+          the buck chapter.
+          Short stack: Cripps, Grebennikov's transmitter book,
+          Whitaker, and the device vendor's cookbook.
+
+  Shelf B. Facility and utility power. Transformers, feeders,
+          fault current, grounding, coordination. Bogatin's board
+          PDN is not this. Home: its own part of Book 15, after
+          the regulator chapters, opened with a sentence that the
+          reader has changed professions.
+          Industrial and building power, which is what an
+          electronics lab usually needs: IEEE Std 141 (Red Book)
+          first; IEEE Std 142 (Green Book) grounding; IEEE Std 242
+          (Buff Book) protection and coordination; IEEE Std 399
+          (Brown Book) analysis; IEEE Std 1100 (Emerald Book) for
+          powering and grounding electronic equipment, the volume
+          that speaks to an RF or digital rack. Beeman, Industrial
+          Power Systems Handbook. Dunki-Jacobs, Shields, and
+          St. Pierre on ungrounded, high-resistance, and solidly
+          grounded systems. Soares on grounding and bonding.
+          Utility and medium or high voltage distribution: Gonen,
+          Electric Power Distribution Engineering. Short, Electric
+          Power Distribution Handbook. Kersting for an unbalanced
+          feeder model. Glover, Sarma, and Overbye, or Grainger and
+          Stevenson, when the problem climbs above the substation.
+          Codes to design to, not to read as textbooks: NEC /
+          NFPA 70, IEEE C37 switchgear, IEC 60364 outside North
+          America.
+          A rack in an RF building is IEEE 1100 plus Ott, not a
+          board-level PDN chapter.
+          Short stack for a lab or plant: IEEE 141, IEEE 1100,
+          Dunki-Jacobs, and Short or Gonen if the reader owns the
+          feeders.
+
+  Shelf C. High voltage and pulsed power. Insulation, breakdown,
+          Marx banks, high-voltage measurement. Not a 48 V bus.
+          Home: its own part of Book 15, after shelf B, and Book 13
+          cites it when the object is a radar modulator.
+          Power-system high voltage: Kuffel, Zaengl, and Kuffel,
+          High Voltage Engineering Fundamentals, as the first
+          textbook. Naidu and Kamaraju as the course book. Arora
+          and Mosch for fields, dielectrics, and GIS. Ushakov for
+          insulation design, aging, and diagnostics. IEC 60071 for
+          insulation coordination. IEEE 4 for high-voltage testing.
+          Pulsed power: Lehr and Ron, Foundations of Pulsed Power
+          Technology, as the modern single volume (Marx, pulse
+          forming lines, switches, breakdown, measurement, EMI).
+          Pai and Zhang. J. C. Martin's collected notes for
+          nanosecond practice. Latham, High Voltage Vacuum
+          Insulation, for tubes, guns, and space pulsed power.
+          Mesyats when the mechanism is vacuum breakdown or
+          explosive emission.
+          Safety is not optional and is not a textbook substitute
+          for a procedure: NFPA 70E, IEEE C2 (NESC) on utility
+          lines, the one-hand rule, a grounding stick, a dump
+          resistor, and stored energy as one-half C V squared.
+          Offline switchers still use Pressman on isolation and
+          IEC 62368, and they borrow creepage from this shelf.
+          A tube modulator is Gilmour plus Lehr and Ron plus
+          Latham.
+          Short stack for an HV lab or a pulsed modulator: Kuffel,
+          Lehr and Ron, Latham if the insulation is vacuum, and
+          NFPA 70E.
+          Short stack for a substation: Glover or Grainger and
+          Stevenson, Gonen or Short, Arora and Mosch or Kuffel,
+          and the IEEE color books.
+
+UMSPANNEN (2026-09-30)
+  One Faraday law, four shelves. V = N dPhi/dt. Raising frequency
+  lets you cut turns or core area for the same voltage, until
+  copper AC resistance and core loss eat the gain. Do not write
+  a 50 Hz tank, a flyback, a pulse transformer, and an RF balun
+  as one chapter.
+
+  Line frequency and distribution, 16 2/3, 50, and 60 Hz, plus
+  400 Hz aircraft iron. Home: Book 15, shelf B, with shelf C
+  when the insulation is oil-paper, a bushing, or a lightning
+  impulse. Heathcote, J and P Transformer Book, or Kulkarni and
+  Khaparde, Transformer Engineering. IEEE C57, including C57.110
+  and K-factor, because a silicon-carbide inverter on a "50 Hz"
+  transformer is a harmonics problem in the 2-9 kHz band.
+  Flanagan, Handbook of Transformer Design and Applications,
+  when one volume has to span power, audio, wideband, and pulse.
+  McLyman remains the sizing procedure (area product, core
+  geometry, wire, insulation, thermal) and his HF chapters are
+  used on the switch-mode shelf, not instead of Heathcote.
+  German shelf, if that language is the one open on the bench:
+  Boedefeld and Sequenz, Kuechler, Hochspannungstechnik, and the
+  VDE transformer specs. Kuffel and Arora/Mosch stay the
+  insulation books.
+
+  High-frequency power magnetics, kilohertz to low megahertz.
+  Home: Book 15, the isolated-converter chapters, not shelf B.
+  Kazimierczuk, High-Frequency Magnetic Components, is the
+  frequency book: skin, proximity, Dowell, core loss, winding
+  optimization. McLyman for the procedure. Erickson and
+  Maksimovic magnetics chapters, and Hurley's magnetics-design
+  material, for AC copper loss. Ferrite catalogs are design
+  data, not optional reading: TDK/EPCOS, Ferroxcube, Magnetics
+  Inc., with Steinmetz or improved-Steinmetz coefficients.
+  Pairing for an offline or isolated supply: McLyman,
+  Kazimierczuk, and Basso. Silicon steel is the 50/60 Hz core.
+  Eddy currents remove it in the kilohertz. Ferrite, powder,
+  and amorphous alloys take over, with lower peak flux and
+  loss that grows as frequency and flux density rise. "It
+  cooked at 8 kHz" is Kazimierczuk plus C57.110 plus the
+  ferrite loss chart.
+
+  Pulse transformers, nanoseconds to microseconds. Home:
+  Book 15, shelf C, and Book 13 when the pulse is a radar
+  modulator. Flanagan's pulse chapter. Lehr and Ron for pulse
+  transformers and pulse-forming networks. Grossner,
+  Transformers for Electronic Circuits, older and still the
+  pulse and wideband reference. TI, ADI, and Infineon gate-drive
+  notes for the small pulse transformer on a switch. Leakage
+  inductance, capacitance, volt-seconds, and insulation dv/dt
+  dominate, not iron loss at 50 Hz.
+
+  RF and microwave, baluns, ununs, combiners. Home: Books 4, 8,
+  and 17. Sevick and Mack, Sevick's Transmission Line
+  Transformers, is this shelf's "umspannen": Guanella, Ruthroff,
+  ferrite, high-power baluns. Once the winding is a fraction of
+  a wavelength, the design quantity is even-mode and odd-mode
+  impedance, and the core is a common-mode ballast, not the
+  energy-storage path. Grebennikov's transmitter book for
+  combiners. Bowick and the ARRL Antenna Book for amateur-power
+  baluns. Marchand baluns and coax hybrids: Pozar plus vendor
+  notes, not a laminated core.
+  Short stack for a kilowatt HF balun: Sevick and Grebennikov.
+
+  Copper and core rules every shelf states in its own words.
+  Skin depth in copper is about 66/sqrt(f in hertz) millimeters.
+  Above a few kilohertz the center of a solid wire is wasted:
+  Litz, foil, or many strands. Proximity loss in a multilayer
+  winding often exceeds skin loss. Leakage inductance and
+  interwinding capacitance set bandwidth, pulse overshoot, and
+  the snubber, and they set the first resonance a VNA or an
+  impulse test will see. Impulse and dv/dt stress turn-to-turn
+  insulation harder than 50 Hz rms does.
+
+  Minimal magnetics pile, if a reader asks for three titles:
+  McLyman to size it, Kazimierczuk for why frequency hurts the
+  copper and the core, Sevick when the part has become RF.
+  Add IEEE C57 and Heathcote when the iron is on the grid.
