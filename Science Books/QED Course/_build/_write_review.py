@@ -221,12 +221,12 @@ def build():
     P(doc, "EDITORIAL REPORT", 11, 0, 2, True, True, "left", NAVY)
     P(doc, "A critical review of the Complete Quantum Electrodynamics Course", 22, 0, 4, False, True, "left", NAVY)
     P(doc, "What has to change before this manuscript is a book a reader can finish, trust, and buy.", 13, 0, 10, True, False, "left", MUTED)
-    P(doc, "The object under review is the complete Word file, Course edition 1.0, together with the sixty-seven standalone lesson files that match its real chapters. The file contains about 208,000 words, 8,017 paragraphs, and 208 tables, on US Letter pages. Lessons 1 through 67 are written. Lessons 68 through 86, the capstone, and the formula index are still in the file, and they are a different kind of text.")
+    P(doc, "The object under review is the complete Word file, Course edition 1.0, checked against the sixty-seven standalone lesson files and their sources. The complete file contains about 208,000 words, 8,017 paragraphs, and 208 tables, on US Letter pages, and it contains zero pictures and zero hyperlinks. Lessons 1 through 61 in that file are the written course. Lessons 62 through 86 are one template with the topic name swapped in. Standalone files for Lessons 62 through 67 do exist, and they are real lessons, and they are not the chapters a reader finds in the complete book.")
 
     H(doc, "1. The judgment", 1)
-    P(doc, "Read as a course of instruction through tree-level scattering and the idea of mass renormalization, this is serious work. The sequence is a sequence. The factors of i and e are derived rather than announced. The massless Compton result and the two-body formula for dσ/dΩ agree with the standard answers. A reader who does Lessons 1 through 67 with a pencil will know how a QED cross section is built.")
-    P(doc, "Read as a book, the same file is not ready. The subtitle promises precision QED. The last nineteen lessons do not deliver it. They are one template with the topic name swapped in. Earlier chapters cite those lessons by number for the Ward identity, the running charge, the anomalous magnetic moment, the Lamb shift, the path integral, and pair production in an external field. A buyer who believes the citation arrives at a page that says, in substance, define the essential objects and derive the central relation, and then never states a relation worth deriving.")
-    P(doc, "That gap decides the rest of the report. The manuscript’s strength is the path from complex numbers to a cross section. Its failure, as a published book, is that it continues past the path it has actually built, in a voice and a format that hide the difference. Overall, as the book a reader would be handed today, it is a 4 out of 10. The written lessons alone, judged as a course manuscript and not as a product, are a 7.")
+    P(doc, "Read as a course of instruction through tree-level scattering, the sources are serious work. The sequence is a sequence. The factors of i and e are derived rather than announced. The massless Compton result and the two-body formula for dσ/dΩ agree with the standard answers. A reader who works the standalone lessons through Lesson 67 with a pencil will know how a QED cross section is built, and will have seen a cutoff and a mass renormalization. A reader who opens only the complete file stops at Lesson 61, on the threshold of vacuum polarization, and then reads templates.")
+    P(doc, "Read as a book, the complete file is not ready. The subtitle promises precision QED. From Lesson 62 onward the file does not deliver a derivation. Earlier chapters cite later lessons by number for the Ward identity, the running charge, the anomalous magnetic moment, the Lamb shift, the path integral, and pair production in an external field. A buyer who believes the citation arrives at a page that says, in substance, define the essential objects and derive the central relation, and then never states a relation worth deriving. The same buyer never meets the written Lessons 62 through 67, because those files were not spliced into the complete book.")
+    P(doc, "That gap decides the rest of the report. The manuscript’s strength is the path from complex numbers to a cross section. Its failure, as a published book, is that the complete file parts company with the written lessons at Lesson 62 and continues in a template that hides the difference. Overall, as the book a reader would be handed today, it is a 3 out of 10. The written lessons alone, judged as a course manuscript and not as the file that contains them, are a 7.")
 
     H(doc, "2. Scores", 1)
     P(doc, "Each score is out of ten. The third column is the change that would move the score, not a compliment placed beside the number.", before=0, after=6)
@@ -248,11 +248,11 @@ def build():
             ["Glossary and index", "2", "Build one symbol list from the sixty-seven notation tables. Rebuild the formula index from the lessons."],
             ["Links, internal and outward", "1", "Make lesson citations clickable. Cite the papers and the data the numbers come from."],
             ["Front matter and book apparatus", "2", "Add a copyright page, a reader’s map, and a statement of who the book is for."],
-            ["Closing of the argument", "2", "Remove Lessons 68–86 until they are real, and rewrite every pointer to them."],
+            ["Closing of the argument", "1", "Splice the written Lessons 62–67 into the complete file, and remove 68–86 until they are real."],
             ["Readiness for Kindle", "2", "Static contents, real equations, figures, working links."],
             ["Readiness for print", "3", "Gutter for the length, page numbers that survive trim, a contents list a binder can use."],
             ["Readiness to sell", "2", "Sell only the book you have finished, under a title that matches its last real result."],
-            ["The complete file, as a book", "4", "Do the ordered revision in the last section of this report."],
+            ["The complete file, as a book", "3", "Do the ordered revision in the last section of this report."],
         ],
         [3200, 720, 5440],
     )
