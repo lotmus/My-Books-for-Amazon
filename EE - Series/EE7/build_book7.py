@@ -9,6 +9,7 @@ Running grow_4_9.py must not overwrite this file. That script skips Book 7.
 """
 
 import math
+import re
 import zipfile
 from pathlib import Path
 from xml.sax.saxutils import escape
@@ -766,6 +767,11 @@ def blocks():
         "body",
         "ADS and Microwave Office (AWR) are the harmonic-balance benches this series expects you to recognize. They also grow 2.5D and system tools beside that engine. The engine is not a 3D field solver. AWR is not HFSS. Sending a chassis seam to harmonic balance, with no geometry, answers a circuit you drew, not the slot you built. There is no open-source Microwave Office that reproduces that bench. Open SPICE exists. An open harmonic-balance code exists in places. The licensed RF workbench, with its libraries and its layout tie-in, is a different object. Plan on it or plan around it. Do not plan on a free file that has the same name.",
     )
+    add("fig", "fig_ads.png")
+    add(
+        "italic",
+        "Figure 15.1. Drawn for this book. Harmonic balance returns a spectrum at the drain. The second harmonic in the picture is the 15 dB example from this chapter. This is not a screen capture of ADS.",
+    )
     add("h2", "15.2 What you still owe the chamber")
     add(
         "body",
@@ -800,6 +806,16 @@ def blocks():
         "body",
         "A trace over a plane, a coupled pair, a power-plane gap that is still a gap in a layer, a via fence, a filter printed in copper: these are stackup problems. You get impedance, coupling, and a radiation estimate that knows the board's dielectric. Book 9's laminate loss, the decibels per meter of FR-4 versus a better resin, is that book's number. This solver is where you would notice that loss if you put the right dielectric in. Do not type \"FR-4\" and walk away. Two mills' FR-4 do not share one loss tangent. Book 9 already said so.",
     )
+    add("fig", "fig_momentum.png")
+    add(
+        "italic",
+        "Figure 16.1. Drawn for this book. A 2.5D solver such as Momentum treats currents on the layers of a stack. The cage is not in the model. This is not a screen capture of Momentum.",
+    )
+    add("fig", "fig_sonnet.png")
+    add(
+        "italic",
+        "Figure 16.2. Drawn for this book. Sonnet puts those layered currents inside a shielded box, so the wall is part of the model. This is not a screen capture of Sonnet.",
+    )
     add("h2", "16.2 What it is not allowed to see")
     add(
         "body",
@@ -833,6 +849,11 @@ def blocks():
     add(
         "body",
         "A 3D result is only as good as the mesh at the gap that sets the field, and as good as the port you used to excite it. A default mesh that looks smooth and a port that is not the mode the connector actually launches will give you a confident wrong S-parameter. Ask for the mesh at the seam, the port impedance, and the convergence, in that order, before you look at the color plot. The color plot is what people paste into a review. The convergence is what decides whether the paste is allowed.",
+    )
+    add("fig", "fig_hfss.png")
+    add(
+        "italic",
+        "Figure 17.1. Drawn for this book. A 3D solver such as HFSS meshes the metal, and the mesh at the gap is part of the answer. This is not a screen capture of HFSS.",
     )
     add("h2", "17.2 Antennas you meant, and antennas you did not")
     add(
@@ -1216,21 +1237,74 @@ SECT = (
 )
 
 
-def build_document_xml():
+FIG_W_EMU = 5029200  # 5.5 inches
+FIG_H_EMU = int(FIG_W_EMU * 640 / 1100)
+
+
+def drawing_xml(name, doc_pr_id, rel_id):
+    safe = escape(name)
+    cx, cy = FIG_W_EMU, FIG_H_EMU
+    return (
+        "<w:p><w:pPr><w:spacing w:before=\"120\" w:after=\"40\" w:line=\"276\" w:lineRule=\"auto\"/>"
+        "<w:jc w:val=\"center\"/></w:pPr><w:r><w:drawing>"
+        f"<wp:inline distT=\"0\" distB=\"0\" distL=\"0\" distR=\"0\">"
+        f"<wp:extent cx=\"{cx}\" cy=\"{cy}\"/>"
+        "<wp:effectExtent l=\"0\" t=\"0\" r=\"0\" b=\"0\"/>"
+        f"<wp:docPr id=\"{doc_pr_id}\" name=\"{safe}\"/>"
+        "<wp:cNvGraphicFramePr>"
+        "<a:graphicFrameLocks xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" noChangeAspect=\"1\"/>"
+        "</wp:cNvGraphicFramePr>"
+        "<a:graphic xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\">"
+        "<a:graphicData uri=\"http://schemas.openxmlformats.org/drawingml/2006/picture\">"
+        "<pic:pic xmlns:pic=\"http://schemas.openxmlformats.org/drawingml/2006/picture\">"
+        "<pic:nvPicPr>"
+        f"<pic:cNvPr id=\"{doc_pr_id}\" name=\"{safe}\"/>"
+        "<pic:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></pic:cNvPicPr>"
+        "</pic:nvPicPr>"
+        "<pic:blipFill>"
+        f"<a:blip r:embed=\"{rel_id}\"/>"
+        "<a:stretch><a:fillRect/></a:stretch>"
+        "</pic:blipFill>"
+        "<pic:spPr>"
+        f"<a:xfrm><a:off x=\"0\" y=\"0\"/><a:ext cx=\"{cx}\" cy=\"{cy}\"/></a:xfrm>"
+        "<a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom>"
+        "</pic:spPr></pic:pic></a:graphicData></a:graphic></wp:inline>"
+        "</w:drawing></w:r></w:p>"
+    )
+
+
+def build_document_xml(rows):
     parts = [DOCUMENT_HEAD]
-    for kind, text in blocks():
-        parts.append(paragraph_xml(kind, text))
+    seen = {}
+    next_rid = 20
+    doc_pr = 1
+    figs = []
+    for kind, text in rows:
+        if kind == "fig":
+            if text not in seen:
+                seen[text] = f"rId{next_rid}"
+                next_rid += 1
+                figs.append(text)
+            parts.append(drawing_xml(text, doc_pr, seen[text]))
+            doc_pr += 1
+        else:
+            parts.append(paragraph_xml(kind, text))
     parts.append(SECT)
     parts.append("</w:body></w:document>")
-    return "".join(parts)
+    return "".join(parts), figs, seen
 
 
 def words_in_blocks():
-    return sum(len(text.split()) for _, text in blocks())
+    return sum(len(text.split()) for kind, text in blocks() if kind != "fig")
 
 
 def main():
-    xml = build_document_xml()
+    rows = blocks()
+    xml, figs, seen = build_document_xml(rows)
+    fig_dir = ROOT / "figures"
+    for name in figs:
+        if not (fig_dir / name).is_file():
+            raise SystemExit(f"missing figure {name}")
     # Rebuild the docx from the previous package so styles stay Amazon Ember blue.
     # If this is a fresh tree, the file we are about to overwrite must already exist
     # as the styled stub. Read it first.
@@ -1240,27 +1314,60 @@ def main():
     tmp = OUT.with_suffix(".docx.tmp")
     with zipfile.ZipFile(OUT, "r") as zin, zipfile.ZipFile(tmp, "w", compression=zipfile.ZIP_DEFLATED) as zout:
         for item in zin.infolist():
+            if item.filename.startswith("word/media/"):
+                continue
             data = zin.read(item.filename)
             if item.filename == "word/document.xml":
                 data = xml.encode("utf-8")
-            # store document uncompressed? deflated is fine
+            elif item.filename == "[Content_Types].xml":
+                text = data.decode("utf-8")
+                if 'Extension="png"' not in text:
+                    text = text.replace(
+                        "<Default Extension=\"jpeg\"",
+                        "<Default Extension=\"png\" ContentType=\"image/png\"/><Default Extension=\"jpeg\"",
+                    )
+                data = text.encode("utf-8")
+            elif item.filename == "word/_rels/document.xml.rels":
+                text = data.decode("utf-8")
+                # Drop image relationships from an earlier build of this same file.
+                # The last relationship may be an image, so do not split the closer off with it.
+                text = re.sub(
+                    r'<Relationship Id="rId\d+" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" Target="media/[^"]+"/>',
+                    "",
+                    text,
+                )
+                if "</Relationships>" not in text:
+                    text = text.rstrip() + "</Relationships>"
+                inserts = "".join(
+                    f'<Relationship Id="{seen[name]}" '
+                    'Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" '
+                    f'Target="media/{name}"/>'
+                    for name in figs
+                )
+                text = text.replace("</Relationships>", inserts + "</Relationships>")
+                data = text.encode("utf-8")
             zout.writestr(item, data)
+        for name in figs:
+            zout.writestr(f"word/media/{name}", (fig_dir / name).read_bytes())
     tmp.replace(OUT)
     n = words_in_blocks()
     print(f"wrote {OUT}")
     print(f"words {n}")
+    print(f"figures {', '.join(figs)}")
     print(f"loop current mA {N['i_loop_ma']}")
     print(f"wire current uA {N['i_wire_ua']}")
     print(f"absorb dB {N['absorb']}")
     # keep a copy of the pre-build bytes only if we failed the home-phrase check
-    blob = " ".join(text for _, text in blocks())
-    for phrase in ("CISPR", "7layers", "Hermon", "sixteen", "AXIEM", "quasi-peak"):
+    blob = " ".join(text for kind, text in rows if kind != "fig")
+    for phrase in ("CISPR", "7layers", "Hermon", "sixteen", "AXIEM", "quasi-peak", "not a screen capture"):
         if phrase.lower() not in blob.lower() and phrase not in blob:
             original_path = OUT.with_suffix(".docx.pre-fill")
             original_path.write_bytes(original)
             raise SystemExit(f"missing phrase {phrase}")
     if n < 8000:
         raise SystemExit(f"book still short: {n} words")
+    if figs != ["fig_ads.png", "fig_momentum.png", "fig_sonnet.png", "fig_hfss.png"]:
+        raise SystemExit(f"unexpected figures {figs}")
 
 
 if __name__ == "__main__":
