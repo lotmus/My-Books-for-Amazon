@@ -342,4 +342,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(
+        "Old Core_Circuits_and_Components_Book2.docx was a 21-volume leftover and is gone. "
+        "Canonical Book 2 is EE2/Circuits_Components_and_Control_Book2.docx"
+    )

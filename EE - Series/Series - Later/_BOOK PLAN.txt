@@ -50,18 +50,14 @@ OLD -> NEW
 STATUS
   Book 1  Content-complete: 38 chapters, 6 appendices,
           ~59,398 words, 38 figures. Kindle only, no ISBN.
-          Stale item: the printed 21-book roadmap table
-          inside Foundations. Fix on the next Foundations
-          pass. Companion adds phasors, resonance, Fourier.
+          Series table is nine books. Companion adds
+          phasors, resonance, Fourier.
   Book 3  Part I drafted (crystal through diode, plus
           GaAs/GaN/InP). Later parts not written.
-  Book 2  Grown from Core_Circuits_and_Components_Book2.docx
-          (9 chapters, ~12,000 words) plus follower/Bode/
-          comparator/Johnson, solenoid as a part, and
-          Chapter 10 (200 Hz = 5 ms). Canonical file:
+  Book 2  Canonical file:
           EE2/Circuits_Components_and_Control_Book2.docx.
-          Still short of 200 pages; do not replace the
-          2026-08 Core Circuits source.
+          Still short of 200 pages. The old Core Circuits
+          volume (21-book map) is deleted.
 
 VOICE
   Original prose. American spelling. Gentle openers.
@@ -181,14 +177,15 @@ THREE PROFESSIONS (do not merge)
 
 BUILDERS
   EE1/build_complex_analysis.py     Book 1 companion
-  EE2/merge_core_circuits.py        Book 2 merge
+  EE2/merge_core_circuits.py        RETIRED (Core source gone)
   EE3/build_book3_part1.py          overwrites Book 3
   EE3/append_part2.py               Book 3 Parts II/III
   grow_4_9.py                       Books 4-9 spines
   21-volume folders EE11-EE21       deleted 2026-10-01
   Series - Later/01-21 dirs         deleted 2026-10-01
+  Core_Circuits_and_Components      deleted 2026-10-01 (old vol 2)
 
 NEXT
-  Grow Book 2 from the Core Circuits draft plus the
-  op-amp spine. Then Book 3 Part II. Then fill 4-9
-  to length without opening a tenth book.
+  Grow Book 2 from the canonical Circuits file.
+  Then Book 3 Part II. Then fill 4-9 to length
+  without opening a tenth book.
