@@ -39,7 +39,7 @@ Dieser Weg ist der falsche, wenn du in wenigen Monaten unter dem deutschen Titel
 
 Er ist ein brauchbarer Weg, wenn du den Titel erst nach der Lizenz führen willst, in der Zwischenzeit eine nicht geschützte Tätigkeit suchen kannst und das Visum nicht an genau dieser Lizenz hängt. Viele Ingenieurstellen sind so. Die wenigsten Arztstellen sind so.
 
-> **Praxisbeispiel:** Lukas Berger (fiktiv), Öl- und Gasingenieur aus Hannover, bekommt in Calgary eine Stelle, für die der Arbeitgeber keine P.Eng.-Unterschrift verlangt. Die ECA braucht er für einen späteren PR-Antrag, nicht für den ersten Arbeitstag. Julia Ahrens (fiktiv) in Ontario ist Apothekerin. Für sie ist das College of Pharmacists of Ontario die Behörde, die zählt, nicht die ECA und nicht Lukas’ Ingenieurweg. Dieselbe Familie, zwei Uhren. (Fiktives Beispiel.)
+> **Praxisbeispiel:** Lukas Berger (fiktiv), Öl- und Gasingenieur aus Hannover, bekommt in Calgary eine Stelle, für die der Arbeitgeber keine P.Eng.-Unterschrift verlangt. Die ECA braucht er für einen späteren PR-Antrag, nicht für den ersten Arbeitstag. Julia Ahrens (fiktiv) ist eine andere Person, Apothekerin in Ontario, nicht seine Partnerin. Für sie zählt das College of Pharmacists of Ontario, nicht die ECA und nicht Lukas’ Ingenieurweg. (Fiktives Beispiel.)
 
 ### Plus und Minus
 

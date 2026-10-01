@@ -1,6 +1,6 @@
 ## Deutschland vor dem Abflug
 
-Ob du nach Michigan, Toronto, Melbourne oder Christchurch gehst: Deutschland lässt dich nicht mit dem Boardingpass los. Melderegister, Krankenkasse, Rentenversicherung und Verträge kennen dein Zielland nicht. Sie laufen weiter, bis du sie beendest oder ummeldest. Dieses Kapitel ist die gemeinsame Liste für alle vier Länder. Die USA-Vertiefung zu Verträgen, Steuern und Papieren steht in den Kapiteln 16 bis 19. Die Unterschiede bei Apostille, Haustier und Container stehen im jeweiligen Landesteil.
+Ob du nach Michigan, Toronto, Melbourne oder Christchurch gehst: Deutschland lässt dich nicht mit dem Boardingpass los. Melderegister, Krankenkasse, Rentenversicherung und Verträge kennen dein Zielland nicht. Sie laufen weiter, bis du sie beendest oder ummeldest. Die deutschen Schritte stehen in diesem Kapitel. Die USA-Kapitel 16 bis 19 verweisen für Abmeldung, Fristen, Krankenkasse und Apostille hierher. Du musst sie dafür nicht öffnen.
 
 > **Kurz gesagt:**
 > - Kündige Wohnung und Job erst, wenn das Visum wirklich steht. Ein vorbereiteter Ordner ersetzt keine Zusage.
@@ -19,31 +19,42 @@ Leg die Kontoauszüge der letzten zwölf Monate neben eine Tabelle: Vertrag, Fri
 
 ### Abmeldung
 
-Wer aus einer Wohnung in Deutschland auszieht und keine neue Wohnung im Inland bezieht, meldet sich bei der Meldebehörde ab. Die Frist und der früheste Termin stehen im Bundesmeldegesetz. Die Auslegung in Kapitel 16 lautet: innerhalb von zwei Wochen nach dem Auszug, nicht früher als eine Woche vorher. Ein Versäumnis kann als Ordnungswidrigkeit gelten. Termin, Online-Formular und Vollmacht regelt deine Kommune, nicht dieses Buch.
+Wer aus einer Wohnung in Deutschland auszieht und keine neue Wohnung im Inland bezieht, muss sich innerhalb von zwei Wochen nach dem Auszug bei der Meldebehörde abmelden (§ 17 Abs. 2 Bundesmeldegesetz). Früher als eine Woche vor dem Auszug geht es nicht. Wer die Frist versäumt, begeht eine Ordnungswidrigkeit. Die Höhe des Bußgelds steht im Bundesmeldegesetz auf gesetze-im-internet.de. Termin, Online-Formular und Vollmacht regelt deine Kommune.
 
 Lass dir eine Abmeldebescheinigung geben und kopiere sie. Beitragsservice, Krankenkasse und Finanzamt verlangen sie oft, auch wenn das Gesetz sie nicht als Formular vorschreibt.
 
-Eine Wohnung, die du behältst, kann die Abmeldepflicht entfallen lassen. Sie kann zugleich Steuer, Krankenkasse und Kindergeld anders stellen. Entscheide das vor dem Flug. Eine Scheinadresse bei Freunden, an der du nicht wohnst, ist keine Lösung. Kapitel 16 nennt das Bußgeldrisiko für den, der so eine Adresse hergibt.
+Eine Wohnung, die du behältst, kann die Abmeldepflicht entfallen lassen. Sie kann zugleich Steuer, Krankenkasse und Kindergeld anders stellen. Entscheide das vor dem Flug. Eine Scheinadresse bei Freunden, an der du nicht wohnst, ist keine Lösung. Wer so eine Adresse hergibt, riskiert ein eigenes Bußgeld. Die Höhe steht im Bundesmeldegesetz.
 
 Der Rundfunkbeitrag endet nicht durch eine Kündigung des Vertrags, sondern durch die Abmeldung der Wohnung auf rundfunkbeitrag.de. Die Beitragsnummer steht auf dem Bescheid. Welche Nachweise die Seite gerade will, steht dort, nicht hier.
 
 ### Verträge, die weiter abbuchen
 
-Handy, Strom, Fitnessstudio, Versicherungen und Streaming enden nicht am Flughafen. Melde den Wegfall des versicherten Risikos der Versicherung schriftlich. Ob ein Sonderkündigungsrecht für Handy oder Strom auch bei einem Umzug ins Ausland greift, ist offen. Schreib der Stelle, leg die Abmeldebescheinigung bei und rechne mit Kulanz, nicht mit einem Automatismus. Die ausführliche Fristentabelle für den USA-Fall steht in Kapitel 16.
+Handy, Strom, Fitnessstudio, Versicherungen und Streaming enden nicht am Flughafen. Melde den Wegfall des versicherten Risikos der Versicherung schriftlich. Ob ein Sonderkündigungsrecht für Handy oder Strom auch bei einem Umzug ins Ausland greift, ist offen. Schreib der Stelle, leg die Abmeldebescheinigung bei und rechne mit Kulanz, nicht mit einem Automatismus.
 
-Kindergeld und Elterngeld enden in der Regel mit dem Wegzug aus Deutschland. Melde den Wegzug der Familienkasse und der Elterngeldstelle. Die Zuständigkeit steht auf familienportal.de und bei der Familienkasse der Bundesagentur für Arbeit.
+| Vertrag | Frist | Beim Umzug ins Ausland |
+|---|---|---|
+| Mietwohnung | drei Monate; Zugang bis zum dritten Werktag des Monats (§ 573c BGB) | kein Sonderkündigungsrecht |
+| Arbeitsvertrag | vier Wochen zum 15. oder zum Monatsende; in der Probezeit zwei Wochen; nur schriftlich (§§ 622, 623 BGB) | ein früheres Ende nur per Aufhebungsvertrag |
+| Handy und Internet | nach der Mindestlaufzeit ein Monat (§ 56 TKG) | Sonderkündigung nach § 60 TKG nur, wenn der Anbieter am neuen Wohnort nicht leistet. Ob das fürs Ausland gilt, ist offen |
+| Strom und Gas, Grundversorgung | zwei Wochen | keine eigene Auslandsregel |
+| Strom und Gas, Sondervertrag | sechs Wochen bei Wohnsitzwechsel (§ 41b EnWG) | ob das fürs Ausland gilt, ist offen |
+| Rundfunkbeitrag | keine Kündigung, sondern Abmeldung der Wohnung | rundfunkbeitrag.de, Beitragsnummer vom Bescheid |
+| Haftpflicht, Hausrat, Rechtsschutz | nach dem Vertrag; den Wegfall des Risikos sofort melden (§ 80 VVG) | zum Übergabetag beenden, nicht Wochen davor |
+| Freiwillige gesetzliche Krankenversicherung | endet nicht von selbst (§ 191 SGB V) | Ende oder Anwartschaft nur schriftlich von deiner Kasse |
+
+Kindergeld hat, wer im Inland wohnt oder sich gewöhnlich aufhält (§ 62 EStG). Der Wegzug beendet den Anspruch in der Regel. Melde ihn der Familienkasse der Bundesagentur für Arbeit. Elterngeld setzt ebenfalls einen Wohnsitz oder gewöhnlichen Aufenthalt in Deutschland voraus. Melde den Wegzug der Elterngeldstelle. Den aktuellen Monatsbetrag nennt die Familienkasse. Dieses Kapitel druckt ihn nicht.
 
 ### Rente: nicht stilllegen, bevor du gefragt hast
 
 Die Deutsche Rentenversicherung führt dein Konto weiter, auch wenn du nicht mehr in Deutschland arbeitest. Was sich ändert, ist die Frage, ob du freiwillig weiterzahlst, ob Zeiten im Zielland angerechnet werden und wohin später die Post geht.
 
-Ein Sozialversicherungsabkommen mit einem der vier Länder gilt nicht automatisch für die anderen drei. Die DRV führt die Länder mit Abkommen und sagt dir, was das Abkommen deckt und was nicht. Lies das auf deutsche-rentenversicherung.de, bevor du freiwillige Beiträge kündigst oder weiterzahlst. Für die USA vertieft Kapitel 17 die Steuerseite. Für Kanada, Australien und Neuseeland vertieft das Steuerkapitel des Landesteils die dortige Vorsorge (CPP, Superannuation, KiwiSaver). Die deutsche Seite bleibt diese hier.
+Ein Sozialversicherungsabkommen mit einem der vier Länder gilt nicht automatisch für die anderen drei. Die Deutsche Rentenversicherung sagt dir, was das Abkommen deines Ziellandes deckt. Lies das auf deutsche-rentenversicherung.de, bevor du freiwillige Beiträge kündigst oder weiterzahlst. Freiwillige Beiträge sind für Deutsche auch aus dem Ausland möglich. Die Zahlung für ein Jahr muss bis zum 31. März des Folgejahres eingehen. Den aktuellen Beitrag nennt die DRV. Die US-Besteuerung der Rente steht nur im USA-Teil. Für Kanada, Australien und Neuseeland bleibt die deutsche Frage hier.
 
 > **Achtung:** Wer die deutsche Rente „einfach ruhen“ lässt, ohne die DRV zu fragen, erfährt den Fehler oft erst Jahrzehnte später, an der Rentenauskunft. Die Beratung vor dem Umzug ist der billigere Zeitpunkt.
 
 ### Krankenversicherung
 
-Die Europäische Krankenversicherungskarte gilt nicht in den USA, in Kanada, in Australien oder in Neuseeland. Eine freiwillige gesetzliche Versicherung endet nicht von selbst mit dem Auszug. Kapitel 16 verweist dafür auf die Regelung im SGB V. Kündige oder kläre eine Anwartschaft mit deiner Kasse, und lass dir das Ende schriftlich geben.
+Die Europäische Krankenversicherungskarte gilt nicht in den USA, in Kanada, in Australien oder in Neuseeland. Die Pflichtmitgliedschaft als Arbeitnehmer endet mit dem letzten Arbeitstag. Eine freiwillige Mitgliedschaft endet nicht von selbst mit dem Auszug (§ 191 SGB V). Kündige sie nur, wenn deine Krankenkasse das Ende schriftlich bestätigt. Ob sie eine Anwartschaft anbietet und was die kostet, steht bei der Kasse, nicht hier.
 
 Bis das Zielland dich aufnimmt, brauchst du eine eigene Übergangsversicherung. Wann das ist, steht nicht in diesem Kapitel. In Ontario kann es schnell gehen, in anderen kanadischen Provinzen gibt es eine Wartezeit. In Australien hängt Medicare am Aufenthaltstitel, und Deutschland hat dort kein Gegenseitigkeitsabkommen. In Neuseeland hängt der öffentliche Zugang an der Visumsdauer. Die Gesundheitskapitel der Länder sagen, welche Police du ab dem Landetag brauchst. Kauf sie so, dass sie am Abflugtag schon gilt, nicht erst nach der ersten Fiebernacht.
 
@@ -53,7 +64,7 @@ Eine Apostille bestätigt, dass ein deutsches Papier echt ist. Sie übersetzt es
 
 | Zielland | Führungszeugnis, typisch | Wo du das prüfst |
 |---|---|---|
-| USA | Nur wenn Konsulat oder USCIS sie verlangt | Kapitel 19 |
+| USA | Nur wenn die US-Stelle sie ausdrücklich verlangt | die Stelle, die das Papier haben will |
 | Kanada | In der Regel ohne Apostille. Ältere, nur deutschsprachige Zeugnisse brauchen eine Übersetzung | Kanada: Antrag, Konsulat, Kosten |
 | Australien | Apostille oft nötig, und sie wird mit dem Zeugnis zusammen beantragt | Australien: Antrag, Konsulat, Kosten |
 | Neuseeland | In der Regel ohne Apostille, dafür eine englische Übersetzung | Neuseeland: Antrag, Konsulat, Kosten |
@@ -78,6 +89,10 @@ Hund und Katze gehören nicht in denselben Karton wie die Apostille. Kanada ist 
 | Abmeldung, Rente und Kasse lassen sich vor dem Flug klären | Wohnung und Job zu früh zu kündigen ist teuer |
 | Apostille nur dort, wo sie verlangt wird | Wer sie pauschal für alle Länder bestellt, zahlt für Papier, das niemand liest |
 | Originale im Handgepäck überstehen einen späten Container | Der Ordner in der Kabine ist ein Verlustrisiko, wenn es keine Scans gibt |
+
+### Riester und das Depot
+
+Ein bestehender Riester-Vertrag läuft in der Ansparphase weiter. Ob beim späteren Rentenbeginn außerhalb der EU oder des EWR Zulagen zurückfließen, sagt der Anbieter. Frag ihn, bevor du kündigst. Ein normales Aktien- oder ETF-Depot ist nicht die Wegzugsteuer nach § 6 AStG. Die gilt für Unternehmensanteile ab einem Prozent. Ob die Bank das Depot bei einem Wohnsitz im Ausland weiterführt, fragst du schriftlich, bevor du verkaufst. Verkauf nicht auf Verdacht.
 
 ### Was jetzt zu tun ist
 
@@ -104,4 +119,4 @@ Schreib die Vertragsliste an einem Abend. Frag die Rentenversicherung nach dem A
 - Bundesamt für Justiz, Führungszeugnis: [bundesjustizamt.de](https://www.bundesjustizamt.de)
 - Familienkasse: [arbeitsagentur.de](https://www.arbeitsagentur.de)
 
-> **Stand:** 30.09.2026. Fristen der Meldebehörde, Beitragssätze und die Liste der Abkommensländer ändern sich. Die USA-Kapitel 16 bis 19 bleiben die Vertiefung für den Umzug dorthin. Für Kanada, Australien und Neuseeland prüfst du Apostille, Gesundheit und Berufszulassung in den dort genannten Kapiteln und auf den Behördenzeilen oben.
+> **Stand:** 30. September 2026. Fristen der Meldebehörde und die Liste der Abkommensländer ändern sich. Beträge stehen auf der genannten Behördenzeile, nicht hier. Die USA-Kapitel verweisen für diese deutschen Schritte hierher.

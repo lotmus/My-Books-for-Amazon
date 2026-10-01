@@ -37,9 +37,7 @@ Das Buch soll sich lesen wie ein kluger, warmherziger Freund am Küchentisch erz
 
 **Konkretheit statt Aufzählung.** Wo ein Absatz nur Fakten aneinanderreiht, hilft ein Bild, ein Vergleich oder ein kurzer Nebensatz mit Persönlichkeit mehr als eine weitere trockene Zeile. Praxisbeispiele dürfen einen sinnlichen, konkreten Moment zeigen (Geräusch, Geruch, ein bestimmter Satz, der fiel) statt nur Zahlen zu transportieren.
 
-**Die Grenze.** Fakten, Zahlen, Fristen, Rechtsstand bleiben unangetastet ernst und exakt – Lebendigkeit betrifft die Erzählweise, nie die Genauigkeit. Bei Visum, Abschiebung, Gesundheit, Geld, Diskriminierung: kein Witz auf Kosten der Betroffenen. Ein Kapitel, das komplett durchwitzelt, verliert die Autorität, die der Leser bei einer Lebensentscheidung braucht – die Dosis macht es.
-
-**2.2.1 Tonlage der Länder-Teile Kanada, Australien, Neuseeland.** Diese drei Teile bekommen einen eigenen Humor-Akzent, passend zur jeweiligen Kultur: britisch geprägter Humor statt des amerikanisch-direkten Beobachtungstons der USA-Kapitel. Konkret heißt das mehr **Understatement** („nicht ganz optimal“ statt „katastrophal“), mehr **Ironie** und **Sarkasmus** (die Aussage sagt das Gegenteil dessen, was gemeint ist, und der Leser merkt es an der Formulierung, nicht an einem Ausrufezeichen) und mehr **Selbstironie über die eigene Verwirrung als Neuankömmling** statt pointierter Ein-Satz-Beobachtungen. Die Grenze aus dem Absatz oben gilt unverändert: Sarkasmus zielt auf Situationen und die eigene Verwirrung, nie auf Personen, Gruppen oder die Betroffenen bei ernsten Themen (Visum, Gesundheit, Geld, Diskriminierung). Beispiel für den Unterschied im Ton: USA-Kapitel: „Ein Adapter ändert nur die Steckerform, nicht die Spannung.“ Kanada/Australien/Neuseeland-Ton: „Der Adapter passt perfekt – nur schade, dass er der Spannung völlig gleichgültig gegenübersteht.“
+**Die Grenze.** Fakten, Zahlen, Fristen, Rechtsstand bleiben unangetastet ernst und exakt. Lebendigkeit betrifft die Erzählweise, nie die Genauigkeit. Bei Visum, Abschiebung, Gesundheit, Geld, Diskriminierung: kein Witz auf Kosten der Betroffenen. Ein Kapitel, das komplett durchwitzelt, verliert die Autorität, die der Leser bei einer Lebensentscheidung braucht.
 
 ### 2.3 Ausgewogenheit und Politik
 - **Plus und Minus fair gewichten.** Nie „Amerika ist besser/schlechter als Deutschland“. Unterschiede beschreiben, Folgen benennen.
@@ -97,8 +95,8 @@ Der Builder wandelt Markdown in Word (DOCX) und EPUB. Nur diese Elemente verwend
 ### Boxen (Labels sind fest; genau diese Schreibweise)
 | Label | Zweck | Häufigkeit |
 |---|---|---|
-| `> **Kurz gesagt:**` | Opener mit 3–6 Stichpunkten (das Wichtigste in 60 Sekunden) | **Pflicht**, genau einmal, direkt nach dem Einstieg |
-| `> **Achtung:**` | Falle, Risiko, teurer Fehler | 2–6 pro Kapitel |
+| `> **Kurz gesagt:**` | Opener mit 3–6 Stichpunkten | nur in Entscheidungskapiteln, einmal, nicht in jedem Kapitel |
+| `> **Achtung:**` | Falle, Risiko, teurer Fehler | höchstens zwei pro Kapitel |
 | `> **Spartipp:**` | Konkret Geld oder Zeit sparen | wo passend |
 | `> **Merke:**` | Kernaussage, die hängen bleiben soll | 1–3 pro Kapitel |
 | `> **Praxisbeispiel:**` | Fiktive, typische Situation (siehe Abschnitt 7) | 0–2 pro Kapitel |

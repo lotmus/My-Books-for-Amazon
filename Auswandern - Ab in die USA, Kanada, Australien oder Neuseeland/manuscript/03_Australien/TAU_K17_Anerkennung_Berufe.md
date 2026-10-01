@@ -27,7 +27,7 @@ Die Gebühr der Bewertungsstelle und die der Registrierung stehen auf deren Seit
 | Ingenieurin, Ingenieur | Häufig *Engineers Australia*, auch für das Washington Accord | Dieselbe Organisation für die berufliche Anerkennung. Zusätzlich kann der Bundesstaat eine Registrierung verlangen, wenn du als *building practitioner* oder ähnlich abzeichnest | Ein Job in einem Planungsteam ist nicht dasselbe wie die Befugnis, ein Tragwerk zu unterschreiben |
 | Handwerk | *Trades Recognition Australia* für viele Bewertungen im Visum | Lizenz des Bundeslands für Elektro, Sanitär, Gas und ähnliche Gewerke | Der Gesellenbrief ist ein Nachweis für TRA, nicht schon die Lizenz, den Schaltschrank freizugeben |
 
-Bengal-Katzen und Quarantäne gehören nicht in diese Tabelle. Sie gehören ins Ankunftskapitel. Hier geht es nur darum, dass ein Visum dich nicht zum Inhaber eines geschützten Berufs macht.
+Ein Visum macht dich nicht zur Inhaberin eines geschützten Berufs. Die Tabelle trennt die Stelle fürs Visum von der Stelle, die dich arbeiten lässt.
 
 ### Schlechte Passung
 

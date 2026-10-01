@@ -7,7 +7,7 @@ Eine Green-List-Zeile ist eine Visumsabkürzung. Sie ist nicht die Erlaubnis, de
 > - Ärztinnen: Medical Council of New Zealand. Pflege: Nursing Council of New Zealand. Lehrkräfte: Teaching Council of Aotearoa New Zealand.
 > - Ingenieurinnen: Engineering New Zealand. Ein Accord ersetzt nicht jede Registrierung.
 > - Handwerk: NZQA kann den Abschluss einordnen. Die Lizenz für Elektro oder Sanitär kommt von der jeweiligen Board.
-> - Wer den deutschen Titel im ersten Monat brauchst, ist zeitlich falsch geplant. Die Kammer ist oft langsamer als das AEWV.
+> - Wer den deutschen Titel im ersten Monat braucht, ist zeitlich falsch geplant. Die Kammer ist oft langsamer als das AEWV.
 
 ### Was die Green List nicht mitliefert
 
