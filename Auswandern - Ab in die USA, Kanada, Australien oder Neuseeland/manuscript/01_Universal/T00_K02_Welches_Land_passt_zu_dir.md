@@ -1,4 +1,4 @@
-## Kapitel 2: Welches Land passt zu dir?
+## Welches Land passt zu dir?
 
 Du hast das Bewertungs-Raster aus dem vorigen Kapitel ausgefüllt, deine Familie steht hinter dem Plan, deine Rücklage ist kalkuliert – und trotzdem weißt du noch nicht, ob es die USA, Kanada, Australien oder Neuseeland werden soll. Viele Leser entscheiden diese Frage aus dem Bauch heraus: Ein Freund lebt schon dort, ein Film hat einen bestimmten Ort geprägt, das Klima klingt verlockend. Das ist kein schlechter Startpunkt, aber ein unvollständiger. Dieses Kapitel legt die wichtigsten strukturellen Unterschiede zwischen den vier Ländern offen – und gibt dir ein Werkzeug an die Hand, deine eigenen Prioritäten systematisch dagegenzuhalten.
 
@@ -6,7 +6,7 @@ Du hast das Bewertungs-Raster aus dem vorigen Kapitel ausgefüllt, deine Familie
 > - Die vier Länder unterscheiden sich stärker, als die gemeinsame Sprache Englisch vermuten lässt: Einwanderungssystem, Gesundheitssystem und Besteuerungsprinzip sind grundverschieden.
 > - USA: Sponsoring durch den Arbeitgeber oder eine Lotterie, kein Punktesystem. Kanada, Australien und Neuseeland: Punktesysteme mit einer kalkulierbaren Mindestschwelle.
 > - Der wichtigste steuerliche Kontrast: Die USA besteuern nach Staatsbürgerschaft weltweit, die anderen drei Länder nach Wohnsitz.
-> - Die gewichtete Scorecard am Ende dieses Kapitels ordnet deine persönlichen Prioritäten den vier Ländern zu.
+> - Die vier kurzen Listen am Ende ordnen Fakten. Sie sind kein Ranking, das das Ankunfts- oder Gesundheitskapitel schlägt.
 > - Dieses Kapitel ist ein Startpunkt zur Eingrenzung, keine endgültige Entscheidung – für die Tiefe gehst du danach in den passenden Länder-Teil.
 
 ### Vier Einwanderungssysteme, ein grundsätzlicher Unterschied
@@ -42,15 +42,15 @@ Bei den USA kommt eine zusätzliche Unsicherheit hinzu, die es bei den anderen d
 
 Kaum ein Bereich unterscheidet sich zwischen den vier Ländern so grundlegend wie die Gesundheitsversorgung – und kaum einer weicht so stark vom gewohnten deutschen System ab. Die USA haben kein universelles System: Die Mehrheit ist über den Arbeitgeber versichert, dazu kommen staatliche Programme für Ältere und Einkommensschwache sowie ein offener Markt für den Direktkauf einer Police – ein Teil der Bevölkerung bleibt schlicht unversichert. Wer in die USA zieht, muss sich aktiv und meist zügig selbst um Versicherungsschutz kümmern.
 
-Kanada und Neuseeland liegen näher am deutschen Gefühl „automatisch abgesichert“: Beide haben ein universelles, steuerfinanziertes System – in Kanada von den Provinzen verwaltet, in Neuseeland zentral über die staatliche Gesundheitsbehörde. Allerdings deckt auch dieses System nicht alles ab: Zahnmedizin, Augenheilkunde und Medikamente sind in Kanada je nach Provinz nur teilweise erstattet. Australien betreibt ein Mischsystem aus dem universellen *Medicare* für Kernleistungen und einer verbreiteten, aber optionalen privaten Zusatzversicherung – strukturell näher am deutschen Nebeneinander von gesetzlicher und privater Absicherung als die anderen drei Länder.
+Kanada und Neuseeland liegen näher am Gefühl einer öffentlichen Grundversorgung: in Kanada von der Provinz verwaltet, in Neuseeland über die staatliche Gesundheitsbehörde, oft an die Visumsdauer geknüpft. Zahnmedizin, Augenheilkunde und Medikamente sind in Kanada je nach Provinz nur teilweise erstattet. Australien ist kein automatisches Medicare für jeden Einreisenden. Permanent Residents bekommen Medicare. Die meisten befristeten Visa bekommen es nicht. Ein Gegenseitigkeitsabkommen mit Deutschland gibt es nicht. Das steht im australischen Ankunfts- und Gesundheitskapitel. Diese Übersicht verliert, wenn sie dem widerspricht.
 
-Details zu Wartezeiten, eventuellen zwischenstaatlichen Abkommen und den konkreten Kosten gehören in das Gesundheitskapitel des jeweiligen Länder-Teils – sie unterscheiden sich zu stark, um sie hier pauschal zusammenzufassen.
+Details zu Wartezeiten gehören in das Gesundheitskapitel des Landes. Sie unterscheiden sich zu stark für eine gemeinsame Punktzahl.
 
-Was das für deine Entscheidung bedeutet, hängt stark davon ab, wie du selbst tickst. Wer Sicherheit durch ein automatisches, staatlich organisiertes System braucht und keine Lust auf eigene Versicherungsentscheidungen hat, fühlt sich in Kanada oder Neuseeland vermutlich schneller zu Hause. Wer ohnehin gewohnt ist, private Zusatzversicherungen selbst zu vergleichen, findet in Australien ein System, das dem deutschen erstaunlich ähnlich funktioniert. Und wer in die USA zieht, sollte die Krankenversicherung nicht als Nebensache, sondern als eigenständigen, zeitkritischen Programmpunkt direkt nach der Zusage behandeln – das Kapitel im USA-Teil zeigt, wie das konkret abläuft.
+Wer eine öffentliche Grundversorgung will, liest zuerst das Gesundheitskapitel von Kanada oder Neuseeland, nicht eine Zeile in dieser Übersicht. Wer nach Australien will, klärt das Visum, bevor er Medicare einplant. Wer in die USA zieht, behandelt die Krankenversicherung als eigenen Punkt direkt nach der Zusage. Das Kapitel im USA-Teil zeigt den Ablauf.
 
 ### Steuerlast und das Besteuerungsprinzip
 
-Für einen groben Belastungsvergleich eignet sich der Steuerkeil (englisch *Tax Wedge*) der OECD am besten: Er addiert Einkommensteuer sowie Arbeitnehmer- und Arbeitgeber-Sozialabgaben abzüglich Familienleistungen und setzt sie ins Verhältnis zu den gesamten Arbeitskosten, für eine kinderlose Einzelperson beim Durchschnittslohn. Nach der OECD-Publikation *Taxing Wages* liegen die USA bei 30,1 %, Kanada bei 32,0 % und Australien bei 29,6 % (jeweils 2024), Neuseeland mit 18,5 % (2025) deutlich darunter – zum Vergleich: Deutschland liegt bei 49,3 % (2025), der OECD-Durchschnitt bei 35,1 %. Neuseeland hat damit die mit Abstand niedrigste Gesamt-Abgabenlast der vier Länder, was du aber immer zusammen mit dem Leistungsumfang bei Rente und Gesundheit betrachten solltest, nicht isoliert als „billigstes Land“.
+Für einen groben Belastungsvergleich eignet sich der Steuerkeil (englisch *Tax Wedge*) der OECD: Einkommensteuer sowie Arbeitnehmer- und Arbeitgeber-Sozialabgaben abzüglich Familienleistungen, ins Verhältnis zu den gesamten Arbeitskosten, für eine kinderlose Einzelperson beim Durchschnittslohn. Die Jahrgänge darf man nicht in eine gemeinsame Punktzahl gießen. Nach *Taxing Wages* auf oecd.org: USA 30,1 % (2024), Kanada 32,0 % (2024), Australien 29,6 % (2024), Neuseeland 18,5 % (2025), Deutschland 49,3 % (2025). Den OECD-Durchschnitt und die jeweils neueste Ausgabe liest du auf derselben Seite, nicht aus dieser Zeile. Neuseeland liegt in seinem Jahrgang deutlich unter den drei anderen. Das sagst du nur zusammen mit Rente und Gesundheit, nicht als „billigstes Land“.
 
 Wichtiger als die Höhe ist für viele Auswanderer ein strukturelles Detail, das leicht übersehen wird: das Besteuerungsprinzip selbst. Kanada, Australien und Neuseeland besteuern nach dem Wohnsitzprinzip (*residence-based taxation*): Wer dort keinen Wohnsitz mehr hat, ist grundsätzlich auch nicht mehr steuerpflichtig gegenüber diesem Land, unabhängig vom Pass. Die USA dagegen besteuern nach dem Staatsbürgerschaftsprinzip (*citizenship-based taxation*) – das gilt nicht nur für US-Staatsbürger, sondern auch für Inhaber der Green Card. Diese Pflicht gegenüber der US-Steuerbehörde IRS bleibt bestehen, selbst wenn du längst wieder in Deutschland oder einem Drittland lebst, und endet erst mit einem formellen Verzicht auf Staatsbürgerschaft oder Green Card.
 
@@ -72,7 +72,7 @@ Ein häufig genutzter, wenn auch nicht amtlicher Anhaltspunkt für Lebenshaltung
 
 Diese Länderdurchschnitte verdecken allerdings enorme Unterschiede zwischen einzelnen Städten. New York und San Francisco gehören zu den teuersten Orten der Welt, während Städte wie Houston oder Austin deutlich günstiger sind; Toronto und Vancouver liegen etwa auf deutschem Großstadtniveau, Auckland und Wellington eher darunter. Die Wahl der Stadt innerhalb eines Landes wirkt auf dein verfügbares Einkommen oft stärker als die Wahl zwischen den vier Ländern selbst – ein Punkt, den die jeweiligen Länder-Teile mit konkreten Städten vertiefen.
 
-> **Achtung:** Numbeo-Werte stammen aus nutzergenerierten Umfragedaten, nicht aus amtlicher Statistik. Nutze sie als Orientierung für die Größenordnung, nicht als exakte Rechengrundlage für deinen persönlichen Finanzplan.
+> **Achtung:** Numbeo ist nutzergeneriert, keine amtliche Statistik. Ein Abstand von zwei Indexpunkten ändert die Reihenfolge eines Landes nicht. Nutz die Zahl als Größenordnung, nicht als Rang.
 
 ### Distanz, Flugzeit und Zeitverschiebung
 

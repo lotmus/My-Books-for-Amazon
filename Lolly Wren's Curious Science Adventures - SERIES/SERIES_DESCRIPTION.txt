@@ -131,7 +131,7 @@ HOW TO USE THIS DESCRIPTION
 
 KDP Series Page:
 - Use the SERIES DESCRIPTION section (full)
-- Add: "Book 1 ready now. Future books in development."
+- Book 1 is Schrödinger's Paperwork. Book 2 is The Permitted Options.
 
 Goodreads Series:
 - Add series page with this description

@@ -117,7 +117,7 @@ Geh die acht Punkte durch, gemeinsam mit allen, die mitziehen. Sprich jeden offe
 Wer diese Bestandsaufnahme ehrlich macht, geht nicht schwächer, sondern besser vorbereitet in die nächste Frage dieses Buches: Welches der vier Länder passt überhaupt zu dir?
 
 > **Checkliste:**
-> - [ ] Bewertungs-Raster ausgefüllt, wenn möglich gemeinsam mit Partner oder Familie
+> - [ ] Acht Punkte durchgegangen, wenn möglich gemeinsam mit Partner oder Familie, ohne Punktzahl
 > - [ ] Finanzielle Rücklage anhand der eigenen Zielort-Kosten kalkuliert, nicht anhand fremder Beispielsummen
 > - [ ] Anerkennungsfähigkeit des eigenen Berufsabschlusses grob recherchiert
 > - [ ] Offenes Gespräch mit Partner und älteren Kindern über Zustimmung und Bedenken geführt
@@ -125,7 +125,7 @@ Wer diese Bestandsaufnahme ehrlich macht, geht nicht schwächer, sondern besser 
 > - [ ] Erste Ansätze für ein soziales Netz am möglichen Zielort gesucht (Online-Community, Kontakt über Arbeitgeber)
 > - [ ] Bewusst mit den unschönen Seiten des Ziellandes auseinandergesetzt, nicht nur mit Hochglanzbildern
 > - [ ] Kostenlose Erstberatung (zum Beispiel Raphaelswerk) in Betracht gezogen
-> - [ ] Raster nach einigen Wochen Recherche ein zweites Mal ausgefüllt
+> - [ ] Liste nach einigen Wochen Recherche ein zweites Mal durchgegangen
 
 ### Quellen und weiterführende Links
 - Auswärtiges Amt — Fragenkatalog „Ich möchte aus Deutschland auswandern“ ([auswaertiges-amt.de](https://auswaertiges-amt.de))

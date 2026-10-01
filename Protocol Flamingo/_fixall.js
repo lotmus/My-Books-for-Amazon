@@ -61,36 +61,23 @@ function parseParas(paraXml) {
   let settings = await zip.file("word/settings.xml").async("string");
 
   const bodyOpen = xml.indexOf("<w:body>");
-  const bodyClose = xml.lastIndexOf("</w:body>");
-  if (bodyOpen < 0 || bodyClose < 0) throw new Error("no body");
+  const docEndTag = "</w:document>";
+  const docEnd = xml.indexOf(docEndTag);
+  const bodyClose = xml.lastIndexOf("</w:body>", docEnd);
+  if (bodyOpen < 0 || bodyClose < 0 || docEnd < 0) throw new Error("no body");
   const before = xml.slice(0, bodyOpen + "<w:body>".length);
   const body = xml.slice(bodyOpen + "<w:body>".length, bodyClose);
-  const after = xml.slice(bodyClose);
+  const after = xml.slice(bodyClose, docEnd + docEndTag.length);
+  const orphanXml = xml.slice(docEnd + docEndTag.length).trim();
+  const orphanParas = orphanXml ? parseParas(orphanXml) : [];
+  if (orphanParas.length < 10) throw new Error("bibliography paras " + orphanParas.length);
   const sectAt = body.lastIndexOf("<w:sectPr");
   if (sectAt < 0) throw new Error("no sect");
   const paraXml = body.slice(0, sectAt);
   const sect = body.slice(sectAt).trim();
   if (!sect.startsWith("<w:sectPr") || !sect.endsWith("</w:sectPr>")) throw new Error("bad sect");
 
-  const arr = [];
-  let i = 0;
-  while (i < paraXml.length) {
-    const a = paraXml.indexOf("<w:p ", i);
-    const b = paraXml.indexOf("<w:p>", i);
-    let start = -1;
-    if (a < 0) start = b;
-    else if (b < 0) start = a;
-    else start = Math.min(a, b);
-    if (start < 0) {
-      if (paraXml.slice(i).trim()) throw new Error("trailing non-para " + paraXml.slice(i, i + 80));
-      break;
-    }
-    if (paraXml.slice(i, start).trim()) throw new Error("gap " + paraXml.slice(i, i + 60));
-    const end = paraXml.indexOf("</w:p>", start);
-    if (end < 0) throw new Error("unclosed p");
-    arr.push(paraXml.slice(start, end + "</w:p>".length));
-    i = end + "</w:p>".length;
-  }
+  const arr = parseParas(paraXml);
 
   const text = (n) => paraText(arr[n]);
   function hits(pred) {
@@ -266,6 +253,9 @@ function parseParas(paraXml) {
     }
     arr.splice(cousinsNow, 0, ...block);
   }
+
+  // The bibliography had been written after the document was already closed.
+  arr.push(...orphanParas);
 
   // Also by, and a short author note, after the bibliography.
   {

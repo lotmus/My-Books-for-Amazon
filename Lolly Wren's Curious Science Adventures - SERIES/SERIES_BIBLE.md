@@ -49,7 +49,7 @@ Story prose does not say "this book," "either book," "two books," or "the book's
 
 **Detective Inspector Albert Priddy.** CID. He investigates the impossible by ordinary methods and closes the file honestly when they fail. His Book 1 file on the incident stays formally open. That is the closest his department comes to a happy ending. In Book 2, after the Chapter Nine backlog and before Gideon is in the corridor with her coat, he closes the criminal file on the fourteen. Ellen's neighbours saw her leave and the shop saw her come home. He does not close her. Lolly clips his carbon beside Mrs Chain's card. Wet wool, boot polish, tweed, and an umbrella that is his own instrument. Do not reopen the fourteen as a crime he failed to file.
 
-**Crispin Vale.** He signs Directive 11-C without reading the second page. The vanished second page was his, filed late so one signature could stand for four. He goes home to a garden in Woking, thanked and blamed in the same week. A Ministry car idles outside his gate twice and nobody knocks. In Book 2 he comes anyway and refuses to sign away the fourteen. Lolly minutes that. She does not forgive him.
+**Crispin Vale.** He signs Directive 11-C without reading the second page. The vanished second page was his, filed late so one signature could stand for four. He goes home to a garden in Woking, thanked and blamed in the same week. A Ministry car idled outside his gate twice that spring, each time for long enough to decide not to knock. It is not still there. In Book 2 he comes anyway and refuses to sign away the fourteen. Lolly minutes that. She does not forgive him.
 
 **Miss Adaeze Pike.** Certification. She has read Directive 11-C, including the second page. Column B is her column, and it is not a measurement. After Book 1 she keeps asking what a spreadsheet actually measures.
 
@@ -136,7 +136,7 @@ A returning person keeps the instrument, the smell, and the length of sentence t
 
 ### Objects that are already theirs
 
-One instrument, one smell, one shape of sentence. The green notebook is one notebook, marked PRIVATE / UNHELPFUL. Lolly's pencil lives behind her ear; the graphite smudges her thumb. The pencil Gideon leaves in that notebook is blunt. Mrs Chain's umbrella has already seen things. Priddy's umbrella is his own instrument, not hers, and not the same joke. Beatrix's fountain pen and her boxes of evidence stay hers. Venn's case stays teal. The Ministry letterhead still cannot settle its own name. Do not invent a second notebook, a second umbrella, or a pen Lolly has decided she prefers.
+One instrument, one smell, one shape of sentence. The green notebook is one practice, marked PRIVATE / UNHELPFUL. At the end of Book 1 it is one volume. By the opening of Book 2 it is in its fourth volume. Do not invent a different notebook, and do not send her back to the first volume as if the later ones were blank. Lolly's pencil lives behind her ear; the graphite smudges her thumb. The pencil Gideon leaves in that notebook is blunt. Mrs Chain's umbrella has already seen things. Priddy's umbrella is his own instrument, not hers, and not the same joke. Beatrix's fountain pen and her boxes of evidence stay hers. Venn's case stays teal. The Ministry letterhead still cannot settle its own name. Do not invent a second umbrella, or a pen Lolly has decided she prefers.
 
 A later book may add a person or a room. In the same edit, add them to this file: one look, one sound, one smell, the instrument they carry, and the thing they will not do. If this file already has the place, use its furniture. Do not paste a second description over the character guide.
 
@@ -145,7 +145,7 @@ A later book may add a person or a room. In the same edit, add them to this file
 The method may continue. These performances may not.
 
 - The stairwell in 1919, the fluorescent tubes, and the Bloody Marys. Jago tells that story in Book 1 and again in Book 2. Eilstein has already been left a Bloody Mary on a windowsill, and he did not touch it.
-- Gideon's shoe in the Chapter 1 doorframe of Book 1.
+- Gideon's shoe in the Chapter 1 doorframe of Book 1. In Book 2 she only hears the clank from the floor below, and the corridor has solder in it. Do not put the shoe back in the doorway.
 - Pilbeam being rescued by the word "Minute it." A later book may minute a decision. It may not replay the chairman looking round the table for someone to save him.
 - The neighbour's cat who loathes Beatrix, and the terrier treating chair legs as a romantic prospect. Both have had their scene.
 - Stadthof's "It is not even wrong yet," Nashville's "I do arithmetic," and Fainrose's "Get her in." Those lines belong to the scenes that used them. Do not hand one of them to somebody else.
@@ -163,7 +163,7 @@ Do not redecorate a room this list already describes. A new room may be added. T
 - **Coldharrow Street library.** A branch reading room over a shut carpet showroom. Von Wittenberg and Schrottfinger have already used it. Do not introduce it again. In Book 2 Schrottfinger leaves the empty box on the cabinet, not back in that reading room.
 - **Outer Fenwick.** The terraced ridge, folding chairs, flasks, clipboards, coal smoke and simmering stew. The moon complaint is closed. The ridge may appear. The unsolved moon may not.
 - **The Regional Compression Annex.** Two fences, a camera mast, pale windowless walls, toner, hot electronics, and ozone under that. 4C is still not a room a person stands in.
-- **Rooms Book 2 has already furnished.** The Department of Remaining Possibilities is in Marsham Street, not in the Coldharrow building: the second floor and part of the third, in a 1971 block whose original purpose nobody can now establish. Nineteen months on it has forty-one staff, a budget, a mission statement Lolly has refused to write, and a corridor smell. The smell she trusts has solder in it, because Gideon is downstairs. Do not move that department back to Coldharrow, and do not give the 1971 building the Coldharrow carpets. The third-floor briefing room is plasterboard, with the traces pinned along it. The sixth floor is where Esaki was shown up. Cheltenham is the unadvertised facility outside the town. Vienna is the two leases already described, not a new cafe. Cumbria is the shaft, not a town scene. Peterhead is the boat. Woking is the garden, and the car outside the gate still does not knock.
+- **Rooms Book 2 has already furnished.** The Department of Remaining Possibilities is in Marsham Street, not in the Coldharrow building: the second floor and part of the third, in a 1971 block whose original purpose nobody can now establish. Nineteen months on it has forty-one staff, a budget, a mission statement Lolly has refused to write, and a corridor smell. The smell she trusts has solder in it, because Gideon is downstairs. Do not move that department back to Coldharrow, and do not give the 1971 building the Coldharrow carpets. The third-floor briefing room is plasterboard, with the traces pinned along it. The sixth floor is where Esaki was shown up. Cheltenham is the unadvertised facility outside the town. Vienna is the two leases already described, not a new cafe. Cumbria is the shaft, not a town scene. Peterhead is the boat. Woking is the garden. A Ministry car idled outside that gate twice one spring, each time for long enough to decide not to knock. The car is not still there.
 
 ## Places
 
@@ -179,7 +179,7 @@ Do not redecorate a room this list already describes. A new room may be added. T
 
 **Regional Compression Annex** is the fenced site. 4C is not a room a person stands in. It is a small engineered black hole in regional infrastructure, known by its instruments: mass falling, temperature rising.
 
-**Coldharrow Street library** is a branch reading room over a shut carpet showroom. Von Wittenberg and Schrottfinger use it in Book 1. In Book 2 von Wittenberg is quoted and does not walk on. Schrottfinger's empty box is on the department cabinet, not back in the reading room. The library is not the Ministry.
+**Coldharrow Street library** is a branch reading room over a shut carpet showroom. Von Wittenberg and Schrottfinger use it in Book 1. In Book 2 von Wittenberg is quoted and does not walk on. In Book 2 Schrottfinger leaves the empty box on the cabinet, not back in the reading room. The library is not the Ministry.
 
 **Queue Management** is the basement hall of stanchions and belts.
 
