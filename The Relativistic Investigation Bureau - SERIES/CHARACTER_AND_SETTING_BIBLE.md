@@ -65,7 +65,7 @@ Reference only — not for publication. Compiled 2026-09-24 from what's actually
 - **Looks**: unhurried in a way Trevor never manages, dark hair pulled back with the same practical impatience as Sophie's (a small family-resemblance echo, not a coincidence). Dressed for weather, not effect. Has a small dog, Gucci, who rides in her coat collar.
 - **Sound**: flat, dry delivery — genuinely correct physics insight ("stationary relative to what, exactly?") lands in the same tone she'd use to order a coffee.
 - **Smell**: [not established]
-- **Attitude**: the family's nerve where Trevor is the family's brain. Seeded Ch1 (unanswered text) and Ch9 (phone face-down). Arrives Ch15. With Derek: the epilogue shut door, then Book 2's sentence on the Paddington pavement and one kiss with the door left open. Continue from there.
+- **Attitude**: the family's nerve where Trevor is the family's brain. Seeded Ch1 (unanswered text) and Ch9 (phone face-down). Arrives Ch15. With Derek: the epilogue shut door, then Book 2's sentence on the Paddington pavement and one kiss beside a door the platform will not let shut. Continue from there.
 
 ### Sherlock — telepathic dolphin, remote Bureau consultant
 - **Looks/sound/smell**: **deliberately never physically described** — he communicates remotely/telepathically and is never directly "on camera" in a way that would call for it. This is consistent with the book's own rule about its "impossible objects" (see `SERIES_BIBLE_continuity_chart.md`): never mechanically explained, and by extension never over-described. Leave as-is.

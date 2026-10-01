@@ -78,7 +78,7 @@ Diese Länderdurchschnitte verdecken allerdings enorme Unterschiede zwischen ein
 
 Ein Faktor, der bei der Entscheidung leicht untergeht, weil er sich nicht in eine Tabelle mit Gehältern und Steuern packen lässt: wie weit weg du tatsächlich sein wirst. Kanada liegt von den drei neuen Zielländern am nächsten an Deutschland – Toronto in rund 8 Stunden Flugzeit, Vancouver in etwas über 10. Die USA liegen je nach Küste ähnlich nah bis etwas weiter entfernt: Ostküstenstädte in rund 8–9 Stunden, die Westküste in rund 11 Stunden, jeweils meist als Direktflug. Australien und Neuseeland sind ohne Nonstop-Verbindung ab Deutschland erreichbar; nach Sydney vergehen inklusive Zwischenstopp knapp 20 Stunden, nach Auckland rund 24 Stunden.
 
-Die Zeitverschiebung verstärkt diesen Effekt zusätzlich: Die USA und Kanada liegen, je nach Zeitzone, 6–9 Stunden hinter Deutschland zurück – ein Telefonat am Feierabend ist dort noch früher Nachmittag. Australien liegt 8–9 Stunden voraus, Neuseeland sogar 11–12 Stunden voraus – nahezu eine vollständige Tag-Nacht-Umkehr. Für spontane Videoanrufe mit Eltern oder Geschwistern in Deutschland, für kurzfristige Heimflüge im Notfall oder für den x-ten verpassten Geburtstag ist das ein Unterschied, der sich erst im Alltag zeigt, aber schwer wiegt – überlege dir ehrlich, wie wichtig dir kurzfristige Erreichbarkeit ist, bevor du dich für ein Land auf der anderen Seite der Erde entscheidest.
+Australien ist nicht das fernste der vier Länder. Auckland liegt weiter als Sydney: rund 24 Stunden Reisezeit gegen knapp 20 nach Sydney, jeweils mit Zwischenstopp. Die Zeitverschiebung verstärkt das. Die USA und Kanada liegen, je nach Zeitzone, 6–9 Stunden hinter Deutschland. Australien liegt 8–9 Stunden voraus, Neuseeland 11–12 Stunden, nahezu eine Tag-Nacht-Umkehr. Für einen Anruf bei pflegebedürftigen Eltern ist das Erreichbarkeit, kein Stimmungsbild.
 
 ### Klima und Landschaft
 
@@ -92,37 +92,55 @@ Ein weicher, aber für viele Auswanderer spürbarer Faktor ist, wie viele Deutsc
 
 Ein Punkt, der viele Leser beunruhigt, bevor sie ihn recherchiert haben, lässt sich schnell klären: Seit der Reform des deutschen Staatsangehörigkeitsrechts im Juni 2024 führt eine Einbürgerung in den USA, Kanada, Australien oder Neuseeland nicht mehr automatisch zum Verlust der deutschen Staatsangehörigkeit, und eine vorherige Beibehaltungsgenehmigung ist nicht mehr nötig. Alle vier Zielländer erlauben Mehrstaatigkeit ausdrücklich und verlangen bei der eigenen Einbürgerung keinen wirksamen Verzicht auf die bisherige Staatsangehörigkeit. In dieser Frage unterscheiden sich die vier Länder also kaum – ein beruhigender Gleichstand, kein Auswahlkriterium. Den konkreten Weg zur jeweiligen Staatsbürgerschaft beschreibt der Länder-Teil deines Wunschlandes.
 
-### Die gewichtete Vergleichs-Scorecard
+### Vier kurze Listen, kein Ranking
 
-Die folgende Tabelle übersetzt die wichtigsten Unterschiede aus diesem Kapitel in eine Punktzahl von 1 (ungünstig) bis 5 (günstig) je Land – eine vereinfachte, eigene Einordnung der oben genannten Fakten, kein amtliches Ranking. Bei der Klimazeile gibt es bewusst keine vorgegebenen Punkte, da das reine Geschmackssache ist.
+Diese Listen fassen die Fakten von oben. Sie vergeben keine Punktzahl von 1 bis 5. Eine Summe aus gemischten OECD-Jahren, einem nutzergenerierten Kostenindex und einer Gesundheitszeile würde das Ankunftskapitel überstimmen. Wenn eine Liste und das Kapitel des Landes sich widersprechen, gilt das Kapitel.
 
-| Kriterium | USA | Kanada | Australien | Neuseeland |
-|---|---|---|---|---|
-| Planbarkeit des Einwanderungswegs | 2 | 5 | 4 | 4 |
-| Geschwindigkeit bis zum unbefristeten Titel | 2 | 4 | 4 | 5 |
-| Automatische Gesundheitsabsicherung | 1 | 5 | 4 | 5 |
-| Niedrige Steuer- und Abgabenlast | 3 | 2 | 4 | 5 |
-| Niedrige Lebenshaltungskosten | 2 | 4 | 1 | 5 |
-| Nähe zu Deutschland (Flugzeit) | 4 | 5 | 2 | 1 |
-| Klima nach eigener Präferenz | – | – | – | – |
+Hast du schon ein Jobangebot, ändert das die Planbarkeit. Ohne Angebot ist der US-Weg Lose und Sponsoring, der Weg der drei anderen Länder ein Punktesystem mit beweglicher Schwelle. Mit Angebot liest du zuerst den Arbeitsweg dieses Landes, nicht diese Liste. Ein US-Angebot macht die Lotterie nicht zu einem Punktesystem. Es macht sie zu einem konkreten Antrag. Ein Angebot in Kanada, Australien oder Neuseeland ersetzt nicht die Lizenz, wenn der Beruf geschützt ist.
 
-Übertrage diese Werte auf Papier oder in eine eigene Tabellenkalkulation – dort hast du mehr Platz als diese Buchseite. Gewichte dort jedes Kriterium nach persönlicher Wichtigkeit (1 = unwichtig, 5 = entscheidend), multipliziere die Gewichtung mit dem jeweiligen Punktwert aus der Tabelle und summiere die Ergebnisse je Land; bei der Klimazeile trägst du statt des Punktwerts deine eigene Einschätzung ein. Ergänze dort gern weitere eigene Kriterien, etwa ein bestehendes Jobangebot, Familie oder Freunde vor Ort oder eine bestimmte Berufschance, die diese allgemeine Übersicht nicht abbilden kann. Das Land mit der höchsten Summe verdient eine genauere Prüfung zuerst – es ist damit noch keine endgültige Entscheidung, sondern eine begründete Reihenfolge.
+**USA**
+- Planbarkeit: ohne Angebot niedrig, mit Angebot ein eigener Antrag. Lies das H-1B-Kapitel und den Masterplan, nicht eine Punktzahl.
+- Gesundheit: keine automatische Absicherung. Das Gesundheitskapitel des USA-Teils gilt.
+- Steuerkeil: 30,1 % (OECD 2024). Besteuerung nach Staatsbürgerschaft, auch für die Green Card.
+- Kosten: Numbeo-Index 69,7, mit Miete 54,8. Nutzerdaten. Zwei Punkte ändern den Rang nicht.
+- Distanz: Ostküste näher, Westküste weiter. Nicht das fernste Land.
 
-So könnte das in der Praxis aussehen: Wer als Gewichtung die automatische Gesundheitsabsicherung und die Nähe zu Deutschland jeweils mit 5 versieht, alles andere aber nur mit 2 oder 3, landet am Ende bei Kanada – dort punkten beide hoch gewichteten Kriterien gleichzeitig. Wer dagegen vor allem auf niedrige Steuer- und Abgabenlast und niedrige Lebenshaltungskosten Wert legt und die Entfernung niedrig gewichtet, weil ohnehin nur einmal im Jahr geflogen werden soll, landet eher bei Neuseeland. Und wer die Geschwindigkeit bis zum unbefristeten Titel hoch gewichtet, weil zum Beispiel schon ein befristeter Vertrag im Zielland tickt, wird die USA in dieser Übersicht tendenziell hintenanstellen – es sei denn, ein konkretes Jobangebot verändert die Rechnung, wie oben beim Einwanderungssystem beschrieben.
+**Kanada**
+- Planbarkeit: Punktesystem, die Einladung hängt am Score. Ein Angebot kann einen anderen Weg öffnen. Lies den Arbeitsweg.
+- Gesundheit: öffentlich, aber Provinzsache. Wartefristen stehen im Ankunftskapitel, nicht hier.
+- Steuerkeil: 32,0 % (OECD 2024). Nicht mit dem neuseeländischen Jahrgang 2025 in eine Note pressen.
+- Kosten: Numbeo-Index 61,3, mit Miete 46,6. Nutzerdaten. Zwei Punkte ändern den Rang nicht.
+- Distanz: unter den vier am nächsten. Toronto kürzer als Vancouver.
+
+**Australien**
+- Planbarkeit: Punktesystem oder Arbeitgeber. Ein Angebot ändert den Weg. Die Lizenz ist ein zweiter Vorgang.
+- Gesundheit: nur mit dem richtigen Visum. Permanent Residents bekommen Medicare. Die meisten befristeten Visa nicht. Kein Gegenseitigkeitsabkommen mit Deutschland. Das Ankunftskapitel schlägt diese Zeile.
+- Steuerkeil: 29,6 % (OECD 2024).
+- Kosten: Numbeo-Index 71,4, mit Miete 53,9. Nutzerdaten. Zwei Punkte ändern den Rang nicht. Die Stadt entscheidet mehr als der Landesindex.
+- Distanz: weit, mit Zwischenstopp. Sydney ist nicht weiter als Auckland.
+
+**Neuseeland**
+- Planbarkeit: Punktesystem, Green List oder Arbeitgeber. Ein Angebot ändert den Weg. Die Registrierung ist davon getrennt.
+- Gesundheit: öffentlich, oft an die Visumsdauer gebunden. Das Gesundheitskapitel gilt.
+- Steuerkeil: 18,5 % (OECD 2025). Ein anderes Jahr als die drei Werte von 2024. Nicht in eine gemeinsame Note mit ihnen rechnen.
+- Kosten: Numbeo-Index 60,2, mit Miete 43,9. Nutzerdaten. Zwei Punkte ändern den Rang nicht.
+- Distanz: das fernste der vier. Auckland weiter als Sydney, größere Zeitverschiebung.
+
+Klima bleibt ohne Punkt. Lies das Wohnkapitel der Stadt, die du meinst. Ein Jobangebot, Familie vor Ort oder ein geschützter Beruf gehören in die Liste als eigene Zeile, die du selbst streichst oder behältst. Das Land, das du danach noch lesen willst, verdient das Ankunftskapitel, nicht eine Summe.
 
 ### Wenn du dich zwischen zwei Ländern nicht entscheiden kannst
 
-Landen am Ende zwei Länder mit einer sehr ähnlichen Summe nebeneinander, ist das kein Rechenfehler, sondern ein ehrliches Ergebnis: Beide passen ungefähr gleich gut zu deinen Prioritäten, zumindest auf dieser groben Ebene. In diesem Fall helfen drei Fragen weiter, die keine Tabelle beantworten kann. Erstens: Bei welchem der beiden Länder-Teile in diesem Buch fällt dir beim Lesen ein konkreterer, realistischerer nächster Schritt ein – ein Formular, eine Stadt, ein Ansprechpartner? Zweitens: Kennst du bereits jemanden, der in einem der beiden Länder lebt und mit dem du einmal ehrlich sprechen könntest, bevor du dich festlegst? Drittens: Welches der beiden Ergebnisse überrascht dich mehr – und was sagt diese Überraschung über eine Priorität aus, die du in der Scorecard vielleicht zu niedrig gewichtet hast? Ein Unentschieden ist selten ein Zeichen dafür, dass die Entscheidung unmöglich ist; meistens zeigt es nur, dass ein Kriterium fehlt, das dir wichtiger ist, als du zunächst dachtest. Manchmal löst sich ein scheinbares Patt auch von selbst, sobald ein einzelner, sehr persönlicher Punkt dazukommt, den keine Tabelle vorwegnehmen kann – ein Jobangebot, das nur in einem der beiden Länder auf dem Tisch liegt, oder die Erkenntnis, dass eines der beiden Länder für deinen Beruf ein deutlich einfacheres Anerkennungsverfahren hat als das andere.
+Wenn zwei Länder danach noch beide lesbar sind, ist das kein Rechenfehler. Drei Fragen helfen. Erstens: In welchem Länder-Teil siehst du den nächsten konkreten Schritt, ein Formular, eine Stadt, eine Behörde? Zweitens: Kennst du jemanden dort, mit dem du ehrlich sprechen kannst, bevor du dich festlegst? Drittens: Welches Ergebnis überrascht dich, und welche Priorität hast du deshalb zu leicht genommen? Ein Jobangebot in nur einem Land oder ein einfacheres Anerkennungsverfahren beendet das Patt oft ohne jede Punktzahl.
 
 ### Welche der vier Länder passt zu dir, wenn die Tabelle schweigt
 
-Die Scorecard oben gewichtet Systeme. Diese fünf Fragen schneiden danach weg, was zu dir nicht passt. Sie ersetzen die Tabelle nicht. Sie verhindern, dass eine hohe Summe ein Land rettet, das an einer einzigen Tatsache scheitert.
+Die Listen oben beschreiben Systeme. Diese fünf Fragen schneiden danach weg, was zu dir nicht passt. Sie verhindern, dass eine Liste ein Land rettet, das an einer einzigen Tatsache scheitert. Das Ankunftskapitel bleibt die höhere Instanz.
 
 **Reglementierter Beruf.** Willst du als Ärztin, Pfleger, Lehrerin, Ingenieurin mit Unterschriftsrecht oder in einem lizenzierten Gewerk arbeiten, ist das Visum der kürzere Vorgang. Die USA behandeln die Lizenz in Kapitel 19. Kanada, Australien und Neuseeland haben je ein Kapitel zur Anerkennung deutscher Berufsabschlüsse. Wenn du den deutschen Titel in den ersten Monaten brauchst, ist keines der vier Länder ein schneller Weg. Ein Land, in dem du in der Zwischenzeit nur eine nicht geschützte Tätigkeit findest, kann trotzdem passen. Eine eigene Praxis im ersten Jahr passt nicht.
 
 **Sprache.** Englisch trägt die USA, Australien, Neuseeland und den größten Teil Kanadas. Québec verlangt für geschützte Berufe und oft für den Alltag Französisch. Wer das nicht mitbringt und Montréal als Selbstverständlichkeit plant, plant an der Provinz vorbei. Ein Sprachtest fürs Visum ist keine Lizenz und kein Alltag.
 
-**Familie.** Wer innerhalb eines Tages bei pflegebedürftigen Eltern sein muss, sortiert Australien und Neuseeland aus. Die Flugzeit steht weiter unten in diesem Kapitel. Sie ist kein Stimmungsbild, sondern eine Erreichbarkeit. Kanada und die Ostküste der USA bleiben anstrengend, aber sie sind kein Tagesverlust durch die Datumsgrenze.
+**Familie.** Wer innerhalb eines Tages bei pflegebedürftigen Eltern sein muss, sortiert Australien und Neuseeland aus. Auckland ist dabei weiter als Sydney. Die Flugzeit steht weiter oben in diesem Kapitel. Sie ist Erreichbarkeit. Kanada und die Ostküste der USA bleiben anstrengend. Sie sind kein Tagesverlust durch die Datumsgrenze.
 
 **Zeit.** Ein Working-Holiday-Visum ist ein befristetes Reinschnuppern, kein Umzug. Die Altersgrenze hängt am Programm. Subclass 417 für deutsche Pässe nach Australien ist nicht das Germany Working Holiday Visa nach Neuseeland. Beide Grenzen stehen auf der Behördenseite des jeweiligen Programms. Wer darüber liegt, hat diesen Seiteneingang nicht und sollte ihn nicht aus dem anderen Land importieren.
 
