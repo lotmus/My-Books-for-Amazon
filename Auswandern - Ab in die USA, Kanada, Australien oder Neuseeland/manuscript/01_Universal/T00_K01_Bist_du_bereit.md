@@ -13,7 +13,7 @@ Die drängendste Frage ist nicht das Land. Es ist die Frage, ob du – mit deine
 
 Dieses Buch gliedert sich in einen gemeinsamen Teil für alle vier Zielländer und vier eigene Länder-Teile für USA, Kanada, Australien und Neuseeland. Die meisten Auswanderungsratgeber steigen direkt bei der Visumskategorie ein – Formular, Frist, Gebühr. Wichtig, aber das überspringt eine Frage, die dir keine Länderverwaltung stellen kann: Bist du, unabhängig vom Zielland, überhaupt in der Verfassung für diesen Schritt?
 
-Die Forschung zu Auslandsentsendungen und Migration – vor allem aus Personalpsychologie und Migrationsökonomie – hat in den vergangenen Jahrzehnten Faktoren identifiziert, die mit gelungener Anpassung im Ausland zusammenhängen. Keiner ist für sich ein Ausschlusskriterium oder eine Garantie, zusammengenommen ergeben sie aber ein brauchbares Bild davon, wo du stehst – bevor du dich mit H-1B-Lotterien, Punktesystemen oder Mangelberufslisten beschäftigst. Dieses Kapitel ordnet die Faktoren in ein Raster zum Ausfüllen und räumt vorher mit der bekanntesten Falle auf: einer Zahl, die es so nie gegeben hat.
+Die Literatur zu bezahlten Auslandsentsendungen – vor allem aus Personalpsychologie und Migrationsökonomie – hat Faktoren beschrieben, die in diesem engen Feld mit Anpassung zusammenhängen. Das ist Entsendungsliteratur, nicht eine Studie über Menschen, die auf eigene Rechnung auswandern. Keiner der Faktoren ist für sich ein Ausschlusskriterium oder eine Garantie. Zusammengenommen ergeben sie eine Liste, die du durchgehen kannst, bevor du dich mit H-1B-Lotterien, Punktesystemen oder Mangelberufslisten beschäftigst. Dieses Kapitel räumt vorher mit der bekanntesten Falle auf: einer Zahl, die es so nie gegeben hat.
 
 Egal ob du allein ziehst, mit Partner oder mit Kindern im Schulalter: Die acht Faktoren gelten unabhängig davon, ob am Ende die USA, Kanada, Australien oder Neuseeland auf deiner Liste stehen. Das nächste Kapitel vergleicht die vier Länder entlang objektiver Kriterien wie Einwanderungssystem, Gesundheitsversorgung und Steuerlast; dieses Kapitel fragt nach etwas, das keine Behörde und keine Scorecard beantworten kann: Passt der Schritt an sich zu deinem Leben, so wie es gerade ist?
 
@@ -38,20 +38,18 @@ Für die ehrliche Bilanz bedeutet das: Es gibt schlicht keine verlässliche Zahl
 
 > **Merke:** Es gibt keine verlässliche Zahl dafür, wie viele Auswanderer scheitern. Was zählt, ist nicht eine zitierte Statistik, sondern deine eigene, ehrliche Einschätzung der acht Faktoren in diesem Kapitel.
 
-### Das Bewertungs-Raster: acht Faktoren, eine ehrliche Bestandsaufnahme
+### Acht Faktoren, ohne Punktzahl
 
-Die folgende Liste fasst acht Faktoren zusammen, die in der Forschung zu Auslandsaufenthalten wiederholt mit gelungener Anpassung, Zufriedenheit oder – umgekehrt – mit Abbruch und Rückkehr in Verbindung stehen. Geh sie in Ruhe durch, wenn möglich gemeinsam mit Partner oder Partnerin, und denk dir bei jedem Punkt ehrlich eine Zahl von 1 (trifft kaum zu) bis 5 (trifft voll zu): Eine ehrliche 2 ist mehr wert als eine geschönte 4. Ein niedriger Wert ist kein Abbruchgrund, sondern eine Arbeitsliste.
+Die folgende Liste fasst acht Faktoren zusammen, die in der Entsendungsliteratur wiederholt mit Anpassung oder mit Abbruch in Verbindung stehen. Geh sie mit der Person durch, die mitzieht. Trag keine Zahl ein. Schreib neben jeden Punkt entweder „geklärt“ oder die eine Aufgabe, die noch fehlt. Ein offener Punkt ist kein Abbruchgrund. Er ist die Arbeitsliste.
 
-- **Finanzielle Rücklage.** Hast du mindestens 3–6 Monatsausgaben am Zielort plus Umzugskosten als Puffer, unabhängig vom ersten Gehalt? *Warnsignal:* Die Rücklage hängt vollständig vom pünktlichen ersten Gehaltseingang im Ausland ab.
-- **Risikotoleranz.** Wie gehst du grundsätzlich mit Unsicherheit und Plänen um, die sich kurzfristig ändern? *Warnsignal:* Schon kleinere Planänderungen im Alltag belasten dich stark.
-- **Berufliche Übertragbarkeit.** Ist dein Abschluss oder deine Berufszulassung im Zielland anerkennungsfähig, und kennst du die Dauer des Verfahrens? *Warnsignal:* Das Anerkennungsverfahren deines Berufs hast du noch nicht geprüft.
-- **Zustimmung von Partner/Kindern.** Steht die ganze Familie hinter dem Plan, nicht nur du allein? *Warnsignal:* Partner oder ältere Kinder sind unentschlossen oder dagegen.
+- **Finanzielle Rücklage.** Hast du mehrere Monatsausgaben am Zielort plus die Umzugskosten zurückgelegt, unabhängig vom ersten Gehalt? *Warnsignal:* Die Rücklage hängt vollständig vom pünktlichen ersten Gehaltseingang im Ausland ab.
+- **Risikotoleranz.** Wie gehst du mit Plänen um, die sich kurzfristig ändern? *Warnsignal:* Schon kleinere Planänderungen im Alltag belasten dich stark.
+- **Berufliche Übertragbarkeit.** Weißt du, welche Stelle deinen Abschluss oder deine Zulassung prüft, und hast du ihre Seite geöffnet? *Warnsignal:* Das Verfahren deines Berufs hast du noch nicht geprüft.
+- **Zustimmung von Partner und Kindern.** Steht die ganze Familie hinter dem Plan, nicht nur du allein? *Warnsignal:* Partner oder ältere Kinder sind unentschlossen oder dagegen.
 - **Sprachniveau.** Reicht dein Englisch für Behördengänge und Fachjargon, nicht nur für Small Talk im Urlaub? *Warnsignal:* Schon Behördendeutsch bereitet dir auf Deutsch Mühe.
 - **Frühere Auslandserfahrung.** Hast du schon einmal mehrere Monate am Stück im Ausland gelebt, gearbeitet oder studiert? *Warnsignal:* Kein Bezugspunkt dafür, wie sich Monate fern der Heimat anfühlen.
 - **Soziales Unterstützungsnetz.** Kennst du bereits jemanden vor Ort oder eine Community, digital oder persönlich? *Warnsignal:* Keine einzige Verbindung zum Zielland oder zu bestehenden Communitys.
-- **Erwartungsmanagement.** Stützt sich deine Vorstellung vom Alltag auf Recherche – oder vor allem auf Filme und Urlaubserinnerungen? *Warnsignal:* Deine Erwartung speist sich hauptsächlich aus zwei Wochen Ferienreise.
-
-> **Praxisbeispiel:** Jonas Ritter (fiktives Beispiel, nur in diesem und dem folgenden Kapitel verwendet), 33, Wirtschaftsinformatiker aus Freiburg, füllt das Raster mit seiner Partnerin Sarah, 30, Ergotherapeutin, und Tochter Mila, 4, gemeinsam aus. Bei der finanziellen Rücklage tragen beide eine 4 ein – sie haben bewusst zwölf statt sechs Monatsausgaben zurückgelegt. Unangenehmer wird es bei der beruflichen Übertragbarkeit: Sarah hat noch nicht geprüft, ob ihre Ausbildung im Zielland überhaupt anerkannt wird, und trägt ehrlich eine 2 ein. Das ist für die beiden kein Abbruchgrund, aber eine klare Aufgabe vor jeder weiteren Planung: die zuständige Anerkennungsstelle kontaktieren, bevor sie sich mit Visakategorien beschäftigen.
+- **Erwartungsmanagement.** Stützt sich deine Vorstellung vom Alltag auf Recherche, oder vor allem auf Filme und Urlaubserinnerungen? *Warnsignal:* Deine Erwartung speist sich hauptsächlich aus zwei Wochen Ferienreise.
 
 ### Finanzielle Rücklage und Risikotoleranz
 

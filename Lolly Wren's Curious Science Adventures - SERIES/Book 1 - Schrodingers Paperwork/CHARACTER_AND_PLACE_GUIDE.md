@@ -4,7 +4,7 @@ Compiled directly from the manuscript text: every physical description, voice qu
 attitude/character note the book actually gives each named character and major setting. Where the
 book deliberately gives nothing (many secondary Ministry officials have no physical description at
 all — characterised entirely through behaviour and dialogue instead), that's noted rather than
-invented. Useful for cover art and illustration. Book 2 facts that are not in this file live in `../SERIES_BIBLE.md`. Do not invent a smell this file marks as undescribed.
+invented. Useful for cover art and illustration. Book 2 facts that are not in this file live in `../SERIES_BIBLE.md`. Do not invent a smell this file marks as undescribed. `CHARACTER_AND_PLACE_GUIDE.voice-pass.md` still says Twenty-Two Coldharrow Rise. Do not use it.
 
 ---
 

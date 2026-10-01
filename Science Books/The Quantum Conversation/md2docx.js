@@ -506,6 +506,10 @@ function parseFile(mdPath, ctx) {
     } else {
       children = inlineRuns(line);
     }
+    const noteMatch = line.match(/^\*\*(\d+)\.\*\*/);
+    if (noteMatch) {
+      children = [new Bookmark({ id: "note" + noteMatch[1], children })];
+    }
     ctx.pushPara(new Paragraph({
       alignment: centered ? AlignmentType.CENTER : AlignmentType.LEFT,
       spacing: { after: PARA_SPACING_AFTER, ...LINE_SPACING },
