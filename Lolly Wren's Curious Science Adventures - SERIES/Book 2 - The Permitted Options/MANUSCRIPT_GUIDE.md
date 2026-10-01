@@ -3,15 +3,15 @@
 Reference file for editorial work on `The_Permitted_Options_BOOK_2_DRAFT.docx` in this folder.
 Shared facts for every book in the series are in `../SERIES_BIBLE.md`. Read that before changing a person, a place, a date, a physics claim, or the way anyone speaks. The section "Tone and humour" binds the joke and the furniture.
 Read this first for Book 2's file. Only open the manuscript for a passage you are actually changing.
-If the live file is no longer 1982 paragraphs, the index map below is stale. Re-read the file and update this guide.
+If the live file is no longer 1875 paragraphs, the index map below is stale. Re-read the file and update this guide.
 
-Verified 30 September 2026. The novel reads straight through. The lectures follow Q.E.D.
+Verified 1 October 2026. The novel reads straight through. The lectures follow Q.E.D.
 
 ## Live file
 
 `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_DRAFT.docx`
 
-1982 paragraphs, including a three-line title page. Styles in use include Body Text, First Paragraph, Heading 3, Heading 2, Source Code, and Author.
+1875 paragraphs, including a three-line title page. Styles in use include Body Text, First Paragraph, Heading 3, Heading 2, Source Code, and Author.
 Straight quotes and straight apostrophes: 0. Curly double quotes: 1359 open, 1359 close, 0 unbalanced paragraphs.
 Bookmarks `ch00`–`ch15` are Chapter One through Chapter Sixteen. Lecture bookmarks are `lectures` and `lec00`–`lec15`. Glossary terms and the lecture list use those anchors. Eight bibliography entries carry a stable DOI or arXiv link.
 Heading 2 count of 35 is the check: 16 chapter titles, `The Lectures`, 16 `Lecture. Chapter` titles, `Glossary`, `Bibliography`. There is no Heading 2 called `Physics`.
@@ -52,6 +52,9 @@ Removed from the reader's copy on purpose:
 - "When you walk out, you should be able to"
 - "Start here."
 - "The idea, step by step."
+- "What this chapter was actually showing you."
+- Characters naming the chapters ("Chapter One" and the rest). A lecture may still say Book One.
+- A plate reading that identifies a throat, sizes it, or matches the fourteen "to within instrument error."
 
 The novel's last two story paragraphs are Body Text, not headings: "The Permitted Options ends here…" and "Q.E.D." They sit immediately after Chapter Sixteen and immediately before `The Lectures`. A deletion that runs until the next heading will swallow them. Stop before those two paragraphs.
 
@@ -102,7 +105,7 @@ Scenes already sit after these anchors:
 - "strong room in Vienna the entire time."
 - "is a bench I can build."
 - "one extravagance" — the next speaker on the telephone is "van Casteel said, over the telephone"
-- "Lolly laughed, for the first time since the Annex"
+- "She stayed on her side of the doorway."
 - "There is no countdown tomorrow."
 
 He is a close friend: benches, solder, doorframes, careful speech a little behind the thought. The friendship is not a romance that takes over the book.
@@ -114,7 +117,7 @@ Do not insert these again. Order is part of the sense.
 - Jago Flint speaks in the lobby before Lolly says "Come up." He warns that Eilstein will not take the stair unless asked, tells the 1919 stairwell story (fluorescents, Bloody Marys), and hands her Crispin Vale's unopened letter.
 - Mrs Elspeth Chain comes on the Tuesday after Fainrose says "Get her in." and before "Mrs Susie Kind arrived". She does not sit inside the Sunday letter. Lolly crosses "resolved" off Ellen Prosper's cover and clips a card: speak to her, not to the trace. She does not alter the trace.
 - Crispin Vale comes after "Beatrix has got one," and before "On the way to the session". Lolly minutes that he came anyway and refused to sign away the fourteen. She does not forgive him.
-- The Duc de Broccoli comes in after Esaki's car leaves and before "He just did to Chapter One". He keeps the path. Esaki keeps the wave. The room does not choose. Chapter 15 does not settle it.
+- The Duc de Broccoli comes in after Esaki's car leaves and before "He just did to the March traces". He keeps the path. Esaki keeps the wave. The room does not choose. Chapter 15 does not settle it.
 - Detective Inspector Albert Priddy is on the landing after the Chapter Nine backlog and before "Gideon was in the corridor with the coat". He closes the criminal file on the fourteen and does not close Ellen. His carbon is clipped beside Mrs Chain's card. He keeps his own umbrella.
 - Werner Heisenburger stands at the back of the Schwarzschild reading, before "Eilstein, summoned again". He will not name a second building until a dial moves. He carries nothing and leaves no scent.
 - Erich Schrottfinger comes up after the transit motion and before "the last piece of the department". The box has air holes and nothing in it. He refuses to be the cat in the file.
@@ -146,7 +149,7 @@ PowerShell breaks on the apostrophe in `Lolly Wren's`. Put the script under `C:\
 
 Inserting after a paragraph copies that paragraph's style. After a Heading, set Body Text on the new paragraph or it enters the contents.
 
-## Chapter map (1982 paragraphs)
+## Chapter map (1875 paragraphs)
 
 Indexes include the title page. Chapter One is the first chapter heading. Chapter Two follows Chapter One's last story line, "Nothing local at all."
 
@@ -157,24 +160,38 @@ These indexes move as soon as anyone inserts or deletes. Anchors above are the s
 | Chapter One | 4 |
 | Chapter Two | 101 |
 | Chapter Three | 206 |
-| Chapter Four | 333 |
-| Chapter Five | 440 |
-| Chapter Six | 558 |
-| Chapter Seven | 662 |
-| Chapter Eight | 756 |
-| Chapter Nine | 840 |
-| Chapter Ten | 909 |
-| Chapter Eleven | 988 |
-| Chapter Twelve | 1084 |
-| Chapter Thirteen | 1184 |
-| Chapter Fourteen | 1295 |
-| Chapter Fifteen | 1348 |
-| Chapter Sixteen | 1416 |
-| The Lectures | 1486 |
-| Lecture. Chapter One | 1504 |
-| Lecture. Chapter Sixteen | 1929 |
-| Glossary | 1949 |
-| Bibliography | 1965 |
+| Chapter Four | 328 |
+| Chapter Five | 428 |
+| Chapter Six | 540 |
+| Chapter Seven | 635 |
+| Chapter Eight | 720 |
+| Chapter Nine | 795 |
+| Chapter Ten | 857 |
+| Chapter Eleven | 933 |
+| Chapter Twelve | 1025 |
+| Chapter Thirteen | 1125 |
+| Chapter Fourteen | 1237 |
+| Chapter Fifteen | 1279 |
+| Chapter Sixteen | 1338 |
+| The Lectures | 1411 |
+| Lecture. Chapter One | 1429 |
+| Lecture. Chapter Two | 1446 |
+| Lecture. Chapter Three | 1472 |
+| Lecture. Chapter Four | 1497 |
+| Lecture. Chapter Five | 1523 |
+| Lecture. Chapter Six | 1549 |
+| Lecture. Chapter Seven | 1573 |
+| Lecture. Chapter Eight | 1600 |
+| Lecture. Chapter Nine | 1630 |
+| Lecture. Chapter Ten | 1650 |
+| Lecture. Chapter Eleven | 1677 |
+| Lecture. Chapter Twelve | 1709 |
+| Lecture. Chapter Thirteen | 1744 |
+| Lecture. Chapter Fourteen | 1773 |
+| Lecture. Chapter Fifteen | 1797 |
+| Lecture. Chapter Sixteen | 1818 |
+| Glossary | 1836 |
+| Bibliography | 1854 |
 
 `The Lectures` is the first Heading 2 after Q.E.D. Lecture. Chapter One is the next lecture heading. Lecture. Chapter Sixteen is the last. Nothing called `Physics` sits between a chapter and the next.
 
