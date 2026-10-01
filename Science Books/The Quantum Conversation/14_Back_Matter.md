@@ -211,6 +211,7 @@ Short meanings, in the sense this book uses them, in one alphabet. The chapter i
 Each entry names the chapter where the idea is developed, not every mention, and not a page. The typeset file fills page numbers in the table of contents. Until you are holding that file, the number after each entry is the chapter.
 
 Abrikosov vortex lattice, 27
+Absorber theory, advanced and retarded, 15, 16
 Action, 10, 25, 28
 Aharonov–Bohm effect, 2, 3, 30
 Amplitude and the Born rule, 1, 10
@@ -263,6 +264,8 @@ Renormalization, 37–39
 Running coupling, 37, 38
 Schwinger's term, *α*/(2π), 37
 Speed of light, from the unit ratio, 26
+SQUID, 5
+Stokes' theorem, 3, 21, 31
 Superconducting circuit and qubit, 40, 41
 Supercurrent, 31, 32
 Tonomura, 2
@@ -307,13 +310,15 @@ The interaction term in Chapter 28 can be checked by the substitution just descr
 
 ## If This Book Worked for You
 
-The wider map — entanglement, Bell tests, quantum fields, quantum gravity, interpretations, computing, and cryptography — is *The Quantum World*, elsewhere in this series. This book began there, as an interlude on collective electrodynamics that outgrew its chapter.
+Read *The Quantum World* next if you want the map this book grew out of: entanglement, Bell tests, quantum fields, quantum gravity, interpretations, computing, and cryptography. This book began there, as an interlude on collective electrodynamics that outgrew its chapter.
+
+If the curl in Chapter 2 was the hard part, read *Physics Vol. 1 — Motion, Forces, Time, and Relativity* before you reread the loop.
 
 Feynman's *QED* and Mead's *Collective Electrodynamics*, and the other books named along the way, are listed with their editions at the end of Appendix B.
 
 ## Also by Lothar J. Musiol
 
-A shelf, if you want the rest of it — from the same author, in whichever direction your curiosity runs next.
+One next book, then the rest of the shelf. *The Quantum World* is the map. This book is one stop on it, walked all the way out.
 
 **Science for Everyone.** *The Quantum World* · *Physics Vol. 1 — Motion, Forces, Time, and Relativity* · *Physics Vol. 2 — Gravity, Cosmology, and the Limits of Spacetime* · *Physics Vol. 3 — The Standard Model, Chaos, and the Edge of Knowledge*
 
@@ -323,14 +328,12 @@ A shelf, if you want the rest of it — from the same author, in whichever direc
 
 ## About the Author
 
-The prologue's forty years around components that obey Maxwell's equations were spent in industry. Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry — first at the largest company in the field Germany had to offer, then at a string of American start-ups, where the insights arrived faster than the job security. He studied physics alongside all of it, seriously enough to know exactly how much of it he is simplifying in these pages, and how much he is not.
-
-Dual citizenship, deployed to its most sensible possible use, now lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins directly at the garden fence and the household includes one married daughter, one grumpy Teacup Pomeranian, and eleven chickens of various sizes and ages, listed here in order of seniority rather than of volume.
+Lothar J. Musiol is a graduate of Munich University of Applied Sciences. He spent more than forty years in the semiconductor industry — first at the largest company in the field Germany had to offer, then at a string of American start-ups — building circuits that obey Maxwell's equations. He studied physics alongside all of it, seriously enough to know exactly how much of it he is simplifying in these pages, and how much he is not. The prologue's inability to say what a field was is that career, looked at directly.
 
 He writes to make complex ideas clearer and more engaging than most treatments manage, without ever pretending they are simpler than they actually are.
 
+Dual citizenship lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian, and eleven chickens, listed in order of seniority rather than of volume.
+
 ## A Small Request
 
-If *The Quantum Conversation* gave you a new way of seeing something you thought you already understood, the single most useful thing you can do for it is to leave a review where you found it. Reviews are how books like this one — dense, particular, and not obviously commercial — find the handful of readers who were actually looking for them.
-
-A sentence is enough.
+If one sentence in this book changed how you hear the word *field*, the useful review is the one that says which sentence. Leave it where you found the book. That is how the next reader, looking for this particular argument, recognizes it.
