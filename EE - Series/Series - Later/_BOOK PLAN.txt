@@ -874,3 +874,205 @@ With this pass, Book 2 has now had six independent review/audit passes
   (four-dimension audit, second review, gap-list closeout, plus this
   session's verb check, style-guide check, and hostile-referee pass) --
   no further deferred items are known to remain.
+
+SOURCE MAP (2026-09-30)
+  Scope references only. Manuscript prose stays original. Do not paste
+  these books into the series. Steer, Ellingson, and Astrom/Murray are
+  open access; their licenses restrict commercial reuse of the text
+  itself, so cite them and rewrite.
+
+  Book 3  Semiconductor Physics and Devices. Part I draft is in
+          EE3/ (crystal, doping, drift and diffusion, the junction,
+          the diode law, real diodes). Later parts use:
+          Tietze, Schenk, Gamm, Halbleiter-Schaltungstechnik, 16th ed.
+          2019, as the circuit-technique check. That edition reworked
+          the op-amp chapter. CMOS chip layer: Weste and Harris, CMOS
+          VLSI Design, 4th; Rabaey, Chandrakasan, and Nikolic, Digital
+          Integrated Circuits, 2nd; Kang, Leblebici, and Kim; Sutherland,
+          Sproull, and Harris, Logical Effort; David Harris,
+          Skew-Tolerant Circuit Design; Kaeslin, Top-Down Digital VLSI
+          Design. Shelf: Pucknell and Eshraghian, Uyemura. Franco,
+          Horowitz and Hill feedback chapters, and the TI/ADI op-amp
+          stability notes when the chapter is inside an amplifier.
+          RTL is not its own volume. On-ramp, not a rewrite of Book 2:
+          Harris and Harris, Digital Design and Computer Architecture;
+          Vahid if a lighter logic text is wanted; Palnitkar or Ashenden,
+          plus Chu, when the reader starts coding hardware. STA and
+          backend (Bhasker and Chadha; constraint-style Synopsys books;
+          Brunvand) sit on the edge between this book and Book 18.
+
+  Book 4  RF and High-Frequency Engineering. Reading order: Bowick
+          (matching, Smith chart, filters, a first amplifier), then
+          Pozar or Steer, Microwave and RF Design, 3rd ed. 2019,
+          volumes 1-3. Companion: All About Circuits, Practical Guide
+          to Radio-Frequency Analysis and Design. Tietze/Schenk 16th,
+          high-frequency chapters, as a circuit cross-check. Active
+          stability (Besser volume 2, or Gonzalez) is the doorway into
+          Book 17.
+
+  Book 5  Noise and System Performance. McClaning for the receiver
+          cascade from the RF side of the converter. Steer volume 1.
+          Razavi when the noise is inside a radio IC.
+
+  Book 6  Modulation and Communication Theory. Sklar (later editions
+          with Fred Harris) is the readable theory book. Rice for the
+          discrete-time view. Couch when analog modulation still
+          matters. Proakis and Salehi is the lookup, not the first
+          read. Ellingson, Radio Systems Engineering.
+
+  Book 7  PLL and Frequency Synthesis. Gardner, or Best if the reader
+          wants circuits. Egan is the clearer first read. Rhee and Yu
+          (2023) for modern IC PLLs. Haidekker as a bridge from Book 16.
+          Razavi or Gu when the loop is inside a radio. Layout failures
+          (charge pump, loop filter, VCO supply, reference crosstalk)
+          are called out here and built in Books 11 and 18.
+
+  Book 8  Microwave Engineering. Pozar, or Steer volumes 2-3. MIT
+          Radiation Laboratory series as the historical classic, not
+          the modern design text. Matthaei, Young, and Jones kept as
+          the filter reference.
+
+  Book 9  mmWave Engineering. Steer and Pozar. Rad Lab only as history.
+
+  Book 10 Antennas and Radiation. An antenna handbook on the shelf.
+          Ellingson for the link. Rad Lab antenna volume as history.
+
+  Book 11 EMC, EMI and Emissions. Ott, Electromagnetic Compatibility
+          Engineering, is the book to read once. Montrose (both EMC
+          books) stays on the desk while routing. Archambeault.
+          Morrison, Grounding and Shielding. Bogatin, Signal and Power
+          Integrity, as the partner text.
+
+  Book 12 Wireless Systems and Protocols. Ellingson, Gu, Razavi.
+          Chaudhari for the visual, SDR-side intuition.
+
+  Book 13 Radar Systems. MIT Radiation Laboratory series as the
+          historical foundation.
+
+  Book 14 DSP and SDR. Read in this order: Lyons; then Johnson,
+          Sethares, and Klein, or Collins, Getz, Pu, and Wyglinski;
+          then Sklar; then Rouphael or McClaning. Also this volume:
+          Chaudhari; Rice; fred harris on multirate processing;
+          Frerking; Reed; Kenington; Steer volume 1 for the SDR case
+          study; Stewart, Barlee, and Atkinson (RTL-SDR); Stewart and
+          others (RFSoC); Reyland (2024); PySDR; the GNU Radio reading
+          list; Ossmann's course. Digital control as a subject is
+          Book 16. This book only owes that subject a clean sampling
+          story.
+
+  Book 15 Power and Energy. Two crafts: the linear regulator / LDO,
+          and the switching regulator. Loop books and PCB books are
+          the other half of both crafts.
+
+          Using an LDO or a module and making it stable: vendor notes
+          first (TI LDO Basics, PSRR, and ceramic-cap stability; ADI
+          and the Jim Williams notes; Infineon, ST, and Microchip
+          selection and layout), then the linear chapters of Basso,
+          Designing Control Loops, then Ott and Bogatin for the
+          copper. Three-terminal classics (7805, LM317): The Art of
+          Electronics, and the old National Semiconductor linear
+          databooks.
+
+          Designing the LDO as a chip: Rincon-Mora, Analog IC Design
+          with Low-Dropout Regulators, then Wicht, Design of Power
+          Management Integrated Circuits. Franco for the error
+          amplifier and a capacitive load (Franco is also named under
+          Book 3).
+
+          A buck or boost on the bench: Basso, Switch-Mode Power
+          Supplies: SPICE Simulations and Practical Designs, together
+          with Basso, Designing Control Loops, together with
+          Maniktala, Switching Power Supplies A to Z. Brown, Power
+          Supply Cookbook, when the job is to pick a topology and
+          size the parts.
+
+          Isolated flyback and offline: Pressman, Billings, and Morey,
+          Switching Power Supply Design, 3rd, plus Basso, plus
+          McLyman, Transformer and Inductor Design Handbook.
+
+          The plant equations: Erickson and Maksimovic, Fundamentals
+          of Power Electronics, and their free CU Boulder notes.
+          Ridley for current-mode rules of thumb.
+
+          Measuring whether the loop is actually stable: Sandler,
+          Power Integrity, plus Basso's measurement chapters.
+
+          Short stack for this book: (1) Basso on loops, linear and
+          switching; (2) Basso's switch-mode book, or Maniktala;
+          (3) Erickson and Maksimovic when the model is required;
+          (4) Rincon-Mora when the regulator is an IC; (5) Pressman,
+          Billings, and Morey as the topology encyclopedia. Leave
+          open on the desk: TI Power Stage Designer and Webench
+          notes, the Williams material, and the layout page of the
+          exact controller in use.
+
+          Copper, taught here and drawn in Books 11 and 18. An LDO
+          dies when the feedback divider is far from the pins, when
+          the output capacitor's ESR and ESL are ignored, or when a
+          shared return wrecks PSRR. A buck dies when the hot loop
+          (input capacitor, switch, diode or synchronous FET) is
+          large, when AGND and PGND meet in more than one place, or
+          when the sense is not Kelvin. Boost and flyback add the
+          snubber and the auxiliary winding to that same hot-loop
+          rule. A regulator fails from the Bode plot or from that
+          copper about equally often.
+
+  Book 16 Control and Automation. Astrom and Murray, Feedback Systems,
+          for the modern introduction (free from the authors). Nise
+          for the worked undergrad course. Ogata as the heavier
+          reference. Haidekker when the loop is electronic, including
+          his PLL and oscillator examples. Franklin, Powell, and
+          Workman, and Astrom and Wittenmark, for loops in code.
+          Motion and PID live here. If the reader only needs the
+          sentence "a Bode plot is still fuzzy," send them to Nise or
+          Astrom before a specialty book.
+
+  Book 17 Oscillators, Modulators, and Transceivers. Besser volume 2
+          or Gonzalez for active circuits and stability. Razavi or Gu
+          for radios and ICs. Cripps kept as the power-amplifier
+          reference. Steer volumes 4 and 5.
+
+  Book 18 Technologies, Layout, and Packaging. This is where digital
+          design meets RF, and where a loop dies in the copper.
+          Johnson and Graham, High-Speed Digital Design; Johnson,
+          High-Speed Signal Propagation; Hall and Heck; Hall, Hall,
+          and McCall; Bogatin, Signal and Power Integrity -- Simplified;
+          Bogatin's prototype PCB guide; Mitzner for CAD flow; Ritchey,
+          Right the First Time, volumes I and II; Morrison, Fast
+          Circuit Boards. Monk only for a two-layer hobby board.
+          There is no single RF-layout textbook: Bowick's grounding
+          pages, the Analog Devices / Qorvo / Skyworks layout notes,
+          Pozar or Steer for why a discontinuity matters, Ott and
+          Montrose for the digital/RF split. Rules the sources agree
+          on: a continuous reference under an RF trace, a via fence,
+          a short ground into a plane, digital return current kept off
+          the RF island, and a PA matching network treated as a
+          microwave circuit.
+          Tiny path across books, not a new volume: Harris and Harris
+          for logic (Book 2 already did the gate version) -> Weste and
+          Harris for CMOS (Book 3) -> Johnson for boards (this book).
+
+  How a loop and a board fail together. The loop can be wrong in the
+  schematic (gain and phase) or wrong in the layout (sense lines,
+  shared switch-current returns, a compensator spread across the
+  board, ground bounce under a divider, a charge-pump filter, stray
+  capacitance at an inverting node, an ADC ground that aliases).
+  Ott plus Basso is the pair for "it oscillates on the PCB and not
+  in SPICE." Say that in Books 11, 15, and 18, in each book's own
+  words.
+
+  Shopping list, if a reader asks for a short pile rather than the
+  whole series: Basso on power loops; Nise or Astrom and Murray for
+  the language; Gardner or Best if the loop is a PLL; Ott; Bogatin;
+  Montrose on the desk while routing.
+
+  Books 19-21 have no new sources in this pass. Book 19 may later
+  point at Basso's SPICE book and Brunvand without moving those
+  books off Books 15 and 3.
+
+Book 3 status (2026-09-30): Part I drafted in
+  EE3/Semiconductor_Physics_and_Devices_Book3.docx.
+  Six chapters: the crystal, doping, drift and diffusion, the junction
+  at rest, the diode law, and the diode you can buy. Working constants
+  are declared in the book (VT = 26 mV, ni = 1.0e10 cm^-3). Parts II
+  through VI are not in the file yet. Books 4-21 are not started.
