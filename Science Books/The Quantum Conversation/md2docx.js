@@ -16,7 +16,7 @@ const {
   Document, Packer, Paragraph, TextRun, HeadingLevel, AlignmentType,
   Header, Footer, PageNumber, VerticalAlignSection, ImageRun,
   PositionalTab, PositionalTabAlignment, PositionalTabLeader, PositionalTabRelativeTo,
-  Bookmark, InternalHyperlink,
+  Bookmark, InternalHyperlink, ExternalHyperlink,
 } = require("docx");
 
 // Straight ' and " -> typographic curly quotes, by local context. Applied to
@@ -235,9 +235,33 @@ function styledRuns(text, font, italics) {
   return runs;
 }
 
+// Turns bare https://... sequences into external hyperlinks, then hands the
+// leftover text to the chapter/part cross-ref linker.
+function linkifyUrls(text, opts) {
+  const runs = [];
+  const re = /https?:\/\/[^\s),]+/g;
+  let cursor = 0;
+  let m;
+  while ((m = re.exec(text))) {
+    if (m.index > cursor) {
+      runs.push(...linkifyChapterRefs(text.slice(cursor, m.index), opts));
+    }
+    runs.push(new ExternalHyperlink({
+      link: m[0],
+      children: [new TextRun({ text: m[0], font: opts.font, size: opts.size, italics: opts.italics, ...LINK_STYLE })],
+    }));
+    cursor = re.lastIndex;
+  }
+  if (cursor < text.length) {
+    runs.push(...linkifyChapterRefs(text.slice(cursor), opts));
+  }
+  return runs;
+}
+
 // Plain-body-text counterpart to styledRuns: handles bare ^N endnote markers
-// in ordinary prose (not inside a *math* span), and runs the surrounding
-// plain text through the chapter/part cross-ref linker.
+// in ordinary prose (not inside a *math* span). A numeric marker jumps to
+// the matching note in Appendix B. Surrounding text is URL-linked, then
+// chapter-linked.
 function plainRunsWithSuperscript(text, opts) {
   const runs = [];
   let cursor = 0;
@@ -245,13 +269,18 @@ function plainRunsWithSuperscript(text, opts) {
   let m;
   while ((m = re.exec(text))) {
     if (m.index > cursor) {
-      runs.push(...linkifyChapterRefs(text.slice(cursor, m.index), opts));
+      runs.push(...linkifyUrls(text.slice(cursor, m.index), opts));
     }
-    runs.push(new TextRun({ text: m[1], font: opts.font, size: opts.size, italics: opts.italics, superScript: true }));
+    const marker = new TextRun({ text: m[1], font: opts.font, size: opts.size, italics: opts.italics, superScript: true, ...(/^\d+$/.test(m[1]) ? LINK_STYLE : {}) });
+    if (/^\d+$/.test(m[1])) {
+      runs.push(new InternalHyperlink({ anchor: "note" + m[1], children: [marker] }));
+    } else {
+      runs.push(marker);
+    }
     cursor = re.lastIndex;
   }
   if (cursor < text.length) {
-    runs.push(...linkifyChapterRefs(text.slice(cursor), opts));
+    runs.push(...linkifyUrls(text.slice(cursor), opts));
   }
   return runs;
 }

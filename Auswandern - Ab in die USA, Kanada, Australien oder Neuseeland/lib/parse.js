@@ -242,12 +242,14 @@ const XREF_RE = /(Kapitel(?:n)?)[\s ]+(\d{1,2}(?:\s*(?:[–,]|und|bis)\s*\d{1,2
 // source file's basename; `fallbackIdx` is a per-document running counter
 // used only when neither pattern matches (so every h2 still gets a unique id).
 function bookmarkFor(h2text, filename, fallbackIdx) {
-  let m = h2text.match(/^Kapitel\s+(\d+)\s*:/);
+  // Country and shared files get a stable id from the filename first.
+  // Otherwise "Kapitel 1" in the universal part collides with USA Kapitel 1.
+  let m = filename && filename.match(/^(TAU|TKA|TNZ|T00)_K(\d\d)_/);
+  if (m) return (m[1] + m[2]).toLowerCase();
+  m = h2text.match(/^Kapitel\s+(\d+)\s*:/);
   if (m) return "k" + m[1];
   m = h2text.match(/^Anhang\s+([A-G])\b/);
   if (m) return "anhang_" + m[1].toLowerCase();
-  m = filename && filename.match(/^(TAU|TKA|TNZ|T00)_K(\d\d)_/);
-  if (m) return (m[1] + m[2]).toLowerCase();
   return "s" + fallbackIdx;
 }
 

@@ -1,3 +1,5 @@
+// LIVE BOOK: Protocol_Flamingo_Rev2.docx. This script builds the shorter draft only.
+// It must write Protocol_Flamingo_script_draft.docx and must not replace Rev2.
 const fs = require("fs");
 const {
   Document, Packer, Paragraph, TextRun, AlignmentType, PageBreak,

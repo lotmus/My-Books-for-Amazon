@@ -1,12 +1,12 @@
-## Kapitel 1: Bist du überhaupt bereit dafür?
+## Bist du überhaupt bereit dafür?
 
-Um 23:47 Uhr sitzt du am Küchentisch, der Laptop-Bildschirm ist das einzige Licht im Raum, und der zwölfte geöffnete Tab heißt „Auswandern: USA oder doch lieber Kanada?“. Das Glas Wein daneben ist seit einer Stunde nicht mehr angerührt. Die drängendste Frage in diesem Moment ist aber gar nicht die nach dem Land. Es ist die Frage, ob du – mit deiner finanziellen Lage, deinem Beruf, deiner Familie, deiner Fähigkeit, mit Unsicherheit zu leben – überhaupt bereit für diesen Schritt bist, egal wohin er am Ende führt.
+Die drängendste Frage ist nicht das Land. Es ist die Frage, ob du – mit deiner finanziellen Lage, deinem Beruf, deiner Familie, deiner Fähigkeit, mit Unsicherheit zu leben – überhaupt bereit für diesen Schritt bist, egal wohin er am Ende führt.
 
 > **Kurz gesagt:**
 > - Die Frage „Bin ich bereit?“ kommt vor der Frage „Wohin?“ – sie betrifft alle vier Zielländer gleichermaßen.
-> - Acht Faktoren hängen nachweislich mit gelungener Anpassung im Ausland zusammen: Finanzen, Risikotoleranz, berufliche Übertragbarkeit, Familie, Sprache, frühere Auslandserfahrung, soziales Netz, Erwartungsmanagement.
+> - Die Literatur zu Firmenentsendungen nennt acht Faktoren, die dort mit Anpassung zusammenhängen: Finanzen, Risikotoleranz, berufliche Übertragbarkeit, Familie, Sprache, frühere Auslandserfahrung, soziales Netz, Erwartungsmanagement. Das ist Entsendungsliteratur, keine Erhebung über private Auswanderer.
 > - Die oft zitierte Zahl, wonach 25 bis 40 % aller Auswanderer scheitern, ist ein widerlegter Mythos ohne belastbare Quelle.
-> - Das Bewertungs-Raster in diesem Kapitel ist zum Ausfüllen gedacht, nicht zum Bestehen oder Durchfallen: Ein Warnsignal heißt „hier genauer hinschauen“, nicht „lass es bleiben“.
+> - Die acht Punkte sind eine Gesprächsliste, kein Test mit Punkten. Ein Warnsignal heißt „hier genauer hinschauen“, nicht „lass es bleiben“.
 > - Am Ende weißt du, wo du stehst. Die Länderwahl selbst folgt im nächsten Kapitel.
 
 ### Warum diese Frage vor der Länderwahl steht

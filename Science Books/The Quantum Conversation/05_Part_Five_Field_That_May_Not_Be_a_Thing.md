@@ -48,7 +48,7 @@ The spine resumes at Chapter 20. Chapters 17 through 19 stay with the question o
 
 ## 17. A Field or a Relationship?
 
-*Aside. The spine resumes at Chapter 20.*
+This chapter is the aside. The spine resumes at Chapter 20.
 
 Picture two people talking across a room. You can describe the conversation as sound waves propagating through the air between them — a perfectly good physical account. Or you could describe it as the state of one person's vocal apparatus, the state of the air, and the response of the other person's ears — a different but equally valid decomposition of the very same physical process. Now imagine removing the air. The analogy collapses immediately, because sound requires a material medium to propagate through, and no clever reformulation changes that fact.
 
