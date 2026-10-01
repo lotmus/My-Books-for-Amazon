@@ -10,7 +10,9 @@ Hours below are a modest pace for one person using the free tools in the product
 
 ## I. Week one: the offer on a page
 
-Write the buyer sentence, the unfit-viewer sentence, and the twenty-second offer. Choose one of the three offer types. Put a price on the page, or a booking link with the scope written in plain language. Read it aloud. If you stumble, the viewer will leave.
+Write the buyer sentence, the unfit-viewer sentence, and the twenty-second offer. Pick one shape from the offer chapter and put that shape’s sentence on the page, with the price. Read it aloud. If you stumble, the viewer will leave.
+
+The eight jobs in the videos chapter are the only set of videos this calendar films. The click chapter uses that same set. Week one does not add a second quota.
 
 Set up the channel only as far as the offer needs: a name a buyer understands, a description whose first lines say who it helps and contain the link, and a banner you can read on a phone. Skip the logo exploration. The page is the product. The banner is a sign. On your phone, open that link and finish a test payment or a test booking before you film anything. If you will also post the video on another site, open that site’s profile link the same day and tap it. A caption you cannot tap is not the shelf.
 

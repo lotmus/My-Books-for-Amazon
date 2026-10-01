@@ -80,7 +80,7 @@ The same page says the hour you publish is not known to change a video’s long-
 
 A Short can find a new viewer. The long video is where they can stay, and where the offer link can be tapped. A Short that never points at the long video ends there. A long video with no Short is easy to miss if someone does not already subscribe.
 
-Connect them in three places. Name the long video as the Short’s related video. Say the destination out loud inside the Short, and show it. A pinned comment on the Short is not a buy link. YouTube’s sharing-links page says a Short’s comments are not clickable. The spoken pointer still matters. Do all three. One of them does not replace the others.
+Connect them in three places. Name the long video as the Short’s related video. Say the destination out loud inside the Short, and show it. A pinned comment on the Short is not a buy link. The money chapter has the rule, from YouTube’s own page: a Short’s description and comments are not clickable. The spoken pointer still matters.
 
 A Short is ranked for a person, not for a format. [YouTube’s Shorts discovery page](https://support.google.com/youtube/answer/11914225) says the system has no preferred kind of Short. When one is offered, it records whether the viewer watched, ignored it, or marked it not interested, then whether they stayed, then whether a like or a survey said they were glad. Search still cares whether the title matches what they typed. Name the subject. “You need to see this” is not a search.
 
@@ -88,7 +88,9 @@ In Analytics, open the Content tab and the Shorts chip. [YouTube’s Shorts anal
 
 If several videos answer the same buyer’s next question, mark them as a [series playlist](https://support.google.com/youtube/answer/6084043). YouTube says that setting lets other videos in the series be featured when someone is watching one of them. The account has to be verified, a video can sit in only one series playlist, and the videos have to be yours. On a computer, turn on “Set as official series for this playlist” in the playlist settings.
 
-Four long videos and six shorts in a month is a load a person can finish. YouTube does not publish it as a quota. One of the four is the offer video. The other three are that buyer’s next questions, not a new subject every Sunday. Posting every week for six months beats a daily plan you drop in week three.
+The load you can finish is the eight jobs in the videos chapter. The six-week calendar films those eight. YouTube does not publish that set as a quota. There is not a second month of four long videos and six Shorts sitting on top of them.
+
+Four of the eight have to be long videos, because a Short cannot carry the link: who it is for, the problem in their words, the method, and the offer. Proof, the comparison, the objection, and the video that names which one to watch next can be long videos too. If the month is short, those four can be Shorts that point at the long video which already did that job. The offer itself is never only a Short. It has to be long enough for a clickable description. Posting a week you can finish beats a daily plan you drop in week three.
 
 > **Key takeaway:** Put the buyer’s phrase first in the title and in the first lines of the description, and check the live help page before you trust a number.
 
@@ -108,6 +110,6 @@ A last limit. This chapter will not tell you what to make a video about, and it 
 
 ---
 
-*Sources: YouTube Studio’s own upload interface (title, description, and tag character limits, and the captions workflow). YouTube’s thumbnail and title tips, its description tips, its title-and-thumbnail test, its audience-retention report, its pages on recommendation signals and on the recommendation system, its Shorts discovery page, its Shorts analytics tips, and its series-playlist settings, each cited in the section where it is used. YouTube’s advertiser-friendly content guidelines for the existence of a sensitive-content category. The “four long videos and six shorts” month is a production load, not a figure YouTube publishes. Confirm the live help pages before you rely on a number.*
+*Sources: YouTube Studio’s own upload interface (title, description, and tag character limits, and the captions workflow). YouTube’s thumbnail and title tips, its description tips, its title-and-thumbnail test, its audience-retention report, its pages on recommendation signals and on the recommendation system, its Shorts discovery page, its Shorts analytics tips, and its series-playlist settings, each cited in the section where it is used. YouTube’s advertiser-friendly content guidelines for the existence of a sensitive-content category. The eight jobs are the production load, spelled out again in the videos chapter and on the six-week calendar. YouTube does not publish that set as a quota. Confirm the live help pages before you rely on a number.*
 
 *Not an official YouTube publication. Interface details change; verify in Studio before you rely on them.*

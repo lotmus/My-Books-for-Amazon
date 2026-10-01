@@ -34,6 +34,8 @@ What is not included:
 
 The page link:
 
+The sentence for this shape, from the offer chapter:
+
 The twenty-second spoken version:
 
 What would make you change the price:
