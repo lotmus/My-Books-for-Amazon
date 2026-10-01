@@ -39,7 +39,8 @@ Du hast eine konkrete Frage oder steckst mitten in einer Situation und willst sc
 | Welche teuren Fehler machen andere beim Umzug in die USA am häufigsten? | Kapitel 2 |
 | Lohnt sich der Umzug für mich finanziell überhaupt? | Kapitel 3 |
 | In welcher Reihenfolge plane ich Visum, Wohnungskündigung und Umzug? | Kapitel 15 |
-| Ich melde mich beim Einwohnermeldeamt ab – was muss ich sonst noch kündigen? | Kapitel 16 |
+| Ich melde mich beim Einwohnermeldeamt ab – was muss ich sonst noch kündigen? | Kapitel 16, und für alle vier Länder: Deutschland vor dem Abflug |
+| Was passiert mit meiner deutschen Rente, egal in welches der vier Länder ich gehe? | Deutschland vor dem Abflug |
 | Was passiert mit meinem Kindergeld, wenn ich auswandere? | Kapitel 16 |
 | Werde ich nach dem Wegzug noch in Deutschland besteuert? | Kapitel 17 |
 | Was passiert mit meiner Riester-Rente? | Kapitel 17 |
@@ -135,6 +136,8 @@ Für Kanada reicht ein kompakterer Überblick als für die USA. Die folgenden ru
 | Deine Frage oder Situation | Mehr dazu |
 |---|---|
 | Lohnt sich Kanada finanziell für mich, wenn ich Steuerkeil und Lebenshaltungskosten mit Deutschland vergleiche? | Kanada: Die ehrliche Bilanz |
+| Wie melde ich mich in Deutschland ab, und was wird aus Rente und Krankenkasse? | Deutschland vor dem Abflug |
+| Darf ich mit meiner deutschen Approbation, meiner Pflegeausbildung oder meinem Gesellenbrief in der Provinz arbeiten? | Kanada: Anerkennung deutscher Berufsabschlüsse |
 | Was ist der Unterschied zwischen Express Entry und einem Provincial Nominee Program? | Kanada: Wege der Einwanderung |
 | Wie berechne ich meinen CRS-Score realistisch, und bringt mir ein Jobangebot noch Zusatzpunkte? | Kanada: Der Arbeitsweg |
 | Was bedeutet LMIA-pflichtig, und wie unterscheidet es sich von LMIA-frei? | Kanada: Wege der Einwanderung |
@@ -146,6 +149,8 @@ Für Kanada reicht ein kompakterer Überblick als für die USA. Die folgenden ru
 |---|---|
 | Was muss ich in den ersten Tagen nach der Landung erledigen, und wie beantrage ich meine Social Insurance Number? | Kanada: Ankunft, erste Wochen |
 | Wie eröffne ich ein kanadisches Bankkonto schon vor der Ausreise? | Kanada: Ankunft, erste Wochen |
+| Wie bekomme ich Hund oder Katze nach Kanada, und brauche ich eine Quarantäne? | Kanada: Ankunft, erste Wochen |
+| Was gilt für den Container und persönliches Umzugsgut an der kanadischen Grenze? | Kanada: Ankunft, erste Wochen |
 | Wie baue ich mir eine kanadische Kreditwürdigkeit auf, wenn meine Schufa nicht zählt? | Kanada: Steuer-ID/Bank/Kredit |
 | Warum zahle ich in manchen Provinzen keine Verkaufssteuer und in anderen 15 %? | Kanada: Steuer-ID/Bank/Kredit |
 | Ab wann bin ich in meiner Provinz krankenversichert, und wo gibt es eine Wartefrist? | Kanada: Gesundheitssystem |
@@ -187,6 +192,8 @@ Für Kanada reicht ein kompakterer Überblick als für die USA. Die folgenden ru
 | Deine Frage oder Situation | Mehr dazu |
 |---|---|
 | Lohnt sich Australien finanziell für mich, und wie stark unterscheidet sich der Steuerkeil von Deutschland? | Australien: Die ehrliche Bilanz |
+| Wie melde ich mich in Deutschland ab, bevor ich nach Australien gehe? | Deutschland vor dem Abflug |
+| Ist ein Skills Assessment schon die Erlaubnis, als Pflegekraft oder Ingenieurin zu arbeiten? | Australien: Anerkennung deutscher Berufsabschlüsse |
 | Wie funktioniert der Punktetest für ein Skilled-Visum, und wie viele Punkte brauche ich realistisch? | Australien: Der Arbeitsweg |
 | Ab welchem Alter ist der Punktetest-Weg für mich verschlossen? | Australien: Wege der Einwanderung |
 | Was ist der Unterschied zwischen Subclass 189, 190 und einem Arbeitgeber-Sponsoring über Subclass 482? | Australien: Wege der Einwanderung |
@@ -197,6 +204,8 @@ Für Kanada reicht ein kompakterer Überblick als für die USA. Die folgenden ru
 | Deine Frage oder Situation | Mehr dazu |
 |---|---|
 | Was muss ich in den ersten Tagen nach der Landung erledigen, und wie beantrage ich meine Tax File Number? | Australien: Ankunft, erste Wochen |
+| Wie bekomme ich Hund oder Katze aus Deutschland nach Australien, und wie lange dauert Mickleham? | Australien: Ankunft, erste Wochen |
+| Was darf in den Container, und was findet die Biosicherheitskontrolle? | Australien: Ankunft, erste Wochen |
 | Warum wird mir ohne Tax File Number fast die Hälfte meines Lohns abgezogen? | Australien: Steuer-ID/Bank/Kredit |
 | Wie eröffne ich ein australisches Bankkonto, und wie baue ich mir eine Kreditwürdigkeit auf? | Australien: Steuer-ID/Bank/Kredit |
 | Stimmt es, dass ich als Deutscher keinen automatischen Zugang zu Medicare habe? | Australien: Gesundheitssystem |
@@ -239,6 +248,8 @@ Für Kanada reicht ein kompakterer Überblick als für die USA. Die folgenden ru
 | Deine Frage oder Situation | Mehr dazu |
 |---|---|
 | Lohnt sich Neuseeland finanziell für mich, und wie niedrig ist der Steuerkeil wirklich? | Neuseeland: Die ehrliche Bilanz |
+| Wie melde ich mich in Deutschland ab, bevor ich nach Neuseeland gehe? | Deutschland vor dem Abflug |
+| Reicht die Green List, damit ich als Ärztin, Lehrer oder im Handwerk arbeiten darf? | Neuseeland: Anerkennung deutscher Berufsabschlüsse |
 | Was ist der Unterschied zwischen der Skilled Migrant Category (SMC) und dem Accredited Employer Work Visa (AEWV)? | Neuseeland: Wege der Einwanderung |
 | Was ist die Green List, und wie verkürzt sie meinen Weg zur Residency? | Neuseeland: Wege der Einwanderung |
 | Wie viele Punkte brauche ich für die SMC, und wie werden sie berechnet? | Neuseeland: Der Arbeitsweg |
@@ -249,6 +260,8 @@ Für Kanada reicht ein kompakterer Überblick als für die USA. Die folgenden ru
 | Deine Frage oder Situation | Mehr dazu |
 |---|---|
 | Was muss ich in den ersten Tagen nach der Landung erledigen, und wie beantrage ich meine IRD-Nummer? | Neuseeland: Ankunft, erste Wochen |
+| Wie bekomme ich Hund oder Katze nach Neuseeland, und warum reicht der Impfpass nicht? | Neuseeland: Ankunft, erste Wochen |
+| Was darf in den Container, und was prüft das MPI am Umzugsgut? | Neuseeland: Ankunft, erste Wochen |
 | Warum wird mir ohne IRD-Nummer ein sehr hoher Steuersatz auf mein Gehalt abgezogen? | Neuseeland: Steuer-ID/Bank/Kredit |
 | Wie eröffne ich ein neuseeländisches Bankkonto, und wie baue ich mir eine Kreditwürdigkeit auf? | Neuseeland: Steuer-ID/Bank/Kredit |
 | Ab wann habe ich Zugang zum öffentlichen Gesundheitssystem, und stimmt es, dass mein Visum mindestens zwei Jahre laufen muss? | Neuseeland: Gesundheitssystem |

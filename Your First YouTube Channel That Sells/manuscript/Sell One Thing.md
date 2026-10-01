@@ -22,7 +22,18 @@ Pick one of these for the first ninety days. You may add a second later. You may
 
 - **A thing you made.** A short paid guide, a template pack, a recorded class, a physical product you can ship. You keep most of the money. You also own the support.
 - **A service you do.** An audit, a setup, a consult, a done-for-you job with a written scope. One clear price or a small menu of two. “Message me for rates” is not an offer.
-- **Someone else’s product, with a disclosed affiliate link.** You recommend a tool or book you would use anyway, and you are paid if the viewer buys. The link has to be allowed on the platform, and the disclosure has to sit next to the link, not in a footnote. The money chapter covers placement. This chapter only requires that you choose the product before you film the recommendation.
+- **Someone else’s product, with a disclosed affiliate link.** You recommend a tool or book you would use anyway, and you are paid if the viewer buys. The link has to be allowed on the platform, and the disclosure has to sit next to the link, not in a footnote. Read that program’s own commission page before you film. A high percentage of a cheap download can pay less than a low percentage of an expensive tool, and a subscription can pay again next month. A roundup’s rate table is not the contract. The money chapter covers placement. This chapter only requires that you choose the product before you film the recommendation.
+
+Ways to fill those three, still one at a time:
+
+- **A file.** A checklist, a template, or a short recorded class. The free video shows one real step. The file is the rest, in order, with a price.
+- **A ticket.** One workshop on one date. After that date, sell the recording as the file, or stop selling the ticket. Do not sell both as if they were two businesses.
+- **A thing you ship.** Only if you can send ten of them this month without breaking the promise.
+- **A license.** A set price for someone else to use a clip or a template you made. The page says what they may do with it, and what they may not.
+- **A call or a job.** One length, one result, one price. Or one afternoon of office hours, a set number of seats, a set price. “Message me for rates” is still not an offer.
+- **One affiliate product.** A tool or a book you already use. Not a list of ten.
+- **A monthly pass you bill yourself.** The next file, or the next call, paid to you. A video site’s own membership button can wait until you have cleared that site’s gate. Until then, your page is the pass.
+- **One sponsor, for one video.** Say so in the video and next to the link. Do not also pitch your file in that same video. Two asks is a menu. If the file is the offer, the sponsor waits.
 
 Ad revenue from a platform partner program is not this offer. It can become extra income after the thresholds in the money chapter. It is a slow, uncertain side effect of attention. Do not build the channel as if the badge is the product. A channel with no offer can be popular and still sell nothing you control.
 
@@ -52,11 +63,21 @@ The sale does not happen inside the player unless the platform gives you a produ
 
 Before the first video, that page exists. The channel description links to it. The video where you explain the offer links to it in the first two lines of the description and in the pinned comment. One primary link. A row of six competing links is a menu, and menus are where undecided people go to leave.
 
-If you are not ready to take money, you are not ready to call the channel a channel that sells. A waitlist with no offer is a delay. A free email list is allowed as a step only if you say what they will be offered and when. “Join my community” is not a sale.
+If you are not ready to take money, you are not ready to call the channel a channel that sells. A waitlist with no offer is a delay.
+
+The page has one job. A stranger on a phone can see the price and pay, or book, without asking you what it costs. If the number sits behind “request a quote,” you have rebuilt “message me for rates.” Put the price on the page.
+
+Then buy it yourself. On your phone, open the link the way a stranger will, from the description, not from a bookmark you already trust. Finish the payment or the booking. If the tool allows a refund of that test, refund it. The step where you stalled is the step a buyer will abandon. Do this before the first video.
+
+A free email list can sit beside that page. It cannot replace it. The first message names the offer, the price, and the same single link, and it says what later messages will be and how often they come. “Join my community,” with no offer and no date, is a waitlist with an extra step.
+
+YouTube also lets a channel publish posts. [YouTube’s posts page](https://support.google.com/youtube/answer/9409631) describes them as a way to reach viewers. It says posts are unavailable on a supervised account and on a channel set as made for kids, and that they are not currently available in Germany. Confirm that page, because a country limit moves. A post is still not the checkout. The price stays on your page, reached from the long-form description.
 
 ## VI. Do this before you film
 
-Write the buyer sentence, the unfit-viewer sentence, and the twenty-second offer. Create the page with the price on it. Put that single link in the channel description. If you cannot do those four things, the next chapters will help you get watched and will not help you get paid.
+Write the buyer sentence, the unfit-viewer sentence, and the twenty-second offer. Create the page with the price on it, and complete one test payment or booking on your phone. Put that single link in the channel description. If you cannot do that list, the next chapters will help you get watched and will not help you get paid.
+
+> **Key takeaway:** Name one buyer, one offer, and a price on a page before you film. Views are not the sale.
 
 ## VII. Claims that do not survive a checkout page
 
@@ -65,9 +86,12 @@ Write the buyer sentence, the unfit-viewer sentence, and the twenty-second offer
 - That more offers convert better than one. One clear offer gives a new viewer a decision. Five offers give them an excuse to make none.
 - That the best videos never mention the product. A teaching video can stand alone and still end with one honest next step. Hiding the offer is not integrity. It is a missing price tag.
 - That a specific conversion rate is normal. The 2-in-100 figure above is a planning placeholder. Replace it with your own count after the offer video has real views. Until then it is arithmetic, not a promise.
+- That an email list is the sale. The list is a way to send the same link again. The page is where the stranger pays.
+- That a channel post can stand in for the page. YouTube’s posts page describes posts as a way to reach viewers. It does not take the payment.
+- That each site needs its own product. One offer. Post it wherever a stranger can tap the same link. The money chapter is where that tap differs by site.
 
 A last limit. This chapter will not choose your niche for you, and it will not make a weak product sell. It will refuse the version of a channel that posts for months and still has nothing a stranger can buy.
 
 ---
 
-*Sources: The distinction between an offer and platform ad revenue follows from how those programs pay, as described in the money chapter of this book. The conversion arithmetic is a hypothetical planning example, not a measured rate. Disclosure expectations for affiliate recommendations are the same practical rule stated in that money chapter: say that the link pays you, next to the link. Not legal, tax, or platform-policy advice.*
+*Sources: The distinction between an offer and platform ad revenue follows from how those programs pay, as described in the money chapter of this book. The conversion arithmetic is a hypothetical planning example, not a measured rate. Disclosure expectations for affiliate recommendations are the same practical rule stated in that money chapter: say that the link pays you, next to the link. What a channel post can and cannot do follows [YouTube’s posts page](https://support.google.com/youtube/answer/9409631). Not legal, tax, or platform-policy advice.*

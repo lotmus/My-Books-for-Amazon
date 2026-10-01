@@ -5,10 +5,6 @@
   },
   {
     "type": "front",
-    "title": "Author’s Note"
-  },
-  {
-    "type": "front",
     "title": "What’s Mead, What’s Feynman, What’s New Here"
   },
   {
@@ -141,7 +137,7 @@
   },
   {
     "type": "chapter",
-    "title": "26. Magnetism Is Relativity in Disguise"
+    "title": "26. Magnetism, Light, and Empty Space"
   },
   {
     "type": "chapter",
@@ -262,6 +258,18 @@
   {
     "type": "back",
     "title": "Appendix B: Notes on Sources"
+  },
+  {
+    "type": "back",
+    "title": "Appendix C: Glossary"
+  },
+  {
+    "type": "back",
+    "title": "Appendix D: Index"
+  },
+  {
+    "type": "back",
+    "title": "Appendix E: Symbols, Numbers, and Distinctions"
   },
   {
     "type": "back",

@@ -33,7 +33,7 @@
 1996 — Dolly the sheep is born on 5 July at the Roslin Institute.
 2000 — The draft human genome is announced at the White House on 26 June.
 2003 — The Human Genome Project is declared complete in April, the fiftieth anniversary of the double helix.
-2003–05 — He Jiankui is not yet part of this story; Hwang Woo-suk's cloning claims are exposed as fraudulent.
+2003–05 — Hwang Woo-suk's human cloning claims are exposed as fraudulent.
 2007 — Shinya Yamanaka reprograms adult cells into induced pluripotent stem cells.
 2010 — J. Craig Venter's team boots up a cell with a fully synthetic genome; Svante Pääbo's group publishes the draft Neanderthal genome.
 2012 — Jennifer Doudna and Emmanuelle Charpentier publish CRISPR-Cas9 as a programmable editing tool; ENCODE publishes its functional-genome estimate.
@@ -51,18 +51,27 @@
 **Allele** — one of the alternative versions of a gene at a given position.
 **Amino acid** — a small building-block molecule; twenty kinds are strung together to make proteins.
 **Base** — one of the four chemical units, adenine, thymine, guanine, or cytosine, that form the "letters" of DNA.
+**Base editing** — a form of gene editing that changes one letter without cutting both strands of the DNA.
 **Base pair** — two bases joined across the double helix, A with T or G with C.
+**Cas9** — the protein in the CRISPR system that cuts DNA where a guide RNA tells it to.
+**Centromere** — the pinched region of a chromosome where the two copies are held together before a cell divides.
+**Clone** — an organism grown from the nucleus of one donor cell, so that its nuclear DNA matches that donor. Identical twins are natural clones.
 **CRISPR** — a bacterial immune system, repurposed as a programmable gene-editing tool guided by RNA.
 **Chromatin** — DNA wound around histones, compact spool-like proteins that help pack it tightly.
 **Chromosome** — a single long DNA molecule, together with its packaging proteins; humans have forty-six.
 **Codon** — a group of three DNA or RNA letters that specifies one amino acid or a stop signal.
+**Diploid** — having two parental sets of chromosomes, the usual state of a body cell. In a person that is about 6.2 billion letters.
+**Dominant** — a version of a gene that shows its effect when only one copy is present. It does not mean common, and it does not mean healthy.
 **Enhancer** — a stretch of DNA that boosts a gene's activity, sometimes from far away along the chromosome.
 **Enzyme** — a protein (occasionally an RNA) that speeds up a chemical reaction.
 **Epigenetics** — chemical marks on DNA or its packaging proteins that change gene activity without changing the underlying letters.
 **Exon** — a coding segment of a gene, the part kept once the non-coding pieces are cut out.
 **Gene** — a stretch of DNA that specifies a protein or a functional RNA molecule.
+**Genotyping** — reading a chosen set of positions where people already differ, rather than the whole genome. A spit-kit chip does this.
 **Genome** — the complete set of DNA in an organism.
 **Germline** — the cells that give rise to eggs or sperm; changes here pass to offspring.
+**Guide RNA** — a short RNA strand that leads Cas9, or a base editor, to one address in the DNA.
+**Haploid** — having one parental set of chromosomes, as in an egg or a sperm, or in the reference genome of about 3.1 billion letters.
 **Heritability** — the fraction of variation in a trait, within a specific population, attributable to genetic differences.
 **Heterozygous** — carrying two different alleles of a gene, one from each parent.
 **Histone** — a spool-like protein that DNA winds around for compact packaging.
@@ -70,6 +79,7 @@
 **Intron** — a non-coding segment of a gene, cut out before the gene's message is used.
 **Meiosis** — the cell division that produces eggs or sperm, each with half the usual number of chromosomes.
 **Messenger RNA (mRNA)** — the RNA copy of a gene that carries instructions to the ribosome, the cell's protein-making machine.
+**Mitochondrial DNA** — the small circular genome inside the mitochondria, 16,569 letters in people, inherited from the mother.
 **Mitosis** — ordinary cell division, producing two genetically identical daughter cells.
 **Mutation** — a permanent change to the sequence of DNA letters.
 **Nucleotide** — the basic unit of DNA or RNA: a sugar, a phosphate, and a base.
@@ -78,10 +88,14 @@
 **Penetrance** — the probability that a person carrying a particular genetic variant actually develops the associated trait or disease.
 **Phenotype** — an observable trait, as distinct from the genetic makeup that produces it.
 **Point mutation** — a change to a single DNA letter.
+**Plasmid** — a small ring of DNA, used by bacteria and by genetic engineers to carry a gene from one cell to another.
 **Polygenic** — influenced by many genes acting together, each with a small effect.
+**Polygenic score** — a single number that adds up many small genetic effects on a trait. It shifts an average. It does not place one person.
+**Polymerase chain reaction (PCR)** — a way to copy a chosen stretch of DNA over and over in a tube, with no cell required.
 **Polymerase** — an enzyme that builds a new strand of DNA or RNA using an existing strand as a template.
 **Promoter** — the DNA address where the copying of a gene into RNA begins.
 **Recombination** — the exchange of DNA segments between paired chromosomes during meiosis.
+**Recessive** — a version of a gene whose effect is hidden when a dominant version is also present. Two copies are needed for the trait to show.
 **Restriction enzyme** — a bacterial enzyme that cuts DNA at a specific sequence.
 **Ribosome** — the cellular machine, built of RNA and protein, that translates mRNA into protein.
 **Semiconservative replication** — the copying scheme in which each new DNA molecule contains one old strand and one newly made strand.
@@ -108,9 +122,79 @@ Mendel, G. "Versuche über Pflanzen-Hybriden." *Verhandlungen des naturforschend
 Jeffreys, A. J., Wilson, V., and Thein, S. L. "Hypervariable 'Minisatellite' Regions in Human DNA." *Nature*, 1985.
 Jinek, M., Chylinski, K., Fonfara, I., Hauer, M., Doudna, J. A., and Charpentier, E. "A Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity." *Science*, June 2012.
 International Human Genome Sequencing Consortium. "Initial Sequencing and Analysis of the Human Genome." *Nature*, February 2001.
-Nurk, S., et al. "The Complete Sequence of a Human Genome." *Science*, April 2022.
 Green, R. E., et al. (Pääbo lab). "A Draft Sequence of the Neanderthal Genome." *Science*, May 2010.
 Slocombe, L., Sacchi, M., and Al-Khalili, J. "An Open Quantum Systems Approach to Proton Tunnelling in DNA." *Communications Physics*, 2022.
 Wilmut, I., Schnieke, A. E., McWhir, J., Kind, A. J., and Campbell, K. H. S. "Viable Offspring Derived from Fetal and Adult Mammalian Cells." *Nature*, February 1997.
+Nurk, S., et al. "The Complete Sequence of a Human Genome." *Science*, 31 March 2022. The nuclear assembly is 3,054,815,472 base pairs; with the mitochondrial genome of 16,569 the one-parental-set total is 3,054,832,041.
+Musunuru, K., et al. "Patient-Specific In Vivo Gene Editing to Treat a Rare Genetic Disease." *New England Journal of Medicine*, online 15 May 2025. The paper on KJ Muldoon. It reports two infusions.
+Bycroft, C., et al. "The UK Biobank Resource with Deep Phenotyping and Genomic Data." *Nature*, 2018.
+The All of Us Research Program Genomics Investigators. "Genomic Data in the All of Us Research Program." *Nature*, 2024. The release described in the paper contains 245,388 whole genomes.
+Sclater, A. "The Extent of Charles Darwin's Knowledge of Mendel." *Journal of Biosciences*, June 2006. Darwin's copy of Focke, pages 108 to 110 uncut.
+Gitschier, J. "It Was Heaven: An Interview with Evelyn Witkin." *PLOS Genetics*, 2012. Witkin's recollection that Max Delbrück called DNA a stupid molecule.
+Vertex Pharmaceuticals. Announcement of the United States list price of Casgevy at $2.2 million, 8 December 2023, the day the Food and Drug Administration approved it.
+Bowman v. Monsanto Co., 569 U.S. 278 (2013).
+Monsanto Canada Inc. v. Schmeiser, 2004 SCC 34.
 
-Readers who want the general science-communication accounts these events are often filtered through, rather than the primary papers, are directed to the standard biographies of Watson, Crick, and Franklin, and to the Human Genome Project's own public archives, rather than to any single popular title, since this book's method was to work from primary sources and go around, not through, other popular treatments of the same history.
+## A Note on Further Reading
+
+The papers above are the sources. A general reader who wants a book, rather than a journal, can start with a few that exist and can be checked.
+
+Horace Freeland Judson, *The Eighth Day of Creation* (1979), is the long history of how the molecule was worked out, from the phage group through the code. It is not light, and it is the one to open if the middle of this book felt too short.
+
+Matthew Cobb, *Life's Greatest Secret* (2015), tells the race to crack the genetic code, which is Part II here, at the length that story deserves.
+
+Brenda Maddox, *Rosalind Franklin: The Dark Lady of DNA* (2002), is the biography. The Photo 51 chapter in this book is a sketch beside it.
+
+Daniel J. Kevles, *In the Name of Eugenics* (1985), is the history behind Chapter 19. It is a scholarly book, and it is the right next one if that chapter is the one that stays.
+
+Siddhartha Mukherjee, *The Gene: An Intimate History* (2016), covers much of the same ground as this book in a different voice. Read it as another account, not as a correction of the dates and counts given here.
+
+The glossary above is a reminder of words, not a second book.
+
+## Photo Credits
+
+The diagrams are original. The photographs are from Wikimedia Commons, under the licence named with each one.
+
+Figure 0. A saliva collection tube. "Home DNA Testing Kit Tube (47400098641).jpg," by Tony Webster, CC BY 2.0. https://commons.wikimedia.org/wiki/File:Home_DNA_Testing_Kit_Tube_(47400098641).jpg
+
+Figure 1. The Eagle, Bene't Street, Cambridge. "Cmglee Cambridge Friar House from The Eagle.jpg," by Cmglee, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Cmglee_Cambridge_Friar_House_from_The_Eagle.jpg
+
+Figure 4. Colonies of bacteria on a plate. "Agarplate redbloodcells edit.jpg," by Bill Branson, National Cancer Institute, public domain. https://commons.wikimedia.org/wiki/File:Agarplate_redbloodcells_edit.jpg
+
+Figure 14. A bare field in winter. "Dülmen, Umland, Sonnenaufgang im Winter -- 2013 -- 9899.jpg," by Dietmar Rabich, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Umland,_Sonnenaufgang_im_Winter_--_2013_--_9899.jpg
+
+Figure 15. A drawing of Mendel's pea flowers and pods. "Fairbanks - Mendel Axial and Terminal Flowers and Pods.jpg," by Daniel J. Fairbanks, CC BY 4.0. A botanical drawing, not a photograph. https://commons.wikimedia.org/wiki/File:Fairbanks_-_Mendel_Axial_and_Terminal_Flowers_and_Pods.jpg
+
+Figure 17. The abbatial church of the Augustinian abbey of St Thomas in Old Brno. "Basilica of the Assumption of Our Lady, Abbatial church, Brno.jpg," by Jan Sapák, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Basilica_of_the_Assumption_of_Our_Lady,_Abbatial_church,_Brno.jpg
+
+Figure 18. A fruit fly, *Drosophila melanogaster*. "D-Melanogaster 2.jpg," by Francisco Romero Ferrero, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:D-Melanogaster_2.jpg
+
+Figure 19. Field workers of the Eugenics Record Office at Cold Spring Harbor, June 1912. "First Annual Field Workers' Conference, Eugenics Record Office, Cold Spring Harbor, Long Island, New York, June 20 and 21,1912.jpg," public domain. https://commons.wikimedia.org/wiki/File:First_Annual_Field_Workers%27_Conference,_Eugenics_Record_Office,_Cold_Spring_Harbor,_Long_Island,_New_York,_June_20_and_21,1912.jpg
+
+Figure 26. A blood collection tube and needle. "Vacutainer with blood collection tube.jpg," by Whispyhistory, CC BY 3.0 US. https://commons.wikimedia.org/wiki/File:Vacutainer_with_blood_collection_tube.jpg
+
+Figure 28. A limestone cave mouth, not confirmed as Denisova Cave. "Таинственная пещера.jpg," by Xenochka, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:%D0%A2%D0%B0%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0.jpg
+
+Figure 29. A ewe with her lamb in a barn. "A ewe and her lamb at Reed Ranch (40871239920).jpg," U.S. Fish and Wildlife Service, public domain. https://commons.wikimedia.org/wiki/File:A_ewe_and_her_lamb_at_Reed_Ranch_(40871239920).jpg
+
+Figure 30. A litter of puppies. "Havanese Litter.png," by Cartman0052007, CC BY 3.0. https://commons.wikimedia.org/wiki/File:Havanese_Litter.png
+
+Figure 31. An electron microscope in a laboratory, about 1980. "U.S. Department of Energy - Science - 276 003 003 (16625682631).jpg," U.S. Department of Energy, public domain. https://commons.wikimedia.org/wiki/File:U.S._Department_of_Energy_-_Science_-_276_003_003_(16625682631).jpg
+
+Figure 32. Ears of corn. "CORN HARVEST close up of ear (48980552538).jpg," Alabama Extension, CC0. https://commons.wikimedia.org/wiki/File:CORN_HARVEST_close_up_of_ear_(48980552538).jpg
+
+Figure 33. Tomatoes on a market stall. "Fresh tomatoes stacked at market stall.jpg," by TopmanJnr1, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Fresh_tomatoes_stacked_at_market_stall.jpg
+
+Figure 34. A poultry barn. "Red chicken barn Canada.jpg," Chicken Farmers of Canada, CC BY 2.0. https://commons.wikimedia.org/wiki/File:Red_chicken_barn_Canada.jpg
+
+Figure 35. The entrance of the Svalbard Global Seed Vault. "Entrance to Svalbard Global Seed Vault in 2008.jpg," by Dag Endresen, CC BY. https://commons.wikimedia.org/wiki/File:Entrance_to_Svalbard_Global_Seed_Vault_in_2008.jpg
+
+Figure 36. DNA sequencers in a laboratory. "Illumina Hiseq 2000 sequencers, BGI Hong Kong sequencing room.JPG," by Scotted400, CC BY 3.0. https://commons.wikimedia.org/wiki/File:Illumina_Hiseq_2000_sequencers,_BGI_Hong_Kong_sequencing_room.JPG
+
+Figure 39. A consumer saliva collection tube. "Wonder Who I Am - Flickr - Lisa Zins.jpg," by Lisa Zins, CC BY 2.0. https://commons.wikimedia.org/wiki/File:Wonder_Who_I_Am_-_Flickr_-_Lisa_Zins.jpg
+
+Figure 42. Server racks in a data centre. "NOIRLab HQ Server Racks (6V6A0395-CC).jpg," NOIRLab/NSF/AURA/T. Slovinský, CC BY 4.0. https://commons.wikimedia.org/wiki/File:NOIRLab_HQ_Server_Racks_(6V6A0395-CC).jpg
+
+Figure 45. A whippet. "Whippet 2018 6.jpg," by Canarian, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Whippet_2018_6.jpg
+
+Figure 46. A newborn's feet in an adult hand. "Newborn feet nestled gently in a parent's hand highlighting the bond of love and care at home.jpg," by Shixart1985, CC BY 2.0. https://commons.wikimedia.org/wiki/File:Newborn_feet_nestled_gently_in_a_parent%27s_hand_highlighting_the_bond_of_love_and_care_at_home.jpg

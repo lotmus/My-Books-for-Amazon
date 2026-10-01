@@ -23,11 +23,11 @@ HEAD_COLOR = RGBColor(0x00, 0x00, 0xFF)
 
 # ---------------- figure table: number -> (kind, caption) ----------------
 FIG = {
- 0: ("photo", "A saliva collection tube."),
+ 0: ("photo", "A saliva collection tube, the kind a spit kit arrives in, cap still sealed."),
  1: ("photo", "The Eagle, Bene't Street, Cambridge."),
  2: ("diagram", "The X-shaped diffraction pattern of a helix."),
  3: ("diagram", "The ladder: A with T, G with C."),
- 4: ("photo", "Colonies of bacteria on a plate."),
+ 4: ("photo", "Colonies of bacteria on a plate, each mound grown from a single cell."),
  5: ("diagram", "A nucleotide, and the four bases."),
  6: ("diagram", "A chain of amino acids folds into a working shape."),
  7: ("diagram", "A replication fork."),
@@ -37,39 +37,39 @@ FIG = {
  11: ("diagram", "Meiosis, with one crossover between a maternal and a paternal chromosome."),
  12: ("diagram", "A pedigree of an X-linked recessive trait across four generations."),
  13: ("diagram", "A Punnett square for one gene beside the bell curve that thousands of genes produce."),
- 14: ("photo", "A bare field in winter."),
- 15: ("photo", "Pea plants in flower and in pod."),
+ 14: ("photo", "A bare field in winter, furrows and nothing in leaf."),
+ 15: ("photo", "A drawing of Mendel's pea flowers and pods."),
  16: ("diagram", "5,474 round seeds to 1,850 wrinkled: about 3 to 1."),
- 17: ("photo", "Brno, where Mendel's abbey stands."),
- 18: ("photo", "A fruit fly, Drosophila melanogaster."),
- 19: ("photo", "Archive cabinets."),
+ 17: ("photo", "The abbatial church of the Augustinian abbey of St Thomas in Old Brno, the house where Mendel lived."),
+ 18: ("photo", "A fruit fly, Drosophila melanogaster: the red eye and the bristles the mappers counted."),
+ 19: ("photo", "Field workers of the Eugenics Record Office at Cold Spring Harbor, June 1912. The rows are the people who filled the family files."),
  20: ("diagram", "A plasmid cut open by a restriction enzyme, with a foreign gene pasted into the gap."),
  21: ("diagram", "A Sanger sequencing gel: four lanes, read from the bottom upward."),
  22: ("diagram", "The doubling cascade of the polymerase chain reaction."),
  23: ("diagram", "Short tandem repeat profiles from two samples."),
  24: ("diagram", "Cost per human genome, 2001 to 2025, on a logarithmic axis."),
  25: ("diagram", "Cas9 guided to a target by RNA."),
- 26: ("photo", "Samples prepared in a laboratory."),
+ 26: ("photo", "A blood collection tube and needle."),
  27: ("diagram", "A designed protein next to its sequence."),
- 28: ("photo", "A cave mouth in limestone."),
+ 28: ("photo", "A limestone cave mouth, not confirmed as Denisova Cave."),
  29: ("photo", "A ewe with her lamb in a barn."),
- 30: ("photo", "Two dogs of the same litter."),
- 31: ("photo", "A research laboratory."),
- 32: ("photo", "Ears of corn."),
- 33: ("photo", "Tomatoes on a market stall."),
- 34: ("photo", "A modern broiler house."),
+ 30: ("photo", "A litter of puppies."),
+ 31: ("photo", "An electron microscope in a laboratory, about 1980."),
+ 32: ("photo", "Ears of corn, kernels locked in straight rows."),
+ 33: ("photo", "Tomatoes on a market stall, stacked for sale."),
+ 34: ("photo", "A poultry barn, birds at the density the breeding produced."),
  35: ("photo", "The entrance of the Svalbard Global Seed Vault."),
- 36: ("photo", "A genetics research laboratory."),
+ 36: ("photo", "DNA sequencers in a laboratory."),
  37: ("diagram", "A chromosome ideogram with the regions finished after 2003 marked."),
  38: ("diagram", "A Manhattan plot, sketched."),
- 39: ("photo", "A saliva collection kit, boxed."),
+ 39: ("photo", "A consumer saliva collection tube."),
  40: ("diagram", "Risk against penetrance."),
  41: ("diagram", "Two overlapping bell curves."),
- 42: ("photo", "A server room."),
+ 42: ("photo", "Server racks in a data centre."),
  43: ("diagram", "Ex vivo and in vivo editing routes."),
  44: ("diagram", "An embryo-selection decision tree."),
- 45: ("photo", "A racing whippet at full stretch."),
- 46: ("photo", "A newborn's hand."),
+ 45: ("photo", "A whippet, the deep chest and narrow waist the breed was selected for."),
+ 46: ("photo", "A newborn's feet in an adult hand, one person at the scale the last chapter is guessing about."),
 }
 
 PARTS = [
@@ -137,9 +137,15 @@ def word_picture_stream(path):
         im = bg
     elif im.mode != "RGB":
         im = im.convert("RGB")
+    # Print width in the book is 4.5 inches. 1800 px is 400 dpi on that
+    # width, enough for a 6x9 page, and it keeps a folder of source photos
+    # from turning the docx into tens of megabytes.
+    long_edge = 1800
+    if max(im.size) > long_edge:
+        im.thumbnail((long_edge, long_edge), Image.Resampling.LANCZOS)
     buf = io.BytesIO()
     if suffix in (".jpg", ".jpeg"):
-        im.save(buf, format="JPEG", quality=90)
+        im.save(buf, format="JPEG", quality=85, optimize=True)
         buf.seek(0)
         return buf, "jpg"
     im.save(buf, format="PNG")
@@ -443,7 +449,13 @@ def build():
                 style = "First Paragraph" if prev != "p" else "Normal"
             p = doc.add_paragraph(style=style); add_runs(p, text)
             prev = "p"; continue
-    doc.core_properties.title = TITLE; doc.core_properties.author = AUTHOR; doc.core_properties.subject = SUBTITLE
+    from datetime import datetime, timezone
+    doc.core_properties.title = TITLE
+    doc.core_properties.author = AUTHOR
+    doc.core_properties.subject = SUBTITLE
+    stamped = datetime(2026, 9, 30, tzinfo=timezone.utc)
+    doc.core_properties.created = stamped
+    doc.core_properties.modified = stamped
     doc.save(OUT)
     print("saved", OUT)
     print("figures:", len([b for b in blocks if b[0] == "fig"]), "photo slots still placeholders:", missing_photos)

@@ -14,7 +14,7 @@ This is not a textbook, and it is not a puff piece. Claims are labeled for what 
 
 Sixteen custom illustrations. A working glossary. A closing appendix connecting the physics back to the relativity you half-remember from school.
 
-Some of this is better felt than read, so the book comes with six free interactive simulations, linked where they matter. No login. No app.
+Some of this is better felt than read, so the book comes with nine free interactive simulations, linked where they matter. No login. No app.
 
 • Fire electrons through a double slit and watch the interference pattern build, one dot at a time
 • Play the exact game used to show that entanglement beats every classical strategy — and watch the win rate break the 75% ceiling
@@ -22,6 +22,9 @@ Some of this is better felt than read, so the book comes with six free interacti
 • Tune a tunneling barrier and watch the transmission probability change
 • Run quantum key distribution, then turn on an eavesdropper and watch the error trail appear
 • Watch a superposition dissolve, one air molecule at a time
+• Check the same system over and over and watch the quantum Zeno effect push survival toward certainty
+• Pull a quark and an antiquark apart and watch the flux tube snap into a new pair
+• Thicken a pane of glass and watch the reflection swing between 0% and 16%
 
 If you want the real ideas behind quantum mechanics — not dumbed down, just made clear — this is the map.
 

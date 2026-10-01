@@ -10,9 +10,11 @@ When a channel does not sell, the tempting explanation is “the algorithm” or
 
 If the twenty-second offer is still unfinished, stop. The offer chapter is the whole diagnosis. No title, thumbnail, or posting schedule sells an unnamed thing. Write the sentence. Put a price on a page. Then come back.
 
+If the video asks for two payments — the file and the call, or the file and a sponsor — you still cannot say what you sell. Pick one for the next ninety days. Take the other line off the page.
+
 ## II. People cannot find the price
 
-The videos exist. The page exists. Viewers still do not arrive there. Look at the first two lines of the description, the pinned comment, and the words you say at the end. If the link is under a paragraph about your story, move it up. If you never say the name of the offer, say it. If three test viewers cannot find the price without you pointing, the packaging failed and the niche did not.
+The videos exist. The page exists. Viewers still do not arrive there. Look at the first two lines of the description, the pinned comment, and the words you say at the end. If the link is under a paragraph about your story, move it up. If you never say the name of the offer, say it. If you can read the address and cannot tap it, the price is hidden. That includes a YouTube Short, and any other site where you have not finished the phone test. If three test viewers cannot find the price without you pointing, the packaging failed and the niche did not.
 
 This is the same shelf as the click chapter, applied to money instead of curiosity. A title can win the click and still lose the sale if the click leads nowhere.
 
@@ -43,6 +45,8 @@ Quitting a refused offer is more useful than another month of videos that protec
 ## VIII. Do this once
 
 Write which of the seven breaks is true today. Do the single fix that break requires. Set a date to count page visits and payments again. Leave every other variable alone until that date.
+
+> **Key takeaway:** Find the earliest break. Fix that one. Leave every other variable alone until the next count.
 
 ## IX. Claims that do not survive the path
 

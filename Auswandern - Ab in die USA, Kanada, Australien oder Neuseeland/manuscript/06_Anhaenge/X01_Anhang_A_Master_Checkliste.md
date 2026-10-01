@@ -1,8 +1,17 @@
 ## Anhang A: Die Master-Checkliste
 
-Diese Checkliste bündelt die wichtigsten Aufgaben aus allen 42 Kapiteln in einer einzigen Zeitleiste, vom ersten Entschluss bis zu den ersten sechs Monaten in den USA. Sie zeigt, wann welcher Schritt ansteht, ersetzt aber nicht die Details der einzelnen Kapitel. Hake ab, was erledigt ist, und nutze die Klammerverweise zum Nachlesen.
+Diese Checkliste bündelt Aufgaben aus den USA-Kapiteln und aus den Teilen für Kanada, Australien und Neuseeland. Sie zeigt, wann welcher Schritt ansteht. Sie ersetzt nicht das Kapitel. Hake ab, was erledigt ist, und nutze die Klammerverweise zum Nachlesen.
 
-Die ersten Phasen auf dem Weg ins Ausland – Entschluss, Vorbereitung in Deutschland bei Behörden, Steuern, Dokumenten und die Umzugsentscheidung selbst – laufen für alle vier Zielländer identisch ab und stehen deshalb bereits im Teil Universal. Die Checkliste unten ergänzt das um die Schritte, die sich vom jeweiligen Zielland unterscheiden: Zusätzlich zur ausführlichen USA-Liste findest du einen eigenen Abschnitt für Kanada, Australien und Neuseeland mit den Punkten zu Visum, Ankunft, Steuer-ID, den ersten Wochen und den ersten sechs Monaten, die dort jeweils anders verlaufen als in den USA.
+Die Schritte, die in Deutschland für alle vier Zielländer gleich sind, stehen im Kapitel Deutschland vor dem Abflug. Die Checkliste darunter trennt danach, was sich je Land unterscheidet.
+
+### Vor dem Zielland: Deutschland
+
+### Sobald der Entschluss steht
+
+- [ ] Fünf Fragen zu Beruf, Sprache, Familie, Zeit und Klima beantwortet (Welches Land passt zu dir?)
+- [ ] Vertragsliste, Abmeldung, Rundfunkbeitrag, Krankenkasse und Frage an die Deutsche Rentenversicherung nach dem Abkommen genau dieses Landes (Deutschland vor dem Abflug)
+- [ ] Apostille nur bestellt, wenn das Zielland sie im Antragskapitel verlangt (Deutschland vor dem Abflug)
+- [ ] Bei Arzt, Pflege, Lehramt, Ingenieurwesen oder lizenziertem Handwerk das Anerkennungskapitel des Ziellandes gelesen, nicht nur das Visakapitel
 
 ### USA
 
@@ -159,6 +168,7 @@ Die ersten Phasen auf dem Weg ins Ausland – Entschluss, Vorbereitung in Deutsc
 ### T–18 bis T–12 Monate: Entscheidung und Vorbereitung
 
 - [ ] Eigenen Express-Entry-CRS-Score überschlägig berechnet und mit den aktuellen Einladungsgrenzen verglichen (Kanada: Einwanderungswege)
+- [ ] Bei geschütztem Beruf das Kapitel Anerkennung deutscher Berufsabschlüsse gelesen und die Provinzkammer geöffnet, nicht nur die ECA (Kanada: Anerkennung)
 - [ ] Provincial Nominee Program (PNP) der bevorzugten Provinz oder Provinzen auf die aktuellen Kriterien geprüft (Kanada: Einwanderungswege)
 - [ ] Geprüft, ob ein arbeitgebergesponsertes, LMIA-pflichtiges oder LMIA-freies Arbeitsvisum als schnellerer Weg infrage kommt (Kanada: Arbeitsweg)
 
@@ -170,6 +180,7 @@ Die ersten Phasen auf dem Weg ins Ausland – Entschluss, Vorbereitung in Deutsc
 - [ ] Führungszeugnis beim Bundesamt für Justiz beantragt; für Kanada in der Regel ohne Apostille, bei Ausstellung vor Februar 2019 aber beglaubigte Übersetzung eingeplant (Kanada: Antrag/Konsulat)
 - [ ] Termin bei einem IRCC-zugelassenen Panel Physician für die Gesundheitsuntersuchung gebucht (Kanada: Antrag/Konsulat)
 - [ ] Termin bei VFS Global Berlin für Biometrie (Fingerabdrücke, Foto) gebucht, sobald IRCC dazu auffordert (Kanada: Antrag/Konsulat)
+- [ ] Bei Hund oder Katze: CFIA-Wegweiser für Alter, Begleitung und Herkunftsland durchgeklickt; Tollwutzeugnis auf Englisch oder Französisch eingeplant, keine Quarantäne mit Australien oder Neuseeland verwechselt (Kanada: Ankunft)
 
 ### T–6 bis T–3 Monate: Umzug organisieren
 
@@ -179,6 +190,7 @@ Die ersten Phasen auf dem Weg ins Ausland – Entschluss, Vorbereitung in Deutsc
 - [ ] Mindestens drei Kfz-Versicherungsangebote mit gleicher Deckung für die Zielprovinz eingeholt und nach Anrechnung der deutschen Schadenfreiheitsbescheinigung gefragt (Kanada: Führerschein/Auto)
 - [ ] Bei Kindern: Betreuungsplatz und Schulzuordnung beim zuständigen School Board Monate vor dem Umzug angefragt (Kanada: Kinder/Schule)
 - [ ] Bei Kaufabsicht: eigener Aufenthaltsstatus gegen das bundesweite Kaufverbot für Nicht-Kanadier und provinzielle Foreign-Buyer-Steuern (in Toronto bis zu 35 %) abgeglichen (Kanada: Wohnen)
+- [ ] Umzugsgut für die CBSA gelistet: persönliches, schon genutztes Gut nach den Regeln für settlers' effects; Lebensmittel, Pflanzen und Holz extra geprüft; Pässe und COPR nicht in den Container (Kanada: Ankunft)
 
 ### T–3 bis T–1 Monat: Feinschliff
 
@@ -212,8 +224,10 @@ Die ersten Phasen auf dem Weg ins Ausland – Entschluss, Vorbereitung in Deutsc
 ### T–18 bis T–12 Monate: Entscheidung und Vorbereitung
 
 - [ ] Eigenen Punktestand für den Punktetest (Subclass 189/190/491) anhand Alter, Englischniveau, Bildung und Berufserfahrung überschlägig berechnet und mit den aktuellen Cut-off-Werten verglichen, nicht nur mit der gesetzlichen Mindestpunktzahl von 65 (Australien: Arbeitsweg)
+- [ ] Skills Assessment und Registrierung als zwei Stellen unterschieden (Australien: Anerkennung deutscher Berufsabschlüsse)
 - [ ] Geprüft, ob der eigene Beruf auf der für das jeweilige Visum einschlägigen Berufsliste steht (Australien: Einwanderungswege)
-- [ ] Working-Holiday-Visum (Subclass 417) als risikoarmer erster Schritt geprüft, falls unter 35 und noch unentschlossen (Australien: Einwanderungswege)
+- [ ] Working Holiday nur als Subclass 417 prüfen, und nur im Altersrahmen, den das Kapitel Wege der Einwanderung nennt (18 bis 35 Jahre seit 1. Juli 2026). Die aktuelle Grenze auf immi.homeaffairs.gov.au lesen. Nicht mit dem neuseeländischen Germany Working Holiday Visa verwechseln (Australien: Einwanderungswege)
+- [ ] Bei Hund oder Katze: DAFF-Ablauf für Gruppe 3 begonnen. Deutschland ist zugelassen, der Vorlauf beträgt mindestens sechs Monate, die 180 Tage im zugelassenen Land sind keine Quarantäne, die Station ist Mickleham (Australien: Ankunft)
 
 ### T–12 bis T–6 Monate: Visum und Papiere
 
@@ -266,8 +280,10 @@ Die ersten Phasen auf dem Weg ins Ausland – Entschluss, Vorbereitung in Deutsc
 ### T–18 bis T–12 Monate: Entscheidung und Vorbereitung
 
 - [ ] Eigenen Beruf mit der aktuellen Green List und dem passenden ANZSCO-Code abgeglichen, inklusive Tier 1 oder Tier 2 (Neuseeland: Einwanderungswege)
+- [ ] Council des Berufs geöffnet, nicht nur die Green List (Neuseeland: Anerkennung deutscher Berufsabschlüsse)
 - [ ] Geklärt, ob der künftige Arbeitgeber bereits als Accredited Employer akkreditiert ist oder die Akkreditierung erst noch beantragen muss (Neuseeland: Arbeitsweg)
 - [ ] Entschieden, ob der Weg über das Accredited Employer Work Visa (AEWV) mit späterem Wechsel zur Residency oder die direkte Bewerbung über die Skilled Migrant Category (Höchstalter 55 Jahre) realistischer ist (Neuseeland: Einwanderungswege)
+- [ ] Bei Hund oder Katze: Länderkategorie Deutschlands bei der MPI geprüft, RNATT, Quarantänebuchung und Importgenehmigung als ein Paket eingeplant, nicht erst nach dem Familienflug (Neuseeland: Ankunft)
 
 ### T–12 bis T–6 Monate: Visum und Papiere
 

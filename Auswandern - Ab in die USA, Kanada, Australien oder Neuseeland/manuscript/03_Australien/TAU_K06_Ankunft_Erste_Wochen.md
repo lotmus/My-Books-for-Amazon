@@ -10,6 +10,7 @@ Der Koffer ist noch nicht ausgepackt, der Jetlag noch nicht überstanden, und sc
 > - Organisiere SIM-Karte und Internet früh, idealerweise schon vor dem Abflug.
 > - Buche die erste Unterkunft nur als flexible Übergangslösung; die richtige Wohnungssuche läuft am besten vor Ort.
 > - Der Zeitunterschied zu Deutschland beträgt acht bis neun Stunden – plane die ersten Tage ohne wichtige Termine und ohne Autofahrten ein, gerade wegen des Linksverkehrs.
+> - Hund oder Katze aus Deutschland: zugelassenes Land der Gruppe 3, mindestens sechs Monate Vorlauf, danach Quarantäne in Mickleham. Der Container hat eigene Biosicherheitsregeln, nicht nur der Koffer.
 
 ### Ankunft: Einreisekontrolle, Zoll und Biosecurity
 
@@ -35,11 +36,9 @@ Trage dir die 28-Tage-Frist ab Arbeitsbeginn fest ein: Erst danach greift ohne v
 
 > **Merke:** Die TFN ist reine Steuer- und Superannuation-Nummer. Für das Gesundheitssystem und für Sozialleistungen meldest du dich separat bei *Services Australia* (der Behörde für Sozial- und Gesundheitsleistungen) an – dazu gleich mehr.
 
-### Bankkonto: am besten schon vor dem Abflug
+### Bankkonto: was hier anders ist
 
-Ein Bankkonto brauchst du für Gehalt, Miete und den Alltag – und die gute Nachricht: Bei mehreren australischen Großbanken lässt es sich schon von Deutschland aus online vorbereiten, teils Wochen oder sogar Monate vor dem Abflug. Nutze das, wenn dein Zielinstitut es anbietet, denn dann bist du vom ersten Arbeitstag an zahlungsfähig, statt in der turbulentesten Woche noch einen Filialtermin einzuschieben. Ohne Voreröffnung holst du das nach der Landung nach; alle vier Großbanken verlangen dafür einmalig eine persönliche Identifizierung mit Pass und Visumsnachweis in der Filiale.
-
-Auch ohne TFN und ohne feste Adresse lässt sich meist ein Übergangskonto eröffnen – reiche die TFN aber zügig nach, sonst greift auch bei Zinserträgen die hohe Vorsteuer. Welche Bank sich lohnt, wie die Kontoführung gebührenfrei bleibt und wie du dir überhaupt erst eine australische Kreditwürdigkeit aufbaust, steht im [Kapitel zu Steuer-ID, Bank und Kredit in diesem Teil](#tau07).
+Die gemeinsamen Schritte stehen im kanadischen Ankunftskapitel: Konto möglichst vor dem Abflug online anfangen, einmal persönlich mit Pass und Visum in der Filiale bestätigen, deutsche Bonität zählt nicht. In Australien sind es vier Großbanken, und die Voreröffnung geht bei manchen Instituten Wochen oder Monate vor dem Abflug. Auch ohne TFN und ohne feste Adresse lässt sich meist ein Übergangskonto eröffnen. Reich die TFN danach zügig nach, sonst gilt die hohe Vorsteuer auch auf Zinsen. Welche der vier sich lohnt und wie du Kreditwürdigkeit aufbaust, steht im [Kapitel zu Steuer-ID, Bank und Kredit in diesem Teil](#tau07).
 
 ### Medicare oder private Versicherung: der erste Unterschied, der zählt
 
@@ -57,7 +56,7 @@ Deutsche Mobilfunktarife haben in Australien kein EU-Roaming, und wer das erst a
 
 ### Strom, Steckdosen und erste Einkäufe
 
-Eine gute Nachricht vorweg: Anders als in den USA oder Kanada läuft das Stromnetz in Australien mit 230–240 Volt, genau wie in Deutschland. Mitgebrachte Elektrogeräte funktionieren also technisch problemlos weiter, nur die Steckdose sieht anders aus. Australische Steckdosen folgen dem Typ I mit charakteristisch schräg stehenden Flachkontakten; ein einfacher Reiseadapter reicht deshalb für praktisch jedes deutsche Gerät. Was sich mitzunehmen lohnt und was du besser vor Ort neu kaufst, behandelt das Universal-Kapitel zu diesem Thema.
+Eine gute Nachricht vorweg: Anders als in den USA oder Kanada läuft das Stromnetz in Australien mit 230–240 Volt, genau wie in Deutschland. Mitgebrachte Elektrogeräte funktionieren also technisch weiter. Nur der Stecker ist anders. Australische Steckdosen folgen dem Typ I mit schräg stehenden Flachkontakten. Ein Reiseadapter reicht für die meisten deutschen Geräte. Was in den Koffer gehört und was nicht in den Container, steht im Kapitel [Deutschland vor dem Abflug](#t0003). Den Container selbst prüft die Biosicherheit. Das steht weiter unten in diesem Kapitel.
 
 Für die ersten Tage reicht ein kurzer Einkauf im Supermarkt: Wasser, Frühstück, ein paar Snacks, Toilettenartikel. Die beiden großen Ketten Woolworths und Coles decken so gut wie jeden Ort ab. Preise an den Regalen zeigen bereits den Endpreis inklusive der Waren- und Dienstleistungssteuer (*Goods and Services Tax*, GST) – anders als du es aus den USA kennst, kommt an der Kasse in Australien also nichts mehr dazu.
 
@@ -83,6 +82,30 @@ Die folgende Übersicht ordnet die wichtigsten Schritte grob nach Zeitpunkt – 
 
 > **Praxisbeispiel:** Nina Voss reist mit dem Working-Holiday-Visum (Subclass 417) nach Sydney, zunächst für zwei Wochen in ein Hostel im Stadtteil Bondi gebucht. Am dritten Tag holt sie ihre online vorbereitete Prepaid-SIM ab, am fünften Tag steht sie bei einer Filiale einer Großbank Schlange, um ihr vorab online beantragtes Konto zu verifizieren. Die TFN beantragt sie, sobald sie eine erste, befristete Zimmeradresse als WG-Zwischenmieterin vorweisen kann. Eine Anmeldung beim staatlichen Gesundheitssystem kommt für sie nicht infrage – als befristete Visuminhaberin schließt sie stattdessen noch von Deutschland aus eine private Auslandskrankenversicherung ab, die ab dem Ankunftstag gilt. (Fiktives Beispiel.)
 
+### Hund, Katze und der Container
+
+Die Beagle am Gepäckband prüfen den Apfel im Rucksack. Dieselbe Behörde meint es mit dem Hund, der sechs Wochen später nachkommt, noch ernster – und mit der Kiste, die per Schiff hinterherfährt. Beides musst du vor dem Abflug entschieden haben, nicht in der ersten Woche in Melbourne.
+
+Deutschland ist für Hunde und Katzen ein von der DAFF zugelassenes Herkunftsland der Gruppe 3: Tollwut kommt vor, gilt aber als gut kontrolliert. Die Behörde schreibt auf ihrer Schritt-für-Schritt-Seite selbst, dass du mindestens sechs Monate einplanen sollst, und sie empfiehlt einen erfahrenen Tiertransport, weil der Ablauf aus Genehmigung, Labor, Amtstierarzt und Quarantäneplatz besteht, nicht aus einer Impfung beim Haustierarzt um die Ecke. Aktuelle Gebühren für Genehmigung und Quarantäne stehen nur auf [agriculture.gov.au/cats-dogs](https://www.agriculture.gov.au/cats-dogs). Sie ändern sich; ein Buch, das einen Festbetrag nennt, ist schneller falsch als nützlich.
+
+Der Ablauf in der Reihenfolge, die wirklich zählt:
+
+1. Prüfe, ob dein Tier überhaupt einfuhrfähig ist. Seit dem 1. März 2026 dürfen Bengal-Katzen nicht mehr nach Australien. Andere Hybriden, bestimmte Hunderassen und Tiere, die nicht die ganze Vorlaufzeit in einem zugelassenen Land gelebt haben, scheitern an derselben Stelle. Kaninchen, Vögel und die meisten anderen Arten sind kein Privatweg nebenbei; für sie gelten eigene, oft strengere Regeln.
+2. Das Tier muss vor der Ausfuhr mindestens 180 Tage am Stück in einem zugelassenen Land gelebt haben. Das ist keine Quarantäne. Hund oder Katze wohnen in dieser Zeit bei dir. Der genaue Start dieser Frist hängt am Tollwut-Bluttest und steht im aktuellen Leitfaden – rechne ihn dort nach, nicht in einer Facebook-Gruppe.
+3. Tollwutimpfung und danach ein *Rabies Neutralising Antibody Titre Test* (RNATT, ein Bluttest, der misst, ob die Impfung angeschlagen hat). Eine amtliche Tierärztin oder ein amtlicher Tierarzt sollte die Identität des Tieres prüfen, bevor das Blut abgenommen wird. Nur dann kann die spätere Quarantäne von mindestens 30 Tagen auf mindestens 10 Tage sinken. Wer den Test zuerst macht und die Identitätsprüfung nachreicht, hat die kurze Frist verschenkt.
+4. Importgenehmigung der DAFF, bevor das Tier reist. Ohne Genehmigung wird es nicht „erst mal durchgewunken“.
+5. Ankunft in der Regel so, dass das Tier direkt in die staatliche Quarantänestation Mickleham bei Melbourne kommt. Die Aufenthaltsdauer legt die DAFF fest: mindestens 30 Tage aus einem Gruppe-3-Land, mindestens 10 Tage nur mit der rechtzeitigen Identitätsprüfung. Probleme bei den Papieren verlängern den Aufenthalt. Besuche, Futter und was du mitgeben darfst, stehen in den Stationsregeln, nicht im Reiseblog.
+
+> **Achtung:** Die 180 Tage vor der Ausfuhr und die Tage in Mickleham sind zwei verschiedene Fristen. Wer nur die Quarantäne einplant und den halbjährigen Vorlauf vergisst, bucht den Familienflug ein halbes Jahr zu früh.
+
+> **Praxisbeispiel:** Familie Reinhardt (fiktiv) wollte den Familienhund im selben Monat nach Melbourne schicken wie Emil und Clara. Der Tiertransport rechnete den RNATT, die 180 Tage und einen Mickleham-Platz gegen. Der Hund wäre frühestens sieben Monate nach dem Küchengespräch in Köln reisefähig gewesen, die Kinder sollten schon zum australischen Schuljahresbeginn da sein. Thomas und Sandra buchten deshalb zwei Flüge mit Absicht auseinander: erst die Familie, dann der Hund, mit einer Betreuung in Köln für die Lücke. Teurer als ein gemeinsamer Flug, aber der einzige Plan, der zur DAFF-Uhr passte.
+
+Der Container ist das zweite Thema, das Leute mit dem Koffer verwechseln. Unbegleitetes Umzugsgut wird von der Australian Border Force und der Biosicherheitskontrolle geprüft, nicht nur stichprobenartig am Flughafen. Was in der Kiste nichts zu suchen hat: Lebensmittel, auch vakuumiert und „doch nur für die erste Woche“, Samen, Honig, Erde an Wanderschuhen und Zelten, unbehandeltes Holz, auch als Brettspiel oder Bilderrahmen, wenn die Behörde es so einstuft. Eine Beanstandung kann Reinigung oder Behandlung bedeuten, und die zahlst du, während der Container liegt. Ob gebrauchte Möbel und Hausrat zollfrei hereinkommen, entscheidet die Border Force nach den aktuellen Regeln für unbegleitetes persönliches Umzugsgut. Nenne deinem Spediteur ehrlich, was in den Kisten ist. Eine Liste, die „Haushaltsgegenstände“ sagt und die Wanderschuhe verschweigt, ist die teure Variante.
+
+> **Spartipp:** Für die ersten zwei Monate reicht oft Luftfracht mit Kleidung, Unterlagen und dem, was die Kinder wirklich vermissen. Den Rest kaufst du vor Ort oder lässt ihn erst schicken, wenn die Wohnung feststeht. Ein Container, der drei Wochen auf eine Adresse wartet, die du noch nicht hast, spart kein Geld.
+
+> **Merke:** Apfel im Rucksack ist ein Gespräch an der Kontrolle. Hund ohne Genehmigung und Container mit Gartenerde sind ein anderes Verfahren, und beide beginnen in Deutschland.
+
 ### Plus und Minus
 
 | Plus | Minus |
@@ -91,6 +114,7 @@ Die folgende Übersicht ordnet die wichtigsten Schritte grob nach Zeitpunkt – 
 | SIM-Karten und Prepaid-Tarife unkompliziert und ohne Bonitätsprüfung | Wohnungsmarkt in Melbourne und Sydney sehr kompetitiv |
 | Permanent Residents haben ab Tag eins vollen Zugang zum Gesundheitssystem | Befristete Visa-Inhaber brauchen von Anfang an private Versicherung |
 | Biosecurity-Kontrolle gründlich, aber meist schnell erledigt | Strenge Deklarationspflicht bei Lebensmitteln und Naturprodukten |
+| Hund und Katze aus Deutschland sind grundsätzlich einfuhrfähig | Mindestens sechs Monate Vorlauf plus Quarantäne in Mickleham |
 
 ### Was jetzt zu tun ist
 
@@ -106,12 +130,15 @@ Kläre vor dem Abflug, welche Bank eine Online-Voreröffnung anbietet, richte di
 > - [ ] Bei befristetem Visum: private Versicherungspolice ab Ankunftstag aktiv
 > - [ ] Bewerbungsmappe für die Wohnungssuche zusammengestellt (Gehaltsnachweis, Referenzen, Ausweis)
 > - [ ] Biosecurity-Regeln vor dem Kofferpacken geprüft, nichts Undeklariertes im Gepäck
+> - [ ] Bei Hund oder Katze: Gruppe-3-Ablauf der DAFF begonnen, Identitätsprüfung vor dem RNATT, Importgenehmigung und Mickleham-Platz gebucht
+> - [ ] Containerliste ohne Lebensmittel, Samen, Erde und unbehandeltes Holz; Zollregeln für Umzugsgut auf der Seite der Border Force geprüft
 
 ### Quellen und weiterführende Links
 - Department of Home Affairs — Einreise, ImmiAccount: [immi.homeaffairs.gov.au](https://immi.homeaffairs.gov.au)
 - Australian Border Force — Biosecurity und Zoll bei der Einreise: [abf.gov.au](https://abf.gov.au)
+- Department of Agriculture, Fisheries and Forestry — Hunde und Katzen, Gruppe 3, Mickleham: [agriculture.gov.au/cats-dogs](https://www.agriculture.gov.au/cats-dogs)
 - Australian Taxation Office — Tax File Number: [ato.gov.au](https://ato.gov.au)
 - Services Australia — Anmeldung beim Gesundheitssystem: [servicesaustralia.gov.au](https://servicesaustralia.gov.au)
 - Deutsche Vertretungen in Australien: [australien.diplo.de](https://australien.diplo.de)
 
-> **Stand:** 23.09.2026. Diese Angaben ändern sich schnell: Biosecurity- und Zollregeln, TFN-Verfahren, Bankkonditionen für Neuankömmlinge sowie die Anmeldung beim Gesundheitssystem. Prüfe vor der Einreise die aktuellen Seiten von Home Affairs, Australian Border Force und Services Australia.
+> **Stand:** 23.09.2026. Diese Angaben ändern sich schnell: Biosecurity- und Zollregeln, die Quarantänedauer und die Länderliste für Hunde und Katzen, TFN-Verfahren, Bankkonditionen für Neuankömmlinge sowie die Anmeldung beim Gesundheitssystem. Prüfe vor der Einreise die aktuellen Seiten von Home Affairs, Australian Border Force, der DAFF und Services Australia.

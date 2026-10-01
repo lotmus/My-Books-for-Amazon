@@ -1,18 +1,18 @@
-# BUCHBIBEL — „Auswandern in die USA“
+# BUCHBIBEL — „Auswandern“
 
-**Arbeitstitel:** *Auswandern in die USA – Die Bibel für Umzug, Visum und Ankommen*
-**Untertitel (Arbeitsstand):** *Visum und Green Card, Umzug und Kosten, Wohnen und Hypothek, Steuern, Schule, Freunde und Kultur: Alles, was du vor, während und nach dem Umzug von Deutschland in die USA wissen musst.*
-**Autor:** Lothar J. Musiol · **Sprache:** Deutsch · **Stand aller Fakten:** September 2026 (Schreibdatum 20.09.2026)
+**Arbeitstitel:** *Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?*
+**Untertitel (Arbeitsstand):** *Visa und Aufenthaltstitel, Umzug und Kosten, Wohnen und Steuern, Schule, Freunde und Kultur: Alles, was du vor, während und nach dem Umzug von Deutschland in die USA, nach Kanada, Australien oder Neuseeland wissen musst.*
+**Autor:** Lothar J. Musiol · **Sprache:** Deutsch · **Stand aller Fakten:** September 2026
 
-Diese Datei ist der **verbindliche Vertrag** für alle Kapitel-Autoren. Wer ein Kapitel schreibt, hält sich an sie — auch dort, wo er es anders schöner fände. Einheitlichkeit über 42 Kapitel ist wichtiger als individuelle Handschrift.
+Diese Datei ist der **verbindliche Vertrag** für alle Kapitel-Autoren. Wer ein Kapitel schreibt, hält sich an sie — auch dort, wo er es anders schöner fände. Der USA-Teil ist der längste. Kanada, Australien und Neuseeland sind eigene Teile mit derselben Mechanik. Die gemeinsamen deutschen Schritte stehen im Universal-Kapitel „Deutschland vor dem Abflug“, nicht nur in den USA-Kapiteln 16 bis 19.
 
 ---
 
 ## 1. Das Buch in einem Absatz
 
-Ein umfassendes Nachschlagewerk und Lesebuch für Deutsche (auch Österreicher und Schweizer, Fokus Deutschland), die in die USA ziehen wollen oder es erwägen. Es ist eine **„Bibel der Plus- und Minuspunkte“**: Zu jedem Thema zeigt es ehrlich beide Seiten, sagt konkret, **worauf man achten muss**, **was es kostet**, **wie man spart**, **was man wann tut** — vor dem Abflug in Deutschland, beim Umzug, bei der Ankunft und in den ersten Jahren.
+Ein Nachschlagewerk für Deutsche, die einen Umzug in die USA, nach Kanada, Australien oder Neuseeland prüfen. Es ist eine **„Bibel der Plus- und Minuspunkte“**: Zu jedem Thema zeigt es ehrlich beide Seiten, sagt konkret, **worauf man achten muss**, **was man wann tut** — vor dem Abflug in Deutschland, beim Umzug, bei der Ankunft und in den ersten Jahren. Wo eine Gebühr oder Altersgrenze sich ändert, nennt das Kapitel die Behörde und kein ewiges Versprechen.
 
-**Leser:** Erwachsene, 25–55, meist Fachkräfte (Ingenieure, IT, Wissenschaft, Medizin, Finanzen, Technik/Handwerk), oft mit Partner und Kindern. Der typische Weg: **über den Arbeitgeber** (H-1B, L-1), **über ein Studium** (F-1 → OPT → H-1B) oder später **Green Card**. Keine Vorkenntnisse zu US-Recht, US-Steuern oder US-Alltag. Das Buch ist **kein Reiseführer** und **kein Rechtsberater**, sondern der Ratgeber, den man gern gehabt hätte.
+**Leser:** Erwachsene, meist Fachkräfte, oft mit Partner und Kindern. Der typische Weg hängt vom Land ab: in den USA über den Arbeitgeber oder ein Studium, in den drei anderen Ländern über Punkte, Arbeitgeber oder einen befristeten Seiteneingang, der kein Daueraufenthalt ist. Das Buch ist **kein Reiseführer** und **kein Rechtsberater**.
 
 **Leitprinzipien**
 1. **Ehrlichkeit vor Werbung.** Weder „Amerika-Schwärmerei“ noch Abschreckung. Beides — Plus und Minus — wird belegt und eingeordnet.

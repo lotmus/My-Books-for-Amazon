@@ -145,7 +145,7 @@ def add_table(doc, rows):
             text = row[j] if j < len(row) else ""
             add_inlines(paragraph, text)
             for run in paragraph.runs:
-                run.font.size = Pt(10)
+                run.font.size = Pt(10.5)
                 run.font.name = "Calibri"
                 if i == 0:
                     run.bold = True
@@ -156,7 +156,7 @@ def add_table(doc, rows):
 
 def column_widths(cols):
     if cols == 4:
-        return [1.15, 1.35, 1.9, 1.2]
+        return [1.05, 1.2, 2.2, 1.15]
     if cols == 3:
         return [1.5, 1.5, 2.6]
     share = 5.6 / cols
@@ -205,9 +205,13 @@ def parse_blocks(text):
                 blocks.append(("image", match.group(2), match.group(1)))
                 i += 1
                 continue
+        if line.startswith(">"):
+            blocks.append(("callout", line.lstrip(">").strip()))
+            i += 1
+            continue
         paragraph = [line]
         i += 1
-        while i < len(lines) and lines[i].strip() and not lines[i].startswith(("#", "|", "- ", "!")) and not re.match(r"\d+\. ", lines[i]) and lines[i].strip() != "---":
+        while i < len(lines) and lines[i].strip() and not lines[i].startswith(("#", "|", "- ", "!", ">")) and not re.match(r"\d+\. ", lines[i]) and lines[i].strip() != "---":
             paragraph.append(lines[i].rstrip())
             i += 1
         blocks.append(("p", " ".join(paragraph).strip()))
@@ -245,18 +249,81 @@ def add_body(doc, blocks, number, base):
                 paragraph = doc.add_paragraph(style="List Bullet")
                 add_inlines(paragraph, item)
         elif kind == "numbers":
+            num_id = new_restarted_num(doc)
             for item in block[1]:
                 paragraph = doc.add_paragraph(style="List Number")
+                if num_id:
+                    force_num(paragraph, num_id)
                 add_inlines(paragraph, item)
+        elif kind == "callout":
+            add_callout(doc, block[1])
         elif kind == "table":
             add_table(doc, block[1])
         elif kind == "image":
             add_picture(doc, block[1], block[2], base)
 
 
+def add_callout(doc, text):
+    table = doc.add_table(rows=1, cols=1)
+    table.autofit = False
+    table.allow_autofit = False
+    cell = table.cell(0, 0)
+    set_cell_width(cell, 5.6)
+    shade(cell, "F3F1EA")
+    cell.text = ""
+    paragraph = cell.paragraphs[0]
+    paragraph.paragraph_format.space_after = Pt(2)
+    paragraph.paragraph_format.space_before = Pt(2)
+    add_inlines(paragraph, text)
+    for run in paragraph.runs:
+        run.font.size = Pt(11)
+        run.font.name = "Calibri"
+    doc.add_paragraph()
+
+
+def new_restarted_num(doc):
+    numbering = doc.part.numbering_part._element
+    nums = numbering.findall(qn("w:num"))
+    if not nums:
+        return None
+    source = next((n for n in nums if n.get(qn("w:numId")) == "5"), nums[-1])
+    abstract = source.find(qn("w:abstractNumId"))
+    if abstract is None:
+        return None
+    new_id = max(int(n.get(qn("w:numId"))) for n in nums) + 1
+    num = OxmlElement("w:num")
+    num.set(qn("w:numId"), str(new_id))
+    abs_el = OxmlElement("w:abstractNumId")
+    abs_el.set(qn("w:val"), abstract.get(qn("w:val")))
+    num.append(abs_el)
+    override = OxmlElement("w:lvlOverride")
+    override.set(qn("w:ilvl"), "0")
+    start = OxmlElement("w:startOverride")
+    start.set(qn("w:val"), "1")
+    override.append(start)
+    num.append(override)
+    numbering.append(num)
+    return str(new_id)
+
+
+def force_num(paragraph, num_id):
+    pPr = paragraph._p.get_or_add_pPr()
+    existing = pPr.find(qn("w:numPr"))
+    if existing is not None:
+        pPr.remove(existing)
+    numPr = OxmlElement("w:numPr")
+    ilvl = OxmlElement("w:ilvl")
+    ilvl.set(qn("w:val"), "0")
+    nid = OxmlElement("w:numId")
+    nid.set(qn("w:val"), num_id)
+    numPr.append(ilvl)
+    numPr.append(nid)
+    pPr.append(numPr)
+
+
 def insert_contents(doc):
-    headings = [p for p in doc.paragraphs if p.style.name == "Heading 1"]
-    first = headings[0]
+    headings = [p for p in doc.paragraphs if p.style.name in ("Heading 1", "Heading 2")]
+    first = next(p for p in headings if p.style.name == "Heading 1")
     contents_el = OxmlElement("w:p")
     first._p.addprevious(contents_el)
     contents = Paragraph(contents_el, first._parent)
@@ -266,7 +333,7 @@ def insert_contents(doc):
     for i, heading in enumerate(headings):
         start = OxmlElement("w:bookmarkStart")
         start.set(qn("w:id"), str(i + 1))
-        start.set(qn("w:name"), f"ch{i}")
+        start.set(qn("w:name"), f"toc{i}")
         heading._p.insert(0, start)
         end = OxmlElement("w:bookmarkEnd")
         end.set(qn("w:id"), str(i + 1))
@@ -275,8 +342,10 @@ def insert_contents(doc):
         last._p.addnext(p_el)
         last = Paragraph(p_el, first._parent)
         last.style = doc.styles["Normal"]
+        if heading.style.name == "Heading 2":
+            last.paragraph_format.left_indent = Inches(0.3)
         link = OxmlElement("w:hyperlink")
-        link.set(qn("w:anchor"), f"ch{i}")
+        link.set(qn("w:anchor"), f"toc{i}")
         run = OxmlElement("w:r")
         rPr = OxmlElement("w:rPr")
         rFonts = OxmlElement("w:rFonts")
@@ -284,7 +353,7 @@ def insert_contents(doc):
         rFonts.set(qn("w:hAnsi"), "Calibri")
         rPr.append(rFonts)
         sz = OxmlElement("w:sz")
-        sz.set(qn("w:val"), "22")
+        sz.set(qn("w:val"), "20" if heading.style.name == "Heading 2" else "22")
         rPr.append(sz)
         color = OxmlElement("w:color")
         color.set(qn("w:val"), "1F4E79")
@@ -311,12 +380,14 @@ def main():
         doc.styles[name].font.name = "Calibri"
         doc.styles[name].font.color.rgb = RGBColor(0, 0, 0)
     doc.styles["Normal"].font.size = Pt(11)
-    doc.styles["Normal"].paragraph_format.space_after = Pt(7)
-    doc.styles["Normal"].paragraph_format.line_spacing = 1.08
+    doc.styles["Normal"].paragraph_format.space_after = Pt(8)
+    doc.styles["Normal"].paragraph_format.line_spacing = 1.15
     doc.styles["Title"].font.size = Pt(32)
     doc.styles["Heading 1"].font.size = Pt(21)
     doc.styles["Heading 1"].paragraph_format.page_break_before = True
     doc.styles["Heading 2"].font.size = Pt(14)
+    doc.styles["Heading 2"].paragraph_format.space_before = Pt(12)
+    doc.styles["Heading 2"].paragraph_format.space_after = Pt(6)
 
     doc.add_paragraph("Your First YouTube\nChannel That Sells", "Title")
     doc.add_paragraph(
@@ -333,6 +404,19 @@ def main():
 
     for number, path in ORDER:
         add_body(doc, parse_blocks(path.read_text(encoding="utf-8")), number, path.parent)
+
+    doc.add_paragraph("Glossary", "Heading 1")
+    glossary_intro = doc.add_paragraph()
+    add_inlines(
+        glossary_intro,
+        "Short definitions for terms this book uses. A definition here is not a substitute for the platform page cited in the chapter.",
+    )
+    for term, definition in GLOSSARY:
+        paragraph = doc.add_paragraph()
+        run = paragraph.add_run(term + ". ")
+        run.bold = True
+        run.font.name = "Calibri"
+        add_inlines(paragraph, definition)
 
     doc.add_paragraph("Official sources and updates", "Heading 1")
     for text in SOURCES:
@@ -359,7 +443,7 @@ START = [
     "A channel that sells has one thing a stranger can buy. Views, subscribers, and a monetization badge are not that thing. This book is the path from no offer to a small set of videos that point at one price.",
     "Read it in order if you are starting. If you already post, use the last chapter to find the earliest break, then go to the chapter that fixes that break.",
     "Chapter 1 names the buyer and the single offer, and puts a price on a page before you film.",
-    "Chapter 2 wins the click: titles, descriptions, tags, captions, and a posting rhythm you can keep. Ranking claims are labeled as creator consensus, not platform formulas.",
+    "Chapter 2 wins the click: titles, descriptions, tags, captions, and a posting rhythm you can keep. Where a YouTube help page is cited, that page is the source. Anything else about ranking is labeled as creator consensus.",
     "Chapter 3 makes the videos cheaply enough that you can continue, and tells you which licenses you still have to read.",
     "Chapter 4 is the first eight videos, each with one job, including the video that states the offer.",
     "Chapter 5 is how money actually arrives: platform programs, their thresholds, and affiliate links. Ad revenue is extra. It is not the offer.",
@@ -370,10 +454,40 @@ START = [
 SOURCES = [
     "These notes support the claims in the chapters. Planning methods, worksheets, and creator-consensus tactics are editorial guidance, not platform requirements. The sample conversion figures are arithmetic placeholders, not measured rates. Accessed September 2026.",
     "*Chapters 1, 4, and 6 through 9 are a selling path: one offer, eight videos, a six-week calendar, wording, a workbook, and a diagnosis when nothing sells. They state no ranking formula.*",
-    "*Chapter 2. YouTube Studio’s upload interface for title, description, and tag limits, and the captions workflow. YouTube’s advertiser-friendly content guidelines, for the existence of a sensitive-content category. Retention benchmarks and posting cadence are creator consensus, not published platform figures.*",
-    "*Chapter 3. Tool names and URLs come from working bookmark lists. Pricing, licenses, and features change. Specific personal projects were not used.*",
-    "*Chapter 5. YouTube Partner Program requirements were checked against YouTube’s own monetization guidance. Other platforms were checked against their own creator or help pages. Dailymotion’s requirements could not be confirmed to the same standard and are flagged in the chapter. Affiliate-link placement is creator consensus plus a disclosure habit, not a promise of income.*",
+    "*Chapter 2. Title, description, and tag limits, captions, thumbnails, the title-and-thumbnail test, audience retention, recommendation signals, the recommendation system, Shorts discovery, Shorts analytics, and series playlists are cited to YouTube’s own help pages in the chapter. The four-long-and-six-shorts month is a production load, not a YouTube quota. Advertiser-friendly guidelines are cited for the existence of a sensitive-content category. The exact words that trigger it are not published.*",
+    "*Chapter 3. Tool names and URLs come from working bookmark lists. Export bitrates, codec, and sample rate are YouTube’s recommended upload encoding settings. The Audio Library location is YouTube’s own help page. A higher-resolution upload getting a better playback encode is creator talk, and the chapter says so. Pricing, licenses, and features change. Specific personal projects were not used.*",
+    "*Chapter 5. YouTube Partner Program requirements were checked against YouTube’s own monetization guidance. Other platforms were checked against their own creator or help pages. Dailymotion’s requirements could not be confirmed to the same standard and are flagged in the chapter. Affiliate-link placement is creator consensus plus a disclosure habit, not a promise of income. Using one offer on every site is editorial. Instagram’s link sticker and TikTok’s profile-website page are cited in the chapter. Confirm each tap on a phone.*",
     "Independent guide. Not affiliated with or endorsed by YouTube or any other platform named here. Not legal or tax advice. Check current official terms before acting.",
+    "Pages cited in the chapters, so you can open them:",
+    "[YouTube recommended upload encoding settings](https://support.google.com/youtube/answer/1722171) — bitrate, H.264, AAC-LC, 48 kHz.",
+    "[YouTube Audio Library](https://support.google.com/youtube/answer/3376882) — where the library lives, and that its tracks are the ones YouTube calls copyright-safe.",
+    "[YouTube Partner Program eligibility](https://support.google.com/youtube/answer/72851), [monetization products](https://support.google.com/youtube/answer/94522), [which links are clickable](https://support.google.com/youtube/answer/13748639), [cards](https://support.google.com/youtube/answer/6140493), [end screens](https://support.google.com/youtube/answer/6388789).",
+    "[Instagram, editing your profile](https://help.instagram.com/936495066470190/) — lists adding a website to the profile. [Instagram link sticker](https://help.instagram.com/192168966243613) — a sticker on an organic Story can send a tap to a website.",
+    "[TikTok, adding a website to your profile](https://support.tiktok.com/en/getting-started/setting-up-your-profile/adding-a-website-to-your-profile) — whether the control appears is on that page.",
+    "[FTC Endorsement Guides, 16 CFR Part 255](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255) and [Disclosures 101 for Social Media Influencers](https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers).",
+    "[Decoder interview with Marques Brownlee, The Verge, January 2021](https://www.theverge.com/22231657/mkbhd-marques-brownlee-interview-youtube-creator-influencer-decoder). [Recode Media transcript, April 2018](https://www.vox.com/2018/4/16/17241282/transcript-youtube-creator-marques-brownlee-mkbhd). [Andrew Rea, Mashed](https://www.mashed.com/612523/andrew-rea-tells-us-how-binging-with-babish-got-started-exclusive-interview/). [Ali Abdaal, Mixergy](https://mixergy.com/interviews/youtubes-most-popular-productivity-creator/). [Hannah Hart, The Verge, 19 October 2016](https://www.theverge.com/2016/10/19/13315924/hannah-hart-interview-youtube-buffering-my-drunk-kitchen).",
+]
+
+GLOSSARY = [
+    ("Advanced features", "The Studio switch that makes an address in a long-form description, and in a long-form comment, clickable. Phone verification comes first. A Short’s description and comments stay unclickable after it is on."),
+    ("Qualified watch hours", "Public long-form viewing that YouTube counts toward the hour bars. Hours watched in the Shorts feed do not count. Private, unlisted, deleted, and ad-campaign views do not count."),
+    ("Expanded program", "In countries where YouTube has opened it, the earlier gate: 500 subscribers, three public uploads in 90 days, and either 3,000 long-form hours in a year or 3 million Shorts views in 90 days. Fan funding and Shopping. Not a share of watch-page ads."),
+    ("YouTube Partner Program", "The higher gate: 1,000 subscribers and either 4,000 long-form hours in 12 months or 10 million qualified Shorts views in 90 days. This is the gate that adds watch-page ads, Shorts Feed ads, and YouTube Premium revenue. The follower-floor chart’s YouTube bar is this gate."),
+    ("End screen", "An element in the last 5 to 20 seconds of a video at least 25 seconds long. One that opens a site outside YouTube requires the Partner Program."),
+    ("Info card", "A small panel attached to the video. One that opens a site outside YouTube also requires the Partner Program."),
+    ("AdSense", "The Google account YouTube uses to pay a channel it has accepted. Meeting a subscriber number does not open it. You apply, and YouTube reviews the channel."),
+    ("H.264", "The video codec named in YouTube’s recommended upload settings for an MP4. The audio codec named beside it is AAC-LC."),
+    ("9:16", "The vertical frame for a Short: 1080 pixels wide by 1920 tall. A horizontal video is 16:9, 1920 by 1080."),
+    ("Affiliate link", "A link that pays you if the viewer buys. Say so next to the link. The FTC pages in the sources list are the U.S. disclosure guidance this book points at."),
+    ("Closed captions", "A text track the viewer can turn on or off. The words can be searched. They are not burned into the picture."),
+    ("Burned-in captions", "Words that are part of the picture. They stay on. They are a different choice from closed captions."),
+    ("Series playlist", "A playlist YouTube can feature as the next video while someone is watching one of yours. The account has to be verified, the videos have to be yours, and a video can sit in only one series playlist."),
+    ("Fader", "The volume slider in an editor. A music fader at about a tenth to a fifth of the way up is a position on that slider, not a measurement of loudness."),
+    ("Text-to-speech", "A tool that reads a script aloud. Usable when the voice is not a clone of someone else. Cloning someone else’s voice is a consent question the tool does not answer for you."),
+    ("Stock license", "The terms on one clip or track. “Free” and “free to use commercially” are different sentences. Read the line on that file before you publish it, including on a second site."),
+    ("Offer page", "The page where a stranger sees the price and pays or books. The video is not that page unless the platform gives you a product shelf you are allowed to use."),
+    ("Short", "A vertical video, 1080 by 1920. On YouTube, an address in a Short’s description or comments is not clickable. A Short can point at a long video. It cannot be the checkout."),
+    ("Qualified Shorts views", "Public views of Shorts in the Shorts feed that YouTube counts toward the Shorts bars: 3 million in 90 days for the expanded program, or 10 million in 90 days for the Partner Program. They do not fill the long-form hour bars."),
 ]
 
 

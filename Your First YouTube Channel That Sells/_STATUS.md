@@ -2,7 +2,7 @@
 
 ## Current state
 
-Last updated: 2026-09-30 — nine chapters, order fixed in `build_docx.py`. Chapter 1 is *Sell One Thing*. The click chapter is chapter 2. Production is chapter 3. The eight selling videos are chapter 4. Platform money is chapter 5. Then the six-week calendar, the wording, the workbook, and the diagnosis when nothing sells. The Word file matches that list. Pull request #36 (the original three chapters) is already merged. The notes below are the session history; where they still say the book is three chapters or that chapter order is open, this section wins.
+Last updated: 2026-09-30 — nine chapters, order fixed in `build_docx.py`. Chapter 1 is *Sell One Thing*. The click chapter is chapter 2. Production is chapter 3. The eight selling videos are chapter 4. Platform money is chapter 5. Then the six-week calendar, the wording, the workbook, and the diagnosis when nothing sells. The Word file is the whole book: those nine chapters, a glossary, and a source list. Chapter 1 names the shapes of the one offer. Chapter 3 states tool prices as research to confirm, not as a budget, and says a license that names YouTube does not automatically cover another site. Chapter 4 includes Hannah Hart’s first year on a webcam, from The Verge, beside the three earlier interviews. Chapter 5 cites Instagram’s link sticker and TikTok’s profile-website help, and drops the uncited claim that an in-video tag converts better. The workbook has the file example and a hypothetical call, plus a phone-tap line. Line spacing in the Word file is 1.15. Pull request #36 is already merged. Where an older note says the book is three chapters or that chapter order is open, this section wins.
 
 ## History
 

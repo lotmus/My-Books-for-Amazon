@@ -22,6 +22,7 @@ Read the guide before editing. Re-count the live file if its size or paragraph c
 
 - Curly quotes only. Reset quote state at each paragraph. A quote right after an em dash closes. Do not collapse runs in a paragraph that has a hyperlink.
 - New prose inserted after a heading must be set to Body Text. Cloning a heading's style puts the new paragraph in the Kindle contents.
-- Book 2 glossary entries and bibliography entries are Body Text. Only the two headings `Glossary` and `Bibliography` are Heading 2.
+- Book 2 glossary entries and bibliography entries are Body Text. Heading 2 in the back is `The Lectures`, `Lecture. Chapter One` through `Lecture. Chapter Sixteen`, `Glossary`, and `Bibliography`.
+- The lectures stay after Q.E.D., in chapter order. Do not put `You need first`, `When you walk out`, `Start here`, or `The idea, step by step` back into the chapters.
 - Do not restore Book 2 working titles, one-line summaries, "Stop. Before you go on", or continuity notes. Those deletions stop before "The Permitted Options ends here" and "Q.E.D."
 - Do not commit or push unless the user asks. Parent git root is `My Books for Amazon`. Do not force-push.

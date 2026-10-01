@@ -119,6 +119,8 @@ Beginne mit der Bestandsaufnahme: Lass deinen Abschluss über eine anerkannte St
 > - [ ] Prüfen, ob ein befristetes Arbeitsvisum als schnellerer Zwischenschritt infrage kommt
 > - [ ] Bei knappem Score: Französischkenntnisse als zusätzlichen Hebel erwägen
 > - [ ] Vor jeder Entscheidung aktuelle Cutoffs und Gebühren auf canada.ca prüfen
+> - [ ] ECA nicht mit der Provinzlizenz verwechseln: [Anerkennung deutscher Berufsabschlüsse](#tka17)
+> - [ ] Abmeldung und Rente über [Deutschland vor dem Abflug](#t0003) planen
 
 ### Quellen und weiterführende Links
 
