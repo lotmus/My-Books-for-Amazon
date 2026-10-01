@@ -1,5 +1,7 @@
 # Book Spine — Locked Constraints
 
+Shared series reference for both Look First books: `00_Series_Reference.md`. This spine is Book 1 only.
+
 **Title:** *The Universe Has No Now*
 **Subtitle:** *Time, Origins, and Whether We Can Get Somewhere Else*
 **Author:** Lothar J. Musiol

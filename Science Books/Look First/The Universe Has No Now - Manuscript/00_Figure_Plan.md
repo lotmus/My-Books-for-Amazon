@@ -33,7 +33,7 @@ Caption: one sentence what it is, one sentence what to notice. Credit on its own
 
 | Fig | Ch | Kind | Kindle picture |
 |---|---|---|---|
-| 1 | 1 | **Photo** | One kitchen (empty still OK). Caption tells the reader to put two people in it — one walking, one still. |
+| 1 | 1 | **Photo** | One kitchen, empty on purpose. The two people are the lesson, not a missing photograph. |
 | 2 | 2 | **Diagram** | One large dot. Four large labels: *x y z t*. |
 | 3 | 3 | **Photo** | The Sun, disk filling most of the frame (SOHO/SDO). Caption: eight minutes old. |
 | 4 | 4 | **Photo** | Andromeda **cropped to the bright disk**. |

@@ -271,7 +271,22 @@ def _run(par, s, bold, italic, sup, sub, size):
         if m.start() > pos:
             _emit(par, s[pos:m.start()], bold, italic, sup, sub, size)
         if m.group(2):
-            key, label = m.group(2), m.group(1) + m.group(2)
+            chunk = m.group(1) + m.group(2)
+            local = 0
+            for nm in re.finditer(r"\d+", chunk):
+                if nm.start() > local:
+                    _emit(par, chunk[local:nm.start()], bold, italic, sup, sub, size)
+                key = nm.group(0)
+                anchor = XREF_ANCHORS.get(key)
+                if anchor:
+                    add_internal_link(par, key, anchor, bold=bold, size=size)
+                else:
+                    _emit(par, key, bold, italic, sup, sub, size)
+                local = nm.end()
+            if local < len(chunk):
+                _emit(par, chunk[local:], bold, italic, sup, sub, size)
+            pos = m.end()
+            continue
         elif m.group(4):
             key, label = m.group(4), m.group(3) + m.group(4)
         elif m.group(6):
@@ -316,7 +331,10 @@ def add_internal_link(par, text, anchor, bold=False, size=None):
 
 # Filled in build() from heading bookmarks. Keys: "31", "A31".
 XREF_ANCHORS = {}
-XREF_RE = re.compile(r"(Chapter\s+)(\d+)|(\bAppendix\s+)(A\d+)|(\bCh\.\s*)(\d+)|(\b)(A\d+)(?=\b)")
+XREF_RE = re.compile(
+    r"(Chapters?\s+)(\d+(?:\s+(?:and|through)\s+\d+)*)|"
+    r"(\bAppendix\s+)(A\d+)|(\bCh\.\s*)(\d+)|(\b)(A\d+)(?=\b)"
+)
 
 def page_break(doc):
     p = doc.add_paragraph(); p.add_run().add_break(WD_BREAK.PAGE)

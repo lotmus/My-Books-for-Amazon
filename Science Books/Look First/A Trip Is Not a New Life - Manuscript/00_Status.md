@@ -1,6 +1,6 @@
 # Status — *A Trip Is Not a New Life*
 
-**Current, 30 September 2026.** Handover: `../HANDOVER.md`. The part files win if this log disagrees.
+**Current, 30 September 2026.** Shared series reference: `../00_Series_Reference.md`. Handover: `../HANDOVER.md`. The part files win if this log disagrees.
 
 Book 1 teaches the crew and the library again in its own chapters 31 and 32. Those chapters are lessons, not bridges. This book keeps the same subjects as chapters 25 and 26. Do not tell Book 1 to cut them back.
 
@@ -37,4 +37,4 @@ Date pass, kitchen 29 September 2026: Artemis II flew in April 2026. The heat-sh
 
 ## Not done
 
-A human pass in the KDP previewer before upload. The single tank-to-tank transfer was not re-opened in this kitchen. The old `.docx` files in the absorbed folders are the previous separate editions. Do not restore the deleted three-book Series Plan, and do not renumber the appendix again. Popular chapters keep “a landing attempt in the 2030s.”
+Chapter 17 and chapters 28, 33, 37, 39, and 41 gained a worked pass on 30 September 2026: the hours a suit day actually yields, the decade left after eighty, a mouse cage that is not a Tuesday, smallpox finished against measles unfinished, ten thousand divided by fifty run backward to the year 11900, and the food a sleeping crew would not eat. Classroom chapters 18 through 24 gained a worked pass the same day: watt-hours for the fortnight, the heat to melt and crack ice, a brush that only moves charged dust, the walk to the storm hat, the propellant reserved for the ride home, two drills in one hollow, and the decade of staff the rocket photograph crops. A human pass in the KDP previewer before upload. The single tank-to-tank transfer was not re-opened in this kitchen. The old `.docx` files in the absorbed folders are the previous separate editions. Do not restore the deleted three-book Series Plan, and do not renumber the appendix again. Popular chapters keep “a landing attempt in the 2030s.” The same day, the second telling in the classroom chapters was cut, the rearview no longer hides the ratio in a nearer century, definition lines that began with “where” were turned into sentences, and the new sums were written into A17, A18, A19, A28, A37, A39, and A41. On 30 September 2026 the repeated chapter-exit paragraph was rewritten for each chapter, the stray ending after Chapter 33 was removed, the ice warming sum stopped using warm-ice heat capacity at tens of kelvin, the station-class suit donning hour replaced the unsourced several minutes, remaining life at eighty was tied to the Social Security Administration 2023 period life table, and the torpor note now cites Dankiewicz 2021, Lascarrou 2019, and Su 2008.

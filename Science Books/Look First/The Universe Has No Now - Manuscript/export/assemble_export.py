@@ -243,18 +243,49 @@ def run_pandoc(pandoc: str, text_path: str) -> list[str]:
     return built
 
 
+def _write_text(path: str, text: str) -> str:
+    """Write text. If OneDrive locks the canonical path, write beside it and replace."""
+    try:
+        with open(path, "w", encoding="utf-8", newline="\n") as f:
+            f.write(text)
+        return path
+    except OSError as err:
+        side = path + ".rebuilt"
+        print("locked", path, err, "->", side)
+        with open(side, "w", encoding="utf-8", newline="\n") as f:
+            f.write(text)
+        try:
+            os.replace(side, path)
+            return path
+        except OSError:
+            return side
+
+
 def run_build_docx() -> str | None:
     script = os.path.join(SRC, "Figures", "build_docx.py")
-    r = subprocess.run([sys.executable, script, OUT_DOCX], capture_output=True, text=True)
+    dest = OUT_DOCX
+    r = subprocess.run([sys.executable, script, dest], capture_output=True, text=True)
     print(r.stdout)
     print(r.stderr)
-    return OUT_DOCX if r.returncode == 0 and os.path.exists(OUT_DOCX) else None
+    if r.returncode != 0 or not os.path.exists(dest):
+        side = os.path.join(HERE, "The_Universe_Has_No_Now_rebuilt.docx")
+        r = subprocess.run([sys.executable, script, side], capture_output=True, text=True)
+        print(r.stdout)
+        print(r.stderr)
+        if r.returncode == 0 and os.path.exists(side):
+            try:
+                os.replace(side, dest)
+                return dest
+            except OSError:
+                return side
+        return None
+    return dest
 
 
-def build_epub(pandoc: str) -> bool:
+def build_epub(pandoc: str, md_path: str = OUT_MD) -> bool:
     cmd = [
         pandoc,
-        OUT_MD,
+        md_path,
         "--from",
         "markdown+raw_tex+tex_math_dollars",
         "--toc",
@@ -334,11 +365,10 @@ def main() -> int:
     build_epub_too = "--with-epub" in sys.argv  # author wants docx only (26 Sep 2026); epub is opt-in now
     os.makedirs(HERE, exist_ok=True)
     text, missing = assemble()
-    with open(OUT_MD, "w", encoding="utf-8", newline="\n") as f:
-        f.write(text)
+    md_path = _write_text(OUT_MD, text)
     wc = word_count(text)
     inv = inventory_from_text(text)
-    print("assembled", OUT_MD)
+    print("assembled", md_path)
     print("words", wc)
     print("missing figure files", missing)
     print("md_images", inv["md_images"], "drawn", len(inv["drawn"]),
@@ -366,11 +396,11 @@ def main() -> int:
         if pandoc:
             # Never let pandoc overwrite a sibling-owned python-docx Word file.
             if skip_docx or os.path.isfile(OUT_DOCX):
-                epub_ok = build_epub(pandoc)
+                epub_ok = build_epub(pandoc, md_path)
                 if epub_ok:
                     built.append(OUT_EPUB)
             else:
-                built.extend(run_pandoc(pandoc, OUT_MD))
+                built.extend(run_pandoc(pandoc, md_path))
                 epub_ok = os.path.isfile(OUT_EPUB)
         else:
             print("pandoc not found")

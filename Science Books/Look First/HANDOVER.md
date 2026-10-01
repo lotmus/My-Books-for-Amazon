@@ -1,6 +1,6 @@
 # Handover — *The Universe Has No Now*
 
-**Scope.** This note is the Look First series only, and this book only: *The Universe Has No Now*. Folder: `The Universe Has No Now - Manuscript`. Author: Lothar J. Musiol. 45 chapters, notes A0–A45.
+**Scope.** This note is the Look First series only, and this book only: *The Universe Has No Now*. Folder: `The Universe Has No Now - Manuscript`. Author: Lothar J. Musiol. 45 chapters, notes A0–A45. Shared rules for both books: `00_Series_Reference.md`.
 
 The parent repo (`My Books for Amazon`) holds other series. They are not this job. Do not edit them from this handover.
 
@@ -24,7 +24,7 @@ PowerShell does not accept `&&`. Do not pass inline Python that contains a regex
 
 Chapters 31 and 32 are full lessons in `06_Part_Six_Getting_There.md` (headings at “31. Crews That Do Not Sleep” and “32. A Library of Earth”). Appendix A31 and A32 hold the numbers. Do not shorten them. Do not put back the sentence “The full classroom now lives in…”.
 
-Stamp: **111,305** words in `export\WORD_COUNT.txt`.
+Stamp: **113,624** words in `export\WORD_COUNT.txt` (30 Sep 2026). The docx and the EPUB were rebuilt from the same markdown.
 
 KDP ingest is the docx:
 

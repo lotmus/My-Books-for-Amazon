@@ -245,7 +245,9 @@ Tidal habitable zones are, then, a second map, larger and stranger than Goldiloc
 
 We have a sample size of one.
 
-That sentence is the whole sport of exobiology, and it is why the sport is mostly a discipline of *not* lying to yourself. Life, as we have actually met it, is a water-and-carbon trick that copies, mutates, and lets death keep the score. It uses a handful of amino acids with a preferred handedness, a genetic script written in four letters, and a metabolism that eats gradients — light, redox, leftover rock. Whether that is the only trick the universe knows is not a question you answer from an armchair. It is a question you answer with a yes that can be wrong, or a no that can be shy.
+The length of this chapter is a path, not a pile. A slope, and what a second trunk would eat. Sex as a shuffle, not forever. One grandmother, and why the dictionary froze. Body plans that lost, and why a colleague will not look like us. Cities that will not look like ours. Doors this rock never opened: wheels, glass bones, caves, vents. Then the solvents, Titan included. Then varieties, immigrants, and a visitor who files the cars and misses the mite. Appendix A30 holds the meshes. Hold the path, and read the rooms.
+
+Sample size one is the whole sport of exobiology, and it is why the sport is mostly a discipline of *not* lying to yourself. Life, as we have actually met it, is a water-and-carbon trick that copies, mutates, and lets death keep the score. It uses a handful of amino acids with a preferred handedness, a genetic script written in four letters, and a metabolism that eats gradients — light, redox, leftover rock. Whether that is the only trick the universe knows is not a question you answer from an armchair. It is a question you answer with a yes that can be wrong, or a no that can be shy.
 
 Food is not a sandwich. Food is a slope.
 
@@ -309,7 +311,7 @@ It does not even owe us one shape of mind. Earth hired two good ones in water �
 
 A mind need not be a skull. A slime mold solves a maze without a neuron. A mycelium is a room-sized conversation in sugar. A siphonophore is a committee that forgot it was a committee. A world that hired the web, not the head — a thing that thinks by touching, that is only itself when it is plugged into itself — would fail every test that looks for a face. We would call it weather, or a cable, or a plague.
 
-Blood need not be iron. Octopuses already use copper. Green blood, blue blood, blood that is a slurry of magnetite: those are staffing choices. A third sex, a caste that exists only to unlock a genome, a child that imprints on a smell and calls that smell parent — Earth has sketches. Another lottery could ink them.
+Blood need not be iron. Octopuses already use copper. Green blood, blue blood, blood that is a slurry of magnetite: those are staffing choices.
 
 What the second trunk almost certainly is *not* is a person with different ears.
 
@@ -361,7 +363,7 @@ Caves already hire the dark. Movile, in Romania, has been a locked room for a fe
 
 Volcanoes are not the opposite of life. They are kitchens with the gas left on. Archaea that treat boiling as room temperature. Worms that farm bacteria on a smoker’s lip. Acid that would strip a kitchen sink, full of cells that like it. Io is the warning: too much kitchen, no pantry. A milder vent, under ice or under a bad sky, is how you eat when the star is a rumor.
 
-Crystals are houses, not flesh. That distinction matters, because jewelry that walks is a cartoon, and cartoons waste probe time. What is real: microbes locked in the water between gypsum facets a kilometer down; grains that live inside rock and eat what seeps; chains of magnetite that a bacterium grows to know which way is down; glass shells; a paper that says the first genes were patterns on clay. Cairns-Smith’s mineral-gene idea is a warm-to-cold origin story, not a zoo. Silicon as a *replacement* for carbon is still a weak paper: the chains fall apart in water and prefer to be mountains. Silicon as a *scaffold* — bones of glass, skins of rust, a biofilm that only shines because the crystal is rented — is already on Earth, waiting to be over-hired. If a world looks like a geode with an opinion, look at the fluid in the cracks first. That is where the cook stands.
+Crystals are houses, not flesh. That distinction matters, because jewelry that walks is a cartoon, and cartoons waste probe time. What is real: microbes locked in the water between gypsum facets a kilometer down; grains that live inside rock and eat what seeps; chains of magnetite that a bacterium grows to know which way is down; glass shells; a paper that says the first genes were patterns on clay. Cairns-Smith’s mineral-gene idea is warm as a template and cold as a detection, not a zoo. Silicon as a *replacement* for carbon is still a weak paper: the chains fall apart in water and prefer to be mountains. Silicon as a *scaffold* — bones of glass, skins of rust, a biofilm that only shines because the crystal is rented — is already on Earth, waiting to be over-hired. If a world looks like a geode with an opinion, look at the fluid in the cracks first. That is where the cook stands.
 
 And then the chemistries we did not staff.
 
@@ -369,9 +371,7 @@ Life here is a carbon town in a water county, with a nitrogen-rich air that we *
 
 Water is not sacred. Water is *hired*.
 
-It does a job, and it does it so well that we forget it is staff. It stays liquid over a wide kitchen of temperatures. It dissolves the charged bits so they can meet. It lets them wander. It holds a skin — a lipid bilayer — so the meeting has a room and a door. Ice, unusually, floats, so a pond does not freeze from the bed up and evict the fish. Hydrogen bonds give the liquid a gossip network: charges stand apart and still talk. That last trick has a name and a number. Chemists call it the dielectric constant, the relative permittivity.
-
-where ε_r is about eighty for water in a warm kitchen, and about 1.7 for liquid methane on Titan.
+It does a job, and it does it so well that we forget it is staff. It stays liquid over a wide kitchen of temperatures. It dissolves the charged bits so they can meet. It lets them wander. It holds a skin — a lipid bilayer — so the meeting has a room and a door. Ice, unusually, floats, so a pond does not freeze from the bed up and evict the fish. Hydrogen bonds give the liquid a gossip network: charges stand apart and still talk. That last trick has a name and a number. Chemists call it the dielectric constant, the relative permittivity. For water in a warm kitchen it is about eighty. For liquid methane on Titan it is about 1.7.
 
 Eighty is a meeting room. 1.7 is a mute hall. Ions that leap into water and argue will, in methane, clump, sulk, or refuse to dissolve. A metabolism that lives on charged intermediates — ours — would walk into that hall and go silent. That is not a proof that nothing else can talk. It is a proof that *our* talk is a water dialect.
 
@@ -393,7 +393,7 @@ So: methane and ethane on a 94 K beach. Ammonia in a freezer that still has a li
 
 Mirror life — the same trick, opposite handedness — is the scariest near-term maybe, because it could look like us under a microscope and starve in our kitchens, or poison them. A different set of amino acids, a six-letter script, a metabolism that treats arsenic as a feature: those are the other chairs. Sample size one does not get to fire them. It also does not get to print them as a zoo.
 
-Energy-beings that wear your body like a coat can stay on the cold shelf. Physics has not offered a metabolism made of a glow. A plague that *rewrites* you into someone else’s extinct cousin is warmer as a warning than as a zoology: genomes are software if you are clumsy with a printer. That is why Chapter 32’s library is a brake as well as a hope. Look first. Seed later. Do not overwrite the only exam.
+Energy-beings that wear your body like a coat can stay on the cold shelf. Physics has not offered a metabolism made of a glow. A plague that *rewrites* you into someone else’s extinct cousin is warmer as a warning than as a zoology: genomes are software if you are clumsy with a printer. That is why Chapter 32’s library is a brake as well as a hope. Do not overwrite the only exam.
 
 Empty niches speed the hiring. After a dying, after a new island, after a new dark sea, after a cave that locked, after a vent that opened, whatever copies fastest and eats what is left will radiate. Generation time is the clock, not a montage. Bacteria can have a career in an afternoon. Animals cannot become a committee of new phyla by Friday. The cartoon of a spore that climbs the whole ladder of Earth-history in a week is a cartoon. The real sentence is ruder and better: **give a fast copier an empty room, and the room will not stay empty.** A dark sea under ice, never photosynthesized, is such a room. A sterile greenhouse is such a room. A sealed cave, a lava tube, the water between crystals, a dawn ring on a locked world: such rooms. What gets hired there will not look like a textbook chapter. It will look like a solution.
 
@@ -433,6 +433,18 @@ Call it AI if you want the current trademark. Call it a robot if you want the ol
 
 The quiet is the job. Galactic cosmic rays — a drizzle of fast nuclei that no planetary magnetic mood is catching — punch bits all century. Unshielded flesh, in deep space, collects a career-limiting dose in a handful of years: tenths of a sievert a year, order of, enough to make a human worldline a bad hire for a four-century commute. The machine does not have marrow. It has parity, redundancy, a memory that expects to be wrong and keeps a spare. A grain of dust at a tenth of light is not dust. It is an energy rumor with a mass. Slowing down at the far end is a second fortune, as rude as leaving. Chemical tanks will not pay it. A brick that still knows how to be a brick after a hundred years of cold might.
 
+The nearest other sun is not a farther greenhouse. Chapter 25’s lag is light-minutes. A radio call is a bad afternoon, then an answer. Four light-years is a letter you mail and then inhabit the wait. Flesh inhabits it as a different age. A machine inhabits it as a different set of flipped bits. Orders that need a conversation will not survive that postage. The orders that survive are the dull ones: if the gyro sulks, vote; if the star has drifted, burn this much and no more; if the ice says a chemistry is already copying, do not open the box.
+
+Leaving is only half the fortune. At a hundredth of light speed, the energy stored in one kilogram is already a violent number. Appendix A31 writes the digit. You paid it to go. You pay a fortune of the same order to stop, or you arrive as a flash. There is no coasting into a polite orbit around a star you have never visited. The brake is a second departure, pointed the other way, and it has to still work after centuries of cold. Chemical tanks are a way to leave a planet. They are a poor way to throw that motion away at the far end. A brick that fissions, or a sail that can turn and take the destination star’s light as a headwind, is a sentence you are allowed to write. A sentence is not a tank farm.
+
+Dust is the killer the posters draw as sparkle. A grain the size of a pollen mote, met at a tenth of light, does not bounce off a windshield. It arrives as a little explosion. The cruise does not need a mountain in the road. It needs a haze. A shield in front — a slab of something dull, or a cloud of grit you carry as your own bumper — is part of the crew. The shield will be holed. The holes are why the memory keeps a spare, and why the spare does not sit in the same drawer as the original.
+
+Who fixes the fixer is the question the metal-person poster skips. A drill that can melt ice cannot, by that talent, replace its own bearing after a century. You send a shop: spare arms, a way to make a simple part from feedstock you carried, a test that says the new part is the old part and not a flipped-bit cousin. The shop is mass. Mass is the invoice Chapter 32 will refuse to let you spend on a flag. The cleverness is not a mind that founds a religion at the far end. The cleverness is a drawer of dull parts and a procedure short enough to audit before you leave.
+
+Flesh has been offered three ways out, and none of them is signed. A generation ship hires children as the propellant: born, taught, buried, and the destination still a rumor for the first many lives. The teaching has to survive without the Earth that wrote the curriculum. That is a culture you are inventing, not a motor you are buying. Suspended flesh asks biochemistry for a pause it has not given large animals. A box of embryos asks for a nursery run by the machine, which is Chapter 32’s printers wearing a kinder name. All three still collect the dose if they ride awake in a thin can, and all three still owe the brake. The crew that does not sleep is what is left when you decline to hire a childhood as fuel.
+
+The woman hitting the airlock is still the ticket we can price. Her delay is an afternoon. Her food is a potato with a mass you can lift. Her failure is a jammed door, not a civilization that forgot why it left. Keep her in the frame when the cruise starts to sound like destiny. The cruise is her invoice with the stamps changed from minutes to centuries. If you cannot stand her afternoon, you cannot stand the quiet.
+
 It wakes, if it wakes, for a star that has drifted, a gyro that has sulked, a bit that flipped and must be voted off the island. Then it sleeps again, which is a word for a low-power wait, not a dream. This crew wants a plug you can still reach from Earth for the first years, and then a set of orders dull enough that a flipped bit cannot found a religion. Chapter 29’s melt-probe is the same object on a shorter commute. Chapter 32’s library is the cargo that makes the commute worth the failure rate. Chapter 25’s greenhouse is the near ticket: a jammed door, a late radio, a potato.
 
 This is not the Omega Point. It is not destiny. It is a project with a failure rate. The machine can miss. The ice can be thicker than the melt. The sea can be sealed from rock. The sea can already be taken. The project is still the way “long travel” stops being a poster.
@@ -465,11 +477,23 @@ If you send a crew that does not sleep, send more than a flag.
 
 Earth’s interesting inventory is not its iron. Iron is common. The interesting inventory is a trick of carbon and water that learned to copy, then to remember, then to write the memory down. The memory, at the bottom, is sequence. You can put a surprising amount of it into a box. A mountain vault holds seeds because mountains outlast ministries. A cruise to a dark sea puts sequence into a memory that expects rays, and into printers that must themselves survive the trip. Sequence without a kitchen is a book no one left standing can cook.
 
-A human genome is a novella: a few billion letters, small once the repeats are compressed. A biosphere is a literature. The box that holds one ape, one crop, and a slogan is a vandal’s suitcase. What you want, if you are not a vandal, is the staff that can live in the available trick: rock-eaters for a vent, light-eaters for a tray, seeds that remember winter, a wet lab that can turn a recipe back into a membrane. The printers are kitchens. They are not magic. Appendix A32 writes the sizes and the protection categories.
+A human genome is a novella: a few billion letters, small once the repeats are compressed. A bacterium is a pamphlet, shorter by orders that Appendix A32 actually counts. A biosphere is a literature. The box that holds one ape, one crop, and a slogan is a vandal’s suitcase. What you want, if you are not a vandal, is a staff, named below, and a wet lab that can turn a recipe back into a membrane. The printers are kitchens. They are not magic. Appendix A32 writes the sizes and the protection categories.
+
+What goes in the box is that staff, and the list is dull on purpose.
+
+One human genome is a vanity. It does not farm a vent, fix a soil, or turn grit into a potato. A crop without the microbes that make the crop a crop is a poster of lunch. The useful list is long and unglamorous: a bacterium that eats rock and exhales a gas you can measure, a bacterium that makes a dirt, an alga that takes a dim light and does not demand a yellow sun, a yeast that will ferment what the alga leaves, seeds of a few plants that already know a winter, and the viruses of those organisms only if you have a reason you can say out loud. A reason you cannot say out loud is a souvenir. Souvenirs are how a suitcase becomes a vandal.
+
+The printers are the part the poster skips, because the poster wants the letters to be the life. Letters are a recipe. A recipe needs a kitchen: the feedstock the script eats, membranes, salts, a temperature that stays inside a narrow sulk, a way to keep the wrong chemistry out. That kitchen has to survive the cruise Chapter 31 just priced. A hard drive in a heavy box is the easy kilogram. The wet lab is the rude one. It freezes. It sheds a film you did not order. It wants power in the year the reactor is quietest. If the lab dies, you have a literature and no cook. That is a museum. A museum is a decent building on Earth. Under an unread ice it is a failed errand.
+
+Look first has a method, and the method is slower than a pour.
+
+You taste before you seed. A plume, if the moon has one, is the cheap exam: molecules in a spray, no hole yet. A melt is the expensive exam: a thread through the shell, a sample that is not a puddle of your own machine. Chapter 29 already hired the thread. This chapter only refuses to let the library jump the queue. The exam can come back empty, and empty is allowed to mean “we did not see it,” which is not the sentence “it is not there.” Seed later means you wait until empty has been graded. Boredom is not a measurement.
+
+Copying, inside the box, is not photocopying. A library that sits in a ray for a century will not be the library you sealed unless you kept the spares and the votes Chapter 31 already required for the gyro. A flipped letter in a navigation file wrecks a burn. A flipped letter in a genome wrecks a protein, or does nothing, or does something you will call a discovery because you were not there to call it a typo. Seal more than one copy. Store the copies in different drawers. Check them against each other before a printer is allowed to believe them.
 
 ![Figure 32. A vault door in snow, large in frame. A library is a physical object.](Figures/figs/fig32.png)
 
-Look first. Seed later. Taste the plume. Melt a hole. Ask whether a chemistry already wants a story. If the sea is taken, the library stays shut. If the exam was already empty, opening the library is a first day of school you do not get to un-teach. Chapter 25’s greenhouse is that empty-exam case, run small, on a world close enough to argue with. A dark sea is not that world until the melt says so. You cannot know from the basil. Light-hours of delay do not carry a verdict from under the ice.
+Chapter 25’s greenhouse is the empty-exam case, run small, on a world close enough to argue with. A dark sea is not that world until the melt says so. You cannot know from the basil. Light-hours of delay do not carry a verdict from under the ice.
 
 Directed seeding is an old idea with Crick and Orgel’s names on one famous version: maybe someone already did this to us, or we do it next. Cold as a detection in our rocks. Warm as a project we might do, and therefore a project we can refuse. If Europa’s sea has a biosphere, our dirt is a conquistador. If it does not, the same dirt is a greenhouse. Chapter 29 already hired the rule. This chapter is the box the rule governs.
 
@@ -481,9 +505,31 @@ A leafcutter city farms. It wars. No worker negotiates with us. We step over, or
 
 The printers cut the other way too. A wet lab that can make a cell can make a plague. Sterility is filters and assays, not a mood. The box is as dangerous as it is precious. A librarian who only loves the literature will pour. A librarian who only fears it will never farm a dead world whose exam is already empty. The rule splits the cases. Do not mix the folders.
 
-Logistics has a mass. The wet lab, the spare parts, the memory, the power to keep a freezer cold through a century of quiet: those are kilograms the departure still invoices. A flag is light. A literature is not. Special relativity still makes the mail late. Quantum mechanics still makes the recipe a sequence of letters, not a spark. General relativity still refuses a handle unless someone pays Chapter 33’s bill. A being printed at the far end can look like a miracle to a city that did not own the printer. It is a miracle of logistics.
+The same rule runs back toward Earth, and the poster forgets that direction because the poster faces out.
+
+A sample that might still be a kitchen does not come home in a pocket. It comes home in a box inside a box, opened in a room you can afford to throw away. Appendix A32 names the policy. You do not put an unread sea on the same bench as the basil. The crew that can wait is useful because waiting is the method. A schedule for planting a flag is how you fail it.
+
+Mass is the only vote that counts on the day you leave.
+
+A vault in a mountain is already a building, a staff, a power bill, and a politics. Put that vault on the cruise and you add the shield, the brick, the spare drawers, and the years of quiet. Every kilogram of literature is a kilogram you did not spend on the brake. The vandal’s suitcase — one ape, one crop, a slogan — is light, and light is its temptation. Light is not sufficient. Sufficient is a staff that can live in the trick the destination actually offers. A vent wants rock-eaters. A dim tray wants light-eaters that will not sulk for a yellow sun. Chapter 25’s dead greenhouse wants the potato and the microbes that make the potato a potato, because that exam was a close world with no sea hiding a second dictionary. Do not copy that shopping list onto a dark moon because the word “seed” felt brave.
+
+Special relativity still makes the mail late. Quantum mechanics still makes the recipe a sequence of letters, not a spark. General relativity still refuses a handle unless someone pays Chapter 33’s bill. A being printed at the far end can look like a miracle to a city that did not own the printer. It is a miracle of logistics.
 
 A library of Earth, carried well, is still Earth. The letters are ours. A second dictionary, Chapter 30’s jackpot, is what this box must not pretend to be. Pouring our dictionary into an unread sea writes a shipping label where an exam should have been. The crew that does not sleep can wait a century. It cannot wait an origin. Look first is how you refuse to spend the only data. Seed later is how you farm a room that has already been graded empty.
+
+You do not pack a forest.
+
+A forest is a queue. A film comes first. The film makes a dirt. The dirt holds a root. The root holds a shade the film never asked for and the later plant cannot live without. Print the later plant on the first day and you have shipped a corpse with a pedigree. Print the film, in a room that can stand it, and a queue can start. The box holds rungs, not the finished stair. The stair between the pamphlet and the ape is a staff, and the staff is what the departure has to lift.
+
+The first rung should be an instrument, not a mascot.
+
+A rock-eater that breathes out a gas you can see from outside the room is a measurement that happens to be alive. You chose it because the exam can fail in public. If the gas never comes, the printer lied, the room refused, or the recipe was the typo the spare copies were there to catch. Those are three different failures. A thing that looks like a pet and changes nothing you can detect will report success to the people who miss it. A gas will not.
+
+The reader has to outlast the letters.
+
+A vault you cannot open is geology. A file you cannot parse is the same rock with a prouder story. The script has to travel with a reader that still knows which mark is which after the ministry that wrote the labels is gone. Mountains outlast ministries, and ministries are who letter the drawers. Put two readers in two drawers. Put the key in a form a person can still sound out, not only in a format that dies with a company. The crew that does not sleep can keep a machine awake. It should not be the only speaker of the alphabet left on the cruise.
+
+Chapter 30 already set a poison beside the gift. The life we know has a handedness. The mirror of it is a maybe, not a second Earth the box is obliged to carry. Packing both, because completeness sounds like care, is how a knife gets into the suitcase. An empty exam wants the trick we have actually run. A taken sea wants nothing this box can give. The mirror does not get a third folder in which the rule was shy.
 
 A mountain outlasts a ministry. A cruise outlasts a body. Neither outlasts a mistake poured into a sea that already copies.
 
@@ -567,7 +613,7 @@ Did they know something we forgot? They knew how to live with a river and a year
 
 Then there are the lights.
 
-Not the leftover glow. Lights in *this* air. Say the obvious first, or the skepticism is just a mood.
+Not the leftover glow. Lights in *this* air. The temperature is locked before the stories: a residual in serious instruments can be hot as “something was there”; every name for it — ours, secret; someone else’s workshop; a colleague — stays cold until hardware you can hold, or a channel nature does not use, is on the bench. Say the obvious first, or the skepticism is just a mood.
 
 Something is there. Not in every backyard video. In the stubborn cases: a carrier group, a spy radar that had been seeing “things” for days, two navy pilots who flew up to a pale lozenge with no exhaust, no rotors, no thermal plume, and watched it stay in the wind over a disturbed patch of sea, then leave in a way their jets do not leave. A wing camera wrote an infrared tape. The navy later let the tape out of the bag, stood up an office, and printed the dull word *unidentified*. That sequence is not a campfire. It is what a serious institution does when its own instruments have leftover.
 
@@ -629,4 +675,4 @@ A signal is not a savior. It does not fix the shove. It does not open a handle. 
 
 An unidentified light in our own air is not a better savior. It is a closer residual: sometimes a pixel with no range, sometimes a radar and two eyeballs and a camera on the same leftover, and still not a sentence we can read. If a visitor were here, the visitor would still be a worldline, late or local, paying the same bills as the rest of this part. The clean search remains the one that can be missed — a dish, a spectrum, a plume, a melt. The dirty search is the one we already have, and it is not empty.
 
-Until then we have a greenhouse, a dark sea, a library, and a delay. That is enough to be getting on with. It is already a better story than a door. Chapter 41 is where this watchmaker meets the filter and is refused a hire. The six chapters between are copies and loops. They do not reopen the signal. Chapter 41 is where this watchmaker meets the filter and is refused a hire. The six chapters between are copies and loops. They do not reopen the signal.
+Until then we have a greenhouse, a dark sea, a library, and a delay. That is enough to be getting on with. It is already a better story than a door. Chapter 41 is where this watchmaker meets the filter and is refused a hire. The six chapters between are copies and loops. They do not reopen the signal.

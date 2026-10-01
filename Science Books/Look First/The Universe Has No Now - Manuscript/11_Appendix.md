@@ -441,6 +441,8 @@ AI risk, temperatures: (i) misuse and scale-error by human principals — hot as
 
 Haploid human genome *~3 × 10⁹* bases (*~0.75 GB* uncompressed, far less with compression and redundancy). A typical bacterium is *~10⁵–10⁷* bases. A biosphere archive is orders of magnitude larger than either if you want ecological function, not a mascot. COSPAR planetary protection: the Policy on Planetary Protection published in *Space Research Today* (January 2026 edition; Bureau approval 7 November 2025) puts icy worlds under one policy, and a landing that can erase A29’s look-first measurement stays in the strict forward-contamination categories. Mars life-detection sites are stricter than a flyby. A restricted Earth return is the invoice if a sample might still be a kitchen. Directed panspermia (Crick and Orgel, 1973, as an idea) is engineering plus ethics, not a detection. A first-ocean seed on the early Earth would be absorbed into the LUCA signature and is not presently distinguishable from a local origin. “Messages in junk DNA” have not survived as a channel nature does not use. Synthesis from sequence requires wet-lab machinery that must itself survive the trip. Eusocial Earth sketches are the scale reminder: competence at nest-size is not a colleague. Look first. Seed later. A library poured into a sea that already copies is a conquistador. The same library, on a world whose exam has already been graded empty, is a greenhouse.
 
+A closed ecology is a queue, not a portrait: a pioneer film, then a dirt that film makes, then a rooted producer that needs the shade and the soil it did not arrive with. Shipping the last organism without the first is a corpse with a pedigree. The useful first print is an assay — a metabolism whose waste you can see from outside the room (a gas, a pigment, a pH shift) — so a dead printer, a refusing room, and a corrupted recipe are three different failures. Keep at least two copies of the archive in two radiation environments, plus a key a person can still sound out when the catalog’s format has died. Do not pack a mirror biosphere “for completeness” (A30). An empty exam gets the chemistry we have run. An occupied sea gets the box left shut.
+
 ---
 
 ## A33. Einstein–Rosen vs Traversable Throats
@@ -625,7 +627,7 @@ A claim can change temperature (A0). This list is the book’s oven reading on p
 
 ## Further Reading (tiered)
 
-Years and publishers are here so a shelf can be fetched. The notes cite papers in place. This list is the next reading, not a second copy of those notes.
+Years and publishers are here so a shelf can be fetched. The notes cite papers in place, with the year and the venue, and that citation is the bibliography entry. This list is the next reading, not a second copy of those notes. Together they are the shelf.
 
 **Start here:** Steven Weinberg, *The First Three Minutes* (Basic Books, 1977; updated edition 1993). John D. Barrow, *The Origin of the Universe* (Basic Books / Science Masters, 1994). Barbara Ryden, *Introduction to Cosmology*, 2nd ed. (Cambridge University Press, 2017). Katie Mack, *The End of Everything (Astrophysically Speaking)* (Scribner, 2020).
 
@@ -634,6 +636,8 @@ Years and publishers are here so a shelf can be fetched. The notes cite papers i
 **Heavier:** P. J. E. Peebles, *Principles of Physical Cosmology* (Princeton University Press, 1993). Viatcheslav Mukhanov, *Physical Foundations of Cosmology* (Cambridge University Press, 2005). Edward W. Kolb and Michael S. Turner, *The Early Universe* (Addison-Wesley, 1990). Steven Weinberg, *Cosmology* (Oxford University Press, 2008). Roger Penrose, *The Road to Reality* (Jonathan Cape, 2004), for the singularity theorems in a heavier key.
 
 **Icy worlds:** F. Nimmo and R. T. Pappalardo, “Ocean Worlds in the Outer Solar System,” *Journal of Geophysical Research: Planets* 121 (2016): 1378–1399. J. R. Spencer and colleagues, “Cassini Encounters Enceladus: Background and the Discovery of a South Polar Hot Spot,” *Science* 311 (2006): 1401–1405. COSPAR Panel on Planetary Protection, “Policy on Planetary Protection,” *Space Research Today*, January 2026 edition (Bureau approval 7 November 2025); the Panel’s page is cosparhq.cnes.fr/cospar-policy-on-planetary-protection/.
+
+**Second origins:** Stephen Jay Gould, *Wonderful Life: The Burgess Shale and the Nature of History* (W. W. Norton, 1989). Francis Crick, “The Origin of the Genetic Code,” *Journal of Molecular Biology* 38 (1968): 367–379. A. G. Cairns-Smith, *Genetic Takeover and the Mineral Origins of Life* (Cambridge University Press, 1982).
 
 **Loops, selves, and the two incompleteness morals:** Douglas Hofstadter, *Gödel, Escher, Bach* (Basic Books, 1979) and *I Am a Strange Loop* (Basic Books, 2007) — tangled hierarchies, the nest as a mind, incompleteness as self-reference. The opposite moral, mind as not a program, is Roger Penrose, *The Emperor’s New Mind* (Oxford University Press, 1989) and *Shadows of the Mind* (Oxford University Press, 1994). This book’s own statement of both morals is Appendix A40. Hugh Everett III, “Relative State Formulation of Quantum Mechanics,” *Reviews of Modern Physics* 29 (1957): 454–462. John S. Bell, “On the Einstein Podolsky Rosen Paradox,” *Physics* 1 (1964): 195–200.
 
@@ -714,3 +718,29 @@ Years and publishers are here so a shelf can be fetched. The notes cite papers i
 **CTC.** Closed timelike curve. A loop in the block, not an edit.
 
 **FIRAS.** COBE spectrometer that made the leftover glow a blackbody to parts in *10⁵*.
+
+**Shove.** This book’s name for the accelerated stretch, the working fit being a cosmological constant. Not the pull.
+
+**Pull.** This book’s name for the extra gravity that does not shine. Not the shove.
+
+**Permit.** A world you can weigh, close enough that delay, dirt, and a date are the invoice. Chapter 25. Not a downtown, and not a handle.
+
+**Look first.** Taste the plume, or melt the hole, before you open the library. Seed later. Chapter 32.
+
+**Pattern engine.** A machine that completes a phrase, folds a protein, or aims a tool. Not, by that talent, a century-stable crew. Chapter 31.
+
+**Azotosome.** A proposed membrane for a cold methane lake. The case that those skins would hold has gone against them. Cold. Chapter 30.
+
+**Technosignature.** A leak a civilization did not mean as a letter: waste heat, a gas out of balance, a radio we already know how to make. Not a hello.
+
+**Exotic matter.** Stuff that, in some frames, has negative energy density, so a throat can stay open. We can write it. We have not stacked it. Equation (17).
+
+**Kruskal.** The diagram in which the Einstein–Rosen throat pinches before anything useful crosses. A drain you cannot climb. Appendix A22.
+
+**LUCA.** Last universal common ancestor. The bottleneck every cultured lineage on Earth still shares. One grandmother on this rock, not a cosmic typesetter.
+
+**Biosignature.** A disequilibrium that wants a story: two gases that should have eaten each other and have not. “It looks green” is not one.
+
+**Panspermia.** A seed that traveled, sloppy or on purpose. Our exact dictionary under someone else’s ice would be this, or contamination. Chapter 32.
+
+**Frozen accident.** Crick’s name for a working code that later edits would break all at once, because every protein in the house depends on the dictionary.

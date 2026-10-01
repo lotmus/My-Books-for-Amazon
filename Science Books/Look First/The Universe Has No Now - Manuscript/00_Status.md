@@ -1,12 +1,13 @@
 # Book 1 status — *The Universe Has No Now*
 
-**Current, 30 September 2026.** This file is Look First only, and this book only: *The Universe Has No Now*. Handover: `../HANDOVER.md`. The part files win if this log disagrees. The newest section below wins if two sections disagree.
+**Current, 30 September 2026.** This file is Look First only, and this book only: *The Universe Has No Now*. Shared series reference: `../00_Series_Reference.md`. Handover: `../HANDOVER.md`. The part files win if this log disagrees. The newest section below wins if two sections disagree.
 
 - Look First has one sequel, *A Trip Is Not a New Life*. It is not this book. There is no Book 3. Other series in the parent repo are not this job.
 - Chapters 31 and 32 are full lessons again. Notes A31 and A32 hold the numbers. Do not cut them back to bridges.
 - Photograph credits are on the copyright page and in `KDP_Description.md`.
 - Headlines are navy `0C2D5A`, not `#0000FF`.
-- Stamp **111,305** words. KDP ingest is `export\The_Universe_Has_No_Now.docx`.
+- Chapters 31 and 32 are full lessons at the same length as the other teaching chapters (about 1,990 and 2,080 words). A32 notes the queue, the assay, and the spare copies.
+- Stamp **113,624** words. KDP ingest is `export\The_Universe_Has_No_Now.docx`, rebuilt 30 Sep 2026 with the EPUB from the same markdown. Plural chapter mentions link. Chapter 34’s doubled closing sentence is gone.
 
 The kitchen date and the early sections below are the history of closed passes. They still say “books 2 and 3,” “credits only on the Amazon page,” and “chapters 31 and 32 stay bridges.” Those sentences describe the pass that wrote them.
 

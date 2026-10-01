@@ -56,7 +56,7 @@ That is the claim of Part I. The rest of the book will spend it on the sky: on a
 
 Take the casserole out when your clock says so. Then look up, and notice that the dark is late.
 
-![Figure 1. One kitchen. Put two people in it, one walking and one standing still: they agree on the casserole; they do not share Andromeda’s now.](Figures/figs/fig01.png)
+![Figure 1. One kitchen, empty on purpose. The two people are the lesson, not a missing photograph: one walking, one standing still. They would agree on the casserole. They would not share Andromeda’s now.](Figures/figs/fig01.png)
 
 ---
 
