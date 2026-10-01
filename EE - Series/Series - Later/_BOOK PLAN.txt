@@ -1,1372 +1,194 @@
-EE SERIES - BOOK PLAN
-=====================
-Unit of publication: ONE BOOK PER TIER. 21 books total.
-Each tier folder is the outline for its book; each leaf topic folder inside
-it is one chapter. 221 topics -> 21 books.
+EE SERIES - BOOK PLAN (compact 2026-10-01)
+=========================================
+Nine books. Target about 200 Kindle pages each.
+The 21-book split is retired. It made chapter-sized
+topics into volumes and forced the same radio chain
+to be written twice. 21 x 200 pages is about 4000
+pages. That is not a series this pass can fill.
 
-NAMING (matches the Math series convention, e.g. Abstract_Algebra_Book37.docx)
-  Finished book : EE - Series/<Snake_Case_Title>_Book<N>.docx
-  Chapter drafts: EE - Series/<NN. Tier>/Drafts/<Snake_Case_Chapter>.docx
-  Do NOT leave .docx files loose inside leaf topic folders.
+Do not regenerate Foundations from a script.
 
-THE 21 BOOKS
-  Book1   Foundations_Book1.docx                            (8 chapters)
-  Book2   Core_Circuits_and_Components_Book2.docx           (9, see STATUS)
-  Book3   Semiconductor_Physics_and_Devices_Book3.docx      (39, 6 parts)
-  Book4   RF_and_High_Frequency_Engineering_Book4.docx      (19, 2 parts)
-  Book5   Noise_and_System_Performance_Book5.docx           (13)
-  Book6   Modulation_and_Communication_Theory_Book6.docx    (8)
-  Book7   PLL_and_Frequency_Synthesis_Book7.docx            (6)
-  Book8   Microwave_Engineering_Book8.docx                  (9)
-  Book9   mmWave_Engineering_Book9.docx                     (8)
-  Book10  Antennas_and_Radiation_Book10.docx                (7)
-  Book11  EMC_EMI_and_Emissions_Book11.docx                 (10)
-  Book12  Wireless_Systems_and_Protocols_Book12.docx        (7)
-  Book13  Radar_Systems_Book13.docx                         (8)
-  Book14  DSP_and_SDR_Book14.docx                           (6)
-  Book15  Power_and_Energy_Book15.docx                      (6)
-  Book16  Control_and_Automation_Book16.docx                (6)
-  Book17  Oscillators_Modulators_and_Transceivers_Book17.docx (10)
-  Book18  Technologies_Layout_and_Packaging_Book18.docx     (14)
-  Book19  Simulation_Tools_Book19.docx                      (10)
-  Book20  Debug_and_Validation_Book20.docx                  (8)
-  Book21  Emerging_Technologies_Book21.docx                 (8)
+THE 9 BOOKS
+  1  Foundations of Electronics
+     EE1 / Foundations_Book1.docx (existing ~59,000-word volume)
+     Companion: EE1/Complex_Circuit_Analysis.docx
+  2  Circuits, Components, and Control
+     EE2/Circuits_Components_and_Control_Book2.docx
+     (old 2 + 16)
+  3  Semiconductor Physics and Devices
+     EE3/Semiconductor_Physics_and_Devices_Book3.docx
+     Builder: EE3/build_book3_part1.py  -- do not run casually
+  4  RF, Microwave, and Antennas
+     EE4/RF_Microwave_and_Antennas_Book4.docx
+     (old 4 + 8 + 9 + 10)
+  5  Communications, Wireless, and SDR
+     EE5/Communications_Wireless_and_SDR_Book5.docx
+     (old 6 + 12 + 14)
+  6  Transceivers and High-Power RF
+     EE6/Transceivers_and_High_Power_RF_Book6.docx
+     (old 5 + 7 + 13 + 17)
+  7  EMC, Simulation, and Test
+     EE7/EMC_Simulation_and_Test_Book7.docx
+     (old 11 + 19 + 20)
+  8  Power and Energy
+     EE8/Power_and_Energy_Book8.docx
+     (old 15)
+  9  Packaging, Layout, and Emerging Systems
+     EE9/Packaging_Layout_and_Emerging_Book9.docx
+     (old 18 + 21)
+
+OLD -> NEW
+  1=1, 2=2, 3=3
+  4,8,9,10 -> 4
+  6,12,14 -> 5
+  5,7,13,17 -> 6
+  11,19,20 -> 7
+  15 -> 8
+  16 -> 2
+  18,21 -> 9
 
 STATUS
-  Book1  Foundations_Book1.docx  -- IN PROGRESS, textual/structural pass DONE (2026-08-25)
-         Title: "Foundations of Electronics", Book 1 of the Electrical
-         Engineering Series. 59,398 words, 38 chapters + 6 appendices
-         (A-F), 38 figures embedded -- this closes the figures
-         blocker; the book is now content-complete. Target format:
-         Kindle ebook only via KDP, confirmed 2026-08-25 -- no ISBN
-         block, no index, and no TOC page numbers are needed; the
-         plain-paragraph TOC listing and Heading1/Heading2 styles
-         already in place are sufficient for KDP's auto-generated
-         Kindle navigation.
-
-           Part I   Chapters  1-12  The Physics of Electricity and Magnetism
-           Part II  Chapters 13-26  Mathematics and Measurement for
-                                     Electrical Engineering
-           Part III Chapters 27-38  DC and AC Circuit Theory
-
-         Chapter numbering is final: the Ch34 cut (-1) and the new
-         Smith Chart chapter splice (+1) both happened, netting back
-         to 38 total chapters (this does NOT cancel to 37 -- see the
-         old note this replaces, which got that arithmetic wrong).
-
-         DONE across this and prior passes:
-           - Title page retitled "Foundations of Electronics"; copyright
-             page added (Copyright (c) 2026 Lothar J. Musiol).
-           - Chapter 34 (Complex Numbers and Phasors) cut -- fully
-             duplicated Ch 21-23 in Part II. Chapters 35-38 renumbered
-             down by 1 throughout (headings, subsections, Appendix
-             A/B/D, cross-references).
-           - New Chapter 24 "The Smith Chart, Impedance Matching, and
-             Bias Networks" spliced into Part II after "Phasors and
-             Impedance": reflection coefficient, VSWR/return loss,
-             L-network and microstrip/stub matching (2 worked examples
-             + 1 for microstrip + 1 for SMD fine-tuning), RF-choke
-             output bias with high-ohmic resistive input bias (1
-             worked example), 4 practice problems + Appendix B/D/A
-             entries. Chapters 25-37 renumbered up by 1 to make room
-             (25-38 final). Two new figures embedded: a verified-correct
-             Smith chart (constant-r circles, constant-x arcs) and a
-             single-stage amplifier bias schematic.
-           - "About This Series" section restored: a 21-book roadmap
-             table (see the book list above) inserted before the Table
-             of Contents, with its own TOC-listing entry.
-           - 4 previously-missing Key Idea/Worked Example panels added
-             (Ch1 electron counting, Ch7 drift velocity vs. signal
-             speed, Ch10 Ampere's-law/Gauss's-law parallel, Ch18
-             high-pass filter asymptotes).
-           - New cover art generated (2 concepts: "Three Layers" and
-             "Blueprint Unified", both navy/gold-or-amber, KDP 1600x2560).
-           - Appendix D: Part II's entries (Ch13-26) restyled from bare
-             bold-run paragraphs (missing chapter titles) to proper
-             Heading2 + title, matching Parts I/III.
-           - Glossary: em-dash bolding normalized across all 77 entries
-             (56 already bolded the dash; the other 21 converted to match).
-           - New Appendix F "Further Reading" added: Griffiths and
-             Halliday/Resnick/Walker for Part I, Kreyszig and Stroud for
-             Part II, Alexander/Sadiku and Horowitz/Hill for Part III,
-             plus a dedicated Chapter 24 list (Pozar, Smith, Bowick,
-             Gonzalez, Rohde/Newkirk).
-           - Fixed a real content bug: Chapter 10's Practice Problem 2
-             was a verbatim restatement of Worked Example 10.2 (same
-             solenoid, same numbers, answer already given) -- replaced
-             with a genuinely new case (600 turns/30 cm/2.0 A -> 5.0 mT,
-             independently verified) and its Appendix B solution updated.
-           - Full-document duplication/repetition audit: exact and
-             near-duplicate paragraph scan (2,220 paragraphs) found only
-             the one bug above; everything else is structurally-expected
-             repetition (titles in TOC/heading/Appendix D, formulas
-             restated in Appendix A). Word-frequency check found nothing
-             requiring a synonym pass -- repeated words are technical
-             terms, where consistency is correct, not a flaw.
-           - Full typo/formatting sweep (double spaces, repeated words,
-             unbalanced parens, stray punctuation, exponent formatting):
-             no further issues found. Note: apparent exponent bugs
-             (e.g. "10-12" instead of "10^-12") in equation-display
-             paragraphs were a false alarm from plain-text extraction --
-             the actual XML already uses correct OOXML vertAlign
-             superscript/subscript run formatting throughout.
-
-         DONE (2026-08-25, figures pass): 38 figures now embedded (up from
-         2). 28 reused/adapted from a diagram set found in another
-         session's scratchpad (built for this same merge, covering all
-         three parts, including Part II math diagrams that were
-         believed not to exist) -- coulomb, field_lines, gauss,
-         equipotential, capacitor, drift, iv_curve, wire_field,
-         solenoid, induction (Part I, one each Ch2-11 except Ch1/12);
-         prefix_ladder, accuracy_precision, exponential, sinusoid,
-         argand, euler, phasor_impedance, derivative_phase (Part II,
-         Ch14/15/19/20/21/22/23/25); series_parallel, dividers, nodal,
-         thevenin, rc_transient, rms, power_triangle, resonance,
-         lowpass_bode, transformer (Part III, Ch28(x2)/29/31/34/35/36/
-         37(x3)). One reused figure (load_line) was deliberately NOT
-         used -- a diode/transistor bias-point figure with no natural
-         home in this book's scope, better suited to Book 2 or 3.
-         8 new figures generated from scratch, matching the reused
-         set's exact style (matplotlib, blue #2E74B5/grey #777777,
-         DejaVu Sans, greyscale-safe) for Ch13 (si_units), Ch16
-         (discriminant), Ch17 (linear_system), Ch18 (asymptote_reading),
-         Ch27 (kvl_kcl), Ch30 (mesh), Ch32 (superposition), Ch33
-         (cap_ind_elements) -- closing every previously-uncovered
-         chapter in Parts II and III. All 38 visually spot-checked;
-         4 real bugs caught and fixed before embedding (si_units label
-         text overflowing its box, linear_system's marked intersection
-         point not matching its own two lines' actual algebraic
-         intersection, superposition showing a deactivated current
-         source as a short instead of an open circuit, cap_ind_elements
-         using a sine wave that rendered as a zigzag instead of a
-         proper inductor coil symbol, plus a caption-overlap bug in
-         that same figure).
-
-         NOT YET DONE:
-           1. Confirmed 2026-08-25: Kindle ebook only via KDP. No ISBN
-              block, no index, no TOC page numbers needed -- this item
-              is CLOSED, not a gap. KDP builds its Kindle "Go to"
-              navigation from the Heading1/Heading2 styles already
-              used throughout, so no further TOC work is required.
-         Decision NOT taken (left as-is, own judgment call): Appendix
-         A's Part III "Phasors and Impedance" formula table duplicates
-         Part II's -- kept deliberately, since it's genuinely useful
-         as in-part quick reference and low-risk to leave alone.
-
-  Book1 precision pass (2026-08-28): a detailed external technical
-         review scored the book ~9.0/10 and flagged 13 specific,
-         verified issues -- all fixed:
-           MUST-FIX: (1) Chapter 23's phasor definition contradicted its
-           own stated RMS convention (said V=Vm∠φ, a peak-value
-           formula, then said magnitudes are RMS) -- fixed to
-           V=(Vm/√2)∠φ with the matching √2 recovery formula,
-           now consistent with every worked example and practice
-           problem, which already used RMS directly. (2) Chapter 35
-           self-referenced "impedance defined (Chapter 35)" -- fixed to
-           Chapter 23. (3) Chapter 24 said "Book 3's Thevenin-equivalent
-           chapter" -- fixed to "Chapter 31" (Thevenin is in this book).
-           (4) Appendix B was missing a "Chapter 25 Solutions" heading
-           before its 4 calculus solutions -- added. (5) KVL's
-           explanation now carries a lumped-circuit/Faraday qualification
-           (a changing flux produces a genuinely non-conservative field
-           in full EM theory). (6-7) Six chapter-range citation errors
-           fixed across Ch31/34/35/Appendix D (e.g. "Chapters 26-31"
-           corrected to the actual technique range 27-32; one additional
-           wrong range in Ch31 -- "26-29" -- found independently while
-           verifying the reviewer's items, corrected to 27-30).
-           STRONGLY RECOMMENDED, all applied: mu0 changed from "=" to
-           "≈" with a one-sentence note on the 2019 SI redefinition
-           (Ch10); dielectric strength vs. rated/working voltage now
-           distinguished (Ch6); the "zero determinant is a physics
-           error" Key Idea softened to "means no unique solution" (Ch17);
-           uncertainty-propagation rules now flagged as worst-case, with
-           a note on quadrature combination (Ch15); "nothing later is
-           mathematically harder" softened to "depends on no
-           fundamentally unfamiliar foundation" in both Ch26 and its
-           Appendix D summary; the dB voltage-ratio formula now notes
-           the equal-impedance assumption (Ch19). Also added, at the
-           reviewer's lower-priority suggestion: a one-paragraph framing
-           note at the start of Chapter 24 explaining it's an RF preview,
-           not a design course. Two bugs found independently while
-           verifying the review (not in the original report): a
-           duplicate, reworded restatement of the Appendix B intro
-           instruction stranded mid-document at the Part II/III
-           boundary (removed), and 3 places with two consecutive page
-           breaks creating a stray blank page (collapsed to one each).
-           One self-inflicted bug caught and fixed before delivery: an
-           early attempt to insert the mu0 clarifying sentence produced
-           a malformed nested <w:p> (caught immediately by re-validating
-           XML well-formedness after every batch, per this session's
-           established practice). Word count: 59,838 (was 59,438).
-           Structurally validated; delivered.
-
-  Book1 spelling normalization (2026-09-06): a mechanical scan found the
-         book was internally inconsistent between British and American
-         spelling (101 instances across ~20 word families -- e.g.
-         "organised" vs "organized", "behaviour" vs "behavior", "centre"
-         vs "center" -- not even self-consistent word-to-word). Decision
-         (after one reversal) was American spelling throughout. 44
-         replacements made (organised/organized family, memorise/
-         memorize family, recognise, specialised, generalise/
-         generalisation, analyse, behaviour x12, labour, metre/metres,
-         modelling, cancelled/cancelling, judgement); re-verified after
-         the pass that zero British spellings remain anywhere in the
-         document. Deliberately left alone: "practice" (all 53 instances
-         are noun usage, no verb "practise" ever appears, so this word
-         needed no change under either convention), "program" (1
-         instance, correctly refers to software in both dialects),
-         "while"/"among" (kept over "whilst"/"amongst" -- a register
-         choice, not a spelling difference, and the archaic forms would
-         read oddly even in British technical writing).
-
-  Book1 four-dimension audit (2026-09-06): full-book audit requested
-         against 4 criteria (factual accuracy, clarity, dry humor, British
-         register) plus a full equation re-check. Front matter reviewed
-         personally; Parts I/II/III and the Appendices each covered by a
-         dedicated pass that independently recomputed every worked
-         example and Appendix B solution from scratch. Findings verified
-         against the actual chapter map and formulas (not taken on
-         faith) before fixing; 21 confirmed issues fixed in this pass:
-           NUMERIC (arithmetic errors, all independently recomputed):
-           WE2.2 net force 25.9N -> 24.9N (Ch2); WE23.1 phasor angle
-           -33.1 deg -> -32.1 deg and its sum-of-squares 29.3 -> 28.3
-           (Ch23); WE7.0's "roughly 95 minutes" -> "roughly 93 minutes"
-           (matches the book's own printed drift velocity, Ch7);
-           Appendix B Ch17#4 mesh current 28.0mA -> 27.0mA; Appendix B
-           Ch23#3 impedance angle 29.1 deg -> 28.1 deg (both occurrences);
-           Appendix B Ch35#4 20*sqrt(2) 29.3 -> 28.3 (both occurrences);
-           Part III's "Part III has spent thirteen chapters" -> "twelve"
-           (Ch27-38 is 12 chapters, not 13).
-           FACTUAL: Ch3's dipole-field misconception panel claimed a
-           finite off-axis null point exists between equal/opposite
-           charges -- doesn't (verified algebraically: field is
-           kqd/r^3, nonzero for all finite r); rewritten to say the
-           field only weakens toward zero at infinity, never actually
-           reaching it. Ch6's plate-separation/capacitance reasoning
-           contradicted the book's own field formula two paragraphs
-           earlier (claimed a smaller gap increases the field at fixed
-           Q, which the book's own E=sigma/epsilon0 formula says is
-           false) -- rewritten with the correct fixed-Q chain. Ch15's
-           E-series discussion labeled a list as "E24" that is actually
-           the 12-value E12 series -- swapped in the real 24-value E24
-           list. Ch35.4 defined phasor magnitude as peak amplitude
-           ("the amplitude Vm used to define a phasor is a peak value"),
-           contradicting this book's own established RMS-magnitude
-           phasor convention (the same one fixed for Ch23 in the prior
-           precision pass, and confirmed still correctly applied
-           throughout Appendix A/B by the audit) -- reworded the section
-           and Worked Example 35.1's parenthetical to state the RMS
-           convention explicitly; no numbers changed, since the complex
-           arithmetic is convention-agnostic. Appendix C's Phasor
-           glossary entry said "amplitude" instead of "RMS magnitude"
-           (same leftover inconsistency); Appendix C's Superposition
-           entry covered only force/field, not the circuit voltage/
-           current usage that dominates Ch32 -- both broadened.
-           CROSS-REFERENCE: Ch28's "Chapters 28 and 29 introduce the
-           systematic techniques" -> "Chapters 29 and 30" (nodal is 29,
-           mesh is 30, confirmed against the book's own later
-           cross-reference at Ch30). Ch24's "Chapter 31 answered this"
-           -> "will answer" (Ch31 is Part III, not yet reached from
-           Ch24 in Part II -- was backward-looking).
-           CLARITY/WORDING: Ch2 WE2.1's garbled parenthetical about
-           "the smaller source charge" (conflated the test charge with
-           a source charge) rewritten; Ch11 WE11.2's self-contradictory
-           "B pointing into the page toward you" (into the page and
-           toward you are opposites) fixed to a coherent viewing
-           convention; Ch17's "not an arithmetic one.When the
-           determinant" missing space fixed; Ch30's redundant
-           "conventionally taken clockwise by convention" trimmed;
-           Ch24's L-network matching section's "the remaining
-           susceptance, b=+1" reworded (b=+1 is what cancels the load's
-           actual -1 susceptance, not itself "remaining").
-           Structurally validated (XSD schema, zip integrity, nested-w:p
-           check) after every batch; delivered. Note: this session's
-           scratchpad temp directory lost its unpacked working copy
-           (everything except the just-edited document.xml) partway
-           through this pass, apparently to some background temp
-           cleanup triggered by the project-directory switch to
-           "D:\My Books for Amazon" mid-session -- recovered cleanly by
-           re-unzipping the last known-good delivered .docx and
-           confirming byte-for-byte that it differed from the edited
-           copy by exactly the 21 intended replacements and nothing
-           else, before rebuilding. No content was lost.
-         DEFERRED (low-confidence/low-priority, not fixed this pass):
-         Ch24's L-network design-procedure paragraph reads dense on a
-         first pass (may be an acceptable trade-off given the chapter's
-         explicit preview framing); WE30.2's circuit description is a
-         little hard to visualize without a figure (fixed in the next
-         pass below); Appendix B Ch14#1 gives 4 bare answers with no
-         shown work (unlike the rest of the appendix); Appendix B Ch19#1
-         has a ~0.1% rounding difference (0.928 vs a more precise 0.927)
-         -- on reinspection this is self-consistent with the book's own
-         displayed intermediate (9x0.1031=0.9279->0.928), so left as-is.
-
-  Book1 second review pass (2026-09-12): user asked for another review
-         pass. Same 4-parallel-agent-per-Part-plus-Appendices pattern as
-         before, each doing a genuinely independent re-review (not just
-         re-checking the prior fix list) and re-verifying every worked
-         example and Appendix B solution from scratch. Before fixing
-         anything, ran a from-scratch suffix-pattern regex sweep of the
-         whole document (not a fixed word list, since the agents' own
-         findings below proved the original word-list approach had real
-         gaps) to independently confirm the spelling findings and rule
-         out anything else hiding. Also re-verified two agent-flagged
-         numeric items myself before touching them and concluded they
-         were false positives (self-consistent under the book's own
-         displayed intermediate rounding, not real errors) -- see
-         DEFERRED note above. 18 confirmed issues fixed:
-           SPELLING (9, all in the "-ise/-isation" verb family the
-           original American-spelling pass missed entirely, since it
-           checked base/-ed/-ing forms and a fixed word list, not
-           present-tense "-s" conjugations or words outside that list):
-           "practising" (Ch16, engineers) -> practicing; "practising"
-           (Ch16, until automatic) -> practicing; "realisation" (Ch13)
-           -> realization; "artefacts" (Ch13) -> artifacts; "internalise"
-           (Ch16) -> internalize; "generalises" (Ch16) -> generalizes;
-           "practised" (Ch21 back-reference) -> practiced;
-           "generalisations" (Ch23) -> generalizations; "favourable"
-           (Appendix C, Worst-case analysis entry) -> favorable.
-           Re-verified after the pass with a suffix-pattern sweep (not a
-           word list) across the entire document: zero British
-           spellings remain anywhere.
-           FACTUAL/NUMERIC: Ch1's "high-temperature superconductors
-           reach tens of degrees above [absolute zero]" understated the
-           real range (roughly 90-160+ K for known cuprates) -- changed
-           to "on the order of a hundred degrees above it." Ch7's "an
-           electron takes minutes to physically travel the length of a
-           household wire" contradicted the chapter's own Worked
-           Example 7.0, which computes ~91-93 minutes for just ONE
-           METER -- reworded to tie directly to that number instead of
-           making a separate, weaker claim. Ch17's Worked Example 17.1
-           displayed x=2.615 but then used unrounded precision in the
-           following back-substitution and check steps (13.077, 7.846),
-           values not reproducible from the displayed x -- exactly the
-           rounding-intermediate pitfall the book itself warns against
-           in Ch15; fixed by displaying one more digit (x=2.6154,
-           y=4.0769) so the shown check arithmetic is exactly
-           reproducible. Ch32's Worked Example 32.2 overstated the
-           dependent-source superposition rule, claiming the dependent
-           source's own value specifically could not be superposed --
-           false: since its gain is linear and it's never deactivated,
-           superposing its per-subproblem contributions gives the
-           identical answer -- reworded to state the real rule (never
-           deactivate a dependent source) without the false exclusivity
-           claim. Appendix B's Chapter 38 solutions heading read
-           "Chapter 38 (End-of-Book Review) Solutions," the only
-           chapter given a parenthetical subtitle in that appendix and
-           inconsistent with the chapter's actual title elsewhere in
-           the book ("Where This Series Goes Next") -- trimmed to the
-           bare "Chapter 38 Solutions" matching every other entry.
-           CLARITY: Ch30's Worked Example 30.2 problem statement was a
-           garden-path sentence describing circuit topology ("in series
-           with... in series with... where [the last two] are in
-           parallel with each other") -- reworded to state the
-           branching upfront. Ch6's plate-separation/capacitance
-           parenthetical (rewritten in the prior pass to fix a physics
-           error) was itself flagged as too dense -- split into
-           standalone sentences, same physics, easier to follow.
-           Re-verified as NOT needing action after independent
-           recomputation: Appendix B's Ch19#1 and Ch34#1 rounding
-           (both self-consistent with their own displayed intermediate
-           values, so not real errors); Appendix D's Ch24 summary
-           "conjugate match" wording (defensible general RF-theory
-           phrasing); Appendix B's Ch10#1 bare one-line answer and
-           Ch14#1's bare answers (cosmetic, low priority, deferred
-           again); a subsection-numbering nit ("38.1a") in Ch38; a
-           Figure 6.1 placement/sequencing nit (appears before
-           dielectrics are introduced in 6.4) -- deferred, moving
-           embedded figures carries more risk than the finding
-           warrants; a low-confidence "Worked Example 7.0" numbering
-           oddity (only chapter starting its worked examples at .0
-           instead of .1) -- cosmetic, deferred.
-           RMS-vs-peak phasor convention: re-verified clean throughout
-           the entire book by all 4 agents independently (no
-           regressions since the prior pass's Ch35 fix). Structurally
-           validated (XML well-formedness on every part, zip integrity,
-           nested-w:p check, chapter continuity, word count, targeted
-           before/after string checks for every one of the 18 edits)
-           and delivered.
-
-  Book1 third review pass (2026-09-12, later the same day): user asked
-         for the review to be run again. Same 4-parallel-agent pattern,
-         each briefed on the cumulative fix history (13 + 21 + 18 items
-         from the three passes above) so they'd hunt for what's still
-         uncaught rather than re-litigate settled items, and each told
-         to reason about spelling by PATTERN (word endings) rather than
-         checking a fixed list, since that approach had already once
-         caused real misses. Two of the eight confirmed findings this
-         time were leftover defects in this session's OWN prior fixes,
-         caught by treating every previous edit as re-checkable rather
-         than assuming a thing already touched once must be correct:
-           - Ch7's "an electron takes the better part of an hour..."
-             (my own wording from the second pass) doesn't match the
-             book's own ~93-minute figure two sentences later -- "the
-             better part of an hour" undersells it. Changed to "well
-             over an hour."
-           - Ch17's Worked Example 17.1 rounding-chain fix from the
-             second pass was itself incomplete: x and y were bumped to
-             one more decimal (2.6154, 4.0769) but the intermediate
-             check value was left at the old precision ("13.077"),
-             which subtracts to 4.077, not the printed 4.0769. Fixed by
-             bumping the intermediate to matching precision (13.0769),
-             which reproduces 4.0769 exactly.
-         Six more issues, not previously caught by any pass:
-           - Ch37's Worked Example 37.2: f0 = 5033 Hz did not reproduce
-             from its own displayed omega0 (3.16x10^4 rad/s gives 5029
-             Hz) -- same rounding-cascade bug class as the Ch17 item --
-             fixed by displaying one more significant figure throughout
-             (3.1623x10^-5 / 3.1623x10^4), which reproduces 5033 Hz
-             exactly.
-           - Appendix D's Chapter 17 summary ("a zero determinant
-             indicates a physically impossible circuit, not an
-             arithmetic mistake") directly contradicted Appendix B's
-             own solved Ch17 example three, which is the OTHER
-             zero-determinant case (redundant/dependent equations,
-             infinitely many solutions, nothing impossible about it) --
-             reworded to the more general, already-correct phrasing
-             used elsewhere in the book ("no unique solution -- either
-             redundant equations or, less often, a physically
-             inconsistent circuit").
-           - Appendix B's Chapter 12 solution #6 misattributed
-             capacitor/inductor AC combination to "the next book of
-             this series" -- but this book's own Part III (specifically
-             Ch37, resonance) covers exactly that. Fixed to point to
-             "Part III of this very book" instead.
-           - Ch9 and Ch10: two places flatly stated electron spin is
-             "a tiny current loop at the atomic scale" -- true for
-             orbital motion, not literally true for spin (a standard
-             semiclassical simplification, but stated with no hedge in
-             a book that's otherwise careful about this kind of
-             nuance). Lightly hedged both ("behave, to good
-             approximation, like tiny current loops"; "atomic-scale
-             magnetic moments (electron orbits and spins)").
-           - Ch26's Bode-plot lead-in attributed "logarithmic axes" to
-             Chapter 19 when the book's own Chapter 18 is where
-             logarithmic axes are actually introduced (Ch19 covers
-             logs/decibels) -- reworded to attribute correctly.
-         Re-verified and NOT changed: Ch7's "93 minutes" figure itself
-         (self-consistent with the book's own displayed 2-sig-fig drift
-         velocity -- same standard used to clear two Appendix B items
-         in the second pass); a low-confidence "single mesh" topology
-         quibble in Ch30's Worked Example 30.2 (plausibly intentional
-         informal usage); a low-confidence Appendix D Ch16/Ch26 gap (no
-         direct contradiction, just unconfirmed follow-through). RMS
-         phasor convention and American spelling both re-verified clean
-         end-to-end by all 4 agents, including pattern-based (not
-         word-list) spelling sweeps. Structurally validated and
-         delivered the same way as every prior pass.
-
-SOURCES kept in 01. Foundations/Drafts/ (do not ship these; they are
-  the pre-merge standalone editions):
-    Basic_Physics_Electricity_and_Magnetism.docx
-    Mathematics_and_Measurement_for_EE.docx
-    DC_and_AC_Circuit_Theory.docx
-  (The stray loose copies of these two that once sat directly in
-  01. Foundations/, plus two stray cover-art PNGs from the same early
-  session, were deleted on 2026-08-25. Drafts/ is the only copy now.)
-
-  Book2  Core_Circuits_and_Components_Book2.docx -- WRITTEN (2026-08-25),
-         9 chapters + 4 appendices (A-D), ~8,800 words. Scope decision:
-         master-list topics 9-10 (Network Analysis, Transient Analysis)
-         were DROPPED from this book -- they duplicate Book 1 Part III
-         in full (Thevenin/Norton/nodal/mesh, first-order transients,
-         including the phasor-domain extension), so this book instead
-         opens with a Preface/Key Idea pointing back to Book 1 for that
-         material. Chapters cover topics 11-19 only: Analog Electronics,
-         Digital Electronics, Logic & Boolean Algebra, Combinational &
-         Sequential Circuits, Operational Amplifiers, Passive & Active
-         Filters, Resistors, Capacitors, Inductors. All worked examples
-         and practice-problem solutions independently verified (op-amp
-         gain formulas, filter corner frequencies, SRF, Q factor, Boolean
-         simplifications, full-adder truth table). Built directly via
-         docx-js (not raw-XML splice, since this is a new document, not
-         an edit of an existing one) -- see EE - Series/../scratchpad
-         convention used by whichever session continues this book.
-         NOT YET DONE (2026-08-25): 12 figures generated and embedded --
-         bias_headroom, logic_levels, kmap, full_adder, dff_timing,
-         inverting_amp, noninverting_amp, lowpass_response_b2,
-         active_filter_isolation, real_resistor_model, real_capacitor_srf,
-         real_inductor_saturation (one per chapter, two each for Ch4/5/6).
-         Same matplotlib style as Book 1's figures (blue #2E74B5/grey
-         #777777, DejaVu Sans, greyscale-safe). All 12 visually verified;
-         8 real bugs caught and fixed before embedding: a label collision
-         in bias_headroom, a fully-wrong logic_levels layout (rebuilt),
-         a K-map with its row labels swapped relative to its own data,
-         a full-adder diagram with C1 wired backwards into half-adder 1,
-         a D-flip-flop timing diagram with Q updating at the wrong
-         (non-edge) instants plus a duplicate/contradictory Q trace,
-         both op-amp schematics having their +/- labels floating at the
-         wrong coordinates entirely disconnected from the triangle, an
-         active-filter buffer diagram with the op-amp symbol and output
-         wire built from mismatched coordinates (visibly disconnected),
-         and the two 2-panel figures (capacitor/inductor) having THREE
-         overlapping axes from mixing the fig() decorator's auto-created
-         axes with manually-added subplots, corrupting both panels'
-         tick labels. Embedded directly via docx-js (ImageRun), since
-         this book is generated fresh each time from chapters.js/
-         frontback.js/index.js rather than edited via raw-XML splice.
-         Finishing pass CLOSED (2026-08-27):
-           - Fleisch's "A Student's Guide to Maxwell's Equations" added
-             to Book 1's Appendix F (Part I list, after Griffiths) --
-             flagged by the user as a friendlier companion to Griffiths
-             for a reader who liked Book 1's approachable style.
-           - Appendix E "Further Reading" added to Book 2: Horowitz/Hill,
-             Franco, Mano, Lancaster, Scherz/Monk -- covering analog,
-             op-amps, digital design, filters, and real-component
-             selection.
-           - Duplication/typo audit run on Book 2 (same method as Book
-             1): only the expected TOC/heading title duplicate found,
-             no repeated words, no stray formatting -- clean.
-           - Cover art generated for Book 2 (cover_book2.png, at the
-             EE - Series root next to the other cover PNGs): same
-             navy/gold series framework as Book 1's "Three Layers"
-             cover, with a central motif (resistor-capacitor-op-amp-
-             inductor-logic-gate chain) matching this book's ACTUAL
-             final scope, not the pre-scope-decision network/transient
-             framing the first draft prompt assumed. One clipping bug
-             caught and fixed (the gate/arrow ran off the right edge of
-             the canvas before the layout was compressed to fit).
-           Book 2 is now content-, figure-, and finishing-pass-complete,
-           same bar as Book 1. Confirmed 2026-08-27: Kindle ebook only
-           via KDP, no ISBN, same as Book 1.
-
-NOTE (2026-08-27): this file, and the per-topic tier-folder scaffolding
-  (01. Foundations/ through 21. Emerging Technologies/), were found
-  relocated into a new "Series - Later/" subfolder sometime between
-  2026-08-25 and 2026-08-27 -- presumably another session separating
-  finished/shipped books from future-work scaffolding. The finished
-  Foundations_Book1.docx, Core_Circuits_and_Components_Book2.docx, and
-  their cover art remain loose at the EE - Series root, which is where
-  new finished books should continue to be delivered.
-
-  Books 3-21 (tiers 03-21): not started.
-
-  Book2 expanded (2026-08-28): a second worked example added to every
-  chapter that had only one (Ch1, 2, 3, 4, 6, 8, 9 -- Ch5 and Ch7 already
-  had two), and practice problems expanded from 3 to 6 per chapter (27
-  new problems total), with all new Appendix B solutions written and
-  independently verified numerically before being added (asymmetric
-  headroom clipping, mixed-voltage-family noise margins, the consensus
-  theorem, a 2-bit counter sequence, one-decade-out filter attenuation,
-  DC-bias capacitor derating, inductor saturation-current margin, and
-  more). Word count: ~11,600 (up from ~9,300). Structurally validated;
-  the only surprise was the Worked-Example mention count coming in
-  higher than expected at first glance (22 vs. an anticipated 18) --
-  traced to 4 legitimate cross-references between examples/figures/
-  problems, not a duplication bug.
-
-NOTE: multiple Claude sessions have written into this folder. Check
-timestamps before bulk edits. (This entry last updated by the session
-that did the Ch34 cut + retitle + copyright page pass above.)
-
-Book2 precision pass + pagination fix (2026-09-04): the ChatGPT review
-flagged in the 2026-08-28 expansion entry above has now been fully
-addressed -- SR-latch text split into NOR (active-high) vs. NAND
-(active-low) versions with correctly matched forbidden states; stray
-"Section 7.5" cross-reference fixed to 7.4; Ch2's "no analog signal
-can match" overclaim replaced with a regeneration-based explanation;
-Ch6's "isolates ... entirely" softened to "largely isolated"
-everywhere it appeared; Ch4's D flip-flop paragraph got a setup/hold-
-time mention; Ch1's Key Idea box no longer conflates headroom with
-the linear region. Two optional worked examples added and verified
-(5.3 op-amp saturation, 6.3 filter design), plus a "what's next"
-scope-marker paragraph at the end of Ch4 (propagation delay, clock
-skew, metastability, fan-out, logic families -- named as deferred to
-a later book). ~12,260 words.
-
-  User then shared the actual rendered PDF (32 pages) for a full
-  visual QA pass -- the first real check of Word's actual rendering,
-  not just XML structural validation. Found and fixed one real bug:
-  bias_headroom.png's rail/bias labels sat directly on top of full-
-  width axhline() reference lines with no background, so the lines
-  struck through the text once embedded at display size (invisible in
-  the standalone PNG, only visible once actually rendered on the
-  page) -- fixed with a white bbox on those three labels.
-
-  Same pass also found two pages that looked blank/near-blank: page 5
-  (an orphaned "Appendix E" TOC-listing line stranded alone) and page
-  30 (fully blank between Appendix C's glossary and Appendix D's
-  heading). Root cause: every section start used a separate, empty
-  page-break-only paragraph immediately before its heading, instead
-  of attaching the break to the heading itself -- fragile, and
-  apparently mishandled by the PDF layout engine at the C-to-D
-  boundary even though the raw XML only ever had one break there.
-  Fixed structurally: every section-start heading (all 9 chapters,
-  all 5 appendices, the Preface, the Table of Contents) now carries
-  pageBreakBefore directly on its own heading paragraph; the TOC also
-  got its own forced fresh-page start (previously unprotected, which
-  is what stranded its last line); Appendix D-to-E got a break added
-  for consistency (previously relied on lucky natural overflow).
-
-  Verified, not just argued: discovered Word itself is installed and
-  COM-scriptable via PowerShell on this machine (no LibreOffice/
-  pdftoppm needed), used it to actually convert the rebuilt docx to a
-  real PDF and re-render every page. Result: 0 blank/near-blank pages
-  across all 36 pages (page count rose 32->36 since every chapter now
-  force-starts fresh instead of relying on overflow luck -- an
-  expected, harmless tradeoff). TOC now fits complete on one page;
-  Appendix C flows directly into D with no gap. Re-ran the
-  duplication/typo audit across the full expanded text too (last run
-  predated the 2x worked-example/practice-problem expansion) --
-  clean, no new issues. Book 2 is fully closed out: content, figures,
-  cover art, finishing pass, external review, and pagination all
-  verified against the actual rendered output, not just the source.
-
-Book2 spelling normalization (2026-09-12): a session that had just
-  brought Book 1 to a fully-checked state (spelling consistency + a
-  4-dimension audit) was re-scoped to Book 2 to bring it to the same
-  bar. Mechanical British/American spelling scan found Book 2 was not
-  internally mixed (unlike Book 1's issue) but was British-only in 9
-  word families with zero American counterpart anywhere in the book --
-  a series-consistency problem against Book 1, which is now American
-  throughout. Normalized to match: organised->organized (2),
-  recognised->recognized (2), generalises->generalizes (2),
-  behaviour/behaviours->behavior/behaviors (13), neighbour->neighbor
-  (1), centre/centred->center/centered (4), labelled->labeled (3). 27
-  replacements total, re-verified clean (case-insensitive check
-  confirms zero British forms remain). Structurally validated (XSD
-  schema, zip integrity, nested-w:p check); delivered.
-  A fresh 2-dimension-split audit (Chapters 1-9 / Appendices A-E) is
-  running in parallel, same method as Book 1's 4-agent audit --
-  independent recomputation of every worked example and Appendix B
-  solution, facts/clarity/tone check, cross-reference check against
-  Book 1. Results and any fixes to follow in a later entry.
-
-Book2 four-dimension audit (2026-09-12): the 2-agent audit above
-  completed. Unlike Book 1's audit, the Appendix B arithmetic came back
-  completely clean -- all 54 practice-problem solutions (6 per chapter
-  x 9 chapters) independently recomputed from scratch with zero errors
-  found. 16 other confirmed issues were found and fixed:
-    NUMERIC: Ch2's Worked Example 2.2 noise-margin conclusion had the
-    direction backwards ("more tolerant of low-side noise than
-    high-side" when NMH=0.8V > NML=0.6V means the opposite) -- fixed.
-    Ch6's Worked Example 6.2 printed 1/sqrt(101) as 0.0996; the correct
-    value is 0.0995 (final -20.0dB answer unaffected either way) --
-    fixed both occurrences.
-    LABELING (leftover from the 2026-09-04 pagination-fix content
-    reordering): Chapter 8's Worked Examples 8.1 and 8.2 were swapped
-    relative to reading order (the SRF problem, in section 8.3, was
-    labeled "8.1" while the DC-bias-derating problem, in section 8.1,
-    was labeled "8.2") -- both content blocks were untouched, only the
-    two labels were swapped back into reading order. Same bug, same
-    fix, for Chapter 9's Worked Examples 9.1/9.2 (saturation problem
-    vs. Q-factor problem).
-    FACTUAL: a Ch2 practice problem's "(typical of 5 V CMOS logic)"
-    parenthetical didn't match real CMOS thresholds and contradicted
-    the accurate CMOS numbers given in the very next practice problem
-    -- removed. Ch8's "sometimes violently for aluminum electrolytics"
-    singled out aluminum for a reverse-polarity failure mode tantalum
-    electrolytics are equally known for -- broadened to both. A Ch7
-    worked example's "modest margin (about 48%...)" conflated
-    utilization with margin -- reworded to state both the 48%
-    utilization and the ~52% margin explicitly. Appendix C's ESR/ESL
-    glossary entry implied ESL applies to inductors, contradicting
-    Ch9's own statement that an inductor's self-resonance comes from
-    parasitic winding capacitance (not inductance) and that this book
-    calls an inductor's series resistance DCR, not ESR -- entry split
-    to state this correctly. Appendix C's Quality-factor entry was
-    scoped only to "for an inductor," too narrow given Ch6's earlier,
-    more general use of Q for a resonant circuit's bandwidth --
-    broadened. Appendix C's Absorption-law entry gave only A+AB=A, but
-    Appendix B's own Ch3#1 solution separately labels the dual form
-    A(A+B)=A "the absorption law" too -- both forms now given. Appendix
-    C's Karnaugh-map entry omitted the single-bit-adjacency property
-    that is the actual reason the grouping technique works -- added.
-    SCOPE GAPS: Appendix D's Chapter 6, 8, and 9 summaries each omitted
-    a named subsection that Appendix B directly tests (Ch6: band-pass/
-    band-stop filters, tested by Ch6 Practice Problem 6's own notch-
-    filter answer; Ch8: voltage rating and polarity, tested by Ch8
-    Practice Problems 2 and 5; Ch9: real inductor construction types,
-    tested by Ch9 Practice Problem 3) -- all three summaries expanded
-    to cover the tested material.
-  Every finding independently re-verified against the actual chapter/
-  appendix text (not taken on faith) before fixing, same standard as
-  Book 1's audits. Structurally validated (XSD schema, zip integrity,
-  nested-w:p check); delivered. Word count: 12,068 (was 11,949).
-  Accompanying PDF regenerated via the same Word-COM-via-PowerShell
-  method proven on Book 1's 2026-09-04 pass (37 pages, up from 36 --
-  expected given the added text, no blank-page issues from a schema
-  and rendering standpoint).
-
-Book2 second review pass (2026-09-12, later the same day): user asked
-  for the same second-look treatment Book 1 had just gotten. Same
-  2-agent-genuinely-independent-re-review pattern (not re-checking the
-  first pass's fix list), all 54 Appendix B answers and all 15 Worked
-  Examples recomputed from scratch again. Before dispatching agents,
-  ran a from-scratch suffix-pattern spelling sweep (not the fixed word
-  list from the first pass) across the whole book, exactly the method
-  that caught Book 1's leftover spellings -- found one real miss,
-  "formalised" (Ch3, George Boole) -> "formalized," fixed immediately;
-  nothing else turned up on a second, more thorough sweep. Appendix B's
-  arithmetic came back clean again (still zero errors, both times
-  independently recomputed). 14 more confirmed issues found and fixed:
-    TYPOGRAPHY (mechanically verified, not judgment calls): a straight-
-    quote pair in Ch6's Key Idea ("Largely" matters) was the only
-    straight-quote instance in the whole manuscript against 10 curly
-    pairs elsewhere -- converted to curly. Two subscript-L characters
-    (in Ch2's Figure 2.1 caption and Worked Example 2.2's problem
-    statement) used a different Unicode code point (U+2097) than the
-    other 9 occurrences of the same subscript throughout the book
-    (U+029F) -- standardized.
-    FACTUAL/COMPLETENESS: Appendix A had a capacitor self-resonant-
-    frequency formula but no inductor one, despite Appendix C's
-    glossary and Appendix D's Ch9 summary both stating inductors have
-    an SRF too -- added the missing formula row, mirroring the
-    capacitor's row exactly. Appendix C's Active-filter entry mentioned
-    only load isolation, omitting the gain benefit Appendix D's own Ch6
-    summary treats as equally distinct -- added. Appendix D's Ch2 and
-    Ch5 summaries each omitted material Appendix B directly tests
-    (binary place-value notation; real op-amp saturation at the supply
-    rails) -- both added, same standard as the first pass's Ch6/8/9
-    fixes. Ch3's Key Idea overstated NAND/NOR universality as literally
-    how real chips are built (real ICs mix many gate types via
-    standard-cell synthesis) -- softened to note some designs take the
-    principle literally, without the false general claim.
-    CONTENT GAP, not just a summary fix: Ch4's Appendix D summary
-    omitted shift registers (tested by 2 of 6 Appendix B Ch4 problems),
-    but investigating further found the real problem was one level
-    deeper -- Chapter 4's own body text never actually introduces
-    "shift register" as a concept at all, so patching only the summary
-    would have left the practice problem and its answers referencing
-    something never taught. Fixed at the root: added one sentence to
-    Section 4.4 introducing shift registers as the natural third
-    variant alongside the register and counter already taught there,
-    then updated the chapter summary to match.
-    CLARITY: Appendix B's Chapter 5 solutions wrote resistor values as
-    bare "47k"/"20k"/"2k"/"220k"/"22k"/"30k" while Chapter 7's
-    solutions and this same chapter's own problem #5 spelled out
-    "k-ohm" in full -- standardized Ch5's answers to match. One exact
-    division (4.5V / 8 = 0.5625V, no rounding involved) was printed
-    with "~=" instead of "=" -- corrected. Appendix C's Quality-factor
-    entry read "for a single inductor," awkward phrasing left over from
-    broadening it in the first pass -- simplified to "for an inductor."
-    RE-VERIFIED AS NOT NEEDING ACTION: a practice problem (Ch1, bias
-    point centered between two equal-distance rails) was flagged as
-    having an ambiguously "tied" answer, but checking Appendix B's own
-    answer key showed this is a deliberate, explicitly-explained case
-    ("a well-centered bias point," with a second problem elsewhere in
-    the same set testing the identical pattern) -- not a defect, left
-    as-is.
-  Every finding independently re-verified against the actual chapter/
-  appendix text before fixing, including catching one first-pass
-  finding that turned out to be a false positive after verification.
-  Structurally validated (XSD schema, zip integrity, nested-w:p AND
-  nested-w:tr/w:tbl checks -- this pass's Appendix A fix was the first
-  table-row insertion done on this book, verified with the same rigor
-  as a paragraph insertion); delivered. Word count: 12,194 (was
-  12,068). Accompanying PDF regenerated again via Word COM.
-
-Book2 gap-list closeout (2026-09-13): user asked to close out the
-  remaining lower-confidence/lower-priority items the two review passes
-  above had explicitly deferred rather than fixed, instead of leaving
-  them open indefinitely. Three items, all independently re-verified
-  against the actual chapter text before fixing:
-    Chapter 1's Appendix D summary omitted Section 1.3 (Gain and
-    Distortion) entirely -- flagged in the FIRST audit pass but never
-    actually fixed (Ch2/4/5/6/8/9 summaries were each fixed for the
-    same class of gap, but Ch1 was missed). Added a clause on the
-    gain/headroom tradeoff and clipping, matching the chapter's own
-    Common Misconception box on the same topic.
-    Appendix C's glossary was missing two named, specifically-tested
-    terms, deferred in the SECOND pass as lower-confidence and as
-    requiring a full paragraph insertion rather than a text edit:
-    "Class 2 dielectric" (tested directly by Appendix B Ch8#3 and named
-    in the Ch8 chapter summary) and "Regeneration" (a named Ch2 Key
-    Idea concept). Both added in correct alphabetical position
-    (Class 2 dielectric between Boolean algebra and Clipping;
-    Regeneration between Quality factor and Self-resonant frequency),
-    matching the existing entries' exact paragraph formatting.
-  This was the first genuine new-paragraph insertion into Appendix C on
-  this book (the second pass's Appendix A fix was a table-row
-  insertion, a different structure) -- anchored on a full </w:p><w:p>
-  boundary per this session's established practice, and validated with
-  the standard nested-w:p check in addition to XSD schema and zip
-  integrity. Delivered. Word count: 12,284 (was 12,194). PDF
-  regenerated again via Word COM. With this pass, no further deferred
-  or "possible" items remain open from either Book 2 review pass.
-
-Book2 location move + EE2 subfolder convention (2026-09-20/25): the
-  books folder moved from D:\My Books for Amazon to C:\Users\lomus\
-  OneDrive\My Books for Amazon after D: drive corruption (383 files
-  damaged 2026-09-16/17, unrelated to this book). Book 2 verified
-  intact post-move: all zip members and embedded PNGs pass CRC checks,
-  body text and images byte-identical to the last delivered build. On
-  2026-09-25 the user asked for a dedicated delivery subfolder,
-  EE - Series/EE2/, docx file only (no PDF, no debug/check files) --
-  the pre-existing root-level Core_Circuits_and_Components_Book2.docx
-  was left in place, untouched, but all NEW work from this point goes
-  to EE2/ instead.
-
-Book2 headline styling (2026-09-25): user supplied a blue swatch image
-  (sampled to #0000FF) and asked for centered, bold headline styling in
-  Amazon Ember, 18pt, applied consistently to any headline "big or
-  small." Both Heading1 and Heading2 styles changed in word/styles.xml
-  (76 instances via the style definitions, zero per-paragraph
-  overrides): font Amazon Ember, bold, centered, color 0000FF, size
-  unified to 18pt (previously two different sizes). Amazon Ember is
-  not installed on the machine that built this -- the XML correctly
-  specifies it, but any local render substitutes a fallback font until
-  opened somewhere the font is actually installed (or by Kindle's own
-  renderer). One schema bug hit and fixed: <w:jc> must precede
-  <w:outlineLvl> in a style's <w:pPr> or XSD validation fails even
-  though the XML is well-formed.
-
-Book2 overused-verb check (2026-09-25): user asked to check for verbs
-  repeated on the same page. Extracted true per-page text via Word COM
-  pagination, POS-tagged and lemmatized (NLTK) to group verb forms by
-  page. Found 127 raw same-page repeats across 28 pages; reading each
-  in context showed the large majority are legitimate technical
-  vocabulary, fixed structural labels, or deliberate parallel-structure
-  rhetoric that must NOT be touched (touching them would have undone
-  prior audit passes' careful wording). Fixed only the 5 genuine
-  same-sentence or needless-repeat cases (Ch1, Ch2, Ch4 x3), each
-  independently confirmed as a unique occurrence before editing.
-
-Book2 Physics Didactic Style Guide pass (2026-09-25): user pointed at
-  Physics Didactic Style Guide.md and asked for its approach applied
-  where easy to implement -- scoped down (per the user) from the
-  guide's full seven-move pedagogical rewrite to just its mechanical
-  Register checklist (banned dismissive hedges: clearly, obviously,
-  simply, just, of course, "it can be shown that," etc.). The book was
-  already clean on nearly every banned pattern; found and fixed the 4
-  genuine hinge-word cases (all "simply," dropped with no rewording
-  needed). No pedagogical rewrite was attempted in this pass.
-
-Book2 gentle-opener pass, ALL CHAPTERS (2026-09-25) -- STANDING
-  INSTRUCTION: user then said "make sure the book really goes very
-  gentle on the clueless reader... from now on do that," explicitly
-  escalating past the "easy to implement" scoping above and asking for
-  this quality to be maintained on all FUTURE additions to this book,
-  not just this one pass. Designed a repeatable "gentle opener"
-  pattern -- one short paragraph (14-90 words) inserted before each
-  chapter's existing opening paragraph, grounding the chapter's new
-  concept in a completely everyday, non-technical image (light switch,
-  vending machine, kitchen strainer, soda can, etc.) before the
-  chapter's own text continues unchanged. Applied to all 9 chapters,
-  each anchored on the target paragraph's own w14:paraId to avoid
-  corrupting the existing text run. Ch8/Ch9 deliberately got short
-  one-sentence callbacks instead of full new analogies, since they
-  extend Ch7's concept rather than introduce a new one. Word count
-  12,281 -> 12,862. Structurally validated; delivered to EE2/.
-
-Book2 hostile-referee pass (2026-09-26): user pasted a strict
-  adversarial-review persona (attack-only, no rewriting, no invented
-  facts, mark UNVERIFIED rather than fix, 6 attack classes). Read the
-  entire current book (485 paragraphs) in one pass rather than
-  delegating to agents, specifically to catch cross-chapter
-  contradictions. Independently re-verified all Appendix B arithmetic
-  again (fourth clean pass, zero errors). VERDICT: "publishable with
-  patches." 7 findings, all fixed on the immediate "fix/patch those"
-  follow-up: Ch2's elliptical sentence ending spelled out; Ch4's XOR
-  reference made self-contained instead of falsely implying prior
-  coverage; Ch3 Worked Example 3.1's circular proof replaced with a
-  direct two-case check; Ch4's "entire basis of synchronous design"
-  overclaim softened to "a foundation of"; Ch5's golden rules given
-  the missing identifying test for negative vs. positive feedback (the
-  most serious finding -- the book taught the rule but never how to
-  recognize its precondition); Ch6 Worked Example 6.3 given a stated
-  resistor-value criterion; Ch7's SMD-dominance overclaim broadened
-  from size alone to size/cost/assembly. Structurally validated (XSD
-  schema, zip integrity, nested-w:p); delivered to EE2/. Word count
-  12,862 -> 12,938.
-
-With this pass, Book 2 has now had six independent review/audit passes
-  (four-dimension audit, second review, gap-list closeout, plus this
-  session's verb check, style-guide check, and hostile-referee pass) --
-  no further deferred items are known to remain.
-
-SOURCE MAP (2026-09-30)
-  Scope references only. Manuscript prose stays original. Do not paste
-  these books into the series. Steer, Ellingson, and Astrom/Murray are
-  open access; their licenses restrict commercial reuse of the text
-  itself, so cite them and rewrite.
-
-  Book 3  Semiconductor Physics and Devices. Part I draft is in
-          EE3/ (crystal, doping, drift and diffusion, the junction,
-          the diode law, real diodes). Later parts use:
-          Tietze, Schenk, Gamm, Halbleiter-Schaltungstechnik, 16th ed.
-          2019, as the circuit-technique check. That edition reworked
-          the op-amp chapter. CMOS chip layer: Weste and Harris, CMOS
-          VLSI Design, 4th; Rabaey, Chandrakasan, and Nikolic, Digital
-          Integrated Circuits, 2nd; Kang, Leblebici, and Kim; Sutherland,
-          Sproull, and Harris, Logical Effort; David Harris,
-          Skew-Tolerant Circuit Design; Kaeslin, Top-Down Digital VLSI
-          Design. Shelf: Pucknell and Eshraghian, Uyemura. Franco,
-          Horowitz and Hill feedback chapters, and the TI/ADI op-amp
-          stability notes when the chapter is inside an amplifier.
-          RTL is not its own volume. On-ramp, not a rewrite of Book 2:
-          Harris and Harris, Digital Design and Computer Architecture;
-          Vahid if a lighter logic text is wanted; Palnitkar or Ashenden,
-          plus Chu, when the reader starts coding hardware. STA and
-          backend (Bhasker and Chadha; constraint-style Synopsys books;
-          Brunvand) sit on the edge between this book and Book 18.
-
-  Book 4  RF and High-Frequency Engineering. Reading order: Bowick
-          (matching, Smith chart, filters, a first amplifier), then
-          Pozar or Steer, Microwave and RF Design, 3rd ed. 2019,
-          volumes 1-3. Companion: All About Circuits, Practical Guide
-          to Radio-Frequency Analysis and Design. Tietze/Schenk 16th,
-          high-frequency chapters, as a circuit cross-check. Active
-          stability (Besser volume 2, or Gonzalez) is the doorway into
-          Book 17.
-
-  Book 5  Noise and System Performance. McClaning for the receiver
-          cascade from the RF side of the converter. Steer volume 1.
-          Razavi when the noise is inside a radio IC.
-
-  Book 6  Modulation and Communication Theory. Sklar (later editions
-          with Fred Harris) is the readable theory book. Rice for the
-          discrete-time view. Couch when analog modulation still
-          matters. Proakis and Salehi is the lookup, not the first
-          read. Ellingson, Radio Systems Engineering.
-
-  Book 7  PLL and Frequency Synthesis. Gardner, or Best if the reader
-          wants circuits. Egan is the clearer first read. Rhee and Yu
-          (2023) for modern IC PLLs. Haidekker as a bridge from Book 16.
-          Razavi or Gu when the loop is inside a radio. Layout failures
-          (charge pump, loop filter, VCO supply, reference crosstalk)
-          are called out here and built in Books 11 and 18.
-
-  Book 8  Microwave Engineering. Pozar, or Steer volumes 2-3. MIT
-          Radiation Laboratory series as the historical classic, not
-          the modern design text. Matthaei, Young, and Jones kept as
-          the filter reference.
-
-  Book 9  mmWave Engineering. Steer and Pozar. Rad Lab only as history.
-
-  Book 10 Antennas and Radiation. An antenna handbook on the shelf.
-          Ellingson for the link. Rad Lab antenna volume as history.
-
-  Book 11 EMC, EMI and Emissions. Ott, Electromagnetic Compatibility
-          Engineering, is the book to read once. Montrose (both EMC
-          books) stays on the desk while routing. Archambeault.
-          Morrison, Grounding and Shielding. Bogatin, Signal and Power
-          Integrity, as the partner text.
-
-  Book 12 Wireless Systems and Protocols. Ellingson, Gu, Razavi.
-          Chaudhari for the visual, SDR-side intuition.
-
-  Book 13 Radar Systems. MIT Radiation Laboratory series as the
-          historical foundation.
-
-  Book 14 DSP and SDR. Read in this order: Lyons; then Johnson,
-          Sethares, and Klein, or Collins, Getz, Pu, and Wyglinski;
-          then Sklar; then Rouphael or McClaning. Also this volume:
-          Chaudhari; Rice; fred harris on multirate processing;
-          Frerking; Reed; Kenington; Steer volume 1 for the SDR case
-          study; Stewart, Barlee, and Atkinson (RTL-SDR); Stewart and
-          others (RFSoC); Reyland (2024); PySDR; the GNU Radio reading
-          list; Ossmann's course. Digital control as a subject is
-          Book 16. This book only owes that subject a clean sampling
-          story.
-
-  Book 15 Power and Energy. Two crafts: the linear regulator / LDO,
-          and the switching regulator. Loop books and PCB books are
-          the other half of both crafts.
-
-          Using an LDO or a module and making it stable: vendor notes
-          first (TI LDO Basics, PSRR, and ceramic-cap stability; ADI
-          and the Jim Williams notes; Infineon, ST, and Microchip
-          selection and layout), then the linear chapters of Basso,
-          Designing Control Loops, then Ott and Bogatin for the
-          copper. Three-terminal classics (7805, LM317): The Art of
-          Electronics, and the old National Semiconductor linear
-          databooks.
-
-          Designing the LDO as a chip: Rincon-Mora, Analog IC Design
-          with Low-Dropout Regulators, then Wicht, Design of Power
-          Management Integrated Circuits. Franco for the error
-          amplifier and a capacitive load (Franco is also named under
-          Book 3).
-
-          A buck or boost on the bench: Basso, Switch-Mode Power
-          Supplies: SPICE Simulations and Practical Designs, together
-          with Basso, Designing Control Loops, together with
-          Maniktala, Switching Power Supplies A to Z. Brown, Power
-          Supply Cookbook, when the job is to pick a topology and
-          size the parts.
-
-          Isolated flyback and offline: Pressman, Billings, and Morey,
-          Switching Power Supply Design, 3rd, plus Basso, plus
-          McLyman, Transformer and Inductor Design Handbook.
-
-          The plant equations: Erickson and Maksimovic, Fundamentals
-          of Power Electronics, and their free CU Boulder notes.
-          Ridley for current-mode rules of thumb.
-
-          Measuring whether the loop is actually stable: Sandler,
-          Power Integrity, plus Basso's measurement chapters.
-
-          Short stack for this book: (1) Basso on loops, linear and
-          switching; (2) Basso's switch-mode book, or Maniktala;
-          (3) Erickson and Maksimovic when the model is required;
-          (4) Rincon-Mora when the regulator is an IC; (5) Pressman,
-          Billings, and Morey as the topology encyclopedia. Leave
-          open on the desk: TI Power Stage Designer and Webench
-          notes, the Williams material, and the layout page of the
-          exact controller in use.
-
-          Copper, taught here and drawn in Books 11 and 18. An LDO
-          dies when the feedback divider is far from the pins, when
-          the output capacitor's ESR and ESL are ignored, or when a
-          shared return wrecks PSRR. A buck dies when the hot loop
-          (input capacitor, switch, diode or synchronous FET) is
-          large, when AGND and PGND meet in more than one place, or
-          when the sense is not Kelvin. Boost and flyback add the
-          snubber and the auxiliary winding to that same hot-loop
-          rule. A regulator fails from the Bode plot or from that
-          copper about equally often.
-
-  Book 16 Control and Automation. Astrom and Murray, Feedback Systems,
-          for the modern introduction (free from the authors). Nise
-          for the worked undergrad course. Ogata as the heavier
-          reference. Haidekker when the loop is electronic, including
-          his PLL and oscillator examples. Franklin, Powell, and
-          Workman, and Astrom and Wittenmark, for loops in code.
-          Motion and PID live here. If the reader only needs the
-          sentence "a Bode plot is still fuzzy," send them to Nise or
-          Astrom before a specialty book.
-
-  Book 17 Oscillators, Modulators, and Transceivers. Besser volume 2
-          or Gonzalez for active circuits and stability. Razavi or Gu
-          for radios and ICs. Cripps kept as the power-amplifier
-          reference. Steer volumes 4 and 5.
-
-  Book 18 Technologies, Layout, and Packaging. This is where digital
-          design meets RF, and where a loop dies in the copper.
-          Johnson and Graham, High-Speed Digital Design; Johnson,
-          High-Speed Signal Propagation; Hall and Heck; Hall, Hall,
-          and McCall; Bogatin, Signal and Power Integrity -- Simplified;
-          Bogatin's prototype PCB guide; Mitzner for CAD flow; Ritchey,
-          Right the First Time, volumes I and II; Morrison, Fast
-          Circuit Boards. Monk only for a two-layer hobby board.
-          There is no single RF-layout textbook: Bowick's grounding
-          pages, the Analog Devices / Qorvo / Skyworks layout notes,
-          Pozar or Steer for why a discontinuity matters, Ott and
-          Montrose for the digital/RF split. Rules the sources agree
-          on: a continuous reference under an RF trace, a via fence,
-          a short ground into a plane, digital return current kept off
-          the RF island, and a PA matching network treated as a
-          microwave circuit.
-          Tiny path across books, not a new volume: Harris and Harris
-          for logic (Book 2 already did the gate version) -> Weste and
-          Harris for CMOS (Book 3) -> Johnson for boards (this book).
-
-  How a loop and a board fail together. The loop can be wrong in the
-  schematic (gain and phase) or wrong in the layout (sense lines,
-  shared switch-current returns, a compensator spread across the
-  board, ground bounce under a divider, a charge-pump filter, stray
-  capacitance at an inverting node, an ADC ground that aliases).
-  Ott plus Basso is the pair for "it oscillates on the PCB and not
-  in SPICE." Say that in Books 11, 15, and 18, in each book's own
-  words.
-
-  Shopping list, if a reader asks for a short pile rather than the
-  whole series: Basso on power loops; Nise or Astrom and Murray for
-  the language; Gardner or Best if the loop is a PLL; Ott; Bogatin;
-  Montrose on the desk while routing.
-
-  Books 19-21 have no new sources in this pass. Book 19 may later
-  point at Basso's SPICE book and Brunvand without moving those
-  books off Books 15 and 3.
-
-Book 3 status (2026-09-30): Part I drafted in
-  EE3/Semiconductor_Physics_and_Devices_Book3.docx.
-  Six chapters: the crystal, doping, drift and diffusion, the junction
-  at rest, the diode law, and the diode you can buy. Working constants
-  are declared in the book (VT = 26 mV, ni = 1.0e10 cm^-3). Parts II
-  through VI are not in the file yet. Books 4-21 are not started.
-
-SOURCE MAP ADDITIONS (2026-09-30, second pass)
-  The first map was strong on RF circuits, digital and SDR, CMOS
-  logic, loops, PCB, and board-level regulators. The holes below are
-  filed on the volume that owns them. Do not paste these books in.
-  Three power professions stay on separate shelves. A kW RF
-  transmitter is not a buck converter, and a Marx bank is not a
-  48 V bus.
-
-  General analog, the judgment layer. Horowitz and Hill, The Art of
-  Electronics, plus the X-Chapters: grounding, probing, discretes,
-  op-amps, noise, and the failures specialty texts skip. Name it from
-  Books 2, 3, and 20. Gray, Hurst, Lewis, and Meyer, Analysis and
-  Design of Analog Integrated Circuits, and Razavi, Design of Analog
-  CMOS Integrated Circuits, belong to Book 3 once the chapter is an
-  analog chip rather than a radio. Razavi's RFIC book stays on
-  Books 7, 12, and 17.
-
-  Fields, the layer under RF. Pozar assumes this language already.
-  Ulaby, Fundamentals of Applied Electromagnetics, is the gentler
-  on-ramp. Hayt and Buck, or Cheng, Engineering Electromagnetics,
-  is the course book. Balanis, Advanced Engineering Electromagnetics,
-  is the reference. Book 1 already did circuit-level electricity and
-  magnetism. These three support Books 4, 8, 9, and 10, and the
-  sentence "why this via radiates" in Books 11 and 18. Do not rewrite
-  Book 1 as a fields course.
-
-  Antennas and propagation. Book 10 owns them. Balanis, Antenna
-  Theory. Stutzman and Thiele, Antenna Theory and Design. The ARRL
-  Antenna Book when the job is to build one. Rappaport, Wireless
-  Communications, for cellular channels, shared with Book 12.
-  Bertoni or Parsons when the problem is an urban link rather than
-  the circuit.
-
-  Measurements. Book 20 owns the instruments, with Book 8 as the
-  microwave-component partner. Dunsmore, Handbook of Microwave
-  Component Measurements, for the VNA, calibration, and fixtures.
-  Keysight and Rohde & Schwarz application notes, and the Agilent /
-  Keysight spectrum-analyzer and phase-noise primers, stay free and
-  are often the better second read. Sandler stays on Book 15 for
-  loop and PDN measurement, and is cited again here when the
-  question is "did the loop really measure as stable."
-
-  Noise as its own subject. Book 5 owns it. Motchenbacher and
-  Connelly, Low-Noise Electronic System Design. Hajimiri and Lee
-  on phase noise, and Razavi's phase-noise chapters. Robins, Phase
-  Noise in Signal Sources. PLL residual noise stays with Gardner,
-  Best, and Goldberg on Book 7. Do not leave phase noise only as a
-  aside inside Pozar or Razavi.
-
-  Data converters. Book 14 owns the ADC and DAC that a digital
-  radio actually uses. Van de Plassche. Razavi, Principles of Data
-  Conversion System Design. Kester and Analog Devices, The Data
-  Conversion Handbook. Maloberti, Data Converters. Sampling,
-  aperture jitter, SFDR, and the clock are the joint between this
-  book and the RF front end in Books 4 and 5.
-
-  Filters. Microwave filters: Matthaei, Young, and Jones is no
-  longer only a named gap. Book 8 owns it, with Hunter, Theory and
-  Design of Microwave Filters. Lumped analog filters: Van Valkenburg,
-  or Schaumann, Xiao, and Van Valkenburg, Design of Analog Filters,
-  on Book 2's filter chapter and again on Book 4 when the filter
-  is still lumped.
-
-  Oscillators, as distinct from PLLs. Book 17 owns the oscillator.
-  Grebennikov, RF and Microwave Transistor Oscillator Design.
-  Rohde, Microwave Circuit Design Using Linear and Nonlinear
-  Techniques (oscillators, mixers, and synthesizers). Rhea,
-  Oscillator Design and Computer Simulation. Book 7 keeps the
-  phase-locked loop wrapped around that oscillator.
-
-  Mixers, power amplifiers, nonlinear circuits. Book 17 owns them.
-  Cripps, RF Power Amplifiers for Wireless Communications, and
-  Advanced Techniques in RF Power Amplifier Design, are owned
-  books here, not a one-line mention. Maas, Microwave Mixers, and
-  Nonlinear Microwave and RF Circuits. Vendelin, Pavio, and Rohde
-  for nonlinear techniques. Gonzalez remains the stability text on
-  this same book.
-
-  Magnetics beyond one SMPS chapter. McLyman stays on Book 15 for
-  the converter inductor and transformer. Sevick, Transmission
-  Line Transformers, is the RF balun and transformer book: Books
-  4, 8, and 17. Erickson and Witulski's magnetics chapters stay
-  with the converter plant on Book 15.
-
-  Thermal, reliability, packaging. Book 18 owns them. Seri Lee and
-  Lasance style thermal management. Chuck Harper on packaging.
-  MIL-HDBK and IEC derating practice. A reliability text of the
-  RIAC sort if the book is about shipping a product. Vendor SOA
-  and theta-JA notes are often enough for a single part, and they
-  belong in the same chapter as the copper that heats it.
-
-  Safety, isolation, mains entry. Book 15's offline-regulator
-  chapters own Pressman and Billings on isolation, IEC 62368-1
-  practice, and creepage and clearance notes. Whitaker moves to
-  the high-power RF shelf below when the voltage is a broadcast
-  or high-power RF plant, not a wall-wart.
-
-  Radar, electronic warfare, radio systems. Book 13 owns them.
-  Steer volume 1 is the systems-lite on-ramp and stays on Book 4.
-  Skolnik, Introduction to Radar Systems, and Radar Handbook.
-  Richards, Fundamentals of Radar Signal Processing. Tsui,
-  Microwave Receivers with Electronic Warfare Applications.
-
-  Tools. Book 19 owns them. Vladimirescu, or Basso's SPICE book,
-  for circuit simulation, without moving Basso off Book 15.
-  Swanson and Hoefer, or the vendor HFSS and CST cookbooks, for
-  electromagnetic simulation. Reed stays on Book 14. PySDR stays
-  on Book 14.
-
-  Lab craft. Book 20 owns it. The Art of Electronics again. Pease,
-  Troubleshooting Analog Circuits. Witte, Electronic Test
-  Instruments, or Spectrum and Network Measurements.
-
-  Compact stack for the holes, if a reader asks for the shortest
-  pile that the earlier lists assumed: Horowitz and Hill; Ulaby;
-  Dunsmore; Balanis, Antenna Theory; the ADI Data Conversion
-  Handbook plus Razavi on converters; Cripps; McLyman; Pease.
-
-  THREE POWER SHELVES. Do not merge these into the LDO and
-  switcher chapters already filed on Book 15.
-
-  Shelf A. High-power RF. Transmitters, combiners, tubes, from
-  kilowatts upward. This continues Cripps and Grebennikov. It does
-  not continue Erickson. Home: Book 17, in its own part, after the
-  small-signal transceiver chapters.
-          Cripps, both PA books.
-          Grebennikov, RF and Microwave Transmitter Design
-          (matching, combiners, classes D, E, and F, radar,
-          broadcast, and cellular architectures).
-          Grebennikov, Sokal, and Franco, Switchmode RF and
-          Microwave Power Amplifiers (class E and F, Doherty).
-          Kazimierczuk, RF Power Amplifiers, for class A through F
-          with design equations.
-          Raab, RF and Microwave Power Amplifiers (2025), for
-          efficiency, SWR, and GaN, LDMOS, and HBT practice.
-          Whitaker, The RF Transmission Systems Handbook, and the
-          related broadcast books, for kilowatt plants: tubes,
-          lines, combiners, dummy loads, cooling, maintenance.
-          Eimac / CPI, Care and Feeding of Power Grid Tubes.
-          Gilmour, Klystrons, Traveling Wave Tubes, Magnetrons,
-          Crossed-Field Amplifiers, and Gyrotrons, when the device
-          is a tube.
-          High-power combiners, couplers, pressurized line, and
-          VSWR foldback are app notes and Whitaker, not a separate
-          textbook. Thermal companion: Harper (Book 18) and the
-          vendor GaN or LDMOS reference design. A PA drain supply
-          may be a Basso or Erickson regulator, but at tens of
-          volts and tens or hundreds of amperes, with hot-loop
-          inductance measured in nanohenries. Say that in Book 17
-          and point at Book 15. Do not teach the transmitter inside
-          the buck chapter.
-          Short stack: Cripps, Grebennikov's transmitter book,
-          Whitaker, and the device vendor's cookbook.
-
-  Shelf B. Facility and utility power. Transformers, feeders,
-          fault current, grounding, coordination. Bogatin's board
-          PDN is not this. Home: its own part of Book 15, after
-          the regulator chapters, opened with a sentence that the
-          reader has changed professions.
-          Industrial and building power, which is what an
-          electronics lab usually needs: IEEE Std 141 (Red Book)
-          first; IEEE Std 142 (Green Book) grounding; IEEE Std 242
-          (Buff Book) protection and coordination; IEEE Std 399
-          (Brown Book) analysis; IEEE Std 1100 (Emerald Book) for
-          powering and grounding electronic equipment, the volume
-          that speaks to an RF or digital rack. Beeman, Industrial
-          Power Systems Handbook. Dunki-Jacobs, Shields, and
-          St. Pierre on ungrounded, high-resistance, and solidly
-          grounded systems. Soares on grounding and bonding.
-          Utility and medium or high voltage distribution: Gonen,
-          Electric Power Distribution Engineering. Short, Electric
-          Power Distribution Handbook. Kersting for an unbalanced
-          feeder model. Glover, Sarma, and Overbye, or Grainger and
-          Stevenson, when the problem climbs above the substation.
-          Codes to design to, not to read as textbooks: NEC /
-          NFPA 70, IEEE C37 switchgear, IEC 60364 outside North
-          America.
-          A rack in an RF building is IEEE 1100 plus Ott, not a
-          board-level PDN chapter.
-          Short stack for a lab or plant: IEEE 141, IEEE 1100,
-          Dunki-Jacobs, and Short or Gonen if the reader owns the
-          feeders.
-
-  Shelf C. High voltage and pulsed power. Insulation, breakdown,
-          Marx banks, high-voltage measurement. Not a 48 V bus.
-          Home: its own part of Book 15, after shelf B, and Book 13
-          cites it when the object is a radar modulator.
-          Power-system high voltage: Kuffel, Zaengl, and Kuffel,
-          High Voltage Engineering Fundamentals, as the first
-          textbook. Naidu and Kamaraju as the course book. Arora
-          and Mosch for fields, dielectrics, and GIS. Ushakov for
-          insulation design, aging, and diagnostics. IEC 60071 for
-          insulation coordination. IEEE 4 for high-voltage testing.
-          Pulsed power: Lehr and Ron, Foundations of Pulsed Power
-          Technology, as the modern single volume (Marx, pulse
-          forming lines, switches, breakdown, measurement, EMI).
-          Pai and Zhang. J. C. Martin's collected notes for
-          nanosecond practice. Latham, High Voltage Vacuum
-          Insulation, for tubes, guns, and space pulsed power.
-          Mesyats when the mechanism is vacuum breakdown or
-          explosive emission.
-          Safety is not optional and is not a textbook substitute
-          for a procedure: NFPA 70E, IEEE C2 (NESC) on utility
-          lines, the one-hand rule, a grounding stick, a dump
-          resistor, and stored energy as one-half C V squared.
-          Offline switchers still use Pressman on isolation and
-          IEC 62368, and they borrow creepage from this shelf.
-          A tube modulator is Gilmour plus Lehr and Ron plus
-          Latham.
-          Short stack for an HV lab or a pulsed modulator: Kuffel,
-          Lehr and Ron, Latham if the insulation is vacuum, and
-          NFPA 70E.
-          Short stack for a substation: Glover or Grainger and
-          Stevenson, Gonen or Short, Arora and Mosch or Kuffel,
-          and the IEEE color books.
-
-UMSPANNEN (2026-09-30)
-  One Faraday law, four shelves. V = N dPhi/dt. Raising frequency
-  lets you cut turns or core area for the same voltage, until
-  copper AC resistance and core loss eat the gain. Do not write
-  a 50 Hz tank, a flyback, a pulse transformer, and an RF balun
-  as one chapter.
-
-  Line frequency and distribution, 16 2/3, 50, and 60 Hz, plus
-  400 Hz aircraft iron. Home: Book 15, shelf B, with shelf C
-  when the insulation is oil-paper, a bushing, or a lightning
-  impulse. Heathcote, J and P Transformer Book, or Kulkarni and
-  Khaparde, Transformer Engineering. IEEE C57, including C57.110
-  and K-factor, because a silicon-carbide inverter on a "50 Hz"
-  transformer is a harmonics problem in the 2-9 kHz band.
-  Flanagan, Handbook of Transformer Design and Applications,
-  when one volume has to span power, audio, wideband, and pulse.
-  McLyman remains the sizing procedure (area product, core
-  geometry, wire, insulation, thermal) and his HF chapters are
-  used on the switch-mode shelf, not instead of Heathcote.
-  German shelf, if that language is the one open on the bench:
-  Boedefeld and Sequenz, Kuechler, Hochspannungstechnik, and the
-  VDE transformer specs. Kuffel and Arora/Mosch stay the
-  insulation books.
-
-  High-frequency power magnetics, kilohertz to low megahertz.
-  Home: Book 15, the isolated-converter chapters, not shelf B.
-  Kazimierczuk, High-Frequency Magnetic Components, is the
-  frequency book: skin, proximity, Dowell, core loss, winding
-  optimization. McLyman for the procedure. Erickson and
-  Maksimovic magnetics chapters, and Hurley's magnetics-design
-  material, for AC copper loss. Ferrite catalogs are design
-  data, not optional reading: TDK/EPCOS, Ferroxcube, Magnetics
-  Inc., with Steinmetz or improved-Steinmetz coefficients.
-  Pairing for an offline or isolated supply: McLyman,
-  Kazimierczuk, and Basso. Silicon steel is the 50/60 Hz core.
-  Eddy currents remove it in the kilohertz. Ferrite, powder,
-  and amorphous alloys take over, with lower peak flux and
-  loss that grows as frequency and flux density rise. "It
-  cooked at 8 kHz" is Kazimierczuk plus C57.110 plus the
-  ferrite loss chart.
-
-  Pulse transformers, nanoseconds to microseconds. Home:
-  Book 15, shelf C, and Book 13 when the pulse is a radar
-  modulator. Flanagan's pulse chapter. Lehr and Ron for pulse
-  transformers and pulse-forming networks. Grossner,
-  Transformers for Electronic Circuits, older and still the
-  pulse and wideband reference. TI, ADI, and Infineon gate-drive
-  notes for the small pulse transformer on a switch. Leakage
-  inductance, capacitance, volt-seconds, and insulation dv/dt
-  dominate, not iron loss at 50 Hz.
-
-  RF and microwave, baluns, ununs, combiners. Home: Books 4, 8,
-  and 17. Sevick and Mack, Sevick's Transmission Line
-  Transformers, is this shelf's "umspannen": Guanella, Ruthroff,
-  ferrite, high-power baluns. Once the winding is a fraction of
-  a wavelength, the design quantity is even-mode and odd-mode
-  impedance, and the core is a common-mode ballast, not the
-  energy-storage path. Grebennikov's transmitter book for
-  combiners. Bowick and the ARRL Antenna Book for amateur-power
-  baluns. Marchand baluns and coax hybrids: Pozar plus vendor
-  notes, not a laminated core.
-  Short stack for a kilowatt HF balun: Sevick and Grebennikov.
-
-  Copper and core rules every shelf states in its own words.
-  Skin depth in copper is about 66/sqrt(f in hertz) millimeters.
-  Above a few kilohertz the center of a solid wire is wasted:
-  Litz, foil, or many strands. Proximity loss in a multilayer
-  winding often exceeds skin loss. Leakage inductance and
-  interwinding capacitance set bandwidth, pulse overshoot, and
-  the snubber, and they set the first resonance a VNA or an
-  impulse test will see. Impulse and dv/dt stress turn-to-turn
-  insulation harder than 50 Hz rms does.
-
-  Minimal magnetics pile, if a reader asks for three titles:
-  McLyman to size it, Kazimierczuk for why frequency hurts the
-  copper and the core, Sevick when the part has become RF.
-  Add IEEE C57 and Heathcote when the iron is on the grid.
+  Book 1  Content-complete: 38 chapters, 6 appendices,
+          ~59,398 words, 38 figures. Kindle only, no ISBN.
+          Stale item: the printed 21-book roadmap table
+          inside Foundations. Fix on the next Foundations
+          pass. Companion adds phasors, resonance, Fourier.
+  Book 3  Part I drafted (crystal through diode, plus
+          GaAs/GaN/InP). Later parts not written.
+  Book 2  Grown from Core_Circuits_and_Components_Book2.docx
+          (9 chapters, ~12,000 words) plus follower/Bode/
+          comparator/Johnson, solenoid as a part, and
+          Chapter 10 (200 Hz = 5 ms). Canonical file:
+          EE2/Circuits_Components_and_Control_Book2.docx.
+          Still short of 200 pages; do not replace the
+          2026-08 Core Circuits source.
+
+VOICE
+  Original prose. American spelling. Gentle openers.
+  Key Ideas. Worked examples with declared constants
+  and checked arithmetic. Headings: Amazon Ember 18pt
+  bold centered #0000FF. Cite the canon; do not paste it.
+  Steer, Ellingson, Astrom/Murray: open texts, rewrite.
+
+ONE HOME (do not recompute elsewhere)
+  Book 1  Phasors. Series R=30, L=40 mH, C=25 uF, 10 V rms,
+          omega=1000: Z=30 ohm, I=1/3 A, S=10/3 W, Q=4/3,
+          BW=750 rad/s. Off resonance omega=2000:
+          |Z|=67.08 ohm, I=0.149 A. Square: odd 1/n.
+          Triangle: odd 1/n^2. Wavelets do not replace
+          H(j*omega). Solenoid law lives here.
+  Book 2  Virtual short/open only in negative feedback.
+          Follower is a wire, not an inverting buffer.
+          Declared Bode: A0=1e5, GBW=1 MHz, pole=10 Hz.
+          Noise gain 100 -> 10 kHz. 100 kOhm at 290 K:
+          40 nV/sqrt(Hz). 200 Hz tracker = 5 ms. Safety
+          layer wins. Inductor as a part, not Faraday.
+  Book 3  Devices. FinFET then GAA. AlScN named as a film.
+          The 2026 MEMS survey is Book 9.
+  Book 4  Bowick then Pozar/Steer. mmWave is this book at
+          shorter lambda. Friis at 2.45 GHz, 100 m,
+          isotropic: space factor ~1.0e-8. Antenna gains
+          live here. PA watts are Book 6. Laminate specs
+          are Book 9.
+  Book 5  Modem = bits to waveform. 6 GHz is 1200 MHz:
+          three 320 MHz channels, 240 MHz left. Wi-Fi 7
+          paper peak ~23 Gbit/s. 5G FR1 410 MHz-7.125 GHz,
+          FR2 24.25-71 GHz. 6G wants 7.125-24.25 GHz.
+          Mask/chamber is Book 7. PA is Book 6.
+  Book 6  Chain: device -> load line -> class -> match ->
+          bias -> heat -> combine -> filter -> line ->
+          antenna -> EIRP/mask. 100 W: 50 V/5 V knee
+          Ropt=10.13 ohm; 28 V/3 V knee Ropt=3.13 ohm.
+          1 dB feed = 0.794 of power. Radar is R^4.
+          PLL and receiver noise sit in this volume.
+  Book 7  Loop field ~ area*I*f^2. 25 MHz clock, 100 MHz
+          harmonic: 16x if current matched. CISPR 16 +
+          C63.4 are methods. CISPR 32 / FCC 15 B are
+          limits. EMC vs radio conformance: two reports.
+          ADS/AWR/SPICE/2.5D/3D flow. 7layers and Hermon
+          run the room. They do not design the board.
+  Book 8  Waste = P(1/eta-1). 80 kW at 96% vs 98%:
+          1.70 kW/rack, 1.70 MW per 1000 racks. 45 kW
+          average: 0.96 kW. JLL 2026: ~100 GW new
+          capacity, ~$30M/MW AI fit-out. Four magnetics
+          shelves. Skin ~66/sqrt(f) mm. 875 A is Book 9.
+  Book 9  HBM 2.8 TB/s vs DDR5-6400 51.2 GB/s ~ 55x.
+          700 W / 0.8 V = 875 A. Join vs size vs skeleton
+          vs interposer. FR-4 default; better for loss,
+          Dk, heat, density. 10 GHz dielectric ballpark
+          in the Book 9 file. Robots: VLA + Book 2
+          tracker. MEMS 2026 survey only here.
+
+GROW-TO-200 (what still has to be written)
+  1  Fix the in-book 21-book table. Keep the companion.
+  2  Restore Core Circuits chapters (analog, digital,
+     filters, R/L/C) around the op-amp spine. Control
+     from Nise / Astrom fills the second half.
+  3  Part II bipolar (Tietze/Schenk 16th, Sedra, Gray
+     and Meyer). Then FinFET/GAA (Taur/Ning, Veendrick,
+     PDK). GaAs/GaN/InP already started.
+  4  Matching, lines, cavities, antennas, arrays. Do not
+     start a separate mmWave book.
+  5  Sklar / Lyons / Ellingson in this book's words.
+     Band plan is the 2026 snapshot already filed.
+  6  Cripps load-line through combiners, then radar.
+     Noise cascade and PLL as chapters, not volumes.
+  7  Ott/Montrose in original prose. Chamber methods.
+     Simulation as one part, not a book.
+  8  LDO vs switcher, isolated, grid codes, HV/pulsed
+     as shelves B and C. High-power RF stays in Book 6.
+  9  Layout (Johnson/Bogatin), packaging, 2026 compute,
+     robotics picture, MEMS. Conversion math stays 8.
+
+SOURCE MAP (by new book; cite, rewrite)
+  1  Halliday/Resnick, Griffiths, Kreyszig/Stroud,
+     Alexander/Sadiku, Art of Electronics, this book's
+     own Part III for circuits.
+  2  Franco, TI/ADI op-amp notes, Tietze/Schenk 16th
+     op-amp chapter, Art of Electronics. Control:
+     Astrom/Murray or Nise. Magnetics-as-parts only;
+     McLyman is Book 8.
+  3  Tietze/Schenk 16th, Sze, Taur/Ning 3rd, Veendrick,
+     Weste/Harris, Rabaey. PDK outranks textbooks
+     below 20 nm. Quay for GaN devices.
+  4  Bowick -> Pozar or Steer 1-3. Antenna handbook.
+     Rad Lab as history. Laminate mills in Book 9.
+  5  Sklar; Rice; Lyons; Johnson/Sethares/Klein or
+     Collins/Getz; Ellingson; Gu; Razavi for the IC
+     radio. GNU Radio / PySDR as labs, not text.
+  6  McClaning (noise). Gardner or Best (PLL). Besser 2
+     or Gonzalez (active). Cripps, Grebennikov,
+     Kazimierczuk, Raab. Whitaker, Gilmour if a tube.
+     Pozar/Steer for the link equation only; the
+     antenna chapter is Book 4. IEEE C95.1 / ICNIRP
+     for exposure, not circuit design.
+  7  Ott, Montrose, Bogatin, CISPR 16, ANSI C63.4,
+     CISPR 32, FCC 15, IEC 61000-4-x. ADS, AWR,
+     Sonnet, HFSS as tools. 7layers / Hermon as labs.
+  8  Basso (loops and SMPS), Erickson/Maksimovic,
+     Maniktala, Pressman, Rincon-Mora, McLyman,
+     Kazimierczuk, Sevick (RF balun only). Grid codes
+     stay here; they do not travel with Cripps.
+  9  Johnson, Bogatin, foundry CoWoS/EMIB/Foveros
+     notes, JEDEC HBM. 2026 product names are
+     snapshots. MEMS: AlScN foundry notes, SiTime,
+     ST/TDK inertial, xMEMS -- dated, not eternal.
+
+THREE PROFESSIONS (do not merge)
+  High-power RF = Book 6.
+  Facility/utility power = Book 8 shelf B.
+  HV/pulsed = Book 8 shelf C.
+
+BUILDERS
+  EE1/build_complex_analysis.py     Book 1 companion
+  EE2/merge_core_circuits.py        Book 2 merge
+  EE3/build_book3_part1.py          overwrites Book 3
+  EE3/append_part2.py               Book 3 Parts II/III
+  grow_4_9.py                       Books 4-9 spines
+  21-volume folders EE11-EE21       deleted 2026-10-01
+  Series - Later/01-21 dirs         deleted 2026-10-01
+
+NEXT
+  Grow Book 2 from the Core Circuits draft plus the
+  op-amp spine. Then Book 3 Part II. Then fill 4-9
+  to length without opening a tenth book.

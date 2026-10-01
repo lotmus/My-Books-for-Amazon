@@ -1,6 +1,6 @@
 # Textbook workflow (3-source method)
 
-_Method note placed here on 2026-09-13 from `OneDrive\Documents\TEXTS\Make write generate a TEXTBOOK.txt`. Scope: the 21-book EE series. This is the workflow to follow for new work in this folder; nothing below has been applied to the existing manuscripts yet._
+_Method note placed here on 2026-09-13 from `OneDrive\Documents\TEXTS\Make write generate a TEXTBOOK.txt`. Scope: the nine-book EE series. This is the workflow to follow for new work in this folder; nothing below has been applied to the existing manuscripts yet._
 
 ---
 

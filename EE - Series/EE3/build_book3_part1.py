@@ -647,6 +647,134 @@ def build():
     add_p(doc, "2. A rectifier data sheet lists a reverse-recovery time. What stored thing is that time waiting on, and why does a Schottky diode largely skip it?")
     add_p(doc, "3. A 5.1 V Zener is used as a reference with a series resistor from a 12 V rail. In one sentence, what does the resistor do that the junction itself does not?")
 
+    add_h(doc, "Chapter 7. GaAs, GaN, and InP Are Not One Transistor", 1)
+    add_p(
+        doc,
+        "A handset, a radar brick, and a 94 GHz receiver can all be described as "
+        "\"a microwave transistor on a chip.\" The crystals are not interchangeable. "
+        "Gallium arsenide is the mature microwave compound semiconductor. Gallium nitride "
+        "is the wide-bandgap material for watts, and also, on a silicon wafer, for "
+        "hundreds of volts. Indium phosphide is the III-V you pick when the gate is "
+        "tens of nanometers wide and the noise figure is the specification. They meet "
+        "in millimeter-wave power amplifiers. Almost nowhere else.",
+    )
+    add_h(doc, "7.1 Two figures of merit, not one winner", 2)
+    add_p(
+        doc,
+        "Johnson's figure of merit rewards breakdown voltage times frequency. Transit "
+        "time and mobility reward a fast, light electron. GaN wins the first contest. "
+        "InP wins the second. That is the whole split, and it is why a chapter that "
+        "ranks them on a single \"which is more advanced\" scale is already wrong.",
+    )
+    add_p(
+        doc,
+        "Use these working numbers, the same way Part I used a declared ni. GaAs bandgap "
+        "about 1.42 eV, breakdown field about 0.4 MV/cm, bulk electron mobility about "
+        "8500 cm²/V·s. GaN bandgap about 3.4 eV, breakdown field about 3.3 MV/cm, "
+        "two-dimensional-electron mobility about 1500 to 2000 cm²/V·s. InP itself is "
+        "about 1.34 eV. The channel in an InP HEMT is usually InGaAs, about 0.7 to 1.3 eV, "
+        "with a very high mobility and the highest saturation velocity of the usual RF "
+        "III-Vs. RF supply voltage is about 3 to 12 V for GaAs, about 1 to 3 V for an "
+        "InP HBT and about 1 to 5 V for an InP HEMT, and about 20 to 50 V for GaN. "
+        "Power density is about 0.5 to 2 W per millimeter of gate for GaAs, about 0.3 to "
+        "1.5 W/mm for InP, and about 5 to 12 W/mm for GaN. Production GaN reaches roughly "
+        "80 to 200 GHz ft. The best published InP HEMTs are past 600 GHz ft, with fmax "
+        "in the terahertz class.",
+    )
+    add_h(doc, "7.2 Say HEMT or HBT before you say the crystal", 2)
+    add_p(
+        doc,
+        "GaAs comes as a MESFET, which is old, a pHEMT, and an HBT. The pHEMT is the "
+        "low-noise amplifier, the switch, and some power amplifiers. The HBT is the "
+        "handset power amplifier and the gain block. GaN, in any part you can buy for "
+        "RF or for power conversion, is a HEMT. There is no serious GaN HBT in "
+        "production. InP comes as a HEMT, or a metamorphic HEMT, with an InGaAs channel, "
+        "and as an HBT. The HEMT is the low-noise amplifier, the mixer, the switch, and "
+        "the low-power millimeter-wave amplifier. The HBT is high-speed analog, data "
+        "converters, and optical modulator drivers, plus some power amplifiers.",
+    )
+    add_p(
+        doc,
+        "Most RF HEMTs are depletion-mode. The gate wants a negative supply, and the "
+        "drain must not come up before that gate is in a safe place. That is a sequencer, "
+        "not the enhancement-mode MOSFET of a later chapter. Enhancement-mode GaN shows "
+        "up in power conversion. Do not import that bias story into a radar PA without "
+        "reading the data sheet.",
+    )
+    add_p(doc, "Key idea. Name the device. \"InP versus GaN\" is not a comparison until you have said HEMT or HBT.")
+    add_h(doc, "7.3 Why voltage buys watts", 2)
+    add_p(
+        doc,
+        "For a sine-wave load line, the optimum resistance is the voltage swing divided "
+        "by the current swing, and the RF power is half the product of those peaks. "
+        "A higher legal voltage, at the same current, is both more power and an easier match.",
+    )
+    add_h(doc, "Worked Example 7.1", 2)
+    add_p(
+        doc,
+        "A cell is allowed 0.20 A peak. Compare a 5 V peak swing with a 28 V peak swing. "
+        "This is a GaAs-like rail against a GaN-like rail, not a promise about a foundry.",
+    )
+    add_p(
+        doc,
+        "At 5 V, Ropt = 5 / 0.20 = 25 Ω, and P = (5)(0.20)/2 = 0.50 W. "
+        "At 28 V, Ropt = 28 / 0.20 = 140 Ω, and P = (28)(0.20)/2 = 2.8 W. "
+        "Same current, 5.6 times the voltage, 5.6 times the power, and the load the matcher "
+        "has to present moved from 25 Ω toward 140 Ω, closer to a 50 Ω system and kinder "
+        "to a wideband network. GaN's extra power density, several watts per millimeter "
+        "rather than about one, is a second gift on top of this arithmetic. Heat still "
+        "collects the bill. SiC is the reason a GaN PA can pay it. InP's substrate cannot.",
+    )
+    add_h(doc, "7.4 Where each one is the right part", 2)
+    add_p(
+        doc,
+        "Use a GaAs pHEMT when the noise figure of a microwave receiver is the spec. "
+        "Use a GaAs HBT for a phone or WLAN power amplifier at 3 to 5 V. Use GaAs when "
+        "you want a dense MMIC whose passives sit on semi-insulating GaAs, and for many "
+        "sockets above about 40 GHz where that foundry still has more gain and a better "
+        "noise figure than production GaN.",
+    )
+    add_p(
+        doc,
+        "Use GaN when the radio needs watts: radar, electronic warfare, a satcom uplink, "
+        "a macro base station, anything past about 5 to 10 W. The rail is 28 to 50 V. "
+        "The device is rugged into a bad mismatch when it is GaN on SiC. Use GaN-on-silicon "
+        "for a 100 to 900 V switch that replaces a silicon MOSFET. That market contains "
+        "no GaAs and no InP.",
+    )
+    add_p(
+        doc,
+        "Use an InP HEMT for the lowest noise figure from about 30 GHz through W-band and "
+        "into G-band, and whenever ft in the hundreds of gigahertz is the reason the gate "
+        "exists. Use an InP HBT for an optical driver and for mixed-signal above about "
+        "100 Gbaud. InP is also a photonics crystal. GaN is not.",
+    )
+    add_p(
+        doc,
+        "The only fair fight is millimeter-wave power. A 28 to 40 GHz base-station PA is "
+        "GaN. From about 77 GHz up, at milliwatts to a few watts, InP often still has more "
+        "gain and needs less combining. GaN shows up where watts and bandwidth are both "
+        "required. A module may use an InP low-noise amplifier in front of a GaN power "
+        "amplifier. Neither crystal is the phone PA. Below about 3 GHz at hundreds of watts, "
+        "look at LDMOS or GaN, not InP. Cheap WLAN is SiGe, CMOS, or GaAs.",
+    )
+    add_p(doc, "Key idea. A 94 GHz low-noise amplifier starts with InP. A 20 W X-band brick starts with GaN. A 650 V buck starts with GaN-on-silicon and never with InP.")
+    add_h(doc, "7.5 What the circuit books still are", 2)
+    add_p(
+        doc,
+        "Cripps's load line still draws both the GaAs-era example and the GaN PA. GaN adds "
+        "trapping, knee walkout, and memory, so the linearity fix is backoff or digital "
+        "predistortion, not a polynomial copied from a handset HBT. InP circuit design "
+        "looks like high-speed analog plus a foundry HBT or HEMT kit. A GaN PA looks like "
+        "that load line, a thermal path through SiC, and a 50 V supply whose hot loop was "
+        "already a subject in the regulator discussion of a later book. There is no popular "
+        "textbook chapter that replaces the foundry model handbook.",
+    )
+    add_h(doc, "Practice", 2)
+    add_p(doc, "1. Repeat Worked Example 7.1 for a 40 V peak and a 0.50 A peak. Find Ropt and P.")
+    add_p(doc, "2. A receiver at 94 GHz is 0.4 dB short of its noise-figure spec, and the input power is small. Which device family do you open first, and which do you not open?")
+    add_p(doc, "3. Why can the same word \"GaN\" mean a 50 V radar transistor and a 650 V switch, while \"InP\" cannot follow it into the switch?")
+
     add_h(doc, "Appendix A. Constants Used in This Part", 1)
     add_p(doc, "Thermal voltage VT: 26 mV. Declared room-temperature hand value.")
     add_p(doc, "Intrinsic concentration ni of silicon: 1.0×10^10 cm⁻³. Declared hand value.")
@@ -765,6 +893,19 @@ def build():
         "3. The resistor sets the current through the knee. The junction sets the voltage. "
         "Without the resistor the supply would try to hold 12 V across a 5.1 V knee.",
     )
+    add_h(doc, "Chapter 7", 2)
+    add_p(doc, "1. Ropt = 40 / 0.50 = 80 Ω. P = (40)(0.50)/2 = 10 W.")
+    add_p(
+        doc,
+        "2. Open an InP HEMT first. Do not open a GaN power switch, and do not open a "
+        "handset HBT. A survivable limiter in front of that LNA can be GaN. The noise-"
+        "figure deficit of 0.4 dB is an InP problem.",
+    )
+    add_p(
+        doc,
+        "3. The 650 V part is a GaN-on-silicon power HEMT. InP is a small, fragile, "
+        "poorly heat-spreading substrate with a 1 to 5 V RF habit. It is not in that market.",
+    )
 
     add_h(doc, "Appendix C. What This Part Does Not Yet Cover", 1)
     add_p(
@@ -787,8 +928,24 @@ def build():
         "Linear regulators and switch-mode supplies belong to Book 15. Bode plots as a "
         "general language belong to Book 16. High-speed copper, the hot loop of a buck "
         "converter, and the feedback divider of an LDO belong to Books 15 and 18 together. "
-        "None of that is smuggled into the diode chapters above.",
+        "Chapter 7 is the exception that belongs in this file: GaAs, GaN, and InP "
+        "as device choices, with a load-line number attached. The power-amplifier "
+        "design, the 28 V layout, and the 650 V switch are Books 17 and 15. "
+        "The diode chapters do not depend on Chapter 7.",
     )
+    add_h(doc, "Appendix D. Sources for Chapter 7", 1)
+    add_p(
+        doc,
+        "The prose above is this book's. The shelf it was checked against is short, "
+        "and it is not a substitute for a foundry kit.",
+    )
+    add_p(doc, "Cripps, RF Power Amplifiers for Wireless Communications, and Advanced Techniques in RF Power Amplifier Design. The load line is technology-agnostic. GaN adds trapping and memory.")
+    add_p(doc, "Grebennikov, RF and Microwave Transmitter Design, and the switch-mode RF power-amplifier book with Sokal and Franco.")
+    add_p(doc, "Quay, Gallium Nitride Electronics. Mishra and Rajan, and Morkoç, for the nitride heterostructure. Sze for the vocabulary.")
+    add_p(doc, "Vendelin, Pavio, and Rohde for GaAs-era linear and nonlinear microwave circuits. Gonzalez and Maas remain the amplifier and mixer references.")
+    add_p(doc, "InP devices: Rodwell's HBT and HEMT papers, and the millimeter-wave MMIC papers from JPL and Fraunhofer IAF. Foundry kits from Teledyne, WIN, Northrop Grumman, and Fraunhofer matter more than a textbook.")
+    add_p(doc, "GaN models: Wolfspeed and Qorvo application notes. Power-conversion GaN, which Chapter 7 only points at: Erickson and Maksimović, plus the vendor power-loop note.")
+    add_p(doc, "Tietze, Schenk, and Gamm, 16th edition (2019), remains the silicon circuit check for the bipolar and MOS chapters that are not in this file yet.")
 
     # The Heading 1 style page-breaks before the first heading, which is what we want
     # after the title block. Confirm no empty first heading.
