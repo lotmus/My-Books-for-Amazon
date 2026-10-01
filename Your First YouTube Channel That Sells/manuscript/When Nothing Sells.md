@@ -14,7 +14,7 @@ If the video asks for two payments — the file and the call, or the file and a 
 
 ## II. People cannot find the price
 
-The videos exist. The page exists. Viewers still do not arrive there. Look at the first two lines of the description, the pinned comment, and the words you say at the end. If the link is under a paragraph about your story, move it up. If you never say the name of the offer, say it. If you can read the address and cannot tap it, the price is hidden. That includes a YouTube Short, and any other site where you have not finished the phone test. If three test viewers cannot find the price without you pointing, the packaging failed and the niche did not.
+The videos exist. The page exists. Viewers still do not arrive there. Look at the first two lines of the description, the pinned comment, and the words you say at the end. If the link is under a paragraph about your story, move it up. If you never say the name of the offer, say it. If you can read the address and cannot tap it, the price is hidden. A YouTube Short is the case the money chapter already states: the description and the comments do not tap. Any other site you have not tested on your phone is the same break. If three test viewers cannot find the price without you pointing, the packaging failed and the niche did not.
 
 This is the same shelf as the click chapter, applied to money instead of curiosity. A title can win the click and still lose the sale if the click leads nowhere.
 

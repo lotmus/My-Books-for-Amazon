@@ -1,7 +1,7 @@
 # Schrödinger's Paperwork — Book 1 — Working Guide
 
 Reference file for editorial/formatting work on `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`.
-Shared facts for every book in the series are in `../SERIES_BIBLE.md`. Read that before changing a person, a place, a date, or a physics claim.
+Shared facts for every book in the series are in `../SERIES_BIBLE.md`. Read that before changing a person, a place, a date, a physics claim, or the way anyone speaks. The section "Tone and humour" binds the joke and the furniture.
 Read this first for Book 1's file. Only open the full manuscript for tasks that genuinely need it (continuity checks,
 verifying a specific passage, reading unfamiliar new content). Keep this file updated as facts change.
 

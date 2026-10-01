@@ -50,6 +50,10 @@ Human steps still open: look at `export\cover_typographic.jpg` in the KDP cover 
 
 The hostile-review canvas is a review sheet from before chapters 31 and 32 were restored. Its chapter-length chart is historical. Do not rebuild the book from it.
 
+## Cast
+
+`00_Series_Cast.md`, next to `00_Series_Reference.md`, is the shared household. Mara is this book’s woman with the pot holders and the sequel’s woman on Mars. Eli keeps this clock. He does not go. Priya and Rohan belong to the sequel. Do not invent a second Mara, and do not put the Moon classroom in this kitchen.
+
 ## Sequel — leave it
 
 *A Trip Is Not a New Life* is the other Look First book. Its chapters 25 and 26 teach the crew and the library again. This book teaches them in chapters 31 and 32. Both stay. Do not cut this book’s chapters because an older line in the sequel’s status or outline called them bridges. Those lines were corrected on 30 Sep 2026. Do not edit the sequel as part of this job.

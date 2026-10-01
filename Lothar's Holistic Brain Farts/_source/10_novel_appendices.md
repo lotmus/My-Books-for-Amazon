@@ -32,7 +32,7 @@ And yet — this is the reassuring part — the two observers aren't lost in tot
 
 The big lesson tucked inside all this: coordinates are descriptions of reality, not reality itself. Changing your coordinate system — switching who's "at rest" — never changes what actually happened, only the numbers you use to write it down. And the classic trap to avoid: never add velocities the old Newtonian way once you're anywhere near light speed. Ten-percent-of-light-speed plus ten-percent-of-light-speed is not twenty percent of light speed; it comes out at about 19.8 percent. The universe has opinions about that, and Newton's arithmetic isn't one of them.
 
-### Appendix 4: Enter General Relativity
+### Appendix 3: Enter General Relativity
 
 General Relativity begins with what Einstein called the happiest thought of his life: a person in free fall doesn't feel their own weight. The modern retelling puts you in an elevator whose cable has just snapped. As you fall, you float — weightless, no sense of "up" or "down," nothing pressing you against any wall. Now compare that to floating in a spaceship drifting through empty space, light-years from the nearest star. From the inside, with no windows, could you tell these two situations apart? Einstein's answer — the equivalence principle — is no. Locally, free-fall in a gravitational field is indistinguishable from just drifting weightlessly with no gravity around at all.
 
@@ -42,7 +42,7 @@ One important caveat, though: the equivalence principle is strictly a local stat
 
 Picture four scenarios side by side. In a stationary elevator on the ground, a ball falls to the floor, exactly as expected. In a freely-falling elevator, the same ball just floats, motionless relative to you. In an elevator drifting through deep space, far from any gravity, the ball floats too. And in an elevator accelerating upward out in deep space, the ball falls toward the floor — behaving exactly as if gravity had switched on. Pair them up and the principle appears: from inside a windowless box, the stationary elevator and the accelerating one are physically indistinguishable, and so are the freely-falling one and the drifting one. That's the whole principle, right there, in an elevator shaft.
 
-### Appendix 5: The Apple
+### Appendix 4: The Apple
 
 Newton looked at a falling apple and reached for a force: gravity pulls on the apple, the apple falls. Perfectly sensible, and it worked brilliantly for centuries. Einstein looked at the same apple and reframed the whole story: the apple isn't being pulled by anything. It's just following its geodesic — the straightest possible path available to it through curved spacetime, much like an ant walking as straight as it possibly can across the surface of a globe still ends up tracing a great circle, simply because the surface itself is curved beneath its feet. No force required, just geometry doing what geometry does.
 
@@ -52,7 +52,7 @@ The pleasingly backwards part is that, in this framework, standing still on the 
 
 None of this means Newton was wrong, exactly — just approximately right, which is a perfectly respectable thing to be. Newtonian gravity remains an excellent, entirely serviceable approximation wherever relativistic corrections are small, which covers nearly everything you'll ever throw, drop, or launch in ordinary life.
 
-### Appendix 6: Singularities
+### Appendix 5: Singularities
 
 People tend to hear "singularity" and picture a place where gravity is simply cranked up to an extreme — very, very strong. That's not quite it, and the actual definition is more interesting. Think of a road on a map that simply stops short, not because a wall blocks it but because the map itself doesn't extend any further — that's closer to the real idea than a picture of infinitely dense matter crammed into a point. A singularity marks a breakdown of the classical spacetime description itself. Technically, it's defined through geodesic incompleteness: a free-fall path that just cannot be extended any further, because the mathematics describing spacetime stops working at that point. Gravity typically does grow without limit on the way in, but that's a symptom, not the definition — what defines a singularity is that the theory itself runs out of road.
 
@@ -62,7 +62,7 @@ What a singularity really signals is the limit of General Relativity's authority
 
 A few related characters worth knowing: black holes are regions that hide singularities behind an event horizon, a one-way boundary nothing can cross back out of. White holes are their time-reversed mirror image — objects that can only emit, never absorb, which is a fairly good description of something nobody has ever truly seen. And wormholes are hypothetical tunnels connecting distant regions of spacetime — mathematically permitted, dramatically appealing, and, as the glossary below notes, considerably harder to build in practice than to write into a plot.
 
-### Appendix 7: Why SR and GR Don't Fight
+### Appendix 6: Why SR and GR Don't Fight
 
 Readers sometimes come away thinking Special and General Relativity must be rivals — two competing theories that somehow both got taught in the same course. They're not. General Relativity contains Special Relativity; it doesn't replace it, it absorbs it, the way a wide-angle map contains your local street map as a small piece of a bigger picture.
 
@@ -70,7 +70,7 @@ The fit works like this: in any sufficiently small patch of spacetime, a freely 
 
 So if you ever run into an apparent contradiction between the two — some calculation in SR that seems to clash with one in GR — the smart move is to suspect an inconvenient choice of coordinates before you suspect an actual conflict between the theories. Nine times out of ten, that's exactly the case.
 
-### Appendix 8: The Door
+### Appendix 7: The Door
 
 Here's a deceptively simple scene: a door, and two different people standing in the same room, each measuring how far that door is from their own chosen starting point — their zero. One of them gets four meters. The other gets two. Both are correct. Neither is lying. The door hasn't moved an inch.
 
@@ -80,7 +80,7 @@ And this isn't a dead end — once two observers explain how they set up their c
 
 The same discipline carries straight over to time. A difference between two time-coordinates — two labels stamped on an event — is not automatically evidence that the observers disagree about which event occurred, or when, in any meaningful physical sense. Sometimes a gap between two numbers is just a gap between two rulers.
 
-### Appendix 9: Relativistic Travel
+### Appendix 8: Relativistic Travel
 
 Take a spaceship up to a serious fraction of light speed, and the Lorentz factor becomes the single number that governs the whole trip. It's the bridge between proper time — what the ship's own onboard clock ticks through — and the quite different elapsed time that somebody watching from Earth would clock for that same journey. At everyday speeds this factor sits so close to one it's not worth mentioning. Push velocity up toward light speed, though, and it grows sharply, producing both time dilation (the ship's clock runs slow, as judged from Earth) and length contraction along the direction of travel (the ship looks squashed, as judged from Earth).
 
@@ -88,7 +88,7 @@ One detail trips people up: nobody ever experiences their own clock running slow
 
 Which is exactly what happens to a traveler who heads out at relativistic speed and comes home again: they may genuinely have aged less than the people who stayed put. Not because any clock malfunctioned or lied — far from it. Every clock involved measured its own proper time with perfect accuracy. They just took different paths through spacetime to get to the same reunion, and different paths, as the Twin Paradox already taught us, rack up different amounts of elapsed time.
 
-### Appendix 10: The Cucumber
+### Appendix 9: The Cucumber
 
 Length contraction, stripped of the algebra: an object moving relative to you has its measured length — along its direction of travel only — shrunk by the same factor that stretched out its clock's ticks. The faster it moves relative to you, the shorter it measures.
 
@@ -96,7 +96,7 @@ The part that keeps people up at night for no good reason is this: the object it
 
 Take a perfectly mundane cucumber, twenty centimeters long at rest on your kitchen counter. Now imagine an observer moving relative to it fast enough that their Lorentz factor works out to two. To that observer, your cucumber measures ten centimeters long in the direction it's traveling. Same cucumber. Same salad. Different tape measure, because the tape measure itself is doing something unusual.
 
-### Appendix 11: The Hologram
+### Appendix 10: The Hologram
 
 This one starts with black holes behaving in a way that should strike you as deeply odd. A black hole's entropy — roughly, a measure of how many microscopic internal configurations are compatible with what you can see of it from outside — is proportional to the *area* of its event horizon, not its volume. Compare that to an ordinary sphere: double its radius, and its volume multiplies by eight, but its surface area only quadruples. Black holes don't follow that pattern. Their "information budget" scales with a surface, not a volume, and that is a deeply strange thing for a three-dimensional object to do.
 
@@ -106,23 +106,23 @@ The most precise version of this idea isn't just a metaphor — it's an actual m
 
 Now, the caveat, and it matters: this does not mean our actual universe literally is a two-dimensional projection, some kind of cosmic cinema screen we're all living inside. It means that in specific, carefully constructed theoretical settings, two very different-looking descriptions can be mathematically identical underneath. That's a precise, narrow result — not a sweeping metaphysical claim about the nature of everything, however good it sounds at a dinner party.
 
-### Appendix 12: The Cinema Interpretation of Everything
+### Appendix 11: The Cinema Interpretation of Everything
 
 The tangled multiverse of a certain Best Picture winner gets borrowed here — purely as a metaphor, and explicitly not offered as any kind of working model of quantum mechanics — to make a useful point: what, exactly, can change in a *description* of something without changing the thing itself?
 
-Think about translation. A sentence translated from one language into another uses completely different words, different grammar, a different sound entirely — and yet the meaning survives intact. Physics does something similar. Coordinates can differ completely, entire theoretical frameworks can look unrecognizable side by side, and still describe the very same underlying, invariant reality. You've already seen two versions of this: the invariant spacetime interval from Appendix 2, and the AdS/CFT duality from Appendix 11. This is the same trick, one level more general.
+Think about translation. A sentence translated from one language into another uses completely different words, different grammar, a different sound entirely — and yet the meaning survives intact. Physics does something similar. Coordinates can differ completely, entire theoretical frameworks can look unrecognizable side by side, and still describe the very same underlying, invariant reality. You've already seen two versions of this: the invariant spacetime interval from Appendix 2, and the AdS/CFT duality from Appendix 10. This is the same trick, one level more general.
 
 Which motivates a formal distinction worth keeping straight: an "observable" is a quantity tied to some specific measurement — and it can perfectly well be observer-dependent, the way speed depends on who's doing the measuring. An "invariant," by contrast, stays fixed no matter which transformation you apply. These two ideas get casually swapped for each other all the time, and they shouldn't be — a lot of confused physics arguments trace back to exactly that mix-up.
 
 Which finally sets up the concept of a tensor, introduced here with the almost-too-good analogy it deserves: a tensor is what happens when a vector gets promoted and starts having opinions about several directions at once. That's informal, sure, but it's not far off — a tensor is a mathematical object whose individual components change depending on your coordinate system, while the object itself, and the physics it represents, does not change at all.
 
-### Appendix 13: Curved Corridors and Tidal Gravity
+### Appendix 12: Curved Corridors and Tidal Gravity
 
-If gravity were perfectly uniform everywhere — the same strength, the same direction, no variation at all — you could always locally fake it or cancel it out just by accelerating your reference frame the right way. That's the whole content of the equivalence principle from Appendix 4. But real gravitational fields aren't uniform. They vary from place to place — stronger closer to Earth's center, weaker farther out — and that variation is where the interesting physics actually lives.
+If gravity were perfectly uniform everywhere — the same strength, the same direction, no variation at all — you could always locally fake it or cancel it out just by accelerating your reference frame the right way. That's the whole content of the equivalence principle from Appendix 3. But real gravitational fields aren't uniform. They vary from place to place — stronger closer to Earth's center, weaker farther out — and that variation is where the interesting physics actually lives.
 
 Take two objects in free fall side by side, on paths that start out perfectly parallel. Picture two skydivers jumping side by side, each falling perfectly "straight down": because "straight down" actually points toward Earth's center, and their two centerward directions are ever so slightly different, they drift very slightly closer together as they fall, even though neither one nudges sideways on purpose. Because the gravitational field isn't quite the same at each of their locations, those two paths will gradually converge or diverge over time. Physicists call this geodesic deviation, and it's the real, unfakeable signature of spacetime curvature. Uniform gravity can be transformed away with the right choice of accelerating frame; tidal effects — the relative drifting-together or drifting-apart of nearby free-fall paths — cannot. If you want to know whether you're really in curved spacetime, watching two nearby free-falling objects drift relative to each other is the only test that can't be faked.
 
-### Appendix 14: The Distant Train That Arrived Before It Left
+### Appendix 13: The Distant Train That Arrived Before It Left
 
 Here's a puzzle that deserves to be taken seriously: how can an effect apparently arrive before its cause, without the universe breaking? The honest answer is that it usually isn't a causality violation at all — it's a misunderstanding of what "before" even means once you take relativity seriously.
 
@@ -132,25 +132,25 @@ The light cone is the tool that keeps this straight: it's the boundary, for any 
 
 So keep a diagnostic question handy for the next time a "before it left" headline crosses your desk: are the two events in fact causally connected? If they're not — if there's no way a light signal could have linked them in time — then a reversed ordering is just a coordinate artifact, an entirely normal feature of relativity, nothing to see here. But if they are causally connected, and the order still comes out reversed for some observer — that would be a real problem, and a considerably bigger one than a mere coordinate artifact.
 
-### Appendix 15: The Dolphin and the Final Geometry
+### Appendix 14: The Dolphin and the Final Geometry
 
-Time to properly meet tensors, having been informally introduced to them back in Appendix 12. A scalar is just one number — a temperature, say. A vector has directional components — a velocity, with both a size and a direction. A tensor goes one step further: it describes relationships that involve several directions simultaneously. Its individual components will look different depending on which coordinate system you write them in, but the underlying tensor — and the physics it's encoding — doesn't change at all. Same trick as always: the description varies, the reality underneath doesn't.
+Time to properly meet tensors, having been informally introduced to them back in Appendix 11. A scalar is just one number — a temperature, say. A vector has directional components — a velocity, with both a size and a direction. A tensor goes one step further: it describes relationships that involve several directions simultaneously. Its individual components will look different depending on which coordinate system you write them in, but the underlying tensor — and the physics it's encoding — doesn't change at all. Same trick as always: the description varies, the reality underneath doesn't.
 
 The metric tensor is spacetime's own instruction manual for measurement — it's the object that tells you how to compute distances, elapsed times, angles, and even causal relationships, for any two nearby points in spacetime. Without it, you have a bare set of coordinates and no way to say how far apart anything actually is.
 
 The stress-energy tensor has earned a rather good nickname: the universe's spreadsheet. It describes, comprehensively, how energy, momentum, and stress are distributed and how they're flowing, at every point in spacetime.
 
-And the Einstein field equation ties the two together into a single, extraordinarily compact statement — geometry on one side, matter and energy on the other — which compresses the whole of General Relativity down to one sentence you've already met back in Appendix 4 and are about to hear again, because apparently it bears repeating: matter tells spacetime how to curve, and spacetime tells matter how to move.
+And the Einstein field equation ties the two together into a single, extraordinarily compact statement — geometry on one side, matter and energy on the other — which compresses the whole of General Relativity down to one sentence you've already met back in Appendix 3 and are about to hear again, because apparently it bears repeating: matter tells spacetime how to curve, and spacetime tells matter how to move.
 
 Is General Relativity the final word, though? Almost certainly not. It runs into real trouble describing quantum-scale phenomena — the interior of black holes, the earliest moments of the universe — and that friction is exactly what's driving the search for a theory of quantum gravity. There's an appealing possibility on the table: that spacetime itself might be an emergent phenomenon, arising from something deeper, the same way temperature and pressure emerge from the jostling of countless individual molecules without either of those older descriptions being "wrong." Newton wasn't wrong about the apple. He just wasn't looking deep enough. General Relativity may turn out to be in the same boat.
 
-### Appendix 16: The Clock Was Lying, Precisely
+### Appendix 15: The Clock Was Lying, Precisely
 
 One crucial and very precise distinction carries the final entry: proper time is what a clock measures, ticking along its own worldline, second by real second. An event coordinate, on the other hand, is just a label — a number attached to a record, inside whatever description of spacetime somebody happened to be using when they wrote it down.
 
 So when a record turns up showing a time that no watch, anywhere, ever ticked through — that's not evidence of time travel, and it's plainly not evidence of precognition. It's evidence that somebody, somewhere, mistook a coordinate label for an actual measurement. One is a real physical fact about a clock's history. The other is bookkeeping. Mixing them up doesn't bend the laws of physics; it just produces a very confusing clue.
 
-This confusion — between the description of an event and the event itself — is the thread running through the whole course, echoing Appendix 8's door (coordinate labels aren't invariant facts) and Appendix 2's blunt warning that coordinates are not reality. Apparently you can build an entire murder mystery out of that one mix-up, if you're patient enough.
+This confusion — between the description of an event and the event itself — is the thread running through the whole course, echoing Appendix 7's door (coordinate labels aren't invariant facts) and Appendix 2's blunt warning that coordinates are not reality. Apparently you can build an entire murder mystery out of that one mix-up, if you're patient enough.
 
 ### Glossary Highlights
 
@@ -160,11 +160,11 @@ The quick-reference glossary at the back adds a few entries worth keeping even a
 
 ## From "The Physics, Apparently — Lessons Learned"
 
-This one's an earlier, leaner cousin of the "Relativistic Investigation Bureau" appendix above — fifteen of the same sixteen Special and General Relativity concepts, in nearly the same order, condensed into single-paragraph refreshers rather than full entries. Since the physics is identical to the fuller appendix already given, it isn't repeated a second time here. What's actually worth keeping is the handful of places where this leaner version says something the fuller one doesn't.
+This one's an earlier, leaner cousin of the "Relativistic Investigation Bureau" appendix above — the same Special and General Relativity concepts, in nearly the same order, condensed into single-paragraph refreshers rather than full entries. Since the physics is identical to the fuller appendix already given, it isn't repeated a second time here. What's actually worth keeping is the handful of places where this leaner version says something the fuller one doesn't.
 
-One is a small joke worth preserving: this version points out that the cucumber from Appendix 10 gets chosen precisely because it's such a boring, unglamorous object — the point being that relativity doesn't care how exciting the thing being measured is. It applies to literally everything, cucumbers very much included.
+One is a small joke worth preserving: this version points out that the cucumber from Appendix 9 gets chosen precisely because it's such a boring, unglamorous object — the point being that relativity doesn't care how exciting the thing being measured is. It applies to literally everything, cucumbers very much included.
 
-The other is this section's one genuinely original contribution: a closing ten-point self-test covering the whole course, followed by a closing philosophical question the fuller appendix never quite poses outright — if descriptions can vary so completely while some underlying invariant persists underneath them all, then what, exactly, is reality? That one is left open on purpose. Some questions are more useful unanswered.
+The other is the question the fuller appendix never quite poses outright: if descriptions can vary so completely while some underlying invariant persists underneath them all, then what, exactly, is reality? That one is left open on purpose. Some questions are more useful unanswered.
 
 ---
 
@@ -202,7 +202,7 @@ A measurement basis is the menu of answers a particular device is built to tell 
 
 Some pairs of questions refuse to be sharp together. Ask the first, and the list of answers to the second is written fresh. This is not clumsiness. Clumsiness would be a smudged reading of an answer that was already there. Here the second answer was not waiting.
 
-In 1922, silver atoms sent through a magnetic field landed in discrete spots instead of a polite smear. Angular momentum came in bins, like a clerk who will only stamp even numbers. Send one of those beams through a second magnet turned to a different axis and the beam splits again, as if the first conversation had never happened. It had happened. It just does not count as a hidden fact about the new question.
+In 1922, silver atoms sent through a magnetic field landed in discrete spots instead of a polite smear. Angular momentum came in bins: two spots, up and down, not a smear. Send one of those beams through a second magnet turned to a different axis and the beam splits again, as if the first conversation had never happened. It had happened. It just does not count as a hidden fact about the new question.
 
 "Collapse" is the short name for the jump from the list to one recorded result. A fuller account says the system and the apparatus become one joint state, which is accurate and also a mouthful. Use the short name until Lecture 10. Then we will admit what the short name has been papering over.
 

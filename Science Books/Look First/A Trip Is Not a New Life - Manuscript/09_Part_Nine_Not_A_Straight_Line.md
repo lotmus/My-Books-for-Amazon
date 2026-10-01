@@ -131,6 +131,7 @@ Temperatures, applied to the fast trip.
 Hot: moving clocks and low clocks disagree with clocks left behind. It is measured in muons, airliners, satellites, and laboratory stools. A traveler’s ship time and the world’s time can differ without limit in the arithmetic. The traveler lives no more ticks.
 Warm: any settled world will need its own time standard and a correction to tie it to home. That is a spreadsheet, not a miracle.
 Cold: a fast trip sold as an anti-aging plan. A body that ages slowly by its own count. A ship to the year 12,000 as a way to see how it turns out. A physics fact repackaged as a longevity product.
+Appendix A40 writes proper time, the muon, the airliner clocks, and the fuel. Here, keep the traveler’s own ticks. A fast trip is not a longer life.
 
 ## 41. A Long Sleep Is Not a Long Life
 
@@ -160,6 +161,7 @@ Temperatures, applied to induced torpor.
 Hot: hibernating mammals raise, in torpor, a brain marker that would read as severe disease in a human, and bring a substantial part of it back down after arousal. That reversal is the squirrel’s. Targeted cooling has a real, narrow role in specific acute injuries like cardiac arrest.
 Warm: whether any of this transfers to inducing safe, reversible torpor in a healthy human, for any purpose, is an open and actively funded research question, not a settled no.
 Cold: a scheduled human hibernation flight; torpor as a general anti-aging tool; the assumption that slowing the clock during transit would also slow the traveler’s own aging, which nobody has shown and the cardiac-arrest evidence does not support as a general rule.
+Appendix A41 writes the cardiac-arrest trials, the squirrel paper, and the food a sleeping crew would not eat. Here, keep the dial. A slower clock is not a longer life.
 
 ## 42. Coordination, Wars, Institutions
 

@@ -73,7 +73,8 @@ Audience:
 
 Series Progression (Thematic):
   Book 1: Measurement forces collapse (what do we do when precision breaks things?)
-  Book 2+: [Open—new corners of the Ministry, new physics, new problems]
+  Book 2, The Permitted Options: a barrier, fourteen citizens, and what a measurement can still honestly say
+  Later books: a new corner of the same Ministry, in the same voices. Not a new tone.
 
 The series explores different aspects of how systems (bureaucratic, physical,
 mathematical, social) try to impose order on reality and what breaks when
@@ -89,11 +90,10 @@ This is the entry point. It:
 ✓ Shows what happens when measurement becomes weaponized
 ✓ Demonstrates the book's tone (absurdist + serious)
 ✓ Teaches quantum mechanics (superposition → measurement → decoherence)
-✓ Ends with Lolly understanding the problem but not yet knowing the solution
+✓ Ends with the coupling cut, 308 of 411 states recovered as records, and Lolly accepting Principal Officer, Relational Integrity. Margaret does not come back. 103 stay unrecovered.
 
 It stands alone: You don't need to read further to get a complete story.
-But it opens a door: Future books will explore what happens when you refuse
-to accept the Ministry's measurements as final.
+Book 2, The Permitted Options, keeps the same office and the same voices. Fourteen citizens resolve outside the register. The measurement that remains is one a bench can still make.
 
 ================================================================================
 SERIES ARCHITECTURE (For YOUR planning, not public)
@@ -107,16 +107,16 @@ What makes this an open-ended series:
    - The physics lectures can explore new concepts each book
 
 2. LOLLY'S ARC is open
-   - Book 1: She understands the problem
-   - Book 2+: She learns to act on it (or not)
-   - The series ends when her story ends, not when the Ministry ends
+   - Book 1: She takes the post. The coupling is cut. 308 are recovered. 103 are not. Margaret does not come back.
+   - Book 2: She is already Principal Officer. Fourteen citizens, a barrier, and a measurement a bench can still make.
+   - Later books: a new corner of the same Ministry. The series ends when her story ends, not when the Ministry ends.
    - (The Ministry probably never ends—that's the point)
 
 3. THEMATIC SCOPE is flexible
    - Book 1: Quantum measurement and bureaucratic collapse
-   - Book 2+: Could explore: error correction, thermodynamics, information
-     theory, entanglement, cosmology—each through bureaucratic lens
-   - Each book is a new physics concept + a new crisis
+   - Book 2: Tunnelling, entropy, the Casimir force, and a throat that is not a door
+   - Later books may take a physics the two books have not already taught, through the same office
+   - Each book is a new corner of that physics, and a new case
 
 4. READER EXPECTATIONS are clear
    - Each book pairs narrative + lectures (format stays consistent)

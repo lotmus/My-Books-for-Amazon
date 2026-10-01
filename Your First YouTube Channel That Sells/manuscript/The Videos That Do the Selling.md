@@ -12,7 +12,9 @@ You do not need thirty videos to find out whether the offer can sell. You need a
 
 Before you write a title, write the job in a single line: “After this video, the viewer can [do one thing] or can decide whether [the offer] is for them.” If the line needs “and,” split the video.
 
-Jobs that sell, used in this order:
+The order is the buyer’s order. They have to recognize themselves before a method is worth hearing. They have to see the method before proof means anything. They have to see proof before a comparison is a choice. They have to hear the comparison and the one objection before the price is a decision. The last video names the path, so the set is not a feed.
+
+Jobs that sell, in that order:
 
 1. **Who it is for.** The buyer recognizes themselves in the first ten seconds. People who are not the buyer can leave without feeling tricked.
 2. **The problem, in their words.** Use the phrase they would type, not the clever name you prefer. The click chapter’s rule still applies: describe the situation, not a crisis word that can suppress the video.
@@ -20,10 +22,10 @@ Jobs that sell, used in this order:
 4. **Proof it can be done.** A before and after, a worked example, a walk-through with numbers you actually have. Invented results are a lie, and lies do not survive a refund.
 5. **The comparison.** What you recommend versus the common alternative, including “do it by hand.” Say who should not buy.
 6. **The objection.** Price, time, skill, “I tried this before.” Answer one objection per video. Do not stack them into a speech.
-7. **The offer.** The twenty-second version from the offer chapter, filmed as its own short video and also spoken once at the end of the others.
+7. **The offer.** The twenty-second version from the offer chapter, filmed as a brief video, long enough for a clickable description, and also spoken once at the end of the others. A YouTube Short cannot be this video. Its description is not a checkout.
 8. **The next video.** Tell them which of the seven to watch next, by name. A channel that sells is a path, not a feed.
 
-That is the first eight. You may post shorts that point at these. You do not need a ninth idea until these eight exist and the offer link has been clicked by someone who is not you.
+That is the first eight, and it is the only production load in this book. The click chapter uses the same eight. So does the six-week calendar. A Short may point at one of them. It does not add a second quota. You do not need a ninth idea until these eight exist and the offer link has been clicked by someone who is not you.
 
 ## II. The offer video is not a commercial with nothing in it
 
@@ -39,23 +41,17 @@ Write the title before you film, and write the one action you will ask for at th
 
 ## IV. Stop when the set is done
 
-Eight finished videos aimed at one offer beat forty videos aimed at “the algorithm.” The posting rhythm in the click chapter is a floor for staying visible, not an order to invent topics. If you can publish one of the eight a week, publish one of the eight a week. If a week is too fast to keep the teaching accurate, slow down. A wrong video that contradicts the offer does more damage than a quiet week.
+Eight finished videos aimed at one offer beat forty videos aimed at a posting streak. If you can publish one of the eight a week, do that. If a week is too fast to keep the teaching accurate, slow down. A wrong video that contradicts the offer does more damage than a quiet week.
 
 When the eight are live, look at one number before you invent video nine: did anyone reach the offer page from a video? Not views. Not likes. The page. If the page was never visited, the next video is not a new topic. It is a clearer path from a video you already have — a better title, a link in the first lines, a pinned comment, an end that says the name of the offer.
 
-## V. Four people, and the move you can copy
+## V. Four people, and which move is yours
 
-These are not income promises. They are the early repeat, in the person’s own interviews. Copy the repeat. The later studio is not the lesson.
+These interviews are not income promises. They are not proof that the eight jobs work. Three of them are the path this book declines.
 
-Marques Brownlee told The Verge he bought a laptop after watching reviews, found details those reviews had skipped, and turned on a webcam so the next buyer would not miss them. The video he counts as the start was about one accessory that came in the box. On Recode he described posting about Safari for Windows the day it was available, and waking up to on the order of 6,000 views when his other videos were not doing that. In the same interview he told people who ask which camera to buy to start with the gear they already have. A better camera did not make the first video. A buyer’s missing detail did.
+Marques Brownlee told The Verge he turned on a webcam so the next laptop buyer would not miss a detail the reviews had skipped. On Recode he told people who ask which camera to buy to start with the gear they already have, and he recalled a Safari-for-Windows video reaching on the order of 6,000 views. Andrew Rea told Mashed the first video was one burger he wanted to taste. A cookbook of the recipes came later. Hannah Hart told The Verge the first year was a webcam, the laptop on a stack of books, recorded in Photo Booth and cut in iMovie. She said the first episode reached about 80,000 views, and that she was still filming without a crew years later. The Verge’s introduction notes a cookbook and, by that interview, a memoir. Those products came after the audience. Film first, price later, is the order this book refuses. The page and the price come before the second video.
 
-Andrew Rea told Mashed the first Binging with Babish video was a one-off: a burger from a Parks and Recreation episode, filmed because he wanted to know what it tasted like. He had not planned a series. He kept going because he wanted to edit the next one the same night. He later added Basics with Babish, which taught ordinary technique instead of only the stunt recipe, and he published a cookbook of food from the videos. The free videos were the method. The book was the thing a stranger could buy.
-
-Ali Abdaal told Mixergy he made a short course on editing, on someone else’s platform, in about a day, and it kept selling after he stopped promoting it. He then made his own course, because leaving the income on a platform he did not control felt fragile. The YouTube video stayed the piece he wanted to make. The other posts were cut from it.
-
-Hannah Hart told The Verge the first year of her channel was a webcam, with the laptop on a stack of books. She recorded in Photo Booth and cut the video in iMovie. She said the first episode reached about 80,000 views, and that she was still filming without a crew years later. The Verge’s introduction notes that she later published a cookbook and, by that interview, a memoir. The early move is one video with the gear already on the desk. The books are the thing a stranger could buy. The later audience is not the lesson.
-
-What you can copy is the early move, and only that. Brownlee filmed one missing detail a buyer would have wanted, on a webcam. Rea filmed one recipe he wanted to taste, and a cookbook came later. Abdaal sold a short course, then moved that sale onto something he controlled. Hart’s first year was a laptop on a stack of books, and the books a stranger could buy came after. None of that is this chapter’s eight-video set. The set is the method here. Their later studios, audiences, and income are not evidence the set works, and they are not a reason to wait for a studio before the offer exists.
+Ali Abdaal told Mixergy he made a short editing course, on someone else’s platform, in about a day, and it kept selling after he stopped promoting it. He then moved that sale onto a course he controlled, because leaving the income on a platform he did not own felt fragile. That is the move this book keeps: a price, on a page you control, while the videos are still small. His later audience is not the lesson. The eight jobs are the method. A studio is not a reason to wait for one.
 
 ## VI. Do this before you batch-film
 
@@ -70,7 +66,7 @@ List the eight jobs with a working title under each. Mark the offer video. Confi
 - That you need daily uploads to deserve a sale. You need a path from the video to one link. Frequency does not replace that path.
 - That proof can be a screenshot you found. Proof is a result you can explain. If you do not have one yet, show the method on a small real example and do not invent a larger one.
 - That the next video should chase whatever got the most views. Chase the video that sent people to the offer, or fix the one that should have and did not.
-- That you need the studio those channels have now. Brownlee started on a webcam. Hart’s first year was a laptop on a stack of books. Rea started with one recipe he wanted to taste. The gear came after the repeat.
+- That you need the studio those channels have now. Brownlee, Rea, and Hart filmed with what was on the desk, and the product came after the audience. This book keeps Abdaal’s move instead: a price on a page you control, before the second video. The gear can be the gear you have. The missing price cannot.
 
 A last limit. This chapter will not hand you a niche or a script for your life. It will refuse a content calendar that has no offer video on it.
 

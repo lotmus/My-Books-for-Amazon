@@ -3,6 +3,8 @@ import re
 from pathlib import Path
 
 from docx import Document
+from docx.enum.section import WD_SECTION
+from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.opc.constants import RELATIONSHIP_TYPE as RT
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
@@ -218,6 +220,45 @@ def parse_blocks(text):
     return blocks
 
 
+def apply_page(section):
+    section.page_width = Inches(7)
+    section.page_height = Inches(10)
+    section.top_margin = section.bottom_margin = Inches(0.7)
+    section.left_margin = section.right_margin = Inches(0.7)
+    section.header_distance = Inches(0.35)
+    section.footer_distance = Inches(0.35)
+
+
+def set_running_head(section, text):
+    apply_page(section)
+    section.header.is_linked_to_previous = False
+    section.footer.is_linked_to_previous = False
+    header = section.header.paragraphs[0]
+    header.clear()
+    header.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+    run = header.add_run(text)
+    run.italic = True
+    run.font.name = "Calibri"
+    run.font.size = Pt(9)
+    run.font.color.rgb = RGBColor(0x44, 0x44, 0x44)
+    footer = section.footer.paragraphs[0]
+    footer.clear()
+    footer.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    begin = OxmlElement("w:fldChar")
+    begin.set(qn("w:fldCharType"), "begin")
+    instr = OxmlElement("w:instrText")
+    instr.set(qn("xml:space"), "preserve")
+    instr.text = " PAGE "
+    end = OxmlElement("w:fldChar")
+    end.set(qn("w:fldCharType"), "end")
+    footer.add_run()._r.append(begin)
+    footer.add_run()._r.append(instr)
+    footer.add_run()._r.append(end)
+    for item in footer.runs:
+        item.font.name = "Calibri"
+        item.font.size = Pt(9)
+
+
 def add_body(doc, blocks, number, base):
     skipped_series = False
     for block in blocks:
@@ -226,6 +267,8 @@ def add_body(doc, blocks, number, base):
             text = block[1]
             if text.startswith("# "):
                 title = text[2:].strip()
+                section = doc.add_section(WD_SECTION.NEW_PAGE)
+                set_running_head(section, f"{number}  {title}")
                 doc.add_paragraph(f"{number} {title}", "Heading 1")
                 continue
             if text.startswith("## "):
@@ -384,10 +427,12 @@ def main():
     doc.styles["Normal"].paragraph_format.line_spacing = 1.15
     doc.styles["Title"].font.size = Pt(32)
     doc.styles["Heading 1"].font.size = Pt(21)
-    doc.styles["Heading 1"].paragraph_format.page_break_before = True
-    doc.styles["Heading 2"].font.size = Pt(14)
-    doc.styles["Heading 2"].paragraph_format.space_before = Pt(12)
-    doc.styles["Heading 2"].paragraph_format.space_after = Pt(6)
+    doc.styles["Heading 1"].paragraph_format.page_break_before = False
+    doc.styles["Heading 2"].font.size = Pt(16)
+    doc.styles["Heading 2"].paragraph_format.space_before = Pt(16)
+    doc.styles["Heading 2"].paragraph_format.space_after = Pt(8)
+    section.different_first_page_header_footer = True
+    set_running_head(section, "Start here")
 
     doc.add_paragraph("Your First YouTube\nChannel That Sells", "Title")
     doc.add_paragraph(
@@ -405,6 +450,8 @@ def main():
     for number, path in ORDER:
         add_body(doc, parse_blocks(path.read_text(encoding="utf-8")), number, path.parent)
 
+    gloss = doc.add_section(WD_SECTION.NEW_PAGE)
+    set_running_head(gloss, "Glossary")
     doc.add_paragraph("Glossary", "Heading 1")
     glossary_intro = doc.add_paragraph()
     add_inlines(
@@ -418,6 +465,8 @@ def main():
         run.font.name = "Calibri"
         add_inlines(paragraph, definition)
 
+    sources = doc.add_section(WD_SECTION.NEW_PAGE)
+    set_running_head(sources, "Sources")
     doc.add_paragraph("Official sources and updates", "Heading 1")
     for text in SOURCES:
         paragraph = doc.add_paragraph()
@@ -454,9 +503,9 @@ START = [
 SOURCES = [
     "These notes support the claims in the chapters. Planning methods, worksheets, and creator-consensus tactics are editorial guidance, not platform requirements. The sample conversion figures are arithmetic placeholders, not measured rates. Accessed September 2026.",
     "*Chapters 1, 4, and 6 through 9 are a selling path: one offer, eight videos, a six-week calendar, wording, a workbook, and a diagnosis when nothing sells. They state no ranking formula.*",
-    "*Chapter 2. Title, description, and tag limits, captions, thumbnails, the title-and-thumbnail test, audience retention, recommendation signals, the recommendation system, Shorts discovery, Shorts analytics, and series playlists are cited to YouTube’s own help pages in the chapter. The four-long-and-six-shorts month is a production load, not a YouTube quota. Advertiser-friendly guidelines are cited for the existence of a sensitive-content category. The exact words that trigger it are not published.*",
+    "*Chapter 2. Title, description, and tag limits, captions, thumbnails, the title-and-thumbnail test, audience retention, recommendation signals, the recommendation system, Shorts discovery, Shorts analytics, and series playlists are cited to YouTube’s own help pages in the chapter. The eight jobs are the only production load in this book. YouTube does not publish that set as a quota. Four of them have to be long videos, because a Short cannot carry the link. Advertiser-friendly guidelines are cited for the existence of a sensitive-content category. The exact words that trigger it are not published.*",
     "*Chapter 3. Tool names and URLs come from working bookmark lists. Export bitrates, codec, and sample rate are YouTube’s recommended upload encoding settings. The Audio Library location is YouTube’s own help page. A higher-resolution upload getting a better playback encode is creator talk, and the chapter says so. Pricing, licenses, and features change. Specific personal projects were not used.*",
-    "*Chapter 5. YouTube Partner Program requirements were checked against YouTube’s own monetization guidance. Other platforms were checked against their own creator or help pages. Dailymotion’s requirements could not be confirmed to the same standard and are flagged in the chapter. Affiliate-link placement is creator consensus plus a disclosure habit, not a promise of income. Using one offer on every site is editorial. Instagram’s link sticker and TikTok’s profile-website page are cited in the chapter. Confirm each tap on a phone.*",
+    "*Chapter 5. YouTube Partner Program requirements were checked against YouTube’s own monetization guidance. Other platforms on the list were checked against the linked help page in September 2026. Instagram, Dailymotion, and Vimeo have no number in the chapter. One URL, repeated, is the rule. The FTC pages are US guidance.*",
     "Independent guide. Not affiliated with or endorsed by YouTube or any other platform named here. Not legal or tax advice. Check current official terms before acting.",
     "Pages cited in the chapters, so you can open them:",
     "[YouTube recommended upload encoding settings](https://support.google.com/youtube/answer/1722171) — bitrate, H.264, AAC-LC, 48 kHz.",
@@ -469,6 +518,11 @@ SOURCES = [
 ]
 
 GLOSSARY = [
+    ("Eight jobs", "The only set of videos this book asks you to finish: who it is for, the problem in their words, the method, proof, the comparison, one objection, the offer, and which video to watch next. The click chapter and the six-week calendar use this same set."),
+    ("Phone test", "On your phone, open the offer link the way a stranger will, from the description, and finish a payment or a booking. The step where you stall is the step a buyer will abandon. Refund the test if the tool allows it."),
+    ("Ticket", "One workshop on one date, with the date, the length, and the price on the page. After that date, sell the recording as the file, or stop. Do not leave both for sale."),
+    ("Monthly pass", "The next file or the next call, billed by you, on your page. The page says what arrives each month and when the next charge happens. A video site’s own membership button can wait until you have cleared that site’s gate."),
+    ("Sponsor", "One company pays you for one video. Say so in the video and next to the link. Do not also pitch your own file in that video."),
     ("Advanced features", "The Studio switch that makes an address in a long-form description, and in a long-form comment, clickable. Phone verification comes first. A Short’s description and comments stay unclickable after it is on."),
     ("Qualified watch hours", "Public long-form viewing that YouTube counts toward the hour bars. Hours watched in the Shorts feed do not count. Private, unlisted, deleted, and ad-campaign views do not count."),
     ("Expanded program", "In countries where YouTube has opened it, the earlier gate: 500 subscribers, three public uploads in 90 days, and either 3,000 long-form hours in a year or 3 million Shorts views in 90 days. Fan funding and Shopping. Not a share of watch-page ads."),

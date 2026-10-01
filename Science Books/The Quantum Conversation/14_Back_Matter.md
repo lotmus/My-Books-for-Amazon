@@ -182,7 +182,7 @@ Short meanings, in the sense this book uses them. The chapter is where the term 
 
 **Compton scattering.** An X-ray photon bouncing off an electron and leaving with a longer wavelength. A straight-back bounce lengthens it by about five picometers. Chapter 20.
 
-**Cooper pair.** Two electrons in one coherent superconducting state, charge *q* = 2*e*. The reason the flux step is *h*/2*e*. Chapters 3 and 40.
+**Cooper pair.** Two electrons bound into one superconducting state, opposite spin and opposite momentum, charge *q* = 2*e*. In ordinary low-temperature superconductors the attraction is carried by lattice vibrations. The pair is why the flux step is *h*/2*e*. Chapters 3 and 40.
 
 **Crossing.** Reading an outgoing positron as an incoming electron with time reversed on the diagram, so one calculation covers several related processes. Chapter 20.
 

@@ -115,6 +115,7 @@ Temperatures, applied to comparative biology.
 Hot: at least four real lineages combine an ordinary vertebrate or near-vertebrate body with a hazard of death that stays flat, runs on a multi-century clock, or resets after damage; the mole-rat mechanism has already been moved into a mouse and measurably helped it.
 Warm: more species will likely turn out to combine other tricks with other costs; comparative biology is an active field, not a closed inventory.
 Cold: that one of these tricks is a suppressed answer waiting for funding, transferable to a human body without also transferring the burrow, the ocean, the reset, or the size.
+Appendix A30 writes the four cousins and the price each trick already paid. Here, keep the invoice. None of them is a capsule.
 
 ## 31. Local Fixes
 
@@ -171,6 +172,7 @@ Temperatures, applied to reprogramming.
 Hot: a cyclic, all-four-protein schedule extended lifespan in a mouse model of one severe aging-mimicking defect; a partial, three-protein version restored a younger DNA-methylation pattern and function in specific mouse tissue; a human safety trial for the three-protein approach, aimed at one organ, exists as of January 2026.
 Warm: the same approaches may extend to other organs, other kinds of damage, and ordinary aging rather than one genetic defect, over the coming decade; partial reprogramming by either route is an active, well-funded research program, not a dead end.
 Cold: whole-body reprogramming, a reprogramming pill, or reprogramming as a general reversal of aging rather than a local repair of one tissue’s readable record.
+Appendix A32 writes the tumors, the short pulses, the mouse eye, and the human trial that is still one organ. Here, keep the four lines on the invoice. A photograph is not a schedule.
 
 ## 33. Not a Fountain
 

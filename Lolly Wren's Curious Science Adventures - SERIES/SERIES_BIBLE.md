@@ -1,6 +1,6 @@
 # Series bible — Lolly Wren's Curious Science Adventures
 
-Read this before writing or revising any book in the series. It is the shared account of who people are, where the story happens, when things occur, what physics has already been taught, and which stories have already been used.
+Read this before writing or revising any book in the series. It is the shared account of who people are, how they speak, where the story happens, what those rooms are like, when things occur, what physics has already been taught, which stories have already been used, and which jokes have already been told.
 
 A book-specific guide may add manuscript mechanics (styles, bookmarks, how to edit the file). It may not override a fact in this file. If the live manuscript and this file disagree, the manuscript wins, and this file should be corrected to match it. Do not invent a contradiction and call it a later book.
 
@@ -47,7 +47,7 @@ Story prose does not say "this book," "either book," "two books," or "the book's
 
 **Margaret Chain.** Elspeth's sister. She takes her tea with too much milk and she laughs at the wrong jokes. The Ministry erased her administratively. Lolly writes her name in the green notebook under RECOVERED: the milk, the wrong jokes, the pattern that survived. That is a record, not a return. Margaret does not come back. Mrs Chain is told so, thanks Lolly, and puts the kettle on. A photograph of the two of them laughing turns up that spring and goes back on the wall. Book 2's tally still counts her inside the 308 recovered states. Do not bring her through a door. Do not have Mrs Chain pretend a certificate is her sister.
 
-**Detective Inspector Albert Priddy.** CID. He investigates the impossible by ordinary methods and closes the file honestly when they fail. His Book 1 file on the incident stays formally open. That is the closest his department comes to a happy ending.
+**Detective Inspector Albert Priddy.** CID. He investigates the impossible by ordinary methods and closes the file honestly when they fail. His Book 1 file on the incident stays formally open. That is the closest his department comes to a happy ending. In Book 2, after the Chapter Nine backlog and before Gideon is in the corridor with her coat, he closes the criminal file on the fourteen. Ellen's neighbours saw her leave and the shop saw her come home. He does not close her. Lolly clips his carbon beside Mrs Chain's card. Wet wool, boot polish, tweed, and an umbrella that is his own instrument. Do not reopen the fourteen as a crime he failed to file.
 
 **Crispin Vale.** He signs Directive 11-C without reading the second page. The vanished second page was his, filed late so one signature could stand for four. He goes home to a garden in Woking, thanked and blamed in the same week. A Ministry car idles outside his gate twice and nobody knocks. In Book 2 he comes anyway and refuses to sign away the fourteen. Lolly minutes that. She does not forgive him.
 
@@ -59,7 +59,7 @@ Story prose does not say "this book," "either book," "two books," or "the book's
 
 **Mrs Prosser.** Outer Fenwick. She runs the moon rota. She has written to the Ministry nine times.
 
-**Mr Pilbeam.** Chairs the Board of Inquiry because nobody can work out how to un-volunteer him.
+**Mr Pilbeam.** Chairs the Board of Inquiry because nobody can work out how to un-volunteer him. He keeps a small terrier named Nelson, who is not permitted in the building and attends anyway. That Nelson is a dog. Nelson Drill, in Book 2, is a man. Do not put them in the same paragraph, and do not let anyone say "Nelson" where either could be meant.
 
 ### Consultants
 
@@ -77,9 +77,13 @@ These are fictional people using real physics. Their private lives in the novels
 
 **Albrecht Eilstein** is the oldest "consequence," his word. He feeds on what did not happen, not on blood. He casts no shadow and has no reflection. He arrives when invited and cannot cross a threshold until asked. He leaves Book 1 in December, having eaten nothing for six weeks, because they have stopped asking on an industrial scale. He tells Lolly that noticing was not nothing, provided she did not stop there. To von Wittenberg he says he has not given it up, it was never random, and he will go on looking for exactly as long as it takes. He does not say there will be other centuries, and he does not call it a famine. In Book 2 he is back. "He could not come in" at the opening of Chapter 3 is him, on a Thursday evening. Do not put Gideon in that sentence.
 
-**The Duc de Broccoli** explains himself slowly, with gloves. In Book 2 he keeps the path. Esaki keeps the wave. The room does not choose, and Chapter 15 does not settle it.
+**The Duc de Broccoli** explains himself slowly, with gloves. He smells of beeswax, or of a wardrobe shut a very long time. In Book 2 he keeps the path. Esaki keeps the wave. The room does not choose, and Chapter 15 does not settle it.
 
-**Jack Nashville** is a Book 2 person. He is not Jack Bellboy.
+**Werner Heisenburger** carries nothing and leaves no scent. Each word has the same weight. In Book 2 he has already stood at the back of the Schwarzschild reading and refused to name a second building until a needle moves. Do not bring him in again to hear that letter for the first time.
+
+**Erich Schrottfinger** smells faintly of pipe tobacco he no longer smokes and of coffee he still drinks. In Book 1 the empty box is at the Coldharrow Street library. In Book 2 he has already brought it up after the vote to leave the nine in transit, and left it on the cabinet. He will not be the cat in the file. Do not send him back to the library to perform that refusal again.
+
+**Jack Nashville** is a Book 2 person. He is not Jack Bellboy. The page does not give him a smell. Do not invent one.
 
 ### Book 2 people already on the page
 
@@ -90,7 +94,7 @@ Do not rename them, and do not insert their already-written scenes a second time
 - **Dougbart Stadthof,** signed D. Stadthof. Restores organs: cathedral, parish, and one dreadful thing in a hotel in Harrogate. Translates badly from three languages and has been told to publish or stop talking. Cheerful, loud, chalk, and at one point singing. He arrives on Mrs Kind's Thursday. He does not concede the Gödel minute. When he is agreed with, he declines to notice. Usable lines of his, not the three hundred pages: "It is not even wrong yet." "Ah." "Oh, that is beautiful and I hate it."
 - **Jack Nashville.** Not Jack Bellboy. He comes in alone, by appointment, and will not be met at the station. A geometer. The thing he is known for was a small proof at twenty-one; he does not think it is what he is. He spent years unable to tell a signal from a meaning, and he has been careful ever since. He does not raise his voice. "I do arithmetic." He will not be accompanied to Vienna. An unaffiliated observer is not required to like anybody, and why Eilstein did a thing does not matter to the certificate.
 - **Mr Esaki.** Announced at the desk as "Esaki, retired." Ninety-one. Shown up to the sixth floor. He grew heavily doped crystals. He refuses tea twice and refuses help into the car. He did not come to review Chapter One. He came because the building has spent thirteen chapters being astonished by a result he finds ordinary. A barrier is a place the classical description says the amplitude is zero. The wave was the more honest geography.
-- **Nelson Drill,** N. Drill. Eighty-eight. Arrives by taxi. He cannot produce a sentence that survives being written down: he reaches the end, says it is too strong, and takes a piece back. Two pencils and a matchbox. "An uncharacterised instrument is not evidence, it is a lead." His finding may be right and the route may still be forbidden. Do not give him a clean quotable speech. The live draft still has one meta sentence about the nine's representative coming "for the first time in the book's history." Do not copy that sentence.
+- **Nelson Drill,** N. Drill. Eighty-eight. Arrives by taxi. He cannot produce a sentence that survives being written down: he reaches the end, says it is too strong, and takes a piece back. Two pencils and a matchbox. "An uncharacterised instrument is not evidence, it is a lead." His finding may be right and the route may still be forbidden. Do not give him a clean quotable speech. The sentence that had the nine's representative arriving "for the first time in the book's history" has been taken out of Chapter 16. Do not put it back. The page does not give him a smell. Do not invent one.
 - **Ludger Soccermann.** Was sixty-two on 5 May 1906, when he sat as unaffiliated observer in the Vienna room. The party attending was A. Eilstein. His pages were in the strong room the whole time. He was filed because nobody submitted a request. Do not give him a second visit or a different filing.
 - **Lieutenant K. Schwarzschild.** Does not walk on. A letter from the Russian Front, and a second half he thought too speculative to send to Einstein, addressed to whichever office concerns itself with the shape of things. He sends his regrets. The physics is the 1915–16 solution. The extended geometry is two regions joined at a throat that pinches shut. It is not, by itself, a route.
 - **Hendrik van Casteel.** Never academic. Thirty-one years at a lighting concern. The torsion balance in the Cumbrian mineshaft was his, then a company's, then nobody's, and he still visits it. "I am a lighting engineer and I find the question ludicrous." He states the Casimir force and declines to spend three weeks on calibration. One extravagance per experiment: the superconducting cable. When the plates move four hundred and eleven attometres, he apologises for his voice. The reading is a force. It is not a proof of an interpretation.
@@ -99,7 +103,67 @@ Do not rename them, and do not insert their already-written scenes a second time
 - **Mrs Kell.** Eighty-three. She sits through the meeting in silence, then says to file the nine cores as in transit and not force the box. She abstains, and the minute records why: a person who proposes the sensible answer should not also get to vote for it. Do not merge her with Dorothy Kell's brother from Book 1. The manuscript does not.
 - **Mavis-9.** The department's machine in the corner. She declines to certify herself. She is not a person and not a consultant.
 
+Smells the page already gave, and no others. Esaki, Mrs Kind, Stadthof, Nashville, van Casteel, Ramanathan, Drill, Ellen, and Mrs Kell are not given a smell in Book 2. Do not supply one. Stadthof's chalk is what he writes with. Heisenburger's lack of a scent is the fact. Schrottfinger keeps the pipe tobacco he no longer smokes and the coffee he still drinks.
+
 The name Kastner is not in Book 1 or Book 2. Do not add it.
+
+## Tone and humour
+
+The books are one voice. A later book does not get a warmer narrator, a broader joke, or an American office. The comedy is a precise civil-service sentence applied to a fact that should not be civil service. One joke in a paragraph. The next sentence is the measurement, the loss, or the minute. The narrator does not explain the joke, wink, or say that any of this is a book.
+
+Grief is not the joke. Margaret's milk and the wrong jokes are how Mrs Chain names a person. Ellen's card, the 103 unrecovered, and the far end that has not written back stay plain. An institution may be made ridiculous. A person who has lost someone may not.
+
+Physics stays correct under the joke. A filing word may stand in for a technical one inside a scene. A lesson uses the real name. Do not spend a number to get a laugh.
+
+A new consultant, if a later book needs a physicist who is not already in the room, keeps the same disguise: one recognisable distortion of the name, the physics faithful, the private life invented. Do not invent a second joke-name for someone already disguised.
+
+### How they speak when they come back
+
+A returning person keeps the instrument, the smell, and the length of sentence they already have.
+
+- **Lolly** speaks as if the sentence had spent a night in the green notebook. She uses a pencil, not a Ministry pen. She notices and writes. She does not perform a certainty she does not have. When frightened she thinks in bra-ket notation. With Gideon she may be unfinished. That is not flirtation.
+- **Gideon** speaks carefully, and a little behind the thought. The thought arrives intact. He smells of hot solder and pencil shavings. His sleeves are pushed back over old burns. He puts the mug where her hand will find it and does not ask what the pages are. His clumsiness is physical: a chipped mug, a stair taken too fast. His dialogue is not a clown's. If the argument has no plug, he stays at the bench.
+- **Fainrose** is quieter than the room. Each word is already calibrated. She is rarely reassured. She may give a short order, as she does with "Get her in." She may be wrong about a timetable. She may not be careless about a measurement. Her house smells of paper, tea, solder, and intellectual impatience. She herself is scorched flux and Earl Grey.
+- **Beatrix** uses the voice she uses for minutes. Each clause is already a finding. Charcoal wool, a badge clipped with punitive exactness, ink and wet wool, a fountain pen. She does not soothe, and she does not repeat herself.
+- **Jago** is cheerful, and the sentence carries slightly more than the stamp covers. Dark coat, narrow face, biro ink and other people's post. He belongs everywhere on a provisional basis. He drives too fast and he owes people money. He is competent about the hardware. He is not a lecturer.
+- **Mrs Chain** is low and dry, built to carry the length of a queue. Late sixties, silver hair pinned, dark coat, sensible shoes, spectacles, the umbrella across her knees. She comes without an appointment. She stays for the person and leaves before the theory. After a loss the same voice is smaller. She makes the tea. She does not become a student of the Ministry.
+- **Eilstein** is courtesy so complete it is alarming. A disorganised nimbus of white hair, a moustache of magnificent indifference, a cardigan that has outlived several arguments, and no shoes once he is in a room he was asked into. No shadow and no reflection. He smells faintly of spent matches and photographic developer. He does not cross a line until asked. He says the true thing and does not decorate it. The story may show what he feeds on. A cast list, a blurb, and the first sentence of a new chapter may not.
+- **Priddy** speaks as if the sentence were already halfway to a statement. Tweed, an umbrella he treats as an instrument, wet wool and boot polish, a black notebook worn the way Lolly's is worn.
+- **Venn** is polished procedure. The case stays teal. He is not damp, and that absence is the offence. He believes reality is a filing problem. He does not confess.
+- **Pike** began with the brightness of a person doing well inside a system she had not examined. She has read the second page. She asks what a spreadsheet actually measures. She does not go back to not knowing. In Book 2 she is at the kettle, and the fact is in the audit.
+- **Pilbeam** is weary patience and very little of the physics. The terrier is his. See the warning under his name: Nelson the dog is not Nelson Drill.
+- **People who arrived in Book 2** keep the voices already fixed in this file. Mrs Kind closes a file the way she closes a booking. Stadthof is loud, chalk-dusted, and declines to notice when he is agreed with. Nashville does not raise his voice. Esaki refuses tea. Drill reaches the end of a sentence and takes a piece back. Van Casteel is a lighting engineer and finds the grand question ludicrous. Ramanathan speaks from the trace and often does not look up. Dump arrives late, with people and no papers. Mrs Kell sits through the meeting in silence, then says the sensible thing and does not vote for it.
+
+### Objects that are already theirs
+
+One instrument, one smell, one shape of sentence. The green notebook is one notebook, marked PRIVATE / UNHELPFUL. Lolly's pencil lives behind her ear; the graphite smudges her thumb. Gideon's pencil is blunt. Mrs Chain's umbrella has already seen things. Priddy's umbrella is his own instrument, not hers, and not the same joke. Beatrix's fountain pen and her boxes of evidence stay hers. Venn's case stays teal. The Ministry letterhead still cannot settle its own name. Do not invent a second notebook, a second umbrella, or a pen Lolly has decided she prefers.
+
+A later book may add a person or a room. In the same edit, add them to this file: one look, one sound, one smell, the instrument they carry, and the thing they will not do. If this file already has the place, use its furniture. Do not paste a second description over the character guide.
+
+### Jokes already told
+
+The method may continue. These performances may not.
+
+- The stairwell in 1919, the fluorescent tubes, and the Bloody Marys. Jago tells that story in Book 1 and again in Book 2. Eilstein has already been left a Bloody Mary on a windowsill, and he did not touch it.
+- Gideon's shoe in the Chapter 1 doorframe of Book 1.
+- Pilbeam being rescued by the word "Minute it." A later book may minute a decision. It may not replay the chairman looking round the table for someone to save him.
+- The neighbour's cat who loathes Beatrix, and the terrier treating chair legs as a romantic prospect. Both have had their scene.
+- Stadthof's "It is not even wrong yet," Nashville's "I do arithmetic," and Fainrose's "Get her in." Those lines belong to the scenes that used them. Do not hand one of them to somebody else.
+
+### If a place returns, it returns furnished
+
+Do not redecorate a room this list already describes. A new room may be added. The same edit that puts it on the page adds it here, with what it smells of and who is allowed in it.
+
+- **The Ministry in Coldharrow.** Soot-softened stone, between Minor Infrastructure and the office that licenses ceremonial ladders. A small sign, long corridors, carpets the particular brown of an institution too embarrassed to ask for new ones. Lolly's office has one window, four filing stacks, and the temperament of a damp envelope. It smells of photocopier toner and lukewarm tea, and of wet coats on a bad day. The Annex photocopier went out of order in the spring before Book 1 and has shown no inclination to reconsider. That is why she works in pencil.
+- **Queue Management.** A basement hall of chrome stanchions and retractable belts. Hand sanitiser, hot plastic from the ticket printer, and the flat anxiety of people who have been standing there long enough to treat it as a personality.
+- **The lobby.** The barrier line. Eilstein stays on the far side until asked.
+- **The Board room.** Coffee going bitter in the pot, photocopier toner, and the air of inquiries that have concluded almost none of them.
+- **Twenty-Two Elm Grove.** A modest cream house with blue trim, among semis with fractionally wrong numbers and identical stone birdbaths. After the plates come down it smells of instant coffee and furniture polish, applied in that order. Chain Terrace and Equivalent Residence Unit 7B were the names during the crisis, and the house then had the scentlessness of a show home. Those names do not return.
+- **The Institute for Unhelpful Clarity.** A narrow lane, then a wrought-iron gate: visitors by prior argument only, and no refunds for conclusions. A long low brick house, a slate roof, a brass armillary on the lawn, a boot-scraper stamped CALIBRATED, and a faint whine pitched to make a visitor feel reprimanded. Do not move the house to Coldharrow.
+- **Coldharrow Street library.** A branch reading room over a shut carpet showroom. Von Wittenberg and Schrottfinger have already used it in Book 1. A later visit does not introduce it again, and it is not where Schrottfinger leaves the empty box. That box is on the department cabinet.
+- **Outer Fenwick.** The terraced ridge, folding chairs, flasks, clipboards, coal smoke and simmering stew. The moon complaint is closed. The ridge may appear. The unsolved moon may not.
+- **The Regional Compression Annex.** Two fences, a camera mast, pale windowless walls, toner, hot electronics, and ozone under that. 4C is still not a room a person stands in.
+- **Rooms Book 2 has already furnished.** The third-floor briefing room is plasterboard, with the traces pinned along it. The sixth floor is where Esaki was shown up. Cheltenham is the unadvertised facility outside the town. Vienna is the two leases already described, not a new cafe. Cumbria is the shaft, not a town scene. Peterhead is the boat. Woking is the garden, and the car outside the gate still does not knock.
 
 ## Places
 
@@ -115,7 +179,7 @@ The name Kastner is not in Book 1 or Book 2. Do not add it.
 
 **Regional Compression Annex** is the fenced site. 4C is not a room a person stands in. It is a small engineered black hole in regional infrastructure, known by its instruments: mass falling, temperature rising.
 
-**Coldharrow Street library** is a branch reading room over a shut carpet showroom. Von Wittenberg and Schrottfinger use it. It is not the Ministry.
+**Coldharrow Street library** is a branch reading room over a shut carpet showroom. Von Wittenberg and Schrottfinger use it in Book 1. In Book 2 von Wittenberg is quoted and does not walk on. Schrottfinger's empty box is on the department cabinet, not back in the reading room. The library is not the Ministry.
 
 **Queue Management** is the basement hall of stanchions and belts.
 
@@ -221,7 +285,7 @@ What Book 1 has already told the reader is false: a particle simply "in two plac
 | 15 Lieutenant Schwarzschild Sends His Regrets | The Schwarzschild solution, 1915–16. A throat held open needs negative energy. |
 | 16 The Remaining Possibilities | No new law. Tunnelling, the Casimir force, and the throat are one measurement. A plate either feels the force or it does not. |
 
-Book 2's lessons say "Physics" and "What the reader learns." They do not use Book 1's full liturgy (no "Stop. Before you go on," no one-line summary heading). Do not paste Book 1's eighteen-part template into Book 2.
+Book 2's lectures sit after Q.E.D., in chapter order. Their headings are `Lecture. Chapter …` and `What the reader learns.` They do not say `Physics`. They do not use Book 1's full liturgy (no "Stop. Before you go on," no "You need first," no "When you walk out," no "Start here"). Do not paste Book 1's eighteen-part template into Book 2, and do not put the lectures back inside the chapters.
 
 ## Stories already used
 
@@ -237,7 +301,7 @@ Do not write a sequel in which 4C was only a metaphor, the 103 were secretly rec
 
 A new case, after the fourteenth of March. Fourteen citizens, Ellen Prosper among them, now on a boat out of Peterhead and not in Newcastle. The question is no longer "how do we stop 4C." It is what a permitted option is, what a barrier costs, and what a measurement can still honestly say.
 
-Eilstein returns and cannot cross the lobby line until asked. He chartered the boat and did not choose the crew. Vale will not sign the fourteen away. Mrs Chain is brought in and the trace is not rewritten for her. Stadthof will not let a minute pretend to be Gödel. Nashville will only trust nine. The Duc and Esaki leave the path and the wave both standing. Drill says the Chapter 3 finding may be right and the route is still not permitted. Van Casteel and Gideon build the bench. The plates move four hundred and eleven attometres. The fourteen went, if they went, as information down a throat about the width of a nucleus, into a far end that has never written back. On the ninth of February there is no countdown. Ellen's card is still outside the file.
+Eilstein returns and cannot cross the lobby line until asked. He chartered the boat and did not choose the crew. Vale will not sign the fourteen away. Mrs Chain is brought in and the trace is not rewritten for her. Priddy closes the criminal file on the fourteen, leaves his carbon beside her card, and does not close Ellen. Stadthof will not let a minute pretend to be Gödel. Nashville will only trust nine. The Duc and Esaki leave the path and the wave both standing. Drill says the Chapter 3 finding may be right and the route is still not permitted. Heisenburger has already refused to name a second building until a needle moves. Schrottfinger has already left the empty box on the cabinet. Van Casteel and Gideon build the bench. The plates move four hundred and eleven attometres. The fourteen went, if they went, as information down a throat about the width of a nucleus, into a far end that has never written back. On the ninth of February there is no countdown. Ellen's card is still outside the file.
 
 Do not write a third book in which Book 2 chose pilot wave over tunnelling, or in which Ellen's card was moved inside the file, or in which the fourteen were the same 411, or in which the plates did not move, or in which the nine cores were forced into a yes-or-no box.
 
@@ -250,6 +314,9 @@ The rule still exists. The first performance is over.
 - Gideon has already cut 4C's coupling. He has already run the Cumbrian cable.
 - Mrs Prosser's moon is no longer an unsolved complaint. Vale's unread second page is no longer an undiscovered fraud.
 - Stadthof has already declined to notice. Esaki and the Duc have already left both accounts standing.
+- Priddy has already closed the criminal file on the fourteen. The carbon stays beside the card.
+- Heisenburger has already heard the Schwarzschild letter and refused a name for the other end.
+- Schrottfinger has already set the empty box on the cabinet. Do not move that refusal back to the library.
 - The four hundred and eleven attometres are a result on the bench, not a revelation still to come.
 
 ### What a later book is for

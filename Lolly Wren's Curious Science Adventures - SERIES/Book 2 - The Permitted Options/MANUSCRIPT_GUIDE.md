@@ -1,7 +1,7 @@
 # The Permitted Options — Book 2 — Working Guide
 
 Reference file for editorial work on `The_Permitted_Options_BOOK_2_DRAFT.docx` in this folder.
-Shared facts for every book in the series are in `../SERIES_BIBLE.md`. Read that before changing a person, a place, a date, or a physics claim.
+Shared facts for every book in the series are in `../SERIES_BIBLE.md`. Read that before changing a person, a place, a date, a physics claim, or the way anyone speaks. The section "Tone and humour" binds the joke and the furniture.
 Read this first for Book 2's file. Only open the manuscript for a passage you are actually changing.
 If the live file is no longer 1982 paragraphs, the index map below is stale. Re-read the file and update this guide.
 

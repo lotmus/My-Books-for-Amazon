@@ -302,7 +302,7 @@ Current data favor dark energy being a true constant rather than some dynamicall
 
 The target is the "Omega Point" idea, laid out in the 1986 book *The Anthropic Cosmological Principle*: the notion that a future cosmic recollapse could let intelligent computation diverge to infinity at the final singularity — a scenario its proponents went so far as to equate with God.
 
-The core rebuttal is the one already made in full over in this almanac's physics chapters: the whole scenario needs the universe to eventually recollapse, and the 1998 discovery of accelerating expansion — covered here back in Chapter 18 — points exactly the other way. The cosmic "estate" the Omega Point needs to inherit isn't funded by the data we have.
+The core rebuttal is short. The whole scenario needs the universe to eventually recollapse, and the 1998 discovery of accelerating expansion — covered here back in Chapter 18 — points exactly the other way. The cosmic "estate" the Omega Point needs to inherit isn't funded by the data we have.
 
 A second, independent objection arrives courtesy of Chapter 16's discussion of chaos: even setting the acceleration problem aside and imagining a hypothetical crunch, the BKL/Mixmaster chaotic dynamics near a final singularity would make "steering" any coherent, let alone infinite, computation physically impossible.
 

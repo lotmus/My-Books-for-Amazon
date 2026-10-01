@@ -12,10 +12,10 @@ Reference only — not for publication. Compiled 2026-09-24 from what's actually
 - **Sound**: voice that barely changes register regardless of the news it carries — *"I've been murdered"* and *"would you like tea"* land almost identically. Reads as either extremely calm or extremely alarming depending how well you know him.
 - **Smell**: [not established]
 - **Attitude**: dry, deflects with humour, methodical under absurd pressure. Goes very still when thinking (established via Sophie's intro as an inherited trait — don't restate it at his own intro, it's meant to land as a quiet reveal there).
-- **Family**: father to Sophie (12), cousin to Penny, ex to Tuppence, unresolved tension with Tabitha (resolved via the closed-door beat in the Epilogue).
+- **Family**: father to Sophie (12), cousin to Penny, ex to Tuppence. Tabitha: shut-door evenings by the end of Book 1; in Book 2 he says so, she kisses him once, and the office door is left open on purpose. Do not restart them as strangers. See `SERIES_SEAM.md`.
 
 ### Penny Gent — Derek's cousin
-- **Looks**: striking brunette, dark coat, handbag. Calm, faintly amused expression of someone who's already dealt with several irritating people before breakfast.
+- **Looks**: dark coat, handbag, the expression of someone already bored with the morning. "Striking brunette" was removed from Book 1. Do not put it back.
 - **Sound**: sharp, fast when impatient.
 - **Smell**: [not established]
 - **Attitude**: never waits for an invitation, sharp and intuitive counterpart to Trevor's literalism. Impatient with anything that isn't already obvious to her.
@@ -65,7 +65,7 @@ Reference only — not for publication. Compiled 2026-09-24 from what's actually
 - **Looks**: unhurried in a way Trevor never manages, dark hair pulled back with the same practical impatience as Sophie's (a small family-resemblance echo, not a coincidence). Dressed for weather, not effect. Has a small dog, Gucci, who rides in her coat collar.
 - **Sound**: flat, dry delivery — genuinely correct physics insight ("stationary relative to what, exactly?") lands in the same tone she'd use to order a coffee.
 - **Smell**: [not established]
-- **Attitude**: the family's nerve where Trevor is the family's brain. Seeded Ch1 (unanswered text) and Ch9 (phone face-down). Arrives Ch15. Romantic interest for Derek, resolved via the Open-Door Principle beat in the Epilogue.
+- **Attitude**: the family's nerve where Trevor is the family's brain. Seeded Ch1 (unanswered text) and Ch9 (phone face-down). Arrives Ch15. With Derek: the epilogue shut door, then Book 2's sentence on the Paddington pavement and one kiss with the door left open. Continue from there.
 
 ### Sherlock — telepathic dolphin, remote Bureau consultant
 - **Looks/sound/smell**: **deliberately never physically described** — he communicates remotely/telepathically and is never directly "on camera" in a way that would call for it. This is consistent with the book's own rule about its "impossible objects" (see `SERIES_BIBLE_continuity_chart.md`): never mechanically explained, and by extension never over-described. Leave as-is.

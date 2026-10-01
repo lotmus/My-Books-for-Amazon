@@ -1,6 +1,6 @@
 # Series handover — 30 Sep 2026
 
-Several agents edit these books at the same time. Read `SERIES_BIBLE.md` in this folder before adding a person, a place, a date, a physics claim, or a plot. Then read this file, then the live manuscript. If the file is newer than this note, the file wins. Do not commit or push unless asked. Do not overwrite anything in a `bak` folder.
+Several agents edit these books at the same time. Read `SERIES_BIBLE.md` in this folder before adding a person, a place, a date, a physics claim, a plot, or a joke. The section "Tone and humour" is how the books stay one voice. Then read this file, then the live manuscript. If the file is newer than this note, the file wins. Do not commit or push unless asked. Do not overwrite anything in a `bak` folder.
 
 The parent repository is `C:\Users\lomus\OneDrive\My Books for Amazon`, remote `https://github.com/lotmus/My-Books-for-Amazon.git`. The old `schrodingers-paperwork-manuscript` remote is gone. Do not pull it.
 
@@ -41,7 +41,7 @@ Checked in the live draft, not in those snapshots:
 - Chapter 3 opens with "He could not come in." The next sentences are Thursday evening and Albrecht Eilstein. That pronoun is his. Do not insert Gideon between the chapter title and that line.
 - "two books", "either book", and the name Kastner are not in the file.
 - The style SourceCode is on nine paragraphs, and they are equations. Leave those equations in that style. Do not put ordinary narrative in it.
-- One story sentence still says the representative came "for the first time in the book's history" (Beatrix, the Thursday, Drill's instrument). Working notes may say "the book"; story prose should not.
+- The sentence that had the nine's representative arriving "for the first time in the book's history" has been taken out of Chapter 16. It now says she came for the first time since the case opened. Do not put the old clause back. Working notes may say "the book"; story prose should not.
 
 Match the quotation marks of the paragraph you are editing. Do not convert the whole draft in passing.
 

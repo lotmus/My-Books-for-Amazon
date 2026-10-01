@@ -11,6 +11,8 @@ Written 30 September 2026 from the manuscripts and the guides already in this fo
 
 Each book stands alone. Neither assigns the other as homework. `bak\` holds earlier editions. Edit the live folders above.
 
+People, rooms, and the joke are in `00_Series_Cast.md`. Mara is one woman. Eli keeps the clock she left. Priya is her sister on the coast. Rohan is the colleague in the tin. Do not invent a second household.
+
 ## Shared, already in both books
 
 From each book’s “How to Read,” the outlines, and `00_Book_Spine.md`.

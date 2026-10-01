@@ -1,0 +1,15 @@
+---
+description: Keep every Relativistic Investigation Bureau book in the same tone, cast, places, and humour
+globs: "**/*.{txt,md,py}"
+alwaysApply: true
+---
+
+# Series seam
+
+Before drafting or revising any book in this series, read `SERIES_SEAM.md`. It is the continuity that later books must match. `CHARACTER_AND_SETTING_BIBLE.md` holds looks. `SERIES_BIBLE_continuity_chart.md` holds Book 1's clocks. Do not invent a trait, room, or running joke that the seam already fixed.
+
+Voice: British spelling, British deadpan, one line of dialogue per paragraph. Physics is the plot and is argued in the room, then cut short. "Said" is occasional, not the default. Do not explain the joke. Do not announce chapter numbers.
+
+People stay themselves. Derek has no licence and does not change register. Penny is his cousin, not a romance, and is not a "striking brunette." Trevor is literal and wears the glasses as a tell. Weinstein has no London door and is not a vampire. Herbert steps, Weinstein leaps. Barbarian will not travel and is not named Julian Barbour. Sophie is twelve, precise, and not the unborn sender. Tuppence gets to the school first. Tabitha and Derek are already past the first sentence; do not restart them as strangers. Sherlock is never described and does not close the case. Mrs Marsh and Mr Pendleton are already fully described.
+
+Each book gets a new physics problem. It does not re-solve Case 1047, does not explain LOCALHOST, and does not treat seventeen as a force. New citations must be real books. Smell is not established; do not add it as a fact the series has always known.

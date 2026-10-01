@@ -10,7 +10,9 @@ Every job a first channel needs has a free or near-free tool: footage, a cut, mu
 
 A free tool will not tell you what you are allowed to do with its output. That check is yours, every time. It runs through every section below.
 
-You are here because the videos in the next chapter have to be cheap enough to finish. The tools are how you make those videos. They are not a second hobby of collecting apps. Make the one video in front of you, with the free tool that does that one job, and read its license before you publish.
+You are here because the videos in the next chapter have to be cheap enough to finish. Make the one video in front of you. The tools are how. They are not a second hobby of collecting apps.
+
+The default stack is four things. Your voice, or a text-to-speech voice that is not a clone of someone else. One track from YouTube’s Audio Library. One editor that will export the whole video: [CapCut](https://www.capcut.com/) is enough. Footage you filmed, drew, or photographed, or one stock clip after you have read that clip’s license. Finish with that stack. The rest of this chapter is what to open when the stack cannot make the shot. Read the license before you publish.
 
 ![The Free Production Pipeline: five stages — Generate Footage (Sora 2, InVideo, Magic Hour), Stock Footage & Photos (Pexels, Pixabay, Mixkit), Music & Sound (YouTube Audio Library, FreePD, Incompetech), Voice (FineVoice, Revoicer, Turboscribe), and Edit & Export (CapCut, 123apps, FFmpeg) — with a banner reading “Free tool ≠ free to use commercially. Read the license page before you publish.”](../figures/free-production-pipeline.svg)
 
@@ -18,12 +20,11 @@ You are here because the videos in the next chapter have to be cheap enough to f
 
 ## I. Generating footage without a camera
 
-Describe a shot. A text-to-video tool gives you a few seconds that did not exist an hour ago. Use one tool for the shot in front of you.
+Describe a shot. A text-to-video tool gives you a few seconds that did not exist an hour ago. Use one tool for the shot the default stack cannot film, then stop.
 
 - [Sora 2](https://openai.com/sora/) makes the clip from the description.
-- InVideo, Media.io, VEED, and Magic Hour do that job in a browser. Magic Hour also offers face swap, a talking head from one photo, lip sync, and restyling. A face you did not film is someone else’s face. Section VI is the check.
-- Remaker and Deepswap are built around face swap. Same check.
-- [HeyGen](https://www.heygen.com/) and Synthesys put a generated presenter on screen from a script. Use one when the video needs a person at a desk and you are not filming yourself.
+- [InVideo](https://invideo.io/), [Media.io](https://www.media.io/), [VEED](https://www.veed.io/), and [Magic Hour](https://magichour.ai/) do that job in a browser.
+- [HeyGen](https://www.heygen.com/) and [Synthesys](https://synthesys.io/) put a generated presenter on screen from a script, when the video needs a person at a desk and you are not filming yourself.
 
 Expect to regenerate a clip two or three times before one is usable. What you may do with the output is in that tool’s terms: commercial use, resale, posting the same file on another site. Those terms differ, and they change. Read the commercial-use section before you publish. The pricing page is not the license.
 
@@ -75,7 +76,7 @@ Whichever source the music comes from, a few mixing habits do more for how profe
 
 [FineVoice](https://finevoice.ai/) and [Revoicer](https://revoicer.com/) turn a script into a voiceover. A free tier is enough to hear whether the script works. Pay for a final render after that, not before.
 
-ElevenLabs is the name creators most often call the most natural, as of this writing. Its free tier covers several short scripts a month. That reputation is creator talk. Listen to a sample on its own page before you pick it. NaturalReader and Speechify do the same job more simply. The voice sounds less natural. If your editor already speaks a script from the timeline, try that first. It skips a second export.
+ElevenLabs is the name creators most often call the most natural, as of this writing. Its free tier covers several short scripts a month. That reputation is creator talk. Listen to a sample on [its own page](https://elevenlabs.io/) before you pick it. [NaturalReader](https://www.naturalreaders.com/) and [Speechify](https://speechify.com/) do the same job more simply. The voice sounds less natural. If your editor already speaks a script from the timeline, try that first. It skips a second export.
 
 Turboscribe does the reverse. A recording becomes text. That text can go into the caption workflow in the click chapter. You do not need a second transcription pass.
 
@@ -85,7 +86,7 @@ Voice cloning deserves a harder line than the rest of this chapter. Cloning your
 
 ## V. The free engine editing everything else runs on
 
-Trimming, a vertical frame, a join, a burned-in caption, and a format YouTube will take: a browser editor can do those at no cost. 123apps, EZGIF, Clideo, and [CapCut](https://www.capcut.com/) each bundle most of them. [online-video-cutter.com](https://online-video-cutter.com/) is enough when all you need is a trim. cloudconvert.com turns one file format into another when the editor’s export list does not include the one you need.
+Trimming, a vertical frame, a join, a burned-in caption, and a format YouTube will take: one browser editor can do those at no cost. [CapCut](https://www.capcut.com/) is the default. [123apps](https://123apps.com/), [EZGIF](https://ezgif.com/), and [Clideo](https://clideo.com/) cover a single job when CapCut will not. [online-video-cutter.com](https://online-video-cutter.com/) is enough when all you need is a trim. [CloudConvert](https://cloudconvert.com/) turns one file format into another when the editor’s export list does not include the one you need.
 
 A free tier often stops at the export. Clideo’s watermark lifts on a paid plan. At the time of the author’s research that plan was about $6 to $9 a month. That range is not a budget. Confirm the live price. A free editor can also stop at length. If the free export ends at about a minute, it will not finish a long video. Join and trim in a tool that exports the whole length. Browser cutters often cap how many joins you get in a day. That cap moves. Test one full export on day one.
 
@@ -102,6 +103,8 @@ Every tool in this chapter comes with a permissions question attached to it. The
 Three common additions are allowed, and none of them skips the check. A text-to-speech voice is usable when it is not a clone of someone else’s voice. A stock clip is usable after you have read that clip’s license. Footage from a generator is usable after you have read that tool’s commercial-use terms. Section I is the check for generated footage. Section II is the check for a library. Section IV is the check for a voice. “I generated it” is not a substitute for any of those readings.
 
 Before you post the same file on another site, read the license for that site. A grant that names YouTube does not automatically name every other logo. If the license is silent, do not post the file there.
+
+A face swap, or a voice cloned from someone else, fails this check unless that person has agreed in writing. The tool’s terms do not supply that agreement. Do not build the video around either one.
 
 > **Key takeaway:** A free tool can do each job. Read that tool’s license before you publish. Footage you generated still needs that reading.
 

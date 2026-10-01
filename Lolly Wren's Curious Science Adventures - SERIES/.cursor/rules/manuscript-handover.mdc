@@ -7,6 +7,8 @@ alwaysApply: true
 
 Read the guide before editing. Re-count the live file if its size or paragraph count differs from the guide. Paragraph indexes move; trust anchor sentences.
 
+Before a person, a place, a joke, or a physics claim goes into any book in this series, read `SERIES_BIBLE.md`. The sections that bind the voice are "Tone and humour" and "People who continue." A book guide may not override the bible. Do not give a returning person a new smell, a new instrument, or a new name. Do not redecorate a place the bible already furnished. Add a new person or room to the bible in the same edit that puts them on the page.
+
 ## Live files
 
 - Book 1: `Book 1 - Schrodingers Paperwork/Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`. Guide: `MANUSCRIPT_GUIDE.md`. Places: `CHARACTER_AND_PLACE_GUIDE.md`.

@@ -1,6 +1,6 @@
 # Status — *A Trip Is Not a New Life*
 
-**Current, 30 September 2026.** Shared series reference: `../00_Series_Reference.md`. Handover: `../HANDOVER.md`. The part files win if this log disagrees.
+**Current, 30 September 2026.** Shared series reference: `../00_Series_Reference.md`. Cast, places, and the joke: `../00_Series_Cast.md`. Handover: `../HANDOVER.md`. The part files win if this log disagrees.
 
 Book 1 teaches the crew and the library again in its own chapters 31 and 32. Those chapters are lessons, not bridges. This book keeps the same subjects as chapters 25 and 26. Do not tell Book 1 to cut them back.
 

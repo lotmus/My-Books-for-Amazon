@@ -1,0 +1,30 @@
+TITLE: Renormalization
+TAGLINE: The number in the Lagrangian was never measured directly — once that is taken seriously, Lesson 66's divergence has somewhere to go and nothing measurable is left infinite
+NUM: 67
+NEXT: Lesson 68 works out, in full, what the same logic does to the electron's charge rather than its mass, and finds that the "constant" e from Lesson 43 is not quite constant after all.
+
+# How to use this lesson
+
+Every lesson since 61 has been building toward a question this one finally answers: what does a divergent loop integral actually do to a real prediction. The answer turns out to hinge on a fact easy to state and easy to walk past without noticing — the mass m written into the Dirac Lagrangian back in Lesson 25 has never once been measured directly, by any experiment, ever. What gets measured is something else, and once that something else is identified precisely, Lesson 66's divergence turns out to have a perfectly good home to live in, one that never shows up in a single finite, checkable number this course has produced. Expect six to eight hours.
+
+## Learning objectives
+
+- Explain the distinction between the bare mass m₀ appearing in the Lagrangian and the physical mass m defined by where the full electron propagator actually has its pole.
+
+- Sum the geometric series of self-energy insertions into the electron propagator and show it produces i/(p̸−m₀−Σ(p)).
+
+- Derive, to leading order, the relation m=m₀+A(m₀²) between the physical mass and the bare mass, using Lesson 63's Σ(p)=A(p²)+B(p²)p̸.
+
+- Explain why A(p²)'s divergence, found in Lesson 63 and made explicit in Lesson 66, forces m₀ itself to be divergent, and why this causes no contradiction with any measured prediction.
+
+- State, without deriving them in full, the analogous roles of field renormalization and charge renormalization, and identify which earlier lesson's object each one uses.
+
+- Explain why Lesson 65's short list of divergent diagrams is exactly what makes this program work for the whole theory, not only for the electron's mass.
+
+- Reproduce the resummed propagator and the mass-renormalization relation from memory.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| m₀ | The bare mass, the parameter written in the original Lagrangian |
