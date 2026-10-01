@@ -95,4 +95,4 @@ That reversal turns out to be powerful pedagogically, independent of whatever el
 
 Mead took that lesson and ran further with it than almost anyone else in the field. This book has tried to take it just as seriously.
 
-Mead did not derive QED in these pages, and QED does not prove Mead's picture of what is real. Photons and the field are still in the theory. The merger is a path between descriptions, open in either direction according to the question being asked. Chapter 47 is where the boundary of that claim is drawn.
+Mead did not derive QED in these pages, and QED does not prove Mead's picture of what is real. Photons and the field are still in the theory. The merger is a path between descriptions, open in either direction according to the question being asked. If you have been walking the spine, this is the circuit. Chapter 47 is the last stop on it, and the boundary of the claim.

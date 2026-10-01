@@ -110,7 +110,7 @@ const TOC_ENTRIES = [
   { type: "back", title: "Appendix A: Equations at a Glance" },
   { type: "back", title: "Appendix B: Notes on Sources" },
   { type: "back", title: "Appendix C: Glossary" },
-  { type: "back", title: "Appendix D: Index" },
+  { type: "back", title: "Appendix D: Index of Chapters" },
   { type: "back", title: "Appendix E: Symbols, Numbers, and Distinctions" },
   { type: "back", title: "If This Book Worked for You" },
   { type: "back", title: "Also by Lothar J. Musiol" },

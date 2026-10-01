@@ -13,7 +13,7 @@ Along the way:
 
 This book does not claim to have unified physics. It says, more than once, what it has shown and what it has not proven. A synthesis that stops where the evidence stops is one you can trust the next time it surprises you.
 
-Twelve equations in a closing quick-reference. Thirteen custom illustrations, including a one-page map of the whole argument before Chapter 1. Notes on the sources and dates behind the results.
+Twelve equations in a closing quick-reference. Fifteen custom illustrations, including a one-page map of the whole argument before Chapter 1. Notes on the sources and dates behind the results, each one a link you can open.
 
 THE QUANTUM CONVERSATION is the follow-up to THE QUANTUM WORLD, not a sequel with a plot. The survey is the map. This book is what happens when one stop on that map — collective electrodynamics, phase, and the potential — is allowed to become the whole trip. You can read it on its own if you already have some quantum mechanics. You will get more from it if you have already walked the survey.
 

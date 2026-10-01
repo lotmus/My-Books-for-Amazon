@@ -24,9 +24,7 @@ Then comes quantum electrodynamics, and the electromagnetic interaction itself t
 
 At this point, you might reasonably expect the basic picture to have become clearer. Instead, it becomes stranger. What, exactly, is an electromagnetic field? Is it a physical thing filling space, or merely a convenient way of describing relationships between charges? What is a photon? Does it travel from one electron to another like a microscopic bullet? What is the electromagnetic potential, and why does quantum mechanics seem to care about it so much more than classical physics ever did? And perhaps the most uncomfortable question of all: what is actually fundamental here?
 
-Everything in the pages ahead will eventually come down to one image, and it may as well be stated plainly now, before it has been earned: a force is a shadow, and this book is about the thing casting it. Shadows are real. You can measure one, stand in one, predict where one will fall. The Lorentz force is not being retired. It still predicts the motion of every charged object in the laboratory. Calling it a shadow means only this: the force is what the phase-and-potential structure looks like once you have already taken the classical limit.
-
-It is as real as a temperature. It is not the deepest description this book has. But a shadow never contains the full shape of the object making it, and for three centuries, the force was the only part of electromagnetism most of us were ever shown.
+I am not going to hand you that answer here. The questions above are the book. The Lorentz force still predicts the motion of every charged object in the laboratory, and nothing in these pages retires it. What that force is a trace of is what the long way is for.
 
 These aren't philosophical decorations hung around the equations after the fact — they shape how the equations themselves get understood.
 
@@ -65,6 +63,8 @@ Readers of *The Quantum World*, elsewhere in this series, will recognize the see
 One page, before the first chapter, showing the whole shape of where this is going:
 
 ![Roadmap: how the argument fits together. Phase and the potential branch into Maxwell's classical world and QED's quantum one, then reunite through coherence in a circuit you can build. Wheeler–Feynman direct action hangs off to the side because it's a historical alternative, not a replacement.](fig13_master_map.png)
+
+Stay if you already know that an electron interferes, and you want to know why the potential — the quantity a first course tells you to ignore — is the thing the interference notices. Put the book down if you wanted a textbook, a history of quantum electrodynamics, or a claim that fields are illusions. It is none of those.
 
 Before Chapter 1, you should have met electric and magnetic fields, and you should know that an electron can be described by a wave that interferes. This book does not teach calculus, Maxwell's equations from nothing, or quantum field theory. It does stop to say what a phase, a potential, and a gauge transformation are doing. When a formula appears, the sentence in front of it is the part to hold onto if the symbols are new.
 

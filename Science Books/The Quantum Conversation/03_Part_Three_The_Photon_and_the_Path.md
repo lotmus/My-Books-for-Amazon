@@ -50,6 +50,8 @@ It did. The Schrödinger equation, the interference patterns, the uncertainty pr
 
 Here is where it gets interesting. Most of the wildly different paths in that infinite sum have wildly different actions, and so wildly different phases, and when you add a huge collection of essentially random phases together, the contributions cancel each other out almost completely — arrows pointing in every direction, canceling in aggregate. But paths that lie close to the single path a classical, Newtonian particle would have taken share almost the *same* action, and therefore almost the same phase, and phases that are nearly equal reinforce each other instead of canceling.
 
+Add the same pair from Chapter 1. Two arrows of length 1, both pointing north: head to tail, the sum has length 2. That is a pair of neighboring paths, the ones whose phases nearly agree. One north and one south: the sum has length 0. That is a pair of wild paths. The classical trajectory is the neighborhood where your addition comes out long. Everywhere else, it comes out dark.
+
 The result is that the classical trajectory emerges as the trajectory around which quantum contributions pile up and survive, while everything else washes out, rather than being fed into the theory as a separate assumption. A "path," in this picture, was never really a physical track the electron slid along. It was always this: the one neighborhood of histories where the interference stopped canceling and started adding.
 
 ![Figure 3. Every route from start to end contributes an arrow. Wildly different neighboring paths point every which way and cancel; paths near the classical trajectory share nearly the same phase and add up — so that trajectory alone survives.](fig03_path_integral.png)

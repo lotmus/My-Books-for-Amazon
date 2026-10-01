@@ -58,7 +58,7 @@ Physics, across nearly every subfield anyone has ever studied, is thick with thi
 
 ## 45. Is the Field Real?
 
-A satisfying picture has been under construction across this book: phase near the center, the potential connecting phase to electromagnetism, the field emerging from the potential's curvature, collective states making phase visible at macroscopic scale. It is an elegant story, and elegance is exactly the point at which a book like this one needs to get nervous, because a beautiful conceptual picture can start to feel true well past where the mathematics still supports it. Two theories share an idea, and people start speaking as though they are secretly the same theory.
+I have been waiting for this chapter since the page where I admitted I could not say what a field was. A satisfying picture has been under construction across this book: phase near the center, the potential connecting phase to electromagnetism, the field emerging from the potential's curvature, collective states making phase visible at macroscopic scale. It is elegant enough that I no longer trust it on sight. Elegance is exactly the point at which a book like this one needs to get nervous, because a beautiful conceptual picture can start to feel true well past where the mathematics still supports it. Two theories share an idea, and people start speaking as though they are secretly the same theory.
 
 A quantity gets derived in one description, and someone concludes it must be unreal in another. A field gets eliminated from one formulation, and someone announces that fields, in general, do not exist. Each of those conclusions runs well past what its premise actually supports, and this chapter exists to say so directly.
 

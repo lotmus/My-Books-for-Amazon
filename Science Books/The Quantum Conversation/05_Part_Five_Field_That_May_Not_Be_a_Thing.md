@@ -4,7 +4,7 @@
 
 ## 15. What If the Field Isn't Independent?
 
-*The next five chapters are a question, not a replacement for QED. Wheeler–Feynman absorber theory is a mid-century reformulation of classical radiation reaction. It cannot reproduce QED's radiative corrections, vacuum polarization, or particle creation. Its value is the question it forces: must the field be an independent thing, or can it be a bookkeeping of relationships? The standard theory remains QED.*
+*The next five chapters are a question, not a replacement for QED. Wheeler–Feynman absorber theory is a mid-century reformulation of classical radiation reaction. It cannot reproduce QED's radiative corrections, vacuum polarization, or particle creation. Its value is the question it forces: must the field be an independent thing, or can it be a bookkeeping of relationships? The standard theory remains QED. If you are on the spine, read this chapter and the next, then go to Chapter 20. Chapters 17 through 19 are the rest of the aside.*
 
 Physics has a dangerous habit. Someone invents a useful mathematical object. It works. People calculate with it. Other people learn to calculate with it. Textbooks get written about it. And somewhere along the way, everyone forgets that the object was invented at all — it starts to feel like a piece of furniture that was simply sitting in the universe, waiting to be discovered rather than constructed.
 
@@ -40,9 +40,15 @@ There's a different lesson here, and a more general one. A theory can sometimes 
 
 That viewpoint becomes especially provocative once set beside the quantum-phase picture built so far. The electromagnetic potential already enters directly into the phase of charged matter. The familiar fields can be derived from that potential. The potential itself can, in turn, be related to its sources through Green's functions, as Chapter 8 described. And the direct-interaction formulation asks whether the electromagnetic degrees of freedom, at bottom, might be nothing more than relationships between charged systems, expressed in a particularly compact language. Seen this way, Mead's approach is one more voice in a much older conversation about the most economical way to describe how charges talk to each other — not an isolated eccentricity within condensed matter physics.
 
+![Figure 14. Retarded and advanced are two pieces of one solution, drawn here as arrows in time. Sum the response of every charge that will absorb the radiation, and the backward pieces cancel. What remains is the forward radiation and the recoil a detector actually sees.](fig14_absorber.png)
+
+The spine resumes at Chapter 20. Chapters 17 through 19 stay with the question only where it gets expensive: a beam that carries energy, the Poynting flux that accounts for it, and the photon that arrives with a definite energy and momentum. Skip there if the circuit is why you came.
+
 ---
 
 ## 17. A Field or a Relationship?
+
+*Aside. The spine resumes at Chapter 20.*
 
 Picture two people talking across a room. You can describe the conversation as sound waves propagating through the air between them — a perfectly good physical account. Or you could describe it as the state of one person's vocal apparatus, the state of the air, and the response of the other person's ears — a different but equally valid decomposition of the very same physical process. Now imagine removing the air. The analogy collapses immediately, because sound requires a material medium to propagate through, and no clever reformulation changes that fact.
 
@@ -54,7 +60,7 @@ For microscopic scattering processes at high energy, the quantum-field formulati
 
 Physics is more tightly constrained than cartography (every formulation still has to respect the same experiments, in a way that a hiking map and a subway map never have to agree with each other), but the underlying lesson survives the analogy intact: a good physical description is one that makes the structure relevant to the question at hand visible, not one that claims to be the single true picture underlying all the others.
 
-That opens up an appealing possibility. Perhaps the electromagnetic field is best understood as neither an illusion to be argued away nor an unquestionable substance to be taken for granted, but as the natural local representation of a deeper network of quantum interactions among charges — a representation that happens to be extraordinarily convenient for some purposes and slightly misleading for others. The rest of this Part tests that idea against the places where it becomes genuinely difficult to sustain. And there are such places. They begin with radiation.
+Chapter 18 is where the idea gets expensive. A beam of light carries energy whether or not anyone has decided the field is a substance.
 
 ---
 

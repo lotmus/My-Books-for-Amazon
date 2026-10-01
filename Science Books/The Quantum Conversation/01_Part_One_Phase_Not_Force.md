@@ -26,6 +26,8 @@ It helps to make this concrete. Suppose an electron can reach a detector by two 
 
 Nothing about either route changed in isolation. Only the relationship between their two angles changed, and that relationship alone decided what showed up on the detector. This is the arithmetic underneath every interference pattern anyone has ever photographed, from ripples on a pond to the banded fringes of light passing through two narrow slits. Carry it forward as a mental picture: quantum outcomes are decided by adding arrows, not by adding probabilities.
 
+Do the addition once, on a page, with two arrows of length 1. Point one due north and one due south. Head to tail, they close: the sum has length 0, and a detector at that spot stays dark. Tip the south-pointing arrow ten degrees toward the east. They no longer close. A short leftover remains, and that leftover is the faint signal. The routes did not change their lengths. Only the angle between them changed. Keep this pair. Chapter 10 asks you to add it for neighboring paths. Chapter 25 asks you to add it for the path that wins.
+
 ![Figure 1. When two arrows point nearly the same way, they add into a long arrow — nearly opposite, and they cancel toward nothing. This one piece of arithmetic underlies every interference pattern in this book.](fig01_interference.png)
 
 Richard Feynman built an entire method of calculation on this fact. Instead of assuming a particle takes one definite path and patching in quantum corrections afterward, you can imagine it taking every conceivable path at once, weight each one by the phase it accumulates along the way, and add them all together. Most of the contributions cancel. What survives, for anything large enough to see, looks almost indistinguishable from the single path Newton would have predicted. We will come back to this properly in a few chapters, because it turns out to be the cleanest way to see what electromagnetism actually does to a charged particle's phase.
@@ -38,7 +40,7 @@ It follows every path at once, each contributing its own arrow, and the paths ne
 
 The "chosen" path was never chosen. It was simply the one path nobody's contribution managed to cancel.
 
-And that gives us our first real clue about what electromagnetism might be. If phase is the quantity that governs interference, and interference is the machinery underneath everything we call classical, then an interaction that systematically shifts the phase of charged matter may be close to the entire story, hardly a minor character in it. Electromagnetism, it turns out, is that kind of interaction — and the rest of this book follows that idea all the way through.
+And that gives us our first real clue, still only a clue. If phase is the quantity that governs interference, and interference is the machinery underneath everything we call classical, then an interaction that systematically shifts the phase of charged matter would sit close to the center of the story. Whether electromagnetism is that interaction is what the next chapters have to show. This one does not get to announce it.
 
 ---
 

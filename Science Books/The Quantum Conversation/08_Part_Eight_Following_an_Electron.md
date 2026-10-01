@@ -39,6 +39,8 @@ The Lagrangian splits cleanly into a matter sector, an electromagnetic sector, a
 
 The old force picture survives this encounter, just not intact — call it *absorbed*, a useful word to hold onto, since absorbed is not the same thing as discarded. The classical force remains exactly where it always was, as a limiting description; the quantum theory tells you, for the first time, what's actually sitting underneath it.
 
+Spine: Chapter 32 is the bridge, Chapters 40 through 42 are the circuit, and Chapter 47 draws the boundary. The pages between here and the bridge are one electron's amplitude becoming a diagram, a force, and a current.
+
 ---
 
 ## 29. Feynman's Diagrams Become Less Mysterious
@@ -157,3 +159,5 @@ Feynman's QED supplies the microscopic relativistic framework nothing else can r
 A theory, in the end, is as much a choice about which variables deserve to be treated as the important ones as it is a collection of equations — Newton chose positions and momenta, Maxwell chose fields, Einstein chose spacetime geometry, quantum mechanics chose amplitudes, Feynman chose histories and phase, gauge theory chose connections and symmetry, and Mead chose collective quantum phase and the electromagnetic potential. Each choice changes what becomes obvious and what stays hidden. The universe does not arrive labeled with instructions about which variable is secretly the fundamental one.
 
 Useful variables get discovered by finding descriptions that compress the physics without losing what matters — and sometimes the deepest available insight is not a new equation at all, but the recognition that the old question was being asked in the wrong variables all along. That recognition is a great deal of what doing physics consists of, far more than a footnote to it.
+
+Spine: the wire is Chapters 40 through 42. Chapter 47 is the ledger. Before the wire, an electron has to meet light, and the precision has to be earned.
