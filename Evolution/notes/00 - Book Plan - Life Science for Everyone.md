@@ -4,6 +4,8 @@ _Written 2026-09-15. Ten chapters already existed (3, 5, 23, 24, 26, 27, 27a, 28
 
 _Update, later on 2026-09-15: all twenty-one missing chapters have been drafted and saved as .docx files in this folder, matching chapter 27's template (Title/Heading 1/Normal styles, 'Life: Science for Everyone' title page, short declarative-line voice, a closing 'Punchline' section). The book is now complete at all 31 files (30 numbered chapters plus 27a), roughly 63,000 body words total. Not yet done: a full continuity/cross-reference pass reading all 31 chapters together, fixing the housekeeping items below, and combining into one manuscript file._
 
+_Update, 2026-10-01: chapters renumbered into a clean 1-31 sequence (old 27a is now 28, old 28 is 29, old 29 is 30 with "- FINAL" dropped, old 30 is 31). Headings restructured for Kindle: "Chapter N" uses the ChapterLabel style, the chapter title is Heading 1, sections are Heading 2. Chapters 3, 5 and 23-31 merged into fewer sections; chapters 12, 20 and 22 converted to one sentence per line; About the Author page added. Part V is now chapters 23-30 and Part VI is chapter 31._
+
 ## The arc
 
 The book walks from chemistry to consciousness and then to the machines that may inherit both.
