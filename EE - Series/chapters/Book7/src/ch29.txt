@@ -1,4 +1,5 @@
 PART: Part III. Where the Series Meets
+P: The package, the board, and the test lab are where every earlier book becomes hardware. The last part of the book, and of the series, follows that idea to its end by looking at one product that draws on nearly every book at once.
 H1: Chapter 29. The Robot: Where the Series Meets
 P: A mobile robot, and in 2026 particularly the humanoid and the mobile manipulator, is the one product that uses nearly every book in this series at once. It has motors driven by power converters from a battery (Book 6), joint controllers that are feedback loops (Book 2), sensors including MEMS inertial units (Chapter 7), radios (Books 4 and 5), electromagnetic compatibility to meet (Part II, Chapters 21 to 28), and an onboard computer whose package, power delivery, and cooling are this book's subject. This closing chapter does not design a robot. It shows, with numbers, how the parts of the series fit together in one, and why the hard problems lie at their boundaries.
 H2: 29.1 Two loops at two speeds

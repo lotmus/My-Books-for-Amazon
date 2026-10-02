@@ -20,7 +20,8 @@ from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 
 HERE = Path(__file__).resolve().parent
-SRC, FIG = HERE / "src", HERE / "fig"
+ROOT = HERE.parent  # series root (scripts/ is one level down)
+SRC, FIG = ROOT / "chapters" / "Book2" / "ch11_23" / "src", ROOT / "chapters" / "Book2" / "ch11_23" / "fig"
 CHAPTERS = list(range(11, 24))
 CH10_SUMMARY = ("A 200 Hz joint tracker has a 5 ms period. The classical loop runs underneath any "
                 "robot model, uses the same Bode habits as Chapter 5, and answers to an independent "

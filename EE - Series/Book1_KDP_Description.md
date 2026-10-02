@@ -8,7 +8,7 @@
 
 ## Description
 
-Book 1 builds the vocabulary every later book uses: charge, field, potential, current, resistance, capacitance, magnetism, and induction, then the mathematics and circuit theory that turn them into working analysis. Every worked example uses declared numbers, and every practice problem has an answer in the back.
+Book 1 builds the vocabulary every later book uses: charge, field, potential, current, resistance, capacitance, magnetism, and induction, then the mathematics and circuit theory that turn them into working analysis.
 
 Each chapter states its question, develops the idea in words, and works it through with declared numbers. Every number in a worked example was computed, and the answers to every practice problem are in the back of the book.
 

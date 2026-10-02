@@ -19,6 +19,10 @@ P: Closed-loop power control compares the detected power with a target and adjus
 H2: Worked Example 40.3
 WEP: A handset at 23 dBm receives eight consecutive −1 dB commands. Find its new power, and the factor by which its battery current for the amplifier might fall if the amplifier's efficiency stayed constant.
 WES: The power falls to 23 − 8 = 15 dBm, from 200 mW to 31.6 mW, a factor of 6.3. In practice efficiency falls at back-off, so the current falls by less unless the supply is reduced too, which is the purpose of the envelope-tracking and average-power-tracking supplies of Chapter 36.
+H2: 40.5 The whole radio
+P: With power control the radio is complete. The transmitter now measures what it sends, the network tells it how much to send, and every decibel it saves after the last amplifier is a decibel it never had to generate. Looking back over the book, a few ideas carried every chapter. A line longer than a small fraction of a wavelength must be matched or it reflects. Every match, filter, and antenna trades bandwidth against loss and size. Every amplifier trades linearity against efficiency, and every receiver trades sensitivity against the strong signals it must survive.
+P: Part I built the structures that guide and radiate the signal; Part II built the circuits that make it strong, keep it clean, and hear it again. Book 5 takes the radio of this book as given and asks what to send through it: the waveform, the coding, the multiple antennas, and the band plan. Book 6 supplies the power that the amplifiers consume, and Book 7 puts the whole design on a board and in a package and takes it to the test chamber.
+KEY: Key idea. A radio is a chain of passive structures and active circuits, and its performance is set by the weakest link: the loss after the last amplifier, the noise before the first one, and the linearity in between.
 H2: Practice
 PR: A 33 dBm transmitter uses a 30 dB coupler and a detector whose maximum is 0 dBm. What pad is needed?
 PR: Find the directivity error bounds for RL + D = 40 dB.
