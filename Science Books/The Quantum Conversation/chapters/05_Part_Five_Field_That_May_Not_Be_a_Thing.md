@@ -42,11 +42,11 @@ That viewpoint becomes especially provocative once set beside the quantum-phase 
 
 Sound needs air. Take the air away and the conversation stops, because a sound wave is a disturbance of a material. Light does not work that way. It crosses a vacuum, and the standard description of that fact is the quantized electromagnetic field. This part is not reviving the nineteenth-century ether, the invisible mechanical medium that was discarded for good reason.
 
-The useful question is which description makes which physics easy to see. High-energy scattering belongs to QED. A coherent superconductor belongs to the collective phase. Radiation reaction is where the direct-action account earns its keep. None of the three is obliged to do the other two jobs. Chapter 18 is where that limit shows up in the laboratory: a beam of light carries energy and momentum whether or not anyone has decided the field is a substance. Absorber theory, as this chapter has it, cannot reproduce QED's radiative corrections, vacuum polarization, or particle creation. If the circuit is the destination, Chapter 20 is next.
+The useful question is which description makes which physics easy to see. High-energy scattering belongs to QED. A coherent superconductor belongs to the collective phase. Radiation reaction is where the direct-action account earns its keep. None of the three is obliged to do the other two jobs. Chapter 17 is where that limit shows up in the laboratory: a beam of light carries energy and momentum whether or not anyone has decided the field is a substance. Absorber theory, as this chapter has it, cannot reproduce QED's radiative corrections, vacuum polarization, or particle creation. If the circuit is the destination, Chapter 19 is next.
 
 ---
 
-## 18. Radiation Is Where Things Get Serious
+## 17. Radiation Is Where Things Get Serious
 
 A beam of light carries energy and momentum. It can push a solar sail. It knocks electrons out of a metal one photon at a time. The last two chapters made an independent field sound optional: charges interact, phases shift, familiar fields emerge downstream, coherence makes phase visible. The beam is where that idea gets expensive.
 
@@ -72,7 +72,7 @@ And it demands a distinction this book intends to hold onto carefully for the re
 
 ---
 
-## 19. Where Is the Energy?
+## 18. Where Is the Energy?
 
 Energy remains one of the best available tests of any physical picture, if only because it has to be conserved no matter how you tell the story. Suppose two like charges repel each other and drift apart, gaining kinetic energy as they go. Where did that additional kinetic energy actually come from?
 

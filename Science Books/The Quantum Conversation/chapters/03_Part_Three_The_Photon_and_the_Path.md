@@ -44,7 +44,7 @@ Every conceivable route — the straight line, the gentle curve, the path that l
 
 The observable outcome depends on that combined sum, not on any single path considered in isolation.
 
-Feynman arrived at this picture partly by taking a much older idea more seriously than anyone before him had. Paul Dirac had noted, in passing, that a quantum amplitude ought to be related to the classical action by something like the factor *exp(iS/ħ)* (the same expression Chapter 28 will meet again in a more formal setting, sitting directly inside the machinery of QED) without pushing the observation very far. Feynman, still a graduate student at the time, pushed it all the way: if every possible history really does contribute a phase set by its action, then summing over all of them, rather than singling out one, ought to reproduce the whole of quantum mechanics from scratch.
+Feynman arrived at this picture partly by taking a much older idea more seriously than anyone before him had. Paul Dirac had noted, in passing, that a quantum amplitude ought to be related to the classical action by something like the factor *exp(iS/ħ)* (the same expression Chapter 27 will meet again in a more formal setting, sitting directly inside the machinery of QED) without pushing the observation very far. Feynman, still a graduate student at the time, pushed it all the way: if every possible history really does contribute a phase set by its action, then summing over all of them, rather than singling out one, ought to reproduce the whole of quantum mechanics from scratch.
 
 It did. The Schrödinger equation, the interference patterns, the uncertainty principle — all of it falls out of the sum-over-histories picture as a consequence, not an additional assumption bolted on afterward.
 

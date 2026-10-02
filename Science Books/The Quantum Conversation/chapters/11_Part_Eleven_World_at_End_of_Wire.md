@@ -2,17 +2,17 @@
 
 ---
 
-## 40. From QED to a Superconducting Circuit
+## 39. From QED to a Superconducting Circuit
 
 It's time to come back to something more tangible than a Lagrangian. A wire. A loop. A voltage. A current — the kind of thing anyone could build on a lab bench without needing a particle accelerator anywhere nearby. Make that wire superconducting, and cool it down far enough, and the humble circuit turns into a genuine quantum system: its current becomes tied to a collective phase, its enclosed magnetic flux becomes quantized as Chapter 3 derived, it acquires discrete energy levels, and it becomes capable of interacting with individual microwave photons one at a time.
 
 A device that would otherwise sit comfortably in an undergraduate electrical engineering course becomes, at low enough temperature, a fully functioning quantum laboratory. This is the point where the book's two central strands move from compatible in principle to inseparable in practice.
 
-An ordinary classical circuit is described using a small, familiar set of quantities — voltage, current, capacitance, inductance — and those variables remain enormously useful for almost every practical purpose imaginable. A superconducting circuit, cooled into its quantum regime, does something stranger: those same variables become quantum operators. Energy levels turn discrete. Superpositions become physically realizable. The circuit can become entangled with a microwave field the way an atom can. Nothing mystical happened to get here: the scale and temperature were adjusted until the relevant quantum coherence survived long enough to matter, as Chapter 32 described for coherence in general.
+An ordinary classical circuit is described using a small, familiar set of quantities — voltage, current, capacitance, inductance — and those variables remain enormously useful for almost every practical purpose imaginable. A superconducting circuit, cooled into its quantum regime, does something stranger: those same variables become quantum operators. Energy levels turn discrete. Superpositions become physically realizable. The circuit can become entangled with a microwave field the way an atom can. Nothing mystical happened to get here: the scale and temperature were adjusted until the relevant quantum coherence survived long enough to matter, as Chapter 31 described for coherence in general.
 
 What used to be a handful of symbols an electrical engineer might sketch on a whiteboard has become a quantum system.
 
-Inductance is normally introduced as a property of a coil's geometry, telling you how much magnetic flux accompanies a given current. In a superconducting circuit, it acquires a deeper quantum meaning: the current is tied to the collective motion of the coherent charge condensate, the electromagnetic energy depends on that current, and the phase dynamics driving it all are coupled directly to the electromagnetic potential, as Chapter 31 described. The inductor, which looks like the most passive possible piece of engineering, turns out to be part of the system's quantum Hamiltonian — classical circuit concepts becoming quantum variables, emergence running in reverse from where this book usually finds it.
+Inductance is normally introduced as a property of a coil's geometry, telling you how much magnetic flux accompanies a given current. In a superconducting circuit, it acquires a deeper quantum meaning: the current is tied to the collective motion of the coherent charge condensate, the electromagnetic energy depends on that current, and the phase dynamics driving it all are coupled directly to the electromagnetic potential, as Chapter 30 described. The inductor, which looks like the most passive possible piece of engineering, turns out to be part of the system's quantum Hamiltonian — classical circuit concepts becoming quantum variables, emergence running in reverse from where this book usually finds it.
 
 Capacitance follows the identical pattern. Classically, a capacitor stores electrostatic energy,
 
@@ -22,7 +22,7 @@ In a quantum circuit, charge itself becomes a quantum variable, paired with the 
 
 What turns this quantum oscillator into something useful is a single added component: the Josephson junction, predicted in 1962 by Brian Josephson^13, then a twenty-two-year-old graduate student at Cambridge, a prediction that won him a share of the 1973 Nobel Prize, and that rhymes more than a little with a young Feynman working out radiation reaction as Wheeler's graduate student back in Chapter 16. A Josephson junction is a thin barrier separating two superconductors, across which the superconducting phase on one side can differ from the phase on the other by some amount *δ*.
 
-The resulting current, familiar from Chapter 31, and the energy stored in the junction as a function of that same phase difference, are:
+The resulting current, familiar from Chapter 30, and the energy stored in the junction as a function of that same phase difference, are:
 
 > **Equation (12).** The Josephson relations:
 > *I = I_c sin(δ)*,
@@ -47,7 +47,7 @@ Mead would recognize the very same device for the opposite reason: the electroma
 
 ---
 
-## 41. One System, Several Descriptions
+## 40. One System, Several Descriptions
 
 Take a superconducting circuit coupled to a microwave cavity — a physical apparatus you could point to on a bench in a real laboratory — and it can be described, correctly, at any of several distinct levels at once. At the microscopic level: electrons, ions, electromagnetic fields, and their full quantum interactions. At the condensed-matter level: a superconducting condensate, quasiparticles, an order parameter. At the collective circuit level: phase, charge, capacitance, inductance, Josephson energy. At the quantum-optical level: a qubit coupled to photon modes. At the classical level: ordinary currents, voltages, electromagnetic waves.
 
@@ -63,7 +63,7 @@ The exact form depends on the specific system, but the conceptual content is wha
 
 ![Figure 11. A superconducting circuit built to act like one atom: a capacitor and a Josephson junction give it a controllable phase and discrete energy levels, and it couples directly to a microwave photon in an on-chip cavity.](fig11_circuit_qed.png)
 
-Even when the cavity contains no real photons at all, the quantized electromagnetic mode itself doesn't disappear. Its vacuum state remains, and that vacuum state can influence the coupled system: shifting energy levels, modifying transition rates, contributing measurably to observable effects, as the Casimir effect and the engineered vacuum of Chapters 26 and 34 already established. Even in the naive classical sense, the cavity is never truly empty: it contains a genuine quantum electromagnetic mode sitting in its ground state, and once again there's no need to picture tiny photons bouncing around inside an ostensibly empty box — the vacuum state itself is the relevant quantum object doing the work.
+Even when the cavity contains no real photons at all, the quantized electromagnetic mode itself doesn't disappear. Its vacuum state remains, and that vacuum state can influence the coupled system: shifting energy levels, modifying transition rates, contributing measurably to observable effects, as the Casimir effect and the engineered vacuum of Chapters 25 and 33 already established. Even in the naive classical sense, the cavity is never truly empty: it contains a genuine quantum electromagnetic mode sitting in its ground state, and once again there's no need to picture tiny photons bouncing around inside an ostensibly empty box — the vacuum state itself is the relevant quantum object doing the work.
 
 It sounds almost self-contradictory to say a macroscopic object can have "a" quantum state — surely something built from trillions of atoms should carry countless independent degrees of freedom rather than one tidy state to point to. It does carry all of those microscopic degrees of freedom; nothing about this description erases them. What happens instead is that the entire system's many-body quantum state organizes itself so that a small number of collective variables (the superconducting phase chief among them) dominate its low-energy behavior completely.
 
@@ -79,7 +79,7 @@ Nothing magical happened in reverse here either. The quantum theory underneath n
 
 ---
 
-## 42. The Same Wire Contains All Four Worlds
+## 41. The Same Wire Contains All Four Worlds
 
 Here, perhaps, is the strangest conclusion this book has reached so far: the very same physical wire can correctly be described as a quantum many-body system, a collective superconducting phase, a quantum circuit, or an ordinary classical electrical conductor, depending entirely on the regime and the question being asked of it. The material itself stays exactly what it is, regardless of who's looking at it or how; what changes is the description. That is the deepest lesson any of these effective theories has to offer: reality does not arrive with one compulsory vocabulary stapled to it. The vocabulary has to match the scale of the question.
 
@@ -95,4 +95,4 @@ That reversal turns out to be powerful pedagogically, independent of whatever el
 
 Mead took that lesson and ran further with it than almost anyone else in the field. This book has tried to take it just as seriously.
 
-Mead did not derive QED in these pages, and QED does not prove Mead's picture of what is real. Photons and the field are still in the theory. The merger is a path between descriptions, open in either direction according to the question being asked. Chapter 47 is where the boundary of that claim is drawn.
+Mead did not derive QED in these pages, and QED does not prove Mead's picture of what is real. Photons and the field are still in the theory. The merger is a path between descriptions, open in either direction according to the question being asked. Chapter 46 is where the boundary of that claim is drawn.

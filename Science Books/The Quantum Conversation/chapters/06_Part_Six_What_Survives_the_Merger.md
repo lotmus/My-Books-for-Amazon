@@ -2,7 +2,7 @@
 
 ---
 
-## 20. What QED Adds
+## 19. What QED Adds
 
 Halfway. The phase-and-potential story is in place. Here is what it still cannot do, and what quantum electrodynamics adds.
 
@@ -16,7 +16,7 @@ A phase-and-potential picture, however elegant within its own domain, was never 
 
 Precision radiative corrections, the Lamb shift and the electron's anomalous magnetic moment among them, require summing over virtual processes involving the full relativistic field, order by order, in a calculation that has no analogue in a theory whose only dynamical variable is a single macroscopic phase. And a relativistic scattering framework requires something subtler still: the ability to treat an incoming electron and an outgoing positron as excitations of the same underlying field, related by reversing the direction of time in a diagram, a technique called crossing, so that a calculation for one process hands you the calculation for several related ones almost for free.
 
-That only works if particles and antiparticles belong to one relativistic field from the start, which is precisely the structure a fixed-particle-number phase theory does not have. None of these three requirements is optional, and none of them is available to a theory built only from a collective quantum phase, however successfully that phase organizes the physics of a coherent, low-energy, particle-number-conserving system like a superconductor. Keep this specific list on hand: Chapter 47 returns to ask what this book's synthesis has, and has not, established.
+That only works if particles and antiparticles belong to one relativistic field from the start, which is precisely the structure a fixed-particle-number phase theory does not have. None of these three requirements is optional, and none of them is available to a theory built only from a collective quantum phase, however successfully that phase organizes the physics of a coherent, low-energy, particle-number-conserving system like a superconductor. Keep this specific list on hand: Chapter 46 returns to ask what this book's synthesis has, and has not, established.
 
 This is why QED isn't an optional later chapter, bolted on for completeness after Mead's picture had already done the real work: Parts Eight through Ten build this machinery, from the covariant derivative to Feynman diagrams to the renormalized vacuum, because nothing lighter gets there.
 
@@ -36,7 +36,7 @@ That reframes the right question to be asking from here forward. Not *which theo
 
 ---
 
-## 21. The Geometry of the Potential
+## 20. The Geometry of the Potential
 
 A clock in London and a clock in Tokyo can both read 3:00. You still cannot tell whether those moments match until you know the offset between the zones. The offset belongs to neither clock. It is the rule for comparing them. The electromagnetic potential is that rule, for phase.
 
@@ -58,7 +58,7 @@ And once the electromagnetic field is allowed back into the room as a full quant
 
 ---
 
-## 22. The Art of Forgetting
+## 21. The Art of Forgetting
 
 Imagine looking down at a forest from an airplane. From thirty thousand feet it's a green expanse with a visible boundary and perhaps a river cutting through it — no individual trees in sight. Descend and walk into it, and trees appear. Get closer, and branches appear, then leaves, then cells, then molecules. The forest never changed. Only the resolution did. Physics works the same way: at one scale, a system is most naturally described as a classical electromagnetic field; at another, as photons and charged particles; at another, as a coherent quantum state carrying one macroscopic phase.
 
@@ -80,7 +80,7 @@ The lesson is the same one running through the whole book: physical descriptions
 
 ---
 
-## 23. The Meaning of "Fundamental"
+## 22. The Meaning of "Fundamental"
 
 Ask what *fundamental* means, and you get three different answers, depending on the question.
 
@@ -100,7 +100,7 @@ A pressure wave is real even though pressure itself is a statistical, emergent p
 
 That distinction is also the right place to stand at the structural midpoint of this book and state its ambitions precisely rather than imply them grandly — because the whole project only stays honest if what is, and is not, being claimed gets said in plain terms.
 
-In short: not that Mead's framework is QED in different words, not that Wheeler–Feynman absorber theory equals modern relativistic QED, not that the field has been shown "unreal," and not that Maxwell's equations should be discarded. Chapter 47 states this restraint in full, with each claim weighed against what the physics does and doesn't establish; for now, the point is only that the ambition here has a ceiling, and staying under it is deliberate.
+In short: not that Mead's framework is QED in different words, not that Wheeler–Feynman absorber theory equals modern relativistic QED, not that the field has been shown "unreal," and not that Maxwell's equations should be discarded. Chapter 46 states this restraint in full, with each claim weighed against what the physics does and doesn't establish; for now, the point is only that the ambition here has a ceiling, and staying under it is deliberate.
 
 What this book is doing instead is more modest, and far more useful for it.
 

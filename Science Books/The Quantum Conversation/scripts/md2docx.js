@@ -67,45 +67,45 @@ const TOC_ENTRIES = [
   { type: "part", title: "PART FIVE — The Field That May Not Be a Thing" },
   { type: "chapter", title: "15. What If the Field Isn't Independent?" },
   { type: "chapter", title: "16. Wheeler and Feynman: The Universe Talks Back" },
-  { type: "chapter", title: "18. Radiation Is Where Things Get Serious" },
-  { type: "chapter", title: "19. Where Is the Energy?" },
+  { type: "chapter", title: "17. Radiation Is Where Things Get Serious" },
+  { type: "chapter", title: "18. Where Is the Energy?" },
   { type: "part", title: "PART SIX — What Survives the Merger" },
-  { type: "chapter", title: "20. What QED Adds" },
-  { type: "chapter", title: "21. The Geometry of the Potential" },
-  { type: "chapter", title: "22. The Art of Forgetting" },
-  { type: "chapter", title: "23. The Meaning of \"Fundamental\"" },
+  { type: "chapter", title: "19. What QED Adds" },
+  { type: "chapter", title: "20. The Geometry of the Potential" },
+  { type: "chapter", title: "21. The Art of Forgetting" },
+  { type: "chapter", title: "22. The Meaning of \"Fundamental\"" },
   { type: "part", title: "PART SEVEN — Geometry, Symmetry, Vacuum" },
-  { type: "chapter", title: "24. Charge Is the Price of Changing Phase Locally" },
-  { type: "chapter", title: "25. Why the Classical Path Wins" },
-  { type: "chapter", title: "26. Magnetism, Light, and Empty Space" },
-  { type: "chapter", title: "27. The Phase Can Wind" },
+  { type: "chapter", title: "23. Charge Is the Price of Changing Phase Locally" },
+  { type: "chapter", title: "24. Why the Classical Path Wins" },
+  { type: "chapter", title: "25. Magnetism, Light, and Empty Space" },
+  { type: "chapter", title: "26. The Phase Can Wind" },
   { type: "part", title: "PART EIGHT — Following an Electron" },
-  { type: "chapter", title: "28. The Equation Behind the Conversation" },
-  { type: "chapter", title: "29. Feynman's Diagrams Become Less Mysterious" },
-  { type: "chapter", title: "30. The Classical Coulomb Force Emerges" },
-  { type: "chapter", title: "31. Now Add Many Electrons" },
-  { type: "chapter", title: "32. The Book's Central Bridge" },
+  { type: "chapter", title: "27. The Equation Behind the Conversation" },
+  { type: "chapter", title: "28. Feynman's Diagrams Become Less Mysterious" },
+  { type: "chapter", title: "29. The Classical Coulomb Force Emerges" },
+  { type: "chapter", title: "30. Now Add Many Electrons" },
+  { type: "chapter", title: "31. The Book's Central Bridge" },
   { type: "part", title: "PART NINE — Light Meets Matter" },
-  { type: "chapter", title: "33. The Photon Is Not the Opposite of the Phase" },
-  { type: "chapter", title: "34. When Matter Meets Light" },
-  { type: "chapter", title: "35. The Loop, Formalized" },
+  { type: "chapter", title: "32. The Photon Is Not the Opposite of the Phase" },
+  { type: "chapter", title: "33. When Matter Meets Light" },
+  { type: "chapter", title: "34. The Loop, Formalized" },
   { type: "part", title: "PART TEN — Renormalization, Done Once, Done Right" },
-  { type: "chapter", title: "36. Vacuum Polarization: The Electron Is Not Quite Alone" },
-  { type: "chapter", title: "37. The Terrible Reputation of Renormalization" },
-  { type: "chapter", title: "38. A Resolution Dial" },
-  { type: "chapter", title: "39. Renormalization Is a Translation System" },
+  { type: "chapter", title: "35. Vacuum Polarization: The Electron Is Not Quite Alone" },
+  { type: "chapter", title: "36. The Terrible Reputation of Renormalization" },
+  { type: "chapter", title: "37. A Resolution Dial" },
+  { type: "chapter", title: "38. Renormalization Is a Translation System" },
   { type: "part", title: "PART ELEVEN — The World at the End of the Wire" },
-  { type: "chapter", title: "40. From QED to a Superconducting Circuit" },
-  { type: "chapter", title: "41. One System, Several Descriptions" },
-  { type: "chapter", title: "42. The Same Wire Contains All Four Worlds" },
+  { type: "chapter", title: "39. From QED to a Superconducting Circuit" },
+  { type: "chapter", title: "40. One System, Several Descriptions" },
+  { type: "chapter", title: "41. The Same Wire Contains All Four Worlds" },
   { type: "part", title: "PART TWELVE — What the Electron Knows" },
-  { type: "chapter", title: "43. A Tiny Charge With a Huge Story" },
-  { type: "chapter", title: "44. The Electron in a Superconductor" },
-  { type: "chapter", title: "45. Is the Field Real?" },
+  { type: "chapter", title: "42. A Tiny Charge With a Huge Story" },
+  { type: "chapter", title: "43. The Electron in a Superconductor" },
+  { type: "chapter", title: "44. Is the Field Real?" },
   { type: "part", title: "PART THIRTEEN — The Honest Ending" },
-  { type: "chapter", title: "46. The Ladder of Descriptions: Electron to Eye" },
-  { type: "chapter", title: "47. What We Have Learned, and What We Have Not Proven" },
-  { type: "chapter", title: "48. Epilogue: The Law Becomes Visible" },
+  { type: "chapter", title: "45. The Ladder of Descriptions: Electron to Eye" },
+  { type: "chapter", title: "46. What We Have Learned, and What We Have Not Proven" },
+  { type: "chapter", title: "47. Epilogue: The Law Becomes Visible" },
   { type: "back", title: "Appendix A: Equations at a Glance" },
   { type: "back", title: "Appendix B: Notes on Sources" },
   { type: "back", title: "Appendix C: Glossary" },
@@ -155,7 +155,11 @@ const LINE_SPACING = { line: 360, lineRule: "auto" };
 const HEADLINE_FONT = "Amazon Ember";
 const HEADLINE_SIZE = 36; // half-points -> 18pt
 const HEADLINE_COLOR = "0000FF";
-const FIGURES_DIR = path.join(__dirname, "Figures");
+// This script lives in <book>\scripts\; the chapters live in <book>\chapters\,
+// figures in <book>\Figures\, and the built docx is written to the book root.
+const BOOK_ROOT = path.join(__dirname, "..");
+const CHAPTERS_DIR = path.join(BOOK_ROOT, "chapters");
+const FIGURES_DIR = path.join(BOOK_ROOT, "Figures");
 
 let TOC_PAGES = {};
 try {
@@ -560,7 +564,13 @@ const ctx = {
   },
 };
 
-const files = process.argv.slice(2);
+// With no arguments, build every numbered chapter file in chapters\ in order.
+// Bare file names are looked up in chapters\.
+let files = process.argv.slice(2);
+if (files.length === 0) {
+  files = fs.readdirSync(CHAPTERS_DIR).filter((n) => /^\d\d_.*\.md$/.test(n)).sort();
+}
+files = files.map((f) => (path.isAbsolute(f) || fs.existsSync(f)) ? f : path.join(CHAPTERS_DIR, f));
 files.forEach((f) => parseFile(f, ctx));
 ctx.flush(); // whatever's left after the last file
 
@@ -574,6 +584,6 @@ const doc = new Document({
 });
 
 Packer.toBuffer(doc).then((buffer) => {
-  fs.writeFileSync(path.join(__dirname, "manuscript_draft.docx"), buffer);
+  fs.writeFileSync(path.join(BOOK_ROOT, "manuscript_draft.docx"), buffer);
   console.log("wrote manuscript_draft.docx");
 });

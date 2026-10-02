@@ -2,11 +2,11 @@
 
 ---
 
-## 33. The Photon Is Not the Opposite of the Phase
+## 32. The Photon Is Not the Opposite of the Phase
 
-It is tempting to split this book into rival camps: fields and photons against potentials and phase, with a winner to be declared at the end. They are two windows on one interaction. A photon is an excitation of the electromagnetic field, and a charged quantum state acquires phase by coupling to that same field, as the covariant derivative in Chapter 28 made explicit.
+It is tempting to split this book into rival camps: fields and photons against potentials and phase, with a winner to be declared at the end. They are two windows on one interaction. A photon is an excitation of the electromagnetic field, and a charged quantum state acquires phase by coupling to that same field, as the covariant derivative in Chapter 27 made explicit.
 
-There is no contradiction lurking between these two descriptions, only a question of which one is most useful for the situation in front of you. Calculating electron-muon scattering at high energy all but requires QED's field language. Explaining flux quantization in a superconducting loop is often clearest starting from collective phase. Designing a radio transmitter is a job for Maxwell's equations. Studying the deep structure of gauge theories favors the connection-and-curvature language from Chapter 21. One universe. Several windows onto it, each built for a different view.
+There is no contradiction lurking between these two descriptions, only a question of which one is most useful for the situation in front of you. Calculating electron-muon scattering at high energy all but requires QED's field language. Explaining flux quantization in a superconducting loop is often clearest starting from collective phase. Designing a radio transmitter is a job for Maxwell's equations. Studying the deep structure of gauge theories favors the connection-and-curvature language from Chapter 20. One universe. Several windows onto it, each built for a different view.
 
 The easiest beginner's picture of a photon — a field is a wave, and a photon is just a small packet cut out of that wave — isn't quite wrong, but it hides something important.
 
@@ -20,7 +20,7 @@ This is one of the clearest experimental demonstrations that quantum interferenc
 
 The Aharonov–Bohm effect, revisited one more time from this angle, sharpens the point further. In the idealized description, the electron is the quantum matter system, the electromagnetic potential supplies the phase connection, the enclosed flux determines the gauge-invariant phase difference, and the resulting interference pattern is measurable, with no individual photon needing to be exchanged with the electron anywhere in this account. That matters, because it shows electromagnetic quantum effects are not exhausted by imagining photons as little messengers passed back and forth.
 
-The field-theoretic structure runs broader than that: photons appear specifically when the electromagnetic field itself gets excited, but the potential can shape a charged particle's phase in situations where no real photon is ever detected at all. "Photon exchange" is a useful phrase for certain QED calculations — the Coulomb interaction between two charges, worked out in perturbation theory, comes out looking just like an exchanged virtual photon in the appropriate limit, as Chapter 29 already cautioned — but the phrase covers that limit, not the whole electromagnetic story this book has been telling.
+The field-theoretic structure runs broader than that: photons appear specifically when the electromagnetic field itself gets excited, but the potential can shape a charged particle's phase in situations where no real photon is ever detected at all. "Photon exchange" is a useful phrase for certain QED calculations — the Coulomb interaction between two charges, worked out in perturbation theory, comes out looking just like an exchanged virtual photon in the appropriate limit, as Chapter 28 already cautioned — but the phrase covers that limit, not the whole electromagnetic story this book has been telling.
 
 This tension between field language and phase language is productive rather than a flaw to be patched over, so let's name the three distinct challenges sitting inside it rather than collapsing them into one. Feynman's QED insists on treating the electromagnetic field as a quantum degree of freedom in its own right — and this is where Mead's "no independent field" intuition runs into a real limit, since full QED contains genuine electromagnetic quantum degrees of freedom that low-energy collective electrodynamics can sometimes avoid making explicit, but cannot make disappear from the underlying theory.
 
@@ -32,7 +32,7 @@ Feynman supplies quantitative power nothing else matches. Mead supplies a provoc
 
 ---
 
-## 34. When Matter Meets Light
+## 33. When Matter Meets Light
 
 An excited atom in an empty room eventually emits a photon. The textbook sentence — the atom jumps down and emits a photon — is true, and incomplete. What sets the odds is the quantum electromagnetic field the atom is coupled to: which modes exist, how strongly the atom couples to each, what the surroundings are.
 
@@ -40,7 +40,7 @@ Put the same atom inside a cavity and the emission rate changes. Change the surr
 
 This is one of the clearest places where full QED goes further than a simple classical potential ever could, and it's why this book has resisted, at every turn, the temptation to flatten the electromagnetic field down to a convenient fiction: the field's own quantum degrees of freedom are doing real, measurable work here.
 
-Confining the atom inside an actual cavity sharpens this into something close to a laboratory demonstration of the whole book's argument. The cavity's boundary conditions permit only certain electromagnetic modes, as Chapter 26 described for the Casimir effect, and once the atom couples to those discrete modes, it can exchange energy with the cavity field coherently: the excitation moving back and forth between atom and field, the whole system behaving as a single coupled quantum oscillator rather than two separate objects politely taking turns.
+Confining the atom inside an actual cavity sharpens this into something close to a laboratory demonstration of the whole book's argument. The cavity's boundary conditions permit only certain electromagnetic modes, as Chapter 25 described for the Casimir effect, and once the atom couples to those discrete modes, it can exchange energy with the cavity field coherently: the excitation moving back and forth between atom and field, the whole system behaving as a single coupled quantum oscillator rather than two separate objects politely taking turns.
 
 This is cavity quantum electrodynamics, and it is one of the cleanest modern demonstrations available that matter and field form one coupled quantum system, not two separate classical objects, with phase once again doing the central organizing work: the coherent back-and-forth exchange of excitation depends directly on relative phase, interference controls the dynamics, cavity geometry controls which modes exist at all, and the electromagnetic potential determines the coupling strength between them.
 
@@ -60,7 +60,7 @@ The cavity experiments reveal something stranger still: the vacuum itself can be
 
 ---
 
-## 35. The Loop, Formalized
+## 34. The Loop, Formalized
 
 By now the loop that has been trailing through this entire book — from the Aharonov–Bohm effect, through flux quantization, through gauge connections, through superconducting vortices — might start to look like an obsession. It is, and for good reason. A loop is precisely where local phase information becomes global information, and modern gauge theory gives this recurring object a formal name: the Wilson loop, built from the gauge potential integrated all the way around a closed path:
 

@@ -2,13 +2,13 @@
 
 ---
 
-## 24. Charge Is the Price of Changing Phase Locally
+## 23. Charge Is the Price of Changing Phase Locally
 
-Charge is the price of being allowed to set the phase convention differently at every point. Chapter 21 made the potential the rule for comparing phase from place to place, and the field the curvature of that rule. The same structure says why a charged field must couple to the potential, and why the current of that charge is conserved so strictly that nobody has ever seen a violation. (It does not say why nature chose this menu of charges, or why the electron's charge has the value it has. It says how the coupling works once the charge is given.)
+Charge is the price of being allowed to set the phase convention differently at every point. Chapter 20 made the potential the rule for comparing phase from place to place, and the field the curvature of that rule. The same structure says why a charged field must couple to the potential, and why the current of that charge is conserved so strictly that nobody has ever seen a violation. (It does not say why nature chose this menu of charges, or why the electron's charge has the value it has. It says how the coupling works once the charge is given.)
 
 Start with a quantum field that carries a phase symmetry — meaning you can multiply its wave function by a constant phase everywhere in the universe simultaneously, and nothing observable changes, since a single global rotation of every arrow by the same angle preserves every relationship between them. That symmetry, on its own, is fairly dull; things get interesting the moment you demand something stronger: that the phase convention be allowed to vary independently from point to point, rather than being locked to one shared value everywhere at once.
 
-This is the same comparison problem the London and Tokyo clocks illustrated in Chapter 21: a phase reading at one point is meaningless until there is a rule, a connection, for relating it to the reading next door. The moment you demand that local freedom, the theory needs some way to compare phase at neighboring points consistently — precisely the connection from Chapter 21 — and the electromagnetic potential is what steps in to do that comparison. The strength of the resulting coupling between a given quantum field and that potential is controlled by a single number: electric charge.
+This is the same comparison problem the London and Tokyo clocks illustrated in Chapter 20: a phase reading at one point is meaningless until there is a rule, a connection, for relating it to the reading next door. The moment you demand that local freedom, the theory needs some way to compare phase at neighboring points consistently — precisely the connection from Chapter 20 — and the electromagnetic potential is what steps in to do that comparison. The strength of the resulting coupling between a given quantum field and that potential is controlled by a single number: electric charge.
 
 This gives charge a far more interesting job description than "the number written next to an electron in a textbook." Charge measures how strongly a given quantum field participates in the electromagnetic connection — how much it cares, so to speak, about keeping its phase consistent with the surrounding electromagnetic structure. An electron and a neutrino can obey the very same basic quantum principles while responding completely differently to electromagnetism, purely because they carry different charges.
 
@@ -16,7 +16,7 @@ This same structure explains why charge conservation is more than an empirical r
 
 Take time-translation symmetry as the clearest illustration of how the machinery works, since it's the one with the most familiar payoff. "Time-translation symmetry" means only that the laws of physics tomorrow are the same laws as today — an experiment run on a Tuesday gives the same result as the identical experiment run on a Friday, with nothing about the calendar date built into any equation. Noether's theorem takes that single, almost embarrassingly modest assumption and hands back energy conservation as its direct mathematical consequence, with no further physics required.
 
-Change the assumption — imagine a universe whose laws genuinely did drift from one day to the next — and energy conservation would stop holding, provably, not as a matter of speculation. Nobody has ever caught the universe's laws drifting. That is why nobody has ever caught energy failing to be conserved either, and equally why Noether's theorem, applied to the phase symmetry of a charged field, delivers charge conservation the same way. The interaction term coupling matter to the potential, written schematically as (*L* here is the Lagrangian, the same compression device behind the action from Chapter 25 — Part Eight unpacks it properly)
+Change the assumption — imagine a universe whose laws genuinely did drift from one day to the next — and energy conservation would stop holding, provably, not as a matter of speculation. Nobody has ever caught the universe's laws drifting. That is why nobody has ever caught energy failing to be conserved either, and equally why Noether's theorem, applied to the phase symmetry of a charged field, delivers charge conservation the same way. The interaction term coupling matter to the potential, written schematically as (*L* here is the Lagrangian, the same compression device behind the action from Chapter 24 — Part Eight unpacks it properly)
 
 *L_int = j·A*
 
@@ -30,7 +30,7 @@ That mutual relationship is the quantum version of the old classical slogan "cha
 
 ---
 
-## 25. Why the Classical Path Wins
+## 24. Why the Classical Path Wins
 
 The action is one of physics' great compression devices. Rather than writing separate rules governing every individual instant of a system's motion, you build a single quantity, *S*, out of an entire history at once. Classically, the physical trajectory a system actually follows is the one for which the action is *stationary* — roughly, the one where nearby paths would produce almost the same action, rather than a wildly different one. Quantum mechanically, as Chapter 10 already established, *every* possible history contributes an amplitude, weighted by a phase factor built from that same action, and the observable outcome comes from adding all of those contributions together.
 
@@ -53,7 +53,7 @@ remains magnificent — it predicts the motion of charged particles, powers ever
 
 ---
 
-## 26. Magnetism, Light, and Empty Space
+## 25. Magnetism, Light, and Empty Space
 
 Electrons drifting through an ordinary copper wire move at about a millimeter a second, slower than a snail. A wire full of them can still lift a car.
 
@@ -89,7 +89,7 @@ The popular picture says the plates shut some vacuum fluctuations out of the gap
 
 ---
 
-## 27. The Phase Can Wind
+## 26. The Phase Can Wind
 
 There's a word that sounds like it belongs exclusively in a mathematics department, and it turns out to belong just as much here: *topology*, the study of properties that survive continuous deformation. A coffee mug and a doughnut share something meaningful — each has exactly one hole — while a sphere has none, and no amount of gentle stretching turns one into the other.
 

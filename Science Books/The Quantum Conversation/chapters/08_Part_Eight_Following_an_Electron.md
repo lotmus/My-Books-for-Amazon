@@ -2,7 +2,7 @@
 
 ---
 
-## 28. The Equation Behind the Conversation
+## 27. The Equation Behind the Conversation
 
 Here is the equation the book has been walking toward. I spent forty years using what it predicts without being able to say what the line meant. If a symbol is new, keep the sentence in front of it. The matrices can stay unread. This part is heading for one coupling, and that coupling shows up again in a wire.
 
@@ -19,7 +19,7 @@ And sitting between them, doing essentially all of the conceptual work this book
 
 That one substitution is where the entire electromagnetic interaction lives. Rather than taking an ordinary derivative of the electron field — a plain statement of how the field changes as you move through spacetime — the theory uses a derivative that already has the electromagnetic potential baked into it. That potential enters directly into the operation of comparing the electron field at one point with the field at a neighboring point, rather than getting appended afterward as a correction. This is the field-theoretic version of the phase story told since Chapter 1, now written in the actual language professional physicists use.
 
-Sit for a moment with what actually makes a derivative "covariant." An ordinary derivative asks how a quantity changes as you move. A covariant derivative asks how a quantity changes as you move, *once you've accounted for the fact that comparing it at two different points already requires a gauge connection to make the comparison meaningful in the first place* — precisely the connection introduced geometrically in Chapter 21. Suppose an electron's quantum state carries a certain phase at one location. Move to a neighboring location and ask how that phase compares.
+Sit for a moment with what actually makes a derivative "covariant." An ordinary derivative asks how a quantity changes as you move. A covariant derivative asks how a quantity changes as you move, *once you've accounted for the fact that comparing it at two different points already requires a gauge connection to make the comparison meaningful in the first place* — precisely the connection introduced geometrically in Chapter 20. Suppose an electron's quantum state carries a certain phase at one location. Move to a neighboring location and ask how that phase compares.
 
 In ordinary mathematics, you'd simply subtract. In a gauge theory, the comparison has to respect local phase symmetry, and the electromagnetic potential is the object that supplies the necessary correction. The covariant derivative therefore contains both an ordinary rate of change and an electromagnetic phase connection, folded into one operation — which is why gauge theory is so much more than a fancy way of rewriting Maxwell's equations. It says that electromagnetism is built into the very grammar of comparing charged quantum states from point to point, not pasted onto quantum mechanics as an afterthought.
 
@@ -31,7 +31,7 @@ Expand that covariant derivative inside the Lagrangian, and an interaction term 
 
 The *c* in Equation (6)'s denominator is what lets that substitution come out even, with no leftover factor of *c*. The phase formulas in the rest of this book are the same coupling written in units where the speed of light equals 1. Set *c* = 1 in Equation (6) and the potential term is *(iq/ħ)A_u*. The flux quantum, the Wilson loop, and the central bridge *J ∝ ħ∇θ − qA* are that reduced form: multiply the connection by *ħ* and the electromagnetic piece is *qA*, standing beside the phase gradient exactly as Equation (8) writes it. One coupling, two conventions.
 
-There it is — the same relationship Chapter 24 already introduced: current, coupled to potential, producing an interaction. Because the action comes from integrating this Lagrangian over all of spacetime, this interaction term contributes directly to the action; because the action determines quantum phase, it contributes directly to phase. The entire conceptual chain built across the last few chapters compresses into one line of actual formalism: *j·A* feeds the action *S*, and *S* feeds the phase factor *exp(iS/ħ)* that determines how every possible history interferes with every other.
+There it is — the same relationship Chapter 23 already introduced: current, coupled to potential, producing an interaction. Because the action comes from integrating this Lagrangian over all of spacetime, this interaction term contributes directly to the action; because the action determines quantum phase, it contributes directly to phase. The entire conceptual chain built across the last few chapters compresses into one line of actual formalism: *j·A* feeds the action *S*, and *S* feeds the phase factor *exp(iS/ħ)* that determines how every possible history interferes with every other.
 
 This is the interaction term of QED, in a form where the algebra can be checked. The field term beside it, −(1/4μ₀)*F_uvF^uv*, is the standard SI density for the free electromagnetic field. This book does not expand *F* into **E** and **B**. The indices are summed in the usual way, one up and one down. What the substitution checks is the interaction. Every earlier chapter's talk of phase and potentials was pointing directly at this equation's central structure the entire time — not gesturing at quantum field theory from a respectful distance.
 
@@ -41,7 +41,7 @@ The old force picture survives this encounter, just not intact — call it *abso
 
 ---
 
-## 29. Feynman's Diagrams Become Less Mysterious
+## 28. Feynman's Diagrams Become Less Mysterious
 
 With the interaction term from the last chapter in hand, Feynman diagrams finally have somewhere real to live. A diagram works as a graphical bookkeeping system for the terms that appear when you expand a quantum amplitude in powers of the electromagnetic coupling, never as a literal picture of the universe going about its business: start from the interaction term, expand, and each resulting term corresponds to some particular combination of interactions, which can then be drawn. The diagrams track which particles enter and leave, which interactions occur, how momentum moves through the process, and which mathematical factor belongs to each piece of the calculation.
 
@@ -63,7 +63,7 @@ Whether the corresponding field degrees of freedom are ontologically fundamental
 
 ---
 
-## 30. The Classical Coulomb Force Emerges
+## 29. The Classical Coulomb Force Emerges
 
 Now take the two-electron scattering process from the last chapter and slow it down: two charges, moving slowly, separated by a distance large compared with their quantum wavelengths. The full relativistic QED calculation for this process is complicated. But in this low-energy limit, the dominant piece of the interaction reduces to something reassuringly familiar — the Coulomb potential energy, from which the ordinary Coulomb force follows in the usual way, *F = −∇V*:
 
@@ -83,7 +83,7 @@ The word "feels" smuggles in more classical imagery than the physics supports: a
 
 A shadow is a useful word here — real, measurable, usable, and yet never containing the full three-dimensional information of the object casting it. Classical mechanics is that kind of shadow, cast by quantum dynamics onto the regime where a trajectory becomes a good approximation, and the reason the classical equations look so much simpler than the full QED calculation underneath them is interference itself: when phases vary wildly between very different possible histories, most of those histories cancel each other out, and a narrow, structured, classical-looking subset survives to dominate the observable result.
 
-Send that same electron through a magnetic field instead of merely toward another charge, and a subtlety that's been lurking since Chapter 7 finally has to be confronted head-on. Classically, the magnetic part of the Lorentz force bends the electron's path without changing its speed, as Chapter 26 described. Quantum mechanically, the vector potential enters directly into the relationship between phase gradient and momentum, and the *canonical* momentum associated with the wave function's phase turns out not to be, on its own, the same thing as the *mechanical* momentum of the moving charge. The two differ by exactly the electromagnetic contribution already introduced in Chapter 7:
+Send that same electron through a magnetic field instead of merely toward another charge, and a subtlety that's been lurking since Chapter 7 finally has to be confronted head-on. Classically, the magnetic part of the Lorentz force bends the electron's path without changing its speed, as Chapter 25 described. Quantum mechanically, the vector potential enters directly into the relationship between phase gradient and momentum, and the *canonical* momentum associated with the wave function's phase turns out not to be, on its own, the same thing as the *mechanical* momentum of the moving charge. The two differ by exactly the electromagnetic contribution already introduced in Chapter 7:
 
 *p_mechanical = p_canonical − qA*.
 
@@ -93,15 +93,15 @@ Because momentum is tied to the gradient of phase, phase once again sits at the 
 
 With this distinction properly in hand, the Aharonov–Bohm effect can finally be given the treatment every earlier mention of it has been promising. Picture the classic setup again: an electron beam split into two paths that pass on opposite sides of a shielded solenoid, then recombined on a screen. An electron's phase carries a contribution from the electromagnetic potential integrated along its path, and for two different paths reaching the same destination, the phase *difference* between them reduces, via Stokes' theorem as in Chapter 3, to the magnetic flux enclosed between the two paths — so the interference pattern where they recombine shifts with that enclosed flux, regardless of whether the magnetic field is actually zero everywhere the electron travels.
 
-Nothing about this requires imagining the electron being pushed by a force in a region where no force exists. The quantum amplitude simply remembers the electromagnetic connection it was transported along, in the strict mathematical sense of Chapter 21. It is tempting to describe this by saying the electron somehow "knows" the flux enclosed by its path, as though it were carrying a tiny map — but it isn't. The amplitude evolves according to strictly local laws involving the potential at each point; only when two amplitudes, having taken different routes, are finally compared does the integrated phase difference reveal information about the flux enclosed between them.
+Nothing about this requires imagining the electron being pushed by a force in a region where no force exists. The quantum amplitude simply remembers the electromagnetic connection it was transported along, in the strict mathematical sense of Chapter 20. It is tempting to describe this by saying the electron somehow "knows" the flux enclosed by its path, as though it were carrying a tiny map — but it isn't. The amplitude evolves according to strictly local laws involving the potential at each point; only when two amplitudes, having taken different routes, are finally compared does the integrated phase difference reveal information about the flux enclosed between them.
 
 Nothing has to communicate instantaneously across the loop for this to happen — global information here emerges from purely local dynamics plus the topology of the two paths, fully compatible with relativity, since no controllable signal ever needs to cross the loop faster than light for the interference pattern to shift.
 
-All of this sharpens a distinction: a force changes momentum; a phase changes interference; these are not the same concept, even though they become closely related in the classical limit. The electromagnetic interaction contributes to the action, the action shapes the phase, and only in the semiclassical limit — where a stationary-phase condition picks out one dominant family of histories, as Chapter 25 described — do the resulting equations of motion take the form of a force at all. The force turns out to be what the deeper phase dynamics looks like once you insist on viewing it through classical variables, not the fundamental quantum object underneath electromagnetism.
+All of this sharpens a distinction: a force changes momentum; a phase changes interference; these are not the same concept, even though they become closely related in the classical limit. The electromagnetic interaction contributes to the action, the action shapes the phase, and only in the semiclassical limit — where a stationary-phase condition picks out one dominant family of histories, as Chapter 24 described — do the resulting equations of motion take the form of a force at all. The force turns out to be what the deeper phase dynamics looks like once you insist on viewing it through classical variables, not the fundamental quantum object underneath electromagnetism.
 
 ---
 
-## 31. Now Add Many Electrons
+## 30. Now Add Many Electrons
 
 The single-electron story from the last three chapters is only the opening act. Put a great many electrons together, and the quantum state now lives in a configuration space whose size multiplies out of all proportion to the number of particles involved, which sounds, at first, like it should make any hope of a simple phase-based picture completely hopeless. Instead, something remarkable tends to happen under the right conditions: interactions can organize the system, the electrons can settle into a collective state, and new effective variables emerge that were nowhere to be found in the description of any single electron on its own.
 
@@ -111,11 +111,11 @@ The answer has less to do with "the microscopic theory switching off" than with 
 
 Here is the conceptual pivot that makes this precise. For one quantum particle, phase belongs to that particle's individual wave function. For a coherent many-body state, phase becomes a *field* in its own right — a quantity defined smoothly across the whole material, as Chapter 5 introduced with *Ψ(r) = √n(r)e^iθ(r)*. Once that transition happens, something genuinely new has entered the picture: a quantum phase that used to be a private property of one microscopic amplitude has become a spatially extended, macroscopic, dynamical variable — its gradients corresponding to currents, its time evolution corresponding to voltage, its winding around a loop capable of producing quantized flux.
 
-And the combination that governs this collective dynamics is never the bare phase gradient alone; it is the gauge-invariant combination already familiar from Chapter 7 and Chapter 30, now describing a macroscopic supercurrent rather than one electron's momentum:
+And the combination that governs this collective dynamics is never the bare phase gradient alone; it is the gauge-invariant combination already familiar from Chapter 7 and Chapter 29, now describing a macroscopic supercurrent rather than one electron's momentum:
 
 *J ∝ ħ∇θ − qA*.
 
-This is the macroscopic version of the minimal-coupling structure from the covariant derivative that opened this Part, written in the units where the speed of light is 1. The collective phase and the electromagnetic potential cannot be fully understood in isolation from each other: the potential is what directly enters the phase dynamics, and the ordinary electric and magnetic fields are simply what you recover from that potential afterward, as in the microscopic theory. Integrate this relation around a closed superconducting loop, demand that the phase return to an equivalent value after the full circuit, and, using Stokes' theorem as in Chapter 3 and Chapter 21, a quantization condition for the enclosed magnetic flux falls out directly.
+This is the macroscopic version of the minimal-coupling structure from the covariant derivative that opened this Part, written in the units where the speed of light is 1. The collective phase and the electromagnetic potential cannot be fully understood in isolation from each other: the potential is what directly enters the phase dynamics, and the ordinary electric and magnetic fields are simply what you recover from that potential afterward, as in the microscopic theory. Integrate this relation around a closed superconducting loop, demand that the phase return to an equivalent value after the full circuit, and, using Stokes' theorem as in Chapter 3 and Chapter 20, a quantization condition for the enclosed magnetic flux falls out directly.
 
 A macroscopic magnetic phenomenon, trapped inside a loop of wire you could hold in your hand, turns out to be controlled entirely by a microscopic quantum requirement: the phase simply has to close consistently on itself.
 
@@ -125,14 +125,14 @@ This is why emergence, throughout this book, has meant organization, not mere av
 
 ---
 
-## 32. The Book's Central Bridge
+## 31. The Book's Central Bridge
 
 One relationship, both ends of the story. A single electron in the full theory, and a supercurrent in a wire, are the same combination of phase gradient and potential:
 
 > **Equation (8).** The book's central bridge:
 > *J ∝ ħ∇θ − qA*
 
-In the units of Chapter 28, where the speed of light is set to 1, this is the combination inside the covariant derivative of the full QED Lagrangian at the microscopic scale, and inside the supercurrent of a coherent quantum condensate at the macroscopic scale.
+In the units of Chapter 27, where the speed of light is set to 1, this is the combination inside the covariant derivative of the full QED Lagrangian at the microscopic scale, and inside the supercurrent of a coherent quantum condensate at the macroscopic scale.
 
 This is the book's central *bridge*, not a claim that electromagnetism has a single master equation. A particle physicist would reach for the covariant derivative or the QED Lagrangian. A circuit physicist would reach for this. In those units, they are looking at the same coupling.
 

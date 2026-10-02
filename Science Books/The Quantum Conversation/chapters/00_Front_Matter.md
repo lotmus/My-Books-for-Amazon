@@ -6,6 +6,8 @@
 
 *An interaction, looked at closely enough, is a conversation.*
 
+*Copyright © 2026 Lothar J. Musiol. All rights reserved. First edition, 2026.*
+
 ---
 
 %%TOC%%
@@ -54,7 +56,7 @@ What belongs specifically to me, then, is narrower than any of the physics I rel
 
 They remain among the most beautiful results in the history of science, and arriving at them this way is meant to show where they sit. That's a conceptual synthesis, built entirely from established pieces, not a new discovery standing beside theirs — and the chapters ahead try never to let a sentence outrun that distinction.
 
-Readers of *The Quantum World*, elsewhere in this series, will recognize the seed: an interlude on collective electrodynamics, after the chapters on QED, cryptography, and computing, that asked for a book of its own.
+Readers of *The Quantum World*, the companion book to the *Physics, Actually* series, will recognize the seed: an appendix on collective electrodynamics, placed after the chapters on QED, cryptography, and computing, that asked for a book of its own.
 
 One page, before the first chapter, showing the whole shape of where this is going:
 
@@ -62,6 +64,6 @@ One page, before the first chapter, showing the whole shape of where this is goi
 
 Before Chapter 1, you should have met electric and magnetic fields, and you should know that an electron can be described by a wave that interferes. This book does not teach calculus, Maxwell's equations from nothing, or quantum field theory. It does stop to say what a phase, a potential, and a gauge transformation are doing. When a formula appears, the sentence in front of it is the part to hold onto if the symbols are new.
 
-There are three sensible ways to use what follows. Read it straight through: that is the argument in the order it was built. If fields and interference are already familiar and the destination you care about is the circuit, the spine is Chapters 1 through 8, then 28 and 32, then 40 through 42, then 47. The parts between those chapters are where the fields return, where the absorber question is kept in its place, and where QED's precision is earned, so that route is a tour of the spine.
+There are three sensible ways to use what follows. Read it straight through: that is the argument in the order it was built. If fields and interference are already familiar and the destination you care about is the circuit, the spine is Chapters 1 through 8, then 27 and 31, then 39 through 41, then 46. The parts between those chapters are where the fields return, where the absorber question is kept in its place, and where QED's precision is earned, so that route is a tour of the spine.
 
 If a formula stops you, Appendix A has the equation, Appendix E has the letter and the unit convention, and Appendix C has the word.

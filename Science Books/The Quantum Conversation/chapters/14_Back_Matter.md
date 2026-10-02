@@ -15,55 +15,55 @@ In the idealized loop picture used throughout this book, the flux trapped by a s
 
 Two of these four — the homogeneous pair — follow automatically once the fields are built from potentials, a mathematical consequence of that construction. Only the other two carry independent dynamical content. For the patient, ground-up introduction to what each equation physically means, Daniel Fleisch's *A Student's Guide to Maxwell's Equations* remains the standard place to start.
 
-> **Equation (3).** Electromagnetic energy density and flux (Chapters 18–19):
+> **Equation (3).** Electromagnetic energy density and flux (Chapters 17–18):
 > *u = ½(ε₀E² + B²/μ₀)*
 > *S = (1/μ₀)E×B*
 
 The classical field's own energy bookkeeping: the non-negotiable accounting any alternative formulation has to reproduce, one way or another.
 
-> **Equation (4).** Photon energy and momentum (Chapter 19):
+> **Equation (4).** Photon energy and momentum (Chapter 18):
 > *E = ħω*
 > *p = ħω/c*
 
 What a photon delivers on arrival at a detector: a concrete, measurable amount of energy and momentum. Put in a frequency corresponding to green light and the answer comes out to about 2.3 electron-volts per photon — the same number, worked from the other direction, behind the solar-cell example in Chapter 9.
 
-> **Equation (5).** The Lorentz force (Chapter 25):
+> **Equation (5).** The Lorentz force (Chapter 24):
 > *F = q(E + v×B)*
 
 The everyday force law survives as the classical limit of the deeper action-and-phase picture — the same equation, now understood as a special case of something larger.
 
-> **Equation (6).** The covariant derivative (Chapter 28):
+> **Equation (6).** The covariant derivative (Chapter 27):
 > *D_u = ∂_u − (iq/(ħc))A_u*
 
-Where the electromagnetic interaction actually lives inside the machinery of QED — a single modification to an ordinary derivative, carrying the whole coupling between matter and field. The *c* in the denominator keeps the relativistic algebra of Chapter 28 honest. Set *c* = 1 and this is the same coupling as Equation (8).
+Where the electromagnetic interaction actually lives inside the machinery of QED — a single modification to an ordinary derivative, carrying the whole coupling between matter and field. The *c* in the denominator keeps the relativistic algebra of Chapter 27 honest. Set *c* = 1 and this is the same coupling as Equation (8).
 
-> **Equation (7).** The Coulomb potential energy and force (Chapter 30):
+> **Equation (7).** The Coulomb potential energy and force (Chapter 29):
 > *V(r) = q₁q₂/4πε₀r*
 > *F = (q₁q₂/4πε₀r²)r̂*
 
 The oldest result in electromagnetism, rederived here as the low-energy limit of a full quantum scattering calculation.
 
-> **Equation (8).** The book's central bridge (Chapter 32):
+> **Equation (8).** The book's central bridge (Chapter 31):
 > *J ∝ ħ∇θ − qA*
 
-With the speed of light set to 1, as Chapter 28 explains, this is the coupling inside the covariant derivative at the microscopic scale and inside a superconductor's supercurrent at the macroscopic scale, up to the carrier density and effective mass folded into the proportionality — the clearest single piece of evidence this book has to offer for its own argument.
+With the speed of light set to 1, as Chapter 27 explains, this is the coupling inside the covariant derivative at the microscopic scale and inside a superconductor's supercurrent at the macroscopic scale, up to the carrier density and effective mass folded into the proportionality — the clearest single piece of evidence this book has to offer for its own argument.
 
-> **Equation (9).** The Wilson loop (Chapter 35):
+> **Equation (9).** The Wilson loop (Chapter 34):
 > *W(C) = exp((iq/ħ)∮_C A·dx)*
 
 The formal, gauge-invariant descendant of every closed loop this book has followed since Chapter 3 — direct evidence that those loops were pointing at the geometry of gauge theory the whole time.
 
-> **Equation (10).** The electron's anomalous magnetic moment (Chapter 37):
+> **Equation (10).** The electron's anomalous magnetic moment (Chapter 36):
 > *a_e = (g − 2)/2 = α/(2π) + ···*
 
 The definition is the first equality. The prediction is the series, beginning with Schwinger's *α/(2π)*. The full calculation agrees with experiment to better than one part in a billion, through roughly ten significant digits of *a_e*: the fingerprint of virtual quantum processes stamped directly onto a measurable number.
 
-> **Equation (11).** The fine-structure constant (Chapter 38):
+> **Equation (11).** The fine-structure constant (Chapter 37):
 > *α = e²/4πε₀ħc ≈ 1/137*
 
 The familiar number that turns out not to be quite fixed after all — the low-energy face of a coupling that runs with scale. At everyday energies the measured value comes out to α ≈ 1/137.036, precise enough that the next few digits genuinely test QED itself.
 
-> **Equation (12).** The Josephson relations (Chapter 40):
+> **Equation (12).** The Josephson relations (Chapter 39):
 > *I = I_c sin(δ)*
 > *U(δ) = −E_J cos(δ)*
 > *V = (ħ/2e) dδ/dt*
@@ -94,7 +94,7 @@ This book places a small numbered marker at the point where a specific dated res
 
 **10.** Paul Dirac's argument connecting magnetic monopoles to charge quantization, "Quantised Singularities in the Electromagnetic Field" (*Proceedings of the Royal Society A* 133, 60, 1931), https://doi.org/10.1098/rspa.1931.0130. No monopole has yet been detected.
 
-**11.** The single-photon behavior in Chapter 33 draws on Grangier, Roger, and Aspect, "Experimental Evidence for a Photon Anticorrelation Effect on a Beam Splitter" (*Europhysics Letters* 1, 173, 1986), https://doi.org/10.1209/0295-5075/1/4/004.
+**11.** The single-photon behavior in Chapter 32 draws on Grangier, Roger, and Aspect, "Experimental Evidence for a Photon Anticorrelation Effect on a Beam Splitter" (*Europhysics Letters* 1, 173, 1986), https://doi.org/10.1209/0295-5075/1/4/004.
 
 **12.** The leading term in the electron's anomalous magnetic moment, *α/(2π)*, is Julian Schwinger, "On Quantum-Electrodynamics and the Magnetic Moment of the Electron" (*Physical Review* 73, 416, 1948), https://doi.org/10.1103/PhysRev.73.416. The measurement cited for the modern comparison is X. Fan, T. G. Myers, B. A. D. Sukra, and G. Gabrielse, "Measurement of the Electron Magnetic Moment" (*Physical Review Letters* 130, 071801, 2023), https://doi.org/10.1103/PhysRevLett.130.071801. That paper reports *g*/2 to 0.13 parts per trillion.
 
@@ -108,7 +108,7 @@ The comparison with the calculated series is limited by disagreement between ind
 
 **Intermediate.** Carver Mead, *Collective Electrodynamics: Quantum Foundations of Electromagnetism* (MIT Press, 2000). The book this argument is built on, and much more demanding than Feynman's. David J. Griffiths, *Introduction to Electrodynamics*, 4th edition (Cambridge University Press, 2017), for the classical treatment this book arrives at backward. Daniel Fleisch, *A Student's Guide to Maxwell's Equations* (Cambridge University Press, 2008), the ground-up reading named under Equation (2). Michael Tinkham, *Introduction to Superconductivity*, 2nd edition (McGraw-Hill, 1996), for the physics behind Parts Two and Eleven.
 
-**Advanced.** Michael E. Peskin and Daniel V. Schroeder, *An Introduction to Quantum Field Theory* (Westview Press, 1995), or Matthew D. Schwartz, *Quantum Field Theory and the Standard Model* (Cambridge University Press, 2014). The covariant derivative in Chapter 28 is one line from a subject either book spends several hundred pages on. For the circuit at the end of the wire, Alexandre Blais, Arne L. Grimsmo, S. M. Girvin, and Andreas Wallraff, "Circuit quantum electrodynamics" (*Reviews of Modern Physics* 93, 025005, 2021), https://doi.org/10.1103/RevModPhys.93.025005.
+**Advanced.** Michael E. Peskin and Daniel V. Schroeder, *An Introduction to Quantum Field Theory* (Westview Press, 1995), or Matthew D. Schwartz, *Quantum Field Theory and the Standard Model* (Cambridge University Press, 2014). The covariant derivative in Chapter 27 is one line from a subject either book spends several hundred pages on. For the circuit at the end of the wire, Alexandre Blais, Arne L. Grimsmo, S. M. Girvin, and Andreas Wallraff, "Circuit quantum electrodynamics" (*Reviews of Modern Physics* 93, 025005, 2021), https://doi.org/10.1103/RevModPhys.93.025005.
 
 ## Appendix C: Glossary
 
@@ -116,43 +116,43 @@ Short meanings, in the sense this book uses them, in one alphabet. The chapter i
 
 **Absorber theory.** Wheeler and Feynman's mid-century account of classical radiation reaction as a direct interaction among charges, built from advanced and retarded solutions together. It does not replace QED. Chapters 15 and 16.
 
-**Action.** A single number built from an entire history. Each history contributes a phase factor *exp(iS/ħ)*. Chapters 10 and 25.
+**Action.** A single number built from an entire history. Each history contributes a phase factor *exp(iS/ħ)*. Chapters 10 and 24.
 
 **Advanced and retarded.** Two pieces of one radiation solution. Retarded propagates forward in time, the ordinary way. Advanced propagates backward in time as mathematics, not as a wave a charge sends into the past. In absorber theory the backward pieces cancel, and what remains is the forward radiation and the recoil. Chapter 16.
 
-**Aharonov–Bohm effect.** An interference shift set by magnetic flux in a region the electron never enters. Chapters 2, 3, and 30.
+**Aharonov–Bohm effect.** An interference shift set by magnetic flux in a region the electron never enters. Chapters 2, 3, and 29.
 
 **Amplitude.** The complex number quantum mechanics assigns to one way a story might unfold. Its length, squared, is the probability. Its angle is the phase. Chapter 1.
 
-**Anomalous magnetic moment.** *a_e = (g − 2)/2*. Dirac's theory gives *g = 2*. QED predicts *a_e* as a series in *α*, beginning with *α/(2π)*. Chapter 37.
+**Anomalous magnetic moment.** *a_e = (g − 2)/2*. Dirac's theory gives *g = 2*. QED predicts *a_e* as a series in *α*, beginning with *α/(2π)*. Chapter 36.
 
 **Bandgap.** The energy a photon must clear to free an electron inside a semiconductor. A metal's threshold is a work function instead. Chapter 9.
 
-**Canonical momentum.** The momentum tied to the phase gradient. With a vector potential present it splits from the mechanical momentum, *p − qA*. Chapters 7 and 30.
+**Canonical momentum.** The momentum tied to the phase gradient. With a vector potential present it splits from the mechanical momentum, *p − qA*. Chapters 7 and 29.
 
-**Coherence.** A shared phase, stable enough that contributions add instead of canceling at random. Chapters 5, 6, and 32.
+**Coherence.** A shared phase, stable enough that contributions add instead of canceling at random. Chapters 5, 6, and 31.
 
-**Compton scattering.** An X-ray photon bouncing off an electron and leaving with a longer wavelength. A straight-back bounce lengthens it by about five picometers. Chapter 20.
+**Compton scattering.** An X-ray photon bouncing off an electron and leaving with a longer wavelength. A straight-back bounce lengthens it by about five picometers. Chapter 19.
 
-**Connection.** The rule, supplied by the potential, for comparing phase at neighboring points. Chapter 21.
+**Connection.** The rule, supplied by the potential, for comparing phase at neighboring points. Chapter 20.
 
-**Cooper pair.** Two electrons bound into one superconducting state, opposite spin and opposite momentum, charge *q* = 2*e*. In ordinary low-temperature superconductors the attraction is carried by lattice vibrations. The pair is why the flux step is *h*/2*e*. Chapters 3 and 40.
+**Cooper pair.** Two electrons bound into one superconducting state, opposite spin and opposite momentum, charge *q* = 2*e*. In ordinary low-temperature superconductors the attraction is carried by lattice vibrations. The pair is why the flux step is *h*/2*e*. Chapters 3 and 39.
 
-**Covariant derivative.** An ordinary derivative with the potential built into it. Equation (6). Set *c = 1* and it is the same coupling as Equation (8). Chapter 28.
+**Covariant derivative.** An ordinary derivative with the potential built into it. Equation (6). Set *c = 1* and it is the same coupling as Equation (8). Chapter 27.
 
-**Crossing.** Reading an outgoing positron as an incoming electron with time reversed on the diagram, so one calculation covers several related processes. Chapter 20.
+**Crossing.** Reading an outgoing positron as an incoming electron with time reversed on the diagram, so one calculation covers several related processes. Chapter 19.
 
-**Curvature.** The failure of a phase comparison to come back independent of path. In this book, that failure is the electromagnetic field. Chapters 21 and 48.
+**Curvature.** The failure of a phase comparison to come back independent of path. In this book, that failure is the electromagnetic field. Chapters 20 and 47.
 
-**Decoherence.** Environmental entanglement that scrambles the phase relationships large-scale interference needs. Chapter 32.
+**Decoherence.** Environmental entanglement that scrambles the phase relationships large-scale interference needs. Chapter 31.
 
-**Effective theory.** A description that keeps the variables relevant at one scale and absorbs the rest into its parameters. Chapters 22 and 39.
+**Effective theory.** A description that keeps the variables relevant at one scale and absorbs the rest into its parameters. Chapters 21 and 38.
 
-**Entanglement.** One joint state of two systems that cannot be pulled apart into two independent states. Chapter 34.
+**Entanglement.** One joint state of two systems that cannot be pulled apart into two independent states. Chapter 33.
 
-**Feynman diagram.** A picture of one term in a perturbative amplitude. Not a photograph of a process. Chapter 29.
+**Feynman diagram.** A picture of one term in a perturbative amplitude. Not a photograph of a process. Chapter 28.
 
-**Fine-structure constant.** *α = e²/(4πε₀ħc) ≈ 1/137.036* at everyday energies, and slightly different at others. Chapter 38.
+**Fine-structure constant.** *α = e²/(4πε₀ħc) ≈ 1/137.036* at everyday energies, and slightly different at others. Chapter 37.
 
 **Flux quantum.** *Φ₀ = h/2e*, the flux step for a coherent pair of electrons in the thick-loop picture. Chapter 3.
 
@@ -166,62 +166,62 @@ Short meanings, in the sense this book uses them, in one alphabet. The chapter i
 
 **Interference.** Addition of amplitudes. Routes whose phases agree reinforce; routes whose phases disagree cancel. Chapter 1.
 
-**Josephson junction.** A thin barrier between two superconductors. The supercurrent depends on the phase difference across it. Chapter 40.
+**Josephson junction.** A thin barrier between two superconductors. The supercurrent depends on the phase difference across it. Chapter 39.
 
-**Lagrangian.** The density integrated over spacetime to make the action. In Chapter 28 the interaction term is the one the substitution checks. The field term beside it, −(1/4μ₀)*F_uvF^uv*, is the standard SI density for the free electromagnetic field, left unexpanded into **E** and **B**. Chapter 28.
+**Lagrangian.** The density integrated over spacetime to make the action. In Chapter 27 the interaction term is the one the substitution checks. The field term beside it, −(1/4μ₀)*F_uvF^uv*, is the standard SI density for the free electromagnetic field, left unexpanded into **E** and **B**. Chapter 27.
 
-**Lamb shift.** The splitting, about 1058 megahertz, between the hydrogen 2S and 2P levels. Chapter 20.
+**Lamb shift.** The splitting, about 1058 megahertz, between the hydrogen 2S and 2P levels. Chapter 19.
 
-**Magnetic monopole.** An isolated magnetic charge. None has been detected. Dirac showed that one, anywhere, would force electric charge to come in steps. Chapter 27.
+**Magnetic monopole.** An isolated magnetic charge. None has been detected. Dirac showed that one, anywhere, would force electric charge to come in steps. Chapter 26.
 
-**Order parameter.** The collective variable that describes an organized many-body state. Here, the superconducting phase and its amplitude. Chapters 31 and 41.
+**Order parameter.** The collective variable that describes an organized many-body state. Here, the superconducting phase and its amplitude. Chapters 30 and 40.
 
 **Path integral.** The sum over histories, each weighted by a phase built from the action. The classical path is where neighboring phases agree. Chapter 10.
 
 **Phase.** The angle of an amplitude. Unobservable alone. Decisive when two routes to the same outcome are added. Chapters 1–3.
 
-**Photon.** A quantum excitation of the electromagnetic field, carrying energy *ħω* and momentum *ħω/c*. Chapters 9 and 19.
+**Photon.** A quantum excitation of the electromagnetic field, carrying energy *ħω* and momentum *ħω/c*. Chapters 9 and 18.
 
 **Potential.** The scalar potential *φ* and the vector potential **A**. They enter a charged particle's phase directly. The fields are built from them. Chapters 2–4 and 12.
 
-**Poynting vector.** *S* = (1/μ₀)*E*×*B*, the classical flow of electromagnetic energy. Equation (3). Chapters 18 and 19.
+**Poynting vector.** *S* = (1/μ₀)*E*×*B*, the classical flow of electromagnetic energy. Equation (3). Chapters 17 and 18.
 
-**Propagator.** The contribution, inside an amplitude, of a disturbance at one event to another event. Chapters 8 and 29.
+**Propagator.** The contribution, inside an amplitude, of a disturbance at one event to another event. Chapters 8 and 28.
 
-**Qubit.** Two unevenly spaced energy levels of a Josephson circuit, addressed like an artificial atom. Chapter 40.
+**Qubit.** Two unevenly spaced energy levels of a Josephson circuit, addressed like an artificial atom. Chapter 39.
 
-**Renormalization.** The bookkeeping that keeps measurable predictions unchanged when the resolution scale changes. Chapters 37–39.
+**Renormalization.** The bookkeeping that keeps measurable predictions unchanged when the resolution scale changes. Chapters 36–38.
 
-**Running coupling.** The effective strength of the electromagnetic interaction as the energy of the probe changes. Chapters 37 and 38.
+**Running coupling.** The effective strength of the electromagnetic interaction as the energy of the probe changes. Chapters 36 and 37.
 
 **SQUID.** A superconducting quantum interference device: a superconducting loop interrupted by one or two thin barriers. Its current swings as the enclosed flux changes by single flux quanta, which is sensitive enough to map the magnetic fields of the brain. Chapter 5.
 
-**Stokes' theorem.** The step that turns a loop integral of **A** into the magnetic flux through the surface the loop encloses. Chapters 3, 21, and 31.
+**Stokes' theorem.** The step that turns a loop integral of **A** into the magnetic flux through the surface the loop encloses. Chapters 3, 20, and 30.
 
-**Supercurrent.** The current of a coherent condensate, tied to *ħ∇θ − qA*. Chapters 31 and 32.
+**Supercurrent.** The current of a coherent condensate, tied to *ħ∇θ − qA*. Chapters 30 and 31.
 
-**Vacuum polarization.** The correction to one photon's propagation from a charged-particle loop. A different diagram from light scattering off light. Chapter 36.
+**Vacuum polarization.** The correction to one photon's propagation from a charged-particle loop. A different diagram from light scattering off light. Chapter 35.
 
-**Virtual photon.** An internal line in a Feynman diagram: a term in a calculation, not a particle caught in a detector. Chapters 9 and 29.
+**Virtual photon.** An internal line in a Feynman diagram: a term in a calculation, not a particle caught in a detector. Chapters 9 and 28.
 
-**Wilson loop.** The phase factor from the potential integrated around a closed curve. Equation (9). Chapter 35.
+**Wilson loop.** The phase factor from the potential integrated around a closed curve. Equation (9). Chapter 34.
 
 ## Appendix D: Index of Chapters
 
 Names and experiments. The words live in the glossary, which already gives the chapter. Each number below is a chapter. Page numbers belong to the typeset book, and the table of contents is where they are filled in.
 
-Abrikosov, 27
-Aspect, Grangier, and Roger, 33
-Einstein, magnet and conductor, 26
-Feynman, 10, 16, 29
-Lamb and Retherford, 20
-Lamoreaux, 26
-Mead, front matter, 42, 47
-Noether, 24
-Schwinger, 37
+Abrikosov, 26
+Aspect, Grangier, and Roger, 32
+Einstein, magnet and conductor, 25
+Feynman, 10, 16, 28
+Lamb and Retherford, 19
+Lamoreaux, 25
+Mead, front matter, 41, 46
+Noether, 23
+Schwinger, 36
 Tonomura, 2
-Weber and Kohlrausch, 26
-Wheeler and Feynman, 15, 16, 18, 19, 47
+Weber and Kohlrausch, 25
+Wheeler and Feynman, 15, 16, 17, 18, 46
 
 ## Appendix E: Symbols, Numbers, and Distinctions
 
@@ -241,7 +241,7 @@ That last sentence has a checkable consequence. One superconducting flux quantum
 
 **Numbers already worked in the text.** Φ₀ is about 2.07×10⁻¹⁵ weber, roughly two femtowebers. A green photon delivers about 2.3 electron-volts. An electron-positron pair requires at least 1.022 million electron-volts, and a lone photon in empty space cannot supply it; a third body, typically a nucleus, has to take the recoil. The Josephson conversion is 2*e*/*h* ≈ 483.6 gigahertz per millivolt, so five gigahertz is about ten microvolts. At everyday energies *α* ≈ 1/137.036. The series for the electron's anomalous magnetic moment agrees with experiment to better than one part in a billion.
 
-The Lamb shift in hydrogen is about 1058 megahertz. A photon scattered straight back off an electron lengthens by about five picometers. Ideal Casimir plates a micrometer apart feel about a millipascal. Abrikosov vortices in a field of a tenth of a tesla sit roughly 150 nanometers apart. Weber and Kohlrausch's 1856 ratio matched the speed of light to about one percent.
+The Lamb shift in hydrogen is about 1058 megahertz. A photon scattered straight back off an electron lengthens by about five picometers. Ideal Casimir plates a micrometer apart feel about a millipascal. Abrikosov vortices in a field of a tenth of a tesla sit roughly 150 nanometers apart. Weber and Kohlrausch's 1856 ratio matched the speed of light, as measured at the time, to within about one percent.
 
 **Distinctions the argument keeps apart.** A real photon is an excitation that can arrive at a detector, carrying energy *ħω* and momentum *ħω*/*c*. A virtual photon is an internal line in an amplitude. It is a term in a calculation.
 
@@ -255,17 +255,25 @@ In that circuit, charge is conjugate to the phase. Voltage is how fast the phase
 
 Saying that a formulation stores energy in the field is a statement about how that formulation keeps its books. Saying that the energy belongs to an independent substance called the field is a different claim. Part Five is about the second. It does not replace QED.
 
-The interaction term in Chapter 28 can be checked by the substitution just described. The electromagnetic-field term written beside it, −(1/4μ₀)*F_uvF^uv*, is the standard SI density for the free field. This book does not expand *F* into **E** and **B**.
+The interaction term in Chapter 27 can be checked by the substitution just described. The electromagnetic-field term written beside it, −(1/4μ₀)*F_uvF^uv*, is the standard SI density for the free field. This book does not expand *F* into **E** and **B**.
 
 ## If This Book Worked for You
 
-Read *The Quantum World* next. It is the map this book grew out of: entanglement, Bell tests, quantum fields, quantum gravity, interpretations, computing, and cryptography. This book began there, as an interlude on collective electrodynamics that outgrew its chapter.
+Read *The Quantum World* next. It is the map this book grew out of: entanglement, Bell tests, interpretations, quantum fields, the strong force, QED, cryptography, and computing. This book began there, as an appendix on collective electrodynamics that outgrew its pages.
 
 Feynman's *QED* and Mead's *Collective Electrodynamics* are listed with their editions at the end of Appendix B.
 
 ## Also by Lothar J. Musiol
 
-*The Quantum World*
+*The Quantum World: From Quanta and Entanglement to Quantum Fields, Gravity, and the Future of Computing*. The companion book to the *Physics, Actually* series, and the survey this book grew out of.
+
+The *Physics, Actually* series:
+
+Volume 1: *Motion, Forces, Time, and Relativity*
+
+Volume 2: *Gravity, Cosmology, and the Limits of Spacetime*
+
+Volume 3: *The Standard Model, Chaos, and the Edge of Knowledge*
 
 ## About the Author
 

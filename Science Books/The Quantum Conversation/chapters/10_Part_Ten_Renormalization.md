@@ -2,7 +2,7 @@
 
 ---
 
-## 36. Vacuum Polarization: The Electron Is Not Quite Alone
+## 35. Vacuum Polarization: The Electron Is Not Quite Alone
 
 Up to this point, this book has treated the electromagnetic field as though it were almost absurdly well-behaved: a photon is created, it travels, it gets absorbed, two charges interact through it, and everything stays tidy. QED has a habit of taking tidy pictures like this and asking, quietly, whether they're true. Here's the question to ask now: can light interact with light? At first glance, the answer should obviously be no — photons carry no electric charge, the electromagnetic field is linear in classical vacuum electrodynamics, and two beams of light crossing in empty space simply pass through each other with no little photon-on-photon collision anywhere in the picture.
 
@@ -32,7 +32,7 @@ Calculated naively, that correction *δm* can come out divergent — infinite �
 
 ---
 
-## 37. The Terrible Reputation of Renormalization
+## 36. The Terrible Reputation of Renormalization
 
 Renormalization has occasionally been described, even by physicists who should know better, as a kind of mathematical trick — subtracting one infinity from another and hoping the difference happens to be finite and correct. The historical discomfort behind that description is understandable, even if the description itself is unfair: early calculations really did produce divergent expressions, and it can sound, stated carelessly, like accounting performed by someone who has misplaced a universe or two. The modern understanding is much cleaner than that old anxiety suggests. A quantum field theory is sensitive to physics across a wide range of scales at once, and when you calculate something measurable, contributions from many different scales all feed into the final result.
 
@@ -81,13 +81,13 @@ The simplicity lives entirely at the level of the fundamental rule. All the comp
 
 ---
 
-## 38. A Resolution Dial
+## 37. A Resolution Dial
 
 Turn a resolution dial and the phase story is still the story. Every amplitude still carries a phase. Every diagram is still one contribution to an amplitude. Vacuum polarization, the dressing of the electron, and the anomalous magnetic moment add more amplitudes to the sum. They do not replace the sum. The phase-centered picture is a way of seeing what QED's own machinery is doing. It is not a second theory competing for the same job.
 
 With that reassurance in place, here is the renormalization story told properly, because the version that circulates informally (physicists calculated something, got infinity, calculated it again, got infinity again, got annoyed, and eventually invented a trick for subtracting the infinities away) is entertaining and wrong in nearly every detail that matters. Start instead with a simple question: measure an electron's charge, get some number *e*. Now probe the electron from farther away, then from closer. Should the interaction necessarily look identical at every distance? Classically, the intuition says yes — a charge is a charge, full stop.
 
-Quantum theory says the situation is subtler, because the electromagnetic interaction is surrounded by the same quantum effects described in Chapter 37, and the number inferred from an experiment depends slightly on the scale at which that experiment is conducted. The charge runs, not because the electron is physically inflating or shrinking as you approach it, but because the quantum theory reorganizes how the interaction appears at different scales, and your experiment becomes sensitive to different pieces of that reorganization depending on how closely you're looking. This isn't a hypothetical experiment.
+Quantum theory says the situation is subtler, because the electromagnetic interaction is surrounded by the same quantum effects described in Chapter 36, and the number inferred from an experiment depends slightly on the scale at which that experiment is conducted. The charge runs, not because the electron is physically inflating or shrinking as you approach it, but because the quantum theory reorganizes how the interaction appears at different scales, and your experiment becomes sensitive to different pieces of that reorganization depending on how closely you're looking. This isn't a hypothetical experiment.
 
 A particle accelerator is, among other things, this kind of probe: colliding particles at higher energy is one way of looking closer, and the electromagnetic coupling measured in a high-energy collision genuinely differs from the one measured on a tabletop, for precisely this reason.
 
@@ -118,7 +118,7 @@ Renormalization asks which variables and parameters best describe physics at a g
 
 ---
 
-## 39. Renormalization Is a Translation System
+## 38. Renormalization Is a Translation System
 
 A cutoff, remember, is something a physicist introduces to make a calculation tractable — nature has no idea that anyone chose a particular numerical value for it. Change the cutoff, and the mathematical parameters describing the theory will shift accordingly; every measurable prediction has to come out exactly the same regardless. This is closely analogous to changing coordinates on a map: the description on the page changes completely, the underlying territory does not move an inch. That is why renormalization is best understood as a consistency requirement rather than a calculational trick — a guarantee that different mathematical descriptions of the same physics, built at different scales, agree perfectly on everything that can be measured.
 
@@ -136,7 +136,7 @@ Something particularly striking happens to the electromagnetic potential specifi
 
 It is tied directly to the gauge structure of electromagnetism itself, and the connection between phase and potential survives the entire journey through this hierarchy of descriptions intact.
 
-That observation needs an immediate counterbalance, though, because it's easy to overreach from it: the photon does not disappear simply because a collective description happens to be more convenient at low energy. In some low-energy systems, explicit photon excitations really are irrelevant to the physics being studied. In others (a superconducting qubit coupled to a microwave cavity is the cleanest example, the circuit QED previewed back in Chapter 34), both the collective matter variable and the quantized electromagnetic mode matter equally, and the whole point of the device is that coexistence.
+That observation needs an immediate counterbalance, though, because it's easy to overreach from it: the photon does not disappear simply because a collective description happens to be more convenient at low energy. In some low-energy systems, explicit photon excitations really are irrelevant to the physics being studied. In others (a superconducting qubit coupled to a microwave cavity is the cleanest example, the circuit QED previewed back in Chapter 33), both the collective matter variable and the quantized electromagnetic mode matter equally, and the whole point of the device is that coexistence.
 
 The lesson here is that different physical questions make different degrees of freedom useful, not that the potential replaces the photon: the potential is natural for phase and gauge structure, the photon for quantized electromagnetic excitations, the classical field for radiation at macroscopic scale, the collective phase for coherent matter. A mature theory does not insist on one picture for every problem, and a good effective theory should always be able to say, honestly, where it stops working — a phase-only model of a superconductor breaks down once you excite quasiparticles, breaks down further once you need explicit microscopic electronic structure, and eventually gives way entirely to full relativistic QED at high enough energy.
 
