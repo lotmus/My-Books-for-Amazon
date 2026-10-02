@@ -9,10 +9,11 @@ from docx.enum.table import WD_TABLE_ALIGNMENT
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 
-HERE = os.path.dirname(os.path.abspath(__file__))
-SRC = os.path.dirname(HERE)
-FIGS = os.path.join(HERE, "figs")
-OUT = sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, "The Copy Is Never Exact - Kindle.docx")
+HERE = os.path.dirname(os.path.abspath(__file__))  # scripts/
+ROOT = os.path.dirname(HERE)  # book root (Genetics/)
+SRC = os.path.join(ROOT, "chapters")
+FIGS = os.path.join(ROOT, "figures", "figs")
+OUT = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, "The Copy Is Never Exact.docx")
 
 TITLE = "The Copy Is Never Exact"
 SUBTITLE = "DNA, Inheritance, and the Coming Edit of Ourselves"

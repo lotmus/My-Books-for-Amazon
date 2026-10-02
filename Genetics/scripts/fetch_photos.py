@@ -13,7 +13,7 @@ import time
 import urllib.parse
 import urllib.request
 
-HERE = os.path.dirname(os.path.abspath(__file__))
+HERE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "figures")  # book root/figures
 FIGS = os.path.join(HERE, "figs")
 os.makedirs(FIGS, exist_ok=True)
 

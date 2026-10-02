@@ -2,11 +2,11 @@
 import os
 from PIL import Image, ImageDraw, ImageFont
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # book root
 SRC = r"C:\Users\lomus\.cursor\projects\c-Users-lomus-OneDrive-My-Books-for-Amazon-Science-Books-Genetics-The-Copy-Is-Never-Exact-Manuscript\assets\cover_bg.jpg"
-OUT_DIR = os.path.join(ROOT, "cover")
+OUT_DIR = ROOT
 os.makedirs(OUT_DIR, exist_ok=True)
-OUT = os.path.join(OUT_DIR, "front_cover.png")
+OUT = os.path.join(OUT_DIR, "The Copy Is Never Exact - front cover.png")
 
 W, H = 1800, 2700
 im = Image.open(SRC).convert("RGB")
