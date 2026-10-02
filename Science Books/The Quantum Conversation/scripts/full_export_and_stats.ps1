@@ -1,4 +1,4 @@
-param(
+﻿param(
     [string]$DocPath,
     [string]$OutPdfPath
 )
@@ -17,11 +17,8 @@ try {
     Write-Host "Words: $words"
     Write-Host "Characters: $chars"
 
-    $sw = [System.Diagnostics.Stopwatch]::StartNew()
-    # wdExportAllDocument = 0 for the Range param -- exports every page
-    $doc.ExportAsFixedFormat($OutPdfPath, 17, $false, 0, 0, 0, 0, 0, $true, $true, 0, $true, $true, $false)
-    $sw.Stop()
-    Write-Host "Full-document PDF export succeeded in $($sw.Elapsed.TotalSeconds) sec: $OutPdfPath"
+    # PDF export disabled by docx-only policy; keep the DOCX as the build artifact.
+    Write-Host "PDF export disabled; DOCX retained at $DocPath"
 } finally {
     $doc.Close([ref]$false)
     $word.Quit()

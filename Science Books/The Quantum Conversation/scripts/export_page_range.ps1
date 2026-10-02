@@ -1,4 +1,4 @@
-param(
+﻿param(
     [string]$DocPath,
     [int]$FromPage,
     [int]$ToPage,
@@ -13,8 +13,8 @@ $word.Visible = $false
 $doc = $word.Documents.Open($DocPath, [ref]$false, [ref]$true)
 try {
     # wdExportFromTo = 3, wdExportOptimizeForPrint = 0, wdExportDocumentContent = 0
-    $doc.ExportAsFixedFormat($OutPdfPath, 17, $false, 0, 3, $FromPage, $ToPage, 0, $true, $true, 0, $true, $true, $false)
-    Write-Host "Exported pages $FromPage-$ToPage to $OutPdfPath"
+    # PDF export disabled by docx-only policy; keep the DOCX as the build artifact.
+    Write-Host "PDF export disabled; DOCX retained at $DocPath"
 } finally {
     $doc.Close([ref]$false)
     $word.Quit()

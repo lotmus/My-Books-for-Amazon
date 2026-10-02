@@ -26,3 +26,7 @@ node_modules/
 
 # Per-book backup/leftover folders (move, never delete; not tracked)
 bak/
+
+# Docx-only policy
+*.epub
+*.pdf
