@@ -18,6 +18,12 @@ EQ: MTTF = A J^(−n) exp(Ea / (kB T))
 H2: Worked Example 10.2
 WEP: With n = 2 and Ea = 0.7 eV, how much does the median life shorten when a bump's current density doubles, and when its temperature rises from 105 °C to 125 °C?
 WES: Doubling J shortens the life by 2² = 4. The temperature change shortens it by exp[(0.7/8.617 × 10⁻⁵)(1/378.15 − 1/398.15)] = 2.94. Together the two would cut the life by nearly twelve. The bump-current limit of Chapter 3 is therefore always quoted at a temperature, and a hot spot on a die can make its local bumps the life-limiting part of the whole package.
+H2: 10.5 Moisture and the popcorn failure
+P: Plastic packages absorb moisture from the air. During reflow soldering, at peak temperatures near 250 °C, that moisture turns to steam within seconds, and the pressure can delaminate the mold compound from the die or lead frame, or crack the package outright, sometimes with an audible pop. IPC/JEDEC J-STD-020 classifies packages by moisture sensitivity level, MSL 1 to 6, according to how long they may sit in a factory at 30 °C and 60 % relative humidity before they must be soldered: unlimited for MSL 1, one year for MSL 2, 168 hours for MSL 3, 72 hours for MSL 4, and so on. J-STD-033 governs the dry packs, humidity indicator cards, and baking that reset the clock. Large BGAs and thin packages are usually MSL 3 or worse, which is why a production line tracks the floor life of every opened reel.
+H2: Worked Example 10.3
+WEP: A reel of MSL 3 parts is opened on Monday at 08:00 and the line will not reflow the last of them until the following Tuesday at 17:00. Are they within their floor life, and what must be done if not?
+WES: Monday 08:00 to the next Tuesday 17:00 is 8 days and 9 hours, 201 hours, beyond the 168-hour floor life of MSL 3. The remaining parts must be baked according to J-STD-033, typically for many hours at 125 °C for BGAs if the reel tolerates it, or at lower temperature for longer, before use; alternatively they can be returned to dry storage before the limit, which pauses or partially resets the clock.
+P: Moisture, expansion, fatigue, and electromigration set the package's life. Chapter 11 returns to its electrical role and to the network of capacitors that keeps the supply quiet.
 H2: Practice
 PR: A die with Δα = 14 ppm/K has a joint 5 mm from the neutral point and 0.1 mm high. Find the shear strain for a 100 K swing.
 PR: A ball grid array package with Δα = 10 ppm/K has its corner ball 15 mm from the center and 0.3 mm high. Find the strain for an 80 K swing and the Engelmaier life estimate.
@@ -25,9 +31,11 @@ PR: By what factor does fatigue life change when strain is halved, with c = −0
 PR: Find the electromigration acceleration from 85 °C to 105 °C with Ea = 0.7 eV.
 PR: By what factor does life change when current density rises by 50%, with n = 2?
 PR: Why does underfill extend the life of flip-chip joints?
+PR: What is the floor life of an MSL 4 part?
 ANS: 0.07.
 ANS: Δγ = 10 × 10⁻⁶ × 80 × 15/0.3 = 0.040; Nf ≈ ½ × (0.040/0.65)^(−1/0.442) ≈ 274 cycles.
 ANS: 2^(1/0.442) = 4.8 times longer.
 ANS: exp[(0.7/8.617 × 10⁻⁵)(1/358.15 − 1/378.15)] = 3.3.
 ANS: It falls by 1.5² = 2.25.
 ANS: The underfill bonds the die to the substrate so that the two bend together under temperature change instead of shearing the bumps, reducing the cyclic strain on each joint.
+ANS: 72 hours at 30 °C and 60 % RH.

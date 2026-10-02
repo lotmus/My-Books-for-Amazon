@@ -17,6 +17,13 @@ H2: 6.3 Cold plates and immersion
 P: A direct-to-chip cold plate is a metal block with fine internal channels or fins, through which coolant flows directly above the processor's lid. Single-phase cold plates use water with glycol; two-phase plates boil a refrigerant at a controlled temperature and carry more heat per unit flow. Immersion cooling submerges whole servers in a dielectric fluid, either single-phase, pumped through a heat exchanger, or two-phase, boiling at the components. Each moves the coolant closer to the heat source, removing interfaces from the chain. The facility then rejects the heat through cooling towers or dry coolers, and warmer coolant, 35 to 45 °C, lets it do so without chillers for most of the year, saving energy that Book 6's waste formula would otherwise count.
 H2: 6.4 Thermal design on the board
 P: Heat also matters on ordinary boards. Copper planes spread heat as well as current; thermal vias under a power package carry heat to inner planes or the opposite side; and the package's exposed pad must be soldered with a pattern that leaves no large voids. A board's own thermal design is often what decides whether a regulator or amplifier meets its rating, and the junction-temperature arithmetic of Books 4 and 6 applies unchanged.
+H2: 6.5 The thermal stack of an accelerator
+P: Heat leaves a die through a stack of layers, and each adds a thermal resistance per unit area, R″, in K·cm²/W. The temperature rise across a layer is the heat flux times R″. For a bare die under a cold plate the stack is the silicon itself, the first thermal interface material between die and lid, the lid, the second interface between lid and cold plate, and the cold plate's convective resistance. Interface materials are the weak links: thermal grease reaches about 0.05 to 0.1 K·cm²/W when thin, indium solder and liquid metal reach 0.01 to 0.02, and every void or dry spot creates a hot spot. At 100 W/cm² and above, a tenth of a K·cm²/W is ten degrees, so the move from grease to metal interfaces and to lidless designs is one of the larger gains available to an accelerator's cooling.
+EQ: ΔT = q″ × Σ R″
+H2: Worked Example 6.3
+WEP: A 1000 W die of 8 cm² sits under a lid with a TIM1 of 0.05 K·cm²/W and a TIM2 of 0.10 K·cm²/W. Find the temperature rise across each interface, and the improvement if TIM1 is replaced by indium at 0.015 K·cm²/W.
+WES: q″ = 1000/8 = 125 W/cm². TIM1 adds 125 × 0.05 = 6.3 K and TIM2 125 × 0.10 = 12.5 K, assuming the lid does not spread the heat much. Indium cuts TIM1 to 1.9 K, saving 4.4 K, which allows a warmer coolant or a higher clock at the same junction temperature.
+P: Heat ends the chain from die to coolant. Chapter 7 turns to devices whose mechanical motion, not just their heat, is the point: MEMS.
 H2: Practice
 PR: Find the average heat flux of a 1000 W processor on an 800 mm² die.
 PR: A processor dissipates 1000 W with 30 °C coolant and an 85 °C junction limit. Find the allowed thermal resistance.
@@ -24,9 +31,11 @@ PR: Find the resistance of a 100 µm thermal interface with k = 4 W/(m·K) over 
 PR: Find the water flow in liters per minute to remove 45 kW with an 8 K rise.
 PR: Find the airflow in m³/s to remove 45 kW with a 12 K rise.
 PR: Why does a warmer coolant temperature save facility energy?
+PR: Find the temperature rise across 0.08 K·cm²/W at 200 W/cm².
 ANS: 125 W/cm².
 ANS: 55/1000 = 0.055 K/W.
 ANS: 10⁻⁴/(4 × 6 × 10⁻⁴) = 0.042 K/W.
 ANS: 45,000/(4186 × 8) = 1.34 kg/s, about 81 L/min.
 ANS: 45,000/(1.2 × 1005 × 12) = 3.11 m³/s.
 ANS: Heat can be rejected to outside air through dry coolers or towers without mechanical chillers whenever the outside temperature is below the coolant temperature, which with 35 to 45 °C coolant is most of the year in most climates.
+ANS: 16 K.

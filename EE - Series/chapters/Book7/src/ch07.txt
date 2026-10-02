@@ -20,6 +20,12 @@ WEP: Find the bandwidth of a 32 MHz resonator with Q = 50,000. Compare the Titan
 WES: 32 × 10⁶/5 × 10⁴ = 640 Hz. The 1.6 × 1.2 mm package is 1.92 mm², 9.1 times the Titan's 0.212 mm².
 H2: 7.4 Filters, microphones, and the 2026 picture
 P: The radio-frequency filters in a phone's front end are acoustic devices: surface-acoustic-wave filters below about 2 GHz and bulk-acoustic-wave filters, thin piezoelectric films resonating through their thickness, at higher frequencies up to the 5 to 7 GHz of Wi-Fi and 5G. A phone may contain dozens. Aluminum nitride has been the standard piezoelectric film; aluminum scandium nitride, AlScN, which has a much stronger piezoelectric response, moved into production on 200 mm silicon wafers, widening filter bandwidths and enabling piezoelectric MEMS microphones and ultrasonic transducers. MEMS microphones, capacitive and piezoelectric, are in nearly every phone, earbud, and laptop. Consumer motion sensors increasingly include small on-chip processors that run classification models, detecting gestures or activity without waking the main processor. These are snapshots of 2026; the spring-mass physics of this chapter will outlast them.
+H2: 7.5 Reading a MEMS microphone data sheet
+P: A MEMS microphone's data sheet reduces it to a few numbers. Sensitivity is the output for a 1 kHz tone at 94 dB sound pressure level, 1 pascal, quoted in dBV or dBFS for digital parts. Signal-to-noise ratio is the 94 dB reference minus the self-noise expressed as an equivalent A-weighted sound level; 65 dB SNR means a self-noise of 29 dBA, and the best parts in 2026, such as Infineon's sealed-dual-membrane designs, reach about 70 to 75 dB. The acoustic overload point, AOP, is the level at which distortion reaches 10 %, about 120 to 135 dB SPL. The dynamic range is AOP minus self-noise. Phones use several microphones and beamforming, Book 5's array gain in air, so matching sensitivity and phase between parts, typically within ±1 dB, matters as much as each part's own figures.
+H2: Worked Example 7.4
+WEP: A microphone has 65 dB SNR and an AOP of 130 dB SPL. Find its self-noise and dynamic range, and the SNR improvement from beamforming four such microphones on a distant talker, if their noise is independent.
+WES: Self-noise is 94 − 65 = 29 dBA, and the dynamic range 130 − 29 = 101 dB. Averaging four microphones adds the signal coherently and the self-noise in power, a gain of 10 log₁₀4 = 6 dB, to 71 dB, before any rejection of room noise from other directions.
+P: MEMS sensors and resonators live inside packages and next to processors. The next chapter turns to the chiplets and die-to-die links that make up the processors themselves, in Chapter 8.
 H2: Practice
 PR: Find the displacement at 1 g of an accelerometer with f0 = 2 kHz.
 PR: Find the bandwidth of a 70 MHz resonator with Q = 20,000.
@@ -27,9 +33,11 @@ PR: By what factor does thermal noise fall if the proof mass increases tenfold?
 PR: An accelerometer with a 2 µm gap moves 20 nm. Find ΔC/C.
 PR: Find the outline area of a 0.46 × 0.46 mm package.
 PR: Why does sealing a MEMS resonator in vacuum improve it?
+PR: A microphone has a self-noise of 32 dBA. What is its SNR?
 ANS: 9.81/(2π × 2000)² = 62 nm.
 ANS: 3.5 kHz.
 ANS: By √10 = 3.16.
 ANS: 20 nm/2 µm = 1%.
 ANS: 0.212 mm².
 ANS: Removing air removes most of the damping, raising Q, which narrows the resonance and lowers the thermal noise.
+ANS: 94 − 32 = 62 dB.

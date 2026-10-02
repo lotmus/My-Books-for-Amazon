@@ -16,6 +16,13 @@ WEP: An interposer is 3.3 times the reticle area. Find its area. Can it hold two
 WES: The area is 3.3 × 858 = 2831 mm². The two compute dies take 1600 mm² and the eight stacks 8 × 121 = 968 mm², a total of 2568 mm², or 91% of the interposer, leaving 263 mm² for the gaps between dies, which must be wide enough for underfill and assembly tolerances. That is close to the two-die, eight-stack layout of the leading accelerators of 2025 and 2026, and it shows why such interposers had to grow beyond three reticles.
 H2: 2.4 Substrates
 P: Below the interposer, the package substrate spreads connections to the board's pitch, about 0.8 to 1 mm for a ball grid array. Substrates are built from BT resin or from build-up films such as Ajinomoto's ABF, with fine lines and microvias, and their availability has been a constraint in its own right. Low-temperature co-fired ceramic serves RF modules, and glass core substrates, which are flatter and more stable, are entering production. These module substrates are not the motherboard materials of Chapter 4; they are part of the package.
+H2: 2.5 Bump pitch and the density of connections
+P: The number of connections a package can make between two dies grows as the inverse square of the pitch. Solder microbumps on a silicon interposer reached about 40 to 55 µm pitch; below roughly 20 µm solder bridges and the volume of each joint becomes too small to tolerate warpage, so the industry moved to hybrid bonding, in which copper pads set in an oxide surface are polished flat, bonded oxide to oxide at room temperature, and annealed so that the copper expands and fuses. Hybrid-bond pitches of 9 µm are in production in 2026 and below 5 µm in development. Each step multiplies the connections per square millimeter, and with them the bandwidth that the die-to-die links of Chapter 8 can carry across a given edge or area, while shortening each connection and so lowering its capacitance and energy per bit.
+EQ: connections per mm² = 1 / p²   (p in mm)
+H2: Worked Example 2.3
+WEP: Compare the connection density of 40 µm microbumps and 9 µm hybrid bonds, and the bandwidth through 10 mm² of each if every connection carries 4 Gbit/s.
+WES: At 40 µm, 1/0.04² = 625 connections per mm², 6250 in 10 mm², 25 Tbit/s. At 9 µm, 1/0.009² = 12 300 per mm², 123 000 in 10 mm², about 490 Tbit/s, twenty times as much. In practice a share of the pads carry power and ground, but the ratio holds, which is why stacked memory and logic-on-logic designs moved to hybrid bonding.
+P: The package now carries thousands of signals between dies. It must also carry the largest currents in the system, which Chapter 3 delivers.
 H2: Practice
 PR: Find the connection density at a 55 µm pitch and at a 25 µm pitch.
 PR: How much denser is a 25 µm pitch than a 150 µm pitch?
@@ -23,9 +30,13 @@ PR: A 5 × 5 mm die is in a chip-scale package. What is the largest package outl
 PR: Classify a QFN with a wire-bonded die: what are its join and its skeleton?
 PR: Why can't a single die be larger than about 858 mm²?
 PR: Is a fan-out wafer-level package an interposer? Explain.
+PR: How many connections per mm² does a 25 µm pitch give?
+PR: Why can solder microbumps not shrink indefinitely?
 ANS: 331 per mm² and 1600 per mm².
 ANS: (150/25)² = 36 times.
 ANS: About 6 × 6 mm, 1.2 times each dimension.
 ANS: Its join is wire bonding and its skeleton is a lead frame.
 ANS: The lithography tool's exposure field, the reticle, is limited to 26 × 33 mm.
 ANS: No. Its redistribution layer is built directly on the molded die to form the package itself; an interposer is a separate wiring layer between dies and a substrate.
+ANS: 1/0.025² = 1600.
+ANS: Below about 20 µm the solder volume per joint becomes too small to accommodate warpage and coplanarity variation, and neighboring joints bridge.

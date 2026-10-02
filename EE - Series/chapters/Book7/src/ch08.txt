@@ -19,6 +19,13 @@ EQ: shoreline bandwidth = (lanes per mm) × (rate per lane)
 H2: Worked Example 8.2
 WEP: A die-to-die interface places signal bumps at a 45 µm pitch in a band ten bumps deep along the die edge, and runs each at 16 Gbit/s. Find the lanes per millimeter of edge, the shoreline bandwidth, and the power to move 1 TB/s at a declared 0.5 pJ/bit.
 WES: Along one millimeter of edge there are 1000/45 = 22.2 bump columns, and ten rows give 222 lanes per millimeter, ignoring the bumps needed for power, ground, and clocks. At 16 Gbit/s each, that is 3.56 Tbit/s, or 444 GB/s, per millimeter of edge. Moving 1 TB/s, 8 Tbit/s, at 0.5 pJ/bit takes 4 W, compared with 120 W at the 15 pJ/bit of a board-level link, which is why chiplets only make sense in packages that can provide such dense, short connections.
+H2: 8.5 The energy budget of die-to-die links
+P: Splitting a processor into chiplets turns on-die wires into die-to-die links, and those links cost energy that the monolithic design did not pay. Short parallel interfaces of the UCIe and BoW type, with simple unterminated drivers across a millimeter or two of interposer, cost roughly 0.25 to 0.5 pJ per bit; serial links across an organic substrate cost 1 to 2 pJ/bit; hybrid-bonded stacked dies, with connections only micrometers long, fall below 0.1 pJ/bit. The power is the energy per bit times the traffic. For a large accelerator moving terabytes per second between compute chiplets, the difference between 0.5 and 0.1 pJ/bit is tens of watts, which is why the highest-bandwidth boundaries are placed where stacking, not lateral links, can serve them.
+EQ: P = E_bit × bit rate
+H2: Worked Example 8.3
+WEP: Two compute chiplets exchange 10 TB/s. Find the link power at 0.5 pJ/bit and at 0.1 pJ/bit.
+WES: 10 TB/s is 8 × 10¹³ bit/s. At 0.5 pJ/bit the links take 40 W; at 0.1 pJ/bit, 8 W. The 32 W difference, on a part with a 1000 W budget, is the price or the reward of the packaging choice.
+P: The first eight chapters have assembled the package, the board, the power, the heat, and the chiplets of a modern system. The next chapters look at the package as an electrical circuit and a mechanical structure, beginning with its wires and bumps.
 H2: Practice
 PR: Find the Poisson yield of a 400 mm² die at D0 = 0.1 per cm².
 PR: Find the gross dies per 300 mm wafer for a 100 mm² die.
@@ -26,9 +33,11 @@ PR: For the die of the previous problem at D0 = 0.1 per cm², how many good dies
 PR: A package holds six chiplets, each attached with 99.5% yield. Find the assembly yield.
 PR: A link has 300 lanes per millimeter at 8 Gbit/s. Find its shoreline bandwidth in GB/s per millimeter.
 PR: Why is the chiplet approach less attractive for a small die on a mature process?
+PR: What power do die-to-die links consume at 1.5 pJ/bit and 2 TB/s?
 ANS: exp(−0.4) = 67.0%.
 ANS: 706.9 − 66.6 = 640 dies.
 ANS: 640 × 0.905 = 579.
 ANS: 0.995⁶ = 97.0%.
 ANS: 300 × 8 Gbit/s = 2.4 Tbit/s = 300 GB/s per millimeter.
 ANS: A small die on a mature process already yields well, so splitting it gains little yield, while the extra testing, assembly steps, interface area, and package cost remain.
+ANS: 1.6 × 10¹³ × 1.5 × 10⁻¹² = 24 W.

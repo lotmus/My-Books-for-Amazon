@@ -17,6 +17,13 @@ H2: 9.3 The exposed pad
 P: Many QFN packages have an exposed metal pad under the die, soldered to the board. It serves three purposes: it carries heat from the die to the board, as Chapter 6 requires; it provides a low-inductance ground through an array of vias beneath it, replacing many ground bond wires; and it gives the RF circuits a solid reference. The vias must be numerous, filled or tented so solder does not wick into them, and connected directly to an inner ground plane. Voids in the pad's solder joint raise both the thermal resistance and the ground inductance, so the stencil pattern is divided into windows that let flux gases escape during reflow.
 H2: 9.4 Leads and the board
 P: The lead frame's own leads add a further few tenths of a nanohenry to a few nanohenries, depending on the package. Leadless packages such as the QFN have the shortest leads; gull-wing SOICs and QFPs the longest. Ball grid arrays have short paths through the substrate and solder balls but more capacitance per connection. For signals above a few gigabits per second, the package's transitions, wire or bump, substrate trace, via, and ball, are designed and simulated as transmission-line segments, with the same impedance control as the board, so that they do not create reflections. The package model, often supplied as S-parameters, is part of every serious channel simulation.
+H2: 9.5 Junction temperature from a package's thermal numbers
+P: Package data sheets quote several thermal figures, and confusing them is a common error. θJA, junction to ambient, is measured on a standard JEDEC test board in still air and describes that board, not yours. θJC, junction to case, applies when essentially all the heat leaves through the case into a heatsink. ψJT, the junction-to-top characterization parameter, is not a thermal resistance at all: it relates the junction temperature to the temperature measured at the top of the package when most heat flows elsewhere, into the board. Because it is small, typically 0.5 to 2 °C/W, it lets an engineer with a thermocouple or an infrared camera on the package top estimate the junction temperature in the real product, which is the measurement that matters.
+EQ: TJ ≈ T_top + ψJT × P
+H2: Worked Example 9.3
+WEP: A QFN regulator dissipating 1.5 W measures 92 °C on top. Its data sheet gives ψJT = 1.2 °C/W and θJA = 35 °C/W on the JEDEC board. Estimate the junction temperature, and explain why θJA would mislead.
+WES: TJ ≈ 92 + 1.2 × 1.5 = 93.8 °C. Using θJA with a 50 °C ambient would predict 50 + 35 × 1.5 = 102.5 °C, a figure that describes a different board; the real board's copper and airflow decide the junction temperature, and only a measurement on it, through ψJT, captures them.
+P: The package's electrical and thermal behavior sets its performance on day one. Chapter 10 asks what wears it out.
 H2: Practice
 PR: Find the reactance of a 1.5 mm bond wire at 5.8 GHz.
 PR: Eight outputs switch 20 mA each in 0.5 ns through a 1 nH ground connection. Find the ground bounce.
@@ -24,9 +31,11 @@ PR: Find the resonant frequency of a 1 nH wire with a 0.3 pF pad.
 PR: Find the reactance of a 30 pH bump at 28 GHz.
 PR: Why are millimeter-wave chips usually flip-chip mounted?
 PR: Give two reasons for using an array of vias under a QFN's exposed pad.
+PR: A part dissipating 3 W shows 70 °C on top with ψJT = 0.8 °C/W. Estimate TJ.
 ANS: 2π × 5.8 × 10⁹ × 1.5 × 10⁻⁹ = 54.7 Ω.
 ANS: 10⁻⁹ × 8 × 0.02/(0.5 × 10⁻⁹) = 0.32 V.
 ANS: 9.19 GHz.
 ANS: 5.3 Ω.
 ANS: A bond wire's nanohenry of inductance has hundreds of ohms of reactance at millimeter-wave frequencies, while a bump's tens of picohenries have only a few ohms.
 ANS: The vias carry heat from the die into the board's planes, and they give a low-inductance ground connection, replacing many ground bond wires.
+ANS: 72.4 °C.

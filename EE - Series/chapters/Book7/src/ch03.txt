@@ -20,6 +20,12 @@ P: The current must cross into the die through its bumps, and each bump can carr
 H2: Worked Example 3.3
 WEP: A 1000 W processor runs at 0.75 V. Find its current, and the number of power and ground bumps needed at 0.1 A each. With a 2% allowed variation and a 500 A step, what is the target impedance?
 WES: I = 1000/0.75 = 1333 A, needing about 13,300 power and 13,300 ground bumps, 26,700 in all. The allowed variation is 15 mV, so Ztarget = 0.015/500 = 30 µΩ. Each step in power or down in voltage tightens the target in proportion, which is why lower core voltages are not free.
+H2: 3.5 Vertical power delivery
+P: The planes of Section 3.2 carry current laterally from regulators at the edge of the package to the die at its center, and at 875 A even a tenth of a milliohm costs tens of watts. Vertical power delivery moves the final regulation stage directly beneath the processor, on the back of the board or inside the package substrate, so that the current flows up through the board's thickness, a millimeter or two, instead of across several centimeters. Integrated voltage regulators go further and place the last conversion on the die or in the package, fed at a higher voltage and lower current. The price is heat in a place already crowded with it and a regulator that must fit beneath the processor's ball field, which is why the power stages for these designs are thin, high-frequency modules with integrated magnetics.
+H2: Worked Example 3.4
+WEP: A processor draws 875 A. The lateral path from edge-mounted regulators has 0.1 mΩ of resistance; a vertical design reduces it to 0.02 mΩ. Find the loss in each and the saving.
+WES: Laterally, 875² × 10⁻⁴ = 76.6 W; vertically, 875² × 2 × 10⁻⁵ = 15.3 W. The 61 W saved is 7 % of a 875 W load at 1 V, and it also removes the voltage drop of 87.5 mV, which the regulator would otherwise have to compensate by raising its output.
+P: Current reaches the die through the board as well as the package, and the board's materials, Chapter 4, set what its signals can do.
 H2: Practice
 PR: Find the target impedance for a 1.0 V rail with 2% allowed variation and a 200 A step.
 PR: Find the sheet resistance of two-ounce copper, 70 µm thick.
@@ -27,9 +33,11 @@ PR: A 100 A current crosses three squares of half-ounce copper, 17.5 µm thick. 
 PR: Find the inductive voltage for a 500 A/µs step through 50 pH.
 PR: A processor draws 600 A. How many power bumps are needed at 0.1 A each?
 PR: Why does moving the regulator beneath the package improve power delivery?
+PR: Find the voltage drop across 0.05 mΩ at 600 A.
 ANS: 20 mV/200 A = 100 µΩ.
 ANS: 1.72 × 10⁻⁸/70 × 10⁻⁶ = 0.25 mΩ per square.
 ANS: 0.98 mΩ per square × 3 × 100 A = 0.29 V.
 ANS: 50 × 10⁻¹² × 5 × 10⁸ = 25 mV.
 ANS: 6000.
 ANS: It shortens the high-current path from centimeters of plane to millimeters, reducing both resistance and loop inductance, so the drop and the step response stay within the budget.
+ANS: 30 mV.

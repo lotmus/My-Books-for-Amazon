@@ -16,6 +16,13 @@ WEP: The two lines of a differential pair see effective permittivities of 3.9 an
 WES: The delay difference is (√4.2 − √3.9) × 0.05/2.998 × 10⁸ = 12.4 ps. The unit interval at 56 Gbaud is 1/56 × 10⁹ = 17.9 ps, so the skew is 70% of a symbol, enough to close the eye of a 112 Gbit/s PAM4 link. At 10 Gbaud, with a 100 ps unit interval, the same skew would be tolerable.
 H2: 4.4 Heat, density, and hybrids
 P: FR-4's glass transition temperature, the point where the resin softens and its expansion rises sharply, is typically 130 to 180 °C, and repeated lead-free soldering near 250 °C stresses vias through the board's thickness. High-Tg and low-expansion materials are chosen for thick boards, many reflow cycles, and large packages. Fine-line, high-density interconnect boards use thin dielectrics and laser-drilled microvias. Many products use hybrid stack-ups: a low-loss laminate on the RF or high-speed layers bonded to FR-4 for the rest, which buys performance only where it is needed. Mixing materials requires care with expansion and lamination, and the fabricator must agree to it.
+H2: 4.5 How much copper roughness costs
+P: At high frequency the current crowds into the outermost skin depth of the conductor, 0.39 µm at 28 GHz, and if the copper surface has peaks and valleys taller than that, the current must follow them. The Hammerstad correction multiplies the smooth-conductor loss by 1 + (2/π) arctan[1.4(Δ/δ)²], where Δ is the RMS roughness, so the factor approaches 2 once the roughness is a few skin depths. More accurate models, such as Huray's snowball model, treat the nodules of electrodeposited foil as spheres, but the conclusion is the same. Board vendors therefore sell grades: standard foil with several micrometers of roughness, very-low-profile (VLP) foil near 1 µm, and hyper-very-low-profile (HVLP) foil of a few tenths of a micrometer, at progressively higher cost and with adhesion that the laminate chemistry must restore.
+EQ: K_rough = 1 + (2/π) arctan[1.4 (Δ/δ)²]
+H2: Worked Example 4.3
+WEP: Find the roughness factor at 28 GHz for VLP foil with Δ = 1.0 µm and HVLP foil with Δ = 0.3 µm.
+WES: δ = 66/√(28 × 10⁹) mm = 0.394 µm. For VLP, (1.0/0.394)² = 6.44, and K = 1 + (2/π) arctan(9.0) = 1.93. For HVLP, (0.3/0.394)² = 0.58, and K = 1 + (2/π) arctan(0.81) = 1.43. The conductor loss of the HVLP trace is 26 % lower, a saving that can be worth several decibels on a long 112 Gbit/s channel.
+P: The board's materials set the loss per inch. Layout, Chapter 5, decides how the signals and their return currents use them.
 H2: Practice
 PR: Find the dielectric loss per meter of standard FR-4 at 2.4 GHz, and the loss of a 10 cm line.
 PR: Find the loss of 25 cm of FR-4 at 14 GHz.
@@ -23,9 +30,11 @@ PR: Find the loss of 25 cm of a laminate with εr = 3.4 and tan δ = 0.002 at 14
 PR: Find the copper skin depth at 10 GHz from δ ≈ 66/√f mm.
 PR: Two lines of a pair see εr = 3.9 and 4.2 over 10 cm. Find the skew.
 PR: Name the four reasons to choose a material other than FR-4.
+PR: What is the Hammerstad factor when the roughness equals the skin depth?
 ANS: 9.3 dB/m, so 0.93 dB in 10 cm.
 ANS: 13.5 dB.
 ANS: 1.2 dB.
 ANS: 66/10⁵ mm = 0.66 µm.
 ANS: 24.9 ps.
 ANS: Lower loss, a more stable dielectric constant, better heat handling, and higher density.
+ANS: 1 + (2/π) arctan(1.4) = 1.61.
