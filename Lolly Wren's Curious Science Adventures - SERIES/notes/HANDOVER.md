@@ -2,6 +2,20 @@
 
 Several agents edit these books at the same time. Read `SERIES_BIBLE.md` in this folder before adding a person, a place, a date, a physics claim, a plot, or a joke. The section "Tone and humour" is how the books stay one voice. Then read this file, then the live manuscript. If the file is newer than this note, the file wins. Do not commit or push unless asked. Do not overwrite anything in a `bak` folder.
 
+## Folder layout (2 Oct 2026)
+
+Each book folder holds exactly one master docx plus its KDP files at the root, and four subfolders:
+
+- `chapters\` chapter working copies (md/txt) if needed; the master docx always wins.
+- `scripts\` the edit and check scripts for that book (paths point at the master and at `bak\`).
+- `notes\` guides, character/place notes, marketing notes, audits.
+- `bak\` every snapshot, old draft, old export (epub/rtf/xml), old cover and script output. Ignored by git (`bak/` in the root .gitignore); kept on disk only.
+
+Series-level notes (this file, `SERIES_BIBLE.md`, `SERIES_DESCRIPTION.txt`, audits) live in the series `notes\`; old copies of them are in the series `bak\`. The books are docx only: no epub and no PDF are produced or kept outside `bak\`.
+
+Book 1 root: `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`, `KDP_DESCRIPTION_FINAL.txt`, `KDP_UPLOAD_READY.txt` (metadata and keywords), `KINDLE_COVER_FINAL_2560.jpg`.
+Book 2 root: `The_Permitted_Options_BOOK_2_DRAFT.docx`, `KDP_DESCRIPTION.txt`.
+
 The parent repository is `C:\Users\lomus\OneDrive\My Books for Amazon`, remote `https://github.com/lotmus/My-Books-for-Amazon.git`. The old `schrodingers-paperwork-manuscript` remote is gone. Do not pull it.
 
 ## Book 1
@@ -10,13 +24,13 @@ Canonical file:
 
 `Book 1 - Schrodingers Paperwork\Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`
 
-Working rules and the 30 Sep review fix are in `Book 1 - Schrodingers Paperwork\MANUSCRIPT_GUIDE.md` (top section "Project/repo notes", and the section "Handover (30 Sep 2026)" at the end). Places and the cast rule are in `CHARACTER_AND_PLACE_GUIDE.md` in that same folder.
+Working rules and the 30 Sep review fix are in `Book 1 - Schrodingers Paperwork\notes\MANUSCRIPT_GUIDE.md` (top section "Project/repo notes", and the section "Handover (30 Sep 2026)" at the end). Places and the cast rule are in `CHARACTER_AND_PLACE_GUIDE.md` in that same `notes` folder.
 
 Do not edit these instead:
 
 - `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.voice-unruh-brillouin.docx` (older; still has Coldharrow Rise)
 - `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.before-review-fix.docx` (snapshot; do not copy it back over the live file)
-- anything under `English\drafts\`
+- anything under `bak\` (old `English\drafts\` tree, `_repo_import`, covers, snapshots)
 - the copies under `bak\`
 
 Edit the Kindle file by replacing `word/document.xml` inside the zip. Do not save it with python-docx. Collapsing runs destroys hyperlinks. Quotes are curly. Headings stay at 45 characters or fewer.
@@ -27,7 +41,7 @@ Canonical file, checked 30 Sep 2026 (2,048 paragraphs):
 
 `Book 2 - The Permitted Options\The_Permitted_Options_BOOK_2_DRAFT.docx`
 
-Snapshots already in `Book 2 - The Permitted Options\bak\`, all to be left as they are:
+Snapshots in `Book 2 - The Permitted Options\bak\` (all `*.before-*` copies are there now), all to be left as they are:
 
 - `The_Permitted_Options_BOOK_2_DRAFT.docx` (older, smaller copy)
 - `The_Permitted_Options_BOOK_2_DRAFT.before-gideon.docx`
@@ -51,7 +65,7 @@ Book 2 must not contradict Book 1: Coldharrow is a west-London district; Mrs Cha
 
 This session now owns Book 2 (`The_Permitted_Options_BOOK_2_DRAFT.docx`). Lothar confirmed the other sessions are dormant. Other agents: do not edit Book 2 without checking with him first.
 
-1 Oct 2026 revision pass (text edited in `word/document.xml` only; 1981 paragraphs, styles, bookmarks and links unchanged; backups `*.before-continue-20261001-1639.docx` and `-1646.docx` sit beside the live file):
+1 Oct 2026 revision pass (text edited in `word/document.xml` only; 1981 paragraphs, styles, bookmarks and links unchanged; backups `*.before-continue-20261001-1639.docx` and `-1646.docx` are in `bak\`):
 
 - The holographic rate is now accurate everywhere: one natural unit of entropy per four Planck areas, about one bit per 2.8 (4 ln 2). Chapters 4, 9 and 10, and the lectures for Chapters 4 and 10. The lecture calls the area bound the holographic bound ('t Hooft, Susskind), not the Bekenstein bound.
 - The countdown counts working days, Monday to Friday, down to the ninth of February (0 on that Monday). Timeline decided by Lothar 1 Oct 2026: the months stand and the countdown follows them. See the Book 2 chapter calendar in SERIES_BIBLE.md. Counts on the page: Ch 8 148 (Wednesday, mid-July), Ch 9 145 (next Monday), Ch 10 142 (Thursday; Barbarian arrives in July), Ch 11 126 (Eilstein, the Friday after the Tuesday paper), Ch 12 125 (Monday) and 119 (the Tuesday after), Ch 13 112 (following Thursday), Ch 14 110 (Esaki Monday, keeping "No —"), Ch 15 108 (Wednesday).
