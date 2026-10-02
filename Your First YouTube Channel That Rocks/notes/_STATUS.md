@@ -37,13 +37,13 @@ title needs its keyword — search discoverability, on Amazon and on YouTube's
 own search once discussed in the book.
 
 Current contents:
-- `manuscript/The Click Is the Whole Business.md` — one chapter (~1,900
+- `chapters/The Click Is the Whole Business.md` — one chapter (~1,900
   words) covering the title/description/tag character limits, why some
   emotionally accurate tags trigger a content-safety category, captions and
   subtitles (viewer controls and the creator upload workflow), retention as
   an unpublished but widely-believed ranking signal, and a Shorts-to-long-form
   posting rhythm.
-- `manuscript/Nobody Can Tell What It Cost.md` — the *Create* chapter
+- `chapters/Nobody Can Tell What It Cost.md` — the *Create* chapter
   (session 2), on making videos cheaply: AI text-to-video generation, free
   stock-footage/photo libraries with a license/attribution table, free music
   and sound libraries plus mixing ratios, text-to-speech/transcription and a
@@ -53,7 +53,7 @@ Current contents:
   merged — see below.
 - `figures/free-production-pipeline.svg` — a colorful five-stage diagram
   summarizing that chapter, used as its opening visual.
-- `manuscript/Where the Money Actually Comes From.md` — the *Build* chapter
+- `chapters/Where the Money Actually Comes From.md` — the *Build* chapter
   (session 2): YouTube's own two-tier Partner Program thresholds and the
   tactics that actually move subscriber/watch-hour numbers, the second-
   channel-starts-at-zero point (from `_source/YouTube Tricks`), a table and
@@ -107,7 +107,7 @@ Current contents:
 
 ## The incident this session's CLAUDE.md rule comes from
 
-The first draft of `manuscript/The Click Is the Whole Business.md` extracted
+The first draft of `chapters/The Click Is the Whole Business.md` extracted
 the *general* principle from `YouTube Tips.docx` correctly (some emotionally
 accurate tags trigger a content-safety category; describe the specific
 situation instead of the crisis word for it) but illustrated it with that

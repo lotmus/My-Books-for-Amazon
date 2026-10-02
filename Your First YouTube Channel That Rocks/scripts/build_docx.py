@@ -14,21 +14,21 @@ from docx.text.paragraph import Paragraph
 ROOT = Path(__file__).resolve().parent.parent  # scripts\ -> book root
 FIG = ROOT / "figures"
 ORDER = [
-    (1, ROOT / "manuscript" / "Name the Viewer.md"),
-    (2, ROOT / "manuscript" / "The Click Is the Whole Business.md"),
-    (3, ROOT / "manuscript" / "Nobody Can Tell What It Cost.md"),
-    (4, ROOT / "manuscript" / "Record It So They Stay.md"),
-    (5, ROOT / "manuscript" / "Eight Videos, Each With One Job.md"),
-    (6, ROOT / "manuscript" / "Six Weeks to a Working Channel.md"),
-    (7, ROOT / "manuscript" / "Read the Count.md"),
-    (8, ROOT / "manuscript" / "Grow Toward the Gate.md"),
-    (9, ROOT / "manuscript" / "The Gates and the Review.md"),
-    (10, ROOT / "manuscript" / "The Rules That Can Switch Off the Money.md"),
-    (11, ROOT / "manuscript" / "Ads, RPM, and the Shorts Pool.md"),
-    (12, ROOT / "manuscript" / "Money From the People Who Watch.md"),
-    (13, ROOT / "manuscript" / "Sponsors and Affiliate Links.md"),
-    (14, ROOT / "manuscript" / "Keep It Paying.md"),
-    (15, ROOT / "manuscript" / "The Channel Workbook.md"),
+    (1, ROOT / "chapters" / "Name the Viewer.md"),
+    (2, ROOT / "chapters" / "The Click Is the Whole Business.md"),
+    (3, ROOT / "chapters" / "Nobody Can Tell What It Cost.md"),
+    (4, ROOT / "chapters" / "Record It So They Stay.md"),
+    (5, ROOT / "chapters" / "Eight Videos, Each With One Job.md"),
+    (6, ROOT / "chapters" / "Six Weeks to a Working Channel.md"),
+    (7, ROOT / "chapters" / "Read the Count.md"),
+    (8, ROOT / "chapters" / "Grow Toward the Gate.md"),
+    (9, ROOT / "chapters" / "The Gates and the Review.md"),
+    (10, ROOT / "chapters" / "The Rules That Can Switch Off the Money.md"),
+    (11, ROOT / "chapters" / "Ads, RPM, and the Shorts Pool.md"),
+    (12, ROOT / "chapters" / "Money From the People Who Watch.md"),
+    (13, ROOT / "chapters" / "Sponsors and Affiliate Links.md"),
+    (14, ROOT / "chapters" / "Keep It Paying.md"),
+    (15, ROOT / "chapters" / "The Channel Workbook.md"),
 ]
 TITLE = "Your First YouTube Channel That Rocks"
 SUBTITLE = "Grow Watch Time and Subscribers, Reach the Partner Program, and Earn From Ads, Fans, and Sponsors"
