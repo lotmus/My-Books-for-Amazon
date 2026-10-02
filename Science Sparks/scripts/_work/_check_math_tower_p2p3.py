@@ -1,5 +1,5 @@
 import os, re
-d = r"C:\Users\lomus\OneDrive\My Books for Amazon\Science Sparks\_source\_work"
+d = r"C:\Users\lomus\OneDrive\My Books for Amazon\Science Sparks\scripts\_work"
 bad = re.compile(r"honest|worth noting|worth stressing|worth repeating|a bit like|almanac|condens|highlights|this volume|full edition|Part [IVX]+\b", re.I)
 for f in ["06_math_tower__part2.md", "06_math_tower__part3.md"]:
     a = open(os.path.join(d, f), encoding="utf-8").read()

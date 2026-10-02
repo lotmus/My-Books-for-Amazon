@@ -1,4 +1,4 @@
-base = r"C:\Users\lomus\OneDrive\My Books for Amazon\Science Sparks\_source\_work"
+base = r"C:\Users\lomus\OneDrive\My Books for Amazon\Science Sparks\scripts\_work"
 name = "06_math_tower__part1.md"
 o = open(base + "\\orig\\" + name, encoding="utf-8").read()
 t = open(base + "\\" + name, encoding="utf-8").read()

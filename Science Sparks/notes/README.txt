@@ -1,10 +1,10 @@
-Science Sparks - source files
+Science Sparks - layout (2 Oct 2026): chapters/ = the .md text, scripts/ = build_almanac.py and make_figures.py (QA helpers in scripts/_work), figures/ = drawn figures, notes/ = this file. Run the commands below from scripts/.
 
 The .md files are the text of the book (edit these, not the .docx).
 Needs Python with python-docx and matplotlib; the print edition also needs Microsoft Word and pywin32.
 
     python make_figures.py                                              redraw figures/ (only after changing a figure)
-    python build_almanac.py "..\Science Sparks.docx"                    Kindle edition
+    python build_almanac.py "..\Science Sparks.docx"     (from scripts\)                    Kindle edition
     python build_almanac.py --print "Science Sparks - Print.docx"
                                                                         6x9 print edition with page numbers, index and PDF
     python build_almanac.py --volume 1 "Science Sparks - Volume 1.docx"

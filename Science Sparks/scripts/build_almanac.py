@@ -25,9 +25,11 @@ from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Inches, Pt, RGBColor
 
-BASE = os.path.dirname(os.path.abspath(__file__))
+HERE = os.path.dirname(os.path.abspath(__file__))          # scripts/
+BASE = os.path.dirname(HERE)                                  # book root
+CH_DIR = os.path.join(BASE, 'chapters')                       # the .md text
 FIG_DIR = os.path.join(BASE, 'figures')
-DEFAULT_OUT = os.path.join(BASE, "build", "almanac_build.docx")
+DEFAULT_OUT = os.path.join(HERE, "build", "almanac_build.docx")
 
 TITLE = "Science Sparks"
 SUBTITLE = "Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights"
@@ -570,7 +572,7 @@ def render_markdown(doc, path):
 
 
 def render_glossary(doc):
-    path = os.path.join(BASE, GLOSSARY_FILE)
+    path = os.path.join(CH_DIR, GLOSSARY_FILE)
     if not os.path.exists(path):
         return
     new_section(doc, 'Glossary')
@@ -961,7 +963,7 @@ def build(out_path, volume=None):
                                            italic=True, align=WD_ALIGN_PARAGRAPH.CENTER,
                                            text=blurb), {}))
         for item in files:
-            render_markdown(doc, os.path.join(BASE, item))
+            render_markdown(doc, os.path.join(CH_DIR, item))
 
     back_matter(doc)
 

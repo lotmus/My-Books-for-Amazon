@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Draw the book's line figures into _source/figures/ (grayscale, 300 dpi, print-safe).
+"""Draw the book's line figures into figures/ (book root) (grayscale, 300 dpi, print-safe).
 
 Usage: python make_figures.py
 """
@@ -11,7 +11,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import numpy as np
 
-OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'figures')
+OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'figures')  # book-root figures/
 os.makedirs(OUT, exist_ok=True)
 
 plt.rcParams.update({
