@@ -1,4 +1,6 @@
 const fs = require("fs");
+// Lives in scripts/; build from the book root so "chapters/" and the manuscript land where they always did.
+process.chdir(require("path").join(__dirname, ".."));
 const {
   Document, Packer, Paragraph, TextRun, HeadingLevel, AlignmentType,
   TableOfContents, PageBreak,

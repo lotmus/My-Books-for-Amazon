@@ -29,10 +29,10 @@ touching, say so and wait to be asked — don't go do it.
      and `KDP_Description.md` all live there. The top level holds only
      `_generate.js`, the package files, the Complete Manuscript `.docx`,
      `chapters/`, `notes/` and the ignored `bak/`.
-  2. `_generate.js` (top level) — a ~1,300-line, self-contained Node script
+  2. `scripts/_generate.js` (moved from the top level on 2 Oct 2026; it chdirs to the book root, so outputs land where they always did) — a ~1,300-line, self-contained Node script
      (using the `docx` package) with the entire book's text hardcoded as JS
      calls (`heading()`, `body()`, `subhead()`, `grade()`, `verdict()`,
-     etc.). Running `node _generate.js` is what actually builds
+     etc.). Running `node scripts/_generate.js` is what actually builds
      `chapters/*.docx` (one file per chapter) and the shipped deliverable,
      `The Dolphins' View of History - Complete Manuscript.docx`. It does
      not read the `.md` files at all — the two tracks are independent copies.
@@ -94,5 +94,5 @@ touching, say so and wait to be asked — don't go do it.
   live per-chapter output. One-off porting scraps (`_port_missing.js`,
   `_africa_rich.md`, `_america_19.md`, `_america_later.md`) are in
   `bak/scratch 2026-10-01/`. `bak/` is gitignored.
-- Build/deps: `node _generate.js` (only dependency is `docx`;
+- Build/deps: `node scripts/_generate.js` (only dependency is `docx`;
   `node_modules/` is already present).
