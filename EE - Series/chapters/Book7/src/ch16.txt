@@ -23,6 +23,12 @@ EQ: position error ≈ ½ b t²
 H2: Worked Example 16.3
 WEP: An accelerometer has a residual bias of 1 mg after calibration. Find the position error after 10 s and after 60 s of unaided dead reckoning.
 WES: b = 9.81 × 10⁻³ m/s². After 10 s, ½ × 9.81 × 10⁻³ × 100 = 0.49 m; after 60 s, ½ × 9.81 × 10⁻³ × 3600 = 17.7 m. A pedestrian navigator therefore resets the velocity to zero at every footstep, when the foot is still, which turns the quadratic growth into a much slower one.
+H2: 16.6 The magnetometer and hard-iron error
+P: A gyroscope's heading drifts without bound, and the cheapest absolute heading reference is a three-axis magnetometer measuring the Earth's field. Its horizontal component is only about 15 to 30 µT at mid-latitudes, and anything magnetic on the board or in the product adds to it. A permanent offset, from magnetized steel parts, speaker magnets, or steady currents in nearby traces, is called hard-iron error and shifts the measured field by a fixed vector; soft-iron error, from permeable material that bends the Earth's field, distorts the circle traced by a rotating sensor into an ellipse. Both are removed by calibration: rotating the product through many orientations and fitting the offset and the ellipse. Motor currents in a robot or battery currents in a phone change with operation and cannot be calibrated away, so the magnetometer is placed far from them and the fusion filter of Section 16.3 trusts it less when they are large.
+EQ: heading error ≈ arctan(B_offset / H_horizontal)  (offset perpendicular to the field)
+H2: Worked Example 16.4
+WEP: The Earth's horizontal field is 20 µT. A trace 10 mm from the magnetometer carries a steady 1 A. Find the field it produces and the worst-case heading error if that field is perpendicular to the Earth's.
+WES: A long straight current produces B = µ₀I/(2πr) = 4π × 10⁻⁷ × 1/(2π × 0.01) = 20 µT, as large as the Earth's horizontal field, giving a heading error of arctan(1) = 45°. At 100 mm the field falls to 2 µT and the error to arctan(0.1) = 5.7°, which is why power traces are kept well away from compasses.
 P: Motion sensors, like every chip in this book, depend on their package. Chapter 17 opens the most demanding package of all, the high-bandwidth memory stack.
 H2: Practice
 PR: A gyroscope mass vibrates with 10 µm amplitude at 15 kHz. Find the peak drive velocity and the Coriolis acceleration at 10 °/s.
@@ -32,6 +38,7 @@ PR: Find the horizontal acceleration error from a 0.5° tilt error.
 PR: A gyroscope has a bias of 10 °/h. Find the heading error after 30 minutes.
 PR: Why can a MEMS IMU not navigate alone for long periods?
 PR: Find the position error after 30 s for a bias of 0.5 mg.
+PR: What heading error does a 1 µT perpendicular offset cause in a 20 µT horizontal field?
 ANS: v = 0.942 m/s; aC = 2 × 0.1745 × 0.942 = 0.329 m/s².
 ANS: ½ × 4.905 × 10⁻³ × 120² = 35.3 m.
 ANS: 0.05 × 3 = 0.15°.
@@ -39,3 +46,4 @@ ANS: 9.81 × sin 0.5° = 0.0856 m/s², or 8.7 mg.
 ANS: 5°.
 ANS: Integration turns its small biases and noise into errors that grow with time, and as the square of time for position, so without external corrections the estimate drifts away within seconds to minutes.
 ANS: ½ × 4.9 × 10⁻³ × 900 = 2.2 m.
+ANS: arctan(0.05) = 2.9°.

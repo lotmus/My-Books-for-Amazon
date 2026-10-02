@@ -25,6 +25,12 @@ P: The planes of Section 3.2 carry current laterally from regulators at the edge
 H2: Worked Example 3.4
 WEP: A processor draws 875 A. The lateral path from edge-mounted regulators has 0.1 mΩ of resistance; a vertical design reduces it to 0.02 mΩ. Find the loss in each and the saving.
 WES: Laterally, 875² × 10⁻⁴ = 76.6 W; vertically, 875² × 2 × 10⁻⁵ = 15.3 W. The 61 W saved is 7 % of a 875 W load at 1 V, and it also removes the voltage drop of 87.5 mV, which the regulator would otherwise have to compensate by raising its output.
+H2: 3.6 Many phases: ripple and interleaving
+P: No single converter phase can carry 875 A, so the regulator is built from many identical buck phases in parallel, each switching at a few hundred kilohertz to a megahertz, with their clocks staggered evenly through the switching period. Each phase's inductor carries a triangular ripple current ΔI = (Vin − Vout) D / (L fs), where D = Vout/Vin is the duty cycle. Interleaving N phases makes the ripples partly cancel at the output and moves the output ripple frequency to N fs, which the output capacitors filter far more easily. More phases also spread the conduction loss and the heat across the board, and modern controllers add and shed phases as the load changes so that light loads do not pay for the switching loss of every phase. The fast load steps of Section 3.3 are still met by the capacitors first; the phases respond within a few switching cycles.
+EQ: D = Vout / Vin,    ΔI = (Vin − Vout) D / (L fs),    f_ripple,out = N fs
+H2: Worked Example 3.5
+WEP: A 24-phase regulator converts 12 V to 0.8 V at 800 kHz with 100 nH per phase and delivers 875 A. Find the current per phase, the ripple per phase, and the output ripple frequency. At 90 % efficiency, how much power does the regulator lose?
+WES: Each phase carries 875/24 = 36.5 A. D = 0.8/12 = 0.067, so ΔI = 11.2 × 0.067 / (100 × 10⁻⁹ × 800 × 10³) = 9.3 A peak to peak, about a quarter of the phase current. The output ripple is at 24 × 0.8 = 19.2 MHz. The load takes 0.8 × 875 = 700 W, so the input is 778 W and the regulator dissipates about 78 W, a heat load of its own that Chapter 6 must remove.
 P: Current reaches the die through the board as well as the package, and the board's materials, Chapter 4, set what its signals can do.
 H2: Practice
 PR: Find the target impedance for a 1.0 V rail with 2% allowed variation and a 200 A step.
@@ -34,6 +40,7 @@ PR: Find the inductive voltage for a 500 A/µs step through 50 pH.
 PR: A processor draws 600 A. How many power bumps are needed at 0.1 A each?
 PR: Why does moving the regulator beneath the package improve power delivery?
 PR: Find the voltage drop across 0.05 mΩ at 600 A.
+PR: Find the ripple current of a phase converting 12 V to 1.0 V at 1 MHz with 150 nH.
 ANS: 20 mV/200 A = 100 µΩ.
 ANS: 1.72 × 10⁻⁸/70 × 10⁻⁶ = 0.25 mΩ per square.
 ANS: 0.98 mΩ per square × 3 × 100 A = 0.29 V.
@@ -41,3 +48,4 @@ ANS: 50 × 10⁻¹² × 5 × 10⁸ = 25 mV.
 ANS: 6000.
 ANS: It shortens the high-current path from centimeters of plane to millimeters, reducing both resistance and loop inductance, so the drop and the step response stay within the budget.
 ANS: 30 mV.
+ANS: D = 0.083; ΔI = 11 × 0.083 / (150 × 10⁻⁹ × 10⁶) = 6.1 A.

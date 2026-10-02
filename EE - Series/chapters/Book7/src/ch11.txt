@@ -23,6 +23,12 @@ EQ: f_SRF = 1 / (2π √(L_mount C))
 H2: Worked Example 11.3
 WEP: A board uses 10 µF capacitors with 1 nH of mounted inductance and 100 nF capacitors with 0.5 nH. Find each self-resonant frequency, and the region where an anti-resonance can appear.
 WES: The 10 µF part resonates at 1/(2π√(10⁻⁹ × 10⁻⁵)) = 1.59 MHz and the 100 nF part at 1/(2π√(0.5 × 10⁻⁹ × 10⁻⁷)) = 22.5 MHz. Between them, roughly 2 to 20 MHz, the 10 µF bank is inductive and the 100 nF bank capacitive, and their parallel resonance sits where the two reactances are equal. A simulation of the full network with the real ESR values shows whether the peak breaks the target; if it does, more 100 nF parts, or an intermediate 1 µF value, fill the gap.
+H2: 11.6 DC bias and the capacitance you actually get
+P: A ceramic capacitor's marked value is measured with almost no DC voltage across it. The high-permittivity dielectrics of X5R and X7R parts are ferroelectric, and their permittivity falls as the DC field rises, so a small, high-value part operated near its rated voltage may keep only a third or half of its marked capacitance. The loss is worst for small case sizes and thin dielectric layers, and the manufacturers publish curves of capacitance against DC bias for each part. The temperature characteristic is a separate allowance: X7R promises ±15 % from −55 to 125 °C, X5R the same to 85 °C, and C0G almost no change at all but much lower values. For the 0.8 V core rails of this chapter the bias loss is small, but for 12 V and 48 V input capacitors it dominates the count, and a design that counts marked microfarads will have half the capacitance it thinks it has.
+EQ: C_effective = C_nominal × k_bias × k_temperature
+H2: Worked Example 11.4
+WEP: A 12 V regulator input needs 100 µF of effective capacitance. The chosen 10 µF, 25 V, 0805 X7R part keeps 40 % of its value at 12 V, and the design must allow a further 15 % loss over temperature. How many parts are needed?
+WES: Each part gives 10 × 0.40 × 0.85 = 3.4 µF at 12 V in the worst-case temperature, so 100/3.4 = 29.4, and 30 parts are needed, three times the ten that the marked value suggests. A larger case size or a 50 V part with thicker layers keeps more of its value and may need fewer parts in the same board area.
 P: Decoupling keeps the supply quiet; the stack-up of Chapter 12 decides how close those capacitors, planes, and signals can sit to each other.
 H2: Practice
 PR: Find the self-resonant frequency of a 22 µF capacitor with 0.3 nH of mounted inductance.
@@ -32,6 +38,7 @@ PR: A die has 4 µF of capacitance behind 2 pH of package inductance. Find the r
 PR: Why does a 100 nF capacitor not help more than a 1 µF capacitor at 200 MHz when both have the same mounting?
 PR: Why must package capacitors be damped?
 PR: Find the self-resonant frequency of a 1 µF capacitor with 0.7 nH of mounted inductance.
+PR: A 22 µF part keeps 35 % of its value at its working voltage. What effective capacitance does it provide, ignoring temperature?
 ANS: 1.96 MHz.
 ANS: 2π × 5 × 10⁷ × 0.3 × 10⁻⁹/0.002 = 47.
 ANS: 30 × 10⁻³/(2π × 20 × 10⁻¹²) = 239 MHz.
@@ -39,3 +46,4 @@ ANS: 56.3 MHz and 0.71 mΩ.
 ANS: At 200 MHz both are far above their self-resonances, so both behave as the same mounted inductance and have the same impedance.
 ANS: The die capacitance and package inductance form a parallel resonance whose peak impedance can far exceed the target unless resistance in the network lowers its Q.
 ANS: 1/(2π√(0.7 × 10⁻⁹ × 10⁻⁶)) = 6.0 MHz.
+ANS: 7.7 µF.

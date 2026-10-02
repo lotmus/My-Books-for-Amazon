@@ -25,6 +25,12 @@ EQ: COM = 20 log₁₀(A_signal / A_noise)   ≥ 3 dB
 H2: Worked Example 14.4
 WEP: A channel's computed signal amplitude at the slicer is 30 mV and the combined noise and interference amplitude at the target error rate is 20 mV. Find COM, and say whether the channel passes.
 WES: COM = 20 log₁₀(30/20) = 3.5 dB, a pass with 0.5 dB to spare. Shortening the backplane's longest trace by an inch or moving to a lower-loss laminate are the usual ways to buy more.
+H2: 14.6 Jitter and the timing budget
+P: Noise closes the eye vertically; jitter closes it horizontally. Jitter is the deviation of each transition from its ideal time, and it is split into two kinds. Random jitter, RJ, comes from thermal and phase noise, is Gaussian, and is specified by its rms value; because a Gaussian has no bound, its contribution grows with the number of bits observed. Deterministic jitter, DJ, comes from bandwidth limits, reflections, crosstalk, and duty-cycle distortion, and is bounded. The dual-Dirac model combines them at a target bit error ratio as TJ = DJ + 2Q·RJ, where Q is the number of standard deviations that corresponds to that error ratio: 7.03 for 10⁻¹² and 4.75 for 10⁻⁶. Forward error correction, Section 14.4, lets PAM4 links run at raw error ratios near 10⁻⁵ or 10⁻⁶, which shrinks the random-jitter allowance substantially.
+EQ: TJ(BER) = DJ + 2 Q(BER) RJ,    Q(10⁻¹²) = 7.03,    Q(10⁻⁶) = 4.75
+H2: Worked Example 14.5
+WEP: A 106.25 Gbit/s PAM4 lane runs at 53.125 GBd. Its transmitter has RJ = 0.3 ps rms and DJ = 3 ps. Find the unit interval, and the total jitter at error ratios of 10⁻¹² and 10⁻⁶ as fractions of the unit interval.
+WES: UI = 1/53.125 GHz = 18.8 ps. At 10⁻¹², TJ = 3 + 2 × 7.03 × 0.3 = 7.2 ps, 38 % of the UI. At 10⁻⁶, TJ = 3 + 2 × 4.75 × 0.3 = 5.9 ps, 31 %. The FEC's tolerance of a higher raw error ratio returns about 1.3 ps of timing margin.
 P: Electrical channels lose more per inch at every generation. Chapter 15 asks when light should replace them.
 H2: Practice
 PR: Find the symbol rate and Nyquist frequency of a 212.5 Gbit/s PAM4 lane.
@@ -34,6 +40,7 @@ PR: What Q gives a bit error rate of 10⁻¹² for a binary decision?
 PR: Find the eye height needed for Q = 7.03 with 2 mV rms of noise.
 PR: Why does the decision-feedback equalizer not amplify noise?
 PR: What signal-to-noise amplitude ratio corresponds to a COM of exactly 3 dB?
+PR: Find TJ at 10⁻¹² for RJ = 0.2 ps and DJ = 2 ps.
 ANS: 106.25 Gbaud and 53.1 GHz.
 ANS: 8.9 ps.
 ANS: 20/0.8 = 25 inches.
@@ -41,3 +48,4 @@ ANS: 7.03.
 ANS: 2 × 7.03 × 2 = 28.1 mV.
 ANS: It subtracts interference computed from past decisions, which are noise-free symbols, instead of filtering the noisy received signal.
 ANS: 10^(3/20) = 1.41.
+ANS: 2 + 14.06 × 0.2 = 4.8 ps.

@@ -23,6 +23,12 @@ EQ: TJ ≈ T_top + ψJT × P
 H2: Worked Example 9.3
 WEP: A QFN regulator dissipating 1.5 W measures 92 °C on top. Its data sheet gives ψJT = 1.2 °C/W and θJA = 35 °C/W on the JEDEC board. Estimate the junction temperature, and explain why θJA would mislead.
 WES: TJ ≈ 92 + 1.2 × 1.5 = 93.8 °C. Using θJA with a 50 °C ambient would predict 50 + 35 × 1.5 = 102.5 °C, a figure that describes a different board; the real board's copper and airflow decide the junction temperature, and only a measurement on it, through ψJT, captures them.
+H2: 9.6 The bond wire as a low-pass filter
+P: A series inductance in a matched line does not only reflect; it also slows the edge. Seen from the inductance, the line on each side is a resistance Z₀, so the inductance and the 2Z₀ around it form a first-order low-pass filter with time constant τ = L/(2Z₀) and a 10-90 % rise time of about 2.2τ. A wire bond of a couple of nanohenries in a 50 Ω path adds tens of picoseconds of rise time, comparable to the edge of a 25 Gbit/s signal, while a flip-chip bump of a tenth of a nanohenry adds almost nothing. This is the second reason, beside ground bounce, that high-speed parts use flip-chip packages, and why fast wire-bonded parts compensate the wire with added pad capacitance to form a low-pass ladder that is matched to 50 Ω over the band of interest.
+EQ: τ = L / (2Z₀),    t_r,added ≈ 2.2 τ
+H2: Worked Example 9.4
+WEP: Find the added rise time of a 2 nH bond wire and of a 0.1 nH flip-chip bump in a 50 Ω path, and combine the bond wire's contribution with a 30 ps driver edge.
+WES: For the wire, τ = 2 nH / 100 Ω = 20 ps, so it adds about 44 ps. For the bump, τ = 1 ps, adding about 2.2 ps. Rise times of cascaded stages add roughly as the root of the sum of squares: √(30² + 44²) = 53 ps, so the bond wire nearly doubles the edge.
 P: The package's electrical and thermal behavior sets its performance on day one. Chapter 10 asks what wears it out.
 H2: Practice
 PR: Find the reactance of a 1.5 mm bond wire at 5.8 GHz.
@@ -32,6 +38,7 @@ PR: Find the reactance of a 30 pH bump at 28 GHz.
 PR: Why are millimeter-wave chips usually flip-chip mounted?
 PR: Give two reasons for using an array of vias under a QFN's exposed pad.
 PR: A part dissipating 3 W shows 70 °C on top with ψJT = 0.8 °C/W. Estimate TJ.
+PR: Find the added rise time of a 1 nH series inductance in a 50 Ω line.
 ANS: 2π × 5.8 × 10⁹ × 1.5 × 10⁻⁹ = 54.7 Ω.
 ANS: 10⁻⁹ × 8 × 0.02/(0.5 × 10⁻⁹) = 0.32 V.
 ANS: 9.19 GHz.
@@ -39,3 +46,4 @@ ANS: 5.3 Ω.
 ANS: A bond wire's nanohenry of inductance has hundreds of ohms of reactance at millimeter-wave frequencies, while a bump's tens of picohenries have only a few ohms.
 ANS: The vias carry heat from the die into the board's planes, and they give a low-inductance ground connection, replacing many ground bond wires.
 ANS: 72.4 °C.
+ANS: τ = 10 ps, so about 22 ps.

@@ -25,6 +25,12 @@ P: A MEMS microphone's data sheet reduces it to a few numbers. Sensitivity is th
 H2: Worked Example 7.4
 WEP: A microphone has 65 dB SNR and an AOP of 130 dB SPL. Find its self-noise and dynamic range, and the SNR improvement from beamforming four such microphones on a distant talker, if their noise is independent.
 WES: Self-noise is 94 − 65 = 29 dBA, and the dynamic range 130 − 29 = 101 dB. Averaging four microphones adds the signal coherently and the self-noise in power, a gain of 10 log₁₀4 = 6 dB, to 71 dB, before any rejection of room noise from other directions.
+H2: 7.6 Temperature and the frequency of a silicon resonator
+P: Silicon becomes softer as it warms: its Young's modulus falls by about 60 ppm per kelvin, and because a resonator's frequency goes as the square root of stiffness, an uncompensated silicon resonator drifts by about −30 ppm/K. Over the industrial range of −40 to 85 °C that is several thousand parts per million, far outside the ±20 to ±50 ppm that timing applications need. MEMS oscillators deal with it in two ways. Passive compensation adds layers whose stiffness rises with temperature, such as silicon dioxide, or uses heavily doped silicon, flattening the curve to a few ppm over the range. Active compensation measures the temperature on the same die and corrects the output frequency with a fractional-N synthesizer, using a calibration table written at the factory. Quartz cut at the right angle is naturally flat, which is why quartz dominated timing for decades; MEMS won its place by combining compensation with small size and robustness to shock.
+EQ: TCf ≈ ½ TCE ≈ −30 ppm/K  (uncompensated silicon)
+H2: Worked Example 7.5
+WEP: An uncompensated 32 MHz silicon resonator has TCf = −30 ppm/K. Find its total frequency change over −40 to 85 °C in ppm and in hertz. What residual linear coefficient would keep the total within ±20 ppm?
+WES: The span is 125 K, so the change is 125 × 30 = 3750 ppm, or 32 MHz × 3.75 × 10⁻³ = 120 kHz. A ±20 ppm total allows 40 ppm across 125 K, a residual of 0.32 ppm/K, about a hundred times flatter than the raw silicon, which is what compensation must achieve.
 P: MEMS sensors and resonators live inside packages and next to processors. The next chapter turns to the chiplets and die-to-die links that make up the processors themselves, in Chapter 8.
 H2: Practice
 PR: Find the displacement at 1 g of an accelerometer with f0 = 2 kHz.
@@ -34,6 +40,7 @@ PR: An accelerometer with a 2 µm gap moves 20 nm. Find ΔC/C.
 PR: Find the outline area of a 0.46 × 0.46 mm package.
 PR: Why does sealing a MEMS resonator in vacuum improve it?
 PR: A microphone has a self-noise of 32 dBA. What is its SNR?
+PR: Find the frequency change of a −30 ppm/K resonator over 0 to 70 °C.
 ANS: 9.81/(2π × 2000)² = 62 nm.
 ANS: 3.5 kHz.
 ANS: By √10 = 3.16.
@@ -41,3 +48,4 @@ ANS: 20 nm/2 µm = 1%.
 ANS: 0.212 mm².
 ANS: Removing air removes most of the damping, raising Q, which narrows the resonance and lowers the thermal noise.
 ANS: 94 − 32 = 62 dB.
+ANS: 70 × 30 = 2100 ppm.

@@ -33,6 +33,13 @@ CONST: CISPR 32 Class B at 10 m, quasi-peak: 30 dBµV/m (30–230 MHz), 37 dBµV
 CONST: Field from a reading: E = V + AF + Lcable (dB). CISPR bandwidths: 200 Hz, 9 kHz (150 kHz–30 MHz), 120 kHz (30–1000 MHz), 1 MHz (above 1 GHz).
 CONST: Conducted, CISPR 32 Class B: 66–56 dBµV QP (150–500 kHz), 56 QP / 46 AV (0.5–5 MHz), 60 QP / 50 AV (5–30 MHz). LISN 50 µH / 50 Ω.
 CONST: ESD (IEC 61000-4-2): 150 pF, 330 Ω; first peak about 3.75 A per kV (contact). Surge (IEC 61000-4-5): 1.2/50 µs, 8/20 µs, 2 Ω.
+CONST: Multiphase buck: D = Vout/Vin; ripple ΔI = (Vin − Vout)D/(L fs); output ripple at N fs. Fan laws: Q ∝ N, Δp ∝ N², P ∝ N³, sound ≈ 50 log₁₀(N₂/N₁) dB.
+CONST: Silicon resonator TCf ≈ −30 ppm/K uncompensated. Bond-wire low-pass τ = L/(2Z₀), added rise ≈ 2.2τ. Arrhenius AF = exp[(Ea/kB)(1/Tu − 1/Ts)], kB = 8.617 × 10⁻⁵ eV/K.
+CONST: MLCC effective C = C_nom × k_bias × k_temp (X7R ±15 %). Via aspect ratio = thickness/drill, about 10:1 standard. Crosstalk sums: worst case Σ|xᵢ|, statistical √Σxᵢ². Jitter TJ = DJ + 2Q·RJ; Q(10⁻⁶) = 4.75.
+CONST: Placement Cpk = min(USL − µ, µ − LSL)/(3σ). Friis FSPL = 20 log₁₀(4πd/λ); noise floor −174 dBm/Hz + 10 log₁₀B + NF. VNA noise floor ∝ IFBW; sweep ≈ points/IFBW. Magnetometer heading error ≈ arctan(B_off/H); wire field µ₀I/(2πr).
+CONST: Slot resonance f = c/2L; aperture SE ≈ 20 log₁₀(λ/2L). Cable resonance c/2L (λ/2), c/4L (λ/4). Scan to 1, 2, or 5 GHz for highest internal frequency below 108 MHz, 500 MHz, or 1 GHz; above, 5× (FCC ≤ 40 GHz, CISPR 32 ≤ 6 GHz). FCC peak limit = average + 20 dB; average = peak − 20 log₁₀(1/d).
+CONST: Stepped scan: step ≤ RBW/2; T = steps × dwell. Fully anechoic above 1 GHz: S_VSWR ≤ 6 dB; horn footprint w = 2d tan(θ/2). Touch current I = 2πfCV; CM choke f₀ = 1/(2π√(L·2C_Y)).
+CONST: Signal-line surge through 42 Ω; TVS V_C = V_BR + I_PP R_dyn. 80/80 rule: x̄ + kS ≤ L, k = 2.04 (3), 1.69 (4), 1.52 (5), 1.42 (6), 1.20 (12). Motor-drive common mode I = C dv/dt.
 SRC: Howard Johnson and Martin Graham, High-Speed Digital Design and High-Speed Signal Propagation; Eric Bogatin, Signal and Power Integrity, Simplified, 3rd edition, for Chapters 3 to 5.
 SRC: John H. Lau, Semiconductor Advanced Packaging, and Rao R. Tummala (editor), Fundamentals of Device and Systems Packaging, 2nd edition, for Chapter 2; TSMC, Intel, and JEDEC (JESD270-4, HBM4) public documentation for the 2026 packages and memory.
 SRC: Micron Technology, HBM4 product information (2026), for the 2.8 TB/s per-stack figure.
@@ -52,3 +59,7 @@ SRC: CISPR 16-1-1, 16-1-4, 16-2-3, and 16-4-2, for receivers, antennas and sites
 SRC: CISPR 32 (multimedia equipment emissions), CISPR 35 (immunity), and 47 CFR Part 15 Subpart B, for the limits (Chapters 23, 24, 26, and 27).
 SRC: IEC 61000-4-2, -4-3, -4-4, -4-5, and -4-6, for the immunity tests (Chapter 27); ETSI EN 301 489 and the Radio Equipment Directive 2014/53/EU, for the radio side.
 SRC: Keysight PathWave ADS, Cadence AWR Microwave Office, Sonnet, Ansys HFSS, and Dassault CST Studio Suite documentation, as tools named in Chapter 28.
+SRC: Intel and Infineon multiphase controller application notes, and Robert W. Erickson and Dragan Maksimović, Fundamentals of Power Electronics, 3rd edition, for interleaved phases (Chapter 3); MLCC manufacturers' DC-bias curves (Murata, TDK, Samsung Electro-Mechanics) for Chapter 11.
+SRC: JEDEC JESD22-A108 (HTOL) and JESD47 for accelerated life qualification (Chapter 10); Douglas C. Montgomery, Introduction to Statistical Quality Control, for process capability (Chapter 19).
+SRC: CISPR 16-4-3 and CISPR 32 Annex material on the 80/80 statistical assessment of series production (Chapter 28); FCC 47 CFR 15.33 and 15.35 for the upper scan frequency and the peak and average limits above 1 GHz (Chapters 23 and 24).
+SRC: IEC 62368-1 and IEC 60950-1 for touch-current limits (Chapter 26); Littelfuse and Semtech TVS application notes for surge protection of signal lines (Chapter 27).

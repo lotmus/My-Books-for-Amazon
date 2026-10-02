@@ -23,6 +23,12 @@ EQ: I_touch = 2π f C V
 H2: Worked Example 26.3
 WEP: Find the touch current of a 4.7 nF Y capacitor at 230 V, 50 Hz, and at the worst case of 264 V, 60 Hz. What is the largest Y capacitance that keeps the touch current below 0.25 mA at 264 V, 60 Hz?
 WES: At 230 V, 50 Hz, I = 2π × 50 × 4.7 nF × 230 V = 0.34 mA. At 264 V, 60 Hz, I = 2π × 60 × 4.7 nF × 264 V = 0.47 mA, above 0.25 mA. The largest capacitance is C = 0.25 mA / (2π × 60 × 264 V) = 2.5 nF, so a 2.2 nF part, within tolerance, is the practical choice, and the choke must supply the attenuation the smaller capacitor gives up.
+H2: 26.6 Sizing the common-mode choke
+P: Once the touch-current budget has fixed the Y capacitance, the common-mode choke supplies the rest of the common-mode attenuation. For common-mode noise the two Y capacitors act in parallel, from both lines together to earth, and the choke's common-mode inductance forms a second-order low-pass filter with them, falling at 40 dB per decade above its corner. The choke is wound so that the line and neutral currents, equal and opposite, cancel their flux in the core, which keeps the large mains current from saturating it, while common-mode current, flowing the same way in both windings, sees the full inductance. High-permeability ferrite cores give millihenries in a small part, but their permeability and therefore their inductance fall at high frequency, and the inter-winding capacitance of the choke eventually bypasses it, which is why the highest-frequency conducted problems often need a second, smaller choke.
+EQ: f₀ = 1 / (2π √(L_CM × 2C_Y))
+H2: Worked Example 26.4
+WEP: The filter uses two 2.2 nF Y capacitors, the largest allowed by the touch-current budget of Worked Example 26.3. Find the common-mode choke inductance that puts the filter corner at 50 kHz, and the attenuation that corner gives at 500 kHz.
+WES: The two Y capacitors in parallel give 4.4 nF. L = 1/((2π × 50 × 10³)² × 4.4 × 10⁻⁹) = 1/(9.87 × 10¹⁰ × 4.4 × 10⁻⁹) = 2.3 mH. At 500 kHz, a decade above the corner, the second-order filter gives about 40 dB.
 P: Emissions are what a product does to its surroundings. Chapter 27 turns the question around: what the surroundings do to the product.
 H2: Practice
 PR: Convert 2 mV on the LISN to dBµV.
@@ -32,6 +38,7 @@ PR: Find the LC corner for 40 dB at 300 kHz.
 PR: Find C for a 39.7 kHz corner with 10 µH.
 PR: Why are Y capacitors limited in value?
 PR: Find the touch current of a 2.2 nF Y capacitor at 230 V, 50 Hz.
+PR: What corner frequency does a 1 mH common-mode choke give with two 2.2 nF Y capacitors?
 ANS: 66.0 dBµV.
 ANS: 1.0 A.
 ANS: 86.0 − 63.6 + 6 = 28.4 dB.
@@ -39,3 +46,4 @@ ANS: 300 kHz/10 = 30 kHz.
 ANS: 1.61 µF.
 ANS: They connect the mains lines to protective earth, so their 50 or 60 Hz current flows through anyone touching an ungrounded chassis; safety standards cap that touch current.
 ANS: 2π × 50 × 2.2 nF × 230 V = 0.16 mA.
+ANS: 1/(2π √(10⁻³ × 4.4 × 10⁻⁹)) = 75.9 kHz.

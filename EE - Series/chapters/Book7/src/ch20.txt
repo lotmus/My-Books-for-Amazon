@@ -23,6 +23,12 @@ EQ: |S11|² + |S21|² ≤ 1   (passive, lossless at equality)
 H2: Worked Example 20.3
 WEP: A channel shows S21 = −18 dB and S11 = −12 dB at 26.6 GHz. Find the fractions of power transmitted and reflected, and the fraction lost in the channel.
 WES: Transmitted: 10^(−1.8) = 0.016; reflected: 10^(−1.2) = 0.063. Their sum is 0.079, so 92 % of the incident power is dissipated or radiated in the channel. The −12 dB return loss is poor; a reflection coefficient of 0.25 suggests a via or connector discontinuity that the TDR of Section 20.1 can locate.
+H2: 20.6 Dynamic range, IF bandwidth, and sweep time
+P: A VNA's ability to see small signals, such as the far-end crosstalk of a connector or the stopband of a filter, is set by its noise floor, and the noise floor is set by the IF bandwidth, the width of the filter that follows the receiver's mixer. Noise power is proportional to bandwidth, so reducing the IF bandwidth by a factor of ten lowers the noise floor by 10 dB. The price is time: the filter needs about 1/IFBW to settle at each frequency point, so the sweep slows by the same factor. Averaging several sweeps gives the same improvement at the same cost. Engineers therefore choose a wide IF bandwidth for return-loss and insertion-loss sweeps of channels, where the signals are large, and a narrow one only for measurements that need the dynamic range, accepting sweeps of seconds or minutes.
+EQ: ΔN = 10 log₁₀(IFBW₂ / IFBW₁) dB,    T_sweep ≈ N_points / IFBW
+H2: Worked Example 20.4
+WEP: A VNA has a −90 dBm noise floor at a 10 kHz IF bandwidth. What IF bandwidth gives −110 dBm, and how long does a 1601-point sweep take at each setting?
+WES: A 20 dB lower floor needs a hundred times narrower bandwidth, 100 Hz. The sweep time is about 1601/10,000 = 0.16 s at 10 kHz and 1601/100 = 16 s at 100 Hz.
 P: Measurement closes Part I's tour of packages and boards. Part II asks how those boards radiate, and how the laboratories that certify them measure it.
 H2: Practice
 PR: Find the spatial resolution of a 20 ps TDR on the reference stripline.
@@ -32,6 +38,7 @@ PR: Find the approximate bandwidth of a 20 ps rise time, using 0.35/tr.
 PR: Find the round-trip delay of 50 mm of trace with εr = 4.0.
 PR: What is the usable frequency range of a TRL line whose 90° point is at 5 GHz?
 PR: What reflection coefficient corresponds to a return loss of 15 dB?
+PR: By how much does the noise floor fall when the IF bandwidth goes from 1 kHz to 10 Hz?
 ANS: 1.6 mm.
 ANS: 33.3 Ω.
 ANS: 55.3 Ω.
@@ -39,3 +46,4 @@ ANS: 17.5 GHz.
 ANS: 667 ps.
 ANS: About 1.1 to 8.9 GHz.
 ANS: 10^(−15/20) = 0.18.
+ANS: 20 dB.

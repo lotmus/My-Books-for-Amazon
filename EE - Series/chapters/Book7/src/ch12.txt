@@ -21,6 +21,12 @@ EQ: Z₀ ≈ 87/√(εr + 1.41) × ln[5.98 h / (0.8 w + t)]
 H2: Worked Example 12.2
 WEP: A microstrip has w = 0.18 mm, t = 0.035 mm, h = 0.10 mm, and εr = 3.5. Estimate its impedance, and the change if h grows by 10 %.
 WES: 87/√4.91 = 39.3, and 5.98 × 0.10/(0.144 + 0.035) = 3.34, whose logarithm is 1.206, so Z₀ ≈ 47.4 Ω. With h = 0.11 mm, the logarithm becomes 1.302 and Z₀ = 51.1 Ω, a rise of 3.7 Ω for a 10 % change in height, which is why fabricators tune width rather than height to hit the target.
+H2: 12.7 Board thickness and the via aspect ratio
+P: A stack-up is a thickness budget as well as an impedance plan. The finished thickness is the sum of the copper layers, the cores and prepregs between them, and the plating and solder mask on the outside, and it must match the connectors, card guides, and press-fit pins the board will use. That thickness also limits the smallest through-hole via: plating chemistry can deposit copper reliably down a hole only up to a certain ratio of depth to diameter, typically about 10:1 for standard production, and higher only at a cost premium. A thick backplane therefore needs larger drills, which take routing space, or blind, buried, and back-drilled vias that avoid drilling through the whole board. Adding layers to gain routing channels makes the board thicker, which forces larger vias, which consume some of the channels gained, a trade that the stack-up designer must close before layout begins.
+EQ: thickness ≈ Σ t_copper + Σ t_dielectric + t_outer,    aspect ratio = thickness / drill diameter
+H2: Worked Example 12.3
+WEP: A 16-layer board has six plane layers of 35 µm copper, ten signal layers of 18 µm, fifteen dielectric layers of 0.10 mm, and about 0.10 mm of outer plating and mask. Find its thickness and the via aspect ratio for 0.20 mm and 0.25 mm drills.
+WES: Copper: 6 × 0.035 + 10 × 0.018 = 0.39 mm. Dielectric: 1.50 mm. Total: 0.39 + 1.50 + 0.10 = 1.99 mm, about 2.0 mm. With a 0.20 mm drill the aspect ratio is 10:1, at the limit of standard production; a 0.25 mm drill gives 8:1, comfortably inside it.
 P: The stack-up places conductors close to each other on purpose. Chapter 13 measures what happens when they are too close: crosstalk.
 H2: Practice
 PR: Find the stripline impedance with b = 0.25 mm, w = 0.10 mm, t = 18 µm, and εr = 3.6.
@@ -30,6 +36,7 @@ PR: How many picoseconds of skew does 2 mm of length mismatch cause in a stripli
 PR: Does the stripline impedance rise or fall when the trace is made wider?
 PR: Why should a stack-up be symmetric about its center?
 PR: By roughly how many ohms does the impedance of Worked Example 12.2 change if εr falls to 3.0?
+PR: What is the smallest drill for a 3.2 mm backplane at a 10:1 aspect ratio?
 ANS: 49.9 Ω.
 ANS: 5 × 0.2 + 4 × 0.12 + 10 × 0.025 = 1.73 mm.
 ANS: √4.0 × 0.0254/2.998 × 10⁸ = 169.5 ps.
@@ -37,3 +44,4 @@ ANS: 12.7 ps.
 ANS: It falls.
 ANS: An asymmetric stack has unequal expansion and resin shrinkage on its two sides, so it warps during lamination and reflow.
 ANS: 87/√4.41 = 41.4 × 1.206 = 50.0 Ω, a rise of about 2.6 Ω.
+ANS: 0.32 mm.

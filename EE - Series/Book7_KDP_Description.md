@@ -8,9 +8,9 @@
 
 ## Description
 
-Book 7 is where the series meets the physical product. Part I covers packages, chiplets, HBM, power delivery, stack-up, crosstalk, high-speed loss, optical interconnect, heat, MEMS, antenna-in-package, design for manufacture and test, and TDR and VNA measurement. Part II covers EMC: why boards radiate, cable common mode, limits and detectors, chambers and LISNs, immunity, the radio report, and the day in the lab. The book closes with the robot, which uses nearly every book at once.
+Book 7 is where the series meets the physical product. Part I covers packages, chiplets, HBM, multiphase power delivery, board materials, stack-up and board thickness, decoupling and capacitor DC bias, crosstalk, high-speed loss, jitter and channel margin, optical interconnect and external laser sources, heat and the fan laws, MEMS, inertial sensors and magnetometers, reliability and accelerated life tests, antenna-in-package and millimeter-wave link budgets, design for manufacture and test with placement capability, and TDR and VNA measurement. Part II covers EMC: why boards, slots, and heat sinks radiate, cable common mode and cable resonance, limits up to and above 1 GHz, detectors, scan time and FFT receivers, semi-anechoic and fully anechoic chambers, LISNs, filters, Y-capacitor touch current and common-mode chokes, immunity and TVS sizing, the radio report, the statistics of series production, and the day in the lab. The book closes with the robot, which uses nearly every book at once, down to the common-mode current of its motor drives.
 
-Each chapter states its question, develops the idea in words, and works it through with declared numbers. Every number in a worked example was computed, and the answers to every practice problem are in the back of the book.
+Each chapter states its question, develops the idea in words, and works it through with declared numbers: 110 worked examples and 221 practice problems in all. Every number in a worked example was computed, and the answers to every practice problem are in the back of the book.
 
 ## Also in this series
 

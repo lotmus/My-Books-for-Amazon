@@ -28,6 +28,12 @@ P: A DRAM cell is a capacitor that leaks, and the leakage roughly doubles for ev
 H2: Worked Example 17.4
 WEP: A memory bank is unavailable for 350 ns per refresh command, and commands come every 7.8 µs at normal temperature. Find the fraction of time lost to refresh, and the fraction when the rate doubles above 85 °C.
 WES: 350 ns/7.8 µs = 4.5 % at normal temperature; doubling the rate gives 9.0 %. A hot stack therefore loses almost a tenth of its bank availability to refresh, which, with the extra refresh power, is why HBM cooling matters as much as the processor's.
+H2: 17.7 What a TSV costs in energy
+P: Moving a bit through a through-silicon via is cheap compared with moving it off the stack. A TSV is a short vertical wire with a capacitance of a few tens of femtofarads to the surrounding silicon, set by its diameter, length, and the thickness of its oxide liner, and the small drivers and receivers at each end add a little more. The energy per bit is roughly αCV², where α is the probability that the line switches upward on a given bit, about a quarter to a half for random data depending on the convention, and V is the swing. Because the swing inside the stack can be low and the capacitance is small, the vertical links consume a fraction of a watt even at the full stack bandwidth, while the interface to the processor, Section 17.4, costs tens of watts. The energy of a memory system lives in the horizontal links and the DRAM arrays, not in the vertical wiring.
+EQ: E_bit ≈ α C V²
+H2: Worked Example 17.5
+WEP: A TSV and its driver and receiver present 60 fF, the swing is 0.75 V, and α = 0.5. Find the energy per bit and the power at the stack's 2.8 TB/s, and compare it with the 2 pJ/bit interface.
+WES: E = 0.5 × 60 × 10⁻¹⁵ × 0.75² = 17 fJ/bit. At 2.8 TB/s = 2.24 × 10¹³ bit/s the TSVs take 0.38 W, while the interface at 2 pJ/bit takes 45 W, more than a hundred times as much.
 P: Memory stacks are the densest packages in a system. Chapter 18 puts something entirely different into the package: an antenna.
 H2: Practice
 PR: Find the bandwidth of a 1024-bit interface at 9.6 Gbit/s.
@@ -37,6 +43,7 @@ PR: Find the stack yield of sixteen layers at 98% each.
 PR: Find the interface power at 3 pJ/bit and 2.8 TB/s.
 PR: Find the thermal resistance of twelve 10 µm underfill layers, k = 0.5 W/(m·K), over 100 mm².
 PR: What fraction of time is lost if each refresh blocks a bank for 280 ns every 3.9 µs?
+PR: Find the energy per bit of a 40 fF TSV at 0.5 V swing with α = 0.5.
 ANS: 1.23 TB/s.
 ANS: 625 connections per mm².
 ANS: 0.073 Ω.
@@ -44,3 +51,4 @@ ANS: 72.4%.
 ANS: About 68 W.
 ANS: 2.4 K/W.
 ANS: 280/3900 = 7.2 %.
+ANS: 0.5 × 40 fF × 0.25 V² = 5 fJ.

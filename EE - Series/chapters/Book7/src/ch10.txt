@@ -23,6 +23,12 @@ P: Plastic packages absorb moisture from the air. During reflow soldering, at pe
 H2: Worked Example 10.3
 WEP: A reel of MSL 3 parts is opened on Monday at 08:00 and the line will not reflow the last of them until the following Tuesday at 17:00. Are they within their floor life, and what must be done if not?
 WES: Monday 08:00 to the next Tuesday 17:00 is 8 days and 9 hours, 201 hours, beyond the 168-hour floor life of MSL 3. The remaining parts must be baked according to J-STD-033, typically for many hours at 125 °C for BGAs if the reel tolerates it, or at lower temperature for longer, before use; alternatively they can be returned to dry storage before the limit, which pauses or partially resets the clock.
+H2: 10.6 Accelerated life tests and the Arrhenius factor
+P: A product meant to last ten years cannot be tested for ten years, so reliability engineers run it hot and scale the result. For failure mechanisms driven by thermally activated chemistry, the rate rises with temperature as exp(−Ea/kBT), and the acceleration factor between a stress temperature Ts and a use temperature Tu is AF = exp[(Ea/kB)(1/Tu − 1/Ts)], with temperatures in kelvin. The standard high-temperature operating life test, HTOL, runs parts at 125 °C for 1000 hours under bias. The result depends strongly on the activation energy assumed, typically 0.7 eV for generic semiconductor mechanisms, and is meaningful only for mechanisms that the test actually activates. Solder fatigue, Section 10.2, needs temperature cycling instead, and moisture needs humidity tests, so a qualification plan combines several stresses rather than one.
+EQ: AF = exp[(Ea / kB)(1/Tu − 1/Ts)],    kB = 8.617 × 10⁻⁵ eV/K
+H2: Worked Example 10.4
+WEP: A 1000 hour HTOL test runs at 125 °C. With Ea = 0.7 eV, what use time at 55 °C does it represent?
+WES: Tu = 328.15 K and Ts = 398.15 K, so 1/Tu − 1/Ts = 5.36 × 10⁻⁴ K⁻¹. Ea/kB = 0.7/(8.617 × 10⁻⁵) = 8124 K. AF = exp(8124 × 5.36 × 10⁻⁴) = exp(4.35) = 78. The test represents about 78,000 hours, close to nine years at 55 °C, for the mechanisms with that activation energy.
 P: Moisture, expansion, fatigue, and electromigration set the package's life. Chapter 11 returns to its electrical role and to the network of capacitors that keeps the supply quiet.
 H2: Practice
 PR: A die with Δα = 14 ppm/K has a joint 5 mm from the neutral point and 0.1 mm high. Find the shear strain for a 100 K swing.
@@ -32,6 +38,7 @@ PR: Find the electromigration acceleration from 85 °C to 105 °C with Ea = 0.7 
 PR: By what factor does life change when current density rises by 50%, with n = 2?
 PR: Why does underfill extend the life of flip-chip joints?
 PR: What is the floor life of an MSL 4 part?
+PR: Find the acceleration factor between 85 °C and 125 °C for Ea = 0.7 eV.
 ANS: 0.07.
 ANS: Δγ = 10 × 10⁻⁶ × 80 × 15/0.3 = 0.040; Nf ≈ ½ × (0.040/0.65)^(−1/0.442) ≈ 274 cycles.
 ANS: 2^(1/0.442) = 4.8 times longer.
@@ -39,3 +46,4 @@ ANS: exp[(0.7/8.617 × 10⁻⁵)(1/358.15 − 1/378.15)] = 3.3.
 ANS: It falls by 1.5² = 2.25.
 ANS: The underfill bonds the die to the substrate so that the two bend together under temperature change instead of shearing the bumps, reducing the cyclic strain on each joint.
 ANS: 72 hours at 30 °C and 60 % RH.
+ANS: 1/358.15 − 1/398.15 = 2.81 × 10⁻⁴; AF = exp(8124 × 2.81 × 10⁻⁴) = exp(2.28) = 9.8.

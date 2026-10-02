@@ -25,6 +25,12 @@ EQ: crosstalk ∝ 1 / [1 + (s/h)²]
 H2: Worked Example 13.3
 WEP: Two traces 0.1 mm above their plane have 4 % near-end crosstalk at a center spacing of 0.1 mm. Estimate the crosstalk at 0.3 mm spacing, and at 0.1 mm spacing with the plane 0.05 mm below.
 WES: At s/h = 1 the factor is 1/2; at s/h = 3, 1/10, so the crosstalk falls to 4 % × (1/10)/(1/2) = 0.8 %. With h = 0.05 mm at 0.1 mm spacing, s/h = 2 and the factor is 1/5, giving 1.6 %: thinning the dielectric gains a factor of 2.5 without moving the traces.
+H2: 13.7 Adding up many aggressors
+P: A victim trace in a dense bus has neighbors on both sides and more beyond them, and each contributes crosstalk. The worst-case budget adds their amplitudes, assuming every aggressor switches in the direction that hurts the victim at the same instant. For many aggressors with independent data that worst case is rare, and a statistical budget adds their contributions as the root of the sum of squares, which is smaller. Which one is right depends on the error rate required and the data patterns: a parallel memory bus whose lines switch together on the same clock edge can approach the linear sum, while independent serial lanes behave closer to the statistical one. Channel tools such as COM, Section 14.5, model crosstalk statistically and fold it into the noise that sets the error rate.
+EQ: worst case: X = Σ|xᵢ|;    statistical: X = √(Σ xᵢ²)
+H2: Worked Example 13.4
+WEP: A victim has two adjacent aggressors that each couple 2 % and two next-nearest aggressors that each couple 0.5 %. Find the worst-case and statistical crosstalk, and the worst-case noise on an 800 mV swing.
+WES: Worst case: 2 + 2 + 0.5 + 0.5 = 5.0 %, or 40 mV on 800 mV. Statistical: √(2 × 0.02² + 2 × 0.005²) = √(0.00085) = 2.9 %, or 23 mV. The two nearest neighbors dominate both sums, so widening their spacing, Section 13.6, buys most of the improvement.
 P: Crosstalk is one way a channel loses margin. Loss, equalization, and the resulting eye, Chapter 14, are the others.
 H2: Practice
 PR: Find Kb for Cm/C = 0.03 and Lm/L = 0.04.
@@ -34,6 +40,7 @@ PR: By what factor does crosstalk fall when spacing increases from s = h to s = 
 PR: Why is far-end crosstalk essentially zero in a stripline?
 PR: How long does an edge take to travel 10 cm on the reference microstrip?
 PR: By what factor does the crosstalk fall when s/h rises from 2 to 4?
+PR: Four aggressors each couple 1 %. Find the worst-case and statistical crosstalk.
 ANS: ¼ × 0.07 = 0.0175, or 1.75%.
 ANS: 100 ps × (2.998 × 10⁸/1.897)/2 = 7.9 mm.
 ANS: −22.3%.
@@ -41,3 +48,4 @@ ANS: From 1/2 to 1/5, a reduction to 40%.
 ANS: In a homogeneous dielectric the capacitive and inductive coupling ratios are equal, so their forward contributions cancel.
 ANS: 557 ps.
 ANS: (1 + 4)/(1 + 16) = 0.29, a factor of 3.4.
+ANS: 4 % and √(4 × 0.01²) = 2 %.

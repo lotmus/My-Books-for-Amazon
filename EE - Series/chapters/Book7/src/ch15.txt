@@ -22,6 +22,12 @@ P: A pluggable optical module sits at the front panel, and the switch chip must 
 H2: Worked Example 15.3
 WEP: A 51.2 Tbit/s switch uses optical I/O at 15 pJ/bit with pluggables or 5 pJ/bit with co-packaged optics. Find the I/O power in each case and the saving across 1000 switches.
 WES: 51.2 × 10¹² × 15 × 10⁻¹² = 768 W with pluggables; 256 W co-packaged. The 512 W saved per switch is 512 kW across 1000 switches, before cooling, about a megawatt-scale saving in a large AI cluster.
+H2: 15.6 The external laser source
+P: Lasers are the least heat-tolerant part of an optical link: their efficiency and lifetime fall as they warm, and the inside of a switch package running near 100 °C is a poor place for them. Most co-packaged optics designs therefore keep the lasers outside, in an external laser source, a pluggable module at the cool front panel that sends continuous light through fibers to the modulators in the package. The source can then be replaced in the field like a transceiver, and one laser can be split among several lanes. The price is optical loss in the extra fibers and connectors, which the laser must make up with more output power, and the wall-plug efficiency of the laser, often 10 to 20 % including its drive and temperature control, turns that extra light into several watts of electrical power.
+EQ: P_electrical = N × P_lane / (η_coupling × η_wall-plug)
+H2: Worked Example 15.4
+WEP: An external laser source feeds 16 lanes, each needing 20 mW of light at the modulator. The path from the laser to the modulator loses 3 dB, and the laser's wall-plug efficiency is 15 %. Find the electrical power, and the energy per bit if each lane carries 200 Gbit/s.
+WES: The laser must emit 16 × 20 mW / 0.5 = 640 mW of light, and at 15 % efficiency it draws 640/0.15 = 4.3 W. The lanes carry 3.2 Tbit/s, so the laser costs 4.3/3.2 × 10¹² = 1.3 pJ/bit, about a quarter of a 5 pJ/bit co-packaged budget, which is why every decibel of coupling loss matters.
 P: Optics carries the bits between packages. Chapter 16 returns to sensors, with the motion sensors that let a device know where it is.
 H2: Practice
 PR: Find the energy per bit of a 400 Gbit/s module that draws 9 W.
@@ -31,6 +37,7 @@ PR: How much fiber loss is there in 10 km at 0.35 dB/km?
 PR: A switch has 64 ports of 1.6 Tbit/s. Find its optics power at 25 W per module and at 5 pJ/bit.
 PR: Why are lasers often kept outside the package in co-packaged designs?
 PR: What I/O power does a 102.4 Tbit/s switch need at 5 pJ/bit?
+PR: How much electrical power does the laser of the example draw if the path loss improves to 2 dB?
 ANS: 9/400 × 10⁹ = 22.5 pJ/bit.
 ANS: 16 W.
 ANS: Received power −1 − 1.5 − 0.175 = −2.7 dBm; margin 6.3 dB.
@@ -38,3 +45,4 @@ ANS: 3.5 dB.
 ANS: 1600 W and 512 W.
 ANS: Lasers are the least reliable and most temperature-sensitive part of the link; external laser modules can be cooled separately and replaced without reworking the package.
 ANS: 512 W.
+ANS: 320 mW / 0.631 = 507 mW of light, so 507/0.15 = 3.4 W.

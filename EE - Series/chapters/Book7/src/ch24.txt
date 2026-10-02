@@ -19,6 +19,12 @@ EQ: N_steps = span / step,   step ≤ RBW / 2,   T_scan = N_steps × dwell
 H2: Worked Example 24.2
 WEP: Find the number of steps and the quasi-peak scan time for 30 MHz to 1 GHz with a 120 kHz bandwidth and a 1 s dwell. Compare an FFT receiver that captures 20 MHz segments with a 1 s dwell each.
 WES: The step is 60 kHz, so N = 970 MHz / 60 kHz = 16,167 steps, and the scan takes 16,167 s, about 4.5 hours, for one antenna height and turntable angle. The FFT receiver needs 970/20 = 48.5, so 49 segments, about 49 s, a speedup of more than 300 times. The difference is what makes full quasi-peak final scans practical.
+H2: 24.6 Pulsed emissions: why the peak and average limits differ by 20 dB
+P: Many emissions are not steady. A radio that transmits in bursts, a motor drive that runs intermittently, or a processor whose activity varies produces a signal that is on for a fraction of the time. The peak detector reads the level during the burst; the average detector reads the level averaged over time, which for a signal on for a fraction d of the time is lower by 20 log₁₀(1/d) decibels when the detector averages the voltage envelope, as CISPR average detectors do. The FCC's peak limit above 1 GHz, 20 dB above the average limit, Section 23.5, corresponds exactly to a duty cycle of 10 %: an emission on for less than a tenth of the time is constrained by the peak limit, and one on for more by the average limit. Labs must be told the duty cycle of any bursting source, because a scan that happens to miss bursts underreports both readings.
+EQ: E_avg = E_peak − 20 log₁₀(1/d)  (envelope average)
+H2: Worked Example 24.3
+WEP: A spurious emission at 4.8 GHz from a bursting radio is on 5 % of the time and reads 70 dBµV/m peak at 3 m. Estimate its average reading and the margins to the FCC limits of 74 dBµV/m peak and 54 dBµV/m average.
+WES: 20 log₁₀(1/0.05) = 26 dB, so the average is about 44 dBµV/m. The peak margin is 4 dB and the average margin 10 dB, so the peak limit governs this low-duty emission.
 P: The receiver is only one part of the measurement. Chapter 25 turns to the room around the product, the semi-anechoic chamber, and why its floor is metal.
 H2: Practice
 PR: What is the CISPR resolution bandwidth at 50 MHz, and at 2 GHz?
@@ -28,6 +34,7 @@ PR: A peak scan shows 41 dBµV/m against a 43.5 dBµV/m quasi-peak limit. Must t
 PR: Why is a continuous sine wave the same on peak, quasi-peak, and average?
 PR: Why does a spread-spectrum clock not reduce total radiated power?
 PR: How many steps and how long a quasi-peak scan does 150 kHz to 30 MHz take with a 9 kHz bandwidth and a 1 s dwell?
+PR: What duty cycle makes the average reading 6 dB below the peak?
 ANS: 120 kHz and 1 MHz.
 ANS: 10 log₁₀(2000/120) = 12.2 dB.
 ANS: The spread is 99 kHz, narrower than 120 kHz, so the reduction is negligible.
@@ -35,3 +42,4 @@ ANS: Yes; it is within the usual 6 dB margin, so it is maximized and measured wi
 ANS: Its envelope is constant, so its peak, its weighted quasi-peak, and its average are equal.
 ANS: Frequency modulation moves energy among frequencies but does not change the signal's amplitude, so the total power is the same; only its spectral density falls.
 ANS: Step 4.5 kHz, 29.85 MHz / 4.5 kHz = 6,633 steps, about 1.8 hours.
+ANS: 10^(−6/20) = 0.50, so 50 %.
