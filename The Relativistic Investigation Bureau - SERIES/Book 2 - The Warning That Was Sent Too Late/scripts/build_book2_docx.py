@@ -12,8 +12,8 @@ import re
 import sys
 from pathlib import Path
 
-HERE = Path(__file__).resolve().parent
-sys.path.insert(0, str(HERE.parent))
+HERE = Path(__file__).resolve().parent.parent  # scripts\ -> Book 2 root
+sys.path.insert(0, str(HERE.parent / "scripts"))  # rebuild_kindle.py lives in series scripts\
 import rebuild_kindle as rk  # noqa: E402  (Book 1 helpers; main() is not called)
 
 from docx import Document  # noqa: E402

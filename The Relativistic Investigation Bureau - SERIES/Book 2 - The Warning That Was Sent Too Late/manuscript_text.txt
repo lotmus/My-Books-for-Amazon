@@ -781,7 +781,7 @@ Rule: An empty field will take the nearest name. Nearness is not guilt. Do not s
 Chapter 10
 The Sign on the Gap
 They did not write anything at first. It was the station that started them.
-At twenty past three the public address system cleared its throat, in the way of public address systems everywhere, and a woman's voice, recorded so long ago that she might by now have retired to the coast, apologised for the late running of the 14:52 from Cardiff Central. The 14:52 from Cardiff Central was already in. It had been in for six minutes. Its passengers were streaming past them towards the Underground, with the faces of people who have already done their suffering and do not wish to hear about it again.
+At twenty past three the public address system cleared its throat, in the way of public address systems everywhere, and a woman's voice, recorded so long ago that she might by now have retired to the coast, apologised for the late running of the 12:52 from Cardiff Central. The 12:52 from Cardiff Central was already in. It had been in for six minutes. Its passengers were streaming past them towards the Underground, with the faces of people who have already done their suffering and do not wish to hear about it again.
 "She's apologising for something that's finished," Trevor said.
 "Railways do that. It's how you know they're sincere."
 Two minutes later the same recorded voice announced that the 15:36 to Worcester Foregate Street was expected to depart eleven minutes late. A small and very English groan went up from a cluster of people by the coffee stand. One man said something to his phone that the phone did not deserve. A woman with a pushchair turned it round, decisively, and went off to find a sandwich, because the board had told her she had time.
@@ -799,7 +799,7 @@ Derek had been listening with half of himself. The other half was watching the w
 Trevor looked at his envelope, which was full. He turned it over. That was full too, mostly of the sum about the other side of the Sun. He looked about him for paper with the expression of a man whose entire profession had become, for one afternoon, a stationery problem.
 Penny took the Sunday slip out of Weinstein's hand for the second time that day and turned it over. The back was blank.
 "Here. The front's already a warning. The back's been left for people who can subtract."
-The recorded voice came back on, unbidden, to apologise again for the late running of the 14:52 from Cardiff Central, which had by now been in for nine minutes and was being cleaned.
+The recorded voice came back on, unbidden, to apologise again for the late running of the 12:52 from Cardiff Central, which had by now been in for nine minutes and was being cleaned.
 "Twice. She's apologised twice."
 Penny did not look up. "That's not a second warning. That's the same record, read again. Don't count it."
 "I wasn't going to count it."
@@ -1126,14 +1126,14 @@ Nobody said anything.
 "I did not touch it."
 "Mrs Marsh—"
 "I opened a door on Sunday at six o'clock," she said, and for the first time all day, and perhaps for the first time in eleven years, the flat unhurried voice was not entirely flat. "And this morning there was a railway in it. And a slip at a station says that a warning about the opening of a door at six o'clock on Sunday was seventeen minutes late. I have been on your stairs since one o'clock, Mr Gent. Until half past two it was for the lease. After Miss Gent rang, it was not a vigil, I said that, but it was not the lease either. I was waiting to see whether anything would come through a door I had opened."
-Derek understood, then, what the stairwell had been. Not the lease. Not only the lease. A woman sitting on a step for five hours with a clipboard on her knee, facing a frame, because she thought she might have let something in.
+Derek understood, then, what the stairwell had been. Not the lease. Not only the lease. A woman sitting on a step for the best part of four hours with a clipboard on her knee, facing a frame, because she thought she might have let something in.
 "Sit down."
 "I shall not sit down."
 "Then I will." He sat on the edge of his desk, which put him lower than her, which he had learned from Sophie was the correct height for a difficult conversation. "Mrs Marsh. Did anybody warn you, on Sunday, before six, not to open that door?"
 "No."
 "Did anybody warn you at all?"
 "A slip at Paddington. Which I did not see. Which says it came seventeen minutes after." She looked at the book. "At seventeen minutes past six I was in the kitchen downstairs with the kettle on. I had locked your door eight minutes before."
-"Then you weren't warned. You were recorded. There's a difference. We learned it at the station this afternoon from a woman apologising for a train from Cardiff." She came round the desk and stood beside Derek, not too close to Mrs Marsh, in the manner of somebody approaching a cat on a wall. "A warning that comes after an act can't tell you not to do it. All it can do is say somebody wished it hadn't been done. That's not the same as saying you did wrong."
+"Then you weren't warned. You were recorded. There's a difference. We learned it at the station this afternoon from a woman apologising for a train from Cardiff." Penny came round the desk and stood beside Derek, not too close to Mrs Marsh, in the manner of somebody approaching a cat on a wall. "A warning that comes after an act can't tell you not to do it. All it can do is say somebody wished it hadn't been done. That's not the same as saying you did wrong."
 "I opened the door."
 "You opened a door. We don't even know it's this one. The slip says opening the door. It doesn't say which. There are a great many doors in London, and at six o'clock on a Sunday, a great many of them get opened."
 "It is the only door I opened at six o'clock on Sunday."
@@ -1286,16 +1286,16 @@ Penny's Number
 Penny Gent did the sum at a quarter past nine, on the back of the itinerary, because Weinstein had told her the answer at Paddington and she had never in her life believed anybody's answer until she had got it herself.
 She lived on the top floor of a narrow house that had been divided, at some point in the 1970s, by a builder with strong views about where a kitchen should not go. The kitchen was in the hall. The table was in the kitchen, which meant the table was in the hall, and she sat at it with her coat still on, because she had come in at seven and sat down and not got up again, apart from once, to put the kettle on and forget it.
 The handbag was on the chair beside her. She had not unpacked it. She had taken out the itinerary, and her phone, and a biro from the Bureau that said nothing on the side, and she had taken out the photograph and put it on the table face-down, the way it had travelled all day, and had not turned it over. She did not intend to turn it over. It was not that kind of evening. She had put it there because it had been in the bag all day for a frightening reason, and she wanted, now that the day was over, to see whether it still felt like that kind of object out of the bag. It did. She left it where it was.
-The itinerary said London Heathrow to Athens, Thursday week, departing 07:40, arriving 13:05 local. Three hours twenty-five, once you took off the two hours Greece was ahead. Weinstein had looked at it upside down under the departure board at Paddington, with his train due in nine minutes, and had said, without any appearance of effort, "Ten billionths of a second. Older. You will come back older than Derek by about ten nanoseconds, and I shall want to hear about it from the air, because if you tell me on the ground it will merely be arithmetic."
+The itinerary said London Heathrow to Athens, Thursday week, departing 07:40, arriving 13:05 local. Three hours twenty-five, once you took off the two hours Greece was ahead. Weinstein had looked at it upside down under the departure board at Paddington, with his ticket barely in his pocket, and had said, without any appearance of effort, "Ten billionths of a second. Older. You will come back older than Derek by about ten nanoseconds, and I shall want to hear about it from the air, because if you tell me on the ground it will merely be arithmetic."
 She had said, "Ten."
-He had said, "About ten. Do it yourself. You will not believe me otherwise," and he had been right about that, and then he had gone through the barrier and turned round once.
+He had said, "About ten. Do it yourself. You will not believe me otherwise," and he had been right about that, and then, a couple of hours later, he had gone through the barrier and turned round once.
 So she was doing it herself.
 There were two parts. She knew that much, though she would not have admitted how in company: she had read the chapter in the physics book Trevor had lent her in the spring, the one with the coffee ring on the cover, and she had read it twice, because Trevor had asked her once at the kettle whether she had read it and she had wanted to be able to say yes without lying. Clocks higher up run fast. Clocks moving run slow. On an aeroplane you were both, and the question was which one won.
 Higher up first. The fraction by which a clock gained was the height times the strength of gravity, divided by the speed of light squared. She wrote it out the long way, because the short way was how you made mistakes: eleven thousand metres, times nine point eight, divided by nine times ten to the sixteen. One point two times ten to the minus twelve. A little over a trillionth. She multiplied by the seconds in an hour and got four point three billionths of a second for every hour at height.
 Moving second. The fraction by which a clock lost was half the speed squared over the speed of light squared. Two hundred and fifty metres a second, which was what the internet said an airliner did, more or less, if you did not ask it any harder questions. Half of two hundred and fifty squared, divided by nine times ten to the sixteen. Three and a half times ten to the minus thirteen. One and a quarter nanoseconds an hour, lost.
 Four point three gained, one and a quarter lost. Three nanoseconds an hour, net, in her favour. Three and a half hours. Ten and a half.
 "Ten," she said aloud, to the photograph. "He's right. Again."
-It annoyed her more than she could reasonably account for. It was not that she wanted him to be wrong. It was that he had done it upside down, in his head, in the nine minutes before a train, while being visibly delighted about something else, and she had done it at a table with a biro over twenty minutes, and they had got the same number, and that was what being very smart and very lazy looked like from the outside. Herbert's phrase. She had heard Weinstein quote it about himself with something not far from pride.
+It annoyed her more than she could reasonably account for. It was not that she wanted him to be wrong. It was that he had done it upside down, in his head, in the time it took to put a ticket away, while being visibly delighted about something else, and she had done it at a table with a biro over twenty minutes, and they had got the same number, and that was what being very smart and very lazy looked like from the outside. Herbert's phrase. She had heard Weinstein quote it about himself with something not far from pride.
 She looked at the sum for a while. Something in it was bothering her, and she could not find it, the way you cannot find a smell in a room once you have been sitting in it long enough.
 At twenty to ten she rang Trevor.
 He answered on the fourth ring with his mouth full.
@@ -1449,7 +1449,7 @@ Weinstein did not answer.
 Outside a tram went past. The brass clock skipped.
 "I was holding it."
 "The sheet."
-"I was the first to see it. I was standing at Derek's desk, being polite, which I had come to London to be, and I looked down, and it was there. It had not been there a moment before. I am quite sure of that. I am a patent attorney; I notice paper. And then it was in my hand, and then, because I am polite, in my pocket, and then the door opened. I did not read it until afterwards. None of us did."
+"I was the first to see it. I was standing at Derek's desk, being polite, which I had come to London to be, and I looked down, and it was there. It had not been there a moment before. I am quite sure of that. I am a patent attorney; I notice paper. And then it was in my hand, and then, because I am polite, in Derek's hand, and then the door opened. I did not read it until afterwards. None of us did."
 "And so."
 "And so I have been sitting here since six this morning, Herbert, wondering whether I put it there."
 Herbert did not laugh. That was the thing about Herbert, and had always been: he would mock you for forty years about your homework, and he would never once laugh at you when you were actually afraid.
@@ -1592,7 +1592,7 @@ Herbert left it. He stood, and put on his coat, and buttoned it, and looked at h
 "You never write to anybody."
 "I shall write to him today. He has earned a letter. He had two events and a relation and he did not let anybody put a substance between them, not even the board." Barbarian did not get up. "And tell Alfred the hurry was correct."
 "Which hurry?"
-"Monday. The train. He told me on the telephone he very nearly stayed. He said he got on the airport train at four, and turned round once at the barrier, and did not come back through it. Staying would have been a tenancy. He hurried. He was right to. It was the one act in the whole day with a perfectly clear place in the shape: after the refusal to board the other one, before anything else could happen to him. A man who leaves on time is a man who knows where he is in the order." He paused. "Do not tell him I said he was right. Tell him the hurry was. He will know the difference and it will annoy him."
+"Monday. The train. He told me on the telephone he very nearly stayed. He said he got on the airport train at four, and turned round once at the barrier, and did not come back through it. Staying would have been a tenancy. He hurried. He was right to. It was the one act in the whole day with a perfectly clear place in the shape: after the door, before the refusal was written down, before anything else could happen to him. A man who leaves on time is a man who knows where he is in the order." He paused. "Do not tell him I said he was right. Tell him the hurry was. He will know the difference and it will annoy him."
 Herbert let himself out. On the step he looked at the plaque again, and thought about appointments, and decided that he had kept this one, and that the keeping had been entirely his own affair.
 At five o'clock, alone, Julius Barbarian sat at the table among his twenty clocks and wrote to London.
 He wrote four hundred words, and read them, and found that they explained the joke, and deleted them. He wrote two hundred, and found that they agreed with Herbert, and deleted those too, because a letter that agreed with Herbert would be read in London as a letter from Herbert. He wrote a single line about the board and deleted it because it was envious. Then he looked at the clocks for a while, all twenty of them, the station clock and the tomato and the chronometer and the two wristwatches on their backs, each one perfectly honest and none of them in agreement, and he found that he was content, and wrote what he meant.
@@ -1673,7 +1673,6 @@ Afterwards Penny stood at the window with her arms folded and watched the buses,
 "Say it properly."
 "We're not telling her."
 "Good." Penny went back to her desk and took the itinerary out and looked at it with great attention, and Derek, who knew her, understood that the subject was closed and that it had cost her something to close it.
-
 Rule: You may refuse an act that has not happened yet. You cannot refuse a fact that is already in front of you. Not writing it down is a choice about the record, not about the world.
 
 -> Lesson for this chapter: 6
@@ -1724,7 +1723,7 @@ Derek looked at the shut door in the photograph for longer than he needed to. It
 "So at nine fifty-eight it was shut," said Mr Haskett slowly.
 "At nine fifty-eight and twelve seconds it was shut. At about five past ten, by the corridor clock, it was open."
 "About?"
-"The corridor clock's the ordinary clock. It doesn't have a second hand." Trevor was already out in the corridor, leaning, with his phone held up beside the clock face. He came back. "And it's slow. It says twenty-three minutes past five. The phone says twenty-three minutes and thirty-one seconds. Call it half a minute slow. I checked it against the platform clock on Monday, but I never checked it against the phone, because I was only asking whether they ran at the same rate. They do. That's not the same as being right." He looked faintly ashamed of the corridor clock, as if it were a relative. "So when I said ten oh five on Monday, it was really ten oh five and a half, roughly, by the phone. Give or take a bit, because I don't know how far through the minute the hand was when I read it."
+"The corridor clock's the ordinary clock. It doesn't have a second hand." Trevor was already out in the corridor, leaning, with his phone held up beside the clock face. He came back. "And it's slow. It says twenty-three minutes past five, and the hand's only just on the twenty-three. The phone says twenty-three minutes and thirty-one seconds. Call it half a minute slow. I checked it against the platform clock on Monday, but I never checked it against the phone, because I was only asking whether they ran at the same rate. They do. That's not the same as being right." He looked faintly ashamed of the corridor clock, as if it were a relative. "So when I said ten oh five on Monday, it was really ten oh five and a half, roughly, by the phone. Give or take a bit, because I don't know how far through the minute the hand was when I read it."
 "Ten oh six, then," said Mr Haskett.
 "No. Between ten oh five and a half and ten oh six and a half, by the phone, for the noticing. I can't do better without a second hand."
 Derek took a sheet of the Bureau's paper and wrote it, because the Bureau wrote down what it had, in the order it had it.
@@ -1767,7 +1766,7 @@ He signed it. D. Gent. He turned it round.
 "They'll both refuse."
 "Then they'll both be where we've been since Monday morning," said Penny. "It's survivable. You get used to it. You stop trying to make the field say something and you start drinking your tea."
 Mr Haskett looked at the statement for a long time.
-"I've been a landlord for thirty years." "I've had subsidence. I've had a fire in a restaurant on the ground floor of a building in Hammersmith. I once had a tenant who kept bees in a stationery cupboard. Every single time, the first thing anybody asked was when. When did the crack start. When did the fat catch. When did the bees arrive. And every single time somebody gave them a time. I always thought it was because somebody knew." He turned the ring, slowly, once. "It wasn't, was it."
+"I've been a landlord for thirty years. I've had subsidence. I've had a fire in a restaurant on the ground floor of a building in Hammersmith. I once had a tenant who kept bees in a stationery cupboard. Every single time, the first thing anybody asked was when. When did the crack start. When did the fat catch. When did the bees arrive. And every single time somebody gave them a time. I always thought it was because somebody knew." He turned the ring, slowly, once. "It wasn't, was it."
 "Sometimes it was."
 "And the other times?"
 "The other times somebody wanted the field filled."
@@ -1807,7 +1806,7 @@ Rule: When you do not have the time of an act, you may still have a time when it
 EPILOGUE
 Wednesday, Like a Person
 At half past six Gucci arrived with Tabitha.
-He came in her coat collar, as he did when he came at all, and she set him down on the corridor carpet, and he looked at the sill for a long time. He looked at the yellow tape, which Trevor had rolled up that morning on the grounds that the platform had now proved it could keep still without supervision. He looked at the grey slabs and the bench nobody would choose and the train lit at all its windows. Then he went and lay down in the hall, a little way along the corridor, as if a railway were a piece of furniture he had declined to discuss.
+He came in her coat collar, as he did when he came at all, and she set him down on the corridor carpet, and he looked at the sill for a long time. He looked at the sill where the yellow tape had lain until Trevor rolled it up on Monday evening, on the grounds that the platform had proved it could keep still without supervision. He looked at the grey slabs and the bench nobody would choose and the train lit at all its windows. Then he went and lay down in the hall, a little way along the corridor, as if a railway were a piece of furniture he had declined to discuss.
 "He's decided."
 "Decided what?"
 "That it isn't his problem. He's very good at that. He did the same with the Hoover."

@@ -11,7 +11,7 @@ from docx.oxml.ns import qn
 from docx.shared import Inches, Pt, RGBColor
 from docx.oxml import OxmlElement
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent  # scripts\ -> series root
 SRC = ROOT / "manuscript_text.txt"
 OUT = ROOT / "FINAL_REV10_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx"
 NAVY = RGBColor(0x0C, 0x44, 0x7C)

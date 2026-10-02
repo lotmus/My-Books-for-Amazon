@@ -1,6 +1,6 @@
 from pathlib import Path
 
-p = Path(__file__).with_name("manuscript_text.txt")
+p = Path(__file__).resolve().parent.parent / "manuscript_text.txt"
 t = p.read_text(encoding="utf-8")
 pairs = []
 

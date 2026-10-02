@@ -242,7 +242,7 @@ Penny looked at Sophie in the photograph. "So the death is the event. Eleven-oh-
 "Yes. And a photograph records light arriving somewhere, not a view from nowhere. If this image came out of our own system, it may not be a camera at all."
 Trevor looked at the clock, then at Penny, then at the maths he trusted more than either. "Then we test the labels. Carefully."
 Derek inclined his head at the brass clock, not at either of them. "Measure. Then fight. In that order."
-Penny enlarged the lower-right corner of the image. She did not speak for a long time. Three times, and no verbs.
+Penny enlarged the lower-right corner of the image. She did not speak for a long time. Three times, and no nouns.
 There was something in the lower-right corner. A piece of paper.
 Penny zoomed in. It contained three lines.
 11:03
@@ -2533,7 +2533,7 @@ Trevor peered at the paper again.
 He paused. "Unless that's the point."
 "What do you mean?"
 Trevor tapped the board. "τ is not a missing when. Or it is. If τ is a timestamp, we're still worshipping a universal now. If τ is an interval along a path, the murder becomes a missing worldline segment — and that I can calculate.
-"They were showing us that τ is missing. 
+"They were showing us that τ is missing."
 "That's not a question. That's a diagnosis."
 Derek studied him for a moment. "That's rather good, Trevor."
 Trevor looked pleased, and then faintly suspicious of looking pleased. "Thank you."
@@ -5429,7 +5429,7 @@ On the second day, Trevor stood. "Tea?"
 "Sugar?"
 "One."
 Trevor walked towards the kitchen. Derek did not call after him. One sugar remained one sugar. It was the same order, word for word, as the morning this had all begun — except that morning he'd changed his mind halfway to the door and called out "Two," because a man who thinks he might be dead by lunchtime is entitled to a second sugar. Today he let one stand. Nobody's death was scheduled for tomorrow. It was, Derek reflected, the most ordinary exchange the Bureau had produced since Tuesday, and he intended to enjoy every unremarkable second of it.
-Penny, meanwhile, was planning a holiday, which after the week they'd had she considered less a luxury than a filing requirement. She hadn't told Derek the actual reason, and didn't intend to: since Tuesday she had carried a photograph of his corpse face-down in her own bag, had rehearsed, more than once and in more detail than she'd admit, what she would say to Sophie if the geometry ever stopped cooperating — and she had done all of it standing up, in the office, on schedule, because somebody had to be the one who didn't fall apart while the men argued about reference frames. She wanted Greece specifically because it was as far from a filing cabinet as she could get without actually resigning: whitewashed houses leaning companionably into blue, a bed and breakfast with a terrace and no view of London whatsoever, retsina she fully intended to pretend to enjoy, and enough grape leaves and olives to constitute a personality. "And technically," she added, showing Weinstein the itinerary with the satisfaction of someone who had done the maths purely to annoy him, "the flight itself will leave me very slightly older than everyone who stayed home. Not enough to notice. Enough to mention." Weinstein confirmed, with visible reluctance, that the flight was the part that counted — about twenty billionths of a second, for the hours she would actually spend at altitude, not for a week of sitting on a terrace — and complained that of all the people in his life to grasp general relativity unprompted, it had to be the one planning to spend the rest of that week doing nothing with it. "I'm not doing nothing," Penny said. "I'm doing nothing after being, briefly, further up than you are. The briefly is the part that counts."
+Penny, meanwhile, was planning a holiday, which after the week they'd had she considered less a luxury than a filing requirement. She hadn't told Derek the actual reason, and didn't intend to: since Tuesday she had carried a photograph of his corpse face-down in her own bag, had rehearsed, more than once and in more detail than she'd admit, what she would say to Sophie if the geometry ever stopped cooperating — and she had done all of it standing up, in the office, on schedule, because somebody had to be the one who didn't fall apart while the men argued about reference frames. She wanted Greece specifically because it was as far from a filing cabinet as she could get without actually resigning: whitewashed houses leaning companionably into blue, a bed and breakfast with a terrace and no view of London whatsoever, retsina she fully intended to pretend to enjoy, and enough grape leaves and olives to constitute a personality. "And technically," she added, showing Weinstein the itinerary with the satisfaction of someone who had done the maths purely to annoy him, "the flight itself will leave me very slightly older than everyone who stayed home. Not enough to notice. Enough to mention." Weinstein confirmed, with visible reluctance, that the flight was the part that counted — about ten billionths of a second, for the hours she would actually spend at altitude, not for a week of sitting on a terrace — and complained that of all the people in his life to grasp general relativity unprompted, it had to be the one planning to spend the rest of that week doing nothing with it. "I'm not doing nothing," Penny said. "I'm doing nothing after being, briefly, further up than you are. The briefly is the part that counts."
 Tabitha had rung that morning, ostensibly to ask whether Gucci had left a lead at the Bureau. She did not ask, in as many words, whether Derek was still alive, but she stayed on the line four minutes longer than a lost lead required, and Derek let her. "Tell Trevor the dog misses structure," she said eventually, in the tone of someone changing the subject before the subject could change her. "And tell yourself whatever you need to, about why you kept me talking." She rang off before he could answer that, which he privately considered good tactics. He hadn't had an answer ready.
 Trevor noticed, with the weary resignation of a man updating a spreadsheet he had hoped to retire, that Derek's office door had started closing rather more often than the paperwork strictly required. The evidence sat outside it: a small dog, patient as a filed report, waiting on the corridor carpet. "Gucci's here again," he told Penny, in the tone of a man logging an observation rather than announcing a discovery. Penny didn't look up from her itinerary. "Door open or closed?" "Closed." "Then you know the rule." Trevor knew the rule. Derek had written it. He did not knock, did not call out, and did not stand in the corridor shouting anyone's name, on the grounds that the Bureau had tried all three before and none of them had ever once worked. He did, however, resolve to buy the dog a proper bed, on the grounds that even a voluntary stakeout deserved better furniture.
 Derek filed the rest of the week's leftovers — the Louvre guard who was not on the staffing record, the old man in his chair for one glance, the Underground woman who had known both kinds of relativity, Weinstein's missing Munich minute, the cucumber that had appeared in his hand — under the same heading, drawer unlocked. LOCALHOST was still the originating address on the photograph. Nobody had identified it. He left that one on top.
@@ -5579,13 +5579,13 @@ From the platform, that same tick takes longer — call it Δt — because the p
 Substitute L = cΔτ/2, and multiply both sides by 4:
 c²Δt² = c²Δτ² + v²Δt²
 Move the v²Δt² term to the left and factor out Δt²:
-Δt² (c² — v²) = c²Δτ²
-Divide both sides by (c² — v²):
-Δt² = c²Δτ² / (c² — v²)
+Δt² (c² − v²) = c²Δτ²
+Divide both sides by (c² − v²):
+Δt² = c²Δτ² / (c² − v²)
 Divide top and bottom inside the fraction by c², then take the square root:
-Δt = Δτ / √(1 — v²/c²)
+Δt = Δτ / √(1 − v²/c²)
 Which is to say, Δt = γΔτ, where:
-γ = 1 / √(1 — v²/c²)
+γ = 1 / √(1 − v²/c²)
 One geometric fact — light does not speed up just because you are already moving — and Pythagoras does the rest. Nobody had to take γ's word for it.
 
 The photon takes a longer path in the clock but still travels at speed c — so the tick takes longer.
@@ -5617,8 +5617,8 @@ Module A · Foundations of Special Relativity · Case link: Chapter 3. Learning 
 → Glossary: Lorentz Transformation
 The mathematical machinery connecting two inertial observers is the Lorentz transformation. An inertial observer moves at a constant velocity without accelerating.
 Let A describe an event using position (x) and time (t). B describes that same event using (x′) and (t′). If B moves to A's right at speed (v), and their coordinate origins coincide when both clocks read zero, then:
-x′ = γ(x — vt)
-t′ = γ(t — vx/c²)
+x′ = γ(x − vt)
+t′ = γ(t − vx/c²)
 Here c is the speed of light in vacuum, and γ is the Lorentz factor.
 Do not panic. γ is merely a number that becomes increasingly annoying as your speed approaches the speed of light. The important thing is that space and time transform together.
 A quick worked example, with v = 0.6c (so γ = 1.25, a clean number to check by hand): suppose A clocks an event at x = 3 light-seconds, t = 4 seconds. Then x′ = 1.25 × (3 − 0.6×4) = 0.75 light-seconds, and t′ = 1.25 × (4 − 0.6×3) = 2.75 seconds. B assigns the same event different numbers on both counts - and that's the whole transformation, run once, by hand.
@@ -5633,7 +5633,7 @@ Drag the velocity yourself and watch the red and teal lines tilt apart at the si
 They do not, however, disagree about everything.
 A key invariant is the spacetime interval. For the one-dimensional motion used here:
 → Glossary: Spacetime Interval
-s² = c²Δt² — Δx²
+s² = c²Δt² − Δx²
 Here Δt is the time between the two events, and Δx is their separation in space. All inertial observers calculate the same value of s² for the same pair of events, provided they use the same sign convention.
 The individual space and time measurements can change. This combination stays the same.
 Worked check, using the same event as before: in A's frame, s² = c²Δt² − Δx² = 4² − 3² = 7 (in units where c = 1 light-second per second). In B's frame, using the transformed values from a moment ago, s² = 2.75² − 0.75² = 7.5625 − 0.5625 = 7. Same number, different coordinates - that's the invariance, not just an assertion of it.
@@ -5771,7 +5771,7 @@ Newton answered: There is a gravitational force.
 Einstein eventually answered: The object is following a natural path through curved spacetime. 
 That natural path is called a geodesic. 
 
-On the surface of the Earth, an orbiting spacecraft is actually in free fall.
+Above the Earth, an orbiting spacecraft is actually in free fall.
 It is not being "held up" by a mysterious absence of gravity.
 It is following its geodesic. 
 The astronauts inside feel weightless because they are falling together with the spacecraft. 
@@ -5917,9 +5917,8 @@ Film: Primer again, for the door — two numbers, one event.
 
 Lesson 9
 Relativistic Travel
-Module C · Labels, Paths, Experiments · Case link: Chapter 10. Learning objective: Compute the idea of proper-time difference along unequal worldlines (twin paradox logic). The Lorentz transformation connects the space and time
+Module C · Labels, Paths, Experiments · Case link: Chapter 10. Learning objective: Compute the idea of proper-time difference along unequal worldlines (twin paradox logic). The Lorentz transformation connects the space and time coordinates of the same events in the Earth and spaceship frames.
 → Glossary: Lorentz Transformation · Worldline
-coordinates of the same events in the Earth and spaceship frames.
 
 Picture a spaceship travelling at relativistic speed. Its clock measures its own proper time. An observer on Earth measures a different elapsed time between the same events.
 → Glossary: Proper Time
@@ -5975,8 +5974,8 @@ The moving cucumber does not discover itself physically squashed.
 Its rest-frame length remains L₀.
 
 Exit Form
-If the ordinary cucumber is 20 cm long in its rest frame and γ = 2, what length does an observer measure along the direction of motion due to contraction?
-10 cm.
+If the ordinary cucumber is 31 cm long in its rest frame and γ = 2, what length does an observer measure along the direction of motion due to contraction?
+15.5 cm.
 
 Film: The Fly (1986) — length is a pair of ends at the same time.
 
@@ -6136,9 +6135,8 @@ The light cone: only events inside or on it can causally influence, or be influe
 That sounds like a violation of causality.
 But before screaming "time machine", we need to distinguish coordinate descriptions from actual causal structure.
 → Glossary: Causal Structure
-For an event, spacetime can be divided into: its causal past, its causal future,
+For an event, spacetime can be divided into: its causal past, its causal future, and regions that cannot be causally connected to it without exceeding the speed of light. The light-cone structure — what can causally influence what — is invariant.
 In relativity, different observers can disagree about the temporal ordering of spacelike-separated events. For causally connected events, all inertial observers agree on their temporal order. Relativity does not let an ordinary cause arrive after its effect merely by changing coordinates. The light cone is the key.
-and regions that cannot be causally connected to it without exceeding the speed of light. The light-cone structure — what can causally influence what — is invariant. 
 
 If Derek sees something that appears to happen before its cause, we should first ask:
 Are those events actually causally connected? If not, the apparent reversal may simply be a consequence of the coordinate system. If they are causally connected and the story really reverses their order, then we have left ordinary Special Relativity and need some additional physics — or a very good explanation from the Relativistic Investigation Bureau.
@@ -6185,7 +6183,7 @@ A tensor is not simply a "higher-dimensional vector." What matters is that its c
 And that is exactly why tensors are so useful in General Relativity. Spacetime can be curved. Coordinates can be awkward.
 Observers can accelerate. Someone can be falling into a black hole while someone else is sitting safely in an office complaining about the coffee. We need mathematical objects that behave properly when we change coordinates.
 Tensors do precisely that. The most important tensor is called the metric tensor, written gμν. It tells us how spacetime is measured: ds² = gμν dxμ dxν, a combination of regular distances in space plus a time component. 
-μ and ν each range over the four spacetime directions — one time, three space — and a repeated index means: add up the matching term for all four. That bookkeeping convention is why the equation looks short. It is quietly doing sixteen additions in shorthand.
+μ and ν each range over the four spacetime directions — one time, three space — and a repeated index means: add up the matching term for all four. That bookkeeping convention is why the equation looks short. It is quietly adding up sixteen terms in shorthand.
 → Glossary: Metric
 The metric can vary from place to place.
 So physicists combine the changes in all the relevant directions according to the metric, and get the spacetime interval.
@@ -6370,7 +6368,7 @@ Minkowski, Hermann. "Space and Time." In The Principle of Relativity: A Collecti
 Mermin, N. David. It's About Time: Understanding Einstein's Relativity. Princeton University Press, 2005. COMMENT: Possibly the most readable relativity book on this list — conversational, minimal maths, written for genuinely curious non-physicists.
 Gamow, George. Mr Tompkins in Wonderland. Cambridge University Press, 1940. COMMENT: The original relativity-made-friendly book, decades before the rest of this list existed. Mr Tompkins falls asleep and dreams of a city where the speed of light is walking pace — trams contract, cyclists age slower than pedestrians, and nobody finds any of it as alarming as they should. Difficulty: Low. If you want to know what it might feel like to actually live inside Special Relativity, rather than merely calculate it, start here.
 Muller, Richard A. Now: The Physics of Time. W. W. Norton, 2016. COMMENT: A working physicist's account of why "now" feels real when relativity refuses a universal now. Difficulty: Medium. He argues that time's flow may be more fundamental than most physicists admit. That is a different programme from Barbour's.
-Cox, Brian, and Jeff Forshaw. Why Does E=mc²? (And Why Should We Care?). Faber & Faber, 2009. The US edition is Da Capo Press, 2009. COMMENT: A patient derivation of the equation, from the same two postulates as Lesson 1. Difficulty: Medium.
+Cox, Brian, and Jeff Forshaw. Why Does E=mc²? (And Why Should We Care?). Da Capo Press, 2009. COMMENT: A patient derivation of the equation, from the same two postulates as Lesson 1. Difficulty: Medium.
 Susskind, Leonard. The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics. Little, Brown and Company, 2008. COMMENT: The argument over whether information falling into a black hole is lost, and the area-law clue behind holographic duality. Difficulty: Medium. Read it after Lesson 11, not instead of it.
 Wheeler, John Archibald. A Journey into Gravity and Spacetime. Scientific American Library, 1990. COMMENT: Wheeler practically invented the modern intuition for curved spacetime, and this is his own attempt to hand that intuition to a general reader — geometry and pictures doing the work equations do everywhere else on this list. Difficulty: Low-Medium. The natural next stop after Lesson 5's apple and Lesson 13's tidal corridor, from the physicist who saw GR most clearly in pictures.
 Carroll, Sean. Spacetime and Geometry. Addison-Wesley, 2004. COMMENT: For the reader who finishes Lesson 15 and wants the tensors to stop being metaphors. Difficulty: High. Not required for Case 1047.
