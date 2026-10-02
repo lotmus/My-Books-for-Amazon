@@ -240,7 +240,7 @@ It used the dummy-variable principle without examining boundary terms at large f
 | 10 | Verify the momentum-space Ward–Takahashi identity at tree level. |
 | 11 | In Worked example 4, compute the order-g² change in Z without the Jacobian, and show that the Jacobian cancels it. |
 | 12 | Why do ψ and ψ̄ rotating by the same phase under a chiral rotation make a nontrivial Jacobian possible, while opposite phases do not? |
-| 13 | Recompute the π⁰ width with f_π = 92.1 MeV and convert it to a lifetime, using ħ = 6.582×10⁻²² MeV s. |
+| 13 | Recompute the π⁰ width with f_π = 92.1 MeV and convert it to a lifetime, using ℏ = 6.582×10⁻²² MeV s. |
 | 14 | In Worked example 6, show that |∂G(v^θ)/∂θ| = r at each zero, and explain the factor ½. |
 | 15 | Show that for G = ∂·A − ω, δG[A^α]/δα = ∂², and explain why this makes the QED ghosts free. |
 | 16 | Challenge: show that averaging δ(∂·A − ω) over ω with weight exp[−(i/2ξ)∫ω²] produces ℒ_gf = −(∂·A)²/2ξ, and that ξ → 0 gives Landau gauge, ∂·A = 0 exactly. |
@@ -271,7 +271,7 @@ It used the dummy-variable principle without examining boundary terms at large f
 
 **12.** With opposite phases, the Jacobians of ψ and ψ̄ cancel, because they are inverse matrices. With e^{iβγ⁵} on both, the two Jacobians are equal and their product is e^{−2iβ Tr γ⁵}. Tr γ⁵ = 0 is formally zero over spinors, but over infinitely many modes the product 0 × ∞ needs regularization. The gauge-invariant regulator leaves the εFF term.
 
-**13.** Γ = 7.78 eV. τ = ħ/Γ = 6.582×10⁻¹⁶ eV s / 7.78 eV = 8.5×10⁻¹⁷ s.
+**13.** Γ = 7.78 eV. τ = ℏ/Γ = 6.582×10⁻¹⁶ eV s / 7.78 eV = 8.5×10⁻¹⁷ s.
 
 **14.** v_y^θ = r sin(φ + θ), with derivative r cos(φ + θ) = ±r at the zeros φ + θ = 0 and π. Since ∫dθ δ(G)|G′| counts the zeros, it equals 2, so 1 = ½∫dθ δ(G)|G′|.
 

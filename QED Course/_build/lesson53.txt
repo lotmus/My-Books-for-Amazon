@@ -35,11 +35,11 @@ Every tool this course has built is now put to use at once. Electron-muon scatte
 # 1 The diagram and amplitude
 
 FIG:
- e^{-}(p1) ----*---- e^{-}(p3)
+    e⁻(p1) ----*---- e⁻(p3)   
                |
                |  γ*  q = p1 − p3
                |
- μ^{-}(p2) ----*---- μ^{-}(p4)
+    μ⁻(p2) ----*---- μ⁻(p4)   
 ENDFIG
 
 ## 1.1 The process

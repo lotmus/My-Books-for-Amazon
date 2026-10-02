@@ -71,7 +71,7 @@ Take the differential of H = Σ pᵢ q̇ᵢ − L, treating q̇ as a function of
 
 $$ dH = Σᵢ (q̇ᵢ dpᵢ + pᵢ dq̇ᵢ) − Σᵢ [(∂L/∂qᵢ) dqᵢ + (∂L/∂q̇ᵢ) dq̇ᵢ] − (∂L/∂t) dt
 
-The terms in dq̇ᵢ cancel because pᵢ = ∂L/∂q̇ᵢ; this cancellation is the point of the Legendre transformation. The Euler Lagrange equations give ∂L/∂qᵢ = ṗᵢ, so dH = Σ(q̇ᵢ dpᵢ − ṗᵢ dqᵢ) − (∂L/∂t)dt. Reading off the partial derivatives,
+The terms in dq̇ᵢ cancel because pᵢ = ∂L/∂q̇ᵢ; this cancellation is the point of the Legendre transformation. The Euler–Lagrange equations give ∂L/∂qᵢ = ṗᵢ, so dH = Σ(q̇ᵢ dpᵢ − ṗᵢ dqᵢ) − (∂L/∂t)dt. Reading off the partial derivatives,
 
 $$ q̇ᵢ = ∂H/∂pᵢ,    ṗᵢ = −∂H/∂qᵢ,    ∂H/∂t = −∂L/∂t
 

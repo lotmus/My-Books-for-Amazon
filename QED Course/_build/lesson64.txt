@@ -35,7 +35,7 @@ Two loops have been built by hand, one attached to a photon line and one attache
 # 1 The diagram
 
 FIG:
- e^{-}(p) ----*~~~~~~~~~~~~~~~*---- e^{-}(p')
+    e⁻(p) ----*~~~~~~~~~~~~~~~*---- e⁻(p')   
                \             /
                 \           /
                  *---------     virtual photon k
@@ -83,7 +83,7 @@ the same reversal already used once in Lesson 63, Section 3.1, now applied to a 
 
 ## 3.2 Restoring the mass
 
-The complete numerator, γ^β[(p̸′−k̸)+m]γ^μ[(p̸−k̸)+m]γ_β, has three more pieces beyond Section 3.1's leading term, exactly as Lesson 55, Section 4.1, found when a mass was restored to a similar three-object contraction. Following that lesson's method term by term (Exercise 9 carries out every step),
+The complete numerator, γ^β[(p̸′−k̸)+m]γ^μ[(p̸−k̸)+m]γ_β, has three more pieces beyond Section 3.1's leading term, exactly as Lesson 55, Section 3, found when the mass terms of a similar contraction were kept. Following that lesson's method term by term (Exercise 9 carries out every step),
 
 $$ γ^β[(p̸′−k̸)+m]γ^μ[(p̸−k̸)+m]γ_β = −2(p̸−k̸)γ^μ(p̸′−k̸) + 4m[(p−k)^μ+(p′−k)^μ] − 2m²γ^μ
 

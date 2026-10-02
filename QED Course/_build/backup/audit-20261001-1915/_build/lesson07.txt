@@ -1,0 +1,338 @@
+TITLE: Maxwell Equations
+TAGLINE: Electric and magnetic fields, charge and current, the four field equations, and electromagnetic waves
+NUM: 7
+NEXT: Lesson 8 introduces the electromagnetic potentials and gauge freedom: how E and B are packaged into φ and A, why the potentials are not unique, and the gauge transformation that becomes the local symmetry of QED.
+
+# How to use this lesson
+
+Quantum electrodynamics is the quantum theory of the electromagnetic field, and that field obeys the Maxwell equations. Prologue 5 already placed this language next to Feynman's photons-and-arrows picture as an alternative when photons are many; this lesson is the calculation of that language. Mead's inversion — A primary, E and B derived — waits until the Interlude after Lesson 40, once potentials and local phase exist. This lesson states the Maxwell equations, both in the differential form that will be used for the rest of the course and in the integral form from which they are easiest to understand physically, and it derives the one consequence that matters most for everything that follows: that the equations in vacuum predict waves traveling at a fixed speed c, independent of any source.
+
+The treatment assumes SI-like structure with the vacuum permittivity and permeability set to convenient values, then moves to the Heaviside Lorentz units used in the rest of the course, in which the equations take their cleanest form and the fine structure constant is α = e²/4π. Expect six to eight focused hours; the algebra is straightforward, and the payoff is the wave equation and its speed.
+
+## Learning objectives
+
+- State the four Maxwell equations in differential and integral form and explain the physical content of each.
+
+- Compute simple electric and magnetic fields from charge and current distributions using the integral forms.
+
+- Derive the equation of charge conservation from the Maxwell equations.
+
+- Combine the equations in vacuum to obtain the wave equation for E and B and read off the speed of light.
+
+- Describe the polarization and transversality of a plane electromagnetic wave.
+
+- Compute the Poynting vector and the energy density of the field.
+
+- State the Lorentz force law and combine it with the Maxwell equations into a closed system.
+
+- Convert between SI and Heaviside Lorentz units and state Maxwell's equations in the units used in the rest of the course.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| E, B | Electric field and magnetic field |
+| ρ, j | Charge density and current density |
+| ε₀, μ₀ | Vacuum permittivity and permeability (SI) |
+| c | Speed of light, c² = 1/(ε₀μ₀) |
+| Φ_E, Φ_B | Electric and magnetic flux through a surface |
+| S | Poynting vector, energy flux of the electromagnetic field |
+| u | Electromagnetic energy density |
+| dS, dl | Vector surface element and line element |
+| Heaviside Lorentz units | Units with ε₀ = μ₀ = 1 and α = e²/4π, used from Lesson 38 onward |
+
+# 1 The electric field and Gauss's law
+
+## 1.1 Coulomb's law and superposition
+
+A point charge q at the origin produces a field E = (q/4πε₀) r̂/r², radially outward for positive q. The field of any charge distribution is the vector sum of the fields of its constituent point charges, because the equations governing E are linear. This superposition principle is the same linearity exploited throughout Lesson 1 and Lesson 2, and it is what allows fields to be Fourier decomposed into independent plane-wave modes (Section 5).
+
+## 1.2 Gauss's law
+
+The flux of E through any closed surface equals the enclosed charge divided by ε₀.
+
+$$ ∮_S E · dS = Q_enc/ε₀
+
+Applying the divergence theorem of Lesson 2 to the left side and writing Q_enc = ∫_V ρ d³x turns this into a statement that must hold for every volume V, hence a local, differential law.
+
+$$ ∇ · E = ρ/ε₀
+
+Gauss's law says that electric field lines begin and end on charge; there are no other sources or sinks. Equivalently, the number of field lines through any closed surface counts the charge inside, regardless of the surface's shape.
+
+### Worked example 1
+
+Find E outside a uniformly charged sphere of total charge Q and radius R. By symmetry E is radial and has the same magnitude on every sphere of radius r. Gauss's law on a sphere of radius r > R gives E(4πr²) = Q/ε₀, so E = (Q/4πε₀) r̂/r², identical to a point charge. Inside the sphere, only the enclosed charge Q(r/R)³ contributes, giving E = (Qr/4πε₀R³) r̂, which grows linearly with r rather than diverging.
+
+# 2 The magnetic field and Gauss's law for magnetism
+
+## 2.1 Absence of magnetic charge
+
+No isolated magnetic pole has ever been observed; magnetic field lines always close on themselves. The flux of B through any closed surface is zero.
+
+$$ ∮_S B · dS = 0  ⇒  ∇ · B = 0
+
+This equation has no source term, in sharp contrast to Gauss's law for E. It is the reason B can always be written as the curl of a vector potential (Lesson 8), since a divergence-free field is a curl, by the identity of Lesson 2.
+
+## 2.2 The Biot Savart law
+
+A steady current I along a wire produces a magnetic field
+
+$$ B(x) = (μ₀I/4π) ∮ dl × r̂ / r²
+
+This is the magnetic analogue of Coulomb's law, with current elements playing the role of charges and a cross product replacing the radial direction. It is not fundamental in the way Gauss's law is; it follows from the Ampere Maxwell law of Section 3, but it is the fastest route to the field of simple current configurations.
+
+### Worked example 2
+
+Find B on the axis of a circular loop of radius R carrying current I, at distance z from its center. Each element dl is perpendicular to r̂, and by symmetry only the component of dl × r̂ along the axis survives after integrating around the loop. That component is R/√(R² + z²) times the magnitude 1/√(R² + z²), so
+
+$$ B_z = μ₀I R² / [2(R² + z²)^(3/2)]
+
+At the center, z = 0, this reduces to the familiar B = μ₀I/2R.
+
+# 3 Ampere's law and Maxwell's correction
+
+## 3.1 Ampere's law
+
+A steady current produces a circulating magnetic field, related to the enclosed current by
+
+$$ ∮_C B · dl = μ₀ I_enc
+
+Applying Stokes's theorem of Lesson 2 to the left side, and writing I_enc = ∫_S j · dS, gives the local form ∇ × B = μ₀ j, valid for steady currents.
+
+## 3.2 The inconsistency and Maxwell's displacement current
+
+Take the divergence of ∇ × B = μ₀j. The left side vanishes identically, by the vector identity of Lesson 2, but the right side need not: charge conservation (Section 4) requires ∇·j = −∂ρ/∂t, which is nonzero whenever charge density changes. Ampere's law as stated is therefore inconsistent except for steady currents. Maxwell resolved this by adding a term, guessing correctly that a changing electric field acts as a source of B in the same way a current does.
+
+$$ ∇ × B = μ₀ j + μ₀ε₀ ∂E/∂t
+
+The added term μ₀ε₀∂E/∂t is the displacement current. Its divergence is μ₀ε₀ ∂(∇·E)/∂t = μ₀ ∂ρ/∂t by Gauss's law, which exactly cancels μ₀∇·j through the continuity equation. This single correction, added on grounds of mathematical consistency rather than direct measurement, is what makes electromagnetic waves possible: without it, a changing E could not generate a B and the argument of Section 5 would not go through.
+
+## 3.3 Faraday's law
+
+A changing magnetic flux induces an electromotive force around a loop.
+
+$$ ∮_C E · dl = − dΦ_B/dt = − d/dt ∫_S B · dS
+
+Applying Stokes's theorem to the left side gives the differential form.
+
+$$ ∇ × E = − ∂B/∂t
+
+Faraday's law is the time-reversed partner of the displacement current: a changing B generates a circulating E, just as a changing E, through Maxwell's correction, generates a circulating B. This symmetry between the two curl equations, broken only by the absence of magnetic charge, is what allows the two fields to sustain each other in a propagating wave.
+
+### Worked example 3
+
+A circular loop of radius a lies in a uniform field B(t) = B₀ sin ωt, perpendicular to the loop. The induced electromotive force is −dΦ_B/dt = −πa²B₀ω cos ωt. By symmetry the induced E is azimuthal and uniform in magnitude around the loop, so ∮E·dl = E(2πa), giving E = −(aB₀ω/2) cos ωt, directed to oppose the change in flux, in accordance with Lenz's law.
+
+# 4 The four equations and charge conservation
+
+## 4.1 The complete set
+
+@widths 2880 3312 3600
+| Name | Differential form | Integral form |
+| Gauss's law | ∇·E = ρ/ε₀ | ∮_S E·dS = Q_enc/ε₀ |
+| Gauss's law for magnetism | ∇·B = 0 | ∮_S B·dS = 0 |
+| Faraday's law | ∇×E = −∂B/∂t | ∮_C E·dl = −dΦ_B/dt |
+| Ampere Maxwell law | ∇×B = μ₀j + μ₀ε₀∂E/∂t | ∮_C B·dl = μ₀I_enc + μ₀ε₀ dΦ_E/dt |
+
+These four equations, together with the Lorentz force law of Section 6, are the complete classical theory of electromagnetism. Every result in classical optics, circuit theory, and electrical engineering is contained in them; so is every classical fact used later to motivate QED.
+
+## 4.2 Charge conservation
+
+Take the divergence of the Ampere Maxwell law: ∇·(∇×B) = 0 = μ₀∇·j + μ₀ε₀ ∂(∇·E)/∂t. Using Gauss's law for the last term gives
+
+$$ ∂ρ/∂t + ∇·j = 0
+
+This is the continuity equation: charge cannot be created or destroyed, only moved, and any local decrease of charge density is exactly accounted for by an outward current. It is not an independent postulate; it is forced by the mathematical structure of the Ampere Maxwell law. In Lesson 4 language it reads ∂_μj^μ = 0, and in QED this same equation, derived instead from the Dirac equation, expresses conservation of electric charge at the level of the electron field (Lesson 23).
+
+### Worked example 4
+
+Verify continuity for a point charge moving at constant velocity v. Its charge density is ρ(x, t) = qδ³(x − vt) and its current is j = qvδ³(x − vt). Then ∂ρ/∂t = −qv·∇δ³(x − vt), using the chain rule on the argument x − vt, and ∇·j = qv·∇δ³(x − vt). The two terms are exact negatives, so ∂ρ/∂t + ∇·j = 0, confirming continuity for this simplest possible source.
+
+# 5 Electromagnetic waves
+
+## 5.1 The wave equation
+
+In vacuum, with ρ = 0 and j = 0, take the curl of Faraday's law.
+
+$$ ∇×(∇×E) = −∂(∇×B)/∂t = −μ₀ε₀ ∂²E/∂t²
+
+The vector identity ∇×(∇×E) = ∇(∇·E) − ∇²E, together with ∇·E = 0 in vacuum, reduces the left side to −∇²E. Hence
+
+$$ ∂²E/∂t² = (1/μ₀ε₀) ∇²E,    and identically  ∂²B/∂t² = (1/μ₀ε₀) ∇²B
+
+Comparing with the wave equation of Lesson 2, the speed is
+
+$$ c = 1/√(μ₀ε₀)
+
+Maxwell computed this combination from purely electrical and magnetic measurements, unrelated at the time to any measurement of light, and found a number close to the known speed of light. The conclusion, that light is an electromagnetic wave, is one of the great unifications of physics and the direct ancestor of the fact that the photon is the quantum of this same field (Lesson 37).
+
+## 5.2 Plane wave solutions
+
+Try E = E₀ cos(k·x − ωt) with a fixed polarization vector E₀. Substituting into the wave equation reproduces the dispersion relation of Lesson 2, ω = c|k|, for any direction of E₀ and any k. But E must also satisfy Gauss's law: ∇·E = −k·E₀ sin(k·x − ωt) = 0 requires
+
+$$ k · E₀ = 0
+
+The electric field of a plane wave is transverse: perpendicular to the direction of propagation. Faraday's law then fixes B in terms of E: substituting the plane wave into ∇×E = −∂B/∂t gives −k×E₀ sin(k·x−ωt) = −∂B/∂t, so
+
+$$ B = (k̂ × E)/c,    |B| = |E|/c
+
+B is also transverse, and it is perpendicular to E as well. A propagating electromagnetic wave is therefore described by two independent transverse directions for E, a fact that becomes the statement that the photon has two polarization states rather than the three of a generic massive vector particle (Lesson 37).
+
+### Worked example 5
+
+For E = E₀ x̂ cos(kz − ωt), verify k·E₀ = 0 and compute B. Here k = kẑ, and k̂×E = ẑ×x̂ E₀cos(kz−ωt) = ŷE₀cos(kz−ωt), so B = (E₀/c) ŷ cos(kz − ωt). The fields E, B, and the direction of propagation k̂ form a right-handed triad at every instant, and both fields oscillate in phase.
+
+## 5.3 Polarization
+
+A general transverse plane wave with fixed k is a superposition of two independent polarizations, conventionally chosen orthogonal, such as x̂ and ŷ for propagation along z. Linear polarization has the two components in phase; circular polarization has them 90° out of phase with equal amplitude, so that the direction of E rotates as the wave passes a fixed point. The polarization vector, and its quantum-mechanical analogue ε^μ attached to each photon, will reappear as the object contracted with the electron current at every QED vertex involving an external photon (Lesson 51).
+
+# 6 Energy and momentum in the field, and the Lorentz force
+
+## 6.1 The Lorentz force law
+
+The force on a charge q moving with velocity v in fields E and B is
+
+$$ F = q(E + v × B)
+
+This is the same law derived from the charged-particle Lagrangian in Lesson 5, stated here as the fifth postulate of classical electromagnetism, needed to make the Maxwell equations a complete dynamical theory: the fields tell charges how to move, and, through ρ and j, the charges tell the fields how to change.
+
+## 6.2 Energy density and the Poynting vector
+
+The rate of work done by the field on charges per unit volume is j·E. Using the Maxwell equations to eliminate j in favor of the fields, and again the identity ∇·(E×B) = B·(∇×E) − E·(∇×B), one finds the local statement of energy conservation.
+
+$$ ∂u/∂t + ∇·S = −j·E,    u = (1/2)(ε₀E² + B²/μ₀),    S = E × B/μ₀
+
+The quantity u is the energy density stored in the field, and S, the Poynting vector, is the energy flux: the rate at which the field carries energy through a unit area. The term −j·E on the right accounts for energy transferred to or from moving charges. A propagating wave with no charges present simply carries its energy along at speed c, with u and |S|/c equal for the plane wave of Section 5.2.
+
+### Worked example 6
+
+For the plane wave of Worked example 5, compute u and S. With B = E/c, u = (1/2)(ε₀E² + E²/(μ₀c²)) = ε₀E², using μ₀c² = 1/ε₀. The Poynting vector is S = E×B/μ₀ = (E₀²/μ₀c) cos²(kz−ωt) ẑ = ε₀cE₀²cos²(kz−ωt) ẑ, so |S| = cu: energy flows at the speed of light in the direction of propagation, as it must for a field with no rest frame (Lesson 3).
+
+# 7 Heaviside Lorentz units
+
+## 7.1 Rationalized units without ε₀ and μ₀
+
+The factors of 4π and ε₀ scattered through the SI equations are conventions, not physics. From this point in the course, following the convention set in Lesson 3, the Maxwell equations are written in Heaviside Lorentz units, in which ε₀ = μ₀ = 1 and c = 1.
+
+$$ ∇·E = ρ,    ∇·B = 0,    ∇×E = −∂B/∂t,    ∇×B = j + ∂E/∂t
+
+Coulomb's law becomes E = q r̂/(4πr²): the 4π has moved from the field equations into the force law, which is the rationalization referred to by the name. The charge of the electron in these units satisfies
+
+$$ α = e²/(4π) ≈ 1/137.036
+
+matching the definition already used in Lesson 3. Converting a result to SI units requires reinserting the correct powers of ε₀ and c, exactly as natural units are converted back using ℏc in Section 6.2 of Lesson 3.
+
+## 7.2 Why this convention is used in QED
+
+Quantum electrodynamics is built from the Lagrangian of Lesson 41, in which the field tensor appears as −¼F_μνF^μν with no additional constants. Heaviside Lorentz units are the choice that makes this term, and the coupling term −eψ̄γ^μψA_μ, free of extra factors of 4π or ε₀; those factors reappear only in the single combination α when a cross section is finally converted to a number. Every equation from Lesson 37 onward assumes this convention.
+
+### Worked example 7
+
+Rewrite Coulomb's law and the Bohr radius result of Lesson 3 in Heaviside Lorentz units. The potential energy between two charges is V(r) = e²/(4πr) = α/r, using e² = 4πα. The Bohr radius, ℏ²/(m e²/4πε₀) in SI form, becomes 1/(αm) in natural Heaviside Lorentz units, exactly the result quoted in Lesson 3 without any leftover 4πε₀.
+
+# 8 Connections to QED
+
+@widths 3264 6528
+| Maxwell equation or concept | Later role in QED |
+| ∇·B = 0 | B is a curl; existence of the vector potential A (Lesson 8) |
+| ∇×E = −∂B/∂t | Together with ∇·B = 0, allows E and B to be written from a single four-potential |
+| Displacement current μ₀ε₀∂E/∂t | Makes the equations covariant; becomes part of ∂_μF^μν = j^ν (Lesson 42) |
+| Charge conservation ∂ρ/∂t + ∇·j = 0 | ∂_μj^μ = 0 from the Dirac equation (Lesson 23); Noether current of the U(1) symmetry (Lesson 30) |
+| Wave equation and speed c | Massless photon with E = \|p\| (Lessons 3, 37) |
+| Transversality k·E₀ = 0 | Two physical photon polarizations; gauge invariance removes the other two (Lessons 37, 72) |
+| Poynting vector and energy density | Field energy and momentum operators after quantization (Lesson 37) |
+| Lorentz force F = q(E + v×B) | Classical limit of the electron photon vertex at low momentum transfer |
+| α = e²/4π | The QED expansion parameter used in every perturbative calculation from Lesson 43 onward |
+
+Maxwell's equations are the classical field equations that QED quantizes. Lesson 8 rewrites them in terms of potentials, revealing the gauge freedom that is not visible in E and B directly; Lesson 42 rewrites them again in the covariant tensor form ∂_μF^μν = j^ν, ∂_[αF_βγ] = 0, the form in which they will actually be used from that point onward.
+
+# 9 Summary
+
+1. Gauss's law ties the divergence of E to charge density; Gauss's law for magnetism says B has no sources, only closed field lines.
+
+2. Faraday's law and the Ampere Maxwell law relate the curls of E and B to changing B and to current plus changing E respectively.
+
+3. The displacement current, added for mathematical consistency, is what allows a changing E to generate B and hence allows waves to exist.
+
+4. Charge conservation, ∂ρ/∂t + ∇·j = 0, follows automatically from the Ampere Maxwell law and Gauss's law.
+
+5. In vacuum the equations combine into a wave equation for E and B with speed c = 1/√(μ₀ε₀).
+
+6. A plane electromagnetic wave has E and B transverse to k and to each other, with |B| = |E|/c and two independent polarizations.
+
+7. The Poynting vector S = E×B/μ₀ carries field energy at speed c; local energy conservation reads ∂u/∂t + ∇·S = −j·E.
+
+8. Heaviside Lorentz units set ε₀ = μ₀ = c = 1 and place all remaining constants into α = e²/4π ≈ 1/137, the convention used from here on.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Use Gauss's law to find E inside and outside an infinite line charge of linear density λ. |
+| 2 | Use Gauss's law to find E inside and outside an infinite charged sheet of surface density σ. |
+| 3 | Use Ampere's law to find B inside and outside a long straight wire of radius R carrying uniform current density and total current I. |
+| 4 | Show that the displacement current inside a parallel-plate capacitor being charged reproduces exactly the current I flowing in the wires, so that Ampere's law with the correction gives a consistent B outside the capacitor. |
+| 5 | Derive the continuity equation from the Ampere Maxwell law and Gauss's law, filling in every step. |
+| 6 | Derive the wave equation for B directly, by taking the curl of the Ampere Maxwell law in vacuum. |
+| 7 | For E = E₀ ŷ cos(kx + ωt), find the direction of propagation, verify transversality, and compute B. |
+| 8 | Show that a linearly polarized wave can be written as the sum of two circularly polarized waves of opposite handedness with equal amplitude. |
+| 9 | Compute the time-averaged Poynting vector for E = E₀ x̂ cos(kz − ωt) and express the result in terms of the root-mean-square field. |
+| 10 | Show that ∇·S + ∂u/∂t = −j·E using the Maxwell equations and the vector identity ∇·(E×B) = B·(∇×E) − E·(∇×B). |
+| 11 | A charge q moves in a uniform E field with no B field, starting from rest. Solve for v(t) nonrelativistically and state at what speed the nonrelativistic approximation becomes unreliable. |
+| 12 | Rewrite Gauss's law and the Ampere Maxwell law in Heaviside Lorentz units and verify that setting j = 0, ρ = 0 still gives waves with speed 1. |
+| 13 | Express the classical electron radius r_e = e²/(4πε₀ m c²) in Heaviside Lorentz and natural units, and check it against Worked example 5 of Lesson 3. |
+| 14 | Two charges +q and −q are separated by a fixed small distance d, forming a dipole p = qd. Using superposition of two point-charge fields, sketch how E falls off with distance compared with a single point charge, and explain why in terms of Gauss's law applied to a large sphere. |
+| 15 | Show that ∇×(∇×E) = ∇(∇·E) − ∇²E for E = E₀cos(k·x − ωt) with k·E₀ = 0, by direct differentiation. |
+| 16 | Challenge: starting from the four Maxwell equations in vacuum, derive that ∇²φ and each Cartesian component of A (from Lesson 8) obey a wave equation with a source term, by first expressing E and B through the potentials, and identify the operator that appears. |
+
+# Solutions
+
+**1.** Using a coaxial cylinder of radius r and length L, Gauss's law gives E(2πrL) = λL/ε₀, so E = λ/(2πε₀r) outside a line of zero radius; a uniformly charged cylinder of radius R has E = λr/(2πε₀R²) for r < R and the same 1/r form for r > R.
+
+**2.** A pillbox straddling the sheet gives E(2A) = σA/ε₀ (both faces contribute equally by symmetry), so E = σ/(2ε₀), directed away from the sheet on each side, independent of distance.
+
+**3.** Outside, ∮B·dl = B(2πr) = μ₀I, so B = μ₀I/(2πr). Inside, the enclosed current is I(r/R)², so B(2πr) = μ₀I r²/R², giving B = μ₀Ir/(2πR²), rising linearly to match the outside field at r = R.
+
+**4.** Between the plates, E = σ(t)/ε₀ with σ(t) = Q(t)/A, so the displacement current density is ε₀∂E/∂t = (1/A)dQ/dt = I/A, and integrated over the plate area A this gives exactly I, matching the wire current and making Ampere's law give the same B just outside the capacitor as just outside the wire.
+
+**5.** ∇·(∇×B) = 0 identically. From the Ampere Maxwell law, 0 = μ₀∇·j + μ₀ε₀∂(∇·E)/∂t. Using Gauss's law, ∇·E = ρ/ε₀, the second term is μ₀∂ρ/∂t, so 0 = μ₀(∇·j + ∂ρ/∂t), giving ∂ρ/∂t + ∇·j = 0.
+
+**6.** ∇×(∇×B) = −μ₀∇×j + μ₀ε₀∂(∇×E)/∂t. In vacuum j = 0 and ∇×E = −∂B/∂t, so ∇×(∇×B) = −μ₀ε₀∂²B/∂t². The left side is ∇(∇·B) − ∇²B = −∇²B, giving ∂²B/∂t² = c²∇²B.
+
+**7.** The wave propagates along −x (phase kx + ωt is constant when x decreases as t increases). k = −kx̂, and k·E₀ = 0 is satisfied since E is along ŷ. B = (k̂×E)/c = (−x̂×ŷ)(E₀/c)cos(kx+ωt) = −ẑ(E₀/c)cos(kx+ωt).
+
+**8.** Write E₀(x̂cos φ − ŷsin φ) as (E₀/2)[(x̂cos φ − ŷsin φ) + i(x̂sin φ + ŷcos φ)] + complex conjugate structure; explicitly, x̂cos(kz−ωt) = (1/2)[x̂cos(kz−ωt) + ŷsin(kz−ωt)] + (1/2)[x̂cos(kz−ωt) − ŷsin(kz−ωt)], and each bracket is a circularly polarized wave of opposite handedness and half the amplitude.
+
+**9.** The instantaneous Poynting vector is S = ε₀cE₀²cos²(kz−ωt)ẑ from Worked example 6. Averaging cos² over a cycle gives 1/2, so ⟨S⟩ = (1/2)ε₀cE₀²ẑ = ε₀cE_rms²ẑ with E_rms = E₀/√2.
+
+**10.** j·E = E·[(∇×B)/μ₀ − ε₀∂E/∂t] using the Ampere Maxwell law solved for j. Also B·(∇×E) = −B·∂B/∂t. Then ∇·(E×B) = B·(∇×E) − E·(∇×B) = −B·∂B/∂t − μ₀j·E − μ₀ε₀E·∂E/∂t. Dividing by μ₀ and rearranging gives ∇·S + ∂/∂t[(ε₀/2)E² + B²/(2μ₀)] = −j·E.
+
+**11.** v(t) = (qE/m)t, valid while v ≪ c. The approximation fails when v approaches c, that is when t approaches mc/(qE); beyond that the relativistic momentum equation of Lesson 3 must be used instead.
+
+**12.** ∇·E = ρ and ∇×B = j + ∂E/∂t. With ρ = j = 0, the same manipulation as Section 5.1 gives ∂²E/∂t² = ∇²E, the wave equation with speed 1, consistent with c = 1 in these units.
+
+**13.** r_e = e²/(4πε₀mc²) in SI becomes α/m in Heaviside Lorentz natural units, since e²/4π = α and c = 1. This matches 2.82 fm found in Worked example 5 of Lesson 3.
+
+**14.** The dipole field falls off as 1/r³ at large distance rather than 1/r², because the leading 1/r² parts of the two point charges cancel to leading order, leaving only the next term in their difference. Gauss's law applied to a sphere enclosing both charges gives zero net flux (Q_enc = q − q = 0), consistent with a field that falls off faster than 1/r².
+
+**15.** Direct differentiation of E₀cos(k·x−ωt) gives ∇²E = −|k|²E, and ∇(∇·E) = ∇(−k·E₀ sin(k·x−ωt)) = 0 since k·E₀ = 0 by transversality. So ∇×(∇×E) = 0 − (−|k|²E) = |k|²E, consistent with −∂²E/∂t² = −ω²E and ω² = c²|k|².
+
+**16.** With E = −∇φ − ∂A/∂t and B = ∇×A (Lesson 8), Gauss's law gives ∇²φ + ∂(∇·A)/∂t = −ρ/ε₀, and the Ampere Maxwell law gives ∇(∇·A) − ∇²A + μ₀ε₀∂/∂t(∇φ + ∂A/∂t) = μ₀j. In the Lorenz gauge, chosen in Lesson 8 so that ∇·A + (1/c²)∂φ/∂t = 0, the cross terms cancel and both equations become □φ = ρ/ε₀ and □A = μ₀j, sourced wave equations with the d'Alembertian operator □ = ∂_t²/c² − ∇² of Lesson 4.
+
+# Mastery checklist
+
+- I can state all four Maxwell equations in both differential and integral form and explain what each one says physically.
+
+- I can use Gauss's law and Ampere's law to find the field of a symmetric charge or current distribution.
+
+- I can explain in one sentence why the displacement current was necessary and what it fixed.
+
+- I can derive charge conservation from the field equations without looking it up.
+
+- I can derive the wave equation for E or B in vacuum and state the speed in terms of ε₀ and μ₀.
+
+- I can verify transversality of a plane wave and compute B from E, or E from B.
+
+- I can compute the Poynting vector and energy density of a plane wave and relate them by S = cu.
+
+- I can convert a formula between SI units and Heaviside Lorentz natural units using α = e²/4π.

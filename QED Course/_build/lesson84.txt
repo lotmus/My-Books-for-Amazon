@@ -33,7 +33,7 @@ Every calculation so far has been in the vacuum. The early universe, the core of
 | m_D | Debye mass; 1/m_D is the screening length |
 | Σ∫ | Shorthand for TΣ_n ∫d³k/(2π)³ |
 
-Natural units, ħ = c = k_B = 1. In display equations, square brackets enclose function arguments and visible groupings.
+Natural units, ℏ = c = k_B = 1. In display equations, square brackets enclose function arguments and visible groupings.
 
 # 1 The trace as a path integral
 
@@ -107,7 +107,7 @@ The integral is done by expanding the logarithm, −Σ_j e^{−jk/T}/j, and inte
 
 Find the energy density of the cosmic microwave background, T = 2.7255 K.
 
-kT = 8.617×10⁻⁵ eV/K × 2.7255 K = 2.349×10⁻⁴ eV. In ordinary units u = (π²/15)(kT)⁴/(ħc)³. With ħc = 1.9733×10⁻⁵ eV cm, (ħc)³ = 7.684×10⁻¹⁵ eV³ cm³ and (kT)⁴ = 3.044×10⁻¹⁵ eV⁴. So u = 0.658 × 3.044/7.684 eV/cm³ = 0.261 eV/cm³. The number density, 2ζ(3)T³/π², is 411 photons per cm³. The mean energy per photon is u/n = 6.3×10⁻⁴ eV, about 2.7T.
+kT = 8.617×10⁻⁵ eV/K × 2.7255 K = 2.349×10⁻⁴ eV. In ordinary units u = (π²/15)(kT)⁴/(ℏc)³. With ℏc = 1.9733×10⁻⁵ eV cm, (ℏc)³ = 7.684×10⁻¹⁵ eV³ cm³ and (kT)⁴ = 3.044×10⁻¹⁵ eV⁴. So u = 0.658 × 3.044/7.684 eV/cm³ = 0.261 eV/cm³. The number density, 2ζ(3)T³/π², is 411 photons per cm³. The mean energy per photon is u/n = 6.3×10⁻⁴ eV, about 2.7T.
 
 ## 3.2 Electrons and positrons
 
@@ -135,7 +135,7 @@ The plasma screens charge beyond a distance 1/m_D = √3/(eT). This is the relat
 
 Find the screening length in the e⁺e⁻γ plasma of the early universe at T = 10 MeV, and compare it with the mean spacing between particles.
 
-m_D = eT/√3, with e = √(4πα) = 0.3028, so m_D = 0.1748T = 1.748 MeV. The screening length is ħc/m_D = 197.3 MeV fm/1.748 MeV = 113 fm. The number density of photons is 2ζ(3)T³/π² = 0.2436T³. Each fermionic state has 3/4 of a bosonic state's density, so the four e⁺e⁻ states add (3/2) × 0.2436T³, for a total of 0.609T³. At T = 10 MeV this is 7.9×10⁻⁵ fm⁻³, a mean spacing of 23 fm. A cube one screening length on a side therefore holds about 115 particles. The Debye picture treats the plasma as a continuum, and with this many particles inside the screening cloud it is self-consistent. The ratio m_D/T = e/√3 is small because e is small. That smallness is what makes the perturbative treatment of a QED plasma work.
+m_D = eT/√3, with e = √(4πα) = 0.3028, so m_D = 0.1748T = 1.748 MeV. The screening length is ℏc/m_D = 197.3 MeV fm/1.748 MeV = 113 fm. The number density of photons is 2ζ(3)T³/π² = 0.2436T³. Each fermionic state has 3/4 of a bosonic state's density, so the four e⁺e⁻ states add (3/2) × 0.2436T³, for a total of 0.609T³. At T = 10 MeV this is 7.9×10⁻⁵ fm⁻³, a mean spacing of 23 fm. A cube one screening length on a side therefore holds about 115 particles. The Debye picture treats the plasma as a continuum, and with this many particles inside the screening cloud it is self-consistent. The ratio m_D/T = e/√3 is small because e is small. That smallness is what makes the perturbative treatment of a QED plasma work.
 
 # 5 Real time and rates
 
@@ -215,7 +215,7 @@ It used the fermionic coherent-state trace without deriving it. It quoted the pr
 
 **9.** s = −∂(F/V)/∂T = 4π²T³/45. u = F/V + Ts = −π²T⁴/45 + 4π²T⁴/45 = π²T⁴/15.
 
-**10.** n = 2 × 1.202/π² × (kT/ħc)³ = 0.2436 × (2.349×10⁻⁴/1.9733×10⁻⁵ cm⁻¹)³ = 0.2436 × 1687 cm⁻³ = 411 cm⁻³.
+**10.** n = 2 × 1.202/π² × (kT/ℏc)³ = 0.2436 × (2.349×10⁻⁴/1.9733×10⁻⁵ cm⁻¹)³ = 0.2436 × 1687 cm⁻³ = 411 cm⁻³.
 
 **11.** Σ(−1)^{j+1}/j⁴ = Σ1/j⁴ − 2Σ1/(2j)⁴ = ζ(4)(1 − 2/16) = (7/8)ζ(4).
 

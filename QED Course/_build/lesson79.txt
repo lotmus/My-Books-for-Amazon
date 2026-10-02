@@ -33,7 +33,7 @@ This course built QED from operators: canonical quantization, the Dyson series, 
 | θ, θ̄ | Grassmann (anticommuting) variables |
 | ⟨…⟩₀ | Average in the free theory, normalized so ⟨1⟩₀ = 1 |
 
-Natural units, ħ = 1, except in Section 2, where ħ is restored to show the classical limit. In display equations, square brackets enclose function arguments and visible groupings.
+Natural units, ℏ = 1, except in Section 2, where ℏ is restored to show the classical limit. In display equations, square brackets enclose function arguments and visible groupings.
 
 # 1 Time slicing
 
@@ -75,19 +75,19 @@ Applying this N − 1 times to the time-sliced integral gives the exact free ker
 
 ## 2.1 Stationary phase
 
-Restore ħ. The weight is e^{iS/ħ}. When S changes by much more than ħ between neighboring paths, their phases oscillate rapidly and cancel. The contributions that survive come from paths near a point where S is stationary, δS = 0. Those are the solutions of the Euler–Lagrange equation. Classical mechanics is therefore the stationary-phase approximation to quantum mechanics. Paths that differ from the classical one by enough to change S by about ħ still contribute coherently. That band of paths is where quantum behavior lives.
+Restore ℏ. The weight is e^{iS/ℏ}. When S changes by much more than ℏ between neighboring paths, their phases oscillate rapidly and cancel. The contributions that survive come from paths near a point where S is stationary, δS = 0. Those are the solutions of the Euler–Lagrange equation. Classical mechanics is therefore the stationary-phase approximation to quantum mechanics. Paths that differ from the classical one by enough to change S by about ℏ still contribute coherently. That band of paths is where quantum behavior lives.
 
 Expanding about the classical path, q = q_cl + η with η = 0 at both ends, the action is S_cl plus a term quadratic in η, because the linear term vanishes at a stationary point. For a Lagrangian at most quadratic in q, nothing else appears, and the stationary-phase approximation is exact.
 
 ## 2.2 How wide is the band?
 
-For a free particle, a path that deviates by η over a time T changes the action by about mη²/T. Setting this equal to ħ gives the width η ≈ √(ħT/m). This is the same √(ε/m) scaling seen in Section 1.2, now for the whole interval.
+For a free particle, a path that deviates by η over a time T changes the action by about mη²/T. Setting this equal to ℏ gives the width η ≈ √(ℏT/m). This is the same √(ε/m) scaling seen in Section 1.2, now for the whole interval.
 
 ### Worked example 2
 
 Estimate the width of the band of contributing paths for a dust grain of mass 1 μg over 1 s, and for an electron over 1 fs.
 
-For the grain, √(ħT/m) = √(1.055×10⁻³⁴ × 1 / 10⁻⁹) m = 3.2×10⁻¹³ m, smaller than a nucleus is wide. Only the classical trajectory matters. For the electron, √(1.055×10⁻³⁴ × 10⁻¹⁵ / 9.11×10⁻³¹) m = 3.4×10⁻¹⁰ m, the size of an atom. That is the time it takes an atomic electron to go around once, so atomic physics cannot be done with classical orbits. The criterion compares S with ħ, not the size of the object.
+For the grain, √(ℏT/m) = √(1.055×10⁻³⁴ × 1 / 10⁻⁹) m = 3.2×10⁻¹³ m, smaller than a nucleus is wide. Only the classical trajectory matters. For the electron, √(1.055×10⁻³⁴ × 10⁻¹⁵ / 9.11×10⁻³¹) m = 3.4×10⁻¹⁰ m, the size of an atom. That is the time it takes an atomic electron to go around once, so atomic physics cannot be done with classical orbits. The criterion compares S with ℏ, not the size of the object.
 
 # 3 Euclidean time and the ground state
 
@@ -261,7 +261,7 @@ This lesson did not define the path-integral measure rigorously. It treated Dq a
 
 1. Slicing e^{−iHT} into short steps and inserting position states gives ⟨q_f|e^{−iHT}|q_i⟩ = ∫Dq e^{iS[q]}, with a Gaussian factor √(m/2πiε) per step.
 
-2. Classical mechanics is the stationary-phase limit. Paths within a band of width √(ħT/m) of the classical one contribute coherently.
+2. Classical mechanics is the stationary-phase limit. Paths within a band of width √(ℏT/m) of the classical one contribute coherently.
 
 3. With t = −iτ, iS = −S_E. A long Euclidean time projects onto the ground state, and the decay rate is E₀. For the oscillator, the fluctuation determinant gives E₀ = ω/2.
 
@@ -306,7 +306,7 @@ This lesson did not define the path-integral measure rigorously. It treated Dq a
 
 **4.** The classical path is a straight line with velocity (q_f − q_i)/T, so S_cl = m(q_f − q_i)²/2T, the exponent of the kernel.
 
-**5.** √(ħT/m) = √(1.055×10⁻³⁴ × 0.5 / 0.15) m ≈ 1.9×10⁻¹⁷ m. Only the classical trajectory matters.
+**5.** √(ℏT/m) = √(1.055×10⁻³⁴ × 0.5 / 0.15) m ≈ 1.9×10⁻¹⁷ m. Only the classical trajectory matters.
 
 **6.** dt = −idτ and q̇² = −(dq/dτ)², so i∫dt[mq̇²/2 − V] = i(−i)∫dτ[−m(dq/dτ)²/2 − V] = −∫dτ[m(dq/dτ)²/2 + V].
 

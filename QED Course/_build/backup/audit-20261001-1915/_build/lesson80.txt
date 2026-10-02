@@ -1,0 +1,339 @@
+TITLE: Generating Functionals
+TAGLINE: Couple a source J to the field and the path integral becomes Z[J], a single functional whose derivatives are every correlator; its free form gives the propagator, the Yukawa and Coulomb forces between static sources, and the Poisson emission of Lesson 74, and its logarithm W[J] keeps only connected diagrams
+NUM: 80
+NEXT: Lesson 81 Legendre-transforms W[J] into the effective action Γ[φ], whose derivatives are the one-particle-irreducible vertices and whose loop expansion corrects the classical action.
+
+# How to use this lesson
+
+Lesson 79 wrote every correlator as a ratio of path integrals with fields inserted. This lesson packages all of those ratios into one object. Adding a source term ∫Jφ to the action turns the vacuum amplitude into a functional Z[J]. Differentiating with respect to J(x) brings down φ(x), so every time-ordered correlator becomes a functional derivative of Z at J = 0. For a free field the integral can be done exactly. The result, Z[J] = Z[0] exp(−½∫JD_FJ), contains the propagator and all of Wick's theorem. It also has a direct physical meaning: for static sources it gives the energy between them, which is the Yukawa potential for a scalar and the Coulomb potential for the photon, and for moving sources its magnitude is the Poisson probability of emitting nothing. The logarithm W[J] = −i log Z[J] generates connected correlators only. Expect six to eight hours.
+
+## Learning objectives
+
+- Derive moments of a finite-dimensional Gaussian by differentiating its generating function, and see Wick's theorem as the expansion of an exponential.
+
+- Define Z[J] and obtain ⟨Tφ(x₁)…φ(x_n)⟩ as (−i)ⁿ times the nth functional derivative of Z, divided by Z[0].
+
+- Complete the square to obtain Z₀[J] = Z₀[0] exp(−½∫J D_F J), with the signs and factors of i fixed by the course's D_F = i/(k² − m² + iε).
+
+- Compute the energy of static sources from Z[J] = e^{−iET}, and obtain the Yukawa and Coulomb potentials with their signs.
+
+- Relate |Z[J]|² to the Poisson probability of emitting no quanta.
+
+- Define W[J] = −i log Z[J], explain why it generates connected correlators, and identify δW/δJ as the classical field in the presence of the source.
+
+- Write the generating functional with Grassmann sources and recover the Dirac propagator.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| J(x) | Real external source coupled to φ through ∫d⁴x Jφ |
+| Z[J] | ∫Dφ exp(iS[φ] + i∫Jφ), the vacuum-to-vacuum amplitude in the presence of J |
+| D_F(x − y) | Feynman propagator, i/(k² − m² + iε) in momentum space, so D_F = iK⁻¹ (Lesson 79) |
+| δ/δJ(x) | Functional derivative, δJ(y)/δJ(x) = δ⁴(x − y) |
+| W[J] | −i log Z[J], generator of connected correlators |
+| η, η̄ | Grassmann sources for ψ̄ and ψ |
+| j^μ | A conserved external current coupled to A_μ |
+
+Natural units. In display equations, square brackets enclose function arguments and visible groupings.
+
+# 1 Sources in finite dimensions
+
+## 1.1 A generating function
+
+Take Lesson 79's Gaussian in n real variables and add a linear term j·x:
+
+$$ Z[j] = ∫ dⁿx e^(− ½ xᵀ A x + jᵀ x) = Z[0] e^(½ jᵀ A^(−1) j)
+
+To see this, shift x = y + A⁻¹j. The exponent becomes −½yᵀAy + ½jᵀA⁻¹j, and the shift does not change the measure. Each derivative ∂/∂j_i brings down x_i, so
+
+$$ ⟨x_(i_1) … x_(i_k)⟩ = (1/(Z[0])) ∂/∂j_(i_1) … ∂/∂j_(i_k) Z[j] |_(j=0)
+
+One function holds every moment. That is the whole idea of this lesson, and the rest is bookkeeping with factors of i.
+
+## 1.2 Wick's theorem as an expansion
+
+Expand e^{½jA⁻¹j} in powers of j. The term with k factors of ½jA⁻¹j contains 2k j's, and setting j = 0 after 2k derivatives keeps only that term. The 2k derivatives distribute the indices over the k factors of A⁻¹ in every possible way, and the 1/k! and the ½s cancel the overcounting. What remains is the sum over all distinct pairings. Wick's theorem is the Taylor expansion of an exponential of a quadratic.
+
+### Worked example 1
+
+For one variable, Z(j)/Z(0) = e^{j²/2a}. Find ⟨x⁴⟩ and ⟨x⁶⟩.
+
+The series is Σ_k (j²/2a)^k/k!. The j⁴ term is j⁴/(8a²), and its fourth derivative at j = 0 is 4!/(8a²) = 3/a². The j⁶ term is j⁶/(48a³), and its sixth derivative is 720/(48a³) = 15/a³. These are the 3 and 15 pairings of four and six objects, each pairing worth one factor 1/a = ⟨x²⟩. The general result is ⟨x^{2k}⟩ = (2k − 1)!!/a^k, the formula Lesson 79 used in its zero-dimensional model.
+
+# 2 Z[J] for fields
+
+## 2.1 Functional derivatives
+
+For fields, the index i becomes the spacetime point x, and the sum jᵀx becomes ∫d⁴x J(x)φ(x). A functional derivative is defined by δJ(y)/δJ(x) = δ⁴(x − y), so
+
+$$ (δ)/(δJ[x]) ∫ d⁴y J[y] φ[y] = φ[x]
+
+Define
+
+$$ Z[J] = ∫ Dφ exp[ i S[φ] + i ∫ d⁴x J[x] φ[x] ]
+
+The source enters with the same i as the action, so it is a term in the Lagrangian, ℒ → ℒ + Jφ. Each derivative −iδ/δJ(x) brings down one φ(x), and Lesson 79, Section 4.2, showed that the path integral orders the insertions in time. Therefore
+
+$$ ⟨Ω| T φ[x_1] … φ[x_n] |Ω⟩ = (1/(Z[0])) [−i (δ)/(δJ[x_1])] … [−i (δ)/(δJ[x_n])] Z[J] |_(J=0)
+
+Lesson 45's time-ordered products, and the interacting ones of Lesson 49, are all derivatives of this one functional.
+
+## 2.2 The source as physics
+
+J is not only a bookkeeping device. A term Jφ in ℒ is an external agent that pushes on the field: a static nucleus for the electron's Coulomb field, an antenna for photons, a classical current in Lesson 74's soft-photon problem. Z[J] is then the amplitude for the vacuum at early times to remain the vacuum at late times while the source acts:
+
+$$ (Z[J])/(Z[0]) = ⟨0, out | 0, in⟩_J
+
+Sections 4 and 5 read physics directly from this amplitude.
+
+### Worked example 2
+
+What is the first derivative of Z at J = 0, and what does it mean?
+
+The rule gives −iδZ/δJ(x)|₀ = Z[0]⟨Ω|φ(x)|Ω⟩, the vacuum expectation value of the field. In the free theory the integrand is even under φ → −φ, so it vanishes. For the photon in QED it vanishes by charge conjugation (Lesson 30), because A_μ is C-odd and the vacuum is C-even. A theory in which it does not vanish has a condensate. Lesson 86 meets one in the Higgs field. The first nontrivial derivative of a free theory is therefore the second.
+
+# 3 The free generating functional
+
+## 3.1 Completing the square
+
+For the free scalar, Lesson 79 wrote S₀ = ½∫φKφ with K = −(∂² + m²) and D_F = iK⁻¹. With the source,
+
+$$ ½ φ K φ + J φ = ½ [φ + K^(−1) J] K [φ + K^(−1) J] − ½ J K^(−1) J
+
+where ∫d⁴x and ∫d⁴y are implied and K is symmetric after integrating by parts. Shift φ by −K⁻¹J. This is a linear change of variables, under which Dφ is invariant. The Gaussian over the shifted field gives Z₀[0], and what remains is exp(−(i/2)∫JK⁻¹J). Using K⁻¹ = −iD_F,
+
+$$ Z_0[J] = Z_0[0] exp[ − ½ ∫ d⁴x d⁴y J[x] D_F[x − y] J[y] ]
+
+This formula, with D_F the course's propagator, is the free field theory written as a single exponential. The iε in D_F is the convergence factor of Lesson 79, Section 4.3, and it is what makes the shift legitimate.
+
+## 3.2 Two and four points
+
+Apply Section 2.1 twice. The first derivative gives −iδ/δJ(y) acting on the exponent: −i × (−∫D_F(y − z)J(z)) = i∫D_F(y − z)J(z). The second derivative, −iδ/δJ(x), of that factor gives −i × i D_F(x − y) = D_F(x − y). All other terms still contain a J and vanish at J = 0. Therefore
+
+$$ ⟨0| T φ[x] φ[y] |0⟩ = D_F[x − y]
+
+which is Lesson 45's result, now obtained without commutators.
+
+### Worked example 3
+
+Find the free four-point function from Z₀[J].
+
+Write E = −½∫JD_FJ. Four derivatives at J = 0 keep only the E²/2 term of e^E. In E²/2 = (1/8)∫∫JDJ JDJ, the four derivatives can hit the four J's in 4! = 24 ways. Each way gives a product of two propagators, with the four points split into two pairs. There are 24/8 = 3 distinct results, each appearing with coefficient 1 once the factors of (−i)⁴ and (−1)² are collected:
+
+$$ ⟨T φ_1 φ_2 φ_3 φ_4 ⟩_0 = D_F[x_1 − x_2] D_F[x_3 − x_4] + D_F[x_1 − x_3] D_F[x_2 − x_4] + D_F[x_1 − x_4] D_F[x_2 − x_3]
+
+Every term is disconnected: two lines that do not meet. In a free theory nothing scatters. Section 5 makes that statement exact.
+
+# 4 What Z[J] measures
+
+## 4.1 The energy of static sources
+
+Let J be time-independent and switched on for a long time T. A static source cannot create real quanta, because a time-independent J has no Fourier component at k⁰ = ω_k ≥ m. The vacuum stays the vacuum, but its energy shifts by E. The amplitude is a pure phase:
+
+$$ (Z[J])/(Z[0]) = e^(− i E T)
+
+Comparing with Section 3.1 gives E = −(i/2T)∫JD_FJ. Now take two point sources of strength g at x₁ and x₂, J(x) = g[δ³(x − x₁) + δ³(x − x₂)]. The time integrals in ∫JD_FJ set k⁰ = 0 and leave a factor T. At k⁰ = 0 the propagator is i/(−|k|² − m²) = −i/(|k|² + m²). The cross terms, two of them, give
+
+$$ E_(12) = − (i/2) · 2g² ∫ (d³k)/((2π)³) (− i e^(i k·r)) / (|k|² + m²) = − g² e^(− m r) / (4πr)
+
+where r = |x₁ − x₂|, and the last step is the Fourier transform of 1/(|k|² + m²). The terms with both J's at the same point are the self-energies of each source. They do not depend on r, so they exert no force.
+
+This is the Yukawa potential. Exchange of a scalar of mass m between like sources gives an attraction of range 1/m. The force law came from the generating functional, not from a model of the force.
+
+### Worked example 4
+
+Yukawa proposed in 1935 that the nuclear force comes from exchange of a massive particle. With a range of about 1.4 fm, what mass does Section 4.1 predict?
+
+The range is 1/m, or ħc/(mc²) in ordinary units. So mc² = ħc/range = 197.3 MeV fm / 1.4 fm ≈ 140 MeV. The charged pion, found in 1947, has mass 139.57 MeV, a range of ħc/m = 1.414 fm. Its scalar-like attraction between nucleons, at distances beyond about 1 fm, is the long-range part of the nuclear force.
+
+## 4.2 The photon, and why like charges repel
+
+For the photon the source is a conserved current, through ℒ ⊃ −j_μA^μ, the coupling −qψ̄γ^μψA_μ of Lesson 41 with the charge density replaced by a classical one. The same steps give Z[j] = Z[0] exp[−½∫j_μD^{μν}j_ν]. The sign of the source does not matter, because it appears twice. Because ∂_μj^μ = 0, the k^μk^ν part of the propagator drops out (Lesson 71), so the result is independent of the gauge parameter ξ. Take Feynman gauge, D^{μν} = −ig^{μν}/(k² + iε). For static charges only j⁰ is nonzero, and g^{00} = +1, so the propagator at k⁰ = 0 is −i/(−|k|²) = +i/|k|². That is the opposite sign to the scalar's. Repeating Section 4.1 for charges q₁ and q₂:
+
+$$ E_(12) = − (i/2) · 2 q_1 q_2 ∫ (d³k)/((2π)³) (i e^(i k·r))/(|k|²) = + (q_1 q_2)/(4πr)
+
+This is Coulomb's law in Heaviside–Lorentz units, with α = e²/4π. Like charges repel. The sign difference from the scalar is the factor g^{00} = +1 multiplying −i in the photon propagator. Exchange of an even-spin field between like sources attracts; exchange of an odd-spin field repels. Gravity, carried by spin 2, attracts everything.
+
+### Worked example 5
+
+A static source cannot radiate. What does Z[J] say about a source that moves?
+
+Write ∫JD_FJ = ∫d⁴k/(2π)⁴ |J̃(k)|² D_F(k), using J̃(−k) = J̃(k)* for real J. With the iε rule, i/(k² − m² + iε) = iP/(k² − m²) + πδ(k² − m²), where P is the principal value. The principal part is imaginary and contributes to a phase. The delta function is real, and it puts k on shell. Doing the k⁰ integral,
+
+$$ Re ∫ J D_F J = ∫ (d³k)/((2π)³ 2ω_k) |J̃[ω_k, k]|² ≡ n̄
+
+Then |Z[J]/Z[0]|² = exp(−Re∫JD_FJ) = e^{−n̄}. That is the probability that the vacuum survives. For a Poisson distribution with mean n̄, e^{−n̄} is the probability of zero events. The quantity n̄ is the mean number of quanta emitted, a sum over on-shell modes of the squared Fourier amplitude of the source. This is Lesson 74's P₀ = e^{−n̄} for soft photons from a classical current, obtained in two lines. A static source has J̃ ∝ δ(k⁰) and so n̄ = 0, which is consistent with Section 4.1.
+
+# 5 Connected correlators and W[J]
+
+## 5.1 The logarithm
+
+Define
+
+$$ Z[J] = e^(i W[J]) ,  W[J] = − i log Z[J]
+
+For the free field, W₀[J] = W₀[0] + (i/2)∫JD_FJ, which is exactly quadratic in J. Its second derivative is the propagator, and every higher derivative vanishes. The disconnected products of Worked example 3 are generated by exponentiating W, not by W itself. The general statement is that derivatives of W give the connected correlators:
+
+$$ ⟨T φ[x_1] … φ[x_n]⟩_c = (−i)^(n−1) (δⁿ W)/(δJ[x_1] … δJ[x_n]) |_(J=0)
+
+## 5.2 Why the logarithm connects
+
+Any diagram contributing to Z[J] is a product of connected pieces, each attached to sources. Suppose a connected piece C appears n times. Permuting the n identical copies gives the same diagram, so it carries a symmetry factor 1/n!. Summing over n for each kind of piece gives Π_C Σ_n C^n/n! = exp[Σ_C C]. The sum of all diagrams is the exponential of the sum of connected ones, so log Z is the sum of connected diagrams. For n = 2 this is the statement ⟨φ₁φ₂⟩_c = ⟨φ₁φ₂⟩ − ⟨φ₁⟩⟨φ₂⟩, and for n = 4, with ⟨φ⟩ = 0,
+
+$$ ⟨φ_1 φ_2 φ_3 φ_4 ⟩_c = ⟨φ_1 φ_2 φ_3 φ_4 ⟩ − ⟨φ_1 φ_2 ⟩ ⟨φ_3 φ_4 ⟩ − ⟨φ_1 φ_3 ⟩ ⟨φ_2 φ_4 ⟩ − ⟨φ_1 φ_4 ⟩ ⟨φ_2 φ_3 ⟩
+
+The same counting removes vacuum bubbles, which are connected pieces with no source attached. They contribute a constant to W, which drops out of every derivative. Lesson 79, Section 7.2, saw the cancellation as a ratio, and here it is a subtraction.
+
+## 5.3 The classical field
+
+The first derivative of W at nonzero J is the mean field in the presence of the source:
+
+$$ (δW)/(δJ[x]) = (−i/Z) (δZ)/(δJ[x]) = ⟨φ[x]⟩_J ≡ φ_cl[x]
+
+For the free field this is φ_cl(x) = i∫D_F(x − y)J(y). Acting with K and using KD_F = iδ⁴ gives Kφ_cl = −J, which is (∂² + m²)φ_cl = J, the classical field equation with a source. For a static point source of strength g, this gives φ_cl = g e^{−mr}/(4πr). The quantum average in the presence of a source, at tree level, is the classical field that source produces. Lesson 81 inverts this relation, using φ_cl rather than J as the variable, and that is where loops correct the classical action.
+
+### Worked example 6
+
+Use Lesson 79's zero-dimensional model, with weight e^{−x²/2 − λx⁴/24}, to find the connected four-point average to first order in λ.
+
+Lesson 79 found ⟨x²⟩ = 1 − λ/2. Similarly,
+
+$$ ⟨x⁴⟩ = (3 − (λ/24)·105)/(1 − (λ/24)·3) ≈ 3 − 105λ/24 + 9λ/24 = 3 − 4λ
+
+The disconnected part is 3⟨x²⟩² ≈ 3(1 − λ) = 3 − 3λ. So ⟨x⁴⟩_c = −λ. That is the bare vertex with all four legs attached to the external points. In iS_int, a −λφ⁴/4! term in ℒ gives the vertex −iλ. The 4! ways of attaching four legs cancel the 1/4!. Here, with no i's in zero dimensions, the result is −λ. In the free theory the connected four-point function would be zero.
+
+# 6 Fermions
+
+## 6.1 Grassmann sources
+
+For the Dirac field, add anticommuting sources: η̄ coupled to ψ and η coupled to ψ̄. With S₀ = ∫ψ̄Kψ and K = i∂̸ − m,
+
+$$ ψ̄ K ψ + η̄ ψ + ψ̄ η = [ψ̄ + η̄ K^(−1)] K [ψ + K^(−1) η] − η̄ K^(−1) η
+
+Shift ψ and ψ̄, and use S_F = iK⁻¹ from Lesson 79, Section 5.2:
+
+$$ Z_0[η̄, η] = Z_0[0] exp[ − ∫ d⁴x d⁴y η̄[x] S_F[x − y] η[y] ]
+
+The derivatives must be taken in a fixed order, because they anticommute. With the rightmost derivative acting first,
+
+$$ ⟨0| T ψ[x] ψ̄[y] |0⟩ = (1/(Z_0[0])) [−i (δ)/(δη̄[x])] [i (δ)/(δη[y])] Z_0[η̄, η] |_0 = S_F[x − y]
+
+### Worked example 7
+
+Check the ordering in a single Grassmann mode, with weight e^{−θ̄aθ + η̄θ + θ̄η}.
+
+The completed square is −(θ̄ − η̄/a)a(θ − η/a) + η̄η/a, and Lesson 79's integral gives Z = a e^{η̄η/a}. Take ∂/∂η̄ first: it gives (η/a)e^{η̄η/a}. Then ∂/∂η of η/a gives 1/a. The other term is proportional to η², which vanishes. So (1/Z)∂_η∂_η̄Z|₀ = 1/a = ⟨θθ̄⟩, Lesson 79's result. Taking the derivatives in the other order gives −1/a. In Grassmann calculus the order of the derivatives carries the sign that operator language puts into the definition of the time-ordered product of fermions.
+
+## 6.2 The QED generating functional
+
+Collect everything:
+
+$$ Z[J, η̄, η] = ∫ DA Dψ̄ Dψ exp[ i S_QED + i ∫ [J_μ A^μ + η̄ ψ + ψ̄ η] ]
+
+with S_QED including Lesson 70's gauge-fixing term. At e = 0 this is the product of the photon and electron free functionals, exp[−½∫JDJ] exp[−∫η̄S_Fη]. The interaction term e∫ψ̄γ^μψA_μ in S can be written by replacing each field with a derivative with respect to its source, and that is how Lesson 82 and Lesson 83 derive the Feynman rules. Z₀[0] for the electron is det K, by Lesson 79, Section 5.1, so W gains −i log det K = −i Tr log K. That is the sum of closed electron loops in an external field, with the fermion minus sign built in. It is the object Lesson 85 evaluates for a constant field.
+
+# 7 What this lesson has not done
+
+It did not prove the exponentiation of connected diagrams beyond the counting argument of Section 5.2. That argument is correct but skips the case of pieces with internal symmetries. It quoted the Fourier transform of 1/(|k|² + m²) and the principal-value decomposition of 1/(x + iε). It treated the static-source energy for idealized point sources and dropped their infinite self-energies, which renormalization absorbs (Lesson 63). It did not treat sources for composite operators or the generating functional at finite temperature, which is Lesson 84.
+
+# 8 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used next |
+| Z[J] and correlators as derivatives | Every later lesson of Part XI |
+| Z₀[J] = Z₀[0] exp(−½∫JD_FJ) | Feynman rules, Lesson 83 |
+| Z = e^{−iET} for static sources | Coulomb and Yukawa from exchange; external fields, Lesson 85 |
+| |Z|² = e^{−n̄} | Soft photons, Lesson 74, recovered; pair creation, Lesson 85 |
+| W = −i log Z, connected | Effective action Γ, Lesson 81 |
+| δW/δJ = φ_cl | Legendre transform, Lesson 81 |
+| Grassmann sources, det K | Functional determinants, Lessons 81 and 85 |
+
+# 9 Summary
+
+1. A linear source term turns a Gaussian integral into a generating function, and its derivatives are the moments. Wick's theorem is the expansion of e^{½jA⁻¹j}.
+
+2. Z[J] = ∫Dφ exp(iS + i∫Jφ). Time-ordered correlators are (−iδ/δJ)ⁿ Z/Z[0] at J = 0.
+
+3. For a free field, Z₀[J] = Z₀[0] exp(−½∫JD_FJ). Two derivatives give D_F, and four give the three pairings.
+
+4. For static sources Z = e^{−iET}. Scalar exchange gives the attractive Yukawa energy −g²e^{−mr}/4πr. Photon exchange gives the repulsive Coulomb energy +q₁q₂/4πr, the sign set by g^{00}.
+
+5. For moving sources, |Z|² = e^{−n̄}, the Poisson probability of emitting nothing.
+
+6. W = −i log Z generates connected correlators. The logarithm undoes the exponentiation of connected pieces, and vacuum bubbles drop out.
+
+7. δW/δJ is the mean field in the presence of J. At tree level it solves the classical field equation with that source.
+
+8. Grassmann sources give Z₀ = Z₀[0] exp(−∫η̄S_Fη), with the order of derivatives fixing the fermion signs.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Derive Z(j) = Z(0)e^{½jA⁻¹j} by shifting x, and state what property of the measure is used. |
+| 2 | From e^{j²/2a}, find ⟨x⁸⟩ and check that it equals the number of pairings of eight objects divided by a⁴. |
+| 3 | Show that −iδ/δJ(x) acting on exp(i∫Jφ) brings down φ(x). |
+| 4 | Complete the square for ½φKφ + Jφ and show that Z₀[J] = Z₀[0]exp(−½∫JD_FJ), given D_F = iK⁻¹. |
+| 5 | Differentiate Z₀[J] twice and confirm ⟨Tφ(x)φ(y)⟩ = D_F(x − y), keeping every factor of i. |
+| 6 | How many terms does the free six-point function have, and why? |
+| 7 | For a static source J(x) = gδ³(x), show that the time integrals in ∫JD_FJ give 2πδ(k⁰) times T. |
+| 8 | Evaluate ∫d³k e^{ik·r}/(2π)³(|k|² + m²) = e^{−mr}/4πr by doing the angular integral and closing the contour. |
+| 9 | Two scalar sources, g each, at 1 fm, exchange a pion. Find the energy in MeV for g²/4π = 14. |
+| 10 | Explain why the gauge-dependent k^μk^ν term of the photon propagator does not contribute to ∫jDj for a conserved current. |
+| 11 | Show that Re[i/(x + iε)] = πδ(x), and use it to derive n̄ from Re∫JD_FJ. |
+| 12 | Show that W is additive for two decoupled fields, and interpret the result. |
+| 13 | Derive ⟨φ⟩_J = δW/δJ, and show that for the free field it solves (∂² + m²)φ = J. |
+| 14 | In the zero-dimensional model, compute ⟨x²⟩_c and ⟨x⁴⟩_c at first order, and confirm that ⟨x⁴⟩_c = −λ. |
+| 15 | In the single-mode Grassmann example, show that the derivatives in the opposite order give −1/a. |
+| 16 | Challenge: show that W₀[J] contains −i log det K for the Dirac field, and explain why this is a sum of closed loops with a factor −1 each relative to a boson. |
+
+# Solutions
+
+**1.** With x = y + A⁻¹j, −½xᵀAx + jᵀx = −½yᵀAy + ½jᵀA⁻¹j, using the symmetry of A. The measure dⁿx = dⁿy is invariant under translation.
+
+**2.** The j⁸ term is j⁸/(2⁴·4!a⁴) = j⁸/(384a⁴), and its eighth derivative is 8!/384 = 105. So ⟨x⁸⟩ = 105/a⁴ = 7!!/a⁴.
+
+**3.** δ/δJ(x) of i∫Jφ is iφ(x), so δ/δJ(x) brings down iφ(x) and −iδ/δJ(x) brings down φ(x).
+
+**4.** As in Section 3.1, the remainder is −(i/2)∫JK⁻¹J in the exponent. K⁻¹ = −iD_F, so this is −½∫JD_FJ.
+
+**5.** −iδ/δJ(y) gives i(D_F J)(y) times Z. At J = 0 only the derivative of this factor survives: −iδ/δJ(x)[i(D_FJ)(y)] = D_F(x − y).
+
+**6.** Fifteen, the number of ways to split six points into three pairs: 5 × 3 × 1.
+
+**7.** ∫dx⁰dy⁰ e^{−ik⁰(x⁰ − y⁰)} = 2πδ(k⁰) × ∫dx⁰, and ∫dx⁰ = T.
+
+**8.** The angular integral gives (1/2π²r)∫₀^∞ k sin(kr) dk/(k² + m²) = (1/4π²ir)∫_{−∞}^{∞} k e^{ikr}dk/(k² + m²). Close the contour in the upper half plane. The pole at k = im has residue e^{−mr}/2, so the integral is e^{−mr}/4πr.
+
+**9.** E = −(g²/4π)e^{−mr}/r. With ħc/m = 1.414 fm, e^{−1/1.414} = 0.493. Then E = −14 × 0.493 × 197.3 MeV fm / 1 fm ≈ −1.4 GeV. The real one-pion-exchange potential is far weaker. The pion is pseudoscalar, so in the static limit its coupling to a nucleon is suppressed by (m_π/2M_N)² ≈ 0.0055. That leaves an effective strength f²/4π ≈ 0.08 and a spin-dependent potential of order 10 MeV at 1 fm. The exercise shows how large a coupling of 14 would be if nothing suppressed it.
+
+**10.** The term is proportional to k^μk^ν, and j̃_μ(k)k^μ = 0 is the Fourier form of ∂_μj^μ = 0.
+
+**11.** 1/(x + iε) = P(1/x) − iπδ(x), so i/(x + iε) = iP(1/x) + πδ(x). With x = k² − m², δ(k² − m²) = [δ(k⁰ − ω) + δ(k⁰ + ω)]/2ω. The k⁰ integral with weight 1/2π gives 1/2ω, using |J̃(ω)| = |J̃(−ω)|. The result is n̄ = ∫d³k|J̃|²/[(2π)³2ω].
+
+**12.** Z = Z₁Z₂, so W = W₁ + W₂. Mixed connected correlators vanish, and decoupled fields do not talk.
+
+**13.** δW/δJ = −i(1/Z)δZ/δJ = ⟨φ⟩_J. For the free field this is i∫D_FJ. KD_F = iδ⁴ gives Kφ = i·i J = −J, which is (∂² + m²)φ = J.
+
+**14.** ⟨x²⟩_c = ⟨x²⟩ = 1 − λ/2, since ⟨x⟩ = 0. ⟨x⁴⟩_c = (3 − 4λ) − 3(1 − λ/2)² = −λ + O(λ²).
+
+**15.** ∂/∂η first gives −(η̄/a)e^{η̄η/a}, moving η to the front past η̄ in η̄η. Then ∂/∂η̄ gives −1/a.
+
+**16.** Z₀[0] = ∫Dψ̄Dψ e^{iψ̄Kψ} ∝ det K, so W₀[0] = −i log det K + constant = −i Tr log K. For a boson, Z₀[0] ∝ (det K)^{−1/2} for a real field or (det K)^{−1} for a complex one, so the sign of Tr log is reversed. Expanding Tr log(K₀ + V) in powers of V gives Tr[(K₀⁻¹V)ⁿ]/n with alternating signs, a closed loop with n insertions of the external field.
+
+# Mastery checklist
+
+- I can derive moments and Wick's theorem from a generating function.
+
+- I can define Z[J] and write any correlator as functional derivatives, with the right factors of i.
+
+- I can complete the square to obtain Z₀[J] in terms of D_F.
+
+- I can derive the Yukawa and Coulomb energies from Z = e^{−iET}, and explain the sign difference between spin 0 and spin 1.
+
+- I can relate |Z|² to the probability of emitting no quanta.
+
+- I can explain why W = −i log Z generates connected correlators and why δW/δJ is the classical field.
+
+- I can handle Grassmann sources and the ordering of their derivatives.

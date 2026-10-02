@@ -61,7 +61,7 @@ Two consequences follow. The interaction is local: charges interact with the fie
 @widths 2160 3024 4608
 | Field | Components | Role and where developed |
 | Real scalar φ(x) | 1 real | Simplest example; describes a neutral spin-0 particle; Lessons 25 and 32 |
-| Complex scalar φ(x) | 1 complex, equivalent to 2 real | Charged spin-0 particle; the field of the Klein Gordon equation of Lesson 17; Lesson 30 |
+| Complex scalar φ(x) | 1 complex, equivalent to 2 real | Charged spin-0 particle; the field of the Klein–Gordon equation of Lesson 17; Lesson 30 |
 | Electromagnetic potential A^μ(x) | 4 real, 2 physical | The photon; Lessons 8, 37, and 42 |
 | Dirac spinor ψ(x) | 4 complex | The electron and positron; Lessons 19 and 35 |
 
@@ -73,7 +73,7 @@ Lesson 5, Section 6.2, treated N equal masses m at spacing a on a line, each joi
 
 $$ L = Σₙ [ (1/2) m q̇ₙ² − (1/2) κ (qₙ₊₁ − qₙ)² ]
 
-The Euler Lagrange equation for qₙ (Lesson 5, Section 2.2) requires the derivatives of L with respect to q̇ₙ and qₙ. The coordinate qₙ appears in two of the potential terms, those containing (qₙ − qₙ₋₁) and (qₙ₊₁ − qₙ), so
+The Euler–Lagrange equation for qₙ (Lesson 5, Section 2.2) requires the derivatives of L with respect to q̇ₙ and qₙ. The coordinate qₙ appears in two of the potential terms, those containing (qₙ − qₙ₋₁) and (qₙ₊₁ − qₙ), so
 
 $$ ∂L/∂q̇ₙ = m q̇ₙ,    ∂L/∂qₙ = −κ(qₙ − qₙ₋₁) + κ(qₙ₊₁ − qₙ) = κ(qₙ₊₁ − 2qₙ + qₙ₋₁)
 
@@ -89,7 +89,7 @@ Both terms now carry an overall factor of a, and the sum over n becomes an integ
 
 $$ L = ∫ dx ℒ,    ℒ = (1/2) μ φ̇² − (1/2) T (φ′)²
 
-The integrand ℒ is the Lagrangian density: the Lagrangian per unit length. The Euler Lagrange equation for the field, obtained by varying φ(x, t) in exactly the manner of Lesson 2, Section 8, and Lesson 5, is μφ̈ = Tφ″, the wave equation with speed c² = T/μ. In the discrete language, c² = κa²/m, matching Lesson 5, Exercise 15. Lesson 26 derives the general Euler Lagrange equation for a field; here the result is recognizable directly.
+The integrand ℒ is the Lagrangian density: the Lagrangian per unit length. The Euler–Lagrange equation for the field, obtained by varying φ(x, t) in exactly the manner of Lesson 2, Section 8, and Lesson 5, is μφ̈ = Tφ″, the wave equation with speed c² = T/μ. In the discrete language, c² = κa²/m, matching Lesson 5, Exercise 15. Lesson 26 derives the general Euler–Lagrange equation for a field; here the result is recognizable directly.
 
 ### Worked example 1
 
@@ -101,13 +101,13 @@ Choose units in which μ = T = 1, so that c = 1. Then
 
 $$ ℒ = (1/2)(φ̇² − φ′²) = (1/2) ∂_μφ ∂^μφ  (one space dimension)
 
-using ∂_μφ∂^μφ = (∂_tφ)² − (∂ₓφ)² with the metric of Lesson 4. The Lagrangian density of the string is a Lorentz scalar built from the derivative of the field, and its wave equation □φ = 0 is the massless Klein Gordon equation. The string is a nonrelativistic system in which c is the speed of sound in the material, but with c set to one the mathematics is exactly that of a relativistic massless scalar field. This is why the chain of oscillators is a faithful model for everything that follows.
+using ∂_μφ∂^μφ = (∂_tφ)² − (∂ₓφ)² with the metric of Lesson 4. The Lagrangian density of the string is a Lorentz scalar built from the derivative of the field, and its wave equation □φ = 0 is the massless Klein–Gordon equation. The string is a nonrelativistic system in which c is the speed of sound in the material, but with c set to one the mathematics is exactly that of a relativistic massless scalar field. This is why the chain of oscillators is a faithful model for everything that follows.
 
 # 3 The relativistic scalar field
 
 ## 3.1 A field is a dynamical variable
 
-The Klein Gordon equation (□ + m²)φ = 0 was met in Lesson 17 as the equation for a single-particle wave function. In Part IV the same equation is read in a different way. The function φ(t, x) is no longer a complex probability amplitude for one particle, normalized to one and interpreted through the Born rule of Lesson 9. It is a real dynamical variable, like the displacement of the string: one number at each point, with an energy density, with no normalization condition, and with no probabilistic meaning at the classical level. The difficulties found in Lesson 17 with the sign of the density ρ do not arise, because the quantity that was called ρ will not be interpreted as a probability density (Lesson 32).
+The Klein–Gordon equation (□ + m²)φ = 0 was met in Lesson 17 as the equation for a single-particle wave function. In Part IV the same equation is read in a different way. The function φ(t, x) is no longer a complex probability amplitude for one particle, normalized to one and interpreted through the Born rule of Lesson 9. It is a real dynamical variable, like the displacement of the string: one number at each point, with an energy density, with no normalization condition, and with no probabilistic meaning at the classical level. The difficulties found in Lesson 17 with the sign of the density ρ do not arise, because the quantity that was called ρ will not be interpreted as a probability density (Lesson 32).
 
 ## 3.2 The Lagrangian density
 
@@ -131,11 +131,11 @@ A scalar field transforms by evaluating the field at the transformed point: if t
 
 $$ φ′(x′) = φ(x),   equivalently  φ′(x) = φ(Λ⁻¹x)
 
-The value of the field at each event is a property of the event, and observers using different coordinates agree on it. Because □ and m² are Lorentz scalars, if φ solves the Klein Gordon equation then so does φ′ (Exercise 5).
+The value of the field at each event is a property of the event, and observers using different coordinates agree on it. Because □ and m² are Lorentz scalars, if φ solves the Klein–Gordon equation then so does φ′ (Exercise 5).
 
 ### Worked example 3
 
-Transform a plane wave. The positive-frequency solution φ(x) = e^(−ip·x), with p on shell (p² = m²), becomes, under a Lorentz transformation, φ′(x) = e^(−ip·Λ⁻¹x). Since the scalar product is invariant, p·Λ⁻¹x = (Λp)·x, so φ′(x) = e^(−i(Λp)·x): a plane wave with the boosted four-momentum Λp. The transformed momentum still satisfies (Λp)² = p² = m², so the transformed field again solves the Klein Gordon equation, and the frequency and wave vector of the wave change exactly as the energy and momentum of a particle do in Lesson 4.
+Transform a plane wave. The positive-frequency solution φ(x) = e^(−ip·x), with p on shell (p² = m²), becomes, under a Lorentz transformation, φ′(x) = e^(−ip·Λ⁻¹x). Since the scalar product is invariant, p·Λ⁻¹x = (Λp)·x, so φ′(x) = e^(−i(Λp)·x): a plane wave with the boosted four-momentum Λp. The transformed momentum still satisfies (Λp)² = p² = m², so the transformed field again solves the Klein–Gordon equation, and the frequency and wave vector of the wave change exactly as the energy and momentum of a particle do in Lesson 4.
 
 # 4 A free field is an infinite set of oscillators
 
@@ -264,7 +264,7 @@ The most important single statement in this lesson is Section 4.2: a free field 
 
 3. The continuum limit of a chain of oscillators gives the Lagrangian density ℒ = (1/2)μφ̇² − (1/2)T(φ′)² and the wave equation with c² = T/μ.
 
-4. With c = 1 the string's Lagrangian density is (1/2)∂_μφ∂^μφ, and adding a mass term gives the Klein Gordon field.
+4. With c = 1 the string's Lagrangian density is (1/2)∂_μφ∂^μφ, and adding a mass term gives the Klein–Gordon field.
 
 5. In natural units a scalar field in four spacetime dimensions has dimension of energy.
 
@@ -278,9 +278,9 @@ The most important single statement in this lesson is Section 4.2: a free field 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Derive the equation m q̈ₙ = κ(qₙ₊₁ − 2qₙ + qₙ₋₁) from the Lagrangian of Section 2.1 using the Euler Lagrange equations, showing explicitly which two potential terms contain qₙ. |
+| 1 | Derive the equation m q̈ₙ = κ(qₙ₊₁ − 2qₙ + qₙ₋₁) from the Lagrangian of Section 2.1 using the Euler–Lagrange equations, showing explicitly which two potential terms contain qₙ. |
 | 2 | Show that (1/2)κ(qₙ₊₁ − qₙ)² → (1/2)Ta(φ′)² with T = κa, and that the kinetic term becomes (1/2)μaφ̇² with μ = m/a. Then show that the resulting wave speed satisfies c² = T/μ = κa²/m. |
-| 3 | With μ = T = 1, show that ℒ = (1/2)(φ̇² − φ′²) equals (1/2)∂_μφ∂^μφ in one space dimension, and write the corresponding Euler Lagrange equation in the form □φ = 0. |
+| 3 | With μ = T = 1, show that ℒ = (1/2)(φ̇² − φ′²) equals (1/2)∂_μφ∂^μφ in one space dimension, and write the corresponding Euler–Lagrange equation in the form □φ = 0. |
 | 4 | Find the dimension of a real scalar field in natural units for d = 2, 3, and 4 spacetime dimensions, using the requirement that the action be dimensionless. |
 | 5 | Show that if φ(x) solves (□ + m²)φ = 0, then so does φ′(x) = φ(Λ⁻¹x), using the invariance of □ under Lorentz transformations. |
 | 6 | Show that ∫₀^L dx e^(i(k−k′)x)/L = δ_(kk′) for k = 2πn/L and k′ = 2πn′/L, and use it to prove ∫dx φ̇² = Σ_k \|q̇_k\|² for the real field φ = Σ_k q_k e^(ikx)/√L. |
@@ -290,14 +290,14 @@ The most important single statement in this lesson is Section 4.2: a free field 
 | 10 | For q_k = (1/√(2ω))(A + B) with A = a_k e^(−iωt) and B = a₋ₖ* e^(iωt), show that \|q̇_k\|² + ω²\|q_k\|² = ω(\|a_k\|² + \|a₋ₖ\|²). |
 | 11 | Show that the number of modes with \|k\| < K in three dimensions is VK³/(6π²), and evaluate it for V = 1 cm³ and λ = 1 μm. |
 | 12 | Write the complex scalar field as φ = (φ₁ + iφ₂)/√2 and show that ∂_μφ*∂^μφ − m²φ*φ = (1/2)(∂_μφ₁∂^μφ₁ + ∂_μφ₂∂^μφ₂) − (1/2)m²(φ₁² + φ₂²), so a complex field is two real fields. |
-| 13 | For the complex field of Exercise 12, express the Klein Gordon current j^μ = i(φ*∂^μφ − φ∂^μφ*) in terms of φ₁ and φ₂, and explain why it vanishes when φ₂ = 0 (compare Lesson 17, Exercise 14). |
+| 13 | For the complex field of Exercise 12, express the Klein–Gordon current j^μ = i(φ*∂^μφ − φ∂^μφ*) in terms of φ₁ and φ₂, and explain why it vanishes when φ₂ = 0 (compare Lesson 17, Exercise 14). |
 | 14 | For a string wave φ = A cos(kx − ωt) with ω = ck, show that the energy density (1/2)μφ̇² + (1/2)Tφ′² equals μA²ω²sin²(kx − ωt), and find its average over one wavelength. |
-| 15 | In a short paragraph, explain three differences between the classical Klein Gordon field of this lesson and the Klein Gordon wave function of Lesson 17. |
+| 15 | In a short paragraph, explain three differences between the classical Klein–Gordon field of this lesson and the Klein–Gordon wave function of Lesson 17. |
 | 16 | Challenge: for the massless field in one space dimension, show that a solution φ = F(x − t) + G(x + t) vanishing at infinity has energy H = ∫dx (1/2)(φ̇² + φ′²) = ∫dx (F′² + G′²), so that the right-moving and left-moving energies are separately conserved. |
 
 # Solutions
 
-**1.** The Lagrangian is L = Σₙ[(1/2)mq̇ₙ² − (1/2)κ(qₙ₊₁−qₙ)²]. The coordinate qₙ appears in the term with (qₙ₊₁−qₙ)² and in the term with (qₙ−qₙ₋₁)². Then ∂L/∂q̇ₙ = mq̇ₙ, and ∂L/∂qₙ = −κ(qₙ−qₙ₋₁) + κ(qₙ₊₁−qₙ) = κ(qₙ₊₁−2qₙ+qₙ₋₁). The Euler Lagrange equation d/dt(∂L/∂q̇ₙ) = ∂L/∂qₙ gives mq̈ₙ = κ(qₙ₊₁−2qₙ+qₙ₋₁).
+**1.** The Lagrangian is L = Σₙ[(1/2)mq̇ₙ² − (1/2)κ(qₙ₊₁−qₙ)²]. The coordinate qₙ appears in the term with (qₙ₊₁−qₙ)² and in the term with (qₙ−qₙ₋₁)². Then ∂L/∂q̇ₙ = mq̇ₙ, and ∂L/∂qₙ = −κ(qₙ−qₙ₋₁) + κ(qₙ₊₁−qₙ) = κ(qₙ₊₁−2qₙ+qₙ₋₁). The Euler–Lagrange equation d/dt(∂L/∂q̇ₙ) = ∂L/∂qₙ gives mq̈ₙ = κ(qₙ₊₁−2qₙ+qₙ₋₁).
 
 **2.** With qₙ₊₁ − qₙ = aφ′ + O(a²), (1/2)κ(qₙ₊₁−qₙ)² = (1/2)κa²(φ′)² = (1/2)(κa)a(φ′)² = (1/2)Ta(φ′)² with T = κa. The kinetic term is (1/2)mφ̇² = (1/2)(m/a)aφ̇² = (1/2)μaφ̇² with μ = m/a. The wave equation μφ̈ = Tφ″ has speed c² = T/μ = κa/(m/a) = κa²/m.
 

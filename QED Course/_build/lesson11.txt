@@ -1,21 +1,21 @@
-TITLE: Schrodinger Equation
+TITLE: Schrödinger Equation
 TAGLINE: Time evolution, stationary states, the free particle, and the general solution as a superposition of energy eigenstates
 NUM: 11
 NEXT: Lesson 12 examines momentum and position together: the momentum-space wave function, the Fourier transform between the two pictures, and the operator identities that make the uncertainty relation of Lesson 10 concrete.
 
 # How to use this lesson
 
-Lessons 9 and 10 described the state of a quantum system and the operators that represent its observables, but neither said how a state changes in time. This lesson supplies that law: the Schrodinger equation. It is, in the language of Lesson 6, the statement that the Hamiltonian generates time translation, made concrete for a single nonrelativistic particle.
+Lessons 9 and 10 described the state of a quantum system and the operators that represent its observables, but neither said how a state changes in time. This lesson supplies that law: the Schrödinger equation. It is, in the language of Lesson 6, the statement that the Hamiltonian generates time translation, made concrete for a single nonrelativistic particle.
 
 The lesson derives the equation from the minimal set of physical requirements, solves it completely for the two systems that matter most for what follows, the free particle and the harmonic oscillator, and shows how any solution is built from energy eigenstates. It also states plainly, in Section 7, why the equation cannot survive the transition to relativity, setting up the puzzle that Lesson 18 examines directly. Expect seven to nine focused hours.
 
 ## Learning objectives
 
-- Derive the time-dependent Schrodinger equation from linearity, the correspondence E → iℏ∂_t, and the classical energy relation.
+- Derive the time-dependent Schrödinger equation from linearity, the correspondence E → iℏ∂_t, and the classical energy relation.
 
 - Solve the equation for a stationary state and explain why observable probabilities in such a state are time-independent.
 
-- Solve the free-particle Schrodinger equation and construct a moving wave packet.
+- Solve the free-particle Schrödinger equation and construct a moving wave packet.
 
 - Solve the quantum harmonic oscillator using the ladder operators of Lesson 6 and find its energy spectrum.
 
@@ -23,9 +23,9 @@ The lesson derives the equation from the minimal set of physical requirements, s
 
 - Expand a general initial state in energy eigenstates and write its time evolution.
 
-- Distinguish the Schrodinger and Heisenberg pictures and show they give the same expectation values.
+- Distinguish the Schrödinger and Heisenberg pictures and show they give the same expectation values.
 
-- State why the nonrelativistic Schrodinger equation is incompatible with special relativity.
+- State why the nonrelativistic Schrödinger equation is incompatible with special relativity.
 
 ## Notation and conventions
 
@@ -36,7 +36,7 @@ The lesson derives the equation from the minimal set of physical requirements, s
 | φₙ(x), Eₙ | Energy eigenfunctions and eigenvalues, Ĥφₙ = Eₙφₙ |
 | U(t) | Time-evolution operator e^(−iĤt/ℏ) |
 | ω, k | Frequency and wave number of a mode |
-| ħω₀ | Oscillator quantum, ω₀ = √(k_spring/m) |
+| ℏω₀ | Oscillator quantum, ω₀ = √(k_spring/m) |
 | \|n⟩ | Number state of the harmonic oscillator |
 | ψ_H, A_H(t) | State and operator in the Heisenberg picture |
 
@@ -52,7 +52,7 @@ Following the covariant identification p^μ → i∂^μ of Lesson 4, restricted 
 
 $$ E → iℏ ∂_t,    p → −iℏ ∇
 
-Substituting these into the classical nonrelativistic energy relation E = p²/2m + V(x), understood now as an operator identity acting on a wave function, gives the time-dependent Schrodinger equation.
+Substituting these into the classical nonrelativistic energy relation E = p²/2m + V(x), understood now as an operator identity acting on a wave function, gives the time-dependent Schrödinger equation.
 
 $$ iℏ ∂ψ/∂t = [ −ℏ²/(2m) ∇² + V(x) ] ψ = Ĥψ
 
@@ -60,17 +60,17 @@ The right-hand operator, Ĥ = p̂²/2m + V(x̂), is the quantum Hamiltonian, bui
 
 ### Worked example 1
 
-Verify that a free-particle plane wave ψ = A e^(i(kx−ωt)) solves the free Schrodinger equation (V = 0) exactly when ℏω = ℏ²k²/2m. Substituting, iℏ(−iω)ψ = ℏωψ on the left, and −ℏ²/2m (ik)²ψ = ℏ²k²/2m ψ on the right. Equality holds exactly for ℏω = ℏ²k²/2m, which is E = p²/2m with E = ℏω and p = ℏk: the correspondence rule of Section 1.2, run in reverse, is what determined this dispersion relation in the first place.
+Verify that a free-particle plane wave ψ = A e^(i(kx−ωt)) solves the free Schrödinger equation (V = 0) exactly when ℏω = ℏ²k²/2m. Substituting, iℏ(−iω)ψ = ℏωψ on the left, and −ℏ²/2m (ik)²ψ = ℏ²k²/2m ψ on the right. Equality holds exactly for ℏω = ℏ²k²/2m, which is E = p²/2m with E = ℏω and p = ℏk: the correspondence rule of Section 1.2, run in reverse, is what determined this dispersion relation in the first place.
 
 # 2 Stationary states
 
 ## 2.1 Separation of variables
 
-Seek a solution of the form ψ(x, t) = φ(x)T(t). Substituting into the Schrodinger equation and dividing by φ(x)T(t),
+Seek a solution of the form ψ(x, t) = φ(x)T(t). Substituting into the Schrödinger equation and dividing by φ(x)T(t),
 
 $$ iℏ (T′/T) = [Ĥφ]/φ = E
 
-where E is a separation constant, since the left side depends only on t and the right only on x. The time equation gives T(t) = e^(−iEt/ℏ), and the space equation is the time-independent Schrodinger equation, the eigenvalue equation for Ĥ.
+where E is a separation constant, since the left side depends only on t and the right only on x. The time equation gives T(t) = e^(−iEt/ℏ), and the space equation is the time-independent Schrödinger equation, the eigenvalue equation for Ĥ.
 
 $$ Ĥ φ(x) = E φ(x)
 
@@ -140,7 +140,7 @@ Any initial state ψ(x, 0) can be expanded in the complete set of energy eigenfu
 
 $$ ψ(x, 0) = Σₙ cₙ φₙ(x),    cₙ = ⟨φₙ|ψ(0)⟩
 
-Because the Schrodinger equation is linear and each φₙ(x)e^(−iEₙt/ℏ) is a stationary-state solution, the full time evolution follows by superposition.
+Because the Schrödinger equation is linear and each φₙ(x)e^(−iEₙt/ℏ) is a stationary-state solution, the full time evolution follows by superposition.
 
 $$ ψ(x, t) = Σₙ cₙ φₙ(x) e^(−iEₙt/ℏ)
 
@@ -162,7 +162,7 @@ A two-level system with energies E₁ and E₂ starts in ψ(0) = (|1⟩+|2⟩)/�
 
 ## 6.1 Moving the time dependence to the operators
 
-The formulation used so far, in which states evolve and operators are fixed, is the Schrodinger picture. An equivalent formulation, the Heisenberg picture, keeps the state fixed at its initial value and evolves the operators instead.
+The formulation used so far, in which states evolve and operators are fixed, is the Schrödinger picture. An equivalent formulation, the Heisenberg picture, keeps the state fixed at its initial value and evolves the operators instead.
 
 $$ ψ_H = ψ(0),    A_H(t) = U†(t) A U(t)
 
@@ -184,33 +184,33 @@ Find x̂_H(t) and p̂_H(t) for the free particle. From the Heisenberg equation, 
 
 ## 7.1 Failure of Lorentz covariance
 
-The Schrodinger equation is first order in time and second order in space, and Lesson 4's Section 7.2 already flagged that such an equation cannot be covariant: a Lorentz boost mixes time and space derivatives, and an equation treating them asymmetrically cannot keep the same form in every frame. This is not a technical defect to be patched; it reflects that E = p²/2m is itself only the low-velocity limit of the relativistic relation E² = p² + m² established in Lesson 3.
+The Schrödinger equation is first order in time and second order in space, and Lesson 4's Section 7.2 already flagged that such an equation cannot be covariant: a Lorentz boost mixes time and space derivatives, and an equation treating them asymmetrically cannot keep the same form in every frame. This is not a technical defect to be patched; it reflects that E = p²/2m is itself only the low-velocity limit of the relativistic relation E² = p² + m² established in Lesson 3.
 
 ## 7.2 What must change
 
-Any relativistic wave equation must treat space and time symmetrically, to the order needed to respect Lorentz covariance, and it must reduce to the Schrodinger equation in the nonrelativistic limit, exactly as Newtonian mechanics is recovered from special relativity at low velocity. Lesson 17 takes the direct route, promoting E² = p² + m² itself to an operator equation, and finds a candidate, the Klein Gordon equation, that succeeds at covariance but runs into a different problem, examined in Lesson 18, that this lesson's probabilistic structure does not survive unmodified. Resolving that problem is what leads, in Lesson 19, to the Dirac equation.
+Any relativistic wave equation must treat space and time symmetrically, to the order needed to respect Lorentz covariance, and it must reduce to the Schrödinger equation in the nonrelativistic limit, exactly as Newtonian mechanics is recovered from special relativity at low velocity. Lesson 17 takes the direct route, promoting E² = p² + m² itself to an operator equation, and finds a candidate, the Klein–Gordon equation, that succeeds at covariance but runs into a different problem, examined in Lesson 18, that this lesson's probabilistic structure does not survive unmodified. Resolving that problem is what leads, in Lesson 19, to the Dirac equation.
 
 ### Worked example 8
 
-Show that the free Schrodinger equation is not invariant under the Lorentz transformation of Lesson 4 by checking dimensions of derivatives. The equation has one time derivative and two space derivatives acting on ψ. Under a boost, ∂_t and ∂ₓ mix into each other (Lesson 4, Exercise 4, applied to the coordinates rather than the gradient, or directly from t′ = γ(t−vx) and x′ = γ(x−vt)), so an equation with unequal numbers of each type of derivative cannot map into an equation of the same form in the primed frame; the Klein Gordon operator □ = ∂_t² − ∇², with equal numbers of each, is designed specifically to avoid this asymmetry.
+Show that the free Schrödinger equation is not invariant under the Lorentz transformation of Lesson 4 by checking dimensions of derivatives. The equation has one time derivative and two space derivatives acting on ψ. Under a boost, ∂_t and ∂ₓ mix into each other (Lesson 4, Exercise 4, applied to the coordinates rather than the gradient, or directly from t′ = γ(t−vx) and x′ = γ(x−vt)), so an equation with unequal numbers of each type of derivative cannot map into an equation of the same form in the primed frame; the Klein–Gordon operator □ = ∂_t² − ∇², with equal numbers of each, is designed specifically to avoid this asymmetry.
 
 # 8 Connections to QED
 
 @widths 3264 6528
-| Schrodinger-equation idea | Later role in QED |
+| Schrödinger-equation idea | Later role in QED |
 | iℏ∂_tψ = Ĥψ | Prototype for the Heisenberg equations of motion for quantized fields |
 | Stationary states and energy eigenvalues | Bound-state energies (hydrogen fine structure, Lamb shift, Lessons 75, 76) |
 | Free-particle plane waves and wave packets | Asymptotic in and out states of a scattering process (Lesson 50) |
 | Harmonic oscillator ladder operators a, a† | Creation and annihilation operators of every quantized field mode (Lessons 33, 37) |
 | Unitary evolution U(t) = e^(−iHt/ℏ) | Unitarity of the S-matrix; conservation of total probability in a scattering process |
 | Heisenberg picture and its equation of motion | Standard formulation of interacting quantum field theory and of the interaction picture (Lesson 79) |
-| Failure of Lorentz covariance | Direct motivation for the Klein Gordon and Dirac equations (Lessons 17, 19) |
+| Failure of Lorentz covariance | Direct motivation for the Klein–Gordon and Dirac equations (Lessons 17, 19) |
 
 The single most important item in this table is the ladder operator structure of Section 4. Once a free field is decomposed into independent momentum modes (Lesson 32), each mode is exactly the harmonic oscillator solved here, and the entire particle content of quantum field theory, one particle for each quantum of excitation of each mode, is a direct reading of Section 4.2's result that the oscillator's energy comes in units of ℏω₀ above a zero-point value.
 
 # 9 Summary
 
-1. The Schrodinger equation iℏ∂_tψ = Ĥψ follows from linearity and the operator correspondence E → iℏ∂_t, p → −iℏ∇ applied to the classical energy relation.
+1. The Schrödinger equation iℏ∂_tψ = Ĥψ follows from linearity and the operator correspondence E → iℏ∂_t, p → −iℏ∇ applied to the classical energy relation.
 
 2. A stationary state φ(x)e^(−iEt/ℏ) has time-independent probability density and time-independent expectation values for time-independent operators.
 
@@ -220,18 +220,18 @@ The single most important item in this table is the ladder operator structure of
 
 5. Any initial state evolves as a superposition of stationary states with time-dependent relative phases; the unitary operator U(t) = e^(−iHt/ℏ) implements this evolution.
 
-6. The Heisenberg picture moves time dependence to the operators, with dA_H/dt = (i/ℏ)[H, A_H], equivalent to the Schrodinger picture for all expectation values.
+6. The Heisenberg picture moves time dependence to the operators, with dA_H/dt = (i/ℏ)[H, A_H], equivalent to the Schrödinger picture for all expectation values.
 
-7. The Schrodinger equation is not Lorentz covariant, because it treats time and space derivatives asymmetrically.
+7. The Schrödinger equation is not Lorentz covariant, because it treats time and space derivatives asymmetrically.
 
-8. A covariant replacement must be found, motivating the Klein Gordon and, ultimately, the Dirac equation.
+8. A covariant replacement must be found, motivating the Klein–Gordon and, ultimately, the Dirac equation.
 
 # Exercises
 
 @widths 720 9072
 | No | Problem |
-| 1 | Verify that ψ = A cos(kx)e^(−iωt) does not solve the free Schrodinger equation for any single ω, but that A cos(kx) e^(−iωt) can be written as a sum of two plane waves each of which does. |
-| 2 | Solve the time-independent Schrodinger equation for a free particle confined to a ring of circumference L with periodic boundary conditions φ(x+L) = φ(x), and find the allowed energies. |
+| 1 | Verify that ψ = A cos(kx)e^(−iωt) does not solve the free Schrödinger equation for any single ω, but that A cos(kx) e^(−iωt) can be written as a sum of two plane waves each of which does. |
+| 2 | Solve the time-independent Schrödinger equation for a free particle confined to a ring of circumference L with periodic boundary conditions φ(x+L) = φ(x), and find the allowed energies. |
 | 3 | For the infinite well of Worked example 2, find the time-dependent wave function starting from ψ(x,0) = φ₁(x), and show \|ψ(x,t)\|² is independent of time. |
 | 4 | For the infinite well, find ψ(x,t) starting from ψ(x,0) = (φ₁(x)+φ₂(x))/√2, and compute ⟨x̂⟩(t), showing it oscillates. |
 | 5 | Find the oscillation frequency in Exercise 4 in terms of L and m, and compare it with the classical period of a particle bouncing between the walls at the corresponding energy. |
@@ -240,7 +240,7 @@ The single most important item in this table is the ladder operator structure of
 | 8 | Show that \|n⟩ = (a†)ⁿ\|0⟩/√(n!) is correctly normalized for n = 0, 1, 2 by explicit computation using [a,a†] = 1. |
 | 9 | For the two-level system of Worked example 6, find the smallest time T > 0 at which ⟨A⟩(T) returns to its initial value, and express T in terms of E₁ − E₂. |
 | 10 | Show that U(t₁)U(t₂) = U(t₁+t₂) directly from the definition U(t) = e^(−iĤt/ℏ), and explain why this composition law is required physically. |
-| 11 | Verify by direct substitution that ψ(x,t) = φₙ(x)e^(−iEₙt/ℏ) satisfies the full time-dependent Schrodinger equation, given that φₙ satisfies the time-independent one. |
+| 11 | Verify by direct substitution that ψ(x,t) = φₙ(x)e^(−iEₙt/ℏ) satisfies the full time-dependent Schrödinger equation, given that φₙ satisfies the time-independent one. |
 | 12 | In the Heisenberg picture, compute [x̂_H(t), p̂_H(t)] for the free particle using x̂_H(t) = x̂(0)+p̂(0)t/m and p̂_H(t) = p̂(0), and show it equals iℏ for all t. |
 | 13 | Show that the Heisenberg equation of motion reduces to Hamilton's equations of Lesson 6 in the classical limit by replacing [·,·]/iℏ with {·,·} formally. |
 | 14 | For the oscillator in the Heisenberg picture, solve dâ_H/dt = (i/ℏ)[Ĥ, â_H] = −iω₀â_H and show â_H(t) = â(0)e^(−iω₀t), matching the classical result of Lesson 6, Exercise 16. |
@@ -271,7 +271,7 @@ The single most important item in this table is the ladder operator structure of
 
 **11.** iℏ∂_t[φₙe^(−iEₙt/ℏ)] = iℏφₙ(−iEₙ/ℏ)e^(−iEₙt/ℏ) = Eₙφₙe^(−iEₙt/ℏ). Also Ĥ[φₙe^(−iEₙt/ℏ)] = e^(−iEₙt/ℏ)Ĥφₙ = e^(−iEₙt/ℏ)Eₙφₙ, using that Ĥ acts only on x. The two sides match.
 
-**12.** [x̂(0)+p̂(0)t/m, p̂(0)] = [x̂(0),p̂(0)] + (t/m)[p̂(0),p̂(0)] = iℏ + 0 = iℏ, independent of t, as required by the general theorem that Heisenberg-picture commutators equal their Schrodinger-picture values at equal times.
+**12.** [x̂(0)+p̂(0)t/m, p̂(0)] = [x̂(0),p̂(0)] + (t/m)[p̂(0),p̂(0)] = iℏ + 0 = iℏ, independent of t, as required by the general theorem that Heisenberg-picture commutators equal their Schrödinger-picture values at equal times.
 
 **13.** Replacing [Ĥ,A]/iℏ by {H,A} in dA/dt = (i/ℏ)[Ĥ,A] gives dA/dt = {A,H} (up to the sign convention matching {f,H} of Lesson 6), which for A = q or A = p reproduces Hamilton's equations q̇ = ∂H/∂p and ṗ = −∂H/∂q exactly as derived there.
 
@@ -283,7 +283,7 @@ The single most important item in this table is the ladder operator structure of
 
 # Mastery checklist
 
-- I can derive the Schrodinger equation from the correspondence rule and the classical energy relation.
+- I can derive the Schrödinger equation from the correspondence rule and the classical energy relation.
 
 - I can solve the time-independent equation for a simple potential and write the corresponding stationary state.
 
@@ -295,6 +295,6 @@ The single most important item in this table is the ladder operator structure of
 
 - I can state the definition of U(t) and explain why its unitarity guarantees conservation of probability.
 
-- I can convert between the Schrodinger and Heisenberg pictures for a simple observable.
+- I can convert between the Schrödinger and Heisenberg pictures for a simple observable.
 
-- I can explain in one or two sentences why the Schrodinger equation fails to be Lorentz covariant.
+- I can explain in one or two sentences why the Schrödinger equation fails to be Lorentz covariant.

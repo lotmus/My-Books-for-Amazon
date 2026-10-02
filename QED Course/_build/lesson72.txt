@@ -113,7 +113,7 @@ A group can be computed and checked by itself, and an error inside one group can
 
 ## 5.1 The electron self-energy
 
-At one loop in a general covariant gauge, the electron's field-renormalization constant has the ultraviolet behaviour
+At one loop in a general covariant gauge, the electron's field-renormalization constant has the ultraviolet behavior
 
 $$ Z₂ = 1 − (αξ / 4π) ln[Λ²/m²] + finite
 

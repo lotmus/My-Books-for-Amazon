@@ -1,7 +1,7 @@
 TITLE: Lagrangian Density
 TAGLINE: The action as a spacetime integral, locality and Lorentz invariance as constraints on the Lagrangian, and the free Lagrangians of the scalar, Dirac, and electromagnetic fields
 NUM: 25
-NEXT: Lesson 26 derives the Euler Lagrange equations for fields: varying the action, integrating by parts in four dimensions, and obtaining the general equation ∂ℒ/∂φ − ∂_μ[∂ℒ/∂(∂_μφ)] = 0, which is then applied to each field of this lesson.
+NEXT: Lesson 26 derives the Euler–Lagrange equations for fields: varying the action, integrating by parts in four dimensions, and obtaining the general equation ∂ℒ/∂φ − ∂_μ[∂ℒ/∂(∂_μφ)] = 0, which is then applied to each field of this lesson.
 
 # How to use this lesson
 
@@ -248,7 +248,7 @@ The three Lagrangian densities of Sections 4 through 6 are the building blocks o
 | 5 | Determine the dimension of each coupling in the terms gφ³, λφ⁴, and cφ⁶ in four spacetime dimensions, and identify which is dimensionless. |
 | 6 | Show that under φ → e^(iα(x))φ, the derivative term becomes ∂_μφ*∂^μφ + i∂^μα(φ∂_μφ* − φ*∂_μφ) + (∂α)²φ*φ, and explain why the extra terms vanish for constant α. |
 | 7 | Show that the Dirac Lagrangian density is real up to a total derivative, following Section 5.2. |
-| 8 | For ℒ = ψ̄(iγ^μ∂_μ − m)ψ, compute ∂ℒ/∂ψ̄ and ∂ℒ/∂(∂_μψ̄), and state the equation obtained by setting the Euler Lagrange combination to zero. |
+| 8 | For ℒ = ψ̄(iγ^μ∂_μ − m)ψ, compute ∂ℒ/∂ψ̄ and ∂ℒ/∂(∂_μψ̄), and state the equation obtained by setting the Euler–Lagrange combination to zero. |
 | 9 | Compute the momentum π_ψ = ∂ℒ/∂ψ̇ for the Dirac field and show that ℋ = ψ†(−iα·∇ + βm)ψ. |
 | 10 | Verify F_μνF^μν = 2(B² − E²) for a field with only a magnetic field along z, where F₁₂ = −B and F₂₁ = B. |
 | 11 | Show that the coupling −j^μA_μ equals −ρφ + j·A and reduces to −qφ + qv·A for a point charge. |
@@ -274,7 +274,7 @@ The three Lagrangian densities of Sections 4 through 6 are the building blocks o
 
 **7.** The complex conjugate of iψ̄γ^μ∂_μψ is −i(∂_μψ̄)γ^μψ, using (ψ̄γ^μ∂_μψ)* = ∂_μψ†γ^μ†γ⁰ψ and γ^μ†γ⁰ = γ⁰γ^μ from Lesson 23. The difference of the term and its conjugate is iψ̄γ^μ∂_μψ + i(∂_μψ̄)γ^μψ = i∂_μ(ψ̄γ^μψ), a total derivative. The mass term ψ̄ψ = ψ†γ⁰ψ is real, so the imaginary part of ℒ is a total derivative and ℒ is real up to a total derivative.
 
-**8.** Since ℒ contains no derivative of ψ̄, ∂ℒ/∂(∂_μψ̄) = 0, and ∂ℒ/∂ψ̄ = (iγ^μ∂_μ − m)ψ. The Euler Lagrange equation for ψ̄, ∂ℒ/∂ψ̄ − ∂_μ[∂ℒ/∂(∂_μψ̄)] = 0, reduces to (iγ^μ∂_μ − m)ψ = 0, the Dirac equation.
+**8.** Since ℒ contains no derivative of ψ̄, ∂ℒ/∂(∂_μψ̄) = 0, and ∂ℒ/∂ψ̄ = (iγ^μ∂_μ − m)ψ. The Euler–Lagrange equation for ψ̄, ∂ℒ/∂ψ̄ − ∂_μ[∂ℒ/∂(∂_μψ̄)] = 0, reduces to (iγ^μ∂_μ − m)ψ = 0, the Dirac equation.
 
 **9.** ℒ = iψ̄γ⁰ψ̇ + iψ̄γⁱ∂ᵢψ − mψ̄ψ = iψ†ψ̇ + iψ̄γⁱ∂ᵢψ − mψ̄ψ, using ψ̄γ⁰ = ψ†. So π_ψ = ∂ℒ/∂ψ̇ = iψ†. Then ℋ = π_ψψ̇ − ℒ = iψ†ψ̇ − iψ†ψ̇ − iψ̄γⁱ∂ᵢψ + mψ̄ψ = −iψ̄γⁱ∂ᵢψ + mψ̄ψ = ψ†(−iγ⁰γⁱ∂ᵢ + mγ⁰)ψ = ψ†(−iα·∇ + βm)ψ, using γ⁰γⁱ = αⁱ and γ⁰ = β.
 

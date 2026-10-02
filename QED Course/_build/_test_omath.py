@@ -33,6 +33,13 @@ CASES = [
     ("(Λ⁻¹)^ν_μ", "(Λ^(−1))_(μ)^(ν)"),
     ("a = (m ω q + i p)/√(2 m ω)", "a=(m ω q+i p)/(√(2 m ω))"),
     ("ℏ²|k|²/2m", "(ℏ^(2)|k|^(2))/(2m)"),
+    # a modulus before a fraction bar, and daggers on subscripted operators
+    ("|B| = |E|/c", "|B|=(|E|)/(c)"),
+    ("p̂ = p/|p|", "p̂=(p)/(|p|)"),
+    ("dP = (α/π) (d|k| / |k|)", "dP=(α)/(π) ((d|k|)/(|k|))"),
+    ("⟨ f | S | i ⟩", "⟨ f|S|i ⟩"),
+    ("a_p†|0⟩", "a_(p)^(†)|0⟩"),
+    ("√(n_k!)", "√(n_(k)!)"),
 ]
 
 failed = 0

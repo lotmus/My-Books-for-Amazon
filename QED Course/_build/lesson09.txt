@@ -92,7 +92,7 @@ Total probability is conserved by the normalization condition, but this global s
 
 $$ j(x, t) = (ℏ/m) Im[ψ*∇ψ] = (ℏ/2mi)(ψ*∇ψ − ψ∇ψ*)
 
-Using the Schrodinger equation, to be introduced in Lesson 11, one can show
+Using the Schrödinger equation, to be introduced in Lesson 11, one can show
 
 $$ ∂ρ/∂t + ∇·j = 0,    ρ = |ψ|²
 
@@ -104,7 +104,7 @@ For a plane wave ψ = A e^(i(kx−ωt)) in one dimension, ∇ψ = ikψ, so j = (
 
 ### Worked example 3
 
-Verify the continuity equation for a one-dimensional plane wave using the free Schrodinger equation iℏ∂_tψ = −(ℏ²/2m)∂ₓ²ψ (anticipating Lesson 11). For ψ = Ae^(i(kx−ωt)), ρ = |A|² is constant in time, so ∂ρ/∂t = 0. The current j = (ℏk/m)|A|² is also constant in x, so ∂ⱼ/∂x = 0. Both sides of the continuity equation vanish separately, consistent with a stationary, uniform probability flow.
+Verify the continuity equation for a one-dimensional plane wave using the free Schrödinger equation iℏ∂_tψ = −(ℏ²/2m)∂ₓ²ψ (anticipating Lesson 11). For ψ = Ae^(i(kx−ωt)), ρ = |A|² is constant in time, so ∂ρ/∂t = 0. The current j = (ℏk/m)|A|² is also constant in x, so ∂ⱼ/∂x = 0. Both sides of the continuity equation vanish separately, consistent with a stationary, uniform probability flow.
 
 # 4 Expansion in a basis
 

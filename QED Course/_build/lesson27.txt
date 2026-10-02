@@ -5,7 +5,7 @@ NEXT: Lesson 28 studies continuous symmetries in their own right: the classifica
 
 # How to use this lesson
 
-Conservation laws have appeared throughout the course, each time as a separate fact: conservation of angular momentum for a central potential (Lesson 13), of probability for the Schrodinger and Dirac equations (Lessons 9 and 23), of charge for the Maxwell equations (Lesson 7). Lesson 5 observed that a cyclic coordinate has a conserved momentum, and Lesson 6 showed that a conserved quantity generates the symmetry to which it belongs. This lesson turns those observations into a general theorem, due to Emmy Noether: to every continuous symmetry of the action there corresponds a conserved current.
+Conservation laws have appeared throughout the course, each time as a separate fact: conservation of angular momentum for a central potential (Lesson 13), of probability for the Schrödinger and Dirac equations (Lessons 9 and 23), of charge for the Maxwell equations (Lesson 7). Lesson 5 observed that a cyclic coordinate has a conserved momentum, and Lesson 6 showed that a conserved quantity generates the symmetry to which it belongs. This lesson turns those observations into a general theorem, due to Emmy Noether: to every continuous symmetry of the action there corresponds a conserved current.
 
 The theorem is the reason electric charge is conserved, and the reason it is natural to ask which symmetry a given charge belongs to. It is also the bridge to the rest of the course. The symmetry that yields electric charge is the U(1) phase symmetry of the Dirac field, which Lesson 30 studies, and the demand that this symmetry hold locally, not just globally, produces the interaction of QED (Lesson 38). Expect seven to nine focused hours.
 
@@ -70,7 +70,7 @@ Compute δℒ directly from its dependence on the fields, using the chain rule a
 
 $$ δℒ = ε Σ_a [ (∂ℒ/∂φ_a) Δφ_a + (∂ℒ/∂(∂_μφ_a)) ∂_μΔφ_a ]
 
-On a solution of the Euler Lagrange equations of Lesson 26, ∂ℒ/∂φ_a = ∂_μ[∂ℒ/∂(∂_μφ_a)]. Substituting this for the first term, the two terms combine by the product rule into a single total derivative.
+On a solution of the Euler–Lagrange equations of Lesson 26, ∂ℒ/∂φ_a = ∂_μ[∂ℒ/∂(∂_μφ_a)]. Substituting this for the first term, the two terms combine by the product rule into a single total derivative.
 
 $$ δℒ = ε ∂_μ { Σ_a [∂ℒ/∂(∂_μφ_a)] Δφ_a }
 
@@ -114,7 +114,7 @@ For ℒ = ∂_μφ*∂^μφ − m²φ*φ, the transformation φ → e^(iα)φ wi
 
 $$ j^μ = ∂^μφ* (iφ) + ∂^μφ (−iφ*) = −i (φ*∂^μφ − φ∂^μφ*)
 
-This is the Klein Gordon current of Lesson 17, Section 3.1, up to an overall sign that depends on the direction chosen for the parameter: using α → −α, that is Δφ = −iφ, reproduces i(φ*∂^μφ − φ∂^μφ*) exactly. The overall sign of a Noether current is a convention, and it fixes the sign convention for the charge. The interesting point is that the current whose sign problem occupied Lesson 17 is here shown to be the Noether current of a symmetry, and its conservation is a consequence of that symmetry (Exercise 3).
+This is the Klein–Gordon current of Lesson 17, Section 3.1, up to an overall sign that depends on the direction chosen for the parameter: using α → −α, that is Δφ = −iφ, reproduces i(φ*∂^μφ − φ∂^μφ*) exactly. The overall sign of a Noether current is a convention, and it fixes the sign convention for the charge. The interesting point is that the current whose sign problem occupied Lesson 17 is here shown to be the Noether current of a symmetry, and its conservation is a consequence of that symmetry (Exercise 3).
 
 ### Worked example 2
 
@@ -203,7 +203,7 @@ The most important entry is the seventh. When the parameter of a global symmetry
 
 3. The same current is the coefficient of ∂_με in the change of the action when the symmetry parameter is made position dependent, δS = ∫(∂_με)j^μ.
 
-4. The shift symmetry of the massless scalar gives j^μ = ∂^μφ; the U(1) phase symmetry of the complex scalar gives the Klein Gordon current; the Dirac phase symmetry gives ψ̄γ^μψ, up to sign conventions.
+4. The shift symmetry of the massless scalar gives j^μ = ∂^μφ; the U(1) phase symmetry of the complex scalar gives the Klein–Gordon current; the Dirac phase symmetry gives ψ̄γ^μψ, up to sign conventions.
 
 5. When the Lagrangian changes by a total derivative, K^μ is nonzero and must be included, as in the particle in a uniform force.
 
@@ -217,8 +217,8 @@ The most important entry is the seventh. When the parameter of a global symmetry
 
 @widths 720 9072
 | No | Problem |
-| 1 | Starting from δℒ = ε∂_μK^μ and the Euler Lagrange equations, derive ∂_μj^μ = 0 for j^μ = Σ_a[∂ℒ/∂(∂_μφ_a)]Δφ_a − K^μ, filling in each step of Section 2.2. |
-| 2 | For ℒ = (1/2)∂_μφ∂^μφ − (1/2)m²φ², show that the shift φ → φ + ε changes ℒ by −εm²φ, that this is not a total derivative for m ≠ 0, and verify that j^μ = ∂^μφ is then not conserved: compute ∂_μj^μ using the Klein Gordon equation. |
+| 1 | Starting from δℒ = ε∂_μK^μ and the Euler–Lagrange equations, derive ∂_μj^μ = 0 for j^μ = Σ_a[∂ℒ/∂(∂_μφ_a)]Δφ_a − K^μ, filling in each step of Section 2.2. |
+| 2 | For ℒ = (1/2)∂_μφ∂^μφ − (1/2)m²φ², show that the shift φ → φ + ε changes ℒ by −εm²φ, that this is not a total derivative for m ≠ 0, and verify that j^μ = ∂^μφ is then not conserved: compute ∂_μj^μ using the Klein–Gordon equation. |
 | 3 | For the complex scalar, verify ∂_μj^μ = 0 for j^μ = −i(φ*∂^μφ − φ∂^μφ*) using the equations (□ + m²)φ = 0 and (□ + m²)φ* = 0. |
 | 4 | For two real scalars of masses m₁ and m₂, show that j^μ = φ₁∂^μφ₂ − φ₂∂^μφ₁ has ∂_μj^μ = (m₁² − m₂²)φ₁φ₂ and explain what this says about the O(2) rotation symmetry. |
 | 5 | For the Dirac field with Δψ = iψ, derive j^μ = −ψ̄γ^μψ and verify ∂_μj^μ = 0 using the Dirac equation and its adjoint. |
@@ -229,16 +229,16 @@ The most important entry is the seventh. When the parameter of a global symmetry
 | 10 | Under φ → e^(iε(x))φ, use Lesson 25, Exercise 6, to show that δℒ = (∂_με)i(φ∂^μφ* − φ*∂^μφ) to first order in ε, and identify the current as the coefficient of ∂_με. |
 | 11 | Show that if j^μ is conserved and A^(νμ) is antisymmetric, then j′^μ = j^μ + ∂_νA^(νμ) is conserved, and that j′ and j give the same charge Q when A^(ν0) vanishes at infinity. |
 | 12 | Explain why parity, which maps φ(t, x) → φ(t, −x), has no infinitesimal parameter and so gives no Noether current. |
-| 13 | Show that the rescaling φ → (1 + ε)φ maps solutions of the free Klein Gordon equation to solutions, but changes ℒ by 2εℒ, which is not a total derivative for general field configurations, so Noether's theorem gives no conserved current from it. |
+| 13 | Show that the rescaling φ → (1 + ε)φ maps solutions of the free Klein–Gordon equation to solutions, but changes ℒ by 2εℒ, which is not a total derivative for general field configurations, so Noether's theorem gives no conserved current from it. |
 | 14 | For N real scalar fields of equal mass, show that J^μ_(ab) = φ_a∂^μφ_b − φ_b∂^μφ_a is conserved for every pair a < b, and count the independent conserved currents. |
 | 15 | In natural units the fields have the dimensions found in Lesson 25, Section 7. Show that j^μ for the complex scalar has dimension 3 and that Q = ∫d³x j⁰ is dimensionless. |
-| 16 | Challenge: for the free real scalar field, compute T^μ_ν = [∂ℒ/∂(∂_μφ)]∂_νφ − δ^μ_νℒ, show that T^(μν) = ∂^μφ∂^νφ − g^(μν)ℒ, verify T^(00) = ℋ, and verify ∂_μT^(μν) = 0 using the Klein Gordon equation. |
+| 16 | Challenge: for the free real scalar field, compute T^μ_ν = [∂ℒ/∂(∂_μφ)]∂_νφ − δ^μ_νℒ, show that T^(μν) = ∂^μφ∂^νφ − g^(μν)ℒ, verify T^(00) = ℋ, and verify ∂_μT^(μν) = 0 using the Klein–Gordon equation. |
 
 # Solutions
 
 **1.** Compute δℒ = ε{(∂ℒ/∂φ_a)Δφ_a + [∂ℒ/∂(∂_μφ_a)]∂_μΔφ_a}, summed over a. On solutions ∂ℒ/∂φ_a = ∂_μ[∂ℒ/∂(∂_μφ_a)], so δℒ = ε{∂_μ[∂ℒ/∂(∂_μφ_a)]Δφ_a + [∂ℒ/∂(∂_μφ_a)]∂_μΔφ_a} = ε∂_μ{[∂ℒ/∂(∂_μφ_a)]Δφ_a} by the product rule. The symmetry condition gives δℒ = ε∂_μK^μ. Equating and dividing by ε, ∂_μ{[∂ℒ/∂(∂_μφ_a)]Δφ_a − K^μ} = 0.
 
-**2.** δℒ = ∂ℒ/∂φ · ε = −εm²φ, since the kinetic term is unchanged by a constant shift. For m ≠ 0 this is not of the form ε∂_μK^μ, because m²φ is not the divergence of any function of the fields alone. The candidate current j^μ = ∂^μφ has ∂_μj^μ = □φ = −m²φ ≠ 0 by the Klein Gordon equation, so it is not conserved, consistent with the shift not being a symmetry.
+**2.** δℒ = ∂ℒ/∂φ · ε = −εm²φ, since the kinetic term is unchanged by a constant shift. For m ≠ 0 this is not of the form ε∂_μK^μ, because m²φ is not the divergence of any function of the fields alone. The candidate current j^μ = ∂^μφ has ∂_μj^μ = □φ = −m²φ ≠ 0 by the Klein–Gordon equation, so it is not conserved, consistent with the shift not being a symmetry.
 
 **3.** ∂_μj^μ = −i(∂_μφ*∂^μφ + φ*□φ − ∂_μφ∂^μφ* − φ□φ*) = −i(φ*□φ − φ□φ*), since the terms ∂_μφ*∂^μφ and ∂_μφ∂^μφ* are equal and cancel. Using □φ = −m²φ and □φ* = −m²φ*, this is −i(−m²φ*φ + m²φφ*) = 0.
 

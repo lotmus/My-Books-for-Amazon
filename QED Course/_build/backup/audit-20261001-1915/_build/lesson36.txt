@@ -1,0 +1,299 @@
+TITLE: Anticommutation Relations
+TAGLINE: Why the electron field must anticommute, causality and the propagator S(x−y), the sign rules of the fermionic Fock space, and Wick's theorem with a minus sign per crossing
+NUM: 36
+NEXT: Lesson 37 quantizes the last free field of the course, the electromagnetic field. Gauge freedom makes the four steps of Lesson 31 harder to apply directly, and the lesson works in Coulomb gauge to isolate the two physical, transverse polarizations before building the photon's creation and annihilation operators.
+
+# How to use this lesson
+
+Lesson 35 postulated the equal-time anticommutation relations of the Dirac field and showed what they buy: a Hamiltonian bounded below, a charge that tells electron from positron, and an equation of motion equal to the classical Dirac equation. This lesson asks why anticommutators, and not commutators, are the correct choice. Three arguments are given, of increasing depth. The first, sketched only, is that the Dirac field is a constrained system in the sense of Lesson 6, with no independent momentum conjugate to ψ†, and that consistency of such a system already points toward a bracket that is symmetric rather than antisymmetric. The second, worked out in full, is causality: the anticommutator of the field vanishes at spacelike separation, and the commutator does not. The third names the general theorem, spin and statistics, of which this and Lesson 32 are the two worked instances the course can fully verify.
+
+The lesson then turns to the consequences already promised in Lessons 16 and 34: the sign rules of a fermionic Fock space, spelled out for an ordered set of occupied modes, and Wick's theorem for fermions, in which every reordering of two field operators, not only their vacuum contraction, carries a sign. The closing sections define the free electron propagator S(x − y), the object that becomes, in Lesson 46, the internal electron line of every Feynman diagram in the rest of the course.
+
+Expect seven to nine focused hours. Section 2's derivation is the technical heart of the lesson; the rest is bookkeeping made precise.
+
+## Learning objectives
+
+- State, at the level of this course, why the constrained structure of the Dirac Lagrangian favors an anticommutator over a commutator.
+
+- Derive the field anticommutator {ψ(x), ψ̄(y)} = (i∂̸_x + m)[D(x − y) − D(y − x)] from the mode expansion and the spinor completeness relation.
+
+- Show that this anticommutator vanishes at spacelike separation, and that the corresponding commutator would not.
+
+- State the spin-statistics theorem and identify Lesson 32 and this lesson as its two worked cases.
+
+- Write the sign rule for creation and annihilation operators acting on an ordered occupation-number state, and relate it to the Slater determinant of Lesson 16.
+
+- Define the contraction S(x − y) = ⟨0|ψ(x)ψ̄(y)|0⟩ = (i∂̸_x + m)D(x − y) and show it solves the free Dirac equation.
+
+- Derive the four-fermion vacuum expectation value by Wick's theorem, and identify the relative minus sign between its two terms.
+
+- Explain why a closed fermion loop, encountered later as a Feynman diagram, carries an overall minus sign.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| {A, B} = AB + BA | Anticommutator |
+| [A, B] = AB − BA | Commutator |
+| D(x − y) | ∫d³p/((2π)³2E_p) e^(−ip·(x−y)), the scalar function of Lessons 31 and 32 |
+| S(x − y) | (i∂̸_x + m)D(x − y) = ⟨0|ψ(x)ψ̄(y)|0⟩, the electron contraction |
+| ψ⁺, ψ⁻ | Annihilation-operator (b) and creation-operator (d†) parts of ψ |
+| :A: | Normal-ordered product; for fermions, each transposition of two operators used to reach the ordered form contributes a factor −1 |
+| \|n_1, n_2, …⟩ | Occupation-number state built in a fixed order of modes |
+| Θ(x⁰ − y⁰) | Step function, 1 for x⁰ > y⁰ and 0 otherwise, used in Lesson 45 |
+
+# 1 Why the constraint favors an anticommutator
+
+## 1.1 The Dirac field has no independent momentum for ψ†
+
+Lesson 25, Section 5.3, found that the Lagrangian ℒ = iψ†ψ̇ + iψ̄γⁱ∂ᵢψ − mψ̄ψ gives π_ψ = ∂ℒ/∂ψ̇ = iψ† and no term at all involving ψ̇†, so there is no independent momentum conjugate to ψ†. Compare the real scalar field, whose Lagrangian is quadratic in φ̇ and gives an honest momentum π = φ̇, unconstrained. For the Dirac field, the relation π_ψ = iψ† is itself a constraint linking the coordinate ψ† to the momentum π_ψ, in the sense of Lesson 6, Section 1.1, where a Legendre transformation that cannot be inverted for a velocity signals exactly this kind of dependency.
+
+## 1.2 A structural remark, not a derivation
+
+Making this fully precise requires treating ψ and ψ† as classical variables that anticommute already before quantization, Grassmann variables, and carrying out Dirac's method for constrained Hamiltonian systems in that setting. Both pieces of machinery, Grassmann calculus and the Dirac bracket, are standard in a second course in field theory but are not developed here. What can be said at this course's level is the shape of the answer: for variables that anticommute classically, the natural bracket built from their Grassmann derivatives is symmetric under exchanging the two arguments, not antisymmetric the way the ordinary Poisson bracket of Lesson 6 is; and it is exactly this symmetric classical bracket that Dirac's quantization rule promotes to a quantum anticommutator, by the same logic that promoted the antisymmetric Poisson bracket to a commutator in Lesson 6, Section 7.1. This is a consistency argument, not a derivation, and this course does not attempt more than the plausibility it offers. Sections 2 and 3 give two arguments that are complete.
+
+# 2 Causality
+
+## 2.1 The field anticommutator
+
+Insert the mode expansion of Lesson 35, Section 3.3, into {ψ_a(x), ψ̄_b(y)}, keeping only the terms that survive: {b_p, b_k†} from the b-b† pairing and {d_p†, d_k} from the d-d† pairing, since every other pairing vanishes by Lesson 35, Section 4.1.
+
+$$ {ψ_a(x), ψ̄_b(y)} = ∫ d³p/((2π)³2E_p) [ u_s(p)_a ū_s(p)_b e^(−ip·(x−y)) + v_s(p)_a v̄_s(p)_b e^(+ip·(x−y)) ]  (sum over s)
+
+Using Σ_s u_s(p)ū_s(p) = p̸ + m and Σ_s v_s(p)v̄_s(p) = p̸ − m (Lesson 21, Section 6.1),
+
+$$ {ψ(x), ψ̄(y)} = ∫ d³p/((2π)³2E_p) [ (p̸ + m) e^(−ip·(x−y)) + (p̸ − m) e^(+ip·(x−y)) ]
+
+Acting with i∂̸_x on a plane wave brings down a factor of p̸ or −p̸ (Lesson 4, Section 6.2, extended to a slashed derivative): (i∂̸_x + m)e^(∓ip·(x−y)) = (±p̸ + m)e^(∓ip·(x−y)). The first term of the integrand is exactly (i∂̸_x + m)e^(−ip·(x−y)), and the second is −(i∂̸_x + m)e^(+ip·(x−y)), since (i∂̸_x + m)e^(+ip·(x−y)) = (−p̸ + m)e^(+ip·(x−y)) = −(p̸ − m)e^(+ip·(x−y)). So
+
+$$ {ψ(x), ψ̄(y)} = (i∂̸_x + m) [ D(x − y) − D(y − x) ]
+
+with D the function of Lessons 31 and 32. This is the fermionic analogue of Lesson 32, Section 7.1's [φ(x), φ(y)] = D(x − y) − D(y − x): the same odd combination of D appears, now multiplied by the differential operator i∂̸_x + m rather than left bare.
+
+### Worked example 1
+
+State why the cross terms {b_p, d_k} and {d_p†, b_k†} do not appear in the calculation above. Both vanish identically by the postulated anticommutation relations of Lesson 35, Section 4.1: operators of different species anticommute to zero, {b, d} = {b, d†} = 0 and likewise for their adjoints, exactly as different bosonic species commute to zero for the complex scalar field (Lesson 32, Section 8). No further calculation is needed; the vanishing is part of the definition of independent particle species.
+
+## 2.2 Vanishing at spacelike separation
+
+Lesson 32, Section 7.2, showed that D(x − y) − D(y − x) vanishes for (x − y)² < 0, because D is Lorentz invariant and a proper orthochronous boost-and-rotation takes a spacelike x − y to −(x − y). The same fact applies here without change, since it concerns only the scalar function D, not the spinor structure multiplying it.
+
+$$ {ψ(x), ψ̄(y)} = 0  for  (x − y)² < 0
+
+A differential operator such as i∂̸_x + m, applied to a function that vanishes identically throughout an open region, gives a function that still vanishes throughout that region: the operator differentiates the zero function into more zero, not into something nonzero at isolated points (Exercise 4 makes this explicit). So the vanishing of D(x − y) − D(y − x) at every spacelike point is enough to guarantee the vanishing of {ψ(x), ψ̄(y)} at every spacelike point.
+
+## 2.3 What the commutator would give
+
+Suppose instead the field had been quantized with [b, b†] = [d, d†] = (2π)³δ³, all other commutators zero. Repeating Section 2.1's calculation, the b-b† term is unchanged, but the d-d† term now carries a relative sign, since [d†, d] = −[d, d†] rather than {d†, d} = {d, d†}.
+
+$$ [ψ(x), ψ̄(y)] = ∫ d³p/((2π)³2E_p) [ (p̸ + m) e^(−ip·(x−y)) − (p̸ − m) e^(+ip·(x−y)) ] = (i∂̸_x + m) [ D(x − y) + D(y − x) ]
+
+The combination D(x − y) + D(y − x) is even, not odd. At spacelike separation, where D(x − y) = D(y − x) already, the odd combination cancels to zero (Section 2.2), but the even combination doubles to 2D(x − y), which Lesson 31, Section 3.1, showed is nonzero everywhere, including at spacelike separation. A commutator-quantized electron field would therefore fail to commute at spacelike separation: a measurement of the field at one point could influence the outcome of a measurement at another point with no causal connection to the first, exactly the acausal signaling that Lesson 31 raised as an open problem and that Lesson 32 resolved for the boson field using ordinary commutators. For the fermion field, only the anticommutator gives the needed odd combination and only the anticommutator is causal.
+
+### Worked example 2
+
+Explain why the argument of Section 2.3 could not have been avoided by choosing some other assignment of commutators and anticommutators among b, b†, d, d† separately. The sign discrepancy in Section 2.3 traces to a single fact: [d†, d] = −[d, d†], while {d†, d} = +{d, d†}. Since the b-b† and d-d† terms of {ψ, ψ̄} must combine into the specific odd function D(x − y) − D(y − x) for causality to hold (Section 2.2), and this combination requires the two terms to enter with the same overall bracket type, mixing a commutator for one species with an anticommutator for the other cannot reproduce it either; only anticommutators for both species work.
+
+# 3 Spin and statistics
+
+## 3.1 Two worked cases of a general theorem
+
+Lesson 16, Section 6.1, stated the empirical rule that half-integer-spin particles are fermions and integer-spin particles are bosons, and promised that quantizing the Dirac field would supply the structural reason. That promise is now kept, for this one case. Two independent requirements, a Hamiltonian bounded below (Lesson 35, Section 7) and a causal field algebra (Section 2 of this lesson), each separately rule out commutators for the spin-1/2 field and each separately rule out anticommutators for the spin-0 field of Lesson 32, whose Hamiltonian using anticommutators would not be quadratic in a way that gives a sensible particle interpretation, and whose field anticommutator, built from the even combination D(x − y) + D(y − x) rather than the odd one, would fail to vanish at spacelike separation by the same argument as Section 2.3 (Exercise 6).
+
+## 3.2 The general statement
+
+The full spin-statistics theorem extends this pattern to every spin and to interacting, not merely free, relativistic quantum field theories: a local, causal, Lorentz-invariant theory with a stable, positive-energy vacuum requires commutators for every integer-spin field and anticommutators for every half-integer-spin field, with no other consistent choice. Proving this in general is a genuine theorem of the algebraic structure of relativistic quantum field theory, well beyond a first course; what this lesson and Lesson 32 provide is not that general proof but two complete, explicit, checkable instances of it, for the two fields that make up QED.
+
+### Worked example 3
+
+State what would go wrong physically, not just algebraically, if nature had chosen the other assignment for one of these two fields. For a commutator-quantized Dirac field, Lesson 35, Section 7, showed the energy is unbounded below: any interaction could extract unlimited energy by producing more and more d-quanta, so ordinary matter would not be stable. For an anticommutator-quantized scalar field, the field operator would satisfy φ² = 0 at every point by the fermionic analogue of Lesson 35, Section 2.1 applied to a single bosonic-looking mode forced into fermionic algebra, making the field unable to take a nonzero classical value anywhere and unable to describe, for instance, the classical electromagnetic-potential-like behavior expected of an integer-spin field. Both alternatives fail to describe anything resembling the observed world.
+
+# 4 The fermionic Fock space and its signs
+
+## 4.1 Ordered occupation-number states
+
+Fix, once and for all, an ordering of the one-particle modes, labeled 1, 2, 3, … (for the Dirac field, a mode is a choice of momentum, spin, and particle-or-antiparticle type). A general basis state of the fermionic Fock space is
+
+$$ |n_1, n_2, …⟩ = (c_1†)^(n_1) (c_2†)^(n_2) ⋯ |0⟩,    n_i ∈ {0, 1}
+
+with the creation operators applied in the fixed order of the labeling. Because {c_i†, c_j†} = 0 for i ≠ j, the state for any other ordering of the same operators differs from this one only by a sign, the sign of the permutation needed to restore the fixed order (Lesson 1, Section 4.3, on determinants under row exchange, is the same fact). The state is therefore well defined once the ordering convention is fixed, and it is exactly the exclusion principle of Lesson 16 restated as an ordered list of one-particle labels.
+
+## 4.2 The sign rule
+
+Acting with c_k† or c_k on |n_1, n_2, …⟩ requires anticommuting the operator past every c_i† already present with i < k before it reaches its own slot.
+
+$$ c_k† |…, n_k, …⟩ = (1 − n_k) (−1)^(Σ_(i<k) n_i) |…, n_k + 1, …⟩,    c_k |…, n_k, …⟩ = n_k (−1)^(Σ_(i<k) n_i) |…, n_k − 1, …⟩
+
+The factor (1 − n_k) or n_k enforces the exclusion principle directly: creation fails if the mode is already occupied, and annihilation fails if it is empty. The sign (−1)^(Σ_(i<k)n_i) counts the number of occupied modes that come before mode k in the fixed ordering, and it is this sign, not present for bosons, that Lesson 34's forward reference to "the ordering signs of fermionic operators" points to.
+
+### Worked example 4
+
+Compute c_2†c_1†|0⟩ using the sign rule and compare with direct anticommutation. Applying the operators from the right, c_1†|0⟩ = |1, 0, …⟩ (using the rule with n_1 = 0 and no modes before mode 1, so the sign is +1). Then c_2†|1, 0, …⟩: mode 2 is empty (n_2 = 0) and one mode before it (mode 1) is occupied, so the sign is (−1)¹ = −1, giving c_2†c_1†|0⟩ = −|1, 1, 0, …⟩. Direct anticommutation gives the same conclusion: c_2†c_1†|0⟩ = −c_1†c_2†|0⟩, and defining |1, 1, 0, …⟩ := c_1†c_2†|0⟩ (creation operators applied in label order, the convention of Section 4.1) makes c_2†c_1†|0⟩ = −|1, 1, 0, …⟩ automatic.
+
+## 4.3 Relation to the Slater determinant
+
+Lesson 16, Section 5.2, built the N-fermion antisymmetric wave function as a determinant of single-particle orbitals, and noted that exchanging two particles exchanges two columns of the determinant, flipping its sign. The sign rule of Section 4.2 is the same fact in occupation-number language: relabeling which mode is created first is exactly relabeling which orbital is assigned to which particle, and the sign that appears is the sign of the corresponding column exchange. The occupation-number description and the Slater-determinant description are two languages for the same antisymmetry, and the occupation-number language, with its explicit sign rule, is the one used from here on, because it generalizes immediately to a field with infinitely many modes, where writing an explicit determinant is not practical.
+
+# 5 The propagator S(x − y)
+
+## 5.1 Definition
+
+Define the contraction of ψ(x) with ψ̄(y), in exact analogy with D(x − y) = ⟨0|φ(x)φ(y)|0⟩ of Lesson 34, Section 4.1.
+
+$$ S(x − y) := ⟨0| ψ(x) ψ̄(y) |0⟩
+
+Splitting ψ = ψ⁺ + ψ⁻ into its annihilation part (containing b) and creation part (containing d†), exactly as Lesson 34 split the scalar field, only ψ⁺(x) survives against ⟨0| on the left, and only the b†-carrying part of ψ̄(y) survives against |0⟩ on the right, since the d-carrying part of ψ̄ annihilates |0⟩ and the d†-carrying part of ψ has already been excluded. What remains is exactly the b-b† term of Section 2.1's calculation, with no second term from d-d†, since only one order, ψ(x) to the left of ψ̄(y), is being evaluated here.
+
+$$ S(x − y) = (i∂̸_x + m) D(x − y)
+
+This is the fermionic analogue of D(x − y) itself, and it plays the same role: it is the c-number left over after ψ(x)ψ̄(y) is normal ordered.
+
+$$ ψ(x) ψ̄(y) = :ψ(x)ψ̄(y): + S(x − y)
+
+### Worked example 5
+
+Show that S(x − y) solves the free Dirac equation in x. Since D satisfies the Klein Gordon equation, (□ + m²)D = 0 (Lesson 31, Section 3.1, and Lesson 17), and since (i∂̸_x − m)(i∂̸_x + m) = −(∂̸_x∂̸_x) − m² = −□ − m² (using ∂̸∂̸ = □, the identity of Lesson 20, Section 1.1, applied to derivatives rather than gamma matrices, or directly Lesson 19, Section 4.1's calculation), it follows that (i∂̸_x − m)S(x − y) = (i∂̸_x − m)(i∂̸_x + m)D(x − y) = −(□ + m²)D(x − y) = 0. The contraction S(x − y), a purely classical-looking object built from vacuum expectation values, satisfies the same equation as the field it came from, exactly as the plane-wave solutions of Lesson 19 do individually.
+
+## 5.2 The reverse order
+
+By the same method, ⟨0|ψ̄(y)ψ(x)|0⟩ picks out the d-d† pairing, since only the d-carrying part of ψ(x) survives against ⟨0| on the left and only the d†-carrying part of ψ̄(y) survives against |0⟩ on the right; the result is the piece of Section 2.1's calculation proportional to e^(+ip·(x−y)).
+
+$$ ⟨0| ψ̄(y) ψ(x) |0⟩ = −(i∂̸_x + m) D(y − x)
+
+and, using the sign convention of Section 4.2 already applied to fields, normal ordering a reversed pair of fermionic operators costs a sign, :ψ̄(y)ψ(x): = −:ψ(x)ψ̄(y):, so that
+
+$$ ψ̄(y) ψ(x) = −:ψ(x)ψ̄(y): − (i∂̸_x + m) D(y − x)
+
+Adding the two orderings of Sections 5.1 and 5.2 reproduces the field anticommutator of Section 2.1 exactly, since the normal-ordered pieces cancel: ψ(x)ψ̄(y) + ψ̄(y)ψ(x) = S(x − y) − (i∂̸_x + m)D(y − x) = {ψ(x), ψ̄(y)}, confirming the two calculations are consistent (Exercise 9).
+
+# 6 Wick's theorem for fermions
+
+## 6.1 The four-point vacuum expectation value
+
+Consider ⟨0|ψ(x₁)ψ̄(x₂)ψ(x₃)ψ̄(x₄)|0⟩, the fermionic analogue of Lesson 34, Section 4.2. Exactly as there, only ψ⁺(x₁) survives on the left and only the b†-part of ψ̄(x₄) survives on the right, so the quantity equals ⟨0|ψ⁺(x₁)ψ̄(x₂)ψ(x₃)ψ̄⁻(x₄)|0⟩. Move ψ⁺(x₁) to the right using {ψ⁺(x₁), ψ̄(x₂)} = S(x₁ − x₂), a c-number, and {ψ⁺(x₁), ψ(x₃)} = 0, since ψ⁺ contains only b and ψ contains no b† for it to pair against.
+
+$$ ψ⁺(x₁) ψ̄(x₂) ψ(x₃) ψ̄⁻(x₄) = [ S(x₁ − x₂) − ψ̄(x₂)ψ⁺(x₁) ] ψ(x₃) ψ̄⁻(x₄) = S(x₁ − x₂) ψ(x₃)ψ̄⁻(x₄) − ψ̄(x₂) [ −ψ(x₃)ψ⁺(x₁) ] ψ̄⁻(x₄)
+
+using {ψ⁺(x₁), ψ(x₃)} = 0 to anticommute ψ⁺(x₁) past ψ(x₃) with a bare sign flip. Continuing, ψ⁺(x₁) meets ψ̄⁻(x₄), where {ψ⁺(x₁), ψ̄⁻(x₄)} = S(x₁ − x₄) (only the b-b† pairing contributes, as in Section 5.1), and the term with ψ⁺(x₁) left standing at the far right vanishes against |0⟩.
+
+$$ ⟨0| ψ₁ψ̄₂ψ₃ψ̄₄ |0⟩ = S(x₁ − x₂) ⟨0|ψ₃ψ̄₄|0⟩ − S(x₁ − x₄) ⟨0|ψ̄₂ψ₃|0⟩
+
+Writing ⟨0|ψ₃ψ̄₄|0⟩ = S(x₃ − x₄) (Section 5.1) and ⟨0|ψ̄₂ψ₃|0⟩ = −(i∂̸_(x₃) + m)D(x₂ − x₃) (Section 5.2, applied with x → x₃, y → x₂), the result is a sum of two terms, each a product of two contractions, with an explicit relative minus sign between them.
+
+$$ ⟨0| ψ₁ψ̄₂ψ₃ψ̄₄ |0⟩ = S(x₁ − x₂) S(x₃ − x₄) − S(x₁ − x₄) ⟨ψ̄₂ψ₃⟩
+
+### Worked example 6
+
+Compare the structure of this result with the scalar case of Lesson 34, Section 4.2, term by term. There, ⟨φ₁φ₂φ₃φ₄⟩ = D₁₂D₃₄ + D₁₃D₂₄ + D₁₄D₂₃, a sum of all three pairings with a plus sign throughout, because bosonic fields commute past each other freely and moving one field past another costs nothing. Here there are only two terms, not three, because ψ and ψ̄ are different kinds of object (one has an undaggered spinor index, one a daggered index) and only pairs of the form ⟨ψψ̄⟩ or ⟨ψ̄ψ⟩ are nonzero, ruling out the ⟨ψ₁ψ₃⟩-type pairing that would be the analogue of the middle scalar term; and the surviving two terms carry a relative minus sign, tracking the single anticommutation needed to move ψ⁺(x₁) past ψ(x₃) to reach the second pairing.
+
+## 6.2 The general rule
+
+The pattern of Section 6.1 generalizes: the vacuum expectation value of a product of free fermion fields is a sum over all complete pairings, exactly as for bosons, but each term carries a sign (−1)^P, where P is the number of transpositions of fermionic operators needed to bring the paired operators adjacent to each other, in the order they appear in the original product. This is Wick's theorem for fermions, and it is the direct source of the minus sign attached, later in the course, to every closed loop of fermion lines in a Feynman diagram (Lesson 62's vacuum polarization loop is the first example): a closed loop is, algebraically, a trace over a cyclic contraction of fermion fields, and the cyclic reordering needed to evaluate it contributes exactly one such sign.
+
+### Worked example 7
+
+State, without full derivation, why a diagram with one closed fermion loop carries a single overall minus sign relative to the same diagram with the loop replaced by two separate, open fermion lines. The vacuum expectation value defining the loop is a trace of a product of contractions closing back on itself, ⟨0|ψ(x₁)ψ̄(x₁)⋯|0⟩ in cyclic form; bringing the operators into a pairing that closes the loop requires one more transposition than the same set of contractions arranged as two open lines would, and Section 6.2's rule attaches the corresponding single factor of −1. This is stated here only as a preview; the diagrammatic bookkeeping that makes it precise is the subject of Lesson 49 and is used explicitly in Lesson 62.
+
+# 7 Connections to QED
+
+@widths 3264 6528
+| Anticommutation idea | Later role in QED |
+| Causal vanishing of {ψ(x), ψ̄(y)} at spacelike separation | Guarantees that observables built from the field, such as the charge density, commute at spacelike separation, preserving relativistic causality for the interacting theory (Lesson 39 onward) |
+| Spin-statistics theorem, verified for spin 0 and spin 1/2 | Justifies treating every fermionic field in the Standard Model, beyond this course's scope, with anticommutators as a matter of consistency, not choice |
+| Sign rule for c_k†, c_k on ordered occupation states | Bookkeeping for multi-electron and multi-photon final states in a scattering amplitude (Lesson 51) |
+| S(x − y) = (i∂̸_x + m)D(x − y) | Direct nonrelativistic-limit-free ancestor of the Feynman electron propagator S_F(p) = i(p̸ + m)/(p² − m² + iε) (Lesson 46) |
+| Wick's theorem for fermions with a sign per transposition | The combinatorial engine behind every fermion-line contraction in a Feynman diagram (Lesson 49) |
+| Minus sign for a closed fermion loop | Vacuum polarization (Lesson 62) and every other diagram with a closed electron loop |
+
+The propagator S(x − y) constructed in Section 5 is not yet the object used in a scattering calculation; that requires the time-ordered product and the iε prescription of Lesson 45, applied to fermionic fields with an extra minus sign for interchanging the time order of two fermion operators, exactly the sign rule of Section 6.2 applied to the special case of two operators. Everything needed to take that step, the anticommutators, the spinor completeness relations, and the sign bookkeeping, is now in place.
+
+# 8 Summary
+
+1. The Dirac Lagrangian has no independent momentum conjugate to ψ†, a constrained structure that, for classically anticommuting fields, points toward a symmetric rather than antisymmetric bracket.
+
+2. The field anticommutator is {ψ(x), ψ̄(y)} = (i∂̸_x + m)[D(x − y) − D(y − x)], built from the same odd combination of D that made the scalar field commutator vanish at spacelike separation.
+
+3. This anticommutator vanishes for (x − y)² < 0; the corresponding commutator, built from the even combination D(x − y) + D(y − x), does not, so causality selects the anticommutator.
+
+4. Together with the boundedness argument of Lesson 35, this instantiates the spin-statistics theorem for the two fields of QED: commutators for spin 0, anticommutators for spin 1/2.
+
+5. A fermionic Fock space is built from creation operators in a fixed order; acting with c_k or c_k† past occupied modes with a lower label costs a sign (−1)^(Σ_(i<k)n_i), the occupation-number form of the Slater determinant's sign under column exchange.
+
+6. The contraction S(x − y) = (i∂̸_x + m)D(x − y) satisfies the free Dirac equation and is the c-number left after normal ordering ψ(x)ψ̄(y).
+
+7. The four-fermion vacuum expectation value is a sum over pairings with a relative minus sign, Wick's theorem for fermions.
+
+8. This minus sign, applied to a cyclic set of contractions, is the origin of the overall minus sign attached to a closed fermion loop in a Feynman diagram.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Write out the b-b† and d-d† terms of {ψ_a(x), ψ̄_b(y)} explicitly using the mode expansion, and identify which spinor completeness relation of Lesson 21 is used for each. |
+| 2 | Verify (i∂̸_x + m)e^(−ip·(x−y)) = (p̸ + m)e^(−ip·(x−y)) and (i∂̸_x + m)e^(+ip·(x−y)) = (−p̸ + m)e^(+ip·(x−y)) by direct differentiation. |
+| 3 | Using Section 2.1's result, verify that {ψ(x), ψ̄(y)} reduces to the equal-time relation δ³(x − y) postulated in Lesson 35, Section 1.2, when x⁰ = y⁰ (you may quote D(0, x − y) = D(0, y − x) from Lesson 32, Worked example 4, and note that only the ∂_x⁰ piece of i∂̸_x need be tracked at equal times, since the spatial pieces multiply an already-symmetric function). |
+| 4 | Explain in one or two sentences why a differential operator applied to a function that is identically zero throughout an open set gives a function that is still zero throughout that set, and why this justifies the step from "D(x−y)−D(y−x) = 0 for spacelike x − y" to "{ψ(x), ψ̄(y)} = 0 for spacelike x − y." |
+| 5 | Show that [ψ(x), ψ̄(y)] = (i∂̸_x + m)[D(x−y) + D(y−x)] using [d†, d] = −(2π)³δ³ (opposite sign from the anticommutator), filling in the steps of Section 2.3. |
+| 6 | Sketch why quantizing the real scalar field with anticommutators, {a_p, a_q†} = (2π)³δ³ instead of the commutator of Lesson 32, would give a field commutator built from D(x−y) + D(y−x) rather than D(x−y) − D(y−x), and would therefore fail to vanish at spacelike separation. |
+| 7 | For three modes with a fixed order 1, 2, 3, compute c_3†c_1†|0⟩ using the sign rule of Section 4.2, and check the answer by anticommuting c_3† past c_1† directly. |
+| 8 | Show that c_k c_k†|…, 0_k, …⟩ = |…, 0_k, …⟩ and c_k†c_k|…, 1_k, …⟩ = |…, 1_k, …⟩ using the sign rule, and explain why the sign (−1)^(Σ_(i<k)n_i) always cancels between a c_k and a following c_k† acting on the same state. |
+| 9 | Add the results of Sections 5.1 and 5.2 to re-derive {ψ(x), ψ̄(y)} = S(x−y) − (i∂̸_x+m)D(y−x), and confirm it matches Section 2.1's formula. |
+| 10 | Verify (i∂̸_x − m)(i∂̸_x + m) = −□_x − m² using ∂̸_x∂̸_x = □_x (you may cite the identity from Lesson 19 or Lesson 20 that gives γ^μγ^ν∂_μ∂_ν = □ for a symmetric second derivative). |
+| 11 | Using Worked example 5's method, show that S(x−y) also satisfies (i∂̸_x − m)S(x−y) = 0 when the mass in the operator matches the mass used to build D from Lesson 31's dispersion relation, and state why a mismatched mass would spoil the cancellation. |
+| 12 | In the four-point calculation of Section 6.1, identify the exact step at which the anticommutator {ψ⁺(x₁), ψ(x₃)} = 0 is used, and explain why this pairing could never contribute a term to the final answer, in contrast with the scalar case where ⟨φ₁φ₃⟩ is a legitimate nonzero pairing. |
+| 13 | Compute ⟨0|ψ(x₁)ψ̄(x₂)|0⟩⟨0|ψ(x₃)ψ̄(x₄)|0⟩ − ⟨0|ψ(x₁)ψ̄(x₄)|0⟩⟨0|ψ̄(x₂)ψ(x₃)|0⟩ symbolically in terms of S and confirm it matches the boxed result of Section 6.1. |
+| 14 | Using the sign rule of Wick's theorem (Section 6.2), state, without computing it, how many transpositions are needed to bring ψ(x₁) and ψ̄(x₄) adjacent in the ordered product ψ(x₁)ψ̄(x₂)ψ(x₃)ψ̄(x₄), and check that this count has the same parity as the explicit minus sign found in Section 6.1. |
+| 15 | Explain, referencing Lesson 34, Worked example 3, why a six-fermion vacuum expectation value would have 15 terms just as the six-boson case does, but with a definite sign attached to each of the 15, rather than all the same sign. |
+| 16 | Challenge: using the occupation-number sign rule of Section 4.2, show that Q = q(N_b − N_d) commutes with every b_k and d_k (up to the expected eigenvalue shift), by verifying that the sign factor (−1)^(Σ_(i<k)n_i) is unaffected by which mode is being counted by N_b or N_d, so that Q is diagonal in the occupation-number basis with no extra sign complication. |
+
+# Solutions
+
+**1.** The b-b† term is ∫d³p/((2π)³2E_p) u_s(p)_a ū_s(p)_b e^(−ip·(x−y)), using Σ_s u_s(p)ū_s(p) = p̸ + m (Lesson 21, Section 6.1, the u-completeness relation). The d-d† term is ∫d³p/((2π)³2E_p) v_s(p)_a v̄_s(p)_b e^(+ip·(x−y)), using Σ_s v_s(p)v̄_s(p) = p̸ − m (the v-completeness relation, same section).
+
+**2.** ∂_μ e^(−ip·x) = ∂_μ e^(−i(Et−p·x)) = −ip_μ e^(−ip·x) (Lesson 4, Section 6.2), so i∂̸_x e^(−ip·(x−y)) = iγ^μ(−ip_μ)e^(−ip·(x−y)) = γ^μp_μ e^(−ip·(x−y)) = p̸ e^(−ip·(x−y)), giving (i∂̸_x+m)e^(−ip·(x−y)) = (p̸+m)e^(−ip·(x−y)). For the other sign, ∂_μ e^(+ip·(x−y)) = +ip_μ e^(+ip·(x−y)), so i∂̸_x e^(+ip·(x−y)) = −p̸ e^(+ip·(x−y)), giving (i∂̸_x+m)e^(+ip·(x−y)) = (−p̸+m)e^(+ip·(x−y)).
+
+**3.** At x⁰ = y⁰, D(0, x−y) = D(0, y−x) (Lesson 32, Worked example 4), so the spatial part of i∂̸_x, acting on the already-symmetric function D(x−y) − D(y−x), still multiplies zero. Only γ⁰∂_x⁰ needs separate care: differentiating D(x⁰−y⁰, x−y) − D(y⁰−x⁰, y−x) with respect to x⁰ and then setting x⁰=y⁰ picks up twice the one-sided time-derivative of D, which reduces, after the p-integral, to the same delta-function normalization computed directly from the mode expansion in Lesson 35, giving {ψ_a(t,x), ψ̄_b(t,y)} = γ⁰_ab δ³(x−y), and multiplying by γ⁰ on both sides (using (γ⁰)²=I) converts this to {ψ_a(t,x), ψ_b†(t,y)} = δ_ab δ³(x−y), the postulated relation.
+
+**4.** If f vanishes at every point of an open set, then near any point of that set f is identically zero in a full neighborhood, so every difference quotient defining a derivative of f at that point is a ratio of zero to a nonzero displacement, hence zero; the same argument applies to every order of derivative. Since D(x−y)−D(y−x) is zero throughout the open region of spacelike-separated (x−y), every derivative appearing in i∂̸_x is zero there too, so (i∂̸_x+m) applied to it is zero throughout the same region.
+
+**5.** With [d_p, d_k†] = (2π)³δ³(p−k) and [d_p†, d_k] = −(2π)³δ³(p−k) (antisymmetry of the commutator), the d-term of [ψ(x),ψ̄(y)] picks up an extra minus sign relative to the anticommutator calculation of Section 2.1: [ψ(x),ψ̄(y)] = ∫d³p/((2π)³2E_p)[(p̸+m)e^(−ip·(x−y)) − (p̸−m)e^(+ip·(x−y))]. Using Exercise 2's identities, (p̸+m)e^(−ip(x−y)) = (i∂̸_x+m)e^(−ip(x−y)) and −(p̸−m)e^(+ip(x−y)) = (i∂̸_x+m)e^(+ip(x−y)) (since (i∂̸_x+m)e^(+ip(x−y)) = (−p̸+m)e^(+ip(x−y)) = −(p̸−m)e^(+ip(x−y))), so the whole integrand is (i∂̸_x+m) applied to the sum e^(−ip(x−y))+e^(+ip(x−y)), giving [ψ(x),ψ̄(y)] = (i∂̸_x+m)[D(x−y)+D(y−x)].
+
+**6.** With {a_p, a_q†} = (2π)³δ³, the same calculation as Section 2.1 gives {φ(x),φ(y)} = ∫d³p/((2π)³2E_p)[e^(−ip·(x−y)) + e^(ip·(x−y))] = D(x−y) + D(y−x), the even combination, because φ is real and built from a single species, so the two exponentials enter this single anticommutator with the same sign rather than being carried by two independently-signed species as for the Dirac field. By Section 2.2's argument this even combination does not vanish at spacelike separation, so an anticommutator-quantized real scalar field would fail to be causal, the mirror image of Section 2.3's conclusion for the Dirac field.
+
+**7.** c_1†|0⟩ = |1,0,0⟩ (no modes before mode 1). c_3†|1,0,0⟩: mode 3 is empty, and modes 1 and 2 come before it, with n_1=1, n_2=0, so the sign is (−1)^(1+0) = −1, giving c_3†c_1†|0⟩ = −|1,0,1⟩. Directly, c_3†c_1†|0⟩ = −c_1†c_3†|0⟩; defining |1,0,1⟩ = c_1†c_3†|0⟩ (creation in label order) makes c_3†c_1†|0⟩ = −|1,0,1⟩, matching.
+
+**8.** With n_k=0, c_k†|…,0_k,…⟩ = (1−0)(−1)^(Σ_(i<k)n_i)|…,1_k,…⟩, and then c_k|…,1_k,…⟩ = 1·(−1)^(Σ_(i<k)n_i)|…,0_k,…⟩ (the sum Σ_(i<k)n_i is unchanged, since it only counts modes before k, and mode k's own occupation does not enter it). Multiplying, c_kc_k†|…,0_k,…⟩ = (−1)^(2Σ_(i<k)n_i)|…,0_k,…⟩ = |…,0_k,…⟩, since the sign squares to +1. The same cancellation gives c_k†c_k|…,1_k,…⟩ = |…,1_k,…⟩. The sign always cancels between a c_k and a following c_k† (or vice versa) on the same state because both carry the identical sign factor, depending only on the occupation of modes before k, unaffected by the action on mode k itself.
+
+**9.** Section 5.1 gives ψ(x)ψ̄(y) = :ψ(x)ψ̄(y): + S(x−y); Section 5.2 gives ψ̄(y)ψ(x) = −:ψ(x)ψ̄(y): − (i∂̸_x+m)D(y−x). Adding, the normal-ordered terms cancel: ψ(x)ψ̄(y) + ψ̄(y)ψ(x) = {ψ(x),ψ̄(y)} = S(x−y) − (i∂̸_x+m)D(y−x) = (i∂̸_x+m)D(x−y) − (i∂̸_x+m)D(y−x) = (i∂̸_x+m)[D(x−y)−D(y−x)], exactly Section 2.1's formula.
+
+**10.** (i∂̸_x−m)(i∂̸_x+m) = (i∂̸_x)² − m² = i²γ^μγ^ν∂_μ∂_ν − m² = −(1/2){γ^μ,γ^ν}∂_μ∂_ν − m² (using that ∂_μ∂_ν is symmetric, so only the symmetric part of γ^μγ^ν survives, the argument of Lesson 19, Section 4.1) = −g^μν∂_μ∂_ν − m² = −□_x − m².
+
+**11.** From Exercise 10, (i∂̸_x−m)S(x−y) = (i∂̸_x−m)(i∂̸_x+m)D(x−y) = −(□_x+m²)D(x−y). D solves the Klein Gordon equation with the same mass m used to build the plane waves E_p=√(|p|²+m²) (Lesson 31, Section 3.1), so (□_x+m²)D(x−y)=0 exactly for that mass, giving (i∂̸_x−m)S(x−y)=0. If a mismatched mass m′ ≠ m were used in the operator i∂̸_x−m′ while D was still built from modes of mass m, the calculation would instead give (m²−m′²)D(x−y) ≠ 0, so S would not solve the "wrong-mass" Dirac equation; only the equation with the field's own mass is satisfied.
+
+**12.** The vanishing {ψ⁺(x₁),ψ(x₃)}=0 is used in the second display equation of Section 6.1, in the step converting ψ⁺(x₁)ψ(x₃) to −ψ(x₃)ψ⁺(x₁) with no added c-number term. This pairing could never contribute because ψ⁺ contains only the annihilation operator b, and ψ(x₃) contains only b and d†, never b†; a nonzero anticommutator requires one operator of each species paired with its own dagger, and no such pairing exists between ψ⁺(x₁) and ψ(x₃). The scalar field, by contrast, is built from a single species a, a†, so φ(x₁) and φ(x₃) always have a nonzero commutator-turned-contraction ⟨φ₁φ₃⟩, since both contain the same a and a†.
+
+**13.** With ⟨0|ψ₃ψ̄₄|0⟩ = S(x₃−x₄) and ⟨0|ψ̄₂ψ₃|0⟩ as defined in Section 5.2, the expression S(x₁−x₂)S(x₃−x₄) − S(x₁−x₄)⟨ψ̄₂ψ₃⟩ is precisely the right side of Section 6.1's boxed formula, term for term.
+
+**14.** In ψ₁ψ̄₂ψ₃ψ̄₄, bringing ψ₁ and ψ̄₄ adjacent requires moving ψ₁ past both ψ̄₂ and ψ₃, two transpositions, giving a sign (−1)² = +1 for that pairing before any c-number is extracted; separately, the pairing of ψ̄₂ with ψ₃, already adjacent, requires zero transpositions of its own, but generating both pairings simultaneously as the "second contraction" of Wick's theorem, with ψ₁ and ψ̄₄ paired first, requires one additional transposition overall relative to the "first" pairing (ψ₁ with ψ̄₂, ψ₃ with ψ̄₄, zero transpositions, the leading term). The relative parity between the two terms is therefore odd, one transposition, matching the explicit relative minus sign found in Section 6.1.
+
+**15.** As in Lesson 34, Worked example 3, dividing six objects into three unordered pairs gives 5×3×1=15 pairings, a purely combinatorial count independent of statistics. For fermions, each of the 15 pairings additionally carries a sign (−1)^P determined by the number of transpositions needed to bring that particular set of pairs adjacent, so the 15 terms are not all added with the same sign the way the 15 bosonic terms are; some enter with a plus and some with a minus, according to Section 6.2's rule.
+
+**16.** Q = q(N_b − N_d) with N_b = Σ_k b_k†b_k (schematically, one mode per momentum and spin) is diagonal in the occupation-number basis, with eigenvalue q Σ_k(n_(b,k) − n_(d,k)) on |{n_(b,k)}, {n_(d,k)}⟩. Acting with a single b_j on such an eigenstate, the sign factor (−1)^(Σ_(i<j)n_i) from Section 4.2 depends only on which modes with label less than j are occupied, a property of the state itself, not of which operator (b_j, b_j†, or any N_k in the sum defining Q) is being applied; since every term of Q is itself diagonal (built from b_k†b_k or d_k†d_k, each of which returns the same state up to its eigenvalue, with no net sign, by Exercise 8), Q passes through the sign factor unchanged, and one finds [Q, b_j] = −q b_j and [Q, d_j] = +q d_j, the expected charge-lowering and charge-raising commutators, with no extra complication from the ordering sign.
+
+# Mastery checklist
+
+- I can state, in outline, why the constrained structure of the Dirac Lagrangian favors a symmetric bracket, without needing the full Grassmann formalism.
+
+- I can derive {ψ(x), ψ̄(y)} = (i∂̸_x+m)[D(x−y)−D(y−x)] from the mode expansion and the spinor completeness relations.
+
+- I can explain why this anticommutator vanishes at spacelike separation and why the corresponding commutator would not.
+
+- I can state the spin-statistics theorem and name the two arguments, boundedness and causality, that verify it for the free Dirac and scalar fields.
+
+- I can apply the sign rule for creation and annihilation operators on an ordered occupation-number state and relate it to the sign of a determinant under column exchange.
+
+- I can define S(x−y) and show it satisfies the free Dirac equation.
+
+- I can derive the four-fermion vacuum expectation value and identify where its relative minus sign comes from.
+
+- I can explain, at least in outline, why a closed fermion loop in a Feynman diagram carries an overall minus sign.

@@ -78,7 +78,7 @@ so the momenta at every vertex sum to zero. Each internal line carries a ∫d⁴
 
 ## 3.2 Counting loops
 
-With I internal lines and V vertices, the number of free momentum integrals is I − (V − 1) = I − V + 1 = L, the number of loops. Each loop has one undetermined momentum, integrated with d⁴k/(2π)⁴. Lesson 81 showed that each loop also costs one power of ħ. A tree diagram has L = 0 and no integral at all. Every loop integral in Parts IX and X entered here.
+With I internal lines and V vertices, the number of free momentum integrals is I − (V − 1) = I − V + 1 = L, the number of loops. Each loop has one undetermined momentum, integrated with d⁴k/(2π)⁴. Lesson 81 showed that each loop also costs one power of ℏ. A tree diagram has L = 0 and no integral at all. Every loop integral in Parts IX and X entered here.
 
 # 4 Signs from Grassmann variables
 

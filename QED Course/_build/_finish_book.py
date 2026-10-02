@@ -254,6 +254,8 @@ def bookmark_lessons(doc):
             pm = re.match(r"^Prologue (\d+)", text)
             if pm:
                 _bookmark_p(child, "Prologue%s" % pm.group(1), 4000 + int(pm.group(1)))
+        elif text.startswith("Interlude Classical Optics"):
+            _bookmark_p(child, "Optics", 4011)
         elif text.startswith("Interlude "):
             _bookmark_p(child, "Mead", 4010)
         elif text == "How to read this book":
@@ -278,6 +280,9 @@ def collect_toc_entries(doc):
         pm = re.match(r"^Prologue (\d+)", text)
         if pm:
             entries.append(("Prologue%s" % pm.group(1), text, False))
+            continue
+        if text.startswith("Interlude Classical Optics"):
+            entries.append(("Optics", text, False))
             continue
         if text.startswith("Interlude "):
             entries.append(("Mead", text, False))

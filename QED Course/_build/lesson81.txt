@@ -15,7 +15,7 @@ Lesson 80 built Z[J], which generates all correlators, and W[J] = −i log Z, wh
 
 - Derive the relation between the connected three-point function and Γ⁽³⁾, and state that every connected correlator is a tree built from vertices of Γ.
 
-- Count powers of ħ by loops, and derive Γ = S + (iħ/2)Tr log S″ + O(ħ²).
+- Count powers of ℏ by loops, and derive Γ = S + (iℏ/2)Tr log S″ + O(ℏ²).
 
 - Show that the one-loop effective potential is Σω_k/2 for a boson and −4Σω_k/2 for a Dirac fermion.
 
@@ -34,7 +34,7 @@ Lesson 80 built Z[J], which generates all correlators, and W[J] = −i log Z, wh
 | V_eff | Effective potential, Γ = −∫d⁴x V_eff for constant φ |
 | Tr | Trace over spacetime and any internal indices |
 
-Natural units, with ħ restored in Section 4. In display equations, square brackets enclose function arguments and visible groupings.
+Natural units, with ℏ restored in Section 4. In display equations, square brackets enclose function arguments and visible groupings.
 
 # 1 Why another functional
 
@@ -110,25 +110,25 @@ One more derivative gives the four-point function. It is four full propagators o
 
 # 4 The loop expansion
 
-## 4.1 Counting ħ
+## 4.1 Counting ℏ
 
-Restore ħ, so that the weight is exp[(i/ħ)(S + ∫Jφ)]. Each propagator is the inverse of the kinetic operator in S/ħ, so it carries a factor ħ. Each vertex comes from S/ħ, so it carries 1/ħ. A connected diagram with I internal lines and V vertices has L = I − V + 1 loops, so it is proportional to ħ^{I−V} = ħ^{L−1}. Writing Z = e^{iW/ħ}, the expansion of W, and of Γ, in powers of ħ is an expansion in the number of loops. Tree diagrams are order ħ⁰, the classical theory. One-loop terms are order ħ. A loop expansion is a semiclassical expansion, not an expansion in a coupling, although in QED the two coincide because each loop costs a factor α.
+Restore ℏ, so that the weight is exp[(i/ℏ)(S + ∫Jφ)]. Each propagator is the inverse of the kinetic operator in S/ℏ, so it carries a factor ℏ. Each vertex comes from S/ℏ, so it carries 1/ℏ. A connected diagram with I internal lines and V vertices has L = I − V + 1 loops, so it is proportional to ℏ^{I−V} = ℏ^{L−1}. Writing Z = e^{iW/ℏ}, the expansion of W, and of Γ, in powers of ℏ is an expansion in the number of loops. Tree diagrams are order ℏ⁰, the classical theory. One-loop terms are order ℏ. A loop expansion is a semiclassical expansion, not an expansion in a coupling, although in QED the two coincide because each loop costs a factor α.
 
 ## 4.2 The one-loop effective action
 
 Evaluate Z[J] by stationary phase, the method of Lesson 79, Section 2. Let φ₀ be the classical solution with the source, δS/δφ + J = 0, and write φ = φ₀ + η. The linear term in η vanishes, so
 
-$$ Z[J] ≈ e^((i/ħ)[S[φ_0] + ∫Jφ_0]) ∫ Dη e^((i/2ħ) ∫ η S″[φ_0] η) ∝ e^((i/ħ)[S[φ_0] + ∫Jφ_0]) det[S″[φ_0]]^(−1/2)
+$$ Z[J] ≈ e^((i/ℏ)[S[φ_0] + ∫Jφ_0]) ∫ Dη e^((i/2ℏ) ∫ η S″[φ_0] η) ∝ e^((i/ℏ)[S[φ_0] + ∫Jφ_0]) det[S″[φ_0]]^(−1/2)
 
-Take −iħ log, using log det = Tr log:
+Take −iℏ log, using log det = Tr log:
 
-$$ W[J] = S[φ_0] + ∫ J φ_0 + (iħ/2) Tr[log[S″[φ_0]]] + O[ħ²]
+$$ W[J] = S[φ_0] + ∫ J φ_0 + (iℏ/2) Tr[log[S″[φ_0]]] + O[ℏ²]
 
-Now Legendre-transform. The mean field φ differs from φ₀ by order ħ, but S + ∫Jφ is stationary at φ₀, so that shift changes W − ∫Jφ only at order ħ². Therefore
+Now Legendre-transform. The mean field φ differs from φ₀ by order ℏ, but S + ∫Jφ is stationary at φ₀, so that shift changes W − ∫Jφ only at order ℏ². Therefore
 
-$$ Γ[φ] = S[φ] + (iħ/2) Tr[log[S″[φ]]] + O[ħ²]
+$$ Γ[φ] = S[φ] + (iℏ/2) Tr[log[S″[φ]]] + O[ℏ²]
 
-The one-loop correction is the logarithm of the determinant of the fluctuation operator, evaluated in the background φ. For a fermion, Lesson 79's Grassmann integral puts det K in the numerator, and the correction is −iħ Tr log K[φ], with the opposite sign and without the ½.
+The one-loop correction is the logarithm of the determinant of the fluctuation operator, evaluated in the background φ. For a fermion, Lesson 79's Grassmann integral puts det K in the numerator, and the correction is −iℏ Tr log K[φ], with the opposite sign and without the ½.
 
 ## 4.3 Constant fields: the effective potential
 
@@ -182,7 +182,7 @@ in Heaviside–Lorentz units. Classical electrodynamics is linear, so two light 
 
 How large is the Euler–Heisenberg term compared with the Maxwell term for an intense laser with E = 10¹⁴ V/m?
 
-The ratio for a pure electric field is (2α²/45m⁴)E⁴/(½E²) = (4α²/45)E²/m⁴. Write eE/m² = E/E_c, where E_c = m²c³/(eħ) = 1.32×10¹⁸ V/m is the field that does work mc² on an electron over one Compton wavelength. Then E²/m⁴ = (E/E_c)²/e², with e² = 4πα. So the ratio is (α/45π)(E/E_c)². For E = 10¹⁴ V/m, E/E_c = 7.6×10⁻⁵, and the ratio is 5.2×10⁻⁵ × 5.7×10⁻⁹ ≈ 3×10⁻¹³. Even the strongest lasers barely disturb the linearity of the vacuum. The effect has been seen in collisions of lead nuclei at the LHC, whose Coulomb fields briefly exceed E_c. ATLAS reported evidence for γγ → γγ there in 2017 and an observation in 2019, and CMS reported evidence in 2019. Near E_c the expansion fails, and Lesson 85 shows that Γ[A] then acquires an imaginary part: the vacuum decays into pairs.
+The ratio for a pure electric field is (2α²/45m⁴)E⁴/(½E²) = (4α²/45)E²/m⁴. Write eE/m² = E/E_c, where E_c = m²c³/(eℏ) = 1.32×10¹⁸ V/m is the field that does work mc² on an electron over one Compton wavelength. Then E²/m⁴ = (E/E_c)²/e², with e² = 4πα. So the ratio is (α/45π)(E/E_c)². For E = 10¹⁴ V/m, E/E_c = 7.6×10⁻⁵, and the ratio is 5.2×10⁻⁵ × 5.7×10⁻⁹ ≈ 3×10⁻¹³. Even the strongest lasers barely disturb the linearity of the vacuum. The effect has been seen in collisions of lead nuclei at the LHC, whose Coulomb fields briefly exceed E_c. ATLAS reported evidence for γγ → γγ there in 2017 and an observation in 2019, and CMS reported evidence in 2019. Near E_c the expansion fails, and Lesson 85 shows that Γ[A] then acquires an imaginary part: the vacuum decays into pairs.
 
 # 6 Symmetry and the vacuum
 
@@ -205,7 +205,7 @@ It assumed that the relation between φ and J can be inverted, which holds in pe
 | Γ = W − ∫Jφ, δΓ/δφ = −J | Schwinger–Dyson equations, Lesson 82 |
 | Γ⁽²⁾ = iG⁻¹ = K − Σ | Lessons 67 and 68 restated; renormalization conditions |
 | Correlators are trees of Γ vertices | Why only 1PI pieces are renormalized |
-| Γ = S + (iħ/2)Tr log S″ | Thermal effective potential, Lesson 84 |
+| Γ = S + (iℏ/2)Tr log S″ | Thermal effective potential, Lesson 84 |
 | V₁ = Σω/2, fermions −4Σω/2 | Vacuum energy; Higgs potential, Lesson 86 |
 | Γ[A] = S_Maxwell − i Tr log K[A] | Schwinger pair production, Lesson 85 |
 | Euler–Heisenberg term | Light-by-light scattering; strong fields, Lesson 85 |
@@ -220,7 +220,7 @@ It assumed that the relation between φ and J can be inverted, which holds in pe
 
 4. Higher derivatives of Γ are the amputated 1PI vertices. Every connected correlator is a tree built from them.
 
-5. Each loop costs one power of ħ. To one loop, Γ = S + (iħ/2)Tr log S″, and for fermions the term is −iħ Tr log K.
+5. Each loop costs one power of ℏ. To one loop, Γ = S + (iℏ/2)Tr log S″, and for fermions the term is −iℏ Tr log K.
 
 6. For constant fields, the one-loop effective potential is the zero-point energy Σω_k/2 of the fluctuations, and −4Σω_k/2 for a Dirac fermion.
 
@@ -240,11 +240,11 @@ It assumed that the relation between φ and J can be inverted, which holds in pe
 | 6 | For the electron, write the condition for the physical mass as a zero of Γ⁽²⁾, and connect it to Lesson 67, Section 3.1. |
 | 7 | Derive W⁽³⁾ = W⁽²⁾W⁽²⁾W⁽²⁾Γ⁽³⁾. |
 | 8 | Draw the trees that make up the connected four-point function in terms of Γ⁽³⁾, Γ⁽⁴⁾, and G. |
-| 9 | Show that a diagram with I internal lines and V vertices is proportional to ħ^{L−1}. |
-| 10 | Explain why the shift from φ₀ to φ does not change Γ at order ħ. |
+| 9 | Show that a diagram with I internal lines and V vertices is proportional to ℏ^{L−1}. |
+| 10 | Explain why the shift from φ₀ to φ does not change Γ at order ℏ. |
 | 11 | Do the k₄ integral ∫dk₄/2π (k₄² + ω²)⁻¹ = 1/2ω by contour or by substitution. |
 | 12 | Show that det(p̸ − m) = (p² − m²)² for the 4×4 Dirac matrices, and explain the factor −4 in the fermion V₁. |
-| 13 | Compute E_c = m²c³/eħ in V/m. |
+| 13 | Compute E_c = m²c³/eℏ in V/m. |
 | 14 | Show that the Euler–Heisenberg ratio to Maxwell is (α/45π)(E/E_c)², and evaluate it at E = E_c. |
 | 15 | Why does the photon tadpole vanish in QED? |
 | 16 | Challenge: for V = λφ⁴/4!, write M² and the one-loop V_eff, and explain why its φ⁴ log φ² term cannot be absorbed into the original λ. |
@@ -267,9 +267,9 @@ It assumed that the relation between φ and J can be inverted, which holds in pe
 
 **8.** One term has four G's on a Γ⁽⁴⁾. Three terms have two Γ⁽³⁾ joined by one G, in the s, t, and u pairings, with G on every external leg.
 
-**9.** Each of the I lines gives ħ and each of the V vertices 1/ħ, a total ħ^{I−V}. Euler's relation for a connected graph gives L = I − V + 1.
+**9.** Each of the I lines gives ℏ and each of the V vertices 1/ℏ, a total ℏ^{I−V}. Euler's relation for a connected graph gives L = I − V + 1.
 
-**10.** S + ∫Jφ is stationary at φ₀, so a shift δφ of order ħ changes it by order (δφ)², which is ħ². The change in the one-loop term is ħ × ħ.
+**10.** S + ∫Jφ is stationary at φ₀, so a shift δφ of order ℏ changes it by order (δφ)², which is ℏ². The change in the one-loop term is ℏ × ℏ.
 
 **11.** Substitute k₄ = ω tan θ: ∫dθ/(2πω) over (−π/2, π/2) gives 1/2ω.
 

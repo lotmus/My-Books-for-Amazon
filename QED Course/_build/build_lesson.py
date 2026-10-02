@@ -41,6 +41,19 @@ HEADER_FILL, BAND_FILL = "1F4E78", "EAF2F8"
 
 
 # ---------------------------------------------------------------- parsing
+def _split_row(line):
+    """Cells of a | a | b | row. A cell separator has white space on both
+    sides, so |ℳ|², ⟨φ|ψ⟩ and |ψ⟩ inside a cell stay in that cell; \\| is
+    an explicit bar."""
+    s = line.strip()
+    if s.startswith("|"):
+        s = s[1:]
+    if s.endswith("|") and not s.endswith("\\|"):
+        s = s[:-1]
+    cells = re.split(r"(?<!\\)(?<=\s)\|(?=\s)", s)
+    return [c.strip().replace("\\|", "|") for c in cells]
+
+
 def parse(path):
     meta, blocks = {}, []
     with open(path, encoding="utf-8") as fh:
@@ -64,8 +77,7 @@ def parse(path):
         if line.startswith("|"):
             rows = []
             while i < len(lines) and lines[i].startswith("|"):
-                rows.append([c.strip().replace("\\|", "|")
-                             for c in re.split(r"(?<!\\)\|", lines[i].strip().strip("|"))])
+                rows.append(_split_row(lines[i]))
                 i += 1
             blocks.append(("table", widths, rows))
             continue
@@ -132,8 +144,12 @@ def _cell_margins(tc_pr, w=100):
 
 def add_rich_text(paragraph, text):
     """Tiny inline markup: **bold** and *italic*."""
+    # \| is the table escape for a literal bar; outside a table it is a bar.
+    # A lone * is complex conjugation (φ*, ε*, ℳ_u^*), so *italic* needs a
+    # space or opening bracket before it and a space or punctuation after.
+    text = text.replace("\\|", "|")
     pos = 0
-    for m in re.finditer(r"\*\*(.+?)\*\*|\*(.+?)\*", text):
+    for m in re.finditer(r"\*\*(.+?)\*\*|(?<![^\s(“\"])\*(?=[^\s*])(.+?)(?<=[^\s*])\*(?=[\s.,;:!?)”\"]|$)", text):
         if m.start() > pos:
             paragraph.add_run(text[pos:m.start()])
         if m.group(1) is not None:

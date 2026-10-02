@@ -160,7 +160,7 @@ For ν = 0, −F^(0λ)j_λ = −F^(0i)j_i = −(−Eᵢ)(−jⁱ) = −E·j, and
 
 $$ ∂_t u + ∇·S = −E·j
 
-which is Poynting's theorem of Lesson 7, Section 6.2, in Heaviside Lorentz units. For ν = i, −F^(iλ)j_λ = −(F^(i0)j₀ + F^(ij)j_j) = −(ρE + j × B)ᵢ, so the field loses momentum at a rate equal to the Lorentz force density on the charges. The total energy and momentum, of field plus charges, are conserved, and what the field loses the charges gain. The whole of the classical electrodynamics of a charged particle in a field, the Lorentz force law of Lesson 5, is contained in the conservation of the total energy-momentum tensor.
+which is Poynting's theorem of Lesson 7, Section 6.2, in Heaviside–Lorentz units. For ν = i, −F^(iλ)j_λ = −(F^(i0)j₀ + F^(ij)j_j) = −(ρE + j × B)ᵢ, so the field loses momentum at a rate equal to the Lorentz force density on the charges. The total energy and momentum, of field plus charges, are conserved, and what the field loses the charges gain. The whole of the classical electrodynamics of a charged particle in a field, the Lorentz force law of Lesson 5, is contained in the conservation of the total energy-momentum tensor.
 
 ### Worked example 4
 

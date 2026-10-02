@@ -171,7 +171,7 @@ If a Hamiltonian depends only on r = |x| and on p² (a central potential, Ĥ = p
 
 ### Worked example 6
 
-For the hydrogen-like Hamiltonian Ĥ = p̂²/2m − e²/(4πr) (Heaviside Lorentz units, to be used from Lesson 38 onward, though the nonrelativistic bound-state problem itself is often quoted in Gaussian or SI form; the ℓ-dependence of the argument is unaffected by this convention choice), [Ĥ, L̂_z] = [p̂²/2m, L̂_z] + [−e²/(4πr), L̂_z]. Both terms vanish: p̂² is built symmetrically from all three momentum components and commutes with L̂_z by an extension of the argument in Worked example 2, and r = |x| is unchanged by rotation about any axis, so any function of r alone commutes with L̂_z. Hence angular momentum is conserved, and hydrogen's energy eigenstates, found in Lesson 15's exercises, carry definite ℓ and m.
+For the hydrogen-like Hamiltonian Ĥ = p̂²/2m − e²/(4πr) (Heaviside–Lorentz units, to be used from Lesson 38 onward, though the nonrelativistic bound-state problem itself is often quoted in Gaussian or SI form; the ℓ-dependence of the argument is unaffected by this convention choice), [Ĥ, L̂_z] = [p̂²/2m, L̂_z] + [−e²/(4πr), L̂_z]. Both terms vanish: p̂² is built symmetrically from all three momentum components and commutes with L̂_z by an extension of the argument in Worked example 2, and r = |x| is unchanged by rotation about any axis, so any function of r alone commutes with L̂_z. Hence angular momentum is conserved, and hydrogen's energy eigenstates, found in Lesson 15's exercises, carry definite ℓ and m.
 
 # 7 Connections to QED
 

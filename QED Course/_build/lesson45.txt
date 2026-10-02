@@ -1,11 +1,11 @@
 TITLE: Propagators
-TAGLINE: The Feynman propagator as a Green's function of the Klein-Gordon operator, its momentum-space form, and why the iε prescription encodes time ordering
+TAGLINE: The Feynman propagator as a Green's function of the Klein–Gordon operator, its momentum-space form, and why the iε prescription encodes time ordering
 NUM: 45
 NEXT: Lesson 46 specializes this lesson's construction to the Dirac field, building the electron's Feynman propagator S_F(p) already previewed in Lesson 36, and confirming it takes the form i(p̸+m)/(p²−m²+iε).
 
 # How to use this lesson
 
-Lesson 44 closed Part VI with a warning: a single vertex can never be a complete physical process, because momentum conservation for on-shell external particles forces p·k=0, an unphysical constraint. Every real process therefore needs at least two vertices joined by an internal line, and Lesson 44 left that internal line undefined. This lesson defines it. The object needed is not quite the two-point function D(x−y) already built in Lesson 34, because D(x−y) only describes propagation from y to x specifically; an internal line must describe propagation in whichever time order the diagram's kinematics actually requires, automatically. The Feynman propagator, built by time-ordering D(x−y), is exactly this object, and this lesson shows, by direct calculation, that it is a Green's function: it solves the Klein-Gordon equation with a point source, not the source-free equation D(x−y) itself solves. Expect six to eight hours; Section 3's calculation is the technical center of the lesson.
+Lesson 44 closed Part VI with a warning: a single vertex can never be a complete physical process, because momentum conservation for on-shell external particles forces p·k=0, an unphysical constraint. Every real process therefore needs at least two vertices joined by an internal line, and Lesson 44 left that internal line undefined. This lesson defines it. The object needed is not quite the two-point function D(x−y) already built in Lesson 34, because D(x−y) only describes propagation from y to x specifically; an internal line must describe propagation in whichever time order the diagram's kinematics actually requires, automatically. The Feynman propagator, built by time-ordering D(x−y), is exactly this object, and this lesson shows, by direct calculation, that it is a Green's function: it solves the Klein–Gordon equation with a point source, not the source-free equation D(x−y) itself solves. Expect six to eight hours; Section 3's calculation is the technical center of the lesson.
 
 ## Learning objectives
 
@@ -13,7 +13,7 @@ Lesson 44 closed Part VI with a warning: a single vertex can never be a complete
 
 - Derive (□+m²)Δ_F(x−y)=−iδ⁴(x−y) by direct differentiation, using the canonical commutation relation of Lesson 32.
 
-- Explain why D(x−y) alone solves the homogeneous Klein-Gordon equation and cannot serve as a Green's function, while Δ_F does.
+- Explain why D(x−y) alone solves the homogeneous Klein–Gordon equation and cannot serve as a Green's function, while Δ_F does.
 
 - Write the momentum-space form Δ_F(x−y)=∫d⁴p/(2π)⁴ [i/(p²−m²+iε)] e^(−ip(x−y)) and verify directly that it solves the Green's function equation.
 
@@ -83,19 +83,19 @@ The new delta-function term, evaluated at equal times, is δ(τ)⟨0|[π(x),φ(y
 
 ## 3.2 Assembling the result
 
-Applying the full Klein-Gordon operator, and noting that ∇² and m² pass through the theta functions unaffected,
+Applying the full Klein–Gordon operator, and noting that ∇² and m² pass through the theta functions unaffected,
 
 $$ (∂_t²−∇²+m²) Δ_F = − i δ⁴(x−y) + θ(τ)(□+m²)D(x−y) + θ(−τ)(□+m²)D(y−x)
 
-Since D(x−y) and D(y−x) both satisfy the homogeneous Klein-Gordon equation (Worked example 1), both θ-weighted terms vanish, leaving
+Since D(x−y) and D(y−x) both satisfy the homogeneous Klein–Gordon equation (Worked example 1), both θ-weighted terms vanish, leaving
 
 $$ (□+m²) Δ_F(x−y) = − i δ⁴(x−y)
 
-confirming that Δ_F, unlike D(x−y) alone, is genuinely a Green's function of the Klein-Gordon operator.
+confirming that Δ_F, unlike D(x−y) alone, is genuinely a Green's function of the Klein–Gordon operator.
 
 ### Worked example 3
 
-State precisely which two facts, both already established in earlier lessons, were needed to make Section 3.1's calculation work. First, D(x−y)=D(y−x) at equal times, so that the first differentiation produces no delta-function term (Lesson 32, Worked example 4); second, the canonical commutation relation [φ,π]=iδ³ (Lesson 32, Section 1.1), which produces the single surviving delta-function term on the second differentiation. Nothing beyond these two previously established facts, plus the homogeneous Klein-Gordon equation already satisfied by D, is needed.
+State precisely which two facts, both already established in earlier lessons, were needed to make Section 3.1's calculation work. First, D(x−y)=D(y−x) at equal times, so that the first differentiation produces no delta-function term (Lesson 32, Worked example 4); second, the canonical commutation relation [φ,π]=iδ³ (Lesson 32, Section 1.1), which produces the single surviving delta-function term on the second differentiation. Nothing beyond these two previously established facts, plus the homogeneous Klein–Gordon equation already satisfied by D, is needed.
 
 # 4 The momentum-space propagator
 
@@ -153,7 +153,7 @@ Lesson 46 repeats this lesson's construction for the Dirac field, building the e
 
 2. Direct differentiation, using [φ,π]=iδ³ from Lesson 32, gives (□+m²)Δ_F(x−y)=−iδ⁴(x−y): Δ_F is a genuine Green's function.
 
-3. D(x−y) alone solves the homogeneous Klein-Gordon equation and so cannot serve this role.
+3. D(x−y) alone solves the homogeneous Klein–Gordon equation and so cannot serve this role.
 
 4. The momentum-space form Δ_F(x−y)=∫d⁴p/(2π)⁴ i/(p²−m²+iε) e^(−ip(x−y)) satisfies the same Green's function equation, verified by direct substitution.
 
@@ -174,7 +174,7 @@ Lesson 46 repeats this lesson's construction for the Dirac field, building the e
 | 5 | Combine Exercises 3 and 4 to show the second-derivative delta-function term equals −iδ⁴(x−y). |
 | 6 | Explain why the θ(τ)(□+m²)D(x−y) and θ(−τ)(□+m²)D(y−x) terms of Section 3.2 vanish, citing the specific earlier result used. |
 | 7 | Assemble Exercises 5 and 6 into the full result (□+m²)Δ_F(x−y)=−iδ⁴(x−y). |
-| 8 | Explain, in your own words, why Section 3's result identifies Δ_F, not D(x−y), as the Green's function of the Klein-Gordon operator. |
+| 8 | Explain, in your own words, why Section 3's result identifies Δ_F, not D(x−y), as the Green's function of the Klein–Gordon operator. |
 | 9 | Verify (□_x+m²)e^(−ip(x−y))=(m²−p²)e^(−ip(x−y)) directly, using □e^(−ipx)=−p²e^(−ipx). |
 | 10 | Substitute the momentum-space Δ_F of Section 4.1 into (□+m²)Δ_F and show it reduces to −i∫d⁴p/(2π)⁴ (p²−m²)/(p²−m²+iε) e^(−ip(x−y)). |
 | 11 | Explain why (p²−m²)/(p²−m²+iε)→1 as ε→0⁺ away from the pole, and complete the verification that the momentum-space Δ_F solves the same equation as Section 3.2. |

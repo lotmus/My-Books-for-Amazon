@@ -191,6 +191,12 @@ def _abs_end(s, i):
         return -1
     if k + 1 < len(s) and (s[k + 1] in SUP_CHARS or s[k + 1] in SUB_CHARS or s[k + 1] in "^_"):
         return k
+    # |E|/c, d|k|/|k|: a plain modulus closed before a fraction bar, a
+    # bracket or the end of the expression is one atom as well.
+    if s[i + 1] == " " or s[k - 1] == " ":
+        return -1
+    if k + 1 >= len(s) or s[k + 1] in "/)] ,":
+        return k
     return -1
 
 
@@ -240,7 +246,7 @@ def _is_comb(ch):
     return "\u0300" <= ch <= "\u036f"
 
 
-def _parse_index(s, i, single=False):
+def _parse_index(s, i, single=False, kind="sup"):
     """A bare script argument: γ^μ, Π^μν, ℒ_int, a_p†.
 
     The sources write γ^μγ^ν and ∂_μφ for γ^μ γ^ν and ∂_μ φ, so a bare
@@ -294,7 +300,10 @@ def _parse_index(s, i, single=False):
                 k += 1
     else:
         k = grapheme(0)
-    while k < len(w) and w[k] in MARKS:
+    # a_p†, a_p*: on a subscript the dagger belongs to the base, as a
+    # superscript, so only primes stay in the index
+    marks = MARKS if kind == "sup" else "′″"
+    while k < len(w) and w[k] in marks:
         k += 1
     if k >= len(w):
         while end < len(s) and s[end] in PRIMES:
@@ -331,6 +340,10 @@ def _parse_scripted(s, i):
                 base = ("func", base, arg)
             else:
                 base = ("seq", [base, arg])
+            continue
+        if c in "†*" and j == i and base[0] == "sub":
+            base = _apply_script(base, "sup", ("run", c))
+            i = j + 1
             continue
         if c in PRIMES and j == i:
             # y′, S_F′: a prime is a postfix of its atom
@@ -370,9 +383,9 @@ def _parse_scripted(s, i):
                 arg, i = _parse_group(s, i + 1, "}")
             elif _func_name(base) is not None and _func_name(base).endswith("∂"):
                 # ∂_μα is ∂_μ acting on α: a derivative takes a one-letter index
-                arg, i = _parse_index(s, i, single=True)
+                arg, i = _parse_index(s, i, single=True, kind=kind)
             else:
-                arg, i = _parse_index(s, i)
+                arg, i = _parse_index(s, i, kind=kind)
             base = _apply_script(base, kind, arg)
             continue
         break

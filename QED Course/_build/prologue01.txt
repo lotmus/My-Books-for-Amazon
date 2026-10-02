@@ -17,7 +17,7 @@ This opening follows the physics of Richard Feynman's 1985 lectures QED: The Str
 
 - Combine alternative ways an event can happen by adding arrows, then squaring.
 
-- Identify the rotating of an arrow with the passage of time, at a rate set by the colour of the light.
+- Identify the rotating of an arrow with the passage of time, at a rate set by the color of the light.
 
 ## Notation and conventions
 
@@ -26,7 +26,7 @@ This opening follows the physics of Richard Feynman's 1985 lectures QED: The Str
 | photon | The indivisible lump in which light is detected |
 | arrow | An amplitude: a length and a direction in a plane |
 | P | Probability = (length of the final arrow)² |
-| colour | How fast the arrow rotates as time passes |
+| color | How fast the arrow rotates as time passes |
 
 # 1 Light arrives in lumps
 
@@ -76,7 +76,7 @@ The arrows are not little pointers living in space next to the photon. They are 
 
 3. Alternative ways add as arrows, not as probabilities.
 
-4. An arrow's direction records time along a path, at a rate set by colour.
+4. An arrow's direction records time along a path, at a rate set by color.
 
 5. Maxwell's wave language is postponed to Prologue 5 as an alternative for many photons, not as a replacement for the click.
 
@@ -103,7 +103,7 @@ The arrows are not little pointers living in space next to the photon. They are 
 
 **4.** Probabilities of alternatives are not additive when the alternatives are not distinguished by the experiment. Amplitudes are.
 
-**5.** The colour (frequency) of the light.
+**5.** The color (frequency) of the light.
 
 **6.** Length and direction in a plane are the modulus and argument of a complex number.
 

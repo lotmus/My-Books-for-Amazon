@@ -145,7 +145,7 @@ This is the Yukawa potential. Exchange of a scalar of mass m between like source
 
 Yukawa proposed in 1935 that the nuclear force comes from exchange of a massive particle. With a range of about 1.4 fm, what mass does Section 4.1 predict?
 
-The range is 1/m, or ħc/(mc²) in ordinary units. So mc² = ħc/range = 197.3 MeV fm / 1.4 fm ≈ 140 MeV. The charged pion, found in 1947, has mass 139.57 MeV, a range of ħc/m = 1.414 fm. Its scalar-like attraction between nucleons, at distances beyond about 1 fm, is the long-range part of the nuclear force.
+The range is 1/m, or ℏc/(mc²) in ordinary units. So mc² = ℏc/range = 197.3 MeV fm / 1.4 fm ≈ 140 MeV. The charged pion, found in 1947, has mass 139.57 MeV, a range of ℏc/m = 1.414 fm. Its scalar-like attraction between nucleons, at distances beyond about 1 fm, is the long-range part of the nuclear force.
 
 ## 4.2 The photon, and why like charges repel
 
@@ -306,7 +306,7 @@ It did not prove the exponentiation of connected diagrams beyond the counting ar
 
 **8.** The angular integral gives (1/2π²r)∫₀^∞ k sin(kr) dk/(k² + m²) = (1/4π²ir)∫_{−∞}^{∞} k e^{ikr}dk/(k² + m²). Close the contour in the upper half plane. The pole at k = im has residue e^{−mr}/2, so the integral is e^{−mr}/4πr.
 
-**9.** E = −(g²/4π)e^{−mr}/r. With ħc/m = 1.414 fm, e^{−1/1.414} = 0.493. Then E = −14 × 0.493 × 197.3 MeV fm / 1 fm ≈ −1.4 GeV. The real one-pion-exchange potential is far weaker. The pion is pseudoscalar, so in the static limit its coupling to a nucleon is suppressed by (m_π/2M_N)² ≈ 0.0055. That leaves an effective strength f²/4π ≈ 0.08 and a spin-dependent potential of order 10 MeV at 1 fm. The exercise shows how large a coupling of 14 would be if nothing suppressed it.
+**9.** E = −(g²/4π)e^{−mr}/r. With ℏc/m = 1.414 fm, e^{−1/1.414} = 0.493. Then E = −14 × 0.493 × 197.3 MeV fm / 1 fm ≈ −1.4 GeV. The real one-pion-exchange potential is far weaker. The pion is pseudoscalar, so in the static limit its coupling to a nucleon is suppressed by (m_π/2M_N)² ≈ 0.0055. That leaves an effective strength f²/4π ≈ 0.08 and a spin-dependent potential of order 10 MeV at 1 fm. The exercise shows how large a coupling of 14 would be if nothing suppressed it.
 
 **10.** The term is proportional to k^μk^ν, and j̃_μ(k)k^μ = 0 is the Fourier form of ∂_μj^μ = 0.
 

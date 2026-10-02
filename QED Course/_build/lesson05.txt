@@ -1,5 +1,5 @@
 TITLE: Classical Mechanics and Lagrangians
-TAGLINE: The action, Hamilton's principle, Euler Lagrange equations, symmetries, and the classical charged particle
+TAGLINE: The action, Hamilton's principle, Euler–Lagrange equations, symmetries, and the classical charged particle
 NUM: 5
 NEXT: Lesson 6 develops Hamiltonian mechanics: the Legendre transformation, Hamilton's equations, phase space, Poisson brackets, and the canonical structure that quantum mechanics and quantum field theory take over almost unchanged.
 
@@ -7,13 +7,13 @@ NEXT: Lesson 6 develops Hamiltonian mechanics: the Legendre transformation, Hami
 
 Quantum electrodynamics is not formulated with forces. It is formulated with a Lagrangian, a single scalar function from which the equations of motion, the conserved quantities, the coupling between electrons and photons, and eventually the Feynman rules all follow. The habit of thinking in terms of an action rather than a force is therefore essential, and this lesson builds it in the setting where it is easiest: the mechanics of particles.
 
-The lesson proceeds from Newton's law to the action principle, then applies the Euler Lagrange equations to a sequence of systems chosen for what they teach later. The charged particle in an electromagnetic field and the relativistic particle are not optional examples; they contain the classical version of the QED interaction. Expect eight to ten focused hours, with most of the time spent on the worked examples and on Exercises 7, 13, and 16.
+The lesson proceeds from Newton's law to the action principle, then applies the Euler–Lagrange equations to a sequence of systems chosen for what they teach later. The charged particle in an electromagnetic field and the relativistic particle are not optional examples; they contain the classical version of the QED interaction. Expect eight to ten focused hours, with most of the time spent on the worked examples and on Exercises 7, 13, and 16.
 
 ## Learning objectives
 
 - Define generalized coordinates, the Lagrangian, and the action.
 
-- Derive the Euler Lagrange equations from Hamilton's principle for any number of coordinates.
+- Derive the Euler–Lagrange equations from Hamilton's principle for any number of coordinates.
 
 - Recognize that Lagrangians differing by a total time derivative give the same dynamics.
 
@@ -73,7 +73,7 @@ $$ δS = 0  for every δq(t) with δq(t₁) = δq(t₂) = 0
 
 Stationary usually means minimal for short paths, but only stationarity is required, and the name principle of least action is a historical accident.
 
-## 2.2 The Euler Lagrange equations
+## 2.2 The Euler–Lagrange equations
 
 Deform the path, q → q + δq, and expand to first order.
 
@@ -87,15 +87,15 @@ For this to vanish for every δq, the bracket must vanish. With several coordina
 
 $$ d/dt (∂L/∂qᵢ̇) − ∂L/∂qᵢ = 0,    i = 1, …, n
 
-These are the Euler Lagrange equations. The quantity pᵢ = ∂L/∂q̇ᵢ is the canonical momentum conjugate to qᵢ, and the equations say that its rate of change equals the generalized force ∂L/∂qᵢ.
+These are the Euler–Lagrange equations. The quantity pᵢ = ∂L/∂q̇ᵢ is the canonical momentum conjugate to qᵢ, and the equations say that its rate of change equals the generalized force ∂L/∂qᵢ.
 
 ### Worked example 1
 
-For a particle in one dimension with L = (1/2)m ẋ² − V(x), ∂L/∂ẋ = m ẋ and ∂L/∂x = −V′(x). The Euler Lagrange equation is m ẍ = −V′(x), which is Newton's law with F = −dV/dx. The minus sign in L = T − V is what makes the force come out with the correct sign; L = T + V would give a particle accelerating up the potential.
+For a particle in one dimension with L = (1/2)m ẋ² − V(x), ∂L/∂ẋ = m ẋ and ∂L/∂x = −V′(x). The Euler–Lagrange equation is m ẍ = −V′(x), which is Newton's law with F = −dV/dx. The minus sign in L = T − V is what makes the force come out with the correct sign; L = T + V would give a particle accelerating up the potential.
 
 ## 2.3 Why the same equations follow in any coordinates
 
-The derivation never used the meaning of q. Whatever the coordinates, stationarity of the action gives the Euler Lagrange equations in those coordinates. This is the practical advantage of the method: write T and V in the most convenient variables, and the equations of motion follow without decomposing forces.
+The derivation never used the meaning of q. Whatever the coordinates, stationarity of the action gives the Euler–Lagrange equations in those coordinates. This is the practical advantage of the method: write T and V in the most convenient variables, and the equations of motion follow without decomposing forces.
 
 ## 2.4 Equivalent Lagrangians
 
@@ -127,7 +127,7 @@ A particle in a plane under a potential V(r) has, in polar coordinates,
 
 $$ L = (1/2) m (ṙ² + r² θ̇²) − V(r)
 
-The angle θ does not appear in L, only θ̇ does. Such a coordinate is called cyclic, and its Euler Lagrange equation reads d/dt(∂L/∂θ̇) = 0: the conjugate momentum ℓ = m r² θ̇, the angular momentum, is conserved. The radial equation then becomes m r̈ = −V′(r) + ℓ²/(m r³), motion in an effective potential V(r) + ℓ²/(2m r²). Conservation of angular momentum was obtained without mentioning torque, simply because V does not depend on θ.
+The angle θ does not appear in L, only θ̇ does. Such a coordinate is called cyclic, and its Euler–Lagrange equation reads d/dt(∂L/∂θ̇) = 0: the conjugate momentum ℓ = m r² θ̇, the angular momentum, is conserved. The radial equation then becomes m r̈ = −V′(r) + ℓ²/(m r³), motion in an effective potential V(r) + ℓ²/(2m r²). Conservation of angular momentum was obtained without mentioning torque, simply because V does not depend on θ.
 
 ### Worked example 2
 
@@ -143,7 +143,7 @@ where the potentials are related to the fields by E = −∇φ − ∂_t A and B
 
 $$ p = ∂L/∂v = m v + q A
 
-The Euler Lagrange equation is dp/dt = ∇L = −q∇φ + q∇(v·A). The total derivative of A along the path is dA/dt = ∂_t A + (v·∇)A, and the vector identity ∇(v·A) − (v·∇)A = v × (∇ × A) holds because v is not a function of position. Collecting terms,
+The Euler–Lagrange equation is dp/dt = ∇L = −q∇φ + q∇(v·A). The total derivative of A along the path is dA/dt = ∂_t A + (v·∇)A, and the vector identity ∇(v·A) − (v·∇)A = v × (∇ × A) holds because v is not a function of position. Collecting terms,
 
 $$ m dv/dt = q (E + v × B)
 
@@ -165,7 +165,7 @@ Define the energy function
 
 $$ h = Σᵢ q̇ᵢ ∂L/∂q̇ᵢ − L
 
-Differentiating along a solution of the Euler Lagrange equations gives dh/dt = −∂L/∂t. If L has no explicit time dependence, the system is invariant under time translation and h is conserved. For L = T − V with T quadratic in the velocities, h = T + V is the total energy. The Legendre transformation that turns h into the Hamiltonian is the subject of Lesson 6.
+Differentiating along a solution of the Euler–Lagrange equations gives dh/dt = −∂L/∂t. If L has no explicit time dependence, the system is invariant under time translation and h is conserved. For L = T − V with T quadratic in the velocities, h = T + V is the total energy. The Legendre transformation that turns h into the Hamiltonian is the subject of Lesson 6.
 
 ### Worked example 4
 
@@ -213,7 +213,7 @@ Two equal masses m between fixed walls, connected to the walls by springs k and 
 
 $$ L = (1/2)m(ẋ₁² + ẋ₂²) − (1/2)k(x₁² + x₂²) − (1/2)κ(x₁ − x₂)²
 
-The Euler Lagrange equations are m ẍ₁ = −k x₁ − κ(x₁ − x₂) and m ẍ₂ = −k x₂ − κ(x₂ − x₁). Try xᵢ = aᵢ e^(iωt): the equations become the eigenvalue problem of Lesson 1 for the matrix [k + κ, −κ; −κ, k + κ]/m. The eigenvectors (1, 1) and (1, −1) are the normal modes, with
+The Euler–Lagrange equations are m ẍ₁ = −k x₁ − κ(x₁ − x₂) and m ẍ₂ = −k x₂ − κ(x₂ − x₁). Try xᵢ = aᵢ e^(iωt): the equations become the eigenvalue problem of Lesson 1 for the matrix [k + κ, −κ; −κ, k + κ]/m. The eigenvectors (1, 1) and (1, −1) are the normal modes, with
 
 $$ ω₁² = k/m,    ω₂² = (k + 2κ)/m
 
@@ -240,7 +240,7 @@ A field is what a system of oscillators becomes when the coordinates are labeled
 @widths 3264 6528
 | Classical idea | Later role in QED |
 | Action as a Lorentz scalar | The QED action ∫d⁴x ℒ is built as a sum of scalars (Lesson 41) |
-| Euler Lagrange equations | Field equations: Klein Gordon, Dirac, and Maxwell (Lesson 26) |
+| Euler–Lagrange equations | Field equations: Klein–Gordon, Dirac, and Maxwell (Lesson 26) |
 | Total derivatives leave dynamics unchanged | Surface terms dropped from actions; gauge transformations of the Lagrangian |
 | Cyclic coordinates and conserved momenta | Noether currents for charge, energy, and momentum (Lessons 27 to 29) |
 | Canonical momentum p = ∂L/∂q̇ | Conjugate field momentum π = ∂ℒ/∂φ̇ and canonical quantization (Lesson 32) |
@@ -249,13 +249,13 @@ A field is what a system of oscillators becomes when the coordinates are labeled
 | Normal modes | Momentum modes of a free field and creation and annihilation operators (Lesson 33) |
 | Continuum limit of a chain | Passage from mechanics to field theory (Lesson 24) |
 
-The single most important formula in this lesson is the interaction −q A_μ dx^μ. It says that a charge couples to the electromagnetic potential through the only Lorentz scalar that can be formed from the potential and the particle's motion. Replacing the classical worldline by a quantum current gives the entire interaction of QED, and the vertex factor −ieγ^μ of Lesson 44 is nothing but this coupling written in Dirac language.
+The single most important formula in this lesson is the interaction −q A_μ dx^μ. It says that a charge couples to the electromagnetic potential through the only Lorentz scalar that can be formed from the potential and the particle's motion. Replacing the classical worldline by a quantum current gives the entire interaction of QED, and the vertex factor +ieγ^μ of Lesson 44 is nothing but this coupling written in Dirac language.
 
 # 8 Summary
 
 1. The Lagrangian L = T − V and the action S = ∫L dt replace forces by a single scalar function; the action is dimensionless in natural units.
 
-2. Hamilton's principle δS = 0 with fixed endpoints yields the Euler Lagrange equations in any coordinates.
+2. Hamilton's principle δS = 0 with fixed endpoints yields the Euler–Lagrange equations in any coordinates.
 
 3. Lagrangians differing by a total time derivative or a constant factor describe the same dynamics.
 
@@ -274,14 +274,14 @@ The single most important formula in this lesson is the interaction −q A_μ dx
 @widths 720 9072
 | No | Problem |
 | 1 | For a free particle with L = (1/2)m ẋ², show that the stationary path from x₁ at t = 0 to x₂ at t = T is x = x₁ + (x₂ − x₁)t/T, and compute the action along it. |
-| 2 | Show explicitly that L′ = L + dF(q, t)/dt gives the same Euler Lagrange equations as L. |
+| 2 | Show explicitly that L′ = L + dF(q, t)/dt gives the same Euler–Lagrange equations as L. |
 | 3 | Derive the pendulum equation from its Lagrangian. Find the period for small oscillations with l = 1.00 m and g = 9.81 m/s². |
 | 4 | A particle moves in two dimensions with V = (1/2)k(x² + y²). Write L in polar coordinates, identify the cyclic coordinate, and state the conserved quantity. |
-| 5 | Derive both Euler Lagrange equations for L = (1/2)m(ṙ² + r²θ̇²) − V(r) and show that the radial motion is governed by the effective potential V(r) + ℓ²/(2mr²). |
+| 5 | Derive both Euler–Lagrange equations for L = (1/2)m(ṙ² + r²θ̇²) − V(r) and show that the radial motion is governed by the effective potential V(r) + ℓ²/(2mr²). |
 | 6 | For the effective potential with V = −k/r, find the radius of the circular orbit for given ℓ and the frequency of small radial oscillations about it. |
 | 7 | Starting from L = (1/2)mv² − qφ + q v·A, derive m dv/dt = q(E + v × B), stating where the identity ∇(v·A) − (v·∇)A = v × (∇ × A) is used. |
 | 8 | A particle of charge q moves in a uniform magnetic field B along z, described by A = (1/2)B × x. Show that the y component of the canonical momentum is conserved when A = (−By, 0, 0) is used instead, and explain why the two choices of A describe the same physics. |
-| 9 | Show that dh/dt = −∂L/∂t along any solution of the Euler Lagrange equations. |
+| 9 | Show that dh/dt = −∂L/∂t along any solution of the Euler–Lagrange equations. |
 | 10 | From L = −m√(1 − v²), derive p = γmv and h = γm, and verify h² − p² = m². |
 | 11 | Expand −m√(1 − v²) to order v⁴ and identify each term. |
 | 12 | Show that S = −m∫dτ is unchanged when the worldline is reparametrized by λ with t = t(λ), and unchanged under a Lorentz transformation. |
@@ -292,7 +292,7 @@ The single most important formula in this lesson is the interaction −q A_μ dx
 
 # Solutions
 
-**1.** The Euler Lagrange equation is m ẍ = 0, so x is linear in t; the endpoint conditions fix x = x₁ + (x₂ − x₁)t/T. Along it ẋ = (x₂ − x₁)/T is constant, so S = (1/2)m(x₂ − x₁)²/T² × T = m(x₂ − x₁)²/(2T).
+**1.** The Euler–Lagrange equation is m ẍ = 0, so x is linear in t; the endpoint conditions fix x = x₁ + (x₂ − x₁)t/T. Along it ẋ = (x₂ − x₁)/T is constant, so S = (1/2)m(x₂ − x₁)²/T² × T = m(x₂ − x₁)²/(2T).
 
 **2.** S′ = S + ∫(dF/dt)dt = S + F(q(t₂), t₂) − F(q(t₁), t₁). The added terms depend only on the endpoint values, which are held fixed, so δS′ = δS and the same paths are stationary.
 
@@ -308,7 +308,7 @@ The single most important formula in this lesson is the interaction −q A_μ dx
 
 **8.** With A = (−By, 0, 0), L = (1/2)mv² − qB y ẋ does not contain y explicitly in the ẏ term, but it does depend on y; the cyclic coordinate is x, so pₓ = mẋ − qBy is conserved. (With the symmetric gauge neither x nor y is cyclic.) Both potentials give ∇ × A = B ẑ, and they differ by the gradient ∇(Bxy/2), which changes L by a total time derivative, so the equations of motion, and the physics, are identical. This is a gauge transformation (Lesson 8).
 
-**9.** dh/dt = Σ[q̈ᵢ ∂L/∂q̇ᵢ + q̇ᵢ d/dt(∂L/∂q̇ᵢ)] − Σ[(∂L/∂qᵢ)q̇ᵢ + (∂L/∂q̇ᵢ)q̈ᵢ] − ∂L/∂t. The q̈ terms cancel, and the Euler Lagrange equations make d/dt(∂L/∂q̇ᵢ) = ∂L/∂qᵢ, so the remaining sums cancel, leaving dh/dt = −∂L/∂t.
+**9.** dh/dt = Σ[q̈ᵢ ∂L/∂q̇ᵢ + q̇ᵢ d/dt(∂L/∂q̇ᵢ)] − Σ[(∂L/∂qᵢ)q̇ᵢ + (∂L/∂q̇ᵢ)q̈ᵢ] − ∂L/∂t. The q̈ terms cancel, and the Euler–Lagrange equations make d/dt(∂L/∂q̇ᵢ) = ∂L/∂qᵢ, so the remaining sums cancel, leaving dh/dt = −∂L/∂t.
 
 **10.** ∂L/∂v = −m × (−2v)/(2√(1 − v²)) = γmv. h = v·p − L = γmv² + m√(1 − v²) = γm[v² + (1 − v²)] = γm. Then h² − p² = γ²m²(1 − v²) = m².
 

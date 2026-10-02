@@ -1,7 +1,7 @@
 TITLE: Identical Particles
 TAGLINE: The symmetrization postulate, bosons and fermions, the Pauli exclusion principle, and exchange effects
 NUM: 16
-NEXT: Part III of the course turns to relativistic quantum mechanics. Lesson 17 develops the Klein Gordon equation: the direct promotion of E² = |p|² + m² to an operator equation, its plane-wave solutions, and the probability problem that motivates the search for an alternative.
+NEXT: Part III of the course turns to relativistic quantum mechanics. Lesson 17 develops the Klein–Gordon equation: the direct promotion of E² = |p|² + m² to an operator equation, its plane-wave solutions, and the probability problem that motivates the search for an alternative.
 
 # How to use this lesson
 

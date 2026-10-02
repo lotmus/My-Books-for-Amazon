@@ -32,7 +32,7 @@ Lesson 68 described vacuum polarization as a running coupling, α(Q²), probed b
 | R(s) | σ(e⁺e⁻ → hadrons)/σ(e⁺e⁻ → μ⁺μ⁻) at center-of-mass energy squared s |
 | 1 eV | 2.41799×10⁸ MHz |
 
-Natural units, ħc = 197.327 MeV fm. In display equations, square brackets enclose function arguments and visible groupings.
+Natural units, ℏc = 197.327 MeV fm. In display equations, square brackets enclose function arguments and visible groupings.
 
 # 1 From Π̂ to a potential
 
@@ -201,7 +201,7 @@ This lesson derived the contact term, its hydrogen shift, and the limits of the 
 
 **8.** V ≈ −(Zα/r)[1 + (2α/3π)ln(1/(mr)) + const], so α_eff(r) = α[1 + (2α/3π)ln(1/(mr))]. With Q = 1/r, Lesson 68 gives α[1 + (α/3π)ln(Q²/m²)] = α[1 + (2α/3π)ln(1/(mr))]. The constants depend on how Q is matched to r.
 
-**9.** m_r = 105.66 × 938.27/(105.66 + 938.27) MeV = 94.96 MeV. a = ħc/(αm_r) = 197.327 × 137.036/94.96 fm = 284.8 fm.
+**9.** m_r = 105.66 × 938.27/(105.66 + 938.27) MeV = 94.96 MeV. a = ℏc/(αm_r) = 197.327 × 137.036/94.96 fm = 284.8 fm.
 
 **10.** (186)³ × 1.12×10⁻⁷ eV ≈ 0.72 eV, against the true 0.205 eV. The contact approximation assumes that the wave function is constant over the vacuum-polarization cloud. In muonic hydrogen it is not, so the effective overlap is smaller.
 

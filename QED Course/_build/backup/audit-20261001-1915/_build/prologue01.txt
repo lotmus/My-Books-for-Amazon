@@ -1,0 +1,120 @@
+TITLE: Photons and Probability Arrows
+TAGLINE: Light arrives in lumps; the only number the theory assigns to a future click is the square of an arrow's length
+NUM: 1
+NEXT: Prologue 2 puts those arrows to work on the first real puzzle: partial reflection from glass, and why two surfaces do not simply add their four percents.
+
+# How to use this prologue
+
+This opening follows the physics of Richard Feynman's 1985 lectures QED: The Strange Theory of Light and Matter, rewritten in this course's language and without copying that book. No Dirac matrices yet. No Lagrangian. The objects are photons, detectors that click, and arrows whose squared lengths are probabilities. Lesson 1 will name those arrows complex numbers. Expect four to six hours.
+
+## Learning objectives
+
+- State that light is detected as individual photons, each producing at most one click in an ideal detector.
+
+- Distinguish a probability (a real number between 0 and 1) from an amplitude (an arrow in a plane).
+
+- Compute a probability as the square of an arrow's length.
+
+- Combine alternative ways an event can happen by adding arrows, then squaring.
+
+- Identify the rotating of an arrow with the passage of time, at a rate set by the colour of the light.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| photon | The indivisible lump in which light is detected |
+| arrow | An amplitude: a length and a direction in a plane |
+| P | Probability = (length of the final arrow)² |
+| colour | How fast the arrow rotates as time passes |
+
+# 1 Light arrives in lumps
+
+A dim source, a photomultiplier, a click. Turn the source down and the clicks do not get quieter; they get rarer. Each click is the same size. That is the experimental fact this course starts from: light is detected in identical lumps, photons. Maxwell's wave picture of Lesson 7, which Prologue 5 will put beside this one, still describes the average of many clicks. It does not describe the click.
+
+### Worked example 1
+
+If a detector covering a screen records 100 clicks in a run, and a small patch of the screen recorded 4 of them, what probability does the theory have to explain? P=4/100=0.04 for a photon that has left the source to be found in that patch. The theory's job is to compute 0.04, not to tell a story about a tiny billiard ball bouncing into the patch.
+
+# 2 Arrows, not percentages, are added
+
+When an event can happen in more than one way, you do not add the probabilities of the ways. You draw an arrow for each way, add the arrows tip-to-tail, and square the length of the resultant. Only that last square is a probability.
+
+FIG:
+  way A:  -->           resultant:  -->-->  (if A and B point the same way)
+  way B:  -->           P = (2 × length)²  if the two arrows are equal and aligned
+                        P = 0              if they are equal and opposite
+ENDFIG
+
+Two equal arrows that point the same way double the length and quadruple the probability. Two equal arrows that point opposite ways cancel, and the event does not happen. That is interference, and it is why this course will spend Lesson 1 on complex numbers: an arrow in a plane is a complex number.
+
+## 2.1 Where the direction comes from
+
+For a photon, the arrow associated with a path rotates as time along that path passes. Blue light rotates faster than red. Two paths that take different times arrive with arrows pointing different ways, even if each path, taken alone, would have been perfectly ordinary.
+
+### Worked example 2
+
+A way with arrow length 0.2 has probability 0.04 if it is the only way. A second, independent way of the same length, pointing the same direction, makes a resultant of length 0.4 and P=0.16. The same two ways pointing opposite give P=0. That 0-to-16% range, for two 4% ways, is Prologue 2's glass.
+
+# 3 What this opening is not claiming
+
+The arrows are not little pointers living in space next to the photon. They are the theory's bookkeeping for "how much this way contributes." Lesson 1 will call the length r and the direction e^{iθ}. The path integral of Lesson 79 is the same idea written as an integral over field histories. Nothing in the later algebra replaces the rule: add first, square last.
+
+# Connections to QED
+
+@widths 3264 6528
+| Result of this prologue | Where it is used |
+| Photons as detected lumps | Lessons 37, 44, 57 |
+| P = (arrow length)² | Lesson 1, \|z\|² = z*z |
+| Add arrows for alternatives | Superposition, Lesson 9; path integral, Lesson 79 |
+
+# Summary
+
+1. Light is detected as photons.
+
+2. A probability is the square of an arrow's length.
+
+3. Alternative ways add as arrows, not as probabilities.
+
+4. An arrow's direction records time along a path, at a rate set by colour.
+
+5. Maxwell's wave language is postponed to Prologue 5 as an alternative for many photons, not as a replacement for the click.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Why do dimmer sources produce rarer clicks rather than smaller ones? |
+| 2 | If an arrow has length 1/2, what is P? |
+| 3 | Two arrows of length 1/2, aligned: P? Opposite: P? |
+| 4 | Why is "the photon went this way or that way, so add 4%+4%" the wrong rule? |
+| 5 | What physical quantity sets how fast an arrow rotates? |
+| 6 | Connect an arrow to a complex number in one sentence, previewing Lesson 1. |
+| 7 | When would Maxwell's Poynting-vector energy flux of Lesson 7 be the right language? |
+| 8 | Challenge: three equal arrows at 120° to each other. What is P? |
+
+# Solutions
+
+**1.** Each photon is identical; intensity is a rate of arrivals.
+
+**2.** (1/2)²=1/4.
+
+**3.** Aligned: length 1, P=1. Opposite: length 0, P=0.
+
+**4.** Probabilities of alternatives are not additive when the alternatives are not distinguished by the experiment. Amplitudes are.
+
+**5.** The colour (frequency) of the light.
+
+**6.** Length and direction in a plane are the modulus and argument of a complex number.
+
+**7.** When so many photons arrive that only averages matter: radio waves, sunlight on a solar cell's power output, Lesson 7's energy density.
+
+**8.** They form a closed triangle; resultant length 0; P=0.
+
+# Mastery checklist
+
+- I can state that a click is a photon and that P is (arrow length)².
+
+- I can add arrows for undistinguished alternatives and then square.
+
+- I know Maxwell is coming in Prologue 5 as the many-photon alternative, not as the first language of this book.

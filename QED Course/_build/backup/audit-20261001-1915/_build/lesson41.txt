@@ -1,0 +1,246 @@
+TITLE: The QED Lagrangian
+TAGLINE: Assembling the photon kinetic term and the interacting Dirac Lagrangian into one gauge-invariant theory, and deriving both equations of motion
+NUM: 41
+NEXT: Lesson 42 studies the field tensor F_μν as it appears inside this completed theory, separating it into its electric and magnetic parts and confirming that the inhomogeneous Maxwell equation derived here reduces, in the classical limit, to the same equations first written down in Lesson 8.
+
+# How to use this lesson
+
+Every piece is now in hand. Lesson 37 quantized the free photon field, with Lagrangian −(1/4)F_μνF^μν. Lesson 39 derived the interacting Dirac Lagrangian, ψ̄(iγ^μD_μ−m)ψ, forced by local phase invariance. Lesson 40 proved that F_μν itself is gauge invariant, built rigorously from the commutator of covariant derivatives. This lesson does the one thing none of the previous lessons did: writes both pieces down together as a single Lagrangian, checks that the sum is gauge invariant, and derives the two coupled equations of motion, one for the electron field and one for the photon field, that this single Lagrangian implies. The result is the QED Lagrangian in the form used for the rest of this course. Expect five to six hours.
+
+## Learning objectives
+
+- Write the complete QED Lagrangian, ℒ_QED = −(1/4)F_μνF^μν + ψ̄(iγ^μD_μ−m)ψ, and identify every symbol with the lesson that introduced it.
+
+- Confirm that ℒ_QED is invariant under the combined local transformation ψ→e^(−iqα(x))ψ, A_μ→A_μ+∂_μα(x), using results already established separately for each piece.
+
+- Derive the electron's equation of motion, (iγ^μD_μ−m)ψ=0, from the Euler-Lagrange equation for ψ̄.
+
+- Derive the photon's equation of motion, ∂_μF^μν=j^ν, from the Euler-Lagrange equation for A_ν, computing ∂ℒ/∂(∂_μA_ν) explicitly from the F² term.
+
+- Show that current conservation, ∂_νj^ν=0, follows automatically from the antisymmetry of F^μν, independent of the Noether argument that first established it.
+
+- Explain, in outline, what distinguishes this classical, coupled field theory from the fully quantum interacting theory developed starting in Part VII.
+
+- State ℒ_QED and both of its equations of motion from memory.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| ℒ_QED | The complete Lagrangian density assembled in this lesson |
+| D_μ = ∂_μ + iqA_μ | Covariant derivative, Lessons 38–40 |
+| F_μν = ∂_μA_ν − ∂_νA_μ | Field tensor, gauge invariant per Lesson 40 |
+| j^μ = qψ̄γ^μψ | Noether current, Lesson 30 |
+| q = −e | Electron charge, e > 0 |
+
+# 1 Assembling the complete Lagrangian
+
+## 1.1 The two pieces
+
+Lesson 37, Section 3.1, wrote the free photon Lagrangian as ℒ_photon = −(1/4)F_μνF^μν, the unique gauge-invariant, Lorentz-scalar, at-most-quadratic-in-A_μ term available, and quantized the field it describes in Coulomb gauge. Lesson 39, Section 2.2, wrote the gauge-invariant electron Lagrangian as ℒ_matter = ψ̄(iγ^μD_μ−m)ψ = ψ̄(iγ^μ∂_μ−m)ψ + eψ̄γ^μψA_μ, forced by local U(1) invariance. Nothing so far has combined them into a single object governing both fields at once.
+
+## 1.2 The QED Lagrangian
+
+$$ ℒ_QED = − (1/4) F_μνF^μν + ψ̄ ( iγ^μD_μ − m ) ψ
+
+with D_μ=∂_μ+iqA_μ, F_μν=∂_μA_ν−∂_νA_μ, and q=−e for the electron. Expanded fully,
+
+$$ ℒ_QED = − (1/4) F_μνF^μν + ψ̄(iγ^μ∂_μ−m)ψ + e ψ̄γ^μψ A_μ
+
+Every symbol in this expression was derived, not assumed, somewhere earlier in the course: the kinetic terms in Lessons 25 and 37, the mass term in Lesson 25, the interaction term in Lesson 39, and the gauge invariance of F_μν in Lesson 40. This is the first point in the course where the complete Lagrangian appears as a single, self-contained expression.
+
+### Worked example 1
+
+Confirm that setting q=0 (a hypothetical neutral fermion) reduces ℒ_QED to two decoupled free theories, −(1/4)F_μνF^μν and ψ̄(iγ^μ∂_μ−m)ψ, with no term connecting them. With q=0, D_μ=∂_μ (Lesson 38, Exercise 15) and the interaction term eψ̄γ^μψA_μ, proportional to q through e=−q, vanishes identically, leaving the sum of the two free Lagrangians of Lessons 25 and 37 with no cross term, exactly as expected for an uncharged field that does not respond to the photon at all.
+
+# 2 Gauge invariance of the assembled theory
+
+## 2.1 Each piece, already known to be invariant
+
+Lesson 38, Section 2.3, and Lesson 39, Section 1.1, showed ψ̄(iγ^μD_μ−m)ψ is invariant under ψ→e^(−iqα(x))ψ paired with A_μ→A_μ+∂_μα(x), because D_μψ transforms exactly as ψ does. Lesson 40, Section 3.2, showed F_μν, and therefore F_μνF^μν, is completely unaffected by A_μ→A_μ+∂_μα(x) for any α, independent of what ψ is doing at all.
+
+## 2.2 The combination
+
+Since the transformation of A_μ needed for the matter piece's invariance (A_μ→A_μ+∂_μα) is exactly the transformation under which the photon piece is separately invariant for any α, the two invariances hold simultaneously for the same transformation, and their sum, ℒ_QED, is invariant term by term:
+
+$$ ℒ_QED → − (1/4) F_μνF^μν + ψ̄(iγ^μD_μ−m)ψ = ℒ_QED
+
+with no residual α-dependence anywhere. This is not a coincidence requiring a separate proof; it follows because both pieces were built, independently, to respect the same local symmetry, the photon piece automatically (Lesson 8, Lesson 40) and the matter piece by the explicit construction of Lesson 38.
+
+### Worked example 2
+
+Explain why the mass term, −mψ̄ψ, causes no difficulty for gauge invariance, given that it contains no derivative and no explicit A_μ at all. ψ̄ψ was shown in Lesson 40, Exercise 6, to be a gauge singlet, since ψ transforms with charge q and ψ̄ with charge −q, and the two phases e^(−iqα) and e^(+iqα) cancel in the product; −mψ̄ψ is therefore invariant on its own, with no reliance on D_μ or F_μν at all.
+
+# 3 The electron's equation of motion
+
+## 3.1 Varying with respect to ψ̄
+
+Treating ψ and ψ̄ as independent fields (Lesson 26, Section 2), ℒ_QED depends on ψ̄ only through the matter piece, and only algebraically (no derivative of ψ̄ appears), so the Euler-Lagrange equation ∂ℒ/∂ψ̄=0 (Lesson 39, Exercise 16, carried out the identical computation) gives directly
+
+$$ ( iγ^μD_μ − m ) ψ = 0
+
+the gauged Dirac equation, now derived as one of the two field equations following from the single Lagrangian ℒ_QED, rather than as the equation of motion of an isolated matter sector.
+
+## 3.2 Varying with respect to ψ
+
+By the parallel computation, varying with respect to ψ (Exercise 3 works through every step) gives the adjoint equation,
+
+$$ i ∂_μψ̄ γ^μ + q ψ̄γ^μA_μ + m ψ̄ = 0
+
+equivalent to the Hermitian conjugate of Section 3.1's equation once γ⁰ is used to relate ψ† and ψ̄ (Lesson 21, Exercise 8's method for the free case, unchanged in structure here since D_μψ̄ from Lesson 40, Section 1.2, is exactly the covariant derivative built into this equation).
+
+# 4 The photon's equation of motion
+
+## 4.1 The derivative of F² with respect to ∂_μA_ν
+
+Only the −(1/4)F_μνF^μν term in ℒ_QED contains a derivative of A_ν, so ∂ℒ_QED/∂(∂_μA_ν) is computed entirely from that term. Writing F_αβ=∂_αA_β−∂_βA_α, so that ∂F_αβ/∂(∂_μA_ν) = δ^μ_αδ^ν_β−δ^μ_βδ^ν_α (the derivative picks out exactly the two terms in F_αβ that contain ∂_μA_ν, with the appropriate sign for each),
+
+$$ ∂/∂(∂_μA_ν) [ − (1/4) F_αβF^αβ ] = − (1/2) F^αβ ( δ^μ_αδ^ν_β − δ^μ_βδ^ν_α ) = − (1/2) ( F^μν − F^νμ ) = − F^μν
+
+using F^νμ=−F^μν (Lesson 40, Worked example 4) in the last step, and the chain rule factor of 2 from differentiating the quadratic F_αβF^αβ cancelling the explicit 1/4 down to 1/2 before the final simplification.
+
+## 4.2 The Euler-Lagrange equation
+
+The matter piece contributes ∂ℒ_QED/∂A_ν = eψ̄γ^νψ = −j^ν (using j^ν=qψ̄γ^νψ=−eψ̄γ^νψ for the electron, Lesson 39, Section 2.2), with no dependence on ∂_μA_ν. The Euler-Lagrange equation for A_ν, ∂_μ[∂ℒ_QED/∂(∂_μA_ν)] − ∂ℒ_QED/∂A_ν = 0, becomes
+
+$$ ∂_μ(−F^μν) − (−j^ν) = 0 ⟹ ∂_μF^μν = j^ν
+
+the inhomogeneous Maxwell equation, with the electron's own Noether current, derived in Lesson 30 and re-derived by two independent routes in Lesson 39, appearing on the right-hand side as its source. This is the same equation previewed in Lesson 23, Section 5.2, and Lesson 39, Section 5.2, now obtained directly from the completed Lagrangian rather than assumed.
+
+### Worked example 3
+
+Confirm the sign of Section 4.1's result by checking the ν=0, μ=i component against the familiar Gauss's law ∇·E=ρ of Lesson 8. F^i0=−F^0i=−E^i (Lesson 8's convention, F_0i=E_i, restated in the memory of earlier lessons), so ∂_iF^i0=−∂_iE^i=−∇·E, and the ν=0 Maxwell equation reads −∇·E=j^0, i.e. ∇·E=−j^0=−ρ_(charge current's zero-component); tracking the sign of j^0 for the electron (negative charge density for a state of positive particle number, Lesson 29) reproduces the correct, familiar sign relating the divergence of E to the charge density, confirming the bookkeeping of Section 4.1 is consistent with Lesson 8's original convention.
+
+# 5 A built-in consistency check
+
+## 5.1 Current conservation from the field equation alone
+
+Taking ∂_ν of both sides of ∂_μF^μν=j^ν,
+
+$$ ∂_ν∂_μF^μν = ∂_νj^ν
+
+The left side is a contraction of the symmetric operator ∂_ν∂_μ (partial derivatives commute, Lesson 4, Exercise 3) with the antisymmetric tensor F^μν; a symmetric object contracted with an antisymmetric one vanishes identically (swapping the dummy indices μ,ν leaves ∂_ν∂_μF^μν unchanged by symmetry of the derivatives but negates it by antisymmetry of F^μν, forcing it to equal its own negative, hence zero). So ∂_νj^ν=0 is required by the photon's own equation of motion, with no reference to Noether's theorem at all.
+
+## 5.2 Relation to Noether's theorem
+
+Lesson 30 derived ∂_νj^ν=0 from the electron field's global phase symmetry via Noether's theorem, entirely independently of Maxwell's equations. Section 5.1 derives the identical conservation law from the structure of the photon field equation. That two independent arguments, one about the matter sector's symmetry and one about the photon sector's antisymmetric field strength, agree exactly is a strong consistency check on the whole construction: a Lagrangian assembled from pieces that were each separately correct could easily have failed to produce a fully consistent pair of coupled equations, and it does not fail.
+
+### Worked example 4
+
+Explain briefly why this consistency was not guaranteed in advance, from the way ℒ_QED was assembled. ℒ_QED was built by taking two Lagrangians, each independently gauge invariant and each already known to imply a sensible equation of motion on its own (Lessons 25/37 for the photon, Lesson 39 for the electron), and simply adding them; nothing in that construction explicitly enforced that the photon equation's source would automatically be conserved. That it is conserved, verified in Section 5.1 using only the algebraic antisymmetry of F^μν, reflects that gauge invariance (Section 2) and current conservation are, in a theory of this kind, two faces of the same underlying structure, not independent requirements that happened to both be satisfied.
+
+# 6 What "QED" means before quantization
+
+## 6.1 Two coupled classical equations
+
+Together, Sections 3 and 4 give
+
+$$ ( iγ^μD_μ − m ) ψ = 0 , qquad ∂_μF^μν = j^ν = qψ̄γ^νψ
+
+a pair of coupled equations: the electron's motion depends on A_μ through D_μ, and A_μ's source depends on ψ through j^ν. Solved as classical field equations (treating ψ as a classical spinor field rather than an operator), these already describe, for example, the classical scattering of a charged wave packet by its own radiated field, though this course does not pursue that classical limit further.
+
+## 6.2 What quantization still requires
+
+Lessons 35 and 37 quantized the free electron and photon fields separately, each governed by a Lagrangian with no interaction term, so that the mode expansions, creation and annihilation operators, and Fock spaces built there describe free particles that do not interact. ℒ_QED's interaction term, eψ̄γ^μψA_μ, couples these two previously independent Fock spaces, and the resulting theory cannot be solved exactly; extracting physical predictions, such as the electron-photon scattering amplitudes and the vertex factor previewed as far back as Lesson 22, requires the perturbative and path-integral or canonical interaction-picture methods developed starting in Part VII. This lesson has assembled the exact, non-perturbative Lagrangian those later methods will be applied to; nothing about the Lagrangian itself is approximate.
+
+# 7 Connections to QED
+
+@widths 3264 6528
+| Piece assembled here | Where it was separately derived |
+| −(1/4)F_μνF^μν | Lessons 25 and 37 (Lagrangian and quantization of the free photon) |
+| ψ̄(iγ^μD_μ−m)ψ | Lessons 25, 35, 38, and 39 (Dirac Lagrangian, quantization, gauge symmetry, interaction term) |
+| Gauge invariance of the sum | Lessons 38–40 (invariance of each piece separately) |
+| (iγ^μD_μ−m)ψ=0 | Re-derivation of the gauged Dirac equation as an Euler-Lagrange equation |
+| ∂_μF^μν=j^ν | The inhomogeneous Maxwell equation, sourced by the electron's Noether current |
+| ∂_νj^ν=0 from ∂_μ∂_νF^μν≡0 | A second, independent derivation of current conservation, alongside Lesson 30's Noether argument |
+
+With ℒ_QED assembled and both its field equations derived, Lesson 42 looks more closely at F_μν itself within this completed theory, and Lessons 43 and 44 examine the coupling constant e and the electron-photon vertex it controls, completing Part VI.
+
+# 8 Summary
+
+1. ℒ_QED = −(1/4)F_μνF^μν + ψ̄(iγ^μD_μ−m)ψ combines the free photon Lagrangian of Lessons 25/37 with the interacting Dirac Lagrangian of Lesson 39.
+
+2. ℒ_QED is gauge invariant because each piece is separately invariant under the same combined transformation, ψ→e^(−iqα)ψ, A_μ→A_μ+∂_μα.
+
+3. Varying with respect to ψ̄ gives the gauged Dirac equation, (iγ^μD_μ−m)ψ=0.
+
+4. Varying with respect to A_ν, using ∂ℒ/∂(∂_μA_ν)=−F^μν, gives the inhomogeneous Maxwell equation ∂_μF^μν=j^ν.
+
+5. Current conservation, ∂_νj^ν=0, follows automatically from the antisymmetry of F^μν, independent of and consistent with the Noether-theorem derivation of Lesson 30.
+
+6. This agreement between two independent derivations of current conservation is a nontrivial consistency check on the assembled theory.
+
+7. The two coupled field equations define classical QED; extracting quantum predictions from the interaction term requires the perturbative methods of Part VII onward.
+
+8. ℒ_QED, in the one-line form of Section 1.2, is the single object the remainder of this course is built around.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Write ℒ_QED fully expanded, with D_μ written out explicitly, and label each of its four terms with the lesson where it was first derived. |
+| 2 | Verify Worked example 1's claim by setting q=0 directly in the expanded form of Exercise 1 and confirming the two remaining terms are exactly the free Lagrangians of Lessons 25 and 37. |
+| 3 | Derive the adjoint equation of Section 3.2 in full: vary ℒ_QED with respect to ψ (not ψ̄), using integration by parts on the derivative terms as in Lesson 26, and show it gives i∂_μψ̄γ^μ+qψ̄γ^μA_μ+mψ̄=0. |
+| 4 | Confirm that Section 3.2's equation is the Hermitian conjugate of Section 3.1's equation by taking the conjugate of (iγ^μD_μ−m)ψ=0 directly and relating the result to ψ̄ via γ⁰, following the method of Lesson 21, Exercise 8. |
+| 5 | Reproduce the computation of Section 4.1, ∂F_αβ/∂(∂_μA_ν)=δ^μ_αδ^ν_β−δ^μ_βδ^ν_α, by writing out F_αβ=∂_αA_β−∂_βA_α and differentiating term by term with respect to the independent variable ∂_μA_ν. |
+| 6 | Carry through the full chain-rule computation ∂[−(1/4)F_αβF^αβ]/∂(∂_μA_ν) step by step, including the factor of 2 from differentiating a quadratic expression, and confirm the final result −F^μν. |
+| 7 | Verify ∂ℒ_QED/∂A_ν=eψ̄γ^νψ directly from the expanded Lagrangian of Exercise 1, and show it equals −j^ν using j^ν=qψ̄γ^νψ with q=−e. |
+| 8 | Assemble Sections 4.1 and 4.2 into the full Euler-Lagrange equation and confirm every sign in the final result ∂_μF^μν=j^ν. |
+| 9 | Explain why ∂_μF^μν=j^ν, rather than ∂_μF^μν=−j^ν, is the physically correct sign by checking Worked example 3's ν=0 component against the known sign of Gauss's law from Lesson 8. |
+| 10 | Verify the identity ∂_ν∂_μF^μν=0 directly using the explicit antisymmetry F^μν=−F^νμ and the symmetry of ∂_ν∂_μ, following the argument of Section 5.1 with the index relabeling spelled out. |
+| 11 | Explain, in your own words, why the vanishing of ∂_ν∂_μF^μν is described as a structural or algebraic fact, in contrast with the Noether-theorem derivation of the same conservation law, which relies on the electron field's specific dynamics. |
+| 12 | State what would go wrong with the consistency of Section 5 if the photon field equation had instead come out as ∂_μF^μν = k j^ν for some current k^ν not equal to the Noether current of Lesson 30, in terms of the resulting equation for ∂_νk^ν. |
+| 13 | For the classical, non-quantized field equations of Section 6.1, explain in one or two sentences what physical process (already discussed elsewhere in the course) these equations would describe if ψ were taken to be a classical wave packet rather than an operator-valued field. |
+| 14 | List the three technical ingredients (name each by the lesson that supplies it) that will be needed to turn ℒ_QED's interaction term into a quantitative prediction, such as a scattering probability, in Part VII. |
+| 15 | Explain why the interaction term eψ̄γ^μψA_μ makes it impossible to simply repeat the mode-expansion quantization of Lessons 35 and 37 unchanged for the full, interacting theory. |
+| 16 | Challenge: using the Euler-Lagrange equations of both Sections 3 and 4 together, show that the electron equation, multiplied on the left by ψ̄ and combined with its adjoint from Section 3.2, gives ∂_μj^μ=0 directly from the matter sector alone (i.e. reproduce Lesson 30's Noether conservation law as a direct consequence of the two Dirac-sector equations of motion, without invoking Noether's theorem by name). |
+
+# Solutions
+
+**1.** ℒ_QED = −(1/4)F_μνF^μν + ψ̄(iγ^μ∂_μ−m)ψ + eψ̄γ^μψA_μ. The first term is the free photon Lagrangian (Lessons 25, Section 6.1, and 37, Section 3.1); the second is the free Dirac kinetic term (Lesson 25, Section 4); the third is the Dirac mass term, contained inside the same expression via −mψ̄ψ (Lesson 25, Section 4); the fourth is the interaction term (Lesson 39, Section 2.2).
+
+**2.** Setting q=0 in D_μ=∂_μ+iqA_μ gives D_μ=∂_μ, so ψ̄(iγ^μD_μ−m)ψ reduces to ψ̄(iγ^μ∂_μ−m)ψ with no A_μ dependence at all; combined with the unchanged −(1/4)F_μνF^μν, the sum is exactly ℒ_photon+ℒ_Dirac,free with no cross term, matching Lessons 25/37's free photon Lagrangian and Lesson 25's free Dirac Lagrangian respectively.
+
+**3.** Varying S=∫d⁴x ℒ_QED with respect to ψ, the mass and interaction terms are already free of derivatives of ψ, contributing −mψ̄ and eψ̄γ^μA_μ directly to ∂ℒ/∂ψ; the kinetic term ψ̄iγ^μ∂_μψ contributes a derivative of ψ, requiring integration by parts as in Lesson 26, Section 2: ∫ψ̄iγ^μ∂_μψ = −∫(∂_μψ̄)iγ^μψ + boundary term, giving a contribution −i(∂_μψ̄)γ^μ to the Euler-Lagrange equation for ψ (with the overall equation obtained by treating ψ̄'s variation as producing ∂ℒ/∂ψ directly, mirroring Lesson 21, Exercise 8's derivation of the adjoint equation for the free case). Assembling all three contributions and setting the total to zero gives i∂_μψ̄γ^μ+qψ̄γ^μA_μ+mψ̄=0, matching Section 3.2's stated equation term by term.
+
+**4.** Taking the Hermitian conjugate of (iγ^μD_μ−m)ψ=0, i.e. of iγ^μ∂_μψ−qγ^μA_μψ−mψ=0 (Lesson 39, Exercise 1's expansion, using −qγ^μA_μψ for the qψ, is−γ^μ term, matching the sign convention there), gives −i(∂_μψ†)(γ^μ)†−qA_μψ†(γ^μ)†−mψ†=0; multiplying on the right by γ⁰ and using γ⁰(γ^μ)†γ⁰=γ^μ (Lesson 20's Hermiticity property of the gamma matrices, as used throughout Lesson 21), together with ψ†γ⁰=ψ̄, converts this into −i∂_μψ̄γ^μ−qψ̄γ^μA_μ−mψ̄=0, equivalent up to an overall sign to i∂_μψ̄γ^μ+qψ̄γ^μA_μ+mψ̄=0, exactly Section 3.2's equation.
+
+**5.** F_αβ=∂_αA_β−∂_βA_α; treating each ∂_ρA_σ as an independent variable, ∂(∂_αA_β)/∂(∂_μA_ν)=δ^μ_αδ^ν_β (nonzero only when ρ=α,σ=β matches μ,ν) and ∂(∂_βA_α)/∂(∂_μA_ν)=δ^μ_βδ^ν_α, so ∂F_αβ/∂(∂_μA_ν)=δ^μ_αδ^ν_β−δ^μ_βδ^ν_α.
+
+**6.** ∂[−(1/4)F_αβF^αβ]/∂(∂_μA_ν) = −(1/4)[∂F_αβ/∂(∂_μA_ν)]F^αβ − (1/4)F_αβ[∂F^αβ/∂(∂_μA_ν)] = −(1/4)·2·F^αβ·(δ^μ_αδ^ν_β−δ^μ_βδ^ν_α), the factor of 2 arising because both factors of F_αβF^αβ contribute an identical term by the product rule and relabeling of dummy indices. This equals −(1/2)(F^μν−F^νμ) = −(1/2)(F^μν+F^μν) = −F^μν, using F^νμ=−F^μν.
+
+**7.** Only the term eψ̄γ^μψA_μ in the expanded Lagrangian of Exercise 1 depends on A_ν (setting μ=ν in that term gives eψ̄γ^νψA_ν, so ∂/∂A_ν of the full Lagrangian picks out eψ̄γ^νψ); with j^ν=qψ̄γ^νψ and q=−e, eψ̄γ^νψ=−qψ̄γ^νψ=−j^ν, matching ∂ℒ_QED/∂A_ν=−j^ν as stated (the text's eψ̄γ^νψ=−j^ν is consistent since e=−q).
+
+**8.** ∂_μ[∂ℒ/∂(∂_μA_ν)]−∂ℒ/∂A_ν=0 becomes ∂_μ(−F^μν)−(−j^ν)=0 (using Exercise 6's −F^μν and Exercise 7's −j^ν), i.e. −∂_μF^μν+j^ν=0, i.e. ∂_μF^μν=j^ν, with every sign traced to the two prior exercises.
+
+**9.** Using F^0i=g^00g^iiF_0i=(1)(−1)F_0i=−F_0i=−E_i (Lesson 8's convention F_0i=E_i), and F^i0=−F^0i (antisymmetry), F^i0=E_i, so ∂_iF^i0=∂_iE^i=∇·E, and the ν=0 field equation ∂_μF^μ0=j^0 reads ∇·E=j^0=ρ (the charge density, with the electron's negative charge already built into j^0 via j^μ=qψ̄γ^μψ, q=−e), exactly the familiar Gauss's law ∇·E=ρ with no sign discrepancy, confirming ∂_μF^μν=j^ν (not −j^ν) is correct.
+
+**10.** ∂_ν∂_μF^μν, relabeling the dummy indices μ↔ν, equals ∂_μ∂_νF^νμ = ∂_ν∂_μ(−F^μν) (renaming the derivative indices back and using F^νμ=−F^μν) = −∂_ν∂_μF^μν; so the original quantity equals its own negative, ∂_ν∂_μF^μν = −∂_ν∂_μF^μν, forcing 2∂_ν∂_μF^μν=0, hence ∂_ν∂_μF^μν=0.
+
+**11.** The vanishing of ∂_ν∂_μF^μν follows purely from the algebraic antisymmetry of F^μν and the fact that partial derivatives commute, true for any antisymmetric tensor whatsoever with no reference to what field equation, if any, F^μν satisfies or what current sources it; the Noether-theorem derivation, by contrast, uses the specific dynamics of the Dirac field (its equation of motion and the specific form of its Lagrangian's symmetry) and would need to be redone from scratch for a different matter field with a different Lagrangian.
+
+**12.** If ∂_μF^μν=k^ν for some k^ν other than the conserved Noether current, Section 5.1's argument would still force ∂_νk^ν=0 (since the derivation used only the antisymmetry of F^μν, not any property of the current multiplying it), so k^ν would itself be forced to be conserved regardless of whether it was built to be; if the theory's matter sector produced a k^ν that were not conserved by its own dynamics, the two field equations would be mutually inconsistent, and no solution could exist for generic initial data, signaling an error in how the Lagrangian was assembled.
+
+**13.** A classical wave packet ψ sourcing and responding to A_μ through these equations would describe the classical radiation problem of an extended charge distribution accelerating and radiating electromagnetic waves, the field-theoretic generalization of the point-particle radiation problem introduced in Lesson 5 and the source-coupled classical field of Lesson 25, Section 6.3, now with the source's own motion determined self-consistently by the field it creates.
+
+**14.** The interaction-picture / perturbative expansion of the time-evolution operator (to be introduced in Part VII), the Feynman-diagram or equivalent bookkeeping for organizing that expansion order by order, and the electron-photon vertex factor itself (previewed in Lesson 22, to be derived explicitly in Lesson 44), are the three ingredients needed to convert ℒ_QED's interaction term into a calculable scattering probability.
+
+**15.** The mode expansions of Lessons 35 and 37 were derived by solving the free (non-interacting) equations of motion, ∂_μ∂^μψ terms alone for the Dirac field and ∂_μF^μν=0 for the photon; with the interaction term present, the true equations of motion are the coupled ∂_μF^μν=j^ν and (iγ^μD_μ−m)ψ=0 of Section 6.1, which mix ψ and A_μ nonlinearly (j^ν itself depends on ψ, and D_μ depends on A_μ), so the simple plane-wave mode solutions used to define the free creation and annihilation operators no longer solve the full equations of motion, and a different method (perturbation theory around the free solutions) is required.
+
+**16.** Multiplying Section 3.1's equation, iγ^μ∂_μψ−qγ^μA_μψ−mψ=0, on the left by ψ̄ gives ψ̄iγ^μ∂_μψ−qψ̄γ^μA_μψ−mψ̄ψ=0. Multiplying Section 3.2's equation, i∂_μψ̄γ^μ+qψ̄γ^μA_μ+mψ̄=0, on the right by ψ gives i(∂_μψ̄)γ^μψ+qψ̄γ^μA_μψ+mψ̄ψ=0. Adding the two: ψ̄iγ^μ∂_μψ+i(∂_μψ̄)γ^μψ+(mψ̄ψ−mψ̄ψ)+(−qψ̄γ^μA_μψ+qψ̄γ^μA_μψ)=0, and the last two groups cancel exactly, leaving i[ψ̄γ^μ∂_μψ+(∂_μψ̄)γ^μψ]=0, i.e. i∂_μ(ψ̄γ^μψ)=0 (recognizing the product rule), i.e. ∂_μ(ψ̄γ^μψ)=0, which is ∂_μj^μ=0 after multiplying by the constant q, reproducing current conservation directly from the two Dirac-sector Euler-Lagrange equations with no reference to Noether's theorem.
+
+# Mastery checklist
+
+- I can write ℒ_QED in full and identify the lesson that derived each of its terms.
+
+- I can explain why ℒ_QED is gauge invariant as a consequence of its two pieces being separately invariant under the same transformation.
+
+- I can derive the gauged Dirac equation and its adjoint from the Euler-Lagrange equations for ψ̄ and ψ.
+
+- I can compute ∂ℒ_QED/∂(∂_μA_ν) from the F² term and derive ∂_μF^μν=j^ν.
+
+- I can show that current conservation follows from the antisymmetry of F^μν alone, independent of Noether's theorem, and explain why this is a meaningful consistency check.
+
+- I can state what classical field theory the two coupled equations of motion describe, and what is still needed to make quantitative quantum predictions from ℒ_QED.
+
+- I can write ℒ_QED and both of its equations of motion from memory.

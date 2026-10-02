@@ -1,4 +1,4 @@
-TITLE: Local U 1 Gauge Symmetry
+TITLE: Local U(1) Gauge Symmetry
 TAGLINE: Promoting a global phase to a local one, discovering the covariant derivative from pure consistency, and the universal coupling it forces on every charged field
 NUM: 38
 NEXT: Lesson 39 specializes the general argument of this lesson to the Dirac field alone, expands the covariant derivative explicitly, and identifies the resulting interaction term with the classical couplings already met in Lessons 5, 8, and 25, showing all three to be the same physical fact seen at different stages of the course.
@@ -131,7 +131,7 @@ Two ordinary derivatives always commute, [∂_μ, ∂_ν] = 0, since mixed parti
 | Global versus local distinction | Organizes the difference between Lesson 30 (global, a conserved charge) and this lesson (local, a mediating field) |
 | D_μφ → e^(−iqα)D_μφ, derived rather than assumed | The single requirement from which the entire coupling structure of QED follows |
 | A_μ → A_μ + ∂_μα, derived as a consequence | Matches, and completes the derivation begun in, Lesson 8's classical gauge transformation |
-| Universality of the coupling for any charge q | Explains why the same electromagnetic vertex −ieγ^μ (Lesson 44) applies to every charged lepton and quark, with only q differing |
+| Universality of the coupling for any charge q | Explains why the same electromagnetic vertex +ieγ^μ (Lesson 44) applies to every charged lepton and quark, with only q differing |
 | Minimal coupling as the unique, simplest cure | Closes the loop with the heuristic minimal coupling of Lessons 6 and 8 |
 | [D_μ, D_ν] = iqF_μν, previewed | Shows F_μν is implicit in D_μ; developed fully in Lesson 40 and used to build the QED Lagrangian in Lesson 41 |
 
@@ -168,7 +168,7 @@ Lesson 39 now specializes this general machinery to the Dirac field specifically
 | 7 | For two independent charged fields φ₁ (charge q₁) and φ₂ (charge q₂) coupled to the same A_μ via D_μφ_i = (∂_μ + iq_iA_μ)φ_i, show that D_μφ_i transforms correctly for each i under the single shared transformation A_μ → A_μ + ∂_μα, ψ_i → e^(−iq_iα)ψ_i. |
 | 8 | Explain why the argument of Exercise 7 would fail if φ₁ and φ₂ were required to use two different gauge parameters α_1 ≠ α_2 while still sharing a single A_μ. |
 | 9 | Write the gauge-invariant Lagrangian density for a charged scalar field explicitly, D_μφ*D^μφ − m²φ*φ, and expand D_μ to identify the three terms: the free scalar Lagrangian, an interaction term linear in A_μ, and a term quadratic in A_μ. |
-| 10 | Compare the linear-in-A_μ term found in Exercise 9 with the Klein Gordon current of Lesson 30, Section 1.3, and show it equals −j^μA_μ with j^μ the current found there. |
+| 10 | Compare the linear-in-A_μ term found in Exercise 9 with the Klein–Gordon current of Lesson 30, Section 1.3, and show it equals −j^μA_μ with j^μ the current found there. |
 | 11 | Explain why the term quadratic in A_μ found in Exercise 9 has no analogue in the Dirac case, tracing the difference to the fact that D_μ appears twice, on two derivatives, in the scalar kinetic term D_μφ*D^μφ, but only once in the Dirac kinetic term ψ̄iγ^μD_μψ. |
 | 12 | Using [∂_μ, ∂_ν] = 0, show that the commutator [D_μ, D_ν]φ, expanded using D_μ = ∂_μ + iqA_μ, has its ∂_μ∂_ν and ∂_ν∂_μ pieces cancel, leaving only terms with a single derivative acting on A_μ or A_ν. |
 | 13 | Complete the calculation of Exercise 12 to verify [D_μ, D_ν] = iq(∂_μA_ν − ∂_νA_μ) = iqF_μν, filling in the preview of Section 5. |

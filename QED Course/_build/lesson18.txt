@@ -1,21 +1,21 @@
-TITLE: Why the Schrodinger Equation Is Not Enough
+TITLE: Why the Schrödinger Equation Is Not Enough
 TAGLINE: A focused diagnosis of exactly what a relativistic wave equation for spin-1/2 must fix, and why the obvious fixes fail
 NUM: 18
 NEXT: Lesson 19 constructs the Dirac equation directly, following the logic developed here: a first-order equation, linear in both space and time derivatives, built from a new set of matrices whose algebra is fixed by requiring consistency with E² = |p|² + m².
 
 # How to use this lesson
 
-Lessons 11 and 17 each built a relativistic-in-spirit wave equation and found it wanting: the Schrodinger equation is not Lorentz covariant at all, and the Klein Gordon equation, while covariant, has a probability current that is not positive definite, tied to its being second order in time. This short lesson pauses before the Dirac equation is introduced to state, with full precision, exactly what problem needs solving and why several tempting shortcuts do not solve it. It is a lesson of diagnosis rather than construction, and its payoff is that Lesson 19's construction of the Dirac equation will feel motivated at every step rather than pulled from nowhere.
+Lessons 11 and 17 each built a relativistic-in-spirit wave equation and found it wanting: the Schrödinger equation is not Lorentz covariant at all, and the Klein–Gordon equation, while covariant, has a probability current that is not positive definite, tied to its being second order in time. This short lesson pauses before the Dirac equation is introduced to state, with full precision, exactly what problem needs solving and why several tempting shortcuts do not solve it. It is a lesson of diagnosis rather than construction, and its payoff is that Lesson 19's construction of the Dirac equation will feel motivated at every step rather than pulled from nowhere.
 
-The central insight, due to Dirac, is deceptively simple to state: build an equation that is first order in time, like the Schrodinger equation, but treats space and time symmetrically enough to be Lorentz covariant. Section 3 shows exactly what this requires and why it cannot be done with ordinary numbers. Expect four to six focused hours; this lesson is shorter than most because its job is conceptual clarity, not new machinery.
+The central insight, due to Dirac, is deceptively simple to state: build an equation that is first order in time, like the Schrödinger equation, but treats space and time symmetrically enough to be Lorentz covariant. Section 3 shows exactly what this requires and why it cannot be done with ordinary numbers. Expect four to six focused hours; this lesson is shorter than most because its job is conceptual clarity, not new machinery.
 
 ## Learning objectives
 
 - State precisely, using the language of Lesson 4, why an equation cannot be both first order and manifestly covariant using an ordinary scalar or vector wave function.
 
-- Explain why the Klein Gordon current's sign problem is a direct consequence of the equation's order, not an independent difficulty.
+- Explain why the Klein–Gordon current's sign problem is a direct consequence of the equation's order, not an independent difficulty.
 
-- Show why simply taking a "square root" of the Klein Gordon operator with ordinary numbers fails.
+- Show why simply taking a "square root" of the Klein–Gordon operator with ordinary numbers fails.
 
 - Derive the algebraic condition that any candidate set of first-order coefficients must satisfy to reproduce E²=|p|²+m².
 
@@ -42,17 +42,17 @@ The central insight, due to Dirac, is deceptively simple to state: build an equa
 
 ## 1.1 What went wrong with each equation
 
-Lesson 11 identified the Schrodinger equation's flaw as an imbalance: one time derivative against two space derivatives, an asymmetry a Lorentz boost cannot respect (Lesson 4, Section 7.2, Worked example 8 of Lesson 11). Lesson 17 fixed the imbalance by taking two derivatives of each kind, producing a covariant equation, but paid for it with a current that is not positive definite, traced in Lesson 17, Section 3.3, directly to the equation's second-order-in-time character.
+Lesson 11 identified the Schrödinger equation's flaw as an imbalance: one time derivative against two space derivatives, an asymmetry a Lorentz boost cannot respect (Lesson 4, Section 7.2, Worked example 8 of Lesson 11). Lesson 17 fixed the imbalance by taking two derivatives of each kind, producing a covariant equation, but paid for it with a current that is not positive definite, traced in Lesson 17, Section 3.3, directly to the equation's second-order-in-time character.
 
 ## 1.2 The goal
 
-The task is to find an equation that is simultaneously first order in time (so that, exactly as for the Schrodinger equation, specifying ψ(x,0) alone determines the state at every later time, and so that a genuinely positive-definite conserved probability density can be built by Lesson 9's original method) and consistent with the relativistic energy relation E²=|p|²+m² (so that it is compatible with special relativity). Section 1.1's two equations each achieve one of these properties at the expense of the other; the Dirac equation, previewed here and constructed in Lesson 19, achieves both simultaneously.
+The task is to find an equation that is simultaneously first order in time (so that, exactly as for the Schrödinger equation, specifying ψ(x,0) alone determines the state at every later time, and so that a genuinely positive-definite conserved probability density can be built by Lesson 9's original method) and consistent with the relativistic energy relation E²=|p|²+m² (so that it is compatible with special relativity). Section 1.1's two equations each achieve one of these properties at the expense of the other; the Dirac equation, previewed here and constructed in Lesson 19, achieves both simultaneously.
 
 # 2 Why a naive square root fails
 
 ## 2.1 The tempting first attempt
 
-Since the Klein Gordon equation arose from squaring E = ±√(|p|²+m²) implicitly (by working with E² directly), one might try instead to take the square root before quantizing, writing a first-order equation directly from E = +√(|p|²+m²) (choosing, arbitrarily, the positive branch).
+Since the Klein–Gordon equation arose from squaring E = ±√(|p|²+m²) implicitly (by working with E² directly), one might try instead to take the square root before quantizing, writing a first-order equation directly from E = +√(|p|²+m²) (choosing, arbitrarily, the positive branch).
 
 $$ Ĥψ = √(p̂²+m²) ψ
 
@@ -66,7 +66,7 @@ An equation with infinitely many derivatives is nonlocal: the value of ψ at one
 
 ### Worked example 1
 
-Confirm that the second term of the expansion reproduces the nonrelativistic kinetic energy. m+p̂²/2m−p̂⁴/8m³+⋯ acting to first subleading order gives Ĥψ ≈ (m+p̂²/2m)ψ, exactly the nonrelativistic Schrodinger Hamiltonian of Lesson 11 shifted up by the rest mass m, matching the same expansion already carried out for the classical energy in Lesson 3, Worked example 5, and confirming that the naive square-root Hamiltonian at least has the right nonrelativistic limit, even though it fails to be local or practically useful beyond that limit.
+Confirm that the second term of the expansion reproduces the nonrelativistic kinetic energy. m+p̂²/2m−p̂⁴/8m³+⋯ acting to first subleading order gives Ĥψ ≈ (m+p̂²/2m)ψ, exactly the nonrelativistic Schrödinger Hamiltonian of Lesson 11 shifted up by the rest mass m, matching the same expansion already carried out for the classical energy in Lesson 3, Worked example 5, and confirming that the naive square-root Hamiltonian at least has the right nonrelativistic limit, even though it fails to be local or practically useful beyond that limit.
 
 ## 2.3 What must be sacrificed instead
 
@@ -80,11 +80,11 @@ Seek a Hamiltonian of the form
 
 $$ Ĥ_D = α·p̂ + βm = αₓp̂ₓ + αᵧp̂ᵧ + α_zp̂_z + βm
 
-linear in the momentum components and in the mass, with coefficients α = (αₓ,αᵧ,α_z) and β to be determined. This is manifestly first order in p̂, and, once identified with i∂_t via the usual correspondence rule, first order in time as well, exactly the structural feature the Klein Gordon equation lacked.
+linear in the momentum components and in the mass, with coefficients α = (αₓ,αᵧ,α_z) and β to be determined. This is manifestly first order in p̂, and, once identified with i∂_t via the usual correspondence rule, first order in time as well, exactly the structural feature the Klein–Gordon equation lacked.
 
 ## 3.2 Requiring consistency with E²=|p|²+m²
 
-For Ĥ_D to be an acceptable relativistic Hamiltonian, its square must reproduce the correct dispersion relation: Ĥ_D²ψ should equal (p̂²+m²)ψ for every solution, exactly as the Klein Gordon operator does automatically. Squaring the ansatz,
+For Ĥ_D to be an acceptable relativistic Hamiltonian, its square must reproduce the correct dispersion relation: Ĥ_D²ψ should equal (p̂²+m²)ψ for every solution, exactly as the Klein–Gordon operator does automatically. Squaring the ansatz,
 
 $$ Ĥ_D² = Σᵢⱼ αᵢαⱼ p̂ᵢp̂ⱼ + m Σᵢ (αᵢβ+βαᵢ) p̂ᵢ + β²m²
 
@@ -152,7 +152,7 @@ This lesson has not yet written down the equation covariantly, has not yet solve
 
 ### Worked example 5
 
-State, as a preview only, what Lesson 19 will show about the current built from a first-order equation satisfying Section 3.2's algebra. With Ĥ_D=α·p̂+βm first order in time, the equation i∂_tψ=Ĥ_Dψ has exactly the same structural form as the ordinary Schrodinger equation of Lesson 11, so the same method used there (multiply by ψ† and its Hermitian-conjugate equation, subtract) will be shown in Lesson 23 to produce a current with ρ=ψ†ψ, manifestly positive definite (a sum of squared magnitudes, exactly as in Lesson 9), resolving Lesson 17's central difficulty completely, provided the αᵢ and β can indeed be found as genuine matrices, which Section 5 has now confirmed is possible.
+State, as a preview only, what Lesson 19 will show about the current built from a first-order equation satisfying Section 3.2's algebra. With Ĥ_D=α·p̂+βm first order in time, the equation i∂_tψ=Ĥ_Dψ has exactly the same structural form as the ordinary Schrödinger equation of Lesson 11, so the same method used there (multiply by ψ† and its Hermitian-conjugate equation, subtract) will be shown in Lesson 23 to produce a current with ρ=ψ†ψ, manifestly positive definite (a sum of squared magnitudes, exactly as in Lesson 9), resolving Lesson 17's central difficulty completely, provided the αᵢ and β can indeed be found as genuine matrices, which Section 5 has now confirmed is possible.
 
 # 7 Connections to QED
 
@@ -169,7 +169,7 @@ This lesson's method, converting a physical requirement into a precise algebraic
 
 # 8 Summary
 
-1. The Schrodinger equation fails Lorentz covariance because it has unequal numbers of space and time derivatives; the Klein Gordon equation fixes this but loses a positive-definite current because it is second order in time.
+1. The Schrödinger equation fails Lorentz covariance because it has unequal numbers of space and time derivatives; the Klein–Gordon equation fixes this but loses a positive-definite current because it is second order in time.
 
 2. The goal is a first-order equation consistent with E²=|p|²+m².
 
@@ -190,7 +190,7 @@ This lesson's method, converting a physical requirement into a precise algebraic
 @widths 720 9072
 | No | Problem |
 | 1 | Expand m√(1+p̂²/m²) to the next order beyond Worked example 1 (the p̂⁴ term) and verify it matches the relativistic correction of Lesson 3, Worked example 5, applied as an operator. |
-| 2 | Explain, in your own words, why an equation containing infinitely many spatial derivatives is considered nonlocal, contrasting it with the finite number of derivatives in the Schrodinger and Klein Gordon equations. |
+| 2 | Explain, in your own words, why an equation containing infinitely many spatial derivatives is considered nonlocal, contrasting it with the finite number of derivatives in the Schrödinger and Klein–Gordon equations. |
 | 3 | Verify that squaring Ĥ_D=α·p̂+βm as in Section 3.2 produces no terms with an odd total number of momentum factors beyond the ones shown, by expanding (α·p̂+βm)² fully and grouping terms by degree in p̂. |
 | 4 | Show that the condition {αᵢ,β}=0 requires tr(αᵢ)=0 by an argument directly analogous to Worked example 4, using β²=I in place of αᵧ²=I. |
 | 5 | If αₓ and β were both ordinary real numbers satisfying αₓ²=1, β²=1, and {αₓ,β}=2αₓβ=0, show this forces αₓβ=0, and hence at least one of them is zero, contradicting both being nonzero as required. |
@@ -210,7 +210,7 @@ This lesson's method, converting a physical requirement into a precise algebraic
 
 **1.** m√(1+p̂²/m²) = m[1+p̂²/2m²−p̂⁴/8m⁴+⋯] = m+p̂²/2m−p̂⁴/8m³+⋯, so the next term beyond p̂²/2m is −p̂⁴/8m³, matching exactly the −p⁴/8m³c² relativistic correction term found in Lesson 3, Worked example 5 (with c=1), now understood as an operator acting on ψ rather than a classical number.
 
-**2.** A local equation relates the value of a field and a bounded, finite number of its derivatives at a single point to its rate of change; an equation with infinitely many derivatives, by contrast, effectively samples the field's behavior over an extended neighborhood (since each derivative order probes progressively finer or more distant variation), blurring the sharp distinction between "what happens right here" and "what happens somewhere else," which is the operational meaning of locality that the Schrodinger and Klein Gordon equations, each with a fixed, small number of derivatives, respect.
+**2.** A local equation relates the value of a field and a bounded, finite number of its derivatives at a single point to its rate of change; an equation with infinitely many derivatives, by contrast, effectively samples the field's behavior over an extended neighborhood (since each derivative order probes progressively finer or more distant variation), blurring the sharp distinction between "what happens right here" and "what happens somewhere else," which is the operational meaning of locality that the Schrödinger and Klein–Gordon equations, each with a fixed, small number of derivatives, respect.
 
 **3.** (α·p̂+βm)² = Σᵢⱼαᵢαⱼp̂ᵢp̂ⱼ + mΣᵢ(αᵢβ+βαᵢ)p̂ᵢ + β²m². The first term has degree 2 in p̂ (two momentum factors), the second has degree 1, and the third has degree 0; no term has an odd total combining momentum and mass factors inconsistently, and matching to p̂²+m² (degree 2 and degree 0 only, no degree 1) is exactly what forces the middle term's coefficient, {αᵢ,β}, to vanish.
 
@@ -242,7 +242,7 @@ This lesson's method, converting a physical requirement into a precise algebraic
 
 # Mastery checklist
 
-- I can state precisely why the Schrodinger and Klein Gordon equations each fail to meet both of the two requirements simultaneously.
+- I can state precisely why the Schrödinger and Klein–Gordon equations each fail to meet both of the two requirements simultaneously.
 
 - I can explain why a naive square root of p̂²+m² produces a nonlocal equation.
 

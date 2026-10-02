@@ -37,7 +37,7 @@ Combining each amplitude from Lessons 53–57 with dσ/dΩ=|ℳ|²/(64π²s) (Le
 | Process (Lesson) | dσ/dΩ |
 | e⁻μ⁻→e⁻μ⁻ (53) | e⁴(s²+u²)/(32π²st²) |
 | e⁻e⁻→e⁻e⁻ (54) | (e⁴/(32π²s))[(s²+u²)/t²+(s²+t²)/u²+2s²/(tu)] |
-| e⁻e⁺→γγ (55) | (e⁴/(32π²s))[t/u+u/t−2] |
+| e⁻e⁺→γγ (55) | (e⁴/(32π²s))(t/u+u/t) |
 | e⁻γ→e⁻γ (56) | −e⁴(s/u+u/s)/(32π²s) |
 | γγ→e⁻e⁺ (57) | (e⁴/(32π²s))(t/u+u/t) |
 
@@ -45,7 +45,7 @@ each ready to be evaluated numerically once s and the scattering angle (fixing t
 
 ### Worked example 1
 
-State why the annihilation and pair-production rows (Lessons 55 and 57) look so similar. Both were shown, in Lesson 57, Section 2.1, to share the identical squared-amplitude structure T_AA=T_BB=8tu; only the interference trace differs (nonzero for annihilation, zero for pair production, Lesson 57, Section 2.2), which is exactly why the annihilation row carries the extra "−2" that the pair-production row lacks.
+State why the annihilation and pair-production rows (Lessons 55 and 57) look so similar. They are the same row. The two processes are time reverses of each other, with T_AA=T_BB=8tu (Lesson 57, Section 2.1) and a vanishing interference trace in both (Lesson 55, Section 4.2; Lesson 57, Section 3), and each averages over four initial states. The rates differ only through the flux and the phase space of the actual experiment.
 
 # 2 A shared feature: the forward peak
 
@@ -150,7 +150,7 @@ Starting from the vertex and propagators of Part VII, Part VIII derived five com
 | No | Problem |
 | 1 | Verify the electron-muon row of Section 1's table by substituting Lesson 53's (1/4)Σ|ℳ|²=2e⁴(s²+u²)/t² into dσ/dΩ=|ℳ|²/(64π²s). |
 | 2 | Do the same for the Compton row, using Lesson 56's (1/4)Σ|ℳ|²=−2e⁴(s/u+u/s). |
-| 3 | Explain why Worked example 1's comparison (annihilation versus pair production) shows up as a difference of a single additive constant, tracing it to Lesson 57, Section 2.2's finding. |
+| 3 | Explain why Worked example 1's two rows (annihilation and pair production) carry the same function of t and u, tracing it to the vanishing interference traces of Lesson 55, Section 4.2, and Lesson 57, Section 3. |
 | 4 | Derive 1−cosθ=2sin²(θ/2) from the double-angle identity cos(2x)=1−2sin²(x), setting x=θ/2. |
 | 5 | Substitute Exercise 4 into t=−2p²(1−cosθ) to derive t=−4p²sin²(θ/2). |
 | 6 | State, without derivation, the classical Rutherford scattering formula's angular dependence, and compare it directly with Exercise 5's result for t². |
@@ -171,7 +171,7 @@ Starting from the vertex and propagators of Part VII, Part VIII derived five com
 
 **2.** Substituting Lesson 56's result: dσ/dΩ=[−2e⁴(s/u+u/s)]/(64π²s)=−2e⁴(s/u+u/s)/(64π²s)=−e⁴(s/u+u/s)/(32π²s), matching Section 1's table.
 
-**3.** Lesson 57, Section 2.2, found that pair production's interference trace T_AB vanishes identically, while Lesson 55's annihilation process has a nonzero T_AB=−8tu contributing the additional −2 inside the bracket (Lesson 55, Section 5.1); since T_AA and T_BB are identical for both processes (Lesson 57, Worked example 1), the only structural difference between the two final formulas is exactly this one additive term, tracing directly to whether the interference trace survives.
+**3.** Lesson 57, Section 3, found that pair production's interference trace T_AB vanishes identically, and Lesson 55, Section 4.2, found the same for annihilation. Since T_AA and T_BB are identical for both processes (Lesson 57, Worked example 1), the two final formulas are identical, 2e⁴(t/u+u/t), as time reversal requires.
 
 **4.** cos(2x)=1−2sin²(x); setting x=θ/2, cos(θ)=1−2sin²(θ/2), so 1−cosθ=2sin²(θ/2).
 

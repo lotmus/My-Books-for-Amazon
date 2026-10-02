@@ -119,7 +119,7 @@ exactly the expectation values for a particle whose momentum distribution is |ψ
 
 ## 4.2 The wave function of the state
 
-The field operator gives the position-space function of the state, ⟨0|φ(x)|ψ⟩ = ∫d³p/((2π)³√(2E_p)) ψ̃(p) e^(−ip·x), obtained directly from ⟨0|φ(x)a_p†|0⟩ = e^(−ip·x)/√(2E_p), which follows from ⟨0|a_qa_p†|0⟩ = (2π)³δ³(q − p). It satisfies the Klein Gordon equation, since each plane wave does. It should not be read as a probability amplitude for finding the particle at x. Its square is not the probability density that integrates to one, because the normalization of the state involves ∫d³p|ψ̃|² without the factor 1/(2E_p) that appears here, and, as Lesson 31 showed, a relativistic particle cannot be localized more sharply than its Compton wavelength. Position measurements in field theory are measurements of the field, not of a position operator, and their interpretation requires the analysis of Part VII.
+The field operator gives the position-space function of the state, ⟨0|φ(x)|ψ⟩ = ∫d³p/((2π)³√(2E_p)) ψ̃(p) e^(−ip·x), obtained directly from ⟨0|φ(x)a_p†|0⟩ = e^(−ip·x)/√(2E_p), which follows from ⟨0|a_qa_p†|0⟩ = (2π)³δ³(q − p). It satisfies the Klein–Gordon equation, since each plane wave does. It should not be read as a probability amplitude for finding the particle at x. Its square is not the probability density that integrates to one, because the normalization of the state involves ∫d³p|ψ̃|² without the factor 1/(2E_p) that appears here, and, as Lesson 31 showed, a relativistic particle cannot be localized more sharply than its Compton wavelength. Position measurements in field theory are measurements of the field, not of a position operator, and their interpretation requires the analysis of Part VII.
 
 ### Worked example 2
 
@@ -149,7 +149,7 @@ In a coherent state of the modes of the field, a_p|α⟩ = α_p|α⟩ for every 
 
 $$ ⟨α|φ(x)|α⟩ = ∫ d³p/(2π)³ (1/√(2E_p)) ( α_p e^(−ip·x) + α_p* e^(ip·x) )
 
-This is a classical solution of the Klein Gordon equation, of exactly the form of the mode expansion of Lesson 24, Section 4.4, with the classical amplitude a_p replaced by the eigenvalue α_p. The expectation value of the normal-ordered Hamiltonian is ⟨:H:⟩ = ∫d³p/(2π)³E_p|α_p|², the classical energy H = Σω|a|² of Lesson 24. A coherent state is therefore a quantum state whose expectation values follow a classical solution. The classical fields of Part IV are recovered as coherent states of many quanta, and the connection explains how a classical electromagnetic wave, which has a definite amplitude and phase, arises from photons that individually have neither.
+This is a classical solution of the Klein–Gordon equation, of exactly the form of the mode expansion of Lesson 24, Section 4.4, with the classical amplitude a_p replaced by the eigenvalue α_p. The expectation value of the normal-ordered Hamiltonian is ⟨:H:⟩ = ∫d³p/(2π)³E_p|α_p|², the classical energy H = Σω|a|² of Lesson 24. A coherent state is therefore a quantum state whose expectation values follow a classical solution. The classical fields of Part IV are recovered as coherent states of many quanta, and the connection explains how a classical electromagnetic wave, which has a definite amplitude and phase, arises from photons that individually have neither.
 
 ## 5.4 Displacement operator
 
@@ -232,7 +232,7 @@ The last row is the one that generalizes most directly. The QED interaction +eψ
 | 3 | Compute ⟨n\|aa†\|n⟩, ⟨n\|a†a\|n⟩, and ⟨n\|(a + a†)²\|n⟩, and check that the last equals 2n + 1. |
 | 4 | Show that the number of states with N quanta in M modes is C(N + M − 1, N), and evaluate it for N = 2 with M = 3 and M = 4. |
 | 5 | For \|ψ⟩ = ∫d³p/(2π)³ψ̃(p)a_p†\|0⟩, show that ⟨ψ\|ψ⟩ = ∫d³p/(2π)³\|ψ̃\|², ⟨N⟩ = ⟨ψ\|ψ⟩, and ⟨H⟩ = ∫d³p/(2π)³E_p\|ψ̃\|². |
-| 6 | Show that ⟨0\|φ(x)\|ψ⟩ = ∫d³p/((2π)³√(2E_p))ψ̃(p)e^(−ip·x) satisfies the Klein Gordon equation, and explain why its modulus squared is not a probability density. |
+| 6 | Show that ⟨0\|φ(x)\|ψ⟩ = ∫d³p/((2π)³√(2E_p))ψ̃(p)e^(−ip·x) satisfies the Klein–Gordon equation, and explain why its modulus squared is not a probability density. |
 | 7 | Show that \|α⟩ = e^(−\|α\|²/2)Σα^n/√(n!) \|n⟩ is normalized and satisfies a\|α⟩ = α\|α⟩. |
 | 8 | Using e^(A+B) = e^Ae^Be^(−[A,B]/2) for [A, B] a number, show that D(α)\|0⟩ = \|α⟩ for D(α) = exp(αa† − α*a). |
 | 9 | For a coherent state of the field with a_p\|α⟩ = α_p\|α⟩, compute ⟨φ(x)⟩ and ⟨:H:⟩ and compare with the classical mode expansion and energy of Lesson 24. |

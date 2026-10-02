@@ -23,7 +23,7 @@ Every step is elementary, but it is the pattern that matters: the same four step
 
 - Show that the field operator creates a particle at a point with amplitude e^(ip·x).
 
-- Derive the time dependence of the field in the Heisenberg picture and recover the Klein Gordon equation as an operator equation.
+- Derive the time dependence of the field in the Heisenberg picture and recover the Klein–Gordon equation as an operator equation.
 
 - Show that the commutator of fields vanishes at spacelike separation, and generalize the construction to the complex field.
 
@@ -178,7 +178,7 @@ Check the normalization of ⟨p|q⟩. ⟨p|q⟩ = √(2E_p2E_q)⟨0|a_pa_q†|0�
 
 The field operator φ(t, x) is the Heisenberg operator φ(t, x) = e^(iHt)φ(0, x)e^(−iHt) (Lesson 11, Section 6.1). Its time dependence follows from that of the ladder operators. Since [H, a_p] = −E_pa_p, the operator a_p(t) = e^(iHt)a_pe^(−iHt) satisfies da_p/dt = i[H, a_p] = −iE_pa_p, so
 
-$$ a_p(t) = a_p e^(−iE_pt),    a_p†(t) = a_p† e^(iE_pt)
+$$ a_p(t) = a_p e^(−iE_p t),    a_p†(t) = a_p† e^(iE_p t)
 
 and the mode expansion of Section 2.1 is exactly the Heisenberg field at time t, with the exponentials e^(∓iE_pt) coming from the time evolution of the operators (Exercise 11). Each mode oscillates with its own frequency, as in Lesson 24.
 
@@ -188,7 +188,7 @@ The Heisenberg equations reproduce the classical field equation as an operator e
 
 $$ (□ + m²) φ(x) = 0
 
-The Klein Gordon equation now holds as an operator equation for the quantum field, the same equation as in Lesson 26, but with φ a quantum operator whose particle content is described by the modes above.
+The Klein–Gordon equation now holds as an operator equation for the quantum field, the same equation as in Lesson 26, but with φ a quantum operator whose particle content is described by the modes above.
 
 # 7 Causality
 
@@ -344,6 +344,6 @@ The function D(x − y) will reappear in Lesson 45 as the building block of the 
 
 - I can show that ⟨p|φ(x)|0⟩ = e^(ip·x) and interpret it.
 
-- I can derive the Heisenberg time dependence of the ladder operators and recover the Klein Gordon equation as an operator equation.
+- I can derive the Heisenberg time dependence of the ladder operators and recover the Klein–Gordon equation as an operator equation.
 
 - I can show that [φ(x), φ(y)] vanishes at spacelike separation and explain the role of the antiparticle in the complex field.

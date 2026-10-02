@@ -5,7 +5,7 @@ NEXT: Stop for the Interlude on Mead's view (A as the phase standard; E and B de
 
 # How to use this lesson
 
-D_μ has appeared in this course as a tool: replace ∂_μ by D_μ, and local phase invariance is restored. This lesson turns the tool around and studies it as an object worth understanding on its own terms. Two questions drive it. First, how does D_μ interact with products of fields, especially fields of different charge, such as the ψ̄ψ combinations that appear constantly in the Dirac Lagrangian? Second, what is the meaning of the commutator [D_μ,D_ν], previewed without proof in Lesson 38, Section 5.3? The answer to the second question, [D_μ,D_ν]=iqF_μν, is not a curiosity; it is the cleanest possible definition of the field strength tensor, and it explains, from first principles, why F_μν is gauge invariant even though D_μ itself is not. Expect five to seven hours.
+D_μ has appeared in this course as a tool: replace ∂_μ by D_μ, and local phase invariance is restored. This lesson turns the tool around and studies it as an object worth understanding on its own terms. Two questions drive it. First, how does D_μ interact with products of fields, especially fields of different charge, such as the ψ̄ψ combinations that appear constantly in the Dirac Lagrangian? Second, what is the meaning of the commutator [D_μ,D_ν], previewed without proof in Lesson 38, Section 5? The answer to the second question, [D_μ,D_ν]=iqF_μν, is not a curiosity; it is the cleanest possible definition of the field strength tensor, and it explains, from first principles, why F_μν is gauge invariant even though D_μ itself is not. Expect five to seven hours.
 
 ## Learning objectives
 
@@ -84,7 +84,7 @@ Three of the four groups vanish. The first, (∂_μ∂_ν−∂_ν∂_μ)φ, van
 
 $$ [D_μ,D_ν]φ = iq(∂_μA_ν − ∂_νA_μ)φ = iqF_μνφ
 
-exactly the identity previewed without proof in Lesson 38, Section 5.3, now derived in full. Since this holds for the φ used in the derivation regardless of its specific form, and Section 1.2 showed the same D_μ structure governs any field of definite charge, the identity [D_μ,D_ν] = iqF_μν holds as an operator identity, valid acting on any field of charge q, not only the particular φ used to derive it.
+exactly the identity previewed without proof in Lesson 38, Section 5, now derived in full. Since this holds for the φ used in the derivation regardless of its specific form, and Section 1.2 showed the same D_μ structure governs any field of definite charge, the identity [D_μ,D_ν] = iqF_μν holds as an operator identity, valid acting on any field of charge q, not only the particular φ used to derive it.
 
 ### Worked example 2
 

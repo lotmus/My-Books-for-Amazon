@@ -31,7 +31,7 @@ Every term of ℒ_QED has now been derived except one number: the size of e itse
 | Symbol | Meaning |
 | [X] | Mass dimension of a quantity X, in natural units ℏ=c=1 |
 | e | QED coupling constant (electron charge magnitude), e>0 |
-| α = e²/(4π) | Fine-structure constant, Heaviside-Lorentz units |
+| α = e²/(4π) | Fine-structure constant, Heaviside–Lorentz units |
 | a = (g−2)/2 | Anomalous magnetic moment, previewed in Lesson 39, Section 4.2 |
 
 # 1 The dimension of the coupling constant
@@ -62,7 +62,7 @@ Confirm the mass term −mψ̄ψ is consistent with the dimensional bookkeeping 
 
 ## 2.1 The fine-structure constant
 
-In the Heaviside-Lorentz units used throughout this course, the fine-structure constant is defined as
+In the Heaviside–Lorentz units used throughout this course, the fine-structure constant is defined as
 
 $$ α = e² / (4π)
 

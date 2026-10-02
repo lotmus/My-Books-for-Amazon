@@ -1,11 +1,11 @@
 TITLE: Electromagnetic Potentials and Gauge Freedom
 TAGLINE: The scalar and vector potentials, the gauge transformation, the Lorenz and Coulomb gauges, and the four-potential
 NUM: 8
-NEXT: Part II of the course turns from classical field theory to quantum mechanics. Lesson 9 develops wave functions and Hilbert spaces: the probabilistic interpretation, the space of square-integrable functions, and the inner product structure that puts quantum states on the same footing as the abstract vectors of Lesson 1.
+NEXT: Stop for the Interlude on classical optics (Lesson 7's waves in glass and water, and Prologue 2's 0.2 arrow derived from a dielectric). Then Part II of the course turns from classical field theory to quantum mechanics. Lesson 9 develops wave functions and Hilbert spaces: the probabilistic interpretation, the space of square-integrable functions, and the inner product structure that puts quantum states on the same footing as the abstract vectors of Lesson 1.
 
 # How to use this lesson
 
-Lesson 7 wrote the Maxwell equations directly in terms of E and B. This lesson rewrites them in terms of potentials φ and A, from which E and B are derived rather than fundamental: the rewrite Prologue 5 promised, and the objects the Interlude after Lesson 40 will read as Mead's claim that A is primitive. The rewriting looks like a technical convenience, and at the level of classical mechanics it is one. It stops being a convenience and becomes essential the moment quantum mechanics enters, because the Schrodinger and Dirac equations are written for a charged particle in terms of the potentials, not the fields, through the minimal coupling rule of Lesson 6. The freedom to change the potentials without changing the physics, gauge freedom, is therefore not a footnote; it is the freedom that QED elevates into its defining symmetry in Lesson 38.
+Lesson 7 wrote the Maxwell equations directly in terms of E and B. This lesson rewrites them in terms of potentials φ and A, from which E and B are derived rather than fundamental: the rewrite Prologue 5 promised, and the objects the Interlude after Lesson 40 will read as Mead's claim that A is primitive. The rewriting looks like a technical convenience, and at the level of classical mechanics it is one. It stops being a convenience and becomes essential the moment quantum mechanics enters, because the Schrödinger and Dirac equations are written for a charged particle in terms of the potentials, not the fields, through the minimal coupling rule of Lesson 6. The freedom to change the potentials without changing the physics, gauge freedom, is therefore not a footnote; it is the freedom that QED elevates into its defining symmetry in Lesson 38.
 
 This lesson is shorter than most, because the ideas are few and the payoff is concentrated: by the end, the two Maxwell curl equations will be solved identically, and the two divergence equations will become two wave equations with sources, differing from Lesson 2's wave equation only by that source term. Expect five to seven focused hours.
 
@@ -35,7 +35,7 @@ This lesson is shorter than most, because the ideas are few and the payoff is co
 | A | Vector potential |
 | A^μ | Four-potential (φ, A) |
 | Λ, α(x) | Gauge functions |
-| Lorenz gauge | ∇·A + ∂φ/∂t = 0 (Heaviside Lorentz units, c = 1) |
+| Lorenz gauge | ∇·A + ∂φ/∂t = 0 (Heaviside–Lorentz units, c = 1) |
 | Coulomb gauge | ∇·A = 0 |
 | G(x, t; x′, t′) | Retarded Green's function of the wave operator |
 | t_r | Retarded time t − \|x − x′\| |
@@ -105,17 +105,17 @@ Starting from φ = 0, A = 0 (no field), choose χ = −f(t) for an arbitrary fun
 
 Among the infinitely many gauges, one choice decouples the two equations of Section 2 completely. Impose
 
-$$ ∇·A + ε₀μ₀ ∂φ/∂t = 0,  or in Heaviside Lorentz units with c = 1,  ∇·A + ∂φ/∂t = 0
+$$ ∇·A + ε₀μ₀ ∂φ/∂t = 0,  or in Heaviside–Lorentz units with c = 1,  ∇·A + ∂φ/∂t = 0
 
 This is always achievable: given any φ, A not satisfying it, a gauge function χ can be found solving ∇²χ − ε₀μ₀∂²χ/∂t² = −(∇·A + ε₀μ₀∂φ/∂t), which is itself a wave equation with a known source and therefore solvable by the methods of Section 5. With the Lorenz condition imposed, the cross terms in Section 2 cancel.
 
 $$ (∇² − ε₀μ₀ ∂²/∂t²) φ = −ρ/ε₀,    (∇² − ε₀μ₀ ∂²/∂t²) A = −μ₀j
 
-In Heaviside Lorentz units, using □ = ∂_t² − ∇² from Lesson 4,
+In Heaviside–Lorentz units, using □ = ∂_t² − ∇² from Lesson 4,
 
 $$ □ φ = ρ,    □ A = j
 
-Each potential now obeys its own sourced wave equation, of exactly the Klein Gordon form with m = 0. This is the cleanest statement of classical electromagnetism as a field theory, and it is the form generalized directly into the covariant equation □A^μ = j^μ (with an additional gauge-fixing subtlety) in Lesson 42.
+Each potential now obeys its own sourced wave equation, of exactly the Klein–Gordon form with m = 0. This is the cleanest statement of classical electromagnetism as a field theory, and it is the form generalized directly into the covariant equation □A^μ = j^μ (with an additional gauge-fixing subtlety) in Lesson 42.
 
 ## 4.2 Residual gauge freedom
 
@@ -129,7 +129,7 @@ Show that the Lorenz condition is preserved under a residual gauge transformatio
 
 ## 5.1 The retarded Green's function
 
-The equation □φ = ρ (Heaviside Lorentz units) is linear, so its solution can be built from the response to a point source. The Green's function satisfying □G = δ³(x − x′)δ(t − t′), with the physical requirement that effects follow causes, is
+The equation □φ = ρ (Heaviside–Lorentz units) is linear, so its solution can be built from the response to a point source. The Green's function satisfying □G = δ³(x − x′)δ(t − t′), with the physical requirement that effects follow causes, is
 
 $$ G(x, t; x′, t′) = δ(t − t′ − |x − x′|) / (4π|x − x′|)
 
@@ -276,7 +276,7 @@ The argument of Section 8 is, in outline, the entire logical structure of quantu
 
 **3.** B′ = ∇×(A+∇χ) = ∇×A + ∇×∇χ = B + 0 = B. E′ = −∇(φ−∂χ/∂t) − ∂(A+∇χ)/∂t = −∇φ + ∇(∂χ/∂t) − ∂A/∂t − ∂(∇χ)/∂t = E + [∇(∂χ/∂t) − ∂(∇χ)/∂t] = E, the bracket vanishing by equality of mixed partial derivatives.
 
-**4.** χ must satisfy ∇²χ − ε₀μ₀∂²χ/∂t² = −(∇·A + ε₀μ₀∂φ/∂t); this is a sourced wave equation (Klein Gordon type with m = 0), the same type solved for φ and A themselves in Section 5.
+**4.** χ must satisfy ∇²χ − ε₀μ₀∂²χ/∂t² = −(∇·A + ε₀μ₀∂φ/∂t); this is a sourced wave equation (Klein–Gordon type with m = 0), the same type solved for φ and A themselves in Section 5.
 
 **5.** ∇·A′ + ∂φ′/∂t = ∇·A + ∇²χ + ∂φ/∂t − ∂²χ/∂t² = (∇·A + ∂φ/∂t) − (∂²χ/∂t² − ∇²χ) = 0 − □χ = 0, using □χ = 0.
 

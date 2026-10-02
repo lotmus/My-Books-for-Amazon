@@ -5,7 +5,7 @@ NEXT: Lesson 43 studies the coupling constant e itself: its dimensions, its rela
 
 # How to use this lesson
 
-Lesson 41 assembled ℒ_QED and derived one set of Maxwell's equations, the inhomogeneous set ∂_μF^μν=j^ν, from the Euler-Lagrange equation for A_ν. This lesson looks more closely at F_μν itself: writing out every one of its sixteen components explicitly in terms of the electric and magnetic fields, showing that the other set of Maxwell's equations, the homogeneous set (∇·B=0 and Faraday's law), requires no dynamics at all and follows automatically from F_μν's definition as ∂_μA_ν−∂_νA_μ, and identifying the two independent combinations of E and B that stay the same in every inertial frame. None of this changes the physics already established; it organizes it, and the organization pays off immediately in Lesson 44's treatment of the electron-photon vertex. Expect four to six hours.
+Lesson 41 assembled ℒ_QED and derived one set of Maxwell's equations, the inhomogeneous set ∂_μF^μν=j^ν, from the Euler–Lagrange equation for A_ν. This lesson looks more closely at F_μν itself: writing out every one of its sixteen components explicitly in terms of the electric and magnetic fields, showing that the other set of Maxwell's equations, the homogeneous set (∇·B=0 and Faraday's law), requires no dynamics at all and follows automatically from F_μν's definition as ∂_μA_ν−∂_νA_μ, and identifying the two independent combinations of E and B that stay the same in every inertial frame. None of this changes the physics already established; it organizes it, and the organization pays off immediately in Lesson 44's treatment of the electron-photon vertex. Expect four to six hours.
 
 ## Learning objectives
 

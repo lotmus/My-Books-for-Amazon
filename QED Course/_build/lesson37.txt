@@ -254,7 +254,7 @@ With this lesson, all three free fields needed for QED, the scalar field of Less
 
 **13.** ⟨0\|A^i(x)\|k,λ⟩ = √(2ω_k)⟨0\|A^i(x)a_(k,λ)†\|0⟩. Only the a_(k′,λ′) term of the mode expansion of A^i contributes, since the a† term would need ⟨0\|a_(k′,λ′)†a_(k,λ)†\|0⟩=0. So ⟨0\|A^i(x)\|k,λ⟩ = √(2ω_k)∫d³k′/(2π)³(2ω_k′)^(−1/2)ε_λ′^i(k′)e^(−ik′x)⟨0\|a_(k′,λ′)a_(k,λ)†\|0⟩. Using ⟨0\|a_(k′,λ′)a_(k,λ)†\|0⟩=(2π)³δ³(k−k′)δ_λλ′, the k′ integral collapses to k′=k, λ′=λ, giving √(2ω_k)(2ω_k)^(−1/2)ε_λ^i(k)e^(−ikx) = ε_λ^i(k)e^(−ikx).
 
-**14.** A Hermitian field satisfies φ=φ†, but the U(1) transformation associated with a conserved charge acts as φ→e^(iqα)φ for a field of charge q (Lesson 30); demanding φ transform into itself under this (since Hermiticity must be preserved, (e^(iqα)φ)† = e^(−iqα)φ† = e^(−iqα)φ should also equal φ, or more directly, a Hermitian field's own charge current j^μ built from φ alone is forced to vanish unless q=0, by the same real-field argument used in Lesson 17, Exercise 15, and Lesson 22, Exercise 10, for the Klein Gordon field) forces q=0. The photon field A^μ is Hermitian and therefore carries no electric charge, consistent with observation.
+**14.** A Hermitian field satisfies φ=φ†, but the U(1) transformation associated with a conserved charge acts as φ→e^(iqα)φ for a field of charge q (Lesson 30); demanding φ transform into itself under this (since Hermiticity must be preserved, (e^(iqα)φ)† = e^(−iqα)φ† = e^(−iqα)φ should also equal φ, or more directly, a Hermitian field's own charge current j^μ built from φ alone is forced to vanish unless q=0, by the same real-field argument used in Lesson 17, Exercise 15, and Lesson 22, Exercise 10, for the Klein–Gordon field) forces q=0. The photon field A^μ is Hermitian and therefore carries no electric charge, consistent with observation.
 
 **15.** In words: Section 4.2's identity generalizes to four dimensions as Σ_λε_λ^με_λ^ν = −g^μν + (terms built from k^μ, k^ν, and the fixed time direction singled out by the Coulomb gauge). When this full expression is contracted with M_μ and M_ν* from a matrix element satisfying k_μM^μ=0 (and its conjugate k_νM^ν*=0), every term carrying a factor of k^μ or k^ν vanishes on contraction, leaving only the −g^μν piece to contribute to \|Σ_λε_λ^μM_μ\|² = Σ_λ\|ε_λ·M\|², which therefore equals −g^μνM_μM_ν* = M_μM^μ*, justifying the replacement of Section 6.2 for any amplitude built from a conserved current.
 
@@ -274,6 +274,6 @@ With this lesson, all three free fields needed for QED, the scalar field of Less
 
 - I can write the one-photon matrix element of the field and explain its role as an external-line factor.
 
-- I can explain why the photon is its own antiparticle, using the same reasoning applied earlier to the real Klein Gordon field.
+- I can explain why the photon is its own antiparticle, using the same reasoning applied earlier to the real Klein–Gordon field.
 
 - I can state the polarization sum replacement Σε_λ^με_λ^ν → −g^μν and explain, at least qualitatively, what property of an amplitude justifies it.

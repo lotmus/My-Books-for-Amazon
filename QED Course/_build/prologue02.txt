@@ -99,7 +99,7 @@ Computing the 0.2 from QED, rather than reading it off glass, waits for the coup
 | 5 | Why does the straight path survive? |
 | 6 | State the mirror law as a stationary-path statement. |
 | 7 | How does a pinhole spoil the cancellation? |
-| 8 | Challenge: soap-film colours. Which prologue object is changing across the spectrum? |
+| 8 | Challenge: soap-film colors. Which prologue object is changing across the spectrum? |
 
 # Solutions
 
@@ -107,7 +107,7 @@ Computing the 0.2 from QED, rather than reading it off glass, waits for the coup
 
 **2.** 0 and 0.16.
 
-**3.** Extra time in the glass, hence extra rotation, depending on colour and thickness.
+**3.** Extra time in the glass, hence extra rotation, depending on color and thickness.
 
 **4.** Their times differ enough that their arrows point uniformly around the circle.
 
@@ -117,7 +117,7 @@ Computing the 0.2 from QED, rather than reading it off glass, waits for the coup
 
 **7.** It removes a lopsided set of paths, so the remainder does not sum to zero off the axis.
 
-**8.** Colour, i.e. rotation rate; a given thickness is constructive for some colours and destructive for others.
+**8.** Color, i.e. rotation rate; a given thickness is constructive for some colors and destructive for others.
 
 # Mastery checklist
 

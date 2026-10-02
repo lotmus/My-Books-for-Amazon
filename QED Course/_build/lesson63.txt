@@ -35,7 +35,7 @@ An electron does not have to interact with anything else to feel the effect of i
 # 1 The diagram
 
 FIG:
- e^{-}(p) ----*~~~~~~~~~~~~~~~*
+    e⁻(p) ----*~~~~~~~~~~~~~~~*
                \             /
                 \           /
                  \         /

@@ -35,9 +35,9 @@ Lesson 53 computed electron-muon scattering by exchanging one photon between two
 # 1 Two diagrams, one relative sign
 
 FIG:
- e^{-}(p1) ----*~~~~γ~~~~*---- e^{-}(p3)      e^{-}(p1) ----*~~~~γ~~~~*---- e^{-}(p4)
+    e⁻(p1) ----*~~~~γ~~~~*---- e⁻(p3)            e⁻(p1) ----*~~~~γ~~~~*---- e⁻(p4)   
                |         |                                  |         |
- e^{-}(p2) ----*         *---- e^{-}(p4)      e^{-}(p2) ----*         *---- e^{-}(p3)
+    e⁻(p2) ----*         *---- e⁻(p4)            e⁻(p2) ----*         *---- e⁻(p3)   
             ℳ_t, photon in t                     ℳ_u, photon in u, relative minus
 ENDFIG
 

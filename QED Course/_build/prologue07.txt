@@ -1,4 +1,4 @@
-TITLE: The Schrodinger Equation
+TITLE: The Schrödinger Equation
 TAGLINE: A ket does not sit still. The Hamiltonian is the machine that rotates its arrows as time passes
 NUM: 7
 NEXT: Prologue 8 connects laboratory S-parameters — the microwave engineer's in-and-out arrows — to the S-matrix this course uses for particles.
@@ -56,7 +56,7 @@ The equation treats time as a driver and space as a label on the wave function. 
 @widths 3264 6528
 | Result of this prologue | Where it is used |
 | iℏ d|ψ⟩/dt=Ĥ|ψ⟩ | Lesson 11, in full |
-| Rotation rate E/ℏ | Prologue 1 colour; photon energy |
+| Rotation rate E/ℏ | Prologue 1 color; photon energy |
 | Stationary P | Energy eigenstates, Lesson 11 |
 
 # Summary

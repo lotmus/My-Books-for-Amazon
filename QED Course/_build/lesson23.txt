@@ -5,7 +5,7 @@ NEXT: Part IV of the course turns to classical field theory. Lesson 24 treats fi
 
 # How to use this lesson
 
-Lesson 17 identified the central defect of the Klein Gordon equation as a probability current whose time component is not positive definite, traced directly to the equation being second order in time. Lesson 18 argued that a first-order equation should fix this, and Lesson 19 constructed the Dirac equation to be exactly that. This short lesson closes the loop: it derives the Dirac current from the equation directly, following the same method used for the Schrodinger current in Lesson 9, and confirms explicitly that its time component is a sum of squared magnitudes, manifestly nonnegative.
+Lesson 17 identified the central defect of the Klein–Gordon equation as a probability current whose time component is not positive definite, traced directly to the equation being second order in time. Lesson 18 argued that a first-order equation should fix this, and Lesson 19 constructed the Dirac equation to be exactly that. This short lesson closes the loop: it derives the Dirac current from the equation directly, following the same method used for the Schrödinger current in Lesson 9, and confirms explicitly that its time component is a sum of squared magnitudes, manifestly nonnegative.
 
 This is a brief lesson by design. Its single result, positive definiteness of ρ=ψ†ψ, is important enough to deserve its own careful, unhurried treatment, but the calculation itself is a direct application of tools already built in Lessons 19 through 21. The lesson closes Part III, and with the arc from Lesson 17 through here complete, the course turns in Part IV to the classical field theory needed to elevate ψ from a single-particle wave function to a genuine quantum field. Expect four to six focused hours.
 
@@ -17,7 +17,7 @@ This is a brief lesson by design. Its single result, positive definiteness of ρ
 
 - Show explicitly that ρ=j^0=ψ†ψ is a sum of squared magnitudes and hence positive definite for any nonzero ψ.
 
-- Contrast this result directly with the Klein Gordon current of Lesson 17 and identify the structural reason for the difference.
+- Contrast this result directly with the Klein–Gordon current of Lesson 17 and identify the structural reason for the difference.
 
 - Compute the Dirac current for a plane-wave solution and interpret it physically.
 
@@ -59,7 +59,7 @@ using ψ̄=ψ†γ⁰. This is the adjoint Dirac equation.
 
 ## 1.2 A subtlety worth flagging
 
-The adjoint equation has the derivative acting to the left, on ψ̄, rather than to the right, on ψ; this asymmetry is precisely analogous to the bra-ket asymmetry of Lesson 9's derivation of the Schrodinger current, where the complex-conjugated equation for ψ* also had its derivative structure mirrored relative to the original equation for ψ. The method of Section 2 exploits exactly this mirrored structure, exactly as it did there.
+The adjoint equation has the derivative acting to the left, on ψ̄, rather than to the right, on ψ; this asymmetry is precisely analogous to the bra-ket asymmetry of Lesson 9's derivation of the Schrödinger current, where the complex-conjugated equation for ψ* also had its derivative structure mirrored relative to the original equation for ψ. The method of Section 2 exploits exactly this mirrored structure, exactly as it did there.
 
 ### Worked example 1
 
@@ -81,7 +81,7 @@ where the product rule identifies the left side as exactly i times ∂_μ of the
 
 $$ j^μ = ψ̄ γ^μ ψ
 
-gives ∂_μj^μ=0: a genuinely conserved current, built entirely from ψ and the gamma matrices, with no arbitrary factor of i needed this time (in contrast with the Klein Gordon current of Lesson 17, Section 3.1, where the factor of i was inserted by hand to make the current real; here reality is automatic, as Section 3 confirms).
+gives ∂_μj^μ=0: a genuinely conserved current, built entirely from ψ and the gamma matrices, with no arbitrary factor of i needed this time (in contrast with the Klein–Gordon current of Lesson 17, Section 3.1, where the factor of i was inserted by hand to make the current real; here reality is automatic, as Section 3 confirms).
 
 ### Worked example 2
 
@@ -97,15 +97,15 @@ using (γ⁰)²=I. Writing out ψ†ψ in components, with ψ=(ψ₁,ψ₂,ψ₃
 
 $$ ρ = ψ†ψ = |ψ₁|² + |ψ₂|² + |ψ₃|² + |ψ₄|²
 
-a sum of squared magnitudes, manifestly nonnegative for any ψ, and strictly positive unless every component of ψ vanishes. This is exactly the structure of the Schrodinger probability density of Lesson 9, ρ=|ψ|², now generalized to four components, and it resolves, completely and without qualification, the difficulty that motivated the entire search beginning in Lesson 18.
+a sum of squared magnitudes, manifestly nonnegative for any ψ, and strictly positive unless every component of ψ vanishes. This is exactly the structure of the Schrödinger probability density of Lesson 9, ρ=|ψ|², now generalized to four components, and it resolves, completely and without qualification, the difficulty that motivated the entire search beginning in Lesson 18.
 
 ### Worked example 3
 
-Contrast this directly with the Klein Gordon result of Lesson 17, Worked example 3, where ρ could be made negative by choosing a suitable superposition of positive- and negative-energy modes. For the Dirac current, no such construction is possible: whatever superposition of u(p) and v(p) spinors is used to build ψ, ρ=ψ†ψ remains a sum of four nonnegative terms, term by term, with no possibility of cancellation to a negative total. The structural reason, as anticipated in Lesson 18, Section 1.2, is that the Dirac equation is first order in time, so ψ(x,0) alone (with no independent ∂_tψ(x,0) needed) determines the state, and ρ is built directly and only from ψ itself, never from a bilinear combination of ψ and its time derivative the way the Klein Gordon current required.
+Contrast this directly with the Klein–Gordon result of Lesson 17, Worked example 3, where ρ could be made negative by choosing a suitable superposition of positive- and negative-energy modes. For the Dirac current, no such construction is possible: whatever superposition of u(p) and v(p) spinors is used to build ψ, ρ=ψ†ψ remains a sum of four nonnegative terms, term by term, with no possibility of cancellation to a negative total. The structural reason, as anticipated in Lesson 18, Section 1.2, is that the Dirac equation is first order in time, so ψ(x,0) alone (with no independent ∂_tψ(x,0) needed) determines the state, and ρ is built directly and only from ψ itself, never from a bilinear combination of ψ and its time derivative the way the Klein–Gordon current required.
 
-## 3.2 Why this works and the Klein Gordon current does not
+## 3.2 Why this works and the Klein–Gordon current does not
 
-The Klein Gordon current of Lesson 17 was built from φ and ∂_tφ together, ρ_(KG)=i(φ*∂_tφ−φ∂_tφ*), because the equation's second-order character made both independently specifiable, and this bilinear structure is what allowed a relative phase between the two to produce a negative result (Lesson 17, Worked example 4). The Dirac current uses ψ alone. No derivative appears in j^μ at all, since ψ̄γ^μψ is built purely algebraically from ψ at a single spacetime point, so nothing in ρ can spoil its sign. This is the structural payoff of Lesson 18's entire program, realized concretely.
+The Klein–Gordon current of Lesson 17 was built from φ and ∂_tφ together, ρ_(KG)=i(φ*∂_tφ−φ∂_tφ*), because the equation's second-order character made both independently specifiable, and this bilinear structure is what allowed a relative phase between the two to produce a negative result (Lesson 17, Worked example 4). The Dirac current uses ψ alone. No derivative appears in j^μ at all, since ψ̄γ^μψ is built purely algebraically from ψ at a single spacetime point, so nothing in ρ can spoil its sign. This is the structural payoff of Lesson 18's entire program, realized concretely.
 
 # 4 The current for a plane wave
 
@@ -123,7 +123,7 @@ Using the block structure of Lesson 19 and Lesson 21, direct computation (Exerci
 
 $$ j⁰ = ū_s(p)γ⁰u_s(p) = u_s†(p)u_s(p) = 2E_p,    j = ū_s(p)γu_s(p) = 2p
 
-using the covariant normalization u†(p)u(p)=2E_p established in Lesson 19, Section 7. The current j^μ=(2E_p,2p) is proportional to the four-momentum p^μ=(E_p,p) itself, exactly the nonrelativistic pattern j=ρv found in Lesson 9 and again for the Klein Gordon current in Lesson 17, Exercise 5, now confirmed once more for the Dirac case: j = ρ(p/E_p) = ρv, with v the classical velocity of Lesson 3.
+using the covariant normalization u†(p)u(p)=2E_p established in Lesson 19, Section 7. The current j^μ=(2E_p,2p) is proportional to the four-momentum p^μ=(E_p,p) itself, exactly the nonrelativistic pattern j=ρv found in Lesson 9 and again for the Klein–Gordon current in Lesson 17, Exercise 5, now confirmed once more for the Dirac case: j = ρ(p/E_p) = ρv, with v the classical velocity of Lesson 3.
 
 ### Worked example 4
 
@@ -133,7 +133,7 @@ Verify j⁰=2E_p using u(p)=√(E_p+m)(χ,(σ·p)/(E_p+m)χ)ᵀ and the calculat
 
 ## 5.1 Charge density
 
-Multiplying j^μ by the particle's electric charge (−e for the electron, in the sign convention adopted in Lesson 43) gives the electric four-current, j^μ_(EM) = −e ψ̄γ^μψ, whose time component, −eρ, is the electric charge density associated with the Dirac field. Because ρ is positive definite (Section 3.1), the sign of the charge density is fixed entirely by the sign of the particle's charge e, never flipping sign due to any feature of ψ itself, in contrast with the Klein Gordon case, where the sign ambiguity of ρ itself (before the field-theoretic reinterpretation of Lesson 32) was the entire difficulty.
+Multiplying j^μ by the particle's electric charge (−e for the electron, in the sign convention adopted in Lesson 43) gives the electric four-current, j^μ_(EM) = −e ψ̄γ^μψ, whose time component, −eρ, is the electric charge density associated with the Dirac field. Because ρ is positive definite (Section 3.1), the sign of the charge density is fixed entirely by the sign of the particle's charge e, never flipping sign due to any feature of ψ itself, in contrast with the Klein–Gordon case, where the sign ambiguity of ρ itself (before the field-theoretic reinterpretation of Lesson 32) was the entire difficulty.
 
 ## 5.2 Why this matters for QED
 
@@ -188,7 +188,7 @@ This lesson's current, j^μ=ψ̄γ^μψ, reappears verbatim, with no modificatio
 
 3. The current j^μ=ψ̄γ^μψ has time component ρ=ψ†ψ=Σᵢ|ψᵢ|², a sum of squared magnitudes and manifestly positive definite.
 
-4. This resolves the Klein Gordon difficulty of Lesson 17 completely, because ρ here is built from ψ alone, with no bilinear dependence on a time derivative that could spoil its sign.
+4. This resolves the Klein–Gordon difficulty of Lesson 17 completely, because ρ here is built from ψ alone, with no bilinear dependence on a time derivative that could spoil its sign.
 
 5. For a plane wave, j^μ=(2E_p,2p), proportional to the particle's four-momentum, matching the nonrelativistic j=ρv pattern.
 
@@ -212,7 +212,7 @@ This lesson's current, j^μ=ψ̄γ^μψ, reappears verbatim, with no modificatio
 | 8 | Show that the total probability ∫ρ d³x is time-independent for any normalizable solution of the free Dirac equation, using ∂_μj^μ=0 and the divergence theorem, following the same argument as Lesson 9, Section 3.1, adapted to the Dirac current. |
 | 9 | Show that Tr[γ⁰]=0, first from the odd-trace rule of Lesson 20, Section 2.2, and then directly from the Dirac representation γ⁰=diag(I₂,−I₂). Explain why this vanishing trace is what removes the mass term in Exercise 10. |
 | 10 | Using the completeness relation Σₛu_s(p)ū_s(p)=p̸+m, compute Σₛj⁰_s = Σₛū_s(p)γ⁰u_s(p) and verify it equals 4E_p (twice the single-spin-state result of Section 4.2, since there are two spin states). |
-| 11 | Explain, in your own words, why the Dirac current's derivation in Section 2.1 required no arbitrary insertion of a factor of i, unlike the Klein Gordon current of Lesson 17, Section 3.1. |
+| 11 | Explain, in your own words, why the Dirac current's derivation in Section 2.1 required no arbitrary insertion of a factor of i, unlike the Klein–Gordon current of Lesson 17, Section 3.1. |
 | 12 | Sketch, without full detail, how the derivation of Section 2.1 changes when the covariant derivative D_μ=∂_μ+iqA_μ replaces ∂_μ in the Dirac equation, and confirm that the new terms proportional to A_μ cancel between the two contributions, following the logic of Worked example 6. |
 | 13 | Explain why j^μ_(EM)=−eψ̄γ^μψ, rather than j^μ=ψ̄γ^μψ itself, is the physically appropriate current to insert into the Maxwell equation ∂_μF^μν=j^ν of Lesson 7, referencing the dimensional and physical role of electric charge. |
 | 14 | State, in a sentence, why the plane-wave current's proportionality to p^μ (Section 4.2) is exactly what would be expected classically for a stream of particles of four-velocity u^μ=p^μ/m (Lesson 4, Section 5.1), each carrying probability density ρ. |
@@ -241,7 +241,7 @@ This lesson's current, j^μ=ψ̄γ^μψ, reappears verbatim, with no modificatio
 
 **10.** Σₛj⁰_s=Σₛū_s(p)γ⁰u_s(p)=Tr[γ⁰Σₛu_s(p)ū_s(p)]=Tr[γ⁰(p̸+m)]=4E_p, using Solution 9. This equals twice the single-spin result j⁰=2E_p of Section 4.2, as expected for a sum over the two spin states s=1,2.
 
-**11.** The Dirac current ψ̄γ^μψ, built from a first-order equation, is automatically Hermitian (its own complex conjugate) without any extra factor, because ψ̄γ^μψ, viewed as a 1×1 matrix (a number), equals its own conjugate transpose by the Hermiticity properties of the gamma matrices baked into the definition of ψ̄ itself (Lesson 21, Section 1.2); the Klein Gordon bilinear φ*∂^μφ−φ∂^μφ*, by contrast, is manifestly purely imaginary on its own (being the difference of a quantity and its conjugate), requiring the explicit factor of i to convert it into a real, physically sensible current.
+**11.** The Dirac current ψ̄γ^μψ, built from a first-order equation, is automatically Hermitian (its own complex conjugate) without any extra factor, because ψ̄γ^μψ, viewed as a 1×1 matrix (a number), equals its own conjugate transpose by the Hermiticity properties of the gamma matrices baked into the definition of ψ̄ itself (Lesson 21, Section 1.2); the Klein–Gordon bilinear φ*∂^μφ−φ∂^μφ*, by contrast, is manifestly purely imaginary on its own (being the difference of a quantity and its conjugate), requiring the explicit factor of i to convert it into a real, physically sensible current.
 
 **12.** With D_μ=∂_μ+iqA_μ, the Dirac equation becomes iγ^μ(∂_μ+iqA_μ)ψ−mψ=0, that is iγ^μ∂_μψ−qγ^μA_μψ−mψ=0. The adjoint equation similarly acquires a term −i(∂_μψ̄)γ^μ−qψ̄γ^μA_μ−mψ̄=0 (with A_μ real, so no complex conjugation changes it). Multiplying the first by ψ̄ and the second by ψ and subtracting, exactly as in Worked example 2, the new A_μ terms appear as −qψ̄γ^μA_μψ on both sides (from each equation, with the same sign, since A_μ is the same real field in both), and they cancel against each other in the subtraction exactly as the mass terms did, leaving ∂_μj^μ=0 unchanged in form.
 
@@ -261,7 +261,7 @@ This lesson's current, j^μ=ψ̄γ^μψ, reappears verbatim, with no modificatio
 
 - I can show that ρ=ψ†ψ is a sum of squared magnitudes and explain why this guarantees positive definiteness.
 
-- I can explain, structurally, why the Dirac current avoids the sign problem that afflicted the Klein Gordon current.
+- I can explain, structurally, why the Dirac current avoids the sign problem that afflicted the Klein–Gordon current.
 
 - I can compute the Dirac current for a plane-wave solution and show it is proportional to the particle's four-momentum.
 
@@ -269,4 +269,4 @@ This lesson's current, j^μ=ψ̄γ^μψ, reappears verbatim, with no modificatio
 
 - I can explain why current conservation survives the addition of a minimal-coupling interaction term.
 
-- I can summarize, in a short paragraph, the complete arc of Part III from the Klein Gordon difficulty to its resolution here.
+- I can summarize, in a short paragraph, the complete arc of Part III from the Klein–Gordon difficulty to its resolution here.

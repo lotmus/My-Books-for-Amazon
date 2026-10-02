@@ -1,0 +1,250 @@
+TITLE: Electron-Muon Scattering
+TAGLINE: The first complete QED cross section, from the single-photon-exchange amplitude to the famous result 2e⁴(s²+u²)/t²
+NUM: 53
+NEXT: Lesson 54 repeats this calculation for two electrons rather than an electron and a muon, where the particles' identity forces a second, crossed diagram and an extra relative minus sign, testing how much of this lesson's method survives unchanged.
+
+# How to use this lesson
+
+Every tool this course has built is now put to use at once. Electron-muon scattering, e⁻(p₁)+μ⁻(p₂)→e⁻(p₃)+μ⁻(p₄), is the simplest process with a genuine, nontrivial QED cross section: two distinguishable charged particles, exchanging a single photon, with no second diagram to worry about, since the electron and muon cannot be swapped for one another the way two identical particles could. Because the two fermion lines are independent, the calculation factors cleanly into an "electron tensor" and a "muon tensor," each built from Lesson 51's master formula and Lesson 20's trace identities, contracted together. The result, converted to Mandelstam variables with Lesson 52's tools, is a clean, famous, and completely explicit formula. Expect eight to ten hours; this is the longest calculation in the course so far.
+
+## Learning objectives
+
+- Derive the second-order S-matrix element for electron-muon scattering by identifying the specific Wick contraction that connects the electron and muon currents through a single virtual photon.
+
+- Show that the internal photon's momentum-squared is exactly t, the Mandelstam variable, confirming this is a t-channel process with no competing diagram.
+
+- Derive the amplitude iℳ=(ie²/t)[ū(p₃)γ^μu(p₁)][ū(p₄)γ_μu(p₂)].
+
+- Show that spin-averaging and summing |ℳ|² factors into a product of an electron trace and a muon trace, using Lesson 51's master formula on each fermion line independently.
+
+- Carry out the full tensor contraction, converting every dot product to Mandelstam variables, to obtain the general (massive) result and its massless limit, 2e⁴(s²+u²)/t².
+
+- State, as a tool with its derivation deferred to Lesson 58, the two-body center-of-momentum cross-section formula, and combine it with this lesson's |ℳ|² to give an explicit dσ/dΩ.
+
+- Reproduce the full calculation, from diagram to final formula, from memory.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| p₁, p₃ | Incoming, outgoing electron momenta, mass m_e |
+| p₂, p₄ | Incoming, outgoing muon momenta, mass m_μ |
+| q = p₁−p₃ | Internal photon momentum |
+| L_e^μν, L_μ^μν | Electron and muon tensors |
+
+# 1 The diagram and amplitude
+
+FIG:
+ e^{-}(p1) ----*---- e^{-}(p3)
+               |
+               |  γ*  q = p1 − p3
+               |
+ μ^{-}(p2) ----*---- μ^{-}(p4)
+ENDFIG
+
+## 1.1 The process
+
+Electron-muon scattering proceeds, at leading order, by a single virtual photon exchanged between the two particles: the electron emits (or absorbs) the photon at one vertex, and the muon absorbs (or emits) it at the other. Since the electron and the muon are distinguishable particles, there is no second diagram obtained by relabeling which particle does what, unlike Lesson 49's Compton scattering.
+
+## 1.2 The Wick contraction
+
+The interaction Hamiltonian has one term for each charged field, ℋ_int=−e[ψ̄_eγ^μψ_eA_μ+ψ̄_μγ^μψ_μA_μ] (the same coupling e for both, by the universality of Lesson 43). At second order, S^(2)=(−i)²/2!∫d⁴x₁d⁴x₂ T{ℋ_int(x₁)ℋ_int(x₂)} contains a cross term, 2e²[ψ̄_eγ^μψ_eA_μ](x₁)[ψ̄_μγ^νψ_μA_ν](x₂) (the factor of 2 from the two ways of assigning the electron- and muon-current pieces to x₁ versus x₂), in which ψ̄_e(x₁), ψ_e(x₁) contract with the external electron legs, ψ̄_μ(x₂), ψ_μ(x₂) contract with the external muon legs, and A_μ(x₁), A_ν(x₂) contract with each other, forming the internal photon line, using ⟨0|T{A_μ(x₁)A_ν(x₂)}|0⟩=D_Fμν(x₁−x₂) (Lesson 47, Section 4.1, the covariant propagator this course uses in practice).
+
+## 1.3 Assembling the amplitude
+
+Substituting D_Fμν(x₁−x₂)=∫d⁴q/(2π)⁴[−ig_μν/(q²+iε)]e^(−iq(x₁−x₂)) and every external factor (Lesson 48), the x₁ and x₂ integrals give (2π)⁴δ⁴(p₃−p₁−q) and (2π)⁴δ⁴(p₄−p₂+q) respectively, forcing q=p₁−p₃ and overall momentum conservation p₁+p₂=p₃+p₄, exactly as in Lesson 49's mechanism. The (−i)²/2!=−1/2 prefactor combines with the combinatorial factor of 2 to give an overall −1 (Exercise 2), and
+
+$$ i ℳ = ( i e / t ) e , [ ū(p₃)γ^μu(p₁) ] , [ ū(p₄)γ_μu(p₂) ] = (i e²/t) , [ ū(p₃)γ^μu(p₁) ] , [ ū(p₄)γ_μu(p₂) ]
+
+using q²=(p₁−p₃)²=t (Lesson 52, Section 1.1) for the internal photon's momentum-squared.
+
+### Worked example 1
+
+Explain, in one sentence, why electron-muon scattering has exactly one diagram, in contrast with Compton scattering's two. Wick's theorem produces one term for every way of assigning the field operators to the given external states consistent with which field annihilates or creates which particle; since ψ_e can only contract with electron states and ψ_μ only with muon states, there is only one way to complete the contraction of Section 1.2, unlike Compton scattering, where both photon fields could equally well be paired with either the incoming or the outgoing photon.
+
+# 2 Squaring and averaging
+
+## 2.1 The spin-averaged, spin-summed square
+
+Neither experiment prepares nor measures the spins of these particles, so the physical quantity is (using Lesson 51, Section 1.2, with two unmeasured initial fermions)
+
+$$ (1/4) Σ_(spins) |ℳ|² = (1/4)(e⁴/t²) Σ_(s₁,s₃) Σ_(s₂,s₄) [ū(p₃)γ^μu(p₁)][ū(p₃)γ^νu(p₁)]^* [ū(p₄)γ_μu(p₂)][ū(p₄)γ_νu(p₂)]^*
+
+## 2.2 Factorization
+
+Because the electron spinors (p₁, p₃) and the muon spinors (p₂, p₄) never mix in the amplitude of Section 1.3, the double sum factors exactly into a sum over electron spins and a sum over muon spins, each evaluated independently by Lesson 51's master formula:
+
+$$ (1/4) Σ|ℳ|² = (1/4)(e⁴/t²) , L_e^(μν) , L_(μ,μν)
+
+$$ L_e^(μν) := Σ_(s₁,s₃) [ū(p₃)γ^μu(p₁)][ū(p₃)γ^νu(p₁)]^* = Tr[γ^μ(p̸₁+m_e)γ^ν(p̸₃+m_e)]
+
+$$ L_(μ,μν) := Σ_(s₂,s₄) [ū(p₄)γ_μu(p₂)][ū(p₄)γ_νu(p₂)]^* = Tr[γ_μ(p̸₂+m_μ)γ_ν(p̸₄+m_μ)]
+
+### Worked example 2
+
+Explain why this factorization is a genuine simplification specific to electron-muon scattering, not a generic feature of every QED process. The two fermion lines here belong to two independent particle species with no shared field, so the spin sum over one line's spinors has no effect on the other line's factors; a process such as Compton scattering, whose amplitude is a sum of two diagrams involving the same electron line throughout, does not factor this cleanly, since interference terms between the two diagrams mix the electron spinors in a way that cannot be separated into two independent sums.
+
+# 3 The electron and muon tensors
+
+## 3.1 The electron tensor
+
+Using Lesson 20, Section 5's result directly, with p₁, p₃ the electron's momenta,
+
+$$ L_e^(μν) = 4 [ p₁^μp₃^ν + p₁^νp₃^μ − g^(μν)(p₁·p₃ − m_e²) ]
+
+## 3.2 The muon tensor
+
+By the identical formula, applied to the muon's momenta and mass,
+
+$$ L_(μ,μν) = 4 [ p_(2μ)p_(4ν) + p_(2ν)p_(4μ) − g_(μν)(p₂·p₄ − m_μ²) ]
+
+### Worked example 3
+
+Explain why no new trace calculation was needed for Section 3.2, beyond relabeling Section 3.1's result. Lesson 20's trace identity Tr[(p̸_a+m)γ^μ(p̸_b+m)γ^ν]=4[p_a^μp_b^ν+p_a^νp_b^μ−g^μν(p_a·p_b−m²)] was derived for arbitrary momenta p_a, p_b and mass m, with no reference to which specific particle they belong to; substituting the muon's own momenta and mass reproduces the identical formula with no new algebra.
+
+# 4 Contracting the two tensors
+
+## 4.1 The full contraction
+
+Multiplying L_e^μν by L_μ,μν, the nine resulting terms (Exercise 10 works through each) simplify remarkably: the cross term proportional to (p₁·p₃)(p₂·p₄) cancels exactly between the three contributions that produce it, and the term proportional to m_e²m_μ² cancels exactly as well, leaving
+
+$$ L_e^(μν) L_(μ,μν) = 32 (p₁·p₂)(p₃·p₄) + 32 (p₁·p₄)(p₂·p₃) − 32 m_μ²(p₁·p₃) − 32 m_e²(p₂·p₄) + 64 m_e²m_μ²
+
+## 4.2 Converting to Mandelstam variables
+
+Using Lesson 52, Section 5.2's table, with p₁·p₂=p₃·p₄=(s−m_e²−m_μ²)/2, p₁·p₄=p₂·p₃=(m_e²+m_μ²−u)/2, p₁·p₃=m_e²−t/2, p₂·p₄=m_μ²−t/2 (Exercise 13 substitutes every term explicitly),
+
+$$ L_e^(μν) L_(μ,μν) = 8 (s−m_e²−m_μ²)² + 8 (u−m_e²−m_μ²)² + 16 t (m_e²+m_μ²)
+
+so
+
+$$ (1/4) Σ |ℳ|² = (2e⁴/t²) [ (s−m_e²−m_μ²)² + (u−m_e²−m_μ²)² + 2t(m_e²+m_μ²) ]
+
+the complete, exact result for arbitrary electron and muon masses.
+
+## 4.3 The massless limit
+
+Neglecting both masses (valid whenever √s is much larger than either m_e or m_μ),
+
+$$ (1/4) Σ |ℳ|² = 2 e⁴ (s²+u²) / t²
+
+a clean, famous, and completely explicit result, symmetric in s and u, singular only at t=0 (forward scattering, where the exchanged photon becomes soft, Lesson 74's later subject).
+
+### Worked example 4
+
+Explain why the exact cancellation of the (p₁·p₃)(p₂·p₄) term in Section 4.1 is a meaningful check on the calculation, not merely a convenient simplification. Nothing in the structure of the tensor product obviously requires this specific combination to vanish; that it does, exactly, rather than leaving some small leftover piece, is the kind of clean cancellation that signals a calculation has been carried out correctly, in the same spirit as the exact cancellations already verified in Lessons 41 and 45–47.
+
+# 5 The differential cross section
+
+## 5.1 The two-body formula
+
+In the center-of-momentum frame, for elastic 2→2 scattering, the general cross-section formula of Lesson 50 reduces (a phase-space simplification derived in full in Lesson 58) to
+
+$$ dσ/dΩ = (1/(64π²s)) |ℳ|²
+
+## 5.2 The explicit result
+
+Combining Section 4.3 with Section 5.1, in the massless limit,
+
+$$ dσ/dΩ = (2e⁴/(64π²s)) (s²+u²)/t² = (e⁴/(32π²s)) (s²+u²)/t²
+
+with s, t, u further related to the center-of-momentum scattering angle θ by Lesson 52, Section 4.3 (t=−2p²(1−cosθ), with u fixed by the sum rule once s and t are known), giving a complete, explicit prediction for the angular distribution of scattered electrons, the first such prediction this course has produced from first principles.
+
+### Worked example 5
+
+Explain why Section 5.1's formula is used here as a stated tool rather than derived from scratch, and identify the precedent for doing so elsewhere in this course. Lesson 58 is dedicated to deriving the general reduction from Lesson 50's phase-space integral to a two-body angular formula; using the result here, with its derivation explicitly deferred, follows the same pattern already used in Lesson 47 (the covariant photon propagator, justified fully only in Lesson 71) and Lesson 51 (the same propagator's use in polarization sums, on the same provisional basis).
+
+# 6 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used next |
+| Single t-channel diagram, no crossed term | Contrasted directly with Lesson 54's electron-electron scattering, which has two |
+| iℳ=(ie²/t)[ū(p₃)γ^μu(p₁)][ū(p₄)γ_μu(p₂)] | The template amplitude for any single-photon-exchange process between distinguishable fermions |
+| Factorized electron and muon tensors | The general pattern for any process with two independent fermion lines |
+| (1/4)Σ\|ℳ\|²=2e⁴(s²+u²)/t² (massless) | A famous, frequently cited result, now derived rather than quoted |
+| dσ/dΩ=|ℳ|²/(64π²s) | Used again, with its own derivation, in Lesson 58, and repeatedly throughout Part VIII |
+
+Lesson 54 now asks what changes when the two colliding particles are identical, forcing a second diagram and testing this lesson's method against the added complication of particle exchange.
+
+# 7 Summary
+
+1. Electron-muon scattering proceeds through a single t-channel photon-exchange diagram, with no competing diagram, since the two particles are distinguishable.
+
+2. The amplitude is iℳ=(ie²/t)[ū(p₃)γ^μu(p₁)][ū(p₄)γ_μu(p₂)], with the internal photon's momentum-squared exactly equal to t.
+
+3. Spin-averaging and summing factors into an electron tensor and a muon tensor, each given directly by Lesson 20's trace formula.
+
+4. Contracting the two tensors, several terms cancel exactly, leaving a clean general result in terms of s, t, u, and both masses.
+
+5. In the massless limit, this reduces to the famous result (1/4)Σ|ℳ|²=2e⁴(s²+u²)/t².
+
+6. Combined with the two-body cross-section formula (stated here, derived in Lesson 58), this gives a complete, explicit prediction for the scattering angular distribution.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Explain why the term ψ̄_eγ^μψ_eA_μ(x₁)ψ̄_eγ^νψ_eA_ν(x₂) (both vertices electron-type) does not contribute to electron-muon scattering, and state what process it would instead contribute to. |
+| 2 | Verify the combinatorial factor of 2 in Section 1.2, following the identical reasoning used in Lesson 49, Exercise 8, for Compton scattering. |
+| 3 | Carry out the x₁ and x₂ integrals of Section 1.3 explicitly and derive q=p₁−p₃ from the resulting delta functions. |
+| 4 | Confirm q²=t using Lesson 52's definition t=(p₁−p₃)². |
+| 5 | Verify the overall power of i and factor of e² in Section 1.3's amplitude, following the bookkeeping method of Lesson 49, Worked example 2. |
+| 6 | State the spin-averaging-and-summing factor used in Section 2.1 and explain, citing Lesson 51, Section 1.2, why it is 1/4 rather than 1/2. |
+| 7 | Explain, in your own words, why Section 2.2's factorization into L_e^μν and L_μ,μν would fail if the electron and muon were replaced by two electrons instead. |
+| 8 | Write out Lesson 20, Section 5's general trace formula and substitute p₁→p₁, p₂→p₃ (both electron momenta) to derive Section 3.1's L_e^μν. |
+| 9 | Repeat Exercise 8 for the muon, substituting p₁→p₂, p₂→p₄, m→m_μ, to derive Section 3.2's L_μ,μν. |
+| 10 | Expand L_e^μνL_μ,μν into its nine terms explicitly, following the pattern AA′, AB′, AC′, and so on used in Section 4.1's derivation, and verify at least three of the nine. |
+| 11 | Verify explicitly that the three terms proportional to (p₁·p₃)(p₂·p₄) sum to zero, using the −2, −2, +4 coefficients found in the derivation. |
+| 12 | Verify explicitly that the m_e²m_μ² terms cancel, using the same method as Exercise 11. |
+| 13 | Substitute Lesson 52, Section 5.2's six dot-product relations into Section 4.1's result and derive Section 4.2's expression in terms of s, t, u, m_e, and m_μ. |
+| 14 | Take the m_e,m_μ→0 limit of Section 4.2's result and verify it reduces to 2e⁴(s²+u²)/t². |
+| 15 | Using s+t+u≈0 in the massless limit (Lesson 52, Exercise 16), rewrite 2e⁴(s²+u²)/t² using u≈−s−t, and verify the result is symmetric under s↔u only after this substitution is undone (i.e. confirm the original expression's manifest s↔u symmetry is a genuine property of the physics, not an artifact of the massless approximation). |
+| 16 | Challenge: explain, referring to Worked example 1 and Lesson 49's Compton calculation, why a process between two distinguishable particles never requires the −1 fermion-loop-type sign or the combinatorial doubling associated with identical-particle exchange, previewing the contrast Lesson 54 will draw out in full. |
+
+# Solutions
+
+**1.** This term would connect two electron-current insertions to each other, requiring the external states to include four electron-related particles (some combination of incoming/outgoing electrons or positrons) at the two vertices, with no muon involved at all; it contributes instead to processes such as electron-electron scattering (Lesson 54) or electron self-energy loops (Lesson 63), not to a process with an external muon.
+
+**2.** T{ℋ_int(x₁)ℋ_int(x₂)} is symmetric under x₁↔x₂; the specific contraction of Section 1.2 (electron legs at x₁, muon legs at x₂) has an exact mirror image with the labels swapped (electron legs at x₂, muon legs at x₁), and since the integral runs over both x₁ and x₂ independently, both labelings contribute identically, giving a factor of 2, exactly as in Lesson 49, Exercise 8.
+
+**3.** Combining all exponential factors as in Lesson 49's method: at x₁, e^(ip₃x₁)e^(−ip₁x₁)e^(−iqx₁)=e^(i(p₃−p₁−q)x₁), integrating to (2π)⁴δ⁴(p₃−p₁−q); at x₂, e^(ip₄x₂)e^(−ip₂x₂)e^(iqx₂)=e^(i(p₄−p₂+q)x₂), integrating to (2π)⁴δ⁴(p₄−p₂+q). The first delta function forces q=p₃−p₁, equivalently −q=p₁−p₃; since the propagator depends only on q², either sign convention gives the same physical result, and taking q=p₁−p₃ (electron momentum transfer) is the standard choice.
+
+**4.** By definition, t=(p₁−p₃)² (Lesson 52, Section 1.1); since q=p₁−p₃ (Exercise 3), q²=(p₁−p₃)²=t directly.
+
+**5.** Following Lesson 49's method: the prefactor (−1/2)×2=−1 (Exercise 2), combined with e² (from expanding the two vertex terms) and the propagator's explicit −i (Lesson 47, Section 4.1), gives (−1)(e²)(−i)=ie². Comparing with the momentum-independent numerical factors of (ie)(ie)(−i/t): (ie)²(−i)=i²e²(−i)=(−e²)(−i)=ie², matching exactly.
+
+**6.** Lesson 51, Section 1.2, gives a factor of 1/2 for each unmeasured initial fermion spin; electron-muon scattering has two unmeasured initial spins (the electron's and the muon's), so the combined averaging factor is (1/2)(1/2)=1/4, not the 1/2 appropriate to a process with only one unmeasured initial spin.
+
+**7.** With two electrons, both incoming legs and both outgoing legs would be electron states, drawn from the same field ψ_e; Wick's theorem would then produce an additional diagram from the alternative way of pairing the external electron states with the field operators (the crossed, or exchange, diagram), which mixes the electron spinors between what would otherwise be two separate lines, preventing the clean factorization of Section 2.2.
+
+**8.** Tr[(p̸_a+m)γ^μ(p̸_b+m)γ^ν]=4[p_a^μp_b^ν+p_a^νp_b^μ−g^μν(p_a·p_b−m²)] (Lesson 20, Section 5). Setting p_a=p₁, p_b=p₃, m=m_e: L_e^μν=4[p₁^μp₃^ν+p₁^νp₃^μ−g^μν(p₁·p₃−m_e²)], exactly Section 3.1.
+
+**9.** Setting p_a=p₂, p_b=p₄, m=m_μ in the same formula: L_μ,μν=4[p₂_μp₄_ν+p₂_νp₄_μ−g_μν(p₂·p₄−m_μ²)], exactly Section 3.2.
+
+**10.** Writing L_e^μν=A+B+C with A=p₁^μp₃^ν, B=p₁^νp₃^μ, C=−g^μν(p₁·p₃−m_e²), and L_μ,μν=A′+B′+C′ analogously: AA′=(p₁·p₂)(p₃·p₄), AB′=(p₁·p₄)(p₂·p₃), CC′=4(p₁·p₃−m_e²)(p₂·p₄−m_μ²) (verifying three of the nine terms as requested; the remaining six follow by the same direct index contraction, as tabulated in Section 4.1's derivation).
+
+**11.** The three (p₁·p₃)(p₂·p₄)-proportional contributions come from AC′+BC′ (each giving −(p₂·p₄−m_μ²)(p₁·p₃), contributing −2(p₁·p₃)(p₂·p₄) net after also expanding the m_μ² piece separately) and CA′+CB′ (giving −2(p₁·p₃)(p₂·p₄) similarly) and CC′ (giving +4(p₁·p₃)(p₂·p₄) from its leading term); summing the coefficients −2−2+4=0, confirming exact cancellation.
+
+**12.** The m_e²m_μ² terms arise only from CC′=4(p₁·p₃−m_e²)(p₂·p₄−m_μ²), whose expansion contains a single +4m_e²m_μ² piece; tracking this single contribution through Section 4.1's bookkeeping (no other of the nine terms produces an m_e²m_μ² piece at all, since A, B, A′, B′ contain no mass dependence), it survives unmodified, matching the final +64m_e²m_μ² term in Section 4.1's result (4×16=64, restoring the overall factor of 16 from L_e^μνL_μ,μν=16×[the bracketed sum]).
+
+**13.** Substituting p₁·p₂=(s−m_e²−m_μ²)/2 (giving (p₁·p₂)(p₃·p₄)=(s−m_e²−m_μ²)²/4, using p₃·p₄=p₁·p₂ from Lesson 52, Exercise 13), p₁·p₄=(m_e²+m_μ²−u)/2 (giving (p₁·p₄)(p₂·p₃)=(u−m_e²−m_μ²)²/4, using the squared value's sign-independence), p₁·p₃=m_e²−t/2, and p₂·p₄=m_μ²−t/2 into Section 4.1's expression, and simplifying (the m_e²m_μ² cross terms cancelling as in Exercise 12), gives exactly Section 4.2's result.
+
+**14.** Setting m_e=m_μ=0 in Section 4.2's result: (2e⁴/t²)[(s−0)²+(u−0)²+2t(0)]=(2e⁴/t²)[s²+u²]=2e⁴(s²+u²)/t², confirming Section 4.3.
+
+**15.** With s+t+u=0 (massless limit), u=−s−t; substituting into 2e⁴(s²+u²)/t² gives 2e⁴[s²+(s+t)²]/t², a form manifestly built from s and t alone with no separate u; this is algebraically equivalent to the original s↔u-symmetric expression, but the symmetry is only manifest in the original s,t,u form, since after eliminating u in favor of s and t the expression no longer looks symmetric under any simple relabeling of s and t alone, confirming that the s↔u symmetry is a genuine, physically meaningful property of the underlying amplitude (reflecting the s-channel-like and u-channel-like roles the two variables play relative to a fixed t) rather than an accident of how the formula happens to be written.
+
+**16.** A −1 sign or combinatorial doubling of the kind Lesson 36 associated with fermion loops, or that Lesson 54 will associate with identical-particle exchange, arises specifically when two field operators of the same type could be contracted with either of two indistinguishable external states, producing genuinely distinct Wick-contraction terms that must be added (with a relative sign, for fermions) or when a closed loop requires a cyclic reordering; here, Worked example 1 already established that only one contraction is possible at all, since ψ_e can never be confused with ψ_μ, so neither phenomenon has any opportunity to arise, and the calculation proceeds with a single term and no exchange-related sign.
+
+# Mastery checklist
+
+- I can derive the electron-muon scattering amplitude from the interaction Hamiltonian's Wick contraction, identifying q=p₁−p₃ and q²=t.
+
+- I can state the spin-averaging-and-summing factor and show the calculation factorizes into an electron tensor and a muon tensor.
+
+- I can write down both tensors directly from Lesson 20's trace formula.
+
+- I can contract the two tensors and convert the result into Mandelstam variables, obtaining the general massive result and its massless limit.
+
+- I can combine this lesson's |ℳ|² with the two-body cross-section formula to state an explicit differential cross section.
+
+- I can explain why this process has exactly one diagram, in contrast with Compton scattering or electron-electron scattering.

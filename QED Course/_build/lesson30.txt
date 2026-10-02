@@ -66,11 +66,11 @@ For ℒ = ∂_μφ*∂^μφ − m²φ*φ the same transformation φ → e^(−iq
 
 $$ j^μ = ∂^μφ*(−iqφ) + ∂^μφ(iqφ*) = iq (φ*∂^μφ − φ∂^μφ*)
 
-which is q times the Klein Gordon current of Lesson 17, Section 3.1, with the sign that was chosen there. Its charge density is ρ = iq(φ*φ̇ − φφ̇*), and Q = ∫d³x ρ.
+which is q times the Klein–Gordon current of Lesson 17, Section 3.1, with the sign that was chosen there. Its charge density is ρ = iq(φ*φ̇ − φφ̇*), and Q = ∫d³x ρ.
 
 ### Worked example 1
 
-Compute the charge density of plane waves. For the positive-frequency wave φ = Ne^(−iEt+ip·x), φ̇ = −iEφ and φ̇* = iEφ*, so φ*φ̇ − φφ̇* = −iE|N|² − iE|N|² = −2iE|N|², and ρ = iq(−2iE|N|²) = 2qE|N|², positive for q > 0. For the negative-frequency wave φ = Ne^(+iEt+ip·x), the signs of φ̇ and φ̇* reverse and ρ = −2qE|N|². The two signs are exactly those found in Lesson 17, Worked example 3, and it is no longer a problem: positive-frequency modes carry charge +q and negative-frequency modes carry charge −q. The sign that spoiled the probability interpretation of the Klein Gordon equation is the sign of the charge of an antiparticle.
+Compute the charge density of plane waves. For the positive-frequency wave φ = Ne^(−iEt+ip·x), φ̇ = −iEφ and φ̇* = iEφ*, so φ*φ̇ − φφ̇* = −iE|N|² − iE|N|² = −2iE|N|², and ρ = iq(−2iE|N|²) = 2qE|N|², positive for q > 0. For the negative-frequency wave φ = Ne^(+iEt+ip·x), the signs of φ̇ and φ̇* reverse and ρ = −2qE|N|². The two signs are exactly those found in Lesson 17, Worked example 3, and it is no longer a problem: positive-frequency modes carry charge +q and negative-frequency modes carry charge −q. The sign that spoiled the probability interpretation of the Klein–Gordon equation is the sign of the charge of an antiparticle.
 
 # 2 The charge as generator
 
@@ -170,7 +170,7 @@ Check the cancellation in the simplest case. Take α small and A_μ → A_μ + �
 
 # 6 What Part IV has established
 
-Lesson 24 introduced the field as a system with infinitely many degrees of freedom and showed that a free field is a set of independent oscillators. Lesson 25 constructed the Lagrangian densities of the scalar, Dirac, and electromagnetic fields from the requirements of Lorentz invariance and locality. Lesson 26 derived their equations of motion, which are the Klein Gordon equation, the Dirac equation, and the Maxwell equations, and solved the sourced scalar field to show how mass sets the range of a force. Lesson 27 proved that continuous symmetries yield conserved currents, Lesson 28 organized the symmetries of relativistic theories, and Lesson 29 computed the conserved currents: energy, momentum, angular momentum, and charge. This lesson has examined the U(1) phase symmetry and shown that its localization forces the electromagnetic interaction.
+Lesson 24 introduced the field as a system with infinitely many degrees of freedom and showed that a free field is a set of independent oscillators. Lesson 25 constructed the Lagrangian densities of the scalar, Dirac, and electromagnetic fields from the requirements of Lorentz invariance and locality. Lesson 26 derived their equations of motion, which are the Klein–Gordon equation, the Dirac equation, and the Maxwell equations, and solved the sourced scalar field to show how mass sets the range of a force. Lesson 27 proved that continuous symmetries yield conserved currents, Lesson 28 organized the symmetries of relativistic theories, and Lesson 29 computed the conserved currents: energy, momentum, angular momentum, and charge. This lesson has examined the U(1) phase symmetry and shown that its localization forces the electromagnetic interaction.
 
 What remains open is that all of this is classical. The fields are ordinary functions, the oscillators of Lesson 24 have continuous energies, and nothing yet explains why the excitations of a field come in discrete units with definite energy and momentum, or how particles can be created and destroyed. Part V answers these questions by quantizing the fields, using the canonical machinery of Lessons 6 and 10 applied to each oscillator.
 

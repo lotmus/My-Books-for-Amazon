@@ -5,7 +5,7 @@ NEXT: Lesson 3 develops special relativity: the two postulates, Lorentz transfor
 
 # How to use this lesson
 
-Every dynamical law in quantum electrodynamics is a differential equation, and every measurable prediction is an integral. The Schrodinger, Dirac, and Maxwell equations are statements about derivatives; amplitudes, cross sections, and loop corrections are integrals over positions or momenta. This lesson assembles the calculus needed to read those statements and to manipulate them with confidence.
+Every dynamical law in quantum electrodynamics is a differential equation, and every measurable prediction is an integral. The Schrödinger, Dirac, and Maxwell equations are statements about derivatives; amplitudes, cross sections, and loop corrections are integrals over positions or momenta. This lesson assembles the calculus needed to read those statements and to manipulate them with confidence.
 
 The treatment is operational. Proofs are sketched only where the idea behind the proof later becomes a calculational tool. Work every example by hand, because the manipulations here, differentiating exponentials, integrating by parts, expanding to first order, and transforming between position and momentum descriptions, are repeated hundreds of times in later lessons. A learner who has met single-variable calculus before should budget eight to twelve focused hours.
 
@@ -102,7 +102,7 @@ Apply the fundamental theorem to the product rule (uv)′ = u′v + uv′ and re
 
 $$ ∫ₐᵇ u v′ dx = [uv]ₐᵇ − ∫ₐᵇ u′ v dx
 
-Integration by parts moves a derivative from one factor to the other at the cost of a sign and a boundary term. When the boundary term vanishes, a derivative acting to the right becomes minus a derivative acting to the left. This mechanism makes the momentum operator Hermitian (Lesson 10) and produces the Euler Lagrange equations for fields (Lesson 26).
+Integration by parts moves a derivative from one factor to the other at the cost of a sign and a boundary term. When the boundary term vanishes, a derivative acting to the right becomes minus a derivative acting to the left. This mechanism makes the momentum operator Hermitian (Lesson 10) and produces the Euler–Lagrange equations for fields (Lesson 26).
 
 ### Worked example 2
 
@@ -251,7 +251,7 @@ The simplest differential equation states that the rate of change of y is propor
 
 $$ dy/dx = k y  ⇒  y(x) = y(0) e^(kx)
 
-Real negative k describes decay, imaginary k describes oscillation, and complex k with negative real part describes damped oscillation. The time-dependent Schrodinger equation for an energy eigenstate is exactly this equation with k = −iE/ℏ (Lesson 11).
+Real negative k describes decay, imaginary k describes oscillation, and complex k with negative real part describes damped oscillation. The time-dependent Schrödinger equation for an energy eigenstate is exactly this equation with k = −iE/ℏ (Lesson 11).
 
 With a source term on the right, dy/dx − ky = g(x), the solution is the homogeneous solution plus a particular one, found with the integrating factor e^(−kx).
 
@@ -287,7 +287,7 @@ a damped oscillation: the real part of λ sets the decay rate and the imaginary 
 
 $$ ∂²φ/∂t² = c² ∇²φ
 
-The wave equation governs vibrating strings, sound, and light. In units with c = 1, which the course adopts from Lesson 3 onward, it reads ∂ₜ²φ − ∇²φ = 0, and the operator □ = ∂ₜ² − ∇² is called the d'Alembertian. Adding a mass term turns the wave equation into the Klein Gordon equation (Lesson 17).
+The wave equation governs vibrating strings, sound, and light. In units with c = 1, which the course adopts from Lesson 3 onward, it reads ∂ₜ²φ − ∇²φ = 0, and the operator □ = ∂ₜ² − ∇² is called the d'Alembertian. Adding a mass term turns the wave equation into the Klein–Gordon equation (Lesson 17).
 
 ## 7.2 Plane wave solutions and the dispersion relation
 
@@ -295,7 +295,7 @@ Try a plane wave φ = e^(i(k·x − ωt)). By Worked example 1, each time deriva
 
 $$ −ω² φ = −c²|k|² φ  ⇒  ω = c|k|
 
-The relation between frequency and wave number required for the plane wave to solve the equation is called the dispersion relation. For the Klein Gordon equation it becomes ω² = |k|² + m², which with ℏ = c = 1 is the relativistic energy relation E² = |p|² + m² in disguise. Reading a dispersion relation off a field equation is a skill used in every later part of the course.
+The relation between frequency and wave number required for the plane wave to solve the equation is called the dispersion relation. For the Klein–Gordon equation it becomes ω² = |k|² + m², which with ℏ = c = 1 is the relativistic energy relation E² = |p|² + m² in disguise. Reading a dispersion relation off a field equation is a skill used in every later part of the course.
 
 ## 7.3 The general solution by superposition
 
@@ -305,13 +305,13 @@ $$ φ(x, t) = ∫ (d³k/(2π)³) [a(k) e^(i(k·x − ωt)) + a*(k) e^(−i(k·x 
 
 In one dimension this collapses to the d'Alembert form φ = F(x − ct) + G(x + ct): an arbitrary shape moving to the right plus an arbitrary shape moving to the left. The coefficient functions a(k) will become the annihilation operators of the quantum field (Lesson 32). The quantum theory inherits the structure of the classical solution almost unchanged, which is why this expansion deserves careful attention now.
 
-## 7.4 Diffusion and Schrodinger type equations
+## 7.4 Diffusion and Schrödinger type equations
 
-An equation that is first order in time behaves differently. The diffusion equation ∂ₜφ = D∇²φ, tested with a plane wave, gives ω = −iDk², so every mode decays. Replacing the real constant D by the imaginary combination iℏ/2m gives the free Schrodinger equation.
+An equation that is first order in time behaves differently. The diffusion equation ∂ₜφ = D∇²φ, tested with a plane wave, gives ω = −iDk², so every mode decays. Replacing the real constant D by the imaginary combination iℏ/2m gives the free Schrödinger equation.
 
 $$ iℏ ∂ₜψ = −(ℏ²/2m) ∇²ψ  ⇒  ℏω = ℏ²|k|²/2m,  that is,  E = |p|²/2m
 
-The factor i converts decay into oscillation, which is one of the reasons quantum mechanics needs complex numbers (Lesson 1). Being first order in time also means that ψ at one instant determines ψ at all later times; a second order equation needs both the field and its time derivative. This difference between the Schrodinger and wave equations is the tension examined in Lesson 18.
+The factor i converts decay into oscillation, which is one of the reasons quantum mechanics needs complex numbers (Lesson 1). Being first order in time also means that ψ at one instant determines ψ at all later times; a second order equation needs both the field and its time derivative. This difference between the Schrödinger and wave equations is the tension examined in Lesson 18.
 
 ### Worked example 8
 
@@ -327,20 +327,20 @@ Integrate the second term by parts. The boundary term vanishes because η vanish
 
 $$ d/dx (∂L/∂y′) − ∂L/∂y = 0
 
-This is the Euler Lagrange equation. Applied to L = (1/2)y′² − (1/2)ω²y², it gives y″ + ω²y = 0, the harmonic oscillator of Section 6.3. The derivation is integration by parts followed by the fundamental lemma that a function integrating to zero against every test function is zero. Lesson 5 builds classical mechanics on this equation, and Lesson 26 extends it to fields.
+This is the Euler–Lagrange equation. Applied to L = (1/2)y′² − (1/2)ω²y², it gives y″ + ω²y = 0, the harmonic oscillator of Section 6.3. The derivation is integration by parts followed by the fundamental lemma that a function integrating to zero against every test function is zero. Lesson 5 builds classical mechanics on this equation, and Lesson 26 extends it to fields.
 
 # 9 Connections to QED
 
 @widths 3264 6528
 | Mathematical tool | Later role in QED |
 | Exponential as eigenfunction of d/dx | Plane wave states, energy eigenstates, and the time evolution operator e^(−iHt) |
-| Integration by parts | Hermiticity of momentum, Euler Lagrange equations, and discarding total derivatives from actions |
+| Integration by parts | Hermiticity of momentum, Euler–Lagrange equations, and discarding total derivatives from actions |
 | Gaussian integral | Oscillator ground states, wave packets, path integrals, and loop integrals after Feynman parameters |
 | Gradient, divergence, and curl | Maxwell equations and the field tensor |
 | Taylor expansion | Perturbation series in the coupling α, nonrelativistic limits, and small-momentum expansions |
 | Fourier transform | Momentum space, propagators, and delta functions enforcing momentum conservation |
 | Green's function of a linear equation | Propagator of a free field |
-| Wave equation and dispersion relation | Klein Gordon and Maxwell equations and the on-shell condition E² = |p|² + m² |
+| Wave equation and dispersion relation | Klein–Gordon and Maxwell equations and the on-shell condition E² = |p|² + m² |
 | Variational principle | Lagrangian formulation of particles and fields |
 
 A Feynman amplitude is computed by writing plane waves for external particles, Fourier transforming the field equations to obtain propagators as functions of momentum, integrating over the momenta of internal lines, and expanding the result in powers of the coupling. Each step in that sentence is a topic of this lesson. Fluency here is what makes the Feynman rules feel like bookkeeping rather than magic.
@@ -382,7 +382,7 @@ A Feynman amplitude is computed by writing plane waves for external particles, F
 | 13 | Solve y″ − 3y′ + 2y = 0 with y(0) = 0 and y′(0) = 1. |
 | 14 | Find a particular solution of the driven oscillator y″ + ω²y = F cos Ωt and discuss what happens as Ω approaches ω. |
 | 15 | Show that φ = e^(i(k·x − ωt)) solves (∂ₜ² − ∇² + m²)φ = 0 exactly when ω² = \|k\|² + m². Then show that F(x − ct) solves the one-dimensional wave equation for any twice differentiable F. |
-| 16 | Challenge: derive the Euler Lagrange equation for S[y] = ∫ₐᵇ L(y, y′, x) dx, then apply it to L = (1/2)m y′² − V(y) and identify the result. |
+| 16 | Challenge: derive the Euler–Lagrange equation for S[y] = ∫ₐᵇ L(y, y′, x) dx, then apply it to L = (1/2)m y′² − V(y) and identify the result. |
 
 # Solutions
 

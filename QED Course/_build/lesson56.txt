@@ -5,7 +5,7 @@ NEXT: Lesson 57 turns to pair production, γγ→e⁻e⁺, the process obtained 
 
 # How to use this lesson
 
-Lesson 49 set up Compton scattering in full: the two diagrams, the vertex factors, the propagator, and the momentum-conservation bookkeeping that fixes each diagram's internal momentum to s=(p+k)² and u=(p−k′)² respectively. What Lesson 49 left undone was the spin sum. This lesson finishes it, reusing the trace-reduction method of Lessons 54 and 55 essentially unchanged, and finds something neither of those lessons did: the interference term between the two diagrams vanishes identically, for exactly the same reason (q_A·q_B=0) that simplified Lesson 55's calculation partway through. What remains is one of the cleanest formulas in this course. Expect six to eight hours.
+Lesson 49 set up Compton scattering in full: the two diagrams, the vertex factors, the propagator, and the momentum-conservation bookkeeping that fixes each diagram's internal momentum to s=(p+k)² and u=(p−k′)² respectively. What Lesson 49 left undone was the spin sum. This lesson finishes it, reusing the trace-reduction method of Lessons 54 and 55 essentially unchanged, and finds again what Lesson 55 found: the interference term between the two diagrams vanishes identically, for the same reason, q_A·q_B=0. What remains is one of the cleanest formulas in this course. Expect six to eight hours.
 
 ## Learning objectives
 
@@ -36,7 +36,7 @@ FIG:
           γ(k)                 γ(k')              γ(k)                 γ(k')
            |                    |                  |                    |
            |                    |                  |                    |
- e^{-} ----*--------------------*---- e^{-}     e^{-} ----*--------------------*---- e^{-}
+    e⁻ ----*--------------------*---- e⁻           e⁻ ----*--------------------*---- e⁻   
         (p)      q_A = p+k     (p')                    (p)   q_B = p−k'     (p')
             diagram A,  s-channel                    diagram B,  u-channel
 ENDFIG
@@ -129,7 +129,7 @@ a result depending on only two Mandelstam-like combinations, symmetric under s�
 
 ### Worked example 4
 
-Explain, referring to Lesson 55, why this lesson's final formula looks structurally similar to, but is not identical to, electron-positron annihilation's 2e⁴[t/u+u/t−2]. Both results come from processes related by crossing symmetry (previewed in Lesson 55, Exercise 16) and share the same underlying trace technology, but the specific variables entering each (s and u here, t and u there) and the presence or absence of the constant "−2" term differ because the two processes' interference traces behave differently: Lesson 55's T_AB was a nonzero, s-dependent quantity, while this lesson's vanishes entirely, a genuine physical difference between the two processes, not merely a relabeling of the same formula.
+Explain, referring to Lesson 55, how this lesson's final formula is related to electron-positron annihilation's 2e⁴[t/u+u/t]. The two processes are related by crossing symmetry (previewed in Lesson 55, Exercise 16): move the positron of annihilation to an outgoing electron and one outgoing photon to an incoming photon. That exchanges the roles of s and t, so annihilation's t/u+u/t becomes s/u+u/s here. Crossing one fermion also brings an overall minus sign, which turns 2e⁴(s/u+u/s) into −2e⁴(s/u+u/s). In both processes the interference trace vanishes, through the same zero q_A·q_B=0.
 
 # 5 Connections to QED
 
@@ -137,7 +137,7 @@ Explain, referring to Lesson 55, why this lesson's final formula looks structura
 | Result of this lesson | Where it is used next |
 | T_AA=T_BB=−8su, T_AB=0 (massless) | Completes the calculation Lesson 49 set up |
 | (1/4)Σ\|ℳ\|²=−2e⁴(s/u+u/s) | One of the most quoted results in introductory QED, now fully derived |
-| q_A·q_B=0 | The same simplification already seen in Lesson 55, now recurring in a second, independent calculation |
+| q_A·q_B=0 | The same zero that removes Lesson 55's interference term, now recurring in a second, independent calculation |
 | No relative sign between diagrams | Confirms the general rule of Lesson 55, Worked example 1: sign follows the statistics of the exchanged role, not the diagram count |
 | Positivity from s>0, u<0 | A general consistency check, as in Lesson 55, Worked example 5 |
 
@@ -174,7 +174,7 @@ Lesson 57 turns to pair production, γγ→e⁻e⁺, obtained from this process 
 | 13 | Using the two-object identity γ^μγ^aγ^bγ_μ=4g^ab, verify γ^βq̸_Aq̸_Bγ_β=4(q_A·q_B)I, and combine with Exercise 11 to confirm T_AB=0. |
 | 14 | Assemble Section 4's final formula from T_AA, T_BB, T_AB, and the propagator denominators, verifying every numerical factor. |
 | 15 | Explain why (1/4)Σ|ℳ|² must be positive for physical Compton scattering, and verify Section 4's formula respects this using s>0, u<0. |
-| 16 | Challenge: using Lesson 55's crossing-symmetry preview (Exercise 16 there), state which of electron-positron annihilation's Mandelstam variables (s′, t′, u′) you would expect to correspond to this lesson's s and u, and explain, in terms of that correspondence, why one process's interference term (T_AB here) vanishes while the other's (Lesson 55) does not. |
+| 16 | Challenge: using Lesson 55's crossing-symmetry preview (Exercise 16 there), state which of electron-positron annihilation's Mandelstam variables (s′, t′, u′) correspond to this lesson's s and u, and use that correspondence to obtain this lesson's result from Lesson 55's 2e⁴(t′/u′+u′/t′), including the overall sign. |
 
 # Solutions
 
@@ -208,7 +208,7 @@ Lesson 57 turns to pair production, γγ→e⁻e⁺, obtained from this process 
 
 **15.** As a spin-and-polarization-averaged sum of |ℳ|² over specific configurations, the quantity is a sum of non-negative numbers and so must itself be non-negative (and, barring an exactly-vanishing amplitude at every configuration, strictly positive). For physical scattering, s=(p+k)²>0 (a timelike total four-momentum) and u=(p−k′)²<0 (spacelike, Lesson 52, Section 3.2, extended to this process), so s/u<0, making −(s/u+u/s) a sum of two positive numbers (since u/s is also negative, so −u/s is positive), confirming positivity directly.
 
-**16.** By the crossing correspondence previewed in Lesson 55, this lesson's s (built from the incoming electron and photon) corresponds to a variable built from momentum differences in the annihilation process, and this lesson's u corresponds similarly; working out the precise map requires care with the sign flips crossing introduces (Lesson 55, Exercise 16, previewed this without completing it). Physically, the two processes' interference terms behave differently because they correspond to different underlying kinematic configurations: this lesson's q_A·q_B=0 and Lesson 55's q_A·q_B=0 are the same algebraic vanishing, but it entered Lesson 55's T_AB as a term that, once multiplied out, left other nonzero pieces surviving, while here it is the only term determining T_AB directly, causing the entire trace to vanish; the difference traces to the differing position of the vanishing dot product within each trace's algebraic structure, not to the crossing relation itself failing.
+**16.** Crossing the incoming positron of annihilation to an outgoing electron (p₂→−p′) and the photon k₁ to an incoming photon (k₁→−k) maps t′=(p₁−k₁)² to (p+k)²=s, u′=(p₁−k₂)² to (p−k′)²=u, and s′=(p₁+p₂)² to (p−p′)²=t. Lesson 55's 2e⁴(t′/u′+u′/t′) becomes 2e⁴(s/u+u/s), and moving one fermion between the initial and final states multiplies the spin-summed square by −1, giving −2e⁴(s/u+u/s), this lesson's result. Neither process has an interference term: in both, T_AB is proportional to q_A·q_B, which vanishes in the massless limit.
 
 # Mastery checklist
 

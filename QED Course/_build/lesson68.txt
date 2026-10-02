@@ -35,7 +35,7 @@ Lesson 67 absorbed a divergence into a mass nobody measures. This lesson does th
 | Z₃ | Photon field-renormalization constant, 1/(1−Π(0)) at this order |
 | α(Q²) | Effective fine-structure constant at momentum transfer Q |
 
-The metric is Lesson 4's diag(+1, −1, −1, −1), natural units ħ = c = 1, and ln is the natural logarithm. In display equations, square brackets enclose function arguments and visible groupings.
+The metric is Lesson 4's diag(+1, −1, −1, −1), natural units ℏ = c = 1, and ln is the natural logarithm. In display equations, square brackets enclose function arguments and visible groupings.
 
 # 1 Putting Π back into the photon line
 

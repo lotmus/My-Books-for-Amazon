@@ -28,7 +28,7 @@ Lesson 57 showed that a single real photon cannot turn into an electron–positr
 | A_ext | Prescribed classical background field |
 | a | Quantized photon fluctuation about A_ext |
 | E, B | Magnitudes of the background electric and magnetic fields |
-| E_c | Critical field m²/e, equal to m²c³/(eħ) = 1.32×10¹⁸ V/m |
+| E_c | Critical field m²/e, equal to m²c³/(eℏ) = 1.32×10¹⁸ V/m |
 | m_⊥ | Transverse mass, √(m² + p_⊥²) |
 | ℒ_eff | Effective Lagrangian, Γ[A_ext] = ∫d⁴x ℒ_eff for constant fields |
 | Z | Nuclear charge number |
@@ -121,7 +121,7 @@ Write the exponent as πm²/eE = πE_c/E with E_c = m²/e. As a function of e at
 
 Evaluate the rate at E = E_c, 0.1E_c, and 0.05E_c, and for the strongest laser, 10²³ W/cm².
 
-The prefactor at E = E_c is m⁴/4π³. In SI units m⁴ means (mc²/ħ)(mc/ħ)³ = 7.763×10²⁰ s⁻¹ × (3.8616×10⁻¹³ m)⁻³ = 1.348×10⁵⁸ m⁻³ s⁻¹. Dividing by 4π³ = 124.0 gives 1.09×10⁵⁶ m⁻³ s⁻¹. Then:
+The prefactor at E = E_c is m⁴/4π³. In SI units m⁴ means (mc²/ℏ)(mc/ℏ)³ = 7.763×10²⁰ s⁻¹ × (3.8616×10⁻¹³ m)⁻³ = 1.348×10⁵⁸ m⁻³ s⁻¹. Dividing by 4π³ = 124.0 gives 1.09×10⁵⁶ m⁻³ s⁻¹. Then:
 
 - At E = E_c, the rate is 1.09×10⁵⁶ × e^{−π} = 4.7×10⁵⁴ m⁻³ s⁻¹. That is 4.7×10²⁴ pairs per μm³ per ps, which would discharge the field at once.
 

@@ -122,7 +122,7 @@ In e⁺e⁻ → γγ, the leading amplitude is a pure QED process, with an elect
 
 ### Worked example 5
 
-Turn a bound Λ > 400 GeV into a length. The corresponding distance is ħc/Λ = 197.327 MeV fm/400,000 MeV = 4.9×10⁻⁴ fm, or 4.9×10⁻¹⁹ m. The electron behaves as a point particle down to distances less than a thousandth of the proton's radius.
+Turn a bound Λ > 400 GeV into a length. The corresponding distance is ℏc/Λ = 197.327 MeV fm/400,000 MeV = 4.9×10⁻⁴ fm, or 4.9×10⁻¹⁹ m. The electron behaves as a point particle down to distances less than a thousandth of the proton's radius.
 
 # 6 What remains open
 
@@ -200,7 +200,7 @@ This lesson quoted all experimental values and all calculations beyond those of 
 
 **9.** For Z = 6, (Zα)² = 1.917×10⁻³, √(1 − x) ≈ 0.999041, g = (2/3)(2.998082) = 1.998721. For Z = 14, (Zα)² = 1.0437×10⁻², √(1 − x) ≈ 0.994768, g = (2/3)(2.989536) = 1.993024.
 
-**10.** ħc/Λ: 197.327/200,000 fm = 9.9×10⁻⁴ fm, or 9.9×10⁻¹⁹ m. For 1 TeV, 2.0×10⁻⁴ fm, or 2.0×10⁻¹⁹ m.
+**10.** ℏc/Λ: 197.327/200,000 fm = 9.9×10⁻⁴ fm, or 9.9×10⁻¹⁹ m. For 1 TeV, 2.0×10⁻⁴ fm, or 2.0×10⁻¹⁹ m.
 
 **11.** (α/π)(0.10566/500)² = 2.32×10⁻³ × 4.47×10⁻⁸ = 1.0×10⁻¹⁰, comparable to the uncertainty. Heavy particles with such couplings are just at the edge of what a_μ can detect.
 

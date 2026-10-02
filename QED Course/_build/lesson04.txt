@@ -1,7 +1,7 @@
 TITLE: Four Vectors and Lorentz Transformations
 TAGLINE: Index notation, the metric, Lorentz matrices, tensors, and the invariants that make relativistic equations covariant
 NUM: 4
-NEXT: Lesson 5 develops classical mechanics in Lagrangian form: the action, Hamilton's principle, the Euler Lagrange equations, symmetries and conservation laws, the relativistic particle, and the coupling of a charged particle to the electromagnetic potentials.
+NEXT: Lesson 5 develops classical mechanics in Lagrangian form: the action, Hamilton's principle, the Euler–Lagrange equations, symmetries and conservation laws, the relativistic particle, and the coupling of a charged particle to the electromagnetic potentials.
 
 # How to use this lesson
 
@@ -130,7 +130,7 @@ The placement of the minus sign is a frequent source of error. The covariant gra
 
 $$ □ = ∂_μ ∂^μ = ∂_t² − ∇²
 
-This is the wave operator of Lesson 2 written as an invariant contraction. Any equation of the form (□ + m²)φ = 0, with φ a scalar, has the same form in every inertial frame. Lesson 17 adopts it as the Klein Gordon equation.
+This is the wave operator of Lesson 2 written as an invariant contraction. Any equation of the form (□ + m²)φ = 0, with φ a scalar, has the same form in every inertial frame. Lesson 17 adopts it as the Klein–Gordon equation.
 
 ### Worked example 3
 
@@ -224,13 +224,13 @@ A physical law is Lorentz covariant when both sides are tensors of the same type
 
 @widths 3264 3264 3264
 | Equation | Index structure | Content |
-| (∂_μ∂^μ + m²)φ = 0 | scalar = scalar | Klein Gordon equation (Lesson 17) |
+| (∂_μ∂^μ + m²)φ = 0 | scalar = scalar | Klein–Gordon equation (Lesson 17) |
 | ∂_μ j^μ = 0 | scalar = scalar | Conservation of charge: ∂_t ρ + ∇·j = 0 (Lesson 23) |
 | m du^μ/dτ = q F^μν u_ν | vector = vector | Lorentz force law in covariant form (Lesson 7) |
 | ∂_μ F^μν = j^ν | vector = vector | Inhomogeneous Maxwell equations (Lesson 42) |
 | p^μ = i∂^μ | vector operator | Quantum mechanical momentum in covariant form (Lesson 12) |
 
-The Schrodinger equation, i∂_t ψ = −∇²ψ/2m, fails the test: one time derivative on the left and two space derivatives on the right cannot be the components of a single tensor equation. That failure is the starting point of Lesson 18.
+The Schrödinger equation, i∂_t ψ = −∇²ψ/2m, fails the test: one time derivative on the left and two space derivatives on the right cannot be the components of a single tensor equation. That failure is the starting point of Lesson 18.
 
 ## 7.3 Invariants of a two-body process
 
@@ -251,7 +251,7 @@ Two particles of equal mass m scatter elastically in the center-of-momentum fram
 | Index placement and contraction | Every Lagrangian term and Feynman amplitude is a full contraction, hence invariant |
 | Λ^μ_ν and ΛᵀgΛ = g | Definition of spinor and vector representations; Dirac equation covariance (Lessons 19, 21) |
 | ∂_μ as a covariant vector | Covariant derivative D_μ = ∂_μ + iqA_μ (Lesson 40) |
-| □ = ∂_μ∂^μ | Klein Gordon operator and the inverse that defines the propagator (Lesson 45) |
+| □ = ∂_μ∂^μ | Klein–Gordon operator and the inverse that defines the propagator (Lesson 45) |
 | Antisymmetric tensor with 6 components | Field tensor F_μν and the term −¼F_μνF^μν (Lessons 41, 42) |
 | ε^μνρσ | γ⁵ traces and parity-violating structures (Lesson 20) |
 | p^μ with p·p = m² | On-shell external particles; propagator poles at p² = m² |
@@ -276,7 +276,7 @@ The QED Lagrangian of Lesson 41 is a sum of three fully contracted expressions: 
 
 7. The plane wave e^(−ip·x) is covariant, and i∂^μ acting on it returns p^μ.
 
-8. An equation is covariant when free indices match; the Schrodinger equation fails the test and the Klein Gordon equation passes.
+8. An equation is covariant when free indices match; the Schrödinger equation fails the test and the Klein–Gordon equation passes.
 
 # Exercises
 
@@ -287,7 +287,7 @@ The QED Lagrangian of Lesson 41 is a sum of three fully contracted expressions: 
 | 3 | Show that the product of two boosts along x with rapidities φ₁ and φ₂ is a boost with rapidity φ₁ + φ₂. |
 | 4 | Using the chain rule, show that ∂_μ transforms as a covariant vector. |
 | 5 | Verify ∂_μ x^ν = δ^ν_μ and use it to compute ∂_μ(a·x) for a constant four-vector a. |
-| 6 | Show that ∂_μ∂^μ e^(−ik·x) = −(k·k) e^(−ik·x), and conclude that e^(−ik·x) solves the Klein Gordon equation only when k·k = m². |
+| 6 | Show that ∂_μ∂^μ e^(−ik·x) = −(k·k) e^(−ik·x), and conclude that e^(−ik·x) solves the Klein–Gordon equation only when k·k = m². |
 | 7 | Prove that S^μν A_μν = 0 whenever S is symmetric and A is antisymmetric. |
 | 8 | A tensor T^μν has components T^01 = 2 and T^10 = −2, all others zero. Find its symmetric and antisymmetric parts and its trace g_μν T^μν. |
 | 9 | Find the four-velocity of a particle with v = (0.6, 0, 0) and verify u·u = 1. Then find its four-momentum if m = 2 GeV. |
@@ -311,7 +311,7 @@ The QED Lagrangian of Lesson 41 is a sum of three fully contracted expressions: 
 
 **5.** Each coordinate depends only on itself, so ∂x^ν/∂x^μ = δ^ν_μ. Then ∂_μ(a_ν x^ν) = a_ν δ^ν_μ = a_μ.
 
-**6.** ∂_μ e^(−ik·x) = −ik_μ e^(−ik·x), and applying ∂^μ gives (−ik_μ)(−ik^μ) = −k·k. The Klein Gordon equation (□ + m²)φ = 0 then requires −k·k + m² = 0.
+**6.** ∂_μ e^(−ik·x) = −ik_μ e^(−ik·x), and applying ∂^μ gives (−ik_μ)(−ik^μ) = −k·k. The Klein–Gordon equation (□ + m²)φ = 0 then requires −k·k + m² = 0.
 
 **7.** S^μν A_μν = S^νμ A_μν = −S^νμ A_νμ = −S^μν A_μν after renaming the dummy indices, so the quantity equals its own negative and vanishes.
 

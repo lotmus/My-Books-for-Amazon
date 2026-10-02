@@ -5,7 +5,7 @@ NEXT: Lesson 58 steps back from individual processes to develop, in general, the
 
 # How to use this lesson
 
-Pair production, γ(k₁)+γ(k₂)→e⁻(p₁)+e⁺(p₂), completes the set of four two-body QED processes at leading order that this course examines in detail. It shares its diagram topology with electron-positron annihilation (Lesson 55, the same diagrams read in reverse) and, as this lesson shows, shares its interference structure with Compton scattering (Lesson 56, an interference term that vanishes identically for the same algebraic reason). The result is a lesson that reuses a great deal of prior work while landing on a genuinely distinct final formula, and closes with a first, concrete physical threshold: the two photons need enough combined energy to create the pair at all. Expect five to seven hours.
+Pair production, γ(k₁)+γ(k₂)→e⁻(p₁)+e⁺(p₂), completes the set of four two-body QED processes at leading order that this course examines in detail. It shares its diagram topology with electron-positron annihilation (Lesson 55, the same diagrams read in reverse) and, as this lesson shows, its vanishing interference term with both Lessons 55 and 56. The result is a lesson that reuses a great deal of prior work, lands on exactly Lesson 55's formula, as time reversal requires, and closes with a first, concrete physical threshold: the two photons need enough combined energy to create the pair at all. Expect five to seven hours.
 
 ## Learning objectives
 
@@ -13,7 +13,7 @@ Pair production, γ(k₁)+γ(k₂)→e⁻(p₁)+e⁺(p₂), completes the set of
 
 - Show that the direct and crossed squared-amplitude traces, T_AA and T_BB, reduce to 8tu each, matching Lesson 55's formula exactly.
 
-- Show that the interference trace T_AB vanishes identically, by the same interleaved-contraction mechanism as Lesson 56, rather than Lesson 55's three-term structure.
+- Show that the interference trace T_AB vanishes identically, by the same interleaved-contraction mechanism as Lessons 55 and 56.
 
 - Assemble the complete result (1/4)Σ|ℳ|²=2e⁴(t/u+u/t).
 
@@ -67,7 +67,7 @@ T_AB, however, has a different index structure:
 
 $$ T_(AB) = Tr[(p̸₁+m)γ^α(q̸_A+m)γ^β(p̸₂−m)γ_α(q̸_B+m)γ_β]
 
-Here α surrounds the three-object chain (q̸_A+m)γ^β(p̸₂−m), interleaved with β, exactly the pattern Lesson 56, Section 3.1, identified for Compton scattering's interference term, not Lesson 55's adjacent pattern.
+Here α surrounds the three-object chain (q̸_A+m)γ^β(p̸₂−m), interleaved with β, exactly the pattern Lesson 56, Section 3.1, identified for Compton scattering's interference term, and the same as Lesson 55's.
 
 ### Worked example 2
 
@@ -105,7 +105,7 @@ $$ (1/4) Σ|ℳ|² = e⁴ [ 8tu/t² + 8tu/u² + 0 ] / 4 = 2 e⁴ ( u/t + t/u )
 
 $$ (1/4) Σ|ℳ|² = 2 e⁴ ( t/u + u/t )
 
-Unlike Lesson 55's 2e⁴[t/u+u/t−2] (which has a nonzero interference contribution) and Lesson 56's −2e⁴(s/u+u/s) (built from s and u rather than t and u), this result uses t and u with no additive constant, a direct consequence of T_AB vanishing exactly.
+This is Lesson 55's 2e⁴[t/u+u/t] exactly. The two processes are time reverses of each other, with the same four-state average, so their spin-averaged squares must agree. Lesson 56's −2e⁴(s/u+u/s) is the same function with s and t exchanged by crossing, and a minus sign for the crossed fermion.
 
 ### Worked example 4
 
@@ -149,7 +149,7 @@ Lesson 58 now steps back to derive, in general, the phase-space reduction used i
 
 3. T_AB=0, by the same interleaved-contraction mechanism as Lesson 56's Compton calculation, tracing to q_A·q_B=0.
 
-4. The complete result is (1/4)Σ|ℳ|²=2e⁴(t/u+u/t), distinct from both Lesson 55's and Lesson 56's formulas.
+4. The complete result is (1/4)Σ|ℳ|²=2e⁴(t/u+u/t), the same as Lesson 55's, as time reversal requires.
 
 5. Pair production requires s≥4m², the center-of-momentum energy sufficient to create both particles' rest mass.
 
@@ -172,7 +172,7 @@ Lesson 58 now steps back to derive, in general, the phase-space reduction used i
 | 13 | Derive the threshold condition s≥4m² from the requirement that two particles of mass m can be produced at rest or in motion consistent with energy-momentum conservation. |
 | 14 | State what happens to the available final-state momentum p (the magnitude of p₁ in the center-of-momentum frame) as s→4m² from above, and as s→∞. |
 | 15 | Explain, in one or two sentences, why pair production cannot occur from a single free photon alone, no matter how energetic, connecting your answer to Lesson 44, Section 4's single-vertex kinematic argument. |
-| 16 | Challenge: compare the three results 2e⁴[t/u+u/t−2] (Lesson 55), −2e⁴(s/u+u/s) (Lesson 56), and 2e⁴(t/u+u/t) (this lesson), and state, for each, which two Mandelstam variables it depends on and whether it contains a constant additive term; explain what the presence or absence of that constant term reveals about whether the corresponding interference trace vanished. |
+| 16 | Challenge: compare the three results 2e⁴[t/u+u/t] (Lesson 55), −2e⁴(s/u+u/s) (Lesson 56), and 2e⁴(t/u+u/t) (this lesson). State which two Mandelstam variables each depends on, and explain why the first and last agree and how the second follows from them by crossing. |
 
 # Solutions
 
@@ -186,7 +186,7 @@ Lesson 58 now steps back to derive, in general, the phase-space reduction used i
 
 **5.** Exchanging α↔β and q_A↔q_B (equivalently t↔u) throughout Exercise 4's derivation, since T_BB's own internal momentum q_B takes over the role q_A played, gives T_BB=8ut=8tu, the same numerical value.
 
-**6.** T_AB=Tr[(p̸₁+m)γ^α(q̸_A+m)γ^β(p̸₂−m)γ_α(q̸_B+m)γ_β] has α surrounding the three-object chain (q̸_A+m)γ^β(p̸₂−m), an interleaved pattern; this matches Lesson 56's T_AB (also interleaved), not Lesson 55's T_AB (whose two contracted indices each surrounded an adjacent, non-interleaved factor).
+**6.** T_AB=Tr[(p̸₁+m)γ^α(q̸_A+m)γ^β(p̸₂−m)γ_α(q̸_B+m)γ_β] has α surrounding the three-object chain (q̸_A+m)γ^β(p̸₂−m), an interleaved pattern. Lesson 55's T_AB and Lesson 56's T_AB are interleaved in the same way, as every interference term between two diagrams with exchanged photons is.
 
 **7.** By the identity γ^μABCγ_μ=−2CBA (Lesson 54, Section 3.1) with A=q̸_A, B=γ^β, C=p̸₂ (massless, m=0 in each factor), γ^α[q̸_Aγ^βp̸₂]γ_α=−2p̸₂γ^βq̸_A, reversing the order of the three factors.
 
@@ -206,7 +206,7 @@ Lesson 58 now steps back to derive, in general, the phase-space reduction used i
 
 **15.** Lesson 44, Section 4, showed that a single vertex cannot conserve on-shell momentum, since it would require the photon's own four-momentum to satisfy an impossible condition (p·k=0 there, forcing a zero-energy photon); pair production from a single photon would require an analogous single-vertex process, γ→e⁻e⁺, subject to the identical kinematic obstruction, so at least two photons (or, alternatively, an external field supplying additional momentum, as in Lesson 85) are needed, exactly as Compton scattering needed at least two vertices to occur at all.
 
-**16.** Lesson 55's 2e⁴[t/u+u/t−2] depends on t and u and contains a nonzero constant term (−2), reflecting a nonvanishing interference trace T_AB=−8tu there. Lesson 56's −2e⁴(s/u+u/s) depends on s and u (not t) and contains no additive constant, reflecting T_AB=0 for that process. This lesson's 2e⁴(t/u+u/t) depends on t and u and also contains no additive constant, reflecting T_AB=0 here as well; the presence of a nonzero constant term is therefore a direct signature of a nonvanishing interference trace, and its absence signals that the interference term vanished identically, exactly the pattern found in Sections 2–3 of this lesson.
+**16.** Lessons 55 and 57 both give 2e⁴(t/u+u/t), a function of t and u: the processes are time reverses, with the same spin and polarization average, so the results must agree. Lesson 56's −2e⁴(s/u+u/s) depends on s and u. Crossing annihilation into Compton scattering sends t to s and leaves u in place, and moving one fermion across the reaction brings an overall minus sign. None of the three has an interference contribution: in each, T_AB is proportional to q_A·q_B, which vanishes for massless particles.
 
 # Mastery checklist
 

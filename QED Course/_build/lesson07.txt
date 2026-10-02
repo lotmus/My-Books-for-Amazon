@@ -7,7 +7,7 @@ NEXT: Lesson 8 introduces the electromagnetic potentials and gauge freedom: how 
 
 Quantum electrodynamics is the quantum theory of the electromagnetic field, and that field obeys the Maxwell equations. Prologue 5 already placed this language next to Feynman's photons-and-arrows picture as an alternative when photons are many; this lesson is the calculation of that language. Mead's inversion — A primary, E and B derived — waits until the Interlude after Lesson 40, once potentials and local phase exist. This lesson states the Maxwell equations, both in the differential form that will be used for the rest of the course and in the integral form from which they are easiest to understand physically, and it derives the one consequence that matters most for everything that follows: that the equations in vacuum predict waves traveling at a fixed speed c, independent of any source.
 
-The treatment assumes SI-like structure with the vacuum permittivity and permeability set to convenient values, then moves to the Heaviside Lorentz units used in the rest of the course, in which the equations take their cleanest form and the fine structure constant is α = e²/4π. Expect six to eight focused hours; the algebra is straightforward, and the payoff is the wave equation and its speed.
+The treatment assumes SI-like structure with the vacuum permittivity and permeability set to convenient values, then moves to the Heaviside–Lorentz units used in the rest of the course, in which the equations take their cleanest form and the fine structure constant is α = e²/4π. Expect six to eight focused hours; the algebra is straightforward, and the payoff is the wave equation and its speed.
 
 ## Learning objectives
 
@@ -25,7 +25,7 @@ The treatment assumes SI-like structure with the vacuum permittivity and permeab
 
 - State the Lorentz force law and combine it with the Maxwell equations into a closed system.
 
-- Convert between SI and Heaviside Lorentz units and state Maxwell's equations in the units used in the rest of the course.
+- Convert between SI and Heaviside–Lorentz units and state Maxwell's equations in the units used in the rest of the course.
 
 ## Notation and conventions
 
@@ -39,7 +39,7 @@ The treatment assumes SI-like structure with the vacuum permittivity and permeab
 | S | Poynting vector, energy flux of the electromagnetic field |
 | u | Electromagnetic energy density |
 | dS, dl | Vector surface element and line element |
-| Heaviside Lorentz units | Units with ε₀ = μ₀ = 1 and α = e²/4π, used from Lesson 38 onward |
+| Heaviside–Lorentz units | Units with ε₀ = μ₀ = 1 and α = e²/4π, used from Lesson 38 onward |
 
 # 1 The electric field and Gauss's law
 
@@ -73,7 +73,7 @@ $$ ∮_S B · dS = 0  ⇒  ∇ · B = 0
 
 This equation has no source term, in sharp contrast to Gauss's law for E. It is the reason B can always be written as the curl of a vector potential (Lesson 8), since a divergence-free field is a curl, by the identity of Lesson 2.
 
-## 2.2 The Biot Savart law
+## 2.2 The Biot–Savart law
 
 A steady current I along a wire produces a magnetic field
 
@@ -208,11 +208,11 @@ The quantity u is the energy density stored in the field, and S, the Poynting ve
 
 For the plane wave of Worked example 5, compute u and S. With B = E/c, u = (1/2)(ε₀E² + E²/(μ₀c²)) = ε₀E², using μ₀c² = 1/ε₀. The Poynting vector is S = E×B/μ₀ = (E₀²/μ₀c) cos²(kz−ωt) ẑ = ε₀cE₀²cos²(kz−ωt) ẑ, so |S| = cu: energy flows at the speed of light in the direction of propagation, as it must for a field with no rest frame (Lesson 3).
 
-# 7 Heaviside Lorentz units
+# 7 Heaviside–Lorentz units
 
 ## 7.1 Rationalized units without ε₀ and μ₀
 
-The factors of 4π and ε₀ scattered through the SI equations are conventions, not physics. From this point in the course, following the convention set in Lesson 3, the Maxwell equations are written in Heaviside Lorentz units, in which ε₀ = μ₀ = 1 and c = 1.
+The factors of 4π and ε₀ scattered through the SI equations are conventions, not physics. From this point in the course, following the convention set in Lesson 3, the Maxwell equations are written in Heaviside–Lorentz units, in which ε₀ = μ₀ = 1 and c = 1.
 
 $$ ∇·E = ρ,    ∇·B = 0,    ∇×E = −∂B/∂t,    ∇×B = j + ∂E/∂t
 
@@ -224,11 +224,11 @@ matching the definition already used in Lesson 3. Converting a result to SI unit
 
 ## 7.2 Why this convention is used in QED
 
-Quantum electrodynamics is built from the Lagrangian of Lesson 41, in which the field tensor appears as −¼F_μνF^μν with no additional constants. Heaviside Lorentz units are the choice that makes this term, and the coupling term −eψ̄γ^μψA_μ, free of extra factors of 4π or ε₀; those factors reappear only in the single combination α when a cross section is finally converted to a number. Every equation from Lesson 37 onward assumes this convention.
+Quantum electrodynamics is built from the Lagrangian of Lesson 41, in which the field tensor appears as −¼F_μνF^μν with no additional constants. Heaviside–Lorentz units are the choice that makes this term, and the coupling term −eψ̄γ^μψA_μ, free of extra factors of 4π or ε₀; those factors reappear only in the single combination α when a cross section is finally converted to a number. Every equation from Lesson 37 onward assumes this convention.
 
 ### Worked example 7
 
-Rewrite Coulomb's law and the Bohr radius result of Lesson 3 in Heaviside Lorentz units. The potential energy between two charges is V(r) = e²/(4πr) = α/r, using e² = 4πα. The Bohr radius, ℏ²/(m e²/4πε₀) in SI form, becomes 1/(αm) in natural Heaviside Lorentz units, exactly the result quoted in Lesson 3 without any leftover 4πε₀.
+Rewrite Coulomb's law and the Bohr radius result of Lesson 3 in Heaviside–Lorentz units. The potential energy between two charges is V(r) = e²/(4πr) = α/r, using e² = 4πα. The Bohr radius, ℏ²/(m e²/4πε₀) in SI form, becomes 1/(αm) in natural Heaviside–Lorentz units, exactly the result quoted in Lesson 3 without any leftover 4πε₀.
 
 # 8 Connections to QED
 
@@ -262,7 +262,7 @@ Maxwell's equations are the classical field equations that QED quantizes. Lesson
 
 7. The Poynting vector S = E×B/μ₀ carries field energy at speed c; local energy conservation reads ∂u/∂t + ∇·S = −j·E.
 
-8. Heaviside Lorentz units set ε₀ = μ₀ = c = 1 and place all remaining constants into α = e²/4π ≈ 1/137, the convention used from here on.
+8. Heaviside–Lorentz units set ε₀ = μ₀ = c = 1 and place all remaining constants into α = e²/4π ≈ 1/137, the convention used from here on.
 
 # Exercises
 
@@ -279,8 +279,8 @@ Maxwell's equations are the classical field equations that QED quantizes. Lesson
 | 9 | Compute the time-averaged Poynting vector for E = E₀ x̂ cos(kz − ωt) and express the result in terms of the root-mean-square field. |
 | 10 | Show that ∇·S + ∂u/∂t = −j·E using the Maxwell equations and the vector identity ∇·(E×B) = B·(∇×E) − E·(∇×B). |
 | 11 | A charge q moves in a uniform E field with no B field, starting from rest. Solve for v(t) nonrelativistically and state at what speed the nonrelativistic approximation becomes unreliable. |
-| 12 | Rewrite Gauss's law and the Ampere Maxwell law in Heaviside Lorentz units and verify that setting j = 0, ρ = 0 still gives waves with speed 1. |
-| 13 | Express the classical electron radius r_e = e²/(4πε₀ m c²) in Heaviside Lorentz and natural units, and check it against Worked example 5 of Lesson 3. |
+| 12 | Rewrite Gauss's law and the Ampere Maxwell law in Heaviside–Lorentz units and verify that setting j = 0, ρ = 0 still gives waves with speed 1. |
+| 13 | Express the classical electron radius r_e = e²/(4πε₀ m c²) in Heaviside–Lorentz and natural units, and check it against Worked example 5 of Lesson 3. |
 | 14 | Two charges +q and −q are separated by a fixed small distance d, forming a dipole p = qd. Using superposition of two point-charge fields, sketch how E falls off with distance compared with a single point charge, and explain why in terms of Gauss's law applied to a large sphere. |
 | 15 | Show that ∇×(∇×E) = ∇(∇·E) − ∇²E for E = E₀cos(k·x − ωt) with k·E₀ = 0, by direct differentiation. |
 | 16 | Challenge: starting from the four Maxwell equations in vacuum, derive that ∇²φ and each Cartesian component of A (from Lesson 8) obey a wave equation with a source term, by first expressing E and B through the potentials, and identify the operator that appears. |
@@ -311,7 +311,7 @@ Maxwell's equations are the classical field equations that QED quantizes. Lesson
 
 **12.** ∇·E = ρ and ∇×B = j + ∂E/∂t. With ρ = j = 0, the same manipulation as Section 5.1 gives ∂²E/∂t² = ∇²E, the wave equation with speed 1, consistent with c = 1 in these units.
 
-**13.** r_e = e²/(4πε₀mc²) in SI becomes α/m in Heaviside Lorentz natural units, since e²/4π = α and c = 1. This matches 2.82 fm found in Worked example 5 of Lesson 3.
+**13.** r_e = e²/(4πε₀mc²) in SI becomes α/m in Heaviside–Lorentz natural units, since e²/4π = α and c = 1. This matches 2.82 fm found in Worked example 5 of Lesson 3.
 
 **14.** The dipole field falls off as 1/r³ at large distance rather than 1/r², because the leading 1/r² parts of the two point charges cancel to leading order, leaving only the next term in their difference. Gauss's law applied to a sphere enclosing both charges gives zero net flux (Q_enc = q − q = 0), consistent with a field that falls off faster than 1/r².
 
@@ -335,4 +335,4 @@ Maxwell's equations are the classical field equations that QED quantizes. Lesson
 
 - I can compute the Poynting vector and energy density of a plane wave and relate them by S = cu.
 
-- I can convert a formula between SI units and Heaviside Lorentz natural units using α = e²/4π.
+- I can convert a formula between SI units and Heaviside–Lorentz natural units using α = e²/4π.

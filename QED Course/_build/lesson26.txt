@@ -1,4 +1,4 @@
-TITLE: Euler Lagrange Equations for Fields
+TITLE: Euler–Lagrange Equations for Fields
 TAGLINE: Varying the action in four dimensions, the general field equation, and its application to the scalar, Dirac, and electromagnetic fields
 NUM: 26
 NEXT: Lesson 27 states and proves Noether's theorem: every continuous symmetry of the Lagrangian density gives a conserved current, the general statement behind the conservation of energy, momentum, angular momentum, and electric charge.
@@ -7,17 +7,17 @@ NEXT: Lesson 27 states and proves Noether's theorem: every continuous symmetry o
 
 Lesson 25 wrote down the Lagrangian densities of the scalar, Dirac, and electromagnetic fields and stated the equations they lead to. This lesson derives those equations. The derivation is the field-theoretic version of the argument of Lesson 5, Section 2.2, and uses the same three ingredients: vary the action, integrate by parts to move the derivative off the variation, and invoke the fundamental lemma that a function that integrates to zero against every test function must vanish. The only new feature is that the integration is over four-dimensional spacetime and the derivative is a four-gradient.
 
-Once the general equation is in hand it is applied in turn to each field. The scalar equation is the Klein Gordon equation of Lesson 17, the Dirac field gives the Dirac equation and its adjoint, and the electromagnetic field gives the inhomogeneous Maxwell equations. That a single Lagrangian density per field reproduces every equation of Parts II and III, and the Maxwell equations of Lesson 7, is the justification for the whole Lagrangian approach. The lesson closes with a solution of the sourced scalar equation that shows how a massive field mediates a force of finite range, an idea that returns in Lesson 45. Expect seven to nine focused hours.
+Once the general equation is in hand it is applied in turn to each field. The scalar equation is the Klein–Gordon equation of Lesson 17, the Dirac field gives the Dirac equation and its adjoint, and the electromagnetic field gives the inhomogeneous Maxwell equations. That a single Lagrangian density per field reproduces every equation of Parts II and III, and the Maxwell equations of Lesson 7, is the justification for the whole Lagrangian approach. The lesson closes with a solution of the sourced scalar equation that shows how a massive field mediates a force of finite range, an idea that returns in Lesson 45. Expect seven to nine focused hours.
 
 ## Learning objectives
 
-- Derive the Euler Lagrange equation for a field by varying the action and integrating by parts in four dimensions.
+- Derive the Euler–Lagrange equation for a field by varying the action and integrating by parts in four dimensions.
 
 - State the equation for a system of several fields and for complex fields treated as independent variables.
 
 - Compute the derivatives ∂ℒ/∂(∂_μφ) correctly, keeping track of index positions.
 
-- Derive the Klein Gordon equation, including the nonlinear case with a φ⁴ interaction.
+- Derive the Klein–Gordon equation, including the nonlinear case with a φ⁴ interaction.
 
 - Derive the Dirac equation and its adjoint from the Dirac Lagrangian density.
 
@@ -25,7 +25,7 @@ Once the general equation is in hand it is applied in turn to each field. The sc
 
 - Write Hamilton's equations for a field using functional derivatives.
 
-- Solve the static sourced Klein Gordon equation and relate the range of the resulting Yukawa potential to the mass of the field.
+- Solve the static sourced Klein–Gordon equation and relate the range of the resulting Yukawa potential to the mass of the field.
 
 ## Notation and conventions
 
@@ -65,11 +65,11 @@ Because δφ is arbitrary, the fundamental lemma of the calculus of variations, 
 
 $$ ∂ℒ/∂φ − ∂_μ [ ∂ℒ/∂(∂_μφ) ] = 0
 
-This is the Euler Lagrange equation for a field. When there are several fields φ_a, each can be varied independently, and there is one equation of this form for each of them, with ℒ depending on all the fields and their gradients. The equation is a covariant statement: if ℒ is a Lorentz scalar, both terms are scalars, so the field equation has the same form in every frame.
+This is the Euler–Lagrange equation for a field. When there are several fields φ_a, each can be varied independently, and there is one equation of this form for each of them, with ℒ depending on all the fields and their gradients. The equation is a covariant statement: if ℒ is a Lorentz scalar, both terms are scalars, so the field equation has the same form in every frame.
 
 ### Worked example 1
 
-Show that the equation reduces to the particle equation of Lesson 5. Suppose the fields depend only on time, so that a single coordinate q(t) replaces φ(t, x) and ℒ becomes the ordinary Lagrangian L(q, q̇). Then the only nonzero derivative is ∂_0q = q̇, and the equation is ∂L/∂q − d/dt(∂L/∂q̇) = 0, the Euler Lagrange equation of Lesson 5, Section 2.2. A particle is a field in zero space dimensions, and the general equation includes the mechanics of Part I as its simplest case.
+Show that the equation reduces to the particle equation of Lesson 5. Suppose the fields depend only on time, so that a single coordinate q(t) replaces φ(t, x) and ℒ becomes the ordinary Lagrangian L(q, q̇). Then the only nonzero derivative is ∂_0q = q̇, and the equation is ∂L/∂q − d/dt(∂L/∂q̇) = 0, the Euler–Lagrange equation of Lesson 5, Section 2.2. A particle is a field in zero space dimensions, and the general equation includes the mechanics of Part I as its simplest case.
 
 ## 1.4 Index conventions
 
@@ -77,21 +77,21 @@ The derivative with respect to a lowered-index quantity produces a raised index,
 
 # 2 The scalar field
 
-## 2.1 The Klein Gordon equation
+## 2.1 The Klein–Gordon equation
 
 For ℒ = (1/2)∂_αφ∂^αφ − (1/2)m²φ², the derivative with respect to φ is ∂ℒ/∂φ = −m²φ. To differentiate the kinetic term with respect to ∂_μφ, write it as (1/2)g^(αβ)∂_αφ∂_βφ. The derivative acts on each of the two factors, and by the symmetry of g^(αβ) the two contributions are equal.
 
 $$ ∂[ (1/2) g^(αβ) ∂_αφ ∂_βφ ] / ∂(∂_μφ) = (1/2)(g^(μβ)∂_βφ + g^(αμ)∂_αφ) = ∂^μφ
 
-Then ∂_μ[∂ℒ/∂(∂_μφ)] = ∂_μ∂^μφ = □φ, and the Euler Lagrange equation reads −m²φ − □φ = 0, that is
+Then ∂_μ[∂ℒ/∂(∂_μφ)] = ∂_μ∂^μφ = □φ, and the Euler–Lagrange equation reads −m²φ − □φ = 0, that is
 
 $$ (□ + m²) φ = 0
 
-the Klein Gordon equation. In components, ∂ℒ/∂φ̇ = φ̇ and ∂ℒ/∂(∂ᵢφ) = −∂ᵢφ, so the equation is −m²φ − φ̈ + ∇²φ = 0, the same equation, confirming the index bookkeeping. The equation that in Lesson 17 was postulated by the operator substitution E → i∂_t, p → −i∇ now follows from a variational principle.
+the Klein–Gordon equation. In components, ∂ℒ/∂φ̇ = φ̇ and ∂ℒ/∂(∂ᵢφ) = −∂ᵢφ, so the equation is −m²φ − φ̈ + ∇²φ = 0, the same equation, confirming the index bookkeeping. The equation that in Lesson 17 was postulated by the operator substitution E → i∂_t, p → −i∇ now follows from a variational principle.
 
 ## 2.2 The complex field
 
-For ℒ = ∂_μφ*∂^μφ − m²φ*φ, write φ = a + ib with a and b real, so that varying the real and imaginary parts independently is equivalent to varying φ and φ* independently (the combinations δφ = δa + iδb and δφ* = δa − iδb span the same space). Varying φ* gives ∂ℒ/∂φ* = −m²φ and ∂ℒ/∂(∂_μφ*) = ∂^μφ, so the Euler Lagrange equation is (□ + m²)φ = 0. Varying φ gives ∂ℒ/∂φ = −m²φ* and ∂ℒ/∂(∂_μφ) = ∂^μφ*, so (□ + m²)φ* = 0. Both the field and its conjugate obey the Klein Gordon equation, consistent with the treatment of Lesson 17. The trick of treating φ and φ* as independent is the field-theoretic counterpart of treating q and p as independent in Lesson 6.
+For ℒ = ∂_μφ*∂^μφ − m²φ*φ, write φ = a + ib with a and b real, so that varying the real and imaginary parts independently is equivalent to varying φ and φ* independently (the combinations δφ = δa + iδb and δφ* = δa − iδb span the same space). Varying φ* gives ∂ℒ/∂φ* = −m²φ and ∂ℒ/∂(∂_μφ*) = ∂^μφ, so the Euler–Lagrange equation is (□ + m²)φ = 0. Varying φ gives ∂ℒ/∂φ = −m²φ* and ∂ℒ/∂(∂_μφ) = ∂^μφ*, so (□ + m²)φ* = 0. Both the field and its conjugate obey the Klein–Gordon equation, consistent with the treatment of Lesson 17. The trick of treating φ and φ* as independent is the field-theoretic counterpart of treating q and p as independent in Lesson 6.
 
 ## 2.3 An interaction makes the equation nonlinear
 
@@ -109,7 +109,7 @@ Show that the sum of two solutions of the φ⁴ equation is not a solution. Let 
 
 ## 3.1 Varying ψ̄
 
-Treat ψ and ψ̄ as independent fields, as for φ and φ* above. The Dirac Lagrangian density ℒ = ψ̄(iγ^μ∂_μ − m)ψ contains no derivative of ψ̄, so ∂ℒ/∂(∂_μψ̄) = 0 and ∂ℒ/∂ψ̄ = (iγ^μ∂_μ − m)ψ. The Euler Lagrange equation for ψ̄ is therefore
+Treat ψ and ψ̄ as independent fields, as for φ and φ* above. The Dirac Lagrangian density ℒ = ψ̄(iγ^μ∂_μ − m)ψ contains no derivative of ψ̄, so ∂ℒ/∂(∂_μψ̄) = 0 and ∂ℒ/∂ψ̄ = (iγ^μ∂_μ − m)ψ. The Euler–Lagrange equation for ψ̄ is therefore
 
 $$ (iγ^μ∂_μ − m) ψ = 0
 
@@ -117,7 +117,7 @@ the Dirac equation of Lesson 19, obtained here without any of the algebra of Les
 
 ## 3.2 Varying ψ
 
-Writing the Lagrangian density as ℒ = iψ̄γ^μ∂_μψ − mψ̄ψ, the derivatives with respect to ψ are ∂ℒ/∂ψ = −mψ̄ and ∂ℒ/∂(∂_μψ) = iψ̄γ^μ, with the matrix index of γ^μ contracted with the row index of ψ̄. The Euler Lagrange equation for ψ is −mψ̄ − ∂_μ(iψ̄γ^μ) = 0, that is
+Writing the Lagrangian density as ℒ = iψ̄γ^μ∂_μψ − mψ̄ψ, the derivatives with respect to ψ are ∂ℒ/∂ψ = −mψ̄ and ∂ℒ/∂(∂_μψ) = iψ̄γ^μ, with the matrix index of γ^μ contracted with the row index of ψ̄. The Euler–Lagrange equation for ψ is −mψ̄ − ∂_μ(iψ̄γ^μ) = 0, that is
 
 $$ −i (∂_μψ̄) γ^μ − m ψ̄ = 0
 
@@ -139,7 +139,7 @@ which follows from expanding F_αβF^(αβ) = 2∂_αA_β∂^αA^β − 2∂_αA
 
 ## 4.2 The Maxwell equations
 
-The Euler Lagrange equation for A_ν is ∂ℒ/∂A_ν − ∂_μ[∂ℒ/∂(∂_μA_ν)] = 0, that is −j^ν + ∂_μF^(μν) = 0.
+The Euler–Lagrange equation for A_ν is ∂ℒ/∂A_ν − ∂_μ[∂ℒ/∂(∂_μA_ν)] = 0, that is −j^ν + ∂_μF^(μν) = 0.
 
 $$ ∂_μ F^(μν) = j^ν
 
@@ -147,7 +147,7 @@ These are the inhomogeneous Maxwell equations in the covariant form previewed in
 
 ### Worked example 4
 
-Verify that the ν = 0 component of ∂_μF^(μν) = j^ν is Gauss's law. With F₀ᵢ = Eᵢ (Lesson 8, Section 7.2) and F^(0i) = −Eᵢ, F^(i0) = +Eᵢ. Since F^(00) = 0, ∂_μF^(μ0) = ∂ᵢF^(i0) = ∂ᵢEᵢ = ∇·E, and the equation reads ∇·E = j⁰ = ρ, Gauss's law in Heaviside Lorentz units (Lesson 7, Section 7.1).
+Verify that the ν = 0 component of ∂_μF^(μν) = j^ν is Gauss's law. With F₀ᵢ = Eᵢ (Lesson 8, Section 7.2) and F^(0i) = −Eᵢ, F^(i0) = +Eᵢ. Since F^(00) = 0, ∂_μF^(μ0) = ∂ᵢF^(i0) = ∂ᵢEᵢ = ∇·E, and the equation reads ∇·E = j⁰ = ρ, Gauss's law in Heaviside–Lorentz units (Lesson 7, Section 7.1).
 
 The spatial components ν = i give the Ampère Maxwell law. With the convention Fᵢⱼ = −εᵢⱼₖBₖ (which follows from Aᵢ = −Aⁱ) one has F^(ji) = Fⱼᵢ = εᵢⱼₖBₖ, so ∂_μF^(μi) = ∂_tF^(0i) + ∂ⱼF^(ji) = −∂_tEᵢ + (∇×B)ᵢ = jⁱ, that is ∇×B = j + ∂E/∂t (Exercise 9).
 
@@ -177,13 +177,13 @@ $$ φ̇ = δH/δπ,    π̇ = −δH/δφ
 
 ## 5.2 The scalar field
 
-For ℋ = (1/2)π² + (1/2)(∇φ)² + (1/2)m²φ², δH/δπ = π and δH/δφ = m²φ − ∇²φ, so Hamilton's equations are φ̇ = π and π̇ = ∇²φ − m²φ. Differentiating the first and substituting the second gives φ̈ = ∇²φ − m²φ, that is (□ + m²)φ = 0, the Klein Gordon equation once more, this time from the Hamiltonian formulation (Exercise 12). The pair of equations, each first order in time, is the field version of q̇ = p/m, ṗ = −mω²q for the oscillator of Lesson 6, and it is the starting point for the canonical quantization of Lesson 32, where φ and π become operators with a commutator playing the role of the Poisson bracket.
+For ℋ = (1/2)π² + (1/2)(∇φ)² + (1/2)m²φ², δH/δπ = π and δH/δφ = m²φ − ∇²φ, so Hamilton's equations are φ̇ = π and π̇ = ∇²φ − m²φ. Differentiating the first and substituting the second gives φ̈ = ∇²φ − m²φ, that is (□ + m²)φ = 0, the Klein–Gordon equation once more, this time from the Hamiltonian formulation (Exercise 12). The pair of equations, each first order in time, is the field version of q̇ = p/m, ṗ = −mω²q for the oscillator of Lesson 6, and it is the starting point for the canonical quantization of Lesson 32, where φ and π become operators with a commutator playing the role of the Poisson bracket.
 
 # 6 A sourced field and the range of a force
 
 ## 6.1 The static equation
 
-Add a source to the scalar Lagrangian density, ℒ = (1/2)∂_μφ∂^μφ − (1/2)m²φ² + Jφ. The Euler Lagrange equation is (□ + m²)φ = J. For a time-independent source and a static solution, □ = −∇², so
+Add a source to the scalar Lagrangian density, ℒ = (1/2)∂_μφ∂^μφ − (1/2)m²φ² + Jφ. The Euler–Lagrange equation is (□ + m²)φ = J. For a time-independent source and a static solution, □ = −∇², so
 
 $$ (−∇² + m²) φ(x) = J(x)
 
@@ -204,9 +204,9 @@ Estimate the range of the force mediated by a field of mass 100 GeV. In natural 
 # 7 Connections to QED
 
 @widths 3264 6528
-| Euler Lagrange idea | Later role in QED |
+| Euler–Lagrange idea | Later role in QED |
 | General equation ∂ℒ/∂φ − ∂_μ[∂ℒ/∂(∂_μφ)] = 0 | Gives the equations of motion of every field in the QED Lagrangian (Lesson 41) |
-| Klein Gordon equation from the scalar Lagrangian density | Free field equation solved by the mode expansion of Lesson 32 |
+| Klein–Gordon equation from the scalar Lagrangian density | Free field equation solved by the mode expansion of Lesson 32 |
 | Nonlinear terms produce interactions | Interaction terms of the QED Lagrangian generate the vertices of the Feynman rules (Lessons 44 and 48) |
 | Dirac and adjoint Dirac equations from varying ψ̄ and ψ | The free electron field quantized in Lesson 35; consistency with the current of Lesson 23 |
 | ∂_μF^(μν) = j^ν | Covariant Maxwell equations, with the electron current as the source (Lesson 42) |
@@ -214,23 +214,23 @@ Estimate the range of the force mediated by a field of mass 100 GeV. In natural 
 | Yukawa potential and range 1/m | Exchange of virtual particles; the photon propagator gives the Coulomb potential (Lessons 45 and 47) |
 | Hamilton's equations with functional derivatives | Canonical quantization of scalar, Dirac, and electromagnetic fields (Part V) |
 
-The Euler Lagrange equations of this lesson are classical field equations. In QED they hold as operator equations for the quantized fields, which is why the classical analysis of Parts III and IV is not merely preparation but is the content of the free theory. The nonlinear terms, the products of different fields at one point, are what remain to be treated by perturbation theory in Parts VII and IX.
+The Euler–Lagrange equations of this lesson are classical field equations. In QED they hold as operator equations for the quantized fields, which is why the classical analysis of Parts III and IV is not merely preparation but is the content of the free theory. The nonlinear terms, the products of different fields at one point, are what remain to be treated by perturbation theory in Parts VII and IX.
 
 # 8 Summary
 
 1. Varying the action S = ∫d⁴x ℒ with fixed boundary values and integrating by parts in four dimensions gives ∂ℒ/∂φ − ∂_μ[∂ℒ/∂(∂_μφ)] = 0 for each field.
 
-2. For a field depending only on time the equation reduces to the particle Euler Lagrange equation of Lesson 5.
+2. For a field depending only on time the equation reduces to the particle Euler–Lagrange equation of Lesson 5.
 
-3. The scalar Lagrangian density gives the Klein Gordon equation; a φ⁴ term makes the equation nonlinear and superposition fails.
+3. The scalar Lagrangian density gives the Klein–Gordon equation; a φ⁴ term makes the equation nonlinear and superposition fails.
 
-4. A complex field and its conjugate are varied independently and each obeys the Klein Gordon equation.
+4. A complex field and its conjugate are varied independently and each obeys the Klein–Gordon equation.
 
 5. The Dirac Lagrangian density gives the Dirac equation on varying ψ̄ and the adjoint Dirac equation on varying ψ.
 
 6. The electromagnetic Lagrangian density gives ∂_μF^(μν) = j^ν; the homogeneous equations are an identity, and current conservation follows from the antisymmetry of F^(μν).
 
-7. Hamilton's equations for a field, φ̇ = δH/δπ and π̇ = −δH/δφ, reproduce the Klein Gordon equation.
+7. Hamilton's equations for a field, φ̇ = δH/δπ and π̇ = −δH/δφ, reproduce the Klein–Gordon equation.
 
 8. A static point source of a massive scalar field produces the Yukawa potential ge^(−mr)/(4πr), with a range 1/m set by the mass of the field.
 
@@ -238,9 +238,9 @@ The Euler Lagrange equations of this lesson are classical field equations. In QE
 
 @widths 720 9072
 | No | Problem |
-| 1 | Derive the Euler Lagrange equation for a field from δS = 0, identifying the boundary term that is discarded and the condition on δφ that allows it to be discarded. |
+| 1 | Derive the Euler–Lagrange equation for a field from δS = 0, identifying the boundary term that is discarded and the condition on δφ that allows it to be discarded. |
 | 2 | For ℒ = (1/2)∂_μφ₁∂^μφ₁ + (1/2)∂_μφ₂∂^μφ₂ − (1/2)m₁²φ₁² − (1/2)m₂²φ₂² − (g/2)φ₁φ₂², derive the equations of motion for φ₁ and φ₂. |
-| 3 | For the real scalar field, write ℒ = (1/2)φ̇² − (1/2)(∂ᵢφ)² − (1/2)m²φ² and evaluate ∂ℒ/∂φ̇ and ∂ℒ/∂(∂ᵢφ), then obtain the Klein Gordon equation from the component form of the Euler Lagrange equation. |
+| 3 | For the real scalar field, write ℒ = (1/2)φ̇² − (1/2)(∂ᵢφ)² − (1/2)m²φ² and evaluate ∂ℒ/∂φ̇ and ∂ℒ/∂(∂ᵢφ), then obtain the Klein–Gordon equation from the component form of the Euler–Lagrange equation. |
 | 4 | For the φ⁴ theory, derive (□ + m²)φ = −(λ/6)φ³ and show that φ = constant is a solution only if the constant satisfies m²φ + (λ/6)φ³ = 0. |
 | 5 | For the complex scalar field, derive the equations for φ and φ* by varying φ* and φ respectively, and explain why the two variations are independent. |
 | 6 | Derive the adjoint Dirac equation −i(∂_μψ̄)γ^μ − mψ̄ = 0 by varying ψ in ℒ = ψ̄(iγ^μ∂_μ − m)ψ. |
@@ -249,7 +249,7 @@ The Euler Lagrange equations of this lesson are classical field equations. In QE
 | 9 | Using F₀ᵢ = Eᵢ and Fᵢⱼ = −εᵢⱼₖBₖ, show that the ν = i component of ∂_μF^(μν) = j^ν gives ∇×B − ∂_tE = j. |
 | 10 | Show that ∂_ν∂_μF^(μν) = 0 for any antisymmetric F^(μν) with smooth components, and conclude that ∂_νj^ν = 0. |
 | 11 | Show that ∂_μF^(μν) = □A^ν − ∂^ν(∂_μA^μ), and conclude that in the Lorenz gauge ∂_μA^μ = 0 the Maxwell equation reduces to □A^ν = j^ν. |
-| 12 | For the scalar Hamiltonian density, compute δH/δφ and δH/δπ, write Hamilton's equations, and eliminate π to recover the Klein Gordon equation. |
+| 12 | For the scalar Hamiltonian density, compute δH/δφ and δH/δπ, write Hamilton's equations, and eliminate π to recover the Klein–Gordon equation. |
 | 13 | Verify that (−∇² + m²)(e^(−mr)/r) = 0 for r > 0, and compute the range ℏc/(mc²) for m = 139.6 MeV using ℏc = 197.3 MeV fm. |
 | 14 | Show that the equation (□ + m²)φ = J for a static source J(x) reduces to (−∇² + m²)φ = J, and find the solution for a source J = g₁δ³(x − x₁) + g₂δ³(x − x₂) as a sum of two Yukawa functions. |
 | 15 | Explain what would be added to the derivation of Section 1 if the variation δφ did not vanish on the boundary of Ω, and why the field equation itself is unaffected. |
@@ -291,11 +291,11 @@ The Euler Lagrange equations of this lesson are classical field equations. In QE
 
 # Mastery checklist
 
-- I can derive the Euler Lagrange equation for a field by varying the action and integrating by parts, stating why the boundary term vanishes.
+- I can derive the Euler–Lagrange equation for a field by varying the action and integrating by parts, stating why the boundary term vanishes.
 
 - I can compute ∂ℒ/∂(∂_μφ) with the correct index positions and check the result in components.
 
-- I can derive the Klein Gordon equation, including the nonlinear case with a φ⁴ term.
+- I can derive the Klein–Gordon equation, including the nonlinear case with a φ⁴ term.
 
 - I can treat φ and φ* (and ψ and ψ̄) as independent variables and derive both equations.
 
@@ -305,4 +305,4 @@ The Euler Lagrange equations of this lesson are classical field equations. In QE
 
 - I can write Hamilton's equations for a scalar field using functional derivatives.
 
-- I can solve the static sourced Klein Gordon equation and relate the range of the Yukawa potential to the mass of the field.
+- I can solve the static sourced Klein–Gordon equation and relate the range of the Yukawa potential to the mass of the field.

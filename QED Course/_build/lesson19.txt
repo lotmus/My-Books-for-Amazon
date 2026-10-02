@@ -23,7 +23,7 @@ The reward for the effort of Lesson 18 is considerable: the equation constructed
 
 - Solve for a moving particle and exhibit the general positive- and negative-energy spinors.
 
-- Verify that every solution satisfies the Klein Gordon equation component by component, confirming consistency with E²=|p|²+m².
+- Verify that every solution satisfies the Klein–Gordon equation component by component, confirming consistency with E²=|p|²+m².
 
 - State clearly which questions (probability current, spin, antiparticles) remain open and are addressed in the immediately following lessons.
 
@@ -48,7 +48,7 @@ Combining the ansatz of Lesson 18, Section 3.1, with the operator correspondence
 
 $$ i ∂_t ψ = (α·p̂ + βm) ψ = (−iα·∇ + βm) ψ
 
-with ψ a four-component column (a Dirac spinor) and α=(αₓ,αᵧ,α_z), β the 4×4 matrices satisfying the algebra {αᵢ,αⱼ}=2δᵢⱼI, {αᵢ,β}=0, β²=I established in Lesson 18, Section 3.2. This is the Dirac equation in Hamiltonian, or Schrodinger-like, form: first order in time, exactly as required, with a Hamiltonian Ĥ_D=α·p̂+βm acting on a four-component object.
+with ψ a four-component column (a Dirac spinor) and α=(αₓ,αᵧ,α_z), β the 4×4 matrices satisfying the algebra {αᵢ,αⱼ}=2δᵢⱼI, {αᵢ,β}=0, β²=I established in Lesson 18, Section 3.2. This is the Dirac equation in Hamiltonian, or Schrödinger-like, form: first order in time, exactly as required, with a Hamiltonian Ĥ_D=α·p̂+βm acting on a four-component object.
 
 ## 1.2 Hermiticity
 
@@ -110,7 +110,7 @@ This is the Clifford algebra, the defining relation of the gamma matrices, and i
 
 Verify {γ¹,γ¹}=−2 directly from the definition γ¹=βαₓ. (γ¹)² = βαₓβαₓ = −αₓββαₓ (using βαₓ=−αₓβ) = −αₓβ²αₓ = −αₓ²=−I (using β²=I and αₓ²=I), so {γ¹,γ¹}=2(γ¹)²=−2I, matching 2g¹¹I=2(−1)I=−2I exactly.
 
-# 4 Consistency with the Klein Gordon equation
+# 4 Consistency with the Klein–Gordon equation
 
 ## 4.1 Squaring the Dirac operator
 
@@ -122,7 +122,7 @@ Since ∂_ν∂_μ is symmetric in ν,μ (partial derivatives commute), only the
 
 $$ (−□ − m²)ψ = 0,    that is  (□+m²)ψ = 0
 
-Every component of the Dirac spinor ψ therefore separately satisfies the Klein Gordon equation of Lesson 17. This confirms, exactly as demanded in Lesson 18, that the Dirac equation is consistent with E²=|p|²+m²; it is, in a precise sense, a "square root" of the Klein Gordon equation, achieved not through an infinite series of derivatives (Lesson 18, Section 2) but through the finite, purely algebraic device of the gamma matrices.
+Every component of the Dirac spinor ψ therefore separately satisfies the Klein–Gordon equation of Lesson 17. This confirms, exactly as demanded in Lesson 18, that the Dirac equation is consistent with E²=|p|²+m²; it is, in a precise sense, a "square root" of the Klein–Gordon equation, achieved not through an infinite series of derivatives (Lesson 18, Section 2) but through the finite, purely algebraic device of the gamma matrices.
 
 ### Worked example 3
 
@@ -217,7 +217,7 @@ Preview, without derivation, the resolution of the current question. Lesson 23 w
 | Ĥ_D = α·p̂+βm, four-component ψ | The free electron field, before interactions are introduced (Lesson 35) |
 | γ^μ and the Clifford algebra {γ^μ,γ^ν}=2g^μν | Foundation for every trace and contraction computed in scattering calculations (Lesson 20 onward) |
 | (iγ^μ∂_μ−m)ψ=0, or (i∂̸−m)ψ=0 | The kinetic term of the QED Lagrangian, ψ̄(iγ^μ∂_μ−m)ψ (Lesson 41) |
-| Dirac equation squares to the Klein Gordon equation | Guarantees every component of ψ has the correct relativistic dispersion relation |
+| Dirac equation squares to the Klein–Gordon equation | Guarantees every component of ψ has the correct relativistic dispersion relation |
 | u(p), the positive-energy spinor | External electron (or positron) lines in every Feynman diagram (Lesson 51) |
 | v(p), the negative-energy spinor | External antiparticle lines, once Lesson 22 completes the reinterpretation |
 | Covariant normalization u†(p)u(p)=2E_p | Standard convention for spinor sums and cross-section formulas throughout Part VIII |
@@ -232,7 +232,7 @@ The explicit spinor forms of Sections 6.2 and 6.3, u(p) and v(p), are not merely
 
 3. Defining γ⁰=β and γⁱ=βαⁱ gives the covariant form (iγ^μ∂_μ−m)ψ=0, with the gamma matrices satisfying the Clifford algebra {γ^μ,γ^ν}=2g^μν.
 
-4. Squaring the Dirac operator reproduces the Klein Gordon equation for every component of ψ, confirming consistency with E²=|p|²+m².
+4. Squaring the Dirac operator reproduces the Klein–Gordon equation for every component of ψ, confirming consistency with E²=|p|²+m².
 
 5. At rest, the equation has four independent solutions: two with E=+m and two with E=−m, each carrying a two-fold spin label.
 
@@ -257,10 +257,10 @@ The explicit spinor forms of Sections 6.2 and 6.3, u(p) and v(p), are not merely
 | 9 | Show that (σ·p)²=\|p\|²I₂ for any three-vector p, using the Pauli matrix identity σᵢσⱼ=δᵢⱼI+iεᵢⱼₖσₖ. |
 | 10 | Verify the dispersion-relation consistency check of Section 6.2, E_p(E_p+m)=\|p\|²+m(E_p+m), algebraically reduces to E_p²=\|p\|²+m². |
 | 11 | Show that as p→0, v(p) of Section 6.3 reduces to the E=−m rest-frame solution of Section 5.2, by the same limiting argument as Worked example 5. |
-| 12 | Verify explicitly that ψ=u(p)e^(−ip·x) satisfies the Klein Gordon equation (□+m²)ψ=0 component by component, using the plane-wave differentiation rules of Lesson 4, Section 6.2, and the dispersion relation E_p²=\|p\|²+m². |
+| 12 | Verify explicitly that ψ=u(p)e^(−ip·x) satisfies the Klein–Gordon equation (□+m²)ψ=0 component by component, using the plane-wave differentiation rules of Lesson 4, Section 6.2, and the dispersion relation E_p²=\|p\|²+m². |
 | 13 | Show that if u(p) satisfies E_pu=(α·p+βm)u, then u also satisfies the covariant equation (p̸−m)u=0, where p̸=γ^μp_μ, by converting the Hamiltonian-form equation to gamma-matrix form using the same manipulation as Section 3.1. |
 | 14 | Using the result of Exercise 13, verify (p̸−m)(p̸+m)u=0 reduces to (p²−m²)u=0 via the Clifford algebra, confirming p²=m² (the on-shell condition) is required, consistent with E_p²=\|p\|²+m². |
-| 15 | Explain, in your own words, why the appearance of both u(p) and v(p) in Sections 6.2 and 6.3 is the direct spinor-level manifestation of the two energy branches already found for the Klein Gordon equation in Lesson 17, Section 2.1. |
+| 15 | Explain, in your own words, why the appearance of both u(p) and v(p) in Sections 6.2 and 6.3 is the direct spinor-level manifestation of the two energy branches already found for the Klein–Gordon equation in Lesson 17, Section 2.1. |
 | 16 | Challenge: show that the two positive-energy spinors u(p) built from χ=(1,0)ᵀ and χ=(0,1)ᵀ are orthogonal, u†(p;χ₁)u(p;χ₂)=0 for χ₁≠χ₂ orthogonal two-spinors, by direct computation using the block form of Section 6.2 and the orthogonality χ₁†χ₂=0. |
 
 # Solutions
@@ -287,13 +287,13 @@ The explicit spinor forms of Sections 6.2 and 6.3, u(p) and v(p), are not merely
 
 **11.** As p→0, the upper block (σ·p)/(E_p+m)χ → 0 in v(p)=N((σ·p)/(E_p+m)χ,χ)ᵀ, leaving v(0)=N(0,χ)ᵀ, exactly the E=−m rest-frame solution of Section 5.2 with u_B=χ.
 
-**12.** Since u(p) is a constant spinor (independent of x), ψ=u(p)e^(−ip·x) has □ψ = (∂_t²−∇²)ψ = (−E_p²+\|p\|²)ψ (each time derivative brings −iE_p, each space derivative brings ip, exactly as in Lesson 4, Section 6.2), so (□+m²)ψ = (−E_p²+\|p\|²+m²)ψ = 0 exactly when E_p²=\|p\|²+m², which holds by construction, confirming the Klein Gordon equation is satisfied component by component (since u(p) multiplies the same scalar exponential in every component).
+**12.** Since u(p) is a constant spinor (independent of x), ψ=u(p)e^(−ip·x) has □ψ = (∂_t²−∇²)ψ = (−E_p²+\|p\|²)ψ (each time derivative brings −iE_p, each space derivative brings ip, exactly as in Lesson 4, Section 6.2), so (□+m²)ψ = (−E_p²+\|p\|²+m²)ψ = 0 exactly when E_p²=\|p\|²+m², which holds by construction, confirming the Klein–Gordon equation is satisfied component by component (since u(p) multiplies the same scalar exponential in every component).
 
 **13.** Multiplying Eu=(α·p+βm)u by γ⁰=β on the left and using βα·p=γ·p (with γ=(γ¹,γ²,γ³)) and β²=I: βEu = γ·p u + mu, that is, Eγ⁰u−γ·pu = mu, or (Eγ⁰−γ·p)u=mu. Since p^μ=(E,p) and p_μ=(E,−p) (Lesson 4), p̸=γ^μp_μ=γ⁰E−γ·p (using γⁱp_i=−γⁱpᵢ from lowering the spatial index), so this is exactly p̸u=mu, that is (p̸−m)u=0.
 
 **14.** (p̸+m)(p̸−m)u = (p̸²−m²)u. Using p̸²=γ^μγ^νp_μp_ν = (1/2){γ^μ,γ^ν}p_μp_ν = g^μνp_μp_ν I = p² I (the symmetric-part argument of Section 4.1, applied to p_μp_ν in place of ∂_μ∂_ν), this becomes (p²−m²)u=0, so p²=m² is required for a nonzero solution u, exactly the on-shell condition p·p=E_p²−\|p\|²=m² of Lesson 4.
 
-**15.** In Lesson 17, the Klein Gordon equation, second order in time, admitted both E=+E_p and E=−E_p plane-wave solutions for every p, and no additional structure distinguished them beyond their overall sign of energy. Here, the same two branches reappear, but each is now dressed with a specific spinor structure, u(p) for the positive branch and v(p) for the negative branch, reflecting that the underlying scalar equation each component satisfies (Section 4.1) still has the same two-branch dispersion relation; the Dirac equation has not removed the negative-energy branch, only clothed it in additional spin structure, exactly as anticipated in Lesson 18, Section 8.2's preview.
+**15.** In Lesson 17, the Klein–Gordon equation, second order in time, admitted both E=+E_p and E=−E_p plane-wave solutions for every p, and no additional structure distinguished them beyond their overall sign of energy. Here, the same two branches reappear, but each is now dressed with a specific spinor structure, u(p) for the positive branch and v(p) for the negative branch, reflecting that the underlying scalar equation each component satisfies (Section 4.1) still has the same two-branch dispersion relation; the Dirac equation has not removed the negative-energy branch, only clothed it in additional spin structure, exactly the question Lesson 18, Section 6.2, left open.
 
 **16.** u(p;χ₁)†u(p;χ₂) = N²[χ₁†χ₂ + χ₁†(σ·p)†(σ·p)/(E_p+m)² χ₂] = N²[χ₁†χ₂ + χ₁†(σ·p)²/(E_p+m)²χ₂] (using (σ·p)†=σ·p, Hermiticity of the Pauli matrices) = N²[1+\|p\|²/(E_p+m)²]χ₁†χ₂ (using (σ·p)²=\|p\|²I from Exercise 9), which vanishes whenever χ₁†χ₂=0, confirming orthogonality of the two spin states carries over directly to the moving-particle spinors.
 
@@ -305,7 +305,7 @@ The explicit spinor forms of Sections 6.2 and 6.3, u(p) and v(p), are not merely
 
 - I can define the gamma matrices from α and β and state the Clifford algebra {γ^μ,γ^ν}=2g^μν.
 
-- I can show, using only the Clifford algebra, that the Dirac equation squares to the Klein Gordon equation.
+- I can show, using only the Clifford algebra, that the Dirac equation squares to the Klein–Gordon equation.
 
 - I can find all four rest-frame solutions of the Dirac equation and identify their energy and spin labels.
 

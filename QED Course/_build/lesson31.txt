@@ -55,7 +55,7 @@ The same conclusion appears in a definite calculation. Consider a Dirac particle
 
 ## 1.3 Processes change the particle number
 
-Real processes change the number of particles. An electron and positron annihilate into two photons; an excited atom emits a photon and drops to a lower state; a photon converts into a pair in the field of a nucleus. In the quantum mechanics of Part II the number of particles is fixed: the wave function ψ(x₁, …, x_N) has a definite N, and the Schrodinger equation preserves it. Such a theory cannot describe any of these processes. The Dirac equation of Part III does not help, since it is still a wave equation for a fixed number of particles, and the antiparticle reinterpretation of Lesson 22 was explicitly acknowledged there to be informal because it needed a framework that changes particle number.
+Real processes change the number of particles. An electron and positron annihilate into two photons; an excited atom emits a photon and drops to a lower state; a photon converts into a pair in the field of a nucleus. In the quantum mechanics of Part II the number of particles is fixed: the wave function ψ(x₁, …, x_N) has a definite N, and the Schrödinger equation preserves it. Such a theory cannot describe any of these processes. The Dirac equation of Part III does not help, since it is still a wave equation for a fixed number of particles, and the antiparticle reinterpretation of Lesson 22 was explicitly acknowledged there to be informal because it needed a framework that changes particle number.
 
 ## 1.4 Spontaneous emission
 

@@ -1,0 +1,229 @@
+TITLE: Local U 1 Gauge Symmetry
+TAGLINE: Promoting a global phase to a local one, discovering the covariant derivative from pure consistency, and the universal coupling it forces on every charged field
+NUM: 38
+NEXT: Lesson 39 specializes the general argument of this lesson to the Dirac field alone, expands the covariant derivative explicitly, and identifies the resulting interaction term with the classical couplings already met in Lessons 5, 8, and 25, showing all three to be the same physical fact seen at different stages of the course.
+
+# How to use this lesson
+
+Lesson 30 closed with a preview: promoting the Dirac field's global phase symmetry, ψ → e^(−iqα)ψ, to a local one, ψ → e^(−iqα(x))ψ, breaks the free Lagrangian's invariance by a term proportional to ∂_μα, and adding the field A_μ with the coupling −qψ̄γ^μψA_μ and the transformation A_μ → A_μ + ∂_μα repairs it exactly. That preview verified the mechanism for one field. This lesson steps back and asks what makes the mechanism work at all, running the logic in a different order: rather than guessing the cure and checking that it works, Section 2 derives the form the cure must take from consistency alone, for a field of any spin and any charge, echoing the method Lesson 18 used to derive the Dirac equation itself from pure algebraic necessity.
+
+The payoff is a principle rather than a calculation. Once the covariant derivative D_μ = ∂_μ + iqA_μ is shown to be forced by locality, the same A_μ, transforming the same way, couples to every charged field with a strength set only by that field's own charge q. This universality, checked explicitly for the complex scalar field as well as the Dirac field in Section 3, is the sense in which electromagnetism is not one interaction among many equally good choices but the unique consequence of insisting that a phase convention need not be coordinated across the universe. Expect six to eight focused hours.
+
+## Learning objectives
+
+- State the difference between a global and a local symmetry, and between an internal symmetry and a spacetime symmetry.
+
+- Show that ∂_μφ fails to transform homogeneously under a local phase rotation, for a field of any charge q.
+
+- Derive, from the requirement that D_μφ transform homogeneously, that D_μ must have the form ∂_μ + iqA_μ for some new field A_μ, and derive A_μ's transformation law as a consequence, not a postulate.
+
+- Apply the derivation to the complex scalar field of Lesson 30, Section 1.3, and confirm it gives the same A_μ and the same transformation law as for the Dirac field.
+
+- State the principle of minimal coupling in its general form and connect it to the specific instances already met in Lessons 6 and 8.
+
+- Explain why the argument requires no assumption about the spin, mass, or other properties of the charged field beyond its charge q.
+
+- Preview the identity [D_μ, D_ν] = iqF_μν and explain, without deriving it, why it shows the field strength is already implicit in the covariant derivative.
+
+- Explain, in a sentence, why a local symmetry is the natural kind of symmetry for a relativistic theory to have, extending Lesson 30, Section 5.4.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| φ | A generic field of charge q, standing for either the complex scalar or the Dirac field in this lesson |
+| q | Charge of the field, in the units of Lesson 30 (q = −e for the electron) |
+| α(x) | Local gauge parameter, a real function of spacetime |
+| D_μ | Covariant derivative, to be derived, not assumed, in Section 2 |
+| A_μ | Gauge field, introduced as the unique object that makes D_μ possible |
+| Global symmetry | A transformation with a single, spacetime-independent parameter |
+| Local (gauge) symmetry | A transformation whose parameter is an arbitrary function of spacetime |
+| Internal symmetry | A symmetry acting on the values a field takes, not on spacetime itself, contrasted with the Poincaré symmetries of Lesson 4 |
+
+# 1 Global versus local, internal versus spacetime
+
+## 1.1 Two independent distinctions
+
+A symmetry transformation is global if it uses the same parameter at every point of spacetime, and local if the parameter is allowed to be an arbitrary function α(x). This is one distinction. A separate distinction is between a spacetime symmetry, such as the Lorentz transformations and translations of Lesson 4, which act on the coordinates x^μ themselves, and an internal symmetry, such as the U(1) phase rotation of Lesson 30, which acts only on the value a field takes at a fixed point, leaving x^μ untouched. The phase symmetry ψ → e^(−iqα)ψ is a global, internal symmetry in its original form; this lesson studies what happens when it is made a local, internal symmetry, its parameter promoted from a constant to α(x).
+
+## 1.2 Why the promotion is not automatic
+
+Nothing about the free Lagrangians of Lessons 25 and 30 requires the phase convention chosen for ψ to be the same at two different points; the choice of what "phase zero" means for the electron field at a point in a laboratory on Earth has no logical connection to the choice at a point on the far side of the galaxy, and nothing in the physics of an isolated, noninteracting field should care whether the two choices happen to agree. Lesson 30, Section 5.4, made this observation already; this lesson takes it as the starting point rather than the conclusion, and asks what a theory with no such requirement must look like.
+
+### Worked example 1
+
+Contrast a global phase rotation with a Lorentz boost as two different kinds of symmetry. A Lorentz boost (Lesson 4) is a spacetime symmetry: it moves the point x^μ to a new point Λ^μ_νx^ν and correspondingly reshuffles the components of any field with spacetime indices, such as A^μ. A global phase rotation ψ → e^(−iqα)ψ is an internal symmetry: the point x^μ is untouched, and only the internal, complex-number value of ψ at that unchanged point is multiplied by a phase. The two kinds of symmetry are logically independent, and the gauge principle developed in this lesson concerns only the internal one; the electromagnetic field's Lorentz transformation properties were already fixed, independently, in Lesson 4 and Lesson 8.
+
+# 2 Deriving the covariant derivative
+
+## 2.1 The obstruction, for a generic field
+
+Let φ be any field, of any spin, carrying charge q under the global transformation φ → e^(−iqα)φ (for the Dirac field, φ stands for ψ; for the complex scalar, for the φ of Lesson 30, Section 1.3). Promote α to a function of x and differentiate.
+
+$$ ∂_μ ( e^(−iqα(x)) φ ) = e^(−iqα(x)) [ ∂_μφ − iq(∂_μα)φ ]
+
+The bracket is not simply ∂_μφ; it carries an extra term −iq(∂_μα)φ, proportional to the gradient of the gauge parameter. This calculation used nothing about φ beyond its transformation law, so it applies equally to a scalar, a Dirac spinor, or any other field of charge q: the ordinary derivative of any charged field fails to transform homogeneously the moment the phase is allowed to vary with position. This is the precise statement, for a generic field, of what Lesson 30, Section 5.2, found specifically for ψ̄iγ^μ∂_μψ.
+
+## 2.2 What a repaired derivative would have to satisfy
+
+Suppose a new operator D_μ exists, built from ∂_μ and possibly other fields, with the property that it reproduces φ's own transformation law rather than acquiring an extra term.
+
+$$ D_μ φ → e^(−iqα(x)) D_μφ    (the property demanded of D_μ)
+
+If such an operator exists, then any Lagrangian built from φ, φ̄ (or φ*), and D_μφ in place of ∂_μφ, with every free index contracted exactly as in the original Lagrangian, is automatically invariant under the local transformation, by the same cancellation of phases that made the global Lagrangian invariant in Lesson 30, Section 1: replacing ∂_μφ by D_μφ everywhere it appears, and nowhere else, is enough. The problem of restoring the symmetry has been reduced to the problem of finding an operator with this one property.
+
+## 2.3 The unique solution
+
+Try D_μ = ∂_μ + iqA_μ, with A_μ an as-yet-unknown field, and demand the transformation property of Section 2.2. Since D_μφ = ∂_μφ + iqA_μφ, and Section 2.1 already computed how ∂_μφ transforms, what is needed is a compensating change in A_μ that cancels the unwanted −iq(∂_μα)φ term exactly.
+
+$$ D_μφ → e^(−iqα)[∂_μφ − iq(∂_μα)φ] + iq A_μ′ e^(−iqα)φ
+
+where A_μ′ is A_μ evaluated after whatever transformation it undergoes. For this to equal e^(−iqα)D_μφ = e^(−iqα)[∂_μφ + iqA_μφ], the bracketed terms must match after dividing through by the common factor e^(−iqα):
+
+$$ −iq(∂_μα)φ + iqA_μ′φ = iqA_μφ    ⟹    A_μ′ = A_μ + ∂_μα
+
+The gauge field's transformation law, A_μ → A_μ + ∂_μα, is not an independent postulate here; it is derived, forced by the single requirement that D_μφ transform the same way φ itself does. This is exactly the gauge transformation of the electromagnetic potential met classically in Lesson 8, Section 3, and reconciled there with the sign convention of that lesson (χ = −α, Lesson 30, Section 5.3). No property of φ beyond its charge q entered the derivation: the same A_μ, transforming the same way, works for any field of any spin, provided only that its charge under the global U(1) is q.
+
+### Worked example 2
+
+Verify directly that this A_μ′ makes D_μφ transform correctly, filling in the algebra of Section 2.3 as a single computation. D_μ′(e^(−iqα)φ) = [∂_μ + iq(A_μ+∂_μα)](e^(−iqα)φ) = e^(−iqα)[∂_μφ − iq(∂_μα)φ] + iq(A_μ+∂_μα)e^(−iqα)φ = e^(−iqα)[∂_μφ − iq(∂_μα)φ + iqA_μφ + iq(∂_μα)φ] = e^(−iqα)[∂_μφ + iqA_μφ] = e^(−iqα)D_μφ. The two terms in ∂_μα, one from differentiating the phase and one from the shift in A_μ, cancel exactly, and this cancellation is the entire content of the derivation, algebraically identical to Lesson 30, Exercise 10's check for the Dirac field specifically, now seen to hold for a generic φ by the same steps with no reference to spinor indices at all.
+
+## 2.4 What has and has not been shown
+
+This derivation shows that if a compensating field exists, it must have this specific transformation law, and that with this transformation law the covariant derivative behaves correctly. It does not, by itself, prove that spacetime must contain such a field; that is closer to a postulate than a theorem, motivated by the physical unacceptability of a theory with no local phase freedom, in the sense of Lesson 30, Section 5.4. What is not a postulate, once the field is introduced, is its transformation law or its coupling: both are fixed uniquely by Section 2.3's algebra, with no free choice remaining.
+
+# 3 Universality: the same argument for every field
+
+## 3.1 The complex scalar field
+
+Lesson 30, Section 1.3, gave the complex scalar field the same global transformation, φ → e^(−iqα)φ, as the Dirac field, with the same charge label q. Section 2's derivation used nothing but this transformation law, so it applies verbatim: D_μφ = (∂_μ + iqA_μ)φ transforms homogeneously, with exactly the same A_μ and exactly the same transformation law A_μ → A_μ + ∂_μα found in Section 2.3. Replacing ∂_μφ by D_μφ and ∂_μφ* by D_μφ* = (∂_μ − iqA_μ)φ* (Exercise 6 derives the complex-conjugate rule) in the free Lagrangian of Lesson 30, Section 1.3, gives the gauge-invariant scalar Lagrangian D_μφ*D^μφ − m²φ*φ, describing a charged scalar particle, such as the charged pion mentioned in Lesson 17, coupled to the same electromagnetic field as the electron.
+
+## 3.2 One field, every charge
+
+The field A_μ derived in Section 2.3 carries no reference to which kind of matter field it is coupled to; a single A_μ, with a single transformation law, is the compensating field required by every charged field in the theory simultaneously. Coupling two different fields, say the electron field with charge q_e = −e and a hypothetical scalar field with charge q_s, to the same A_μ via their own covariant derivatives D_μ = ∂_μ + iq_eA_μ and D_μ = ∂_μ + iq_sA_μ respectively, gives a single consistent, locally gauge-invariant theory, because Section 2's derivation of A_μ's transformation law depended only on the general structure of the argument, not on the numerical value of q. This is the precise sense in which the electromagnetic interaction is universal: every electrically charged particle in nature, whatever else distinguishes it, couples to the same photon field with a strength set only by its own charge, a fact that will reappear as the statement that the coupling constant e in the vertex factor of Lesson 44 is the same number for the electron as for the muon, up to a slightly different formula relating it to α (Lesson 43).
+
+### Worked example 3
+
+State what would go wrong if two different charged fields, coupled to two independent gauge fields A_μ^((1)) and A_μ^((2)) transforming with two independent parameters α_1(x) and α_2(x), were used instead of a single shared A_μ. Nothing in the algebra of Section 2 forbids writing down such a theory; it simply describes two separate U(1) gauge symmetries with two separate photon-like fields, one coupled to each kind of matter, and no interaction at all between the two kinds of charge through the gauge sector. This is not what is observed: an electron and a muon, though different particles, respond to the same electromagnetic field, and a single photon mediates forces between them both, which is only possible if they share one A_μ, transforming under one shared local symmetry, exactly the structure Section 3.2 describes.
+
+# 4 Minimal coupling, revisited
+
+## 4.1 What "minimal" means
+
+The prescription ∂_μ → D_μ = ∂_μ + iqA_μ is called minimal coupling because it is the simplest modification of the free theory consistent with local gauge invariance: it adds exactly the one term needed to restore the symmetry, with no further freedom (a term such as qF_μνσ^μν, built from the field strength of Lesson 42 and the spin tensor of Lesson 21, would also be gauge invariant on its own, and such terms are not excluded by symmetry alone, but they are not required by it either, and QED, as it is observed, contains no such additional term at tree level). Lesson 6, Section 6.2, and Lesson 8, Section 8.1, already used the name "minimal coupling" for the substitution p^μ → p^μ − qA^μ, derived there from the classical Hamiltonian of a charged particle by analogy with electromagnetism as already known. This lesson supplies what that earlier appearance lacked: a derivation of the same substitution from a symmetry principle alone, with no appeal to a pre-existing classical theory of electromagnetism to borrow the coupling from.
+
+## 4.2 Closing the loop with Lessons 6 and 8
+
+The classical minimal coupling of Lesson 6 was motivated by matching a known result, the Lorentz force law derived independently in Lesson 5 from the coupling −qA_μdx^μ. The quantum-mechanical minimal coupling of Lesson 8, Section 8.1, was obtained by promoting p^μ to i∂^μ in the classical formula. Both were, at the time, educated guesses confirmed by their consequences rather than derivations from a stated principle. Section 2 of this lesson supplies that principle: demand that the theory admit an arbitrary, position-dependent choice of phase convention for every charged field, and the substitution ∂_μ → ∂_μ + iqA_μ, together with the specific transformation law of A_μ, is the unique consequence. The three appearances of minimal coupling in this course, Lesson 6's classical mechanics, Lesson 8's first pass at quantum mechanics, and this lesson's field-theoretic derivation, are one fact, reached by three different routes.
+
+# 5 A preview: the covariant derivative knows about the field strength
+
+The covariant derivative constructed in Section 2 has one more property, stated here without derivation and proved in Lesson 40.
+
+$$ [D_μ, D_ν] = iq F_μν,    F_μν = ∂_μA_ν − ∂_νA_μ
+
+Two ordinary derivatives always commute, [∂_μ, ∂_ν] = 0, since mixed partial derivatives are equal (Lesson 2, Section 3.1); the covariant derivative does not commute with itself, and the failure is exactly q times the field tensor of Lesson 8, Section 7.2, already identified there as the gauge-invariant content of A_μ. This is a hint of a deeper fact, developed properly once F_μν itself is built into the QED Lagrangian in Lesson 41 and Lesson 42: the curvature-like object F_μν is not a separate ingredient added to the theory by hand, but is already encoded in the covariant derivative forced upon the theory by Section 2's argument, and it measures the extent to which the order of taking two covariant derivatives matters, a fact with a close analogue in the geometry of curved surfaces that this course does not pursue.
+
+# 6 Connections to QED
+
+@widths 3264 6528
+| Local symmetry idea | Later role in QED |
+| Global versus local distinction | Organizes the difference between Lesson 30 (global, a conserved charge) and this lesson (local, a mediating field) |
+| D_μφ → e^(−iqα)D_μφ, derived rather than assumed | The single requirement from which the entire coupling structure of QED follows |
+| A_μ → A_μ + ∂_μα, derived as a consequence | Matches, and completes the derivation begun in, Lesson 8's classical gauge transformation |
+| Universality of the coupling for any charge q | Explains why the same electromagnetic vertex −ieγ^μ (Lesson 44) applies to every charged lepton and quark, with only q differing |
+| Minimal coupling as the unique, simplest cure | Closes the loop with the heuristic minimal coupling of Lessons 6 and 8 |
+| [D_μ, D_ν] = iqF_μν, previewed | Shows F_μν is implicit in D_μ; developed fully in Lesson 40 and used to build the QED Lagrangian in Lesson 41 |
+
+Lesson 39 now specializes this general machinery to the Dirac field specifically, expands D_μ inside the Dirac Lagrangian, and identifies the interaction term −qψ̄γ^μψA_μ as exactly the coupling already met, from a classical point of view, in Lessons 5, 8, and 25. What this lesson has added is the reason that coupling is not one option among several: it is the unique term consistent with a local phase symmetry, for any charged field whatsoever.
+
+# 7 Summary
+
+1. A local symmetry allows its parameter to vary with position; an internal symmetry acts on a field's value, not on spacetime, and the two distinctions are independent.
+
+2. For a field φ of charge q, ∂_μφ fails to transform homogeneously under a local phase rotation, picking up a term −iq(∂_μα)φ, for any spin of φ.
+
+3. Demanding that D_μφ transform homogeneously and trying D_μ = ∂_μ + iqA_μ forces A_μ → A_μ + ∂_μα as the unique compensating transformation, derived rather than guessed.
+
+4. The derivation uses only φ's charge q, so the same A_μ, with the same transformation law, works for the complex scalar field and the Dirac field alike.
+
+5. A single gauge field shared by every charged field, rather than one field per species, is what makes the electromagnetic interaction universal.
+
+6. Minimal coupling, ∂_μ → ∂_μ + iqA_μ, is the unique simplest cure for the broken local symmetry, and it reproduces the heuristic substitutions of Lessons 6 and 8 from a stated principle.
+
+7. The covariant derivative fails to commute with itself, [D_μ,D_ν] = iqF_μν, showing the field strength is implicit in D_μ, a fact developed in Lesson 40.
+
+8. Lesson 39 will specialize this chapter's general argument to the Dirac field and identify the resulting interaction with every classical coupling already introduced in the course.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | State, for each of the following, whether it is a global or local symmetry and whether it is an internal or spacetime symmetry: a spatial rotation (Lesson 4), the phase rotation ψ → e^(−iqα)ψ with constant α (Lesson 30), and a Lorentz boost. |
+| 2 | Verify Section 2.1's calculation, ∂_μ(e^(−iqα(x))φ) = e^(−iqα(x))[∂_μφ − iq(∂_μα)φ], by direct application of the product rule. |
+| 3 | Repeat Section 2.1's calculation for the complex-conjugate field, φ* → e^(iqα(x))φ*, and show that ∂_μφ* picks up the opposite-sign extra term +iq(∂_μα)φ*. |
+| 4 | Using the result of Exercise 3, show that D_μφ* = (∂_μ − iqA_μ)φ* transforms as D_μφ* → e^(iqα)D_μφ*, with A_μ transforming as in Section 2.3. |
+| 5 | Show that D_μ(φ*φ) = ∂_μ(φ*φ) for the D_μ of Section 2.3 and the D_μ of Exercise 4 acting together as an ordinary Leibniz-rule derivative on the product, and interpret this as the statement that the gauge-invariant combination φ*φ needs no covariant derivative to remain gauge invariant. |
+| 6 | Derive the transformation rule for D_μφ* stated in Exercise 4 directly, by an argument parallel to Section 2.3's, rather than by conjugating the result for φ. |
+| 7 | For two independent charged fields φ₁ (charge q₁) and φ₂ (charge q₂) coupled to the same A_μ via D_μφ_i = (∂_μ + iq_iA_μ)φ_i, show that D_μφ_i transforms correctly for each i under the single shared transformation A_μ → A_μ + ∂_μα, ψ_i → e^(−iq_iα)ψ_i. |
+| 8 | Explain why the argument of Exercise 7 would fail if φ₁ and φ₂ were required to use two different gauge parameters α_1 ≠ α_2 while still sharing a single A_μ. |
+| 9 | Write the gauge-invariant Lagrangian density for a charged scalar field explicitly, D_μφ*D^μφ − m²φ*φ, and expand D_μ to identify the three terms: the free scalar Lagrangian, an interaction term linear in A_μ, and a term quadratic in A_μ. |
+| 10 | Compare the linear-in-A_μ term found in Exercise 9 with the Klein Gordon current of Lesson 30, Section 1.3, and show it equals −j^μA_μ with j^μ the current found there. |
+| 11 | Explain why the term quadratic in A_μ found in Exercise 9 has no analogue in the Dirac case, tracing the difference to the fact that D_μ appears twice, on two derivatives, in the scalar kinetic term D_μφ*D^μφ, but only once in the Dirac kinetic term ψ̄iγ^μD_μψ. |
+| 12 | Using [∂_μ, ∂_ν] = 0, show that the commutator [D_μ, D_ν]φ, expanded using D_μ = ∂_μ + iqA_μ, has its ∂_μ∂_ν and ∂_ν∂_μ pieces cancel, leaving only terms with a single derivative acting on A_μ or A_ν. |
+| 13 | Complete the calculation of Exercise 12 to verify [D_μ, D_ν] = iq(∂_μA_ν − ∂_νA_μ) = iqF_μν, filling in the preview of Section 5. |
+| 14 | Explain, referencing Lesson 4, Section 4.4, why F_μν appearing as the commutator of two covariant derivatives is consistent with F_μν being an antisymmetric tensor. |
+| 15 | Suppose a theory had a field of charge q = 0. Show that its covariant derivative reduces to the ordinary derivative, D_μ = ∂_μ, and explain why such a field, if it exists, does not couple to A_μ at all in this minimal-coupling scheme. |
+| 16 | Challenge: using the general argument of Section 2, applied not to a U(1) phase but formally to a transformation φ → φ + α(x)v for a constant vector v (an additive rather than multiplicative local shift), determine what form a compensating "covariant derivative" D_μφ = ∂_μφ − (∂_μα)v would need instead, and explain in one or two sentences why this alternative structure does not describe the electromagnetic case, to clarify by contrast what was special about the multiplicative, phase-rotation structure used throughout this lesson. |
+
+# Solutions
+
+**1.** A spatial rotation is a global (all points rotated by the same angle) spacetime symmetry. The phase rotation with constant α is a global internal symmetry. A Lorentz boost is a global spacetime symmetry (though, unlike a rotation, it also mixes time and space).
+
+**2.** ∂_μ(e^(−iqα(x))φ) = (∂_μe^(−iqα(x)))φ + e^(−iqα(x))∂_μφ = (−iq∂_μα)e^(−iqα)φ + e^(−iqα)∂_μφ = e^(−iqα)[∂_μφ − iq(∂_μα)φ], using the chain rule on the exponential.
+
+**3.** ∂_μ(e^(iqα(x))φ*) = (iq∂_μα)e^(iqα)φ* + e^(iqα)∂_μφ* = e^(iqα)[∂_μφ* + iq(∂_μα)φ*], the sign of the extra term opposite to that for φ, tracking the opposite sign in the exponent.
+
+**4.** D_μφ* = (∂_μ−iqA_μ)φ* → [∂_μ − iq(A_μ+∂_μα)](e^(iqα)φ*) = e^(iqα)[∂_μφ* + iq(∂_μα)φ*] − iq(A_μ+∂_μα)e^(iqα)φ* = e^(iqα)[∂_μφ* + iq(∂_μα)φ* − iqA_μφ* − iq(∂_μα)φ*] = e^(iqα)[∂_μφ* − iqA_μφ*] = e^(iqα)D_μφ*.
+
+**5.** D_μ(φ*φ) as an ordinary product rule gives (D_μφ*)φ + φ*(D_μφ) = [(∂_μ−iqA_μ)φ*]φ + φ*[(∂_μ+iqA_μ)φ] = (∂_μφ*)φ − iqA_μφ*φ + φ*∂_μφ + iqA_μφ*φ = (∂_μφ*)φ + φ*∂_μφ = ∂_μ(φ*φ), the A_μ terms cancelling. Since φ*φ is itself gauge invariant (φ*φ → e^(iqα)e^(−iqα)φ*φ = φ*φ), it is consistent, and expected, that its ordinary derivative already transforms correctly with no need for a covariant one.
+
+**6.** Demand D_μφ* → e^(iqα)D_μφ*, and try D_μφ* = (∂_μ + icA_μ)φ* for an unknown constant c. Using Exercise 3, (∂_μ+icA_μ′)(e^(iqα)φ*) = e^(iqα)[∂_μφ*+iq(∂_μα)φ*] + ic(A_μ+∂_μα)e^(iqα)φ* (using the same A_μ′ = A_μ+∂_μα already derived in Section 2.3, since only one gauge field exists). Matching to e^(iqα)(∂_μ+icA_μ)φ* requires iq(∂_μα)φ* + ic(∂_μα)φ* = 0, so c = −q, confirming D_μφ* = (∂_μ−iqA_μ)φ* independently of Exercise 4's conjugation shortcut.
+
+**7.** For each i, the same calculation as Worked example 2 applies verbatim with q replaced by q_i: D_μφ_i = (∂_μ+iq_iA_μ)φ_i transforms as [∂_μ+iq_i(A_μ+∂_μα)](e^(−iq_iα)φ_i) = e^(−iq_iα)[∂_μφ_i + iq_i(A_μ)φ_i] = e^(−iq_iα)D_μφ_i, the cancellation of the ∂_μα terms occurring independently for each species since each uses its own q_i consistently in both its own phase and its own covariant derivative.
+
+**8.** With two different parameters α_1, α_2, the single A_μ would need to satisfy A_μ → A_μ+∂_μα_1 to repair φ₁'s covariant derivative and simultaneously A_μ → A_μ+∂_μα_2 to repair φ₂'s, two different, generally inconsistent requirements on the same field unless α_1=α_2 identically; a single shared field cannot transform two different ways at once, so a single A_μ requires a single shared gauge parameter.
+
+**9.** D_μφ*D^μφ = (∂_μφ* − iqA_μφ*)(∂^μφ + iqA^μφ) = ∂_μφ*∂^μφ + iqA^μφ∂_μφ* − iqA^μφ*∂_μφ + q²A_μA^μφ*φ. The free term is ∂_μφ*∂^μφ; the quadratic-in-A term is q²A_μA^μφ*φ; the remaining linear-in-A terms combine as iqA^μ(φ∂_μφ* − φ*∂_μφ) = −iqA^μ(φ*∂_μφ−φ∂_μφ*), giving the full Lagrangian ∂_μφ*∂^μφ − m²φ*φ − iqA^μ(φ*∂_μφ−φ∂_μφ*) + q²A_μA^μφ*φ.
+
+**10.** Lesson 30, Section 1.3, gives j^μ = iq(φ*∂^μφ − φ∂^μφ*). The linear term found in Exercise 9 is −iqA^μ(φ*∂_μφ−φ∂_μφ*) = −A^μ·iq(φ*∂_μφ−φ∂_μφ*) = −A^μj_μ = −j^μA_μ, matching the general coupling convention −j^μA_μ of Lesson 25, Section 6.3, exactly, with no sign discrepancy: the current that couples to A_μ in the minimally-coupled scalar Lagrangian is precisely the Noether current of Lesson 30.
+
+**11.** The scalar kinetic term D_μφ*D^μφ contains two covariant derivatives, one on φ and one on φ*, so expanding it produces a term with two factors of A_μ (Exercise 9's q²A_μA^μφ*φ). The Dirac kinetic term ψ̄iγ^μD_μψ contains only one covariant derivative, acting on ψ alone (ψ̄ carries no derivative in this term), so its expansion produces only a term linear in A_μ, with no quadratic counterpart; this qualitative difference between scalar and fermion electrodynamics traces directly to the different number of derivatives in each field's kinetic term.
+
+**12.** [D_μ,D_ν]φ = (∂_μ+iqA_μ)(∂_ν+iqA_ν)φ − (∂_ν+iqA_ν)(∂_μ+iqA_μ)φ. Expanding, the first product gives ∂_μ∂_νφ + iq(∂_μA_ν)φ + iqA_ν∂_μφ + iqA_μ∂_νφ − q²A_μA_νφ, and the second, with μ,ν exchanged, gives ∂_ν∂_μφ + iq(∂_νA_μ)φ + iqA_μ∂_νφ + iqA_ν∂_μφ − q²A_νA_μφ. Subtracting, the ∂_μ∂_νφ and ∂_ν∂_μφ terms cancel (equal by Lesson 2, Section 3.1), and the iqA_ν∂_μφ and iqA_μ∂_νφ terms cancel between the two products as well, leaving only the terms with a single derivative on A.
+
+**13.** What remains after Exercise 12's cancellations is iq(∂_μA_ν)φ − iq(∂_νA_μ)φ − q²A_μA_νφ + q²A_νA_μφ. Since A_μA_ν = A_νA_μ for ordinary (classical, commuting) field values, the last two terms cancel, leaving [D_μ,D_ν]φ = iq(∂_μA_ν−∂_νA_μ)φ = iqF_μνφ, confirming [D_μ,D_ν] = iqF_μν as an operator identity.
+
+**14.** F_μν, defined as ∂_μA_ν − ∂_νA_μ, is manifestly antisymmetric under μ↔ν by construction (Lesson 4, Section 4.4, defines an antisymmetric tensor exactly as one satisfying T^μν = −T^νμ). The commutator [D_μ,D_ν] = −[D_ν,D_μ] is antisymmetric in μ,ν for the same reason any commutator is antisymmetric under exchanging its two arguments, so the identity [D_μ,D_ν]=iqF_μν relates two objects with matching antisymmetry on both sides, consistent as a tensor equation.
+
+**15.** With q=0, D_μ = ∂_μ + i(0)A_μ = ∂_μ, the ordinary derivative, and no term involving A_μ survives anywhere the covariant derivative appears in a Lagrangian built by minimal coupling. Such a field is electrically neutral by definition in this scheme, and it experiences no electromagnetic force, consistent with the general expectation that only charged particles couple to the photon.
+
+**16.** Demanding D_μφ = ∂_μφ − (∂_μα)v transform as φ itself does under φ→φ+α(x)v: (∂_μ)(φ+α(x)v) − (∂_μα)v (with the compensating field, call it B_μ, replacing the −(∂_μα)v term structurally) would need B_μ → B_μ + (something) to cancel the extra ∂_μα·v term generated by differentiating the shift; working through the algebra parallel to Section 2.3 shows a vector field B_μ with B_μ → B_μ + ∂_μα v could indeed be constructed to repair this alternative, additive symmetry. The reason this does not describe electromagnetism is that the physically observed symmetry of the charged fields in nature is multiplicative (a phase rotation, preserving \|φ\|², the probability or charge density of Lesson 23), not additive; an additive shift symmetry of this kind does not preserve any positive-definite density and does not match the observed transformation law of any known field, so while the mathematics of gauge-fixing a compensating field works out formally, the physical input, that the relevant symmetry of matter is a phase rotation, is what selects the U(1) structure used throughout this lesson, not the bare mathematical possibility of building some compensating field for some local symmetry.
+
+# Mastery checklist
+
+- I can state precisely what distinguishes a local symmetry from a global one, and an internal symmetry from a spacetime symmetry.
+
+- I can show that ∂_μφ fails to transform homogeneously under a local phase rotation, for a field of unspecified spin.
+
+- I can derive, rather than merely verify, that D_μ = ∂_μ+iqA_μ requires A_μ → A_μ+∂_μα, by demanding D_μφ transform like φ.
+
+- I can apply the same derivation to the complex scalar field and confirm it gives the identical gauge field and transformation law found for the Dirac field.
+
+- I can explain why a single shared A_μ, rather than one gauge field per charged species, is required for consistency, and why this is the sense in which the coupling is universal.
+
+- I can state the principle of minimal coupling and trace its three appearances in this course, in Lessons 6, 8, and here.
+
+- I can state the identity [D_μ,D_ν] = iqF_μν and explain, without deriving it in full, why it shows F_μν is implicit in the covariant derivative.
+
+- I can explain, in a sentence, why demanding a local rather than global phase symmetry is a physically motivated requirement for a relativistic theory, not an arbitrary mathematical generalization.

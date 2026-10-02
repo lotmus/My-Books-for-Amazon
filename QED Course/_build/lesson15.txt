@@ -144,7 +144,7 @@ Explain qualitatively why the ground state (n=1, nondegenerate) shows no linear 
 
 ## 5.1 The relativistic correction to the kinetic energy
 
-The nonrelativistic hydrogen Hamiltonian, H₀ = p²/2m − e²/4πr (Heaviside Lorentz units of Lesson 7), uses the leading term of the relativistic energy expansion of Lesson 3, Worked example 5. The next term, −p⁴/8m³, is the first relativistic correction and is treated as a perturbation.
+The nonrelativistic hydrogen Hamiltonian, H₀ = p²/2m − e²/4πr (Heaviside–Lorentz units of Lesson 7), uses the leading term of the relativistic energy expansion of Lesson 3, Worked example 5. The next term, −p⁴/8m³, is the first relativistic correction and is treated as a perturbation.
 
 $$ H′_(rel) = −p̂⁴ / (8m³)
 

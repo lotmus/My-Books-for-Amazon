@@ -181,7 +181,7 @@ def main():
 
     n_old_mead = remove_range_before(
         body,
-        lambda t: t.startswith("Interlude "),
+        lambda t: t.startswith("Interlude Mead"),
         lambda t: t.startswith("Lesson 41 "),
     )
     print("removed old Mead paras", n_old_mead)

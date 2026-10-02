@@ -1,7 +1,7 @@
 TITLE: Operators and Observables
 TAGLINE: Hermitian operators, eigenvalues as measurement outcomes, commutators, and simultaneous observability
 NUM: 10
-NEXT: Lesson 11 introduces the Schrodinger equation: how the Hamiltonian generates time evolution, stationary states, and the general solution as a superposition of energy eigenstates.
+NEXT: Lesson 11 introduces the Schrödinger equation: how the Hamiltonian generates time evolution, stationary states, and the general solution as a superposition of energy eigenstates.
 
 # How to use this lesson
 
@@ -156,7 +156,7 @@ Show that x̂ and p̂² do not commute, and interpret. [x̂, p̂²] = [x̂, p̂]
 
 ## 6.1 The Ehrenfest theorem
 
-For an operator A without explicit time dependence, differentiate ⟨A⟩_ψ(t) = ⟨ψ(t)|A|ψ(t)⟩ using the time-dependent Schrodinger equation of Lesson 11 (quoted here in advance, iℏ∂_tψ = Hψ) for both ψ and its bra.
+For an operator A without explicit time dependence, differentiate ⟨A⟩_ψ(t) = ⟨ψ(t)|A|ψ(t)⟩ using the time-dependent Schrödinger equation of Lesson 11 (quoted here in advance, iℏ∂_tψ = Hψ) for both ψ and its bra.
 
 $$ d⟨A⟩/dt = (i/ℏ) ⟨[H, A]⟩
 

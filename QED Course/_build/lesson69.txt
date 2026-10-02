@@ -29,7 +29,7 @@ Lesson 68 ended with a formula, α(Q²) = α/[1 − (α/3π) ln(Q²/m²)], and a
 | α(μ) | The coupling defined at μ, α(μ) = e²(μ)/4π |
 | β(e), β(α) | μ de/dμ and μ dα/dμ, the beta function in two equivalent forms |
 | L | A logarithm of a ratio of scales, for example ln(Q²/μ²) |
-| N_c, Q_f | Colour multiplicity (3 for quarks, 1 for leptons) and charge in units of e |
+| N_c, Q_f | Color multiplicity (3 for quarks, 1 for leptons) and charge in units of e |
 | b | One-loop coefficient, b = (4/3)Σ N_c Q_f² over fermions lighter than μ |
 | μ_L | Scale of the one-loop Landau pole |
 
@@ -183,7 +183,7 @@ This lesson derived the one-loop β from Lesson 68's explicit loop, not from a g
 | No | Problem |
 | 1 | Starting from α(μ) = α/[1 − (α/3π)ln(μ²/m²)], compute dα/d ln μ and show it equals 2α(μ)²/(3π). |
 | 2 | Convert μ dα/dμ = 2α²/(3π) into β(e) = e³/(12π²), showing every factor. |
-| 3 | Derive Section 2.1's formula from Lesson 68's α_eff(Q²) = α/[1 − (α/3π)ln(Q²/m²)] by eliminating α in favour of α(μ). |
+| 3 | Derive Section 2.1's formula from Lesson 68's α_eff(Q²) = α/[1 − (α/3π)ln(Q²/m²)] by eliminating α in favor of α(μ). |
 | 4 | Verify Worked example 2's cancellation, keeping track of the factor of 2 from ln(Q²/μ²). |
 | 5 | Expand α/[1 − x] to third order in x = αL/3π, and say which diagrams produce each term. |
 | 6 | Integrate μ dα/dμ = bα²/(2π) from μ₀ to μ and show that b = 4/3 reproduces Lesson 68's formula. |

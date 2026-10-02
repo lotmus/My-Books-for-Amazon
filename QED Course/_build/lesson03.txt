@@ -219,7 +219,7 @@ In natural units the electric charge is dimensionless, and the strength of elect
 
 $$ α = e²/(4π) ≈ 1/137.036
 
-with e² written in Heaviside Lorentz units, which absorb the factor 4πε₀. The smallness of α is the reason QED can be treated by perturbation theory (Lesson 43). The same constant is e²/(4πε₀ℏc) in SI units, which shows that α is a pure number in any system of units.
+with e² written in Heaviside–Lorentz units, which absorb the factor 4πε₀. The smallness of α is the reason QED can be treated by perturbation theory (Lesson 43). The same constant is e²/(4πε₀ℏc) in SI units, which shows that α is a pure number in any system of units.
 
 ### Worked example 5
 
@@ -272,14 +272,14 @@ The neutral pion (M = 135.0 MeV) decays into two photons. With m₁ = m₂ = 0, 
 | Principle of relativity | Field equations and the Lagrangian must be Lorentz invariant (Lessons 4, 19, 25) |
 | Invariant interval | Scalar products of four-vectors and the light cone structure of propagators |
 | Causality of spacelike separations | Commutation and anticommutation relations of fields at equal times; necessity of antiparticles |
-| E² − \|p\|² = m² | Klein Gordon operator, on-shell external particles, and the poles of propagators |
+| E² − \|p\|² = m² | Klein–Gordon operator, on-shell external particles, and the poles of propagators |
 | Massless particles with E = \|p\| | Photons, gauge invariance, and the two physical polarization states |
 | Natural units and α = e²/4π | Expansion parameter of every perturbative calculation |
 | Boost of energy and momentum | Transformation of amplitudes and cross sections between laboratory and center-of-momentum frames |
 | Invariant mass | Mandelstam variable s, resonances, and collider kinematics |
 | Two-body decay kinematics | Phase space in decay rates and cross sections (Lessons 58, 59) |
 
-The Schrodinger equation is built on E = |p|²/2m and cannot be Lorentz invariant. Quantum electrodynamics begins with the question of what replaces it when E² = |p|² + m² is imposed instead. Every answer, from the Klein Gordon equation through the Dirac equation to the quantized field, is shaped by the invariants introduced in this lesson.
+The Schrödinger equation is built on E = |p|²/2m and cannot be Lorentz invariant. Quantum electrodynamics begins with the question of what replaces it when E² = |p|² + m² is imposed instead. Every answer, from the Klein–Gordon equation through the Dirac equation to the quantized field, is shaped by the invariants introduced in this lesson.
 
 # 10 Summary
 
