@@ -219,3 +219,10 @@ used now.
 5. Author confirmed (session 2) that this book should match the Kindle
    book's choice of visible, non-cloaked inline hyperlinks and colorful
    workflow diagrams — now used in the *Create* chapter.
+
+## 1 October 2026, evening
+
+- Author set to Lothar J. Musiol on the title page, a new copyright line, and the docx properties (was the pen name Kevin Drew Peters).
+- 2026/2027 YouTube Partner Program facts rechecked against YouTube Help and the YouTube blog on 1 October 2026: current gate 1,000 subscribers + 4,000 long-form watch hours in 12 months or 10 million Shorts views in 90 days; from 1 February 2027 new applicants need 8,000 hours or 20 million Shorts views; Shorts revenue sharing from February 2027 needs 10 million Shorts views in the prior 90 days; fan-funding gate (500 subscribers, 3 uploads in 90 days, 3,000 hours or 3 million Shorts views) unchanged; updated terms to accept by 31 January 2027. Chapter 5 already matched; no text change needed.
+- Companion book is now the single merged *Your First Book That Sells* (32 chapters). This book stays separate.
+

@@ -450,7 +450,10 @@ def main():
         "Subtitle",
     )
     doc.add_paragraph(SERIES)
+    author_line = doc.add_paragraph()
+    author_line.add_run("Lothar J. Musiol").bold = True
     doc.add_paragraph("Updated October 2026")
+    doc.add_paragraph("Copyright \u00a9 2026 Lothar J. Musiol. All rights reserved.")
 
     doc.add_paragraph("Start here", "Heading 1")
     for text in START:
@@ -489,7 +492,7 @@ def main():
 
     insert_contents(doc)
     doc.core_properties.title = "Your First YouTube Channel That Sells"
-    doc.core_properties.author = "Kevin Drew Peters"
+    doc.core_properties.author = "Lothar J. Musiol"
     doc.core_properties.subject = "A working guide for creators who want a channel, not a hobby"
     out = ROOT / "Your First YouTube Channel That Sells.docx"
     doc.save(out)

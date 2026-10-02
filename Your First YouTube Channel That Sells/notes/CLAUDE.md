@@ -5,8 +5,8 @@
 This folder is its own book: *Your First YouTube Channel That Sells*, a
 companion to *Your First Book That Sells* (same repo, separate book — the two
 are not chapters of one title, and do not cross-reference each other's
-manuscript). Author is the same pen name, **Kevin Drew Peters**, unless told
-otherwise. This book is not a textbook and not a popular-science book. Do not
+manuscript). Author is **Lothar J. Musiol** (set 1 October 2026; the earlier pen
+name Kevin Drew Peters is retired). This book is not a textbook and not a popular-science book. Do not
 apply `COMMERCIAL BOOK METHOD.md` to it.
 
 **Do not leave this folder.** Don't read, edit, or comment on any other book,

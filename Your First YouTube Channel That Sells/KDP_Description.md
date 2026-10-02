@@ -6,7 +6,7 @@ Updated 1 October 2026. YouTube facts in the description were checked against Yo
 
 - **Title:** Your First YouTube Channel That Sells
 - **Subtitle:** How to Choose One Offer, Make the Videos That Sell It, and Get Paid
-- **Author (pen name):** Kevin Drew Peters (confirm before publishing)
+- **Author:** Lothar J. Musiol
 - **Series:** none. Companion to *Your First Book That Sells*, not part of a numbered series, unless Lothar decides otherwise.
 - **Edition:** Updated October 2026
 
