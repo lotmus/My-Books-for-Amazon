@@ -1,3 +1,11 @@
+# A Closing Word
+
+Nothing in this book is complicated on its own. Royalty math is arithmetic. Keyword slots are a form field. A launch is a calendar with the same events moved closer together. What makes self-publishing hard isn’t any individual step — it’s that all thirty-two chapters’ worth of steps land on one person, and it’s tempting to skip the unglamorous ones (a real editing pass, an honest category choice, the tax interview) in favor of the exciting one (hitting publish).
+
+The authors who make good money at this aren’t the ones who found a secret Amazon doesn’t want you to know. They’re the ones who did the plain, checkable, occasionally tedious work in every chapter of this book, on purpose, in order, and then did it again for the next book — because by the second time, most of it was already fixed cost, paid off. That’s the whole secret, and it was never actually a secret.
+
+If you remember one thing from both halves of this book, make it the keep test from Part I: before you spend money or a week, write what one sale leaves you, who the book is for and who it is not for, and the one change you will make and the day you will look. Every chapter after that is the same three lines, worked out in more detail. The checklist, the royalty reference, and the official sources follow, for the day you sit down to publish. Go write something worth finding.
+
 # Appendix A — The One-Page Launch Checklist
 
 - [ ] Manuscript
@@ -110,7 +118,7 @@ Expanded distribution. The wider paperback channel. Its rate is lower than a sal
 
 Keep. What one sale leaves you after the percentage and, when it applies, delivery. Chapter 3.
 
-KDP Select. A 90-day enrollment. Page reads may pay you. The ebook stays exclusive to Kindle for the term. Chapter 8. [5]
+KDP Select. A 90-day enrollment. Page reads may pay you. The ebook stays exclusive to Kindle for the term. Idea 8 in chapter 8; chapter 27 in full. [5]
 
 Seventy percent band. On Amazon.com, as checked on 1 October 2026, the usual ebook prices from $2.99 to $12.99 where a 70 percent royalty can apply. The top was $9.99 until 7 July 2026. Chapter 3. [3]
 
@@ -157,11 +165,3 @@ https://kdp.amazon.com/en_US/help/topic/G202172740
 https://kdp.amazon.com/en_US/help/topic/GDDXGH9VR22ACM8U
 
 Independent guide. Not affiliated with or endorsed by Amazon. Check the live help pages before you act.
-
-
-
-# A Closing Word
-
-Nothing in this book is complicated on its own. Royalty math is arithmetic. Keyword slots are a form field. A launch is a calendar with the same events moved closer together. What makes self-publishing hard isn’t any individual step — it’s that all thirty-two chapters’ worth of steps land on one person, and it’s tempting to skip the unglamorous ones (a real editing pass, an honest category choice, the tax interview) in favor of the exciting one (hitting publish).
-
-The authors who make good money at this aren’t the ones who found a secret Amazon doesn’t want you to know. They’re the ones who did the plain, checkable, occasionally tedious work in every chapter of this book, on purpose, in order, and then did it again for the next book — because by the second time, most of it was already fixed cost, paid off. That’s the whole secret, and it was never actually a secret. Go write something worth finding.

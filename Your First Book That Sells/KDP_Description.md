@@ -9,7 +9,7 @@ Updated 1 October 2026. Platform facts were checked against KDP Help on 1 Octobe
 - **Author:** Lothar J. Musiol
 - **Series:** none.
 - **Edition:** Updated 1 October 2026
-- **Length:** about 33,500 words, 32 chapters in eight parts, three appendices, glossary, official sources
+- **Length:** about 33,700 words, 32 chapters in eight parts, three appendices, glossary, official sources
 - **Master file:** `Your First Book That Sells.docx` (book root). Docx only.
 
 ## Description (paste into KDP; plain paragraphs, under 4,000 characters)
