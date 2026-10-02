@@ -205,7 +205,9 @@ def set_gutter(doc):
         sec.bottom_margin = Inches(0.9)
         pgMar = sec._sectPr.find(qn("w:pgMar"))
         if pgMar is not None:
-            pgMar.set(qn("w:gutter"), str(int(Inches(0.3))))
+            # w:gutter is in twips, not EMU: Inches(0.3) is 274320 EMU, which as twips
+            # is 190 in, leaving a negative text width (one letter per line).
+            pgMar.set(qn("w:gutter"), str(Inches(0.3).twips))
 
 
 def demote_headings(doc):
