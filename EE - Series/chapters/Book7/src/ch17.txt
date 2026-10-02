@@ -23,6 +23,12 @@ WEP: Assume an interface energy of 2 pJ/bit. Find the interface power of one HBM
 WES: The bit rate is 2.816 TB/s × 8 = 22.5 Tbit/s, so P = 22.5×10¹² × 2×10⁻¹² = 45 W per stack, and 360 W for eight stacks. The assumed energy per bit is the lever: every 0.5 pJ/bit saved removes about 90 W from an eight-stack accelerator.
 H2: 17.5 Known-good dies and test
 P: A sixteen-high stack is only as good as its worst die and its worst bond. If each die and its bonding has a yield of 99%, the stack yield is 0.99¹⁶ = 85%, before the stack meets the processor. Each die is therefore tested before stacking, spare rows and TSVs are built in for repair, and the base die includes test logic so the assembled stack can be checked through the interposer. Chapter 8's yield arithmetic applies vertically as well as horizontally.
+H2: 17.6 Temperature and refresh in the stack
+P: A DRAM cell is a capacitor that leaks, and the leakage roughly doubles for every 10 °C, so cells must be refreshed more often when hot. JEDEC's standard refresh interval of 64 ms, with a refresh command every 7.8 µs, applies up to 85 °C; between 85 and 95 °C the rate doubles, to every 32 ms, and HBM stacks above that need still more. Refresh is not free: during each refresh the affected banks cannot be accessed, and the refresh current adds to the stack's power. An HBM stack sits next to a processor dissipating up to a kilowatt, and its upper dies are the farthest from the cold plate, so the thermal design of Chapter 6 directly sets the memory's usable bandwidth, and HBM controllers read the stack's temperature sensors to adjust the refresh rate dynamically.
+H2: Worked Example 17.4
+WEP: A memory bank is unavailable for 350 ns per refresh command, and commands come every 7.8 µs at normal temperature. Find the fraction of time lost to refresh, and the fraction when the rate doubles above 85 °C.
+WES: 350 ns/7.8 µs = 4.5 % at normal temperature; doubling the rate gives 9.0 %. A hot stack therefore loses almost a tenth of its bank availability to refresh, which, with the extra refresh power, is why HBM cooling matters as much as the processor's.
+P: Memory stacks are the densest packages in a system. Chapter 18 puts something entirely different into the package: an antenna.
 H2: Practice
 PR: Find the bandwidth of a 1024-bit interface at 9.6 Gbit/s.
 PR: Find the connection density at a 40 µm pitch.
@@ -30,9 +36,11 @@ PR: Find the resistance of a 3 µm diameter, 30 µm long copper TSV.
 PR: Find the stack yield of sixteen layers at 98% each.
 PR: Find the interface power at 3 pJ/bit and 2.8 TB/s.
 PR: Find the thermal resistance of twelve 10 µm underfill layers, k = 0.5 W/(m·K), over 100 mm².
+PR: What fraction of time is lost if each refresh blocks a bank for 280 ns every 3.9 µs?
 ANS: 1.23 TB/s.
 ANS: 625 connections per mm².
 ANS: 0.073 Ω.
 ANS: 72.4%.
 ANS: About 68 W.
 ANS: 2.4 K/W.
+ANS: 280/3900 = 7.2 %.

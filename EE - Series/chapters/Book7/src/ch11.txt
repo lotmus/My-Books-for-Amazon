@@ -17,6 +17,13 @@ WEP: A die has 1 µF of on-die capacitance. Above what frequency does it alone m
 WES: 1/(2πfC) = 55 µΩ gives f = 1/(2π × 10⁻⁶ × 55 × 10⁻⁶) = 2.89 GHz, so the die capacitance alone is enough only at very high frequencies. The die capacitance and package inductance form a parallel resonance at 1/(2π√(5 × 10⁻¹² × 10⁻⁶)) = 71.2 MHz, with a characteristic impedance √(L/C) = 2.24 mΩ, forty times the target. Undamped, the network's impedance at 71 MHz could exceed 2 mΩ, and a load current pulsing at that frequency would ring the supply. The remedy is damping: enough resistance in the package capacitors, or controlled-ESR parts, to bring the peak toward the target, together with as much on-die and in-package capacitance as the area allows.
 H2: 11.4 Measuring and simulating
 P: The impedance of a power-delivery network is measured from the die side with a vector network analyzer, using the two-port shunt-through method, which can resolve micro-ohms, or simulated from the board, package, and die models. Time-domain tests apply a programmable load step and record the voltage on a sense line from the die. The test that matters most is the worst-case current pattern, a load that switches at the network's resonant frequency, because that is the condition the target impedance was meant to prevent.
+H2: 11.5 Anti-resonance between capacitor values
+P: Every real capacitor is a series RLC circuit: below its self-resonant frequency it behaves as a capacitor, above it as an inductor set by its mounted inductance. Placing two different values in parallel creates a problem between their self-resonances. There the large capacitor already looks inductive and the small one still capacitive, and an inductance in parallel with a capacitance forms a parallel resonance, an anti-resonant peak in the impedance that can exceed the target impedance of Chapter 3 by a large factor. The peak's height is set by the capacitors' ESR, which is why low-ESR ceramics make it worse. Designers either use many capacitors of the same value, so their resonances coincide, choose values closely spaced so the peaks are shallow, or deliberately include a few higher-ESR parts to damp the network.
+EQ: f_SRF = 1 / (2π √(L_mount C))
+H2: Worked Example 11.3
+WEP: A board uses 10 µF capacitors with 1 nH of mounted inductance and 100 nF capacitors with 0.5 nH. Find each self-resonant frequency, and the region where an anti-resonance can appear.
+WES: The 10 µF part resonates at 1/(2π√(10⁻⁹ × 10⁻⁵)) = 1.59 MHz and the 100 nF part at 1/(2π√(0.5 × 10⁻⁹ × 10⁻⁷)) = 22.5 MHz. Between them, roughly 2 to 20 MHz, the 10 µF bank is inductive and the 100 nF bank capacitive, and their parallel resonance sits where the two reactances are equal. A simulation of the full network with the real ESR values shows whether the peak breaks the target; if it does, more 100 nF parts, or an intermediate 1 µF value, fill the gap.
+P: Decoupling keeps the supply quiet; the stack-up of Chapter 12 decides how close those capacitors, planes, and signals can sit to each other.
 H2: Practice
 PR: Find the self-resonant frequency of a 22 µF capacitor with 0.3 nH of mounted inductance.
 PR: How many capacitors with 0.3 nH each are needed for 2 mΩ at 50 MHz?
@@ -24,9 +31,11 @@ PR: Above what frequency does 20 pH of path inductance exceed a 30 mΩ target?
 PR: A die has 4 µF of capacitance behind 2 pH of package inductance. Find the resonant frequency and characteristic impedance.
 PR: Why does a 100 nF capacitor not help more than a 1 µF capacitor at 200 MHz when both have the same mounting?
 PR: Why must package capacitors be damped?
+PR: Find the self-resonant frequency of a 1 µF capacitor with 0.7 nH of mounted inductance.
 ANS: 1.96 MHz.
 ANS: 2π × 5 × 10⁷ × 0.3 × 10⁻⁹/0.002 = 47.
 ANS: 30 × 10⁻³/(2π × 20 × 10⁻¹²) = 239 MHz.
 ANS: 56.3 MHz and 0.71 mΩ.
 ANS: At 200 MHz both are far above their self-resonances, so both behave as the same mounted inductance and have the same impedance.
 ANS: The die capacitance and package inductance form a parallel resonance whose peak impedance can far exceed the target unless resistance in the network lowers its Q.
+ANS: 1/(2π√(0.7 × 10⁻⁹ × 10⁻⁶)) = 6.0 MHz.

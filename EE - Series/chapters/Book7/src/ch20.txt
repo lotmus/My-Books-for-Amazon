@@ -17,6 +17,13 @@ WES: The guided wavelength at 10 GHz is v/f = 15.9 mm, so the line is 15.9/4 = 3
 KEY: Key idea. A TDR reads impedance against distance, with a resolution set by its rise time; a VNA reads S-parameters against frequency, with an accuracy set by its calibration. On-board TRL standards move the reference planes to the structure being tested.
 H2: 20.4 De-embedding and correlation
 P: A test coupon on the panel edge lets each production lot be measured: impedance by TDR, loss per unit length by VNA. De-embedding subtracts the launch structures, either by TRL calibration or by measuring two lengths of the same line, so that the difference is the line alone. The measurement then correlates with the simulation of Chapter 14: if the measured loss is higher, the laminate's Df at the frequency of use or the copper roughness is worse than assumed, and the channel budget must be revisited before the product ships.
+H2: 20.5 Reading S-parameters: insertion loss, return loss, and sanity checks
+P: A two-port measurement produces four complex S-parameters at every frequency, and two of them answer most questions. S21 in decibels is the insertion loss, the fraction of incident power that reaches the far end: −3 dB is half the power, −20 dB a hundredth. S11 is the return loss, the fraction reflected: −20 dB means 1 % of the power, a reflection coefficient of 0.1, which for a 50 Ω system corresponds to an impedance within about ±20 % of 50 Ω. Before trusting a file, engineers check passivity, that no frequency shows more power out than in, |S11|² + |S21|² ≤ 1, and causality, that the time-domain response does not begin before the signal arrives. Files that fail either check usually come from calibration errors or too coarse a frequency step, and they make channel simulators produce nonsense.
+EQ: |S11|² + |S21|² ≤ 1   (passive, lossless at equality)
+H2: Worked Example 20.3
+WEP: A channel shows S21 = −18 dB and S11 = −12 dB at 26.6 GHz. Find the fractions of power transmitted and reflected, and the fraction lost in the channel.
+WES: Transmitted: 10^(−1.8) = 0.016; reflected: 10^(−1.2) = 0.063. Their sum is 0.079, so 92 % of the incident power is dissipated or radiated in the channel. The −12 dB return loss is poor; a reflection coefficient of 0.25 suggests a via or connector discontinuity that the TDR of Section 20.1 can locate.
+P: Measurement closes Part I's tour of packages and boards. Part II asks how those boards radiate, and how the laboratories that certify them measure it.
 H2: Practice
 PR: Find the spatial resolution of a 20 ps TDR on the reference stripline.
 PR: Find the impedance where ρ = −0.20 in a 50 Ω system.
@@ -24,9 +31,11 @@ PR: Find the impedance where ρ = +0.05.
 PR: Find the approximate bandwidth of a 20 ps rise time, using 0.35/tr.
 PR: Find the round-trip delay of 50 mm of trace with εr = 4.0.
 PR: What is the usable frequency range of a TRL line whose 90° point is at 5 GHz?
+PR: What reflection coefficient corresponds to a return loss of 15 dB?
 ANS: 1.6 mm.
 ANS: 33.3 Ω.
 ANS: 55.3 Ω.
 ANS: 17.5 GHz.
 ANS: 667 ps.
 ANS: About 1.1 to 8.9 GHz.
+ANS: 10^(−15/20) = 0.18.

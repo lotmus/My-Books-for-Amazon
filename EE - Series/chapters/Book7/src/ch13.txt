@@ -19,6 +19,13 @@ H2: 13.4 Spacing
 P: Coupling falls quickly as traces move apart. For traces at height h above a plane and separated by a distance s, a useful rule of Johnson and Graham is that crosstalk falls roughly as 1/(1 + (s/h)²). Moving from s = h to s = 3h reduces it to a fifth; s = 2h gives 40% of the s = h value. That is the origin of the common "3W" spacing guideline for traces whose width is close to their height. Bringing the reference plane closer, by thinning the dielectric, has the same effect as widening the spacing, because it confines each trace's fields.
 H2: 13.5 Other coupling paths
 P: Crosstalk is not only between parallel traces. Vias in a dense array couple to each other through the board; a via field under a BGA can dominate a channel's crosstalk at high data rates, and ground vias placed between signal vias reduce it. Connectors and package pins couple in the same way. Signals that share a return path, as in Chapter 9's ground bounce, couple through the common impedance. A complete crosstalk budget for a high-speed link adds all these contributions as noise sources in the receiver's eye, as Chapter 14 does.
+H2: 13.6 How crosstalk falls with spacing
+P: The coupling between two traces over a plane falls quickly as they move apart, because the fields of a trace over a plane are concentrated between the trace and the plane. A useful approximation for both microstrip and stripline makes the coupled noise proportional to 1/[1 + (s/h)²], where s is the center-to-center spacing and h the height above the reference plane. The rule of thumb that spaces traces three times their width apart is an expression of this: tripling s/h from 1 to 3 cuts the coupling by a factor of five. The same formula shows the alternative, often cheaper: halving the height to the plane, by a thinner dielectric, quarters the coupling at large spacings without using any more routing area.
+EQ: crosstalk ∝ 1 / [1 + (s/h)²]
+H2: Worked Example 13.3
+WEP: Two traces 0.1 mm above their plane have 4 % near-end crosstalk at a center spacing of 0.1 mm. Estimate the crosstalk at 0.3 mm spacing, and at 0.1 mm spacing with the plane 0.05 mm below.
+WES: At s/h = 1 the factor is 1/2; at s/h = 3, 1/10, so the crosstalk falls to 4 % × (1/10)/(1/2) = 0.8 %. With h = 0.05 mm at 0.1 mm spacing, s/h = 2 and the factor is 1/5, giving 1.6 %: thinning the dielectric gains a factor of 2.5 without moving the traces.
+P: Crosstalk is one way a channel loses margin. Loss, equalization, and the resulting eye, Chapter 14, are the others.
 H2: Practice
 PR: Find Kb for Cm/C = 0.03 and Lm/L = 0.04.
 PR: Find the saturation length for a 100 ps edge in a stripline with εr = 3.6.
@@ -26,9 +33,11 @@ PR: Find the far-end crosstalk for the microstrips of Example 13.2 over 20 cm wi
 PR: By what factor does crosstalk fall when spacing increases from s = h to s = 2h, using the 1/(1 + (s/h)²) rule?
 PR: Why is far-end crosstalk essentially zero in a stripline?
 PR: How long does an edge take to travel 10 cm on the reference microstrip?
+PR: By what factor does the crosstalk fall when s/h rises from 2 to 4?
 ANS: ¼ × 0.07 = 0.0175, or 1.75%.
 ANS: 100 ps × (2.998 × 10⁸/1.897)/2 = 7.9 mm.
 ANS: −22.3%.
 ANS: From 1/2 to 1/5, a reduction to 40%.
 ANS: In a homogeneous dielectric the capacitive and inductive coupling ratios are equal, so their forward contributions cancel.
 ANS: 557 ps.
+ANS: (1 + 4)/(1 + 16) = 0.29, a factor of 3.4.

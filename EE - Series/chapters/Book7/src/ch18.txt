@@ -20,6 +20,13 @@ WES: EIRP = 10 + 20 log 16 + 5 = 10 + 24.1 + 5 = 39.1 dBm. A single element woul
 KEY: Key idea. At millimeter wave the antenna belongs next to the die. Half-wavelength spacing makes the array package-sized, and EIRP grows as N² because power and gain both grow with N.
 H2: 18.4 Packaging problems
 P: The package substrate must now be an antenna substrate, with a controlled permittivity and low loss at the frequency of use, read from the data sheets as Chapter 4 recommends. Heat from the die must leave through the side of the package opposite the antennas, because a heatsink over the array would block it. The array's ground plane separates the radiating layers from the routing layers, and each via transition through it must be modeled as in Chapter 5. Testing changes too: the module has no RF connector, so it is measured over the air in a small anechoic chamber with the methods of Book 4's Chapter 16 and Part II's test discipline.
+H2: 18.5 Element spacing and the scan range
+P: A phased array steers its beam by setting the phase of each element, and the element spacing decides how far it can steer before a second, unwanted beam, a grating lobe, appears. Book 4 derives the condition; for packaging the consequence is a hard geometric limit. To scan to an angle θmax from broadside without a grating lobe, the spacing must not exceed λ/(1 + sin θmax): half a wavelength allows a full ±90°, and ±60° scanning needs about 0.54 λ. At 28 GHz that is under 6 mm, and at 60 or 140 GHz it is a few millimeters or less, so each element's feed, its RF chain, and its share of the beamformer chip must fit inside that cell. This is the deepest reason millimeter-wave arrays are built in the package rather than on the board.
+EQ: d ≤ λ / (1 + sin θmax)
+H2: Worked Example 18.4
+WEP: Find the largest element spacing for a 28 GHz array that must scan ±60° without grating lobes, and the area per element.
+WES: λ = 3 × 10⁸/28 × 10⁹ = 10.7 mm, so d ≤ 10.7/(1 + 0.866) = 5.74 mm and each element owns at most 33 mm². A beamformer chip serving four elements must route four RF feeds within 132 mm² of package, which is why such chips sit directly beneath their antennas.
+P: An antenna in the package adds radiation to the package's duties. Chapter 19 adds the one duty every product shares: being built and tested in volume.
 H2: Practice
 PR: Find the half-wavelength spacing at 77 GHz.
 PR: Find the approximate patch length at 28 GHz with εr = 3.5.
@@ -27,9 +34,11 @@ PR: Find the EIRP of a 64-element array with 5 dBm per element and 5 dBi element
 PR: How many decibels of EIRP does doubling the number of elements add?
 PR: With 0.8 dB/cm of trace loss, what is the loss of a 4 cm board route?
 PR: Why cannot the heatsink sit over the antenna array?
+PR: Find the largest spacing for ±45° scanning at 60 GHz.
 ANS: 1.95 mm.
 ANS: 2.86 mm.
 ANS: 46.1 dBm.
 ANS: 6.0 dB.
 ANS: 3.2 dB.
 ANS: The metal would block and detune the antennas, so heat must leave from the opposite side of the package.
+ANS: λ = 5.0 mm; d ≤ 5.0/1.707 = 2.93 mm.

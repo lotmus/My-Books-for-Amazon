@@ -17,6 +17,12 @@ WEP: A transmitter launches 0 dBm. The link has two connectors at 0.5 dB each, 2
 WES: The losses are 1.0 + 0.7 + 3.0 = 4.7 dB, so the received power is −4.7 dBm and the margin 3.3 dB. For a 1 dB margin the fiber may add 2.3 dB more, 6.6 km more, for about 8.6 km in total, though dispersion penalties, not loss, usually limit such a link first.
 H2: 15.4 Co-packaged optics in practice
 P: Co-packaging brings packaging problems of its own, the subject of this book. Lasers are the least reliable and most heat-sensitive part of the link, so many designs place them in separate, replaceable external laser modules and bring their light in by fiber. Fiber must be attached to the package with sub-micrometer alignment and survive the reflow and thermal cycling of Chapter 10. The optical engines sit next to a die dissipating hundreds of watts, though silicon photonic modulators and detectors tolerate heat better than lasers do. Testing, repair, and yield are harder when a failed optical engine is soldered to an expensive switch. In 2026, co-packaged switch products were entering deployment, and the same techniques were being prepared for accelerators.
+H2: 15.5 Why co-packaged optics saves power
+P: A pluggable optical module sits at the front panel, and the switch chip must drive each lane across 20 to 30 cm of board to reach it, through a long-reach SerDes with heavy equalization and often a retimer in the module. Co-packaged optics moves the optical engine onto the switch package, so the electrical path shrinks to millimeters and the SerDes can be a simple short-reach link. Published system figures put pluggable modules with their host SerDes at roughly 15 pJ per bit in 2026 and co-packaged designs near 5 pJ/bit. At the 51.2 and 102.4 Tbit/s of current switch chips, that difference is hundreds of watts per switch. The obstacles are serviceability, since a failed laser can no longer be swapped from the front panel, which is why designs keep the lasers in a replaceable external light source, and the thermal coupling of temperature-sensitive optics to a hot switch die.
+H2: Worked Example 15.3
+WEP: A 51.2 Tbit/s switch uses optical I/O at 15 pJ/bit with pluggables or 5 pJ/bit with co-packaged optics. Find the I/O power in each case and the saving across 1000 switches.
+WES: 51.2 × 10¹² × 15 × 10⁻¹² = 768 W with pluggables; 256 W co-packaged. The 512 W saved per switch is 512 kW across 1000 switches, before cooling, about a megawatt-scale saving in a large AI cluster.
+P: Optics carries the bits between packages. Chapter 16 returns to sensors, with the motion sensors that let a device know where it is.
 H2: Practice
 PR: Find the energy per bit of a 400 Gbit/s module that draws 9 W.
 PR: Find the power of a 3.2 Tbit/s optical engine at 5 pJ/bit.
@@ -24,9 +30,11 @@ PR: A link launches −1 dBm through three 0.5 dB connectors and 0.5 km of fiber
 PR: How much fiber loss is there in 10 km at 0.35 dB/km?
 PR: A switch has 64 ports of 1.6 Tbit/s. Find its optics power at 25 W per module and at 5 pJ/bit.
 PR: Why are lasers often kept outside the package in co-packaged designs?
+PR: What I/O power does a 102.4 Tbit/s switch need at 5 pJ/bit?
 ANS: 9/400 × 10⁹ = 22.5 pJ/bit.
 ANS: 16 W.
 ANS: Received power −1 − 1.5 − 0.175 = −2.7 dBm; margin 6.3 dB.
 ANS: 3.5 dB.
 ANS: 1600 W and 512 W.
 ANS: Lasers are the least reliable and most temperature-sensitive part of the link; external laser modules can be cooled separately and replaced without reworking the package.
+ANS: 512 W.

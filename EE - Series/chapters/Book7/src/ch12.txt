@@ -15,6 +15,13 @@ H2: 12.4 Delay and length matching
 P: A stripline's propagation delay depends only on εr: t = √εr/c per unit length, 160.8 ps per inch for εr = 3.6. Parallel buses and differential pairs must be matched in electrical length so that their bits or halves arrive together. A length mismatch of 1 mm in such a stripline is 6.3 ps, small for a 1 Gbit/s bus but a third of a unit interval at 56 Gbaud. Serpentine tuning adds length to the shorter trace, though tightly coupled serpentine sections couple to themselves and must be spaced apart.
 H2: 12.5 Differential pairs
 P: High-speed serial links use differential pairs with a controlled differential impedance, typically 85, 90, or 100 Ω, set by each trace's impedance and the coupling between the two. Tighter coupling lowers the differential impedance for a given width and keeps the pair's fields close together, which reduces both radiation and crosstalk from neighbors; looser coupling makes the impedance less sensitive to the spacing tolerance. The pair is routed together, with symmetric vias and equal lengths, because any asymmetry converts some of the differential signal into common mode.
+H2: 12.6 Estimating impedance before the field solver
+P: A field solver gives the final impedance of a trace, but a closed-form estimate shows the sensitivities. The classic IPC-2141 approximation for a surface microstrip of width w and thickness t over a dielectric of height h and permittivity εr is 87/√(εr + 1.41) × ln[5.98h/(0.8w + t)] ohms, adequate to a few percent for typical geometries. It shows that the impedance depends on the logarithm of h/w, so a 10 % change in dielectric height moves it by only a few ohms, while εr enters through a square root. Fabricators control impedance to ±10 % routinely and ±5 % at extra cost, by adjusting the trace width on a test coupon at the panel edge, which they measure with a TDR, Chapter 20, before shipping the boards.
+EQ: Z₀ ≈ 87/√(εr + 1.41) × ln[5.98 h / (0.8 w + t)]
+H2: Worked Example 12.2
+WEP: A microstrip has w = 0.18 mm, t = 0.035 mm, h = 0.10 mm, and εr = 3.5. Estimate its impedance, and the change if h grows by 10 %.
+WES: 87/√4.91 = 39.3, and 5.98 × 0.10/(0.144 + 0.035) = 3.34, whose logarithm is 1.206, so Z₀ ≈ 47.4 Ω. With h = 0.11 mm, the logarithm becomes 1.302 and Z₀ = 51.1 Ω, a rise of 3.7 Ω for a 10 % change in height, which is why fabricators tune width rather than height to hit the target.
+P: The stack-up places conductors close to each other on purpose. Chapter 13 measures what happens when they are too close: crosstalk.
 H2: Practice
 PR: Find the stripline impedance with b = 0.25 mm, w = 0.10 mm, t = 18 µm, and εr = 3.6.
 PR: Find the thickness of a ten-layer board of five 0.2 mm cores and four 0.12 mm prepregs, with copper averaging 25 µm.
@@ -22,9 +29,11 @@ PR: Find the stripline delay per inch for εr = 4.0.
 PR: How many picoseconds of skew does 2 mm of length mismatch cause in a stripline with εr = 3.6?
 PR: Does the stripline impedance rise or fall when the trace is made wider?
 PR: Why should a stack-up be symmetric about its center?
+PR: By roughly how many ohms does the impedance of Worked Example 12.2 change if εr falls to 3.0?
 ANS: 49.9 Ω.
 ANS: 5 × 0.2 + 4 × 0.12 + 10 × 0.025 = 1.73 mm.
 ANS: √4.0 × 0.0254/2.998 × 10⁸ = 169.5 ps.
 ANS: 12.7 ps.
 ANS: It falls.
 ANS: An asymmetric stack has unequal expansion and resin shrinkage on its two sides, so it warps during lamination and reflow.
+ANS: 87/√4.41 = 41.4 × 1.206 = 50.0 Ω, a rise of about 2.6 Ω.

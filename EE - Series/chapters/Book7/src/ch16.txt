@@ -17,6 +17,13 @@ H2: 16.3 Fusion
 P: Because inertial errors grow with time while satellite positions, camera features, wheel odometry, and leg kinematics have errors that do not, systems combine them. A Kalman filter predicts the state, position, velocity, and orientation, from the IMU at a high rate, and corrects it whenever another measurement arrives, estimating the IMU's biases along the way. The accelerometer's measurement of gravity corrects tilt; a magnetometer or satellite heading corrects yaw. In the robot of Chapter 29, the IMU feeds the fast balance loop at hundreds of hertz, while cameras and the learned model correct position at lower rates, the same two-speed structure that Chapter 17 finds in the control.
 H2: 16.4 Packaging the IMU
 P: The sensors of Chapter 7 and this chapter are packaging-sensitive in ways that logic chips are not. Stress from the board and package, through the expansion mismatch of Chapter 10, shifts the resonant frequencies and the bias, so IMUs are mounted with stress-isolating structures and calibrated over temperature. Vibration at the drive frequency couples into the output. Gyroscopes and resonators need vacuum or controlled-pressure cavities sealed at the wafer level. High-temperature navigation IMUs for drilling and engine monitoring, rated for 175 °C and above, need packages and solders chosen for those temperatures. A good IMU is as much a packaging product as a MEMS one.
+H2: 16.5 How fast dead reckoning drifts
+P: Dead reckoning integrates the IMU's outputs to obtain velocity, position, and orientation, and integration turns small constant errors into growing ones. An accelerometer bias b, once the gravity vector has been subtracted, integrates twice into a position error of ½bt², growing with the square of time. A gyroscope bias integrates once into an attitude error, and an attitude error of θ misprojects gravity into a false horizontal acceleration of gθ, which then integrates twice again, so gyro errors grow position error with the cube of time. This is why consumer IMUs alone can hold position only for seconds, why navigation-grade units cost tens of thousands of dollars, and why every practical system fuses the IMU with GNSS, wheel odometry, vision, or the known constraints of walking, as Section 16.3 describes.
+EQ: position error ≈ ½ b t²
+H2: Worked Example 16.3
+WEP: An accelerometer has a residual bias of 1 mg after calibration. Find the position error after 10 s and after 60 s of unaided dead reckoning.
+WES: b = 9.81 × 10⁻³ m/s². After 10 s, ½ × 9.81 × 10⁻³ × 100 = 0.49 m; after 60 s, ½ × 9.81 × 10⁻³ × 3600 = 17.7 m. A pedestrian navigator therefore resets the velocity to zero at every footstep, when the foot is still, which turns the quadratic growth into a much slower one.
+P: Motion sensors, like every chip in this book, depend on their package. Chapter 17 opens the most demanding package of all, the high-bandwidth memory stack.
 H2: Practice
 PR: A gyroscope mass vibrates with 10 µm amplitude at 15 kHz. Find the peak drive velocity and the Coriolis acceleration at 10 °/s.
 PR: Find the position error after 120 s from an accelerometer bias of 0.5 mg.
@@ -24,9 +31,11 @@ PR: Find the heading error after 9 h from an angle random walk of 0.05 °/√h.
 PR: Find the horizontal acceleration error from a 0.5° tilt error.
 PR: A gyroscope has a bias of 10 °/h. Find the heading error after 30 minutes.
 PR: Why can a MEMS IMU not navigate alone for long periods?
+PR: Find the position error after 30 s for a bias of 0.5 mg.
 ANS: v = 0.942 m/s; aC = 2 × 0.1745 × 0.942 = 0.329 m/s².
 ANS: ½ × 4.905 × 10⁻³ × 120² = 35.3 m.
 ANS: 0.05 × 3 = 0.15°.
 ANS: 9.81 × sin 0.5° = 0.0856 m/s², or 8.7 mg.
 ANS: 5°.
 ANS: Integration turns its small biases and noise into errors that grow with time, and as the square of time for position, so without external corrections the estimate drifts away within seconds to minutes.
+ANS: ½ × 4.9 × 10⁻³ × 900 = 2.2 m.

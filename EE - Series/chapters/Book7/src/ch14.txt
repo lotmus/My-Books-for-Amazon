@@ -19,6 +19,13 @@ P: For a binary decision with Gaussian noise, the error rate is Q(eye/2σ) in te
 H2: Worked Example 14.3
 WEP: A PAM4 receiver sees an eye 30 mV high with 4 mV rms of noise. Find Q and the approximate raw bit error rate. Would it meet the KP4 threshold?
 WES: Q = 30/(2 × 4) = 3.75, so the error rate per decision boundary is Q(3.75) = 8.8 × 10⁻⁵. With three boundaries, Gray coding, and two bits per symbol, the bit error rate is about 0.75 × 2 × 8.8 × 10⁻⁵/2 = 6.6 × 10⁻⁵, below the 2.4 × 10⁻⁴ threshold, so the link would work with the code. Without the code it would fail a 10⁻¹² target by a wide margin.
+H2: 14.5 Channel operating margin
+P: An eye diagram is an intuitive picture but a poor specification, because it depends on how long the simulation ran and which patterns it saw. The IEEE 802.3 standards for 100 and 200 Gbit/s per lane therefore define channel compliance by a single number, the channel operating margin, COM. A reference transmitter, receiver, and equalizer are applied to the channel's measured S-parameters; the tool computes the signal amplitude at the decision point and the statistical distribution of every impairment, residual intersymbol interference, crosstalk, jitter, and noise, at the target error rate, and reports their ratio in decibels. A channel passes if COM is at least 3 dB. Because the reference equalizer is fixed, COM measures the channel, not the cleverness of a particular SerDes, and both board designers and silicon vendors can test against it independently.
+EQ: COM = 20 log₁₀(A_signal / A_noise)   ≥ 3 dB
+H2: Worked Example 14.4
+WEP: A channel's computed signal amplitude at the slicer is 30 mV and the combined noise and interference amplitude at the target error rate is 20 mV. Find COM, and say whether the channel passes.
+WES: COM = 20 log₁₀(30/20) = 3.5 dB, a pass with 0.5 dB to spare. Shortening the backplane's longest trace by an inch or moving to a lower-loss laminate are the usual ways to buy more.
+P: Electrical channels lose more per inch at every generation. Chapter 15 asks when light should replace them.
 H2: Practice
 PR: Find the symbol rate and Nyquist frequency of a 212.5 Gbit/s PAM4 lane.
 PR: Find the unit interval of a 112 Gbaud signal.
@@ -26,9 +33,11 @@ PR: A 26 dB budget allows 6 dB for packages and connectors. Find the reach at 0.
 PR: What Q gives a bit error rate of 10⁻¹² for a binary decision?
 PR: Find the eye height needed for Q = 7.03 with 2 mV rms of noise.
 PR: Why does the decision-feedback equalizer not amplify noise?
+PR: What signal-to-noise amplitude ratio corresponds to a COM of exactly 3 dB?
 ANS: 106.25 Gbaud and 53.1 GHz.
 ANS: 8.9 ps.
 ANS: 20/0.8 = 25 inches.
 ANS: 7.03.
 ANS: 2 × 7.03 × 2 = 28.1 mV.
 ANS: It subtracts interference computed from past decisions, which are noise-free symbols, instead of filtering the noisy received signal.
+ANS: 10^(3/20) = 1.41.
