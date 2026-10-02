@@ -25,9 +25,11 @@ TEMPLATE = os.path.join(FOLDER, '27 - Can a Mind Be Built - Evolution and AI - F
 OUT = os.path.join(ROOT, 'Life - Science for Everyone - Full Manuscript.docx')
 
 AUTHOR = 'Lothar J. Musiol'
+SERIES = 'Physics, Actually'
 COPYRIGHT = [
     'Copyright \u00a9 2026 Lothar J. Musiol',
     'All rights reserved.',
+    'Series: ' + SERIES,
     'No part of this book may be reproduced, stored, or transmitted in any form or by any means without written permission from the author, except for brief quotations in reviews.',
     'This book is a work of popular science. It reflects the scientific understanding at the time of writing; some details will change as research moves on.',
     'First edition, 2026',
@@ -178,6 +180,7 @@ def build():
     sect = doc[doc.index('<w:sectPr'):]
 
     xml = []
+    xml.append(plain_para(SERIES, headline=True))
     xml.append(plain_para('Life: Science for Everyone', style='Title'))
     xml.append(plain_para('A Popular Science Book on Evolution', style='Subtitle'))
     xml.append(plain_para(AUTHOR, bold=True))

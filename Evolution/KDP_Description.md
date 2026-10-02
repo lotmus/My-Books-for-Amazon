@@ -3,7 +3,7 @@
 **Title:** Life: Science for Everyone
 **Subtitle:** A Popular Science Book on Evolution
 **Author:** Lothar J. Musiol
-**Series:** Science for Everyone (same series name as *Science for Everyone: Physics*)
+**Series:** Physics, Actually
 
 ## Product description
 
