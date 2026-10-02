@@ -1,0 +1,32 @@
+H1: Chapter 18. Massive MIMO and Beamforming
+P: Chapter 7 showed that several antennas at each end can carry several streams. A 5G base station goes much further, with 32, 64, or more antenna elements serving many users at once on the same time and frequency resources. Book 4 built the array and its beam; this chapter treats the signal processing: how a base station with many antennas learns the channel, focuses energy on each user, nulls the others, and why its performance becomes remarkably predictable as the array grows.
+H2: 18.1 Array gain
+P: With M antennas and perfect knowledge of the channel, the base station can weight each antenna's signal by the conjugate of that antenna's channel, so that all the contributions add in phase at the user. This maximum-ratio transmission delivers an SNR M times higher than a single antenna with the same total power, an array gain of 10 log10 M. In receive, maximum-ratio combining gives the same gain. The gain can be spent on range, on lower transmit power, or on a higher-order modulation.
+EQ: array gain = 10 log10 M;   MRT weights w = h*/‖h‖
+H2: Worked Example 18.1
+WEP: Find the array gain of a 64-element base station. If it serves 8 users with zero-forcing, which cancels the interference between them at the cost of some gain, the effective gain per user is about M − K + 1. Find it.
+WES: The array gain is 10 log10 64 = 18.1 dB. With zero-forcing for K = 8 users, each user's effective gain is about 64 − 8 + 1 = 57, or 17.6 dB, only 0.5 dB less, while eight streams share the same resources. With many more antennas than users, nulling the others costs little.
+H2: 18.2 Channel hardening and favorable propagation
+P: When a user's channel is the sum of contributions from many antennas, the random fading of each element averages out: the normalized channel gain ‖h‖²/M fluctuates with a variance that falls as 1/M. This channel hardening makes a massive MIMO link behave almost like a wired one, with little of the Rayleigh fading penalty of Chapter 5. Similarly, the channels of different users become nearly orthogonal as M grows, which is why simple linear precoders work well. Both effects depend on rich scattering or well-separated users; users in the same direction remain hard to separate.
+KEY: Key idea. Many antennas buy an array gain of 10 log M, almost free spatial separation of users, and a channel whose fading averages out. The cost is learning the channel, which in TDD is done from uplink pilots and reciprocity.
+H2: 18.3 Learning the channel
+P: Beamforming needs the channel from every antenna to every user. In FDD, the base station would have to send pilots from every antenna and have users report back, which becomes unmanageable for 64 antennas. In TDD the uplink and downlink share a frequency, so the channel is reciprocal: users send short uplink pilots, the base station estimates all M channels from each pilot at once, and uses them for the downlink. The pilot overhead then grows with the number of users, not antennas. The usable resources per coherence block are the coherence bandwidth times the coherence time from Chapter 5, and the pilots must fit in a small fraction of them.
+EQ: τc = Bc × Tc  (symbols per coherence block),   pilot overhead ≈ K / τc
+H2: Worked Example 18.2
+WEP: A channel has a 200 kHz coherence bandwidth and a 1 ms coherence time. How many symbols does a coherence block contain, and what fraction is spent on pilots for 8 users?
+WES: τc = 2 × 10⁵ × 10⁻³ = 200 symbols. Eight orthogonal pilots take 8/200 = 4% of the block. At high speed the coherence time shrinks and the overhead grows, which limits how many users can be served at once. When pilots must be reused between cells, their interference, pilot contamination, limits the gain.
+H2: 18.4 Hybrid beamforming at millimeter wave
+P: At millimeter wave, an array may have hundreds of elements, and giving each its own converter chain is too expensive in power. Hybrid architectures use a small number of digital chains, each driving a sub-array through analog phase shifters, as in Book 4's Chapter 8. The analog beams select directions, and the digital precoder separates users within them. Beam management, sweeping beams and tracking the best one as the user moves, replaces much of the fine channel estimation of sub-6 GHz massive MIMO.
+H2: Practice
+PR: Find the array gain of 256 elements.
+PR: With 32 antennas and 4 users, estimate the zero-forcing gain per user in decibels.
+PR: A coherence block has 500 symbols. What fraction do 16 pilots use?
+PR: By what factor does the variance of the normalized channel gain fall when M grows from 4 to 64?
+PR: Why is TDD preferred for massive MIMO?
+PR: Why does hybrid beamforming use fewer digital chains than antennas?
+ANS: 24.1 dB.
+ANS: 32 − 4 + 1 = 29, so 14.6 dB.
+ANS: 3.2%.
+ANS: 16.
+ANS: Channel reciprocity lets the base station learn all antennas' channels from uplink pilots, with overhead proportional to the number of users rather than antennas.
+ANS: Each digital chain needs its own converters and mixers, whose power and cost at millimeter wave are too high to give one to every element.

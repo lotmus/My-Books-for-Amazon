@@ -1,0 +1,46 @@
+H1: Chapter 7. The Antenna
+P: An antenna is the matching network between a transmission line and free space. Its terminals present an impedance like any other load, and the power that enters them leaves as a wave whose strength depends on direction. This chapter defines the handful of numbers that describe an antenna, directivity, efficiency, gain, effective aperture, and polarization, derives the link equation that combines two antennas and a distance, and sizes the two antennas most boards actually use, the dipole and the patch. The antenna gains in this chapter are the ones every link budget in the series uses; transmitter power is Part II's and the legal limit on what is radiated is Book 7's.
+H2: 7.1 Directivity, efficiency, and gain
+P: An isotropic radiator, a reference that no real antenna achieves, spreads its power equally over a sphere. A real antenna concentrates it. Directivity D is the ratio of the power density in the strongest direction to the density an isotropic radiator would produce with the same total radiated power. Radiation efficiency η is the fraction of the power accepted at the terminals that is radiated rather than lost in conductors and dielectric. Gain is their product, and in decibels it is quoted in dBi.
+EQ: G = η D,    η = Rrad / (Rrad + Rloss)
+P: The resistance seen at an antenna's terminals has two parts: the radiation resistance Rrad, which represents power leaving as a wave, and the loss resistance Rloss. A half-wave dipole has Rrad ≈ 73 Ω and D = 1.64, or 2.15 dBi. An antenna much smaller than a wavelength has a radiation resistance that falls as the square of its size; for a short dipole of length l it is 80π²(l/λ)².
+H2: Worked Example 7.1
+WEP: A short dipole one twentieth of a wavelength long has 2 Ω of conductor loss. Find its radiation resistance and efficiency. Then find the efficiency of a dipole one tenth of a wavelength long with 1.5 Ω of loss.
+WES: For l = λ/20, Rrad = 80π² × (0.05)² = 1.97 Ω, and η = 1.97/(1.97 + 2) = 0.50, so half the accepted power heats the wire: the gain is 3 dB below the directivity. For l = λ/10, Rrad = 80π² × 0.01 = 7.90 Ω and η = 7.90/9.40 = 0.84. Small antennas are inefficient because their radiation resistance shrinks faster than their loss, and they are also hard to match, because a 2 Ω resistance must be transformed to 50 Ω with the high-Q network that Chapter 3 warned against.
+H2: 7.2 Effective aperture and the link equation
+P: A receiving antenna captures the power flowing through an effective area Ae, related to its gain by a factor that depends only on wavelength. The relation, applied to both ends of a link at distance R, gives the Friis transmission equation. The factor (λ/4πR)² is the free-space path factor between two isotropic antennas; antenna gains multiply it.
+EQ: Ae = G λ² / (4π),    Pr / Pt = Gt Gr (λ / 4πR)²
+H2: Worked Example 7.2
+WEP: Find the free-space path factor at 2.45 GHz over 100 m between isotropic antennas. Then find the received power if a 20 dBm transmitter and the receiver both use 10 dBi antennas, and the effective aperture of an isotropic antenna at this frequency.
+WES: λ = 0.1224 m, so (λ/4πR)² = (0.1224/1256.6)² = 9.48 × 10⁻⁹, or −80.2 dB. This is the book's reference number. With 10 dBi at each end, Pr = 20 + 10 + 10 − 80.2 = −40.2 dBm, about 95 nW. An isotropic antenna's aperture is λ²/4π = 0.0150/12.57 = 1.19 × 10⁻³ m², about 12 cm². Increasing the distance tenfold to 1 km lowers the path factor to −100.2 dB: free-space loss grows 20 dB per decade of distance. One decibel lost in the feed between transmitter and antenna is one decibel of radiated power lost, the rule Part II uses for EIRP.
+KEY: Key idea. Gain does not create power; it concentrates it. A higher-gain antenna both radiates more strongly in its main direction and captures more power from it, because its effective aperture is proportional to its gain.
+H2: 7.3 Apertures and beamwidth
+P: For an antenna that is large compared with a wavelength, such as a reflector dish, the gain follows from its physical area and an aperture efficiency ηap, typically 0.55 to 0.7. Its half-power beamwidth is roughly 70 λ/D degrees. Gain and beamwidth trade directly: a narrower beam covers less sky and must be pointed more precisely.
+EQ: G = ηap (π D / λ)²,    θ₃dB ≈ 70 λ / D degrees
+H2: Worked Example 7.3
+WEP: A 0.6 m satellite-television dish has ηap = 0.65 at 12 GHz. Find its gain and beamwidth.
+WES: λ = 2.50 cm. G = 0.65 × (π × 0.6/0.025)² = 0.65 × 5,690 = 3,700, or 35.7 dBi. θ₃dB ≈ 70 × 0.025/0.6 = 2.9°. The dish must be aimed to within about a degree, which is why its mounting bracket is the most carefully specified part of the installation.
+H2: 7.4 Polarization
+P: The electric field of a radiated wave points in a definite direction, its polarization, which may be linear (vertical, horizontal, or slanted) or circular (rotating once per cycle, left- or right-handed). A receiving antenna captures only the component matching its own polarization. Between two linear antennas misaligned by an angle ψ, the polarization loss factor is cos²ψ. Between a linear and a circular antenna it is 0.5, a fixed 3 dB loss in exchange for indifference to orientation, which is why satellite navigation and many mobile links use circular polarization.
+H2: Worked Example 7.4
+WEP: Two linearly polarized antennas are misaligned by 30° and by 45°. Find the polarization loss in each case.
+WES: At 30°, cos² 30° = 0.75, a loss of 1.25 dB. At 45°, cos² 45° = 0.5, a loss of 3.0 dB. At 90° the loss is in theory infinite and in practice 20 to 30 dB, limited by the antennas' cross-polarized radiation, which is the basis of polarization reuse in point-to-point links.
+H2: 7.5 The dipole and the patch
+P: A half-wave dipole is cut slightly shorter than half a free-space wavelength, about 0.47 to 0.48 λ, so that its input reactance is zero; at that length its resistance is near 70 Ω and matches a 50 Ω line with VSWR about 1.4. A dipole is balanced, while coaxial cable is not, so it is fed through a balun to keep current off the outside of the cable. The microstrip patch, a rectangle of copper over a ground plane, is the dipole of circuit boards. It resonates when its length is about half a guided wavelength in the substrate, slightly reduced because the fields fringe past its edges, and it radiates broadside with a gain of about 5 to 7 dBi. The Balanis design equations give its width, effective permittivity, and edge extension ΔL.
+EQ: W = (c / 2f) √(2 / (εr + 1)),    L = c / (2f √εeff) − 2ΔL
+H2: Worked Example 7.5
+WEP: Size a rectangular patch for 2.45 GHz on a 0.813 mm laminate with εr = 3.55.
+WES: W = (0.1224/2) × √(2/4.55) = 6.12 cm × 0.663 = 40.6 mm. The effective permittivity is (εr + 1)/2 + ((εr − 1)/2)(1 + 12h/W)^(−1/2) = 3.42, and the edge extension from the Balanis formula is ΔL = 0.39 mm. Then L = 2.998 × 10⁸/(2 × 2.45 × 10⁹ × √3.42) − 2 × 0.39 mm = 33.1 − 0.78 = 32.3 mm. A simulator and one trimmed prototype normally adjust the length by a few percent, because the patch's resonance, and therefore its narrow bandwidth of a few percent, depends sensitively on the substrate's actual permittivity.
+H2: Practice
+PR: Find the length of a half-wave dipole cut to 0.48λ at 5.8 GHz.
+PR: A small antenna has Rrad = 5 Ω and Rloss = 3 Ω. Find its efficiency and the gain in dBi if its directivity is 1.5 (1.76 dBi).
+PR: Find the free-space path factor at 2.45 GHz over 1 km between isotropic antennas.
+PR: A 0.3 m dish has ηap = 0.6 at 10 GHz. Find its gain and beamwidth.
+PR: Find the effective aperture of a 6 dBi antenna at 2.45 GHz.
+PR: Explain in one or two sentences why a linear antenna receiving a circularly polarized signal loses 3 dB regardless of its orientation.
+ANS: λ = 5.17 cm, so 0.48λ = 2.48 cm.
+ANS: η = 5/8 = 0.625; G = 0.625 × 1.5 = 0.94, or −0.28 dBi.
+ANS: (0.1224/(4π × 1000))² = 9.48 × 10⁻¹¹, or −100.2 dB.
+ANS: λ = 3.0 cm; G = 0.6 × (π × 0.3/0.03)² = 592, or 27.7 dBi; θ₃dB ≈ 70 × 0.03/0.3 = 7.0°.
+ANS: G = 3.98; Ae = 3.98 × 0.1224²/(4π) = 4.74 × 10⁻³ m², about 47 cm².
+ANS: A circular wave can be split into two equal linear components at right angles with a 90° phase difference; a linear antenna at any angle captures exactly one of the two equal halves of the power.

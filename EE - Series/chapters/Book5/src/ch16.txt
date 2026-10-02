@@ -1,0 +1,34 @@
+H1: Chapter 16. Ranging and Positioning
+P: A radio signal carries not only bits but time, and time multiplied by the speed of light is distance. Satellite navigation, ultra-wideband tags that find keys to within centimeters, and the positioning built into 5G all measure the arrival time of a signal. This chapter shows how accurately a signal's arrival can be timed, why clock errors dominate and how two-way ranging cancels them, and how ranges become a position.
+H2: 16.1 Time is distance
+P: Light travels 30 cm in a nanosecond, so a ranging system that wants decimeter accuracy must time arrivals to a fraction of a nanosecond. The best possible timing accuracy, the Cramér-Rao bound, depends on the signal's bandwidth and SNR: the standard deviation of the arrival-time estimate is 1/(2πβ√(2 SNR)), where β is the root-mean-square bandwidth, B/√12 for a flat spectrum of width B. Bandwidth is the key: a 500 MHz ultra-wideband pulse is timed far better than a 1 MHz narrowband signal at the same SNR, and its short duration also separates the direct path from reflections arriving a few nanoseconds later, which is what actually limits accuracy indoors.
+EQ: σd = c / (2π β √(2 SNR)),   β = B/√12  (flat spectrum)
+H2: Worked Example 16.1
+WEP: An ultra-wideband ranging signal occupies 500 MHz with a flat spectrum and arrives at an SNR of 20 dB. Find the bound on ranging accuracy.
+WES: β = 500 MHz/√12 = 144 MHz. σd = 2.998 × 10⁸ / (2π × 1.443 × 10⁸ × √200) = 0.023 m, about 2 cm. Multipath and antenna delays usually make real systems several times worse, around 10 cm, still far better than the meters of signal-strength methods.
+H2: 16.2 Clocks and two-way ranging
+P: One-way ranging requires the transmitter's and receiver's clocks to agree to a nanosecond, which cheap crystals cannot do. Two-way ranging avoids the problem: device A sends a message, B replies after a known delay, and A measures the round trip with its own clock, so the offset between clocks cancels. Their frequency difference does not: during B's reply delay, a difference in clock rates of δ produces an error in the time of flight of about δ × Treply / 2. Double-sided two-way ranging, with an exchange in each direction, cancels this first-order error too.
+EQ: ToF = (Tround − Treply)/2,   error ≈ δ Treply / 2
+H2: Worked Example 16.2
+WEP: Two UWB devices have crystals that differ by 20 ppm, and the reply delay is 1 ms. Find the single-sided ranging error.
+WES: The time error is 20 × 10⁻⁶ × 10⁻³ / 2 = 10 ns, a distance error of 3.0 m, a hundred times worse than the timing bound of Example 16.1. This is why UWB systems use double-sided ranging or estimate the clock-rate difference from the carrier.
+KEY: Key idea. Ranging turns arrival time into distance at 30 cm per nanosecond. Bandwidth sets how precisely the arrival can be timed, but clock errors and multipath usually dominate, and two-way exchanges are how cheap devices cancel their clocks.
+H2: 16.3 From ranges to position
+P: Three ranges to known points fix a position in two dimensions with a clock known, or in three dimensions if the receiver's own clock is also unknown and a fourth range resolves it, as in GNSS. Measuring differences of arrival time between pairs of receivers, TDoA, places the transmitter on hyperbolas without needing its clock. The geometry matters: when the reference points lie in nearly the same direction, the lines of position cross at shallow angles and errors grow. The dilution of precision, DOP, captures that factor: the position error is about DOP times the range error.
+EQ: σposition ≈ DOP × σrange
+H2: Worked Example 16.3
+WEP: A GNSS receiver has a range error of 3 m and a position DOP of 1.8. Estimate its position error. What happens in an urban canyon where only satellites high overhead are visible and the PDOP rises to 6?
+WES: 1.8 × 3 = 5.4 m in open sky. With PDOP 6, the error grows to 18 m, and reflected signals add range errors of their own. Dual-frequency receivers remove most of the ionospheric error, and carrier-phase techniques with a reference station reach centimeters.
+H2: Practice
+PR: How far does light travel in 100 ns?
+PR: Find the ranging bound for a 100 MHz flat signal at 20 dB SNR.
+PR: Clocks differ by 5 ppm and the reply delay is 200 µs. Find the single-sided ranging error.
+PR: A range error of 1 m and DOP of 2.5 give what position error?
+PR: Why does a wide bandwidth help against multipath?
+PR: Why does GNSS need four satellites for a three-dimensional fix?
+ANS: 30.0 m.
+ANS: About 0.117 m.
+ANS: 0.5 ns, or 0.15 m.
+ANS: 2.5 m.
+ANS: A wide-band signal has short correlation peaks, so the direct path and reflections arriving nanoseconds later can be separated.
+ANS: The receiver's clock offset is a fourth unknown alongside the three coordinates.

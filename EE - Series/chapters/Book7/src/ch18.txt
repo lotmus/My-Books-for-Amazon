@@ -1,0 +1,35 @@
+H1: Chapter 18. Antenna in Package
+P: At millimeter wave, the antenna is small enough to sit on the package, and the interconnect between chip and antenna is lossy enough that it should. An antenna-in-package module places the transceiver die, Book 4's subject, and an array of patch antennas, Book 4's subject, in one substrate, so the radio leaves the package as a radiated beam rather than as a signal on a board trace. This chapter explains why, sizes the array, and lists the packaging problems that come with it.
+H2: 18.1 Why the antenna moves into the package
+P: Transmission-line loss grows with frequency, as Chapter 14 showed for digital links. At 60 GHz a few centimeters of board trace and two connectors can cost several decibels, paid once on transmit and again on receive. Putting the antenna a couple of millimeters from the die removes most of that loss. The array also needs many feeds, one per element or subarray, and those feeds are far easier to route inside a multilayer package than across a board.
+H2: Worked Example 18.1
+WEP: Assume a board trace loss of 1.0 dB/cm at 60 GHz. Compare a 3 cm board route with a 2 mm in-package route.
+WES: The board route costs 3.0 dB and the package route 0.2 dB, a saving of 2.8 dB at each end of the link, 5.6 dB on a two-way link. By Book 4's Friis relation, 5.6 dB of extra margin almost doubles the range, since range scales with the square root of the power ratio: 10^(5.6/20) = 1.9.
+H2: 18.2 Sizing the elements and the array
+P: A patch antenna resonates when its length is about half a wavelength in its substrate. Elements are spaced about half a free-space wavelength apart to avoid the grating lobes of Book 4's Chapter 8. At 60 GHz, λ₀ = 5.0 mm, so the spacing is 2.5 mm and a 4 × 4 array occupies about 10 × 10 mm, a package-sized area. At 28 GHz the spacing is 5.4 mm, and an 8 × 8 array is about 43 mm on a side, which is why many 28 GHz arrays tile several smaller modules on a board.
+EQ: L_patch ≈ λ₀ / (2√εr),   d ≈ λ₀/2
+H2: Worked Example 18.2
+WEP: Find the approximate patch length on a substrate with εr = 3.5 at 60 GHz, and the size of a 4 × 4 array at half-wavelength spacing.
+WES: L ≈ 5.0/(2 × 1.871) = 1.34 mm before the fringing correction, which shortens it slightly. The array is 4 × 2.5 = 10 mm on a side. Both dimensions are within the layer and via tolerances of a package substrate, which is why millimeter-wave arrays are built there.
+H2: 18.3 EIRP of a phased array
+P: In a transmitting array each element has its own amplifier. The total conducted power grows as N, and the array gain grows as N as well, so the effective isotropic radiated power grows as N². That is how arrays reach useful EIRP from small, low-voltage amplifiers on silicon.
+EQ: EIRP = P_element + 20 log₁₀ N + G_element  (dBm)
+H2: Worked Example 18.3
+WEP: A 16-element array has 10 dBm per element and 5 dBi element gain. Find the EIRP.
+WES: EIRP = 10 + 20 log 16 + 5 = 10 + 24.1 + 5 = 39.1 dBm. A single element would give 15 dBm, so the array adds 24.1 dB, half from combined power and half from gain.
+KEY: Key idea. At millimeter wave the antenna belongs next to the die. Half-wavelength spacing makes the array package-sized, and EIRP grows as N² because power and gain both grow with N.
+H2: 18.4 Packaging problems
+P: The package substrate must now be an antenna substrate, with a controlled permittivity and low loss at the frequency of use, read from the data sheets as Chapter 4 recommends. Heat from the die must leave through the side of the package opposite the antennas, because a heatsink over the array would block it. The array's ground plane separates the radiating layers from the routing layers, and each via transition through it must be modeled as in Chapter 5. Testing changes too: the module has no RF connector, so it is measured over the air in a small anechoic chamber with the methods of Book 4's Chapter 16 and Part II's test discipline.
+H2: Practice
+PR: Find the half-wavelength spacing at 77 GHz.
+PR: Find the approximate patch length at 28 GHz with εr = 3.5.
+PR: Find the EIRP of a 64-element array with 5 dBm per element and 5 dBi element gain.
+PR: How many decibels of EIRP does doubling the number of elements add?
+PR: With 0.8 dB/cm of trace loss, what is the loss of a 4 cm board route?
+PR: Why cannot the heatsink sit over the antenna array?
+ANS: 1.95 mm.
+ANS: 2.86 mm.
+ANS: 46.1 dBm.
+ANS: 6.0 dB.
+ANS: 3.2 dB.
+ANS: The metal would block and detune the antennas, so heat must leave from the opposite side of the package.

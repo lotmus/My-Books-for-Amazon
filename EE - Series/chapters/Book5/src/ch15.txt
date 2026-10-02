@@ -1,0 +1,35 @@
+H1: Chapter 15. Link Adaptation, HARQ, and Real Throughput
+P: The channel of Chapter 5 changes from moment to moment, and a fixed modulation and code would be either too fragile when the channel is poor or too timid when it is good. Modern links therefore choose their modulation and coding scheme, the MCS, every few milliseconds from the receiver's reports, and repair failed blocks with hybrid automatic repeat request, HARQ. This chapter shows how those mechanisms turn the Shannon bound of Chapter 1 into the throughput a user actually sees.
+H2: 15.1 The gap to Shannon
+P: Practical modulation and coding fall short of Shannon's capacity by a roughly constant SNR gap: the achievable spectral efficiency is about log₂(1 + SNR/Γ). With modern LDPC and polar codes at the block error rates links use, Γ is about 2 to 3 dB. The MCS table of a standard is a ladder of rates spaced across that curve. 5G NR's highest entry for 256-QAM uses a code rate of 948/1024, which carries 8 × 948/1024 = 7.41 bits per symbol.
+EQ: η ≈ log₂(1 + SNR/Γ),   Γ ≈ 2 to 3 dB
+H2: Worked Example 15.1
+WEP: A link has an SNR of 15 dB. Find the Shannon spectral efficiency and the practical one with a 3 dB gap.
+WES: SNR = 31.6, so log₂(32.6) = 5.03 bit/s/Hz. With the 3 dB gap, log₂(1 + 31.6/2.0) = 4.07 bit/s/Hz. The scheduler would pick the MCS whose efficiency is just below 4.07, a 64-QAM entry with a code rate near two-thirds.
+H2: 15.2 Choosing the MCS
+P: The receiver measures its SNR or SINR, usually from the pilots of Chapter 13, and reports a channel-quality index; the transmitter maps it to an MCS. Because the report is delayed and noisy, the link deliberately aims at a target block error rate, typically 10%, rather than at zero errors: an occasional error repaired by HARQ costs less than the throughput lost by always choosing a robust MCS. An outer loop corrects the mapping by watching the acknowledgments. Each failure raises an SNR backoff by a step Δup; each success lowers it by Δdown = Δup × BLER/(1 − BLER), so that at the target rate the two balance.
+EQ: throughput = R (1 − BLER),   Δdown = Δup × BLER/(1 − BLER)
+H2: Worked Example 15.2
+WEP: At the current channel, MCS A delivers 4.0 bit/s/Hz with a 30% block error rate, and MCS B delivers 3.3 bit/s/Hz with 5%. Which gives more throughput? Find the outer-loop down step for a 10% target with a 0.5 dB up step.
+WES: A: 4.0 × 0.70 = 2.80 bit/s/Hz. B: 3.3 × 0.95 = 3.14 bit/s/Hz. The more robust MCS wins here, even before counting the latency of retransmissions. For the outer loop, Δdown = 0.5 × 0.1/0.9 = 0.056 dB: nine successes at 0.056 dB balance one failure at 0.5 dB.
+KEY: Key idea. Links aim at a moderate block error rate, not zero, and adapt the MCS to the measured channel. HARQ makes the occasional failure cheap by combining the retransmission with what was already received.
+H2: 15.3 Hybrid ARQ
+P: A plain retransmission discards the failed block. HARQ keeps it. In chase combining, the retransmission repeats the same coded bits, and the receiver adds the two copies, doubling the energy: a 3 dB gain in effective SNR. In incremental redundancy, the retransmission sends new parity bits, lowering the effective code rate; after two transmissions of a rate-3/4 code, the combined code has rate 3/8, a much stronger code than simple repetition provides. 5G and LTE use incremental redundancy with up to four transmissions and run several HARQ processes in parallel so the link stays busy while acknowledgments travel.
+H2: Worked Example 15.3
+WEP: A block fails on its first transmission 10% of the time and always succeeds on the second. What fraction of the first-transmission rate does the link deliver?
+WES: The average number of transmissions per block is 1 + 0.1 = 1.1, so the throughput is 1/1.1 = 0.909 of the first-transmission rate, and the 10% of blocks that need a second transmission arrive one HARQ round trip later, a few milliseconds in LTE and as little as a fraction of a millisecond in 5G.
+H2: 15.4 From PHY rate to user throughput
+P: A user's throughput is the PHY rate of Chapter 7 reduced in steps: by the MCS the channel actually supports, by the block error rate, by pilot and control overhead, by the share of resources the scheduler of Chapter 14 assigns, and by protocol overhead above the PHY. In a loaded cell a user may see a tenth or less of the peak rate on the box. The engineering lesson is that the peak rates of Chapter 7 describe the best case of one link, while the averages and the cell-edge rates describe the network.
+H2: Practice
+PR: Find the practical spectral efficiency at 25 dB SNR with a 3 dB gap, and compare it with Shannon.
+PR: What effective SNR gain does chase combining of three equal transmissions give?
+PR: MCS C gives 5.0 bit/s/Hz at 20% BLER; MCS D gives 4.5 at 8%. Which delivers more?
+PR: Find the outer-loop down step for a 1% BLER target with a 1 dB up step.
+PR: A rate-2/3 code is extended by incremental redundancy with one retransmission of the same size. What is the combined rate?
+PR: Why do links target about 10% block errors instead of none?
+ANS: 7.32 bit/s/Hz against 8.31 for Shannon.
+ANS: 10 log10 3 = 4.8 dB.
+ANS: C: 4.00; D: 4.14. D delivers more.
+ANS: 1 × 0.01/0.99 = 0.0101 dB.
+ANS: 1/3.
+ANS: A robust MCS that never fails wastes throughput all the time, while HARQ repairs occasional failures cheaply, so a moderate error rate with a faster MCS gives more average throughput.

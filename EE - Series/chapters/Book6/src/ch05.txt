@@ -1,0 +1,36 @@
+H1: Chapter 5. Isolated Converters
+P: The converters of Chapters 3 and 4 share a ground between input and output. Anything connected to the mains must not: a fault in the converter must never put line voltage on a connector a person can touch. Isolated converters pass power through a transformer, which also allows large voltage ratios that a buck or boost could not handle efficiently. This chapter covers the three main isolated topologies, the flyback, the forward, and the resonant LLC, and the wide-bandgap switches that let them run fast and efficiently. The transformer itself is in Chapter 6; safety standards for isolation, such as IEC 62368-1, set the creepage and insulation that the transformer must meet.
+H2: 5.1 The flyback
+P: The flyback is a buck-boost whose inductor has a second winding. When the primary switch is on, the coupled inductor stores energy in its magnetizing inductance, and the secondary rectifier is reverse-biased. When it switches off, the stored energy flows out of the secondary to the load. It needs only one switch, one magnetic component, and one rectifier, which makes it the standard topology for chargers and auxiliary supplies up to about 100 W. Its drawbacks are that all the energy must be stored in the transformer's gap each cycle, and that the leakage inductance between windings causes a voltage spike when the switch turns off, which a clamp or snubber must absorb.
+EQ: Vout = Vin × D / [(1 − D) n],   n = Np/Ns;   switch stress ≈ Vin + n Vout + spike
+H2: Worked Example 5.1
+WEP: A flyback runs from a 375 V rectified bus to 12 V with a 15:1 turns ratio in continuous conduction. Find the duty cycle, the reflected voltage, and the switch's off-state voltage before the leakage spike.
+WES: D/(1 − D) = nVout/Vin = 15 × 12/375 = 0.48, so D = 0.324. The output voltage reflected to the primary is 15 × 12 = 180 V, so the switch must block 375 + 180 = 555 V, plus the leakage spike. A 650 V gallium-nitride switch or an 800 V silicon MOSFET is the usual choice. A higher turns ratio would raise the duty cycle and the switch stress; a lower one would lower the stress but increase the secondary current and its loss.
+H2: Worked Example 5.2
+WEP: A 24 W flyback running in discontinuous conduction at 100 kHz has a primary magnetizing inductance of 500 µH. Find the energy stored per cycle and the peak primary current, neglecting losses.
+WES: The energy per cycle is P/fsw = 24/10⁵ = 240 µJ. With E = ½LIpk², Ipk = √(2 × 240 × 10⁻⁶/500 × 10⁻⁶) = 0.98 A. The core and its gap must store this energy without saturating, which Chapter 6 shows sets the core size of a flyback.
+H2: 5.2 The forward converter
+P: The forward converter is an isolated buck. The transformer transfers energy directly while the switch is on, and an output inductor smooths it, so the output is Vout = DVin/n. The transformer stores little energy, but its magnetizing current must be reset during each off-time, by a reset winding, an active clamp, or a second switch, and the reset limits the duty cycle, typically to below 0.5 for the simplest reset. Forward converters and their two-switch and active-clamp variants serve the range from about 100 W to 1 kW. Full-bridge and phase-shifted full-bridge converters take over above that.
+EQ: Vout = D Vin / n   (forward)
+H2: 5.3 The LLC resonant converter
+P: The LLC converter drives a series resonant tank, a resonant inductor Lr, a capacitor Cr, and the transformer's magnetizing inductance, with a half-bridge or full-bridge of switches at close to its resonant frequency fr = 1/(2π√(LrCr)). Near resonance the switches turn on with zero voltage across them, and the secondary rectifiers turn off at zero current, so switching losses nearly vanish. The output is regulated by moving the switching frequency around resonance. LLC converters dominate server power supplies and the high-efficiency stages of data-center shelves, where they reach 97 to 98%. A fixed-ratio form, the DC transformer or bus converter, runs exactly at resonance and converts 48 V to 12 V, or higher bus voltages down, at a fixed ratio with very high efficiency.
+EQ: fr = 1 / (2π √(Lr Cr))
+H2: Worked Example 5.3
+WEP: An LLC has Lr = 50 µH and Cr = 22 nF. Find its resonant frequency. It runs from a 400 V bus with a half-bridge to produce 12 V. What transformer turns ratio gives unity tank gain at resonance?
+WES: fr = 1/(2π√(50 × 10⁻⁶ × 22 × 10⁻⁹)) = 152 kHz. A half-bridge applies a square wave of amplitude Vin/2 = 200 V to the tank, so for 12 V at unity gain the ratio is 200/12 = 16.7. Designers then add the rectifier drop and choose an integer or convenient ratio, letting the frequency control absorb the difference.
+KEY: Key idea. A transformer buys isolation and large ratios. The flyback stores energy in it, the forward converter passes energy through it, and the LLC uses resonance so that its switches turn on at zero voltage and off at low loss.
+H2: 5.4 Wide-bandgap switches
+P: Gallium-nitride transistors at 650 V and silicon-carbide MOSFETs at 650 V to 1700 V and beyond have transformed isolated converters. GaN has very low capacitance and no reverse-recovery charge, so it switches in a few nanoseconds and enables flybacks and LLCs at several hundred kilohertz to megahertz in small chargers. SiC withstands higher voltage and temperature and dominates electric-vehicle traction inverters, onboard chargers, and solar inverters at 800 V. Both demand careful gate drive and layout, because their fast edges excite every parasitic inductance; the hot-loop rule of Chapter 3 applies with greater force. Indium phosphide, the high-frequency compound of Book 4, has no role in power conversion.
+H2: Practice
+PR: A forward converter has n = 2 and runs from 48 V at D = 0.4. Find its output.
+PR: A flyback converts 48 V to 5 V with a 4:1 ratio. Find its duty cycle in continuous conduction.
+PR: Find the switch stress, before the spike, of the flyback in the previous problem.
+PR: Find the resonant frequency of an LLC with Lr = 100 µH and Cr = 10 nF.
+PR: A flyback stores 100 µJ per cycle at 200 kHz. What power does it deliver, neglecting losses?
+PR: Why does an LLC converter have lower switching losses than a hard-switched forward converter?
+ANS: 48 × 0.4/2 = 9.6 V.
+ANS: D/(1 − D) = 4 × 5/48 = 0.417, so D = 0.294.
+ANS: 48 + 4 × 5 = 68 V.
+ANS: 1/(2π√(10⁻¹²)) = 159 kHz.
+ANS: 100 µJ × 200 × 10³ = 20 W.
+ANS: Operating near resonance, its switches turn on after their voltage has swung to zero and its rectifiers turn off at zero current, so the voltage-current overlap losses at each transition nearly disappear.

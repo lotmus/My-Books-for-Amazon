@@ -1,0 +1,36 @@
+H1: Chapter 10. Microstrip and Stripline by Design
+P: Chapter 2 treated a transmission line through its characteristic impedance and velocity without asking how a given geometry produces them. On a circuit board the line is a copper trace over a ground plane, microstrip, or a trace buried between two planes, stripline. This chapter gives the closed-form design equations for both, shows how to find the trace width for a wanted impedance, and estimates the dielectric loss. The laminate's measured properties at 10 GHz are Book 7's; here a typical value stands in, and the method is the subject.
+H2: 10.1 Microstrip and its effective permittivity
+P: In microstrip, part of the field lies in the substrate and part in the air above it, so the wave travels at a speed set by an effective permittivity between 1 and εr. Wider traces put more of the field in the substrate and raise εeff; they also lower the impedance. Hammerstad's equations, as given in Pozar, express both in terms of the width-to-height ratio u = W/h, accurate to about 1% for most practical boards. Designers usually need the inverse: the width that gives 50 Ω. Wheeler's synthesis formula provides it in closed form.
+EQ: εeff = (εr + 1)/2 + (εr − 1)/(2√(1 + 12/u));   Z0 = 120π / [√εeff (u + 1.393 + 0.667 ln(u + 1.444))]  (u ≥ 1)
+H2: Worked Example 10.1
+WEP: A laminate has εr = 3.55 and a thickness of 0.508 mm. Find the trace widths for 50 Ω, 70.7 Ω, and 35.4 Ω, the impedances the Wilkinson and branch-line designs of Chapter 9 need, and the guided wavelength of the 50 Ω line at 10 GHz.
+WES: The synthesis gives u = 2.24 for 50 Ω, a width of 1.14 mm, with εeff = 2.78; checking with Hammerstad's analysis gives 50.3 Ω. For 70.7 Ω, u = 1.22, a width of 0.62 mm, εeff = 2.66. For 35.4 Ω, u = 3.74, a width of 1.90 mm, εeff = 2.90. At 10 GHz the 50 Ω line's guided wavelength is 30.0/√2.78 = 18.0 mm. On a 1.6 mm FR-4 board with εr = 4.4, the 50 Ω width would be 3.06 mm, with εeff = 3.33.
+H2: 10.2 Stripline
+P: In stripline the trace is fully embedded in dielectric between two ground planes, so the wave is a true TEM wave with εeff = εr, and the line is shielded, which keeps its fields away from neighbors and from the outside world. For a thin strip of width W centered between planes separated by b, Pozar's formula gives Z0 = 30π b /(√εr (We + 0.441b)), with We ≈ W for wide strips. Stripline is slower than microstrip on the same laminate and its traces are narrower for the same impedance, but it radiates less and couples less, which suits dense digital and RF boards alike.
+EQ: stripline: Z0 = 30π b / [√εr (W + 0.441 b)]  (for √εr Z0 < 120 Ω)
+H2: Worked Example 10.2
+WEP: Find the width of a 50 Ω stripline with εr = 3.55 and a 1.0 mm plane spacing. Compare its velocity with the microstrip of Example 10.1.
+WES: W/b = 30π/(√3.55 × 50) − 0.441 = 0.559, so W = 0.56 mm, half the microstrip's width. Its velocity is c/√3.55 = 0.531c, against c/√2.78 = 0.600c for the microstrip, so a stripline delay line is about 12% shorter for the same delay.
+KEY: Key idea. A line's impedance is set by the ratio of its width to its height above the ground, and its velocity by how much of the field lies in the dielectric. Closed-form formulas get within about a percent; a field solver and a test coupon confirm the rest.
+H2: 10.3 Dielectric and conductor loss
+P: The dielectric's loss tangent, tan δ, converts part of the stored electric energy to heat every cycle, giving an attenuation that rises in proportion to frequency. For microstrip, only the part of the field in the substrate contributes, so αd = k0 εr (εeff − 1) tan δ / (2√εeff (εr − 1)) nepers per meter. Conductor loss rises with the square root of frequency through the skin effect of Book 6's Chapter 6 and is increased by copper roughness, which at tens of gigahertz can add half again to the smooth-copper value. Above a few gigahertz on low-cost laminates, dielectric loss dominates; on low-loss laminates, conductor loss often does.
+EQ: αd = k0 εr (εeff − 1) tan δ / [2 √εeff (εr − 1)]  Np/m;   1 Np = 8.686 dB
+H2: Worked Example 10.3
+WEP: The 50 Ω microstrip of Example 10.1 is on a laminate with tan δ = 0.0027. Find its dielectric loss at 10 GHz.
+WES: k0 = 2π × 10¹⁰/2.998 × 10⁸ = 209.6 rad/m. αd = 209.6 × 3.55 × 1.78 × 0.0027 / (2 × 1.667 × 2.55) = 0.421 Np/m, or 3.65 dB/m, 0.037 dB/cm. A 10 cm feed line therefore loses about 0.37 dB to the dielectric alone, before conductor loss is added.
+H2: 10.4 Dispersion, modes, and discontinuities
+P: Microstrip is not perfectly TEM, so its εeff rises slowly with frequency, an effect called dispersion that matters for wideband pulses and at millimeter waves. Thick substrates and wide traces can also support higher-order and surface-wave modes above a cutoff, so millimeter-wave boards use thin substrates. Bends, steps in width, T-junctions, and vias add parasitic capacitance and inductance; mitered bends and teardrop transitions reduce them, and circuit simulators model each discontinuity explicitly. The via between layers, discussed in Book 7, is often the largest single discontinuity on a fast board.
+H2: Practice
+PR: Find εeff for a microstrip with εr = 3.55 and u = 2.24.
+PR: Find the guided wavelength at 28 GHz on a line with εeff = 2.78.
+PR: Find the 50 Ω stripline width for εr = 3.0 and b = 0.8 mm.
+PR: A line loses 0.037 dB/cm to the dielectric at 10 GHz. Estimate the loss at 20 GHz.
+PR: Why is a stripline's effective permittivity equal to εr?
+PR: Why do millimeter-wave boards use thin substrates?
+ANS: About 2.78.
+ANS: 10.7/√2.78 = 6.42 mm.
+ANS: W/b = 30π/(√3 × 50) − 0.441 = 0.647, so W = 0.52 mm.
+ANS: About 0.074 dB/cm, since dielectric loss scales with frequency.
+ANS: Its field lies entirely within the homogeneous dielectric between the planes.
+ANS: Thin substrates push the cutoff of surface-wave and higher-order modes above the operating frequency and keep the traces narrow enough for the small structures at those wavelengths.

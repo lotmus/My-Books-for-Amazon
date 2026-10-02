@@ -1,0 +1,36 @@
+H1: Chapter 16. Grid Codes and Inverter-Based Resources
+P: Chapter 7 introduced the grid's frequencies and the rule that a generator connected to it must follow the grid's codes. Solar plants, wind farms, and battery systems connect through inverters like those of Chapter 13, and as their share grows they must do what spinning generators used to do automatically: support the frequency, hold up the voltage, and stay connected through disturbances. This chapter explains the physics behind the requirements and computes the main quantities: droop response, rate of change of frequency, and reactive support. In the United States the distribution-level rules are IEEE 1547-2018, and transmission-connected plants follow IEEE 2800-2022 and their operator's codes; Europe's network codes play the same role.
+H2: 16.1 Frequency, inertia, and the first seconds
+P: The grid's frequency is set by the balance of generation and load. When a large generator trips, the shortfall is first supplied by the kinetic energy of every synchronous machine's rotor, which slows them all down together. The inertia constant H, the stored kinetic energy divided by the machine rating, typically 2 to 9 seconds, sets how fast the frequency falls: the initial rate of change of frequency is ΔP f0 / (2 H S) for a power deficit ΔP in a system of rating S. Inverter-based resources have no rotor, so a grid dominated by them has less inertia and faster frequency swings unless the inverters are programmed to respond.
+EQ: RoCoF = (ΔP / S) × f0 / (2H)
+H2: Worked Example 16.1
+WEP: A 1 GW plant trips in a 50 GW system at 60 Hz with an aggregate inertia constant of 4 s. Find the initial rate of change of frequency. What if displacing synchronous plant halves the inertia?
+WES: RoCoF = (1/50) × 60 / (2 × 4) = 0.15 Hz/s. With H = 2 s, it doubles to 0.30 Hz/s. Protection relays that trip on a high rate of change, and the time available for primary response before the frequency reaches its load-shedding threshold, are both set against this number.
+H2: 16.2 Droop response
+P: Within seconds, generators' governors raise output in proportion to the frequency drop, a behavior called droop: a 5% droop means the output would change by 100% of rating for a 5% change in frequency. Grid codes require inverter-based plants to provide the same frequency-watt response, raising output on underfrequency if they hold headroom, and reducing it on overfrequency, which every plant can do. A battery can respond within a fraction of a second, far faster than a steam turbine, which makes it valuable for fast frequency response.
+EQ: ΔP/Prated = −(Δf/f0) / droop
+H2: Worked Example 16.2
+WEP: A 100 MW battery plant has 5% droop. The frequency falls by 0.3 Hz from 60 Hz. What extra power does it deliver?
+WES: Δf/f0 = 0.3/60 = 0.005; divided by 0.05, the response is 10% of rating, 10 MW. If the plant's droop were set to 2%, the same event would call for 25 MW.
+KEY: Key idea. Grid codes ask inverters to replace what synchronous machines did by physics: respond to frequency with droop, support voltage with reactive power, and stay connected through faults. Their control software, not their hardware, now holds up much of the grid.
+H2: 16.3 Voltage and reactive power
+P: Voltage on a transmission line is held up by reactive power, as Chapter 7's power-factor discussion implied. An inverter can supply or absorb reactive power within its current rating: its apparent power S must cover both, S² = P² + Q². Grid codes require a plant to operate across a range of power factors, commonly 0.95 leading to lagging at full output, and to follow volt-var curves that raise reactive output as voltage falls. Sizing the inverter for reactive capability therefore costs real kVA.
+EQ: S = √(P² + Q²),   at PF 0.95: Q = P tan(arccos 0.95) = 0.329 P
+H2: Worked Example 16.3
+WEP: A solar plant must deliver 50 MW at a power factor of 0.95. What inverter rating does it need, and how much reactive power does that provide?
+WES: S = 50/0.95 = 52.6 MVA, and Q = √(52.6² − 50²) = 16.4 Mvar. The plant must install about 5% more inverter capacity than its real-power rating to meet the requirement.
+H2: 16.4 Ride-through and grid-forming control
+P: When a fault on the transmission system depresses the voltage, older codes let small generators disconnect; with large shares of inverter-based generation, mass disconnection could turn a local fault into a blackout, as several events in the late 2010s demonstrated. Modern codes require ride-through: the plant must stay connected through specified voltage and frequency excursions for specified times and inject reactive current during the dip. Most inverters today are grid-following: they measure the grid's voltage with a phase-locked loop and inject current synchronized to it. Grid-forming inverters instead behave as voltage sources with their own internal frequency reference, emulating inertia and able to support a weak grid or restart one; their adoption is a major trend of the mid-2020s.
+H2: Practice
+PR: Find the RoCoF for a 2 GW loss in a 100 GW 50 Hz system with H = 5 s.
+PR: A 200 MW plant has 4% droop. How much does it respond to a 0.2 Hz drop at 50 Hz?
+PR: Find the inverter rating for 20 MW at a power factor of 0.9.
+PR: How much reactive power can a 10 MVA inverter supply while delivering 8 MW?
+PR: Why does a grid with fewer synchronous machines see faster frequency swings?
+PR: What is the difference between grid-following and grid-forming inverters?
+ANS: (2/100) × 50/10 = 0.10 Hz/s.
+ANS: (0.2/50)/0.04 = 10% of 200 MW, 20 MW.
+ANS: 22.2 MVA.
+ANS: 6 Mvar.
+ANS: There is less rotating kinetic energy to supply an imbalance, so the frequency changes faster for the same power deficit.
+ANS: A grid-following inverter injects current synchronized to a grid voltage it measures; a grid-forming inverter sets its own voltage and frequency and so can support or create the grid voltage itself.

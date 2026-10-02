@@ -1,0 +1,32 @@
+H1: Chapter 20. Charging Supplies and Solid-State Pulsed Power
+P: Chapter 8 introduced shelf C, high voltage and pulsed power: storing energy in capacitors and releasing it in a Marx generator or a pulse-forming line. This chapter covers the two engineering problems that sit on either side of that release. Before the pulse, a charging supply must refill the capacitor bank at the pulse rate, efficiently. During the pulse, modern systems increasingly use stacks of semiconductor switches instead of spark gaps and thyratrons, which raises the problem of sharing a high voltage among many devices.
+H2: 20.1 The average power of a repetitive system
+P: Each pulse draws the energy ½CV² from the bank, and the charging supply must replace it before the next pulse. Its average output power is therefore that energy times the pulse repetition frequency. The charging supply's peak power can be far larger if the recharge time is short compared with the pulse period, but a supply that charges over the whole period sees a steady load. Radar transmitters, medical linear accelerators, and industrial pulsed systems all run at repetition rates where this average power is tens to hundreds of kilowatts.
+EQ: Pavg = ½ C V² × PRF
+H2: Worked Example 20.1
+WEP: A 1 µF bank is charged to 40 kV and discharged 100 times a second. Find the energy per pulse and the charging supply's average power.
+WES: E = ½ × 10⁻⁶ × (4 × 10⁴)² = 800 J per pulse, and Pavg = 800 × 100 = 80 kW. A supply that is 90% efficient draws 88.9 kW from the line and dissipates 8.9 kW, by Chapter 1's waste formula.
+H2: 20.2 Why resistive charging wastes half
+P: Charging a capacitor from a fixed voltage through a resistor delivers ½CV² to the capacitor and dissipates exactly the same amount in the resistor, regardless of its value: resistive charging is at best 50% efficient. Command-charging and constant-current supplies avoid this by charging the capacitor with a controlled current from a switching converter, often a resonant series converter whose output naturally behaves as a current source, so that the loss is set by the converter's efficiency rather than by the charging physics. At 80 kW, that difference is the difference between 8.9 kW and 80 kW of waste.
+KEY: Key idea. A pulsed system's charging supply must deliver the pulse energy times the repetition rate, and it must charge with a controlled current, because charging a capacitor from a voltage source through a resistor always wastes as much energy as it stores.
+H2: 20.3 Series stacks of switches
+P: A single IGBT or SiC MOSFET blocks a kilovolt or a few; a 40 kV modulator needs dozens in series. Semiconductor stacks switch in nanoseconds to microseconds, run at high repetition rates, and last far longer than gas switches, but they must share the voltage evenly at all times. In the off state, differences in leakage current unbalance the voltages, and static sharing resistors across each device swamp those differences. During switching, differences in timing unbalance the transient voltage, and RC snubbers and synchronized gate drives, delivered through isolated drivers of the kind in Chapter 19 that must each withstand the full stack voltage at their position, keep the devices together. Solid-state Marx generators, in which each stage is a capacitor and a semiconductor switch, combine the two ideas.
+EQ: Rshare ≤ ΔVallowed / ΔIleak
+H2: Worked Example 20.2
+WEP: A 40 kV stack uses devices operated at 600 V each, half their 1.2 kV rating. How many are needed? If leakage may differ by 100 µA between devices and the imbalance must stay below 60 V, find the sharing resistor and its loss.
+WES: 40,000/600 = 66.7, so 67 devices. Rshare ≤ 60 V/100 µA = 600 kΩ, and each resistor dissipates 600²/600 kΩ = 0.6 W, about 40 W for the stack, a small price for safety.
+H2: 20.4 Safety on shelf C
+P: The energies of pulsed-power systems are lethal. A 1 µF bank at 40 kV stores 800 J, and even a bank that has been switched off can recharge itself from dielectric absorption. Standard practice includes interlocked enclosures, automatic dump switches and bleeder resistors that discharge the bank when a door opens, visible grounding sticks applied before work begins, and clearances designed for the full voltage plus transients. The insulation design of Chapter 8, with its margin for partial discharge and surface tracking, is part of the same discipline.
+H2: Practice
+PR: Find the average power of a 0.5 µF bank charged to 20 kV at 50 Hz.
+PR: How much energy is lost charging a 10 µF capacitor to 1 kV through a resistor from a 1 kV source?
+PR: A 20 kV stack uses 1.7 kV devices derated to 60%. How many are needed?
+PR: Leakage differs by 50 µA, and 30 V of imbalance is allowed. Find the maximum sharing resistor.
+PR: Why are semiconductor stacks replacing spark gaps and thyratrons?
+PR: Why does a switched-off capacitor bank need grounding before work?
+ANS: 5 kW.
+ANS: 5 J, the same as the energy stored.
+ANS: 20,000/1020 = 19.6, so 20 devices.
+ANS: 600 kΩ.
+ANS: They switch faster and more precisely, run at higher repetition rates, and last far longer.
+ANS: Dielectric absorption can restore a dangerous voltage after a brief discharge, so the bank must stay shorted while people work on it.

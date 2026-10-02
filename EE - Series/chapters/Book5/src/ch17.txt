@@ -1,0 +1,34 @@
+H1: Chapter 17. Interleaving, Rate Matching, and Error Detection
+P: Chapter 7 described codes as mathematical objects. A real modem wraps them in three practical layers: a cyclic redundancy check that tells the receiver whether the decoded block is right, rate matching that adjusts one mother code to whatever rate the link adaptation of Chapter 15 chooses, and interleaving that scatters the burst errors of a fading channel so the decoder sees them as random. This chapter explains each and the arithmetic that sizes it.
+H2: 17.1 The CRC
+P: A cyclic redundancy check appends to each block the remainder of dividing its bits, as a polynomial, by a fixed generator polynomial. The receiver repeats the division; a nonzero remainder flags an error. An L-bit CRC detects every burst of L bits or fewer and misses a random error pattern with probability about 2^(−L). HARQ, Chapter 15's retransmission scheme, relies on the CRC to decide whether to acknowledge; 5G uses 24-bit CRCs on data blocks and shorter ones on control messages.
+EQ: P(undetected) ≈ 2^(−L)
+H2: Worked Example 17.1
+WEP: A link sends 10⁶ blocks per second, of which 10% fail decoding. With a 24-bit CRC, how often does an erroneous block pass undetected?
+WES: 10⁵ failed blocks per second, each passing with probability 2^(−24) = 5.96 × 10⁻⁸, gives 0.006 undetected errors per second, about one every 2.8 minutes. Higher layers add their own checks, which is why such a residual rarely reaches an application.
+H2: 17.2 Puncturing and rate matching
+P: Rather than design a separate code for every rate, modems use one low-rate mother code and puncture it, deleting some coded bits according to a known pattern, to raise the rate, or repeat bits to lower it. A rate-1/3 mother code turns k information bits into 3k coded bits; to send at rate 3/4 the transmitter keeps 4k/3 of them, 4/9 of the coded bits, and punctures the remaining 5/9. 5G's rate matching writes the LDPC output into a circular buffer and reads the number of bits the allocation requires, starting from different points for each HARQ retransmission, which is how incremental redundancy sends new parity bits each time.
+EQ: fraction kept = Rmother / Rtarget
+H2: Worked Example 17.2
+WEP: A rate-1/3 mother code is punctured to rate 2/3 and then to rate 5/6. What fraction of coded bits is kept in each case?
+WES: For 2/3: (1/3)/(2/3) = 1/2, so half the coded bits are sent. For 5/6: (1/3)/(5/6) = 0.4, so 60% are punctured. The more bits are punctured, the less redundancy remains and the higher the SNR the decoder needs, which is the ladder of MCS entries in Chapter 15.
+KEY: Key idea. A modem wraps its code in practical layers: a CRC that detects failures, rate matching that punctures or repeats one mother code to any rate, and interleaving that spreads fades across many codewords so the decoder sees scattered errors.
+H2: 17.3 Interleaving
+P: Codes correct scattered errors well and long bursts poorly, but a deep fade, Chapter 5's Rayleigh dip, destroys a burst of consecutive symbols. An interleaver reorders the coded bits before transmission so that bits adjacent in the codeword are far apart in time or frequency; the receiver undoes the reordering, and the burst becomes scattered errors. To be effective, the interleaver must span several coherence times, which adds latency equal to its span. OFDM gets much of this benefit for free by spreading a codeword across subcarriers separated by more than the coherence bandwidth.
+EQ: interleaver span ≳ several × Tc  (time) or several × Bc  (frequency)
+H2: Worked Example 17.3
+WEP: A slowly moving receiver sees fades lasting about 5 ms at 1 Mbit/s. How many bits does one fade destroy, and what latency does an interleaver spanning ten fade durations add?
+WES: 5 ms at 1 Mbit/s is 5000 consecutive bits. An interleaver spanning ten fades covers 50 ms, adding 50 ms of delay, acceptable for streaming but not for a voice call or control loop. Low-latency systems therefore rely on frequency diversity across subcarriers and on HARQ rather than long time interleaving.
+H2: Practice
+PR: Find the undetected-error probability of a 16-bit CRC.
+PR: What fraction of a rate-1/3 code's bits are kept to reach rate 1/2?
+PR: What fraction is punctured to reach rate 3/4?
+PR: Fades last 2 ms at 10 Mbit/s. How many bits does one fade destroy?
+PR: Why does an interleaver add latency?
+PR: Why does OFDM reduce the need for time interleaving?
+ANS: 2^(−16) = 1.5 × 10⁻⁵.
+ANS: 2/3.
+ANS: 5/9, or 55.6%.
+ANS: 20,000 bits.
+ANS: The receiver cannot decode until all the bits of a codeword, spread across the interleaver's span, have arrived.
+ANS: Each codeword is spread across subcarriers separated by more than the coherence bandwidth, so one fade affects only some of its bits.

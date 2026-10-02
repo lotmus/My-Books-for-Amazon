@@ -1,0 +1,32 @@
+H1: Chapter 13. Inverters and Motor Drives
+P: The converters of Chapters 3 to 5 produce DC. An inverter produces AC from DC: it drives the motors of electric vehicles, pumps, and fans, and it connects solar panels and batteries to the grid of Chapter 7. A large share of the world's electricity passes through motor drives, so their efficiency matters as much as a data center's. This chapter covers the three-phase bridge, pulse-width modulation of a sine wave, the voltage a given DC bus can deliver, and the basics of the motor the inverter drives.
+H2: 13.1 The three-phase bridge
+P: A three-phase inverter has three half-bridges, one per phase, each a pair of switches between the DC bus rails. Each switches at tens of kilohertz with a duty cycle that varies sinusoidally at the output frequency, so the average voltage of each phase follows a sine wave; the motor's inductance filters the switching ripple out of the current. Silicon IGBTs dominate industrial drives up to megawatts, and silicon carbide MOSFETs have taken over electric-vehicle traction inverters, where their lower switching loss allows higher frequencies and efficiencies of 98% to 99%.
+H2: 13.2 How much AC voltage from a DC bus
+P: With sinusoidal PWM, the modulation index m is the ratio of the sine reference's peak to the carrier's, and at m = 1 each phase's fundamental has a peak of Vdc/2. The line-to-line RMS voltage is then (√3/(2√2)) m Vdc = 0.612 m Vdc. Adding a third harmonic to all three references, or using space-vector modulation, lets the line voltage reach the full bus, extending the usable modulation by 2/√3 = 1.155, a 15.5% increase, without overmodulation, because the added common-mode component cancels between lines.
+EQ: VLL,rms = 0.612 m Vdc (sinusoidal PWM, m ≤ 1);   maximum with SVPWM: Vdc/√2 = 0.707 Vdc
+H2: Worked Example 13.1
+WEP: An electric-vehicle inverter runs from a 400 V bus. Find the largest line-to-line RMS voltage with sinusoidal PWM and with space-vector PWM, and the current for a 50 kW motor at a power factor of 0.9 with space-vector PWM. Find the loss at 98% efficiency.
+WES: Sinusoidal PWM: 0.612 × 400 = 244.9 V rms. Space-vector: 400/√2 = 282.8 V rms, 15.5% more. The motor current is 50,000/(√3 × 282.8 × 0.9) = 113.4 A rms. At 98% efficiency the inverter's waste is 50,000 × (1/0.98 − 1) = 1.02 kW, which the coolant loop must remove.
+KEY: Key idea. An inverter synthesizes a sine wave by modulating the duty cycle of each phase. Space-vector or third-harmonic modulation gets 15.5% more line voltage from the same DC bus, which means less current for the same power.
+H2: 13.3 The motor the inverter drives
+P: An AC motor's speed is tied to the frequency: a synchronous or permanent-magnet machine turns at 120f/p revolutions per minute, with p poles, and an induction motor runs slightly slower, the difference being its slip. The motor's back-EMF rises with speed, so at high speed the inverter runs out of voltage and must weaken the field, trading torque for speed. Field-oriented control transforms the three phase currents into a rotating frame aligned with the rotor, where torque and flux are controlled by two independent DC-like currents, the way a DC motor's armature and field are. This is the control in nearly every modern drive.
+EQ: nsync = 120 f / p  rpm
+H2: Worked Example 13.2
+WEP: Find the synchronous speed of a four-pole motor at 60 Hz, and of an eight-pole traction motor at 200 Hz.
+WES: 120 × 60/4 = 1800 rpm, and 120 × 200/8 = 3000 rpm. A traction motor reaching 15,000 rpm with eight poles needs an output frequency of 1000 Hz, so the inverter's switching frequency must be well above that, typically 10 to 20 kHz, to keep the current smooth.
+H2: 13.4 Common-mode voltage and bearing currents
+P: The fast edges of a PWM inverter produce a common-mode voltage on the motor's windings that couples through the motor's stray capacitances to its frame and bearings. The resulting currents can pit the bearings and fail the motor in months, and they radiate conducted emissions that Book 7's tests catch. Designers add common-mode chokes, filter the output with dv/dt or sine-wave filters, ground the shaft, or use insulated bearings. Faster SiC edges make the problem harder, so the benefit of lower switching loss must be weighed against the cost of filtering.
+H2: Practice
+PR: Find the line-to-line RMS voltage from an 800 V bus at m = 0.8 with sinusoidal PWM.
+PR: Find the maximum line-to-line RMS voltage from an 800 V bus with space-vector PWM.
+PR: A 30 kW motor runs at 400 V line to line with a power factor of 0.85. Find its current.
+PR: What frequency gives 3600 rpm in a two-pole machine?
+PR: Why does space-vector modulation reach a higher line voltage than sinusoidal PWM?
+PR: Why do fast SiC edges increase bearing currents?
+ANS: 0.612 × 0.8 × 800 = 391.9 V.
+ANS: 565.7 V.
+ANS: 30,000/(√3 × 400 × 0.85) = 50.9 A.
+ANS: 60 Hz.
+ANS: It adds a common-mode component that is the same on all three phases, flattening each phase's peaks so the line-to-line voltage, where the common mode cancels, can use the whole bus.
+ANS: The coupling through the motor's stray capacitances is proportional to dv/dt, so faster edges drive larger common-mode currents through the bearings.

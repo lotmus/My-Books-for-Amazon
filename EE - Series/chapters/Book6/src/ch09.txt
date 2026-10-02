@@ -1,0 +1,32 @@
+H1: Chapter 9. Where the Watts Go: Loss in a Switching Converter
+P: Chapter 3 treated the buck converter's switches as ideal. Real ones lose power in five ways: resistance while on, overlap of voltage and current while switching, charging and discharging their own capacitance, driving their gates, and conducting through a diode during the dead time between switches. Adding these up predicts the efficiency of Chapter 1's formula, and it shows why raising the switching frequency, which shrinks the inductor, costs efficiency, and why gallium nitride changes the trade. The device physics is Book 3's; this chapter uses the datasheet numbers.
+H2: 9.1 Conduction loss
+P: A MOSFET that is on behaves as a resistance RDS(on). In a buck converter the high-side switch carries the load current for a fraction D of each period and the low-side, synchronous switch for the rest, so their conduction losses are I²R weighted by those fractions. The current's ripple adds a small term, I²rms = I² + ΔI²/12, usually a few percent. Because the low-side switch conducts most of the time in a large step-down, designers give it the lower resistance and accept more capacitance.
+EQ: Pcond = I² RDS(on),HS D + I² RDS(on),LS (1 − D)
+H2: 9.2 Switching, capacitance, gate, and dead-time loss
+P: During each transition the switch briefly carries the full current while the full voltage is still across it. Approximating the overlap as linear gives an energy of ½VI(tr + tf) per cycle. The device's output capacitance, charged to the input voltage each cycle, dumps ½CossV² into the channel when it turns on. Driving the gate costs QgVg per switch per cycle, delivered by the driver. Finally, both switches must be off briefly between transitions to avoid shoot-through, and during that dead time the low-side switch's body diode conducts with a forward drop VF. All four terms scale with the switching frequency.
+EQ: Psw = ½ V I (tr + tf) fs,   PCoss = ½ Coss V² fs,   Pgate = Qg Vg fs,   Pdead = 2 VF I tdt fs
+H2: Worked Example 9.1
+WEP: A buck converter steps 12 V to 1 V at 20 A and 500 kHz. The high-side switch has 5 mΩ, the low-side 2 mΩ. Take tr + tf = 20 ns, Coss = 1 nF, Qg = 20 nC per switch at a 5 V drive, a dead time of 20 ns per transition, and VF = 0.7 V. Find each loss and the efficiency, ignoring the inductor.
+WES: D = 1/12. Conduction: 400 × 0.005 / 12 = 0.167 W high side, 400 × 0.002 × 11/12 = 0.733 W low side. Switching: ½ × 12 × 20 × 20 ns × 500 kHz = 1.20 W. Coss: ½ × 1 nF × 144 × 500 kHz = 0.036 W. Gates: 2 × 20 nC × 5 V × 500 kHz = 0.10 W. Dead time: 2 × 0.7 × 20 × 20 ns × 500 kHz = 0.28 W. The total is 2.52 W against a 20 W output, so η = 20/22.52 = 88.8%. Switching overlap is the largest single loss.
+H2: Worked Example 9.2
+WEP: The same converter runs at 1 MHz to halve its inductor. Find the new loss and efficiency. Then repeat with GaN switches of the same resistance, tr + tf = 4 ns, Qg = 5 nC, a 5 ns dead time, and VF = 2 V for the reverse-conduction drop.
+WES: At 1 MHz with silicon, every frequency-dependent loss doubles: 2.40 + 0.072 + 0.20 + 0.56 = 3.23 W, plus 0.90 W of conduction, total 4.13 W and η = 82.9%. With GaN at 1 MHz: switching ½ × 12 × 20 × 4 ns × 1 MHz = 0.48 W, gates 0.05 W, dead time 2 × 2 × 20 × 5 ns × 1 MHz = 0.40 W, Coss 0.072 W, conduction 0.90 W, total 1.90 W and η = 91.3%, better than silicon at half the frequency.
+KEY: Key idea. Conduction loss depends on resistance; switching, capacitance, gate, and dead-time losses scale with frequency. Faster devices let a converter switch faster and shrink its magnetics without paying the frequency penalty in full.
+H2: 9.3 Reverse recovery and soft switching
+P: When a silicon diode or MOSFET body diode that has been conducting is turned off, stored charge must be swept out before it blocks, and the opposite switch carries that reverse-recovery charge Qrr at full voltage, adding QrrV fs of loss and a sharp current spike that Book 7's EMC chamber will see. Silicon carbide Schottky diodes and GaN transistors have essentially no reverse-recovery charge, a major reason they dominate high-voltage power-factor stages and fast converters. Soft-switching topologies, such as the LLC converter of Chapter 5 and phase-shifted bridges, arrange for the voltage across each switch to fall to zero before it turns on, eliminating overlap and Coss loss at the cost of circulating current.
+H2: 9.4 Thermal limits
+P: The losses become heat in packages whose thermal resistance, junction to ambient, may be tens of kelvin per watt for a small surface-mount part, or below 1 K/W for a module on a heat sink. The junction temperature, ambient plus power times thermal resistance, must stay below its rating with margin, and RDS(on) rises with temperature, about 1.5 to 2 times from 25 °C to 125 °C for silicon, so the loss estimate must use the hot value. A good design iterates: estimate the loss, compute the temperature, recompute the resistance, and repeat.
+H2: Practice
+PR: A 48 V converter switches 10 A with tr + tf = 10 ns at 300 kHz. Find the overlap loss.
+PR: Find the Coss loss of a 2 nF device switched at 400 V and 100 kHz.
+PR: Find the gate-drive power for two switches with 30 nC each at 10 V and 200 kHz.
+PR: A low-side switch carries 30 A at D = 0.1 with 1.5 mΩ. Find its conduction loss.
+PR: Why does raising the switching frequency reduce efficiency?
+PR: Why do SiC Schottky diodes reduce loss in a boost PFC stage?
+ANS: 0.72 W.
+ANS: ½ × 2 nF × 160,000 × 100 kHz = 16 W.
+ANS: 2 × 30 nC × 10 V × 200 kHz = 0.12 W.
+ANS: 900 × 0.0015 × 0.9 = 1.22 W.
+ANS: Switching, capacitance, gate-drive, and dead-time losses are each a fixed energy per cycle, so they grow in proportion to the frequency.
+ANS: They have negligible reverse-recovery charge, so the boost switch does not have to absorb a recovery current at full voltage each time it turns on.

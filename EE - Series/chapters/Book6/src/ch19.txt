@@ -1,0 +1,33 @@
+H1: Chapter 19. Gate Drivers and Isolation
+P: A power switch is only as good as the circuit that drives its gate. The driver must deliver amperes of gate current for nanoseconds, hold the switch firmly off while its drain swings by hundreds of volts, and, for the high-side switch of a half bridge, do all this from a supply that floats with the switch node. Where safety demands, the control signal must also cross an isolation barrier. This chapter sizes the bootstrap supply, explains the dv/dt hazards of Miller turn-on and common-mode transients, and introduces the isolation that safety standards require. The devices are Book 3's.
+H2: 19.1 Gate charge and drive current
+P: A MOSFET or GaN gate is a capacitor that must be charged by its total gate charge Qg to turn the device on. Switching in a time t requires an average current of Qg/t, and the driver's peak current, limited by its output resistance and an external gate resistor, sets the switching speed and with it the overlap loss of Chapter 9. Faster is not always better: faster edges ring with the loop inductance and radiate the emissions that Book 7 measures, so gate resistors are often chosen to slow the edges deliberately, separately for turn-on and turn-off.
+EQ: Igate,avg = Qg / tsw,   Pdrive = Qg Vdrive fs
+H2: 19.2 The bootstrap supply
+P: The high-side switch's source sits at the switch node, which swings between ground and the input voltage. A bootstrap capacitor, charged through a diode from the low-side supply whenever the switch node is low, provides the floating supply for the high-side driver. Each turn-on draws Qg from it, and its voltage must not droop below the gate's required drive. The capacitance must therefore be many times Qg/ΔV; a factor of ten is a common margin, also covering the driver's quiescent current and leakage.
+EQ: Cboot ≥ Qg / ΔV  (× margin)
+H2: Worked Example 19.1
+WEP: A high-side switch has Qg = 20 nC, and the bootstrap may droop by 0.5 V. Find the minimum capacitance and a practical value with a factor-of-ten margin.
+WES: Qg/ΔV = 20 nC/0.5 V = 40 nF; with the margin, about 400 nF, so a 0.47 µF ceramic capacitor. At very low duty cycles or in long high-side on-times, the bootstrap cannot recharge and needs a charge pump or an isolated supply instead.
+H2: 19.3 dv/dt: Miller turn-on and common-mode transients
+P: When the switch node slews, the drain-gate capacitance Cgd of an off device injects a current Cgd dv/dt into its gate. If that current, flowing through the gate resistance and driver, raises the gate voltage above threshold, the device turns on briefly while its partner is on, a shoot-through called Miller turn-on. The cures are a low-impedance turn-off path, a negative off-state gate voltage, and an active Miller clamp. The same dv/dt couples through the parasitic capacitance of any isolation barrier, so isolated drivers specify a common-mode transient immunity, CMTI, in kilovolts per microsecond or volts per nanosecond, that must exceed the switch node's slew with margin.
+EQ: IMiller = Cgd dv/dt,   Icm = Cbarrier dv/dt
+H2: Worked Example 19.2
+WEP: A switch with Cgd = 10 pF sees a 50 V/ns edge while held off through 2 Ω. Find the injected current and the gate bump. Then find the common-mode current through a 1 pF barrier at 100 V/ns.
+WES: IMiller = 10 pF × 50 V/ns = 0.5 A, and through 2 Ω it lifts the gate by 1 V, uncomfortably close to a GaN device's threshold of 1.5 to 2 V; a negative off-voltage or a lower-impedance path is needed. Through the 1 pF barrier, 100 V/ns drives 0.1 A of common-mode current, which the isolator's receiver must reject without a false transition.
+KEY: Key idea. The gate driver's job is to switch fast and stay off. The faster the switch node slews, the more current its parasitic capacitances inject, so drivers fight dv/dt with low-impedance hold-off, negative bias, and isolators with high common-mode immunity.
+H2: 19.4 Isolation and safety
+P: In mains-connected equipment, the control circuits that a user can touch must be separated from the mains by reinforced or double insulation, and the gate driver of a primary-side switch is often where that barrier is crossed. Isolators use optical, magnetic, or capacitive coupling; capacitive and magnetic digital isolators have largely replaced optocouplers in new designs because of their speed and stability. Safety standards such as IEC 62368-1 set the required creepage and clearance distances on the board and the test voltages for the barrier, and the isolator's own certification specifies its working voltage and lifetime.
+H2: Practice
+PR: A gate with Qg = 50 nC must switch in 25 ns. Find the average gate current.
+PR: Find the drive power for Qg = 50 nC at 12 V and 100 kHz.
+PR: Find the bootstrap capacitance for Qg = 30 nC and 0.3 V droop, with a factor-of-ten margin.
+PR: Find the Miller current for Cgd = 5 pF at 80 V/ns.
+PR: Why does a negative off-state gate voltage help against Miller turn-on?
+PR: Why have digital isolators largely replaced optocouplers?
+ANS: 2 A.
+ANS: 60 mW.
+ANS: 1 µF.
+ANS: 0.4 A.
+ANS: The injected current must lift the gate from a negative voltage all the way to threshold, giving more margin before the device turns on.
+ANS: They are faster, have tighter timing and better common-mode immunity, and do not age the way an optocoupler's LED does.

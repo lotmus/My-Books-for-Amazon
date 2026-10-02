@@ -1,0 +1,35 @@
+H1: Chapter 15. Uninterruptible Power and Hold-Up
+P: The grid fails, briefly or for hours, and the loads that matter most, data centers, hospitals, telecom sites, and factory controls, must not notice. Between the utility and those loads sit the uninterruptible power supply, its batteries, and the generator that takes over for long outages, and inside every power supply sits a capacitor whose stored energy rides through the gap. This chapter sizes each of them and compares the UPS topologies by the waste formula of Chapter 1.
+H2: 15.1 Three UPS topologies
+P: An offline, or standby, UPS passes the utility straight to the load and switches to its inverter when the utility fails, with a transfer of a few milliseconds. A line-interactive UPS adds a transformer or converter that corrects moderate sags and swells without going to battery. A double-conversion, or online, UPS rectifies every watt to a DC bus that also charges the battery and inverts it back, so the load never sees the utility's disturbances and there is no transfer at all. Double conversion gives the best protection but pays for it twice in conversion loss; its eco mode bypasses the converters while the utility is healthy and switches back within a few milliseconds when it is not.
+H2: Worked Example 15.1
+WEP: A data hall's UPS carries 400 kW. Compare the waste in double conversion at 96% and in eco mode at 99%, and find the energy and cost difference over a year at $0.10 per kWh.
+WES: Double conversion wastes 400 × (1/0.96 − 1) = 16.7 kW; eco mode wastes 400 × (1/0.99 − 1) = 4.0 kW. The difference is 12.6 kW, or 110.6 MWh per year, about $11,000 in electricity, plus the cooling needed to remove the extra heat. The operator weighs that against the brief exposure to utility disturbances that eco mode allows.
+H2: 15.2 Sizing the battery
+P: The UPS battery bridges the time until the generator starts and takes the load, usually tens of seconds, plus a margin; designs commonly provide five to fifteen minutes. The energy required is the load times the runtime, divided by the inverter's efficiency and by the usable fraction of the battery's capacity, its depth of discharge. Lithium-ion batteries have largely replaced valve-regulated lead-acid in new installations because they are smaller, last longer, and tolerate deeper discharge, but they bring the battery-management and fire-safety requirements of Chapter 12.
+EQ: Ebattery = Pload × truntime / (ηinv × DoD)
+H2: Worked Example 15.2
+WEP: The 400 kW load needs 5 minutes of runtime through a 96% inverter, using 80% of the battery's capacity. Find the battery energy.
+WES: The load needs 400 × 5/60 = 33.3 kWh. Dividing by 0.96 and by 0.8 gives 43.4 kWh of installed battery capacity. A generator that starts in 15 s uses only a small part of that; the rest covers a failed first start.
+KEY: Key idea. Backup power is a chain of energy stores sized by time: the supply's bulk capacitor rides through milliseconds, the UPS battery through minutes, and the generator through hours. Each must cover the gap until the next one takes over.
+H2: 15.3 Hold-up time in a power supply
+P: A server power supply must keep its output in regulation for a specified hold-up time, often 10 to 20 ms, after the AC input disappears, long enough to ride through a UPS or transfer-switch transition. The energy comes from the bulk capacitor on the high-voltage DC bus after the power-factor stage of Chapter 7. The converter after it keeps regulating as the bus falls from its normal value to the minimum at which it still works, so the usable energy is ½C(V1² − V2²), and the capacitance follows directly.
+EQ: C = 2 P thold / (V1² − V2²)
+H2: Worked Example 15.3
+WEP: A 3 kW server supply needs 10 ms of hold-up. Its bus normally sits at 400 V and the converter works down to 300 V. Find the bulk capacitance.
+WES: C = 2 × 3000 × 0.010 / (400² − 300²) = 60/70,000 = 857 µF. Allowing the converter to work down to 250 V would reduce it to 615 µF, which is why hold-up requirements shape the wide-input design of the DC-DC stage.
+H2: 15.4 Generators and transfer
+P: Diesel or gas generators carry long outages. An automatic transfer switch moves the load from utility to generator once the generator is stable, and back when the utility returns; the UPS covers the transfer. Large sites test generators monthly under load, and they are increasingly supplemented or replaced by battery energy storage that also provides grid services when the utility is healthy, a link to the grid codes of Chapter 16.
+H2: Practice
+PR: A 1 MW load is carried by a UPS at 97%. Find its waste.
+PR: Find the battery energy for 150 kW over 10 minutes with a 95% inverter and 90% depth of discharge.
+PR: Find the hold-up capacitance for 1.6 kW, 16 ms, 390 V to 320 V.
+PR: How long does 500 µF hold up 1 kW between 400 V and 300 V?
+PR: Why does a double-conversion UPS have no transfer time?
+PR: Why does eco mode save energy?
+ANS: 30.9 kW.
+ANS: 25 kWh / 0.855 = 29.2 kWh.
+ANS: 2 × 1600 × 0.016 / (390² − 320²) = 1030 µF.
+ANS: ½ × 500 µF × 70,000 / 1000 = 17.5 ms.
+ANS: The inverter supplies the load all the time; when the utility fails, only the source feeding the DC bus changes.
+ANS: It bypasses both conversion stages while the utility is healthy, removing their losses.

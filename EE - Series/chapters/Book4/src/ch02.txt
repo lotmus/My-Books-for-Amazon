@@ -1,0 +1,41 @@
+H1: Chapter 2. Transmission Lines and Reflection
+P: A transmission line is two conductors with a fixed geometry along their length: a coaxial cable, a pair of traces, a trace over a ground plane. A signal launched into it travels as a wave, and the ratio of voltage to current in that wave is fixed by the geometry, not by what is connected at the far end. When the wave arrives at a load that does not have the same ratio, part of it reflects. Everything in RF design, from matching to filters to antennas, is a way of controlling those reflections, and this chapter gives the four or five formulas that describe them.
+H2: 2.1 Characteristic impedance and velocity
+P: A short piece of line has series inductance L and shunt capacitance C per unit length. A wave on a lossless line sees the ratio of voltage to current set by those two quantities alone, and travels at a speed set by their product.
+EQ: Z0 = √(L / C),    vp = 1 / √(L C) = c / √εeff
+H2: Worked Example 2.1
+WEP: A 50 Ω coaxial cable has a velocity factor of 0.66. Find its capacitance and inductance per meter, and the delay of a 2 m length.
+WES: vp = 0.66 × 2.998 × 10⁸ = 1.98 × 10⁸ m/s. From Z0 = √(L/C) and vp = 1/√(LC), C = 1/(Z0 vp) = 1/(50 × 1.98 × 10⁸) = 101 pF/m and L = Z0/vp = 253 nH/m. A 2 m length delays the signal by 2/1.98 × 10⁸ = 10.1 ns. The same 2 m of cable at DC is 202 pF of capacitance, which is how an oscilloscope probe cable looks to a slow circuit; at 2.45 GHz it is twenty wavelengths of line.
+P: A microstrip, a trace of width W on a dielectric of thickness h over a ground plane, is the standard line on a circuit board. Part of its field is in the dielectric and part in the air above, so its effective permittivity lies between 1 and εr. Closed-form approximations by Hammerstad and Jensen give Z0 and εeff to about 1%, and field solvers do better. On a 0.508 mm laminate with εr = 3.55, a 50 Ω microstrip is about 1.14 mm wide and has εeff ≈ 2.79, so its guided wavelength at 2.45 GHz is 12.24/√2.79 = 7.33 cm, longer than the 6.49 cm of the stripline in Chapter 1 because some of its field travels in air.
+H2: 2.2 Reflection coefficient, VSWR, and return loss
+P: At a load ZL, the reflected wave's voltage divided by the incident wave's voltage is the reflection coefficient Γ. It is a complex number of magnitude between 0 (a perfect match) and 1 (an open, a short, or a pure reactance). The incident and reflected waves add along the line into a standing wave whose maximum-to-minimum ratio is the voltage standing-wave ratio (VSWR). Three further figures express the same information: return loss, the reflected power below the incident power; mismatch loss, the power that fails to reach the load; and the transmitted fraction 1 − |Γ|².
+EQ: Γ = (ZL − Z0) / (ZL + Z0),    VSWR = (1 + |Γ|) / (1 − |Γ|)
+EQ: RL = −20 log₁₀ |Γ| dB,    ML = −10 log₁₀ (1 − |Γ|²) dB
+H2: Worked Example 2.2
+WEP: A 50 Ω line is terminated in 100 Ω. Find Γ, the VSWR, the return loss, and the mismatch loss.
+WES: Γ = (100 − 50)/(100 + 50) = 1/3. VSWR = (4/3)/(2/3) = 2.0. RL = −20 log₁₀(1/3) = 9.54 dB. ML = −10 log₁₀(1 − 1/9) = 0.51 dB. A VSWR of 2 sounds alarming but costs only half a decibel of delivered power; what it more often costs is the behavior of whatever drives the line, because an amplifier designed for 50 Ω sees a load that moves around the Smith chart with cable length and frequency.
+KEY: Key idea. A reflection depends only on the ratio of load to line impedance. A line of the right impedance carries any amount of power to a matched load without reflection, and a mismatch at either end reflects part of every wave that reaches it.
+H2: 2.3 What a line does to an impedance
+P: Looking into a line of length l terminated in ZL, the impedance is not ZL. The reflected wave returns with a phase delay of 2βl, where β = 2π/λg, and the input impedance rotates accordingly. Three special cases are worth remembering. A half-wavelength line repeats its load. A quarter-wavelength line inverts it, Zin = Z0²/ZL, which is the basis of the quarter-wave transformer of Chapter 4. A short-circuited line shorter than a quarter wavelength is an inductor, and an open-circuited one a capacitor.
+EQ: Zin = Z0 (ZL + j Z0 tan βl) / (Z0 + j ZL tan βl)
+H2: Worked Example 2.3
+WEP: Find the input impedance of a 50 Ω line one tenth of a wavelength long terminated in 100 Ω. Then find the inductance that a short-circuited 50 Ω stub one eighth of a wavelength long represents at 2.45 GHz.
+WES: βl = 36°, tan βl = 0.727. Zin = 50 (100 + j36.3)/(50 + j72.7) = 49.1 − j35.0 Ω. Only 0.1λ of line has turned a resistive 100 Ω load into an impedance with half the resistance and a large capacitive reactance, which is why a load must be specified at a reference plane. For the stub, βl = 45° and Zin = jZ0 tan 45° = j50 Ω, an inductance of 50/(2π × 2.45 × 10⁹) = 3.25 nH, realized with no wire-wound part at all.
+H2: 2.4 Loss on the line
+P: Real lines lose power in the conductors, through skin effect, and in the dielectric, through its loss tangent. Loss is quoted in decibels per meter and rises with frequency: conductor loss roughly as √f and dielectric loss as f. The skin-depth numbers belong to Book 6 and the laminate loss tangents at 10 GHz to Book 7; this book uses their consequences. One consequence surprises people: a lossy cable improves the apparent match of whatever is at its far end, because the reflected wave is attenuated twice.
+H2: Worked Example 2.4
+WEP: An antenna with a 9.54 dB return loss (VSWR 2.0) is fed through a cable with 3 dB of loss. What return loss does the transmitter measure, and what fraction of the transmitter's power is radiated, ignoring antenna efficiency?
+WES: The reflection passes the cable twice, so the measured return loss is 9.54 + 2 × 3 = 15.5 dB, which looks like a VSWR of 1.4. The power is worse than it looks: half is lost in the cable on the way out, and of the half that arrives, 1 − 1/9 = 89% enters the antenna, so the antenna receives 44% of the transmitter's power. Measuring the match at the transmitter end of a long cable flatters the antenna; the measurement belongs at the antenna's terminals.
+H2: Practice
+PR: A 75 Ω cable has a velocity factor of 0.85. Find its capacitance and inductance per meter.
+PR: A 50 Ω line is terminated in 75 Ω. Find Γ, VSWR, return loss, and mismatch loss.
+PR: A 50 Ω line is terminated in 25 Ω. Find Γ and the VSWR.
+PR: Find the input impedance of a quarter-wave 50 Ω line terminated in 200 Ω.
+PR: An open-circuited 50 Ω stub is one eighth of a wavelength long at 2.45 GHz. What capacitance does it represent?
+PR: Explain in one or two sentences why a load impedance must always be quoted with its reference plane at RF.
+ANS: vp = 2.55 × 10⁸ m/s; C = 1/(75 × 2.55 × 10⁸) = 52.3 pF/m; L = 75/2.55 × 10⁸ = 294 nH/m.
+ANS: Γ = 25/125 = 0.20; VSWR = 1.5; RL = 14.0 dB; ML = 0.18 dB.
+ANS: Γ = (25 − 50)/75 = −1/3, so |Γ| = 0.333 and VSWR = 2.0; the negative sign says the load is below Z0.
+ANS: Zin = 50²/200 = 12.5 Ω.
+ANS: Zin = −jZ0 cot 45° = −j50 Ω, so C = 1/(2π × 2.45 × 10⁹ × 50) = 1.30 pF.
+ANS: Any length of line between the load and the measurement point rotates the impedance by 2βl, so the same load reads differently at every plane; the number has meaning only at a stated plane.

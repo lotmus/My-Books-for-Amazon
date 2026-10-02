@@ -1,0 +1,36 @@
+H1: Chapter 19. Design for Manufacture and Test
+P: A board that works on the bench is not yet a product. It must be built in volume, by machines, with solder paste, ovens, and inspection, and every unit must be tested quickly enough to be affordable and thoroughly enough that bad units do not reach the customer. Design for manufacture and design for test are the habits that make that possible, and they are decided in the layout, not on the factory floor.
+H2: 19.1 Assembly yield
+P: A modern board has thousands of solder joints, and each has a small probability of a defect: an open, a bridge, a tombstoned passive, a void under a power pad. Defect rates are quoted in parts per million per joint. As with die yield in Chapter 8, the board yield is the probability that none of its joints is defective, which for small rates is an exponential in the total expected number of defects.
+EQ: Y = exp(−N × p)
+H2: Worked Example 19.1
+WEP: A board has 2000 joints with a defect rate of 10 ppm per joint. Find the first-pass assembly yield.
+WES: Y = exp(−2000 × 10×10⁻⁶) = exp(−0.02) = 0.980, so about 2% of boards have at least one defect. On a 10,000-unit build that is about 200 boards for rework, which is why the layout rules below, which lower p, are worth following.
+H2: 19.2 Layout rules that lower defects
+P: Solder paste is printed through a stencil, and an aperture releases its paste cleanly only if its opening area is large compared with the area of its walls. The area ratio, opening area divided by wall area, should be at least about 0.66; for a round aperture of diameter d in a stencil of thickness t it is d/(4t). Other rules follow from the same physical reasoning: pads sized to the component, thermal reliefs on large copper so a joint heats evenly, fiducials for the placement camera, components oriented consistently for the oven, and clearances around tall parts so inspection can see the joints.
+EQ: area ratio = (opening area)/(wall area) = d/(4t) for a circle
+H2: Worked Example 19.2
+WEP: A 0.25 mm round aperture is cut in a 0.10 mm stencil. Is its area ratio acceptable? What stencil thickness would make it so?
+WES: The ratio is 0.25/(4 × 0.10) = 0.625, below 0.66, so paste release will be unreliable. A 0.08 mm stencil gives 0.25/0.32 = 0.78, acceptable, but it also thins the paste on larger parts; a stepped stencil or a larger aperture is the usual compromise.
+KEY: Key idea. Yield is the probability that none of thousands of joints fails, so per-joint defect rates in parts per million matter. The layout sets those rates through pads, apertures, and access.
+H2: 19.3 Test coverage and escapes
+P: Test cannot find every defect. The fraction of possible faults a test can detect is its coverage T. The defect level, the fraction of shipped units that are bad, depends on both the yield and the coverage. The Williams-Brown relation, developed for integrated circuits and widely used for boards, gives it directly, and it shows that coverage is the lever once yield is fixed.
+EQ: DL = 1 − Y^(1 − T)
+H2: Worked Example 19.3
+WEP: With Y = 0.98, find the defect level for test coverage of 95% and of 99%.
+WES: For T = 0.95, DL = 1 − 0.98^0.05 = 0.00101, about 1010 ppm shipped bad. For T = 0.99, DL = 1 − 0.98^0.01 = 0.000202, about 202 ppm. Four more points of coverage reduce escapes fivefold.
+H2: 19.4 Test methods and access
+P: Automated optical and X-ray inspection check joints without electrical contact; X-ray is needed for ball-grid arrays, whose joints are hidden. In-circuit test presses a bed of nails onto test pads and measures components one at a time; a flying-probe tester does the same with moving probes and no custom fixture, more slowly. Boundary scan, IEEE 1149.1, adds a shift register at the pins of compliant chips so a tester can drive and read every pin through a four-wire port, reaching the joints under a BGA that no probe can touch. Functional test finally runs the product's own firmware. Each method needs something from the layout: test pads on a grid, the scan chain connected, and a programming header. Adding them after the layout is frozen is expensive.
+H2: Practice
+PR: Find the yield of a board with 5000 joints at 5 ppm per joint.
+PR: Find the defect level for that yield with 98% coverage.
+PR: Find the area ratio of a 0.30 mm round aperture in a 0.10 mm stencil.
+PR: Find the area ratio of a 0.30 × 0.60 mm rectangular aperture in a 0.10 mm stencil, using LW/(2(L + W)t).
+PR: Which test method reaches joints under a BGA without physical probes?
+PR: With Y = 0.98, what coverage gives a defect level of about 202 ppm?
+ANS: 0.975.
+ANS: About 500 ppm.
+ANS: 0.75.
+ANS: 1.00.
+ANS: Boundary scan (IEEE 1149.1), complemented by X-ray inspection.
+ANS: 99%.

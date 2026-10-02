@@ -1,0 +1,59 @@
+H1: Chapter 23 — Capacitors in Practice: Decoupling and Real Impedance
+P: Chapter 8 showed that a real capacitor has an equivalent series resistance and inductance, and that above its self-resonant frequency it behaves like an inductor. This chapter puts that model to work on the job capacitors are asked to do more than any other: holding a supply rail steady while the circuit on it draws sudden, fast-changing current. It ends with the quieter imperfections, dielectric absorption, leakage, ripple heating, and aging, that decide whether a capacitor is right for timing, sampling, or long life.
+H2: 23.1 The Impedance Curve
+P: The series model of Chapter 8 gives a capacitor's impedance magnitude at any frequency:
+EQ: |Z| = √( ESR² + (ωL_ESL − 1/(ωC))² )
+P: On a log-log plot, |Z| falls at −20 dB per decade while the capacitance dominates, flattens to the ESR at the self-resonant frequency, and rises at +20 dB per decade once the ESL dominates. Two consequences follow. A capacitor's usefulness for decoupling is bounded on both sides: at low frequency its reactance is too large, and at high frequency its inductance is. And a larger capacitor in the same package does not help at high frequency at all, because above resonance only the ESL matters, and ESL is set by the package and its mounting, not by the capacitance.
+WE: Worked Example 23.1
+PROB: Declare two mounted ceramic capacitors: 10 µF with ESL = 1.0 nH and ESR = 5 mΩ, and 100 nF with ESL = 0.5 nH and ESR = 20 mΩ. Find each self-resonant frequency and each impedance at 1 MHz and at 100 MHz.
+SOL: For the 10 µF part, SRF = 1/(2π√(1.0×10⁻⁹ × 10×10⁻⁶)) ≈ 1.59 MHz. For the 100 nF part, SRF = 1/(2π√(0.5×10⁻⁹ × 100×10⁻⁹)) ≈ 22.5 MHz. At 1 MHz, the 10 µF part is still capacitive and presents about 11 mΩ; the 100 nF part presents about 1.59 Ω. At 100 MHz both are inductive: the 10 µF part presents about 0.63 Ω and the 100 nF part about 0.30 Ω, almost exactly in the ratio of their ESLs. Past resonance, the hundred-times-larger capacitor is the worse of the two.
+H2: 23.2 Target Impedance
+P: A digital load does not draw a steady current. It draws current in steps, at clock edges and whenever a block of logic wakes up. The rail must hold its voltage within a tolerance while those steps occur, and Ohm's law turns that requirement into an impedance the supply network must stay below over the whole frequency range of the steps:
+EQ: Z_target = ΔV_allowed / ΔI_step
+WE: Worked Example 23.2
+PROB: A 1.0 V rail must stay within 3% while its load steps by 2 A. Find the target impedance. Does either capacitor of Worked Example 23.1, used alone, meet it at 10 MHz?
+SOL: ΔV_allowed = 0.03 × 1.0 = 30 mV, so Z_target = 0.030/2 = 15 mΩ. At 10 MHz the 10 µF part presents about 61 mΩ and the 100 nF part about 129 mΩ. Neither comes close; meeting 15 mΩ at 10 MHz takes several capacitors in parallel, each mounted with low inductance, plus the capacitance between the board's power and ground planes. The regulator itself takes care of low frequencies, and the package and die of the load take care of the highest. The very large currents of a modern processor, and the impedance targets they imply, are taken up in Book 7; the method is the same.
+H2: 23.3 Parallel Capacitors and Antiresonance
+P: The obvious way to cover a wide band is to parallel a large capacitor and a small one. It works, but with a trap. Between the two self-resonant frequencies, the large capacitor has turned inductive while the small one is still capacitive. An inductor in parallel with a capacitor is a parallel resonant circuit, and at its resonance the combined impedance rises to a peak, higher than either part alone. This peak is called antiresonance. Its frequency is approximately where the small capacitor resonates with the sum of both inductances:
+EQ: f_ar ≈ 1 / (2π √((L₁ + L₂) C_small))
+WE: Worked Example 23.3
+PROB: The two capacitors of Worked Example 23.1 are placed in parallel. Estimate the antiresonant frequency and compare the combined impedance there with each part alone.
+SOL: f_ar ≈ 1/(2π√((1.0 + 0.5)×10⁻⁹ × 100×10⁻⁹)) ≈ 13.0 MHz. A numerical evaluation of the parallel combination finds the peak at about 12.9 MHz with |Z| ≈ 0.27 Ω, while at that frequency the 10 µF part alone presents about 0.080 Ω and the 100 nF part alone about 0.085 Ω. Adding the small capacitor made the network more than three times worse at 13 MHz than either capacitor by itself.
+FIG: fig23_1.png | Figure 23.1 — Impedance of the 10 µF and 100 nF capacitors of Worked Example 23.1 alone and in parallel. The parallel combination is lower almost everywhere, but rises to an antiresonant peak near 13 MHz.
+P: Three measures tame antiresonance. Using several capacitors of the same value lowers the impedance everywhere without creating a peak between different values. Spacing values closely, perhaps a factor of three or less apart, makes each peak shallow. And resistance damps the resonance; the low ESR of modern ceramics, so good in other respects, is exactly what makes the peak sharp, and some designs deliberately include a bulk capacitor with higher ESR, or a capacitor specified with controlled ESR, for this reason.
+KEY: Above its self-resonant frequency a capacitor is an inductor, so mounting inductance, not capacitance, sets high-frequency decoupling. || Parallel unlike values with care: between their resonances they form a parallel LC circuit whose antiresonant peak can exceed either part alone.
+MIS: The habit of placing "a 100 nF next to every pin" is not a design. It is a reasonable default for slow logic, but for a fast load the questions are what impedance is needed, over what band, and what the mounting inductance of each capacitor is. A capacitor placed at the end of a long, thin trace adds that trace's inductance in series and may do almost nothing above a few megahertz.
+H2: 23.4 Local Bulk Capacitance
+P: For the slower part of a load step, before the regulator's loop can respond, local bulk capacitance supplies the charge. The required capacitance follows from the definition of capacitance: delivering a current I for a time Δt removes a charge IΔt, and the voltage falls by that charge divided by C.
+EQ: C ≥ I · Δt / ΔV
+WE: Worked Example 23.4
+PROB: A regulator needs 10 µs to respond to a 2 A load step. The rail may sag by no more than 50 mV during that time. Find the minimum local capacitance, ignoring ESR.
+SOL: C ≥ 2 × 10×10⁻⁶/0.050 = 400 µF. In practice the ESR also produces an instantaneous drop of I × ESR at the moment of the step; with 20 mΩ of total ESR, that alone would be 40 mV, leaving only 10 mV for the capacitive sag, so the low-ESR requirement can matter as much as the capacitance. Longer hold-up times, such as riding through a lost input supply, are a power-system question and belong to Book 6.
+H2: 23.5 Ripple Current and Heating
+P: Current flowing in and out of a capacitor heats it through its ESR, at a rate I_rms² × ESR. Electrolytic capacitors are given a ripple-current rating at a stated frequency and temperature, and their lifetime falls sharply with temperature; a common rule of thumb for aluminum electrolytics is that life roughly halves for every 10 °C rise in internal temperature. A capacitor carrying 1.5 A rms through 50 mΩ of ESR dissipates 1.5² × 0.05 ≈ 0.11 W, which in a small can is a temperature rise of several degrees and a measurable reduction in life.
+H2: 23.6 Dielectric Absorption, Leakage, Microphonics, and Aging
+P: Discharge a capacitor briefly to zero, remove the short, and wait: the voltage creeps back up to a fraction of its original value. This dielectric absorption comes from charge that moved slowly into the dielectric and returns slowly. In a sample-and-hold circuit or an integrator it appears as a memory of earlier values. Polypropylene and polystyrene film capacitors and C0G ceramics absorb very little; Class 2 ceramics and electrolytics absorb much more. For timing and sampling capacitors, this is as important a selection criterion as tolerance.
+P: Leakage current flows through every dielectric. It is negligible for film and C0G parts, small for most ceramics, and significant for aluminum electrolytics, where it can reach microamps and rises with temperature and voltage. In a long time-constant circuit, such as a 100 s timer built from a 100 µF electrolytic and a 1 MΩ resistor, leakage comparable to the charging current makes the timing unpredictable.
+P: Class 2 ceramics have two further habits. Their dielectric is piezoelectric, so they can turn mechanical vibration into a voltage, called microphonics, and turn a ripple voltage into audible sound, a whine from a power supply's output capacitors. And their capacitance ages: it falls by roughly one to a few percent per decade of time after the part was last heated above its Curie point, for example during soldering. C0G parts show neither effect to any practical degree, which is one more reason Chapters 8 and 21 reserve them for filters and timing.
+H2: Practice Problems
+PP: A capacitor has C = 1 µF, ESL = 0.8 nH, and ESR = 10 mΩ. Find its self-resonant frequency and its impedance at that frequency.
+PP: A 3.3 V rail must stay within 5% while its load steps by 0.5 A. Find the target impedance.
+PP: A 4.7 µF capacitor with 1.2 nH of ESL is paralleled with a 22 nF capacitor with 0.4 nH of ESL. Estimate the antiresonant frequency.
+PP: A load step of 1 A must be held for 20 µs with no more than 100 mV of sag. Find the minimum capacitance, ignoring ESR.
+PP: A capacitor with 30 mΩ of ESR carries 2 A rms of ripple. Find its dissipation.
+PP: Explain in a sentence or two why a C0G capacitor is preferred over an X7R capacitor of the same value for the hold capacitor in a sample-and-hold circuit.
+SOLN: SRF = 1/(2π√(0.8×10⁻⁹ × 1×10⁻⁶)) ≈ 5.63 MHz; at resonance |Z| = ESR = 10 mΩ.
+SOLN: ΔV = 0.05 × 3.3 = 0.165 V; Z_target = 0.165/0.5 = 0.33 Ω.
+SOLN: f_ar ≈ 1/(2π√((1.2 + 0.4)×10⁻⁹ × 22×10⁻⁹)) ≈ 26.8 MHz.
+SOLN: C ≥ 1 × 20×10⁻⁶/0.1 = 200 µF.
+SOLN: P = 2² × 0.03 = 0.12 W.
+SOLN: The C0G dielectric has very low dielectric absorption and its capacitance does not change with voltage, temperature, or time, so the held voltage does not creep toward earlier values and the hold step is predictable; an X7R part would add memory effects, voltage-dependent capacitance, and aging.
+SUM: A real capacitor's impedance falls, bottoms at its ESR at the self-resonant frequency, then rises with its ESL; above resonance only mounting inductance matters. Decoupling is designed to a target impedance ΔV/ΔI over the band of the load's current steps. Paralleling unlike values creates antiresonant peaks near 1/(2π√((L₁+L₂)C_small)), tamed by equal values, close spacing, or damping. Bulk capacitance follows C ≥ IΔt/ΔV, with ESR drop added. Ripple heating shortens electrolytic life. Dielectric absorption, leakage, microphonics, and aging steer timing and sampling designs toward film and C0G parts.
+GLOS: Target impedance || The maximum supply-network impedance that keeps a rail within its voltage tolerance for a given load-current step, ΔV/ΔI.
+GLOS: Antiresonance || A parallel-resonant impedance peak formed between two paralleled capacitors when one has become inductive while the other is still capacitive.
+GLOS: Dielectric absorption || The partial return of voltage on a capacitor after a brief discharge, caused by slowly relaxing charge in the dielectric.
+GLOS: Microphonics || Conversion between mechanical vibration and voltage in a piezoelectric component, such as a Class 2 ceramic capacitor.
+FORM: Capacitor impedance || |Z| = √(ESR² + (ωL − 1/(ωC))²)
+FORM: Target impedance || Z_target = ΔV / ΔI
+FORM: Antiresonance (approx.) || f_ar ≈ 1/(2π√((L₁+L₂)C_small))
+FORM: Bulk capacitance || C ≥ I Δt / ΔV

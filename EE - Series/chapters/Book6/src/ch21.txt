@@ -1,0 +1,32 @@
+H1: Chapter 21. Solar Power and Maximum-Power-Point Tracking
+P: Book 3's Chapter 18 explained the solar cell as a junction that converts light into current. This chapter connects that cell to the grid. A photovoltaic array is a strange source: its current is nearly constant until the voltage approaches its open-circuit value, so it delivers its maximum power at only one operating point, which moves with sunlight and temperature. The converter that connects it must find and track that point, keep the string voltage within the equipment's rating on the coldest morning, and then invert the result to meet the grid codes of Chapter 16.
+H2: 21.1 The array as a source
+P: A module's current-voltage curve has a short-circuit current Isc proportional to irradiance, an open-circuit voltage Voc that depends logarithmically on irradiance and falls with temperature, and a knee where power is maximum, at Vmp and Imp. A typical 350 W module has Vmp about 34 V and Imp about 10.3 A. Modules are connected in series strings to reach a useful voltage, and strings in parallel for current. Shading one cell in a string forces its current down, so bypass diodes across groups of cells let the rest of the string carry on, at the price of a curve with several local maxima.
+H2: 21.2 Temperature and string length
+P: A silicon module's open-circuit voltage falls by about 0.3% per kelvin above 25 °C and rises by the same rate below it. The highest voltage the string ever presents occurs on a cold, clear morning before any current flows, and it must stay below the inverter's and the module's maximum system voltage, 1000 V or 1500 V. That cold-morning voltage, not the operating voltage, sets the longest allowed string.
+EQ: Voc(T) ≈ Voc,STC [1 + β (T − 25 °C)],  β ≈ −0.3%/K
+H2: Worked Example 21.1
+WEP: A module has Voc = 41 V at 25 °C and a coefficient of −0.3%/K. The site's record low is −10 °C. Find the cold Voc and the longest string for a 1000 V and a 1500 V system.
+WES: The temperature is 35 K below 25 °C, so Voc rises by 10.5% to 45.3 V. For 1000 V, 1000/45.3 = 22.1, so 22 modules. For 1500 V, 33 modules. At the operating point, 22 modules give 22 × 34 = 748 V, well inside the inverter's tracking range; longer 1500 V strings reduce the number of strings, combiners, and cables, which is why utility-scale plants moved to 1500 V.
+KEY: Key idea. A solar array is a current source with a single maximum-power point that moves with light and temperature. The converter must track that point continuously, and the string must be short enough that its cold open-circuit voltage stays below the system rating.
+H2: 21.3 Tracking the maximum
+P: The converter's input stage, usually a boost converter in a string inverter or the DC-DC stage of a power optimizer, adjusts the array's operating voltage. The perturb-and-observe algorithm steps the voltage slightly and checks whether power rose; if it did, it keeps going, otherwise it reverses. Incremental-conductance tracking uses the condition dP/dV = 0, equivalently dI/dV = −I/V, to stop at the maximum. Both oscillate slightly around the peak and can be fooled by fast-changing clouds or by the local maxima of a partly shaded string, so modern trackers periodically sweep the whole curve to find the global maximum. Good trackers capture 99% or more of the available energy.
+EQ: maximum power where dP/dV = 0  ⇔  dI/dV = −I/V
+H2: Worked Example 21.2
+WEP: A string of 12 modules of 350 W feeds a tracker with 99% tracking efficiency and an inverter with 98% conversion efficiency. Find the AC output at full sun and the overall efficiency.
+WES: The string's rated power is 12 × 350 = 4200 W. The overall efficiency is 0.99 × 0.98 = 0.970, so the AC output is about 4074 W, and 126 W is lost in tracking and conversion. Cable losses, soiling, and module temperature typically take several percent more in a real installation.
+H2: 21.4 String inverters, central inverters, and optimizers
+P: Utility-scale plants use central inverters of several megawatts or many string inverters of a few hundred kilowatts each. Residential systems use string inverters, microinverters on each module, or string inverters with module-level DC optimizers that track each module's maximum separately, which recovers energy lost to partial shading and provides module-level shutdown required by some fire codes. All of them must meet the grid codes of Chapter 16, and large plants increasingly pair their inverters with batteries on the same site.
+H2: Practice
+PR: Find the cold Voc of a 49 V module at −20 °C with −0.28%/K.
+PR: How many such modules fit in a 1500 V string?
+PR: Find a module's power at Vmp = 31 V and Imp = 13 A.
+PR: A system loses 1.5% in tracking and 2.5% in the inverter. Find the overall efficiency.
+PR: Why does the coldest temperature, not the hottest, set the string length?
+PR: Why can partial shading confuse a simple perturb-and-observe tracker?
+ANS: 49 × (1 + 0.0028 × 45) = 55.2 V.
+ANS: 27 modules.
+ANS: 403 W.
+ANS: 0.985 × 0.975 = 96.0%.
+ANS: Open-circuit voltage rises as temperature falls, so the highest voltage occurs on the coldest morning.
+ANS: Bypass diodes create several local maxima in the power curve, and the tracker can settle on one that is not the global maximum.

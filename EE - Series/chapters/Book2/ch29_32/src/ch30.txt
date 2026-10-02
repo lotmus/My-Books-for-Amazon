@@ -1,0 +1,44 @@
+H1: Chapter 30 — Stability Margins, Nyquist, and the Sensitivity Peak
+P: The root locus of Chapter 29 asks where the poles are. The frequency-response view asks how close the loop is to becoming unstable, and that question has a practical edge: the plant on the bench is never exactly the model, so the designer needs to know how much error the loop can absorb. Gain margin, phase margin, delay margin, and the peak of the sensitivity function are four answers. This chapter defines them, connects them through the Nyquist criterion, and computes them for the plant of Chapter 29, following the treatment in Åström and Murray.
+H2: 30.1 The Nyquist Criterion in Words
+P: Plot the loop transfer function L(jω) = KG(jω) as ω runs from −∞ to +∞; the curve is the Nyquist plot. The closed loop 1/(1 + L) has a pole wherever L = −1, so the point −1 is critical. Nyquist's theorem counts: the number of unstable closed-loop poles Z equals the number of clockwise encirclements N of −1 plus the number of unstable open-loop poles P. For the usual stable plant, P = 0, and the loop is stable exactly when the curve does not encircle −1. For an unstable plant, such as an inverted pendulum, the curve must encircle −1 counterclockwise once for each unstable pole.
+EQ: Z = N + P   (closed-loop RHP poles = clockwise encirclements of −1 + open-loop RHP poles)
+P: The theorem's practical value is that it works from measured frequency response. A loop whose model is uncertain but whose L(jω) has been measured with a network analyzer, as Chapter 13 measured op-amp loops, can be judged without ever writing its poles.
+H2: 30.2 Gain, Phase, and Delay Margins
+P: The gain margin is the factor by which the gain could rise before the curve passes through −1; it is read at the phase-crossover frequency, where the phase is −180°. The phase margin is the extra phase lag that would bring the curve through −1 at the gain-crossover frequency ω_c, where |L| = 1. Because a pure time delay τ adds phase lag ωτ without changing the gain, the phase margin also sets how much unmodeled delay the loop can tolerate: the delay margin is the phase margin in radians divided by ω_c.
+EQ: GM = 1/|L(jω₁₈₀)|,   PM = 180° + ∠L(jω_c),   τ_max = PM(rad)/ω_c
+WE: Worked Example 30.1
+PROB: For L(s) = K/(s(s + 2)(s + 10)), find the gain margin, crossover frequency, phase margin, and delay margin for K = 28.7, the ζ = 0.5 gain of Chapter 29, and for K = 60.
+SOL: The phase reaches −180° at ω = √20 = 4.47 rad/s, where |s(s + 2)(s + 10)| = 240, so GM = 240/K. For K = 28.7, GM = 8.4 (18.4 dB); |L| = 1 at ω_c = 1.22 rad/s, where the phase is −128.3°, so PM = 51.7°, and the delay margin is 0.903 rad/1.22 rad/s = 0.74 s. For K = 60, GM = 4.0 (12.0 dB), ω_c = 2.05 rad/s, PM = 32.7°, and the delay margin falls to 0.28 s. Doubling the gain made the loop about 1.7 times faster at crossover but cut its tolerance to delay by a factor of 2.7.
+H2: 30.3 The Sensitivity Function
+P: The sensitivity function S = 1/(1 + L) tells how much the loop reduces disturbances and plant variations at each frequency: where |S| < 1, feedback helps; where |S| > 1, it amplifies. Its peak, M_s, is the inverse of the shortest distance from the Nyquist curve to −1, so it is a single number that captures both margins at once. Bode's integral shows that the area of ln|S| over frequency is zero for most stable loops, so pushing the sensitivity down at low frequency must push it up somewhere else, a fact sometimes called the waterbed effect.
+EQ: S = 1/(1 + L),   M_s = max|S(jω)| = 1/min|1 + L(jω)|
+P: A bound on M_s guarantees both margins. If the curve stays at least 1/M_s from −1, then GM ≥ M_s/(M_s − 1) and PM ≥ 2 arcsin(1/(2M_s)). Åström and Murray recommend M_s between about 1.2 and 2 for most designs.
+WE: Worked Example 30.2
+PROB: Find M_s for the loop of Worked Example 30.1 at K = 28.7, 60, and 120, and the margins it guarantees for M_s = 2.
+SOL: Computing |1/(1 + L(jω))| over frequency gives M_s = 1.55 at K = 28.7, 2.20 at K = 60, and 4.21 at K = 120. For M_s = 2, the guaranteed margins are GM ≥ 2 (6.0 dB) and PM ≥ 29.0°. The K = 28.7 design, with M_s = 1.55, guarantees GM ≥ 2.82 (9.0 dB) and PM ≥ 37.6°; its actual margins of 18.4 dB and 51.7° are better than the bound, as they must be. At K = 120, an M_s of 4.2 means that a disturbance near 3 rad/s is amplified four times: the loop is still stable, with a 6 dB gain margin, but it is no longer doing its job near crossover.
+FIG: fig30_1.png | Figure 30.1 — Sensitivity magnitude |S(jω)| for L = K/(s(s + 2)(s + 10)) at K = 28.7, 60, and 120. The peaks M_s = 1.55, 2.20, and 4.21 lie near crossover; all three curves are below 1 at low frequency.
+KEY: The sensitivity peak is the margin that matters. || Gain and phase margins each test one direction of error; M_s, the inverse of the closest approach of the Nyquist curve to −1, bounds both and also measures how much the loop amplifies disturbances near crossover.
+H2: 30.4 Delay in Digital Loops
+P: Chapter 19 showed that a sampled controller adds about 1.5 sample periods of delay. The delay margin turns that into a design rule: the loop's phase margin, in radians, divided by its crossover frequency must exceed the total delay of sampling, computation, filtering, and the actuator, with room to spare. A loop with 45° of phase margin at 10 rad/s tolerates 79 ms of delay; at 100 rad/s it tolerates 7.9 ms. The faster the loop, the faster the sample rate it needs, which is why the current loop of Chapter 28 runs at the switching frequency and the speed loop above it can run slower.
+MIS: A large gain margin does not by itself mean a robust loop. A loop can have a gain margin of 20 dB and still pass close to −1 at some other frequency, with a small phase margin or a large M_s, especially when the plant has lightly damped resonances. Always look at the closest approach to −1, not only at the two crossover frequencies.
+PP: What do Z, N, and P stand for in the Nyquist relation, and what must hold for a stable plant?
+PP: Find the gain margin of L(s) = K/(s(s + 2)(s + 10)) at K = 48, in decibels.
+PP: A loop has a phase margin of 45° at ω_c = 10 rad/s. Find its delay margin.
+PP: Find the gain and phase margins guaranteed by M_s = 1.4.
+PP: Find the delay margin for the K = 28.7 loop of Worked Example 30.1.
+PP: Why does the Bode sensitivity integral imply a waterbed effect?
+SOLN: Z is the number of unstable closed-loop poles, N the number of clockwise encirclements of −1, and P the number of unstable open-loop poles. With P = 0, stability requires N = 0: the curve must not encircle −1.
+SOLN: GM = 240/48 = 5, which is 14.0 dB.
+SOLN: τ_max = (π/4)/10 = 0.0785 s, about 79 ms.
+SOLN: GM ≥ 1.4/0.4 = 3.5 (10.9 dB); PM ≥ 2 arcsin(1/2.8) = 41.8°.
+SOLN: 51.7° = 0.903 rad; 0.903/1.217 = 0.74 s.
+SOLN: The integral of ln|S| over frequency is zero for most stable loops, so reducing |S| below 1 over some band forces it above 1 over another, like pressing down on a waterbed.
+SUM: The Nyquist criterion counts encirclements of −1 by L(jω): Z = N + P. Gain margin is read where the phase is −180°, phase margin where |L| = 1, and the delay margin is PM/ω_c. For L = K/(s(s + 2)(s + 10)), K = 28.7 gives 18.4 dB, 51.7°, and 0.74 s; K = 60 gives 12.0 dB, 32.7°, and 0.28 s. The sensitivity peak M_s bounds both margins, GM ≥ M_s/(M_s − 1) and PM ≥ 2 arcsin(1/(2M_s)), and a value of 1.2 to 2 is a good target.
+GLOS: Nyquist plot || The curve traced by L(jω) in the complex plane as ω runs over all frequencies.
+GLOS: Delay margin || The largest added time delay a loop can tolerate before instability, PM in radians divided by the crossover frequency.
+GLOS: Sensitivity function || S = 1/(1 + L), the factor by which feedback changes the effect of disturbances and plant variations at each frequency.
+GLOS: Waterbed effect || The consequence of Bode's sensitivity integral that lowering |S| in one band raises it in another.
+FORM: Nyquist criterion || Z = N + P
+FORM: Margins || GM = 1/|L(jω₁₈₀)|;  PM = 180° + ∠L(jω_c);  τ_max = PM/ω_c
+FORM: Sensitivity bounds || GM ≥ M_s/(M_s − 1);  PM ≥ 2 arcsin(1/(2M_s))

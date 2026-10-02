@@ -1,0 +1,32 @@
+H1: Chapter 26. Conducted Emissions and the LISN
+P: Below 30 MHz, a product's wavelengths are too long for its own structure to radiate much, and interference travels instead along its power cord into the building's wiring, which then radiates. Conducted-emission limits therefore apply to the voltage the product puts back onto the mains from 150 kHz to 30 MHz. The switching converters of Book 6 are the usual offenders. This chapter explains the line impedance stabilization network that makes the measurement repeatable, separates differential and common-mode noise, and sizes a filter.
+H2: 26.1 The LISN
+P: The mains impedance at radio frequencies varies from building to building, so a measurement made at an outlet would not be repeatable. The line impedance stabilization network, LISN, of CISPR 16-1-2 sits between the mains and the product. It passes 50 or 60 Hz power through series inductors of 50 µH, blocks mains-side noise, and presents the product with a defined 50 Ω impedance on each line at radio frequencies, across which the receiver measures the noise voltage. The limits in CISPR 32 Class B are 66 to 56 dBµV quasi-peak from 150 to 500 kHz, falling with the logarithm of frequency, 56 dBµV quasi-peak and 46 dBµV average from 0.5 to 5 MHz, and 60 and 50 dBµV from 5 to 30 MHz.
+EQ: VLISN (dBµV) = 20 log₁₀(Inoise × 50 Ω / 1 µV)
+H2: 26.2 Differential and common-mode noise
+P: Differential-mode noise is the converter's switching current drawn between line and neutral; its fundamental is at the switching frequency, and it is filtered by capacitors across the line, X capacitors, and by series inductance. Common-mode noise flows from both lines to protective earth through stray capacitance, above all from the switching node to the heat sink, and returns through the LISN's two 50 Ω resistors in parallel, 25 Ω. It is filtered by capacitors from each line to earth, Y capacitors, whose value is limited by touch-current safety rules, and by a common-mode choke. A current probe on the two lines together measures common mode; the LISN reading contains both.
+H2: Worked Example 26.1
+WEP: A power factor stage switches 400 V in 20 ns, and the switching node couples to the grounded heat sink through 20 pF. Find the common-mode current during each edge, and the voltage it would develop across the LISN's 25 Ω if unfiltered.
+WES: I = C dv/dt = 20 pF × 400 V/20 ns = 0.40 A during each edge. Across 25 Ω that is a 10 V spike, enormous compared with a 56 dBµV limit, which is only 0.63 mV. The cure starts at the source, with an insulating thermal pad of low capacitance or a shield layer tied to the primary return, before the filter is designed.
+KEY: Key idea. Conducted emissions are measured as a voltage across the LISN's defined 50 Ω. Differential-mode noise is the converter's ripple current; common-mode noise is dv/dt driving stray capacitance to earth. Each has its own filter components.
+H2: 26.3 Sizing a differential-mode filter
+P: The filter needed is the difference between the unfiltered noise and the limit, plus a margin. A single LC stage above its corner frequency f0 attenuates at 40 dB per decade, so the corner must lie at f0 = fs/10^(A/40) for an attenuation A at the switching frequency fs. The inductor and capacitor follow from f0 = 1/(2π√(LC)). Because the limits begin at 150 kHz, a converter switching below that frequency has its first measured harmonic above it, which is one reason many offline converters switch near 65 or 100 kHz.
+EQ: f0 = fs / 10^(A/40),   f0 = 1/(2π√(LC))
+H2: Worked Example 26.2
+WEP: A 500 kHz converter puts 50 mV of fundamental ripple on the LISN. The quasi-peak limit there is 56 dBµV. With 6 dB of margin, how much attenuation is needed, where must an LC filter's corner be, and what capacitance goes with a 4.7 µH inductor?
+WES: 50 mV is 94.0 dBµV, so the filter must give 94.0 − 56 + 6 = 44.0 dB at 500 kHz. The corner is 500 kHz/10^(44/40) = 39.7 kHz, and C = 1/((2π × 39.7 kHz)² × 4.7 µH) = 3.42 µF. The filter's own resonance must then be damped, or it can oscillate with the converter's negative input resistance, the problem Middlebrook described and Book 6's control loop must respect.
+H2: 26.4 Layout of the filter
+P: A filter's attenuation in the datasheet assumes that its input and output are isolated from each other. On a real board, a filter placed in the middle of the converter, with its input trace running past the switching node, is bypassed by stray capacitance and mutual inductance, and its attenuation at 10 MHz can collapse by 20 dB or more. Filters belong at the power entry, with the noisy and clean sides physically separated and the Y capacitors returned directly to chassis. The same rule applies to I/O filters for radiated emissions: a filter that is not at the boundary becomes part of the antenna.
+H2: Practice
+PR: Convert 2 mV on the LISN to dBµV.
+PR: Find the common-mode current through 50 pF at 200 V in 10 ns.
+PR: A 100 kHz converter's second harmonic is 20 mV at 200 kHz, where the limit is about 63.6 dBµV. With 6 dB margin, how much attenuation is needed?
+PR: Find the LC corner for 40 dB at 300 kHz.
+PR: Find C for a 39.7 kHz corner with 10 µH.
+PR: Why are Y capacitors limited in value?
+ANS: 66.0 dBµV.
+ANS: 1.0 A.
+ANS: 86.0 − 63.6 + 6 = 28.4 dB.
+ANS: 300 kHz/10 = 30 kHz.
+ANS: 1.61 µF.
+ANS: They connect the mains lines to protective earth, so their 50 or 60 Hz current flows through anyone touching an ungrounded chassis; safety standards cap that touch current.

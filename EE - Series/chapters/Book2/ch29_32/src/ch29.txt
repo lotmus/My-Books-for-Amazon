@@ -1,0 +1,45 @@
+H1: Chapter 29 — The Root Locus
+P: Chapters 17 and 18 designed loops by choosing gains and checking the result. The root locus shows, in one picture, where every closed-loop pole goes as one gain is raised from zero to infinity. It was introduced by Walter Evans in 1948 and remains the quickest way to see whether a loop can be made fast and well damped by gain alone, or whether it needs the lead, lag, or PID shaping of Chapter 18. This chapter states the rules that sketch the locus and uses them on two plants whose numbers recur in the next chapter.
+H2: 29.1 The Characteristic Equation
+P: With a controller gain K in series with a plant G(s) and unity feedback, the closed-loop transfer function is KG/(1 + KG). Its poles are the roots of 1 + KG(s) = 0. Writing G(s) = N(s)/D(s), the poles satisfy D(s) + K N(s) = 0. At K = 0 they are the open-loop poles, the roots of D. As K grows they move, and as K → ∞ they approach the open-loop zeros, the roots of N, or go off to infinity along straight lines. The locus is the set of all points the poles can occupy.
+EQ: 1 + K G(s) = 0  ⇔  D(s) + K N(s) = 0
+P: A point s lies on the locus if the angle of G(s) is 180° (an odd multiple of it). The gain that places a pole there is then K = 1/|G(s)|. Those two conditions, angle and magnitude, are all the rules below encode.
+H2: 29.2 Sketching Rules
+P: Five rules give a sketch good enough for design. First, the locus has as many branches as the plant has poles, starting at the poles and ending at the zeros or at infinity. Second, on the real axis the locus lies to the left of an odd number of real poles and zeros. Third, the branches that go to infinity follow asymptotes at angles (2k + 1)180°/(n − m), where n and m are the numbers of poles and zeros, and the asymptotes meet at the centroid σ = (Σ poles − Σ zeros)/(n − m). Fourth, where two branches meet on the real axis and leave it, the breakaway point is a root of dK/ds = 0. Fifth, the crossing of the imaginary axis, if any, is found from the Routh array of Chapter 17 or by substituting s = jω.
+EQ: asymptote angles = (2k + 1)·180°/(n − m),   σ = (Σp − Σz)/(n − m)
+WE: Worked Example 29.1
+PROB: A position loop has the plant G(s) = 1/(s(s + 4)). Sketch the locus, find the gain at the breakaway point, and find K for a damping ratio of 0.707.
+SOL: The characteristic equation is s² + 4s + K = 0. At K = 0 the poles are at 0 and −4; on the real axis the locus lies between them. They meet at s = −2 when K = 4 and then leave the axis vertically, along the line Re(s) = −2, since the sum of the roots is fixed at −4. For ζ = 0.707, 2ζω_n = 4 gives ω_n = 2.83 rad/s and K = ω_n² = 8. The overshoot is 4.3% and the 2% settling time 4/(ζω_n) = 2 s. No gain makes it settle faster than 2 s, because the real part of the poles cannot pass −2: speed must come from shaping, not from gain.
+H2: 29.3 A Third Pole
+P: Most real plants have more poles than the two of a textbook motor, and the third pole changes the picture: with three poles and no zeros, the asymptotes leave at ±60°, and the two dominant branches eventually cross into the right half-plane. There is now a largest stable gain, and the useful range of gain lies well below it.
+WE: Worked Example 29.2
+PROB: For G(s) = 1/(s(s + 2)(s + 10)), find the asymptotes, the breakaway point, the gain at which the loop becomes unstable, and the frequency of oscillation there.
+SOL: There are three poles and no zeros, so the asymptotes are at ±60° and 180°, meeting at σ = (0 − 2 − 10)/3 = −4. The real-axis locus lies between 0 and −2 and to the left of −10. The breakaway point solves d/ds[s(s + 2)(s + 10)] = 3s² + 24s + 20 = 0, giving s = −0.945 (the other root, −7.06, is not on the locus), with K = 0.945 × 1.055 × 9.055 = 9.03. The characteristic polynomial is s³ + 12s² + 20s + K. The Routh array's s¹ entry is (240 − K)/12, which vanishes at K = 240, and the auxiliary equation 12s² + 240 = 0 gives s = ±j4.47 rad/s. Above K = 240 the loop oscillates and grows.
+FIG: fig29_1.png | Figure 29.1 — Root locus of G(s) = 1/(s(s + 2)(s + 10)), with the breakaway at −0.945, the asymptotes from σ = −4, the ζ = 0.5 operating point at K ≈ 28.7, and the imaginary-axis crossing at K = 240.
+WE: Worked Example 29.3
+PROB: For the same plant, find the gain that gives the dominant poles a damping ratio of 0.5, and check that the third pole is far enough away to be ignored.
+SOL: Searching along the ζ = 0.5 line, where the poles are at angles of 120° from the positive real axis, the angle condition is met at s = −0.833 ± j1.443, so ω_n = 1.67 rad/s, and the magnitude condition gives K = 28.7. The third root is at −10.33, more than twelve times further from the origin than the real part of the dominant pair, so the step response is very nearly second order: about 16% overshoot and a settling time of 4/0.833 = 4.8 s. The gain margin at this K is 240/28.7 = 8.4, or 18.4 dB, a number Chapter 30 will return to.
+KEY: The locus shows what gain can and cannot do. || If the desired closed-loop poles lie on the locus, a gain alone achieves them; if they do not, a zero from lead or PD control must bend the locus toward them, and a pole from lag or PI control near the origin improves accuracy without moving the locus much elsewhere.
+H2: 29.4 Bending the Locus
+P: Adding a zero pulls the locus toward it. A lead compensator places a zero closer to the origin than its pole, so the net effect near the dominant poles is a zero, and the asymptotes move left. In the plant of Worked Example 29.2, a compensator zero at −2 cancels the pole there, leaving the poles at 0 and −10 and the compensator's own pole, placed here at −20; the dominant branches then break away at −4.23, the root of 3s² + 60s + 200 = 0, instead of −0.945 and the settling time can fall several-fold. A lag compensator places a pole and zero close together near the origin, which leaves the locus almost unchanged but raises the low-frequency gain, reducing the steady-state error of Chapter 17. These are the same compensators Chapter 18 introduced through the Bode plot, now seen through the poles they move.
+MIS: Cancelling a plant pole with a compensator zero does not remove the pole from the system. The cancelled pole still governs how the plant responds to disturbances that enter at its input, and an exact cancellation is never achieved in practice. Cancelling a slow, stable pole is common and safe; cancelling an unstable or lightly damped one is not, because the hidden mode remains and grows or rings.
+PP: For G(s) = 1/(s(s + 6)), find the gain that gives ζ = 0.707.
+PP: For the same plant, find the breakaway point and the gain there.
+PP: Find the asymptote centroid and angles for G(s) = 1/(s(s + 1)(s + 5)).
+PP: Find the gain and frequency at which the loop of the previous problem becomes unstable.
+PP: What overshoot does a second-order system with ζ = 0.5 have?
+PP: On what parts of the real axis does the locus of G(s) = 1/(s(s + 2)(s + 10)) lie?
+SOLN: s² + 6s + K: 2ζω_n = 6 gives ω_n = 4.24 rad/s and K = ω_n² = 18.
+SOLN: The poles meet midway, at s = −3, where K = 3 × 3 = 9.
+SOLN: σ = (0 − 1 − 5)/3 = −2; angles ±60° and 180°.
+SOLN: s³ + 6s² + 5s + K: the Routh s¹ entry (30 − K)/6 vanishes at K = 30, and 6s² + 30 = 0 gives ω = √5 = 2.24 rad/s.
+SOLN: exp(−πζ/√(1 − ζ²)) = exp(−1.814) = 16.3%.
+SOLN: Between 0 and −2, and to the left of −10, where an odd number of poles lies to the right.
+SUM: The root locus traces the closed-loop poles as one gain varies. Branches start at the open-loop poles and end at the zeros or along asymptotes at (2k + 1)180°/(n − m) from the centroid. A second-order plant 1/(s(s + 4)) cannot settle faster than 2 s by gain alone; the third-order plant 1/(s(s + 2)(s + 10)) breaks away at −0.945, reaches ζ = 0.5 at K = 28.7, and goes unstable at K = 240 and 4.47 rad/s. Lead control bends the locus left; lag control raises low-frequency gain while leaving it nearly unchanged.
+GLOS: Root locus || The paths of the closed-loop poles in the s-plane as a loop gain varies from zero to infinity.
+GLOS: Breakaway point || A point on the real axis where two branches of the root locus meet and leave the axis.
+GLOS: Asymptote centroid || The point on the real axis, (Σ poles − Σ zeros)/(n − m), from which the root-locus asymptotes radiate.
+GLOS: Angle condition || The requirement that ∠G(s) be an odd multiple of 180° for s to lie on the root locus.
+FORM: Root-locus asymptotes || angles (2k + 1)180°/(n − m);  centroid (Σp − Σz)/(n − m)
+FORM: Locus gain || K = 1/|G(s)| at a point satisfying ∠G(s) = 180°
+FORM: Second-order specs || overshoot exp(−πζ/√(1 − ζ²));  t_s(2%) ≈ 4/(ζω_n)

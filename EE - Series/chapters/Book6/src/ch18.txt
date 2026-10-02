@@ -1,0 +1,36 @@
+H1: Chapter 18. The Multiphase Regulator
+P: Book 7 sets the problem: a 700 W accelerator at 0.8 V draws 875 A. No single buck converter of Chapter 3 can deliver that; its inductor, switches, and output capacitor would be impossibly large and slow. The solution is to run many bucks in parallel, each a phase, with their switching instants staggered evenly through the period. This chapter explains how interleaving cancels ripple, how the phases share current, and how the regulator meets the processor's fast load steps with a deliberate load line. The package and power-delivery network beyond the regulator are Book 7's.
+H2: 18.1 Interleaving and ripple cancellation
+P: With N phases shifted by 1/N of a period, the inductor ripple currents partly cancel at the output capacitor, and the ripple appears at N times the switching frequency. The cancellation depends on the duty cycle: it is perfect when N × D is an integer, and partial otherwise. For a duty cycle D and m = floor(ND), the total ripple relative to one phase's ripple is K = N(D − m/N)((m + 1)/N − D)/(D(1 − D)). At the small duty cycles of a 12 V to 0.8 V converter, the cancellation from a few phases is modest; many phases are needed for both current and ripple.
+EQ: K(N, D) = N (D − m/N)((m + 1)/N − D) / [D(1 − D)],  m = floor(N D)
+H2: Worked Example 18.1
+WEP: Find the ripple-cancellation factor at D = 1/12 for one, four, and six phases, and for four phases at D = 0.25.
+WES: One phase: K = 1. Four phases at D = 1/12: ND = 0.333, m = 0, and K = 4 × (1/12)(1/4 − 1/12)/((1/12)(11/12)) = 0.727. Six phases: K = 0.545. Four phases at D = 0.25: ND = 1, an integer, so K = 0, perfect cancellation. A 48 V intermediate bus or a lower input voltage raises D and improves cancellation, one of the trade-offs in choosing the bus.
+H2: 18.2 Current sharing
+P: Parallel phases must share the load current, or one phase overheats. Each phase senses its own current, from a resistor, the inductor's DC resistance, or the switch's on-resistance in an integrated power stage, and the controller trims each phase's duty cycle to equalize them. Smart power stages report current and temperature digitally to the controller, which can also shed phases at light load as Chapter 11 described. With 20 phases, the 875 A load is 43.8 A per phase, a comfortable rating for an integrated power stage.
+H2: Worked Example 18.2
+WEP: A 20-phase regulator converts 12 V to 0.8 V at 800 kHz with 100 nH per phase. Find each phase's ripple and the total ripple with interleaving.
+WES: D = 0.8/12 = 0.0667. Each phase's ripple is (12 − 0.8) × 0.0667/(100 nH × 800 kHz) = 9.33 A. With N = 20, ND = 1.33 and m = 1, so K = 20 × (0.0667 − 0.05)(0.10 − 0.0667)/(0.0667 × 0.933) = 0.179, and the total ripple is 1.67 A at 16 MHz, small compared with the 875 A load and easy for the output capacitors to absorb.
+KEY: Key idea. A multiphase regulator divides a huge current among many small bucks and staggers them in time, cancelling ripple and multiplying its frequency. Its transient response comes from the combined slew of all phases and from a deliberate load line.
+H2: 18.3 Transient response and slew
+P: A processor can step from idle to full load in a microsecond or less. Each phase's inductor current can rise no faster than (Vin − Vout)/L, so the combined slew of N phases is N(Vin − Vout)/L. Until the inductors catch up, the output capacitors and the package's capacitance supply the difference, which is why fast regulators use small inductances, many phases, and nonlinear control that turns all phases on at once on a large step instead of waiting for the loop of Chapter 10.
+EQ: (dI/dt)max = N (Vin − Vout) / L
+H2: Worked Example 18.3
+WEP: Find the maximum slew of the regulator in Example 18.2 and the time to ramp the inductor current by 700 A.
+WES: Each phase slews at 11.2 V/100 nH = 112 A/µs; twenty phases give 2240 A/µs. A 700 A step takes 0.31 µs for the inductors to follow, during which the capacitors must hold the voltage.
+H2: 18.4 The load line
+P: Rather than holding the output exactly constant, processor regulators follow a load line, also called adaptive voltage positioning: the output voltage is set to fall slightly and linearly with load current, as though the regulator had a small output resistance RLL. At light load the voltage sits at the high end of its window, so a sudden load step dips into the window instead of below it; at heavy load the voltage sits low, which saves power, and the overshoot on load release has room. The processor vendor specifies RLL, often a few tenths of a milliohm or less.
+EQ: Vout = VID − RLL × Iload
+H2: Practice
+PR: Find K for two phases at D = 0.3.
+PR: Find K for three phases at D = 1/12.
+PR: What is K for two phases at D = 0.5?
+PR: A regulator must allow 50 mV of droop for a 1000 A step. What load line does that imply?
+PR: Ten phases each slew at 100 A/µs. How long does a 500 A step take?
+PR: Why does the output ripple appear at N times the switching frequency?
+ANS: 0.571.
+ANS: 0.818.
+ANS: 0, perfect cancellation.
+ANS: 0.05 mΩ.
+ANS: 0.5 µs.
+ANS: The phases switch at evenly staggered instants, so the combined current has N ripple cycles per switching period.

@@ -1,0 +1,36 @@
+H1: Chapter 9. Digital Filters in the Modem
+P: Almost every block in a modern modem is a digital filter: the pulse shaper of Chapter 3, the channel selector after the ADC, the decimators that bring a wideband sample stream down to the symbol rate, and the equalizer of Chapter 11. This chapter covers the two filter families, the way their length is estimated, and the multirate structures that make high sample rates affordable. It follows the practical treatment in Lyons's Understanding Digital Signal Processing.
+H2: 9.1 FIR and IIR filters
+P: A finite impulse response, FIR, filter forms each output as a weighted sum of the last N input samples. With symmetric coefficients its phase is exactly linear, so every frequency is delayed by the same (N − 1)/2 samples and the pulse shapes of Chapter 3 pass undistorted. An infinite impulse response, IIR, filter feeds outputs back and reaches a given selectivity with far fewer coefficients, but its phase is nonlinear and it can become unstable or ring if its coefficients are quantized carelessly. Modems use FIR filters wherever phase matters, which is nearly everywhere in the signal path, and IIR filters for loop filters and DC removal.
+EQ: y[n] = Σ h[k] x[n − k],  k = 0 … N − 1;   group delay = (N − 1)/2 samples
+H2: 9.2 How long must the filter be?
+P: The length of an FIR filter grows with the attenuation wanted and shrinks with the width of the transition band, measured as a fraction of the sample rate. A useful estimate, due to fred harris, is N ≈ A/(22 Δf/fs), with A the stopband attenuation in decibels. Halving the transition band doubles the length, and with it the number of multiplications per second. Window design trades the same quantities through the choice of window: the first sidelobe of a rectangular window is only 13 dB down, a Hann window's 31 dB, a Hamming window's 42 dB, and a Blackman window's 58 dB, at the cost of a wider main lobe and so a wider transition band. Optimal equiripple designs by the Parks-McClellan algorithm meet a specification with the fewest taps.
+EQ: N ≈ A / (22 Δf / fs)
+H2: Worked Example 9.1
+WEP: A channel filter runs at 100 MHz. It must pass the band and reach 60 dB of attenuation within a 5 MHz transition band. Estimate its length, its group delay, and its multiplication rate.
+WES: N ≈ 60 / (22 × 5/100) = 54.5, so about 55 taps. The delay of a 55-tap linear-phase filter is 27 samples, 270 ns. At 100 MHz it needs 55 × 10⁸ = 5.5 × 10⁹ multiplications per second, or half that if the symmetric coefficients are exploited by adding the paired samples first.
+KEY: Key idea. An FIR filter's length is set by the attenuation wanted divided by the transition band as a fraction of the sample rate. Sharp filters at high sample rates are expensive, which is why modems lower the sample rate as early as possible.
+H2: 9.3 Decimation and polyphase filters
+P: When a filter's output will be decimated, keeping only every Mth sample, there is no need to compute the samples that are discarded. A polyphase structure splits the filter into M shorter subfilters, each running at the output rate, so the cost falls by a factor of M. Interpolation, the reverse operation used before a DAC, has the same structure. Large rate changes are done in stages, because the early stages, at the high rate, can have wide transition bands and short lengths, while the final stage, at the low rate, does the sharp filtering cheaply.
+H2: Worked Example 9.2
+WEP: The filter of Example 9.1 is followed by decimation by 4. What multiplication rate does a polyphase implementation need?
+WES: Each output still needs 55 multiplications, but only 25 million outputs are computed each second: 55 × 2.5 × 10⁷ = 1.375 × 10⁹ per second, a quarter of the direct form.
+H2: 9.4 The CIC filter
+P: The first decimation stage after a fast ADC, running at hundreds of megasamples or gigasamples per second, often uses a cascaded integrator-comb, CIC, filter. It needs no multipliers at all: N integrators at the input rate, a rate change by R, and N combs at the output rate. Its response is a sinc function raised to the Nth power, which has nulls exactly at the frequencies that alias onto the passband, but it droops across the passband, so a short compensation FIR follows it. Its gain is (RM)^N, with M the comb delay, so the registers must grow by N log₂(RM) bits.
+EQ: |H(f)| = |sin(πfRM/fs) / (R M sin(πf/fs))|^N,   bit growth = N log₂(RM)
+H2: Worked Example 9.3
+WEP: A four-stage CIC filter decimates by 16 with M = 1. Find its bit growth, its droop at a quarter of the output rate, and its attenuation of the band that aliases onto that frequency.
+WES: Bit growth = 4 × log₂16 = 16 bits. At f = 0.25/16 of the input rate the response is (sin(π/4)/(16 sin(π/64)))⁴ = 0.658, a droop of 3.63 dB, which the compensation filter must correct. The input at 0.75/16 of the input rate aliases onto the same frequency after decimation; there the response is −41.7 dB. If more rejection is needed, more stages or a narrower passband are used.
+H2: Practice
+PR: Estimate the length of a filter at 61.44 MHz with 80 dB attenuation and a 2 MHz transition band.
+PR: What is the group delay of a 101-tap linear-phase FIR filter at 10 MHz?
+PR: Which window has the lowest first sidelobe among rectangular, Hann, Hamming, and Blackman?
+PR: Find the bit growth of a five-stage CIC filter decimating by 8 with M = 1.
+PR: Why is a filter that will be decimated implemented in polyphase form?
+PR: Why do modems prefer FIR filters in the signal path?
+ANS: About 112 taps.
+ANS: 50 samples, 5 µs.
+ANS: Blackman, about 58 dB down.
+ANS: 15 bits.
+ANS: Only the retained outputs are computed, and each subfilter runs at the low output rate, cutting the work by the decimation factor.
+ANS: Symmetric FIR filters have exactly linear phase, so they delay all frequencies equally and preserve pulse shapes, and they are always stable.

@@ -1,0 +1,41 @@
+H1: Chapter 8. Arrays, Beam Steering, and Millimeter Wave
+P: A single antenna's beam is fixed by its shape. An array of identical antennas, each fed with a controlled amplitude and phase, has a beam that can be shaped and steered electronically, with no moving parts, as fast as the phases can be changed. Arrays are how 5G base stations, automotive radars, satellite terminals, and Wi-Fi access points point their energy. They are also the reason millimeter-wave links work at all, and this chapter ends by showing, with the Friis equation of Chapter 7, why higher frequency can mean a stronger link rather than a weaker one.
+H2: 8.1 The array factor
+P: Consider N identical elements along a line with spacing d, each fed with equal amplitude and a progressive phase step β from one element to the next. In a direction θ from broadside, the waves from adjacent elements differ in phase by ψ = kd sin θ + β, where k = 2π/λ. The array's pattern is the element's pattern multiplied by the array factor, which depends only on N and ψ. The main beam points where ψ = 0, so the phase step that steers it to an angle θ₀ follows directly.
+EQ: AF(ψ) = sin(Nψ/2) / (N sin(ψ/2)),    ψ = kd sin θ + β,    β = −kd sin θ₀
+H2: Worked Example 8.1
+WEP: An array has half-wavelength spacing. Find the phase step between elements that steers its beam to 30° and to 20° from broadside.
+WES: With d = λ/2, kd = π, which is 180°. For θ₀ = 30°, β = −180° × sin 30° = −90° per element. For 20°, β = −180° × 0.342 = −61.6°. A 16-element array steered to 30° needs phases of 0°, −90°, −180°, and so on to −1,350°, which modulo 360° repeats the four values 0°, −90°, −180°, and −270°.
+H2: 8.2 Gain, beamwidth, and grating lobes
+P: With uniform excitation and negligible coupling, an array of N elements has about N times the gain of one element, so 16 elements add 12 dB and 64 add 18 dB. Its broadside half-power beamwidth narrows in proportion to its length: for a uniform linear array of length Nd, it is about 0.886 λ/(Nd) radians, and it widens by 1/cos θ₀ as the beam is steered away from broadside, because the array's projected length shrinks. The element pattern also falls off with angle, so the gain drops roughly as cos θ₀, about 3 dB at 60°, the scan loss.
+P: The spacing has an upper limit. If the elements are too far apart, the array factor has other directions where ψ is a multiple of 2π, and full-strength copies of the main beam, grating lobes, appear in visible space. To keep them out while scanning to θmax, the spacing must satisfy a simple inequality, which is why arrays are built at about half a wavelength.
+EQ: d / λ < 1 / (1 + |sin θmax|)
+H2: Worked Example 8.2
+WEP: A linear array of 16 patch elements, each 5 dBi, uses half-wavelength spacing. Find its broadside gain and beamwidth. What is the largest spacing that allows scanning to ±45° without grating lobes?
+WES: G ≈ 5 + 10 log₁₀ 16 = 17.0 dBi. The beamwidth is 0.886/(16 × 0.5) = 0.111 rad = 6.3° at broadside, and about 9° at a 45° scan. For scanning to 45°, d/λ < 1/(1 + 0.707) = 0.586, so the spacing may grow to 0.59λ, which reduces the number of elements, and of their amplifiers, needed for a given aperture. Scanning to 60° would require d < 0.54λ.
+KEY: Key idea. An array's gain grows with the number of elements and its beamwidth shrinks with its length. Half-wavelength spacing is not a tradition; it is the largest spacing that keeps grating lobes out of a wide scan.
+H2: 8.3 Phase shifters and their quantization
+P: An active electronically scanned array puts a phase shifter, and usually a small amplifier, behind every element; those amplifiers are Part II's subject. A digital phase shifter with b bits sets phases in steps of 360°/2^b. The rounding errors are close to uniformly distributed, with a standard deviation of the step divided by √12, and a random phase error of σ radians reduces the array's gain by about a factor of exp(−σ²). Beamforming chips commonly use five or six bits, partly for this reason and partly to keep the sidelobes low.
+H2: Worked Example 8.3
+WEP: Estimate the gain loss of a large array from phase quantization with 3-bit and with 4-bit phase shifters.
+WES: A 3-bit shifter has 45° steps, so σ = 45°/√12 = 13.0° = 0.227 rad, and the loss is −10 log₁₀ exp(−0.0514) = 0.22 dB. A 4-bit shifter has 22.5° steps, σ = 6.5° = 0.113 rad, and a loss of 0.056 dB. The gain loss is small even at three bits; what more bits buy is lower quantization sidelobes and finer pointing.
+H2: 8.4 Millimeter wave is the same subject
+P: Above about 24 GHz the wavelength is around a centimeter or less, and three things change. The free-space path factor between isotropic antennas falls as λ², so it looks 20 dB worse for every factor of ten in frequency. Losses rise: line and dielectric loss per meter, which is why the laminate choices of Book 7 matter, and the atmosphere's oxygen absorption near 60 GHz, about 15 dB/km, which limits 60 GHz links to short range and makes the band easy to reuse. And every interconnect becomes significant: a bond wire carries roughly 1 nH per millimeter, and a 0.3 mm wire at 77 GHz has a reactance of 145 Ω, which is why millimeter-wave chips are flip-chip mounted or put the antenna in the package, as Book 7 describes. None of this needs new physics. What changes is the size of every mistake.
+H2: Worked Example 8.4
+WEP: Two terminals 100 m apart each have a fixed antenna aperture of 0.01 m², a square 10 cm on a side, with full aperture efficiency. Compare the link factor Gt Gr (λ/4πR)² at 2.45 GHz and at 28 GHz. Check that 100 m is in the far field at 28 GHz.
+WES: At 2.45 GHz, G = 4πAe/λ² = 4π × 0.01/0.1224² = 8.39, or 9.2 dBi, and the path factor is −80.2 dB, so the link factor is 9.2 + 9.2 − 80.2 = −61.8 dB. At 28 GHz, λ = 1.07 cm, G = 1,096, or 30.4 dBi, and the path factor is −101.4 dB, so the link factor is 30.4 + 30.4 − 101.4 = −40.6 dB, 21 dB stronger. With equal apertures, each antenna's gain rises as f² while the path factor falls as 1/f², and the link improves by 20 log₁₀(28/2.45) = 21 dB. The price is beamwidth: each 28 GHz beam is a few degrees wide and must be steered at the other terminal, which is exactly what the arrays of this chapter do. The far-field distance 2D²/λ = 2 × 0.1²/0.0107 = 1.9 m is far shorter than 100 m.
+H2: 8.5 Where this book stops
+P: This book has supplied the passive structure of a radio: lines, matches, filters, antennas, and arrays, and the gain of every antenna in a link budget. Book 5 builds the modem that decides what waveform these structures carry and how the band plan divides the spectrum. Part II supplies the transmitter power, the power amplifier with its load line, the receiver's noise, and the oscillator. Book 7 measures what the antenna actually radiated against the legal masks and the chamber methods. Book 7 supplies the laminates, packages, and antenna-in-package structures that turn the millimeter-wave designs of this chapter into hardware.
+H2: Practice
+PR: An array with 0.5λ spacing must steer to 45°. Find the phase step between elements.
+PR: Find the approximate gain of a 64-element array of 6 dBi elements.
+PR: Find the broadside half-power beamwidth of a 32-element uniform linear array at half-wavelength spacing.
+PR: What is the largest element spacing for scanning to ±30° without grating lobes?
+PR: Find the gain loss from phase quantization with 5-bit phase shifters.
+PR: Repeat the fixed-aperture comparison of Worked Example 8.4 for 2.45 GHz and 60 GHz, ignoring atmospheric absorption. By how many decibels does the link factor change?
+ANS: β = −180° × sin 45° = −127.3°.
+ANS: 6 + 10 log₁₀ 64 = 24.1 dBi.
+ANS: 0.886/(32 × 0.5) = 0.0554 rad = 3.2°.
+ANS: d/λ < 1/(1 + 0.5) = 0.667.
+ANS: Step 11.25°, σ = 3.25° = 0.0567 rad, loss = 4.343 × 0.0567² = 0.014 dB.
+ANS: The link factor improves by 20 log₁₀(60/2.45) = 27.8 dB. At 100 m the 60 GHz oxygen absorption of about 15 dB/km takes back only 1.5 dB.

@@ -1,0 +1,35 @@
+H1: Chapter 3. Delivering 875 Amperes
+P: Chapter 1 found that a 700 W processor at 0.8 V draws 875 A. Book 6 designed the regulators that produce that current. This chapter carries it the last few centimeters, through board planes, package, bumps, and on-die wiring, and keeps the voltage at the transistors steady while the load changes by hundreds of amperes in a microsecond. That path is the power-delivery network, and at these currents it is as demanding a design problem as any signal path in the series.
+H2: 3.1 The target impedance
+P: The processor tolerates a supply variation of a few percent. If the load current can change by ΔI, the power-delivery network seen from the die must have an impedance no greater than the allowed voltage change divided by ΔI, at every frequency from the regulator's control bandwidth up to the frequencies where the die's own capacitance takes over. That figure, the target impedance, is the specification for the whole network. The regulator covers low frequencies, bulk and ceramic capacitors on the board and package cover the middle, and on-package and on-die capacitance cover the highest frequencies, each handing over to the next without a resonant peak that exceeds the target.
+EQ: Ztarget = ΔVallowed / ΔI
+H2: Worked Example 3.1
+WEP: A 0.8 V, 875 A processor allows 3% supply variation and can step its load by half its maximum current. Find the target impedance.
+WES: The allowed variation is 0.03 × 0.8 = 24 mV and the step is 437.5 A, so Ztarget = 0.024/437.5 = 55 µΩ. For comparison, a single 0402 ceramic capacitor has an equivalent series resistance of a few milliohms and an inductance near 0.3 nH, so the network needs hundreds of capacitors in parallel, spread across board and package, to meet the target over the middle frequencies.
+H2: 3.2 Resistance in the planes
+P: A copper plane's resistance is described by its sheet resistance, ρ/t, in ohms per square: any square of the plane, whatever its size, has that resistance from one edge to the opposite edge. One-ounce copper, 35 µm thick, has 0.49 mΩ per square at room temperature; two-ounce copper has 0.25 mΩ. At 875 A, even a single square of one-ounce copper would drop 0.43 V, more than half the supply.
+EQ: Rsheet = ρ / t,    R = Rsheet × (length / width)
+H2: Worked Example 3.2
+WEP: The 875 A flows through one square of power plane made of ten one-ounce copper layers in parallel. Find the voltage drop and the power dissipated.
+WES: Ten layers in parallel give 0.049 mΩ per square, so the drop is 875 × 0.049 × 10⁻³ = 43 mV, nearly twice the whole 24 mV budget of Example 3.1, before the return path, which doubles it. The plane dissipates 875² × 0.049 × 10⁻³ = 37.6 W. The lesson drives the architecture of 2026: the regulators must move closer, from the edge of the board to beside the package and then directly beneath it, a layout called vertical power delivery, which shortens the high-current path to a few millimeters.
+KEY: Key idea. At hundreds of amperes, every square of copper and every nanohenry counts. Power delivery is designed to a target impedance, and the shortest path, with the regulator directly under the load, is the only one that meets it.
+H2: 3.3 Inductance and the load step
+P: Resistance limits the steady drop; inductance limits the response to a step. A load that changes by 400 A in a microsecond through an effective loop inductance of 100 pH produces L di/dt = 100 × 10⁻¹² × 400/10⁻⁶ = 40 mV, again larger than the budget. The capacitors close to the die must supply the current until the slower regulator catches up, and their effectiveness is limited by the inductance of their own mounting and vias. Placing capacitors inside the package, using silicon capacitors in the interposer, and building deep-trench capacitors on the die reduce that inductance.
+H2: 3.4 Bumps and electromigration
+P: The current must cross into the die through its bumps, and each bump can carry only a limited current before electromigration, the gradual movement of metal atoms under high current density, degrades it. If each bump is allowed a declared 0.1 A, the 875 A needs 8750 power bumps and as many ground bumps, 17,500 in all, a third of the 47,300 that Chapter 2 found possible on an 800 mm² die at 130 µm pitch. Power, not signals, is the main user of a large die's bumps.
+H2: Worked Example 3.3
+WEP: A 1000 W processor runs at 0.75 V. Find its current, and the number of power and ground bumps needed at 0.1 A each. With a 2% allowed variation and a 500 A step, what is the target impedance?
+WES: I = 1000/0.75 = 1333 A, needing about 13,300 power and 13,300 ground bumps, 26,700 in all. The allowed variation is 15 mV, so Ztarget = 0.015/500 = 30 µΩ. Each step in power or down in voltage tightens the target in proportion, which is why lower core voltages are not free.
+H2: Practice
+PR: Find the target impedance for a 1.0 V rail with 2% allowed variation and a 200 A step.
+PR: Find the sheet resistance of two-ounce copper, 70 µm thick.
+PR: A 100 A current crosses three squares of half-ounce copper, 17.5 µm thick. Find the drop.
+PR: Find the inductive voltage for a 500 A/µs step through 50 pH.
+PR: A processor draws 600 A. How many power bumps are needed at 0.1 A each?
+PR: Why does moving the regulator beneath the package improve power delivery?
+ANS: 20 mV/200 A = 100 µΩ.
+ANS: 1.72 × 10⁻⁸/70 × 10⁻⁶ = 0.25 mΩ per square.
+ANS: 0.98 mΩ per square × 3 × 100 A = 0.29 V.
+ANS: 50 × 10⁻¹² × 5 × 10⁸ = 25 mV.
+ANS: 6000.
+ANS: It shortens the high-current path from centimeters of plane to millimeters, reducing both resistance and loop inductance, so the drop and the step response stay within the budget.

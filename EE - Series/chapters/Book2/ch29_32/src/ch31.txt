@@ -1,0 +1,50 @@
+H1: Chapter 31 — Oscillators: Feedback That Is Meant to Ring
+P: Chapters 11 to 18 worked to keep loops away from the point where the loop gain is −1. An oscillator is a loop designed to sit exactly there. Every clock in Chapter 2's digital circuits, every carrier in a radio, and every timer that blinks a light comes from a circuit that turns its own noise into a steady waveform. This chapter states the condition for oscillation, builds the two families of oscillator, linear and relaxation, and sizes each with numbers.
+H2: 31.1 The Barkhausen Condition
+P: Break a feedback loop and send a sine wave around it. If it returns with exactly the same amplitude and phase, the loop can sustain it without any input. That is the Barkhausen condition: the loop gain Aβ equals one, with a total phase shift of 0° or a multiple of 360°. A practical oscillator is designed with a loop gain slightly above one at the wanted frequency, so that noise grows into an oscillation, and some nonlinearity then limits the amplitude, reducing the effective gain to exactly one.
+EQ: A(jω₀) β(jω₀) = 1   (|Aβ| = 1,  ∠Aβ = 0° or 360°)
+P: The frequency is set by the network β, which has the right phase at only one frequency. The amplifier supplies the gain to make up the network's loss. The quality of the oscillator, its frequency stability and its phase noise as Book 4 measures it, depends on how sharply β's phase changes with frequency near ω₀: an RC network changes slowly, an LC tank faster, and a quartz crystal, with a Q of tens of thousands, fastest of all.
+H2: 31.2 The Wien-Bridge Oscillator
+P: The Wien network is a series RC in the forward path and a parallel RC to ground. At ω₀ = 1/(RC) its phase shift is zero and its gain is exactly 1/3. A noninverting op-amp stage with a gain of 3, set by R_f = 2R_g, completes the loop. Because the required gain is exact, a fixed resistor ratio either fails to start or grows until the output clips; real Wien oscillators use a lamp, a thermistor, a JFET, or diodes to reduce the gain as the amplitude grows. Hewlett's 1939 audio oscillator, the first product of Hewlett-Packard, used a small incandescent lamp for exactly this purpose.
+EQ: f₀ = 1/(2πRC),   β(f₀) = 1/3,   A = 1 + R_f/R_g = 3
+WE: Worked Example 31.1
+PROB: A Wien-bridge oscillator uses R = 10 kΩ and C = 10 nF. Find its frequency and the feedback resistor needed with R_g = 4.7 kΩ.
+SOL: f₀ = 1/(2π × 10⁴ × 10⁻⁸) = 1,592 Hz. R_f = 2R_g = 9.4 kΩ for a gain of exactly 3. In practice R_f is made slightly larger, perhaps 10 kΩ, so the oscillation starts reliably, and a pair of back-to-back diodes in series with a resistor across part of R_f lowers the gain as the amplitude grows, holding the output at a level set by the diode drops.
+H2: 31.3 Phase-Shift and LC Oscillators
+P: Three cascaded RC sections with an inverting amplifier form the phase-shift oscillator. Each section adds lag until the total is 180° at f₀ = 1/(2π√6·RC), where the network attenuates by a factor of 29, so the amplifier needs a gain of at least 29. At radio frequencies, an LC tank provides the frequency. In the Colpitts oscillator, the tank's capacitance is split into two capacitors in series, whose midpoint supplies the feedback; the frequency is that of L with the series combination of C₁ and C₂. Book 4 treats these oscillators' phase noise; here the point is that the same Barkhausen condition governs them all.
+EQ: Phase shift: f₀ = 1/(2π√6·RC), |A| ≥ 29;   Colpitts: f₀ = 1/(2π√(L·C₁C₂/(C₁ + C₂)))
+WE: Worked Example 31.2
+PROB: Find the frequency of a phase-shift oscillator with R = 10 kΩ and C = 10 nF, and of a Colpitts oscillator with L = 1 µH and C₁ = C₂ = 200 pF.
+SOL: The phase-shift oscillator runs at 1/(2π × 2.449 × 10⁴ × 10⁻⁸) = 650 Hz, with an amplifier gain of at least 29. For the Colpitts, the series capacitance is 100 pF, so f₀ = 1/(2π√(10⁻⁶ × 10⁻¹⁰)) = 15.9 MHz.
+H2: 31.4 Relaxation Oscillators
+P: A relaxation oscillator does not use a resonant network. It charges a capacitor until a threshold is reached, switches, and discharges it to a second threshold. The Schmitt trigger of Chapter 16 provides the two thresholds. With an op-amp comparator whose positive feedback divider has ratio β = R₂/(R₁ + R₂), and an RC from output to the inverting input, the capacitor swings between +βV and −βV, and each half cycle takes RC ln((1 + β)/(1 − β)).
+EQ: T = 2RC ln((1 + β)/(1 − β));   β = 0.5 gives T = 2.197 RC
+WE: Worked Example 31.3
+PROB: An op-amp relaxation oscillator uses R = 10 kΩ, C = 100 nF, and a hysteresis divider with β = 0.5. Find the period and frequency.
+SOL: T = 2 × 10⁴ × 10⁻⁷ × ln(1.5/0.5) = 2 × 10⁻³ × 1.0986 = 2.197 ms, so f = 455 Hz. The frequency depends on the ratio of thresholds, not on the supply voltage, as long as the output swings symmetrically.
+FIG: fig31_1.png | Figure 31.1 — Relaxation oscillator waveforms for R = 10 kΩ, C = 100 nF, β = 0.5: the capacitor voltage ramps exponentially between ±βV while the comparator output switches between ±V, with a period of 2.197 ms.
+P: The 555 timer, introduced in 1972 and still made in billions, is a packaged relaxation oscillator. Two comparators at one-third and two-thirds of the supply, a flip-flop, and a discharge transistor charge C through R₁ + R₂ and discharge it through R₂. Its frequency is 1.44/((R₁ + 2R₂)C), and its duty cycle (R₁ + R₂)/(R₁ + 2R₂) is always above 50% in the basic circuit. With R₁ = 1 kΩ, R₂ = 10 kΩ, and C = 10 nF it runs at 6,857 Hz with a duty cycle of 52.4%.
+KEY: An oscillator is a loop with a gain of exactly one and a phase of exactly zero at one frequency. || The network sets the frequency, the amplifier makes up the loss, and a nonlinearity holds the amplitude; the sharper the network's phase versus frequency, the more stable the oscillator.
+H2: 31.5 The Crystal Oscillator
+P: Every microcontroller clock in Chapter 2 starts from a quartz crystal in a Pierce oscillator: an inverting gate biased into its linear region, the crystal across it, and two capacitors to ground. The crystal is cut to resonate at its marked frequency when it sees a specified load capacitance C_L, typically 8 to 20 pF. The two capacitors appear in series, plus the stray capacitance of the pins and traces. With 22 pF on each side and 5 pF of stray, C_L = 22 × 22/44 + 5 = 16 pF. Choosing them wrong pulls the frequency by tens of parts per million, enough to break a UART at the edge of its tolerance or a radio's channel accuracy in Book 5.
+MIS: An oscillator that works on the bench is not proven. The startup gain margin shrinks at low temperature and low supply voltage, the crystal's drive level can be exceeded, and a scope probe's capacitance can pull or even start an oscillator that would otherwise fail. Verify startup at the corners of temperature and supply, and measure frequency with a buffered output or a low-capacitance probe.
+PP: Find the frequency of a Wien-bridge oscillator with R = 4.7 kΩ and C = 22 nF.
+PP: Find the frequency of a relaxation oscillator with R = 10 kΩ, C = 10 nF, and β = 1/3.
+PP: Find the frequency and duty cycle of a 555 with R₁ = R₂ = 10 kΩ and C = 100 nF.
+PP: Find the frequency of a Colpitts oscillator with L = 10 µH and C₁ = C₂ = 1 nF.
+PP: Find the load capacitance of a Pierce oscillator with 33 pF capacitors and 4 pF of stray.
+PP: Why does a Wien-bridge oscillator need amplitude control?
+SOLN: f₀ = 1/(2π × 4,700 × 22 × 10⁻⁹) = 1,539 Hz.
+SOLN: T = 2RC ln 2 = 2 × 10⁻⁴ × 0.693 = 138.6 µs, so f = 7.21 kHz.
+SOLN: f = 1.44/(30 kΩ × 100 nF) = 480 Hz; duty (10 + 10)/(10 + 20) = 66.7%.
+SOLN: The series capacitance is 500 pF, so f₀ = 1/(2π√(10⁻⁵ × 5 × 10⁻¹⁰)) = 2.25 MHz.
+SOLN: C_L = 33/2 + 4 = 20.5 pF.
+SOLN: The loop gain must be exactly one; with a fixed gain slightly above one the amplitude grows until the amplifier clips and distorts, and slightly below one it dies away. A gain that falls as the amplitude rises holds it at one.
+SUM: An oscillator satisfies the Barkhausen condition, Aβ = 1 at zero phase, at one frequency. The Wien bridge runs at 1/(2πRC) with a gain of 3; the phase-shift oscillator at 1/(2π√6RC) with a gain of 29; the Colpitts at the resonance of L with C₁ and C₂ in series. Relaxation oscillators charge a capacitor between two thresholds: T = 2RC ln((1 + β)/(1 − β)), and the 555 runs at 1.44/((R₁ + 2R₂)C). A crystal in a Pierce circuit needs its specified load capacitance, the series pair plus stray.
+GLOS: Barkhausen condition || Loop gain of exactly one with a phase shift of zero (or 360°), the condition for a sustained oscillation.
+GLOS: Wien bridge || An RC network with zero phase shift and a gain of 1/3 at f = 1/(2πRC), used in low-distortion audio oscillators.
+GLOS: Relaxation oscillator || An oscillator that charges and discharges a capacitor between two thresholds rather than using a resonant network.
+GLOS: Load capacitance || The capacitance a crystal must see across its terminals to oscillate at its marked frequency.
+FORM: Wien bridge || f₀ = 1/(2πRC);  gain 3
+FORM: Relaxation oscillator || T = 2RC ln((1 + β)/(1 − β))
+FORM: 555 astable || f = 1.44/((R₁ + 2R₂)C);  duty (R₁ + R₂)/(R₁ + 2R₂)

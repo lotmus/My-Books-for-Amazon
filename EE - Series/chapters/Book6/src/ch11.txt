@@ -1,0 +1,35 @@
+H1: Chapter 11. Light Load and Discontinuous Conduction
+P: A converter designed for full load spends much of its life far below it: a phone charger waiting with no phone, a server idling at night, a laptop's regulator during sleep. At light load the fixed losses of Chapter 9, which do not shrink with the current, dominate, and the efficiency collapses. The inductor current also changes character, falling to zero during part of each cycle. This chapter covers that discontinuous mode, its effect on the converter's gain, and the techniques that keep light-load efficiency high.
+H2: 11.1 The boundary of continuous conduction
+P: In a synchronous buck the inductor current ripples by ΔI = (Vin − Vout)D/(L fs) around the load current. When the load falls below ΔI/2, the current's valley reaches zero. A synchronous converter can let the current go negative, staying in forced continuous conduction at the cost of circulating energy; a diode, or a synchronous switch that is turned off at zero current, instead stops the current at zero, and the converter enters discontinuous conduction mode, DCM.
+EQ: ΔI = (Vin − Vout) D / (L fs),   boundary: Iload = ΔI/2
+H2: Worked Example 11.1
+WEP: The 12 V to 1 V buck of Chapter 9 uses a 0.47 µH inductor at 500 kHz. Find the ripple and the load at which it enters DCM.
+WES: ΔI = 11 × (1/12) / (0.47 × 10⁻⁶ × 5 × 10⁵) = 3.90 A. The boundary is at half that, 1.95 A, about a tenth of full load.
+H2: 11.2 The converter's gain in DCM
+P: In discontinuous mode the output voltage no longer equals D times the input; it depends on the load as well. For the buck, with K = 2L/(R Ts), the conversion ratio becomes M = 2/(1 + √(1 + 4K/D²)), which rises above D as the load lightens. The feedback loop corrects this automatically by reducing the duty cycle, but the plant's dynamics change too: the double pole of continuous mode disappears and the converter behaves like a single-pole system with lower gain. A compensator designed for continuous mode usually remains stable in DCM, but its response is slower.
+EQ: buck in DCM: M = 2 / (1 + √(1 + 4K/D²)),   K = 2L/(R Ts)
+H2: Worked Example 11.2
+WEP: At a 0.5 A load, R = 2 Ω. Find K, the ratio the converter would produce at the continuous-mode duty cycle of 1/12, and the duty cycle actually needed for 1 V.
+WES: K = 2 × 0.47 µH / (2 Ω × 2 µs) = 0.235. At D = 1/12, M = 2/(1 + √(1 + 4 × 0.235 × 144)) = 0.158, nearly twice the wanted 1/12. Setting M = 1/12 requires √(1 + 4K/D²) = 23, so D = √(4 × 0.235/528) = 0.042, half the continuous-mode value.
+KEY: Key idea. At light load the fixed, per-cycle losses dominate and the converter enters discontinuous conduction, where its gain depends on the load. Keeping efficiency up means switching less often, not just switching faster.
+H2: 11.3 Why light-load efficiency collapses
+P: Gate charge, output-capacitance loss, controller quiescent current, and part of the switching loss are energies spent every cycle regardless of the load. At full load they are a small fraction of the output; at a hundredth of full load they can exceed it. The cure is to reduce the number of cycles. Pulse-skipping and burst modes switch only when the output falls below a threshold, delivering a few pulses and then idling; pulse-frequency modulation lowers the switching frequency in proportion to the load. Both trade a larger, lower-frequency ripple, and an audible tone if the bursts fall in the acoustic band, for efficiency.
+H2: Worked Example 11.3
+WEP: At 0.2 A the buck of Chapter 9 still has its 0.10 W of gate loss, 0.036 W of Coss loss, 0.012 W of switching overlap, and the controller draws 10 mW. Find the efficiency at the full 500 kHz, and in a burst mode with an average switching rate of 50 kHz.
+WES: Output power is 0.2 W. At 500 kHz the losses are 0.10 + 0.036 + 0.012 + 0.010 = 0.158 W, plus negligible conduction loss, so η = 0.2/0.358 = 55.9%. In burst mode the frequency-dependent losses fall tenfold to 0.0148 W, the total is 0.0249 W, and η = 0.2/0.2249 = 88.9%.
+H2: 11.4 Standby and no-load regulations
+P: Light-load efficiency is not only a battery-life issue. Regulations in the United States, the European Union, and elsewhere limit the no-load power of external power supplies and set minimum average efficiencies across several load points, and data-center standards such as 80 PLUS grade server supplies at 10%, 20%, 50%, and 100% load. These rules drive the use of burst modes, of controllers with microamp quiescent currents, and of phase shedding in multiphase regulators, where phases are turned off as the load falls so that the remaining ones run near their efficient current.
+H2: Practice
+PR: A buck converts 5 V to 3.3 V at 1 MHz with a 1 µH inductor. Find the load at which it enters DCM.
+PR: For a buck with L = 1 µH, R = 10 Ω, fs = 1 MHz, and D = 0.3, find K and the DCM conversion ratio.
+PR: A converter's per-cycle losses are 0.3 W at 1 MHz. What are they at an average burst rate of 20 kHz?
+PR: Why does a multiphase regulator shed phases at light load?
+PR: What is the cost of burst-mode operation?
+PR: Why does the output voltage rise above D × Vin in DCM if the duty cycle is held fixed?
+ANS: ΔI = 1.7 × 0.66/(10⁻⁶ × 10⁶) = 1.12 A, so DCM below 0.56 A.
+ANS: K = 0.2; M = 2/(1 + √(1 + 0.8/0.09)) = 0.483.
+ANS: 0.006 W.
+ANS: Each phase has fixed per-cycle losses; turning some off lets the remaining phases carry enough current to run efficiently.
+ANS: Larger, lower-frequency output ripple and possible audible noise.
+ANS: In DCM each cycle delivers a fixed energy packet set by the on-time, ½L(ipeak)², and nothing forces the output to D × Vin; the output rises until the light load consumes the packets, so the voltage depends on the load.

@@ -1,0 +1,31 @@
+H1: Chapter 14. Multiple Access and Scheduling
+P: A band is shared by many users, and the modem must decide who transmits when and on which resources. The earlier chapters treated one link; this chapter treats the crowd. It covers random access, where users contend without coordination, carrier sensing as Wi-Fi does it, and the scheduled OFDMA of 5G and Wi-Fi 6, where a central controller hands out time-frequency resources. The aim is the arithmetic of how much of the channel each method actually delivers.
+H2: 14.1 Dividing the channel
+P: The classic methods divide the channel along one axis: frequency, as in FDMA, where each user has its own band; time, as in TDMA, where users take turns in slots; or code, as in the CDMA of Chapter 12, where users share time and frequency with different spreading codes. OFDMA divides both time and frequency into a grid of resource elements and assigns blocks of them to users as their traffic and channel quality require. A 5G resource block is 12 subcarriers wide, 360 kHz at 30 kHz spacing, and a 100 MHz carrier holds 273 of them, 3276 subcarriers. With 14 symbols per 0.5 ms slot, that grid offers about 91.7 million resource elements each second to be shared.
+H2: 14.2 Random access: ALOHA
+P: When users transmit whenever they have data, packets collide. In pure ALOHA a packet survives only if no other starts within one packet time before or after it; with offered traffic G packets per packet time, the throughput is S = G e^(−2G), which peaks at 18.4% of the channel when G = 0.5. Slotted ALOHA, where transmissions start only at slot boundaries, halves the vulnerable window and doubles the peak to 1/e = 36.8%. These figures are low, but random access is still used where traffic is sparse and coordination costly: the first message a phone sends to a base station, and many IoT uplinks.
+EQ: pure ALOHA S = G e^(−2G) (max 1/(2e) = 0.184);  slotted S = G e^(−G) (max 1/e = 0.368)
+H2: Worked Example 14.1
+WEP: A sensor network offers a load of 0.25 packets per packet time. Find the throughput with pure and with slotted ALOHA.
+WES: Pure: S = 0.25 e^(−0.5) = 0.152, so 61% of offered packets succeed. Slotted: S = 0.25 e^(−0.25) = 0.195, so 78% succeed. Both are below their peaks, and pushing the load higher eventually reduces throughput, because collisions grow faster than the offered traffic.
+H2: 14.3 Carrier sensing in Wi-Fi
+P: Wi-Fi listens before it talks. A station that wants to transmit waits for the channel to be idle for a fixed interval, then counts down a random backoff of slots, and transmits if the channel is still idle; if a collision occurs, it doubles its contention window. The receiver acknowledges each successful frame after a short interframe space. This reduces collisions but adds fixed overhead to each transmission, which matters enormously at high rates, because the overhead lasts the same time however fast the data is sent.
+H2: Worked Example 14.2
+WEP: A 1500-byte frame is sent at 600 Mbit/s. Take, as illustrative values, a 40 µs preamble, a 34 µs idle interval, an average backoff of 7.5 slots of 9 µs, a 16 µs short interframe space, and a 28 µs acknowledgment. Find the efficiency, and repeat with 64 frames aggregated into one transmission.
+WES: The payload lasts 1500 × 8 / (6 × 10⁸) = 20 µs. The overhead is 40 + 34 + 67.5 + 16 + 28 = 185.5 µs, so the efficiency is 20 / 205.5 = 9.7%: the 600 Mbit/s link delivers under 60 Mbit/s. Aggregating 64 frames makes the payload 1280 µs for the same overhead, and the efficiency rises to 1280 / 1465.5 = 87.3%. This is why aggregation and block acknowledgments became essential from Wi-Fi 4 onward.
+KEY: Key idea. Every access method spends part of the channel on coordination. That overhead is fixed in time, so it dominates at high data rates unless frames are aggregated or the access is scheduled.
+H2: 14.4 Scheduling
+P: In cellular systems, and in Wi-Fi 6 and 7 when OFDMA is used, the base station or access point schedules the resources. Every slot it decides which users get which resource blocks, using channel-quality reports from each user. A scheduler that always picks the user with the best channel maximizes total throughput but starves users at the cell edge; round robin is fair but wastes good channels. The proportional-fair scheduler, the common compromise, picks the user whose current rate is highest relative to its own average, so each user is served when its channel is at its own best. Because fading is independent between users, this multiuser diversity raises total throughput above that of any single user.
+H2: Practice
+PR: Find the peak throughput of pure ALOHA and the load at which it occurs.
+PR: Find the slotted-ALOHA throughput at a load of 1.
+PR: How many subcarriers does a 5G resource block contain, and how wide is it at 15 kHz spacing?
+PR: A 1500-byte frame is sent at 1.2 Gbit/s with 185.5 µs of overhead. Find the efficiency.
+PR: Why does Wi-Fi efficiency fall as the PHY rate rises, unless frames are aggregated?
+PR: Why does a proportional-fair scheduler gain from fading?
+ANS: 18.4% at G = 0.5.
+ANS: e^(−1) = 0.368.
+ANS: 12 subcarriers, 180 kHz.
+ANS: Payload 10 µs, so 10/195.5 = 5.1%.
+ANS: The payload time shrinks with the rate, but the preamble, interframe spaces, backoff, and acknowledgment do not.
+ANS: It serves each user near that user's own fading peaks, and with many users someone is usually near a peak, so the total rate exceeds that of any fixed assignment.

@@ -1,0 +1,35 @@
+H1: Chapter 28. The Simulation Flow and the Day in the Lab
+P: The earlier chapters explained why boards radiate, how the test measures it, and what the limits mean. This chapter puts the pieces into the order an engineer uses them: choose the right simulator for each question, measure early with cheap tools, keep enough margin for the uncertainty of the final test, and arrive at the accredited lab with a product that is expected to pass. It closes the book by stating plainly who does what, because the designer and the test laboratory do different jobs.
+H2: 28.1 Choosing the simulator by electrical size
+P: The first question is whether a structure is electrically small. A circuit smaller than about a tenth of a wavelength can be treated as lumped, and SPICE, which solves Kirchhoff's laws, is the right tool. Larger structures need field solvers. Circuit simulators with harmonic balance, such as ADS or AWR Microwave Office, handle nonlinear RF circuits in the frequency domain. Planar 2.5D solvers, such as Momentum, AXIEM, or Sonnet, solve layered structures like filters and transmission-line discontinuities efficiently. Full 3D solvers, such as HFSS or CST, solve arbitrary geometry, including enclosures, cables, and connectors, at the highest cost.
+EQ: lumped if size < λ/10,   λ = c/(f √εr)
+H2: Worked Example 28.1
+WEP: On FR-4 with εr = 4.4, find the largest structure that can be treated as lumped at 1 GHz and at 2.4 GHz.
+WES: At 1 GHz, λ = 3×10⁸/(10⁹ × 2.10) = 143 mm, so the limit is about 14 mm. At 2.4 GHz, λ = 60 mm and the limit is about 6 mm. A decoupling capacitor and its vias fit within that at 1 GHz; a 30 mm trace at 2.4 GHz does not, and must be modeled as a transmission line.
+H2: 28.2 The cost of a 3D model
+P: A 3D solver divides space into cells, and accuracy requires about 10 to 20 cells per wavelength in the material. The cell count grows with the cube of the frequency, so a model that runs in minutes at 1 GHz can take hours at 6 GHz. The practical rule is to simulate the smallest region that captures the physics: one connector and its launch, one gap in the plane, one heatsink, rather than the whole product.
+H2: Worked Example 28.2
+WEP: At 6 GHz on FR-4, find the cell size at 20 cells per wavelength, and the number of cells in a 100 × 100 × 20 mm volume.
+WES: λ = 3×10⁸/(6×10⁹ × 2.10) = 23.8 mm, so the cell is about 1.2 mm. The volume holds about 84 × 84 × 17 ≈ 1.2×10⁵ cells, manageable on a workstation. The same volume at 1 mm cells and with fine refinement around vias quickly reaches millions of cells, which is why the region is kept small.
+KEY: Key idea. Match the tool to the electrical size: SPICE for lumped circuits, harmonic balance for nonlinear RF, 2.5D for planar layers, and 3D only for the region where geometry truly matters.
+H2: 28.3 Pre-compliance and margin
+P: Before the accredited test, engineers measure with cheaper tools. Near-field probes, small loops and stubs connected to a spectrum analyzer, find the sources: a clock harmonic over an oscillator, a switching node, a cable connector. They do not give a field strength comparable to the limit, but they show which change helps. A GTEM cell or a bench-top setup with a calibrated antenna gives an approximate far-field reading. Because the uncertainty of these setups, and of the final test itself, is several decibels, a common target is about 6 dB of margin below the limit in pre-compliance.
+H2: Worked Example 28.3
+WEP: A product fails a radiated limit by 2 dB at 300 MHz, and near-field scanning shows that the emission comes from a clock loop. By what fraction must the loop area shrink for a 6 dB margin, and what does a 30% smaller loop give?
+WES: The needed change is 8 dB. Loop emission is proportional to area, so the area must fall by a factor of 10^(8/20) = 2.5. A 30% reduction gives 20 log(1/0.7) = 3.1 dB, not enough alone; adding a series resistor that slows the edge, or a ferrite on the cable from Chapter 22, provides the rest. A 2 dB failure is a layout fix, not a redesign.
+H2: 28.4 The day in the lab
+P: The accredited test follows the method of Chapter 23 to the letter: the configuration, cable layout, operating mode, and detectors are recorded in the test plan before the first sweep. The engineer brings a documented operating mode that exercises the worst case, spare units, the cables of the product, and a short list of prepared fixes: ferrites, alternative cables, resistor values. Laboratories such as 7layers, part of Bureau Veritas, or Hermon Laboratories in Binyamina, Israel, measure the product and write the report against the standard. They do not design the board. The design, the margin, and the fixes remain the engineer's work, and the report is only as good as the product delivered to the chamber.
+KEY: Key idea. Pre-compliance with near-field probes and a margin of about 6 dB turns the accredited test into a confirmation. The lab measures and reports; the designer owns the margin.
+H2: Practice
+PR: Find the wavelength on FR-4 (εr = 4.4) at 3 GHz.
+PR: Below what size is a structure lumped at 3 GHz on FR-4?
+PR: By how many decibels does halving a loop's area reduce its emission?
+PR: A product passes pre-compliance by 2 dB. Is that enough margin?
+PR: Which tool fits a planar microstrip filter best?
+PR: Does a near-field probe reading give the field strength to compare with the limit?
+ANS: About 47.7 mm.
+ANS: About 4.8 mm.
+ANS: 6.0 dB.
+ANS: No; with several decibels of uncertainty, a margin of about 6 dB is the usual target.
+ANS: A 2.5D planar solver such as Momentum, AXIEM, or Sonnet.
+ANS: No; it locates sources and compares changes, but it is not calibrated to the far-field limit.

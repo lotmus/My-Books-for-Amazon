@@ -1,0 +1,31 @@
+PART: Part II. EMC, Simulation, and Test
+H1: Chapter 21. Why a Board Radiates
+P: No one designs a circuit board to be an antenna, but every board with a fast clock is one. A current that flows out along a trace and back along its return forms a loop, and a loop carrying a changing current radiates. This chapter derives how strongly, shows why the field grows with the square of frequency, and explains why the harmonics of a clock, not the clock itself, are usually what fails a test. Antenna theory proper is Book 4's; here the antenna is an accident to be made small.
+H2: 21.1 The small loop
+P: A loop much smaller than a wavelength, carrying a current I around an area A, radiates a far field proportional to f²AI/r. Ott gives a practical form for a loop above a ground plane, including the ground reflection that the measurement method of Chapter 25 deliberately includes: E ≈ 263 × 10⁻¹⁶ f²AI/r volts per meter, with f in hertz, A in square meters, I in amperes, and r in meters. Three of the four quantities are under the designer's control. Area is set by layout: how far a trace runs from its return. Current is set by the drivers and their loads. Frequency is set by the signals, and since every edge contains high harmonics, by the rise time.
+EQ: E ≈ 263 × 10⁻¹⁶ f² A I / r   (V/m)
+H2: Worked Example 21.1
+WEP: A 25 MHz clock has a 100 MHz harmonic current of 2 mA flowing around a loop of 2 cm². Find the field at 3 m and compare it with the FCC Class B limit there. Then find the field of the fundamental with the same current.
+WES: E = 263 × 10⁻¹⁶ × (10⁸)² × 2 × 10⁻⁴ × 2 × 10⁻³ / 3 = 3.51 × 10⁻⁵ V/m, or 30.9 dBµV/m. The FCC Class B limit from 88 to 216 MHz at 3 m is 150 µV/m, 43.5 dBµV/m, so the margin is 12.6 dB. At 25 MHz with the same current, the field is (25/100)² = 1/16 as large, 24.1 dB lower, 6.8 dBµV/m. The harmonic radiates sixteen times more for the same current, which is the anchor number of this book.
+KEY: Key idea. A small current loop radiates in proportion to its area, its current, and the square of the frequency. Halve the area and the field falls by 6 dB; the harmonics of a clock radiate far more efficiently than the clock itself.
+H2: 21.2 The spectrum of a clock
+P: A clock is a trapezoidal wave, and its spectrum has two corners. Up to f1 = 1/(πτ), with τ the pulse width, the harmonic amplitudes are flat; between f1 and f2 = 1/(πtr), with tr the rise time, they fall at 20 dB per decade; above f2 they fall at 40 dB per decade. A perfect 50% duty cycle would contain only odd harmonics, but real clocks have small duty-cycle errors and unequal rise and fall times, so even harmonics such as the fourth appear, weaker than the odd ones but rarely negligible. Because the loop's radiation rises at 40 dB per decade, multiplying a spectrum that falls at 20 dB per decade gives net growth up to f2: for a 1 ns edge, f2 = 318 MHz, so the worst radiated harmonics usually lie in the hundreds of megahertz.
+EQ: f1 = 1/(πτ),   f2 = 1/(π tr)
+H2: Worked Example 21.2
+WEP: A 25 MHz clock has a 50% duty cycle and 1 ns edges. Find its two spectral corners and describe the radiated field from a fixed loop between them.
+WES: The pulse width is 20 ns, so f1 = 1/(π × 20 ns) = 15.9 MHz, below the fundamental, and f2 = 1/(π × 1 ns) = 318 MHz. Between them the current spectrum falls at 20 dB per decade while the loop's efficiency rises at 40 dB per decade, so the radiated field rises at 20 dB per decade up to about 318 MHz and then stays roughly flat. Slowing the edge to 3 ns lowers f2 to 106 MHz and pulls down every harmonic above it, which is why slew-rate control is a cheap first fix.
+H2: 21.3 What the designer controls
+P: The cures follow from the formula. Keep high di/dt loops small: route every fast signal over an unbroken return plane so the return current flows directly beneath it, making the loop area the trace length times its height above the plane, a fraction of a millimeter. Never cut a slot in the plane under a fast trace, because the return must then detour around the slot and the loop area grows by orders of magnitude. Use the slowest edges the timing allows, and spread-spectrum clocking where the protocol tolerates it. Filter every signal that leaves the board, because the next chapter shows that a cable is a far better antenna than any loop on the board.
+H2: Practice
+PR: Find the field at 3 m from a 1 cm² loop carrying 5 mA at 200 MHz.
+PR: By how many decibels does the field change if the loop area is cut from 4 cm² to 1 cm²?
+PR: A 50 MHz clock has 2 ns edges. Find f2.
+PR: How many decibels more does the 150 MHz harmonic of a 50 MHz clock radiate than the fundamental with the same current?
+PR: Convert 3.51 × 10⁻⁵ V/m to dBµV/m.
+PR: Why does a slot in the ground plane under a clock trace increase radiation?
+ANS: 263 × 10⁻¹⁶ × 4 × 10¹⁶ × 10⁻⁴ × 5 × 10⁻³ / 3 = 1.75 × 10⁻⁴ V/m, or 44.9 dBµV/m.
+ANS: 20 log₁₀4 = 12.0 dB lower.
+ANS: 159 MHz.
+ANS: 20 log₁₀(3²) = 19.1 dB.
+ANS: 30.9 dBµV/m.
+ANS: The return current must detour around the slot, so the loop it forms with the signal current is much larger, and the field grows with that area.

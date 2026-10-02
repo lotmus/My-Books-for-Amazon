@@ -1,0 +1,34 @@
+H1: Chapter 20. Satellites and Non-Terrestrial Networks
+P: Since 3GPP Release 17, the cellular standards include non-terrestrial networks: phones and IoT devices connecting directly to satellites, and satellite constellations carrying 5G-style waveforms. Low-Earth-orbit broadband constellations have meanwhile put millions of terminals in service. The waveform of this book survives the trip to orbit largely unchanged, but three things are very different from a terrestrial link: the delay, the Doppler shift, and the path loss. This chapter computes each for low-Earth and geostationary orbits.
+H2: 20.1 Geometry and delay
+P: A geostationary satellite sits 35,786 km above the equator, so a signal takes 119 ms to reach it even at zenith, and a transparent link from user to satellite to gateway and back takes nearly half a second. A low-Earth-orbit satellite at 550 km is only 1.8 ms away overhead, and its slant range grows to about 1000 km at a 30° elevation angle. The slant range for an elevation e and altitude h is d = √((Re + h)² − (Re cos e)²) − Re sin e, with Re = 6371 km. HARQ timers, random-access windows, and timing advance in the standards had to be extended to accommodate these delays.
+EQ: d = √((Re + h)² − (Re cos e)²) − Re sin e,   τ = d / c
+H2: Worked Example 20.1
+WEP: Find the one-way delay to a 550 km LEO satellite at zenith and at 30° elevation, and the round trip through a geostationary satellite between user and gateway.
+WES: At zenith, 550 km / c = 1.83 ms. At 30°, d = 993 km and the delay is 3.31 ms. For GEO at zenith, each hop is 119.4 ms, and the user-satellite-gateway-satellite-user round trip is four hops, 477 ms. Interactive applications notice the GEO delay; LEO's few milliseconds are comparable to a terrestrial network's.
+H2: 20.2 Doppler
+P: A LEO satellite moves at about 7.6 km/s. A ground user sees a radial velocity up to about v Re/(Re + h), 7.0 km/s near the horizon, and the carrier shifts by f v/c, tens of kilohertz at 2 GHz and hundreds at Ka band, changing continuously through the pass. The subcarrier spacing of Chapter 6 cannot tolerate that offset uncompensated, so terminals use their own GNSS position and the satellite's broadcast ephemeris to precompensate the Doppler and delay before transmitting, leaving only a small residual for the synchronization loops of Chapter 10.
+EQ: fD,max ≈ f × (v Re/(Re + h)) / c
+H2: Worked Example 20.2
+WEP: Find the orbital speed at 550 km, the maximum radial velocity seen from the ground, and the maximum Doppler at 2 GHz. Compare it with a 15 kHz subcarrier spacing.
+WES: v = √(GM/(Re + h)) = √(3.986 × 10¹⁴ / 6.921 × 10⁶) = 7589 m/s. The maximum radial velocity is 7589 × 6371/6921 = 6986 m/s, and the Doppler is 2 × 10⁹ × 6986 / 2.998 × 10⁸ = 46.6 kHz, more than three subcarrier spacings. Without precompensation the receiver could not even find the right subcarriers.
+KEY: Key idea. Non-terrestrial links keep the terrestrial waveform but face large delays, large and changing Doppler, and long paths. Terminals precompensate delay and Doppler using their own position and the satellite's orbit.
+H2: 20.3 Path loss and the direct-to-device link
+P: The free-space loss grows with the square of the distance, so GEO links lose about 36 dB more than LEO links at 550 km for the same frequency. That is why direct-to-phone services, which must close a link to a handset's small antenna and 23 dBm transmitter, use LEO satellites with very large deployable antennas, and why they start with text messages and low-rate data. Book 4's link budget applies unchanged: the satellite's G/T and EIRP make up for the handset's weak antenna.
+EQ: ΔL = 20 log10(dGEO / dLEO)
+H2: Worked Example 20.3
+WEP: Compare the free-space loss at zenith for GEO and for a 550 km LEO satellite at the same frequency.
+WES: 20 log10(35,786/550) = 36.3 dB. A LEO link at a 30° elevation, at 993 km, loses 5.1 dB more than at zenith, still 31 dB less than GEO.
+H2: Practice
+PR: Find the slant range to a 550 km satellite at 10° elevation.
+PR: Find the one-way delay for that range.
+PR: Find the maximum Doppler at 12 GHz for the satellite of Example 20.2.
+PR: What is the round-trip delay between a user and a GEO satellite, one hop each way?
+PR: Why must a direct-to-device terminal precompensate Doppler before transmitting?
+PR: Why do direct-to-phone services use LEO rather than GEO?
+ANS: About 1815 km.
+ANS: 6.05 ms.
+ANS: About 280 kHz.
+ANS: 239 ms.
+ANS: The satellite receives many users at once, each with a different Doppler; precompensation makes them arrive aligned in frequency so their subcarriers remain orthogonal.
+ANS: The path loss is about 36 dB lower, and the delay is milliseconds rather than a quarter second, which a handset's small antenna and power can tolerate.

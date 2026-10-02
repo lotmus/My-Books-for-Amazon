@@ -1,0 +1,31 @@
+H1: Chapter 1. Efficiency and Waste
+P: Power electronics is the engineering of converting electrical energy from the form in which it arrives to the form a load needs, with as little lost as possible. The loss matters more than the efficiency figure suggests, because the loss is what has to be cooled, what limits the size of the converter, and what the owner pays for twice, once as electricity and again as cooling. This chapter introduces the one formula that runs through the whole book, the waste of a converter in terms of its output and efficiency, and applies it to the place where power conversion now matters most visibly: the racks of an artificial-intelligence data center.
+H2: 1.1 Waste, not efficiency
+P: A converter delivering P to its load at efficiency η draws P/η from its source, and the difference becomes heat. Efficiency figures near 100% hide large differences in waste: going from 96% to 98% looks like a 2% improvement, but it halves the heat.
+EQ: Pwaste = P (1/η − 1)
+H2: Worked Example 1.1
+WEP: An 80 kW AI rack is fed through a power stage at 96% or at 98% efficiency. Find the waste in each case, the difference per rack, and the difference for 1000 racks. Repeat for a rack averaging 45 kW.
+WES: At 96%, the waste is 80 × (1/0.96 − 1) = 3.33 kW. At 98%, it is 80 × (1/0.98 − 1) = 1.63 kW. The difference is 1.70 kW per rack, and 1.70 MW across 1000 racks, the output of a small power plant, all of it heat that the cooling plant must also remove. At an average of 45 kW, the difference is 0.96 kW per rack. Running for a year, 1.70 MW is 14,900 MWh; at $0.10 per kWh, that is $1.49 million of electricity, before the cost of cooling it.
+KEY: Key idea. Count the waste, not the efficiency. Two percentage points near the top of the scale can halve the heat, and in a data center that heat is paid for as electricity, as cooling, and as floor space.
+H2: 1.2 The conversion chain
+P: Power reaches a processor through several conversions in series, and their efficiencies multiply. In a typical 2026 AI rack, alternating current from the facility is rectified and converted to a 48 V or higher DC bus by power-supply shelves, an intermediate bus converter steps that down to about 12 V or directly to a lower voltage on the board, and voltage regulators beside the processor supply its core at under one volt. Each stage has a different job and a different efficiency, and the last stage, which handles the highest current at the lowest voltage, is usually the least efficient. Book 7 describes the package and the 875 A that a 700 W processor draws at 0.8 V; this book designs the converters that deliver it.
+H2: Worked Example 1.2
+WEP: A rack's chain consists of a 97.5% power-supply shelf, a 97% intermediate bus converter, and 90% point-of-load regulators. Find the overall efficiency, the input power for 80 kW delivered to the processors, and the total waste.
+WES: The overall efficiency is 0.975 × 0.97 × 0.90 = 0.851. Delivering 80 kW needs 80/0.851 = 94.0 kW at the input, and 14.0 kW is waste. Of that, the final stage alone loses 80 × (1/0.90 − 1) = 8.9 kW. Improving the regulators from 90% to 92% would save more than eliminating the bus converter's loss entirely, which is why so much engineering in 2026 goes into vertical power delivery and higher-voltage distribution to the board.
+H2: 1.3 The scale of the problem
+P: The data center industry's planning figures make the stakes clear. JLL's 2026 Global Data Center Outlook projects nearly 100 GW of new capacity worldwide between 2026 and 2030, roughly doubling the global total, with shell-and-core construction costs averaging about $11.3 million per megawatt in 2026 and AI fit-out adding up to $25 million per megawatt on top. Rack densities for AI training are 40 to more than 100 kW, requiring liquid cooling. At these scales, every percentage point of conversion efficiency is measured in power plants. These are planning numbers, dated to 2026, and they will change; the waste formula will not.
+H2: 1.4 What the rest of the book does
+P: Chapters 2 to 5 cover the converters: the linear regulator, the buck converter, the boost and the control loop, and the isolated converters. Chapter 6 covers the magnetic components that most converters depend on, in four families. Chapter 7 connects converters to the grid, with power factor, harmonics, and grid codes. Chapter 8 treats high voltage and pulsed power. High-power RF amplifiers are Book 4's, and devices, including the physics of the gallium-nitride and silicon-carbide switches used here, are Book 3's.
+H2: Practice
+PR: Find the waste of a 100 kW load at 96% and at 98% efficiency, and the difference.
+PR: A converter delivers 500 W at 94%. Find its input power and waste.
+PR: Three stages of 98%, 96%, and 91% are in series. Find the overall efficiency.
+PR: For the chain in the previous problem delivering 10 kW, how much waste does the last stage produce?
+PR: A 1 MW load improves from 95% to 97% efficiency. Find the annual energy saved at continuous operation.
+PR: Why is the final point-of-load stage usually the least efficient in a data center chain?
+ANS: 4.17 kW and 2.04 kW; the difference is 2.13 kW.
+ANS: 531.9 W in, 31.9 W wasted.
+ANS: 0.98 × 0.96 × 0.91 = 85.6%.
+ANS: 10 × (1/0.91 − 1) = 0.99 kW.
+ANS: Waste falls from 52.6 kW to 30.9 kW, saving 21.7 kW, or 190 MWh per year.
+ANS: It converts at the lowest voltage and the highest current, so conduction losses, which scale with current squared, dominate, and the low output voltage leaves little room for the drops across switches and rectifiers.

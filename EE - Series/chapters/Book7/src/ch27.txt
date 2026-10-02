@@ -1,0 +1,35 @@
+H1: Chapter 27. Immunity, and the Second Report for Radios
+P: Emissions are half of EMC. The other half is immunity: the product must keep working when exposed to the disturbances of its environment, from a static spark off a finger to a lightning surge on the mains and the field of a nearby transmitter. The IEC 61000-4 family defines the test methods, and product standards such as CISPR 35 set the levels and the pass criteria. A product that contains a radio transmitter needs more: a separate radio-conformance report that proves its transmitter meets spectrum rules. This chapter covers the main immunity tests with their numbers and draws the line between the EMC report and the radio report.
+H2: 27.1 Electrostatic discharge
+P: IEC 61000-4-2 models a charged human touching the product with a 150 pF capacitor discharged through 330 Ω. In contact discharge the generator's current reaches its first peak in about 0.8 ns, at about 3.75 A per kilovolt, followed by a slower tail. Test levels for contact discharge are 2, 4, 6, and 8 kV, and for air discharge 2, 4, 8, and 15 kV; many product standards ask for 4 kV contact and 8 kV air. A nanosecond edge of tens of amperes means that the inductance of every path matters: the discharge current must be steered to chassis or through a clamp to the ground plane, never through the logic.
+EQ: Ipeak ≈ 3.75 A/kV × V,   V = L dI/dt
+H2: Worked Example 27.1
+WEP: Find the first-peak current of a 4 kV contact discharge, and the voltage it develops across 10 nH of trace if it rises in 1 ns.
+WES: Ipeak = 3.75 × 4 = 15 A. V = 10 nH × 15 A/1 ns = 150 V across a few centimeters of trace. A clamp diode placed at the connector, with a short, wide path to the plane, keeps most of that voltage away from the chip; the same clamp placed a few centimeters further in is nearly useless.
+H2: 27.2 Fast transients and surge
+P: IEC 61000-4-4, the electrical fast transient test, injects bursts of 5/50 ns pulses, repeated at 5 kHz or 100 kHz, onto power and signal lines, imitating the arcing of relay contacts and switches. IEC 61000-4-5, the surge test, imitates lightning and power switching: the combination-wave generator produces a 1.2/50 µs voltage into an open circuit and an 8/20 µs current into a short, with an effective source impedance of 2 Ω for line-to-line tests. A 1 kV surge can therefore drive 500 A into a short; metal-oxide varistors, gas discharge tubes, and TVS diodes must absorb it without letting the voltage at the protected circuit exceed its rating.
+EQ: Isurge ≈ Vsurge / 2 Ω  (line to line)
+H2: Worked Example 27.2
+WEP: A 2 kV line-to-line surge is applied to a power input protected by a varistor that clamps at 600 V. Estimate the current and the energy the varistor absorbs, approximating the current as an 8/20 µs pulse with an effective duration of 20 µs.
+WES: The current is about (2000 − 600)/2 = 700 A. The energy is roughly 600 V × 700 A × 20 µs = 8.4 J, within the rating of a medium-sized varistor. The capacitor or converter behind it must tolerate 600 V for those microseconds, which sets its own voltage rating.
+KEY: Key idea. Immunity tests inject defined disturbances, ESD, fast bursts, surges, and RF fields, and the product must keep working to a stated criterion. Every injected current must have a short, intended path to chassis or a clamp.
+H2: 27.3 Radiated and conducted RF immunity
+P: IEC 61000-4-3 exposes the product to a uniform field, typically 3 V/m or 10 V/m, swept from 80 MHz to 6 GHz in a chamber with absorber on the floor, amplitude-modulated 80% at 1 kHz. The modulation raises the peak field by a factor of 1.8 and imitates the audio-rate envelope that disturbs analog circuits. Below 80 MHz, where wavelengths are too long for chamber exposure, IEC 61000-4-6 injects the RF into the cables through coupling-decoupling networks, at 3 V or 10 V of source voltage. Rectification of RF in the junctions of op-amps, Book 2's devices, is the usual failure mechanism, and small capacitors at the inputs are the usual cure.
+H2: Worked Example 27.3
+WEP: A product is tested at 10 V/m with 80% AM. Find the peak field.
+WES: With 80% modulation the envelope's peak is 1.8 times the unmodulated level, so the peak field is 18 V/m. Pass criteria are written against the product's function: criterion A, normal operation during the test; B, temporary degradation with self-recovery; C, loss of function that the user must restore.
+H2: 27.4 The second report: radio conformance
+P: A product with a transmitter is also a radio, and the radio rules are a separate legal requirement. In the European Union the Radio Equipment Directive requires conformance in three areas: health and safety, including RF exposure; EMC, usually shown with ETSI EN 301 489; and efficient use of spectrum, shown with radio standards such as EN 300 328 for 2.4 GHz wideband transmitters. In the United States, the digital circuitry falls under Part 15 Subpart B, while the transmitter is certified under Subpart C or another rule part, through a Telecommunication Certification Body, with its own RF-exposure evaluation of the kind Book 4's Chapter 33 describes. The EMC report and the radio report are different documents, from different test setups, and a product needs both.
+H2: Practice
+PR: Find the first-peak current of an 8 kV contact discharge.
+PR: Find the voltage across 5 nH for a 30 A rise in 0.8 ns.
+PR: Find the short-circuit current of a 4 kV surge into 2 Ω.
+PR: Find the peak field of 3 V/m with 80% AM.
+PR: Under the EU Radio Equipment Directive, which ETSI standard family usually covers a radio's EMC?
+PR: Why must an ESD clamp be placed at the connector?
+ANS: 30 A.
+ANS: 188 V.
+ANS: 2000 A.
+ANS: 5.4 V/m.
+ANS: ETSI EN 301 489.
+ANS: The inductance of the trace between the connector and a distant clamp develops a large voltage at nanosecond edges, so the discharge reaches the circuit before the clamp can divert it.

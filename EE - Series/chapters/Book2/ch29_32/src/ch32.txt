@@ -1,0 +1,43 @@
+H1: Chapter 32 — Timing: Setup, Hold, and Metastability
+P: Chapter 4 built sequential circuits from flip-flops as if each one sampled its input at an instant. A real flip-flop needs its input to be steady for a short time before and after the clock edge, its output changes a little after the edge, and the logic between flip-flops takes time to settle. Those few numbers set the fastest clock a design can use and decide whether it works at all. When an input is not synchronized to the clock, as with a button, a sensor, or a signal from another clock domain, a flip-flop can be caught halfway and take an unpredictable time to decide. This chapter puts numbers on both problems.
+H2: 32.1 Setup and Hold
+P: A flip-flop's datasheet gives three times. The setup time t_su is how long before the clock edge the input must be stable; the hold time t_h is how long after the edge it must remain stable; the clock-to-output delay t_cq is how long after the edge the output changes. Between two flip-flops sits combinational logic with a longest (propagation) delay t_pd and a shortest (contamination) delay t_cd. Clock skew t_skew, the difference in clock arrival time between the two flip-flops, can help one check and hurt the other.
+P: The setup check asks whether data launched at one edge arrives before the next edge, less the setup time. The hold check asks whether data launched at an edge arrives too soon, corrupting the value the receiving flip-flop is still capturing from the same edge. A setup failure can be fixed by slowing the clock; a hold failure cannot, because it does not depend on the clock period, which is why hold violations are the more dangerous of the two.
+EQ: Setup: T_clk ≥ t_cq + t_pd + t_su + t_skew,    Hold: t_cq + t_cd ≥ t_h + t_skew
+WE: Worked Example 32.1
+PROB: A path has t_cq = 0.5 ns, t_pd = 6.0 ns, t_su = 0.3 ns, and 0.2 ns of adverse skew. Find the minimum clock period and the maximum frequency. If the same flip-flops have t_h = 0.2 ns and the shortest path has t_cq = 0.3 ns and t_cd = 0.1 ns with 0.3 ns of skew in the other direction, does the hold check pass?
+SOL: T_clk ≥ 0.5 + 6.0 + 0.3 + 0.2 = 7.0 ns, so f_max = 142.9 MHz. For hold, t_cq + t_cd = 0.4 ns must be at least t_h + t_skew = 0.5 ns; it is not, so the path fails hold by 0.1 ns at every clock frequency. The cure is to add delay, a buffer or two, to the short path, or to reduce the skew.
+H2: 32.2 Slack and the Critical Path
+P: Timing tools report slack: the margin by which each path meets its requirement. Positive slack means the path passes; negative slack means it fails. The path with the least slack is the critical path, and it alone limits the clock. Shortening it, by moving logic, adding a pipeline register, or choosing faster gates, raises the clock until another path becomes critical. Pipelining splits a long path into stages with registers between them, which raises the clock rate at the cost of latency, the same trade that Chapter 19's digital controller makes when it accepts one period of compute delay.
+KEY: The clock period is set by the slowest path; correctness is set by the fastest one. || Setup failures yield to a slower clock, hold failures do not, so hold must be checked with minimum delays and worst-case skew at every corner.
+H2: 32.3 Metastability
+P: If the input of a flip-flop changes inside its setup-hold window, the internal latch can be left balanced between 0 and 1, like a ball on a hill. It will fall to one side, but the time it takes is random, with a probability of still being undecided that decays exponentially with a time constant τ, a property of the latch's transistors that is typically tens of picoseconds in modern logic. If the next stage samples the output before it has resolved, the undecided value can propagate as different values to different parts of the logic, which is a failure that no simulation of ideal flip-flops will show.
+P: The mean time between failures for a synchronizer depends on the time t_r allowed for resolution, the latch's τ, the width of its vulnerable window T_w, the clock frequency, and the rate at which the asynchronous input changes. The exponential makes the result extraordinarily sensitive to t_r.
+EQ: MTBF = e^(t_r/τ) / (T_w · f_clk · f_data)
+WE: Worked Example 32.2
+PROB: A flip-flop with τ = 50 ps and T_w = 100 ps samples an asynchronous signal that changes 10 million times per second, on a 200 MHz clock. Find the MTBF if the logic after it leaves 1.0 ns for resolution, and if a second flip-flop is added so that nearly a full period, 4.5 ns, is available.
+SOL: The denominator is 10⁻¹⁰ × 2 × 10⁸ × 10⁷ = 2 × 10⁵ per second. With t_r = 1.0 ns, e^(20) = 4.85 × 10⁸, so MTBF = 2,426 s, about 40 minutes: the product fails many times a day. With t_r = 4.5 ns, e^(90) = 1.22 × 10³⁹, so MTBF = 6.1 × 10³³ s, about 1.9 × 10²⁶ years. The second flip-flop costs one clock period of latency and buys a factor of 10³⁰.
+FIG: fig32_1.png | Figure 32.1 — Synchronizer MTBF versus resolution time for τ = 50 ps, T_w = 100 ps, f_clk = 200 MHz, and f_data = 10 MHz. Each 115 ps of added resolution time multiplies the MTBF by ten; the single-flop (1.0 ns) and two-flop (4.5 ns) cases of Worked Example 32.2 are marked.
+H2: 32.4 Crossing Clock Domains
+P: The two-flip-flop synchronizer is safe for one bit. For a multi-bit value, such as a counter or a FIFO pointer, synchronizing each bit separately is not safe: if several bits change at once, some may be captured before the change and some after, giving a value that never existed. The standard fixes are Gray-code counters, in which only one bit changes per step, so that a captured value is either the old one or the new one; handshakes, in which a single synchronized flag announces that a multi-bit bus is stable; and dual-clock FIFOs, which combine Gray-coded pointers with memory. Every input from a button, a sensor, or another chip with its own oscillator is a clock-domain crossing and needs one of them.
+MIS: A synchronizer does not remove metastability; it makes it rare. MTBF is a statistical figure, and a design with an MTBF of 40 minutes will fail in testing only occasionally, often blamed on noise. The fix is to compute the MTBF from the data sheet's τ and T_w at the worst-case temperature and supply, and to choose enough synchronizer stages that it exceeds the product's life by many orders of magnitude.
+PP: Find the maximum clock frequency for t_cq = 0.4 ns, t_pd = 4.0 ns, t_su = 0.2 ns, and 0.1 ns of skew.
+PP: A short path has t_cq = 0.35 ns and t_cd = 0.05 ns; the flip-flop has t_h = 0.25 ns, and the skew is 0.2 ns. Does it pass hold?
+PP: For the synchronizer of Worked Example 32.2, find the MTBF with t_r = 1.5 ns.
+PP: By what factor does the MTBF grow for each additional τ of resolution time?
+PP: Why are FIFO pointers passed between clock domains in Gray code?
+PP: A path needs 7.0 ns and the clock period is 10 ns. What is its slack?
+SOLN: T_clk ≥ 0.4 + 4.0 + 0.2 + 0.1 = 4.7 ns, so f_max = 212.8 MHz.
+SOLN: t_cq + t_cd = 0.40 ns, but t_h + t_skew = 0.45 ns, so it fails hold by 0.05 ns; add delay to the short path.
+SOLN: e^(30)/(2 × 10⁵) = 5.3 × 10⁷ s, about 1.7 years.
+SOLN: A factor of e, about 2.72.
+SOLN: Only one bit changes per increment, so a value captured during a change is either the old or the new pointer, never a value that never existed.
+SOLN: 10 − 7.0 = 3.0 ns of positive slack.
+SUM: A path between flip-flops passes setup if T_clk ≥ t_cq + t_pd + t_su + t_skew and hold if t_cq + t_cd ≥ t_h + t_skew; a 7.0 ns path runs at 142.9 MHz, and a hold violation persists at any clock rate. An asynchronous input can leave a flip-flop metastable; MTBF = e^(t_r/τ)/(T_w f_clk f_data) rises from 40 minutes at 1.0 ns of resolution time to 10²⁶ years at 4.5 ns, which is why two-flip-flop synchronizers, Gray codes, and handshakes guard every clock-domain crossing.
+GLOS: Setup time || The interval before a clock edge during which a flip-flop's input must be stable.
+GLOS: Hold time || The interval after a clock edge during which a flip-flop's input must remain stable.
+GLOS: Clock skew || The difference in arrival time of the same clock edge at two flip-flops.
+GLOS: Metastability || A flip-flop state between 0 and 1, caused by an input change inside the setup-hold window, that resolves after a random time.
+GLOS: Synchronizer || A chain of flip-flops, usually two, that gives a metastable state time to resolve before the signal is used.
+FORM: Setup and hold || T_clk ≥ t_cq + t_pd + t_su + t_skew;  t_cq + t_cd ≥ t_h + t_skew
+FORM: Synchronizer MTBF || e^(t_r/τ)/(T_w f_clk f_data)

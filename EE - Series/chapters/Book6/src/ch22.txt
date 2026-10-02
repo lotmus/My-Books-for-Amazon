@@ -1,0 +1,32 @@
+H1: Chapter 22. Wireless Power Transfer
+P: A phone on a charging pad, an electric toothbrush, an implanted medical device, and an electric bus at a stop all take power through an air gap. They use the transformer of Chapter 6 with its core removed and its windings pulled apart. The coupling between the coils becomes weak, and almost all of the magnetic flux misses the receiver. This chapter shows how resonance rescues such a loosely coupled transformer, gives the formula for its best possible efficiency, and describes the standards for phones and vehicles.
+H2: 22.1 Coupling and the loose transformer
+P: Two coils with self-inductances L1 and L2 and mutual inductance M have a coupling coefficient k = M/√(L1L2). In a cored transformer k is above 0.99. Across a few millimeters of air between flat coils it may be 0.3 to 0.6, and across a 15 to 25 cm vehicle gap 0.1 to 0.3. Without compensation, the large leakage inductance would need a huge magnetizing current for a small transferred power. Tuning each coil with a capacitor to resonance at the operating frequency cancels its reactance, so the coils exchange real power efficiently even at low k.
+EQ: k = M / √(L1 L2),   f0 = 1 / (2π √(L C))
+H2: 22.2 The efficiency limit
+P: For two resonant coils with quality factors Q1 and Q2, the best efficiency, reached when the load is optimally matched, depends only on the product k²Q1Q2. Writing x = k²Q1Q2, the maximum efficiency is x/(1 + √(1 + x))². High efficiency needs x in the hundreds or thousands. Low coupling must therefore be offset by high coil Q, which is why wireless chargers use Litz wire against the skin effect of Chapter 6 and ferrite backing to shape the field.
+EQ: ηmax = k²Q1Q2 / (1 + √(1 + k²Q1Q2))²
+H2: Worked Example 22.1
+WEP: Find the maximum link efficiency for a phone pad with k = 0.3 and Q1 = Q2 = 100, for a vehicle pad with k = 0.2 and Q = 300, and for coils 30 cm apart with k = 0.01 and Q = 100.
+WES: Phone pad: x = 0.09 × 10⁴ = 900, so η = 900/(1 + 30.02)² = 93.6%. Vehicle pad: x = 3600, η = 96.7%. Distant coils: x = 1, η = 1/(1 + 1.414)² = 17.2%. The coil-to-coil efficiency of a well-designed pad rivals a cable charger's, but at larger gaps the power is lost very quickly, which is why long-range wireless power remains a niche.
+KEY: Key idea. A wireless charger is a loosely coupled, resonant transformer. Its best efficiency depends only on k²Q1Q2, so weak coupling must be paid for with very high coil quality factors.
+H2: 22.3 Phones and vehicles
+P: The Qi standard of the Wireless Power Consortium operates in roughly the 100 to 200 kHz range and uses a communication channel from the receiver back to the transmitter to regulate power and to detect foreign metal objects, which would heat in the field. The Qi2 version adds magnetic alignment so the coils sit centered, raising k. For vehicles, SAE J2954 sets a nominal 85 kHz and power classes from 3.7 kW to 11 kW and beyond, with gap and alignment tolerances, foreign-object and living-object detection, and the field-exposure limits of Book 4's Chapter 33.
+H2: Worked Example 22.2
+WEP: A vehicle charger resonates at 85 kHz with a 50 µH coil. Find the tuning capacitance. Compare the end-to-end waste at 11 kW for an overall efficiency of 93% and 96.7%.
+WES: C = 1/((2π × 85 × 10³)² × 50 × 10⁻⁶) = 70.1 nF. At 93% the waste is 11,000 × (1/0.93 − 1) = 828 W; at 96.7%, 375 W. The difference is the heat that the pad buried in the parking bay must shed.
+H2: 22.4 The rest of the chain
+P: The coil link is only one stage. The transmitter needs a rectifier and power-factor stage from the grid and a high-frequency inverter, usually a full bridge, to drive the resonant coil; the receiver needs a rectifier and a regulator or battery charger of the kind in Chapter 12. End-to-end efficiencies of about 90% to 94% are typical for vehicle systems and somewhat lower for phones, where misalignment and the small coils reduce k and Q. The same chain of products of efficiencies as in Chapter 14 applies.
+H2: Practice
+PR: Find ηmax for k = 0.5 and Q1 = Q2 = 50.
+PR: Find ηmax for k = 0.05 and Q1 = Q2 = 200.
+PR: Find the resonant frequency of 10 µH with 100 nF.
+PR: Coils have L1 = L2 = 20 µH and M = 4 µH. Find k.
+PR: Why do wireless chargers use Litz wire?
+PR: Why must a charger detect foreign metal objects?
+ANS: 92.3%.
+ANS: 81.9%.
+ANS: 159 kHz.
+ANS: 0.2.
+ANS: At the operating frequency the skin effect would raise the resistance of solid wire and lower the coil Q; Litz wire's fine insulated strands keep the AC resistance low.
+ANS: Eddy currents induced by the field would heat coins, keys, or foil to dangerous temperatures.
