@@ -1,0 +1,57 @@
+H1: Chapter 9. Bias, Early Effect, and the Hybrid-π
+P: Chapter 8 gave the transistor's large-signal law: collector current exponential in VBE, base current smaller by β. A circuit designer needs two more things from the device. The first is a way to hold the operating point steady when β and VBE refuse to be constant. The second is a linear model of how the device responds to a small signal riding on that operating point. This chapter derives both from the physics, then adds the capacitances that limit how fast the device can respond.
+H2: 9.1 Why neither β nor VBE can set the bias
+P: β varies by a factor of two or three among transistors of the same part number, and it changes with temperature and current. A circuit that sets IB and relies on β to produce IC inherits all of that spread. VBE is no better a handle. At constant collector current, VBE falls by roughly 2 mV for every degree Celsius, because IS rises steeply with temperature. Turn that around and a fixed VBE produces a collector current that climbs as the transistor warms.
+H2: Worked Example 9.1
+P: A transistor is biased by a fixed VBE that gives IC = 1.0 mA at 25 °C. Using −2 mV/°C and the 60 mV per decade of Chapter 5, estimate IC at 35 °C if VBE is held fixed.
+P: Over 10 °C, the VBE needed for 1.0 mA falls by about 20 mV. Holding VBE fixed therefore leaves the junction 20 mV more forward-biased than it needs to be, which multiplies the current by 10^(20/59.9) ≈ 2.16. The current more than doubles for a ten-degree rise. The extra current heats the junction further, which can run away in a power stage. A bias scheme must set the current by some means other than the junction voltage.
+H2: 9.2 Emitter degeneration
+P: The standard cure puts a resistor RE in the emitter and sets the base at a fixed voltage VB, typically from a stiff divider. Kirchhoff around the base-emitter loop gives
+EQ: IE = (VB − VBE) / RE
+P: If VB is several times VBE, a change of tens of millivolts in VBE changes the numerator only slightly, and β enters only through α = β/(β + 1), which is close to one for any reasonable β. The resistor converts an exponential device into one whose current is set by Ohm's law. This is the device-side view of the bias networks Book 2 uses.
+H2: Worked Example 9.2
+P: VB = 2.0 V, RE = 1.3 kΩ, and VBE = 0.718 V at the operating point. Find IE, and find IC for β = 100 and for β = 300. Then estimate the change in IE if VBE falls by 100 mV over a 50 °C rise. Ignore the divider's loading by the base current.
+P: IE = (2.0 − 0.718)/1300 = 0.986 mA. For β = 100, IC = α IE = (100/101)(0.986) = 0.976 mA. For β = 300, IC = (300/301)(0.986) = 0.983 mA. Tripling β moved IC by under 1%. A 100 mV drop in VBE raises IE by 0.100/1300 = 77 µA, about 7.8%. Degeneration has made the bias nearly independent of β and has reduced the thermal sensitivity from a doubling per ten degrees to under 8% over fifty. A larger VB and RE would reduce the thermal term further, at the cost of supply headroom.
+H2: 9.3 The Early effect
+P: The collector-base depletion layer widens as VCE rises, and it widens partly into the base. The effective base width WB shrinks, the Gummel number falls, and by Chapter 8's expression IS rises. The collector current therefore increases slightly with VCE even at fixed VBE. Extrapolate the collector characteristics backward and they meet the voltage axis near a single point, −VA, where VA is the Early voltage. The large-signal law gains a factor:
+EQ: IC = IS e^(VBE / VT) (1 + VCE / VA),    ro = VA / IC
+P: The slope of that characteristic is a small-signal output resistance ro. Declared: IC = 1 mA and VA = 100 V give ro = 100 kΩ. A lightly doped base widens the depletion region's encroachment and lowers VA; a heavily doped base resists it. The same trade appears again in the MOSFET as channel-length modulation.
+H2: 9.4 The hybrid-π model
+P: For a small signal vbe on top of the bias, the exponential can be replaced by its tangent. Its slope is the transconductance:
+EQ: gm = dIC/dVBE = IC / VT
+P: The base current is IC/β, so the small-signal input resistance looking into the base is rπ = β/gm. The output is the current gm vbe in parallel with ro. Those three elements, rπ from base to emitter, a controlled source gm vbe from collector to emitter, and ro across it, are the hybrid-π model at low frequency.
+P: At the declared IC = 1 mA: gm = 1 mA/26 mV = 38.5 mS. rπ = 100/0.0385 ≈ 2.60 kΩ. ro = 100 kΩ. The product gm ro = VA/VT ≈ 3850, or about 72 dB, is the largest voltage gain a single transistor can provide with an ideal current-source load, and it depends only on the Early voltage and the temperature, not on the bias current.
+H2: Worked Example 9.3
+P: The declared transistor drives a collector resistor RC = 5.0 kΩ to the supply, with the emitter at small-signal ground. Find the small-signal voltage gain. Then find the input amplitude at which the second harmonic reaches 1% of the fundamental, using the exponential's expansion, for which the ratio is vbe/(4VT).
+P: The load is RC in parallel with ro: 5.0k ‖ 100k ≈ 4.76 kΩ. The gain is −gm (RC ‖ ro) = −0.0385 × 4760 ≈ −183. For 1% second harmonic, vbe/(4VT) = 0.01, so vbe = 0.04 × 26 mV ≈ 1.04 mV peak. A transistor is "small-signal" only for input swings of about a millivolt. That is the deeper reason Book 2's amplifiers wrap transistors in feedback: the loop of Book 2's Chapter 11 divides this distortion by its loop gain.
+KEY: Key idea. gm = IC/VT. Raise the current and the transconductance rises in proportion. The thermal voltage is still 26 mV, and an input swing comparable to it is no longer small.
+H2: 9.5 Capacitances and fT
+P: Two capacitances limit the transistor's speed. Charge stored in the base in transit, the 5 ps of Worked Example 8.1, behaves like a capacitance gm τF from base to emitter, where τF is the forward transit time, base transit plus smaller delays in the junctions. Added to it is the emitter-base depletion capacitance Cje, the Chapter 6 junction capacitance. Together they form Cπ. The collector-base depletion capacitance Cμ links input and output. The transition frequency fT, where the short-circuit current gain falls to one, is
+EQ: fT = gm / (2π (Cπ + Cμ)),    Cπ = gm τF + Cje
+H2: Worked Example 9.4
+P: Declare τF = 10 ps, Cje = 50 fF, and Cμ = 20 fF. Find fT at IC = 0.1 mA, 1 mA, and 5 mA.
+P: At 1 mA, gm = 38.5 mS, Cπ = 0.0385 × 10 ps + 50 fF ≈ 435 fF, and fT = 0.0385/(2π × 455 fF) ≈ 13.5 GHz. At 0.1 mA, gm = 3.85 mS, Cπ ≈ 88.5 fF, and fT ≈ 5.6 GHz, because the fixed junction capacitances now dominate. At 5 mA, fT ≈ 15.4 GHz, approaching the ceiling 1/(2πτF) ≈ 15.9 GHz set by transit time alone. A data sheet's fT curve rises with current, flattens near that ceiling, and in a real device falls again at high current when the injected electrons overwhelm the base doping, an effect this simple model leaves out.
+H2: 9.6 A complete common-emitter stage
+P: The pieces of this chapter assemble into the most common discrete amplifier there is. Take the declared transistor of Appendix A, β = 100 and VA = 100 V, a 12 V supply, and a target of IC = 1 mA. A base divider sets the base voltage; an emitter resistor RE converts that voltage into a current, the degeneration of Section 9.2; a collector resistor RC converts the collector current back into a voltage. The design proceeds in a fixed order. Choose the emitter voltage, about 1 V, large compared with the uncertainty in VBE, so RE = 1 V / 1 mA = 1.0 kΩ. The base then sits at 1 V + 0.718 V = 1.72 V. Choose the divider current about ten times the 10 µA base current, so the base current barely loads it: R2 = 1.72 V / 100 µA = 17.2 kΩ, and R1 = (12 − 1.72) V / 110 µA = 93.5 kΩ, standard values 18 kΩ and 91 kΩ. Finally place the collector near the middle of the remaining swing: RC = 5.6 kΩ puts it at 12 − 5.6 = 6.4 V.
+P: The small-signal gain depends on what the emitter sees at the signal frequency. With RE bypassed by a large capacitor, the gain is −gm (RC ∥ ro) = −0.0385 × (5.6 kΩ ∥ 100 kΩ) = −204, large but proportional to gm and therefore to temperature and to the exact bias. With RE unbypassed, the gain becomes −RC / (1/gm + RE) = −5600 / (26 + 1000) = −5.5, small but set almost entirely by a resistor ratio. The difference is negative feedback, the subject of Book 2, appearing inside a single transistor. Practical stages split RE, leaving part unbypassed to fix the gain at a value such as 20 to 50.
+P: The input resistance follows from the same model. Looking into the base with RE unbypassed, the transistor presents rπ + (β + 1) RE = 2.6 kΩ + 101 kΩ ≈ 104 kΩ, in parallel with the divider's 18 kΩ ∥ 91 kΩ = 15 kΩ. The bias network, not the transistor, now limits the input resistance, which is a common surprise and the reason bootstrapped and active bias networks exist.
+KEY: Key idea. Bias first, then signal. RE fixes the current, the divider fixes the base voltage, and whether RE is bypassed chooses between a large, unstable gain and a small, resistor-defined one.
+H2: Worked Example 9.1
+P: In the stage above, the 5.6 kΩ collector resistor and a load of 10 kΩ share the collector node. The emitter has 100 Ω unbypassed and 900 Ω bypassed. Find the midband gain and the bias current change if β falls from 100 to 50.
+P: The collector load is 5.6 kΩ ∥ 10 kΩ ∥ 100 kΩ = 3.47 kΩ. The gain is −3470/(26 + 100) = −27.5. For the bias, the divider's Thevenin resistance is 15 kΩ, and the base current flows through it: IE = (VTH − VBE)/(RE + RTH/(β + 1)). With VTH = 12 × 18/(18 + 91) = 1.98 V, IE = (1.98 − 0.718)/(1000 + 15000/101) = 1.10 mA at β = 100, and (1.98 − 0.718)/(1000 + 15000/51) = 0.976 mA at β = 50, a change of 11 % for a halving of β. A stiffer divider would reduce it further, at the cost of input resistance.
+P: With bias and small-signal behavior in hand, the bipolar part of the book is done. Part III builds the device that replaced it in almost every chip, the MOSFET.
+H2: Practice
+PR: Find gm and rπ at IC = 0.25 mA with β = 120.
+PR: A transistor with VA = 60 V is biased at IC = 0.5 mA. Find ro and the intrinsic gain gm ro.
+PR: In the circuit of Worked Example 9.2, VB is raised to 4.0 V and RE chosen for the same IE. Find RE and the change in IE for the same 100 mV fall in VBE.
+PR: For the transistor of Worked Example 9.4, find fT at IC = 2 mA.
+PR: Explain in one or two sentences why the intrinsic gain gm ro does not depend on the bias current.
+PR: Find the gain of the stage in Worked Example 9.1 if the 100 Ω unbypassed resistor is shorted.
+PR: Why does the divider current in a bias network need to be much larger than the base current?
+ANS: gm = 0.25 mA/26 mV ≈ 9.62 mS; rπ = 120/0.00962 ≈ 12.5 kΩ.
+ANS: ro = 60 V/0.5 mA = 120 kΩ; gm ro = VA/VT = 60/0.026 ≈ 2310, about 67 dB.
+ANS: RE = (4.0 − 0.718)/0.986 mA ≈ 3.33 kΩ. ΔIE = 0.100/3330 ≈ 30 µA, about 3.0% instead of 7.8%.
+ANS: gm = 76.9 mS; Cπ = 0.0769 × 10 ps + 50 fF ≈ 819 fF; fT = 0.0769/(2π × 839 fF) ≈ 14.6 GHz.
+ANS: gm is proportional to IC and ro is inversely proportional to IC, so their product VA/VT contains no current at all.
+ANS: −0.0385 × 3.47 kΩ = −134.
+ANS: So that the base current, which varies with β and temperature, changes the divider's output voltage only slightly; otherwise the bias point follows β.
