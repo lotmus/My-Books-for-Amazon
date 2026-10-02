@@ -18,7 +18,7 @@ This book is a general educational guide. Amazon’s KDP terms, royalty rates, t
 
 This book has two halves, and you can stop after the first one.
 
-Part I is the short road. You follow June, a first-time mystery author, through one month of real decisions: what to write, who it is for, what one sale leaves her, how to fix the page, how to ask for honest reviews, and which of thirty-two money ideas to try first. Each chapter ends with one action. If you read only Part I, you can publish a book that pays you honestly.
+Part I is the short road. You follow one first-time author and her cozy mystery through one month of real decisions: what to write, who it is for, what one sale leaves her, how to fix the page, how to ask for honest reviews, and which of thirty-two money ideas to try first. Each chapter ends with one action. If you read only Part I, you can publish a book that pays you honestly.
 
 Parts II to VIII are the full guide. They take the same steps apart with the complete arithmetic: both royalty plans line by line, the keyword and category fields, launch week, ads and break-even ACOS, taxes and payments, KDP Select against going wide, the traps that cost new authors money, building a catalog, the first-review problem in depth, and using AI without losing the business. The appendices hold a one-page launch checklist and a royalty quick reference.
 

@@ -54,7 +54,7 @@
 
 - [ ] Ebook
 
-- [ ] 70% royalty band: list price $2.99–$12.99 (US), minus a delivery fee (~$0.15 per MB of file size) — the top of the band expanded from $9.99 in July 2026; existing titles priced $10–$12.99 must be switched to the new band by hand in Rights & Pricing
+- [ ] 70% royalty band: list price $2.99–$12.99 (US), with a delivery fee (~$0.15 per MB of file size) taken off the price before the 70% applies — the top of the band expanded from $9.99 in July 2026; existing titles priced $10–$12.99 must be switched to the new band by hand in Rights & Pricing
 
 - [ ] 35% royalty: any price outside that band ($0.99–$200), no delivery fee subtracted
 
@@ -62,7 +62,7 @@
 
 - [ ] Print
 
-- [ ] Paperback (Amazon channel): 60% of list price, minus printing cost
+- [ ] Paperback (Amazon channel): 60% of list price at $9.99 and up on Amazon.com (50% below), minus printing cost
 
 - [ ] Paperback (expanded distribution): 40% of list price, minus printing cost
 
