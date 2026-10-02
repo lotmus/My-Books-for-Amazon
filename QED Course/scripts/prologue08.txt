@@ -1,0 +1,123 @@
+TITLE: S-Parameters and the S-Matrix
+TAGLINE: The microwave engineer's incoming and outgoing waves are the same idea as ⟨f|S|i⟩: arrows from in to out
+NUM: 8
+NEXT: Prologue 9 draws Feynman diagrams as cartoons of those in-to-out arrows, slowly enough for a first reading.
+
+# How to use this prologue
+
+If you have ever used a network analyzer, you already own half of particle physics. A two-port has incoming waves a₁, a₂ and outgoing waves b₁, b₂, packed as b=Sa. The numbers S₁₁, S₂₁ are amplitudes. Their | |² are reflected and transmitted power. Quantum electrodynamics uses the same packing for particles: in-state |i⟩, out-state |f⟩, a matrix S, an arrow ⟨f|S|i⟩. This prologue is the dictionary. Lesson 51 turns ⟨f|S|i⟩ into a cross section. Expect four to six hours.
+
+## Learning objectives
+
+- Write b = S a for a two-port and name S₁₁ as reflection, S₂₁ as transmission.
+
+- Identify |S_ij|² with Prologue 1's probability (power, in the microwave case).
+
+- Write the QED S-matrix element as ⟨f|S|i⟩ and compare it to S₂₁.
+
+- Translate Prologue 2's glass into S-parameters.
+
+- State what a particle-physics "port" is: a species, a momentum, and a spin.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| a₁, a₂ | Incoming wave amplitudes at ports 1 and 2 (microwave) |
+| b₁, b₂ | Outgoing wave amplitudes |
+| S₁₁, S₂₁ | Reflection at 1; transmission from 1 to 2 |
+| ⟨f|S|i⟩ | QED amplitude from in-state i to out-state f |
+| ℳ | The interesting part of S after removing "nothing happened" and a momentum δ-function, Lesson 50 |
+
+# 1 The two-port you already know
+
+FIG:
+  a1 -->  [  network  ]  --> b2
+  b1 <--  [           ]  <-- a2
+ENDFIG
+
+$$ b₁ = S₁₁ a₁ + S₁₂ a₂
+
+$$ b₂ = S₂₁ a₁ + S₂₂ a₂
+
+S₁₁ is "in at 1, back out at 1": reflection. S₂₁ is "in at 1, out at 2": transmission. If the network is lossless, the outgoing power equals the incoming power: the S matrix is unitary, which in arrows says lengths are preserved. That is Prologue 6's ⟨ψ|ψ⟩=1, written for waves on cables.
+
+### Worked example 1
+
+A matched load has S₁₁=0: nothing comes back. A short has S₁₁=−1: everything comes back, arrow reversed. A piece of glass, Prologue 2, is a two-port for photons: S₁₁~0.2 (one surface), and |S₁₁|²≈0.04. Two surfaces make S₁₁ a sum of two arrows, thickness-dependent. You have been computing S-parameters with Feynman arrows since Prologue 2.
+
+# 2 Particles instead of cables
+
+In QED the "cables" are beams. An in-state |i⟩ names every incoming particle: species, momentum, spin. An out-state |f⟩ names every outgoing one. The amplitude is
+
+$$ ⟨ f | S | i ⟩
+
+Read it as S₂₁, with port 1 = the prepared beam and port 2 = the detector setting. If nothing happens, S acts as 1: ⟨f|i⟩, which is zero unless f is i. Scattering is the extra piece, written i(2π)⁴δ⁴(P_f−P_i)ℳ in Lesson 50. ℳ is the S-parameter after you have stripped off "the beam missed" and "momentum must balance."
+
+# 3 Unitarity is probability accounting
+
+Microwave: if 1 watt goes in, 1 watt comes out of a lossless two-port, in some mix of b₁ and b₂. QED: if a photon goes in, the sum of |⟨f|S|i⟩|² over all possible f is 1 (on the energy shell, with the usual continuum caveats of Lesson 51). Lost probability is a missing diagram, a missed port. Optical theorem, later, is this sentence differentiated.
+
+# 4 Many ports
+
+A 2→2 process (two particles in, two out) is a four-port if you count each particle's momentum as a port. Compton is S from the port "electron+photon in" to the port "electron+photon out." Annihilation is a different routing: electron+positron in, two photons out. The Feynman diagram of Prologue 9 is the picture of which internal cables you soldered. The S-parameter is the number that picture evaluates to.
+
+# Connections to QED
+
+@widths 3264 6528
+| Result of this prologue | Where it is used |
+| b=Sa | Laboratory language for ⟨f|S|i⟩ |
+| S₁₁, S₂₁ | Reflection and transmission; Prologue 2's glass |
+| ℳ | Lesson 50–51, the computed S-parameter of a process |
+| Unitarity | Probability; later, the optical theorem |
+
+# Summary
+
+1. S-parameters are arrows from in-waves to out-waves.
+
+2. |S_ij|² is power in the microwave, probability in QED.
+
+3. ⟨f|S|i⟩ is the same idea for particles.
+
+4. Glass was an S₁₁. Compton is a bigger S.
+
+5. Lesson 51 converts |ℳ|² into a cross section, the particle version of |S₂₁|² times a flux.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | What is S₁₁ in words? S₂₁? |
+| 2 | A lossless matched line: quote S₁₁ and S₂₁. |
+| 3 | Write the QED sandwich that corresponds to S₂₁. |
+| 4 | Map Prologue 2's single glass surface onto an S-parameter. |
+| 5 | What does unitarity say in one sentence? |
+| 6 | What does Lesson 50 strip off S to leave ℳ? |
+| 7 | Is a decay Γ an S-parameter? |
+| 8 | Challenge: three-port, one in, two out (a decay into two particles). Which S-column is the physics? |
+
+# Solutions
+
+**1.** S₁₁: reflection at port 1. S₂₁: transmission from 1 to 2.
+
+**2.** S₁₁=0, S₂₁=e^{iθ} with |S₂₁|=1 (a delay).
+
+**3.** ⟨f|S|i⟩.
+
+**4.** S₁₁≈0.2, |S₁₁|²≈0.04.
+
+**5.** Outgoing probability (or power) equals incoming; arrows preserve length in total.
+
+**6.** The identity piece (nothing happened) and a momentum-conserving δ-function; ℳ is the rest.
+
+**7.** It is built from |ℳ|² the same way; one "in" port, several "out" ports, no flux factor, Lesson 51.
+
+**8.** The column for that one incoming state; the two outgoing particles are two ports sharing the row.
+
+# Mastery checklist
+
+- I can read a two-port S matrix as arrows from in to out.
+
+- I can write ⟨f|S|i⟩ as the particle version of S₂₁.
+
+- I can see glass, Compton, and a VNA as one idea.

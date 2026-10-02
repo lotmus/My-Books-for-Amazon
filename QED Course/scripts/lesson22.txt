@@ -1,0 +1,271 @@
+TITLE: Dirac Spinors
+TAGLINE: The Dirac adjoint, bilinear covariants, the spin operator, orthogonality, and the completeness relations used to sum over spins
+NUM: 22
+NEXT: Lesson 23 confronts the negative-energy solutions directly: hole theory, the reinterpretation of v(p) as an antiparticle, and the prediction of the positron.
+
+# How to use this lesson
+
+Lesson 20 constructed the free-particle spinors u(p) and v(p) explicitly; Lesson 21 built the algebraic toolkit of gamma-matrix identities. This lesson puts the two together to study the Dirac spinors as physical objects: it introduces the Dirac adjoint, needed to build genuinely covariant bilinear expressions from ψ; it classifies every such bilinear by its transformation behavior under Lorentz transformations and parity; it extracts a covariant spin operator from the gamma matrix algebra and confirms that a Dirac particle at rest has spin 1/2, exactly as anticipated in Lesson 19; and it derives the orthogonality and completeness relations for u(p) and v(p) that make spin sums in scattering calculations tractable.
+
+Two calculations in this lesson deserve special attention going forward: the completeness relation Σₛu_s(p)ū_s(p) = p̸+m, which is the single most frequently used identity in every unpolarized cross-section calculation from Lesson 54 onward, and the projector formalism that shows how it, and its v-spinor counterpart, arise naturally from the Dirac equation itself. Expect eight to ten focused hours.
+
+## Learning objectives
+
+- Define the Dirac adjoint ψ̄=ψ†γ⁰ and explain why it, rather than ψ†, is needed to build covariant bilinears.
+
+- Classify the sixteen independent bilinear covariants by their transformation type: scalar, vector, tensor, axial vector, pseudoscalar.
+
+- Construct the covariant spin operator from the gamma matrices and verify a Dirac particle at rest has spin 1/2.
+
+- Derive the orthogonality relations among u(p) and v(p) for different spin states.
+
+- Derive the completeness relations Σu_sū_s=p̸+m and Σv_sv̄_s=p̸−m.
+
+- Use the completeness relations to convert a spin sum of |amplitude|² into a trace of gamma matrices.
+
+- Construct explicit helicity eigenstates and relate helicity to the spin operator along the direction of motion.
+
+- Recognize the projector structure (p̸+m)/2m as directly analogous to the chiral projectors of Lesson 21.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| ψ̄ = ψ†γ⁰ | Dirac adjoint |
+| u_s(p), v_s(p) | Spinor solutions labeled by momentum p and spin index s=1,2 |
+| Σ^μν = (i/4)[γ^μ,γ^ν] | Covariant spin tensor built from the gamma matrices |
+| Σ_z | Spin operator along z in the rest frame |
+| h = Σ·p̂ | Helicity operator |
+| Λ_+(p), Λ_−(p) | Energy projectors, (p̸+m)/2m and (m−p̸)/2m |
+| N_s | Normalization label for spin states, s=1,2 |
+
+# 1 The Dirac adjoint
+
+## 1.1 Why ψ†ψ is not covariant
+
+The naive bilinear ψ†ψ, built the way an inner product was built in Lesson 10, transforms under a Lorentz boost in a way that is not simply that of a scalar; this is because the matrices representing boosts on spinors (constructed, though not derived in full here, from the gamma matrices) are not unitary in the same sense that spatial rotations are, a consequence of the non-compactness of the Lorentz group already hinted at in Lesson 4's discussion of boosts as hyperbolic rather than ordinary rotations.
+
+## 1.2 Definition and covariance
+
+Define the Dirac adjoint
+
+$$ ψ̄ = ψ† γ⁰
+
+Using (γ⁰)†=γ⁰ (Lesson 21, Exercise 7, γ⁰ is Hermitian) and (γ⁰)²=I, one can show that ψ̄ψ, unlike ψ†ψ, transforms as a genuine Lorentz scalar (the proof requires the explicit boost representation on spinors, referenced but not derived in this course, since a full treatment of the Lorentz group's spinor representations lies beyond its scope); the practical consequence, used throughout the rest of the course, is that ψ̄Γψ for any product Γ of gamma matrices transforms as a definite tensor of the type determined by Γ's index structure, the pattern explored in Section 2.
+
+### Worked example 1
+
+Verify that ψ̄ψ=ψ†γ⁰ψ reduces, in the Dirac representation with ψ=(ψ_A,ψ_B)ᵀ (each a two-component block), to ψ_A†ψ_A−ψ_B†ψ_B, using γ⁰=diag(I,−I). This is manifestly different from ψ†ψ=ψ_A†ψ_A+ψ_B†ψ_B, and it is ψ̄ψ, with its relative minus sign between the two blocks, that turns out to be the genuinely Lorentz-invariant combination.
+
+# 2 Bilinear covariants
+
+## 2.1 The sixteen matrices
+
+Any 4×4 matrix can be written as a linear combination of sixteen basis matrices, built from the gamma matrices and organized by how many indices they carry.
+
+@widths 2880 3312 3600
+| Combination | Number of matrices | Transformation type |
+| I | 1 | Scalar |
+| γ^μ | 4 | Vector |
+| σ^μν=(i/2)[γ^μ,γ^ν] | 6 | Antisymmetric tensor |
+| γ^μγ⁵ | 4 | Axial vector (pseudovector) |
+| γ⁵ | 1 | Pseudoscalar |
+
+The count 1+4+6+4+1=16 matches the dimension of the space of all 4×4 matrices (4×4=16 independent complex entries), confirming this is a complete basis, as the Pauli matrices plus the identity formed a complete basis for 2×2 matrices in Lesson 1, Section 8.
+
+## 2.2 Bilinear covariants
+
+For any two Dirac spinors ψ, χ, the five bilinears ψ̄Γχ built from Section 2.1's matrices transform, respectively, as a scalar, a vector, an antisymmetric tensor, an axial vector, and a pseudoscalar under Lorentz transformations, and the last two additionally acquire an extra minus sign under parity (defined properly once the parity transformation on spinors is available; the term "axial" and "pseudo" anticipate exactly this behavior). This classification is used every time a candidate interaction term is written down: the QED interaction of Lesson 40, for instance, is built from the vector bilinear ψ̄γ^μψ specifically, and no other choice from this list, because only the vector bilinear can couple consistently to the vector potential A^μ while preserving parity, a requirement satisfied by the electromagnetic interaction (though not by the weak interaction, which famously uses the axial vector combination as well, a fact outside this course's scope).
+
+### Worked example 2
+
+State which bilinear from Section 2.1 the electromagnetic current of Lesson 24 will turn out to be built from. The current j^μ=ψ̄γ^μψ uses Γ=γ^μ, the vector bilinear, consistent with j^μ needing to transform as a genuine four-vector (Lesson 4) to serve as the source term in the covariant Maxwell equation ∂_μF^μν=j^ν of Lesson 43.
+
+# 3 The covariant spin operator
+
+## 3.1 Constructing the spin tensor
+
+Define the antisymmetric combination
+
+$$ σ^μν = (i/2) [γ^μ, γ^ν]
+
+This is exactly the antisymmetric tensor bilinear coefficient of Section 2.1. Its purely spatial components, σⁱʲ (i,j=1,2,3), turn out to organize into the spin operator once written in block form.
+
+## 3.2 The spin operator in the Dirac representation
+
+Direct computation in the Dirac representation of Lesson 20 gives
+
+$$ Σ_z ≡ σ¹² = [[σ_z, 0],[0, σ_z]]
+
+with σ_z the ordinary Pauli matrix of Lesson 1 and Lesson 15, now appearing in both diagonal blocks of the 4×4 spin operator. More generally, Σᵢ=(1/2)εᵢⱼₖσʲᵏ organizes into Σ=diag(σ,σ), block-diagonal with the same two-component Pauli matrix repeated for the upper and lower components.
+
+## 3.3 The rest-frame spin
+
+Acting on the rest-frame solutions of Lesson 20, Section 5.2, Ĥ_D-eigenstates with u=(χ,0)ᵀ or (0,χ)ᵀ, the operator (1/2)Σ_z acts as the ordinary spin-1/2 operator of Lesson 15 acts on the two-component block χ, giving eigenvalues ±1/2 (in units of ℏ=1) as expected. This confirms that the Dirac equation describes a spin-1/2 particle: the spin-1/2 structure emerges from the same algebraic apparatus, the gamma matrices, that was forced upon the theory by Lesson 19's pure consistency argument, exactly the point anticipated there in Section 5.3.
+
+### Worked example 3
+
+Verify (1/2)Σ_z u₁ = (1/2)u₁ for u₁=(1,0,0,0)ᵀ, the first rest-frame spinor of Lesson 20, Section 5.2. Σ_z u₁ = diag(σ_z,σ_z)(1,0,0,0)ᵀ = (σ_z(1,0)ᵀ,σ_z(0,0)ᵀ)ᵀ = ((1,0)ᵀ,(0,0)ᵀ)ᵀ = (1,0,0,0)ᵀ = u₁, using σ_z(1,0)ᵀ=(1,0)ᵀ (Lesson 15, Section 3.1). So (1/2)Σ_zu₁=(1/2)u₁, confirming eigenvalue +1/2, matching the χ=(1,0)ᵀ (spin-up) label assigned in Lesson 20.
+
+# 4 Helicity
+
+## 4.1 Definition
+
+For a moving particle, Σ_z is no longer generally the most useful spin label, because it is not conserved for a general direction of motion (the same issue as Lesson 14, Section 1.3, applied to this covariant spin operator). The projection of spin along the direction of motion, called helicity,
+
+$$ h = Σ · p̂,    p̂ = p/|p|
+
+commutes with the free Dirac Hamiltonian (Exercise 9) and is therefore a good quantum number for a free particle of definite momentum, exactly the compatibility argument of Lesson 11, Section 5.1, now applied to this specific pair of operators.
+
+## 4.2 Helicity eigenstates
+
+For a particle moving along z, taking χ to be an eigenstate of σ_z (eigenvalue ±1) in the spinor construction u(p) of Lesson 20, Section 6.2, gives a state of definite helicity ±1/2 (in units of ℏ), since p̂=ẑ and Σ_z acts as before. For a particle moving in a general direction, the analogous construction uses χ as an eigenstate of σ·p̂ rather than σ_z, exactly the general-axis spin eigenstate of Lesson 15, Section 3.2.
+
+### Worked example 4
+
+State the physical meaning of positive versus negative helicity. Positive helicity (h=+1/2) describes a particle whose spin points along its direction of motion, colloquially "right-handed" in the sense of a right-hand rule; negative helicity describes spin pointing opposite to the motion, "left-handed." Helicity is frame-dependent for a massive particle (a sufficiently fast observer can overtake the particle and see its momentum reverse while its spin does not, flipping the helicity), a subtlety that becomes moot only for a massless particle, whose helicity is Lorentz invariant since no observer can overtake something moving at the speed of light (Lesson 3), which is why the photon's two physical states in Lesson 38 are labeled by helicity unambiguously.
+
+# 5 Orthogonality relations
+
+## 5.1 Statement
+
+For the covariantly normalized spinors of Lesson 20, Section 7 (u†(p)u(p)=2E_p), the following orthogonality relations hold, with s,s′ labeling the two spin (or helicity) states at fixed momentum p.
+
+$$ ū_s(p) u_s′(p) = 2m δ_ss′,    v̄_s(p) v_s′(p) = −2m δ_ss′,    ū_s(p) v_s′(p) = 0
+
+The first two follow from direct computation using the block forms of Lesson 20 (Exercise 1); the third holds because u and v are built from opposite-energy branches, and their "overlap" in the ψ̄χ sense vanishes by the same block-structure argument, analogous to how the singlet and triplet states of Lesson 15 were orthogonal by construction.
+
+### Worked example 5
+
+Verify ū_s(p)u_s(p)=2m for a single spin state using the explicit spinor. With u=N(χ,(σ·p)/(E_p+m)χ)ᵀ, ū u = u†γ⁰u = N²[χ†χ − χ†(σ·p)²/(E_p+m)²χ] (using γ⁰=diag(I,−I) to flip the sign of the lower block's contribution). Using (σ·p)²=|p|²I and χ†χ=1, this is N²[1−|p|²/(E_p+m)²]. Following the same algebra as Lesson 20, Worked example 6, but with a relative minus sign, this simplifies to N²·2m/(E_p+m); with N²=E_p+m (Lesson 20, Section 7.1), the result is 2m, as claimed.
+
+# 6 Completeness relations
+
+## 6.1 Statement
+
+Summing the outer product u_s(p)ū_s(p) over the two spin states s=1,2 gives a matrix identity, derivable directly from the explicit block form of u(p) (Exercise 11 works through it in full).
+
+$$ Σₛ u_s(p) ū_s(p) = p̸ + m,    Σₛ v_s(p) v̄_s(p) = p̸ − m
+
+These are the completeness relations, and they are, without exaggeration, the single most used identities in the entire second half of this course. Whenever a scattering amplitude squared is summed over the unobserved (or averaged over the unmeasured) spin states of an external electron or positron line, exactly this sum appears, converting a sum over discrete spin labels into a single matrix, which is then absorbed into a trace of gamma matrices using the tools of Lesson 21.
+
+### Worked example 6
+
+Show how Lesson 21's example trace, Tr[(p̸₁+m)γ^μ(p̸₂+m)γ^ν], arises directly from a completeness-relation substitution. In a calculation such as electron-muon scattering (Lesson 54), a piece of the squared amplitude summed over the electron's initial and final spins takes the schematic form Σ_(s,s′) [ū_s′(p₂)γ^μu_s(p₁)][ū_s′(p₂)γ^νu_s(p₁)]*. Using ([ū_s′γ^μu_s])* = ū_sγ^μu_s′ (a property of the Dirac adjoint, Exercise 14) and the completeness relation of Section 6.1 twice, once for the sum over s at fixed p₁ and once for the sum over s′ at fixed p₂, collapses the double sum into exactly Tr[(p̸₁+m)γ^μ(p̸₂+m)γ^ν], the trace computed explicitly in Lesson 21, Section 5.
+
+## 6.2 The projector reformulation
+
+Dividing the u-completeness relation by 2m,
+
+$$ Λ_+(p) ≡ (p̸+m)/(2m),    Σₛ u_s(p)ū_s(p)/2m = Λ_+(p)
+
+satisfies Λ_+²=Λ_+ (Exercise 12), exactly the projector property established for the chiral projectors in Lesson 21, Section 4.3, though Λ_+ projects onto the positive-energy subspace of spinor space rather than onto a chirality eigenspace; the corresponding negative-energy projector is Λ_−(p)=(m−p̸)/(2m), and Λ_++Λ_−=I, the same resolution-of-identity structure met repeatedly throughout the course.
+
+### Worked example 7
+
+Verify Λ_+(p)+Λ_−(p)=I. Λ_+(p)+Λ_−(p) = (p̸+m)/(2m) + (m−p̸)/(2m) = (p̸+m+m−p̸)/(2m) = 2m/(2m) = I, confirming the two energy projectors sum to the identity, exactly as required for a complete decomposition of spinor space into positive- and negative-energy subspaces.
+
+# 7 Connections to QED
+
+@widths 3264 6528
+| Dirac spinor idea | Later role in QED |
+| Dirac adjoint ψ̄=ψ†γ⁰ | Every physical bilinear in the QED Lagrangian and every vertex factor uses ψ̄, not ψ† |
+| Bilinear covariants, especially ψ̄γ^μψ | The electromagnetic current (Lesson 24) and the structure of the QED interaction term (Lesson 40) |
+| Covariant spin operator Σ and rest-frame spin 1/2 | Confirms the electron's spin without further assumption; basis for the g-factor and anomalous magnetic moment (Lesson 76) |
+| Helicity as a conserved quantum number for free particles | Standard labeling of external spinor states in polarized cross-section calculations (Lesson 52) |
+| Orthogonality relations ūu=2m, v̄v=−2m, ūv=0 | Normalization checks and simplifications throughout Part VIII |
+| Completeness relations Σu_sū_s=p̸+m, Σv_sv̄_s=p̸−m | The single most repeated substitution in every unpolarized cross-section calculation (Lessons 54–61) |
+| Projectors Λ_±(p)=(±p̸+m)/2m | Conceptual bridge to the propagator numerator structure of Lesson 47 |
+
+The completeness relations of Section 6.1 deserve to be memorized outright; they will be invoked, usually without further comment, in essentially every squared-amplitude calculation from Lesson 54 onward, converting an otherwise intractable sum over spin states into a single matrix trace evaluable by Lesson 21's toolkit.
+
+# 8 Summary
+
+1. The Dirac adjoint ψ̄=ψ†γ⁰, not ψ†, is the object that combines with gamma matrices to form genuinely covariant bilinears.
+
+2. Sixteen independent matrices, I, γ^μ, σ^μν, γ^μγ⁵, γ⁵, classify every bilinear ψ̄Γχ by its Lorentz transformation type.
+
+3. The covariant spin tensor σ^μν, restricted to its spatial components, reproduces the Pauli-matrix spin operator of Lesson 15 acting block-diagonally on the four-component spinor.
+
+4. A Dirac particle at rest has spin 1/2, verified directly and without additional assumption from the gamma matrix algebra.
+
+5. Helicity, the spin projection along the direction of motion, is conserved for a free particle and is frame invariant only for a massless particle.
+
+6. The orthogonality relations ū_su_s′=2mδ_ss′, v̄_sv_s′=−2mδ_ss′, ū_sv_s′=0 hold for the covariantly normalized spinors.
+
+7. The completeness relations Σu_sū_s=p̸+m and Σv_sv̄_s=p̸−m convert spin sums into gamma-matrix traces.
+
+8. The projectors Λ_±(p)=(±p̸+m)/2m split spinor space into positive- and negative-energy subspaces, summing to the identity.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Verify v̄_s(p)v_s(p)=−2m for the explicit spinor v(p)=N((σ·p)/(E_p+m)χ,χ)ᵀ, following the method of Worked example 5. |
+| 2 | Verify ū(p)v(p)=0 using the explicit block forms of u(p) and v(p) with the same χ, showing the calculation explicitly. |
+| 3 | Show that σ^μν=(i/2)[γ^μ,γ^ν] is antisymmetric in μ,ν directly from the definition. |
+| 4 | Verify the count 1+4+6+4+1=16 corresponds to the correct number of independent real parameters needed to specify a general complex 4×4 matrix (32 real parameters), and reconcile the discrepancy by noting that each of the sixteen basis matrices carries a complex coefficient. |
+| 5 | State, using the classification of Section 2.1, what transformation type ψ̄σ^μνψ has, and identify how many independent real components it carries (matching Lesson 4, Section 4.2's count for an antisymmetric tensor). |
+| 6 | Verify Σ_z=diag(σ_z,σ_z) using the explicit definition σ^12=(i/2)[γ¹,γ²] and the Dirac representation forms of γ¹,γ² from Lesson 21, Exercise 3. |
+| 7 | Compute (1/2)Σ_zu₃ for u₃=(0,0,1,0)ᵀ, the E=−m, χ=(1,0)ᵀ rest-frame solution of Lesson 20, and state what the result shows about the relation between the sign of the energy and the sign of the spin eigenvalue. |
+| 8 | For a particle moving along x with u(p)=N(χ,(σ·p)/(E_p+m)χ)ᵀ and p=(p,0,0), find the helicity operator h=Σₓ and determine whether χ=(1,0)ᵀ gives a helicity eigenstate. |
+| 9 | Show that [Ĥ_D,h]=0 for the free Dirac Hamiltonian Ĥ_D=α·p̂+βm and h=Σ·p̂, using that Σ commutes with p̂ (since Σ acts only on spin indices) and citing (without full derivation) that {Ĥ_D,Σ·p̂} structure ensures compatibility once α,Σ commutation is used. |
+| 10 | Explain why helicity is not Lorentz invariant for a massive particle but is Lorentz invariant for a massless particle, using the fact that a massive particle's rest frame exists while a massless particle has none (Lesson 3, Section 5.4). |
+| 11 | Derive Σₛu_s(p)ū_s(p)=p̸+m by explicit construction: write out u₁ᵀ and u₂ᵀ (the two spin states) as 4-component columns using χ=(1,0)ᵀ and (0,1)ᵀ in the general formula of Lesson 20, Section 6.2, form the two outer products u_sū_s, add them, and show the result matches p̸+m in the Dirac representation. |
+| 12 | Verify Λ_+(p)²=Λ_+(p) using p̸²=p²=m² (on-shell) and the definition Λ_+=(p̸+m)/2m. |
+| 13 | Verify Λ_+(p)Λ_−(p)=0 using the same on-shell condition p̸²=m². |
+| 14 | Show that (ū_s′(p₂)Γu_s(p₁))* = ū_s(p₁)Γ̄u_s′(p₂) for Γ=γ^μ, where Γ̄=γ⁰Γ†γ⁰=γ^μ (since γ^μ is Hermitian up to the γ⁰ conjugation structure, verified using γ⁰(γ^μ)†γ⁰=γ^μ, itself following from the Hermiticity/anti-Hermiticity pattern of Lesson 21, Exercise 7). |
+| 15 | Using the projector Λ_+(p), show that Λ_+(p)u_s(p)=u_s(p) for either spin state s, confirming that u_s(p) lies entirely within the positive-energy subspace, as its name suggests. |
+| 16 | Challenge: using the completeness relation and the orthogonality relations together, show that Tr[Λ_+(p)] = 2, and interpret this trace as counting the number of independent positive-energy spin states at fixed momentum p. |
+
+# Solutions
+
+**1.** v̄v = v†γ⁰v = N²[χ†(σ·p)²/(E_p+m)²χ − χ†χ] (the σ·p block is now in the upper slot, so γ⁰'s sign pattern flips which term gets the minus sign compared with u). Using (σ·p)²=\|p\|²I and χ†χ=1, this is N²[\|p\|²/(E_p+m)² − 1] = −N²[1−\|p\|²/(E_p+m)²], the negative of the u-spinor calculation in Worked example 5, giving v̄v = −2m.
+
+**2.** ū(p)v(p) = u†γ⁰v = N²[χ†(σ·p)/(E_p+m)χ − χ†(σ·p)/(E_p+m)χ] (the γ⁰ sign flip on the lower block of u times the lower block of v, which is χ, combined with the upper block of u, χ, times the upper block of v, (σ·p)/(E_p+m)χ, produces two equal-magnitude terms of opposite sign) = 0, confirming orthogonality.
+
+**3.** By definition σ^νμ=(i/2)[γ^ν,γ^μ]=(i/2)(γ^νγ^μ−γ^μγ^ν)=−(i/2)(γ^μγ^ν−γ^νγ^μ)=−σ^μν, confirming antisymmetry directly from the commutator's antisymmetry.
+
+**4.** A general complex 4×4 matrix has 16 complex entries, equivalently 32 real parameters. The sixteen basis matrices I,γ^μ,σ^μν,γ^μγ⁵,γ⁵ (1+4+6+4+1=16 matrices) each multiply a complex coefficient, giving 16 complex coefficients = 32 real parameters, exactly matching the count for a general 4×4 complex matrix; the basis is complete because both counts agree and the sixteen matrices can be shown to be linearly independent.
+
+**5.** ψ̄σ^μνψ transforms as an antisymmetric rank-2 tensor, matching the transformation type of Fᵢⱼ in Lesson 4, Section 4.2, and carries 6 independent real components (using the count established there for a general antisymmetric tensor in four dimensions).
+
+**6.** From Lesson 21, γ¹=[[0,σₓ],[−σₓ,0]] and γ²=[[0,σᵧ],[−σᵧ,0]]. Computing γ¹γ² = [[0,σₓ],[−σₓ,0]][[0,σᵧ],[−σᵧ,0]] = [[−σₓσᵧ,0],[0,−σₓσᵧ]], and γ²γ¹ = [[−σᵧσₓ,0],[0,−σᵧσₓ]]. The commutator [γ¹,γ²] = [[−σₓσᵧ+σᵧσₓ,0],[0,−σₓσᵧ+σᵧσₓ]] = [[−[σₓ,σᵧ],0],[0,−[σₓ,σᵧ]]] = [[−2iσ_z,0],[0,−2iσ_z]] (using [σₓ,σᵧ]=2iσ_z from Lesson 1). So σ^12=(i/2)[γ¹,γ²] = (i/2)(−2i)diag(σ_z,σ_z) = diag(σ_z,σ_z), confirming Σ_z as stated.
+
+**7.** Σ_zu₃ = diag(σ_z,σ_z)(0,0,1,0)ᵀ = (0,0,σ_z(1,0)ᵀ)ᵀ = (0,0,1,0)ᵀ = u₃ (using σ_z(1,0)ᵀ=+1(1,0)ᵀ). So (1/2)Σ_zu₃=(1/2)u₃, eigenvalue +1/2. Even though u₃ is an E=−m solution, its spin label χ=(1,0)ᵀ still gives Σ_z eigenvalue +1/2 in this rest-frame block structure: the sign of the energy and the sign of the spin eigenvalue are independent labels, not linked to each other.
+
+**8.** σ·p for p along x is pσₓ. The helicity operator h=Σₓ=diag(σₓ,σₓ). Since χ=(1,0)ᵀ is an eigenstate of σ_z, not σₓ, it is not an eigenstate of h=Σₓ in this basis; a helicity eigenstate for motion along x requires χ to be chosen as an eigenstate of σₓ instead, namely (1,1)ᵀ/√2 or (1,−1)ᵀ/√2 (Lesson 1, Worked example 7).
+
+**9.** Since Σ is built purely from gamma matrices acting on the spin (internal) indices and commutes with any function of p̂ alone (as p̂ acts only on the spatial/momentum degrees of freedom, entirely separate from the internal spinor indices Σ acts on), [Σ,p̂]=0 trivially. The nontrivial part of showing [Ĥ_D,h]=0 requires [α·p̂,Σ·p̂]=0, which follows from a direct (if lengthy) computation using the known relations between α and Σ in the Dirac representation (both built from the same underlying Pauli matrix structure block-diagonally and off-diagonally respectively), confirming compatibility of energy and helicity for a free particle.
+
+**10.** A massive particle has a rest frame (Lesson 3, Section 5.1); a sufficiently fast observer, moving faster than the particle in the same direction, sees the particle's momentum reversed (it now appears to move backward relative to that observer) while its spin, an intrinsic angular momentum unaffected by which way one look at the particle's translational motion, is unchanged in the sense that its projection along the (now reversed) direction of motion flips sign, changing the helicity. A massless particle has no rest frame and no observer can be "faster" than it (Lesson 3, Section 5.4), so no such reversal is possible, and its helicity is the same in every frame.
+
+**11.** u₁=√(E_p+m)(1,0,p_z/(E_p+m),0)ᵀ (from Lesson 20, Exercise 8, specializing to p along z for concreteness) and u₂=√(E_p+m)(0,1,0,−p_z/(E_p+m))ᵀ (the χ=(0,1)ᵀ case, with σ_z(0,1)ᵀ=−(0,1)ᵀ contributing the sign). Forming u₁ū₁+u₂ū₂ and using ū=u†γ⁰, the sum of the two outer products, worked out block by block, reproduces the matrix p̸+m in the Dirac representation, matching γ⁰E_p−γ·p+m component by component (a lengthy but mechanical verification, most efficiently checked by comparing each of the sixteen matrix entries).
+
+**12.** Λ_+² = (p̸+m)²/(4m²) = (p̸²+2mp̸+m²)/(4m²) = (m²+2mp̸+m²)/(4m²) (using p̸²=p²=m² on-shell) = (2m²+2mp̸)/(4m²) = (m+p̸)/(2m) = Λ_+, confirming the projector property.
+
+**13.** Λ_+Λ_− = [(p̸+m)/2m][(m−p̸)/2m] = (mp̸−p̸²+m²−mp̸)/(4m²) = (m²−p̸²)/(4m²) = (m²−m²)/(4m²) = 0, using p̸²=m² on-shell.
+
+**14.** (ū_s′(p₂)γ^μu_s(p₁))* = (u_s′†γ⁰γ^μu_s)* = u_s^T(γ⁰γ^μ)^Tu_s′* = u_s†(γ⁰γ^μ)†u_s′ (taking the conjugate transpose of a scalar equals itself, rearranging appropriately) = u_s†γ^μ†γ⁰†u_s′ = u_s†γ^μ†γ⁰u_s′ (using (γ⁰)†=γ⁰). Using γ⁰γ^μ†γ⁰=γ^μ (a standard gamma-matrix identity following from the Hermiticity pattern of Lesson 21, Exercise 7: γ⁰ is Hermitian and γⁱ is anti-Hermitian, so γ⁰(γ⁰)†γ⁰=γ⁰ and γ⁰(γⁱ)†γ⁰=γ⁰(−γⁱ)γ⁰=−γ⁰γⁱγ⁰=γⁱγ⁰γ⁰=γⁱ using {γ⁰,γⁱ}=0), this becomes u_s†γ⁰(γ⁰γ^μ†γ⁰)u_s′ = u_s†γ⁰γ^μu_s′ = ū_s(p₁)γ^μu_s′(p₂), confirming the stated identity with Γ̄=γ^μ.
+
+**15.** Λ_+(p)u_s(p) = [(p̸+m)/2m]u_s(p). Since u_s(p) satisfies (p̸−m)u_s(p)=0 (Lesson 20, Exercise 13), p̸u_s(p)=mu_s(p), so Λ_+(p)u_s(p) = (mu_s(p)+mu_s(p))/2m = 2mu_s(p)/2m = u_s(p), confirming u_s(p) is a fixed point (eigenvector with eigenvalue 1) of the projector Λ_+(p), as expected for a state lying entirely in the positive-energy subspace.
+
+**16.** Tr[Λ_+(p)] = Tr[(p̸+m)/2m] = [Tr(p̸)+mTr(I)]/2m = [0+4m]/2m = 2, using Tr[p̸]=0 (odd trace, Lesson 21, Section 2.2) and Tr[I]=4. This trace of 2 counts the dimension of the subspace Λ_+ projects onto, matching the two independent spin states (s=1,2) available for a positive-energy particle of momentum p, exactly the count established by the two orthogonal spinors u₁(p), u₂(p).
+
+# Mastery checklist
+
+- I can define the Dirac adjoint and explain why it, not ψ†, produces covariant bilinears.
+
+- I can list the sixteen bilinear covariants and state the transformation type of each.
+
+- I can construct the covariant spin operator and verify the rest-frame spin-1/2 eigenvalues directly.
+
+- I can define helicity, construct a helicity eigenstate, and explain why it is frame-dependent only for massive particles.
+
+- I can state and verify the orthogonality relations for u(p) and v(p).
+
+- I can state the completeness relations from memory and use them to convert a spin sum into a gamma-matrix trace.
+
+- I can define the energy projectors Λ_± and verify their projector properties using the on-shell condition.
+
+- I can explain, in outline, how the completeness relations combine with Lesson 21's trace identities to compute a full unpolarized cross section.

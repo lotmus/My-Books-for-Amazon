@@ -1,0 +1,226 @@
+TITLE: The Field Tensor
+TAGLINE: F_μν as an explicit matrix of E and B, the homogeneous Maxwell equations as an algebraic identity, and the two Lorentz invariants built from the field
+NUM: 43
+NEXT: Lesson 44 studies the coupling constant e itself: its dimensions, its relation to the fine-structure constant α, and the sense in which its size controls how strongly the electron and photon fields, assembled into ℒ_QED in Lesson 42, actually influence one another.
+
+# How to use this lesson
+
+Lesson 42 assembled ℒ_QED and derived one set of Maxwell's equations, the inhomogeneous set ∂_μF^μν=j^ν, from the Euler–Lagrange equation for A_ν. This lesson looks more closely at F_μν itself: writing out every one of its sixteen components explicitly in terms of the electric and magnetic fields, showing that the other set of Maxwell's equations, the homogeneous set (∇·B=0 and Faraday's law), requires no dynamics at all and follows automatically from F_μν's definition as ∂_μA_ν−∂_νA_μ, and identifying the two independent combinations of E and B that stay the same in every inertial frame. None of this changes the physics already established; it organizes it, and the organization pays off immediately in Lesson 45's treatment of the electron-photon vertex. Expect four to six hours.
+
+## Learning objectives
+
+- Write out the matrix of components of F_μν and F^μν explicitly in terms of E and B, using the sign convention fixed since Lesson 8.
+
+- Derive the identity ∂_λF_μν+∂_μF_νλ+∂_νF_λμ=0 and show it is equivalent to the homogeneous Maxwell equations ∇·B=0 and ∂B/∂t=−∇×E.
+
+- Explain why the homogeneous equations require no separate Lagrangian or equation of motion, in contrast with the inhomogeneous equations derived in Lesson 42.
+
+- Reduce ∂_μF^μν=j^ν explicitly to Gauss's law (ν=0) and the Ampère-Maxwell law (ν=i).
+
+- Compute the Lorentz invariant F_μνF^μν=2(B²−E²) directly from the matrix components.
+
+- Define the dual tensor F̃^μν using the four-index Levi-Civita symbol and compute the second invariant, F_μνF̃^μν=−4E·B.
+
+- Explain why an electromagnetic plane wave (E=B, E·B=0) looks like a wave in every inertial frame, using these two invariants.
+
+- Reconstruct the matrix form of F_μν from memory and state both field-strength invariants.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| F_μν = ∂_μA_ν−∂_νA_μ | Field tensor, Lesson 4; F_0i=E_i, F_ij=−ε_ijkB_k throughout this course |
+| F^μν | Field tensor with both indices raised |
+| ε_ijk | Three-index Levi-Civita symbol, ε_123=+1 |
+| ε^μνρσ | Four-index Levi-Civita symbol, ε^0123=+1 |
+| F̃^μν = (1/2)ε^μνρσF_ρσ | Dual field tensor |
+| E, B | Electric and magnetic field three-vectors |
+
+# 1 The matrix form of F_μν
+
+## 1.1 All sixteen components
+
+Using F_0i=E_i and F_ij=−ε_ijkB_k (the convention fixed since Lesson 8, with i,j,k running over the three spatial directions), together with antisymmetry F_μν=−F_νμ, every component of F_μν is fixed. Writing F_μν as a 4×4 array with rows and columns labeled 0,1,2,3,
+
+$$ F_μν = [ [ 0, E_x, E_y, E_z ] , [ −E_x, 0, −B_z, B_y ] , [ −E_y, B_z, 0, −B_x ] , [ −E_z, −B_y, B_x, 0 ] ]
+
+Raising both indices with the metric diag(+,−,−,−) flips the sign of any index that is spatial and leaves a time index unchanged, giving F^0i=−E_i, F^i0=E_i, and F^ij=F_ij (both spatial raises cancel), so
+
+$$ F^μν = [ [ 0, −E_x, −E_y, −E_z ] , [ E_x, 0, −B_z, B_y ] , [ E_y, B_z, 0, −B_x ] , [ E_z, −B_y, B_x, 0 ] ]
+
+the only change from F_μν being the sign flip of the entire top row and left column, exactly the four F^0i and F^i0 entries.
+
+## 1.2 Six independent numbers
+
+F_μν has sixteen components, but antisymmetry (F_μμ=0 for each μ, and F_μν=−F_νμ) leaves only six independent numbers: the three components of E and the three of B. This matches the six degrees of freedom already counted informally when A_μ was first introduced (Lesson 4) as a four-component object with two gauge-equivalent redundancies removed by Lesson 38's Coulomb-gauge quantization, leaving two physical photon polarizations; F_μν's six components are not themselves all physical (they still depend on frame in a way the two polarization states, defined relative to a propagation direction, do not), but they are exactly the gauge-invariant content of A_μ, free of any leftover choice of α(x).
+
+### Worked example 1
+
+Verify F_12=−B_z directly from the general rule F_ij=−ε_ijkB_k. With i=1,j=2, only k=3 contributes to the sum (ε_12k is nonzero only for k=3), and ε_123=+1, so F_12=−(+1)B_3=−B_z, matching the matrix entry in row 1, column 2 above.
+
+# 2 The homogeneous Maxwell equations as an identity
+
+## 2.1 The cyclic identity
+
+Because F_μν is built from a single potential, F_μν=∂_μA_ν−∂_νA_μ, a purely algebraic identity follows with no further input:
+
+$$ ∂_λF_μν + ∂_μF_νλ + ∂_νF_λμ = 0
+
+Expanding each term using F_μν=∂_μA_ν−∂_νA_μ gives six terms in total, each of the form ∂_α∂_βA_γ, and every such term appears exactly twice with opposite sign (Exercise 7 works through every cancellation explicitly), using only that partial derivatives commute (Schwarz's theorem, the same fact used for the analogous cancellations in Lessons 4 and 41). Unlike ∂_μF^μν=j^ν, which followed from varying the Lagrangian and holds only when the equations of motion are satisfied, this identity holds for any F_μν built from any A_μ whatsoever, on shell or off shell, purely as a consequence of F_μν's definition.
+
+## 2.2 What the identity contains
+
+Setting λ,μ,ν all spatial, (λ,μ,ν)=(1,2,3), gives ∂_1F_23+∂_2F_31+∂_3F_12=0. Using F_23=−B_x, F_31=−F_13=−B_y, F_12=−B_z (Worked example 1 and its analogues), this reads −∂_1B_x−∂_2B_y−∂_3B_z=0, that is
+
+$$ ∇·B = 0
+
+Setting one index equal to the time index, for instance (λ,μ,ν)=(0,1,2), gives ∂_0F_12+∂_1F_20+∂_2F_01=0; using F_12=−B_z, F_20=−F_02=−E_y, F_01=E_x, this reads −∂_tB_z−∂_1E_y+∂_2E_x=0, that is ∂B_z/∂t=−(∂_1E_y−∂_2E_x)=−(∇×E)_z, the z-component of Faraday's law ∂B/∂t=−∇×E; the remaining two components follow from the analogous choices of (λ,μ,ν) (Exercise 8).
+
+### Worked example 2
+
+Explain why no Lagrangian, and no equation of motion, was needed to obtain ∇·B=0 and Faraday's law, in contrast with Lesson 42's derivation of Gauss's law and the Ampère-Maxwell law. The homogeneous equations are consequences of writing F_μν in terms of a potential A_μ at all, true before any dynamics is specified; the inhomogeneous equations, by contrast, come from extremizing a specific action and would be different for a different choice of Lagrangian (for instance, a different coefficient in front of F_μνF^μν, or the absence of the matter coupling entirely). The homogeneous equations are, in this sense, kinematic, while the inhomogeneous equations are dynamical.
+
+# 3 The inhomogeneous equations, reduced
+
+## 3.1 Gauss's law
+
+Lesson 42, Exercise 9, already showed ∂_μF^μ0=j^0 reduces to ∇·E=ρ (using F^i0=E_i so that ∂_iF^i0=∇·E), the familiar Gauss's law with the electron's charge density on the right.
+
+## 3.2 The Ampère-Maxwell law
+
+For ν=i, ∂_μF^μi=j^i splits into a time piece and a spatial piece: ∂_0F^0i+∂_jF^ji=j^i. Using F^0i=−E_i, ∂_0F^0i=−∂E_i/∂t. Using F^ji=−F^ij=−(−ε_ijkB_k)=ε_ijkB_k, ∂_jF^ji=ε_ijk∂_jB_k=(∇×B)_i, the standard component formula for the curl. So the equation reads −∂E_i/∂t+(∇×B)_i=j_i, that is
+
+$$ ∇×B − ∂E/∂t = j
+
+the Ampère-Maxwell law, with the displacement-current term ∂E/∂t appearing automatically from the time-component piece of ∂_μF^μi, as it must for a relativistically covariant equation, with no separate postulate required as in the pre-relativistic historical development of the equation.
+
+### Worked example 3
+
+State, in a sentence, why Sections 2 and 3 together reproduce every one of the four traditional 3D Maxwell equations from the two covariant statements F_μν=∂_μA_ν−∂_νA_μ (definition, giving the homogeneous pair) and ∂_μF^μν=j^ν (dynamics, giving the inhomogeneous pair). The four traditional equations (Gauss, no magnetic monopoles, Faraday, Ampère-Maxwell) are exactly the ν=0 and spatial-curl-type components of these two covariant statements, so nothing is lost or added by writing electromagnetism covariantly; the covariant form is simply a repackaging that makes the theory's Lorentz invariance and, in this course's context, its gauge structure and its role as one piece of ℒ_QED transparent.
+
+# 4 Lorentz invariants built from F_μν
+
+## 4.1 The first invariant
+
+$$ F_μνF^μν = 2(B²−E²)
+
+verified by direct computation (Exercise 9): the sixteen-term sum splits into a piece from the F_0iF^0i and F_i0F^i0 components, each contributing −E², and a piece from the purely spatial F_ijF^ij components, contributing 2B² (each of the three independent magnetic components appears twice, once as F_ij and once as F_ji, with the same sign after squaring). Since F_μνF^μν is built by fully contracting two four-index tensors, it is automatically a Lorentz scalar, unchanged by any boost or rotation, even though E and B individually mix into each other under a boost.
+
+## 4.2 The second invariant
+
+A second Lorentz scalar can be built using the four-index Levi-Civita symbol ε^μνρσ, totally antisymmetric under exchange of any two indices, normalized by ε^0123=+1. Define the dual tensor
+
+$$ F̃^μν = (1/2) ε^μνρσ F_ρσ
+
+Direct computation (Exercise 12 works through every component) gives F̃^0i=−B_i and F̃^ij equal to the components built from E in the same pattern that F^ij was built from B, so that F̃^μν has the same matrix form as F^μν with E and B interchanged according to E→B, B→−E. Contracting,
+
+$$ F_μνF̃^μν = − 4 E·B
+
+again a Lorentz scalar, since it is built the same way as Section 4.1's invariant, from a full contraction of tensor indices, with the additional fully antisymmetric ε^μνρσ itself a fixed, frame-independent object (up to the overall orientation convention fixed once and for all by ε^0123=+1).
+
+## 4.3 Physical meaning
+
+E²−B² and E·B are the only two independent combinations of the six numbers in F_μν that do not change under a boost. A consequence, worked out in Exercise 15, is that a configuration with E·B=0 and E²=B² in one frame — an electromagnetic plane wave, with E and B equal in magnitude and perpendicular to each other — has E·B=0 and E²=B² in every frame; a boost can change the wave's frequency (Lesson 7's Doppler-type reasoning) and can mix E and B into new combinations, but it cannot turn a wave with E=B into one with E≠B, and it cannot introduce a nonzero E·B where none existed. The two invariants are, in this sense, exactly the frame-independent content of the field, everything else being a matter of how a given observer happens to be moving.
+
+### Worked example 4
+
+For a purely electrostatic configuration in some frame, with B=0 and E≠0 everywhere, state what F_μνF^μν and F_μνF̃^μν evaluate to, and what this implies about whether some other frame could see a purely magnetostatic configuration (E=0, B≠0) instead. With B=0, F_μνF^μν=2(0−E²)=−2E²<0 and F_μνF̃^μν=−4E·0=0. A purely magnetostatic configuration would instead have F_μνF^μν=2(B²−0)=+2B²>0; since F_μνF^μν is the same number in every frame, a configuration with F_μνF^μν<0 in one frame has F_μνF^μν<0 in every frame, so no boost can turn a purely electric configuration into a purely magnetic one (though a boost can certainly introduce some nonzero B alongside a nonzero E, as long as E²−B² stays positive throughout).
+
+# 5 Connections to QED
+
+@widths 3264 6528
+| Property of F_μν | Where it matters |
+| Explicit matrix form in terms of E, B | Makes contact with the classical Maxwell equations concrete and checkable component by component |
+| ∂_λF_μν+∂_μF_νλ+∂_νF_λμ=0 (kinematic identity) | Reproduces ∇·B=0 and Faraday's law with no reference to ℒ_QED at all |
+| ∂_μF^μν=j^ν (dynamical, from Lesson 42) | Reproduces Gauss's law and the Ampère-Maxwell law, sourced by the electron current |
+| F_μνF^μν=2(B²−E²) | The only Lorentz scalar quadratic in F_μν with no extra structure; relevant to any Lagrangian built from F_μν alone, including ℒ_QED's own kinetic term |
+| F_μνF̃^μν=−4E·B | The second independent invariant, involving the four-index Levi-Civita symbol; not part of ℒ_QED itself in this course, but a standard tool for characterizing field configurations |
+
+Lesson 44 turns from the field itself to the constant e sitting in front of the interaction term, examining its size, its dimensions, and its relation to the fine-structure constant that will control the strength of every scattering process computed later in this course.
+
+# 6 Summary
+
+1. F_μν's sixteen components reduce, via F_0i=E_i and F_ij=−ε_ijkB_k, to six independent numbers, the components of E and B.
+
+2. The identity ∂_λF_μν+∂_μF_νλ+∂_νF_λμ=0 holds for any F_μν built from a potential, with no reference to dynamics, and reproduces ∇·B=0 and Faraday's law.
+
+3. ∂_μF^μν=j^ν, Lesson 42's dynamical result, reproduces Gauss's law (ν=0) and the Ampère-Maxwell law (ν=i), including the displacement-current term automatically.
+
+4. F_μνF^μν=2(B²−E²) is a Lorentz scalar, computed directly from the matrix components of F_μν and F^μν.
+
+5. A second invariant, F_μνF̃^μν=−4E·B, is built using the dual tensor F̃^μν=(1/2)ε^μνρσF_ρσ.
+
+6. These two invariants are the only frame-independent content of the electromagnetic field; a plane wave's E=B, E·B=0 condition, in particular, holds in every frame.
+
+7. The homogeneous Maxwell equations are kinematic (built into F_μν's definition); the inhomogeneous equations are dynamical (derived from ℒ_QED in Lesson 42).
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Verify F_21=B_z, F_13=B_y, and F_32=B_x from F_ij=−ε_ijkB_k, extending Worked example 1's method to each. |
+| 2 | Confirm F^0i=−E_i and F^i0=E_i by explicitly raising the indices of F_0i=E_i and F_i0=−E_i using the metric diag(+,−,−,−). |
+| 3 | State why F^ij=F_ij (no sign change) while F^0i=−F_0i, using the general rule for how each type of index raises under this metric. |
+| 4 | Count the number of independent nonzero entries in the F_μν matrix directly by inspection, and confirm it equals six, matching Section 1.2. |
+| 5 | Explain briefly why F_μν's six components are gauge invariant (state which earlier lesson established this) even though A_μ, from which F_μν is built, is not. |
+| 6 | Write out F_μν=∂_μA_ν−∂_νA_μ explicitly in matrix form for a purely time-independent, purely electric configuration (A_i=0, A_0=φ(x) only) and verify it matches the E-only entries of Section 1.1's general matrix with B=0. |
+| 7 | Expand ∂_λF_μν+∂_μF_νλ+∂_νF_λμ in terms of A_μ and show explicitly that every one of the six resulting terms cancels against another, confirming the identity of Section 2.1. |
+| 8 | Choose (λ,μ,ν)=(0,2,3) and (0,3,1) in Section 2.1's identity and derive the remaining two components of Faraday's law, completing the derivation begun in Section 2.2 for the z-component. |
+| 9 | Reproduce the full computation of F_μνF^μν=2(B²−E²) by summing all sixteen terms of the product F_μνF^μν explicitly, grouping them as in Section 4.1. |
+| 10 | Confirm ∇×B−∂E/∂t=j (Section 3.2) reduces, in a static situation with ∂E/∂t=0, to the familiar magnetostatic Ampère's law ∇×B=j, and state what physical assumption (steady currents, no time-varying fields) justifies dropping the displacement current in that limit. |
+| 11 | Using the matrix of F^μν from Section 1.1, verify directly that ∂_jF^ji=(∇×B)_i by writing out the i=1 (x) component explicitly in terms of ∂_yB_z and ∂_zB_y. |
+| 12 | Compute F̃^02 and F̃^03 directly from the definition F̃^μν=(1/2)ε^μνρσF_ρσ, following the method used for F̃^01 in Section 4.2, and confirm both equal −B_2 and −B_3 respectively. |
+| 13 | Compute F̃^12 directly from the definition, and confirm it equals E_z, completing the pattern used to state F_μνF̃^μν=−4E·B in Section 4.2. |
+| 14 | Explain, in one or two sentences, why F_μνF^μν and F_μνF̃^μν, despite being built by contracting all four indices of tensors that individually depend on the observer's frame, are themselves frame-independent numbers. |
+| 15 | For a plane wave configuration with E and B equal in magnitude and perpendicular (E·B=0, E²=B²), evaluate both invariants and explain, using Section 4.3, why no boost can change either value away from zero. |
+| 16 | Challenge: for a general field configuration with both invariants nonzero, F_μνF^μν=2(B²−E²)=C₁ and F_μνF̃^μν=−4E·B=C₂, explain (without solving explicitly for the boost) why, if C₁>0 and C₂=0, some boost exists making E=0 everywhere (a purely magnetic frame), while if C₁<0 and C₂=0, some boost instead makes B=0 everywhere (a purely electric frame); state which case corresponds to a purely electrostatic configuration as in Worked example 4. |
+
+# Solutions
+
+**1.** F_21=−F_12=−(−B_z)=B_z. For F_13: F_13=−ε_13kB_k, nonzero only for k=2, and ε_132=−1 (an odd permutation of 123, swapping the last two indices), so F_13=−(−1)B_2=B_y. For F_32: F_32=−F_23=−(−B_x)=B_x, using F_23=−ε_23kB_k with k=1, ε_231=+1 (a cyclic, even permutation of 123), giving F_23=−B_x.
+
+**2.** F^0i=g^00g^iiF_0i=(+1)(−1)F_0i=−F_0i=−E_i. F^i0=g^iig^00F_i0=(−1)(+1)F_i0=−F_i0=−(−E_i)=E_i.
+
+**3.** Raising a time index multiplies by g^00=+1, leaving the value unchanged; raising a spatial index multiplies by g^ii=−1, flipping the sign. F^0i involves raising one time index (no change) and one spatial index (one sign flip), giving F^0i=−F_0i. F^ij involves raising two spatial indices, two sign flips, which cancel, giving F^ij=(−1)(−1)F_ij=F_ij.
+
+**4.** The matrix has 16 entries; the diagonal (4 entries) is zero by antisymmetry; the remaining 12 off-diagonal entries come in 6 pairs related by F_μν=−F_νμ, so only 6 of them are independent, matching E_x,E_y,E_z,B_x,B_y,B_z.
+
+**5.** Lesson 41, Section 3.2, showed F_μν is unaffected by the gauge transformation A_μ→A_μ+∂_μα, for any α(x), using the commutator identity [D_μ,D_ν]=iqF_μν and the fact that D_μφ inherits φ's own simple transformation; this holds independently of the specific components, so every one of F_μν's six independent numbers, being built the same way from A_μ, is gauge invariant.
+
+**6.** With A_i=0 and A_0=φ(x,t), F_0i=∂_0A_i−∂_iA_0=0−∂_iφ=−∂_iφ=E_i (matching the standard relation E=−∇φ for a static field with no vector potential, consistent with Lesson 8's definition), and F_ij=∂_iA_j−∂_jA_i=0−0=0 since all A_i vanish, giving B=0 as required; the resulting matrix has only the E-row and E-column entries nonzero, matching Section 1.1's general form with B set to zero.
+
+**7.** ∂_λF_μν=∂_λ∂_μA_ν−∂_λ∂_νA_μ, ∂_μF_νλ=∂_μ∂_νA_λ−∂_μ∂_λA_ν, ∂_νF_λμ=∂_ν∂_λA_μ−∂_ν∂_μA_λ. Summing: ∂_λ∂_μA_ν cancels against −∂_μ∂_λA_ν (equal by Schwarz's theorem, opposite sign); −∂_λ∂_νA_μ cancels against ∂_ν∂_λA_μ; ∂_μ∂_νA_λ cancels against −∂_ν∂_μA_λ. All six terms cancel in three pairs, leaving zero.
+
+**8.** For (λ,μ,ν)=(0,2,3): ∂_0F_23+∂_2F_30+∂_3F_02=0. Using F_23=−B_x (so ∂_0F_23=−∂_tB_x), F_30=−F_03=−E_z (so ∂_2F_30=−∂_yE_z), and F_02=E_y (so ∂_3F_02=∂_zE_y), the identity reads −∂_tB_x−∂_yE_z+∂_zE_y=0, that is ∂_tB_x=∂_zE_y−∂_yE_z=−(∂_yE_z−∂_zE_y)=−(∇×E)_x, matching ∂B/∂t=−∇×E for the x-component. For (λ,μ,ν)=(0,3,1): ∂_0F_31+∂_3F_10+∂_1F_03=0. Using F_31=−B_y (so ∂_0F_31=−∂_tB_y), F_10=−F_01=−E_x (so ∂_3F_10=−∂_zE_x), and F_03=E_z (so ∂_1F_03=∂_xE_z), the identity reads −∂_tB_y−∂_zE_x+∂_xE_z=0, that is ∂_tB_y=∂_xE_z−∂_zE_x=−(∂_zE_x−∂_xE_z)=−(∇×E)_y, completing the y-component and, with Section 2.2's z-component, all three.
+
+**9.** F_μνF^μν=F_00F^00+2Σ_iF_0iF^0i+Σ_i,jF_ijF^ij (using F_i0F^i0=F_0iF^0i by antisymmetry of both factors, hence the factor of 2). F_00F^00=0. Σ_iF_0iF^0i=Σ_iE_i(−E_i)=−E², so 2Σ_iF_0iF^0i=−2E². Σ_i,jF_ijF^ij=Σ_i,j(F_ij)² (since F^ij=F_ij)=2(B_x²+B_y²+B_z²)=2B² (each independent magnetic component appears as both F_ij and F_ji, each squared, contributing 2B_k² per component). Total: −2E²+2B²=2(B²−E²).
+
+**10.** With ∂E/∂t=0, ∇×B−∂E/∂t=j reduces directly to ∇×B=j, the magnetostatic Ampère's law, valid when the electric field is not changing in time, which holds for steady (time-independent) current distributions; the displacement current term ∂E/∂t, essential for time-varying fields and for the existence of propagating electromagnetic waves (Lesson 38), is simply absent in this static limit.
+
+**11.** ∂_jF^ji for i=1 sums over j=2,3 (j=1 gives F^11=0): ∂_2F^21+∂_3F^31. From the matrix, F^21=B_z, F^31=−B_y, so this is ∂_2B_z−∂_3B_y=∂_yB_z−∂_zB_y, exactly the x-component of the curl, (∇×B)_x=∂_yB_z−∂_zB_y.
+
+**12.** F̃^02=(1/2)ε^02ρσF_ρσ, with only {ρ,σ}={1,3} contributing. The permutation (0,2,1,3) is reached from (0,1,2,3) by one transposition (swapping the entries in positions 2 and 3), so ε^0213=−1; swapping the last two indices flips the sign, so ε^0231=+1. Then F̃^02=(1/2)[ε^0213F_13+ε^0231F_31]=(1/2)[(−1)F_13+(+1)F_31]=(1/2)[−F_13−F_13]=−F_13=−B_y=−B_2, using F_13=B_y (Exercise 1). For F̃^03, only {ρ,σ}={1,2} contributes: the permutation (0,3,1,2) is reached from (0,1,2,3) by a 3-cycle on the last three entries (1,2,3)→(3,1,2), an even permutation, so ε^0312=+1, and swapping the last two indices gives ε^0321=−1. Then F̃^03=(1/2)[ε^0312F_12+ε^0321F_21]=(1/2)[(+1)F_12+(−1)F_21]=(1/2)[F_12+F_12]=F_12=−B_z=−B_3, using F_21=−F_12 and F_12=−B_z (Section 1.1). Both results confirm the pattern F̃^0i=−B_i.
+
+**13.** F̃^12=(1/2)ε^12ρσF_ρσ, summing over {ρ,σ}={0,3}: ε^1203F_03+ε^1230F_30. ε^1203: permutation (1,2,0,3) relative to (0,1,2,3); moving 0 from position 3 to position 1 past two elements is two transpositions, even, so ε^1203=+1 (matching ε^0123 sign after an even rearrangement). ε^1230=−ε^1203=−1 (swapping the last two). F̃^12=(1/2)[(+1)F_03+(−1)F_30]=(1/2)[F_03−F_30]=(1/2)[F_03+F_03]=F_03=E_z, confirming F̃^12=E_z as used to build the pattern in Section 4.2.
+
+**14.** Both F_μνF^μν and F_μνF̃^μν are formed by contracting every free tensor index, leaving no uncontracted index at all; an object with no free indices transforms trivially (by the identity) under a Lorentz transformation, by the same general principle already used for scalars such as ψ̄ψ (Lesson 22) and ψ̄γ^μψA_μ (an implicit contraction, Lesson 40), so both quantities are Lorentz scalars regardless of how the individual components of F_μν mix into each other.
+
+**15.** With E²=B² and E·B=0, F_μνF^μν=2(B²−E²)=0 and F_μνF̃^μν=−4E·B=0. Since both quantities are Lorentz scalars (Exercise 14), their value, zero, is the same number in every frame; no boost can produce a nonzero value for either invariant starting from a configuration where both vanish, so a wave with E=B and E⊥B in one frame necessarily has E=B and E⊥B (or, in principle, both fields vanishing entirely) in every other frame as well.
+
+**16.** If C₁=2(B²−E²)>0 with C₂=−4E·B=0, then B²>E², and it is a standard fact that a boost exists reducing E to zero exactly when E·B=0 and B²>E² in some frame (with the resulting frame's field being purely the leftover magnetic part); with C₂=0 as given, this condition is satisfied, so a purely magnetic frame exists. If instead C₁<0 (E²>B²) with C₂=0, the analogous boost instead removes B, leaving a purely electric frame; this second case, E²>B² with B=0 already in one frame, matches exactly the purely electrostatic configuration of Worked example 4, where C₁=−2E²<0 and C₂=0 were found directly.
+
+# Mastery checklist
+
+- I can write the full matrix of F_μν and F^μν in terms of E and B from the established sign convention.
+
+- I can derive ∂_λF_μν+∂_μF_νλ+∂_νF_λμ=0 and explain why it requires no dynamics.
+
+- I can show this identity reproduces ∇·B=0 and Faraday's law.
+
+- I can reduce ∂_μF^μν=j^ν to Gauss's law and the Ampère-Maxwell law explicitly.
+
+- I can compute F_μνF^μν=2(B²−E²) directly from the matrix components.
+
+- I can define the dual tensor and state F_μνF̃^μν=−4E·B.
+
+- I can explain, using these two invariants, why a plane wave's E=B, E·B=0 property is frame-independent.
