@@ -11,8 +11,10 @@ from docx.oxml.ns import qn
 from docx.shared import Inches, Pt, RGBColor
 from docx.oxml import OxmlElement
 
-ROOT = Path(__file__).resolve().parent.parent  # scripts\ -> series root
-SRC = ROOT / "manuscript_text.txt"
+ROOT = Path(__file__).resolve().parent.parent  # scripts\ -> Book 1 root
+HERE = Path(__file__).resolve().parent
+SRC = HERE / "manuscript_text.txt"  # build source lives in scripts\
+FIG = HERE / "figures"
 OUT = ROOT / "FINAL_REV10_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx"
 NAVY = RGBColor(0x0C, 0x44, 0x7C)
 URL_RE = re.compile(r"(https://[^\s]+)")
@@ -42,11 +44,11 @@ HEAD_START = (
 )
 
 FIGURES = [
-    ("Drag the velocity yourself", ROOT / "coordinates.png"),
-    ("Watch a particle trace its geodesic", ROOT / "formula.jpg"),
-    ("Lesson 8\nThe Door", ROOT / "newDoor.png"),
-    ("Lesson 11\nThe Hologram", ROOT / "Appendix_11_Holographic_Principle_REVISED.png"),
-    ("The filing cabinet is an analogy", ROOT / "cabinet hole.png"),
+    ("Drag the velocity yourself", FIG / "coordinates.png"),
+    ("Watch a particle trace its geodesic", FIG / "formula.jpg"),
+    ("Lesson 8\nThe Door", FIG / "newDoor.png"),
+    ("Lesson 11\nThe Hologram", FIG / "Appendix_11_Holographic_Principle_REVISED.png"),
+    ("The filing cabinet is an analogy", FIG / "cabinet hole.png"),
 ]
 
 LESSON_ARROW = re.compile(r"^-> Lesson for this chapter: (\d+) - .+$")

@@ -4,7 +4,7 @@ Read this first. Only open the full manuscript for things that genuinely need it
 
 ## Canonical file
 
-Working file: `manuscript_text.txt`. Rebuild the Kindle `.docx` with `rebuild_kindle.py` after text edits. Demo URL: `https://lotmus.github.io/relativistic-site/`. Lives in the `lotmus/My-Books-for-Amazon` monorepo at `The Relativistic Investigation Bureau - SERIES/` (branch `main`).
+Folder (since the 2 Oct 2026 sort): `Book 1 - The Murder That Hadnt Happened Yet/` holds the master docx and the KDP files; `scripts/` holds `rebuild_kindle.py`, its source `manuscript_text.txt` and `figures/`; `notes/` holds this file and the launch notes; `bak/` holds stale files. Series notes (seam, bibles) are in the series `notes/`. Demo URL: `https://lotmus.github.io/relativistic-site/`. Lives in the `lotmus/My-Books-for-Amazon` monorepo at `The Relativistic Investigation Bureau - SERIES/` (branch `main`).
 
 A separate copy exists under `WORD/` (originally `D:\...\WORD`, its own independent git repo, no remote). **Not canonical.**
 

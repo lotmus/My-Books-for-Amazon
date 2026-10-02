@@ -2,7 +2,7 @@
 """One-shot Book 1 review fixes. Deletes itself only if the caller asks."""
 from pathlib import Path
 
-p = Path(__file__).resolve().parent.parent / "manuscript_text.txt"
+p = Path(__file__).resolve().parent / "manuscript_text.txt"  # build source lives in scripts\
 text = p.read_text(encoding="utf-8")
 
 pairs = []

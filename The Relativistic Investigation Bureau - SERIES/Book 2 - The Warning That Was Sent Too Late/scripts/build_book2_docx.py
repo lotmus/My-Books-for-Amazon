@@ -13,13 +13,13 @@ import sys
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent.parent  # scripts\ -> Book 2 root
-sys.path.insert(0, str(HERE.parent / "scripts"))  # rebuild_kindle.py lives in series scripts\
+sys.path.insert(0, str(HERE.parent / "Book 1 - The Murder That Hadnt Happened Yet" / "scripts"))  # rebuild_kindle.py lives in Book 1 scripts\
 import rebuild_kindle as rk  # noqa: E402  (Book 1 helpers; main() is not called)
 
 from docx import Document  # noqa: E402
 from docx.shared import Inches  # noqa: E402
 
-SRC = HERE / "manuscript_text.txt"
+SRC = HERE / "scripts" / "manuscript_text.txt"
 OUT = HERE / "The_Warning_That_Was_Sent_Too_Late_BOOK_2_DRAFT.docx"
 
 # Book 2 arrows have no " - title" suffix.

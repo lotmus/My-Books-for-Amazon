@@ -2,7 +2,7 @@
 
 Not for publication. Read this before writing any later book. It is the list of things that are already true, so the next manuscript sounds like the same office rather than a reboot.
 
-Book 1 is `manuscript_text.txt`. Book 2 is `Book 2 - The Warning That Was Sent Too Late/manuscript_text.txt`. Looks and rooms in detail live in `CHARACTER_AND_SETTING_BIBLE.md`. Case clocks live in `SERIES_BIBLE_continuity_chart.md`. This file is the seam: tone, habits, places, and what must not be reinvented.
+Book 1 is `Book 1 - The Murder That Hadnt Happened Yet/` (master `FINAL_REV10_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`; build text `scripts/manuscript_text.txt`). Book 2 is `Book 2 - The Warning That Was Sent Too Late/` (master `The_Warning_That_Was_Sent_Too_Late_BOOK_2_DRAFT.docx`; build text `scripts/manuscript_text.txt`). Looks and rooms in detail live in `CHARACTER_AND_SETTING_BIBLE.md`. Case clocks live in `SERIES_BIBLE_continuity_chart.md`. This file is the seam: tone, habits, places, and what must not be reinvented.
 
 Physics is the plot. Private lives are invented. The physicists they echo are not their names. Julius is not Julian Barbour. The other Julian is Tuppence's, and he makes clothes hangers.
 
