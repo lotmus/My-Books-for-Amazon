@@ -1,12 +1,12 @@
-# The Mathematics Tower — Didactic Style Guide
+# Math, Actually — Didactic Style Guide
 
-How every new idea in the Tower should be introduced. Derived from the two
-passages that work best — the opening of Room 11.1 (the derivative) and the
-opening of Room 12.1 (the integral) — and generalised so the same shape can be
-applied to any room in any volume.
+How every new idea in Math, Actually should be introduced. Derived from the two
+passages that work best — the opening of Section 11.1 (the derivative) and the
+opening of Section 12.1 (the integral) — and generalised so the same shape can be
+applied to any section in any volume.
 
-What each floor contains, and which earlier floor a cross-reference may name,
-is in `Tower - Series Reference.md`. This guide says how to introduce an idea.
+What each chapter contains, and which earlier chapter a cross-reference may name,
+is in `Math, Actually - Series Reference.md`. This guide says how to introduce an idea.
 That file says where the idea already lives.
 
 ---
@@ -18,7 +18,7 @@ a symbol before the arithmetic has already made the point.**
 
 Everything below is a consequence of that sentence.
 
-The failure mode this guards against is the one Room 11.1 originally had: an
+The failure mode this guards against is the one Section 11.1 originally had: an
 epigraph, then straight into *"the instantaneous rate of change of f at that
 point"*. That sentence is correct, and it is useless to someone meeting calculus
 for the first time, because it answers a question the reader has not yet been
@@ -95,7 +95,7 @@ explanation feel like it started in the middle.
 ### Move 1 — Start from something the reader already owns
 
 Open with a thing the reader could have done at primary school, or can see out
-of a window. Not a recap of an earlier floor: an actual possession.
+of a window. Not a recap of an earlier chapter: an actual possession.
 
 > *Derivative:* a road sign warns of a 10% gradient. For every 100 metres
 > forward, you climb 10. That fraction is the slope.
@@ -103,7 +103,7 @@ of a window. Not a recap of an earlier floor: an actual possession.
 > *Integral:* the area of a rectangle is width times height. You have known this
 > since you were small.
 
-The test: could a reader who skipped the previous eleven floors still follow the
+The test: could a reader who skipped the previous eleven chapters still follow the
 first paragraph? If not, it is not move 1 yet.
 
 ### Move 2 — Let the familiar thing break
@@ -208,18 +208,18 @@ Then translate into whatever the reader arrived with. Most readers were taught
 The informal table and the formal derivation that follows **must use the same
 example and reach the same number.**
 
-- Room 11.1's on-ramp gets **6** for `x²` at `x = 3` by watching a table.
-  Room 11.2 then derives `f′(3) = 6` from the definition.
-- Room 12.1's on-ramp gets **3.75** for four rectangles and heads toward **8/3**.
-  Room 12.2's figure already shows 3.75, and derives the rest.
+- Section 11.1's on-ramp gets **6** for `x²` at `x = 3` by watching a table.
+  Section 11.2 then derives `f′(3) = 6` from the definition.
+- Section 12.1's on-ramp gets **3.75** for four rectangles and heads toward **8/3**.
+  Section 12.2's figure already shows 3.75, and derives the rest.
 
 This costs nothing and buys a great deal: the reader meets the answer twice, once
-as a belief and once as a proof, and the two rooms lock together instead of each
-starting cold. When writing a new on-ramp, **look at what the next room derives
+as a belief and once as a proof, and the two sections lock together instead of each
+starting cold. When writing a new on-ramp, **look at what the next section derives
 and work backwards from its numbers.**
 
 Verify the arithmetic exactly — as fractions, not floating point — before it goes
-in. Every table in the Tower should be reproducible by a reader with a pencil.
+in. Every table in the series should be reproducible by a reader with a pencil.
 
 ---
 
@@ -227,15 +227,15 @@ in. Every table in the Tower should be reproducible by a reader with a pencil.
 
 When a passage hand-waves, say so and say where the rigour lives.
 
-> "Room 12.2 does this properly, allowing the strips to be uneven."
+> "Section 12.2 does this properly, allowing the strips to be uneven."
 >
-> "Room 11.2 does this properly, and gets 6 again."
+> "Section 11.2 does this properly, and gets 6 again."
 
 This converts a gap into a promise. It also means the informal passage can stay
 informal without apology, which keeps it readable.
 
-Cross-references must point at rooms that exist and contain what is claimed. A
-reference to a proof the book never gives is worse than no reference — the Tower
+Cross-references must point at sections that exist and contain what is claimed. A
+reference to a proof the book never gives is worse than no reference — the series
 had one of these: a line calling the Euclidean algorithm *"the same machinery
 again"* when the algorithm had never been shown.
 
@@ -253,9 +253,9 @@ again"* when the algorithm had never been shown.
   early and out of uniform" is fine. "Obviously" is not.
 - **Banned words at a hinge:** *clearly, obviously, simply, just, of course, it is
   easy to see*. Every one of them tells a struggling reader the fault is theirs.
-- **Address the reader as an equal.** Second person is good; the Tower's rate
-  drifts from about 10 uses per thousand words on Floor 1 to about 3 by Floor 8,
-  and the upper floors are colder for it. Aim to keep it steady.
+- **Address the reader as an equal.** Second person is good; the series' rate
+  drifts from about 10 uses per thousand words in Chapter 1 to about 3 by Chapter 8,
+  and the later chapters are colder for it. Aim to keep it steady.
 - **Parallelism is an asset, not repetition to be edited out.** "A positive
   discriminant means… a negative discriminant means…" is doing work. Only remove a
   repeated word when it carries two *different* senses with no parallel structure.
@@ -272,18 +272,18 @@ Do **not** use them for:
 
 - an idea that extends one already built (the quotient rule, after the product
   rule — the need is already felt);
-- routine technique rooms, where the reader wants the method, not a story;
-- "Looking Ahead" rooms, which are inventories by design.
+- routine technique sections, where the reader wants the method, not a story;
+- "Looking Ahead" sections, which are inventories by design.
 
-A rough guide: if the room's title contains *"What … Is"*, it needs all seven. If
+A rough guide: if the section's title contains *"What … Is"*, it needs all seven. If
 it names a technique, it needs moves 6 and 7 only — a worked number, then the
 notation.
 
 ---
 
-## 8. Checklist before a room is finished
+## 8. Checklist before a section is finished
 
-1. Could a reader who skipped the previous floors follow the first paragraph?
+1. Could a reader who skipped the previous chapters follow the first paragraph?
 2. Does something familiar visibly **break** before new machinery appears?
 3. Is the new question stated in one short sentence?
 4. Is the obstacle stated concretely enough to be felt?
@@ -291,8 +291,8 @@ notation.
 6. Is it said plainly what the numbers never do?
 7. Is the object named only after it exists?
 8. Is the reader's own notation (Δx, rise over run) translated explicitly?
-9. Does the next room derive the same example and reach the same number?
-10. Does every forward reference point at a room that exists and delivers?
+9. Does the next section derive the same example and reach the same number?
+10. Does every forward reference point at a section that exists and delivers?
 11. Has every figure in the table been checked exactly, not numerically?
 12. Are *clearly*, *obviously*, *simply* and *just* absent from the hinge?
 13. Is every term used either built here, built earlier, or signposted as
@@ -307,9 +307,9 @@ notation.
 
 When in doubt, read these and copy the shape, not the words:
 
-- **Room 11.1**, from *"Begin with something you can already do"* to
-  *"Room 11.2 does this properly, and gets 6 again."*
-- **Room 12.1**, from *"That worked because the region happened to be a triangle"*
+- **Section 11.1**, from *"Begin with something you can already do"* to
+  *"Section 11.2 does this properly, and gets 6 again."*
+- **Section 12.1**, from *"That worked because the region happened to be a triangle"*
   to *"the number is what the machine hands over once you nail down two ends."*
 
 Both run about 500 words and both do all seven moves in order. That length is a

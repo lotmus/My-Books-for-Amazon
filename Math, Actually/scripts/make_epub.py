@@ -1,4 +1,4 @@
-"""Build a Mathematics Tower volume as EPUB 3, straight from its .docx.
+"""Build a Math, Actually volume as EPUB 3, straight from its .docx.
 
     python scripts/make_epub.py 4            # build Volume 4 beside the .docx
     python scripts/make_epub.py all          # build all four
@@ -180,7 +180,7 @@ class Volume:
         self.subtitle = next((t for t in rest if t and not t.startswith('by ')), '')
         self.author = next((t[3:] for t in rest if t.startswith('by ')), '')
         n = re.search(r'Volume (\d+)', self.title)
-        self.ident = 'mathematics-tower-vol%s' % (n.group(1) if n else '0')
+        self.ident = 'math-actually-vol%s' % (n.group(1) if n else '0')
 
         self.front_end = next(i for i, b in enumerate(self.blocks)
                               if style_of(b) == 'Heading1')
@@ -526,9 +526,9 @@ def verify(epub, docx):
 
 
 VOLUMES = {
-    n: (os.path.join(BOOKS, 'The Mathematics Tower - Volume %d.docx' % n),
+    n: (os.path.join(BOOKS, 'Math, Actually - Volume %d.docx' % n),
         os.path.join(BOOKS, 'Cover Art', 'Cover - Volume %d.png' % n),
-        os.path.join(BOOKS, 'The Mathematics Tower - Volume %d.epub' % n))
+        os.path.join(BOOKS, 'Math, Actually - Volume %d.epub' % n))
     for n in (1, 2, 3, 4)}
 
 

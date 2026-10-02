@@ -1,17 +1,17 @@
-# The Mathematics Tower — KDP pricing, categories and keywords (PROPOSAL)
+# Math, Actually — KDP pricing, categories and keywords (PROPOSAL)
 
 **Status: draft for Lothar to approve. Nothing has been entered in KDP and nothing is published.**
 Written 1 Oct 2026 (PT). Author: Lothar J. Musiol. Sources: `KDP_Description.md`, `notes/CLAUDE.md`,
-`notes/Tower - Series Reference.md`, the four master `.docx` files, and KDP's own help pages (checked 1 Oct 2026).
+`notes/Math, Actually - Series Reference.md`, the four master `.docx` files, and KDP's own help pages (checked 1 Oct 2026). Titles updated 2 Oct 2026 for the rename to *Math, Actually*; page estimates are from the pre-rename masters.
 
 ## 1. What is being priced
 
-| Volume | Title (from `KDP_Description.md`) | Floors / rooms | Body words (1 Oct notation sweep) | Word pages in the master (US Letter) | Est. paperback pages at 7 × 10 in |
+| Volume | Title (from `KDP_Description.md`) | Chapters / sections | Body words (1 Oct notation sweep) | Word pages in the master (US Letter) | Est. paperback pages at 7 × 10 in |
 |---|---|---|---|---|---|
-| 1 | The Lower Floors — Floors 1–12: From Arithmetic to Calculus | 12 / 109 | 169,228 | 525 | ≈ 656 |
-| 2 | The Middle Floors — Floors 13–25: From Multivariable Calculus to Set Theory & Logic | 13 / 118 | 182,245 | 608 | ≈ 760 |
-| 3 | The Upper Floors — Floors 26–37: From Differential Equations to Abstract Algebra | 12 / 108 | 192,678 | 581 | ≈ 726 |
-| 4 | The Penthouse — Floors 38–50: From Category Theory to the Frontier | 13 / 117 | 176,600 | 563 | ≈ 704 |
+| 1 | From Arithmetic to Calculus (Chapters 1–12) | 12 / 109 | 169,228 | 525 | ≈ 656 |
+| 2 | From Multivariable Calculus to Set Theory & Logic (Chapters 13–25) | 13 / 118 | 182,245 | 608 | ≈ 760 |
+| 3 | From Differential Equations to Abstract Algebra (Chapters 26–37) | 12 / 108 | 192,678 | 581 | ≈ 726 |
+| 4 | From Category Theory to the Frontier (Chapters 38–50) | 13 / 117 | 176,600 | 563 | ≈ 704 |
 
 - The masters are Kindle files laid out on US Letter (8.5 × 11 in, 1.1 in side margins). No print layout exists yet.
 - The 7 × 10 page counts are estimates. They scale the Letter text area (6.3 × 9.0 in) to a 7 × 10 text area of about 5.4 × 8.4 in, a factor of about 1.25. Rebuild a 7 × 10 print docx before trusting them.
@@ -39,7 +39,7 @@ Written 1 Oct 2026 (PT). Author: Lothar J. Musiol. Sources: `KDP_Description.md`
 | Indie Kindle calculus workbooks in the Mathematics bestseller list | Kindle | $0.99–$9.99 |
 | Traditional university textbooks (Springer UTM, Pearson, OUP) | paperback / hardcover | $40–$150+ |
 
-The Tower volumes are each 650–760 pages with answers and full solutions. That is more than the indie comparisons and close to a university text. A price between the indie books and the publisher textbooks fits: about $35–$40 in paperback, and at the top of the 70% band for Kindle.
+The Math, Actually volumes are each 650–760 pages with answers and full solutions. That is more than the indie comparisons and close to a university text. A price between the indie books and the publisher textbooks fits: about $35–$40 in paperback, and at the top of the 70% band for Kindle.
 
 ## 4. Proposed prices and royalty per sale (US)
 
@@ -71,7 +71,7 @@ Delivery costs below use the master `.docx` size as the file-size estimate (5.2 
 
 - Volume 1 at $9.99 is the entry price. It is also the old 70% ceiling, and $12.99 is the new one. If Lothar would rather price every volume the same, V1 at $12.99 earns $8.55.
 - At **$12.99 and 70%**, the complete edition would earn only $6.29, because about 26.7 MB costs about $4.00 to deliver. At **$34.99 and 35%** it earns $12.25 with no delivery cost. Bought separately, the four volumes cost $48.96, so $34.99 is about 29% off and still earns more per sale than any single volume.
-- A paperback "set" can only be the four paperbacks linked on the series page. Set the KDP series field to *The Mathematics Tower*, with volume numbers 1–4.
+- A paperback "set" can only be the four paperbacks linked on the series page. Set the KDP series field to *Math, Actually*, with volume numbers 1–4.
 - KDP Select / Kindle Unlimited is a separate decision. It requires 90-day ebook exclusivity, and its page reads would count heavily on 650-page books.
 
 ## 5. Categories (3 per volume, per format; same three for ebook and paperback)
@@ -80,19 +80,19 @@ Shelf names follow the current Amazon.com Mathematics browse tree (Applied, Chao
 
 | Volume | 1 | 2 | 3 |
 |---|---|---|---|
-| 1 Lower Floors | Science & Math › Mathematics › Pure Mathematics › Calculus (BISAC MAT005000 Calculus) | Science & Math › Mathematics › Popular & Elementary (BISAC MAT023000 Pre-Calculus) | Science & Math › Mathematics › Study & Teaching (BISAC MAT030000 Study & Teaching) |
-| 2 Middle Floors | Science & Math › Mathematics › Matrices / Pure Mathematics › Algebra › Linear (BISAC MAT002050 Algebra / Linear) | Science & Math › Mathematics › Pure Mathematics › Calculus (BISAC MAT005000 Calculus — multivariable and vector calculus) | Science & Math › Mathematics › Mathematical Analysis (BISAC MAT034000 Mathematical Analysis — Fourier, Laplace, complex analysis) |
-| 3 Upper Floors | Science & Math › Mathematics › Applied › Differential Equations (BISAC MAT007000 Differential Equations / General) | Science & Math › Mathematics › Geometry & Topology (BISAC MAT038000 Topology) | Science & Math › Mathematics › Pure Mathematics › Algebra › Abstract (BISAC MAT002010 Algebra / Abstract) |
-| 4 Penthouse | Science & Math › Mathematics › Applied › Probability & Statistics (BISAC MAT029000 Probability & Statistics / General) | Science & Math › Mathematics › Chaos & Systems (BISAC SCI012000 Science / Chaotic Behavior in Systems) | Science & Math › Mathematics › Applied › Game Theory (BISAC MAT011000 Game Theory) |
+| 1 Arithmetic to Calculus | Science & Math › Mathematics › Pure Mathematics › Calculus (BISAC MAT005000 Calculus) | Science & Math › Mathematics › Popular & Elementary (BISAC MAT023000 Pre-Calculus) | Science & Math › Mathematics › Study & Teaching (BISAC MAT030000 Study & Teaching) |
+| 2 Multivariable to Logic | Science & Math › Mathematics › Matrices / Pure Mathematics › Algebra › Linear (BISAC MAT002050 Algebra / Linear) | Science & Math › Mathematics › Pure Mathematics › Calculus (BISAC MAT005000 Calculus — multivariable and vector calculus) | Science & Math › Mathematics › Mathematical Analysis (BISAC MAT034000 Mathematical Analysis — Fourier, Laplace, complex analysis) |
+| 3 Differential Equations to Algebra | Science & Math › Mathematics › Applied › Differential Equations (BISAC MAT007000 Differential Equations / General) | Science & Math › Mathematics › Geometry & Topology (BISAC MAT038000 Topology) | Science & Math › Mathematics › Pure Mathematics › Algebra › Abstract (BISAC MAT002010 Algebra / Abstract) |
+| 4 Category Theory to the Frontier | Science & Math › Mathematics › Applied › Probability & Statistics (BISAC MAT029000 Probability & Statistics / General) | Science & Math › Mathematics › Chaos & Systems (BISAC SCI012000 Science / Chaotic Behavior in Systems) | Science & Math › Mathematics › Applied › Game Theory (BISAC MAT011000 Game Theory) |
 | Complete edition (ebook) | Science & Math › Mathematics › Study & Teaching (MAT030000) | Science & Math › Mathematics › Pure Mathematics › Calculus (MAT005000) | Science & Math › Mathematics › Reference (MAT026000 Reference) |
 
 The Kindle store has a parallel tree (Kindle eBooks › Science & Math › Mathematics › …). Pick the same shelves there.
 
 ## 6. Keywords (7 per volume, each under 50 characters, no title or subtitle words)
 
-Words already in the titles, and therefore left out: *mathematics, tower, volume, floors, lower / middle / upper, penthouse, from, arithmetic, calculus (V1, V2), multivariable, set, theory (V2, V4), logic, differential, equations, abstract, algebra (V3), category, frontier.*
+Words already in the titles, and therefore left out: *math, actually, volume, from, arithmetic, calculus (V1, V2), multivariable, set, theory (V2, V4), logic, differential, equations, abstract, algebra (V3), category, frontier.* Since the rename the titles say *Math* rather than *mathematics*, so *mathematics* is now free to use as a keyword.
 
-**Volume 1 — The Lower Floors**
+**Volume 1 — From Arithmetic to Calculus**
 1. algebra for adults self study (29)
 2. precalculus workbook with solutions (35)
 3. trigonometry and geometry for beginners (39)
@@ -101,7 +101,7 @@ Words already in the titles, and therefore left out: *mathematics, tower, volume
 6. math refresher for college students (35)
 7. high school math review with answer key (39)
 
-**Volume 2 — The Middle Floors**
+**Volume 2 — From Multivariable Calculus to Set Theory & Logic**
 1. linear algebra self study with solutions (40)
 2. vector analysis divergence curl and stokes (42)
 3. fourier transform and fft for engineers (39)
@@ -110,7 +110,7 @@ Words already in the titles, and therefore left out: *mathematics, tower, volume
 6. eigenvalues and singular value decomposition (44)
 7. partial derivatives and multiple integrals (42)
 
-**Volume 3 — The Upper Floors**
+**Volume 3 — From Differential Equations to Abstract Algebra**
 1. ode and pde textbook for self study (35)
 2. numerical methods for engineers (31)
 3. topology and manifolds introduction (35)
@@ -119,7 +119,7 @@ Words already in the titles, and therefore left out: *mathematics, tower, volume
 6. calculus of variations and optimization (39)
 7. tensor analysis for physics students (36)
 
-**Volume 4 — The Penthouse**
+**Volume 4 — From Category Theory to the Frontier**
 1. probability and statistics self study (37)
 2. information entropy and coding for beginners (44)
 3. wavelets and signal processing (30)

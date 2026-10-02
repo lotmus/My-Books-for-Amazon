@@ -1,17 +1,18 @@
-# The Mathematics Tower — working instructions
+# Math, Actually — working instructions
 
-This repository holds the manuscripts of *The Mathematics Tower* (Volumes 1–4)
-and their derived editions. Read this before editing anything.
+This folder holds the manuscripts of *Math, Actually* (Volumes 1–4), the
+companion series to *Physics, Actually* and *Life, Actually*. Until 2 Oct 2026
+it was *The Mathematics Tower*; see section 0. Read this before editing anything.
 
 What the four volumes contain, and the house facts every volume shares, is in
-`Tower - Series Reference.md`. Cite floors from that file. Do not keep a second
-copy of the floor map here.
+`Math, Actually - Series Reference.md`. Cite chapters from that file. Do not keep a
+second copy of the chapter map here.
 
 ---
 
 ## 1. How to write — the didactic contract
 
-**`Tower - Didactic Style Guide.md`, in this folder, is the authority on how any
+**`Math, Actually - Didactic Style Guide.md`, in this folder, is the authority on how any
 new idea is introduced. Read it in full before writing or rewriting prose, and
 follow it.** It is not a suggestion; it is the house method, and the book's
 teaching quality depends on it.
@@ -47,7 +48,7 @@ past something you did not know costs them the chapter.
 The seven moves, in order, for the first encounter with any genuinely new object:
 
 1. **Start from something the reader already owns** — a road sign's gradient, a
-   rectangle's area. Could a reader who skipped the previous floors follow the
+   rectangle's area. Could a reader who skipped the previous chapters follow the
    first paragraph?
 2. **Let the familiar thing break** — visibly, not by assertion. This creates the
    need; machinery introduced before the need reads as arbitrary.
@@ -63,12 +64,12 @@ The seven moves, in order, for the first encounter with any genuinely new object
    (Δy/Δx ↔ the book's *h*).
 
 Structural rule: **the informal table and the formal derivation must share an
-example and reach the same number.** Room 11.1's on-ramp lands on 6 because 11.2
-derives 6; Room 12.1's lands on 3.75 because 12.2's figure already shows 3.75.
-When writing a new on-ramp, work backwards from what the next room derives.
+example and reach the same number.** Section 11.1's on-ramp lands on 6 because 11.2
+derives 6; Section 12.1's lands on 3.75 because 12.2's figure already shows 3.75.
+When writing a new on-ramp, work backwards from what the next section derives.
 
-Use all seven moves only for a genuinely new kind of object. Technique rooms need
-moves 6 and 7 only. "Looking Ahead" rooms are inventories by design.
+Use all seven moves only for a genuinely new kind of object. Technique sections need
+moves 6 and 7 only. "Looking Ahead" sections are inventories by design.
 
 Two standing cautions:
 
@@ -84,8 +85,8 @@ Two standing cautions:
 ## 2. House style
 
 House style — American English, curly quotes, spaced em dashes, a proper minus,
-the author, and the words Floor, Room, and Tower — is in
-`Tower - Series Reference.md`. Follow that file.
+the author, and the words chapter, section, and series — is in
+`Math, Actually - Series Reference.md`. Follow that file.
 
 ---
 
@@ -101,14 +102,14 @@ zip. Hard-won rules:
   `document.xml` is necessarily inside one `w:t`, so a plain replace is safe. If it
   does not appear, it spans runs and needs a run-aware edit.
 - **Paragraphs containing hyperlinked cross-references cannot be rebuilt
-  wholesale** — the book has ~818 hyperlinks and 700 `Room X.Y` references, and
+  wholesale** — the book has ~2,200 internal section links and ~350 chapter links, and
   flattening a paragraph to one run destroys them.
 - **Prefer styles.xml to touching paragraphs.** Restyling 180 headings is one edit
   there, and safe only when no paragraph carries direct formatting — check first.
 - **Verify after every write, before replacing the live file:** `testzip()` clean,
   entry list unchanged, media count unchanged, `document.xml` parses, and every
   replaced image still decodes. Picture counts are in
-  `Tower - Series Reference.md`.
+  `Math, Actually - Series Reference.md`.
 - **Verify arithmetic exactly** — as fractions, never floating point. Every table
   in the book should be reproducible by a reader with a pencil.
 
@@ -128,9 +129,36 @@ zip. Hard-won rules:
 
 ## 5. Where things live
 
-The floor map, the room pattern, and the citations that are easy to get wrong
-are in `Tower - Series Reference.md`. That file also records the Floor 18
-bookmark names. Leave them as they are.
+The chapter map, the section pattern, the layout conventions copied from
+*Physics, Actually*, and the citations that are easy to get wrong are in
+`Math, Actually - Series Reference.md`. That file also records the bookmark
+names (`sec_N_M`, `ch_N`, `sec_18_9_tables`). Leave them as they are.
+
+
+## 0. The rename to Math, Actually (2 Oct 2026)
+
+- Folder `The Mathematics Tower\` → `Math, Actually\`; masters
+  `The Mathematics Tower - Volume N.docx` → `Math, Actually - Volume N.docx`.
+  Superseded originals are in `D:\bak\2026-10-02 Math Actually\`.
+- Vocabulary: Floor N → Chapter N, Room N.M → Section N.M, the Tower → the
+  series. No floor/room/storey/Tower wording or lift/staircase/building framing
+  in the books. Subtitles kept, without the Floors part (Volume 1 From
+  Arithmetic to Calculus, etc.). Chapter 50 is now “Where Mathematics Meets the
+  World”.
+- Layout copied from *Physics, Actually* (title page, copyright page, Contents,
+  Also in This Series, chapter openings with the “Math, Actually” series line,
+  Physics heading styles, “A Note Before You Go”). Details and the deliberate
+  deviations are in the Series Reference.
+- Cross-references inside a volume are hyperlinks named by topic; references to
+  another volume are plain “Topic (Volume N)”. Bookmarks are `sec_N_M`, `ch_N`.
+- Done once by `scripts\build_math_actually.py` (Python 3 + lxml, see
+  `scripts\README_build.md`). It reads the old Tower masters, so do not re-run it
+  on the new masters. From now on the masters are edited directly.
+- Open: the cover images still show the Tower title; 87 sections still open
+  “cold” (under 50 words before the first formula) and need new on-ramps, as
+  listed in `Math, Actually - Sections Needing On-ramps.md`.
+- **Older sections below are a historical log and keep the old names**
+  (Floor = Chapter, Room = Section, Tower = the series).
 
 ## 6. Session of 1 Oct 2026 (Volume 2, Floor 15)
 
