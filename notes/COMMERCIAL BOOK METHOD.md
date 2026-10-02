@@ -1,6 +1,6 @@
 # Commercial book method
 
-Two tracks. Do not mix them, and do not use either track on *Your First Book That Sells* or *Your First YouTube Channel That Sells*. Those are practical guides with their own folders and manuscripts.
+Two tracks. Do not mix them, and do not use either track on *Your First Book That Sells* or *Your First YouTube Channel That Rocks*. Those are practical guides with their own folders and manuscripts.
 
 Use the textbook track for course and textbook projects (math, electronics, physics courses). Use the popular-science track for narrative science books. If a topic is mature and standardized, use 2 sources. Use a third only when its emphasis is actually different.
 

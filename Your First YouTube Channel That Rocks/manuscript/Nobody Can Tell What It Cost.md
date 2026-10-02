@@ -10,13 +10,13 @@ Every job a first channel needs has a free or near-free tool: footage, a cut, mu
 
 A free tool will not tell you what you are allowed to do with its output. That check is yours, every time. It runs through every section below.
 
-You are here because the videos in the next chapter have to be cheap enough to finish. Make the one video in front of you. The tools are how. They are not a second hobby of collecting apps.
+You are here because the eight videos in chapter 5 have to be cheap enough to finish, and a channel only reaches the gates in chapter 9 if it keeps publishing for a year. Make the one video in front of you. The tools are how. They are not a second hobby of collecting apps.
 
 The default stack is four things. Your voice, or a text-to-speech voice that is not a clone of someone else. One track from YouTube’s Audio Library. One editor that will export the whole video: [CapCut](https://www.capcut.com/) is enough. Footage you filmed, drew, or photographed, or one stock clip after you have read that clip’s license. Finish with that stack. The rest of this chapter is what to open when the stack cannot make the shot. Read the license before you publish.
 
-![The default stack: four steps — your voice or text-to-speech that is not a clone, one YouTube Audio Library track, CapCut exporting the whole length, and footage you filmed, drew, or photographed or one licensed clip — then a side door for section I, Sora 2, InVideo, or Magic Hour, only when those four cannot make the shot. A banner reads: a free tool is not permission to sell the result. Read the license page before you publish.](../figures/free-production-pipeline.svg)
+![The default stack: four steps — your voice or text-to-speech that is not a clone, one YouTube Audio Library track, CapCut exporting the whole length, and footage you filmed, drew, or photographed or one licensed clip — then a side door for section I, Sora 2, InVideo, or Magic Hour, only when those four cannot make the shot. A banner reads: a free tool is not permission to monetize the result. Read the license page before you publish.](../figures/free-production-pipeline.svg)
 
-*The four things to finish with. Generators are the side door in section I, used when this stack cannot make the shot.*
+*Figure 3.1 — The four things to finish with. Generators are the side door in section I, used when this stack cannot make the shot.*
 
 ## I. Generating footage without a camera
 
@@ -26,7 +26,7 @@ Describe a shot. A text-to-video tool gives you a few seconds that did not exist
 - [InVideo](https://invideo.io/), [Media.io](https://www.media.io/), [VEED](https://www.veed.io/), and [Magic Hour](https://magichour.ai/) do that job in a browser.
 - [HeyGen](https://www.heygen.com/) and [Synthesys](https://synthesys.io/) put a generated presenter on screen from a script, when the video needs a person at a desk and you are not filming yourself.
 
-Expect to regenerate a clip two or three times before one is usable. What you may do with the output is in that tool’s terms: commercial use, resale, posting the same file on another site. Those terms differ, and they change. Read the commercial-use section before you publish. The pricing page is not the license.
+Expect to regenerate a clip two or three times before one is usable. What you may do with the output is in that tool’s terms: use in a monetized video, posting the same file on another site. Those terms differ, and they change. Read the commercial-use section before you publish. The pricing page is not the license.
 
 A tier advertised as free forever — no login, no credit cap — is usually still a quality cap, and the “unlimited” label moves. What those generators reliably produce is abstract motion, stylized animation, and short simple clips. What they reliably do not produce is a realistic human face, accurate lip sync, or more than a few consistent seconds. Use that tier for background motion and concept visuals. Pay only for the shot that actually needs the extra realism, and read the current limit on the tool’s own page before you plan a video around “unlimited.”
 
@@ -68,7 +68,7 @@ A generator can also build the track for you instead of you searching one out: p
 
 A full song with vocals is a different job. [Suno](https://suno.com/) and [Udio](https://www.udio.com/) are the two established tools for it. The prompt is your own lyrics, or a short idea for the tool to turn into lyrics, plus a genre, a mood, and usually a tempo. Keep the text to a line or two. Generate several takes. Quality varies the same way it does for the video tools in §I.
 
-A generated song can sit under a voiceover. It can also be the video: a jingle built around one idea. Read that tool’s commercial-use terms before the song leaves the edit. The legal status of generated music is less settled than the legal status of generated video. YouTube’s AI disclosure page also lists AI-generated music among the things you must disclose, so a generated song means AI use is set to Yes. Chapter 12 has the setting. If the song and the on-screen performer come from two tools, mute the picture and keep the song. Line the mouth up to that track. Throw away the picture’s own audio.
+A generated song can sit under a voiceover. It can also be the video: a jingle built around one idea. Read that tool’s commercial-use terms before the song leaves the edit. The legal status of generated music is less settled than the legal status of generated video. YouTube’s AI disclosure page also lists AI-generated music among the things you must disclose, so a generated song means AI use is set to Yes. Chapter 10 has the setting. A video with a music claim is also not eligible for Super Thanks, and a channel with many of them can lose memberships, which chapter 12 explains. If the song and the on-screen performer come from two tools, mute the picture and keep the song. Line the mouth up to that track. Throw away the picture’s own audio.
 
 Whichever source the music comes from, a few mixing habits do more for how professional a video sounds than which track you picked. Keep the voice at or near full on the editor’s fader, and never let music or effects compete with it. In a typical editor, start the music fader at about a tenth to a fifth of the way up that same scale. That is a fader position, not a loudness measurement: a fader at one fifth is much louder, to the ear, than one fifth of the voice. Listen back. Every word should stay clear. Use one instrumental bed for the whole video: no sung lyrics under a voiceover, and no sudden drop in the middle of a sentence. Sound effects stay rare. Put one on the visual it marks, and leave the rest of the timeline quiet. And leave a fraction of a second of near-silence right before a punchline or a key line; it is a cheap way to make a script’s turn land harder, and it costs nothing but attention to timing.
 
@@ -78,7 +78,7 @@ Whichever source the music comes from, a few mixing habits do more for how profe
 
 ElevenLabs is the name creators most often call the most natural, as of this writing. Its free tier covers several short scripts a month. That reputation is creator talk. Listen to a sample on [its own page](https://elevenlabs.io/) before you pick it. [NaturalReader](https://www.naturalreaders.com/) and [Speechify](https://speechify.com/) do the same job more simply. The voice sounds less natural. If your editor already speaks a script from the timeline, try that first. It skips a second export.
 
-Turboscribe does the reverse. A recording becomes text. That text can go into the caption workflow in the click chapter. You do not need a second transcription pass.
+Turboscribe does the reverse. A recording becomes text. That text can go into the caption workflow in chapter 2. You do not need a second transcription pass.
 
 Not using a voice at all is a legitimate third option, not a compromise. A short built from on-screen text, still images, and music asks the viewer to read. Plenty of people scroll with the sound off, so a video that still makes sense muted is a finished format. Whether that format is watched as often as a narrated one is not a ranking result this book can cite.
 
@@ -102,6 +102,8 @@ Every tool in this chapter comes with a permissions question attached to it. The
 
 Three common additions are allowed, and none of them skips the check. A text-to-speech voice is usable when it is not a clone of someone else’s voice. A stock clip is usable after you have read that clip’s license. Footage from a generator is usable after you have read that tool’s commercial-use terms. Section I is the check for generated footage. Section II is the check for a library. Section IV is the check for a voice. “I generated it” is not a substitute for any of those readings.
 
+Monetization adds a reason to read. [YouTube’s monetization page](https://support.google.com/youtube/answer/94522) says that by turning on ads for a video, you confirm you have all the necessary rights to its visual and audio elements. A clip you were not allowed to use is not only a claim risk. It is a statement you made when you switched ads on.
+
 Before you post the same file on another site, read the license for that site. A grant that names YouTube does not automatically name every other logo. If the license is silent, do not post the file there.
 
 A face swap, or a voice cloned from someone else, fails this check unless that person has agreed in writing. The tool’s terms do not supply that agreement. Do not build the video around either one.
@@ -114,7 +116,7 @@ A face swap, or a voice cloned from someone else, fails this check unless that p
 - That every clip in a “no attribution required” library carries that status forever, unchanged. It is the library’s current policy, not a permanent grant attached to the file you downloaded last year.
 - That professional-looking video requires paid software. Every job in this chapter — generation, footage, music, voice, editing — has a free tool doing it competently; money buys convenience and polish, not a capability a free tier lacks entirely.
 - That an AI-cloned voice is fine to use as long as the result sounds good. Sounding good and having the right to use that voice are unrelated questions, and only one of them is checkable by ear.
-- That auto-transcribed narration is caption-ready the moment it is generated. It still needs the same review pass the click chapter describes for automatic captions — a transcription tool mishears the same way a captioning one does.
+- That auto-transcribed narration is caption-ready the moment it is generated. It still needs the same review pass chapter 2 describes for automatic captions — a transcription tool mishears the same way a captioning one does.
 - That a muted, text-only Short is an unfinished narrated video. It is a different format. Many people watch with the sound off. This book does not claim it is watched as often as a narrated one.
 - That a free-forever AI video generator is simply a slower version of the paid ones. The gap is usually in what it can render reliably, not just how fast — realistic faces and lip sync are frequently where the free tier stops.
 
@@ -122,6 +124,6 @@ A last limit. This chapter names specific tools because specific tools are what 
 
 ---
 
-*Sources: Tool names and URLs in this chapter are drawn from the author’s own working bookmark lists of video, footage, music, and voice tools, current at the time of writing. Reference-image consistency, mixing as a fader position rather than a loudness law, and the workflow in §VI were taken as general technique from the author’s saved notes; specific projects were not used. Export settings are [YouTube’s recommended upload encoding settings](https://support.google.com/youtube/answer/1722171). The Audio Library location is [YouTube’s Audio Library help](https://support.google.com/youtube/answer/3376882). The claim that a higher upload resolution receives a better playback encode is labeled as creator talk, not as that page’s promise. Pricing, license terms, and feature availability change. Not legal advice on licensing, attribution, or AI-generated content rights.*
+*Sources: Tool names and URLs in this chapter are drawn from the author’s own working bookmark lists of video, footage, music, and voice tools, current at the time of writing. Reference-image consistency, mixing as a fader position rather than a loudness law, and the workflow in §VI were taken as general technique from the author’s saved notes; specific projects were not used. Export settings are [YouTube’s recommended upload encoding settings](https://support.google.com/youtube/answer/1722171). The rights statement made when ads are turned on is from [YouTube’s monetization page](https://support.google.com/youtube/answer/94522). The Audio Library location is [YouTube’s Audio Library help](https://support.google.com/youtube/answer/3376882). The claim that a higher upload resolution receives a better playback encode is labeled as creator talk, not as that page’s promise. Pricing, license terms, and feature availability change. Not legal advice on licensing, attribution, or AI-generated content rights.*
 
 *Not an official YouTube publication.*

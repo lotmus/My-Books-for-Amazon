@@ -13,7 +13,7 @@ Do not commit another session’s `.docx`. Do not commit `bak\` snapshots, audit
 - Lolly Wren: `Lolly Wren's Curious Science Adventures - SERIES/HANDOVER.md`, plus each book’s manuscript guide.
 - Mathematics Tower: `The Mathematics Tower/notes/CLAUDE.md` (moved up from `Math for HS and College/` on 1 Oct 2026; the 50 topic outlines are in `The Mathematics Tower/planning/`). Floor 6 is trigonometry. Floor 10 is limits. Floor 11 is the derivative.
 - *The Dolphins' View of History*: `The Dolphins' View of History/notes/CLAUDE.md`. The folder was `History/` until 1 Oct 2026; it was renamed with `git mv` and holds only this book.
-- YouTube companion: `Your First YouTube Channel That Sells/CLAUDE.md`. Nine chapters. The order is `build_docx.py`. The click chapter is chapter 2.
+- YouTube companion: `Your First YouTube Channel That Rocks/notes/CLAUDE.md` (renamed from …That Sells and refocused on channel monetization, 2026-10-02). Fifteen chapters. The order is `build_docx.py`. The click chapter is chapter 2.
 
 ## Already merged on main
 

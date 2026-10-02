@@ -19,6 +19,6 @@ Merged 1 October 2026. This folder is the only home of the KDP/self-publishing b
 ## Rules
 
 - Author: Lothar J. Musiol.
-- The companion *Your First YouTube Channel That Sells* is a separate book in its own folder.
+- The companion *Your First YouTube Channel That Rocks* (formerly *…That Sells*) is a separate book in its own folder.
 - Facts last rechecked 1 October 2026. Recheck KDP Help before every upload.
 - Stage only this folder when committing.

@@ -1,8 +1,9 @@
-# Your First YouTube Channel That Sells — working instructions
+# Your First YouTube Channel That Rocks — working instructions
 
 ## Scope: stay in this folder
 
-This folder is its own book: *Your First YouTube Channel That Sells*, a
+This folder is its own book: *Your First YouTube Channel That Rocks* (titled
+*Your First YouTube Channel That Sells* until 2 October 2026), a
 companion to *Your First Book That Sells* (same repo, separate book — the two
 are not chapters of one title, and do not cross-reference each other's
 manuscript). Author is **Lothar J. Musiol** (set 1 October 2026; the earlier pen
@@ -26,19 +27,26 @@ their own uncommitted work. Do not force-push `main`. Do not merge
 
 ## Project facts
 
-- **Twelve chapters, order fixed** in `build_docx.py`. Read that list before
-  adding a chapter. Chapters 1–9 (order fixed 30 September 2026): Sell One
-  Thing; The Click Is the Whole Business; Nobody Can Tell What It Cost; The
-  Videos That Do the Selling; Where the Money Actually Comes From; Six Weeks
-  to a Live Offer; Say This; The Channel Workbook; When Nothing Sells.
-  Appended 1 October 2026 as a “second pass” without renumbering 1–9:
-  10 Record It So They Stay; 11 Read the Count; 12 The Rules That Can Close
-  the Shop. The Word
-  file in this folder is rebuilt from those files. The job of the book is
-  one offer a stranger can buy.
-- The click chapter is chapter 2, not chapter 1. The cheap-production
-  chapter is chapter 3. The platform-money chapter is chapter 5. Do not
-  point at “the first chapter” when you mean the click.
+- **Fifteen chapters, order fixed** in `build_docx.py` (refocus of 2 October
+  2026). The book is about monetizing the channel itself — YouTube Partner
+  Program thresholds (2026 and the 1 February 2027 changes), ads and RPM/CPM,
+  Premium, the Shorts pool, memberships, Super Chat/Stickers/Thanks,
+  sponsorships, and affiliate links as income. It is **not** about selling
+  your own products, videos, books, or services through the channel; do not
+  reintroduce offers, prices for your own products, or checkout pages. The
+  arc: setup and quality (1 Name the Viewer; 2 The Click Is the Whole
+  Business; 3 Nobody Can Tell What It Cost; 4 Record It So They Stay), growth
+  (5 Eight Videos, Each With One Job; 6 Six Weeks to a Working Channel; 7 Read
+  the Count; 8 Grow Toward the Gate), eligibility (9 The Gates and the Review;
+  10 The Rules That Can Switch Off the Money), monetization streams (11 Ads,
+  RPM, and the Shorts Pool; 12 Money From the People Who Watch; 13 Sponsors
+  and Affiliate Links), scaling and sustainability (14 Keep It Paying; 15 The
+  Channel Workbook). Front matter "Start here" and back matter "The last
+  word", Glossary, Sources are in `build_docx.py`. Figures: 3.1
+  free-production-pipeline, 14.1 follower-floor. Text removed in the refocus
+  is in `D:\bak\2026-10-02 YouTube book refocus\`.
+- The click chapter is chapter 2. The cheap-production chapter is chapter 3.
+  Eligibility is chapter 9. Use chapter numbers in cross-references.
 - **Source material provenance matters here more than usual.** Everything in
   `_source/` except this file and `_STATUS.md` originated as either the
   author's own raw notes (a bookmark list of tools) or a saved chat transcript
@@ -80,7 +88,7 @@ anymore; do not restore that folder to copy its style.
   `*Figure N.N — caption.*` line — an embedded chart/diagram.
 - `- [ ] item` — a checklist item.
 
-Rebuild the Word file with `python build_docx.py` from this folder. It is
+Rebuild the Word file with `python scripts\build_docx.py` from this folder. It writes `Your First YouTube Channel That Rocks.docx`. It is
 plain `python-docx`. Do not add a second builder.
 
 ## House style
