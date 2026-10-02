@@ -1,4 +1,4 @@
-## Chapter 15: Gold, Salt, and Stone — The Kingdoms of Africa
+## The 8th Century BCE to 1897 CE: Gold, Salt, and Stone — The Kingdoms of Africa
 
 It is a common error, and an old one, to picture Africa between the pyramids and the slave ships as a blank. Dolphin historians, who have watched the continent's coastlines for rather longer than anyone has been drawing maps of them, would like to correct the record.
 

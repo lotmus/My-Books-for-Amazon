@@ -123,10 +123,10 @@ const prologue = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 1
+// The Last Fifty Million Years: No Hands, No Cities — Why the Dolphins Only Watched
 // ---------------------------------------------------------------------
 const chapter1 = [
-  heading("Chapter 1: No Hands, No Cities — Why the Dolphins Only Watched"),
+  heading("The Last Fifty Million Years: No Hands, No Cities — Why the Dolphins Only Watched"),
   body("By any fair measure, dolphins are not history's dim supporting cast."),
   body("Their brains, relative to body size, rank close behind humans and above every great ape. On the usual yardstick, the encephalization quotient, a bottlenose dolphin scores a little over 4 and a chimpanzee about 2.5. Only humans, at about 7, score higher."),
   body("They call each other by name. Each dolphin develops a signature whistle in its first year of life, and other dolphins use it to address that individual specifically, even years apart."),
@@ -157,10 +157,10 @@ const chapter1 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 16: Genius and Catastrophe (general opener for Part V; grew out of the original Germany draft)
+// The Twentieth Century: Genius and Catastrophe — Great Countries, Terrible Decades
 // ---------------------------------------------------------------------
 const chapter13 = [
-  heading("Chapter 22: Genius and Catastrophe — Great Countries, Terrible Decades"),
+  heading("The Twentieth Century: Genius and Catastrophe — Great Countries, Terrible Decades"),
   body("Dolphin historians keep a particular file. It is thick, it is easy to add to, and it sits under a heading they would rather not have needed: countries that had every advantage a civilization can have, and handed themselves to a dictator anyway."),
   body("The entries are not obscure. They are countries with libraries, universities, cathedrals, orchestras, and centuries of philosophy behind them, countries the dolphins admired, some of them for a very long time."),
   body("Germany is the entry dolphin scholars open first. By the 19th and early 20th centuries, Germany, a country that had not existed as a single state until 1871, had become one of humanity's centers of science, philosophy, engineering, music, and industry."),
@@ -189,10 +189,10 @@ const chapter13 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 10a (side): The Allegedly Dark Ages
+// The Early Middle Ages, 476–1000 CE: The Allegedly Dark Ages
 // ---------------------------------------------------------------------
 const chapter10a = [
-  heading("Chapter 13: The Allegedly Dark Ages"),
+  heading("The Early Middle Ages, 476–1000 CE: The Allegedly Dark Ages"),
   body("After the fall of Rome, Europe fragmented into smaller kingdoms."),
   body("Humans later called this period the Dark Ages."),
   body("The dolphins found this suspicious."),
@@ -225,10 +225,10 @@ const chapter10a = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 2
+// The Old Stone Age, a Million Years Ago: The First Fires — Early Humans and the Spark of Culture
 // ---------------------------------------------------------------------
 const chapter2 = [
-  heading("Chapter 3: The First Fires — Early Humans and the Spark of Culture"),
+  heading("The Old Stone Age, a Million Years Ago: The First Fires — Early Humans and the Spark of Culture"),
   body("For a very long time, the main thing that distinguished the branch from any other ground-dwelling ape was that it walked upright and had learned to hold a stone."),
   body("Then, at some point more than a million years ago — the dolphins concede the exact date is one of the few things they will not commit to — a hominin kept a flame burning instead of running from it."),
   body("Homo erectus is the leading suspect. Scorched bone and ash layers at several sites, most famously Wonderwerk Cave in South Africa, put controlled fire in erectus hands by roughly one million years ago, with older, patchier evidence pushing the date back further still."),
@@ -247,10 +247,10 @@ const chapter2 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 3
+// 70,000 to 15,000 Years Ago: Out of Africa — The Long Walk Across the World
 // ---------------------------------------------------------------------
 const chapter3 = [
-  heading("Chapter 4: Out of Africa — The Long Walk Across the World"),
+  heading("70,000 to 15,000 Years Ago: Out of Africa — The Long Walk Across the World"),
   body("Homo sapiens spent most of its first two hundred thousand years or so inside Africa. Then it left."),
   body("Several waves left. Earlier small dispersals leave faint genetic traces; the wave that gave rise to nearly everyone alive outside Africa today appears to have moved out roughly 60,000 to 70,000 years ago."),
   body("They were not alone on the road. Neanderthals had lived across Europe and western Asia for hundreds of thousands of years already; the more recently identified Denisovans occupied at least parts of Asia. Homo sapiens met both, and quite possibly a few others: Homo floresiensis, a small-bodied human species discovered on the Indonesian island of Flores in 2003 and nicknamed the hobbit, was still living there when modern humans were passing through the region. The list of human species has been lengthening steadily since 2003, mostly because somebody keeps digging."),
@@ -269,10 +269,10 @@ const chapter3 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 4
+// The Neolithic, from 10,000 BCE: The First Villages — Agriculture and the End of Wandering
 // ---------------------------------------------------------------------
 const chapter4 = [
-  heading("Chapter 5: The First Villages — Agriculture and the End of Wandering"),
+  heading("The Neolithic, from 10,000 BCE: The First Villages — Agriculture and the End of Wandering"),
   body("For nearly all of Homo sapiens' existence, there was no such thing as home in the modern sense — only a range, walked and re-walked with the seasons."),
   body("That changed, independently, in several places at once, starting around 10,000 BCE, in what looks in hindsight like the least likely revolution in the whole book: humans decided to stay near where the wild wheat and barley already grew, in the Fertile Crescent stretching through parts of today's Iraq, Syria, Turkey, and the Levant."),
   body("The story is not quite as tidy as fields first, temples later. At Göbekli Tepe in southeastern Turkey, hunter-gatherers who had not yet domesticated a single crop raised rings of carved limestone pillars, some weighing many tons, around 9600 BCE, more than a thousand years before farming is currently dated in the same region. Whether feeding the crowds who gathered to build it helped tip the balance toward planting deliberately, reversing the usual story in which farming comes first and temples follow, is a question archaeologists have not settled."),
@@ -294,10 +294,10 @@ const chapter4 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 5
+// From 3200 BCE: Writing and Memory — How Humans Learned to Speak to the Future
 // ---------------------------------------------------------------------
 const chapter5 = [
-  heading("Chapter 6: Writing and Memory — How Humans Learned to Speak to the Future"),
+  heading("From 3200 BCE: Writing and Memory — How Humans Learned to Speak to the Future"),
   body("For every chapter so far, dolphin historians have had to reconstruct human behavior from bones, stone, and ash, the same tools they would use on any other animal."),
   body("This is the chapter where the sources start talking back."),
   body("Writing appears in Sumer, in southern Mesopotamia, by around 3200 BCE, in the form of cuneiform: wedge-shaped marks pressed into wet clay with a cut reed. Egyptian hieroglyphs emerge at almost the same time, likely independently."),
@@ -317,10 +317,10 @@ const chapter5 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 6
+// The Bronze Age, 3100–1150 BCE: Gods and Kings — Mesopotamia, Egypt, and the First Empires
 // ---------------------------------------------------------------------
 const chapter6 = [
-  heading("Chapter 7: Gods and Kings — Mesopotamia, Egypt, and the First Empires"),
+  heading("The Bronze Age, 3100–1150 BCE: Gods and Kings — Mesopotamia, Egypt, and the First Empires"),
   body("Writing gave surplus a memory. This chapter is about what surplus, once remembered and counted, could buy: organized power over other people, at a scale no band or village ever needed."),
   body("Sumer's early city-states — Uruk, Ur, Lagash — were ruled by kings who claimed the gods had put them there, an argument with the enormous practical advantage that it required no further evidence."),
   body("It is, dolphin historians note, a remarkably efficient system of governance: no evidence required, no audit possible, and no term limit that heaven felt any particular urgency about enforcing."),
@@ -340,10 +340,10 @@ const chapter6 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 7
+// 1600 BCE to 589 CE: The Middle Kingdom — China's Long Civilization
 // ---------------------------------------------------------------------
 const chapter7 = [
-  heading("Chapter 8: The Middle Kingdom — China's Long Civilization"),
+  heading("1600 BCE to 589 CE: The Middle Kingdom — China's Long Civilization"),
   body("While Mesopotamia and Egypt built the pattern of god-king and bureaucracy, a separate civilization was assembling its own version, with no contact between them at all, along the Yellow and Yangtze rivers."),
   body("The Xia dynasty survives mostly as legend, its existence debated by historians and treated by dolphin scholarship the way any oral tradition without a matching written or archaeological record deserves: plausible, unconfirmed, and filed separately from certainty."),
   body("The Shang dynasty, from around 1600 BCE, is not a legend. Its oracle bones — turtle shells and ox bones, heated until they cracked, the cracks read as answers from ancestors — carry the earliest confirmed Chinese writing, chiefly questions about harvests, weather, and war."),
@@ -360,10 +360,10 @@ const chapter7 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 8
+// Classical Greece, 508–323 BCE: Democracy's Experiment — Ancient Greece
 // ---------------------------------------------------------------------
 const chapter8 = [
-  heading("Chapter 10: Democracy's Experiment — Ancient Greece"),
+  heading("Classical Greece, 508–323 BCE: Democracy's Experiment — Ancient Greece"),
   body("Every government examined so far in this book has run on the same basic claim: one person, or one family, or one god's favorite, decides, and everyone else complies."),
   body("Athens, starting with reforms under Cleisthenes in 508 BCE, tried something dolphin historians had not filed under any prior category: a large body of citizens deciding collectively, in person, by majority vote, in an assembly any citizen could attend and speak in."),
   body("The qualifier matters more than the achievement, and dolphin historians insist on stating it first rather than last. “Citizen” in Athens meant adult free men born to Athenian parents — excluding women, enslaved people (who made up a large share of the city's population), and foreign residents, however long they had lived there. Democracy's first draft governed a minority and called it everyone."),
@@ -378,10 +378,10 @@ const chapter8 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 9
+// The 8th Century BCE to 476 CE: Rome — The Empire That Built the World and Broke It
 // ---------------------------------------------------------------------
 const chapter9 = [
-  heading("Chapter 11: Rome — The Empire That Built the World and Broke It"),
+  heading("The 8th Century BCE to 476 CE: Rome — The Empire That Built the World and Broke It"),
   body("Rome starts, by its own telling, as a small settlement of shepherds on the Tiber around the 8th century BCE, and dolphin historians treat the founding myths (a she-wolf, twin brothers, one dead by the other's hand) as exactly that: myth, worth noting for what it says about how Rome wanted to be remembered rather than what happened."),
   body("What is well documented is the Republic that followed the expulsion of its last king in 509 BCE: an elected Senate, annually elected magistrates called consuls, and a system of checks built specifically to prevent any one Roman from becoming king again."),
   body("Early in the Republic's life, around 451-450 BCE, ordinary citizens pressured the aristocratic Senate into publishing the Twelve Tables, Rome's first written law code, inscribed on bronze or wood and displayed in the Forum precisely so a plebeian could no longer be told after the fact what the law had always supposedly said. The tables were blunt and, by modern standards, often brutal, and were revised many times over the centuries that followed — but the principle that law had to be written where the ruled could read it outlived every revision, and outlived the Republic that first wrote it down."),
@@ -399,10 +399,10 @@ const chapter9 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 10
+// The 5th Century BCE to 1291 CE: Faiths, Crusades, and the Medieval World
 // ---------------------------------------------------------------------
 const chapter10 = [
-  heading("Chapter 12: Faiths, Crusades, and the Medieval World"),
+  heading("The 5th Century BCE to 1291 CE: Faiths, Crusades, and the Medieval World"),
   body("Of everything covered in this book so far, nothing moved as much material as quickly, or grew as tightly bound to power, as belief did once it went looking for followers who owed it nothing in the way of birth or citizenship."),
   body("Dolphin scholarship, which has always been content to enjoy the ocean and find fish, regards the human urge to develop extensive theories about the meaning of existence as this species' most distinctive hobby, and on the whole respects it."),
   body("Buddhism, arising in the 5th or 6th century BCE from the teachings of Siddhartha Gautama in what is now Nepal and northern India, spread across Asia over the following centuries through trade routes and, in particular, the patronage of the Indian emperor Ashoka in the 3rd century BCE, who converted after a famously brutal conquest and then spent the rest of his reign promoting nonviolence."),
@@ -420,10 +420,10 @@ const chapter10 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 11
+// The 15th to 17th Centuries: Ships, Gunpowder, and Gold — Exploration, Conquest, and the Colonial Age
 // ---------------------------------------------------------------------
 const chapter11 = [
-  heading("Chapter 17: Ships, Gunpowder, and Gold — Exploration, Conquest, and the Colonial Age"),
+  heading("The 15th to 17th Centuries: Ships, Gunpowder, and Gold — Exploration, Conquest, and the Colonial Age"),
   body("Dolphins want one point on the record before this chapter starts: humans did not invent the ocean crossing. An earlier chapter already covered the settling of Australia by boat, tens of thousands of years earlier. Polynesian navigators crossed thousands of miles of open Pacific and settled Hawaii, New Zealand, and Rapa Nui using only stars, swells, and memorized wave patterns, centuries before the ships in this chapter set sail. Norse sailors reached North America around 1000 CE, roughly five hundred years ahead of the more famous version of the story."),
   body("China, too, had been to sea in force. Between 1405 and 1433, the Ming dynasty sent seven great treasure fleets under the admiral Zheng He, some with hundreds of ships and tens of thousands of men, as far as India, Arabia, and the east coast of Africa, in vessels considerably larger than anything Columbus or da Gama would later command. Then the court decided that exploration was expensive, that the fleets should stop, and that the ships should be allowed to rot. Dolphin historians file this under the most consequential budget decision in the book."),
   body("What changed in the late 15th century was not the idea of crossing an ocean. It was what happened to whoever was standing on the other side when the ships arrived."),
@@ -442,10 +442,10 @@ const chapter11 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 12
+// 1450 to the Late 1800s: Machines and Manifestos — Renaissance, Enlightenment, and Industry
 // ---------------------------------------------------------------------
 const chapter12 = [
-  heading("Chapter 18: Machines and Manifestos — Renaissance, Enlightenment, and Industry"),
+  heading("1450 to the Late 1800s: Machines and Manifestos — Renaissance, Enlightenment, and Industry"),
   body("Before the method came the mood. Beginning in fourteenth-century Italy and spreading north, a revival of interest in the classical world, the Renaissance, put painters, engineers, and scholars in the same rooms and, eventually, on the same pages. Leonardo da Vinci, who painted, dissected, and filled notebooks with flying machines that would not fly for four centuries, impressed the dolphins enormously, though they note that he finished remarkably little of what he started."),
   body("Around 1450, in the German city of Mainz, Johannes Gutenberg's press with movable metal type made books cheap enough that ideas could begin to travel faster than the authorities who disliked them. Movable type had been invented in China and Korea centuries earlier; Gutenberg's version, built around an alphabet of a few dozen letters rather than thousands of characters, was the one that scaled. By 1500, by common estimates, more than ten million volumes had been printed in Europe, and within a generation the press was carrying Martin Luther's objections to the Church across the continent faster than the Church could answer them."),
   body("In the century and a half after Copernicus proposed, in 1543, that the Earth orbited the sun, not the other way around, a working method had crystallized out of arguments like his: test a claim against observation and evidence, not against who holds the authority to state it. Galileo, Kepler, and finally Isaac Newton, whose 1687 laws of motion and gravitation unified the falling apple and the orbiting moon under one set of equations, gave the method its proof of concept."),
@@ -463,10 +463,10 @@ const chapter12 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 12a (side)
+// 1620 to 1993: God's Own Experiment — Religion in America
 // ---------------------------------------------------------------------
 const chapter12a = [
-  heading("Chapter 20: God's Own Experiment — Religion in America"),
+  heading("1620 to 1993: God's Own Experiment — Religion in America"),
   body("An earlier chapter already covered organized religion as a mover of history. One country turns out to be a special case worth a second visit: the United States, whose religious history is less a single current than a permanent flood of new denominations, revivals, and experiments, arriving in waves for four centuries running."),
   body("The Pilgrims who landed at Plymouth in 1620, and the much larger Puritan migration that followed from 1630, were seeking a place to practice their own strict Calvinism without established-church interference — not religious tolerance as a principle, dolphin historians note dryly, mostly religious tolerance as a personal exemption. Dissenters within the Puritan colonies, Roger Williams and Anne Hutchinson among them, were themselves banished for straying from the approved doctrine, founding Rhode Island as a direct result."),
   body("Quakers, hanged in Massachusetts around 1660 and welcomed in the Pennsylvania that William Penn founded in 1681, brought one of the first sustained peace-church traditions to American soil: refusal of violence, refusal of oaths, plain living. Amish and Mennonite communities, arriving from German-speaking Europe through the 18th century, carried an even stricter version of the same instinct — among the Amish and the Old Order Mennonites, nonviolence extended into a deliberate, chosen restriction on technology itself: no cars, no grid electricity, leadership chosen by lot rather than ambition."),
@@ -481,10 +481,10 @@ const chapter12a = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 18a (thread)
+// The 13th Century BCE to 1948 CE: The People Who Kept Their Story — A Complete History of the Jews
 // ---------------------------------------------------------------------
 const chapter18a = [
-  heading("Chapter 28: The People Who Kept Their Story — A Complete History of the Jews"),
+  heading("The 13th Century BCE to 1948 CE: The People Who Kept Their Story — A Complete History of the Jews"),
   body("Most peoples in this book are attached to dolphin scholarship through a place: Sumer's rivers, Rome's roads, China's dynasties. This chapter is about a people the dolphins learned to track a different way, because for most of their history they were not reliably attached to any one place at all."),
   body("Tradition begins with Abraham, a herder in Mesopotamia who, in the account his descendants would carry forward for four thousand years, made a covenant with a single god and moved to Canaan. Dolphin historians file Abraham the way they filed China's Xia dynasty: a founding tradition, not an archaeologically confirmed individual, and worth taking seriously as both at once."),
   body("His grandson Jacob had a twin, Esau, and the two quarreled over a birthright before Jacob's line carried the story forward; Jacob's own name was changed, in the same tradition, to Israel. His twelve sons became the traditional twelve tribes."),
@@ -509,10 +509,10 @@ const chapter18a = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 14: Japan
+// 1853–1947: Japan, Restoration, and Empire
 // ---------------------------------------------------------------------
 const chapter14 = [
-  heading("Chapter 23: Japan, Restoration, and Empire"),
+  heading("1853–1947: Japan, Restoration, and Empire"),
   body("Japan enters this part of the book carrying a cultural inheritance dolphins already respected long before the 19th century: centuries of courtly literature, Zen-influenced aesthetics, and craft traditions refined under more than two hundred years of deliberate isolation from the outside world."),
   body("That isolation ended on Japan's own terms only in the sense that it ended at all. In 1853, Commodore Matthew Perry's American warships arrived in Tokyo Bay and made the cost of staying closed unmistakable. Within fifteen years, the Tokugawa shogunate had fallen and the Meiji Restoration of 1868 began compressing a century of industrialization into a few decades, on purpose."),
   body("The speed of it stuns dolphin historians as much as anything else in this book. A feudal, agrarian society built a modern navy, a rail network, a conscript army, and an industrial base within a single lifetime, sending students abroad to learn what it needed and building the rest at home once they returned."),
@@ -527,10 +527,10 @@ const chapter14 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 15: Italy
+// 1861–1946: Italy, Rome's Heir and the Fascist Detour
 // ---------------------------------------------------------------------
 const chapter15 = [
-  heading("Chapter 24: Italy, Rome's Heir and the Fascist Detour"),
+  heading("1861–1946: Italy, Rome's Heir and the Fascist Detour"),
   body("Italy carries the longest cultural résumé in this part of the book. Rome itself, covered several chapters ago, is only the opening entry. A thousand years later, the Renaissance turned a handful of Italian city-states, Florence chief among them, into the densest concentration of art and science the book has yet recorded in one place: Leonardo da Vinci, Michelangelo, and, in the century that followed, Galileo, whose telescope observations helped force the entire Copernican argument onto the world's agenda."),
   body("Dolphin historians treat Italy, unlike Germany or Japan, as a case where “genius” is not a 19th-century flowering but a multi-thousand-year inheritance, renewed rather than newly discovered."),
   body("Political unification arrived astonishingly late relative to that inheritance: Italy did not become a single state until 1861, and the disappointment of unification's unfulfilled promises fed directly into the movement Benito Mussolini built in the war's aftermath. His 1922 March on Rome brought him to power without a single shot fired in the capital, and Italy gave the world the word “fascism” before any other country had a regime to match it."),
@@ -546,10 +546,10 @@ const chapter15 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 16: Spain
+// Medieval Córdoba to 1981: Spain, Convivencia and the General
 // ---------------------------------------------------------------------
 const chapter16 = [
-  heading("Chapter 25: Spain, Convivencia and the General"),
+  heading("Medieval Córdoba to 1981: Spain, Convivencia and the General"),
   body("Dolphin historians open this chapter earlier than its 20th-century subject, because Spain's pattern of genius and catastrophe has already run once before, on a different set of terms entirely."),
   body("Medieval al-Andalus, the Muslim-ruled portion of the Iberian Peninsula, sustained centuries of coexistence and scholarship among Muslim, Christian, and Jewish communities — convivencia — with Córdoba and Toledo among the era's great centers of translation and learning, preserving and extending Greek philosophy, mathematics, and medicine at a time large parts of Christian Europe had less access to them."),
   body("Convivencia's most famous graduate was born in Córdoba around 1135-38: Maimonides, a Jewish philosopher and physician who wrote his greatest works in Arabic and went on to shape Jewish, Islamic, and Christian scholastic thought alike, a single career that could not have happened in a Córdoba of only one faith."),
@@ -566,10 +566,10 @@ const chapter16 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 17: The Soviet Union
+// 1917–1991: The Soviet Union, Ideals and Iron
 // ---------------------------------------------------------------------
 const chapter17 = [
-  heading("Chapter 26: The Soviet Union, Ideals and Iron"),
+  heading("1917–1991: The Soviet Union, Ideals and Iron"),
   body("Pre-revolutionary Russia supplied its own share of this book's genius, independent of anything that came after it: Tolstoy and Dostoevsky in literature, Tchaikovsky in music, Mendeleev's periodic table of the elements in 1869, all produced under a czarist autocracy that gave its own population little say in how it was ruled."),
   body("The 1917 revolution carried real idealism alongside its opportunism: an end to that autocracy, and a promise, sincerely held by a great many of its early supporters, of a classless society organized around common ownership rather than inherited privilege. A brutal civil war followed the revolution before the Bolsheviks secured control of the new Soviet state."),
   body("Vladimir Lenin's death in 1924 opened a succession struggle that Joseph Stalin won by the end of the decade, and what followed turned the idealism of 1917 into some of the deadliest state policy in this book. Forced collectivization of agriculture in the early 1930s produced famine across the Soviet Union, including the Ukrainian famine known as the Holodomor, a result of policy, not weather, killing millions."),
@@ -586,10 +586,10 @@ const chapter17 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 18: China
+// 1949 to Today: China, the Long Memory and the Great Leap
 // ---------------------------------------------------------------------
 const chapter18 = [
-  heading("Chapter 27: China, the Long Memory and the Great Leap"),
+  heading("1949 to Today: China, the Long Memory and the Great Leap"),
   body("This chapter returns to a civilization dolphin scholarship already logged, several chapters ago, as among the deepest cultural inheritances in the book: millennia of continuous writing, philosophy, and administration, surviving dynasty after dynasty like a tide that always came back in."),
   body("The 19th century interrupted that tide more severely than any dynasty's collapse had. Defeat in the Opium Wars, unequal treaties forced on China by European powers, and foreign concessions carved out of Chinese port cities opened what Chinese historians call the Century of Humiliation — a period that shaped the political movements of the century that followed as directly as any single event in this book shapes the chapter after it."),
   body("Decades of civil war and Japanese occupation, covered in this part of the book's earlier chapter on Japan, ended in 1949 with the Communist Party's victory under Mao Zedong, arriving with genuine popular exhaustion and hope behind it after so much foreign and internal violence."),
@@ -607,10 +607,10 @@ const chapter18 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 19: Cold War
+// 1945–1991: Cold War — Two Powers, One Planet
 // ---------------------------------------------------------------------
 const chapter19 = [
-  heading("Chapter 29: Cold War — Two Powers, One Planet"),
+  heading("1945–1991: Cold War — Two Powers, One Planet"),
   body("The alliance that beat Nazi Germany did not survive the peace it won. Within two years of 1945, the wartime partnership between the United States and the Soviet Union had curdled into open rivalry, hardened by an ideological split that this book has already put in plain view: capitalism and multiparty democracy on one side, one-party rule and state-planned economics on the other."),
   body("Both sides had the bomb within four years of each other — the United States in 1945, the Soviet Union in 1949 — and by the 1960s both had enough of them, mounted on missiles that could cross the planet in under an hour, to guarantee that a full nuclear exchange would leave no meaningful winner. Strategists gave this condition an unusually honest name: mutual assured destruction."),
   body("The phrase was coined in the 1960s by the analyst Donald Brennan, who meant the acronym as mockery. The strategists kept it anyway. Dolphin scholarship files this under candor, an achievement this species does not get nearly enough credit for."),
@@ -627,10 +627,10 @@ const chapter19 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 20: Decolonization
+// The 1940s to the 1970s: Decolonization — The World Redraws Itself
 // ---------------------------------------------------------------------
 const chapter20 = [
-  heading("Chapter 32: Decolonization — The World Redraws Itself"),
+  heading("The 1940s to the 1970s: Decolonization — The World Redraws Itself"),
   body("Formal empire, built up over the centuries this book has already covered, mostly ended within a single human lifetime. The process ran fastest between the 1940s and the 1970s, and dolphin historians treat its speed as almost as remarkable as the speed of the empires it dismantled."),
   body("India's road to independence began, like several roads in this book, with a trading company. The Mughal Empire that had dominated the subcontinent since 1526 (builders of the Taj Mahal and, by some estimates, at its height responsible for roughly a quarter of the world's economic output) was showing signs of fraying when the East India Company, chartered in London in 1600 to sell spices and cloth, began acquiring territory instead. After the Battle of Plassey in 1757, the Company governed large parts of India with an army that by the early 1800s was, by one common estimate, close to twice the size of Britain's own, an arrangement dolphin historians summarize as a business with a country attached. Company rule ended after the uprising of 1857, and direct rule by the British Crown, the Raj, followed until 1947."),
   body("The ledger is not seriously in dispute. Railways, an administrative language, and a unified legal system were left behind. So, by common estimates, was an economy whose share of world output had shrunk from about a quarter to under five percent, along with a run of famines, the worst of them in Bengal in 1943, which killed an estimated two to three million people as wartime priorities and policy failures compounded the shortages."),
@@ -645,10 +645,10 @@ const chapter20 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 21: Civil Rights and Liberation
+// 1893 to 1994: Civil Rights and Liberation — Humanity Argues With Itself
 // ---------------------------------------------------------------------
 const chapter21 = [
-  heading("Chapter 33: Civil Rights and Liberation — Humanity Argues With Itself"),
+  heading("1893 to 1994: Civil Rights and Liberation — Humanity Argues With Itself"),
   body("Unlike most of the conflicts in this book, the campaigns in this chapter were mostly won without an army, by changing what a majority of people believed they owed to a minority — proof, dolphin historians note with evident approval, that this species can update its own rules without a battlefield, slowly and unevenly, but without one."),
   body("In the United States, the Supreme Court's 1954 Brown v. Board of Education ruling declared racially segregated public schools unconstitutional, overturning the legal doctrine that had upheld segregation for nearly six decades. The following decade of organized protest, the 1955-56 Montgomery bus boycott (begun after Rosa Parks refused to give up her bus seat, nine months after a fifteen-year-old, Claudette Colvin, had done the same and been arrested), sit-ins, freedom rides, the 1963 March on Washington where Martin Luther King Jr. delivered his “I Have a Dream” speech, and the 1965 march at Selma, where state troopers beat marchers on the Edmund Pettus Bridge in front of television cameras, culminated in the Civil Rights Act of 1964 and the Voting Rights Act of 1965, dismantling the legal architecture of segregation and disenfranchisement, if not the underlying attitudes, at the federal level."),
   body("The murder of Emmett Till, a fourteen-year-old boy killed in Mississippi in August 1955 after being accused of offending a white woman, and the decision by his mother, Mamie Till-Mobley, to hold an open-casket funeral so that Jet magazine could publish photographs of his mutilated body, is widely credited with galvanizing the movement that followed; the Montgomery boycott began three months later. The Twenty-Fourth Amendment, ratified in 1964, abolished the poll taxes that had been used for decades to price Black voters out of elections across much of the South."),
@@ -661,10 +661,10 @@ const chapter21 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 22: The Digital Leap
+// 1843 to 2007: The Digital Leap — Computers, Networks, and a Connected World
 // ---------------------------------------------------------------------
 const chapter22 = [
-  heading("Chapter 34: The Digital Leap — Computers, Networks, and a Connected World"),
+  heading("1843 to 2007: The Digital Leap — Computers, Networks, and a Connected World"),
   body("The idea is older than the machine. In 1843 Ada Lovelace, the daughter of the poet Lord Byron, published what is generally regarded as the first computer program, an algorithm for a mechanical engine designed by Charles Babbage that he never managed to finish building, which dolphin historians identify as a very British way to invent a technology."),
   body("The theoretical groundwork arrived next. Kurt Gödel's 1931 incompleteness theorems proved that any formal mathematical system powerful enough to describe basic arithmetic must contain true statements it cannot prove within its own system — a hard limit built into logic itself, discovered a decade before anyone built a working computer, and one this book's own recurring gap between capability and wisdom would recognize immediately."),
   body("The war made the theory into machinery. At Bletchley Park, Alan Turing, whose 1936 paper had already defined what a computing machine could do in principle, designed the electromechanical Bombes that broke Germany's Enigma traffic, and the engineer Tommy Flowers built Colossus, the first programmable electronic digital computer, to read the German high command's Lorenz cipher."),
@@ -679,10 +679,10 @@ const chapter22 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 23: Climate and Consequence
+// 1896 to Today: Climate and Consequence — The Price of Progress
 // ---------------------------------------------------------------------
 const chapter23 = [
-  heading("Chapter 38: Climate and Consequence — The Price of Progress"),
+  heading("1896 to Today: Climate and Consequence — The Price of Progress"),
   body("Dolphin historians open this chapter by stating plainly what several earlier chapters only implied: the physics involved is not a matter of opinion. Carbon dioxide and a handful of other gases trap heat in the atmosphere that would otherwise radiate back into space; more of those gases means more trapped heat; humans have added those gases, chiefly by burning the coal, oil, and gas that powered every industrial chapter since the steam engine, at a rate the atmosphere had not experienced in at least several hundred thousand years."),
   body("The physics is not new. In 1896 the Swedish chemist Svante Arrhenius calculated, by hand, that doubling the carbon dioxide in the atmosphere would warm the planet by several degrees. Since 1958, measurements at the Mauna Loa Observatory in Hawaii, begun by Charles David Keeling, have recorded the rise year after year in a graph so steady it has a name. The warning has been on the table for well over a century, a long time even by the standards of a species that likes to think things over."),
   body("The Intergovernmental Panel on Climate Change, formed in 1988 to summarize the state of the science for governments, has issued six assessment reports since, each one more confident than the last that the changes are real, are caused by human activity, and are accelerating."),
@@ -700,10 +700,10 @@ const chapter23 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 24: A Fractured Present
+// 1991 to Today: A Fractured Present — Democracy, Authoritarianism, and the Information Age
 // ---------------------------------------------------------------------
 const chapter24 = [
-  heading("Chapter 39: A Fractured Present — Democracy, Authoritarianism, and the Information Age"),
+  heading("1991 to Today: A Fractured Present — Democracy, Authoritarianism, and the Information Age"),
   body("The Soviet Union's 1991 dissolution produced a mood, widely shared among Western observers at the time, that history's central argument over how societies should be governed had been settled in democracy's favor, more or less for good. The following three decades did not confirm that mood."),
   body("A number of countries that had appeared to be consolidating democratic institutions in the 1990s and 2000s instead saw those institutions weakened from within during the 2010s and 20s: independent courts and press curtailed, elections held but their fairness eroded, and power concentrated in ways that stopped well short of the outright dictatorships examined earlier in this book but moved unmistakably in that direction. Political scientists gave this pattern a name, democratic backsliding, distinct from the sudden coups that had ended democracies in earlier chapters."),
   body("Freedom House, the organization most often cited for these annual surveys, recorded a net decline in global political rights and civil liberties every single year from 2006 onward, a streak unbroken for close to two decades by the time this book was written — long enough that an entire generation of political scientists has spent its career studying backsliding instead of the steady consolidation the 1990s mood assumed would be the field's real subject."),
@@ -720,10 +720,10 @@ const chapter24 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 25: The Dolphins' Long View
+// Seven Million Years to Today: The Dolphins' Long View — What a Non-Human Species Makes of Human History
 // ---------------------------------------------------------------------
 const chapter25 = [
-  heading("Chapter 40: The Dolphins' Long View — What a Non-Human Species Makes of Human History"),
+  heading("Seven Million Years to Today: The Dolphins' Long View — What a Non-Human Species Makes of Human History"),
   body("This book opened with a claim dolphin historians have now spent the rest of the book testing: that a big brain guarantees cleverness, and cleverness is not the same thing as wisdom, and only one of those two ever arrives on a reliable schedule."),
   body("The evidence, gathered across every chapter since, does not overturn the claim. It sharpens it."),
   body("Fire and stone tools turned a clever ape into a fed, warmed, and organized one. Writing let that organization survive the death of everyone who built it. Farming, kingship, and bureaucracy turned organization into scale. None of these tools carried any built-in instruction about what they should be used for, and humans used every one of them for both extraordinary construction and extraordinary harm, frequently within the same generation, sometimes within the same decade."),
@@ -747,10 +747,10 @@ const chapter25 = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 41: the timelines the book almost skipped
+// 1804 to 2022: Half the World, All the Time — The Timelines This Book Almost Skipped
 // ---------------------------------------------------------------------
 const chapter41timelines = [
-  heading("Chapter 41: Half the World, All the Time — The Timelines This Book Almost Skipped"),
+  heading("1804 to 2022: Half the World, All the Time — The Timelines This Book Almost Skipped"),
   body("Dolphin scholarship keeps an index of every timeline humans have bothered to write down about themselves: wars sorted by year, dynasties sorted by collapse, inventions sorted by patent. It is, by the Society's count, an enormous list. Reviewing it against this book's own table of contents turned up an uncomfortable fact: several of the timelines that actually ran underneath everything else in this book — counted the whole time, changing the whole time — never got a chapter of their own."),
   body("This chapter is the dolphins going back for them."),
   body("Start with the plainest number in the whole list: how many humans there were. For most of this book, the answer was small and slow. It took until 1804, on most estimates, for the global population to reach one billion — a milestone that arrived in the year Napoleon crowned himself emperor. The second billion took until 1927, a mere hundred-plus years later. The third took until 1960. The fourth took fourteen years. By 2022 the count passed eight billion. Dolphin historians note that this book's own chapters get denser and faster toward the end for the same reason the population curve does: there were, quite simply, more humans available to have more history."),
@@ -783,10 +783,10 @@ const epilogue = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 23: Leaving the Cradle
+// 1957 to 2026: Leaving the Cradle — Space Travel, the Moon, Mars, and (Maybe) the Galaxy
 // ---------------------------------------------------------------------
 const chapter23space = [
-  heading("Chapter 30: Leaving the Cradle — Space Travel, the Moon, Mars, and (Maybe) the Galaxy"),
+  heading("1957 to 2026: Leaving the Cradle — Space Travel, the Moon, Mars, and (Maybe) the Galaxy"),
   body("Dolphin historians open this chapter by naming what makes it different from every chapter before it: this may be the first thing in the whole book dolphins cannot watch happen in person. Everything up to now took place somewhere a dolphin could, in principle, have been present for — on the water, near it, or on land bordering it. This chapter's subject leaves the planet."),
   body("The Space Race opened as a direct extension of the previous chapter's rivalry. The Soviet Union launched Sputnik, the first artificial satellite, in October 1957, and followed it in April 1961 by putting Yuri Gagarin into orbit as the first human in space, a double humiliation for American prestige that reshaped US science funding within the year."),
   body("The race produced other firsts worth remembering alongside Gagarin's. Laika, a stray dog from the streets of Moscow, became the first animal to orbit Earth aboard Sputnik 2 in November 1957, on a one-way mission whose life-support system was never built to bring her home. Valentina Tereshkova followed in June 1963 as the first woman in space, orbiting Earth 48 times aboard Vostok 6. No other woman flew in space for nineteen years."),
@@ -801,10 +801,10 @@ const chapter23space = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 24: The Physics That Finally Made Sense to Someone
+// 1905 Onward: The Physics That Finally Made Sense to Someone
 // ---------------------------------------------------------------------
 const chapter24physics = [
-  heading("Chapter 31: The Physics That Finally Made Sense to Someone"),
+  heading("1905 Onward: The Physics That Finally Made Sense to Someone"),
   body("Twentieth-century physics produced a run of ideas famous for striking humans as bizarre on first contact. Dolphin scholarship, reviewing the same list, keeps having a different reaction: this looks familiar."),
   body("Special relativity, published by Einstein in 1905, showed that simultaneity is not absolute — whether two distant events happen “at the same time” depends on how fast an observer is moving relative to them, because nothing, not even information, travels faster than light. Human intuition, built on eyesight, where light's travel time is imperceptible over any everyday distance, finds this deeply strange."),
   body("Dolphin intuition does not. Every dolphin has spent its entire life aware, in a way no human's unaided senses are, that a signal takes a real, measurable amount of time to leave, bounce off something, and return — and that where an object is right now and where its echo says it is are two different questions with two different answers depending on distance. Echolocating animals have effectively been doing applied relativity, at manageable speeds and short ranges, since long before Einstein needed a train and a lightning bolt to explain the idea to everyone else."),
@@ -821,10 +821,10 @@ const chapter24physics = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 28: The World Was Supposed to End in 2012 (It Didn't)
+// The Thirteenth B'ak'tun, 2012: The World Was Supposed to End in 2012 (It Didn't)
 // ---------------------------------------------------------------------
 const chapter28maya = [
-  heading("Chapter 35: The World Was Supposed to End in 2012 (It Didn't)"),
+  heading("The Thirteenth B'ak'tun, 2012: The World Was Supposed to End in 2012 (It Didn't)"),
   body("Dolphin historians have, by this point in the book, cataloged a great many things humans got wrong about their own past. This chapter catalogs something rarer: an entire civilization getting blamed for a future that never happened."),
   body("The Maya civilization, whose sophisticated cities, mathematics (including an independently invented concept of zero), and astronomy this book has already touched on, tracked time with several overlapping calendar systems. The most elaborate, the Long Count, measured days elapsed since a fixed mythological starting point rather than resetting every year the way a modern calendar does."),
   body("The Long Count's largest standard unit, the b'ak'tun, runs for roughly 394 years. On December 21, 2012, by the correlation most scholars accept, the thirteenth b'ak'tun since the Long Count's starting point came to an end."),
@@ -840,10 +840,10 @@ const chapter28maya = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 29: Something Might Be Watching
+// 1950 to the 2020s: Something Might Be Watching (Probably Not What You Think)
 // ---------------------------------------------------------------------
 const chapter29aliens = [
-  heading("Chapter 36: Something Might Be Watching (Probably Not What You Think)"),
+  heading("1950 to the 2020s: Something Might Be Watching (Probably Not What You Think)"),
   body("This book's entire premise rests on one non-human intelligence quietly watching a technological species from a position of total detachment. Dolphin scholarship notes, with a straight face, that this is not the first idea of its kind humans have entertained. It may not even be the most popular."),
   body("Physicist Enrico Fermi's 1950 lunch-table question, since known as the Fermi Paradox, remains essentially unanswered: given the number of stars in the galaxy, many with planets, and the billions of years those planets have had to develop life, why has no evidence of any other technological civilization ever turned up?"),
   body("Frank Drake's 1961 equation broke the question into estimable factors — the rate of star formation, the fraction of stars with planets, the fraction of those hospitable to life, and so on down to how long a civilization keeps broadcasting before it stops — without resolving it, since several of those factors remain largely unknown even now."),
@@ -860,10 +860,10 @@ const chapter29aliens = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 30: Medicine and Its Cost
+// 1796 to Today: Medicine and Its Cost — How Humans Learned to Heal
 // ---------------------------------------------------------------------
 const chapter30medicine = [
-  heading("Chapter 37: Medicine and Its Cost — How Humans Learned to Heal"),
+  heading("1796 to Today: Medicine and Its Cost — How Humans Learned to Heal"),
   body("This chapter's technology, unlike most others in this book, is aimed entirely inward — not at the physical world, and not at other humans as adversaries, but at the human body's own failures."),
   body("Germ theory, established by Louis Pasteur and Robert Koch through the mid-to-late 1800s, replaced centuries of competing explanations, miasma and humoral imbalance among them, with something testable: specific microorganisms cause specific diseases. Joseph Lister applied antiseptic technique to surgery starting in the 1860s, and surgical survival rates, previously grim, improved dramatically within a generation. The first public demonstration of ether anesthesia, in 1846, had already turned surgery from a race against a conscious patient's pain tolerance into a controlled procedure."),
   body("The path to it was not smooth. In 1847 the Hungarian physician Ignaz Semmelweis showed that deaths from childbed fever in his Vienna hospital dropped sharply when doctors washed their hands in chlorinated lime between the autopsy room and the delivery ward. His colleagues, who did not care to be told that they were the source of the infection, rejected the finding. Semmelweis was eventually committed to an asylum, where he died in 1865 of an infection. In 1854, in London, the physician John Snow traced a cholera outbreak to a single water pump in Soho and persuaded the authorities to remove its handle. The medical establishment took several more decades to accept that the water and the doctors were both dirty."),
@@ -879,10 +879,10 @@ const chapter30medicine = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 8: The Subcontinent
+// 2600 BCE to 550 CE: The Subcontinent — Zero, Gods, and Glorious Complexity
 // ---------------------------------------------------------------------
 const chapter8india = [
-  heading("Chapter 9: The Subcontinent — Zero, Gods, and Glorious Complexity"),
+  heading("2600 BCE to 550 CE: The Subcontinent — Zero, Gods, and Glorious Complexity"),
   body("Somewhere between Mesopotamia and China, on the far side of some of the tallest mountains on Earth, a third river civilization was building cities."),
   body("The Indus Valley, or Harappan, civilization flourished from roughly 2600 to 1900 BCE across what is now Pakistan and northwestern India. Its cities, Harappa and Mohenjo-daro among them, were laid out on grids, built from bricks of standardized sizes, and equipped with covered drains and private bathrooms, a standard of municipal plumbing that dolphin historians, who have never needed any, nevertheless find deeply admirable, and that much of the world would not match for thousands of years."),
   body("The Harappans also had a script, carved on thousands of small stone seals, which nobody has ever managed to read. Some scholars doubt it records a language at all. It makes them the only major civilization of their age whose own account of itself is missing, a filing error dolphin scholarship considers the most tantalizing in the archive. Around 1900 BCE the cities emptied; shifting rivers and a weakening monsoon are the usual suspects, and the case remains open."),
@@ -900,10 +900,10 @@ const chapter8india = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 2: Where Everyone Is From
+// 7 Million to 300,000 Years Ago: Where Everyone Is From — Africa and the Making of Humans
 // ---------------------------------------------------------------------
 const chapter2africa = [
-  heading("Chapter 2: Where Everyone Is From — Africa and the Making of Humans"),
+  heading("7 Million to 300,000 Years Ago: Where Everyone Is From — Africa and the Making of Humans"),
   body("Every human being alive today descends from people who lived in Africa. This is not a metaphor or a courtesy to a continent. It is the best-supported conclusion in the study of human origins, and it rests on three independent witnesses that agree: bones, tools, and DNA."),
   body("The stage was East Africa's Rift Valley, where the crust was slowly pulling the continent apart, raising highlands, drying out forests, and laying down lake beds that preserve bones very well. Dolphin scholars, who have a professional interest in lakes and rivers, note that the early hominins seem to have shared the taste. (The idea that humans spent their formative millennia in the water, the so-called aquatic ape hypothesis, has flattered dolphins for decades. Dolphin scholarship regrets that the evidence points the other way, and must decline the credit.)"),
   body("The earliest candidates for the human side of the family split, Sahelanthropus in Chad, Orrorin in Kenya, and Ardipithecus in Ethiopia, date to somewhere between about seven and four and a half million years ago, and all of them are argued over, which is what the early branches of a family tree tend to attract."),
@@ -920,10 +920,10 @@ const chapter2africa = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 14: Silk, Steppe, and Plague
+// The 2nd Century BCE to 1368 CE: Silk, Steppe, and Plague — The Roads That Connected Everyone, Including the Germs
 // ---------------------------------------------------------------------
 const chapter14silk = [
-  heading("Chapter 14: Silk, Steppe, and Plague — The Roads That Connected Everyone, Including the Germs"),
+  heading("The 2nd Century BCE to 1368 CE: Silk, Steppe, and Plague — The Roads That Connected Everyone, Including the Germs"),
   body("Nobody at the time called it the Silk Road. The name was coined in 1877 by a German geographer, Ferdinand von Richthofen, some two thousand years after the traffic began, and it is misleading twice over: it was not one road, and silk was only a fraction of what moved along it."),
   body("What existed instead was a web of trails, oases, and caravan towns running from China to the Mediterranean, worked by relays of merchants who rarely traveled the whole distance and generally took a cut at their stage. The Han dynasty opened it up in earnest in the 2nd century BCE, after the envoy Zhang Qian returned from a thirteen-year mission, ten of them spent as a prisoner, with news of a world to the west. Rome soon developed a taste for Chinese silk so expensive that Pliny the Elder complained, around 77 CE, that luxuries from the east were draining the empire of a hundred million sesterces a year."),
   body("What moved along it was not only goods. Buddhism traveled east into China. Christianity and Islam traveled in several directions. Paper, gunpowder, and the compass eventually made their way west. And, at odd intervals, so did things nobody had ordered."),
@@ -938,10 +938,10 @@ const chapter14silk = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 15: Gold, Salt, and Stone
+// The 8th Century BCE to 1897 CE: Gold, Salt, and Stone — The Kingdoms of Africa
 // ---------------------------------------------------------------------
 const chapter15africa = [
-  heading("Chapter 15: Gold, Salt, and Stone — The Kingdoms of Africa"),
+  heading("The 8th Century BCE to 1897 CE: Gold, Salt, and Stone — The Kingdoms of Africa"),
   body("It is a common error, and an old one, to picture Africa between the pyramids and the slave ships as a blank. Dolphin historians, who have watched the continent's coastlines for rather longer than anyone has been drawing maps of them, would like to correct the record."),
   body("Start with the pyramids. The kingdom of Kush, south of Egypt in what is now Sudan, spent centuries as Egypt's neighbor, trading partner, and occasional conqueror: in the 8th century BCE the Kushite king Piye marched north and founded Egypt's 25th dynasty, whose pharaohs ruled the Nile valley for about seventy years. Kush built pyramids of its own, smaller and steeper than Egypt's, and built more of them: Sudan today has more pyramids than Egypt. Its iron-working capital, Meroë, was once described by an early 20th-century archaeologist as the Birmingham of ancient Africa, on account of the slag heaps, a compliment Birmingham has yet to return."),
   body("Further east, the kingdom of Aksum, in what is now Ethiopia and Eritrea, grew rich on Red Sea trade between the 1st and 7th centuries CE, minted its own gold coins, raised towering carved stone obelisks, and, under King Ezana around 330 CE, became one of the first states anywhere to adopt Christianity. In the 3rd century the Persian prophet Mani is reported to have listed the four great kingdoms of the earth as Persia, Rome, China, and Aksum, which is company the average textbook does not offer it."),
@@ -956,10 +956,10 @@ const chapter15africa = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 16: Before Columbus
+// 2600 BCE to 1491 CE: Before Columbus — Cities, Corn, and Knotted String
 // ---------------------------------------------------------------------
 const chapter16americas = [
-  heading("Chapter 16: Before Columbus — Cities, Corn, and Knotted String"),
+  heading("2600 BCE to 1491 CE: Before Columbus — Cities, Corn, and Knotted String"),
   body("When Spanish soldiers first came down the causeway into the Aztec capital in 1519, one of them later wrote that some of his companions wondered aloud whether they were dreaming. It is a useful reminder that the Americas of 1491 were not empty, and were not waiting."),
   body("The story begins with corn. Somewhere in southern Mexico, some nine thousand years ago, farmers began breeding a scruffy wild grass called teosinte into maize, a project of such patient and improbable success that geneticists still argue about how it was done. Beans and squash followed, and with them, cities."),
   body("Caral, in Peru's Supe Valley, was raising monumental pyramids around 2600 BCE, roughly when Egypt was raising its own. The Olmec of the Gulf Coast carved colossal stone heads. The Maya built astronomically aligned cities in the rainforest and developed one of the few true writing systems in the world. Teotihuacan, near present-day Mexico City, held well over a hundred thousand people at its height, making it one of the largest cities on Earth. The great Maya cities were largely abandoned between about 800 and 950 CE, apparently through some combination of drought, warfare, and overreach, a sequence that recurs throughout this book."),
@@ -974,10 +974,10 @@ const chapter16americas = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 19: The Republic, With Exceptions
+// 1776–1865: The Republic, With Exceptions — America
 // ---------------------------------------------------------------------
 const chapter19republic = [
-  heading("Chapter 19: The Republic, With Exceptions — America, 1776-1865"),
+  heading("1776–1865: The Republic, With Exceptions — America"),
   body("In July 1776 a group of colonial delegates announced to a king that they held it to be self-evident that all men are created equal. The author of the sentence, Thomas Jefferson, enslaved more than six hundred people over the course of his life. Dolphin historians, who have made a study of the distance between what humans say and what they do, regard the sentence as a landmark in that study."),
   body("The founders were unusually thoughtful people. They had read the Enlightenment, the Greeks, and, with some anxiety, the history of the Roman Republic, whose checks and balances they studied as a cautionary tale and then borrowed with adjustments: a president in place of consuls, a Senate kept outright, and a separation of powers designed so that no single ambition could get far without another ambition in the way. Dolphin scholars, who had seen the previous experiment fail, watched with interest."),
   body("The same Constitution that protected the new country's liberties also counted an enslaved person as three-fifths of a person for purposes of representation, and protected the importation of enslaved people for another twenty years. The cotton gin, invented in 1793, made short-staple cotton enormously profitable and the demand for enslaved labor with it, and by 1860 nearly four million people were held in slavery in the United States."),
@@ -991,10 +991,10 @@ const chapter19republic = [
 ];
 
 // ---------------------------------------------------------------------
-// Chapter 21: Home by Christmas
+// 1914–1918: Home by Christmas — The First World War
 // ---------------------------------------------------------------------
 const chapter21ww1 = [
-  heading("Chapter 21: Home by Christmas — The First World War"),
+  heading("1914–1918: Home by Christmas — The First World War"),
   body("On June 28, 1914, a nineteen-year-old Bosnian Serb named Gavrilo Princip, whose group had already failed once that morning, found himself outside a delicatessen in Sarajevo when the car of Archduke Franz Ferdinand of Austria-Hungary took a wrong turn and stopped in front of him. A popular modern story has him buying a sandwich; no contemporary source says so. He shot the Archduke and his wife, Sophie, and began, without quite intending it, the First World War."),
   body("What followed was a chain reaction so mechanical that historians still argue about whether anyone could have stopped it. Austria-Hungary blamed Serbia, Russia backed Serbia, Germany backed Austria-Hungary, France backed Russia, and Britain, which had promised to defend Belgium's neutrality, joined in after Germany marched through Belgium. Within weeks, nearly every great power in Europe was at war, and virtually everyone expected it to be short. The Kaiser told his departing troops that they would be home before the leaves fell. In Britain the phrase was over by Christmas."),
   body("It was not. The armies dug in, and for four years a front line some four hundred miles long, from the Channel to Switzerland, barely moved. The industrial machinery of an earlier chapter produced artillery, machine guns, barbed wire, and shells in numbers that turned every advance into a massacre. On July 1, 1916, the first day of the Battle of the Somme, the British Army suffered some 57,000 casualties, close to 20,000 of them killed, the worst day in its history. Many belonged to the Pals battalions, volunteers who had enlisted together with friends, neighbors, and workmates on the promise that they could serve alongside one another, a promise that was kept with a thoroughness whole towns did not forget. At Verdun that same year, the French and Germans spent ten months killing some three hundred thousand men over a few square miles of mud."),
@@ -1177,7 +1177,7 @@ const timeline = [
 ];
 
 // ---------------------------------------------------------------------
-// Appendix: What the Physics Is For (moved out of Chapter 31)
+// Appendix: What the Physics Is For (moved out of the physics chapter)
 // ---------------------------------------------------------------------
 const physicsAppendix = [
   heading("What the Physics Is For — An Appendix on Uses and the One Theory Not Yet Found"),

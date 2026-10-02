@@ -1,4 +1,4 @@
-## Chapter 3: The First Fires — Early Humans and the Spark of Culture
+## The Old Stone Age, a Million Years Ago: The First Fires — Early Humans and the Spark of Culture
 
 For a very long time, the main thing that distinguished the branch from any other ground-dwelling ape was that it walked upright and had learned to hold a stone.
 

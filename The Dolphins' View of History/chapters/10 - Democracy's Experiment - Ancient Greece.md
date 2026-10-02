@@ -1,4 +1,4 @@
-## Chapter 10: Democracy's Experiment — Ancient Greece
+## Classical Greece, 508–323 BCE: Democracy's Experiment — Ancient Greece
 
 Every government examined so far in this book has run on the same basic claim: one person, or one family, or one god's favorite, decides, and everyone else complies.
 

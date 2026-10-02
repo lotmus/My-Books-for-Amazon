@@ -1,4 +1,4 @@
-## Chapter 9: The Subcontinent — Zero, Gods, and Glorious Complexity
+## 2600 BCE to 550 CE: The Subcontinent — Zero, Gods, and Glorious Complexity
 
 Somewhere between Mesopotamia and China, on the far side of some of the tallest mountains on Earth, a third river civilization was building cities.
 

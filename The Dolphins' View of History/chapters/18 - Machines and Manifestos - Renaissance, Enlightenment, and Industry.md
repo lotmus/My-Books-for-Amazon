@@ -1,4 +1,4 @@
-## Chapter 18: Machines and Manifestos — Renaissance, Enlightenment, and Industry
+## 1450 to the Late 1800s: Machines and Manifestos — Renaissance, Enlightenment, and Industry
 
 Before the method came the mood. Beginning in fourteenth-century Italy and spreading north, a revival of interest in the classical world, the Renaissance, put painters, engineers, and scholars in the same rooms and, eventually, on the same pages. Leonardo da Vinci, who painted, dissected, and filled notebooks with flying machines that would not fly for four centuries, impressed the dolphins enormously, though they note that he finished remarkably little of what he started.
 

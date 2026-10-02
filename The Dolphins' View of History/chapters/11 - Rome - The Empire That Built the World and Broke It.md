@@ -1,4 +1,4 @@
-## Chapter 11: Rome — The Empire That Built the World and Broke It
+## The 8th Century BCE to 476 CE: Rome — The Empire That Built the World and Broke It
 
 Rome starts, by its own telling, as a small settlement of shepherds on the Tiber around the 8th century BCE, and dolphin historians treat the founding myths (a she-wolf, twin brothers, one dead by the other's hand) as exactly that: myth, worth noting for what it says about how Rome wanted to be remembered rather than what happened.
 

@@ -1,4 +1,4 @@
-## Chapter 1: No Hands, No Cities — Why the Dolphins Only Watched
+## The Last Fifty Million Years: No Hands, No Cities — Why the Dolphins Only Watched
 
 By any fair measure, dolphins are not history's dim supporting cast.
 

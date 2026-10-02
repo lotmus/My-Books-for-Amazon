@@ -1,4 +1,4 @@
-## Chapter 38: Climate and Consequence — The Price of Progress
+## 1896 to Today: Climate and Consequence — The Price of Progress
 
 Dolphin historians open this chapter by stating plainly what several earlier chapters only implied: the physics involved is not a matter of opinion. Carbon dioxide and a handful of other gases trap heat in the atmosphere that would otherwise radiate back into space; more of those gases means more trapped heat; humans have added those gases, chiefly by burning the coal, oil, and gas that powered every industrial chapter since the steam engine, at a rate the atmosphere had not experienced in at least several hundred thousand years.
 

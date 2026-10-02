@@ -1,4 +1,4 @@
-## Chapter 32: Decolonization — The World Redraws Itself
+## The 1940s to the 1970s: Decolonization — The World Redraws Itself
 
 Formal empire, built up over the centuries this book has already covered, mostly ended within a single human lifetime. The process ran fastest between the 1940s and the 1970s, and dolphin historians treat its speed as almost as remarkable as the speed of the empires it dismantled.
 

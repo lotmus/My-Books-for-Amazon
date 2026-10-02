@@ -1,4 +1,4 @@
-## Chapter 35: The World Was Supposed to End in 2012 (It Didn't)
+## The Thirteenth B'ak'tun, 2012: The World Was Supposed to End in 2012 (It Didn't)
 
 Dolphin historians have, by this point in the book, cataloged a great many things humans got wrong about their own past. This chapter catalogs something rarer: an entire civilization getting blamed for a future that never happened.
 

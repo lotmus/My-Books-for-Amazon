@@ -1,4 +1,4 @@
-## Chapter 41: Half the World, All the Time — The Timelines This Book Almost Skipped
+## 1804 to 2022: Half the World, All the Time — The Timelines This Book Almost Skipped
 
 Dolphin scholarship keeps an index of every timeline humans have bothered to write down about themselves: wars sorted by year, dynasties sorted by collapse, inventions sorted by patent. It is, by the Society's count, an enormous list. Reviewing it against this book's own table of contents turned up an uncomfortable fact: several of the timelines that actually ran underneath everything else in this book — counted the whole time, changing the whole time — never got a chapter of their own.
 

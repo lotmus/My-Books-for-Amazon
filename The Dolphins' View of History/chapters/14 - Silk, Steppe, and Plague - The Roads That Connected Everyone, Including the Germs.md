@@ -1,4 +1,4 @@
-## Chapter 14: Silk, Steppe, and Plague — The Roads That Connected Everyone, Including the Germs
+## The 2nd Century BCE to 1368 CE: Silk, Steppe, and Plague — The Roads That Connected Everyone, Including the Germs
 
 Nobody at the time called it the Silk Road. The name was coined in 1877 by a German geographer, Ferdinand von Richthofen, some two thousand years after the traffic began, and it is misleading twice over: it was not one road, and silk was only a fraction of what moved along it.
 

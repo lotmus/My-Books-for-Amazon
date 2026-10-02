@@ -1,4 +1,4 @@
-## Chapter 22: Genius and Catastrophe — Great Countries, Terrible Decades
+## The Twentieth Century: Genius and Catastrophe — Great Countries, Terrible Decades
 
 Dolphin historians keep a particular file. It is thick, it is easy to add to, and it sits under a heading they would rather not have needed: countries that had every advantage a civilization can have, and handed themselves to a dictator anyway.
 

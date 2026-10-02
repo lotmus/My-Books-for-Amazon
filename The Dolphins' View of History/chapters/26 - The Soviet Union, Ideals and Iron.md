@@ -1,4 +1,4 @@
-## Chapter 26: The Soviet Union, Ideals and Iron
+## 1917–1991: The Soviet Union, Ideals and Iron
 
 Pre-revolutionary Russia supplied its own share of this book's genius, independent of anything that came after it: Tolstoy and Dostoevsky in literature, Tchaikovsky in music, Mendeleev's periodic table of the elements in 1869, all produced under a czarist autocracy that gave its own population little say in how it was ruled.
 

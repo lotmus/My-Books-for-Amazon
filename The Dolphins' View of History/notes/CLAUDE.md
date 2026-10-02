@@ -52,9 +52,9 @@ touching, say so and wait to be asked — don't go do it.
     Life*). Keep it in step with his other books.
   - Appendix "What the Physics Is For — An Appendix on Uses and the One
     Theory Not Yet Found" (2026-10-01) holds the two essay sections that
-    used to close Chapter 31 ("What the physics is for", "One theory, not
-    yet"); Chapter 31 now ends on a one-line pointer and its verdict. It
-    has an `.md` counterpart in `chapters/`. The `.md` Chapter 31 still
+    used to close the physics chapter ("What the physics is for", "One theory, not
+    yet"); the physics chapter now ends on a one-line pointer and its verdict. It
+    has an `.md` counterpart in `chapters/`. The `.md` physics chapter still
     carries two sections the build never had ("The rest of the ledger",
     "The outlook, without a trumpet"); Lothar decides whether they go into
     the build or are cut.
@@ -66,7 +66,7 @@ touching, say so and wait to be asked — don't go do it.
     then two new eras, "The Near Future" and "The Far Future," extending it
     out to the heat death of the universe — sourced from Wikipedia's
     Timeline of the far future, 3rd millennium, and Anthropocene articles.
-  - Chapter 41 ("Half the World, All the Time") and the Prologue's ancestor
+  - The "Half the World, All the Time" chapter (file 41) and the Prologue's ancestor
     passages (Pakicetus/Ambulocetus/the hippo connection, the primate
     lineage) are confirmed in sync across both tracks and rebuilt as of
     2026-09-27; `chapters/*.docx` is current for every chapter including 41.

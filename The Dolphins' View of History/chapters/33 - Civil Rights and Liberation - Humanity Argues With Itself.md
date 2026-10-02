@@ -1,4 +1,4 @@
-## Chapter 33: Civil Rights and Liberation — Humanity Argues With Itself
+## 1893 to 1994: Civil Rights and Liberation — Humanity Argues With Itself
 
 Unlike most of the conflicts in this book, the campaigns in this chapter were mostly won without an army, by changing what a majority of people believed they owed to a minority — proof, dolphin historians note with evident approval, that this species can update its own rules without a battlefield, slowly and unevenly, but without one.
 

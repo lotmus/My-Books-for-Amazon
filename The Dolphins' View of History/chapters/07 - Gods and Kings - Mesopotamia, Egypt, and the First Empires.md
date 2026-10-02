@@ -1,4 +1,4 @@
-## Chapter 7: Gods and Kings — Mesopotamia, Egypt, and the First Empires
+## The Bronze Age, 3100–1150 BCE: Gods and Kings — Mesopotamia, Egypt, and the First Empires
 
 Writing gave surplus a memory. This chapter is about what surplus, once remembered and counted, could buy: organized power over other people, at a scale no band or village ever needed.
 

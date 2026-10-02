@@ -1,4 +1,4 @@
-## Chapter 31: The Physics That Finally Made Sense to Someone
+## 1905 Onward: The Physics That Finally Made Sense to Someone
 
 Twentieth-century physics produced a run of ideas famous for striking humans as bizarre on first contact. Dolphin scholarship, reviewing the same list, keeps having a different reaction: this looks familiar.
 

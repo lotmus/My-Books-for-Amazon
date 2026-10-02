@@ -1,4 +1,4 @@
-## Chapter 5: The First Villages — Agriculture and the End of Wandering
+## The Neolithic, from 10,000 BCE: The First Villages — Agriculture and the End of Wandering
 
 For nearly all of Homo sapiens' existence, there was no such thing as home in the modern sense — only a range, walked and re-walked with the seasons.
 

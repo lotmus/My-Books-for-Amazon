@@ -1,4 +1,4 @@
-## Chapter 8: The Middle Kingdom — China's Long Civilization
+## 1600 BCE to 589 CE: The Middle Kingdom — China's Long Civilization
 
 While Mesopotamia and Egypt built the pattern of god-king and bureaucracy, a separate civilization was assembling its own version, with no contact between them at all, along the Yellow and Yangtze rivers.
 

@@ -1,4 +1,4 @@
-## Chapter 17: Ships, Gunpowder, and Gold — Exploration, Conquest, and the Colonial Age
+## The 15th to 17th Centuries: Ships, Gunpowder, and Gold — Exploration, Conquest, and the Colonial Age
 
 Dolphins want one point on the record before this chapter starts: humans did not invent the ocean crossing. An earlier chapter already covered the settling of Australia by boat, tens of thousands of years earlier. Polynesian navigators crossed thousands of miles of open Pacific and settled Hawaii, New Zealand, and Rapa Nui using only stars, swells, and memorized wave patterns, centuries before the ships in this chapter set sail. Norse sailors reached North America around 1000 CE, roughly five hundred years ahead of the more famous version of the story.
 

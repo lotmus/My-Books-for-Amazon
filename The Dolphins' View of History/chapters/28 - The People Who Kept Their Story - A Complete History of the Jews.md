@@ -1,4 +1,4 @@
-## Chapter 28: The People Who Kept Their Story — A Complete History of the Jews
+## The 13th Century BCE to 1948 CE: The People Who Kept Their Story — A Complete History of the Jews
 
 Most peoples in this book are attached to dolphin scholarship through a place: Sumer's rivers, Rome's roads, China's dynasties. This chapter is about a people the dolphins learned to track a different way, because for most of their history they were not reliably attached to any one place at all.
 

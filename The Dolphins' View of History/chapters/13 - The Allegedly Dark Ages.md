@@ -1,4 +1,4 @@
-## Chapter 13: The Allegedly Dark Ages
+## The Early Middle Ages, 476–1000 CE: The Allegedly Dark Ages
 
 After the fall of Rome, Europe fragmented into smaller kingdoms.
 
