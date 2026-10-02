@@ -61,9 +61,16 @@ touching, say so and wait to be asked — don't go do it.
 - **American English only** — a prior full-book audit already fixed stray
   British spellings (colour → color, catalogued → cataloged, etc.); don't
   reintroduce them.
-- The two old freeform `.txt` files at root (`A Dolphin's History of
+- The two old freeform `.txt` files (`A Dolphin's History of
   Humanity .txt`, `The dolphins' view of history.txt`, dated mid-September,
-  before the chapter split) are early drafts/notes, not live content — read
-  for context only, don't restyle or merge them back in unasked.
+  before the chapter split) are early drafts/notes, not live content. Since
+  2026-10-01 they live in `bak/early drafts (Sep 2026)/` — read for context
+  only, don't restyle or merge them back in unasked.
+- Housekeeping 2026-10-01: the old Sep 20–23 chapter builds that sat at the
+  top level (with two competing numberings) are in
+  `bak/old root chapter builds (Sep 20-23)/`; `chapters/*.docx` is the only
+  live per-chapter output. One-off porting scraps (`_port_missing.js`,
+  `_africa_rich.md`, `_america_19.md`, `_america_later.md`) are in
+  `bak/scratch 2026-10-01/`. `bak/` is gitignored.
 - Build/deps: `node _generate.js` (only dependency is `docx`;
   `node_modules/` is already present).

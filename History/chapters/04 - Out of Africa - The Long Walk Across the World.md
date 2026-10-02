@@ -24,7 +24,7 @@ Within a stretch of time that is a blink by the dolphins' calendar — well unde
 
 No other land mammal had ever done this, and no ocean-going mammal had needed to; dolphins had held the whole map for ages, they had simply never needed to plant a flag on any of it.
 
-In the intervals between all this walking, humans made stone tools, hunted, presumably argued with the neighbors, and drew surprisingly good pictures on cave walls; the oldest figurative paintings yet dated, in caves in Indonesia, are more than forty thousand years old.
+In the intervals between all this walking, humans made stone tools, hunted, presumably argued with the neighbors, and drew surprisingly good pictures on cave walls; the oldest figurative painting yet dated, a scene of people and a pig in a cave on the Indonesian island of Sulawesi, is at least 51,000 years old.
 
 *“At this stage,” dolphin historians observed, “they were reasonably harmless. We would like it recorded that we said ‘at this stage.’”*
 

@@ -42,4 +42,4 @@ In 2014 Russia took Crimea from Ukraine and started a war in the Donbas that it 
 
 **Dolphin verdict:**
 
-*Six case studies in this part of the book now, six different repair times, one identical warning label on the front of the box. The Soviet Union's ideals and its iron never fully separated the way they did in postwar Germany, Japan, and Italy — the correction here took until 1991, arrived from within instead of from defeat, and even then left plenty unresolved for the chapters that follow.*
+*Five case studies in this part of the book now, five different repair times, one identical warning label on the front of the box. The Soviet Union's ideals and its iron never fully separated the way they did in postwar Germany, Japan, and Italy — the correction here took until 1991, arrived from within instead of from defeat, and even then left plenty unresolved for the chapters that follow.*

@@ -10,7 +10,7 @@ The paperback trim in the file is 5.5 by 8.5 inches, with a half-inch gutter and
 
 `build_docx.js` builds the earlier, shorter draft and writes `Protocol_Flamingo_script_draft.docx`. Running it must not replace Rev2.
 
-`Protocol_Flamingo_Rev1.docx` is an older file. `bak/` is a snapshot. Neither is the live book.
+`Protocol_Flamingo_Rev1.docx` (older) now sits in `bak/superseded/`. `bak/` holds snapshots and scratch scripts; none of it is the live book. `bak/` is gitignored.
 
 ## Session of 1 Oct 2026 (owner: the single session that also has RIB Book 1 and the Tower)
 
@@ -28,6 +28,15 @@ That session does no git; Lothar syncs separately. The pre-edit file is backed u
 - Verified: zip is clean, 376 paragraphs, all 18 hyperlinks, section properties intact.
 
 For Lothar: no real total solar eclipse crosses Texas in late 2026. The real 2026 eclipse is 12 August (Greenland, Iceland, Spain). The book says "this year", so either keep the eclipse as invented, or move the story year.
+
+## Light pass, 1 Oct 2026 evening (tidy + audit session)
+
+Pre-edit copies: `bak/2026-10-01 pre-lightpass backup/`. Word count unchanged, 26,647.
+
+- Tidy: `Protocol_Flamingo_Rev1.docx` moved to `bak/superseded/`; the scratch scripts `_gap.js` and `_pages.js` moved to `bak/scratch 2026-10-01/`. Nothing deleted. `build_docx.js` and `node_modules/` stay (the script still builds the earlier draft only; it must not replace Rev2).
+- Fix: "pencilled" became "penciled" (Chapter V diner; American spelling). Edited in `word/document.xml` only; zip, paragraph count (376) and links unchanged.
+- Checked and left: front matter, series line, Also by page and About the Author agree with `KDP_LISTING.md` (The Invasion Storybooks, Book 1, George Herbert Fontaine). The KDP description matches the book (six people drop phones, eleven seconds, eighty seconds of the water tower, "the committee has been meeting since 1947", Starfall two weeks out). Spell check found no other typos.
+- Still open for Lothar: the late-2026 Texas total eclipse is invented (see above). The listing calls the book a novella (26,647 words is novella length); decide whether to sell it as a novel.
 
 ## Git
 

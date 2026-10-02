@@ -23,3 +23,6 @@ node_modules/
 /junk/
 # Local-only draft snapshots, kept on disk but not tracked
 /Lolly Wren's Curious Science Adventures - SERIES/English/drafts/*_BEFORE_*.docx
+
+# Per-book backup/leftover folders (move, never delete; not tracked)
+bak/

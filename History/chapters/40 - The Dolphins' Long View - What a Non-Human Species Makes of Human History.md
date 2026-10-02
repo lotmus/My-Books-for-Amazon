@@ -6,9 +6,9 @@ The evidence, gathered across every chapter since, does not overturn the claim. 
 
 Fire and stone tools turned a clever ape into a fed, warmed, and organized one. Writing let that organization survive the death of everyone who built it. Farming, kingship, and bureaucracy turned organization into scale. None of these tools carried any built-in instruction about what they should be used for, and humans used every one of them for both extraordinary construction and extraordinary harm, frequently within the same generation, sometimes within the same decade.
 
-Sumer's first empire and Hammurabi's public law arrived alongside the first standing armies. Rome's roads and aqueducts arrived alongside the loss of a republic's own self-government. The printing press, the steam engine, and the Enlightenment's own reasoned case for human rights arrived within a century and a half of a European war that killed ten million people over a few hundred yards of mud.
+Sumer's first empire and Hammurabi's public law arrived alongside the first standing armies. Rome's roads and aqueducts arrived alongside the loss of a republic's own self-government. The steam engine and the Enlightenment's own reasoned case for human rights arrived within a century and a half of a European war that killed ten million people over a few hundred yards of mud.
 
-The six genius-and-catastrophe case studies, Germany, Japan, Italy, Spain, the Soviet Union, and China, made the pattern impossible to mistake for a defect in any one people or culture. Each nation brought a real and often ancient cultural inheritance to the twentieth century. Each one turned that inheritance's tools toward dictatorship and, in most cases, mass killing. Each one, on a different clock, ranging from Italy's twenty-one years to Spain's nearly four decades to the Soviet Union's close to seventy, eventually corrected course, or in China's case corrected only part of it.
+The six genius-and-catastrophe case studies, Germany, Japan, Italy, Spain, the Soviet Union, and China, made the pattern impossible to mistake for a defect in any one people or culture. Each nation brought a real and often ancient cultural inheritance to the twentieth century. Each one turned that inheritance's tools toward dictatorship and, in most cases, mass killing. Each one, on a different clock, ranging from Germany's twelve years and Italy's twenty-one to Spain's nearly four decades to the Soviet Union's close to seventy, eventually corrected course, or in China's case corrected only part of it.
 
 The chapters since have shown the same pattern still running, just with better tools: a nuclear standoff the two powers holding it, remarkably, chose not to fire; movements that changed a society's own rules about who belonged in it without a battlefield; a communications network that delivered more human connection and more human manipulation in the same decade, through the same wires; and a climate emergency whose physics nobody disputes and whose response, as this chapter is being written, nobody has yet matched to the scale of the problem.
 
@@ -36,7 +36,7 @@ It has, to be fair, sometimes arrived on time, and dolphin historians keep a sho
 
 *Professor Click-Click-Whoosh has added, in the margin: “See me.”*
 
-The story is not finished. Two branch points, arriving at the same time, may be the strangest ones yet, and dolphin scholarship has assigned them the book's final chapter.
+The story is not finished. Two branch points, arriving at the same time, may be the strangest ones yet, and dolphin scholarship has assigned them the book's epilogue.
 
 **Dolphin verdict:**
 

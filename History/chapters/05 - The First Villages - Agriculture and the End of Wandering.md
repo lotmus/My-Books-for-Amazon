@@ -6,9 +6,9 @@ That changed, independently, in several places at once, starting around 10,000 B
 
 The story is not quite as tidy as fields first, temples later. At Göbekli Tepe in southeastern Turkey, hunter-gatherers who had not yet domesticated a single crop raised rings of carved limestone pillars, some weighing many tons, around 9600 BCE, more than a thousand years before farming is currently dated in the same region. Whether feeding the crowds who gathered to build it helped tip the balance toward planting deliberately, reversing the usual story in which farming comes first and temples follow, is a question archaeologists have not settled.
 
-Rice was domesticated separately in China by roughly 8,000 BCE. Maize, beans, and squash came together in Mesoamerica. Yams and taro were domesticated in New Guinea. None of these groups had contact with each other. All arrived, on their own clocks, at the same idea.
+Rice was domesticated separately in China, starting by roughly 8000 BCE. Maize, beans, and squash came together in Mesoamerica. Yams and taro were domesticated in New Guinea. None of these groups had contact with each other. All arrived, on their own clocks, at the same idea.
 
-One domestication in this chapter predates all of them and involved no crop whatsoever. Wolves and humans had struck their own bargain some 15,000 years ago, well before the first wheat was ever planted on purpose, arriving uninvited to a chapter otherwise about fields and grain as proof that not every alliance in this book needed a harvest to get started.
+One domestication in this chapter predates all of them and involved no crop whatsoever. Wolves and humans had struck their own bargain at least 15,000 years ago, well before the first wheat was ever planted on purpose, arriving uninvited to a chapter otherwise about fields and grain as proof that not every alliance in this book needed a harvest to get started.
 
 The idea, in full, was: stop following the food, and make the food follow you instead.
 
@@ -22,7 +22,7 @@ Surplus grain could be stored, which meant it could also be measured, taxed, sto
 
 Farming went on to create cities, governments, armies, taxes, and, inevitably, accountants, and it gave the species a new and lasting hobby: from this point forward, humans would spend enormous energy arguing over lines on maps.
 
-Villages appeared where surplus made them possible. Çatalhöyük in Anatolia, occupied from about 7,500 BCE, housed several thousand people in mudbrick homes packed so tightly that residents entered through the roof.
+Villages appeared where surplus made them possible. Çatalhöyük in Anatolia, occupied from about 7500 BCE, housed several thousand people in mudbrick homes packed so tightly that residents entered through the roof.
 
 The trade-offs were real, and dolphin historians insist on stating them plainly rather than skipping straight to the population boom. Skeletal evidence from early farming communities generally shows shorter stature, worse teeth, and more infectious disease than the hunter-gatherer populations that came before, likely from a narrower diet and closer contact with penned animals and each other.
 

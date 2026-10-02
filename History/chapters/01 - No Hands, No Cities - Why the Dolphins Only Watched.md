@@ -2,7 +2,7 @@
 
 By any fair measure, dolphins are not history's dim supporting cast.
 
-Their brains, relative to body size, rank close behind humans and above every great ape. Some measures of the ratio put bottlenose dolphins ahead of chimpanzees.
+Their brains, relative to body size, rank close behind humans and above every great ape. On the usual yardstick, the encephalization quotient, a bottlenose dolphin scores a little over 4 and a chimpanzee about 2.5. Only humans, at about 7, score higher.
 
 They call each other by name. Each dolphin develops a signature whistle in its first year of life, and other dolphins use it to address that individual specifically, even years apart.
 

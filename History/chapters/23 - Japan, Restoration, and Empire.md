@@ -18,7 +18,7 @@ The Pacific War that followed the December 1941 attack on Pearl Harbor asked mor
 
 The war ended in August 1945 with atomic bombs dropped on Hiroshima and Nagasaki, the only use of nuclear weapons in warfare in this book, or in human history to date, and Japan's unconditional surrender days later.
 
-What followed was postwar Japan's own version of the turn this part of the book keeps tracking. A new constitution, drafted under American occupation and adopted in 1947, renounced war as a sovereign right and, in its text, the maintenance of war potential, leaving Japan with self-defense forces only. The country rebuilt instead into an economic power, and did so within the same one-generation timescale it had once used to build an empire.
+What followed was postwar Japan's own version of the turn this part of the book keeps tracking. A new constitution, drafted under American occupation and in force from May 1947, renounced war as a sovereign right and, in its text, the maintenance of war potential, leaving Japan with self-defense forces only. The country rebuilt instead into an economic power, and did so within the same one-generation timescale it had once used to build an empire.
 
 **Dolphin verdict:**
 

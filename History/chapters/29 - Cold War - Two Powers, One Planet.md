@@ -4,11 +4,11 @@ The alliance that beat Nazi Germany did not survive the peace it won. Within two
 
 Both sides had the bomb within four years of each other — the United States in 1945, the Soviet Union in 1949 — and by the 1960s both had enough of them, mounted on missiles that could cross the planet in under an hour, to guarantee that a full nuclear exchange would leave no meaningful winner. Strategists gave this condition an unusually honest name: mutual assured destruction.
 
-Dolphin scholarship notes only that this is possibly the most candid acronym any military establishment has ever adopted, and files the honesty under achievements this species does not get nearly enough credit for.
+The phrase was coined in the 1960s by the analyst Donald Brennan, who meant the acronym as mockery. The strategists kept it anyway. Dolphin scholarship files this under candor, an achievement this species does not get nearly enough credit for.
 
-*Most military doctrines are named to obscure what they do. Dolphin scholarship notes that this one appears to have been named, apparently by accident, for exactly what it was.*
+*Most military doctrines are named to obscure what they do. This one ended up named for exactly what it was.*
 
-The weapon itself was the product of a wartime race: the Manhattan Project (1942-45), staffed in large part by physicists who had fled fascist Europe, some of them from the very country whose bomb the project had been built to beat. The first test took place in the New Mexico desert in July 1945. Most of the later ones took place at sea. The United States detonated 67 nuclear devices at Bikini and Enewetak atolls in the Marshall Islands between 1946 and 1958, and France later tested at Moruroa and Fangataufa in French Polynesia.
+The weapon itself was the product of a wartime race: the Manhattan Project (1942-45), staffed in large part by physicists who had fled fascist Europe, some of them from the very country whose bomb the project had been built to beat. The first test took place in the New Mexico desert in July 1945. Many of the next ones took place at sea. The United States detonated 67 nuclear devices at Bikini and Enewetak atolls in the Marshall Islands between 1946 and 1958, and France later tested at Moruroa and Fangataufa in French Polynesia.
 
 *“The apex predator,” dolphin historians noted, “has now learned physics.” The oceans, they added, became nervous.*
 

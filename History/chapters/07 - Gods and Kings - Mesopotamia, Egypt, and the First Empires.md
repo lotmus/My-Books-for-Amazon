@@ -18,7 +18,7 @@ It should be said that the pyramids were not, as legend has it, built by slaves.
 
 Around 1754 BCE, the Babylonian king Hammurabi issued a code of nearly 300 laws, carved into a stone stele and set up in public. Its “eye for an eye” reputation obscures the more significant part: a ruler publishing his laws where any literate subject could check whether a judge had followed them.
 
-Almost none of this chapter could be read at all until 1799, when French soldiers in Egypt found a slab of basalt at Rosetta inscribed with the same decree in Greek, Egyptian hieroglyphs, and Egyptian demotic script. The Greek, which scholars could already read, unlocked the other two: Jean-François Champollion published the decipherment in 1822, and hieroglyphs, silent for roughly fourteen centuries, began speaking again.
+Almost none of this chapter could be read at all until 1799, when French soldiers in Egypt found a slab of dark granodiorite at Rosetta inscribed with the same decree in Greek, Egyptian hieroglyphs, and Egyptian demotic script. The Greek, which scholars could already read, unlocked the other two: Jean-François Champollion published the decipherment in 1822, and hieroglyphs, silent for roughly fourteen centuries, began speaking again.
 
 Bureaucracy, in the dry modern sense of scribes, tax rolls, and standing regulations, is not a later refinement bolted onto ancient kingship. It is what let a single ruler act at a distance, on people he would never personally meet, at all.
 

@@ -36,4 +36,4 @@ Dolphin scholarship is obliged to disclose that it has not read any of the follo
 
 **1066 and All That, by W. C. Sellar and R. J. Yeatman (1930). **The British comic history, and the model for treating the past with affection and no respect. The dolphins consider it the most honest history in this list.
 
-**The Hitchhiker's Guide to the Galaxy, by Douglas Adams (1979). **For the other dolphins, and for the general approach to explaining everything. The dolphins appear in the fourth book of the series, So Long, and Thanks for All the Fish (1984). The dolphins here wish it noted that they are not the same dolphins.
+**The Hitchhiker's Guide to the Galaxy, by Douglas Adams (1979). **For the other dolphins, and for the general approach to explaining everything. The dolphins' farewell gives the fourth book of the series its title, So Long, and Thanks for All the Fish (1984). The dolphins here wish it noted that they are not the same dolphins.

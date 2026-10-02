@@ -1,6 +1,6 @@
 ## Chapter 21: Home by Christmas — The First World War
 
-On June 28, 1914, a nineteen-year-old Bosnian Serb named Gavrilo Princip, whose group had already failed once that morning, found himself outside a delicatessen in Sarajevo when the car of Archduke Franz Ferdinand of Austria-Hungary took a wrong turn and stopped in front of him. By the popular account he was buying a sandwich. He shot the Archduke and his wife, Sophie, and began, without quite intending it, the First World War.
+On June 28, 1914, a nineteen-year-old Bosnian Serb named Gavrilo Princip, whose group had already failed once that morning, found himself outside a delicatessen in Sarajevo when the car of Archduke Franz Ferdinand of Austria-Hungary took a wrong turn and stopped in front of him. A popular modern story has him buying a sandwich; no contemporary source says so. He shot the Archduke and his wife, Sophie, and began, without quite intending it, the First World War.
 
 What followed was a chain reaction so mechanical that historians still argue about whether anyone could have stopped it. Austria-Hungary blamed Serbia, Russia backed Serbia, Germany backed Austria-Hungary, France backed Russia, and Britain, which had promised to defend Belgium's neutrality, joined in after Germany marched through Belgium. Within weeks, nearly every great power in Europe was at war, and virtually everyone expected it to be short. The Kaiser told his departing troops that they would be home before the leaves fell. In Britain the phrase was over by Christmas.
 

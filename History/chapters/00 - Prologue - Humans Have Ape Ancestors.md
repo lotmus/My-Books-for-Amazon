@@ -34,7 +34,7 @@ Dolphin scholarship is willing to name names on the way. The fossil record calls
 
 While the dolphin line was finishing that trade, on the other side of the world, a different set of mammals was still in the trees — and had wasted no time getting there. The first small, tree-dwelling creature recognizable as a primate shows up in the fossil record a little over sixty million years ago, a few million years after the asteroid: on a timescale of tens of millions of years, essentially the same week. Dolphin scholarship notes this is a very fast start for a family that would go on to need another sixty million years just to invent the wheel.
 
-That lineage kept branching the whole time — early monkeys, then apes, then bigger apes — with taxonomists ending up needing five separate, confusingly similar Latin names (Hominoidea, Hominidae, Homininae, Hominini, Hominina) in order to track the last fifteen million years of it. Dolphin scholarship has read all five definitions and offers this summary free of charge: more apes, slightly different apes, repeatedly, for a very long time.
+That lineage kept branching the whole time — early monkeys, then apes, then bigger apes — with taxonomists ending up needing five separate, confusingly similar Latin names (Hominoidea, Hominidae, Homininae, Hominini, Hominina) in order to track the last twenty-five million years or so of it. Dolphin scholarship has read all five definitions and offers this summary free of charge: more apes, slightly different apes, repeatedly, for a very long time.
 
 About six or seven million years ago, in the forests and grasslands of Africa, one population of apes split into two.
 

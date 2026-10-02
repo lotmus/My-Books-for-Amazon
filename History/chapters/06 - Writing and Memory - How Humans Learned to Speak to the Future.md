@@ -4,7 +4,7 @@ For every chapter so far, dolphin historians have had to reconstruct human behav
 
 This is the chapter where the sources start talking back.
 
-Writing appears in Sumer, in southern Mesopotamia, by around 3,200 BCE, in the form of cuneiform: wedge-shaped marks pressed into wet clay with a cut reed. Egyptian hieroglyphs emerge at almost the same time, likely independently.
+Writing appears in Sumer, in southern Mesopotamia, by around 3200 BCE, in the form of cuneiform: wedge-shaped marks pressed into wet clay with a cut reed. Egyptian hieroglyphs emerge at almost the same time, likely independently.
 
 Neither system started as literature. The earliest Sumerian tablets are receipts: so many sheep, so much grain, so much beer, owed to or by so-and-so.
 

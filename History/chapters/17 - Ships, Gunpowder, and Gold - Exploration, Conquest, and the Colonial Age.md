@@ -12,7 +12,7 @@ Portugal did the patient groundwork first. Prince Henry the Navigator sponsored 
 
 England arrived late and, for its first century in the race, unsuccessfully. John Cabot, another Italian navigator, reached the coast of North America sailing for England in 1497, but no sustained English colony followed for over a hundred years; Roanoke, planted in 1587, disappeared entirely and was never explained. England's real entry came in the following century instead: the East India Company, chartered in 1600, and the Jamestown colony, founded in 1607, both starting small and unglamorous next to Spain's silver and Portugal's spice routes. Within three centuries, the empire built from those two unpromising beginnings would eclipse both.
 
-Gunpowder, invented in China centuries earlier, had by this point been adapted into cannon and firearms that gave technologically organized states a decisive edge over societies without them — historians group Spain, Portugal, and later England, France, and others, among a set of “gunpowder empires” for exactly this reason.
+Gunpowder, invented in China centuries earlier, had by this point been adapted into cannon and firearms that gave technologically organized states a decisive edge over societies without them. Historians coined the term “gunpowder empires” for the Ottoman, Safavid, and Mughal states, which rose on exactly this advantage; Spain, Portugal, and later England and France ran the same arithmetic, carried by ship.
 
 *“The Chinese,” dolphin historians noted, “repeatedly invent revolutionary technologies — paper, printing, the compass, gunpowder — and then watch other humans put them to work in wars.”*
 
