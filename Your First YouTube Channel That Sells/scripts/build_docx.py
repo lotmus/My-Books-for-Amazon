@@ -11,7 +11,7 @@ from docx.oxml.ns import qn
 from docx.shared import Inches, Pt, RGBColor, Twips
 from docx.text.paragraph import Paragraph
 
-ROOT = Path(__file__).parent
+ROOT = Path(__file__).resolve().parent.parent  # scripts\ -> book root
 FIG = ROOT / "figures"
 ORDER = [
     (1, ROOT / "manuscript" / "Sell One Thing.md"),
@@ -512,19 +512,19 @@ START = [
 ]
 
 SOURCES = [
-    "These notes support the claims in the chapters. Planning methods, worksheets, and creator-consensus tactics are editorial guidance, not platform requirements. The sample conversion figures are arithmetic placeholders, not measured rates. Accessed September 2026.",
+    "These notes support the claims in the chapters. Planning methods, worksheets, and creator-consensus tactics are editorial guidance, not platform requirements. The sample conversion figures are arithmetic placeholders, not measured rates. Pages accessed September and October 2026. YouTube’s monetization and AI-disclosure pages were rechecked on 1 October 2026.",
     "*Chapters 1, 4, and 6 through 9 are a selling path: one offer, eight videos, a six-week calendar, wording, a workbook, and a diagnosis when nothing sells. They state no ranking formula.*",
     "*Chapter 2. Title, description, and tag limits, captions, thumbnails, the title-and-thumbnail test, audience retention, recommendation signals, the recommendation system, Shorts discovery, Shorts analytics, and series playlists are cited to YouTube’s own help pages in the chapter. The eight jobs are the only production load in this book. YouTube does not publish that set as a quota. Four of them have to be long videos, because a Short cannot carry the link. Advertiser-friendly guidelines are cited for the existence of a sensitive-content category. The exact words that trigger it are not published.*",
     "*Chapter 3. Tool names and URLs come from working bookmark lists. Export bitrates, codec, and sample rate are YouTube’s recommended upload encoding settings. The Audio Library location is YouTube’s own help page. A higher-resolution upload getting a better playback encode is creator talk, and the chapter says so. Pricing, licenses, and features change. Specific personal projects were not used.*",
-    "*Chapter 5. YouTube Partner Program requirements were checked against YouTube’s own monetization guidance. Other platforms on the list were checked against the linked help page in September 2026. Instagram, Dailymotion, and Vimeo have no number in the chapter. One URL, repeated, is the rule. The FTC pages are US guidance.*",
+    "*Chapter 5. YouTube Partner Program requirements, including the changes that take effect on 1 February 2027, were checked against YouTube’s own monetization guidance and its August 2026 announcement on 1 October 2026. Other platforms on the list were checked against the linked help page in September 2026. Instagram, Dailymotion, and Vimeo have no number in the chapter. One URL, repeated, is the rule. The FTC pages are US guidance.*",
     "*Chapter 10. Video chapter rules and end screen timing are cited to YouTube’s own help pages in the chapter. The speaking-rate range is a planning guess to replace with your own timed reading. That viewers forgive picture before sound is creator consensus, and the chapter says so.*",
     "*Chapter 11. Impression counting, the 2%–10% click-through band, traffic source definitions, and the August 24, 2026 change to when a view is counted are cited to YouTube’s Analytics help pages. Link tags beginning with utm_ are a common convention, not a YouTube feature. The worked example is invented arithmetic. Checked October 2026.*",
-    "*Chapter 12. Warnings, strikes, copyright removal, Content ID claims, paid promotion, AI use disclosure, made-for-kids features, and the spam, fake engagement, and external links policies are cited to YouTube’s own help pages and blog in the chapter. Checked October 2026. Not legal advice.*",
+    "*Chapter 12. Warnings, strikes, copyright removal, Content ID claims, paid promotion, AI use disclosure, made-for-kids features, the spam, fake engagement, and external links policies, and the inauthentic-content and AI-persona monetization rules are cited to YouTube’s own help pages and blog in the chapter. Checked October 2026. Not legal advice.*",
     "Independent guide. Not affiliated with or endorsed by YouTube or any other platform named here. Not legal or tax advice. Check current official terms before acting.",
     "Pages cited in the chapters, so you can open them:",
     "[YouTube recommended upload encoding settings](https://support.google.com/youtube/answer/1722171) — bitrate, H.264, AAC-LC, 48 kHz.",
     "[YouTube Audio Library](https://support.google.com/youtube/answer/3376882) — where the library lives, and that its tracks are the ones YouTube calls copyright-safe.",
-    "[YouTube Partner Program eligibility](https://support.google.com/youtube/answer/72851), [monetization products](https://support.google.com/youtube/answer/94522), [which links are clickable](https://support.google.com/youtube/answer/13748639), [cards](https://support.google.com/youtube/answer/6140493), [end screens](https://support.google.com/youtube/answer/6388789).",
+    "[YouTube Partner Program eligibility](https://support.google.com/youtube/answer/72851), [2027 Partner Program changes](https://blog.youtube/news-and-events/youtube-partner-program-updates-2027-new-opportunities-earn/), [Shorts monetization policies](https://support.google.com/youtube/answer/12504220), [partner earnings overview](https://support.google.com/youtube/answer/72902), [channel monetization policies](https://support.google.com/youtube/answer/1311392), [monetization products](https://support.google.com/youtube/answer/94522), [which links are clickable](https://support.google.com/youtube/answer/13748639), [cards](https://support.google.com/youtube/answer/6140493), [end screens](https://support.google.com/youtube/answer/6388789).",
     "[Instagram, editing your profile](https://help.instagram.com/936495066470190/) — lists adding a website to the profile. [Instagram link sticker](https://help.instagram.com/192168966243613) — a sticker on an organic Story can send a tap to a website.",
     "[TikTok, adding a website to your profile](https://support.tiktok.com/en/getting-started/setting-up-your-profile/adding-a-website-to-your-profile) — whether the control appears is on that page.",
     "[FTC Endorsement Guides, 16 CFR Part 255](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255) and [Disclosures 101 for Social Media Influencers](https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers).",
@@ -542,7 +542,9 @@ GLOSSARY = [
     ("Advanced features", "The Studio switch that makes an address in a long-form description, and in a long-form comment, clickable. Phone verification comes first. A Short’s description and comments stay unclickable after it is on."),
     ("Qualified watch hours", "Public long-form viewing that YouTube counts toward the hour bars. Hours watched in the Shorts feed do not count. Private, unlisted, deleted, and ad-campaign views do not count."),
     ("Expanded program", "In countries where YouTube has opened it, the earlier gate: 500 subscribers, three public uploads in 90 days, and either 3,000 long-form hours in a year or 3 million Shorts views in 90 days. Fan funding and Shopping. Not a share of watch-page ads."),
-    ("YouTube Partner Program", "The higher gate: 1,000 subscribers and either 4,000 long-form hours in 12 months or 10 million qualified Shorts views in 90 days. This is the gate that adds watch-page ads, Shorts Feed ads, and YouTube Premium revenue. The follower-floor chart’s YouTube bar is this gate."),
+    ("YouTube Partner Program", "The higher gate: 1,000 subscribers and either 4,000 long-form hours in 12 months or 10 million qualified Shorts views in 90 days. For channels that apply from 1 February 2027: 8,000 hours in 365 days or 20 million Shorts views in 90 days. This is the gate that adds watch-page ads, Shorts Feed ads, and YouTube Premium revenue. The follower-floor chart’s YouTube bar is this gate."),
+    ("Shorts Creator Pool", "The monthly pot of Shorts Feed ad revenue that YouTube shares out by each monetizing channel’s share of engaged Shorts views. The channel keeps 45% of its allocation. From 1 February 2027, a month counts only if the channel had 10 million qualified Shorts views in the previous 90 days."),
+    ("Inauthentic content", "YouTube’s monetization name, since July 2025, for templated, repetitive, or mass-produced videos, including generic AI-made ones. It can keep a whole channel out of the Partner Program."),
     ("End screen", "An element in the last 5 to 20 seconds of a video at least 25 seconds long. One that opens a site outside YouTube requires the Partner Program."),
     ("Info card", "A small panel attached to the video. One that opens a site outside YouTube also requires the Partner Program."),
     ("AdSense", "The Google account YouTube uses to pay a channel it has accepted. Meeting a subscriber number does not open it. You apply, and YouTube reviews the channel."),
@@ -566,9 +568,9 @@ GLOSSARY = [
     ("Copyright strike", "The result of a valid legal removal request. The video comes down. It expires 90 days after it was applied once Copyright School is done, or it can be resolved by a retraction or a counter notification."),
     ("Content ID claim", "An automatic match against a rights holder’s file. It affects that video: monetize, track, or block. It is not a strike, unless a dispute without a valid reason leads to a removal request."),
     ("Paid promotion box", "The Studio setting you tick when a company paid you or gave you the product for a video. YouTube then shows a disclosure. Say it in the video as well."),
-    ("AI use", "The upload setting for realistic content that generative AI made or meaningfully altered. Scripts, ideas, and captions made with AI do not need it."),
+    ("AI use", "The upload setting for realistic content that generative AI made or meaningfully altered, including AI-generated music. Scripts, ideas, captions, thumbnails, and a clone of your own voice do not need it."),
     ("Made for kids", "The audience setting for videos directed to children, required under US law. It turns off comments, cards, end screens, and more on those videos."),
-    ("Qualified Shorts views", "Public views of Shorts in the Shorts feed that YouTube counts toward the Shorts bars: 3 million in 90 days for the expanded program, or 10 million in 90 days for the Partner Program. They do not fill the long-form hour bars."),
+    ("Qualified Shorts views", "Public views of Shorts in the Shorts feed that YouTube counts toward the Shorts bars: 3 million in 90 days for the expanded program, or 10 million in 90 days for the Partner Program (20 million for channels applying from 1 February 2027). They do not fill the long-form hour bars."),
 ]
 
 

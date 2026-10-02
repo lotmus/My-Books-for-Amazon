@@ -6,7 +6,7 @@ Read it in this order. Write the book. Name the reader. Learn the number you kee
 
 There is one method, the keep test. Three lines. What one sale leaves you. Who the reader is, and who the reader is not. The one change you will make, and the day you will look. The four steps in the money chapter are only how you fill those three lines for a single idea. The calendars are dates on a wall. They are not a second method.
 
-Every dollar figure is marked. A teaching example is a made-up sum so you can practice the arithmetic. A platform rule is something Amazon published, checked here on 27 September 2026. Recheck the linked page before you rely on it. Nothing in this book is a promise that you will earn a stated amount.
+Every dollar figure is marked. A teaching example is a made-up sum so you can practice the arithmetic. A platform rule is something Amazon published, checked here on 1 October 2026. Recheck the linked page before you rely on it. Nothing in this book is a promise that you will earn a stated amount.
 
 ## The keep test
 
@@ -105,7 +105,7 @@ The sticker price is not your money. The number you keep is what is left after A
 
 Call that number the keep. Every later chapter uses it. A sale that looks busy and keeps thirty-five cents is a different business from a sale that keeps two dollars.
 
-On Amazon.com, as checked on 27 September 2026, the usual 70 percent ebook band is $2.99 to $12.99. Price is only one rule. Territory and other requirements matter. Read the current price page, and read the estimate in your own KDP account, before you publish. [3]
+On Amazon.com, as checked on 1 October 2026, the usual 70 percent ebook band is $2.99 to $12.99. Until 7 July 2026 the top of that band was $9.99, so older advice that tells you to stop at $9.99 is out of date. Price is only one rule. Territory and other requirements matter. Sales to readers in Brazil, Japan, Mexico, and India earn 70 percent only if the ebook is enrolled in KDP Select. Read the current price page, and read the estimate in your own KDP account, before you publish. [3] [4]
 
 For a qualifying 70 percent sale, the basic sum is:
 
@@ -113,7 +113,7 @@ For a qualifying 70 percent sale, the basic sum is:
 
 In the 35 percent option, delivery is not subtracted. [4]
 
-Amazon.com listed delivery at $0.15 per megabyte, using Amazon’s file size, not the size of the Word file on your desk. A 2 MB file is $0.30 of delivery. A picture-heavy book can be much larger. Use KDP’s estimate for the converted file.
+Amazon.com lists delivery at $0.15 per megabyte, using Amazon’s file size, not the size of the Word file on your desk. A 2 MB file is $0.30 of delivery. A picture-heavy book can be much larger. Use KDP’s estimate for the converted file.
 
 Teaching example. No tax. 2 MB file. Rounded to the nearest cent.
 
@@ -135,9 +135,9 @@ These examples have no VAT. A price that already includes VAT is a smaller base,
 
 Thirty sales at the $2.99 keep of $1.88 are about $56. Twenty-five sales at the $3.99 keep of $2.58 are about $65. Fewer sales can pay you more. You still need a fair test. Change one thing at a time. If you change the price, the cover, and the ad on Monday, you will not know which one moved the money.
 
-A paperback is a different sum. For a standard KDP paperback, you take the royalty rate times the list price, then subtract the printing cost. The print cost is not multiplied by the rate. [7]
+A paperback is a different sum. For a standard KDP paperback, you take the royalty rate times the list price, then subtract the printing cost. The print cost is not multiplied by the rate. On Amazon.com the rate is 60 percent at a list price of $9.99 or more, and 50 percent at $9.98 or less. Other marketplaces have their own dividing line. [7]
 
-Teaching example only, not a quote for your book. A $14.99 paperback at a 60 percent rate, with a $4 print cost, keeps (0.60 × $14.99) − $4, about $5.00. Your trim size, page count, and marketplace change the print cost. Use the calculator. Do not publish a paperback price you have not run through it.
+Teaching example only, not a quote for your book. A $14.99 paperback at a 60 percent rate, with a $4 print cost, keeps (0.60 × $14.99) − $4, about $5.00. The same book at $8.99 drops to the 50 percent rate and keeps (0.50 × $8.99) − $4, about $0.50. Your trim size, page count, and marketplace change the print cost. Use the calculator. Do not publish a paperback price you have not run through it.
 
 ## What you have when you finish
 
@@ -193,7 +193,7 @@ The author’s name should not be the largest words unless strangers already see
 
 Do not put a sentence on the cover that you cannot see at thumbnail size. Do not depend on a color alone to carry the meaning. The cover will be seen in gray on some devices.
 
-Keywords are the phrases a reader types. On the KDP details page you get a set of keyword boxes. Fill them with phrases, not single vague words like “book” or “fiction.” Use words a reader would type, the way June’s phrases are words from the titles in chapter 2. Do not repeat the title in every box. Do not type claims you cannot stand behind, such as “bestseller” or “guaranteed income.” If the form on the page has changed since 27 September 2026, follow the form, not this paragraph.
+Keywords are the phrases a reader types. On the KDP details page you get a set of keyword boxes. Fill them with phrases, not single vague words like “book” or “fiction.” Use words a reader would type, the way June’s phrases are words from the titles in chapter 2. Do not repeat the title in every box. Do not type claims you cannot stand behind, such as “bestseller” or “guaranteed income.” If the form on the page has changed since 1 October 2026, follow the form, not this paragraph.
 
 Categories are shelves. The biggest shelf hides a new book. Look at five books your reader already buys and note where they sit. Choose the closest true shelves KDP offers, not the most famous shelf in the store. You can ask KDP to add categories later. Ask for shelves that are true. A book in the wrong shelf gets the wrong readers, and the wrong readers do not pay twice.
 
@@ -346,7 +346,7 @@ Stop if the keep falls below the ebook keep.
 
 ## 8 Try Kindle Unlimited on purpose
 
-Select is 90 days. Page reads may pay you. The ebook stays out of other stores. You cannot lay a page read next to a $2.58 sale with the numbers in this book. The rate is in your reports. [5]
+Select is 90 days. Page reads may pay you. The ebook stays out of other stores. Amazon announces a fund each month and splits it across every page read in Kindle Unlimited. For July 2026 the fund was $67.6 million. Authors who track the payouts reported a per-page rate for that month of a little over four tenths of a cent, so a full read of a book that counts as 300 pages paid roughly $1.27. That is history, not a promise. The rate moves every month, and your own reports are the only number that counts for your book. [5] [10]
 
 Smallest version: read the terms and the renewal box, and write the end date.
 
@@ -354,9 +354,9 @@ Stop at day 90 if the page-read money is not worth the sales you gave up.
 
 ## 9 Run a short countdown, then restore the price
 
-A countdown is a visit. The everyday price is the business. A qualifying countdown can sometimes keep 70 percent below $2.99. Check the rules. [6]
+A countdown is a visit. The everyday price is the business. A countdown runs only on Amazon.com and Amazon.co.uk, only after the book has been in Select for 30 days, and for seven days at most. If the book is on the 70 percent option, it keeps 70 percent during the deal even below $2.99, with delivery still taken off. The list price must stay unchanged for 30 days before and 14 days after. [6]
 
-Smallest version: a few days, and the morning the full price returns written on the sheet.
+Smallest version: a few days, one deal in the 90-day term, and the morning the full price returns written on the sheet.
 
 Stop if you cannot name that morning, or if book two is not linked.
 
@@ -640,7 +640,7 @@ Four weeks before. Finish the edit that blocks a reader. Write the two reader se
 
 Three weeks before. Send the advance file. Fix anything the first readers cannot open. Prepare the cover only if it passes the thumbnail test.
 
-Two weeks before. Read the ebook on your phone. Check headings, pictures, and the live price rules again. Do not send a review link before reviews can be posted.
+Two weeks before. Read the ebook on your phone. Check headings, pictures, and the live price rules again. Create the KDP entries now if you have other books launching the same week, because KDP allows only two new titles per format each week. Do not send a review link before reviews can be posted.
 
 Publication week. Open the live page yourself. Check the sample, the price, and the series link. Tell people who asked. Send the store link to advance readers when a review is possible. Write what you spent and what you kept.
 
@@ -793,7 +793,9 @@ The file has to meet the Kindle Publishing Guidelines. [9] Use real headings so 
 
 Check the author name, title, subtitle, description, cover, categories, keyword boxes, countries, and price. Look at the converted file size and the royalty estimate. That estimate is the keep you should write on the sheet, in place of this book’s rounded examples, as soon as you have it.
 
-If text or images were generated and you then edited them, answer KDP’s AI question for what you actually did. Help with spelling is not the same as a generated book. [8]
+KDP asks about AI each time you publish a new book or republish an edited one. Answer for what you actually did. Amazon’s rule has two sides. If an AI tool wrote the text, made the cover or an interior picture, or did the translation, that is AI-generated, and you must say so even if you edited it heavily afterwards. If you wrote it and used a tool to check spelling, tighten sentences, or brainstorm ideas, that is AI-assisted, and you do not have to say so. Either way you are responsible for the content, including its rights. [8]
+
+Two more 2026 rules belong on the same checklist. Since 21 September 2026, KDP lets you create only two new titles per format each week: two ebooks, two paperbacks, and two hardcovers, reset every Sunday at midnight UTC. A book in three formats uses one slot in each. Editing a live book does not count. Plan the launch week around it. [11] And the DRM box now matters more. Since 20 January 2026, if you publish without DRM, a verified buyer can download the book as EPUB and PDF. Choose that on purpose. [12]
 
 Have one other person open the ebook, jump to a chapter, follow one example, and come back to the contents. Do not announce the book until that person can move through it without you in the room. A return takes the keep back.
 
@@ -805,7 +807,7 @@ Advance copy. A free book you send before publication. A review is optional. Cha
 
 Backlist. The books you already published and left on sale. Idea 20 in chapter 8.
 
-Countdown. A short, scheduled price cut that may keep the 70 percent rate below $2.99 if you qualify. Idea 9 in chapter 8. [6]
+Countdown. A short, scheduled price cut, up to seven days, for books in KDP Select on Amazon.com and Amazon.co.uk. It keeps the 70 percent rate below $2.99 if the book is on that option. Idea 9 in chapter 8. [6]
 
 Delivery. A per-megabyte charge taken off before the 70 percent cut. Not taken off in the 35 percent band. Chapter 3.
 
@@ -815,13 +817,13 @@ Keep. What one sale leaves you after the percentage and, when it applies, delive
 
 KDP Select. A 90-day enrollment. Page reads may pay you. The ebook stays exclusive to Kindle for the term. Chapter 8. [5]
 
-Seventy percent band. On Amazon.com, as checked on 27 September 2026, the usual ebook prices from $2.99 to $12.99 where a 70 percent royalty can apply. Chapter 3. [3]
+Seventy percent band. On Amazon.com, as checked on 1 October 2026, the usual ebook prices from $2.99 to $12.99 where a 70 percent royalty can apply. The top was $9.99 until 7 July 2026. Chapter 3. [3]
 
 Thumbnail test. Whether the title can be read when the cover is tiny. Chapter 5.
 
 # Official sources
 
-These links support the platform rules named above. The thirty-two ideas, the sample months, and the rounded keeps are teaching tools, not Amazon rules. Checked 27 September 2026. Look again before you publish.
+These links support the platform rules named above. The thirty-two ideas, the sample months, and the rounded keeps are teaching tools, not Amazon rules. Checked 1 October 2026. Look again before you publish.
 
 [1] Amazon KDP Customer Reviews
 https://kdp.amazon.com/en_US/help/topic/G202101910
@@ -849,6 +851,15 @@ https://kdp.amazon.com/en_US/help/topic/G200672390
 
 [9] Amazon KDP Kindle Publishing Guidelines
 https://kdp.amazon.com/en_US/help/topic/GU72M65VRFPH43L6
+
+[10] KDP Select Global Fund and All Stars Bonus Update, July 2026
+https://www.kdpcommunity.com/s/article/KDP-Select-Global-Fund-and-All-Stars-Bonus-Update---July-2026
+
+[11] Amazon KDP Create a Book (title creation limit)
+https://kdp.amazon.com/en_US/help/topic/G202172740
+
+[12] Amazon KDP Digital Rights Management
+https://kdp.amazon.com/en_US/help/topic/GDDXGH9VR22ACM8U
 
 Independent guide. Not affiliated with or endorsed by Amazon. Check the live help pages before you act.
 

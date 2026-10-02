@@ -2,7 +2,7 @@
 
 This folder is part of [lotmus/My-Books-for-Amazon](https://github.com/lotmus/My-Books-for-Amazon) on `main`. It is a normal folder, not a submodule. The private repo `lotmus/your-first-book-that-sells` only has a placeholder and an empty `First_Review_Kindle_Edition`. Do not push this book there, and do not turn this folder back into a submodule.
 
-The manuscript is `First_Review_Kindle_Edition/Your_First_Book_That_Sells_Updated.docx`. It is the plain-language edition. Read the manuscript in order. Writing is chapter 1. The keep test is at the start. The number you keep is chapter 3. Thirty-two money ideas are chapter 8. Cover, keywords, and the ad test are chapters 5 and 9. A glossary sits before the sources. Regenerate the docx only with `First_Review_Kindle_Edition/rebuild_easy.py`, which reads `easy_book.md` in that same folder. Do not run `build.py`.
+The manuscript is `First_Review_Kindle_Edition/Your_First_Book_That_Sells_Updated.docx`. It is the plain-language edition. Read the manuscript in order. Writing is chapter 1. The keep test is at the start. The number you keep is chapter 3. Thirty-two money ideas are chapter 8. Cover, keywords, and the ad test are chapters 5 and 9. A glossary sits before the sources. Regenerate the docx only with `First_Review_Kindle_Edition/rebuild_easy.py`, which reads `easy_book.md` in that same folder. The old `build.py`, the REV1–REV3 drafts, the pre-chapter-15 docx and the one-off `_*.py` scripts are in `bak\` (not tracked). The KDP listing draft is `First_Review_Kindle_Edition/KDP_Description.md`. Facts last rechecked 1 October 2026.
 
 `How to Publish and Make Good Money` is not on `main`. Do not recreate it, and do not recreate the older path `How  to  Pubish and Make Good Money`.
 

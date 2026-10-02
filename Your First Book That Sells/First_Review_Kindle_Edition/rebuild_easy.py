@@ -26,11 +26,11 @@ d.styles["Heading 2"].font.size = Pt(16)
 
 d.add_paragraph("Your First Book\nThat Sells", "Title")
 d.add_paragraph(
-    "How to Self Publish on Kindle, Attract Honest Reviews, and Build a Profitable Book Catalog",
+    "How to Self-Publish on Kindle, Attract Honest Reviews, and Build a Profitable Book Catalog",
     "Subtitle",
 )
 d.add_paragraph("A plain guide to getting paid for a book you wrote.")
-d.add_paragraph("Updated 30 September 2026")
+d.add_paragraph("Updated 1 October 2026")
 
 
 def add_pic(name, alt):
@@ -103,6 +103,9 @@ for raw in src.splitlines():
         continue
     d.add_paragraph(line.strip())
 
+d.core_properties.title = "Your First Book That Sells"
+d.core_properties.subject = "How to Self-Publish on Kindle, Attract Honest Reviews, and Build a Profitable Book Catalog"
+d.core_properties.author = "Kevin Drew Peters"
 d.save(out)
 words = sum(len(p.text.split()) for p in d.paragraphs)
 print("words", words)
