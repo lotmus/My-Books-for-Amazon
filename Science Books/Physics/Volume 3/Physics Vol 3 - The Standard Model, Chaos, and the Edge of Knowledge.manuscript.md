@@ -1,9 +1,10 @@
 # Physics, Actually
 
-**PHYSICS VOL. 3**
-*The Standard Model, Chaos, and the Edge of Knowledge*
+**Volume 3 - The Standard Model, Chaos, and the Edge of Knowledge**
 
-**Manuscript complete — 14 chapters, Prologue, Epilogue, and Appendix. Chapter illustrations are still placeholders pending final art.**
+*A Volume in the Physics, Actually Series*
+
+*Lothar J. Musiol*
 
 
 # Table of Contents
@@ -13,20 +14,23 @@
   - Chapter 1 — Nuclear Physics: The Tiny Nucleus With the Enormous Attitude
   - Chapter 2 — Neutrinos: The Particles That Refuse to Be Seen
   - Chapter 3 — The Particle Zoo and the Standard Model
-  - Chapter 4 — Symmetry: The Universe Has Rules, and It Is Suspiciously Fond of Them
-  - Chapter 5 — Semiconductors: How We Taught Matter to Think
+  - Chapter 4 — Colliders and Detectors: How to See What Nobody Can See
+  - Chapter 5 — The Strong Force: Quarks, Gluons and the Prison With No Exit
+  - Chapter 6 — The Weak Force: The Interaction That Changes What Things Are
+  - Chapter 7 — Symmetry: The Universe Has Rules, and It Is Suspiciously Fond of Them
+  - Chapter 8 — Semiconductors: How We Taught Matter to Think
 - **Part II — Complexity and the Unexpected**
-  - Chapter 6 — Entropy: Why the Universe Keeps Losing Its Socks
-  - Chapter 7 — Chaos: When Simple Laws Produce Completely Unpredictable Worlds
-  - Chapter 8 — The Vacuum: Empty Space Is Not Empty
+  - Chapter 9 — Entropy: Why the Universe Keeps Losing Its Socks
+  - Chapter 10 — Chaos: When Simple Laws Produce Completely Unpredictable Worlds
+  - Chapter 11 — The Vacuum: Empty Space Is Not Empty
 - **Part III — On the Frontier**
-  - Chapter 9 — String Theory and M-Theory: What If Particles Are Tiny Strings?
-  - Chapter 10 — Knots, Strands and One Tiny Rule: A Case Study in Speculation
-  - Chapter 11 — How Do You Know When a Crazy Idea Is Science?
+  - Chapter 12 — String Theory and M-Theory: What If Particles Are Tiny Strings?
+  - Chapter 13 — Knots, Strands and One Tiny Rule: A Case Study in Speculation
+  - Chapter 14 — How Do You Know When a Crazy Idea Is Science?
 - **Part IV — Reflections on Physics Itself**
-  - Chapter 12 — Patterns, Emergence and the Laws of Physics
-  - Chapter 13 — Analogy: How the Human Mind Finds Physics
-  - Chapter 14 — Physics, Self-Reference and the Strange Loop
+  - Chapter 15 — Patterns, Emergence and the Laws of Physics
+  - Chapter 16 — Analogy: How the Human Mind Finds Physics
+  - Chapter 17 — Physics, Self-Reference and the Strange Loop
 - Epilogue: The Edge of Knowledge Keeps Moving
 - Appendix: Core Ideas and Open Questions
 - Further Reading
@@ -46,6 +50,12 @@ For a brief, glorious moment, physics looks less like a science and more like an
 Keep reading and the oracle gets nervous. The very same Standard Model that nails the electron's magnetic moment cannot explain dark matter, dark energy, or why there are three generations of particles instead of one, or seventeen. It has no room for gravity at all.
 
 The most successful theory in the history of science is also, by its own admission, incomplete. Physics has apparently decided that being right and being finished are two different achievements.
+
+## How Anyone Could Know
+
+A prediction that precise is only as good as the measurements that check it, and the measurements are, if anything, more astonishing than the theory. Nobody has ever seen a quark, a gluon or a Higgs boson. Each of them was found with machines that throw particles at one another at nearly the speed of light, and with detectors that reconstruct, from scraps of debris, what must have happened in a region smaller than a proton.
+
+Part of this book is about those machines, and about the two forces they revealed inside the nucleus. One is so strong that it never lets its particles go, and in holding them it makes almost all of your mass. The other is so feeble at everyday energies that it lets the Sun burn slowly enough for life to evolve. Between them, they explain why matter is stable, why stars shine and why you weigh what you weigh.
 
 ## Some Certainty Is Stranger Than It Looks
 
@@ -75,6 +85,15 @@ Some of what follows is as certain as anything human beings know. Some of it is 
 
 
 # Part I — The Particle Zoo, Settled
+
+Everything in this first part has been tested so thoroughly that, if any of it turned out to be wrong, the surprise would be the biggest in the history of science. That does not make it simple. It makes it strange in a very reliable way.
+
+We start inside the nucleus, in Chapter 1, and follow the ghostly neutrino out of it in Chapter 2. Chapter 3 then lays out the full cast of the Standard Model, the particle zoo that turned out to be an ecosystem. Chapter 4 answers the question that should be nagging at any skeptical reader by then: how could anyone possibly know this? It is about the accelerators and detectors that find particles nobody can see.
+
+Chapters 5 and 6 take the two forces of the nucleus in turn. The strong force builds protons and neutrons, and with them almost all of your mass. The weak force changes one kind of particle into another, and in doing so lets the Sun shine slowly enough for life. Chapter 7 shows the principle sitting behind all of this machinery, symmetry, and Chapter 8 shows what happens when the quantum rules of matter are put to work in a crystal of silicon: the technology you are probably holding.
+
+Eight chapters, one theme. This is what is known, and how we know it.
+
 
 ## Chapter 1 — Nuclear Physics: The Tiny Nucleus With the Enormous Attitude
 
@@ -182,7 +201,7 @@ Nuclear physics therefore leads naturally toward the Standard Model. The nucleus
 
 The nucleus is almost unimaginably small. Inside it are forces strong enough to power stars and release energies capable of transforming civilization. It explains radioactivity. It explains nuclear energy.
 
-It helps explain how stars shine. And it leads directly toward QCD and the particle world. The nucleus is a tiny object with a very large opinion of itself. Unfortunately, it has the energy budget to justify the attitude.
+It helps explain how stars shine. And it leads directly toward QCD, the theory of the strong force that Chapter 5 takes apart, and the particle world. The nucleus is a tiny object with a very large opinion of itself. Unfortunately, it has the energy budget to justify the attitude.
 
 ↑ Back to Contents
 
@@ -207,7 +226,7 @@ The missing energy was a genuine crisis. In 1914 James Chadwick had shown that t
 
 In December 1930 Wolfgang Pauli, unable to attend a physics meeting in Tübingen, sent a letter addressed to "Dear Radioactive Ladies and Gentlemen." In it he proposed what he called a desperate remedy: a light, electrically neutral particle emitted together with the electron, sharing the energy in varying proportions. He was not happy about it. He is reported to have said that he had done a terrible thing, proposing a particle that could never be detected.
 
-Enrico Fermi took the idea seriously, named the particle the neutrino, Italian for "little neutral one," and in 1933 built a full theory of beta decay around it: a neutron turns into a proton, emitting an electron and an antineutrino. The journal Nature rejected his paper as too speculative. It became one of the foundations of particle physics.
+Enrico Fermi took the idea seriously, named the particle the neutrino, Italian for "little neutral one," and in 1933 built a full theory of beta decay around it: a neutron turns into a proton, emitting an electron and an antineutrino. The journal Nature rejected his paper as too speculative. It became one of the foundations of particle physics, and Chapter 6 opens up what is really happening inside a decaying neutron.
 
 ### The Ghost Is Born
 
@@ -382,13 +401,13 @@ The quantum field is the deeper framework.
 
 Gluons are the gauge bosons of QCD. There are eight gluon types in the Standard Model's color gauge structure. Unlike photons, gluons themselves carry the relevant strong-interaction charge. That means gluons can interact with other gluons.
 
-This self-interaction is one of the reasons QCD behaves so differently from electromagnetism. It is also tied to two of QCD's strangest habits: asymptotic freedom, meaning quarks act almost free of each other at extremely short range, and confinement, meaning the pull becomes unbreakable the moment you try to separate them — which is why a lone quark has never been caught wandering off on its own.
+This self-interaction is one of the reasons QCD behaves so differently from electromagnetism. It is also tied to two of QCD's strangest habits: asymptotic freedom, meaning quarks act almost free of each other at extremely short range, and confinement, meaning the pull becomes unbreakable the moment you try to separate them — which is why a lone quark has never been caught wandering off on its own. Chapter 5 is devoted to both.
 
 ### The W and Z bosons
 
 The weak interaction is carried by the W and Z bosons. The W bosons come in positively and negatively charged versions. The Z boson is electrically neutral. The weak interaction is responsible for processes in which one type of particle changes into another.
 
-It is essential to radioactive beta decay and to the nuclear reactions that power the Sun. It is called “weak” because its effective range and strength at ordinary energies are much smaller than those of the strong interaction. It is not weak in the sense of being unimportant.
+It is essential to radioactive beta decay and to the nuclear reactions that power the Sun. It is called “weak” because its effective range and strength at ordinary energies are much smaller than those of the strong interaction. It is not weak in the sense of being unimportant. Chapter 6 shows why it looks so feeble, and why, at high enough energy, it is not weak at all.
 
 ### The Higgs boson
 
@@ -408,7 +427,7 @@ The Higgs boson was never seen directly, and never will be. It lives for about 1
 
 At the Large Hadron Collider, bunches of protons cross forty million times a second, producing up to about a billion collisions per second. Only about one collision in a billion or two makes a Higgs boson, and most Higgs bosons decay into messy sprays of particles that look like ordinary collisions. One of the cleanest signatures is rare: a Higgs decaying into two high-energy photons. The experiments collected the energies and directions of photon pairs from trillions of collisions and, for each pair, calculated the mass of the particle that would have produced them. Most pairs came from ordinary processes and formed a smooth, falling background. On top of that background, near 125 billion electron volts, about 133 times the mass of a proton, a small excess appeared in both of the two large independent experiments, ATLAS and CMS.
 
-Particle physicists demand a high standard before saying "discovery": the chance that background noise alone would produce a bump at least that large must be less than about one in 3.5 million, the so-called five-sigma rule. On 4 July 2012 both experiments announced that they had reached it. Peter Higgs, who had predicted the particle in 1964, was in the audience at CERN. He and François Englert shared the Nobel Prize the following year.
+Particle physicists demand a high standard before saying "discovery": the chance that background noise alone would produce a bump at least that large must be less than about one in 3.5 million, the so-called five-sigma rule. On 4 July 2012 both experiments announced that they had reached it. Peter Higgs, who had predicted the particle in 1964, was in the audience at CERN. He and François Englert shared the Nobel Prize the following year. How a machine and a detector can find something that never reaches either is the subject of the next chapter.
 
 ### Putting the zoo into a table
 
@@ -464,12 +483,411 @@ But underneath the crowd is a remarkably elegant structure of quantum fields and
 
 It is that the particles are manifestations of a small number of underlying quantum fields and interactions. And just as Maxwell revealed that electricity, magnetism, and light were one thing, the Standard Model revealed that much of the particle zoo belongs to one coherent quantum framework. There is still a missing guest at the party. Gravity.
 
-And we already know that gravity refuses to fit neatly into the Standard Model. That is one of the great open questions in physics — a puzzle for another book entirely.
+And we already know that gravity refuses to fit neatly into the Standard Model. That is one of the great open questions in physics — one that Volume 2 explored from the side of gravity, and that this book returns to in Part III.
 
 ↑ Back to Contents
 
 
-## Chapter 4 — Symmetry: The Universe Has Rules, and It Is Suspiciously Fond of Them
+## Chapter 4 — Colliders and Detectors: How to See What Nobody Can See
+
+*[Chapter illustration]*
+
+### A Shell Bouncing Off Tissue Paper
+
+In 1909, in a darkened laboratory in Manchester, Hans Geiger and a twenty-year-old student named Ernest Marsden sat counting flashes of light. They were firing alpha particles, fast nuclei of helium thrown out by radioactive radium, at a sheet of gold foil a few thousand atoms thick. Most went straight through, as everyone expected. Each time an alpha particle struck a zinc sulfide screen it made a tiny spark, and the two men counted the sparks by eye, through a microscope, for hours at a time.
+
+Then they moved the screen around to the side of the foil, almost facing back toward the source. A few sparks appeared there too. Roughly one alpha particle in eight thousand bounced back.
+
+Ernest Rutherford, who ran the laboratory, later said it was the most incredible thing that had ever happened to him: as if you had fired a fifteen-inch artillery shell at a piece of tissue paper and it had come back and hit you. In 1911 he worked out what it meant. Almost all of an atom's mass had to be packed into a tiny, dense, positively charged core. He had discovered the nucleus, the subject of Chapter 1, by throwing things at it and watching how they bounced.
+
+That is still how particle physics works. Every result in Chapter 3, from the quark to the Higgs boson, was found the same way, with bigger projectiles and much better eyes. This chapter is about those projectiles and those eyes.
+
+### Why You Need a Bigger Hammer
+
+There are two reasons to push particles to ever higher energies, and both come straight out of physics you have already met.
+
+The first is resolution. You cannot see detail smaller than the wavelength of whatever you are looking with. Visible light, with wavelengths around half a millionth of a meter, cannot show you an atom, let alone a nucleus. Quantum mechanics says every particle has a wavelength too, and the more momentum it carries, the shorter that wavelength becomes. A fast particle is a fine probe.
+
+There is a handy rule for particles moving close to the speed of light. Their wavelength, in femtometers (a femtometer is 10⁻¹⁵ meters, about the size of a proton), is roughly 1,240 divided by their energy in millions of electron volts:
+
+wavelength ≈ 1,240 ÷ energy (wavelength in femtometers, energy in MeV)
+
+Rutherford's alpha particles, at about five to eight million electron volts and much heavier and slower than this rule assumes, could just about feel the nucleus. To resolve something the size of a proton you need around a billion electron volts. To see inside a proton, to find the quarks, you need ten or twenty times more. The smaller the thing you want to see, the bigger the hammer.
+
+The second reason is Einstein's E = mc². To make a particle, you have to supply at least its mass in energy. The Higgs boson weighs about 125 billion electron volts. The top quark weighs about 173 billion. No amount of patience with a low-energy machine will produce them. The energy has to be there, concentrated, in a single collision.
+
+### The First Atom Smashers
+
+The first machine to split a nucleus with artificially accelerated particles was built in Cambridge in 1932 by John Cockcroft and Ernest Walton. It was a tower of rectifiers and capacitors that stacked up several hundred thousand volts, enough to drive protons into a lithium target. Each lithium-7 nucleus that swallowed a proton split into two helium nuclei, releasing about 17 million electron volts, far more energy than the proton brought in. The extra came, as Chapter 1's binding-energy accounting predicts, from mass. It was the first direct laboratory check of E = mc² in a nuclear reaction, and it earned the two men a Nobel Prize.
+
+Voltage, though, runs out. Insulators break down; sparks jump. Above a few million volts, a single push becomes impractical. The way forward was to push many times.
+
+### Lawrence's Merry-Go-Round
+
+In 1931 Ernest Lawrence and his student Stanley Livingston, at Berkeley, built the first working cyclotron. It was about eleven centimeters across and fit in the palm of a hand. The idea was beautifully simple. Put two hollow, D-shaped electrodes between the poles of a magnet. A charged particle in a magnetic field travels in a circle. Every time it crosses the gap between the two Ds, an alternating voltage gives it a kick. With each kick it speeds up and swings out into a slightly larger circle, until it spirals out at the edge.
+
+The trick that makes this work is a happy accident of physics. A faster particle travels a bigger circle, and the two effects cancel exactly: the time for one lap does not depend on the speed. So the accelerating voltage can alternate at one fixed frequency. For a proton in a magnetic field of one tesla, about the strength of a powerful laboratory magnet, that frequency comes out at about fifteen million cycles per second, an ordinary radio frequency. The cyclotron is, in effect, a radio transmitter that happens to be throwing protons.
+
+Lawrence's machines grew quickly, to magnets more than a meter across and weighing hundreds of tonnes. Then they hit a wall, and the wall was relativity. As a proton approaches the speed of light, pushing it harder no longer makes it much faster; most of the extra energy goes into making it harder to accelerate. The particle starts to fall behind the fixed rhythm of the voltage, and the merry-go-round stops working. Volume 1 described why nothing with mass can reach the speed of light. Accelerator builders were the first engineers to have that fact break their machines.
+
+### The Synchrotron: Keep the Circle, Change the Magnet
+
+The solution, worked out independently by Edwin McMillan in the United States and Vladimir Veksler in the Soviet Union in the mid-1940s, was to stop letting the particles spiral outward. In a synchrotron the particles travel around one fixed ring, and as they gain energy, the magnetic field that bends them is increased in step, so that they stay on the same circle. Bending is done by one set of magnets; focusing, by others; acceleration, by radio-frequency cavities placed at a few points around the ring, which give the particles a small push on every lap.
+
+Every major proton accelerator since has been a synchrotron. The largest is the Large Hadron Collider at CERN, near Geneva.
+
+### The LHC, Worked Out
+
+The LHC sits in a tunnel 26.7 kilometers around, about 100 meters underground, straddling the border between Switzerland and France. Two beams of protons travel in opposite directions in two separate pipes, each emptied to a vacuum thinner than the space around the Moon. Since 2022 each proton has carried 6.8 trillion electron volts, so two protons meeting head-on bring 13.6 trillion electron volts into the collision.
+
+How fast is that? A proton's rest energy is about 0.938 billion electron volts, so a 6.8-trillion-electron-volt proton carries about 7,250 times its rest energy. In the language of Volume 1, its Lorentz factor is about 7,250. At that point the speed falls short of light by a fraction of about one divided by twice 7,250 squared, roughly one part in a hundred million. The protons travel at about 99.999999 percent of the speed of light. If one of them raced a flash of light around the whole ring, it would lose by about a quarter of a millimeter per lap. They complete 11,245 laps every second.
+
+What keeps them on the circle is magnetism. A useful engineering rule says that a particle's momentum, in billions of electron volts, equals 0.3 times the magnetic field in tesla times the radius of its circle in meters. The LHC has 1,232 bending magnets, each about 15 meters long, filling roughly two-thirds of the ring, so the effective bending radius is about 2,800 meters. Put in the numbers and a 6.8-trillion-electron-volt proton needs a field of about 8 tesla. That is roughly a hundred and fifty thousand times stronger than Earth's magnetic field, and it cannot be done with ordinary copper coils without melting them. The LHC's magnets are superconducting, wound from niobium-titanium cable and cooled with superfluid helium to 1.9 degrees above absolute zero, colder than the space between the galaxies.
+
+The beams are not continuous. Each contains up to about 2,800 separate bunches, each bunch holding around a hundred billion protons. A single proton carries about as much kinetic energy as a few flying mosquitoes, which sounds unimpressive until you multiply. The whole beam stores several hundred million joules, comparable to a 400-tonne train traveling at 150 kilometers per hour. When the beam is finished with, it is steered into a dump block of graphite and steel, because a beam that wandered off course could cut through the machine.
+
+### Why the LHC Uses Protons, Not Electrons
+
+Electrons would seem like the cleaner choice. They are elementary, so when two of them collide you know exactly what went in. A proton is a crowded bag of quarks and gluons, and in a proton collision only one quark or gluon from each side usually takes part, carrying an unknown fraction of the energy.
+
+The problem is that charged particles traveling in a circle radiate. Every time the magnets bend a charged particle's path, it sheds energy as light, called synchrotron radiation. The loss grows with the fourth power of the particle's energy divided by its mass. An electron is 1,836 times lighter than a proton, and 1,836 to the fourth power is about ten million million.
+
+The LHC's predecessor in the same tunnel, LEP, collided electrons and positrons at up to about 104 billion electron volts per beam. At that energy each electron lost around three percent of its energy on every lap, and LEP needed enormous radio-frequency power simply to put that energy back. An LHC proton at 6.8 trillion electron volts loses only about seven thousand electron volts per lap, roughly one part in a billion. An electron at the same energy in the same tunnel would have to radiate away more than its entire energy on every lap, which is a polite way of saying it cannot be done.
+
+Synchrotron radiation is not only a nuisance. Machines built specifically to produce it, called light sources, now serve tens of thousands of scientists a year, and the intense X-rays they make are how the structures of many proteins, and many medicines, have been worked out. One field's waste is another field's best microscope.
+
+### Head-On, or Not at All
+
+Why build a collider, with two beams aimed at each other, instead of firing one beam at a stationary target? Because of what a collision can actually use.
+
+When a fast particle hits one at rest, much of its energy is spent keeping the debris moving forward, since momentum must be conserved. Only part of it is available to make new particles. For a fast proton hitting a resting proton, the usable energy is roughly the square root of twice the beam energy times the proton's rest energy. Fire a 6.8-trillion-electron-volt LHC proton at a stationary target and the usable energy is the square root of 2 × 6,800 × 0.938, about 113 billion electron volts. Bring two such protons together head-on, with zero total momentum, and all 13,600 billion electron volts are available. The collider wins by a factor of about 120.
+
+To match the LHC with a stationary target, you would need a beam of about 10¹⁷ electron volts, which no human machine can produce.
+
+Nature, however, can. Cosmic rays, mostly protons and nuclei from beyond the solar system, strike the top of our atmosphere all the time, and a few carry energies far beyond the LHC. On 15 October 1991 the Fly's Eye detector in Utah recorded one at about 3 × 10²⁰ electron volts, around 50 joules in a single subatomic particle, the kinetic energy of a well-thrown baseball. Physicists nicknamed it the Oh-My-God particle. Even against a resting nucleus in the air, that collision had dozens of times the usable energy of an LHC collision. Nobody knows for certain what accelerated it. The universe runs particle accelerators far larger than ours. It simply does not publish its beam schedule.
+
+### The Eyes: A Detector Is an Onion
+
+A collision lasts almost no time and happens in a region smaller than a proton. Nobody watches it. What experiments record are the particles that fly out, and the job of a detector is to identify each one and measure its direction and energy. Different particles betray themselves in different ways, so a modern detector is built in layers, like an onion, wrapped around the point where the beams cross.
+
+Closest to the beam is the tracker, made of silicon sensors very similar to the light sensors in a camera, divided into tens of millions of tiny pixels and strips. Each charged particle passing through leaves a trail of hits a few hundredths of a millimeter wide, and computers join the dots into tracks. Next come the calorimeters, dense blocks designed to stop particles completely and measure the energy they deposit. An electromagnetic calorimeter stops electrons and photons. The CMS experiment uses about 76,000 crystals of lead tungstate, a transparent material denser than iron that glows when a particle's energy is dumped in it. Behind it, a hadronic calorimeter of brass or steel interleaved with detectors stops protons, neutrons, pions and the sprays of particles that quarks and gluons produce. Outermost, beyond everything else, sit the muon chambers, because muons are the only charged particles that routinely punch through all the inner layers.
+
+The detectors are enormous. ATLAS is about 46 meters long and 25 meters high, as big as a seven-story building. CMS is smaller but heavier, about 14,000 tonnes, more than the Eiffel Tower.
+
+And one particle escapes everything. Neutrinos, as Chapter 2 explained, pass through the whole detector without leaving a trace. They are found by bookkeeping. The colliding protons carry no momentum sideways, across the beam, so the debris must not either. If the visible particles add up to a net sideways push in one direction, something invisible must have carried the balance in the other. Physicists call this missing transverse momentum, and it is how they see the unseeable: by noticing what is not there.
+
+### Bending Tracks, Weighing Particles
+
+The tracker sits inside a powerful magnet. CMS has a superconducting solenoid producing 3.8 tesla across a space six meters wide. A charged particle crossing it curves, and the amount of curvature measures its momentum, using the same rule that keeps the LHC's protons on their circle.
+
+Take a muon with 50 billion electron volts of momentum. In 3.8 tesla, its circle would have a radius of 50 divided by 0.3 × 3.8, about 44 meters. But the tracker is only about 1.1 meters deep, so the detector sees just a tiny sliver of that circle. Over 1.1 meters, a curve of radius 44 meters strays from a straight line by only about three and a half millimeters. The tracker measures each hit to around a hundredth of a millimeter, so even this gentle bend is easily measured, and the muon's momentum comes out to about a percent. A more energetic muon bends less; at a trillion electron volts the deviation is a fraction of a millimeter, which is why the outer muon chambers, measuring the track over a much longer distance, are needed too.
+
+The direction of the bend gives something else: the sign of the charge. A positive muon curves one way, a negative muon the other. Carl Anderson used exactly this principle in 1932, in a cloud chamber with a magnet, when he photographed a particle with the mass of an electron curving the wrong way. It was the positron, the first antimatter ever seen.
+
+### Ten Thousand Collisions You Must Throw Away
+
+The beams cross 40 million times a second, and each crossing can produce dozens of separate proton collisions on top of one another. Each recorded event takes up about a megabyte. Writing everything down would mean storing tens of millions of gigabytes every second, far more than any computing system can handle.
+
+So the experiments throw almost everything away, on purpose and in real time. A first stage, built from custom electronics, examines every crossing and decides within a few millionths of a second whether anything interesting might have happened: an unusually energetic electron, photon or muon, or a large amount of missing momentum. It keeps around a hundred thousand crossings per second. A second stage, a farm of tens of thousands of computer processors, reconstructs those events in more detail and keeps a few thousand per second. Fewer than one crossing in ten thousand is ever saved.
+
+This is a nerve-racking design. Anything the trigger is not programmed to recognize is gone forever. Choosing what counts as interesting is therefore one of the most important physics decisions an experiment makes, and the trigger menus are argued over endlessly. The saved data, still tens of petabytes a year, are distributed to the Worldwide LHC Computing Grid: about 170 computing centers in more than 40 countries, together running over a million processor cores.
+
+### Rebuilding a Particle From Its Debris
+
+Here is how a detector finds a particle that has already vanished. Suppose a short-lived particle decays into two photons. Each photon's energy is measured in the calorimeter, and its direction from where it landed. From those, special relativity lets you rebuild the mass of whatever made them. For two particles with no mass of their own, the formula is:
+
+mass² = 2 × E₁ × E₂ × (1 − cos θ)
+
+where E₁ and E₂ are the two photon energies and θ is the angle between them.
+
+Try it. If a particle at rest decays into two photons flying in opposite directions, θ is 180 degrees, the cosine is minus one, and the bracket equals two. Two photons of 62.5 billion electron volts each then give a mass squared of 2 × 62.5 × 62.5 × 2, and a mass of exactly 125 billion electron volts. Now suppose the parent was moving, so the photons come out with 100 and 50 billion electron volts at an angle of about 124 degrees. The cosine of 124 degrees is about −0.56, the bracket is about 1.56, and the mass squared is 2 × 100 × 50 × 1.56, about 15,600. The square root is again about 125. The photons look completely different. The particle they came from is the same.
+
+That calculation, repeated for millions of photon pairs, is what produced the small bump described in Chapter 3. Most pairs come from ordinary processes and land at random masses. Only the pairs from a real particle pile up at the same value. The Higgs boson was not photographed. It was reconstructed, one pair at a time, until the pile could no longer be explained as an accident.
+
+### A Particle Detector You Can Build at Home
+
+The principle of tracking is old enough, and simple enough, to try in a kitchen. In 1911 Charles Wilson invented the cloud chamber: a container of air saturated with vapor, so cold that the vapor is ready to condense but has nothing to condense on. A charged particle passing through knocks electrons off air molecules, and droplets form along its path, leaving a thin line of mist, the same way an aircraft leaves a contrail.
+
+You can make one with a clear plastic box, a felt strip soaked in isopropyl alcohol and a slab of dry ice underneath, in a darkened room with a flashlight shining across the bottom. After a few minutes, faint tracks begin to appear and vanish, several a minute. Short, thick, straight ones are usually alpha particles from natural radioactivity. Long, thin, straight ones are mostly muons, made by cosmic rays kilometers above your head. Each of those muons is living proof of Volume 1's time dilation: with a lifetime of only about two millionths of a second, it should decay long before reaching the ground. It arrives because, from your point of view, its clock is running slow.
+
+Anderson discovered both the positron and the muon in exactly this kind of device. Later the bubble chamber, invented by Donald Glaser in 1952, did the same job with superheated liquid, and the photographs of bubble chambers, analyzed by hand by thousands of scanners, gave the 1950s and 1960s most of the particle zoo, including the omega-minus that Chapter 7 describes.
+
+### The Accelerator in Your Hospital
+
+Only a small fraction of the world's accelerators do particle physics. There are tens of thousands of accelerators in the world, and nearly all of them work in hospitals and factories.
+
+Small linear accelerators in hospitals produce the X-ray beams used in cancer radiotherapy. Compact cyclotrons in hospital basements make short-lived radioactive isotopes such as fluorine-18, the tracer used in PET scans; Chapter 6 explains what the weak force has to do with those. Proton therapy centers use beams of protons whose energy can be tuned so that they deposit most of their dose at one precise depth, sparing the tissue in front of the tumor and behind it. Ion implanters, which are accelerators too, shoot dopant atoms into silicon wafers, placing the impurities that Chapter 8 will show turn silicon into transistors. Nearly every chip in every phone has been through a particle accelerator.
+
+Even the medium you may be reading this on has a link. In 1989 Tim Berners-Lee, a software engineer at CERN, proposed a system for sharing documents among the laboratory's scattered physicists. It became the World Wide Web.
+
+### What Comes After the LHC?
+
+The LHC is being upgraded to produce several times more collisions, and is expected to run until around 2041. After that, the options are expensive and argued over. CERN has studied a Future Circular Collider in a new tunnel about 91 kilometers around, which would first collide electrons and positrons to study the Higgs boson in fine detail and later, perhaps, protons at around seven times the LHC's energy. China has studied a machine of similar size. Others propose linear colliders tens of kilometers long, or a collider using muons, which are heavy enough to radiate far less than electrons but live for only two millionths of a second, so they must be made, accelerated and collided almost instantly.
+
+None of these has been approved at the time of writing. Every one of them would cost billions and take decades, which raises a fair question about what such machines are for. The honest answer is that nobody knows what they will find, and that is the point. The Higgs boson was a confident prediction. Whatever explains dark matter, the masses of the neutrinos or the surplus of matter over antimatter is not. A collider is the only kind of instrument that can test those questions in a laboratory, under controlled conditions, with the particles made to order.
+
+### The Punchline
+
+Rutherford needed a radioactive source, a sheet of gold foil, a microscope and a great deal of patience in the dark. His successors need a 27-kilometer ring of magnets colder than outer space, detectors the size of cathedrals, and a global network of computers. The question has not changed: throw something at it, and watch how it bounces.
+
+Every particle in the Standard Model has been found by people who could not see it, using instruments that measure only what the particle leaves behind: a curved track, a flash in a crystal, a missing push. It is the most elaborate exercise in deduction ever undertaken, and it works. The next two chapters use what those machines found to explain the two forces that rule the inside of the nucleus.
+
+↑ Back to Contents
+
+
+## Chapter 5 — The Strong Force: Quarks, Gluons and the Prison With No Exit
+
+*[Chapter illustration]*
+
+### Try to Pull a Quark Out
+
+Take a proton. Reach inside it, and grab one of its three quarks. Now pull.
+
+At first it comes easily, almost as if nothing were holding it. Then, about a femtometer out, roughly the width of the proton itself, the resistance arrives, and it does not fade with distance the way gravity and magnetism do. It stays constant, like a towrope that refuses to stretch any further. The force on that rope is about sixteen tonnes. Not sixteen tonnes spread over a cable, but sixteen tonnes acting on a single particle so small that no microscope will ever see it.
+
+Keep pulling anyway. The energy you pour in has to go somewhere, and at a little over a femtometer something extraordinary happens. The rope snaps, but there is no loose end. The energy you stored in it turns into a brand-new quark and antiquark, which pop into existence at the break. The new quark stays behind in the proton. The new antiquark attaches itself to the quark you were pulling. You end up holding not a quark, but a meson: a new particle, built from a quark and an antiquark, and the proton is whole again.
+
+Nobody has ever caught a quark on its own. Not in any experiment, at any energy, in sixty years of trying. Chapter 1 named the strong force as the glue of the nucleus, and Chapter 3 placed quarks and gluons in the Standard Model. This chapter is about the strangest thing in that table: a force that gets stronger the harder you try to escape it, and weaker the closer you get.
+
+### Fractions of a Charge
+
+The idea of quarks arrived in 1964, proposed independently by Murray Gell-Mann and George Zweig to explain the patterns in the particle zoo that Chapter 7 will describe. Gell-Mann took the name from a line in James Joyce's Finnegans Wake, "Three quarks for Muster Mark." The proposal had one feature that made many physicists deeply uneasy. The quarks would have to carry fractions of the electron's charge.
+
+Measure charge in units of the proton's charge. Then an up quark carries +2/3 and a down quark carries −1/3. A proton is two ups and a down: 2/3 + 2/3 − 1/3 = +1. A neutron is one up and two downs: 2/3 − 1/3 − 1/3 = 0. The arithmetic works perfectly for every hadron (the family name for particles built from quarks), and it explains why the proton and neutron are so similar in mass: swap one quark and you turn one into the other. No experiment had ever seen a fractional charge, and none ever has in isolation. For several years even Gell-Mann was careful to describe quarks as a mathematical device rather than a physical claim.
+
+### The Particle That Broke the Rules
+
+There was a second, more serious problem. One of the particles explained by the quark model, the delta-plus-plus, found by Enrico Fermi's group in Chicago in the early 1950s, would have to be three up quarks with their spins all pointing the same way. That is forbidden. The Pauli exclusion principle, the same rule that stops your hand passing through the table in Chapter 1, says that two identical particles of matter cannot share exactly the same quantum state. Three identical up quarks in identical states should not be allowed to exist. Yet the particle plainly did.
+
+The way out, suggested by Oscar Greenberg in 1964 and in its modern form by Moo-Young Han and Yoichiro Nambu in 1965, was that the quarks are not identical after all. Each carries an extra label that comes in three versions. If the three up quarks in the delta each carry a different version, they are no longer in the same state, and Pauli is satisfied. The three versions were later named, for want of anything better, red, green and blue. That is color charge, and, as Chapter 3 warned, it has nothing to do with how anything looks.
+
+### Counting the Colors
+
+Color is not just a bookkeeping trick to rescue a principle. You can count the colors, and the experiment is beautiful.
+
+When an electron and a positron annihilate at high energy, the burst of energy can turn into a pair of muons, or into a quark and an antiquark, which then dress themselves up as hadrons. Quantum electrodynamics predicts the rate for each, and the only difference between the two is the electric charge of what comes out, entering as its square. So the ratio of the rate for hadrons to the rate for muons should be the sum of the squared charges of all the quarks light enough to be made, multiplied by the number of colors, because each color is a separate way for the reaction to happen.
+
+At energies where up, down and strange quarks can be made, the sum of squared charges is (2/3)² + (1/3)² + (1/3)² = 4/9 + 1/9 + 1/9 = 2/3. Without color, the ratio should be 2/3. With three colors, it should be 2. Experiments measured close to 2, slightly higher by just the amount the strong force's own corrections predict. Raise the energy past the threshold for charm quarks, with charge 2/3, and the prediction jumps to 3 × (6/9 + 4/9) = 10/3. That jump was seen too. Nature had been counting in threes all along.
+
+### The Shot That Hit Something Hard
+
+By the late 1960s, the Stanford Linear Accelerator Center had finished a machine three kilometers long, firing electrons at up to about 20 billion electron volts. As Chapter 4 explained, electrons that energetic have wavelengths far smaller than a proton. A team from SLAC and MIT, led by Jerome Friedman, Henry Kendall and Richard Taylor, aimed them at protons in liquid hydrogen.
+
+If the proton's charge were spread smoothly through its volume, like a soft cloud, the electrons should almost never be deflected sharply. Instead, far more of them bounced off at large angles than expected, in a pattern that hardly depended on the energy. It was Rutherford's gold foil all over again, one level deeper. The electrons were hitting small, hard, point-like things inside the proton. Richard Feynman called them partons. They turned out to have exactly the charges and spins of quarks, and the three experimenters shared the 1990 Nobel Prize.
+
+The same experiments carried a hidden message. When physicists added up the momentum carried by the quarks, it came to only about half of the proton's total. Something electrically neutral, invisible to the electrons, was carrying the rest. That something was the gluons.
+
+### Glue That Sticks to Itself
+
+The theory of the strong force is called quantum chromodynamics, QCD, from the Greek word for color. Its structure is modeled on quantum electrodynamics, the theory of light and charge, with one change that makes all the difference.
+
+In electromagnetism, the photon carries the force between charges but has no charge of its own. Two beams of light cross without noticing each other. In QCD, the gluon carries the force between colors, and gluons are themselves colored. Each gluon carries a color and an anticolor, a combination such as red-antigreen, and there are eight independent combinations, which is why the Standard Model has eight gluons. When a red quark emits a red-antigreen gluon, it turns green, and the gluon carries the red away to whichever quark absorbs it. Inside a proton, color is being passed back and forth continuously, but the total always stays neutral.
+
+Because gluons carry color, gluons attract other gluons. The force carriers interact with each other. That single fact is responsible for nearly everything strange about the strong force.
+
+Gluons were seen, indirectly, in 1979 at the DESY laboratory in Hamburg. Electron-positron collisions there usually produced two back-to-back sprays of particles, called jets, one from the quark and one from the antiquark. Occasionally, they produced three, in a flat, Mercedes-star pattern. The third jet came from a gluon that one of the quarks had radiated, exactly as QCD predicted.
+
+### Asymptotic Freedom: Weaker When Closer
+
+In 1973, David Gross and his graduate student Frank Wilczek at Princeton, and independently David Politzer, a graduate student at Harvard, found something no one had expected. In QCD, the strength of the force between colored particles decreases at short distances. Quarks very close together barely feel each other. They behave almost like free particles. This property is called asymptotic freedom, and it won the three of them the 2004 Nobel Prize.
+
+To see why it is so strange, compare it with electromagnetism. Chapter 11 will describe how empty space is full of fleeting particle-antiparticle pairs. Around an electron, those virtual pairs line up slightly, positive ends toward the electron and negative ends away, and partly shield its charge. From far away you see the shielded charge. Get closer, inside part of the shield, and the charge looks larger. This is a measured effect. The strength of electromagnetism, usually quoted as about 1/137, rises to about 1/128 in collisions at around 90 billion electron volts.
+
+In QCD, virtual quark-antiquark pairs shield color in the same way. But the gluons, because they carry color themselves, do the opposite: they spread a quark's color out into a cloud around it. Get closer, and you see less of the color, not more. It turns out that the gluons win. The theory stays asymptotically free as long as there are no more than sixteen types of quark. Nature has six.
+
+The effect is large and measured. The strength of the strong force is usually written as a number called alpha-s. In collisions at around 90 billion electron volts, where the quarks get very close, it is about 0.12. At about 2 billion electron volts it has risen to around 0.3. Below about 1 billion electron volts, at distances comparable to the size of a proton, it grows so large that the usual methods of calculation, which treat the force as a small correction, fall apart completely. That is the regime where the towrope from the beginning of this chapter appears.
+
+### Confinement: Why the Rope Never Breaks Cleanly
+
+Pull two quarks apart, and the gluon field between them does not spread out in all directions the way an electric field does. Because the gluons attract one another, the field lines squeeze together into a narrow tube, a flux tube, stretching from one quark to the other. A tube of constant thickness stores the same amount of energy for every extra femtometer of length, which means the force stays constant however far you pull. Its strength, measured in many ways, is about one billion electron volts per femtometer. Convert that to everyday units and it is about 160,000 newtons, the weight of sixteen tonnes.
+
+Long before the tube gets very long, it becomes cheaper for nature to make new particles than to keep stretching. Making a light quark-antiquark pair costs only a modest amount of energy, so somewhere a little beyond a femtometer the tube breaks, and each broken end gets a new quark. It is like cutting a bar magnet in half to isolate its north pole. You never get a lone north pole. You get two smaller magnets, each with both poles.
+
+That is why the quarks and gluons produced in high-energy collisions never reach the detector. Each one stretches a tube behind it as it flies away, the tube breaks again and again, and the energy turns into a narrow spray of hadrons traveling in nearly the same direction: a jet. The detectors of Chapter 4 do not see quarks. They see jets, and from the jets they work out the quarks.
+
+There is an honest footnote. Nobody has proved, mathematically, that QCD confines quarks. Computer simulations show it clearly, and every experiment agrees, but a rigorous proof that this kind of theory has the necessary properties is one of the seven Millennium Prize Problems announced by the Clay Mathematics Institute in 2000. It carries a reward of a million dollars, and it is still unclaimed.
+
+### Where Your Mass Comes From
+
+Chapter 3 said, briefly, that most of the mass of a proton does not come from the Higgs field. Here are the numbers.
+
+An up quark has a mass of about 2.2 million electron volts. A down quark has about 4.7 million. A proton is two ups and a down, so its quarks add up to about 9 million electron volts. The proton itself weighs 938 million. The quarks' own masses account for about one percent of it.
+
+The other ninety-nine percent is energy: the energy of quarks rattling around at nearly the speed of light inside a tiny space, and the energy stored in the gluon field that confines them. By E = mc², confined energy has mass. A proton is mostly trapped motion and trapped field. Since protons and neutrons make up almost all the mass of atoms, the same is true of you. Only a few percent of your body weight, at most, traces directly back to the Higgs field giving quarks and electrons their masses. The rest is the energy of the strong force, holding itself in.
+
+Frank Wilczek, one of the discoverers of asymptotic freedom, called this "mass without mass." It is one of the cleanest illustrations anywhere of Einstein's equation, and it is happening in every atom of the page or screen in front of you.
+
+### Calculating a Proton From Scratch
+
+Saying that the proton's mass comes from QCD is one thing. Calculating it is another, and for decades nobody could, because at the scale of a proton the force is too strong for the usual approximations.
+
+The method that finally worked was proposed by Kenneth Wilson in 1974. Replace continuous space and time with a four-dimensional grid of points, a lattice. Put the quark fields on the points and the gluon fields on the links between them. The theory becomes a vast but finite computational problem, which supercomputers can solve by brute force. Then make the grid finer and finer and check that the answers settle down.
+
+In 2008 a European collaboration using lattice QCD calculated the masses of the proton, the neutron and other light hadrons from the theory's basic inputs, and matched the measured values to within a few percent. In 2015 the same group went further and calculated the difference between the neutron's and proton's masses: about 1.29 million electron volts, or about one part in a thousand of either mass. To get it, they had to include not only the strong force but electromagnetism and the slightly different masses of the up and down quarks, which push the difference in opposite directions.
+
+That tiny number matters enormously. Because the neutron is slightly heavier, a free neutron can decay into a proton, and not the other way round. If the difference had gone the other way, by even a little, hydrogen atoms would capture their electrons and turn into neutrons. There would be no hydrogen, no long-lived stars of the kind we know, and no water. Chapter 6 picks up what happens to that free neutron.
+
+### The Nuclear Force Is Leftover Glue
+
+There is a puzzle here. Protons and neutrons are color-neutral. So why does the strong force hold them together in a nucleus at all?
+
+For the same reason that electrically neutral molecules stick together. A water molecule has no net charge, but its charges are not all in the same place, and neighboring molecules can feel the uneven distribution at close range. The force between protons and neutrons in a nucleus is a residual effect of the same kind: the leftover color forces between two color-neutral bags of quarks that are almost touching. It is not a separate fundamental force. It is QCD, seen from slightly outside.
+
+Long before QCD, in 1935, the Japanese physicist Hideki Yukawa described the nuclear force as being carried by a new particle exchanged between protons and neutrons. He reasoned that the force's short range set the particle's mass. Quantum uncertainty allows a particle of mass m to exist briefly, long enough to travel a distance of about ħ/(mc), where ħ is Planck's constant divided by 2π. Working backward from the size of a nucleus, Yukawa predicted a particle about two hundred times heavier than the electron.
+
+The particle was found in 1947, in cosmic-ray tracks recorded in photographic plates exposed on mountaintops, by Cecil Powell's group at Bristol. It is the pion, with a mass of about 140 million electron volts. Put that into Yukawa's formula, using the convenient value ħc ≈ 197 million electron volts times a femtometer, and the range comes out at 197 ÷ 140, about 1.4 femtometers. That is exactly the reach of the nuclear force described in Chapter 1. We now know the pion is a quark-antiquark pair, and pion exchange is an approximation to QCD, but it remains the most useful picture of the nucleus at ordinary energies. Yukawa received Japan's first Nobel Prize.
+
+There was a false alarm along the way. In 1936 Carl Anderson's group found a cosmic-ray particle of about the right mass, and for a decade it was assumed to be Yukawa's particle. It was not; it ignored nuclei almost entirely. It was the muon, the heavier cousin of the electron from Chapter 3, and nobody had asked for it. "Who ordered that?" the physicist Isidor Rabi is said to have asked. Nobody has answered him yet.
+
+### Melting the Proton
+
+At ordinary temperatures, quarks are confined. Heat matter enough, and they are not. Lattice calculations show that at around 2 trillion degrees, the protons and neutrons melt into a state where quarks and gluons move freely across distances much larger than a proton: the quark-gluon plasma.
+
+Physicists make it by colliding heavy nuclei, gold at the Relativistic Heavy Ion Collider at Brookhaven and lead at the LHC. Each collision creates a droplet of plasma a few times the size of a nucleus, lasting about 10⁻²³ seconds, at temperatures that have been measured at several trillion degrees, the hottest material ever made on Earth. Physicists expected it to behave like a gas of nearly free particles. Instead, it flows like a liquid, and an almost perfect one, with the lowest ratio of viscosity to entropy of any substance ever measured. Surprisingly, one of the best tools for calculating its properties came from string theory's holographic duality, described in Chapter 12, which turns a hard problem about a strongly interacting fluid into an easier problem about gravity.
+
+This is not only a laboratory curiosity. The entire universe was a quark-gluon plasma for roughly its first ten millionths of a second. As it cooled, the quarks condensed into protons and neutrons, which, a few minutes later, as Volume 2 describes, began to build the first nuclei. Heavy-ion collisions are, in a sense, small replays of the universe's first microseconds.
+
+### Stranger Combinations
+
+The rule of confinement is that only color-neutral combinations can exist freely. Three quarks, one of each color, make a baryon such as the proton. A quark and an antiquark of matching color and anticolor make a meson such as the pion. But nothing in QCD forbids other neutral combinations: two quarks and two antiquarks, four quarks and an antiquark, or even balls of pure gluon field with no quarks at all.
+
+For decades these were theoretical curiosities. Since 2003, experiments have found a growing list of particles that do not fit the simple patterns, including tetraquark candidates and, in 2015, at the LHCb experiment, pentaquarks made of four quarks and one antiquark. Whether some are tightly bound single particles or loose molecules of two ordinary hadrons is still argued over. Glueballs, made of gluons alone, have candidates but no consensus. The particle zoo, it turns out, still has some enclosures under construction.
+
+### The Physics Status Check
+
+WHAT WE KNOW: Quarks and gluons exist, with three colors and fractional electric charges; the strong force weakens at short distances, exactly as asymptotic freedom predicts, measured across a vast range of energies; quarks are never seen alone; most of the mass of ordinary matter is strong-force energy, and lattice QCD reproduces hadron masses from first principles. WHAT IS SERIOUS BUT UNCONFIRMED: A mathematical proof that QCD confines quarks and has a mass gap. WHAT IS STILL ARGUED OVER: The exact nature of many exotic hadrons, and whether glueballs have been seen. WHAT WOULD MATTER: A free quark, or any fractional electric charge in isolation; no search has ever found one.
+
+### The Punchline
+
+The strong force is the only force in nature that grips harder the farther apart you pull, and lets go the closer you come. It builds protons out of almost nothing, three nearly massless quarks and a field of glue, and in doing so it manufactures almost all of the mass of everything you have ever touched. It forbids its own building blocks from ever being seen alone, and then leaves fingerprints of them in every collision, in sprays of particles pointing back to where a quark once flew.
+
+It is the most powerful force we know, and it keeps its prisoners so securely that we had to deduce their existence from the way the walls of the prison move. The weak force, in the next chapter, has the opposite personality. It barely holds on to anything. Instead, it changes what things are.
+
+↑ Back to Contents
+
+
+## Chapter 6 — The Weak Force: The Interaction That Changes What Things Are
+
+*[Chapter illustration]*
+
+### The Force That Does Not Push
+
+Every force you have ever felt pushes or pulls. Gravity pulls you toward the floor. Electromagnetism pushes the floor back up at you. The strong force of the last chapter pulls quarks together so hard that they can never leave.
+
+The weak force barely pushes or pulls on anything. Its real talent is different, and unique. It changes what things are. It turns a neutron into a proton, a down quark into an up quark, a muon into an electron. Without it, no star could shine, the Sun's core would be inert, the radioactive clocks of Chapter 1 would stop, and the neutrinos of Chapter 2 would never have been born.
+
+It is called weak, but it is not weak in the way the word suggests. As this chapter will show, its basic coupling is actually greater than electromagnetism's. It only looks feeble because it is so extraordinarily short-ranged that, at everyday energies, it almost never gets a chance to act. That is also why the Sun has lasted long enough for you to read this.
+
+### A Neutron, Left Alone
+
+Chapter 2 told the story of beta decay from the outside: the electrons with the wrong energies, Pauli's desperate remedy, Fermi's theory, the neutrino finally caught at a reactor. Here is the same process, opened up.
+
+Take a single neutron out of a nucleus and leave it alone. On average, it lasts about fifteen minutes. Then it turns into a proton, an electron and an antineutrino. The energy budget is easy to check. A neutron's mass is 939.565 million electron volts. A proton's is 938.272, and an electron's is 0.511. Subtract, and 0.782 million electron volts are left over, shared out as kinetic energy between the electron and the antineutrino. Because the split varies from one decay to the next, the electron's energy varies too, which is exactly the smooth spread of energies that so alarmed physicists in the 1920s.
+
+Inside most nuclei, the neutrons do not decay at all, because the binding-energy accounting of Chapter 1 makes the change unprofitable: the new proton would cost more energy, in the nucleus, than the decay provides. That is why ordinary matter is stable, and why the slightly larger mass of the neutron, calculated in the previous chapter, does not dissolve the world.
+
+There is an unsolved puzzle hiding in that fifteen minutes. Measuring the neutron's lifetime is hard, and there are two ways to do it. One traps very slow neutrons in a magnetic or material bottle and counts how many remain after a while. The other sends a beam of neutrons through a detector and counts the protons that appear. Bottle experiments find about 878 seconds. Beam experiments find about 888. The difference of about ten seconds is far larger than either method's stated uncertainty, and it has persisted for about twenty years. It may be an undiscovered experimental error. It may be a sign of something new, such as neutrons occasionally decaying into something the beam experiments do not see. Nobody knows yet.
+
+### Inside the Neutron
+
+Looked at with the quarks of the previous chapter, beta decay is simpler still. A neutron is up-down-down. A proton is up-up-down. One down quark has turned into an up quark. That is the whole event, and the weak force is what made it happen.
+
+The down quark does it by emitting a W⁻ boson, one of the weak force's carriers. It loses one unit of negative charge to the W, which is how a charge of −1/3 becomes +2/3. The W then turns, almost immediately, into an electron and an antineutrino. Every beta decay in the universe, from the carbon-14 in an ancient piece of wood to the radioactive fragments in a nuclear reactor, is a quark changing its type, or flavor, by trading a W.
+
+Here is the strange part. The W boson weighs about 80 billion electron volts, more than eighty times the mass of the entire proton. The decaying neutron has only 0.782 million electron volts to spare, a hundred thousand times too little to make a real W. The W in beta decay is a virtual particle, in the sense that Chapter 11 will discuss: quantum mechanics lets the process pass briefly through a state that does not have the energy to exist on its own, provided it does not last.
+
+### Why the Weak Force Is Weak
+
+This is where the weak force gets its name, and you can work out why with the same formula the previous chapter used for Yukawa's pion. A force carried by a particle of mass m reaches about ħ/(mc). For the pion, at 140 million electron volts, that gave 1.4 femtometers. For the W, at 80,400 million electron volts:
+
+range ≈ 197 ÷ 80,400 ≈ 0.0025 femtometers, or about 2.5 × 10⁻¹⁸ meters
+
+That is about a three-hundredth of the width of a proton. Two particles have to come almost on top of each other before the weak force can act between them at all.
+
+At low energies, this makes the weak force look feeble. A rough rule says that at a collision energy E, its effective strength compared with electromagnetism is suppressed by a factor of about (E divided by the W's mass) squared. In nuclear beta decay, with energies of around a million electron volts, that factor is roughly (0.001 ÷ 80)², about one in six billion. This is the number Enrico Fermi's 1933 theory captured without knowing about the W, in a constant now called Fermi's constant.
+
+But the suppression is all about distance and energy. The weak force's intrinsic strength, the number that sets how strongly the W couples to quarks and leptons, is about twice that of electromagnetism. At energies around 100 billion electron volts, where the W can be made for real, the weak force is not weak at all. It is as strong as electromagnetism, and this is not a coincidence, as we will see shortly.
+
+### A Ladder of Lifetimes
+
+There is a vivid way to compare the forces: look at how long particles live when each force is responsible for their decay.
+
+A delta particle, which decays through the strong force, lives about 6 × 10⁻²⁴ seconds, roughly the time light takes to cross a proton. A neutral pion, which decays into two photons through electromagnetism, lives about 8 × 10⁻¹⁷ seconds. A charged pion can decay only through the weak force, and it lives about 2.6 × 10⁻⁸ seconds, a billion times longer. A muon, which also decays through the weak force, lives about 2.2 × 10⁻⁶ seconds. A free neutron, with so little energy to release that the suppression is enormous, lasts nearly fifteen minutes.
+
+Read along that ladder and you can see the forces at work. When a decay is slow, by particle standards, the weak force is almost always the reason. That slowness is why charged pions and muons survive long enough to leave tracks in detectors, why the muons in a home-made cloud chamber in Chapter 4 reach the ground, and why the Sun is still here.
+
+### The Sun's Slowest Step
+
+Chapter 1 noted that the first step in the Sun's fusion chain requires a proton to turn into a neutron through the weak force while it is briefly in contact with another proton. Two protons meet, and occasionally, instead of simply bouncing apart, one of them changes flavor, an up quark becoming a down, and the pair becomes a deuterium nucleus, emitting a positron and a neutrino. Because the weak force must act in the instant the two protons touch, this almost never happens. That is why a typical proton in the Sun's core waits billions of years.
+
+Here is a calculation that ties several chapters together. Overall, the Sun turns four protons into one helium-4 nucleus, releasing about 26.7 million electron volts. Two of those four protons have to become neutrons on the way, so every helium nucleus made in the Sun releases exactly two neutrinos. The Sun's power output is about 3.8 × 10²⁶ watts. Divide by the energy per helium nucleus, about 4.3 × 10⁻¹² joules, and you find the Sun makes about 9 × 10³⁷ helium nuclei every second, and so about 1.8 × 10³⁸ neutrinos per second.
+
+At Earth's distance, 150 million kilometers, those neutrinos are spread over a sphere with an area of about 2.8 × 10²³ square meters. Divide, and the neutrino flux at Earth is about 6.4 × 10¹⁴ per square meter per second, or about 64 billion per square centimeter. That is essentially the figure quoted in Chapter 2, derived from nothing more than the sunshine on your face and the bookkeeping of the weak force. When Ray Davis went looking for solar neutrinos in a gold mine, this was, in essence, the number he was testing.
+
+In the process, the Sun loses about four million tonnes of mass every second, converted into energy. It has enough hydrogen to keep doing so for billions of years more, precisely because the weak force refuses to hurry.
+
+### You Are a Weak-Force Source
+
+You do not have to look at the Sun to find the weak force. A typical adult body contains about 140 grams of potassium, and roughly one potassium atom in 8,500 is the radioactive isotope potassium-40, with a half-life of 1.25 billion years. That is enough for about four thousand potassium nuclei to decay inside you every second. Nearly nine in ten of those decays are ordinary beta decays, emitting an electron and an antineutrino.
+
+So a human body emits about 340 million antineutrinos a day. They leave at nearly the speed of light, pass through the walls and the planet and head out into space, and almost none of them will ever interact with anything again. Bananas, famously rich in potassium, do the same on a smaller scale.
+
+The weak force can also run the other way. In some unstable nuclei with too many protons, a proton turns into a neutron, emitting a positron and a neutrino. That is positron emission, and hospitals use it every day. Fluorine-18, made in the small cyclotrons described in Chapter 4, has a half-life of about 110 minutes. Attached to a sugar molecule and injected into a patient, it collects in tissues that consume a lot of sugar, such as many tumors. Each positron it emits travels a millimeter or so, meets an electron and annihilates, producing two gamma rays of 511 thousand electron volts flying in opposite directions. A ring of detectors around the patient catches both, and the line between them points back to where the decay happened. A PET scan is antimatter, created by the weak force, used as a flashlight.
+
+### The Force That Can Tell Left From Right
+
+Chapter 7 will tell the story of Chien-Shiung Wu's 1956 experiment, in which cobalt-60 nuclei showed that the weak force can tell its left from its right. There is a startling everyday-scale consequence of that, hiding in the pion.
+
+A charged pion has no spin. It can decay into a muon and a neutrino, or into an electron and a neutrino. The electron route releases more energy and the electron is much lighter, so on the face of it, the electron route should be the favorite. In fact the pion decays to a muon 99.99 percent of the time. The electron route happens only about once in eight thousand decays.
+
+The reason is handedness. The W, which carries this part of the weak force, acts only on left-handed particles and right-handed antiparticles, where handedness compares the direction of spin with the direction of motion. In pion decay, the two outgoing particles fly apart back to back, and because the pion had no spin to begin with, their spins must cancel. That forces the charged lepton into the handedness the weak force does not like. It can only get away with it because it has mass: a massive particle's handedness is not fixed, since you could in principle overtake it and see it spinning the other way. The lighter the particle, the closer it moves to the speed of light, and the harder this escape becomes. The electron, about 200 times lighter than the muon, is heavily penalized. The calculated ratio, about 1.2 × 10⁻⁴, matches the measurement to a fraction of a percent. A mirror-blind force could never produce it.
+
+### One Force Wearing Two Masks
+
+In the 1960s, Sheldon Glashow, Steven Weinberg and Abdus Salam built a theory in which electromagnetism and the weak force are two faces of a single electroweak force. At high energies, the two are one, carried by four related particles. At low energies, the Higgs field, which Chapter 7 will describe, breaks the symmetry between them. Three of the carriers become massive: the W⁺, the W⁻ and the neutral Z. One combination stays massless: the photon. The difference between the long-range force that holds atoms together and the short-range force that makes the Sun shine is a matter of which particles absorbed the Higgs field and which did not.
+
+The theory made risky predictions. It required a neutral weak force, carried by the Z, that could let a neutrino bounce off matter without changing into an electron or muon. Nobody had seen one. In 1973, in photographs from a giant bubble chamber at CERN called Gargamelle, physicists found exactly such events: particles knocked into motion by an incoming neutrino beam, with no electron or muon produced. Measurements of how often that happened then fixed the theory's one free mixing parameter, and with it the masses the W and Z had to have: about 80 and 90 billion electron volts.
+
+No machine could make them. So CERN built one, converting its largest proton accelerator into a collider of protons and antiprotons, using a method of cooling the antiproton beam invented by Simon van der Meer. In January 1983, Carlo Rubbia's UA1 experiment and the rival UA2 experiment announced the W. The Z followed that summer. Both masses were where the theory said. Rubbia and van der Meer shared the 1984 Nobel Prize, barely a year after the discovery. Glashow, Weinberg and Salam had already received theirs in 1979.
+
+### Counting the Neutrinos With a Z
+
+From 1989, the LEP collider at CERN made the Z boson by the millions, by colliding electrons and positrons at exactly the right energy. That turned the Z into one of the most precise measuring instruments in physics.
+
+The Z lives for a tiny fraction of a second, and quantum mechanics says that a short-lived particle does not have one exact mass but a spread, a resonance peak whose width reflects how many ways it has to decay. Every possible decay shortens its life and widens the peak. The Z can decay into a neutrino and an antineutrino, which nobody sees, and each type of light neutrino adds about 0.17 billion electron volts to the width, about seven percent of the total. By measuring the shape of the peak very precisely, the LEP experiments could count how many types of light neutrino exist, without detecting a single one. The answer was 2.98, with an uncertainty of less than one percent.
+
+Three. Not four, not seventeen. If there is a fourth generation of matter particles, its neutrino must be far heavier than the others, which would make it a very odd member of the family. Volume 2 described how the abundance of helium made in the first three minutes also points to three neutrino types. A cosmological measurement and a laboratory one, using completely different physics, agree.
+
+### Why Three Generations Might Matter
+
+The weak force does not just change up quarks into down quarks. It can also, less often, change a quark of one generation into a quark of another, an up into a strange, for example. In 1963 Nicola Cabibbo described this mixing for the two generations known at the time.
+
+In 1973, Makoto Kobayashi and Toshihide Maskawa found something remarkable about that mixing. With only two generations of quarks, the weak force must treat matter and antimatter exactly alike under the combined mirror-and-swap symmetry, called CP, that Chapter 7 discusses. With three generations, a small difference becomes possible. At the time, only three quarks had been firmly established, and the fourth, charm, was found the following year. Kobayashi and Maskawa were in effect predicting a third generation in order to explain an effect already seen in kaons. The bottom quark was found in 1977, at Fermilab, and the top quark, the heaviest known elementary particle, in 1995. The two theorists shared the 2008 Nobel Prize.
+
+So the answer to "why three generations?" is still unknown, but there is at least a hint of what three generations buy. Three is the smallest number that allows the weak force to distinguish matter from antimatter. As Chapter 7 will show, the amount of difference it allows is far too small to explain why the universe is made of matter. But the door it opens is real.
+
+### A Mass Measured to One Part in Ten Thousand
+
+The electroweak theory ties the W's mass tightly to other measured quantities, including the masses of the Z, the top quark and the Higgs boson. The Standard Model predicts it to be about 80,357 million electron volts, with an uncertainty of a few million. That makes the W's mass one of the sharpest tests of the whole theory.
+
+In April 2022 the CDF experiment, at the Tevatron collider near Chicago, which shut down in 2011, published a measurement from ten years of data: 80,434, with an uncertainty of about nine. It was higher than the prediction by about seven times its uncertainty, which, if right, meant the Standard Model was broken. Theorists produced hundreds of papers explaining it. Then the other experiments checked. In 2024 ATLAS and CMS at the LHC published their own measurements, of about 80,367 and 80,360, both in line with the Standard Model and both in conflict with CDF. The discrepancy has not been explained, but the weight of evidence now favors the prediction.
+
+It is the pattern of Chapter 14 in miniature: a surprising result, intense scrutiny, independent checks, and a verdict that does not depend on any one team.
+
+### The Physics Status Check
+
+WHAT WE KNOW: Beta decay is a quark changing flavor by emitting a W boson; the W and Z exist with the predicted masses; the weak force acts only on left-handed particles; electromagnetism and the weak force are unified at high energy; there are three light neutrino types; quark mixing between three generations allows a small difference between matter and antimatter. WHAT IS STILL OPEN: The ten-second disagreement over the neutron's lifetime, and why CDF's W mass differs from everyone else's. WHAT IS UNKNOWN: Why there are three generations, and why the mixing has the values it does. WHAT WOULD MATTER: A firm deviation from the Standard Model's predictions for the W, the Z or the Higgs, or a matter-antimatter difference larger than quark mixing allows.
+
+### The Punchline
+
+The weak force is the universe's change of identity. It turns neutrons into protons and protons into neutrons, quarks of one flavor into another, and it is the only force that tells left from right and matter from antimatter. It is so short-ranged that, at the energies of everyday life, it almost never gets to act, and so slow that the Sun can ration its hydrogen across ten billion years.
+
+It made the neutrinos of Chapter 2, it powers the clocks of Chapter 1, and it shows up in hospitals as antimatter used for medical imaging. And at high enough energy, it turns out not to be weak at all, but a second face of electromagnetism, separated from it by the Higgs field. To see how a field can hide a symmetry like that, we need the subject of the next chapter: symmetry itself.
+
+↑ Back to Contents
+
+
+## Chapter 7 — Symmetry: The Universe Has Rules, and It Is Suspiciously Fond of Them
 
 *[Chapter illustration]*
 
@@ -535,7 +953,7 @@ There is a lovely consequence. When a continuous symmetry breaks, it leaves behi
 
 For a long time physicists assumed that nature could not tell left from right. Film any experiment, play it back in a mirror, and the mirrored version should be just as possible. This symmetry is called parity.
 
-In 1956, Tsung-Dao Lee and Chen-Ning Yang noticed that nobody had actually checked it for the weak force. Chien-Shiung Wu did. Working with a team at the National Bureau of Standards, she cooled radioactive cobalt-60 to a few thousandths of a degree above absolute zero inside a magnetic field, so the spinning nuclei lined up. If nature respected mirror symmetry, the decay electrons should come out equally in both directions along the spin. They did not. They came out preferentially in one direction. The weak force can tell left from right.
+In 1956, Tsung-Dao Lee and Chen-Ning Yang noticed that nobody had actually checked it for the weak force. Chien-Shiung Wu did. Working with a team at the National Bureau of Standards, she cooled radioactive cobalt-60 to a few thousandths of a degree above absolute zero inside a magnetic field, so the spinning nuclei lined up. If nature respected mirror symmetry, the decay electrons should come out equally in both directions along the spin. They did not. They came out preferentially in one direction. The weak force can tell left from right, with consequences as concrete as the way a pion chooses to decay, described in Chapter 6.
 
 The result, published in early 1957, shocked the field. Pauli had just bet that the Lord was not a weak left-hander. Lee and Yang received the Nobel Prize that same year; Wu, who did the experiment, did not, an omission now widely regarded as a scandal. We now know the weak force acts only on left-handed particles: every neutrino ever observed spins in one direction relative to its motion.
 
@@ -584,7 +1002,7 @@ Turn it slightly. The mess becomes a pattern. And that, rather suspiciously, is 
 ↑ Back to Contents
 
 
-## Chapter 5 — Semiconductors: How We Taught Matter to Think
+## Chapter 8 — Semiconductors: How We Taught Matter to Think
 
 *[Chapter illustration]*
 
@@ -622,7 +1040,7 @@ You can create p-type silicon, where the absence of an electron behaves like a m
 
 The numbers in doping are startling. Pure silicon at room temperature has only about ten billion free electrons per cubic centimeter, out of roughly fifty thousand billion billion silicon atoms. Replace about one silicon atom in ten million with phosphorus, which has one more outer electron than silicon, and each phosphorus atom releases its extra electron almost for free. The number of free charge carriers rises from about ten billion to about five million billion per cubic centimeter, a factor of roughly half a million, and the conductivity rises with it.
 
-That is why chip factories are among the cleanest places on Earth. An impurity level that would be a rounding error in any chemistry laboratory is enough to change the electrical character of silicon completely. Engineers do not just tolerate impurities. They place them, atom by atom in effect, exactly where they want them.
+That is why chip factories are among the cleanest places on Earth. An impurity level that would be a rounding error in any chemistry laboratory is enough to change the electrical character of silicon completely. Engineers do not just tolerate impurities. They place them, atom by atom in effect, exactly where they want them, usually by firing the dopant atoms into the crystal with an ion implanter, a small particle accelerator descended from the machines of Chapter 4.
 
 ### The Hole That Isn't There
 
@@ -733,14 +1151,27 @@ All because electrons live in quantum energy bands. That is a spectacular amount
 ↑ Back to Contents
 
 
-### End of Part I
+## End of Part I — What Is Settled
 
-Chapters 1–5 cover the settled particle-physics core of Volume 3. Part II (Entropy, Chaos, The Vacuum) picks up next, moving from what is established into what is harder to pin down.
+Part I covered the part of physics that is as close to certain as anything human beings know. The nucleus is tiny, dense and held together by a force strong enough to power stars. Neutrinos stream through you by the trillion, have a small but nonzero mass and change identity as they travel. The Standard Model organizes every known particle of matter into three generations of quarks and leptons, held together by force carriers and the Higgs field.
+
+We also saw how that knowledge was earned. Accelerators trade energy for resolution and for mass, and detectors rebuild particles nobody can see from tracks, flashes and missing momentum. The strong force confines quarks forever, weakens at short distances and makes almost all of the mass of ordinary matter. The weak force changes what particles are, tells left from right, and turns out at high energy to be a second face of electromagnetism. Behind all of it sits symmetry, and in front of all of it sits technology: the transistor is quantum mechanics put to work.
+
+Part I also left loose threads. The neutrino's mass, the three generations, the surplus of matter over antimatter and the dark matter that no particle in the table explains are all open. Part II picks up a different kind of openness: not missing pieces, but limits that are built into the rules themselves.
+
+↑ Back to Contents
 
 
 # Part II — Complexity and the Unexpected
 
-## Chapter 6 — Entropy: Why the Universe Keeps Losing Its Socks
+Part I was about what things are made of. Part II is about what happens when there are a great many of them, and about the surprising kinds of uncertainty that remain even when the laws are known exactly.
+
+Chapter 9 explains entropy, the statistical law that gives time its direction and that no experiment has ever caught breaking. Chapter 10 shows that perfectly deterministic equations can still refuse to deliver a forecast, which is chaos. Chapter 11 asks what is left when you take everything away, and finds that empty space hums with energy, pushes on metal plates, and disagrees with cosmology by a number too large to say out loud.
+
+None of this is speculative. Every chapter here rests on tested physics. But the answers are of a different kind from those in Part I. They are not about new particles. They are about limits: on prediction, on order, and on what nothing can be.
+
+
+## Chapter 9 — Entropy: Why the Universe Keeps Losing Its Socks
 
 *[Chapter illustration]*
 
@@ -859,7 +1290,7 @@ The arrow of time may not be a fundamental arrow at all. It may be the direction
 ↑ Back to Contents
 
 
-## Chapter 7 — Chaos: When Simple Laws Produce Completely Unpredictable Worlds
+## Chapter 10 — Chaos: When Simple Laws Produce Completely Unpredictable Worlds
 
 *[Chapter illustration]*
 
@@ -1022,7 +1453,7 @@ it can hide enormous complexity inside very simple laws. And somewhere, a butter
 ↑ Back to Contents
 
 
-## Chapter 8 — The Vacuum: Empty Space Is Not Empty
+## Chapter 11 — The Vacuum: Empty Space Is Not Empty
 
 *[Chapter illustration]*
 
@@ -1133,14 +1564,27 @@ Empty space, it turns out, has more going on than most of the things we consider
 ↑ Back to Contents
 
 
-### End of Part II
+## End of Part II — What Is Reliable but Strange
 
-Chapters 6–8 move from settled particle physics into the harder-to-pin-down: statistical law, deterministic unpredictability, and a vacuum that refuses to be empty. Part III (String Theory and the speculative tangles/knots cluster) picks up next, moving from the unexpected into the openly speculative.
+Part II moved from what things are made of to what they do in large numbers, and found three kinds of strangeness that are not gaps in our knowledge but answers.
+
+Entropy is a statistical law, and statistics lopsided enough are as good as iron: a broken cup does not reassemble itself, and the arrow of time runs from the universe's improbably tidy beginning toward the vastly larger number of ways to be untidy. Chaos showed that exact, deterministic laws do not guarantee a forecast, because tiny uncertainties grow exponentially, and that each thousandfold improvement in measurement buys only a fixed extra stretch of foresight. The vacuum turned out to be a restless field in its lowest energy state, measurable in the Casimir force and the Lamb shift, and badly at odds with cosmology about how much energy it contains.
+
+All three rest on tested physics. All three end in honest questions: why the beginning was so special, how far ahead any system can be forecast, and what the energy of nothing really is. Part III follows physics further, past the edge of what has been measured.
+
+↑ Back to Contents
 
 
 # Part III — On the Frontier
 
-## Chapter 9 — String Theory and M-Theory: What If Particles Are Tiny Strings?
+Now the ground changes. Part III follows physics past the edge of what has been measured, into ideas that are serious, mathematical and, so far, unconfirmed.
+
+Chapter 12 is about string theory and M-theory, the most developed attempt to combine quantum mechanics with gravity. Chapter 13 looks at a more radical family of ideas, in which particles are knots, tangles or the products of one simple rule, and uses them as a case study in how to judge an ambitious proposal. Chapter 14 then steps back and asks the question every reader should carry through this part of the book: how do you tell a crazy idea that is science from one that is not?
+
+Everything here comes with a label. Where an idea is established, the text says so. Where it is a bet, the text says that too. The Physics Status Check at the end of each chapter sorts the claims into what we know, what is serious but unconfirmed, and what is speculative. The labels are not there to spoil the fun. They are what makes the fun honest.
+
+
+## Chapter 12 — String Theory and M-Theory: What If Particles Are Tiny Strings?
 
 *[Chapter illustration]*
 
@@ -1309,7 +1753,7 @@ We do not know. Which is mildly inconvenient. Because the theory that might expl
 ↑ Back to Contents
 
 
-## Chapter 10 — Knots, Strands and One Tiny Rule: A Case Study in Speculation
+## Chapter 13 — Knots, Strands and One Tiny Rule: A Case Study in Speculation
 
 *[Chapter illustration]*
 
@@ -1400,7 +1844,7 @@ Maybe the deepest level of reality has no little pieces at all, only relationshi
 ↑ Back to Contents
 
 
-## Chapter 11 — How Do You Know When a Crazy Idea Is Science?
+## Chapter 14 — How Do You Know When a Crazy Idea Is Science?
 
 *[Chapter illustration]*
 
@@ -1448,7 +1892,7 @@ None of these was a scandal. Each was the system working: a surprising claim, in
 
 ### Then Come the Unfinished Ideas
 
-String theory is a serious theoretical framework with deep mathematics and a natural quantum-gravity sector, pursued by a large research community. But, as Chapter 9 covered, it still hasn't nailed down one unique, testable description of our actual universe. M-theory is even less complete. The strand model, physicist Christoph Schiller's proposed unification approach, sits further out still — a research program pursued largely by one person rather than a broad community.
+String theory is a serious theoretical framework with deep mathematics and a natural quantum-gravity sector, pursued by a large research community. But, as Chapter 12 covered, it still hasn't nailed down one unique, testable description of our actual universe. M-theory is even less complete. The strand model, physicist Christoph Schiller's proposed unification approach, sits further out still — a research program pursued largely by one person rather than a broad community.
 
 These labels matter.
 
@@ -1506,19 +1950,32 @@ Quantum mechanics survived. Bell's predictions survived experimental testing. St
 
 The strand model is still waiting. And the universe is sitting in the back row, arms folded, saying: “Go on, then. Test me.”
 
-We've spent ten chapters asking what might be underneath reality — particles, forces, strings, tangles, one tiny rule. Here's a stranger question to close on: how did a universe made of matter ever figure out how to ask that in the first place?
+We've spent thirteen chapters asking what might be underneath reality — particles, forces, strings, tangles, one tiny rule. Here's a stranger question to close on: how did a universe made of matter ever figure out how to ask that in the first place?
 
 ↑ Back to Contents
 
 
-### End of Part III
+## End of Part III — What Is Still a Bet
 
-Chapters 9–11 followed physics past the edge of confirmed evidence: string theory, and the more speculative strand, knot and one-rule proposals, closing with a reflection on how to tell speculation from science in the first place. Part IV (three reflective essays on physics' own methods) picks up next, turning the lens from what the universe is made of to how physics manages to find out.
+Part III followed physics past the edge of confirmed evidence. String theory offers a mathematically rich framework that contains gravity and has explained the entropy of certain black holes, but it has not yet produced a unique, tested description of our universe. The knot, strand and one-rule proposals push further still, and served as a case study: they show how an idea can be beautiful and ambitious and still unfinished, and how wrong ideas in the same family have left lasting value behind, from knot theory to skyrmions.
+
+The closing chapter of the part gave the tools for telling these apart: a prediction that could have failed and did not, a number that comes out right, checks by people who did not invent the idea, and the patience to wait for five sigma and an independent confirmation. Those tools apply as much to the settled physics of Part I as to the speculation of Part III. The difference is only how much of the testing has already been done.
+
+Part IV turns from what the universe might be made of to the strange fact that it can be understood at all.
+
+↑ Back to Contents
 
 
 # Part IV — Reflections on Physics Itself
 
-## Chapter 12 — Patterns, Emergence and the Laws of Physics
+The last part of the book turns the telescope around. Instead of asking what the universe is made of, it asks how physics manages to find out at all.
+
+Chapter 15 looks at emergence: how a handful of simple rules can produce weather, flocks, cities and minds, and why the laws of physics are so often much shorter than their consequences. Chapter 16 is about analogy, the habit of seeing one thing as another, which has quietly done much of the real work of discovery, from Maxwell's imaginary gears to Einstein's elevator. Chapter 17 ends with self-reference: what happens when a piece of the universe builds a model of the universe that includes itself.
+
+These three chapters are lighter in tone and more reflective than the rest. They are also, in a sense, about you: the pattern-hunting, analogy-making, self-referential system that has just read fourteen chapters of physics and is still asking questions.
+
+
+## Chapter 15 — Patterns, Emergence and the Laws of Physics
 
 *[Chapter illustration]*
 
@@ -1578,7 +2035,7 @@ Three sentences of rules. Moving objects, guns, collisions, memory and universal
 
 ### Chaos Is Not Randomness
 
-Chapter 7 already covered this in detail: a chaotic system can be completely deterministic and still be unpredictable in practice, because a microscopic error in the initial measurement can grow into a completely different outcome. Deterministic does not mean predictable, and unpredictable does not mean random — physics is annoyingly good at keeping those apart.
+Chapter 10 already covered this in detail: a chaotic system can be completely deterministic and still be unpredictable in practice, because a microscopic error in the initial measurement can grow into a completely different outcome. Deterministic does not mean predictable, and unpredictable does not mean random — physics is annoyingly good at keeping those apart.
 
 ### The Butterfly Gets Blamed for Everything
 
@@ -1604,7 +2061,7 @@ That does not make the order less real. It makes the mechanism more interesting.
 
 Physicists love symmetry. Not because physicists are especially tidy people. Because symmetry lets us identify what matters and ignore what does not. If the laws are unchanged when we move the whole experiment, that matters.
 
-If they are unchanged when we rotate it, that matters. If certain transformations leave the laws unchanged, conservation laws follow — Noether's theorem, met back in Chapter 4, turns this into one of the most beautiful connections in theoretical physics.
+If they are unchanged when we rotate it, that matters. If certain transformations leave the laws unchanged, conservation laws follow — Noether's theorem, met back in Chapter 7, turns this into one of the most beautiful connections in theoretical physics.
 
 ### The Law Can Be Shorter Than Its Consequences
 
@@ -1697,7 +2154,7 @@ Just matter doing something astonishingly complicated because the rules gave it 
 ↑ Back to Contents
 
 
-## Chapter 13 — Analogy: How the Human Mind Finds Physics
+## Chapter 16 — Analogy: How the Human Mind Finds Physics
 
 *[Chapter illustration]*
 
@@ -1880,7 +2337,7 @@ And perhaps the most human part of science is our ability to recognize one struc
 ↑ Back to Contents
 
 
-## Chapter 14 — Physics, Self-Reference and the Strange Loop
+## Chapter 17 — Physics, Self-Reference and the Strange Loop
 
 *[Chapter illustration]*
 
@@ -1954,7 +2411,7 @@ The universe has apparently built a machine from itself that is now trying to ex
 
 ### Emergence: The Whole Gets Ideas the Parts Never Had
 
-As Chapter 12 already showed with a single water molecule: one water molecule is not wet, and it has no temperature in the ordinary macroscopic sense. One person is not a traffic jam. Yet water can be wet, a gas can have a temperature, and a city can have traffic.
+As Chapter 15 already showed with a single water molecule: one water molecule is not wet, and it has no temperature in the ordinary macroscopic sense. One person is not a traffic jam. Yet water can be wet, a gas can have a temperature, and a city can have traffic.
 
 These are emergent properties. They arise from interactions among many parts. Nothing supernatural has been added. The whole simply has patterns that make sense at its own level.
 
@@ -2039,15 +2496,21 @@ It has produced a physical system capable of asking where physical systems came 
 ↑ Back to Contents
 
 
-### End of Part IV
+## End of Part IV — Physics Looking at Itself
 
-Chapters 12–14 close the book by turning physics on itself: how simple rules produce the complexity physics spends its time describing, how analogy actually does the work of discovery, and what happens when a universe made of matter becomes able to ask what it's made of.
+Part IV closed the book by turning physics on itself. Simple rules produce complexity that their authors never wrote down, and new vocabularies such as temperature, pressure and flocking emerge at every level. Analogy, the habit of seeing one thing as another, has done much of the actual work of discovery, as long as each analogy is retired at the point where it breaks. And a universe made of matter has produced systems that build models of the universe that include themselves, which is either the strangest loop in nature or the most natural thing in the world.
+
+None of these ideas is a theory of physics in the sense that the Standard Model is. They are reflections on how theories are made, and on why the method keeps working. The Epilogue gathers the whole journey together.
+
+↑ Back to Contents
 
 # Epilogue: The Edge of Knowledge Keeps Moving
 
 ## Where We Started
 
 This book opened inside a nucleus, a hundred thousand times smaller than the atom that contains it, and worked outward from there. Nuclear physics. Neutrinos that shrug off entire planets. A Standard Model precise enough to predict a particle's magnetic moment to twelve decimal places, and organized enough to fit every known matter particle onto a single, oddly elegant table.
+
+Then the machines that made all of that knowable: accelerators that drive protons to within a hundred-millionth of the speed of light, and detectors that rebuild a vanished particle from the angle between two photons. Then the two forces of the nucleus, which turned out to have opposite personalities. The strong force grips harder the farther you pull, never lets a quark go, and manufactures almost all of the mass of ordinary matter. The weak force barely touches anything, but it changes what things are, and by refusing to hurry it lets the Sun ration its fuel across billions of years.
 
 Then symmetry, which turned out to be the reason any of that organization exists in the first place. Then semiconductors, which is what happens when you take that organization and build a civilization on top of it. None of that is speculation. All of it has been tested, rebuilt, and tested again.
 
@@ -2059,7 +2522,7 @@ These are not embarrassments. They are some of the most interesting sentences ph
 
 ## Where We Started Guessing Out Loud
 
-Further out, this book followed physics past the edge of what has been measured. String theory. The stranger, more speculative idea that particles might be knots in some deeper structure.
+Further out, this book followed physics past the edge of what has been measured. String theory, with its extra dimensions and its holographic surprises. The stranger, more speculative ideas that particles might be knots in some deeper structure, that forces might be geometry in disguise, or that the whole universe might follow from one tiny rule. And a checklist for judging all of them.
 
 Ideas this far out are not failures of rigor. They are what rigor looks like when it runs out of data and has to keep working anyway, carefully, and honestly labeled as unproven.
 
@@ -2087,6 +2550,12 @@ The universe has not finished revealing itself, and neither, happily, has this b
 ## Settled
 
 The Standard Model's particle inventory: six quarks, six leptons, the force-carrying bosons, and the Higgs. Tested to extraordinary precision.
+
+Quantum chromodynamics: quarks carry three colors and are never seen alone; the strong force weakens at short distances (asymptotic freedom); almost all of a proton's mass is strong-force energy, not the masses of its quarks.
+
+The weak force and electroweak unification: beta decay is a quark changing flavor through a W boson; the W and Z were predicted and then found at the predicted masses; the weak force tells left from right; there are three light neutrino types.
+
+How we know: accelerators trade energy for resolution and, through E = mc², for mass; detectors reconstruct particles nobody sees from their tracks, their deposits of energy and the momentum that goes missing.
 
 Symmetry and conservation laws. Noether's theorem connects them mathematically; experiments confirm the connection routinely.
 
@@ -2116,13 +2585,17 @@ How complex, unpredictable patterns can emerge from small sets of simple rules.
 
 What it means for a physical theory to refer to, or contain, itself.
 
-## Ten Things to Chew On
+## Twelve Things to Chew On
 
 No solutions appendix, no grading. Some of these have a loosely checkable answer; most don't. Sit with them for as long as they're interesting and no longer.
 
 A sugar cube's worth of neutron-star material weighs about as much as a mountain. Before you look anything up: how many zeros do you think separate “sugar cube” from “mountain”? Then check how far off your gut was.
 
 Roughly 65 billion solar neutrinos pass through every square centimeter of you, every second, walls or no walls. Rough estimate: how many have passed through you since you started reading this sentence?
+
+About four thousand potassium-40 nuclei decay inside an adult body every second, and nearly nine in ten of those decays emit an antineutrino. Rough estimate: how many antineutrinos have you sent out into the universe since you woke up this morning?
+
+An LHC proton falls short of the speed of light by about one part in a hundred million. If it raced a flash of light to the Moon, 384,000 kilometers away, by roughly how much would it lose? Guess first, then work it out.
 
 Noether's theorem ties conservation of energy to the fact that physics doesn't quietly change from one day to the next. If it did — just a little, just on Tuesdays — what's the first ordinary thing you think you'd notice going wrong?
 
@@ -2140,9 +2613,11 @@ One ant isn't smart. An ant colony can solve routing problems that stump enginee
 
 You just finished a book about matter trying to explain itself. Now that you know that's what you were reading — does it change how you feel about any of the explanations, or not at all?
 
-## Five Things Worth Remembering
+## Six Things Worth Remembering
 
 Being right and being finished are different achievements. The Standard Model is both spectacularly successful and openly incomplete.
+
+Most of your mass does not come from the Higgs field. It is the trapped energy of the strong force, holding quarks inside protons and neutrons.
 
 A statistical law can be perfectly reliable while individual events underneath it stay unpredictable.
 
@@ -2175,6 +2650,16 @@ Kenneth S. Krane, Introductory Nuclear Physics (Wiley, 1988). ISBN 978-0-471-805
 
 David Griffiths, Introduction to Elementary Particles, 2nd edition (Wiley-VCH, 2008). ISBN 978-3-527-40601-2. Textbook. The clearest first course in the Standard Model.
 
+## Forces, Quarks and Colliders
+
+Frank Wilczek, The Lightness of Being: Mass, Ether, and the Unification of Forces (Basic Books, 2008). ISBN 978-0-465-00321-1. One of the discoverers of asymptotic freedom on the strong force, and on why most of the mass of ordinary matter is energy.
+
+Frank Close, The Infinity Puzzle: Quantum Field Theory and the Hunt for an Orderly Universe (Basic Books, 2011). ISBN 978-0-465-02144-4. The tangled human history of electroweak unification, the Higgs mechanism and the W and Z.
+
+Leon M. Lederman with Dick Teresi, The God Particle: If the Universe Is the Answer, What Is the Question? (Houghton Mifflin, 1993). ISBN 978-0-395-55849-2. An irreverent tour of accelerators and the Standard Model by the Nobel laureate who led the discovery of the bottom quark.
+
+Francis Halzen and Alan D. Martin, Quarks and Leptons: An Introductory Course in Modern Particle Physics (Wiley, 1984). ISBN 978-0-471-88741-6. Textbook. Color, QCD, the electroweak theory and the electron-positron ratio worked through in detail.
+
 ## Symmetry
 
 Leon M. Lederman and Christopher T. Hill, Symmetry and the Beautiful Universe (Prometheus Books, 2004). ISBN 978-1-59102-242-8. Noether's theorem and its consequences, explained for general readers.
@@ -2201,15 +2686,15 @@ Steven Weinberg, Dreams of a Final Theory (Pantheon, 1992). ISBN 978-0-679-41923
 
 Karl Popper, The Logic of Scientific Discovery (Routledge Classics, 2002). ISBN 978-0-415-27844-7. The original argument that a scientific theory must be able to fail.
 
-Christoph Schiller, Motion Mountain, Volume VI: A Speculation on Unification. Self-published and freely available at motionmountain.net. The primary source for the strand model discussed in Chapter 10; read it as a one-person research proposal, not as established physics.
+Christoph Schiller, Motion Mountain, Volume VI: A Speculation on Unification. Self-published and freely available at motionmountain.net. The primary source for the strand model discussed in Chapter 13; read it as a one-person research proposal, not as established physics.
 
 ## Patterns, Analogy and Self-Reference
 
-Douglas R. Hofstadter, Gödel, Escher, Bach: An Eternal Golden Braid (Basic Books, 20th anniversary edition, 1999). ISBN 978-0-465-02656-2. The book behind the strange loops of Chapter 14.
+Douglas R. Hofstadter, Gödel, Escher, Bach: An Eternal Golden Braid (Basic Books, 20th anniversary edition, 1999). ISBN 978-0-465-02656-2. The book behind the strange loops of Chapter 17.
 
 Douglas R. Hofstadter, I Am a Strange Loop (Basic Books, 2007). ISBN 978-0-465-03078-1. A shorter, more personal return to the same ideas.
 
-Douglas Hofstadter and Emmanuel Sander, Surfaces and Essences: Analogy as the Fuel and Fire of Thinking (Basic Books, 2013). ISBN 978-0-465-01847-5. The case, developed in Chapter 13, that analogy is the core of thought.
+Douglas Hofstadter and Emmanuel Sander, Surfaces and Essences: Analogy as the Fuel and Fire of Thinking (Basic Books, 2013). ISBN 978-0-465-01847-5. The case, developed in Chapter 16, that analogy is the core of thought.
 
 ↑ Back to Contents
 
@@ -2222,6 +2707,8 @@ Carroll, Sean. From Eternity to Here: The Quest for the Ultimate Theory of Time.
 
 Close, Frank. Neutrino. Oxford: Oxford University Press, 2010. ISBN 978-0-19-957459-9.
 
+Close, Frank. The Infinity Puzzle: Quantum Field Theory and the Hunt for an Orderly Universe. New York: Basic Books, 2011. ISBN 978-0-465-02144-4.
+
 Feynman, Richard P. QED: The Strange Theory of Light and Matter. Princeton: Princeton University Press, 2014. ISBN 978-0-691-16409-0.
 
 Gleick, James. Chaos: Making a New Science. New York: Penguin, 2008. ISBN 978-0-14-311345-4.
@@ -2229,6 +2716,10 @@ Gleick, James. Chaos: Making a New Science. New York: Penguin, 2008. ISBN 978-0-
 Greene, Brian. The Elegant Universe. New York: W. W. Norton, 1999. ISBN 978-0-393-04688-5.
 
 Griffiths, David. Introduction to Elementary Particles. 2nd ed. Weinheim: Wiley-VCH, 2008. ISBN 978-3-527-40601-2.
+
+Halzen, Francis, and Alan D. Martin. Quarks and Leptons: An Introductory Course in Modern Particle Physics. New York: Wiley, 1984. ISBN 978-0-471-88741-6.
+
+Hofstadter, Douglas R., and Emmanuel Sander. Surfaces and Essences: Analogy as the Fuel and Fire of Thinking. New York: Basic Books, 2013. ISBN 978-0-465-01847-5.
 
 Hofstadter, Douglas R. Gödel, Escher, Bach: An Eternal Golden Braid. 20th anniversary ed. New York: Basic Books, 1999. ISBN 978-0-465-02656-2.
 
@@ -2238,13 +2729,13 @@ Hofstadter, Douglas R. Le Ton beau de Marot: In Praise of the Music of Language.
 
 Hofstadter, Douglas R. Metamagical Themas: Questing for the Essence of Mind and Pattern. New York: Basic Books, 1985. ISBN 978-0-465-04566-2.
 
-Hofstadter, Douglas R., and Emmanuel Sander. Surfaces and Essences: Analogy as the Fuel and Fire of Thinking. New York: Basic Books, 2013. ISBN 978-0-465-01847-5.
-
 Kittel, Charles. Introduction to Solid State Physics. 8th ed. Hoboken: Wiley, 2005. ISBN 978-0-471-41526-8.
 
 Krane, Kenneth S. Introductory Nuclear Physics. New York: Wiley, 1988. ISBN 978-0-471-80553-3.
 
 Lederman, Leon M., and Christopher T. Hill. Symmetry and the Beautiful Universe. Amherst: Prometheus Books, 2004. ISBN 978-1-59102-242-8.
+
+Lederman, Leon M., with Dick Teresi. The God Particle: If the Universe Is the Answer, What Is the Question? Boston: Houghton Mifflin, 1993. ISBN 978-0-395-55849-2.
 
 Popper, Karl. The Logic of Scientific Discovery. London: Routledge Classics, 2002. ISBN 978-0-415-27844-7.
 
@@ -2255,6 +2746,8 @@ Smolin, Lee. The Trouble with Physics. Boston: Houghton Mifflin, 2006. ISBN 978-
 Strogatz, Steven H. Nonlinear Dynamics and Chaos. 2nd ed. Boulder: Westview Press, 2015. ISBN 978-0-8133-4910-7.
 
 Weinberg, Steven. Dreams of a Final Theory. New York: Pantheon, 1992. ISBN 978-0-679-41923-5.
+
+Wilczek, Frank. The Lightness of Being: Mass, Ether, and the Unification of Forces. New York: Basic Books, 2008. ISBN 978-0-465-00321-1.
 
 Woit, Peter. Not Even Wrong. New York: Basic Books, 2006. ISBN 978-0-465-09275-8.
 
@@ -2268,7 +2761,13 @@ Zwiebach, Barton. A First Course in String Theory. 2nd ed. Cambridge: Cambridge 
 
 Ahmad, Q. R., et al. (SNO Collaboration). "Direct Evidence for Neutrino Flavor Transformation from Neutral-Current Interactions in the Sudbury Neutrino Observatory." Physical Review Letters 89 (2002): 011301.
 
+ALEPH, DELPHI, L3, OPAL and SLD Collaborations. "Precision Electroweak Measurements on the Z Resonance." Physics Reports 427 (2006): 257–454.
+
+Anderson, Carl D. "The Positive Electron." Physical Review 43 (1933): 491–494.
+
 Anderson, P. W. "More Is Different." Science 177 (1972): 393–396.
+
+Arnison, G., et al. (UA1 Collaboration). "Experimental Observation of Isolated Large Transverse Energy Electrons with Associated Missing Energy at √s = 540 GeV." Physics Letters B 122 (1983): 103–116.
 
 ATLAS Collaboration. "Observation of a New Particle in the Search for the Standard Model Higgs Boson with the ATLAS Detector at the LHC." Physics Letters B 716 (2012): 1–29.
 
@@ -2280,31 +2779,55 @@ Bell, J. S. "On the Einstein Podolsky Rosen Paradox." Physics 1 (1964): 195–20
 
 Bérut, A., et al. "Experimental Verification of Landauer's Principle Linking Information and Thermodynamics." Nature 483 (2012): 187–189.
 
+Bloom, E. D., et al. "High-Energy Inelastic e–p Scattering at 6° and 10°." Physical Review Letters 23 (1969): 930–934.
+
+Borsanyi, Sz., et al. "Ab Initio Calculation of the Neutron-Proton Mass Difference." Science 347 (2015): 1452–1455.
+
+Brandelik, R., et al. (TASSO Collaboration). "Evidence for Planar Events in e⁺e⁻ Annihilation at High Energies." Physics Letters B 86 (1979): 243–249.
+
 Carnot, Sadi. Réflexions sur la puissance motrice du feu. Paris: Bachelier, 1824.
 
 Casimir, H. B. G. "On the Attraction Between Two Perfectly Conducting Plates." Proceedings of the Royal Netherlands Academy of Arts and Sciences 51 (1948): 793–795.
+
+CDF Collaboration. "High-Precision Measurement of the W Boson Mass with the CDF II Detector." Science 376 (2022): 170–176.
 
 Christenson, J. H., J. W. Cronin, V. L. Fitch, and R. Turlay. "Evidence for the 2π Decay of the K₂⁰ Meson." Physical Review Letters 13 (1964): 138–140.
 
 CMS Collaboration. "Observation of a New Boson at a Mass of 125 GeV with the CMS Experiment at the LHC." Physics Letters B 716 (2012): 30–61.
 
+Cockcroft, J. D., and E. T. S. Walton. "Disintegration of Lithium by Swift Protons." Nature 129 (1932): 649.
+
 Cowan, C. L., Jr., F. Reines, et al. "Detection of the Free Neutrino: A Confirmation." Science 124 (1956): 103–104.
 
 Cubitt, Toby S., David Pérez-García, and Michael M. Wolf. "Undecidability of the Spectral Gap." Nature 528 (2015): 207–211.
 
+Dürr, S., et al. "Ab Initio Determination of Light Hadron Masses." Science 322 (2008): 1224–1227.
+
 Feigenbaum, Mitchell J. "Quantitative Universality for a Class of Nonlinear Transformations." Journal of Statistical Physics 19 (1978): 25–52.
+
+Fermi, Enrico. "Versuch einer Theorie der β-Strahlen. I." Zeitschrift für Physik 88 (1934): 161–177.
 
 Fukuda, Y., et al. (Super-Kamiokande Collaboration). "Evidence for Oscillation of Atmospheric Neutrinos." Physical Review Letters 81 (1998): 1562–1567.
 
 Gardner, Martin. "Mathematical Games: The Fantastic Combinations of John Conway's New Solitaire Game 'Life'." Scientific American 223, no. 4 (1970): 120–123.
 
+Gell-Mann, M. "A Schematic Model of Baryons and Mesons." Physics Letters 8 (1964): 214–215.
+
+Glashow, S. L. "Partial-Symmetries of Weak Interactions." Nuclear Physics 22 (1961): 579–588.
+
 Gödel, Kurt. "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." Monatshefte für Mathematik und Physik 38 (1931): 173–198.
+
+Gross, D. J., and F. Wilczek. "Ultraviolet Behavior of Non-Abelian Gauge Theories." Physical Review Letters 30 (1973): 1343–1346.
+
+Hasert, F. J., et al. "Observation of Neutrino-Like Interactions Without Muon or Electron in the Gargamelle Neutrino Experiment." Physics Letters B 46 (1973): 138–140.
 
 IceCube Collaboration, et al. "Multimessenger Observations of a Flaring Blazar Coincident with High-Energy Neutrino IceCube-170922A." Science 361 (2018): eaat1378.
 
 Kaluza, Theodor. "Zum Unitätsproblem der Physik." Sitzungsberichte der Preussischen Akademie der Wissenschaften (1921): 966–972.
 
 Klein, Oskar. "Quantentheorie und fünfdimensionale Relativitätstheorie." Zeitschrift für Physik 37 (1926): 895–906.
+
+Kobayashi, M., and T. Maskawa. "CP-Violation in the Renormalizable Theory of Weak Interaction." Progress of Theoretical Physics 49 (1973): 652–657.
 
 Lamb, Willis E., Jr., and Robert C. Retherford. "Fine Structure of the Hydrogen Atom by a Microwave Method." Physical Review 72 (1947): 241–243.
 
@@ -2314,6 +2837,8 @@ Landauer, R. "Irreversibility and Heat Generation in the Computing Process." IBM
 
 Laskar, J. "A Numerical Experiment on the Chaotic Behaviour of the Solar System." Nature 338 (1989): 237–238.
 
+Lawrence, E. O., and M. S. Livingston. "The Production of High Speed Light Ions Without the Use of High Voltages." Physical Review 40 (1932): 19–35.
+
 Lee, T. D., and C. N. Yang. "Question of Parity Conservation in Weak Interactions." Physical Review 104 (1956): 254–258.
 
 Lorenz, Edward N. "Deterministic Nonperiodic Flow." Journal of the Atmospheric Sciences 20 (1963): 130–141.
@@ -2322,18 +2847,28 @@ Maxwell, James Clerk. "On Physical Lines of Force." Philosophical Magazine 21 an
 
 Noether, Emmy. "Invariante Variationsprobleme." Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen, Mathematisch-Physikalische Klasse (1918): 235–257.
 
+Politzer, H. D. "Reliable Perturbative Results for Strong Interactions?" Physical Review Letters 30 (1973): 1346–1349.
+
+Rutherford, E. "The Scattering of α and β Particles by Matter and the Structure of the Atom." Philosophical Magazine 21 (1911): 669–688.
+
 Skyrme, T. H. R. "A Unified Field Theory of Mesons and Baryons." Nuclear Physics 31 (1962): 556–569.
 
 Thomson, William (Lord Kelvin). "On Vortex Atoms." Proceedings of the Royal Society of Edinburgh 6 (1867): 94–105.
 
 Turing, A. M. "On Computable Numbers, with an Application to the Entscheidungsproblem." Proceedings of the London Mathematical Society, ser. 2, 42 (1936): 230–265.
 
+Weinberg, Steven. "A Model of Leptons." Physical Review Letters 19 (1967): 1264–1266.
+
 Weinberg, Steven. "The Cosmological Constant Problem." Reviews of Modern Physics 61 (1989): 1–23.
+
+Wilson, Kenneth G. "Confinement of Quarks." Physical Review D 10 (1974): 2445–2459.
 
 Wilson, Kenneth G. "Renormalization Group and Critical Phenomena." Physical Review B 4 (1971): 3174–3183.
 
 Witten, Edward. "String Theory Dynamics in Various Dimensions." Nuclear Physics B 443 (1995): 85–126.
 
 Wu, C. S., E. Ambler, R. W. Hayward, D. D. Hoppes, and R. P. Hudson. "Experimental Test of Parity Conservation in Beta Decay." Physical Review 105 (1957): 1413–1415.
+
+Yukawa, Hideki. "On the Interaction of Elementary Particles. I." Proceedings of the Physico-Mathematical Society of Japan 17 (1935): 48–57.
 
 ↑ Back to Contents
