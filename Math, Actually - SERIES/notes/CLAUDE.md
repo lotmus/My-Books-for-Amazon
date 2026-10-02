@@ -406,7 +406,7 @@ previewed in Kindle Previewer before publishing.
 
 ## 11. 1 Oct 2026, late night: folder move, layout, and audit of all four volumes
 
-**Layout.** The Tower now sits at the books root as `The Mathematics Tower\`.
+**Layout.** The Tower now sits at the books root as `Math, Actually - SERIES\` (renamed from `The Mathematics Tower\` on 2 Oct 2026).
 It used to be `Math for HS and College\The Mathematics Tower\`, and that
 folder is gone.
 - Root: the four volume .docx masters, `KDP_Description.md`, and the cover
