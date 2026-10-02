@@ -21,6 +21,24 @@ WES: fr = 1/(2π√(50 × 10⁻⁶ × 22 × 10⁻⁹)) = 152 kHz. A half-bridge 
 KEY: Key idea. A transformer buys isolation and large ratios. The flyback stores energy in it, the forward converter passes energy through it, and the LLC uses resonance so that its switches turn on at zero voltage and off at low loss.
 H2: 5.4 Wide-bandgap switches
 P: Gallium-nitride transistors at 650 V and silicon-carbide MOSFETs at 650 V to 1700 V and beyond have transformed isolated converters. GaN has very low capacitance and no reverse-recovery charge, so it switches in a few nanoseconds and enables flybacks and LLCs at several hundred kilohertz to megahertz in small chargers. SiC withstands higher voltage and temperature and dominates electric-vehicle traction inverters, onboard chargers, and solar inverters at 800 V. Both demand careful gate drive and layout, because their fast edges excite every parasitic inductance; the hot-loop rule of Chapter 3 applies with greater force. Indium phosphide, the high-frequency compound of Book 4, has no role in power conversion.
+H2: 5.5 Designing a flyback: turns ratio, stress, and leakage
+P: A flyback design starts from one choice, the reflected voltage VR, the output voltage plus the rectifier drop multiplied by the turns ratio Np/Ns. While the secondary conducts, VR appears on the primary on top of the input. A larger VR lowers the secondary's stress and allows a larger duty cycle at low line, but raises the primary switch's voltage. The switch must withstand the peak rectified line, the reflected voltage, and the spike produced by the transformer's leakage inductance, which no transformer can avoid entirely. That spike is clamped by an RCD snubber, which dissipates the leakage energy, ½LlkIpk² per cycle and somewhat more in practice because the clamp also discharges part of the reflected voltage, or by an active clamp that returns it to the input.
+EQ: VDS,max = √2 Vac,max + VR + Vspike,   P_leak ≈ ½ Llk Ipk² fsw
+H2: 5.6 The modern USB-C charger
+P: A 65 W laptop charger of 2026 is a quasi-resonant or active-clamp flyback with a 650 V GaN switch, a synchronous rectifier on the secondary, and a USB Power Delivery controller that negotiates 5 to 20 V, or up to 48 V under Extended Power Range. Power Integrations' InnoSwitch, Navitas's GaNFast, and the Infineon and TI active-clamp controllers integrate most of it. GaN's small output charge lets the switch run at 100 to 300 kHz with low loss, the active clamp recycles the leakage energy, and the smaller transformer and capacitors shrink the charger to a third of the volume of a silicon design of 2015, at power densities above 1.5 W/cm³.
+H2: Worked Example 5.4
+WEP: A 65 W, 20 V flyback runs from 90 to 264 VAC with VR = 100 V and a 0.5 V synchronous rectifier drop. Find the turns ratio, the duty cycle at the 100 V valley of the bulk capacitor at low line, assuming boundary conduction, and the switch voltage before the spike at high line.
+WES: Np/Ns = 100/20.5 = 4.88. At the boundary of conduction, volt-second balance gives D = VR/(VR + Vin) = 100/200 = 0.50. At 264 VAC the bulk capacitor reaches 373 V, so the switch sees 373 + 100 = 473 V before the leakage spike; with 80 to 100 V of spike, a 650 V GaN switch keeps about 15 % margin.
+H2: Worked Example 5.5
+WEP: For the same converter at 92 % efficiency and 100 kHz, find the primary peak current at the 100 V valley, and the leakage energy lost per second if Llk = 3 µH and the clamp simply dissipates it.
+WES: The input power is 70.7 W and the average input current 0.707 A. In boundary conduction at D = 0.5 the input current is a triangle averaging ½IpkD, so Ipk = 2 × 0.707/0.5 = 2.83 A. The leakage loss is ½ × 3 × 10⁻⁶ × 2.83² × 10⁵ = 1.2 W, nearly 2 % of the output and more in an RCD clamp. An active clamp recovers most of it, which is a large part of why GaN chargers reach 93 to 94 %.
+H2: 5.7 Designing the LLC tank
+P: The LLC converter of Section 5.3 is defined by three tank elements: the resonant inductance Lr, often the transformer's leakage, the resonant capacitor Cr, and the magnetizing inductance Lm. At the series resonant frequency fr = 1/(2π√(LrCr)) the tank's gain is one, set by the turns ratio alone, and the converter is most efficient, with zero-voltage switching on the primary and zero-current switching of the rectifiers. Below fr the magnetizing inductance joins the resonance and the gain rises; above it the gain falls below one. The ratio Ln = Lm/Lr, typically 4 to 10, trades the gain range against magnetizing current: a small Ln gives more gain range for a narrow frequency sweep but more circulating current. Data-center bus converters run their LLC exactly at fr as a fixed-ratio DC transformer and leave regulation to the next stage.
+EQ: fr = 1/(2π √(Lr Cr)),   Ln = Lm / Lr
+H2: Worked Example 5.6
+WEP: An LLC tank has Lr = 60 µH, Cr = 47 nF, and Lm = 300 µH. Find the series resonant frequency and Ln, and the characteristic impedance √(Lr/Cr).
+WES: fr = 1/(2π√(60 × 10⁻⁶ × 47 × 10⁻⁹)) = 94.8 kHz, Ln = 300/60 = 5, and √(Lr/Cr) = √(1277) = 35.7 Ω. The characteristic impedance, compared with the load reflected through the transformer, sets the tank's quality factor and so how steeply the gain varies with frequency.
+P: The isolated converters bring a transformer into the design, and with it the magnetic component that every switching converter depends on. Chapter 6 sorts those components into families and shows how to choose and size them.
 H2: Practice
 PR: A forward converter has n = 2 and runs from 48 V at D = 0.4. Find its output.
 PR: A flyback converts 48 V to 5 V with a 4:1 ratio. Find its duty cycle in continuous conduction.
@@ -28,9 +46,15 @@ PR: Find the switch stress, before the spike, of the flyback in the previous pro
 PR: Find the resonant frequency of an LLC with Lr = 100 µH and Cr = 10 nF.
 PR: A flyback stores 100 µJ per cycle at 200 kHz. What power does it deliver, neglecting losses?
 PR: Why does an LLC converter have lower switching losses than a hard-switched forward converter?
+PR: A flyback for 12 V output uses VR = 80 V with a 0.4 V rectifier drop. Find the turns ratio.
+PR: Why does a lower leakage inductance matter more at higher switching frequency?
+PR: What resonant capacitor gives fr = 200 kHz with Lr = 20 µH?
 ANS: 48 × 0.4/2 = 9.6 V.
 ANS: D/(1 − D) = 4 × 5/48 = 0.417, so D = 0.294.
 ANS: 48 + 4 × 5 = 68 V.
 ANS: 1/(2π√(10⁻¹²)) = 159 kHz.
 ANS: 100 µJ × 200 × 10³ = 20 W.
 ANS: Operating near resonance, its switches turn on after their voltage has swung to zero and its rectifiers turn off at zero current, so the voltage-current overlap losses at each transition nearly disappear.
+ANS: 80/12.4 = 6.45.
+ANS: The leakage energy, ½LlkIpk², is lost once per cycle, so its power grows in proportion to the switching frequency.
+ANS: C = 1/((2π × 2 × 10⁵)² × 20 × 10⁻⁶) = 31.7 nF.

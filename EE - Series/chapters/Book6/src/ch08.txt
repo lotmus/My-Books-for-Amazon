@@ -24,6 +24,23 @@ EQ: droop ≈ R τ / Lm
 H2: Worked Example 8.4
 WEP: For the modulator of Example 8.3, what primary magnetizing inductance limits the droop to 5%? What is it referred to the secondary?
 WES: Lm ≥ Rτ/0.05 = 10 × 10⁻⁶/0.05 = 200 µH on the primary. Referred to the secondary, through the square of the 1:10 ratio, it is 20 mH, which is the same as computing with the 1 kΩ load directly: 1000 × 10⁻⁶/0.05 = 20 mH.
+H2: 8.5 The Marx generator
+P: When a pulse must reach hundreds of kilovolts, charging one capacitor to that voltage would require a supply and insulation at the full voltage the whole time. Erwin Marx's 1924 generator avoids it. N capacitors are charged in parallel through resistors to a moderate voltage V. Spark gaps, or in modern designs solid-state switches, then reconnect them in series, and the output momentarily reaches about NV. The erected capacitance is C/N, and the stored energy, N × ½CV², is the same before and after. Marx generators test insulation with standard lightning impulses, 1.2 µs rise and 50 µs fall, drive flash X-ray tubes and ion accelerators, and, built from MOSFETs or IGBTs with sub-microsecond switching, power pulsed electric-field food processing and medical ablation.
+EQ: Vout ≈ N V,   Cerected = C / N,   E = N × ½ C V²
+H2: 8.6 Creepage and clearance
+P: Insulation in air fails in two ways. Through the air, the shortest distance between conductors, the clearance, must withstand transient overvoltages, and breakdown depends on the peak voltage, the field shape, and the altitude. Along a surface, the distance, the creepage, must withstand the working voltage for years while dust and moisture build up conductive tracks. IEC 60664-1 and the product standards derived from it, such as IEC 62368-1 for IT equipment, tabulate both by voltage, pollution degree, and the tracking resistance of the insulating material, its comparative tracking index. At 1000 V RMS working voltage, pollution degree 2, and a common board material, the creepage requirement is about 5 mm for basic insulation and twice that for reinforced; slots milled in the board lengthen the surface path where space is short.
+H2: Worked Example 8.5
+WEP: A ten-stage Marx generator uses 0.1 µF capacitors charged to 30 kV. Find the erected voltage, the erected capacitance, and the stored energy, and the peak current into a 100 Ω load.
+WES: The output is about 10 × 30 kV = 300 kV, from 0.1 µF/10 = 10 nF, storing 10 × ½ × 0.1 × 10⁻⁶ × (30 × 10³)² = 450 J. Into 100 Ω the initial current is 300 kV/100 Ω = 3 kA, decaying with a time constant of 100 Ω × 10 nF = 1 µs, before the stray inductance of the stack, which slows the rise, is counted.
+H2: Worked Example 8.6
+WEP: A design at sea level has 3 mm of clearance, adequate for its impulse rating. The product is to be used at 4000 m, where IEC 60664-1 applies a clearance multiplication factor of about 1.29. What clearance is needed?
+WES: 3 mm × 1.29 = 3.9 mm. Thinner air breaks down at lower voltage, so clearances grow with altitude, while creepage, which depends on surface contamination, does not.
+H2: 8.7 The energy hiding in a cable
+P: A high-voltage system stores energy in places that do not look like capacitors. A shielded cable has a capacitance of about 100 pF per meter, depending on its size and insulation, and a long run charged to tens of kilovolts holds enough energy to kill. After the supply is switched off, that charge remains until it is bled away, and dielectric absorption in the insulation can bring part of it back after a brief short. Safe practice therefore treats every high-voltage conductor as charged until it has been grounded with a hot stick, keeps grounding straps on it while work proceeds, and fits permanent bleeder resistors sized to bring the voltage below 50 V within a defined time, often a minute or less.
+H2: Worked Example 8.7
+WEP: A 100 m high-voltage cable with 100 pF/m is charged to 50 kV. Find its stored energy, and the bleeder resistance that brings it below 50 V within 60 s.
+WES: C = 10 nF, and E = ½ × 10⁻⁸ × (5 × 10⁴)² = 12.5 J, far above the 350 mJ that the IEC 61010-1 safety standard treats as hazardous at such voltages. Decaying from 50 kV to 50 V takes ln(1000) = 6.9 time constants, so RC ≤ 60/6.9 = 8.7 s and R ≤ 870 MΩ. A bleeder of a few hundred megohms, built from a chain of resistors each within its voltage rating, does it while dissipating only a few watts at full voltage.
+P: High voltage concentrates the converter's problems into insulation and stored energy. Part II goes back inside the converter, starting with an accounting of where its watts are lost.
 H2: Practice
 PR: Find the energy in a 100 µF capacitor charged to 5 kV.
 PR: A Marx generator has 12 stages charged to 25 kV. Estimate its output.
@@ -31,9 +48,15 @@ PR: Design a pulse-forming network for 25 Ω and a 1 µs pulse: find its total c
 PR: The network of the previous problem is charged to 8 kV. Find the load voltage and the pulse power into a matched load.
 PR: A pulse transformer drives 50 Ω (primary-referred) for 2 µs. Find the magnetizing inductance for 2% droop.
 PR: Why is a sharp edge on a high-voltage electrode a problem even when the average field is acceptable?
+PR: Find the stored energy of a five-stage Marx generator with 1 µF capacitors charged to 20 kV, and its erected voltage.
+PR: Why does creepage, unlike clearance, not need correction for altitude?
+PR: Find the energy stored in a 2 nF capacitance at 30 kV.
 ANS: ½ × 10⁻⁴ × 2.5 × 10⁷ = 1250 J.
 ANS: About 12 × 25 = 300 kV.
 ANS: C = 10⁻⁶/50 = 20 nF; L = 10⁻⁶ × 25/2 = 12.5 µH.
 ANS: 4 kV across 25 Ω: 160 A and 640 kW.
 ANS: 50 × 2 × 10⁻⁶/0.02 = 5 mH.
 ANS: The field is enhanced at an edge, so it can exceed the breakdown strength locally, causing corona and partial discharge that erode insulation and can initiate full breakdown.
+ANS: 5 × ½ × 10⁻⁶ × (2 × 10⁴)² = 1000 J; about 100 kV.
+ANS: Creepage protects against surface tracking under contamination and moisture at the working voltage, which does not depend on air pressure; clearance protects against breakdown through the air, which does.
+ANS: ½ × 2 × 10⁻⁹ × (3 × 10⁴)² = 0.9 J.

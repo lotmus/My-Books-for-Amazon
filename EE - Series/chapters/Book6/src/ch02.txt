@@ -20,6 +20,24 @@ WES: At 60 dB, the ripple is divided by 1000, giving 0.1 mV. At 30 dB, it is div
 KEY: Key idea. An LDO trades efficiency for quietness. Its efficiency is Vout/Vin, fixed by the voltages; its value is in rejection and low noise, which a switching converter cannot provide alone.
 H2: 2.4 Stability
 P: The LDO's feedback loop has a pole from its error amplifier and a pole at its output, set by the load and the output capacitor, which moves with the load current. Older LDOs with PNP pass devices needed an output capacitor with a specific equivalent series resistance, because the zero it creates gave the phase margin; a low-ESR ceramic capacitor could make them oscillate. Most modern LDOs are internally compensated to be stable with ceramic capacitors, and their datasheets give the allowed range of capacitance and ESR. Using a larger capacitor than the datasheet allows, or placing a long trace between the LDO and its capacitor, can still erode the margin, and Book 2's loop analysis applies directly.
+H2: 2.5 Thermal design
+P: A linear regulator's loss is easy to compute and hard to get rid of: (Vin − Vout) × Iout, plus a small ground-current term, all dissipated in a few square millimeters. The junction temperature is the ambient plus the power times the thermal resistance from junction to ambient, θJA, which depends far more on the board than on the package. A SOT-223 regulator on a minimal footprint might show 100 °C/W; on a square inch of 2-ounce copper with thermal vias, about 50 to 60 °C/W. The maximum junction temperature is usually 125 °C, and good practice keeps it below about 105 °C for life. A regulator that needs more dissipation than that needs a different package, a heatsink, a pre-regulator to reduce Vin, or a switching converter.
+EQ: TJ = TA + (Vin − Vout) Iout θJA
+H2: 2.6 The LDO after the switcher
+P: The most common modern use of a linear regulator is to clean up the output of a switching converter for a noise-sensitive load: a clock synthesizer, an ADC reference, an RF front end. The quantity that matters is the power-supply rejection at the switching frequency, not at 120 Hz. A good conventional LDO rejects 60 to 70 dB at 1 kHz and only 20 to 40 dB at 1 MHz, where its loop gain has run out. Ultra-low-noise parts such as the Analog Devices LT3045 and the TI TPS7A94 use a current-reference architecture to keep 70 dB or more out to a megahertz, with output noise below 1 µV RMS from 10 Hz to 100 kHz. The rejection also falls as the dropout shrinks, so the headroom between the switcher's output and the LDO's must be chosen from the PSRR curve at the actual headroom, typically 300 to 500 mV, not from the headline number.
+H2: Worked Example 2.4
+WEP: A 5 V rail feeds a 3.3 V LDO in a SOT-223 that supplies 500 mA. The board gives θJA = 60 °C/W, and the ambient is 55 °C. Find the dissipation and the junction temperature.
+WES: P = (5 − 3.3) × 0.5 = 0.85 W, and TJ = 55 + 0.85 × 60 = 106 °C, right at the limit for long life. Feeding the LDO from a 3.8 V switcher output instead of 5 V cuts the loss to 0.25 W and the junction to 70 °C.
+H2: Worked Example 2.5
+WEP: A buck converter's 3.6 V output has 20 mV peak-to-peak ripple at 1 MHz. It feeds an LDO with 70 dB of rejection at 1 MHz at the chosen headroom. Find the ripple at the LDO's output, and repeat for a conventional LDO with 30 dB.
+WES: 70 dB is a factor of 3162, so the ripple falls to 20 mV/3162 = 6.3 µV peak to peak, below the LDO's own noise. With 30 dB, a factor of 31.6, the ripple is 0.63 mV, enough to show up as spurs at ±1 MHz on a synthesizer's output. A small LC filter before the LDO, with its resonance well below 1 MHz, would add the missing rejection.
+H2: 2.7 The shunt regulator and the TL431
+P: Not every regulator stands in series with the load. A shunt regulator sits across it and draws whatever current is needed to hold the voltage, with a series resistor dropping the rest; a Zener diode is the simplest example. The TL431, introduced by Texas Instruments in the 1970s and still made by the hundreds of millions, is an adjustable shunt regulator with a 2.495 V internal reference and an amplifier: it conducts as much current as needed to hold its reference pin at 2.495 V, so a divider sets the output to 2.495(1 + R1/R2). Its most common job today is not regulation but feedback: on the secondary of almost every offline flyback, it drives the LED of an optocoupler, which carries the error signal across the isolation barrier to the primary-side controller.
+EQ: Vout = 2.495 V × (1 + R1/R2)
+H2: Worked Example 2.6
+WEP: A TL431 must hold the feedback point of a 12 V flyback output. With R2 = 10 kΩ, find R1, and the divider current.
+WES: R1 = R2(12/2.495 − 1) = 10 kΩ × 3.81 = 38.1 kΩ, and the divider draws 2.495 V/10 kΩ = 0.25 mA. The TL431 itself needs at least 1 mA of cathode current to regulate, which the optocoupler's LED path and a bias resistor provide, a detail that sets part of the converter's no-load power.
+P: The linear regulator is quiet and simple, and its waste is set by the voltage it drops. Chapter 3 removes that waste by never letting the transistor sit between fully on and fully off.
 H2: Practice
 PR: Find the efficiency of a 5 V to 3.3 V LDO.
 PR: An LDO drops 12 V to 5 V at 100 mA. Find its dissipation.
@@ -27,9 +45,15 @@ PR: For the previous problem, what junction-to-ambient thermal resistance keeps 
 PR: An LDO has a dropout of 200 mV at full load. What is the lowest input for a 2.5 V output?
 PR: A 1 MHz ripple of 20 mV meets an LDO with 25 dB of PSRR at that frequency. Find the output ripple.
 PR: Why do older LDOs sometimes oscillate with ceramic output capacitors?
+PR: An LDO drops 12 V to 5 V at 100 mA with θJA = 80 °C/W at 40 °C ambient. Find the junction temperature.
+PR: How much rejection is needed to reduce 50 mV of ripple to 10 µV?
+PR: Find the output of a TL431 regulator with R1 = 15 kΩ and R2 = 10 kΩ.
 ANS: 3.3/5 = 66%.
 ANS: (12 − 5) × 0.1 = 0.7 W.
 ANS: (125 − 50)/0.7 = 107 °C/W or lower.
 ANS: 2.7 V.
 ANS: 20 × 10^(−25/20) = 1.12 mV.
 ANS: Their compensation relied on the zero formed by the output capacitor's ESR; a ceramic capacitor has very low ESR, so the zero moves to a high frequency and the loop loses phase margin.
+ANS: P = 0.7 W, TJ = 40 + 56 = 96 °C.
+ANS: 50 mV/10 µV = 5000, 74 dB.
+ANS: 2.495 × 2.5 = 6.24 V.

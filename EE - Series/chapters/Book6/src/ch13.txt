@@ -17,6 +17,24 @@ WEP: Find the synchronous speed of a four-pole motor at 60 Hz, and of an eight-p
 WES: 120 × 60/4 = 1800 rpm, and 120 × 200/8 = 3000 rpm. A traction motor reaching 15,000 rpm with eight poles needs an output frequency of 1000 Hz, so the inverter's switching frequency must be well above that, typically 10 to 20 kHz, to keep the current smooth.
 H2: 13.4 Common-mode voltage and bearing currents
 P: The fast edges of a PWM inverter produce a common-mode voltage on the motor's windings that couples through the motor's stray capacitances to its frame and bearings. The resulting currents can pit the bearings and fail the motor in months, and they radiate conducted emissions that Book 7's tests catch. Designers add common-mode chokes, filter the output with dv/dt or sine-wave filters, ground the shaft, or use insulated bearings. Faster SiC edges make the problem harder, so the benefit of lower switching loss must be weighed against the cost of filtering.
+H2: 13.5 Field-oriented control
+P: A three-phase motor's torque depends on the angle between the stator's magnetic field and the rotor's. Field-oriented control measures the rotor angle, from an encoder, a resolver, or an estimator, and transforms the three phase currents into a frame that rotates with the rotor, by the Clarke and Park transforms. In that frame the AC currents become two DC quantities: id, aligned with the rotor's flux, and iq, at right angles to it. For a permanent-magnet machine, the torque is proportional to iq alone, T = (3/2) p ψ iq, with p pole pairs and ψ the magnet flux linkage, so two simple PI controllers, one holding id near zero and one setting iq for the requested torque, control the motor as directly as a DC machine. Above base speed, the controller drives id negative to weaken the field and extend the speed range.
+EQ: T = (3/2) p ψ iq
+H2: 13.6 The 800 V traction inverter
+P: An electric car's traction inverter converts the battery's DC into the motor's three-phase AC at up to a few hundred kilowatts. Moving the battery from 400 V to 800 V halves the current for the same power, which quarters the conduction loss in cables and connectors and doubles the power a given charging connector can accept, which is why the 2026 premium vehicles and fast chargers use 800 V. The switches must then block 1200 V, where silicon IGBTs lose to SiC MOSFETs: SiC has no tail current at turn-off and a resistive on-state without the IGBT's fixed knee voltage, so it is far more efficient at the partial loads where a car spends most of its time. Range improvements of 5 to 10 % on a test cycle come from that partial-load gain.
+H2: Worked Example 13.3
+WEP: A permanent-magnet motor has 4 pole pairs and a flux linkage of 0.08 Wb. Find the torque at iq = 200 A, and the mechanical power at 6000 rpm.
+WES: T = 1.5 × 4 × 0.08 × 200 = 96 N·m. At 6000 rpm, 628 rad/s, the power is 96 × 628 = 60.3 kW. Doubling iq doubles the torque until the stator iron saturates or the inverter's current limit is reached.
+H2: Worked Example 13.4
+WEP: A 250 kW drive runs from a 400 V and from an 800 V battery. Find the DC current in each case and the ratio of cable losses for the same cable.
+WES: 250 kW/400 V = 625 A and 250 kW/800 V = 312.5 A. The cable loss scales with I², so the 800 V system loses a quarter as much in the same cable, or can use a cable with half the copper cross-section for the same loss.
+H2: 13.7 Dead time and its distortion
+P: Each leg of an inverter needs a dead time between turning one switch off and the other on, or both would conduct and short the DC bus. During the dead time the load current flows through one of the diodes, and which one depends on the current's direction, not on the command. The leg's output voltage therefore differs from the commanded value by an error of about Vdc × td × fsw, positive or negative with the sign of the current. The error is small in volts but appears as a step at every zero crossing of the current, distorting it with low-order harmonics and producing torque ripple and audible noise in motors at low speed. Drives measure or estimate the current's sign and add a compensating voltage, and the short dead times that SiC and GaN switches allow, tens of nanoseconds instead of microseconds, make the problem much smaller.
+EQ: ΔV ≈ Vdc × td × fsw
+H2: Worked Example 13.5
+WEP: An 800 V inverter switches at 10 kHz with a dead time of 500 ns. Find the average voltage error, and compare it with a SiC design at 20 kHz with 100 ns.
+WES: ΔV = 800 × 500 × 10⁻⁹ × 10⁴ = 4.0 V, about 1 % of a 400 V phase output, enough to distort the current visibly at low speed. The SiC design gives 800 × 100 × 10⁻⁹ × 2 × 10⁴ = 1.6 V, less than half, despite switching twice as fast.
+P: Inverters convert battery power into motion. Part III scales the same switches up to the facilities where power is now consumed fastest, starting with the data center.
 H2: Practice
 PR: Find the line-to-line RMS voltage from an 800 V bus at m = 0.8 with sinusoidal PWM.
 PR: Find the maximum line-to-line RMS voltage from an 800 V bus with space-vector PWM.
@@ -24,9 +42,15 @@ PR: A 30 kW motor runs at 400 V line to line with a power factor of 0.85. Find i
 PR: What frequency gives 3600 rpm in a two-pole machine?
 PR: Why does space-vector modulation reach a higher line voltage than sinusoidal PWM?
 PR: Why do fast SiC edges increase bearing currents?
+PR: Find the iq needed for 150 N·m in a motor with 3 pole pairs and ψ = 0.1 Wb.
+PR: Why does SiC improve a traction inverter's efficiency most at partial load?
+PR: Find the dead-time voltage error of a 400 V inverter at 16 kHz with 300 ns of dead time.
 ANS: 0.612 × 0.8 × 800 = 391.9 V.
 ANS: 565.7 V.
 ANS: 30,000/(√3 × 400 × 0.85) = 50.9 A.
 ANS: 60 Hz.
 ANS: It adds a common-mode component that is the same on all three phases, flattening each phase's peaks so the line-to-line voltage, where the common mode cancels, can use the whole bus.
 ANS: The coupling through the motor's stray capacitances is proportional to dv/dt, so faster edges drive larger common-mode currents through the bearings.
+ANS: iq = 150/(1.5 × 3 × 0.1) = 333 A.
+ANS: An IGBT has a fixed knee voltage that costs loss even at low current, and a tail current at turn-off; a SiC MOSFET's resistive on-state loss falls with the square of current and its switching loss is lower, so the advantage is largest at the low currents of cruising.
+ANS: 400 × 300 × 10⁻⁹ × 16 × 10³ = 1.9 V.

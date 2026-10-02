@@ -17,6 +17,23 @@ WEP: A 40 kV stack uses devices operated at 600 V each, half their 1.2 kV rating
 WES: 40,000/600 = 66.7, so 67 devices. Rshare ≤ 60 V/100 µA = 600 kΩ, and each resistor dissipates 600²/600 kΩ = 0.6 W, about 40 W for the stack, a small price for safety.
 H2: 20.4 Safety on shelf C
 P: The energies of pulsed-power systems are lethal. A 1 µF bank at 40 kV stores 800 J, and even a bank that has been switched off can recharge itself from dielectric absorption. Standard practice includes interlocked enclosures, automatic dump switches and bleeder resistors that discharge the bank when a door opens, visible grounding sticks applied before work begins, and clearances designed for the full voltage plus transients. The insulation design of Chapter 8, with its margin for partial discharge and surface tracking, is part of the same discipline.
+H2: 20.5 Resonant charging
+P: Section 20.2 showed that charging a capacitor through a resistor wastes as much energy as it stores. Resonant charging avoids the waste by charging through an inductor. A DC supply at voltage V connected through an inductor L to an empty capacitor C drives a half-cycle of a sine-shaped current; at its end, after π√(LC), the capacitor has reached 2V and the current has fallen to zero, where a series diode holds it. Ideally no energy is lost, and the capacitor reaches twice the supply voltage. Line-type modulators for radar, Chapter 8, have used resonant charging since the 1940s. The charging time sets the maximum repetition rate, and a de-Q'ing circuit or a regulated command-charge supply trims the final voltage to the 0.1 % accuracy that a stable pulse amplitude requires.
+EQ: V_C,final = 2 V,   t_charge = π √(L C)
+H2: 20.6 The capacitor-charging power supply
+P: Modern pulsed systems charge their capacitors with a dedicated switching converter, a capacitor-charging power supply, rated not in watts but in joules per second, the average power it can push into a capacitor that starts each cycle empty. Inside is usually a series-resonant converter whose output current is nearly constant regardless of the capacitor voltage, which is exactly what a capacitor being charged from zero needs: constant current charges it linearly, and the converter delivers its full power except near the start. Commercial units from a few hundred J/s to 30 kJ/s and beyond serve lasers, pulsed magnets, and medical accelerators, with output voltages of a few kilovolts to 50 kV.
+H2: Worked Example 20.3
+WEP: A 5 kV supply charges a 1 µF capacitor through a 10 mH inductor and a diode. Find the final voltage, the charging time, and the maximum repetition rate if the discharge and recovery take 200 µs.
+WES: The capacitor reaches 10 kV after π√(10 × 10⁻³ × 10⁻⁶) = 314 µs. With 200 µs more per cycle, the period is at least 514 µs, so the rate is at most about 1.9 kHz. Each pulse delivers ½ × 10⁻⁶ × (10⁴)² = 50 J, and at 1 kHz the supply provides 50 kW on average.
+H2: Worked Example 20.4
+WEP: A capacitor-charging supply rated 5 kJ/s charges a 2 µF capacitor to 20 kV. Find the charging time and the highest repetition rate.
+WES: The energy per pulse is ½ × 2 × 10⁻⁶ × (2 × 10⁴)² = 400 J. At 5 kJ/s the capacitor charges in 0.08 s, so the supply supports 12.5 pulses per second at most, slightly fewer once the discharge time is included.
+H2: 20.7 Solid-state Marx generators and inductive adders
+P: Two solid-state topologies dominate modern pulsed power at tens of kilovolts. The solid-state Marx generator, the circuit of Section 8.5 with IGBTs or SiC MOSFETs instead of spark gaps, charges its stage capacitors in parallel through diodes and erects them in series by turning its switches on together. Each switch blocks only one stage voltage, the pulse width is set by when the switches turn off, and the stages can be fired in sequence to shape the pulse. The inductive adder instead places each stage's switch and capacitor on the primary of its own one-turn transformer core; a single secondary conductor threads all the cores, and the stage voltages add along it while every primary sits near ground potential. Accelerator kicker magnets and klystron modulators use both for their microsecond pulses with nanosecond edges.
+H2: Worked Example 20.5
+WEP: An inductive adder has 20 stages, each driving its core with 1 kV. Find the output voltage, and the volt-second product each core must support for a 2 µs pulse.
+WES: The stage voltages add to 20 kV on the secondary. Each core sees its own primary's 1 kV for 2 µs, 2 mV·s, and its cross-section and flux swing must support that without saturating: for a core with 1 T of usable flux swing, a cross-section of 2 × 10⁻³ V·s/1 T = 20 cm².
+P: Pulsed power concentrates energy in time. Chapter 21 turns to a source that delivers its energy slowly, unpredictably, and at a voltage that depends on the weather: the solar array.
 H2: Practice
 PR: Find the average power of a 0.5 µF bank charged to 20 kV at 50 Hz.
 PR: How much energy is lost charging a 10 µF capacitor to 1 kV through a resistor from a 1 kV source?
@@ -24,9 +41,15 @@ PR: A 20 kV stack uses 1.7 kV devices derated to 60%. How many are needed?
 PR: Leakage differs by 50 µA, and 30 V of imbalance is allowed. Find the maximum sharing resistor.
 PR: Why are semiconductor stacks replacing spark gaps and thyratrons?
 PR: Why does a switched-off capacitor bank need grounding before work?
+PR: Find the charging time of a 0.5 µF capacitor through a 2 mH inductor.
+PR: A 2 kJ/s supply charges capacitors that store 100 J per pulse. What repetition rate can it support?
+PR: How many 1.2 kV stages does a solid-state Marx need for a 30 kV output?
 ANS: 5 kW.
 ANS: 5 J, the same as the energy stored.
 ANS: 20,000/1020 = 19.6, so 20 devices.
 ANS: 600 kΩ.
 ANS: They switch faster and more precisely, run at higher repetition rates, and last far longer.
 ANS: Dielectric absorption can restore a dangerous voltage after a brief discharge, so the bank must stay shorted while people work on it.
+ANS: π√(2 × 10⁻³ × 0.5 × 10⁻⁶) = 99 µs.
+ANS: 2000/100 = 20 pulses per second.
+ANS: 30/1.2 = 25 stages.

@@ -20,6 +20,23 @@ P: The grid frequency is 60 Hz in the Americas, Korea, and Taiwan; 50 Hz in Euro
 H2: Worked Example 7.3
 WEP: A 10 kW solar inverter converts at 97.5%. Find its waste. If the grid code requires it to supply reactive power at a power factor of 0.9 while delivering 10 kW, what apparent power must it be rated for?
 WES: The waste is 10 × (1/0.975 − 1) = 0.256 kW, 256 W. At PF 0.9, the apparent power is 10/0.9 = 11.1 kVA, so the inverter must be rated for 11.1 kVA, not 10 kVA: grid support costs semiconductor and filter capacity, even though it carries no extra real power.
+H2: 7.5 Designing a boost PFC stage
+P: A boost power-factor corrector draws a sinusoidal current from the rectified mains and delivers it into a bulk capacitor at about 400 V. Its instantaneous input power follows sin²(ωt), so it pulses at twice the line frequency, while the load draws steady power. The bulk capacitor absorbs the difference, and its voltage ripples at 100 or 120 Hz with an amplitude set by the capacitance. The voltage loop of the PFC must be slow, crossing over at 10 to 20 Hz, or it would try to correct this ripple and distort the input current. The inductor is sized at the peak of the low-line sinusoid, where the current is largest, and in continuous conduction for powers above a few hundred watts.
+EQ: ΔVpp ≈ P / (2π fline C Vbus)
+H2: 7.6 The bridgeless totem-pole PFC
+P: In a conventional PFC the current passes through two diodes of the bridge rectifier and then through the boost switch or diode, three semiconductor drops in series. At low line, the bridge alone costs about 1 % of the power. The totem-pole PFC removes the bridge. One half-bridge of fast switches, GaN or SiC, operates at high frequency as the boost switch and synchronous rectifier, swapping roles every half cycle of the line; the other half-bridge, of slow, low-resistance MOSFETs, switches at the line frequency to steer the return current. The fast half-bridge must survive hard switching in continuous conduction, which silicon MOSFETs cannot because of their body diode's reverse recovery, so the topology became practical only with wide-bandgap switches. It is what lets 80 PLUS Titanium server supplies reach 99 % in their PFC stage.
+H2: Worked Example 7.4
+WEP: A 1 kW PFC stage holds a 400 V bus on 50 Hz mains. Find the bulk capacitance for 20 V peak-to-peak ripple at the bus.
+WES: C = P/(2π fline Vbus ΔV) = 1000/(2π × 50 × 400 × 20) = 398 µF; a standard 470 µF capacitor gives 17 V. The hold-up time of Chapter 15 often demands more, and then sets the value.
+H2: Worked Example 7.5
+WEP: A 1 kW PFC runs from 230 VAC. Estimate the loss in a diode bridge with 0.9 V per diode, and the loss in the slow leg of a totem pole built from 40 mΩ MOSFETs.
+WES: The RMS input current is 1000/230 = 4.35 A and its rectified average 0.9 × 4.35 = 3.91 A. Two diodes conduct at a time, so the bridge loses 2 × 0.9 × 3.91 = 7.0 W, 0.7 % of the power. In the slow leg one MOSFET conducts each half cycle, so the loss is 4.35² × 0.04 = 0.76 W. Removing the bridge saves about 6 W, the difference between 98.3 and 98.9 % efficiency.
+H2: 7.7 The harmonic limits
+P: The rules that forced power-factor correction into every PC and television are IEC 61000-3-2 in Europe and its equivalents elsewhere, which limit the harmonic currents of equipment drawing up to 16 A per phase. Class D, for personal computers, monitors, and televisions from 75 to 600 W, sets limits in proportion to power: 3.4 mA per watt for the third harmonic, 1.9 mA/W for the fifth, 1.0 mA/W for the seventh, and so on. A capacitor-input rectifier, whose current flows in short peaks, produces a third harmonic close to its fundamental and fails by a wide margin above about 75 W, so even modest supplies need at least passive correction, and in practice active PFC is used from about 75 W upward.
+H2: Worked Example 7.6
+WEP: A 300 W computer supply falls in Class D. Find its third-harmonic limit, and compare it with the third harmonic of a capacitor-input rectifier drawing 300 W at 230 V with a third harmonic equal to 80 % of its fundamental.
+WES: The limit is 3.4 mA/W × 300 W = 1.02 A. The rectifier's fundamental is about 300/230 = 1.30 A at unity displacement, so its third harmonic is 0.8 × 1.30 = 1.04 A, at the limit with no margin; in practice its peaky current gives an even larger third harmonic, and the fifth and seventh fail too. Active PFC reduces the third harmonic to a few percent.
+P: Power-factor correction makes a converter a good citizen of the grid. Chapter 8 turns to converters at the other extreme of voltage, where insulation and stored energy dominate the design.
 H2: Practice
 PR: Find the power factor of a load with 50% current THD and cos φ = 0.95.
 PR: Find the line current of a 50 kW, 480 V three-phase load at PF 0.95.
@@ -27,9 +44,15 @@ PR: Each phase of a three-phase load carries a 20% third harmonic. What does the
 PR: What DC link voltage is needed, at minimum, for a 480 V three-phase active front end?
 PR: Find the real power available from a 230 V, 10 A circuit at PF 0.65 and at PF 0.99.
 PR: Why must a grid-tied inverter detect islanding?
+PR: Find the bulk capacitance for a 500 W PFC at 400 V and 60 Hz with 15 V peak-to-peak ripple.
+PR: Why did the totem-pole PFC become practical only with GaN and SiC switches?
+PR: What is the Class D fifth-harmonic limit for a 200 W device?
 ANS: 0.95/√1.25 = 0.850.
 ANS: 50,000/(√3 × 480 × 0.95) = 63.3 A.
 ANS: 3 × 20% = 60%.
 ANS: √2 × 480 = 679 V, plus margin.
 ANS: 1.50 kW and 2.28 kW.
 ANS: If the grid fails while the inverter keeps a local section energized, line workers could be exposed to live conductors they believe are dead, and reconnection could be out of phase; grid codes require disconnection within a short time.
+ANS: 500/(2π × 60 × 400 × 15) = 221 µF.
+ANS: In continuous conduction the fast leg's switches must be hard-switched while the opposite switch's body diode conducts; silicon MOSFET body diodes have large reverse-recovery charge that would cause severe loss and stress, while GaN has none and SiC's is small.
+ANS: 1.9 mA/W × 200 W = 0.38 A.

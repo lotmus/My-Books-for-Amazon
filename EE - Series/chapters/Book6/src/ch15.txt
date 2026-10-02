@@ -20,6 +20,24 @@ WEP: A 3 kW server supply needs 10 ms of hold-up. Its bus normally sits at 400 V
 WES: C = 2 × 3000 × 0.010 / (400² − 300²) = 60/70,000 = 857 µF. Allowing the converter to work down to 250 V would reduce it to 615 µF, which is why hold-up requirements shape the wide-input design of the DC-DC stage.
 H2: 15.4 Generators and transfer
 P: Diesel or gas generators carry long outages. An automatic transfer switch moves the load from utility to generator once the generator is stable, and back when the utility returns; the UPS covers the transfer. Large sites test generators monthly under load, and they are increasingly supplemented or replaced by battery energy storage that also provides grid services when the utility is healthy, a link to the grid codes of Chapter 16.
+H2: 15.5 Lithium-ion versus lead-acid
+P: For decades, UPS batteries were valve-regulated lead-acid, VRLA: cheap, well understood, and tolerant of float charging, but heavy, bulky, and short-lived in warm rooms. Their life halves for roughly every 8 to 10 °C above 25 °C, so a battery designed for ten years lasts five in a room at 33 to 35 °C. Lithium-ion, usually lithium iron phosphate for its safety and cycle life, now dominates new installations: about a third of the weight and floor space, 10 to 15 years of life, thousands of cycles instead of hundreds, and a BMS that reports every cell's state. Its higher price is recovered over the replacement cycles it avoids. Its fire risk, managed by the chemistry choice, cell-level monitoring, and the testing of UL 9540A, is the subject of fire codes that every data-hall design must follow.
+H2: 15.6 Supercapacitors and flywheels
+P: When the backup only needs to bridge seconds, not minutes, energy density matters less than power and cycle life. Supercapacitors store energy as ½CV² in an electrochemical double layer, hundreds to thousands of farads per cell at 2.7 to 3 V, and deliver it at high power for millions of cycles. Usable energy depends on the voltage window: discharging from V1 to V2 releases ½C(V1² − V2²), and a converter must accept the falling voltage. Flywheel UPS systems store kinetic energy in a rotor spinning at thousands to tens of thousands of rpm and deliver hundreds of kilowatts for 10 to 30 seconds, enough to start a generator. Both serve where batteries would be cycled too often, as in smoothing the power swings of AI training racks.
+EQ: E = ½ C (V1² − V2²)
+H2: Worked Example 15.4
+WEP: A 48 V shelf must ride through 10 s at 500 W from a supercapacitor bank, discharging from 48 V to 36 V through a converter. Find the capacitance, ignoring converter loss.
+WES: E = 500 W × 10 s = 5000 J. C = 2E/(V1² − V2²) = 10 000/(2304 − 1296) = 9.9 F at 48 V, built from about eighteen 2.7 V cells of 180 F in series, each cell's capacitance divided by eighteen. The converter's loss, typically 5 %, adds about 0.5 F.
+H2: Worked Example 15.5
+WEP: A VRLA battery has a 10-year design life at 25 °C, and its life halves for every 8 °C above that. Estimate its life in a room at 33 °C and at 41 °C.
+WES: At 33 °C, 10/2 = 5 years; at 41 °C, 10/4 = 2.5 years. A lithium-ion battery in the same room loses capacity faster than at 25 °C too, but far less steeply, which, with the reduced cooling the room then needs, is part of its economic case.
+H2: 15.7 Redundancy and availability
+P: A single UPS, however good, is a single point of failure, so critical facilities duplicate. N+1 adds one module more than the load needs, so any single module can fail or be serviced; 2N duplicates the entire path from the utility to dual-corded servers, each with two power supplies fed from separate A and B systems. The arithmetic of availability explains why: if one path is available a fraction A of the time and failures are independent, two parallel paths are unavailable only when both fail, a fraction (1 − A)². In practice failures are not entirely independent, common-mode faults such as a shared switchboard or a software bug defeat redundancy, and the Uptime Institute's tier classification therefore asks for physically separate paths, not just extra modules.
+EQ: A_parallel = 1 − (1 − A)²
+H2: Worked Example 15.6
+WEP: A UPS path is available 99.9 % of the time, about 8.8 hours of downtime a year. Find the availability and expected downtime of two independent paths in parallel.
+WES: 1 − 0.001² = 0.999999, or 99.9999 %, about 32 seconds of downtime a year. If a shared component with 99.99 % availability sits in series with both paths, the system's availability falls to about 99.99 %, 53 minutes a year: the common element dominates.
+P: The UPS and its storage protect the load from the grid's failures. Chapter 16 turns the question around: how the grid itself stays stable as inverter-based plants replace the machines that once held it together.
 H2: Practice
 PR: A 1 MW load is carried by a UPS at 97%. Find its waste.
 PR: Find the battery energy for 150 kW over 10 minutes with a 95% inverter and 90% depth of discharge.
@@ -27,9 +45,15 @@ PR: Find the hold-up capacitance for 1.6 kW, 16 ms, 390 V to 320 V.
 PR: How long does 500 µF hold up 1 kW between 400 V and 300 V?
 PR: Why does a double-conversion UPS have no transfer time?
 PR: Why does eco mode save energy?
+PR: Find the energy released by a 100 F capacitor discharging from 16 V to 8 V.
+PR: Why must a supercapacitor's converter accept a wide input-voltage range?
+PR: Find the availability of three independent parallel paths each 99 % available.
 ANS: 30.9 kW.
 ANS: 25 kWh / 0.855 = 29.2 kWh.
 ANS: 2 × 1600 × 0.016 / (390² − 320²) = 1030 µF.
 ANS: ½ × 500 µF × 70,000 / 1000 = 17.5 ms.
 ANS: The inverter supplies the load all the time; when the utility fails, only the source feeding the DC bus changes.
 ANS: It bypasses both conversion stages while the utility is healthy, removing their losses.
+ANS: ½ × 100 × (256 − 64) = 9600 J.
+ANS: The capacitor's voltage falls as it discharges, as the square root of the remaining energy, so using three quarters of its energy means the voltage drops to half.
+ANS: 1 − 0.01³ = 99.9999 %.
