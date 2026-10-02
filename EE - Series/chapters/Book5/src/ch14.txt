@@ -16,6 +16,28 @@ WES: The payload lasts 1500 × 8 / (6 × 10⁸) = 20 µs. The overhead is 40 + 3
 KEY: Key idea. Every access method spends part of the channel on coordination. That overhead is fixed in time, so it dominates at high data rates unless frames are aggregated or the access is scheduled.
 H2: 14.4 Scheduling
 P: In cellular systems, and in Wi-Fi 6 and 7 when OFDMA is used, the base station or access point schedules the resources. Every slot it decides which users get which resource blocks, using channel-quality reports from each user. A scheduler that always picks the user with the best channel maximizes total throughput but starves users at the cell edge; round robin is fair but wastes good channels. The proportional-fair scheduler, the common compromise, picks the user whose current rate is highest relative to its own average, so each user is served when its channel is at its own best. Because fading is independent between users, this multiuser diversity raises total throughput above that of any single user.
+H2: 14.5 Uplink power control
+P: In the downlink one base station transmits to many users, and the near users simply receive a stronger signal. In the uplink the many users transmit to one receiver, and a handset near the tower would drown a distant one in the adjacent resource blocks unless its power were reduced. The 5G NR and LTE uplinks therefore use open-loop power control with closed-loop corrections. The handset estimates its path loss from the downlink reference signal and sets its power to a target received level per resource block, P0, plus 10 log₁₀ of the number of resource blocks, plus a fraction α of the path loss, capped at its maximum, 23 dBm for a standard handset. With α = 1 every user arrives at the same level; with fractional α, typically 0.7 to 0.8, distant users arrive weaker, which limits their interference into neighboring cells at a small cost in their own rate. Closed-loop commands of ±1 or ±3 dB fine-tune the result.
+EQ: P = min{Pmax, P0 + 10 log₁₀M + α PL + δ}
+H2: 14.6 OFDMA in Wi-Fi 6 and 7
+P: Earlier Wi-Fi gave the whole channel to one station at a time, so a hundred small packets cost a hundred preambles and a hundred backoffs. 802.11ax divides each channel into resource units: a 20 MHz channel of 242 usable tones can be split into nine 26-tone units, four 52-tone units, two 106-tone units, or one 242-tone unit, and mixtures of them. The access point schedules the units in the downlink and triggers simultaneous uplink transmissions with a trigger frame that tells each station its unit, its power, and its timing. 802.11be adds multiple resource units per station and puncturing, so a 320 MHz channel with an occupied 20 MHz slice inside it can still be used around the hole.
+H2: Worked Example 14.3
+WEP: A handset has a path loss of 120 dB to its base station. With P0 = −90 dBm, α = 0.8, and an allocation of 10 resource blocks, find its transmit power. Repeat at a path loss of 140 dB.
+WES: At 120 dB, P = −90 + 10 + 0.8 × 120 = 16 dBm, below the 23 dBm cap. At 140 dB, P = −90 + 10 + 112 = 32 dBm, which is capped at 23 dBm: the handset is power-limited. The scheduler responds by giving it fewer resource blocks, which concentrates its 23 dBm in a narrower band; at 2 resource blocks the formula asks for 25 dBm, still just above the cap, so the cell edge is set here.
+H2: Worked Example 14.4
+WEP: A 20 MHz Wi-Fi 6 channel serves nine stations, each on a 26-tone resource unit with 24 data tones, using 1024-QAM at rate 5/6 and a 13.6 µs symbol. Find each station's PHY rate and the total.
+WES: Each station gets 24 × 10 bits × 5/6 / 13.6 µs = 14.7 Mbit/s, and the nine together 132 Mbit/s. A single station on the whole 242-tone unit, with 234 data tones, would get 143 Mbit/s; OFDMA gives up a little capacity to the extra tone guards but serves nine stations in one transmission time instead of nine, with one preamble and one contention.
+H2: 14.7 Random access in 5G
+P: Scheduling needs the base station to know a user exists, and the first contact is a random access. A 5G cell offers 64 preamble sequences, Zadoff-Chu sequences whose cyclic shifts are orthogonal to each other, on periodic random-access occasions. A handset picks one at random and transmits it; the base station detects which preambles were sent, estimates each one's arrival time for the timing advance, and answers with an uplink grant. If two handsets picked the same preamble on the same occasion, both send their identity on the same grant, the base station decodes at most one, and the other times out and retries: slotted ALOHA again, but over 64 parallel codes instead of a single channel. Massive IoT deployments, where thousands of meters wake at the same moment after a power cut, are the case that stresses it.
+H2: Worked Example 14.5
+WEP: Ten handsets attempt random access on the same occasion, each choosing one of 64 preambles at random. Find the probability that a given handset collides with at least one other.
+WES: Each other handset avoids its preamble with probability 63/64, so the collision probability is 1 − (63/64)⁹ = 13 %. With 30 handsets it rises to 1 − (63/64)²⁹ = 37 %, which is why networks spread the access occasions and use back-off indicators after an outage.
+H2: 14.8 TDD frame structure: splitting time between the directions
+P: Most mid-band 5G carriers are time-division duplexed: downlink and uplink take turns on the same frequency. The operator chooses a slot pattern, and every operator in a region must choose the same one, or a base station transmitting while its neighbor in the adjacent block is receiving would swamp it. A common pattern at 3.5 GHz with 30 kHz spacing is DDDSU: three downlink slots, a special slot, and an uplink slot, repeating every 2.5 ms. The special slot holds downlink symbols, a guard period long enough for the farthest base station's signal to die out, and a few uplink symbols. The guard sets the cell range for the timing advance and protects against distant base stations whose signal arrives late through tropospheric ducting.
+H2: Worked Example 14.6
+WEP: In a DDDSU pattern with 14-symbol slots, the special slot has 10 downlink, 2 guard, and 2 uplink symbols. Find the fractions of time for downlink, uplink, and guard, and the distance light travels in the guard period at 30 kHz spacing.
+WES: Out of 70 symbols, the downlink has 3 × 14 + 10 = 52, 74 %; the uplink 14 + 2 = 16, 23 %; the guard 2, 3 %. Two symbols with their prefixes last about 71 µs, in which a radio signal travels 21 km, enough for the round trip to a cell edge of about 10 km and some margin for distant interferers.
+P: Multiple access shares the channel; scheduling decides who uses it when. What each user then gets depends on how close to Shannon each transmission comes, which Chapter 15 measures.
 H2: Practice
 PR: Find the peak throughput of pure ALOHA and the load at which it occurs.
 PR: Find the slotted-ALOHA throughput at a load of 1.
@@ -23,9 +45,19 @@ PR: How many subcarriers does a 5G resource block contain, and how wide is it at
 PR: A 1500-byte frame is sent at 1.2 Gbit/s with 185.5 µs of overhead. Find the efficiency.
 PR: Why does Wi-Fi efficiency fall as the PHY rate rises, unless frames are aggregated?
 PR: Why does a proportional-fair scheduler gain from fading?
+PR: Find the transmit power for a path loss of 110 dB with P0 = −95 dBm, α = 0.7, and 20 resource blocks.
+PR: How many 52-tone resource units fit in a 20 MHz 802.11ax channel?
+PR: Why does fractional power control use α < 1?
+PR: Find the collision probability for a handset when 20 handsets contend for 64 preambles.
+PR: In a DDDDDDDSUU pattern with a special slot of 6 downlink, 4 guard, and 4 uplink symbols, what fraction of the time is downlink?
 ANS: 18.4% at G = 0.5.
 ANS: e^(−1) = 0.368.
 ANS: 12 subcarriers, 180 kHz.
 ANS: Payload 10 µs, so 10/195.5 = 5.1%.
 ANS: The payload time shrinks with the rate, but the preamble, interframe spaces, backoff, and acknowledgment do not.
 ANS: It serves each user near that user's own fading peaks, and with many users someone is usually near a peak, so the total rate exceeds that of any fixed assignment.
+ANS: −95 + 13.0 + 77 = −5 dBm.
+ANS: Four.
+ANS: Distant users then arrive weaker than near ones, which reduces the interference they cause in neighboring cells, whose base stations they are also close to; the cell-wide throughput rises even though the edge user's rate falls a little.
+ANS: 1 − (63/64)¹⁹ = 26 %.
+ANS: (7 × 14 + 6)/140 = 104/140 = 74 %.

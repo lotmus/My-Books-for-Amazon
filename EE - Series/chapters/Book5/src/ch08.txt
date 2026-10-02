@@ -20,6 +20,21 @@ WEP: A 20 MHz receiver has a 7 dB noise figure. Find its noise floor, and its se
 WES: 10 log₁₀(20 × 10⁶) = 73.0 dB, so the floor is −174 + 73.0 + 7 = −94.0 dBm. With 25 dB of required SNR the sensitivity is −69 dBm. The 802.11a standard requires −65 dBm for its 54 Mbit/s mode, so this receiver would pass with 4 dB of margin. The same receiver needs only about −90 dBm for BPSK at rate 1/2, which is why the rate falls step by step as a user walks away from an access point.
 H2: 8.6 SDR as a laboratory
 P: A software-defined radio lets every chapter of this book be tried on real signals. The PySDR online textbook and the GNU Radio framework are good laboratories, though they are not substitutes for this book's theory. A useful sequence of exercises is: capture a broadcast FM station and display its spectrum; decimate the capture and plot the eye of a known digital signal; build a raised-cosine transmitter and matched-filter receiver in loopback; measure EVM against transmit gain to find where the amplifier starts to compress; and decode the beacon frames of a Wi-Fi access point, which use the 312.5 kHz OFDM of Chapter 6. Transmitting requires care: outside licensed amateur bands or a shielded enclosure, the laboratory should be receive-only.
+H2: 8.7 The SDR you can buy
+P: Four families of hardware cover almost all software-defined radio work in 2026. At the bottom, the RTL-SDR dongles combine an R820T2 or R828D tuner with the RTL2832U demodulator chip, originally made for DVB-T television, to give an 8-bit receiver from about 24 to 1766 MHz at up to 2.4 MS/s for about 30 dollars. The HackRF One covers 1 MHz to 6 GHz, transmits as well as receives, but only one at a time, and samples at up to 20 MS/s with 8-bit converters. The ADALM-Pluto wraps Analog Devices' AD9363 transceiver: 12-bit converters, 325 MHz to 3.8 GHz officially, 20 MHz of bandwidth, full duplex, but a USB 2.0 link that limits continuous streaming to a few megasamples per second. The Ettus USRP B210 uses the AD9361: 70 MHz to 6 GHz, two receive and two transmit channels, 56 MHz of instantaneous bandwidth, and a USB 3.0 link. Above that sit the networked USRPs and the FPGA boards with RF-sampling converters.
+P: The software is just as layered. GNU Radio connects processing blocks into flowgraphs in Python or a graphical editor; SoapySDR and UHD hide the hardware differences; srsRAN and OpenAirInterface implement complete 4G and 5G base stations and handsets on a USRP. The limit is usually not the code but the transport: every complex sample at 16 bits per rail is 4 bytes, and the bus must carry them all without dropping one.
+H2: Worked Example 8.3
+WEP: A USRP B210 streams two receive channels at 30.72 MS/s with 16-bit I and Q. Find the data rate over USB, and the rate if the 8-bit sample format is chosen.
+WES: Each complex sample is 4 bytes, so 30.72 × 10⁶ × 4 × 2 channels = 245.8 MB/s. USB 3.0's practical throughput of roughly 300 to 400 MB/s carries it, with little room for anything else on the same controller. The 8-bit format halves it to 122.9 MB/s at the cost of about 48 dB of quantization SNR instead of 96 dB, still enough for most demodulation once a strong blocker is filtered out in the analog front end.
+H2: Worked Example 8.4
+WEP: An RTL-SDR samples at 2.4 MS/s with an 8-bit converter. Estimate its ideal dynamic range across the full band, and in a 200 kHz FM broadcast channel.
+WES: The ideal 8-bit SNR is 6.02 × 8 + 1.76 = 49.9 dB across the 2.4 MHz complex band. Filtering to 200 kHz gives a processing gain of 10 log₁₀(2.4/0.2) = 10.8 dB, so about 60.7 dB in the channel. Real converters lose a bit or so to their nonlinearity and the tuner's gain control has to keep the strongest station just below full scale, which is why a nearby strong transmitter swamps such a cheap receiver.
+H2: 8.8 A complete receiver in software: broadcast FM
+P: The simplest real flowgraph shows every piece of Part I at once. An RTL-SDR tuned to a station delivers complex samples at 2.4 MS/s. A low-pass filter and a decimation by 10 keep the 200 kHz station at 240 kS/s. The FM demodulator takes the angle of each sample times the conjugate of the previous one, which is the phase step and so the instantaneous frequency. A second filter and decimation by 5 give 48 kS/s audio, a de-emphasis filter with a 50 µs time constant in Europe or 75 µs in the Americas restores the treble balance, and the result goes to the sound card. Each stage is a block from Chapters 2, 3, and 9; the whole receiver is a few dozen lines of Python with GNU Radio and runs on a laptop with most of a core to spare.
+H2: Worked Example 8.5
+WEP: The first filter in this receiver is a 64-tap FIR running before the decimation by 10. Compare its multiply rate for complex data in direct form and in polyphase decimating form.
+WES: Direct form computes 64 complex-by-real products at 2.4 MS/s, 2 × 64 × 2.4 × 10⁶ = 307 million real multiplications per second, and then discards nine outputs of every ten. The polyphase form computes only the kept outputs, at 240 kS/s, so 2 × 64 × 240 × 10³ = 30.7 million. A tenfold saving for a change in the order of operations is why every SDR library implements decimation that way.
+P: With the band plan and the receiver architectures in place, Part I of this book has built a complete radio link. Part II goes inside the modem, starting with the digital filters that do most of its work.
 H2: Practice
 PR: How many non-overlapping 20 MHz channels fit in the 2.4 GHz band?
 PR: How many 80 MHz channels fit in 1200 MHz?
@@ -27,9 +42,15 @@ PR: Name the upper and lower edges of 5G FR1 and FR2.
 PR: Find the noise floor of a 160 MHz receiver with a 5 dB noise figure.
 PR: The receiver in the previous problem needs 30 dB of SNR for 1024-QAM. Find its sensitivity.
 PR: Which receiver architecture is most affected by DC offset and I/Q imbalance, and why?
+PR: What USB data rate does a single channel at 61.44 MS/s with 16-bit I and Q need?
+PR: Why does an RTL-SDR fail near a strong broadcast transmitter even when the wanted signal is on another frequency?
+PR: What is the time constant of the de-emphasis filter used in North American FM broadcasting, and its corner frequency?
 ANS: Three: channels 1, 6, and 11.
 ANS: 1200/80 = 15.
 ANS: FR1 runs from 410 MHz to 7.125 GHz; FR2 from 24.25 to 71 GHz.
 ANS: −174 + 82.0 + 5 = −87.0 dBm.
 ANS: −87.0 + 30 = −57.0 dBm.
 ANS: The zero-IF receiver, because it mixes the wanted signal directly to DC, where offsets and flicker noise sit, and depends on the quadrature mixer's two arms being matched to reject the image at the mirror frequency.
+ANS: 61.44 × 10⁶ × 4 = 245.8 MB/s.
+ANS: The strong signal sets the gain control and occupies the 8-bit converter's full scale, leaving a dynamic range of only about 50 dB, and the tuner's limited linearity adds intermodulation products on top of the wanted signal.
+ANS: 75 µs; f = 1/(2π × 75 µs) = 2.12 kHz.

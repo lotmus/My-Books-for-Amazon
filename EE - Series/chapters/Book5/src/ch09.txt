@@ -1,3 +1,5 @@
+PART: Part II. Inside the Modem
+P: Part II opens the modem. Digital filters condition the samples, synchronization finds the carrier and the symbols, equalizers and pilots undo the channel, spread and chirped waveforms trade bandwidth for robustness, and scheduling, link adaptation, and HARQ turn a physical layer into delivered throughput.
 H1: Chapter 9. Digital Filters in the Modem
 P: Almost every block in a modern modem is a digital filter: the pulse shaper of Chapter 3, the channel selector after the ADC, the decimators that bring a wideband sample stream down to the symbol rate, and the equalizer of Chapter 11. This chapter covers the two filter families, the way their length is estimated, and the multirate structures that make high sample rates affordable. It follows the practical treatment in Lyons's Understanding Digital Signal Processing.
 H2: 9.1 FIR and IIR filters
@@ -21,6 +23,24 @@ EQ: |H(f)| = |sin(πfRM/fs) / (R M sin(πf/fs))|^N,   bit growth = N log₂(RM)
 H2: Worked Example 9.3
 WEP: A four-stage CIC filter decimates by 16 with M = 1. Find its bit growth, its droop at a quarter of the output rate, and its attenuation of the band that aliases onto that frequency.
 WES: Bit growth = 4 × log₂16 = 16 bits. At f = 0.25/16 of the input rate the response is (sin(π/4)/(16 sin(π/64)))⁴ = 0.658, a droop of 3.63 dB, which the compensation filter must correct. The input at 0.75/16 of the input rate aliases onto the same frequency after decimation; there the response is −41.7 dB. If more rejection is needed, more stages or a narrower passband are used.
+H2: 9.5 Fixed-point arithmetic and word growth
+P: A filter designed in floating point runs in an FPGA or an ASIC on integers, and three numbers must be chosen: the coefficient width, the data width, and the accumulator width. Coefficient quantization moves the zeros of the filter and raises its stopband floor; as a working rule each coefficient bit buys about 5 to 6 dB of attainable stopband attenuation, so a filter that must reject an adjacent channel by 80 dB needs coefficients of at least 15 or 16 bits. The product of a B_x-bit sample and a B_c-bit coefficient has B_x + B_c bits, and summing N such products can add log₂N more. If the accumulator holds all of them, the sum is exact and only the final rounding adds noise.
+EQ: accumulator bits ≥ Bx + Bc + ⌈log₂N⌉
+P: Real hardware is built around those numbers. The DSP48E2 slice of AMD's UltraScale+ FPGAs has a 27 × 18-bit multiplier feeding a 48-bit accumulator, and Intel's variable-precision DSP blocks offer 18 × 19 and 27 × 27 modes. A filter designer who keeps samples to 16 bits and coefficients to 18 has 14 bits of growth to spare in a 48-bit accumulator, enough for any practical FIR length. The final output is rounded, not truncated, because truncation adds a DC bias of half a least significant bit that would appear as a spur at 0 Hz after the next mixer.
+H2: 9.6 Fractional resampling and the Farrow filter
+P: Not every rate change is a ratio of small integers. Converting the 30.72 MS/s of an LTE carrier to the 25 MS/s of a particular converter is a ratio of 625 to 768, and a polyphase filter with 625 branches would be absurd. The Farrow structure instead approximates the ideal interpolating filter by a polynomial in the fractional delay μ, between 0 and 1. A handful of fixed FIR filters run on the input, and each output sample combines their outputs as a polynomial evaluated at the current μ, which an accumulator advances by the rate ratio for every output. A cubic Farrow filter uses four fixed filters and three multiplications by μ per output. The same structure does the fine timing correction of Chapter 10, where μ comes from the timing loop instead of a fixed ratio.
+H2: Worked Example 9.4
+WEP: A 128-tap FIR filter takes 16-bit samples and 18-bit coefficients. Find the accumulator width for exact arithmetic, and check that it fits a DSP48E2 slice.
+WES: The products have 16 + 18 = 34 bits; summing 128 of them adds ⌈log₂128⌉ = 7 bits, so 41 bits are needed. The 48-bit accumulator holds them with 7 bits to spare. The 18-bit coefficients support roughly 90 to 100 dB of stopband attenuation, so the filter's floor is set by its design, not its arithmetic.
+H2: Worked Example 9.5
+WEP: A Farrow resampler converts 30.72 MS/s to 25 MS/s. Find the increment of its fractional-delay accumulator per output sample, and the integer and fractional input positions of the first four outputs.
+WES: Each output advances the input position by 30.72/25 = 1.2288 input samples. Starting at 0, the outputs fall at 0, 1.2288, 2.4576, and 3.6864, so the integer parts 0, 1, 2, 3 select the input samples and the fractions μ = 0, 0.2288, 0.4576, and 0.6864 are the values at which the Farrow polynomial is evaluated. The fraction wraps every time the accumulator passes an integer, and occasionally the filter skips one input sample, here after the fifth output, because 5 × 1.2288 = 6.144.
+H2: 9.7 Half-band filters
+P: The most common decimate-by-two stage has a special shape. A half-band filter's frequency response is symmetric about a quarter of the sample rate, with its passband edge and stopband edge equally spaced from fs/4. That symmetry forces every second coefficient to zero, except the center one, which is exactly one half. A half-band filter of N taps therefore needs only about N/4 multiplications per output when its coefficient symmetry is also used, and it decimates by two after that. Cascading several half-band stages, each running at half the rate of the one before, is how digital down-converters in chips such as the AD9081 move from gigasamples to megasamples with little arithmetic.
+H2: Worked Example 9.6
+WEP: A 47-tap half-band filter decimates a 491.52 MS/s complex stream by two. How many of its coefficients are nonzero, and how many real multiplications per second does it need with symmetry exploited?
+WES: Of 47 taps, the 22 at even offsets from the center are zero, leaving 25 nonzero: 12 symmetric pairs plus the center tap of 0.5. Folding the pairs gives 12 multiplications plus a shift for the center, per output. At the output rate of 245.76 MS/s and two rails, 2 × 12 × 245.76 × 10⁶ = 5.9 × 10⁹ multiplications per second, about an eighth of the 46 × 10⁹ that a general 47-tap filter computing every output at the input rate would need.
+P: Digital filters condition the samples. The next problem is to find the symbols in them, which means estimating the carrier frequency, its phase, and the symbol timing that the channel and the oscillators have disturbed.
 H2: Practice
 PR: Estimate the length of a filter at 61.44 MHz with 80 dB attenuation and a 2 MHz transition band.
 PR: What is the group delay of a 101-tap linear-phase FIR filter at 10 MHz?
@@ -28,9 +48,17 @@ PR: Which window has the lowest first sidelobe among rectangular, Hann, Hamming,
 PR: Find the bit growth of a five-stage CIC filter decimating by 8 with M = 1.
 PR: Why is a filter that will be decimated implemented in polyphase form?
 PR: Why do modems prefer FIR filters in the signal path?
+PR: How many bits does an accumulator need for exact arithmetic in a 64-tap filter with 14-bit data and 16-bit coefficients?
+PR: Why is the output of a fixed-point filter rounded rather than truncated?
+PR: Find the fractional-delay increment of a resampler from 61.44 MS/s to 50 MS/s.
+PR: Why is the center coefficient of a half-band filter exactly 0.5?
 ANS: About 112 taps.
 ANS: 50 samples, 5 µs.
 ANS: Blackman, about 58 dB down.
 ANS: 15 bits.
 ANS: Only the retained outputs are computed, and each subfilter runs at the low output rate, cutting the work by the decimation factor.
 ANS: Symmetric FIR filters have exactly linear phase, so they delay all frequencies equally and preserve pulse shapes, and they are always stable.
+ANS: 14 + 16 + 6 = 36 bits.
+ANS: Truncation always rounds toward negative infinity, adding a DC bias of half an LSB on average, which appears as a spur after mixing; rounding has no average bias.
+ANS: 61.44/50 = 1.2288 input samples per output, the same ratio as Worked Example 9.5.
+ANS: The symmetry about fs/4 requires H(f) + H(fs/2 − f) = 1, which in the time domain makes every even-offset coefficient zero except the center, which must equal 1/2.

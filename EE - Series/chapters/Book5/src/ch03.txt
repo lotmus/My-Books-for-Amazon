@@ -18,6 +18,24 @@ P: An eye diagram overlays the received waveform symbol period by symbol period.
 H2: Worked Example 3.2
 WEP: A rectangular pulse of amplitude 0.2 V and duration 1 µs is received in white noise with N0 = 10⁻¹⁰ V²/Hz (one-sided, for a 1 Ω reference). Find the matched-filter output SNR at its peak.
 WES: The pulse energy is E = A²T = 0.04 × 10⁻⁶ = 4 × 10⁻⁸ V²·s. The peak SNR is 2E/N0 = 8 × 10⁻⁸/10⁻¹⁰ = 800, or 29.0 dB. Any other filter with the same noise gives a lower peak SNR; an integrate-and-dump circuit over exactly the pulse duration is the matched filter in this case.
+H2: 3.5 The raised-cosine family in practice
+P: The raised-cosine pulse is chosen not only because it meets Nyquist's condition but because its tails die quickly. A pulse with a brick-wall spectrum, α = 0, decays as 1/t, so a filter that approximates it must span dozens of symbols, and a small timing error lets the sum of many slowly decaying tails pile up into large interference. With α > 0 the tails decay as 1/t³. At α = 0.25 the response has fallen below 1 % of its peak within about three symbols of the center, so a filter spanning eight to twelve symbols is adequate.
+P: Real systems split the raised cosine into two root-raised-cosine halves, one in the transmitter and one in the receiver, so that the receive filter is also the matched filter. Each half alone does not meet the zero-interference condition; only their cascade does. That is why a test receiver that uses a plain raised cosine on a root-raised-cosine signal reports a poor EVM even when the transmitter is perfect. The roll-off values are part of each standard: 0.22 for WCDMA, 0.35, 0.25, or 0.20 for DVB-S2, down to 0.05 in DVB-S2X, and 0.5 for TETRA's π/4-DQPSK.
+H2: 3.6 Spectral regrowth: when the amplifier undoes the filter
+P: Pulse shaping confines the spectrum only as long as the chain after it is linear. A power amplifier driven near compression multiplies the signal by itself, and every product of the in-band spectrum with itself lands outside it: the third-order products fill a band three times as wide as the original, centered on it, and the fifth-order products a band five times as wide. The leakage into the adjacent channel is the adjacent-channel leakage ratio, ACLR, the power in the neighbor's band relative to the wanted power. A smaller roll-off makes the envelope peakier, so the same amplifier regrows more. The amplifier's linearization belongs to Book 4 and the emission mask to Book 7. What belongs here is the trade: a tighter roll-off saves bandwidth but asks more of the amplifier.
+KEY: Key idea. The pulse-shaping filter sets the spectrum only up to the first nonlinearity. Every dB of roll-off saved in bandwidth must be paid for in amplifier back-off or linearization.
+H2: Worked Example 3.3
+WEP: A 36 MHz satellite transponder carries a single DVB-S2 carrier. Find the highest symbol rate for roll-offs of 0.35, 0.20, and 0.05, and the rate gain of the smallest over the largest.
+WES: The occupied band is Rs(1 + α), so Rs = 36 MHz/(1 + α). That gives 26.7 MBd at α = 0.35, 30.0 MBd at 0.20, and 34.3 MBd at 0.05. Going from 0.35 to 0.05 carries 34.3/26.7 = 1.29 times the data in the same transponder, 29 % more, which is why DVB-S2X introduced the small roll-offs once satellite amplifiers could be linearized well enough to keep the regrowth inside the guard band.
+H2: Worked Example 3.4
+WEP: A root-raised-cosine transmit filter for a 30 MBd carrier spans 8 symbols at 4 samples per symbol. Find the number of taps and the multiply rate for a direct implementation of the I and Q filters, and the rate when the upsampling is done in polyphase form.
+WES: Eight symbols at 4 samples per symbol is 32 sample intervals, so 33 taps. Running at 120 MS/s, each rail needs 33 × 120 × 10⁶ = 3.96 × 10⁹ multiplications per second, 7.9 × 10⁹ for I and Q. Three of every four input samples to a 4× interpolating filter are zeros, so the polyphase form of Chapter 9 skips them: each output needs only about 33/4 ≈ 8 or 9 multiplications, cutting the total to about 2.0 × 10⁹ per second.
+H2: 3.7 Occupied bandwidth and channel utilization
+P: A regulator does not ask for the roll-off; it asks for the occupied bandwidth, defined as the band holding 99 % of the power, and for the emissions outside the channel. The two numbers differ because a root-raised-cosine spectrum is not perfectly square and because an OFDM spectrum's sinc skirts fall slowly. Standards fix the fraction of a channel that the signal may fill. An LTE 20 MHz carrier uses 100 resource blocks of 180 kHz, 18 MHz, 90 % of the channel. 5G NR, with steeper filtering applied to its OFDM signal, fills 273 resource blocks of 360 kHz, 98.28 MHz, of a 100 MHz channel at 30 kHz spacing, about 98 %. The difference, 8 % of the spectrum, is capacity recovered by better transmitter filtering, at the price of more demanding filters in both transmitter and receiver.
+H2: Worked Example 3.5
+WEP: How much more data does a 100 MHz carrier carry at 98.3 % utilization than it would at LTE's 90 %, all else equal?
+WES: The ratio is 98.28/90 = 1.092, so 9.2 % more. Across an operator's 100 MHz of mid-band spectrum, that is the same as being given another 9 MHz of spectrum for free.
+P: Nyquist's condition, the matched filter, and the eye diagram have turned a stream of symbols into a band-limited waveform and back. What the symbols are, and how often they are misread in noise, is the subject of Chapter 4.
 H2: Practice
 PR: Find the occupied bandwidth of 5 Msymbol/s with a roll-off of 0.22.
 PR: A 6 MHz channel uses α = 0.15. What is the highest symbol rate it can carry?
@@ -25,9 +43,17 @@ PR: Why are the transmit and receive filters each made root-raised-cosine rather
 PR: A pulse has energy 10⁻⁹ V²·s and N0 = 2 × 10⁻¹² V²/Hz. Find the matched-filter peak SNR in dB.
 PR: Which closes the eye horizontally, noise or timing jitter?
 PR: From Section 3.2, by what factor does the worst-case interference grow when α is reduced from 0.5 to 0.1 at a timing error of a tenth of a symbol?
+PR: Find the occupied bandwidth of a 3.84 MBd WCDMA carrier with α = 0.22.
+PR: Why must the receiver of a root-raised-cosine system use a root-raised-cosine filter rather than a full raised cosine?
+PR: Third-order products of a 20 MHz signal fill what total bandwidth?
+PR: What fraction of a 10 MHz channel does an LTE carrier of 50 resource blocks occupy?
 ANS: 5 × 1.22 = 6.1 MHz.
 ANS: 6/1.15 = 5.22 Msymbol/s.
 ANS: The receive filter must be matched to the pulse to maximize SNR, and the overall response must be a Nyquist pulse; splitting the raised cosine equally satisfies both, while a full raised cosine at the transmitter would leave the receiver either unmatched or adding further filtering.
 ANS: 2E/N0 = 2 × 10⁻⁹/2 × 10⁻¹² = 1000, or 30.0 dB.
 ANS: Timing jitter; noise closes it vertically.
 ANS: 0.510/0.197 = 2.6 times.
+ANS: 3.84 × 1.22 = 4.68 MHz, inside the 5 MHz channel.
+ANS: Only the cascade of the two root filters meets Nyquist's zero-interference condition; a full raised cosine after a root filter leaves intersymbol interference and is no longer matched to the pulse.
+ANS: 60 MHz, three times the original, centered on it.
+ANS: 50 × 180 kHz = 9 MHz, 90 %.

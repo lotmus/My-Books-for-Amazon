@@ -19,6 +19,31 @@ EQ: ΔL = 20 log10(dGEO / dLEO)
 H2: Worked Example 20.3
 WEP: Compare the free-space loss at zenith for GEO and for a 550 km LEO satellite at the same frequency.
 WES: 20 log10(35,786/550) = 36.3 dB. A LEO link at a 30° elevation, at 993 km, loses 5.1 dB more than at zenith, still 31 dB less than GEO.
+H2: 20.4 The satellite link budget in C/N0
+P: Satellite engineers write the link budget in a form that separates the pieces each party controls. The transmitter is described by its EIRP, the power times the antenna gain in the direction of the receiver, in dBW. The path is the free-space loss, which Book 4 derives, plus atmospheric and rain losses. The receiver is described by a single figure of merit, G/T, its antenna gain divided by its system noise temperature, in dB/K. Their combination gives the carrier-to-noise-density ratio, C/N0, from which the SNR in any bandwidth follows by subtracting 10 log₁₀B. The constant 228.6 is −10 log₁₀ of Boltzmann's constant in dBW/(K·Hz).
+EQ: C/N0 = EIRP − L_path + G/T + 228.6   (dB-Hz)
+P: The form explains the design of every satellite service. A geostationary television satellite radiates about 50 to 55 dBW toward its coverage area, so that a 60 cm dish with a G/T of about 15 dB/K can close the link at 40 000 km. A LEO broadband terminal uses a flat phased array of a few hundred elements with a G/T of roughly 10 dB/K but sits thirty-six decibels closer. A direct-to-phone service turns the asymmetry around: the phone's antenna has a G/T near −30 dB/K, so the satellite must carry a very large deployable array to make up the difference in both directions.
+H2: 20.5 Timing advance and Doppler pre-compensation
+P: A terrestrial handset learns its timing advance from the base station, which measures the round trip on a random-access preamble. Over a LEO link the round trip is several milliseconds and changes by tens of microseconds per second, far beyond the range a terrestrial preamble can measure. Release 17 NTN therefore makes the handset do most of the work: it knows its own position from GNSS and the satellite's from broadcast ephemeris, computes the delay and the Doppler of the service link, and pre-compensates both before it transmits. The network then corrects only the residual and the feeder-link delay. The same knowledge lets the handset predict when the satellite will set and prepare the handover to the next one, often every few minutes.
+H2: Worked Example 20.4
+WEP: A geostationary satellite at 12 GHz radiates 52 dBW toward a receiver 38 000 km away with a G/T of 15 dB/K. Find C/N0, the C/N for a 30 MBd DVB-S2 carrier, and the margin over 32APSK at rate 3/4, which needs Es/N0 = 10.2 dB.
+WES: The free-space loss is 92.45 + 20 log₁₀38 000 + 20 log₁₀12 = 205.6 dB with distance in km and frequency in GHz. C/N0 = 52 − 205.6 + 15 + 228.6 = 90.0 dB-Hz. In 30 MHz, 74.8 dB-Hz, C/N = 15.2 dB, a clear-sky margin of 5.0 dB over 32APSK 3/4. A heavy rain cell at 12 GHz takes that margin, and DVB-S2's adaptive coding steps down to 8PSK or QPSK until it passes.
+H2: Worked Example 20.5
+WEP: A LEO satellite at 550 km, directly overhead, receives a handset's uplink at 2 GHz. The handset transmits 23 dBm (−7 dBW) from a 0 dBi antenna, and the satellite array has an assumed G/T of 10 dB/K. Find the C/N0 and the C/N in one 180 kHz resource block, before body and polarization losses.
+WES: The path loss is 92.45 + 20 log₁₀550 + 20 log₁₀2 = 153.3 dB. C/N0 = −7 − 153.3 + 10 + 228.6 = 78.3 dB-Hz, and in 180 kHz, 52.6 dB-Hz, C/N = 25.7 dB. Body loss, polarization mismatch, and low elevation can take 10 to 15 dB of that, and a slant range at 30° elevation adds about 5 dB more, which is why direct-to-device services offer messaging and modest data rates first.
+H2: 20.6 Footprints and constellation size
+P: How many satellites a constellation needs depends on how much of the sky a user can use. A satellite at altitude h is visible above an elevation angle ε within a cap on the ground of Earth-central angle λ = arccos[R cos ε/(R + h)] − ε, with R = 6371 km. Low minimum elevation enlarges the footprint but forces the link through longer slant ranges, more atmosphere, and more obstruction by buildings and trees. Coverage alone sets a floor on the number of satellites; capacity sets the real number. One satellite's beams can serve only so many users, so a broadband constellation for millions of subscribers needs far more satellites than coverage alone would.
+EQ: λ = arccos[R cos ε / (R + h)] − ε,   footprint radius = R λ
+H2: Worked Example 20.6
+WEP: Find the footprint radius and the maximum slant range of a satellite at 550 km for a minimum elevation of 25°, and estimate the minimum number of satellites for single coverage of the whole Earth.
+WES: arccos(6371 × cos 25°/6921) = arccos(0.8343) = 33.45°, so λ = 8.45° = 0.1476 rad and the footprint radius is 940 km. The slant range at 25° is 1123 km, about twice the altitude. Each footprint covers about π × 940² = 2.78 × 10⁶ km², and the Earth's 5.1 × 10⁸ km² needs at least 184 of them, in practice two to three times as many for overlapping footprints and orbital geometry. Broadband constellations fly thousands because of capacity, not coverage.
+H2: 20.7 Rain fade
+P: Above about 10 GHz, rain decides a satellite link's availability. Raindrops absorb and scatter the signal with a specific attenuation that ITU-R Recommendation P.838 expresses as k R^α dB per kilometer, where R is the rain rate in millimeters per hour and k and α depend on frequency and polarization. For horizontal polarization, k is about 0.024 and α about 1.18 at 12 GHz; about 0.09 and 1.06 at 20 GHz; and about 0.24 and 0.95 at 30 GHz. The attenuation on a path is the specific attenuation times an effective path length through the rain, a few kilometers at moderate elevation. A climate that sees 40 mm/h for 0.01 % of the year, about 53 minutes, costs a few decibels at Ku band and well over ten at Ka band, which is why Ka systems rely on adaptive coding and modulation and why gateways are sited with diversity a few tens of kilometers apart.
+EQ: γR = k R^α  (dB/km)
+H2: Worked Example 20.7
+WEP: Using the approximate coefficients above, find the rain attenuation for a 40 mm/h rain rate over an effective path of 4 km at 12 GHz and at 30 GHz.
+WES: At 12 GHz, γ = 0.024 × 40^1.18 = 1.86 dB/km, so 7.5 dB over 4 km, more than the 5 dB clear-sky margin of Worked Example 20.4, so that link drops to a lower modulation for those minutes. At 30 GHz, γ = 0.24 × 40^0.95 = 8.0 dB/km and the attenuation is 32 dB, which no practical margin covers; the link instead accepts the outage or switches the user to a gateway outside the rain cell.
+P: Satellite links bring the same physical layer into a geometry where every number is extreme: delay, Doppler, path loss, and the antenna that compensates for them. The last chapter goes to the other extreme, radios that must spend almost nothing.
 H2: Practice
 PR: Find the slant range to a 550 km satellite at 10° elevation.
 PR: Find the one-way delay for that range.
@@ -26,9 +51,17 @@ PR: Find the maximum Doppler at 12 GHz for the satellite of Example 20.2.
 PR: What is the round-trip delay between a user and a GEO satellite, one hop each way?
 PR: Why must a direct-to-device terminal precompensate Doppler before transmitting?
 PR: Why do direct-to-phone services use LEO rather than GEO?
+PR: Find the C/N0 of a link with EIRP 40 dBW, a path loss of 190 dB, and a G/T of 5 dB/K.
+PR: Why does a Release 17 NTN handset need a GNSS fix before it transmits?
+PR: Why does a lower minimum elevation angle reduce the number of satellites needed but worsen the link?
+PR: Find the specific attenuation at 20 GHz for 25 mm/h using k = 0.09 and α = 1.06.
 ANS: About 1815 km.
 ANS: 6.05 ms.
 ANS: About 280 kHz.
 ANS: 239 ms.
 ANS: The satellite receives many users at once, each with a different Doppler; precompensation makes them arrive aligned in frequency so their subcarriers remain orthogonal.
 ANS: The path loss is about 36 dB lower, and the delay is milliseconds rather than a quarter second, which a handset's small antenna and power can tolerate.
+ANS: 40 − 190 + 5 + 228.6 = 83.6 dB-Hz.
+ANS: It must pre-compensate the large, fast-changing delay and Doppler of the satellite link, and to compute them it needs its own position as well as the satellite's ephemeris.
+ANS: It enlarges each footprint, so fewer satellites cover the Earth, but users at the edge see the satellite through a longer slant range, more atmosphere, and more obstructions, which costs path loss and availability.
+ANS: 0.09 × 25^1.06 = 2.7 dB/km.
