@@ -1,4 +1,4 @@
-# Life Science for Everyone
+# Life Science
 
 This book explains how chemistry learned to copy itself, and what happened once it did. You are one of the results, so you may as well know how you were made.
 

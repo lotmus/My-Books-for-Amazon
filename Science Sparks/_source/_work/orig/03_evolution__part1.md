@@ -1,4 +1,4 @@
-# Life Science for Everyone
+# Life Science
 
 ## 1. What Is Life? Schrödinger's Question and the Order in the Disorder
 

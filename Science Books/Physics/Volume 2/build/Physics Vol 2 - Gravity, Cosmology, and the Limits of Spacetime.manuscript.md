@@ -1,16 +1,16 @@
 <!-- Auto-generated read-only transcript of "Physics Vol 2 - Gravity, Cosmology, and the Limits of Spacetime.docx". Edit the .docx (the real manuscript source), then regenerate this file -->
 
-# Science for Everyone: Physics
+# Physics, Actually: Physics
 
 # Volume 2
 
 # Gravity, Cosmology, and the Limits of Spacetime
 
-## A Science for Everyone Volume
+## A Physics, Actually Volume
 
 ## Lothar J. Musiol
 
-Science for Everyone: Physics
+Physics, Actually: Physics
 
 Volume 2 - Gravity, Cosmology, and the Limits of Spacetime
 
@@ -24,7 +24,7 @@ This book is intended for general educational and informational purposes. Every 
 
 First edition.
 
-Science for Everyone series
+Physics, Actually series
 
 # Contents
 

@@ -84,8 +84,8 @@ Narration: Lothar J. Musiol / the author for the novel, with the established Lot
 
 The clean identity system
 	Fiction series	Pure-science series
-Series	Lolly Wren’s Curious Science Adventures	Science for Everyone
-Book 1	The Ministry of Eventualities	Physics book / Science for Everyone Book 1
+Series	Lolly Wren’s Curious Science Adventures	Physics, Actually
+Book 1	The Ministry of Eventualities	Physics book / Physics, Actually Book 1
 Main persona	Lolly Wren	Lothar Feynmann
 Author	Q.E.D.	Sven Gerald Rupertson
 Real author behind Q.E.D.	Lothar J. Musiol	—
@@ -123,8 +123,8 @@ The supporting Bureau personas include Trevor, Penny, Tabitha, Weinstein, Julius
 ==========================================================
 
 
-Series: Science for Everyone
-—or, if the exact final branding we settled on was Science for Everyone with Lothar Feynmann, I would use the former as the formal series name and the latter as the narrator/persona branding.
+Series: Physics, Actually
+—or, if the exact final branding we settled on was Physics, Actually with Lothar Feynmann, I would use the former as the formal series name and the latter as the narrator/persona branding.
 
 Book 1: the pure-science physics book currently associated with the Lothar Feynmann project.
 
