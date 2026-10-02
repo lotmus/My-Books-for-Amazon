@@ -21,7 +21,7 @@ Mathematics Tower* treats it as one connected structure, fifty floors high, and
 walks you up it one room at a time. Volume 1 starts with counting and ends with
 the integral.
 
-Twelve floors, 109 rooms:
+Twelve floors, 109 rooms, 430 worked examples:
 
 - Counting, number theory, and why the primes behave the way they do
 - Algebra, functions and graphs, and coordinate systems
@@ -52,7 +52,7 @@ Subtitle: Floors 13–25: From Multivariable Calculus to Set Theory & Logic
 Volume 2 takes the calculus of Volume 1 into several dimensions, then builds the
 tools that science and engineering run on.
 
-Thirteen floors, 118 rooms:
+Thirteen floors, 118 rooms, 433 worked examples:
 
 - Functions of several variables, multivariable calculus, and vector calculus
   (divergence, curl, and the great integral theorems)
@@ -81,7 +81,7 @@ Volume 3 covers the floors where most university mathematics lives: the
 equations that describe change, the methods that compute their solutions, and
 the abstract structures behind both.
 
-Twelve floors, 108 rooms:
+Twelve floors, 108 rooms, 361 worked examples:
 
 - Differential, integro-differential, and partial differential equations
   (heat, waves, and Laplace's equation)
@@ -108,7 +108,7 @@ The last volume climbs from the most abstract mathematics there is to the places
 where mathematics meets the world: signals, games, data, machines, and the laws
 of physics.
 
-Thirteen floors, 117 rooms:
+Thirteen floors, 117 rooms, 349 worked examples:
 
 - Category theory and information theory
 - Wavelets and signal analysis
@@ -132,7 +132,5 @@ answers and solutions at the back.
    single-file complete edition in `bak\READY (2026-09-26)` is an old build
    from 26 Sep, so it is out of date.)
 2. KDP categories and the seven keywords for each volume.
-3. Whether to print the worked-example counts in the description. The books say
-   1,534 in all (421 / 417 / 355 / 341). A count of the example labels in the
-   1 Oct manuscripts gives 430 / 433 / 361 / 349, so those numbers are left out
-   here until they are recounted.
+3. Worked-example counts are the recounted figures from 1 Oct 2026: 430 / 433 / 361 / 349,
+   1,573 in all. The volumes state the same figures.

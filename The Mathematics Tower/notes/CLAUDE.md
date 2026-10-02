@@ -123,7 +123,8 @@ zip. Hard-won rules:
 - **Several sessions edit this repo concurrently.** Re-read the file and the git
   log before writing; do not trust a status snapshot from the start of a
   conversation.
-- Backups live in `Archive - not for publication`.
+- Backups live in `bak\` (the old `Archive - not for publication` folder is now
+  `bak\Archive - not for publication\`).
 
 ## 5. Where things live
 
@@ -134,7 +135,7 @@ bookmark names. Leave them as they are.
 ## 6. Session of 1 Oct 2026 (Volume 2, Floor 15)
 
 One session owns the Tower, RIB Book 1 and Protocol Flamingo, and does no git.
-Backup before the edit: `Archive - not for publication\The Mathematics Tower - Volume 2 (backup 2026-10-01, before Floor 15 on-ramps).docx`.
+Backup before the edit: `bak\Archive - not for publication\The Mathematics Tower - Volume 2 (backup 2026-10-01, before Floor 15 on-ramps).docx`.
 
 Floor 15 was the thinnest floor and its rooms opened cold with definitions.
 Volume 2 went from 175,873 to 178,054 words (body text). Only `word/document.xml`
@@ -434,15 +435,39 @@ arithmetic errors outside the mod-7 tables. No TODO, TBD, or placeholder text
 anywhere. This was not a line-by-line proof read of ~720,000 words.
 
 **Open (Lothar):**
-- “There are 1,534 worked examples … 421 / 417 / 355 / 341”: the 1 Oct
-  manuscripts have 430 / 433 / 361 / 349 example labels. Recount, or keep
-  the stated figure.
 - No Tower KDP description existed. `KDP_Description.md` is a new draft;
   price, categories, and keywords are still to choose.
-- `boxes.json`, `chapters.png`, and `back cover.png` stay in the root.
-  Their purpose isn't documented here.
-- `Archive - not for publication` is still the backup folder named in
-  section 4. Lothar's rule puts leftovers in `bak\`, so the two should
-  probably be merged.
 - This file is now in `notes\`. Tools that load `CLAUDE.md` automatically
-  from the Tower root will no longer find it there.
+  from the Tower root will no longer find it there. This is deliberate: md
+  files live in `notes\`, and there is no stub in the root.
+- The example count, `boxes.json`/`chapters.png`/`back cover.png` and the
+  Archive folder were settled in section 12.
+
+## 12. Round 2, 1 Oct 2026 (all four volumes)
+
+Backup before the edits: `My Books for Amazon - session backups\2026-10-01
+Tower audit round 2\` (four volumes, `KDP_Description.md`, this file).
+
+- **Worked-example count recounted:** 430 / 433 / 361 / 349 = **1,573**.
+  Only paragraphs starting “Numeric / Abstract / Worked example —” inside the
+  shaded example boxes count. Doubled labels were already fixed, and “For
+  example —” in running text doesn't count. V2's unlabeled shaded boxes are
+  Problems, not examples. Both statements in each volume (“There are … worked
+  examples in the Tower, N of them …” and “… the Tower contains … such
+  exercises …”) now say 1,573 and the volume's own count, and so does
+  `KDP_Description.md`.
+- **V3 lowercase possessives:** a read-through of the floor Problems/CYU
+  sections, Answer Key and Solutions restored 15 more: algorithm’s,
+  cartographer’s (×2), acceleration’s, building’s, needle’s, plane’s,
+  definition’s, function’s, subject’s, observer’s, moving frame’s,
+  discipline’s, Riemann tensor’s, theorem’s. No lost contractions were found.
+- **Archive merged:** all 17 files of `Archive - not for publication` were
+  moved with `git mv` to `bak\Archive - not for publication\`, and each
+  one's SHA-256 was checked after the move. The old folder is gone.
+- **Root files:** `back cover.png` (1024×1536) is the Tower's paperback back
+  cover (“Fifty floors. One building. All of mathematics.”), so it stays in
+  the root. `boxes.json` was a scratch dump of V3 definition-box openings
+  (British spelling, mojibake), and `chapters.png` was a screenshot of
+  another series' folder list, identical to the copy in `bak\READY
+  (2026-09-26)\`. Nothing referenced either of them, and both are now in
+  `bak\superseded 2026-10-01\`.
