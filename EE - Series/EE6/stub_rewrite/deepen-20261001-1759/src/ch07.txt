@@ -1,0 +1,35 @@
+H1: Chapter 7. Oscillators, Phase Noise, and the PLL
+P: Every radio needs a frequency reference: a local oscillator that moves the signal up to the carrier in the transmitter and back down in the receiver. Its frequency must be exact and adjustable in fine steps, and its spectrum must be clean, because any noise on it is copied onto every signal it mixes with. Real oscillators spread their power into a skirt of phase noise around the carrier. This chapter quantifies that skirt, shows how a phase-locked loop combines a clean but fixed reference with a tunable but noisy oscillator, and connects the result to the EVM and reciprocal-mixing limits of Book 5 and Chapter 6. The loop's mathematics is Book 2's feedback, but the PLL lives here, because its specifications come from the radio.
+H2: 7.1 Phase noise
+P: An oscillator's phase noise is written L(Δf), the noise power in a 1 Hz band at an offset Δf from the carrier, relative to the carrier power, in dBc/Hz. Leeson's model explains its shape. The resonator, with loaded quality factor QL, filters the amplifier's noise; within the resonator's half-bandwidth f0/(2QL), the feedback turns amplitude noise into phase noise that rises as 1/Δf², and closer in, flicker noise steepens it to 1/Δf³. Far from the carrier the noise is flat. The model shows the two levers: a higher QL, and a higher signal power Ps in the resonator.
+EQ: L(Δf) ≈ 10 log₁₀{ (2FkT/Ps) [1 + (f0 / (2QL Δf))²] }   (without the flicker term)
+H2: Worked Example 7.1
+WEP: A 2.4 GHz oscillator has QL = 20, a resonator power of 1 mW, and an amplifier noise factor of 10. Find its phase noise at 1 MHz and 100 kHz offsets, and at 1 MHz if QL falls to 10.
+WES: 2FkT/Ps = 2 × 10 × 4.0 × 10⁻²¹/10⁻³ = 8.0 × 10⁻¹⁷, which is −161 dBc/Hz. At 1 MHz, f0/(2QLΔf) = 60, and the bracket is 3601, adding 35.6 dB: L = −125.4 dBc/Hz. At 100 kHz the factor is 600, adding 20 dB more: −105.4 dBc/Hz. Halving QL to 10 raises the noise at 1 MHz by 6 dB, to −119.4 dBc/Hz. The integrated LC resonators of a CMOS chip have QL of about 10 to 20, which is why on-chip oscillators are noisier than discrete ones.
+H2: 7.2 The phase-locked loop
+P: A PLL divides the oscillator output by N, compares its phase with a crystal reference at fref, and steers the voltage-controlled oscillator so that the two stay in phase; the output is then N × fref. Inside the loop bandwidth, the output follows the reference, and the reference's phase noise appears multiplied by N, which is 20 log₁₀N in decibels. Outside the loop bandwidth, the VCO runs free and its own noise appears. The designer chooses the loop bandwidth near the offset where the two contributions cross. An integer-N synthesizer steps in multiples of fref, so fine steps need a low reference and therefore a large N. A fractional-N synthesizer dithers N between integers with a delta-sigma modulator, allowing a high reference, a small N, and fine steps; the dithering's quantization noise is shaped to high offsets, where the loop filters it.
+EQ: fout = N fref,    in-band noise = Lref + 20 log₁₀N
+H2: Worked Example 7.2
+WEP: A 2.4 GHz synthesizer must step in 1 MHz increments. The reference, referred to the phase detector, contributes −150 dBc/Hz. Compare the in-band phase noise of an integer-N design with a 1 MHz reference and a fractional-N design with a 40 MHz reference.
+WES: The integer-N design needs N = 2400, so the in-band noise is −150 + 20 log₁₀2400 = −150 + 67.6 = −82.4 dBc/Hz. The fractional-N design has N ≈ 60, adding 35.6 dB, for −114.4 dBc/Hz, 32 dB better. Fractional-N synthesis is the reason modern radios can have both fine channel steps and clean in-band noise.
+KEY: Key idea. A PLL copies the reference inside its bandwidth, multiplied by N, and leaves the VCO's own noise outside it. Keep N small, the reference clean, and the loop bandwidth where the two noise curves cross.
+H2: 7.3 Settling
+P: A PLL must also settle quickly when the channel changes. For a second-order loop with natural frequency ωn and damping ζ, the frequency error after a step decays roughly as e^(−ζωnt), so the time to settle to a fraction ε of the step is about −ln(ε√(1 − ζ²))/(ζωn). With fn = 100 kHz and ζ = 0.707, settling to one part per million of the step takes 31.9 µs. A wider loop settles faster and suppresses more VCO noise, but passes more reference and delta-sigma noise, and the loop must remain stable with margin: Book 2's phase-margin analysis applies directly.
+H2: 7.4 From phase noise to EVM and jitter
+P: Integrating the phase noise over the offsets that matter gives the oscillator's rms phase error σφ = √(2∫L(f)df), in radians, with L in linear units. The factor 2 counts both sidebands. The phase error rotates every constellation point, and for small errors it acts as an EVM of σφ. In a clock, the same quantity divided by 2πf0 is the rms jitter, which sets the converter limit of Book 5.
+H2: Worked Example 7.3
+WEP: An oscillator at 2.4 GHz has flat phase noise of −110 dBc/Hz from 10 kHz to 10 MHz offset. Find its rms phase error, the EVM floor it sets, and its rms jitter.
+WES: The integral is 2 × 10⁻¹¹ × (10⁷ − 10⁴) = 2.0 × 10⁻⁴ rad², so σφ = 0.0141 rad, or 0.81°. As an EVM floor that is 1.41%, or −37.0 dB, just short of the −38 dB that Book 5 found for Wi-Fi 7's 4096-QAM, so this oscillator would limit that mode before any other impairment. The jitter is 0.0141/(2π × 2.4 × 10⁹) = 0.94 ps rms.
+H2: Practice
+PR: By how much does the in-band reference noise rise in a PLL with N = 145?
+PR: In Leeson's model, how much does doubling the resonator power change the far-out phase noise?
+PR: An oscillator has flat phase noise of −100 dBc/Hz from 1 kHz to 1 MHz at 1 GHz. Find σφ in degrees and the rms jitter.
+PR: A synthesizer with a 40 MHz reference must produce 5.8 GHz. Find N and the in-band noise if the reference contributes −150 dBc/Hz.
+PR: Find the approximate settling time of a loop with fn = 50 kHz and ζ = 0.707 to one part per million.
+PR: Why does a small N improve in-band phase noise?
+ANS: 20 log₁₀145 = 43.2 dB.
+ANS: It falls by 3 dB, since the noise term is divided by Ps.
+ANS: σφ = √(2 × 10⁻¹⁰ × 999,000) = 0.0141 rad = 0.81°; jitter = 0.0141/(2π × 10⁹) = 2.25 ps.
+ANS: N = 145; −150 + 43.2 = −106.8 dBc/Hz.
+ANS: Twice the 100 kHz value: 63.8 µs.
+ANS: The divider makes the loop multiply the reference's phase deviations by N, so the reference's noise appears at the output raised by 20 log₁₀N; a smaller N multiplies it less.

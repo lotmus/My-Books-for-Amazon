@@ -1,0 +1,35 @@
+TITLE: Packaging, Layout, and Emerging Systems
+SUB: Book 9 of the Electrical Engineering Series
+COPY: Copyright © 2026 Lothar J. Musiol. All rights reserved. Kindle edition.
+SUBTITLE: Advanced Packages, Power Delivery, Board Materials, Layout, Cooling, MEMS, and the Robot
+HOW: The earlier books designed circuits, devices, radios, converters, and test methods. This last book is about where they meet: the package that holds the chips, the copper that carries their current and signals, the board materials and layout that shape those signals, and the heat they produce. Chapter 1 uses the AI accelerator of 2026 to show why these have become first-rank problems. Chapters 2 to 6 treat packages, power delivery, board materials, layout, and cooling, and Chapter 7 is the series' survey of MEMS. Chapters 8 to 16 deepen each thread: chiplets and yield, package parasitics and reliability, decoupling, stack-up, crosstalk, high-speed loss and equalization, optical interconnect, and inertial sensors. Chapter 17 places the robot, which uses nearly every book at once, in the picture.
+HOW: Each chapter states its question, develops the idea in words, and works it through with declared numbers. Every number was computed, and the answers to every practice problem are in Appendix B. Where a figure describes a 2026 product, it is labeled as a snapshot and its source is given; the physics and arithmetic are meant to outlast the products.
+HOW: The series gives each subject one home. Conversion efficiency and the regulators that make the processor's current are Book 8's. Transmission lines, matching, and the reference laminate are Book 4's. Emission limits and the test chamber are Book 7's. Device physics and piezoelectric films are Book 3's. Control loops, including the robot's tracker, are Book 2's. This book's anchor numbers are an HBM4 stack at about 2.8 TB/s against 51.2 GB/s for one DDR5-6400 channel, a ratio of about 55, and the 875 A that a 700 W processor draws at 0.8 V. The texts in Appendix C go deeper; this book's explanations, examples, and problems are its own.
+CONST: Memory bandwidth = width × per-pin rate/8. DDR5-6400 channel: 51.2 GB/s. HBM4 at 11 Gbit/s × 2048 bits: 2.8 TB/s (55×). Interface power = bit rate × energy per bit.
+CONST: Current: I = P/V; 700 W at 0.8 V = 875 A.
+CONST: Connection density = 10⁶/p² per mm² (p in µm). Reticle limit 26 × 33 mm = 858 mm².
+CONST: Target impedance Ztarget = ΔV/ΔI. Copper sheet resistance ρ/t: 0.49 mΩ/square for 1 oz (35 µm); ρCu = 1.72 × 10⁻⁸ Ω·m.
+CONST: Stripline dielectric loss αd ≈ 8.686πf√εr tan δ/c dB/m. At 10 GHz: FR-4 (4.5, 0.020) 38.6 dB/m; low-loss (3.55, 0.0037) 6.3 dB/m.
+CONST: Return-current fraction within ±a of a trace at height h: (2/π) arctan(a/h). Critical length ≈ tr·v/6. Via stub resonance ≈ c/(4l√εr).
+CONST: Thermal: Tj = Tcoolant + PΣθ; interface θ = t/(kA); coolant P = ṁcpΔT; water cp = 4186 J/(kg·K); air 1005 J/(kg·K), 1.2 kg/m³.
+CONST: MEMS: x = a/ω0²; C = ε0A/g; thermal noise an = √(4kBTω0/(mQ)); resonator bandwidth f0/Q.
+CONST: Yield: Y = exp(−D0A); dies per wafer ≈ π(d/2)²/A − πd/√(2A). Shoreline bandwidth = lanes per mm × rate.
+CONST: Bond wire ≈ 1 nH/mm; XL = 2πfL; ground bounce = NL ΔI/Δt.
+CONST: Solder shear strain Δγ ≈ Δα ΔT DNP/h; Engelmaier Nf ≈ ½(Δγ/2εf)^(1/c), c ≈ −0.442, εf ≈ 0.325. Black: MTTF = A J^(−n) exp(Ea/kBT).
+CONST: Capacitor |Z| = √(ESR² + (ωL − 1/ωC)²); fSRF = 1/(2π√(LC)); parallel count N ≈ 2πf ESL/Z.
+CONST: Stripline (IPC-2141): Z0 ≈ (60/√εr) ln[4b/(0.67π(0.8w + t))]; delay √εr/c per unit length.
+CONST: Crosstalk: Kb = ¼(Cm/C + Lm/L); Lsat = trv/2; far end Vf/Va ≈ (len/2v)(Cm/C − Lm/L)/tr; spacing rule 1/(1 + (s/h)²).
+CONST: High-speed links: fNyquist = Rs/2; PAM4 penalty 9.5 dB; BER 10⁻¹² needs Q = 7.03; KP4 threshold 2.4 × 10⁻⁴ (Q = 3.49).
+CONST: Optics: energy per bit = P/rate; single-mode fiber ≈ 0.35 dB/km at 1310 nm; margin = Ptx − Σlosses − Psens.
+CONST: Gyroscope: aC = 2Ωv, v = x0ωd. Dead reckoning: x = ½abt²; θ = bt; θRW = ARW√t.
+CONST: Robot: Pmech = τω; Ibus = Pmech/(ηVbus); runtime = E/Pavg.
+SRC: Howard Johnson and Martin Graham, High-Speed Digital Design and High-Speed Signal Propagation; Eric Bogatin, Signal and Power Integrity, Simplified, 3rd edition, for Chapters 3 to 5.
+SRC: John H. Lau, Semiconductor Advanced Packaging, and Rao R. Tummala (editor), Fundamentals of Device and Systems Packaging, 2nd edition, for Chapter 2; TSMC, Intel, and JEDEC (JESD270-4, HBM4) public documentation for the 2026 packages and memory.
+SRC: Micron Technology, HBM4 product information (2026), for the 2.8 TB/s per-stack figure.
+SRC: Madhavan Swaminathan and A. Ege Engin, Power Integrity Modeling and Design for Semiconductors and Systems, for target impedance.
+SRC: Laminate manufacturers' data sheets for Dk and Df, read at the frequency of use; IPC-4101 for laminate classes.
+SRC: Frank P. Incropera et al., Fundamentals of Heat and Mass Transfer, for Chapter 6; ASHRAE TC 9.9 guidance for liquid cooling in data centers.
+SRC: Howard Johnson and Martin Graham for crosstalk (Chapter 13); IEEE 802.3ck and 802.3df for 100 and 200 Gbit/s electrical lanes and the KP4 code (Chapter 14); OIF co-packaging documents (Chapter 15).
+SRC: Werner Engelmaier, solder-joint fatigue papers, and J. R. Black, "Electromigration—A Brief Survey and Some Recent Results" (IEEE Trans. Electron Devices, 1969), for Chapter 10; the UCIe specification for die-to-die links (Chapter 8).
+SRC: David Titterton and John Weston, Strapdown Inertial Navigation Technology, 2nd edition, and IEEE Std 952 for Allan variance (Chapter 16).
+SRC: Stephen D. Senturia, Microsystem Design, and Chang Liu, Foundations of MEMS, for Chapter 7; SiTime product information for the Titan resonators (2025).

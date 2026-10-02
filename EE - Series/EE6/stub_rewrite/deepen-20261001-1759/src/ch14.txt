@@ -1,0 +1,32 @@
+H1: Chapter 14. RF Exposure and Safety
+P: A transmitter that radiates kilowatts of EIRP is also a source of radio-frequency energy absorbed by people nearby. At the frequencies in this book the established effect of that energy is heating, and exposure limits are set with large safety factors below the levels that cause measurable heating. Every licensed transmitter, base station, and phone must show compliance. This chapter explains the two quantities the limits use, power density and specific absorption rate, and how an engineer finds the distance at which an antenna becomes compliant.
+H2: 14.1 The limits
+P: Two bodies of rules dominate. In the United States the FCC limits of 47 CFR 1.1310, based on the IEEE and NCRP work of the 1980s and 1990s, set a maximum permissible exposure for the general public of 1 mW/cm², which is 10 W/m², from 1.5 to 100 GHz, and f/1500 mW/cm² between 300 and 1500 MHz, with f in megahertz. Occupational limits, for trained workers aware of the exposure, are five times higher. Internationally, the ICNIRP 2020 guidelines set 10 W/m² for the general public from 2 to 300 GHz, averaged over 30 minutes for whole-body exposure. Near the body, for phones and other devices held close, the limits are on the specific absorption rate: 1.6 W/kg averaged over 1 g of tissue under the FCC rules, and 2 W/kg over 10 g under ICNIRP.
+EQ: FCC general public: S ≤ f/1500 mW/cm² (300–1500 MHz);  1 mW/cm² = 10 W/m² (1.5–100 GHz)
+H2: 14.2 Power density in the far field
+P: Far from an antenna the power density is the EIRP spread over a sphere, S = EIRP/(4πR²). Solving for R gives the distance beyond which the exposure is below a limit. Near the ground, the direct and ground-reflected waves can add; FCC guidance in OET Bulletin 65 uses a reflection factor of 2.56 in power density, corresponding to a field 1.6 times the free-space value, for a conservative estimate. The far-field formula overestimates the density in the near field of a large aperture antenna, where the beam has not yet spread; there the density is bounded by roughly four times the power divided by the aperture area.
+EQ: S = EIRP/(4πR²),   Rcompliance = √(F × EIRP / (4π Slimit)),  F = 1 or 2.56
+H2: Worked Example 14.1
+WEP: A sector antenna radiates an EIRP of 36 dBW (3981 W) at 3.5 GHz. Find the general-public compliance distance in the main beam, with and without the ground-reflection factor, and the occupational distance.
+WES: The limit at 3.5 GHz is 10 W/m². Without reflection, R = √(3981 / (4π × 10)) = 5.63 m. With the 2.56 factor, R = 5.63 × 1.6 = 9.0 m. For the occupational limit of 50 W/m², R = √(3981 / (4π × 50)) = 2.52 m. Because sector antennas are mounted high and the beam is narrow in elevation, people at ground level are usually far outside the main beam and well below the limit; the exclusion zone matters mostly to workers on the roof or tower.
+KEY: Key idea. The power density from a transmitter falls as 1/R², so a compliance distance is the square root of the EIRP over 4π times the limit. Workers near the antenna, not the public on the ground, are the usual concern.
+H2: Worked Example 14.2
+WEP: A 900 MHz transmitter has an EIRP of 100 W. Find the general-public limit and the compliance distance with the 2.56 factor.
+WES: The limit is 900/1500 = 0.6 mW/cm², 6 W/m². Without reflection R = √(100 / (4π × 6)) = 1.15 m; with the factor, 1.84 m.
+H2: 14.3 Specific absorption rate
+P: Close to the body, a device's field couples directly into tissue, and the far-field density is meaningless. SAR, the power absorbed per kilogram, is measured with a probe scanning inside a tissue-simulating liquid in a phantom of the head or body, while the device transmits at full power. The limit of 1.6 W/kg over 1 g is a heating rate: in tissue with a heat capacity near 3600 J/kg/K, it would raise the temperature by about 0.027 K per minute if no heat were carried away, and blood flow removes much of it. Phones meet the limit by antenna placement and by reducing power when sensors detect the head or body nearby. Above about 6 GHz, where energy is absorbed close to the skin surface, the newer rules switch from SAR to absorbed power density over a small area of skin.
+H2: 14.4 Compliance in practice
+P: For a new site, the engineer computes the exposure from every transmitter there, adds their contributions as fractions of their own limits, and checks that the sum stays below one in accessible areas. Where it does not, the site uses signs, barriers, and procedures, and workers power down or reduce the antennas before working in front of them. Measurement with broadband or frequency-selective probes confirms the calculation. Massive MIMO base stations, whose beams move, are assessed using the actual time-averaged power in each direction, which is usually well below the theoretical maximum.
+H2: Practice
+PR: Convert 1 mW/cm² to W/m².
+PR: Find the general-public limit at 600 MHz under the FCC rules.
+PR: An antenna radiates 50 W EIRP. Find the power density at 3 m.
+PR: Find the compliance distance for 1000 W EIRP at 28 GHz, without the reflection factor.
+PR: What electric field, in V/m, corresponds to a far-field power density of 10 W/m²?
+PR: Why is SAR used instead of power density for a phone held to the head?
+ANS: 10 W/m².
+ANS: 600/1500 = 0.4 mW/cm², or 4 W/m².
+ANS: 50 / (4π × 9) = 0.44 W/m².
+ANS: √(1000 / (4π × 10)) = 2.82 m.
+ANS: E = √(S × 377 Ω) = 61.4 V/m.
+ANS: The head is in the antenna's reactive near field, where power density is not well defined and the energy couples directly into tissue, so the absorbed power per mass is what matters.

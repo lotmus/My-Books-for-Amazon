@@ -1,0 +1,34 @@
+H1: Chapter 8. Yield, Chiplets, and Die-to-Die Links
+P: Chapter 2 explained how advanced packages place several dies side by side. This chapter explains why manufacturers choose to split a design into several dies, called chiplets, instead of building one large die, and what the links between them must do. The answer begins with yield: the fraction of dies on a wafer that work. Large dies yield poorly, and the cost of a working die rises much faster than its area. Splitting a design into smaller pieces raises yield, lets each piece use the process best suited to it, and allows designs larger than the reticle limit, but it adds die-to-die interfaces that cost area, power, and latency.
+H2: 8.1 Defects and yield
+P: A wafer carries randomly scattered defects, each capable of killing the die it lands on. If defects occur at an average density D0 per unit area and are independent, the probability that a die of area A has none is given by the Poisson model. Real fabs use refined models that account for clustering, but the Poisson form captures the essential point: yield falls exponentially with area. A mature process may reach D0 of 0.1 per cm² or better; a new one may be several times worse.
+EQ: Y = exp(−D0 A)
+P: The number of whole dies on a round wafer is also smaller for large dies, because more area is wasted at the edge. A standard estimate for a wafer of diameter d is the gross die count below, where the second term accounts for partial dies at the edge.
+EQ: DPW ≈ π (d/2)² / A − π d / √(2A)
+H2: Worked Example 8.1
+WEP: A 300 mm wafer has D0 = 0.1 per cm². Compare a monolithic 800 mm² die with four 200 mm² chiplets that together implement the same design. Find the dies per wafer, the yield, and the number of complete good products per wafer in each case.
+WES: For 800 mm², DPW = π × 150²/800 − π × 300/√1600 = 88.4 − 23.6 = 64.8, so about 64 dies. The yield is exp(−0.1 × 8) = 44.9%, giving 29 good dies, and so 29 products. For 200 mm², DPW = 353.4 − 47.1 = 306, the yield is exp(−0.1 × 2) = 81.9%, and 251 good chiplets make 62 sets of four, more than twice as many products from the same wafer. At D0 = 0.2 per cm², early in a process's life, the monolithic yield falls to 20.2% while the chiplet yield is still 67.0%, and the advantage grows to more than three times.
+H2: 8.2 Known-good die and assembly yield
+P: Chiplets bring their own losses. Each die must be tested before assembly, because one bad chiplet scraps the whole package with all its good companions; that requires probe testing thorough enough to deliver known-good die. Each bonding step also has a yield. If each of four chiplet attachments succeeds with probability 0.99, the assembly yield is 0.99⁴ = 96.1%, and every expensive HBM stack on the package adds a further factor. The economic case for chiplets is therefore strongest for large dies on new processes, and weakest for small dies on mature ones, where a single die yields well and the package cost dominates.
+KEY: Key idea. Yield falls exponentially with die area, so splitting a large design into chiplets can more than double the good products per wafer. The price is testing for known-good die, assembly yield, and the power and area of the links between dies.
+H2: 8.3 Heterogeneous integration
+P: Splitting also lets each part of a system use the right process. Logic benefits from the newest node; input-output circuits, analog functions, and SRAM caches shrink little at advanced nodes and can stay on an older, cheaper one; DRAM, as in HBM, needs its own process entirely. A 2026 accelerator or server processor typically combines compute chiplets on the leading node with an input-output die on an older node, and memory stacks from a different manufacturer, all in one package. Mixing processes is called heterogeneous integration, and it has changed the economics of the semiconductor industry as much as any single transistor improvement.
+H2: 8.4 Die-to-die links
+P: The interface between chiplets is a short-reach link across a few millimeters of interposer, bridge, or organic substrate. It must be dense, measured as bandwidth per millimeter of die edge, called shoreline; energy-efficient, measured in picojoules per bit; and low in latency. Because the distance is short, it can use simple, unterminated or lightly terminated drivers at a moderate rate on many parallel wires, rather than the serializers and equalizers of a board-level link. Industry standards such as UCIe define the electrical interface, the bump arrangement, and the protocol layers so that chiplets from different vendors can interoperate.
+EQ: shoreline bandwidth = (lanes per mm) × (rate per lane)
+H2: Worked Example 8.2
+WEP: A die-to-die interface places signal bumps at a 45 µm pitch in a band ten bumps deep along the die edge, and runs each at 16 Gbit/s. Find the lanes per millimeter of edge, the shoreline bandwidth, and the power to move 1 TB/s at a declared 0.5 pJ/bit.
+WES: Along one millimeter of edge there are 1000/45 = 22.2 bump columns, and ten rows give 222 lanes per millimeter, ignoring the bumps needed for power, ground, and clocks. At 16 Gbit/s each, that is 3.56 Tbit/s, or 444 GB/s, per millimeter of edge. Moving 1 TB/s, 8 Tbit/s, at 0.5 pJ/bit takes 4 W, compared with 120 W at the 15 pJ/bit of a board-level link, which is why chiplets only make sense in packages that can provide such dense, short connections.
+H2: Practice
+PR: Find the Poisson yield of a 400 mm² die at D0 = 0.1 per cm².
+PR: Find the gross dies per 300 mm wafer for a 100 mm² die.
+PR: For the die of the previous problem at D0 = 0.1 per cm², how many good dies are there per wafer?
+PR: A package holds six chiplets, each attached with 99.5% yield. Find the assembly yield.
+PR: A link has 300 lanes per millimeter at 8 Gbit/s. Find its shoreline bandwidth in GB/s per millimeter.
+PR: Why is the chiplet approach less attractive for a small die on a mature process?
+ANS: exp(−0.4) = 67.0%.
+ANS: 706.9 − 66.6 = 640 dies.
+ANS: 640 × 0.905 = 579.
+ANS: 0.995⁶ = 97.0%.
+ANS: 300 × 8 Gbit/s = 2.4 Tbit/s = 300 GB/s per millimeter.
+ANS: A small die on a mature process already yields well, so splitting it gains little yield, while the extra testing, assembly steps, interface area, and package cost remain.

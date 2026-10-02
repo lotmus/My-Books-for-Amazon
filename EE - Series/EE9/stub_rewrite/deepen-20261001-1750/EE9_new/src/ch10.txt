@@ -1,0 +1,33 @@
+H1: Chapter 10. Package Reliability: Expansion, Fatigue, and Electromigration
+P: A package that works on the day it is built must keep working through years of heating and cooling, current, humidity, and vibration. The commonest failures are mechanical: materials that expand by different amounts with temperature strain the joints between them, and the joints crack after enough cycles. The second family is electrical: high current density slowly moves metal atoms and opens wires and bumps. This chapter estimates both with the standard engineering models, and explains the design features, underfill, matched materials, and current limits, that keep the lifetimes long.
+H2: 10.1 Thermal expansion mismatch
+P: Silicon expands by about 2.6 parts per million per kelvin. A glass-epoxy board expands by roughly 14 to 17 ppm/K in its plane, copper by about 17, and organic package substrates by 10 to 17. When a silicon die is soldered directly to a board and the assembly heats by ΔT, the board tries to grow more than the die, and the solder joints between them are sheared. The shear strain is largest at the joints farthest from the neutral point, the center of the die, and is inversely proportional to the joint height.
+EQ: Δγ ≈ Δα × ΔT × DNP / h
+H2: 10.2 Solder fatigue
+P: Each temperature cycle bends the joint back and forth, and solder, like any metal, fails after enough cycles of plastic strain. The Coffin–Manson relation, in the form Werner Engelmaier adapted for solder joints, estimates the number of cycles to failure from the cyclic shear strain. Its exponent depends on temperature and cycle time; a commonly used base value is c = −0.442, with a fatigue ductility coefficient εf = 0.325. Because the exponent is about −1/2.3, halving the strain multiplies the life by about five.
+EQ: Nf ≈ ½ (Δγ / (2εf))^(1/c),   c ≈ −0.442,   εf ≈ 0.325
+H2: Worked Example 10.1
+WEP: A silicon die is flip-chip soldered directly to an FR-4 board with Δα = 14 ppm/K. Its farthest bump is 10 mm from the center and the joints are 0.1 mm high. Estimate the strain and cycles to failure for a 100 K swing. Repeat with the strain halved, and with an underfill that reduces the effective strain tenfold.
+WES: Δγ = 14 × 10⁻⁶ × 100 × 10/0.1 = 0.14. Then Nf = ½ × (0.14/0.65)^(−1/0.442) = 16 cycles: such an assembly would fail almost at once. Halving the strain gives 77 cycles. An underfill, an epoxy flowed between die and substrate and cured, bonds them so that the assembly bends together rather than shearing the bumps; reducing the effective strain to 0.014 gives about 2950 cycles, and in practice underfilled flip-chip assemblies on matched substrates survive many thousands. That is why every flip-chip die is underfilled and why large dies are mounted on substrates whose expansion lies between silicon's and the board's.
+KEY: Key idea. Mismatched expansion turns every temperature cycle into a mechanical load on the joints. Strain grows with distance from the center and falls with joint height, and fatigue life rises steeply as the strain falls, so small reductions in mismatch buy large gains in life.
+H2: 10.3 Warpage
+P: The same mismatch bends the package. A large organic substrate carrying a stiff silicon interposer curls as it cools from its bonding temperature, and a package that is not flat at the solder-reflow temperature leaves some of its balls open or bridged. Warpage limits the size of advanced packages, and it is one reason glass and stiffened substrates are being adopted. Package and board designers specify the allowed warpage across the reflow temperature range, and the solder-ball height must accommodate it.
+H2: 10.4 Electromigration
+P: At high current density, the momentum of electrons pushes metal atoms along a conductor, thinning it at one end and piling atoms up at the other. Eventually a void opens the wire or bump. Black's equation describes the median time to failure in terms of the current density J, an exponent n near 2, and an activation energy Ea of about 0.5 to 0.9 eV, depending on the metal and the failure site. The temperature term makes electromigration a thermal problem as much as an electrical one.
+EQ: MTTF = A J^(−n) exp(Ea / (kB T))
+H2: Worked Example 10.2
+WEP: With n = 2 and Ea = 0.7 eV, how much does the median life shorten when a bump's current density doubles, and when its temperature rises from 105 °C to 125 °C?
+WES: Doubling J shortens the life by 2² = 4. The temperature change shortens it by exp[(0.7/8.617 × 10⁻⁵)(1/378.15 − 1/398.15)] = 2.94. Together the two would cut the life by nearly twelve. The bump-current limit of Chapter 3 is therefore always quoted at a temperature, and a hot spot on a die can make its local bumps the life-limiting part of the whole package.
+H2: Practice
+PR: A die with Δα = 14 ppm/K has a joint 5 mm from the neutral point and 0.1 mm high. Find the shear strain for a 100 K swing.
+PR: A ball grid array package with Δα = 10 ppm/K has its corner ball 15 mm from the center and 0.3 mm high. Find the strain for an 80 K swing and the Engelmaier life estimate.
+PR: By what factor does fatigue life change when strain is halved, with c = −0.442?
+PR: Find the electromigration acceleration from 85 °C to 105 °C with Ea = 0.7 eV.
+PR: By what factor does life change when current density rises by 50%, with n = 2?
+PR: Why does underfill extend the life of flip-chip joints?
+ANS: 0.07.
+ANS: Δγ = 10 × 10⁻⁶ × 80 × 15/0.3 = 0.040; Nf ≈ ½ × (0.040/0.65)^(−1/0.442) ≈ 274 cycles.
+ANS: 2^(1/0.442) = 4.8 times longer.
+ANS: exp[(0.7/8.617 × 10⁻⁵)(1/358.15 − 1/378.15)] = 3.3.
+ANS: It falls by 1.5² = 2.25.
+ANS: The underfill bonds the die to the substrate so that the two bend together under temperature change instead of shearing the bumps, reducing the cyclic strain on each joint.

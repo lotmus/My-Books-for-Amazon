@@ -1,0 +1,30 @@
+H1: Chapter 12. The Stack-Up
+P: Before a single trace is routed, a multilayer board's designer decides its stack-up: how many copper layers, what each is for, how thick the dielectric is between them, and which materials are used. The stack-up fixes the impedance of every trace, the coupling between layers, the quality of every return path, and much of the board's cost. This chapter shows how to assign layers, computes the trace widths that give controlled impedance, and estimates how fabrication tolerances move the result. Transmission-line theory itself is Book 4's; this chapter applies it to the board.
+H2: 12.1 Assigning layers
+P: A good stack-up follows a few principles. Every signal layer is adjacent to a continuous reference plane, ground or a quiet power plane, so that its return current has a defined path, as Chapter 5 requires. Fast signals are routed as striplines between two planes where possible, which shields them and removes far-end crosstalk, as Chapter 13 shows. Power and ground planes are placed close together in pairs, which adds plane capacitance and lowers the power-delivery inductance of Chapter 11. And the stack is symmetric about its center, in materials and copper weight, so that it does not warp during lamination and reflow. A typical high-speed board alternates signal and ground layers, with the outer layers used for components, short connections, and RF microstrips.
+H2: 12.2 Building the stack
+P: A board is laminated from cores, rigid dielectric sheets with copper on both sides, and prepreg, partly cured resin-glass sheets that flow and bond the cores together under heat and pressure. The prepreg's final thickness depends on how much resin flows into the gaps between copper features, which is why fabricators quote it after lamination and why their stack-up proposals, not the designer's first guess, set the final dimensions. A twelve-layer board built from six 0.2 mm cores and five 0.15 mm prepregs, with copper averaging 25 µm per layer, is 6 × 0.2 + 5 × 0.15 + 12 × 0.025 = 2.25 mm thick before solder mask and plating.
+H2: 12.3 Controlled impedance
+P: The impedance of a stripline centered between two planes a distance b apart, with trace width w and thickness t in a dielectric of relative permittivity εr, is commonly estimated with the IPC-2141 formula below, valid for narrow traces with w/b below about 0.35. Field-solver tools give more accurate results and are what fabricators use, but the formula shows how each dimension enters. Impedance falls as the trace widens or thickens, rises as the planes move apart, and falls as εr rises.
+EQ: Z0 ≈ (60/√εr) ln[4b / (0.67π (0.8w + t))]
+H2: Worked Example 12.1
+WEP: A stripline has b = 0.30 mm between planes, εr = 3.6, and half-ounce copper, t = 18 µm. Find the impedance for w = 0.12 mm. Find it for a width error of ±10%, for a 10% thicker dielectric, for one-ounce copper, and for εr = 4.2.
+WES: For w = 0.12 mm, Z0 = (60/1.897) × ln[1.2/(2.105 × 0.114)] = 50.9 Ω. A width of 0.132 mm gives 48.3 Ω and 0.108 mm gives 53.7 Ω. A plane spacing of 0.33 mm gives 53.9 Ω. One-ounce copper, 35 µm, gives 46.5 Ω, and εr = 4.2 gives 47.1 Ω. A typical fabrication tolerance of ±10% on impedance is therefore consumed by modest, ordinary variations in width, thickness, and material, which is why critical boards are built with test coupons and measured by time-domain reflectometry.
+KEY: Key idea. The stack-up is designed before the layout, and it sets every impedance on the board. Put every signal next to a continuous plane, keep the stack symmetric, and let the fabricator's field solver and test coupons set the final widths.
+H2: 12.4 Delay and length matching
+P: A stripline's propagation delay depends only on εr: t = √εr/c per unit length, 160.8 ps per inch for εr = 3.6. Parallel buses and differential pairs must be matched in electrical length so that their bits or halves arrive together. A length mismatch of 1 mm in such a stripline is 6.3 ps, small for a 1 Gbit/s bus but a third of a unit interval at 56 Gbaud. Serpentine tuning adds length to the shorter trace, though tightly coupled serpentine sections couple to themselves and must be spaced apart.
+H2: 12.5 Differential pairs
+P: High-speed serial links use differential pairs with a controlled differential impedance, typically 85, 90, or 100 Ω, set by each trace's impedance and the coupling between the two. Tighter coupling lowers the differential impedance for a given width and keeps the pair's fields close together, which reduces both radiation and crosstalk from neighbors; looser coupling makes the impedance less sensitive to the spacing tolerance. The pair is routed together, with symmetric vias and equal lengths, because any asymmetry converts some of the differential signal into common mode.
+H2: Practice
+PR: Find the stripline impedance with b = 0.25 mm, w = 0.10 mm, t = 18 µm, and εr = 3.6.
+PR: Find the thickness of a ten-layer board of five 0.2 mm cores and four 0.12 mm prepregs, with copper averaging 25 µm.
+PR: Find the stripline delay per inch for εr = 4.0.
+PR: How many picoseconds of skew does 2 mm of length mismatch cause in a stripline with εr = 3.6?
+PR: Does the stripline impedance rise or fall when the trace is made wider?
+PR: Why should a stack-up be symmetric about its center?
+ANS: 49.9 Ω.
+ANS: 5 × 0.2 + 4 × 0.12 + 10 × 0.025 = 1.73 mm.
+ANS: √4.0 × 0.0254/2.998 × 10⁸ = 169.5 ps.
+ANS: 12.7 ps.
+ANS: It falls.
+ANS: An asymmetric stack has unequal expansion and resin shrinkage on its two sides, so it warps during lamination and reflow.

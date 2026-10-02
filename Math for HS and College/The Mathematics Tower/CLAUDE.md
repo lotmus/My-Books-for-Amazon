@@ -256,8 +256,10 @@ Notation, Floors 20–21 (all rooms, including 20.7's matrices):
   20.4); m x n, 2x3 → ×; <=> → ⇔; ... → ⋯ or …; ∫_{−π}^{π} → ∫[−π, π]
   (as in 47.2); A_x, A_y in Cramer's rule → A₁, A₂ (matching xᵢ = det(Aᵢ)/det(A));
   A^p A^q = A^(p+q) → AᵐAⁿ = Aᵐ⁺ⁿ (no superscript q exists, and p is p(A) there).
-- 306 paragraphs changed. No [[, ^, _{ or "plus or minus" remains in Floors 20–21.
-  Other floors (17.3, Floor 22, 25.9) still have some [[ ]] matrices.
+- 306 paragraphs changed in the Floor 20–21 rooms. CORRECTION (pass 4): the
+  pass-3 claim that nothing was left was wrong. Only the rooms were converted;
+  the Floor 20–21 Check Your Understanding, Problems, Answer Key, Solutions and
+  glossary entries were missed. Pass 4 converted them (see section 9).
 - If Lothar wants real Word equations instead, that is a separate decision.
 
 Word counts (body text): V1 168,063 → 168,622; V2 179,462 → 180,834;
@@ -268,3 +270,107 @@ Only `word/document.xml` changed; pictures, hyperlinks and bookmarks unchanged.
 Next-coldest rooms by the same measure: 18.4, 30.8, 42.7, 7.7, 13.5, 16.4,
 24.2, 30.4, 36.8, 48.2, 50.6, 2.8. (27.3 now scores 8 only because its new
 opening reaches a display row after one sentence.)
+
+## 9. Session of 1 Oct 2026, night: fourth pass, all four volumes
+
+Backups: `My Books for Amazon - session backups\2026-10-01 Tower pass 4\`.
+Scripts on the box: /workspace/books/tower/p4_v1.py … p4_v4.py, run by edit_p4.py.
+
+Openings written (same contract as section 7: a concrete case with real numbers
+first, then the name):
+- 2.8 milepost road, |x − 3| = 5. 7.7 table of 2ˣ, halving never reaches 0,
+  swap the rows to get log₂, x¹⁰ against 2ˣ.
+- 13.5 hill z = x² + y² at (3, 4): slopes 6 and 8, five trial directions,
+  steepest 10 along ⟨6, 8⟩. 16.4 how a calculator gets e^0.1: 1.1, 1.105,
+  1.1051667, 1.1051708. 18.4 y′ + 2y = e⁻ᵗ solved by guessing, then by the
+  transform in four rows. 24.2 restaurant (3 × 2 = 6, 3 + 2 = 5, 3 × 4 × 2 = 24)
+  and five books (60 ÷ 6 = 10).
+- 30.4 well and road x + y = 1. 30.8 sealed box with readings of (x − 3)².
+  36.8 ⟨3, 4⟩ measured as 5, 7 or 4; f = x in L¹, L², L∞.
+- 42.7 five readings, four trial lines, sums of squared misses 0.2675, 0.14,
+  0.11, 0.107. 48.2 saddle x² − y², gradient descent escaping from (0, 10⁻⁶)
+  in about 34 steps. 50.6 epidemic generations 1, 3, 9, 27, then 1, 1, 1, 1
+  with two-thirds immune.
+
+Accuracy fixes:
+- 13.5 example titled "three directions" computed two; added the third,
+  ⟨−4/5, 3/5⟩, rate 0, along the level curve.
+- 16.4 "a infinite series" → "an"; doubled label "Abstract example — Structural
+  example —" → "Abstract example —"; "by roughly a factor of ten" → "by a factor
+  of more than ten" (the actual ratios are about 30 to 50).
+- 24.2 "the overcounting correction from the previous paragraph" (no such
+  paragraph) → "an overcounting correction"; "an n-element subset of size k" →
+  "a k-element subset of an n-element set"; stars and bars "choosing which
+  k+n−1 positions hold stars" → "which k of the k+n−1 positions"; "the earlier
+  list for {a,b,c}" (no earlier list) → "the subsets of {a,b,c}".
+- 30.4 "respond by bribery" → "respond with fines".
+- 30.8 SGD "still guaranteed to converge" now says "provided its step sizes
+  shrink suitably over time"; the "convergence in expectation" sentence replaced
+  by the true picture (fixed step 1 keeps bouncing among 1, 3, 5 around the
+  average 3; shrinking steps give real convergence).
+- 36.8 "an wholly continuous part" → "an absolutely continuous part".
+- 42.7 logistic outputs lie in the open interval (0, 1), not on [0, 1].
+- 50.6 the 50.3 result came from "dimensional analysis plus a borrowed
+  constant", not "dimensional analysis alone".
+
+Notation (V2 only, typographic form as in section 8, no Word equations):
+- Floors 20–21 end matter converted in full: CYU, Problems, Answer Key,
+  Solutions and glossary entries (40 paragraphs; lambda → λ, 2x3 → 2×3,
+  1*(−24) → 1·(−24), d_1 → d₁, A^−1 → A⁻¹, A^T → Aᵀ, a_{ij} → aᵢⱼ, dashes).
+- Matrices only: 17.3, 22.6, 22.7 and the Floor 22 Answer Key and Solutions
+  (12 paragraphs). V2 now contains no [[ at all. (The "25.9" leftovers named in
+  section 8 were these end-matter items after Room 25.9, not Room 25.9 itself.)
+- Still [[ ]] elsewhere: V1 4 (4.7, 8.5, 9.9); V3 80 (26.1 15, 34.1 22, 29.5 7,
+  Answer Key 7, others); V4 46 (49.4 11, 48.5 5, 48.2 3, 46.3 4, others).
+  V2 Floors 23–25 end matter may still carry ASCII maths such as t >= 0, u_1(t).
+
+Word counts (body text): V1 168,622 → 169,209; V2 180,834 → 182,110;
+V3 191,501 → 192,459; V4 175,740 → 176,544.
+Only `word/document.xml` changed; pictures, hyperlinks and bookmarks unchanged.
+
+## 10. Session of 1 Oct 2026, night: notation sweep, all four volumes
+
+Lothar's decision: keep the typed form (no Word equations) and use it across
+the whole Tower, every section (rooms, CYU, Problems, Answer Key, Solutions,
+glossary, TOC). Backups: `My Books for Amazon - session backups\2026-10-01 Tower
+notation sweep\`. Code on the box: /workspace/books/tower/sweep.py (rules) and
+sweep_apply.py (applies them across runs and keeps formatting).
+Paragraphs changed: V1 305, V2 597, V3 482, V4 407.
+
+House notation (use it in all new text):
+- Matrices [1 2; 3 4]; augmented [1 1 | 6; …]; det [a b; c d].
+- Powers and indices as Unicode super/subscripts when every character has one:
+  x², e⁻ˢᵗ, eᴬᵗ, aᵐ⁺ⁿ, f⁽ⁿ⁾, Γᵏᵢⱼ, xᵢ₋₁, log₃, pₘ(A).
+- If it can't be scripted: e^(…) becomes exp(…) in V2–V4. V1 keeps e^(…),
+  because exp is only introduced in 7.6. Other powers stay as base^(…), with
+  parentheses, not braces.
+- Limits that can't be scripted go in square brackets: ∫[0, π], ∫[−∞, ∞],
+  ∫[S²], ∬[D], ∮[C], Σ[n ≥ 0] (an upper limit of ∞), lim[x→0], max[k≤9],
+  Res[z=0]. When both limits script, keep ∫₀¹, ∫ₐᵇ, Σₖ₌₁ⁿ.
+- ≥, ≤, ≠, ⇔; ℓ∞, L∞, ‖f‖∞; convolution and free product f ∗ g (U+2217),
+  Fourier hat (f ∗ g)ˆ(ξ). The plain * stays for duals, adjoints, optima and
+  C*, weak*, {*}.
+- Inside one paragraph, if one subscript on a letter can't be scripted (f_y),
+  its partners stay plain too (f_x), so a formula never mixes fₓ with f_y.
+- Markdown leaks *out*, *into*, *out of* in the V4 Answer Key became real italics.
+
+True remaining after the sweep (body, tables and TOC, all four volumes):
+- [[ 0, _{ 0, >= 0, <= 0.
+- lambda 1: prose, "(the Greek letter lambda)" in 20.7.
+- * 360, all genuine notation: V*, T*, x*, C*-algebra, weak*, {*}, f*ω.
+- ^ 335: fractional or decimal exponents 187, e.g. a^(1/n), (x² + y²)^(3/2),
+  e^(−t/8) in V1; evaluation bars [F]₀^π 38; exponents with no superscript glyph
+  47 (π, ∞, ω, ×, as in 3^(2×3), 2^ℵ₀); V1 e^(…) 15; p₁^a₁-type 13; other 35
+  (10,000^q, b^(log_b x)).
+- _ 915: partial derivatives f_y, u_yy (and f_x kept to match) 329; capital
+  subscripts (η_V, χ_A, X_H) 213; other lowercase with no glyph (y_screen, κ_g)
+  146; compound _(…) (D_(xy), X_(k+n/2)) 99; Greek, ∞ or ∂ subscripts 90;
+  log_b, log_c 38.
+Unicode has no glyphs for these, so they stay unless Lothar switches to Word
+equations or a font-safe alternative ("log base b", ∂f/∂y).
+
+Word counts (body text): V1 169,209 → 169,228; V2 182,110 → 182,245;
+V3 192,459 → 192,678; V4 176,544 → 176,600 (tokens split by spacing).
+Only `word/document.xml` changed; pictures, hyperlinks and bookmarks unchanged.
+Kindle check still to do: rarer modifier letters (ᶿ, ᶻ, ᴬ, ᵝ) should be
+previewed in Kindle Previewer before publishing.

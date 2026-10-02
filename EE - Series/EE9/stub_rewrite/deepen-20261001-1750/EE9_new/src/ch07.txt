@@ -1,0 +1,35 @@
+H1: Chapter 7. MEMS in 2026
+P: Microelectromechanical systems are mechanical structures, springs, masses, membranes, and resonators, made with the tools of integrated circuits. They sense motion in every phone and car, select radio channels in every handset's front end, pick up voice in every earbud, and increasingly replace quartz as the timing reference in small devices. This chapter is the series' one survey of MEMS. It develops the spring-mass model that underlies most of them, computes their sensitivity and noise limits, and surveys the 2026 state of the field. The piezoelectric films they use are Book 3's materials; the radios that buy their filters are Book 5's.
+H2: 7.1 The spring and the mass
+P: A MEMS accelerometer is a proof mass on silicon springs. Under an acceleration a below its resonant frequency f0, the mass moves by x = a/ω0², with ω0 = 2πf0 = √(k/m). The sensor measures that displacement, usually as a change in capacitance between the mass and fixed electrodes. A higher resonant frequency gives a wider bandwidth and better shock resistance but a smaller displacement per g, which is the basic trade of accelerometer design.
+EQ: x = a / ω0²,    ω0 = √(k/m),    C = ε0 A / g,    ΔC/C ≈ x/g
+H2: Worked Example 7.1
+WEP: An accelerometer has f0 = 5 kHz and a sensing gap of 2 µm with 0.1 mm² of electrode area. Find the displacement at 1 g, the rest capacitance, and the capacitance change.
+WES: ω0 = 2π × 5000 = 31,416 rad/s, so x = 9.81/31,416² = 9.9 nm, about one two-hundredth of the gap. The capacitance is 8.854 × 10⁻¹² × 10⁻⁷/(2 × 10⁻⁶) = 443 fF, and the change is about 443 × 9.9 × 10⁻⁹/(2 × 10⁻⁶) = 2.2 fF. The readout circuit must resolve a fraction of a femtofarad, which is why the sensor and its interface chip are designed together and often packaged together.
+H2: 7.2 Thermal noise
+P: A damped mechanical system at temperature T is constantly shaken by the molecules around it, the mechanical counterpart of a resistor's thermal noise. The equivalent acceleration noise density is set by the mass, the resonant frequency, and the quality factor Q. Small masses are noisy; high Q, achieved by sealing the structure in vacuum, reduces the noise but leaves the resonance lightly damped, which the electronics must then control.
+EQ: an = √(4 kB T ω0 / (m Q))   (m/s² per √Hz)
+H2: Worked Example 7.2
+WEP: Find the thermal noise of a 1 µg proof mass with f0 = 5 kHz at 300 K, for Q = 1 and Q = 100.
+WES: For Q = 1, an = √(4 × 1.381 × 10⁻²³ × 300 × 31,416/10⁻⁹) = 7.2 × 10⁻⁴ m/s²/√Hz, or 74 µg/√Hz. For Q = 100 the noise is ten times lower, 7.4 µg/√Hz. Consumer accelerometers in 2026 reach roughly 50 to 200 µg/√Hz overall; navigation-grade MEMS sensors use heavier masses, vacuum packaging, and closed-loop operation to go much lower.
+KEY: Key idea. A MEMS sensor is a spring and a mass. Its sensitivity is a/ω0², its noise falls with mass and Q, and its readout must resolve femtofarads, so the mechanical and electrical designs cannot be separated.
+H2: 7.3 Resonators and timing
+P: A MEMS resonator is a vibrating silicon structure whose high Q gives a sharp frequency reference. Q sets the resonance's bandwidth, f0/Q: a resonator at 70 MHz with Q = 10⁵ has a bandwidth of only 700 Hz. MEMS timing parts replace quartz crystals where size, shock resistance, and stability over temperature matter more than the very lowest phase noise. In 2025 SiTime introduced its Titan family of MEMS resonators in a 0.46 × 0.46 mm chip-scale package, an outline of 0.212 mm², against 1.2 mm² for the smallest 1.2 × 1.0 mm "1210" quartz package, a ratio of 5.7 in outline; the company quotes about seven times less board area, including the land pattern. The resonators are also offered as bare dies for co-packaging with a microcontroller or radio chip.
+H2: Worked Example 7.3
+WEP: Find the bandwidth of a 32 MHz resonator with Q = 50,000. Compare the Titan package outline with a 1.6 × 1.2 mm quartz package.
+WES: 32 × 10⁶/5 × 10⁴ = 640 Hz. The 1.6 × 1.2 mm package is 1.92 mm², 9.1 times the Titan's 0.212 mm².
+H2: 7.4 Filters, microphones, and the 2026 picture
+P: The radio-frequency filters in a phone's front end are acoustic devices: surface-acoustic-wave filters below about 2 GHz and bulk-acoustic-wave filters, thin piezoelectric films resonating through their thickness, at higher frequencies up to the 5 to 7 GHz of Wi-Fi and 5G. A phone may contain dozens. Aluminum nitride has been the standard piezoelectric film; aluminum scandium nitride, AlScN, which has a much stronger piezoelectric response, moved into production on 200 mm silicon wafers, widening filter bandwidths and enabling piezoelectric MEMS microphones and ultrasonic transducers. MEMS microphones, capacitive and piezoelectric, are in nearly every phone, earbud, and laptop. Consumer motion sensors increasingly include small on-chip processors that run classification models, detecting gestures or activity without waking the main processor. These are snapshots of 2026; the spring-mass physics of this chapter will outlast them.
+H2: Practice
+PR: Find the displacement at 1 g of an accelerometer with f0 = 2 kHz.
+PR: Find the bandwidth of a 70 MHz resonator with Q = 20,000.
+PR: By what factor does thermal noise fall if the proof mass increases tenfold?
+PR: An accelerometer with a 2 µm gap moves 20 nm. Find ΔC/C.
+PR: Find the outline area of a 0.46 × 0.46 mm package.
+PR: Why does sealing a MEMS resonator in vacuum improve it?
+ANS: 9.81/(2π × 2000)² = 62 nm.
+ANS: 3.5 kHz.
+ANS: By √10 = 3.16.
+ANS: 20 nm/2 µm = 1%.
+ANS: 0.212 mm².
+ANS: Removing air removes most of the damping, raising Q, which narrows the resonance and lowers the thermal noise.

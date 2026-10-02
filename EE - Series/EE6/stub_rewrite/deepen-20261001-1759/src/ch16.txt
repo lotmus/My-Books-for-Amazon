@@ -1,0 +1,36 @@
+H1: Chapter 16. Designing Class E and Class F Amplifiers
+P: Chapter 3 introduced the switching and harmonic-tuned classes as ideas. This chapter designs them. Both aim at the same thing, a drain voltage and current that never overlap, so that the device dissipates almost nothing, but they reach it differently. Class E shapes the voltage with a shunt capacitor and a tuned load so that the switch closes at zero voltage and zero slope. Class F shapes it with harmonic terminations so that the voltage is nearly square and the current nearly a half sine. The design equations below are the standard ones from Sokal's and Raab's work.
+H2: 16.1 The class E conditions
+P: In class E the transistor acts as a switch, on for half of each cycle. A capacitor across the switch, which may be partly or wholly the device's own output capacitance, charges while the switch is off, and a series resonant load with some excess inductance shapes the voltage so that it returns to zero, with zero slope, just as the switch closes. No energy stored in the capacitor is dumped into the switch, which is the loss that ruins a hard-switched amplifier at high frequency. For a 50% duty cycle and an ideal switch, the design equations fix the load resistance, the shunt capacitance, and the excess reactance in terms of the supply and the output power.
+EQ: R = 0.5768 VDD²/P,   C = 0.1836/(ωR),   Xexcess = 1.1525 R,   vpk = 3.562 VDD,   ipk = 2.862 IDC
+H2: Worked Example 16.1
+WEP: Design a class E stage for 100 W at 900 MHz from a 28 V supply. Find the load resistance, the shunt capacitance, the excess reactance, the peak switch voltage, and the peak current.
+WES: R = 0.5768 × 28² / 100 = 4.52 Ω. C = 0.1836 / (2π × 9 × 10⁸ × 4.52) = 7.18 pF. The excess reactance is 1.1525 × 4.52 = 5.21 Ω, an inductance of 0.92 nH at 900 MHz. The DC current is 100 / 28 = 3.57 A, so the peak current is 2.862 × 3.57 = 10.2 A, and the peak voltage is 3.562 × 28 = 99.7 V. The device must withstand about 100 V, which is why class E at this power suits GaN with its high breakdown voltage.
+KEY: Key idea. Class E avoids switching loss by arranging for the switch voltage to fall to zero, with zero slope, at the instant the switch closes. The price is a peak voltage about 3.6 times the supply.
+H2: 16.2 The frequency limit
+P: The shunt capacitance in Example 16.1 must be at least the device's own output capacitance, because that capacitance is always there. The maximum frequency at which class E works at full power is therefore the one where the required C equals Cout. Above it, the design must reduce power, use a smaller device, or move to a different class. The power output capability, P/(vpk ipk), is 0.098 for class E against 0.125 for class B, so for the same device stresses class E delivers a little less power.
+EQ: fmax = 0.1836/(2π R Cout),   cp = P/(vpk ipk) = 0.0981
+H2: Worked Example 16.2
+WEP: The device in Example 16.1 has an output capacitance of 10 pF. What is the highest frequency for the design?
+WES: fmax = 0.1836 / (2π × 4.52 × 10⁻¹¹) = 646 MHz. At 900 MHz the 10 pF device has more capacitance than the design allows, so the designer must accept less than 100 W, use a smaller device with less capacitance, or move to a class E variant or a different class.
+H2: 16.3 Class F and its inverse
+P: Class F leaves the device acting as a current source, as in class B, but presents short circuits at the even harmonics and open circuits at the odd ones. The current then contains the fundamental and even harmonics, approaching a half sine; the voltage contains the fundamental and odd harmonics, approaching a square wave. Neither waveform needs to be perfect: each added harmonic raises the efficiency. Inverse class F swaps the roles, a square current and a half-sine voltage, and suits devices whose voltage swing is limited by the knee. In practice, controlling the second and third harmonics captures most of the benefit.
+EQ: η = ½ (V1/VDD)(I1/IDC)
+H2: Worked Example 16.3
+WEP: Find the maximum drain efficiency of an ideal class F amplifier whose voltage contains the fundamental and the third harmonic and whose current contains the fundamental and the second harmonic. Compare with half-sine current.
+WES: With a third harmonic, the largest fundamental voltage that keeps the waveform non-negative is V1/VDD = 2/√3 = 1.155. With a second harmonic, the largest fundamental current is I1/IDC = √2 = 1.414. The efficiency is ½ × 1.155 × 1.414 = 81.6%. With the full half-sine current, I1/IDC = π/2, it rises to ½ × 1.155 × 1.571 = 90.7%. For comparison, class B, with no voltage harmonics, gives π/4 = 78.5%, and controlling only the second harmonic of the current with a sinusoidal voltage gives 70.7%.
+H2: 16.4 Practical harmonic terminations
+P: Real terminations are made with transmission-line stubs or lumped resonators placed at the device's internal current source, which means compensating for its output capacitance and package parasitics. At microwave frequencies only the first two or three harmonics can be controlled, and the device's capacitance shorts the higher ones anyway, which partly helps. Load-pull measurements at the fundamental and harmonics show how sensitive the efficiency is to each termination. Continuous class F and continuous class B/J modes relax the terminations so that high efficiency holds over a band, not only at one frequency.
+H2: Practice
+PR: Design a class E stage for 10 W from a 12 V supply at 13.56 MHz. Find R and C.
+PR: What peak voltage must the switch in the previous problem withstand?
+PR: Find the maximum frequency for a 4.52 Ω class E design if Cout = 5 pF.
+PR: What is the efficiency of a class F amplifier with half-sine current and voltage limited to the fundamental?
+PR: Why does class E suit GaN devices?
+PR: Why does controlling a few harmonics capture most of class F's benefit?
+ANS: R = 0.5768 × 144/10 = 8.31 Ω; C = 0.1836/(2π × 13.56 × 10⁶ × 8.31) = 259 pF.
+ANS: 3.562 × 12 = 42.7 V.
+ANS: 1292 MHz.
+ANS: 78.5%, the class B value.
+ANS: Its peak voltage is about 3.6 times the supply, and GaN's high breakdown voltage tolerates that swing at a useful supply voltage.
+ANS: Each additional harmonic adds less to the fundamental amplitude, so the first two or three do most of the waveform shaping; the device capacitance also suppresses the higher harmonics.

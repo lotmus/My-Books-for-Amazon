@@ -1,0 +1,32 @@
+H1: Chapter 15. Optical Interconnect and Co-Packaged Optics
+P: Copper wins on short links, within a package or across a board, and loses on long ones. At 200 Gbit/s per lane, a passive copper cable reaches only a meter or two before its loss exceeds the budget of Chapter 14, while an optical fiber carries the same signal kilometers with less than a decibel of loss. The AI clusters of 2026 connect tens of thousands of accelerators, and most of those connections are optical. Optics was named in Chapter 1 as one of the scarce inputs of the build-out, and its power is now a significant fraction of a cluster's. This chapter computes the energy cost of optical links, works an optical power budget, and explains why the industry is moving the optics from pluggable modules on the front panel into the package itself.
+H2: 15.1 Copper and fiber
+P: A copper channel's loss grows with frequency and length, as Chapter 14 showed. A standard single-mode fiber loses about 0.35 dB/km at 1310 nm and less at 1550 nm, almost independent of the data rate over the distances inside a data center. Multimode fiber with 850 nm vertical-cavity lasers is cheaper for reaches up to about 100 m. The trade is the conversion: each optical link needs a laser or modulator, a photodetector, and the driver, amplifier, and signal-processing circuits around them, at both ends, and those cost power, money, and reliability.
+H2: 15.2 Energy per bit
+P: The power of an optical module divided by its data rate gives its energy per bit. Representative 2026 pluggable modules draw roughly 15 W for 800 Gbit/s and 25 W for 1.6 Tbit/s, about 19 and 16 pJ/bit; these are approximate figures that vary by vendor and reach. Much of that power goes not into the optics but into the electrical link from the switch or accelerator chip to the module's front-panel cage, the retiming and equalization of Chapter 14 at each end of a long board trace. Co-packaged optics place the optical engines on the same package as the switch or accelerator, replacing the long electrical path with a millimeter-scale connection, and target about 5 pJ/bit.
+EQ: Energy per bit = Pmodule / data rate
+H2: Worked Example 15.1
+WEP: A cluster has 100,000 accelerators, each with a declared 16 optical transceivers of 1.6 Tbit/s once both ends of each link are counted. Find the optical power at 25 W per module and with co-packaged optics at 5 pJ/bit, and the annual energy saved.
+WES: There are 1.6 million transceivers. At 25 W each they draw 40 MW. At 5 pJ/bit, each 1.6 Tbit/s engine draws 1.6 × 10¹² × 5 × 10⁻¹² = 8 W, and the total is 12.8 MW, a saving of 27.2 MW, or about 238,000 MWh per year, before the cooling the saved power would have needed. By Book 8's waste arithmetic, those megawatts are a power plant.
+KEY: Key idea. Inside a data center, the cost of an optical link is mostly the electronics around it. Moving the optics closer to the chip shortens the electrical path, and the energy per bit falls by a factor of two to three.
+H2: 15.3 The optical power budget
+P: An optical link must deliver enough power to the receiver to meet its sensitivity, the minimum average power for the target error rate, with margin for aging and temperature. The budget subtracts every loss from the transmitter's launch power: fiber attenuation, each connector, and, for co-packaged optics, the coupling between the silicon photonic chip and the fiber, which is often the largest single loss. Penalties for dispersion, reflections, and the PAM4 signaling of Chapter 14 are added as further decibels.
+EQ: margin = Ptx − Σ losses − Psens
+H2: Worked Example 15.2
+WEP: A transmitter launches 0 dBm. The link has two connectors at 0.5 dB each, 2 km of single-mode fiber at 0.35 dB/km, and 3 dB of chip-to-fiber coupling loss. The receiver's sensitivity is −8 dBm. Find the received power and the margin. How long could the fiber be for a 1 dB margin?
+WES: The losses are 1.0 + 0.7 + 3.0 = 4.7 dB, so the received power is −4.7 dBm and the margin 3.3 dB. For a 1 dB margin the fiber may add 2.3 dB more, 6.6 km more, for about 8.6 km in total, though dispersion penalties, not loss, usually limit such a link first.
+H2: 15.4 Co-packaged optics in practice
+P: Co-packaging brings packaging problems of its own, the subject of this book. Lasers are the least reliable and most heat-sensitive part of the link, so many designs place them in separate, replaceable external laser modules and bring their light in by fiber. Fiber must be attached to the package with sub-micrometer alignment and survive the reflow and thermal cycling of Chapter 10. The optical engines sit next to a die dissipating hundreds of watts, though silicon photonic modulators and detectors tolerate heat better than lasers do. Testing, repair, and yield are harder when a failed optical engine is soldered to an expensive switch. In 2026, co-packaged switch products were entering deployment, and the same techniques were being prepared for accelerators.
+H2: Practice
+PR: Find the energy per bit of a 400 Gbit/s module that draws 9 W.
+PR: Find the power of a 3.2 Tbit/s optical engine at 5 pJ/bit.
+PR: A link launches −1 dBm through three 0.5 dB connectors and 0.5 km of fiber at 0.35 dB/km to a receiver with −9 dBm sensitivity. Find the margin.
+PR: How much fiber loss is there in 10 km at 0.35 dB/km?
+PR: A switch has 64 ports of 1.6 Tbit/s. Find its optics power at 25 W per module and at 5 pJ/bit.
+PR: Why are lasers often kept outside the package in co-packaged designs?
+ANS: 9/400 × 10⁹ = 22.5 pJ/bit.
+ANS: 16 W.
+ANS: Received power −1 − 1.5 − 0.175 = −2.7 dBm; margin 6.3 dB.
+ANS: 3.5 dB.
+ANS: 1600 W and 512 W.
+ANS: Lasers are the least reliable and most temperature-sensitive part of the link; external laser modules can be cooled separately and replaced without reworking the package.

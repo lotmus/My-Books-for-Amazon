@@ -1,0 +1,37 @@
+H1: Chapter 17. Envelope Tracking, Polar, and Outphasing
+P: Chapter 4 showed that an amplifier with a fixed supply wastes most of its power when the signal's average sits well below its peak, and that the Doherty amplifier recovers some of that efficiency. This chapter takes up the other families of efficiency enhancement. Envelope tracking and polar transmitters change the supply voltage with the signal's envelope. Outphasing transmitters keep each amplifier saturated and create amplitude by combining two constant-envelope signals at varying phase. Each trades efficiency against bandwidth, linearity, and complexity.
+H2: 17.1 Why back-off is expensive
+P: An OFDM signal of Book 5 has a peak-to-average power ratio, PAPR, of 8 to 10 dB even after crest-factor reduction. An amplifier must handle the peak, so on average it runs 8 to 10 dB below its saturated power. A class B stage's efficiency falls with the square root of the output power, so at 8 dB back-off its ideal efficiency is 78.5% × 10^(−8/20) = 31%. Most of the supply power is heat.
+H2: 17.2 Envelope tracking
+P: An envelope-tracking transmitter drives the amplifier's supply from a fast modulator that follows the signal envelope, keeping the amplifier near compression at every instant. The amplifier still receives the full RF signal, amplitude and phase, so it remains a linear amplifier, but its supply voltage, and therefore its dissipation, falls with the envelope. The overall efficiency is the product of the amplifier's efficiency near compression and the modulator's efficiency. The modulator is the hard part: it must deliver watts with high efficiency and a bandwidth several times the signal's, because the envelope is a nonlinear function of the I and Q signals and is broader than either.
+EQ: ηtotal = ηPA × ηmodulator,   Benvelope ≈ 3 to 5 × Bsignal
+H2: Worked Example 17.1
+WEP: A transmitter delivers 10 W average with an 8 dB PAPR. A fixed-supply class B stage achieves its ideal back-off efficiency; an envelope-tracking design holds the amplifier at 65% with an 85% modulator. Compare the supply power.
+WES: Fixed supply: 31.25% efficiency, so 10 / 0.3125 = 32.0 W of supply power and 22 W of heat. Envelope tracking: 0.65 × 0.85 = 55.3%, so 10 / 0.5525 = 18.1 W and 8.1 W of heat. The envelope tracker cuts the supply power by 43% and the heat by almost two-thirds.
+KEY: Key idea. Envelope tracking keeps the amplifier near compression by lowering its supply when the signal is small. Its gain depends on a supply modulator that is both efficient and several times wider in bandwidth than the signal.
+H2: 17.3 Polar transmitters and EER
+P: Kahn's envelope elimination and restoration, and the modern polar transmitter, go further. The phase is applied to a constant-envelope RF signal that drives a switching amplifier, class E or D, into saturation, and the amplitude is restored by modulating its supply. The amplifier can then be as efficient as Chapter 16's designs, but the amplitude and phase paths must be aligned in time to a small fraction of the symbol period, and the amplitude path must reach down to zero without distortion. Polar transmitters work well for narrowband signals; for 100 MHz OFDM, the envelope bandwidth of several hundred megahertz is beyond an efficient supply modulator.
+H2: Worked Example 17.2
+WEP: A 100 MHz 5G carrier is to be envelope-tracked. Estimate the bandwidth the supply modulator needs.
+WES: With the rule of thumb of three to five times the signal bandwidth, the modulator needs 300 to 500 MHz. Efficient switching supplies reach tens of megahertz, so wideband trackers combine a fast linear amplifier with a slower switcher; the linear part's lower efficiency pulls ηmodulator down. This is why handset envelope trackers are common for LTE and 5G channels up to about 100 MHz but are hard to extend to wider channels.
+H2: 17.4 Outphasing
+P: Chireix's outphasing transmitter splits the signal into two constant-envelope components whose phases are offset by ±φ. Each drives a saturated, efficient amplifier, and a combiner adds them; the sum's amplitude is proportional to cos φ, so the output power is Pmax cos²φ. A simple isolating combiner wastes the difference power in its load, so efficient outphasing uses a non-isolating Chireix combiner with compensating reactances, which lets each amplifier see a load that changes with φ. The efficiency then peaks at full power and at a chosen back-off, much as in a Doherty amplifier.
+EQ: Pout = Pmax cos² φ,   back-off (dB) = −20 log10 cos φ
+H2: Worked Example 17.3
+WEP: Find the outphasing angle for 3, 6, and 10 dB of back-off.
+WES: cos φ = 10^(−back-off/20). For 3 dB, cos φ = 0.708 and φ = 44.9°. For 6 dB, cos φ = 0.501, φ = 59.9°, essentially 60°. For 10 dB, cos φ = 0.316 and φ = 71.6°. The phase modulators must therefore cover angles up to about 70° to 80° with precision, because small phase errors near large angles produce large amplitude errors.
+H2: 17.5 Choosing an architecture
+P: In 2026 the Doherty amplifier dominates base stations, where moderate bandwidth, robust linearity with predistortion, and no extra supply circuitry suit the job. Envelope tracking dominates handset power amplifiers, where the supply modulator can be integrated and the signals are narrower. Outphasing and polar transmitters appear in research and some niche products, and digital transmitters that combine switching amplifiers with digital control of amplitude and phase are a growing area. All of them rely on the digital predistortion of Chapter 4 to meet the emission masks of Book 7.
+H2: Practice
+PR: Find the ideal class B efficiency at 10 dB back-off.
+PR: An ET system has a 70% amplifier and an 80% modulator. Find the total efficiency.
+PR: Find the outphasing angle for half power.
+PR: A 20 MHz LTE carrier is envelope-tracked. Estimate the tracker bandwidth.
+PR: Why does a polar transmitter struggle with wideband signals?
+PR: Why does a simple isolating combiner make outphasing inefficient?
+ANS: 78.5% × 10^(−0.5) = 24.8%.
+ANS: 56%.
+ANS: cos²φ = 0.5, so φ = 45°.
+ANS: About 60 to 100 MHz.
+ANS: The envelope's bandwidth is several times the signal's, and the amplitude and phase paths must be aligned precisely; efficient supply modulators cannot follow a wide envelope.
+ANS: At back-off, the two amplifiers' outputs partially cancel, and an isolating combiner dissipates the cancelled power in its isolation resistor instead of returning it.
