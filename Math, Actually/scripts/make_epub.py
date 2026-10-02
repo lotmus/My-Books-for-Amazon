@@ -533,6 +533,8 @@ VOLUMES = {
 
 
 def main():
+    print("EPUB export disabled by docx-only policy; DOCX remains the build artifact.")
+    return 0
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('volume', help="1, 2, 3, 4, or 'all'")
