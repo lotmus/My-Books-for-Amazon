@@ -1,4 +1,4 @@
-# Voice and Accessibility Guide — "Life: Science for Everyone"
+# Voice and Accessibility Guide — "Life: Evolution"
 
 _Written 2026-09-25, per Lothar's instruction to make the book gentle for a total beginner, applied from now on to every chapter._
 

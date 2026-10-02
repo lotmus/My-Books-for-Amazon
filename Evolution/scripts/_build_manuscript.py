@@ -22,7 +22,7 @@ import zipfile
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FOLDER = os.path.join(ROOT, 'chapters')
 TEMPLATE = os.path.join(FOLDER, '27 - Can a Mind Be Built - Evolution and AI - Funny.docx')
-OUT = os.path.join(ROOT, 'Life - Science for Everyone - Full Manuscript.docx')
+OUT = os.path.join(ROOT, 'Life - Evolution - Full Manuscript.docx')
 
 AUTHOR = 'Lothar J. Musiol'
 SERIES = 'Physics, Actually'
@@ -108,7 +108,7 @@ def chapter_body_xml(num, bookmark_id, bookmark_name):
     doc = z.read('word/document.xml').decode('utf-8')
     body = doc[doc.index('<w:body>') + len('<w:body>'):doc.index('<w:sectPr')]
     paras = re.findall(r'<w:p>.*?</w:p>', body, re.S)
-    # paras[0] = Title "Life: Science for Everyone" -> drop
+    # paras[0] = Title "Life: Evolution" -> drop
     # paras[1] = "Chapter N" (ChapterLabel) -> add page break + bookmark here
     # paras[2] = chapter title -> part of chapter, no break
     # paras[3:] = body
@@ -181,7 +181,7 @@ def build():
 
     xml = []
     xml.append(plain_para(SERIES, headline=True))
-    xml.append(plain_para('Life: Science for Everyone', style='Title'))
+    xml.append(plain_para('Life: Evolution', style='Title'))
     xml.append(plain_para('A Popular Science Book on Evolution', style='Subtitle'))
     xml.append(plain_para(AUTHOR, bold=True))
 
