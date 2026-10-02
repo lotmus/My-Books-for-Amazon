@@ -21,4 +21,4 @@ Science / Physics / General
 
 ## Keywords
 
-popular science omnibus, physics for everyone, evolution and genetics, time and relativity, quantum mechanics explained, history of humanity, science for curious readers
+general knowledge book for adults, physics for everyone, evolution and genetics, time and relativity, quantum mechanics explained, history of humanity, how the world works for curious minds
