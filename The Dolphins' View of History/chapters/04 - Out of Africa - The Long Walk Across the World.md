@@ -1,4 +1,4 @@
-## Chapter 4: Out of Africa — The Long Walk Across the World
+## 70,000 to 15,000 Years Ago: Out of Africa — The Long Walk Across the World
 
 Homo sapiens spent most of its first two hundred thousand years or so inside Africa. Then it left.
 

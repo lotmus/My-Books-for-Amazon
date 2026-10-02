@@ -11,12 +11,13 @@ Before a person, a place, a joke, or a physics claim goes into any book in this 
 
 ## Live files
 
-- Book 1: `Book 1 - Schrodingers Paperwork/Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`. Guide: `MANUSCRIPT_GUIDE.md`. Places: `CHARACTER_AND_PLACE_GUIDE.md`.
-- Book 2: `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_DRAFT.docx`. Guide: `Book 2 - The Permitted Options/MANUSCRIPT_GUIDE.md`.
+- Book 1: `Book 1 - Schrodingers Paperwork/Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`. Guide: `Book 1 - Schrodingers Paperwork/notes/MANUSCRIPT_GUIDE.md`. Places: `Book 1 - Schrodingers Paperwork/notes/CHARACTER_AND_PLACE_GUIDE.md`.
+- Book 2: `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_DRAFT.docx`. Guide: `Book 2 - The Permitted Options/notes/MANUSCRIPT_GUIDE.md`.
+- Series notes: `notes/SERIES_BIBLE.md`, `notes/HANDOVER.md`. Layout: one master docx + KDP files per book root; `chapters/`, `scripts/`, `notes/`, `bak/` under each book. Docx only, no epub/PDF.
 
 ## Not the live book
 
-- Book 1 `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.voice-unruh-brillouin.docx` and any `*.before-*.docx`.
+- Book 1 `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.voice-unruh-brillouin.docx` and any `*.before-*.docx` (all now in `bak/`).
 - Book 2 `bak/The_Permitted_Options_BOOK_2_DRAFT.docx` (pre-name-fix). Never overwrite it. Other `bak/before-*` files are snapshots. The original RTF is an abandoned Neville/Weinstein draft.
 - The parent folder `Schrodingers_Paperwork/` is a different tree. The series Book 1 is the path above.
 

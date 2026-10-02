@@ -1,4 +1,4 @@
-## Chapter 16: Before Columbus — Cities, Corn, and Knotted String
+## 2600 BCE to 1491 CE: Before Columbus — Cities, Corn, and Knotted String
 
 When Spanish soldiers first came down the causeway into the Aztec capital in 1519, one of them later wrote that some of his companions wondered aloud whether they were dreaming. It is a useful reminder that the Americas of 1491 were not empty, and were not waiting.
 

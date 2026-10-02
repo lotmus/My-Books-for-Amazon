@@ -1,4 +1,4 @@
-## Chapter 19: The Republic, With Exceptions — America, 1776-1865
+## 1776–1865: The Republic, With Exceptions — America
 
 In July 1776 a group of colonial delegates announced to a king that they held it to be self-evident that all men are created equal. The author of the sentence, Thomas Jefferson, enslaved more than six hundred people over the course of his life. Dolphin historians, who have made a study of the distance between what humans say and what they do, regard the sentence as a landmark in that study.
 

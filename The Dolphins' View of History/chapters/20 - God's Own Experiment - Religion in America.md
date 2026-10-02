@@ -1,4 +1,4 @@
-## Chapter 20: God's Own Experiment — Religion in America
+## 1620 to 1993: God's Own Experiment — Religion in America
 
 An earlier chapter already covered organized religion as a mover of history. One country turns out to be a special case worth a second visit: the United States, whose religious history is less a single current than a permanent flood of new denominations, revivals, and experiments, arriving in waves for four centuries running.
 

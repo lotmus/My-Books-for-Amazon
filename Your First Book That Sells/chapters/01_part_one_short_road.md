@@ -1,8 +1,8 @@
-# Part I — The Short Road: One Month with June
+# Part I — The Short Road: One Month with One Book
 
 ## Start here
 
-June has a finished mystery and a price of $0.99 in her head. She has not asked what one sale would leave her. Part I is the month she finds out. Parts II to VIII are the full guide, with every number worked out.
+Picture a first-time author with a finished cozy mystery and a price of $0.99 in her head. She has not asked what one sale would leave her. Part I is the month she finds out. She is a teaching example, not a real person, and every number in her month is a practice sum. Parts II to VIII are the full guide, with every number worked out.
 
 Read it in this order. Write the book. Name the reader. Learn the number you keep. Then fix the page, the reviews, and the money. If the book is already on sale, still read in this order. The chapter about a quiet book will be there when you reach it.
 
@@ -20,20 +20,20 @@ The reader. The two sentences from chapter 2. Who it is for. Who it is not for.
 
 The date. The one change, and the day you will look.
 
-If a line is blank, do not pay for an ad, a promotion, or a stack of free copies. At each later decision the book fills the three lines with June’s numbers, so you can see the test instead of only the instruction.
+If a line is blank, do not pay for an ad, a promotion, or a stack of free copies. At each later decision the book fills the three lines with the example author’s numbers, so you can see the test instead of only the instruction.
 
 ![Three boxes: the keep, the reader, and the date. If a line is blank, do not spend.](../figures/keep_test.png)
 
 
 ## Chapter 1: Write one kind of book
 
-June’s book is a mystery. She calls it The Guest on Sunday. Maren is her detective. One ferry office, one missing guest, one week. That is a form. If your book is also one kind of thing, write the sentence you could print under the title and go to chapter 2.
+The example book is a cozy mystery. One ferry office, one missing guest, one week, and the woman who keeps the office has to solve it. That is a form. If your book is also one kind of thing, write the sentence you could print under the title and go to chapter 2.
 
-June’s sentence is: a gentle mystery, a small town, no gore.
+The author’s sentence is: a gentle mystery, a small town, no gore.
 
-Then write one page for the path. What the reader knows at the start. What they know at the end. Fill the chapters inside that page. If you can retell the book by listing someone else’s chapters, you copied a table of contents. If you remember a clue from a book you admire, invent another. June’s chess piece has to be hers.
+Then write one page for the path. What the reader knows at the start. What they know at the end. Fill the chapters inside that page. If you can retell the book by listing someone else’s chapters, you copied a table of contents. If you remember a clue from a book you admire, invent another. The chess piece the guest leaves behind in the example has to be the author’s own idea.
 
-If you are not writing fiction, the same rule is stricter, and it is a note, not the door of this book. A textbook needs one meaning per word, a result the reader can use, and practice. A popular explanation needs a voice and a path a person can leave. Do not mix them in one file. Keep a familiar teaching order unless a different order teaches better. Then come back. The rest of this book is how the book, whichever kind it is, gets paid for.
+If you are not writing fiction, the same rule is stricter, and it is a note, not the door of this book. A technical handbook needs one meaning per word, a result the reader can use, and practice. A cookbook needs recipes that work in an ordinary kitchen. A memoir or a popular explanation needs a voice and a path a person can leave. Do not mix them in one file. Keep a familiar teaching order unless a different order teaches better. Then come back. The rest of this book is how the book, whichever kind it is, gets paid for.
 
 ### Your action
 
@@ -41,7 +41,7 @@ One sentence for the form. One page for the path. Then chapter 2. Do not buy a c
 
 ## Chapter 2: Name the reader
 
-June is the author in the examples that follow. She begins the month at $0.99. She has two sentences to write before she is allowed to talk about price.
+The mystery author is the example that runs through Part I. She begins the month at $0.99. She has two sentences to write before she is allowed to talk about price.
 
 Do not write for “people who like books.” That group is everyone. A cover, a price, and an ad need one person.
 
@@ -57,7 +57,7 @@ Here is a filled pair for a novel.
 
 This book entertains readers who like a gentle small-town mystery and a heroine who solves it without a gun. It is a poor fit for people who want a thriller, a romance with no puzzle, or a joke on every page.
 
-June looked at five books on 27 September 2026. These are teaching examples of a shelf, with ordinary prices, not a sale price. They are not a list to paste onto your own page.
+She looks at five books on the shelf her reader already browses. These are invented titles, a teaching example of a shelf, with ordinary prices, not a sale price. They are not a list to paste onto your own page.
 
 The Lakeside Inn Mystery, $4.99
 A Sleuth on the Night Desk, $3.99
@@ -65,7 +65,7 @@ No Gore in the Village, $4.99
 The Locked Pantry, $2.99
 Small Town, Quiet Case, $3.99
 
-These are other people’s books. June’s own title is The Guest on Sunday, and it is not on this shelf. The phrases she later uses in an ad are words from these five titles: lakeside inn mystery, sleuth on the night desk, no gore in the village, the locked pantry, small town quiet case.
+These stand for other people’s books, and her own title is not on this shelf. Another book’s title never goes in your keyword boxes. What she takes from the shelf is the words these books share and their readers use: small town cozy mystery, amateur sleuth inn mystery, clean mystery no gore, village puzzle mystery, quiet village detective. Those five phrases come back in chapter 5 and in the ad test.
 
 Here is a filled pair for a guide.
 
@@ -129,7 +129,7 @@ Your price, the band it sits in, and the keep written in dollars and cents.
 
 Open KDP’s estimate for your real file. Do not use $0.99 as the price of a book you spent months on.
 
-Before you spend, fill June’s three lines with your own.
+Before you spend, here are the example author’s three lines. Write your own beside them.
 
 Keep: about $0.35 at $0.99 today. The test is $3.99, about $2.58, if the file matches the chapter 3 example.
 
@@ -151,9 +151,9 @@ Here is a weak opening.
 
 It names no reader and no promise. “Everyone” is the sentence chapter 2 told you not to write.
 
-Here is the opening of June’s book, The Guest on Sunday. Maren is her detective. The inn on the comparison shelf belongs to someone else.
+Here is the opening of the example mystery.
 
-“Maren keeps the ferry office. When a guest vanishes and leaves a chess piece on the blotter, she has until Sunday to find him, without scaring off the wedding party in the dining room. A gentle mystery for readers who want a small town, a puzzle, and no gore.”
+“The woman who keeps the ferry office knows every guest who comes and goes. When one vanishes and leaves a chess piece on the blotter, she has until Sunday to find him, without scaring off the wedding party in the dining room. A gentle mystery for readers who want a small town, a puzzle, and no gore.”
 
 The second version can be priced. The first version cannot.
 
@@ -163,7 +163,7 @@ Then open the sample on your phone. Count how many screens appear before somethi
 
 ### Your action
 
-Show June’s two lines, or your own, to one stranger. If they cannot say who the book is for, fix the lines before you buy an ad.
+Show your own two lines to one stranger. If they cannot say who the book is for, fix the lines before you buy an ad.
 
 ## Chapter 5: Cover, keywords, and categories
 
@@ -175,21 +175,21 @@ The author’s name should not be the largest words unless strangers already see
 
 Do not put a sentence on the cover that you cannot see at thumbnail size. Do not depend on a color alone to carry the meaning. The cover will be seen in gray on some devices.
 
-Keywords are the phrases a reader types. On the KDP details page you get a set of keyword boxes. Fill them with phrases, not single vague words like “book” or “fiction.” Use words a reader would type, the way June’s phrases are words from the titles in chapter 2. Do not repeat the title in every box. Do not type claims you cannot stand behind, such as “bestseller” or “guaranteed income.” If the form on the page has changed since 1 October 2026, follow the form, not this paragraph.
+Keywords are the phrases a reader types. On the KDP details page you get a set of keyword boxes. Fill them with phrases, not single vague words like “book” or “fiction.” Use words a reader would type, the way the mystery author’s phrases are the words her shelf shares in chapter 2. Never type another author’s name or another book’s title; chapter 22 explains why. Do not repeat the title in every box. Do not type claims you cannot stand behind, such as “bestseller” or “guaranteed income.” If the form on the page has changed since 1 October 2026, follow the form, not this paragraph.
 
 Categories are shelves. The biggest shelf hides a new book. Look at five books your reader already buys and note where they sit. Choose the closest true shelves KDP offers, not the most famous shelf in the store. You can ask KDP to add categories later. Ask for shelves that are true. A book in the wrong shelf gets the wrong readers, and the wrong readers do not pay twice.
 
 Here is a filled keyword set for the gentle mystery. It is an example of the kind of phrase, not a list to paste onto a different book.
 
-lakeside inn mystery
-sleuth on the night desk
-no gore in the village
-the locked pantry
-small town quiet case
+small town cozy mystery
+amateur sleuth inn mystery
+clean mystery no gore
+village puzzle mystery
+quiet village detective
 gentle puzzle novel
 weekend mystery book
 
-None of those is the title. Each is a way a reader might search. If a phrase does not fit the book, it does not go in the box, even if it is popular.
+None of those is her title or anyone else’s. Each is a way a reader might search. If a phrase does not fit the book, it does not go in the box, even if it is popular.
 
 Here is a cover brief you can hand to a designer, or use yourself.
 
@@ -207,7 +207,7 @@ If the title fails on a phone, fix the cover before launch week.
 
 A new book has little proof. An honest review is one piece of proof. It is not a bill.
 
-You may send a free advance copy. Say that a review is welcome and optional. Do not ask for stars. Do not offer a gift card, a refund, or a favor in exchange for a kind review. Amazon has said a free or discounted copy is allowed only when you do not require a review and do not try to steer it. Extra incentives can wipe out that exception. Read the current Customer Reviews page before you send the invitation. [1] [2] A reader on Amazon.com generally must have spent $50 with a credit or debit card in the past 12 months before they can post. Promotional discounts do not count toward that $50. A willing reader who has not spent that much still cannot post. That is the platform, not a failed invitation. You do not review your own book. A friend, relative, or business partner is a conflict, not a useful first review. [2]
+You may send a free advance copy. Say that a review is welcome and optional. Do not ask for stars. Do not offer a gift card, a refund, or a favor in exchange for a kind review. Amazon has said a free or discounted copy is allowed only when you do not require a review and do not try to steer it. Extra incentives can wipe out that exception. Read the current Customer Reviews page before you send the invitation. [1] [2] Not every willing reader can post. Amazon.com sets a spending threshold for reviewers, so a missing review is often the platform, not a failed invitation. Chapter 31 has the full eligibility rules. You do not review your own book. A friend, relative, or business partner is a conflict, not a useful first review. [2]
 
 Do not buy a pack of reviews. Do not trade reviews with other authors as a deal. Do not ask a reader to change a star. Do not make a second account to post what the first account could not.
 
@@ -241,13 +241,13 @@ Teaching example, not a rate you are owed. You invite 40 suitable people. 24 acc
 
 Make the file easy to open. Test the link yourself, including any expiry. Name the file with the title and the date. Send it to one willing person before you send it to the group.
 
-June sent The Guest on Sunday to a man who had asked for a thriller. He wrote back that the chess piece wasted his evening. She had skipped the sentence about who the book is not for. The file cost her an hour and taught her nothing about Maren.
+The mystery author sent her advance copy to a man who had asked for a thriller. He wrote back that the chess piece wasted his evening. She had skipped the sentence about who the book is not for. The file cost her an hour and taught her nothing about her book.
 
 Send four notes at most. A confirmation. The file. After publication, when reviews can be posted, the store link. One gentle follow-up a week or two later. Then stop. If your file was broken, fix it and extend the time. Do not send the follow-up to someone who could not open the book.
 
 If you are in KDP Select, or about to join, read the exclusivity rules before you email the ebook. A public full-book giveaway can break those terms. Ask KDP if you are unsure. [5]
 
-Before you spend, fill June’s three lines with your own.
+Before you spend, here are the example author’s three lines. Write your own beside them.
 
 Keep: $0. A free copy leaves nothing. The paid ebook is a separate line on the sheet.
 
@@ -268,11 +268,11 @@ Step 2. Do the smallest version that can teach you something. A sentence of book
 Step 3. Pick the day you will look. Two weeks, or four. Write it down before you start.
 Step 4. On that day, keep the idea or stop it, in one sentence on the money sheet. “Held the $3.99 price.” “Stopped the free days. No second book.” Do not start the next idea until that sentence exists.
 
-Each idea below is three lines. What it is. The smallest version. The number that means stop. The keeps, when a line needs one, are the chapter 3 examples. After June raises her price, her ebook keep is about $2.58. Your file’s estimate wins over that round.
+Each idea below is three lines. What it is. The smallest version. The number that means stop. The keeps, when a line needs one, are the chapter 3 examples. After the example author raises her price, her ebook keep is about $2.58. Your file’s estimate wins over that round.
 
 ### 1 Charge a real ebook price
 
-A normal book belongs in the 70 percent band when you qualify. June’s test is $3.99, about $2.58 kept, against $0.99, about $0.35.
+A normal book belongs in the 70 percent band when you qualify. The example test is $3.99, about $2.58 kept, against $0.99, about $0.35.
 
 Smallest version: change only the price, for four weeks.
 
@@ -280,7 +280,7 @@ Stop if the keep on the sheet is lower than it was at the old price.
 
 ### 2 Make book one the handshake
 
-Book one can be the book a stranger tries. Book two is where the catalog pays. After June’s change, book one already keeps about $2.58. Do not cut it to make book two look expensive.
+Book one can be the book a stranger tries. Book two is where the catalog pays. After the price change, book one already keeps about $2.58. Do not cut it to make book two look expensive.
 
 Smallest version: write both prices on one line.
 
@@ -328,7 +328,7 @@ Stop if the keep falls below the ebook keep.
 
 ### 8 Try Kindle Unlimited on purpose
 
-Select is 90 days. Page reads may pay you. The ebook stays out of other stores. Amazon announces a fund each month and splits it across every page read in Kindle Unlimited. For July 2026 the fund was $67.6 million. Authors who track the payouts reported a per-page rate for that month of a little over four tenths of a cent, so a full read of a book that counts as 300 pages paid roughly $1.27. That is history, not a promise. The rate moves every month, and your own reports are the only number that counts for your book. [5] [10]
+Select is 90 days. Page reads may pay you. The ebook stays out of other stores. For July 2026 the shared fund was $67.6 million, a little over four tenths of a cent per page, so a full read of a book that counts as 300 pages paid roughly $1.27. That is history, not a promise. Chapter 17 shows how the fund works and chapter 27 weighs it against selling everywhere. [5] [10]
 
 Smallest version: read the terms and the renewal box, and write the end date.
 
@@ -533,15 +533,15 @@ Leave these for later. Mugs. A paid fan club. A big course with no audience. The
 
 These are teaching stories. Copy the shape, not the dollars.
 
-Story A, the price. This is June, later in the same month. Her only book is $0.99. The KDP estimate says she keeps about $0.35. In four quiet weeks she sells 20 copies. Keep, about $7. She changes only the price, to $3.99. The estimate now says about $2.58. She does not touch the cover or the ad, because there is no ad. Over the next four weeks she sells 12 copies. Keep, about $31. Fewer sales, more money. She writes that on the sheet and holds the price for another four weeks before she believes it. If the second month collapses, she can go back. One change. One window.
+Story A, the price. This is the mystery author, later in the same month. Her only book is $0.99. The KDP estimate says she keeps about $0.35. In four quiet weeks she sells 20 copies. Keep, about $7. She changes only the price, to $3.99. The estimate now says about $2.58. She does not touch the cover or the ad, because there is no ad. Over the next four weeks she sells 12 copies. Keep, about $31. Fewer sales, more money. She writes that on the sheet and holds the price for another four weeks before she believes it. If the second month collapses, she can go back. One change. One window.
 
-Story B, the paperback. June’s ebook keeps about $2.58 at $3.99. She wants paper. The calculator says a 240-page paperback costs about $4 to print in her marketplace. She tries $14.99 at 60 percent: (0.60 × $14.99) − $4 is about $5. She does not list it at $9.99. At 60 percent, 0.60 × $9.99 is $5.99, minus $4 to print, about $2. The ebook keeps about $2.58. Paper at that price pays less, and it is a heavier object. She orders a proof, reads ten pages, and only then clicks publish. The print cost in this story is an illustration. Her calculator, not this paragraph, sets the real number.
+Story B, the paperback. The same author’s ebook keeps about $2.58 at $3.99. She wants paper. The calculator says a 240-page paperback costs about $4 to print in her marketplace. She tries $14.99 at 60 percent: (0.60 × $14.99) − $4 is about $5. She does not list it at $9.99. At 60 percent, 0.60 × $9.99 is $5.99, minus $4 to print, about $2. The ebook keeps about $2.58. Paper at that price pays less, and it is a heavier object. She orders a proof, reads ten pages, and only then clicks publish. The print cost in this story is an illustration. Her calculator, not this paragraph, sets the real number.
 
-Story C, the capped ad. June writes “keep about $2.58” at the top of a page. She sets a $40 cap and a stop date. She uses the five phrases from the titles in chapter 2: lakeside inn mystery, sleuth on the night desk, no gore in the village, the locked pantry, small town quiet case. After the cap, the screen shows clicks and two sales. Two times $2.58 is about $5, against $40 spent. She does not raise the budget. She rewrites the first two description lines, waits, and only then decides whether another $40 is a test or a habit.
+Story C, the capped ad. The author writes “keep about $2.58” at the top of a page. She sets a $40 cap and a stop date. She uses the five reader phrases from chapter 2: small town cozy mystery, amateur sleuth inn mystery, clean mystery no gore, village puzzle mystery, quiet village detective. After the cap, the screen shows clicks and two sales. Two times $2.58 is about $5, against $40 spent. She does not raise the budget. She rewrites the first two description lines, waits, and only then decides whether another $40 is a test or a habit.
 
-Before you spend, fill June’s three lines with your own.
+Before you spend, here are the example author’s three lines. Write your own beside them.
 
-Keep: about $2.58 on The Guest on Sunday, now at $3.99.
+Keep: about $2.58 on the example mystery, now at $3.99.
 
 Reader: a gentle mystery, a small town, no gore. Not a thriller.
 
@@ -555,7 +555,7 @@ An ad introduces the book. It also shows you a weak page, because you pay for th
 
 You do not need a large review pile to run a tiny test. You do need a cover that passes the thumbnail test, two true description lines, and a keep written down. Large spending with none of those is how a quiet book becomes an expensive quiet book.
 
-Teaching example, after June’s price change. She keeps about $2.58 on a $3.99 sale. A click costs $0.30. If one sale comes from every ten clicks, the ad costs $3.00 to earn that $2.58. The click would have to cost about $0.26 or less to break even, because $2.58 × 0.10 = $0.26. At 5 percent, the ceiling is about $0.13. These are ceilings, not recommended bids. Refunds, delayed reports, and page-read money move the real result. Stay under the ceiling. Do not treat the sales number in an ad screen as the money you keep.
+Teaching example, after the mystery author’s price change. She keeps about $2.58 on a $3.99 sale. A click costs $0.30. If one sale comes from every ten clicks, the ad costs $3.00 to earn that $2.58. The click would have to cost about $0.26 or less to break even, because $2.58 × 0.10 = $0.26. At 5 percent, the ceiling is about $0.13. These are ceilings, not recommended bids. Refunds, delayed reports, and page-read money move the real result. Stay under the ceiling. Do not treat the sales number in an ad screen as the money you keep. Chapter 25 turns the same test into break-even ACOS, the figure the ad screen shows.
 
 ![Five lines showing that a 30 cent click can cost 3 dollars to earn a 2 dollar 58 cent royalty.](../figures/ad_math.png)
 
@@ -580,9 +580,9 @@ Stop at the cap even if you are curious. Curiosity is not a budget.
 
 Kindle Unlimited money, if you are enrolled, goes in its own column. Do not give the ad credit for every page read that week.
 
-Before you spend, fill June’s three lines with your own.
+Before you spend, here are the example author’s three lines. Write your own beside them.
 
-Keep: about $2.58 on The Guest on Sunday, now at $3.99.
+Keep: about $2.58 on the example mystery, now at $3.99.
 
 Reader: a gentle mystery, a small town, no gore. Not a thriller.
 
@@ -596,15 +596,15 @@ One book can pay you a little. A row of books can pay you again from a reader wh
 
 That second payment is not a reason to lose money on purpose today. If book one loses money, book two is a second product, not a refund of the first loss.
 
-Teaching example, after the price change. 100 people buy book one at $3.99 and she keeps about $2.58, so those first sales keep about $258. Thirty of them later buy book two at the same keep, about $77. Together that is about $335, or about $3.35 per first buyer. Paying $2 to find one of those buyers can fit. Paying $4 does not.
+Teaching example, after the price change. 100 people buy book one at $3.99 and the author keeps about $2.58, so those first sales keep about $258. Thirty of them later buy book two at the same keep, about $77. Together that is about $335, or about $3.35 per first buyer. Paying $2 to find one of those buyers can fit. Paying $4 does not.
 
 If half of those book-two buyers also buy a third book at the same $2.58 keep, that is 15 people, about $39 more, about $3.74 per original buyer. Still under $4. Do not count a whole series as if every reader buys every book.
 
 Name the next book. Link it when the link works. If it is not written, say so. Do not print a month you cannot meet.
 
-Before you spend, fill June’s three lines with your own.
+Before you spend, here are the example author’s three lines. Write your own beside them.
 
-Keep: about $2.58 on The Guest on Sunday. Do not cut that price to advertise a book that does not exist.
+Keep: about $2.58 on the example mystery. Do not cut that price to advertise a book that does not exist.
 
 Reader: a gentle mystery, a small town, no gore. Not a thriller.
 
@@ -671,9 +671,9 @@ The ad. You stopped at the cap. Money kept is written next to money spent. You a
 
 If you cannot say the number in advance, you will talk yourself into another spend.
 
-Before you spend, fill June’s three lines with your own.
+Before you spend, here are the example author’s three lines. Write your own beside them.
 
-Keep: about $2.58 on The Guest on Sunday, unless the broken step is the price itself.
+Keep: about $2.58 on the example mystery, unless the broken step is the price itself.
 
 Reader: a gentle mystery, a small town, no gore. Not a thriller.
 
@@ -719,9 +719,9 @@ For a guide: “This book helps [specific reader] do [specific job] without [the
 
 ## Chapter 14: A filled money sheet
 
-Copy this shape. The lines under each label are yours to fill. The numbers above them are June’s month, a teaching example, not a report.
+Copy this shape. The lines under each label are yours to fill. The numbers above them are the example author’s month, a teaching example, not a report.
 
-Book: The Guest on Sunday
+Book: the example cozy mystery
 ____________________
 
 Price: $3.99 in the example
@@ -775,7 +775,7 @@ The file has to meet the Kindle Publishing Guidelines. [9] Use real headings so 
 
 Check the author name, title, subtitle, description, cover, categories, keyword boxes, countries, and price. Look at the converted file size and the royalty estimate. That estimate is the keep you should write on the sheet, in place of this book’s rounded examples, as soon as you have it.
 
-KDP asks about AI each time you publish a new book or republish an edited one. Answer for what you actually did. Amazon’s rule has two sides. If an AI tool wrote the text, made the cover or an interior picture, or did the translation, that is AI-generated, and you must say so even if you edited it heavily afterwards. If you wrote it and used a tool to check spelling, tighten sentences, or brainstorm ideas, that is AI-assisted, and you do not have to say so. Either way you are responsible for the content, including its rights. [8]
+KDP asks about AI each time you publish a new book or republish an edited one. Answer for what you actually did. Text, a cover, an interior picture, or a translation that an AI tool produced must be declared, even after heavy editing. Spelling checks, tightening, and brainstorming on your own writing need not be. Either way you are responsible for the content. Chapter 32 states the rule in full. [8]
 
 Two more 2026 rules belong on the same checklist. Since 21 September 2026, KDP lets you create only two new titles per format each week: two ebooks, two paperbacks, and two hardcovers, reset every Sunday at midnight UTC. A book in three formats uses one slot in each. Editing a live book does not count. Plan the launch week around it. [11] And the DRM box now matters more. Since 20 January 2026, if you publish without DRM, a verified buyer can download the book as EPUB and PDF. Choose that on purpose. [12]
 

@@ -1,4 +1,4 @@
-## Chapter 30: Leaving the Cradle — Space Travel, the Moon, Mars, and (Maybe) the Galaxy
+## 1957 to 2026: Leaving the Cradle — Space Travel, the Moon, Mars, and (Maybe) the Galaxy
 
 Dolphin historians open this chapter by naming what makes it different from every chapter before it: this may be the first thing in the whole book dolphins cannot watch happen in person. Everything up to now took place somewhere a dolphin could, in principle, have been present for — on the water, near it, or on land bordering it. This chapter's subject leaves the planet.
 

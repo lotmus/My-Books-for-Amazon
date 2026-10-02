@@ -1,24 +1,25 @@
 # KDP listing — *Science Sparks*
 
 **Title:** Science Sparks
-**Subtitle:** Physics, Life, Mathematics, and History — The Same Few Rules, Told in Highlights
+**Subtitle:** Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights
 **Author:** Lothar J. Musiol
 
 ## Product description
 
 Energy is never created and never lost. It only changes form, like money moving between accounts — except that no central bank can print more of it and no decree can change the rule. The universe keeps the books. This volume is about what those books record.
 
-Science Sparks gathers the highlights of the author's full-length works into one place, in six parts that face the same view. Part I is the physical rules: time and its arrow, relativity, the expanding universe, the quantum world, entanglement, quantum fields, and the semiconductors that taught matter to think. Part II is what those rules produced on a wet rock in four billion years: life that copies itself, imperfectly, and DNA that never copies exactly. Part III writes mathematics in plain sentences. Part IV puts electrons to work, from first circuits to quantum electrodynamics. Part V is human history, audited by dolphins. Part VI is the real physics hidden inside a comic murder mystery.
+Science Sparks is a general-knowledge almanac in five sections, read in a deliberate order. Mathematics comes first, because it is the language everything else is written in: counting, algebra, trigonometry, logarithms, complex numbers, calculus, Fourier series and matrices, in plain sentences. Physics and the Cosmos uses that language on motion, energy, time and its arrow, relativity, the expanding universe, black holes and the semiconductors that taught matter to think, then holds claims about living longer and settling the Moon and Mars to the same standard of evidence. Quantum Physics goes underneath, from the first working rules through entanglement, measurement and quantum fields to a complete walk through quantum electrodynamics. Biology is what those rules produced on a wet rock in four billion years: life that copies itself, imperfectly, and the DNA text that never copies exactly. Science in the Novels closes the book with the real relativity hidden inside a comic murder mystery.
 
-Every part stands on its own. Read them in any order, or read only one. Three sections inside are courses rather than highlights — the Mathematics Tower, the Complete QED Course, and the Quantum Lectures — and those reward reading front to back.
+Every section also stands on its own, so you can read them in any order, or read only one. Every science chapter carries a status line that tells you how sure science is: settled, strange but solid, serious but unconfirmed, or speculative. A glossary at the back sends you to the chapter that teaches each term.
 
-Written by a semiconductor engineer of four decades who studied physics deeply enough to know exactly where he simplifies, and where he does not. A sampler for the curious, and a map to the longer books.
+Written by a semiconductor engineer who studied science deeply enough to know exactly where he simplifies, and where he does not.
 
 ## BISAC
 
 Science / General
 Science / Physics / General
+Mathematics / General
 
 ## Keywords
 
-general knowledge book for adults, physics for everyone, evolution and genetics, time and relativity, quantum mechanics explained, history of humanity, how the world works for curious minds
+general knowledge book for adults, physics for everyone, evolution and genetics, time and relativity, quantum mechanics explained, mathematics explained simply, how the world works for curious minds

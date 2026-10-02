@@ -1,4 +1,4 @@
-## Chapter 29: Cold War — Two Powers, One Planet
+## 1945–1991: Cold War — Two Powers, One Planet
 
 The alliance that beat Nazi Germany did not survive the peace it won. Within two years of 1945, the wartime partnership between the United States and the Soviet Union had curdled into open rivalry, hardened by an ideological split that this book has already put in plain view: capitalism and multiparty democracy on one side, one-party rule and state-planned economics on the other.
 

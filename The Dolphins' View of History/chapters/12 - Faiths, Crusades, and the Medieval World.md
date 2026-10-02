@@ -1,4 +1,4 @@
-## Chapter 12: Faiths, Crusades, and the Medieval World
+## The 5th Century BCE to 1291 CE: Faiths, Crusades, and the Medieval World
 
 Of everything covered in this book so far, nothing moved as much material as quickly, or grew as tightly bound to power, as belief did once it went looking for followers who owed it nothing in the way of birth or citizenship.
 

@@ -1,4 +1,4 @@
-## Chapter 6: Writing and Memory — How Humans Learned to Speak to the Future
+## From 3200 BCE: Writing and Memory — How Humans Learned to Speak to the Future
 
 For every chapter so far, dolphin historians have had to reconstruct human behavior from bones, stone, and ash, the same tools they would use on any other animal.
 

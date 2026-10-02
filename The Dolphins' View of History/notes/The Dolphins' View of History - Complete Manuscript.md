@@ -82,7 +82,7 @@ That changed on the day the free hands picked up a stone, and kept it.
 
 *Humans are not a separate creation and were not the point of the story from the start. They are one branch of an ordinary family tree that happened to keep its forelimbs free while a cousin species, in the same stretch of millions of years, gave its own forelimbs up altogether. Two branches, two trades. This book is about what one of them did with the hands it kept.*
 
-## Chapter 1: No Hands, No Cities — Why the Dolphins Only Watched
+## The Last Fifty Million Years: No Hands, No Cities — Why the Dolphins Only Watched
 
 By any fair measure, dolphins are not history's dim supporting cast.
 
@@ -160,7 +160,7 @@ A short note before the book goes any further, one dolphin scholarship insists o
 
 *That said, dolphin scholarship sees no reason to let a good line go to waste on a technicality. So: thanks for all the fish.*
 
-## Chapter 2: Where Everyone Is From — Africa and the Making of Humans
+## 7 Million to 300,000 Years Ago: Where Everyone Is From — Africa and the Making of Humans
 
 Every human being alive today descends from people who lived in Africa. This is not a metaphor or a courtesy to a continent. It is the best-supported conclusion in the study of human origins, and it rests on three independent witnesses that agree: bones, tools, and DNA.
 
@@ -190,7 +190,7 @@ It follows that the human family is, genetically, one very recently branched Afr
 
 *The origin of humankind was not a moment in a place. It was a long, crowded, repeatedly interrupted process spread across a whole continent, and it happened in Africa, among Africans, for something like seven million years before anybody left. Every later chapter in this book is, at some level, about branches of that one family, and the dolphins would ask readers to keep the family resemblance in mind, particularly in the chapters where humans forgot it.*
 
-## Chapter 3: The First Fires — Early Humans and the Spark of Culture
+## The Old Stone Age, a Million Years Ago: The First Fires — Early Humans and the Spark of Culture
 
 For a very long time, the main thing that distinguished the branch from any other ground-dwelling ape was that it walked upright and had learned to hold a stone.
 
@@ -224,7 +224,7 @@ Dolphins, watching all this from offshore for once quite literally, since early 
 
 *Every technology in this book, all the way to the last chapter, is downstream of that first kept flame. Cooking bought the calories for a bigger brain, the fire's light bought hours the sun used to take away, and the circle around it bought a species its first classroom. Dolphins have never needed a fire. They have also never had a campfire story, and on this one point, envy is not out of the question.*
 
-## Chapter 4: Out of Africa — The Long Walk Across the World
+## 70,000 to 15,000 Years Ago: Out of Africa — The Long Walk Across the World
 
 Homo sapiens spent most of its first two hundred thousand years or so inside Africa. Then it left.
 
@@ -258,7 +258,7 @@ In the intervals between all this walking, humans made stone tools, hunted, pres
 
 *Every other successful animal in this book's timeline stayed inside the range its body and food supply allowed. Humans declined anyway. A species that had barely finished inventing fire crossed a strait it could not swim and a steppe it could not graze, on the strength of tools, boats, and each other. The dolphins had known the whole map for tens of millions of years by then. This was the first time anything else did too.*
 
-## Chapter 5: The First Villages — Agriculture and the End of Wandering
+## The Neolithic, from 10,000 BCE: The First Villages — Agriculture and the End of Wandering
 
 For nearly all of Homo sapiens' existence, there was no such thing as home in the modern sense — only a range, walked and re-walked with the seasons.
 
@@ -298,7 +298,7 @@ Villages could not be un-invented once the population had grown to fit them. The
 
 *Agriculture is usually told as an unambiguous improvement, and the population numbers back that reading up. But the individual farmer, on the evidence of their own bones, often ate worse and lived sicker than the forager two thousand years earlier. Humans had discovered a pattern that recurs for the rest of the book: a choice that is bad for the person and good for the population can still win, because populations, not people, are what get to keep making the next choice.*
 
-## Chapter 6: Writing and Memory — How Humans Learned to Speak to the Future
+## From 3200 BCE: Writing and Memory — How Humans Learned to Speak to the Future
 
 For every chapter so far, dolphin historians have had to reconstruct human behavior from bones, stone, and ash, the same tools they would use on any other animal.
 
@@ -334,7 +334,7 @@ Everything from a legal code to a shipping manifest to, eventually, dolphin scho
 
 *Fire and farming changed what a human body could do. Writing changed what a human generation could keep. Every chapter after this one exists only because someone, somewhere, wrote something down that outlived them — including, the dolphins note with some professional interest, this book.*
 
-## Chapter 7: Gods and Kings — Mesopotamia, Egypt, and the First Empires
+## The Bronze Age, 3100–1150 BCE: Gods and Kings — Mesopotamia, Egypt, and the First Empires
 
 Writing gave surplus a memory. This chapter is about what surplus, once remembered and counted, could buy: organized power over other people, at a scale no band or village ever needed.
 
@@ -370,7 +370,7 @@ Dolphin historians treat this chapter as a turning point distinct from the tools
 
 *The first empires were built from grain surplus, a persuasive story about divine favor, and enough scribes to keep track of both. No hands were required to invent kingship, only a large enough audience willing to believe the story — proof that this species' most powerful technology, for good and for ill throughout the rest of this book, is not always something it can hold.*
 
-## Chapter 8: The Middle Kingdom — China's Long Civilization
+## 1600 BCE to 589 CE: The Middle Kingdom — China's Long Civilization
 
 While Mesopotamia and Egypt built the pattern of god-king and bureaucracy, a separate civilization was assembling its own version, with no contact between them at all, along the Yellow and Yangtze rivers.
 
@@ -400,7 +400,7 @@ This pattern — unify, flourish, fracture, reunify — repeats across Chinese h
 
 *No civilization in this book has matched China's combination of scale and continuity: one script, evolving but recognizable, in continuous use for more than three thousand years, across dynasties that rose and fell like weather. A later chapter will ask what happened when the twentieth century tried to interrupt that continuity on purpose. This chapter's verdict, for now, is simpler: the tide always came back in.*
 
-## Chapter 9: The Subcontinent — Zero, Gods, and Glorious Complexity
+## 2600 BCE to 550 CE: The Subcontinent — Zero, Gods, and Glorious Complexity
 
 Somewhere between Mesopotamia and China, on the far side of some of the tallest mountains on Earth, a third river civilization was building cities.
 
@@ -432,7 +432,7 @@ The Gupta empire broke up under pressure from nomadic invaders in the 6th centur
 
 *India gave the rest of humanity its numbers, its zero, its chess, and one of its most durable arguments for non-violence, and retained a hierarchy of birth that took two thousand years to outlaw and is taking longer to retire. The dolphin file on the subcontinent, opened long ago, carries two marginal notes: “High intellectual output” and “Excessive complexity.” The second is under review, on the grounds that a civilization able to invent nothing, properly, as a number, can hardly be blamed for the quantity of everything else.*
 
-## Chapter 10: Democracy's Experiment — Ancient Greece
+## Classical Greece, 508–323 BCE: Democracy's Experiment — Ancient Greece
 
 Every government examined so far in this book has run on the same basic claim: one person, or one family, or one god's favorite, decides, and everyone else complies.
 
@@ -458,7 +458,7 @@ The Greeks were also the makers of the earliest known analog computer. In 1900, 
 
 *This is the first chapter in the book about a government arguing, in public and on the record, about how it should be governed. The argument was badly incomplete — most of the population had no vote in it — but the habit of holding the argument at all, not settling it by decree, is the part that outlived Athens and keeps recurring for the rest of this book.*
 
-## Chapter 11: Rome — The Empire That Built the World and Broke It
+## The 8th Century BCE to 476 CE: Rome — The Empire That Built the World and Broke It
 
 Rome starts, by its own telling, as a small settlement of shepherds on the Tiber around the 8th century BCE, and dolphin historians treat the founding myths (a she-wolf, twin brothers, one dead by the other's hand) as exactly that: myth, worth noting for what it says about how Rome wanted to be remembered rather than what happened.
 
@@ -490,7 +490,7 @@ In 395 CE the empire formally split into Western and Eastern halves. The Western
 
 *Rome is usually told as history's cleanest collapse — a great empire that simply ended. It did not. It fragmented, one half absorbed by the kingdoms that grew up in its ruins, the other half continuing under its own name for a thousand years more. The myth of the clean ending says more about how humans like their stories shaped than about how empires actually finish.*
 
-## Chapter 12: Faiths, Crusades, and the Medieval World
+## The 5th Century BCE to 1291 CE: Faiths, Crusades, and the Medieval World
 
 Of everything covered in this book so far, nothing moved as much material as quickly, or grew as tightly bound to power, as belief did once it went looking for followers who owed it nothing in the way of birth or citizenship.
 
@@ -522,7 +522,7 @@ What outlasted the fighting, in dolphin scholarship's accounting, was the contac
 
 *No fleet, no army, and no king in this book so far moved as many people, across as much distance, as a belief that asked only to be believed. The Crusades are this chapter's starkest proof that a good story and a bad reason can travel in the same convoy — and its quieter proof, easy to miss underneath the sieges, is that even a violent contact between civilizations still manages to leave something worth keeping behind.*
 
-## Chapter 13: The Allegedly Dark Ages
+## The Early Middle Ages, 476–1000 CE: The Allegedly Dark Ages
 
 After the fall of Rome, Europe fragmented into smaller kingdoms.
 
@@ -584,7 +584,7 @@ After studying both sides, the International Dolphin Historical Society reached 
 
 *The age was not dark. It was only complicated. Humans often confuse the absence of records with the absence of history.*
 
-## Chapter 14: Silk, Steppe, and Plague — The Roads That Connected Everyone, Including the Germs
+## The 2nd Century BCE to 1368 CE: Silk, Steppe, and Plague — The Roads That Connected Everyone, Including the Germs
 
 Nobody at the time called it the Silk Road. The name was coined in 1877 by a German geographer, Ferdinand von Richthofen, some two thousand years after the traffic began, and it is misleading twice over: it was not one road, and silk was only a fraction of what moved along it.
 
@@ -610,7 +610,7 @@ The Mongol empire itself broke into rival khanates within a few generations, and
 
 *The first globalization moved at the speed of a camel and still managed to carry a pandemic across three continents in under a decade. The roads that connect a species to its own kind are neutral about what they carry, and the dolphins draw the obvious conclusion without much pleasure: connection has always arrived with a bill, and the itemized version has always come after payment.*
 
-## Chapter 15: Gold, Salt, and Stone — The Kingdoms of Africa
+## The 8th Century BCE to 1897 CE: Gold, Salt, and Stone — The Kingdoms of Africa
 
 It is a common error, and an old one, to picture Africa between the pyramids and the slave ships as a blank. Dolphin historians, who have watched the continent's coastlines for rather longer than anyone has been drawing maps of them, would like to correct the record.
 
@@ -636,7 +636,7 @@ The Atlantic slave trade, told in a later chapter, took its victims from societi
 
 *The picture of Africa as a place where history happened to other people is a European invention, and it lasted about as long as it was useful. The evidence for the continent's own kingdoms is written in stone, gold, ink, and bronze, much of it still standing, and the dolphins, who have never needed a European to tell them what was on the coast, would ask only that it be read as it was left.*
 
-## Chapter 16: Before Columbus — Cities, Corn, and Knotted String
+## 2600 BCE to 1491 CE: Before Columbus — Cities, Corn, and Knotted String
 
 When Spanish soldiers first came down the causeway into the Aztec capital in 1519, one of them later wrote that some of his companions wondered aloud whether they were dreaming. It is a useful reminder that the Americas of 1491 were not empty, and were not waiting.
 
@@ -662,7 +662,7 @@ What happened next is told in the chapter on the ships. Dolphin scholarship asks
 
 *The Americas of 1491 were not a wilderness waiting to be found. They held cities larger than most in Europe, crops that would go on to feed the world, and, in the quipu, a rival to the idea of writing itself. Everything that follows in the next chapters is, in part, a story about what was done to a hemisphere that was doing fine. The dolphins add, in a spirit of gratitude, that there would be no chips without the Andes, and that fish and chips is therefore half Andean.*
 
-## Chapter 17: Ships, Gunpowder, and Gold — Exploration, Conquest, and the Colonial Age
+## The 15th to 17th Centuries: Ships, Gunpowder, and Gold — Exploration, Conquest, and the Colonial Age
 
 Dolphins want one point on the record before this chapter starts: humans did not invent the ocean crossing. An earlier chapter already covered the settling of Australia by boat, tens of thousands of years earlier. Polynesian navigators crossed thousands of miles of open Pacific and settled Hawaii, New Zealand, and Rapa Nui using only stars, swells, and memorized wave patterns, centuries before the ships in this chapter set sail. Norse sailors reached North America around 1000 CE, roughly five hundred years ahead of the more famous version of the story.
 
@@ -696,7 +696,7 @@ Dolphin historians, who watched every one of these ships cross open water, decli
 
 *This chapter's ships did what fire, farming, and writing before them could not: they connected every inhabited continent into a single system for the first time. What moved through that system was two-sided in the fullest sense — new crops, new knowledge, and new contact in one direction; disease, conquest, and human trafficking on a scale without precedent in the other. Both halves are the story. Neither one is optional.*
 
-## Chapter 18: Machines and Manifestos — Renaissance, Enlightenment, and Industry
+## 1450 to the Late 1800s: Machines and Manifestos — Renaissance, Enlightenment, and Industry
 
 Before the method came the mood. Beginning in fourteenth-century Italy and spreading north, a revival of interest in the classical world, the Renaissance, put painters, engineers, and scholars in the same rooms and, eventually, on the same pages. Leonardo da Vinci, who painted, dissected, and filled notebooks with flying machines that would not fly for four centuries, impressed the dolphins enormously, though they note that he finished remarkably little of what he started.
 
@@ -728,7 +728,7 @@ Nationalism, an idea barely a century old in its modern form, hardened through t
 
 *Reason, applied to nature, produced science. Reason, applied to government, produced revolutions. Reason, applied to labor, produced an industrial output that could arm a continent faster than any war before it needed weapons found or forged. Within a little over two centuries of Newton's laws, the same continent that produced them had assembled an alliance system, an arms industry, and a railway timetable that made a general war very nearly automatic. The tools got better. This chapter is the first sign the wisdom to match them had not kept pace.*
 
-## Chapter 19: The Republic, With Exceptions — America, 1776-1865
+## 1776–1865: The Republic, With Exceptions — America
 
 In July 1776 a group of colonial delegates announced to a king that they held it to be self-evident that all men are created equal. The author of the sentence, Thomas Jefferson, enslaved more than six hundred people over the course of his life. Dolphin historians, who have made a study of the distance between what humans say and what they do, regard the sentence as a landmark in that study.
 
@@ -752,7 +752,7 @@ The story did not improve quickly. Reconstruction, the attempt to secure the rig
 
 *A country founded by men who wrote that all men are created equal, and in many cases did not act as if they meant it, turned out to have written something that could be used against them. It is the strongest case in this book for the power of a well-chosen idea, and the strongest case against trusting any idea to enforce itself. The dolphins, who have no founding documents, only habits, find the story sobering and, on balance, rather moving.*
 
-## Chapter 20: God's Own Experiment — Religion in America
+## 1620 to 1993: God's Own Experiment — Religion in America
 
 An earlier chapter already covered organized religion as a mover of history. One country turns out to be a special case worth a second visit: the United States, whose religious history is less a single current than a permanent flood of new denominations, revivals, and experiments, arriving in waves for four centuries running.
 
@@ -778,7 +778,7 @@ No other country in this book generates new, homegrown religious movements at an
 
 *Most of the countries in this book inherited one dominant faith and spent centuries arguing about how strictly to enforce it. The United States instead turned religious founding into an ongoing national industry, prolific enough to produce, within the same few centuries, both the Amish, who used their faith to want less of the modern world, and Jonestown, which used faith to demand everything a following had left to give. Dolphin scholarship notes the range and declines to average it into a single lesson.*
 
-## Chapter 21: Home by Christmas — The First World War
+## 1914–1918: Home by Christmas — The First World War
 
 On June 28, 1914, a nineteen-year-old Bosnian Serb named Gavrilo Princip, whose group had already failed once that morning, found himself outside a delicatessen in Sarajevo when the car of Archduke Franz Ferdinand of Austria-Hungary took a wrong turn and stopped in front of him. A popular modern story has him buying a sandwich; no contemporary source says so. He shot the Archduke and his wife, Sophie, and began, without quite intending it, the First World War.
 
@@ -808,7 +808,7 @@ The Treaty of Versailles, signed on June 28, 1919, five years to the day after t
 
 *The first war fought with the full industrial output of whole nations was expected to last a season, lasted four years, was fought for reasons most of its participants could not later explain, and ended in a peace practically everyone involved recognized as unstable. The dolphins record one short truce on Christmas Eve as the wisest thing that happened, and note that it was organized by the soldiers, in defiance of the people whose job it was to be wise.*
 
-## Chapter 22: Genius and Catastrophe — Great Countries, Terrible Decades
+## The Twentieth Century: Genius and Catastrophe — Great Countries, Terrible Decades
 
 Dolphin historians keep a particular file. It is thick, it is easy to add to, and it sits under a heading they would rather not have needed: countries that had every advantage a civilization can have, and handed themselves to a dictator anyway.
 
@@ -922,7 +922,7 @@ The last surprise is recent. Sweden and Finland, neutral or non-aligned for gene
 
 *Germany demonstrated both the heights and depths of the human condition, and turned out not to be the only country to do so. A great past is not a vaccine. In one century a whole roll-call of cultured nations produced extraordinary art, science, and philosophy, then took part in terrible destruction, and the ones that recovered did it by choosing, deliberately and with difficulty, to remember. Few chapters better illustrate humanity's greatest strength and greatest weakness: the same intelligence can create either wisdom or catastrophe, and nothing in a country's past will make the choice for it.*
 
-## Chapter 23: Japan, Restoration, and Empire
+## 1853–1947: Japan, Restoration, and Empire
 
 Japan enters this part of the book carrying a cultural inheritance dolphins already respected long before the 19th century: centuries of courtly literature, Zen-influenced aesthetics, and craft traditions refined under more than two hundred years of deliberate isolation from the outside world.
 
@@ -948,7 +948,7 @@ What followed was postwar Japan's own version of the turn this part of the book 
 
 *Same shape, different ocean. A society climbed from feudalism to great-power status faster than any other in this book so far, aimed that capability at conquest and atrocity within the same lifetime that built it, absorbed two atomic bombs as the price of stopping, and rebuilt afterward as a pacifist economic power on the same compressed timescale it uses for everything else. The dolphins remain unsure whether to be more impressed by the speed of the rise, the speed of the fall, or the speed of the recovery.*
 
-## Chapter 24: Italy, Rome's Heir and the Fascist Detour
+## 1861–1946: Italy, Rome's Heir and the Fascist Detour
 
 Italy carries the longest cultural résumé in this part of the book. Rome itself, covered several chapters ago, is only the opening entry. A thousand years later, the Renaissance turned a handful of Italian city-states, Florence chief among them, into the densest concentration of art and science the book has yet recorded in one place: Leonardo da Vinci, Michelangelo, and, in the century that followed, Galileo, whose telescope observations helped force the entire Copernican argument onto the world's agenda.
 
@@ -976,7 +976,7 @@ The reckoning with that interruption trailed well behind the recovery. Italy pas
 
 *Rome, the Renaissance, and fascism all happened in the same few hundred square miles, separated by centuries the dolphins keep having to remind themselves belong to one continuous country. The pattern's length is clearly not fixed by how deep a civilization's past runs, only by the choices it makes in one particular decade. Italy had the deepest past of any case in this part of the book and still made those choices, and then, after defeat and a civil war of its own, unmade them.*
 
-## Chapter 25: Spain, Convivencia and the General
+## Medieval Córdoba to 1981: Spain, Convivencia and the General
 
 Dolphin historians open this chapter earlier than its 20th-century subject, because Spain's pattern of genius and catastrophe has already run once before, on a different set of terms entirely.
 
@@ -1006,7 +1006,7 @@ The landing was not without incident. On February 23, 1981, a lieutenant colonel
 
 *Spain ran the genius-and-catastrophe pattern twice, centuries apart, and supplied the slowest correction of the three fascist-era European cases: no defeat, no liberating army, just one old dictator's death and, remarkably, a peaceful landing afterward. The convivencia proved good ideas do not protect themselves. The transition after Franco proved bad ones do not always require outside force to end, either — sometimes they simply outlive the one man holding them up.*
 
-## Chapter 26: The Soviet Union, Ideals and Iron
+## 1917–1991: The Soviet Union, Ideals and Iron
 
 Pre-revolutionary Russia supplied its own share of this book's genius, independent of anything that came after it: Tolstoy and Dostoevsky in literature, Tchaikovsky in music, Mendeleev's periodic table of the elements in 1869, all produced under a czarist autocracy that gave its own population little say in how it was ruled.
 
@@ -1052,7 +1052,7 @@ In 2014 Russia took Crimea from Ukraine and started a war in the Donbas that it 
 
 *Five case studies in this part of the book now, five different repair times, one identical warning label on the front of the box. The Soviet Union's ideals and its iron never fully separated the way they did in postwar Germany, Japan, and Italy — the correction here took until 1991, arrived from within instead of from defeat, and even then left plenty unresolved for the chapters that follow.*
 
-## Chapter 27: China, the Long Memory and the Great Leap
+## 1949 to Today: China, the Long Memory and the Great Leap
 
 This chapter returns to a civilization dolphin scholarship already logged, several chapters ago, as among the deepest cultural inheritances in the book: millennia of continuous writing, philosophy, and administration, surviving dynasty after dynasty like a tide that always came back in.
 
@@ -1098,7 +1098,7 @@ The portrait stayed over the gate. The bear did not. Dolphin historians recommen
 
 *China supplies this part of the book's only case where the course correction was economic but not political. Hundreds of millions of people rose out of poverty within living memory, an achievement with few rivals anywhere in this book, produced by a state that has still not fully answered for the famine or the Cultural Revolution it also produced. Capability and wisdom, once again, on separate schedules — and, as this chapter closes, not yet fully reconciled.*
 
-## Chapter 28: The People Who Kept Their Story — A Complete History of the Jews
+## The 13th Century BCE to 1948 CE: The People Who Kept Their Story — A Complete History of the Jews
 
 Most peoples in this book are attached to dolphin scholarship through a place: Sumer's rivers, Rome's roads, China's dynasties. This chapter is about a people the dolphins learned to track a different way, because for most of their history they were not reliably attached to any one place at all.
 
@@ -1144,7 +1144,7 @@ Not every neighbor stayed an adversary. Egypt made peace with Israel in 1979, Jo
 
 *No people in this book lost its land, its Temple, and its safety as many times, in as many places, as this one, and none carried its identity across that many centuries without one. What survived was never a territory. It was a story, told the same way in Babylon, Cairo, Toledo, and Warsaw, until the story became, in the end, the thing worth defending — and, in 1948, the thing a state was finally built to hold.*
 
-## Chapter 29: Cold War — Two Powers, One Planet
+## 1945–1991: Cold War — Two Powers, One Planet
 
 The alliance that beat Nazi Germany did not survive the peace it won. Within two years of 1945, the wartime partnership between the United States and the Soviet Union had curdled into open rivalry, hardened by an ideological split that this book has already put in plain view: capitalism and multiparty democracy on one side, one-party rule and state-planned economics on the other.
 
@@ -1174,7 +1174,7 @@ The Berlin Wall, raised by East Germany in 1961 to stop the outflow of its own p
 
 *This is a rare chapter in the book where the frightening technology and the restraint arrived on roughly the same schedule. Two powers built weapons capable of ending organized civilization on short notice, fought each other everywhere except face to face, and, after four decades, one side's system gave out without either side using the weapons that had defined the entire era. Dolphins record this as evidence, still rare enough in this book to be worth recording, that capability and wisdom can occasionally travel together when the alternative is unthinkable enough.*
 
-## Chapter 30: Leaving the Cradle — Space Travel, the Moon, Mars, and (Maybe) the Galaxy
+## 1957 to 2026: Leaving the Cradle — Space Travel, the Moon, Mars, and (Maybe) the Galaxy
 
 Dolphin historians open this chapter by naming what makes it different from every chapter before it: this may be the first thing in the whole book dolphins cannot watch happen in person. Everything up to now took place somewhere a dolphin could, in principle, have been present for — on the water, near it, or on land bordering it. This chapter's subject leaves the planet.
 
@@ -1266,7 +1266,7 @@ Dolphin historians decline to record any of this as more than intention, consist
 
 *More than half a century ago, a small number of humans went somewhere no dolphin's senses can follow, walked on a body that is not Earth, and came home to tell dolphin scholarship about it only secondhand, through a broadcast. Whatever this species does next — on Mars, or further out still — may be the first chapter in its history the dolphins have to take purely on faith. History's oldest audience is, for the first time, considering what it means to lose its seat.*
 
-## Chapter 31: The Physics That Finally Made Sense to Someone
+## 1905 Onward: The Physics That Finally Made Sense to Someone
 
 Twentieth-century physics produced a run of ideas famous for striking humans as bizarre on first contact. Dolphin scholarship, reviewing the same list, keeps having a different reaction: this looks familiar.
 
@@ -1314,7 +1314,7 @@ Artificial systems that predict the next word, the next fold of a protein, the n
 
 *The strangest ideas in twentieth-century physics were strange in particular to a species that built its picture of reality out of straight-line light and instantaneous-feeling vision. To a species that has always perceived the world as delayed, wave-based, and reconstructed from returning signal, several of the century's least intuitive theories sound less like a revolution and more like a description of Tuesday. Humans still did the harder job. They had to prove it in equations. Dolphins only ever had to notice it.*
 
-## Chapter 32: Decolonization — The World Redraws Itself
+## The 1940s to the 1970s: Decolonization — The World Redraws Itself
 
 Formal empire, built up over the centuries this book has already covered, mostly ended within a single human lifetime. The process ran fastest between the 1940s and the 1970s, and dolphin historians treat its speed as almost as remarkable as the speed of the empires it dismantled.
 
@@ -1340,7 +1340,7 @@ Newly independent states faced a further complication the Cold War's two superpo
 
 *Formal empire ended, for the most part, within one human lifetime, a pace with no earlier precedent in this book. But the economic dependencies, the drawn borders, and the political structures colonialism left behind did not end on the same schedule, and in a number of cases have not ended yet. Independence turned out to be a start, not a conclusion — a pattern this book has now seen often enough that dolphin historians no longer find it surprising, only worth repeating.*
 
-## Chapter 33: Civil Rights and Liberation — Humanity Argues With Itself
+## 1893 to 1994: Civil Rights and Liberation — Humanity Argues With Itself
 
 Unlike most of the conflicts in this book, the campaigns in this chapter were mostly won without an army, by changing what a majority of people believed they owed to a minority — proof, dolphin historians note with evident approval, that this species can update its own rules without a battlefield, slowly and unevenly, but without one.
 
@@ -1362,7 +1362,7 @@ A parallel argument about who counted as fully included ran through the same dec
 
 *This chapter's campaigns did not end prejudice; no law in this book has ever managed that. What they did was rarer: they changed, on the legal record and in a large share of a population's actual convictions, what a state and a society owed to people it had previously excluded. Progress here was slow, incomplete, and unevenly distributed by country — and it happened anyway, which is more than several other chapters in this book can say.*
 
-## Chapter 34: The Digital Leap — Computers, Networks, and a Connected World
+## 1843 to 2007: The Digital Leap — Computers, Networks, and a Connected World
 
 The idea is older than the machine. In 1843 Ada Lovelace, the daughter of the poet Lord Byron, published what is generally regarded as the first computer program, an algorithm for a mechanical engine designed by Charles Babbage that he never managed to finish building, which dolphin historians identify as a very British way to invent a technology.
 
@@ -1390,7 +1390,7 @@ The cost arrived on the same schedule as the promise, not after it. The same net
 
 *No technology in this book arrived faster or reached farther in a single human lifetime than this one. It delivered on its promise of connection and information more completely than almost any earlier chapter's technology delivered on its own promise — and it delivered the surveillance, the disinformation, and the harvested attention in the very same package, not as a later complication. The pattern of tools outrunning the wisdom to handle them, first flagged before the First World War, runs here on the fastest clock the book has yet recorded.*
 
-## Chapter 35: The World Was Supposed to End in 2012 (It Didn't)
+## The Thirteenth B'ak'tun, 2012: The World Was Supposed to End in 2012 (It Didn't)
 
 Dolphin historians have, by this point in the book, cataloged a great many things humans got wrong about their own past. This chapter catalogs something rarer: an entire civilization getting blamed for a future that never happened.
 
@@ -1418,7 +1418,7 @@ Dolphin historians note this is not even an unusual case. Humans have forecast t
 
 *The Maya calendar did not fail. It did exactly what a calendar does, and rolled over to a new cycle precisely as its own inscriptions expected it to. What failed was a chain of retelling, centuries later, by a species apparently uncomfortable leaving the future open-ended and unscheduled. Dolphins, who have never once predicted their own extinction on a specific date, offer this pattern without much sympathy and considerable curiosity: of all the things this species got right early and wrong late, why does the ending always seem to need an appointment.*
 
-## Chapter 36: Something Might Be Watching (Probably Not What You Think)
+## 1950 to the 2020s: Something Might Be Watching (Probably Not What You Think)
 
 This book's entire premise rests on one non-human intelligence quietly watching a technological species from a position of total detachment. Dolphin scholarship notes, with a straight face, that this is not the first idea of its kind humans have entertained. It may not even be the most popular.
 
@@ -1448,7 +1448,7 @@ Dolphin historians decline to adjudicate any of this further than the evidence a
 
 *Every civilization in this book, sooner or later, looks up, or inward, and asks whether anyone besides itself is keeping score. The honest answer, as far as instruments and evidence currently reach, is that no alien intelligence has been confirmed, no god has filed a verifiable report, and the closest thing to a documented outside observer taking detailed notes turns out to have been a pod of dolphins the whole time, watching from a much shorter distance than anyone guessed, with excellent hearing and admittedly limited ability to intervene.*
 
-## Chapter 37: Medicine and Its Cost — How Humans Learned to Heal
+## 1796 to Today: Medicine and Its Cost — How Humans Learned to Heal
 
 This chapter's technology, unlike most others in this book, is aimed entirely inward — not at the physical world, and not at other humans as adversaries, but at the human body's own failures.
 
@@ -1492,7 +1492,7 @@ What dolphin historians expect, and will be glad to be wrong about only in one d
 
 *No chapter in this book shows a cleaner rise from human ingenuity: vaccination, antiseptic surgery, and antibiotics together bought this species more added years of life, more quickly, than any war ever cost it. What follows the rise is a now-familiar shape all the same — medicine that could be almost free to produce became, in places, unaffordable to the people who needed it most, and the industry that ended centuries of death by infection also spent a decade selling addiction as pain relief. Dolphins have no medicine and no doctors. They also, dolphin historians note with some restraint, have no bill.*
 
-## Chapter 38: Climate and Consequence — The Price of Progress
+## 1896 to Today: Climate and Consequence — The Price of Progress
 
 Dolphin historians open this chapter by stating plainly what several earlier chapters only implied: the physics involved is not a matter of opinion. Carbon dioxide and a handful of other gases trap heat in the atmosphere that would otherwise radiate back into space; more of those gases means more trapped heat; humans have added those gases, chiefly by burning the coal, oil, and gas that powered every industrial chapter since the steam engine, at a rate the atmosphere had not experienced in at least several hundred thousand years.
 
@@ -1556,7 +1556,7 @@ The future they will sign is therefore modest. Less summer ice in the north. A G
 
 *The same industrial cleverness that built the 20th century this book has just finished describing is now the thing the 21st century has to spend its cleverness undoing, on a deadline the atmosphere sets, not any government. Dolphins have watched every earlier chapter's tools outrun its wisdom and mostly gotten to render a verdict afterward, once the outcome was settled. This chapter is being written while the outcome is still being decided, which is precisely why it is the hardest one in the book to close.*
 
-## Chapter 39: A Fractured Present — Democracy, Authoritarianism, and the Information Age
+## 1991 to Today: A Fractured Present — Democracy, Authoritarianism, and the Information Age
 
 The Soviet Union's 1991 dissolution produced a mood, widely shared among Western observers at the time, that history's central argument over how societies should be governed had been settled in democracy's favor, more or less for good. The following three decades did not confirm that mood.
 
@@ -1586,7 +1586,7 @@ The old habits were not retired, only mislaid. In February 2022, Russia launched
 
 *Every prior chapter in this book describing a struggle over how power should be organized reached some kind of resolution in the end, however costly or incomplete. This is the first chapter dolphin historians close without one, because the argument it describes is still being had, in real time, in the same news cycles the argument itself runs on. History has not finished grading this chapter's outcome, and neither, honestly, have the dolphins.*
 
-## Chapter 40: The Dolphins' Long View — What a Non-Human Species Makes of Human History
+## Seven Million Years to Today: The Dolphins' Long View — What a Non-Human Species Makes of Human History
 
 This book opened with a claim dolphin historians have now spent the rest of the book testing: that a big brain guarantees cleverness, and cleverness is not the same thing as wisdom, and only one of those two ever arrives on a reliable schedule.
 
@@ -1630,7 +1630,7 @@ The story is not finished. Two branch points, arriving at the same time, may be 
 
 *A whole book of hands, fire, empires, faiths, dictatorships, wars, and wires points to one plain reading: this species keeps getting better at doing things, and keeps getting only intermittently better at deciding which things are worth doing. Dolphins have had tens of millions of years to watch this gap open and close, open and close, and have learned exactly one thing from the pattern worth stating outright. The gap does not close by itself. Someone with hands has to close it.*
 
-## Chapter 41: Half the World, All the Time — The Timelines This Book Almost Skipped
+## 1804 to 2022: Half the World, All the Time — The Timelines This Book Almost Skipped
 
 Dolphin scholarship keeps an index of every timeline humans have bothered to write down about themselves: wars sorted by year, dynasties sorted by collapse, inventions sorted by patent. It is, by the Society's count, an enormous list. Reviewing it against this book's own table of contents turned up an uncomfortable fact: several of the timelines that actually ran underneath everything else in this book — counted the whole time, changing the whole time — never got a chapter of their own.
 
@@ -1760,34 +1760,58 @@ Dolphin scholarship is obliged to disclose that it has not read any of the follo
 
 ## Also by Lothar J. Musiol
 
-**Physics**
+**Physics, Actually**
 
-- *Physics Vol 1: Motion, Forces, Time, and Relativity*
-- *Physics Vol 2: Gravity, Cosmology, and the Limits of Spacetime*
-- *Physics Vol 3: The Standard Model, Chaos, and the Edge of Knowledge*
+- *Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity*
+- *Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime*
+- *Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge*
+- *Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere*
+
+**Math, Actually**
+
+- *Math, Actually, Volume 1: From Arithmetic to Calculus*
+- *Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic*
+- *Math, Actually, Volume 3: From Differential Equations to Abstract Algebra*
+- *Math, Actually, Volume 4: From Category Theory to the Frontier*
+
+**Quanta, Actually**
+
+- *Quanta, Actually, Volume 1: The Quantum World*
+- *Quanta, Actually, Volume 2: The Quantum Conversation*
+- *Quanta, Actually, Volume 3: Complete Quantum Electrodynamics Course*
+
+**Science Sparks**
+
+- *Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights*
 
 **Look First**
 
-- *The Universe Has No Now*
-- *A Trip Is Not a New Life*
+- *Look First, Volume 1: The Universe Has No Now*
+- *Look First, Volume 2: A Trip Is Not a New Life*
 
-**The quantum books**
+**Electrical Engineering Series**
 
-- *The Quantum World*
-- *The Quantum Conversation*
-- *Complete QED Course*
+- *Foundations of Electronics (Book 1)*
+- *Circuits, Components, and Control (Book 2)*
+- *Semiconductor Physics and Devices (Book 3)*
+- *RF, Microwave, and Transceivers (Book 4)*
+- *Communications, Wireless, and SDR (Book 5)*
+- *Power and Energy (Book 6)*
+- *Packaging, Layout, EMC, and Test (Book 7)*
 
-**Life**
+**History**
 
-- *The Copy Is Never Exact*
+- *The Dolphins' View of History*
 
-**Mathematics and engineering**
-
-- *The Mathematics Tower*
-- *Foundations (EE Series, Book 1)*
-- *Core Circuits and Components (EE Series, Book 2)*
-
-**Novels**
+**Fiction**
 
 - *The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1)*
-- *Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1)*
+- *The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2)*
+- *Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1)*
+- *The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2)*
+- *Protocol Flamingo (The Invasion Storybooks, Book 1), as George Herbert Fontaine*
+
+**How-To**
+
+- *Your First Book That Sells*
+- *Your First YouTube Channel That Rocks*

@@ -1,4 +1,4 @@
-## Chapter 40: The Dolphins' Long View — What a Non-Human Species Makes of Human History
+## Seven Million Years to Today: The Dolphins' Long View — What a Non-Human Species Makes of Human History
 
 This book opened with a claim dolphin historians have now spent the rest of the book testing: that a big brain guarantees cleverness, and cleverness is not the same thing as wisdom, and only one of those two ever arrives on a reliable schedule.
 

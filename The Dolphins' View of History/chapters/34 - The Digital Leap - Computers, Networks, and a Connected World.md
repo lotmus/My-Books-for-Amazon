@@ -1,4 +1,4 @@
-## Chapter 34: The Digital Leap — Computers, Networks, and a Connected World
+## 1843 to 2007: The Digital Leap — Computers, Networks, and a Connected World
 
 The idea is older than the machine. In 1843 Ada Lovelace, the daughter of the poet Lord Byron, published what is generally regarded as the first computer program, an algorithm for a mechanical engine designed by Charles Babbage that he never managed to finish building, which dolphin historians identify as a very British way to invent a technology.
 

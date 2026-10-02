@@ -1,4 +1,4 @@
-## Chapter 23: Japan, Restoration, and Empire
+## 1853–1947: Japan, Restoration, and Empire
 
 Japan enters this part of the book carrying a cultural inheritance dolphins already respected long before the 19th century: centuries of courtly literature, Zen-influenced aesthetics, and craft traditions refined under more than two hundred years of deliberate isolation from the outside world.
 

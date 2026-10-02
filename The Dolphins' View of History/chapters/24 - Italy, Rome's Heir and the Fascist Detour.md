@@ -1,4 +1,4 @@
-## Chapter 24: Italy, Rome's Heir and the Fascist Detour
+## 1861–1946: Italy, Rome's Heir and the Fascist Detour
 
 Italy carries the longest cultural résumé in this part of the book. Rome itself, covered several chapters ago, is only the opening entry. A thousand years later, the Renaissance turned a handful of Italian city-states, Florence chief among them, into the densest concentration of art and science the book has yet recorded in one place: Leonardo da Vinci, Michelangelo, and, in the century that followed, Galileo, whose telescope observations helped force the entire Copernican argument onto the world's agenda.
 

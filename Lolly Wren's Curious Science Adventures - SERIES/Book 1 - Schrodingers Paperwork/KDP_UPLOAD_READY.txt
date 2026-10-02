@@ -15,12 +15,10 @@ FINAL FILES (Root Directory)
    - All physics lectures integrated and formatted
    - Ready for direct KDP upload or Kindle Create conversion
 
-2. KINDLE_COVER_FINAL.png
-   - 1024x1536 px (8-bit RGB). This clears KDP's real minimum (625x1000,
-     ~1.6:1 ratio) comfortably, but is NOT the "3000x4000+" this section
-     used to claim - that figure did not match any actual file. Fine for
-     standard Kindle Store/thumbnail display; if you later want print-on-demand
-     or a large promotional blowup, a higher-res re-export is worth doing first.
+2. KINDLE_COVER_FINAL_2560.jpg
+   - 1707x2560 px (2 Oct 2026: replaces the 1024x1536 KINDLE_COVER_FINAL.png,
+     which is now in bak\covers\ with the other old cover variants). Meets
+     KDP's recommended 2560 px long side.
    - Signals three reader audiences simultaneously:
      * Pratchett/Adams fans (absurdist humor)
      * Sci-fi readers (retro-futuristic London aesthetic)
@@ -44,7 +42,7 @@ METADATA FOR KDP ENTRY
 Title:                  Schrödinger's Paperwork
 Subtitle:               A Novel of Quantum Bureaucracy
 Series:                 Lolly Wren's Curious Science Adventures, Book 1
-Author:                 Q.E.D. (Quentin Edmund Darling)
+Author:                 Lothar J. Musiol
 Language:               English
 Word Count:             ~82,000 words (raw text count, verified 9/28/2026; the ~95,000 figure
                         this used to say did not match the actual manuscript)
@@ -106,12 +104,8 @@ NEXT STEPS FOR KDP UPLOAD
 2. Create new title (or edit existing if already in draft)
 3. Upload manuscript:
    - Use Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx directly
-   - OR convert to .mobi/.epub if preferred
 4. Upload cover:
-   - Use KINDLE_COVER_FINAL.png (1024x1536 - clears KDP's real minimum of
-     625x1000 at ~1.6:1, but is not especially high-res; fine for the
-     Kindle Store, worth re-exporting larger first only if you want it for
-     print-on-demand or a big promotional blowup)
+   - Use KINDLE_COVER_FINAL_2560.jpg (1707x2560)
 5. Enter metadata:
    - Copy title/subtitle/description from this package
    - Set keywords and categories as listed above
@@ -174,7 +168,7 @@ The description was one of three different drafts in circulation (two of
 which turned out to have identical body text under different filenames).
 KDP_DESCRIPTION_FINAL.txt is now the "KINDLE_OPTIMIZED" version, chosen over
 the longer alternative - if you'd rather use the longer one, it's preserved
-at English/drafts/kdp_description FINAL.txt.
+at bak/English/drafts/kdp_description FINAL.txt.
 
 Everything else in this file (positioning, comps, pricing recommendation,
 timeline) is the previous session's business/marketing judgment, not

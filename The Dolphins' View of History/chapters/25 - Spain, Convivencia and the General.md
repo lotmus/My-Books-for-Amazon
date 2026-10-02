@@ -1,4 +1,4 @@
-## Chapter 25: Spain, Convivencia and the General
+## Medieval Córdoba to 1981: Spain, Convivencia and the General
 
 Dolphin historians open this chapter earlier than its 20th-century subject, because Spain's pattern of genius and catastrophe has already run once before, on a different set of terms entirely.
 

@@ -1,6 +1,6 @@
 from pathlib import Path
 
-p = Path(__file__).resolve().parent.parent / "manuscript_text.txt"
+p = Path(__file__).resolve().parent / "manuscript_text.txt"  # build source lives in scripts\
 t = p.read_text(encoding="utf-8")
 pairs = []
 

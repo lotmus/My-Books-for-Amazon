@@ -7,16 +7,16 @@ Updated 1 October 2026. Platform facts were checked against KDP Help on 1 Octobe
 - **Title:** Your First Book That Sells
 - **Subtitle:** How to Publish and Make Good Money on Kindle: Real Royalties, Honest Reviews, and a Catalog That Pays
 - **Author:** Lothar J. Musiol
-- **Series:** none. *Your First YouTube Channel That Sells* is a companion book, not book 2 of a series.
+- **Series:** none.
 - **Edition:** Updated 1 October 2026
-- **Length:** about 33,400 words, 32 chapters in eight parts, three appendices, glossary, official sources
+- **Length:** about 33,700 words, 32 chapters in eight parts, three appendices, glossary, official sources
 - **Master file:** `Your First Book That Sells.docx` (book root). Docx only.
 
 ## Description (paste into KDP; plain paragraphs, under 4,000 characters)
 
 You finished the book. Now you need to know what one sale actually leaves you.
 
-Your First Book That Sells is two books in one cover. Part I is the short road: you follow June, a first-time mystery author, through one month of real decisions, with one action at the end of every chapter. Parts II to VIII are the full guide, with the arithmetic shown every time, for when you want to know exactly why each step works.
+Your First Book That Sells is two books in one cover. Part I is the short road: you follow one first-time author and her cozy mystery through one month of real decisions, with one action at the end of every chapter. Parts II to VIII are the full guide, with the arithmetic shown every time, for when you want to know exactly why each step works.
 
 Inside you will learn how to:
 

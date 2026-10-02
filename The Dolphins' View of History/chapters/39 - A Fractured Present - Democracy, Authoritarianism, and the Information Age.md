@@ -1,4 +1,4 @@
-## Chapter 39: A Fractured Present — Democracy, Authoritarianism, and the Information Age
+## 1991 to Today: A Fractured Present — Democracy, Authoritarianism, and the Information Age
 
 The Soviet Union's 1991 dissolution produced a mood, widely shared among Western observers at the time, that history's central argument over how societies should be governed had been settled in democracy's favor, more or less for good. The following three decades did not confirm that mood.
 

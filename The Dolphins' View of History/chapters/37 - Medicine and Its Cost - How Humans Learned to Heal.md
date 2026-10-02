@@ -1,4 +1,4 @@
-## Chapter 37: Medicine and Its Cost — How Humans Learned to Heal
+## 1796 to Today: Medicine and Its Cost — How Humans Learned to Heal
 
 This chapter's technology, unlike most others in this book, is aimed entirely inward — not at the physical world, and not at other humans as adversaries, but at the human body's own failures.
 

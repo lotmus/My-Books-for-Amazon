@@ -82,7 +82,7 @@ Do not reverse this block. An earlier save had every lecture paragraph backwards
 - Jack Nashville is not Jack Bellboy. Bellboy is the Book 1 figure. The one Book 2 mention, "Bellboy's number", stays.
 - The fourteen citizens: Ellen Prosper in Peterhead, and thirteen others elsewhere.
 
-Book 1 places and voices: `Book 1 - Schrodingers Paperwork/CHARACTER_AND_PLACE_GUIDE.md`.
+Book 1 places and voices: `Book 1 - Schrodingers Paperwork/notes/CHARACTER_AND_PLACE_GUIDE.md`.
 
 ## Gideon
 

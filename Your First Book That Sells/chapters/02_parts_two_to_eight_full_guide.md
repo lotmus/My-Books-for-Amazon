@@ -3,7 +3,9 @@
 ## Before the Full Guide
 
 
-This book makes you one promise: every number in it comes with the arithmetic attached. When it says a 70% royalty, it shows you what’s subtracted before that 70% ever reaches your account. When it says a category trick works, it tells you which part is a documented KDP mechanism and which part is a reasonable-but-unverifiable inference about how the algorithm behaves. When a chart is illustrating a shape rather than a disclosed statistic — a pricing curve, a launch-week effect, a backlist compounding over years — its caption says so, in words, on the chart itself. Nobody selling you a course about “the Amazon algorithm” actually has its source code, and a book that pretends otherwise is the first warning sign covered in Chapter 28.
+Part I walked one book through one month with rounded numbers and one action per chapter. The full guide covers the same ground again, slower and in production order: the landscape and the money (Part II), making the book (Part III), getting it found (Part IV), the business plumbing (Part V), the long game (Part VI), and two topics in depth, reviews and AI (Parts VII and VIII). Where Part I already gave a rule in full, the chapters here point back to it rather than repeat it.
+
+The full guide makes you one promise: every number in it comes with the arithmetic attached. When it says a 70% royalty, it shows you what’s subtracted before that 70% ever reaches your account. When it says a category trick works, it tells you which part is a documented KDP mechanism and which part is a reasonable-but-unverifiable inference about how the algorithm behaves. When a chart is illustrating a shape rather than a disclosed statistic — a pricing curve, a launch-week effect, a backlist compounding over years — its caption says so, in words, on the chart itself. Nobody selling you a course about “the Amazon algorithm” actually has its source code, and a book that pretends otherwise is the first warning sign covered in Chapter 28.
 
 Say the goal plainly, since the title already does: the point of everything that follows is making real, durable money from what you publish, not admiring the craft of publishing for its own sake. Most of what actually stands between a finished manuscript and real income isn’t talent — it’s a specific, learnable set of hurdles: an empty review section that makes cold traffic distrust an otherwise good page, a price picked by guesswork instead of arithmetic, a category chosen for ego instead of visibility, a scam that extracts money before the book has sold a single copy, a first year of income too thin to notice before the compounding in Chapter 29 has a chance to start. Every chapter ahead exists to get you past one specific hurdle on that list, in order, not to make you a more refined hobbyist.
 
@@ -52,21 +54,21 @@ Before categories, before keywords, before a single dollar of advertising — yo
 
 KDP offers two ebook royalty plans, and — this trips up a lot of new authors — which one you get is determined automatically by your list price, not chosen as a marketing strategy:
 
-70% royalty, available when your list price falls within the plan’s price band for that marketplace (as of this writing, $2.99–$12.99 in the US store — expanded from a $9.99 ceiling that had stood since 2007, effective July 2026 — with corresponding bands in other currencies), minus a delivery fee based on the file’s size — historically about $0.15 per megabyte. This plan also carries a “don’t undercut yourself” rule: KDP can decline the 70% rate if you’re offering the same book for less somewhere else. The expansion is opt-in for existing titles: a book already priced between $10 and $12.99 stays on the 35% plan until you go into Rights & Pricing and switch it by hand — the wider band doesn’t apply itself.
+70% royalty, available when your list price falls within the plan’s price band for that marketplace (as of this writing, $2.99–$12.99 in the US store — expanded from a $9.99 ceiling that had stood since 2007, effective July 2026 — with corresponding bands in other currencies), after a delivery fee based on the file’s size — about $0.15 per megabyte in the US store — is taken off the list price. The 70% applies to what is left: 0.70 × (list price − any VAT − delivery), the same formula Chapter 3 uses. This plan also carries a “don’t undercut yourself” rule: KDP can decline the 70% rate if you’re offering the same book for less somewhere else. The expansion is opt-in for existing titles: a book already priced between $10 and $12.99 stays on the 35% plan until you go into Rights & Pricing and switch it by hand — the wider band doesn’t apply itself.
 
 > **This number will move again.** The ceiling sat at $9.99 for nineteen years before this book was written, then changed. Every dollar figure in this book is a snapshot, not a law of nature — KDP changes royalty splits, price bands, and delivery-fee rates on its own schedule, with no obligation to announce it loudly. Check the current numbers on KDP’s own Pricing Page before you act on anything in this chapter; if it disagrees with a number printed here, KDP is right and this book is out of date.
 
-35% royalty, available at any price from $0.99 up to $200, with no delivery fee subtracted. This is the only plan available outside the 70% price band — price a book at $1.99 or $12.99 and you’re on 35% automatically, whether you meant to be or not.
+35% royalty, available at any price from $0.99 up to $200, with no delivery fee subtracted. This is the only plan available outside the 70% price band — price a book at $1.99 or $13.99 and you’re on 35% automatically, whether you meant to be or not.
 
 That’s the cliff: price one cent outside the 70% band and your royalty rate doesn’t taper, it drops by half. A worked example makes the stakes concrete.
 
-> Worked example. A 350-page ebook, roughly 1.2 MB as an EPUB, priced at $4.99:
+> Worked example. A 350-page ebook, about 2 MB as Amazon converts it, priced at $4.99, no VAT:
 
-At 70%: $4.99 × 0.70 = $3.493, minus a delivery fee of roughly 1.2 MB × $0.15 ≈ $0.18. Net royalty ≈ $3.31 per copy.
+At 70%: delivery is 2 MB × $0.15 = $0.30, taken off first, so 0.70 × ($4.99 − $0.30) ≈ $3.28 per copy, the same keep as the $4.99 line in Chapter 3.
 
 At 35% (say the author instead priced it at $2.49, just under the band): $2.49 × 0.35 = $0.87 per copy — with no delivery fee to subtract, but also less than a third of the higher price’s payout.
 
-> Pricing $2.50 lower cost this author roughly $2.44 per sale, not $0.87. That gap is the whole reason Chapter 23 spends as much time on pricing psychology as it does — the 70% band isn’t a suggestion, it’s where almost every nonfiction ebook in this genre should live unless there’s a specific reason not to.
+> Pricing $2.50 lower cost this author roughly $2.41 per sale, not $0.87. That gap is the whole reason Chapter 23 spends as much time on pricing psychology as it does — the 70% band isn’t a suggestion, it’s where almost every nonfiction ebook in this genre should live unless there’s a specific reason not to.
 
 ![figure](../figures/fig02.png)
 
@@ -78,7 +80,7 @@ If you enroll a book in KDP Select (Chapter 27 covers the exclusivity trade-off 
 
 > Worked example. A 300-KENPC-page book fully read by one subscriber, in a month where the fund pays $0.0045/page: 300 × $0.0045 = $1.35 for that one full read — comparable to, sometimes less than, a single 70%-royalty sale, but earned from a reader who might never have paid $4.99 up front. Whether that trade is good for your book is exactly the question Chapter 27 answers.
 
-For a sense of scale with a real book instead of a round number: this book runs about 34,000 words. Amazon doesn’t publish its exact KENPC formula, but the figure self-publishers have reverse-engineered by comparing known word counts against observed KENPC values clusters around 250 words per normalized page — which would put this book at roughly 135 KENPC pages, and one full Kindle Unlimited read of it at around $0.60 at the rate used above. Treat that as an estimate, not a receipt; the point is that a word count and a KU payout are the same number wearing different clothes.
+For a sense of scale with a real book instead of a round number: this book runs about 33,700 words. Amazon doesn’t publish its exact KENPC formula, but the figure self-publishers have reverse-engineered by comparing known word counts against observed KENPC values clusters around 250 words per normalized page — which would put this book at roughly 135 KENPC pages, and one full Kindle Unlimited read of it at around $0.60 at the rate used above. Treat that as an estimate, not a receipt; the point is that a word count and a KU payout are the same number wearing different clothes.
 
 ### Print: paperback and hardcover
 
@@ -86,7 +88,7 @@ Print royalties don’t use a percentage-of-price plan the way ebooks do; they u
 
 Royalty = (List Price × Royalty Rate) − Printing Cost
 
-Paperback, sold through Amazon’s own store: 60% royalty rate.
+Paperback, sold through Amazon’s own store: 60% royalty rate at a list price of $9.99 or more on Amazon.com, 50% below that (Chapter 3 works both cases; other marketplaces set their own dividing line).
 
 Paperback through expanded distribution (third-party retailers, bookstores, and libraries KDP can place the book with beyond Amazon itself): 40% royalty rate — the same list price, a smaller share, and worth checking on a book-by-book basis whether it’s worth opting into.
 
@@ -98,7 +100,7 @@ Printing cost is not a number you pick — KDP calculates it from page count, tr
 
 ### Reading your own numbers
 
-Everything above is policy, which changes; your KDP Reports dashboard is fact, which doesn’t. Once a book is live, check the Sales Dashboard for units and estimated royalties in near-real time, and the Prior Months’ Royalties report once a month closes for the exact, finalized figures (including that month’s KENP rate). Get in the habit of reading it weekly during a launch and monthly afterward — it’s the only source in this entire book that’s about your book specifically rather than the platform in general, and every other chapter’s advice should eventually show up as a change in these numbers.
+Everything above is policy, which changes; your KDP Reports dashboard is fact, which doesn’t. Chapter 26 explains which of its reports to trust for what. Get in the habit of reading them weekly during a launch and monthly afterward — they are the only source in this entire book that’s about your book specifically rather than the platform in general, and every other chapter’s advice should eventually show up as a change in these numbers.
 
 # Part III — Writing and Producing the Book
 
@@ -162,7 +164,7 @@ These are genuinely different skills, and treating them as one pass — “I’l
 
 *Figure 19.1 — Four genuinely different passes, run in order, ending in a manuscript that’s actually ready for Chapter 20 — not four names for the same read-through.*
 
-> Case study: what “professional-grade” editing actually looks like in practice. One real example: a long technical nonfiction manuscript went through three separate independent review passes after its first “complete” draft — each one specifically briefed to hunt for what the previous pass missed rather than re-check settled items, each one independently re-deriving every worked numerical example from scratch rather than trusting the displayed answer. The three passes together found and fixed 13, then 21, then 18 confirmed issues — genuine arithmetic errors, a claim that quietly contradicted the book’s own stated formula two paragraphs earlier, cross-references pointing at the wrong chapter after a renumbering, and (twice) a fix from an earlier pass that had itself introduced a new, smaller inconsistency. A separate manuscript was put through a dedicated mechanical sweep for overused qualifier words — “roughly,” “essentially,” “itself” — appearing twice on the same page, catching 111 instances a normal read-through had sailed past every time, because a reader’s eye and a targeted script are looking for different things. The lesson isn’t “hire three editors” if your budget doesn’t allow it — it’s that the errors still in your manuscript after one careful read are, almost by definition, the ones a normal read doesn’t catch. Budget at least one pass that is specifically not just reading the book again: a fact-check pass, a consistency script, a reader who has never seen the manuscript before.
+> Illustration: what “professional-grade” editing looks like in practice. Picture a long technical handbook put through three separate review passes after its first “complete” draft — each one briefed to hunt for what the previous pass missed rather than re-check settled items, and each one re-deriving every worked numerical example from scratch rather than trusting the displayed answer. A process like that keeps finding a fresh batch of real problems on every pass: arithmetic errors, a claim that quietly contradicts the book’s own formula two paragraphs earlier, cross-references pointing at the wrong chapter after a renumbering, and sometimes a fix from an earlier pass that introduced a new, smaller inconsistency of its own. A mechanical sweep is a different tool again: a simple search for overused qualifier words — “roughly,” “essentially,” “itself” — appearing twice on the same page can turn up dozens of repeats in a cookbook or a memoir that a normal read-through sails past every time, because a reader’s eye and a targeted script are looking for different things. The lesson isn’t “hire three editors” if your budget doesn’t allow it — it’s that the errors still in your manuscript after one careful read are, almost by definition, the ones a normal read doesn’t catch. Budget at least one pass that is specifically not just reading the book again: a fact-check pass, a consistency script, a reader who has never seen the manuscript before.
 
 ### Where AI genuinely helps, and where the line is
 
@@ -354,7 +356,7 @@ For a series or a closely related set of nonfiction guides, price is a strategic
 
 ### Discount tools, honestly described
 
-KDP Select enrollment (Chapter 27) unlocks Free Book Promotions — a limited number of days where an enrolled book can be offered free directly on Amazon, useful for a launch push or to re-energize a backlist title’s visibility. The alternative in each 90-day term is a Kindle Countdown Deal: a discount of up to seven days, on Amazon.com and Amazon.co.uk only, once the book has been enrolled for at least 30 days, and you keep your selected royalty rate during the deal, even below $2.99. You get one or the other per term, never both. These tools have changed before, so check the KDP Select pages for what is offered today rather than relying on an older blog post.
+KDP Select enrollment (Chapter 27) unlocks Free Book Promotions — a limited number of days where an enrolled book can be offered free directly on Amazon, useful for a launch push or to re-energize a backlist title’s visibility. The alternative in each 90-day term is a Kindle Countdown Deal, a short scheduled discount that keeps your selected royalty rate even below $2.99; idea 9 in Chapter 8 lists its eligibility and list-price rules. You get one or the other per term, never both. These tools have changed before, so check the KDP Select pages for what is offered today rather than relying on an older blog post.
 
 This chapter covers pricing at the level every book needs. Chapter 31 goes much further into one specific piece of it — the mechanics of *when* to move the price and why, tied to the review-seeding timeline — for anyone who wants the deeper tactical version once the basics here are settled.
 
@@ -406,7 +408,9 @@ An ad is profitable exactly when its ACOS is below your break-even ACOS — the 
 
 Break-even ACOS ≈ Royalty per Copy ÷ Sale Price × 100%
 
-> Worked example. A $4.99 ebook earning a $3.31 net royalty (Chapter 17’s worked example) has a break-even ACOS of 3.31 ÷ 4.99 ≈ 66%. Spend $10 in ads and sell three copies attributed to that spend (royalty: $9.93) and your actual ACOS is 10 ÷ 9.93 ≈ 101% — losing money on the ad, even though it “worked” in the sense of generating sales. The same $10 spend producing five sales (royalty: $16.55) gives an ACOS of 10 ÷ 16.55 ≈ 60% — under the 66% break-even line, and genuinely profitable.
+> Worked example. A $4.99 ebook earning a $3.28 royalty (Chapter 17’s worked example, the same keep as Chapter 3) has a break-even ACOS of 3.28 ÷ 4.99 ≈ 66%. Spend $10 in ads and sell two copies attributed to that spend ($9.98 in sales, $6.56 in royalty) and your ACOS is 10 ÷ 9.98 ≈ 100% — about $3.44 lost on the ad, even though it “worked” in the sense of generating sales. The same $10 spend producing five sales ($24.95 in sales, $16.40 in royalty) gives an ACOS of 10 ÷ 24.95 ≈ 40% — under the 66% break-even line, and about $6.40 ahead.
+
+Chapter 9 runs the same test from the other end, as the most a single click can cost before it eats the keep. Use whichever form your ad screen makes easier to read; they give the same answer.
 
 Break-even is a floor, not a target. Community-reported benchmarks among self-published authors commonly put a healthy target ACOS for a single nonfiction title with no backend series well below that floor — often cited in the 20–35% range — with more room to run a break-even or slightly negative campaign on a series book that has real read-through behind it. Expect the first thirty to sixty days of any new campaign to run hotter than your real target while it gathers the data described below; a high ACOS in that window is normal, not a verdict on the book.
 
@@ -494,13 +498,13 @@ Going wide means distributing the ebook to multiple retailers and library platfo
 
 A reasonable default for a new author with no existing data: enroll the first book (or series) in Select for one 90-day term, watch the actual page-read numbers against what wide distribution would plausibly have earned, and make the next term’s decision from real data instead of a genre-wide generalization.
 
-> Worked example. A 300-KENPC-page nonfiction ebook at $4.99 (net 70% royalty ≈ $3.31/copy after the delivery fee, per Chapter 17), against 300 reader engagements over one 90-day term:
+> Worked example. A 300-KENPC-page nonfiction ebook at $4.99 (70% royalty ≈ $3.28/copy after the delivery fee, per Chapter 17), against 300 reader engagements over one 90-day term:
 
-All 300 as direct purchases, wide distribution, comparable net across stores: 300 × $3.31 ≈ **$993** for the term.
+All 300 as direct purchases, wide distribution, comparable net across stores: 300 × $3.28 ≈ **$984** for the term.
 
-The same 300 readers under Select, but 120 of them read the book in full through Kindle Unlimited instead of buying it (at Chapter 17’s illustrative $0.0045/page rate): 180 direct sales (180 × $3.31 ≈ $595.80) plus 120 full KU reads (120 × 300 pages × $0.0045 ≈ $162) ≈ **$757.80**.
+The same 300 readers under Select, but 120 of them read the book in full through Kindle Unlimited instead of buying it (at Chapter 17’s illustrative $0.0045/page rate): 180 direct sales (180 × $3.28 ≈ $590.40) plus 120 full KU reads (120 × 300 pages × $0.0045 ≈ $162) ≈ **$752.40**.
 
-In this illustration, wide comes out ahead per reader, because a full KU read at $1.35 is worth less than a $3.31 sale. Select only wins the comparison when it brings in readers who would not have bought at $4.99 at all — a number this book cannot supply for your specific book, your genre, or your audience. That missing number is exactly why the advice above is to run one real term and read your own dashboard, not to trust this arithmetic, or anyone else’s, for a decision this dependent on who your actual readers are.
+In this illustration, wide comes out ahead per reader, because a full KU read at $1.35 is worth less than a $3.28 sale. Select only wins the comparison when it brings in readers who would not have bought at $4.99 at all — a number this book cannot supply for your specific book, your genre, or your audience. That missing number is exactly why the advice above is to run one real term and read your own dashboard, not to trust this arithmetic, or anyone else’s, for a decision this dependent on who your actual readers are.
 
 > **Certainty, labeled.** Kindle Unlimited tends to matter most for genres with heavy series readers who consume books quickly (romance, fantasy, thriller fiction, in particular) and matters less for many nonfiction categories, where a reader may buy once rather than subscribe-and-binge. That is a widely observed pattern among authors, not a KDP-published rule — “tends to” is not a guarantee for your specific book, which is exactly why testing one real term beats assuming either way.
 
@@ -564,7 +568,7 @@ A reader who finishes your first book is shown your other books directly, on you
 
 There’s a second, quieter compounding effect: the fixed costs of learning this whole system are paid once. The time spent learning to navigate KDP’s upload flow, understanding your own ad account well enough to run a profitable campaign, developing a cover style that reads correctly for your category, building an ARC team and an email list — none of that resets to zero for book two. Book two of a well-run catalog typically takes meaningfully less total effort to launch than book one did, for the simple reason that most of that effort was fixed-cost learning, not per-book labor.
 
-> Case study: planning for compounding from day one. One real example: a technical nonfiction series was planned from the start as many separate, topic-sized books rather than as a single giant volume — explicitly so that each finished book would immediately extend the discoverability and “more by this author” surface of every other book already published, instead of asking one enormous, slow-to-finish book to carry the entire catalog’s earning potential alone. A broader catalog built the same way often spans several genuinely different categories at once, which spreads risk the same way a diversified small-business portfolio does: a slow month or an algorithm change affecting one category doesn’t take down income from the others at the same time. Neither choice — many small books in one series, or several unrelated catalogs at once — is the “correct” one in isolation; both are the same underlying principle (a catalog compounds; a single book doesn’t) applied to two different situations.
+> Illustration: planning for compounding from day one. Picture a beginner’s guide to a hobby planned from the start as a set of separate, topic-sized books — getting started, the common mistakes, the first big project — rather than as a single giant volume, so that each finished book immediately extends the discoverability and “more by this author” surface of every book already published, instead of asking one enormous, slow-to-finish book to carry the entire catalog’s earning potential alone. Another author might run two unrelated lines at once, say a cozy mystery series and a set of regional cookbooks, which spreads risk the same way a diversified small-business portfolio does: a slow month or an algorithm change affecting one category doesn’t take down income from the other at the same time. Neither choice — many small books in one series, or several unrelated catalogs at once — is the “correct” one in isolation; both are the same underlying principle (a catalog compounds; a single book doesn’t) applied to two different situations.
 
 ![figure](../figures/fig14.png)
 
@@ -634,7 +638,7 @@ As in every other chapter, Amazon’s written rules are treated here as real con
 
 > **Terms used in this chapter.** ARC: advance reader copy, sent before the book is live. KU / Select: Kindle Unlimited and KDP Select, Amazon’s borrow-and-subscription program. ASIN: the product ID a book receives on publication — no review can post before it exists. EPUB: the reflowable file format every e-reader except Kindle actually wants.
 
-A note on the examples ahead: the public field reports this chapter can actually check — named authors, real numbers, a real launch date — mostly come from fiction, because fiction authors publish that kind of detail far more often than nonfiction authors do. The mechanics don’t care: a review-eligibility rule, a royalty band, and a launch-week concentration effect work identically on a novel and a how-to guide. Read “book one” and “series” below as your nonfiction title and your line of related titles (Chapter 29) — the arithmetic transfers directly, even where the example doesn’t.
+A note on the examples ahead: the public field reports this chapter can actually check — published accounts, real numbers, a real launch date — mostly come from fiction, because fiction authors publish that kind of detail far more often than nonfiction authors do. The mechanics don’t care: a review-eligibility rule, a royalty band, and a launch-week concentration effect work identically on a novel and a how-to guide. Read “book one” and “series” below as your nonfiction title and your line of related titles (Chapter 29) — the arithmetic transfers directly, even where the example doesn’t.
 
 ### Selling a few copies is not a business
 
@@ -680,25 +684,25 @@ A KDP Select free day is not a substitute for this. Free downloads don’t count
 
 ### Price: what KDP will pay you
 
-On Amazon.com, the 70 percent ebook option applies whenever your list price sits inside the published band — $2.99 to $12.99 after the July 2026 expansion — and you’ve actually selected that option at upload. Outside that band, you earn 35 percent instead. A delivery cost, on the order of $0.15 per megabyte of the file, is deducted under the 70 percent plan and not under the 35 percent one. For a lean text file, 70 percent is unambiguously the better choice anywhere inside the band; a heavily illustrated file can eat into that advantage, so check your actual file size before assuming the percentage tells the whole story.
+Chapters 3 and 17 set out the two ebook options: 70 percent inside the $2.99–$12.99 band on Amazon.com, once you select it, with the delivery charge taken off the price first, and 35 percent outside the band with no delivery charge. This section applies that rule to launch and series pricing rather than restating it.
 
-> **Worked example.** A price-by-price picture, approximate, 2 MB file, 70 percent selected — delivery fee (~$0.15/MB × 2MB = $0.30) subtracted wherever 70 percent applies, per the rule above:
+> **Worked example.** A price-by-price picture, approximate, 2 MB file, no VAT, 70 percent selected — 0.70 × (price − $0.30 delivery) wherever 70 percent applies, the same keeps as Chapter 3:
 
 | List price | Typical royalty band | Rough net / sale | Job of this price |
 |---|---|---|---|
 | $0.99 | 35% | ~$0.35 | Launch spike or loss-leader. Never the forever price of a lone book. |
-| $2.99 | 70% | ~$1.79 | Floor of serious money. Default if unsure. |
-| $3.99–$4.99 | 70% | ~$2.49–$3.19 | Genre fiction’s long-term home for many series mid-books. |
-| $5.99–$7.99 | 70% | ~$3.89–$5.29 | Longer work, established name, or dense nonfiction. |
-| $9.99–$12.99 | 70% if option on | ~$6.69–$8.79 | Only if comps and proof support it. Debut novels rarely. |
+| $2.99 | 70% | ~$1.88 | Floor of serious money. Default if unsure. |
+| $3.99–$4.99 | 70% | ~$2.58–$3.28 | Genre fiction’s long-term home for many series mid-books. |
+| $5.99–$7.99 | 70% | ~$3.98–$5.38 | Longer work, established name, or dense nonfiction. |
+| $9.99–$12.99 | 70% if option on | ~$6.78–$8.88 | Only if comps and proof support it. Debut novels rarely. |
 | $1.99 | 35% | ~$0.70 | The 35% trap dressed up as a friendly compromise. Worse net than $2.99 despite looking cheaper to the reader. |
 | $13+ | 35% (outside the band) | high in isolation | The royalty math is fine alone; a debut rarely has the comps or proof to hold that price, so volume collapses before the math gets to matter. |
 
 The important comparison here is that $2.99 at 70 percent usually earns more per copy than $1.99 at 35 percent does, and often earns more than a higher price that would have fallen outside the band before the July 2026 expansion. Don’t price at $1.99 in an attempt to “meet readers halfway” — doing so leaves most of that copy’s actual value on the table.
 
-Here’s the same math worked through for a heavier file: a 20 MB illustrated nonfiction title priced at $9.99 with the 70 percent option selected. Royalty: $9.99 × 0.70 = $6.99. Delivery fee: $0.15/MB × 20 MB = $3.00. Net: roughly **$4.00** — well below the $6.69–$8.79 the table above shows for a lean 2 MB file at a similar price. The royalty percentage never changed; the file size did all the damage. Compress your images before trusting any of these figures for your own book, and rerun the math on [Kindlepreneur’s KDP royalty calculator](https://kindlepreneur.com/kdp-royalty-calculator/) using your file’s actual size rather than the 2 MB assumption this chapter has used throughout.
+Here’s the same math worked through for a heavier file: a 20 MB illustrated nonfiction title priced at $9.99 with the 70 percent option selected. Delivery fee: $0.15/MB × 20 MB = $3.00, taken off first. Royalty: 0.70 × ($9.99 − $3.00) ≈ **$4.89** — well below the $6.78–$8.88 the table above shows for a lean 2 MB file at a similar price. The royalty percentage never changed; the file size did all the damage. Compress your images before trusting any of these figures for your own book, and rerun the math on [Kindlepreneur’s KDP royalty calculator](https://kindlepreneur.com/kdp-royalty-calculator/) using your file’s actual size rather than the 2 MB assumption this chapter has used throughout.
 
-Print is an entirely separate ledger from the ebook math above. Paperback royalties are calculated as list price minus print cost, times the print royalty rate — and Amazon has tightened that rate in recent years on lower-priced paperbacks specifically. Don’t let a paperback’s list price influence your ebook price out of vanity, and don’t set a paperback’s price so low that the print cost simply eats the royalty; the print cost doesn’t care how proud you are of the cover.
+Print is an entirely separate ledger from the ebook math above: the print rate times the list price, minus the print cost (Chapters 3 and 17), with the rate on Amazon.com dropping from 60 to 50 percent below a $9.99 list price. Don’t let a paperback’s list price influence your ebook price out of vanity, and don’t set a paperback’s price so low that the print cost simply eats the royalty; the print cost doesn’t care how proud you are of the cover.
 
 ### Initial price versus later price
 
@@ -747,7 +751,7 @@ If the title is enrolled in Select, a $0.99 or free window still pays you when K
 
 ### The constraint that keeps the money
 
-Amazon’s own help text is fairly direct on this: you may give away a free or discounted copy, but you may not require a review in exchange, steer what it says, or add any other gift. Friends, employees, and author-for-author review swaps all sit outside what Amazon considers acceptable here. An unverified advance-copy review still displays publicly — it simply lacks the Verified Purchase badge. Chasing that badge by refunding readers after they buy is exactly the kind of pattern that gets listings cleaned out.
+Chapter 6 gave the rule in one line: a free or discounted copy is allowed, but a required, steered, or rewarded review is not. Friends, employees, and author-for-author review swaps all sit outside what Amazon considers acceptable here. An unverified advance-copy review still displays publicly — it simply lacks the Verified Purchase badge. Chasing that badge by refunding readers after they buy is exactly the kind of pattern that gets listings cleaned out.
 
 Enforcement here has only gotten more aggressive over time, not less: Amazon has spent the last several years actively pulling flagged reviews — incentivized, traded, or machine-written — and closing accounts on both sides of that trade. One genuine, unsolicited paragraph from an actual stranger now outlasts a hundred purchased five-star ratings that simply vanish in the next enforcement sweep. Confirm the current Community Guidelines before you build any kind of reviewer roster; this is the part of the rulebook that changes the most often.
 
@@ -831,7 +835,7 @@ A bounded BookSirens experiment — a listing fee plus a few dollars per reader 
 
 ### After the listing can bear traffic
 
-Recall that Select is a ninety-day exclusivity commitment that pays out Kindle Unlimited page reads and offers either five free promotional days or a Kindle Countdown Deal. Free days used after you have proof the book converts, and actually announced to someone, can genuinely acquire new readers. Free days used before you have that proof, announced to no one, are a tree falling in an empty forest. A Countdown Deal keeps your list price and 70 percent royalty intact as long as you stay inside the band — it’s built for books that are already selling, not for books trying to find their first readers.
+Select’s terms are in Chapter 27: ninety days of ebook exclusivity, page-read income, and either free promotional days or a Kindle Countdown Deal in each term. Free days used after you have proof the book converts, and actually announced to someone, can genuinely acquire new readers. Free days used before you have that proof, announced to no one, are a tree falling in an empty forest. A Countdown Deal keeps your 70 percent royalty during the discount, even below $2.99 — it’s built for books that are already selling, not for books trying to find their first readers.
 
 If you decline Select and go wide instead, Draft2Digital reaches other retail stores and library vendors — just uncheck Amazon in its distribution settings, since Amazon is handled directly through KDP. Library licenses are a slow secondary market that develops over time, not something to expect results from during launch week. A permanently free book one lives entirely in the wide-distribution world; it has no place inside Select.
 
@@ -849,13 +853,9 @@ Ads belong in this sequence only after the review module is no longer empty and 
 6. Once book two exists, decide deliberately whether book one should become bait for it, and put the actual margin on whichever titles are positioned to collect it.
 7. Only after all of that, spend on free promotional windows, newsletters, or ads — treating the page as an actual product rather than a plea for attention.
 
-##### Letters
+The letters for each step — invitation, confirmation, delivery, live page, and the one follow-up — are in Chapter 13, ready to copy. The live-page letter can link straight to Amazon’s review form, with your own ASIN in place of the placeholder:
 
-> You are confirmed for an advance copy of [Title]. File on [date]. Live [date]. An honest review after publication would help the book find strangers. It is not required. No rating is requested. If the date fails, reply and you are removed.
-
-> The file is ready. I will send the Amazon address on publication morning. Write what you think, or write nothing.
-
-> The book is live. Optional honest review: https://www.amazon.com/review/create-review?asin=YOURASIN
+https://www.amazon.com/review/create-review?asin=YOURASIN
 
 ### Field reports — what published accounts actually show
 
@@ -863,27 +863,27 @@ Ads belong in this sequence only after the review module is no longer empty and 
 
 #### This book’s approach, in the wild
 
-##### Daniel Arenson, *Earth Alone* (BookBub Partners, 2016)
+##### An established science-fiction author’s series launch (BookBub Partners case study, 2016)
 
-Arenson was not a first-time author, and that fact is part of the lesson here. Two weeks before launch, he sent digital advance copies to forty readers through BookFunnel, and about half of them posted a review on launch day. He also placed short quotes in the editorial-review field on the product page, which is a separate thing from the customer-review module itself. He launched at $0.99 and raised the price to $2.99 within a week. Over the first seven weeks, the book sold more than 20,000 copies plus a substantial amount of Kindle Unlimited reading, and Arenson has said explicitly that his mailing list did more for the launch than any single other tactic.
+The author was not a first-timer, and that fact is part of the lesson here. Two weeks before launch, he sent digital advance copies to forty readers through BookFunnel, and about half of them posted a review on launch day. He also placed short quotes in the editorial-review field on the product page, which is a separate thing from the customer-review module itself. He launched at $0.99 and raised the price to $2.99 within a week. Over the first seven weeks, the book sold more than 20,000 copies plus a substantial amount of Kindle Unlimited reading, and the author has said explicitly that his mailing list did more for the launch than any single other tactic.
 
-What’s worth copying here: the two-week advance-copy window, using BookFunnel as delivery plumbing, and a planned price raise after launch. What’s not worth copying blindly: opening at $0.99 with no list and no sequel of your own — Arenson was effectively buying rank with a crowd he already owned.
+What’s worth copying here: the two-week advance-copy window, using BookFunnel as delivery plumbing, and a planned price raise after launch. What’s not worth copying blindly: opening at $0.99 with no list and no sequel of your own — this author was effectively buying rank with a crowd he already owned.
 
-##### Cindy L. Sell, *Remnants* (BookBub Partners interview, 2024)
+##### A debut novelist’s launch (BookBub Partners interview, 2024)
 
-This is a debut closer to what most first-time authors actually face. Sell built her advance-reader roster using a Google Form, social media posts, BookFunnel delivery, and BookSirens — the latter producing nine readers and seven reviews, some of them usefully detailed. Goodreads filled up first, reaching around 120 ratings before Amazon’s review count caught up. She priced the ebook at $3.99 and didn’t discount it immediately, and a week after launch reported more than 200 copies sold. The features that actually moved units were a BookBub New Releases for Less placement and an advance-access email blast — not the ARC team on its own.
+This is a debut closer to what most first-time authors actually face. The author built her advance-reader roster using a Google Form, social media posts, BookFunnel delivery, and BookSirens — the latter producing nine readers and seven reviews, some of them usefully detailed. Goodreads filled up first, reaching around 120 ratings before Amazon’s review count caught up. She priced the ebook at $3.99 and didn’t discount it immediately, and a week after launch reported more than 200 copies sold. The features that actually moved units were a BookBub New Releases for Less placement and an advance-access email blast — not the ARC team on its own.
 
 What’s worth copying: pairing a sign-up form with a capped matching service, holding at $3.99 when you don’t yet have a sequel to recover the cost of a $0.99 week, and treating a service like BookSirens as a quality supplement rather than your main pipeline. Treat any extra physical gifts as entirely off-limits if they’re tied to an Amazon review in any way — Amazon’s rule remains that the free copy of the book is the only allowed concession.
 
-##### Michael Anderle and the 20Booksto50K philosophy (multiple interviews, 2017–2024)
+##### The 20Booksto50K philosophy (an indie publisher, multiple interviews, 2017–2024)
 
-This one isn’t a single launch, and isn’t quite this chapter’s usual kind of case study — it’s a publishing philosophy, documented on the record across many interviews rather than as one countable event. Anderle, through LMBPN Publishing, built a catalog of several hundred titles around a stated unit target: roughly $7.50 in royalty per book per day as the bar a title needs to clear to remain worth active promotion, a figure he has repeated consistently across interviews rather than asserted just once. The name “20Booksto50K” describes the broader movement that his and Judith Anderle’s talks helped start — prioritizing volume and catalog depth over any single book’s individual performance, with book one deliberately priced to move readers into the later books that actually carry the margin.
+This one isn’t a single launch, and isn’t quite this chapter’s usual kind of case study — it’s a publishing philosophy, documented on the record across many interviews rather than as one countable event. The publisher behind it, through LMBPN Publishing, built a catalog of several hundred titles around a stated unit target: roughly $7.50 in royalty per book per day as the bar a title needs to clear to remain worth active promotion, a figure he has repeated consistently across interviews rather than asserted just once. The name “20Booksto50K” describes the broader movement that the press’s founders helped start through their talks — prioritizing volume and catalog depth over any single book’s individual performance, with book one deliberately priced to move readers into the later books that actually carry the margin.
 
 What’s worth copying: setting a stated per-unit bar instead of relying on a vague sense that a book is “selling okay,” and deliberately treating book one as an acquisition cost at full catalog scale. What’s not worth copying blindly: this model assumes a catalog large enough that the bar can be measured across dozens of titles at once — [as discussed across multiple interviews](https://starkreflections.ca/2021/02/19/episode-178-the-wide-world-vision-of-judith-and-michael-anderle-of-lmbpn-publishing/) — rather than a debut author’s single book, which has no fleet-wide average to fall back on.
 
 ##### A composite pattern, illustrative only (not a single checkable source)
 
-Unlike the two named cases above, this one doesn’t actually clear this book’s own bar for a real case study — it comes secondhand, from a formatter describing unnamed KDP exports rather than from a named author on the record. It’s included only because the shape it describes recurs often enough to be worth naming, clearly marked here as the exception it is. In this account, a four-book series sat at a flat $4.99 for six months, with book-one-to-book-two read-through running at about 11 percent. Book one was then cut to $0.99 for thirty days with the rest of the series already live, and read-through to book two rose to about 19 percent during that window. Treat the shape of that result, not its specific numbers, as the real takeaway: don’t discount book one to nothing until a paid book two actually exists to receive the traffic.
+Unlike the sourced cases above, this one doesn’t actually clear this book’s own bar for a real case study — it comes secondhand, from a formatter describing unnamed KDP exports rather than from a named author on the record. It’s included only because the shape it describes recurs often enough to be worth naming, clearly marked here as the exception it is. In this account, a four-book series sat at a flat $4.99 for six months, with book-one-to-book-two read-through running at about 11 percent. Book one was then cut to $0.99 for thirty days with the rest of the series already live, and read-through to book two rose to about 19 percent during that window. Treat the shape of that result, not its specific numbers, as the real takeaway: don’t discount book one to nothing until a paid book two actually exists to receive the traffic.
 
 ##### Kboards thread on full price versus 99 cents (2017)
 
@@ -893,11 +893,11 @@ In this thread, working authors compared notes publicly. One launched at $2.99 a
 
 ##### List first, book second
 
-Arenson’s result above is, in part, a result of the list he’d already built. Some authors deliberately refuse to launch at all until a few hundred email addresses exist, on the reasoning that the first-review problem shrinks considerably once launch week is no longer cold. The real cost of this approach is time: if the manuscript is already finished, waiting a full year just to start the ARC clock is usually the wrong trade, since a finished manuscript ages more like milk than wine. The better approach is building the list in parallel with finishing the book, not before it.
+The established author’s result above is, in part, a result of the list he’d already built. Some authors deliberately refuse to launch at all until a few hundred email addresses exist, on the reasoning that the first-review problem shrinks considerably once launch week is no longer cold. The real cost of this approach is time: if the manuscript is already finished, waiting a full year just to start the ARC clock is usually the wrong trade, since a finished manuscript ages more like milk than wine. The better approach is building the list in parallel with finishing the book, not before it.
 
 ##### Full-price launch, no 99-cent week
 
-Sell’s decision to hold at $3.99 is this alternative in practice, as is the Kboards author who raised to $4.99 and ended up taking home more money on fewer copies. This approach fits a standalone book, a slower-writing author, or anyone who genuinely won’t have a sequel out this year.
+The debut novelist’s decision to hold at $3.99 is this alternative in practice, as is the Kboards author who raised to $4.99 and ended up taking home more money on fewer copies. This approach fits a standalone book, a slower-writing author, or anyone who genuinely won’t have a sequel out this year.
 
 ##### Promo stacking after proof
 

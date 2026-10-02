@@ -1,4 +1,4 @@
-## Chapter 27: China, the Long Memory and the Great Leap
+## 1949 to Today: China, the Long Memory and the Great Leap
 
 This chapter returns to a civilization dolphin scholarship already logged, several chapters ago, as among the deepest cultural inheritances in the book: millennia of continuous writing, philosophy, and administration, surviving dynasty after dynasty like a tide that always came back in.
 

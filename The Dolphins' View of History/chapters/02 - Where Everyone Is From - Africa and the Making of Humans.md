@@ -1,4 +1,4 @@
-## Chapter 2: Where Everyone Is From — Africa and the Making of Humans
+## 7 Million to 300,000 Years Ago: Where Everyone Is From — Africa and the Making of Humans
 
 Every human being alive today descends from people who lived in Africa. This is not a metaphor or a courtesy to a continent. It is the best-supported conclusion in the study of human origins, and it rests on three independent witnesses that agree: bones, tools, and DNA.
 
