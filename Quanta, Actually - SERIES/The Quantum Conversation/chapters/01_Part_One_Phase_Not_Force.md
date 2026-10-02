@@ -1,8 +1,8 @@
-# PART ONE — Phase, Not Force
+# Part One — Phase, Not Force
 
 ---
 
-## 1. The Invisible Interaction
+## Chapter 1: The Invisible Interaction
 
 Imagine two electrons floating in empty space, far enough apart that nothing visibly connects them. Move one, and — after a delay set by the speed of light — the other responds. Nothing touches. Nothing is thrown. And yet something got through.
 
@@ -44,7 +44,7 @@ And that gives us our first real clue, still only a clue. If phase is the quanti
 
 ---
 
-## 2. The Phase of a Charged Particle
+## Chapter 2: The Phase of a Charged Particle
 
 Even an electron with no electromagnetic field anywhere nearby carries a phase, and that phase evolves as the electron moves. Nothing about this requires electromagnetism. Now put the electron in an electromagnetic environment, and something changes: the *rate* at which its phase accumulates starts to depend on the electromagnetic potentials at each point along its path. That single dependency ends up carrying most of the weight in this book.
 
@@ -74,7 +74,7 @@ Stay if that question is the one you came for: you already know an electron inte
 
 ---
 
-## 3. The Loop
+## Chapter 3: The Loop
 
 A loop is one of the simplest shapes in geometry, and one of the most revealing objects in physics. Take an electron and move it around a closed path until it returns to where it began. Classically, this is a non-event. The electron is back where it started; if its speed matches too, nothing about its state has changed, and there is nothing left to explain.
 
@@ -107,7 +107,7 @@ The equations have not changed. Our reasons for believing them have. Keep an eye
 
 ---
 
-## 4. Not Just Bookkeeping
+## Chapter 4: Not Just Bookkeeping
 
 *Fine. The vector potential is in the equations. Isn't that only because we chose to write the magnetic field as* **A***? Couldn't we do all of this with* **B** *alone?*
 

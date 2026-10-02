@@ -1,8 +1,8 @@
-# PART NINE — Light Meets Matter
+# Part Nine — Light Meets Matter
 
 ---
 
-## 32. The Photon Is Not the Opposite of the Phase
+## Chapter 32: The Photon Is Not the Opposite of the Phase
 
 It is tempting to split this book into rival camps: fields and photons against potentials and phase, with a winner to be declared at the end. They are two windows on one interaction. A photon is an excitation of the electromagnetic field, and a charged quantum state acquires phase by coupling to that same field, as the covariant derivative in Chapter 27 made explicit.
 
@@ -32,7 +32,7 @@ Feynman supplies quantitative power nothing else matches. Mead supplies a provoc
 
 ---
 
-## 33. When Matter Meets Light
+## Chapter 33: When Matter Meets Light
 
 An excited atom in an empty room eventually emits a photon. The textbook sentence — the atom jumps down and emits a photon — is true, and incomplete. What sets the odds is the quantum electromagnetic field the atom is coupled to: which modes exist, how strongly the atom couples to each, what the surroundings are.
 
@@ -60,7 +60,7 @@ The cavity experiments reveal something stranger still: the vacuum itself can be
 
 ---
 
-## 34. The Loop, Formalized
+## Chapter 34: The Loop, Formalized
 
 By now the loop that has been trailing through this entire book — from the Aharonov–Bohm effect, through flux quantization, through gauge connections, through superconducting vortices — might start to look like an obsession. It is, and for good reason. A loop is precisely where local phase information becomes global information, and modern gauge theory gives this recurring object a formal name: the Wilson loop, built from the gauge potential integrated all the way around a closed path:
 

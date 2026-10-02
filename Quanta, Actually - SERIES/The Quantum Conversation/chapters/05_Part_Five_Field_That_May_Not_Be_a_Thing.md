@@ -1,8 +1,8 @@
-# PART FIVE — The Field That May Not Be a Thing
+# Part Five — The Field That May Not Be a Thing
 
 ---
 
-## 15. What If the Field Isn't Independent?
+## Chapter 15: What If the Field Isn't Independent?
 
 Physics has a dangerous habit. Someone invents a useful mathematical object. It works. People calculate with it. Other people learn to calculate with it. Textbooks get written about it. And somewhere along the way, everyone forgets that the object was invented at all — it starts to feel like a piece of furniture that was simply sitting in the universe, waiting to be discovered rather than constructed.
 
@@ -20,7 +20,7 @@ Their motive going in was simplification, not mystification: they wanted to know
 
 ---
 
-## 16. Wheeler and Feynman: The Universe Talks Back
+## Chapter 16: Wheeler and Feynman — The Universe Talks Back
 
 Classical electrodynamics has always carried an uncomfortable, easy-to-overlook feature. A charged particle produces an electromagnetic field. That field then acts back on the very particle that produced it. Fine so far — except, what is the mechanism by which a particle acts on itself? An accelerating electron radiates; the radiation carries energy and momentum away from it; the electron correspondingly experiences a recoil, a "radiation reaction" force resisting its own acceleration — the same effect, on a much smaller scale, that makes a radio transmitter's antenna require more driving power to broadcast at higher power, since some of that power has to cover the antenna's own resistance to accelerating the charges it's pushing back and forth.
 
@@ -46,7 +46,7 @@ The useful question is which description makes which physics easy to see. High-e
 
 ---
 
-## 17. Radiation Is Where Things Get Serious
+## Chapter 17: Radiation Is Where Things Get Serious
 
 A beam of light carries energy and momentum. It can push a solar sail. It knocks electrons out of a metal one photon at a time. The last two chapters made an independent field sound optional: charges interact, phases shift, familiar fields emerge downstream, coherence makes phase visible. The beam is where that idea gets expensive.
 
@@ -72,7 +72,7 @@ And it demands a distinction this book intends to hold onto carefully for the re
 
 ---
 
-## 18. Where Is the Energy?
+## Chapter 18: Where Is the Energy?
 
 Energy remains one of the best available tests of any physical picture, if only because it has to be conserved no matter how you tell the story. Suppose two like charges repel each other and drift apart, gaining kinetic energy as they go. Where did that additional kinetic energy actually come from?
 

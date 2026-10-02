@@ -2,6 +2,7 @@
 """Splice Prologues 1–9 before Lesson 1 and the Mead interlude after Lesson 41."""
 import glob
 import os
+import re
 import sys
 import time
 
@@ -148,18 +149,18 @@ def main():
     n_old = remove_range_before(
         body,
         lambda t: t.startswith("Part 0") or t.startswith("Prologue 1"),
-        lambda t: t.startswith("Lesson 1 "),
+        lambda t: bl.is_lesson_heading(t, 1),
     )
     print("removed opening paras", n_old)
 
-    lesson1, t1 = find_h1(body, lambda t: t.startswith("Lesson 1 "))
+    lesson1, t1 = find_h1(body, lambda t: bl.is_lesson_heading(t, 1))
     if lesson1 is None:
         raise RuntimeError("Lesson 1 heading not found")
 
     b = bl.Builder(doc)
     render_section(
         b,
-        "Part 0 Light, arrows, and the S-matrix",
+        "Part 0 — Light, arrows, and the S-matrix",
         [("para",
           "Start here. Prologues 1–4 are Feynman's easy QED in this course's words: photons, probability arrows, "
           "all paths, and the three actions. Prologue 5 is Maxwell as the many-photon alternative. "
@@ -173,32 +174,32 @@ def main():
         num = int(meta["NUM"])
         render_section(
             b,
-            "Prologue %d %s" % (num, meta["TITLE"]),
+            "Prologue %d: %s" % (num, meta["TITLE"]),
             blocks,
             meta.get("NEXT"),
             bookmark="Prologue%d" % num,
             bid=4000 + num,
         )
     # Part I opens the lesson sequence; the removal above takes the old one with it.
-    b.heading("Part I Prerequisites", 1)
+    b.heading("Part I — Prerequisites", 1)
     insert_elements_before(lesson1, b.elements)
     print("inserted Part 0 + Prologues 1–9 before", t1)
 
     n_old_mead = remove_range_before(
         body,
-        lambda t: t.startswith("Interlude Mead"),
-        lambda t: t.startswith("Lesson 42 "),
+        lambda t: re.match(r"^Interlude:? Mead", t) is not None,
+        lambda t: bl.is_lesson_heading(t, 42),
     )
     print("removed old Mead paras", n_old_mead)
 
-    lesson42, t42 = find_h1(body, lambda t: t.startswith("Lesson 42 "))
+    lesson42, t42 = find_h1(body, lambda t: bl.is_lesson_heading(t, 42))
     if lesson42 is None:
         raise RuntimeError("Lesson 42 heading not found")
 
     b2 = bl.Builder(doc)
     render_section(
         b2,
-        "Interlude Mead's View",
+        "Interlude: Mead's View",
         mead_blocks,
         mead_meta.get("NEXT"),
         bookmark="Mead",

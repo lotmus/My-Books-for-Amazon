@@ -1,8 +1,8 @@
-# PART SIX — What Survives the Merger
+# Part Six — What Survives the Merger
 
 ---
 
-## 19. What QED Adds
+## Chapter 19: What QED Adds
 
 Halfway. The phase-and-potential story is in place. Here is what it still cannot do, and what quantum electrodynamics adds.
 
@@ -36,7 +36,7 @@ That reframes the right question to be asking from here forward. Not *which theo
 
 ---
 
-## 20. The Geometry of the Potential
+## Chapter 20: The Geometry of the Potential
 
 A clock in London and a clock in Tokyo can both read 3:00. You still cannot tell whether those moments match until you know the offset between the zones. The offset belongs to neither clock. It is the rule for comparing them. The electromagnetic potential is that rule, for phase.
 
@@ -58,7 +58,7 @@ And once the electromagnetic field is allowed back into the room as a full quant
 
 ---
 
-## 21. The Art of Forgetting
+## Chapter 21: The Art of Forgetting
 
 Imagine looking down at a forest from an airplane. From thirty thousand feet it's a green expanse with a visible boundary and perhaps a river cutting through it — no individual trees in sight. Descend and walk into it, and trees appear. Get closer, and branches appear, then leaves, then cells, then molecules. The forest never changed. Only the resolution did. Physics works the same way: at one scale, a system is most naturally described as a classical electromagnetic field; at another, as photons and charged particles; at another, as a coherent quantum state carrying one macroscopic phase.
 
@@ -80,7 +80,7 @@ The lesson is the same one running through the whole book: physical descriptions
 
 ---
 
-## 22. The Meaning of "Fundamental"
+## Chapter 22: The Meaning of "Fundamental"
 
 Ask what *fundamental* means, and you get three different answers, depending on the question.
 

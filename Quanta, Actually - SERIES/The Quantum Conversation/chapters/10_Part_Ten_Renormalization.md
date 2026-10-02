@@ -1,8 +1,8 @@
-# PART TEN — Renormalization, Done Once, Done Right
+# Part Ten — Renormalization, Done Once, Done Right
 
 ---
 
-## 35. Vacuum Polarization: The Electron Is Not Quite Alone
+## Chapter 35: Vacuum Polarization — The Electron Is Not Quite Alone
 
 Up to this point, this book has treated the electromagnetic field as though it were almost absurdly well-behaved: a photon is created, it travels, it gets absorbed, two charges interact through it, and everything stays tidy. QED has a habit of taking tidy pictures like this and asking, quietly, whether they're true. Here's the question to ask now: can light interact with light? At first glance, the answer should obviously be no — photons carry no electric charge, the electromagnetic field is linear in classical vacuum electrodynamics, and two beams of light crossing in empty space simply pass through each other with no little photon-on-photon collision anywhere in the picture.
 
@@ -32,7 +32,7 @@ Calculated naively, that correction *δm* can come out divergent — infinite �
 
 ---
 
-## 36. The Terrible Reputation of Renormalization
+## Chapter 36: The Terrible Reputation of Renormalization
 
 Renormalization has occasionally been described, even by physicists who should know better, as a kind of mathematical trick — subtracting one infinity from another and hoping the difference happens to be finite and correct. The historical discomfort behind that description is understandable, even if the description itself is unfair: early calculations really did produce divergent expressions, and it can sound, stated carelessly, like accounting performed by someone who has misplaced a universe or two. The modern understanding is much cleaner than that old anxiety suggests. A quantum field theory is sensitive to physics across a wide range of scales at once, and when you calculate something measurable, contributions from many different scales all feed into the final result.
 
@@ -81,7 +81,7 @@ The simplicity lives entirely at the level of the fundamental rule. All the comp
 
 ---
 
-## 37. A Resolution Dial
+## Chapter 37: A Resolution Dial
 
 Turn a resolution dial and the phase story is still the story. Every amplitude still carries a phase. Every diagram is still one contribution to an amplitude. Vacuum polarization, the dressing of the electron, and the anomalous magnetic moment add more amplitudes to the sum. They do not replace the sum. The phase-centered picture is a way of seeing what QED's own machinery is doing. It is not a second theory competing for the same job.
 
@@ -118,7 +118,7 @@ Renormalization asks which variables and parameters best describe physics at a g
 
 ---
 
-## 38. Renormalization Is a Translation System
+## Chapter 38: Renormalization Is a Translation System
 
 A cutoff, remember, is something a physicist introduces to make a calculation tractable — nature has no idea that anyone chose a particular numerical value for it. Change the cutoff, and the mathematical parameters describing the theory will shift accordingly; every measurable prediction has to come out exactly the same regardless. This is closely analogous to changing coordinates on a map: the description on the page changes completely, the underlying territory does not move an inch. That is why renormalization is best understood as a consistency requirement rather than a calculational trick — a guarantee that different mathematical descriptions of the same physics, built at different scales, agree perfectly on everything that can be measured.
 

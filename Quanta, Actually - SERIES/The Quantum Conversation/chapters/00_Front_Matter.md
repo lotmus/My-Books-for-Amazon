@@ -1,16 +1,36 @@
-# The Quantum Conversation
+# Quanta, Actually
+
+#! The Quantum Conversation
 
 *Phase, Light, and the Hidden Architecture of Electromagnetism*
 
-*by Lothar J. Musiol*
+%%SERIESLINE%% Volume 2 in the Quanta, Actually Series
+
+%%SERIESLINE%% Lothar J. Musiol
 
 *An interaction, looked at closely enough, is a conversation.*
 
-*Copyright © 2026 Lothar J. Musiol. All rights reserved. First edition, 2026.*
+%%PAGEBREAK%%
+
+%%SMALL%% Quanta, Actually
+
+%%SMALL%% The Quantum Conversation — Phase, Light, and the Hidden Architecture of Electromagnetism
+
+%%SMALL%% Copyright © 2026 Lothar J. Musiol. All rights reserved. First edition, 2026.
+
+%%SMALL%% Quanta, Actually series, Volume 2
 
 ---
 
 %%TOC%%
+
+##! Also in This Series
+
+Volume 1 — *The Quantum World: From Quanta and Entanglement to Quantum Fields, Gravity, and the Future of Computing*. The survey: what quantum mechanics says, how entanglement and Bell tests settled the argument, and how quantum fields, QED, cryptography, and computing grow out of it.
+
+Volume 2 — *The Quantum Conversation: Phase, Light, and the Hidden Architecture of Electromagnetism*. This book.
+
+Volume 3 — *Complete Quantum Electrodynamics Course: From Mathematical Foundations to One-Loop QED*. The calculation course: from complex numbers and the Dirac equation to Feynman rules, renormalization, the electron's anomalous magnetic moment, and the Lamb shift.
 
 ## Prologue: A Different Way of Thinking
 
@@ -56,13 +76,13 @@ What belongs specifically to me, then, is narrower than any of the physics I rel
 
 They remain among the most beautiful results in the history of science, and arriving at them this way is meant to show where they sit. That's a conceptual synthesis, built entirely from established pieces, not a new discovery standing beside theirs — and the chapters ahead try never to let a sentence outrun that distinction.
 
-Readers of *The Quantum World*, the companion book to the *Physics, Actually* series, will recognize the seed: an appendix on collective electrodynamics, placed after the chapters on QED, cryptography, and computing, that asked for a book of its own.
+Readers of *The Quantum World* (Volume 1) will recognize the seed: an appendix on collective electrodynamics, placed after the chapters on QED, cryptography, and computing, that asked for a book of its own.
 
 One page, before the first chapter, showing the whole shape of where this is going:
 
 ![Roadmap: how the argument fits together. Phase and the potential branch into Maxwell's classical world and QED's quantum one, then reunite through coherence in a circuit you can build. Wheeler–Feynman direct action hangs off to the side because it's a historical alternative, not a replacement.](fig13_master_map.png)
 
-Before Chapter 1, you should have met electric and magnetic fields, and you should know that an electron can be described by a wave that interferes. This book does not teach calculus, Maxwell's equations from nothing, or quantum field theory. It does stop to say what a phase, a potential, and a gauge transformation are doing. When a formula appears, the sentence in front of it is the part to hold onto if the symbols are new.
+Before Chapter 1, you should have met electric and magnetic fields, and you should know that an electron can be described by a wave that interferes. This book does not teach calculus, Maxwell's equations from nothing, or quantum field theory; the full calculation, from the Lagrangian to the loop corrections, is the job of the *Complete Quantum Electrodynamics Course* (Volume 3). It does stop to say what a phase, a potential, and a gauge transformation are doing. When a formula appears, the sentence in front of it is the part to hold onto if the symbols are new.
 
 There are three sensible ways to use what follows. Read it straight through: that is the argument in the order it was built. If fields and interference are already familiar and the destination you care about is the circuit, the spine is Chapters 1 through 8, then 27 and 31, then 39 through 41, then 46. The parts between those chapters are where the fields return, where the absorber question is kept in its place, and where QED's precision is earned, so that route is a tour of the spine.
 

@@ -1,8 +1,8 @@
-# PART FOUR — Finding Maxwell Again
+# Part Four — Finding Maxwell Again
 
 ---
 
-## 12. Where Did the Fields Go?
+## Chapter 12: Where Did the Fields Go?
 
 Where did **E** and **B** go? Eleven chapters of phase and potential, and the fields with the diagrams and the right-hand rules have barely appeared.
 
@@ -30,7 +30,7 @@ Quantum mechanics then adds the layer that has been this book's whole argument s
 
 ---
 
-## 13. Maxwell Appears
+## Chapter 13: Maxwell Appears
 
 There is a persistent, slightly misleading image of how Maxwell's equations came to be: James Clerk Maxwell at a blackboard one afternoon, writing down four tidy equations, after which the universe agreed to obey them. The real history was much messier. Maxwell was synthesizing decades of experimental discoveries and mathematical groundwork laid by Coulomb, Ampère, Faraday, and others; the compact four-equation form familiar today was assembled, and partly reformulated, by people who came after him. Maxwell's own original presentation, in 1865, ran to some twenty equations, thick with components written out one at a time in the style of the day.
 
@@ -66,7 +66,7 @@ That distinction is nearly invisible when Maxwell's equations are handed to you 
 
 ---
 
-## 14. The Classical World Is a Limit, Not a Different Universe
+## Chapter 14: The Classical World Is a Limit, Not a Different Universe
 
 A persistent misconception treats the quantum world and the classical world as two separate universes, each running on its own rulebook, with some mysterious switch flipped at a certain size or energy where the quantum rules get turned off and the classical ones take over. Nature has no such switch. Classical physics emerges from quantum physics under the right conditions — but "emerges" is doing real work in that sentence, and it does not mean "becomes irrelevant" or "stops actually being quantum mechanics underneath."
 

@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import os as _os
+import re
 HERE = _os.path.dirname(_os.path.abspath(__file__))
 ROOT = _os.path.dirname(HERE)
 """Pull concrete facts for the critical review. Writes UTF-8."""
@@ -38,7 +39,7 @@ grab = False
 count = 0
 for p in paras:
     t = p.text.strip()
-    if t.startswith("Lesson 68 "):
+    if re.match(r"Lesson 68[: ]", t):
         grab = True
     if grab:
         if t:

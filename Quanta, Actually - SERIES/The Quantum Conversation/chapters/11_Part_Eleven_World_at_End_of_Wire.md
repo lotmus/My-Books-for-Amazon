@@ -1,8 +1,8 @@
-# PART ELEVEN — The World at the End of the Wire
+# Part Eleven — The World at the End of the Wire
 
 ---
 
-## 39. From QED to a Superconducting Circuit
+## Chapter 39: From QED to a Superconducting Circuit
 
 It's time to come back to something more tangible than a Lagrangian. A wire. A loop. A voltage. A current — the kind of thing anyone could build on a lab bench without needing a particle accelerator anywhere nearby. Make that wire superconducting, and cool it down far enough, and the humble circuit turns into a genuine quantum system: its current becomes tied to a collective phase, its enclosed magnetic flux becomes quantized as Chapter 3 derived, it acquires discrete energy levels, and it becomes capable of interacting with individual microwave photons one at a time.
 
@@ -47,7 +47,7 @@ Mead would recognize the very same device for the opposite reason: the electroma
 
 ---
 
-## 40. One System, Several Descriptions
+## Chapter 40: One System, Several Descriptions
 
 Take a superconducting circuit coupled to a microwave cavity — a physical apparatus you could point to on a bench in a real laboratory — and it can be described, correctly, at any of several distinct levels at once. At the microscopic level: electrons, ions, electromagnetic fields, and their full quantum interactions. At the condensed-matter level: a superconducting condensate, quasiparticles, an order parameter. At the collective circuit level: phase, charge, capacitance, inductance, Josephson energy. At the quantum-optical level: a qubit coupled to photon modes. At the classical level: ordinary currents, voltages, electromagnetic waves.
 
@@ -79,7 +79,7 @@ Nothing magical happened in reverse here either. The quantum theory underneath n
 
 ---
 
-## 41. The Same Wire Contains All Four Worlds
+## Chapter 41: The Same Wire Contains All Four Worlds
 
 Here, perhaps, is the strangest conclusion this book has reached so far: the very same physical wire can correctly be described as a quantum many-body system, a collective superconducting phase, a quantum circuit, or an ordinary classical electrical conductor, depending entirely on the regime and the question being asked of it. The material itself stays exactly what it is, regardless of who's looking at it or how; what changes is the description. That is the deepest lesson any of these effective theories has to offer: reality does not arrive with one compulsory vocabulary stapled to it. The vocabulary has to match the scale of the question.
 

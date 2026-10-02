@@ -1,8 +1,8 @@
-# PART TWO — When Many Become One
+# Part Two — When Many Become One
 
 ---
 
-## 5. One Electron Is Not a Superconductor
+## Chapter 5: One Electron Is Not a Superconductor
 
 It is tempting to picture a superconductor as an ordinary collection of electrons that simply happens to behave unusually well — as if you'd taken normal, sluggish, resistance-generating electrons and, through some clever trick, gotten them all to cooperate. That picture misses the interesting part entirely. Here's why.
 
@@ -50,7 +50,7 @@ That raises a hard question, and it is the question that will occupy the rest of
 
 ---
 
-## 6. Coherence Changes the Rules
+## Chapter 6: Coherence Changes the Rules
 
 Suppose you have *N* charged particles, and you want to know how strongly they interact with an external field, or how much radiation they produce, or how large some collective response will be. The ordinary classical instinct says: work out what one particle contributes, then multiply by *N*. One particle, one unit of effect; a thousand particles, a thousand units. Often enough, that instinct is right — most contributions from most particles are effectively independent, and independent contributions add.
 
@@ -84,7 +84,7 @@ The broader moral generalizes well beyond superconductors. The number of constit
 
 ---
 
-## 7. Momentum in the Presence of a Potential
+## Chapter 7: Momentum in the Presence of a Potential
 
 One of those underlying quantum relationships is momentum itself — and it turns out the electromagnetic potential gets folded into the definition of momentum in a way that's easy to overlook until a coherent system forces the issue. Momentum looks like one of the least controversial ideas in all of physics. Something moves; it has momentum. In classical mechanics the relationship is about as simple as physics gets:
 
@@ -112,7 +112,7 @@ But a harder question is waiting just past that doorway. If the potential is thi
 
 ---
 
-## 8. Where Does the Potential Come From?
+## Chapter 8: Where Does the Potential Come From?
 
 The potential shapes the phase of charged matter. What produces the potential?
 

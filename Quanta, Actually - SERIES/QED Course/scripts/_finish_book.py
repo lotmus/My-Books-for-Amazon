@@ -12,7 +12,7 @@ import time
 from docx import Document
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
 from docx.oxml import OxmlElement
-from docx.shared import Inches, Pt, Twips
+from docx.shared import Inches, Pt, RGBColor, Twips
 from docx.oxml.ns import qn
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -23,18 +23,103 @@ COMPLETE = bl.COMPLETE
 BOOKMARK_TOC = "QEDCourseTOC"
 
 KEEP_H1 = re.compile(
-    r"^(Lesson \d+ |Part [IVX0]|Prologue \d+|Interlude |Table of Contents|Copyright|"
-    r"How to read this book|Glossary of symbols|Course capstone|"
-    r"Consolidated formula index|Bibliography)"
+    r"^(Lesson \d+[: ]|Part [IVX0]|Prologue \d+|Interlude[: ]|Table of Contents|Copyright|"
+    r"How to read this book|Also in This Series|Glossary of symbols|Course capstone|"
+    r"Consolidated formula index|Bibliography|Complete Quantum Electrodynamics Course$)"
 )
-LESSON_H1 = re.compile(r"^Lesson (\d+) ")
+LESSON_H1 = re.compile(r"^Lesson (\d+)[: ]")
+
+# Quanta, Actually series front matter (same layout as Physics, Actually):
+# Title = series name, Heading 1 = book title, subtitle, series line, author.
+SERIES = bl.SERIES
+SERIES_LINE = "Volume %d in the %s Series" % (bl.SERIES_VOLUME, SERIES)
+BOOK_TITLE = "Complete Quantum Electrodynamics Course"
+SUBTITLE = "From Mathematical Foundations to One-Loop QED"
+SERIES_BLUE = RGBColor(0x4F, 0x81, 0xBD)
+ALSO_IN_SERIES = [
+    "Volume 1 — The Quantum World: From Quanta and Entanglement to Quantum Fields, Gravity, "
+    "and the Future of Computing. The conceptual survey: entanglement and Bell tests, quantum "
+    "fields, QED and QCD side by side, cryptography, and computing, with no calculation required.",
+    "Volume 2 — The Quantum Conversation: Phase, Light, and the Hidden Architecture of "
+    "Electromagnetism. Electromagnetism read outward from quantum phase and the potential, "
+    "the view this course's Interlude after Lesson 41 summarizes.",
+    "Volume 3 — Complete Quantum Electrodynamics Course: From Mathematical Foundations to "
+    "One-Loop QED. This book: the calculation course.",
+]
+
+
+def normalize_numbering(doc):
+    """Heading numbering in the Physics, Actually style (idempotent):
+    'Lesson 1 Title' -> 'Lesson 1: Title', 'Prologue 1 Title' -> 'Prologue 1: Title',
+    'Part I Title' -> 'Part I — Title', 'Interlude Mead's View' -> 'Interlude: Mead's View'."""
+    rules = [
+        (re.compile(r"^(Lesson \d+) (?![:—])(.+)$"), r"\1: \2"),
+        (re.compile(r"^(Prologue \d+) (?![:—])(.+)$"), r"\1: \2"),
+        (re.compile(r"^(Part (?:[IVX]+|0)) (?![:—])(.+)$"), r"\1 — \2"),
+        (re.compile(r"^Interlude (?![:—])(.+)$"), r"Interlude: \1"),
+    ]
+    n = 0
+    for child in doc.element.body:
+        if _p_style(child) != "Heading1":
+            continue
+        text = _text(child)
+        for rx, sub in rules:
+            if rx.match(text):
+                ts = list(child.iter(qn("w:t")))
+                ts[0].text = rx.sub(sub, text)
+                ts[0].set(qn("xml:space"), "preserve")
+                for t in ts[1:]:
+                    t.text = ""
+                n += 1
+                break
+    return n
+
+
+def _series_runs(p, text):
+    for r in list(p.runs):
+        r._r.getparent().remove(r._r)
+    run = p.add_run(text)
+    run.bold = True
+    run.font.size = Pt(13)
+    run.font.color.rgb = SERIES_BLUE
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+
+
+def series_title_page(doc):
+    """Idempotent: Title 'Quanta, Actually', Heading 1 book title, subtitle,
+    series line, author (bold blue 13 pt, as in Physics, Actually)."""
+    paras = doc.paragraphs[:14]
+    title = next((p for p in paras if p.style is not None and p.style.name == "Title"), None)
+    if title is not None and title.text.strip() != SERIES:
+        new = copy.deepcopy(title._p)
+        title._p.addprevious(new)
+        ts = list(new.iter(qn("w:t")))
+        ts[0].text = SERIES
+        for t in ts[1:]:
+            t.text = ""
+        title.style = doc.styles["Heading 1"]
+        title.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    paras = doc.paragraphs[:14]
+    sub = next((p for p in paras if p.style is not None and p.style.name == "Subtitle"
+                and "mathematical foundations" in p.text.lower()), None)
+    if not any(p.text.strip() == SERIES_LINE for p in paras) and sub is not None:
+        line = doc.add_paragraph()
+        sub._p.addnext(line._p)
+        _series_runs(line, SERIES_LINE)
+    for p in doc.paragraphs[:14]:
+        if p.text.strip() == bl.AUTHOR and p.style is not None and p.style.name == "Subtitle":
+            p.style = doc.styles["Normal"]
+            _series_runs(p, bl.AUTHOR)
+    doc.core_properties.title = BOOK_TITLE
+    doc.core_properties.subject = "%s, Volume %d" % (SERIES, bl.SERIES_VOLUME)
+    doc.core_properties.keywords = "%s; Volume %d" % (SERIES, bl.SERIES_VOLUME)
 LESSON_MENTION = re.compile(r"Lesson (\d+)")
 
 
 def _is_body_start(text):
     t = text or ""
     return (
-        t.startswith("Lesson 1 ")
+        LESSON_H1.match(t) is not None and LESSON_H1.match(t).group(1) == "1"
         or t.startswith("Part 0")
         or t.startswith("Prologue 1")
     )
@@ -143,7 +228,7 @@ def remove_old_toc(doc):
 def remove_old_front(doc):
     """Remove previously inserted copyright / how-to-read blocks if re-run."""
     body = doc.element.body
-    markers = {"Copyright", "How to read this book"}
+    markers = {"Copyright", "Also in This Series", "How to read this book"}
     in_block = False
     to_remove = []
     for child in list(body):
@@ -172,9 +257,9 @@ def retitle(doc):
                 for r in p.runs:
                     r.text = ""
                 if p.runs:
-                    p.runs[0].text = "From mathematical foundations to one-loop QED"
+                    p.runs[0].text = SUBTITLE
                 else:
-                    p.add_run("From mathematical foundations to one-loop QED")
+                    p.add_run(SUBTITLE)
         if p.text.strip() == "Mathematical foundations for quantum states, operators, spinors, and fields":
             for r in p.runs:
                 r.text = ""
@@ -257,7 +342,7 @@ def bookmark_lessons(doc):
             pm = re.match(r"^Prologue (\d+)", text)
             if pm:
                 _bookmark_p(child, "Prologue%s" % pm.group(1), 4000 + int(pm.group(1)))
-        elif text.startswith("Interlude "):
+        elif text.startswith("Interlude"):
             _bookmark_p(child, "Mead", 4010)
         elif text == "How to read this book":
             _bookmark_p(child, "HowToRead", 3005)
@@ -282,7 +367,7 @@ def collect_toc_entries(doc):
         if pm:
             entries.append(("Prologue%s" % pm.group(1), text, False))
             continue
-        if text.startswith("Interlude "):
+        if text.startswith("Interlude"):
             entries.append(("Mead", text, False))
             continue
         if text.startswith("Part "):
@@ -360,8 +445,9 @@ def insert_front_matter(doc):
 
     h = b.heading("Copyright", 1)
     _bookmark_p(h._p, "Copyright", 3006)
-    b.para("Complete Quantum Electrodynamics Course")
-    b.para("From mathematical foundations to one-loop QED")
+    b.para(SERIES)
+    b.para(BOOK_TITLE)
+    b.para(SUBTITLE)
     b.para("Lothar J. Musiol")
     b.para("First edition, 2026")
     b.para(
@@ -381,6 +467,13 @@ def insert_front_matter(doc):
         "and the Schwinger pair-production exponent and prefactor. It does not compute two-loop g−2, "
         "a complete Lamb shift to kHz, α(M_Z) including quarks, weak decays, QCD, or gravity."
     )
+    b.para("%s series, Volume %d" % (SERIES, bl.SERIES_VOLUME))
+    b.pagebreak()
+
+    h3 = b.heading("Also in This Series", 1)
+    _bookmark_p(h3._p, "AlsoInSeries", 3007)
+    for line in ALSO_IN_SERIES:
+        b.para(line)
     b.pagebreak()
 
     h2 = b.heading("How to read this book", 1)
@@ -402,7 +495,8 @@ def insert_front_matter(doc):
         "Plan on 150–250 hours."
     )
     b.bullet(
-        "After Lesson 41, read the Interlude on Mead’s view (A as the phase standard; E and B derived). Do not move it to the front."
+        "After Lesson 41, read the Interlude on Mead’s view (A as the phase standard; E and B derived). Do not move it to the front. "
+        "The Quantum Conversation (Volume 2) develops that view at book length."
     )
     b.bullet(
         "Lessons 39–61, the QED spine, if the foundation is already in hand. Start at Lesson 39. "
@@ -422,6 +516,12 @@ def insert_front_matter(doc):
     b.para(
         "Do not start this book as a first course in calculus. Do start it as a first course in QED if linear algebra "
         "and ordinary quantum mechanics are willing to be rebuilt rather than assumed."
+    )
+    b.para(
+        "This is Volume 3 of Quanta, Actually and the most technical of the three. "
+        "The Quantum World (Volume 1) is the conceptual map, and The Quantum Conversation (Volume 2) "
+        "reads electromagnetism outward from quantum phase and the potential. Neither is required here; "
+        "this course is where what they describe gets calculated."
     )
     b.pagebreak()
 
@@ -495,6 +595,8 @@ def main():
     doc = Document(COMPLETE)
     retitle(doc)
     set_author(doc)
+    series_title_page(doc)
+    renumbered = normalize_numbering(doc)
     set_gutter(doc)
     demoted = demote_headings(doc)
     insert_front_matter(doc)
@@ -523,8 +625,8 @@ def main():
     if last is not None:
         raise last
     print(
-        "finish_book: demoted %d headings, bookmarks %d, TOC %d, links %d"
-        % (demoted, n_bm, len(entries), n_links)
+        "finish_book: renumbered %d headings, demoted %d headings, bookmarks %d, TOC %d, links %d"
+        % (renumbered, demoted, n_bm, len(entries), n_links)
     )
 
 

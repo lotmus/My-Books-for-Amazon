@@ -1,8 +1,8 @@
-# PART TWELVE — What the Electron Knows
+# Part Twelve — What the Electron Knows
 
 ---
 
-## 42. A Tiny Charge With a Huge Story
+## Chapter 42: A Tiny Charge With a Huge Story
 
 An electron looks, on paper, almost embarrassingly simple. It has charge. It has mass. It has spin. It obeys quantum mechanics. That short list, though, turns out to contain nearly the entire story told so far. Its charge ties it to electromagnetism. Its mass ties it to inertia and, through relativity, to spacetime itself. Its spin ties it to quantum statistics and to the magnetic moment measured through roughly ten significant digits back in Chapter 36. Its quantum phase ties it to interference. Its electromagnetic coupling ties it to photons.
 
@@ -32,7 +32,7 @@ This is why full QED can never be reduced to a theory of permanent classical par
 
 ---
 
-## 43. The Electron in a Superconductor
+## Chapter 43: The Electron in a Superconductor
 
 A superconductor can be described with one shared phase. It cannot create an electron and a positron, scatter particles at high energy, or produce the radiative corrections of Part Ten. Those were integrated away when the phase became the only variable worth keeping, in the sense of Chapter 37. The boundary runs in both directions.
 
@@ -56,7 +56,7 @@ Physics, across nearly every subfield anyone has ever studied, is thick with thi
 
 ---
 
-## 44. Is the Field Real?
+## Chapter 44: Is the Field Real?
 
 I have been waiting for this chapter since the page where I admitted I could not say what a field was. A satisfying picture has been under construction across this book: phase near the center, the potential connecting phase to electromagnetism, the field emerging from the potential's curvature, collective states making phase visible at macroscopic scale. It is elegant enough that I no longer trust it on sight. Elegance is exactly the point at which a book like this one needs to get nervous, because a beautiful conceptual picture can start to feel true well past where the mathematics still supports it. Two theories share an idea, and people start speaking as though they are secretly the same theory.
 

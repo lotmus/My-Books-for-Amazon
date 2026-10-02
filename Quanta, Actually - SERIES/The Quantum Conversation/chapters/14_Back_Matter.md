@@ -259,13 +259,21 @@ The interaction term in Chapter 27 can be checked by the substitution just descr
 
 ## If This Book Worked for You
 
-Read *The Quantum World* next. It is the map this book grew out of: entanglement, Bell tests, interpretations, quantum fields, the strong force, QED, cryptography, and computing. This book began there, as an appendix on collective electrodynamics that outgrew its pages.
+If you came to this book first, read *The Quantum World* (Volume 1) next. It is the map this book grew out of: entanglement, Bell tests, interpretations, quantum fields, the strong force, QED, cryptography, and computing. This book began there, as an appendix on collective electrodynamics that outgrew its pages.
+
+If you want to calculate what this book describes, the *Complete Quantum Electrodynamics Course* (Volume 3) derives it: Feynman rules, renormalization, Schwinger's *α/(2π)*, and the Lamb shift, with exercises.
 
 Feynman's *QED* and Mead's *Collective Electrodynamics* are listed with their editions at the end of Appendix B.
 
 ## Also by Lothar J. Musiol
 
-*The Quantum World: From Quanta and Entanglement to Quantum Fields, Gravity, and the Future of Computing*. The companion book to the *Physics, Actually* series, and the survey this book grew out of.
+The *Quanta, Actually* series:
+
+Volume 1: *The Quantum World: From Quanta and Entanglement to Quantum Fields, Gravity, and the Future of Computing*. The survey this book grew out of.
+
+Volume 2: *The Quantum Conversation*. This book.
+
+Volume 3: *Complete Quantum Electrodynamics Course: From Mathematical Foundations to One-Loop QED*
 
 The *Physics, Actually* series:
 

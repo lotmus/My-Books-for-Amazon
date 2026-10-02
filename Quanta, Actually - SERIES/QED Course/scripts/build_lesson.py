@@ -35,6 +35,19 @@ ROOT = os.path.dirname(HERE)
 CHAPTERS = os.path.join(ROOT, "chapters")
 TEMPLATE = os.path.join(CHAPTERS, "Lesson 01 Complex Numbers and Linear Algebra.docx")
 AUTHOR = "Lothar J. Musiol"
+# Quanta, Actually series (Volume 3). Heading numbering follows the Physics,
+# Actually books ("Chapter N: Title"): "Lesson N: Title", "Prologue N: Title",
+# "Part I — Title", "Interlude: Title". Matchers accept the old space form too.
+SERIES = "Quanta, Actually"
+SERIES_VOLUME = 3
+
+
+def lesson_heading(num, title):
+    return "Lesson %d: %s" % (int(num), title)
+
+
+def is_lesson_heading(text, num):
+    return re.match(r"^Lesson %d[: ]" % int(num), text or "") is not None
 EDITION = "First edition, 2026"
 COMPLETE = os.path.join(ROOT, "Complete QED Course.docx")
 M_NS = "http://schemas.openxmlformats.org/officeDocument/2006/math"
@@ -413,7 +426,7 @@ def build_standalone(meta, blocks, out_path):
 
 
 LESSON_RE = re.compile(
-    r"^(Lesson \d+ |Part [IVX0]|Prologue \d+|Interlude |"
+    r"^(Lesson \d+[: ]|Part [IVX0]|Prologue \d+|Interlude[: ]|"
     r"Course capstone|Consolidated formula index|"
     r"Glossary of symbols|Bibliography)"
 )
@@ -437,7 +450,7 @@ def splice_into_complete(meta, blocks):
         text = heading1_text(child)
         if text is None:
             continue
-        if start is None and text.startswith("Lesson %d " % num):
+        if start is None and is_lesson_heading(text, num):
             start = child
         elif start is not None and LESSON_RE.match(text):
             end = child
@@ -450,7 +463,7 @@ def splice_into_complete(meta, blocks):
         body.remove(node)
         node = nxt
     b = Builder(doc)
-    title_p = b.heading("Lesson %d %s" % (num, meta["TITLE"]), 1)
+    title_p = b.heading(lesson_heading(num, meta["TITLE"]), 1)
     _bookmark_paragraph(title_p, "Lesson%d" % num, 1000 + num)
     b.render(blocks)
     if meta.get("NEXT"):

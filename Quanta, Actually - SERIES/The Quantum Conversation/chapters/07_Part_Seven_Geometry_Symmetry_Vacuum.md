@@ -1,8 +1,8 @@
-# PART SEVEN — Geometry, Symmetry, Vacuum
+# Part Seven — Geometry, Symmetry, Vacuum
 
 ---
 
-## 23. Charge Is the Price of Changing Phase Locally
+## Chapter 23: Charge Is the Price of Changing Phase Locally
 
 Charge is the price of being allowed to set the phase convention differently at every point. Chapter 20 made the potential the rule for comparing phase from place to place, and the field the curvature of that rule. The same structure says why a charged field must couple to the potential, and why the current of that charge is conserved so strictly that nobody has ever seen a violation. (It does not say why nature chose this menu of charges, or why the electron's charge has the value it has. It says how the coupling works once the charge is given.)
 
@@ -30,7 +30,7 @@ That mutual relationship is the quantum version of the old classical slogan "cha
 
 ---
 
-## 24. Why the Classical Path Wins
+## Chapter 24: Why the Classical Path Wins
 
 The action is one of physics' great compression devices. Rather than writing separate rules governing every individual instant of a system's motion, you build a single quantity, *S*, out of an entire history at once. Classically, the physical trajectory a system actually follows is the one for which the action is *stationary* — roughly, the one where nearby paths would produce almost the same action, rather than a wildly different one. Quantum mechanically, as Chapter 10 already established, *every* possible history contributes an amplitude, weighted by a phase factor built from that same action, and the observable outcome comes from adding all of those contributions together.
 
@@ -53,7 +53,7 @@ remains magnificent — it predicts the motion of charged particles, powers ever
 
 ---
 
-## 25. Magnetism, Light, and Empty Space
+## Chapter 25: Magnetism, Light, and Empty Space
 
 Electrons drifting through an ordinary copper wire move at about a millimeter a second, slower than a snail. A wire full of them can still lift a car.
 
@@ -89,7 +89,7 @@ The popular picture says the plates shut some vacuum fluctuations out of the gap
 
 ---
 
-## 26. The Phase Can Wind
+## Chapter 26: The Phase Can Wind
 
 There's a word that sounds like it belongs exclusively in a mathematics department, and it turns out to belong just as much here: *topology*, the study of properties that survive continuous deformation. A coffee mug and a doughnut share something meaningful — each has exactly one hole — while a sphere has none, and no amount of gentle stretching turns one into the other.
 

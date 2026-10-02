@@ -16,7 +16,7 @@ const {
   Document, Packer, Paragraph, TextRun, HeadingLevel, AlignmentType,
   Header, Footer, PageNumber, VerticalAlignSection, ImageRun,
   PositionalTab, PositionalTabAlignment, PositionalTabLeader, PositionalTabRelativeTo,
-  Bookmark, InternalHyperlink, ExternalHyperlink,
+  Bookmark, InternalHyperlink, ExternalHyperlink, PageBreak,
 } = require("docx");
 
 // Straight ' and " -> typographic curly quotes, by local context. Applied to
@@ -46,66 +46,66 @@ function smartenQuotes(text) {
 const TOC_ENTRIES = [
   { type: "front", title: "Prologue: A Different Way of Thinking" },
   { type: "front", title: "What's Mead, What's Feynman, What's New Here" },
-  { type: "part", title: "PART ONE — Phase, Not Force" },
-  { type: "chapter", title: "1. The Invisible Interaction" },
-  { type: "chapter", title: "2. The Phase of a Charged Particle" },
-  { type: "chapter", title: "3. The Loop" },
-  { type: "chapter", title: "4. Not Just Bookkeeping" },
-  { type: "part", title: "PART TWO — When Many Become One" },
-  { type: "chapter", title: "5. One Electron Is Not a Superconductor" },
-  { type: "chapter", title: "6. Coherence Changes the Rules" },
-  { type: "chapter", title: "7. Momentum in the Presence of a Potential" },
-  { type: "chapter", title: "8. Where Does the Potential Come From?" },
-  { type: "part", title: "PART THREE — The Photon and the Path" },
-  { type: "chapter", title: "9. The Photon" },
-  { type: "chapter", title: "10. The Path Is Not a Track" },
-  { type: "chapter", title: "11. From Individual Histories to Collective Phase" },
-  { type: "part", title: "PART FOUR — Finding Maxwell Again" },
-  { type: "chapter", title: "12. Where Did the Fields Go?" },
-  { type: "chapter", title: "13. Maxwell Appears" },
-  { type: "chapter", title: "14. The Classical World Is a Limit, Not a Different Universe" },
-  { type: "part", title: "PART FIVE — The Field That May Not Be a Thing" },
-  { type: "chapter", title: "15. What If the Field Isn't Independent?" },
-  { type: "chapter", title: "16. Wheeler and Feynman: The Universe Talks Back" },
-  { type: "chapter", title: "17. Radiation Is Where Things Get Serious" },
-  { type: "chapter", title: "18. Where Is the Energy?" },
-  { type: "part", title: "PART SIX — What Survives the Merger" },
-  { type: "chapter", title: "19. What QED Adds" },
-  { type: "chapter", title: "20. The Geometry of the Potential" },
-  { type: "chapter", title: "21. The Art of Forgetting" },
-  { type: "chapter", title: "22. The Meaning of \"Fundamental\"" },
-  { type: "part", title: "PART SEVEN — Geometry, Symmetry, Vacuum" },
-  { type: "chapter", title: "23. Charge Is the Price of Changing Phase Locally" },
-  { type: "chapter", title: "24. Why the Classical Path Wins" },
-  { type: "chapter", title: "25. Magnetism, Light, and Empty Space" },
-  { type: "chapter", title: "26. The Phase Can Wind" },
-  { type: "part", title: "PART EIGHT — Following an Electron" },
-  { type: "chapter", title: "27. The Equation Behind the Conversation" },
-  { type: "chapter", title: "28. Feynman's Diagrams Become Less Mysterious" },
-  { type: "chapter", title: "29. The Classical Coulomb Force Emerges" },
-  { type: "chapter", title: "30. Now Add Many Electrons" },
-  { type: "chapter", title: "31. The Book's Central Bridge" },
-  { type: "part", title: "PART NINE — Light Meets Matter" },
-  { type: "chapter", title: "32. The Photon Is Not the Opposite of the Phase" },
-  { type: "chapter", title: "33. When Matter Meets Light" },
-  { type: "chapter", title: "34. The Loop, Formalized" },
-  { type: "part", title: "PART TEN — Renormalization, Done Once, Done Right" },
-  { type: "chapter", title: "35. Vacuum Polarization: The Electron Is Not Quite Alone" },
-  { type: "chapter", title: "36. The Terrible Reputation of Renormalization" },
-  { type: "chapter", title: "37. A Resolution Dial" },
-  { type: "chapter", title: "38. Renormalization Is a Translation System" },
-  { type: "part", title: "PART ELEVEN — The World at the End of the Wire" },
-  { type: "chapter", title: "39. From QED to a Superconducting Circuit" },
-  { type: "chapter", title: "40. One System, Several Descriptions" },
-  { type: "chapter", title: "41. The Same Wire Contains All Four Worlds" },
-  { type: "part", title: "PART TWELVE — What the Electron Knows" },
-  { type: "chapter", title: "42. A Tiny Charge With a Huge Story" },
-  { type: "chapter", title: "43. The Electron in a Superconductor" },
-  { type: "chapter", title: "44. Is the Field Real?" },
-  { type: "part", title: "PART THIRTEEN — The Honest Ending" },
-  { type: "chapter", title: "45. The Ladder of Descriptions: Electron to Eye" },
-  { type: "chapter", title: "46. What We Have Learned, and What We Have Not Proven" },
-  { type: "chapter", title: "47. Epilogue: The Law Becomes Visible" },
+  { type: "part", title: "Part One — Phase, Not Force" },
+  { type: "chapter", title: "Chapter 1: The Invisible Interaction" },
+  { type: "chapter", title: "Chapter 2: The Phase of a Charged Particle" },
+  { type: "chapter", title: "Chapter 3: The Loop" },
+  { type: "chapter", title: "Chapter 4: Not Just Bookkeeping" },
+  { type: "part", title: "Part Two — When Many Become One" },
+  { type: "chapter", title: "Chapter 5: One Electron Is Not a Superconductor" },
+  { type: "chapter", title: "Chapter 6: Coherence Changes the Rules" },
+  { type: "chapter", title: "Chapter 7: Momentum in the Presence of a Potential" },
+  { type: "chapter", title: "Chapter 8: Where Does the Potential Come From?" },
+  { type: "part", title: "Part Three — The Photon and the Path" },
+  { type: "chapter", title: "Chapter 9: The Photon" },
+  { type: "chapter", title: "Chapter 10: The Path Is Not a Track" },
+  { type: "chapter", title: "Chapter 11: From Individual Histories to Collective Phase" },
+  { type: "part", title: "Part Four — Finding Maxwell Again" },
+  { type: "chapter", title: "Chapter 12: Where Did the Fields Go?" },
+  { type: "chapter", title: "Chapter 13: Maxwell Appears" },
+  { type: "chapter", title: "Chapter 14: The Classical World Is a Limit, Not a Different Universe" },
+  { type: "part", title: "Part Five — The Field That May Not Be a Thing" },
+  { type: "chapter", title: "Chapter 15: What If the Field Isn't Independent?" },
+  { type: "chapter", title: "Chapter 16: Wheeler and Feynman — The Universe Talks Back" },
+  { type: "chapter", title: "Chapter 17: Radiation Is Where Things Get Serious" },
+  { type: "chapter", title: "Chapter 18: Where Is the Energy?" },
+  { type: "part", title: "Part Six — What Survives the Merger" },
+  { type: "chapter", title: "Chapter 19: What QED Adds" },
+  { type: "chapter", title: "Chapter 20: The Geometry of the Potential" },
+  { type: "chapter", title: "Chapter 21: The Art of Forgetting" },
+  { type: "chapter", title: "Chapter 22: The Meaning of \"Fundamental\"" },
+  { type: "part", title: "Part Seven — Geometry, Symmetry, Vacuum" },
+  { type: "chapter", title: "Chapter 23: Charge Is the Price of Changing Phase Locally" },
+  { type: "chapter", title: "Chapter 24: Why the Classical Path Wins" },
+  { type: "chapter", title: "Chapter 25: Magnetism, Light, and Empty Space" },
+  { type: "chapter", title: "Chapter 26: The Phase Can Wind" },
+  { type: "part", title: "Part Eight — Following an Electron" },
+  { type: "chapter", title: "Chapter 27: The Equation Behind the Conversation" },
+  { type: "chapter", title: "Chapter 28: Feynman's Diagrams Become Less Mysterious" },
+  { type: "chapter", title: "Chapter 29: The Classical Coulomb Force Emerges" },
+  { type: "chapter", title: "Chapter 30: Now Add Many Electrons" },
+  { type: "chapter", title: "Chapter 31: The Book's Central Bridge" },
+  { type: "part", title: "Part Nine — Light Meets Matter" },
+  { type: "chapter", title: "Chapter 32: The Photon Is Not the Opposite of the Phase" },
+  { type: "chapter", title: "Chapter 33: When Matter Meets Light" },
+  { type: "chapter", title: "Chapter 34: The Loop, Formalized" },
+  { type: "part", title: "Part Ten — Renormalization, Done Once, Done Right" },
+  { type: "chapter", title: "Chapter 35: Vacuum Polarization — The Electron Is Not Quite Alone" },
+  { type: "chapter", title: "Chapter 36: The Terrible Reputation of Renormalization" },
+  { type: "chapter", title: "Chapter 37: A Resolution Dial" },
+  { type: "chapter", title: "Chapter 38: Renormalization Is a Translation System" },
+  { type: "part", title: "Part Eleven — The World at the End of the Wire" },
+  { type: "chapter", title: "Chapter 39: From QED to a Superconducting Circuit" },
+  { type: "chapter", title: "Chapter 40: One System, Several Descriptions" },
+  { type: "chapter", title: "Chapter 41: The Same Wire Contains All Four Worlds" },
+  { type: "part", title: "Part Twelve — What the Electron Knows" },
+  { type: "chapter", title: "Chapter 42: A Tiny Charge With a Huge Story" },
+  { type: "chapter", title: "Chapter 43: The Electron in a Superconductor" },
+  { type: "chapter", title: "Chapter 44: Is the Field Real?" },
+  { type: "part", title: "Part Thirteen — The Honest Ending" },
+  { type: "chapter", title: "Chapter 45: The Ladder of Descriptions — Electron to Eye" },
+  { type: "chapter", title: "Chapter 46: What We Have Learned, and What We Have Not Proven" },
+  { type: "chapter", title: "Chapter 47: Epilogue — The Law Becomes Visible" },
   { type: "back", title: "Appendix A: Equations at a Glance" },
   { type: "back", title: "Appendix B: Notes on Sources" },
   { type: "back", title: "Appendix C: Glossary" },
@@ -131,10 +131,10 @@ const CHAPTER_TOC_INDEX = {};
 const PART_TOC_INDEX = {};
 TOC_ENTRIES.forEach((e, idx) => {
   if (e.type === "chapter") {
-    const m = e.title.match(/^(\d+)\./);
+    const m = e.title.match(/^Chapter (\d+):/);
     if (m) CHAPTER_TOC_INDEX[m[1]] = idx;
   } else if (e.type === "part") {
-    const m = e.title.match(/^PART (\w+)/);
+    const m = e.title.match(/^Part (\w+)/i);
     if (m) PART_TOC_INDEX[m[1].toUpperCase()] = idx;
   }
 });
@@ -377,7 +377,7 @@ function buildTOCParagraphs() {
     new Paragraph({
       pageBreakBefore: true,
       pStyle: undefined,
-      heading: HeadingLevel.HEADING_2,
+      heading: HeadingLevel.HEADING_1,
       alignment: AlignmentType.CENTER,
       spacing: { before: 0, after: 400 },
       children: [new TextRun({ text: "Table of Contents", font: HEADLINE_FONT, size: HEADLINE_SIZE, bold: true, color: HEADLINE_COLOR })],
@@ -430,13 +430,64 @@ function parseFile(mdPath, ctx) {
       }
       i++; continue;
     }
+    // Quanta, Actually title page (same layout as Physics, Actually):
+    //   "# Quanta, Actually"          series name, Title style (first "# ")
+    //   "#! Book Title"                 book title, Heading 1, not in the TOC
+    //   "%%SERIESLINE%% text"           series/volume line and author line
+    //   "%%SMALL%% text"                small copyright-page line
+    //   "%%PAGEBREAK%%"                 hard page break
+    //   "##! Heading"                   Heading 1 on a new page, not in the TOC
+    if (line.startsWith("#! ")) {
+      ctx.pushPara(new Paragraph({
+        heading: HeadingLevel.HEADING_1,
+        alignment: AlignmentType.CENTER,
+        spacing: { before: 240, after: 240 },
+        children: [new TextRun({ text: line.slice(3).trim(), font: HEADLINE_FONT, size: HEADLINE_SIZE, bold: true, color: HEADLINE_COLOR })],
+      }));
+      i++; continue;
+    }
+    if (line.startsWith("##! ")) {
+      ctx.pushPara(new Paragraph({
+        heading: HeadingLevel.HEADING_1,
+        pageBreakBefore: true,
+        alignment: AlignmentType.CENTER,
+        spacing: { before: 0, after: 240 },
+        children: [new TextRun({ text: line.slice(4).trim(), font: HEADLINE_FONT, size: HEADLINE_SIZE, bold: true, color: HEADLINE_COLOR })],
+      }));
+      i++; continue;
+    }
+    if (line.startsWith("%%SERIESLINE%% ")) {
+      ctx.pushPara(new Paragraph({
+        alignment: AlignmentType.CENTER,
+        spacing: { after: 160, ...LINE_SPACING },
+        children: [new TextRun({ text: line.slice(15).trim(), font: BODY_FONT, size: 26, bold: true, color: "4F81BD" })],
+      }));
+      i++; continue;
+    }
+    if (line.startsWith("%%SMALL%% ")) {
+      ctx.pushPara(new Paragraph({
+        alignment: AlignmentType.LEFT,
+        spacing: { after: 120 },
+        children: [new TextRun({ text: line.slice(10).trim(), font: BODY_FONT, size: 18 })],
+      }));
+      i++; continue;
+    }
+    if (line.trim() === "%%PAGEBREAK%%") {
+      ctx.pushPara(new Paragraph({ children: [new PageBreak()] }));
+      i++; continue;
+    }
     if (line.trim() === "%%TOC%%") {
       buildTOCParagraphs().forEach((p) => ctx.pushPara(p));
       i++; continue;
     }
     if (line.startsWith("## ")) {
+      // Same hierarchy as the Physics, Actually books: Parts and the
+      // front/back-matter pieces are Heading 1, numbered chapters
+      // ("Chapter N: Title") are Heading 2 under their Part.
+      const entry = TOC_ENTRIES[ctx.peekTocIndex()];
+      const level = entry && entry.type === "chapter" ? HeadingLevel.HEADING_2 : HeadingLevel.HEADING_1;
       ctx.pushPara(new Paragraph({
-        heading: HeadingLevel.HEADING_2,
+        heading: level,
         pageBreakBefore: true,
         alignment: AlignmentType.CENTER,
         spacing: { before: 0, after: 240 },
@@ -545,6 +596,7 @@ let tocIdCounter = 0;
 const ctx = {
   sawTitle: false,
   nextTocId() { return "toc" + (tocIdCounter++); },
+  peekTocIndex() { return tocIdCounter; },
   pushPara(para) { currentChildren.push(para); },
   flush(verticalAlign) {
     sections.push({
@@ -579,7 +631,8 @@ const doc = new Document({
   lastModifiedBy: "Lothar J. Musiol",
   title: "The Quantum Conversation",
   subject: "Phase, Light, and the Hidden Architecture of Electromagnetism",
-  description: "Phase, Light, and the Hidden Architecture of Electromagnetism",
+  description: "Quanta, Actually, Volume 2. Phase, Light, and the Hidden Architecture of Electromagnetism",
+  keywords: "Quanta, Actually; Volume 2",
   sections,
 });
 

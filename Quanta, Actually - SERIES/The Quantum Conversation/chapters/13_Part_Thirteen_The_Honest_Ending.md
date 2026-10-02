@@ -1,8 +1,8 @@
-# PART THIRTEEN — The Honest Ending
+# Part Thirteen — The Honest Ending
 
 ---
 
-## 45. The Ladder of Descriptions: Electron to Eye
+## Chapter 45: The Ladder of Descriptions — Electron to Eye
 
 ![Figure 12. Six stations, bottom to top: quantum amplitudes for each path; Feynman diagrams, summed; QED, electrons and photons; atoms, molecules, chemistry; light, color, materials; a person seeing the world. Nothing new is added on the way up, only distance and averaging. The chapter's walk through bulk materials, superconducting phase, and circuit QED sits between chemistry and everyday light, where the figure changes scale without drawing a box.](fig12_ladder.png)
 
@@ -38,7 +38,7 @@ They emerge from one another in the appropriate limits. And sometimes one descri
 
 ---
 
-## 46. What We Have Learned, and What We Have Not Proven
+## Chapter 46: What We Have Learned, and What We Have Not Proven
 
 Chapter 44 already warned against mistaking an elegant picture for proof about what's real. The same caution applies to this book's argument as a whole. A story this coherent starts to feel inevitable — phase everywhere, potentials everywhere, Feynman's path integrals and Mead's superconducting loops clicking together a little too easily — and the mistake waiting at the end of that feeling is treating the construction as though it were itself an established theory, rather than a synthesis built on top of one. Three things need pulling apart and keeping separate: what physics has actually established, what particular formulations choose to emphasize, and what this book has proposed as a useful way of understanding how the pieces connect.
 
@@ -90,7 +90,7 @@ Nobody currently knows which. That uncertainty is the actual, honest shape of th
 
 ---
 
-## 47. Epilogue: The Law Becomes Visible
+## Chapter 47: Epilogue — The Law Becomes Visible
 
 The question this book opened with was simple enough to ask in one sentence: what is electromagnetism? The first answer anyone learns is just as simple. Charges create electric fields. Moving charges create magnetic fields. Fields exert forces. Maxwell's equations describe the whole affair compactly and completely. That picture works, and works so well that it's tempting to believe it must already be the final word.
 

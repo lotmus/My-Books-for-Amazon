@@ -8,7 +8,7 @@ Along the way:
 • The quantum fields underneath every particle you have ever heard of, and why “empty space” is nowhere near empty
 • QCD and QED — two of the best-tested theories in the history of science, set side by side so you can see why one gets stronger at short range while the other gets weaker
 • The four leading interpretations of what the theory means — Copenhagen, many-worlds, Bohmian mechanics, and objective collapse — without pretending any of them has won
-• An appendix on collective electrodynamics: the idea that electromagnetism itself might be readable from the collective quantum behavior of ordinary electrons. That appendix is also where the follow-up book, THE QUANTUM CONVERSATION, begins.
+• An appendix on collective electrodynamics: the idea that electromagnetism itself might be readable from the collective quantum behavior of ordinary electrons. That appendix is also where Volume 2, THE QUANTUM CONVERSATION, begins.
 
 This is not a textbook, and it is not a puff piece. Claims are labeled for what they are — established fact, well-tested theory, or genuinely open question — because the honest answer is more interesting than a confident wrong one. A short closing dialogue between two working physicists, Alice and Bob, recaps the argument in two voices. It is a coda, not the book.
 
@@ -28,8 +28,6 @@ Some of this is better felt than read, so the book comes with nine free interact
 
 If you want the real ideas behind quantum mechanics — not dumbed down, just made clear — this is the map.
 
-THE QUANTUM WORLD is the companion book to the three-volume PHYSICS, ACTUALLY series: Volume 1, Motion, Forces, Time, and Relativity; Volume 2, Gravity, Cosmology, and the Limits of Spacetime; and Volume 3, The Standard Model, Chaos, and the Edge of Knowledge. It reads on its own. The series covers the classical, relativistic, and particle-physics ground around it.
-
-A follow-up book, THE QUANTUM CONVERSATION, takes one argument from this book (phase, potentials, and electromagnetism read from the inside) and does not stop. Read this one first if you want the whole landscape. Read that one next if you want the single deepest cut.
+THE QUANTUM WORLD is Volume 1 of the QUANTA, ACTUALLY series. Volume 2, THE QUANTUM CONVERSATION, takes one argument from this book (phase, potentials, and electromagnetism read from the inside) and does not stop. Volume 3, the COMPLETE QUANTUM ELECTRODYNAMICS COURSE, does the full calculation. Read this one first if you want the whole landscape. It also reads on its own, and the PHYSICS, ACTUALLY series covers the classical, relativistic, and particle-physics ground around it.
 
 Reality might be the most convincing picture ever assembled. Whether the last layer is fields, information, or something we do not have a name for yet, the mystery is the point. Question the picture — including this one.

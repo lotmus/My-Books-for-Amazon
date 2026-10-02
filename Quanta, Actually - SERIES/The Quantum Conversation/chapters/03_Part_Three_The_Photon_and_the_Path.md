@@ -1,8 +1,8 @@
-# PART THREE — The Photon and the Path
+# Part Three — The Photon and the Path
 
 ---
 
-## 9. The Photon
+## Chapter 9: The Photon
 
 "Photon" is one of those words that feels perfectly clear right up until someone asks you what it actually means. Call it a particle of light, and you've said something true. You have not said very much. A photon is, more precisely, a quantum excitation of the electromagnetic field — which is a more accurate sentence, and also one that immediately raises a new question: excitation of *what*, exactly? What is the electromagnetic field, such that it has excitations?
 
@@ -36,7 +36,7 @@ That word — *coherent* — keeps reappearing, and the next two chapters lean o
 
 ---
 
-## 10. The Path Is Not a Track
+## Chapter 10: The Path Is Not a Track
 
 Suppose an electron travels from point A to point B. The classical instinct is to ask which path it took, as though the answer were a single line you could, in principle, trace with a pencil. Feynman's path-integral formulation of quantum mechanics^4 asks a different question entirely: what amplitude is associated with *each* of the infinitely many possible paths the electron could have taken between A and B?
 
@@ -64,7 +64,7 @@ And it reveals something the earlier, more piecemeal version of the argument onl
 
 ---
 
-## 11. From Individual Histories to Collective Phase
+## Chapter 11: From Individual Histories to Collective Phase
 
 Now widen the picture. Instead of one electron summing over its possible histories, imagine a macroscopic coherent system (the superconductor from Part Two) whose microscopic state is a staggeringly complicated sum over the histories of an enormous number of particles, but whose *collective* low-energy behavior can be captured by a single macroscopic phase field, as Chapter 5 described.
 

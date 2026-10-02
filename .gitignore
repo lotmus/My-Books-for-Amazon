@@ -1,7 +1,7 @@
 # Nested repositories with their own history (commit/push them separately)
 /Schrodingers_Paperwork/
-/Science Books/The Quantum Conversation/The Quantum Conversation - Manuscript/
-/Science Books/The Quantum Conversation/quantum-conversation-backup.git/
+/Quanta, Actually - SERIES/The Quantum Conversation/The Quantum Conversation - Manuscript/
+/Quanta, Actually - SERIES/The Quantum Conversation/quantum-conversation-backup.git/
 
 # Office lock files and temporaries
 ~$*
@@ -15,7 +15,6 @@ __pycache__/
 node_modules/
 
 # Over GitHub's 100 MB per-file limit
-/Science Books/The Quantum World/backup/The_Quantum_World__FINAL.rtf
 
 # leftovers of the damaged first .git (never commit these)
 /.git_corrupt/

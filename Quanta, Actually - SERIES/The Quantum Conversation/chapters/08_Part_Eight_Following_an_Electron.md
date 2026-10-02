@@ -1,8 +1,8 @@
-# PART EIGHT — Following an Electron
+# Part Eight — Following an Electron
 
 ---
 
-## 27. The Equation Behind the Conversation
+## Chapter 27: The Equation Behind the Conversation
 
 Here is the equation the book has been walking toward. I spent forty years using what it predicts without being able to say what the line meant. If a symbol is new, keep the sentence in front of it. The matrices can stay unread. This part is heading for one coupling, and that coupling shows up again in a wire.
 
@@ -41,7 +41,7 @@ The old force picture survives this encounter, just not intact — call it *abso
 
 ---
 
-## 28. Feynman's Diagrams Become Less Mysterious
+## Chapter 28: Feynman's Diagrams Become Less Mysterious
 
 With the interaction term from the last chapter in hand, Feynman diagrams finally have somewhere real to live. A diagram works as a graphical bookkeeping system for the terms that appear when you expand a quantum amplitude in powers of the electromagnetic coupling, never as a literal picture of the universe going about its business: start from the interaction term, expand, and each resulting term corresponds to some particular combination of interactions, which can then be drawn. The diagrams track which particles enter and leave, which interactions occur, how momentum moves through the process, and which mathematical factor belongs to each piece of the calculation.
 
@@ -63,7 +63,7 @@ Whether the corresponding field degrees of freedom are ontologically fundamental
 
 ---
 
-## 29. The Classical Coulomb Force Emerges
+## Chapter 29: The Classical Coulomb Force Emerges
 
 Now take the two-electron scattering process from the last chapter and slow it down: two charges, moving slowly, separated by a distance large compared with their quantum wavelengths. The full relativistic QED calculation for this process is complicated. But in this low-energy limit, the dominant piece of the interaction reduces to something reassuringly familiar — the Coulomb potential energy, from which the ordinary Coulomb force follows in the usual way, *F = −∇V*:
 
@@ -101,7 +101,7 @@ All of this sharpens a distinction: a force changes momentum; a phase changes in
 
 ---
 
-## 30. Now Add Many Electrons
+## Chapter 30: Now Add Many Electrons
 
 The single-electron story from the last three chapters is only the opening act. Put a great many electrons together, and the quantum state now lives in a configuration space whose size multiplies out of all proportion to the number of particles involved, which sounds, at first, like it should make any hope of a simple phase-based picture completely hopeless. Instead, something remarkable tends to happen under the right conditions: interactions can organize the system, the electrons can settle into a collective state, and new effective variables emerge that were nowhere to be found in the description of any single electron on its own.
 
@@ -125,7 +125,7 @@ This is why emergence, throughout this book, has meant organization, not mere av
 
 ---
 
-## 31. The Book's Central Bridge
+## Chapter 31: The Book's Central Bridge
 
 One relationship, both ends of the story. A single electron in the full theory, and a supercurrent in a wire, are the same combination of phase gradient and potential:
 

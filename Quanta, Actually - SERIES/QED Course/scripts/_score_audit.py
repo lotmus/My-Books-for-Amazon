@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import os as _os
+import re
 HERE = _os.path.dirname(_os.path.abspath(__file__))
 ROOT = _os.path.dirname(HERE)
 """Audit the finished Complete QED Course.docx for the scorecard."""
@@ -74,7 +75,7 @@ grab = False
 count = 0
 for p in paras:
     t = p.text.strip()
-    if t.startswith("Lesson 75 "):
+    if re.match(r"Lesson 75[: ]", t):
         grab = True
     if grab and t:
         lines.append(t[:240])
@@ -86,7 +87,7 @@ grab = False
 count = 0
 for p in paras:
     t = p.text.strip()
-    if t.startswith("Lesson 85 "):
+    if re.match(r"Lesson 85[: ]", t):
         grab = True
     if grab and t:
         lines.append(t[:240])
@@ -98,7 +99,7 @@ grab = False
 count = 0
 for p in paras:
     t = p.text.strip()
-    if t.startswith("Lesson 76 "):
+    if re.match(r"Lesson 76[: ]", t):
         grab = True
     if grab and t:
         lines.append(t[:200])
