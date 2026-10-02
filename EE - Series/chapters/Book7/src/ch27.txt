@@ -20,6 +20,13 @@ WEP: A product is tested at 10 V/m with 80% AM. Find the peak field.
 WES: With 80% modulation the envelope's peak is 1.8 times the unmodulated level, so the peak field is 18 V/m. Pass criteria are written against the product's function: criterion A, normal operation during the test; B, temporary degradation with self-recovery; C, loss of function that the user must restore.
 H2: 27.4 The second report: radio conformance
 P: A product with a transmitter is also a radio, and the radio rules are a separate legal requirement. In the European Union the Radio Equipment Directive requires conformance in three areas: health and safety, including RF exposure; EMC, usually shown with ETSI EN 301 489; and efficient use of spectrum, shown with radio standards such as EN 300 328 for 2.4 GHz wideband transmitters. In the United States, the digital circuitry falls under Part 15 Subpart B, while the transmitter is certified under Subpart C or another rule part, through a Telecommunication Certification Body, with its own RF-exposure evaluation of the kind Book 4's Chapter 33 describes. The EMC report and the radio report are different documents, from different test setups, and a product needs both.
+H2: 27.5 Choosing a TVS diode for a signal line
+P: Surges on signal and data lines are applied through a larger coupling impedance than on mains lines. For unshielded lines IEC 61000-4-5 adds 40 Ω to the generator's 2 Ω, so the current is far smaller than on a power input, but the protected circuit is also far more fragile. A TVS diode conducts above its breakdown voltage V_BR and behaves, once conducting, roughly like a voltage source V_BR in series with a dynamic resistance R_dyn. The clamping voltage is then V_C = V_BR + I_PP R_dyn, and that voltage, not the breakdown voltage, is what the protected pin sees. Choosing a TVS means meeting four conditions at once: its stand-off voltage must exceed the line's highest working voltage so it does not leak in normal use; its clamping voltage at the surge current must stay below the protected part's absolute maximum; its peak pulse power rating for an 8/20 µs pulse must exceed V_C × I_PP; and its capacitance must be small enough not to load the signal, which for multi-gigabit lines means a fraction of a picofarad and a different class of device.
+EQ: I_PP ≈ (V_surge − V_C) / 42 Ω,    V_C = V_BR + I_PP R_dyn,    P_PP = V_C I_PP
+H2: Worked Example 27.4
+WEP: A 24 V industrial input is protected by a TVS with V_BR = 30 V and R_dyn = 0.5 Ω. A 1 kV surge is applied through 42 Ω. Estimate the surge current, the clamping voltage, and the peak power the TVS must handle.
+WES: Taking V_C near 41 V, I_PP ≈ (1000 − 41)/42 = 22.8 A. Then V_C = 30 + 22.8 × 0.5 = 41.4 V, consistent with the estimate. The peak power is 41.4 × 22.8 = 944 W, so the TVS needs an 8/20 µs rating of at least 1 kW, and the input circuit behind it must tolerate about 42 V for 20 µs.
+P: Immunity tests and emission tests are both measurements against limits, and every measurement is made on a few units. Chapter 28 asks how those few units speak for production, and how the simulation flow and the day in the lab fit together.
 H2: Practice
 PR: Find the first-peak current of an 8 kV contact discharge.
 PR: Find the voltage across 5 nH for a 30 A rise in 0.8 ns.
@@ -27,9 +34,11 @@ PR: Find the short-circuit current of a 4 kV surge into 2 Ω.
 PR: Find the peak field of 3 V/m with 80% AM.
 PR: Under the EU Radio Equipment Directive, which ETSI standard family usually covers a radio's EMC?
 PR: Why must an ESD clamp be placed at the connector?
+PR: A 2 kV surge is applied through 42 Ω to a line clamped at about 40 V. Estimate the surge current.
 ANS: 30 A.
 ANS: 188 V.
 ANS: 2000 A.
 ANS: 5.4 V/m.
 ANS: ETSI EN 301 489.
 ANS: The inductance of the trace between the connector and a distant clamp develops a large voltage at nanosecond edges, so the discharge reaches the circuit before the clamp can divert it.
+ANS: (2000 − 40)/42 = 46.7 A.

@@ -17,6 +17,13 @@ EQ: rfar ≈ 2D²/λ  and  r > λ/2π
 H2: Worked Example 25.2
 WEP: Find the far-field distance for a 1 m product at 1 GHz and the reactive near-field boundary λ/2π at 30 MHz.
 WES: 2 × 1² / 0.3 = 6.7 m at 1 GHz, so a 3 m chamber measures this product in its radiating near field. At 30 MHz, λ/2π = 10/(2π) = 1.6 m, so at 3 m the antenna is outside the reactive near field but not deep in the far field. Standards accept these compromises with stated uncertainty because the alternative, enormous ranges, would make testing impractical.
+H2: 25.5 Above 1 GHz: absorber on the floor and the horn's footprint
+P: Above 1 GHz the reflecting floor stops being an advantage. The ground-reflected ray produces deep nulls that move with small changes in height, and CISPR 16-1-4 therefore requires a free-space test environment: absorber is laid on the floor between the antenna and the product, turning the semi-anechoic chamber into a fully anechoic one for these frequencies. The site is validated by a site voltage standing-wave ratio measurement, S_VSWR, which must not exceed 6 dB across the test volume. The receive antenna is now a horn, and its beam must cover the product. At distance d, a horn with a 3 dB beamwidth θ illuminates a width w = 2d tan(θ/2). Horn beamwidth narrows as frequency rises, so a product that is fully covered at 1 GHz may extend outside the beam at 6 GHz, and the standard then requires the antenna to be scanned in height to find the maximum. The horn's own far field, 2D²/λ, must also lie inside the test distance: a horn with a 0.2 m aperture at 6 GHz has 2 × 0.04 / 0.05 = 1.6 m, comfortably less than 3 m.
+EQ: w = 2 d tan(θ/2),    S_VSWR ≤ 6 dB
+H2: Worked Example 25.3
+WEP: A horn has a 3 dB beamwidth of 40° at 1 GHz and 20° at 6 GHz. At a 3 m distance, find the width it illuminates at each frequency, and say whether a 1.5 m tall product is covered at 6 GHz.
+WES: At 1 GHz, w = 2 × 3 × tan 20° = 2.18 m, which covers the product. At 6 GHz, w = 2 × 3 × tan 10° = 1.06 m, less than 1.5 m, so the product is not covered and the horn must be scanned in height to find the maximum emission.
+P: The chamber measures what the product radiates. Chapter 26 measures what it pushes back into the mains, with a quite different instrument, the LISN.
 H2: Practice
 PR: Convert a 3 m reading of 45 dBµV/m to 10 m with the 1/r rule.
 PR: Find the path difference at h = 1 m, he = 0.8 m, R = 3 m.
@@ -24,9 +31,11 @@ PR: Find the far-field distance for a 0.3 m product at 3 GHz.
 PR: What NSA tolerance must a chamber meet below 1 GHz?
 PR: Why is absorber placed on the floor for measurements above 1 GHz?
 PR: Why does the method maximize over antenna height and turntable angle?
+PR: Find the width illuminated at 3 m by a horn with a 30° beamwidth.
 ANS: 45 − 10.5 = 34.5 dBµV/m.
 ANS: √(9 + 3.24) − √(9 + 0.04) = 3.499 − 3.007 = 0.492 m.
 ANS: 2 × 0.09/0.1 = 1.8 m.
 ANS: ±4 dB of the theoretical value.
 ANS: Above 1 GHz the beams are narrower and the ground reflection would create deep, position-sensitive nulls, so the method suppresses it to approximate free space.
 ANS: The radiated pattern and the floor reflection make the field vary with position; maximizing records the worst case, so the result does not depend on where the antenna happened to be.
+ANS: 2 × 3 × tan 15° = 1.61 m.

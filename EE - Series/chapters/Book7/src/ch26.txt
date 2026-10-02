@@ -17,6 +17,13 @@ WEP: A 500 kHz converter puts 50 mV of fundamental ripple on the LISN. The quasi
 WES: 50 mV is 94.0 dBµV, so the filter must give 94.0 − 56 + 6 = 44.0 dB at 500 kHz. The corner is 500 kHz/10^(44/40) = 39.7 kHz, and C = 1/((2π × 39.7 kHz)² × 4.7 µH) = 3.42 µF. The filter's own resonance must then be damped, or it can oscillate with the converter's negative input resistance, the problem Middlebrook described and Book 6's control loop must respect.
 H2: 26.4 Layout of the filter
 P: A filter's attenuation in the datasheet assumes that its input and output are isolated from each other. On a real board, a filter placed in the middle of the converter, with its input trace running past the switching node, is bypassed by stray capacitance and mutual inductance, and its attenuation at 10 MHz can collapse by 20 dB or more. Filters belong at the power entry, with the noisy and clean sides physically separated and the Y capacitors returned directly to chassis. The same rule applies to I/O filters for radiated emissions: a filter that is not at the boundary becomes part of the antenna.
+H2: 26.5 The touch-current budget for Y capacitors
+P: A Y capacitor from line to protective earth carries a mains-frequency current I = 2πfCV at all times. In normal use that current returns harmlessly through the earth conductor, but if the earth connection is broken, or the product is double insulated and has no earth, the same current flows through anyone who touches the chassis. Safety standards therefore cap the touch current. The older IEC 60950-1 limited Class II equipment to 0.25 mA, and IEC 62368-1 sets the boundary of energy class ES1 at 0.5 mA rms; medical standards are stricter still. The calculation must use the worst case: the highest rated mains voltage, the highest frequency, 60 Hz rather than 50 Hz, and the capacitor's upper tolerance. That budget fixes the largest total Y capacitance the filter may use, and when it is not enough for the common-mode attenuation, the remaining attenuation must come from the common-mode choke, which has no such limit.
+EQ: I_touch = 2π f C V
+H2: Worked Example 26.3
+WEP: Find the touch current of a 4.7 nF Y capacitor at 230 V, 50 Hz, and at the worst case of 264 V, 60 Hz. What is the largest Y capacitance that keeps the touch current below 0.25 mA at 264 V, 60 Hz?
+WES: At 230 V, 50 Hz, I = 2π × 50 × 4.7 nF × 230 V = 0.34 mA. At 264 V, 60 Hz, I = 2π × 60 × 4.7 nF × 264 V = 0.47 mA, above 0.25 mA. The largest capacitance is C = 0.25 mA / (2π × 60 × 264 V) = 2.5 nF, so a 2.2 nF part, within tolerance, is the practical choice, and the choke must supply the attenuation the smaller capacitor gives up.
+P: Emissions are what a product does to its surroundings. Chapter 27 turns the question around: what the surroundings do to the product.
 H2: Practice
 PR: Convert 2 mV on the LISN to dBµV.
 PR: Find the common-mode current through 50 pF at 200 V in 10 ns.
@@ -24,9 +31,11 @@ PR: A 100 kHz converter's second harmonic is 20 mV at 200 kHz, where the limit i
 PR: Find the LC corner for 40 dB at 300 kHz.
 PR: Find C for a 39.7 kHz corner with 10 µH.
 PR: Why are Y capacitors limited in value?
+PR: Find the touch current of a 2.2 nF Y capacitor at 230 V, 50 Hz.
 ANS: 66.0 dBµV.
 ANS: 1.0 A.
 ANS: 86.0 − 63.6 + 6 = 28.4 dB.
 ANS: 300 kHz/10 = 30 kHz.
 ANS: 1.61 µF.
 ANS: They connect the mains lines to protective earth, so their 50 or 60 Hz current flows through anyone touching an ungrounded chassis; safety standards cap that touch current.
+ANS: 2π × 50 × 2.2 nF × 230 V = 0.16 mA.

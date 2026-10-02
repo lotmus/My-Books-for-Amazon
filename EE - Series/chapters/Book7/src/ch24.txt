@@ -13,6 +13,13 @@ WEP: A 100 MHz clock is spread downward by 0.5%. Estimate the reduction of its f
 WES: The fundamental spreads over 0.5% of 100 MHz = 500 kHz, so the reduction is 10 log₁₀(500/120) = 6.2 dB. The third harmonic at 300 MHz spreads over 1.5 MHz, and the reduction is 10 log₁₀(1500/120) = 11.0 dB. Higher harmonics benefit more, which suits the frequencies where Chapter 21 showed radiation is strongest.
 H2: 24.4 Scanning in practice
 P: A full radiated scan from 30 MHz to 1 GHz in 120 kHz steps has thousands of frequencies, each to be measured at every antenna height, polarization, and turntable angle. Labs therefore make a fast preliminary peak scan, often with the equipment rotated and the antenna moved continuously, identify the frequencies within a chosen margin of the limit, typically 6 dB, and then maximize and measure each one with the specified detector. The time-domain scanning receivers allowed by CISPR 16 since 2010 capture many frequencies at once with FFT processing and have shortened scans greatly.
+H2: 24.5 Scan time, step size, and the FFT receiver
+P: A stepped receiver measures one frequency at a time, and CISPR 16 requires the step to be no more than half the resolution bandwidth so that no narrowband emission falls between steps. The number of steps is the span divided by the step, and the time is the number of steps times the dwell at each. The quasi-peak detector needs a dwell of about a second to settle, so a quasi-peak scan of the whole band at every antenna position would take hours, which is why labs scan with the peak detector first and apply quasi-peak only at the suspect frequencies. A time-domain or FFT-based receiver digitizes a wide segment at once and computes all the bins in that segment in parallel, applying the CISPR weighting digitally. It replaces thousands of dwells with a few dozen segment captures. It also catches intermittent emissions, a burst from a radio or a motor start, that a stepped scan would see only if the burst happened to coincide with the step.
+EQ: N_steps = span / step,   step ≤ RBW / 2,   T_scan = N_steps × dwell
+H2: Worked Example 24.2
+WEP: Find the number of steps and the quasi-peak scan time for 30 MHz to 1 GHz with a 120 kHz bandwidth and a 1 s dwell. Compare an FFT receiver that captures 20 MHz segments with a 1 s dwell each.
+WES: The step is 60 kHz, so N = 970 MHz / 60 kHz = 16,167 steps, and the scan takes 16,167 s, about 4.5 hours, for one antenna height and turntable angle. The FFT receiver needs 970/20 = 48.5, so 49 segments, about 49 s, a speedup of more than 300 times. The difference is what makes full quasi-peak final scans practical.
+P: The receiver is only one part of the measurement. Chapter 25 turns to the room around the product, the semi-anechoic chamber, and why its floor is metal.
 H2: Practice
 PR: What is the CISPR resolution bandwidth at 50 MHz, and at 2 GHz?
 PR: A 200 MHz clock spread by 1% is measured in 120 kHz. Estimate the reduction of the fundamental.
@@ -20,9 +27,11 @@ PR: A spread of 0.3% is applied to a 33 MHz clock. Does it reduce the fundamenta
 PR: A peak scan shows 41 dBµV/m against a 43.5 dBµV/m quasi-peak limit. Must the frequency be re-measured?
 PR: Why is a continuous sine wave the same on peak, quasi-peak, and average?
 PR: Why does a spread-spectrum clock not reduce total radiated power?
+PR: How many steps and how long a quasi-peak scan does 150 kHz to 30 MHz take with a 9 kHz bandwidth and a 1 s dwell?
 ANS: 120 kHz and 1 MHz.
 ANS: 10 log₁₀(2000/120) = 12.2 dB.
 ANS: The spread is 99 kHz, narrower than 120 kHz, so the reduction is negligible.
 ANS: Yes; it is within the usual 6 dB margin, so it is maximized and measured with quasi-peak, which can only read the same or lower.
 ANS: Its envelope is constant, so its peak, its weighted quasi-peak, and its average are equal.
 ANS: Frequency modulation moves energy among frequencies but does not change the signal's amplitude, so the total power is the same; only its spectral density falls.
+ANS: Step 4.5 kHz, 29.85 MHz / 4.5 kHz = 6,633 steps, about 1.8 hours.

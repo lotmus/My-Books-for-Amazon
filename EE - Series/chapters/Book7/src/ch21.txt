@@ -17,6 +17,13 @@ WEP: A 25 MHz clock has a 50% duty cycle and 1 ns edges. Find its two spectral c
 WES: The pulse width is 20 ns, so f1 = 1/(π × 20 ns) = 15.9 MHz, below the fundamental, and f2 = 1/(π × 1 ns) = 318 MHz. Between them the current spectrum falls at 20 dB per decade while the loop's efficiency rises at 40 dB per decade, so the radiated field rises at 20 dB per decade up to about 318 MHz and then stays roughly flat. Slowing the edge to 3 ns lowers f2 to 106 MHz and pulls down every harmonic above it, which is why slew-rate control is a cheap first fix.
 H2: 21.3 What the designer controls
 P: The cures follow from the formula. Keep high di/dt loops small: route every fast signal over an unbroken return plane so the return current flows directly beneath it, making the loop area the trace length times its height above the plane, a fraction of a millimeter. Never cut a slot in the plane under a fast trace, because the return must then detour around the slot and the loop area grows by orders of magnitude. Use the slowest edges the timing allows, and spread-spectrum clocking where the protocol tolerates it. Filter every signal that leaves the board, because the next chapter shows that a cable is a far better antenna than any loop on the board.
+H2: 21.4 Slots, seams, and heat sinks that resonate
+P: An enclosure seam or a ventilation slot is also an antenna. By Babinet's principle a thin slot of length L in a metal sheet radiates like a dipole of the same length, and it resonates when L is half a wavelength. A 15 cm seam therefore resonates near 1 GHz and passes almost everything at that frequency. Below resonance, a slot attenuates roughly as SE ≈ 20 log₁₀(λ/2L), so the longest dimension of an opening, not its area, sets the shielding. A row of small holes shields far better than one long slot of the same open area, and gasketed seams with fasteners every few centimetres keep the longest gap short. Heat sinks give the same trouble from the other side. A heat sink bolted to a switching transistor couples to the switching node through the device's tab capacitance, and a fin assembly of length L acts as a monopole that resonates at a quarter wavelength. Grounding the heat sink to the return plane at several points, or using an insulating pad with a grounded shield layer, moves that resonance out of the band or removes the drive.
+EQ: f_res = c / 2L  (slot),    SE ≈ 20 log₁₀(λ / 2L)  for L < λ/2
+H2: Worked Example 21.3
+WEP: An enclosure has a 15 cm seam. Find its resonant frequency and its shielding effectiveness at 300 MHz. What is the shielding at 300 MHz if fasteners limit the longest gap to 3 cm?
+WES: f_res = 3 × 10⁸ / (2 × 0.15) = 1.0 GHz. At 300 MHz, λ = 1 m, so SE ≈ 20 log₁₀(1/0.3) = 10.5 dB, which is little protection. With the gap limited to 3 cm, SE ≈ 20 log₁₀(1/0.06) = 24.4 dB, about 14 dB better, and the resonance moves up to 5 GHz.
+P: Loops, slots, and heat sinks are the small antennas. Chapter 22 turns to the large ones, the cables attached to every product.
 H2: Practice
 PR: Find the field at 3 m from a 1 cm² loop carrying 5 mA at 200 MHz.
 PR: By how many decibels does the field change if the loop area is cut from 4 cm² to 1 cm²?
@@ -24,9 +31,11 @@ PR: A 50 MHz clock has 2 ns edges. Find f2.
 PR: How many decibels more does the 150 MHz harmonic of a 50 MHz clock radiate than the fundamental with the same current?
 PR: Convert 3.51 × 10⁻⁵ V/m to dBµV/m.
 PR: Why does a slot in the ground plane under a clock trace increase radiation?
+PR: Find the resonant frequency of a 10 cm slot.
 ANS: 263 × 10⁻¹⁶ × 4 × 10¹⁶ × 10⁻⁴ × 5 × 10⁻³ / 3 = 1.75 × 10⁻⁴ V/m, or 44.9 dBµV/m.
 ANS: 20 log₁₀4 = 12.0 dB lower.
 ANS: 159 MHz.
 ANS: 20 log₁₀(3²) = 19.1 dB.
 ANS: 30.9 dBµV/m.
 ANS: The return current must detour around the slot, so the loop it forms with the signal current is much larger, and the field grows with that area.
+ANS: 3 × 10⁸ / 0.2 = 1.5 GHz.

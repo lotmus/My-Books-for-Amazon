@@ -17,6 +17,13 @@ WEP: At 100 MHz the receiver reads 22 dBµV. The antenna factor is 12 dB/m and t
 WES: E = 22 + 12 + 2 = 36 dBµV/m. The limit is 43.5 dBµV/m, so the margin is 7.5 dB. The test report would list this frequency, the polarization, the antenna height, and the turntable angle at which the maximum occurred, together with the detector used.
 H2: 23.4 Classes, product families, and the report
 P: Which limits apply depends on what the product is and where it will be used. CISPR 32 covers multimedia equipment such as computers, displays, and audio products; other CISPR standards cover household appliances, industrial equipment, vehicles, and lighting. A product with a radio transmitter needs a second set of tests for its radio, Chapter 27's subject. The EMC test report states the standard and edition, the class, the configuration, the measurement uncertainty, and every frequency within a stated margin of the limit, and the lab's accreditation, ISO/IEC 17025, covers exactly the methods it applied.
+H2: 23.5 Limits above 1 GHz and how high to scan
+P: Above 1 GHz the limits change form. The FCC Class B limit above 960 MHz is 500 µV/m at 3 m, which is 54 dBµV/m, measured with an average detector in a 1 MHz bandwidth, and a peak limit 20 dB higher, 74 dBµV/m, applies at the same time. CISPR 32 also sets separate average and peak limits above 1 GHz. How high the scan must go depends on the highest frequency generated or used inside the product, including clocks and processor cores. FCC Part 15 and CISPR 32 use nearly the same steps: if the highest internal frequency is below 108 MHz, scan to 1 GHz; below 500 MHz, to 2 GHz; below 1 GHz, to 5 GHz; above 1 GHz, to five times that frequency, which the FCC caps at 40 GHz and CISPR 32 at 6 GHz. A product with a fast processor therefore needs horn antennas and a test well into the microwave range, and its report must state the highest internal frequency it declared.
+EQ: 500 µV/m = 20 log₁₀(500) = 54.0 dBµV/m (average);   peak limit = average + 20 dB
+H2: Worked Example 23.3
+WEP: A product contains a 1.6 GHz processor clock. To what frequency must it be scanned under FCC Part 15 and under CISPR 32? At 2 GHz it measures 68 dBµV/m peak and 50 dBµV/m average at 3 m. Does it meet the FCC Class B limits?
+WES: Five times 1.6 GHz is 8 GHz, so the FCC scan goes to 8 GHz; CISPR 32 caps the scan at 6 GHz. Against the FCC limits, the peak margin is 74 − 68 = 6 dB and the average margin is 54 − 50 = 4 dB, so the product passes both, the average limit being the tighter one here.
+P: A limit is meaningless without the receiver that measures against it. Chapter 24 opens the receiver and asks what its detectors and bandwidths actually report.
 H2: Practice
 PR: Convert 200 µV/m to dBµV/m.
 PR: Convert the FCC Class A limit of 90 µV/m at 10 m to dBµV/m, and estimate it at 3 m.
@@ -24,9 +31,11 @@ PR: Convert the CISPR 32 Class B limit from 230 to 1000 MHz to 3 m.
 PR: A receiver reads 30 dBµV with AF = 15 dB/m and 3 dB of cable loss. Find the field.
 PR: What is the margin of that field against the FCC Class B limit at 300 MHz?
 PR: Why does a test report name both a product standard and a method standard?
+PR: The highest internal frequency of a product is 400 MHz. To what frequency must the radiated scan extend?
 ANS: 46.0 dBµV/m.
 ANS: 39.1 dBµV/m at 10 m, about 49.5 dBµV/m at 3 m.
 ANS: 47.5 dBµV/m.
 ANS: 48 dBµV/m.
 ANS: The limit is 46.0 dBµV/m, so it fails by 2 dB.
 ANS: The product standard supplies the limits and the class; the method standard defines how the measurement was made, and the result means nothing without both.
+ANS: 2 GHz.

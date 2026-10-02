@@ -21,6 +21,13 @@ WEP: The cable of Example 22.1 fails by 2.9 dB. A ferrite adds 300 Ω to a 150 �
 WES: The reduction is 20 log₁₀3 = 9.5 dB, so the field falls to 36.9 dBµV/m and the margin becomes 6.6 dB. A ferrite is a legitimate fix, but it is cheaper to remove the source, by moving the connector, filtering the lines, or bonding the shield properly, than to add a part to every product.
 H2: 22.4 Shields and their termination
 P: A shielded cable keeps common-mode current on the outside of the shield, where it radiates, unless the shield is bonded to the enclosure at the entry point with low inductance. A shield connected through a 5 cm pigtail has tens of nanohenries in series, a few tens of ohms at 100 MHz, and the noise current flows through the pigtail and onto the outside of the shield. A 360° bond at the connector backshell keeps the current on the inside surface. Chapter 28 returns to this as a typical two-decibel layout fix.
+H2: 22.5 Cable resonance and where the peaks fall
+P: A cable driven in common mode behaves like a monopole above the product's ground, or like a dipole when it connects two products. Its radiation peaks where it is resonant: a quarter wavelength for a cable driven against a small product, a half wavelength for a cable strung between two products of similar size. Because the common-mode current flows on the outside of the cable, in air, its velocity is close to the speed of light, so a 1.5 m cable between two units resonates near 100 MHz, with further peaks near the harmonics of that frequency. The practical consequence is that a radiated scan of a product with cables often shows broad humps whose frequency moves when the cable length changes, and the test standards fix cable lengths and their arrangement for that reason. If a peak moves when the cable is moved or replaced by a shorter one, the cable is the antenna, and the cure is at the cable entry: a ferrite, a choke, or a better shield bond.
+EQ: f_λ/2 ≈ c / 2L,    f_λ/4 ≈ c / 4L
+H2: Worked Example 22.4
+WEP: A product connected to a monitor by a 1.5 m cable shows radiated peaks near 100 MHz and 200 MHz. Explain the peaks, and predict where the first one moves if the cable is replaced by a 1 m cable.
+WES: For a half-wave resonance, f = 3 × 10⁸ / (2 × 1.5) = 100 MHz, and the second resonance is near 200 MHz, so the cable is radiating common-mode current. With a 1 m cable the first resonance moves to 3 × 10⁸ / 2 = 150 MHz. Seeing the peak move confirms the diagnosis before any filter is fitted.
+P: Knowing how a product radiates is half the problem. Chapter 23 describes the documents that say how much radiation is allowed and how it must be measured.
 H2: Practice
 PR: Find the field at 3 m from a 2 m cable with 2 µA of common-mode current at 150 MHz.
 PR: What common-mode current at 200 MHz on a 1 m cable gives 40 dBµV/m at 3 m?
@@ -28,9 +35,11 @@ PR: A plane of 0.5 nH carries 50 mA changing in 2 ns. Find the voltage.
 PR: A 200 Ω ferrite is added to a 100 Ω circuit. Find the reduction.
 PR: Why does a common-mode choke not attenuate the differential signal?
 PR: Why is a pigtail shield connection poor at high frequency?
+PR: At what frequency does a 2 m cable between two products show its first half-wave resonance?
 ANS: 1.257 × 10⁻⁶ × 1.5 × 10⁸ × 2 × 2 × 10⁻⁶ / 3 = 2.51 × 10⁻⁴ V/m, or 48.0 dBµV/m.
 ANS: 100 µV/m × 3/(1.257 × 10⁻⁶ × 2 × 10⁸) = 1.19 µA.
 ANS: 12.5 mV.
 ANS: 9.5 dB.
 ANS: The differential currents flow in opposite directions through the core, so their fluxes cancel and the choke presents little impedance to them.
 ANS: The pigtail's inductance has a large reactance at high frequency, so noise current flows through it onto the outside of the shield instead of returning on the inside.
+ANS: 3 × 10⁸ / 4 = 75 MHz.

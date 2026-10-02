@@ -20,6 +20,13 @@ WES: The needed change is 8 dB. Loop emission is proportional to area, so the ar
 H2: 28.4 The day in the lab
 P: The accredited test follows the method of Chapter 23 to the letter: the configuration, cable layout, operating mode, and detectors are recorded in the test plan before the first sweep. The engineer brings a documented operating mode that exercises the worst case, spare units, the cables of the product, and a short list of prepared fixes: ferrites, alternative cables, resistor values. Laboratories such as 7layers, part of Bureau Veritas, or Hermon Laboratories in Binyamina, Israel, measure the product and write the report against the standard. They do not design the board. The design, the margin, and the fixes remain the engineer's work, and the report is only as good as the product delivered to the chamber.
 KEY: Key idea. Pre-compliance with near-field probes and a margin of about 6 dB turns the accredited test into a confirmation. The lab measures and reports; the designer owns the margin.
+H2: 28.5 From one unit to production: the 80/80 rule
+P: A compliance test measures one unit, but the declaration covers every unit built. CISPR standards address this with a statistical rule: with 80 % confidence, at least 80 % of the production must comply. When a sample of n units is measured, the rule is met at each frequency if x̄ + kS ≤ L, where x̄ is the mean of the readings in dBµV/m, S is their sample standard deviation, L is the limit, and k is a factor from the non-central t-distribution that falls as the sample grows: 2.04 for 3 units, 1.69 for 4, 1.52 for 5, 1.42 for 6, and 1.20 for 12. A product that passes on a single unit by 1 dB may fail the rule when several units are measured, because the spread of the clock oscillator, the cable dress, and the assembly adds to the mean. This is the second reason, beside measurement uncertainty, for designing to a margin of several decibels.
+EQ: x̄ + k S ≤ L,    S = √(Σ(xᵢ − x̄)² / (n − 1))
+H2: Worked Example 28.4
+WEP: Five units measure 36.1, 37.4, 35.2, 38.0, and 36.8 dBµV/m at one frequency where the limit is 40.0 dBµV/m. Does the sample meet the 80/80 rule?
+WES: The mean is 183.5/5 = 36.7 dBµV/m. The deviations are −0.6, 0.7, −1.5, 1.3, and 0.1 dB, whose squares sum to 4.80, so S = √(4.80/4) = 1.10 dB. With k = 1.52, x̄ + kS = 36.7 + 1.67 = 38.4 dBµV/m, below 40.0, so the sample meets the rule with 1.6 dB to spare, although the worst unit alone had 2.0 dB.
+P: Part II has followed a product from its radiating loops to the certificate. Part III ends the book, and the series, with one product that draws on every earlier book at once.
 H2: Practice
 PR: Find the wavelength on FR-4 (εr = 4.4) at 3 GHz.
 PR: Below what size is a structure lumped at 3 GHz on FR-4?
@@ -27,9 +34,11 @@ PR: By how many decibels does halving a loop's area reduce its emission?
 PR: A product passes pre-compliance by 2 dB. Is that enough margin?
 PR: Which tool fits a planar microstrip filter best?
 PR: Does a near-field probe reading give the field strength to compare with the limit?
+PR: Three units have a mean of 37.0 dBµV/m and S = 1.0 dB against a 40.0 dBµV/m limit. Do they meet the 80/80 rule?
 ANS: About 47.7 mm.
 ANS: About 4.8 mm.
 ANS: 6.0 dB.
 ANS: No; with several decibels of uncertainty, a margin of about 6 dB is the usual target.
 ANS: A 2.5D planar solver such as Momentum, AXIEM, or Sonnet.
 ANS: No; it locates sources and compares changes, but it is not calibrated to the far-field limit.
+ANS: 37.0 + 2.04 × 1.0 = 39.0 dBµV/m, below 40.0, so yes, with 1.0 dB to spare.
