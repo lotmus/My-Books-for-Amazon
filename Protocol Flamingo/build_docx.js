@@ -575,7 +575,7 @@ const doc = new Document({
 Packer.toBuffer(doc).then(buf => {
   // Rev2 is the expanded manuscript and is edited in the docx.
   // This script still builds the earlier, shorter draft and must not replace Rev2.
-  const out = "C:\\Users\\lomus\\OneDrive\\My Books for Amazon\\Protocol Flamingo\\Protocol_Flamingo_script_draft.docx";
+  const out = require("path").join(__dirname, "Protocol_Flamingo_script_draft.docx");
   fs.writeFileSync(out, buf);
   console.log("Wrote", out, buf.length, "bytes");
 });
