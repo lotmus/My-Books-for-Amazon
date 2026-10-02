@@ -11,7 +11,7 @@ Do not commit another session’s `.docx`. Do not commit `bak\` snapshots, audit
 - Look First, *The Universe Has No Now*: `Science Books/Look First/HANDOVER.md`. Book 1 chapters 31 and 32 are full lessons again. The sequel keeps the same subjects as its chapters 25 and 26. There is no Book 3.
 - Look First, *A Trip Is Not a New Life*: `Science Books/Look First/A Trip Is Not a New Life - Manuscript/00_Status.md`. Do not restore the deleted Series Plan. Do not renumber the appendix. Popular chapters keep “a landing attempt in the 2030s.”
 - Lolly Wren: `Lolly Wren's Curious Science Adventures - SERIES/HANDOVER.md`, plus each book’s manuscript guide.
-- Mathematics Tower: `Math for HS and College/The Mathematics Tower/CLAUDE.md`. Floor 6 is trigonometry. Floor 10 is limits. Floor 11 is the derivative.
+- Mathematics Tower: `The Mathematics Tower/CLAUDE.md` (moved up from `Math for HS and College/` on 1 Oct 2026; the 50 topic outlines are in `The Mathematics Tower/planning/`). Floor 6 is trigonometry. Floor 10 is limits. Floor 11 is the derivative.
 - YouTube companion: `Your First YouTube Channel That Sells/CLAUDE.md`. Nine chapters. The order is `build_docx.py`. The click chapter is chapter 2.
 
 ## Already merged on main
