@@ -14,11 +14,15 @@ seems worth touching, say so and wait to be asked — don't go do it.
 
 ## Project facts
 
-- **The deliverable is `The_Quantum_World__FINAL.docx`.** It has been through
+- **The deliverable is `The Quantum World.docx`** — the single master (no
+  separate KINDLE/FINAL copies; the old `The_Quantum_World__FINAL.docx` and
+  `__KINDLE.docx` were retired 2026-10-02 to
+  `D:\bak\2026-10-02 Quantum World single master\`). It has been through
   many editorial passes (fact-check, style, accessibility, hyperlink fixes);
   treat it as mature, not a draft needing a rewrite.
-- `backup/` holds prior drafts, editorial feedback (ChatGPT/Grok/Gemini/
-  Copilot), and old KINDLE/TEST builds. Read for context; don't restyle or
+- `bak/` holds editorial feedback (ChatGPT/Grok/Gemini/Copilot). Old drafts
+  and KINDLE/FINAL backups now live in
+  `D:\bak\2026-10-02 Quantum World single master\`. Read for context; don't restyle or
   clean it up unasked.
 - `kdp_description_QW.txt` is the live KDP listing copy — treat claims in it
   (illustration count, simulator links, companion-volume framing) as things
@@ -29,3 +33,5 @@ seems worth touching, say so and wait to be asked — don't go do it.
   backup copy before assuming a relationship is broken — this book has at
   least one hyperlink (`rId12`, the Schrödinger's-cat image) whose correct
   form looks broken to a naive check but isn't.
+- No series line on the title page or in footers; the book is framed only as
+  "A Companion to the Physics, Actually Series". Do not add a series name.
