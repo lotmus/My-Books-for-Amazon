@@ -2,7 +2,7 @@
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
-out = Path(__file__).parent
+out = Path(__file__).resolve().parent.parent / "figures"
 W, H = 1600, 900
 NAVY = (12, 45, 90)
 INK = (20, 20, 20)

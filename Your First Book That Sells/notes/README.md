@@ -1,13 +1,24 @@
-# Your First Book That Sells
+# Your First Book That Sells — the single KDP-publishing book
 
-This folder is part of [lotmus/My-Books-for-Amazon](https://github.com/lotmus/My-Books-for-Amazon) on `main`. It is a normal folder, not a submodule. The private repo `lotmus/your-first-book-that-sells` only has a placeholder and an empty `First_Review_Kindle_Edition`. Do not push this book there, and do not turn this folder back into a submodule.
+Merged 1 October 2026. This folder is the only home of the KDP/self-publishing book. "How to Publish and Make Good Money", the "How  to  Pubish and Make Good Money" folder, and the plain-language "Your First Book That Sells" edition are now one book with one master.
 
-The manuscript is `First_Review_Kindle_Edition/Your_First_Book_That_Sells_Updated.docx`. It is the plain-language edition. Read the manuscript in order. Writing is chapter 1. The keep test is at the start. The number you keep is chapter 3. Thirty-two money ideas are chapter 8. Cover, keywords, and the ad test are chapters 5 and 9. A glossary sits before the sources. Regenerate the docx only with `First_Review_Kindle_Edition/rebuild_easy.py`, which reads `easy_book.md` in that same folder. The old `build.py`, the REV1–REV3 drafts, the pre-chapter-15 docx and the one-off `_*.py` scripts are in `bak\` (not tracked). The KDP listing draft is `First_Review_Kindle_Edition/KDP_Description.md`. Facts last rechecked 1 October 2026.
+## Layout
 
-`How to Publish and Make Good Money` is not on `main`. Do not recreate it, and do not recreate the older path `How  to  Pubish and Make Good Money`.
+- `Your First Book That Sells.docx` — the master (book root). Docx only; never build PDF or EPUB.
+- `KDP_Description.md` — the KDP listing (book root).
+- `chapters/` — the source, in build order:
+  - `00_front_matter.md` — title page, copyright, How to Read This Book
+  - `01_part_one_short_road.md` — Part I, chapters 1–15 (the old plain edition, `easy_book.md`)
+  - `02_parts_two_to_eight_full_guide.md` — Parts II–VIII, chapters 16–32 (the old *How to Publish and Make Good Money*, chapters 1–17, renumbered +15, with cross-references and figure numbers updated)
+  - `03_back_matter.md` — Appendices A–C, Glossary, Official sources, A Closing Word
+- `figures/` — every picture used by either half.
+- `scripts/build_master.py` — rebuilds the master from `chapters/`. `scripts/make_figures.py` redraws the Part I pictures.
+- `notes/` — this file, `MERGE_2026-10-01.md`, and the old status/instruction files of both editions (history only; their author and folder instructions are superseded).
+- `bak/` — ignored by git. Old docx versions, old build scripts, the misspelled folder, the nested `.git`.
 
-The companion book is a different folder and a different manuscript: `Your First YouTube Channel That Sells/`. Do not merge the two books, and do not copy chapters from one into the other. Agents working on the YouTube book should read that folder’s `CLAUDE.md` and the Current state section of its `_STATUS.md`, then stay there.
+## Rules
 
-Textbook and popular-science books elsewhere in this repo follow `COMMERCIAL BOOK METHOD.md` at the repo root. This Kindle book is neither. Do not rewrite it with that method.
-
-When committing, stage only files inside the folder you are working on. Other books in this checkout have their own uncommitted work. Do not force-push `main`.
+- Author: Lothar J. Musiol.
+- The companion *Your First YouTube Channel That Sells* is a separate book in its own folder.
+- Facts last rechecked 1 October 2026. Recheck KDP Help before every upload.
+- Stage only this folder when committing.
