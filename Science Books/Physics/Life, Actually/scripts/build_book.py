@@ -235,6 +235,8 @@ def build_index(blocks):
     return out
 
 # ---------------------------------------------------------------- build
+TOC_PAGES = json.load(open(os.path.join(ROOT, "notes", "toc_pages.json"))) if os.path.exists(os.path.join(ROOT, "notes", "toc_pages.json")) else {}
+
 def build():
     blocks = load_blocks()
     doc = Document(); setup_styles(doc)
@@ -278,7 +280,7 @@ def build():
                         p.paragraph_format.left_indent = Inches(0.2)
                     link(p, text, anc)
                     if kind == "ch":
-                        p.add_run().add_tab(); field(p, f"PAGEREF {anc} \\h", "1")
+                        p.add_run().add_tab(); field(p, f"PAGEREF {anc} \\h", str(TOC_PAGES.get(anc, 1)))
                 page_break(doc)
             elif g == "ALSO":
                 doc.add_paragraph("Also in This Series", style="Heading 1")

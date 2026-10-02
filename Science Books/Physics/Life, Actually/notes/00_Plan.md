@@ -40,16 +40,24 @@ Lothar approved merging *Life: Evolution* (31 chapters, about 72,500 words) and 
 
 ## Figures
 
-Figures are numbered 1 to N in book order. Figures 1–47 are the former Genetics figures 0–46. New figures for Part XI follow.
+Figures are numbered 1 to 50 in book order. Figures 1–47 are the former Genetics figures 0–46. Figures 48–50 (habitable zones, an icy ocean moon, transmission spectroscopy) are new diagrams for Part XI, drawn by `scripts/draw_new_figs.py`.
 
 ## House conventions (copied from Physics, Actually Vol. 2, the 6×9 KDP volume, and Vol. 3 for Part pages)
 
-- Trim 6 × 9 in. Body Georgia, justified. Headings Amazon Ember, bold, blue (#0000FF).
-- Title page: series line "Physics, Actually" (Title style), book title (Heading 1), subtitle, "A Volume in the Physics, Actually Series" and the author (Heading 2).
-- Copyright page: series, title, © 2026 Lothar J. Musiol, All rights reserved, educational disclaimer, "First edition.", "Physics, Actually series".
-- "Contents" (Heading 1, bookmark `chcontents`): hyperlinked entries, dot leader, PAGEREF page numbers. Then "Also in This Series".
-- Prologue and Epilogue as "Prologue: …" / "Epilogue: …" in Title style.
-- Part pages as in Vol. 3: "PART I" in Amazon Ember bold blue, part name in italics below.
-- Chapter headings in Title style with outline level 0: "Chapter N: Main Title — Subtitle". Sections in Heading 2. Each chapter ends with "↑ Back to Contents".
-- Back matter: Appendix, Glossary, Further Reading, Bibliography (author, title, journal, volume, year, pages), Index, About the Author.
-- Page number in the footer.
+- Trim 6 × 9 in; margins 0.75 in left and right, 0.8 in top and bottom. Body Georgia 11 pt, justified. Headings Amazon Ember, bold, blue (#0000FF).
+- Title page: series line "Physics, Actually" (Title style), book title (Heading 1), italic subtitle, "A Volume in the Physics, Actually Series" and the author (Heading 2).
+- Copyright page (Vol. 2 wording): series, title and subtitle, © 2026 Lothar J. Musiol, All rights reserved, reproduction notice, educational disclaimer, "First edition.", "Physics, Actually series".
+- "Contents" (Heading 1, bookmark `chcontents`): Part lines and hyperlinked chapter entries with dot leaders and PAGEREF page numbers. Then "Also in This Series".
+- "Prologue" (plain, as in Vol. 2) and "Epilogue: Two Tubes" in Title style.
+- Part pages as in Vol. 3: "PART I" in Amazon Ember bold blue, Part name in italics, a short italic opening note.
+- Chapter headings in Title style with outline level 0: "Chapter N: Main Title — Subtitle" for every chapter. Sections in Heading 2. Each chapter ends with "↑ Back to Contents".
+- Back matter in the Vol. 2 order: Epilogue, "Appendix: Core Ideas Worth Keeping", Glossary, Further Reading ("Title, by Author (Publisher, year) — note"), Bibliography (Chicago style: Last, First. "Title." Journal vol, no. (year): pages.), then Photo Credits and Index.
+- Running header with the book title, page number in the footer.
+- American spelling and curly quotes throughout, as in the Physics volumes (the former Genetics text was converted by `merge_sources/normalize.py`). Dates stay day-month-year.
+
+## Deliberate deviations from the Physics volumes
+
+- Glossary entries are run-in paragraphs (**Term** — definition. See Chapter N.) instead of one Heading 2 per term, because this glossary has 123 entries.
+- Further Reading gives publisher and year but no ISBNs (not verified).
+- The Index is by chapter number (each a link), not page number, so it stays right on Kindle and when pagination changes.
+- No "About the Author" page in the book (the Physics volumes have none); the bio is in `KDP_Description.md`.

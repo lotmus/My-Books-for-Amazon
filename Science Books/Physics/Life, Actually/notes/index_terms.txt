@@ -1,0 +1,162 @@
+# Index terms for Life, Actually. Format: Display term | optional regex (case-insensitive)
+# The index lists chapter numbers (and Prologue/Epilogue) where each term appears.
+23andMe
+Adaptation | adaptations?
+ALH84001
+Alvarez, Luis and Walter | Alvarez
+Amino acids | amino acids?
+Ancient DNA
+Anning, Mary | Mary Anning
+Archaea | archaea|archaeon
+Arecibo
+Arrhenius, Svante | Arrhenius
+Arsenic life | arsenic
+Asilomar
+ATP
+Avery, Oswald | Oswald Avery|Avery, MacLeod
+Axelrod, Robert | Axelrod
+Base editing
+Bateson, William | Bateson
+Bennu
+Biobank | biobanks?|UK Biobank
+Biosignature | biosignatures?
+Breakthrough Listen
+BRCA1 | \*?BRCA1\*?
+Cambrian explosion
+Cancer | cancers?
+Casgevy
+Cassini
+Charpentier, Emmanuelle | Charpentier
+Chargaff, Erwin | Chargaff
+Cheyava Falls
+Chirality | chirality|chiral|handedness
+Chloroplasts | chloroplasts?
+Cloning | cloning|cloned|clones?
+Codon | codons?
+Consciousness
+Convergent evolution | convergen\w*
+Cooperation
+CRISPR
+Crick, Francis | Crick
+Curiosity rover | (?-i:Curiosity)
+Darwin, Charles | Darwin
+Dawkins, Richard | Dawkins
+Deinococcus radiodurans | Deinococcus
+Denisovans | Denisovans?
+Dennett, Daniel | Dennett
+Dimethyl sulfide (DMS) | dimethyl sulfide|DMS
+Dinosaurs | dinosaurs?
+DNA fingerprinting | DNA fingerprint\w*|genetic fingerprint\w*|Jeffreys
+Dolly the sheep | Dolly
+Domestication | domesticat\w*
+Doudna, Jennifer | Doudna
+Dragonfly
+Drake equation
+Drake, Frank | Frank Drake
+Dyson sphere | Dyson
+Enceladus
+Endosymbiosis | endosymbio\w*
+Entropy
+EPAS1 | \*?EPAS1\*?
+Epigenetics | epigenetic\w*
+Eugenics
+Eukaryotes | eukaryotes?|eukaryotic
+Europa
+Europa Clipper
+Evo-devo
+Exoplanets | exoplanets?
+Extinction | extinctions?
+Extremophiles | extremophiles?
+Fermi, Enrico | Fermi
+Fermi paradox
+Franklin, Rosalind | Rosalind Franklin|Franklin
+Galápagos | Galápagos|Galapagos
+Galileo spacecraft | Galileo spacecraft|(?-i:Galileo)(?= (?:orbit|flew|saw|carried|team|magnetometer))
+Galton, Francis | Galton
+Game theory
+Gene therapy
+Genetic code
+Genetic drift | drift
+Genome-wide association study | genome-wide association|GWAS
+Gould, Stephen Jay | Gould
+Great Filter
+Habitable zone | habitable zones?
+Haldane, J. B. S. | Haldane
+Hamilton, W. D. | Hamilton
+He Jiankui
+Heritability
+Hofstadter, Douglas | Hofstadter
+Hox genes | Hox
+Human Genome Project
+Huygens probe | Huygens
+Hydrothermal vents | hydrothermal
+Insulin
+James Webb Space Telescope | Webb|JWST
+Jezero Crater | Jezero
+K2-18 b | K2-18 ?b
+Kepler space telescope | Kepler
+Lactase | lactase|lactose
+Lamarck, Jean-Baptiste | Lamarck\w*
+LUCA | LUCA|last universal common ancestor
+Lyell, Charles | Lyell
+Mars
+Mars Sample Return
+Mass extinctions | mass extinctions?
+McClintock, Barbara | McClintock
+Meiosis
+Mendel, Gregor | Mendel
+Messenger RNA | messenger RNA|mRNA
+Methane
+Miescher, Friedrich | Miescher
+Miller-Urey experiment | Miller|Urey
+Mirror life | mirror life|mirror bacteri\w*|mirror-image
+Mitochondria | mitochondri\w*
+Modern Synthesis
+Moravec, Hans | Moravec
+Morgan, Thomas Hunt | Morgan
+Multicellularity | multicellular\w*
+Natural selection
+Neanderthals | Neanderthals?
+Pääbo, Svante | Pääbo
+Panspermia | panspermia|lithopanspermia
+PCR | PCR|polymerase chain reaction
+Perchlorate
+Perseverance rover | Perseverance
+Phosphine
+Phosphorus | phosphorus|phosphates?
+Photo 51
+Photosynthesis
+Plate tectonics
+Polygenic score | polygenic scores?
+Prime editing
+Proxima Centauri | Proxima
+Pulsars | pulsars?
+Quantum biology
+Quantum tunneling | tunnel\w*
+Red dwarfs | red dwarfs?|M dwarfs?
+Red Queen
+Restriction enzymes | restriction enzymes?
+Ribosome | ribosomes?
+RNA world
+Robots | robots?|robotic
+Sanger, Frederick | Sanger
+Schrödinger, Erwin | Schrödinger
+Selfish gene
+SETI
+Sex | sex|sexual reproduction
+Sexual selection
+Shadow biosphere
+Sickle cell | sickle
+Stem cells | stem cells?
+Strange loop | strange loops?
+Tardigrades | tardigrades?
+Technosignatures | technosignatures?
+Titan
+TRAPPIST-1
+Turing, Alan | Turing
+Venus
+Viking landers | Viking
+Wallace, Alfred Russel | Wallace
+Watson, James | Watson
+Wilkins, Maurice | Wilkins
+Wow! signal | Wow!

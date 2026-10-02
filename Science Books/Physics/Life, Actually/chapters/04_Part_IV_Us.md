@@ -6,7 +6,7 @@ One branch of the tree is ours. It is recent, it was crowded with cousins, and s
 
 ### A Split, Not a Beginning
 
-Picture a single population of apes living in Africa, roughly six or seven million years ago. At some point, that population split into two separate groups. One group eventually became today's chimpanzees and bonobos. The other group, after millions of years and many extinct species in between, eventually became you. Neither branch is “more evolved” than the other. That phrase does not really mean much.
+Picture a single population of apes living in Africa, roughly six or seven million years ago. At some point, that population split into two separate groups. One group eventually became today’s chimpanzees and bonobos. The other group, after millions of years and many extinct species in between, eventually became you. Neither branch is “more evolved” than the other. That phrase does not really mean much.
 
 Natural selection is just a filter: it keeps whatever survives and reproduces best in a given place. Both branches have been filtered by it for the same stretch of time, from the split until today. Chimpanzees are not an early, unfinished draft of humans. They are cousins. They spent their own six or seven million years adapting to their own lives, the same way we spent ours adapting to ours. This chapter follows what happened on the human branch since that split. It is a messier story than the familiar textbook picture: one ape gradually straightening its back, marching left to right until it becomes a modern human. That picture is tidy. It is also wrong.
 
@@ -14,9 +14,9 @@ Natural selection is just a filter: it keeps whatever survives and reproduces be
 
 Here is one of the clearest facts from decades of fossil hunting. Humans learned to walk upright on two legs long before their brains got big. The most famous fossil showing this is a skeleton found in Ethiopia in 1974. Scientists nicknamed her Lucy. Lucy belonged to a species called Australopithecus afarensis, an early upright-walking relative of ours. She lived about 3.2 million years ago.
 
-Lucy's pelvis, knees, and feet show clear signs that she walked upright, though probably not quite the way you do, and she may still have climbed trees. But her skull tells a different story. Relative to her body size, her brain was not much bigger than a modern chimpanzee's. Even more striking evidence comes from fossilized footprints at a site called Laetoli, in Tanzania.
+Lucy’s pelvis, knees, and feet show clear signs that she walked upright, though probably not quite the way you do, and she may still have climbed trees. But her skull tells a different story. Relative to her body size, her brain was not much bigger than a modern chimpanzee’s. Even more striking evidence comes from fossilized footprints at a site called Laetoli, in Tanzania.
 
-A rain shower fell on volcanic ash there, roughly 3.6 million years ago. The ash hardened into rock before the footprints could wash away. At least two individuals from Lucy's species walked side by side across it. Their stride looks almost exactly like a modern human's. It is a snapshot of one ordinary afternoon, frozen more than three million years before anything like a modern human brain existed.
+A rain shower fell on volcanic ash there, roughly 3.6 million years ago. The ash hardened into rock before the footprints could wash away. At least two individuals from Lucy’s species walked side by side across it. Their stride looks almost exactly like a modern human’s. It is a snapshot of one ordinary afternoon, frozen more than three million years before anything like a modern human brain existed.
 
 Why did walking upright evolve first? Researchers suggest a few reasons. It freed the hands for carrying things. It let our ancestors cover open ground more efficiently. It may also have helped keep the body cool under the African sun. Whatever the real mix of reasons, one thing is clear: it was not about intelligence. Walking upright came first, by a wide margin.
 
@@ -102,7 +102,7 @@ Those steps would be layered on top of abilities we already shared with other sp
 
 The story of human origins is not the familiar straight march from ape to modern human. That march shows up on so many posters, but the evidence currently tells a different story. It is a genuinely bushy family tree, only recently clarified by reading ancient DNA directly. Upright walking arrived millions of years before any real increase in brain size.
 
-At least half a dozen human species coexisted, at various points, and sometimes interbred. All of this happened within just the last few hundred thousand years. The one branch that survived is ours. By the genetic evidence's own measure, we are a remarkably young, closely related population. We were only recently, and only partly, sorted out from several very close cousins.
+At least half a dozen human species coexisted, at various points, and sometimes interbred. All of this happened within just the last few hundred thousand years. The one branch that survived is ours. By the genetic evidence’s own measure, we are a remarkably young, closely related population. We were only recently, and only partly, sorted out from several very close cousins.
 
 We did not arrive at the top of a ladder. We are simply the branch that survived, out of several that once existed. We survived for reasons we still do not fully understand.
 
@@ -110,21 +110,21 @@ We did not arrive at the top of a ladder. We are simply the branch that survived
 
 ### Weather, Not History
 
-Evolution can feel like something that already finished. Picture it as a finished museum exhibit: dinosaurs evolved, the Cambrian explosion happened, humans left Africa, case closed. That picture is wrong, and it matters. Evolution is not a completed story with an ending. It is more like weather: happening right now, in every population of every species alive today. That includes you, as this chapter's last section will show.
+Evolution can feel like something that already finished. Picture it as a finished museum exhibit: dinosaurs evolved, the Cambrian explosion happened, humans left Africa, case closed. That picture is wrong, and it matters. Evolution is not a completed story with an ending. It is more like weather: happening right now, in every population of every species alive today. That includes you, as this chapter’s last section will show.
 
-Peppered moths turned darker as soot covered the trees they landed on. That's one clear example of evolution caught in the act — Chapter 7 has the full story. This chapter widens that view. It covers evolution happening over a few decades, or even within a single human lifetime. The cast ranges from moths to elephants to us.
+Peppered moths turned darker as soot covered the trees they landed on. That’s one clear example of evolution caught in the act — Chapter 7 has the full story. This chapter widens that view. It covers evolution happening over a few decades, or even within a single human lifetime. The cast ranges from moths to elephants to us.
 
 ### A Beak Measured Every Year
 
 The most carefully documented case of evolution caught in the wild comes from finches on one small island. The island is Daphne Major, an uninhabited speck in the Galápagos. Starting in 1973, and for about forty years after, Peter and Rosemary Grant, a husband-and-wife team of evolutionary biologists, went back almost every year. Each visit, with help from students and collaborators, they caught, measured, and marked nearly every finch on the island. They tracked which birds survived, which ones bred, and the exact size and shape of every beak. That decades-long effort has let them watch natural selection happen in real time, generation by generation.
 
-In 1977, a severe drought hit the island. The small, soft seeds finches usually eat became scarce. Birds with bigger, stronger beaks could crack the larger, tougher seeds that were left. Those birds survived at much higher rates than smaller-beaked birds. In just one generation, the island's average beak size measurably grew larger. That is natural selection, caught happening in a single season instead of over thousands of years.
+In 1977, a severe drought hit the island. The small, soft seeds finches usually eat became scarce. Birds with bigger, stronger beaks could crack the larger, tougher seeds that were left. Those birds survived at much higher rates than smaller-beaked birds. In just one generation, the island’s average beak size measurably grew larger. That is natural selection, caught happening in a single season instead of over thousands of years.
 
 Later, a wetter stretch favored smaller seeds again, and average beak size drifted back down. The Grants also watched a different finch species arrive on the island, settle in, and start evolving alongside the first. Few studies anywhere give as complete a picture of evolution acting on a wild population, year after year, as this one.
 
 ### An Old Friend, Briefly Revisited
 
-Richard Lenski's long-running bacteria experiment is still running. That experiment first showed how chance shapes evolution's path. Here it matters for a simpler reason. It shows that evolution under steady pressure is not rare or occasional. It is continuous. It keeps happening, generation after generation, for as long as the pressure lasts.
+Richard Lenski’s long-running bacteria experiment is still running. That experiment first showed how chance shapes evolution’s path. Here it matters for a simpler reason. It shows that evolution under steady pressure is not rare or occasional. It is continuous. It keeps happening, generation after generation, for as long as the pressure lasts.
 
 ### Pests Winning an Arms Race We Are Losing
 
@@ -136,7 +136,7 @@ The mechanism is the same one already described for peppered moths. A few insect
 
 Some of the clearest fast-evolution stories in animals with backbones come from lizards moved to new islands. In the 1970s, researchers moved Italian wall lizards to a small island off Croatia. A different lizard species already lived there. Within a few decades, only a few dozen lizard generations, the newcomers had changed. Their heads had reshaped into a stronger, more powerful bite.
 
-Their guts had grown new structures for digesting plants, a food they now ate far more of on their new island. This case stands out for a specific reason. The Grants' finches show a trait shifting in size. These lizards grew an entirely new gut structure their ancestors never had, and researchers watched it appear. A related, growing field studies “urban evolution”: how city life pushes species to change.
+Their guts had grown new structures for digesting plants, a food they now ate far more of on their new island. This case stands out for a specific reason. The Grants’ finches show a trait shifting in size. These lizards grew an entirely new gut structure their ancestors never had, and researchers watched it appear. A related, growing field studies “urban evolution”: how city life pushes species to change.
 
 Cities bring traffic noise, artificial light, new food, and chopped-up habitat, none of which rural relatives face. White-footed mice living in New York City parks now carry detectable genetic differences from mice in the surrounding countryside. They are separated only by streets and buildings. In Puerto Rico, anole lizards living in cities spend much of their time on walls, posts, and other smooth, open surfaces. They have evolved longer legs and stickier toe pads, built for sprinting and clinging on those surfaces.
 
@@ -158,7 +158,7 @@ Humans are not exempt from any of this. Several clear, well-documented cases of 
 
 The gene that makes lactase, the enzyme that breaks lactose down, normally switches off after weaning. Some human populations have a long history of raising dairy animals. Parts of Europe, and some populations in Africa and the Middle East, are examples. In those populations, different mutations appeared, independently, that keep the lactase gene switched on for life. Geneticists call this trait lactase persistence. It has spread widely, becoming common in some populations. That happened within roughly the last several thousand to ten thousand years.
 
-On evolution's usual timescale, that is barely a blink of an eye. That timing closely tracks the archaeological record of when dairy farming itself began spreading in each of those regions. This is a clean example of gene-culture coevolution. That term describes a cultural practice creating a brand-new evolutionary pressure. Here, the practice is keeping dairy animals and drinking their milk. That practice created a new selective pressure, which then drove genetic change in the population that adopted it. Chapter 36 shows the switch itself, a stretch of DNA in a neighbouring gene that keeps lactase on.
+On evolution’s usual timescale, that is barely a blink of an eye. That timing closely tracks the archaeological record of when dairy farming itself began spreading in each of those regions. This is a clean example of gene-culture coevolution. That term describes a cultural practice creating a brand-new evolutionary pressure. Here, the practice is keeping dairy animals and drinking their milk. That practice created a new selective pressure, which then drove genetic change in the population that adopted it. Chapter 36 shows the switch itself, a stretch of DNA in a neighbouring gene that keeps lactase on.
 
 The same pattern, a cultural practice creating its own evolutionary pressure, shows up again later in this book.
 
@@ -172,35 +172,35 @@ Natural selection did not have to invent the adaptation. It only had to keep it.
 
 A few other well-documented cases of recent human evolution round out this picture. Skin color varies across human populations, and that variation looks like relatively recent, place-specific natural selection. The trade-off runs in two directions. Skin needs enough sunlight to make vitamin D, especially important far from the equator, where sunlight is weaker. Skin also needs protection from too much ultraviolet damage, especially important near the equator, where sunlight is strongest.
 
-Genetic evidence in several populations suggests something specific. Today's skin tones evolved within roughly the last several tens of thousands of years. That is well after modern humans first migrated out of Africa. The sickle cell trait offers another example. It is an ongoing tug-of-war with the malaria parasite. It is itself a case of fairly recent selection, acting on specific populations in response to one clear pressure: malaria.
+Genetic evidence in several populations suggests something specific. Today’s skin tones evolved within roughly the last several tens of thousands of years. That is well after modern humans first migrated out of Africa. The sickle cell trait offers another example. It is an ongoing tug-of-war with the malaria parasite. It is itself a case of fairly recent selection, acting on specific populations in response to one clear pressure: malaria.
 
 ### Are We Still Under Selection, Right Now
 
 Given everything in this chapter, finches, lizards, elephants, and several cases within our own species, one question follows naturally. Is meaningful natural selection still acting on humans today? Or have modern medicine, farming, and technology mostly lifted us out of its reach? This question is harder to answer than the other cases in this chapter. The honest answer needs real hedging.
 
-Several studies have used large, long-running records from specific populations. They found measurable selection acting on traits like age at first childbirth, and other aspects of fertility. So selection has not fully stopped, even in modern, medically advanced populations. But most researchers agree that selection's overall force on modern humans has likely weakened a great deal. Modern medicine, sanitation, and farming have cut deaths from childhood infectious disease and outright starvation.
+Several studies have used large, long-running records from specific populations. They found measurable selection acting on traits like age at first childbirth, and other aspects of fertility. So selection has not fully stopped, even in modern, medically advanced populations. But most researchers agree that selection’s overall force on modern humans has likely weakened a great deal. Modern medicine, sanitation, and farming have cut deaths from childhood infectious disease and outright starvation.
 
-Both of those causes used to exert very strong selective pressure. Is today's selection weak but real, as some specific studies suggest? Or has it become so scattered and so buffered by modern life that it barely matters for most traits? That question remains genuinely open. Researchers are still working on it, and this book cannot offer one settled answer.
+Both of those causes used to exert very strong selective pressure. Is today’s selection weak but real, as some specific studies suggest? Or has it become so scattered and so buffered by modern life that it barely matters for most traits? That question remains genuinely open. Researchers are still working on it, and this book cannot offer one settled answer.
 
 ### Taking the Wheel
 
-So far, this chapter has described evolution happening to organisms. Sometimes a natural pressure drives it, as with the Grants' finches. Sometimes it is an accidental side effect of human activity, as with pesticide resistance or elephant tusklessness. One more category deserves mention. In some cases, humans now steer evolution on purpose, as a deliberate tool. In 2018, the chemist Frances Arnold won a share of the Nobel Prize in Chemistry for a technique called directed evolution.
+So far, this chapter has described evolution happening to organisms. Sometimes a natural pressure drives it, as with the Grants’ finches. Sometimes it is an accidental side effect of human activity, as with pesticide resistance or elephant tusklessness. One more category deserves mention. In some cases, humans now steer evolution on purpose, as a deliberate tool. In 2018, the chemist Frances Arnold won a share of the Nobel Prize in Chemistry for a technique called directed evolution.
 
 Researchers deliberately scramble a gene with random mutations in the lab. Then they apply their own chosen pressure, testing each mutated version and picking whichever works best. They repeat that cycle again and again. It is an accelerated, human-run version of the same variation-and-selection process this whole book has described happening in nature. The technique has already been used to build more efficient industrial enzymes, and materials used in some drug manufacturing.
 
-CRISPR gene editing takes a related but different approach. It lets researchers make a precise, intended change at one exact spot in a genome, an organism's full set of genetic instructions. Random mutation and later selection is how directed evolution works. CRISPR skips most of that trial-and-error process instead. It almost entirely bypasses the slow, generation-by-generation grind of ordinary evolution.
+CRISPR gene editing takes a related but different approach. It lets researchers make a precise, intended change at one exact spot in a genome, an organism’s full set of genetic instructions. Random mutation and later selection is how directed evolution works. CRISPR skips most of that trial-and-error process instead. It almost entirely bypasses the slow, generation-by-generation grind of ordinary evolution.
 
-Both technologies mark something new in the four-billion-year history of life this book has traced. A species that came to understand evolution's own mechanism now exists. That species has started taking partial, deliberate control of the process. It used to run blind, with no planning or foresight at all.
+Both technologies mark something new in the four-billion-year history of life this book has traced. A species that came to understand evolution’s own mechanism now exists. That species has started taking partial, deliberate control of the process. It used to run blind, with no planning or foresight at all.
 
 ### The Evolutionary Punchline
 
-Evolution is not a museum exhibit, a finished record from the distant past. It is more like an ongoing weather system, running right now, in essentially every population of every species alive, our own included. A drought on one small Galápagos island can reshape a finch population's average beak size within a single generation. A civil war and a surge in poaching can measurably raise the share of tuskless elephants within a few decades.
+Evolution is not a museum exhibit, a finished record from the distant past. It is more like an ongoing weather system, running right now, in essentially every population of every species alive, our own included. A drought on one small Galápagos island can reshape a finch population’s average beak size within a single generation. A civil war and a surge in poaching can measurably raise the share of tuskless elephants within a few decades.
 
 A shift toward dairy farming started only about ten thousand years ago. It has reshaped which adult humans can comfortably digest milk, in the specific populations with that farming history. And now comes one of the more remarkable recent turns. A species shaped entirely by this same blind, foresight-free process has started learning to steer parts of it directly. Researchers engineer enzymes through directed evolution in a lab. They edit specific genes with precision.
 
 Natural selection never manages that kind of precision on its own. It only works through countless small, unplanned mutations, spread over countless generations. The tape, in this one narrow but real sense, has stopped playing only by accident. Someone, for the first time in four billion years, has picked up the controls.
 
-## 21. Brains, Instincts and the Evolution of Behavior
+## 21. Brains and Instincts — The Evolution of Behavior
 
 ### Why Have Nerves At All
 
@@ -210,15 +210,15 @@ An animal that can predict where food, danger, or a mate is likely to be has an 
 
 ### The First Nerves
 
-The simplest nervous systems belong to jellyfish and their relatives, a group called cnidarians. This lineage split off very early in animal history. Most of today's animal body types had not even appeared yet. Jellyfish have what biologists call a nerve net. Nerve cells spread out across the whole body, like a loose web. There is no single brain gathering them together.
+The simplest nervous systems belong to jellyfish and their relatives, a group called cnidarians. This lineage split off very early in animal history. Most of today’s animal body types had not even appeared yet. Jellyfish have what biologists call a nerve net. Nerve cells spread out across the whole body, like a loose web. There is no single brain gathering them together.
 
-Sting a jellyfish on one side, and its whole body can respond with a coordinated swimming motion. No central command post gives the order. The web of connected nerve cells works it out together. This is a useful reminder. A brain, meaning one central structure that does the thinking, is not strictly required for coordinated, useful behavior. A brain is, however, an efficient answer to a hard problem. That problem gets harder as an animal's body and behavior grow more complicated. It is the answer most animal lineages, ours included, eventually landed on.
+Sting a jellyfish on one side, and its whole body can respond with a coordinated swimming motion. No central command post gives the order. The web of connected nerve cells works it out together. This is a useful reminder. A brain, meaning one central structure that does the thinking, is not strictly required for coordinated, useful behavior. A brain is, however, an efficient answer to a hard problem. That problem gets harder as an animal’s body and behavior grow more complicated. It is the answer most animal lineages, ours included, eventually landed on.
 
 ### An Expensive Organ
 
-A later chapter will ask what it might feel like to be a brain. This chapter asks a smaller, easier question. How much does a brain cost to run? And why does that cost matter to evolution? In a resting adult human, the brain burns roughly a fifth of the body's total energy. Yet it makes up only about two percent of body weight.
+A later chapter will ask what it might feel like to be a brain. This chapter asks a smaller, easier question. How much does a brain cost to run? And why does that cost matter to evolution? In a resting adult human, the brain burns roughly a fifth of the body’s total energy. Yet it makes up only about two percent of body weight.
 
-Picture your resting body as a hundred-watt light bulb's worth of energy use. Your brain, at just one-fiftieth of your body weight, is quietly using twenty of those hundred watts. Because brains cost this much to keep running, evolution does not hand out bigger brains for free. A bigger brain has to earn its expensive upkeep. It needs some real improvement in survival or reproduction. That improvement must be big enough to outweigh the ongoing cost of running the brain.
+Picture your resting body as a hundred-watt light bulb’s worth of energy use. Your brain, at just one-fiftieth of your body weight, is quietly using twenty of those hundred watts. Because brains cost this much to keep running, evolution does not hand out bigger brains for free. A bigger brain has to earn its expensive upkeep. It needs some real improvement in survival or reproduction. That improvement must be big enough to outweigh the ongoing cost of running the brain.
 
 ### Instinct and Learning Are Not Opposites
 
@@ -234,19 +234,19 @@ Instinct supplies the rule. Experience fills in the details.
 
 In 1963, Niko Tinbergen proposed a framework for studying any animal behavior. Tinbergen was an ethologist who spent his career studying instinct in animals. His framework is still one of the most useful tools we have. He shared the 1973 Nobel Prize in Physiology or Medicine for his wider work on animal behavior. He shared it with Lorenz and a third researcher, Karl von Frisch, who had decoded how bees communicate.
 
-Tinbergen argued that fully explaining any behavior means answering four separate questions. People often mix these questions up in everyday conversation, and that mix-up causes a lot of confusion. The mechanism question asks how the behavior works right now. Which senses trigger it? Which nerves and hormones carry it out? What actually happens in the body, step by step? The development question asks how the behavior grows over one animal's life. It traces the behavior from its earliest beginnings to its adult form.
+Tinbergen argued that fully explaining any behavior means answering four separate questions. People often mix these questions up in everyday conversation, and that mix-up causes a lot of confusion. The mechanism question asks how the behavior works right now. Which senses trigger it? Which nerves and hormones carry it out? What actually happens in the body, step by step? The development question asks how the behavior grows over one animal’s life. It traces the behavior from its earliest beginnings to its adult form.
 
-The mix of instinct and experience in the imprinting example above is exactly this kind of answer. The function question asks what advantage the behavior gives the animal right now, in terms of surviving and reproducing. This is the same natural-selection logic Chapter 7 laid out for physical traits, now aimed at behavior instead. The phylogeny question asks how the behavior evolved over the species' whole history.
+The mix of instinct and experience in the imprinting example above is exactly this kind of answer. The function question asks what advantage the behavior gives the animal right now, in terms of surviving and reproducing. This is the same natural-selection logic Chapter 7 laid out for physical traits, now aimed at behavior instead. The phylogeny question asks how the behavior evolved over the species’ whole history.
 
-Where did it likely start, and how did it change across ancestors? Tinbergen's real insight was this: a full explanation needs all four answers. It is easy to mistake a good answer to one question for a complete answer to all four. That mistake causes most of the confusion people have about animal, and human, behavior.
+Where did it likely start, and how did it change across ancestors? Tinbergen’s real insight was this: a full explanation needs all four answers. It is easy to mistake a good answer to one question for a complete answer to all four. That mistake causes most of the confusion people have about animal, and human, behavior.
 
 ### Bigger Groups, Bigger Brains
 
-Why do some animals grow unusually large, expensive brains for their body size, while others do not? Humans are very much included in that question. One influential idea, still debated, comes from Robin Dunbar, an anthropologist who studies primate social life. It is called the social brain hypothesis. Dunbar compared brain size across many primate species. He looked specifically at the neocortex, the brain's outer and more recently evolved layer. He found a strong link between relative brain size and group size.
+Why do some animals grow unusually large, expensive brains for their body size, while others do not? Humans are very much included in that question. One influential idea, still debated, comes from Robin Dunbar, an anthropologist who studies primate social life. It is called the social brain hypothesis. Dunbar compared brain size across many primate species. He looked specifically at the neocortex, the brain’s outer and more recently evolved layer. He found a strong link between relative brain size and group size.
 
-The bigger the typical social group a species lives in, the bigger its relative brain size tended to be. Dunbar's explanation: keeping track of a large social group is hard mental work. You have to remember who is friendly with whom. You have to track who has helped others and who has let others down. And you have to know who outranks whom, in a hierarchy that keeps shifting.
+The bigger the typical social group a species lives in, the bigger its relative brain size tended to be. Dunbar’s explanation: keeping track of a large social group is hard mental work. You have to remember who is friendly with whom. You have to track who has helped others and who has let others down. And you have to know who outranks whom, in a hierarchy that keeps shifting.
 
-Species that face this challenge in bigger groups may need bigger brains to handle it. From this pattern, Dunbar proposed what is now called Dunbar's number. It is an estimate that a single human can only really keep track of around 150 stable relationships at once. Picture your own address book or contacts list. Dunbar's claim is that only about 150 of those names could ever really feel like people you actually know.
+Species that face this challenge in bigger groups may need bigger brains to handle it. From this pattern, Dunbar proposed what is now called Dunbar’s number. It is an estimate that a single human can only really keep track of around 150 stable relationships at once. Picture your own address book or contacts list. Dunbar’s claim is that only about 150 of those names could ever really feel like people you actually know.
 
 The rest are just names on a list. Both the specific number and the wider social brain hypothesis remain disputed. Some later studies found the pattern weaker than Dunbar first reported. This book flags that debate here, rather than presenting either idea as more settled than the evidence actually supports.
 
@@ -254,9 +254,9 @@ The rest are just names on a list. Both the specific number and the wider social
 
 Clever tool use has evolved independently more than once among animals, in lineages with very different nervous systems. This chapter is the place to look at both cases closely. The crow family, called corvids, includes crows, ravens, and jays. In careful experiments, these birds have shown tool use that rivals, and sometimes beats, what some primates can do. New Caledonian crows do not just pick up a found stick. They actually bend and shape plant material into hooked tools, purely to fish food out of tight crevices.
 
-What makes this striking is timing. Birds and mammals split from a shared ancestor more than 300 million years ago. Imagine one page for every million years: that split happened 300 pages back, roughly the thickness of a paperback novel. Bird brains are also built on a genuinely different plan from mammal brains. They lack the layered neocortex that Dunbar's research, above, focused on in primates. So clever, tool-using intelligence appears to have arisen twice, along two separate nervous-system designs. This is the same kind of convergent evolution that Chapter 17 documented at length elsewhere. That means two separate lineages independently landing on a similar solution.
+What makes this striking is timing. Birds and mammals split from a shared ancestor more than 300 million years ago. Imagine one page for every million years: that split happened 300 pages back, roughly the thickness of a paperback novel. Bird brains are also built on a genuinely different plan from mammal brains. They lack the layered neocortex that Dunbar’s research, above, focused on in primates. So clever, tool-using intelligence appears to have arisen twice, along two separate nervous-system designs. This is the same kind of convergent evolution that Chapter 17 documented at length elsewhere. That means two separate lineages independently landing on a similar solution.
 
-Now it is showing up in the brain itself. The octopus is an even more dramatic case. In captivity, octopuses navigate mazes and pry open jars to reach food. In some widely reported cases, they even seem to recognize individual human keepers. Their nervous system is built like almost nothing else alive. Roughly two-thirds of an octopus's nerve cells sit not in its central brain, but out in its eight flexible arms.
+Now it is showing up in the brain itself. The octopus is an even more dramatic case. In captivity, octopuses navigate mazes and pry open jars to reach food. In some widely reported cases, they even seem to recognize individual human keepers. Their nervous system is built like almost nothing else alive. Roughly two-thirds of an octopus’s nerve cells sit not in its central brain, but out in its eight flexible arms.
 
 Each arm seems able to sense and act with a striking amount of independence. Humans and octopuses last shared a common ancestor more than 500 million years ago. That was back before most animal body types alive today had even appeared. Using the same page-per-million-years picture, that is 500 pages back, about as thick as a small dictionary. That distant ancestor was almost certainly an extremely simple creature, nothing like either of us today.
 
@@ -266,13 +266,13 @@ Intelligence built along this alien path may be the clearest evidence we have of
 
 One more behavior deserves a look here. At first glance, it seems to break the cost-benefit rule evolution usually enforces. Play, seen across many mammals and birds, especially the young, burns real energy and carries real risk. Rough play can cause injury. Yet it produces no obvious, immediate benefit to survival or reproduction at the moment it happens. The leading explanation treats play as safe practice.
 
-Young animals get to rehearse skills. They can practice dodging a predator, fighting technique, and working together in a group. They can also practice the social skills Dunbar's hypothesis, above, cares about. They do all this without the deadly consequences a real predator, a real fight, or a real social mistake would carry. Seen this way, play is an investment.
+Young animals get to rehearse skills. They can practice dodging a predator, fighting technique, and working together in a group. They can also practice the social skills Dunbar’s hypothesis, above, cares about. They do all this without the deadly consequences a real predator, a real fight, or a real social mistake would carry. Seen this way, play is an investment.
 
 The animal pays a cost now, in energy and risk. In exchange, it gets a skill that will matter later, when the stakes are real.
 
 ### A Tower of Increasingly Capable Creatures
 
-Daniel Dennett was a philosopher who wrote about evolution and the mind. He built a memorable framework for organizing the different kinds of behavioral flexibility this chapter has covered. He called it the Tower of Generate-and-Test. Chapter 24 will look at Dennett's broader ideas in more depth. At the bottom sit Darwinian creatures. Their behavior is entirely fixed by inborn instinct.
+Daniel Dennett was a philosopher who wrote about evolution and the mind. He built a memorable framework for organizing the different kinds of behavioral flexibility this chapter has covered. He called it the Tower of Generate-and-Test. Chapter 24 will look at Dennett’s broader ideas in more depth. At the bottom sit Darwinian creatures. Their behavior is entirely fixed by inborn instinct.
 
 Natural selection tests it for success only across many generations. A single animal cannot adjust its own behavior within its own lifetime. One level up sit Skinnerian creatures, named for B. F. Skinner, a psychologist who studied how reward shapes behavior. These animals learn by trial and error within their own lifetime. A behavior that happens to work, through some mix of luck and existing instinct, gets repeated. But the animal has to actually try the behavior in the real world to find out if it works.
 
@@ -280,11 +280,11 @@ A level above that sit Popperian creatures, named for Karl Popper, a philosopher
 
 At the very top sit Gregorian creatures, named for Richard Gregory, a British psychologist who studied perception and argued that tools make their users smarter. As far as we can currently tell, only humans belong here. These are animals that can borrow ready-made mental tools, language above all, invented by other members of their own species. This hugely multiplies what any one individual could ever work out alone.
 
-Dennett's tower is best treated as a helpful way to organize these levels of flexibility. It is not a strict staircase that every single lineage must climb in this exact order.
+Dennett’s tower is best treated as a helpful way to organize these levels of flexibility. It is not a strict staircase that every single lineage must climb in this exact order.
 
 ### The Evolutionary Punchline
 
-At its core, a nervous system solves one job. It links what an animal senses to how it moves. In the cleverer lineages, it also predicts what comes next before it happens. From that modest start, a jellyfish's loose nerve net, evolution has done something remarkable. It has independently built real, flexible intelligence along at least three separate paths. One is the layered neocortex behind primate thinking.
+At its core, a nervous system solves one job. It links what an animal senses to how it moves. In the cleverer lineages, it also predicts what comes next before it happens. From that modest start, a jellyfish’s loose nerve net, evolution has done something remarkable. It has independently built real, flexible intelligence along at least three separate paths. One is the layered neocortex behind primate thinking.
 
 Another is the differently built brain of a crow. The third is the radically different, arm-scattered nervous system of an octopus. None of these paths needed the others to exist. Instinct and learning, this chapter has shown, were never really opposites. They are two tightly woven threads of the same costly, hard-won equipment. That inheritance, in at least one lineage on this one planet, eventually grew capable of something stranger still.
 

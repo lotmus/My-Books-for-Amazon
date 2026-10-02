@@ -3,7 +3,7 @@ sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 from figcaps import GEN_FIG_CAPTIONS, GEN_FIG_KIND
 PARTS=[
  ('I','Chemistry That Learned to Copy','Origins',1,5),
- ('II',"Darwin's Machine",'Darwins_Machine',6,11),
+ ('II',"Darwin’s Machine",'Darwins_Machine',6,11),
  ('III','The Big Transitions','Transitions',12,18),
  ('IV','Us','Us',19,21),
  ('V','Minds, Loops and Machines','Minds',22,29),
@@ -17,6 +17,13 @@ PARTS=[
 PART_INTROS={}
 PATCHES={}
 SECTION_REPLACE={}
+
+MAP2 = """### The Sentence the Book Runs On
+
+The Prologue promised that one sentence would carry the whole book, and this chapter has now earned it. Life is chemistry that copies itself, imperfectly, and lets the imperfections be judged. Every Part that follows is one view of that sentence: the chemistry in the rest of Part I, the judging in Parts II to IV, its strangest product in Part V, the copier itself and what we have done with it in Parts VI to X, and, in Part XI, the question of whether the same chemistry has started anywhere else.
+
+The chapters ahead are short. The ideas inside them are not.
+"""
 
 MAP = """### A Map of the Book
 
@@ -72,7 +79,7 @@ SYNTH = ("Chapter 8 told how Darwin's theory waited for two missing pieces. Mend
  "Selection without mutation has nothing to select. Together they are the theory of evolution.")
 
 SECTION_REPLACE = {
- 1: [('A Map of the Book', MAP)],
+ 1: [('A Map of the Book', MAP2)],
  4: [('The Battery Every Cell Runs On', BATTERY)],
  8: [('The Monk Who Counted', GARDEN), ('Particles, Not Paint', None), ('Found Three Times', None)],
  19: [('Reading Genes Instead of Bones', BONES), ('We Interbred With Them', None)],
@@ -117,3 +124,12 @@ PART_INTROS = {
  'X': "The text is now cheap to read, including yours. This Part asks what it can tell you, who else is reading it, and whether we should correct it, first in patients and then, perhaps, in children.",
  'XI': "If life is chemistry that copies itself, nothing in the chemistry says it had to happen only once. This Part leaves Earth to ask where else the copying could have started, how we would know, and what finding it would teach us about ourselves.",
 }
+
+# ---- coherence pass (one book): self-references written for the old Genetics volume
+for _n,_old,_new in [
+ (72,'What remains, for the last part of the book, is the question','What remains, for the rest of this Part, is the question'),
+ (75,'The last chapter of this book is about what a hundred years of all this might look like','The next chapter is about what a hundred years of all this might look like'),
+ (76,'using the three words this book has used since Part VIII,','using the three words this book has used since its Prologue,'),
+ (46,'they are the moment the subject of this book stops being a matter of opinion','they are the moment heredity stops being a matter of opinion'),
+]:
+    PATCHES.setdefault(_n,[]).append((_old,_new))

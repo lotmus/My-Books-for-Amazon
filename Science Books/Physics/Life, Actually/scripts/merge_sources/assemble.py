@@ -99,6 +99,15 @@ if missing:
 # ---- house title style: 'Main — Sub' instead of 'Main: Sub'
 for n,c in chapters.items():
     c['title']=re.sub(r'^([^:]+): ',r'\1 — ',c['title'],count=1)
+# ---- uniform titles and house spelling/quotes (Physics, Actually conventions)
+from titles import TITLES
+from normalize import americanize, smart_quotes
+for n,t in TITLES.items(): chapters[n]['title']=t
+for n,c in chapters.items():
+    if n>=30:
+        c['body']=americanize(c['body']); c['title']=americanize(c['title'])
+    c['body']=smart_quotes(c['body']); c['title']=smart_quotes(c['title'])
+P.PART_INTROS={k:smart_quotes(americanize(v)) for k,v in P.PART_INTROS.items()}
 # ---- write part files
 os.makedirs(OUT,exist_ok=True)
 for f in glob.glob(os.path.join(OUT,'[0-9][0-9]_Part*.md')): os.remove(f)
