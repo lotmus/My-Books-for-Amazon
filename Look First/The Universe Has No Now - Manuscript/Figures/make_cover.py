@@ -1,148 +1,74 @@
-"""Typographic KDP cover for The Universe Has No Now.
+"""Typographic KDP cover (clock ring), chosen by the author 1 Oct 2026. No NASA, no planets, no fake sky.
 
-Concept: the book's own picture. A light cone (which also reads as an hourglass)
-with two different "nows" tilted through the same event. Ochre marks the now.
-No NASA, no photo sky. Drawn at 2x and downsampled so every edge is smooth.
-
-Final size 1600x2560 (1:1.6), RGB JPEG. Title must read at a 160x256 tile.
+Sized for the Kindle Store: the title must read at a 160x256 search tile,
+and the author line at a 300x480 product tile. 1600x2560 (1.6:1), RGB JPEG.
 """
-import math
 import os
-from PIL import Image, ImageDraw, ImageFilter, ImageFont
+from PIL import Image, ImageDraw, ImageFont
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-OUT = os.path.join(HERE, "..", "export", "cover_typographic.jpg")
+OUT = os.path.join(HERE, "..", "export", "cover_typographic_v2_clockring.jpg")
 W, H = 1600, 2560
-S = 2                                    # supersample factor
-CW, CH = W * S, H * S
 
-BG_EDGE = (9, 9, 12)
-BG_MID = (24, 24, 33)
-CREAM = (240, 234, 220)
-MUTE = (170, 165, 154)
-OCHRE = (222, 160, 78)
-DIM = (128, 124, 114)
-
-
-def font(name, size, variation=None):
-    f = ImageFont.truetype(f"C:/Windows/Fonts/{name}", size * S)
-    if variation:
-        try:
-            f.set_variation_by_name(variation)
-        except Exception:
-            pass
-    return f
-
-
-def text_w(f, s, tracking):
-    return sum(f.getlength(ch) for ch in s) + tracking * S * (len(s) - 1)
-
-
-def draw_tracked(d, cx, y, s, f, fill, tracking=0):
-    """Centered, letter-spaced text. y is the vertical middle."""
-    x = cx * S - text_w(f, s, tracking) / 2
-    for ch in s:
-        d.text((x, y * S), ch, font=f, fill=fill, anchor="lm")
-        x += f.getlength(ch) + tracking * S
-
-
-def draw_line_runs(d, cx, y, runs, f, tracking):
-    """One centered line made of (text, colour) runs separated by a word gap."""
-    gap = f.getlength(" ") + tracking * S
-    total = sum(text_w(f, t, tracking) for t, _ in runs) + gap * (len(runs) - 1)
-    x = cx * S - total / 2
-    for t, col in runs:
-        for ch in t:
-            d.text((x, y * S), ch, font=f, fill=col, anchor="lm")
-            x += f.getlength(ch) + tracking * S
-        x += gap - tracking * S
-
-
-# ---------- background: soft glow behind the event, near-black at the edges
-CX, CY = W // 2, 1400                    # the event, in final pixels
-bg = Image.new("RGB", (CW, CH), BG_EDGE)
-glow = Image.new("L", (CW, CH), 0)
-gd = ImageDraw.Draw(glow)
-R0 = 1400 * S
-for r in range(R0, 0, -10 * S):
-    v = int(255 * (1 - r / R0) ** 2.2)
-    gd.ellipse([CX * S - r, CY * S - r, CX * S + r, CY * S + r], fill=v)
-glow = glow.filter(ImageFilter.GaussianBlur(40 * S))
-bg = Image.composite(Image.new("RGB", (CW, CH), BG_MID), bg, glow)
-
-# ---------- the light cone / hourglass
-HALF = 590                               # arm length in x and y (45 degree arms)
-layer = Image.new("RGBA", (CW, CH), (0, 0, 0, 0))
-ld = ImageDraw.Draw(layer)
-
-# faint filled cones: brighter at the event, fading outward
-for k in range(0, HALF * S):
-    t = k / (HALF * S)
-    a = int(52 * (1 - t) ** 1.6 + 5)
-    for sign in (-1, 1):
-        y = CY * S + sign * k
-        ld.line([(CX * S - k, y), (CX * S + k, y)], fill=(255, 245, 225, a), width=1)
-
-# the cone edges, fading toward their ends
-segs = 240
-for sx, sy in ((1, 1), (1, -1), (-1, 1), (-1, -1)):
-    for i in range(segs):
-        t0, t1 = i / segs, (i + 1) / segs
-        a = int(235 * (1 - t0) ** 0.9 + 20)
-        p0 = (CX * S + sx * t0 * HALF * S, CY * S + sy * t0 * HALF * S)
-        p1 = (CX * S + sx * t1 * HALF * S, CY * S + sy * t1 * HALF * S)
-        ld.line([p0, p1], fill=(*CREAM, a), width=5 * S)
-
-# the two nows. Both pass through the event and both lie outside the cones.
-reach = 680 * S
-ld.line([(CX * S - reach, CY * S), (CX * S + reach, CY * S)], fill=(*DIM, 215), width=4 * S)
-ang = math.radians(-13)
-dx, dy = math.cos(ang) * reach, math.sin(ang) * reach
-ld.line([(CX * S - dx, CY * S - dy), (CX * S + dx, CY * S + dy)], fill=(*OCHRE, 255), width=8 * S)
-
-# the event: a dot with a soft halo
-halo = Image.new("RGBA", (CW, CH), (0, 0, 0, 0))
-hd = ImageDraw.Draw(halo)
-for r, a in ((70, 40), (46, 70), (30, 120)):
-    hd.ellipse([CX * S - r * S, CY * S - r * S, CX * S + r * S, CY * S + r * S], fill=(*OCHRE, a))
-halo = halo.filter(ImageFilter.GaussianBlur(14 * S))
-layer = Image.alpha_composite(layer, halo)
-ld = ImageDraw.Draw(layer)
-ld.ellipse([CX * S - 20 * S, CY * S - 20 * S, CX * S + 20 * S, CY * S + 20 * S], fill=(255, 226, 170, 255))
-ld.ellipse([CX * S - 12 * S, CY * S - 12 * S, CX * S + 12 * S, CY * S + 12 * S], fill=(255, 250, 235, 255))
-
-im = Image.alpha_composite(bg.convert("RGBA"), layer)
+im = Image.new("RGB", (W, H), (16, 16, 19))
 d = ImageDraw.Draw(im)
 
-# ---------- title (top): two lines, NOW in ochre, auto-fit within a safe margin
-TR = 10
-MARGIN = 110                              # final-px side margin the title must respect
-max_w = (W - 2 * MARGIN) * S
-size = 250
-while True:
-    tf = font("bahnschrift.ttf", size, "Bold")
-    w1 = text_w(tf, "THE UNIVERSE", TR)
-    w2 = text_w(tf, "HAS NO", TR) + tf.getlength(" ") + TR * S + text_w(tf, "NOW", TR)
-    if max(w1, w2) <= max_w or size <= 60:
-        break
-    size -= 2
-draw_tracked(d, W / 2, 330, "THE UNIVERSE", tf, CREAM, TR)
-draw_line_runs(d, W / 2, 590, [("HAS NO", CREAM), ("NOW", OCHRE)], tf, TR)
+def load(name, size):
+    path = f"C:/Windows/Fonts/{name}"
+    return ImageFont.truetype(path, size)
 
-# ---------- subtitle, author, series (bottom)
-sf = font("segoeui.ttf", 58)
-draw_tracked(d, W / 2, 2150, "Time, Origins, and Whether", sf, MUTE, 3)
-draw_tracked(d, W / 2, 2226, "We Can Get Somewhere Else", sf, MUTE, 3)
+title = load("arialbd.ttf", 180)
+sub = load("arial.ttf", 60)
+by = load("arialbd.ttf", 76)
+series = load("arial.ttf", 44)
 
-d.line([(W // 2 * S - 90 * S, 2296 * S), (W // 2 * S + 90 * S, 2296 * S)], fill=(*DIM, 255), width=3 * S)
+cream = (238, 232, 218)
+mute = (176, 170, 158)
+rule = (104, 100, 92)
+accent = (214, 160, 84)   # a warm kitchen-lamp ochre; the only colour on the cover
 
-af = font("bahnschrift.ttf", 104, "SemiBold")
-draw_tracked(d, W / 2, 2380, "LOTHAR J. MUSIOL", af, CREAM, 14)
+# frame
+d.rectangle([64, 64, W - 64, H - 64], outline=rule, width=4)
 
-vf = font("segoeui.ttf", 40)
-draw_tracked(d, W / 2, 2470, "LOOK FIRST  \u00b7  VOLUME 1", vf, DIM, 8)
+# a faint clock ring behind the title block: the kitchen clock that is not a cosmology
+cx, cy, r = W // 2, 880, 560
+d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=(40, 40, 46), width=6)
+for k in range(12):
+    import math
+    a = math.radians(k * 30)
+    x0, y0 = cx + (r - 34) * math.sin(a), cy - (r - 34) * math.cos(a)
+    x1, y1 = cx + (r - 6) * math.sin(a), cy - (r - 6) * math.cos(a)
+    d.line([(x0, y0), (x1, y1)], fill=(52, 52, 58), width=6)
 
-out = im.convert("RGB").resize((W, H), Image.LANCZOS)
+
+def centered_words(y, words, font, fill, gap=28):
+    """Draw words left-to-right, centered as a group. Never rely on space glyphs."""
+    widths = []
+    for w in words:
+        box = d.textbbox((0, 0), w, font=font)
+        widths.append(box[2] - box[0])
+    total = sum(widths) + gap * (len(words) - 1)
+    x = (W - total) / 2
+    for w, wd in zip(words, widths):
+        d.text((x, y), w, font=font, fill=fill, anchor="lm")
+        x += wd + gap
+
+
+# title block, three lines, the biggest thing on the page
+centered_words(660, ["THE", "UNIVERSE"], title, cream, gap=60)
+centered_words(880, ["HAS", "NO"], title, cream, gap=60)
+centered_words(1100, ["NOW"], title, accent, gap=60)
+
+# rule, subtitle, rule
+d.line([(260, 1300), (W - 260, 1300)], fill=rule, width=3)
+centered_words(1420, ["Time,", "Origins,", "and", "Whether"], sub, mute, gap=26)
+centered_words(1510, ["We", "Can", "Get", "Somewhere", "Else"], sub, mute, gap=26)
+d.line([(260, 1630), (W - 260, 1630)], fill=rule, width=3)
+
+# author and series, bottom third
+centered_words(2110, ["LOTHAR", "J.", "MUSIOL"], by, cream, gap=40)
+centered_words(2250, ["Look", "First", "\u00b7", "Volume", "1"], series, mute, gap=22)
+
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
-out.save(OUT, "JPEG", quality=94, subsampling=0)
-print("wrote", os.path.abspath(OUT), out.size, os.path.getsize(OUT))
+im.save(OUT, "JPEG", quality=92, subsampling=0)
+print("wrote", os.path.abspath(OUT), im.size)

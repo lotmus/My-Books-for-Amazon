@@ -48,7 +48,7 @@ python Figures\build_docx.py "export\The_Universe_Has_No_Now.docx"
 
 ## KDP ingest
 
-1. Cover JPEG — a simple typographic file is at `cover_typographic.jpg` (1600×2560, no NASA). Open it before treating it as store-live. KDP’s current ratio still wins if Amazon has moved.
+1. Cover JPEG — `cover_typographic_v2_clockring.jpg` (1600×2560, no NASA), the clock-ring design the author chose on 1 Oct 2026. Upload this file as the Kindle eBook cover. `..\Figures\make_cover.py` draws it again. The light-cone cover is in `..\bak\export\`. KDP’s current ratio still wins if Amazon has moved.
 2. Manuscript: the `.docx`.
 3. Product description: paste from `..\KDP_Description.md` (sell copy, then Credits).
 4. Open the file in Kindle Create or KDP previewer. Check TOC, chapter starts and grayscale figures. All 20 photo slots hold real photographs since 14 Sep 2026 (sources and licences in `..\Figures\CREDITS.md`).

@@ -8,6 +8,7 @@
 - Headlines are navy `0C2D5A`, not `#0000FF`.
 - Chapters 31 and 32 are full lessons at the same length as the other teaching chapters (about 1,990 and 2,080 words). A32 notes the queue, the assay, and the spare copies.
 - Stamp **112,883** words. KDP ingest is `export\The_Universe_Has_No_Now.docx`, rebuilt 1 Oct 2026 with the EPUB from the same markdown. Mara is the woman in the kitchen and in the greenhouse. Eli keeps the clock. Plural chapter mentions link. Chapter 34’s doubled closing sentence is gone.
+- Cover (1 Oct 2026): the author chose the clock-ring cover, `export\cover_typographic_v2_clockring.jpg`. It is the Book 1 cover for KDP. The light-cone cover (`cover_typographic.jpg`) and its script are in `bak\`. `Figures\make_cover.py` is the clock-ring script again. The docx does not embed the cover, so it was not rebuilt.
 
 The kitchen date and the early sections below are the history of closed passes. They still say “books 2 and 3,” “credits only on the Amazon page,” and “chapters 31 and 32 stay bridges.” Those sentences describe the pass that wrote them.
 
@@ -59,13 +60,13 @@ Plan: `00_Figure_Plan.md` (45-chapter remap; old 52-grid retired).
 
 - Assembled markdown: `The_Universe_Has_No_Now.md`
 - Word (6×9 in., **KDP ingest file**): `export\The_Universe_Has_No_Now.docx` (rebuilt 16 Sep 2026, ~12.9 MB, 46 figures, 20 real photographs, no placeholders)
-- Typographic cover JPEG (no NASA, no sky): `export\cover_typographic.jpg` (1600×2560, KDP 1.6:1). Author should open it before treating it as store-live.
+- Typographic cover JPEG (no NASA, no sky): `export\cover_typographic_v2_clockring.jpg` (1600×2560, KDP 1.6:1), the clock-ring design the author chose on 1 Oct 2026.
 - EPUB: `export\The_Universe_Has_No_Now.epub` (Pandoc, rebuilt 16 Sep 2026, 46 images). Secondary; KDP ingest is the `.docx`.
 - Amazon paste: `KDP_Description.md` (sell copy, then Credits).
 
 **Still not upload-ready (human steps only)**
 
-- Final author look at `export\cover_typographic.jpg` in the actual KDP cover tool (rendering can differ slightly from the thumbnail sheet used below).
+- Final author look at `export\cover_typographic_v2_clockring.jpg` in the actual KDP cover tool (rendering can differ slightly from the thumbnail sheet used below).
 - Kindle Create / KDP previewer pass (TOC, chapter starts, grayscale figures). Word file's TOC keeps its real internal hyperlinks (111 links) — leave as built; remove later if you want a plain-text TOC instead.
 - Optional: replace `fig01.jpg` (empty kitchen) with a licensed two-person still; caption already says “Put two people in it…”. Fig 0 caption matches the wall clock.
 
@@ -227,3 +228,10 @@ Stamp: **111,305** words. Word file: Chapter 31 about 1,360 words, Chapter 32 ab
 ## Masters pass, 1 Oct 2026 (evening)
 
 Front matter: the Barrow line now reads “a clean line between a measurement and an idea”, and *The Quantum Conversation* is called a book outside this series, not “elsewhere in this series”. KDP description: the closing series line now names Volume 2, *A Trip Is Not a New Life*. Chapter 36: “millenium” corrected to “millennium”. Rebuilt the docx only (`python export\assemble_export.py`, no epub). The existing EPUB was left as it was, so it is now one pass behind the docx.
+
+## Cover chosen, 1 Oct 2026
+
+- The author chose the clock-ring cover over the 23 Sep light-cone redesign. The Book 1 KDP cover is `export\cover_typographic_v2_clockring.jpg` (1600×2560).
+- `export\cover_typographic.jpg` (light cone) moved to `bak\export\cover_typographic_v3_lightcone.jpg`. Its script moved to `bak\Figures\make_cover_v3_lightcone.py.bak`.
+- `Figures\make_cover.py` is the clock-ring script again (from `bak\Figures\make_cover_v2_clockring.py.bak`). It now writes `export\cover_typographic_v2_clockring.jpg`.
+- References updated in `export\KINDLE_BUILD.md`, `export\assemble_export.py` (stamp line), `export\WORD_COUNT.txt` and `../notes/HANDOVER.md`. The docx does not embed a cover, so it was not rebuilt.

@@ -10,4 +10,4 @@ photo_placeholders=[]
 missing=[]
 broken=[]
 built=['C:\\Users\\lomus\\OneDrive\\My Books for Amazon\\Science Books\\Look First\\The Universe Has No Now - Manuscript\\export\\The_Universe_Has_No_Now.docx']
-cover=export\cover_typographic.jpg
+cover=export\cover_typographic_v2_clockring.jpg

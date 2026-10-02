@@ -46,7 +46,9 @@ Kept on purpose:
 - A page break before each part, chapter, and appendix note.
 - Standing rule from 25 Sep 2026: every term in the popular text was already built, is built where it is used, or is pointed forward with a chapter number.
 
-Human steps still open: look at `export\cover_typographic.jpg` in the KDP cover tool, and a Kindle previewer pass.
+Cover: `export\cover_typographic_v2_clockring.jpg`, the clock-ring design the author chose on 1 Oct 2026. `Figures\make_cover.py` draws it. The light-cone cover is in `bak\export\`.
+
+Human steps still open: look at `export\cover_typographic_v2_clockring.jpg` in the KDP cover tool, and a Kindle previewer pass.
 
 The hostile-review canvas is a review sheet from before chapters 31 and 32 were restored. Its chapter-length chart is historical. Do not rebuild the book from it.
 

@@ -355,7 +355,7 @@ def write_stamp(
             f"missing={missing}\n"
             f"broken={inv['broken']}\n"
             f"built={built}\n"
-            "cover=export\\cover_typographic.jpg\n"
+            "cover=export\\cover_typographic_v2_clockring.jpg\n"
         )
 
 
