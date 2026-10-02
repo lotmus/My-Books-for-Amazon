@@ -1,7 +1,19 @@
-# STATUS — Auswandern in die USA
-Letzte Aktualisierung: 23.09.2026 (Sitzung 2) — **Manuskript vollständig, faktengeprüft, Lebendigkeits-Durchgang abgeschlossen**
+# STATUS — Auswandern in die USA, nach Kanada, Australien oder Neuseeland
+Letzte Aktualisierung: 01.10.2026 — **Vier-Länder-Manuskript vollständig, Stand-Datum 1. Oktober 2026**
 
-## Stand
+## Stand 01.10.2026
+- 124 Manuskriptdateien, ~304.800 Wörter (Linter-Zählung). Kein Stub mehr.
+- Baut nur DOCX: `node build_book.js` → `build\Auswandern - Ab in die USA, Kanada, Australien oder Neuseeland.docx`, dann `node build_manuscript_md.js`, dann `powershell -File finalize_docx.ps1 -DocPath "build\Auswandern - Ab in die USA, Kanada, Australien oder Neuseeland.docx"` (TOC/Felder). Kein PDF, kein EPUB.
+- K34 (Kleidung) wieder als volles Kapitel, ohne nicht belegbare Ladenpreise; K31-Stub „Kleidung, kurz“ entfernt.
+- Faktenupdate 01.10.2026: Visa Bulletin Oktober 2026 (K06, K07, K10, Universal K02); Express Entry 2026 ohne allgemeine Ziehung, Kategorie-/CEC-/PNP-Ziehungen (Kanada K01–K03); Neuseeland SMC nach Änderungen vom 24.08.2026 (NZ K02, K03).
+- Verbleibende Linter-„Fehler“ sind Fehlalarme (satzinitiales „Sie“ = 3. Person Plural/Singular) bzw. das Universal-Überschriftenformat und K42 unter Zielwortzahl (bewusst nicht aufgefüllt).
+- Gebührenpolitik: A02 sagt jetzt, dass jede genannte Zahl ein Stand-Datum trägt und die Behördenseite maßgeblich ist.
+- KDP-Text: `KDP_Description.md` (deutsch), Kurztext `blurb.md`. Titel vor Upload festlegen (Ordnername vs. `book.json`).
+- Alte Reste (lose `manuscript\*.md`-Duplikate, alte USA-Builds docx/pdf/epub) liegen in `bak\`.
+
+## Historie: Stand 23.09.2026 (nur USA-Teil)
+
+### Stand damals
 **Alle 42 Kapitel + alle 7 Anhänge (A–G) + Vorspann/Nachspann sind fertig, lint-grün.**
 65 Dateien, ~153.477 Wörter (Linter-Zählung).
 - `build\Auswandern_in_die_USA.docx` — gebaut (aktueller Stand nach Lebendigkeits-Durchgang), TOC-Update läuft

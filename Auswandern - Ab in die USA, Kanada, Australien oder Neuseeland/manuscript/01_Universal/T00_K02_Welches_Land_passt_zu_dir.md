@@ -36,7 +36,7 @@ Für Deutsche mit den gängigen beruflichen Kategorien liegen die groben Richtwe
 
 > **Achtung:** Diese Zeiten ändern sich schnell und hängen stark von deiner konkreten Kategorie ab. Behandle sie als grobe Orientierung, nicht als Zusage – die aktuellen, verlässlichen Werte findest du im jeweiligen Länder-Teil und auf den offiziellen Behördenseiten.
 
-Bei den USA kommt eine zusätzliche Unsicherheit hinzu, die es bei den anderen drei Ländern so nicht gibt: Für einige Kategorien und Herkunftsländer legt der monatlich veröffentlichte *Visa Bulletin* des Außenministeriums fest, ob überhaupt ein Antrag gestellt werden darf, unabhängig davon, wie weit dein eigenes Verfahren sonst fortgeschritten ist. Für Deutschland sind die gängigen Kategorien meist, aber nicht garantiert dauerhaft ohne Wartezeit offen – ein Rückschritt ist möglich und kommt gelegentlich vor. Dieser Punkt gehört, mit dem dann aktuellen Stand, ausführlich in den USA-Teil dieses Buches.
+Bei den USA kommt eine zusätzliche Unsicherheit hinzu, die es bei den anderen drei Ländern so nicht gibt: Für einige Kategorien und Herkunftsländer legt der monatlich veröffentlichte *Visa Bulletin* des Außenministeriums fest, ob überhaupt ein Antrag gestellt werden darf, unabhängig davon, wie weit dein eigenes Verfahren sonst fortgeschritten ist. Für Deutsche ist EB-1 derzeit ohne Wartezeit offen. EB-2 und EB-3 wurden mit dem Bulletin für Oktober 2026 zurückgestuft und tragen nun einen Rückstand von grob ein bis zweieinhalb Jahren (Stand: Oktober 2026). Solche Sprünge kommen in beide Richtungen vor. Dieser Punkt gehört, mit dem dann aktuellen Stand, ausführlich in den USA-Teil dieses Buches.
 
 ### Gesundheitssystem: vier verschiedene Modelle
 

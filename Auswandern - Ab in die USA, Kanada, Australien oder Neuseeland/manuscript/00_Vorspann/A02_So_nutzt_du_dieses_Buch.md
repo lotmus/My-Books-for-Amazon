@@ -31,7 +31,7 @@ Damit die Regeln nicht abstrakt bleiben, begleiten dich erfundene Haushalte. **F
 
 ### Wie du Zahlen und Regeln behandelst
 
-Alle Zahlen, die ein Amt ändern kann, stehen nicht als Preis in diesem Buch. Am Ende jedes Kapitels stehen die offiziellen Quellen. Ruf sie auf, bevor du zahlst oder kündigst. Eine Altersgrenze gilt nur für das Programm, das das Kapitel nennt. Die australische Subclass 417 und das neuseeländische Working Holiday für deutsche Pässe sind nicht dieselbe Grenze. Der USA-Teil ist das lange Visumhandbuch. Kanada, Australien und Neuseeland sind eigene Wege für Ausreise, Ankunft, Arbeit und Berufsanerkennung. Wer nur eines dieser Länder liest, braucht die USA-Hälfte nicht.
+Gebühren, Lohnschwellen, Stichtage und Steuersätze ändern Ämter oft mehrmals im Jahr. Wo das Buch eine solche Zahl nennt, steht ein Stand-Datum dabei, und maßgeblich ist immer die Behördenseite. Am Ende jedes Kapitels stehen die offiziellen Quellen. Ruf sie auf, bevor du zahlst oder kündigst. Eine Altersgrenze gilt nur für das Programm, das das Kapitel nennt. Die australische Subclass 417 und das neuseeländische Working Holiday für deutsche Pässe sind nicht dieselbe Grenze. Der USA-Teil ist das lange Visumhandbuch. Kanada, Australien und Neuseeland sind eigene Wege für Ausreise, Ankunft, Arbeit und Berufsanerkennung. Wer nur eines dieser Länder liest, braucht die USA-Hälfte nicht.
 
 ### Wege durch das Buch
 

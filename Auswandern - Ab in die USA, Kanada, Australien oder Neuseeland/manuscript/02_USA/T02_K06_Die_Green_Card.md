@@ -1,11 +1,11 @@
 ## Kapitel 6: Die Green Card
 
-Im Visa Bulletin für September 2026, der monatlichen Stichtagsliste des State Department, steht bei der zweiten Arbeitskategorie (EB-2) in der Spalte „Rest der Welt" ein einziger Buchstabe: C, für *current*, also ohne Wartezeit. In der Spalte für Indien steht dagegen ein U: *unavailable*, derzeit keine Visa. Gleicher Beruf, gleiche Qualifikation, anderes Geburtsland, und aus Monaten werden Jahre, bei Indien mehr als ein Jahrzehnt. Für Deutsche ist die Green Card deshalb weniger eine Frage der Warteschlange als der Vorbereitung: Wer früh, schriftlich abgesichert und mit der passenden Kategorie startet, kommt in der Regel gut durch.
+Im Visa Bulletin für Oktober 2026, der monatlichen Stichtagsliste des State Department, steht bei der zweiten Arbeitskategorie (EB-2) in der Spalte „Rest der Welt" der 1. Januar 2025. Wer seinen Platz in der Warteschlange vor diesem Tag gesichert hat, ist an der Reihe. In der Spalte für Indien steht dagegen der 1. November 2013. Gleicher Beruf, gleiche Qualifikation, anderes Geburtsland, und aus Monaten werden Jahre, bei Indien mehr als ein Jahrzehnt. Für Deutsche ist die Green Card deshalb weniger eine Frage der Warteschlange als der Vorbereitung: Wer früh, schriftlich abgesichert und mit der passenden Kategorie startet, kommt in der Regel gut durch.
 
 > **Kurz gesagt:**
 > - Die Green Card (*Lawful Permanent Residence*, LPR) ist ein unbefristetes Aufenthaltsrecht mit freier Arbeitswahl. Die Plastikkarte gilt zehn Jahre und wird erneuert, der Status bleibt, solange die USA dein Lebensmittelpunkt sind.
 > - Der Regelweg für Fachkräfte führt über den Arbeitgeber: Arbeitsmarktprüfung (*PERM*), Petition I-140, dann Statusanpassung I-485 im Inland oder Einwanderungsvisum über das Konsulat.
-> - Stand September 2026: EB-1 und EB-2 sind für „Rest der Welt" (also die meisten Deutschen) ohne Wartezeit, EB-3 nur für Priority Dates vor dem 1. September 2024. Das Oktober-Bulletin lag am 20. September 2026 noch nicht vor.
+> - Stand Oktober 2026: EB-1 ist für „Rest der Welt" (also die meisten Deutschen) ohne Wartezeit. EB-2 wurde zum Start des Fiskaljahres 2027 zurückgestuft und gilt für Priority Dates vor dem 1. Januar 2025, EB-3 für solche vor dem 15. Mai 2024.
 > - Die Zeit steckt im Verfahren, nicht im Stichtag: bei PERM rund 2,5–4,5 Jahre ab Start. Selbstpetitionen (NIW, EB-1A) gehen schneller, wurden 2026 aber nur zu etwa 49 % bzw. 41 % genehmigt.
 > - Die Kosten der Arbeitsmarktprüfung trägt der Arbeitgeber, du zahlst die I-485-Gebühren für dich und deine Familie: 1.440 $ je Erwachsenem, 950 $ je Kind unter 14 (Papierantrag).
 > - Als Green-Card-Inhaber wirst du weltweit in den USA besteuert, und Auslandsaufenthalte von mehr als 180 Tagen gefährden den Status.
@@ -66,7 +66,7 @@ Zum Tempo: Ende August 2026 prüfte das DOL PERM-Anträge vom November 2025 – 
 
 ### Nach der I-140: I-485, Arbeitserlaubnis, Jobwechsel
 
-Ist dein Priority Date nach der USCIS-Tabelle bereits erreicht, kannst du I-140 und I-485 zusammen einreichen (*Concurrent Filing*) – im September 2026 gilt das für EB-1 und EB-2 (Rest der Welt), bei EB-3 nur für Priority Dates vor dem 1. September 2024. Mit dem I-485 beantragst du auf Wunsch eine Arbeitserlaubnis (*Employment Authorization Document*, EAD; Form I-765, 260 $) und ein Reisedokument (*Advance Parole*; Form I-131, 630 $, online 580 $). Für neue Anträge gilt die EAD seit Dezember 2025 höchstens 18 Monate (vorher fünf Jahre), seit Ende Oktober 2025 laut Kanzleiberichten ohne automatische Fortgeltung bei Verlängerungsanträgen. Auch dein Ehepartner kann mit seinem I-485 eine EAD beantragen und damit für jeden Arbeitgeber arbeiten (Kapitel 10).
+Ist dein Priority Date nach der USCIS-Tabelle bereits erreicht, kannst du I-140 und I-485 zusammen einreichen (*Concurrent Filing*) – im Oktober 2026 gilt das für EB-1 (Rest der Welt) und, weil USCIS diesen Monat die Dates-for-Filing-Tabelle freigegeben hat, für EB-2 mit Priority Date vor dem 15. März 2026 und EB-3 vor dem 1. August 2024. Mit dem I-485 beantragst du auf Wunsch eine Arbeitserlaubnis (*Employment Authorization Document*, EAD; Form I-765, 260 $) und ein Reisedokument (*Advance Parole*; Form I-131, 630 $, online 580 $). Für neue Anträge gilt die EAD seit Dezember 2025 höchstens 18 Monate (vorher fünf Jahre), seit Ende Oktober 2025 laut Kanzleiberichten ohne automatische Fortgeltung bei Verlängerungsanträgen. Auch dein Ehepartner kann mit seinem I-485 eine EAD beantragen und damit für jeden Arbeitgeber arbeiten (Kapitel 10).
 
 Was du selbst zahlst: die I-485-Gebühr je Antragsteller, dazu je nach Bedarf EAD und Advance Parole, den Arzt (für das Formular I-693 verlangt USCIS keine Gebühr, die Praxis schon) und Übersetzungen.
 
@@ -100,21 +100,21 @@ Die Zahl der Green Cards ist pro Kategorie gedeckelt, kein Land darf mehr als ru
 
 - **Priority Date (PD):** dein Platz in der Warteschlange – bei PERM-Fällen der Tag der ETA-9089-Einreichung, sonst (EB-1, NIW) der Tag der I-140-Einreichung. Ein genehmigtes I-140 behält das PD in der Regel auch beim Arbeitgeberwechsel (Kapitel 30).
 - **Stichtag** (*Cutoff Date*): Nur wer ein PD davor hat, ist an der Reihe: C steht für *current* (alle dran), U für *unavailable* (keine Visa).
-- **Zwei Tabellen:** *Final Action Dates* zeigen, ab wann genehmigt werden darf, *Dates for Filing*, ab wann du einreichen darfst. Welche Tabelle für den I-485 zählt, legt USCIS monatlich fest: Stand 1. September 2026 gilt bei arbeitsbasierten Anträgen die Final-Action-, bei familienbasierten die Dates-for-Filing-Tabelle (uscis.gov/green-card).
+- **Zwei Tabellen:** *Final Action Dates* zeigen, ab wann genehmigt werden darf, *Dates for Filing*, ab wann du einreichen darfst. Welche Tabelle für den I-485 zählt, legt USCIS monatlich fest: Für Oktober 2026 gilt bei arbeits- und familienbasierten Anträgen die Dates-for-Filing-Tabelle (uscis.gov/green-card). Genehmigt wird trotzdem erst, wenn das Priority Date auch vor dem Final Action Date liegt.
 
 Die geltende Spalte bestimmt dein Geburtsland (*Country of Chargeability*), nicht dein Pass – eine in Indien geborene Deutsche zählt zur Spalte Indien; die Zurechnung über den Ehepartner klärt im Zweifel die Kanzlei. „Rest der Welt" ist die Spalte „All Chargeability Areas Except Those Listed".
 
-| Final Action Dates, September 2026 | Rest der Welt | China | Indien |
+| Final Action Dates, Oktober 2026 | Rest der Welt | China | Indien |
 |---|---|---|---|
-| EB-1 | current (C) | 1. Juli 2023 | 15. Oktober 2022 |
-| EB-2 | current (C) | 1. September 2021 | nicht verfügbar (U) |
-| EB-3 | 1. September 2024 | 1. Januar 2022 | 1. Januar 2014 |
+| EB-1 | current (C) | 1. Juli 2023 | 1. Februar 2023 |
+| EB-2 | 1. Januar 2025 | 1. Oktober 2021 | 1. November 2013 |
+| EB-3 | 15. Mai 2024 | 8. Januar 2022 | 1. Januar 2014 |
 
-Beispiel: Ein PERM-Antrag vom Oktober 2025 hat das Priority Date Oktober 2025. In EB-3 liegt das hinter dem Stichtag vom 1. September 2024 – noch keine Visa-Nummer; in EB-2 ist die Kategorie current, es geht sofort weiter. Eine in Indien geborene Kollegin mit demselben Datum wartet in EB-3 hinter dem Stichtag vom 1. Januar 2014 Jahre auf den Aufruf. Nach der Dates-for-Filing-Tabelle sind im September 2026 zwar alle drei arbeitsbasierten Kategorien für den Rest der Welt current, für den I-485 zählt aber die Final-Action-Tabelle.
+Beispiel: Ein PERM-Antrag vom Oktober 2025 hat das Priority Date Oktober 2025. In EB-2 liegt das vor dem Filing-Stichtag vom 15. März 2026, der I-485 darf im Oktober 2026 also eingereicht werden. Genehmigt wird er aber erst, wenn das Final Action Date (derzeit 1. Januar 2025) über Oktober 2025 hinausrückt. In EB-3 liegt dasselbe Datum hinter beiden Stichtagen – noch keine Einreichung. Eine in Indien geborene Kollegin mit demselben Datum wartet in EB-3 hinter dem Stichtag vom 1. Januar 2014 Jahre auf den Aufruf.
 
-Der Verlauf zeigt das Tempo: EB-2 (Rest der Welt) stand im Oktober 2025 bei 1. Dezember 2023, im März 2026 bei 15. Oktober 2024, seit dem Bulletin für April 2026 ist es current. EB-3 rückte von 1. April 2023 auf 1. September 2024. Grund laut Bulletin: eine gesunkene Zahl ausgestellter Visa, begründet mit der Politik seit Januar 2025 – kein Dauerzustand.
+Der Verlauf zeigt, wie schnell sich das dreht: EB-2 (Rest der Welt) stand im Oktober 2025 bei 1. Dezember 2023, im März 2026 bei 15. Oktober 2024, von April bis September 2026 war es current. Mit dem Oktober-Bulletin 2026 sprang es auf den 1. Januar 2025 zurück, EB-3 vom 1. September 2024 auf den 15. Mai 2024. Das State Department begründet die Rückstufung damit, die Ausgabe im neuen Fiskaljahr in den Quartals- und Jahresgrenzen zu halten.
 
-> **Achtung:** Das September-Bulletin warnt selbst, dass EB-2 vor Ende des Fiskaljahres am 30. September 2026 zurückgestuft oder unverfügbar werden kann. Am 1. Oktober beginnt das Fiskaljahr 2027 mit neuen Nummern; die Oktober-Werte lagen bei Redaktionsschluss (20. September 2026) noch nicht vor – prüfe sie auf travel.state.gov/visabulletin. Ist dein PD current und die I-140 genehmigt, reiche den I-485 sofort ein: Ein eingereichter Antrag bleibt bei einer späteren Rückstufung anhängig und wird entschieden, sobald dein PD wieder vor dem Stichtag liegt.
+> **Achtung:** Stichtage bewegen sich in beide Richtungen, wie die Rückstufung im Oktober 2026 zeigt. Prüfe jeden Monat travel.state.gov/visabulletin und die USCIS-Seite, welche Tabelle gilt. Erlaubt die Tabelle eine Einreichung und ist die I-140 genehmigt oder wird sie mit eingereicht, reiche den I-485 sofort ein: Ein eingereichter Antrag bleibt bei einer späteren Rückstufung anhängig und wird entschieden, sobald dein PD wieder vor dem Stichtag liegt.
 
 > **Merke:** Die Wartezeit ergibt sich aus Geburtsland, Kategorie und Priority Date. Der Beruf allein entscheidet nichts.
 
@@ -134,10 +134,10 @@ Bei EB-2/EB-3 addieren sich Lohnbescheid (rund vier Monate), Stellensuche (zwei 
 
 ### Familie, Investor, Lotterie, Gold Card
 
-- **Ehepartner eines US-Bürgers:** Als *Immediate Relatives* (unmittelbare Angehörige) unterliegen sie keiner Quote, keinem Stichtag. Ablauf: Petition I-130 (675 $ Papier, 625 $ online), NVC (DS-260 325 $, Verpflichtungserklärung I-864 mit 120 $ Prüfgebühr), Interview in Frankfurt, Immigrant Fee 235 $ – laut Kanzleien 2026 rund 17 Monate für die I-130, dann drei bis sechs beim Konsulat; bei rechtmäßiger Einreise geht auch der I-485 im Inland. Ehepartner eines Green-Card-Inhabers (Kategorie F2A) haben im September 2026 den Stichtag 22. August 2026, praktisch current – Engpass ist die I-130-Bearbeitung (mehr in Kapitel 9 und 10).
+- **Ehepartner eines US-Bürgers:** Als *Immediate Relatives* (unmittelbare Angehörige) unterliegen sie keiner Quote, keinem Stichtag. Ablauf: Petition I-130 (675 $ Papier, 625 $ online), NVC (DS-260 325 $, Verpflichtungserklärung I-864 mit 120 $ Prüfgebühr), Interview in Frankfurt, Immigrant Fee 235 $ – laut Kanzleien 2026 rund 17 Monate für die I-130, dann drei bis sechs beim Konsulat; bei rechtmäßiger Einreise geht auch der I-485 im Inland. Ehepartner eines Green-Card-Inhabers (Kategorie F2A) haben im Oktober 2026 das Final Action Date 22. September 2026, in der Filing-Tabelle sind sie current – Engpass ist die I-130-Bearbeitung (mehr in Kapitel 9 und 10).
 - **Investor (EB-5):** 800.000 $ in einem Zielgebiet (ländlich oder mit hoher Arbeitslosigkeit) beziehungsweise 1.050.000 $ sonst, dazu mindestens zehn Vollzeitstellen – die gesetzlichen Beträge seit dem Reformgesetz von 2022. Die USCIS-Übersichtsseite nannte bei Redaktionsschluss noch höhere Werte einer älteren Regel (900.000 $ und 1,8 Millionen $): prüfe beides vor jeder Investition. Für Fachkräfte kein realistischer Weg (Kapitel 9).
 - **Lotterie (Diversity Visa):** 55.000 Green Cards pro Jahr. Die Vergabe war seit Dezember 2025 ausgesetzt und läuft nach einem Gerichtsbeschluss vom 28. August 2026 wieder; das Programmjahr 2026 endet am 30. September, die Registrierung für 2027 ist nicht eröffnet. Als Plan taugt sie nicht (Kapitel 9).
-- **Gold Card:** Nur als Randnotiz: 1 Million $ „Geschenk" (Firmen: 2 Millionen $ je Angestelltem) plus 15.000 $ Gebühr, eingeordnet in EB-1 oder EB-2. Bis Mitte 2026 war nur eine Genehmigung bekannt, eine Klage ist anhängig. Für Deutsche ist die Wartezeit ohnehin kein Argument, weil EB-1 und EB-2 derzeit current sind – wer eine Million Dollar übrig hat, braucht für die Green Card eher einen Steuerberater als einen Ratgeber.
+- **Gold Card:** Nur als Randnotiz: 1 Million $ „Geschenk" (Firmen: 2 Millionen $ je Angestelltem) plus 15.000 $ Gebühr, eingeordnet in EB-1 oder EB-2. Bis Mitte 2026 war nur eine Genehmigung bekannt, eine Klage ist anhängig. Für Deutsche ist die Wartezeit ohnehin kaum ein Argument, weil EB-1 derzeit current ist und EB-2 im Oktober 2026 nur gut 21 Monate Rückstand hatte – wer eine Million Dollar übrig hat, braucht für die Green Card eher einen Steuerberater als einen Ratgeber.
 
 ### Rechte und Pflichten
 
@@ -186,7 +186,7 @@ Die *Exit Tax* trifft, wer die Green Card nach mindestens acht der letzten 15 Ja
 
 ### Was sich seit 2025 geändert hat
 
-- **Kinder (CSPA):** Für Anträge ab dem 15. August 2025 gilt für die Altersberechnung die Final-Action-Dates-Tabelle; bei EB-1 und EB-2 (Rest der Welt, derzeit current) besteht kaum Risiko. H-4-Kinder verlieren den H-4-Status mit 21 unabhängig davon (Kapitel 10).
+- **Kinder (CSPA):** Für Anträge ab dem 15. August 2025 gilt für die Altersberechnung die Final-Action-Dates-Tabelle; bei EB-1 (Rest der Welt, derzeit current) besteht kaum Risiko, bei EB-2 und EB-3 lohnt seit der Rückstufung im Oktober 2026 ein Blick der Kanzlei auf ältere Kinder. H-4-Kinder verlieren den H-4-Status mit 21 unabhängig davon (Kapitel 10).
 - **Public Charge:** Die Endregel vom 20. Juli 2026 (91 FR 45324) gilt für I-485-Anträge ab dem 18. September 2026 und ersetzt die Regel von 2022. Officer würdigen alle relevanten Umstände im Einzelfall; Bezug von Medicaid, SNAP oder Wohngeld nach diesem Datum kann berücksichtigt werden, bei gesichertem Einkommen gilt das Risiko als gering (Einschätzung, keine Garantie). Frage vor Leistungsbezug während des Verfahrens die Kanzlei, nutze stets die aktuelle Formularausgabe.
 - **Länderspezifische Sperren:** Die Prüfsperren für bestimmte Staatsangehörigkeiten oder Geburtsländer und die Pause bei Einwanderungsvisa für 75 Länder nennen Deutschland nicht; Gerichte haben sie im Juni bzw. August 2026 aufgehoben (Berufungen sind möglich). Wer in einem Listenland geboren wurde, fragt die Kanzlei.
 - **Gebühren:** Die Zusatzgebühren aus dem Gesetz H.R. 1 (Pub. L. 119-21) betreffen I-140 und I-485 nicht (Gebührenblatt G-1055, Stand 9. September 2026).
@@ -230,4 +230,4 @@ Klär zuerst, welche Kategorie zu dir passt: Stelle mit Masteranforderung (EB-2)
 - [irs.gov/individuals/international-taxpayers](https://irs.gov/individuals/international-taxpayers) — Steuerpflicht und Exit Tax
 - [sss.gov](https://sss.gov) — Selective Service: Registrierungspflicht
 
-> **Stand:** 20. September 2026. Diese Angaben ändern sich schnell: die Stichtage im Visa Bulletin (das Oktober-Bulletin mit den Werten für das Fiskaljahr 2027 lag bei Redaktionsschluss nicht vor), die Bearbeitungszeiten von DOL und USCIS, die Genehmigungsquoten bei NIW und EB-1A, Gebühren (G-1055), die Public-Charge-Regeln, Gold Card und Diversity Visa sowie Gerichtsentscheidungen. Prüfe vor jeder Entscheidung die offiziellen Seiten und die Kanzlei.
+> **Stand:** 1. Oktober 2026 (Visa Bulletin Oktober 2026), übrige Angaben 20. September 2026. Diese Angaben ändern sich schnell: die monatlichen Stichtage im Visa Bulletin, die Bearbeitungszeiten von DOL und USCIS, die Genehmigungsquoten bei NIW und EB-1A, Gebühren (G-1055), die Public-Charge-Regeln, Gold Card und Diversity Visa sowie Gerichtsentscheidungen. Prüfe vor jeder Entscheidung die offiziellen Seiten und die Kanzlei.

@@ -4,7 +4,7 @@ Im Jobangebot aus Detroit steht ein Satz, der nach Zusage klingt: *The Company m
 
 > **Kurz gesagt:**
 > - H-1B und Green Card sind zwei Etappen, keine Konkurrenten: Der H-1B erlaubt bis zu sechs Jahre Arbeit, gebunden an einen Arbeitgeber; die Green Card gilt unbefristet, erlaubt jeden Arbeitgeber und gibt dem Partner die Arbeitserlaubnis.
-> - Für Deutsche gilt im September 2026: EB-1 und EB-2 sind ohne Warteschlange („current“), EB-3 hat einen Stichtag (1. September 2024); das Verfahren über den Arbeitgeber dauert grob 2,5–4,5 Jahre, und das State Department warnt vor einer Rückstufung.
+> - Für Deutsche gilt im Oktober 2026: EB-1 ist ohne Warteschlange („current“), EB-2 wurde auf den Stichtag 1. Januar 2025 zurückgestuft, EB-3 liegt beim 15. Mai 2024; das Verfahren über den Arbeitgeber dauert grob 2,5–4,5 Jahre.
 > - Starte früh: Das Priority Date entsteht erst mit der PERM-Einreichung, während die Sechs-Jahres-Uhr des H-1B läuft. Lass Zeitpunkt, Kosten und Fortführung schriftlich zusagen – die PERM-Kosten trägt der Arbeitgeber.
 > - Klappt die Lotterie nicht: Plan A ist der nächste Anlauf oder ein quotenfreier Arbeitgeber, Plan B ein anderes Visum oder das Studium, Plan C die Green Card direkt (Kapitel 8 und 9).
 > - Nicht jeder braucht eine Green Card. Sie bringt Freiheit, aber auch weltweite Steuerpflicht und Pflichten beim Wohnsitz.
@@ -76,17 +76,19 @@ Die Werte für Lohnfeststellung und PERM stammen aus den DOL-Bearbeitungszeiten 
 
 Zwei Regeln des Gesetzes *AC21* halten deinen H-1B über die sechs Jahre hinaus am Leben (Kapitel 5): Ein-Jahres-Schritte, wenn PERM oder I-140 seit 365 Tagen anhängig ist, und Drei-Jahres-Schritte, wenn die I-140 genehmigt ist, für dich aber noch kein Visum zur Verfügung steht.
 
-#### Die Lage für Deutsche (Stand 20. September 2026)
+#### Die Lage für Deutsche (Stand 1. Oktober 2026)
 
-Für die Warteschlange zählt das Geburtsland. Deutsche gehören zur Gruppe „Rest der Welt“, nicht zu Indien oder China, wo die Wartezeiten Jahre bis Jahrzehnte betragen (Indien EB-3: Stichtag 1. Januar 2014). Das *Visa Bulletin*, die monatliche Stichtagsliste des State Department, nennt für September 2026 diese Stichtage (*Final Action Dates*) für arbeitsbasierte Anträge im Inland:
+Für die Warteschlange zählt das Geburtsland. Deutsche gehören zur Gruppe „Rest der Welt“, nicht zu Indien oder China, wo die Wartezeiten Jahre bis Jahrzehnte betragen (Indien EB-3: Stichtag 1. Januar 2014). Das *Visa Bulletin*, die monatliche Stichtagsliste des State Department, nennt für Oktober 2026, den ersten Monat des Fiskaljahres 2027, diese Stichtage (*Final Action Dates*):
 
 - **EB-1** (außergewöhnliche Fähigkeiten, Forschende, Konzernmanager): current, also ohne Wartezeit.
-- **EB-2** (Master oder Bachelor plus fünf Jahre Berufserfahrung mit wachsender Verantwortung): current seit April 2026. Im Oktober 2025 lag der Stichtag noch beim 1. Dezember 2023.
-- **EB-3** (Bachelor oder Fachkräfte mit mindestens zwei Jahren Erfahrung): 1. September 2024. Nur Fälle mit früherem Priority Date kommen zum Zug, ein heute eingereichtes PERM liegt dahinter.
+- **EB-2** (Master oder Bachelor plus fünf Jahre Berufserfahrung mit wachsender Verantwortung): 1. Januar 2025. Von April bis September 2026 war die Kategorie current, im Oktober 2025 lag der Stichtag beim 1. Dezember 2023.
+- **EB-3** (Bachelor oder Fachkräfte mit mindestens zwei Jahren Erfahrung): 15. Mai 2024. Nur Fälle mit früherem Priority Date kommen zum Zug, ein heute eingereichtes PERM liegt dahinter.
+
+Einreichen darfst du den I-485 im Oktober 2026 nach der großzügigeren Dates-for-Filing-Tabelle, die USCIS freigegeben hat: EB-2 bis Priority Date 15. März 2026, EB-3 bis 1. August 2024. Genehmigt wird erst, wenn auch das Final Action Date erreicht ist.
 
 „Current“ heißt: Das Priority Date spielt keine Rolle, die I-485 kann zusammen mit der I-140 eingereicht werden (*Concurrent Filing*). Welche Kategorie gilt, bestimmen die Mindestanforderungen der Stelle, nicht dein Lebenslauf – frage die Kanzlei früh, ob die Stelle EB-2-fähig ist.
 
-> **Achtung:** „Current“ ist eine Momentaufnahme: Das Bulletin für September warnt, dass EB-2 vor Ende des Fiskaljahres zurückgestuft werden kann. Am 1. Oktober beginnt das Fiskaljahr 2027 (FY2027) mit neuen Kontingenten, die Oktober-Ausgabe lag am 20. September noch nicht vor. Das State Department führt die jüngste Beschleunigung auf gesunkene Visa-Ausstellung zurück – das kann sich umkehren. Plane nie so, als bliebe EB-2 current, und reiche die I-485 ein, sobald es möglich ist.
+> **Achtung:** „Current“ ist eine Momentaufnahme. EB-2 war sechs Monate lang current und fiel mit dem Oktober-Bulletin 2026, dem ersten des Fiskaljahres 2027, auf den 1. Januar 2025 zurück. Plane nie so, als bliebe ein Stichtag stehen, und reiche die I-485 ein, sobald die geltende Tabelle es erlaubt.
 
 ### Wann du startest und wie du es vertraglich absicherst
 
@@ -199,4 +201,4 @@ Kläre zuerst mit deinem Partner oder deiner Partnerin, ob deine Familie länger
 - Federal Register — Vorschläge und Endregeln, Suche „H-1B“ oder „public charge“ ([federalregister.gov](https://federalregister.gov))
 - Aufenthaltsgesetz — § 18c, Niederlassungserlaubnis für Fachkräfte ([gesetze-im-internet.de/aufenthg_2004/__18c.html](https://gesetze-im-internet.de/aufenthg_2004/__18c.html))
 
-> **Stand:** 20. September 2026. Diese Angaben ändern sich schnell: die Stichtage im Visa Bulletin (Oktober-Ausgabe lag noch nicht vor, Rückstufung von EB-2 möglich), die Bearbeitungszeiten von DOL und USCIS, die USCIS-Gebühren, ob die 100.000-$-Zahlung wieder erhoben wird, ob die Vorschläge zu 103.265 $, zum Wegfall der 60-Tage-Frist und zu höheren Lohnstufen in Kraft treten, sowie die Regeln der Registrierung im März 2027. Prüfe vor jeder Entscheidung uscis.gov und federalregister.gov, sprich mit der Kanzlei deines Arbeitgebers.
+> **Stand:** 1. Oktober 2026 (Visa Bulletin Oktober 2026), übrige Angaben 20. September 2026. Diese Angaben ändern sich schnell: die monatlichen Stichtage im Visa Bulletin, die Bearbeitungszeiten von DOL und USCIS, die USCIS-Gebühren, ob die 100.000-$-Zahlung wieder erhoben wird, ob die Vorschläge zu 103.265 $, zum Wegfall der 60-Tage-Frist und zu höheren Lohnstufen in Kraft treten, sowie die Regeln der Registrierung im März 2027. Prüfe vor jeder Entscheidung uscis.gov und federalregister.gov, sprich mit der Kanzlei deines Arbeitgebers.
