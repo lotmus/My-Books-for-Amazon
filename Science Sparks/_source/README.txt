@@ -1,13 +1,13 @@
-The Universe Keeps the Books - source files
+Science Sparks - source files
 
 The .md files are the text of each book (edit these, not the .docx).
 Needs Python with python-docx and matplotlib; the print edition also needs Microsoft Word and pywin32.
 
     python make_figures.py                                              redraw figures/ (only after changing a figure)
-    python build_almanac.py "The Universe Keeps the Books.docx"          Kindle edition
-    python build_almanac.py --print "The Universe Keeps the Books - Print.docx"
+    python build_almanac.py "Science Sparks.docx"          Kindle edition
+    python build_almanac.py --print "Science Sparks - Print.docx"
                                                                         6x9 print edition with page numbers, index and PDF
-    python build_almanac.py --volume 1 "The Universe Keeps the Books - Volume 1.docx"
+    python build_almanac.py --volume 1 "Science Sparks - Volume 1.docx"
                                                                         one volume of the four-volume set (1 to 4; add --print if wanted)
 
 Part order, bridges, front and back matter, figure placement, full-edition pointers and the

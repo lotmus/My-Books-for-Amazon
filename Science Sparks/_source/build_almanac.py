@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Assemble The Universe Keeps the Books from the markdown sources.
+"""Assemble Science Sparks from the markdown sources.
 
 Usage:
     python build_almanac.py [output.docx]                  Kindle edition (hyperlinked)
@@ -27,8 +27,8 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 FIG_DIR = os.path.join(BASE, 'figures')
 DEFAULT_OUT = os.path.join(BASE, "build", "almanac_build.docx")
 
-TITLE = "The Universe Keeps the Books"
-SUBTITLE = "An Engineer's Field Guide to Time, Quantum Weirdness, Life, and How We Know What's True"
+TITLE = "Science Sparks"
+SUBTITLE = "Physics, Life, Mathematics, and History — The Same Few Rules, Told in Highlights"
 AUTHOR = "Lothar J. Musiol"
 
 BODY_FONT = "Georgia"

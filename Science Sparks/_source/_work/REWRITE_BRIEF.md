@@ -1,4 +1,4 @@
-# Rewrite brief for *The Universe Keeps the Books*
+# Rewrite brief for *Science Sparks* (the book was titled *The Universe Keeps the Books* when this brief was written)
 
 You are line-editing one or more chunks of a popular-science almanac by Lothar J. Musiol (a semiconductor engineer of four decades who studied physics in depth). The almanac is assembled from markdown by a Python builder into a Kindle/print Word file. Chunks live in `_source\_work\`. Untouched originals of every chunk are in `_source\_work\orig\` (same file names). Edit only the chunk files you were assigned, in place. Do not touch any other file.
 
