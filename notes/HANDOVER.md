@@ -11,7 +11,7 @@ Do not commit another session’s `.docx`. Do not commit `bak\` snapshots, audit
 - Look First, *The Universe Has No Now*: `Science Books/Look First/HANDOVER.md`. Book 1 chapters 31 and 32 are full lessons again. The sequel keeps the same subjects as its chapters 25 and 26. There is no Book 3.
 - Look First, *A Trip Is Not a New Life*: `Science Books/Look First/A Trip Is Not a New Life - Manuscript/00_Status.md`. Do not restore the deleted Series Plan. Do not renumber the appendix. Popular chapters keep “a landing attempt in the 2030s.”
 - Lolly Wren: `Lolly Wren's Curious Science Adventures - SERIES/HANDOVER.md`, plus each book’s manuscript guide.
-- Mathematics Tower: `The Mathematics Tower/CLAUDE.md` (moved up from `Math for HS and College/` on 1 Oct 2026; the 50 topic outlines are in `The Mathematics Tower/planning/`). Floor 6 is trigonometry. Floor 10 is limits. Floor 11 is the derivative.
+- Mathematics Tower: `The Mathematics Tower/notes/CLAUDE.md` (moved up from `Math for HS and College/` on 1 Oct 2026; the 50 topic outlines are in `The Mathematics Tower/planning/`). Floor 6 is trigonometry. Floor 10 is limits. Floor 11 is the derivative.
 - *The Dolphins' View of History*: `The Dolphins' View of History/notes/CLAUDE.md`. The folder was `History/` until 1 Oct 2026; it was renamed with `git mv` and holds only this book.
 - YouTube companion: `Your First YouTube Channel That Sells/CLAUDE.md`. Nine chapters. The order is `build_docx.py`. The click chapter is chapter 2.
 
@@ -27,7 +27,7 @@ Pull requests #40, #43, and #44 are merged.
 
 Leave these for the session that has them open. They are not the shared copy until that session commits them.
 
-**Owner change, 1 Oct 2026, 16:30 PT.** The earlier sessions on RIB Book 1, Protocol Flamingo and the Mathematics Tower are dormant. One session now owns all three books: RIB Book 1 (manuscript, Kindle file, rebuild script, KDP files), Protocol Flamingo (`Protocol_Flamingo_Rev2.docx` and its notes), and the Mathematics Tower volume files. Do not edit them from another session. That session does no git operations; Lothar syncs separately. Backups of every file it changes are in `C:\Users\lomus\OneDrive\My Books for Amazon - session backups\2026-10-01 RIB-Flamingo-Tower\` (Tower backups also go in its `Archive - not for publication` folder).
+**Owner change, 1 Oct 2026, 16:30 PT.** The earlier sessions on RIB Book 1, Protocol Flamingo and the Mathematics Tower are dormant. One session now owns all three books: RIB Book 1 (manuscript, Kindle file, rebuild script, KDP files), Protocol Flamingo (`Protocol_Flamingo_Rev2.docx` and its notes), and the Mathematics Tower volume files. Do not edit them from another session. That session does no git operations; Lothar syncs separately. Backups of every file it changes are in `C:\Users\lomus\OneDrive\My Books for Amazon - session backups\2026-10-01 RIB-Flamingo-Tower\` (Tower backups also go in its `bak\Archive - not for publication` folder).
 
 **Results, 1 Oct 2026, 17:00 PT** (same session; still no git, so these files are changed on disk and uncommitted):
 - RIB Book 1: 63,090 → 64,082 words. Chapter 13 rewritten, about 18 broken "Then at…" fragments fixed, `rebuild_kindle.py` now emits real headings, page breaks and a linked TOC, and the Kindle docx is rebuilt. The KDP metadata, checklist and description are finished except the author name and launch date. Details: `_BOOK_SUMMARY.md`, last section.
