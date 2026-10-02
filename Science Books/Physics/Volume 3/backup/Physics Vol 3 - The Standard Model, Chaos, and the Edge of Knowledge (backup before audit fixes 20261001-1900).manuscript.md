@@ -1,4 +1,4 @@
-# Physics, Actually
+# Science for Everyone
 
 **PHYSICS VOL. 3**
 *The Standard Model, Chaos, and the Edge of Knowledge*
@@ -342,7 +342,7 @@ If the universe had given the electron the mass of a tau, chemistry would be a v
 
 ### Neutrinos: the particles that barely care
 
-Neutrinos are electrically neutral leptons. They interact through the weak interaction and gravity, but not through electromagnetism or the strong interaction. That makes them extraordinarily difficult to detect. Hundreds of trillions of neutrinos pass through your body every second.
+Neutrinos are electrically neutral leptons. They interact through the weak interaction and gravity, but not through electromagnetism or the strong interaction. That makes them extraordinarily difficult to detect. Billions of neutrinos pass through your body every second.
 
 You generally notice none of them. Neutrinos are produced in the Sun, radioactive processes, supernovae, nuclear reactors, and particle collisions. They are among the most abundant particles in the universe, and yet they are surprisingly shy.
 
@@ -404,7 +404,7 @@ So the universe has more than one route to mass. Physics enjoys making simple sl
 
 ### How You Find a Particle That Lives for 10⁻²² Seconds
 
-The Higgs boson was never seen directly, and never will be. It lives for about 10⁻²² seconds, too short to cross even a thousandth of the width of an atom before it decays. What physicists saw were its decay products, and a statistical bump.
+The Higgs boson was never seen directly, and never will be. It lives for about 10⁻²² seconds, too short to travel even the width of an atomic nucleus before it decays. What physicists saw were its decay products, and a statistical bump.
 
 At the Large Hadron Collider, bunches of protons cross forty million times a second, producing up to about a billion collisions per second. Only about one collision in a billion or two makes a Higgs boson, and most Higgs bosons decay into messy sprays of particles that look like ordinary collisions. One of the cleanest signatures is rare: a Higgs decaying into two high-energy photons. The experiments collected the energies and directions of photon pairs from trillions of collisions and, for each pair, calculated the mass of the particle that would have produced them. Most pairs came from ordinary processes and formed a smooth, falling background. On top of that background, near 125 billion electron volts, about 133 times the mass of a proton, a small excess appeared in both of the two large independent experiments, ATLAS and CMS.
 
@@ -513,7 +513,7 @@ The universe becomes, in a sense, less like a cupboard full of objects and more 
 
 The strictness of the game shows up most dramatically when symmetry predicts something nobody has seen. By the early 1960s, accelerators had produced dozens of new, short-lived particles, and the field was drowning in them. In 1961 Murray Gell-Mann, and independently Yuval Ne'eman, noticed that many of these particles fell into neat families of eight and ten when arranged according to a symmetry pattern, which Gell-Mann called the Eightfold Way after the Buddhist teaching.
 
-One family of ten had a hole in it. The pattern demanded a particle with negative charge, an unusual property called strangeness of minus three, and a mass of about 1,680 million electron volts. At a conference at CERN in 1962, Gell-Mann stood up and predicted it, naming it the omega-minus. In 1964 a team at Brookhaven National Laboratory, analyzing about 100,000 photographs from a bubble chamber, found one event with exactly the predicted particle, at almost exactly the predicted mass. The symmetry had been right, and that same year the idea behind it, that these particles are built from quarks, was on its way.
+One family of ten had a hole in it. The pattern demanded a particle with negative charge, an unusual property called strangeness of minus three, and a mass of about 1,680 million electron volts. At a conference at CERN in 1962, Gell-Mann stood up and predicted it, naming it the omega-minus. In 1964 a team at Brookhaven National Laboratory, analyzing about 100,000 photographs from a bubble chamber, found one event with exactly the predicted particle, at almost exactly the predicted mass. The symmetry had been right, and two years later the idea behind it, that these particles are built from quarks, was on its way.
 
 ### But Then the Universe Cheats
 
@@ -535,7 +535,7 @@ There is a lovely consequence. When a continuous symmetry breaks, it leaves behi
 
 For a long time physicists assumed that nature could not tell left from right. Film any experiment, play it back in a mirror, and the mirrored version should be just as possible. This symmetry is called parity.
 
-In 1956, Tsung-Dao Lee and Chen-Ning Yang noticed that nobody had actually checked it for the weak force. Chien-Shiung Wu did. Working with a team at the National Bureau of Standards, she cooled radioactive cobalt-60 to a few thousandths of a degree above absolute zero inside a magnetic field, so the spinning nuclei lined up. If nature respected mirror symmetry, the decay electrons should come out equally in both directions along the spin. They did not. They came out preferentially in one direction. The weak force can tell left from right.
+In 1956, Tsung-Dao Lee and Chen-Ning Yang noticed that nobody had actually checked it for the weak force. Chien-Shiung Wu did. Working with a team at the National Bureau of Standards, she cooled radioactive cobalt-60 to a hundredth of a degree above absolute zero inside a magnetic field, so the spinning nuclei lined up. If nature respected mirror symmetry, the decay electrons should come out equally in both directions along the spin. They did not. They came out preferentially in one direction. The weak force can tell left from right.
 
 The result, published in early 1957, shocked the field. Pauli had just bet that the Lord was not a weak left-hander. Lee and Yang received the Nobel Prize that same year; Wu, who did the experiment, did not, an omission now widely regarded as a scandal. We now know the weak force acts only on left-handed particles: every neutrino ever observed spins in one direction relative to its motion.
 
@@ -1056,7 +1056,7 @@ This jitter has a name: zero-point energy. It is not a malfunction. It is the en
 
 Zoom into that jitter and you find something stranger. The math describes fleeting particle-antiparticle pairs flickering in and out of existence — physicists call them virtual particles. “They borrow energy and pay it back” is the standard shorthand, and it captures the flavor of the idea, but don't take it too literally: virtual particles are a feature of how the calculation works, not tiny real particles caught mid-heist.
 
-Virtual particles are not detected directly, the way an ordinary particle is. But their fingerprints are all over the mathematics of quantum field theory, and increasingly, in the laboratory.
+These are virtual particles. They are not detected directly, the way an ordinary particle is. But their fingerprints are all over the mathematics of quantum field theory, and increasingly, in the laboratory.
 
 ### Nothing You Can Measure
 
@@ -1371,7 +1371,7 @@ But there is a trap here, and it is worth naming. A sufficiently flexible framew
 
 Here is a practical checklist. It works for strand models, for rewriting networks, and for any idea that arrives promising to explain everything.
 
-First, does it reproduce what we already know, in detail and with numbers? Not "it is compatible with quantum mechanics," but the actual measured value of the electron's magnetic moment to about twelve decimal places, the actual Lamb shift, the actual way the strength of the strong force changes with energy. The Standard Model passes thousands of such tests. A replacement must pass them too.
+First, does it reproduce what we already know, in detail and with numbers? Not "it is compatible with quantum mechanics," but the actual measured value of the electron's magnetic moment to ten decimal places, the actual Lamb shift, the actual way the strength of the strong force changes with energy. The Standard Model passes thousands of such tests. A replacement must pass them too.
 
 Second, does it explain something the existing theory merely assumes? The Standard Model has about nineteen numbers, such as particle masses and force strengths, that are measured rather than derived. A deeper theory that calculated even one of them correctly, before it was measured or to better precision than it was measured, would get a lot of attention very quickly.
 
@@ -1785,7 +1785,7 @@ The relationships are similar. That is why mathematics is so powerful in physics
 
 Here is an analogy you can compute. A mass on a spring bounces at a frequency fixed by two things: the stiffness of the spring and the size of the mass. A stiffer spring makes it faster; a heavier mass makes it slower. In symbols, the angular frequency is the square root of the stiffness divided by the mass.
 
-An electrical circuit made of a coil and a capacitor oscillates too, with charge sloshing back and forth between them. Its equation is identical, symbol for symbol, with the coil's inductance playing the role of the mass and the inverse of the capacitance playing the role of the stiffness. The angular frequency is one divided by the square root of the inductance times the capacitance.
+An electrical circuit made of a coil and a capacitor oscillates too, with charge sloshing back and forth between them. Its equation is identical, symbol for symbol, with the coil's inductance playing the role of the mass and the inverse of the capacitance playing the role of the stiffness. The frequency is one divided by the square root of the inductance times the capacitance.
 
 Plug in a coil of 0.25 microhenries and a capacitor of 10 picofarads, values you would find in a hobby kit. The circuit rings at about 100 megahertz, in the middle of the FM radio band. Turning the tuning dial of an old radio changes the capacitor and moves the resonance to a different station, exactly as moving a weight along a pendulum changes its swing. Engineers once built entire analog computers on this principle, solving mechanical problems by wiring up the equivalent circuits and measuring voltages.
 
@@ -2177,7 +2177,7 @@ David Griffiths, Introduction to Elementary Particles, 2nd edition (Wiley-VCH, 2
 
 ## Symmetry
 
-Leon M. Lederman and Christopher T. Hill, Symmetry and the Beautiful Universe (Prometheus Books, 2004). ISBN 978-1-59102-242-8. Noether's theorem and its consequences, explained for general readers.
+Leon M. Lederman and Christopher T. Hill, Symmetry and the Beautiful Universe (Prometheus Books, 2004). ISBN 978-1-59102-242-4. Noether's theorem and its consequences, explained for general readers.
 
 A. Zee, Fearful Symmetry: The Search for Beauty in Modern Physics (Princeton University Press, 2007 edition). ISBN 978-0-691-13482-6. Symmetry as the guiding idea of twentieth-century physics.
 
@@ -2191,7 +2191,7 @@ Steven H. Strogatz, Nonlinear Dynamics and Chaos, 2nd edition (Westview Press, 2
 
 ## The Frontier and How to Judge It
 
-Brian Greene, The Elegant Universe (W. W. Norton, 1999). ISBN 978-0-393-04688-5. The most widely read account of string theory, written by one of its practitioners.
+Brian Greene, The Elegant Universe (W. W. Norton, 1999). ISBN 978-0-393-04688-2. The most widely read account of string theory, written by one of its practitioners.
 
 Barton Zwiebach, A First Course in String Theory, 2nd edition (Cambridge University Press, 2009). ISBN 978-0-521-88032-9. Textbook. String theory at the level of an advanced undergraduate.
 
@@ -2226,7 +2226,7 @@ Feynman, Richard P. QED: The Strange Theory of Light and Matter. Princeton: Prin
 
 Gleick, James. Chaos: Making a New Science. New York: Penguin, 2008. ISBN 978-0-14-311345-4.
 
-Greene, Brian. The Elegant Universe. New York: W. W. Norton, 1999. ISBN 978-0-393-04688-5.
+Greene, Brian. The Elegant Universe. New York: W. W. Norton, 1999. ISBN 978-0-393-04688-2.
 
 Griffiths, David. Introduction to Elementary Particles. 2nd ed. Weinheim: Wiley-VCH, 2008. ISBN 978-3-527-40601-2.
 
@@ -2244,7 +2244,7 @@ Kittel, Charles. Introduction to Solid State Physics. 8th ed. Hoboken: Wiley, 20
 
 Krane, Kenneth S. Introductory Nuclear Physics. New York: Wiley, 1988. ISBN 978-0-471-80553-3.
 
-Lederman, Leon M., and Christopher T. Hill. Symmetry and the Beautiful Universe. Amherst: Prometheus Books, 2004. ISBN 978-1-59102-242-8.
+Lederman, Leon M., and Christopher T. Hill. Symmetry and the Beautiful Universe. Amherst: Prometheus Books, 2004. ISBN 978-1-59102-242-4.
 
 Popper, Karl. The Logic of Scientific Discovery. London: Routledge Classics, 2002. ISBN 978-0-415-27844-7.
 
