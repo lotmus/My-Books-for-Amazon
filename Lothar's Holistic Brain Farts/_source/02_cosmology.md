@@ -368,6 +368,8 @@ Current data favor dark energy being a true constant over a dynamically evolving
 
 The target is the "Omega Point," laid out in the 1986 book *The Anthropic Cosmological Principle*. The idea: a future cosmic recollapse could let intelligent computation diverge to infinity at the final singularity. Its proponents went so far as to equate that scenario with God.
 
+The name is older than the physics. Pierre Teilhard de Chardin, a Jesuit priest and paleontologist, used "Omega Point" for a final convergence of mind toward which he believed evolution was heading. Frank Tipler later gave the idea its physics costume, arguing in *The Physics of Immortality* (1994) that computation near a final crunch could grow powerful enough to emulate, in effect to resurrect, every mind that had ever lived.
+
 The core rebuttal is short. The whole scenario needs the universe to recollapse eventually, and the 1998 discovery of accelerating expansion, from Chapter 18, points exactly the other way. The cosmic estate the Omega Point hopes to inherit is not funded by the data we have.
 
 A second, independent objection comes from Chapter 16's discussion of chaos. Set the acceleration aside and imagine a hypothetical crunch anyway. Near a final singularity, the chaotic BKL/Mixmaster dynamics would make steering any coherent computation physically impossible, let alone an infinite one.
@@ -763,6 +765,8 @@ The mirror image, a "cosmic adversary," fails too. Parasitism and suffering are 
 Cosmology offers five hypothesized fates, each with its own temperature.
 
 Heat death, the "Big Freeze," is the warm-to-hot default. Stars exhaust their fuel over roughly ten trillion to a hundred trillion years, black holes evaporate over spans up to ten to the hundredth power years, and the universe thins toward an ever colder, ever darker future.
+
+Astronomers divide that fade into eras: the present stelliferous era of burning stars; a degenerate era of white dwarfs, neutron stars and brown dwarfs once star formation stops; a black-hole era in which black holes are the last large objects standing; and a dark era once even they have evaporated. The schedule is provisional. Whether protons eventually decay, and how dark energy behaves over such spans, could rewrite it.
 
 The "Big Rip" requires "phantom" dark energy that grows stronger over time. Current data put dark energy essentially at a true constant, so this scenario stays cold. "Phantom" just means a repulsion that keeps getting harder instead of staying steady. That distinction decides whether the universe fades out gently or gets torn apart with increasing violence, down to atoms, within a finite future time.
 

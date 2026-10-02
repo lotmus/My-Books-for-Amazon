@@ -62,6 +62,8 @@ Newton looked at a falling apple and reached for a force: gravity pulls on the a
 
 This reframing explains something that used to feel like a lucky coincidence: why astronauts orbiting the Earth feel weightless. They're deep inside Earth's gravitational influence up there. They feel weightless because their spacecraft is in continuous free fall, following its geodesic just like the apple, and they're falling right along with it. Nothing is pushing back against them, so there's nothing to feel.
 
+Strictly, the Earth falls toward the apple as well. The apple's mass is negligible, but it is not zero, and it curves spacetime by its own tiny share. Everything is interacting with everything else.
+
 The pleasingly backwards part is that, in this framework, standing still on the ground is the situation that takes active effort. The ground constantly pushes up on your feet, shoving you off your natural free-fall path. Weight is the floor stopping you from falling the way spacetime would otherwise have you fall.
 
 Newton was approximately right, which is a perfectly respectable thing to be. Newtonian gravity remains an excellent, entirely serviceable approximation wherever relativistic corrections are small, which covers nearly everything you'll ever throw, drop, or launch in ordinary life.
@@ -112,6 +114,8 @@ One detail trips people up: nobody ever experiences their own clock running slow
 
 That's exactly what happens to a traveler who heads out at relativistic speed and comes home again: they may genuinely have aged less than the people who stayed put. No clock malfunctioned or lied. Every clock involved measured its own proper time with perfect accuracy. They just took different paths through spacetime to the same reunion, and different paths, as the Twin Paradox already showed, rack up different amounts of elapsed time.
 
+Speed is only half the story; depth in a gravitational field counts too. A clock at cruising altitude sits in slightly weaker gravity and runs faster on that account, while the plane's speed slows it, so the net result depends on the flight. In 1971, atomic clocks flown around the world in both directions came home disagreeing with the clocks left on the ground, by the amounts relativity predicted. There is no master clock above the universe for anyone's watch to agree with. Time is real. It is also personal.
+
 ### Appendix 9: The Cucumber
 
 *Status: Strange but solid.*
@@ -133,6 +137,8 @@ The area law was proposed in the early 1970s and pinned down by Stephen Hawking'
 The most precise version of this idea is an actual mathematical duality, called AdS/CFT. A gravitational theory living in a higher-dimensional spacetime is conjectured, on a mountain of supporting evidence, to be exactly equivalent to a completely different, gravity-free quantum theory living on its lower-dimensional boundary. Two descriptions, wildly different on their face, encoding identical physics.
 
 This does not mean our actual universe literally is a two-dimensional projection, some cosmic cinema screen we're all living inside. It means that in specific, carefully constructed theoretical settings, two very different-looking descriptions can be mathematically identical underneath. That's a precise, narrow result, however good the sweeping version sounds at a dinner party.
+
+The narrow result still has a large implication. If a theory with gravity can be rewritten exactly as a theory without it, spacetime and gravity may be emergent, assembled from quantum information and entanglement. Emergent things are still real. Temperature, pressure and sound all emerge from jostling particles, and nobody declines to believe in a fever. Spacetime, and the cucumber from Appendix 9, could be real in exactly that way.
 
 ### Appendix 11: The Cinema Interpretation of Everything
 
