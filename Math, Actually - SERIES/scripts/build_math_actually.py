@@ -452,6 +452,23 @@ def transform(vol, root, rooms, chaps):
     ep += [body_p(t) for t in T.EPILOGUE[vol]]
     for e in reversed(ep): body.insert(pos, e)
     sect = body.find(q('sectPr'))
+    # Also by Lothar J. Musiol (canonical list, ma_text.ALSO_BY_LIST), just before the closing note
+    also_by = [mk_p(T.ALSO_BY_HEADING, 'Heading1', page_break=True, bookmark='also_by', bm_id=bm.next())]
+    for group, titles in T.ALSO_BY_LIST:
+        g = mk_p('', None, jc='left')
+        sp = etree.SubElement(g.find(q('pPr')), q('spacing')); sp.set(q('before'), '160'); sp.set(q('after'), '40')
+        g.find(q('pPr')).insert(0, etree.Element(q('keepNext')))
+        g.find(q('pPr')).append(g.find(q('pPr')).find(q('jc')))
+        add_runs(g, group, rpr_of(b=True))
+        also_by.append(g)
+        for title in titles:
+            e = mk_p('', None, jc='left')
+            sp = etree.SubElement(e.find(q('pPr')), q('spacing')); sp.set(q('before'), '0'); sp.set(q('after'), '20')
+            ind = etree.SubElement(e.find(q('pPr')), q('ind')); ind.set(q('left'), '360'); ind.set(q('firstLine'), '0')
+            e.find(q('pPr')).append(e.find(q('pPr')).find(q('jc')))
+            add_runs(e, title.replace('*', ''))
+            also_by.append(e)
+    for e in also_by: sect.addprevious(e)
     closing = [mk_p('A Note Before You Go', 'Heading1', page_break=True, bookmark='note_before_you_go', bm_id=bm.next())]
     closing += [body_p(t) for t in T.CLOSING[vol]] + [body_p(T.AUTHOR)]
     for e in closing: sect.addprevious(e)
@@ -513,6 +530,7 @@ def build_toc(vol, rooms, chaps, body_root):
     out.append(entry(T.EPILOGUE_TITLE[vol], 'epilogue'))
     for title in ('Answer Key', 'Solutions to the Problems', 'Symbol & Notation Glossary', 'Appendix — Further Reading', 'Subject Index'):
         out.append(entry(title, 'bm_' + re.sub(r'\W+', '_', title.lower())[:30]))
+    out.append(entry(T.ALSO_BY_HEADING, 'also_by'))
     out.append(entry('A Note Before You Go', 'note_before_you_go'))
     return out
 

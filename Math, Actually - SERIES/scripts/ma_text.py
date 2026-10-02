@@ -22,7 +22,61 @@ CHAPTER_TITLE_FIX = {50: 'Where Mathematics Meets the World'}
 TOPIC_OVERRIDE = {}
 
 ALSO_BY = ('Also by Lothar J. Musiol: *Physics, Actually*, the companion series on the physical world, '
-           'and *Life, Actually*. The three series are written to be read side by side.')
+           'and *Quanta, Actually*, on the quantum world. Every title is listed on the Also by Lothar J. Musiol '
+           'page at the back of this volume.')
+
+# Back matter: the canonical 'Also by Lothar J. Musiol' list (same in every book; see
+# notes/ALSO_BY - canonical list.md at the repo root). Titles as on each master's title page.
+ALSO_BY_HEADING = 'Also by Lothar J. Musiol'
+ALSO_BY_LIST = [
+    ('Physics, Actually', [
+        'Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity',
+        'Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime',
+        'Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge',
+        'Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere',
+    ]),
+    ('Math, Actually', [
+        'Math, Actually, Volume 1: From Arithmetic to Calculus',
+        'Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic',
+        'Math, Actually, Volume 3: From Differential Equations to Abstract Algebra',
+        'Math, Actually, Volume 4: From Category Theory to the Frontier',
+    ]),
+    ('Quanta, Actually', [
+        'Quanta, Actually, Volume 1: The Quantum World',
+        'Quanta, Actually, Volume 2: The Quantum Conversation',
+        'Quanta, Actually, Volume 3: Complete Quantum Electrodynamics Course',
+    ]),
+    ('Science Sparks', [
+        'Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights',
+    ]),
+    ('Look First', [
+        'Look First, Volume 1: The Universe Has No Now',
+        'Look First, Volume 2: A Trip Is Not a New Life',
+    ]),
+    ('Electrical Engineering Series', [
+        'Foundations of Electronics (Book 1)',
+        'Circuits, Components, and Control (Book 2)',
+        'Semiconductor Physics and Devices (Book 3)',
+        'RF, Microwave, and Transceivers (Book 4)',
+        'Communications, Wireless, and SDR (Book 5)',
+        'Power and Energy (Book 6)',
+        'Packaging, Layout, EMC, and Test (Book 7)',
+    ]),
+    ('History', [
+        "The Dolphins' View of History",
+    ]),
+    ('Fiction', [
+        "The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1)",
+        'The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2)',
+        'Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1)',
+        'The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2)',
+        'Protocol Flamingo (The Invasion Storybooks, Book 1), as George Herbert Fontaine',
+    ]),
+    ('How-To', [
+        'Your First Book That Sells',
+        'Your First YouTube Channel That Rocks',
+    ]),
+]
 
 def front_titles(vol):
     return ['Preface'] if vol == 1 else ['About This Volume']

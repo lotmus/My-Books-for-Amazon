@@ -33,6 +33,58 @@ ORDER = [
 TITLE = "Your First YouTube Channel That Rocks"
 SUBTITLE = "Grow Watch Time and Subscribers, Reach the Partner Program, and Earn From Ads, Fans, and Sponsors"
 SERIES = "A working guide for creators who want a channel, not a hobby."
+# Back matter: the canonical "Also by Lothar J. Musiol" list (same in every book; see
+# notes/ALSO_BY - canonical list.md at the repo root). Titles as on each master's title page.
+ALSO_BY_HEADING = "Also by Lothar J. Musiol"
+ALSO_BY = [
+    ('Physics, Actually', [
+        'Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity',
+        'Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime',
+        'Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge',
+        'Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere',
+    ]),
+    ('Math, Actually', [
+        'Math, Actually, Volume 1: From Arithmetic to Calculus',
+        'Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic',
+        'Math, Actually, Volume 3: From Differential Equations to Abstract Algebra',
+        'Math, Actually, Volume 4: From Category Theory to the Frontier',
+    ]),
+    ('Quanta, Actually', [
+        'Quanta, Actually, Volume 1: The Quantum World',
+        'Quanta, Actually, Volume 2: The Quantum Conversation',
+        'Quanta, Actually, Volume 3: Complete Quantum Electrodynamics Course',
+    ]),
+    ('Science Sparks', [
+        'Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights',
+    ]),
+    ('Look First', [
+        'Look First, Volume 1: The Universe Has No Now',
+        'Look First, Volume 2: A Trip Is Not a New Life',
+    ]),
+    ('Electrical Engineering Series', [
+        'Foundations of Electronics (Book 1)',
+        'Circuits, Components, and Control (Book 2)',
+        'Semiconductor Physics and Devices (Book 3)',
+        'RF, Microwave, and Transceivers (Book 4)',
+        'Communications, Wireless, and SDR (Book 5)',
+        'Power and Energy (Book 6)',
+        'Packaging, Layout, EMC, and Test (Book 7)',
+    ]),
+    ('History', [
+        "The Dolphins' View of History",
+    ]),
+    ('Fiction', [
+        "The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1)",
+        'The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2)',
+        'Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1)',
+        'The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2)',
+        'Protocol Flamingo (The Invasion Storybooks, Book 1), as George Herbert Fontaine',
+    ]),
+    ('How-To', [
+        'Your First Book That Sells',
+        'Your First YouTube Channel That Rocks',
+    ]),
+]
 TOKEN = re.compile(r"(\*\*[^*]+?\*\*|\*[^*]+?\*|`[^`]+`|\[[^\]]+?\]\([^)]+?\))")
 
 
@@ -501,6 +553,23 @@ def main():
             run.font.name = "Calibri"
         else:
             add_inlines(paragraph, text)
+
+    also = doc.add_section(WD_SECTION.NEW_PAGE)
+    set_running_head(also, "Also by")
+    doc.add_paragraph(ALSO_BY_HEADING, "Heading 1")
+    for group, titles in ALSO_BY:
+        paragraph = doc.add_paragraph()
+        paragraph.paragraph_format.space_before = Pt(8)
+        paragraph.paragraph_format.space_after = Pt(2)
+        paragraph.paragraph_format.keep_with_next = True
+        run = paragraph.add_run(group)
+        run.bold = True
+        run.font.name = "Calibri"
+        for title in titles:
+            paragraph = doc.add_paragraph()
+            paragraph.paragraph_format.left_indent = Inches(0.25)
+            paragraph.paragraph_format.space_after = Pt(1)
+            paragraph.add_run(title).font.name = "Calibri"
 
     insert_contents(doc)
     doc.core_properties.title = TITLE

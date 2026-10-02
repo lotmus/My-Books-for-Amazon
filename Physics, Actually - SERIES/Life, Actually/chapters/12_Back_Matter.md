@@ -635,3 +635,7 @@ Figure 47. A newborn’s feet in an adult hand. “Newborn feet nestled gently i
 References are to chapter numbers; each is a link.
 
 %%INDEX%%
+
+## Also by Lothar J. Musiol
+
+%%ALSOBY%%

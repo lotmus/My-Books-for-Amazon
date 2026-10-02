@@ -1,33 +1,57 @@
 # Also by Lothar J. Musiol
 
-**Physics**
+**Physics, Actually**
 
-- *Physics Vol 1: Motion, Forces, Time, and Relativity*
-- *Physics Vol 2: Gravity, Cosmology, and the Limits of Spacetime*
-- *Physics Vol 3: The Standard Model, Chaos, and the Edge of Knowledge*
+- *Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity*
+- *Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime*
+- *Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge*
+- *Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere*
+
+**Math, Actually**
+
+- *Math, Actually, Volume 1: From Arithmetic to Calculus*
+- *Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic*
+- *Math, Actually, Volume 3: From Differential Equations to Abstract Algebra*
+- *Math, Actually, Volume 4: From Category Theory to the Frontier*
+
+**Quanta, Actually**
+
+- *Quanta, Actually, Volume 1: The Quantum World*
+- *Quanta, Actually, Volume 2: The Quantum Conversation*
+- *Quanta, Actually, Volume 3: Complete Quantum Electrodynamics Course*
+
+**Science Sparks**
+
+- *Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights*
 
 **Look First**
 
-- *The Universe Has No Now*
-- *A Trip Is Not a New Life*
+- *Look First, Volume 1: The Universe Has No Now*
+- *Look First, Volume 2: A Trip Is Not a New Life*
 
-**The quantum books**
+**Electrical Engineering Series**
 
-- *The Quantum World*
-- *The Quantum Conversation*
-- *Complete QED Course*
+- *Foundations of Electronics (Book 1)*
+- *Circuits, Components, and Control (Book 2)*
+- *Semiconductor Physics and Devices (Book 3)*
+- *RF, Microwave, and Transceivers (Book 4)*
+- *Communications, Wireless, and SDR (Book 5)*
+- *Power and Energy (Book 6)*
+- *Packaging, Layout, EMC, and Test (Book 7)*
 
-**Life**
+**History**
 
-- *The Copy Is Never Exact*
+- *The Dolphins' View of History*
 
-**Mathematics and engineering**
-
-- *The Mathematics Tower*
-- *Foundations (EE Series, Book 1)*
-- *Core Circuits and Components (EE Series, Book 2)*
-
-**Novels**
+**Fiction**
 
 - *The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1)*
-- *Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1)*
+- *The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2)*
+- *Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1)*
+- *The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2)*
+- *Protocol Flamingo (The Invasion Storybooks, Book 1), as George Herbert Fontaine*
+
+**How-To**
+
+- *Your First Book That Sells*
+- *Your First YouTube Channel That Rocks*

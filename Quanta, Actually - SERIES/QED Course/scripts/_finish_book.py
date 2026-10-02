@@ -25,7 +25,8 @@ BOOKMARK_TOC = "QEDCourseTOC"
 KEEP_H1 = re.compile(
     r"^(Lesson \d+[: ]|Part [IVX0]|Prologue \d+|Interlude[: ]|Table of Contents|Copyright|"
     r"How to read this book|Also in This Series|Glossary of symbols|Course capstone|"
-    r"Consolidated formula index|Bibliography|Complete Quantum Electrodynamics Course$)"
+    r"Consolidated formula index|Bibliography|Also by Lothar J\. Musiol$|"
+    r"Complete Quantum Electrodynamics Course$)"
 )
 LESSON_H1 = re.compile(r"^Lesson (\d+)[: ]")
 
@@ -45,6 +46,59 @@ ALSO_IN_SERIES = [
     "the view this course's Interlude after Lesson 41 summarizes.",
     "Volume 3 — Complete Quantum Electrodynamics Course: From Mathematical Foundations to "
     "One-Loop QED. This book: the calculation course.",
+]
+
+# Back matter: the canonical "Also by Lothar J. Musiol" list (same in every book; see
+# notes/ALSO_BY - canonical list.md at the repo root). Titles as on each master's title page.
+ALSO_BY_HEADING = "Also by Lothar J. Musiol"
+ALSO_BY = [
+    ('Physics, Actually', [
+        'Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity',
+        'Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime',
+        'Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge',
+        'Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere',
+    ]),
+    ('Math, Actually', [
+        'Math, Actually, Volume 1: From Arithmetic to Calculus',
+        'Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic',
+        'Math, Actually, Volume 3: From Differential Equations to Abstract Algebra',
+        'Math, Actually, Volume 4: From Category Theory to the Frontier',
+    ]),
+    ('Quanta, Actually', [
+        'Quanta, Actually, Volume 1: The Quantum World',
+        'Quanta, Actually, Volume 2: The Quantum Conversation',
+        'Quanta, Actually, Volume 3: Complete Quantum Electrodynamics Course',
+    ]),
+    ('Science Sparks', [
+        'Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights',
+    ]),
+    ('Look First', [
+        'Look First, Volume 1: The Universe Has No Now',
+        'Look First, Volume 2: A Trip Is Not a New Life',
+    ]),
+    ('Electrical Engineering Series', [
+        'Foundations of Electronics (Book 1)',
+        'Circuits, Components, and Control (Book 2)',
+        'Semiconductor Physics and Devices (Book 3)',
+        'RF, Microwave, and Transceivers (Book 4)',
+        'Communications, Wireless, and SDR (Book 5)',
+        'Power and Energy (Book 6)',
+        'Packaging, Layout, EMC, and Test (Book 7)',
+    ]),
+    ('History', [
+        "The Dolphins' View of History",
+    ]),
+    ('Fiction', [
+        "The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1)",
+        'The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2)',
+        'Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1)',
+        'The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2)',
+        'Protocol Flamingo (The Invasion Storybooks, Book 1), as George Herbert Fontaine',
+    ]),
+    ('How-To', [
+        'Your First Book That Sells',
+        'Your First YouTube Channel That Rocks',
+    ]),
 ]
 
 
@@ -387,6 +441,8 @@ def collect_toc_entries(doc):
             entries.append(("FormulaIndex", text, False))
         elif text == "Bibliography":
             entries.append(("Bibliography", text, False))
+        elif text == ALSO_BY_HEADING:
+            entries.append(("AlsoBy", text, False))
     return entries
 
 
@@ -530,6 +586,48 @@ def insert_front_matter(doc):
         anchor = el
 
 
+def also_by_page(doc):
+    """'Also by Lothar J. Musiol' as the last page, after the Bibliography (idempotent:
+    an earlier copy, with its page break, is replaced)."""
+    body = doc.element.body
+    old = None
+    for child in body:
+        if _p_style(child) == "Heading1" and _text(child).strip() == ALSO_BY_HEADING:
+            old = child
+            break
+    if old is not None:
+        start = old
+        prev = old.getprevious()
+        if prev is not None and prev.tag == qn("w:p") and not _text(prev).strip() and any(
+                br.get(qn("w:type")) == "page" for br in prev.iter(qn("w:br"))):
+            start = prev
+        cur = start
+        while cur is not None and cur.tag != qn("w:sectPr"):
+            if cur is not old and cur is not start and _p_style(cur) == "Heading1":
+                break
+            nxt = cur.getnext()
+            body.remove(cur)
+            cur = nxt
+    b = bl.Builder(doc)
+    b.pagebreak()
+    h = b.heading(ALSO_BY_HEADING, 1)
+    _bookmark_p(h._p, "AlsoBy", 3008)
+    for group, titles in ALSO_BY:
+        p = b.para()
+        p.paragraph_format.space_before = Pt(8)
+        p.paragraph_format.space_after = Pt(2)
+        p.paragraph_format.keep_with_next = True
+        p.add_run(group).bold = True
+        for title in titles:
+            q = b.para()
+            q.paragraph_format.left_indent = Inches(0.25)
+            q.paragraph_format.first_line_indent = Inches(0)
+            q.paragraph_format.space_before = Pt(0)
+            q.paragraph_format.space_after = Pt(1)
+            q.add_run(title)
+    # b.para appends at the end of the body, which is where this page belongs
+
+
 def link_lesson_mentions(doc):
     """Hyperlink 'Lesson N' only in short, single-run Normal paragraphs (Next-lesson lines)."""
     n = 0
@@ -600,6 +698,7 @@ def main():
     set_gutter(doc)
     demoted = demote_headings(doc)
     insert_front_matter(doc)
+    also_by_page(doc)
     # demote again in case front matter used H1 correctly (keep those)
     demoted += 0
     n_bm = bookmark_lessons(doc)

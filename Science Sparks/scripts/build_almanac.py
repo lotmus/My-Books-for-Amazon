@@ -82,50 +82,49 @@ VOLUMES = {
 GLOSSARY_FILE = "90_glossary.md"
 GLOSS_REF_RE = re.compile(r'\bChapter (\d+)\b')
 
-# Also by the author: (group, [(title, store search or None)]). Checked on 2 Oct 2026 against
-# the title pages and KDP description files in the book folders of the repository.
+# Also by Lothar J. Musiol: (group, [(title, store search or None)]). The canonical list, rebuilt on
+# 2 Oct 2026 from the title pages of the masters in the repository (one entry per real book; same
+# list in every book's Also-by page, see notes/ALSO_BY - canonical list.md at the repo root).
 # A search string of None means "title + author name".
 ALSO_BY = [
-    ("Physics, Actually", [
-        ("Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity", None),
-        ("Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime", None),
-        ("Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge", None),
-        ("Life: Evolution", None)]),
-    ("Look First", [
-        ("The Universe Has No Now", None),
-        ("A Trip Is Not a New Life", None)]),
-    ("The quantum books", [
-        ("The Quantum World", None),
-        ("The Quantum Conversation", None),
-        ("Complete Quantum Electrodynamics Course", None)]),
-    ("Genetics", [
-        ("The Copy Is Never Exact", None)]),
-    ("The Mathematics Tower", [
-        ("The Mathematics Tower, Volume 1: The Lower Floors", None),
-        ("The Mathematics Tower, Volume 2: The Middle Floors", None),
-        ("The Mathematics Tower, Volume 3: The Upper Floors", None),
-        ("The Mathematics Tower, Volume 4: The Penthouse", None)]),
-    ("Electrical Engineering Series", [
-        ("Foundations of Electronics (Book 1)", "Foundations of Electronics"),
-        ("Circuits, Components, and Control (Book 2)", "Circuits, Components, and Control"),
-        ("Semiconductor Physics and Devices (Book 3)", "Semiconductor Physics and Devices"),
-        ("RF, Microwave, and Transceivers (Book 4)", "RF, Microwave, and Transceivers"),
-        ("Communications, Wireless, and SDR (Book 5)", "Communications, Wireless, and SDR"),
-        ("Power and Energy (Book 6)", "Power and Energy"),
-        ("Packaging, Layout, EMC, and Test (Book 7)", "Packaging, Layout, EMC, and Test")]),
-    ("History", [
+    ('Physics, Actually', [
+        ('Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity', None),
+        ('Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime', None),
+        ('Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge', None),
+        ('Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere', None)]),
+    ('Math, Actually', [
+        ('Math, Actually, Volume 1: From Arithmetic to Calculus', None),
+        ('Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic', None),
+        ('Math, Actually, Volume 3: From Differential Equations to Abstract Algebra', None),
+        ('Math, Actually, Volume 4: From Category Theory to the Frontier', None)]),
+    ('Quanta, Actually', [
+        ('Quanta, Actually, Volume 1: The Quantum World', None),
+        ('Quanta, Actually, Volume 2: The Quantum Conversation', None),
+        ('Quanta, Actually, Volume 3: Complete Quantum Electrodynamics Course', None)]),
+    ('Science Sparks', [
+        ('Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights', None)]),
+    ('Look First', [
+        ('Look First, Volume 1: The Universe Has No Now', None),
+        ('Look First, Volume 2: A Trip Is Not a New Life', None)]),
+    ('Electrical Engineering Series', [
+        ('Foundations of Electronics (Book 1)', 'Foundations of Electronics'),
+        ('Circuits, Components, and Control (Book 2)', 'Circuits, Components, and Control'),
+        ('Semiconductor Physics and Devices (Book 3)', 'Semiconductor Physics and Devices'),
+        ('RF, Microwave, and Transceivers (Book 4)', 'RF, Microwave, and Transceivers'),
+        ('Communications, Wireless, and SDR (Book 5)', 'Communications, Wireless, and SDR'),
+        ('Power and Energy (Book 6)', 'Power and Energy'),
+        ('Packaging, Layout, EMC, and Test (Book 7)', 'Packaging, Layout, EMC, and Test')]),
+    ('History', [
         ("The Dolphins' View of History", None)]),
-    ("Novels", [
-        ("The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1)",
-         "The Murder That Hadn't Happened Yet"),
-        ("Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1)",
-         "Schrödinger's Paperwork"),
-        ("Protocol Flamingo (The Invasion Storybooks, Book 1)", "Protocol Flamingo")]),
-    ("Publishing", [
-        ("Your First Book That Sells", None),
-        ("Your First YouTube Channel That Sells", None)]),
-    ("In German", [
-        ("Auswandern in die USA, nach Kanada, Australien oder Neuseeland", None)]),
+    ('Fiction', [
+        ("The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1)", "The Murder That Hadn't Happened Yet"),
+        ('The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2)', 'The Warning That Was Sent Too Late'),
+        ('Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1)', 'Schrödinger’s Paperwork'),
+        ('The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2)', 'The Permitted Options Lolly Wren'),
+        ('Protocol Flamingo (The Invasion Storybooks, Book 1), as George Herbert Fontaine', 'Protocol Flamingo George Herbert Fontaine')]),
+    ('How-To', [
+        ('Your First Book That Sells', None),
+        ('Your First YouTube Channel That Rocks', None)]),
 ]
 
 # chapter number -> (png name, caption). Placed after the chapter's first paragraph.
@@ -183,7 +182,7 @@ LABEL_RANGE_RE = re.compile(r'^(?:Chapters|Lessons|Lectures)\s+(\d+)\s*[–-]\s*
 CHAPTER_NUM_RE = re.compile(r'\bChapter \d+\b')
 TIMES_RE = re.compile(r'(?<=[\d)]) x (?=[\d(])')
 TITLE_LINK_STOPLIST = {'Prologue', 'Epilogue', 'Foreword', 'Afterword', 'Contents',
-                       'About the Author', 'Appendix', 'Glossary', 'Index', 'Also by the Author',
+                       'About the Author', 'Appendix', 'Glossary', 'Index', 'Also by the Author', 'Also by Lothar J. Musiol',
                        'Physics and the Cosmos', 'Quantum Physics', 'Science in the Novels'}
 
 HEADINGS = []           # (level, text, bookmark)
@@ -901,8 +900,8 @@ def back_matter(doc):
     heading(doc, 1, "About the Author")
     body(doc, ABOUT, first=True)
 
-    new_section(doc, 'Also by the Author')
-    heading(doc, 1, "Also by the Author")
+    new_section(doc, 'Also by Lothar J. Musiol')
+    heading(doc, 1, "Also by Lothar J. Musiol")
     for group, titles in ALSO_BY:
         p = doc.add_paragraph()
         flush_left(p, space_before=10, space_after=2)
