@@ -1,0 +1,45 @@
+H1: Chapter 22. Common Mode on the Cable
+P: The loops of Chapter 21 are small and inefficient antennas. The cables attached to a product are long and very efficient ones. A current of a few microamperes flowing in the same direction on all conductors of a cable, the common-mode current, radiates as much as milliamperes circulating in a loop on the board. This chapter shows why, computes how little common-mode current fails a test, and explains where it comes from and how ferrites and layout suppress it.
+H2: 22.1 Differential and common mode
+P: The signal current on a cable flows out on one conductor and back on another. That differential-mode current forms a loop whose area is the conductor spacing times the length, and its fields mostly cancel. A common-mode current flows the same way on every conductor and returns through stray capacitance to the environment, so its fields add. For a short cable of length L, Ott's estimate of the common-mode field is E ≈ 1.257 × 10⁻⁶ f L Icm / r volts per meter. It grows only linearly with frequency, but it has no small area to suppress it.
+EQ: E ≈ 1.257 × 10⁻⁶ f L Icm / r   (V/m)
+H2: Worked Example 22.1
+WEP: A 1 m cable carries a common-mode current of 5 µA at 100 MHz. Find the field at 3 m and compare it with the FCC Class B limit. What current would leave a 6 dB margin?
+WES: E = 1.257 × 10⁻⁶ × 10⁸ × 1 × 5 × 10⁻⁶ / 3 = 2.10 × 10⁻⁴ V/m, or 46.4 dBµV/m, which fails the 43.5 dBµV/m limit by 2.9 dB. For a 6 dB margin the field must be 37.5 dBµV/m, which requires Icm = 1.79 µA. Compared with the 2 mA differential-mode loop current of Example 21.1, which passed with 12.6 dB of margin, the cable fails with a current about 400 times smaller.
+KEY: Key idea. A cable is an efficient antenna for common-mode current. A few microamperes of common mode fail a Class B test that milliamperes of well-routed differential current pass, so most radiated failures are cable failures.
+H2: 22.2 Where common-mode current comes from
+P: Common-mode current is driven by voltage differences between the points where the cable's conductors are referenced. If the board's ground plane carries return currents, its inductance develops a small voltage from one end to the other, ground noise, and a cable attached at one end sees that voltage relative to a cable or chassis at the other. A connector placed where the plane is noisy, a signal whose return path is broken at the connector, and a shield connected through a long pigtail rather than all around its circumference all convert differential signals into common-mode current. Bogatin's rule applies: know where every return current flows.
+EQ: Vnoise = Lplane dI/dt
+H2: Worked Example 22.2
+WEP: A 1 nH stretch of ground plane carries a return current that changes by 20 mA in 1 ns. What voltage does it develop, and what common-mode current would that drive through a cable whose common-mode impedance is 150 Ω?
+WES: V = 10⁻⁹ × 0.02/10⁻⁹ = 20 mV. Through 150 Ω, it drives 133 µA, far above the few microamperes that Example 22.1 allows. The cure is to keep fast return currents away from the connector region and to tie the cable's reference to a quiet point of the plane or the chassis.
+H2: 22.3 Ferrites and common-mode chokes
+P: A ferrite sleeve around a cable, or a common-mode choke on the board, adds impedance in series with the common-mode path while leaving the differential signal, whose fluxes cancel in the core, nearly untouched. At 100 MHz a typical clamp-on ferrite adds 100 to 300 Ω, mostly resistive, which absorbs the energy rather than reflecting it. Its effect depends on the impedance already in the circuit: in a 150 Ω common-mode circuit, 300 Ω more reduces the current by (150 + 300)/150 = 3, or 9.5 dB. In a circuit that already has a high impedance, the same ferrite does little.
+EQ: reduction = 20 log₁₀[(Zcircuit + Zferrite) / Zcircuit]  dB
+H2: Worked Example 22.3
+WEP: The cable of Example 22.1 fails by 2.9 dB. A ferrite adds 300 Ω to a 150 Ω common-mode circuit. What margin results?
+WES: The reduction is 20 log₁₀3 = 9.5 dB, so the field falls to 36.9 dBµV/m and the margin becomes 6.6 dB. A ferrite is a legitimate fix, but it is cheaper to remove the source, by moving the connector, filtering the lines, or bonding the shield properly, than to add a part to every product.
+H2: 22.4 Shields and their termination
+P: A shielded cable keeps common-mode current on the outside of the shield, where it radiates, unless the shield is bonded to the enclosure at the entry point with low inductance. A shield connected through a 5 cm pigtail has tens of nanohenries in series, a few tens of ohms at 100 MHz, and the noise current flows through the pigtail and onto the outside of the shield. A 360° bond at the connector backshell keeps the current on the inside surface. Chapter 28 returns to this as a typical two-decibel layout fix.
+H2: 22.5 Cable resonance and where the peaks fall
+P: A cable driven in common mode behaves like a monopole above the product's ground, or like a dipole when it connects two products. Its radiation peaks where it is resonant: a quarter wavelength for a cable driven against a small product, a half wavelength for a cable strung between two products of similar size. Because the common-mode current flows on the outside of the cable, in air, its velocity is close to the speed of light, so a 1.5 m cable between two units resonates near 100 MHz, with further peaks near the harmonics of that frequency. The practical consequence is that a radiated scan of a product with cables often shows broad humps whose frequency moves when the cable length changes, and the test standards fix cable lengths and their arrangement for that reason. If a peak moves when the cable is moved or replaced by a shorter one, the cable is the antenna, and the cure is at the cable entry: a ferrite, a choke, or a better shield bond.
+EQ: f_λ/2 ≈ c / 2L,    f_λ/4 ≈ c / 4L
+H2: Worked Example 22.4
+WEP: A product connected to a monitor by a 1.5 m cable shows radiated peaks near 100 MHz and 200 MHz. Explain the peaks, and predict where the first one moves if the cable is replaced by a 1 m cable.
+WES: For a half-wave resonance, f = 3 × 10⁸ / (2 × 1.5) = 100 MHz, and the second resonance is near 200 MHz, so the cable is radiating common-mode current. With a 1 m cable the first resonance moves to 3 × 10⁸ / 2 = 150 MHz. Seeing the peak move confirms the diagnosis before any filter is fitted.
+P: Knowing how a product radiates is half the problem. Chapter 23 describes the documents that say how much radiation is allowed and how it must be measured.
+H2: Practice
+PR: Find the field at 3 m from a 2 m cable with 2 µA of common-mode current at 150 MHz.
+PR: What common-mode current at 200 MHz on a 1 m cable gives 40 dBµV/m at 3 m?
+PR: A plane of 0.5 nH carries 50 mA changing in 2 ns. Find the voltage.
+PR: A 200 Ω ferrite is added to a 100 Ω circuit. Find the reduction.
+PR: Why does a common-mode choke not attenuate the differential signal?
+PR: Why is a pigtail shield connection poor at high frequency?
+PR: At what frequency does a 2 m cable between two products show its first half-wave resonance?
+ANS: 1.257 × 10⁻⁶ × 1.5 × 10⁸ × 2 × 2 × 10⁻⁶ / 3 = 2.51 × 10⁻⁴ V/m, or 48.0 dBµV/m.
+ANS: 100 µV/m × 3/(1.257 × 10⁻⁶ × 2 × 10⁸) = 1.19 µA.
+ANS: 12.5 mV.
+ANS: 9.5 dB.
+ANS: The differential currents flow in opposite directions through the core, so their fluxes cancel and the choke presents little impedance to them.
+ANS: The pigtail's inductance has a large reactance at high frequency, so noise current flows through it onto the outside of the shield instead of returning on the inside.
+ANS: 3 × 10⁸ / 4 = 75 MHz.

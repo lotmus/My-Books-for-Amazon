@@ -1,0 +1,33 @@
+H1: Chapter 12. Cavities and Dielectric Resonators
+P: Chapter 6 showed that a filter's insertion loss depends on the unloaded Q of its resonators. A microstrip resonator has a Q of a few hundred; the narrowband filters of base stations, satellites, and radars need thousands. Those come from cavities, closed metal boxes whose walls confine the field, and from dielectric resonators, pucks of low-loss ceramic in which the field is concentrated. This chapter computes a cavity's resonant frequency and Q, shows what that Q buys in a filter, and explains how dielectric resonators shrink the result.
+H2: 12.1 The rectangular cavity
+P: A length of the rectangular waveguide of Chapter 6, shorted at both ends, becomes a cavity. The lowest mode, TE101, has a half wavelength across the broad wall a and another along the length d, so its resonant frequency is f = (c/2)√(1/a² + 1/d²). The fields are confined, nothing radiates, and the only losses are the currents in the walls, which flow in a skin depth set by the surface resistance Rs = √(ωμ0/(2σ)). Pozar gives the conductor Q of the TE101 mode in closed form, and for copper at X band it is several thousand.
+EQ: f101 = (c/2)√(1/a² + 1/d²),   Rs = √(ωμ0 / 2σ)
+EQ: Qc = (k a d)³ b η / (2π² Rs) × 1 / (2a³b + 2bd³ + a³d + ad³)
+H2: Worked Example 12.1
+WEP: A copper cavity is made from WR-90 waveguide, a = 22.86 mm and b = 10.16 mm. Find the length for a 10 GHz TE101 resonance and its conductor Q. How much lower would the Q be in aluminum, with σ = 3.5 × 10⁷ S/m?
+WES: Solving for d gives 1/d² = (2f/c)² − 1/a², so d = 19.85 mm. At 10 GHz copper's surface resistance is 0.0261 Ω, and the formula gives Qc = 7820, a 3 dB bandwidth of only 1.28 MHz. Q scales with √σ, so aluminum gives 7820 × √(3.5/5.8) = 6080. Real cavities, with seams, tuning screws, and surface roughness, reach perhaps 70% to 90% of the ideal value.
+H2: 12.2 What the Q buys
+P: A band-pass filter's midband insertion loss is about 4.343 Σgk/(FBW × Qu) dB, from Chapter 6. For a five-pole filter with Σgk near 5 and a 1% fractional bandwidth, resonators with a Q of 200 give 10.9 dB of loss, unusable; with a Q of 7800, the loss is 0.28 dB. Narrow filters therefore need high-Q resonators, and the narrower the band, the more the Q matters. That is why the duplexers and channel filters of cellular base stations, the output multiplexers of satellites, and the preselectors of radars are cavity or dielectric-resonator filters, while handsets use the acoustic filters of Book 3.
+KEY: Key idea. A resonator's unloaded Q sets how narrow a filter can be without excessive loss. Confining the fields in a metal cavity or a low-loss dielectric raises the Q from hundreds to thousands.
+H2: 12.3 Coupling and loaded Q
+P: A cavity is useful only if energy can enter and leave it, through a probe, a loop, or an iris. The coupling coefficient β compares the power lost to the external circuit with that lost in the walls. The loaded Q, which sets the observed bandwidth, is Qu/(1 + β); at critical coupling, β = 1, the cavity is matched at resonance and its loaded Q is half its unloaded Q. In a multipole filter, the irises between cavities set the coupling coefficients that the prototype of Chapter 6 calls for, and tuning screws trim each resonance.
+EQ: QL = Qu / (1 + β)
+H2: 12.4 Temperature and the dielectric resonator
+P: A cavity's frequency follows its dimensions, so thermal expansion detunes it: copper expands about 17 ppm/K, shifting a 10 GHz cavity by about 170 kHz per kelvin, a large fraction of a 1 MHz bandwidth over a 50 K range. Invar, at about 1.2 ppm/K, or temperature-compensating structures solve this at a cost. Dielectric resonators solve it and the size problem at once: a ceramic puck with εr of 30 to 45 shrinks the resonator by about √εr, has a loss tangent near 10⁻⁴ for a Q of up to about 10,000, and can be formulated to have a temperature coefficient of frequency near zero. A puck for 3.5 GHz with εr = 45 is about 13 mm across, against several centimeters for an air cavity.
+H2: Worked Example 12.2
+WEP: A copper cavity at 10 GHz has a 1.28 MHz bandwidth. How far does it drift over a 50 K temperature range, and how does an Invar cavity compare?
+WES: Copper: 17 ppm/K × 10 GHz = 170 kHz/K, so 8.5 MHz over 50 K, more than six bandwidths. Invar: 1.2 ppm/K gives 12 kHz/K, or 0.6 MHz over 50 K, half a bandwidth. Satellite multiplexers therefore use Invar or temperature-compensated designs, and terrestrial filters often use dielectric resonators with near-zero drift.
+H2: Practice
+PR: Find the TE101 frequency of a WR-90 cavity 25 mm long.
+PR: A resonator's unloaded Q is 5000 and it is critically coupled. Find its loaded Q.
+PR: Find the insertion loss of a five-pole filter with Σgk = 5, FBW = 0.5%, and Qu = 10,000.
+PR: A cavity's Q is 6000 in copper. Estimate it in a metal with a quarter of copper's conductivity.
+PR: Why does a cavity have no radiation loss?
+PR: Why do handsets not use cavity or dielectric-resonator filters?
+ANS: 8.89 GHz.
+ANS: 2500.
+ANS: 4.343 × 5/(0.005 × 10,000) = 0.43 dB.
+ANS: Q scales as √σ, so 3000.
+ANS: Its walls enclose the fields completely, so energy can be lost only in the walls, the dielectric, or the coupling ports.
+ANS: They are far too large; handsets use acoustic resonators, whose wavelengths, with sound speeds of a few thousand to about 11,000 m/s, are tens of thousands of times smaller than electromagnetic ones at the same frequency.

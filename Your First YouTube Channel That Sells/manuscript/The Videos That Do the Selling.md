@@ -12,7 +12,7 @@ You do not need thirty videos to find out whether the offer can sell. You need a
 
 Before you write a title, write the job in a single line: “After this video, the viewer can [do one thing] or can decide whether [the offer] is for them.” If the line needs “and,” split the video.
 
-The order is the buyer’s order. They have to recognize themselves before a method is worth hearing. They have to see the method before proof means anything. They have to see proof before a comparison is a choice. They have to hear the comparison and the one objection before the price is a decision. The last video names the path, so the set is not a feed.
+The list below is the order a stranger should watch. They have to recognize themselves before a method is worth hearing. They have to see the method before proof means anything. They have to see proof before a comparison is a choice. They have to hear the comparison and the one objection before the path asks them to decide on the price. The last video names that path, so the set is not a feed. Publishing can start earlier. The calendar puts “who it is for” and the offer up in week two, so a stranger can find the price while the other six are still unfilmed. The eighth video is what puts a viewer back into this order.
 
 Jobs that sell, in that order:
 
@@ -23,7 +23,7 @@ Jobs that sell, in that order:
 5. **The comparison.** What you recommend versus the common alternative, including “do it by hand.” Say who should not buy.
 6. **The objection.** Price, time, skill, “I tried this before.” Answer one objection per video. Do not stack them into a speech.
 7. **The offer.** The twenty-second version from the offer chapter, filmed as a brief video, long enough for a clickable description, and also spoken once at the end of the others. A YouTube Short cannot be this video. Its description is not a checkout.
-8. **The next video.** Tell them which of the seven to watch next, by name. A channel that sells is a path, not a feed.
+8. **The next video.** Tell them which of the seven to watch next, by name. A channel that sells is a path, not a feed. This video may be a long video, or a Short that points at one of them. The offer video may not be a Short.
 
 That is the first eight, and it is the only production load in this book. The click chapter uses the same eight. So does the six-week calendar. A Short may point at one of them. It does not add a second quota. You do not need a ninth idea until these eight exist and the offer link has been clicked by someone who is not you.
 
@@ -55,7 +55,7 @@ Ali Abdaal told Mixergy he made a short editing course, on someone else’s plat
 
 ## VI. Do this before you batch-film
 
-List the eight jobs with a working title under each. Mark the offer video. Confirm each title would make sense to the buyer in section I of the offer chapter, and that none of them require a tool or a claim you cannot show. Film the “who it is for” video and the offer video first. Those two, with the link live, are enough to test whether a stranger understands what you sell.
+List the eight jobs with a working title under each. Mark the offer video. Confirm each title would make sense to the buyer in section I of the offer chapter, and that none of them require a tool or a claim you cannot show. Film the “who it is for” video and the offer video first. Those two, with the link live, are enough to test whether a stranger understands what you sell. That pair is filming order. The numbered list above is watch order. The eighth video names the watch order.
 
 > **Key takeaway:** Eight videos, eight jobs, one link. When the set is live, look at the offer page, not the view count.
 

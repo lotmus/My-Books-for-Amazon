@@ -1,0 +1,50 @@
+H1: Chapter 5. The Diode Law Is a Crowd Crossing a Barrier
+P: A turnstile at a stadium lets a few people through when the bar is high, and a great many when someone lowers it by a hand's width. The diode is that turnstile for the minority carriers waiting at the edge of the depletion layer. Lower the barrier a little and the forward current multiplies. Raise it and the forward crowd disappears, leaving only a small reverse trickle.
+H2: 5.1 The equation
+P: For an ideal diode the current is
+EQ: I = IS ( e^(V / VT) − 1 )
+P: V is the applied voltage, positive when the p-side is positive, which is forward bias. IS is the saturation current, set by the area, the doping, and the lifetime of the minorities. This chapter's worked diode uses IS = 1 fA = 10⁻¹⁵ A, a small-junction teaching value, not a claim about a particular part number. VT is 26 mV. The "− 1" matters near zero and in reverse. A few tenths of a volt forward, the exponential is so large that I ≈ IS e^(V/VT).
+H2: 5.2 Sixty millivolts per decade
+P: Ask how much extra forward voltage multiplies the current by ten, once you are well above VT. The exponential must grow by 10, so the added voltage is VT ln(10).
+EQ: VT ln(10) = 0.026 × 2.3026 = 59.9 mV.
+P: Call it 60 mV per decade of current at this book's room temperature. A real silicon diode is often closer to 60 mV only in a mid-current window. At very low current, recombination in the depletion layer makes the effective step larger. At high current, series resistance steals voltage. The ideal law is the spine. The part on the bench wears extra clothes, which is Chapter 6.
+H2: 5.3 There is no switch at 0.7 V
+P: A forward drop near 0.7 V is what you see when a small silicon diode is carrying a current of a good fraction of a milliamp, with an IS on the order of a femtoamp. It is an operating point, not a threshold the device crosses. Below that voltage the diode is already conducting. It is conducting less. Circuit sketches that draw an ideal switch plus a 0.7 V battery are welcome in Book 1 problems. They are the wrong picture if you are asking how leakage, a photodiode, or a low-current bias network behaves.
+KEY: Key idea. Forward current is exponential in voltage. A "turn-on voltage" is a current you chose to care about, read back through that exponential.
+H2: Worked Example 5.1
+P: IS = 1.0×10⁻¹⁵ A and VT = 26 mV. Find I at 0.50 V, 0.60 V, and 0.70 V. Then find the forward voltage that produces 1.0 mA.
+P: At 0.50 V, I = 2.248e-07 A = 0.225 μA. At 0.60 V, I = 1.052e-05 A = 10.52 μA. At 0.70 V, I = 4.927e-04 A = 0.493 mA. From 0.60 V to 0.70 V the current rises by a factor of 46.8, close to the decade-and-a-half that 100 mV predicts (100/60 ≈ 1.7 decades, and 10^1.67 ≈ 47). For 1.0 mA, V = VT ln(I/IS + 1) = 0.718 V. The familiar seven-tenths of a volt showed up because we asked for about a milliamp, not because the silicon changed state.
+H2: 5.4 Where the exponential comes from
+P: The turnstile picture can be made exact. At the edge of the depletion layer on the n side, the hole concentration in equilibrium is the minority value ni²/ND. The barrier that holes from the p side must climb is Vbi. Forward bias lowers it to Vbi − V, and because the occupation of energy falls by e for every VT, the number of holes that make it over rises by e^(V/VT). This is the law of the junction:
+EQ: pn(edge) = (ni² / ND) e^(V/VT)
+P: Those injected holes are minority carriers in the n side. They diffuse away from the junction and recombine with electrons over a diffusion length Lp = √(Dp τp), where τp is the minority-carrier lifetime that Section 3.6 introduced and Chapter 18 measures. The diffusion current at the edge is proportional to the excess concentration divided by Lp, and the electrons injected into the p side contribute a matching term. Adding both gives the ideal diode law of Section 5.1 with an explicit saturation current:
+EQ: IS = q A ni² [ Dp / (Lp ND) + Dn / (Ln NA) ]
+P: Three design facts are visible. IS is proportional to area, so a power diode with a thousand times the area of a signal diode needs about 180 mV less voltage for the same current, three decades at 60 mV each. IS is set mainly by the lightly doped side, because the minority concentration ni²/N is largest there; in a p+n diode the hole term dominates. And IS is proportional to ni², which ties it to the violent temperature dependence of Section 1.6.
+H2: 5.5 The diode as a thermometer
+P: Hold the forward current constant and warm the junction. IS rises steeply, roughly doubling every 4.5 °C in silicon, so less voltage is needed for the same current. Differentiating the diode law with IS ∝ T³ e^(−Eg/kT) gives
+EQ: dV/dT ≈ (V − Eg/q − 3 VT) / T
+P: For V = 0.65 V at 300 K this is (0.65 − 1.12 − 0.078)/300 = −1.8 mV/K, the familiar "minus two millivolts per degree" of Appendix A. The coefficient is predictable enough that a diode-connected transistor is the temperature sensor inside nearly every processor, and two such junctions at different current densities give a voltage difference proportional to absolute temperature, the PTAT signal behind the bandgap reference of Book 2.
+H2: 5.6 What the real curve adds
+P: Measure a real silicon diode over nine decades of current and three departures from the ideal law appear. At very low current, carriers recombine inside the depletion layer itself through defect levels, and that current grows as e^(V/(2VT)), not e^(V/VT). The curve's slope there corresponds to an ideality factor n = 2, or 120 mV per decade. In the middle range the ideal diffusion current dominates and n is close to 1. At high current two effects bend the curve again: the injected minority concentration approaches the doping, high-level injection, which pushes n back toward 2, and the resistance of the neutral regions and contacts adds a voltage I RS that grows linearly with current. SPICE captures all of this with the parameters IS, N, and RS of the standard diode model, which Chapter 22 extracts from measurements.
+P: Two small-signal quantities complete the picture for circuit work. The incremental resistance of the junction at a current I is rd = n VT / I, 26 Ω at 1 mA for an ideal junction. And the stored minority charge, which grows in proportion to the forward current, behaves as a diffusion capacitance Cd = τT I / VT, where τT is the transit time or lifetime of the stored carriers. At forward bias Cd usually dwarfs the junction capacitance of Section 4.5.
+KEY: Key idea. The diode law is the law of the junction plus minority diffusion. IS scales with area and ni², the forward voltage falls about 1.8 mV/K, and real curves add n = 2 at low current and series resistance at high current.
+H2: Worked Example 5.2
+P: A p+n diode has area A = 1.0×10⁻⁴ cm², ND = 1.0×10¹⁶ cm⁻³, and a hole lifetime of 1.0 µs in the n region. Using this book's Dp = 12.48 cm²/s, estimate IS and the forward voltage at 1 mA. Neglect the electron term.
+P: Lp = √(12.48 × 1.0×10⁻⁶) = 3.53×10⁻³ cm = 35 µm. IS = q A ni² Dp/(Lp ND) = (1.602×10⁻¹⁹)(10⁻⁴)(10²⁰)(12.48)/(3.53×10⁻³ × 10¹⁶) = 5.7×10⁻¹⁶ A. At 1 mA, V = 0.026 ln(10⁻³/5.7×10⁻¹⁶) = 0.733 V. The teaching value IS = 1 fA of this chapter is the same order of magnitude as this physically computed one, and the familiar 0.7 V falls out of the physics.
+H2: Worked Example 5.3
+P: The diode of Worked Example 5.1 (IS = 1 fA, n = 1) has a series resistance of 10 Ω. Find the terminal voltage at 10 mA and at 100 mA, and the diffusion capacitance at 1 mA if the stored charge has τT = 10 ns.
+P: At 10 mA the junction needs 0.026 ln(10⁻²/10⁻¹⁵) = 0.778 V and the resistance adds 0.10 V, for 0.878 V. At 100 mA the junction needs 0.838 V and the resistance adds 1.0 V, for 1.84 V. Above a few tens of milliamps, this small diode's curve is a resistor, not an exponential. At 1 mA, Cd = 10×10⁻⁹ × 10⁻³ / 0.026 = 385 pF, a hundred times the junction capacitance of Worked Example 4.2, and the reason a diode that has been conducting hard cannot switch off instantly, the reverse recovery of the next chapter.
+P: The ideal law, its physical origin, and its departures are now accounted for. Chapter 6 takes the junction out of the textbook and into a package with a part number.
+H2: Practice
+PR: Same diode. Find I at 0.65 V.
+PR: How much must V rise to take this diode from 0.1 mA to 1 mA, using the 60 mV/decade rule? Check it against the exact formula.
+PR: Reverse bias of 0.2 V. Compute I from the full equation. Why is the result about −IS, and why is a real reverse current often larger than this ideal?
+PR: A diode carries 1 mA at 0.650 V at 25 °C. Estimate its forward voltage at the same current at 85 °C.
+PR: A diode's current rises from 1 nA to 10 nA when its voltage rises by 118 mV. What is its ideality factor in that range, and what physical mechanism does it suggest?
+PR: Find rd for an ideal junction at 0.1 mA and at 10 mA.
+ANS: I(0.65 V) = 7.200e-05 A = 72.00 μA.
+ANS: One decade is 59.9 mV, so the rule says 59.9 mV. Exact voltages: 0.6585 V at 0.1 mA and 0.7184 V at 1 mA, a difference of 59.9 mV. The rule is the exact ideal-diode result once I is far above IS, which it is.
+ANS: I(−0.2 V) = -9.995e-16 A, which is −IS times (1 − e^(−0.2/VT)). e^(−0.2/VT) is about 4.56e-04, so the factor in parentheses is already indistinguishable from 1 at three significant figures, and I ≈ −IS. A real diode adds surface leakage and generation inside the depletion layer, both missing from the ideal law.
+ANS: 60 °C × (−1.8 mV/°C) = −108 mV, so about 0.54 V. The coefficient changes slightly with temperature, but the estimate is within a few millivolts.
+ANS: n = 0.118/(0.026 × ln 10) = 1.97, about 2: recombination in the depletion layer dominates at such low current.
+ANS: rd = 0.026/10⁻⁴ = 260 Ω at 0.1 mA and 0.026/10⁻² = 2.6 Ω at 10 mA.

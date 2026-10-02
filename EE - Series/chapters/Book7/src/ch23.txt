@@ -1,0 +1,41 @@
+H1: Chapter 23. Methods and Limits Are Different Documents
+P: Engineers new to EMC often ask "what does CISPR 16 allow?" The answer is nothing: CISPR 16 allows and forbids nothing. It is a method standard. It defines the measuring receiver, its detectors and bandwidths, the antennas, the test site and how to validate it, and how to estimate measurement uncertainty. ANSI C63.4 plays the same role for the United States. The limits, the numbers a product must stay below, are in separate product standards: CISPR 32 for multimedia equipment, and FCC Part 15 Subpart B for unintentional radiators in the United States. This chapter separates the two kinds of document, reads the main limits, and converts a receiver reading into a field strength.
+H2: 23.1 The method standards
+P: CISPR 16 is a family. Part 1-1 specifies the receiver; Part 1-4 the antennas and test sites; Part 2-1 conducted measurement; Part 2-3 radiated measurement; Part 4-2 measurement uncertainty. ANSI C63.4 specifies the US method for unintentional radiators and is what FCC Part 15 references. Both specify the same essentials: a test site validated by normalized site attenuation, an antenna scanned in height and both polarizations, a turntable rotated through 360°, the equipment under test arranged in a defined, repeatable way with its cables, and a receiver with defined detectors. A product standard picks a method and adds the limits.
+H2: 23.2 The limits
+P: FCC Part 15 Subpart B divides unintentional radiators into Class A, for commercial and industrial use, and Class B, for residential use, which is stricter. Class B radiated limits at 3 m are 100 µV/m from 30 to 88 MHz, 150 µV/m from 88 to 216 MHz, 200 µV/m from 216 to 960 MHz, and 500 µV/m above 960 MHz, or 40.0, 43.5, 46.0, and 54.0 dBµV/m. Class A limits are specified at 10 m: 90, 150, 210, and 300 µV/m. CISPR 32 Class B, specified at 10 m with the quasi-peak detector, is 30 dBµV/m from 30 to 230 MHz and 37 dBµV/m from 230 to 1000 MHz; above 1 GHz, CISPR 32 uses peak and average limits at 3 m. Field strength in the far field falls as 1/r, so a limit at 10 m corresponds to one 20 log₁₀(10/3) = 10.5 dB higher at 3 m.
+EQ: E3m = E10m + 20 log₁₀(10/3) = E10m + 10.5 dB
+H2: Worked Example 23.1
+WEP: Convert the CISPR 32 Class B limit from 30 to 230 MHz to 3 m and compare it with the FCC Class B limit at 100 MHz.
+WES: 30 + 10.5 = 40.5 dBµV/m at 3 m. The FCC Class B limit at 100 MHz is 43.5 dBµV/m, so CISPR 32 is 3 dB stricter in this band, although the comparison is approximate: the distance conversion assumes a far field and a simple 1/r law, which a chamber with a ground plane does not exactly follow. A product sold worldwide designs to the stricter of the two.
+KEY: Key idea. Method standards say how to measure; product standards say how much is allowed. Quote both: "CISPR 32 Class B, measured per CISPR 16-2-3," or "FCC Part 15 Class B, measured per ANSI C63.4."
+H2: 23.3 From a reading to a field
+P: The receiver reads a voltage at its input in dBµV. The antenna factor AF, in dB/m, converts the voltage at the antenna's terminals into the field that produced it, and the cable loss between antenna and receiver must be added back. The field is therefore the reading plus the antenna factor plus the cable loss, all in decibels. Antenna factors come from the antenna's calibration, typically 10 to 20 dB/m for a biconical or log-periodic antenna in the 30 to 1000 MHz range, rising with frequency.
+EQ: E (dBµV/m) = V (dBµV) + AF (dB/m) + Lcable (dB)
+H2: Worked Example 23.2
+WEP: At 100 MHz the receiver reads 22 dBµV. The antenna factor is 12 dB/m and the cable loses 2 dB. Find the field and the margin to the FCC Class B limit at 3 m.
+WES: E = 22 + 12 + 2 = 36 dBµV/m. The limit is 43.5 dBµV/m, so the margin is 7.5 dB. The test report would list this frequency, the polarization, the antenna height, and the turntable angle at which the maximum occurred, together with the detector used.
+H2: 23.4 Classes, product families, and the report
+P: Which limits apply depends on what the product is and where it will be used. CISPR 32 covers multimedia equipment such as computers, displays, and audio products; other CISPR standards cover household appliances, industrial equipment, vehicles, and lighting. A product with a radio transmitter needs a second set of tests for its radio, Chapter 27's subject. The EMC test report states the standard and edition, the class, the configuration, the measurement uncertainty, and every frequency within a stated margin of the limit, and the lab's accreditation, ISO/IEC 17025, covers exactly the methods it applied.
+H2: 23.5 Limits above 1 GHz and how high to scan
+P: Above 1 GHz the limits change form. The FCC Class B limit above 960 MHz is 500 µV/m at 3 m, which is 54 dBµV/m, measured with an average detector in a 1 MHz bandwidth, and a peak limit 20 dB higher, 74 dBµV/m, applies at the same time. CISPR 32 also sets separate average and peak limits above 1 GHz. How high the scan must go depends on the highest frequency generated or used inside the product, including clocks and processor cores. FCC Part 15 and CISPR 32 use nearly the same steps: if the highest internal frequency is below 108 MHz, scan to 1 GHz; below 500 MHz, to 2 GHz; below 1 GHz, to 5 GHz; above 1 GHz, to five times that frequency, which the FCC caps at 40 GHz and CISPR 32 at 6 GHz. A product with a fast processor therefore needs horn antennas and a test well into the microwave range, and its report must state the highest internal frequency it declared.
+EQ: 500 µV/m = 20 log₁₀(500) = 54.0 dBµV/m (average);   peak limit = average + 20 dB
+H2: Worked Example 23.3
+WEP: A product contains a 1.6 GHz processor clock. To what frequency must it be scanned under FCC Part 15 and under CISPR 32? At 2 GHz it measures 68 dBµV/m peak and 50 dBµV/m average at 3 m. Does it meet the FCC Class B limits?
+WES: Five times 1.6 GHz is 8 GHz, so the FCC scan goes to 8 GHz; CISPR 32 caps the scan at 6 GHz. Against the FCC limits, the peak margin is 74 − 68 = 6 dB and the average margin is 54 − 50 = 4 dB, so the product passes both, the average limit being the tighter one here.
+P: A limit is meaningless without the receiver that measures against it. Chapter 24 opens the receiver and asks what its detectors and bandwidths actually report.
+H2: Practice
+PR: Convert 200 µV/m to dBµV/m.
+PR: Convert the FCC Class A limit of 90 µV/m at 10 m to dBµV/m, and estimate it at 3 m.
+PR: Convert the CISPR 32 Class B limit from 230 to 1000 MHz to 3 m.
+PR: A receiver reads 30 dBµV with AF = 15 dB/m and 3 dB of cable loss. Find the field.
+PR: What is the margin of that field against the FCC Class B limit at 300 MHz?
+PR: Why does a test report name both a product standard and a method standard?
+PR: The highest internal frequency of a product is 400 MHz. To what frequency must the radiated scan extend?
+ANS: 46.0 dBµV/m.
+ANS: 39.1 dBµV/m at 10 m, about 49.5 dBµV/m at 3 m.
+ANS: 47.5 dBµV/m.
+ANS: 48 dBµV/m.
+ANS: The limit is 46.0 dBµV/m, so it fails by 2 dB.
+ANS: The product standard supplies the limits and the class; the method standard defines how the measurement was made, and the result means nothing without both.
+ANS: 2 GHz.

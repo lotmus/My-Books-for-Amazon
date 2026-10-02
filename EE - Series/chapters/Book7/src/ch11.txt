@@ -1,0 +1,49 @@
+H1: Chapter 11. The Decoupling Network
+P: Chapter 3 set a target impedance of 55 µΩ for a 0.8 V, 875 A processor and noted that capacitors must hold the supply between the regulator's control bandwidth and the die. This chapter designs that capacitor network. It treats each capacitor as what it really is, a capacitance in series with its own inductance and resistance, shows how the inductance of the path to the die limits what board capacitors can do, and explains the resonance between the die and its package that every power-integrity engineer must damp.
+H2: 11.1 The real capacitor
+P: A mounted ceramic capacitor behaves as a series RLC circuit: its capacitance C, its equivalent series resistance ESR, and an equivalent series inductance ESL that includes its pads and vias. Below its self-resonant frequency it looks capacitive; at resonance its impedance falls to the ESR; above resonance it is an inductor, and its capacitance no longer matters. A mounted 0402 or 0201 capacitor typically has a total ESL of 0.3 to 0.5 nH, most of it in the mounting, not the part.
+EQ: |Z| = √(ESR² + (ωL − 1/(ωC))²),    fSRF = 1 / (2π√(L C))
+H2: Worked Example 11.1
+WEP: Find the self-resonant frequencies of 1 µF and 100 nF capacitors with 0.4 nH of mounted inductance, and of a 10 µF capacitor with 0.5 nH. Find the 10 µF capacitor's impedance at 1, 10, and 100 MHz if its ESR is 2 mΩ.
+WES: The resonances are 7.96 MHz for 1 µF, 25.2 MHz for 100 nF, and 2.25 MHz for 10 µF. The 10 µF part's impedance is 12.9 mΩ at 1 MHz, 29.9 mΩ at 10 MHz, and 314 mΩ at 100 MHz, where it is almost entirely the 0.5 nH inductance. Above a few megahertz every capacitor of the same mounting is the same inductor, regardless of its value, which is why small capacitor values do not "extend the frequency range" the way older design notes suggested; only lower inductance does.
+H2: 11.2 How many capacitors?
+P: Capacitors in parallel divide both their ESR and their ESL by their number, if their mounting vias do not share current paths. To meet an impedance target Z at a frequency f where the capacitors are inductive, the number needed is about 2πf ESL/Z. At 100 MHz with 0.5 nH per capacitor, each has 0.314 Ω of reactance, and meeting 1 mΩ would need 314 capacitors. Meeting the processor's 55 µΩ at that frequency from the board would need several thousand, which is impossible, and it would not work anyway, for the reason in the next section.
+EQ: N ≈ 2π f ESL / Ztarget
+KEY: Key idea. Above its self-resonance, a capacitor is an inductor. The decoupling network is designed by its inductance, and the inductance between the capacitors and the die decides which capacitors the die can actually see.
+H2: 11.3 The inductance of the path
+P: Current from a board capacitor must pass through the board's planes and vias, the socket or solder balls, the package substrate, and the bumps before it reaches the die. Even if that path has only 5 pH of loop inductance, its reactance, 2πf × 5 pH, reaches 55 µΩ at f = 1.75 MHz. Above that frequency, the board capacitors are hidden behind the path, and only capacitors on the package and on the die can hold the target. A modern power-delivery network is therefore layered: the regulator below about 100 kHz to 1 MHz, board bulk and ceramic capacitors to a few megahertz, package capacitors, including silicon capacitors embedded in the interposer, to tens or hundreds of megahertz, and the die's own capacitance above that.
+H2: Worked Example 11.2
+WEP: A die has 1 µF of on-die capacitance. Above what frequency does it alone meet a 55 µΩ target? If the package presents 5 pH between the die and the package capacitors, where is the resulting resonance and what is its characteristic impedance?
+WES: 1/(2πfC) = 55 µΩ gives f = 1/(2π × 10⁻⁶ × 55 × 10⁻⁶) = 2.89 GHz, so the die capacitance alone is enough only at very high frequencies. The die capacitance and package inductance form a parallel resonance at 1/(2π√(5 × 10⁻¹² × 10⁻⁶)) = 71.2 MHz, with a characteristic impedance √(L/C) = 2.24 mΩ, forty times the target. Undamped, the network's impedance at 71 MHz could exceed 2 mΩ, and a load current pulsing at that frequency would ring the supply. The remedy is damping: enough resistance in the package capacitors, or controlled-ESR parts, to bring the peak toward the target, together with as much on-die and in-package capacitance as the area allows.
+H2: 11.4 Measuring and simulating
+P: The impedance of a power-delivery network is measured from the die side with a vector network analyzer, using the two-port shunt-through method, which can resolve micro-ohms, or simulated from the board, package, and die models. Time-domain tests apply a programmable load step and record the voltage on a sense line from the die. The test that matters most is the worst-case current pattern, a load that switches at the network's resonant frequency, because that is the condition the target impedance was meant to prevent.
+H2: 11.5 Anti-resonance between capacitor values
+P: Every real capacitor is a series RLC circuit: below its self-resonant frequency it behaves as a capacitor, above it as an inductor set by its mounted inductance. Placing two different values in parallel creates a problem between their self-resonances. There the large capacitor already looks inductive and the small one still capacitive, and an inductance in parallel with a capacitance forms a parallel resonance, an anti-resonant peak in the impedance that can exceed the target impedance of Chapter 3 by a large factor. The peak's height is set by the capacitors' ESR, which is why low-ESR ceramics make it worse. Designers either use many capacitors of the same value, so their resonances coincide, choose values closely spaced so the peaks are shallow, or deliberately include a few higher-ESR parts to damp the network.
+EQ: f_SRF = 1 / (2π √(L_mount C))
+H2: Worked Example 11.3
+WEP: A board uses 10 µF capacitors with 1 nH of mounted inductance and 100 nF capacitors with 0.5 nH. Find each self-resonant frequency, and the region where an anti-resonance can appear.
+WES: The 10 µF part resonates at 1/(2π√(10⁻⁹ × 10⁻⁵)) = 1.59 MHz and the 100 nF part at 1/(2π√(0.5 × 10⁻⁹ × 10⁻⁷)) = 22.5 MHz. Between them, roughly 2 to 20 MHz, the 10 µF bank is inductive and the 100 nF bank capacitive, and their parallel resonance sits where the two reactances are equal. A simulation of the full network with the real ESR values shows whether the peak breaks the target; if it does, more 100 nF parts, or an intermediate 1 µF value, fill the gap.
+H2: 11.6 DC bias and the capacitance you actually get
+P: A ceramic capacitor's marked value is measured with almost no DC voltage across it. The high-permittivity dielectrics of X5R and X7R parts are ferroelectric, and their permittivity falls as the DC field rises, so a small, high-value part operated near its rated voltage may keep only a third or half of its marked capacitance. The loss is worst for small case sizes and thin dielectric layers, and the manufacturers publish curves of capacitance against DC bias for each part. The temperature characteristic is a separate allowance: X7R promises ±15 % from −55 to 125 °C, X5R the same to 85 °C, and C0G almost no change at all but much lower values. For the 0.8 V core rails of this chapter the bias loss is small, but for 12 V and 48 V input capacitors it dominates the count, and a design that counts marked microfarads will have half the capacitance it thinks it has.
+EQ: C_effective = C_nominal × k_bias × k_temperature
+H2: Worked Example 11.4
+WEP: A 12 V regulator input needs 100 µF of effective capacitance. The chosen 10 µF, 25 V, 0805 X7R part keeps 40 % of its value at 12 V, and the design must allow a further 15 % loss over temperature. How many parts are needed?
+WES: Each part gives 10 × 0.40 × 0.85 = 3.4 µF at 12 V in the worst-case temperature, so 100/3.4 = 29.4, and 30 parts are needed, three times the ten that the marked value suggests. A larger case size or a 50 V part with thicker layers keeps more of its value and may need fewer parts in the same board area.
+P: Decoupling keeps the supply quiet; the stack-up of Chapter 12 decides how close those capacitors, planes, and signals can sit to each other.
+H2: Practice
+PR: Find the self-resonant frequency of a 22 µF capacitor with 0.3 nH of mounted inductance.
+PR: How many capacitors with 0.3 nH each are needed for 2 mΩ at 50 MHz?
+PR: Above what frequency does 20 pH of path inductance exceed a 30 mΩ target?
+PR: A die has 4 µF of capacitance behind 2 pH of package inductance. Find the resonant frequency and characteristic impedance.
+PR: Why does a 100 nF capacitor not help more than a 1 µF capacitor at 200 MHz when both have the same mounting?
+PR: Why must package capacitors be damped?
+PR: Find the self-resonant frequency of a 1 µF capacitor with 0.7 nH of mounted inductance.
+PR: A 22 µF part keeps 35 % of its value at its working voltage. What effective capacitance does it provide, ignoring temperature?
+ANS: 1.96 MHz.
+ANS: 2π × 5 × 10⁷ × 0.3 × 10⁻⁹/0.002 = 47.
+ANS: 30 × 10⁻³/(2π × 20 × 10⁻¹²) = 239 MHz.
+ANS: 56.3 MHz and 0.71 mΩ.
+ANS: At 200 MHz both are far above their self-resonances, so both behave as the same mounted inductance and have the same impedance.
+ANS: The die capacitance and package inductance form a parallel resonance whose peak impedance can far exceed the target unless resistance in the network lowers its Q.
+ANS: 1/(2π√(0.7 × 10⁻⁹ × 10⁻⁶)) = 6.0 MHz.
+ANS: 7.7 µF.

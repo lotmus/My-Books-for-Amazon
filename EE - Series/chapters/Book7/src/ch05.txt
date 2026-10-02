@@ -1,0 +1,42 @@
+H1: Chapter 5. Layout: Return Paths, Transitions, and Habits
+P: A schematic says which nodes are connected. A layout decides how the current actually flows between them, and, above a few megahertz, the current's path is set by inductance, not by the shortest route. Most layout failures, ground bounce, crosstalk, emissions, and RF instability, come from forgetting the return half of the circuit. This chapter develops the one idea that explains most good layout practice, that current returns as close as it can to its outgoing path, and turns it into a set of habits, with the numbers that justify them. Howard Johnson and Martin Graham's High-Speed Digital Design and Eric Bogatin's Signal and Power Integrity, Simplified are the standard references.
+H2: 5.1 Where the return current flows
+P: At low frequencies, return current spreads through a ground plane along the path of least resistance. Above a few tens of kilohertz in typical boards, it follows the path of least inductance, which is directly beneath the signal trace, because that path encloses the smallest loop area. For a trace at height h over a plane, the return-current density falls off with lateral distance x as 1/(1 + (x/h)²). Half the return current flows within ±h of the trace's center line, 70% within ±2h, and 80% within ±3h. A slot, split, or gap in the plane under a trace forces the return current around it, enlarging the loop, raising the inductance, and turning the loop into an antenna.
+EQ: J(x) ∝ 1 / [1 + (x/h)²],   fraction within ±a = (2/π) arctan(a/h)
+H2: Worked Example 5.1
+WEP: A trace is 0.1 mm above its reference plane. Within what width of plane does 80% of the return current flow? What happens if a 2 mm wide split in the plane crosses under it?
+WES: 80% flows within ±3h, a band 0.6 mm wide centered under the trace. The 2 mm split is more than three times that width, so essentially all of the return current must detour around the end of the split, which may be centimeters away. The loop area grows by orders of magnitude; the trace's impedance changes abruptly at the split, causing reflections; and the enlarged loop radiates. The habit that follows: never route a fast signal across a split in its reference plane, and if it must change reference planes, place a stitching via or capacitor next to its signal via.
+KEY: Key idea. Every signal has a return path, and above a few tens of kilohertz the return flows directly under the signal. Keep that path continuous and the loop small, and most layout problems never appear.
+H2: 5.2 When a trace is a transmission line
+P: A trace must be treated as a transmission line, with controlled impedance and termination, when its delay is a significant fraction of the signal's rise time. A common rule treats it as a line when its length exceeds about one-sixth of the distance a signal travels during the rise time. On Book 4's reference microstrip, with εeff = 2.79, signals travel at 55.7 ps/cm. For a 100 ps rise time on a line with εeff = 4, the critical length is about 2.5 mm; for a 1 ns rise time, 2.5 cm. Since modern logic has rise times of tens of picoseconds regardless of its clock rate, nearly every trace on a modern board is a transmission line.
+EQ: lcritical ≈ tr × v / 6
+H2: 5.3 Vias and stubs
+P: A via that passes through the whole board but connects to an inner layer leaves an unused stub below the connection. The stub acts as an open-circuited transmission line and resonates when its length is a quarter wavelength, notching out the signal at that frequency. In a material with εr = 4, a 1.5 mm stub resonates at about 25 GHz, which is within the spectrum of a 56 Gbaud signal. Back-drilling the stub to 0.3 mm moves the resonance to about 125 GHz. Blind and buried vias avoid stubs altogether.
+EQ: fstub ≈ c / (4 lstub √εr)
+H2: Worked Example 5.2
+WEP: Find the quarter-wave resonance of via stubs of 1.5 mm, 0.8 mm, and 0.3 mm in a dielectric with εr = 4.
+WES: f = 2.998 × 10⁸/(4 × l × 2). For 1.5 mm, f = 25.0 GHz; for 0.8 mm, 46.8 GHz; for 0.3 mm, 125 GHz. A rule of thumb keeps the stub resonance at least two to three times the signal's Nyquist frequency; for 56 Gbaud, whose Nyquist frequency is 28 GHz, the stub should resonate above 56 to 84 GHz, which requires back-drilling to well under 0.8 mm.
+H2: 5.4 Habits
+P: The ideas above turn into a short list of habits. Run every fast or RF trace over a continuous reference plane. Use a via fence along RF lines and around RF sections where isolation matters. Connect ground pins to the plane with short, direct vias, never through long traces. Keep fast digital return currents away from sensitive analog and RF circuits by placement, not by splitting the plane. Treat a power amplifier's matching network as a microwave circuit, Book 4's subject, with its own models of pads and vias. Keep the hot loop of every switching converter, Book 6's subject, as small as possible. Space parallel fast traces at least three trace widths apart, or more where they run together for long distances, to limit crosstalk. Decouple each supply pin with its capacitor placed close to the pin and vias to the plane, so that the decoupling loop is small. These habits cost little at layout and a great deal to add later.
+H2: 5.5 Plane resonances
+P: A pair of power and ground planes is a parallel-plate cavity, and it resonates whenever a dimension equals a whole number of half wavelengths in the dielectric. The lowest mode of a rectangular plane pair of length a resonates at c/(2a√εr). At those frequencies the impedance between the planes peaks, any noise current injected there, by a switching driver or a via carrying a signal between layers, excites a large voltage, and the plane pair's edges radiate. Decoupling capacitors damp the low modes, but their inductance makes them useless above a few hundred megahertz, so the higher modes are controlled by stitching vias along the edges, by keeping signal vias that change reference planes next to a ground via, and in demanding designs by thin, high-capacitance laminates or resistive edge termination.
+EQ: f₁₀ = c / (2a √εr)
+H2: Worked Example 5.3
+WEP: Find the lowest resonance of a 100 mm by 80 mm plane pair in a dielectric with εr = 4.2, and the next one.
+WES: Along the 100 mm side, f = 3 × 10⁸/(2 × 0.1 × 2.05) = 732 MHz; along the 80 mm side, 915 MHz. A board with a 3.3 V plane of this size will show impedance peaks there, and a clock harmonic that lands near 732 MHz will radiate far more than its neighbors, which is a common reason one harmonic fails an emissions test while the rest pass.
+P: Return paths, transitions, and plane behavior are layout's electrical side. The thermal side, Chapter 6, removes what the electrons leave behind as heat.
+H2: Practice
+PR: For a trace 0.2 mm above its plane, within what width does 50% of the return current flow?
+PR: What fraction of the return current flows within ±5h?
+PR: Find the critical length for a 35 ps rise time on a line with εeff = 4.
+PR: Find the quarter-wave resonance of a 1.0 mm via stub with εr = 3.6.
+PR: How long does a signal take to cross 10 cm of Book 4's reference microstrip?
+PR: Why should a fast trace not cross a split in its reference plane?
+PR: Find the lowest plane-pair resonance of a 200 mm board with εr = 4.
+ANS: Within ±h, a band 0.4 mm wide.
+ANS: (2/π) arctan 5 = 87%.
+ANS: 35 ps × 1.5 × 10⁸ m/s/6 = 0.87 mm.
+ANS: 2.998 × 10⁸/(4 × 10⁻³ × 1.897) = 39.5 GHz.
+ANS: 10 × 55.7 ps = 557 ps.
+ANS: The return current, which flows directly under the trace, must detour around the split, enlarging the loop; the impedance changes, causing reflections, and the large loop radiates and couples to other circuits.
+ANS: 3 × 10⁸/(2 × 0.2 × 2) = 375 MHz.

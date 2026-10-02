@@ -1,0 +1,234 @@
+TITLE: Infrared Divergences
+TAGLINE: A divergence at small, not large, loop momentum that no renormalization can absorb, and the Bloch–Nordsieck resolution: an exclusive rate with no photons is not something any detector measures
+NUM: 74
+NEXT: Lesson 75, Soft Photons, evaluates the soft-photon emission amplitude explicitly, the factor e p·ε/p·k, and shows it is what cancels this lesson's virtual divergence.
+
+# How to use this lesson
+
+Every divergence this course has met so far lived at large loop momentum. Lessons 66 to 68 tamed them by absorbing them into parameters nobody measures. This lesson meets a divergence of the opposite kind. It lives at small loop momentum, it comes from the photon being massless, and it cannot be absorbed into anything. The one-loop vertex correction of Lesson 65, carried down to soft virtual photons, makes the cross section for elastic scattering, with no photon emitted, logarithmically infinite and negative. The resolution is physical rather than technical. A real detector cannot tell an electron that scattered alone from one that also emitted a photon too soft to register. Adding that unobserved emission, computed in Lesson 75, removes the divergence and leaves a finite answer that depends on the detector's energy resolution. The lesson first separates three effects that all get called "infrared," so that the later algebra does not mix them. Expect six to eight hours.
+
+## Learning objectives
+
+- Distinguish three infrared phenomena: the forward Coulomb singularity of Lesson 61, soft-photon divergences, and collinear logarithms in ln(Q²/m²).
+
+- Locate the soft divergence in Lesson 65's vertex integral by power counting at small k, and contrast it with an ultraviolet divergence.
+
+- Regulate it with a photon mass λ, and state the one-loop result dσ_virt = dσ₀[1 − (α/π)f_IR(q²)ln(Q²/λ²) + finite].
+
+- Evaluate f_IR(q²) in its two limits, Q²/(3m²) and ln(Q²/m²).
+
+- State the Bloch–Nordsieck theorem and show that adding undetected real emission replaces λ by the detector resolution E_l.
+
+- Estimate the size of the resulting Sudakov double logarithm and explain why it must be resummed.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| λ | Small photon mass, used only as an infrared regulator |
+| E_l | Energy resolution: photons below E_l are not detected |
+| Q² | −q², the spacelike momentum transfer of the scattering |
+| f_IR(q²) | The dimensionless function multiplying every soft logarithm |
+| dσ₀ | Tree-level cross section of the same process |
+| α/π | 2.32×10⁻³, the natural size of a soft correction |
+
+Natural units, metric diag(+1, −1, −1, −1). In display equations, square brackets enclose function arguments and visible groupings.
+
+# 1 Three things called infrared
+
+## 1.1 The forward Coulomb singularity
+
+Lesson 61 found that the electron-muon differential cross section grows like 1/t² as the scattering angle goes to zero, so its integral over all angles diverges. This is a tree-level effect. It reflects the infinite range of the Coulomb force: a particle passing at any distance, however large, is deflected a little. It is not a divergence of a loop, and real experiments avoid it by measuring at a finite angle. In matter, screening by atomic electrons cuts it off. This lesson does not treat it further.
+
+## 1.2 Soft photons
+
+The second effect, the subject of this lesson, comes from photons of arbitrarily small energy, virtual in loops or real in emission. Its signature is a logarithm of a photon mass, or of an energy cutoff, that diverges as the photon becomes massless.
+
+## 1.3 Collinear logarithms
+
+The third effect is a logarithm of the electron mass, ln(Q²/m²), which grows when the photon is emitted parallel to a fast electron. With m ≠ 0, it is large but finite. Lesson 69's running coupling contained the same logarithm. As m → 0 it becomes a genuine divergence, which the Kinoshita–Lee–Nauenberg theorem handles by summing over degenerate states. That theorem is quoted here, not proved. In this lesson both kinds of logarithm appear together, and keeping them apart is half of the work.
+
+# 2 Where the soft divergence lives
+
+## 2.1 The vertex integral at small k
+
+FIG:
+   e⁻(p) ───*────────*─── e⁻(p′)
+             \      /
+              ~~~~~~      soft virtual photon, momentum k → 0
+                 |
+               γ*(q)
+ENDFIG
+
+Lesson 65's vertex correction has three denominators: the photon k², and the two electron propagators (p′ − k)² − m² and (p − k)² − m². With p² = p′² = m², these are k² − 2p′·k and k² − 2p·k. When k is small compared with m and with the momenta, the k² terms in the electron denominators are negligible, and the numerator reduces to the tree-level vertex multiplied by 4p·p′ (Exercise 2). The integral becomes
+
+$$ ∫ d⁴k / (2π)⁴ , (4p·p′) / [k² [−2p′·k] [−2p·k]]
+
+## 2.2 Counting powers at the bottom
+
+Near k = 0, the denominator scales as k⁴ (one k² and two linear factors). The measure d⁴k contributes k³dk. The radial integral therefore behaves like ∫dk/k, which diverges logarithmically at the lower end. Lesson 66's counting was done at large k. This is the same counting at small k, and it gives the opposite verdict: the integral converges at the top but not at the bottom.
+
+## 2.3 Why it cannot be renormalized
+
+An ultraviolet divergence comes from short distances, which can be hidden in a local counterterm, a redefinition of a parameter in the Lagrangian. An infrared divergence comes from long wavelengths, from photons that spread over arbitrarily large regions. No local term in the Lagrangian can absorb that. The divergence is telling the calculation that it has asked an unphysical question.
+
+### Worked example 1
+
+Show that the electron self-energy on an external leg has the same infrared problem. Lesson 68's Z₂ is the residue of the propagator at the pole. Its derivative contains, from a soft photon attached at both ends of the same line, an integral like ∫d⁴k/[k²(2p·k)²]. The denominator scales as k⁴ at small k, so the integral diverges like ∫dk/k. Z₂ is infrared divergent as well as ultraviolet divergent. In the cross section, the leg corrections and the vertex correction together produce the combination in Section 3.
+
+# 3 The virtual correction
+
+## 3.1 A photon mass as regulator
+
+Give the photon a small mass λ, by replacing k² with k² − λ² in its propagator. In QED this is legitimate as a regulator, because the photon couples to a conserved current, so the extra longitudinal mode that a mass would introduce decouples. The soft integral is then cut off at k ≈ λ. Using the standard evaluation (quoted, with the steps sketched in Exercise 3), the vertex correction and the external-leg corrections change the cross section by
+
+$$ dσ_virt = dσ₀ [1 − (α/π) f_IR[q²] ln[Q²/λ²] + finite]
+
+where "finite" means terms that remain bounded as λ → 0. This form is written for Q² ≳ m². When Q² ≪ m², the Q² inside the logarithm is replaced by m², and the same replacement applies to every soft logarithm in this lesson.
+
+## 3.2 The function f_IR
+
+The coefficient of the logarithm is
+
+$$ f_IR[q²] = ∫₀¹ dx (m² − q²/2) / (m² − x[1−x] q²) − 1
+
+It vanishes at q² = 0, where nothing is deflected and nothing radiates. For small Q² = −q², expanding the integrand gives f_IR ≈ Q²/(3m²) (Exercise 4). For Q² ≫ m², it grows like ln(Q²/m²), a collinear logarithm of the kind described in Section 1.3. The soft logarithm ln(Q²/λ²) and the collinear logarithm ln(Q²/m²) therefore multiply each other at high energy.
+
+## 3.3 A negative probability
+
+As λ → 0, the correction in Section 3.1 becomes −∞. Taken literally, the probability of scattering with no photon emitted at all is negative at one loop. Lesson 75 shows that the higher orders sum to an exponential, exp[−(α/π)f_IR ln(Q²/λ²)], which goes to zero as λ → 0. That is the true statement: the probability that a charge is deflected without emitting any photon at all is exactly zero.
+
+### Worked example 2
+
+Explain the zero physically, using classical electrodynamics. A charge whose velocity changes abruptly radiates a spectrum whose energy per unit frequency, dI/dω, tends to a nonzero constant as ω → 0. The number of photons per unit frequency is (1/ℏω)dI/dω, which grows like 1/ω, so the number between ω₁ and ω₂ is proportional to ln(ω₂/ω₁). This diverges as ω₁ → 0, while the total radiated energy stays finite. A scattered charge emits infinitely many photons, almost all of them with vanishing energy. The probability of emitting none is zero, exactly as Section 3.3 found.
+
+# 4 The Bloch–Nordsieck resolution
+
+## 4.1 What a detector measures
+
+A detector with energy resolution E_l cannot distinguish e + μ → e + μ from e + μ → e + μ + γ when the photon has energy below E_l. What it measures is the sum of the two rates. That sum is the physical cross section, and it is the only one the theory should be asked for.
+
+## 4.2 The real emission
+
+Lesson 75 computes the probability of emitting one photon with energy between λ and E_l:
+
+$$ dσ_real = dσ₀ (α/π) f_IR[q²] ln[E_l²/λ²]
+
+with the same function f_IR. This is positive and diverges as λ → 0, with the same coefficient as the virtual correction but the opposite sign.
+
+## 4.3 The sum
+
+Adding Sections 3.1 and 4.2, the λ-dependence cancels:
+
+$$ dσ_meas = dσ₀ [1 − (α/π) f_IR[q²] ln[Q²/E_l²] + finite]
+
+This is the Bloch–Nordsieck theorem, published by Felix Bloch and Arnold Nordsieck in 1937. Cross sections that sum over undetectable soft photons are infrared finite, order by order in α. The answer depends on E_l, which is a property of the measurement, not of nature. That is correct: a better detector sees a different, more exclusive process, and it measures a different number.
+
+### Worked example 3
+
+Estimate the size of the correction for electron scattering at Q² = 1 GeV² with a resolution E_l = 10 MeV. Here f_IR ≈ ln(Q²/m²) = 2 ln(1 GeV/0.511 MeV) = 2 ln(1957) = 15.2, and ln(Q²/E_l²) = 2 ln(100) = 9.21. The correction is (α/π) × 15.2 × 9.21 = 2.32×10⁻³ × 140 = 0.32. A formally order-α correction has reduced the measured cross section by about a third. The product of two large logarithms, called a Sudakov double logarithm, has overcome the small α/π. At this size the one-loop formula cannot be trusted alone, and the exponentiated form exp(−0.32) = 0.72 of Lesson 75 must be used.
+
+# 5 The anatomy of the logarithms
+
+## 5.1 Double logarithms
+
+At high energy the correction is −(α/π)ln(Q²/m²)ln(Q²/E_l²): one logarithm from soft photons (energy) and one from collinear photons (angle). Each logarithm alone could be large. Together they can be large even when α/π is tiny. This is the generic structure of radiative corrections at colliders, and in the strong interaction it is far more important still.
+
+## 5.2 Where precision experiments meet it
+
+Every precision scattering experiment includes these corrections. Elastic electron-proton scattering, used to measure the proton's size, applies corrections of exactly this form, often several to tens of percent, with the detector's acceptance determining E_l. The Bhabha scattering used to measure luminosity at LEP, and the small-angle measurements of the running α in Lesson 69, both rely on the same soft-photon formulas, evaluated to higher order and exponentiated.
+
+## 5.3 A phase that does no harm
+
+The Coulomb scattering amplitude also carries an infrared-divergent phase, a factor of the form exp[iα ln(λ) × (something)]. A phase does not change |ℳ|², so it does not affect a cross section. It is noted here only so that it is not confused with the divergence in Section 3.
+
+### Worked example 4
+
+Compare the size of the soft correction at low momentum transfer. Take Q = 1 MeV, so Q²/m² = 3.83 and the small-Q² form is not accurate. Instead take Q = 0.1 MeV, where f_IR ≈ Q²/(3m²) = 0.0383/3 = 0.0128. Since Q < m, the logarithm is ln(m²/E_l²) by the rule of Section 3.1. With E_l = 1 keV, it is 2 ln(511) = 12.5, and the correction is 2.32×10⁻³ × 0.0128 × 12.5 = 3.7×10⁻⁴. At low momentum transfer, a slowly deflected charge radiates little, and the soft correction is tiny. It becomes important only when the deflection is relativistic.
+
+# 6 What this lesson has not done
+
+This lesson quoted, rather than derived, the infrared part of the vertex correction and its combination with the external legs. It quoted the real-emission result, which Lesson 75 derives, and the exponentiation, which Lesson 75 explains. It did not prove the Bloch–Nordsieck theorem to all orders, and it did not prove the Kinoshita–Lee–Nauenberg theorem for the massless limit. Its finite terms, which depend on the process, were not computed.
+
+# 7 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used next |
+| Coulomb forward singularity, soft divergence, collinear logarithm | Three distinct effects, kept separate from here on |
+| Soft divergence at small k: ∫dk/k | The reason a photon mass λ is introduced |
+| dσ_virt = dσ₀[1 − (α/π)f_IR ln(Q²/λ²)] | Cancelled by real emission, Lesson 75 |
+| f_IR ≈ Q²/(3m²) small Q²; ≈ ln(Q²/m²) large Q² | The coefficient of every soft logarithm |
+| dσ_meas = dσ₀[1 − (α/π)f_IR ln(Q²/E_l²)] | The finite, resolution-dependent prediction |
+| Sudakov double logarithm | Exponentiation, Lesson 75; precision tests, Lesson 79 |
+
+# 8 Summary
+
+1. Three effects are called infrared: the forward Coulomb singularity at tree level, soft-photon divergences, and collinear logarithms of the electron mass.
+
+2. Lesson 65's vertex integral diverges like ∫dk/k at small k, because the photon is massless. No local counterterm can absorb this.
+
+3. With a photon mass λ, the virtual correction is −(α/π)f_IR(q²)ln(Q²/λ²), which goes to −∞ as λ → 0. The exclusive probability of scattering without radiation is zero.
+
+4. Real emission of photons below the resolution E_l adds +(α/π)f_IR ln(E_l²/λ²).
+
+5. The sum, −(α/π)f_IR ln(Q²/E_l²), is finite and depends on the detector. This is the Bloch–Nordsieck theorem.
+
+6. At high energy the correction is a Sudakov double logarithm, which can reach tens of percent and must be exponentiated.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Classify each as forward Coulomb, soft, or collinear: the 1/t² growth of dσ/dΩ in eμ → eμ; ln λ in the vertex correction; ln(Q²/m²) in f_IR at large Q². |
+| 2 | Show that at small k the numerator of the vertex correction reduces to ū(p′)γ^μu(p) × 4p·p′, using ū(p′)γ^ν(p̸′ + m) = 2p′^ν ū(p′) and the analogous identity on the right. |
+| 3 | Sketch why ∫d⁴k/[(k² − λ²)(2p·k)(2p′·k)] is proportional to ln(1/λ) at small λ, by power counting with the photon mass as the lower cutoff. |
+| 4 | Expand f_IR(q²) for small Q² = −q² and show that f_IR ≈ Q²/(3m²). |
+| 5 | Show that f_IR(0) = 0, and explain physically why no soft logarithm can appear at zero momentum transfer. |
+| 6 | Explain why a photon mass is an acceptable regulator in QED but would not be acceptable if the photon coupled to a non-conserved current. |
+| 7 | Add the virtual and real corrections of Sections 3.1 and 4.2 and verify Section 4.3. |
+| 8 | Repeat Worked example 3 with E_l = 100 MeV, and comment on how the answer depends on E_l. |
+| 9 | Using the classical argument of Worked example 2, show that the energy radiated between ω₁ and ω₂ is finite as ω₁ → 0 while the photon number is not. |
+| 10 | Explain why the exclusive cross section for eμ → eμ with no photons is not an observable. |
+| 11 | For Q² = (100 GeV)², electron mass, and E_l = 1 GeV, compute the one-loop double-logarithmic correction and its exponentiated value. |
+| 12 | Explain why an infrared-divergent phase in the amplitude does not affect the cross section. |
+| 13 | Challenge: as m → 0 at fixed Q², f_IR diverges. Which additional undetected final states must be summed to obtain a finite answer in that limit, and what is that statement called? |
+
+# Solutions
+
+**1.** Forward Coulomb, soft, collinear.
+
+**2.** At small k, the numerator is ū(p′)γ^ν(p̸′ + m)γ^μ(p̸ + m)γ_ν u(p). Using ū(p′)γ^ν(p̸′ + m) = ū(p′)[2p′^ν − (p̸′ − m)γ^ν] = 2p′^ν ū(p′), and on the right (p̸ + m)γ_ν u(p) = 2p_ν u(p), the numerator becomes 4p′·p ū(p′)γ^μu(p).
+
+**3.** For λ ≪ |k| ≪ m, the integrand scales as 1/k⁴ and the measure as k³dk, giving ∫dk/k. Below |k| ≈ λ, the photon propagator is about 1/λ², and the integral is cut off. The result is approximately ln(m/λ), up to terms that remain finite as λ → 0.
+
+**4.** With q² = −Q², the integrand is (m² + Q²/2)/(m² + x(1−x)Q²) ≈ 1 + Q²/(2m²) − x(1−x)Q²/m². Integrating over x, with ∫x(1−x)dx = 1/6, gives 1 + Q²/(2m²) − Q²/(6m²). Subtracting 1 leaves Q²/(3m²).
+
+**5.** At q² = 0 the integrand is m²/m² = 1, and ∫₀¹ dx − 1 = 0. Without a change of momentum there is no acceleration, hence no radiation and no soft logarithm.
+
+**6.** A massive vector field has a longitudinal polarization. If it couples to a conserved current, that mode decouples by the Ward identity, and the limit λ → 0 is smooth. If the current were not conserved, the longitudinal mode would contribute terms proportional to 1/λ², and the limit would not exist.
+
+**7.** −(α/π)f_IR ln(Q²/λ²) + (α/π)f_IR ln(E_l²/λ²) = −(α/π)f_IR[ln Q² − ln λ² − ln E_l² + ln λ²] = −(α/π)f_IR ln(Q²/E_l²).
+
+**8.** ln(Q²/E_l²) = 2 ln 10 = 4.61. The correction is 2.32×10⁻³ × 15.2 × 4.61 = 0.16. A coarser resolution accepts more radiation, so the reduction is smaller, but it depends on E_l only logarithmically.
+
+**9.** With dI/dω ≈ I₀, constant, the energy is ∫I₀dω = I₀(ω₂ − ω₁), which tends to I₀ω₂. The number is ∫I₀dω/(ℏω) = (I₀/ℏ)ln(ω₂/ω₁), which diverges as ω₁ → 0.
+
+**10.** Its probability is zero, as shown in Section 3.3, and no detector can confirm that no photon of arbitrarily low energy was emitted. Only rates summed over photons below some resolution can be measured.
+
+**11.** ln(Q²/m²) = 2 ln(100/0.000511) = 2 × 12.18 = 24.4. ln(Q²/E_l²) = 2 ln 100 = 9.21. The correction is 2.32×10⁻³ × 24.4 × 9.21 = 0.52. The exponentiated factor is exp(−0.52) = 0.59. The one-loop factor, 1 − 0.52 = 0.48, is clearly not reliable.
+
+**12.** The cross section depends on |ℳ|². Multiplying ℳ by e^(iφ), with φ real, does not change |ℳ|², however φ depends on λ.
+
+**13.** As m → 0, an electron and a photon moving exactly parallel cannot be distinguished from a single electron of the same total momentum. The finite answer requires summing over such collinear final states, and also over the corresponding initial states. That is the Kinoshita–Lee–Nauenberg theorem.
+
+# Mastery checklist
+
+- I can distinguish the forward Coulomb singularity, soft divergences, and collinear logarithms.
+
+- I can locate the soft divergence by power counting at small k and explain why it cannot be renormalized.
+
+- I can write the virtual correction with a photon mass and evaluate f_IR in both limits.
+
+- I can state the Bloch–Nordsieck theorem and show how λ is replaced by E_l.
+
+- I can estimate a Sudakov double logarithm and explain why it must be exponentiated.

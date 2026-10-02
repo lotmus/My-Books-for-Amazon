@@ -36,7 +36,7 @@ Die Right of Permanent Residence Fee fehlt in vielen ersten Schätzungen, weil s
 
 > **Spartipp:** Die Biometrie hat für Familien oft eine Obergrenze. Ob sie gilt und wie hoch sie ist, steht auf der IRCC-Seite.
 
-> **Praxisbeispiel:** Familie Ahrens (Markus, 40, Softwarearchitekt; Julia, 37, Apothekerin; Finn, 11; Mia, 7; Leipzig) reicht nach der Einladung den PR-Antrag über Express Entry ein. Markus und Julia zahlen je 1.590 CAD Antragsgebühr, für Finn und Mia kommen je 270 CAD dazu – macht 3.720 CAD allein an Antragsgebühren. Dazu die RPRF für die Eltern (2 × 600 CAD) und die gedeckelte Familien-Biometriegebühr von 170 CAD. Summe: 5.090 CAD, bevor Sprachtest, Kompetenzbewertung des Abschlusses, Gesundheitsuntersuchung und Führungszeugnisse überhaupt eingerechnet sind. Am Küchentisch in Leipzig hatte das vorher niemand so konkret aufgeschrieben. (Fiktives Beispiel.)
+> **Praxisbeispiel:** Familie Ahrens (Markus, 40, Softwarearchitekt; Julia, 37, Apothekerin; Finn, 11; Mia, 7; Leipzig) reicht nach der Einladung den PR-Antrag über Express Entry ein. Markus und Julia zahlen die Antragsgebühr, für die Kinder die Kindergebühr, dazu die RPRF für die Erwachsenen und die Biometrie. Die Beträge stehen auf der IRCC-Seite, nicht in diesem Beispiel. Sprachtest, Kompetenzbewertung, Gesundheitsuntersuchung und Führungszeugnisse kommen dazu. (Fiktives Beispiel.)
 
 ### Bearbeitungszeiten: Versprechen und Wirklichkeit
 
@@ -52,9 +52,9 @@ Für die meisten Antragsarten verlangt IRCC Fingerabdrücke und ein digitales Fo
 
 ### Die Gesundheitsuntersuchung
 
-Für die permanente Aufenthaltserlaubnis und viele befristete Visa ist eine vollständige *Immigration Medical Exam* (IME, die Einwanderungs-Gesundheitsuntersuchung) Pflicht – und zwar ausschließlich bei einem von IRCC zugelassenen *Panel Physician* (einem behördlich anerkannten Vertragsarzt). Der eigene Hausarzt, und sei er noch so vertrauenswürdig, darf diese Untersuchung nicht durchführen; Ergebnisse von nicht gelisteten Ärzten werden automatisch abgelehnt. Je nach Alter gehören eine allgemeine körperliche Untersuchung, ein Röntgenbild des Brustkorbs ab 11 Jahren sowie Blut- und Urintests dazu. Die Kosten liegen bei 200 bis 450 CAD pro Erwachsenem und 140 bis 180 CAD pro Kind, direkt beim Arzt zu zahlen; das Ergebnis gilt 12 Monate. Seit dem 21. August 2025 müssen Express-Entry-Antragsteller auf dem Weg zur permanenten Aufenthaltserlaubnis die Untersuchung bereits vor der eigentlichen Antragstellung absolvieren, nicht erst danach.
+Für die permanente Aufenthaltserlaubnis und viele befristete Visa ist eine vollständige *Immigration Medical Exam* (IME, die Einwanderungs-Gesundheitsuntersuchung) Pflicht – und zwar ausschließlich bei einem von IRCC zugelassenen *Panel Physician* (einem behördlich anerkannten Vertragsarzt). Der eigene Hausarzt, und sei er noch so vertrauenswürdig, darf diese Untersuchung nicht durchführen; Ergebnisse von nicht gelisteten Ärzten werden automatisch abgelehnt. Je nach Alter gehören eine allgemeine körperliche Untersuchung, ein Röntgenbild des Brustkorbs ab 11 Jahren sowie Blut- und Urintests dazu. Die Kosten zahlt ihr direkt beim Arzt. Den Betrag nennt die Praxis. Das Ergebnis gilt 12 Monate. Seit dem 21. August 2025 müssen Express-Entry-Antragsteller auf dem Weg zur permanenten Aufenthaltserlaubnis die Untersuchung bereits vor der eigentlichen Antragstellung absolvieren, nicht erst danach.
 
-Ein Sonderfall, den man kennen sollte, ohne sich davon verunsichern zu lassen: Bei erheblichem, dauerhaftem Pflege- oder Behandlungsbedarf eines Familienmitglieds prüft IRCC, ob die zu erwartenden Kosten für das kanadische Gesundheits- oder Sozialsystem eine bestimmte Schwelle übersteigen – 2026 liegt sie bei 144.390 CAD über 5 Jahre. Das betrifft die wenigsten Familien, ist aber bei bekannten chronischen Erkrankungen oder Behinderungen eines Kindes ein Punkt, den du frühzeitig mit einer Fachperson besprechen solltest, nicht erst beim Untersuchungstermin.
+Ein Sonderfall, den man kennen sollte, ohne sich davon verunsichern zu lassen: IRCC prüft, ob die zu erwartenden Kosten eine Schwelle übersteigen. Die Schwelle veröffentlicht IRCC. Dieses Kapitel druckt sie nicht. Das betrifft die wenigsten Familien, ist aber bei bekannten chronischen Erkrankungen oder Behinderungen eines Kindes ein Punkt, den du frühzeitig mit einer Fachperson besprechen solltest, nicht erst beim Untersuchungstermin.
 
 > **Achtung:** Panel Physicians sind nicht an jeder deutschen Ecke zu finden. Buche den Termin, sobald die Aufforderung im IRCC-Konto erscheint – ein voller Terminkalender beim nächstgelegenen zugelassenen Arzt verzögert sonst den gesamten Antrag.
 
@@ -84,7 +84,7 @@ Für Lukas Berger mit Ziel Calgary bedeutet das etwas, das auf den ersten Blick 
 
 > **Merke:** Welche deutsche Vertretung für dich zuständig ist, hängt von der Provinz ab, nicht von der Entfernung auf der Landkarte. Prüfe das früh, nicht erst, wenn du einen neuen Reisepass brauchst.
 
-> **Praxisbeispiel:** Lukas Berger (29, Öl- und Gasingenieur, Hannover) bekommt ein Jobangebot eines Unternehmens in Calgary, das für ihn die LMIA beantragt – Kosten für Lukas: nur die Work-Permit-Gebühr von 155 CAD plus 85 CAD Biometrie, den Rest trägt der Arbeitgeber. Sein Führungszeugnis braucht keine Apostille, seine Gesundheitsuntersuchung beim Panel Physician in Hannover kostet ihn rund 280 CAD. Vom Jobangebot bis zur Genehmigung des Arbeitsvisums vergehen gut fünf Monate – die LMIA seines Arbeitgebers allein braucht schon zwei davon. Für Passfragen bleibt Lukas später übrigens das Generalkonsulat Vancouver zuständig, nicht das geografisch nähere Toronto. (Fiktives Beispiel.)
+> **Praxisbeispiel:** Lukas Berger (29, Öl- und Gasingenieur, Hannover) bekommt ein Jobangebot eines Unternehmens in Calgary, das für ihn die LMIA beantragt – Kosten für Lukas: die Work-Permit-Gebühr und die Biometrie. Die Beträge nennt IRCC. Den Rest trägt der Arbeitgeber. Die Gesundheitsuntersuchung berechnet der Arzt. Vom Jobangebot bis zur Genehmigung des Arbeitsvisums vergehen gut fünf Monate – die LMIA seines Arbeitgebers allein braucht schon zwei davon. Für Passfragen bleibt Lukas später übrigens das Generalkonsulat Vancouver zuständig, nicht das geografisch nähere Toronto. (Fiktives Beispiel.)
 
 ### Plus und Minus
 
@@ -102,7 +102,7 @@ Kläre zuerst über das Kapitel zum Arbeitsweg, welcher Weg für dich passt – 
 > **Checkliste:**
 > - [ ] Zielweg geklärt (Work Permit LMIA-pflichtig/-frei, Express Entry, PNP, Study Permit)
 > - [ ] IRCC-Kundenkonto angelegt, Benachrichtigungen aktiviert
-> - [ ] Alle Gebühren realistisch kalkuliert, inklusive der separaten RPRF von 600 CAD pro Erwachsenem
+> - [ ] Alle Gebühren auf der IRCC-Seite gelesen, inklusive der separaten Right of Permanent Residence Fee pro Erwachsenem
 > - [ ] Führungszeugnis für jedes Land mit mindestens sechs zusammenhängenden Monaten Aufenthalt seit dem 18. Geburtstag beantragt
 > - [ ] Bei Führungszeugnis mit Ausstellungsdatum vor Februar 2019: beglaubigte Übersetzung eingeplant
 > - [ ] Termin bei VFS Global Berlin für Biometrie gebucht, sobald IRCC dazu auffordert

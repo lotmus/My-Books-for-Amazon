@@ -1,0 +1,57 @@
+H1: Chapter 19. Gate Drivers and Isolation
+P: A power switch is only as good as the circuit that drives its gate. The driver must deliver amperes of gate current for nanoseconds, hold the switch firmly off while its drain swings by hundreds of volts, and, for the high-side switch of a half bridge, do all this from a supply that floats with the switch node. Where safety demands, the control signal must also cross an isolation barrier. This chapter sizes the bootstrap supply, explains the dv/dt hazards of Miller turn-on and common-mode transients, and introduces the isolation that safety standards require. The devices are Book 3's.
+H2: 19.1 Gate charge and drive current
+P: A MOSFET or GaN gate is a capacitor that must be charged by its total gate charge Qg to turn the device on. Switching in a time t requires an average current of Qg/t, and the driver's peak current, limited by its output resistance and an external gate resistor, sets the switching speed and with it the overlap loss of Chapter 9. Faster is not always better: faster edges ring with the loop inductance and radiate the emissions that Book 7 measures, so gate resistors are often chosen to slow the edges deliberately, separately for turn-on and turn-off.
+EQ: Igate,avg = Qg / tsw,   Pdrive = Qg Vdrive fs
+H2: 19.2 The bootstrap supply
+P: The high-side switch's source sits at the switch node, which swings between ground and the input voltage. A bootstrap capacitor, charged through a diode from the low-side supply whenever the switch node is low, provides the floating supply for the high-side driver. Each turn-on draws Qg from it, and its voltage must not droop below the gate's required drive. The capacitance must therefore be many times Qg/ΔV; a factor of ten is a common margin, also covering the driver's quiescent current and leakage.
+EQ: Cboot ≥ Qg / ΔV  (× margin)
+H2: Worked Example 19.1
+WEP: A high-side switch has Qg = 20 nC, and the bootstrap may droop by 0.5 V. Find the minimum capacitance and a practical value with a factor-of-ten margin.
+WES: Qg/ΔV = 20 nC/0.5 V = 40 nF; with the margin, about 400 nF, so a 0.47 µF ceramic capacitor. At very low duty cycles or in long high-side on-times, the bootstrap cannot recharge and needs a charge pump or an isolated supply instead.
+H2: 19.3 dv/dt: Miller turn-on and common-mode transients
+P: When the switch node slews, the drain-gate capacitance Cgd of an off device injects a current Cgd dv/dt into its gate. If that current, flowing through the gate resistance and driver, raises the gate voltage above threshold, the device turns on briefly while its partner is on, a shoot-through called Miller turn-on. The cures are a low-impedance turn-off path, a negative off-state gate voltage, and an active Miller clamp. The same dv/dt couples through the parasitic capacitance of any isolation barrier, so isolated drivers specify a common-mode transient immunity, CMTI, in kilovolts per microsecond or volts per nanosecond, that must exceed the switch node's slew with margin.
+EQ: IMiller = Cgd dv/dt,   Icm = Cbarrier dv/dt
+H2: Worked Example 19.2
+WEP: A switch with Cgd = 10 pF sees a 50 V/ns edge while held off through 2 Ω. Find the injected current and the gate bump. Then find the common-mode current through a 1 pF barrier at 100 V/ns.
+WES: IMiller = 10 pF × 50 V/ns = 0.5 A, and through 2 Ω it lifts the gate by 1 V, uncomfortably close to a GaN device's threshold of 1.5 to 2 V; a negative off-voltage or a lower-impedance path is needed. Through the 1 pF barrier, 100 V/ns drives 0.1 A of common-mode current, which the isolator's receiver must reject without a false transition.
+KEY: Key idea. The gate driver's job is to switch fast and stay off. The faster the switch node slews, the more current its parasitic capacitances inject, so drivers fight dv/dt with low-impedance hold-off, negative bias, and isolators with high common-mode immunity.
+H2: 19.4 Isolation and safety
+P: In mains-connected equipment, the control circuits that a user can touch must be separated from the mains by reinforced or double insulation, and the gate driver of a primary-side switch is often where that barrier is crossed. Isolators use optical, magnetic, or capacitive coupling; capacitive and magnetic digital isolators have largely replaced optocouplers in new designs because of their speed and stability. Safety standards such as IEC 62368-1 set the required creepage and clearance distances on the board and the test voltages for the barrier, and the isolator's own certification specifies its working voltage and lifetime.
+H2: 19.5 Gate loops, ringing, and negative bias
+P: The gate driver, the gate resistor, the transistor's input capacitance, and the inductance of the loop between them form a series resonant circuit. With 10 nH of loop inductance and 2 nF of input capacitance it rings at about 36 MHz, and unless the resistance damps it, the gate voltage overshoots its rating on turn-on and rings back toward the threshold on turn-off. Critical damping needs a total resistance near 2√(L/C), about 4.5 Ω here, which also slows the switching; the real cure is a small loop, with the driver next to the transistor and a Kelvin source connection that keeps the power current out of the gate return. SiC MOSFETs, whose gates tolerate about −8 to +22 V and whose thresholds can fall below 2 V when hot, are usually driven at +15 to +18 V on and −3 to −5 V off, so that the Miller current of Section 19.3 cannot lift the gate to its threshold. Enhancement-mode GaN, with a gate rated only about +6 V or +7 V and a threshold near 1.5 V, needs even tighter loops.
+EQ: f_ring = 1/(2π√(L C)),   R_crit ≈ 2√(L/C)
+H2: 19.6 Short-circuit protection: desaturation
+P: When a load or a bridge shorts, the transistor carries many times its rated current with the full bus across it, and it survives only for its short-circuit withstand time: about 10 µs for industrial IGBTs, 2 to 3 µs for many SiC MOSFETs, and less for GaN. The driver detects the fault by watching the drain or collector voltage while the device is commanded on: if it rises above a threshold, typically 7 to 9 V for an IGBT, after a blanking time that covers the normal turn-on, the device has left saturation. The driver then turns it off slowly, a soft turn-off, because cutting a fault current of thousands of amperes quickly would produce a destructive L di/dt spike. Isolated drivers such as the TI UCC21750 and the Infineon 1ED34 family integrate desaturation detection, soft turn-off, and a fault signal back across the barrier.
+H2: Worked Example 19.3
+WEP: A SiC MOSFET with 2 nF of input capacitance is driven through a gate loop of 10 nH. Find the ringing frequency, the resistance for critical damping, and the gate resistor needed if the driver and internal gate resistance together contribute 2 Ω.
+WES: f = 1/(2π√(10 × 10⁻⁹ × 2 × 10⁻⁹)) = 35.6 MHz. Critical damping needs 2√(10 nH/2 nF) = 4.5 Ω, so an external resistor of about 2.5 Ω. Halving the loop inductance to 5 nH lowers the required total to 3.2 Ω and allows faster switching with the same damping.
+H2: Worked Example 19.4
+WEP: A SiC MOSFET has a short-circuit withstand time of 2.5 µs. The driver's desaturation blanking time is 1.0 µs and its detection and soft turn-off take 0.8 µs. Is the margin adequate, and how would an IGBT with 10 µs compare?
+WES: The device is off after 1.8 µs, leaving 0.7 µs of margin, about 28 %, adequate but not generous; designers often shorten the blanking time for SiC to 0.5 µs or less. An IGBT with 10 µs would leave 8.2 µs of margin, which is why IGBT protection could be slower and simpler.
+H2: 19.7 Common-mode transient immunity and isolated bias
+P: An isolated gate driver for a high-side switch rides on the switch node, which slews by hundreds of volts in nanoseconds with SiC and GaN. Any capacitance across the isolation barrier, in the driver chip itself or in the isolated DC-DC converter that supplies its bias, carries a current C dv/dt, which flows through the circuit's grounds and can corrupt the driver's input signal. Drivers are therefore rated for common-mode transient immunity, CMTI, in kV/µs; 100 to 200 kV/µs is typical in 2026 for SiC-rated parts such as the Silicon Labs Si823x successors and the TI UCC5x family. The isolated bias supply matters as much: its transformer's interwinding capacitance should be a few picofarads, which is why dedicated low-capacitance modules are sold for gate-drive bias.
+EQ: I_cm = C_iso × dv/dt
+H2: Worked Example 19.5
+WEP: A half-bridge switch node slews at 100 V/ns. The isolated bias supply has 5 pF of barrier capacitance and the driver 1 pF. Find the common-mode current pulse.
+WES: dv/dt = 100 V/ns = 10¹¹ V/s, so the bias supply passes 5 × 10⁻¹² × 10¹¹ = 0.5 A and the driver 0.1 A, for the duration of the edge, a few nanoseconds. Half an ampere in the controller's ground is enough to flip a logic input, which is why the bias supply's capacitance, not just the driver's rating, decides whether a fast design works.
+P: The gate driver switches power devices at a few hundred volts to a few kilovolts. Chapter 20 takes the same devices into series stacks for pulsed power at tens of kilovolts.
+H2: Practice
+PR: A gate with Qg = 50 nC must switch in 25 ns. Find the average gate current.
+PR: Find the drive power for Qg = 50 nC at 12 V and 100 kHz.
+PR: Find the bootstrap capacitance for Qg = 30 nC and 0.3 V droop, with a factor-of-ten margin.
+PR: Find the Miller current for Cgd = 5 pF at 80 V/ns.
+PR: Why does a negative off-state gate voltage help against Miller turn-on?
+PR: Why have digital isolators largely replaced optocouplers?
+PR: Find the ringing frequency of a gate loop with 5 nH and 4 nF.
+PR: Why is a fault current turned off slowly rather than quickly?
+PR: What barrier capacitance limits the common-mode current to 100 mA at 50 V/ns?
+ANS: 2 A.
+ANS: 60 mW.
+ANS: 1 µF.
+ANS: 0.4 A.
+ANS: The injected current must lift the gate from a negative voltage all the way to threshold, giving more margin before the device turns on.
+ANS: They are faster, have tighter timing and better common-mode immunity, and do not age the way an optocoupler's LED does.
+ANS: 1/(2π√(2 × 10⁻¹⁷)) = 35.6 MHz.
+ANS: A fast turn-off of a large fault current through the loop inductance produces a voltage spike L di/dt that can exceed the device's breakdown voltage.
+ANS: 0.1/(5 × 10¹⁰) = 2 pF.

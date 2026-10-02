@@ -1,0 +1,41 @@
+H1: Chapter 25. The Semi-Anechoic Chamber
+P: Radiated emissions are measured in a room built to imitate an open field with a perfectly conducting ground and nothing else in sight. A shielded enclosure keeps outside signals out; ferrite tiles and foam absorbers on the walls and ceiling suppress reflections; the metal floor is left bare, because the method includes its reflection. The equipment under test sits on a turntable, 0.8 m above the floor for tabletop products, and a receiving antenna 3 m or 10 m away moves from 1 m to 4 m in height. This chapter explains why the room looks the way it does, how it is validated, and why the height scan matters.
+H2: 25.1 Why the floor stays metal
+P: An open-area test site, a flat field with a metal ground plane, was the original reference, and the semi-anechoic chamber reproduces it indoors. The ground plane makes results repeatable, because the reflection from it is well defined, whereas a real floor's reflection would depend on what it was made of. The cost is that the receiving antenna sees two waves, direct and reflected, whose sum depends on the antenna's height. The method therefore requires the antenna to be scanned in height and the maximum to be recorded, so that the result does not depend on a lucky or unlucky position.
+H2: 25.2 The height scan
+P: A horizontally polarized wave reflects from the metal floor with its sign reversed, so the direct and reflected waves add fully when their path difference is half a wavelength. For an equipment height he, antenna height h, and distance R, the path difference is √(R² + (h + he)²) − √(R² + (h − he)²). At high frequencies several maxima fall within the 1 to 4 m scan; at low frequencies the first maximum may lie above 4 m, so the measured maximum is below the full two-ray value. The site-attenuation normalization of the next section absorbs this into the site's calibration.
+EQ: Δ = √(R² + (h + he)²) − √(R² + (h − he)²);   full addition at Δ = λ/2
+H2: Worked Example 25.1
+WEP: The equipment is 0.8 m high and the antenna is 3 m away. At what antenna height does a 200 MHz signal reach its first maximum? At 30 MHz, how far below the full two-ray sum is the reading at the top of the scan, in a simple two-ray model with perfect reflection?
+WES: At 200 MHz, λ/2 = 0.75 m; solving Δ = 0.75 m gives h = 1.64 m, inside the scan. At 30 MHz, λ/2 = 5 m, but at h = 4 m the path difference is only 1.27 m. The two-ray sum is then 2 sin(πΔ/λ) = 0.78 times the direct wave, against 2 at full addition, which is 8.2 dB below the maximum. Measurements at the low end of the band therefore depend strongly on the site's geometry, which is why it is calibrated.
+KEY: Key idea. The semi-anechoic chamber imitates an ideal open field with a metal ground. Because the floor reflection is part of the method, the antenna is scanned in height and the site is calibrated by its normalized site attenuation.
+H2: 25.3 Validating the site
+P: A chamber is validated by measuring its normalized site attenuation, NSA: the loss between a transmitting and a receiving antenna at specified positions, normalized by their antenna factors, compared with the theoretical value for an ideal site. CISPR 16-1-4 and ANSI C63.4 require the measured NSA to be within ±4 dB of theory across the test volume. Above 1 GHz, where the method uses absorber on the floor between the antennas to suppress the ground reflection, the site is validated instead by the site voltage standing-wave ratio, SVSWR, which must not exceed 6 dB. A chamber that fails validation produces results that no accredited lab can report.
+H2: 25.4 3 m and 10 m chambers
+P: Limits are specified at a distance, but measurements may be made at another and converted, within the rules of each standard. A 10 m chamber is large and expensive, but it puts the antenna well into the far field of large equipment and is the reference for many CISPR limits. A 3 m chamber is cheaper and more sensitive, because the field is 10.5 dB stronger, but large equipment then sits partly in the antenna's near field, and the 1/r conversion becomes approximate. The far-field distance of an object of size D is about 2D²/λ; for a 1 m object at 1 GHz it is 6.7 m, which a 3 m chamber does not satisfy.
+EQ: rfar ≈ 2D²/λ  and  r > λ/2π
+H2: Worked Example 25.2
+WEP: Find the far-field distance for a 1 m product at 1 GHz and the reactive near-field boundary λ/2π at 30 MHz.
+WES: 2 × 1² / 0.3 = 6.7 m at 1 GHz, so a 3 m chamber measures this product in its radiating near field. At 30 MHz, λ/2π = 10/(2π) = 1.6 m, so at 3 m the antenna is outside the reactive near field but not deep in the far field. Standards accept these compromises with stated uncertainty because the alternative, enormous ranges, would make testing impractical.
+H2: 25.5 Above 1 GHz: absorber on the floor and the horn's footprint
+P: Above 1 GHz the reflecting floor stops being an advantage. The ground-reflected ray produces deep nulls that move with small changes in height, and CISPR 16-1-4 therefore requires a free-space test environment: absorber is laid on the floor between the antenna and the product, turning the semi-anechoic chamber into a fully anechoic one for these frequencies. The site is validated by a site voltage standing-wave ratio measurement, S_VSWR, which must not exceed 6 dB across the test volume. The receive antenna is now a horn, and its beam must cover the product. At distance d, a horn with a 3 dB beamwidth θ illuminates a width w = 2d tan(θ/2). Horn beamwidth narrows as frequency rises, so a product that is fully covered at 1 GHz may extend outside the beam at 6 GHz, and the standard then requires the antenna to be scanned in height to find the maximum. The horn's own far field, 2D²/λ, must also lie inside the test distance: a horn with a 0.2 m aperture at 6 GHz has 2 × 0.04 / 0.05 = 1.6 m, comfortably less than 3 m.
+EQ: w = 2 d tan(θ/2),    S_VSWR ≤ 6 dB
+H2: Worked Example 25.3
+WEP: A horn has a 3 dB beamwidth of 40° at 1 GHz and 20° at 6 GHz. At a 3 m distance, find the width it illuminates at each frequency, and say whether a 1.5 m tall product is covered at 6 GHz.
+WES: At 1 GHz, w = 2 × 3 × tan 20° = 2.18 m, which covers the product. At 6 GHz, w = 2 × 3 × tan 10° = 1.06 m, less than 1.5 m, so the product is not covered and the horn must be scanned in height to find the maximum emission.
+P: The chamber measures what the product radiates. Chapter 26 measures what it pushes back into the mains, with a quite different instrument, the LISN.
+H2: Practice
+PR: Convert a 3 m reading of 45 dBµV/m to 10 m with the 1/r rule.
+PR: Find the path difference at h = 1 m, he = 0.8 m, R = 3 m.
+PR: Find the far-field distance for a 0.3 m product at 3 GHz.
+PR: What NSA tolerance must a chamber meet below 1 GHz?
+PR: Why is absorber placed on the floor for measurements above 1 GHz?
+PR: Why does the method maximize over antenna height and turntable angle?
+PR: Find the width illuminated at 3 m by a horn with a 30° beamwidth.
+ANS: 45 − 10.5 = 34.5 dBµV/m.
+ANS: √(9 + 3.24) − √(9 + 0.04) = 3.499 − 3.007 = 0.492 m.
+ANS: 2 × 0.09/0.1 = 1.8 m.
+ANS: ±4 dB of the theoretical value.
+ANS: Above 1 GHz the beams are narrower and the ground reflection would create deep, position-sensitive nulls, so the method suppresses it to approximate free space.
+ANS: The radiated pattern and the floor reflection make the field vary with position; maximizing records the worst case, so the result does not depend on where the antenna happened to be.
+ANS: 2 × 3 × tan 15° = 1.61 m.

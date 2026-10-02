@@ -1,0 +1,50 @@
+H1: Chapter 14 — Noise in Op-Amp Circuits
+P: Turn the gain of a quiet amplifier all the way up with nothing connected and you will still hear a hiss, and an oscilloscope set to its most sensitive range will show a fuzzy band instead of a flat line. That is noise: random fluctuations produced by the components themselves, present even in a circuit that is perfectly designed and perfectly built. Noise sets the smallest signal a circuit can resolve. This chapter shows where it comes from in an op-amp stage, how to add the pieces together, and how to turn a datasheet's noise densities into the microvolts you will actually see.
+H2: 14.1 Three Sources
+P: Every resistor at a temperature above absolute zero produces Johnson noise, a random voltage caused by the thermal motion of its charge carriers. Its spectral density is flat with frequency and depends only on resistance and temperature:
+EQ: e_R = √(4 k T R)    (V/√Hz)
+P: With Boltzmann's constant k = 1.380649×10⁻²³ J/K and the standard noise temperature T = 290 K, a 100 kΩ resistor produces 40.0 nV/√Hz, the value Chapter 5 declared for this book. Because the density goes as the square root of R, the other values follow by scaling: 10 kΩ gives 12.7 nV/√Hz and 1 kΩ gives 4.0 nV/√Hz.
+P: The op-amp contributes two sources of its own, both quoted on its datasheet and both referred to its input. Its voltage noise density e_n behaves like a small noisy voltage source in series with one input. Its current noise density i_n behaves like a noisy current source at each input, which becomes a voltage only when it flows through a resistance. Bipolar-input parts tend to have low e_n and relatively high i_n; CMOS and JFET parts the reverse.
+H2: 14.2 Adding Noise Correctly
+P: Independent random sources do not add like DC voltages. Their instantaneous values are uncorrelated, so it is their powers that add, and the combined density is the root of the sum of the squares (RSS). This has a pleasant consequence: the largest source dominates. A source a third the size of the largest adds only about 5% to the total, and a source a tenth the size adds half a percent.
+EQ: e_total = √(e₁² + e₂² + e₃² + …)
+P: The standard procedure refers every source to the non-inverting input, combines them there by RSS, and multiplies the total by the noise gain to get the output density. The sources for a non-inverting stage with source resistance Rₛ, feedback resistor R_f, and ground resistor R_g are: the Johnson noise of Rₛ; e_n; i_n flowing through Rₛ; i_n flowing through the parallel combination R_f ‖ R_g; and the Johnson noise of R_f ‖ R_g.
+WE: Worked Example 14.1
+PROB: A non-inverting amplifier with gain 11 uses R_f = 10 kΩ and R_g = 1 kΩ. It is driven from a 1 kΩ source. The op-amp has e_n = 10 nV/√Hz, i_n = 1 pA/√Hz, and the declared GBW of 1 MHz. Find the input-referred noise density, the output noise density, and the total output noise in microvolts rms. Use T = 290 K.
+SOL: The five contributions, referred to the input, are: source resistor √(4kT·1kΩ) ≈ 4.00 nV/√Hz; op-amp voltage noise 10.0 nV/√Hz; i_n through Rₛ, 1 pA × 1 kΩ = 1.00 nV/√Hz; i_n through R_f ‖ R_g = 909 Ω, about 0.91 nV/√Hz; and the Johnson noise of 909 Ω, about 3.82 nV/√Hz. RSS: √(4.00² + 10.0² + 1.00² + 0.91² + 3.82²) = √132.4 ≈ 11.5 nV/√Hz. Multiplying by the noise gain of 11 gives 127 nV/√Hz at the output. The closed-loop bandwidth is 1 MHz/11 ≈ 90.9 kHz, and Section 14.3 shows that a single-pole response integrates noise over 1.571 times that, about 143 kHz. The output noise is 127 nV/√Hz × √(143,000 Hz) ≈ 47.8 µV rms.
+P: The answer carries a design lesson. The op-amp's 10 nV/√Hz dominates; the resistors together add only about 15% to it. Replacing the op-amp with a 4 nV/√Hz part would roughly halve the noise. Replacing the resistors with lower values would barely move it.
+H2: 14.3 Noise Bandwidth
+P: A density, in nV/√Hz, becomes a voltage only when multiplied by the square root of a bandwidth. That bandwidth is not quite the −3 dB bandwidth, because a real filter does not stop abruptly; noise above the corner still leaks through the gradually falling skirt. The equivalent noise bandwidth (ENBW) is the width of an ideal brick-wall filter that would pass the same noise power. For a single-pole response it is π/2 ≈ 1.571 times the −3 dB frequency. For a second-order Butterworth it is 1.11 times; steeper filters approach 1.
+P: Engineers often quote noise as peak-to-peak rather than rms, because a peak-to-peak number is what an oscilloscope shows. Gaussian noise has no hard maximum, so the conversion is a convention: about 6.6 times the rms value contains the waveform 99.9% of the time. The 47.8 µV rms of Worked Example 14.1 therefore looks like roughly 320 µV peak-to-peak on a screen.
+H2: 14.4 Flicker Noise and the 1/f Corner
+P: At low frequencies, both e_n and i_n rise above their flat values. This flicker, or 1/f, noise has a density whose square rises inversely with frequency below a corner frequency f_c that the datasheet either states or shows on a plot. For precision DC measurements, a scale, a thermocouple, or a strain gauge, the band of interest often sits entirely below f_c, and the flat-band density is the wrong number to use.
+EQ: e_rms = e_n √( f_c ln(f_H / f_L) + (f_H − f_L) )
+P: This expression integrates a density that is e_n² f_c/f below the corner and e_n² above it, from a low limit f_L to a high limit f_H. The low limit is not zero, because the logarithm would diverge; in practice it is set by how long the measurement lasts. The standard datasheet band is 0.1 Hz to 10 Hz.
+WE: Worked Example 14.2
+PROB: An op-amp has e_n = 10 nV/√Hz with a 1/f corner at 100 Hz. Find its input-referred noise from 0.1 Hz to 10 Hz, rms and approximate peak-to-peak.
+SOL: The flicker term is f_c ln(f_H/f_L) = 100 × ln(100) ≈ 460.5 Hz. The white term is 10 − 0.1 = 9.9 Hz. The sum is 470.4 Hz, so e_rms = 10 nV/√Hz × √470.4 ≈ 217 nV rms, or about 1.4 µV peak-to-peak. If the 1/f corner were ignored, the same band would seem to contain only 10 nV × √9.9 ≈ 31 nV rms, seven times less. Zero-drift (chopper) op-amps exist largely to remove this low-frequency term.
+FIG: fig14_1.png | Figure 14.1 — Voltage noise density of the declared example op-amp: flat at 10 nV/√Hz above a 100 Hz corner, rising as 1/√f below it.
+H2: 14.5 Matching the Op-Amp to the Source
+P: For a given source resistance, the op-amp's voltage noise matters most when Rₛ is small, and its current noise matters most when Rₛ is large, because i_n Rₛ grows in proportion to Rₛ while the source's own Johnson noise grows only as √Rₛ. The two op-amp terms are equal at Rₛ = e_n/i_n, sometimes called the optimum source resistance; for the op-amp of Worked Example 14.1 that is 10 kΩ. A low-impedance source such as a 50 Ω microphone wants a low-e_n bipolar part. A megohm source such as a pH electrode or a photodiode's feedback network wants a CMOS or JFET part with femtoamp current noise, even if its e_n is several times higher.
+KEY: Add noise as powers, and fix the largest term first. || A density becomes a voltage only after multiplying by the square root of the noise bandwidth, which is 1.571 × f₋₃dB for a single pole.
+MIS: Making every resistor smaller is not always quieter. Below the point where e_n dominates, smaller resistors buy nothing, while they load the op-amp's output and the source more heavily. And the source's own resistance is usually fixed by physics, not by the designer; the right move is to pick the op-amp that suits that resistance.
+H2: Practice Problems
+PP: Find the Johnson noise density of a 4.7 kΩ resistor at 290 K.
+PP: Three uncorrelated noise sources of 6, 8, and 2 nV/√Hz act at the same node. Find their combined density.
+PP: An amplifier has an output noise density of 50 nV/√Hz and a single-pole −3 dB bandwidth of 20 kHz. Find its rms output noise.
+PP: An op-amp has e_n = 5 nV/√Hz and i_n = 0.5 pA/√Hz. Find the source resistance at which its voltage and current noise contributions are equal.
+PP: An op-amp has e_n = 8 nV/√Hz with a 1/f corner at 1 kHz. Find its rms noise from 0.1 Hz to 10 Hz.
+PP: Explain in a sentence or two why a low-noise bipolar op-amp can be noisier than a CMOS op-amp when the source resistance is 10 MΩ.
+SOLN: √(4 × 1.380649×10⁻²³ × 290 × 4700) ≈ 8.68 nV/√Hz.
+SOLN: √(36 + 64 + 4) = √104 ≈ 10.2 nV/√Hz.
+SOLN: ENBW = 1.571 × 20 kHz ≈ 31.4 kHz; 50 nV × √31,400 ≈ 8.86 µV rms.
+SOLN: Rₛ = e_n/i_n = 5 nV/0.5 pA = 10 kΩ.
+SOLN: Flicker term 1000 × ln(100) ≈ 4605 Hz; white term 9.9 Hz; total 4615 Hz. e_rms = 8 nV × √4615 ≈ 543 nV rms.
+SOLN: The bipolar part's current noise, perhaps 1 pA/√Hz, flows through the 10 MΩ source and produces 10 µV/√Hz, far above both its own few nV/√Hz of voltage noise and the source's roughly 400 nV/√Hz of Johnson noise; a CMOS part with femtoamp current noise contributes almost nothing through the same resistance.
+SUM: Resistors produce Johnson noise √(4kTR), 40 nV/√Hz for 100 kΩ at 290 K; op-amps add input-referred voltage and current noise. Uncorrelated sources add as root-sum-of-squares, so the largest dominates. Input-referred noise times noise gain gives output density, and density times the square root of the equivalent noise bandwidth (1.571 × f₋₃dB for one pole) gives rms voltage. Below the 1/f corner noise rises, which dominates precision DC work. The optimum source resistance e_n/i_n guides op-amp choice.
+GLOS: Johnson noise || Thermal noise of a resistance, with density √(4kTR), flat with frequency.
+GLOS: Equivalent noise bandwidth (ENBW) || The bandwidth of an ideal brick-wall filter that passes the same noise power as a real response; 1.571 times the −3 dB frequency for a single pole.
+GLOS: Flicker (1/f) noise || Low-frequency noise whose power density rises inversely with frequency below a corner frequency.
+FORM: Johnson noise density || e_R = √(4kTR)
+FORM: Noise sum (uncorrelated) || e_total = √(e₁² + e₂² + …)
+FORM: Single-pole noise bandwidth || ENBW = (π/2) f₋₃dB

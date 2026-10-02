@@ -1,0 +1,56 @@
+H1: Chapter 12. Batteries, Chargers, and Battery Management
+P: Every portable device, electric vehicle, and data-center backup system has a battery and a converter that charges it. The battery is an electrochemical source with a voltage that changes with its state of charge, a resistance that heats it, and limits that, if exceeded, damage it or set it on fire. This chapter covers the lithium-ion cell as a circuit element, the series-parallel pack, the charger's constant-current and constant-voltage profile, and the battery-management system that keeps the pack safe. The chemistry itself is outside this series; the electrical behavior is this book's.
+H2: 12.1 The cell as a circuit element
+P: A lithium-ion cell with a graphite anode and a nickel-rich or cobalt-oxide cathode has a nominal voltage of about 3.6 to 3.7 V, a full-charge voltage of 4.2 V, and a discharge cutoff near 3.0 V; lithium iron phosphate cells sit lower, about 3.2 V nominal and 3.65 V full. Capacity is quoted in ampere-hours, and energy is capacity times nominal voltage. The C-rate expresses current relative to capacity: 1C discharges the cell in about an hour. The internal resistance, tens of milliohms for a cylindrical cell and well under one milliohm for a large prismatic cell, causes a voltage drop under load and I²R heating.
+EQ: E = Q × Vnom,   I(1C) = Q / 1 h,   Pheat = I² Rint
+H2: 12.2 The pack
+P: Cells are connected in series to raise the voltage and in parallel to raise the capacity, written as, for example, 3S2P: three groups in series, each of two cells in parallel. The pack's voltage window is the cell's window times the number in series, and its energy is the total cell count times each cell's energy. Every series group must be monitored, because the weakest group limits the whole pack and a group that overcharges is the one that fails.
+H2: Worked Example 12.1
+WEP: A laptop pack is 3S2P of 3.5 Ah cells at 3.6 V nominal with 50 mΩ internal resistance. Find its nominal voltage, voltage window, capacity, energy, and the heat in the cells at a 7 A discharge.
+WES: Nominal voltage 3 × 3.6 = 10.8 V; window 9.0 to 12.6 V; capacity 2 × 3.5 = 7 Ah; energy 10.8 × 7 = 75.6 Wh, under the 100 Wh limit airlines allow in the cabin without approval. At 7 A each cell carries 3.5 A, so the six cells dissipate 6 × 3.5² × 0.05 = 3.68 W, about 5% of the 75.6 W being drawn.
+H2: 12.3 The charger
+P: Lithium-ion cells are charged in two phases. In constant current, typically 0.5C to 1C, the voltage rises until it reaches the full-charge limit, usually 4.2 V per cell, within about 50 mV. The charger then holds that voltage, constant voltage, while the current tapers; it terminates when the current falls to a small fraction of C, often C/20. The constant-current phase delivers most of the charge, about 70% to 80%, so fast charging mainly shortens that phase, at the cost of heat and of cell aging. The charger itself is a buck or buck-boost converter of the kind in Chapters 3 and 4, with current and voltage loops, and its efficiency is counted by Chapter 1's waste formula.
+H2: Worked Example 12.2
+WEP: The pack of Example 12.1 is charged at 0.5C by a 65 W adapter with 92% efficiency. Find the charge current, the approximate duration of the constant-current phase if it delivers 80% of the charge, and the adapter's waste at full power.
+WES: 0.5C is 3.5 A. The constant-current phase delivers 0.8 × 7 Ah at 3.5 A, which takes 1.6 h, and the constant-voltage taper adds a further fraction of an hour. The adapter's waste is 65 × (1/0.92 − 1) = 5.65 W.
+KEY: Key idea. A lithium-ion cell is a voltage source with a narrow allowed window and a resistance that heats it. The charger holds it inside the window with a constant-current then constant-voltage profile, and the battery-management system watches every series group.
+H2: 12.4 The battery-management system
+P: The battery-management system, BMS, measures every series group's voltage, the pack current, and temperatures, estimates the state of charge and state of health, and controls a protection switch that disconnects the pack on overvoltage, undervoltage, overcurrent, or overtemperature. Because cells age differently, the groups drift apart in charge; balancing corrects that. Passive balancing bleeds the fullest groups through resistors near the end of charge, wasting a little energy; active balancing moves charge between groups with small converters, recovering it at the cost of complexity. Large packs, such as an electric vehicle's 96S pack of about 350 V nominal and 403 V full, use isolated monitoring chips daisy-chained along the stack.
+H2: Worked Example 12.3
+WEP: A passive balancer bleeds 100 mA from a group at 4.2 V. What resistor does it use, and how much power does it dissipate?
+WES: R = 4.2/0.1 = 42 Ω, and P = 4.2 × 0.1 = 0.42 W. Over an hour, it removes 0.1 Ah, enough to correct a 3% imbalance in a 3.5 Ah group. Larger imbalances in big packs make active balancing worth its cost.
+H2: 12.5 State of charge: counting and correcting
+P: A battery-management system must tell the user how much charge remains, and no sensor measures it directly. Coulomb counting integrates the current, which is accurate over hours but accumulates every offset in the current sensor: a 5 mA error is a full ampere-hour in eight days. The open-circuit voltage gives an absolute estimate, because a rested lithium-ion cell's voltage maps to its state of charge, but the cell must rest for tens of minutes, and the map is nearly flat for lithium iron phosphate between 20 and 80 %. Practical gauges, the TI Impedance Track and the Kalman filters in electric-vehicle BMSs, combine the two: they count charge continuously, correct with voltage whenever the cell rests or a model predicts the loaded voltage well, and learn the cell's capacity and resistance as it ages.
+H2: 12.6 Cell balancing
+P: The cells of a series string never stay identical. Their self-discharge, capacity, and temperature differ, and after hundreds of cycles one cell reaches full charge before the others, or empty before them, and limits the whole pack. Passive balancing bleeds the high cells through resistors, typically 50 to 200 mA, near the top of charge, wasting a little energy but costing almost nothing. Active balancing moves charge from high cells to low ones through switched capacitors or inductors, recovering the energy and working during discharge too, at a higher cost that pays off in large packs with significant mismatch. In either case the BMS needs each cell's voltage to a few millivolts, which is what the multicell monitor chips, such as the ADI ADBMS6830 or the TI BQ79616, provide.
+H2: Worked Example 12.4
+WEP: A gauge counts charge with a 5 mA offset on a 3000 mAh phone battery. How much state-of-charge error accumulates per day, and how often must it be corrected?
+WES: 5 mA × 24 h = 120 mAh per day, 4 % of the capacity. If the user's tolerance is 5 %, the gauge must correct within about a day, which a rest of half an hour overnight allows. An electric-vehicle pack whose LFP cells give a flat voltage curve must instead correct near the top of charge, where the curve steepens, which is why some cars ask for an occasional full charge.
+H2: Worked Example 12.5
+WEP: One cell of a 100 Ah pack holds 2 % more charge than the rest at the top of charge. How long does a 100 mA passive balancer take to remove the difference?
+WES: 2 % of 100 Ah is 2 Ah, and 2 Ah/0.1 A = 20 hours of balancing. If balancing runs only during the last hour of each charge, the pack needs about 20 charges to equalize, which is fine for slow drift but not for a newly replaced cell; that case calls for active balancing or a manual pre-charge.
+H2: 12.7 How fast can a battery charge?
+P: Charging speed is limited inside the cell, not by the charger. Lithium ions must diffuse into the graphite anode, and if they arrive faster than they can intercalate, especially in the cold, they plate as metallic lithium on the anode's surface, permanently losing capacity and, in the worst case, growing dendrites that short the cell. Charge rates are therefore expressed as C-rates, multiples of the current that would charge the cell in one hour, and fast-charge profiles taper the current as the state of charge rises and the anode's potential nears the plating threshold. Electric cars at 350 kW chargers reach 3 to 5 C briefly at low charge, preheat the pack before arrival, and spend the most time between 60 and 80 %, which is why charging times are quoted from 10 to 80 %.
+H2: Worked Example 12.6
+WEP: A 75 kWh pack accepts a peak of 350 kW and averages 200 kW from 10 to 80 %. Find the peak C-rate and the charging time over that window.
+WES: 350/75 = 4.7 C at the peak. The window is 70 % of 75 kWh, 52.5 kWh, so at 200 kW average the charge takes 52.5/200 h = 15.8 minutes. Charging from 80 to 100 % at the tapered rates that follow would take about as long again for a quarter of the energy.
+P: The battery stores energy as direct current. Chapter 13 turns direct current back into the alternating current that motors and the grid need.
+H2: Practice
+PR: Find the energy of a 4S pack of 5 Ah cells at 3.6 V nominal, and its full-charge voltage.
+PR: A 14S pack uses 3.6 V cells. Find its nominal and full-charge voltages.
+PR: Two parallel 30 mΩ cells share a 4 A load. Find the total heat.
+PR: Find the 1C current of a 60 Ah cell.
+PR: Why does a fast charger mostly shorten the constant-current phase?
+PR: Why does the weakest series group limit a pack?
+PR: How long does a 3 mA current-sense offset take to accumulate a 1 % error on a 5000 mAh battery?
+PR: Why is open-circuit-voltage correction harder for LFP cells than for NMC cells?
+PR: What C-rate does a 5000 mAh phone battery see from a 25 W charger at 3.85 V, ignoring losses?
+ANS: 72 Wh; 16.8 V.
+ANS: 50.4 V nominal; 58.8 V full.
+ANS: Each cell carries 2 A: 2 × 2² × 0.03 = 0.24 W.
+ANS: 60 A.
+ANS: The constant-current phase delivers most of the charge, while the constant-voltage taper is limited by the cell's internal processes and cannot be hurried much.
+ANS: The pack must stop charging when any group reaches its maximum voltage and stop discharging when any group reaches its minimum, so the group with the least capacity sets both limits.
+ANS: 50 mAh/3 mA = 16.7 h.
+ANS: The LFP voltage curve is nearly flat between about 20 and 80 % state of charge, so a small voltage error corresponds to a large charge error; NMC's curve slopes throughout.
+ANS: 25/3.85 = 6.5 A, 1.3 C.

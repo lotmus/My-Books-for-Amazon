@@ -1,0 +1,58 @@
+H1: Chapter 13. Channel Estimation and Pilots
+P: The one-tap OFDM equalizer of Chapter 11 needs the channel's complex gain on every subcarrier, and the MIMO receivers of Chapter 7 need the whole channel matrix. The receiver learns them from pilots, known symbols placed at known positions in time and frequency. Pilots cost capacity, so a system places as few as it can while still following the channel's changes. This chapter shows how the channel's coherence bandwidth and coherence time from Chapter 5 set the pilot spacing, how noise in the estimate costs SNR, and how practical systems arrange their pilots.
+H2: 13.1 Sampling the channel
+P: Pilots sample the channel's time-frequency response, and the sampling theorem of Chapter 2 applies. In frequency, the channel's response varies on the scale of the coherence bandwidth, set by the delay spread; pilots spaced Δfp apart can represent a channel whose delays extend up to 1/Δfp. In time, the channel varies on the scale of the coherence time, set by the Doppler spread; pilots spaced Tp apart can follow a Doppler of up to 1/(2Tp). Between pilots, the receiver interpolates.
+EQ: τmax < 1/Δfp,   fD,max < 1/(2Tp)
+H2: Worked Example 13.1
+WEP: An LTE-like system has 15 kHz subcarriers with reference signals every third subcarrier after staggering, and a pilot interval of 0.5 ms in time. Find the maximum delay and Doppler the pattern supports, and the speed at a 2 GHz carrier.
+WES: Δfp = 45 kHz, so τmax = 1/45,000 = 22.2 µs, well beyond the 4.7 µs cyclic prefix. With Tp = 0.5 ms, fD,max = 1/(2 × 0.0005) = 1000 Hz. At 2 GHz, λ = 0.150 m, so the speed is fD λ = 150 m/s, about 540 km/h. Practical estimators reach only part of these limits, because noise and imperfect interpolation degrade the estimate near them, but the margin explains why the pattern serves high-speed trains.
+H2: 13.2 The least-squares estimate and its noise
+P: At a pilot, the received value divided by the known pilot symbol is the least-squares estimate of the channel. It is unbiased but noisy: its error variance is the noise power divided by the pilot power. Using a noisy estimate to equalize the data adds a second noise term, so the effective SNR is lower than the data SNR. Averaging the estimates of K pilots within the coherence region divides their noise by K, and a minimum mean-square-error estimator, using the channel's known correlation across time and frequency, does better still.
+EQ: SNReff ≈ 1 / (1/SNR + 1/SNRpilot),   SNRpilot = K × Ep/N0
+H2: Worked Example 13.2
+WEP: The data SNR is 20 dB. Find the effective SNR if the channel is estimated from a single pilot at the same SNR, and if eight pilots are averaged.
+WES: With one pilot, SNRpilot = 100, and SNReff = 1/(0.01 + 0.01) = 50, or 17.0 dB, a 3 dB loss. Averaging eight pilots raises SNRpilot to 800, 29.0 dB, and SNReff = 1/(0.01 + 0.00125) = 88.9, or 19.5 dB, a loss of only 0.5 dB.
+KEY: Key idea. Pilots sample the channel in time and frequency, so their spacing must satisfy a sampling theorem set by the delay spread and the Doppler. Their number and power set how much SNR the noisy estimate costs.
+H2: 13.3 Pilot overhead and patterns
+P: Every pilot replaces a data symbol, so the pilot density is a direct overhead. A pattern with one pilot in six subcarriers on two of seven symbols spends 2/42 = 4.8% of its resources on pilots per antenna port; multiple antennas multiply that, since each transmit antenna needs its own pilots, kept orthogonal by placing them on different resources or codes. Wi-Fi uses 4 pilot subcarriers out of 52 in a 20 MHz channel, 7.7%, to track phase, plus a training field at the start of each packet for the full channel. 5G NR makes its demodulation reference signals configurable, adding more for fast-moving users and fewer for static ones, an adaptive version of the same trade.
+H2: 13.4 Blind and decision-directed methods
+P: Once data symbols have been decided, the receiver can treat them as extra pilots, refining the channel estimate without any overhead, as the decision-directed equalizer of Chapter 11 does. Errors in the decisions then corrupt the estimate, so the method works best at high SNR and in combination with the decoder, iterating between estimation and decoding. Blind methods that use only the signal's statistics need no pilots at all but converge slowly and leave a phase ambiguity, so practical systems keep at least a few pilots.
+H2: 13.5 How dense must the pilots be?
+P: Pilots sample the channel in two dimensions, and each dimension has its own Nyquist rule. Across frequency, the channel's response varies on the scale of the coherence bandwidth, which is set by the delay spread; pilots spaced D_f subcarriers apart can represent a channel whose impulse response is shorter than 1/(D_f Δf). Across time, the channel changes at the Doppler rate; pilots repeated every D_t symbols of duration T_s must satisfy D_t T_s < 1/(2 f_d). Designers leave a factor of two of margin on both, because interpolation filters are not ideal and the noise on each pilot needs averaging. LTE's cell reference signal uses a spacing of six subcarriers on each antenna port, staggered between symbols so that two symbols together sample every third subcarrier. 5G NR leaves the density configurable: one front-loaded demodulation reference symbol per slot for slow users, up to three additional ones for fast trains.
+EQ: Df Δf τmax < 1,    Dt Ts < 1 / (2 fd)
+H2: 13.6 Better than least squares
+P: The least-squares estimate of Section 13.2 treats each pilot alone. Two kinds of prior knowledge improve it. The first is the SNR itself: for a channel coefficient of unit average power, the per-pilot MMSE estimate scales the least-squares value by SNR/(1 + SNR), which reduces the mean-square error from 1/SNR to 1/(1 + SNR), a large gain at low SNR and a negligible one at high SNR. The second is the correlation between pilots: the channel's impulse response is no longer than the cyclic prefix, so an estimate across N subcarriers can be transformed to the time domain, the taps beyond the prefix length L set to zero as pure noise, and transformed back. That DFT-based estimate cuts the noise by N/L. The full two-dimensional Wiener filter combines both, using the delay and Doppler statistics, and is what high-end base stations run; handsets usually use separable one-dimensional filters, one across frequency and one across time.
+H2: Worked Example 13.3
+WEP: A 5G NR user moves at 120 km/h at 3.5 GHz with 30 kHz spacing, where a slot lasts 0.5 ms. Is one reference symbol per slot enough? Repeat for a high-speed train at 500 km/h.
+WES: At 120 km/h, 33.3 m/s, the Doppler shift is 33.3 × 3.5 × 10⁹/(3 × 10⁸) = 389 Hz, so the channel must be sampled at least every 1/(2 × 389) = 1.29 ms. One reference symbol per 0.5 ms slot samples it 2.6 times faster than the limit, adequate. At 500 km/h the Doppler is 1.62 kHz and the limit 0.31 ms, shorter than a slot: at least two, and with margin three or four, reference symbols per slot are needed, which is why the standard allows additional ones.
+H2: Worked Example 13.4
+WEP: A pilot is received at an SNR of 5 dB. Compare the mean-square error of the least-squares and per-pilot MMSE estimates. Then find the gain of a DFT-based estimator over 64 pilots for a channel no longer than 16 taps.
+WES: SNR = 3.16. LS gives 1/3.16 = 0.316; MMSE gives 1/4.16 = 0.240, a 1.2 dB improvement. Zeroing the 48 time-domain taps beyond the channel length keeps only 16 of 64 noise terms, a reduction of 64/16 = 4, or 6.0 dB, much more than the per-pilot scaling.
+H2: 13.7 Channel aging
+P: An estimate is only useful while the channel still resembles it. Under Clarke's model of uniformly scattered paths, the correlation between the channel at two instants τ apart is J₀(2π f_d τ), the zero-order Bessel function, which falls to 0.9 at f_d τ ≈ 0.10 and first crosses zero at f_d τ ≈ 0.38. A base station that beamforms with a channel measured a few milliseconds earlier is steering by a stale map: the array gain of Chapter 18 shrinks in proportion to the squared correlation, and the residual becomes interference between users. This is why massive MIMO works best for pedestrians, why 5G lets the sounding reference signal repeat every few slots, and why fast users fall back to more robust transmission modes.
+EQ: ρ(τ) = J₀(2π fd τ)
+H2: Worked Example 13.5
+WEP: A user at 120 km/h and 3.5 GHz, with a Doppler of 389 Hz, sends sounding signals. Find the channel correlation after 0.2 ms, 0.5 ms, and 5 ms. Repeat at walking speed, 1 m/s, after 5 ms.
+WES: At 389 Hz, J₀(2π × 389 × 0.2 ms) = 0.94, J₀ at 0.5 ms = 0.66, and at 5 ms the correlation is near zero, 0.10. Precoding for this user must use estimates less than about 0.3 ms old. At 1 m/s the Doppler is 1 × 3.5 × 10⁹/(3 × 10⁸) = 11.7 Hz, and J₀(2π × 11.7 × 5 ms) = 0.97: a 5 ms sounding period is fine for a pedestrian.
+P: Pilots give the receiver its view of the channel. When many users share the same channel, the base station must also decide who gets which part of it, the subject of Chapter 14.
+H2: Practice
+PR: Pilots are spaced 120 kHz apart in frequency. What maximum delay can they represent?
+PR: Pilots repeat every 0.25 ms. What maximum Doppler can they follow, and what speed is that at 3.5 GHz?
+PR: The data SNR is 25 dB, and the pilot estimate averages four pilots at the same SNR. Find the effective SNR.
+PR: A pattern uses 1 subcarrier in 4 on 1 symbol in 7. What is the overhead?
+PR: Why do multiple transmit antennas increase pilot overhead?
+PR: Why does a decision-directed estimator work poorly at low SNR?
+PR: Pilots are spaced every 4 subcarriers at 15 kHz spacing. What is the longest channel impulse response they can represent?
+PR: Find the per-pilot MMSE error at an SNR of 0 dB and its improvement over least squares.
+PR: Find the maximum pilot spacing in time for a Doppler shift of 100 Hz.
+PR: At what product of Doppler and delay does Clarke's channel correlation first reach zero?
+ANS: 8.3 µs.
+ANS: 2000 Hz, about 617 km/h.
+ANS: 24.0 dB.
+ANS: 1/28 = 3.6%.
+ANS: The receiver must estimate the channel from each transmit antenna separately, so each needs its own orthogonal pilots.
+ANS: Decision errors are frequent at low SNR, and each wrong decision feeds a wrong reference into the channel estimate.
+ANS: 1/(4 × 15 kHz) = 16.7 µs.
+ANS: MMSE 1/(1 + 1) = 0.5 against 1.0 for least squares, a 3 dB improvement.
+ANS: 1/(2 × 100 Hz) = 5 ms, about 2.5 ms with margin.
+ANS: fd τ ≈ 0.38, the first zero of J₀ at 2.405.

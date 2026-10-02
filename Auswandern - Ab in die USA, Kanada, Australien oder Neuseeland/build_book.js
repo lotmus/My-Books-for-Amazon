@@ -1,5 +1,6 @@
 "use strict";
-// Builds build/Auswandern - Ab in die USA, Kanada, Australien oder Neuseeland.docx from manuscript/*.md
+// Builds the DOCX from the numbered part folders under manuscript/.
+// listManuscriptFiles ignores loose .md copies in the manuscript root.
 //   node build_book.js [--dir manuscript] [--out build/Auswandern - Ab in die USA, Kanada, Australien oder Neuseeland.docx]
 // Page: 6x9in trim, 0.75in margins (KDP-safe up to 500 pages).
 // The table of contents is a real Word TOC field; run finalize_docx.ps1 to

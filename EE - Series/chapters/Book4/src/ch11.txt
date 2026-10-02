@@ -1,0 +1,32 @@
+H1: Chapter 11. Broadband Matching and the Bode-Fano Limit
+P: Chapters 3 and 4 matched one impedance to another at a single frequency. Real signals occupy bands, and many systems, from wideband radios to test equipment, must match over an octave or more. This chapter asks how wide a match can be. Multisection transformers and low-Q networks widen it, and the Bode-Fano criterion sets a hard limit that no network, however clever, can exceed when the load stores energy in a reactance.
+H2: 11.1 Q and bandwidth
+P: An L-network's Q, from Chapter 3, is fixed by the ratio of the resistances: Q = √(Rhigh/Rlow − 1). A higher Q means a narrower band, roughly f0/Q for the match to stay within a few decibels of return loss. Matching 50 Ω to 100 Ω needs Q = 1 and is naturally broadband; matching 50 Ω to 500 Ω needs Q = 3. The cure for a high ratio is to split the transformation into steps, each with a lower Q: two L-sections through an intermediate resistance, or several quarter-wave sections whose impedances step gradually.
+H2: 11.2 Multisection transformers
+P: A single quarter-wave transformer is matched exactly only at its design frequency. A multisection transformer uses several quarter-wave sections whose small reflections are chosen to cancel over a band. The binomial design makes the response maximally flat at the center; the Chebyshev design allows a ripple of chosen size in return for a wider band. Pozar gives the bandwidth for a maximum tolerated reflection Γm in closed form. For a single section, Δf/f0 = 2 − (4/π) arccos[(Γm/√(1 − Γm²)) × 2√(Z0ZL)/|ZL − Z0|]; for an N-section binomial design, Δf/f0 = 2 − (4/π) arccos[½(Γm/A)^(1/N)], with A = 2^(−N)(ZL − Z0)/(ZL + Z0).
+EQ: binomial: ln(Zn+1/Zn) ≈ 2^(−N) C(N, n) ln(ZL/Z0)
+H2: Worked Example 11.1
+WEP: Match 50 Ω to 100 Ω with a maximum reflection of 0.1 (20 dB return loss). Find the fractional bandwidth of a single quarter-wave section and of a two-section binomial transformer, and the section impedances.
+WES: The single section has impedance √(50 × 100) = 70.7 Ω and a fractional bandwidth of 0.367, or 36.7%. For two binomial sections, A = ¼ × 50/150 = 0.0833, and the bandwidth is 2 − (4/π) arccos(½ × (0.1/0.0833)^½) = 0.738, or 73.8%, twice as wide. The section impedances are 50 × 2^(1/4) = 59.5 Ω and 50 × 2^(3/4) = 84.1 Ω.
+H2: 11.3 The Bode-Fano limit
+P: Many loads are not resistive: a transistor's input looks like a resistance in parallel or series with a capacitance, and an antenna has stored reactive energy. Bode and Fano showed that for a parallel RC load matched by any lossless network, the integral of ln(1/|Γ|) over angular frequency cannot exceed π/(RC). If the match is held at a constant reflection Γ over a band Δω and is total reflection elsewhere, the best achievable is ln(1/Γ) = π/(RC Δω). A wider band forces a worse match, and a larger capacitance makes it worse still. The limit applies to every possible network, so it tells a designer when to stop trying.
+EQ: ∫ ln(1/|Γ(ω)|) dω ≤ π/(RC);   rectangular best case: Γ = exp[−π/(RC Δω)]
+H2: Worked Example 11.2
+WEP: A transistor's input is 50 Ω in parallel with 5 pF. What is the best return loss any lossless network can achieve over a 1 GHz band, and over a 2 GHz band?
+WES: For Δf = 1 GHz, π/(RC Δω) = π/(50 × 5 × 10⁻¹² × 2π × 10⁹) = 2.0, so Γ = e^(−2) = 0.135, a return loss of 17.4 dB and a mismatch loss of 0.08 dB. For 2 GHz the exponent halves to 1.0, so Γ = 0.368, a return loss of only 8.7 dB and a mismatch loss of 0.63 dB. Doubling the bandwidth halves the logarithm of the achievable return loss.
+KEY: Key idea. A reactive load limits the product of bandwidth and match quality. The Bode-Fano integral sets that limit for every possible lossless network, so wideband designs must accept a poorer match, add loss, or reduce the load's reactance.
+H2: 11.4 Ways around the limit
+P: Since the limit applies to lossless matching of a fixed load, designers escape it in three ways. They can change the load: smaller transistors or distributed amplifiers, which absorb the device capacitance into an artificial transmission line, achieve multioctave bandwidths. They can add loss: resistive matching or feedback flattens the response at the cost of gain and noise figure, a trade that Part II's LNA chapter weighs. Or they can use balanced structures, like the balanced amplifier of Chapter 9, which hide each device's poor match behind hybrids. Test equipment and wideband receivers use all three.
+H2: Practice
+PR: Find the L-network Q to match 10 Ω to 50 Ω.
+PR: Find the section impedances of a two-section binomial transformer from 50 Ω to 200 Ω.
+PR: For a 50 Ω ∥ 2 pF load, what is the best return loss over a 2 GHz band?
+PR: What is the widest band over which a 50 Ω ∥ 2 pF load can be matched to a 10 dB return loss?
+PR: Why does a Chebyshev transformer give more bandwidth than a binomial one with the same number of sections?
+PR: Why does a distributed amplifier escape the Bode-Fano limit of a single transistor?
+ANS: Q = 2.
+ANS: 70.7 Ω and 141.4 Ω.
+ANS: The exponent is 2.5, so Γ = 0.082, a return loss of 21.7 dB.
+ANS: Δf = 1/(2RC ln(1/Γ)) = 4.34 GHz.
+ANS: It allows a controlled ripple within the passband instead of requiring a maximally flat response, which spreads the zeros of reflection across the band.
+ANS: It absorbs the device capacitances into an artificial transmission line whose characteristic impedance is resistive over a wide band, so no single capacitance has to be matched.

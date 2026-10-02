@@ -1,0 +1,62 @@
+H1: Chapter 19. Interference and the Cellular SINR
+P: A single link is limited by noise. A network is limited by itself: every base station is an interferer to the users of its neighbors. The quantity that sets a cellular user's rate is the signal-to-interference-plus-noise ratio, SINR, and its distribution across the cell, especially at the edge, sets the network's capacity. This chapter computes SINR in simple geometries, shows the trade made by frequency reuse, and outlines the coordination techniques that modern networks use.
+H2: 19.1 SINR
+P: The SINR is the wanted power divided by the sum of all interference and noise. In the interior of a dense network, interference dominates and noise is irrelevant; raising every base station's power then changes nothing, because signal and interference rise together. With a path-loss exponent n, typically 3 to 4 in urban environments, a user at distance r from its serving station and D from an equal-power interferer has an SIR of (D/r)^n. At the boundary between two cells, r = D and the SIR is 0 dB, before counting any other interferers.
+EQ: SINR = S / (Σ Ii + N),   SIR (one interferer) = (D/r)^n
+H2: Worked Example 19.1
+WEP: With n = 3.5, a user is 0.8 km from its station and 1.2 km from the nearest interferer. Find the SIR and the Shannon spectral efficiency, ignoring noise and other interferers.
+WES: SIR = 1.5^3.5 = 4.13, or 6.2 dB, and log₂(1 + 4.13) = 2.36 bit/s/Hz. At the cell edge, SIR = 0 dB and the efficiency falls to log₂2 = 1 bit/s/Hz, or less with several interferers. The edge, not the center, sets the coverage guarantee.
+H2: 19.2 Frequency reuse
+P: Older networks gave neighboring cells different frequencies, so the nearest co-channel interferer was several cells away. With a reuse factor of 3, each cell gets a third of the spectrum, and the interference falls sharply. Modern OFDMA networks use reuse 1, every cell on every frequency, because the full bandwidth at a lower SINR yields more throughput for most users than a third of it at a higher SINR. Reuse 1 makes the cell edge harder, which the techniques of the next section address.
+H2: Worked Example 19.2
+WEP: A cell-edge user has SINR 0 dB with reuse 1. With reuse 3 the SINR rises to 10 dB, but the user gets a third of the bandwidth. Compare their throughputs per hertz of total spectrum.
+WES: Reuse 1: log₂(1 + 1) = 1.0 bit/s/Hz over the full band. Reuse 3: log₂(1 + 10) = 3.46 bit/s/Hz over a third of it, 1.15 bit/s/Hz of total spectrum. The edge user gains 15% from reuse 3, but users nearer the center, who already have high SINR, would lose nearly two-thirds of their rate, so reuse 1 wins overall, with the edge handled separately.
+KEY: Key idea. In a cellular network, interference, not noise, limits most users. Reuse 1 maximizes total throughput but weakens the cell edge, which coordination, power control, and beamforming then repair.
+H2: 19.3 Coordination
+P: Networks protect the cell edge in several ways. Soft or fractional frequency reuse gives edge users a protected part of the band. Inter-cell interference coordination schedules neighboring cells so that their edge users avoid the same resources. Coordinated multipoint transmission has several stations serve one user jointly. Beamforming, Chapter 18's subject, reduces interference by directing energy only where it is wanted. Uplink power control keeps near users from swamping far ones, a necessity inherited from the CDMA systems of Chapter 12.
+H2: 19.4 Adjacent-channel interference: ACLR, ACS, and ACIR
+P: Interference also comes from the neighboring channel, through two imperfections. The transmitter leaks a fraction of its power into the adjacent channel, which is its adjacent-channel leakage ratio, ACLR. The receiver lets a fraction of an adjacent signal through its channel filter and its converters, which is its adjacent-channel selectivity, ACS. The interference that results combines the two as a parallel sum, so the weaker of the two dominates. 3GPP sets the handset requirements at an ACLR of 30 dB and an ACS of 33 dB for a 5 MHz-class carrier, and base stations to 45 dB of ACLR, which makes the handset receiver the limit for downlink coexistence and the handset transmitter the limit for uplink coexistence.
+EQ: 1/ACIR = 1/ACLR + 1/ACS    (linear ratios)
+H2: 19.5 Noise rise in the uplink
+P: An uplink receiver sees the sum of its own users' signals, the interference from users in other cells, and thermal noise. The interference over thermal, the ratio of total received power to thermal noise, rises as the load grows; for a CDMA or a power-controlled OFDMA uplink at a load factor η between 0 and 1, the noise rise is −10 log₁₀(1 − η). At 50 % load the receiver appears 3 dB noisier than its noise figure suggests, at 75 % load 6 dB, and near 100 % the cell becomes unstable as each user raises its power to overcome the others. Network planners therefore cap the uplink load at 50 to 75 % and budget the corresponding noise rise in every link budget.
+EQ: noise rise = −10 log₁₀(1 − η)
+H2: Worked Example 19.3
+WEP: A base station transmitter has an ACLR of 45 dB, and a handset in the next channel has an ACS of 33 dB. Find the ACIR, and the interference a handset sees from a neighbor operator's base station whose signal arrives 20 dB stronger than its own.
+WES: 1/ACIR = 10⁻⁴·⁵ + 10⁻³·³ = 3.16 × 10⁻⁵ + 5.01 × 10⁻⁴ = 5.33 × 10⁻⁴, so ACIR = 32.7 dB, almost entirely set by the handset's ACS. The neighbor's signal at +20 dB arrives 20 − 32.7 = −12.7 dB relative to the wanted signal, which caps the SINR at 12.7 dB. Such near-far geometries, a handset next to a competitor's tower, set the guard bands between operators.
+H2: Worked Example 19.4
+WEP: An uplink is planned for 75 % load. How much must the link budget allow for noise rise, and how much does raising the cap to 90 % cost?
+WES: At 75 %, −10 log₁₀(0.25) = 6.0 dB. At 90 %, −10 log₁₀(0.10) = 10.0 dB: 4 dB more margin for 15 % more load, which shrinks the cell edge. With n = 3.5, 4 dB reduces the range by a factor of 10^(4/35) = 1.30.
+H2: 19.6 Densification and the interference-limited network
+P: The cheapest way to raise a network's capacity has always been to add cells. In an interference-limited network with a single path-loss exponent, shrinking every distance by the same factor leaves every SIR unchanged, because wanted and interfering powers scale together. The SIR distribution, and so each cell's spectral efficiency, stays the same, while the number of cells per square kilometer grows as the inverse square of the spacing. Halving the spacing quadruples the capacity per area. The argument breaks down in two places: very small cells see line-of-sight interferers with a lower path-loss exponent, so their SIR degrades, and every cell needs a backhaul link, power, and a site, which in the end limit densification more than physics does.
+H2: Worked Example 19.5
+WEP: A city is served by macro cells at 1.5 km spacing with an average spectral efficiency of 2 bit/s/Hz per cell on 100 MHz. Find the capacity per square kilometer, assuming hexagonal cells, and the effect of adding small cells that bring the effective spacing to 500 m with the same efficiency.
+WES: A hexagonal cell of spacing D has an area of (√3/2)D², 1.95 km² at 1.5 km. Each cell carries 2 × 100 MHz = 200 Mbit/s, so 103 Mbit/s per km². At 500 m spacing the cell area is 0.217 km² and the capacity 922 Mbit/s per km², nine times as much, the square of the spacing ratio of 3.
+H2: 19.7 Sharing an unlicensed band
+P: In the unlicensed bands there is no operator to coordinate cells, and the medium itself has to be shared. Wi-Fi's rule is listen-before-talk: a station defers if it detects another Wi-Fi preamble above −82 dBm in a 20 MHz channel, or any energy above −62 dBm. In a dense apartment block, a station hears dozens of neighboring networks above −82 dBm and defers to all of them, even when its own link is strong enough to work through their interference. 802.11ax added BSS coloring: each network marks its frames with a color, and a station that recognizes a frame from another network may raise its detection threshold, up to −62 dBm, if it also lowers its transmit power correspondingly. Spatial reuse, not raw rate, is where dense Wi-Fi gains capacity. LTE and NR in unlicensed spectrum, LAA and NR-U, adopt the same listen-before-talk rule so that they coexist with Wi-Fi.
+H2: Worked Example 19.6
+WEP: A station raises its detection threshold for other networks' frames from −82 dBm to −62 dBm. With a path-loss exponent of 3.5, by what factor does the radius within which it defers shrink, and the area?
+WES: A 20 dB change in threshold changes the distance by 10^(20/35) = 3.7 and the area by 3.7² = 13.9. The station now defers to about one fourteenth as many neighbors, provided its own link has enough margin to tolerate their interference.
+P: SINR, reuse, coordination, and the adjacent-channel and noise-rise terms describe a terrestrial network. Chapter 20 lifts the base station into orbit, where geometry and Doppler rewrite those numbers.
+H2: Practice
+PR: Find the SIR for n = 4 at r = 0.5 km and D = 1 km.
+PR: Find the SINR when S = −80 dBm, total interference −85 dBm, and noise −95 dBm.
+PR: Find the spectral efficiency at SINR = 10.5 dB.
+PR: With n = 3.5, what distance ratio D/r gives an SIR of 10 dB?
+PR: Why does raising every base station's power not improve an interference-limited network?
+PR: Why do OFDMA networks use reuse 1?
+PR: Find the ACIR for an ACLR of 30 dB and an ACS of 33 dB.
+PR: What noise rise corresponds to an uplink load of 60 %?
+PR: Why is the downlink coexistence between operators limited by the handset rather than the base station?
+PR: By what factor does capacity per area grow when cell spacing falls from 400 m to 100 m, in an interference-limited network?
+PR: What change in deferral radius does a 10 dB higher threshold give with n = 3?
+ANS: 2⁴ = 16, or 12.0 dB.
+ANS: Interference plus noise is −84.6 dBm, so SINR = 4.6 dB.
+ANS: log₂(1 + 11.2) = 3.61 bit/s/Hz.
+ANS: 10^(1/3.5) = 1.93.
+ANS: Signal and interference both scale with the transmit power, so their ratio is unchanged; only noise becomes smaller in comparison.
+ANS: Using the full bandwidth everywhere gives most users more throughput than a fraction of it at higher SINR, and the cell edge can be protected by coordination instead.
+ANS: 1/ACIR = 10⁻³ + 5.01 × 10⁻⁴ = 1.50 × 10⁻³, ACIR = 28.2 dB.
+ANS: −10 log₁₀(0.4) = 4.0 dB.
+ANS: The base station's ACLR, 45 dB, is far better than the handset's ACS, 33 dB, and the parallel sum is dominated by the weaker of the two.
+ANS: (400/100)² = 16.
+ANS: 10^(10/30) = 2.15 times smaller.

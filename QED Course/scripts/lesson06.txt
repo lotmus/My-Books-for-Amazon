@@ -1,0 +1,335 @@
+TITLE: Hamiltonian Mechanics
+TAGLINE: The Legendre transformation, Hamilton's equations, phase space, Poisson brackets, and the canonical structure inherited by quantum theory
+NUM: 6
+NEXT: Lesson 7 develops the Maxwell equations: the fields E and B, charge and current, the four equations in differential and integral form, electromagnetic waves, and the covariant form ∂_μF^μν = j^ν that every later lesson uses.
+
+# How to use this lesson
+
+The Lagrangian formulation of Lesson 5 is the natural language for writing down a theory and for exhibiting its symmetries. The Hamiltonian formulation is the natural language for quantizing it. Canonical quantization, the route to quantum field theory followed in Part V, consists of taking a Hamiltonian system and replacing Poisson brackets by commutators. Everything in that procedure, from [x, p] = i to the creation and annihilation operators of the photon field, has a classical counterpart introduced here.
+
+The lesson moves from the Legendre transformation to Hamilton's equations, then to phase space and Poisson brackets, and ends with the two examples that matter most for QED: the harmonic oscillator in complex variables, and the charged particle with its minimal coupling rule. The final section states the rule that turns all of it into quantum mechanics. Expect six to eight focused hours.
+
+## Learning objectives
+
+- Perform the Legendre transformation from the Lagrangian to the Hamiltonian.
+
+- Derive Hamilton's equations and use them to solve simple systems.
+
+- Describe motion as a trajectory in phase space and state Liouville's theorem.
+
+- Compute Poisson brackets and use them to express time evolution and conservation laws.
+
+- Show that conserved quantities generate the symmetries to which they correspond.
+
+- Rewrite the harmonic oscillator in complex variables a and a* with H = ωa*a.
+
+- Write the Hamiltonian of a charged particle and state the minimal coupling rule.
+
+- State the correspondence between Poisson brackets and commutators that defines canonical quantization.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| q, p | Generalized coordinate and its conjugate momentum |
+| H(q, p, t) | Hamiltonian, the Legendre transform of L |
+| {f, g} | Poisson bracket of the phase-space functions f and g |
+| δᵢⱼ | Kronecker delta |
+| εᵢⱼₖ | Levi Civita symbol in three dimensions |
+| a, a* | Complex normal-mode variables of the oscillator |
+| ω_c | Cyclotron frequency qB/m |
+| [f, g] | Commutator fg − gf of operators |
+| ℏ | Set to 1 except where displayed for emphasis |
+
+# 1 The Legendre transformation
+
+## 1.1 Changing the independent variable
+
+The Lagrangian is a function of q and q̇. The Hamiltonian describes the same system as a function of q and the canonical momentum p = ∂L/∂q̇. The change of variable from q̇ to p is a Legendre transformation, the same operation that converts internal energy to free energy in thermodynamics.
+
+$$ H(q, p, t) = Σᵢ pᵢ q̇ᵢ − L(q, q̇, t),  with q̇ᵢ expressed through pᵢ = ∂L/∂q̇ᵢ
+
+The transformation is possible when the relation p = ∂L/∂q̇ can be inverted for q̇, which requires the matrix ∂²L/∂q̇ᵢ∂q̇ⱼ to be nonsingular. When it is singular the system has constraints; the electromagnetic field is the important example, and Lesson 38 shows how gauge freedom produces that singularity.
+
+## 1.2 The standard case
+
+For L = T − V with T = (1/2)m q̇², the momentum is p = m q̇ and
+
+$$ H = p²/(2m) + V(q)
+
+The Hamiltonian is the total energy expressed in terms of position and momentum. For any Lagrangian without explicit time dependence, H equals the energy function h of Lesson 5, so H is conserved.
+
+### Worked example 1
+
+For the harmonic oscillator, L = (1/2)m q̇² − (1/2)m ω² q², p = m q̇, and H = p²/(2m) + (1/2)m ω² q². For the pendulum, L = (1/2)m l² θ̇² + m g l cos θ, the momentum is p_θ = m l² θ̇ and H = p_θ²/(2m l²) − m g l cos θ. Note that p_θ has the dimensions of angular momentum, not momentum; conjugate momenta take their dimensions from their coordinates so that p q always has the dimension of action.
+
+# 2 Hamilton's equations
+
+## 2.1 Derivation
+
+Take the differential of H = Σ pᵢ q̇ᵢ − L, treating q̇ as a function of (q, p).
+
+$$ dH = Σᵢ (q̇ᵢ dpᵢ + pᵢ dq̇ᵢ) − Σᵢ [(∂L/∂qᵢ) dqᵢ + (∂L/∂q̇ᵢ) dq̇ᵢ] − (∂L/∂t) dt
+
+The terms in dq̇ᵢ cancel because pᵢ = ∂L/∂q̇ᵢ; this cancellation is the point of the Legendre transformation. The Euler–Lagrange equations give ∂L/∂qᵢ = ṗᵢ, so dH = Σ(q̇ᵢ dpᵢ − ṗᵢ dqᵢ) − (∂L/∂t)dt. Reading off the partial derivatives,
+
+$$ q̇ᵢ = ∂H/∂pᵢ,    ṗᵢ = −∂H/∂qᵢ,    ∂H/∂t = −∂L/∂t
+
+These are Hamilton's equations: 2n first order equations in place of n second order ones. The asymmetry of sign between the two is the signature of the canonical structure, and it is what the Poisson bracket encodes.
+
+## 2.2 Conservation of the Hamiltonian
+
+Along a solution, dH/dt = Σ[(∂H/∂qᵢ) q̇ᵢ + (∂H/∂pᵢ) ṗᵢ] + ∂H/∂t = Σ[−ṗᵢ q̇ᵢ + q̇ᵢ ṗᵢ] + ∂H/∂t = ∂H/∂t. If H does not depend explicitly on time, it is conserved.
+
+### Worked example 2
+
+Solve the oscillator with Hamilton's equations. From H = p²/(2m) + (1/2)m ω² q²: q̇ = p/m and ṗ = −m ω² q. Differentiating the first and substituting the second gives q̈ = −ω² q, so with q(0) = q₀ and p(0) = 0, q = q₀ cos ωt and p = −m ω q₀ sin ωt. The energy H = (1/2)m ω² q₀² is constant, as the equations guarantee.
+
+# 3 Phase space
+
+## 3.1 The state as a point
+
+The state of a system at one instant is specified by the 2n numbers (q, p). The space of these points is phase space, and Hamilton's equations define a flow on it: through every point passes exactly one trajectory, because the equations are first order with a unique solution for given initial data. Trajectories never cross. This is the classical version of the statement that a quantum state determines its own future.
+
+## 3.2 The oscillator
+
+The trajectories of the oscillator are the curves of constant energy, p²/(2m) + (1/2)m ω² q² = E, ellipses with semi-axes √(2E/(mω²)) along q and √(2mE) along p. The area enclosed by an ellipse is
+
+$$ ∮ p dq = π √(2E/(mω²)) √(2mE) = 2πE/ω
+
+The old quantum theory required this area to be an integer multiple of 2πℏ, which gives E = nℏω. The correct quantum result E = (n + 1/2)ℏω differs by the zero-point energy, but the idea that phase-space area is measured in units of 2πℏ survives: it is why the density of states of a field is d³x d³p/(2πℏ)³, and it is the origin of the (2π)³ factors in every momentum integral of the course.
+
+## 3.3 Liouville's theorem
+
+The flow in phase space is incompressible. The divergence of the velocity field (q̇, ṗ) is
+
+$$ Σᵢ [∂q̇ᵢ/∂qᵢ + ∂ṗᵢ/∂pᵢ] = Σᵢ [∂²H/∂qᵢ∂pᵢ − ∂²H/∂pᵢ∂qᵢ] = 0
+
+so a region of phase space carried along by the flow changes shape but not volume. This is Liouville's theorem. It is the classical counterpart of unitarity: quantum evolution preserves probability just as classical evolution preserves phase-space volume.
+
+### Worked example 3
+
+For the pendulum, H = p_θ²/(2ml²) − mgl cos θ. Trajectories with E < mgl are closed curves around the origin (oscillation); trajectories with E > mgl run across all θ (rotation). The curve E = mgl is the separatrix, passing through the unstable equilibrium θ = π, p_θ = 0. Near the origin the curves are ellipses and the motion is harmonic; the separatrix is where the small-angle approximation fails completely. Phase portraits of this kind make the qualitative behavior visible before any equation is solved.
+
+# 4 Poisson brackets
+
+## 4.1 Definition
+
+For two functions f and g on phase space,
+
+$$ {f, g} = Σᵢ [ (∂f/∂qᵢ)(∂g/∂pᵢ) − (∂f/∂pᵢ)(∂g/∂qᵢ) ]
+
+The fundamental brackets follow immediately.
+
+$$ {qᵢ, qⱼ} = 0,    {pᵢ, pⱼ} = 0,    {qᵢ, pⱼ} = δᵢⱼ
+
+## 4.2 Time evolution
+
+The total time derivative of any f(q, p, t) along a trajectory is, by Hamilton's equations,
+
+$$ df/dt = Σᵢ [(∂f/∂qᵢ) q̇ᵢ + (∂f/∂pᵢ) ṗᵢ] + ∂f/∂t = {f, H} + ∂f/∂t
+
+Hamilton's equations themselves are the special cases q̇ᵢ = {qᵢ, H} and ṗᵢ = {pᵢ, H}. A quantity without explicit time dependence is conserved exactly when its Poisson bracket with the Hamiltonian vanishes. The whole of the dynamics is contained in the single statement "bracket with H".
+
+## 4.3 Algebraic properties
+
+@widths 3264 6528
+| Property | Statement |
+| Antisymmetry | {f, g} = −{g, f}, so {f, f} = 0 |
+| Linearity | {αf + βg, h} = α{f, h} + β{g, h} |
+| Leibniz rule | {fg, h} = f{g, h} + {f, h}g |
+| Jacobi identity | {f, {g, h}} + {g, {h, f}} + {h, {f, g}} = 0 |
+
+These are exactly the properties of a commutator of operators, which is why Dirac could replace one with the other. The Jacobi identity guarantees that the bracket of two conserved quantities is again conserved: the conserved quantities of a system close into an algebra.
+
+## 4.4 The angular momentum algebra
+
+For L = x × p, direct computation gives
+
+$$ {Lᵢ, Lⱼ} = εᵢⱼₖ Lₖ,    {L², Lᵢ} = 0
+
+The brackets of the angular momentum components reproduce, up to the factor i, the commutators of the Pauli matrices in Lesson 1 and of the quantum angular momentum operators in Lesson 14. The algebra is a property of rotations, not of any particular representation of them.
+
+## 4.5 Conserved quantities generate symmetries
+
+Consider the infinitesimal change of any function f under δf = ε{f, G} for some generator G. With G = pₓ, δq = ε{x, pₓ} = ε and δp = 0: the momentum generates translations along x. With G = L_z, δx = ε{x, L_z} = −εy and δy = ε{y, L_z} = εx: the angular momentum generates rotations about z. With G = H, δf = ε{f, H} = ε df/dt: the Hamiltonian generates time translation. A quantity that commutes with H is conserved, and the symmetry it generates leaves H invariant. This two-way relation between conservation laws and symmetries is Noether's theorem in Hamiltonian form (Lesson 28).
+
+### Worked example 4
+
+Verify {Lₓ, Lᵧ} = L_z. With Lₓ = y p_z − z pᵧ and Lᵧ = z pₓ − x p_z, the only brackets that survive are those between a coordinate and its own momentum. {y p_z, z pₓ} = y pₓ {p_z, z} = −y pₓ, and {−z pᵧ, −x p_z} = x pᵧ {z, p_z} = x pᵧ; the other two cross terms vanish. The sum is x pᵧ − y pₓ = L_z.
+
+# 5 The oscillator in complex variables
+
+## 5.1 The variables a and a*
+
+Combine the coordinate and momentum of the oscillator into one complex variable and its conjugate.
+
+$$ a = (m ω q + i p)/√(2 m ω),    a* = (m ω q − i p)/√(2 m ω)
+
+The inverse relations are q = (a + a*)/√(2mω) and p = −i√(mω/2)(a − a*). The Hamiltonian becomes a product, and the Poisson bracket of the new variables is a constant.
+
+$$ H = ω a* a,    {a, a*} = −i
+
+## 5.2 The equation of motion
+
+Hamilton's equation for a is ȧ = {a, H} = ω a{a, a*} = −iω a, with solution a(t) = a(0)e^(−iωt). The complex variable rotates uniformly in the complex plane; its modulus squared is the energy divided by ω, and its phase is the phase of the oscillation. The equation is first order, and the solution has a definite positive frequency, in the sense of Lesson 4: a carries e^(−iωt) and a* carries e^(+iωt). Quantizing this system turns a and a* into the annihilation and creation operators of Lesson 34, and a free field is nothing but infinitely many such oscillators labeled by momentum.
+
+### Worked example 5
+
+Compute {a, a*}. Using bilinearity and {q, p} = 1, {mωq + ip, mωq − ip} = mω(−i){q, p} + (i)(mω){p, q} = −imω − imω = −2imω. Dividing by 2mω gives −i. Then H = ω a* a = ω(m²ω²q² + p²)/(2mω) = (1/2)mω²q² + p²/(2m), as required.
+
+# 6 The charged particle
+
+## 6.1 The nonrelativistic Hamiltonian
+
+From the Lagrangian of Lesson 5, L = (1/2)mv² − qφ + q v·A, the canonical momentum is p = mv + qA, and the Legendre transformation gives
+
+$$ H = (p − qA)² / (2m) + qφ
+
+The kinetic momentum mv = p − qA appears in the kinetic energy; the canonical momentum p is the variable conjugate to x. Hamilton's equations reproduce the Lorentz force (Exercise 12).
+
+## 6.2 The relativistic Hamiltonian
+
+For L = −m√(1 − v²) − qφ + q v·A, the same procedure gives
+
+$$ H = √((p − qA)² + m²) + qφ
+
+Both Hamiltonians follow from the free ones by a single substitution.
+
+$$ p → p − qA,    H → H − qφ,  that is  p^μ → p^μ − qA^μ
+
+This is the minimal coupling rule. Since p^μ becomes i∂^μ in quantum mechanics, the rule becomes i∂^μ → i∂^μ − qA^μ, or ∂_μ → ∂_μ + iqA_μ, which is the covariant derivative of Lesson 41. Minimal coupling in QED, with q = −e for the electron, is this classical substitution applied to the Dirac field.
+
+### Worked example 6
+
+A particle of charge q moves in a uniform field B along z. With A = (−By, 0, 0), H = [(pₓ + qBy)² + pᵧ² + p_z²]/(2m). The coordinates x and z are cyclic, so pₓ and p_z are conserved. The y motion is governed by H_y = pᵧ²/(2m) + (q²B²/2m)(y + pₓ/(qB))², a harmonic oscillator centered at y₀ = −pₓ/(qB) with frequency ω_c = qB/m, the cyclotron frequency. Hamilton's equation ẋ = ∂H/∂pₓ = (pₓ + qBy)/m then shows that x oscillates at the same frequency: the orbit is a circle, traversed at ω_c independent of its radius.
+
+# 7 From Poisson brackets to commutators
+
+## 7.1 Dirac's rule
+
+Quantum mechanics is obtained from a Hamiltonian system by promoting phase-space functions to operators and replacing the Poisson bracket by a commutator divided by iℏ.
+
+$$ {f, g} → (1/iℏ) [f̂, ĝ],    so that  {q, p} = 1  becomes  [q̂, p̂] = iℏ
+
+Every consequence of the classical bracket algebra carries over, because the commutator has the same antisymmetry, Leibniz, and Jacobi properties. The equation of motion df/dt = {f, H} becomes the Heisenberg equation df̂/dt = (1/iℏ)[f̂, Ĥ] + ∂f̂/∂t (Lesson 12), the angular momentum brackets become [Lᵢ, Lⱼ] = iℏεᵢⱼₖLₖ (Lesson 14), and the oscillator bracket {a, a*} = −i becomes [â, â†] = 1 (Lesson 34).
+
+## 7.2 Fields
+
+For a field φ(x) with conjugate momentum density π(x), the fundamental bracket is {φ(x), π(y)} = δ³(x − y), the continuum version of {qᵢ, pⱼ} = δᵢⱼ. Canonical quantization of the field replaces this by [φ(x), π(y)] = iδ³(x − y), which is the starting point of Lesson 33. The entire construction of quantum field theory in Part V is the material of this lesson applied to infinitely many oscillators.
+
+## 7.3 What the rule does not fix
+
+The classical product ab is ambiguous when a and b do not commute as operators, and the rule says nothing about ordering. For the oscillator, ω a*a could become ω â†â or ω ââ† or their average; the choices differ by a constant, the zero-point energy. In field theory the same ambiguity produces an infinite constant, removed by normal ordering (Lesson 35). Ordering ambiguities are the first place where quantization requires a decision rather than a computation.
+
+### Worked example 7
+
+Apply the rule to the oscillator. With [q, p] = i (ℏ = 1), [a, a†] = (1/2mω)[mωq + ip, mωq − ip] = (1/2mω)(−imω[q, p] + imω[p, q]) = (1/2mω)(mω + mω) = 1. The Hamiltonian p²/(2m) + (1/2)mω²q² becomes, in terms of a and a†, ω(a†a + aa†)/2 = ω(a†a + 1/2). The classical H = ωa*a acquires the zero-point energy ω/2 from the ordering.
+
+# 8 Connections to QED
+
+@widths 3264 6528
+| Hamiltonian idea | Later role in QED |
+| Canonical momentum p = ∂L/∂q̇ | Field momentum π = ∂ℒ/∂φ̇ and the canonical quantization conditions (Lesson 33) |
+| Singular Legendre transformation | Constraints of the electromagnetic field; need for gauge fixing (Lessons 38, 71) |
+| Phase-space area 2πℏ | Momentum-space measure d³p/(2π)³ in every mode sum |
+| Liouville's theorem | Unitarity of time evolution and conservation of probability |
+| {f, H} governs evolution | Heisenberg equations for field operators (Lesson 12) |
+| {Lᵢ, Lⱼ} = εᵢⱼₖLₖ | Angular momentum and spin algebra (Lessons 14, 15) |
+| Generators of symmetries | Conserved charges as generators; charge operator generates U(1) phase rotations (Lesson 31) |
+| a, a* with H = ωa*a | Creation and annihilation operators, Fock space (Lessons 34, 35) |
+| p → p − qA | Covariant derivative D_μ = ∂_μ + iqA_μ (Lesson 41) |
+| {f, g} → [f, g]/iℏ | Canonical quantization of scalar, Dirac, and electromagnetic fields (Part V) |
+
+The photon field in Lesson 38 is quantized by writing it as a sum of oscillators, one for each wave vector and polarization, and applying Section 5 and Section 7 to each. The electron field is quantized by the same steps with one modification, anticommutators in place of commutators (Lesson 37). A reader who is fluent with this lesson's oscillator will find Part V to be mostly bookkeeping.
+
+# 9 Summary
+
+1. The Hamiltonian H = Σpq̇ − L is the Legendre transform of the Lagrangian; for standard systems it is the energy written in terms of q and p.
+
+2. Hamilton's equations q̇ = ∂H/∂p and ṗ = −∂H/∂q are first order and define a flow on phase space.
+
+3. Phase-space trajectories never cross, phase-space volume is conserved, and phase-space area is measured in units of 2πℏ.
+
+4. The Poisson bracket {f, g} expresses time evolution as df/dt = {f, H} and satisfies the algebra of a commutator.
+
+5. Conserved quantities have vanishing brackets with H and generate the symmetries to which they correspond.
+
+6. The oscillator in complex variables has H = ωa*a and {a, a*} = −i, with a rotating as e^(−iωt).
+
+7. The charged particle has H = (p − qA)²/2m + qφ, obtained by the minimal coupling rule p^μ → p^μ − qA^μ.
+
+8. Quantization replaces {f, g} by [f, g]/iℏ, and the only new ingredient is operator ordering.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | For L = (1/2)mq̇² − V(q), find H, write Hamilton's equations, and show they are equivalent to Newton's law. |
+| 2 | Solve Hamilton's equations for the oscillator with q(0) = q₀ and p(0) = 0. Find the semi-axes of the phase-space ellipse and verify that its area is 2πE/ω. |
+| 3 | Find the Hamiltonian of the free relativistic particle from L = −m√(1 − v²). |
+| 4 | Write the Hamiltonian of the pendulum, find the energy of the separatrix, and describe the two kinds of trajectory. |
+| 5 | Show from Hamilton's equations that dH/dt = ∂H/∂t. |
+| 6 | Prove Liouville's theorem by computing the divergence of the phase-space velocity field. |
+| 7 | Compute {q², p}, {q, p²}, and {f(q), p} for an arbitrary function f. |
+| 8 | Show that {L², Lᵢ} = 0 using {Lᵢ, Lⱼ} = εᵢⱼₖLₖ and the Leibniz rule. |
+| 9 | For H = p²/2m + V(r) with r = \|x\|, show that {L_z, H} = 0 and hence that L_z is conserved. |
+| 10 | Show that δf = ε{f, L_z} rotates the coordinates: δx = −εy, δy = εx, δz = 0. |
+| 11 | With a = (mωq + ip)/√(2mω), verify H = ωa*a and derive ȧ = −iωa from Hamilton's equation for a. |
+| 12 | From H = (p − qA)²/2m + qφ, write Hamilton's equations and show they give m dv/dt = q(E + v × B). |
+| 13 | For a uniform magnetic field with A = (−By, 0, 0), find the conserved momenta, the cyclotron frequency, and the center of the circular orbit. |
+| 14 | Derive H = √((p − qA)² + m²) + qφ from L = −m√(1 − v²) − qφ + q v·A. |
+| 15 | Show that Q = p, P = −q is a canonical transformation ({Q, P} = 1) and write Hamilton's equations for the oscillator in the new variables. |
+| 16 | Challenge: with [q, p] = i, show that [a, a†] = 1 for a = (mωq + ip)/√(2mω), that H = ω(a†a + 1/2), and that the Heisenberg equation gives a(t) = a(0)e^(−iωt). |
+
+# Solutions
+
+**1.** p = mq̇, H = p²/(2m) + V(q). Hamilton's equations: q̇ = p/m and ṗ = −V′(q). Combining, mq̈ = −V′(q).
+
+**2.** q = q₀ cos ωt, p = −mωq₀ sin ωt. The ellipse has semi-axes q₀ along q and mωq₀ along p, so its area is πmωq₀². With E = (1/2)mω²q₀², this equals 2πE/ω.
+
+**3.** p = γmv, so v = p/√(p² + m²), and H = p·v − L = p²/√(p² + m²) + m²/√(p² + m²) = √(p² + m²).
+
+**4.** H = p_θ²/(2ml²) − mgl cos θ. The unstable equilibrium θ = π, p_θ = 0 has energy mgl, the separatrix energy. Below it the pendulum oscillates on closed curves; above it p_θ never vanishes and the pendulum rotates continuously.
+
+**5.** dH/dt = Σ[(∂H/∂q)q̇ + (∂H/∂p)ṗ] + ∂H/∂t = Σ[(∂H/∂q)(∂H/∂p) − (∂H/∂p)(∂H/∂q)] + ∂H/∂t = ∂H/∂t.
+
+**6.** ∂q̇ᵢ/∂qᵢ + ∂ṗᵢ/∂pᵢ = ∂²H/∂qᵢ∂pᵢ − ∂²H/∂pᵢ∂qᵢ = 0 for each i, by equality of mixed partial derivatives.
+
+**7.** {q², p} = 2q, {q, p²} = 2p, {f(q), p} = f′(q).
+
+**8.** {L², Lᵢ} = Σⱼ{LⱼLⱼ, Lᵢ} = Σⱼ[Lⱼ{Lⱼ, Lᵢ} + {Lⱼ, Lᵢ}Lⱼ] = 2Σⱼₖ εⱼᵢₖ Lⱼ Lₖ = 0, because εⱼᵢₖ is antisymmetric in j and k while LⱼLₖ is symmetric.
+
+**9.** L_z generates rotations about z, and both p² and r are unchanged by rotations, so {L_z, p²} = 0 and {L_z, V(r)} = 0. Explicitly, {L_z, pₓ} = {xpᵧ − ypₓ, pₓ} = pᵧ and {L_z, pᵧ} = −pₓ, so {L_z, p²} = 2pₓ{L_z, pₓ} + 2pᵧ{L_z, pᵧ} = 2pₓpᵧ − 2pᵧpₓ = 0. Hence dL_z/dt = {L_z, H} = 0.
+
+**10.** {x, L_z} = {x, xpᵧ − ypₓ} = −y{x, pₓ} = −y; {y, L_z} = x{y, pᵧ} = x; {z, L_z} = 0. This is an infinitesimal rotation by angle ε about the z axis.
+
+**11.** a*a = (m²ω²q² + p²)/(2mω), so ωa*a = (1/2)mω²q² + p²/(2m) = H. Then ȧ = {a, H} = ω{a, a*a} = ω a{a, a*} = −iωa.
+
+**12.** ẋ = ∂H/∂p = (p − qA)/m, so mv = p − qA. ṗᵢ = −∂H/∂xᵢ = (q/m)(p − qA)ⱼ ∂ᵢAⱼ − q∂ᵢφ = q vⱼ∂ᵢAⱼ − q∂ᵢφ. Then m dvᵢ/dt = ṗᵢ − q dAᵢ/dt = q vⱼ∂ᵢAⱼ − q∂ᵢφ − q∂_tAᵢ − q vⱼ∂ⱼAᵢ = qEᵢ + q vⱼ(∂ᵢAⱼ − ∂ⱼAᵢ) = qEᵢ + q(v × B)ᵢ.
+
+**13.** H = [(pₓ + qBy)² + pᵧ² + p_z²]/(2m). Since x and z are cyclic, pₓ and p_z are conserved. The y motion is an oscillator of frequency ω_c = qB/m about y₀ = −pₓ/(qB); with ẋ = (pₓ + qBy)/m the orbit in the xy plane is a circle centered at y = y₀.
+
+**14.** p = γmv + qA, so γmv = p − qA and γm = √((p − qA)² + m²). Then H = p·v − L = γmv² + q v·A + m/γ + qφ − q v·A = γm + qφ = √((p − qA)² + m²) + qφ.
+
+**15.** {Q, P} = {p, −q} = −{p, q} = {q, p} = 1. With q = −P and p = Q, the oscillator Hamiltonian becomes H = Q²/(2m) + (1/2)mω²P², and Hamilton's equations Q̇ = ∂H/∂P = mω²P and Ṗ = −∂H/∂Q = −Q/m have the same form as before. Coordinates and momenta can be exchanged; the canonical structure, not the names, is what matters.
+
+**16.** [a, a†] = (1/2mω)[mωq + ip, mωq − ip] = (1/2mω)(−imω[q, p] + imω[p, q]) = (1/2mω)(mω + mω) = 1. Substituting q = (a + a†)/√(2mω) and p = −i√(mω/2)(a − a†) into H gives H = (ω/2)(aa† + a†a) = ω(a†a + 1/2) using aa† = a†a + 1. The Heisenberg equation ȧ = i[H, a] = iω[a†a, a] = iω(−a) = −iωa, so a(t) = a(0)e^(−iωt), as in the classical case.
+
+# Mastery checklist
+
+- I can perform the Legendre transformation for any Lagrangian with an invertible velocity dependence.
+
+- I can write Hamilton's equations from memory with the correct signs and solve them for the oscillator.
+
+- I can draw the phase portrait of the oscillator and the pendulum and locate the separatrix.
+
+- I can compute Poisson brackets of polynomials in q and p and of angular momentum components.
+
+- I can state the relation df/dt = {f, H} and use it to test whether a quantity is conserved.
+
+- I can rewrite the oscillator with a and a*, obtain H = ωa*a, and derive a(t) = a(0)e^(−iωt).
+
+- I can write the charged-particle Hamiltonian and state the minimal coupling rule in four-vector form.
+
+- I can state Dirac's quantization rule and apply it to obtain [a, a†] = 1 and the zero-point energy.

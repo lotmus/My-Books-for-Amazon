@@ -1,0 +1,49 @@
+H1: Chapter 16. Gyroscopes, IMUs, and Dead Reckoning
+P: Chapter 7 built the MEMS accelerometer from a spring and a mass. Its partner in every phone, drone, car, and robot is the MEMS gyroscope, which measures rotation rate, and together they form an inertial measurement unit, or IMU. This chapter explains how a vibrating structure senses rotation through the Coriolis force, computes how small the resulting motion is, and then shows what an IMU's errors do when its outputs are integrated to estimate orientation and position, which is the problem of dead reckoning. The numbers explain why every navigation system that uses MEMS sensors also needs something else, satellite positioning, cameras, or the robot's own legs and wheels, to correct them.
+H2: 16.1 The Coriolis force
+P: A MEMS gyroscope drives a proof mass into vibration along one axis at its resonant frequency, with amplitude x0 and angular frequency ωd, so that its velocity oscillates with peak value v = x0ωd. If the device rotates at rate Ω about an axis perpendicular to the motion, the mass experiences a Coriolis acceleration 2Ωv along the third axis, oscillating at the drive frequency. A second set of springs and electrodes senses that motion. The output is proportional to the rotation rate, and the design problem is to make the sensed motion measurable.
+EQ: aC = 2 Ω v,    v = x0 ωd
+H2: Worked Example 16.1
+WEP: A gyroscope's mass vibrates with 5 µm amplitude at 20 kHz. Find the peak drive velocity and the Coriolis acceleration for a rotation of 1°/s. If the sense mode resonates at 21 kHz, how far does the mass move in the sense direction, using Chapter 7's x = a/ω0²?
+WES: v = 5 × 10⁻⁶ × 2π × 20,000 = 0.628 m/s. Ω = 1°/s = 0.01745 rad/s, so aC = 2 × 0.01745 × 0.628 = 0.0219 m/s², 2.2 milli-g. With the sense mode at 21 kHz, the displacement is 0.0219/(2π × 21,000)² = 1.26 × 10⁻¹² m, about 1.3 picometers, a hundredth of an atom's diameter. Gyroscope designers therefore operate the sense mode close to the drive frequency, use vacuum packaging for high Q, and read the capacitance with circuits resolving attofarads; the closer the two modes, the larger the signal and the more sensitive the device to their matching over temperature.
+KEY: Key idea. A MEMS gyroscope senses rotation as a picometer-scale Coriolis motion of a vibrating mass. Its errors are tiny in each sample, but integration turns them into growing errors in angle and position, so inertial navigation always needs an external correction.
+H2: 16.2 Error terms
+P: An inertial sensor's errors are described by a few terms. Bias is the output when the input is zero; bias instability is the slow wander of the bias, the floor that averaging cannot remove. White noise in rate integrates into a random walk of angle, the angle random walk, specified in degrees per √hour; white noise in acceleration integrates into a velocity random walk. Scale-factor error and cross-axis sensitivity add errors proportional to the input. The Allan variance, a plot of the variance of averaged output against averaging time, separates these terms and is the standard way IMU datasheets report them. Consumer gyroscopes have bias instabilities of several degrees per hour; tactical-grade MEMS units reach about 1 °/h, and navigation-grade instruments, usually optical, go a hundred times lower.
+EQ: θerror = b t (bias),   θRW = ARW × √t,   x = ½ a_b t² (accelerometer bias)
+H2: Worked Example 16.2
+WEP: An accelerometer has an uncorrected bias of 1 mg. Find the position error after 60 s and 600 s of double integration. A gyroscope has 1 °/h bias and 0.1 °/√h angle random walk; find the heading error from each after 4 h.
+WES: The bias is 9.81 × 10⁻³ m/s². After 60 s, x = ½ × 9.81 × 10⁻³ × 3600 = 17.7 m; after 600 s, 1766 m. The error grows with the square of time, so a MEMS IMU alone can dead-reckon only for seconds to tens of seconds. For the gyroscope, the bias gives 4° after 4 h and the random walk 0.1 × √4 = 0.2°. A tilt error is just as damaging: a 0.1° error in the estimated vertical puts 1.75 mg of gravity into the horizontal axes, which then integrates like a bias.
+H2: 16.3 Fusion
+P: Because inertial errors grow with time while satellite positions, camera features, wheel odometry, and leg kinematics have errors that do not, systems combine them. A Kalman filter predicts the state, position, velocity, and orientation, from the IMU at a high rate, and corrects it whenever another measurement arrives, estimating the IMU's biases along the way. The accelerometer's measurement of gravity corrects tilt; a magnetometer or satellite heading corrects yaw. In the robot of Chapter 29, the IMU feeds the fast balance loop at hundreds of hertz, while cameras and the learned model correct position at lower rates, the same two-speed structure that Chapter 17 finds in the control.
+H2: 16.4 Packaging the IMU
+P: The sensors of Chapter 7 and this chapter are packaging-sensitive in ways that logic chips are not. Stress from the board and package, through the expansion mismatch of Chapter 10, shifts the resonant frequencies and the bias, so IMUs are mounted with stress-isolating structures and calibrated over temperature. Vibration at the drive frequency couples into the output. Gyroscopes and resonators need vacuum or controlled-pressure cavities sealed at the wafer level. High-temperature navigation IMUs for drilling and engine monitoring, rated for 175 °C and above, need packages and solders chosen for those temperatures. A good IMU is as much a packaging product as a MEMS one.
+H2: 16.5 How fast dead reckoning drifts
+P: Dead reckoning integrates the IMU's outputs to obtain velocity, position, and orientation, and integration turns small constant errors into growing ones. An accelerometer bias b, once the gravity vector has been subtracted, integrates twice into a position error of ½bt², growing with the square of time. A gyroscope bias integrates once into an attitude error, and an attitude error of θ misprojects gravity into a false horizontal acceleration of gθ, which then integrates twice again, so gyro errors grow position error with the cube of time. This is why consumer IMUs alone can hold position only for seconds, why navigation-grade units cost tens of thousands of dollars, and why every practical system fuses the IMU with GNSS, wheel odometry, vision, or the known constraints of walking, as Section 16.3 describes.
+EQ: position error ≈ ½ b t²
+H2: Worked Example 16.3
+WEP: An accelerometer has a residual bias of 1 mg after calibration. Find the position error after 10 s and after 60 s of unaided dead reckoning.
+WES: b = 9.81 × 10⁻³ m/s². After 10 s, ½ × 9.81 × 10⁻³ × 100 = 0.49 m; after 60 s, ½ × 9.81 × 10⁻³ × 3600 = 17.7 m. A pedestrian navigator therefore resets the velocity to zero at every footstep, when the foot is still, which turns the quadratic growth into a much slower one.
+H2: 16.6 The magnetometer and hard-iron error
+P: A gyroscope's heading drifts without bound, and the cheapest absolute heading reference is a three-axis magnetometer measuring the Earth's field. Its horizontal component is only about 15 to 30 µT at mid-latitudes, and anything magnetic on the board or in the product adds to it. A permanent offset, from magnetized steel parts, speaker magnets, or steady currents in nearby traces, is called hard-iron error and shifts the measured field by a fixed vector; soft-iron error, from permeable material that bends the Earth's field, distorts the circle traced by a rotating sensor into an ellipse. Both are removed by calibration: rotating the product through many orientations and fitting the offset and the ellipse. Motor currents in a robot or battery currents in a phone change with operation and cannot be calibrated away, so the magnetometer is placed far from them and the fusion filter of Section 16.3 trusts it less when they are large.
+EQ: heading error ≈ arctan(B_offset / H_horizontal)  (offset perpendicular to the field)
+H2: Worked Example 16.4
+WEP: The Earth's horizontal field is 20 µT. A trace 10 mm from the magnetometer carries a steady 1 A. Find the field it produces and the worst-case heading error if that field is perpendicular to the Earth's.
+WES: A long straight current produces B = µ₀I/(2πr) = 4π × 10⁻⁷ × 1/(2π × 0.01) = 20 µT, as large as the Earth's horizontal field, giving a heading error of arctan(1) = 45°. At 100 mm the field falls to 2 µT and the error to arctan(0.1) = 5.7°, which is why power traces are kept well away from compasses.
+P: Motion sensors, like every chip in this book, depend on their package. Chapter 17 opens the most demanding package of all, the high-bandwidth memory stack.
+H2: Practice
+PR: A gyroscope mass vibrates with 10 µm amplitude at 15 kHz. Find the peak drive velocity and the Coriolis acceleration at 10 °/s.
+PR: Find the position error after 120 s from an accelerometer bias of 0.5 mg.
+PR: Find the heading error after 9 h from an angle random walk of 0.05 °/√h.
+PR: Find the horizontal acceleration error from a 0.5° tilt error.
+PR: A gyroscope has a bias of 10 °/h. Find the heading error after 30 minutes.
+PR: Why can a MEMS IMU not navigate alone for long periods?
+PR: Find the position error after 30 s for a bias of 0.5 mg.
+PR: What heading error does a 1 µT perpendicular offset cause in a 20 µT horizontal field?
+ANS: v = 0.942 m/s; aC = 2 × 0.1745 × 0.942 = 0.329 m/s².
+ANS: ½ × 4.905 × 10⁻³ × 120² = 35.3 m.
+ANS: 0.05 × 3 = 0.15°.
+ANS: 9.81 × sin 0.5° = 0.0856 m/s², or 8.7 mg.
+ANS: 5°.
+ANS: Integration turns its small biases and noise into errors that grow with time, and as the square of time for position, so without external corrections the estimate drifts away within seconds to minutes.
+ANS: ½ × 4.9 × 10⁻³ × 900 = 2.2 m.
+ANS: arctan(0.05) = 2.9°.

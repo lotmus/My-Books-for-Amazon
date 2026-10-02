@@ -1,0 +1,35 @@
+H1: Chapter 31. Bias, Ruggedness, and Protection
+P: A power amplifier that meets every specification on the bench can still fail in the field: an antenna is disconnected, a connector corrodes, the supply comes up in the wrong order, or the device heats and its bias drifts. This chapter covers the practical engineering that keeps the amplifier of Chapters 21 to 24 alive: setting and stabilizing the bias, surviving a mismatched load, and detecting faults fast enough to act on them.
+H2: 31.1 Biasing the device
+P: The quiescent current sets the amplifier's class and therefore its linearity and efficiency, so it must be set accurately and held there as temperature changes. A gallium nitride or LDMOS transistor is biased by its gate voltage; for depletion-mode GaN that voltage is negative, a few volts below zero, and the drain must not be powered while the gate is at zero, because the device is then fully on. The safe sequence is gate negative first, then drain on, and on shutdown drain off first, then gate. Bipolar devices bring the opposite hazard: the base-emitter voltage needed for a given current falls by about 2 mV for each kelvin of temperature rise, so a fixed bias voltage gives a current that rises as the device heats, which heats it further. Emitter ballast resistors and bias circuits that track the device's temperature, often a diode or a scaled transistor on the same die, break that loop.
+EQ: ΔVBE ≈ −2 mV/K,   IC ∝ exp(ΔV/VT),   VT = kT/q ≈ 25.9 mV
+H2: Worked Example 31.1
+WEP: A bipolar stage is biased with a fixed base-emitter voltage. Its junction warms by 10 K. By what factor does the collector current rise if nothing compensates?
+WES: A 10 K rise is equivalent to a 20 mV increase in the effective drive. The current scales as exp(0.020 / 0.02585) = 2.17, more than doubling. The extra current raises dissipation and temperature further; with enough thermal resistance the loop runs away. A ballast resistor that drops even a few tens of millivolts at the operating current provides negative feedback that stops it.
+H2: 31.2 The mismatched load
+P: An amplifier designed for a 50 Ω load sees something else when the antenna is damaged, iced, or missing. The voltage standing-wave ratio describes the mismatch: the reflection coefficient is |Γ| = (VSWR − 1)/(VSWR + 1), and a fraction |Γ|² of the forward power returns toward the amplifier. Along the line the incident and reflected waves add, so at some points the voltage reaches (1 + |Γ|) times the matched value. Depending on the phase of the reflection, the device sees either that excess voltage or a corresponding excess current. Ruggedness specifications state the VSWR, often 10:1 at all phases, that a device survives without damage.
+EQ: |Γ| = (VSWR − 1)/(VSWR + 1),   Prefl = |Γ|² Pfwd,   Vpeak,max = (1 + |Γ|) Vpeak
+H2: Worked Example 31.2
+WEP: A 100 W amplifier into 50 Ω faces a 10:1 VSWR. Find the reflection coefficient, the reflected power, and the worst-case peak voltage on the line.
+WES: |Γ| = 9/11 = 0.818. Reflected power = 0.818² × 100 = 66.9 W. The matched peak voltage is √(2 × 100 × 50) = 100 V, so the worst case is 100 × 1.818 = 181.8 V, nearly twice the design value, applied through the matching network to the device. The return loss is only 1.74 dB.
+KEY: Key idea. A severe mismatch reflects most of the power and nearly doubles the peak voltage or current somewhere in the output network. The amplifier survives either because the device is rated for it, because an isolator absorbs the reflection, or because protection cuts the drive before damage occurs.
+H2: 31.3 Detecting faults and acting on them
+P: A directional coupler at the output samples the forward and reflected waves separately, and diode or log detectors convert them to voltages. Comparing the two gives the VSWR continuously. Protection logic reduces the drive, the supply, or both, when the reflected power or the device temperature exceeds a threshold, and shuts down entirely on a severe fault. The response must be fast: a GaN device can be destroyed in microseconds by an overvoltage, so the first line of defense is often analog, with digital supervision setting the limits and logging events. The same coupler feeds the closed-loop power control that holds the output at its set value as temperature and supply vary.
+H2: Worked Example 31.3
+WEP: The amplifier of Example 31.2 has a 30 dB reverse coupler. What power does the reflected-power detector see at a 10:1 VSWR, and at 1.5:1?
+WES: At 10:1 the reflected power is 66.9 W, 48.3 dBm, so the detector sees 18.3 dBm. At 1.5:1, |Γ| = 0.2 and the reflected power is 0.04 × 100 = 4 W, 36.0 dBm, so the detector sees 6.0 dBm. The 12 dB difference is easy to resolve, though the coupler's finite directivity, the forward signal leaking into the reverse port, limits how small a mismatch can be measured.
+H2: 31.4 Supply, overdrive, and inrush
+P: Other common failures come from the supply and the input. An overdrive pushes the device deep into compression, raising its dissipation and the voltage swing; input limiters and drive monitoring guard against it. A supply that overshoots at turn-on can exceed the drain breakdown rating, and the large decoupling capacitors at the drain draw a heavy inrush that soft-start circuits limit. Load pulling at turn-on, with the antenna switch or duplexer not yet settled, can momentarily present a bad load. A good design treats each of these as a specified condition, tested at the extremes of temperature and supply.
+H2: Practice
+PR: Find |Γ|, the return loss, and the reflected fraction for a VSWR of 2:1.
+PR: A 50 W amplifier into 50 Ω sees a 5:1 VSWR. Find the matched and worst-case peak voltages.
+PR: At a 3:1 VSWR, how much of the forward power reaches the load, in dB?
+PR: Why must a depletion-mode GaN amplifier's gate be biased before its drain is powered?
+PR: What does a directional coupler's directivity limit?
+PR: Why do bipolar power stages use emitter ballast resistors?
+ANS: |Γ| = 0.333, return loss 9.5 dB, 11.1% reflected.
+ANS: 70.7 V matched; |Γ| = 0.667, so the worst case is 117.9 V.
+ANS: 75% of the power, or −1.25 dB.
+ANS: With zero gate voltage the device is fully on, so powering the drain first would draw an uncontrolled current that can destroy it.
+ANS: The smallest reflection it can measure, because forward power leaking into the reverse port masks a weak reflection.
+ANS: The ballast resistor provides negative feedback against the falling base-emitter voltage as the device heats, preventing thermal runaway and current hogging between cells.

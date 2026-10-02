@@ -1,0 +1,39 @@
+H1: Chapter 37. Measuring a Power Amplifier
+P: The earlier chapters designed amplifiers from load lines and device models. The amplifier on the bench rarely matches the model exactly, and the numbers that go into a datasheet, a link budget, or a certification report must be measured. This chapter describes the four measurements that characterize a power amplifier: load-pull, which finds the best load; efficiency, which counts the watts; AM-AM and AM-PM, which describe the distortion; and adjacent-channel leakage, which tells the regulator how much of the signal leaks next door.
+H2: 37.1 Load-pull
+P: Chapter 21 found the optimum load resistance from the supply voltage, the knee voltage, and the output power. A real transistor has parasitic capacitance and package inductance, so the best load at the device's terminals is a complex impedance that the model only approximates. A load-pull system places a tuner, mechanical or active, at the transistor's output, sweeps the load impedance across the Smith chart, and records output power, efficiency, and gain at each point. The results form contours: closed curves of constant output power and of constant efficiency, whose optima are generally at different impedances. The designer chooses a compromise load and then designs a matching network of the kind built in Chapters 3 and 4 to present it.
+EQ: Ropt ≈ (VDD − Vknee)² / (2 Pout)
+H2: Worked Example 37.1
+WEP: A GaN transistor runs at VDD = 28 V with a knee of 3 V and must deliver 10 W. Find the load-line starting point for the load-pull sweep.
+WES: Ropt = (28 − 3)²/(2 × 10) = 625/20 = 31.25 Ω. The load-pull sweep is centered near 31 Ω plus the conjugate of the output capacitance's susceptance, and the measured contours then show how far the true optimum lies from that estimate.
+H2: 37.2 Efficiency and power-added efficiency
+P: Drain efficiency is the ratio of RF output to DC input. Power-added efficiency subtracts the RF input power, which matters when the gain is modest, as it is at millimeter wave or near compression. Both must be measured with the amplifier's real signal, not only a continuous wave, because modulated signals spend most of their time below peak, where efficiency is lower, as Chapter 23 showed.
+EQ: ηD = Pout / PDC,   PAE = (Pout − Pin) / PDC
+H2: Worked Example 37.2
+WEP: An amplifier delivers 40 dBm with 13 dB of gain from a 16 W DC input. Find the drain efficiency and the PAE.
+WES: Pout = 10 W and Pin = 40 − 13 = 27 dBm = 0.50 W. ηD = 10/16 = 62.5%, and PAE = (10 − 0.5)/16 = 59.4%. With only 6 dB of gain, PAE would fall to (10 − 2.5)/16 = 46.9%, which is why PAE is the honest figure for low-gain stages.
+H2: 37.3 AM-AM and AM-PM
+P: As the input rises toward compression, the gain falls (AM-AM conversion) and the phase of the output shifts (AM-PM conversion). Both are measured by sweeping the input power and recording the gain and phase, or, with a modulated signal, by comparing every output sample with the corresponding input sample. They are the curves digital predistortion, the subject of Chapter 38, must invert. Each contributes directly to the error vector magnitude of Book 5.
+H2: Worked Example 37.3
+WEP: At the peak of a signal, the amplifier is 1 dB compressed and shifts the phase by 5°. Estimate the error vector each causes at that peak.
+WES: The amplitude error is 1 − 10^(−1/20) = 10.9% of the peak. The phase error is 5° = 0.087 rad, which displaces the vector by 8.7% of its length. Together they are far above the 1.26% that Book 5 quotes for high-order QAM, which is why such peaks must be corrected or backed off.
+KEY: Key idea. Load-pull measures the load that the model only estimates; PAE counts the drive power that drain efficiency ignores; AM-AM and AM-PM curves describe the distortion that predistortion must undo.
+H2: 37.4 Adjacent-channel leakage and intermodulation
+P: Distortion spreads the signal's spectrum into the neighboring channels. The adjacent-channel leakage ratio is the power in the wanted channel divided by the power in an adjacent channel of the same width, measured on a spectrum analyzer with channel-power integration. 3GPP requires about 45 dB for a base station and 30 dB for a handset in NR. A two-tone test gives a simpler figure, the third-order intercept, from which the third-order products follow: each output tone's product lies below the tone by twice the difference between the intercept and the tone power.
+EQ: ACLR = Pmain / Padjacent,   P_IM3 = 3Pout − 2 OIP3  (dBm)
+H2: Worked Example 37.4
+WEP: An amplifier with OIP3 = 50 dBm delivers two tones of 30 dBm each. Find the third-order products and their level relative to the tones.
+WES: P_IM3 = 3 × 30 − 2 × 50 = −10 dBm, which is 40 dB below each tone. Every 1 dB of back-off improves that ratio by 2 dB, until other mechanisms, such as memory effects, dominate.
+H2: Practice
+PR: Find Ropt for VDD = 48 V, Vknee = 4 V, and 50 W.
+PR: Find the PAE of an amplifier delivering 20 W with 10 dB gain from 32 W DC.
+PR: Find the amplitude error at 2 dB compression.
+PR: Find the IM3 level for 25 dBm tones and OIP3 = 45 dBm.
+PR: A channel at 30 dBm has −16 dBm in the adjacent channel. Find the ACLR.
+PR: By how much does a 3 dB back-off improve the two-tone IM3 ratio?
+ANS: 19.4 Ω.
+ANS: 56.3%.
+ANS: 20.6%.
+ANS: −15 dBm, 40 dB below each tone.
+ANS: 46 dB.
+ANS: 6 dB.

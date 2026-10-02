@@ -1,9 +1,0 @@
-=== item 9 ===
-fix_type: replace_run | severity: moderate
-location: Chapter 7 ("What Remains Correlated"), gate scene at the Regional Compression Annex
-description: A dangling pronoun / scrambled paragraph order: 'His hand drifted for a moment toward the phone...' appears in the paragraph immediately BEFORE 'The gate guard...' is introduced, so 'His' has no antecedent when a reader hits it. Reordering the two paragraphs (no new prose needed) fixes it cleanly.
-
-=== item 10 ===
-fix_type: replace_run | severity: minor
-location: Chapter 9 ("The Two Columns"), Fainrose's blackboard exchange with Jago about pinning location vs. motion
-description: 

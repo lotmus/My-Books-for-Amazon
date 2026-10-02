@@ -1,0 +1,63 @@
+PART: Part I. The Link: From Bits to a Working Radio
+P: Part I builds a complete radio link. It starts on a channel that only adds noise, with Shannon's limit, sampling, pulse shaping, and constellations, then adds the real channel and the techniques that defeat it: OFDM, coding, and multiple antennas. It ends by placing the result in the 2026 band plan and in a software-defined receiver you can buy.
+H1: Chapter 1. Bits Become a Waveform
+P: A modem has one job: turn a stream of bits into a waveform that a channel can carry, and turn the waveform that arrives back into the same bits. Everything in this book serves that job. The antenna gain is Book 4's, the transmitter's watts are Book 4's, and the test chamber is Book 7's. What belongs here is the waveform itself: how many bits it carries per second, how much spectrum it occupies, how much noise it tolerates, and how it survives a channel that echoes and fades. This chapter introduces the three quantities that tie those together, symbol rate, bandwidth, and signal-to-noise ratio, and the limit that Claude Shannon set on all of them.
+H2: 1.1 Symbols, bits, and bandwidth
+P: A digital transmitter sends symbols, each a choice among M possible waveforms, at a symbol rate Rs. Each symbol carries log₂M bits, so the bit rate is Rs log₂M. The bandwidth a symbol stream occupies is set by its symbol rate and by how sharply its pulses are shaped. Chapter 3 shows that with an ideal pulse the minimum bandwidth is Rs/2 at baseband, or Rs on a carrier, and that practical pulses add a roll-off factor α, typically 0.2 to 0.35.
+EQ: Rb = Rs log₂M,    B ≈ Rs (1 + α)   (passband)
+H2: Worked Example 1.1
+WEP: A link sends 4 million symbols per second with 16 possible symbols each and a roll-off of 0.25. Find the bit rate, the occupied bandwidth on the carrier, and the spectral efficiency.
+WES: Each symbol carries log₂16 = 4 bits, so Rb = 4 × 4 = 16 Mbit/s. The passband bandwidth is 4 MHz × 1.25 = 5 MHz. The spectral efficiency is 16/5 = 3.2 bit/s/Hz. Doubling the bits per symbol to 8, with 256 symbols, would double the bit rate in the same bandwidth, at a cost in signal-to-noise ratio that Chapter 4 calculates: roughly 6 dB for every extra bit per symbol in each of the two quadrature dimensions.
+H2: 1.2 Signal-to-noise ratio and Eb/N0
+P: Noise in a receiver is, to a first approximation, white and Gaussian, with a power spectral density N0 that is set by temperature and the receiver's noise figure; the noise cascade itself is Book 4's subject. Two measures of the signal against it are used. The signal-to-noise ratio SNR = S/(N0B) compares powers in the occupied bandwidth. The energy per bit over noise density Eb/N0 compares the energy spent on each bit with N0, and lets modulations of different bandwidths be compared fairly. They are related through the spectral efficiency.
+EQ: SNR = (Eb/N0) × (Rb / B)
+H2: 1.3 Shannon's limit
+P: Shannon proved in 1948 that a channel of bandwidth B and signal-to-noise ratio SNR can carry information without error at any rate below its capacity, and at no rate above it. The proof says that codes approaching the limit exist; it took until the 1990s for turbo and LDPC codes to come within a fraction of a decibel of it. Rewriting the capacity per unit bandwidth in terms of Eb/N0 shows that no scheme, however slow, can work below Eb/N0 = ln 2, which is −1.59 dB.
+EQ: C = B log₂(1 + SNR)
+H2: Worked Example 1.2
+WEP: A 20 MHz channel has an SNR of 20 dB. Find its Shannon capacity. What SNR would be needed for a spectral efficiency of 10 bit/s/Hz?
+WES: SNR = 100, so C = 20 MHz × log₂101 = 20 × 6.66 = 133 Mbit/s, a spectral efficiency of 6.66 bit/s/Hz. For 10 bit/s/Hz, 1 + SNR = 2¹⁰, so SNR = 1023, or 30.1 dB. The last bits per hertz are expensive: from 6.66 to 10 bit/s/Hz costs 10 dB of SNR, ten times the power. Practical systems run 2 to 4 dB from the limit after coding, and they reach high efficiencies by using several antennas, which Chapter 7 shows multiplies the capacity, rather than by raising SNR alone.
+KEY: Key idea. Bandwidth and signal-to-noise ratio are the two currencies of a link. Capacity grows linearly with bandwidth but only logarithmically with SNR, so each extra bit per hertz costs about 3 dB, and doubling the bandwidth is almost always cheaper than quadrupling the power.
+H2: 1.4 The analog ancestors: AM and FM
+P: Digital modulation inherited its vocabulary from two analog schemes that still fill the broadcast bands. Amplitude modulation multiplies a carrier by 1 + m·s(t), where s(t) is the audio and m the modulation index. The spectrum is the carrier plus two copies of the audio spectrum, one above and one below it, so the occupied bandwidth is twice the highest audio frequency: 10 kHz for the 5 kHz audio of medium-wave broadcasting in Europe and 20 kHz for the 10 kHz audio allowed in the United States. At m = 1 the two sidebands together carry only a third of the transmitted power; the other two thirds sit in the carrier, which carries no information. That waste bought a receiver with nothing in it but a diode and a capacitor.
+P: Frequency modulation moves the instantaneous frequency in step with the audio, f(t) = fc + Δf·s(t). The bandwidth is no longer fixed by the audio alone. Carson's rule estimates the band that holds about 98 % of the power as twice the sum of the peak deviation and the highest audio frequency. VHF broadcast FM uses Δf = 75 kHz and audio to 15 kHz, so B ≈ 2(75 + 15) = 180 kHz, which is why stations sit on a 200 kHz raster. FM trades bandwidth for signal-to-noise ratio: above a threshold carrier-to-noise ratio of about 10 dB, the demodulated SNR improves as the square of the deviation ratio, which is the first appearance in this book of the exchange that Shannon's formula makes exact.
+EQ: B ≈ 2(Δf + fm)    (Carson's rule)
+H2: 1.5 Baseband line codes and PAM4
+P: Not every link has a carrier. A cable or a backplane carries the symbols directly, and the choice of line code decides the bandwidth and the DC content. Non-return-to-zero sends +1 or −1 for a whole bit; its spectrum has a null at the bit rate and a DC component that a transformer or a coupling capacitor cannot pass. Manchester coding, used by 10BASE-T Ethernet, puts a transition in the middle of every bit, which removes the DC and gives the receiver a clock edge in every bit at the price of twice the bandwidth. The 8b/10b and 64b/66b codes of USB, PCI Express, and faster Ethernet bound the run of identical bits instead, at an overhead of 25 % and 3.1 %.
+P: When the channel's loss rises steeply with frequency, sending two bits per symbol halves the Nyquist frequency at the cost of three eyes stacked in the space of one. That is four-level pulse-amplitude modulation, PAM4, the line code of 400G and 800G Ethernet and of PCI Express 6.0. Each eye is a third of the height of the NRZ eye, a loss of 20 log₁₀3 = 9.5 dB in vertical margin, which the halved loss at the lower Nyquist frequency must more than repay. Over a long copper backplane it does: the loss there can be 15 dB higher at 26.6 GHz than at 13.3 GHz.
+H2: Worked Example 1.3
+WEP: A 100 Gbit/s Ethernet lane carries 106.25 Gbit/s on the wire after forward error correction. Find the symbol rate and the Nyquist frequency for NRZ and for PAM4, and the vertical eye penalty of PAM4.
+WES: With NRZ the symbol rate is 106.25 GBd and the Nyquist frequency, half of it, is 53.1 GHz. PAM4 carries 2 bits per symbol, so the symbol rate is 53.125 GBd and the Nyquist frequency 26.6 GHz. Each of PAM4's three eyes spans a third of the full swing, 9.5 dB less than the NRZ eye at the same peak-to-peak voltage. The choice is PAM4 whenever the channel loses more than about 9.5 dB extra between 26.6 and 53.1 GHz, which every practical copper channel does.
+H2: Worked Example 1.4
+WEP: An FM broadcast transmitter is modulated by a 1 kHz tone at the full 75 kHz deviation. Find the Carson bandwidth, and compare it with the bandwidth of the full-audio programme.
+WES: For a 1 kHz tone B ≈ 2(75 + 1) = 152 kHz; for programme audio up to 15 kHz, 180 kHz. Deviation, not audio bandwidth, dominates: the modulation index Δf/fm is 75 for the tone and 5 for the highest audio frequency, so in both cases the signal is wideband FM, and the stereo pilot at 19 kHz and the subcarrier to 53 kHz add only a little on top.
+H2: 1.6 Power-limited and bandwidth-limited links
+P: Shannon's formula has two regimes, and every link lives in one of them. When bandwidth is plentiful and power scarce, the spectral efficiency is far below 1 bit/s/Hz, and doubling the bandwidth barely helps, because the noise doubles with it; the capacity approaches its ceiling of (S/N0)/ln 2 bits per second however wide the band. Deep-space probes, GPS, and long-range IoT live there, and they spend bandwidth freely on spreading and low-rate codes. When bandwidth is scarce and power plentiful, as in a Wi-Fi link across a room or a microwave backhaul hop, the efficiency is many bits per hertz and each extra bit per hertz costs about 3 dB more SNR, so dense constellations and multiple antennas are worth their complexity.
+EQ: C∞ = (S/N0) / ln 2 = 1.44 S/N0
+H2: Worked Example 1.5
+WEP: A spacecraft's signal arrives at the ground with S/N0 = 40 dB-Hz. Find the capacity limit with unlimited bandwidth, and the capacity in 10 kHz and in 1 MHz.
+WES: S/N0 = 10⁴ Hz. The ceiling is 1.44 × 10⁴ = 14.4 kbit/s. In 10 kHz the SNR is 1, so C = 10⁴ log₂2 = 10.0 kbit/s, already 69 % of the ceiling. In 1 MHz the SNR is 0.01 and C = 10⁶ log₂1.01 = 14.3 kbit/s: a hundred times the bandwidth buys 43 % more. The probe is power-limited, and its designers spend effort on antenna gain and low-noise receivers, not bandwidth.
+H2: 1.7 What the rest of the book does
+P: Chapter 2 moves the signal to and from complex baseband and samples it. Chapter 3 shapes the pulses so that symbols do not smear into each other. Chapter 4 arranges symbols into constellations and computes their error rates. Chapter 5 adds the real channel, with multipath and fading. Chapter 6 builds OFDM, the waveform of Wi-Fi, 4G, and 5G. Chapter 7 adds coding and multiple antennas. Chapter 8 places it all in the 2026 band plan and in the software-defined radio that can be programmed to receive it. The digital signal processing is introduced as it is needed; Lyons's Understanding Digital Signal Processing is the reference for those who want it whole.
+P: With symbols, bandwidth, noise, and Shannon's bound in hand, and the analog and baseband relatives placed beside them, the next step is to move a signal from the analog world into numbers. Chapter 2 does that with the sampling theorem and the complex baseband representation that every modem in this book uses.
+H2: Practice
+PR: A link uses 64 possible symbols at 10 Msymbol/s with α = 0.2. Find the bit rate and occupied bandwidth.
+PR: Find the Shannon capacity of a 5 MHz channel at an SNR of 10 dB.
+PR: A system runs at 2 bit/s/Hz with Eb/N0 = 8 dB. Find its SNR in decibels.
+PR: What SNR is needed for 6 bit/s/Hz at the Shannon limit?
+PR: Find the smallest Eb/N0 at which any error-free communication is possible.
+PR: Explain in one or two sentences why doubling a link's bandwidth is usually a better way to double its capacity than raising its power.
+PR: Find the Carson bandwidth of a narrowband FM land-mobile channel with 2.5 kHz deviation and 3 kHz audio.
+PR: What fraction of an AM transmitter's power is in the sidebands at a modulation index of 0.5?
+PR: A link sends 56 Gbit/s using PAM4. Find the symbol rate and the Nyquist frequency.
+PR: Find the capacity ceiling of a link with S/N0 = 50 dB-Hz.
+ANS: Rb = 10 × 6 = 60 Mbit/s; B = 10 MHz × 1.2 = 12 MHz.
+ANS: C = 5 MHz × log₂11 = 5 × 3.46 = 17.3 Mbit/s.
+ANS: SNR = 8 dB + 10 log₁₀2 = 8 + 3.0 = 11.0 dB.
+ANS: SNR = 2⁶ − 1 = 63, or 18.0 dB.
+ANS: Eb/N0 = ln 2 = 0.693, or −1.59 dB.
+ANS: Capacity grows in proportion to bandwidth but only with the logarithm of SNR, so at high SNR doubling the capacity by power alone requires roughly squaring the SNR, far more than doubling it.
+ANS: B ≈ 2(2.5 + 3) = 11 kHz, which fits a 12.5 kHz channel.
+ANS: Sideband power fraction m²/(2 + m²) = 0.25/2.25 = 11 %.
+ANS: 28 GBd; Nyquist frequency 14 GHz.
+ANS: 1.44 × 10⁵ = 144 kbit/s.

@@ -1,0 +1,55 @@
+H1: Chapter 21. Solar Power and Maximum-Power-Point Tracking
+P: Book 3's Chapter 18 explained the solar cell as a junction that converts light into current. This chapter connects that cell to the grid. A photovoltaic array is a strange source: its current is nearly constant until the voltage approaches its open-circuit value, so it delivers its maximum power at only one operating point, which moves with sunlight and temperature. The converter that connects it must find and track that point, keep the string voltage within the equipment's rating on the coldest morning, and then invert the result to meet the grid codes of Chapter 16.
+H2: 21.1 The array as a source
+P: A module's current-voltage curve has a short-circuit current Isc proportional to irradiance, an open-circuit voltage Voc that depends logarithmically on irradiance and falls with temperature, and a knee where power is maximum, at Vmp and Imp. A typical 350 W module has Vmp about 34 V and Imp about 10.3 A. Modules are connected in series strings to reach a useful voltage, and strings in parallel for current. Shading one cell in a string forces its current down, so bypass diodes across groups of cells let the rest of the string carry on, at the price of a curve with several local maxima.
+H2: 21.2 Temperature and string length
+P: A silicon module's open-circuit voltage falls by about 0.3% per kelvin above 25 °C and rises by the same rate below it. The highest voltage the string ever presents occurs on a cold, clear morning before any current flows, and it must stay below the inverter's and the module's maximum system voltage, 1000 V or 1500 V. That cold-morning voltage, not the operating voltage, sets the longest allowed string.
+EQ: Voc(T) ≈ Voc,STC [1 + β (T − 25 °C)],  β ≈ −0.3%/K
+H2: Worked Example 21.1
+WEP: A module has Voc = 41 V at 25 °C and a coefficient of −0.3%/K. The site's record low is −10 °C. Find the cold Voc and the longest string for a 1000 V and a 1500 V system.
+WES: The temperature is 35 K below 25 °C, so Voc rises by 10.5% to 45.3 V. For 1000 V, 1000/45.3 = 22.1, so 22 modules. For 1500 V, 33 modules. At the operating point, 22 modules give 22 × 34 = 748 V, well inside the inverter's tracking range; longer 1500 V strings reduce the number of strings, combiners, and cables, which is why utility-scale plants moved to 1500 V.
+KEY: Key idea. A solar array is a current source with a single maximum-power point that moves with light and temperature. The converter must track that point continuously, and the string must be short enough that its cold open-circuit voltage stays below the system rating.
+H2: 21.3 Tracking the maximum
+P: The converter's input stage, usually a boost converter in a string inverter or the DC-DC stage of a power optimizer, adjusts the array's operating voltage. The perturb-and-observe algorithm steps the voltage slightly and checks whether power rose; if it did, it keeps going, otherwise it reverses. Incremental-conductance tracking uses the condition dP/dV = 0, equivalently dI/dV = −I/V, to stop at the maximum. Both oscillate slightly around the peak and can be fooled by fast-changing clouds or by the local maxima of a partly shaded string, so modern trackers periodically sweep the whole curve to find the global maximum. Good trackers capture 99% or more of the available energy.
+EQ: maximum power where dP/dV = 0  ⇔  dI/dV = −I/V
+H2: Worked Example 21.2
+WEP: A string of 12 modules of 350 W feeds a tracker with 99% tracking efficiency and an inverter with 98% conversion efficiency. Find the AC output at full sun and the overall efficiency.
+WES: The string's rated power is 12 × 350 = 4200 W. The overall efficiency is 0.99 × 0.98 = 0.970, so the AC output is about 4074 W, and 126 W is lost in tracking and conversion. Cable losses, soiling, and module temperature typically take several percent more in a real installation.
+H2: 21.4 String inverters, central inverters, and optimizers
+P: Utility-scale plants use central inverters of several megawatts or many string inverters of a few hundred kilowatts each. Residential systems use string inverters, microinverters on each module, or string inverters with module-level DC optimizers that track each module's maximum separately, which recovers energy lost to partial shading and provides module-level shutdown required by some fire codes. All of them must meet the grid codes of Chapter 16, and large plants increasingly pair their inverters with batteries on the same site.
+H2: 21.5 Shading and bypass diodes
+P: The cells of a module are in series, so they all carry the same current. A shaded cell cannot produce the current its neighbors force through it; it becomes reverse-biased and dissipates the power of the others, heating into a hot spot that can crack the glass or burn the backsheet. Bypass diodes prevent it. A typical module of 60 or 120 half-cells has three diodes, each across a third of the cells. When a cell in one substring is shaded, that diode conducts, the substring drops out, and the module produces two thirds of its voltage at full current. The module's power-voltage curve then has two maxima, one with the substring bypassed and one without, and a tracker that only climbs the nearest hill, Section 21.3, can settle on the lower one; modern trackers sweep the whole curve every few minutes to find the global maximum.
+H2: 21.6 Storage: DC coupling and AC coupling
+P: Solar systems increasingly include a battery. In AC coupling, the PV inverter feeds the AC bus and a separate battery inverter charges the battery from that bus, so energy stored and later used passes through the PV inverter, the battery inverter twice, and the battery's round-trip loss. In DC coupling, the battery sits on the PV inverter's DC link through a DC-DC converter, and stored energy passes through that converter, the battery, and the inverter once. DC coupling is a few percent more efficient for stored energy and can capture power that would otherwise be clipped when the array exceeds the inverter's rating; AC coupling is easier to add to an existing installation. Both are common in 2026, and the choice is usually made by what is already on the roof.
+H2: Worked Example 21.3
+WEP: A 400 W module has three bypass diodes. One cell is fully shaded. Estimate the module's output and the diode's dissipation if the module current is 10 A and the diode drops 0.4 V.
+WES: One substring is bypassed, so the module delivers about two thirds of its voltage at full current, about 267 W. The diode dissipates 10 × 0.4 = 4 W, which is why the junction box's diodes are Schottky types with heatsinking, and why some modules use active bypass circuits with MOSFETs that drop only tens of millivolts.
+H2: Worked Example 21.4
+WEP: Compare the efficiency of stored solar energy in a DC-coupled system, DC-DC converter 98.5 %, battery round trip 95 %, inverter 97.5 %, with an AC-coupled one, PV inverter 97.5 %, battery inverter 97.5 % each way, and battery 95 %.
+WES: DC coupling gives 0.985 × 0.95 × 0.975 = 0.912. AC coupling gives 0.975 × 0.975 × 0.95 × 0.975 = 0.881. DC coupling delivers 3.1 percentage points more of each stored kilowatt-hour, about 30 kWh more per year for a household that cycles 1000 kWh through its battery.
+H2: 21.7 Specific yield and capacity factor
+P: The energy a solar plant produces in a year depends on its rated power, the sunshine, the orientation, and the losses, and installers summarize it as the specific yield, kilowatt-hours per kilowatt-peak per year. A well-oriented fixed array produces about 900 to 1100 kWh/kWp in Germany, 1400 to 1600 in southern Spain, and 1800 to 2000 with single-axis tracking in the American Southwest. Dividing by the 8760 hours of a year gives the capacity factor: about 11 % in Germany and over 20 % in the desert. That number, more than the efficiency of any converter in the chain, decides how much generation must be built to replace a given amount of firm capacity, and it is why storage and transmission matter as much to a solar-powered grid as the panels.
+EQ: capacity factor = specific yield / 8760 h
+H2: Worked Example 21.5
+WEP: A 10 kWp rooftop array in Germany yields 1000 kWh/kWp. Find its annual energy, its capacity factor, and its average power.
+WES: 10 × 1000 = 10 MWh per year. The capacity factor is 1000/8760 = 11.4 %, so the average output is 1.14 kW, against a peak of about 8 to 9 kW on a clear summer noon after the inverter's and temperature losses.
+P: The solar inverter connects a source that varies with the weather. The last chapter treats a link that varies with alignment and distance: power transferred through an air gap.
+H2: Practice
+PR: Find the cold Voc of a 49 V module at −20 °C with −0.28%/K.
+PR: How many such modules fit in a 1500 V string?
+PR: Find a module's power at Vmp = 31 V and Imp = 13 A.
+PR: A system loses 1.5% in tracking and 2.5% in the inverter. Find the overall efficiency.
+PR: Why does the coldest temperature, not the hottest, set the string length?
+PR: Why can partial shading confuse a simple perturb-and-observe tracker?
+PR: A module with three bypass diodes has two substrings shaded. Estimate its output as a fraction of full power.
+PR: Why can a perturb-and-observe tracker settle at the wrong operating point on a partially shaded string?
+PR: Find the capacity factor of a tracking plant with a specific yield of 1900 kWh/kWp.
+ANS: 49 × (1 + 0.0028 × 45) = 55.2 V.
+ANS: 27 modules.
+ANS: 403 W.
+ANS: 0.985 × 0.975 = 96.0%.
+ANS: Open-circuit voltage rises as temperature falls, so the highest voltage occurs on the coldest morning.
+ANS: Bypass diodes create several local maxima in the power curve, and the tracker can settle on one that is not the global maximum.
+ANS: About one third, with two diodes conducting.
+ANS: Shading creates several local maxima in the power-voltage curve, and a hill-climbing tracker stops at the first maximum it reaches, which may not be the global one.
+ANS: 1900/8760 = 21.7 %.

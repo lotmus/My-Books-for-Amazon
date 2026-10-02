@@ -1,0 +1,35 @@
+H1: Chapter 4. Distributed Matching and the Smith Chart at Work
+P: Above a few gigahertz the lumped components of Chapter 3 run out: the values become fractions of a nanohenry or a picofarad, comparable to the parasitics of the pads they sit on. The cure is to build the matching network from the transmission line itself. A quarter-wave section transforms resistance, a stub supplies reactance, and a length of line moves an impedance to wherever it is most convenient to correct. Book 1 introduced the Smith chart as a map of impedance; this chapter uses it as the drawing board on which such designs are made.
+H2: 4.1 The quarter-wave transformer
+P: Chapter 2 showed that a quarter-wavelength line inverts its load: Zin = Zq²/ZL. Choosing the section's impedance as the geometric mean of the two resistances makes the input equal the source impedance exactly.
+EQ: Zq = √(Z0 RL),    length = λg / 4
+H2: Worked Example 4.1
+WEP: Match a 25 Ω load to a 50 Ω line at 2.45 GHz with a quarter-wave stripline section on εr = 3.55. Find its impedance and length, and the fractional bandwidth over which |Γ| stays below 0.1.
+WES: Zq = √(25 × 50) = 35.36 Ω. From Chapter 1, λg = 6.49 cm, so the section is 1.62 cm long. Away from the design frequency the section is no longer a quarter wave, and the reflection grows. For a single section, the bandwidth for a maximum reflection Γm is Δf/f0 = 2 − (4/π) arccos[(Γm/√(1 − Γm²)) × 2√(Z0RL)/|RL − Z0|]. With Γm = 0.1 this gives 0.367, so the match holds from about 2.00 to 2.90 GHz. Two sections in a binomial (maximally flat) design, of 42.0 Ω and 29.7 Ω, widen the same specification to 72%, at the cost of twice the length.
+P: The quarter-wave transformer matches only resistances. A complex load is first moved along a line to a point where its impedance is purely resistive, which happens twice in every half wavelength, at the maximum and the minimum of the standing wave, and the transformer is placed there.
+H2: 4.2 Reading the Smith chart as a tool
+P: On the Smith chart, a point is a normalized impedance z = Z/Z0, and its distance from the center is |Γ|. Three moves account for nearly every design. Moving along a lossless line toward the generator rotates the point clockwise around the center at constant |Γ|, a full turn for every half wavelength. Adding a series reactance moves the point along a circle of constant resistance. Adding a shunt susceptance moves it along a circle of constant conductance, which is easiest to see by switching to the admittance chart, the same chart rotated by 180°. A match is the center. A design is a path from the load to the center using only those moves.
+KEY: Key idea. A line changes an impedance's angle, a series element moves it along a resistance circle, and a shunt element along a conductance circle. Any match is a sequence of those three moves that ends at the center of the chart.
+H2: 4.3 The single-stub match
+P: The most common distributed match uses one length of line and one shunt stub. Starting at the load, the line rotates the admittance until its real part equals 1/Z0, which on the admittance chart means reaching the unit-conductance circle. At that point the admittance is 1/Z0 + jB. A shunt stub, short-circuited or open-circuited, supplies the susceptance −jB and lands the point at the center. There are always two solutions within a half wavelength, one on each side of the chart, and the shorter combination is normally preferred because it has the wider bandwidth.
+H2: Worked Example 4.2
+WEP: A load of 100 + j50 Ω on a 50 Ω line is to be matched with a short-circuited shunt stub at 2.45 GHz in the stripline of Chapter 1. Find the reflection coefficient, the stub position, and the stub length.
+WES: Γ = (100 + j50 − 50)/(100 + j50 + 50) = 0.447 at an angle of 26.6°, a VSWR of 2.62. The line length d that brings the normalized admittance onto the unit-conductance circle satisfies tan βd = 3 or tan βd = −1. The first solution, βd = 71.6°, is d = 0.199λ, where the normalized admittance is y = 1 + j1. A short-circuited stub has normalized admittance −j cot βl, so −j1 requires cot βl = 1 and l = λ/8. In the stripline, d = 0.199 × 6.49 = 1.29 cm and l = 0.81 cm. The second solution is d = 0.375λ, where y = 1 − j1, matched by a 3λ/8 short-circuited stub or a λ/8 open-circuited one.
+H2: 4.4 Why stubs are short, and when they are radial
+P: A stub's reactance changes with frequency faster the longer it is, because its electrical length grows in proportion to frequency. Choosing the shortest stub and the shortest line keeps the match broad. Open stubs avoid the via a short needs, but their end radiates a little and adds fringing capacitance, so the physical length is trimmed shorter than the calculation. Where a stub must present a very low impedance over a wide band, as when it feeds DC bias to an amplifier while blocking the RF, a radial stub, a fan-shaped open stub, gives a broader short circuit than a straight one.
+H2: Worked Example 4.3
+WEP: A bias feed must present a high impedance to the RF at its connection to a 50 Ω line. It uses a quarter-wave high-impedance line ending in a capacitor that is a short circuit at 2.45 GHz. Explain why the arrangement works and find the line's length in the stripline of Chapter 1.
+WES: A quarter-wave line inverts its termination. A short circuit at the far end, provided by the bypass capacitor or a radial stub, becomes an open circuit at the near end, so the bias line does not load the RF path, while DC passes freely along it. The length is λg/4 = 1.62 cm. Using a narrow, high-impedance line keeps the impedance high across a wider band around the design frequency, and the inversion works only near the frequencies at which the line is an odd number of quarter wavelengths long.
+H2: Practice
+PR: Find the impedance of a quarter-wave transformer matching 100 Ω to 50 Ω.
+PR: Find the single-section bandwidth for |Γ| < 0.1 when matching 100 Ω to 50 Ω.
+PR: A load is 25 − j25 Ω on a 50 Ω line. Show that a short-circuited shunt stub placed directly at the load can match it, and find the stub length.
+PR: On the Smith chart, how many degrees does a point rotate when it moves 0.1λ toward the generator?
+PR: A two-section binomial transformer matches 25 Ω to 50 Ω. Which section impedance sits next to the load?
+PR: Explain in one or two sentences why the shorter of the two single-stub solutions usually gives a wider bandwidth.
+ANS: Zq = √(100 × 50) = 70.7 Ω.
+ANS: The formula is symmetric in Z0 and RL, so the bandwidth for 100 to 50 Ω equals that for 25 to 50 Ω, a ratio of 2 in each case: 36.7%.
+ANS: YL = 1/(25 − j25) = 0.02 + j0.02 S, so its conductance is already 1/50 S. A stub must supply −j0.02 S, so −j cot βl = −j1 and l = λ/8.
+ANS: The reflection coefficient's phase changes by 2βd = 2 × 360° × 0.1 = 72°, clockwise.
+ANS: The 29.7 Ω section sits next to the 25 Ω load and the 42.0 Ω section next to the 50 Ω line.
+ANS: The reactance of a line or stub changes with frequency in proportion to its electrical length, so shorter elements drift less from their design values as the frequency moves.

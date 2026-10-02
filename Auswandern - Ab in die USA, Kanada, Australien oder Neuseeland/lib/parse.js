@@ -16,22 +16,29 @@ const path = require("path");
 
 const NBSP = " ";
 
-// Recursively collects manuscript chapter files under `dir` (which may group
-// them into subfolders, e.g. 02_USA/), skipping "_"-prefixed files/folders.
-// Returns paths relative to `dir`, sorted so numbered subfolders keep the
-// book's front-to-back order.
+// Collects manuscript chapters only from the numbered part folders
+// (00_Vorspann, 01_Universal, 02_USA, and the other NN_ folders).
+// Loose .md files that sit directly in the manuscript root are not chapters.
+// Skips "_"-prefixed files and folders. Returns paths relative to `dir`,
+// sorted so the numbered folders keep the book's front-to-back order.
 function listManuscriptFiles(dir) {
   const out = [];
-  (function walk(sub) {
-    const abs = path.join(dir, sub);
-    for (const entry of fs.readdirSync(abs, { withFileTypes: true }).sort((a, b) => a.name.localeCompare(b.name))) {
-      if (entry.name.startsWith("_")) continue;
-      const rel = sub ? path.join(sub, entry.name) : entry.name;
-      if (entry.isDirectory()) walk(rel);
-      else if (entry.name.endsWith(".md")) out.push(rel);
-    }
-  })("");
-  return out.sort();
+  const parts = fs.readdirSync(dir, { withFileTypes: true })
+    .filter((entry) => entry.isDirectory() && /^\d{2}_/.test(entry.name) && !entry.name.startsWith("_"))
+    .map((entry) => entry.name)
+    .sort((a, b) => a.localeCompare(b));
+  for (const part of parts) {
+    (function walk(sub) {
+      const abs = path.join(dir, sub);
+      for (const entry of fs.readdirSync(abs, { withFileTypes: true }).sort((a, b) => a.name.localeCompare(b.name))) {
+        if (entry.name.startsWith("_")) continue;
+        const rel = path.join(sub, entry.name);
+        if (entry.isDirectory()) walk(rel);
+        else if (entry.name.endsWith(".md")) out.push(rel);
+      }
+    })(part);
+  }
+  return out;
 }
 
 // ---------------------------------------------------------------- typography
@@ -244,8 +251,9 @@ const XREF_RE = /(Kapitel(?:n)?)[\s ]+(\d{1,2}(?:\s*(?:[–,]|und|bis)\s*\d{1,2
 function bookmarkFor(h2text, filename, fallbackIdx) {
   // Country and shared files get a stable id from the filename first.
   // Otherwise "Kapitel 1" in the universal part collides with USA Kapitel 1.
-  let m = filename && filename.match(/^(TAU|TKA|TNZ|T00)_K(\d\d)_/);
-  if (m) return (m[1] + m[2]).toLowerCase();
+  let m = filename && filename.match(/^(TAU|TKA|TNZ|T00)_K(\d\d)([a-z])?_/);
+  if (m) return (m[1] + m[2] + (m[3] || "")).toLowerCase();
+  if (filename && /^T04_K19a_/.test(filename)) return "k19a";
   m = h2text.match(/^Kapitel\s+(\d+)\s*:/);
   if (m) return "k" + m[1];
   m = h2text.match(/^Anhang\s+([A-G])\b/);

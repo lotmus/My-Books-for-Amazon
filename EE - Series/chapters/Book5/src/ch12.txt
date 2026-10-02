@@ -1,0 +1,59 @@
+H1: Chapter 12. FSK, Spread Spectrum, and Chirps
+P: The OFDM and QAM of the earlier chapters are designed to carry many bits per hertz. A large class of radios wants the opposite: few bits, very low power, long range, and resistance to interference. Bluetooth, satellite navigation, and low-power wide-area networks use frequency-shift keying, spread spectrum, and chirp modulation, which spend bandwidth to buy robustness. This chapter explains each and computes what the bandwidth buys.
+H2: 12.1 Frequency-shift keying
+P: FSK carries data in the instantaneous frequency of a constant-envelope carrier. Its amplitude never changes, so the transmitter can use a saturated, efficient amplifier of the kind Book 4 describes, and the receiver can use a simple limiting front end. The modulation index h is the peak-to-peak frequency deviation divided by the symbol rate; Gaussian filtering of the frequency pulse, GFSK, narrows the spectrum. Bluetooth Basic Rate uses GFSK at 1 Msym/s with h near 0.32, a deviation of about ±160 kHz. Minimum-shift keying, h = 0.5, is the narrowest FSK whose two tones stay orthogonal and is equivalent to offset QPSK with half-sine pulses.
+EQ: h = 2Δf / Rs,   Δf = h Rs / 2
+H2: 12.2 Direct-sequence spread spectrum
+P: A direct-sequence system multiplies each data bit by a fast pseudorandom chip sequence, spreading the signal over a bandwidth far larger than the data rate needs. The receiver multiplies by the same sequence and integrates, collapsing the signal back to its original bandwidth while spreading any narrowband interferer out. The ratio of chip rate to bit rate is the processing gain. It lets a signal be received below the noise floor, lets many users share a band with different codes, and resolves multipath echoes separated by more than one chip.
+EQ: Gp = 10 log10(Rc / Rb)
+H2: Worked Example 12.1
+WEP: The GPS L1 C/A signal has a chip rate of 1.023 Mchip/s and a data rate of 50 bit/s, and arrives at about −130 dBm. The receiver has a 2 dB noise figure and a 2.046 MHz front-end bandwidth. Find the processing gain, the SNR in the front-end bandwidth, the C/N0, and the Eb/N0.
+WES: Gp = 10 log10(1.023 × 10⁶ / 50) = 43.1 dB. The noise in 2.046 MHz is −174 + 63.1 + 2 = −108.9 dBm, so the signal is about 21 dB below the noise. C/N0 = −130 + 174 − 2 = 42 dBHz. At 50 bit/s, Eb/N0 = 42 − 17.0 = 25.0 dB, ample for the navigation message once the receiver has acquired the code; acquisition, searching over code phase and Doppler, is the hard part.
+KEY: Key idea. Spreading trades bandwidth for robustness. Despreading collapses the wanted signal and spreads interference, giving a processing gain equal to the ratio of chip rate to bit rate.
+H2: 12.3 Frequency hopping
+P: A frequency-hopping system moves a narrowband signal among many channels in a pseudorandom pattern. An interferer or a fade on one channel affects only the hops that land there, and coding repairs them. Bluetooth hops among 79 channels of 1 MHz at 1600 hops per second, a dwell of 625 µs, and adaptive frequency hopping removes channels found to be occupied, for example by Wi-Fi. Hopping gives no processing gain against wideband noise; its benefit is avoiding narrowband interference and fades.
+H2: 12.4 Chirp spread spectrum
+P: LoRa, widely used in low-power wide-area networks, spreads each symbol as a linear frequency sweep across its bandwidth, and encodes data in the sweep's starting frequency. The spreading factor SF sets how many bits a symbol carries and how long it lasts: a symbol takes 2^SF / B seconds and carries SF bits. Each increase of SF by one doubles the symbol time, roughly halves the data rate, and lowers the SNR needed for demodulation by about 2.5 dB. Chirps are robust to Doppler and to the frequency offsets of cheap crystals, which suits battery sensors.
+EQ: Tsym = 2^SF / B,   Rb = SF × (B / 2^SF) × CR
+H2: Worked Example 12.2
+WEP: Find the symbol time and bit rate of LoRa at 125 kHz with code rate 4/5, for SF7 and SF12. With required SNRs of −7.5 dB and −20 dB respectively and a 6 dB noise figure, find the sensitivities.
+WES: SF7: Tsym = 128/125,000 = 1.024 ms, Rb = 7 × 976.6 × 0.8 = 5469 bit/s. SF12: Tsym = 4096/125,000 = 32.8 ms, Rb = 12 × 30.5 × 0.8 = 293 bit/s. The noise floor in 125 kHz with a 6 dB noise figure is −174 + 51.0 + 6 = −117.0 dBm, so the sensitivities are −124.5 dBm and −137.0 dBm. The 12.5 dB gain at SF12, in free space, extends the range by a factor of 10^(12.5/20) = 4.2, at a cost of nearly 19 times lower data rate and airtime that grows accordingly.
+H2: 12.5 Which to use
+P: Spread spectrum and chirps are chosen when the link is long, the power tiny, or the band crowded; QAM and OFDM when bits per hertz matter. Many systems use both: 5G and Wi-Fi carry data with OFDM but use spread sequences for synchronization and random access, and GNSS uses spreading because it must work far below the noise. The regulatory rules of Book 7 often favor spreading or hopping in unlicensed bands by allowing higher power or relaxed duty cycles for them.
+H2: 12.6 MSK and GMSK: FSK with a smooth phase
+P: Plain FSK switches between two oscillators and can leave the phase jumping at each symbol boundary, which spreads the spectrum. Continuous-phase FSK with a modulation index h = Δf_pp T = 0.5, the smallest spacing at which the two tones are orthogonal, is minimum-shift keying. Its phase moves by exactly ±90° per bit along a continuous path, the envelope is constant, and the spectrum falls off as 1/f⁴. Passing the bits through a Gaussian filter before the frequency modulator smooths the frequency transitions further and narrows the spectrum: that is GMSK, with the filter's bandwidth-time product BT setting the trade. GSM uses BT = 0.3, so a 270.833 kbit/s signal fits a 200 kHz channel; Bluetooth uses Gaussian FSK with BT = 0.5 and h between 0.28 and 0.35. The constant envelope lets the transmitter run its amplifier saturated, at full efficiency, which is why every second-generation phone and every Bluetooth earbud uses it.
+H2: 12.7 GPS: spreading as a ranging tool
+P: The GPS L1 C/A signal is direct-sequence spread spectrum used for two purposes. Each satellite spreads a 50 bit/s navigation message with its own 1023-chip Gold code at 1.023 Mchip/s, so all satellites share one frequency, 1575.42 MHz, and the receiver separates them by correlating with each code: code-division multiple access. The processing gain from 1.023 Mchip/s to 50 bit/s is 43 dB, which is what lets the receiver use a signal that arrives far below the noise. The same correlation peak marks the arrival time to a small fraction of a chip, 293 m, and the time is the range of Chapter 16. Galileo, BeiDou, and the newer GPS L5 signal use longer codes and faster chips for the same reasons.
+H2: Worked Example 12.3
+WEP: The GPS C/A signal arrives at the specified minimum of −128.5 dBm. A receiver has a noise figure of 2 dB. Find the C/N0, the SNR in the 2 MHz receiver band, and Eb/N0 for the 50 bit/s data.
+WES: The noise density is −174 + 2 = −172 dBm/Hz, so C/N0 = −128.5 − (−172) = 43.5 dB-Hz. In 2 MHz, which is 63.0 dB-Hz, the SNR is 43.5 − 63.0 = −19.5 dB: the signal is buried 20 dB under the noise. After despreading, the 50 bit/s data see Eb/N0 = 43.5 − 17.0 = 26.5 dB, far more than BPSK needs. The margin is used to track the code and carrier through foliage and to acquire weak signals indoors.
+H2: Worked Example 12.4
+WEP: A LoRa receiver has a noise figure of 6 dB. Find its sensitivity at SF12 in a 125 kHz bandwidth, where demodulation needs an SNR of −20 dB, and at SF7, where it needs −7.5 dB.
+WES: The noise in 125 kHz is −174 + 51.0 + 6 = −117.0 dBm. At SF12 the sensitivity is −117.0 − 20 = −137 dBm, the figure on the Semtech SX1276 data sheet; at SF7, −124.5 dBm. The 12.5 dB difference costs a factor of 5468.75/293 = 18.7 in bit rate, 5.5 kbit/s against 293 bit/s.
+H2: 12.8 Adaptive frequency hopping in Bluetooth
+P: Classic Bluetooth hops across 79 channels of 1 MHz at 1600 hops per second, so a single 625 µs slot occupies one channel and a packet hit by Wi-Fi is simply resent on another. With three or four busy Wi-Fi networks covering much of the 2.4 GHz band, random hopping would lose a large share of packets. Adaptive frequency hopping, introduced in Bluetooth 1.2, lets the central device classify channels as good or bad from its error statistics and remap hops away from the bad ones, down to a minimum of 20 channels. BLE applies the same idea to its 37 data channels with a channel map that both ends update. This is why a Bluetooth headset and a Wi-Fi laptop can work side by side without coordination.
+H2: Worked Example 12.5
+WEP: A Wi-Fi network occupies 20 MHz of the 2.4 GHz band continuously. What fraction of classic Bluetooth's 79 channels does it block, and what fraction of hops does it hit with and without adaptive hopping?
+WES: 20 MHz covers about 20 of the 79 channels, 25 %. Random hopping lands on them 25 % of the time, a packet loss rate no audio link tolerates. Adaptive hopping removes those 20 from the map and hops over the remaining 59, so the collision rate falls to near zero, at the cost of slightly less frequency diversity against fading.
+P: FSK, spreading, hopping, and chirps buy robustness at the cost of spectral efficiency. With the waveforms settled, Chapter 13 returns to the receiver's knowledge of the channel and asks how pilots provide it.
+H2: Practice
+PR: Find the processing gain of 10 Mchip/s spreading for a 100 kbit/s signal.
+PR: Find the frequency deviation of GFSK at 2 Msym/s with h = 0.5.
+PR: Find the LoRa symbol time and bit rate for SF10 at 125 kHz and CR 4/5.
+PR: What is the dwell time of a system hopping 1600 times a second?
+PR: A GNSS receiver tracks the C/A code with only 1 kbit/s of integration. What is the processing gain?
+PR: Why can an FSK transmitter use a saturated power amplifier?
+PR: Find the processing gain of a DSSS system that spreads 1 kbit/s data at 1.023 Mchip/s.
+PR: What modulation index makes binary FSK minimum-shift keying, and what is its tone spacing at 1 Mbit/s?
+PR: A GPS signal arrives at −130 dBm into a receiver with a 3 dB noise figure. Find C/N0.
+PR: How long does a classic Bluetooth slot last, and how many hops per second does that give?
+ANS: 20 dB.
+ANS: 0.5 × 2 × 10⁶ / 2 = 500 kHz.
+ANS: 8.19 ms and 977 bit/s.
+ANS: 625 µs.
+ANS: 10 log10(1023) = 30.1 dB.
+ANS: FSK has a constant envelope, so amplitude distortion in the amplifier does not corrupt it.
+ANS: 10 log₁₀1023 = 30.1 dB.
+ANS: h = 0.5, a spacing of 0.5 × 1 MHz = 500 kHz between the two tones.
+ANS: −130 − (−171) = 41 dB-Hz.
+ANS: 625 µs; 1/625 µs = 1600 hops per second.

@@ -1,0 +1,35 @@
+H1: Chapter 40. Power Detection and Power Control
+P: A transmitter must know how much power it is sending. Regulators cap it, link budgets assume it, RF-exposure limits from Chapter 33 depend on it, and cellular networks command each handset to raise or lower it many times a second. This chapter describes how a transmitter measures its own output with a coupler and detector, the errors that measurement suffers, and the control loops that hold the power where it should be.
+H2: 40.1 The coupler and the detector
+P: A directional coupler, Chapter 9, samples a fixed fraction of the forward wave, for example 20 dB below it, and sends it to a detector. Diode detectors respond to the square of the voltage at low levels, below about −20 dBm, and to its peak at higher levels; logarithmic amplifiers give a voltage proportional to the input in decibels over 60 dB or more; RMS detectors give the true average power regardless of the waveform. An attenuator between coupler and detector places the transmitter's power range inside the detector's range.
+H2: Worked Example 40.1
+WEP: A 40 dBm transmitter uses a 20 dB coupler and a detector with a range of −30 to 0 dBm. What pad is needed, and over what output range can the power be measured?
+WES: The coupled power at full output is 40 − 20 = 20 dBm, so a 20 dB pad brings it to 0 dBm, the top of the detector's range. The bottom, −30 dBm at the detector, corresponds to 40 − 30 = 10 dBm at the output, a 30 dB control range. A log detector with 60 dB range would extend it to −20 dBm.
+H2: 40.2 Directivity error
+P: A real coupler also passes a little of the reflected wave to its forward port, suppressed by the coupler's directivity D in addition to the coupling. If the antenna reflects with return loss RL, the leaked reflection adds to or subtracts from the forward sample depending on phase, so the measured power is uncertain by an amount set by RL + D. Good directivity and a good antenna match keep the error small; a mismatched antenna, as from a hand on a phone, can make it large.
+EQ: error = 20 log₁₀(1 ± 10^(−(RL + D)/20)) dB
+H2: Worked Example 40.2
+WEP: A coupler with 25 dB directivity is used with an antenna whose return loss is 10 dB. Find the measurement uncertainty.
+WES: RL + D = 35 dB, so the leaked wave is 10^(−35/20) = 0.018 of the forward sample in voltage. The error lies between +0.15 dB and −0.16 dB, acceptable for most control loops. With the antenna at 6 dB return loss and 20 dB directivity, the bounds widen to +0.42 and −0.45 dB.
+KEY: Key idea. A coupler and detector measure the forward power; the error from the coupler's finite directivity grows as the antenna's match worsens. RMS or log detectors are needed for modulated signals with high peak-to-average ratios.
+H2: 40.3 Detecting modulated signals
+P: A diode detector operated in its peak-responding region reads high for signals with a high peak-to-average ratio, and the error depends on the modulation. OFDM signals, with peak-to-average ratios of 8 to 10 dB, therefore need RMS detectors, or a diode kept in its square-law region, or digital measurement in the observation receiver of Chapter 38, which computes the average power from samples exactly.
+H2: 40.4 The control loop
+P: Closed-loop power control compares the detected power with a target and adjusts the gain of a variable attenuator or the drive of the amplifier. In cellular systems an outer loop runs through the network: the base station measures the handset's received signal and sends transmit-power-control commands, typically steps of ±1 dB, so that every handset arrives at about the same level and the near-far problem of Book 5's interference chapter is avoided. A handset's output range is large, from about −40 dBm to its maximum of 23 dBm in the common power class, 63 dB in total, so the control must work at low power where the detector is weakest.
+H2: Worked Example 40.3
+WEP: A handset at 23 dBm receives eight consecutive −1 dB commands. Find its new power, and the factor by which its battery current for the amplifier might fall if the amplifier's efficiency stayed constant.
+WES: The power falls to 23 − 8 = 15 dBm, from 200 mW to 31.6 mW, a factor of 6.3. In practice efficiency falls at back-off, so the current falls by less unless the supply is reduced too, which is the purpose of the envelope-tracking and average-power-tracking supplies of Chapter 36.
+P: One question remains open from Chapters 22, 23, 35, and 36: how the amplifier classes compare when they are set side by side, and how far the supply itself can be made to work for efficiency, including rising above its nominal rail on the signal's peaks. Chapter 41 closes the book with that comparison, a complete design, and a look back over the whole radio.
+H2: Practice
+PR: A 33 dBm transmitter uses a 30 dB coupler and a detector whose maximum is 0 dBm. What pad is needed?
+PR: Find the directivity error bounds for RL + D = 40 dB.
+PR: What is the handset output range from −40 dBm to 23 dBm?
+PR: Convert 15 dBm to milliwatts.
+PR: Why does a peak-responding detector read high for OFDM?
+PR: What does a log detector's output voltage track?
+ANS: 3 dB.
+ANS: +0.09 dB and −0.09 dB.
+ANS: 63 dB.
+ANS: 31.6 mW.
+ANS: It responds to the signal's peaks, and OFDM's peaks are 8 to 10 dB above its average power.
+ANS: The input power in decibels, over a wide range.

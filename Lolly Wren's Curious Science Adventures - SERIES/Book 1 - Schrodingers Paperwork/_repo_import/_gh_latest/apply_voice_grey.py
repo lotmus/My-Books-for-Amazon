@@ -25,7 +25,7 @@ WS = Path(
     r"\Schrodingers_Paperwork"
     r"\Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx"
 )
-GUIDE = SERIES / "MANUSCRIPT_GUIDE.md"
+GUIDE = SERIES / "notes" / "MANUSCRIPT_GUIDE.md"
 GUIDE_WS = Path(
     r"c:\Users\lomus\OneDrive\My Books for Amazon"
     r"\Schrodingers_Paperwork"
@@ -36,7 +36,7 @@ CHAR = Path(
     r"\Schrodingers_Paperwork"
     r"\CHARACTER_AND_PLACE_GUIDE.md"
 )
-CHAR_SERIES = SERIES / "CHARACTER_AND_PLACE_GUIDE.md"
+CHAR_SERIES = SERIES / "notes" / "CHARACTER_AND_PLACE_GUIDE.md"
 
 LDQ = "\u201c"
 RDQ = "\u201d"

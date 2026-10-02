@@ -1,0 +1,22 @@
+H1: Chapter 19. RF Switches
+P: Every radio selects paths: one antenna or another, one band filter or another, the transmit or the receive side. The element that does it is a switch, a PIN diode, a silicon-on-insulator transistor, or a MEMS contact, and at RF it is analyzed with the impedances and reflection coefficients of this book. This chapter computes a switch's insertion loss and isolation and shows how series and shunt elements combine. The passive mixer, which is also a switch, is treated with the other mixers in Chapter 29.
+H2: 19.1 The series switch
+P: A PIN diode, a silicon-on-insulator transistor, or a MEMS contact can act as a switch. In series with a 50 Ω line, the switch's on-state resistance R causes insertion loss, and its off-state capacitance C lets signal leak through, limiting isolation. For a series element of impedance Z between matched source and load, the transmission is 2Z₀/(2Z₀ + Z).
+EQ: IL = 20 log₁₀|1 + Z/(2Z₀)|,   Z_on = R,   Z_off = 1/(jωC)
+H2: Worked Example 19.1
+WEP: A series switch has R = 1 Ω on and C = 0.1 pF off. Find the insertion loss and the isolation at 2.45 GHz.
+WES: On, IL = 20 log(1 + 1/100) = 0.086 dB. Off, the capacitance has a reactance of 1/(2π × 2.45×10⁹ × 0.1×10⁻¹²) = 650 Ω, and the isolation is 20 log|1 − j6.50| = 16.4 dB. That isolation is poor for a transmit-receive switch, and it worsens with frequency as the reactance falls.
+H2: 19.2 Shunt switches and the series-shunt pair
+P: A switch to ground across the line works the other way: off, its small capacitance barely loads the line; on, its low resistance shorts the line and reflects the signal. For a shunt element Z, the transmission is 2Z/(2Z + Z₀). Practical switches combine a series element in the through path with a shunt element that turns on when the series one turns off, so the off state both blocks and shorts the signal. A quarter-wave line between a shunt switch and the junction, Chapter 2's impedance inverter, turns the short into an open at the junction so the off arm does not load the on arm.
+EQ: S₂₁(shunt) = 2Z / (2Z + Z₀)
+H2: Worked Example 19.2
+WEP: A shunt switch has R = 1 Ω when on. Find the isolation it provides.
+WES: |S₂₁| = 2/(2 + 50) = 0.0385, an isolation of 28.3 dB, in addition to the 16 dB of the series element if both are used. Isolations of 40 dB and more come from such series-shunt combinations, at the cost of slightly more insertion loss.
+KEY: Key idea. A series switch's isolation is set by its off capacitance and falls with frequency; a shunt switch to ground, or a series-shunt pair, restores it.
+H2: Practice
+PR: Find the insertion loss of a series switch with R = 2 Ω.
+PR: Find the isolation of a series switch with C = 0.1 pF at 5.8 GHz.
+PR: Find the isolation of a shunt switch with R = 2 Ω.
+ANS: 0.17 dB.
+ANS: 9.3 dB.
+ANS: 22.6 dB.

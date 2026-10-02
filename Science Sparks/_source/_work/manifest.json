@@ -1,0 +1,81 @@
+[
+ {
+  "file": "05_physics.md",
+  "parts": [
+   "05_physics__part1.md",
+   "05_physics__part2.md",
+   "05_physics__part3.md"
+  ]
+ },
+ {
+  "file": "02_cosmology.md",
+  "parts": [
+   "02_cosmology__part1.md",
+   "02_cosmology__part2.md",
+   "02_cosmology__part3.md"
+  ]
+ },
+ {
+  "file": "04b_qworld_prose.md",
+  "parts": [
+   "04b_qworld_prose__part1.md",
+   "04b_qworld_prose__part2.md"
+  ]
+ },
+ {
+  "file": "04c_qconv_prose.md",
+  "parts": [
+   "04c_qconv_prose__part1.md",
+   "04c_qconv_prose__part2.md"
+  ]
+ },
+ {
+  "file": "04d_qed_course.md",
+  "parts": [
+   "04d_qed_course__part1.md",
+   "04d_qed_course__part2.md"
+  ]
+ },
+ {
+  "file": "03_evolution.md",
+  "parts": [
+   "03_evolution__part1.md",
+   "03_evolution__part2.md"
+  ]
+ },
+ {
+  "file": "04a_genetics_prose.md",
+  "parts": [
+   "04a_genetics_prose__part1.md",
+   "04a_genetics_prose__part2.md",
+   "04a_genetics_prose__part3.md"
+  ]
+ },
+ {
+  "file": "06_math_tower.md",
+  "parts": [
+   "06_math_tower__part1.md",
+   "06_math_tower__part2.md",
+   "06_math_tower__part3.md"
+  ]
+ },
+ {
+  "file": "01_ee_qed.md",
+  "parts": [
+   "01_ee_qed__part1.md",
+   "01_ee_qed__part2.md"
+  ]
+ },
+ {
+  "file": "09_history.md",
+  "parts": [
+   "09_history__part1.md"
+  ]
+ },
+ {
+  "file": "10_novel_appendices.md",
+  "parts": [
+   "10_novel_appendices__part1.md"
+  ]
+ }
+]

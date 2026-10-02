@@ -25,7 +25,7 @@ Wer die Eignungshürde nimmt, wird in den Bewerberpool aufgenommen und nach CRS-
 
 > **Merke:** Der CRS ist kein Ja-Nein-Filter, sondern eine laufende Rangliste im Bewerberpool. Ein hoher Score erhöht die Chance auf eine Einladung, garantiert sie aber nicht – und die Cutoffs schwanken von Runde zu Runde, je nachdem, wie viele Profile mit welchem Score gerade im Pool stehen.
 
-> **Praxisbeispiel:** Familie Ahrens (fiktiv) aus Leipzig prüfte vor der Entscheidung den Federal-Skilled-Worker-Weg. Markus, Softwarearchitekt mit mehrjähriger Erfahrung und einem guten Englischtestergebnis, kam über das 67-Punkte-Zulassungsraster hinweg und erreichte im CRS einen Score, der bei den meisten allgemeinen Runden 2026 komfortabel über der Einladungsgrenze lag. Dass Julia als Apothekerin zusätzliche Punkte für Bildung und Anpassungsfähigkeit beisteuerte, machte den Unterschied zwischen einem knappen und einem sicheren Score. Anders als beim australischen Punktetest mussten die Ahrens keine Wohnsitzbindung an eine bestimmte Provinz eingehen – der Federal-Skilled-Worker-Weg erlaubt freie Wohnortwahl in ganz Kanada, sobald die Aufenthaltserlaubnis erteilt ist.
+> **Praxisbeispiel:** Familie Ahrens (fiktiv) aus Leipzig prüfte vor der Entscheidung den Federal-Skilled-Worker-Weg. Markus, Softwarearchitekt mit mehrjähriger Erfahrung und einem guten Englischtestergebnis, kam über das 67-Punkte-Zulassungsraster hinweg und erreichte im CRS einen guten Score, Julias Bildung und Anpassungsfähigkeit eingerechnet. Eine Einladung brachte das allein nicht, denn allgemeine Runden zog IRCC 2026 keine. Den Ausschlag gab eine Express-Entry-gekoppelte Nominierung der Provinz Ontario mit 600 Zusatzpunkten. Der Preis: Die Ahrens mussten glaubhaft machen, dass sie in Ontario leben wollen. Für Toronto war das ohnehin der Plan.
 
 ### Provincial Nominee Program: Einwanderung über die Provinz
 
@@ -76,7 +76,8 @@ Die Entscheidung ist selten eine reine Punkterechnung. Wer eine Familie mitnimmt
 
 | Ausgangslage | Meist passender Weg |
 |---|---|
-| Guter CRS-Score, kein Jobangebot nötig, freie Wohnortwahl gewünscht | Express Entry (FSW) |
+| Beruf in einer aktuellen Kategorie (etwa Gesundheit, Handwerk, Bildung) oder gutes Französisch, kein Jobangebot | Express Entry (FSW) über eine Kategorie-Runde |
+| Guter CRS-Score, aber keine passende Kategorie | Express Entry plus Provinznominierung (PNP) |
 | Score knapp unter dem Cutoff, Bereitschaft zu Wohnsitzbindung | Provincial Nominee Program |
 | Bereits ein Jahr qualifiziert in Kanada gearbeitet (z. B. nach PGWP) | Canadian Experience Class |
 | Konkretes Jobangebot eines kanadischen Arbeitgebers liegt vor | LMIA-pflichtiges oder LMIA-freies Arbeitsvisum |

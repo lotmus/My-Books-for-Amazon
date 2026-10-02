@@ -1,0 +1,60 @@
+H1: Chapter 21. IoT Radios: BLE, 802.15.4, and NB-IoT
+P: Most radios in the world are not phones. They are sensors, tags, locks, and meters that send a few bytes now and then and must run for years from a coin cell or a small battery. Their physical layers are designed around energy per delivered bit rather than spectral efficiency. This chapter examines three families, Bluetooth Low Energy, IEEE 802.15.4 (the base of Zigbee and Thread), and NB-IoT, and shows how the duty cycle, the spreading, and the repetitions set battery life and range.
+H2: 21.1 The energy budget of a coin cell
+P: A CR2032 lithium coin cell stores about 225 mAh at a nominal 3 V, which is about 2430 J. A radio that draws milliamperes while active can only last years if it is active for a tiny fraction of the time. The average power is the active current times the duty cycle plus the sleep current, all times the supply voltage, and the sleep current, often a microampere or two, can dominate.
+EQ: Pavg = V (Iactive × ton/T + Isleep),   life = Ebattery / Pavg
+H2: Worked Example 21.1
+WEP: A BLE beacon draws 5 mA for 1 ms once every second from a 3 V CR2032 (2430 J). Find the average power and the battery life, first ignoring sleep current and then with 1 µA of sleep current.
+WES: The average current is 5 mA × 1 ms/1 s = 5 µA, so Pavg = 15 µW and the life is 2430/15×10⁻⁶ = 1.62×10⁸ s, about 5.1 years. With 1 µA of sleep current the average becomes 6 µA, 18 µW, and the life falls to about 4.3 years. One microampere of sleep costs most of a year; self-discharge and temperature cut further in practice.
+H2: 21.2 Bluetooth Low Energy
+P: BLE uses 40 channels of 2 MHz in the 2.4 GHz band, three of which are advertising channels placed to avoid the most common Wi-Fi channels. The modulation is Gaussian frequency-shift keying at 1 Msymbol/s, with an optional 2 Mbit/s mode for speed. For range, the Coded PHY repeats each bit with forward error correction: S = 2 gives 500 kbit/s and S = 8 gives 125 kbit/s. Eight coded symbols per bit give 10 log₁₀ 8 = 9.0 dB more energy per bit, which, after the coding gain, extends the range by roughly a factor of two to four in open space.
+H2: 21.3 IEEE 802.15.4 and direct-sequence spreading
+P: In the 2.4 GHz band, 802.15.4 sends 4-bit symbols, each mapped to one of 16 nearly orthogonal sequences of 32 chips at 2 Mchip/s, with offset-QPSK modulation. The symbol lasts 16 µs and the data rate is 250 kbit/s. The spreading is Chapter 12's direct-sequence idea: 2 Mchip/s carrying 250 kbit/s gives a processing gain of 10 log₁₀ 8 = 9.0 dB, which buys robustness against narrowband interference. Zigbee and Thread build mesh networks on top of this PHY, so a message can hop from node to node to cover a building.
+EQ: Rb = 4 bits / 16 µs = 250 kbit/s,   Gp = 10 log₁₀(2×10⁶/2.5×10⁵) = 9.0 dB
+H2: Worked Example 21.2
+WEP: Find the 802.15.4 symbol duration and the processing gain from the chip rate and data rate.
+WES: Thirty-two chips at 2 Mchip/s take 16 µs, which carry 4 bits, so Rb = 250 kbit/s. The ratio of chip rate to bit rate is 8, and Gp = 9.0 dB.
+KEY: Key idea. IoT radios trade rate for energy and range. Duty cycle and sleep current set battery life; spreading and coding add energy per bit where it counts.
+H2: 21.4 NB-IoT and coverage by repetition
+P: NB-IoT is a cellular IoT system inside a 180 kHz carrier, a single LTE resource block, which can be deployed in-band, in an LTE guard band, or standalone. Its main tool for deep coverage, in basements and meter cabinets, is repetition: the same block is sent many times and the receiver combines the copies. Each doubling of repetitions doubles the energy per bit and gains about 3 dB, so the target of about 20 dB of extra coverage over normal LTE needs about 100 repetitions, at the cost of a longer airtime and more energy per message. Power-saving mode and extended discontinuous reception let the device sleep for hours between contacts.
+EQ: gain ≈ 10 log₁₀ R,   R ≈ 10^(gain/10)
+H2: Worked Example 21.3
+WEP: How many repetitions give a 20 dB coverage gain, and what does the airtime of a 10 ms block become?
+WES: R = 10^(20/10) = 100 repetitions, so the airtime rises to about 1 s. In practice coding and channel-estimation losses mean slightly more is needed. The energy per message rises in proportion, which is why NB-IoT devices in deep coverage last fewer years than those near the base station.
+H2: 21.5 LoRaWAN and the duty-cycle rule
+P: A LoRa radio is the physical layer; LoRaWAN is the network built on it. Class A devices, the default, transmit when they have data and open two short receive windows one and two seconds afterwards, so the gateway can only reply then; the rest of the time the radio is off. Gateways listen on eight channels and all spreading factors at once, so a cheap sensor never needs to synchronize. The time on air is long, because a chirp at SF12 in 125 kHz lasts 32.8 ms, and in Europe the 868 MHz band limits each device to a 1 % duty cycle in most sub-bands. Adaptive data rate moves devices close to a gateway to small spreading factors, which shortens their airtime, saves their battery, and leaves room for the distant ones.
+H2: 21.6 Choosing a low-power radio
+P: The choice among the IoT radios is mostly made by four numbers: the range needed, the data per day, the energy budget, and whether an operator's network or one's own gateway carries the traffic. BLE moves tens of kilobytes at a few milliamperes over tens of meters, ideal for anything a phone talks to. Thread and Zigbee on 802.15.4 build a self-healing mesh across a building, and Thread carries the Matter smart-home standard. LoRaWAN reaches kilometers with a few bytes a few times an hour and no subscription. NB-IoT and LTE-M use an operator's network for nationwide coverage with a monthly fee and a modem that idles in power-saving mode at a few microamperes. Wi-Fi HaLow, 802.11ah below 1 GHz, offers megabits at a kilometer for cameras and gateways. None wins on all four.
+H2: Worked Example 21.4
+WEP: A LoRaWAN sensor sends a 12-byte payload at SF12, 125 kHz, coding rate 4/5, with an 8-symbol preamble and a CRC. The time on air from the Semtech formula is 1.155 s. Under the European 1 % duty-cycle rule, how often may it transmit, and how does SF7, with 41.2 ms on air, compare?
+WES: At 1 % the device must stay silent for 99 times its airtime: one message per 1.155/0.01 = 115.5 s, about 31 messages per hour. At SF7 one message per 4.1 s is allowed, 28 times as many, and each costs 28 times less energy. A device close enough to a gateway for SF7 should never be left at SF12.
+H2: Worked Example 21.5
+WEP: A BLE sensor based on a Nordic nRF52840 transmits a 1 ms advertisement at 0 dBm, drawing about 4.8 mA with the DC/DC converter enabled, on three channels once per second, plus 1 ms of start-up at about 2 mA, and sleeps at 2 µA otherwise. Estimate its average current and the life of a 225 mAh CR2032.
+WES: Active charge per second is 3 × 1 ms × 4.8 mA + 1 ms × 2 mA = 16.4 µC, an average of 16.4 µA, plus 2 µA of sleep, 18.4 µA. The cell lasts 225 mAh / 18.4 µA = 12 200 h, about 1.4 years, less in practice because a coin cell's capacity falls at pulsed loads and low temperature. Advertising every 5 s instead raises the life to about 4.9 years: the interval, not the radio, decides the battery life.
+H2: 21.7 Backscatter and passive RFID
+P: The lowest-energy radio has no transmitter at all. A passive UHF RFID tag, under the EPC Gen2 standard (ISO 18000-63) in the 860 to 960 MHz band, harvests the reader's carrier to power its chip and answers by switching its antenna's load, reflecting more or less of the carrier back to the reader. The forward link, which must deliver power, is almost always the limit: a modern tag chip such as the Impinj M800 series wakes at about −24 dBm, while the reader's receiver can detect reflections far weaker than that. The read range therefore follows from the reader's EIRP, 4 W in the United States and about 3.3 W in Europe, the path loss, and the tag's sensitivity. Battery-free sensors and the ambient-IoT work in 3GPP Release 19 extend the same principle to cellular bands.
+H2: Worked Example 21.6
+WEP: A reader radiates 36 dBm EIRP at 915 MHz to a tag with a 2 dBi antenna and a chip sensitivity of −20 dBm. Find the free-space read range set by the forward link.
+WES: The tag can tolerate 36 + 2 − (−20) = 58 dB of path loss. Free-space loss is 20 log₁₀(4πd/λ) with λ = 0.328 m, so d = (λ/4π) × 10^(58/20) = 0.0261 × 794 = 20.7 m. Real tags on real objects reach 5 to 12 m, because the object detunes the antenna, the polarization does not match, and multipath creates nulls; a −24 dBm chip adds about 60 % to the free-space figure.
+P: The IoT radios close the book's tour from Shannon's bound to a sensor on a coin cell. Each one is the same modem in a different balance: bandwidth, power, coding, and time traded against one another to fit a job. The hardware that radiates and receives those waveforms is Book 4's; the boards, packages, and the emission tests that every one of them must pass are Book 7's.
+H2: Practice
+PR: A sensor draws 8 mA for 2 ms every 10 s and sleeps at 2 µA, from a 3 V, 2430 J coin cell. Find the average power.
+PR: Find the battery life for the previous problem.
+PR: How many BLE advertising channels are there?
+PR: What is the energy-per-bit gain of BLE Coded S = 8 over the 1 Mbit/s PHY?
+PR: Find the 802.15.4 processing gain from 2 Mchip/s and 250 kbit/s.
+PR: How many NB-IoT repetitions give about 15 dB of gain?
+PR: Find the duration of a LoRa symbol at SF10 in 125 kHz.
+PR: A sensor's average current is 10 µA. How long does a 225 mAh coin cell last, ignoring capacity derating?
+PR: Why does adaptive data rate in LoRaWAN increase the capacity of a network, not just the battery life of the devices it moves?
+PR: How much does the free-space read range grow when tag sensitivity improves by 6 dB?
+ANS: 10.8 µW.
+ANS: About 7.1 years.
+ANS: Three of the 40 channels.
+ANS: 9.0 dB.
+ANS: 9.0 dB.
+ANS: About 32.
+ANS: 2¹⁰/125 kHz = 8.19 ms.
+ANS: 22 500 h, about 2.6 years.
+ANS: A device moved to a smaller spreading factor occupies the channel for a much shorter time, so the gateway can receive more messages per hour before collisions rise, and signals at different spreading factors are nearly orthogonal, so they can share the channel.
+ANS: 10^(6/20) = 2.0 times.

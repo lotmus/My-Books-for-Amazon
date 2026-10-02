@@ -1,0 +1,52 @@
+H1: Chapter 21 — Active Filter Design: Sallen-Key and Multiple Feedback
+P: Chapter 6 built the vocabulary of filters: order, roll-off, corner frequency, and the reason an op-amp makes a filter independent of its load. It stopped at first-order stages. Real anti-aliasing filters, audio crossovers, and sensor conditioners usually need a sharper transition, which means second-order sections and cascades of them. This chapter designs those sections from a specification to standard part values, using the two circuits that account for most active filters ever built.
+H2: 21.1 The Second-Order Section
+P: Every second-order low-pass response, however it is built, has the same transfer function, set by three numbers: a passband gain H₀, a natural frequency ω₀ = 2πf₀, and a quality factor Q:
+EQ: H(s) = H₀ ω₀² / (s² + (ω₀/Q) s + ω₀²)
+P: Q controls the shape near the corner. At f₀ the gain is exactly Q × H₀. A low Q gives a gentle, droopy knee; a high Q gives a peak. Three values recur often enough to have names. Q = 0.7071 (1/√2) is the Butterworth response, as flat as possible in the passband, with its −3 dB point exactly at f₀. Q = 0.5773 (1/√3) is the second-order Bessel response, which gives up some sharpness in exchange for nearly constant time delay, so a step passes through it with almost no overshoot. Higher values, such as 0.9565 for a Chebyshev response with 1 dB of passband ripple, buy a steeper initial roll-off at the cost of ripple and ringing.
+FIG: fig21_1.png | Figure 21.1 — Second-order low-pass magnitude for Bessel (Q = 0.577), Butterworth (Q = 0.707), and 1 dB Chebyshev (Q = 0.957) sections with the same f₀.
+H2: 21.2 The Unity-Gain Sallen-Key Low-Pass
+P: The Sallen-Key low-pass uses two resistors in series from the input to the non-inverting input of an op-amp wired as a follower. A capacitor C₂ goes from the non-inverting input to ground, and a capacitor C₁ goes from the junction of the two resistors back to the output. That feedback capacitor is what lifts the response near the corner and makes Q larger than a passive RC-RC ladder could achieve. With R₁ and R₂ as the two resistors:
+EQ: ω₀ = 1/√(R₁R₂C₁C₂),    Q = √(R₁R₂C₁C₂) / (C₂(R₁ + R₂))
+P: With equal resistors R₁ = R₂ = R, these simplify to ω₀ = 1/(R√(C₁C₂)) and Q = ½√(C₁/C₂). The capacitor ratio sets Q and the resistor sets the frequency, which is the cleanest way to design one. A Butterworth section needs C₁/C₂ = 2.
+WE: Worked Example 21.1
+PROB: Design a unity-gain Sallen-Key Butterworth low-pass filter with f₀ = 1 kHz, using E12 capacitors and E96 resistors. Find the resulting f₀ and Q.
+SOL: A Butterworth section wants C₁ = 2C₂. The nearest E12 pair is C₂ = 10 nF and C₁ = 22 nF, a ratio of 2.2, giving Q = ½√2.2 ≈ 0.742. The resistor then follows from R = 1/(2πf₀√(C₁C₂)) = 1/(2π × 1000 × √(22×10⁻⁹ × 10×10⁻⁹)) ≈ 10.73 kΩ, and the nearest E96 value is 10.7 kΩ. With those parts, f₀ ≈ 1003 Hz and Q ≈ 0.742. A numerical check of the circuit gives a −3 dB frequency of about 1049 Hz and a peak of only 0.04 dB above the passband, which no application that chose a 5% capacitor would ever notice.
+P: Because the op-amp is a follower, the passband gain is exactly one and the noise gain is one, so the op-amp has its full bandwidth to work with. That makes the unity-gain Sallen-Key the usual choice for low-noise, low-Q sections. A Sallen-Key with gain above one is possible, by adding a divider in the feedback path, but its Q then depends on the gain, and high-Q designs become sensitive to resistor tolerance.
+H2: 21.3 The Multiple-Feedback Low-Pass
+P: The multiple-feedback (MFB) circuit builds the same response around an inverting op-amp. An input resistor R₁ runs to a node with a capacitor C₁ to ground. From that node, R₂ goes to the output and R₃ goes to the inverting input, and a capacitor C₂ runs from the inverting input to the output. The non-inverting input is grounded.
+EQ: H₀ = −R₂/R₁,  ω₀ = 1/√(R₂R₃C₁C₂),  Q = √(R₂R₃C₁C₂) / (C₂(R₂ + R₃ + R₂R₃/R₁))
+P: With all three resistors equal, H₀ = −1 and Q = ⅓√(C₁/C₂), so a Butterworth section needs C₁/C₂ = 4.5. The MFB inverts the signal, which is harmless in most systems, and it has two practical advantages over the Sallen-Key: its inputs sit at a fixed voltage, so common-mode range is not a concern, and its stopband stays deep at high frequency, where a Sallen-Key's attenuation eventually degrades because signal leaks through C₁ into an op-amp output whose impedance is rising.
+WE: Worked Example 21.2
+PROB: Design an equal-resistor MFB Butterworth low-pass with f₀ = 1 kHz, using C₂ = 4.7 nF and the nearest E12 value for C₁. Find R, the resulting Q, and f₀ with an E96 resistor.
+SOL: The ideal C₁ is 4.5 × 4.7 nF ≈ 21.2 nF; the nearest E12 value is 22 nF. Then Q = ⅓√(22/4.7) ≈ 0.721. The resistor is R = 1/(2π × 1000 × √(22×10⁻⁹ × 4.7×10⁻⁹)) ≈ 15.65 kΩ; the nearest E96 value is 15.8 kΩ, giving f₀ ≈ 991 Hz. The passband gain is −1.
+H2: 21.4 Higher Orders by Cascading
+P: A fourth-order filter is not two identical second-order sections in series. Two identical Butterworth sections would give a response that is −6 dB at f₀, with a droopy knee. Instead, each order has its own table of section Q values that together produce the desired overall shape. For a fourth-order Butterworth, both sections share the same f₀ and have Q = 0.5412 and Q = 1.3066. For a sixth-order Butterworth there are three sections, with Q = 0.5176, 0.7071, and 1.9319. Bessel and Chebyshev tables also shift the f₀ of each section.
+P: The order of the sections in the cascade matters. A common practice puts the low-Q section first. The high-Q section has a gain peak near f₀, and if it came first, a strong signal near f₀ could clip at its output before the gentler section had a chance to attenuate anything; the low-Q section also filters some of the high-frequency noise before it reaches the high-gain region of the next stage.
+KEY: A second-order section is set by f₀, Q, and H₀; the Butterworth value Q = 0.7071 is the flat-passband choice. || In an equal-resistor design, the capacitor ratio sets Q and the resistor sets the frequency: C₁/C₂ = 4Q² for unity-gain Sallen-Key and 9Q² for MFB.
+H2: 21.5 Tolerance, Parts, and the Op-Amp
+P: In the equal-resistor Sallen-Key, Q depends on the square root of the capacitor ratio, so a 5% error on each capacitor in opposite directions shifts Q by about 5%, and f₀ by about the same. For Butterworth sections that is harmless; for high-Q Chebyshev sections it is visible ripple. Chapter 8 already gave the parts rule: use C0G (NP0) ceramic or film capacitors in filters, never Class 2 types such as X7R, whose capacitance changes with DC bias and temperature and whose piezoelectric behavior can even add distortion.
+P: The op-amp must have enough loop gain at the frequencies where the filter is shaping the response, or it adds its own pole and distorts the intended Q. A common rule of thumb asks for a gain-bandwidth product at least 100 times the product of the section's gain and f₀, and more for high-Q sections. For the 1 kHz unity-gain sections above, that means at least 100 kHz, which the declared 1 MHz op-amp comfortably supplies. A 100 kHz anti-aliasing filter would need a much faster part.
+MIS: Doubling every capacitor and halving every resistor does not change the filter, but it is not a free choice. Lower resistances load the previous stage and the op-amp's output more heavily, while higher resistances add Johnson noise and bias-current error, as Chapters 14 and 15 showed. Resistor values between about 1 kΩ and 100 kΩ, with capacitors chosen to suit, keep both concerns small.
+H2: Practice Problems
+PP: A second-order low-pass section has Q = 0.7071 and H₀ = 1. What is its gain at f₀, in decibels?
+PP: Design an equal-resistor unity-gain Sallen-Key Bessel section (Q = 0.5773). What capacitor ratio C₁/C₂ is required?
+PP: A unity-gain Sallen-Key uses R₁ = R₂ = 22 kΩ, C₁ = 6.8 nF, and C₂ = 3.3 nF. Find f₀ and Q.
+PP: An equal-resistor MFB section uses C₁ = 47 nF and C₂ = 5.6 nF. Find its Q.
+PP: A fourth-order Butterworth filter at 10 kHz is built from two unity-gain Sallen-Key sections. Using the rule of thumb in Section 21.5, find the minimum gain-bandwidth product, using the higher-Q section as the guide and allowing a further factor equal to its Q.
+PP: Explain in a sentence or two why two identical Butterworth second-order sections in cascade do not form a fourth-order Butterworth filter.
+SOLN: Gain at f₀ = Q × H₀ = 0.7071, which is −3.0 dB.
+SOLN: Q = ½√(C₁/C₂), so C₁/C₂ = 4Q² = 4 × 0.3333 ≈ 1.33.
+SOLN: f₀ = 1/(2π × 22k × √(6.8n × 3.3n)) ≈ 1/(2π × 22×10³ × 4.737×10⁻⁹) ≈ 1527 Hz. Q = ½√(6.8/3.3) ≈ 0.718.
+SOLN: Q = ⅓√(47/5.6) ≈ ⅓ × 2.897 ≈ 0.966.
+SOLN: 100 × 1 × 10 kHz = 1 MHz, times Q = 1.3066 gives about 1.3 MHz; choose a part with at least that, and preferably more.
+SOLN: Each Butterworth section is already 3 dB down at f₀, so two in series are 6 dB down there and the knee is rounded; a true fourth-order Butterworth uses two sections with different Q values (0.5412 and 1.3066) whose combined response is maximally flat and 3 dB down at f₀.
+SUM: Second-order sections are defined by H₀, f₀, and Q, with Butterworth (Q = 0.7071), Bessel (0.5773), and Chebyshev responses as named choices. The unity-gain Sallen-Key sets Q by C₁/C₂ = 4Q² and f₀ by R; the MFB inverts, sets Q by C₁/C₂ = 9Q² with equal resistors, and holds its stopband better. Higher orders cascade sections with tabulated, unequal Q values, low Q first. Use C0G or film capacitors and an op-amp with ample gain-bandwidth.
+GLOS: Quality factor of a filter section (Q) || The parameter that sets the shape of a second-order response near its natural frequency; the gain at f₀ is Q times the passband gain.
+GLOS: Butterworth response || The maximally flat passband response; Q = 0.7071 for a second-order section.
+GLOS: Bessel response || A response with nearly constant group delay and minimal step overshoot; Q = 0.5773 for a second-order section.
+GLOS: Sallen-Key filter || An active filter built around a non-inverting (often unity-gain) op-amp with two resistors, two capacitors, and positive feedback through one capacitor.
+GLOS: Multiple-feedback (MFB) filter || An inverting active filter in which two feedback paths, one resistive and one capacitive, shape the response.
+FORM: Second-order low-pass || H(s) = H₀ω₀²/(s² + (ω₀/Q)s + ω₀²)
+FORM: Unity-gain Sallen-Key, equal R || ω₀ = 1/(R√(C₁C₂)); Q = ½√(C₁/C₂)
+FORM: MFB low-pass, equal R || H₀ = −1; ω₀ = 1/(R√(C₁C₂)); Q = ⅓√(C₁/C₂)

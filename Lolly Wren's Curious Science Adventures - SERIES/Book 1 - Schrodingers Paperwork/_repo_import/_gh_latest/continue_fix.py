@@ -25,7 +25,7 @@ WS = Path(
     r"\Schrodingers_Paperwork"
     r"\Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx"
 )
-GUIDE = SERIES / "MANUSCRIPT_GUIDE.md"
+GUIDE = SERIES / "notes" / "MANUSCRIPT_GUIDE.md"
 GUIDE_WS = Path(
     r"c:\Users\lomus\OneDrive\My Books for Amazon"
     r"\Schrodingers_Paperwork"

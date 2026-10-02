@@ -1,0 +1,36 @@
+H1: Chapter 3. Lumped Matching: The L-Network and Its Q
+P: A source delivers its maximum power to a load whose impedance is the complex conjugate of its own. Most loads are not: a transistor's output wants a few ohms, an antenna offers whatever its geometry gives, and a cable is 50 Ω. A matching network transforms one impedance into another without dissipating power, which means it is built only from reactances. This chapter builds the simplest one, the two-element L-network, shows that its bandwidth is fixed by the ratio it must transform, and then adds a third element to trade bandwidth for control.
+H2: 3.1 The L-network
+P: An L-network has one series and one shunt reactance. The shunt element always sits across the larger resistance. Its job is to convert that large resistance, in parallel with a reactance, into an equivalent series combination whose resistance equals the smaller one; the series element then cancels the leftover reactance. Working through the conversion gives a single number that fixes both reactances: the network's Q.
+EQ: Q = √(Rhigh / Rlow − 1),    Xseries = Q × Rlow,    Xshunt = Rhigh / Q
+P: Each reactance may be an inductor or a capacitor, provided the two are of opposite type. A series inductor with a shunt capacitor is a low-pass network, which also attenuates harmonics, the usual choice at an amplifier output. A series capacitor with a shunt inductor is high-pass, which blocks DC and can carry bias through the inductor.
+H2: Worked Example 3.1
+WEP: Design a low-pass L-network that matches a 10 Ω load to a 50 Ω source at 2.45 GHz. Then find the frequencies between which the return loss stays above 10 dB.
+WES: Q = √(50/10 − 1) = 2.0. The series reactance next to the 10 Ω load is 2.0 × 10 = 20 Ω, an inductor of 20/(2π × 2.45 × 10⁹) = 1.30 nH. The shunt reactance across the 50 Ω side is 50/2.0 = 25 Ω, a capacitor of 1/(2π × 2.45 × 10⁹ × 25) = 2.60 pF. At 2.45 GHz the network presents exactly 50 Ω. A frequency sweep of the input reflection shows the return loss stays above 10 dB from 1.94 to 2.87 GHz, a bandwidth of 38% of the center frequency.
+KEY: Key idea. An L-network's Q is set entirely by the impedance ratio it must transform. A large ratio forces a high Q, and a high Q means a narrow bandwidth and large circulating currents in the components.
+H2: 3.2 Three elements: pi and T networks
+P: When the bandwidth of an L-network is too wide, which matters when the network must also filter, or the component values it demands are impractical, a third element provides a free choice of Q. A pi network is two back-to-back L-networks that transform both terminations down to a smaller virtual resistance Rv in the middle; a T network transforms them up to a larger one. The designer chooses the Q of the higher-resistance side, which fixes Rv, and then designs each half as an L-network.
+EQ: Pi network: Rv = Rhigh / (Q² + 1),    Q₂ = √(Rlow / Rv − 1)
+H2: Worked Example 3.2
+WEP: Design a pi network that matches 10 Ω to 50 Ω at 2.45 GHz with a Q of 5 on the 50 Ω side, using shunt capacitors and a series inductor. Compare its bandwidth with that of Worked Example 3.1.
+WES: Rv = 50/(5² + 1) = 1.92 Ω. The 50 Ω half has a shunt reactance of 50/5 = 10 Ω (6.50 pF) and a series reactance of 5 × 1.92 = 9.62 Ω. The 10 Ω half has Q₂ = √(10/1.92 − 1) = 2.05, a series reactance of 2.05 × 1.92 = 3.94 Ω, and a shunt reactance of 10/2.05 = 4.88 Ω (13.3 pF). The two series inductors combine into 9.62 + 3.94 = 13.56 Ω, which is 0.88 nH. A sweep gives a 10 dB return-loss bandwidth from 2.31 to 2.57 GHz, about 10%, against 38% for the L-network. The narrower match is also a better harmonic filter. The 0.88 nH inductor is no larger than the inductance of a component pad and its vias, so at this frequency it is built as a short length of narrow line, not as a part.
+H2: 3.3 Real components and loss
+P: The matching network's own losses come from the finite Q of its components, which Chapter 1 defined through their parasitics. An inductor with quality factor QL = X/R has a series resistance X/QL. In a network that transforms down to a low resistance, that resistance sits in series with the low-resistance side, where a fraction of an ohm is a significant fraction of the load. The loss rises with the network Q, which is the second reason, after bandwidth, to keep the transformation ratio of each section modest. Large ratios are often split into two cascaded L-networks, each with a Q near the square root of the single-section value.
+H2: Worked Example 3.3
+WEP: The 1.30 nH inductor of Worked Example 3.1 has QL = 40 at 2.45 GHz. Estimate the loss it adds.
+WES: Its series resistance is 20 Ω/40 = 0.50 Ω, in series with the 10 Ω load. The fraction of the power delivered to the network that reaches the load is 10/10.5 = 0.952, a loss of 0.21 dB. For a power amplifier delivering 10 W into the network, 0.48 W heats the inductor. With a load of 2 Ω instead of 10 Ω, the same inductor Q would cost about 1 dB.
+H2: 3.4 Matching complex loads
+P: A load with a reactive part is matched by first absorbing or canceling its reactance. A series reactance in the load can be absorbed into the network's series element; a shunt reactance into the shunt element. If the load is 10 + j5 Ω and the L-network calls for a series reactance of +j20 Ω, the network supplies only j15 Ω, because the load already contains j5 Ω. When the load's reactance is larger than the network needs, a component of the opposite sign cancels the excess. The Smith chart of the next chapter makes these steps visual, and it is how most designers carry them out.
+H2: Practice
+PR: Design a low-pass L-network to match 5 Ω to 50 Ω at 900 MHz. Give Q, the series inductance, and the shunt capacitance.
+PR: Design a high-pass L-network to match 200 Ω to 50 Ω. Find Q, and say which side the shunt element goes on.
+PR: For the pi network of Worked Example 3.2, find Rv if Q on the 50 Ω side is raised to 8.
+PR: The series inductor of Practice Problem 1 has QL = 30. Estimate the loss.
+PR: A load of 10 + j8 Ω is matched by the network of Worked Example 3.1. What series reactance must the network itself supply?
+PR: Explain in one or two sentences why a large impedance ratio is often matched with two cascaded L-networks.
+ANS: Q = √(50/5 − 1) = 3.0. Series reactance 15 Ω, L = 15/(2π × 900 MHz) = 2.65 nH. Shunt reactance 50/3 = 16.7 Ω, C = 10.6 pF.
+ANS: Q = √(200/50 − 1) = 1.73. The shunt element (an inductor in the high-pass form) goes across the 200 Ω side, and the series capacitor faces the 50 Ω side.
+ANS: Rv = 50/(64 + 1) = 0.77 Ω.
+ANS: R = 15/30 = 0.5 Ω in series with 5 Ω; 5/5.5 = 0.909, a loss of 0.41 dB.
+ANS: 20 − 8 = 12 Ω of inductive reactance, since the load supplies j8 Ω.
+ANS: Each section transforms by the square root of the total ratio, so each has a lower Q; the cascade has wider bandwidth and lower component loss than a single high-Q section.

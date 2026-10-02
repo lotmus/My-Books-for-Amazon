@@ -1,0 +1,59 @@
+H1: Chapter 17. Distribution Transformers, Fault Current, and Protection
+P: Between the medium-voltage feeder and the low-voltage switchboard of every building and data hall sits a distribution transformer. It sets two numbers that every downstream engineer needs: how efficiently power is delivered at partial load, and how much current flows when something short-circuits. That second number decides the rating of every breaker, busbar, and fuse, and the hazard to anyone working on live equipment. This chapter works with the per-unit impedance, the transformer's loss model, and the basics of overcurrent protection. Shelf A's line-frequency magnetics, from Chapter 6, are the hardware.
+H2: 17.1 Per-unit impedance and fault current
+P: A transformer's impedance is quoted as a percentage, or per-unit value: the fraction of rated voltage needed to drive rated current through a shorted secondary. A typical distribution transformer has 5% to 6%. That number gives the available fault current directly: with a bolted short on the secondary and a stiff utility supply, the current is the rated current divided by the per-unit impedance. A 5.75% transformer therefore delivers about 17 times its rated current into a fault.
+EQ: Irated = S / (√3 VLL),   Ifault ≈ Irated / Zpu
+H2: Worked Example 17.1
+WEP: A 2500 kVA transformer with 5.75% impedance feeds a 480 V switchboard. Find its rated current and the available fault current.
+WES: Irated = 2.5 × 10⁶ / (√3 × 480) = 3007 A. Ifault = 3007/0.0575 = 52.3 kA. Every breaker and busbar on that switchboard must be rated to interrupt or withstand at least that current, and the real value is slightly lower once the utility's own impedance is included, which is the conservative direction to ignore.
+H2: 17.2 Losses and efficiency at partial load
+P: A transformer has two kinds of loss. No-load, or core, loss is the hysteresis and eddy-current loss of Chapter 6, present whenever the transformer is energized and nearly independent of load. Load, or copper, loss is I²R in the windings and scales with the square of the load fraction. Efficiency therefore peaks at the load fraction where copper loss equals core loss, x = √(Pcore/Pcu,rated). Regulations, such as the US Department of Energy's efficiency standards, specify efficiency at a reference load, usually 50%, because that is closer to how distribution transformers actually operate.
+EQ: Ploss(x) = Pcore + x² Pcu,rated,   η max at x = √(Pcore / Pcu,rated)
+H2: Worked Example 17.2
+WEP: The transformer of Example 17.1 has 5 kW of core loss and 25 kW of copper loss at rated load. Find its efficiency at 50% load and unity power factor, and the load at which efficiency peaks.
+WES: At 50% load the output is 1250 kW and the losses are 5 + 0.25 × 25 = 11.25 kW, so η = 1250/1261.25 = 99.11%. Efficiency peaks where 25x² = 5, at x = 0.447, about 45% load. A data hall that runs its transformers lightly loaded for redundancy should choose low-core-loss designs, such as amorphous-metal cores.
+KEY: Key idea. A transformer's per-unit impedance sets the fault current every downstream device must survive, and its core and copper losses set efficiency, which peaks where the two are equal.
+H2: 17.3 Overcurrent protection
+P: Fuses and circuit breakers clear faults. Each has a time-current characteristic: it carries rated current indefinitely, trips on moderate overloads after seconds to minutes, and clears high fault currents within a cycle or less. Coordination, or selectivity, means arranging the characteristics so that the device nearest the fault opens first and the upstream ones stay closed, keeping the rest of the building powered. Current-limiting fuses clear so quickly that the fault current never reaches its prospective peak, reducing the let-through energy I²t that downstream equipment must withstand.
+H2: 17.4 Arc flash
+P: A fault that arcs through air rather than a bolted short releases its energy as heat, light, and pressure. The incident energy at a worker's position grows with the fault current and, almost linearly, with the clearing time, which is why reducing clearing time is the main mitigation. Standards such as IEEE 1584 give the calculation, and NFPA 70E in the United States requires labeling and protective equipment based on it. Maintenance switches that temporarily speed up the upstream breaker, and remote racking of breakers, keep workers out of the hazard. Higher-voltage DC distribution in data centers, Chapter 14's 800 V racks, brings new arc-flash and interruption problems because DC has no current zero to help extinguish an arc.
+H2: Worked Example 17.3
+WEP: A 1000 kVA, 208 V transformer has 5% impedance. Find the available fault current and compare it with the 2500 kVA, 480 V unit.
+WES: Irated = 10⁶/(√3 × 208) = 2776 A, so Ifault = 2776/0.05 = 55.5 kA. A smaller transformer at a lower voltage can deliver more fault current than a larger one at a higher voltage, because the current, not the power, is what the protection must handle.
+H2: 17.5 Thermal aging of transformers
+P: A transformer's life is the life of its paper insulation, and paper ages with temperature. IEEE C57.91 expresses the aging rate relative to operation at a winding hot-spot temperature of 110 °C, the design point of a 65 °C-rise transformer, by an Arrhenius factor that roughly doubles for every 6 to 7 °C. At 120 °C the insulation ages 2.7 times as fast; at 98 °C only 0.28 times as fast. A transformer that runs at partial load most of the day therefore banks life that it can spend during peaks or emergencies, and utilities plan emergency overloads of 120 to 150 % for a few hours using exactly this accounting. Data-center transformers loaded steadily near rating, with high harmonic content from rectifier loads, have no such reserve and are often specified with a K-factor rating that accounts for the harmonic heating.
+EQ: F_AA = exp[15 000/383 − 15 000/(θH + 273)]
+H2: 17.6 Selectivity
+P: When a fault occurs, only the protective device nearest to it should open, so that the rest of the installation keeps running. That requires the time-current characteristics of devices in series to be coordinated, the downstream one always clearing faster. For fuses of the same type, a ratio of rated currents of about 1.6 to 1 between upstream and downstream gives selectivity at all fault levels; for circuit breakers, manufacturers publish selectivity tables, and electronic trip units with short-time delays or zone-selective interlocking, a signal from the downstream breaker telling the upstream one to wait, achieve it at high fault currents. Selectivity and arc-flash protection pull in opposite directions, since delays that preserve selectivity also lengthen the arc, and the maintenance switch that temporarily removes the delay while people work on the gear is the common compromise.
+H2: Worked Example 17.4
+WEP: Find the aging acceleration factor at hot-spot temperatures of 98, 120, and 130 °C. How many hours at 130 °C use the same insulation life as a day at 110 °C?
+WES: F_AA = exp(39.16 − 15 000/(θ + 273)): at 98 °C, 0.28; at 120 °C, 2.7; at 130 °C, 7.0. A day at 110 °C uses 24 hours of life; at 130 °C, 24/7.0 = 3.4 hours use the same. Ten hours at 98 °C bank 7.2 hours of life against such a peak.
+H2: Worked Example 17.5
+WEP: A 63 A gG fuse protects a branch circuit. What is the smallest gG fuse upstream that is selective with it, and why does a 100 A upstream breaker not automatically achieve the same?
+WES: 1.6 × 63 A = 101 A, so the next standard size, 125 A, is safe, and 100 A is borderline. A breaker's magnetic trip opens instantaneously above its threshold, so for high fault currents it may open together with the fuse; only the manufacturer's selectivity table tells whether a given pair is selective up to the available fault current.
+H2: 17.7 Residual-current protection and earthing
+P: Overcurrent devices protect equipment; residual-current devices protect people. An RCD, called a GFCI in North America, passes the line and neutral conductors through a toroidal current transformer and trips when their currents differ by more than its rating, which means current is returning by some other path, possibly through a person. Ratings of 30 mA in IEC practice, and 4 to 6 mA for North American GFCIs, trip within tens of milliseconds, fast enough to prevent ventricular fibrillation. How well the protection works depends on the earthing system. In a TT system, where the installation has its own earth electrode, the electrode's resistance must be low enough that a fault drives at least the RCD's trip current while keeping the touch voltage below 50 V. Power converters complicate RCDs because their EMI filters leak current to earth continuously, and inverters can produce DC fault currents that blind ordinary RCDs, which is why solar inverters and EV chargers require Type B or DC-sensitive devices.
+EQ: RA × IΔn ≤ 50 V
+H2: Worked Example 17.6
+WEP: A TT installation uses a 30 mA RCD. Find the highest earth-electrode resistance that satisfies the touch-voltage rule, and the leakage budget if each of ten server supplies leaks 1.5 mA to earth.
+WES: RA ≤ 50 V/0.03 A = 1667 Ω, easy to achieve with a rod electrode. The ten supplies leak 15 mA together, half the trip rating; RCDs may trip anywhere between 50 and 100 % of their rating, so a single 30 mA device on this circuit would trip at random, and the loads must be split across several RCDs or fed from a circuit with a higher rating where the standards allow it.
+P: Part III has followed power from the grid's codes to the building's switchboard. Part IV returns to the converter and its specialized forms: the multiphase regulator, the gate driver, pulsed supplies, solar inverters, and wireless power.
+H2: Practice
+PR: Find the rated current of a 1500 kVA transformer at 480 V.
+PR: With 5.5% impedance, find its fault current.
+PR: A transformer has 2 kW core loss and 18 kW copper loss at rated load. At what load fraction is efficiency maximum?
+PR: Find its losses at 75% load.
+PR: Why are breakers coordinated so that the downstream one trips first?
+PR: Why does reducing clearing time reduce arc-flash hazard?
+PR: Find the aging acceleration factor at a hot-spot temperature of 140 °C.
+PR: Why do selectivity and arc-flash protection conflict?
+PR: How much continuous earth leakage can share a 30 mA RCD if leakage must stay below a third of its rating?
+ANS: 1804 A.
+ANS: 32.8 kA.
+ANS: √(2/18) = 0.333.
+ANS: 2 + 0.5625 × 18 = 12.1 kW.
+ANS: So that only the faulted branch loses power, while the rest of the installation stays energized.
+ANS: The incident energy is roughly proportional to the time the arc burns, so clearing faster releases less energy.
+ANS: exp(39.16 − 15 000/413) = 17.2.
+ANS: Selectivity requires upstream devices to wait for downstream ones to clear, but every millisecond of delay lengthens an arc and raises the incident energy at a worker's position.
+ANS: 10 mA.

@@ -1,0 +1,49 @@
+H1: Chapter 6. Heat: From the Die to the Coolant
+P: Every watt that Book 6 delivers to a processor leaves it as heat, and the package must carry that heat away while holding the transistors below their temperature limit. At the power densities of 2026, that has become a limit on performance as hard as bandwidth or current. This chapter sets out the thermal path as a chain of resistances, as Book 4 did for a power amplifier, and then follows the heat out of the rack, where it explains why AI data centers have moved from air to liquid cooling. The conversion arithmetic that sets how much heat a rack's power chain adds is Book 6's; this chapter cools whatever arrives.
+H2: 6.1 Heat flux
+P: A 700 W processor on an 800 mm² die produces a heat flux of 87.5 W/cm², an average that hides hot spots several times higher where the arithmetic units are busiest. For comparison, a kitchen hotplate produces about 10 W/cm². The heat must cross the silicon, a thermal interface material, a lid or heat spreader, a second interface, and a cold plate or heat sink before reaching the coolant, and the total temperature rise must fit between the coolant temperature and the junction limit.
+EQ: Tj = Tcoolant + P × (θdie + θTIM1 + θlid + θTIM2 + θcoldplate)
+H2: Worked Example 6.1
+WEP: A 700 W processor must keep its junction at or below 90 °C with 35 °C liquid coolant. Find the total thermal resistance allowed. A thermal interface 50 µm thick with conductivity 5 W/(m·K) covers 8 cm². Find its resistance and temperature drop.
+WES: The allowed total is (90 − 35)/700 = 0.079 K/W. The interface has θ = t/(kA) = 50 × 10⁻⁶/(5 × 8 × 10⁻⁴) = 0.0125 K/W, so it alone drops 8.75 K, 16% of the budget. A 25 µm interface with k = 10 W/(m·K) would drop only 2.2 K. The interfaces, not the bulk metals, usually dominate the resistance at these fluxes, which is why liquid-metal and soldered interfaces and direct-to-die cooling are being adopted.
+KEY: Key idea. At hundreds of watts per square centimeter, every interface counts. The thermal path is a series of resistances, and the thin layers between solid parts are usually its weakest links.
+H2: 6.2 Air and liquid
+P: Heat leaves the rack in a fluid, and the fluid's mass flow rate ṁ, specific heat cp, and temperature rise ΔT set how much it can carry. Water's specific heat, 4186 J/(kg·K), and density, a thousand times air's, let a modest flow of water carry what would need a gale of air.
+EQ: P = ṁ cp ΔT
+H2: Worked Example 6.2
+WEP: An 80 kW rack is cooled with a 10 K temperature rise. Find the water flow in liters per minute, and the air flow in cubic meters per second and cubic feet per minute at a 15 K rise, with air at 1.2 kg/m³ and 1005 J/(kg·K).
+WES: For water, ṁ = 80,000/(4186 × 10) = 1.91 kg/s, about 115 liters per minute, which a pipe a few centimeters across can carry. For air, the volume flow is 80,000/(1.2 × 1005 × 15) = 4.42 m³/s, or 9370 cubic feet per minute through one rack, a flow that would need large, loud fans and enormous air handlers. Air cooling becomes impractical above about 30 to 40 kW per rack; AI racks of 40 to more than 100 kW are therefore liquid-cooled, with cold plates on the processors and memory and often rear-door heat exchangers for the rest.
+H2: 6.3 Cold plates and immersion
+P: A direct-to-chip cold plate is a metal block with fine internal channels or fins, through which coolant flows directly above the processor's lid. Single-phase cold plates use water with glycol; two-phase plates boil a refrigerant at a controlled temperature and carry more heat per unit flow. Immersion cooling submerges whole servers in a dielectric fluid, either single-phase, pumped through a heat exchanger, or two-phase, boiling at the components. Each moves the coolant closer to the heat source, removing interfaces from the chain. The facility then rejects the heat through cooling towers or dry coolers, and warmer coolant, 35 to 45 °C, lets it do so without chillers for most of the year, saving energy that Book 6's waste formula would otherwise count.
+H2: 6.4 Thermal design on the board
+P: Heat also matters on ordinary boards. Copper planes spread heat as well as current; thermal vias under a power package carry heat to inner planes or the opposite side; and the package's exposed pad must be soldered with a pattern that leaves no large voids. A board's own thermal design is often what decides whether a regulator or amplifier meets its rating, and the junction-temperature arithmetic of Books 4 and 6 applies unchanged.
+H2: 6.5 The thermal stack of an accelerator
+P: Heat leaves a die through a stack of layers, and each adds a thermal resistance per unit area, R″, in K·cm²/W. The temperature rise across a layer is the heat flux times R″. For a bare die under a cold plate the stack is the silicon itself, the first thermal interface material between die and lid, the lid, the second interface between lid and cold plate, and the cold plate's convective resistance. Interface materials are the weak links: thermal grease reaches about 0.05 to 0.1 K·cm²/W when thin, indium solder and liquid metal reach 0.01 to 0.02, and every void or dry spot creates a hot spot. At 100 W/cm² and above, a tenth of a K·cm²/W is ten degrees, so the move from grease to metal interfaces and to lidless designs is one of the larger gains available to an accelerator's cooling.
+EQ: ΔT = q″ × Σ R″
+H2: Worked Example 6.3
+WEP: A 1000 W die of 8 cm² sits under a lid with a TIM1 of 0.05 K·cm²/W and a TIM2 of 0.10 K·cm²/W. Find the temperature rise across each interface, and the improvement if TIM1 is replaced by indium at 0.015 K·cm²/W.
+WES: q″ = 1000/8 = 125 W/cm². TIM1 adds 125 × 0.05 = 6.3 K and TIM2 125 × 0.10 = 12.5 K, assuming the lid does not spread the heat much. Indium cuts TIM1 to 1.9 K, saving 4.4 K, which allows a warmer coolant or a higher clock at the same junction temperature.
+H2: 6.6 The fan laws
+P: Air-cooled servers spend a surprising share of their power on fans, and the fan laws explain why. For a given fan and system, the volume flow is proportional to the rotational speed N, the pressure it develops to the square of the speed, and the shaft power to the cube. The acoustic sound power rises even faster, roughly as the fifth power of speed, about 50 log₁₀(N₂/N₁) decibels. Because the heat a stream of air removes at a fixed temperature rise is proportional to its flow, P = ṁ cp ΔT from Section 6.2, each additional watt of cooling bought with fan speed costs disproportionately more fan power. That cube law is one of the strongest arguments for liquid cooling at high rack power: water carries the heat with a few percent of the pumping power, and the fans that remain run slowly.
+EQ: Q ∝ N,    Δp ∝ N²,    P_fan ∝ N³,    ΔL_W ≈ 50 log₁₀(N₂/N₁) dB
+H2: Worked Example 6.4
+WEP: A server's fans draw 15 W each at 8000 rpm. To cool 20 % more heat at the same air temperature rise, the speed is raised to 9600 rpm. Find the new flow, pressure, fan power, and the change in sound power.
+WES: The flow rises by 20 %, which carries 20 % more heat. The pressure rises by 1.2² = 1.44, so 44 %. The fan power rises by 1.2³ = 1.73, to 25.9 W per fan, 73 % more for 20 % more cooling. The sound power rises by about 50 log₁₀(1.2) = 4.0 dB.
+P: Heat ends the chain from die to coolant. Chapter 7 turns to devices whose mechanical motion, not just their heat, is the point: MEMS.
+H2: Practice
+PR: Find the average heat flux of a 1000 W processor on an 800 mm² die.
+PR: A processor dissipates 1000 W with 30 °C coolant and an 85 °C junction limit. Find the allowed thermal resistance.
+PR: Find the resistance of a 100 µm thermal interface with k = 4 W/(m·K) over 6 cm².
+PR: Find the water flow in liters per minute to remove 45 kW with an 8 K rise.
+PR: Find the airflow in m³/s to remove 45 kW with a 12 K rise.
+PR: Why does a warmer coolant temperature save facility energy?
+PR: Find the temperature rise across 0.08 K·cm²/W at 200 W/cm².
+PR: By what factor does fan power rise if the speed doubles?
+ANS: 125 W/cm².
+ANS: 55/1000 = 0.055 K/W.
+ANS: 10⁻⁴/(4 × 6 × 10⁻⁴) = 0.042 K/W.
+ANS: 45,000/(4186 × 8) = 1.34 kg/s, about 81 L/min.
+ANS: 45,000/(1.2 × 1005 × 12) = 3.11 m³/s.
+ANS: Heat can be rejected to outside air through dry coolers or towers without mechanical chillers whenever the outside temperature is below the coolant temperature, which with 35 to 45 °C coolant is most of the year in most climates.
+ANS: 16 K.
+ANS: 2³ = 8.

@@ -1,0 +1,49 @@
+H1: Chapter 9. The Package as a Circuit: Wire Bonds, Lead Frames, and Bumps
+P: A package is usually drawn as a box with pins, but at high frequencies and fast edges it is a circuit in its own right, with inductance in every wire and capacitance at every pad. Most chips in the world are still wire-bonded in lead-frame packages, the QFNs and SOICs of Chapter 2, because they are cheap and robust. This chapter models their parasitics, shows the two problems those parasitics cause, ground bounce in digital circuits and unwanted resonances in RF circuits, and explains why flip-chip mounting and exposed-pad packages solve them.
+H2: 9.1 The inductance of a bond wire
+P: A gold or copper bond wire, typically 20 to 25 µm in diameter, has a self-inductance of roughly 1 nH per millimeter of length. A 2 mm wire therefore adds about 2 nH in series with every signal, supply, and ground connection. Its reactance grows with frequency: at 2.4 GHz, 2 nH is 30 Ω, comparable to the 50 Ω system impedance, and at 28 GHz it is 352 Ω, which would block the signal. Flip-chip bumps, by contrast, have inductances of a few tens of picohenries; 30 pH is only 5.3 Ω at 28 GHz. That difference is why millimeter-wave chips are almost always flip-chip mounted, and why an RF designer must include the bond wire in the matching network of Book 4 when a wire-bonded package is used.
+EQ: XL = 2π f L,    L ≈ 1 nH/mm (bond wire)
+H2: Worked Example 9.1
+WEP: A 2 mm bond wire connects a 0.5 pF pad to a package lead. Find its reactance at 2.4 GHz and 28 GHz, and the frequency at which it resonates with the pad capacitance.
+WES: XL = 2π × 2.4 × 10⁹ × 2 × 10⁻⁹ = 30.2 Ω at 2.4 GHz and 352 Ω at 28 GHz. The series resonance is at 1/(2π√(2 × 10⁻⁹ × 0.5 × 10⁻¹²)) = 5.03 GHz. Near that frequency the wire and pad form a resonant circuit that can make an amplifier oscillate or create a notch in a filter's response. Designers either keep the operating band far below such resonances or absorb the wire into a deliberate matching network.
+H2: 9.2 Ground bounce
+P: When many outputs of a digital chip switch at once, their combined current change flows through the shared ground and supply bond wires. The voltage L di/dt across those wires shifts the chip's internal ground relative to the board's, by an amount called ground bounce or simultaneous switching noise. Inputs referenced to the internal ground see false transitions, and quiet outputs carry the bounce onto the board. The remedies are more ground and supply pins in parallel, shorter wires, slower edges where speed allows, and splitting outputs into groups that switch at different times.
+EQ: Vbounce = N L (ΔI / Δt)
+H2: Worked Example 9.2
+WEP: Sixteen outputs each switch 10 mA in 1 ns, and all return through one 2 nH ground wire. Find the ground bounce. What happens with four ground wires in parallel?
+WES: The total di/dt is 16 × 0.01/10⁻⁹ = 1.6 × 10⁸ A/s, so Vbounce = 2 × 10⁻⁹ × 1.6 × 10⁸ = 0.32 V, a large fraction of a 1.8 V or 1.2 V logic swing. Four wires in parallel would cut the inductance to about 0.5 nH if they had no mutual inductance, and the bounce to 80 mV; in practice parallel wires couple magnetically, so the reduction is somewhat less, and spreading the ground wires apart around the die helps.
+KEY: Key idea. In a package, every wire is an inductor. A bond wire's nanohenry sets ground bounce in digital chips and resonances in RF chips; flip-chip bumps and exposed ground pads replace it with tens of picohenries.
+H2: 9.3 The exposed pad
+P: Many QFN packages have an exposed metal pad under the die, soldered to the board. It serves three purposes: it carries heat from the die to the board, as Chapter 6 requires; it provides a low-inductance ground through an array of vias beneath it, replacing many ground bond wires; and it gives the RF circuits a solid reference. The vias must be numerous, filled or tented so solder does not wick into them, and connected directly to an inner ground plane. Voids in the pad's solder joint raise both the thermal resistance and the ground inductance, so the stencil pattern is divided into windows that let flux gases escape during reflow.
+H2: 9.4 Leads and the board
+P: The lead frame's own leads add a further few tenths of a nanohenry to a few nanohenries, depending on the package. Leadless packages such as the QFN have the shortest leads; gull-wing SOICs and QFPs the longest. Ball grid arrays have short paths through the substrate and solder balls but more capacitance per connection. For signals above a few gigabits per second, the package's transitions, wire or bump, substrate trace, via, and ball, are designed and simulated as transmission-line segments, with the same impedance control as the board, so that they do not create reflections. The package model, often supplied as S-parameters, is part of every serious channel simulation.
+H2: 9.5 Junction temperature from a package's thermal numbers
+P: Package data sheets quote several thermal figures, and confusing them is a common error. θJA, junction to ambient, is measured on a standard JEDEC test board in still air and describes that board, not yours. θJC, junction to case, applies when essentially all the heat leaves through the case into a heatsink. ψJT, the junction-to-top characterization parameter, is not a thermal resistance at all: it relates the junction temperature to the temperature measured at the top of the package when most heat flows elsewhere, into the board. Because it is small, typically 0.5 to 2 °C/W, it lets an engineer with a thermocouple or an infrared camera on the package top estimate the junction temperature in the real product, which is the measurement that matters.
+EQ: TJ ≈ T_top + ψJT × P
+H2: Worked Example 9.3
+WEP: A QFN regulator dissipating 1.5 W measures 92 °C on top. Its data sheet gives ψJT = 1.2 °C/W and θJA = 35 °C/W on the JEDEC board. Estimate the junction temperature, and explain why θJA would mislead.
+WES: TJ ≈ 92 + 1.2 × 1.5 = 93.8 °C. Using θJA with a 50 °C ambient would predict 50 + 35 × 1.5 = 102.5 °C, a figure that describes a different board; the real board's copper and airflow decide the junction temperature, and only a measurement on it, through ψJT, captures them.
+H2: 9.6 The bond wire as a low-pass filter
+P: A series inductance in a matched line does not only reflect; it also slows the edge. Seen from the inductance, the line on each side is a resistance Z₀, so the inductance and the 2Z₀ around it form a first-order low-pass filter with time constant τ = L/(2Z₀) and a 10-90 % rise time of about 2.2τ. A wire bond of a couple of nanohenries in a 50 Ω path adds tens of picoseconds of rise time, comparable to the edge of a 25 Gbit/s signal, while a flip-chip bump of a tenth of a nanohenry adds almost nothing. This is the second reason, beside ground bounce, that high-speed parts use flip-chip packages, and why fast wire-bonded parts compensate the wire with added pad capacitance to form a low-pass ladder that is matched to 50 Ω over the band of interest.
+EQ: τ = L / (2Z₀),    t_r,added ≈ 2.2 τ
+H2: Worked Example 9.4
+WEP: Find the added rise time of a 2 nH bond wire and of a 0.1 nH flip-chip bump in a 50 Ω path, and combine the bond wire's contribution with a 30 ps driver edge.
+WES: For the wire, τ = 2 nH / 100 Ω = 20 ps, so it adds about 44 ps. For the bump, τ = 1 ps, adding about 2.2 ps. Rise times of cascaded stages add roughly as the root of the sum of squares: √(30² + 44²) = 53 ps, so the bond wire nearly doubles the edge.
+P: The package's electrical and thermal behavior sets its performance on day one. Chapter 10 asks what wears it out.
+H2: Practice
+PR: Find the reactance of a 1.5 mm bond wire at 5.8 GHz.
+PR: Eight outputs switch 20 mA each in 0.5 ns through a 1 nH ground connection. Find the ground bounce.
+PR: Find the resonant frequency of a 1 nH wire with a 0.3 pF pad.
+PR: Find the reactance of a 30 pH bump at 28 GHz.
+PR: Why are millimeter-wave chips usually flip-chip mounted?
+PR: Give two reasons for using an array of vias under a QFN's exposed pad.
+PR: A part dissipating 3 W shows 70 °C on top with ψJT = 0.8 °C/W. Estimate TJ.
+PR: Find the added rise time of a 1 nH series inductance in a 50 Ω line.
+ANS: 2π × 5.8 × 10⁹ × 1.5 × 10⁻⁹ = 54.7 Ω.
+ANS: 10⁻⁹ × 8 × 0.02/(0.5 × 10⁻⁹) = 0.32 V.
+ANS: 9.19 GHz.
+ANS: 5.3 Ω.
+ANS: A bond wire's nanohenry of inductance has hundreds of ohms of reactance at millimeter-wave frequencies, while a bump's tens of picohenries have only a few ohms.
+ANS: The vias carry heat from the die into the board's planes, and they give a low-inductance ground connection, replacing many ground bond wires.
+ANS: 72.4 °C.
+ANS: τ = 10 ps, so about 22 ps.

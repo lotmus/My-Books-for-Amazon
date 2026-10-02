@@ -4,54 +4,60 @@ COMPLETE KDP LAUNCH CHECKLIST
 Book 1: The Relativistic Investigation Bureau Series
 ================================================================================
 
-[Imported 2026-09-24 from an earlier REV9-era planning package, updated for
-REV10's word count. The cover-design items below may already be done - cover
-files already exist in the repo root. Still contains [bracketed] placeholders
-that need your actual info.]
+[Worked through 1 Oct 2026 (PT). ☑ = done and checked. ☐ = still open, with
+the reason. Everything that could be done without Lothar is done. What is left
+is the author name, the launch date, and steps that need Lothar's own KDP
+account or his own decision (marked LOTHAR). Post-launch sections are left
+unticked because they can only happen after publication.]
 
-STATUS: Pre-Launch Preparation
-DEADLINE: [Your target launch date]
-AUTHOR: [Your Name]
+STATUS: Ready to upload, except author name and launch date
+DEADLINE: [LOTHAR: launch date]
+AUTHOR: [LOTHAR: author name; see KDP_METADATA.txt > AUTHOR NAME]
 
 ================================================================================
 PRE-LAUNCH (2-4 WEEKS BEFORE)
 ================================================================================
 
 MANUSCRIPT PREPARATION:
-☐ Final manuscript polished and proofread (60,025 words - DONE)
-☐ Front matter assembled (title page, copyright, TOC)
-☐ Back matter assembled (author bio, series info, newsletter signup)
-☐ Manuscript formatted for Kindle (.docx or .mobi)
-☐ No page breaks, headers/footers removed
-☐ Table of contents auto-linked in formatting
+☑ Final manuscript polished and proofread (64,082 words, 1 Oct 2026: Chapter 13
+  rewritten, ~18 broken "Then at..." fragments repaired, stray end-of-file "." removed)
+☑ Front matter assembled (title page, copyright, TOC)
+☑ Back matter assembled (About the Author, Coming Next, Further Reading,
+  Bibliography). No newsletter signup: there is no newsletter yet (LOTHAR, optional)
+☑ Manuscript formatted for Kindle (.docx; KDP no longer takes .mobi)
+☑ Page breaks before each chapter, lesson and back-matter section (KDP honours
+  these; the old "no page breaks" advice was wrong). No headers/footers.
+☑ Table of contents hyperlinked (22 entries, every one checked to land on its
+  section); headings are real Heading 1 styles so Kindle builds its own navigation
 
 COVER DESIGN:
-☐ Cover brief reviewed (see COVER_BRIEFING.txt)
-☐ Professional designer commissioned OR template design selected
-☐ Cover delivered and approved (minimum 1000x1500 pixels)
-☐ Cover tested at thumbnail size (looks good small?)
-☐ Cover works in grayscale? (Check for e-ink compatibility)
-☐ Final cover file ready (.jpg or .png)
+☑ Cover brief: superseded, the cover exists (Kindle Front Cover.jpg)
+☑ Cover delivered: 1152 x 1728 JPEG, meets KDP minimum (625 x 1000).
+  KDP ideal is 1600 x 2560; re-export at that size is optional (LOTHAR)
+☑ Cover tested at thumbnail size (100 x 150 px: title readable)
+☑ Cover works in grayscale (tested)
+☑ Final cover file ready (.jpg; note KDP ebook covers must be JPEG or TIFF, not PNG)
+☐ Cover byline must match the author name chosen (LOTHAR)
 
 METADATA PREPARATION:
-☐ Keywords finalized (7 keywords provided in KDP_METADATA.txt)
-☐ Book description/blurb approved (270-word blurb provided)
-☐ Categories selected: Hard Science Fiction + Mystery
-☐ Price determined: $3.99 USD
-☐ Publication date selected (recommend Tuesday)
-☐ Author bio written and proofread
-☐ Author photograph obtained (for author bio)
+☑ Keywords: 7 phrases ready in KDP_METADATA.txt
+☑ Blurb: checked against the book, identical in KDP_METADATA.txt and kdp_description.docx
+☑ Categories: 3 proposed (KDP now allows 3): Hard SF, Mystery, Time Travel
+☑ Price: $3.99 USD proposed
+☐ Publication date (LOTHAR)
+☑ Author bio written and proofread (KDP_METADATA.txt, matches the book's About the Author)
+☐ Author photograph (LOTHAR, optional; a pen name can go without one)
 
 ================================================================================
 1-2 WEEKS BEFORE LAUNCH
 ================================================================================
 
 AMAZON KDP ACCOUNT SETUP:
-☐ KDP account created (kdp.amazon.com)
-☐ Tax information submitted (required for payment)
-☐ Bank account linked for royalty payments
-☐ Pen name vs. real name decision made
-☐ Author profile complete (bio, photo)
+☐ KDP account created (LOTHAR's own account)
+☐ Tax information submitted (LOTHAR)
+☐ Bank account linked for royalty payments (LOTHAR)
+☐ Pen name vs. real name decision made (LOTHAR; options in KDP_METADATA.txt)
+☐ Author profile (Author Central) complete: bio text is ready; LOTHAR creates the profile
 
 REVIEW PREPARATION (OPTIONAL):
 ☐ Advance Review Copies (ARCs) requested if using beta readers
@@ -65,47 +71,48 @@ MARKETING PREPARATION:
 ☐ Pre-order notification prepared (if launch partners)
 ☐ Social media accounts updated with book info
 ☐ Author website/blog updated with book announcement
-☐ Marketing angles prepared (see KDP_METADATA.txt)
+☑ Marketing angles prepared (KDP_METADATA.txt; two angles corrected 1 Oct 2026)
 
 KDP LISTING INFORMATION COMPILED:
-☐ Final title confirmed: "The Murder That Hadn't Happened Yet"
-☐ Subtitle noted: "A Relativistic Investigation Bureau Mystery"
-☐ Series name confirmed: "The Relativistic Investigation Bureau"
-☐ Book number: 1
-☐ All keywords ready to copy-paste
-☐ Blurb formatted and ready
-☐ Categories selected
-☐ Price: $3.99
+☑ Final title confirmed: "The Murder That Hadn't Happened Yet"
+☑ Subtitle noted: "A Relativistic Investigation Bureau Mystery"
+☑ Series name confirmed: "The Relativistic Investigation Bureau"
+☑ Book number: 1
+☑ All keywords ready to copy-paste
+☑ Blurb formatted and ready
+☑ Categories selected (proposal)
+☑ Price: $3.99 (proposal)
 
 ================================================================================
 LAUNCH DAY PREPARATION (24 HOURS BEFORE)
 ================================================================================
 
 FINAL MANUSCRIPT CHECK:
-☐ Manuscript converted to .docx format
-☐ Final proofread complete (no typos in front/back matter)
-☐ Document formatting verified
-☐ Embedded fonts removed (Kindle compatibility)
-☐ Hyperlinks working in TOC
-☐ File size under 50MB
-☐ No DRM protection on personal copy
+☑ Manuscript is .docx
+☑ Front/back matter proofread
+☑ Document formatting verified (headings, page breaks, 5 images, 0 dead links)
+☑ No embedded fonts (none in the file)
+☑ Hyperlinks working in TOC (22) and cross-references (all internal anchors resolve)
+☑ File size about 7.6 MB (KDP limit for .docx is 650 MB)
+☐ DRM is a choice on the upload page (LOTHAR; either is fine)
+☐ Final check in Kindle Previewer / KDP's online previewer after upload (LOTHAR)
 
 COVER FINAL CHECK:
-☐ Cover dimensions: 1000x1500 minimum
-☐ Cover file format: JPEG or PNG
-☐ File size: Under 5MB
-☐ Title readable at 1-inch thumbnail size
-☐ No author watermark in image itself
+☑ Cover dimensions: 1152 x 1728 (minimum 625 x 1000; ideal 1600 x 2560)
+☑ Cover file format: JPEG (KDP takes JPEG or TIFF, not PNG)
+☑ File size: 0.86 MB (limit 50 MB)
+☑ Title readable at thumbnail size
+☑ No watermark
 
 METADATA FINAL CHECK:
-☐ Title exactly as chosen
-☐ Blurb copied exactly from KDP_METADATA.txt
-☐ Keywords ready to paste
-☐ Author name spelled correctly
-☐ Category selections finalized
-☐ Publication date confirmed
-☐ Price: $3.99 confirmed
-☐ Kindle Unlimited enrollment: YES (90-day window)
+☑ Title exactly as chosen
+☑ Blurb ready to copy from KDP_METADATA.txt
+☑ Keywords ready to paste
+☐ Author name (LOTHAR)
+☑ Category selections (proposal)
+☐ Publication date (LOTHAR)
+☑ Price: $3.99 (proposal)
+☑ KDP Select / Kindle Unlimited: YES proposed (terms are 90 days and auto-renew unless switched off)
 
 ================================================================================
 LAUNCH DAY (Upload to KDP)
@@ -123,13 +130,13 @@ BASIC BOOK INFORMATION:
 ☐ Series: "The Relativistic Investigation Bureau"
 ☐ Series Number: 1
 ☐ Edition number: (leave blank unless applicable)
-☐ Language: English (US)
+☐ Language: English
 ☐ Publish to KDP Select: YES (for Kindle Unlimited)
 
 KINDLE EDITION DETAILS:
 ☐ Cover image uploaded (1000x1500+ pixels)
 ☐ Manuscript uploaded (.docx file)
-☐ Use ISBN: NO (Amazon provides one)
+☐ ISBN: not needed for a Kindle ebook (Amazon assigns an ASIN)
 ☐ Publication date: [Your selected date]
 ☐ Preview checked (Amazon will show preview of first 10%)
 
@@ -137,7 +144,7 @@ DESCRIPTION & KEYWORDS:
 ☐ Book Description: [Paste from KDP_METADATA.txt]
 ☐ Keywords: [Paste 7 keywords from KDP_METADATA.txt]
 ☐ Categories: Hard Science Fiction + Mystery & Crime Fiction
-☐ Content rating: General Audiences
+☐ Sexually explicit content? NO (KDP has no other content rating for ebooks)
 
 PRICING:
 ☐ List Price: $3.99 USD
@@ -151,9 +158,8 @@ AUTHOR PAGE:
 ☐ Author website link added: [Your website]
 ☐ Series page created/linked
 
-REVIEW SETTINGS:
-☐ Allow customer reviews: YES
-☐ Opt-in to Book Report: YES (see sales data)
+REPORTS:
+☐ Sales and page-read data appear under Reports in the KDP dashboard (no opt-in needed)
 
 SAVE & SUBMIT:
 ☐ All sections reviewed and complete
@@ -262,10 +268,11 @@ KINDLE UNLIMITED PERFORMANCE:
 ☐ Assess if KU is driving good-quality readers or page-count readers
 
 PROMOTIONAL WINDOWS:
-☐ Plan Kindle Countdown Deal for days 30-45 (one free day)
-  - Offers free day to boost visibility and reviews
-  - Usually drives significant Amazon algorithm boost
-  - Drives readers to Book 2 notification
+☐ Plan one KDP Select promotion (corrected 1 Oct 2026; the old line mixed the two up):
+  - Kindle Countdown Deal = a time-limited DISCOUNT (e.g. $0.99), up to 7 days
+    per 90-day term, only after the book has been in Select 30 days at its price
+  - Free Book Promotion = the book is FREE for up to 5 days per 90-day term
+  - You can use one or the other in a given term, not both
 ☐ Consider running ads on Amazon (Amazon Advertising)
   - Budget: $5-$20/day for first month
   - Monitor ACOS (Ad Cost of Sales)

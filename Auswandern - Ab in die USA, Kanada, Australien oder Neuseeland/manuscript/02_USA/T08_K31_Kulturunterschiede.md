@@ -210,10 +210,6 @@ Häufig irritiert:
 | Feste wie Thanksgiving und Super Bowl verbinden schnell | Kein gesetzlicher Urlaub oder Feiertagsanspruch |
 | Starkes Ehrenamt, Spenden und Nachbarschaftshilfe | Ohne Auto ist der Alltag außerhalb weniger Städte schwer |
 
-### Kleidung, kurz
-
-Frag den Dresscode, bevor du einen Anzug kaufst. Zum Vorstellungsgespräch kommst du eine Stufe formeller. Finanzen und Recht bleiben die Ausnahme, in der ein Anzug üblich ist. In einem fremden Haus fragst du, ob die Schuhe ausgezogen werden. Am Strand und im Pool ist Badebekleidung Pflicht. Größen schwanken je Marke, also anprobieren. Mitnehmen lohnen gute Schuhe und ein Business-Outfit. Eine lange Kleiderliste steht nicht mehr in einem eigenen Kapitel.
-
 ### Die 15 Faustregeln für Deutsche
 
 1. Beantworte „How are you?“ in einem Satz und frage zurück.

@@ -1,0 +1,61 @@
+# Series handover — 30 Sep 2026
+
+Several agents edit these books at the same time. Read `SERIES_BIBLE.md` in this folder before adding a person, a place, a date, a physics claim, a plot, or a joke. The section "Tone and humour" is how the books stay one voice. Then read this file, then the live manuscript. If the file is newer than this note, the file wins. Do not commit or push unless asked. Do not overwrite anything in a `bak` folder.
+
+The parent repository is `C:\Users\lomus\OneDrive\My Books for Amazon`, remote `https://github.com/lotmus/My-Books-for-Amazon.git`. The old `schrodingers-paperwork-manuscript` remote is gone. Do not pull it.
+
+## Book 1
+
+Canonical file:
+
+`Book 1 - Schrodingers Paperwork\Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`
+
+Working rules and the 30 Sep review fix are in `Book 1 - Schrodingers Paperwork\MANUSCRIPT_GUIDE.md` (top section "Project/repo notes", and the section "Handover (30 Sep 2026)" at the end). Places and the cast rule are in `CHARACTER_AND_PLACE_GUIDE.md` in that same folder.
+
+Do not edit these instead:
+
+- `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.voice-unruh-brillouin.docx` (older; still has Coldharrow Rise)
+- `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.before-review-fix.docx` (snapshot; do not copy it back over the live file)
+- anything under `English\drafts\`
+- the copies under `bak\`
+
+Edit the Kindle file by replacing `word/document.xml` inside the zip. Do not save it with python-docx. Collapsing runs destroys hyperlinks. Quotes are curly. Headings stay at 45 characters or fewer.
+
+## Book 2
+
+Canonical file, checked 30 Sep 2026 (2,048 paragraphs):
+
+`Book 2 - The Permitted Options\The_Permitted_Options_BOOK_2_DRAFT.docx`
+
+Snapshots already in `Book 2 - The Permitted Options\bak\`, all to be left as they are:
+
+- `The_Permitted_Options_BOOK_2_DRAFT.docx` (older, smaller copy)
+- `The_Permitted_Options_BOOK_2_DRAFT.before-gideon.docx`
+- `The_Permitted_Options_BOOK_2_DRAFT.before-audit-fix.docx`
+- `The_Permitted_Options_BOOK_2_DRAFT.before-audit2-fix.docx`
+- `The_Permitted_Options_BOOK_2_DRAFT.before-review-fix.docx`
+- `The_Permitted_Options_BOOK_2_DRAFT.before-story-restore.docx`
+
+Checked in the live draft, not in those snapshots:
+
+- Chapter 3 opens with "He could not come in." The next sentences are Thursday evening and Albrecht Eilstein. That pronoun is his. Do not insert Gideon between the chapter title and that line.
+- "two books", "either book", and the name Kastner are not in the file.
+- The style SourceCode is on nine paragraphs, and they are equations. Leave those equations in that style. Do not put ordinary narrative in it.
+- The sentence that had the nine's representative arriving "for the first time in the book's history" has been taken out of Chapter 16. It now says she came for the first time since the case opened. Do not put the old clause back. Working notes may say "the book"; story prose should not.
+
+Match the quotation marks of the paragraph you are editing. Do not convert the whole draft in passing.
+
+Book 2 must not contradict Book 1: Coldharrow is a west-London district; Mrs Chain's house is Twenty-Two Elm Grove again after the crisis; 411 states, 308 recovered, 103 unrecovered; Margaret Chain recovered; the green notebook was one notebook at the end of Book 1; Eilstein left in December having eaten nothing for six weeks. Gideon keeps the benches and is Lolly's close friend. That is not a romance subplot.
+
+## Book 2 ownership — 1 Oct 2026
+
+This session now owns Book 2 (`The_Permitted_Options_BOOK_2_DRAFT.docx`). Lothar confirmed the other sessions are dormant. Other agents: do not edit Book 2 without checking with him first.
+
+1 Oct 2026 revision pass (text edited in `word/document.xml` only; 1981 paragraphs, styles, bookmarks and links unchanged; backups `*.before-continue-20261001-1639.docx` and `-1646.docx` sit beside the live file):
+
+- The holographic rate is now accurate everywhere: one natural unit of entropy per four Planck areas, about one bit per 2.8 (4 ln 2). Chapters 4, 9 and 10, and the lectures for Chapters 4 and 10. The lecture calls the area bound the holographic bound ('t Hooft, Susskind), not the Bekenstein bound.
+- The countdown counts working days, Monday to Friday, down to the ninth of February (0 on that Monday). Timeline decided by Lothar 1 Oct 2026: the months stand and the countdown follows them. See the Book 2 chapter calendar in SERIES_BIBLE.md. Counts on the page: Ch 8 148 (Wednesday, mid-July), Ch 9 145 (next Monday), Ch 10 142 (Thursday; Barbarian arrives in July), Ch 11 126 (Eilstein, the Friday after the Tuesday paper), Ch 12 125 (Monday) and 119 (the Tuesday after), Ch 13 112 (following Thursday), Ch 14 110 (Esaki Monday, keeping "No —"), Ch 15 108 (Wednesday).
+- Esaki says "It is as ordinary as a Tuesday." (he visits on a Monday).
+- Also: "Book One" is gone from the Ch 6 notebook; "Barbour's" became "Barbarian's" in the Ch 11 notebook; "HØ" became "ĤΨ" in Ch 10; "the whole book" became "the whole volume" in Ch 13; the Ch 14 frost paragraph sits before Esaki's colon; Esaki's p-n junction line; neutron–proton and diproton physics in Ch 11; Page-curve wording in Ch 8.
+
+1 Oct 2026, timeline pass (backups `*.before-continue-20261001-1908.*`): countdown renumbered as above. Ch 5 "eight months left" (was four). Ch 7 "two months of overwriting" (was three weeks), Beatrix "wasted four months" (was five); Nashville's "October" stands (the Ch 11 paper on Tuesday 12 Aug is eleven weeks early). Ch 10 Eilstein thin "in the four months since something stopped him feeding" (14 March; short rations since 14 November the year before last). Ch 11 "a week and a half on the second" (was six and a half weeks); Barbarian's objection and "stopped testing the score" are July (were June; he arrives in July). Ch 12 Barbarian "where I came in a month ago" (was three weeks). Ch 1-3 Ramanathan's group argued calibration for a week. Follow-up (backups `*.before-continue-20261001-1928.*`): Ch 16 now has the appeal panel reading Beatrix's filing in November and the Counsel reinstating funding in December, after the countdown chapters (bible updated). "Nineteen months" became "sixteen months" (14 November the year before last to Ch 1) in Ch 1-4, Ch 13 and the Ch 3/Ch 4 lectures; the three June uses (Ch 5 "spent nineteen months teaching", Ch 6 support unit and Mavis) stay nineteen.

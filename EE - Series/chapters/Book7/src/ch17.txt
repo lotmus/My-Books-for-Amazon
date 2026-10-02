@@ -1,0 +1,54 @@
+H1: Chapter 17. Inside the HBM Stack
+P: Chapter 1 counted HBM's bandwidth and Chapter 2 placed it beside the processor on an interposer. This chapter opens the stack itself. An HBM device is a column of thinned DRAM dies on a logic base die, connected vertically by thousands of through-silicon vias and joined by microbumps or, increasingly, by direct hybrid bonds. Its bandwidth comes from width, its difficulty from height, and its limits are electrical, mechanical, and thermal at once.
+H2: 17.1 The structure
+P: The base die at the bottom holds the interface to the processor, the test logic, and, in HBM4, more of the control functions, sometimes built in a logic process rather than a DRAM process. Above it sit eight, twelve, or sixteen DRAM dies, each thinned to a few tens of micrometers so that the whole stack fits the JEDEC height limit of a few hundred micrometers. Through-silicon vias, copper columns a few micrometers across, pass signals and power through each die. HBM4 doubles the interface to 2048 data bits per stack, so at 11 Gbit/s per pin the stack delivers 2048 × 11/8 = 2.8 TB/s.
+EQ: bandwidth = width × rate / 8 = 2048 × 11 Gbit/s / 8 = 2.8 TB/s
+H2: 17.2 Through-silicon vias
+P: A TSV is short and thick compared with a wire bond, so its inductance and resistance are small, but it is surrounded by silicon, a lossy semiconductor, separated only by a thin oxide liner. Its capacitance, tens of femtofarads, and the coupling between neighbors through the silicon set the signaling energy. Its copper also expands more than the silicon around it, so the keep-out zone around each TSV, where transistor behavior shifts with stress, costs die area.
+EQ: R = ρL / A
+H2: Worked Example 17.1
+WEP: Find the resistance of a copper TSV 5 µm in diameter and 50 µm long.
+WES: A = π(2.5×10⁻⁶)² = 1.96×10⁻¹¹ m², so R = 1.72×10⁻⁸ × 50×10⁻⁶ / 1.96×10⁻¹¹ = 0.044 Ω. That is negligible for a signal, but a power path through sixteen dies passes through many such vias in series per layer, so power is delivered through hundreds or thousands of TSVs in parallel, just as Chapter 3 spreads 875 A across thousands of bumps.
+H2: 17.3 Bonding: microbumps and hybrid bonds
+P: Conventional HBM joins the dies with microbumps at a pitch of about 40 to 55 µm and fills the gaps with underfill or a non-conductive film. Hybrid bonding joins copper pads directly to copper and oxide directly to oxide, with no solder and no gap, at pitches of about 10 µm and below. By Chapter 2's density formula, a 55 µm pitch gives about 330 connections per square millimeter, and a 9 µm pitch gives about 12,300, more than thirty times as many, while removing the low-conductivity underfill layers from the heat path.
+EQ: density = 10⁶ / p²  per mm²  (p in µm)
+H2: Worked Example 17.2
+WEP: Heat generated in the base die must flow up through sixteen bonding layers. Each underfill layer is 10 µm thick with k = 0.5 W/(m·K) over 100 mm². Find the thermal resistance of the sixteen layers, and the temperature rise for 10 W.
+WES: Each layer gives θ = t/(kA) = 10×10⁻⁶/(0.5 × 100×10⁻⁶) = 0.2 K/W, and sixteen in series give 3.2 K/W. For 10 W the rise is 32 K, a large share of the budget of Chapter 6 before the heat reaches the lid. Hybrid bonding replaces those layers with silicon and copper, whose conductivity is hundreds of times higher, which is one of its main motivations.
+KEY: Key idea. HBM's bandwidth comes from a very wide interface, and its difficulty from height: the TSVs, the bonds, and the heat path through sixteen thinned dies. Hybrid bonding raises connection density and lowers thermal resistance together.
+H2: 17.4 Energy per bit and stack power
+P: An HBM interface is short, so its energy per bit is a few picojoules, far less than a DDR channel across a board. Even so, at 2.8 TB/s the interface power is large, because Chapter 1's rule multiplies the energy per bit by a very large bit rate. Refresh, the DRAM arrays, and the base die add more. The stack's power, concentrated in a small footprint next to the processor, is why HBM temperature, not only processor temperature, limits AI accelerators.
+H2: Worked Example 17.3
+WEP: Assume an interface energy of 2 pJ/bit. Find the interface power of one HBM4 stack at 2.8 TB/s, and of eight stacks.
+WES: The bit rate is 2.816 TB/s × 8 = 22.5 Tbit/s, so P = 22.5×10¹² × 2×10⁻¹² = 45 W per stack, and 360 W for eight stacks. The assumed energy per bit is the lever: every 0.5 pJ/bit saved removes about 90 W from an eight-stack accelerator.
+H2: 17.5 Known-good dies and test
+P: A sixteen-high stack is only as good as its worst die and its worst bond. If each die and its bonding has a yield of 99%, the stack yield is 0.99¹⁶ = 85%, before the stack meets the processor. Each die is therefore tested before stacking, spare rows and TSVs are built in for repair, and the base die includes test logic so the assembled stack can be checked through the interposer. Chapter 8's yield arithmetic applies vertically as well as horizontally.
+H2: 17.6 Temperature and refresh in the stack
+P: A DRAM cell is a capacitor that leaks, and the leakage roughly doubles for every 10 °C, so cells must be refreshed more often when hot. JEDEC's standard refresh interval of 64 ms, with a refresh command every 7.8 µs, applies up to 85 °C; between 85 and 95 °C the rate doubles, to every 32 ms, and HBM stacks above that need still more. Refresh is not free: during each refresh the affected banks cannot be accessed, and the refresh current adds to the stack's power. An HBM stack sits next to a processor dissipating up to a kilowatt, and its upper dies are the farthest from the cold plate, so the thermal design of Chapter 6 directly sets the memory's usable bandwidth, and HBM controllers read the stack's temperature sensors to adjust the refresh rate dynamically.
+H2: Worked Example 17.4
+WEP: A memory bank is unavailable for 350 ns per refresh command, and commands come every 7.8 µs at normal temperature. Find the fraction of time lost to refresh, and the fraction when the rate doubles above 85 °C.
+WES: 350 ns/7.8 µs = 4.5 % at normal temperature; doubling the rate gives 9.0 %. A hot stack therefore loses almost a tenth of its bank availability to refresh, which, with the extra refresh power, is why HBM cooling matters as much as the processor's.
+H2: 17.7 What a TSV costs in energy
+P: Moving a bit through a through-silicon via is cheap compared with moving it off the stack. A TSV is a short vertical wire with a capacitance of a few tens of femtofarads to the surrounding silicon, set by its diameter, length, and the thickness of its oxide liner, and the small drivers and receivers at each end add a little more. The energy per bit is roughly αCV², where α is the probability that the line switches upward on a given bit, about a quarter to a half for random data depending on the convention, and V is the swing. Because the swing inside the stack can be low and the capacitance is small, the vertical links consume a fraction of a watt even at the full stack bandwidth, while the interface to the processor, Section 17.4, costs tens of watts. The energy of a memory system lives in the horizontal links and the DRAM arrays, not in the vertical wiring.
+EQ: E_bit ≈ α C V²
+H2: Worked Example 17.5
+WEP: A TSV and its driver and receiver present 60 fF, the swing is 0.75 V, and α = 0.5. Find the energy per bit and the power at the stack's 2.8 TB/s, and compare it with the 2 pJ/bit interface.
+WES: E = 0.5 × 60 × 10⁻¹⁵ × 0.75² = 17 fJ/bit. At 2.8 TB/s = 2.24 × 10¹³ bit/s the TSVs take 0.38 W, while the interface at 2 pJ/bit takes 45 W, more than a hundred times as much.
+P: Memory stacks are the densest packages in a system. Chapter 18 puts something entirely different into the package: an antenna.
+H2: Practice
+PR: Find the bandwidth of a 1024-bit interface at 9.6 Gbit/s.
+PR: Find the connection density at a 40 µm pitch.
+PR: Find the resistance of a 3 µm diameter, 30 µm long copper TSV.
+PR: Find the stack yield of sixteen layers at 98% each.
+PR: Find the interface power at 3 pJ/bit and 2.8 TB/s.
+PR: Find the thermal resistance of twelve 10 µm underfill layers, k = 0.5 W/(m·K), over 100 mm².
+PR: What fraction of time is lost if each refresh blocks a bank for 280 ns every 3.9 µs?
+PR: Find the energy per bit of a 40 fF TSV at 0.5 V swing with α = 0.5.
+ANS: 1.23 TB/s.
+ANS: 625 connections per mm².
+ANS: 0.073 Ω.
+ANS: 72.4%.
+ANS: About 68 W.
+ANS: 2.4 K/W.
+ANS: 280/3900 = 7.2 %.
+ANS: 0.5 × 40 fF × 0.25 V² = 5 fJ.

@@ -22,7 +22,7 @@ SCRATCH = Path(
     r"\Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.scratch.docx"
 )
 OUT = SERIES / "Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx.next"
-GUIDE = SERIES / "MANUSCRIPT_GUIDE.md"
+GUIDE = SERIES / "notes" / "MANUSCRIPT_GUIDE.md"
 WS = Path(
     r"c:\Users\lomus\OneDrive\My Books for Amazon"
     r"\Schrodingers_Paperwork"

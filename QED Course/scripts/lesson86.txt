@@ -1,0 +1,253 @@
+TITLE: QED in External Fields
+TAGLINE: Split A into a classical background and a quantum fluctuation, integrate out the electron, and the vacuum becomes a medium; in a strong electric field it is unstable, and pairs tunnel out of it at the Schwinger rate (eE)²/(4π³) exp(−πm²/eE), the process that a single real photon could not perform in Lesson 58
+NUM: 86
+NEXT: Lesson 87 closes the course by placing U(1)_EM inside the electroweak theory, without deriving the Higgs mechanism in full.
+
+# How to use this lesson
+
+Lesson 58 showed that a single real photon cannot turn into an electron–positron pair, and postponed the question of what can. This lesson answers it. A classical external field is not a particle and is not bound by the photon's mass-shell condition, so it can supply the energy and momentum a pair needs. The tool is the background-field split of the photon, A = A_ext + a, combined with Lesson 82's effective action and Lesson 81's vacuum persistence amplitude. The lesson first sets up the Furry picture, in which the electron moves exactly in the background. It derives the tunneling exponent πm²/eE and then the complete leading pair-production rate, prefactor included, from a counting argument. Schwinger's full result is quoted and compared with it. The lesson explains why the effect is invisible to every order of perturbation theory, evaluates it for real fields, and ends with the other strong-field frontier, the supercritical Coulomb field of a nucleus with Z near 173. Expect six to eight hours.
+
+## Learning objectives
+
+- Explain why γ → e⁺e⁻ is forbidden for a real photon, and why a static electric field evades the obstruction.
+
+- Write A = A_ext + a, explain when a classical A_ext is legitimate, and set up the Furry picture.
+
+- Connect pair production to an imaginary part of Γ[A_ext] through |⟨0|0⟩|² = exp(−2 Im Γ).
+
+- Derive the exponent exp(−πm²/eE) by WKB, and the leading rate (eE)²/(4π³) exp(−πm²/eE) by counting states.
+
+- Quote Schwinger's series, distinguish the pair-production rate from the vacuum decay rate, and explain the nonperturbative dependence on e.
+
+- Evaluate the rate for laboratory and laser fields, and state when no pairs are produced at all.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| A_ext | Prescribed classical background field |
+| a | Quantized photon fluctuation about A_ext |
+| E, B | Magnitudes of the background electric and magnetic fields |
+| E_c | Critical field m²/e, equal to m²c³/(eℏ) = 1.32×10¹⁸ V/m |
+| m_⊥ | Transverse mass, √(m² + p_⊥²) |
+| ℒ_eff | Effective Lagrangian, Γ[A_ext] = ∫d⁴x ℒ_eff for constant fields |
+| Z | Nuclear charge number |
+
+Natural units, with e > 0 and the electron's charge −e. In display equations, square brackets enclose function arguments and visible groupings.
+
+# 1 What a photon cannot do
+
+A real photon has k² = 0. An electron–positron pair has invariant mass squared (p + p′)² ≥ 4m². Four-momentum conservation for γ → e⁺e⁻ would need 0 = (p + p′)² ≥ 4m², which is impossible. This is Lesson 58's obstruction, and it holds in every frame. A second photon removes it: γγ → e⁺e⁻ (Breit–Wheeler) is allowed when s ≥ 4m². So is a photon passing a nucleus, γZ → e⁺e⁻Z, where the nucleus's Coulomb field absorbs momentum.
+
+A classical field is the limit of the second option. It is a superposition of off-shell, spacelike or static, Fourier components, and it can absorb or supply any four-momentum its spacetime dependence contains. A constant electric field does work on a charge without limit, so a pair can be made out of the field's energy, with no photon at all.
+
+# 2 Background and fluctuation
+
+## 2.1 The split
+
+Write the photon field as
+
+$$ A_μ = A_μ^ext + a_μ
+
+and integrate only over a and ψ. A_ext is fixed. It appears in the electron's kinetic operator as K[A_ext] = i∂̸ + eA̸_ext − m, from Lesson 82, Section 5.1. A prescribed classical field is the limit of a coherent state with large occupation (Lesson 34). A coherent state has ⟨A⟩ = A_classical, and its relative quantum fluctuations fall like 1/√N with the mean number N of photons in a mode. A laboratory field, with N of order 10²⁰ or more per mode, is classical to excellent accuracy. Treating it as fixed means neglecting its depletion by the pairs it produces, the back-reaction.
+
+## 2.2 The Furry picture
+
+Since K[A_ext] is quadratic in ψ, the electron can be propagated in the background exactly, and only a is treated in perturbation theory. The propagator is iK[A_ext]⁻¹, the Green's function of the Dirac equation in the field. This is the Furry picture. Lesson 77 used it implicitly. The Dirac hydrogen levels are the poles of the electron propagator in a Coulomb background, exact in Zα, and the Lamb shift is the first radiative correction in a. In a plane-wave background the Dirac equation is also exactly solvable, by the Volkov solutions, which are the basis of strong-laser QED.
+
+## 2.3 The vacuum in a background
+
+Integrating out the electron gives Lesson 82's effective action:
+
+$$ Γ[A_ext] = S_Maxwell[A_ext] − i Tr[log[K[A_ext]]]
+
+Lesson 81's vacuum persistence amplitude is ⟨0, out|0, in⟩ = e^{iΓ}. If Γ is real, the vacuum stays the vacuum and only acquires a phase, and the background merely polarizes it. If Γ has an imaginary part,
+
+$$ |⟨0, out | 0, in⟩|² = e^(− 2 Im Γ)
+
+is less than 1, and the vacuum decays: the background creates particles. For a constant field, Im Γ = VT Im ℒ_eff, so 2Im ℒ_eff is a probability per unit volume per unit time. This is the same structure as Lesson 81's e^{−n̄}, with a classical current replaced by a classical field.
+
+# 3 The exponent, from tunneling
+
+## 3.1 The energy diagram
+
+Take a constant field E along z, with potential energy V(z) = eEz for the electron. The Dirac sea picture is useful here. Positive-energy states have energy ≥ m + V(z) locally, and negative-energy states have energy ≤ −m + V(z). For a given energy, the two continua are separated by a forbidden gap where |ε − V(z)| < m. The width of the gap is 2m/eE, the distance over which the field supplies the energy 2m of a pair. An electron in the negative-energy sea can tunnel across it, leaving a hole, the positron. This is the Klein paradox of Lesson 32, made quantitative.
+
+## 3.2 The WKB integral
+
+Put the center of the gap at z = 0. Inside it the longitudinal momentum is imaginary, |p_z| = √(m_⊥² − (eEz)²), where m_⊥ = √(m² + p_⊥²) includes the conserved transverse momentum. The WKB tunneling probability is e^{−2∫|p_z|dz}, and the integral is half the area of an ellipse with semi-axes m_⊥ and m_⊥/eE:
+
+$$ 2 ∫_(−m_⊥/eE)^(m_⊥/eE) √[m_⊥² − (eEz)²] dz = 2 · (π/2) m_⊥ (m_⊥/eE) = π m_⊥² / eE
+
+So the probability for a single mode to tunnel is
+
+$$ P[p_⊥] = exp[− π m_⊥² / eE] = exp[− π m² / eE] exp[− π p_⊥² / eE]
+
+The factor exp(−πm²/eE) is the Schwinger exponent. Transverse momentum costs exponentially, so pairs are produced nearly at rest transverse to the field, with p_⊥² of order eE/π.
+
+# 4 The rate
+
+## 4.1 Counting states
+
+In the gauge A_z = −Et, the canonical momentum along z is conserved, and the kinetic momentum p_z − eA_z grows at the rate eE. Each mode sweeps through the gap once, and the modes cross the gap at a rate per unit length of dp_z/dt divided by 2π, that is eE/2π. The number of transverse modes per unit area is d²p_⊥/(2π)², and there are 2 spin states. The rate per unit volume is the product of the number of modes crossing per unit time and the probability each tunnels:
+
+$$ Γ/V = 2 (eE/2π) ∫ (d²p_⊥)/((2π)²) e^(− π m_⊥²/eE)
+
+### Worked example 1
+
+Do the transverse integral and obtain the rate.
+
+∫d²p_⊥ e^{−πp_⊥²/eE} = π × (eE/π) = eE, the Gaussian integral ∫d²p e^{−ap²} = π/a. Then
+
+$$ Γ/V = 2 (eE/2π) (eE/4π²) e^(− π m²/eE) = ((eE)²)/(4π³) e^(− π m²/eE)
+
+This is the mean number of pairs created per unit volume per unit time, to leading order in the tunneling probability. The prefactor is (eE)²/4π³, not (eE)²/(4π)³. The two differ by a factor 16, and the counting shows where each π comes from: one from the mode spacing 2π, two from (2π)², and one canceling from the Gaussian.
+
+## 4.2 Schwinger's result
+
+Schwinger evaluated Tr log K[A_ext] exactly for a constant field in 1951, by the proper-time method, and found
+
+$$ 2 Im ℒ_eff = ((eE)²)/(4π³) Σ_(n=1)^∞ (1/n²) e^(− nπ m²/eE)
+
+The n = 1 term is the rate of Worked example 1. The full series is the vacuum decay rate, the rate at which the probability of having no pairs at all falls. The terms with n ≥ 2 are not more pairs. They arise because the probability of no pair in a mode is 1 − P, so each mode contributes −log(1 − P) = Σ_n Pⁿ/n to the decay exponent. That expansion supplies one factor 1/n. The p_⊥ integral of Pⁿ is over a Gaussian n times narrower, which supplies the other. The mean number of pairs, which is what a detector counts, is exactly the n = 1 term.
+
+## 4.3 Why perturbation theory cannot see it
+
+Write the exponent as πm²/eE = πE_c/E with E_c = m²/e. As a function of e at fixed E, exp(−πm²/eE) vanishes faster than any power of e as e → 0. Its Taylor series about e = 0 is zero to every order. Every Feynman diagram of Parts IX and X is a power of e, up to logarithms from renormalization, so no finite order of perturbation theory produces the Schwinger rate. It is a tunneling effect, like the decay of a metastable state in quantum mechanics, and the same mathematics governs both. Lesson 82's Euler–Heisenberg Lagrangian is the weak-field expansion of the real part of the same Tr log. Its series in (E/E_c)² is asymptotic, and the exponentially small imaginary part is what that series leaves out.
+
+# 5 Real fields
+
+### Worked example 2
+
+Evaluate the rate at E = E_c, 0.1E_c, and 0.05E_c, and for the strongest laser, 10²³ W/cm².
+
+The prefactor at E = E_c is m⁴/4π³. In SI units m⁴ means (mc²/ℏ)(mc/ℏ)³ = 7.763×10²⁰ s⁻¹ × (3.8616×10⁻¹³ m)⁻³ = 1.348×10⁵⁸ m⁻³ s⁻¹. Dividing by 4π³ = 124.0 gives 1.09×10⁵⁶ m⁻³ s⁻¹. Then:
+
+- At E = E_c, the rate is 1.09×10⁵⁶ × e^{−π} = 4.7×10⁵⁴ m⁻³ s⁻¹. That is 4.7×10²⁴ pairs per μm³ per ps, which would discharge the field at once.
+
+- At 0.1E_c, the rate is 0.01 × 1.09×10⁵⁶ × e^{−10π} = 2.5×10⁴⁰ m⁻³ s⁻¹, still 2.5×10¹⁰ pairs per μm³ per ps.
+
+- At 0.05E_c, it is 1.4×10²⁶ m⁻³ s⁻¹, about 10⁻⁴ pairs per μm³ per ps.
+
+- For a laser of intensity 10²³ W/cm², the peak field is E = √(2I/cε₀) = 8.7×10¹⁴ V/m, so E/E_c = 6.6×10⁻⁴. The exponent is π/6.6×10⁻⁴ ≈ 4800, and the rate is suppressed by e^{−4800}, about 10^{−2080}.
+
+The rate falls by twenty orders of magnitude between 0.1E_c and 0.05E_c. The vacuum is a near-perfect insulator below about E_c/30, and it breaks down abruptly above it.
+
+## 5.1 When no pairs are produced
+
+A constant field has two invariants, B² − E² and E·B. If E·B = 0 and B > E, there is a frame with a pure magnetic field. A static magnetic field does no work, so it cannot supply the energy of a pair, and Im ℒ_eff = 0. The vacuum in a pure magnetic field is stable, however strong the field: the electron levels become Landau levels, and the vacuum is only polarized. A single plane wave has both invariants zero, so it produces no pairs by itself, however intense. This is Lesson 58's single-photon theorem restated for a classical wave. Pair production in a laser needs a second ingredient: a counterpropagating beam, a high-energy photon, or a nucleus.
+
+## 5.2 Seeing it
+
+The SLAC E-144 experiment of 1997 collided 46.6 GeV electrons with a terawatt laser. In the electrons' rest frame the laser field approached E_c. High-energy photons, made by Compton backscattering, absorbed several laser photons at once and produced pairs: γ + nω_L → e⁺e⁻, with n about 5. That is the multiphoton Breit–Wheeler process, the perturbative relative of the Schwinger process. In the language of this lesson it is pair creation in the combined field of a photon and a strong plane wave, computed with Volkov propagators. The pure Schwinger process in a static field has not yet been observed.
+
+# 6 The supercritical Coulomb field
+
+A nucleus provides another strong field. In the Furry picture, the Dirac 1s energy in a point Coulomb field is E_1s = m√(1 − (Zα)²). As Z approaches 1/α ≈ 137, this goes to zero, and beyond it becomes complex. A real nucleus has a finite radius, which removes the singularity. The 1s level then keeps falling, and at about Z = 173 it reaches −m, the top of the negative-energy continuum. Beyond that point the empty 1s state lies inside the Dirac sea. An electron from the sea can fill it, and the hole escapes as a positron. The neutral vacuum becomes unstable, and the stable vacuum is charged, carrying two electrons in the 1s shell. No single nucleus is that heavy, but uranium–uranium collisions briefly reach Z = 184. Experiments at GSI looked for the emitted positron line in the 1980s and 1990s, and the results were not conclusive.
+
+### Worked example 3
+
+How strong is the field at the surface of a uranium nucleus, compared with E_c?
+
+The nuclear radius is R ≈ 1.2A^{1/3} fm = 1.2 × 238^{1/3} fm ≈ 7.4 fm. The field at the surface is Ze/(4πR²) in Heaviside–Lorentz units, so eE = Zα/R². In units of E_c, E/E_c = eE/m² = Zα/(mR)². With Z = 92, Zα = 0.671. mR = 7.4 fm/386 fm = 0.0192, so (mR)² = 3.7×10⁻⁴. Then E/E_c = 0.671/3.7×10⁻⁴ ≈ 1800. The field at the surface is far above critical, and the electron's potential energy is below −2m out to r ≈ Zα/2m ≈ 130 fm. Pair creation would need an electron state with energy below −m localized in that region. The region is smaller than the Compton wavelength, 386 fm, so the uncertainty principle keeps the lowest level, 1s, at E_1s ≈ m√(1 − (Zα)²) ≈ 0.74m for uranium, well above −m. A static, localized field creates pairs only when a bound level reaches −m, and that takes Z near 173. The uniform-field rate of Section 4 assumes a field that extends over many Compton wavelengths, which a nucleus does not provide.
+
+# 7 What this lesson has not done
+
+It did not carry out Schwinger's proper-time evaluation of Tr log. It quoted his series, the Dirac Coulomb energy, the critical charge near 173, and the 1s binding in uranium. The rate was derived by a semiclassical counting argument that reproduces the leading term but does not by itself give the higher terms. It did not treat time-dependent fields beyond a remark, the back-reaction of the pairs on the field, or the Volkov solutions. The experiments were described, not analyzed.
+
+# 8 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used next |
+| A = A_ext + a; Furry picture | Atoms, strong lasers, heavy-ion collisions |
+| |⟨0|0⟩|² = e^{−2 Im Γ} | Vacuum stability in any background |
+| exp(−πm²/eE) by WKB | Tunneling effects in field theory |
+| Γ/V = (eE)²/(4π³)e^{−πm²/eE} | Pair creation in strong fields |
+| Nonperturbative in e | Limits of the loop expansion of Parts IX and X |
+| Pure B, single plane wave: no pairs | Lesson 58 generalized |
+| Supercritical Z ≈ 173 | Charged vacuum; the meaning of a vacuum, Lesson 87 |
+
+# 9 Summary
+
+1. A real photon cannot make a pair, because 0 ≥ 4m² is impossible. A classical field, with off-shell Fourier components, can.
+
+2. Split A = A_ext + a. The electron propagates exactly in A_ext (the Furry picture), and Γ[A_ext] = S_Maxwell − i Tr log K[A_ext].
+
+3. Pair creation is an imaginary part of Γ, with |⟨0|0⟩|² = e^{−2 Im Γ}.
+
+4. WKB through the gap of width 2m/eE gives exp(−πm_⊥²/eE).
+
+5. Counting modes that cross the gap gives Γ/V = (eE)²/(4π³)e^{−πm²/eE}, the mean pair-creation rate. Schwinger's series Σn⁻² is the vacuum decay rate.
+
+6. The rate is nonperturbative, vanishing faster than any power of e, and below about E_c/30 it is negligible.
+
+7. A pure magnetic field or a single plane wave produces no pairs. A nucleus with Z above about 173 would make the vacuum charged.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Show that γ → e⁺e⁻ violates four-momentum conservation for a real photon, and find the threshold for γγ → e⁺e⁻ in head-on collisions. |
+| 2 | Explain why a coherent state with large occupation is well described by a classical field. |
+| 3 | Show that |⟨0|0⟩|² = e^{−2 Im Γ}, and explain why Im Γ > 0 for an unstable vacuum. |
+| 4 | Find the width of the forbidden gap for a pair with transverse momentum p_⊥. |
+| 5 | Evaluate ∫_{−a}^{a}√(m² − (eEz)²)dz with a = m/eE. |
+| 6 | Show that transverse momentum suppresses tunneling by e^{−πp_⊥²/eE}, and find ⟨p_⊥²⟩ for the produced pairs. |
+| 7 | Repeat the counting of Section 4.1 for a charged scalar, with no spin factor, and give the leading rate. |
+| 8 | Using log(1 − P) = −ΣPⁿ/n, show how the 1/n² of Schwinger's series arises from the Gaussian in p_⊥. |
+| 9 | Why does (eE)²/(4π)³ differ from the correct prefactor by a factor 16? |
+| 10 | Show that exp(−1/e²) has all derivatives zero at e = 0. |
+| 11 | Compute E_c in V/m, and the peak field of a 10²³ W/cm² laser. |
+| 12 | At what fraction of E_c is the rate 1 pair per cm³ per second? |
+| 13 | Show that E·B and B² − E² are Lorentz invariant, and explain why a pure magnetic field cannot produce pairs. |
+| 14 | Why does a single plane wave not produce pairs? |
+| 15 | Find the Z at which E_1s = m√(1 − (Zα)²) vanishes for a point nucleus. |
+| 16 | Challenge: show that the semiclassical argument and Schwinger's n = 1 term agree, including the factor 2 for spin, and explain why the scalar case has the alternating series Σ(−1)^{n+1}n⁻² with half the prefactor. |
+
+# Solutions
+
+**1.** (p + p′)² ≥ 4m² but k² = 0. For head-on photons, s = 4ω₁ω₂ ≥ 4m², so ω₁ω₂ ≥ m².
+
+**2.** Relative fluctuations scale as 1/√N. For N ≫ 1, the field operator acts like its expectation value.
+
+**3.** ⟨0|0⟩ = e^{iΓ}, so |⟨0|0⟩|² = e^{iΓ}e^{−iΓ*} = e^{−2 Im Γ}. A probability is at most 1, so Im Γ ≥ 0, with equality only if the vacuum is stable.
+
+**4.** |ε − eEz| < m_⊥ gives a width 2m_⊥/eE.
+
+**5.** Substitute eEz = m sin θ: (m²/eE)∫cos²θ dθ over (−π/2, π/2) = πm²/(2eE).
+
+**6.** m_⊥² = m² + p_⊥², so the exponent splits. The distribution e^{−πp_⊥²/eE} gives ⟨p_⊥²⟩ = eE/π.
+
+**7.** Without the spin factor, Γ/V = (eE)²/(8π³)e^{−πm²/eE}.
+
+**8.** −log(1 − P) = ΣPⁿ/n, and Pⁿ = e^{−nπm²/eE}e^{−nπp_⊥²/eE}. The p_⊥ integral of the second factor is eE/n, which gives one more 1/n.
+
+**9.** (4π)³ = 64π³, sixteen times 4π³. The correct counting has 2π from the longitudinal mode spacing and (2π)² from the transverse modes, with a factor π from the Gaussian partly canceling.
+
+**10.** For f = e^{−1/x} with x = e², every derivative is a polynomial in 1/x times e^{−1/x}, which goes to zero as x → 0⁺.
+
+**11.** E_c = (9.109×10⁻³¹)²(2.998×10⁸)³/(1.602×10⁻¹⁹ × 1.055×10⁻³⁴) = 1.32×10¹⁸ V/m. The laser field is 8.7×10¹⁴ V/m.
+
+**12.** 1 cm⁻³ s⁻¹ = 10⁶ m⁻³ s⁻¹. Solve 1.09×10⁵⁶ r² e^{−π/r} = 10⁶. Taking logarithms, π/r − 2 ln r = ln(1.09×10⁵⁰) = 115.2, so r ≈ 0.029.
+
+**13.** F_{μν}F^{μν} = 2(B² − E²) and F_{μν}F̃^{μν} = −4E·B are scalars. If E·B = 0 and B > E, a boost removes E. A pure B does no work, so it cannot supply the energy 2m.
+
+**14.** Both invariants vanish for a plane wave. Equivalently, every photon of the wave has the same direction, so any number of them has total k² = 0, which is Lesson 58's obstruction.
+
+**15.** Zα = 1, so Z = 137.
+
+**16.** For spin ½, the two spin states give the factor 2 in Section 4.1, and Pauli blocking gives −log(1 − P) for the decay exponent, with all plus signs. For a scalar there is one state per mode, and Bose enhancement turns the persistence factor into 1/(1 + P). Then log(1 + P) = Σ(−1)^{n+1}Pⁿ/n alternates, and the prefactor is half.
+
+# Mastery checklist
+
+- I can explain why a real photon cannot make a pair but a classical field can.
+
+- I can set up the background-field split and the Furry picture.
+
+- I can connect pair creation to Im Γ.
+
+- I can derive the Schwinger exponent and the leading rate, prefactor included.
+
+- I can explain why the effect is invisible to perturbation theory, and evaluate it for real fields.
+
+- I can state when no pairs are produced, and what happens at supercritical Z.

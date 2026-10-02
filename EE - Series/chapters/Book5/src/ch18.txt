@@ -1,0 +1,62 @@
+H1: Chapter 18. Massive MIMO and Beamforming
+P: Chapter 7 showed that several antennas at each end can carry several streams. A 5G base station goes much further, with 32, 64, or more antenna elements serving many users at once on the same time and frequency resources. Book 4 built the array and its beam; this chapter treats the signal processing: how a base station with many antennas learns the channel, focuses energy on each user, nulls the others, and why its performance becomes remarkably predictable as the array grows.
+H2: 18.1 Array gain
+P: With M antennas and perfect knowledge of the channel, the base station can weight each antenna's signal by the conjugate of that antenna's channel, so that all the contributions add in phase at the user. This maximum-ratio transmission delivers an SNR M times higher than a single antenna with the same total power, an array gain of 10 log10 M. In receive, maximum-ratio combining gives the same gain. The gain can be spent on range, on lower transmit power, or on a higher-order modulation.
+EQ: array gain = 10 log10 M;   MRT weights w = h*/‖h‖
+H2: Worked Example 18.1
+WEP: Find the array gain of a 64-element base station. If it serves 8 users with zero-forcing, which cancels the interference between them at the cost of some gain, the effective gain per user is about M − K + 1. Find it.
+WES: The array gain is 10 log10 64 = 18.1 dB. With zero-forcing for K = 8 users, each user's effective gain is about 64 − 8 + 1 = 57, or 17.6 dB, only 0.5 dB less, while eight streams share the same resources. With many more antennas than users, nulling the others costs little.
+H2: 18.2 Channel hardening and favorable propagation
+P: When a user's channel is the sum of contributions from many antennas, the random fading of each element averages out: the normalized channel gain ‖h‖²/M fluctuates with a variance that falls as 1/M. This channel hardening makes a massive MIMO link behave almost like a wired one, with little of the Rayleigh fading penalty of Chapter 5. Similarly, the channels of different users become nearly orthogonal as M grows, which is why simple linear precoders work well. Both effects depend on rich scattering or well-separated users; users in the same direction remain hard to separate.
+KEY: Key idea. Many antennas buy an array gain of 10 log M, almost free spatial separation of users, and a channel whose fading averages out. The cost is learning the channel, which in TDD is done from uplink pilots and reciprocity.
+H2: 18.3 Learning the channel
+P: Beamforming needs the channel from every antenna to every user. In FDD, the base station would have to send pilots from every antenna and have users report back, which becomes unmanageable for 64 antennas. In TDD the uplink and downlink share a frequency, so the channel is reciprocal: users send short uplink pilots, the base station estimates all M channels from each pilot at once, and uses them for the downlink. The pilot overhead then grows with the number of users, not antennas. The usable resources per coherence block are the coherence bandwidth times the coherence time from Chapter 5, and the pilots must fit in a small fraction of them.
+EQ: τc = Bc × Tc  (symbols per coherence block),   pilot overhead ≈ K / τc
+H2: Worked Example 18.2
+WEP: A channel has a 200 kHz coherence bandwidth and a 1 ms coherence time. How many symbols does a coherence block contain, and what fraction is spent on pilots for 8 users?
+WES: τc = 2 × 10⁵ × 10⁻³ = 200 symbols. Eight orthogonal pilots take 8/200 = 4% of the block. At high speed the coherence time shrinks and the overhead grows, which limits how many users can be served at once. When pilots must be reused between cells, their interference, pilot contamination, limits the gain.
+H2: 18.4 Hybrid beamforming at millimeter wave
+P: At millimeter wave, an array may have hundreds of elements, and giving each its own converter chain is too expensive in power. Hybrid architectures use a small number of digital chains, each driving a sub-array through analog phase shifters, as in Book 4's Chapter 8. The analog beams select directions, and the digital precoder separates users within them. Beam management, sweeping beams and tracking the best one as the user moves, replaces much of the fine channel estimation of sub-6 GHz massive MIMO.
+H2: 18.5 Precoding for many users: MRT, ZF, and regularized ZF
+P: With K users on the same resource, the base station chooses a precoding matrix that maps the K data streams onto its M antennas. Maximum-ratio transmission points a beam at each user as if the others did not exist; it maximizes each user's signal but leaves the interference between users, which at high SNR caps the rate. Zero-forcing inverts the channel so that each user receives no energy intended for the others, at the cost of the array gain spent on nulling, about M − K + 1 instead of M. Regularized zero-forcing, the MMSE precoder, adds a term proportional to the noise to the matrix being inverted, so that it behaves like maximum-ratio transmission at low SNR and like zero-forcing at high SNR. Base stations use it almost universally.
+H2: 18.6 Pilot contamination
+P: In TDD massive MIMO each user sends an uplink pilot from which the base station learns its channel. The number of orthogonal pilots is limited by the coherence block, so neighboring cells must reuse them. A base station that hears a pilot from its own user and the same pilot from a user in the next cell learns the sum of the two channels and beamforms toward both. That interference grows with M exactly as the wanted signal does, so adding antennas does not remove it: the SIR saturates at the ratio of the two users' large-scale gains. Pilot assignment across cells, longer pilot sequences, and multi-cell MMSE processing reduce it, and in practice the network's other imperfections usually bind first.
+H2: Worked Example 18.3
+WEP: A 64-antenna base station serves 8 users, each with a large-scale SNR of 10 dB if it had all the power. The power is shared equally. Compare the per-user SINR and the sum spectral efficiency of maximum-ratio transmission and zero-forcing, treating each interfering stream under MRT as arriving with the power of one antenna's worth of gain.
+WES: Each user gets P/K = 10/8 = 1.25 of the SNR. Zero-forcing gives 1.25 × (64 − 8 + 1) = 71.3, 18.5 dB, and a sum of 8 log₂(72.3) = 49.4 bit/s/Hz. MRT gives a signal of 1.25 × 64 = 80 against 7 × 1.25 + 1 = 9.75 of interference plus noise, an SINR of 8.2 or 9.1 dB, and a sum of 8 log₂(9.2) = 25.6 bit/s/Hz. Zero-forcing nearly doubles the throughput here; at an SNR of −10 dB the order reverses, which is what the regularized precoder exploits.
+H2: Worked Example 18.4
+WEP: A user in a neighboring cell reuses the same pilot and reaches this base station 15 dB weaker than this cell's own user. What SIR limit does pilot contamination impose, whatever M is?
+WES: Both the wanted and the contaminating terms grow in proportion to M, so their ratio stays at the ratio of large-scale gains, 15 dB, about 5.0 bit/s/Hz at best. To go beyond it, the network must assign that pilot to a user farther away.
+H2: 18.7 Beam management at millimeter wave
+P: A millimeter-wave base station cannot estimate the channel to each of its hundreds of elements before it has a beam toward the user, because without the beam's gain the user cannot hear it. 5G NR solves this with a beam sweep. The base station transmits its synchronization signal blocks, up to 64 of them in FR2, each through a different beam, in a burst confined to 5 ms and repeated every 20 ms. The handset measures them, reports the best, and the two sides then refine with narrower beams on channel-state reference signals and track the user as it moves or turns. The handset sweeps its own few beams too, so a full initial search multiplies the base station's burst by the number of handset beams.
+H2: Worked Example 18.5
+WEP: A base station sweeps 64 beams in one synchronization burst every 20 ms. The handset has 8 receive beams and must test each against a full burst. How long does the exhaustive initial search take, and what does a hierarchical search that first uses 4 wide handset beams save?
+WES: The exhaustive search needs 8 bursts, 8 × 20 = 160 ms. Testing 4 wide beams first, then the 2 narrow beams inside the best wide one, takes 6 bursts, 120 ms; with the wide beams' lower gain the handset must be closer to the cell for the first step to succeed, the usual trade between speed and coverage.
+H2: 18.8 Reciprocity calibration
+P: TDD massive MIMO rests on the assumption that the downlink channel equals the uplink channel. The propagation is reciprocal; the radios are not. Each antenna's transmit chain and receive chain have their own gain and phase, which drift with temperature, so the channel the base station measures in the uplink differs from the one it beamforms through by a per-antenna complex factor. Base stations measure those factors with internal coupling networks or by sounding between their own antennas, and correct them every few minutes. The penalty for not doing so is easy to estimate: random phase errors with standard deviation σ radians shrink the coherent array gain by about e^(−σ²).
+EQ: gain loss ≈ e^(−σ²)    (σ in radians, Gaussian phase errors)
+H2: Worked Example 18.6
+WEP: Find the loss in array gain for random per-antenna phase errors of 10° and of 30° RMS.
+WES: 10° is 0.175 rad, so e^(−0.0305) = 0.970, a loss of 0.13 dB, negligible. 30° is 0.524 rad, e^(−0.274) = 0.76, a loss of 1.2 dB. The array still forms a beam, but the nulls that zero-forcing places on other users fill in, and the interference between users rises much more than the gain falls, which is why calibration matters most for multi-user operation.
+P: Massive MIMO turns interference inside a cell into a solvable matrix problem. Interference between cells is the subject of Chapter 19.
+H2: Practice
+PR: Find the array gain of 256 elements.
+PR: With 32 antennas and 4 users, estimate the zero-forcing gain per user in decibels.
+PR: A coherence block has 500 symbols. What fraction do 16 pilots use?
+PR: By what factor does the variance of the normalized channel gain fall when M grows from 4 to 64?
+PR: Why is TDD preferred for massive MIMO?
+PR: Why does hybrid beamforming use fewer digital chains than antennas?
+PR: Find the zero-forcing array gain for M = 32 and K = 12, in dB.
+PR: Why does regularized zero-forcing outperform pure zero-forcing at low SNR?
+PR: How many synchronization bursts does a handset with 16 beams need for an exhaustive search?
+PR: What RMS phase error costs 0.5 dB of array gain?
+ANS: 24.1 dB.
+ANS: 32 − 4 + 1 = 29, so 14.6 dB.
+ANS: 3.2%.
+ANS: 16.
+ANS: Channel reciprocity lets the base station learn all antennas' channels from uplink pilots, with overhead proportional to the number of users rather than antennas.
+ANS: Each digital chain needs its own converters and mixers, whose power and cost at millimeter wave are too high to give one to every element.
+ANS: 32 − 12 + 1 = 21, 13.2 dB.
+ANS: At low SNR noise dominates interference, and spending array gain on nulling interference wastes signal power; the regularization term relaxes the nulling and moves the precoder toward maximum-ratio transmission.
+ANS: 16 bursts, 320 ms at a 20 ms period.
+ANS: e^(−σ²) = 10^(−0.05) = 0.891, so σ² = 0.115, σ = 0.34 rad = 19°.

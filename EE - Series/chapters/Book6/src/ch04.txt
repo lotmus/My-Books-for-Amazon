@@ -1,0 +1,63 @@
+H1: Chapter 4. The Boost, the Buck-Boost, and the Control Loop
+P: The buck can only step down. Rearranging its switch, inductor, and diode gives the boost, which steps up, and the buck-boost, which can do either. They power LED strings from batteries, the 400 V DC link of a power-factor corrector, and every phone that keeps its supply constant as its battery discharges. This chapter derives their voltage ratios, shows the feature that makes the boost harder to control, the right-half-plane zero, and outlines how a converter's feedback loop is designed and how fast it can respond to a load step.
+H2: 4.1 The boost converter
+P: In a boost, the inductor is connected from the input to a switch to ground. When the switch is on, the inductor charges from the input; when it is off, the inductor's current flows through a diode or synchronous switch to the output, adding the inductor's voltage to the input. Volt-second balance over a cycle gives the ratio below. The input current is continuous, which suits batteries and power-factor correction, while the output current comes in pulses, so the output capacitor carries a large ripple current. The current through the switch and inductor is the output current divided by 1 − D, which grows quickly as the ratio rises.
+EQ: Vout = Vin / (1 − D),    IL = Iout / (1 − D)
+H2: Worked Example 4.1
+WEP: A boost converts a 3.7 V lithium cell to 5 V at 2 A, switching at 1 MHz with a 1 µH inductor and 92% efficiency. Find the duty cycle, the average inductor current, the inductor ripple, and the battery current.
+WES: D = 1 − 3.7/5 = 0.26. The average inductor current, which equals the input current in an ideal boost, is 2/(1 − 0.26) = 2.70 A. The ripple is VinD/(fswL) = 3.7 × 0.26/(10⁶ × 10⁻⁶) = 0.96 A. Including losses, the battery supplies 5 × 2/(3.7 × 0.92) = 2.94 A. A boost with a ratio of 4 or more draws large currents and suffers high conduction losses, and transformer-based converters, Chapter 5, become better choices.
+H2: 4.2 The buck-boost family
+P: The inverting buck-boost places the inductor to ground between the switch and diode, and produces Vout = −DVin/(1 − D), which is larger or smaller than the input in magnitude depending on D. The four-switch non-inverting buck-boost uses a buck stage followed by a boost stage sharing one inductor, and operates as a buck, a boost, or a mixture as the input passes through the output voltage. It is the standard choice for a 3.3 V rail from a single lithium cell, whose voltage falls from about 4.2 V to 3.0 V during discharge. The SEPIC and Ćuk converters achieve the same with coupled or additional inductors and a coupling capacitor.
+EQ: Vout = −Vin D / (1 − D)   (inverting buck-boost)
+H2: 4.3 Closing the loop
+P: A converter's output must stay constant as its input and load change, so it is controlled by feedback. In voltage-mode control, an error amplifier compares the output with a reference and sets the duty cycle directly; the power stage then behaves as a second-order LC filter with a sharp resonance, and needs a type III compensator to give enough phase margin. In peak current-mode control, an inner loop switches off each cycle when the inductor current reaches a level set by the outer voltage loop. The inner loop turns the inductor into a controlled current source, removing one pole and simplifying compensation, and it limits current on every cycle. Its inner loop can oscillate at half the switching frequency when D exceeds 0.5, unless a compensating ramp is added. The usual practice puts the crossover frequency of the voltage loop at a tenth to a fifth of the switching frequency.
+H2: 4.4 The right-half-plane zero
+P: A boost has a feature the buck lacks. When the duty cycle increases to raise the output, the switch stays on longer, so less current reaches the output during that cycle and the output first dips before rising. That behavior is a right-half-plane zero in the control-to-output transfer function, at a frequency that moves with load and duty cycle. It adds phase lag like a pole while raising the gain like a zero, and no compensator can cancel it. The loop crossover must be kept well below it, typically at a fifth or less, which limits how fast a boost can respond.
+EQ: fRHPZ = (1 − D)² R / (2π L)
+H2: Worked Example 4.2
+WEP: Find the right-half-plane zero of the boost of Example 4.1, whose load is 5 V/2 A = 2.5 Ω. What is the highest practical crossover frequency?
+WES: fRHPZ = 0.74² × 2.5/(2π × 10⁻⁶) = 218 kHz. With crossover kept below a fifth of that, about 44 kHz, the boost responds much more slowly than a buck switching at the same 1 MHz could, whose crossover might be 100 to 200 kHz.
+KEY: Key idea. A converter's response speed is set by its loop crossover, and its output capacitance must hold the voltage until the loop catches up. The boost's right-half-plane zero sets a ceiling on that crossover that no compensator can raise.
+H2: 4.5 How large a load step can the output survive?
+P: When the load current steps by ΔI, the output capacitor supplies the difference until the loop responds, about a quarter-period of the crossover frequency later. A useful estimate of the output deviation for a well-damped loop is ΔV ≈ ΔI/(2πfcC).
+H2: Worked Example 4.3
+WEP: A processor regulator must hold its output within 40 mV during a 50 A load step. Its loop crossover is 100 kHz. Find the output capacitance needed.
+WES: C ≈ ΔI/(2πfcΔV) = 50/(2π × 10⁵ × 0.04) = 1990 µF, about 2 mF. Raising the crossover to 200 kHz would halve the capacitance. That is why processor regulators use many interleaved phases with high crossover frequencies, and why a modern board is covered with hundreds of small ceramic capacitors beside the processor socket.
+H2: 4.6 The boost's real gain
+P: The ideal boost gain, 1/(1 − D), grows without limit as D approaches 1. Real boosts stop far short of that, because the inductor's resistance RL carries the input current, which is the output current divided by (1 − D). As D rises, the input current and its loss grow so quickly that the output voltage reaches a maximum and then falls. Including only RL, the gain is the ideal gain divided by 1 + RL/(R(1 − D)²), where R is the load resistance, and the peak gain is about 1/(2√(RL/R)). In practice boosts are designed for gains up to about 5 or 6; beyond that a coupled-inductor boost, a transformer, or two stages do better.
+EQ: M = [1/(1 − D)] × 1/[1 + RL/(R(1 − D)²)]
+H2: 4.7 Peak current-mode control and slope compensation
+P: Most modern converters control the peak inductor current every cycle rather than the duty cycle directly. The error amplifier sets a current threshold; the switch turns on with the clock and off when the sensed current reaches the threshold. The inductor drops out of the outer loop at low frequencies, which reduces the power stage to a single pole and makes compensation easy, and the controller gets cycle-by-cycle current limiting for free. The price is an instability: above D = 0.5, a small disturbance in the inductor current grows from one cycle to the next, and the current alternates between large and small pulses at half the switching frequency, subharmonic oscillation. Adding an artificial ramp to the sensed current cures it. The classic rule makes the compensating ramp's slope at least half the inductor current's down-slope, which keeps the loop stable at any duty cycle.
+EQ: Se ≥ Sf / 2,   Sf = down-slope of the inductor current
+H2: Worked Example 4.4
+WEP: A boost steps 5 V to a nominal 24 V at 1 A, so D = 0.792 ideally. Its inductor has RL = 50 mΩ. Find the actual output voltage at that duty cycle, and the maximum gain the converter can reach.
+WES: R = 24 Ω and (1 − D)² = 0.0434, so RL/(R(1 − D)²) = 0.05/(24 × 0.0434) = 0.048 and the output is 24/1.048 = 22.9 V. The loop must raise D to recover the missing 1.1 V. The maximum gain is 1/(2√(0.05/24)) = 11, so 55 V is the absolute ceiling from 5 V at this load, and the efficiency there would be only 50 %.
+H2: Worked Example 4.5
+WEP: A current-mode boost from 12 V to 24 V uses a 10 µH inductor. Find the inductor's down-slope and the minimum compensating ramp, in amperes per microsecond.
+WES: During the off-time the inductor sees Vout − Vin = 12 V, so Sf = 12/10 µH = 1.2 A/µs. The compensating ramp must be at least 0.6 A/µs, referred to the sensed current. Too large a ramp turns the converter back into voltage-mode control, so designers stay near 0.5 to 1 times Sf.
+H2: 4.8 The SEPIC
+P: A battery whose voltage sweeps above and below the output, a 12 V lead-acid battery that ranges from 9 V when cranking an engine to 16 V when charging, needs a converter that can step both up and down without inverting the output. The single-ended primary-inductor converter, SEPIC, does it with two inductors, often coupled on one core, and a series coupling capacitor that also blocks DC from input to output. Its gain is D/(1 − D), the same as the buck-boost's, but positive. The coupling capacitor carries the full input current in one direction and the output current in the other, so its RMS current rating, not its capacitance, chooses it; multilayer ceramics are the usual answer. The four-switch buck-boost, which runs as a buck or a boost as needed, has largely displaced the SEPIC above about 50 W because it is more efficient.
+EQ: Vout / Vin = D / (1 − D)
+H2: Worked Example 4.6
+WEP: A SEPIC holds 12 V from an automotive input of 9 to 16 V. Find its duty-cycle range.
+WES: D = Vout/(Vin + Vout): at 9 V, 12/21 = 0.571; at 16 V, 12/28 = 0.429. The range is comfortably inside 0.3 to 0.7, where the converter's losses are moderate.
+P: The boost, the buck-boost, and the control loop complete the non-isolated converters. When the input is the mains, or safety requires a barrier, the converter needs a transformer, and Chapter 5 adds one.
+H2: Practice
+PR: Find the duty cycle of a boost from 12 V to 48 V.
+PR: An inverting buck-boost runs from 12 V at D = 0.4. Find its output.
+PR: Find the right-half-plane zero of a 12 V to 24 V boost with a 12 Ω load and a 10 µH inductor.
+PR: A boost delivers 1 A at 48 V from 12 V. Ideally, what is its inductor current?
+PR: A converter with 1 mF of output capacitance and a 50 kHz crossover takes a 20 A step. Estimate the output deviation.
+PR: Why does peak current-mode control need a compensating ramp above D = 0.5?
+PR: A boost with RL = 0.1 Ω drives a 50 Ω load. Find its approximate maximum gain.
+PR: A current-mode buck converts 12 V to 1 V with a 0.47 µH inductor. Does it need slope compensation, and what is its down-slope?
+PR: Find the SEPIC duty cycle for 5 V out from 3 V in.
+ANS: D = 1 − 12/48 = 0.75.
+ANS: −12 × 0.4/0.6 = −8.0 V.
+ANS: D = 0.5, so fRHPZ = 0.25 × 12/(2π × 10⁻⁵) = 47.7 kHz.
+ANS: 1/(1 − 0.75) = 4 A.
+ANS: 20/(2π × 5 × 10⁴ × 10⁻³) = 64 mV.
+ANS: Above D = 0.5 a disturbance in the inductor current grows from cycle to cycle, producing subharmonic oscillation at half the switching frequency; the ramp adds slope to the current comparison and damps the disturbance.
+ANS: 1/(2√(0.1/50)) = 11.2.
+ANS: D = 0.083 is far below 0.5, so subharmonic oscillation does not arise at steady state, though most controllers add a ramp anyway for noise immunity; Sf = 1 V/0.47 µH = 2.1 A/µs.
+ANS: 5/8 = 0.625.

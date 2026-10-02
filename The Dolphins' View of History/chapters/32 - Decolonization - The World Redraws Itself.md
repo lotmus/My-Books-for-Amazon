@@ -1,0 +1,25 @@
+## Chapter 32: Decolonization — The World Redraws Itself
+
+Formal empire, built up over the centuries this book has already covered, mostly ended within a single human lifetime. The process ran fastest between the 1940s and the 1970s, and dolphin historians treat its speed as almost as remarkable as the speed of the empires it dismantled.
+
+India's road to independence began, like several roads in this book, with a trading company. The Mughal Empire that had dominated the subcontinent since 1526 (builders of the Taj Mahal and, by some estimates, at its height responsible for roughly a quarter of the world's economic output) was showing signs of fraying when the East India Company, chartered in London in 1600 to sell spices and cloth, began acquiring territory instead. After the Battle of Plassey in 1757, the Company governed large parts of India with an army that by the early 1800s was, by one common estimate, close to twice the size of Britain's own, an arrangement dolphin historians summarize as a business with a country attached. Company rule ended after the uprising of 1857, and direct rule by the British Crown, the Raj, followed until 1947.
+
+The ledger is not seriously in dispute. Railways, an administrative language, and a unified legal system were left behind. So, by common estimates, was an economy whose share of world output had shrunk from about a quarter to under five percent, along with a run of famines, the worst of them in Bengal in 1943, which killed an estimated two to three million people as wartime priorities and policy failures compounded the shortages.
+
+Gandhi's campaign of nonviolent resistance had its most famous episode about salt. In 1930 the British-run government taxed salt, a commodity that lies free on any coast, and forbade Indians to make their own. In March, Gandhi set out to walk some 240 miles from his ashram to the sea at Dandi, gathering thousands of followers on the way, and on April 6 he picked up a lump of natural salt from the beach, which was against the law. Some sixty thousand people were arrested in the campaign that followed. Dolphin historians, who have been in the sea the whole time and have never paid for salt, would like to say only that it is a curious empire that can be shaken by something the ocean gives away for free, having taken the subcontinent's diamonds, cotton, and tea without asking in the first place.
+
+India's independence in 1947, achieved substantially through that campaign of organized nonviolent resistance led by Mohandas Gandhi, offered one model: mass noncooperation aimed at making continued colonial rule too costly to sustain politically rather than militarily. Independence arrived alongside Partition, dividing British India into India and Pakistan along religious lines, and the mass displacement and violence that followed killed an estimated one to two million people and displaced tens of millions more within months.
+
+Independent India kept its democracy through nearly everything that followed (the exception was a two-year suspension of civil liberties, the Emergency, in 1975-77), and in 2023 passed China as the world's most populous country by United Nations estimate, a piece of arithmetic the mathematicians of the Gupta period would presumably have found unsurprising.
+
+Africa's wave crested around 1960, when seventeen countries gained independence in a single year, most from France and Britain, some, like Algeria's from France, only after prolonged armed conflict instead of negotiation.
+
+Britain in particular spent the middle of this century handing back, with varying degrees of grace, an empire it had spent the previous two centuries quite energetically acquiring, a piece of institutional reversal dolphin historians clock as one of the tidier examples in the whole book of a country changing its mind on a schedule measured in decades, not centuries.
+
+Independence did not erase the maps colonial powers had drawn with no reference to the ethnic, linguistic, or religious boundaries that existed on the ground. Many of the era's subsequent conflicts, dolphin historians note, trace directly back to borders drawn decades or centuries earlier by administrators who had never intended those borders to become permanent national boundaries at all.
+
+Newly independent states faced a further complication the Cold War's two superpowers made unavoidable: alignment. The Non-Aligned Movement, formally organized at a 1961 conference in Belgrade, tried to offer a third path for countries unwilling to be absorbed into either superpower's camp, with mixed and country-specific success.
+
+**Dolphin verdict:**
+
+*Formal empire ended, for the most part, within one human lifetime, a pace with no earlier precedent in this book. But the economic dependencies, the drawn borders, and the political structures colonialism left behind did not end on the same schedule, and in a number of cases have not ended yet. Independence turned out to be a start, not a conclusion — a pattern this book has now seen often enough that dolphin historians no longer find it surprising, only worth repeating.*

@@ -1,0 +1,60 @@
+H1: Chapter 6. Magnetics: Four Shelves
+P: Almost every converter in this book depends on a magnetic component, and the magnetics usually decide its size, its loss, and its cost. They are also the least standardized part of the design: an inductor or transformer is often custom, and its designer must choose a core material, a shape, a winding, and a gap. It helps to sort magnetic components into four families, which this book calls shelves, because each uses different materials, rules, and references. Shelf A is line-frequency iron. Shelf B is switch-mode ferrite and powder. Shelf C is the pulse transformer of high-voltage and pulsed power, Chapter 8's subject. Shelf D is the RF transformer and balun, whose transmission-line behavior links to Book 4. A standard SMD inductor bought from a catalog is a circuit component, Book 2's subject; this chapter is about magnetics that are designed.
+H2: 6.1 Skin depth
+P: At high frequencies, current crowds toward the surface of a conductor, flowing mainly within a skin depth δ of it. For copper at room temperature, δ ≈ 66/√f millimeters, with f in hertz. At 60 Hz it is 8.5 mm, so a mains transformer can use thick wire or bars. At 100 kHz it is 0.21 mm, so a wire thicker than about 0.4 mm carries current only in its outer shell, and its AC resistance rises above its DC value. Adjacent conductors in a winding make it worse, through the proximity effect, in which each layer's field induces currents in the others. Switch-mode windings therefore use Litz wire, made of many fine insulated strands, thin foil, or planar windings in a circuit board.
+EQ: δ ≈ 66 / √f  mm   (copper, f in Hz)
+H2: Worked Example 6.1
+WEP: Find the skin depth in copper at 60 Hz, 100 kHz, and 1 MHz. What strand diameter would a Litz wire use at 100 kHz?
+WES: 66/√60 = 8.5 mm, 66/√10⁵ = 0.21 mm, and 66/√10⁶ = 0.066 mm, or 66 µm. A Litz strand should be no thicker than about one or two skin depths, so 0.1 to 0.2 mm at 100 kHz; strands of 0.1 mm, about AWG 38, are a common choice there.
+H2: 6.2 Shelf A: line-frequency iron
+P: A transformer on the 50 or 60 Hz mains uses laminated silicon steel, which saturates at about 1.5 to 1.8 T, far higher than ferrite, but has high losses at high frequencies. For a sine-wave voltage, Faraday's law gives the number of turns needed to keep the peak flux density below a chosen limit. The low frequency forces a large core: at 50 Hz, a given transformer needs 20% more turns, or core area, than at 60 Hz for the same voltage. Line-frequency transformers survive in utility distribution, welding, and where robustness matters more than weight. Colonel Wm. T. McLyman's Transformer and Inductor Design Handbook is the standard reference for sizing.
+EQ: Vrms = 4.44 f N Bpk Ae   (sine);   V = 4 f N Bpk Ae   (square wave)
+H2: Worked Example 6.2
+WEP: A 230 V, 50 Hz transformer uses a core of 10 cm² cross-section at a peak flux density of 1.5 T. Find the primary turns. How many are needed for the same voltage at 60 Hz?
+WES: N = 230/(4.44 × 50 × 1.5 × 10⁻³) = 691 turns. At 60 Hz, N = 230/(4.44 × 60 × 1.5 × 10⁻³) = 576 turns. A 115 V, 60 Hz primary on the same core would need only 288 turns.
+H2: 6.3 Shelf B: switch-mode ferrite and powder
+P: Ferrites have low losses from tens of kilohertz to a few megahertz but saturate at only about 0.3 to 0.5 T, and their saturation falls as they heat. A switch-mode transformer is therefore usually limited by core loss rather than saturation: the flux swing is chosen to keep loss acceptable, often near 0.1 T at 100 kHz. Core loss is described by the Steinmetz relation P = k f^α B^β, with β typically 2.5 to 3, so doubling the flux swing multiplies the loss by roughly six. An inductor or flyback transformer must store energy, and that energy is stored almost entirely in an air gap, because ferrite's high permeability stores very little. Powder cores of iron, iron-silicon, or other alloys have a distributed gap built in and saturate softly, which suits inductors with large DC currents.
+EQ: N = L Ipk / (Bmax Ae),    lg ≈ μ0 N² Ae / L,    E = ½ L I²
+H2: Worked Example 6.3
+WEP: Design a 10 µH inductor for a 12 A peak current on a ferrite core with Ae = 50 mm², at a peak flux density of 0.3 T. Find the turns, the gap, and the stored energy. Find the turns for a 48 V, 100 kHz square-wave transformer winding on the same core at 0.1 T.
+WES: N = 10⁻⁵ × 12/(0.3 × 50 × 10⁻⁶) = 8 turns. The gap is lg = 4π × 10⁻⁷ × 64 × 50 × 10⁻⁶/10⁻⁵ = 0.40 mm, ignoring fringing, which in practice requires a slightly larger gap. The stored energy is ½ × 10⁻⁵ × 144 = 720 µJ. For the transformer, N = 48/(4 × 10⁵ × 0.1 × 50 × 10⁻⁶) = 24 turns.
+KEY: Key idea. Name the shelf before you name the core. Line iron, switch-mode ferrite, pulse transformers, and RF baluns each have their own materials, limits, and design rules, and an inductor's energy lives in its gap.
+H2: 6.4 Shelves C and D
+P: A pulse transformer, shelf C, must pass a fast rectangular pulse with little rise time, overshoot, or droop. Its rise time is set by leakage inductance and winding capacitance, and its droop by magnetizing inductance, as Chapter 8 calculates for a radar modulator. Its insulation must withstand tens of kilovolts. An RF transformer or balun, shelf D, works at megahertz to gigahertz frequencies and often uses its windings as transmission lines, so that the bandwidth is set by line lengths rather than core permeability; Jerry Sevick's books describe these transmission-line transformers. Marian Kazimierczuk's High-Frequency Magnetic Components explains how the behavior of all four shelves changes with frequency.
+H2: 6.5 Sizing a core by its area product
+P: An inductor must store its energy without saturating the core and carry its current without overheating the winding. The two requirements meet in the area product, the core's cross-section Ae times its window area Aw. Faraday's law limits the flux density, LIpk = N Bmax Ae; the window must hold N turns of wire carrying Irms at a current density J, with a fill factor Ku of about 0.3 to 0.5 for round wire. Eliminating N gives the area product the core must at least provide, and a core table, listing Ap for each size, gives the smallest core that works. J of 4 to 6 A/mm² suits natural convection; Bmax is about 0.25 to 0.3 T for ferrite at low frequency, less when core loss dominates, and up to 1 T or more for powder cores at moderate ripple.
+EQ: Ap = Ae Aw ≥ L Ipk Irms / (Bmax J Ku)
+H2: 6.6 Core loss and the Steinmetz equation
+P: Core loss per unit volume follows the empirical Steinmetz equation, Pv = k f^α B^β, with α between 1 and 2 and β between 2 and 3 for ferrites, all depending on temperature. The exponent on B is what designers feel most: doubling the flux swing multiplies the loss by six or so, while doubling the frequency multiplies it by two to three. Ferrite manufacturers tune their materials to have the loss minimum near the expected operating temperature, typically 80 to 100 °C, so a core that runs cool can actually lose more than one that runs warm. For non-sinusoidal waveforms the improved generalized Steinmetz equation, iGSE, is used, because a triangular flux with a short rise and long fall loses more than a sine of the same peak.
+EQ: Pv = k f^α B^β
+H2: Worked Example 6.4
+WEP: Find the area product for a 10 µH inductor with Ipk = 12 A and Irms = 10 A, using Bmax = 0.3 T, J = 5 A/mm², and Ku = 0.4.
+WES: Ap = 10 × 10⁻⁶ × 12 × 10/(0.3 × 5 × 10⁶ × 0.4) = 2.0 × 10⁻⁹ m⁴, or 0.20 cm⁴. A core with Ae of about 0.5 cm² and a window of 0.4 cm² or more meets it. The turns follow from N = LIpk/(BmaxAe) = 1.2 × 10⁻⁴/(0.3 × 0.5 × 10⁻⁴) = 8 turns, and the gap is then set to give 10 µH with 8 turns.
+H2: Worked Example 6.5
+WEP: A ferrite transformer loses 1.0 W in its core at 100 kHz and 100 mT peak. With β = 2.6 and α = 1.4, estimate the loss if the designer doubles the frequency and halves the turns, which doubles the flux swing, or doubles the frequency and keeps the turns, which halves the flux.
+WES: Doubling f and B multiplies the loss by 2^1.4 × 2^2.6 = 2.64 × 6.06 = 16, to 16 W. Doubling f and halving B multiplies it by 2^1.4 × 2^(−2.6) = 2.64 × 0.165 = 0.44, to 0.44 W. Raising the frequency only helps if the flux swing falls with it.
+H2: 6.7 Proximity effect and Litz wire
+P: Skin depth, Section 6.1, describes one conductor alone. In a winding, each turn sits in the magnetic field of its neighbors, which induces eddy currents that crowd the current to one side of the wire. This proximity effect grows rapidly with the number of layers: in a multilayer winding, the AC resistance of the outer layers can be ten or more times their DC resistance even when the wire is only a little thicker than the skin depth. Dowell's analysis quantifies it as a function of the ratio of conductor thickness to skin depth and the number of layers. The cures are to use fewer layers, to interleave primary and secondary so that the field between them falls, to use foil or planar windings for low-voltage high-current windings, and to use Litz wire, many individually insulated strands twisted so that each strand spends equal time at every position in the bundle, with strand diameters well below the skin depth.
+H2: Worked Example 6.6
+WEP: A transformer runs at 100 kHz. Find the skin depth in copper, and choose a Litz strand size.
+WES: δ = 66/√(100 × 10³) mm = 0.21 mm. Strands should be well under δ, commonly a third to a half of it at the operating frequency, so 0.1 mm strands, AWG 38, are a common choice; at 500 kHz, δ = 0.093 mm, and 0.05 mm strands, AWG 44, are needed, which raise the cost and lower the copper fill.
+P: The magnetics, with the switches and capacitors, are the parts of a converter. Chapter 7 connects the whole converter to the AC grid, where the shape of the current it draws becomes the grid's problem.
+H2: Practice
+PR: Find the copper skin depth at 500 kHz and at 10 MHz.
+PR: A transformer runs at 120 V and 60 Hz on a 12 cm² core at 1.4 T. Find its primary turns.
+PR: Design a 4.7 µH inductor for 20 A peak on a core with Ae = 80 mm² at 0.3 T. Find the turns, rounded up, and the gap.
+PR: By what factor does core loss rise when the flux swing doubles, if β = 2.6?
+PR: Find the energy stored in a 100 µH inductor at 3 A.
+PR: Why is an inductor's energy stored mainly in its air gap?
+PR: How does core loss change if the flux swing rises by 25 % with β = 2.7?
+PR: Find the number of turns for a 22 µH inductor at 5 A peak on a core with Ae = 0.4 cm² and Bmax = 0.25 T.
+PR: Find the skin depth in copper at 1 MHz.
+ANS: 0.093 mm and 20.9 µm.
+ANS: 120/(4.44 × 60 × 1.4 × 1.2 × 10⁻³) = 268 turns.
+ANS: N = 4.7 × 10⁻⁶ × 20/(0.3 × 80 × 10⁻⁶) = 3.92, so 4 turns; lg = 4π × 10⁻⁷ × 16 × 80 × 10⁻⁶/4.7 × 10⁻⁶ = 0.34 mm.
+ANS: 2^2.6 = 6.1.
+ANS: ½ × 10⁻⁴ × 9 = 450 µJ.
+ANS: Energy density is B²/(2μ), and for the same flux density the gap's permeability is thousands of times lower than the ferrite's, so its energy density is thousands of times higher.
+ANS: 1.25^2.7 = 1.83, an 83 % increase.
+ANS: N = 22 × 10⁻⁶ × 5/(0.25 × 0.4 × 10⁻⁴) = 11 turns.
+ANS: 66/1000 = 0.066 mm.

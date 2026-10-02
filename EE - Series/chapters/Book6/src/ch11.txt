@@ -1,0 +1,57 @@
+H1: Chapter 11. Light Load and Discontinuous Conduction
+P: A converter designed for full load spends much of its life far below it: a phone charger waiting with no phone, a server idling at night, a laptop's regulator during sleep. At light load the fixed losses of Chapter 9, which do not shrink with the current, dominate, and the efficiency collapses. The inductor current also changes character, falling to zero during part of each cycle. This chapter covers that discontinuous mode, its effect on the converter's gain, and the techniques that keep light-load efficiency high.
+H2: 11.1 The boundary of continuous conduction
+P: In a synchronous buck the inductor current ripples by ΔI = (Vin − Vout)D/(L fs) around the load current. When the load falls below ΔI/2, the current's valley reaches zero. A synchronous converter can let the current go negative, staying in forced continuous conduction at the cost of circulating energy; a diode, or a synchronous switch that is turned off at zero current, instead stops the current at zero, and the converter enters discontinuous conduction mode, DCM.
+EQ: ΔI = (Vin − Vout) D / (L fs),   boundary: Iload = ΔI/2
+H2: Worked Example 11.1
+WEP: The 12 V to 1 V buck of Chapter 9 uses a 0.47 µH inductor at 500 kHz. Find the ripple and the load at which it enters DCM.
+WES: ΔI = 11 × (1/12) / (0.47 × 10⁻⁶ × 5 × 10⁵) = 3.90 A. The boundary is at half that, 1.95 A, about a tenth of full load.
+H2: 11.2 The converter's gain in DCM
+P: In discontinuous mode the output voltage no longer equals D times the input; it depends on the load as well. For the buck, with K = 2L/(R Ts), the conversion ratio becomes M = 2/(1 + √(1 + 4K/D²)), which rises above D as the load lightens. The feedback loop corrects this automatically by reducing the duty cycle, but the plant's dynamics change too: the double pole of continuous mode disappears and the converter behaves like a single-pole system with lower gain. A compensator designed for continuous mode usually remains stable in DCM, but its response is slower.
+EQ: buck in DCM: M = 2 / (1 + √(1 + 4K/D²)),   K = 2L/(R Ts)
+H2: Worked Example 11.2
+WEP: At a 0.5 A load, R = 2 Ω. Find K, the ratio the converter would produce at the continuous-mode duty cycle of 1/12, and the duty cycle actually needed for 1 V.
+WES: K = 2 × 0.47 µH / (2 Ω × 2 µs) = 0.235. At D = 1/12, M = 2/(1 + √(1 + 4 × 0.235 × 144)) = 0.158, nearly twice the wanted 1/12. Setting M = 1/12 requires √(1 + 4K/D²) = 23, so D = √(4 × 0.235/528) = 0.042, half the continuous-mode value.
+KEY: Key idea. At light load the fixed, per-cycle losses dominate and the converter enters discontinuous conduction, where its gain depends on the load. Keeping efficiency up means switching less often, not just switching faster.
+H2: 11.3 Why light-load efficiency collapses
+P: Gate charge, output-capacitance loss, controller quiescent current, and part of the switching loss are energies spent every cycle regardless of the load. At full load they are a small fraction of the output; at a hundredth of full load they can exceed it. The cure is to reduce the number of cycles. Pulse-skipping and burst modes switch only when the output falls below a threshold, delivering a few pulses and then idling; pulse-frequency modulation lowers the switching frequency in proportion to the load. Both trade a larger, lower-frequency ripple, and an audible tone if the bursts fall in the acoustic band, for efficiency.
+H2: Worked Example 11.3
+WEP: At 0.2 A the buck of Chapter 9 still has its 0.10 W of gate loss, 0.036 W of Coss loss, 0.012 W of switching overlap, and the controller draws 10 mW. Find the efficiency at the full 500 kHz, and in a burst mode with an average switching rate of 50 kHz.
+WES: Output power is 0.2 W. At 500 kHz the losses are 0.10 + 0.036 + 0.012 + 0.010 = 0.158 W, plus negligible conduction loss, so η = 0.2/0.358 = 55.9%. In burst mode the frequency-dependent losses fall tenfold to 0.0148 W, the total is 0.0249 W, and η = 0.2/0.2249 = 88.9%.
+H2: 11.4 Standby and no-load regulations
+P: Light-load efficiency is not only a battery-life issue. Regulations in the United States, the European Union, and elsewhere limit the no-load power of external power supplies and set minimum average efficiencies across several load points, and data-center standards such as 80 PLUS grade server supplies at 10%, 20%, 50%, and 100% load. These rules drive the use of burst modes, of controllers with microamp quiescent currents, and of phase shedding in multiphase regulators, where phases are turned off as the load falls so that the remaining ones run near their efficient current.
+H2: 11.5 Valley switching in the quasi-resonant flyback
+P: When a flyback's secondary current reaches zero in discontinuous conduction, the primary inductance rings with the switch's output capacitance, and the drain voltage swings down from Vin + VR toward Vin − VR. A quasi-resonant controller detects the bottom of that swing and turns the switch on there, in the valley, instead of at a fixed clock edge. The capacitive switching loss, ½CossV²fsw, then uses the valley voltage instead of the full voltage. If VR exceeds the input voltage, the valley reaches zero and the turn-on is lossless. The switching frequency varies with load and line, rising as the load falls, so controllers skip to the second, third, or later valley at light load to keep it within bounds.
+H2: 11.6 Burst mode
+P: At very light load, even a valley-switched converter is inefficient, because its fixed losses do not shrink. Burst mode runs the converter at an efficient operating point for a short burst, then turns it off entirely, controller in a micro-power state, while the output capacitor supplies the load. The output ripple rises a little, the average switching frequency falls into the audible range if the designer is careless, and the efficiency at 1 % of rated load can rise from 30 % to 70 % or more. Every phone charger and laptop adapter uses some form of it to meet the no-load limits of Section 11.4.
+H2: Worked Example 11.4
+WEP: A flyback's switch has an effective Coss of 150 pF. At 373 V input with VR = 100 V and 100 kHz, find the capacitive turn-on loss with hard switching at the full drain voltage and with valley switching.
+WES: Hard switching at 473 V gives ½ × 150 × 10⁻¹² × 473² × 10⁵ = 1.68 W. In the valley, 373 − 100 = 273 V, it falls to 0.56 W, a saving of 1.1 W, about 2 % of a 65 W charger's output. At low line, where Vin is near VR, the valley approaches zero and the loss nearly disappears.
+H2: Worked Example 11.5
+WEP: A 65 W adapter must supply 0.5 W. In burst mode it runs at 13 W, where it is 90 % efficient, and its controller draws 20 mW between bursts. Find the burst duty cycle and the input power.
+WES: The bursts must deliver 0.5 W on average, so the converter runs 0.5/13 = 3.8 % of the time. The power delivered costs 0.5/0.9 = 0.556 W, and the controller adds 0.02 W, so the input is 0.576 W and the efficiency 87 %. Running continuously at 0.5 W, with fixed losses of perhaps 0.4 W, the efficiency would be about 55 %.
+H2: 11.7 Pulse-frequency modulation in small bucks
+P: Battery-powered bucks, in phones, wearables, and sensors, face the light-load problem at microamperes. Their answer is pulse-frequency modulation: each time the output falls below a threshold, the converter delivers one packet of energy, ramping the inductor current up to a fixed peak and back to zero, and then sleeps until the next one is needed. The charge per packet is fixed, so the pulse rate is proportional to the load current. Quiescent currents of 50 to 500 nA in parts such as the TI TPS62840 keep the efficiency above 80 % at 10 µA loads. The cost is ripple and a pulse rate that falls into the audible band at light loads, where a ceramic output capacitor, which is piezoelectric, can sing, which is why some parts clamp the minimum frequency above 20 kHz.
+H2: Worked Example 11.6
+WEP: A PFM buck converts 3.6 V to 1.8 V with a 1 µH inductor and a 300 mA peak current per pulse. Find the charge per pulse and the pulse rate at loads of 10 mA, 1 mA, and 0.1 mA.
+WES: The current ramps up in L Ipk/(Vin − Vout) = 10⁻⁶ × 0.3/1.8 = 167 ns and down in L Ipk/Vout = 167 ns, a triangle of 333 ns averaging 150 mA, so each pulse delivers 0.15 A × 333 ns = 50 nC. At 10 mA the rate is 10 mA/50 nC = 200 kHz; at 1 mA, 20 kHz; at 0.1 mA, 2 kHz, audible, which is the case for a minimum-frequency clamp or a smaller peak current at light load.
+P: Light-load behavior is where a converter's efficiency curve ends. Chapter 12 turns to the energy store that most portable converters feed: the battery.
+H2: Practice
+PR: A buck converts 5 V to 3.3 V at 1 MHz with a 1 µH inductor. Find the load at which it enters DCM.
+PR: For a buck with L = 1 µH, R = 10 Ω, fs = 1 MHz, and D = 0.3, find K and the DCM conversion ratio.
+PR: A converter's per-cycle losses are 0.3 W at 1 MHz. What are they at an average burst rate of 20 kHz?
+PR: Why does a multiphase regulator shed phases at light load?
+PR: What is the cost of burst-mode operation?
+PR: Why does the output voltage rise above D × Vin in DCM if the duty cycle is held fixed?
+PR: With Vin = 120 V and VR = 120 V, what is the valley voltage of a quasi-resonant flyback, and the capacitive turn-on loss?
+PR: Why do quasi-resonant controllers skip to later valleys at light load?
+PR: At what load does the converter of Worked Example 11.5 pulse at exactly 20 kHz?
+ANS: ΔI = 1.7 × 0.66/(10⁻⁶ × 10⁶) = 1.12 A, so DCM below 0.56 A.
+ANS: K = 0.2; M = 2/(1 + √(1 + 0.8/0.09)) = 0.483.
+ANS: 0.006 W.
+ANS: Each phase has fixed per-cycle losses; turning some off lets the remaining phases carry enough current to run efficiently.
+ANS: Larger, lower-frequency output ripple and possible audible noise.
+ANS: In DCM each cycle delivers a fixed energy packet set by the on-time, ½L(ipeak)², and nothing forces the output to D × Vin; the output rises until the light load consumes the packets, so the voltage depends on the load.
+ANS: 120 − 120 = 0 V, so the turn-on is essentially lossless.
+ANS: The switching frequency rises as the load falls; skipping valleys limits it, keeping switching losses and EMI within bounds.
+ANS: 20 kHz × 50 nC = 1 mA.

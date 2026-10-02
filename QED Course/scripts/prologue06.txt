@@ -1,0 +1,129 @@
+TITLE: Bras and Kets
+TAGLINE: A ket is a situation. A bra asks a question. The number they make together is Prologue 1's arrow
+NUM: 6
+NEXT: Prologue 7 says how a ket changes in time: the Schrödinger equation, which is the machine that rotates arrows.
+
+# How to use this prologue
+
+The symbols | ⟩ and ⟨ | look like a secret handshake. They are not. A ket is a name for a complete physical situation. A bra is a question you ask that situation. The answer is one of Prologue 1's arrows, i.e. a complex number. Lesson 10 puts this on Hilbert space with integrals. This prologue is the version for someone who has never seen the notation. Expect three to five hours.
+
+## Learning objectives
+
+- Read |ψ⟩ as "the situation called ψ" and ⟨φ| as "the question: how much of φ is in this?"
+
+- Compute P = |⟨φ|ψ⟩|² as the probability that situation ψ is found as φ.
+
+- Use ⟨ψ|ψ⟩=1 as the statement that some outcome happens.
+
+- Expand a ket in a basis, |ψ⟩=Σ c_n |n⟩, and read c_n as arrows.
+
+- Translate a sentence of ordinary English into a bra-ket sandwich.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| |ψ⟩ | A ket: the whole situation, Prologue 1's "what is going on" |
+| ⟨φ| | A bra: the question that picks out one possibility |
+| ⟨φ|ψ⟩ | The arrow (complex number) from ψ to φ |
+| ⟨ψ|ψ⟩=1 | The situation is normalized: probabilities will add to 1 |
+
+# 1 A ket is not a vector until Lesson 1 says so
+
+Write |electron here⟩, |photon going left⟩, |click in the detector⟩. The vertical bar and the angle bracket are just a frame around a name. You can call the name anything. Physicists use Greek letters because they run out of ordinary ones, not because the idea got harder.
+
+The whole of quantum mechanics is: situations combine like Prologue 1's arrows. So kets add, and they can be stretched by a complex number. That is Lesson 1's vector space, postponed until the name is not scary.
+
+# 2 A bra is the question
+
+⟨click| is the question "did the detector click?" asked of whatever ket you sandwich it onto.
+
+$$ ⟨ click | ψ ⟩
+
+is the arrow for "situation ψ produces a click." The probability is the square of that arrow's length, exactly Prologue 1.
+
+FIG:
+  |ψ⟩     a box labelled "the situation"
+  ⟨φ|     an arrow-shaped question pointed at the box
+  ⟨φ|ψ⟩   the number that comes out, an arrow in a plane
+  |⟨φ|ψ⟩|²  the only thing a detector reports
+ENDFIG
+
+### Worked example 1
+
+English: "If the photon left the source, how likely is a click in patch A?" Bra-ket: P=|⟨A|source⟩|². The ket |source⟩ is the situation after emission. The bra ⟨A| is the question "in patch A?" You do not add P(A)+P(B) when A and B are two undistinguished paths to the same click; you add ⟨A_path1|source⟩+⟨A_path2|source⟩, then square. That is Prologue 2 in this notation.
+
+# 3 Normalization
+
+⟨ψ|ψ⟩=1 means: if you ask "is it this situation?", and it is this situation, the arrow has length 1, P=1. If a ket is not normalized, divide by its length. Lesson 10 will write this as ∫|ψ(x)|² d³x=1. Same sentence, more furniture.
+
+# 4 A basis is a complete list of questions
+
+If the detector can only click in patch A or patch B, the two kets |A⟩ and |B⟩ are a basis. Any situation is
+
+$$ |ψ⟩ = ⟨A|ψ⟩ |A⟩ + ⟨B|ψ⟩ |B⟩
+
+The coefficients are the arrows. If you know all the arrows onto a complete list of exclusive outcomes, you know the ket.
+
+# 5 What this is not
+
+A ket is not a little particle. A bra is not a machine in the lab. ⟨φ|ψ⟩ is not "φ times ψ" in the sense of multiplying two waves on a blackboard until Lesson 10 says it is an integral. For this opening, sandwich = arrow.
+
+# Connections to QED
+
+@widths 3264 6528
+| Result of this prologue | Where it is used |
+| |ψ⟩, ⟨φ|, ⟨φ|ψ⟩ | Lesson 1 vectors; Lesson 10 Hilbert space |
+| P=\|⟨φ|ψ⟩|² | Born rule, Lesson 10 |
+| S-matrix ⟨f|S|i⟩ | Prologue 8; Lesson 51 |
+
+# Summary
+
+1. A ket names a situation.
+
+2. A bra asks a yes-amount question.
+
+3. The sandwich is Prologue 1's arrow.
+
+4. Its length squared is the probability.
+
+5. Lesson 10 is this, with integrals.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Translate "the atom is in the ground state" into a ket. |
+| 2 | Translate "probability the atom is found excited" into bra-ket. |
+| 3 | If ⟨φ|ψ⟩=i/2, what is P? |
+| 4 | Why is ⟨ψ|ψ⟩=1 required? |
+| 5 | Write |ψ⟩ in a two-outcome basis. |
+| 6 | Where will ⟨f|S|i⟩ appear? |
+| 7 | Is |ψ⟩ a list of clicks? |
+| 8 | Challenge: why ⟨φ|ψ⟩* = ⟨ψ|φ⟩, in Prologue 1's arrow language. |
+
+# Solutions
+
+**1.** |ground⟩, or |g⟩.
+
+**2.** |⟨excited|atom⟩|².
+
+**3.** |i/2|²=1/4.
+
+**4.** So that the probabilities of a complete list of exclusive outcomes add to 1.
+
+**5.** |ψ⟩=⟨A|ψ⟩|A⟩+⟨B|ψ⟩|B⟩.
+
+**6.** Prologue 8 and Lesson 51: in-state to out-state.
+
+**7.** No. It is the situation that produces clicks with certain arrows.
+
+**8.** Reversing "from ψ to φ" reverses the arrow's direction, which is complex conjugation.
+
+# Mastery checklist
+
+- I can read | ⟩ as a situation and ⟨ | as a question.
+
+- I can write P as |⟨φ|ψ⟩|².
+
+- I am not frightened of the notation.
