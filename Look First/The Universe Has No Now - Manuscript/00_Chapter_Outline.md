@@ -6,7 +6,7 @@ No film titles. Stories are invented scenes. String theory, if named: cannot cur
 
 **Length:** ~45 chapters, ~400 Kindle pages. Neighbors that taught the same sentence have been merged.
 
-**Series:** Volume 1 of *Look First*. Shared reference: `../00_Series_Reference.md`. The later volume, written as its own book: *A Trip Is Not a New Life* (camps, healthspan, and the Earth you do not abandon). Chapters 31 and 32 teach the crew and the library in this book. Do not add settlement Gantt charts or fountain medicine here.
+**Series:** Volume 1 of *Look First*. Shared reference: `../notes/00_Series_Reference.md`. The later volume, written as its own book: *A Trip Is Not a New Life* (camps, healthspan, and the Earth you do not abandon). Chapters 31 and 32 teach the crew and the library in this book. Do not add settlement Gantt charts or fountain medicine here.
 
 ---
 

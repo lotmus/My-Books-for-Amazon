@@ -6,7 +6,7 @@ No film titles. Stories are invented scenes. String theory, if named: cannot cur
 
 **Length:** 46 chapters. Two former books, one invoice. Neighbors that taught the same sentence were already merged inside each half. This pass did not merge them again.
 
-**Series:** Volume 2 of *Look First*. Shared reference: `../00_Series_Reference.md`. Stands alone. Volume 1: *The Universe Has No Now* (time, origins, elsewhere as a permit). Folder on disk: `A Trip Is Not a New Life - Manuscript`.
+**Series:** Volume 2 of *Look First*. Shared reference: `../notes/00_Series_Reference.md`. Stands alone. Volume 1: *The Universe Has No Now* (time, origins, elsewhere as a permit). Folder on disk: `A Trip Is Not a New Life - Manuscript`.
 
 Former display titles, absorbed 29 September 2026: *A Trip Is Not a Settlement*; *A Longer Life Is Not a New Body* (earlier still: *A Permit Is Not a City*; *The Body Keeps Its Own Clock*; *The Body’s Honest Invoice*).
 

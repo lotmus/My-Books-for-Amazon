@@ -1,6 +1,6 @@
 # Book 1 status — *The Universe Has No Now*
 
-**Current, 30 September 2026.** This file is Look First only, and this book only: *The Universe Has No Now*. Shared series reference: `../00_Series_Reference.md`. Handover: `../HANDOVER.md`. The part files win if this log disagrees. The newest section below wins if two sections disagree.
+**Current, 30 September 2026.** This file is Look First only, and this book only: *The Universe Has No Now*. Shared series reference: `../notes/00_Series_Reference.md`. Handover: `../notes/HANDOVER.md`. The part files win if this log disagrees. The newest section below wins if two sections disagree.
 
 - Look First has one sequel, *A Trip Is Not a New Life*. It is not this book. There is no Book 3. Other series in the parent repo are not this job.
 - Chapters 31 and 32 are full lessons again. Notes A31 and A32 hold the numbers. Do not cut them back to bridges.
