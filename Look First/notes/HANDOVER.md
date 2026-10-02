@@ -46,7 +46,7 @@ Kept on purpose:
 - A page break before each part, chapter, and appendix note.
 - Standing rule from 25 Sep 2026: every term in the popular text was already built, is built where it is used, or is pointed forward with a chapter number.
 
-Cover: `export\cover_typographic_v2_clockring.jpg`, the clock-ring design the author chose on 1 Oct 2026. `Figures\make_cover.py` draws it. The light-cone cover is in `bak\export\`.
+Cover: `export\cover_typographic_v2_clockring.jpg`, the clock-ring design the author chose on 1 Oct 2026. `Figures\make_cover.py` draws it. The light-cone cover is in `D:\bak\2026-10-01 Look First Book 1 cover\`.
 
 Human steps still open: look at `export\cover_typographic_v2_clockring.jpg` in the KDP cover tool, and a Kindle previewer pass.
 

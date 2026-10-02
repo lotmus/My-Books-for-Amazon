@@ -8,7 +8,7 @@
 - Headlines are navy `0C2D5A`, not `#0000FF`.
 - Chapters 31 and 32 are full lessons at the same length as the other teaching chapters (about 1,990 and 2,080 words). A32 notes the queue, the assay, and the spare copies.
 - Stamp **112,883** words. KDP ingest is `export\The_Universe_Has_No_Now.docx`, rebuilt 1 Oct 2026 with the EPUB from the same markdown. Mara is the woman in the kitchen and in the greenhouse. Eli keeps the clock. Plural chapter mentions link. Chapter 34’s doubled closing sentence is gone.
-- Cover (1 Oct 2026): the author chose the clock-ring cover, `export\cover_typographic_v2_clockring.jpg`. It is the Book 1 cover for KDP. The light-cone cover (`cover_typographic.jpg`) and its script are in `bak\`. `Figures\make_cover.py` is the clock-ring script again. The docx does not embed the cover, so it was not rebuilt.
+- Cover (1 Oct 2026): the author chose the clock-ring cover, `export\cover_typographic_v2_clockring.jpg`. It is the Book 1 cover for KDP. The light-cone cover (`cover_typographic.jpg`) and its script are in `D:\bak\2026-10-01 Look First Book 1 cover\`. `Figures\make_cover.py` is the clock-ring script again. The docx does not embed the cover, so it was not rebuilt.
 
 The kitchen date and the early sections below are the history of closed passes. They still say “books 2 and 3,” “credits only on the Amazon page,” and “chapters 31 and 32 stay bridges.” Those sentences describe the pass that wrote them.
 
@@ -232,6 +232,6 @@ Front matter: the Barrow line now reads “a clean line between a measurement an
 ## Cover chosen, 1 Oct 2026
 
 - The author chose the clock-ring cover over the 23 Sep light-cone redesign. The Book 1 KDP cover is `export\cover_typographic_v2_clockring.jpg` (1600×2560).
-- `export\cover_typographic.jpg` (light cone) moved to `bak\export\cover_typographic_v3_lightcone.jpg`. Its script moved to `bak\Figures\make_cover_v3_lightcone.py.bak`.
+- `export\cover_typographic.jpg` (light cone) moved to `D:\bak\2026-10-01 Look First Book 1 cover\` as `cover_typographic_v3_lightcone.jpg`. Its script is there as `make_cover_v3_lightcone.py.bak`.
 - `Figures\make_cover.py` is the clock-ring script again (from `bak\Figures\make_cover_v2_clockring.py.bak`). It now writes `export\cover_typographic_v2_clockring.jpg`.
 - References updated in `export\KINDLE_BUILD.md`, `export\assemble_export.py` (stamp line), `export\WORD_COUNT.txt` and `../notes/HANDOVER.md`. The docx does not embed a cover, so it was not rebuilt.
