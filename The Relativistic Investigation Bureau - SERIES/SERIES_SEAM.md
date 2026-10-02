@@ -42,6 +42,15 @@ Each new book gets a new physics problem. It does not re-solve the last file, an
 
 **Mr Pendleton.** Facilities. Already fully described. Thin, precise moustache, apologetic voice. The form is not his form. It is in another building, or another continuum.
 
+**Mr Haskett.** The landlord. Fifties. Camel coat bought to be looked at. Turns a signet ring on his little finger the way other men jingle change. Carries a leather folder. No smell; do not give him one. Unlike his surveyor, he looks straight at the platform. He thinks in units and postcodes ("Could it be let?"). He comes up in person once in Book 2 (Ch 20, Tuesday 17:00) about the insurance. He leaves with an interval, not a time, and both copies of the tenant's statement. He sent the surveyor, Mr Quayle, on the Tuesday (Ch 19). Quayle measured the opening, 896 mm, and wrote FEATURE BEYOND OPENING: NOT ASSESSED (OUTSIDE DEMISE). Haskett's Sunday instruction to bleed the radiator is in Mrs Marsh's log, and in the file twice: ON THE LANDLORD'S INSTRUCTION. Mrs Marsh still handles him. A later book may bring him back. It may not make him believe in metaphors, and it may not put his name in the empty sender field.
+
+**The insurers: Northgate and Castellan.** The building's cover moved from Northgate (six years, premium went up) to Castellan at 10:00 on the Monday Book 2 opens. Haskett's broker renews everything at ten. Both refused, each quoting half of Pendleton's incident report: Northgate the "10:05", Castellan the "already open". The tenant's statement, signed D. Gent and filed in drawer three, says:
+- the door was shut at 09:58:12 by phone time (Trevor's photograph of the Klein bottle, sent to Tabitha);
+- it was noticed open at about 10:05 by the corridor clock, which is about half a minute slow and has no second hand;
+- it opened between those times, and the time within that interval is unknown and not supplied.
+
+Do not let a later book resolve which side of ten o'clock the door opened. Do not give the interval as a fraction ("two-ninths of a door" is Penny's joke against doing that).
+
 ## Places
 
 **London Bureau.** Two rooms, second floor, old office building. Frosted glass: DEREK GENT / RELATIVISTIC INVESTIGATION BUREAU / CAUSALITY, CHRONOLOGY & OTHER INCONVENIENCES. Penny's line on the glass: NO MURDERS BEFORE 10 A.M. WITHOUT AN APPOINTMENT. Locked filing cabinet. Kettle, not necessarily where it ought to be. Window on rain, buses, the kerb. Corridor clock is the ordinary clock. Smell of the office is not established. Do not invent one and then treat it as canon. Brake dust belongs to a platform that should not be there, not to the rooms.
@@ -55,6 +64,8 @@ Each new book gets a new physics problem. It does not re-solve the last file, an
 **Trains.** Platform Seven and the London terminus that should not exist are the anomalous railway. Paddington is a real station. Book 2 uses it for a 16:00 airport train that leaves after Weinstein boards it. Do not merge Paddington with the doorway platform. The doorway train's board can say YESTERDAY. That word is a direction. On the Monday Book 2 opens, yesterday the calendar day was Sunday.
 
 **School.** Sophie is in double maths when the books need her safe. The gates are where frightened fathers go, and are told not to.
+
+**Penny's flat.** Top floor of a narrow house, divided in the 1970s by a builder with strong views about where a kitchen should not go. The kitchen is in the hall, so the table is in the hall, and her coat hangs on the back of the kitchen door, which is also in the hall. No smell established. Do not invent one. Book 2, Ch 15: on the Monday night she does the flight sum there with Trevor on the phone. The face-down photograph comes out of the bag and goes back unturned. The itinerary is London Heathrow to Athens, Thursday week, 07:40, landing 13:05 local. Its margin reads "x3", "SIGN UNKNOWN. UNTIL FLOWN.", and "GROUND SPEED. HEIGHT. TIME AT HEIGHT. WHICH WAY. DO NOT SEND BEFORE." Penny's number, sent from the air after Book 2, accounts for the Earth's rotation. Flying east it comes out near zero, and the wind decides the sign. Weinstein's "about ten nanoseconds older" left the rotation out.
 
 ## Objects that already have a job
 

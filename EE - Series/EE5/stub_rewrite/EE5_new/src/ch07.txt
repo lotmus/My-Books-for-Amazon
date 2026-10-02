@@ -1,0 +1,34 @@
+H1: Chapter 7. Coding and Multiple Antennas
+P: The modulations of Chapter 4 are several decibels from Shannon's limit, and the fading channel of Chapter 5 is far worse. Two techniques close most of the gap. Error-correcting codes add structured redundancy so the receiver can repair errors, and they recover most of the distance to the limit. Multiple antennas at both ends open several parallel paths through the same bandwidth, and they raise the limit itself. This chapter shows what each buys and finishes with the calculation behind Wi-Fi 7's headline figure.
+H2: 7.1 What a code does
+P: A code of rate R = k/n maps k information bits to n coded bits. The extra n − k bits let the decoder detect and correct errors, at the cost of a factor R in throughput or a factor 1/R in bandwidth. The simplest example is the Hamming (7,4) code: four data bits and three parity bits, any single error in the seven corrected. With a raw bit error rate of 10⁻², the probability that a 7-bit block contains two or more errors, and so is not corrected, is 2.0 × 10⁻³. Codes are judged by their coding gain, the reduction in the Eb/N0 needed for a target error rate, with the rate loss already counted because Eb is energy per information bit.
+H2: 7.2 Convolutional, turbo, and LDPC codes
+P: For decades the standard was the rate-1/2 convolutional code with constraint length 7, decoded by the Viterbi algorithm. It gives a coding gain of about 5 dB at a bit error rate of 10⁻⁵ and is still in the 802.11 standard. Turbo codes, announced in 1993, and low-density parity-check codes, invented by Gallager in 1962 and rediscovered in the 1990s, decode iteratively and come within about a decibel of the limit for long blocks. LDPC codes are used in Wi-Fi from 802.11n onward, in DVB-S2, and for the 5G data channels; 5G uses polar codes for its control channels. The limit itself, for a spectral efficiency η, requires Eb/N0 of at least (2^η − 1)/η.
+EQ: Eb/N0 ≥ (2^η − 1) / η
+H2: Worked Example 7.1
+WEP: Find the minimum Eb/N0 for spectral efficiencies of 1, 2, 6, and 10 bit/s/Hz.
+WES: For η = 1, (2 − 1)/1 = 1, or 0 dB. For η = 2, 3/2 gives 1.76 dB. For η = 6, 63/6 gives 10.2 dB. For η = 10, 1023/10 gives 20.1 dB. As η falls toward zero the bound tends to ln 2, the −1.59 dB of Chapter 1. Uncoded BPSK needs 9.6 dB for a bit error rate of 10⁻⁵ at η = 1, so a good code on such a link has up to about 9.6 dB to recover; practical LDPC codes recover about 8.
+KEY: Key idea. Coding moves a link toward Shannon's limit, and multiple antennas move the limit. Modern links use both: an LDPC code within a decibel or two of capacity, on top of several spatial streams.
+H2: 7.3 MIMO
+P: With Nt transmit and Nr receive antennas in a rich scattering environment, the channel is a matrix H, and the link can carry up to min(Nt, Nr) independent spatial streams through the same bandwidth. The capacity is the sum over the channel's eigenmodes. In the ideal case of equal, independent eigenmodes and the transmit power split equally, an N × N link at total SNR ρ has a capacity of N log₂(1 + ρ/N) bit/s/Hz. At ρ = 20 dB this is 6.66 bit/s/Hz for one antenna at each end, 11.3 for 2 × 2, and 18.8 for 4 × 4. One transmit antenna with four receive antennas gives only log₂(1 + 4ρ) = 8.6: receive combining raises SNR, but only spatial multiplexing multiplies the number of streams.
+EQ: C ≈ N log₂(1 + ρ/N)  bit/s/Hz  (N × N, ideal)
+P: Real channels have correlated antennas and unequal eigenmodes, and line-of-sight links with closely spaced antennas may support only one useful stream. Multiple antennas can also be used for diversity, as in the Alamouti space-time code, or for beamforming toward one user or several users at once, which is multiuser MIMO; the arrays themselves are Book 4's subject.
+H2: Worked Example 7.2
+WEP: An 802.11ax (Wi-Fi 6) link uses 80 MHz, which has 980 data subcarriers, 1024-QAM with rate-5/6 coding, and a 13.6 µs symbol. Find its rate per spatial stream. Find the 160 MHz, eight-stream peak.
+WES: Per stream, 980 × 10 bits × 5/6 / 13.6 µs = 600.5 Mbit/s, the figure printed on most Wi-Fi 6 adapters as 600 Mbit/s for one stream. At 160 MHz there are 1960 data subcarriers, and with eight streams the rate is 1960 × 10 × 5/6 / 13.6 µs × 8 = 9.61 Gbit/s, Wi-Fi 6's quoted peak of 9.6 Gbit/s.
+H2: Worked Example 7.3
+WEP: Wi-Fi 7 (802.11be) uses 320 MHz channels with 3920 data subcarriers, 4096-QAM at rate 5/6, a 13.6 µs symbol, and up to eight spatial streams. Find its paper peak rate.
+WES: 4096-QAM carries 12 bits, so per stream the rate is 3920 × 12 × 5/6 / 13.6 µs = 2.88 Gbit/s. Eight streams give 23.06 Gbit/s, the "about 23 Gbit/s" of the specifications. It is a paper figure. It needs a clean 320 MHz channel, which exists only in the 6 GHz band of Chapter 8, an SNR above about 38 dB on every stream, and eight antennas at each end; a phone with two antennas reaches a quarter of it at best.
+H2: Practice
+PR: A rate-3/4 code is used on a 40 Mbit/s coded stream. What is the information rate?
+PR: Find the minimum Eb/N0 for 4 bit/s/Hz.
+PR: Find the ideal capacity of a 2 × 2 link at 30 dB total SNR and compare it with a 1 × 1 link at the same SNR.
+PR: Find the Wi-Fi 6 rate for one spatial stream in 20 MHz, which has 234 data subcarriers, with 1024-QAM at rate 5/6.
+PR: How many spatial streams can a 4 × 2 link carry?
+PR: Why does a 1 × 4 link gain less capacity at high SNR than a 4 × 4 link?
+ANS: 40 × 3/4 = 30 Mbit/s.
+ANS: 15/4 = 3.75, or 5.74 dB.
+ANS: 2 log₂(1 + 500) = 17.9 bit/s/Hz, against log₂1001 = 9.97 bit/s/Hz.
+ANS: 234 × 10 × 5/6 / 13.6 µs = 143.4 Mbit/s.
+ANS: min(4, 2) = 2.
+ANS: Receive combining in a 1 × 4 link raises the SNR of a single stream by up to 6 dB, which adds about two bits per second per hertz, while a 4 × 4 link carries four streams and multiplies the capacity by about four.

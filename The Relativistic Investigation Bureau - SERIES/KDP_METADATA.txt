@@ -4,11 +4,12 @@ The Murder That Hadn't Happened Yet
 Book 1: The Relativistic Investigation Bureau Series
 ================================================================================
 
-[Imported 2026-09-24 from an earlier REV9-era planning package, updated for
-REV10's word count. Still contains [bracketed] placeholders (author name,
-launch date, website, email) that need your actual info before use. Treat
-pricing/categories/keywords as a starting proposal to review, not a decision
-already made.]
+[Updated 1 Oct 2026 (PT). The manuscript is 64,082 words (REV10 + Chapter 13
+rewrite). Every field except two is now filled and checked against the book.
+The two left open are the AUTHOR NAME and the RELEASE DATE; only Lothar
+decides those. Website and newsletter lines are marked OPTIONAL: KDP does not
+require them. Price, categories and keywords are a ready-to-paste proposal;
+change them if you want, but nothing else is missing.]
 
 TITLE
 The Murder That Hadn't Happened Yet
@@ -17,7 +18,13 @@ SUBTITLE (Optional - use in marketing materials)
 A Relativistic Investigation Bureau Mystery
 
 AUTHOR NAME
-[Your Author Name]
+[DECISION FOR LOTHAR]. KDP's Author field must match the name printed on the
+cover. The cover now reads "By Spezala Genara Relavi (S.G.R.), allegedly / By
+Lothar J. Musiol, actually". The manuscript title page reads "By Lothar J.
+Musiol writing as Spezala Genara Relavi (S.G.R.)".
+Options: (a) Author = Spezala Genara Relavi, Contributor = Lothar J. Musiol;
+(b) Author = Lothar J. Musiol only; (c) both as authors. Whichever you pick,
+the cover, the title page and this field must all say the same thing.
 
 SERIES INFORMATION
 Series: The Relativistic Investigation Bureau
@@ -25,15 +32,14 @@ Series Position: Book 1
 Series Name on KDP: "The Relativistic Investigation Bureau"
 
 ================================================================================
-CATEGORIES (Select 2)
+CATEGORIES (KDP now allows 3)
 ================================================================================
 
-PRIMARY CATEGORY:
-Hard Science Fiction
-
-SECONDARY CATEGORY:
-Mystery & Crime Fiction
-(Alternative: Science Fiction Mystery)
+1. Fiction > Science Fiction > Hard Science Fiction
+2. Fiction > Mystery, Thriller & Suspense > Mystery > (Amateur Sleuth or
+   Police Procedural; pick whichever the KDP picker offers)
+3. Fiction > Science Fiction > Time Travel
+(Category names in the picker change from time to time; choose the nearest match.)
 
 ================================================================================
 KEYWORDS (7 keywords/phrases - comma separated for KDP)
@@ -52,10 +58,14 @@ time travel mystery, physics mystery, hard science fiction, relativity fiction, 
 
 ================================================================================
 KINDLE BLURB (Book Description for KDP Store Page)
-[Word count: 270 words - COPY EXACTLY as provided below]
+[About 260 words, under KDP's 4,000-character limit. COPY EXACTLY.]
 ================================================================================
 
-[Updated 2026-09-24 to match the sharpened blurb now live in kdp_description.docx - kept in sync, don't let these drift apart again.]
+[Same text as kdp_description.docx (checked 1 Oct 2026). That file now holds
+only the sales description; its old title/byline/"ABOUT THE BOOK" header lines
+were removed. Checked against the book: 9:17 email, 11:03 timestamp, Sophie
+twelve, Penny/Trevor/Barbarian, the cucumber. All true to Chapter 1 onward.
+Keep the two copies identical.]
 
 A MURDER THAT HASN'T HAPPENED YET.
 A photograph from tomorrow.
@@ -95,76 +105,88 @@ KINDLE UNLIMITED ENROLLMENT: YES (90-day launch window)
 ROYALTY RATE: 70% (requires price $2.99-$9.99)
 
 ================================================================================
-AUTHOR BIOGRAPHY (150-200 words for KDP Back Matter)
+AUTHOR BIOGRAPHY (for Author Central / the KDP author page)
 ================================================================================
+[Written 1 Oct 2026 from the book's own About the Author page, so the facts
+and pronouns match it: Spezala Genara Relavi is "she", Lothar J. Musiol is
+"he". The old draft had "they", a "[relevant field]" blank, and a "describe
+the crime precisely enough and you might prevent it" line that is not the
+Bureau's principle in the book. If Lothar publishes under one name only,
+delete the paragraph for the other.]
 
-Lothar J. Musiol writes mysteries where the physics is the puzzle and the impossible is inevitable. Their work sits at the intersection of hard science fiction and detective stories—books for readers who want their murders to require an understanding of relativity to solve.
+Spezala Genara Relavi (S.G.R.) is the alleged author of The Relativistic Investigation Bureau series. She has never been formally accused of understanding General Relativity, though several of her fictitious colleagues maintain that she does. She divides her time between London, Munich, and a small pink filing cabinet labelled PRE-TRANSFORMATION / DO NOT OBSERVE. She has not yet been murdered, although she understands this may be subject to change without further notice.
 
-By day, they work in [relevant field]. By night, they investigate the implications of time travel, quantum mechanics, and what happens when bureaucratic systems encounter relativistic paradoxes.
+The real author, Lothar J. Musiol, exists in a more conventional sense. He is German by birth, American by choice, and writes in British because he regards it as the most awkward American dialect. He wrote the Bureau's cases so that the physics is the evidence: every clock that disagrees in the story disagrees for a reason you can check, and the course at the back of the book shows you how.
 
-"The Murder That Hadn't Happened Yet" is Book 1 of the Relativistic Investigation Bureau series. The Bureau operates under one principle: describe the crime precisely enough and you might prevent it. Which is harder than it sounds when time is the weapon.
+The Murder That Hadn't Happened Yet is Book 1.
 
-When not writing, Lothar J. Musiol can be found reading physics papers, arguing about movie time travel, and wondering why nobody else finds filing systems suspicious.
-
-[Visit author website: WWW.YOURSITE.COM]
-[Subscribe to updates: [EMAIL NEWSLETTER]]
+[OPTIONAL, only if they exist: author website / newsletter link. KDP does not require either. Leave out rather than print a placeholder.]
 
 ================================================================================
 CONTENT WARNINGS / CONTENT NOTES (OPTIONAL)
 ================================================================================
 
-Content: Mild violence (on-page death), temporal paradoxes, philosophical debate
-Reader Advisory: Contains discussion of time paradoxes and causality violations—best enjoyed by readers comfortable with physics-based puzzles.
+Content: No on-page death or violence. The murder is foretold by a photograph and never happens. Mild language (e.g. "my arse"), a parent fearing for a child, and some innuendo played for laughs.
+Reader Advisory: None needed. No physics background is assumed; the equations live in the optional course at the back.
+(KDP has no content-rating field for ebooks. Its only content question is whether the book is sexually explicit: answer No.)
 
 ================================================================================
 PUBLICATION DATE
 ================================================================================
 
-Release Date: [SELECT DATE - recommend Tuesday for Amazon visibility]
+Release Date: [DECISION FOR LOTHAR]. You can publish now or set a pre-order date up to a year out.
 Format: Kindle eBook
-Language: English (US)
+Language: English (KDP has a single "English" option; the book uses British spelling throughout, which is fine)
 
 ================================================================================
 KDP LISTING CHECKLIST
 ================================================================================
 
 REQUIRED:
-☐ Title: The Murder That Hadn't Happened Yet
-☐ Author Name: [Your Name]
-☐ Primary Category: Hard Science Fiction
-☐ Secondary Category: Mystery & Crime Fiction
-☐ Blurb (above)
-☐ Keywords (7 terms provided)
-☐ Price: $3.99
-☐ KU Enrollment: Selected
-☐ Publication Date: [Your chosen date]
+☑ Title: The Murder That Hadn't Happened Yet
+☐ Author Name: [DECISION FOR LOTHAR]
+☑ Categories: 3 proposed above
+☑ Blurb (above, identical to kdp_description.docx)
+☑ Keywords (7 phrases provided)
+☑ Price: $3.99 proposed (70% royalty band is $2.99 to $9.99)
+☑ KDP Select / Kindle Unlimited: proposed YES
+☐ Publication Date: [DECISION FOR LOTHAR]
 
-COVER REQUIREMENTS:
-☐ Cover image provided (minimum 1000x1500 pixels)
-☐ Title legible at thumbnail size
-☐ Series branding consistent
-☐ No watermarks or copyright symbols in image
+COVER REQUIREMENTS (checked 1 Oct 2026 on Kindle Front Cover.jpg):
+☑ JPEG, 1152 x 1728 px, 0.86 MB. Meets KDP's minimum (625 x 1000) and the
+  50 MB limit. KDP's ideal is 1600 x 2560 (ratio 1.6); this file is 1.5. It
+  will be accepted, but an upscale/re-export at 1600 x 2560 would look sharper
+  on high-resolution screens (Lothar's call).
+☑ Title legible at thumbnail size (tested at 100 x 150 px: THE MURDER /
+  HADN'T / YET read clearly)
+☑ Works in grayscale (e-ink): tested; title and byline stay readable
+☑ Series branding: "THE RELATIVISTIC INVESTIGATION BUREAU" and "BOOK 1 IN THE RIB SERIES"
+☑ No watermarks
+☐ Byline on the cover must match the KDP Author field (see AUTHOR NAME)
 
-MANUSCRIPT:
-☐ Properly formatted .docx or .mobi
-☐ Front matter included (copyright, TOC)
-☐ Back matter included (author bio, series info)
-☐ No extra formatting issues
+MANUSCRIPT (FINAL_REV10_..._KINDLE_READY.docx, rebuilt 1 Oct 2026):
+☑ .docx (KDP no longer accepts .mobi for ebooks)
+☑ Front matter: title page, copyright, linked table of contents
+☑ Back matter: author bio, Book 2 tease, further reading, bibliography
+☑ Formatting: every section heading is a real Word Heading 1 (so Kindle
+  builds its navigation), with a page break before each chapter/lesson;
+  22-entry front TOC is hyperlinked; 0 dead internal links; 5 images.
 
 SERIES SETUP:
-☐ Series name entered: "The Relativistic Investigation Bureau"
-☐ Series position: Book 1
-☐ Series URL (if applicable)
+☑ Series name: "The Relativistic Investigation Bureau"
+☑ Series position: Book 1
+☐ Series page: created in KDP's Series tab after the book is live
 
 ================================================================================
 MARKETING ANGLES (For promotional materials)
 ================================================================================
 
 ANGLE 1 - Mystery Readers:
-"A locked-room mystery where the room is spacetime itself. Derek Gent has 24 hours to solve a murder that hasn't happened yet—and every clue pulls him deeper into a time-twisted case where the only solution might be to erase the crime."
+"A locked-room mystery where the room is spacetime itself. Derek Gent has a day to solve a murder that hasn't happened yet, and every clue says the crime may be a mistake in how the event was written down."
 
 ANGLE 2 - Science Fiction Readers:
-"Hard physics meets murder mystery. When a murder case appears in the Bureau's files marked 11 hours in the future, Derek discovers that spacetime isn't fundamental—it's filed. Now the laws of relativity are his only tools for solving a crime that defies causality."
+"Hard physics meets murder mystery. A photograph timestamped tomorrow at 11:03 shows Derek dead on his office floor. The relativity is real (Lorentz transformations, gravitational time dilation, holography handled honestly), and it is the only toolkit that can tell a murder from a filing error."
+[Fixed 1 Oct 2026: the old angles said "24 hours", "11 hours in the future" and "erase the crime"; none of that matches the book.]
 
 ANGLE 3 - Literary/Smart Readers:
 "British wit meets rigorous physics in a novel that asks: if you can't trust time, can you trust your own existence? Philosophical, impossible, and darkly funny—a mystery that knows its own nature."

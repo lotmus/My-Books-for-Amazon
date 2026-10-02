@@ -1,0 +1,233 @@
+TITLE: Gauge Fixing
+TAGLINE: The covariant gauge-fixing term Lesson 37 postponed, the parameter ξ, and the photon propagator that interpolates between Feynman gauge and Landau gauge
+NUM: 70
+NEXT: Lesson 71, Ward Identities, proves the identity that makes physical amplitudes independent of ξ, completing the argument Lesson 47 could only sketch.
+
+# How to use this lesson
+
+Lesson 37 quantized the photon in Coulomb gauge, keeping only the two transverse components of A. Lesson 47 then used the covariant propagator −ig_μν/(k² + iε) anyway, with a partial argument that the difference does not affect physical results. Every loop calculation since, from Lesson 62's vacuum polarization to Lesson 64's vertex correction, has leaned on that choice. This lesson supplies the missing covariant starting point. It shows exactly why −¼F_μνF^μν by itself cannot be quantized covariantly, adds a gauge-fixing term with a free parameter ξ, inverts the resulting operator to obtain the photon propagator for every ξ, and checks at tree level that ξ drops out of a physical amplitude. The general proof that it always drops out is Lesson 71. Expect five to seven hours.
+
+## Learning objectives
+
+- Explain the two faces of the same problem: the canonical momentum of A⁰ vanishes, and the kinetic operator k²g^μν − k^μk^ν has no inverse.
+
+- Add ℒ_gf = −(∂_μA^μ)²/(2ξ) and derive the modified field equation and its consequence ∂²(∂·A) = 0.
+
+- Invert the kinetic operator using transverse and longitudinal projectors, and obtain D_μν(k; ξ) = −i[g_μν − (1−ξ)k_μk_ν/k²]/(k² + iε).
+
+- Identify Feynman gauge, ξ = 1, and Landau gauge, ξ = 0, and say why Coulomb gauge is not a value of ξ.
+
+- Show by direct calculation that the ξ-dependent part of the propagator drops out of tree-level electron-muon scattering.
+
+- State what remains to be proved, and which intermediate quantities are allowed to depend on ξ.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| ξ | Gauge-fixing parameter, dimensionless, 0 ≤ ξ < ∞ |
+| ℒ_gf | Gauge-fixing term −(∂_μA^μ)²/(2ξ) |
+| P_T, P_L | Transverse and longitudinal projectors, g_μν − k_μk_ν/k² and k_μk_ν/k² |
+| D_μν(k; ξ) | Photon propagator in covariant gauge with parameter ξ |
+| π^μ | Canonical momentum conjugate to A_μ |
+
+The metric is diag(+1, −1, −1, −1). In display equations, square brackets enclose function arguments and visible groupings.
+
+# 1 The problem without gauge fixing
+
+## 1.1 A vanishing momentum
+
+The Maxwell Lagrangian ℒ = −¼F_μνF^μν contains time derivatives of A^i through F^0i, but no time derivative of A⁰, because F^00 = 0 identically. The momentum conjugate to A⁰ is therefore π⁰ = ∂ℒ/∂(∂₀A₀) = −F^00 = 0. A canonical commutator [A⁰(x), π⁰(y)] = iδ³(x − y) is impossible when π⁰ vanishes. Lesson 37 escaped by fixing the gauge, solving for A⁰ in terms of the charges, and quantizing only the transverse A^i. That works, but it singles out a time direction and hides Lorentz invariance.
+
+## 1.2 An operator without an inverse
+
+The same problem appears in momentum space. Integrating by parts, the Maxwell action is
+
+$$ S = ∫ d⁴x ½ A_μ [∂² g^(μν) − ∂^μ ∂^ν] A_ν
+
+and with ∂ → −ik the quadratic operator is −(k²g^μν − k^μk^ν). The propagator is i times its inverse. But this operator annihilates every vector proportional to k:
+
+$$ [k² g^(μν) − k^μ k^ν] k_ν = k² k^μ − k^μ k² = 0
+
+A matrix with a null vector cannot be inverted. Physically, the null vector is a pure gauge configuration, A_μ = ∂_μχ, which in momentum space is A_μ ∝ k_μ. It costs no action, so nothing in the Lagrangian fixes its amplitude, and the path along which a disturbance would propagate is undefined.
+
+### Worked example 1
+
+Show that a pure gauge has zero field strength and zero action. With A_μ = ∂_μχ, F_μν = ∂_μ∂_νχ − ∂_ν∂_μχ = 0, because partial derivatives commute. Then −¼F_μνF^μν = 0 for every χ. The action cannot distinguish A_μ from A_μ + ∂_μχ. The quantity being inverted is degenerate along exactly these directions.
+
+# 2 Adding a gauge-fixing term
+
+## 2.1 The term
+
+Add to the Lagrangian
+
+$$ ℒ_gf = − [∂_μ A^μ]² / (2ξ)
+
+This term is not gauge invariant, and it is not meant to be. It assigns an action to the longitudinal combination ∂·A that −¼F² ignores, with a weight 1/ξ that is a free choice. Since ∂·A has mass dimension 2 and a Lagrangian has dimension 4, ξ is dimensionless. In the limit ξ → 0 the weight becomes infinite, and the only configurations that survive obey ∂·A = 0, which is the Lorenz condition of Lesson 8.
+
+## 2.2 The canonical momentum is restored
+
+The new term contains ∂₀A₀, so π⁰ = ∂ℒ_gf/∂(∂₀A₀) = −(∂·A)/ξ. This no longer vanishes, and all four components of A can be given canonical commutators. Section 1.1's obstruction is gone.
+
+## 2.3 The modified field equation
+
+With a source term −j_μA^μ, as in Lesson 41, varying A_ν gives
+
+$$ ∂_μ F^(μν) + (1/ξ) ∂^ν [∂·A] = j^ν
+
+Take ∂_ν of both sides. The first term is ∂_ν∂_μF^μν = 0, by antisymmetry, and ∂_νj^ν = 0 because the current is conserved. What remains is
+
+$$ ∂² [∂·A] = 0
+
+The combination ∂·A obeys the free wave equation and is not sourced by any conserved current. The gauge-fixing term has added a decoupled degree of freedom, not new physics. In the quantum theory, physical states are those annihilated by the positive-frequency part of ∂·A. This is the Gupta–Bleuler condition, which this course quotes without developing.
+
+### Worked example 2
+
+Write the field equation in Feynman gauge, ξ = 1. Since ∂_μF^μν = ∂²A^ν − ∂^ν(∂·A), adding ∂^ν(∂·A) cancels the last term, and the equation becomes ∂²A^ν = j^ν. Each component of A obeys a sourced wave equation, independently of the others. That is why the Feynman-gauge propagator is simply −ig_μν/k²: the four components propagate like four massless scalars, with the metric sign attached.
+
+# 3 The propagator for every ξ
+
+## 3.1 Projectors
+
+Define, for k² ≠ 0,
+
+$$ P_T^(μν) = g^(μν) − k^μ k^ν / k² qquad P_L^(μν) = k^μ k^ν / k²
+
+These are projectors: P_T + P_L = g, P_T P_T = P_T, P_L P_L = P_L, and P_T P_L = 0 (Exercise 4). P_T keeps the part of a vector orthogonal to k, and P_L keeps the part along k.
+
+## 3.2 The operator, decomposed
+
+The quadratic part of −¼F² + ℒ_gf is ½A_μ[∂²g^μν − (1 − 1/ξ)∂^μ∂^ν]A_ν. In momentum space the operator is
+
+$$ O^(μν) = − k² g^(μν) + [1 − 1/ξ] k^μ k^ν = − k² P_T^(μν) − (k²/ξ) P_L^(μν)
+
+The longitudinal part, which vanished without gauge fixing, now has coefficient −k²/ξ. Since the two projectors are orthogonal, the inverse is obtained by inverting each coefficient separately:
+
+$$ O⁻¹ = − (1/k²) P_T − (ξ/k²) P_L
+
+## 3.3 The result
+
+The propagator is i times the inverse, with the iε of Lesson 45:
+
+$$ D_(μν)[k; ξ] = − i [g_(μν) − [1−ξ] k_μ k_ν / k²] / (k² + iε)
+
+Exercise 5 multiplies O by this D and recovers iδ^μ_ν directly.
+
+## 3.4 The named gauges
+
+At ξ = 1, the k_μk_ν term vanishes and D_μν = −ig_μν/(k² + iε). This is Feynman gauge, the propagator used since Lesson 47. At ξ = 0, D_μν = −i(g_μν − k_μk_ν/k²)/k². This is Landau gauge, and it is purely transverse: k^μD_μν = 0. Other values appear in the literature, for example ξ = 3, Yennie gauge, which simplifies some infrared calculations. Coulomb gauge, ∇·A = 0, is not a value of ξ. It refers to a chosen time direction, so no covariant parameter can reach it. It is a different slice through the same gauge orbits.
+
+### Worked example 3
+
+Verify that Landau gauge is transverse. With ξ = 0, k^μ(g_μν − k_μk_ν/k²) = k_ν − k²k_ν/k² = 0. For general ξ, k^μD_μν = −iξk_ν/k². Only the longitudinal part survives, and it is proportional to ξ, the weight that the gauge-fixing term gave to longitudinal configurations.
+
+# 4 Unphysical polarizations
+
+In Feynman gauge all four components of A propagate, so the theory contains four polarization states for each momentum: two transverse, one along k, and one timelike. The commutator that follows from Section 2.2 is [a_μ(k), a_ν†(k′)] ∝ −g_μν δ³(k − k′), with a positive constant of proportionality set by Lesson 33's normalization. For the timelike component, −g₀₀ = −1, so that state has negative norm. Such states would be fatal if they could be produced in a physical process. They are not, because the longitudinal and timelike states always enter together, and their contributions cancel between them. This is the content of the Gupta–Bleuler condition. In the language of amplitudes, it is the statement that k_μℳ^μ = 0. Lesson 51 used exactly that statement to replace the physical polarization sum by −g_μν. Both rest on the Ward identity of Lesson 71.
+
+# 5 Watching ξ drop out
+
+## 5.1 Electron-muon scattering at tree level
+
+The amplitude of Lesson 53 has the structure J_e^μ D_μν(q; ξ) J_μ^ν, with J_e^μ = ū(p′)γ^μu(p) for the electron and q = p′ − p. The ξ-dependent piece of the propagator is proportional to q_μq_ν, so it contributes only through q_μJ_e^μ and q_νJ_μ^ν.
+
+## 5.2 The cancellation
+
+Using the Dirac equation for the external spinors, p̸u(p) = mu(p) and ū(p′)p̸′ = mū(p′):
+
+$$ q_μ ū[p′] γ^μ u[p] = ū[p′] [p̸′ − p̸] u[p] = [m − m] ū[p′] u[p] = 0
+
+The same holds at the muon line. The ξ term vanishes identically, and the tree-level amplitude is the same in every covariant gauge.
+
+### Worked example 4
+
+Explain why the same argument fails for an off-shell electron line. If the electron is internal, carrying momentum p with p² ≠ m², then p̸ acting on a propagator is not m, and q_μγ^μ does not reduce to zero. Individual diagrams with internal lines can therefore depend on ξ. What is guaranteed is that the sum over all diagrams with the same external, on-shell particles does not. Compton scattering in Lesson 56 is the first example. There, the k_μ terms from a photon line cancel between the direct and crossed diagrams, not within either one.
+
+## 5.3 What may depend on ξ
+
+Quantities that are not observable are allowed to depend on the gauge. Lesson 63's electron self-energy, computed in Feynman gauge, changes with ξ. So does the field-renormalization constant Z₂ of Lesson 67. The physical mass, defined by the pole of the propagator, does not. Neither does the charge renormalization Z₃ of Lesson 68, which comes from the photon's own vacuum polarization: the loop has no internal photon line, so ξ never enters. Lesson 71 shows that the vertex constant Z₁ depends on ξ in exactly the way Z₂ does, so that the combination which renormalizes the charge is gauge-independent. In non-Abelian theories, gauge fixing also introduces Faddeev–Popov ghost fields. In QED these ghosts do not couple to anything and can be ignored, a fact this course quotes without developing.
+
+# 6 What this lesson has not done
+
+This lesson has derived the propagator for every ξ and checked ξ-independence at tree level for one process. It has not proved ξ-independence for a general amplitude, which requires the Ward identity, and it has not developed the Gupta–Bleuler construction or the path-integral account of gauge fixing, in which ℒ_gf arises from averaging over gauge slices. Lesson 71 supplies the first. Lessons 79 to 83 return to the second in functional language.
+
+# 7 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used next |
+| π⁰ = 0 and a non-invertible operator without gauge fixing | Why covariant quantization needs ℒ_gf |
+| ℒ_gf = −(∂·A)²/(2ξ), ∂²(∂·A) = 0 | The covariant starting point; ∂·A decouples |
+| D_μν(k; ξ) = −i[g_μν − (1−ξ)k_μk_ν/k²]/(k² + iε) | Every loop with an internal photon; ξ checks in Lessons 71 and 72 |
+| ξ = 1 Feynman, ξ = 0 Landau | The gauges used in calculations from Lesson 47 on |
+| q_μū(p′)γ^μu(p) = 0 on shell | The simplest instance of the Ward identity, Lesson 71 |
+| Z₂ depends on ξ, Z₃ does not | Charge renormalization and Z₁ = Z₂, Lesson 71 |
+
+# 8 Summary
+
+1. Without gauge fixing, π⁰ = 0 and the operator k²g^μν − k^μk^ν annihilates k_ν, so no covariant propagator exists.
+
+2. ℒ_gf = −(∂·A)²/(2ξ) restores π⁰ and makes the operator invertible. Current conservation then gives ∂²(∂·A) = 0, so the extra degree of freedom decouples.
+
+3. With projectors, O = −k²P_T − (k²/ξ)P_L, and D_μν = −i[g_μν − (1−ξ)k_μk_ν/k²]/(k² + iε).
+
+4. ξ = 1 is Feynman gauge and ξ = 0 is Landau gauge. Coulomb gauge is not a value of ξ.
+
+5. At tree level, on-shell spinors make q_μJ^μ = 0, so ξ drops out of electron-muon scattering. Individual diagrams with internal lines may depend on ξ, and so may Z₂, but observables may not.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Show that F^00 = 0, and conclude that π⁰ = 0 for the Maxwell Lagrangian. |
+| 2 | Integrate −¼F_μνF^μν by parts and obtain ½A_μ[∂²g^μν − ∂^μ∂^ν]A_ν, stating which surface terms are dropped. |
+| 3 | Vary −¼F² − (∂·A)²/(2ξ) − j·A with respect to A_ν and derive Section 2.3's field equation. |
+| 4 | Verify P_T + P_L = g, P_T² = P_T, P_L² = P_L, and P_TP_L = 0, contracting indices explicitly. |
+| 5 | Multiply O^μν = −k²g^μν + (1 − 1/ξ)k^μk^ν by D_νρ(k; ξ) and show the product is iδ^μ_ρ. |
+| 6 | Show that without gauge fixing (1/ξ → 0) the coefficient of P_L in O vanishes, and explain why this is Section 1.2's problem restated. |
+| 7 | Compute k^μD_μν(k; ξ) for general ξ and interpret the result. |
+| 8 | Show that ξ → 0 forces ∂·A = 0, the Lorenz condition of Lesson 8. |
+| 9 | Explain why Coulomb gauge cannot be reached by any value of ξ. |
+| 10 | Verify q_μū(p′)γ^μu(p) = 0 for q = p′ − p, using the Dirac equation for both spinors. |
+| 11 | Write the ξ-dependent part of the electron-muon amplitude explicitly and show it vanishes. |
+| 12 | Explain why Z₃ at one loop cannot depend on ξ, by inspecting which propagators appear in Lesson 62's diagram. |
+| 13 | Challenge: in Feynman gauge, show that the timelike polarization state has negative norm, starting from [a_μ, a_ν†] ∝ −g_μν, and explain why this does not make the theory inconsistent. |
+
+# Solutions
+
+**1.** F^00 = ∂⁰A⁰ − ∂⁰A⁰ = 0. Since ℒ depends on ∂₀A₀ only through F^00, π⁰ = ∂ℒ/∂(∂₀A₀) = 0.
+
+**2.** −¼F² = −½(∂_μA_ν∂^μA^ν − ∂_μA_ν∂^νA^μ). Integrating each term by parts moves a derivative onto the other field, giving ½A_ν∂²A^ν − ½A_ν∂^ν∂_μA^μ = ½A_μ[∂²g^μν − ∂^μ∂^ν]A_ν. The dropped surface terms vanish for fields that fall off at infinity.
+
+**3.** ∂ℒ/∂(∂_μA_ν) = −F^μν − (1/ξ)g^μν(∂·A), and ∂ℒ/∂A_ν = −j^ν. The Euler–Lagrange equation ∂_μ[∂ℒ/∂(∂_μA_ν)] = ∂ℒ/∂A_ν gives −∂_μF^μν − (1/ξ)∂^ν(∂·A) = −j^ν, which is Section 2.3.
+
+**4.** P_T + P_L = g − kk/k² + kk/k² = g. P_L P_L has components k^μk_αk^αk^ν/k⁴ = k^μk^ν/k² = P_L. P_T P_L = (g − P_L)P_L = P_L − P_L = 0. P_T P_T = (g − P_L)(g − P_L) = g − 2P_L + P_L = P_T.
+
+**5.** Write O = −k²P_T − (k²/ξ)P_L and D = −i(P_T + ξP_L)/k². Then OD = (−i/k²)(−k²P_T − k²P_L) = i(P_T + P_L) = iδ^μ_ρ, using the projector algebra of Exercise 4.
+
+**6.** The coefficient of P_L is −k²/ξ, which vanishes as 1/ξ → 0. O then annihilates every longitudinal vector, so it has no inverse, as in Section 1.2.
+
+**7.** k^μP_T,μν = 0 and k^μP_L,μν = k_ν, so k^μD_μν = −iξk_ν/k². Only the longitudinal part survives, weighted by ξ.
+
+**8.** As ξ → 0, the term −(∂·A)²/(2ξ) gives an infinite negative action to any configuration with ∂·A ≠ 0, so only ∂·A = 0 survives. In the propagator, the longitudinal part ξP_L vanishes.
+
+**9.** ∇·A = 0 involves only the spatial components of A in one chosen frame. A condition built from ξ and k^μ is the same in every frame, so no value of ξ can single out a time direction.
+
+**10.** q̸ = p̸′ − p̸. Acting to the right, p̸u(p) = mu(p). Acting to the left, ū(p′)p̸′ = mū(p′). So ū(p′)q̸u(p) = mū(p′)u(p) − mū(p′)u(p) = 0.
+
+**11.** The ξ term is (ie)²J_e^μ[i(1−ξ)q_μq_ν/q⁴]J_μ^ν, which is proportional to (q·J_e)(q·J_μ). Each factor vanishes by Exercise 10.
+
+**12.** Lesson 62's vacuum-polarization loop contains two electron propagators and no internal photon. The gauge parameter lives only in the photon propagator, so it cannot appear.
+
+**13.** For a state |1_0⟩ = a₀†|0⟩, the norm is ⟨0|a₀a₀†|0⟩ ∝ −g₀₀ = −1 < 0. Physical processes with conserved currents never produce the timelike and longitudinal states except in the combination that cancels, so the negative norm never reaches a probability. The Gupta–Bleuler condition selects the physical subspace, and the Ward identity expresses the cancellation in amplitudes.
+
+# Mastery checklist
+
+- I can explain why the Maxwell Lagrangian alone gives π⁰ = 0 and a non-invertible kinetic operator.
+
+- I can write ℒ_gf, derive the modified field equation, and show that ∂·A decouples.
+
+- I can invert the operator with projectors and write D_μν(k; ξ) from memory.
+
+- I can identify Feynman and Landau gauges and explain why Coulomb gauge is not a value of ξ.
+
+- I can show that ξ drops out of tree-level electron-muon scattering, and name which quantities may depend on ξ.

@@ -46,3 +46,14 @@ Checked in the live draft, not in those snapshots:
 Match the quotation marks of the paragraph you are editing. Do not convert the whole draft in passing.
 
 Book 2 must not contradict Book 1: Coldharrow is a west-London district; Mrs Chain's house is Twenty-Two Elm Grove again after the crisis; 411 states, 308 recovered, 103 unrecovered; Margaret Chain recovered; the green notebook was one notebook at the end of Book 1; Eilstein left in December having eaten nothing for six weeks. Gideon keeps the benches and is Lolly's close friend. That is not a romance subplot.
+
+## Book 2 ownership — 1 Oct 2026
+
+This session now owns Book 2 (`The_Permitted_Options_BOOK_2_DRAFT.docx`). Lothar confirmed the other sessions are dormant. Other agents: do not edit Book 2 without checking with him first.
+
+1 Oct 2026 revision pass (text edited in `word/document.xml` only; 1981 paragraphs, styles, bookmarks and links unchanged; backups `*.before-continue-20261001-1639.docx` and `-1646.docx` sit beside the live file):
+
+- The holographic rate is now accurate everywhere: one natural unit of entropy per four Planck areas, about one bit per 2.8 (4 ln 2). Chapters 4, 9 and 10, and the lectures for Chapters 4 and 10. The lecture calls the area bound the holographic bound ('t Hooft, Susskind), not the Bekenstein bound.
+- The countdown counts working days (112 on a Wednesday to 109 the next Monday). End-of-chapter counts are now 68 (Ch 12, the Tuesday), 61 (Ch 13, the following Thursday), 59 (Ch 14, the Esaki Monday, keeping "No —"), and 57 (Ch 15, the Wednesday).
+- Esaki says "It is as ordinary as a Tuesday." (he visits on a Monday).
+- Also: "Book One" is gone from the Ch 6 notebook; "Barbour's" became "Barbarian's" in the Ch 11 notebook; "HØ" became "ĤΨ" in Ch 10; "the whole book" became "the whole volume" in Ch 13; the Ch 14 frost paragraph sits before Esaki's colon; Esaki's p-n junction line; neutron–proton and diproton physics in Ch 11; Page-curve wording in Ch 8.

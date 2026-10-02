@@ -1,0 +1,44 @@
+H1: Chapter 5. Scattering Parameters
+P: At low frequency a two-port network is described by impedances or admittances measured with its ports open or shorted. At radio frequencies those measurements are impossible: an open circuit radiates, a short circuit has inductance, and an active device presented with either may oscillate. Scattering parameters avoid the problem by describing a network in terms of waves going in and waves coming out with every port terminated in the reference impedance, normally 50 Ω. Every RF datasheet, every simulator, and every network analyzer speaks this language, and this chapter teaches enough of it to read, convert, and use the numbers.
+H2: 5.1 Waves in, waves out
+P: At each port n, an incident wave aₙ and a reflected wave bₙ are defined so that |aₙ|² and |bₙ|² are the powers traveling toward and away from the port. For a two-port the outgoing waves are linear combinations of the incoming ones, and the four coefficients are the S-parameters.
+EQ: b₁ = S₁₁ a₁ + S₁₂ a₂,    b₂ = S₂₁ a₁ + S₂₂ a₂
+P: With the output terminated in Z0, a₂ = 0, so S₁₁ is the input reflection coefficient and S₂₁ the forward transmission coefficient. S₂₂ and S₁₂ are the same quantities seen from the output. Each is a complex number, a magnitude and a phase. In decibels, the return loss is −20 log₁₀|S₁₁|, the gain or insertion loss is 20 log₁₀|S₂₁|, and the reverse isolation is −20 log₁₀|S₁₂|. Because S₁₁ is a reflection coefficient, the input impedance follows from Chapter 2's formula turned around.
+EQ: Zin = Z0 (1 + S₁₁) / (1 − S₁₁)
+H2: Worked Example 5.1
+WEP: A network analyzer measures S₁₁ = 0.5 at 90° on a component in a 50 Ω system. Find the input impedance and the return loss. A second component has S₁₁ = 0.2 at 0°; find its impedance.
+WES: Zin = 50 (1 + j0.5)/(1 − j0.5) = 50 (1 + j0.5)²/1.25 = 50 (0.75 + j1.0)/1.25 = 30 + j40 Ω. The return loss is −20 log₁₀ 0.5 = 6.0 dB. For S₁₁ = 0.2, Zin = 50 × 1.2/0.8 = 75 Ω, purely resistive because the reflection has zero phase.
+H2: 5.2 Lossless, reciprocal, and matched
+P: Three properties can be read directly from the matrix. A network is reciprocal, as every passive network without ferrites or active parts is, when S₁₂ = S₂₁. It is lossless when the power that comes out equals the power that goes in, which for a two-port driven from port 1 means |S₁₁|² + |S₂₁|² = 1. And it is matched at a port when that port's reflection coefficient is zero. A lossless network that is not matched must reflect whatever it does not pass, so measuring S₁₁ alone tells how much a lossless filter passes.
+H2: Worked Example 5.2
+WEP: A lossless filter has |S₁₁| = 0.3 at some frequency in its passband. Find its insertion loss there. Then a lossy attenuator has |S₂₁| = 0.5 and |S₁₁| = 0.1; find the fraction of incident power it absorbs.
+WES: For the lossless filter, |S₂₁|² = 1 − 0.09 = 0.91, an insertion loss of −10 log₁₀ 0.91 = 0.41 dB, all of it reflected rather than dissipated. For the attenuator, |S₂₁|² = 0.25 and |S₁₁|² = 0.01, so 1 − 0.25 − 0.01 = 0.74 of the incident power is absorbed. Its insertion loss is 6.0 dB and its return loss 20 dB, the specification of a good 6 dB pad.
+H2: 5.3 Mismatch uncertainty in a chain
+P: S-parameters are defined with ideal Z0 terminations, but real components are cascaded with imperfect ones. When a source with reflection coefficient Γs drives a load with Γl, the wave bounces between them, and the power delivered differs from the matched value by a factor that depends on the phase of the product, which changes with cable length and frequency. The limits of the uncertainty are easy to state.
+EQ: Mismatch uncertainty = 20 log₁₀ (1 ± |Γs| |Γl|) dB
+H2: Worked Example 5.3
+WEP: A signal generator with a VSWR of 1.5 drives a power sensor with a VSWR of 1.5. Find the range of the mismatch uncertainty. Repeat for a generator VSWR of 2.0 and a sensor VSWR of 1.2.
+WES: VSWR 1.5 corresponds to |Γ| = 0.5/2.5 = 0.2, so |Γs||Γl| = 0.04 and the uncertainty is +0.34 dB to −0.35 dB. With VSWR 2.0 (|Γ| = 1/3) and 1.2 (|Γ| = 0.091), the product is 0.030, giving +0.26 to −0.27 dB. The uncertainty is often the largest term in an RF power measurement, and the standard remedy is a well-matched attenuator between the two, which reduces the effective reflection on each side by twice its loss in decibels.
+KEY: Key idea. S-parameters describe a network by its waves with every port matched. They are measured, not calculated from opens and shorts, and they are only as meaningful as the reference impedance and reference planes they were measured at.
+H2: 5.4 Stability of an amplifier from its S-parameters
+P: A transistor at RF is usually specified as a table of S-parameters at its bias point. Before matching networks are designed, the designer must know whether some passive source or load impedance could make the device oscillate. The Rollett stability factor K and the determinant Δ answer the question: a two-port is unconditionally stable, stable for every passive termination, when K > 1 and |Δ| < 1. When it is, its maximum available gain (MAG), the gain with both ports conjugately matched, follows from the same quantities.
+EQ: Δ = S₁₁S₂₂ − S₁₂S₂₁,    K = (1 − |S₁₁|² − |S₂₂|² + |Δ|²) / (2 |S₁₂ S₂₁|)
+EQ: MAG = (|S₂₁| / |S₁₂|) (K − √(K² − 1))
+H2: Worked Example 5.4
+WEP: A transistor at 2.4 GHz has S₁₁ = 0.6∠−120°, S₂₁ = 3.5∠80°, S₁₂ = 0.06∠40°, and S₂₂ = 0.4∠−60°. Determine its stability and its maximum available gain, and compare with its gain in a plain 50 Ω system.
+WES: S₁₁S₂₂ = 0.24∠−180°, and S₁₂S₂₁ = 0.21∠120°. Their difference has magnitude |Δ| = 0.226. K = (1 − 0.36 − 0.16 + 0.051)/(2 × 0.21) = 0.531/0.42 = 1.265. Since K > 1 and |Δ| < 1, the device is unconditionally stable. MAG = (3.5/0.06)(1.265 − √(1.265² − 1)) = 58.3 × 0.490 = 28.6, or 14.6 dB. In 50 Ω without matching, the gain is |S₂₁|² = 12.25, or 10.9 dB, so conjugate matching networks of the kind in Chapters 3 and 4 add about 3.7 dB. The power-amplifier version of this design, with load lines and heat, is Book 6.
+H2: 5.5 Measuring S-parameters
+P: A vector network analyzer measures incident and reflected waves with directional couplers and compares them in magnitude and phase. Its raw measurement includes the errors of its own cables, connectors, and couplers, which are removed by calibration: the analyzer measures known standards, such as a short, an open, a load, and a through connection (SOLT), and solves for its error terms. Calibration moves the reference plane to the end of the cables. Fixtures and board launches between that plane and the device are removed by de-embedding, and the quality of an S-parameter file depends on how carefully that last step was done.
+H2: Practice
+PR: A device has |S₁₁| = 0.1 and |S₂₁| = 0.995 and is passive. Find its return loss and insertion loss, and state whether it is lossless.
+PR: Find Zin for S₁₁ = 0.3∠−45° in a 50 Ω system.
+PR: A source with |Γ| = 0.3 drives a load with |Γ| = 0.2. Find the mismatch uncertainty.
+PR: A transistor has S₁₁ = 0.5∠−60°, S₂₁ = 2.0∠100°, S₁₂ = 0.1∠30°, S₂₂ = 0.5∠−40°. Given |Δ| = 0.41, find K and state whether it is unconditionally stable.
+PR: A reciprocal network has S₂₁ = 0.7∠−30°. What is S₁₂?
+PR: Explain in one or two sentences why S-parameters, rather than open- and short-circuit parameters, are measured at microwave frequencies.
+ANS: RL = 20 dB; IL = −20 log₁₀ 0.995 = 0.04 dB. |S₁₁|² + |S₂₁|² = 0.01 + 0.990 = 1.000, so it is lossless within the precision given.
+ANS: Zin = 50 (1 + S₁₁)/(1 − S₁₁) = 68.3 − j31.9 Ω.
+ANS: 20 log₁₀(1 ± 0.06) = +0.51 dB to −0.54 dB.
+ANS: K = (1 − 0.25 − 0.25 + 0.167)/(2 × 0.2) = 1.67. With K > 1 and |Δ| < 1, it is unconditionally stable.
+ANS: S₁₂ = S₂₁ = 0.7∠−30°.
+ANS: Ideal opens and shorts cannot be made at microwave frequencies, and an active device terminated in them may oscillate; matched terminations are realizable and keep the device stable during measurement.

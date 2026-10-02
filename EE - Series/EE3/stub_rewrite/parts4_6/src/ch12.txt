@@ -1,0 +1,43 @@
+PART: Part IV. Inside the Amplifier
+PARTP: Book 2 used the op-amp as a block with a declared open-loop gain of 10⁵, a gain-bandwidth product of 1 MHz, and a dominant pole at 10 Hz. This part opens the block. It builds the two circuits every analog chip is made from, the current mirror and the differential pair, puts them together into a two-stage op-amp whose gain, bandwidth, and slew rate can be calculated from the transistors of Parts II and III, and then derives the noise those transistors add. The circuit check for this part is the op-amp chapter of Tietze, Schenk, and Gamm, 16th edition, with Gray, Hurst, Lewis, and Meyer for the integrated details.
+H1: Chapter 12. Mirrors, Pairs, and Matching
+P: An integrated circuit cannot rely on any one transistor's absolute values. β varies by a factor of two across a wafer, Vth by tens of millivolts, and resistors by twenty percent. What a chip does control is how closely two transistors drawn side by side resemble each other. Analog IC design is the craft of making every important quantity depend on a ratio of matched devices, and the two circuits in this chapter are where that craft begins.
+H2: 12.1 The current mirror
+P: Connect a bipolar transistor's collector to its own base and feed it a reference current IREF. It settles at whatever VBE carries that current. Apply the same VBE to a second, identical transistor, and it carries the same collector current, because IC = IS e^(VBE/VT) and both share IS and VBE. The second transistor is a current source whose value was set by the first. The only error in the ideal picture is the base current: IREF must supply the collector current of the reference transistor and the base currents of both.
+EQ: IOUT = IREF / (1 + 2/β)
+H2: Worked Example 12.1
+WEP: A simple bipolar mirror uses the declared transistor of Part II (β = 100, VA = 100 V) with IREF = 1 mA. Find the output current. Then find how much it changes when the output collector voltage rises by 5 V above the reference transistor's VBE.
+WES: IOUT = 1 mA/(1 + 0.02) = 0.980 mA, a 2% error from base current alone. The output resistance is ro = VA/IC = 100 V/1 mA = 100 kΩ, so 5 V more across the output transistor adds 5/100 kΩ = 50 µA, another 5%. Both errors have standard fixes. A third transistor that supplies the base current (the beta helper) reduces the base-current error to 2/(β(β + 1)), about 0.02%. A cascode, a second transistor stacked on the output that holds its collector voltage fixed, multiplies the output resistance by roughly β for a bipolar device or gm ro for a MOSFET.
+P: The MOS mirror works the same way with VGS in place of VBE and has no gate current, so the base-current error disappears. Its ratio is set by device geometry: IOUT/IREF = (W/L)₂/(W/L)₁. Designers set ratios by repeating one unit transistor, so that a ratio of 4 is four identical devices in parallel, because a single transistor drawn four times wider does not scale its edge effects by exactly four.
+H2: 12.2 Mismatch
+P: Two transistors that are drawn identically still differ. In a bipolar pair the main difference is IS, from slight differences in emitter area and base doping, and it appears as an offset in VBE: a 1% difference in IS is VT ln(1.01) = 0.26 mV. In a MOS pair the main difference is Vth, from random variations in the number and position of dopant atoms under the gate and in the gate edge. Because the current in saturation depends on the square of the overdrive, a threshold difference ΔVth causes a fractional current difference that grows as the overdrive falls.
+EQ: ΔID / ID ≈ 2 ΔVth / Vov
+P: Random mismatch shrinks with device area. Pelgrom's law gives the standard deviation of the threshold difference between two identical devices of gate width W and length L, with a process constant AVt that has fallen from about 10 mV·µm in 1990s processes to 1–3 mV·µm in recent ones.
+EQ: σ(ΔVth) = AVt / √(W L)
+H2: Worked Example 12.2
+WEP: A process has AVt = 3 mV·µm. A MOS mirror uses two 1 µm × 1 µm devices at Vov = 0.2 V. Find the standard deviation of the threshold mismatch and of the current ratio. What device area brings σ(ΔVth) to 1 mV?
+WES: σ(ΔVth) = 3 mV·µm/√(1 µm²) = 3 mV. The current ratio then has a standard deviation of 2 × 3 mV/0.2 V = 3%. To reach 1 mV, √(WL) must be 3 µm, so WL = 9 µm², nine times the area. Matching improves only with the square root of area, which is why precision analog circuits are large while digital logic on the same chip is drawn at minimum size. Raising Vov also helps the current matching, at the cost of headroom and transconductance efficiency.
+KEY: Key idea. A mirror copies a current by copying a voltage. Its accuracy is set by how well two devices match, and random matching improves only as the square root of the area spent on them.
+H2: 12.3 The differential pair
+P: Two matched transistors with their emitters, or sources, tied together and fed from a single tail current IEE form a differential pair. The tail current must divide between the two sides, and the division depends only on the difference between the two input voltages. For bipolar transistors, the exponential law gives a closed form.
+EQ: IC1 − IC2 = IEE tanh(Vd / (2 VT)),    Vd = VB1 − VB2
+P: For small inputs, tanh(x) ≈ x, and each side's collector current changes by ± gm Vd/2, where gm is the transconductance of one transistor at its half of the tail current, IEE/(2VT). With load resistors RC on both collectors, the differential output voltage is gm RC Vd. A common-mode input moves both bases together and leaves the split unchanged, so the pair rejects it, up to the limit set by the tail source's finite output resistance and by mismatch.
+H2: Worked Example 12.3
+WEP: A bipolar pair has IEE = 2 mA and RC = 5 kΩ on each collector. Find the small-signal differential gain, and the input difference that steers 90% of the tail current difference to one side.
+WES: Each transistor runs at 1 mA, so gm = 1 mA/26 mV = 38.5 mS, and the differential gain is 38.5 mS × 5 kΩ = 192. The current difference reaches 90% of IEE when tanh(Vd/2VT) = 0.9, so Vd = 2 × 26 mV × atanh(0.9) = 2 × 26 × 1.472 = 76.6 mV. A bipolar pair is linear only for inputs well below about 26 mV; beyond 77 mV it is a switch. A MOS pair at Vov = 0.2 V steers its tail current completely at √2 Vov = 0.28 V, a much wider linear range bought with lower gm/ID.
+H2: 12.4 Offset of a pair
+P: If the two halves of a pair are mismatched, a nonzero input is needed to balance them. That input is the pair's offset voltage, and it is the offset the op-amp datasheets of Book 2 quote. A bipolar pair's offset is the VBE mismatch, which for a 1% IS mismatch is 0.26 mV, plus a contribution from mismatched load resistors divided by the gain. A MOS pair's offset is ΔVth directly, plus (Vov/2) times the fractional mismatch in W/L. With AVt = 3 mV·µm and 1 µm² devices that is several millivolts, which is why bipolar-input amplifiers have historically led on offset and why precision CMOS amplifiers use large input devices, trimming, or the chopper and auto-zero techniques that measure the offset and subtract it continuously.
+P: Systematic offset is the other kind. It comes from the circuit, not from randomness: a load mirror whose two sides sit at different collector voltages carries slightly different currents through the Early effect, and the pair must be unbalanced to compensate. Systematic offset is removed at design time by making the two sides operate at the same voltages, which is part of the reason the two-stage op-amp of the next chapter sizes its second stage the way it does.
+H2: Practice
+PR: A bipolar mirror has β = 50 and IREF = 200 µA. Find IOUT, ignoring the Early effect.
+PR: A MOS mirror operates at Vov = 0.15 V. Its devices have σ(ΔVth) = 2 mV. Find the standard deviation of the current ratio.
+PR: With AVt = 4 mV·µm, what gate area is needed for σ(ΔVth) = 0.5 mV?
+PR: A bipolar pair has IEE = 400 µA and RC = 20 kΩ. Find the differential gain.
+PR: Two transistors in a bipolar pair differ in IS by 2%. Find the resulting offset voltage.
+PR: Explain in one or two sentences why a ratio of four in a mirror is drawn as four unit devices rather than one device four times wider.
+ANS: IOUT = 200 µA/(1 + 2/50) = 192.3 µA.
+ANS: 2 × 2 mV/0.15 V = 2.7%.
+ANS: √(WL) = 4/0.5 = 8 µm, so WL = 64 µm².
+ANS: gm = 200 µA/26 mV = 7.69 mS; gain = 7.69 mS × 20 kΩ = 154.
+ANS: VT ln(1.02) = 26 mV × 0.0198 = 0.51 mV.
+ANS: Edge effects such as diffusion under the gate edge and corner rounding scale with perimeter, not area, so one wide device does not carry exactly four times the current of a narrow one; four copies of the same unit device reproduce every edge effect four times.

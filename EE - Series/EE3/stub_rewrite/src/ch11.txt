@@ -1,0 +1,28 @@
+H1: Chapter 11. The Fin, Then the Sheet
+P: Chapter 10 ended with two walls. Below threshold, a MOSFET cannot switch more sharply than about 60 mV per decade, so threshold cannot keep falling. And as the channel shortens, the drain's field reaches under the gate and starts to control the channel itself, which makes the swing worse, not better. By about the 22 nm generation, a planar transistor, gated from one side only, had run out of ways to keep the gate in charge. The answer was geometric: wrap the gate around the channel.
+H2: 11.1 Why one gate is not enough
+P: In a short planar device, the drain's electric field lowers the barrier at the source end of the channel. That effect is drain-induced barrier lowering, DIBL, quoted in millivolts of threshold shift per volt of drain voltage. It makes the off-state current depend on drain voltage and degrades the subthreshold swing well above its 60 mV floor. The cure is a channel so thin that the gate's field reaches all of it, from more than one side, before the drain's field can. Thin silicon, surrounded by gate, is the whole idea behind the fin and the nanosheet.
+H2: 11.2 The fin
+P: A FinFET stands the channel on its edge: a narrow vertical ridge of silicon, the fin, with the gate draped over its top and both sides. The fin's width, under 10 nm in advanced nodes, is what the gate must control, and three-sided gating controls it well. The penalty is that width is no longer a continuous design variable. Each fin carries a fixed effective width, about twice its height plus its top width, and a transistor's drive is set by how many fins it has.
+EQ: W_eff = N_fin (2 H_fin + W_fin)
+H2: Worked Example 11.1
+WEP: A FinFET process has fins 50 nm tall and 7 nm wide. Find the effective width of one fin and of a four-fin transistor. Using roughly 0.5 mA/µm from Worked Example 10.3 as an order-of-magnitude drive, estimate the four-fin transistor's on-current.
+WES: One fin: 2 × 50 + 7 = 107 nm. Four fins: 428 nm. At about 0.5 mA/µm, the on-current is roughly 0.21 mA. The designer cannot ask for 300 nm or 500 nm; the choices are 107, 214, 321, 428 nm, and so on. Weste and Harris still teach how to draw the circuit, but sizing now counts fins.
+H2: 11.3 The nanosheet and gate-all-around
+P: A fin cannot grow taller indefinitely, because tall, thin fins are mechanically fragile and hard to etch uniformly. The next step turns the fin on its side and slices it: a stack of thin horizontal silicon sheets, each completely surrounded by gate. Gate-all-around control is the best electrostatics a channel can have, and the sheet width, unlike fin width, can be chosen within a range, which returns some continuous sizing to the designer.
+EQ: W_eff = N_sheet × 2 (W_sheet + T_sheet)
+P: Three sheets 30 nm wide and 5 nm thick give 3 × 2 × 35 = 210 nm of effective width in a footprint not much larger than a single fin's. Beyond the nanosheet, the complementary FET (CFET) stacks an nFET directly over a pFET to shrink a logic cell further. That is published research and roadmap material, IRDS and conference papers, and it should be read as such.
+H2: 11.4 What changes for the designer
+P: At these nodes the transistor is only part of the problem. The resistance and capacitance of the tiny copper wires above the transistors, the back end of line, often dominate delay. Random variation in a few dopant atoms or a few nanometers of line edge shifts threshold from one device to the next, so matching, the subject of analog design, gets harder even as logic density improves. Leakage is a power budget, not a footnote. Taur and Ning, 3rd edition, is the device book for this territory. Veendrick surveys what else changes: leakage, back-end RC, variability, and yield.
+P: Above all, below about 20 nm the foundry's process design kit outranks any textbook. The PDK's device models, layout rules, and corner files describe the transistors that will actually be built; the equations of Chapter 10 are a way of understanding those models, not a substitute for them.
+P: One material belongs to this chapter by name only. Aluminum scandium nitride, AlScN, is a piezoelectric film that CMOS-compatible lines now deposit, and it is reshaping MEMS resonators and filters. This book names it as a film. The 2026 products that use it are surveyed in Book 9.
+KEY: Key idea. The fin and the nanosheet exist to keep the gate in control of a channel too short for a planar gate to hold. Width became quantized with the fin and partly continuous again with the sheet. Below 20 nm, the PDK is the authority.
+H2: Practice
+PR: A fin is 42 nm tall and 6 nm wide. Find the effective width of a three-fin transistor.
+PR: A nanosheet transistor has four sheets, each 25 nm wide and 6 nm thick. Find its effective width.
+PR: A device shows a threshold shift of 50 mV when VDS rises from 0.05 V to 0.75 V. Find its DIBL in mV/V.
+PR: In one or two sentences, explain why a thinner channel improves the gate's control over the barrier at the source.
+ANS: 3 × (2 × 42 + 6) = 3 × 90 = 270 nm.
+ANS: 4 × 2 × (25 + 6) = 248 nm.
+ANS: 50 mV/0.70 V ≈ 71 mV/V.
+ANS: In a thin channel, every point is close to a gate electrode, so the gate's field sets the potential throughout the channel; the drain's field, which must reach in from the far end, has little channel left to influence.

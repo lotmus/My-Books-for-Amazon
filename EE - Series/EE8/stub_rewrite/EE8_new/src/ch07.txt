@@ -1,0 +1,35 @@
+H1: Chapter 7. Rectifiers, Power Factor, and the Grid
+P: Most converters ultimately draw their power from the alternating-current grid, and many now feed power back into it, from solar panels, batteries, and electric vehicles. At that boundary, a converter is no longer only a circuit: it is a load or a generator on a shared network, and the network's operators set rules for how it may behave. This chapter covers the rectifier and the power-factor corrector that sit at the front of every mains-powered supply, the harmonic currents they must limit, the three-phase arithmetic of larger installations, and the grid codes that govern inverters feeding the grid.
+H2: 7.1 The rectifier and its harmonics
+P: The simplest front end is a diode bridge followed by a large capacitor. The capacitor charges only near the peaks of the mains waveform, so the current flows in short, tall pulses rather than a sine wave. Those pulses are rich in odd harmonics, the third, fifth, seventh, and higher, which carry no average power but heat wiring and transformers, distort the voltage for other users, and in three-phase systems add up in the neutral conductor rather than cancelling. The power factor is the ratio of real power to the product of rms voltage and rms current. For a sinusoidal voltage, it is the product of a displacement factor, the cosine of the phase angle of the fundamental current, and a distortion factor set by the total harmonic distortion of the current.
+EQ: PF = cos φ × 1/√(1 + THD²)
+H2: Worked Example 7.1
+WEP: A 1 kW load on a 230 V supply draws current with 100% THD and no phase shift of the fundamental. Find its power factor and rms current, and compare it with a load of unity power factor.
+WES: PF = 1/√(1 + 1) = 0.707. The rms current is 1000/(230 × 0.707) = 6.15 A, against 4.35 A at unity power factor. The extra 1.8 A heats the wiring and limits how many such loads a 16 A circuit can carry: at PF 0.6, a 16 A, 230 V circuit delivers only 2.21 kW of real power; at PF 0.99, it delivers 3.64 kW.
+H2: 7.2 Active power-factor correction
+P: Equipment drawing more than about 75 W on the public supply in Europe must meet the harmonic limits of IEC 61000-3-2, and server and data-center supplies are held to power factors above 0.95 or 0.99 by efficiency programs. The standard solution is a boost converter, Chapter 4's topology, placed after the bridge. Its controller shapes the inductor current to follow the rectified sine wave, so the line current is nearly sinusoidal and in phase with the voltage, and it delivers a DC bus of about 400 V to the isolated converter that follows. At higher powers, interleaved and bridgeless totem-pole PFC stages, made practical by gallium-nitride and silicon-carbide switches, remove the bridge's diode losses and reach 99% efficiency.
+KEY: Key idea. A converter on the grid is judged by the current it draws, not only by the power it delivers. A power-factor corrector makes that current a sine wave in phase with the voltage, so the wiring carries power and not just current.
+H2: 7.3 Three-phase power
+P: Larger loads and every data center take three-phase power. For a balanced load with line-to-line voltage VL and line current IL, the real power is √3 VL IL PF. The three phases' fundamental currents sum to zero in the neutral, but the third harmonics, and all multiples of three, are in phase on all three phases and add: if each phase carries a 30% third harmonic, the neutral carries 90% of the fundamental phase current, and an undersized neutral can overheat. A three-phase inverter or rectifier with an active front end needs a DC link above the peak line-to-line voltage, √2 × 400 = 566 V for a 400 V system, which is one reason 800 V DC links and 1200 V switches are common.
+EQ: P = √3 VL IL PF
+H2: Worked Example 7.2
+WEP: A 100 kW rack row is fed at 400 V three-phase with a power factor of 0.99. Find the line current, and the minimum DC link voltage for an active front end.
+WES: IL = 100,000/(√3 × 400 × 0.99) = 145.8 A per phase. The peak of the line-to-line voltage is √2 × 400 = 566 V, so the DC link must exceed that with margin for voltage tolerance and control, typically 650 to 800 V.
+H2: 7.4 The grid's frequencies and codes
+P: The grid frequency is 60 Hz in the Americas, Korea, and Taiwan; 50 Hz in Europe, China, India, Africa, and Australia; and split in Japan, with eastern Japan at 50 Hz and western Japan at 60 Hz, joined by frequency converters. Equipment that will be sold worldwide must work at both. Inverters that feed the grid must also meet grid codes, which differ by country and do not travel with a converter design: IEEE 1547-2018 in the United States, the EN 50549 series in Europe, and national rules such as VDE-AR-N 4105 in Germany. The codes require inverters to stay connected and support the grid through short voltage and frequency disturbances, called ride-through, to supply or absorb reactive power to help regulate voltage, to reduce real power when frequency rises, and to disconnect cleanly when the grid is lost, preventing an unintentional island that could endanger line workers.
+H2: Worked Example 7.3
+WEP: A 10 kW solar inverter converts at 97.5%. Find its waste. If the grid code requires it to supply reactive power at a power factor of 0.9 while delivering 10 kW, what apparent power must it be rated for?
+WES: The waste is 10 × (1/0.975 − 1) = 0.256 kW, 256 W. At PF 0.9, the apparent power is 10/0.9 = 11.1 kVA, so the inverter must be rated for 11.1 kVA, not 10 kVA: grid support costs semiconductor and filter capacity, even though it carries no extra real power.
+H2: Practice
+PR: Find the power factor of a load with 50% current THD and cos φ = 0.95.
+PR: Find the line current of a 50 kW, 480 V three-phase load at PF 0.95.
+PR: Each phase of a three-phase load carries a 20% third harmonic. What does the neutral carry, as a fraction of the fundamental phase current?
+PR: What DC link voltage is needed, at minimum, for a 480 V three-phase active front end?
+PR: Find the real power available from a 230 V, 10 A circuit at PF 0.65 and at PF 0.99.
+PR: Why must a grid-tied inverter detect islanding?
+ANS: 0.95/√1.25 = 0.850.
+ANS: 50,000/(√3 × 480 × 0.95) = 63.3 A.
+ANS: 3 × 20% = 60%.
+ANS: √2 × 480 = 679 V, plus margin.
+ANS: 1.50 kW and 2.28 kW.
+ANS: If the grid fails while the inverter keeps a local section energized, line workers could be exposed to live conductors they believe are dead, and reconnection could be out of phase; grid codes require disconnection within a short time.

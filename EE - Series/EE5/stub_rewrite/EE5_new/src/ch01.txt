@@ -1,0 +1,33 @@
+H1: Chapter 1. Bits Become a Waveform
+P: A modem has one job: turn a stream of bits into a waveform that a channel can carry, and turn the waveform that arrives back into the same bits. Everything in this book serves that job. The antenna gain is Book 4's, the transmitter's watts are Book 6's, and the test chamber is Book 7's. What belongs here is the waveform itself: how many bits it carries per second, how much spectrum it occupies, how much noise it tolerates, and how it survives a channel that echoes and fades. This chapter introduces the three quantities that tie those together, symbol rate, bandwidth, and signal-to-noise ratio, and the limit that Claude Shannon set on all of them.
+H2: 1.1 Symbols, bits, and bandwidth
+P: A digital transmitter sends symbols, each a choice among M possible waveforms, at a symbol rate Rs. Each symbol carries log₂M bits, so the bit rate is Rs log₂M. The bandwidth a symbol stream occupies is set by its symbol rate and by how sharply its pulses are shaped. Chapter 3 shows that with an ideal pulse the minimum bandwidth is Rs/2 at baseband, or Rs on a carrier, and that practical pulses add a roll-off factor α, typically 0.2 to 0.35.
+EQ: Rb = Rs log₂M,    B ≈ Rs (1 + α)   (passband)
+H2: Worked Example 1.1
+WEP: A link sends 4 million symbols per second with 16 possible symbols each and a roll-off of 0.25. Find the bit rate, the occupied bandwidth on the carrier, and the spectral efficiency.
+WES: Each symbol carries log₂16 = 4 bits, so Rb = 4 × 4 = 16 Mbit/s. The passband bandwidth is 4 MHz × 1.25 = 5 MHz. The spectral efficiency is 16/5 = 3.2 bit/s/Hz. Doubling the bits per symbol to 8, with 256 symbols, would double the bit rate in the same bandwidth, at a cost in signal-to-noise ratio that Chapter 4 calculates: roughly 6 dB for every extra bit per symbol in each of the two quadrature dimensions.
+H2: 1.2 Signal-to-noise ratio and Eb/N0
+P: Noise in a receiver is, to a first approximation, white and Gaussian, with a power spectral density N0 that is set by temperature and the receiver's noise figure; the noise cascade itself is Book 6's subject. Two measures of the signal against it are used. The signal-to-noise ratio SNR = S/(N0B) compares powers in the occupied bandwidth. The energy per bit over noise density Eb/N0 compares the energy spent on each bit with N0, and lets modulations of different bandwidths be compared fairly. They are related through the spectral efficiency.
+EQ: SNR = (Eb/N0) × (Rb / B)
+H2: 1.3 Shannon's limit
+P: Shannon proved in 1948 that a channel of bandwidth B and signal-to-noise ratio SNR can carry information without error at any rate below its capacity, and at no rate above it. The proof says that codes approaching the limit exist; it took until the 1990s for turbo and LDPC codes to come within a fraction of a decibel of it. Rewriting the capacity per unit bandwidth in terms of Eb/N0 shows that no scheme, however slow, can work below Eb/N0 = ln 2, which is −1.59 dB.
+EQ: C = B log₂(1 + SNR)
+H2: Worked Example 1.2
+WEP: A 20 MHz channel has an SNR of 20 dB. Find its Shannon capacity. What SNR would be needed for a spectral efficiency of 10 bit/s/Hz?
+WES: SNR = 100, so C = 20 MHz × log₂101 = 20 × 6.66 = 133 Mbit/s, a spectral efficiency of 6.66 bit/s/Hz. For 10 bit/s/Hz, 1 + SNR = 2¹⁰, so SNR = 1023, or 30.1 dB. The last bits per hertz are expensive: from 6.66 to 10 bit/s/Hz costs 10 dB of SNR, ten times the power. Practical systems run 2 to 4 dB from the limit after coding, and they reach high efficiencies by using several antennas, which Chapter 7 shows multiplies the capacity, rather than by raising SNR alone.
+KEY: Key idea. Bandwidth and signal-to-noise ratio are the two currencies of a link. Capacity grows linearly with bandwidth but only logarithmically with SNR, so each extra bit per hertz costs about 3 dB, and doubling the bandwidth is almost always cheaper than quadrupling the power.
+H2: 1.4 What the rest of the book does
+P: Chapter 2 moves the signal to and from complex baseband and samples it. Chapter 3 shapes the pulses so that symbols do not smear into each other. Chapter 4 arranges symbols into constellations and computes their error rates. Chapter 5 adds the real channel, with multipath and fading. Chapter 6 builds OFDM, the waveform of Wi-Fi, 4G, and 5G. Chapter 7 adds coding and multiple antennas. Chapter 8 places it all in the 2026 band plan and in the software-defined radio that can be programmed to receive it. The digital signal processing is introduced as it is needed; Lyons's Understanding Digital Signal Processing is the reference for those who want it whole.
+H2: Practice
+PR: A link uses 64 possible symbols at 10 Msymbol/s with α = 0.2. Find the bit rate and occupied bandwidth.
+PR: Find the Shannon capacity of a 5 MHz channel at an SNR of 10 dB.
+PR: A system runs at 2 bit/s/Hz with Eb/N0 = 8 dB. Find its SNR in decibels.
+PR: What SNR is needed for 6 bit/s/Hz at the Shannon limit?
+PR: Find the smallest Eb/N0 at which any error-free communication is possible.
+PR: Explain in one or two sentences why doubling a link's bandwidth is usually a better way to double its capacity than raising its power.
+ANS: Rb = 10 × 6 = 60 Mbit/s; B = 10 MHz × 1.2 = 12 MHz.
+ANS: C = 5 MHz × log₂11 = 5 × 3.46 = 17.3 Mbit/s.
+ANS: SNR = 8 dB + 10 log₁₀2 = 8 + 3.0 = 11.0 dB.
+ANS: SNR = 2⁶ − 1 = 63, or 18.0 dB.
+ANS: Eb/N0 = ln 2 = 0.693, or −1.59 dB.
+ANS: Capacity grows in proportion to bandwidth but only with the logarithm of SNR, so at high SNR doubling the capacity by power alone requires roughly squaring the SNR, far more than doubling it.

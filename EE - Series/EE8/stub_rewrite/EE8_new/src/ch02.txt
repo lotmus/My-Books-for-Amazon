@@ -1,0 +1,35 @@
+H1: Chapter 2. The Linear Regulator
+P: The simplest way to turn a higher voltage into a lower one is to drop the difference across a transistor that a feedback loop controls. That is a linear regulator, and the low-dropout version, the LDO, is the most common power-management circuit in electronics: nearly every chip, sensor, and radio has one or several. It is quiet, small, and cheap, and its efficiency is fixed by its input and output voltages. This chapter derives that efficiency, sets out the specifications that matter, dropout, power-supply rejection, and noise, and explains the stability question that every LDO designer and user must face.
+H2: 2.1 The controlled resistor
+P: An LDO is an error amplifier comparing a fraction of the output with a reference, driving a pass transistor between input and output. The pass device acts as a variable resistor that drops whatever voltage is needed to hold the output constant. The load current flows through it, plus a small quiescent current for the control circuit, so the efficiency can never exceed the voltage ratio, and the dissipation is the voltage difference times the current.
+EQ: η ≈ Vout / Vin,    Pdiss ≈ (Vin − Vout) Iload
+H2: Worked Example 2.1
+WEP: An LDO supplies 0.5 A at 1.8 V from a 3.3 V rail. Find its efficiency and dissipation. Its package has a junction-to-ambient thermal resistance of 60 °C/W in 25 °C air. Find the junction temperature, and repeat for a small package of 200 °C/W.
+WES: η = 1.8/3.3 = 54.5%, and the dissipation is (3.3 − 1.8) × 0.5 = 0.75 W. In the 60 °C/W package the junction reaches 25 + 0.75 × 60 = 70 °C, which is acceptable. In the 200 °C/W package it would reach 175 °C, beyond the usual 125 to 150 °C limit. The regulator's efficiency is not the problem in this case; its heat is, and the remedy is either a better package or a switching converter ahead of it.
+H2: 2.2 Dropout
+P: The dropout voltage is the smallest input-to-output difference at which the regulator still regulates. With a PMOS or PNP pass device, which can be driven fully on, dropout is the on-resistance times the load current, or the saturation voltage, typically 100 to 300 mV. An NMOS pass device needs its gate above the output and therefore a charge pump or a separate bias rail, but it has lower resistance per area. A low dropout lets the regulator run close to its input, which raises its efficiency and lets a battery be used further into its discharge.
+H2: Worked Example 2.2
+WEP: A PMOS pass device has an on-resistance of 0.3 Ω. Find the dropout at 0.5 A. A lithium cell powers a 3.3 V LDO; at what cell voltage does the output fall out of regulation?
+WES: The dropout is 0.3 × 0.5 = 150 mV, so regulation is lost when the cell falls below 3.3 + 0.15 = 3.45 V. A lithium-ion cell spends much of its discharge between about 3.6 and 3.7 V, but it is below 3.45 V for the final part, so a 3.3 V system on one cell often uses a buck-boost converter, Chapter 4's subject, rather than an LDO.
+H2: 2.3 Power-supply rejection and noise
+P: An LDO's error amplifier also rejects ripple on its input. The power-supply rejection ratio is the ratio of input ripple to output ripple, in decibels, and it is high at low frequencies, where the loop gain is large, typically 60 to 80 dB. It falls at higher frequencies as the loop gain falls, often to 20 to 40 dB at 1 MHz, where a switching converter's ripple lies. The LDO's own output noise, mainly the reference's noise multiplied by the feedback ratio, matters for radios, converters, and clocks: a data converter's reference or a PLL's supply often needs a few microvolts rms, and dedicated low-noise LDOs filter their references to achieve it.
+EQ: Vripple,out = Vripple,in × 10^(−PSRR/20)
+H2: Worked Example 2.3
+WEP: A switching converter delivers 3.3 V with 100 mV of ripple to an LDO. Find the output ripple if the LDO's PSRR is 60 dB at the ripple frequency, and if it is 30 dB.
+WES: At 60 dB, the ripple is divided by 1000, giving 0.1 mV. At 30 dB, it is divided by 31.6, giving 3.16 mV. The same LDO can be excellent at a 100 kHz ripple and nearly useless at 2 MHz. A ferrite bead and capacitor ahead of the LDO, or a switcher running at a frequency where the LDO's rejection is high, solve the problem.
+KEY: Key idea. An LDO trades efficiency for quietness. Its efficiency is Vout/Vin, fixed by the voltages; its value is in rejection and low noise, which a switching converter cannot provide alone.
+H2: 2.4 Stability
+P: The LDO's feedback loop has a pole from its error amplifier and a pole at its output, set by the load and the output capacitor, which moves with the load current. Older LDOs with PNP pass devices needed an output capacitor with a specific equivalent series resistance, because the zero it creates gave the phase margin; a low-ESR ceramic capacitor could make them oscillate. Most modern LDOs are internally compensated to be stable with ceramic capacitors, and their datasheets give the allowed range of capacitance and ESR. Using a larger capacitor than the datasheet allows, or placing a long trace between the LDO and its capacitor, can still erode the margin, and Book 2's loop analysis applies directly.
+H2: Practice
+PR: Find the efficiency of a 5 V to 3.3 V LDO.
+PR: An LDO drops 12 V to 5 V at 100 mA. Find its dissipation.
+PR: For the previous problem, what junction-to-ambient thermal resistance keeps the junction below 125 °C in 50 °C air?
+PR: An LDO has a dropout of 200 mV at full load. What is the lowest input for a 2.5 V output?
+PR: A 1 MHz ripple of 20 mV meets an LDO with 25 dB of PSRR at that frequency. Find the output ripple.
+PR: Why do older LDOs sometimes oscillate with ceramic output capacitors?
+ANS: 3.3/5 = 66%.
+ANS: (12 − 5) × 0.1 = 0.7 W.
+ANS: (125 − 50)/0.7 = 107 °C/W or lower.
+ANS: 2.7 V.
+ANS: 20 × 10^(−25/20) = 1.12 mV.
+ANS: Their compensation relied on the zero formed by the output capacitor's ESR; a ceramic capacitor has very low ESR, so the zero moves to a high frequency and the loop loses phase margin.

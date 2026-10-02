@@ -142,7 +142,7 @@ Show that Π̂ has the properties a renormalized quantity must have. At q² = 0 
 
 From here on write Q² = −q² > 0, the spacelike momentum transfer of a scattering experiment. When Q² ≪ m², use ln(1+ε) ≈ ε and ∫₀¹ x²(1−x)² dx = 1/30:
 
-$$ Π̂ ≈ (2α/π) (Q²/m²) ∫₀¹ dx x²[1−x]² = (α/15π) Q²/m²
+$$ Π̂ ≈ (2α/π) (Q²/m²) ∫₀¹ dx x²(1−x)² = (α/15π) Q²/m²
 
 The correction vanishes as Q² → 0, and it is suppressed both by α and by Q²/m². At the momentum of an electron in hydrogen, Q ≈ αm, the correction is (α/15π)α² ≈ 8×10⁻⁹. Small as it is, its Fourier transform, the Uehling potential, shifts atomic s-states measurably, which is where Lesson 77 takes it up.
 

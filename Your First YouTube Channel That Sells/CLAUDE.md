@@ -26,11 +26,14 @@ their own uncommitted work. Do not force-push `main`. Do not merge
 
 ## Project facts
 
-- **Nine chapters, order fixed** in `build_docx.py`. Read that list before
-  adding a chapter. As of 30 September 2026 the order is: Sell One Thing;
-  The Click Is the Whole Business; Nobody Can Tell What It Cost; The Videos
-  That Do the Selling; Where the Money Actually Comes From; Six Weeks to a
-  Live Offer; Say This; The Channel Workbook; When Nothing Sells. The Word
+- **Twelve chapters, order fixed** in `build_docx.py`. Read that list before
+  adding a chapter. Chapters 1–9 (order fixed 30 September 2026): Sell One
+  Thing; The Click Is the Whole Business; Nobody Can Tell What It Cost; The
+  Videos That Do the Selling; Where the Money Actually Comes From; Six Weeks
+  to a Live Offer; Say This; The Channel Workbook; When Nothing Sells.
+  Appended 1 October 2026 as a “second pass” without renumbering 1–9:
+  10 Record It So They Stay; 11 Read the Count; 12 The Rules That Can Close
+  the Shop. The Word
   file in this folder is rebuilt from those files. The job of the book is
   one offer a stranger can buy.
 - The click chapter is chapter 2, not chapter 1. The cheap-production

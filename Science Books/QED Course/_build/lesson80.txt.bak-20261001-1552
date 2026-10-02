@@ -1,0 +1,140 @@
+TITLE: Generating Functionals
+TAGLINE: Correlators as functional derivatives of Z[J]=∫ Dφ exp(iS+iJφ), recovering time-ordered products without writing an operator vacuum
+NUM: 80
+NEXT: Lesson 81 Legendre-transforms W[J]=−i log Z[J] to the effective action Γ[φ] that generates one-particle-irreducible diagrams.
+
+# How to use this lesson
+
+Lesson 79 defined Z=∫Dφ e^{iS}. Adding a source J(x) coupled to φ makes Z a functional of J. Differentiating with respect to J brings down fields, so time-ordered correlators become functional derivatives at J=0. For a free field the integral is Lesson 2's Gaussian and the second derivative is Lesson 45's propagator. Expect five to seven hours.
+
+## Learning objectives
+
+- Write Z[J]=∫Dφ exp(iS[φ]+i∫d⁴x Jφ).
+
+- Obtain ⟨Tφ(x)φ(y)⟩=−(1/Z) δ²Z/δJ(x)δJ(y) at J=0, up to the i-counting of this course's Minkowski convention.
+
+- Complete the square in a free theory and recover Z[J]=Z[0] exp(i/2 ∫J Δ J).
+
+- Define W[J]=−i log Z[J] as the generator of connected correlators.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| Z[J] | Path integral in the presence of a source J |
+| Δ(x−y) | Free Feynman propagator, inverse of the kinetic operator |
+| W[J] | −i log Z[J], connected generator |
+
+# 1 Coupling a source
+
+FIG:
+   J(x) ---- φ(x) ---- Δ ---- φ(y) ---- J(y)     completing the square
+                                                    produces a J–Δ–J line
+ENDFIG
+
+Promote Lesson 79's vacuum integral by adding i∫Jφ to the exponent:
+
+$$ Z[J] = ∫ Dφ  exp( i S[φ] + i ∫ d⁴x J(x) φ(x) )
+
+Each derivative δ/δJ(x) brings down a factor of iφ(x) from the exponent. Two derivatives, then J→0, produce the two-point function. With this course's iS convention,
+
+$$ ⟨ T φ(x) φ(y) ⟩ = − (1 / Z[0])  δ²Z / δJ(x) δJ(y) |_{J=0}
+
+the extra minus coming from two factors of i. Higher correlators follow the same pattern. This is an equivalent definition of Lesson 45's time-ordered product, not a new object.
+
+### Worked example 1
+
+What is δZ/δJ(x) at J=0? It is i Z[0] ⟨φ(x)⟩, which vanishes in the free theory and in QED by Lesson 30's charge conjugation (or by the oddness of the Gaussian). The first nontrivial derivative is the second.
+
+# 2 Completing the square
+
+For a free scalar, S[φ]=½∫φ K φ with K=−(□+m²), so
+
+$$ S[φ] + ∫ J φ = ½ ∫ (φ + K⁻¹ J) K (φ + K⁻¹ J) − ½ ∫ J K⁻¹ J
+
+after an integration by parts. Shifting φ (the measure Dφ is translation invariant for a linear shift) leaves
+
+$$ Z[J] = Z[0]  exp( i/2 ∫ J Δ J )
+
+with Δ=K⁻¹ the Feynman propagator of Lesson 45, iε included so the Gaussian converges (Lesson 66's Wick rotation). Differentiating twice recovers Δ(x−y)=⟨Tφ(x)φ(y)⟩_free.
+
+# 3 Connected correlators
+
+Z generates all correlators, including products of disjoint clusters (vacuum bubbles on the side). The generator of connected correlators is
+
+$$ W[J] = − i log Z[J]
+
+because the logarithm subtracts the disconnected pieces, exactly as log of a product of independent Gaussians becomes a sum. In the free theory, W[J]=½∫J Δ J, which is already connected: a single line joining two sources.
+
+### Worked example 2
+
+Why do scattering formulae use connected correlators? An extra vacuum bubble multiplies every amplitude by the same Z[0] factor and cancels in the normalized S-matrix of Lesson 50. W builds that cancellation in from the start.
+
+# 4 QED
+
+The same construction applies with J_μ coupled to A^μ and Grassmann sources coupled to ψ, ψ̄. Completing the square in the photon Gaussian recovers D_μν of Lesson 47, in whatever gauge Lesson 70 chose. Completing the square in the fermion Gaussian recovers S_F of Lesson 46, with a minus sign for a closed loop from the Grassmann determinant, matching Lesson 62.
+
+# Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used |
+| Z[J]=∫Dφ e^{iS+iJφ} | Lesson 81's Legendre transform |
+| Z_free=Z[0] exp(i/2 JΔJ) | Recovered propagator |
+| W=−i log Z | Connected diagrams, 1PI in Lesson 81 |
+
+# Summary
+
+1. A source J in the path-integral exponent makes Z a functional of J.
+
+2. Correlators are functional derivatives of Z at J=0.
+
+3. A free Gaussian completes the square and yields exp(i/2 JΔJ).
+
+4. W=−i log Z generates connected correlators.
+
+5. In QED the same steps recover S_F, D_μν, and the fermion-loop minus sign.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Write Z[J] from memory. |
+| 2 | Complete the square for S=½∫φKφ+∫Jφ and identify Δ=K⁻¹. |
+| 3 | Differentiate the free Z[J] twice and recover Δ. |
+| 4 | Why include iε in K? |
+| 5 | Define W[J] and state what it generates. |
+| 6 | What does W reduce to in a free theory? |
+| 7 | How does a Grassmann Gaussian produce Lesson 62's minus sign? |
+| 8 | Is ⟨φ⟩=δW/δJ or δZ/δJ? Distinguish the two. |
+| 9 | Connect this lesson to Lesson 2's ordinary Gaussian. |
+| 10 | Challenge: write Z[J] for two decoupled fields φ₁, φ₂ and show W=W₁+W₂. |
+
+# Solutions
+
+**1.** Z[J]=∫Dφ exp(iS[φ]+i∫Jφ).
+
+**2.** Shift φ→φ−K⁻¹J; the cross term cancels; the remainder is −½∫J K⁻¹ J. Then Δ=K⁻¹.
+
+**3.** Z=Z[0] exp(i/2 JΔJ) ⇒ δ²Z/δJδJ |_{0} = iΔ Z[0], and Section 1's i-counting converts this to ⟨Tφφ⟩=Δ.
+
+**4.** Without iε the Minkowski Gaussian is oscillatory, not damped. iε selects the Feynman contour, equivalent to Lesson 66's Wick rotation.
+
+**5.** W=−i log Z; connected correlators.
+
+**6.** W=½∫JΔJ.
+
+**7.** ∫DψDψ̄ exp(−ψ̄ S_F⁻¹ ψ)=det(S_F⁻¹), and a loop is a derivative of that log det, carrying a minus relative to a bosonic determinant.
+
+**8.** δZ/δJ = iZ ⟨φ⟩_J, so ⟨φ⟩_J=−i (1/Z) δZ/δJ=δW/δJ. The mean field is a derivative of W, not of Z.
+
+**9.** Completing the square is ∫dx exp(−ax²/2+jx)=√(2π/a) exp(j²/2a), Lesson 2, with a→K and j→iJ.
+
+**10.** Z=Z₁Z₂, so log Z=log Z₁+log Z₂, hence W=W₁+W₂: connected correlators do not mix decoupled fields.
+
+# Mastery checklist
+
+- I can write Z[J] and obtain correlators as δ/δJ.
+
+- I can complete the square and recover the propagator.
+
+- I can define W=−i log Z and say why scattering uses it.

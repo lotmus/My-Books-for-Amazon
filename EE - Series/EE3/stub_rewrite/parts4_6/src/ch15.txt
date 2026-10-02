@@ -1,0 +1,44 @@
+PART: Part V. CMOS as a Chip
+PARTP: Part III ended with a single transistor below 20 nm. A processor holds tens of billions of them, and at that scale the questions change. How fast does a gate switch, where does the power go, and why does a chip that is doing nothing still get warm? How does a transistor remember a bit? What breaks a chip in the field? This part answers those questions with the device equations already derived, and stops where layout, packaging, and system power begin, which are Books 9 and 8.
+H1: Chapter 15. The CMOS Inverter: Threshold, Delay, and Power
+P: Every digital gate is a variation on one circuit: an NMOS transistor pulling the output to ground and a PMOS transistor pulling it to the supply, with their gates tied together as the input. When the input is high the NMOS conducts and the PMOS is off; when it is low the reverse. In either steady state one device is off, so no current flows from supply to ground except leakage. That property, almost zero static power for a gate holding its state, is why CMOS displaced every other logic family. This chapter puts numbers on the three things that remain: where the gate switches, how long it takes, and the power it spends doing so.
+H2: 15.1 The switching threshold
+P: The inverter's switching threshold VM is the input voltage at which the output equals the input, with both transistors in saturation and carrying the same current. Setting the two square-law currents equal shows that VM sits at mid-supply when the PMOS is made stronger by the ratio of the mobilities, because holes move more slowly than electrons.
+EQ: VM = VDD/2 when (W/L)p / (W/L)n = μn/μp   (with equal |Vth|)
+H2: Worked Example 15.1
+WEP: Using the declared working mobilities μn = 1000 and μp = 480 cm²/V·s, find the PMOS-to-NMOS width ratio for a symmetrical inverter with equal channel lengths.
+WES: (W/L)p/(W/L)n = 1000/480 = 2.08. The PMOS is drawn about twice as wide as the NMOS. In short-channel devices velocity saturation narrows the difference, because both carriers approach similar saturated velocities, and in FinFET and nanosheet processes strain engineering brings hole and electron drive close enough that ratios near 1 to 1.5 are common. The principle, size the pull-up and pull-down to equal strength, does not change.
+H2: 15.2 Delay
+P: A gate's delay is the time it takes to charge or discharge the capacitance it drives, CL, which is the input capacitance of the gates it feeds plus the wiring and its own drain capacitance. To first order the transistor delivers a constant on-current Ion while the output swings halfway, so the propagation delay is the charge needed for half the swing divided by that current.
+EQ: tp ≈ CL VDD / (2 Ion)
+H2: Worked Example 15.2
+WEP: A minimum inverter in a modern process drives CL = 1.0 fF at VDD = 0.8 V with Ion = 50 µA. Find its propagation delay.
+WES: tp = 1.0 fF × 0.8 V/(2 × 50 µA) = 8 ps. Real gates drive more than one input and a length of wire, so a standard benchmark is the delay of an inverter driving four copies of itself, the fanout-of-four (FO4) delay. A clock period of 0.3 ns corresponds to only a few tens of FO4 delays, and that number, not the transistor alone, sets how much logic fits between two flip-flops.
+H2: 15.3 Dynamic power
+P: Each time the output rises, the supply delivers a charge CL VDD at voltage VDD, an energy CL VDD². Half of it is stored on the capacitor and half is dissipated in the PMOS. When the output falls, the stored half is dissipated in the NMOS. Each full cycle of the output therefore costs CL VDD², independent of the transistors' resistance. A chip's switched capacitance C, its clock frequency f, and the activity factor α, the fraction of nodes that make a full transition per clock cycle, give the familiar power equation.
+EQ: Pdyn = α C VDD² f
+H2: Worked Example 15.3
+WEP: A logic block contains one million gates, each loading its output with 1 fF. The activity factor is 0.1, VDD = 0.8 V, and the clock is 2 GHz. Find the dynamic power. Then find the effect of lowering VDD to 0.6 V, if the threshold voltage is 0.3 V and the on-current follows (VDD − Vth)^1.3.
+WES: C = 10⁶ × 1 fF = 1 nF. Pdyn = 0.1 × 10⁻⁹ × 0.64 × 2 × 10⁹ = 0.128 W. At 0.6 V the energy per transition falls by (0.6/0.8)² = 0.56. Delay scales as VDD/(VDD − Vth)^1.3, which rises by a factor (0.6/0.3^1.3)/(0.8/0.5^1.3) = 1.46, so the clock must fall to 2/1.46 = 1.37 GHz. Power at the new maximum clock is 0.128 × 0.56/1.46 = 0.049 W, 38% of the original, for 69% of the speed. This trade, slower and much cooler, is why chips run many slower cores rather than one fast one, and why voltage is the first knob in every power-management scheme.
+KEY: Key idea. Dynamic energy is CV² per transition, so voltage is worth twice as much as capacitance. Lowering the supply saves energy quadratically but slows the gate as VDD approaches Vth.
+H2: 15.4 Leakage power
+P: Chapter 10 showed that a MOSFET below threshold still conducts, with a current that falls by a decade for every subthreshold swing S, 60 mV at the ideal limit and 65–80 mV in practice. An "off" transistor at VGS = 0 therefore leaks a current proportional to 10^(−Vth/S). Every off transistor on a chip leaks at once, and the total is a static power that flows whether the chip is computing or idle.
+EQ: Ioff ∝ 10^(−Vth / S),    Pleak = VDD × Σ Ioff
+H2: Worked Example 15.4
+WEP: A chip has one billion transistors, each leaking 1 nA at VDD = 0.8 V. Find the static power. Then find how it changes if Vth is lowered by 70 mV to recover speed, with S = 70 mV/decade.
+WES: Pleak = 10⁹ × 1 nA × 0.8 V = 0.8 W, before the chip does any work. Lowering Vth by one subthreshold swing raises every off-current tenfold, to 8 W. Leakage also roughly doubles for every 10 to 20 °C, which couples it to the cooling. Chips therefore use several threshold flavors: fast, leaky devices only on the critical paths and slow, tight ones everywhere else, and they cut the supply to idle blocks altogether (power gating). The fin and the nanosheet of Chapter 11 earned their place by restoring S toward 60 mV/decade, which allows a lower Vth for the same leakage.
+H2: 15.5 From gate to chip
+P: The same three equations scale to a full design. Delay sets the clock, dynamic power sets the cooling, and leakage sets the idle power and the battery life. Static timing analysis computes path delays from characterized gate models; power analysis sums α C V² f from simulated activity. Both rest on transistor models supplied with the process design kit, and below 20 nm the kit outranks any textbook value, including the hand numbers of this chapter.
+H2: Practice
+PR: With μn/μp = 2.5, what PMOS-to-NMOS width ratio gives a symmetrical inverter?
+PR: A gate drives 3 fF at VDD = 0.75 V with Ion = 60 µA. Find tp.
+PR: A block has C = 5 nF of switched capacitance, α = 0.15, VDD = 0.9 V, and f = 1.5 GHz. Find Pdyn.
+PR: What fraction of dynamic energy per transition is saved by lowering VDD from 1.0 V to 0.7 V at the same frequency?
+PR: A chip leaks 0.5 W with S = 75 mV/decade. Estimate its leakage if Vth is raised by 150 mV.
+PR: Explain in one or two sentences why a CMOS gate's dynamic energy per transition does not depend on the on-resistance of its transistors.
+ANS: (W/L)p/(W/L)n = 2.5.
+ANS: tp = 3 fF × 0.75 V/(2 × 60 µA) = 18.8 ps.
+ANS: 0.15 × 5 × 10⁻⁹ × 0.81 × 1.5 × 10⁹ = 0.91 W.
+ANS: (0.7/1.0)² = 0.49, so 51% is saved.
+ANS: 150/75 = 2 decades, so leakage falls to 0.5/100 = 5 mW.
+ANS: Charging a capacitor to VDD through any resistance dissipates ½CV² in that resistance, because a smaller resistance carries a larger current for a shorter time and the product is fixed; the resistance sets the speed, not the energy.

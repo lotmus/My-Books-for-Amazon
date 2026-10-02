@@ -1,0 +1,36 @@
+H1: Chapter 6. Receiver Noise and Dynamic Range
+P: A transmitter's job ends at the antenna; a receiver's begins there, with a signal that may be a billionth of a billionth of a watt. Whether that signal can be recovered depends on how much noise the receiver adds to it, and whether the receiver survives the strong signals that arrive alongside. This chapter defines the noise figure and noise temperature, derives the cascade formula that shows why the first amplifier matters most, and sets the receiver's dynamic range between its noise floor and its intercept point. Book 5 used the resulting sensitivity; this is where it comes from. The receiver belongs in this book because it shares the radio, the antenna, the duplexer, and often the heat with the transmitter.
+H2: 6.1 Noise figure and noise temperature
+P: A resistor at temperature T delivers available noise power kTB into a matched load, which at the reference temperature T0 = 290 K is −174 dBm in each hertz. A two-port's noise factor F is the ratio of the input SNR to the output SNR when the source is at T0; the noise figure is NF = 10 log₁₀F. Equivalently, the two-port adds noise as if its input were connected to an extra resistor at the effective noise temperature Te = T0(F − 1). A 3 dB noise figure corresponds to 288.6 K, almost exactly T0; a 1 dB noise figure to 75.1 K; and 0.5 dB to 35.4 K. Noise temperature is the more natural measure for low-noise systems such as satellite ground stations and radio telescopes, where the sky itself may be at only a few tens of kelvin.
+EQ: Te = T0 (F − 1),   T0 = 290 K,   kT0 = −174 dBm/Hz
+H2: 6.2 The cascade
+P: In a chain of stages, each stage's noise is divided by the total gain ahead of it when referred to the input. The result, Friis's formula for noise factor, shows that once the first stage has enough gain, the later stages hardly matter, and that any loss ahead of the first amplifier adds directly to the noise figure. A passive loss of L dB at T0 has a noise figure of L dB.
+EQ: F = F1 + (F2 − 1)/G1 + (F3 − 1)/(G1G2) + …
+H2: Worked Example 6.1
+WEP: A receiver has an LNA with NF 1 dB and gain 15 dB, a filter with 2 dB loss, a mixer with NF 10 dB and gain 8 dB, and an IF amplifier with NF 4 dB and gain 20 dB. Find the cascade noise figure. Repeat with the filter ahead of the LNA.
+WES: In linear terms the LNA contributes F1 = 1.259. The filter contributes (1.585 − 1)/31.6 = 0.018, the mixer (10 − 1)/(31.6 × 0.631) = 0.451, and the IF amplifier 0.0012. The total is 1.740, a noise figure of 2.41 dB. With the filter first, its 2 dB adds directly and the LNA's gain no longer shields the mixer as well, giving 3.91 dB. The filter-first arrangement costs 1.5 dB of sensitivity, and it is used anyway when strong out-of-band signals would otherwise overload the LNA: the trade between noise and survival is the central decision of receiver design.
+H2: Worked Example 6.2
+WEP: The same receiver sits at the bottom of a mast with 3 dB of cable between the antenna and the LNA. Find the noise figure, and the noise figure with the LNA moved to the top of the mast.
+WES: With the cable first, its 3 dB adds to the cascade: 5.41 dB. With the LNA at the top, the cable follows the LNA's 15 dB of gain and the cascade is 3.52 dB. The tower-mounted amplifier recovers 1.9 dB. The transmit side of Chapter 5 made the same argument for power; the remote radio head serves both.
+KEY: Key idea. The first stage sets the noise figure. Loss ahead of the first amplifier adds decibel for decibel, and gain in the first stage hides the noise of everything after it.
+H2: 6.3 Sensitivity and dynamic range
+P: The noise floor of a receiver is −174 dBm/Hz + 10 log₁₀B + NF. Sensitivity adds the SNR the demodulator needs, as in Book 5. The upper end of the receiver's range is set by distortion: two strong signals generate third-order products, Chapter 4's mechanism, and they become a problem when they rise to the noise floor. The spurious-free dynamic range is the range of input levels over which the products remain below the floor. Two-thirds appears because the products rise 3 dB per decibel while the signals rise one.
+EQ: SFDR = (2/3) (IIP3 − Nfloor)
+H2: Worked Example 6.3
+WEP: The receiver of Worked Example 6.1, with a 2.41 dB noise figure, uses a 1 MHz channel and has an input third-order intercept of −10 dBm. Find the noise floor and the spurious-free dynamic range.
+WES: The floor is −174 + 60 + 2.41 = −111.6 dBm. SFDR = (2/3)(−10 + 111.6) = 67.7 dB. Raising the LNA gain lowers the noise figure but lowers the cascade's IIP3 too, because every later stage sees bigger signals; the designer sets the gain to balance the two. A phone receiver faces a further limit: its own transmitter, a few tens of megahertz away, leaks through the duplexer and can desensitize the receiver, which is why duplexer isolation of 50 dB or more is standard.
+H2: 6.4 Blocking and reciprocal mixing
+P: A strong signal outside the channel can also harm reception through the local oscillator. The oscillator's phase noise, Chapter 7's subject, spreads the oscillator's power around its nominal frequency, and a strong blocker mixes with that skirt into the wanted channel. This reciprocal mixing sets a floor that no amount of low-noise gain can remove: the blocker power, plus the phase noise in dBc/Hz at the blocker's offset, plus 10 log₁₀B.
+H2: Practice
+PR: Find the noise temperature corresponding to a 2 dB noise figure.
+PR: A two-stage chain has an LNA with NF 0.8 dB and gain 20 dB, then a stage with NF 12 dB. Find the cascade noise figure.
+PR: Find the noise floor of a 20 MHz receiver with a 2 dB noise figure.
+PR: Find the SFDR for the receiver of the previous problem with an IIP3 of 0 dBm.
+PR: A blocker at −30 dBm meets oscillator phase noise of −120 dBc/Hz at its offset. Find the reciprocal-mixing noise in a 1 MHz channel.
+PR: Why does a filter placed ahead of the LNA raise the noise figure by its full loss?
+ANS: 290 × (1.585 − 1) = 170 K.
+ANS: F = 1.202 + (15.85 − 1)/100 = 1.351, or 1.31 dB.
+ANS: −174 + 73.0 + 2 = −99.0 dBm.
+ANS: (2/3)(0 + 99.0) = 66.0 dB.
+ANS: −30 − 120 + 60 = −90 dBm.
+ANS: A passive loss at T0 attenuates the signal but delivers the same thermal noise power kT0B, so the SNR falls by the loss, and nothing before it provides gain to hide it.

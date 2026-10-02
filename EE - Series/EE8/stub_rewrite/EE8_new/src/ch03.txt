@@ -1,0 +1,31 @@
+H1: Chapter 3. The Buck Converter
+P: A switching converter avoids the linear regulator's loss by never operating its transistor as a resistor. The switch is either fully on, with little voltage across it, or fully off, with no current through it, and an inductor and capacitor smooth the resulting pulses into a steady output. The buck converter steps a voltage down. It is the most widely used switching converter, from the regulators beside a processor to the chargers in phones, and it introduces the ideas of duty cycle, ripple, and loss that every other topology reuses. Robert Erickson and Dragan Maksimović's Fundamentals of Power Electronics is the standard reference for its analysis.
+H2: 3.1 Duty cycle and volt-second balance
+P: In a synchronous buck, a high-side switch connects the inductor to the input for a fraction D of each period, and a low-side switch connects it to ground for the rest. In steady state the inductor's average voltage must be zero, or its current would grow without limit. During the on-time it sees Vin − Vout, during the off-time −Vout; balancing the two gives the output voltage. The inductor current rises and falls by a ripple ΔI each cycle, set by the inductance and switching frequency, and the output capacitor absorbs the ripple, leaving a small voltage ripple.
+EQ: Vout = D Vin,    ΔI = (Vin − Vout) D / (fsw L),    ΔV ≈ ΔI / (8 fsw C) + ΔI × ESR
+H2: Worked Example 3.1
+WEP: A buck converts 12 V to 1.0 V at 20 A, switching at 500 kHz with a 0.47 µH inductor and 200 µF of ceramic capacitance with 1 mΩ of total ESR. Find the duty cycle, the inductor ripple, and the output ripple.
+WES: D = 1.0/12 = 0.0833, an on-time of only 167 ns. ΔI = (12 − 1.0) × 0.0833/(500 × 10³ × 0.47 × 10⁻⁶) = 3.90 A, 19.5% of the load current, within the usual 20 to 40% guideline. The capacitive ripple is 3.90/(8 × 500 × 10³ × 200 × 10⁻⁶) = 4.9 mV and the ESR term is 3.9 mV; the two are out of phase, so the total is somewhat less than their sum, roughly 6 mV peak to peak, well under 1% of the output.
+H2: 3.2 Where the losses are
+P: The buck's losses fall into a few categories. Conduction loss is the rms current squared times the resistance of each switch, weighted by the fraction of time it conducts, plus the inductor's winding resistance. Switching loss occurs during each transition, when the high-side switch briefly carries current with voltage across it; a simple estimate is ½VinI(tr + tf)fsw. Gate-drive loss and the reverse-recovery or dead-time loss of the low-side switch add more. Conduction loss favors larger switches, and switching loss favors smaller ones, so each design has an optimum.
+H2: Worked Example 3.2
+WEP: For the converter of Example 3.1, the high-side switch has 2 mΩ, the low-side 1 mΩ, and the inductor 1 mΩ. The transition times total 10 ns. Estimate the conduction, switching, and inductor losses, and the efficiency.
+WES: The rms inductor current is √(20² + 3.90²/12) = 20.03 A. The high-side switch conducts for 8.3% of the time and the low-side for 91.7%, so conduction loss is 20.03² × (0.0833 × 0.002 + 0.917 × 0.001) = 0.43 W. The switching loss is ½ × 12 × 20 × 10 × 10⁻⁹ × 500 × 10³ = 0.60 W, and the inductor loses 20.03² × 0.001 = 0.40 W. The total is 1.44 W for 20 W out, an efficiency of 93.3%. At 0.8 V and higher currents, the same converter loses more of its efficiency, which is why processor regulators use many phases in parallel, each carrying 30 to 60 A.
+KEY: Key idea. A switching converter is efficient because its switches are never resistors for long. Its losses are conduction, which grows with current squared, and switching, which grows with voltage, current, and frequency.
+H2: 3.3 The hot loop
+P: In a buck, the input capacitor, the high-side switch, and the low-side switch form a loop through which the current switches abruptly on every transition. The loop's inductance, even a nanohenry, generates a voltage spike L di/dt that adds to the switches' stress and radiates. A 20 A change in 2 ns across 1 nH gives 10 V, a large overshoot on a 12 V input. The first rule of buck layout is therefore to make this hot loop as small as possible, with the input capacitor placed directly across the switches and the return path on the adjacent layer. The output side, where current flows smoothly through the inductor, is far less critical. Emissions from the hot loop are measured in Book 7's chamber; this book's job is to keep the loop small enough that they do not arise.
+H2: 3.4 Choosing the frequency
+P: A higher switching frequency allows a smaller inductor and capacitor for the same ripple, and a faster response to load steps, at the cost of more switching loss. Silicon buck converters typically switch at 300 kHz to 2 MHz. Gallium-nitride switches, with lower capacitance and charge, allow several megahertz at the same loss. Converters for processors often switch near 1 MHz per phase and interleave many phases, so that the total ripple frequency is high while each phase switches slowly enough to stay efficient.
+H2: Practice
+PR: Find the duty cycle of a buck from 48 V to 12 V.
+PR: A buck converts 5 V to 1.2 V at 1 MHz with a 1 µH inductor. Find the inductor ripple current.
+PR: For the converter of the previous problem with 22 µF of ideal capacitance, find the capacitive output ripple.
+PR: Choose the inductance for a 12 V to 3.3 V, 10 A buck at 400 kHz with 30% ripple.
+PR: Estimate the switching loss of a 12 V, 10 A buck at 400 kHz with 8 ns of total transition time.
+PR: Why must the input capacitor of a buck be placed as close as possible to the switches?
+ANS: D = 12/48 = 0.25.
+ANS: D = 0.24, ΔI = 3.8 × 0.24/(10⁶ × 10⁻⁶) = 0.91 A.
+ANS: 0.912/(8 × 10⁶ × 22 × 10⁻⁶) = 5.2 mV.
+ANS: ΔI = 3 A and D = 0.275, so L = 8.7 × 0.275/(400 × 10³ × 3) = 2.0 µH.
+ANS: ½ × 12 × 10 × 8 × 10⁻⁹ × 400 × 10³ = 0.19 W.
+ANS: The input capacitor completes the hot loop that carries the abruptly switched current; any extra inductance in that loop produces voltage spikes and radiated emissions in proportion to L di/dt.

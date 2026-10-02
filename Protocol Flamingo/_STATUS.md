@@ -4,13 +4,30 @@ Last updated: 2026-10-01. The live book is the expanded manuscript, not the gene
 
 ## Live file
 
-`Protocol_Flamingo_Rev2.docx` is the book. About 28,700 words. Pen name on the title page and in the file properties: George Herbert Fontaine. Story year is “this year” (2026). Series line on the title page: The Invasion Storybooks.
+`Protocol_Flamingo_Rev2.docx` is the book. 26,647 words of body text (counted 1 Oct 2026; the earlier "about 28,700" was stale). Pen name on the title page and in the file properties: George Herbert Fontaine. Story year is “this year” (2026). Series line on the title page: The Invasion Storybooks.
 
 The paperback trim in the file is 5.5 by 8.5 inches, with a half-inch gutter and mirrored margins. Front matter is numbered in roman numerals. Page 1 is the start of the story. `KDP_LISTING.md` holds the description, keywords, categories, and price. `Protocol_Flamingo_cover_front.jpg` is a front cover at that trim, not a full paperback wrap.
 
 `build_docx.js` builds the earlier, shorter draft and writes `Protocol_Flamingo_script_draft.docx`. Running it must not replace Rev2.
 
 `Protocol_Flamingo_Rev1.docx` is an older file. `bak/` is a snapshot. Neither is the live book.
+
+## Session of 1 Oct 2026 (owner: the single session that also has RIB Book 1 and the Tower)
+
+That session does no git; Lothar syncs separately. The pre-edit file is backed up at `C:\Users\lomus\OneDrive\My Books for Amazon - session backups\2026-10-01 RIB-Flamingo-Tower\Protocol Flamingo\`. 26,460 → 26,647 words. What changed:
+
+- Chapter IV is now in story order. Cobb is introduced once, in the lot, with her file briefing. Then Huff in the lot, one arrival at the Reyes house (there were two), the alpaca and Steve loaded, the pickup chase, Huff's bunker, the Dipstick. "Warren had talked once in the first hour."
+- Chapter V diner: the setting comes first. It is the time pencilled on the flyer (an old line said Nora picked it, which broke canon). The sign "UN T" has one dead letter. Order: Jesse arrives, banter, they stand to leave, then the man in the lot.
+- Brussels: one line names the services (Duval, French; Berthold, German; Whitcombe, British; Cole, American). The dangling "before Duval got that far" is gone.
+- Chapter VII: Kade is introduced before "did not give tours".
+- Aboard: the doubled PA line is cut. The three crewmen (oldest, heavyset, youngest) are introduced before the lunge, which now names them.
+- Place slips: "a diner in Nevada" became the break room under the dead mall. The motel "outside Reno" became "outside Tonopah".
+- Starfall is a daytime total solar eclipse throughout (afternoon heat, game day, "cleaner than the day"; the glossary agrees). The sails fly outside the Moon's shadow, so the ring sits a hand's width from the Sun. The light-time to the Boat now matches canon: Trojans are about 4.2–6.2 AU from Earth, so a round trip takes much under an hour and a half. The doubled trailer paragraph is split so the setting comes before the authorization.
+- Trims: Mabs's second physical description is cut, and Colonel Buchanan gets an introduction at first mention.
+- Appendix and bibliography: the Hein link text now matches the cited JBIS 2012 paper. Biosphere 2: nobody died; oxygen fell from 21% to about 14.5% and was topped up from outside. "Looking for Lurkers" is James Benford's 2019 proposal, not a search, and Gertz is no longer credited. Page ranges use en dashes. Checked and left as written: Starlink (over 11,000 working satellites) and Rubin's forecast Trojan count (about 109,000, several times today's catalogue).
+- Verified: zip is clean, 376 paragraphs, all 18 hyperlinks, section properties intact.
+
+For Lothar: no real total solar eclipse crosses Texas in late 2026. The real 2026 eclipse is 12 August (Greenland, Iceland, Spain). The book says "this year", so either keep the eclipse as invented, or move the story year.
 
 ## Git
 

@@ -1,0 +1,264 @@
+TITLE: Ward Identities
+TAGLINE: Current conservation written as a statement about amplitudes: k_μℳ^μ = 0, the Ward–Takahashi identity for the vertex, and Z₁ = Z₂
+NUM: 71
+NEXT: Lesson 72, Gauge Invariance, collects the same identity as a statement that observables do not depend on the gauge, including the ξ of Lesson 70.
+
+# How to use this lesson
+
+Every time this course replaced a photon polarization sum by −g_μν, dropped k_μk_ν from a photon propagator, or expected vacuum polarization to be transverse, it said the justification was a Ward identity and postponed the proof. This lesson pays that debt in three stages. First, a single algebraic identity for the electron propagator, which needs only the Dirac equation. Second, a complete tree-level proof for Compton scattering, the process of Lesson 56, in which the cancellation happens between two diagrams rather than inside either one. Third, the general identity for the vertex function, the Ward–Takahashi identity, together with its most important consequence: the vertex and electron-field renormalizations are equal, Z₁ = Z₂, so the charge is renormalized by the photon alone. The all-orders proof is sketched, not carried out. Expect six to eight hours.
+
+## Learning objectives
+
+- State the Ward identity k_μℳ^μ(k) = 0 for an amplitude with an external photon of momentum k and on-shell charged particles.
+
+- Derive the propagator identity S(p+k) k̸ S(p) = i[S(p) − S(p+k)] and use it to show how contributions telescope along a charged line.
+
+- Prove the identity explicitly for Compton scattering, showing the cancellation between the direct and crossed diagrams.
+
+- State the Ward–Takahashi identity q_μΓ^μ(p+q, p) = S̃⁻¹(p+q) − S̃⁻¹(p), check it at tree level, and derive Ward's original form at q = 0.
+
+- Derive Z₁ = Z₂, and explain why it makes charge renormalization universal for every charged particle.
+
+- Use the identity to justify the polarization sum −g_μν, the dropping of ξ-dependent terms, and q_μΠ^μν = 0.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| ℳ^μ(k) | Amplitude with the external photon polarization ε_μ(k) stripped off, iℳ = ε_μℳ^μ |
+| S(p) | Free electron propagator i/(p̸ − m) of Lesson 46 |
+| S̃⁻¹(p) | Inverse full propagator without the factor i: p̸ − m₀ − Σ(p) |
+| Γ^μ(p′, p) | Full vertex function, equal to γ^μ at tree level; the vertex is ieΓ^μ |
+| Z₁, Z₂, Z₃ | Renormalization constants of the vertex, electron field, and photon field |
+| k̄ | For a photon of momentum k = (k⁰, k), the vector (k⁰, −k) |
+
+The vertex factor is ieγ^μ, as in Lesson 44, and the metric is diag(+1, −1, −1, −1). In display equations, square brackets enclose function arguments and visible groupings.
+
+# 1 The statement
+
+FIG:
+ e⁻(p) ────*──── e⁻(p+k)      replace ε_μ(k) by k_μ at the vertex:
+           |                  ū(p+k) k̸ u(p) = 0 on shell
+          γ(k)
+ENDFIG
+
+A QED amplitude with one external photon of momentum k and polarization ε can be written iℳ = ε_μ(k)ℳ^μ(k). The Ward identity states that
+
+$$ k_μ ℳ^μ[k] = 0
+
+provided every external charged particle is on shell, with physical spinors. The amplitude is therefore unchanged if ε_μ is shifted by any multiple of k_μ. That shift is a gauge transformation of the external photon: in momentum space, A_μ → A_μ + ∂_μχ adds a term proportional to k_μ.
+
+### Worked example 1
+
+Explain why the Ward identity is the statement that a longitudinal photon is neither emitted nor absorbed. A polarization ε_μ ∝ k_μ corresponds to a pure-gauge field, which Lesson 70, Worked example 1, showed carries zero field strength. The identity says the amplitude to emit or absorb that mode vanishes. Only the polarizations that correspond to real electric and magnetic fields are coupled to charges.
+
+# 2 The key identity
+
+## 2.1 One vertex between two propagators
+
+The algebra behind every Ward identity is a one-line rewriting of k̸:
+
+$$ k̸ = [p̸ + k̸ − m] − [p̸ − m]
+
+With S(p) = i/(p̸ − m), each bracket is −i times an inverse propagator, and sandwiching between propagators gives
+
+$$ S[p+k] k̸ S[p] = i S[p] − i S[p+k]
+
+(Exercise 2). Contracting a photon vertex with its own momentum splits it into a difference of two propagators with no vertex at all.
+
+## 2.2 Next to an external spinor
+
+When one side of the vertex is an external spinor, the corresponding propagator is replaced by the Dirac equation. For an incoming electron, (p̸ − m)u(p) = 0, so
+
+$$ S[p+k] k̸ u[p] = i u[p]
+
+The photon vertex and the propagator after it have disappeared, leaving the incoming spinor multiplied by i. For an outgoing electron, ū(p′)(p̸′ − m) = 0 gives ū(p′) k̸ S(p′ − k) = −i ū(p′).
+
+## 2.3 Telescoping along a line
+
+Attach a photon of momentum k at every possible point along a charged line, and contract each attachment with k_μ. By Section 2.1, each attachment produces a difference of two terms, and the second term of one attachment cancels the first term of the next. The sum telescopes, leaving only the two ends of the line. With the ends on shell, those vanish or cancel by Section 2.2. This is why the identity concerns the sum over all attachments, not any single diagram.
+
+# 3 Compton scattering, worked in full
+
+## 3.1 The two diagrams
+
+For e⁻(p) + γ(k) → e⁻(p′) + γ(k′), Lesson 56 used two diagrams: the direct one, in which the electron absorbs k first, and the crossed one, in which it emits k′ first. With the incoming polarization stripped off and the outgoing one written ε′*_ν,
+
+$$ ℳ^μ = [ie]² ε′*_ν ū[p′] [γ^ν S[p+k] γ^μ + γ^μ S[p−k′] γ^ν] u[p]
+
+with an overall factor of i from the convention iℳ absorbed into the definition. Its value does not affect the argument.
+
+## 3.2 The contraction
+
+Contract with k_μ. In the direct term, Section 2.2 gives S(p+k)k̸u(p) = iu(p). In the crossed term, momentum conservation p′ − k = p − k′ lets the outgoing form of Section 2.2 act: ū(p′)k̸S(p − k′) = −iū(p′). Hence
+
+$$ k_μ ℳ^μ = [ie]² ε′*_ν [i ū[p′] γ^ν u[p] − i ū[p′] γ^ν u[p]] = 0
+
+Neither diagram vanishes by itself. Each is proportional to ū(p′)γ^ν u(p), with opposite signs. The cancellation is the telescoping of Section 2.3 for a line with two attachments.
+
+### Worked example 2
+
+Check that the crossed-term step used the right momentum. In the crossed diagram the internal electron carries p − k′, since the electron first emits k′. The outgoing form of Section 2.2 requires the propagator S(p′ − k), so it applies only if p′ − k = p − k′. That is exactly four-momentum conservation, p + k = p′ + k′. The identity uses the Dirac equation on the external spinors and momentum conservation at the vertices, and nothing else.
+
+# 4 The Ward–Takahashi identity
+
+## 4.1 The general form
+
+Loops dress both the electron propagator and the vertex. Write the full propagator as i/S̃(p) with S̃⁻¹(p) = p̸ − m₀ − Σ(p), as in Lesson 67, and the full vertex as ieΓ^μ(p′, p). The identity that generalizes Section 2.1 to all orders is
+
+$$ q_μ Γ^μ[p+q, p] = S̃⁻¹[p+q] − S̃⁻¹[p]
+
+It was stated by Ward in 1950 at q = 0 and by Takahashi in 1957 for general q. At tree level, Γ^μ = γ^μ and S̃⁻¹(p) = p̸ − m₀, and both sides equal q̸. This is Section 2.1's rewriting of k̸, now holding to all orders.
+
+## 4.2 Where it comes from, sketched
+
+The identity is current conservation, ∂_μj^μ = 0, used inside a time-ordered product. Write the correlation function of j^μ(x) with an electron field ψ(y) and ψ̄(z), and take ∂/∂x^μ. If the derivative acted only on j^μ, the result would be zero. It also acts on the step functions that define the time ordering, and those produce equal-time commutators. The commutator [j⁰(x), ψ(y)] at equal times is −δ³(x − y)ψ(y), the statement that ψ removes one unit of charge. The two contact terms, one at y and one at z, become the two inverse propagators in Section 4.1 after Fourier transformation. This course gives only the sketch. The step functions and the factors of i are carried in full in the field-theory texts named in the Bibliography.
+
+## 4.3 Ward's original form
+
+Divide Section 4.1 by q and let q → 0:
+
+$$ Γ^μ[p, p] = ∂S̃⁻¹[p] / ∂p_μ = γ^μ − ∂Σ[p] / ∂p_μ
+
+The vertex at zero photon momentum is the derivative of the inverse propagator. At one loop, this links Lesson 64's vertex correction to Lesson 63's self-energy. Their divergences are not independent, and once one is known the other follows.
+
+### Worked example 3
+
+Verify Section 4.3 at tree level and interpret it. With Σ = 0, ∂(p̸ − m₀)/∂p_μ = γ^μ, so Γ^μ(p, p) = γ^μ. Physically, a photon of zero momentum couples to the total charge, and the total charge is fixed by how the electron's energy changes when its momentum is shifted. That shift is exactly what a constant vector potential does, by p → p − eA.
+
+# 5 Z₁ = Z₂ and universality of charge
+
+## 5.1 The renormalization constants
+
+Near the physical mass, Lesson 67 wrote the inverse propagator as S̃⁻¹(p) ≈ Z₂⁻¹(p̸ − m). Define Z₁ by the vertex at zero momentum transfer between on-shell electrons: Γ^μ(p, p) = Z₁⁻¹γ^μ. Both constants depend on the cutoff and, by Lesson 70, on ξ.
+
+## 5.2 The equality
+
+Differentiating Z₂⁻¹(p̸ − m) gives Z₂⁻¹γ^μ. By Section 4.3 this equals Γ^μ(p, p) = Z₁⁻¹γ^μ, so
+
+$$ Z₁ = Z₂
+
+to all orders, in every covariant gauge. Their ξ-dependence is identical and cancels.
+
+## 5.3 What it implies for the charge
+
+The physical charge measured at the vertex is e = e₀Z₂√Z₃/Z₁: Z₂ from the two electron legs, √Z₃ from the photon leg, and Z₁ from the vertex itself. With Z₁ = Z₂,
+
+$$ e = √Z₃ e₀
+
+The charge is renormalized only by the photon's vacuum polarization, exactly as Lesson 68 assumed. Z₃ does not know which particle sits at the vertex. An electron and a proton whose bare charges are equal and opposite therefore have equal and opposite measured charges, however different their self-energies and vertex corrections. Experiments find the electron and proton charges equal in magnitude to better than one part in 10²¹. Z₁ = Z₂ is what allows such equality to survive renormalization.
+
+### Worked example 4
+
+Explain why Lesson 68 could compute the running of α from vacuum polarization alone, ignoring Lesson 63's self-energy and Lesson 64's vertex correction. Those two corrections contribute Z₂ and Z₁⁻¹ to the effective coupling, and by Section 5.2 they cancel at zero momentum transfer. What remains of the vertex correction at nonzero q² is finite and depends on the external particle. It is not a running of the charge but a form factor, and Lesson 75 extracts its magnetic part.
+
+# 6 What the identity justifies
+
+## 6.1 The polarization sum
+
+For a real photon moving along k, the two physical polarizations satisfy
+
+$$ Σ_λ ε_μ^λ ε_ν^(λ*) = − g_(μν) + (k_μ k̄_ν + k̄_μ k_ν) / (k·k̄)
+
+Contracted with ℳ^μℳ^ν*, the extra terms contain k_μℳ^μ or k_νℳ^ν*, and both vanish by the Ward identity. This justifies Lesson 51's replacement of the physical sum by −g_μν, provided the Ward identity holds for ℳ, which requires the full gauge-invariant set of diagrams.
+
+## 6.2 The gauge parameter
+
+Lesson 70's propagator differs between gauges only by a term proportional to k_μk_ν. When an internal photon connects two subsets of the diagram, each subset obeys a Ward identity in its own momentum, provided the full set of attachments is summed. The k_μk_ν term then contracts to zero. Lesson 72 assembles this into the statement that observables are independent of ξ.
+
+## 6.3 Transversality of vacuum polarization
+
+Apply the identity to the two-photon function. Contracting either photon index with its momentum gives zero, so q_μΠ^μν(q) = 0, and Lesson 62's expectation that Π^μν = (q²g^μν − q^μq^ν)Π(q²) is a theorem. Its consequence, that the photon remains massless after renormalization, is the subject of Exercise 12.
+
+### Worked example 5
+
+Show that the Ward identity forbids a photon mass term from being generated by loops. A mass would appear in the full propagator as an extra term Π^μν ⊃ M²g^μν that does not vanish at q = 0. But q_μ(M²g^μν) = M²q^ν ≠ 0, which contradicts transversality. Hence Π^μν must vanish at q = 0 like q², and the pole of the full photon propagator stays at q² = 0. Gauge invariance protects the photon's masslessness to all orders.
+
+# 7 What this lesson has not done
+
+This lesson proved the identity explicitly at tree level for Compton scattering and sketched the all-orders proof. It did not handle regularization: the identity survives quantization only if the regulator respects it, which is why Lesson 68 required a gauge-respecting regulator. It has not discussed anomalies. The vector current of QED satisfies its Ward identity to all orders, but the axial current γ^μγ⁵ does not. Its anomaly, found by Adler, Bell, and Jackiw in 1969, is quoted here and not derived.
+
+# 8 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used next |
+| k_μℳ^μ = 0 with on-shell charged particles | Polarization sums and gauge checks in every calculation |
+| S(p+k)k̸S(p) = i[S(p) − S(p+k)] | The telescoping step behind every Ward identity |
+| q_μΓ^μ(p+q, p) = S̃⁻¹(p+q) − S̃⁻¹(p) | Relating vertex and self-energy at every order |
+| Z₁ = Z₂, e = √Z₃e₀ | Universality of charge renormalization; Lesson 68's running |
+| q_μΠ^μν = 0, massless photon | Lesson 62's transversality as a theorem |
+| k_μk_ν terms drop out | ξ-independence of observables, Lesson 72 |
+
+# 9 Summary
+
+1. The Ward identity, k_μℳ^μ(k) = 0, holds for amplitudes with on-shell charged particles and expresses current conservation and gauge invariance.
+
+2. Its algebraic core is k̸ = (p̸ + k̸ − m) − (p̸ − m), so a contracted vertex between propagators becomes a difference of propagators, and the sum along a line telescopes.
+
+3. In Compton scattering the two diagrams contribute ±i(ie)²ū(p′)γ^ν u(p) and cancel.
+
+4. The Ward–Takahashi identity q_μΓ^μ = S̃⁻¹(p+q) − S̃⁻¹(p) gives Γ^μ(p, p) = ∂S̃⁻¹/∂p_μ at q = 0.
+
+5. Hence Z₁ = Z₂, and e = √Z₃e₀: the charge is renormalized by the photon alone, so it is universal.
+
+6. The identity justifies the −g_μν polarization sum, ξ-independence, and the transversality and masslessness of the photon.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Show that shifting ε_μ → ε_μ + ck_μ leaves iℳ unchanged if k_μℳ^μ = 0. |
+| 2 | Derive S(p+k)k̸S(p) = i[S(p) − S(p+k)] from k̸ = (p̸ + k̸ − m) − (p̸ − m). |
+| 3 | Show S(p+k)k̸u(p) = iu(p) and ū(p′)k̸S(p′ − k) = −iū(p′). |
+| 4 | Carry out Section 3.2 for Compton scattering, writing each diagram explicitly. |
+| 5 | Repeat Exercise 4 contracting the outgoing photon, ε′* → k′, instead of the incoming one. |
+| 6 | For a line with three photon attachments, write the telescoping sum explicitly and show that only the end terms survive. |
+| 7 | Verify the Ward–Takahashi identity at tree level. |
+| 8 | Derive Ward's form Γ^μ(p, p) = ∂S̃⁻¹/∂p_μ from the Ward–Takahashi identity. |
+| 9 | Derive Z₁ = Z₂ from Exercise 8 and S̃⁻¹ ≈ Z₂⁻¹(p̸ − m). |
+| 10 | Show that e = e₀Z₂√Z₃/Z₁ reduces to e = √Z₃e₀, and explain why this makes the charge renormalization the same for the electron and the muon. |
+| 11 | Verify that the polarization-sum formula of Section 6.1 gives zero when contracted with k^μ, and that it reproduces ε¹ε¹ + ε²ε² for k along the z axis. |
+| 12 | Show that a term M²g^μν in Π^μν violates transversality, and conclude that the photon stays massless. |
+| 13 | Challenge: Explain why the Ward identity can fail for a single diagram even when it holds for the sum, using Compton scattering as the example, and why a regulator that broke the identity would produce a photon mass. |
+
+# Solutions
+
+**1.** iℳ → (ε_μ + ck_μ)ℳ^μ = ε_μℳ^μ + c k_μℳ^μ = ε_μℳ^μ.
+
+**2.** Multiply k̸ = (p̸ + k̸ − m) − (p̸ − m) on the left by S(p+k) and on the right by S(p). Since S(p+k)(p̸ + k̸ − m) = i and (p̸ − m)S(p) = i, the result is iS(p) − iS(p+k).
+
+**3.** S(p+k)k̸u(p) = S(p+k)[(p̸ + k̸ − m) − (p̸ − m)]u(p) = iu(p) − 0. Similarly, ū(p′)k̸S(p′ − k) = ū(p′)[(p̸′ − m) − (p̸′ − k̸ − m)]S(p′ − k) = 0 − iū(p′).
+
+**4.** The direct diagram is (ie)²ε′*_ν ū(p′)γ^ν S(p+k)k̸u(p) = (ie)²ε′*_ν ū(p′)γ^ν(i)u(p). The crossed diagram is (ie)²ε′*_ν ū(p′)k̸S(p − k′)γ^ν u(p), and with p − k′ = p′ − k it equals (ie)²ε′*_ν(−i)ū(p′)γ^ν u(p). The sum is zero.
+
+**5.** Contracting k′: the direct diagram has ū(p′)k̸′S(p+k), with p + k = p′ + k′, giving iū(p′) by the outgoing form. The crossed diagram has S(p − k′)k̸′u(p), and since k̸′ = (p̸ − m) − (p̸ − k̸′ − m), it gives −iu(p). The two terms again cancel.
+
+**6.** For attachments at momenta p, p + k₁, and so on, each contracted vertex gives i[S(before) − S(after)] by Exercise 2. In the sum, the "after" term of one attachment equals minus the "before" term of the next, so only the first and last terms survive. With on-shell ends, they reduce by Exercise 3 to equal and opposite multiples of the same spinor product.
+
+**7.** With Γ = γ and S̃⁻¹(p) = p̸ − m₀, q_μγ^μ = q̸ = (p̸ + q̸ − m₀) − (p̸ − m₀).
+
+**8.** For small q, S̃⁻¹(p+q) − S̃⁻¹(p) = q_μ ∂S̃⁻¹/∂p_μ + O(q²). Comparing the linear terms with q_μΓ^μ(p+q, p) → q_μΓ^μ(p, p) gives Γ^μ(p, p) = ∂S̃⁻¹/∂p_μ.
+
+**9.** ∂/∂p_μ of Z₂⁻¹(p̸ − m) is Z₂⁻¹γ^μ. Setting this equal to Z₁⁻¹γ^μ gives Z₁ = Z₂.
+
+**10.** Z₂/Z₁ = 1, leaving √Z₃e₀. Z₃ comes from the photon's vacuum polarization and contains no reference to the particle at the vertex. The electron's and the muon's charges are therefore scaled by the same factor, even though their Z₂ values differ, because their masses differ.
+
+**11.** With k = (ω, 0, 0, ω), k̄ = (ω, 0, 0, −ω) and k·k̄ = 2ω². Contracting with k^μ: −k_ν + (k² k̄_ν + (k̄·k)k_ν)/(k·k̄) = −k_ν + 0 + k_ν = 0, using k² = 0. For the spatial components, the 11 and 22 entries are 1, and the 00, 03, and 33 entries cancel between −g and the k k̄ terms, leaving the sum ε¹ε¹ + ε²ε² of two transverse polarizations.
+
+**12.** q_μM²g^μν = M²q^ν ≠ 0 for q ≠ 0, contradicting q_μΠ^μν = 0. Transversality forces Π^μν ∝ (q²g^μν − q^μq^ν), which vanishes at q = 0, so the propagator pole stays at q² = 0.
+
+**13.** In Compton scattering, each diagram alone gives ±i(ie)²ū(p′)γ^ν u(p) ≠ 0. Only the sum vanishes, because the identity is a property of the complete set of attachments. A regulator that treated the two orderings differently, or shifted loop momenta inconsistently, could leave a nonzero remainder. In vacuum polarization, such a remainder appears as a non-transverse term proportional to Λ²g^μν, which is a photon mass of order the cutoff.
+
+# Mastery checklist
+
+- I can state the Ward identity and its conditions, and explain it as the decoupling of longitudinal photons.
+
+- I can derive the propagator identity and use it to telescope contributions along a charged line.
+
+- I can prove the identity for Compton scattering, showing the cancellation between the two diagrams.
+
+- I can state the Ward–Takahashi identity, check it at tree level, and derive Ward's q = 0 form.
+
+- I can derive Z₁ = Z₂ and explain why the charge is renormalized only by Z₃.
+
+- I can use the identity to justify the −g_μν polarization sum, ξ-independence, and the massless photon.

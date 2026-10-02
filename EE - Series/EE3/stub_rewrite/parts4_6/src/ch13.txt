@@ -1,0 +1,44 @@
+H1: Chapter 13. The Two-Stage Op-Amp From Its Transistors
+P: Book 2 declared an op-amp with A₀ = 10⁵, a gain-bandwidth product of 1 MHz, and a dominant pole at 10 Hz, and built twenty chapters of circuits on those three numbers. This chapter derives all three from transistors. The architecture is the two-stage amplifier with Miller compensation, the structure behind the 741 and behind most general-purpose CMOS op-amps since. Each number turns out to depend on one or two device quantities, and seeing which ones explains most of what an op-amp datasheet shows.
+H2: 13.1 The architecture
+P: The first stage is a differential pair with a current-mirror load. The mirror copies the current of one side to the other, so the full differential signal current appears at a single output node; the stage converts a differential input into a single-ended current gm1 Vd. The second stage is a common-emitter or common-source amplifier with a current-source load, which provides most of the remaining gain. A compensation capacitor Cc connects the second stage's input to its output. An output stage, usually a class-AB follower, provides current to the load without adding voltage gain.
+H2: 13.2 DC gain
+P: Each gain stage is a transconductance driving its own output resistance. For the first stage that resistance is the parallel combination of the output resistance of the pair transistor and of the mirror transistor on the output side; for the second stage it is the gain transistor in parallel with its current-source load. With equal output resistances in each pair, the gains are gm ro/2 per stage.
+EQ: A₀ = (gm1 ro1/2) × (gm6 ro6/2)
+H2: Worked Example 13.1
+WEP: A CMOS two-stage op-amp has a tail current of 20 µA (10 µA per input transistor) and a second stage at 100 µA. All devices run at Vov = 0.2 V and have λ = 0.02 V⁻¹. Find each stage's gain and A₀.
+WES: Input stage: gm1 = 2 × 10 µA/0.2 V = 0.10 mS, ro = 1/(0.02 × 10 µA) = 5 MΩ, and the gain is 0.10 mS × 5 MΩ/2 = 250. Second stage: gm6 = 2 × 100 µA/0.2 V = 1.0 mS, ro = 1/(0.02 × 100 µA) = 500 kΩ, and the gain is 1.0 mS × 500 kΩ/2 = 250. A₀ = 250 × 250 = 62,500, or 95.9 dB, the same order as Book 2's declared 10⁵. The current cancels out of each stage's gain, because gm rises with current and ro falls with it; the gain is set by Vov and λ, that is, by device length and bias choice.
+H2: 13.3 Miller compensation and the gain-bandwidth product
+P: Without compensation, the two high-impedance nodes form two poles at similar frequencies, and the amplifier oscillates when feedback is applied. The Miller capacitor connects across the second stage, whose gain multiplies its effect at the first stage's output, creating a dominant pole at a very low frequency. Above that pole, the first stage's signal current gm1 Vd flows almost entirely into Cc, and the output voltage is that current divided by the capacitor's impedance. The amplifier's gain therefore falls as gm1/(ωCc) and crosses unity at a frequency set by just two quantities.
+EQ: GBW = gm1 / (2π Cc),    fp1 = GBW / A₀
+H2: Worked Example 13.2
+WEP: For the op-amp of Worked Example 13.1, choose Cc for GBW = 1 MHz and find the dominant pole. Repeat the capacitor choice for a bipolar input pair at the same 10 µA per side.
+WES: Cc = gm1/(2π × 1 MHz) = 0.10 mS/6.283 × 10⁶ = 15.9 pF. The dominant pole is 1 MHz/62,500 = 16 Hz, close to Book 2's 10 Hz. A bipolar pair at 10 µA has gm1 = 10 µA/26 mV = 0.385 mS, so it needs Cc = 61 pF for the same GBW. Higher transconductance per unit current means a larger capacitor for the same bandwidth, and that capacitor costs die area.
+H2: 13.4 Slew rate
+P: For a large input step, the differential pair switches completely, and the whole tail current IEE flows into or out of Cc. The output can then change no faster than that current charges the capacitor. This is the slew rate Book 2 measured; here it has a formula.
+EQ: SR = IEE / Cc = 2π GBW × (IEE / gm1)
+P: The second form is the useful one. For a fixed GBW, slew rate is proportional to the ratio of tail current to input transconductance. For a bipolar pair, IEE/gm1 = 2VT = 52 mV, and that is fixed by physics. For a MOS pair, IEE/gm1 = Vov, which the designer chooses, and an emitter resistor added to a bipolar pair raises the ratio the same way.
+H2: Worked Example 13.3
+WEP: Find the slew rate of the two op-amps of Worked Example 13.2.
+WES: Bipolar input: SR = 20 µA/61 pF = 0.33 V/µs, which is also 2π × 1 MHz × 52 mV. CMOS input at Vov = 0.2 V: SR = 20 µA/15.9 pF = 1.26 V/µs, about four times faster for the same bandwidth and current. This is why the 741's slew rate, about 0.5 V/µs, is an architectural limit, and why fast-slewing bipolar op-amps degenerate their input pairs.
+KEY: Key idea. Gain is set by device length and bias, bandwidth by the input transconductance and the compensation capacitor, and slew rate by the tail current and the same capacitor. Raising IEE/gm1 is the one lever that improves slew rate without giving up bandwidth.
+H2: 13.5 The second pole and the capacitive load
+P: The output node has its own pole, at roughly gm6/(2π CL) with Miller compensation, where CL is the load capacitance plus the node's own capacitance. For a phase margin near 60° in a unity-gain follower, the second pole must lie at about 2.2 times the GBW. This is the transistor-level origin of Book 2's warning that a follower driving a large capacitor rings.
+H2: Worked Example 13.4
+WEP: For the op-amp of Worked Example 13.1 (gm6 = 1.0 mS, GBW = 1 MHz), find the largest load capacitance compatible with a second pole at 2.2 MHz.
+WES: CL = gm6/(2π × 2.2 MHz) = 1.0 mS/1.38 × 10⁷ = 72 pF. An unbuffered two-stage CMOS amplifier at this current cannot drive even a short cable without losing phase margin. Raising the second-stage current raises gm6 and the allowed load proportionally, which is why the output stage often draws most of an op-amp's supply current.
+H2: 13.6 Input range and output stage
+P: The input pair needs headroom: its tail current source must stay out of saturation, and its transistors must stay in their active region. A PMOS input pair works down to the negative rail but not up to the positive one, and an NMOS pair the reverse. Rail-to-rail input op-amps use both pairs in parallel and hand over from one to the other in the middle of the range, which is why their datasheets show an offset step and a change in bias current at one common-mode voltage. The output stage, usually a complementary pair biased slightly on (class AB) to avoid the crossover distortion of a pure class-B stage, sets the output swing; a rail-to-rail output uses common-source output devices whose drains can reach within one saturation voltage of each rail.
+H2: Practice
+PR: A two-stage CMOS op-amp has stage gains of 180 and 220. Find A₀ in decibels.
+PR: The first stage has gm1 = 0.25 mS. Find Cc for a GBW of 5 MHz.
+PR: A bipolar-input op-amp has a tail current of 40 µA and Cc = 30 pF. Find its slew rate.
+PR: A CMOS op-amp has GBW = 10 MHz and its input pair runs at Vov = 0.15 V. Find its slew rate.
+PR: The second stage of an op-amp has gm6 = 4 mS. Find the largest load capacitance for a second pole at 2.2 times a GBW of 3 MHz.
+PR: Explain in one or two sentences why doubling the bias current of every stage, at the same overdrive, leaves A₀ unchanged but raises the allowed load capacitance.
+ANS: 180 × 220 = 39,600, which is 92.0 dB.
+ANS: Cc = 0.25 mS/(2π × 5 MHz) = 7.96 pF.
+ANS: SR = 40 µA/30 pF = 1.33 V/µs.
+ANS: SR = 2π × 10 MHz × 0.15 V = 9.4 V/µs.
+ANS: CL = 4 mS/(2π × 6.6 MHz) = 96 pF.
+ANS: Each stage's gain gm ro is independent of current because gm rises and ro falls in proportion, but the second pole gm6/(2πCL) moves up with gm6, so a larger load capacitance keeps the same pole frequency.

@@ -112,7 +112,7 @@ ENDFIG
 
 Lesson 64's vertex correction combines three denominators with Feynman parameters x, y, z, x + y + z = 1, and the loop momentum is shifted to complete the square. After the shift, the numerator contains terms with γ^μ and terms with (p + p′)^μ. Using the Gordon identity to convert the second kind gives the coefficient of iσ^μν q_ν/2m. The result, quoted from the standard reduction (Exercise 13 outlines the steps), is
 
-$$ F₂[q²] = (α/2π) ∫ dx dy dz δ[x+y+z−1] (2m² z[1−z]) / (m²[1−z]² − q² x y)
+$$ F₂[q²] = (α/2π) ∫ dx dy dz δ[x+y+z−1] (2m² z[1−z]) / (m²(1−z)² − q² x y)
 
 The integrand contains no cutoff and no photon mass. Its finiteness, argued in Section 3, is visible directly.
 

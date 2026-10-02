@@ -1,0 +1,23 @@
+TITLE: Power and Energy
+SUB: Book 8 of the Electrical Engineering Series
+COPY: Copyright © 2026 Lothar J. Musiol. All rights reserved. Kindle edition.
+SUBTITLE: Regulators, Switching Converters, Magnetics, the Grid, and Pulsed Power
+HOW: This book is about converting electrical energy from the form in which it arrives to the form a load needs, with as little waste as possible. Chapter 1 sets out the formula that runs through the whole book, waste = P(1/η − 1), and applies it to the AI data center, where conversion losses are now measured in megawatts. Chapters 2 to 5 cover the converters: the linear regulator, the buck, the boost and buck-boost with their control loops, and the isolated flyback, forward, and LLC converters. Chapter 6 covers the magnetic components in four families, called shelves. Chapter 7 connects converters to the grid, and Chapter 8 treats high voltage and pulsed power.
+HOW: Each chapter states its question, develops the idea in words, and works it through with declared numbers. Every number was computed, and the answers to every practice problem are in Appendix B. The reader should know circuit analysis at the level of Book 1 and feedback at the level of Book 2.
+HOW: The series gives each subject one home. Semiconductor devices, including the physics of gallium-nitride and silicon-carbide switches, are Book 3's. High-power RF amplifiers are Book 6's, even when they draw kilowatts. Emissions from a converter's hot loop are measured in Book 7's chamber. Packaging, the processor's 875 A at 0.8 V, and the 2026 hardware snapshot are Book 9's. This book's anchor numbers are the rack comparison, 80 kW at 96% against 98% efficiency, a gap of 1.70 kW per rack and 1.70 MW per 1000 racks (0.96 kW at a 45 kW average), and copper's skin depth of about 66/√f mm. The texts in Appendix C go deeper; this book's explanations, examples, and problems are its own.
+CONST: Waste: Pwaste = P(1/η − 1). Chain efficiency is the product of stage efficiencies.
+CONST: LDO: η ≈ Vout/Vin; Pdiss ≈ (Vin − Vout)I; output ripple = input ripple × 10^(−PSRR/20).
+CONST: Buck: Vout = DVin; ΔI = (Vin − Vout)D/(fswL); ΔV ≈ ΔI/(8fswC) + ΔI·ESR; switching loss ≈ ½VinI(tr + tf)fsw.
+CONST: Boost: Vout = Vin/(1 − D); IL = Iout/(1 − D); fRHPZ = (1 − D)²R/(2πL). Inverting buck-boost: Vout = −DVin/(1 − D). Load step: ΔV ≈ ΔI/(2πfcC).
+CONST: Flyback: Vout = VinD/[(1 − D)n]; forward: Vout = DVin/n; LLC: fr = 1/(2π√(LrCr)).
+CONST: Skin depth in copper ≈ 66/√f mm: 8.5 mm at 60 Hz, 0.21 mm at 100 kHz.
+CONST: Faraday: Vrms = 4.44fNBpkAe (sine), V = 4fNBpkAe (square). Inductor: N = LIpk/(BmaxAe), lg ≈ μ0N²Ae/L, E = ½LI².
+CONST: PF = cos φ/√(1 + THD²); three-phase P = √3 VL IL PF.
+CONST: Capacitor energy ½CV²; PFN: Ctotal = τ/(2Z0), Ltotal = τZ0/2, Vload = Vcharge/2; pulse droop ≈ Rτ/Lm. Air breakdown ≈ 3 kV/mm, uniform field.
+SRC: Robert W. Erickson and Dragan Maksimović, Fundamentals of Power Electronics, 3rd edition, for converter analysis and control (Chapters 3 and 4).
+SRC: Abraham I. Pressman, Keith Billings, and Taylor Morey, Switching Power Supply Design, 3rd edition, for isolated converters (Chapter 5); Christophe Basso, Designing Control Loops for Linear and Switching Power Supplies, for loop design.
+SRC: Gabriel A. Rincón-Mora, Analog IC Design with Low-Dropout Regulators, for Chapter 2.
+SRC: Colonel Wm. T. McLyman, Transformer and Inductor Design Handbook, 4th edition; Marian K. Kazimierczuk, High-Frequency Magnetic Components; Jerry Sevick, Transmission Line Transformers, for Chapter 6.
+SRC: Ned Mohan, Tore Undeland, and William Robbins, Power Electronics: Converters, Applications, and Design, for rectifiers, PFC, and three-phase systems; IEC 61000-3-2, IEEE 1547-2018, and EN 50549 for Chapter 7.
+SRC: Hansjoachim Bluhm, Pulsed Power Systems, and E. Kuffel, W. S. Zaengl, and J. Kuffel, High Voltage Engineering: Fundamentals, for Chapter 8; IEC 60664-1 for clearance and creepage.
+SRC: JLL, 2026 Global Data Center Outlook (January 2026), for the capacity and cost planning figures in Chapter 1.

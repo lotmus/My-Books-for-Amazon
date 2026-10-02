@@ -1,0 +1,36 @@
+H1: Chapter 5. The Real Channel: Multipath, Fading, and Diversity
+P: Chapter 4's error rates assumed a channel that only adds noise. A real radio channel does more. The signal arrives by several paths, reflected from walls, vehicles, and the ground, each with its own delay, strength, and phase. When the paths add in phase the signal is strong; when they cancel it can fall twenty or thirty decibels in a fraction of a wavelength. When the transmitter or receiver moves, the pattern sweeps past and the signal fades in time. This chapter describes the channel by two numbers, its delay spread and its Doppler spread, computes what fading costs, and shows how diversity wins most of it back. Path loss and antenna gain are Book 4's; here the concern is what multipath does to the waveform.
+H2: 5.1 Delay spread and coherence bandwidth
+P: The spread of arrival times is summarized by the rms delay spread στ. Indoors it is typically 10 to 100 ns; in a city it may be a few microseconds. Its reciprocal sets the coherence bandwidth, the frequency span over which the channel's response is roughly constant. A common working estimate is Bc ≈ 1/(5στ). A signal narrower than Bc sees flat fading: the whole band rises and falls together. A signal wider than Bc sees frequency-selective fading, a response with notches in it, and needs an equalizer or the OFDM of Chapter 6.
+EQ: Bc ≈ 1 / (5 στ)
+H2: Worked Example 5.1
+WEP: Find the coherence bandwidth for delay spreads of 100 ns and 50 ns. Is a 20 MHz Wi-Fi channel flat or selective in either case?
+WES: 1/(5 × 100 ns) = 2 MHz and 1/(5 × 50 ns) = 4 MHz. Both are far narrower than 20 MHz, so the channel is frequency-selective across the Wi-Fi band in both rooms. Each 312.5 kHz OFDM subcarrier of Chapter 6, though, is narrower than either coherence bandwidth, so each subcarrier sees a flat channel, which is exactly what OFDM is designed to exploit.
+H2: 5.2 Doppler and coherence time
+P: A receiver moving at speed v through the interference pattern sees each path shifted in frequency by up to the maximum Doppler shift fd = vfc/c. The channel then changes on a time scale set by the coherence time, which for the classical model of scattering from all directions is about Tc ≈ 0.423/fd. A symbol much shorter than Tc sees a channel that is nearly fixed during the symbol; the receiver must still track it from one packet or slot to the next.
+EQ: fd = v fc / c,    Tc ≈ 0.423 / fd
+H2: Worked Example 5.2
+WEP: Find the maximum Doppler shift and coherence time at 30 km/h and 2.45 GHz, and at 120 km/h and 3.5 GHz.
+WES: 30 km/h is 8.33 m/s, so fd = 8.33 × 2.45 × 10⁹/2.998 × 10⁸ = 68.1 Hz and Tc = 0.423/68.1 = 6.2 ms. 120 km/h is 33.3 m/s, so fd = 389 Hz and Tc = 1.09 ms. A 5G slot at 30 kHz subcarrier spacing lasts 0.5 ms, comfortably inside the faster case, which is one reason the pilot signals in a slot are enough to track the channel.
+H2: 5.3 The cost of Rayleigh fading
+P: With many paths and no dominant one, the received amplitude follows a Rayleigh distribution and the power an exponential one. A link at a given average SNR then spends part of its time in deep fades, and those fades dominate its error rate. For BPSK with average Eb/N0 = γ, the bit error rate becomes ½[1 − √(γ/(1 + γ))], which for large γ is about 1/(4γ). It falls only tenfold for every 10 dB of SNR, instead of with the waterfall of Chapter 4.
+EQ: BER(Rayleigh, BPSK) = ½ [1 − √(γ/(1 + γ))] ≈ 1/(4γ)
+H2: Worked Example 5.3
+WEP: What average Eb/N0 does BPSK need for a bit error rate of 10⁻³ in Rayleigh fading? Compare it with the AWGN channel.
+WES: Solving the exact expression gives γ = 24.0 dB; the approximation 1/(4γ) = 10⁻³ gives γ = 250, also 24.0 dB. On the AWGN channel the same error rate needed 6.8 dB, so fading has cost 17 dB, fifty times the power. No amount of extra transmitter power is a sensible answer to that; diversity is.
+H2: 5.4 Diversity
+P: Diversity gives the receiver several copies of the signal that fade independently. Antennas spaced half a wavelength or more apart, different frequencies, different times, and coding across them all provide it. With L independent branches combined by maximal-ratio combining, which weights each branch by its own amplitude and phase, the error rate at high SNR falls as the L-th power of SNR. For BPSK at 10⁻³, the average SNR needed per branch is 24.0 dB with one branch, 11.1 dB with two, and 4.0 dB with four. The second antenna is worth about 13 dB. Coding and interleaving across subcarriers in OFDM, and space-time coding across transmit antennas, deliver the same kind of gain.
+KEY: Key idea. In a fading channel, the error rate is set by how often the signal is in a deep fade, not by its average strength. Two independently fading copies are rarely both in a fade at once, so diversity buys more than ten decibels, far more than power can.
+H2: Practice
+PR: Find the coherence bandwidth for an outdoor delay spread of 1 µs.
+PR: Find the maximum Doppler shift at 60 km/h and 5.9 GHz.
+PR: Find the coherence time for the Doppler shift of the previous problem.
+PR: Using the approximation 1/(4γ), what average Eb/N0 gives a Rayleigh BPSK bit error rate of 10⁻⁴?
+PR: Two receive antennas are combined by maximal-ratio combining. From Section 5.4, how much less SNR per branch is needed than with one antenna for 10⁻³?
+PR: Why does a 20 MHz signal suffer frequency-selective fading in a room where a 300 kHz signal does not?
+ANS: 1/(5 × 1 µs) = 200 kHz.
+ANS: 16.7 m/s × 5.9 × 10⁹/2.998 × 10⁸ = 328 Hz.
+ANS: 0.423/328 = 1.29 ms.
+ANS: γ = 2500, or 34.0 dB.
+ANS: 24.0 − 11.1 = 12.9 dB.
+ANS: The coherence bandwidth indoors is a few megahertz; the 20 MHz signal spans several coherence bandwidths and sees the notches, while the 300 kHz signal fits inside one and fades as a whole.

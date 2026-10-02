@@ -1,0 +1,121 @@
+TITLE: Functional Methods
+TAGLINE: A short toolkit: δZ/δJ inserts a field, completing the square, and how a change of variables in Dφ produces identities
+NUM: 82
+NEXT: Lesson 83 expands exp(iS_int) inside Z and reads off this course's Feynman rules a second time.
+
+# How to use this lesson
+
+Lessons 79–81 introduced Z, W, and Γ. This lesson is the operations used in practice: inserting fields, completing squares, and obtaining Ward identities from a change of dummy integration variables. No new process is computed. Expect four to five hours.
+
+## Learning objectives
+
+- Insert a field by δ/δJ, including at nonzero J.
+
+- Complete the square in a Gaussian Z[J] and state when a shift of φ is legal.
+
+- Obtain ⟨δS⟩=0 from a change of dummy variables in Dφ when the measure is invariant.
+
+- Recover Lesson 71's Ward identity as the case where the shift is a gauge transformation.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| δ_ε | An infinitesimal shift of the integration variable |
+| ⟨δS⟩ | Expectation of the change of the action |
+| Dφ | Path-integral measure |
+
+# 1 Insertion
+
+Section 1 of Lesson 80 already used δ/δJ at J=0. At finite J the same derivative inserts a field into a correlator in the presence of the source, which is how one studies an atom in an external potential without leaving the path integral. In QED, δ/δJ_μ(x) inserts A^μ(x); a Grassmann derivative inserts ψ or ψ̄.
+
+### Worked example 1
+
+How does one insert an extra photon into Compton scattering in this language? Differentiate the four-point electron–photon correlator with respect to an additional J_μ and then amputate, Lesson 51. That is the path-integral form of attaching an external photon line.
+
+# 2 Shifts of the dummy variable
+
+The name of φ is dummy: ∫Dφ F[φ]=∫Dφ F[φ+ε] whenever Dφ is invariant under φ→φ+ε. Expanding to first order in ε(x) gives
+
+$$ ⟨ δS[φ] / δφ(x) + J(x) ⟩_J = 0
+
+which is the Schwinger–Dyson equation, the path-integral Euler–Lagrange equation in the presence of J. Completing the square in Lesson 80 was the special case of a linear shift that cancels J against Kφ.
+
+The shift is illegal if the measure is not invariant (a Jacobian), or if the contour at infinity does not allow it. Faddeev–Popov (Lesson 70, Lesson 79) is the Jacobian for a gauge shift.
+
+# 3 Ward identities from a symmetry
+
+If S is invariant under a shift, δS=0, and if Dφ is invariant too, then ⟨δ(operators)⟩=0. For a local U(1) shift of A_μ and of the electron phase, this is Lesson 71: k_μ ℳ^μ=0, now read as a statement about Z rather than about operator gauge transformations.
+
+### Worked example 2
+
+Why did Lesson 71 need both Compton diagrams? In the path integral, a gauge shift of A_μ acts on every occurrence of A in S_int. Every external photon, attached wherever the electron line allows, must be included or δS would not vanish inside the correlator. Dropping a diagram is dropping a term in δS.
+
+# 4 What this does not add
+
+These operations reorganize Parts V–X. They do not compute a new cross section and they do not remove ultraviolet divergences. They are the language in which Lesson 83 will re-derive the Feynman rules.
+
+# Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used |
+| Insertion by δ/δJ | Extra legs on amplitudes |
+| Schwinger–Dyson ⟨δS/δφ+J⟩=0 | Equations of motion inside correlators |
+| Dummy-variable Ward identity | Lesson 71, recovered |
+
+# Summary
+
+1. δ/δJ inserts a field.
+
+2. Translation of a dummy φ produces Schwinger–Dyson equations.
+
+3. A symmetry of S and of Dφ produces Ward identities.
+
+4. Gauge fixing is the Jacobian when the naive measure is not invariant.
+
+5. None of this replaces regularization or a complete set of diagrams.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | Write the Schwinger–Dyson equation ⟨δS/δφ+J⟩=0. |
+| 2 | What assumption about Dφ entered that derivation? |
+| 3 | Recover Lesson 80's completing-the-square as a shift. |
+| 4 | State the Ward identity as a dummy-variable statement. |
+| 5 | Where does Faddeev–Popov enter? |
+| 6 | Insert a photon into a correlator with δ/δJ_μ. |
+| 7 | Why is a nonlinear field redefinition more dangerous than a linear shift? |
+| 8 | Does ⟨δS⟩=0 determine the Feynman gauge parameter ξ? |
+| 9 | Connect this lesson to Lesson 27's Noether theorem. |
+| 10 | Challenge: write the Schwinger–Dyson equation for the Dirac field and recognize (iD̸−m)S_F=iδ⁴ as its two-point version. |
+
+# Solutions
+
+**1.** ⟨δS/δφ(x)+J(x)⟩_J=0.
+
+**2.** Invariance of Dφ under φ→φ+ε.
+
+**3.** Choose ε=−K⁻¹ J, which cancels the linear term in a free action.
+
+**4.** If δ_ε S=0 and Dφ is invariant, then ⟨δ_ε (φ(x₁)…φ(x_n))⟩=0, which Fourier-transforms to k_μ ℳ^μ=0 for a gauge shift.
+
+**5.** When a gauge shift is not a symmetry of the naive DAμ, the Jacobian is the Faddeev–Popov determinant, after which the identity holds in the gauge-fixed theory for gauge-invariant operators.
+
+**6.** δ log Z / δJ_μ(x) inserts A^μ(x); amputation then puts the photon on shell.
+
+**7.** A nonlinear redefinition produces a Jacobian det(δφ′/δφ) that is itself a new interaction, and may spoil the contour.
+
+**8.** No. ξ is a gauge choice; observables are independent of it by the Ward identity, Lesson 72.
+
+**9.** Noether's theorem is the classical δS=0. The dummy-variable argument is the same identity inside a weighted integral.
+
+**10.** ⟨ψ̄ (iD̸−m) + J_ψ̄⟩=0. Differentiating with respect to a second source recovers (iD̸−m)S_F=iδ⁴, Lesson 46.
+
+# Mastery checklist
+
+- I can insert fields with δ/δJ.
+
+- I can derive Schwinger–Dyson from a dummy shift.
+
+- I can recover the Ward identity as a symmetry of Z.

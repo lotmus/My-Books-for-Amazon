@@ -1,0 +1,35 @@
+H1: Chapter 4. Constellations, Error Rates, and EVM
+P: At the sampling instant, each received symbol is a single complex number. The transmitter chose it from a set of points, the constellation, and the receiver decides which point was sent by choosing the nearest one. Errors happen when noise pushes the received point across a decision boundary. This chapter computes how often that happens for the common constellations, shows why each extra bit per symbol costs about 6 dB in a square QAM, and connects the error rate to the error-vector magnitude that a test instrument reports.
+H2: 4.1 BPSK and QPSK
+P: Binary phase-shift keying sends +A or −A. With matched filtering in white Gaussian noise, the bit error rate is Q(√(2Eb/N0)), where Q is the tail probability of a unit normal distribution. Quadrature PSK sends an independent BPSK stream on I and on Q. It carries two bits per symbol in the same bandwidth with the same bit error rate for the same Eb/N0, which is why it is the workhorse of every link that has little SNR to spare.
+EQ: BER(BPSK, QPSK) = Q(√(2 Eb/N0))
+H2: Worked Example 4.1
+WEP: Find the BPSK bit error rate at Eb/N0 = 6.8 dB and at 9.6 dB.
+WES: At 6.8 dB, Eb/N0 = 4.79 and Q(√9.57) = Q(3.09) = 9.9 × 10⁻⁴, about 10⁻³. At 9.6 dB, Eb/N0 = 9.12 and Q(4.27) = 9.7 × 10⁻⁶. Three decibels more SNR lowers the error rate by a factor of about a hundred near these values, which is why uncoded links have a sharp "waterfall" and why the error rate alone is a poor guide to how much margin a link has.
+H2: 4.2 Square QAM
+P: Quadrature amplitude modulation places M points on a square grid, √M levels on each axis. The symbol error rate, written in terms of the energy per symbol Es, is well approximated by the formula below. Because each axis is an independent √M-level signal and doubling the number of levels on an axis halves the spacing for the same average power, each extra bit per axis costs about 6 dB. With Gray coding, in which neighboring points differ in one bit, the bit error rate is approximately the symbol error rate divided by log₂M.
+EQ: SER ≈ 4 (1 − 1/√M) Q(√(3 Es / ((M − 1) N0)))
+P: Solving for a symbol error rate of 10⁻³ gives the Es/N0 each constellation needs, uncoded: 4-QAM 10.35 dB, 16-QAM 17.63 dB, 64-QAM 23.97 dB, 256-QAM 30.08 dB, 1024-QAM 36.14 dB, and 4096-QAM 42.17 dB. The steps are close to 6 dB, as predicted. Phase-shift keying with eight or more points uses only a circle and is less efficient: 8-PSK needs 15.7 dB for three bits, against 17.6 dB for 16-QAM's four, and by Eb/N0 the two are 10.9 and 11.6 dB. PSK survives in links whose amplifiers must run in saturation, because it has a constant envelope; 16-QAM has a peak-to-average power ratio of 1.8, or 2.6 dB, before any filtering.
+H2: Worked Example 4.2
+WEP: A 16-QAM link has Es/N0 = 18 dB. Find its approximate symbol and bit error rates.
+WES: Es/N0 = 63.1, so the argument is √(3 × 63.1/15) = 3.55 and the symbol error rate is 4 × 0.75 × Q(3.55) = 5.7 × 10⁻⁴. With Gray coding the bit error rate is about 5.7 × 10⁻⁴/4 = 1.4 × 10⁻⁴. Compared with the 17.63 dB needed for 10⁻³, 0.4 dB more SNR has cut the error rate by almost half.
+KEY: Key idea. In a square QAM, every extra bit per symbol costs about 3 dB, and every extra bit per axis about 6 dB. Going from 1024-QAM to 4096-QAM gains 20% in throughput and costs 6 dB, four times the signal-to-noise power ratio.
+H2: 4.3 Error-vector magnitude
+P: A receiver measures the quality of a modulated signal by comparing each received symbol with the ideal point it was decided to be. The error-vector magnitude is the rms length of the difference, relative to the rms length of the ideal points. When the impairment is noise-like, EVM in decibels is the negative of the SNR in decibels. A transmitter's EVM therefore sets a ceiling on the SNR any receiver can see from it, however strong the signal. Standards specify the transmit EVM each modulation requires. For example, IEEE 802.11ax requires −35 dB for 1024-QAM, and 802.11be requires −38 dB for its 4096-QAM rates, which also use rate-5/6 or 3/4 coding.
+EQ: EVM(%) = 100 × 10^(EVM(dB)/20),   EVM(dB) ≈ −SNR(dB)
+H2: Worked Example 4.3
+WEP: Express −38 dB, −35 dB, and −25 dB of EVM as percentages. Why can 4096-QAM run at −38 dB EVM when the uncoded table above asks for 42 dB?
+WES: 10^(−38/20) = 1.26%, 10^(−35/20) = 1.78%, and 10^(−25/20) = 5.62%. The 42 dB figure is for an uncoded symbol error rate of 10⁻³. Wi-Fi 7 uses 4096-QAM only with a strong LDPC code of rate 3/4 or 5/6, which lowers the required SNR by several decibels (Chapter 7). The transmit EVM is only one contribution: the receiver's noise and its own phase noise add to it, so the link needs a few decibels more than the EVM figure at the antenna.
+H2: Practice
+PR: Find the BPSK bit error rate at Eb/N0 = 6.8 dB, to two significant figures.
+PR: From the table in Section 4.2, how much more Es/N0 does 256-QAM need than 64-QAM for the same symbol error rate?
+PR: A 64-QAM link runs at 26 dB of Es/N0. Is its symbol error rate above or below 10⁻³?
+PR: Convert 2% EVM to decibels.
+PR: What is the peak-to-average power ratio of the 16-QAM constellation, with points at ±1 and ±3 on each axis?
+PR: Why does QPSK have the same bit error rate as BPSK at the same Eb/N0?
+ANS: 9.9 × 10⁻⁴.
+ANS: 30.08 − 23.97 = 6.1 dB.
+ANS: Below, since 26 dB exceeds the 23.97 dB required.
+ANS: 20 log₁₀(0.02) = −34.0 dB.
+ANS: Peak power 18, average 10, so 1.8, or 2.6 dB.
+ANS: QPSK is two independent BPSK signals in quadrature; each carries half the symbol energy and one bit, so Eb, noise per dimension, and the decision are the same as for BPSK.

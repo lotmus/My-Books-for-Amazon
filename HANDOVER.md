@@ -26,7 +26,17 @@ Pull requests #40, #43, and #44 are merged.
 
 Leave these for the session that has them open. They are not the shared copy until that session commits them.
 
-- The Relativistic Investigation Bureau manuscript, Kindle file, and rebuild script.
-- Protocol Flamingo `Protocol_Flamingo_Rev2.docx`.
-- The Mathematics Tower volume files.
-- The Lolly Book 2 draft `.docx`.
+**Owner change, 1 Oct 2026, 16:30 PT.** The earlier sessions on RIB Book 1, Protocol Flamingo and the Mathematics Tower are dormant. One session now owns all three books: RIB Book 1 (manuscript, Kindle file, rebuild script, KDP files), Protocol Flamingo (`Protocol_Flamingo_Rev2.docx` and its notes), and the Mathematics Tower volume files. Do not edit them from another session. That session does no git operations; Lothar syncs separately. Backups of every file it changes are in `C:\Users\lomus\OneDrive\My Books for Amazon - session backups\2026-10-01 RIB-Flamingo-Tower\` (Tower backups also go in its `Archive - not for publication` folder).
+
+**Results, 1 Oct 2026, 17:00 PT** (same session; still no git, so these files are changed on disk and uncommitted):
+- RIB Book 1: 63,090 → 64,082 words. Chapter 13 rewritten, about 18 broken "Then at…" fragments fixed, `rebuild_kindle.py` now emits real headings, page breaks and a linked TOC, and the Kindle docx is rebuilt. The KDP metadata, checklist and description are finished except the author name and launch date. Details: `_BOOK_SUMMARY.md`, last section.
+- Protocol Flamingo: 26,460 → 26,647 words. Continuity, chronology and fact fixes. Details: `Protocol Flamingo/_STATUS.md`.
+- Mathematics Tower Volume 2: 175,873 → 178,054 words. Floor 15 on-ramps and a Helmholtz-uniqueness fix in Room 15.7. Details: the Tower's `CLAUDE.md`, section 6.
+- Mathematics Tower, second pass, all four volumes (evening, 1 Oct 2026): introductions written for the 14 coldest-opening rooms (3.2, 3.3, 3.7, 6.3, 8.2, 17.1, 17.4, 20.7, 27.4, 27.5, 27.6, 39.2, 42.2, 43.4), plus five accuracy fixes. V1 168,063, V2 179,462, V3 190,831, V4 173,906 words. Backups: `My Books for Amazon - session backups\2026-10-01 Tower pass 2\`. Details: the Tower's `CLAUDE.md`, section 7.
+- Mathematics Tower, third pass, all four volumes (late evening, 1 Oct 2026): openings for 12 more rooms (8.3, 11.2, 17.2, 18.3, 25.2, 27.2, 27.3, 39.5, 45.2, 47.2, 48.4, 48.6), accuracy fixes in 25.2, 27.2, 27.3, 39.5, 47.2, 48.4 and 48.6, and Floors 20–21 maths notation converted to typographic form (matrices as [1 2; 3 4]; no Word equations). V1 168,622, V2 180,834, V3 191,501, V4 175,740 words. Backups: `My Books for Amazon - session backups\2026-10-01 Tower pass 3\`. Details: the Tower's `CLAUDE.md`, section 8.
+
+- The Relativistic Investigation Bureau Book 1 manuscript, Kindle file, and rebuild script. Owned by the session above.
+- Protocol Flamingo `Protocol_Flamingo_Rev2.docx`. Owned by the session above.
+- The Mathematics Tower volume files. Owned by the session above.
+- The Lolly Book 2 draft `.docx`. Not owned by that session.
+- QED, EE, Physics, RIB Book 2 and Lolly Book 2 are being edited by other workers.

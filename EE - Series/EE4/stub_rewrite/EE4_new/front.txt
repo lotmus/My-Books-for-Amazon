@@ -1,0 +1,26 @@
+TITLE: RF, Microwave, and Antennas
+SUB: Book 4 of the Electrical Engineering Series
+COPY: Copyright © 2026 Lothar J. Musiol. All rights reserved. Kindle edition.
+SUBTITLE: Lines, Matching, Filters, Antennas, and Arrays, from 1 GHz to Millimeter Wave
+HOW: Books 1 to 3 built circuits on the assumption that a wire has no length. This book drops that assumption. It begins where a trace becomes a transmission line and follows the signal through the networks that match it, the filters that select it, and the antennas and arrays that launch it into space. Each chapter states the question it answers, develops the picture in words, and then works it through with declared numbers. Every number in a worked example was computed, not estimated, and the answers to every practice problem are in Appendix B.
+HOW: The book uses one set of reference values throughout so that chapters can be compared. The speed of light is 2.998 × 10⁸ m/s, the system reference impedance is 50 Ω, and the reference board for stripline examples has εr = 3.55. The book's link-budget anchor is the Friis path factor at 2.45 GHz over 100 m between isotropic antennas, 9.48 × 10⁻⁹, or −80.2 dB; antenna gains in dBi multiply it. Other books in the series use that number and the antenna gains from this one, and do not recompute them.
+HOW: Millimeter wave is not a separate subject here. Chapter 8 treats it as this subject at a shorter wavelength, where losses and interconnects matter more. Transmitter power and the power amplifier are Book 6, laminate properties at 10 GHz and packages are Book 9, and emissions limits are Book 7. Readers who want the next level of depth should turn to the texts in Appendix C; this book's explanations, examples, and problems are its own.
+CONST: Speed of light c = 2.998 × 10⁸ m/s. Reference impedance Z0 = 50 Ω unless stated.
+CONST: Reference stripline laminate: εr = 3.55, so λg = λ0/1.884; at 2.45 GHz, λ0 = 12.24 cm and λg = 6.49 cm. Reference microstrip: 0.508 mm thick, εr = 3.55, 50 Ω width 1.14 mm, εeff ≈ 2.79.
+CONST: Decibels: P(dBm) = 10 log₁₀(P/1 mW); 0 dBm in 50 Ω is 0.224 V rms.
+CONST: Reflection: Γ = (ZL − Z0)/(ZL + Z0); VSWR = (1 + |Γ|)/(1 − |Γ|); RL = −20 log₁₀|Γ|; ML = −10 log₁₀(1 − |Γ|²).
+CONST: Line input impedance: Zin = Z0 (ZL + jZ0 tan βl)/(Z0 + jZL tan βl); quarter wave: Zin = Z0²/ZL.
+CONST: L-network: Q = √(Rhigh/Rlow − 1), Xseries = Q Rlow, Xshunt = Rhigh/Q.
+CONST: S-parameters: Zin = Z0(1 + S₁₁)/(1 − S₁₁); stability K = (1 − |S₁₁|² − |S₂₂|² + |Δ|²)/(2|S₁₂S₂₁|), Δ = S₁₁S₂₂ − S₁₂S₂₁.
+CONST: Filter prototypes, third order: Butterworth g = 1, 2, 1; Chebyshev 0.1 dB g = 1.0316, 1.1474, 1.0316. Midband loss ≈ 4.343 Σgₖ/(FBW Qu) dB.
+CONST: Rectangular waveguide TE₁₀ cutoff fc = c/2a; WR-90 a = 22.86 mm (6.56 GHz); WR-28 a = 7.112 mm (21.1 GHz).
+CONST: Antennas: half-wave dipole Rrad ≈ 73 Ω, D = 1.64 (2.15 dBi); short dipole Rrad = 80π²(l/λ)²; Ae = Gλ²/4π; dish G = ηap(πD/λ)², θ₃dB ≈ 70λ/D degrees.
+CONST: Link anchor: Pr/Pt = Gt Gr (λ/4πR)²; at 2.45 GHz and 100 m the path factor is 9.48 × 10⁻⁹ (−80.2 dB).
+CONST: Arrays: β = −kd sin θ₀; no grating lobes for d/λ < 1/(1 + |sin θmax|); broadside beamwidth ≈ 0.886λ/(Nd) rad.
+SRC: Chris Bowick, RF Circuit Design, 2nd edition, for the practical start of Chapters 1 to 3.
+SRC: David M. Pozar, Microwave Engineering, 4th edition; Michael Steer, Microwave and RF Design, volumes 1 to 3 (open textbook), for lines, matching, S-parameters, filters, and waveguide.
+SRC: Guillermo Gonzalez, Microwave Transistor Amplifiers, for stability and gain from S-parameters.
+SRC: George Matthaei, Leo Young, and E. M. T. Jones, Microwave Filters, Impedance-Matching Networks, and Coupling Structures, and Jia-Sheng Hong, Microstrip Filters for RF/Microwave Applications, for Chapter 6.
+SRC: Constantine Balanis, Antenna Theory, 4th edition, and John Volakis (editor), Antenna Engineering Handbook, for Chapters 7 and 8; Robert Mailloux, Phased Array Antenna Handbook, for arrays.
+SRC: E. Hammerstad and Ø. Jensen, "Accurate Models for Microstrip Computer-Aided Design" (IEEE MTT-S, 1980), for the microstrip numbers. The MIT Radiation Laboratory Series is the historical record of the field.
+SRC: ITU-R Recommendations P.676 (gaseous attenuation) and P.838 (rain) for millimeter-wave propagation.

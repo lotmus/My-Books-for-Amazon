@@ -1,0 +1,23 @@
+TITLE: Transceivers and High-Power RF
+SUB: Book 6 of the Electrical Engineering Series
+COPY: Copyright © 2026 Lothar J. Musiol. All rights reserved. Kindle edition.
+SUBTITLE: Power Amplifiers, Load Lines, Doherty, Receiver Noise, the PLL, and Radar
+HOW: This book owns the watts. It follows a transmitter from the device to the antenna: the device families, the load line, the amplifier classes, efficiency under modulated signals and the Doherty amplifier, and then the heat sink, combiners, filters, and feed line that stand between the transistor and the radiated power. It then turns to the receiving half of the radio, its noise figure and dynamic range, and to the oscillator and phase-locked loop that tune both halves. The last chapter, radar, brings transmitter and receiver together.
+HOW: Each chapter states its question, develops the idea in words, and works it through with declared numbers. Every number was computed, and the answers to every practice problem are in Appendix B. The reader should know the matching and S-parameter material of Book 4 and the modulation and EVM material of Book 5.
+HOW: The series gives each subject one home. Device physics, including why gallium nitride withstands high voltage, is Book 3's. Antenna gain, the Friis path factor, and matching networks are Book 4's. The waveform, OFDM, and the band plan are Book 5's. Emission masks, test chambers, and certification are Book 7's. Power conversion, including pulse modulators for tube transmitters, is Book 8's. This book's anchor numbers are the load-line pair for 100 W, Ropt = 10.13 Ω at 50 V with a 5 V knee and 3.13 Ω at 28 V with a 3 V knee, and the rule that 1 dB of feed loss leaves 0.794 of the power. The texts in Appendix C go deeper; this book's explanations, examples, and problems are its own.
+CONST: dBm = 10 log₁₀(P/1 mW); 1 W = 30 dBm; 1 dB of loss leaves 0.794 of the power. EIRP = Pout − Lfeed + Gant.
+CONST: Load line: Ropt = (VDD − Vknee)²/(2P). 100 W: 10.13 Ω at 50 V/5 V knee; 3.13 Ω at 28 V/3 V knee.
+CONST: Efficiency: ηD = Pout/PDC; PAE = (Pout − Pin)/PDC. Class A 50%; class B π/4 = 78.5%; η(α) = (α − sin α)/[4(sin(α/2) − (α/2)cos(α/2))].
+CONST: Back-off: class A η ∝ Pout; class B η = (π/4)√(Pout/Pmax); ideal symmetric Doherty 78.5% at peak and at 6 dB back-off.
+CONST: OIP3 = Ptone + ΔIM3/2. SFDR = (2/3)(IIP3 − Nfloor).
+CONST: Thermal: Tj = Tamb + Pdiss Σθ. Ideal N-way combiner: Pout = (Σ√Pi)²/N; one of N failed leaves (N − 1)²/N².
+CONST: Noise: kT0 = −174 dBm/Hz at 290 K; Te = T0(F − 1); F = F1 + (F2 − 1)/G1 + (F3 − 1)/(G1G2) + ….
+CONST: PLL: fout = N fref; in-band noise = Lref + 20 log₁₀N. Leeson: L(Δf) ≈ 10 log₁₀{(2FkT/Ps)[1 + (f0/(2QLΔf))²]}. σφ = √(2∫L df); jitter = σφ/(2πf0).
+CONST: Radar: Pr = PtG²λ²σ/[(4π)³R⁴]; ΔR = c/(2B); Runamb = c·PRI/2; fd = 2v/λ; FMCW fb = 2RS/c.
+SRC: Steve C. Cripps, RF Power Amplifiers for Wireless Communications, 2nd edition, and Advanced Techniques in RF Power Amplifier Design, for the load line, classes, and Doherty (Chapters 2 to 4).
+SRC: Andrei Grebennikov, Nathan O. Sokal, and Marc J. Franco, Switchmode RF and Microwave Power Amplifiers, for classes E and F.
+SRC: Peter B. Kenington, High-Linearity RF Amplifier Design, for intermodulation and predistortion.
+SRC: Kevin McClaning, Wireless Receiver Design for Digital Communications, and Behzad Razavi, RF Microelectronics, 2nd edition, for noise cascades, dynamic range, and oscillators (Chapters 6 and 7).
+SRC: Floyd M. Gardner, Phaselock Techniques, 3rd edition, and Roland E. Best, Phase-Locked Loops, for the PLL; D. B. Leeson, "A Simple Model of Feedback Oscillator Noise Spectrum," Proceedings of the IEEE, 1966.
+SRC: Merrill I. Skolnik, Introduction to Radar Systems, 3rd edition, and Mark A. Richards, Fundamentals of Radar Signal Processing, for Chapter 8.
+SRC: W. H. Doherty, "A New High Efficiency Power Amplifier for Modulated Waves," Proceedings of the IRE, 1936.

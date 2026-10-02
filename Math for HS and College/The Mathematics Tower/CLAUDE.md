@@ -130,3 +130,141 @@ zip. Hard-won rules:
 The floor map, the room pattern, and the citations that are easy to get wrong
 are in `Tower - Series Reference.md`. That file also records the Floor 18
 bookmark names. Leave them as they are.
+
+## 6. Session of 1 Oct 2026 (Volume 2, Floor 15)
+
+One session owns the Tower, RIB Book 1 and Protocol Flamingo, and does no git.
+Backup before the edit: `Archive - not for publication\The Mathematics Tower - Volume 2 (backup 2026-10-01, before Floor 15 on-ramps).docx`.
+
+Floor 15 was the thinnest floor and its rooms opened cold with definitions.
+Volume 2 went from 175,873 to 178,054 words (body text). Only `word/document.xml`
+changed; 107 pictures, 906 hyperlinks and 428 bookmarks are unchanged.
+
+- 15.1: weather-map opening before the definition, bridging from Room 14.4.
+- 15.2: full seven-move on-ramp for divergence (shop-door count; boxes around
+  (1,1,1) in ⟨x²,y²,z²⟩ give exactly 6; ⟨x³,0,0⟩ at (1,0,0) gives 3 + h²/4:
+  3.25, 3.0625, 3.0025, 3.000025, never arriving at 3). Curl on-ramp as
+  circulation ÷ area: the rotation field gives 2 for every square, matching
+  the room's ⟨0,0,2⟩; ⟨0,x³,0⟩ gives the same table, heading for 3. The formal
+  examples that follow reach 6 and 2. "Partial derivatives introduced in the
+  last floor" now says Room 13.4 (they are Floor 13, not 14).
+- 15.4: work-as-trolley opener (50 J, 25 J at 60°, 0 J), and the hill-climb
+  case for path independence.
+- 15.5: rain-through-a-hoop opener (10, 5, 0 liters per hour), landing on the
+  room's 2π disc and the tilted-plane result of 1.
+- 15.7: accuracy fix. The worked Helmholtz example does not decay at infinity,
+  so its split is not unique. A second, verified split is added:
+  ∇(x²+y²+z²+xy) + curl⟨0,0,−y²⟩. The text explains why decay restores uniqueness.
+- Hinge words removed ("simply gathered", "it just spins", "just this constant",
+  "simply a choice"). Answer to Floor 15 Problem 12 now points to Room 15.4.
+
+Candidates for a later pass (not done): other rooms that open cold, e.g. 6.3,
+3.2, 17.1; rooms 15.6 and 15.8 are still under 900 words.
+
+## 7. Session of 1 Oct 2026, evening: cold-opening pass, all four volumes
+
+Same owner session, no git. Backups of all four volumes, this file and the root
+HANDOVER.md are in
+`C:\Users\lomus\OneDrive\My Books for Amazon - session backups\2026-10-01 Tower pass 2\`.
+
+Method: for every room except Looking Ahead, count the prose words before the
+first display line or worked example, and read the first sentence. Rooms that
+began with a bare definition or formula were ranked weakest. The x.1 "What … Is"
+rooms already have on-ramps. Floor 1's zero scores are a quirk of the
+measurement (no subtitle line), not cold openings.
+
+New on-ramps, each sharing its numbers with the room's own examples, and every
+figure checked as exact fractions:
+- V1: 3.2 (calculator error; 1/(x − 3), √(x − 5)); 3.3 (taxi 2x + 1, patio
+  squares, second differences of x² − 4x + 3); 3.7 (folding paper; log₂32 = 5;
+  log₂10,000 bracketed and shown irrational); 6.3 (Ferris-wheel seat at 0°, 30°,
+  90°, 150°, 180°, 210°, −30°); 8.2 (café prices; the room's two systems).
+- V2: 17.1 (metronome comb, spacing 1/T, T·cₙ = 0.9003 at T = 4, 8, 16);
+  17.4 (rain gauge [1,2,3] * [1,1] = [1,3,5,3]; box-on-box overlaps); 20.7
+  (photo stretch; A = [[4,1],[2,3]] on five trial arrows).
+- V3: 27.4 (heat vs string at x = π/2: e^(−t) sin x against sin x cos 2t;
+  Newton's acceleration rule); 27.5 (ink drop; kernel peaks 0.5642, 0.2821, 0.1410);
+  27.6 (soap film; four-point averages of x² − y²).
+- V4: 39.2 (average surprise 0.469; best block codes 1, 0.645, 0.533, 0.493 bits
+  per flip, never reaching 0.469); 42.2 (weighted average 3.5, loaded die 4.5,
+  35/12); 43.4 (doubling system; five-bet cap gives average exactly 0).
+
+Accuracy and presentation fixes:
+- 17.1: Poisson summation does not need non-overlapping copies; cₙ = (1/T) f̂(n/T) always.
+- 27.4: Huygens' principle holds in odd dimensions from three up, not "any odd"
+  (one dimension leaves a wake from initial velocity). The wave equation is not
+  "the reason the speed of light is a limit"; reworded to light obeying wave equations.
+- 27.5: the maximum principle now says "unless the solution is constant".
+- 39.2: 0.469 bits is a little under half of a fair coin's bit, not "a fifth".
+- 20.7: ASCII math (lambda, *, ^2, ^T, x_1, " - ") is now λ, ·, ², ᵀ, x₁, em dash.
+  "lambda" → λ also in 20.8, 20.9 and the 25.9 glossary.
+- Hinge words removed in 3.2, 3.7 and 17.4.
+
+Still open: Floor 20–21 write matrices as [[a,b],[c,d]] and 20.8 still uses
+d_1, ^2 and "plus or minus" (house style or not: Lothar's call). Next-coldest
+rooms by the same measure: 48.6, 25.2, 27.2, 45.2, 8.3, 18.3, 27.3, 11.2, 39.5,
+48.4, 17.2, 47.2.
+
+Word counts (body text): V1 166,215 → 168,063; V2 178,054 → 179,462;
+V3 189,786 → 190,831; V4 172,679 → 173,906. Only `word/document.xml` changed
+in each; pictures 97/107/102/114, hyperlinks and bookmarks unchanged.
+
+## 8. Session of 1 Oct 2026, late evening: third pass, all four volumes
+
+Same owner session, no git. Backups of all four volumes, this file and the root
+HANDOVER.md are in
+`C:\Users\lomus\OneDrive\My Books for Amazon - session backups\2026-10-01 Tower pass 3\`.
+
+New openings, same method as section 7 (each uses the room's own numbers,
+every figure checked exactly):
+- V1: 8.3 (room corner and Toblerone faces; elimination of the room's system to
+  3y + z = 9, y − 2z = −4, point (1, 2, 3)); 11.2 (11.1's table 7, 6.5, 6.1,
+  6.01 redone with h as a letter: slope = 6 + h).
+- V2: 17.2 (test-wave areas for the unit pulse: 1, 2/π ≈ 0.6366, 0);
+  18.3 (un-adding 1/2 + 1/3; (3s + 5)/((s − 1)(s + 2)) = (8/3)/(s − 1) +
+  (1/3)/(s + 2), checked at s = 2); 25.2 (choir {1,2,3,4} and chess club
+  {3,4,5,6} in a class of 8).
+- V3: 27.2 (moving walkway, u = f(x − 2t)); 27.3 (B² − 4AC for circle,
+  hyperbola, parabola, then Laplace, wave, heat).
+- V4: 39.5 (bad phone line: 0.531, 0.278, 0 bits against the naive 0.9, 0.8,
+  0.5); 45.2 (two carts; Euler steps 2.25, 2.375, 2.45, 2.495 → 2.5);
+  47.2 (thrown ball, action (4a² − 40a)/3 minimal at the true 5 m arch);
+  48.4 (data 1, 3, 8: SVRG corrections all give −4); 48.6 (GDA arrows are the
+  rotation field of Room 15.1; distance grows by √(1 + η²) every step).
+
+Accuracy and presentation fixes:
+- 27.2: the wave equation is in Room 27.4, not "the next room".
+- 27.3: Hadamard's example is in Room 27.1, not "the previous room".
+- 48.4: RMSProp's 0.3425 is the actual update, not the "effective step"
+  (the comparison with AdaGrad's 0.0995 update was right; the label was wrong).
+- 48.6: min_x max_y means y responds to x, not "each after seeing the other's move".
+- 25.2: "just what was just defined here" → "the set of equivalence classes
+  defined above"; stray full stop after "relation?".
+- 39.5: doubled label "Abstract example — Illustrative example"; mismatched
+  quote around the erasure symbol.
+- 47.2: x’’ → x″. 18.3: "simply" removed. 20.4: "a elegant" → "an elegant".
+
+Notation, Floors 20–21 (all rooms, including 20.7's matrices):
+- Word equations (OMML) were NOT used. No volume contains any, and KDP's
+  docx-to-Kindle conversion does not render them reliably, so matrices use the
+  clean typographic form already used in Volume 4 (Room 45.2): [1 2; 3 4] —
+  rows separated by semicolons, entries by spaces, compound entries in
+  parentheses ([(4−λ) 1; 2 (3−λ)]), augmented blocks as [2 1 | 1 0; 1 1 | 0 1].
+- Also: x_1, a_{ij}, d_1 → x₁, aᵢⱼ, d₁; ^2, ^3, ^T, ^−1 → ², ³, ᵀ, ⁻¹;
+  R^n → ℝⁿ; "plus or minus 1" → ±1; * → · (Floor 20 only; the * in Floor 21
+  is the adjoint and stays); spaced hyphens → em dashes (one real minus in
+  20.4); m x n, 2x3 → ×; <=> → ⇔; ... → ⋯ or …; ∫_{−π}^{π} → ∫[−π, π]
+  (as in 47.2); A_x, A_y in Cramer's rule → A₁, A₂ (matching xᵢ = det(Aᵢ)/det(A));
+  A^p A^q = A^(p+q) → AᵐAⁿ = Aᵐ⁺ⁿ (no superscript q exists, and p is p(A) there).
+- 306 paragraphs changed. No [[, ^, _{ or "plus or minus" remains in Floors 20–21.
+  Other floors (17.3, Floor 22, 25.9) still have some [[ ]] matrices.
+- If Lothar wants real Word equations instead, that is a separate decision.
+
+Word counts (body text): V1 168,063 → 168,622; V2 179,462 → 180,834;
+V3 190,831 → 191,501; V4 173,906 → 175,740. About 580 of V2's increase is
+the matrix rewrite splitting [[1,2],[3,4]] into separate tokens, not new prose.
+Only `word/document.xml` changed; pictures, hyperlinks and bookmarks unchanged.
+
+Next-coldest rooms by the same measure: 18.4, 30.8, 42.7, 7.7, 13.5, 16.4,
+24.2, 30.4, 36.8, 48.2, 50.6, 2.8. (27.3 now scores 8 only because its new
+opening reaches a display row after one sentence.)

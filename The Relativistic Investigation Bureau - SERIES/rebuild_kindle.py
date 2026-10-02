@@ -111,6 +111,13 @@ def is_heading(line: str, nxt: str, prev: str = "") -> bool:
     if re.fullmatch(r"(?:Chapter \d+|Lesson \d+|PROLOGUE)", prev):
         return True
     if line.startswith(HEAD_START):
+        # "Chapter " and "Lesson " only open a section as a bare label ("Chapter 3"),
+        # or as the in-lesson "Lesson checkpoint" subhead. A sentence that happens to
+        # start with "Chapter 16's ..." is body text.
+        if line.startswith("Chapter ") and not re.fullmatch(r"Chapter \d+", line):
+            return False
+        if line.startswith("Lesson ") and not (re.fullmatch(r"Lesson \d+", line) or line == "Lesson checkpoint"):
+            return False
         return True
     if line in {
         "The Murder That Hadn't Happened Yet",
@@ -216,8 +223,50 @@ def add_body(doc, text: str, glossary: bool = False):
     return p
 
 
-def add_heading_line(doc, text: str, first=False):
+# Top-level sections. These get Word's Heading 1 style so Kindle and Word build
+# navigation from them, and a page break before them. Subtitle lines under a
+# label ("The Surprise in the Morning") stay plain headings so the navigation
+# pane does not list every chapter twice. Short front-matter notes that follow
+# How to Read get Heading 2 and no page break.
+H1_EXACT = {"PROLOGUE", "EPILOGUE", "Interlude", "COURSE", "Syllabus Map", "WORKSHOP",
+            "SUMMARY", "GLOSSARY", "About the Author", "FURTHER READING",
+            "ACKNOWLEDGEMENTS", "BIBLIOGRAPHY", "One Last Thing", "How to Read This Book",
+            "Table of Contents", "Coming Next in the Relativistic Investigation Bureau Series"}
+H2_EXACT = {"Author's Note", "Copyright Stuff (The Serious Part)", "Reality Check (Sort Of)"}
+SECTION_ANCHOR = {"PROLOGUE": "prologue", "How to Read This Book": "how_to_read",
+                  "Interlude": "interlude", "Coming Next in the Relativistic Investigation Bureau Series": "coming_next",
+                  "COURSE": "course", "GLOSSARY": "glossary", "BIBLIOGRAPHY": "bibliography"}
+
+
+def toc_anchor(entry: str):
+    m = re.match(r"Chapter (\d+) - ", entry)
+    if m:
+        return "chapter_" + m.group(1)
+    for key, anchor in (("PROLOGUE", "prologue"), ("How to Read", "how_to_read"),
+                        ("Interlude", "interlude"), ("EPILOGUE", "epilogue"),
+                        ("Coming Next", "coming_next"), ("COURSE", "course")):
+        if entry.startswith(key):
+            return anchor
+    return None
+
+
+def heading_level(line: str, ahead: str):
+    if re.fullmatch(r"(?:Chapter|Lesson) \d+", line) or line in H1_EXACT:
+        if line == "WORKSHOP" and ahead.startswith("Do this after"):
+            return 2  # the pointer on the syllabus page, not the workshop itself
+        return 1
+    if line in H2_EXACT:
+        return 2
+    return 0
+
+
+def add_heading_line(doc, text: str, first=False, level=0):
     p = doc.add_paragraph()
+    if level:
+        p.style = doc.styles["Heading %d" % level]
+        if level == 1:
+            p.paragraph_format.page_break_before = True
+        p.paragraph_format.keep_with_next = True
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p.paragraph_format.space_before = Pt(6 if first else 16)
     p.paragraph_format.space_after = Pt(10)
@@ -257,10 +306,27 @@ def main():
     first = True
     prev = ""
     in_glossary = False
+    in_toc = False
+    toc_count = 0
+    seen = set()
     while i < len(lines):
         line = lines[i].rstrip()
         nxt = lines[i + 1].rstrip() if i + 1 < len(lines) else ""
         if not line:
+            if in_toc and toc_count:
+                in_toc = False
+            i += 1
+            continue
+        if in_toc:
+            anchor = toc_anchor(line)
+            p = doc.add_paragraph()
+            p.paragraph_format.space_after = Pt(2)
+            if anchor:
+                add_internal_link(p, anchor, line)
+            else:
+                add_plain(p, line)
+            toc_count += 1
+            prev = line
             i += 1
             continue
         if line == "GLOSSARY":
@@ -268,8 +334,15 @@ def main():
         elif line in {"About the Author", "FURTHER READING", "ACKNOWLEDGEMENTS", "BIBLIOGRAPHY"}:
             in_glossary = False
         if is_heading(line, nxt, prev):
-            para = add_heading_line(doc, line, first=first)
+            ahead = lines[i + 2].strip() if i + 2 < len(lines) else ""
+            level = 0 if first else heading_level(line, ahead)
+            para = add_heading_line(doc, line, first=first, level=level)
             first = False
+            if line == "Table of Contents":
+                in_toc = True
+            if line in SECTION_ANCHOR and SECTION_ANCHOR[line] not in seen:
+                mark_bookmark(para, SECTION_ANCHOR[line])
+                seen.add(SECTION_ANCHOR[line])
             if re.fullmatch(r"Chapter \d+", line):
                 mark_bookmark(para, "chapter_" + line.split()[1])
             elif re.fullmatch(r"Lesson \d+", line):
@@ -284,6 +357,14 @@ def main():
         prev = line
         i += 1
 
+    props = doc.core_properties
+    props.title = "The Murder That Hadn't Happened Yet"
+    props.subject = "A Relativistic Investigation Bureau Mystery"
+    props.author = ""  # the byline is Lothar's decision; never leave "python-docx" here
+    props.last_modified_by = ""
+    props.keywords = "relativity, mystery, The Relativistic Investigation Bureau"
+    props.language = "en-GB"
+    props.comments = ""
     doc.save(OUT)
     print("Wrote", OUT, "paragraphs", len(doc.paragraphs))
 

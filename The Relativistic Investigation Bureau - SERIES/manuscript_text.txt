@@ -80,7 +80,7 @@ Derek had objected. Penny had noted that they had never actually received a case
 Derek had said that this was beside the point.
 Penny had stated that this was precisely the point.
 Derek had lost that argument years ago and had, as a matter of policy, continued to lose it every morning since. The sign was still right. The email was still early. The photograph was of this room, which was worse.
-Then he rapped his knuckles against the Bureau's computer. It was his computer.
+Then he checked the Bureau's computer. It was his computer.
 Everything appeared to be where it ought to be. Derek did not find this reassuring.
 The filing cabinet was locked. The kettle was where the kettle normally was, which was not necessarily where it ought to be.
 Outside, a bus pulled away from the kerb with a noise suggesting that several of its components had voted against the decision. Rain tapped the window. Somewhere downstairs, the landlord was drilling into something which, judging by previous work, would shortly become the Bureau's responsibility.
@@ -1203,8 +1203,8 @@ Then he examined the positions of all three. His expression changed. The patent 
 "They do that."
 "Not like this."
 The attorney appraised him. Weinstein took out his notebook. He calculated.
-Then calculated again. The difference was far too large. He threw up his hands at the ceiling.
-Then at the floor. The secretary came in.
+Then calculated again. The difference was far too large. He threw up his hands at the ceiling, then glared at the floor.
+The secretary came in.
 "Herr Weinstein?"
 "Yes?"
 "Is everything all right?"
@@ -1268,8 +1268,8 @@ His expression changed. "Where did you get this?"
 "From the Bureau."
 "What Bureau?"
 "Derek Gent's Relativistic Investigation Bureau."
-Weinstein watched the photograph. 
-Then at Matkowski. "And you expect me to believe this?"
+Weinstein studied the photograph. 
+Then he looked at Matkowski. "And you expect me to believe this?"
 "No."
 "Good."
 "I expect you to analyse it."
@@ -1357,7 +1357,7 @@ Then Alfred Weinstein's.
 Finally, one more line appeared.
 HERBERT MATKOWSKI: CONSULTING
 The screen went dark. In Munich, at almost exactly the same moment, the wall clock in the patent attorney's familiar office stopped. Weinstein noticed.
-He watched his watch. Then at the clock. Then at the second hand.
+He checked his watch. Then the clock. Then the second hand.
 It had stopped at seventeen. Something eased in his face. Matkowski noticed.
 "What?"
 Weinstein held up his watch. "Same thing."
@@ -1899,7 +1899,7 @@ Barbarian's eyes glinted with something like mischief. "Yes?"
 Barbarian regarded him. For the first time since they'd arrived, he seemed genuinely uncertain.
 "Ah."
 Penny laughed. Trevor laughed. Even Weinstein smiled.
-Barbarian examined the clocks around the empty room. Then at the sky, then at the brass clock in Derek's hand. He did not answer the question about what day it was. That, more than anything else that afternoon, was the detail that stayed with Derek on the train back.
+Barbarian examined the clocks around the empty room. Then the sky, then the brass clock in Derek's hand. He did not answer the question about what day it was. That, more than anything else that afternoon, was the detail that stayed with Derek on the train back.
 "You're taking this well," Barbarian observed, on the platform.
 "There's very little else to do with it," Derek said. "I can't negotiate with a frozen bird. I can investigate one. That's the whole of the choice, so I might as well make it."
 Barbarian looked at him with something that was not quite approval and not quite pity. "Most people need rather longer to arrive at that."
@@ -2777,8 +2777,8 @@ Derek shook his head.
 "Fair enough."
 Penny affirmed: "Could be initials."
 "Whose?"
-Nobody knew. Weinstein examined the clock. Then at the paper.
-Then at the three coordinates. 
+Nobody knew. Weinstein examined the clock. Then the paper.
+Then the three coordinates. 
 He suddenly stood. "Let's go upstairs."
 Derek studied him. "Why?"
 "Because I want a map."
@@ -2875,7 +2875,7 @@ Trevor's ears reddened. "Right."
 Derek rubbed his eyes. "Origin."
 "Yes."
 "Which is?"
-They considered the clock. Then at one another. 
+They considered the clock. Then one another. 
 Penny gestured. "The Louvre entrance."
 They walked. The three coordinates took them towards a large painting. 
 Derek stopped. "This is it."
@@ -2931,8 +2931,8 @@ Weinstein remained in front of the painting. He was thinking. Derek knew better 
 Penny knew better still. 
 Trevor, after several years of experience, had learned that there were two kinds of silence from Weinstein. There was the ordinary silence.
 And there was the dangerous silence. This was the second kind. Weinstein didn't move.
-Then at the ancient brass clock. 
-Then at the three coordinates. Three spatial dimensions.
+His eyes went to the ancient brass clock. 
+Then to the three coordinates. Three spatial dimensions.
 One temporal coordinate. A geometry. A worldline.
 An invariant interval. And curvature. 
 He suddenly took out his notebook.
@@ -3671,7 +3671,7 @@ A pleased smile appeared on Trevor's face. "I've solved it."
 "Not quite."
 "Oh."
 Derek eyed the paper again. 
-Then at the door. 
+Then the door. 
 The ancient clock stopped. All three watched.
 The second hand froze. 
 The computer switched on. A message quietly appeared:
@@ -3688,7 +3688,7 @@ Penny confirmed. "Yes."
 Trevor considered this. "Apparently you're both here."
 "Both?"
 Trevor indicated the screen. "Virtual Derek."
-Then at Derek. "Actual Derek."
+Then Derek. "Actual Derek."
 Derek didn't answer at first. Two of him. One typing at a keyboard that wasn't there.
 The screen changed.
 DOOR CLOSING IN 10 SECONDS
@@ -4116,7 +4116,7 @@ The door remained closed. Trevor considered this. "He's working hard."
 "Obviously."
 Penny picked up the cucumber. "Right."
 "What exactly are you testing?"
-Penny watched the cucumber. Then at the silent clock. Then at the equipment.
+Penny watched the cucumber. Then the silent clock. Then the equipment.
 "Whether an ordinary object can help us detect the strange change in the local frame that Derek encountered on the Underground."
 Trevor's expression changed.
 "Ah."
@@ -4365,7 +4365,7 @@ The other Derek grinned. Then the train doors closed. The train departed.
 Derek ran after it.
 "Wait!"
 The empty train disappeared into the deep tunnel. Derek stopped. He watched the empty track.
-Then at the cucumber in his hand.
+Then the cucumber in his hand.
 "Right."
 Penny walked over. "You've got a cucumber."
 "Apparently."
@@ -4387,9 +4387,9 @@ Trevor thought. "If he can interact with things..."
 "If he can eat a cucumber..."
 Derek regarded him. "Why would that prove anything?"
 Trevor shrugged. "It would at least be satisfying."
-Penny laughed. Derek examined the cucumber. Then at the dark tunnel.
+Penny laughed. Derek examined the cucumber. Then the dark tunnel.
 He suddenly smiled. "Maybe we've been asking the wrong question."
-Penny confirmed. "Again?"
+Penny groaned. "Again?"
 "Yes."
 "What is it this time?"
 "Not whether the other Derek is real."
@@ -4507,12 +4507,28 @@ Rule: Describe the inside using only the edge — then ask what survived the che
 -> Lesson for this chapter: 11 - The Hologram
 Chapter 13
 The Wrong Kind of Multiverse
-Penny had decided that Derek was becoming unbearable. Not because he was wrong. That would have been easier. It was because he was usually right, and there was something deeply irritating about a man who could spend an afternoon discussing curved spacetime, singularities, and the holographic principle and then, when Penny pointed out an obvious practical difficulty, simply say "Yes," as though the universe had just been waiting for him to catch up. So Penny went to the cinema. Alone.
-What was unusual was the film she chose: Everything Everywhere All at Once. She settled into her seat with popcorn and sat upright. "Blimey." The film was the wrong kind of multiverse — drawers you could open at will, every branch kept crisp for the joke. The question she would allow it was narrower. Which numbers have to agree, whoever is describing them? And which future of Sophie gets voted for when a description is picked?
-The film wanted the brass clock dead and standing at once. Penny did not believe the room would permit it. By the time light left an object and reached a camera, the argument was already over. She did not yet know the name for that. She knew the camera had won.
-"That explains the other Derek." Then, frowning: "No, it doesn't." Two identical states, two separate histories, no contradiction in the equations. Fear was a coordinate too. Whether Sophie was safe did not change with the angle you looked at it from.
+Penny had decided that Derek was becoming unbearable.
+Not because he was wrong. That would have been easier. It was because he was usually right, and there was something deeply irritating about a man who could spend an afternoon discussing curved spacetime, singularities, and the holographic principle and then, when Penny pointed out an obvious practical difficulty, simply say "Yes," as though the universe had just been waiting for him to catch up. So Penny went to the cinema. Alone.
+The little repertory cinema off Leicester Square smelled of old velvet, butter-flavoured something, and the rain that people had carried in on their coats. She bought popcorn she did not want, because the queue made her feel conspicuous without it, and took a seat in the middle of row F, which was where people sat who intended to take a film seriously and then complain about it.
+What was unusual was the film she chose: Everything Everywhere All at Once. She had seen it before. That was the point. The first time you watched a film you were busy having feelings. The second time you could watch the machinery.
+The lights went down. The projector beam found the screen through a slow drift of dust, and for a moment, before the first image, the beam itself was the most interesting thing in the room: a cone of light already on its way, carrying a picture that had been decided long before anyone in row F sat down. Penny made a note of that and immediately distrusted it.
+Twenty minutes in she said, "Blimey," loudly enough that a man two seats along moved his coat.
+The film's multiverse was a filing cabinet with every drawer open. You could pull out a branch at will — the one where you were a cook, the one where your fingers were sausages, the one where you were a rock with a pair of googly eyes — and every branch was kept crisp for the joke, ready to be visited, ready to hand you a skill or a regret. It was magnificent. It was also, Penny thought, the wrong kind of multiverse.
+She knew roughly what physicists meant by the word, because Trevor had once explained it to her for forty minutes in a pub and she had kept, by her own estimate, the useful nine. There were several multiverses on offer, and none of them came with drawers. In one, space simply went on so far beyond the reach of any telescope that distant regions would never exchange so much as a photon with us. In another — the quantum one, which Trevor liked best because it annoyed people — every measurement split the world into branches that went their separate ways and never spoke again. Different stories, one shared rule: whatever was over there stayed over there. You could not visit. You could not borrow a skill. You could not receive a text.
+That was the rule the film had to break to have a plot. It was also the rule Penny needed for hers.
+On screen a woman fought her way out of a tax office with a bum bag. Penny ate a piece of popcorn and thought about the station.
+The other Derek had been seen. He had smiled. He had lifted a cucumber. Light had left his face, crossed a platform, and arrived in her eyes, and that, she realised with the slow irritation of a person discovering she agrees with Trevor, settled one question completely. Anything you can see is in your universe. That was not a theory about the man on the train. It was what "your universe" meant: everything that can send you a signal. If he had come from some other branch, she could not have seen him at all. She had seen something. So it was in here with them.
+"That explains the other Derek," she murmured. Then, frowning: "No, it doesn't."
+It explained where he could not be from. It did not explain what he was. Two identical faces, two separate histories, no contradiction in the equations — and no permission, either, to treat him as a visitor. Whatever had sat on that train belonged to the same spacetime as the Bureau's kettle. The strangeness was not next door. It was in how they were describing this one.
+She thought about Sophie, because she had been trying not to for an hour and the dark made it harder. Sophie and her notebook of lying clocks, ruling neat columns: the time the clock said, the time it ought to have said, the difference. Twelve years old and already running the Bureau's only honest audit.
+The film wanted the brass clock dead and standing at once, every possibility kept alive because keeping them alive was the joke. Penny did not believe the room would permit it. By the time light left an object and reached a camera, the argument was already over. The photograph was not a branch. It was a record of one place and one moment, a bundle of light that had arrived at one lens. She did not yet know the name for that. She knew the camera had won.
+And there was something else Trevor had said in the pub, between the second pint and the third, which she had filed under boring and now took out again. Observers in different frames can argue about almost everything: how long, how far, which of two distant things happened first. What they cannot argue about is what a clock says when something happens right beside it. If the brass clock showed a time at the instant the shutter opened, everyone, in every frame, would agree on what it showed, because the clock and the shutter were in the same place at the same moment. Distant simultaneity was negotiable. A coincidence was not.
+Fear was a coordinate too, she decided. It changed depending on where you stood. Whether Sophie was safe did not change with the angle you looked at it from.
 If ARRIVAL: 12:04 was a postcode in a block universe rather than a prediction, she did not enjoy that thought and declined, for now, to text it to Derek.
-She typed: "A change of stationery is not a change of daughter." She deleted it.
+On screen a universe collapsed into a bagel. Penny shielded her phone behind the popcorn and typed: Reality should survive a change of stationery.
+She looked at it. It was nearly right, which was the most dangerous kind of wrong. The numbers did not survive a change of stationery. Durations changed. Distances changed. Even the order of two far-apart events could change, if nothing could have travelled between them in time. What survived was the relationship: the interval, the order of anything that could have caused anything else, the reading of a clock at its own elbow. The physics, not the paperwork.
+She deleted it and typed: A change of stationery is not a change of daughter.
+She deleted that too. It was true. It was not a sentence you sent to a man whose daughter was in a photograph.
 Then she remembered the cucumber. She'd left it at the office.
 Derek texted: WHERE ARE YOU?
 Cinema.
@@ -4523,10 +4539,14 @@ Because you keep talking about every version of a thing, and I wanted to see whi
 AND?
 Penny typed: The film keeps every version. Physics doesn't. If two descriptions are of the same events, they still have to agree on what those events can do to Sophie.
 NOT BAD. WHICH NUMBERS?
-The ones that survive the change of description. Interval. Causal order. Not the costume.
+The ones that survive the change of description. Interval. Causal order. What a clock says when something happens right beside it. Not the costume.
+The film changed universes twice before he answered.
 SR AND GR CAN BOTH BE TRUE WITHOUT EITHER OF THEM BEING THE ONLY STORY.
 That was the useful part.
-She put the phone away, laughing, and then noticed a character on screen holding a cucumber. Not identical to hers. Of course it wasn't; that would have been ridiculous. Still, she photographed the screen and sent it to Derek.
+ALSO THE OTHER DEREK CAN'T BE FROM ANOTHER BRANCH. WE SAW HIM.
+I know. I got there first.
+YOU USUALLY DO. IT'S VERY TIRING.
+She put the phone away, laughing, and then noticed something on a kitchen counter at the edge of a frame that was doing a very good impression of a cucumber. Not identical to hers. Of course it wasn't; that would have been ridiculous. Still, she photographed the screen and sent it to Derek.
 LOOK.
 I'M LOOKING. THAT'S A CUCUMBER.
 So?
@@ -4535,6 +4555,7 @@ Yet.
 She put the phone away for good this time, and thought about the Bureau, the clocks, the cold rain, the train, the other Derek. Perhaps they had been approaching the problem backwards all along — assuming something strange was happening inside spacetime, when the strange thing might be the relationship between different descriptions of it. What if the clocks weren't moving incorrectly, only belonging to different descriptions? What if the train wasn't travelling through a strange geometry — what if the train was the strange geometry? She wrote one last message: Don't investigate the clocks. Investigate the descriptions. Maybe the universe doesn't have one story. Maybe it has several descriptions that all have to agree on what can actually happen.
 Derek replied: Now you're talking.
 Penny smiled, put the phone away, and let the rest of the film wash over her with the specific satisfaction of someone who had just done more useful physics than the man who'd driven her out of the office to do it.
+On the way out she kept the ticket stub. Under the awning, with the rain coming down on Leicester Square, she wrote one word on the back of it in the eyeliner pencil that was the only thing in her bag that wrote — DESCRIPTIONS — and underlined it twice, the way Sophie underlined the columns in her notebook of lying clocks.
 Rule: If everything happens everywhere, measure what must still agree.
 -> Lesson for this chapter: 12 - Not Actually a Multiverse
 Chapter 14
@@ -5103,7 +5124,7 @@ Derek watched the train approach. "That depends on what you mean by time."
 Trevor softly sighed. "I knew you were going to say that."
 The mysterious train stopped. The doors carefully opened. A second Derek stepped out.
 Trevor went completely still. Penny's mouth opened and shut without sound. Derek stared at Derek.
-The second Derek met their eyes. Then at his watch. Then at the station clock.
+The second Derek met their eyes. Then he looked at his watch, and at the station clock.
 "You're late."
 The first Derek's brow furrowed. "I haven't gone anywhere."
 The second Derek grinned. "I know."
@@ -6369,5 +6390,3 @@ Thank you for reading.
 
 The clocks remain, for the moment, silent.
 Derek had, by then, more or less stopped asking them what he couldn't control. He still asked them what he could.
-
-.
