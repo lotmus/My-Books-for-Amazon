@@ -116,7 +116,7 @@ zip. Hard-won rules:
 
 - **The .docx is the only deliverable. Do not build or rebuild EPUB or PDF, and
   do not offer to.** This is settled; treat it as standing.
-- The `.epub` and `.pdf` files sitting beside the manuscripts are **stale and
+- The `.epub` and `.pdf` files (now in `bak\superseded 2026-10-01\`) are **stale and
   superseded** — they predate corrections that are in the .docx. Leave them
   alone, and do not publish from them.
 - **Sessions are scoped per volume.** Do not edit other volumes unless asked.
@@ -374,3 +374,75 @@ V3 192,459 → 192,678; V4 176,544 → 176,600 (tokens split by spacing).
 Only `word/document.xml` changed; pictures, hyperlinks and bookmarks unchanged.
 Kindle check still to do: rarer modifier letters (ᶿ, ᶻ, ᴬ, ᵝ) should be
 previewed in Kindle Previewer before publishing.
+
+## 11. 1 Oct 2026, late night: folder move, layout, and audit of all four volumes
+
+**Layout.** The Tower now sits at the books root as `The Mathematics Tower\`.
+It used to be `Math for HS and College\The Mathematics Tower\`, and that
+folder is gone.
+- Root: the four volume .docx masters, `KDP_Description.md`, and the cover
+  images.
+- `notes\`: this file, the series reference, the style guide, and
+  `_METHOD - Textbook 3-Source Workflow.md`.
+- `planning\Math Books Topics List\`: the 50 topic outlines (Book1–Book50).
+  They are plans, not books.
+- `scripts\make_epub.py`: moved from `Tools\`. It finds the Tower folder from
+  its own location, so no paths had to change. EPUB stays off (section 4).
+- `bak\READY (2026-09-26)\`: the old READY copies.
+- `bak\superseded 2026-10-01\`: the stale .epub and .pdf files, the two
+  `Volume 4.docx.pre-*-backup` files, and the `*.storeys-backup.png` covers.
+
+**Backups before the audit:**
+`My Books for Amazon - session backups\2026-10-01 Tower audit\`.
+**Code on the box:** /workspace/books/audit/ (`rules.py`, `apply.py`,
+`verify.py`, plus the checkers `arith2.py`/`arith3.py` and `poss.py`).
+Only `word/document.xml` changed. Pictures, hyperlinks, and bookmarks are
+unchanged (97/818/396, 107/906/428, 102/1311/870, 114/980/581).
+
+**Fixes:**
+- American spelling, per the series reference: rigour, manoeuvre, flavour,
+  humour, relabelling, draught(s), sceptic/scepticism (the ε–δ game's
+  “Sceptic” is now “Skeptic”), cheque, kerb, harbour, tumour, instalment,
+  totalling, spiralled, -ise/-isable forms, and others. 3 nought → zero /
+  none / aleph-null.
+- Articles: a entire, a alarming, a unsettling, a infinite(-order,
+  -dimensional), a enormous → an; an wholly → a wholly (V1, V3); an
+  computable → a computable (V4).
+- V3 Problems, Answer Key, and Solutions had lost their possessive
+  apostrophes: Green’s, Newton’s, Noether’s, Lagrange’s, Hadamard’s,
+  Hadwiger’s, Bessel’s, Riesz’s, Gauss’s, Galois’s, Monte Carlo’s, body’s,
+  theory’s, topology’s, and about 20 more. **Other lowercase possessives in
+  those V3 sections may still be missing.** A spell checker can't find them,
+  so they need a read-through.
+- Doubled example labels, 13 in all: V2 “Abstract example — Structural
+  example —” ×5; V4 “Abstract example — Illustrative example:” ×6 and
+  “Worked example — Synthesis example —” ×1.
+- Missing spaces: “floorabove” (V1) and “flooris” (V4).
+- Notation: ’’ used as a double prime → ″ (y″, u″, f″, X″, R″). Primes typed
+  as apostrophes → ′ (V2 f′ dx, y′, A′, R′, T′; V4 P′ Q′ R′).
+  `delta(t − c)` → δ(t − c) (V2 Laplace problem and glossary). The ∬ₛphere
+  sweep artifact → ∬[sphere]. “+/-infinity” → ±∞ (V3).
+- Maths: the powers of 3 mod 7 tables (V1 Room 7.9, V2 Room 24.9) wrote
+  3³ = 3×2 = 6, which is false as written (3³ = 27). They now use ≡ for
+  reduction: 3³ ≡ 3×2 = 6 (mod 7), and so on.
+
+**Checked and found clean:** the “Also in This Series” pages (identical in
+all four volumes, and they match the title pages and the series reference);
+title and subtitle pages; [[ ]], >=, <=, sqrt(, and ASCII Greek. An automated
+pass over every pure-number “a = b = c” chain in all four volumes found no
+arithmetic errors outside the mod-7 tables. No TODO, TBD, or placeholder text
+anywhere. This was not a line-by-line proof read of ~720,000 words.
+
+**Open (Lothar):**
+- “There are 1,534 worked examples … 421 / 417 / 355 / 341”: the 1 Oct
+  manuscripts have 430 / 433 / 361 / 349 example labels. Recount, or keep
+  the stated figure.
+- No Tower KDP description existed. `KDP_Description.md` is a new draft;
+  price, categories, and keywords are still to choose.
+- `boxes.json`, `chapters.png`, and `back cover.png` stay in the root.
+  Their purpose isn't documented here.
+- `Archive - not for publication` is still the backup folder named in
+  section 4. Lothar's rule puts leftovers in `bak\`, so the two should
+  probably be merged.
+- This file is now in `notes\`. Tools that load `CLAUDE.md` automatically
+  from the Tower root will no longer find it there.

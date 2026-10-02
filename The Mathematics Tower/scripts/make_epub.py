@@ -1,8 +1,8 @@
 """Build a Mathematics Tower volume as EPUB 3, straight from its .docx.
 
-    python Tools/make_epub.py 4            # build Volume 4 beside the .docx
-    python Tools/make_epub.py all          # build all four
-    python Tools/make_epub.py 4 -o X.epub  # build somewhere else
+    python scripts/make_epub.py 4            # build Volume 4 beside the .docx
+    python scripts/make_epub.py all          # build all four
+    python scripts/make_epub.py 4 -o X.epub  # build somewhere else
 
 Word is not involved: the .docx is read as a zip and its document.xml is
 walked directly, so nothing here can crash Word or be rewritten by it. Every
