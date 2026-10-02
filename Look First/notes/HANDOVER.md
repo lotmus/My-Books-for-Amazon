@@ -12,11 +12,11 @@ The numbered part files in this manuscript are the text. If `00_Status.md` disag
 
 ## Git
 
-Repo root is `C:\Users\lomus\OneDrive\My Books for Amazon` (not the Look First folder). Remote `https://github.com/lotmus/My-Books-for-Amazon.git`, branch `main`.
+Repo root is `C:\Users\lomus\OneDrive\My Books for Amazon` (not the Look First folder). Git dir `C:\Users\lomus\git-dirs\My-Books-for-Amazon.git`. Remote `https://github.com/lotmus/My-Books-for-Amazon.git`, branch `book-2-lectures-after-qed`. Look First lives at `My Books for Amazon\Look First` (moved out of `Science Books` on 1 Oct 2026).
 
-Other agents commit on `main`, including books outside this series. Run `git status` from the repo root before assuming a file is clean or is yours. A status limited to the wrong path has reported a false clean tree.
+Other agents commit on `book-2-lectures-after-qed`, including books outside this series. Run `git status` from the repo root before assuming a file is clean or is yours. A status limited to the wrong path has reported a false clean tree.
 
-As of this note, the Look First manuscripts matched `HEAD` except three untracked scratch scripts in this folder: `_audit_b1.py`, `_audit_b2.py`, `_merge_2_and_3.py`. Those scripts are not the manuscript. Do not commit, push, or amend unless the author asks. This handover and the status corrections made with it are local until then.
+**Standing rule (1 Oct 2026): keep GitHub synced with the PC. Commit and do a normal push after every piece of work.** Commit only your own paths (`git commit -- "Look First"`), because other workers stage files in the same index. Never force-push. If the push is rejected, fetch, `pull --rebase` your own commit, and push again. Never commit `.gitmodules`, `How  to  Pubish…`, `relativistic-site/`, or `~$` files. `bak/` is ignored at any depth.
 
 PowerShell does not accept `&&`. Do not pass inline Python that contains a regex; write a `.py` file and run it. The console code page cannot print a curly apostrophe or Greek letters. That is the terminal, not a damaged file.
 
@@ -24,16 +24,16 @@ PowerShell does not accept `&&`. Do not pass inline Python that contains a regex
 
 Chapters 31 and 32 are full lessons in `06_Part_Six_Getting_There.md` (headings at “31. Crews That Do Not Sleep” and “32. A Library of Earth”). Appendix A31 and A32 hold the numbers. Do not shorten them. Do not put back the sentence “The full classroom now lives in…”.
 
-Stamp: **112,883** words in `export\WORD_COUNT.txt` (1 Oct 2026). The docx and the EPUB were rebuilt from the same markdown.
+Stamp: **112,883** words in `export\WORD_COUNT.txt` (1 Oct 2026). Docx only; no EPUB is built.
 
 KDP ingest is the docx:
 
 - `export\The_Universe_Has_No_Now.docx`
-- Rebuild from the manuscript folder: `python export\assemble_export.py` (docx only), or `python export\assemble_export.py --with-epub`
+- Rebuild from the manuscript folder: `python export\assemble_export.py` (docx only; `--with-epub` is ignored)
 - Direct docx: `python Figures\build_docx.py "export\The_Universe_Has_No_Now.docx"`
 - If that export path is locked, write a side file in `export\` and move it onto the canonical name.
 
-`export\The_Universe_Has_No_Now.epub` was rebuilt from the same markdown. It does not carry the navy headlines or the in-body cross-reference links. Ingest is the docx.
+Docx only, standing rule: no EPUB and no PDF. The old EPUB was moved to `bak\export\` on 1 Oct 2026. Ingest is the docx.
 
 Headlines in `Figures\build_docx.py` are navy `0C2D5A`. Link blue stays the Word link color, with an underline. Do not set headlines back to `#0000FF`.
 

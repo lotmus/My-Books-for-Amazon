@@ -6,7 +6,7 @@ Reflowable book. Not fixed-layout. Meaning is never color-only.
 
 - Assembled manuscript: `..\The_Universe_Has_No_Now.md`
 - Word (6×9 in., preferred KDP ingest): `The_Universe_Has_No_Now.docx`
-- EPUB (if pandoc ran): `The_Universe_Has_No_Now.epub`
+- No EPUB and no PDF. Docx only (standing rule, 1 Oct 2026). Older EPUBs are in `..\bak\`.
 
 ## Rebuild
 
@@ -38,11 +38,7 @@ Install Pandoc from https://pandoc.org or:
 winget install --id JohnMacFarlane.Pandoc -e
 ```
 
-Then, from the manuscript folder:
-
-```
-pandoc The_Universe_Has_No_Now.md --from markdown+raw_tex+tex_math_dollars --toc --toc-depth=2 --resource-path=".;Figures/figs" --metadata title="The Universe Has No Now" --metadata author="Lothar J. Musiol" --to epub3 --epub-chapter-level=2 -o export/The_Universe_Has_No_Now.epub
-```
+Pandoc is only a fallback for the docx; do not build an EPUB.
 
 Word via the Python builder (preferred over pandoc docx — 6×9, Georgia, one figure per chapter):
 
@@ -53,7 +49,7 @@ python Figures\build_docx.py "export\The_Universe_Has_No_Now.docx"
 ## KDP ingest
 
 1. Cover JPEG — a simple typographic file is at `cover_typographic.jpg` (1600×2560, no NASA). Open it before treating it as store-live. KDP’s current ratio still wins if Amazon has moved.
-2. Manuscript: the `.docx` or the `.epub`.
+2. Manuscript: the `.docx`.
 3. Product description: paste from `..\KDP_Description.md` (sell copy, then Credits).
 4. Open the file in Kindle Create or KDP previewer. Check TOC, chapter starts and grayscale figures. All 20 photo slots hold real photographs since 14 Sep 2026 (sources and licences in `..\Figures\CREDITS.md`).
 5. To swap any of `fig00`, `fig01`, `fig31`, `fig32`, `fig34`, `fig42` for an author photo, drop the JPEG into `Figures\figs\`, update its credit line in `KDP_Description.md` and `CREDITS.md`, and rebuild.

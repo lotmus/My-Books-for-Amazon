@@ -228,7 +228,6 @@ def run_pandoc(pandoc: str, text_path: str) -> list[str]:
     ]
     for dest, extra in (
         (OUT_DOCX, ["--to", "docx"]),
-        (OUT_EPUB, ["--to", "epub3", "--epub-chapter-level=2"]),
     ):
         cmd = common + extra + ["-o", dest]
         print("running", " ".join(cmd))
@@ -362,7 +361,9 @@ def write_stamp(
 
 def main() -> int:
     skip_docx = "--skip-docx" in sys.argv
-    build_epub_too = "--with-epub" in sys.argv  # author wants docx only (26 Sep 2026); epub is opt-in now
+    build_epub_too = False  # docx only, standing rule (1 Oct 2026): no epub, no pdf; --with-epub is ignored
+    if "--with-epub" in sys.argv:
+        print("--with-epub ignored: docx only")
     os.makedirs(HERE, exist_ok=True)
     text, missing = assemble()
     md_path = _write_text(OUT_MD, text)
@@ -390,7 +391,7 @@ def main() -> int:
 
     epub_ok = False
     if not build_epub_too:
-        print("skipping epub (docx-only by default; pass --with-epub to build it too)")
+        print("skipping epub (docx only)")
     else:
         pandoc = find_pandoc() or try_install_pandoc()
         if pandoc:
