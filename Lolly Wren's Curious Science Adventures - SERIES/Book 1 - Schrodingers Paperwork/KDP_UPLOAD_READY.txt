@@ -42,7 +42,10 @@ METADATA FOR KDP ENTRY
 Title:                  Schrödinger's Paperwork
 Subtitle:               A Novel of Quantum Bureaucracy
 Series:                 Lolly Wren's Curious Science Adventures, Book 1
-Author:                 Lothar J. Musiol
+Author:                 Lothar J. Musiol (primary)
+Contributor:            Quentin Edmund Darling (role: Author)
+Byline (cover, title):  Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+                        (decided 2 Oct 2026; KDP's name fields take names only)
 Language:               English
 Word Count:             ~82,000 words (raw text count, verified 9/28/2026; the ~95,000 figure
                         this used to say did not match the actual manuscript)

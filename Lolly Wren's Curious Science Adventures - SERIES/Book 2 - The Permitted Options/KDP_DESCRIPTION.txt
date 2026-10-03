@@ -32,7 +32,9 @@ Title: The Permitted Options
 Subtitle: A Novel of Quantum Bureaucracy
 Series: Lolly Wren's Curious Science Adventures
 Series number: 2
-Author: use the same name as on Schrödinger's Paperwork
+Author: Lothar J. Musiol (primary); Contributor: Quentin Edmund Darling (role:
+Author). Byline on cover and title page: "Lothar J. Musiol writing as Quentin
+Edmund Darling (Q.E.D.)", the same as Schrödinger's Paperwork (decided 2 Oct 2026).
 
 Description: the text above, from the title through "the one who answers."
 

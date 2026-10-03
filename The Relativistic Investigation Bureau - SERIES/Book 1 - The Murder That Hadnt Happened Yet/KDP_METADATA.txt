@@ -5,9 +5,9 @@ Book 1: The Relativistic Investigation Bureau Series
 ================================================================================
 
 [Updated 1 Oct 2026 (PT). The manuscript is 64,082 words (REV10 + Chapter 13
-rewrite). Every field except two is now filled and checked against the book.
-The two left open are the AUTHOR NAME and the RELEASE DATE; only Lothar
-decides those. Website and newsletter lines are marked OPTIONAL: KDP does not
+rewrite). Every field except one is now filled and checked against the book.
+The one left open is the RELEASE DATE; only Lothar decides that. The AUTHOR
+NAME was decided on 2 Oct 2026 (see below). Website and newsletter lines are marked OPTIONAL: KDP does not
 require them. Price, categories and keywords are a ready-to-paste proposal;
 change them if you want, but nothing else is missing.]
 
@@ -18,13 +18,18 @@ SUBTITLE (Optional - use in marketing materials)
 A Relativistic Investigation Bureau Mystery
 
 AUTHOR NAME
-[DECISION FOR LOTHAR]. KDP's Author field must match the name printed on the
-cover. The cover now reads "By Spezala Genara Relavi (S.G.R.), allegedly / By
-Lothar J. Musiol, actually". The manuscript title page reads "By Lothar J.
-Musiol writing as Spezala Genara Relavi (S.G.R.)".
-Options: (a) Author = Spezala Genara Relavi, Contributor = Lothar J. Musiol;
-(b) Author = Lothar J. Musiol only; (c) both as authors. Whichever you pick,
-the cover, the title page and this field must all say the same thing.
+Decided by Lothar on 2 Oct 2026: both names appear, as
+"Lothar J. Musiol writing as Spezala Genara Relavi".
+- Front cover and Audible cover: "Lothar J. Musiol / writing as Spezala Genara
+  Relavi (S.G.R.)" (front) and "LOTHAR J. MUSIOL / WRITING AS SPEZALA GENARA
+  RELAVI" (Audible). Back cover About the Author starts "Lothar J. Musiol
+  writing as Spezala Genara Relavi (allegedly)."
+- Title pages of Book 1 and Book 2: "By Lothar J. Musiol / writing as Spezala
+  Genara Relavi (S.G.R.)".
+- KDP fields: Author (primary) = Lothar J. Musiol. Contributors: add Spezala
+  Genara Relavi with the role "Author". KDP's name fields take a name only, so
+  the words "writing as" stay on the cover and title page, not in the field.
+  Use the same two entries for Book 2.
 
 SERIES INFORMATION
 Series: The Relativistic Investigation Bureau
@@ -111,8 +116,8 @@ AUTHOR BIOGRAPHY (for Author Central / the KDP author page)
 and pronouns match it: Spezala Genara Relavi is "she", Lothar J. Musiol is
 "he". The old draft had "they", a "[relevant field]" blank, and a "describe
 the crime precisely enough and you might prevent it" line that is not the
-Bureau's principle in the book. If Lothar publishes under one name only,
-delete the paragraph for the other.]
+Bureau's principle in the book. Both names are used (decided 2 Oct 2026),
+so keep both paragraphs.]
 
 Spezala Genara Relavi (S.G.R.) is the alleged author of The Relativistic Investigation Bureau series. She has never been formally accused of understanding General Relativity, though several of her fictitious colleagues maintain that she does. She divides her time between London, Munich, and a small pink filing cabinet labelled PRE-TRANSFORMATION / DO NOT OBSERVE. She has not yet been murdered, although she understands this may be subject to change without further notice.
 
@@ -144,7 +149,7 @@ KDP LISTING CHECKLIST
 
 REQUIRED:
 ☑ Title: The Murder That Hadn't Happened Yet
-☐ Author Name: [DECISION FOR LOTHAR]
+☑ Author Name: Lothar J. Musiol (primary) + Spezala Genara Relavi (contributor, Author); see AUTHOR NAME
 ☑ Categories: 3 proposed above
 ☑ Blurb (above, identical to kdp_description.docx)
 ☑ Keywords (7 phrases provided)
@@ -162,7 +167,8 @@ COVER REQUIREMENTS (checked 1 Oct 2026 on Kindle Front Cover.jpg):
 ☑ Works in grayscale (e-ink): tested; title and byline stay readable
 ☑ Series branding: "THE RELATIVISTIC INVESTIGATION BUREAU" and "BOOK 1 IN THE RIB SERIES"
 ☑ No watermarks
-☐ Byline on the cover must match the KDP Author field (see AUTHOR NAME)
+☑ Byline on the cover matches the KDP Author field: "Lothar J. Musiol / writing as
+  Spezala Genara Relavi (S.G.R.)" (cover redone 2 Oct 2026; see AUTHOR NAME)
 
 MANUSCRIPT (FINAL_REV10_..._KINDLE_READY.docx, rebuilt 1 Oct 2026):
 ☑ .docx (KDP no longer accepts .mobi for ebooks)
