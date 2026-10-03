@@ -1,6 +1,6 @@
 # ANLEITUNG FÜR KAPITEL-AUTOREN — Länder-Teile Kanada/Australien/Neuseeland und neue Universal-Kapitel
 
-Du schreibst ein oder zwei Kapitel der erweiterten Ausgabe „Die Auswanderer-Bibel: USA, Kanada, Australien, Neuseeland" (bisher „Auswandern in die USA"). Projektordner: `C:\Users\lomus\OneDrive\My Books for Amazon\Auswandern in die USA`.
+Du schreibst ein oder zwei Kapitel der erweiterten Ausgabe „Die Auswanderer-Bibel: USA, Kanada, Australien, Neuseeland" (bisher „Auswandern in die USA"). Projektordner: `D:\My Books for Amazon\Auswandern in die USA`.
 
 ## 1. Lesen (in dieser Reihenfolge)
 1. `_Konzept\00_Buchbibel.md` — verbindlicher Ton-/Formatvertrag. Beachte besonders **§2.2.1** (eigener Humor-Ton für Kanada/Australien/Neuseeland: britisch geprägt — Understatement, Ironie, Sarkasmus, Selbstironie über die eigene Verwirrung; nie auf Kosten von Personen/Gruppen oder bei Visum/Gesundheit/Geld/Diskriminierung) und **§7.1** (eigene Fallbeispiel-Personen je Länder-Teil — nutze NUR die für dein Land vorgesehenen Personen, niemals die USA-Besetzung Brandt/Keller/Hoffmann/Wagner/Scholz).

@@ -11,20 +11,20 @@ from docx.oxml.ns import qn
 from docx.text.paragraph import Paragraph
 
 SERIES = Path(
-    r"c:\Users\lomus\OneDrive\My Books for Amazon"
+    r"D:\My Books for Amazon"
     r"\Lolly Wren's Curious Science Adventures - SERIES"
     r"\Book 1 - Schrodingers Paperwork"
 )
 LIVE = SERIES / "Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx"
 OUT = SERIES / "bak" / "Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx.next"
 WS = Path(
-    r"c:\Users\lomus\OneDrive\My Books for Amazon"
+    r"D:\My Books for Amazon"
     r"\Schrodingers_Paperwork"
     r"\Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx"
 )
 GUIDE = SERIES / "notes" / "MANUSCRIPT_GUIDE.md"
 GUIDE_WS = Path(
-    r"c:\Users\lomus\OneDrive\My Books for Amazon"
+    r"D:\My Books for Amazon"
     r"\Schrodingers_Paperwork"
     r"\MANUSCRIPT_GUIDE.md"
 )

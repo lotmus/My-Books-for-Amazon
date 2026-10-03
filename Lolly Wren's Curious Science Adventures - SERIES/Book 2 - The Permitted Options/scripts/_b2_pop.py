@@ -4,7 +4,7 @@ import re, zipfile
 from pathlib import Path
 import xml.etree.ElementTree as ET
 
-root = Path(r"C:\Users\lomus\OneDrive\My Books for Amazon") / (
+root = Path(r"D:\My Books for Amazon") / (
     "Lolly Wren" + chr(39) + "s Curious Science Adventures - SERIES"
 )
 book = root / "Book 2 - The Permitted Options"

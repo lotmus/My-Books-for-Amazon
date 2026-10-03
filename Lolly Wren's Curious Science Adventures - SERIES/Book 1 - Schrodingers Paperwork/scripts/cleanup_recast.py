@@ -11,14 +11,14 @@ from docx.oxml.ns import qn
 from docx.text.paragraph import Paragraph
 
 LIVE = Path(
-    r"c:\Users\lomus\OneDrive\My Books for Amazon"
+    r"D:\My Books for Amazon"
     r"\Lolly Wren's Curious Science Adventures - SERIES"
     r"\Book 1 - Schrodingers Paperwork"
     r"\Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx"
 )
 OUT = LIVE.parent / "bak" / (LIVE.name + ".next")
 WS = Path(
-    r"c:\Users\lomus\OneDrive\My Books for Amazon"
+    r"D:\My Books for Amazon"
     r"\Schrodingers_Paperwork"
     r"\Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx"
 )

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import re, zipfile
 from pathlib import Path
-root = Path(r"C:\Users\lomus\OneDrive\My Books for Amazon") / (
+root = Path(r"D:\My Books for Amazon") / (
     "Lolly Wren" + chr(39) + "s Curious Science Adventures - SERIES"
 )
 src = root / "Book 2 - The Permitted Options" / "The_Permitted_Options_BOOK_2_DRAFT.docx"

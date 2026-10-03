@@ -2,7 +2,7 @@
 from pathlib import Path
 from docx import Document
 
-LIVE = Path(r"c:\Users\lomus\OneDrive\My Books for Amazon") / "Lolly Wren's Curious Science Adventures - SERIES" / "Book 1 - Schrodingers Paperwork" / "Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx"
+LIVE = Path(r"D:\My Books for Amazon") / "Lolly Wren's Curious Science Adventures - SERIES" / "Book 1 - Schrodingers Paperwork" / "Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx"
 OUT = LIVE.parent / "bak" / (LIVE.name + ".next")
 src = OUT if OUT.exists() else LIVE
 d = Document(str(src))
