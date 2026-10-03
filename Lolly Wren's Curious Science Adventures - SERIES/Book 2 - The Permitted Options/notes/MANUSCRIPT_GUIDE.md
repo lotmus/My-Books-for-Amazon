@@ -150,51 +150,9 @@ PowerShell breaks on the apostrophe in `Lolly Wren's`. Put the script under `C:\
 
 Inserting after a paragraph copies that paragraph's style. After a Heading, set Body Text on the new paragraph or it enters the contents.
 
-## Chapter map (2044 paragraphs)
+## Chapter map
 
-Indexes include the title page. Chapter One is the first chapter heading. Chapter Two follows Chapter One's last story line, "Nothing local at all."
-
-These indexes move as soon as anyone inserts or deletes. Anchors above are the stable ones.
-
-| Heading | Index |
-|---|---|
-| Chapter One | 47 |
-| Chapter Two | 144 |
-| Chapter Three | 249 |
-| Chapter Four | 376 |
-| Chapter Five | 483 |
-| Chapter Six | 601 |
-| Chapter Seven | 705 |
-| Chapter Eight | 799 |
-| Chapter Nine | 883 |
-| Chapter Ten | 964 |
-| Chapter Eleven | 1047 |
-| Chapter Twelve | 1143 |
-| Chapter Thirteen | 1246 |
-| Chapter Fourteen | 1358 |
-| Chapter Fifteen | 1411 |
-| Chapter Sixteen | 1479 |
-| The Lectures | 1560 |
-| Lecture. Chapter One | 1578 |
-| Lecture. Chapter Two | 1596 |
-| Lecture. Chapter Three | 1623 |
-| Lecture. Chapter Four | 1649 |
-| Lecture. Chapter Five | 1676 |
-| Lecture. Chapter Six | 1703 |
-| Lecture. Chapter Seven | 1728 |
-| Lecture. Chapter Eight | 1756 |
-| Lecture. Chapter Nine | 1787 |
-| Lecture. Chapter Ten | 1810 |
-| Lecture. Chapter Eleven | 1840 |
-| Lecture. Chapter Twelve | 1873 |
-| Lecture. Chapter Thirteen | 1909 |
-| Lecture. Chapter Fourteen | 1939 |
-| Lecture. Chapter Fifteen | 1964 |
-| Lecture. Chapter Sixteen | 1986 |
-| Glossary | 2005 |
-| Bibliography | 2023 |
-
-`The Lectures` is the first Heading 2 after Q.E.D. Lecture. Chapter One is the next lecture heading. Lecture. Chapter Sixteen is the last. Nothing called `Physics` sits between a chapter and the next.
+The old sixteen-chapter map (2044 paragraphs) is retired. The current map is in the line-edit section at the end of this file. Indexes move as soon as anyone inserts or deletes. The anchors above are the stable ones.
 
 ## Book 1, if you are in both
 
@@ -211,10 +169,10 @@ Do not commit or push unless the user asks. The git root is `My Books for Amazon
 - Ch16 has the on-page appeal (Vienna, Thursday 28 January 2027). Lolly finds the 2 March dispatch-ledger entry (the Office bought Schedule 4, the 308 margins sorted thinnest first). The fourteen are lines 1-14. Tengelman's 9 March letter shows the 14 March 'pilot realisation'. The ruling sets aside discontinuation and returns the map.
 - 9 February 2027 is a Tuesday. The register closes at 308. Schrottfinger and Mrs Kell are cut. The Ch6-15 notebook recaps are cut to the countdown line plus the final entry.
 
-## 2026-10-03 YA/adult crossover pass (supersedes the chapter map above)
+## 2026-10-03 YA/adult crossover pass (its chapter map is superseded by the line-edit pass below)
 - Backup of the pre-pass file: `D:\bak\2026-10-03 novel revisions\Lolly2 - The Permitted Options\crossover-pass\`.
 - Fourteen chapters, fourteen lectures. Old Ch8 and Ch10 merged (now Ch7 end + Ch9); old Ch13 and Ch14 merged (now Ch12, Drill + Arakawa). Lectures merged the same way (old L8+L10 -> L9, old L13+L14 -> L12). Bookmarks ch00-ch13 and lec00-lec13 re-created; glossary links re-pointed.
-- The wormhole is closed in Ch14: van Casteel's bench in a Cumbrian potash level finds a ground loop (shield earthed at both ends, dewatering pump). Single-point earth gives ordinary Casimir. "There is no throat." Lecture Fourteen is now a real lecture (Casimir pressure, electrostatic and patch potentials, ground loops, control runs, Ford-Roman quantum inequalities, unitarity is not access).
+- The wormhole is closed in Ch14: van Casteel's bench on a lower level of his own Cumbrian mine finds a ground loop (shield earthed at both ends, dewatering pump). Single-point earth gives ordinary Casimir. "There is no throat." Lecture Fourteen is now a real lecture (Casimir pressure, electrostatic and patch potentials, ground loops, control runs, Ford-Roman quantum inequalities, unitarity is not access).
 - New subplot: Dennis Wren's move at Larchfield (Sandra, Ms Hollis Breen, form BI-2, Mrs Chain's notebook of his wishes, Beatrix's pro bono MCA 2005 letter, Best Interests meeting Thu 12 Nov, Garden Room). Ends the night of 8 February with Lolly at Larchfield.
 - New POV scenes, each after a centred scene break: Gideon, Fainrose, Mrs Kind, Delia Price, Tengelman, Ramanathan, Eilstein, Crispin Vale, Priddy, Miss Pike (her mother's ledger), Mrs Chain, Beatrix, Jago (pays back the eleven pounds forty), Ellen Prosper at sea.
 - Cut: the Duc cameo, the Heisenburger cameo (Drill now cites de Broglie-Bohm by name). Seminars trimmed about 10%.
@@ -250,6 +208,52 @@ Do not commit or push unless the user asks. The git root is `My Books for Amazon
 | Lecture. Chapter Ten | 2175 |
 | Lecture. Chapter Eleven | 2207 |
 | Lecture. Chapter Twelve | 2242 |
+| Lecture. Chapter Thirteen | 2292 |
+| Lecture. Chapter Fourteen | 2313 |
+| Glossary | 2330 |
+| Bibliography | 2348 |
+
+## 2026-10-03 line-edit pass (current chapter map)
+- Backup: `D:\bak\2026-10-03 novel revisions\Lolly2 - The Permitted Options\line-edit-pass\` (docx before and after, this guide and the KDP text before).
+- Ch9-12 seminars cut back to the conflict. Eugenius's Wigner/Hamming essay, Barbarian's time physics, Fainrose's entropy board, Ramanathan's Landauer, Drill's EPR and Kochen-Specker, Eugenius's anthropic list and the Fermi paper are gone from the story or cut to a few lines. The physics is in Lectures 9-12 (the Fermi question and the shuffled deck are new "Moved from the chapter" paragraphs in Lectures 12 and 11). Arakawa trimmed by about half.
+- Esaki corrected in Ch12 and Lecture 12: the 1957 discovery is forward-bias negative differential resistance.
+- New comic set piece in Ch13, "Options Day" (Sat 24 Oct). The department writes to the 308 with a reply slip (I have decided / I would like more time / I would like to talk to someone). An evening paper runs WHITEHALL TO HAND OUT CHOICES. 1,140 people queue. Mrs Kind runs it like the Croydon holiday fair, Stadthof plays a harmonium, Mavis-9 issues receipts, Mrs Chain brings the letter addressed to Margaret. She switches off the urn earthed to a radiator and the PA hum stops (plants the ground loop). A woman in the queue invites Eilstein in; he leaves ("a banquet ... a man who has sworn off food"), and that is where the Article Two schedule starts. Ch13 ends on M. TULL (212)'s slip.
+- New reversal in Ch14, before the Best Interests meeting. Mrs Maureen Tull of Harrow (register 212) decides because of the letter and shuts her son out ("Your letter shut it"). Breach of Schedule 4 paragraph 9. Mr Pell (Cabinet Office inquiry): "A reply slip is an enquiry with a stamp on it." Fainrose signs Lolly's suspension in green (Mon 9 Nov). Notebook volume five impounded as Exhibit LW/1. Lolly goes to the BI meeting as a private person. Miss Pike brings the ledger to Lolly's flat (a Tuesday in January). Jago brings the docket to the flat. At the appeal the Office cites the breach and Lolly owns it (tab eleven). The inquiry reports Wed 3 Feb: breach proven, written warning, reinstated Mon 8 Feb. The 9 Feb cost passage and the last notebook entries name Mrs Tull.
+- Calendar, working days to Tue 9 Feb 2027: Ch8 Thu 16 Jul 148; Eugenius Wed 22 Jul 144; Barbarian Fri 24 Jul 142; Eilstein Sat 15 Aug 126; Mrs Kind Mon 24 Aug 121; Ch11 ends 109; Ch12 rescue Mon 21 Sep 101; Arakawa the second Monday of October; Ch12 ends 85; Ch13 ends 76. Ch4 is May (not April); Fainrose's letter runs May to September.
+- Book 1 continuity: Gideon recognises Vale from the Annex stairs; eleven days of testimony; the Chain file still says "Pending. Not lost. Not finished."; the Institute is on Wetherby Lane; "volume five" appears only at the end; the papers go across on the eleventh of June; no romance.
+- Ch14 numbers: 1 mV across a 1 micron gap is about a third of one per cent of the Casimir pressure; the pump runs 40 minutes on and 20 off; the bench is on a lower level of van Casteel's mine.
+- Front matter titles have curly apostrophes. DOIs added to Ford & Roman 1996, Lamoreaux 1997, Speake & Trenkel 2003.
+- New people: Mrs Maureen Tull (Harrow, 79, Pears soap, a hearing aid she switches off to disagree, son Gary in Leeds); Mr Pell (Cabinet Office inquiry officer, a voice like a drawer being closed).
+
+| Heading | Index (1-based) |
+|---|---|
+| Chapter One | 47 |
+| Chapter Two | 144 |
+| Chapter Three | 280 |
+| Chapter Four | 403 |
+| Chapter Five | 557 |
+| Chapter Six | 731 |
+| Chapter Seven | 866 |
+| Chapter Eight | 966 |
+| Chapter Nine | 1064 |
+| Chapter Ten | 1183 |
+| Chapter Eleven | 1276 |
+| Chapter Twelve | 1403 |
+| Chapter Thirteen | 1547 |
+| Chapter Fourteen | 1651 |
+| The Lectures | 1907 |
+| Lecture. Chapter One | 1923 |
+| Lecture. Chapter Two | 1940 |
+| Lecture. Chapter Three | 1966 |
+| Lecture. Chapter Four | 1991 |
+| Lecture. Chapter Five | 2018 |
+| Lecture. Chapter Six | 2044 |
+| Lecture. Chapter Seven | 2068 |
+| Lecture. Chapter Eight | 2095 |
+| Lecture. Chapter Nine | 2117 |
+| Lecture. Chapter Ten | 2173 |
+| Lecture. Chapter Eleven | 2205 |
+| Lecture. Chapter Twelve | 2241 |
 | Lecture. Chapter Thirteen | 2292 |
 | Lecture. Chapter Fourteen | 2313 |
 | Glossary | 2330 |
