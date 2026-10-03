@@ -210,3 +210,47 @@ Do not commit or push unless the user asks. The git root is `My Books for Amazon
 - Ch14 visitor is Dr Arakawa (fictional, 91, grew the crystals for Leo Esaki's 1957 tunnel diode at Tokyo Tsushin Kogyo). Leo Esaki appears only as documented history.
 - Ch16 has the on-page appeal (Vienna, Thursday 28 January 2027). Lolly finds the 2 March dispatch-ledger entry (the Office bought Schedule 4, the 308 margins sorted thinnest first). The fourteen are lines 1-14. Tengelman's 9 March letter shows the 14 March 'pilot realisation'. The ruling sets aside discontinuation and returns the map.
 - 9 February 2027 is a Tuesday. The register closes at 308. Schrottfinger and Mrs Kell are cut. The Ch6-15 notebook recaps are cut to the countdown line plus the final entry.
+
+## 2026-10-03 YA/adult crossover pass (supersedes the chapter map above)
+- Backup of the pre-pass file: `D:\bak\2026-10-03 novel revisions\Lolly2 - The Permitted Options\crossover-pass\`.
+- Fourteen chapters, fourteen lectures. Old Ch8 and Ch10 merged (now Ch7 end + Ch9); old Ch13 and Ch14 merged (now Ch12, Drill + Arakawa). Lectures merged the same way (old L8+L10 -> L9, old L13+L14 -> L12). Bookmarks ch00-ch13 and lec00-lec13 re-created; glossary links re-pointed.
+- The wormhole is closed in Ch14: van Casteel's bench in a Cumbrian potash level finds a ground loop (shield earthed at both ends, dewatering pump). Single-point earth gives ordinary Casimir. "There is no throat." Lecture Fourteen is now a real lecture (Casimir pressure, electrostatic and patch potentials, ground loops, control runs, Ford-Roman quantum inequalities, unitarity is not access).
+- New subplot: Dennis Wren's move at Larchfield (Sandra, Ms Hollis Breen, form BI-2, Mrs Chain's notebook of his wishes, Beatrix's pro bono MCA 2005 letter, Best Interests meeting Thu 12 Nov, Garden Room). Ends the night of 8 February with Lolly at Larchfield.
+- New POV scenes, each after a centred scene break: Gideon, Fainrose, Mrs Kind, Delia Price, Tengelman, Ramanathan, Eilstein, Crispin Vale, Priddy, Miss Pike (her mother's ledger), Mrs Chain, Beatrix, Jago (pays back the eleven pounds forty), Ellen Prosper at sea.
+- Cut: the Duc cameo, the Heisenburger cameo (Drill now cites de Broglie-Bohm by name). Seminars trimmed about 10%.
+- Calendar countdown renumbered to match the merged chapters. Supernova advance is "between three and four thousand years"; stars are in carbon burning, a few thousand years from core collapse. The lease is fourteen hundred and twelve.
+- New people: Sandra (Larchfield), Tomasz, Ms Hollis Breen (social worker), Delia Price (Mrs Kind's customer), Owen (Cheltenham technician), Callum and Niamh (Ellen's boat and partner), Mr Lumb (Dundee).
+
+| Heading | Index (1-based) |
+|---|---|
+| Chapter One | 47 |
+| Chapter Two | 144 |
+| Chapter Three | 280 |
+| Chapter Four | 407 |
+| Chapter Five | 568 |
+| Chapter Six | 748 |
+| Chapter Seven | 885 |
+| Chapter Eight | 985 |
+| Chapter Nine | 1091 |
+| Chapter Ten | 1224 |
+| Chapter Eleven | 1323 |
+| Chapter Twelve | 1460 |
+| Chapter Thirteen | 1624 |
+| Chapter Fourteen | 1693 |
+| The Lectures | 1909 |
+| Lecture. Chapter One | 1925 |
+| Lecture. Chapter Two | 1942 |
+| Lecture. Chapter Three | 1968 |
+| Lecture. Chapter Four | 1993 |
+| Lecture. Chapter Five | 2020 |
+| Lecture. Chapter Six | 2046 |
+| Lecture. Chapter Seven | 2070 |
+| Lecture. Chapter Eight | 2097 |
+| Lecture. Chapter Nine | 2119 |
+| Lecture. Chapter Ten | 2175 |
+| Lecture. Chapter Eleven | 2207 |
+| Lecture. Chapter Twelve | 2242 |
+| Lecture. Chapter Thirteen | 2292 |
+| Lecture. Chapter Fourteen | 2313 |
+| Glossary | 2330 |
+| Bibliography | 2348 |
