@@ -499,3 +499,18 @@ Tower audit round 2\` (four volumes, `KDP_Description.md`, this file).
   another series' folder list, identical to the copy in `bak\READY
   (2026-09-26)\`. Nothing referenced either of them, and both are now in
   `bak\superseded 2026-10-01\`.
+
+## 13. 2 Oct 2026, evening: two additions to Volume 4
+
+Approved by Lothar as part of the cross-book ideas pass. Only `word/document.xml`
+changed; hyperlinks (994) and bookmarks (589) unchanged; backup in
+`D:\bak\2026-10-02 ideas integration\`. The master was edited directly
+(section 0: the build script is not re-run on the new masters).
+- 40.8, end (before 40.9): level-of-detail rendering and mipmaps as the same
+  coarse-first idea; the example block's average 450/4 = 112.5 is half its LL
+  value 225; mipmap storage 1 + 1/4 + 1/16 + ⋯ = 4/3 against the wavelet's
+  exactly N coefficients (267 words).
+- 50.4, end: a working continuum model is evidence only about the tested scale;
+  1 mm³ of water holds about 3.3 × 10¹⁹ molecules; spacetime tested to about
+  10⁻¹⁹ m against the Planck length 1.6 × 10⁻³⁵ m; no graininess detected, none
+  ruled out at the Planck scale (260 words).
