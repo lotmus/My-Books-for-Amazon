@@ -151,8 +151,8 @@ const LINE_SPACING = { line: 360, lineRule: "auto" };
 
 // Headline style for every heading level (main title, Part-title pages, and
 // "## " chapter/section headings), plus the Table of Contents heading itself:
-// Amazon Ember, 18pt bold, centered, in the book's accent blue.
-const HEADLINE_FONT = "Amazon Ember";
+// Calibri (as Physics, Actually Vol 1, the series reference), 18pt bold, centered, in the book's accent blue.
+const HEADLINE_FONT = "Calibri";
 const HEADLINE_SIZE = 36; // half-points -> 18pt
 const HEADLINE_COLOR = "0000FF";
 // This script lives in <book>\scripts\; the chapters live in <book>\chapters\,
@@ -565,7 +565,7 @@ function parseFile(mdPath, ctx) {
       children = [new Bookmark({ id: "note" + noteMatch[1], children })];
     }
     ctx.pushPara(new Paragraph({
-      alignment: centered ? AlignmentType.CENTER : AlignmentType.LEFT,
+      alignment: centered ? AlignmentType.CENTER : AlignmentType.JUSTIFIED, // body justified, as Physics, Actually
       spacing: { after: PARA_SPACING_AFTER, ...LINE_SPACING },
       children,
     }));

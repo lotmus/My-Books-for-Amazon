@@ -507,7 +507,7 @@ def insert_front_matter(doc):
     b.para("Lothar J. Musiol")
     b.para("First edition, 2026")
     b.para(
-        "© 2026 Lothar J. Musiol. All rights reserved. Independently published. "
+        "Copyright © 2026 Lothar J. Musiol. All rights reserved. Independently published. "
         "No ISBN has been assigned to this file. Permission is granted to the purchaser "
         "to print one copy for personal study. Redistribution of the digital file is not granted."
     )
@@ -523,7 +523,7 @@ def insert_front_matter(doc):
         "and the Schwinger pair-production exponent and prefactor. It does not compute two-loop g−2, "
         "a complete Lamb shift to kHz, α(M_Z) including quarks, weak decays, QCD, or gravity."
     )
-    b.para("%s series, Volume %d" % (SERIES, bl.SERIES_VOLUME))
+    b.para("%s series" % SERIES)  # series line as in Physics, Actually
     b.pagebreak()
 
     h3 = b.heading("Also in This Series", 1)

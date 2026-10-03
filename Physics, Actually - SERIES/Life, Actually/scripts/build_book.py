@@ -4,7 +4,7 @@ from the Markdown sources in chapters/.  Docx only.
 Usage:  python scripts/build_book.py [output.docx]
 
 House style follows Physics, Actually Vol. 2 (the 6x9 KDP volume) and Vol. 3 (Part pages):
-6x9 in, Georgia body justified, Amazon Ember bold blue headings, Title-style chapter
+6x9 in, Georgia body justified, Calibri bold blue headings (as Physics, Actually Vol 1), Title-style chapter
 headings "Chapter N: Title" with outline level 0, Heading 2 sections, hyperlinked
 Contents with PAGEREF page numbers, "Back to Contents" link after every chapter,
 running header with the book title and a page number in the footer.
@@ -36,7 +36,7 @@ SERIES = "Physics, Actually"
 TITLE = "Life, Actually"
 SUBTITLE = "From the First Cell to the Edited Genome and the Search for Life Elsewhere"
 AUTHOR = "Lothar J. Musiol"
-BODY_FONT, HEAD_FONT = "Georgia", "Amazon Ember"
+BODY_FONT, HEAD_FONT = "Georgia", "Calibri"  # headings match the Physics, Actually Vol 1 reference
 BLUE = RGBColor(0x00, 0x00, 0xFF)
 ALSO = [
     "Volume 1 — Motion, Forces, Time, and Relativity",
@@ -248,6 +248,10 @@ def word_picture(path):
     im.save(buf, format="JPEG" if jpg else "PNG", **({"quality": 85, "optimize": True} if jpg else {})); buf.seek(0)
     return buf
 
+def series_line(p, text):
+    """Title-page series and author lines as in Physics, Actually Vol 1: body paragraph, 13 pt bold, 4F81BD."""
+    r = p.add_run(text); r.bold = True; r.font.size = Pt(13); r.font.color.rgb = RGBColor(0x4F, 0x81, 0xBD)
+
 def add_footer_header(section):
     section.footer.is_linked_to_previous = False; section.header.is_linked_to_previous = False
     fp = section.footer.paragraphs[0]; fp.alignment = WD_ALIGN_PARAGRAPH.CENTER; field(fp, "PAGE", "1")
@@ -313,15 +317,15 @@ def build():
                 h = doc.add_paragraph(TITLE, style="Heading 1"); h.alignment = WD_ALIGN_PARAGRAPH.CENTER
                 s = doc.add_paragraph(); s.alignment = WD_ALIGN_PARAGRAPH.CENTER; r = s.add_run(SUBTITLE); r.italic = True; r.font.size = Pt(13)
                 for _ in range(2): doc.add_paragraph()
-                a = doc.add_paragraph("A Volume in the Physics, Actually Series", style="Heading 2"); a.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                a = doc.add_paragraph(); a.alignment = WD_ALIGN_PARAGRAPH.CENTER; series_line(a, "A Volume in the Physics, Actually Series")
                 for _ in range(3): doc.add_paragraph()
-                a = doc.add_paragraph(AUTHOR, style="Heading 2"); a.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                a = doc.add_paragraph(); a.alignment = WD_ALIGN_PARAGRAPH.CENTER; series_line(a, AUTHOR)
                 page_break(doc)
             elif g == "COPYRIGHT":
                 for line in COPYRIGHT: doc.add_paragraph(line, style="Copyright Text")
                 page_break(doc)
             elif g == "TOC":
-                h = doc.add_paragraph("Contents", style="Heading 1"); bookmark(h, "chcontents")
+                h = doc.add_paragraph("Table of Contents", style="Heading 1"); bookmark(h, "chcontents")
                 for kind, text, anc in toc:
                     p = doc.add_paragraph(style="TOC Part" if kind == "part" else "TOC Entry")
                     if kind == "ch":

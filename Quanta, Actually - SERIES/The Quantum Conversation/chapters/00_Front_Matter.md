@@ -16,9 +16,17 @@
 
 %%SMALL%% The Quantum Conversation — Phase, Light, and the Hidden Architecture of Electromagnetism
 
-%%SMALL%% Copyright © 2026 Lothar J. Musiol. All rights reserved. First edition, 2026.
+%%SMALL%% Copyright © 2026 Lothar J. Musiol
 
-%%SMALL%% Quanta, Actually series, Volume 2
+%%SMALL%% All rights reserved.
+
+%%SMALL%% No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+
+%%SMALL%% This book is intended for general educational and informational purposes. Every effort has been made to ensure the accuracy of the science described; some topics discussed represent active or speculative areas of research, and this is noted in the text where relevant.
+
+%%SMALL%% First edition.
+
+%%SMALL%% Quanta, Actually series
 
 ---
 
