@@ -2,11 +2,11 @@
 
 *How to Publish and Make Good Money on Kindle: Real Royalties, Honest Reviews, and a Catalog That Pays*
 
-**Lothar J. Musiol**
+**Kevin Drew Peters**
 
 Updated 1 October 2026
 
-Copyright © 2026 Lothar J. Musiol. All rights reserved.
+Copyright © 2026 Kevin Drew Peters. All rights reserved.
 
 No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright holder, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 

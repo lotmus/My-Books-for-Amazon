@@ -90,9 +90,9 @@ Royalty = (List Price × Royalty Rate) − Printing Cost
 
 Paperback, sold through Amazon’s own store: 60% royalty rate at a list price of $9.99 or more on Amazon.com, 50% below that (Chapter 3 works both cases; other marketplaces set their own dividing line).
 
-Paperback through expanded distribution (third-party retailers, bookstores, and libraries KDP can place the book with beyond Amazon itself): 40% royalty rate — the same list price, a smaller share, and worth checking on a book-by-book basis whether it’s worth opting into.
+Paperback through expanded distribution (third-party retailers, bookstores, and libraries KDP can place the book with beyond Amazon itself): a flat 40% royalty rate regardless of list price, sold through that channel.
 
-Hardcover: also a 60% royalty rate minus printing cost, sold through Amazon’s own store.
+Hardcover: the same $9.99 threshold and split as paperback — 60% at or above it, 50% below — minus printing cost, sold through Amazon’s own store. Hardcover isn’t offered through expanded distribution.
 
 Printing cost is not a number you pick — KDP calculates it from page count, trim size, ink type (black-and-white vs. color interior), and paper choice (standard white vs. cream), and it recalculates automatically if you change any of those. Use KDP’s own price calculator when you’re setting a print list price; don’t estimate the printing cost by hand, and don’t set a list price without checking that royalty ends up positive — it’s possible to price a heavily illustrated color paperback so low that KDP’s own calculator shows a negative or near-zero royalty at that price.
 

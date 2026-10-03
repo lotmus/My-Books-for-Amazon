@@ -1,4 +1,4 @@
-# Also by Lothar J. Musiol
+# Also by Kevin Drew Peters
 
 **Physics, Actually**
 
