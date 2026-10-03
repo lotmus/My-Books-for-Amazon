@@ -213,7 +213,7 @@ Do not commit or push unless the user asks. The git root is `My Books for Amazon
 | Glossary | 2330 |
 | Bibliography | 2348 |
 
-## 2026-10-03 line-edit pass (current chapter map)
+## 2026-10-03 line-edit pass (chapter map superseded by round 3 below)
 - Backup: `D:\bak\2026-10-03 novel revisions\Lolly2 - The Permitted Options\line-edit-pass\` (docx before and after, this guide and the KDP text before).
 - Ch9-12 seminars cut back to the conflict. Eugenius's Wigner/Hamming essay, Barbarian's time physics, Fainrose's entropy board, Ramanathan's Landauer, Drill's EPR and Kochen-Specker, Eugenius's anthropic list and the Fermi paper are gone from the story or cut to a few lines. The physics is in Lectures 9-12 (the Fermi question and the shuffled deck are new "Moved from the chapter" paragraphs in Lectures 12 and 11). Arakawa trimmed by about half.
 - Esaki corrected in Ch12 and Lecture 12: the 1957 discovery is forward-bias negative differential resistance.
@@ -258,3 +258,49 @@ Do not commit or push unless the user asks. The git root is `My Books for Amazon
 | Lecture. Chapter Fourteen | 2313 |
 | Glossary | 2330 |
 | Bibliography | 2348 |
+
+## 2026-10-03 round 3, structural (current chapter map)
+- 15 chapters and 15 lectures (was 14). Old Chapter Fourteen (10.1k words) is split: Ch14 *The Remaining Possibilities* (the bench, the no-throat call, one folded meeting for liability, the nine and Eilstein's clause, Mrs Tull, the suspension; ends on the unused Post Office pad) and new Ch15 *The Fifteenth Line* (Best Interests meeting, Pike's ledger, Jago's docket, Tengelman, Vienna, the inquiry, Ellen, Larchfield, 9 Feb). Bookmarks ch00-ch14 / lec00-lec14; the lecture list links Chapter Fifteen to lec14.
+- Lolly drives the "who held the pen" thread from Ch10: Fri 14 Aug (127 days) she asks Mavis-9, who reports one certified copy of Schedule 4, requester withheld under Registry Rule 40, sort order non-standard, and tells the requester she asked. Lolly files Form R/40 (refused twice by the Office). Sat 15 Aug Miss Pike tells her "The system says withheld" and does not open her ledger (Pike's concealment, owned in Ch15: "And August.").
+- Suspension (Mon 9 Nov) cuts off the system route: pass stops at 11:02, Mavis-9 says the R/40 appeal has lapsed. After the BI meeting (Thu 12 Nov) Lolly asks Pike as a private person ("Not the system. Your book."). Pike: "I've known since August. I need to be ready." Pike brings the ledger in January; Lolly then asks Jago about his dockets.
+- Inquiry (Wed 3 Feb) is no longer tidy: final written warning for two years; reinstated on conditions (correspondence with registered persons goes to a two-signature procedure; no contact with the Tulls, apology included); Exhibit LW/1 is retained while Gary Tull's complaint is with the Ombudsman, then goes to the National Archives (class B, closed twenty years). Mrs Tull writes once on her own initiative (lodger Precious, a Northwick Park night nurse; Gary has not been). Lolly does not reply.
+- Closing notebook entries are written in the Post Office pad = volume six. The last paragraph: volume five in a Cabinet Office cupboard; volume six has one page used.
+- Ch3: Mr Hale's visitor badge photographs the lobby wall instead of Eilstein; the badge (SUBJECT DECLINED TO APPEAR) stays on the briefing-room corkboard.
+- Ch9 summary segues ("The notebooks." / "The nine." / "Vienna.") are now sentences. Vienna has one judge question, not two.
+- Lecture 15 (order statistics and likelihood ratios; append-only records and Certificate Transparency, RFC 6962; the prosecutor's fallacy and Sally Clark, 1999/2003; "Unitarity is not access" moved from L14). Glossary gains "Schedule 4".
+
+| Heading | Index (1-based) |
+|---|---|
+| Chapter One | 47 |
+| Chapter Two | 144 |
+| Chapter Three | 280 |
+| Chapter Four | 409 |
+| Chapter Five | 563 |
+| Chapter Six | 737 |
+| Chapter Seven | 872 |
+| Chapter Eight | 972 |
+| Chapter Nine | 1070 |
+| Chapter Ten | 1189 |
+| Chapter Eleven | 1295 |
+| Chapter Twelve | 1422 |
+| Chapter Thirteen | 1566 |
+| Chapter Fourteen | 1670 |
+| Chapter Fifteen | 1761 |
+| The Lectures | 1928 |
+| Lecture. Chapter One | 1945 |
+| Lecture. Chapter Two | 1962 |
+| Lecture. Chapter Three | 1988 |
+| Lecture. Chapter Four | 2013 |
+| Lecture. Chapter Five | 2040 |
+| Lecture. Chapter Six | 2066 |
+| Lecture. Chapter Seven | 2090 |
+| Lecture. Chapter Eight | 2117 |
+| Lecture. Chapter Nine | 2139 |
+| Lecture. Chapter Ten | 2195 |
+| Lecture. Chapter Eleven | 2227 |
+| Lecture. Chapter Twelve | 2263 |
+| Lecture. Chapter Thirteen | 2314 |
+| Lecture. Chapter Fourteen | 2335 |
+| Lecture. Chapter Fifteen | 2351 |
+| Glossary | 2365 |
+| Bibliography | 2384 |
