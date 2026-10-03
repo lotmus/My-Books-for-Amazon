@@ -1,4 +1,4 @@
-"""Front covers for EE Series Books 1-7 and back covers for Books 3-7, in the design of cover_book2.png.
+"""Front covers for EE Series Books 1-7 and back covers for Books 2-7, in the design of cover_book2.png.
 
 Canvas 1600 x 2560 px (KDP Kindle ideal, 1:1.6), same as cover_book2.png.
 Measured from cover_book2.png: gold band 0-169, title cap height 93 px with a
@@ -41,8 +41,14 @@ BOOKS = {
             front_name='cover for book 1.jpg'),
     2: dict(title=['CIRCUITS,', 'COMPONENTS,', 'AND CONTROL'],
             tags='ANALOG · DIGITAL · REAL COMPONENTS',
-            accent=(215, 161, 59), motif='circ', back=None,
-            front_name='cover_book2.jpg'),
+            accent=(215, 161, 59), motif='circ',
+            front_name='cover_book2.jpg', back_name='cover_book2_back.jpg',
+            back=[
+                "This book is built around the op-amp and the feedback loop.",
+                "It covers analog and digital electronics, logic, op-amps, and active filters, and the real resistors, capacitors, and inductors behind every schematic. Then comparators, instrumentation amplifiers, sample-and-hold circuits, voltage references, oscillators, and digital timing and metastability.",
+                "The control thread runs underneath it all: plant and sensor, PID and lead-lag design, digital control, state feedback and observers, the H-bridge and motor as a plant, the root locus, and the Nyquist criterion with its stability margins.",
+                "Thirty-two chapters. Every number in a worked example was computed, and every practice answer is in the back of the book.",
+            ]),
     3: dict(title=['SEMICONDUCTOR', 'PHYSICS AND', 'DEVICES'],
             tags='CARRIERS · JUNCTIONS · TRANSISTORS',
             accent=(96, 190, 204), motif='semi',
@@ -634,7 +640,7 @@ def main():
             print('wrote', p)
             continue
         bk = back(n, b)
-        q = os.path.join(out, f'cover_book{n}_back.jpg')
+        q = os.path.join(out, b.get('back_name', f'cover_book{n}_back.jpg'))
         bk.save(q, quality=95, dpi=(200, 200))
         del bk
         print('wrote', p, q)
