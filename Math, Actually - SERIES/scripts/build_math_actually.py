@@ -482,6 +482,10 @@ def transform(vol, root, rooms, chaps):
     # 8b. body prose justified, as in Physics, Actually (images, display maths, captions, code left alone)
     justify_body(body)
 
+    # 8c. on-ramp paragraphs (ma_text.ONRAMPS) for the sections listed in
+    #     notes/Math, Actually - Sections Needing On-ramps.md
+    insert_onramps(body, getattr(T, 'ONRAMPS', {}))
+
     # 9. sanity: every hyperlink anchor resolves
     names = set(b.get(q('name')) for b in root.iter(q('bookmarkStart')))
     dangling = [h.get(q('anchor')) for h in root.iter(q('hyperlink')) if h.get(q('anchor')) and h.get(q('anchor')) not in names]
@@ -504,6 +508,51 @@ def justify_body(body):
             if ppr is None: ppr = etree.Element(q('pPr')); el.insert(0, ppr)
             etree.SubElement(ppr, q('jc')).set(q('val'), 'both')
         prev = el
+
+def insert_onramps(body, onramps):
+    """One plain justified paragraph straight after each listed section's Heading 2
+    (or after its one-line subtitle, if it has one), before the shaded definition box."""
+    ps = [el for el in body if etree.QName(el).localname == 'p']
+    shd = lambda el: el.find('.//' + q('shd')) is not None
+    pic = lambda el: el.find('.//' + q('drawing')) is not None
+    for i, h in enumerate(ps):
+        if style_of(h) != 'Heading2': continue
+        key = ptext(h).split(':')[0].strip()
+        if key not in onramps: continue
+        j = i + 1
+        while j < len(ps) and not ptext(ps[j]).strip() and not pic(ps[j]): j += 1
+        anchor, nxt = h, ps[j]
+        t = ptext(nxt).strip()
+        if (not style_of(nxt) and not shd(nxt) and not pic(nxt) and 0 < len(t) < 120
+                and not t.endswith(('.', ':', '?'))):
+            anchor = nxt
+        tpl = None
+        for el in ps[i + 1:i + 80]:
+            if style_of(el).startswith('Heading'): break
+            jc = el.find('w:pPr/w:jc', NS)
+            if (not style_of(el) and not shd(el) and not pic(el) and len(ptext(el)) > 150
+                    and jc is not None and jc.get(q('val')) == 'both'
+                    and el.find('.//{%s}oMath' % M) is None):
+                tpl = el; break
+        new = etree.Element(q('p'))
+        if tpl is not None and tpl.find(q('pPr')) is not None:
+            ppr = copy.deepcopy(tpl.find(q('pPr')))
+            for tag in ('numPr', 'pageBreakBefore', 'keepNext', 'shd', 'pBdr'):
+                for x in ppr.findall(q(tag)): ppr.remove(x)
+            new.append(ppr)
+        else:
+            etree.SubElement(etree.SubElement(new, q('pPr')), q('jc')).set(q('val'), 'both')
+        r = etree.SubElement(new, q('r'))
+        if tpl is not None:
+            r0 = next((x for x in tpl.findall(q('r')) if x.find(q('rPr')) is not None
+                       and x.find('w:rPr/w:b', NS) is None and x.find('w:rPr/w:i', NS) is None), None)
+            if r0 is not None:
+                rpr = copy.deepcopy(r0.find(q('rPr')))
+                for tag in ('b', 'i', 'bCs', 'iCs', 'vertAlign', 'u'):
+                    for x in rpr.findall(q(tag)): rpr.remove(x)
+                r.append(rpr)
+        tt = etree.SubElement(r, q('t')); tt.text = onramps[key]
+        anchor.addnext(new)
 
 def ensure_bm(p, name, bm):
     for b in p.iter(q('bookmarkStart')):
