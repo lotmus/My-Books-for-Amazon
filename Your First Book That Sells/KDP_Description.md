@@ -1,12 +1,12 @@
 # KDP listing — Your First Book That Sells
 
-Updated 1 October 2026. Platform facts were checked against KDP Help on 1 October 2026. This one listing replaces the old "Your First Book That Sells" plain edition and "How to Publish and Make Good Money"; they are now one book.
+Updated 1 October 2026. Platform facts were checked against KDP Help on 1 October 2026. This one listing replaces the old “Your First Book That Sells” plain edition and “How to Publish and Make Good Money”; they are now one book.
 
 ## Title fields
 
 - **Title:** Your First Book That Sells
 - **Subtitle:** How to Publish and Make Good Money on Kindle: Real Royalties, Honest Reviews, and a Catalog That Pays
-- **Author:** Lothar J. Musiol
+- **Author:** Kevin Drew Peters
 - **Series:** none.
 - **Edition:** Updated 1 October 2026
 - **Length:** about 33,700 words, 32 chapters in eight parts, three appendices, glossary, official sources
@@ -58,7 +58,7 @@ If you want a first book that pays you honestly, start here.
 
 ## AI disclosure
 
-Answer KDP’s AI-content question for what was actually done. If an AI tool created text, cover art, interior images, or translations, that is “AI-generated” even after heavy editing and must be declared. Editing, checking, and brainstorming on your own writing is “AI-assisted” and need not be declared. Lothar decides the answer before upload.
+Answer KDP’s AI-content question for what was actually done. If an AI tool created text, cover art, interior images, or translations, that is “AI-generated” even after heavy editing and must be declared. Editing, checking, and brainstorming on your own writing is “AI-assisted” and need not be declared. Kevin decides the answer before upload.
 
 ## 2026 platform facts used in the book (checked 1 October 2026)
 

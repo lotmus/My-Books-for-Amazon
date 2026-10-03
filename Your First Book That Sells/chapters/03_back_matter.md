@@ -74,7 +74,7 @@ If you remember one thing from both halves of this book, make it the keep test f
 
 - [ ] Paperback (expanded distribution): 40% of list price, minus printing cost
 
-- [ ] Hardcover (Amazon channel): 60% of list price, minus printing cost
+- [ ] Hardcover (Amazon channel): 60% of list price at $9.99 and up (50% below), minus printing cost; not available via expanded distribution
 
 - [ ] Printing cost depends on page count, trim size, ink (B&W vs. color), and paper choice — always confirm with KDP’s own price calculator before setting a list price
 
