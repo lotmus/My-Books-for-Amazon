@@ -37,6 +37,13 @@
 - Bibliography
 
 
+# Also in This Series
+
+- Volume 1 — Motion, Forces, Time, and Relativity
+- Volume 2 — Gravity, Cosmology, and the Limits of Spacetime
+- Life, Actually — From the First Cell to the Edited Genome and the Search for Life Elsewhere
+
+
 # Prologue: How Sure Are We, Really?
 
 ## The Most Precise Theory Ever Built
@@ -2896,3 +2903,68 @@ Wu, C. S., E. Ambler, R. W. Hayward, D. D. Hoppes, and R. P. Hudson. "Experiment
 Yukawa, Hideki. "On the Interaction of Elementary Particles. I." Proceedings of the Physico-Mathematical Society of Japan 17 (1935): 48–57.
 
 ↑ Back to Contents
+
+
+# Also by Lothar J. Musiol
+
+**Physics, Actually**
+- Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity
+- Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime
+- Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge
+
+**Life, Actually**
+- Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere
+
+**Math, Actually**
+- Math, Actually, Volume 1: From Arithmetic to Calculus
+- Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic
+- Math, Actually, Volume 3: From Differential Equations to Abstract Algebra
+- Math, Actually, Volume 4: From Category Theory to the Frontier
+
+**Quanta, Actually**
+- Quanta, Actually, Volume 1: The Quantum World
+- Quanta, Actually, Volume 2: The Quantum Conversation
+- Quanta, Actually, Volume 3: Complete Quantum Electrodynamics Course
+
+**Science Sparks**
+- Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights
+
+**Look First**
+- Look First, Volume 1: The Universe Has No Now
+- Look First, Volume 2: A Trip Is Not a New Life
+
+**Electrical Engineering Series**
+- Foundations of Electronics (Book 1)
+- Circuits, Components, and Control (Book 2)
+- Semiconductor Physics and Devices (Book 3)
+- RF, Microwave, and Transceivers (Book 4)
+- Communications, Wireless, and SDR (Book 5)
+- Power and Energy (Book 6)
+- Packaging, Layout, EMC, and Test (Book 7)
+
+**History**
+- The Dolphins' View of History
+
+**Fiction**
+- The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1)
+- The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2)
+- Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1)
+- The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2)
+- Protocol Flamingo (The Invasion Storybooks, Book 1), as George Herbert Fontaine
+
+**How-To**
+- Your First Book That Sells
+- Your First YouTube Channel That Rocks
+
+
+# A Note Before You Go
+
+We began inside a nucleus and a gold foil that bounced bullets back. We end with strings, strange loops and a universe that has produced readers capable of asking what it is made of.
+
+This is the last numbered volume of Physics, Actually. If you came here first, the story starts earlier: motion, forces, light, time and special relativity in Volume 1, and gravity, black holes, the expanding universe and the first three minutes in Volume 2. Quantum mechanics, entanglement and quantum technology have a book of their own, the companion volume The Quantum World.
+
+If this book made you see something ordinary — a banana, a sunny afternoon, a cloud of mist in a cold box — a little differently, it did its job. If you have thirty seconds, a short review on Amazon is one of the most useful things you can do for a book like this one. It helps other curious readers find it, and it helps far more than you would expect.
+
+Thank you for reading.
+
+Lothar J. Musiol
