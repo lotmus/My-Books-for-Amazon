@@ -91,3 +91,7 @@ Found during the 2 Oct 2026 rename. Every section already opens with prose befor
 | 4 | Section 48.3: Stochastic Gradient Methods | 25 |
 | 4 | Section 49.3: Preconditioning and Multigrid | 30 |
 | 4 | Section 49.8: Structure-Preserving and Geometric Integration | 41 |
+
+## Status
+
+2 Oct 2026: done. All 87 on-ramps written (60-120 words each, using each section's own numbers) and inserted in the four volume docx as one justified body paragraph straight after the section heading, or after its one-line subtitle, before the shaded definition box. The text lives in scripts/ma_text.py (ONRAMPS), and build_math_actually.py inserts it at step 8c (insert_onramps), so a rebuild keeps it.

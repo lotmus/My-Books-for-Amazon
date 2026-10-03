@@ -480,7 +480,7 @@ Franklin, Rosalind E., and Raymond G. Gosling. “Molecular Configuration in Sod
 
 Glavin, Daniel P., et al. “Abundant Ammonia and Nitrogen-Rich Soluble Organic Matter in Samples from Asteroid (101955) Bennu.” Nature Astronomy 9 (2025): 199–210.
 
-Gori, Jennifer L., et al. “Prime Editing for p47phox-Deficient Chronic Granulomatous Disease.” New England Journal of Medicine (7 December 2025).
+Gori, Jennifer L., et al. “Prime Editing for p47phox-Deficient Chronic Granulomatous Disease.” New England Journal of Medicine 394, no. 12 (2026): 1195-1203. Published online 7 December 2025.
 
 Greaves, Jane S., et al. “Phosphine Gas in the Cloud Decks of Venus.” Nature Astronomy 5 (2021): 655–664.
 
@@ -496,7 +496,7 @@ Huerta-Sánchez, Emilia, et al. “Altitude Adaptation in Tibetans Caused by Int
 
 Hu, Renyu, et al. “A Secondary Atmosphere on the Rocky Exoplanet 55 Cancri e.” Nature 630 (2024): 609–612.
 
-Hurowitz, Joel A., et al. “Redox-Driven Mineral and Organic Associations in Jezero Crater, Mars.” Nature (10 September 2025).
+Hurowitz, Joel A., et al. “Redox-Driven Mineral and Organic Associations in Jezero Crater, Mars.” Nature 645 (2025): 332-340. Published online 10 September 2025.
 
 International Human Genome Sequencing Consortium. “Initial Sequencing and Analysis of the Human Genome.” Nature 409 (2001): 860–921.
 
@@ -506,7 +506,7 @@ Jinek, Martin, Krzysztof Chylinski, Ines Fonfara, Michael Hauer, Jennifer A. Dou
 
 Kasting, James F., Daniel P. Whitmire, and Ray T. Reynolds. “Habitable Zones around Main Sequence Stars.” Icarus 101, no. 1 (1993): 108–128.
 
-Khawaja, Nozair, et al. “Detection of Organic Compounds in Freshly Ejected Ice Grains from Enceladus’s Ocean.” Nature Astronomy (1 October 2025).
+Khawaja, Nozair, et al. “Detection of Organic Compounds in Freshly Ejected Ice Grains from Enceladus’s Ocean.” Nature Astronomy 9 (2025): 1662-1671. Published online 1 October 2025.
 
 Kivelson, Margaret G., et al. “Galileo Magnetometer Measurements: A Stronger Case for a Subsurface Ocean at Europa.” Science 289, no. 5483 (2000): 1340–1343.
 
@@ -534,7 +534,7 @@ Miller, Stanley L. “A Production of Amino Acids under Possible Primitive Earth
 
 Moody, Edmund R. R., et al. “The Nature of the Last Universal Common Ancestor and Its Impact on the Early Earth System.” Nature Ecology & Evolution 8 (2024): 1654–1666.
 
-Musunuru, Kiran, et al. “Patient-Specific In Vivo Gene Editing to Treat a Rare Genetic Disease.” New England Journal of Medicine (published online 15 May 2025).
+Musunuru, Kiran, et al. “Patient-Specific In Vivo Gene Editing to Treat a Rare Genetic Disease.” New England Journal of Medicine 392, no. 22 (2025): 2235-2243. Published online 15 May 2025.
 
 Nurk, Sergey, et al. “The Complete Sequence of a Human Genome.” Science 376, no. 6588 (2022): 44–53.
 
@@ -562,7 +562,7 @@ Tipler, Frank J. “Extraterrestrial Intelligent Beings Do Not Exist.” Quarter
 
 Turing, Alan M. “Computing Machinery and Intelligence.” Mind 59, no. 236 (1950): 433–460.
 
-UK Biobank Whole-Genome Sequencing Consortium. “Whole-Genome Sequencing of 490,640 UK Biobank Participants.” Nature (6 August 2025).
+UK Biobank Whole-Genome Sequencing Consortium. “Whole-Genome Sequencing of 490,640 UK Biobank Participants.” Nature 645 (2025): 692-701. Published online 6 August 2025.
 
 Waite, J. Hunter, et al. “Cassini Finds Molecular Hydrogen in the Enceladus Plume: Evidence for Hydrothermal Processes.” Science 356, no. 6334 (2017): 155–159.
 

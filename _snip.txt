@@ -1,5 +1,0 @@
-><w:pPr><w:spacing w:after="160" w:line="240" w:lineRule="auto"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Georgia" w:hAnsi="Georgia" w:eastAsia="Georgia"/><w:b w:val="0"/><w:sz w:val="22"/></w:rPr><w:t>Lorentz transforms</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:after="160" w:line="240" w:lineRule="auto"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Georgia" w:hAnsi="Georgia" w:eastAsia="Georgia"/><w:b w:val="0"/><w:sz w:val="22"/></w:rPr><w:t>Postulates</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:after="160" w:line="240" w:lineRule="auto"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Georgia" w:hAnsi="Georgi
-
-====
-
-:rPr><w:rFonts w:ascii="Georgia" w:hAnsi="Georgia" w:eastAsia="Georgia"/><w:b w:val="0"/><w:sz w:val="22"/></w:rPr><w:t>Why SR survives inside GR</w:t></w:r></w:p><w:p><w:pPr><w:spacing w:after="160" 

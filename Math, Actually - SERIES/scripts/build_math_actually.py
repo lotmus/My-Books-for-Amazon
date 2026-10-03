@@ -282,6 +282,9 @@ def transform(vol, root, rooms, chaps):
         if etree.QName(el).localname == 'p' and not style_of(el) and len(ptext(el)) > 200 and el.find('w:pPr/w:shd', NS) is None:
             body_tpl = el; break
     tpl_ppr = copy.deepcopy(body_tpl.find(q('pPr')))
+    # the first long unstyled paragraph is the (centred) copyright text; new prose is justified body text
+    for j in tpl_ppr.findall(q('jc')): tpl_ppr.remove(j)
+    etree.SubElement(tpl_ppr, q('jc')).set(q('val'), 'both')
     def body_p(text):
         p = etree.Element(q('p')); p.append(copy.deepcopy(tpl_ppr)); add_runs(p, text); return p
 
@@ -403,6 +406,9 @@ def transform(vol, root, rooms, chaps):
     copyright_paras = [e for e in title_old if re.search(r'Copyright|All rights reserved|First edition|checked with care', ptext(e))]
     for e in copyright_paras:
         edit_paragraph(ctx, e, 'body', extra_rules=lit_rules(vol))
+        for t in e.iter(q('t')):   # Physics, Actually wording: 'Copyright (c) 2026 Name' on its own line
+            if t.text and t.text.endswith('Lothar J. Musiol. All rights reserved.') and t.text.startswith('Copyright'):
+                t.text = t.text[:-len('. All rights reserved.')]
     for e in title_old:
         body.remove(e)
     for e in reversed(new_title + [mk_p('', None, page_break=True)] + copyright_paras +
@@ -473,11 +479,80 @@ def transform(vol, root, rooms, chaps):
     closing += [body_p(t) for t in T.CLOSING[vol]] + [body_p(T.AUTHOR)]
     for e in closing: sect.addprevious(e)
 
+    # 8b. body prose justified, as in Physics, Actually (images, display maths, captions, code left alone)
+    justify_body(body)
+
+    # 8c. on-ramp paragraphs (ma_text.ONRAMPS) for the sections listed in
+    #     notes/Math, Actually - Sections Needing On-ramps.md
+    insert_onramps(body, getattr(T, 'ONRAMPS', {}))
+
     # 9. sanity: every hyperlink anchor resolves
     names = set(b.get(q('name')) for b in root.iter(q('bookmarkStart')))
     dangling = [h.get(q('anchor')) for h in root.iter(q('hyperlink')) if h.get(q('anchor')) and h.get(q('anchor')) not in names]
     STATS['dangling'] = dangling
     return root
+
+M = 'http://schemas.openxmlformats.org/officeDocument/2006/math'
+def justify_body(body):
+    started = False; prev = None
+    for el in body:
+        if etree.QName(el).localname != 'p': prev = None; continue
+        if style_of(el) == 'Heading1' and ptext(el).strip() == 'Also in This Series': started = True
+        t = ptext(el).strip(); ppr = el.find(q('pPr'))
+        ok = (started and not style_of(el) and len(t) >= 40 and el.find('.//' + q('drawing')) is None
+              and el.find('.//{%s}oMathPara' % M) is None
+              and not (prev is not None and prev.find('.//' + q('drawing')) is not None)
+              and not re.match(r'(Figure|Fig\.|Table)\s', t)
+              and not any((rf.get(q('ascii')) or '') in ('Consolas', 'Courier New') for rf in el.iter(q('rFonts'))))
+        if ok and (ppr is None or ppr.find(q('jc')) is None):
+            if ppr is None: ppr = etree.Element(q('pPr')); el.insert(0, ppr)
+            etree.SubElement(ppr, q('jc')).set(q('val'), 'both')
+        prev = el
+
+def insert_onramps(body, onramps):
+    """One plain justified paragraph straight after each listed section's Heading 2
+    (or after its one-line subtitle, if it has one), before the shaded definition box."""
+    ps = [el for el in body if etree.QName(el).localname == 'p']
+    shd = lambda el: el.find('.//' + q('shd')) is not None
+    pic = lambda el: el.find('.//' + q('drawing')) is not None
+    for i, h in enumerate(ps):
+        if style_of(h) != 'Heading2': continue
+        key = ptext(h).split(':')[0].strip()
+        if key not in onramps: continue
+        j = i + 1
+        while j < len(ps) and not ptext(ps[j]).strip() and not pic(ps[j]): j += 1
+        anchor, nxt = h, ps[j]
+        t = ptext(nxt).strip()
+        if (not style_of(nxt) and not shd(nxt) and not pic(nxt) and 0 < len(t) < 120
+                and not t.endswith(('.', ':', '?'))):
+            anchor = nxt
+        tpl = None
+        for el in ps[i + 1:i + 80]:
+            if style_of(el).startswith('Heading'): break
+            jc = el.find('w:pPr/w:jc', NS)
+            if (not style_of(el) and not shd(el) and not pic(el) and len(ptext(el)) > 150
+                    and jc is not None and jc.get(q('val')) == 'both'
+                    and el.find('.//{%s}oMath' % M) is None):
+                tpl = el; break
+        new = etree.Element(q('p'))
+        if tpl is not None and tpl.find(q('pPr')) is not None:
+            ppr = copy.deepcopy(tpl.find(q('pPr')))
+            for tag in ('numPr', 'pageBreakBefore', 'keepNext', 'shd', 'pBdr'):
+                for x in ppr.findall(q(tag)): ppr.remove(x)
+            new.append(ppr)
+        else:
+            etree.SubElement(etree.SubElement(new, q('pPr')), q('jc')).set(q('val'), 'both')
+        r = etree.SubElement(new, q('r'))
+        if tpl is not None:
+            r0 = next((x for x in tpl.findall(q('r')) if x.find(q('rPr')) is not None
+                       and x.find('w:rPr/w:b', NS) is None and x.find('w:rPr/w:i', NS) is None), None)
+            if r0 is not None:
+                rpr = copy.deepcopy(r0.find(q('rPr')))
+                for tag in ('b', 'i', 'bCs', 'iCs', 'vertAlign', 'u'):
+                    for x in rpr.findall(q(tag)): rpr.remove(x)
+                r.append(rpr)
+        tt = etree.SubElement(r, q('t')); tt.text = onramps[key]
+        anchor.addnext(new)
 
 def ensure_bm(p, name, bm):
     for b in p.iter(q('bookmarkStart')):

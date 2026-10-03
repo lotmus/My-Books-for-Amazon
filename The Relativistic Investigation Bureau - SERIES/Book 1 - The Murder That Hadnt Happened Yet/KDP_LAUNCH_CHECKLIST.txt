@@ -6,13 +6,14 @@ Book 1: The Relativistic Investigation Bureau Series
 
 [Worked through 1 Oct 2026 (PT). ☑ = done and checked. ☐ = still open, with
 the reason. Everything that could be done without Lothar is done. What is left
-is the author name, the launch date, and steps that need Lothar's own KDP
+is the launch date and steps that need Lothar's own KDP
 account or his own decision (marked LOTHAR). Post-launch sections are left
 unticked because they can only happen after publication.]
 
-STATUS: Ready to upload, except author name and launch date
+STATUS: Ready to upload, except launch date
 DEADLINE: [LOTHAR: launch date]
-AUTHOR: [LOTHAR: author name; see KDP_METADATA.txt > AUTHOR NAME]
+AUTHOR: Lothar J. Musiol writing as Spezala Genara Relavi (decided 2 Oct 2026;
+        see KDP_METADATA.txt > AUTHOR NAME)
 
 ================================================================================
 PRE-LAUNCH (2-4 WEEKS BEFORE)
@@ -37,7 +38,8 @@ COVER DESIGN:
 ☑ Cover tested at thumbnail size (100 x 150 px: title readable)
 ☑ Cover works in grayscale (tested)
 ☑ Final cover file ready (.jpg; note KDP ebook covers must be JPEG or TIFF, not PNG)
-☐ Cover byline must match the author name chosen (LOTHAR)
+☑ Cover byline matches the author name: "Lothar J. Musiol / writing as Spezala
+  Genara Relavi (S.G.R.)" (front, back and Audible covers redone 2 Oct 2026)
 
 METADATA PREPARATION:
 ☑ Keywords: 7 phrases ready in KDP_METADATA.txt
@@ -56,7 +58,8 @@ AMAZON KDP ACCOUNT SETUP:
 ☐ KDP account created (LOTHAR's own account)
 ☐ Tax information submitted (LOTHAR)
 ☐ Bank account linked for royalty payments (LOTHAR)
-☐ Pen name vs. real name decision made (LOTHAR; options in KDP_METADATA.txt)
+☑ Pen name vs. real name decided 2 Oct 2026: both, "Lothar J. Musiol writing as
+  Spezala Genara Relavi"
 ☐ Author profile (Author Central) complete: bio text is ready; LOTHAR creates the profile
 
 REVIEW PREPARATION (OPTIONAL):
@@ -108,7 +111,7 @@ METADATA FINAL CHECK:
 ☑ Title exactly as chosen
 ☑ Blurb ready to copy from KDP_METADATA.txt
 ☑ Keywords ready to paste
-☐ Author name (LOTHAR)
+☑ Author name: Lothar J. Musiol (primary) + Spezala Genara Relavi (contributor, Author)
 ☑ Category selections (proposal)
 ☐ Publication date (LOTHAR)
 ☑ Price: $3.99 (proposal)
@@ -126,7 +129,7 @@ AMAZON KDP UPLOAD:
 BASIC BOOK INFORMATION:
 ☐ Title: "The Murder That Hadn't Happened Yet"
 ☐ Subtitle: "A Relativistic Investigation Bureau Mystery"
-☐ Author: [Your Name]
+☐ Author: Lothar J. Musiol; Contributors: Spezala Genara Relavi (role: Author)
 ☐ Series: "The Relativistic Investigation Bureau"
 ☐ Series Number: 1
 ☐ Edition number: (leave blank unless applicable)

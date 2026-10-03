@@ -9,9 +9,10 @@ Lothar still has to decide: price, categories, keywords, and whether to name
 
 Series name (KDP series field): Math, Actually
 
-Cover note: the current cover images (`Cover  Volume 1-4.jpg`, `Cover Art\`,
-`back cover.png`) still show the old Tower title and wording. They need new
-artwork before upload.
+Cover note: new covers made 2 Oct 2026 with the Math, Actually title.
+`Cover  Volume 1-4.jpg` (1600x2560, KDP ebook ratio 1.6) are the upload covers;
+`Cover Art\` (used by make_epub.py) and `back cover.png` were redone too.
+Old Tower covers: `D:\bak\2026-10-02 Math covers\`.
 
 ---
 
@@ -136,7 +137,6 @@ problems, with answers and solutions at the back.
    single-file complete edition in `bak\READY (2026-09-26)` is an old build
    from 26 Sep under the old title, so it is out of date.)
 2. KDP categories and the seven keywords for each volume.
-3. New cover art with the Math, Actually title (the current covers still say
-   "The Mathematics Tower").
+3. Check the new Math, Actually covers (made 2 Oct 2026) before upload.
 4. Worked-example counts are the recounted figures from 1 Oct 2026: 430 / 433 / 361 / 349,
    1,573 in all. The volumes state the same figures.
