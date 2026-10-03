@@ -72,6 +72,14 @@ Barbour’s heap is the austere version. The world is a pile of Nows — instant
 
 A fossil, in the heap, is a Now that contains a record of another Now: a glow with a temperature, a notebook with a beak, a scar. Dynamics is the pattern of those containments. You do not need a spotlight moving down a hallway of rooms. You need the rooms to include pictures of other rooms. That is either a deep truth or a way of talking. We do not yet have a leftover-glow test that picks. What we have is a warning: do not smuggle a river back in just because English has a tense.
 
+A tempting merger waits here, and Chapter 37 already taught the habit for refusing it. Barbour has a heap of Nows. Everett has a sum of branches. Both say the inventory is bigger than the slice you remember. Put them in one coat and you get a slogan: every possible Now exists, so the multiverse is just the heap. Two drawers, one bench.
+
+Open them one at a time. The heap is configurations: every arrangement the stuff could have, one point per arrangement, whether or not anything in it remembers anything. That is configuration space, a map of the possible. Everett’s branches are not points on that map. A branch is a term in the wave that has decohered from the other terms, a pattern of records that agree with each other about which face the coin shows. Most points in the heap belong to no branch worth the name. They are scrambles with no records at all. A branch is a thin, well-behaved thread through the heap, picked out by decoherence. Not by time. Not by being possible.
+
+Barbour did build a bridge. In his picture the wave of the universe piles its weight on the Nows that hold consistent records, which he calls time capsules. That is a bridge between two drawers, not a fusion of them. It is a proposal about where the weight sits, and nobody has derived it from anything we can test. The GPS clock is no help here either. It lives where the heap already looks like a loaf.
+
+Hot: decoherence is a measured rate. Warm: Everett as a reading of the rule that builds chemistry. Cold: the heap as the fundamental inventory, and the time capsules as its weighting. Colder than any of them: the fused slogan. Possible is not the same word as realized. A map of every arrangement is not a census of worlds.
+
 Rovelli’s thermal time is a different recovery. A system with enough heat, enough statistical mix, can have a flow defined by that mix: time as what equilibrium says about itself. In ordinary kitchens this is overkill. In a quantum gravity where no *t* is on the page, it is a candidate for where the word comes back. Cold-to-warm. Allowed. Not a photograph.
 
 ![Figure 44. A clock face dissolving into a pile of marks.](Figures/figs/fig44.png)

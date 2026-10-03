@@ -148,6 +148,7 @@ The method may continue. These performances may not.
 - Gideon's shoe in the Chapter 1 doorframe of Book 1. In Book 2 she only hears the clank from the floor below, and the corridor has solder in it. Do not put the shoe back in the doorway.
 - Pilbeam being rescued by the word "Minute it." A later book may minute a decision. It may not replay the chairman looking round the table for someone to save him.
 - The neighbour's cat who loathes Beatrix, and the terrier treating chair legs as a romantic prospect. Both have had their scene.
+- The Preston footbridge petition (“That part, everyone remembers correctly”) and Beatrix’s two departments whose forms will not combine. Both are Book 2, Chapters 9 and 10. Do not file another petition from that ward or redesign the form.
 - Stadthof's "It is not even wrong yet," Nashville's "I do arithmetic," and Fainrose's "Get her in." Those lines belong to the scenes that used them. Do not hand one of them to somebody else.
 
 ### If a place returns, it returns furnished
@@ -196,6 +197,10 @@ Do not redecorate a room this list already describes. A new room may be added. T
 **Peterhead** is Ellen's boat, not her origin. **Woking** is Vale's garden. **Aberdeen** and **Sligo** are where her two partners are from. **Newcastle** is the shop she did not take.
 
 Other offices that exist if a later book needs a region already named: Preston, Cardiff, and a sub-post office outside Dumfries that claimed an event horizon of its own.
+
+**Preston**, in Book 2, is a ward petition and not a scene. In Chapter 9 a petition of three hundred and eighty-six signatures, forwarded by three departments stamped NOT US, says the notice on the closed railway footbridge, eleven winters ago, promised it would reopen by Whitsun. The file holds the notice: one typed sheet, foxed at a corner, closed pending a decision, promising nothing. Lolly minutes the ward as one witness with three hundred and eighty-six signatures. Fainrose has the reply say the ward and the file are agreed, not wrong. The bridge stays closed. Nobody from the ward walks on.
+
+**The Department of Small Things and the Department of Large Things** are named by Beatrix in Chapter 10 and are not visited. Small Things will not accept a form unless box four gives a probability; Large Things will not accept one unless box four gives a shape. No form exists that both will sign. Bridges go to Large Things, transistors to Small Things, the satellites to both in turn. An application that needs both at once, both large, is filed under Four C. They are offices, not rooms. If a later book opens either door, furnish it here first.
 
 The letterhead cannot settle its own name. Ministry of Eventualities, Ministry of Civic Stability, and the Simplification Initiative have all been true, depending on who is auditing. Beatrix's rule stands: they all are, until an auditor is in the room, and then exactly one is, and it is never the one on your form.
 

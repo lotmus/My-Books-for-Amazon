@@ -126,6 +126,20 @@ A story is not only entertainment. It can be a compact package for smuggling beh
 
 With every round the story got shorter. Strange details vanished or turned into familiar ones: canoes became boats, and the ghostly parts were explained away. The overall shape survived. The oddities did not. That should sound familiar: it works remarkably like evolution. Variation appears. Some versions spread better than others. The population of stories, ideas, and phrases changes over time, the same way a population of animals does.
 
+### The Same Wrong Memory in Many Heads
+
+Bartlett’s students did not think they were changing the story. Each one believed the version they passed on. That is the uncomfortable part of his result. Memory is not a recording that plays back. It is a reconstruction. Each time you remember, your brain rebuilds the event from fragments and fills the gaps with what usually happens.
+
+The psychologist Elizabeth Loftus, who spent decades studying false memories, showed how easily the gaps get filled. In a 1974 study, people watched films of car crashes. Some were asked how fast the cars were going when they “hit” each other. Others were asked about the cars that “smashed” into each other. The “smashed” group guessed higher speeds. A week later, about a third of them remembered seeing broken glass. There was no broken glass in the film. One word had rebuilt the memory.
+
+Now spread that across a whole culture. Many people are sure a children’s book series was called *The Berenstein Bears*. It is *The Berenstain Bears*. Many people quote the villain of the 1980 *Star Wars* film as saying “Luke, I am your father.” On screen he says “No, I am your father.” Around 2010 the writer Fiona Broome gave the pattern a name. She had met other people who shared her memory of Nelson Mandela dying in prison in the 1980s. He was released in 1990 and died in 2013. Ever since, it has been called the Mandela effect.
+
+Why would thousands of strangers make the same mistake? Because they rebuild from the same parts. “-stein” is a far more common name ending than “-stain.” A line with the hero’s name in it is easier to quote on its own, and parodies repeat the easier version until it is the one everyone has heard. In 2022, researchers at the University of Chicago found shared false memories of famous pictures, too. Many people confidently “remember” a monocle on the Monopoly man. He has never worn one.
+
+This is Bartlett’s retelling chain again, running inside each head and between heads at the same time. The version that survives is the one that fits what minds expect, not the one that happened. His canoes became boats for exactly that reason.
+
+So treat a crowd’s memory the way a biologist treats a popular trait. Its spread tells you it copies well. It does not tell you it is true. A memory shared by millions is evidence that a story was easy to pass on. For what actually happened, you still need the record: the book cover, the film, the photograph.
+
 ### Analogy Makes Culture Cumulative
 
 Imagine having to discover every useful idea completely on your own, with no help from anyone else’s discoveries. Progress would crawl. In 1861, the explorers Robert Burke and William Wills tried to cross Australia without local knowledge. They ran short of food and copied the seed cakes they saw local Aboriginal people make from a fern called nardoo, but skipped the careful preparation those people had learned over generations.
@@ -267,6 +281,20 @@ The collection is a strange party of voices. Alan Turing, the mathematician who 
 The philosopher John Searle is there with his Chinese Room, first published in 1980. That is a thought experiment meant to show that a computer can shuffle symbols perfectly without understanding any of them. After each piece, Hofstadter and Dennett step in with short replies, and they often argue back. Dennett’s own contribution is the funniest. In a story called “Where Am I?”, he imagines his brain removed and kept alive in a vat in Houston, linked by radio to his body.
 
 His body, meanwhile, goes off on a dangerous mission deep under Tulsa, Oklahoma. So where is Dennett? In the vat, where his brain sits? Or in Tulsa, where he sees, hears, and walks around? He visits the vat and stares at his own brain, and he still cannot make it feel like “here.” Nobody wins these arguments in the book. That is the point: instead of one theory declaring “problem solved,” it puts several competing views side by side.
+
+### What If the Signals Lie?
+
+Dennett’s vat is a joke with a very old sting. In 1641 the French philosopher René Descartes asked how he could be sure that a deceiving demon was not feeding him a fake world. Modern philosophers swapped the demon for a computer and the man for a brain in a vat. The worry stayed the same.
+
+Your brain never touches the world. It sits in the dark inside your skull. All it ever receives are electrical pulses along nerves, from the eyes, ears, nose, tongue, and skin. In principle, those pulses could come from anywhere. Then the trap closes a little tighter. Everything you know about brains and nerves also arrived as pulses. You learned that eyes exist by using eyes.
+
+No experiment can climb out of that circle, and nobody has refuted the vat with pure logic. What science can do is describe what the brain does with the pulses. The answer is surprising: it guesses. The neuroscientist Anil Seth, who studies consciousness at the University of Sussex, describes perception as the brain’s running prediction of what is out there, corrected moment by moment by the signals that arrive. He calls it a “controlled hallucination.” The control is the incoming data.
+
+You can catch the guessing at work. Each eye has a blind spot, a patch where the nerve to the brain leaves the eye and there are no light sensors at all. You have never seen the hole. Your brain paints over it with whatever the surroundings suggest.
+
+So why trust the guesses? Not because they are a perfect window. Because they keep passing tests. The step you expected is there when your foot lands. What you see matches what you touch. Other people, and instruments nobody built to agree with you, report the same coffee cup in the same place. Evolution adds a blunter reason. An animal whose inner model missed real cliffs and real predators did not leave many descendants. Selection does not build brains that show the world as it ultimately is. It builds brains whose guesses stay useful.
+
+That is as far as anyone can honestly go. You cannot prove you are not a brain in a vat. You can notice that the vat, if it exists, keeps every promise it makes. For living a life, and for doing science, that turns out to be enough.
 
 ### Why Evolution Would Build a Self-Model
 

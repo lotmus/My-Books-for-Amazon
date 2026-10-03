@@ -982,6 +982,10 @@ The simulated universe can then be compared with observations. When the large-sc
 
 But a simulation is only as good as the physics inside it. Where we don't fully understand something — the detailed behavior of gas inside galaxies, say — the simulation has to approximate it. Star formation, supernova feedback, and black-hole feedback all happen on scales far smaller than the simulation itself, so cosmologists build effective models and tune them against observations. Agreement between simulations and observations is powerful evidence. It isn't proof that every microscopic detail is correct.
 
+Even the best simulations cut corners on purpose, and how they do it is worth knowing. The Millennium Simulation of 2005 tracked about ten billion particles, yet each “particle” stood in for nearly a billion suns' worth of dark matter. Modern codes spend their effort unevenly. Where gas collapses into a galaxy, the computational grid splits into finer and finer cells; out in the near-empty voids it stays coarse. Anything smaller than the finest cell, from a single star to a single supernova, is handled by a subgrid recipe: a rule of thumb for how much starlight and blast energy a patch of gas should produce on average. Video-game designers call the same trick level of detail. Spend detail where something is happening, and save it where nothing is.
+
+That resemblance is one reason some people wonder whether our own universe is rendered the same way. The comparison actually points the other way. A simulation that skimps leaves seams, and much of the craft of cosmology is checking that the model's seams don't show when it is set against the sky. The real sky has shown no seams. Chapter 12 describes one careful search for them.
+
 ## The cosmic web connects the very large to the very small
 
 This is one of the deepest themes in cosmology. The structure of the universe on scales of billions of light-years depends on physics operating at scales almost too small to imagine. The primordial fluctuations may have originated in quantum processes — microscopic jitters stretched to cosmic size, a story Chapter 8 tells properly — and particle physics determines the properties of matter and radiation that filled the early universe.
@@ -1490,6 +1494,18 @@ There is a natural combination of the constants G (Newton's gravitational consta
 
 The Planck scale does not automatically mean that spacetime literally becomes a foam of tiny cubes, the way a photograph becomes grainy pixels if you zoom in far enough. It means that our familiar descriptions are expected to require quantum gravity there, and we genuinely do not know what we would find if we could look.
 
+## Has anyone looked for the pixels?
+
+*Where this stands: OBSERVED — searches for a grain in spacetime have found none so far; they rule out some versions, not every form of discreteness.*
+
+If space were a grid, it should leave fingerprints. A digital photo looks smooth until you zoom in far enough, and then the pixels show. For spacetime, the simplest fingerprint would be a speed of light that depends very slightly on a photon's energy, because short-wavelength light would “feel” the grain more than long-wavelength light.
+
+Nature has run that test for us. On 10 May 2009, NASA's Fermi Gamma-ray Space Telescope caught a burst of gamma rays, GRB 090510, from a stellar explosion about seven billion light-years away. Among its photons was one carrying about 31 billion electronvolts, millions of times the energy of visible light. It arrived within a second of the burst's lower-energy photons. After a journey of seven billion years, that is a dead heat. The Fermi team showed that, for the simplest kind of energy-dependent speed, any graininess must sit below the Planck length itself.
+
+A second idea took the simulation question literally. In 2012 the physicists Silas Beane, Zohreh Davoudi and Martin Savage asked what would happen if the universe were computed on a cubic lattice, the way particle physicists already simulate protons on supercomputers. The grid would cap the energy of the most energetic cosmic rays and line their arrival directions up with the grid's axes. The cap we actually see has an ordinary explanation, cosmic rays losing energy to the microwave background, and their analysis implied that any such grid would have to be finer than roughly 10⁻²⁷ meters. No alignment with any axes has ever been reported.
+
+None of this proves that spacetime is perfectly smooth all the way down. Some approaches to quantum gravity, as we will see, predict discreteness of a subtler kind, one that has no preferred directions and leaves light's speed alone. What the searches do show is that the naive picture, space as a screen of tiny pixels, has been looked for and not found. So far, every attempt to catch the universe at a low resolution has come back with a sharper image.
+
 ## Maybe spacetime is not fundamental
 
 *Where this stands: SPECULATIVE — a radical possibility explored by several research programs, not an established result.*
@@ -1543,6 +1559,8 @@ That is a formidable requirement, and it is the reason most candidate theories o
 ## The humility test
 
 There is something wonderful about reaching the edge of knowledge and being able to say, “We do not know yet.” Physics is not a collection of answers handed down from a mountain. It is a process for discovering which ideas survive contact with reality. General relativity survived spectacular tests — bending starlight, gravitational waves, the precise orbit of Mercury. Quantum mechanics survived even more.
+
+There is a cheeky way to read the deadlock: perhaps the universe is a simulation whose programmers wrote one engine for the small and another for the large, and never got the two to share a frame. It is a fun thought, and it is wrong in an instructive way, because the two engines already run together every day. A GPS receiver corrects for general relativity's clock effects using atomic clocks that work by quantum mechanics. In 1974 Stephen Hawking put quantum fields on the curved spacetime of a black hole and found that black holes should glow. The same marriage explains how the quantum jitters of Chapter 8 grew into galaxies. What we lack is not a way to use both theories at once. It is one theory that still works where both are strong together, at a black hole's center or the very first instant.
 
 A future theory will have to contain both in some deeper sense. Until then, the disagreement between our best theories is not an embarrassment. It is a signpost, pointing toward exactly the kind of question physics is supposed to chase.
 

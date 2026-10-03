@@ -122,7 +122,21 @@ Two comparisons help. One is the pages of a book that has already been written i
 
 Even the arrow of time, why we remember the past and not the future, could be an emergent feature of certain special, low-entropy configurations rather than a fundamental law baked into nature from the start. The idea carries real weight in the search for a theory of quantum gravity. When physicists try to combine general relativity, where time is just another part of a dynamic geometry, with quantum mechanics, where time is an external backdrop, some of the resulting equations end up with no time variable in them whatsoever. That is a hint that this view might be onto something, and only a hint. Hold the whole picture as a speculative, disputed idea.
 
-## 33. Branch Systems: Why the Arrow Agrees with Itself
+## 33. Is the Multiverse Just a Heap of Nows?
+
+*Status: Speculative.*
+
+Chapter 32 described reality as a heap of complete, static configurations, the "Nows," with the past present only as records inside each one. The many-worlds reading of quantum mechanics (Chapters 153 and 354) says the wave function never collapses and every outcome of a measurement persists in its own branch. Both pictures say reality holds far more than the one moment you remember. So it is tempting to merge them: every possible arrangement exists, and the multiverse is simply the heap.
+
+The merger fails, and the reason is worth having. The heap is configuration space: every arrangement that the contents of the universe could take, one point per arrangement, whether or not anything in it remembers anything. It is a map of what is possible. A many-worlds branch is not a point on that map. It is a part of the wave function that has decohered from the other parts (Chapter 152), a pattern of records that agree with one another about which way the coin landed, which detector clicked, which way the cup fell. Decoherence picks out the branches. Time does not, and neither does mere possibility.
+
+A library makes the difference concrete. Imagine shelves holding every possible book of a given length, every arrangement of letters. Almost all of them are gibberish. A few hundred thousand of them are perfect copies of this page with one letter changed. Somewhere is every novel that will ever be written, buried among a near-infinity of near-misses. That library is the heap. A branch is more like one printed edition that has gone out into the world, its copies in many hands, all agreeing with each other. Most books in the library belong to no edition at all.
+
+The physicist behind the Nows picture did build a bridge between the two ideas. In his version the timeless wave function of the universe piles up its weight on the rare configurations that contain consistent records, which he called "time capsules." That is a proposal about where the weight sits, and it is a link between the pictures rather than proof that they are one picture. Nobody has derived it from anything that can be tested, and both of the ideas it links are themselves speculative.
+
+So hold the three claims apart. There is a space of all possible configurations, which is mathematics. There may be many decohered branches, which is one interpretation of a well-tested theory. And there may be a timeless heap that is all reality is made of, which is a bold proposal about quantum gravity. Possible is not the same as real, and a catalog of every arrangement is not a census of worlds.
+
+## 34. Branch Systems: Why the Arrow Agrees with Itself
 
 *Status: Strange but solid.*
 
@@ -130,7 +144,7 @@ A branch system is a piece of the world that runs for a while on its own: a gas 
 
 Records, such as photographs, footprints, fossils, and memories, are physical correlations that form in the entropy-increasing direction, which is why there is evidence of the past and none of the future. Correlated events, wet streets and open umbrellas, are best explained by a shared cause in their common past. The arrow belongs to the universe's starting conditions; no law forbids eggs from unbreaking. Chapter 30 already counted the microstates. This is only the part about why separate rooms agree on the direction.
 
-## 34. Special Relativity: The Geometry of Light
+## 35. Special Relativity: The Geometry of Light
 
 *Status: Strange but solid.*
 
@@ -146,7 +160,7 @@ This machinery resolves the famous twin paradox cleanly. The twin who travels aw
 
 Every person traces out a "worldline" through spacetime over the course of a life. And because of the relativity of simultaneity, two separated observers can legitimately disagree about whether two distant events happened at the same moment, with no universal referee anywhere to settle the argument.
 
-## 35. Gravity Is Geometry
+## 36. Gravity Is Geometry
 
 *Status: Strange but solid.*
 
@@ -160,7 +174,7 @@ Orbits get reinterpreted along the way. A spacecraft in orbit is in continuous f
 
 Tidal effects, the difference between a massive object's pull on the near and far sides of something, are the real signature of spacetime curvature. Uniform gravity disappears in a free-falling reference frame; tidal stretching can't be made to disappear that way. That sets the stage for black holes as the extreme endpoint of all this geometry, where curvature becomes so severe that an event horizon marks a boundary beyond which no future path can ever lead back out.
 
-## 36. Gravitational Waves: When Spacetime Ripples
+## 37. Gravitational Waves: When Spacetime Ripples
 
 *Status: Settled.*
 
@@ -174,7 +188,7 @@ The first direct detection, given the catalog name GW150914, came in 2015 and co
 
 Many of these signals have been traveling for hundreds of millions or even billions of years before a detector on Earth catches them. Every detection is a piece of ancient cosmic history arriving right now.
 
-## 37. Quantum Gravity: Where Our Theories Collide
+## 38. Quantum Gravity: Where Our Theories Collide
 
 *Status: Serious but unconfirmed.*
 
@@ -192,7 +206,7 @@ That last idea, the holographic principle, takes its name from something you can
 
 The idea suggests that space itself, and perhaps even matter and objects within it, might be emergent, arising from some deeper network of relationships that isn't spatial at all.
 
-## 38. The Particle Zoo and the Standard Model
+## 39. The Particle Zoo and the Standard Model
 
 *Status: Settled.*
 
@@ -204,11 +218,11 @@ Neutrinos are electrically neutral and interact only through the weak force and 
 
 The forces have their own carrier particles: the photon for electromagnetism, massless and aloof; eight gluons for the strong force, which, unlike the photon, interact with each other; and the W and Z bosons for the weak force, responsible for particle-type-changing processes like beta decay and the fusion reactions that power the Sun.
 
-The Higgs boson, discovered at CERN in 2012, is the excitation of the Higgs field, whose nonzero background value contributes to elementary particles' masses through the Higgs mechanism. It is not the source of most ordinary matter's mass; as Chapter 162 explains, that is QCD's doing. The popular "molasses" analogy for the Higgs mechanism is, once again, misleading.
+The Higgs boson, discovered at CERN in 2012, is the excitation of the Higgs field, whose nonzero background value contributes to elementary particles' masses through the Higgs mechanism. It is not the source of most ordinary matter's mass; as Chapter 163 explains, that is QCD's doing. The popular "molasses" analogy for the Higgs mechanism is, once again, misleading.
 
 Electromagnetism, the strong force and the weak force are all described mathematically as gauge theories, and electromagnetism and the weak force merge into a single "electroweak" force at high enough energy. Gravity sits entirely outside this framework. The Standard Model also has nothing to say about dark matter, dark energy, or why the universe ended up with so much more matter than antimatter.
 
-## 39. Physics, Self-Reference and the Strange Loop
+## 40. Physics, Self-Reference and the Strange Loop
 
 *Status: Speculative; Gödel's theorems themselves are Settled mathematics.*
 
@@ -224,7 +238,7 @@ Quantum measurement sharpens the puzzle. Any measuring device is itself made of 
 
 Hofstadter's ideas are thought-provoking framing, and they are not an established physical theory. Gödel doesn't explain consciousness, and an AI system producing sentences that contain the words "I think" is not, by itself, evidence of machine consciousness.
 
-## 40. Patterns, Emergence and the Laws of Physics
+## 41. Patterns, Emergence and the Laws of Physics
 
 *Status: Settled; the closing remarks on consciousness are Speculative.*
 
@@ -240,7 +254,7 @@ Two traps are worth watching for. The first is the reductionist trap: knowing th
 
 Life and consciousness sit at the extreme end of this spectrum. Life is ordinary chemistry that has become organized enough to replicate itself and process information about its surroundings. Consciousness might be emergent too, perhaps through some kind of recursive self-representation echoing the strange loops of the previous chapter. That remains a completely open question, however confidently any given dinner-party philosopher presents it as settled.
 
-## 41. Analogy: How the Human Mind Finds Physics
+## 42. Analogy: How the Human Mind Finds Physics
 
 *Status: Settled.*
 
@@ -252,7 +266,7 @@ Every analogy comes with an expiration date, and knowing when to retire one matt
 
 Even a wrong model can earn its keep, provided it fails in an instructive way. The planetary model of the atom taught physicists a great deal about structure before quantum mechanics came along and demolished it, and demolishing a well-built wrong idea is often more useful than never having built it. Recognizing one underlying structure wearing a dozen different costumes is the core move. Mathematics is powerful because it captures that structure regardless of what material happens to be wearing it.
 
-## 42. Wormholes: Black Holes, White Holes and Shortcuts Through Spacetime
+## 43. Wormholes: Black Holes, White Holes and Shortcuts Through Spacetime
 
 *Status: Speculative; the black-hole geometry is Settled.*
 
@@ -270,7 +284,7 @@ If one did exist, traveling through it wouldn't require exceeding the speed of l
 
 Further out still sits the "ER = EPR" conjecture, which proposes a deep kinship between quantum entanglement and wormhole-like spacetime geometry, hinting that spacetime itself might emerge from entanglement. It is a tantalizing idea. It offers no practical route to faster-than-light communication and remains, for now, purely theoretical.
 
-## 43. Nuclear Physics: The Tiny Nucleus With the Enormous Attitude
+## 44. Nuclear Physics: The Tiny Nucleus With the Enormous Attitude
 
 *Status: Settled.*
 
@@ -286,7 +300,7 @@ Radioactive decay adds a nice bit of statistical elegance. Any single nucleus de
 
 Nuclear physics is a bridge more than a destination. Push further into what protons and neutrons are made of and you arrive at the quarks, gluons and quantum chromodynamics that form part of the Standard Model.
 
-## 44. Neutrinos: The Particles That Refuse to Be Seen
+## 45. Neutrinos: The Particles That Refuse to Be Seen
 
 *Status: Settled.*
 
@@ -302,7 +316,7 @@ Neutrino astronomy got a dramatic validation in 1987, when Supernova 1987A sent 
 
 That head start is now put to practical use. Detector networks watch for exactly this kind of burst so they can alert astronomers, who aim telescopes at the right patch of sky before the visible fireworks begin. Because neutrinos pass straight through matter that would stop light cold, they let physicists peer into stellar interiors and violent cosmic events that photons can't escape to tell us about.
 
-## 45. Symmetry: The Universe Has Rules, and It Is Suspiciously Fond of Them
+## 46. Symmetry: The Universe Has Rules, and It Is Suspiciously Fond of Them
 
 *Status: Settled; supersymmetry is Serious but unconfirmed.*
 
@@ -314,7 +328,7 @@ Symmetry under shifts in time gives you conservation of energy. Symmetry under s
 
 A symmetric law and a symmetric state can pull apart in interesting ways: a law can be perfectly symmetric even when a particular situation governed by it breaks the symmetry. A pencil balanced on its point has no preferred direction to fall in, and yet it falls in some particular direction anyway. This is spontaneous symmetry breaking.
 
-The Higgs mechanism is a famous instance, tied to the spontaneous breaking of electroweak symmetry, and it is what gives the W and Z bosons their mass. Most of the mass in ordinary matter, as Chapter 162 explains, comes from the strong interaction and not from the Higgs. More broadly, gauge symmetries supply the mathematical architecture that organizes electromagnetism, the weak force and the strong force within the Standard Model, revealing a hidden kinship among forces that look unrelated on the surface.
+The Higgs mechanism is a famous instance, tied to the spontaneous breaking of electroweak symmetry, and it is what gives the W and Z bosons their mass. Most of the mass in ordinary matter, as Chapter 163 explains, comes from the strong interaction and not from the Higgs. More broadly, gauge symmetries supply the mathematical architecture that organizes electromagnetism, the weak force and the strong force within the Standard Model, revealing a hidden kinship among forces that look unrelated on the surface.
 
 Casual talk about symmetry lumps together two different flavors of "doesn't matter." An ordinary global symmetry is like every clock on Earth agreeing, all at once, to relabel noon as six o'clock: a single uniform relabeling that changes nothing about how anyone's day unfolds. A gauge symmetry is a more demanding freedom. It insists that such a relabeling can be chosen independently at every point in space, city by city, with no coordination in advance, and the physics must still come out perfectly consistent everywhere.
 
@@ -322,7 +336,7 @@ That freedom isn't free. It requires a new field whose sole job is reconciling t
 
 Physicists continue to use symmetry as a compass when searching for physics beyond the Standard Model, supersymmetry being the best-known example, though so far no confirming evidence has turned up. A lot of apparent complexity in nature may simply come from looking at it from the wrong angle. Find the right symmetry, the right transformation, and a far simpler pattern may be hiding underneath.
 
-## 46. String Theory and M-Theory: What If Particles Are Tiny Strings?
+## 47. String Theory and M-Theory: What If Particles Are Tiny Strings?
 
 *Status: Serious but unconfirmed.*
 
@@ -340,7 +354,7 @@ The theory has some concrete successes. It has provided a microscopic accounting
 
 Here is where things stand. Quantum mechanics and general relativity are each, individually, extraordinarily well tested. String theory is mathematically serious and internally rich, but it has yet to produce a single unique, confirmed experimental prediction, and the idea that spacetime literally emerges from quantum information remains speculative. Even the much-discussed "landscape" of enormous numbers of possible string vacua cuts both ways: its flexibility is a potential strength, and a predictive weakness, since a theory that can accommodate almost anything struggles to rule much out.
 
-## 47. Least Action: Why Nature Takes the Lazy Route
+## 48. Least Action: Why Nature Takes the Lazy Route
 
 *Status: Settled.*
 
@@ -358,7 +372,7 @@ Feynman's version is a different, deeper picture than the lifeguard's. Imagine a
 
 So ask nature "What force is acting right now?", then "What path is stationary?", then "What if we just consider every path at once?" Nature, patient but clearly unimpressed, replies: why are you making this so complicated?
 
-## 48. Light: The Fastest Thing in the Universe Has a Lot to Explain
+## 49. Light: The Fastest Thing in the Universe Has a Lot to Explain
 
 *Status: Strange but solid.*
 
@@ -370,7 +384,7 @@ Light's other famous oddity, wave-particle duality, is that it arrives in discre
 
 Even the color of everyday objects, why a tomato looks red and why the sky looks blue, is quantum physics in action: energy levels, electromagnetic interactions, scattering and interference all conspiring to produce what we casually call color. Light is more than the thing that lets us see the universe. It is one of the primary channels through which the universe reveals its underlying structure, relativity, quantum fields and atoms included.
 
-## 49. Chaos: When Simple Laws Produce Completely Unpredictable Worlds
+## 50. Chaos: When Simple Laws Produce Completely Unpredictable Worlds
 
 *Status: Strange but solid.*
 
@@ -388,7 +402,7 @@ Chaos is fundamentally different from randomness. A chaotic system is wholly det
 
 Chaos shows up in celestial mechanics, weather, driven and double pendulums, fluid flow and biology. The common thread is that complex, unpredictable-seeming behavior doesn't require complicated underlying laws. Simple nonlinear equations, applied relentlessly, are more than enough.
 
-## 50. The Vacuum: Empty Space Is Not Empty
+## 51. The Vacuum: Empty Space Is Not Empty
 
 *Status: Strange but solid; the cosmological constant problem is unsolved, and emergent spacetime is Speculative.*
 
@@ -404,7 +418,7 @@ Then there is the cosmological constant problem, arguably physics's most embarra
 
 It has been called the worst quantitative prediction in the history of physics, and nobody has a confirmed explanation for why the cancellation is so nearly, but not quite, total. Whether the vacuum's jittery zero-point energy and the cosmological constant mismatch are two faces of one mystery or unrelated puzzles is still open. There is also the more unsettling possibility that spacetime itself is not fundamental but emerges from something deeper, in which case "What fills empty space?" may be the wrong question to ask.
 
-## 51. Optics: The Universe Can Fool Your Eyes
+## 52. Optics: The Universe Can Fool Your Eyes
 
 *Status: Settled.*
 
@@ -420,7 +434,7 @@ Stimulated emission works like a contagious yawn in a room full of people alread
 
 What you see is not simply what's there. Light carries information, matter modifies it along the way, optics reshapes it further, and the brain does its own interpreting on top of all that. Physics is what tells you when your senses are, and aren't, telling you the truth.
 
-## 52. What If Everything Is Made of Tangles? The Strand Model
+## 53. What If Everything Is Made of Tangles? The Strand Model
 
 *Status: Speculative.*
 
@@ -428,13 +442,13 @@ The "strand model" is a deeply speculative, self-published research program that
 
 The strand model is far from mainstream or confirmed physics. String theory also lacks confirmed experimental predictions, but it has been taken up broadly across the physics community, which gives it a very different status even though neither has been verified.
 
-To keep the speculation clearly labeled, run a Physics Status Check, using the four tiers that Chapter 54 defines. Green, established: the physics the model is trying to reproduce, meaning the Standard Model, general relativity and the double-rotation behavior of spin-one-half particles, plus topology itself as mathematics. Yellow, serious but unconfirmed: the general expectation that gravity and the quantum world must meet in some unified structure near the Planck scale, the same territory string theory works in. Orange, speculative: the model's own core claims, that particles are tangles of Planck-scale strands, that particle identity is tangle topology, and that the vacuum is untangled strands. Red, not science as presented: any version of the model offered as confirmed or finished, because until it makes a prediction that differs from existing theory and can be checked, there is nothing for an experiment to test. The same check works just as well on other fringe-but-interesting ideas.
+To keep the speculation clearly labeled, run a Physics Status Check, using the four tiers that Chapter 55 defines. Green, established: the physics the model is trying to reproduce, meaning the Standard Model, general relativity and the double-rotation behavior of spin-one-half particles, plus topology itself as mathematics. Yellow, serious but unconfirmed: the general expectation that gravity and the quantum world must meet in some unified structure near the Planck scale, the same territory string theory works in. Orange, speculative: the model's own core claims, that particles are tangles of Planck-scale strands, that particle identity is tangle topology, and that the vacuum is untangled strands. Red, not science as presented: any version of the model offered as confirmed or finished, because until it makes a prediction that differs from existing theory and can be checked, there is nothing for an experiment to test. The same check works just as well on other fringe-but-interesting ideas.
 
 The model's boldest bet concerns the forces. Electromagnetism, the weak force and the strong force each rest on a gauge symmetry, a freedom to relabel something independently at every point in space without changing any prediction, and those symmetries are among the best-tested structures in physics. The strand model proposes that they arise from how strands cross, twist and wind at the Planck scale, which would make gauge fields a large-scale consequence of strand geometry instead of a starting assumption. Reproducing the Standard Model's structure after the fact is the easy part. Explaining why nature chose that structure is much harder, and replacing it with something better is harder still. Beauty gets an idea invited to the party. Experiment decides whether it gets to stay.
 
 What motivates the whole exercise is the prize behind every serious attempt at quantum gravity: one underlying structure that unifies the Standard Model of particle physics with general relativity.
 
-## 53. Can Knots Become Particles? Spin, Fermions, Topology and the Belt Trick
+## 54. Can Knots Become Particles? Spin, Fermions, Topology and the Belt Trick
 
 *Status: Strange but solid; the strand-model interpretation is Speculative.*
 
@@ -446,7 +460,7 @@ Topology is the branch of mathematics concerned with properties that survive con
 
 A firm line separates the established from the rest. Quantum spin, the odd rotational behavior of fermions, topology as a field of mathematics, topological phases of matter, and topology's role in quantum information are all settled science. The idea that elementary particles are literally topological tangles is not. Even if that speculative piece is wrong, the topological mathematics and physics it borrows from remain real and valuable.
 
-## 54. How Do You Know When a Crazy Idea Is Science? The Rules of the Game
+## 55. How Do You Know When a Crazy Idea Is Science? The Rules of the Game
 
 *Status: Settled.*
 
@@ -466,7 +480,7 @@ Wrong ideas still earn their keep. The luminiferous ether, the medium light was 
 
 So interrogate scientific claims for yourself. Learn to distinguish "discovered" from "proposed," and always ask what a given theory actually explains and predicts. That habit is the central practical takeaway, and about as close as physics comes to handing out a superpower.
 
-## 55. Semiconductors: How We Taught Matter to Think
+## 56. Semiconductors: How We Taught Matter to Think
 
 *Status: Settled.*
 
@@ -488,7 +502,7 @@ Semiconductors also convert between light and electricity in both directions. LE
 
 Finally, back to quantum computing. Today's quantum computers are built on, and remain heavily dependent on, classical semiconductor technology for their control electronics, lasers, detectors and fabrication processes alike. The quantum future is still standing on the semiconductor revolution's shoulders.
 
-## 56. The Frontier Keeps Moving
+## 57. The Frontier Keeps Moving
 
 *Status: Settled about what is known; Speculative about what comes next.*
 
@@ -498,7 +512,7 @@ The strange and speculative material is no weakness to apologize for. Entropy is
 
 The boundary between "settled" and "speculative" was never fixed. Today's textbook fact was once somebody's speculation, and some of today's speculation will eventually be confirmed while the rest gets abandoned, with no way to know in advance which fate awaits which idea. That constant renegotiation of certainty is no flaw in how science works. It is the process itself. The universe hasn't finished revealing itself, and physics, happily, hasn't finished asking.
 
-## 57. Core Ideas and Open Questions in Physics
+## 58. Core Ideas and Open Questions in Physics
 
 *Status: Settled for the core ideas; the open questions are open.*
 
@@ -521,7 +535,7 @@ Ten open-ended prompts for discussion, some quantitative intuition-checks and so
 - Rewrite a few science headlines, swapping "discover" for "propose." Which ones still read correctly?
 - Ant colonies show a kind of emergent group intelligence. What other examples can you find?
 - Sunlight takes about eight minutes to reach Earth. If the Sun vanished, when would you notice the darkness, and when would Earth's orbit notice the missing gravity?
-- Try the belt trick from Chapter 53. Why can two full turns be undone without rotating either end, while one cannot?
+- Try the belt trick from Chapter 54. Why can two full turns be undone without rotating either end, while one cannot?
 - Pick a familiar analogy, such as water pressure for voltage or the rubber sheet for gravity. Where exactly does it stop matching the physics?
 - Trillions of neutrinos from the Sun pass through your body every second. Why don't you feel any of them, and what would it take to catch even one?
 
@@ -535,7 +549,7 @@ Five Things Worth Remembering:
 
 Most of these facts will probably still be true in twenty years. A few of them won't be, and nobody can say right now which is which. The only sensible response is to stay curious, stay skeptical, and keep track of the difference.
 
-## 58. Three Temperatures: Hot, Warm and Cold Claims
+## 59. Three Temperatures: Hot, Warm and Cold Claims
 
 *Status: Settled. This chapter sets out the method, not a result.*
 
@@ -553,7 +567,7 @@ To keep things human-scaled, invented people wander through a few scenes: Mara, 
 
 The thesis everything else circles back to, stated before a single equation: if meaning isn't guaranteed to arrive at the end of time, it has to be made locally, and now.
 
-## 59. The Clock That Does Not Agree
+## 60. The Clock That Does Not Agree
 
 *Status: Strange but solid.*
 
@@ -567,7 +581,7 @@ The same single refusal, that there is no shared cosmic now, will come back agai
 
 The moral recurs just as often: meaning is local, it's expensive to produce, and it's entirely optional. No cosmic ending is going to arrive and "compute you back" into existence. Whatever comfort you get, you'll have to build yourself, on the clock you actually have.
 
-## 60. The Argument in the Kitchen
+## 61. The Argument in the Kitchen
 
 *Status: Strange but solid.*
 
@@ -579,13 +593,13 @@ Because the speed of light refuses to budge no matter who's measuring it, observ
 
 Consider judging whether two firecrackers went off "at the same time" by listening for their bangs. Standing exactly between them, equal delay both ways tells you they were simultaneous. Walk toward one before you listen, and its bang reaches you sooner. The firecrackers did nothing different; you changed your position relative to the sound. With sound, though, everyone can still agree on a "true" simultaneity by correcting for travel time, because sound has a definite speed relative to the air, and the air gives everyone a frame to check against. Light has no such backstop. There's no "still air" for light; its speed comes out the same for every observer, so no correction applied afterward can recover one true "same time." Better firecrackers would not help. The disagreement is the geometry of spacetime.
 
-At kitchen scale the disagreement is a rounding error. Stretch the distances to cosmic scale, as Chapter 63 does with the Andromeda galaxy, and the same tiny effect balloons into a difference of days.
+At kitchen scale the disagreement is a rounding error. Stretch the distances to cosmic scale, as Chapter 64 does with the Andromeda galaxy, and the same tiny effect balloons into a difference of days.
 
 What survives the demolition is cause and effect: everyone agrees on which events caused which others. Only the distant present tense is lost, the idea of a "now" out there that everyone shares.
 
 The strangeness runs deep enough to be written into the definition of measurement. Since 1983 the meter has been defined by fixing the speed of light at exactly 299,792,458 meters per second. Light speed is no longer something we measure; it is the ruler against which everything else is cut.
 
-## 61. An Event Is a Happening, Not a Thing
+## 62. An Event Is a Happening, Not a Thing
 
 *Status: Strange but solid.*
 
@@ -603,7 +617,7 @@ On an ordinary flat map, the straight-line distance between two towns doesn't ca
 
 The map breaks down at exactly one point. On a map you add the two squares; in spacetime the time part is subtracted, so some pairs of events have an interval of zero, or even land on the far side of zero, which no distance on a map ever could. That minus sign is the whole reason light behaves differently from everything else, and the reason cause and effect survive after a shared "now" doesn't.
 
-## 62. Light Is Late on Purpose
+## 63. Light Is Late on Purpose
 
 *Status: Settled.*
 
@@ -617,11 +631,11 @@ That's why a real-time "conversation" between Mars and Earth is a fiction before
 
 Even the ancient puzzle of why the night sky is dark despite an ocean of stars, Olbers' paradox, is partly resolved by lateness. The universe has existed for only a finite time, so light from the most distant possible sources hasn't had time to arrive. The dark sky is a deadline that hasn't passed.
 
-## 63. Andromeda's Navy
+## 64. Andromeda's Navy
 
 *Status: Strange but solid; the block-universe conclusion is Serious but unconfirmed.*
 
-Roger Penrose's now-famous "Andromeda paradox" shows how dramatically the small effects from Chapter 60 scale up. Someone strolls toward Andromeda at an ordinary walking pace, about 1.4 meters per second. That gentle stroll tilts their slice of "now," and because Andromeda sits 2.54 million light-years away, the tilt becomes a disagreement of several days with someone standing still beside them about what counts as "now" in the Andromeda galaxy.
+Roger Penrose's now-famous "Andromeda paradox" shows how dramatically the small effects from Chapter 61 scale up. Someone strolls toward Andromeda at an ordinary walking pace, about 1.4 meters per second. That gentle stroll tilts their slice of "now," and because Andromeda sits 2.54 million light-years away, the tilt becomes a disagreement of several days with someone standing still beside them about what counts as "now" in the Andromeda galaxy.
 
 At the fence, both people are doing nothing more dramatic than standing near each other. Out at Andromeda, the difference in their "nows" could be the gap between a fleet still sitting in committee and a fleet already launched.
 
@@ -633,7 +647,7 @@ Philosophers in the mid-1960s turned this into what is sometimes called the "rea
 
 The block wins because, among the options on offer, it does the least violence to a theory that has passed every test thrown at it. Nobody has photographed it. That makes it warm: the best available reading, still short of proof.
 
-## 64. You Are a Path
+## 65. You Are a Path
 
 *Status: Strange but solid.*
 
@@ -649,7 +663,7 @@ Gravity gets in on the act too: clocks deeper in a gravitational well tick more 
 
 Some perennial pub questions turn out to be category errors. "What is the universe expanding into?" and "could I go back in time?" both smuggle in the assumption that the universe is a thing sitting in some larger space. It is a collection of worldlines, and worldlines don't expand into anywhere. They just have length.
 
-## 65. The Block
+## 66. The Block
 
 *Status: Serious but unconfirmed; the eclipse result is Settled and decoherence is Strange but solid.*
 
@@ -657,7 +671,7 @@ The central picture now has its formal name: the block universe. Past, present, 
 
 The first great public confirmation that gravity bends spacetime came from the 1919 solar eclipse expedition. Starlight passing near the Sun was measured bending by just the amount Einstein's theory predicted, and relativity went from merely elegant to evidence-backed.
 
-The block has two main rivals: presentism (only the present is real) and the "growing block" (the past and present are real, the future isn't yet). Both need a single, universal, preferred "now," the very thing Chapter 63's Andromeda argument showed relativity doesn't supply. Without that preferred slice, neither rival has anywhere left to stand.
+The block has two main rivals: presentism (only the present is real) and the "growing block" (the past and present are real, the future isn't yet). Both need a single, universal, preferred "now," the very thing Chapter 64's Andromeda argument showed relativity doesn't supply. Without that preferred slice, neither rival has anywhere left to stand.
 
 The block alone doesn't explain why time feels like it flows in one direction. For that you need the "Past Hypothesis": the early universe started out in an extraordinarily ordered, low-entropy state. That is a boundary condition with no law behind it, and everything since has been sliding down the resulting entropy slope.
 
@@ -677,7 +691,7 @@ Finally, an "observer" gets a working definition: a "strange loop," a system com
 
 In plain English, a strange loop is a system complicated enough to build an internal model of itself and then treat that model as the very thing being modeled: the sensation of being "you," watching "yourself," from the inside. In everyday speech an observer is just someone standing around watching. Quantum mechanics needs a much weaker notion to do its actual work. Any physical process that leaves a permanent, irreversible trace (a photon striking a detector, a grain of film changing, a Geiger counter clicking) counts as an "observation" in the sense relevant to decoherence, with no strange loop, no self-model, and no consciousness anywhere in the chain. A rock wall struck by cosmic rays "observes" them, in this weak sense, as thoroughly as a physicist reading a dial.
 
-## 66. The Explosion That Happened Everywhere
+## 67. The Explosion That Happened Everywhere
 
 *Status: Settled; the closing section is Speculative.*
 
@@ -699,7 +713,7 @@ Matter and antimatter behave like a matched pair of gloves that, instead of shak
 
 As for what happened before all this, proposals like a "no-boundary" state, with Stephen Hawking among its authors, or quantum tunneling from nothing are clearly speculative. The observational fossils we can actually dig up reach back only to the hot fog of the early universe.
 
-## 67. Space Itself Is Stretching
+## 68. Space Itself Is Stretching
 
 *Status: Settled.*
 
@@ -715,7 +729,7 @@ Not everything stretches. Bound systems, from atoms and people to galaxies and t
 
 The evidence keeps sharpening. JWST has confirmed galaxies at redshifts above 10, meaning we see galaxies that existed only a few hundred million years after the Big Bang. They plainly exist. The real debate is about how surprisingly "mature" some of them look for their age.
 
-## 68. A Baby Picture in Microwaves
+## 69. A Baby Picture in Microwaves
 
 *Status: Settled.*
 
@@ -733,9 +747,9 @@ The photograph got progressively sharper. COBE, in 1992, detected temperature va
 
 There's a built-in complication. The Sun's own motion relative to the glow, roughly 370 kilometers per second toward the constellation Leo, imprints a directional "dipole" on the map, which has to be subtracted before the underlying cosmic signal can be read cleanly.
 
-What remains is startlingly even. Regions of sky that, by any reasonable causal accounting, could never have been in contact with each other show matching temperatures. This is the "horizon problem," and it stays open until Chapter 71.
+What remains is startlingly even. Regions of sky that, by any reasonable causal accounting, could never have been in contact with each other show matching temperatures. This is the "horizon problem," and it stays open until Chapter 72.
 
-## 69. The First Three Minutes
+## 70. The First Three Minutes
 
 *Status: Settled.*
 
@@ -755,7 +769,7 @@ Not everything fits. The lithium-7 problem remains stubbornly unresolved: old st
 
 One point is not negotiable. Stars, however numerous, could never on their own have produced the amount of helium we observe scattered through the cosmos. That helium is primordial, baked in during those first three minutes.
 
-## 70. Almost Nothing, Almost Everywhere
+## 71. Almost Nothing, Almost Everywhere
 
 *Status: Settled.*
 
@@ -771,9 +785,9 @@ Most of this mass census rests on gravitational pull instead of anything shining
 
 Despite holding something on the order of ten sextillion stars, the observable universe remains overwhelmingly, almost embarrassingly empty. Radiation and neutrinos, which dominated the hot early universe, are now bit players left over from an earlier act.
 
-Against that backdrop, life, planets, and civilizations are exceptions: local, hard-won victories of gravity clawing structure out of overwhelming emptiness. The baryon inventory behind all this is cross-checked two independent ways, through the pattern of CMB peaks and through the primordial deuterium abundance from Chapter 69, and both agree.
+Against that backdrop, life, planets, and civilizations are exceptions: local, hard-won victories of gravity clawing structure out of overwhelming emptiness. The baryon inventory behind all this is cross-checked two independent ways, through the pattern of CMB peaks and through the primordial deuterium abundance from Chapter 70, and both agree.
 
-## 71. Three Puzzles the Hot Bang Cannot Solve
+## 72. Three Puzzles the Hot Bang Cannot Solve
 
 *Status: Settled.*
 
@@ -785,9 +799,9 @@ For the horizon problem, go back to the kitchen. Two thermometers on opposite wa
 
 These three puzzles motivated Alan Guth's 1980 proposal of cosmic inflation. He conceived it mainly to dilute away the unwanted monopoles, and it explained flatness and horizon evenness almost as a bonus.
 
-None of this undermines the hot Big Bang itself, which remains solidly confirmed by the cosmic microwave background and the light-element abundances from Chapter 69. The gaps lie in the story of the initial conditions. The model of what happened afterward holds.
+None of this undermines the hot Big Bang itself, which remains solidly confirmed by the cosmic microwave background and the light-element abundances from Chapter 70. The gaps lie in the story of the initial conditions. The model of what happened afterward holds.
 
-## 72. Inflation, Without the Hype
+## 73. Inflation, Without the Hype
 
 *Status: Serious but unconfirmed.*
 
@@ -801,13 +815,13 @@ Physicists picture the inflaton as a ball perched on a very gently sloped hill, 
 
 There were two versions. Guth's original 1980 "old inflation" ran into a fatal snag, the "graceful exit" problem: once started, inflation couldn't cleanly stop. The fix arrived in 1982 as "new inflation," built on a slow-roll mechanism developed independently by two different groups of theorists.
 
-The payoff is that inflation solves all three of Chapter 71's puzzles at once. Causal contact before the stretching explains horizon evenness, the stretching itself flattens away any initial curvature, and the dilution spreads relic monopoles so thin they become effectively undetectable.
+The payoff is that inflation solves all three of Chapter 72's puzzles at once. Causal contact before the stretching explains horizon evenness, the stretching itself flattens away any initial curvature, and the dilution spreads relic monopoles so thin they become effectively undetectable.
 
 The history has its cautionary tale. In 2014, the BICEP2 experiment announced what looked like a detection of primordial gravitational waves, which would have been direct evidence of inflation itself. Follow-up analysis combined with Planck data showed the signal was Galactic dust. It has become a textbook case of a claim correctly cooling once better data arrived, exactly the self-correction the temperature stamps are meant to reward.
 
 Planck has measured a slight tilt in the primordial fluctuation spectrum, matching what slow-roll inflation predicts, but the inflaton field itself has never been directly detected. Inflation remains a well-supported job description for what must have happened. No detector anywhere holds the particle.
 
-## 73. How a Quantum Twitch Became a Galaxy
+## 74. How a Quantum Twitch Became a Galaxy
 
 *Status: Serious but unconfirmed; the measured fluctuations are Settled.*
 
@@ -825,7 +839,7 @@ The first stars probably formed somewhere between 100 and 200 million years afte
 
 Gravity took roughly 13.8 billion years of patient sculpting to turn measured fluctuation into actual galaxy. Our confidence in that story rests on matching statistical patterns across enormous datasets. Nobody filmed it.
 
-## 74. Bubbles That May Never Stop
+## 75. Bubbles That May Never Stop
 
 *Status: Speculative.*
 
@@ -835,7 +849,7 @@ Imagine a pot of water coming to a boil. Most regions eventually form ordinary b
 
 This remains a live hypothesis. On this picture, our observable universe would sit inside one stopped bubble, permanently sealed off from ever reaching its neighbors.
 
-The idea connects naturally to a "landscape" of possible vacuum states, often imported wholesale from the still-untestable framework of string theory. Such a landscape would supply exactly the variety an anthropic "filter," discussed in Chapter 100, needs in order to do any explanatory work.
+The idea connects naturally to a "landscape" of possible vacuum states, often imported wholesale from the still-untestable framework of string theory. Such a landscape would supply exactly the variety an anthropic "filter," discussed in Chapter 101, needs in order to do any explanatory work.
 
 Steven Weinberg's 1987 bound on the cosmological constant, derived from requiring that galaxies be able to form at all, belongs here too. It is genuinely predictive only if there really is an ensemble of universes across which the constant's value varies, instead of one universe with one fixed number.
 
@@ -845,7 +859,7 @@ The question sounds simple until you try to answer it: out of infinitely many bu
 
 One firmer result survives the uncertainty: a theorem, with Alan Guth among its authors, showing that even eternal inflation, run backward, must still have had some kind of beginning.
 
-## 75. Chaos Is an Engine
+## 76. Chaos Is an Engine
 
 *Status: Settled; the collapsing-universe sections are Serious but unconfirmed.*
 
@@ -855,15 +869,15 @@ Weather is the standard example. Two nearly identical states of the atmosphere, 
 
 Weather's chaos plays out over about a week and involves only the atmosphere. The chaos expected near a collapsing universe would play out in the dying moments of everything, with spacetime's own directions lurching unpredictably, a far more total unpredictability than any forecaster ever faces.
 
-At cosmic dawn, chaos does constructive work. The tiny quantum twitch from Chapter 73, run for billions of years through gravity's chaotic sensitivity, produces the intricate cosmic web of filaments and voids that surveys like 2dF and the Sloan Digital Sky Survey have mapped in detail.
+At cosmic dawn, chaos does constructive work. The tiny quantum twitch from Chapter 74, run for billions of years through gravity's chaotic sensitivity, produces the intricate cosmic web of filaments and voids that surveys like 2dF and the Sloan Digital Sky Survey have mapped in detail.
 
 At a hypothetical cosmic end, chaos turns destructive. Near a collapsing "crunch," general relativity predicts BKL, or "Mixmaster," chaotic oscillation: space's different directions lurching unpredictably as collapse proceeds. That wrecks any hope of a neatly "steered" final state as the universe contracts.
 
 Keep two flavors of unpredictability separate. Weather has a short Lyapunov time, which makes forecasts unreliable beyond about a week. Cosmic expansion itself follows a smooth, entirely forecastable trajectory and is not chaotic in this sense, even though the local structure formation happening within it very much is.
 
-Chapter 78 builds on this. Even if the universe does eventually recollapse, this chaos would make it physically impossible for any civilization to "steer" a coordinated final act, let alone a final computation, on the way down.
+Chapter 79 builds on this. Even if the universe does eventually recollapse, this chaos would make it physically impossible for any civilization to "steer" a coordinated final act, let alone a final computation, on the way down.
 
-## 76. The Extra Pull
+## 77. The Extra Pull
 
 *Status: Settled; the candidate particles are Serious but unconfirmed.*
 
@@ -871,9 +885,9 @@ Dark matter is an inference: extra gravitational "weight" detected through its e
 
 The solar system shows the opposite behavior. Planets farther from the Sun orbit more slowly than planets close in, because they feel less of its gravity, exactly as you'd expect when almost all the mass sits in the middle. Stars in a galaxy's outer reaches orbit about as fast as stars much closer in. Those "flat" rotation curves are what you'd see if the visible stars were only a small fraction of the galaxy's mass, with far more invisible material spread well beyond the visible disk, supplying gravity that refuses to taper off. The solar system is the control case. Galaxies fail to behave like scaled-up solar systems in exactly the way you'd expect if most of their mass were something we can't see.
 
-Dark matter and dark energy (the subject of Chapter 77) must be kept firmly apart. Dark matter clumps, forms halos, and pulls things gravitationally; dark energy pushes space apart and refuses to clump at all. They share a marketing department and nothing else.
+Dark matter and dark energy (the subject of Chapter 78) must be kept firmly apart. Dark matter clumps, forms halos, and pulls things gravitationally; dark energy pushes space apart and refuses to clump at all. They share a marketing department and nothing else.
 
-The alternatives fall one by one. Ordinary matter is excluded by the CMB and Big Bang nucleosynthesis inventories from Chapter 69. Hidden compact objects like rogue planets or black holes are excluded by microlensing surveys that would have spotted them. Simple modifications to gravity fare little better.
+The alternatives fall one by one. Ordinary matter is excluded by the CMB and Big Bang nucleosynthesis inventories from Chapter 70. Hidden compact objects like rogue planets or black holes are excluded by microlensing surveys that would have spotted them. Simple modifications to gravity fare little better.
 
 MOND, the best known of these, proposes that gravity's standard law quietly breaks down at the extremely low accelerations found far out in a galaxy's disk, tapering off more gently than Newton's or Einstein's equations predict. The tweak is tuned so that flat rotation curves fall out without any unseen mass at all. It does an impressive job on individual galaxies, which is why it has stayed in the conversation so long. It struggles badly with galaxy clusters, especially the Bullet Cluster below, where a law that only modifies gravity's strength has no good way to explain mass and visible gas coming apart so cleanly.
 
@@ -883,7 +897,7 @@ Gravitational lensing works the way a heavy glass paperweight bends light passin
 
 The most vivid evidence comes from the 2006 observation of the Bullet Cluster (formally 1E 0657-56): two galaxy clusters caught mid-collision, where the hot gas, visible in X-rays, lags behind the bulk of the gravitational mass mapped independently through lensing. It's about as close to a direct visual proof as astronomy gets that dark matter is a separate substance from ordinary matter, largely uninterested in interacting with anything, including itself.
 
-## 77. The Shove
+## 78. The Shove
 
 *Status: Settled; the nature of dark energy is Serious but unconfirmed.*
 
@@ -899,9 +913,9 @@ Independent confirmation comes from baryon acoustic oscillations, a frozen patte
 
 These oscillations are the fossilized ripples of literal sound waves that sloshed through the hot, dense early universe before recombination: pressure waves, physically the same phenomenon as ordinary sound, moving through hot plasma instead of air. When the fog lifted at recombination, the waves froze in place like a photograph of a pond taken mid-ripple, baking a preferred distance into how galaxies are distributed even today. Astronomers know roughly how big that distance should be, so measuring how big it appears at different cosmic distances tells you how much space has stretched in between. It is an independent cross-check on the same expansion story that redshift and supernovae tell.
 
-Current data favor dark energy being a true constant over a dynamically evolving "quintessence" field. Keep this separate from the Hubble tension discussed in Chapter 67. That is a dispute about the expansion rate's exact numerical value, and it casts no doubt on whether acceleration is real.
+Current data favor dark energy being a true constant over a dynamically evolving "quintessence" field. Keep this separate from the Hubble tension discussed in Chapter 68. That is a dispute about the expansion rate's exact numerical value, and it casts no doubt on whether acceleration is real.
 
-## 78. Why Forever-Mind Does Not Follow
+## 79. Why Forever-Mind Does Not Follow
 
 *Status: Speculative; the accelerating expansion that refutes it is Settled.*
 
@@ -909,15 +923,15 @@ The target is the "Omega Point," laid out in the 1986 book *The Anthropic Cosmol
 
 The name is older than the physics. Pierre Teilhard de Chardin, a Jesuit priest and paleontologist, used "Omega Point" for a final convergence of mind toward which he believed evolution was heading. Frank Tipler later gave the idea its physics costume, arguing in *The Physics of Immortality* (1994) that computation near a final crunch could grow powerful enough to emulate, in effect to resurrect, every mind that had ever lived.
 
-The core rebuttal is short. The whole scenario needs the universe to recollapse eventually, and the 1998 discovery of accelerating expansion, from Chapter 77, points exactly the other way. The cosmic estate the Omega Point hopes to inherit is not funded by the data we have.
+The core rebuttal is short. The whole scenario needs the universe to recollapse eventually, and the 1998 discovery of accelerating expansion, from Chapter 78, points exactly the other way. The cosmic estate the Omega Point hopes to inherit is not funded by the data we have.
 
-A second, independent objection comes from Chapter 75's discussion of chaos. Set the acceleration aside and imagine a hypothetical crunch anyway. Near a final singularity, the chaotic BKL/Mixmaster dynamics would make steering any coherent computation physically impossible, let alone an infinite one.
+A second, independent objection comes from Chapter 76's discussion of chaos. Set the acceleration aside and imagine a hypothetical crunch anyway. Near a final singularity, the chaotic BKL/Mixmaster dynamics would make steering any coherent computation physically impossible, let alone an infinite one.
 
 The related "Final Anthropic Principle" claims that intelligence, once it arises, must never die out. It is untestable theology dressed in the language of physics, a judgment backed by longstanding skepticism of the whole project among science writers.
 
 This is the clearest form of a recurring refrain: meaning cannot be a scheduled cosmic destiny, guaranteed to arrive in the end. If it exists at all, it is a local, optional, effortful project, undertaken with no promise that the universe will ever validate it.
 
-## 79. A Horizon Is a Fact About Events
+## 80. A Horizon Is a Fact About Events
 
 *Status: Settled.*
 
@@ -933,11 +947,11 @@ Direct dynamical confirmation came from LIGO in 2015. The GW150914 signal caught
 
 A falling probe's radio beacon shows the horizon's one-way character. A ship watching from a distance never receives a final "last tick" marking the moment of crossing. The signal simply redshifts and fades, stretching out toward silence instead of cutting off cleanly.
 
-## 80. An Hour Beside the Edge
+## 81. An Hour Beside the Edge
 
 *Status: Strange but solid.*
 
-Gravitational time dilation has already shown up in the laboratory and round-the-world clock experiments of Chapter 64, and GPS satellites correct for it daily. Near a black hole's horizon it reaches its most extreme setting.
+Gravitational time dilation has already shown up in the laboratory and round-the-world clock experiments of Chapter 65, and GPS satellites correct for it daily. Near a black hole's horizon it reaches its most extreme setting.
 
 The popular "one hour here equals seven years back home" needs a very specific setup: a supermassive black hole spinning at nearly its maximum rate. The spin permits stable orbits much closer to the horizon than a non-spinning hole allows, and the size keeps the visiting spacecraft from being torn apart by tidal forces first.
 
@@ -951,9 +965,9 @@ Tidal stretching, nicknamed "spaghettification," works like ordinary ocean tides
 
 Here is the counterintuitive part. Tidal forces at the horizon scale inversely with the square of the black hole's mass. A stellar-mass black hole would kill an astronaut by tidal stretching long before the horizon. A supermassive one is comparatively gentle there, its horizon so vast that the tides stay survivable. It is gentler precisely because it is bigger.
 
-An invented station-keeper hovering near such a horizon makes this concrete. Her local "Tuesday" corresponds to a "Thursday" that has already come and gone on a distant ship. It is a one-way version of the twin effect from Chapter 64, and it allows no reversible time travel of any kind.
+An invented station-keeper hovering near such a horizon makes this concrete. Her local "Tuesday" corresponds to a "Thursday" that has already come and gone on a distant ship. It is a one-way version of the twin effect from Chapter 65, and it allows no reversible time travel of any kind.
 
-## 81. The Hole That Runs Backward
+## 82. The Hole That Runs Backward
 
 *Status: Settled as mathematics; real white holes and conformal cyclic cosmology are Speculative.*
 
@@ -967,9 +981,9 @@ One popular mistake needs shooting down: the Big Bang was not a white hole. A wh
 
 Roger Penrose's "conformal cyclic cosmology" is an intriguing speculation: one universe's remote future smoothly becomes the next universe's beginning. It remains observationally disputed and is no confirmed cyclic mechanism.
 
-The broader theme is time-asymmetry. A cracked egg never spontaneously unscrambles itself, yet the underlying physical laws do not favor either direction of time. The felt arrow of time comes from the low-entropy past of Chapter 65. Horizons, fittingly, form easily and never "unform" on their own.
+The broader theme is time-asymmetry. A cracked egg never spontaneously unscrambles itself, yet the underlying physical laws do not favor either direction of time. The felt arrow of time comes from the low-entropy past of Chapter 66. Horizons, fittingly, form easily and never "unform" on their own.
 
-## 82. The Skin and the Leak
+## 83. The Skin and the Leak
 
 *Status: Serious but unconfirmed; the area law and Hawking radiation are textbook theory, still unobserved.*
 
@@ -991,7 +1005,7 @@ AdS/CFT, a correspondence discovered in 1997, is a precise but context-limited t
 
 The black hole information paradox, argued over through complementarity, firewalls, and more recent "islands" proposals, is unfinished physics. None of it is a mechanism for consciousness to be "resurrected" from beyond a horizon.
 
-## 83. Not a Door
+## 84. Not a Door
 
 *Status: Settled; the closing quantum-gravity proposals are Speculative.*
 
@@ -999,15 +1013,15 @@ A black hole's horizon is a one-way surface. Nothing that falls in ever comes ba
 
 Anything falling in reaches the central singularity in a finite, often surprisingly short span of its own proper time, anywhere from microseconds to about a day depending on the black hole's size. Then it simply ends. Physicists call this "geodesic incompleteness." The singularity is no place you visit and later leave. It is where your worldline runs out.
 
-The term sounds forbidding, but the everyday version is a hallway that stops existing. A wall is something you bump into and could, in principle, walk around or dig through. A hallway that ceases to be gives you nowhere to go and nothing to bump into. Your worldline, the thread of your existence through spacetime from Chapter 64, stops at a finite point the way a road on a map stops at the map's edge. There is no obstacle there. There is just no more map.
+The term sounds forbidding, but the everyday version is a hallway that stops existing. A wall is something you bump into and could, in principle, walk around or dig through. A hallway that ceases to be gives you nowhere to go and nothing to bump into. Your worldline, the thread of your existence through spacetime from Chapter 65, stops at a finite point the way a road on a map stops at the map's edge. There is no obstacle there. There is just no more map.
 
 Roger Penrose's 1965 singularity theorem, along with Hawking's later cosmological versions, makes this general. It needs a "trapped surface," a region where even light aimed directly outward is dragged inward, so that escape stops being a matter of trying hard enough and becomes geometrically impossible at any speed. Given such a surface and some reasonable assumptions about energy, collapse guarantees that some path ends at a singularity. It is a remarkably robust result.
 
-Popular writing loves to blur several similar-sounding ideas, so keep them separate: the ordinary black hole horizon, the unstable white hole, the non-traversable Kruskal throat, the wormhole (which needs exotic matter and comes up again in Chapter 92), and any speculative "baby universe" pinching off from our own.
+Popular writing loves to blur several similar-sounding ideas, so keep them separate: the ordinary black hole horizon, the unstable white hole, the non-traversable Kruskal throat, the wormhole (which needs exotic matter and comes up again in Chapter 93), and any speculative "baby universe" pinching off from our own.
 
 Speculative quantum-gravity proposals for replacing the singularity, such as bouncing cosmologies and string-theoretic "fuzzballs," remain untested. They are interesting research programs. None of them is a doorway.
 
-## 84. A Greenhouse on a Dead World
+## 85. A Greenhouse on a Dead World
 
 *Status: Settled; the settler is invented.*
 
@@ -1021,13 +1035,13 @@ Communication delay defines the experience as much as the ice does. Earth sits t
 
 The ethic that follows is practical: incremental, unglamorous, chemistry-bullying local work. There is no sweeping, triumphant narrative of colonization anywhere in it.
 
-## 85. Most of the Universe Has Already Left
+## 86. Most of the Universe Has Already Left
 
 *Status: Strange but solid.*
 
 Because cosmic expansion is accelerating, there is a cosmic event horizon: a boundary beyond which light emitted right now will never reach us, no matter how long we wait. Some galaxies visible in our telescopes today are already receding fast enough that a message sent from here, now, could never catch them.
 
-This belongs to the same family as the black hole horizon of Chapter 79, a boundary of causal reach, but it works at a different scale. It concerns the future of the whole universe instead of one collapsed star.
+This belongs to the same family as the black hole horizon of Chapter 80, a boundary of causal reach, but it works at a different scale. It concerns the future of the whole universe instead of one collapsed star.
 
 Put a number on it: the cosmic event horizon's proper radius today is about 16 billion light-years.
 
@@ -1037,7 +1051,7 @@ Stand on a riverbank beside a current that keeps accelerating. The particle hori
 
 The upshot is sobering. The deep-field museum of distant galaxies holds countless objects that are permanently unreachable as destinations. Only gravitationally bound islands, like our own Local Group of galaxies, stay reachable indefinitely.
 
-## 86. Other Suns, Other Worlds
+## 87. Other Suns, Other Worlds
 
 *Status: Settled; the K2-18b claims are Serious but unconfirmed.*
 
@@ -1055,7 +1069,7 @@ A few systems stand out. TRAPPIST-1 has seven roughly Earth-sized worlds. Proxim
 
 Biosignature spectroscopy hunts for chemical fingerprints in a distant planet's atmosphere. It can raise a reasonable suspicion of life, and it can never prove life by itself. Even the nearest confirmed exoplanets remain functionally unreachable: Proxima Centauri b sits about four light-years away, a distance current propulsion has no realistic answer for.
 
-## 87. Where Liquid Water Can Last
+## 88. Where Liquid Water Can Last
 
 *Status: Settled.*
 
@@ -1067,9 +1081,9 @@ Venus and Mars are the cautionary tales. Venus sits too close and lost its ocean
 
 Red dwarfs, by far the most common stars in the galaxy, bring their own problem. Their habitable zones sit close in and are narrow, which tends to produce tidally locked planets, one face permanently toward the star, exposed to dangerous stellar flares.
 
-That leads to Chapter 88: much of the solar system's liquid water may lie under ice on outer moons, far from any sunlit surface, kept liquid by tidal squeezing instead of starlight.
+That leads to Chapter 89: much of the solar system's liquid water may lie under ice on outer moons, far from any sunlit surface, kept liquid by tidal squeezing instead of starlight.
 
-## 88. Oceans Under the Ice
+## 89. Oceans Under the Ice
 
 *Status: Settled; the rogue-planet ocean is Speculative.*
 
@@ -1087,7 +1101,7 @@ Exploring these worlds runs into a serious engineering problem. Surface radiatio
 
 These "tidal habitable zones" make a second, and perhaps more common, map of where liquid water can persist: quietly, in the dark, with no sky overhead at all.
 
-## 89. A Second Origin
+## 90. A Second Origin
 
 *Status: Speculative; the biochemistry and fossil record are Settled.*
 
@@ -1101,7 +1115,7 @@ The sample-size-of-one problem shows up vividly in the Burgess Shale's astonishi
 
 Detection calls for the same sobriety. The Viking landers' ambiguous 1976 results still have not been resolved either way. Biosignatures can earn a raised eyebrow and never constitute proof on their own. And "planetary protection" carries real ethical stakes: the responsibility not to contaminate a world before we have properly understood it.
 
-## 90. Crews That Do Not Sleep
+## 91. Crews That Do Not Sleep
 
 *Status: Serious but unconfirmed; Gödel's theorems are Settled.*
 
@@ -1119,7 +1133,7 @@ Penrose extends that into a claim about minds. Human mathematicians seem able to
 
 AI risk deserves the same calibration. The near-term dangers are real and present: fraud, weaponization, misuse in bio-design, and the "loss of the record" through unreliable automated systems. Full "instrumental convergence" takeover scenarios are a hypothesis worth taking seriously, and they are no scheduled apocalypse with a known date.
 
-## 91. A Library of Earth
+## 92. A Library of Earth
 
 *Status: Speculative.*
 
@@ -1133,7 +1147,7 @@ Ants offer a useful warning. A visiting intelligence might dismiss individual hu
 
 Genetic "printer" technology is thoroughly dual-use. The same tools that could preserve biodiversity across the cosmos could, handled carelessly, synthesize dangerous organisms right here at home.
 
-## 92. Handles, and the Bill
+## 93. Handles, and the Bill
 
 *Status: Speculative; the Casimir effect is Settled.*
 
@@ -1151,9 +1165,9 @@ The same bill arrives for a 1994 warp-drive proposal. The physics inside the bub
 
 A surfer riding a wave covers a large distance relative to the shore while barely moving relative to the water around them. A warp bubble applies the trick to space itself: contract spacetime in front of a ship and expand it behind, and the ship covers enormous distances while sitting still, from its own point of view, in an ordinary, unwarped patch of space. The surfer gets the wave free from nature. The warp bubble's wave has to be built and sustained with exotic matter, and that is precisely the bill nobody can cover.
 
-Set the energy aside and steering a warp bubble still runs into causality trouble. Under Hawking's "chronology protection conjecture," discussed further in Chapter 94, any paved faster-than-light route risks becoming a forbidden time machine. One more bill, same empty wallet.
+Set the energy aside and steering a warp bubble still runs into causality trouble. Under Hawking's "chronology protection conjecture," discussed further in Chapter 95, any paved faster-than-light route risks becoming a forbidden time machine. One more bill, same empty wallet.
 
-## 93. The Watchmaker, and the Signal
+## 94. The Watchmaker, and the Signal
 
 *Status: Settled; what the UAP sensor data show is still open.*
 
@@ -1161,7 +1175,7 @@ Ancient Egypt is the central case against "ancient astronaut" theories. The alig
 
 Recent military UAP encounters deserve a measured approach. The sensor data are real and worth investigating on their own merits; the leap straight to "it's aliens" is unearned. List the alternatives methodically: classified terrestrial technology, sensor artifacts, hypothetical future-human time travelers, genuine extraterrestrial visitors. Every one of them carries its own unpaid physics bill.
 
-Relativity and quantum mechanics present those bills. Any visitor, of whatever origin, pays the same light-delay tax as everyone else. Instantaneous "beaming" would require both the biological printer of Chapter 91 and the unresolved exotic-matter bill of Chapter 92. Telepathic communication runs straight into the no-signaling theorem, which forbids faster-than-light information transfer even at the quantum level.
+Relativity and quantum mechanics present those bills. Any visitor, of whatever origin, pays the same light-delay tax as everyone else. Instantaneous "beaming" would require both the biological printer of Chapter 92 and the unresolved exotic-matter bill of Chapter 93. Telepathic communication runs straight into the no-signaling theorem, which forbids faster-than-light information transfer even at the quantum level.
 
 The no-signaling theorem is a rigorously proven result. Whatever strange correlations quantum entanglement produces between distant particles, none of them can carry an actual message faster than light. Two people each holding a torn half of the same coupon find, when they finally compare notes, that their halves always match. The correlation is real, and neither of them could have used it to signal the other before the comparison. Faster-than-light telepathy or "quantum communication" is ruled out by the same mathematics that makes ordinary quantum mechanics work.
 
@@ -1169,7 +1183,7 @@ The reasons UAP became a serious topic for the U.S. government between 2017 and 
 
 The Drake Equation is a parameterization of our ignorance rather than a calculation. Any confirmed alien signal, whenever it arrives, will be exactly as delayed as every other piece of cosmic information. That is a fact about the universe, and it rescues us from nothing.
 
-## 94. Time Travel Is Not an Edit
+## 95. Time Travel Is Not an Edit
 
 *Status: Speculative; the relativity behind it is Settled.*
 
@@ -1179,13 +1193,13 @@ Think of security-camera footage that loops, so the end of the tape feeds straig
 
 Special relativity forbids closed timelike curves outright. General relativity permits them mathematically in a handful of exotic cases: a 1949 rotating-universe solution, which reassuringly does not describe our universe, and the interior of a spinning Kerr black hole, widely believed to be unstable and physically inaccessible anyway.
 
-A traversable wormhole could, in principle, become a time machine by exploiting relative time dilation between its two mouths, an idea developed in the late 1980s. It still runs headlong into the exotic-matter problem of Chapter 92.
+A traversable wormhole could, in principle, become a time machine by exploiting relative time dilation between its two mouths, an idea developed in the late 1980s. It still runs headlong into the exotic-matter problem of Chapter 93.
 
 Hawking's 1992 "chronology protection conjecture" proposes that vacuum effects would destroy any nascent time machine before it ever became operational. Nature apparently dislikes the idea as much as common sense does.
 
 Finally, keep ordinary light-delay apart from time travel. A radio lag or a decades-long voyage delivers a message late. Late is still forward.
 
-## 95. If You Could Walk Sideways Through When
+## 96. If You Could Walk Sideways Through When
 
 *Status: Speculative as a scenario; the worldline physics is Settled.*
 
@@ -1193,27 +1207,27 @@ Imagine stepping "sideways" out of your own worldline to visit any moment you li
 
 Cosmological time coordinates, or "foliations," are a bookkeeping convenience for organizing the block. Nobody can walk down them like corridors. The real paths through spacetime are worldlines, each accumulating its own proper time, moment by moment.
 
-Even inside the thought experiment, a visit could add nothing new to the past. Whatever the visitor did would already have been part of that event's history all along. It is Chapter 94's point again, applied to a scenario that hurts more.
+Even inside the thought experiment, a visit could add nothing new to the past. Whatever the visitor did would already have been part of that event's history all along. It is Chapter 95's point again, applied to a scenario that hurts more.
 
 Grief and hope make the abstraction land. You cannot revisit the lost kitchen of your childhood, and you cannot skip ahead to a hoped-for future. You can only occupy the next stretch of your own worldline, one moment at a time, in the order it comes.
 
 In the block universe picture, past and future remain equally real as regions of spacetime. Nothing is erased. Those regions are simply closed to you except through the one forward-moving thread that is your own life.
 
-## 96. Four Kinds of Elsewhere
+## 97. Four Kinds of Elsewhere
 
 *Status: Speculative.*
 
-The word "multiverse" gets thrown around loosely enough to explain almost anything, which is a warning sign: a theory that explains anything explains nothing. So sort it into the four categories popular writing routinely blends: more of this same universe, stretching farther than we can see; other inflationary "bubbles" with potentially different physical constants; the quantum Everett "branches" of Chapter 65; and purely mathematical or abstract "other universes."
+The word "multiverse" gets thrown around loosely enough to explain almost anything, which is a warning sign: a theory that explains anything explains nothing. So sort it into the four categories popular writing routinely blends: more of this same universe, stretching farther than we can see; other inflationary "bubbles" with potentially different physical constants; the quantum Everett "branches" of Chapter 66; and purely mathematical or abstract "other universes."
 
 Each answers a different question. How big is space? Could the constants of nature have come out differently? What does the quantum wavefunction actually do? What does existence mean at the most abstract level? Each needs its own justification, and none can borrow one from its neighbors.
 
 The fourth category, mathematical Platonism, sits outside the evidence standards used here. It is an interesting philosophical wager and no scientific claim worth endorsing.
 
-Dark matter, dark energy, and the hidden oceans of Chapter 88 belong to no "elsewhere" category. They are unexplained ingredients of the one universe we already inhabit.
+Dark matter, dark energy, and the hidden oceans of Chapter 89 belong to no "elsewhere" category. They are unexplained ingredients of the one universe we already inhabit.
 
 Picture a workbench with four separate drawers. Each holds the tool for a different problem, and none can be raided to cover another's shortfall.
 
-## 97. More of This Universe
+## 98. More of This Universe
 
 *Status: Speculative; the flatness measurement is Settled.*
 
@@ -1223,29 +1237,29 @@ Start with "Level I" multiverse reasoning. Suppose space is infinite, or just la
 
 The argument rests on two openly "cold" assumptions. The first is that space really is infinite. Current data show it is flat to within measurement error, which fits infinite extent without proving it. The second is that matter really is ergodic at the very largest scales, which remains open. The reasoning is sound if the premises hold, and nobody can currently confirm the premises.
 
-The Bekenstein bound, tied to the holographic entropy argument of Chapter 82, supplies the other half. It guarantees only a finite menu of possible quantum states within any finite volume of space. Combined with truly infinite space, that forces repetition in the end.
+The Bekenstein bound, tied to the holographic entropy argument of Chapter 83, supplies the other half. It guarantees only a finite menu of possible quantum states within any finite volume of space. Combined with truly infinite space, that forces repetition in the end.
 
 Think of the bound as a strict cap on a hard drive. However you arrange the bits, a drive of a given physical size holds only so much information. Applied to space, any finite volume supports only a finite number of distinguishable arrangements of matter and energy: a fixed menu, however you plate the dishes. Infinite space, finite menu, and somebody, somewhere, orders the same thing twice.
 
-Even if such cheap copies of Earth exist, they are permanently unreachable, sealed off by the cosmic event horizon of Chapter 85. They offer exactly zero practical consolation to anyone here.
+Even if such cheap copies of Earth exist, they are permanently unreachable, sealed off by the cosmic event horizon of Chapter 86. They offer exactly zero practical consolation to anyone here.
 
 Searches continue, so far without success, for a finite, "wrapped-around" topology of the universe. Its signature would be matching "circles in the sky" in the cosmic microwave background, and none have been convincingly found.
 
-## 98. Other Rooms, Other Rules
+## 99. Other Rooms, Other Rules
 
 *Status: Speculative.*
 
-Chapter 74's eternal inflation leads into "Level II" territory. If inflation never stops everywhere, and the underlying theory offers several distinct vacuum "valleys" to settle into, different bubbles could freeze out with physical constants entirely different from ours.
+Chapter 75's eternal inflation leads into "Level II" territory. If inflation never stops everywhere, and the underlying theory offers several distinct vacuum "valleys" to settle into, different bubbles could freeze out with physical constants entirely different from ours.
 
 String theory's "landscape," often said to contain something like ten to the five-hundredth power possible vacuum states, is the usual source for this menu. It is untestable: a catalog of possibilities, with no confirmed inventory of what exists.
 
-It is also exactly what Weinberg's anthropic argument about the cosmological constant, from Chapters 74 and 100, needs in order to count as a genuine prediction instead of a coincidence. Real variation across real universes gives the anthropic filter something concrete to filter.
+It is also exactly what Weinberg's anthropic argument about the cosmological constant, from Chapters 75 and 101, needs in order to count as a genuine prediction instead of a coincidence. Real variation across real universes gives the anthropic filter something concrete to filter.
 
 The "measure problem" is the central reason the program has stalled. There is still no agreed way to calculate what counts as statistically "typical" across an infinite ensemble of possibilities.
 
 Even if neighboring vacua with different physics exist, they are no destinations. The boundary between bubbles is itself still-inflating spacetime, expanding faster than anything could ever cross.
 
-## 99. Every Allowed Outcome
+## 100. Every Allowed Outcome
 
 *Status: Serious but unconfirmed; decoherence is Strange but solid.*
 
@@ -1253,17 +1267,17 @@ Set aside the familiar spinning-coin picture of a quantum outcome. That coin mad
 
 Stand at the kitchen sink, mid-load, one plate left in the stack, at the moment some undetermined quantum event occurs nearby. Say a single atom decays, with no fact of the matter beforehand about when. Ordinarily you would say the atom either decays or it does not, one thing happens, and the other possibility never existed.
 
-The many-worlds reading says both happen, in full, each in its own branch of what the universe does next. In one branch the atom decays and you dry that last plate and set it in the rack. In another, equally real, it does not, and you do the same ordinary thing a moment later. The two branches decohered from each other the instant the event resolved, as described in Chapter 65. Neither is the "real" one with the other demoted to an almost-happened. Both stay fully real; they just can no longer compare notes.
+The many-worlds reading says both happen, in full, each in its own branch of what the universe does next. In one branch the atom decays and you dry that last plate and set it in the rack. In another, equally real, it does not, and you do the same ordinary thing a moment later. The two branches decohered from each other the instant the event resolved, as described in Chapter 66. Neither is the "real" one with the other demoted to an almost-happened. Both stay fully real; they just can no longer compare notes.
 
 The catch is permanent. Grant that another branch holds a version of you for whom the atom went the other way: that other you is unreachable and offers no consolation, because the no-signaling theorem forbids any communication across branches. The branch you are reading this sentence in is the only one you will ever get a report from. That is why the idea counts as warm and falls short of hot: it is the best available reading of confirmed physics, with no direct verification of how many of you there are.
 
 Hugh Everett's 1957 many-worlds interpretation, in full: a quantum measurement does not collapse the wavefunction to one outcome. All possible outcomes persist as separate, non-interacting branches once they have decohered from each other. Decoherence itself is a real, calculable physical process, no philosophical add-on.
 
-Three ideas look alike and are physically quite different: a true Everett branch, a hypothetical mind-copying "duplicate," and the spatially distant cheap copy of Chapter 97. The branch shares your past and splits at an event. The duplicate would be copied from you after the fact. The cheap copy is a separate, causally unconnected arrangement of atoms that merely happens to match yours.
+Three ideas look alike and are physically quite different: a true Everett branch, a hypothetical mind-copying "duplicate," and the spatially distant cheap copy of Chapter 98. The branch shares your past and splits at an event. The duplicate would be copied from you after the fact. The cheap copy is a separate, causally unconnected arrangement of atoms that merely happens to match yours.
 
 Whatever the final metaphysical status of unobserved branches, the only worldline you can act on is the one you are living. You wash one plate.
 
-## 100. A Filter, Not a Purpose
+## 101. A Filter, Not a Purpose
 
 *Status: Serious but unconfirmed; the Hoyle resonance is Settled.*
 
@@ -1275,13 +1289,13 @@ Then there is the Weak Anthropic Principle, formalized by one physicist in 1974 
 
 An example with no cosmology in it shows the shape. If you are reading this sentence, you already know you were born on a planet with breathable air, liquid water, and a climate stable enough for agriculture. The universe did not arrange those things for your benefit; you simply could not exist anywhere else to notice. Observers can only ever find themselves in the possibly rare places where conditions allow them. That is true by definition, which is its strength, and it says nothing about why those places exist at all.
 
-Weinberg's 1987 anthropic bound on the cosmological constant becomes predictive only if a real ensemble of varying universes or regions exists, which links back to Chapters 74 and 98. Without that ensemble, it remains a striking coincidence.
+Weinberg's 1987 anthropic bound on the cosmological constant becomes predictive only if a real ensemble of varying universes or regions exists, which links back to Chapters 75 and 99. Without that ensemble, it remains a striking coincidence.
 
-Keep this defensible weak reasoning apart from the far more ambitious "Strong" and "Final" Anthropic Principles. The Final one was taken apart in Chapter 78, and both amount to disguised, untestable theology.
+Keep this defensible weak reasoning apart from the far more ambitious "Strong" and "Final" Anthropic Principles. The Final one was taken apart in Chapter 79, and both amount to disguised, untestable theology.
 
-The abundance of subsurface ocean worlds from Chapter 88 is a humbling corrective. Our intuitions about a universe "arranged for life" proved far too narrow, fixed on sunlit surfaces when the real story may be happening in the dark.
+The abundance of subsurface ocean worlds from Chapter 89 is a humbling corrective. Our intuitions about a universe "arranged for life" proved far too narrow, fixed on sunlit surfaces when the real story may be happening in the dark.
 
-## 101. No Cosmic Craftsman
+## 102. No Cosmic Craftsman
 
 *Status: Settled.*
 
@@ -1297,7 +1311,7 @@ Anthroposophy is "a craftsman story with incense." It may be internally coherent
 
 The mirror image, a "cosmic adversary," fails too. Parasitism and suffering are ordinary evolutionary fitness outcomes aimed at nobody. Entropy is a boundary condition inherited from the early universe, with no intentions of its own.
 
-## 102. Five Ways It Can End
+## 103. Five Ways It Can End
 
 *Status: Serious but unconfirmed.*
 
@@ -1317,15 +1331,15 @@ It is the strangest entry on the list, and supercooled water is the easiest way 
 
 A cosmic "bounce," the family of cyclic, ekpyrotic, and Penrose's conformal cyclic models, proposes that an end state could become a new beginning. It is rated cold too, for lack of any confirmed observational signature.
 
-No "required" forever-mind destiny appears on the list, which reinforces Chapter 78's rejection of the Omega Point. The evidence-supported future for our universe is no dramatic finale of any kind. It is a long, undramatic fade.
+No "required" forever-mind destiny appears on the list, which reinforces Chapter 79's rejection of the Omega Point. The evidence-supported future for our universe is no dramatic finale of any kind. It is a long, undramatic fade.
 
-## 103. Does Time Exist?
+## 104. Does Time Exist?
 
 *Status: Serious but unconfirmed; the arrow of time is Strange but solid.*
 
-Several mutually exclusive views of time compete, and none has won. The first treats time as pure spacetime geometry. It is real as a measurable relation between events, validated daily by the dual relativistic corrections in GPS from Chapter 64, but no "moving spotlight" sweeps across it the way intuition suggests.
+Several mutually exclusive views of time compete, and none has won. The first treats time as pure spacetime geometry. It is real as a measurable relation between events, validated daily by the dual relativistic corrections in GPS from Chapter 65, but no "moving spotlight" sweeps across it the way intuition suggests.
 
-The arrow of time, why eggs break and never reassemble, does not come from the laws of physics, which are time-symmetric. It comes from the universe's low-entropy initial condition: the "Past Hypothesis" of Chapter 65, an assumption the theory needs and cannot itself explain.
+The arrow of time, why eggs break and never reassemble, does not come from the laws of physics, which are time-symmetric. It comes from the universe's low-entropy initial condition: the "Past Hypothesis" of Chapter 66, an assumption the theory needs and cannot itself explain.
 
 Then there is the unresolved "problem of time" in quantum gravity. The Wheeler-DeWitt equation, one of the field's foundational tools, contains no explicit time variable at all, which suggests to many physicists that time might be emergent instead of fundamental.
 
@@ -1337,7 +1351,7 @@ The heap of Nows takes that seriously: maybe there is no built-in flow, only uno
 
 The conclusion is pragmatic and rather comforting. The clock on your kitchen wall, the GPS in your phone, and the proper time ticking along your own worldline all remain fully legitimate, practical tools, whichever deep picture eventually wins.
 
-## 104. The Honest Ending
+## 105. The Honest Ending
 
 *Status: Settled for the physics recapped; the view on meaning is philosophy.*
 
@@ -1351,15 +1365,15 @@ The most durable takeaway is the method. Keep the three temperatures from the pr
 
 The last image is deliberately small against the scale of everything before it: take the casserole out. A meaningful human life remains wholly available, squarely inside a purposeless, indifferent cosmos.
 
-## 105. The Scientific Detail: Time and the Cosmos
+## 106. The Scientific Detail: Time and the Cosmos
 
 *Status: Settled for the measurements; anything speculative is labeled where it appears.*
 
 These notes, A0 through A45, run alongside the forty-five chapters on time and the cosmos and supply the equations, precise dates, numerical values and citations the main text leaves out. The same hot/warm/cold discipline applies here as everywhere else.
 
-Start with relativity. Einstein synchronization sets two distant clocks by light: send a flash from clock A at time t1, have it bounce off clock B and return at t2, and define the moment of reflection as halfway between, (t1 + t2)/2. Observers in relative motion who follow this rule in good faith end up with different sets of "simultaneous" events. That is the Andromeda tilt from Chapter 63: two people walking past each other on a sidewalk disagree about which moment on Andromeda is happening "now" by several days, because the tilt grows with distance.
+Start with relativity. Einstein synchronization sets two distant clocks by light: send a flash from clock A at time t1, have it bounce off clock B and return at t2, and define the moment of reflection as halfway between, (t1 + t2)/2. Observers in relative motion who follow this rule in good faith end up with different sets of "simultaneous" events. That is the Andromeda tilt from Chapter 64: two people walking past each other on a sidewalk disagree about which moment on Andromeda is happening "now" by several days, because the tilt grows with distance.
 
-What all observers agree on is the spacetime interval, s² = (cΔt)² − (Δx)². When s² is positive the separation is timelike: one event can influence the other, and every observer agrees on their order. When s² is negative it is spacelike: no signal can connect them, and the order of the two events depends on who is watching. The light cone is the boundary s² = 0, and the lookback-time calculations behind Chapter 62 all live on it, since every photon you receive reached you along your past light cone.
+What all observers agree on is the spacetime interval, s² = (cΔt)² − (Δx)². When s² is positive the separation is timelike: one event can influence the other, and every observer agrees on their order. When s² is negative it is spacelike: no signal can connect them, and the order of the two events depends on who is watching. The light cone is the boundary s² = 0, and the lookback-time calculations behind Chapter 63 all live on it, since every photon you receive reached you along your past light cone.
 
 The experimental record is precise. In 1971 Hafele and Keating flew cesium atomic clocks around the world eastward and westward on commercial airliners, and the measured nanosecond offsets against ground clocks matched the predictions of special and general relativity within the experimental error. Muons in storage rings live measurably longer at high speed, by exactly the predicted factor. GPS satellites carry both corrections every day: their clocks lose about seven microseconds a day to orbital velocity and gain about forty-five to weaker gravity, for a net gain of about thirty-eight that the system removes in advance. The cosmic microwave background, measured by the FIRAS instrument, sits at 2.72548 kelvin, give or take an almost absurdly small 0.00057 kelvin.
 
@@ -1371,13 +1385,13 @@ The BICEP2 episode of 2014 is the clearest case study of a claim cooling correct
 
 All of this is optional scaffolding. Use it if the numbers help, and skip it without guilt if they don't.
 
-## 106. How to Read Claims About Living Longer
+## 107. How to Read Claims About Living Longer
 
 *Status: Settled. This chapter sets out the method, not a result.*
 
 *From the cosmos to the body: the next chapters point the same discipline at lifespan, medicine and the mind.*
 
-These chapters take the hot/warm/cold discipline of Chapter 58 and point it at a more intimate subject: lifespan, cognition, and the question of long-term human progress. The same invented greenhouse worker anchors them, this time taking a delayed joint-relief capsule for an ordinary ache.
+These chapters take the hot/warm/cold discipline of Chapter 59 and point it at a more intimate subject: lifespan, cognition, and the question of long-term human progress. The same invented greenhouse worker anchors them, this time taking a delayed joint-relief capsule for an ordinary ache.
 
 Here are the core recognitions, stated before any case is made for them. Lifespan and healthspan are separate measures. Aging is many clocks running at once, with no single fuse waiting to burn down. Gene therapies are local repairs. The claim that "we only use 10% of our brains" is false. The evolved wanting-system that drives human desire has no built-in off-switch. And the last fifty years of real progress cannot be extrapolated two-hundred-fold into confident predictions about the year 12,000.
 
@@ -1385,7 +1399,7 @@ They borrow the "wanting versus liking" framework from the chapters on time and 
 
 The thesis, stated now and returned to throughout: what medicine and self-improvement can actually deliver is smaller than immortality or transformation and far more achievable. It is "mornings you would vote to repeat."
 
-## 107. The Capsule and the Hands
+## 108. The Capsule and the Hands
 
 *Status: Settled where it describes today's medicine; Speculative where it looks ahead.*
 
@@ -1395,7 +1409,7 @@ Everything that follows pushes back against the temptation to inflate small, rea
 
 Six claims carry the argument over the sixteen chapters ahead: healthspan and lifespan are different; aging runs on many separate clocks with no master switch; gene fixes are strictly local; the brain has no unused capacity waiting to be unlocked; human desire has no off-switch; and straight-line extrapolation to the year 12,000 is a fallacy.
 
-## 108. Her Hands Still Age
+## 109. Her Hands Still Age
 
 *Status: Settled.*
 
@@ -1403,9 +1417,9 @@ Even a treatment that works, like the joint-relief capsule, is a narrowly local 
 
 The three temperatures, applied to this subject. Hot: healthspan and lifespan are different measures, the 10%-brain myth is false, and specific gene therapies really do work as advertised. Warm: aging involves many overlapping mechanisms, and nobody has found a single master switch. Cold: a full-body "rewind," a scheduled lifespan of 150 years or more, or unlocking some mythical "other 90%" of the brain.
 
-"Local" is the word to keep. A local fix targets one tissue, one gene or one joint, and it carries its own specific cost. It leaves the rest of the person exactly where it found them. Chapter 111 develops the idea fully.
+"Local" is the word to keep. A local fix targets one tissue, one gene or one joint, and it carries its own specific cost. It leaves the rest of the person exactly where it found them. Chapter 112 develops the idea fully.
 
-## 109. Lifespan Is Not Healthspan
+## 110. Lifespan Is Not Healthspan
 
 *Status: Settled.*
 
@@ -1417,7 +1431,7 @@ The longest well-documented human life, about 122 years (1875 to 1997), is a sta
 
 The practical test throughout: would you vote to repeat this exact day? That is how you tell whether an added year counts as healthspan or is just more calendar.
 
-## 110. Many Clocks, Not One Fuse
+## 111. Many Clocks, Not One Fuse
 
 *Status: Serious but unconfirmed; the individual mechanisms are Settled.*
 
@@ -1433,7 +1447,7 @@ Popular "epigenetic clocks" estimate biological age from chemical markers on DNA
 
 The general warning: any single-target intervention, however good at its one job, leaves all the other clocks running.
 
-## 111. Local Fixes
+## 112. Local Fixes
 
 *Status: Settled.*
 
@@ -1447,7 +1461,7 @@ So: one gene, one disease, one very specific win. It says nothing about a genera
 
 Germline editing, which permanently alters the genomes of future generations, is a separate ethical and political question from the gene therapy described here. Nobody is offering it as a near-term product.
 
-## 112. Not a Fountain
+## 113. Not a Fountain
 
 *Status: Settled; the forecast for this century is Serious but unconfirmed.*
 
@@ -1457,7 +1471,7 @@ A scheduled lifespan of 150, 200 or 1,000 years is "cold." The "warm," reasonabl
 
 Curing one specific disease "does not promote her to a different species." It changes what she will eventually die of. It leaves the "whether" untouched.
 
-## 113. We Already Use the Organ
+## 114. We Already Use the Organ
 
 *Status: Settled.*
 
@@ -1469,17 +1483,17 @@ Regions that look "quiet" in a given imaging study are typically still active an
 
 The brain is already a fully engaged, metabolically expensive working organ running near capacity at all times. There is no hidden unlock.
 
-## 114. Cognitive Enhancement, Two Temperatures
+## 115. Cognitive Enhancement, Two Temperatures
 
 *Status: Settled.*
 
-Cognitive interventions fall into two bins. On the warm-to-hot side sit real tools with known, quantifiable trade-offs: eyeglasses, hearing aids (an underappreciated way to cut dementia risk), adequate sleep, education, and stimulants such as caffeine or prescribed amphetamines. On the cold side sits mythology: unlocking a hidden reservoir of unused brain capacity, already dismantled in Chapter 113.
+Cognitive interventions fall into two bins. On the warm-to-hot side sit real tools with known, quantifiable trade-offs: eyeglasses, hearing aids (an underappreciated way to cut dementia risk), adequate sleep, education, and stimulants such as caffeine or prescribed amphetamines. On the cold side sits mythology: unlocking a hidden reservoir of unused brain capacity, already dismantled in Chapter 114.
 
-Cochlear implants and similar devices are Chapter 111's "local fix" applied to the brain and its senses. They restore lost function, bringing someone back to a normal baseline, which is a fine thing to do and a different thing from pushing past it.
+Cochlear implants and similar devices are Chapter 112's "local fix" applied to the brain and its senses. They restore lost function, bringing someone back to a normal baseline, which is a fine thing to do and a different thing from pushing past it.
 
 Even the legitimate tools carry a quantifiable trade-off. Nothing on offer is a free upgrade. Every tool comes with its price posted and its bill attached.
 
-## 115. The Carrot Has No Off-Switch
+## 116. The Carrot Has No Off-Switch
 
 *Status: Serious but unconfirmed; supernormal stimuli are Settled.*
 
@@ -1493,7 +1507,7 @@ The mismatch works on the reward circuitry itself, below the level of belief. Kn
 
 Living longer, by itself, confers no wisdom. It supplies more calendar for the same mismatched wanting cycle to run on, unless something else intervenes.
 
-## 116. The Last Fifty Years Were Not a Straight Line
+## 117. The Last Fifty Years Were Not a Straight Line
 
 *Status: Serious but unconfirmed; the record of progress is Settled.*
 
@@ -1503,7 +1517,7 @@ Think of stairs. Progress arrives as a series of distinct breakthroughs, each wi
 
 Any forecast has to reckon with several persistent structural walls: energy and thermodynamics, materials and supply chains, the finite bandwidth of human attention, and the recurring risk of war and institutional collapse interrupting whatever was underway.
 
-## 117. S-Curves and Invoices
+## 118. S-Curves and Invoices
 
 *Status: Serious but unconfirmed; Moore's Law's slowdown is Settled.*
 
@@ -1519,7 +1533,7 @@ Genome sequencing costs follow the same pattern, and so does the history of vacc
 
 Diminishing returns are, in a phrase worth stealing, "a kitchen fact." Expecting the future to keep matching history's most explosive period is a common and avoidable error.
 
-## 118. Ten Thousand Years Is Not ×200
+## 119. Ten Thousand Years Is Not ×200
 
 *Status: Settled; anything said about the year 12,000 is Serious but unconfirmed.*
 
@@ -1531,7 +1545,7 @@ Run it on any other fifty-year stretch, say one from the century before last, an
 
 The only defensible statements about the year 12,000 concern persistent structural constraints: energy availability, the underlying complexity of biology, and the ever-present risk of lost knowledge. Specific predicted technologies don't make the list.
 
-## 119. Coordination, Wars, Institutions
+## 120. Coordination, Wars, Institutions
 
 *Status: Serious but unconfirmed.*
 
@@ -1543,7 +1557,7 @@ Human germline "enhancement" is at its core a political and ethical question: a 
 
 War cuts both ways. It has repeatedly destroyed accumulated knowledge and infrastructure, and in certain cases it has also accelerated narrow lines of technical development. The pattern is double-edged and resists a simple story in either direction.
 
-## 120. Medicine's Invoices
+## 121. Medicine's Invoices
 
 *Status: Settled.*
 
@@ -1553,15 +1567,15 @@ The process produces real inequality in access. Sickle-cell gene therapy, at a c
 
 Then there is the translation problem. Animal models, mice especially, frequently fail to predict how treatments will perform in humans, because differences in lifespan, genetics and basic physiology don't carry cleanly across species.
 
-## 121. Adjusting Is Not Spare Capacity
+## 122. Adjusting Is Not Spare Capacity
 
 *Status: Settled.*
 
-Chapter 113's case against unused brain capacity extends here. Neuroplasticity, the brain's real functional reorganization as seen in stroke recovery, is entirely real. It is best understood as effortful, costly overtime: capacity that was already fully engaged gets redistributed. No reserve of idle tissue is being switched on.
+Chapter 114's case against unused brain capacity extends here. Neuroplasticity, the brain's real functional reorganization as seen in stroke recovery, is entirely real. It is best understood as effortful, costly overtime: capacity that was already fully engaged gets redistributed. No reserve of idle tissue is being switched on.
 
 Plasticity is measurably more efficient during childhood's "sensitive periods." Adult adaptation is slower, more effortful and more limited. That is one more reason external tools like notes, checklists and assistive technology are a legitimate, often optimal part of how capable humans have always functioned, and no admission of inadequacy.
 
-## 122. Copies, Uploads, and Cold Immortality
+## 123. Copies, Uploads, and Cold Immortality
 
 *Status: Speculative; neural-interface medicine is Settled.*
 
@@ -1575,9 +1589,9 @@ A thought experiment shows why. Suppose the scan didn't destroy the original bra
 
 Legitimate neural-interface medicine sits on the other side of a sharp line. Cochlear implants, deep-brain stimulators and brain-computer interfaces are valuable, localized restorations of function, and none of them claims digital immortality.
 
-The reasoning parallels the rejection of the Omega Point in Chapter 78, applied to individual minds instead of to the fate of the universe.
+The reasoning parallels the rejection of the Omega Point in Chapter 79, applied to individual minds instead of to the fate of the universe.
 
-## 123. The Honest Body
+## 124. The Honest Body
 
 *Status: Settled for the local wins; the long-range forecasts are Serious but unconfirmed.*
 
@@ -1587,7 +1601,7 @@ The practical upshot: real local wins (a working joint, a working hearing aid, a
 
 And the governing directive, deliberately blunt: "do not wait for helium." Don't put off present-day effort and appreciation while holding out for an unproven, probably mythical transformation that may never arrive.
 
-## 124. The Scientific Detail: Ageing and Medicine
+## 125. The Scientific Detail: Ageing and Medicine
 
 *Status: Settled for the measurements; anything speculative is labeled where it appears.*
 
@@ -1605,20 +1619,20 @@ The ×200 arithmetic is short. Ten thousand years divided by fifty years equals 
 
 Sources deserve the same temperature check as claims. Peer-reviewed reviews and official health statistics sit at the reliable end; anything selling a supplement, a clinic visit or a reset of your biological age deserves a healthy degree of skepticism.
 
-## 125. How to Read a Space Announcement
+## 126. How to Read a Space Announcement
 
 *Status: Settled. This chapter sets out the method, not a result.*
 
 *And from the body to the road off Earth: the last chapters of this section read claims about the Moon and Mars with the same three temperatures.*
 
-These chapters apply the hot/warm/cold discipline of Chapter 58 to claims about settling the Moon and Mars. The same invented greenhouse worker is back, this time fighting a stuck airlock instead of an aching joint.
+These chapters apply the hot/warm/cold discipline of Chapter 59 to claims about settling the Moon and Mars. The same invented greenhouse worker is back, this time fighting a stuck airlock instead of an aching joint.
 
 The core recognitions, up front. A program is a different thing from a poster. A slipped launch date is an invoice, and rarely a scandal. The Moon comes first because it is three days away; it was never a spare Earth. A flag planted once is a different thing from an ongoing shift. "Sortie," "outpost" and "settlement" name three distinct things that should never be fused. The overwhelming majority of humanity stays on Earth however any space program turns out. And leaving cannot work as a climate cleanup strategy.
 
 
 They drop the "cosmic now" framework, which this subject doesn't need, and keep the greenhouse character and the method.
 
-## 126. The Airlock Still Sticks
+## 127. The Airlock Still Sticks
 
 *Status: Settled.*
 
@@ -1632,7 +1646,7 @@ The anchor scene: an invented woman running an off-world greenhouse wrestles wit
 
 That 26-month rhythm comes from geometry. You can't step from a platform onto a moving merry-go-round at any random moment; you wait until your position and the ride's line up so you can step across without a wrenching lunge. Earth and Mars orbit the Sun at different speeds, so they line up for an efficient, low-fuel trajectory only once every synodic period. That trajectory is a "Hohmann transfer," the fuel-cheapest curving path between two orbits. Launch outside the window and the trip costs dramatically more fuel to make up for the planets being in the wrong places, which is why "dates" in these chapters means something stricter than a preference.
 
-## 127. A Program Is Not a Poster
+## 128. A Program Is Not a Poster
 
 *Status: Settled.*
 
@@ -1644,7 +1658,7 @@ The 2022 Artemis I heat-shield anomaly, an unexpected loss of material during re
 
 For everyday use, shorten the ladder to a five-card ledger: Rendering, Contract, Article, Test, Flight. Hold it up against the next space announcement that crosses your feed and see which card it has actually earned.
 
-## 128. How Dates Slip
+## 129. How Dates Slip
 
 *Status: Settled.*
 
@@ -1656,7 +1670,7 @@ The antidote is "the outside view": base schedule predictions on how comparable 
 
 To tell an invoice from fog, ask four questions of any delay announcement. Does it name a specific technical problem? Does it say what was learned? Does it give a new date with a reason? Does it name what has to happen before that date holds? An invoice answers plainly. Fog says "replanning" and names nothing.
 
-## 129. The Moon First, Because It Is Close
+## 130. The Moon First, Because It Is Close
 
 *Status: Settled; the minability of polar ice is Serious but unconfirmed.*
 
@@ -1668,7 +1682,7 @@ The lunar poles have particular appeal. Permanently shadowed craters show radar 
 
 That answers the common "why not go straight to Mars" question. The basic lessons of long-term living off Earth are cheaper and safer to learn somewhere three days away with real-time communication than somewhere the delay alone rules out quick correction.
 
-## 130. What Has Already Flown
+## 131. What Has Already Flown
 
 *Status: Settled.*
 
@@ -1678,7 +1692,7 @@ Every item on that list is robotic. No human being has set foot on the Moon sinc
 
 Hold on to one phrase through everything that follows: "a flag is not a shift." A historical achievement, however remarkable, belongs in a different category from a continuously staffed presence, and confusing the two is the mistake these chapters exist to correct.
 
-## 131. The Next Crew Around the Moon
+## 132. The Next Crew Around the Moon
 
 *Status: Serious but unconfirmed (a forecast).*
 
@@ -1686,9 +1700,9 @@ A crewed lunar flyby of the kind planned for this decade, with astronauts circli
 
 The mission has specific jobs: test life support with a real crew aboard, verify navigation and deep-space communications, and demonstrate safe reentry with people inside, which the uncrewed Artemis I capsule could not.
 
-In the "three nouns" framework of Chapter 137, this is a sortie: valuable, even historic, and temporary by design. It sits two categories below a settlement.
+In the "three nouns" framework of Chapter 138, this is a sortie: valuable, even historic, and temporary by design. It sits two categories below a settlement.
 
-## 132. A Landable Year Is Not a Town
+## 133. A Landable Year Is Not a Town
 
 *Status: Serious but unconfirmed (a forecast); the Apollo history is Settled.*
 
@@ -1698,7 +1712,7 @@ The long poles still standing: reliable propellant refueling in orbit, the bruta
 
 Apollo is the contrast case. Even the historic 1969 landing, momentous as it was, fits the taxonomy as a sortie. A triumph, and still not a town.
 
-## 133. Gateway and the Architecture Fights
+## 134. Gateway and the Architecture Fights
 
 *Status: Serious but unconfirmed; the orbital mechanics and the ISS record are Settled.*
 
@@ -1710,7 +1724,7 @@ The International Space Station is the clearest existing example of the middle t
 
 Any specific lunar architecture is an engineering trade-off to be argued on its merits. None of them was handed down from on high.
 
-## 134. Other Flags, Other Ledgers
+## 135. Other Flags, Other Ledgers
 
 *Status: Serious but unconfirmed; the Chang'e sample returns are Settled.*
 
@@ -1718,11 +1732,11 @@ Lunar ambitions extend well beyond the American program. The most notable is Chi
 
 On the temperature scale, China's completed sample returns are hot. The broader multinational research station is warm: genuine intent, real hardware and real funding, and nothing yet accomplished. Any habitable settlement claim built on it is cold.
 
-Then comes the cargo-cult test, set out formally in Chapter 137: if external resupply were cut off for good, could the outpost still feed, house and sustain its inhabitants? That question separates a real outpost from an elaborate stage set.
+Then comes the cargo-cult test, set out formally in Chapter 138: if external resupply were cut off for good, could the outpost still feed, house and sustain its inhabitants? That question separates a real outpost from an elaborate stage set.
 
 Several national programs crowding into the same lunar region do not, by themselves, add up to progress toward a settlement. Competition and capability are different things.
 
-## 135. Starship as a Vehicle, Not a City
+## 136. Starship as a Vehicle, Not a City
 
 *Status: Serious but unconfirmed.*
 
@@ -1732,7 +1746,7 @@ Starship's real potential value is a dramatic drop in launch cost per kilogram. 
 
 Even a fully mature, routine Starship would leave the basic settlement problems untouched: refueling in orbit, landing safely through Mars's thin atmosphere, using resources on the surface, and shielding long-term residents from radiation.
 
-## 136. Mars Rhetoric vs Mars Engineering
+## 137. Mars Rhetoric vs Mars Engineering
 
 *Status: Serious but unconfirmed for a crewed landing; Speculative for a permanent settlement.*
 
@@ -1746,7 +1760,7 @@ NASA's Perseverance rover carried a small instrument called MOXIE, which produce
 
 The verdict: a near-term crewed Mars landing sits somewhere between warm and cold. A permanent settlement is firmly cold.
 
-## 137. Three Nouns: Sortie, Outpost, Settlement
+## 138. Three Nouns: Sortie, Outpost, Settlement
 
 *Status: Settled.*
 
@@ -1756,7 +1770,7 @@ A **sortie** is a temporary visit: travel out, do the work, and come home, or, i
 
 The cargo-cult test puts it in one question: if every supply shipment stopped for good tomorrow, would the resident children still have enough food, air and water to grow up? Until the answer is an unambiguous yes, whatever is out there is an outpost at best.
 
-## 138. Who Stays
+## 139. Who Stays
 
 *Status: Settled; the Mars population estimate is a forecast and Serious but unconfirmed.*
 
@@ -1766,7 +1780,7 @@ Some scale. Everyone who has ever traveled to orbit would fill a small village. 
 
 So the debate about planetary environmental recovery is a debate about the people who remain on Earth. The small, conspicuous population of space settlers, however much attention it attracts, is a footnote to it.
 
-## 139. The Clocks of Recovery
+## 140. The Clocks of Recovery
 
 *Status: Settled.*
 
@@ -1776,7 +1790,7 @@ Four categories make the point. A substantial share of excess atmospheric carbon
 
 Sending people to space settlements cannot act as a planetary reset button. These recovery clocks are entirely indifferent to whatever spacecraft happen to be leaving.
 
-## 140. Leaving Is Not a Cleanup
+## 141. Leaving Is Not a Cleanup
 
 *Status: Settled.*
 
@@ -1786,7 +1800,7 @@ A separate cautionary scenario is industrial civilizational collapse. It would i
 
 Earth's biosphere will not "heal" because some ambitious humans departed for elsewhere. Real environmental control rests with industrial policy and land-use decisions made here on Earth.
 
-## 141. The Bill of Going
+## 142. The Bill of Going
 
 *Status: Settled; the warning about political will is Serious but unconfirmed.*
 
@@ -1796,7 +1810,7 @@ The "disposable Earth" story deserves sharp criticism. Treating the planet as ex
 
 Space exploration is valuable on its own merits. It must never be sold as a substitute for, or an excuse to avoid, looking after the one planet we actually live on.
 
-## 142. The Scientific Detail: The Moon and Mars
+## 143. The Scientific Detail: The Moon and Mars
 
 *Status: Settled for the measurements; anything speculative is labeled where it appears.*
 
@@ -1804,7 +1818,7 @@ These notes, A0/A1 through A16, mirror the sixteen chapters before them.
 
 Light time is distance divided by the speed of light. The Moon averages about 384,000 kilometers away, which gives about 1.3 seconds one way. Mars ranges from roughly 55 million kilometers at its closest to about 400 million at its farthest, which gives about three minutes to about twenty-two.
 
-The flown ledger is the list in Chapter 130, and the slip case studies are the ones in Chapter 128: Apollo's pad fire, the Shuttle's gap between promise and delivery, Constellation's cancellation, Artemis's repeated date changes, and commercial heavy-lift programs that have run late on the same pattern.
+The flown ledger is the list in Chapter 131, and the slip case studies are the ones in Chapter 129: Apollo's pad fire, the Shuttle's gap between promise and delivery, Constellation's cancellation, Artemis's repeated date changes, and commercial heavy-lift programs that have run late on the same pattern.
 
 The Moon is about three days away by the usual transfer. The polar-ice evidence is radar and spectroscopic: signals consistent with water ice in permanently shadowed craters, short of a confirmed, minable deposit.
 
@@ -1814,6 +1828,6 @@ Mars's surface pressure is roughly six millibars. MOXIE, over its runs between 2
 
 The cargo-cult test, formally: a presence counts as a settlement only if, with all external resupply permanently stopped, it can still supply its residents, including children born there, with enough food, air and water to grow up. Anything less is a sortie or an outpost.
 
-The arithmetic behind Chapter 140 runs on orders of magnitude. An ordinary resident of a wealthy country already accounts for something on the order of ten tonnes of carbon-dioxide-equivalent emissions a year. A settler is no monk: early camp life runs on rockets, life support and manufactured spare parts, so a generous camp-side estimate lands higher, at fifty to a hundred tonnes per person-year. Multiply by ten thousand settlers and the total is half a million to a million tonnes a year. Global industrial emissions run thirty to forty billion tonnes a year, several orders of magnitude more.
+The arithmetic behind Chapter 141 runs on orders of magnitude. An ordinary resident of a wealthy country already accounts for something on the order of ten tonnes of carbon-dioxide-equivalent emissions a year. A settler is no monk: early camp life runs on rockets, life support and manufactured spare parts, so a generous camp-side estimate lands higher, at fifty to a hundred tonnes per person-year. Multiply by ten thousand settlers and the total is half a million to a million tonnes a year. Global industrial emissions run thirty to forty billion tonnes a year, several orders of magnitude more.
 
 As in the other books, all of this is optional supporting detail. The argument stands without it; the numbers are here for anyone who wants to check the arithmetic.

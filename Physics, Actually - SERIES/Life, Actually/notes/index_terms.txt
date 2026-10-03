@@ -160,3 +160,10 @@ Wallace, Alfred Russel | Wallace
 Watson, James | Watson
 Wilkins, Maurice | Wilkins
 Wow! signal | Wow!
+Bartlett, Frederic | Bartlett
+Brain in a vat
+Descartes, René | Descartes
+False memory | false memor(?:y|ies)
+Loftus, Elizabeth | Loftus
+Mandela effect
+Seth, Anil | Anil Seth

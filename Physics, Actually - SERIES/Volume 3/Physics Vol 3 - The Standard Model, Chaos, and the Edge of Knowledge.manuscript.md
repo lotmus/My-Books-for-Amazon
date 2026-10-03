@@ -1932,6 +1932,18 @@ It helps to think about surprising results with a little arithmetic. Before OPER
 
 Both possibilities explain the measurement equally well. So the measurement itself does not change their ratio, and that ratio was about a hundred thousand to one in favor of an error. The rational response to OPERA's announcement was not to believe it, and not to dismiss it either, but to say: almost certainly an error, so let us find it, and let us check with an independent experiment just in case. That is exactly what the physics community did. The same arithmetic explains why a surprising result that is confirmed by several independent teams, using different methods with different possible errors, becomes convincing very quickly.
 
+### A Worked Example: Grading the Simulation Hypothesis
+
+Here is a crazy idea people ask about more than almost any other: we are living inside a computer simulation. The philosopher Nick Bostrom gave it its modern form in 2003. If civilizations often become able to run detailed simulations of minds, and often choose to, then simulated minds would vastly outnumber original ones, and you should expect to be one of them. It is a serious argument about probabilities. Run it through the four boxes anyway.
+
+Is it GREEN? No observation has ever confirmed it. YELLOW? A yellow idea is a powerful theory with incomplete support, which means it makes predictions that some future experiment could check. The simulation hypothesis, as usually stated, makes none that its own defenders would accept as decisive. Search for a pixel-like grain in spacetime and find none, and the reply is that the simulators used a finer grid. Find something strange, and the reply could just as easily be that physics is stranger than we thought.
+
+That is the warning sign. Ask what could kill it. If the honest answer is nothing, the idea is not ORANGE either, because an orange idea still offers a mechanism that further work could test. Presented as a claim about our world, the simulation hypothesis belongs in the RED box. It is not a stupid idea. As presented, it is just not a scientific one.
+
+Two narrower versions do better. The first gets specific: a universe computed on a particular kind of grid would leave particular marks on the highest-energy cosmic rays. That is testable, which moves it toward ORANGE, and so far the evidence has gone against it (Volume 2 of this series tells that story). The second is about cost. Simulating quantum matter exactly on an ordinary computer gets exponentially more expensive as the system grows. Each extra particle with two possible states doubles the list of numbers needed to describe it, and about three hundred such particles would need more numbers than there are atoms in the observable universe. That doesn’t prove a simulation is impossible, since a simulator might use a quantum computer or cut corners. It does show that “they just have a very big computer” is not an explanation.
+
+The colors don’t end the conversation. They tell you what kind of conversation you are having.
+
 ### The Reader's Superpower
 
 By the end of this book, you should be able to hear: “Scientists have discovered…” and immediately ask: “Discovered—or proposed?”
@@ -1941,6 +1953,16 @@ You should be able to hear: “This theory explains…” and ask: “Explains w
 And when someone says: “Physics has proved…” you should become slightly suspicious. Not cynical.
 
 Curious.
+
+### What If All the Signals Lie?
+
+One suspicion sounds as if it could end every argument in this book: what if all of it is fake? Every measurement here reached a physicist as a signal, whether a click, a voltage, a number on a screen or a pattern on a retina. A clever enough deceiver could, in principle, fake them all.
+
+Philosophers have taken that worry seriously since René Descartes imagined a deceiving demon in 1641, and no experiment can rule it out completely, because any experiment would arrive as one more signal. But science does not need to defeat the demon to make progress. It needs something more modest: claims that keep agreeing when they are checked by routes that could each fail in different ways.
+
+The Higgs boson was found by two separate detectors, ATLAS and CMS, built by separate teams with different technologies, and both saw a new particle near 125 GeV. A fake would have to be faked consistently across machines, teams and decades, and keep matching predictions written down before anyone looked. OPERA’s faster-than-light neutrinos failed exactly this test; the Higgs passed it. A deception that survived every cross-check would be indistinguishable from a world that really works that way, and no measurement can promise more than that.
+
+So the honest answer to “What if the signals lie?” is not “They can’t.” It is this: then they lie in perfect agreement, across every independent route we have, and that agreement is what we mean by knowing.
 
 ### The Punchline
 
@@ -2446,6 +2468,8 @@ Quantum systems. So ask the next question. Could the universe simulate the entir
 The simulator is inside the universe. So the simulation has to include the simulator. Which has to include the simulation. Which has to include the simulator.
 
 Congratulations. You have invented the cosmic version of putting two mirrors opposite each other. The reflections keep going. The computer bill does too.
+
+There is one escape hatch, and it is worth naming. A simulator does not have to copy itself at full resolution. A weather model doesn’t track every raindrop; it tracks averages on a grid and still forecasts tomorrow. A universe-sized computer could model itself the same way, coarsely, and the mirror regress would fade after a few reflections, each copy blurrier than the last. What it could not do is model itself completely, every particle included, the ones doing the modeling among them. A blurry self-portrait can be useful. It can’t be exact.
 
 ### Gödel Does Not Prove Physics Is Impossible
 

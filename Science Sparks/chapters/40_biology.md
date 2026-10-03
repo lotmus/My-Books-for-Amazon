@@ -1,4 +1,4 @@
-## 251. What Is Life? Schrödinger's Question and the Order in the Disorder
+## 253. What Is Life? Schrödinger's Question and the Order in the Disorder
 
 *Status: Settled; the definition of life itself is still debated.*
 
@@ -22,7 +22,7 @@ It helps to think of life as a process, the way a candle flame or a whirlpool in
 
 The flame and the whirlpool are also where the analogy stops, and the stopping point is instructive. A candle flame never produces a slightly different flame that competes with it for wax and sometimes wins; a whirlpool never leaves offspring whirlpools, some better at surviving turbulence than others. Nothing in them is copied, varied, or selected. Chemistry has been happening since the Big Bang. The threshold worth caring about is the moment a flowing pattern first made the leap from merely persisting to copying itself, varying in the copying, competing for resources, and evolving as a result. That extra ledger of copying, variation, and competition is the whole difference between a flame and a bacterium, and no amount of staring at either one as "just a process" will get you there.
 
-## 252. The Chemistry Underneath: Atoms, Water and the Quantum Rules of Life
+## 254. The Chemistry Underneath: Atoms, Water and the Quantum Rules of Life
 
 *Status: Settled.*
 
@@ -42,9 +42,9 @@ Proteins, the cell's workhorses, are chains built from twenty types of amino aci
 
 A famous 1953 experiment showed how easy the first step is: simple gases and water, given a spark meant to simulate lightning, produced amino acids within about a week. Life's basic building blocks form readily under the right conditions. Assembling those blocks into something that can replicate itself remains the far harder, and still unsolved, problem.
 
-Finally, a caution against "quantum mysticism." All matter, right down to a brick, is quantum mechanical at bottom, so pointing out that quantum mechanics underlies some biological process proves nothing on its own. Chapter 255 returns to this and looks specifically for quantum effects that classical physics cannot mimic.
+Finally, a caution against "quantum mysticism." All matter, right down to a brick, is quantum mechanical at bottom, so pointing out that quantum mechanics underlies some biological process proves nothing on its own. Chapter 257 returns to this and looks specifically for quantum effects that classical physics cannot mimic.
 
-## 253. How Could Life Have Started? Clay, Vents, RNA and the First Protocells
+## 255. How Could Life Have Started? Clay, Vents, RNA and the First Protocells
 
 *Status: Serious but unconfirmed.*
 
@@ -68,7 +68,7 @@ The third is the "parasite problem." A shorter, stripped-down molecule that free
 
 The real threshold was never building something that merely looked cell-like. It was reaching a system capable of full-blown Darwinian evolution, and exactly how that leap happened remains unsolved.
 
-## 254. The First Cells: LUCA, Microbes and the Three-Billion-Year Wait
+## 256. The First Cells: LUCA, Microbes and the Three-Billion-Year Wait
 
 *Status: Settled; the oldest dates are Serious but unconfirmed.*
 
@@ -88,9 +88,9 @@ The cell's turbine is a literal rotor, spun by the flow of protons the way water
 
 Cyanobacteria's invention of splitting water using sunlight was a landmark, and not a happy one for their contemporaries. The process dumps oxygen as a waste product, and oxygen was a poison to most life at the time. The resulting Great Oxidation Event, around 2.4 billion years ago, counts as life's first self-inflicted planetary catastrophe. Some of the survivors were organisms that evolved oxygen-burning metabolism, turning a toxin into fuel.
 
-Even today, microbes outweigh and out-chemistry all animal life combined, quietly running the planet's nitrogen, carbon, and oxygen cycles behind the scenes. As for why complexity waited nearly three billion years before anything bigger showed up, Chapter 263 makes the case that it wasn't for lack of trying: big, complex cells required a merger between two different organisms.
+Even today, microbes outweigh and out-chemistry all animal life combined, quietly running the planet's nitrogen, carbon, and oxygen cycles behind the scenes. As for why complexity waited nearly three billion years before anything bigger showed up, Chapter 265 makes the case that it wasn't for lack of trying: big, complex cells required a merger between two different organisms.
 
-## 255. Quantum Biology: Life on the Edge
+## 257. Quantum Biology: Life on the Edge
 
 *Status: Strange but solid for enzyme tunneling; the other claims are Serious but unconfirmed.*
 
@@ -106,7 +106,7 @@ The radical-pair hypothesis for bird magnetoreception is the most vivid example.
 
 The standing rule bears repeating: finding quantum mechanics underneath a biological process proves nothing by itself. Evolution never asks "is this quantum." It asks "does it work," and only occasionally does a quantum shortcut work better than the classical alternative.
 
-## 256. Darwin's Voyage: How the Big Idea Arrived
+## 258. Darwin's Voyage: How the Big Idea Arrived
 
 *Status: Settled.*
 
@@ -122,9 +122,9 @@ The missing piece of his theory, the actual mechanism, arrived in 1838 from an u
 
 Then Darwin sat on the idea for twenty years, writing extensively and publishing nothing. In 1858 Alfred Russel Wallace, who had arrived independently at essentially the same theory while feverish in the Malay Archipelago, mailed him an essay outlining it. That letter forced a joint reading of both men's work at the Linnean Society and pushed Darwin into rapid publication of "On the Origin of Species" in 1859, a book he modestly described as "one long argument."
 
-Darwin knew about two holes in his theory. He had no mechanism for heredity (the "blending" problem), which wouldn't be solved until Mendel's then-obscure pea experiments were rediscovered decades later. And he had no accurate age for the Earth: the physicist Kelvin's calculation came in far too short, having missed radioactive heating altogether. Natural selection wasn't widely accepted among biologists until mathematics and genetics were merged in the 1920s and 30s, a story Chapter 258 picks up.
+Darwin knew about two holes in his theory. He had no mechanism for heredity (the "blending" problem), which wouldn't be solved until Mendel's then-obscure pea experiments were rediscovered decades later. And he had no accurate age for the Earth: the physicist Kelvin's calculation came in far too short, having missed radioactive heating altogether. Natural selection wasn't widely accepted among biologists until mathematics and genetics were merged in the 1920s and 30s, a story Chapter 260 picks up.
 
-## 257. Natural Selection: The Algorithm Nobody Wrote
+## 259. Natural Selection: The Algorithm Nobody Wrote
 
 *Status: Settled.*
 
@@ -148,9 +148,9 @@ This also answers the old objection, "what use is half an eye?" Every intermedia
 
 Darwin's own opening evidence was nothing exotic: artificial selection. Fancy pigeons were bred from one ordinary rock dove in a few centuries, dogs from wolves over many thousands of years, and cabbage, kale, broccoli, and more all descend from a single wild mustard plant. They served as a fast-forward demonstration of what nature can do given millions of years instead of mere centuries. A pigeon fancier has a goal in mind and hand-picks birds toward it; nature has no fancier and no plan, only whatever the local colander's holes happen to be that century. What the pigeons and cabbages prove is that heritable variation, filtered consistently over enough generations by any standard at all (a breeder's taste, a predator's hunger, a drought's demands), can reshape a species almost beyond recognition, whether or not anyone is doing the filtering on purpose.
 
-Selection has no foresight. It cannot plan ahead, and it isn't secretly aiming at complexity, still less at producing humans. It is a mindless "algorithm" that produces designed-looking results without any designer behind it, an argument Chapter 275 develops at length.
+Selection has no foresight. It cannot plan ahead, and it isn't secretly aiming at complexity, still less at producing humans. It is a mindless "algorithm" that produces designed-looking results without any designer behind it, an argument Chapter 278 develops at length.
 
-## 258. Mendel's Peas and the Modern Synthesis
+## 260. Mendel's Peas and the Modern Synthesis
 
 *Status: Settled.*
 
@@ -166,9 +166,9 @@ Naturalists then checked that mathematics against real wild populations, the for
 
 Population thinking defines evolution itself as change in gene frequency across a population. The Hardy-Weinberg principle of 1908 serves as the "nothing is happening" baseline against which any real evolutionary change gets measured, the way a kitchen scale has to be zeroed empty before its reading for a bag of flour means anything. Hardy-Weinberg calculates what the mix of gene variants would look like generation after generation if nothing pushed on it: no selection, no drift, no new mutations, no migration in or out. No real population sits on that zero mark for long, any more than a kitchen counter stays empty. Knowing where zero is lets a geneticist look at a messy real population and say with confidence that something is going on, and which something.
 
-The modern synthesis left some business for later: how genes build bodies during development, the subject of Chapter 266; the outsized importance of neutral drift, already met in Chapter 257; and the symbiotic gene mergers of Chapter 263.
+The modern synthesis left some business for later: how genes build bodies during development, the subject of Chapter 268; the outsized importance of neutral drift, already met in Chapter 259; and the symbiotic gene mergers of Chapter 265.
 
-## 259. DNA: The Molecule That Remembers
+## 261. DNA: The Molecule That Remembers
 
 *Status: Settled.*
 
@@ -190,11 +190,11 @@ DNA copying is checked and rechecked by proofreading and repair enzymes down to 
 
 Genome size tracks nothing about an organism's complexity. Imagine two manuscripts telling the same short story. One runs a tight fifty pages; the other runs eight hundred, padded with repeated paragraphs nobody bothered to delete, abandoned drafts left in the middle, and margins full of doodles. Page count tells you nothing about which is the better story. A genome's raw size mostly reflects how much repetitive, non-functional material has piled up over time. Onions and lungfish both carry considerably larger genomes than humans do.
 
-The 2012 ENCODE project's claim that 80% of the human genome is "functional" remains disputed among evolutionary biologists, who point out that biochemical activity and function are different things; Chapter 291 returns to the argument, numbers and all. Much of the genome, including the fossilized remains of old viral infections, is probably functionless "junk" that selection doesn't care about. When the Human Genome Project declared the sequence essentially complete in 2003 (the last gaps were finally closed in 2022), it found that humans have only about 20,000 protein-coding genes, fewer, embarrassingly, than a water flea.
+The 2012 ENCODE project's claim that 80% of the human genome is "functional" remains disputed among evolutionary biologists, who point out that biochemical activity and function are different things; Chapter 294 returns to the argument, numbers and all. Much of the genome, including the fossilized remains of old viral infections, is probably functionless "junk" that selection doesn't care about. When the Human Genome Project declared the sequence essentially complete in 2003 (the last gaps were finally closed in 2022), it found that humans have only about 20,000 protein-coding genes, fewer, embarrassingly, than a water flea.
 
 All of it, tidy coding genes and sprawling repetitive filler alike, makes DNA a memory device: a chemical archive that copies itself down through billions of years of cell divisions and preserves, however imperfectly, a working record of everything that came before.
 
-## 260. The Selfish Gene: Evolution From the Gene's Point of View
+## 262. The Selfish Gene: Evolution From the Gene's Point of View
 
 *Status: Settled; the multilevel-selection debate is Serious but unconfirmed.*
 
@@ -214,7 +214,7 @@ The "meme," now a household word for something else entirely, was coined in "The
 
 The framework drew real pushback. A 1979 "spandrels" critique co-written by Stephen Jay Gould warned against assuming every trait must be an adaptation. A cathedral spandrel is a structural byproduct of building two arches next to each other, a feature nobody deliberately designed. And the multilevel-selection debate, over whether selection can act on whole groups as well as on individual genes, remains unresolved among specialists to this day.
 
-## 261. Sex: Evolution's Most Expensive Habit
+## 263. Sex: Evolution's Most Expensive Habit
 
 *Status: Serious but unconfirmed; the costs of sex and the examples are Settled.*
 
@@ -236,11 +236,11 @@ Sexual conflict crops up whenever male and female reproductive interests diverge
 
 As for why there are typically only two sexes, the likely answer is that a middle-of-the-road sex cell, big enough to carry resources but small enough to be cheap, does neither job well and is evolutionarily unstable. That pushes things toward the two extremes: large, resource-rich eggs and small, cheap, mobile sperm. Sex determination itself gets solved differently across lineages: chromosomes in mammals, a reversed chromosome system in birds, temperature in most turtles (which is raising real concern about climate change skewing hatchling sex ratios), and outright lifetime sex change in some fish.
 
-## 262. The Evolution of Niceness: Cooperation, Cheats and Game Theory
+## 264. The Evolution of Niceness: Cooperation, Cheats and Game Theory
 
 *Status: Settled; the role of group selection in human cooperation is Serious but unconfirmed.*
 
-Darwin himself singled out sterile worker insects as, in his own words, "one special difficulty... actually fatal to my whole theory." Kin selection, from Chapter 260, explains help given between relatives well, but it can't explain cooperation between unrelated individuals: vampire bats sharing blood with non-kin, say, or cleaner fish that will service any predator that swims up, related or not.
+Darwin himself singled out sterile worker insects as, in his own words, "one special difficulty... actually fatal to my whole theory." Kin selection, from Chapter 262, explains help given between relatives well, but it can't explain cooperation between unrelated individuals: vampire bats sharing blood with non-kin, say, or cleaner fish that will service any predator that swims up, related or not.
 
 The biologist Robert Trivers supplied the missing piece in 1971 with "reciprocal altruism": aid given to unrelated individuals can persist evolutionarily as long as it's likely to be repaid down the line. Vampire bats are a vivid case. They starve within roughly 60 hours without a meal, and they preferentially regurgitate blood to bats who have reciprocated in the past while shortchanging known freeloaders, running what amounts to a tracked, long-term loan arrangement with their roost-mates.
 
@@ -252,13 +252,13 @@ In a famous series of tournaments, chronicled in the 1984 book "The Evolution of
 
 The concept of an "evolutionarily stable strategy," illustrated with the Hawk-Dove game, shows that neither an all-Hawk population (everyone fights) nor an all-Dove population (everyone backs down) is stable on its own. Each extreme creates an opening for the opposite strategy to invade and spread, so a mixed or conditional strategy tends to persist.
 
-Cooperation happens inside bodies too. Trillions of genetically identical cells specialize into different roles and give up their own independent reproduction for the good of the whole, an arrangement Chapter 264 explores further as the "cheater problem." Cancer is essentially what happens when a single cell defects from that arrangement and starts reproducing for itself again.
+Cooperation happens inside bodies too. Trillions of genetically identical cells specialize into different roles and give up their own independent reproduction for the good of the whole, an arrangement Chapter 266 explores further as the "cheater problem." Cancer is essentially what happens when a single cell defects from that arrangement and starts reproducing for itself again.
 
-Cross-species symbiosis shows how durable cooperation can get. Lichens pair a fungus with an alga, plant roots partner with soil fungi, and bacteria live in your own gut. In rare and consequential cases, cooperation like this merges separate lineages permanently, which is the endosymbiosis story of Chapter 263.
+Cross-species symbiosis shows how durable cooperation can get. Lichens pair a fungus with an alga, plant roots partner with soil fungi, and bacteria live in your own gut. In rare and consequential cases, cooperation like this merges separate lineages permanently, which is the endosymbiosis story of Chapter 265.
 
 Human cooperation among total strangers is partly explained by reputation and gossip, which work like a version of Tit for Tat that doesn't require repeated one-on-one encounters. Whether "group selection," or multilevel selection, is also needed to explain it fully remains disputed among specialists. Either way, niceness needs no special ingredient. It's a strategy that, under the right conditions, wins.
 
-## 263. The Cell With an Engine: Endosymbiosis and the Eukaryote Revolution
+## 265. The Cell With an Engine: Endosymbiosis and the Eukaryote Revolution
 
 *Status: Settled; the Asgard host and Lane's energy argument are Serious but unconfirmed.*
 
@@ -278,7 +278,7 @@ As far as anyone can tell, this particular merger happened only once, close to t
 
 The nucleus, the internal cytoskeleton, and even sex itself likely all arrived as part of the same broad eukaryotic package, though which came first and why is still debated. That leaves a slightly unsettling way to think about your own cells: you are, in one memorable phrase, a committee that has been meeting, without interruption, for two billion years.
 
-## 264. Becoming Many: The Origin of Multicellular Life
+## 266. Becoming Many: The Origin of Multicellular Life
 
 *Status: Settled.*
 
@@ -286,7 +286,7 @@ Multicellularity evolved independently well over twenty separate times, across a
 
 Choanoflagellates, the closest living single-celled relatives of animals, sometimes form colonies that resemble early embryos, hinting that much of the genetic toolkit needed for colonial life predates animals themselves. The Volvox algal lineage is even more instructive, preserving what amounts to a living, step-by-step ladder from solitary single cells, through small colonies, up to fully specialized hollow spheres of thousands of cells that divide labor between swimming cells and protected reproductive cells.
 
-The central hurdle any multicellular arrangement has to clear is the cheater problem previewed in Chapter 262: given the chance, a cell that stops cooperating and simply divides as fast as it can will out-compete its more cooperative neighbors within a colony.
+The central hurdle any multicellular arrangement has to clear is the cheater problem previewed in Chapter 264: given the chance, a cell that stops cooperating and simply divides as fast as it can will out-compete its more cooperative neighbors within a colony.
 
 Franchising offers a useful comparison for the fix evolution actually landed on. Open a new branch by merging staff pulled in from a dozen existing branches, and you import whatever bad habits, corner-cutting, or outright fraud any one of those branches happened to be harboring, company-wide, from day one. Open every new branch instead by cloning a single, freshly vetted employee and building the whole staff up from that one hire, and a bad habit picked up in one branch stays in that branch. It can't hop sideways into every other franchise the way a habit carried in by a merged employee could.
 
@@ -300,11 +300,11 @@ A yeast experiment that began around 2011 has kept running for many years since.
 
 Cancer, in this framework, is the cheater problem recurring in real time inside a living body: a single cell defecting from the cooperative agreement that keeps the whole multicellular organism functioning.
 
-The Ediacaran fossils, dated to roughly 575 to 540 million years ago, are the first large, complex multicellular bodies to show up in the fossil record: strange, often mouthless, frond-like forms whose relationship to modern animals is still debated. Rising atmospheric oxygen, building on the Great Oxidation Event described in Chapter 254, is one likely reason large bodies don't appear any earlier, since simple diffusion alone can't supply enough oxygen to a body of any real size.
+The Ediacaran fossils, dated to roughly 575 to 540 million years ago, are the first large, complex multicellular bodies to show up in the fossil record: strange, often mouthless, frond-like forms whose relationship to modern animals is still debated. Rising atmospheric oxygen, building on the Great Oxidation Event described in Chapter 256, is one likely reason large bodies don't appear any earlier, since simple diffusion alone can't supply enough oxygen to a body of any real size.
 
 All of which leaves you with a fittingly humbling fact: you are a committee of some thirty-seven trillion individual cells, nearly all of which have permanently forfeited their own evolutionary future for your sake.
 
-## 265. The Cambrian Explosion: When Evolution Discovered Body Plans
+## 267. The Cambrian Explosion: When Evolution Discovered Body Plans
 
 *Status: Settled; its causes are Serious but unconfirmed.*
 
@@ -314,17 +314,17 @@ The "Cambrian explosion" spans 540 to 520 million years ago, a geological eyebli
 
 No single cause has been confirmed, though contenders are plentiful. The "light-switch hypothesis," proposed in the early 2000s, suggests that the evolution of the first image-forming eyes triggered a rapid arms race in vision, armor, speed, and burrowing.
 
-Imagine a long-running game of hide-and-seek played entirely in the dark. Nobody can see anybody else, so hiding barely matters, and neither does speed. Now switch the lights on mid-game. Whoever can suddenly see prey gets an enormous one-sided advantage, and everyone else has little choice but to scramble for armor, camouflage, burrows, or speed just to stay in the game. That is the shock the first eyes may have delivered to the Cambrian world, a preview of the coevolution theme in Chapter 269. It remains one contender alongside rising oxygen levels, shifting ocean chemistry, and the genetic toolkit described in Chapter 266.
+Imagine a long-running game of hide-and-seek played entirely in the dark. Nobody can see anybody else, so hiding barely matters, and neither does speed. Now switch the lights on mid-game. Whoever can suddenly see prey gets an enormous one-sided advantage, and everyone else has little choice but to scramble for armor, camouflage, burrows, or speed just to stay in the game. That is the shock the first eyes may have delivered to the Cambrian world, a preview of the coevolution theme in Chapter 271. It remains one contender alongside rising oxygen levels, shifting ocean chemistry, and the genetic toolkit described in Chapter 268.
 
 Anomalocaris, whose name translates loosely to "abnormal shrimp," was the era's largest predator at up to a meter long. It was originally described, rather comically, as three separate unrelated animals before paleontologists realized its mouth, grasping appendages, and swimming body all belonged to one and the same creature.
 
 Hallucigenia suffered an even more embarrassing case of mistaken identity. When first described in the 1970s, it was reconstructed upside down and back-to-front, with its legs mistaken for soft tentacles along its back, its spines mistaken for legs, and a decay artifact mistaken for a head. The eventual correction revealed it as an early relative of today's velvet worms. Science, it turns out, can also flip a fossil the right way up.
 
-Stephen Jay Gould's 1989 book "Wonderful Life" argued that the Burgess Shale animals showed greater anatomical disparity than all of today's animals put together, implying that which body plans happened to survive was largely a matter of chance, an idea Chapter 268 takes up with its "replaying the tape" thought experiment. Later reclassification work, including the correction of Hallucigenia itself, revised that disparity claim downward, revealing more continuity with living animal groups than Gould's account suggested. Self-correction, once again, is the real through-line.
+Stephen Jay Gould's 1989 book "Wonderful Life" argued that the Burgess Shale animals showed greater anatomical disparity than all of today's animals put together, implying that which body plans happened to survive was largely a matter of chance, an idea Chapter 270 takes up with its "replaying the tape" thought experiment. Later reclassification work, including the correction of Hallucigenia itself, revised that disparity claim downward, revealing more continuity with living animal groups than Gould's account suggested. Self-correction, once again, is the real through-line.
 
-Which raises Chapter 266's question: what kind of genetic machinery could allow such rapid, precise innovation in body plans? The answer is an ancient, shared toolkit of body-patterning genes.
+Which raises Chapter 268's question: what kind of genetic machinery could allow such rapid, precise innovation in body plans? The answer is an ancient, shared toolkit of body-patterning genes.
 
-## 266. Evo-Devo: The Genes That Build Bodies
+## 268. Evo-Devo: The Genes That Build Bodies
 
 *Status: Settled.*
 
@@ -346,7 +346,7 @@ Darwin's finches supply another, more tentatively established example: beak dive
 
 "Deep homology," the reuse of whole shared genetic circuits, together with the modular way development is organized, helps explain why a human arm, a bat wing, a whale flipper, and a bird wing all share the same underlying bone-plan blueprint. It is solid evidence for the well-known 1977 image of evolution as a "tinkerer" rather than an engineer, endlessly repurposing old parts and never designing anything from a blank page.
 
-## 267. Mass Extinctions: The Reset Buttons
+## 269. Mass Extinctions: The Reset Buttons
 
 *Status: Settled; today's extinction-rate estimates are Serious but unconfirmed.*
 
@@ -360,13 +360,13 @@ The end-Permian "Great Dying" is now mostly pinned on the Siberian Traps, a sust
 
 Contrary to popular belief, mammals did not wait for the dinosaurs to die out before evolving. They coexisted with dinosaurs for more than 150 million years as small, marginal, largely nocturnal animals, and diversified explosively only once the end-Cretaceous extinction removed the dominant competition standing in their way. Surviving a mass extinction favors organisms that are small, generalist, and widespread over whatever species happened to be "winning" beforehand. Studies of the end-Permian event show that ecological recovery afterward takes millions of years to complete.
 
-Today's extinction rates are elevated, though estimates vary widely, with some suggesting rates tens of times the normal background level and others far higher. The point can be taken seriously without doom-mongering. Fitness, as defined back in Chapter 257, is only ever fitness for whatever circumstances are currently in force, and circumstances have a habit of changing.
+Today's extinction rates are elevated, though estimates vary widely, with some suggesting rates tens of times the normal background level and others far higher. The point can be taken seriously without doom-mongering. Fitness, as defined back in Chapter 259, is only ever fitness for whatever circumstances are currently in force, and circumstances have a habit of changing.
 
-## 268. Replaying the Tape: Contingency, Convergence and Whether Evolution Repeats
+## 270. Replaying the Tape: Contingency, Convergence and Whether Evolution Repeats
 
 *Status: Serious but unconfirmed; the convergence cases and experiments are Settled.*
 
-Stephen Jay Gould's famous "replay the tape" thought experiment, first raised with the Burgess Shale in Chapter 265, deserves a second look. If you could rerun evolution from the Cambrian explosion onward, Gould argued, chance, what he called "contingency," means the outcome, including anything resembling humans, would likely never recur.
+Stephen Jay Gould's famous "replay the tape" thought experiment, first raised with the Burgess Shale in Chapter 267, deserves a second look. If you could rerun evolution from the Cambrian explosion onward, Gould argued, chance, what he called "contingency," means the outcome, including anything resembling humans, would likely never recur.
 
 A 2003 book, "Life's Solution," pushes back hard, using convergent evolution as evidence that physics and chemistry funnel evolution toward a fairly narrow menu of workable solutions, whatever accidents happened to kick things off. The disagreement is really about which everyday process history more closely resembles.
 
@@ -380,13 +380,13 @@ Research on Anolis lizards across Caribbean islands found much the opposite patt
 
 Convergence is never perfect, either. Vertebrate and cephalopod camera eyes solve the same optical problem, but they wire the retina backward and forward respectively, the telltale signature of tinkering from different ancestral starting materials.
 
-Human-level intelligence and language have arisen only once on Earth, with no clearly independent parallel, though crows and octopuses do show independently evolved, sophisticated problem-solving. Humans were likely not evolutionarily inevitable, a conclusion that bears directly on the exobiology question in Chapter 281.
+Human-level intelligence and language have arisen only once on Earth, with no clearly independent parallel, though crows and octopuses do show independently evolved, sophisticated problem-solving. Humans were likely not evolutionarily inevitable, a conclusion that bears directly on the exobiology question in Chapter 284.
 
-## 269. Arms Races: Coevolution, Parasites and the Red Queen Again
+## 271. Arms Races: Coevolution, Parasites and the Red Queen Again
 
 *Status: Settled; the Toxoplasma claim is Serious but unconfirmed.*
 
-The Red Queen logic introduced in Chapter 261 extends beyond sex to any ongoing coevolutionary arms race: two species locked in mutual escalation with no finish line, because every improvement made by one side triggers a countering adaptation from the other, and the race just continues.
+The Red Queen logic introduced in Chapter 263 extends beyond sex to any ongoing coevolutionary arms race: two species locked in mutual escalation with no finish line, because every improvement made by one side triggers a countering adaptation from the other, and the race just continues.
 
 The military phrase smuggles in one wrong assumption. A military arms race involves engineers who read intelligence reports and deliberately design a response; between a newt and a snake, nobody is watching or planning anything. Individual newts with slightly more toxin simply survive slightly more often, individual snakes with slightly more resistance simply survive slightly more often, and generation after generation of that blind filtering produces the same escalating pattern a pair of rival engineers would, minus the engineers, the intelligence reports, and any awareness on either side that a race is underway.
 
@@ -404,7 +404,7 @@ Humans supply their own examples of ongoing arms races. Sickle cell trait persis
 
 Mimicry adds a subtler kind of contest. In Batesian mimicry, a harmless species copies the warning coloration of a dangerous one (hoverflies resembling wasps, for instance). In Müllerian mimicry, several dangerous species converge on one shared warning pattern to their mutual benefit. Cuckoo eggs, meanwhile, have evolved to closely match their host species' eggs, while the hosts evolve sharper detection abilities: an arms race between a brood parasite and its host's own parental instincts.
 
-## 270. Out of Africa: The Human Story
+## 272. Out of Africa: The Human Story
 
 *Status: Settled; the Homo naledi burial claim is Serious but unconfirmed.*
 
@@ -424,9 +424,9 @@ The human family tree is "bushy, not a ladder": several species coexisted at onc
 
 Genetically, humans are unusually low in diversity for a species, evidence of past population bottlenecks. When a crowded venue has to empty through a single narrow doorway during some crisis, whoever happens to fit through in that moment, carrying whatever traits they carry, becomes the entire founding population on the other side, regardless of how much variety existed in the crowd beforehand. A species-wide bottleneck works the same way: a population crashes to a small surviving group, and everything alive afterward descends from whatever narrow genetic slice that group carried through the doorway, with most of the original variety lost for good. Most genetic variation that does remain exists within any given population rather than between traditionally recognized racial groups, which undercuts the idea of any deep genetic basis for racial divisions.
 
-What truly makes humans distinct from other animals remains unsettled. Candidates include uniquely generative language, cumulative culture (the subject of Chapter 274), and large-scale cooperation among non-kin (Chapter 262). Most likely it is some tinkered-together combination of all three.
+What truly makes humans distinct from other animals remains unsettled. Candidates include uniquely generative language, cumulative culture (the subject of Chapter 276), and large-scale cooperation among non-kin (Chapter 264). Most likely it is some tinkered-together combination of all three.
 
-## 271. Still Evolving: Evolution You Can Watch
+## 273. Still Evolving: Evolution You Can Watch
 
 *Status: Settled.*
 
@@ -434,21 +434,21 @@ Evolution is ongoing weather rather than finished history, and it can be observe
 
 A long-running study of finches on Daphne Major in the Galapagos, underway since 1973, produced one of the most complete continuous records of selection in a wild population. A severe 1977 drought favored birds with larger, harder beaks capable of cracking tougher seeds, driving a measurable increase in average beak size within a single generation, and a later, wetter period reversed the trend right back.
 
-The E. coli experiment from Chapter 268 makes the same point from a different angle: under sustained pressure, evolution is continuous and ongoing, happening now as much as in the deep past.
+The E. coli experiment from Chapter 270 makes the same point from a different angle: under sustained pressure, evolution is continuous and ongoing, happening now as much as in the deep past.
 
-Pesticide and herbicide resistance in agricultural pests follows exactly the same logic as the antibiotic resistance of Chapter 269, which is why growers now deliberately rotate chemicals to slow the pests' evolutionary response.
+Pesticide and herbicide resistance in agricultural pests follows exactly the same logic as the antibiotic resistance of Chapter 271, which is why growers now deliberately rotate chemicals to slow the pests' evolutionary response.
 
 Italian wall lizards introduced to a small Croatian island in the 1970s evolved a new head shape, a stronger bite, and entirely novel gut structures for digesting plant matter, all within just a few decades: a documented case of rapid anatomical innovation that goes well beyond shifting an existing trait. Urban environments show similar effects. New York City's white-footed mice have genetically diverged from nearby rural populations, and some urban lizard populations have evolved longer sprinting limbs better suited to pavement.
 
 African elephants in poaching-heavy regions of Mozambique show sharply elevated rates of tusklessness, especially among females, a case of directional selection driven directly by human economic activity: ivory poaching.
 
-Humans supply their own well-documented cases. Lactase persistence, the ability to digest milk into adulthood, spread rapidly through dairying populations over the last several thousand to ten thousand years, a clean example of gene-culture coevolution. Tibetan high-altitude adaptation, via a gene called EPAS1, was inherited wholesale from interbreeding with Denisovans (see Chapter 270) and then strongly selected for once it proved useful at altitude. Skin pigmentation variation reflects a recent evolutionary balancing act between synthesizing enough vitamin D and protecting against UV damage.
+Humans supply their own well-documented cases. Lactase persistence, the ability to digest milk into adulthood, spread rapidly through dairying populations over the last several thousand to ten thousand years, a clean example of gene-culture coevolution. Tibetan high-altitude adaptation, via a gene called EPAS1, was inherited wholesale from interbreeding with Denisovans (see Chapter 272) and then strongly selected for once it proved useful at altitude. Skin pigmentation variation reflects a recent evolutionary balancing act between synthesizing enough vitamin D and protecting against UV damage.
 
 Whether humans remain under any meaningful selection pressure today is debated. Some studies do detect weak but real selection on traits like age at first reproduction, though modern medicine has likely blunted the overall intensity of selection considerably.
 
-Humans have also begun "taking the wheel" of their own evolution. Nobel-winning work on directed evolution, honored in 2018, artificially accelerates mutation and selection in the laboratory, and CRISPR gene editing now allows bypassing natural selection's trial-and-error process altogether. Deliberate steering itself is nothing new: Chapter 257's pigeon fanciers and cabbage breeders reshaped other species on purpose long before anyone understood genes. CRISPR marks a narrower and, if anything, stranger first: a species editing its own genetic letters directly, instead of only selecting among variations that arose on their own.
+Humans have also begun "taking the wheel" of their own evolution. Nobel-winning work on directed evolution, honored in 2018, artificially accelerates mutation and selection in the laboratory, and CRISPR gene editing now allows bypassing natural selection's trial-and-error process altogether. Deliberate steering itself is nothing new: Chapter 259's pigeon fanciers and cabbage breeders reshaped other species on purpose long before anyone understood genes. CRISPR marks a narrower and, if anything, stranger first: a species editing its own genetic letters directly, instead of only selecting among variations that arose on their own.
 
-## 272. Brains, Instincts and the Evolution of Behavior
+## 274. Brains, Instincts and the Evolution of Behavior
 
 *Status: Settled; Dunbar's number is Serious but unconfirmed.*
 
@@ -456,7 +456,7 @@ Nervous systems exist, at bottom, to coordinate sensing with movement and, in mo
 
 Imagine a large office with no manager, where every desk is wired directly to the nearby desks with one simple rule: "if your neighbor is moving, you move too." The whole floor can still file out the door in an orderly way during a fire drill, with nobody in charge and no memo issued from the top. A jellyfish's nerve net runs on that same no-manager principle, and it works fine for a body whose main job is contracting and drifting. What the office cannot do is plan next quarter's strategy, weigh options against each other, or remember last year's mistake. Neither can a nerve net, and that gap is exactly what a centralized brain exists to close.
 
-Brains are metabolically expensive equipment. The human brain alone consumes close to a fifth of your resting energy budget despite accounting for only about 2% of your body mass, so a bigger brain has to earn its keep through a tangible payoff in survival or reproduction, the cost-benefit logic laid out back in Chapter 257.
+Brains are metabolically expensive equipment. The human brain alone consumes close to a fifth of your resting energy budget despite accounting for only about 2% of your body mass, so a bigger brain has to earn its keep through a tangible payoff in survival or reproduction, the cost-benefit logic laid out back in Chapter 259.
 
 Instinct and learning work as partners, despite how they're often framed. Konrad Lorenz's classic imprinting experiments showed that goslings carry an innate rule, "follow the first moving thing you see," while the specific content that rule gets filled in with, whether that's a goose or Lorenz himself in his famous photographs, comes entirely from experience.
 
@@ -470,13 +470,13 @@ Sophisticated tool-using intelligence has evolved independently at least twice. 
 
 Play, for all its energy cost and injury risk, is best explained as low-stakes rehearsal for skills that will matter later in life (predator evasion, fighting, social navigation): an evolutionary investment made up front against a future payoff.
 
-Daniel Dennett's "Tower of Generate-and-Test," which Chapter 275 returns to, ranks behavioral flexibility in four rough tiers, meant as an illustration rather than a strict universal sequence. Darwinian creatures have behavior fixed by instinct and tested only by natural selection across generations. Skinnerian creatures learn through real-world trial and error within a single lifetime. Popperian creatures can internally simulate and test possible actions before acting on them. Gregorian creatures, humans alone so far as we know, additionally borrow cognitive tools like language from other minds around them.
+Daniel Dennett's "Tower of Generate-and-Test," which Chapter 278 returns to, ranks behavioral flexibility in four rough tiers, meant as an illustration rather than a strict universal sequence. Darwinian creatures have behavior fixed by instinct and tested only by natural selection across generations. Skinnerian creatures learn through real-world trial and error within a single lifetime. Popperian creatures can internally simulate and test possible actions before acting on them. Gregorian creatures, humans alone so far as we know, additionally borrow cognitive tools like language from other minds around them.
 
 Touching a hot stove shows what separates the four tiers. A purely Darwinian creature "learns" only in the sense that individuals careless around heat die out over generations, leaving descendants with instincts already tuned to avoid it, at a brutal cost paid one whole lifetime at a time. A Skinnerian creature touches the stove, gets burned once, and remembers not to do that again: real trial and error, but only after the error, and the burn, actually happen. A Popperian creature never needs to touch it at all. It pictures the outcome in advance, well, that will hurt, and skips the burn, testing the action safely inside its own head. A Gregorian creature skips even the imagining, because a parent simply says "don't touch that, it's hot," and it borrows someone else's already-tested knowledge through language. Each tier is cheaper, in pain and time, than the one before it, which is the whole point of the tower.
 
-The next step is a brain that models itself as well as the external world, the "strange loop" of Chapter 273.
+The next step is a brain that models itself as well as the external world, the "strange loop" of Chapter 275.
 
-## 273. Evolution, Self-Reference and the Strange Loop
+## 275. Evolution, Self-Reference and the Strange Loop
 
 *Status: Serious but unconfirmed; the feedback between organisms and environment is Settled.*
 
@@ -484,11 +484,11 @@ Douglas Hofstadter's ideas about strange loops and Gödelian self-reference desc
 
 The classic everyday picture is a video camera pointed at the television screen displaying its own live feed. The screen shows the screen showing the screen, an image folding back into itself and receding toward infinity. That captures the folding back. A brain modeling itself differs in one crucial way: it settles. It builds one workable, updatable model of "me," good enough to predict your own habits and fatigue by, and it stops there instead of modeling the model of the model of the model forever. The loop is real; the infinite regress belongs to the camera.
 
-None of this settles what that self-model is like from the inside, or whether it has to be like anything at all. That harder question stays open, deliberately, for Chapters 276 and 278.
+None of this settles what that self-model is like from the inside, or whether it has to be like anything at all. That harder question stays open, deliberately, for Chapters 279 and 281.
 
 Gödel's mathematics is used here loosely, as a structural analogy: a system becoming powerful enough to make statements about systems that include itself. It makes no claim to be a literal theory of how evolution works.
 
-The "self" is a pattern maintained by many interacting brain processes working in parallel: a model of the world, a model of your body, memory, goals, a model of other people, and a model of yourself, all running at once. There is no homunculus or "tiny CEO" sitting behind your forehead pulling levers. This is the flame-and-whirlpool image from Chapter 251 again.
+The "self" is a pattern maintained by many interacting brain processes working in parallel: a model of the world, a model of your body, memory, goals, a model of other people, and a model of yourself, all running at once. There is no homunculus or "tiny CEO" sitting behind your forehead pulling levers. This is the flame-and-whirlpool image from Chapter 253 again.
 
 Self-modeling is practically useful. Being able to predict your own habits, your fatigue, or your panic responses lets you plan around them in advance, which gives self-awareness perfectly ordinary evolutionary roots.
 
@@ -496,7 +496,7 @@ The loop extends outward, too. Organisms modify their own environment (beavers, 
 
 Evolution, to repeat an earlier refrain, "was trying to survive Tuesday." It never knew, and never could have known, where any of this was ultimately going. Consciousness itself is probably unnecessary for evolution in general, since bacteria and plants clearly evolve without any hint of it, but it is plausibly an emergent later layer, built on top of information processing that was already working perfectly well without it.
 
-## 274. Evolution, Analogy, Language and Culture
+## 276. Evolution, Analogy, Language and Culture
 
 *Status: Serious but unconfirmed; that culture accumulates and evolves is Settled.*
 
@@ -508,13 +508,27 @@ Stories, in this framework, are compact, structured "information packages" built
 
 Cultural evolution carries a real hazard: it selects for whatever is transmissible, memorable, emotionally powerful, and socially rewarded, whether or not it happens to be true. A false belief can spread every bit as well as an accurate one, or better. Science is a cultural system with an extra layer of quality control bolted on: its ideas have to survive experiment and criticism, on top of any popularity contest, to stick around.
 
-The strange loop of Chapter 273 also works at the collective level. Cultures develop ideas about culture itself, science studies science itself, and evolution has, in a fittingly recursive twist, produced organisms capable of studying evolution.
+The strange loop of Chapter 275 also works at the collective level. Cultures develop ideas about culture itself, science studies science itself, and evolution has, in a fittingly recursive twist, produced organisms capable of studying evolution.
 
 Creativity is "evolution with a shorter generation time": internal variation, selection, and retention of ideas, all happening within seconds inside a single mind. Humor is a small cognitive shock that occurs when the brain's prediction gets violated and a new interpretive pattern is suddenly, satisfyingly found.
 
 The chain of dependencies runs long: a brain evolved to survive, then to predict, then to imagine; then came language, then culture, then cumulative culture, then science, ending, aptly, with evolution "being explained by one of the organisms it produced."
 
-## 275. Darwin's Dangerous Idea and the Mind in Multiple Drafts
+## 277. The Same Wrong Memory in Many Heads
+
+*Status: Settled that memory is reconstructive; why particular false memories spread is Serious but unconfirmed.*
+
+Ask a room full of people how the famous line in the old space film goes, and many will say, "Luke, I am your father." The line in the film is "No, I am your father." The error is not one person's slip. It is the same slip, made the same way, by millions.
+
+Memory is not a recording. Each time you recall something, the brain rebuilds it from fragments, gist and expectation, and it can absorb new material in the rebuilding. In 1932 the psychologist Frederic Bartlett had people retell an unfamiliar folk tale and found that each retelling drifted toward the familiar: strange details dropped out, and the story became more like the stories the tellers already knew. In 1974 Elizabeth Loftus and John Palmer showed people a film of a car accident and asked how fast the cars were going when they "smashed into" or "hit" each other. The "smashed" group gave higher speeds, and a week later they were more than twice as likely to remember broken glass. The film showed none.
+
+In 2010 a writer noticed that she and many others remembered news coverage of Nelson Mandela dying in prison in the 1980s. In fact he walked free in 1990, became president of South Africa in 1994 and died in 2013. The name stuck: the Mandela effect is a false memory shared by many people. The children's books are the Berenstain Bears, though many readers remember "Berenstein." The man on the Monopoly box wears no monocle. In 2022 psychologists at the University of Chicago found that such errors are consistent across people for particular images, and that they are not simply a matter of having seen the image less often.
+
+Shared errors have shared causes. A familiar pattern pulls the memory toward it: "-stein" is a far commoner ending than "-stain," and cartoon gentlemen in top hats often do wear monocles. A misquote that travels further than the original becomes the version people heard. And people remember together: hearing someone else's confident version can rewrite your own. Agreement among a thousand people who share those causes is not a thousand independent witnesses. It is closer to one.
+
+Why would evolution build a memory this loose? Because memory exists to guide what you do next, not to archive what happened. Keeping the gist and filling the gaps with what usually happens is cheap and generalizes well, and Chapter 276 showed how culture then selects for what is memorable over what is true. The price is error that is systematic and therefore shared. Some people prefer an explanation in which timelines have merged, or the world has quietly changed. No evidence supports it, and the quantum branches of the many-worlds reading, if they exist, stop interfering once they decohere, so they could not trade memories either. The ordinary explanation is stranger and better: every brain rebuilds the past each time it looks.
+
+## 278. Darwin's Dangerous Idea and the Mind in Multiple Drafts
 
 *Status: Serious but unconfirmed; natural selection itself is Settled.*
 
@@ -522,19 +536,19 @@ Daniel Dennett's 1995 book "Darwin's Dangerous Idea" calls natural selection a "
 
 Dennett's key image contrasts skyhooks with cranes. A skyhook is a miraculous, top-down explanation that simply asserts a result without showing how it was built; a crane is a structure built from the ground up, using perfectly ordinary materials and leverage, one step at a time. Natural selection, on this account, is "the crane to end all cranes," capable of building complexity like eyes or brains without ever borrowing a skyhook from anywhere.
 
-Dennett extends Chapter 257's "algorithm" framing of selection by calling it "substrate-neutral": it needs only variation, heredity, and differential reproduction, and it doesn't much care what material supplies those three ingredients. That's why the same underlying logic can run through DNA, through culture and memes (Chapters 260 and 274), and conceivably even through machines, a possibility Chapter 277 explores.
+Dennett extends Chapter 259's "algorithm" framing of selection by calling it "substrate-neutral": it needs only variation, heredity, and differential reproduction, and it doesn't much care what material supplies those three ingredients. That's why the same underlying logic can run through DNA, through culture and memes (Chapters 262 and 276), and conceivably even through machines, a possibility Chapter 280 explores.
 
 Drawing on his earlier 1991 book "Consciousness Explained," Dennett rejects what he calls the "Cartesian theater" model of mind: an inner screen with a little homunculus watching it, which only pushes the explanatory problem into an infinite regress of ever-smaller homunculi watching homunculi. In its place he proposes the "multiple drafts model," in which many parallel, competing, unfinished neural processes draft and revise your experience continuously, with no single moment or place where any one draft becomes the official, final conscious version.
 
 A newsroom on a breaking story is a closer picture than a single reporter reading a finished article aloud. Several competing drafts get written and revised at once, headlines and phrasing shifting continuously, and nobody ever formally stamps one draft "final" before the next revision overtakes it. Yet a reader picking up the paper the next morning experiences one coherent story. Dennett thinks your own moment-to-moment experience pulls the same trick: it feels unified and singular from the inside, assembled out of a messy, unresolved, multi-draft process underneath, with no editor-in-chief required to make the final call.
 
-The "intentional stance," from a 1987 book of the same name, is a practical strategy with no deep metaphysical claim attached: treat a system (a thermostat, a chess program, an animal) as if it has beliefs and desires, and the stance is useful in direct proportion to how well it predicts the system's behavior. Chapter 277 applies the same tool to AI.
+The "intentional stance," from a 1987 book of the same name, is a practical strategy with no deep metaphysical claim attached: treat a system (a thermostat, a chess program, an animal) as if it has beliefs and desires, and the stance is useful in direct proportion to how well it predicts the system's behavior. Chapter 280 applies the same tool to AI.
 
-Dennett's account of "free will worth wanting" redefines free will, within a mechanistic universe, as the practical capacity to weigh options and act according to one's own considered values. That requires only a sufficiently capable deliberator, what Chapter 272 called a "Popperian creature." No uncaused first cause needs to reach in from outside the laws of physics.
+Dennett's account of "free will worth wanting" redefines free will, within a mechanistic universe, as the practical capacity to weigh options and act according to one's own considered values. That requires only a sufficiently capable deliberator, what Chapter 274 called a "Popperian creature." No uncaused first cause needs to reach in from outside the laws of physics.
 
-Dennett has real critics. Stephen Jay Gould accused him of "Darwinian fundamentalism," meaning he overcredited selection while underweighting chance and structural byproducts. The philosophical "hard problem" objection holds that Dennett's model explains behavior and verbal reports perfectly well but never quite explains why any of that processing should be accompanied by felt experience at all. That objection remains unresolved, and Chapter 278 returns to it. Dennett also co-edited "The Mind's I" in 1981 together with Douglas Hofstadter, the subject of the next chapter.
+Dennett has real critics. Stephen Jay Gould accused him of "Darwinian fundamentalism," meaning he overcredited selection while underweighting chance and structural byproducts. The philosophical "hard problem" objection holds that Dennett's model explains behavior and verbal reports perfectly well but never quite explains why any of that processing should be accompanied by felt experience at all. That objection remains unresolved, and Chapter 281 returns to it. Dennett also co-edited "The Mind's I" in 1981 together with Douglas Hofstadter, the subject of the next chapter.
 
-## 276. The Mind's I: Evolution and the Self
+## 279. The Mind's I: Evolution and the Self
 
 *Status: Serious but unconfirmed; substrate independence is Speculative.*
 
@@ -548,11 +562,11 @@ The self-referential regress, "I know that you know that I am afraid," can look 
 
 The brain is a messy historical construction, "less like a clean computer and more like a city where nobody demolished anything," layering old evolutionary solutions on top of each other with no coherent, from-scratch, orderly design.
 
-The "hard problem" of consciousness remains unresolved here too. Even a full explanation of every neural process involved would still leave open why any of it feels like something from the inside, and Chapter 278 takes the question up again.
+The "hard problem" of consciousness remains unresolved here too. Even a full explanation of every neural process involved would still leave open why any of it feels like something from the inside, and Chapter 281 takes the question up again.
 
 The self as a process, a whirlpool or a flame, raises a further open question: could a mind in principle run on a different substrate entirely, such as silicon or a simulation? Substrate independence remains unproven in either direction.
 
-## 277. Can a Mind Be Built? Evolution and AI
+## 280. Can a Mind Be Built? Evolution and AI
 
 *Status: Serious but unconfirmed; machine intelligence is Settled, machine experience Speculative.*
 
@@ -572,7 +586,7 @@ Evolution itself could also occur inside machines, if artificial systems come to
 
 The circle closes neatly: evolution produced minds, minds produced machines, and machines may eventually help minds understand how minds evolved in the first place.
 
-## 278. Does It Feel Like Anything? Consciousness, Evolution and AI
+## 281. Does It Feel Like Anything? Consciousness, Evolution and AI
 
 *Status: Speculative; the easy-versus-hard distinction itself is Settled.*
 
@@ -590,11 +604,11 @@ Evolution "selects, it doesn't think," so it could equally well have built feeli
 
 The stakes are practical. Treating machines as unfeeling for too long risks serious moral harm if it turns out they do feel something, while treating them as feeling too soon risks wasting moral concern on what might be nothing more than "sophisticated puppets." A third option is Dennett's deflationary view, shared by other philosophers of mind: the inner glow of consciousness was always just a story the brain tells about itself, which, if true, would put humans and machines in exactly the same boat. Humor, and unexpected laughter specifically, is one small, hard-to-fake signal worth watching for, though it would settle nothing on its own.
 
-## 279. Robots and AI Right Now: Before the Robot Takeover
+## 282. Robots and AI Right Now: Before the Robot Takeover
 
 *Status: Settled; the forecasts are Serious but unconfirmed.*
 
-Before Hans Moravec's speculative "mind children" future in Chapter 280, it helps to see where AI and robotics actually stand. AI has gotten very good at language, reasoning, code, images, and multi-step tasks, but "talking is the easy part for a robot." Physically picking up something as simple as a coffee cup involves perception, force control, and real-world physics that fluent language never once has to solve.
+Before Hans Moravec's speculative "mind children" future in Chapter 283, it helps to see where AI and robotics actually stand. AI has gotten very good at language, reasoning, code, images, and multi-step tasks, but "talking is the easy part for a robot." Physically picking up something as simple as a coffee cup involves perception, force control, and real-world physics that fluent language never once has to solve.
 
 Robotics is already a massive but distinctly unglamorous industry. Industry estimates put roughly 542,000 industrial robots installed worldwide in 2024 alone, more than twice the figure from a decade earlier, plus somewhere near 200,000 professional service robots sold that same year, mostly for logistics and transportation. The "robot revolution" has been welding cars and moving boxes around for years now. It just hasn't been walking around looking humanoid while it does it.
 
@@ -606,7 +620,7 @@ Dexterous hands and battery or energy limits remain major unsolved engineering c
 
 Today's machines are powerful tools in which some of Moravec's prerequisite ingredients (perception, reasoning, learning, manipulation, autonomy) are beginning to emerge. They are not yet persistent selves with independent goals of their own. They are "the precursor to Moravec," not the thing itself.
 
-## 280. Mind Children and the Robot Takeover
+## 283. Mind Children and the Robot Takeover
 
 *Status: Speculative.*
 
@@ -624,13 +638,13 @@ Moravec's future can go two ways. In the optimistic version, machines preserve a
 
 Even if uploading became technically possible tomorrow, science still could not say whether "you" would survive the process, or whether it would merely produce a well-informed copy that inherits your memories without being you in any meaningful sense. Moravec's vision turns deep metaphysical questions about identity into engineering questions, without ever quite answering them.
 
-## 281. Exobiology: Did Life Come From Outer Space?
+## 284. Exobiology: Did Life Come From Outer Space?
 
 *Status: Serious but unconfirmed; the chemistry is Settled and directed panspermia Speculative.*
 
 Astrobiology, the modern, broader successor term to the older word "exobiology," is the interdisciplinary study of where life begins, whether it might exist elsewhere, and whether it can travel between worlds. The field works from a sample size of exactly one confirmed example of life anywhere: Earth's own.
 
-The chemical ingredients of life, amino acids, sugars, and the CHNOPS elements from Chapter 252, have all been found in meteorites, asteroids, comets, and interstellar material, solid evidence that the raw materials for life are cosmically common. Ingredients are not life, though: "flour and eggs floating in space" doesn't mean a cake got baked anywhere out there.
+The chemical ingredients of life, amino acids, sugars, and the CHNOPS elements from Chapter 254, have all been found in meteorites, asteroids, comets, and interstellar material, solid evidence that the raw materials for life are cosmically common. Ingredients are not life, though: "flour and eggs floating in space" doesn't mean a cake got baked anywhere out there.
 
 Panspermia, the idea that life or its precursors arrived from elsewhere, by meteorite, say, can explain how life might have spread between worlds. It cannot explain how life began in the first place. If Martian microbes seeded early Earth, the question of how life first got started on Mars, or wherever those microbes originally came from, has merely moved house.
 
@@ -642,7 +656,7 @@ Detecting biosignatures from afar, for instance via atmospheric spectroscopy fro
 
 Then there is the Fermi paradox: if intelligence is common in the universe, where is everyone? Ordinary, natural panspermia requires no intelligence at all; the far more speculative "directed panspermia" has life seeded on purpose by some other civilization. Whether life began right here on Earth or arrived from somewhere else, the same unanswered homework question remains on the board: how does non-living chemistry become something capable of Darwinian evolution? The universe, as the joke goes, has "merely changed the classroom."
 
-## 282. The Tube in the Mailbox
+## 285. The Tube in the Mailbox
 
 *Status: Settled.*
 
@@ -660,11 +674,11 @@ That copying is faithful but never perfect. Close to one letter in a billion get
 
 The practical side of genetics has moved fast. Sequencing a full human genome, reading off the entire three-billion-letter text letter by letter, cost something like three billion dollars in 1990, with an estimated fifteen years of work ahead. By the 2020s the same job cost a few hundred dollars and took a day.
 
-CRISPR, turned into a programmable editing tool in 2012, is roughly a find-and-replace for that three-billion-letter book: find one exact sentence and rewrite it (a comparison that deserves real suspicion, taken up properly in Chapter 307). It took gene editing from research curiosity to treatment. Sickle cell disease was effectively "cured" by 2023, at a price of $2.2 million per patient. A baby in Philadelphia received a gene edit custom-built for his own unique mutation in 2025, within six months of diagnosis. And in Shenzhen in 2018, a scientist named He Jiankui edited human embryos before anyone had agreed it was permissible, and went to prison for it.
+CRISPR, turned into a programmable editing tool in 2012, is roughly a find-and-replace for that three-billion-letter book: find one exact sentence and rewrite it (a comparison that deserves real suspicion, taken up properly in Chapter 310). It took gene editing from research curiosity to treatment. Sickle cell disease was effectively "cured" by 2023, at a price of $2.2 million per patient. A baby in Philadelphia received a gene edit custom-built for his own unique mutation in 2025, within six months of diagnosis. And in Shenzhen in 2018, a scientist named He Jiankui edited human embryos before anyone had agreed it was permissible, and went to prison for it.
 
 Theo, age fifteen, finds the whole enterprise "slightly disgusting," a fair review of mailing one's own spit to a stranger for money. Everything needed to answer him is in that tube: the molecule's shape and chemistry, the way it is inherited, the tools scientists have built to read and edit it, where those tools are used today, and the harder questions raised by cloning, agriculture, whole-genome sequencing, personal genomic testing, and the ethics of correcting our own instructions.
 
-## 283. The Eagle, 28 February 1953
+## 286. The Eagle, 28 February 1953
 
 *Status: Settled.*
 
@@ -684,7 +698,7 @@ A second paper, published 30 May 1953, proposed that replication worked by each 
 
 The 1962 Nobel Prize went to Watson and Crick, along with a colleague who had worked on the X-ray data at King's College London. Rosalind Franklin, whose data had been essential, wasn't there to share it; the next chapter is hers. The Eagle now has a plaque and a beer named after the molecule, and visitors come to sit where Crick supposedly sat. The actual discovery happened at a desk, on an ordinary Saturday morning, with cardboard cutouts and a pair of scissors.
 
-## 284. Photo 51
+## 287. Photo 51
 
 *Status: Settled.*
 
@@ -702,17 +716,17 @@ Two pieces of her unpublished work reached Cambridge without her knowledge or co
 
 Franklin left King's for Birkbeck College later in 1953, barred from continuing her DNA work, and went on to do highly regarded research on virus structure. She died of ovarian cancer on 16 April 1958, at thirty-seven. The Nobel Prize is never awarded to the deceased, so she was excluded from the 1962 award, and Watson's unflattering portrayal of her in his 1968 memoir damaged her reputation further. Only later historical reassessment restored her place in the story.
 
-## 285. What the Shape Explains
+## 288. What the Shape Explains
 
 *Status: Settled.*
 
 Once the paired-strand model was on the table, it explained a whole cluster of puzzles at once, almost embarrassingly simply. A cell can copy its own genetic text the way you'd make a plaster cast, by pressing a mold against the original. No intelligence is required, only chemistry doing what chemistry does. The difference is that each cast is a working original that can immediately be cast again: less a mold than a photocopier that outputs more photocopiers.
 
-The 1950 base-ratio finding from Chapter 283, adenine matching thymine and guanine matching cytosine, stopped being a mystery. It follows directly from each base pairing with only one partner. Geometry and chemistry enforce that rule. The two larger, double-ringed bases (adenine and guanine) must pair with the two smaller, single-ringed bases (thymine and cytosine) to keep the helix a consistent width, and the specific pattern of hydrogen-bond donors and acceptors on each base rules out any other combination.
+The 1950 base-ratio finding from Chapter 286, adenine matching thymine and guanine matching cytosine, stopped being a mystery. It follows directly from each base pairing with only one partner. Geometry and chemistry enforce that rule. The two larger, double-ringed bases (adenine and guanine) must pair with the two smaller, single-ringed bases (thymine and cytosine) to keep the helix a consistent width, and the specific pattern of hydrogen-bond donors and acceptors on each base rules out any other combination.
 
 The guanine-cytosine pair forms three hydrogen bonds where the adenine-thymine pair forms only two. That makes guanine-cytosine pairs stronger and raises the temperature at which the double helix comes apart. The effect shows up in heat-loving organisms, whose ribosomal and transfer RNAs tend to have guanine-cytosine-rich stems, even though their genomes as a whole are not reliably richer in guanine and cytosine.
 
-The two strands also run in opposite chemical directions. That detail later forced the copying machinery into an awkward compromise: it builds one new strand continuously and assembles the other in short, stitched-together segments (Chapter 289 has the details). The helix's grooves, meanwhile, let regulatory proteins read the sequence of bases from the outside without unzipping the strands, which is the physical basis for how genes get turned on and off.
+The two strands also run in opposite chemical directions. That detail later forced the copying machinery into an awkward compromise: it builds one new strand continuously and assembles the other in short, stitched-together segments (Chapter 292 has the details). The helix's grooves, meanwhile, let regulatory proteins read the sequence of bases from the outside without unzipping the strands, which is the physical basis for how genes get turned on and off.
 
 The model's central prediction was that replication is "semiconservative": each new double helix is made of one old strand and one freshly built one. A landmark 1958 experiment confirmed it, using nitrogen isotopes to track which strands were old and which were new.
 
@@ -722,9 +736,9 @@ Crick built on all this in 1957 and 1958 to formalize what he called the "centra
 
 The central dogma has since been modestly qualified. The discovery of reverse transcription in 1970 showed that RNA can, in specific circumstances, be copied back into DNA. It has never been overturned where it matters most: information has never been shown to flow from a protein back into a gene.
 
-The shape made one more prediction, easy to overlook at the time. Mutations could arise spontaneously when a base briefly flickers into a rare alternate chemical shape, mispairing before flickering back. Chapter 292 returns to that idea.
+The shape made one more prediction, easy to overlook at the time. Mutations could arise spontaneously when a base briefly flickers into a rare alternate chemical shape, mispairing before flickering back. Chapter 295 returns to that idea.
 
-## 286. The Race Before the Race
+## 289. The Race Before the Race
 
 *Status: Settled.*
 
@@ -740,7 +754,7 @@ Supporting evidence had been piling up alongside. X-ray photographs from 1938 ha
 
 The resistance lasted as long as it did for two reasons. The molecule's apparent chemical simplicity seemed inadequate to encode something as complex as heredity. And the key findings kept coming from bacteriologists and chemists outside mainstream genetics, outsiders whose results the field was slow to absorb.
 
-## 287. Four Letters
+## 290. Four Letters
 
 *Status: Settled.*
 
@@ -762,13 +776,13 @@ That string coils further into a thicker fiber, which loops into larger domains.
 
 The genome's text is identical, letter for letter, in nearly every cell of the body. A skin cell and a liver cell differ in which sections of the same instructions are unpacked and read and which are kept folded away and silent. There are a few exceptions. Red blood cells discard their nucleus, and with it their DNA. Eggs and sperm carry a single copy of the genome instead of two. And every cell accumulates a few mutations of its own over a lifetime.
 
-## 288. The Chemistry Under the Letters
+## 291. The Chemistry Under the Letters
 
 *Status: Settled.*
 
 In Anna's kitchen, one pot going on the stove counts as a busy night. A single one of her cells is, at that same moment, running something like ten thousand simultaneous chemical reactions. All of it rests on a handful of chemical principles.
 
-DNA's backbone is held together by strong covalent bonds, the kind that don't come apart without real chemical intervention. The base pairs connecting the two strands are held by much weaker hydrogen bonds: two between adenine and thymine, three between guanine and cytosine. In the rope-ladder picture from Chapter 283, the side-rails are welded and the rungs are a zipper, built to open and close on demand. That asymmetry is the point. The backbone must be sturdy, but the connections between strands must be weak enough for the cell to pry the helix open and read it without scrambling the sequence.
+DNA's backbone is held together by strong covalent bonds, the kind that don't come apart without real chemical intervention. The base pairs connecting the two strands are held by much weaker hydrogen bonds: two between adenine and thymine, three between guanine and cytosine. In the rope-ladder picture from Chapter 286, the side-rails are welded and the rungs are a zipper, built to open and close on demand. That asymmetry is the point. The backbone must be sturdy, but the connections between strands must be weak enough for the cell to pry the helix open and read it without scrambling the sequence.
 
 Proteins work on a different principle. They are chains built from twenty different amino acids, and the sequence of amino acids alone determines how the chain folds into its final three-dimensional shape. That was demonstrated around 1961 by unfolding and refolding a protein called ribonuclease and watching it find its way back to the identical shape every time, work that earned a Nobel Prize in 1972.
 
@@ -782,7 +796,7 @@ Cells also need an energy currency. That currency is a molecule called ATP, cont
 
 A fuller worked example is the beta chain of hemoglobin, a 146-amino-acid protein encoded by the gene HBB on chromosome 11. In 1956, sickle cell disease was traced to a single amino-acid swap in that chain, caused by one changed letter in the underlying DNA. The same variant that causes the disease in people with two copies protects carriers of one copy against malaria. Chemistry does not judge.
 
-## 289. The Copying Machine
+## 292. The Copying Machine
 
 *Status: Settled.*
 
@@ -804,7 +818,7 @@ Under ordinary conditions, telomeres impose a hard ceiling on cell division, kno
 
 The whole intricate assembly is, in the end, "Watson's cardboard, running at speed": the base-pairing logic he worked out by hand on a Saturday morning in 1953, executed by a molecular machine thousands of times every second.
 
-## 290. From Letter to Protein
+## 293. From Letter to Protein
 
 *Status: Settled; the RNA-world aside is Serious but unconfirmed.*
 
@@ -832,7 +846,7 @@ Change a letter in CAT so that a forgiving dictionary still reads it as "CAT," a
 
 Finally, delete a single letter near the front, say the H in THE, and every later grouping shifts by one place: HEF ATC ATA TET HER AT, exactly the gibberish it looks like. That is a "frameshift" mutation, typically the most damaging kind, since it garbles everything downstream of the error.
 
-## 291. Most of the Text Is Not Genes
+## 294. Most of the Text Is Not Genes
 
 *Status: Settled; how much of the genome is functional remains Serious but unconfirmed.*
 
@@ -858,7 +872,7 @@ X-inactivation shows epigenetics at its most vivid. Every woman starts with two 
 
 Biology does neither. Early in the development of every female embryo, each cell makes its own independent, random, permanent decision to power down one of its two X chromosomes, a phenomenon discovered in 1961. Every descendant of that cell inherits the choice for the rest of the body's life. The result is a lifelong mosaic of cell lineages, each locked into whichever X its founding cell happened to pick. Calico and tortoiseshell cats wear it openly: the blotches in their coats were set once in early development and never redrawn.
 
-## 292. Where Mistakes Come From
+## 295. Where Mistakes Come From
 
 *Status: Settled; the closing section on proton tunneling is Serious but unconfirmed.*
 
@@ -868,15 +882,15 @@ When a methylated cytosine deaminates, it turns into a perfectly normal-looking 
 
 Damage also arrives from outside. Ultraviolet light can fuse two neighboring thymine bases into a bulky, distorting lesion. Ionizing radiation can snap the DNA strand outright. Chemicals such as aflatoxin (a mold toxin) and benzo[a]pyrene (found in tobacco smoke) attack DNA directly.
 
-The cell counters all of this with a suite of dedicated repair systems, organized like a building maintenance staff divided by specialty. Base excision repair handles small chemical damage. Nucleotide excision repair handles bulkier lesions such as UV damage; its failure causes the severe sun-sensitivity disorder xeroderma pigmentosum. Mismatch repair handles copying slip-ups; its failure, as Chapter 289 described, causes Lynch syndrome. The scientists who mapped these pathways shared the 2015 Nobel Prize.
+The cell counters all of this with a suite of dedicated repair systems, organized like a building maintenance staff divided by specialty. Base excision repair handles small chemical damage. Nucleotide excision repair handles bulkier lesions such as UV damage; its failure causes the severe sun-sensitivity disorder xeroderma pigmentosum. Mismatch repair handles copying slip-ups; its failure, as Chapter 292 described, causes Lynch syndrome. The scientists who mapped these pathways shared the 2015 Nobel Prize.
 
-The resulting mutations range in scale from a single misprinted letter to a whole volume of the Prologue's twenty-three-volume set going astray. Point mutations change a single letter, the equivalent of one typo. Insertions or deletions, depending on their size, can shift the entire downstream reading frame, the frameshift effect worked through in Chapter 290. Copy-number changes alter how many copies of a stretch of DNA a cell carries, as if an overzealous photocopier had duplicated or dropped a paragraph. Larger chromosomal mutations include the extra copy of chromosome 21 responsible for Down syndrome: an entire extra volume bound into the set by mistake.
+The resulting mutations range in scale from a single misprinted letter to a whole volume of the Prologue's twenty-three-volume set going astray. Point mutations change a single letter, the equivalent of one typo. Insertions or deletions, depending on their size, can shift the entire downstream reading frame, the frameshift effect worked through in Chapter 293. Copy-number changes alter how many copies of a stretch of DNA a cell carries, as if an overzealous photocopier had duplicated or dropped a paragraph. Larger chromosomal mutations include the extra copy of chromosome 21 responsible for Down syndrome: an entire extra volume bound into the set by mistake.
 
 Mutation supplied the one ingredient Darwin's original theory lacked: a genuine source of new, heritable variation. Combined with Mendel's particulate model of inheritance and the mathematics of population genetics, it became the Modern Synthesis of evolutionary biology in the 1930s and 1940s.
 
 A livelier, still-unsettled debate involves quantum mechanics. Some DNA damage, UV absorption for instance, is well established as a fundamentally quantum phenomenon. More speculative is the idea that proton tunneling, the quantum ball-through-a-hill trick, might occasionally flip a base into the wrong shape so that it mispairs. A single proton would tunnel from one position to another within a base pair, fooling the copying machinery for an instant. A 2022 calculation found this happens unexpectedly fast in guanine-cytosine pairs. Nobody has yet shown that it contributes meaningfully to real-world mutation rates, so it remains a serious hypothesis without proof.
 
-## 293. Why Theo Has Ruth's Freckles
+## 296. Why Theo Has Ruth's Freckles
 
 *Status: Settled.*
 
@@ -900,7 +914,7 @@ Which brings us back to the freckles. Freckling has no single on/off gene. It is
 
 Ruth's freckle-related variants were dealt into the family's eggs and sperm exactly as in the card game above: some separated by independent assortment, others recombined by a crossover landing in just the wrong (or right) spot. Theo happened to inherit enough of the set to produce a pattern that echoes his grandmother's without copying it. He received a polygenic hand of cards, reshuffled every generation, which is why what he got from Ruth reads as a family resemblance and never as a photocopy.
 
-## 294. Who Gets What: X, Y, and the Mother's Line
+## 297. Who Gets What: X, Y, and the Mother's Line
 
 *Status: Settled.*
 
@@ -908,23 +922,23 @@ Queen Victoria's family, and the hemophilia that ran through European royalty fo
 
 The X and Y chromosomes are a mismatched pair. The X carries around 156 million letters and on the order of 800 genes. The Y is far smaller, a scant 57 million letters and only a few dozen genes, and the two pair up only at short regions near their tips. One gene near that tip of the Y, called SRY and identified in 1990, triggers male development in an embryo.
 
-When a gene sits on the X chromosome, inheritance follows a distinctive pattern, and the two hard drives from Chapter 291 explain it. A carrier mother has one normal and one variant copy, one good drive and one faulty one, and passes the variant to close to half her children on average. Her daughters inherit two X chromosomes as she did, so a variant on one is usually backed up by a working copy on the other; they become carriers, typically without symptoms. Her sons get only one X chromosome, with no second drive standing by, so any son who inherits the variant is affected outright. An affected father passes carrier status to every daughter and to none of his sons, since sons don't inherit his X at all.
+When a gene sits on the X chromosome, inheritance follows a distinctive pattern, and the two hard drives from Chapter 294 explain it. A carrier mother has one normal and one variant copy, one good drive and one faulty one, and passes the variant to close to half her children on average. Her daughters inherit two X chromosomes as she did, so a variant on one is usually backed up by a working copy on the other; they become carriers, typically without symptoms. Her sons get only one X chromosome, with no second drive standing by, so any son who inherits the variant is affected outright. An affected father passes carrier status to every daughter and to none of his sons, since sons don't inherit his X at all.
 
 Familiar examples include red-green color blindness, which affects around 8 percent of men of European descent; hemophilia A and B, caused by variants in two different clotting-factor genes; and Duchenne muscular dystrophy, caused by mutations in one of the longest genes in the human genome.
 
-Because every woman undergoes random X-inactivation early in development (Chapter 291), every woman is genetically a mosaic, a patchwork of cells running one X or the other. Tortoiseshell and calico cats display this in their coats. In rare cases the same randomness leaves a female carrier of an X-linked condition with noticeable symptoms of her own, purely by the luck of which cells ended up running the variant copy.
+Because every woman undergoes random X-inactivation early in development (Chapter 294), every woman is genetically a mosaic, a patchwork of cells running one X or the other. Tortoiseshell and calico cats display this in their coats. In rare cases the same randomness leaves a female carrier of an X-linked condition with noticeable symptoms of her own, purely by the luck of which cells ended up running the variant copy.
 
 Two other genetic threads travel down family trees without ever mixing. Mitochondrial DNA, a tiny loop of 16,569 letters first fully sequenced in 1981, passes only from mother to child, changing only through the slow accumulation of mutation along an unbroken maternal line. Y-chromosome DNA does the mirror-image thing, passing from father to son without ever recombining with another chromosome.
 
 Since neither lineage gets shuffled by crossing over, both can be traced backward to build family trees on a deep scale. That is the basis for the much-mythologized "Mitochondrial Eve," estimated to have lived between 150,000 and 200,000 years ago, and an analogous Y-chromosome "Adam." Both are statistical inevitabilities of tracing any single lineage back far enough. Neither was a literal first parent of the species. Thousands of their contemporaries are equally our ancestors, through lines that happened to include at least one generation with only daughters, or only sons.
 
-## 295. Dominant, Recessive, and the Messy Middle
+## 298. Dominant, Recessive, and the Messy Middle
 
 *Status: Settled.*
 
-Two words carry most of the weight here: gene and allele. A gene is one specific, numbered recipe inside the cookbook from Chapter 291. It is one entry, say "recipe 4,401,022: hemoglobin beta chain," rather than the whole book. Because every person owns two copies of that cookbook, one inherited from each parent, they automatically own two copies of every recipe in it too, sitting at the same page number in each book.
+Two words carry most of the weight here: gene and allele. A gene is one specific, numbered recipe inside the cookbook from Chapter 294. It is one entry, say "recipe 4,401,022: hemoglobin beta chain," rather than the whole book. Because every person owns two copies of that cookbook, one inherited from each parent, they automatically own two copies of every recipe in it too, sitting at the same page number in each book.
 
-Those two copies don't have to be worded identically. Geneticists call each distinct wording of the same recipe an allele, so "having two different alleles of a gene" just means the two inherited copies of that one recipe don't quite agree with each other. One caveat on the recipe picture: a cell never consults a gene directly. It transcribes a working copy first, as described in Chapter 290, and the resulting protein's behavior decides what happens next.
+Those two copies don't have to be worded identically. Geneticists call each distinct wording of the same recipe an allele, so "having two different alleles of a gene" just means the two inherited copies of that one recipe don't quite agree with each other. One caveat on the recipe picture: a cell never consults a gene directly. It transcribes a working copy first, as described in Chapter 293, and the resulting protein's behavior decides what happens next.
 
 Take a flawed homework worksheet that presents brown eyes as simply "dominant" over blue. It tells a tidy Mendelian story that doesn't survive contact with reality. Eye color is polygenic: one region near two genes called HERC2 and OCA2 is by far the single biggest lever, but more than fifty other regions of the genome each contribute a small additional nudge.
 
@@ -932,7 +946,7 @@ Cystic fibrosis offers a cleaner, recessive example: a disease that only shows u
 
 About one in twenty-five Europeans carries one copy without symptoms, and the disease itself appears in around one in twenty-five hundred births. A drug called Trikafta, approved in 2019, has since pushed predicted median survival for patients past the age of fifty. The disease used to be reliably fatal in childhood.
 
-Sickle cell disease is also recessive, with a twist from Chapter 288: carriers with just one copy of the variant (said to have "sickle cell trait") are meaningfully protected against severe malaria. That protection is strong enough to keep the variant common across Africa, the Mediterranean, and India, in a pattern geneticists call a "balanced polymorphism." At the population level, the harm done to those with two copies is outweighed by the benefit to those with one. Worldwide, sickle cell disease affects close to 300,000 births a year.
+Sickle cell disease is also recessive, with a twist from Chapter 291: carriers with just one copy of the variant (said to have "sickle cell trait") are meaningfully protected against severe malaria. That protection is strong enough to keep the variant common across Africa, the Mediterranean, and India, in a pattern geneticists call a "balanced polymorphism." At the population level, the harm done to those with two copies is outweighed by the benefit to those with one. Worldwide, sickle cell disease affects close to 300,000 births a year.
 
 Huntington's disease works the opposite way. A single copy of the variant allele is enough to cause the disease outright, even with one entirely normal copy sitting right alongside it. The variant is an expansion of a small repeated sequence within the gene HTT beyond a critical length. Symptoms typically begin after the age when most people have already had children, so the variant has historically had little trouble persisting. Natural selection has little leverage over a disease that waits until after reproduction to strike.
 
@@ -948,13 +962,13 @@ Look only within the rich pot, and essentially all of the small differences in h
 
 So heritability is a statistic about a population under some specific set of conditions. It is no fixed property carved into any individual's traits, and it makes no claim about why one population's average differs from another's. It shifts as the environment shifts. Average height in the Dutch population rose substantially over the twentieth century, even though the heritability of height, measured within any given generation, stayed roughly constant throughout.
 
-## 296. What Is Not in the Genes
+## 299. What Is Not in the Genes
 
 *Status: Settled; transgenerational epigenetic inheritance in mammals is Serious but unconfirmed.*
 
-Genes determine a great deal, so it helps to catalog what they don't. The flowerpots from Chapter 295 carry over in a slightly different form: a gene sets a seed's potential height, but how tall the plant actually grows still depends enormously on the pot it lands in.
+Genes determine a great deal, so it helps to catalog what they don't. The flowerpots from Chapter 298 carry over in a slightly different form: a gene sets a seed's potential height, but how tall the plant actually grows still depends enormously on the pot it lands in.
 
-The Dutch Hunger Winter of 1944–45 served as a grim natural experiment along those lines. Children who were in the womb during that famine went on, decades later, to have nearly double the risk of adult obesity and schizophrenia. In 2008 the effect was traced to reduced chemical tagging (methylation) at a gene called IGF2, the same kind of epigenetic sticky-note change described in Chapter 291. The DNA sequence itself was unchanged.
+The Dutch Hunger Winter of 1944–45 served as a grim natural experiment along those lines. Children who were in the womb during that famine went on, decades later, to have nearly double the risk of adult obesity and schizophrenia. In 2008 the effect was traced to reduced chemical tagging (methylation) at a gene called IGF2, the same kind of epigenetic sticky-note change described in Chapter 294. The DNA sequence itself was unchanged.
 
 Identical twins make the same point from another angle. Despite starting from a single fertilized egg, they accumulate a handful of new mutations, around five on average, after the embryo splits, and continue to diverge over the following decades of separate lives. For many diseases, the concordance rate between identical twins (the odds that if one twin has a condition, the other does too) sits at only 25 to 50 percent. Hold genetics perfectly constant, and chance and environment still have plenty of room.
 
@@ -970,7 +984,7 @@ The last word goes to a set of tail-cutting experiments on mice in the 1880s. Am
 
 That "germ line barrier," separating the body's day-to-day experiences from what actually gets inherited, mostly still holds today. The few exceptions are narrow, decidedly non-Lamarckian, and involve imprinted genes and small regulatory RNA molecules.
 
-## 297. Brno, 1856: Peas in a Garden
+## 300. Brno, 1856: Peas in a Garden
 
 *Status: Settled.*
 
@@ -986,7 +1000,7 @@ His real innovation, compared with earlier plant hybridizers, was that he went p
 
 By the autumn of 1863, his crosses were complete, and the counts were ready to be turned into ratios.
 
-## 298. The Ratios
+## 301. The Ratios
 
 *Status: Settled.*
 
@@ -1002,7 +1016,7 @@ Modern molecular biology, working between 1990 and 2011, eventually tracked down
 
 Mendel presented these results in Brünn in 1865 and 1866, and his paper was mailed out to roughly 120 libraries across Europe. It was then almost completely ignored for the next thirty-four years. The few who noticed it filed it mentally as a minor, narrow study of plant hybridization, which is one way to describe the foundation of an entire science. Even a correct answer needs a good publicist.
 
-## 299. Lost for Thirty-Four Years
+## 302. Lost for Thirty-Four Years
 
 *Status: Settled.*
 
@@ -1012,13 +1026,13 @@ Mendel himself never lived to see any of this. He became abbot of his monastery 
 
 In England, one prominent biologist championed Mendel's rediscovered work and coined the word "genetics" itself in 1905. He did so in the middle of a bitter dispute with the rival "biometrician" school, which favored a model of smooth, continuous inheritance over Mendel's particulate, either/or version.
 
-New vocabulary followed close behind, with the terms "gene," "genotype," and "phenotype" coined in 1909. "Gene" is the recipe itself, in the sense used in Chapter 295. "Genotype" is which two alleles of that recipe a given individual actually carries, visible only by testing or breeding. "Phenotype" is the outward, observable result, the dish that actually comes out of the oven.
+New vocabulary followed close behind, with the terms "gene," "genotype," and "phenotype" coined in 1909. "Gene" is the recipe itself, in the sense used in Chapter 298. "Genotype" is which two alleles of that recipe a given individual actually carries, visible only by testing or breeding. "Phenotype" is the outward, observable result, the dish that actually comes out of the oven.
 
 The two don't always match the way common sense expects. A pea plant with a "round, round" genotype and one with a "round, wrinkled" genotype look identical, both round, since round is dominant. The genotype is the hidden wording of the recipe; the phenotype is the finished dish, and looking at the dish can't always tell you which wording produced it. Meanwhile, separate researchers working independently between 1902 and 1903 connected Mendel's abstract hereditary "factors" to the actual chromosomes visible under a microscope.
 
 One lingering controversy deserves mention. In 1936, a statistician ran a chi-squared analysis on Mendel's published data and found the reported ratios suspiciously close to the theoretical prediction: closer than pure chance would typically produce, with odds of only about seven in a hundred thousand. Historians have debated ever since whether this reflects some unconscious "tidying" of the data on Mendel's part rather than outright fraud. Either way, it hasn't mattered much to the science. Mendel's ratios have now been independently reproduced for well over a century.
 
-## 300. Flies in a Bottle
+## 303. Flies in a Bottle
 
 *Status: Settled.*
 
@@ -1026,7 +1040,7 @@ In 1910, Thomas Hunt Morgan, the biologist who ran Columbia University's "Fly Ro
 
 The fruit fly, Drosophila melanogaster, proved close to a perfect genetics laboratory animal: cheap to keep, fast to breed through generations, and equipped with only four chromosome pairs to keep track of. The students in the Fly Room went on to become major figures in their own right.
 
-One of them, Alfred Sturtevant, still only nineteen years old, built the very first genetic map in a single night in 1911 (published in 1913). He reasoned that traits which get separated from each other by crossing over more often must sit farther apart on the chromosome. This is the chapter-swapping picture of crossing over from Chapter 293, run in reverse as a measuring tool. Two paragraphs on the same page almost never end up on opposite sides of a chapter-swap, while two paragraphs many chapters apart get separated all the time.
+One of them, Alfred Sturtevant, still only nineteen years old, built the very first genetic map in a single night in 1911 (published in 1913). He reasoned that traits which get separated from each other by crossing over more often must sit farther apart on the chromosome. This is the chapter-swapping picture of crossing over from Chapter 296, run in reverse as a measuring tool. Two paragraphs on the same page almost never end up on opposite sides of a chapter-swap, while two paragraphs many chapters apart get separated all the time.
 
 So counting how often two traits get separated, across enough matings, tells you roughly how far apart on the chromosome they sit. That reasoning produced a unit of genetic distance, the centimorgan, still used today.
 
@@ -1036,7 +1050,7 @@ The Fly Room's founder collected a Nobel Prize of his own in 1933, for establish
 
 Over the following decades, mathematicians worked out how Mendel's discrete, either/or inheritance could produce the smooth, continuous variation Darwin had actually observed in nature, while naturalists folded in observations from real populations and species. Together, these threads combined into what's now called the Modern Synthesis of evolutionary biology. Genetics and Darwinian evolution became one unified theory instead of two separate conversations.
 
-## 301. Galton's Shadow
+## 304. Galton's Shadow
 
 *Status: Settled.*
 
@@ -1052,11 +1066,11 @@ The Soviet Union produced a mirror-image disaster from the opposite direction. T
 
 Eugenics also failed on scientific grounds, alongside the moral ones. Its pedigrees mistook patterns caused by poverty and social circumstance for patterns of genetic inheritance. And its underlying arithmetic was broken.
 
-The tempting picture is that a recessive condition's allele lives mostly inside the visibly affected people who carry it twice over, as the CFTR example in Chapter 295 might suggest. Sterilize them, the reasoning goes, and the allele mostly goes with them. The actual math runs the other way. For a recessive condition affecting one in twenty-five hundred people, simple population genetics puts roughly one carrier in every twenty-five people, all of them symptom-free and, to a Eugenics Record Office pedigree, entirely invisible.
+The tempting picture is that a recessive condition's allele lives mostly inside the visibly affected people who carry it twice over, as the CFTR example in Chapter 298 might suggest. Sterilize them, the reasoning goes, and the allele mostly goes with them. The actual math runs the other way. For a recessive condition affecting one in twenty-five hundred people, simple population genetics puts roughly one carrier in every twenty-five people, all of them symptom-free and, to a Eugenics Record Office pedigree, entirely invisible.
 
 The overwhelming majority of copies of that allele were sitting quietly in unaffected carriers all along, well out of reach of any program aimed at the visibly affected minority. Sterilizing that minority does almost nothing to reduce how common the allele is in the wider population. This had already been demonstrated mathematically in the 1910s and 1920s, years before eugenics reached its most destructive period.
 
-## 302. Cutting and Pasting
+## 305. Cutting and Pasting
 
 *Status: Settled.*
 
@@ -1074,7 +1088,7 @@ The obvious safety questions led scientists to convene the Asilomar Conference i
 
 The commercial payoff followed quickly. Genentech, founded in 1976 by one of the gene-cloning researchers and a venture capitalist, produced the first human protein ever manufactured by bacteria (a hormone called somatostatin) in 1977. In 1982 it brought to market Humulin, synthetic human insulin made the same way, the first drug ever approved that was manufactured using recombinant DNA technology.
 
-## 303. Sanger's Ladders
+## 306. Sanger's Ladders
 
 *Status: Settled.*
 
@@ -1092,13 +1106,13 @@ Sanger himself retired at 65 to spend the next three decades gardening, turned d
 
 Two habits that began with Sanger's work have stuck around ever since. One is "coverage," the practice of reading each stretch of DNA multiple times over, so that errors in any one reading get caught and corrected. The shredded-manuscript trick only works reliably if enough overlapping shreds exist for a single garbled strip to be outvoted by several clean ones covering the same ground. The other is the use of a single "reference" genome as the fixed backdrop against which every new sample gets compared.
 
-## 304. Copying Without a Cell
+## 307. Copying Without a Cell
 
 *Status: Settled.*
 
 In 1983, a biochemist conceived of the polymerase chain reaction, or PCR: a way to take a single chosen stretch of DNA and copy it exponentially, using two short synthetic primers to mark the target region, without needing a living cell to do any of the work.
 
-A spreading rumor is the usual comparison for exponential growth like this. Tell two people, each of them tells two more, and the count that seemed to be crawling along suddenly explodes. Each cycle of the reaction roughly doubles the amount of target DNA present, so after some thirty cycles, a single original molecule has been amplified close to a billion-fold. Where the rumor picture breaks is the point that makes PCR useful: a rumor degrades with each retelling, while PCR's copies, thanks to the proofreading chemistry from Chapter 289, stay accurate a billion tellings deep.
+A spreading rumor is the usual comparison for exponential growth like this. Tell two people, each of them tells two more, and the count that seemed to be crawling along suddenly explodes. Each cycle of the reaction roughly doubles the amount of target DNA present, so after some thirty cycles, a single original molecule has been amplified close to a billion-fold. Where the rumor picture breaks is the point that makes PCR useful: a rumor degrades with each retelling, while PCR's copies, thanks to the proofreading chemistry from Chapter 292, stay accurate a billion tellings deep.
 
 The reaction runs through a simple three-step thermal cycle. Heat the sample to around 95 degrees Celsius to separate the DNA strands, cool it to somewhere between 50 and 65 degrees to let the primers bind, then warm it to 72 degrees to let a polymerase enzyme extend the new strand. That cycle only became practical thanks to Taq polymerase, a heat-stable version of the copying enzyme first found in 1966 in a bacterium living in the scalding hot springs of Yellowstone, and put to use for PCR in a 1988 publication.
 
@@ -1110,7 +1124,7 @@ That same extreme sensitivity is also PCR's biggest liability. It amplifies stra
 
 The technique's inventor was himself a controversial figure in his later years, publicly rejecting the scientific consensus on both HIV/AIDS and climate change; he died in 2019.
 
-## 305. The Fingerprint
+## 308. The Fingerprint
 
 *Status: Settled.*
 
@@ -1128,7 +1142,7 @@ Practical failures tend to come from how samples are handled, while the underlyi
 
 Despite these pitfalls, DNA evidence's power to correct wrongful convictions has been immense: the Innocence Project counts more than 375 US convictions overturned by DNA evidence since 1989.
 
-## 306. Fast, Cheap, and Everywhere
+## 309. Fast, Cheap, and Everywhere
 
 *Status: Settled.*
 
@@ -1146,7 +1160,7 @@ The practical payoff has been substantial. Rapid clinical genome sequencing for 
 
 Sequencing has since spread well beyond individual human genomes. It is now routinely used for wastewater surveillance, environmental DNA sampling, and tracking the spread of pathogens; more than 16 million SARS-CoV-2 genomes were sequenced over the course of the pandemic alone.
 
-## 307. Scissors from Bacteria
+## 310. Scissors from Bacteria
 
 *Status: Settled.*
 
@@ -1168,9 +1182,9 @@ Beyond therapy, CRISPR made a much more mundane form of research dramatically ch
 
 The risks are concrete and specific. Cuts can land at unintended "off-target" locations. Larger unintended deletions or chromosomal rearrangements can occur at the target site itself. Cells can be selected that lack intact copies of their own DNA-damage-response genes, since those genes can interfere with editing. And mosaicism, incomplete editing that leaves some cells edited and others not, is a particular concern when editing embryos, where every cell's fate matters.
 
-Finally, there are "gene drives": CRISPR-based edits engineered to spread through nearly all of a population's offspring, generation after generation. They cheat the ordinary fifty-fifty coin flip of inheritance from Chapter 293. The edited copy actively cuts and replaces the unedited copy it's paired with in every offspring, so instead of spreading gradually the way an ordinary gene does, it forces its way into essentially every descendant from the very first generation onward. In theory, a gene drive could eliminate malaria-carrying mosquito populations entirely. In practice, such a drive would be effectively irreversible once released into a wild population, and none has yet been field-released for exactly that reason.
+Finally, there are "gene drives": CRISPR-based edits engineered to spread through nearly all of a population's offspring, generation after generation. They cheat the ordinary fifty-fifty coin flip of inheritance from Chapter 296. The edited copy actively cuts and replaces the unedited copy it's paired with in every offspring, so instead of spreading gradually the way an ordinary gene does, it forces its way into essentially every descendant from the very first generation onward. In theory, a gene drive could eliminate malaria-carrying mosquito populations entirely. In practice, such a drive would be effectively irreversible once released into a wild population, and none has yet been field-released for exactly that reason.
 
-## 308. The First Cures
+## 311. The First Cures
 
 *Status: Settled.*
 
@@ -1192,7 +1206,7 @@ In 2025, an infant in Philadelphia named KJ Muldoon received a base-editing trea
 
 The question has an economic side too. One-time treatments priced at a million dollars or more don't fit the assumptions built into conventional health insurance, which is designed around ongoing costs rather than enormous single payments. Outcome-based payment arrangements, where insurers pay in installments contingent on the treatment continuing to work, are currently being tested as one possible solution.
 
-## 309. Writing from Scratch
+## 312. Writing from Scratch
 
 *Status: Settled.*
 
@@ -1206,7 +1220,7 @@ DNA has also found a use well outside biology. Since 2012 and 2013, researchers 
 
 Messenger RNA vaccine technology, built on a breakthrough in 2005 (Nobel Prize 2023), is probably the best current example of fluent genetic "writing." Once the COVID-19 virus's sequence was published in January 2020, designing a vaccine against it took only days.
 
-Two more Nobel-worthy breakthroughs round out the picture. Chapter 288 established that a protein's amino-acid sequence alone fully determines how it folds. That sounds like it should make predicting the shape a straightforward lookup, except that the number of ways a single chain could conceivably fold is so astronomically large that no brute-force search would get through them in a human lifetime, let alone on a lab's budget. AlphaFold2, released in 2020, essentially solved that decades-old problem anyway. It predicts a protein's three-dimensional shape directly from its amino-acid sequence to remarkable accuracy, using patterns learned from the tens of thousands of shapes already solved by hand.
+Two more Nobel-worthy breakthroughs round out the picture. Chapter 291 established that a protein's amino-acid sequence alone fully determines how it folds. That sounds like it should make predicting the shape a straightforward lookup, except that the number of ways a single chain could conceivably fold is so astronomically large that no brute-force search would get through them in a human lifetime, let alone on a lab's budget. AlphaFold2, released in 2020, essentially solved that decades-old problem anyway. It predicts a protein's three-dimensional shape directly from its amino-acid sequence to remarkable accuracy, using patterns learned from the tens of thousands of shapes already solved by hand.
 
 A separate lab, working since 2003, pioneered the reverse trick. Start with a shape you want, such as a pocket to grip one particular molecule, and work backward to a brand-new amino-acid sequence, never seen in any living thing, that will fold into exactly that shape. Both achievements shared the 2024 Nobel Prize in Chemistry.
 
@@ -1216,7 +1230,7 @@ Industrial synthetic biology, meanwhile, is already delivering tangible products
 
 A serious biosecurity concern remains. Dangerous viruses could in principle be assembled the same way; a reconstructed horsepox virus, built entirely from ordered DNA fragments, was one demonstrated example in 2017. Screening of DNA synthesis orders to catch such attempts remains, for now, mostly voluntary.
 
-## 310. Reading the Dead
+## 313. Reading the Dead
 
 *Status: Settled; the closing forecast is Speculative.*
 
@@ -1224,7 +1238,7 @@ Ancient DNA sequencing identified a wholly new branch of the human family tree, 
 
 DNA doesn't hold up well after death. It fragments and accumulates chemical damage over time, and ancient samples routinely pick up contamination from modern DNA belonging to whoever has handled them, as well as from environmental microbes. Early, exciting claims of recovered Egyptian mummy DNA in the 1980s later turned out to be exactly this kind of contamination.
 
-The field was rescued by three things. Clean-room techniques kept modern DNA out of the workflow. DNA was extracted from the dense petrous bone, a particularly well-protected part of the skull. And researchers learned to recognize a chemical "damage signature": a characteristic pattern of deamination, the same slow chemical fading from Chapter 292, here put to good use. A sample that has been decaying for tens of thousands of years carries far more of that fading than a stray fleck of modern contamination that has had only a few years to age, which lets the two be told apart.
+The field was rescued by three things. Clean-room techniques kept modern DNA out of the workflow. DNA was extracted from the dense petrous bone, a particularly well-protected part of the skull. And researchers learned to recognize a chemical "damage signature": a characteristic pattern of deamination, the same slow chemical fading from Chapter 295, here put to good use. A sample that has been decaying for tens of thousands of years carries far more of that fading than a stray fleck of modern contamination that has had only a few years to age, which lets the two be told apart.
 
 Svante Pääbo led much of this progress, sequencing Neanderthal mitochondrial DNA in 1997 and then a full draft of the Neanderthal nuclear genome in 2010, work that earned him a solo Nobel Prize in 2022. That nuclear genome revealed that people of non-African descent today carry roughly 1 to 2 percent Neanderthal DNA, the legacy of interbreeding that occurred somewhere between 50,000 and 60,000 years ago.
 
@@ -1236,7 +1250,7 @@ De-extinction deserves a skeptical eye. Companies such as Colossal Biosciences g
 
 A reasonable guess: by 2126 every endangered mammal will have a preserved cell line sitting in some freezer somewhere, and the word "extinct" will need a footnote explaining precisely what it does and doesn't mean anymore.
 
-## 311. Dolly, 5 July 1996
+## 314. Dolly, 5 July 1996
 
 *Status: Settled.*
 
@@ -1248,23 +1262,23 @@ Success was rare even so. Dolly was the single live birth that resulted from 277
 
 The experiment settled a genuinely open question. Did a fully specialized adult cell's genome still retain the complete set of instructions needed to build an entire new organism, or had that capacity been permanently lost once the cell committed to being, say, a mammary cell? Earlier frog experiments in 1952, and more successfully in 1962 (Nobel 2012), had only managed the trick using donor cells that were still relatively undifferentiated. Dolly proved it could be done starting from a cell that had already completely specialized.
 
-Recall the cookbook picture from Chapter 291. A mammary cell owns the identical genome every other cell owns, but its working copy has been so heavily annotated with epigenetic sticky notes (cook the milk-protein recipes constantly, ignore nearly everything else) that left alone it would never think to build a heart or a spine.
+Recall the cookbook picture from Chapter 294. A mammary cell owns the identical genome every other cell owns, but its working copy has been so heavily annotated with epigenetic sticky notes (cook the milk-protein recipes constantly, ignore nearly everything else) that left alone it would never think to build a heart or a spine.
 
 The key technical insight was that starving the donor cells first, forcing them into a quiescent resting state, made the egg far better able to reprogram the transferred nucleus back into a blank, embryo-ready state. That stripped off essentially all of the sticky notes at once, restoring the cookbook to something like its condition on day one, before any cell had specialized into anything at all.
 
 Dolly went on to breed normally, producing six lambs through ordinary mating. She died relatively young, at age six in 2003, of a lung disease that is in fact fairly common among sheep kept indoors rather than out on pasture. Later analysis, conducted in 2016 and 2017 on several of her cloned relatives and on Dolly's own skeleton, found joint health that was largely normal for sheep of that age and circumstances. That put to rest earlier fears that the cloning process itself had caused some kind of premature aging.
 
-## 312. What a Clone Is and Isn't
+## 315. What a Clone Is and Isn't
 
 *Status: Settled.*
 
-A clone is popularly pictured as a photocopy of a living thing, the copier image from Chapter 285 aimed at a whole organism instead of a molecule: press the button, out comes an identical duplicate. Several popular misconceptions follow from that picture, and each one is worth correcting.
+A clone is popularly pictured as a photocopy of a living thing, the copier image from Chapter 288 aimed at a whole organism instead of a molecule: press the button, out comes an identical duplicate. Several popular misconceptions follow from that picture, and each one is worth correcting.
 
 A clone shares its nuclear DNA with its source. Its mitochondrial DNA comes from whichever egg donor supplied the empty egg cell. It develops in a different womb. Even its epigenome is reset and laid down fresh by the egg, imperfectly, instead of being copied over intact. And a clone inherits no memories or experiences. Cloning copies a genome; the life has to be lived again.
 
 Commercial pet cloning, offered by companies like ViaGen Pets since 2015, costs around $50,000 per dog or cat. When Barbra Streisand had her dog cloned in 2018, the resulting puppies reportedly had different personalities both from the original dog and from each other, a fittingly anticlimactic result for such an expensive process.
 
-The clearest demonstration of what cloning does and doesn't preserve came from CC, a cloned cat produced in 2001, whose coat markings turned out utterly different from those of her calico donor, Rainbow. The explanation goes back to Chapter 291. Coat pattern in calico cats depends on which of the two X chromosomes gets randomly silenced in each skin cell during development, a process driven by chance on top of DNA sequence. Even a perfect genetic copy can end up looking nothing like the original.
+The clearest demonstration of what cloning does and doesn't preserve came from CC, a cloned cat produced in 2001, whose coat markings turned out utterly different from those of her calico donor, Rainbow. The explanation goes back to Chapter 294. Coat pattern in calico cats depends on which of the two X chromosomes gets randomly silenced in each skin cell during development, a process driven by chance on top of DNA sequence. Even a perfect genetic copy can end up looking nothing like the original.
 
 Cloning does have real, if narrow, commercial uses. It produces livestock breeding stock (the clones themselves generally aren't the animals that end up eaten) and elite competition animals such as racehorses, polo ponies, and camels. It also serves conservation efforts aimed at restoring lost genetic diversity in endangered species like the Przewalski's horse and the black-footed ferret.
 
@@ -1272,7 +1286,7 @@ Cloning primates proved far harder than cloning most other mammals. It succeeded
 
 No verified instance of human cloning has ever occurred. A fringe 2002 claim by the company Clonaid was never substantiated by any independent evidence whatsoever.
 
-## 313. The Human Question
+## 316. The Human Question
 
 *Status: Settled.*
 
@@ -1282,7 +1296,7 @@ In the years after Dolly, human cloning produced mostly attempts, bans, and frau
 
 A South Korean research team falsely claimed to have achieved therapeutic cloning in 2004 and 2005, in what turned into one of the largest scientific fraud scandals of the era. The feat was only accomplished years later, in 2013, by a different research group.
 
-By then, the whole approach had been largely overtaken by a simpler alternative. Shinya Yamanaka's discovery of induced pluripotent stem cells in 2006 and 2007 achieved essentially the same reset described in Chapter 311 for Dolly's donor nucleus. Ordinary adult skin cells were reprogrammed back into an embryonic-like stem-cell state, erasing the epigenetic marks that had committed them to being skin, using just four genes delivered directly into the cell. Patient-matched stem cells no longer required eggs or embryos at all, which made therapeutic cloning all but obsolete almost as soon as it had finally been achieved. Yamanaka shared the 2012 Nobel Prize for the discovery.
+By then, the whole approach had been largely overtaken by a simpler alternative. Shinya Yamanaka's discovery of induced pluripotent stem cells in 2006 and 2007 achieved essentially the same reset described in Chapter 314 for Dolly's donor nucleus. Ordinary adult skin cells were reprogrammed back into an embryonic-like stem-cell state, erasing the epigenetic marks that had committed them to being skin, using just four genes delivered directly into the cell. Patient-matched stem cells no longer required eggs or embryos at all, which made therapeutic cloning all but obsolete almost as soon as it had finally been achieved. Yamanaka shared the 2012 Nobel Prize for the discovery.
 
 The real center of gravity is the scandal that followed. In Hong Kong in November 2018, the scientist He Jiankui announced the birth of the first heritably gene-edited humans: twin girls whose CCR5 gene had been edited in an attempt to confer resistance to HIV. The scientific community's condemnation was swift and close to universal, for overlapping reasons.
 
@@ -1290,11 +1304,11 @@ There was no genuine medical need, since safer ways to prevent HIV transmission 
 
 He Jiankui was sentenced to three years in prison in 2019 for illegal medical practice, and was released in 2022. The long-term health of the edited children has never been independently studied or published.
 
-## 314. Ten Thousand Years of Editing
+## 317. Ten Thousand Years of Editing
 
 *Status: Settled.*
 
-Domestication is genetic engineering run very slowly: people selected among naturally occurring variants over many generations instead of editing DNA directly. Recall the photocopier from Chapter 285, now with a twist. Instead of copying the same original every time, a breeder copies only the single best-looking specimen of this generation and uses it, and it alone, as the "original" for the next. Nobody rewrites a single letter. The breeder simply recopies selectively, generation after generation, until traits that started out as rare accidents become the reliable default.
+Domestication is genetic engineering run very slowly: people selected among naturally occurring variants over many generations instead of editing DNA directly. Recall the photocopier from Chapter 288, now with a twist. Instead of copying the same original every time, a breeder copies only the single best-looking specimen of this generation and uses it, and it alone, as the "original" for the next. Nobody rewrites a single letter. The breeder simply recopies selectively, generation after generation, until traits that started out as rare accidents become the reliable default.
 
 Maize was domesticated from a wild grass called teosinte in Mexico's Balsas River valley roughly 9,000 years ago, through changes concentrated in a handful of genes, among them tb1 and tga1, which control how much a plant branches and how tightly its kernels are encased. Wheat domestication, some 10,000 years ago in the Fertile Crescent, hinged on a different kind of mutation: one that stopped the seed head from shattering and scattering its seeds. The seeds stayed on the stalk, waiting to be harvested. The annual harvest itself therefore did much of the selecting, favoring exactly the plants that were, in the wild, worst at reproducing on their own.
 
@@ -1308,7 +1322,7 @@ An American agronomist's Green Revolution wheat, developed through the 1950s and
 
 The dwarfing genes themselves weren't molecularly identified until decades after they were already being bred into crops worldwide: wheat's in 1999, the parallel gene in rice a few years later. Both act on a growth hormone called gibberellin. The wheat genes blunt the plant's response to it; the rice gene cuts its production.
 
-## 315. The Tomato That Didn't Rot
+## 318. The Tomato That Didn't Rot
 
 *Status: Settled.*
 
@@ -1322,13 +1336,13 @@ On safety, the scientific consensus is about as strong as these things get. A co
 
 Survey data consistently show that public distrust of engineered food centers on corporate control and a lack of transparency. People worry less about the gene and more about who owns it.
 
-Regulation diverges sharply by region, and the split partly turns on a distinction between two kinds of product. An older-style "GMO," like the Flavr Savr tomato, typically has a whole foreign gene from another species spliced in, using the recombinant-DNA techniques from Chapter 302. A modern "gene-edited" crop, made with the CRISPR-style tools from Chapter 307, often just tweaks a few of the plant's own letters, with nothing foreign added.
+Regulation diverges sharply by region, and the split partly turns on a distinction between two kinds of product. An older-style "GMO," like the Flavr Savr tomato, typically has a whole foreign gene from another species spliced in, using the recombinant-DNA techniques from Chapter 305. A modern "gene-edited" crop, made with the CRISPR-style tools from Chapter 310, often just tweaks a few of the plant's own letters, with nothing foreign added.
 
 The United States settled on mandatory "bioengineered" food labeling starting in 2022. The European Union heavily restricts cultivation of engineered crops; only a single crop has ever been approved for growing there. With some inconsistency, it regulates precisely gene-edited crops, which contain no foreign DNA, under the same strict rules as older GMOs with foreign genes spliced in, while exempting radiation- or chemical-mutated crops from that scrutiny entirely. The exempt method is the less targeted one.
 
 Japan approved the first CRISPR-edited food for retail sale, a high-GABA tomato, in 2021. The first transgenic plant sold to home gardeners was a purple tomato engineered for extra anthocyanin, launched in the US in 2024.
 
-## 316. Animals on the Menu
+## 319. Animals on the Menu
 
 *Status: Settled.*
 
@@ -1346,7 +1360,7 @@ Not every attempt has fully succeeded. Chickens edited at Roslin Institute for p
 
 The central welfare question applies equally to breeding and editing. Does a given change truly reduce an animal's suffering (removing horns, say), or does it merely make it easier to keep the animal in worse conditions at greater scale (a disease-resistant pig housed more densely than it otherwise could be)? The right test is the animal's actual lived experience, whichever method produced the change.
 
-## 317. What Is Actually Risky
+## 320. What Is Actually Risky
 
 *Status: Settled.*
 
@@ -1364,13 +1378,13 @@ Every ordinary meal already contains enormous quantities of "foreign" DNA from w
 
 The Svalbard Global Seed Vault, opened in 2008, is the counterweight. It preserves crop genetic diversity as insurance against exactly the kind of monoculture failure described above, a hedge against risks that come entirely from how narrowly we've bred our food crops.
 
-## 318. Three Billion Letters, One Race
+## 321. Three Billion Letters, One Race
 
 *Status: Settled.*
 
 The Human Genome Project pitted a publicly funded international consortium, formally launched in 1990, against a private competitor: Celera Genomics, founded in 1998 and led by a researcher who had worked within the public effort before striking out on his own.
 
-The two sides used different variations on the shredded-manuscript trick from Chapter 303. The public project chose a methodical "hierarchical shotgun" strategy: first sort the shredded pages roughly into their original chapters using a coarser map, then shred and reassemble the text within each chapter. It was slower, with a running check against putting pages in the wrong order.
+The two sides used different variations on the shredded-manuscript trick from Chapter 306. The public project chose a methodical "hierarchical shotgun" strategy: first sort the shredded pages roughly into their original chapters using a coarser map, then shred and reassemble the text within each chapter. It was slower, with a running check against putting pages in the wrong order.
 
 Celera bet on a faster, riskier "whole-genome shotgun" approach: shred the entire manuscript at once, with no preliminary sorting, and trust the computer to reassemble everything from the raw overlaps. Its leader first proved the method on a fly genome and later, notably, on his own.
 
@@ -1382,13 +1396,13 @@ Draft papers from both teams appeared side by side in February 2001, in Nature a
 
 Celera, meanwhile, found it could not profitably sell access to a genome the public project was giving away, and pivoted toward drug discovery.
 
-## 319. What the Genome Turned Out to Say
+## 322. What the Genome Turned Out to Say
 
 *Status: Settled.*
 
 A famous betting pool on how many genes the human genome contains drew guesses from 26,000 to well over 150,000. It was won by the lowest realistic guess, around 25,947. The real figure settled lower still, at close to 20,000 protein-coding genes, comparable to and in some cases barely different from far simpler organisms like roundworms and fruit flies.
 
-Human complexity comes from doing more with the genes available. Alternative splicing (introduced in Chapter 290) lets some 20,000 genes generate over 100,000 distinct proteins, and the regulatory sequences controlling when and where those genes switch on occupy more of the genome than the genes themselves.
+Human complexity comes from doing more with the genes available. Alternative splicing (introduced in Chapter 293) lets some 20,000 genes generate over 100,000 distinct proteins, and the regulatory sequences controlling when and where those genes switch on occupy more of the genome than the genes themselves.
 
 Genome comparisons need careful reading, because the same data can produce very different headlines depending on what is counted. The claim that any two humans are "99.9 percent identical" refers to single-letter differences alone, which still add up to on the order of 3 million differences per pair of genomes. Counting larger structural differences as well brings the figure closer to 99 percent.
 
@@ -1400,7 +1414,7 @@ The Telomere-to-Telomere consortium closed the gap in 2022, using long-read sequ
 
 One limitation remained. A single reference genome, largely derived from one anonymous donor from Buffalo, New York, represents human diversity poorly. In 2023 the Human Pangenome Reference Consortium built a multi-genome "graph" reference from 47 genetically diverse individuals, adding 119 million letters and some 1,100 extra gene copies the single-person reference had been missing all along.
 
-## 320. Biobanks and the Million
+## 323. Biobanks and the Million
 
 *Status: Settled.*
 
@@ -1424,11 +1438,11 @@ Polygenic risk scores sum all these small effects into one predictive number. Th
 
 The real payoffs have been genuine, if less headline-grabbing. Genetics can identify causal risk factors, beyond mere correlations: variants in a gene called PCSK9, for instance, led to a whole new class of cholesterol-lowering drugs. Drug development also succeeds more often when genetic evidence supports a proposed drug target.
 
-## 321. The Spit Kit
+## 324. The Spit Kit
 
 *Status: Settled.*
 
-Consumer DNA tests measure less than most customers assume. Return to the Prologue's three-billion-letter book. Sequencing, the technology built up over Chapters 303 and 306, reads every page, cover to cover. A consumer genotyping chip flips straight to a fixed list of previously bookmarked pages and reads only those.
+Consumer DNA tests measure less than most customers assume. Return to the Prologue's three-billion-letter book. Sequencing, the technology built up over Chapters 306 and 309, reads every page, cover to cover. A consumer genotyping chip flips straight to a fixed list of previously bookmarked pages and reads only those.
 
 Take 23andMe, founded in 2006. Its chip checks on the order of 640,000 predetermined positions in the genome, about 0.02 percent of the total. It can therefore report only on variants already known and cataloged in advance. A typo on a page nobody thought to bookmark goes unseen, and anything novel is out of reach entirely.
 
@@ -1438,15 +1452,15 @@ The business model always depended heavily on data as well as testing fees. Clos
 
 The bankruptcy forced a blunt legal question: were the genetic profiles of fifteen million people simply an asset, like the office furniture, to be sold to satisfy creditors? The court's answer was yes. The buyer promised to honor the existing privacy policy. A promise is what it was.
 
-The ancestry percentages are statistical estimates of resemblance to reference populations, which makes them closer to being told which regional accents your voice most resembles, out of a fixed set of recorded samples, than to receiving a verified family tree. Change the set of recorded accents and the same voice gets matched differently, which is why the percentages shift whenever the reference panels are updated. Full siblings routinely receive different percentages, because inheritance doesn't hand every child the same neat average, for reasons worked out in Chapter 293.
+The ancestry percentages are statistical estimates of resemblance to reference populations, which makes them closer to being told which regional accents your voice most resembles, out of a fixed set of recorded samples, than to receiving a verified family tree. Change the set of recorded accents and the same voice gets matched differently, which is why the percentages shift whenever the reference panels are updated. Full siblings routinely receive different percentages, because inheritance doesn't hand every child the same neat average, for reasons worked out in Chapter 296.
 
-Which brings the tube from the Prologue back around. Anna, Ruth, and Theo's saliva would have gone through exactly this pipeline: a chip reading a few hundred thousand predetermined spots, an ancestry estimate that quietly reshuffles itself with every database update, and a consent form that may well outlive the company that collected it. Whatever the results said, they described less about who the three of them are than about which reference populations a database happened to contain. The freckles Theo shares with Ruth, the family had already worked out for themselves, the old-fashioned way, in Chapter 293.
+Which brings the tube from the Prologue back around. Anna, Ruth, and Theo's saliva would have gone through exactly this pipeline: a chip reading a few hundred thousand predetermined spots, an ancestry estimate that quietly reshuffles itself with every database update, and a consent form that may well outlive the company that collected it. Whatever the results said, they described less about who the three of them are than about which reference populations a database happened to contain. The freckles Theo shares with Ruth, the family had already worked out for themselves, the old-fashioned way, in Chapter 296.
 
 DNA-relative matching is considerably more reliable. It measures the actual length of DNA segments shared between users, in units called centimorgans, and it has surfaced plenty of "not parent expected" surprises. Donor-conceived people have discovered half-siblings they never knew existed, and, in one case, a fertility doctor's (Donald Cline's) undisclosed biological children found each other and him decades later.
 
-Health reports mix two very different kinds of information. Some findings are high-confidence and essentially binary Mendelian results, like the lactase-persistence variant from Chapter 288. Others are softer, probabilistic disease-risk estimates that need real interpretive care and should never be mistaken for a diagnosis.
+Health reports mix two very different kinds of information. Some findings are high-confidence and essentially binary Mendelian results, like the lactase-persistence variant from Chapter 291. Others are softer, probabilistic disease-risk estimates that need real interpretive care and should never be mistaken for a diagnosis.
 
-## 322. What a Genome Can Tell You
+## 325. What a Genome Can Tell You
 
 *Status: Settled.*
 
@@ -1464,7 +1478,7 @@ Pharmacogenomics, using genetic tests to guide drug choice and dosing, is alread
 
 Two other applications are well established and actionable. Carrier screening tests prospective parents for recessive conditions before conception; it has been practiced since testing for Tay-Sachs disease began in 1971. Newborn screening, the routine heel-prick blood test, has been performed on virtually every baby since 1963 and is now expanding toward pilot programs for full newborn genome sequencing, such as the UK's 2024 Generation Study.
 
-## 323. What It Cannot Tell You
+## 326. What It Cannot Tell You
 
 *Status: Settled.*
 
@@ -1482,17 +1496,17 @@ There is also a serious equity problem built into these tools. The underlying st
 
 Polygenic scores for educational attainment and intelligence are a particularly fraught case. They explain only on the order of 12 to 16 percent of the variance, and half of even that modest signal disappears when comparisons are made within families instead of across the population. That is strong evidence that much of what the scores capture is "genetic nurture": parental environment correlated with parental genetics, acting on the child from outside. Such scores should never be used to judge individuals or groups.
 
-Chance accounts for much of what remains unexplained. Developmental noise and somatic mutation mean that identical twins, sharing effectively 100 percent of their inherited DNA, still show disease concordance of only somewhere between 25 and 50 percent for many conditions. As Chapter 296 showed, a lot of room is left over once genetics has had its say.
+Chance accounts for much of what remains unexplained. Developmental noise and somatic mutation mean that identical twins, sharing effectively 100 percent of their inherited DNA, still show disease concordance of only somewhere between 25 and 50 percent for many conditions. As Chapter 299 showed, a lot of room is left over once genetics has had its say.
 
 One practical policy matter remains. Since 2013, medical guidelines have recommended that clinical genome sequencing routinely report a specific list of "actionable" incidental findings, whatever the sequencing was ordered for; the list had grown to 81 genes by 2023. Patients can decline, exercising what's sometimes called a "right not to know," as James Watson did with his own APOE status in 2008. His status later proved at least partially inferable anyway, from the DNA surrounding the gene.
 
-## 324. Who Else Is Reading
+## 327. Who Else Is Reading
 
 *Status: Settled.*
 
 The 2018 arrest of the "Golden State Killer," Joseph James DeAngelo, marked a turning point in forensic genetics. Investigators uploaded a crime-scene DNA profile to a public genealogy database, GEDmatch, found distant relatives of the unknown suspect, and built outward into a full family tree. The technique, now called investigative genetic genealogy, launched a new forensic tool and a new privacy debate together. In practice it places anyone with even a distant cousin into a permanent genetic lineup, without consent or warrant, on the authority of a hobby website's terms of service.
 
-The centimorgan-based matching from Chapter 321 is what makes this work at such an unsettling distance. A third cousin still shares enough measurable DNA to show up as a match, even if the two of you have never met and share only a set of great-great-grandparents. Most Americans of European descent already have a third-cousin-or-closer match in one of the large genealogy databases, so essentially the entire population has become "findable," through relatives who uploaded their DNA for entirely unrelated reasons.
+The centimorgan-based matching from Chapter 324 is what makes this work at such an unsettling distance. A third cousin still shares enough measurable DNA to show up as a match, even if the two of you have never met and share only a set of great-great-grandparents. Most Americans of European descent already have a third-cousin-or-closer match in one of the large genealogy databases, so essentially the entire population has become "findable," through relatives who uploaded their DNA for entirely unrelated reasons.
 
 A regulatory patchwork followed. GEDmatch shifted to an opt-in model for law enforcement searches in 2019; Department of Justice policy that same year restricted the method to violent crimes; and in 2021 Maryland became the first state to require judicial authorization before it could be used at all.
 
@@ -1500,25 +1514,25 @@ Existing legal protections leave real gaps. The Genetic Information Nondiscrimin
 
 A foundational precedent, Moore v. Regents of California (1990), holds that people generally lose property rights over biological samples once those samples leave their body. The same legal backdrop underlies the Henrietta Lacks case: cells taken without her consent in 1951 were used in massive research and commercial applications for decades. A 2023 lawsuit against a company that had profited from her cells was eventually settled, on confidential terms.
 
-The same commercial logic reaches further than most people expect. Consumer DNA databases are legally ordinary commercial assets, transferable in bankruptcy like any other company property. That is exactly what happened when 23andMe's 2025 bankruptcy put roughly 15 million people's genetic data up for sale, as described in Chapter 321.
+The same commercial logic reaches further than most people expect. Consumer DNA databases are legally ordinary commercial assets, transferable in bankruptcy like any other company property. That is exactly what happened when 23andMe's 2025 bankruptcy put roughly 15 million people's genetic data up for sale, as described in Chapter 324.
 
 National police DNA databases raise their own consent and retention controversies, including the UK's database, the FBI's CODIS system, and reportedly large-scale government programs in China and elsewhere. The concerns are concrete: a 2008 European Court of Human Rights ruling went against the UK over its practice of indefinitely retaining DNA profiles of people who had been arrested but never convicted of anything.
 
-## 325. Fixing What Is Broken
+## 328. Fixing What Is Broken
 
 *Status: Settled.*
 
 A sharp line separates two kinds of gene editing, and the copying machinery from earlier chapters makes it easy to see. Somatic editing corrects a typo in one printed copy of a book already out in the world. The correction helps whoever holds that copy and dies with it, since the master file is unchanged. Germline editing changes eggs, sperm, or embryos, the master file itself, so the correction can show up in every copy printed afterward: every one of that person's descendants.
 
-Here the book picture breaks. A word processor reproduces a correction perfectly in every future copy; a germline edit carries no such guarantee. It is just one more allele, subject to the ordinary shuffling of meiosis and inheritance from Chapter 293. It could be diluted out of a lineage by chance within a few generations, or fixed in every descendant, like any other piece of DNA.
+Here the book picture breaks. A word processor reproduces a correction perfectly in every future copy; a germline edit carries no such guarantee. It is just one more allele, subject to the ordinary shuffling of meiosis and inheritance from Chapter 296. It could be diluted out of a lineage by chance within a few generations, or fixed in every descendant, like any other piece of DNA.
 
 What makes it uniquely serious is this: once the edit sits in a fertilized embryo, it will be present in every one of the trillions of cells that embryo grows into, with no way to edit it out afterward and no way to ask the resulting person's permission first. Everything approved for actual use so far, without exception, is somatic.
 
-Casgevy, introduced in Chapter 308, shows what "fixing" a genetic disease tends to mean in practice. It leaves the sickle cell mutation itself untouched. Instead it disables a separate gene, BCL11A, to reactivate a form of hemoglobin the body normally uses only before birth. It is a detour around the error.
+Casgevy, introduced in Chapter 311, shows what "fixing" a genetic disease tends to mean in practice. It leaves the sickle cell mutation itself untouched. Instead it disables a separate gene, BCL11A, to reactivate a form of hemoglobin the body normally uses only before birth. It is a detour around the error.
 
 A growing roster of approved gene therapies, including Luxturna, Zolgensma, Zynteglo, Hemgenix, Roctavian, Casgevy, and its rival Lyfgenia, now treats single-gene diseases of the eye, blood, liver, and motor nerves, at prices ranging from $850,000 to $3.5 million per treatment.
 
-KJ Muldoon's 2025 treatment, described in Chapter 308, raises a further question. Should regulators create a streamlined "platform" approval pathway for ultra-rare, individually customized gene therapies, instead of forcing each one through a lengthy process designed for drugs that treat thousands of patients at once?
+KJ Muldoon's 2025 treatment, described in Chapter 311, raises a further question. Should regulators create a streamlined "platform" approval pathway for ultra-rare, individually customized gene therapies, instead of forcing each one through a lengthy process designed for drugs that treat thousands of patients at once?
 
 The real bottleneck is usually delivery: getting the edit into the right cells. Viral vectors, typically built from adeno-associated virus (AAV), have limited cargo capacity and carry serious immune-response risks, including some patient deaths in high-dose clinical trials. Lipid nanoparticles, the delivery technology behind mRNA vaccines, work well for liver-targeted therapies but still can't reliably reach the brain, muscle, or lungs.
 
@@ -1526,7 +1540,7 @@ An estimated 260 to 450 million people worldwide, commonly rounded to about 300 
 
 Even where a cure exists, cost and healthcare infrastructure decide who gets it. Sickle cell gene therapies remain essentially unavailable across most of sub-Saharan Africa, which is where the majority of the world's sickle cell patients live.
 
-## 326. The Line We Said We Would Not Cross
+## 329. The Line We Said We Would Not Cross
 
 *Status: Settled.*
 
@@ -1534,19 +1548,19 @@ The 2023 Third International Summit on Human Genome Editing reaffirmed that heri
 
 The case for germline editing is real. When both partners carry two copies of a recessive condition, or one partner carries two copies of a dominant one, every possible embryo would be affected, so embryo selection, picking the healthiest of several embryos, offers no way out. In that narrow situation, editing is the only route to an unaffected biological child.
 
-The case against remains formidable. The future child cannot consent to a change made before they exist. Any error would be inherited by all of that person's descendants. And embryo mosaicism (uneven editing across an embryo's cells) and off-target or unintended DNA damage remain concrete, demonstrated risks, the very things that went wrong in He Jiankui's flawed 2018 edits, described in Chapter 313.
+The case against remains formidable. The future child cannot consent to a change made before they exist. Any error would be inherited by all of that person's descendants. And embryo mosaicism (uneven editing across an embryo's cells) and off-target or unintended DNA damage remain concrete, demonstrated risks, the very things that went wrong in He Jiankui's flawed 2018 edits, described in Chapter 316.
 
 Preimplantation genetic testing, in clinical use since 1990, already offers most such couples a much less fraught route. It edits nothing; it tests several IVF embryos and selects one that doesn't carry the disease-causing variant. That covers the great majority of cases of avoiding a single-gene disease and considerably weakens the practical argument for germline editing.
 
 A newer and more contested practice has emerged alongside it: commercial "polygenic embryo selection," offered since 2019 by companies like Genomic Prediction and Orchid. It uses population-based polygenic risk scores to rank IVF embryos for complex traits, including height, disease risk, and even educational attainment. The expected gains are strikingly modest: choosing the best of ten embryos might buy roughly 2.5 centimeters of height or about 2.5 IQ points. Major scientific societies have called the practice premature, given the small benefit and the underlying scientific uncertainty.
 
-Mitochondrial replacement therapy, sometimes called "three-parent" IVF, is a heritable technique already legally in use, permitted in the UK since 2015 to prevent inherited mitochondrial disease. Recall from Chapter 294 that mitochondrial DNA is a tiny, separate loop of instructions, apart from the twenty-three-volume main set, passed down only through eggs.
+Mitochondrial replacement therapy, sometimes called "three-parent" IVF, is a heritable technique already legally in use, permitted in the UK since 2015 to prevent inherited mitochondrial disease. Recall from Chapter 297 that mitochondrial DNA is a tiny, separate loop of instructions, apart from the twenty-three-volume main set, passed down only through eggs.
 
 The procedure swaps a donor's healthy mitochondria in for a mother's damaged ones. The intended parents' full nuclear genome, the twenty-three volumes that make someone who they are, stays untouched. The donor contributes a working battery pack, which is a generous definition of a parent. The first babies born in the UK using the technique were reported healthy in 2025.
 
 Internationally, 70 of 96 surveyed countries prohibit heritable human genome editing outright. After forty-three chapters, a position is owed. Mine: support somatic editing and conventional embryo selection; tolerate, though I would not personally use, unproven polygenic embryo selection; support mitochondrial replacement; keep germline nuclear editing off-limits for the time being; and reject "never" as a permanent, unrevisable absolute.
 
-## 327. Enhancement
+## 330. Enhancement
 
 *Status: Settled.*
 
@@ -1556,17 +1570,17 @@ People with a deficiency in myostatin, a gene that normally limits muscle growth
 
 A mutation in the gene EPOR gave the Finnish cross-country skier Eero Mäntyranta naturally elevated hemoglobin and oxygen-carrying capacity, as close to a natural blood-doping allele as exists in humans. He spent the rest of his life insisting, not unreasonably, that this didn't make him a cheat. The footnote: thicker blood also clots more readily, with its own health risks.
 
-A specific 32-letter deletion in the gene CCR5 confers near-immunity to the most common strains of HIV. It is the mechanism behind the celebrated "Berlin patient" HIV cure via bone marrow transplant in 2007. It also increases vulnerability to West Nile virus, and it was, not incidentally, the poorly executed target of He Jiankui's 2018 embryo edits described in Chapter 313.
+A specific 32-letter deletion in the gene CCR5 confers near-immunity to the most common strains of HIV. It is the mechanism behind the celebrated "Berlin patient" HIV cure via bone marrow transplant in 2007. It also increases vulnerability to West Nile virus, and it was, not incidentally, the poorly executed target of He Jiankui's 2018 embryo edits described in Chapter 316.
 
 A handful of smaller-effect variants round out the list. ACTN3 affects fast-twitch muscle performance in elite athletes, though only modestly. A rare variant in the gene pair BHLHE41/DEC2 lets some people function normally on unusually short sleep; nobody knows whether those saved hours carry a hidden cost over a lifetime. LRP5 variants produce unusually dense, fracture-resistant bones. Carriers have reportedly walked away unhurt from car crashes that would break other people's hips, and some apparently have trouble swimming, because dense bones sink.
 
 PCSK9 loss-of-function is a rare, seemingly unambiguous "pure gain": dramatically lower LDL cholesterol and heart disease risk, with no known downside. It directly inspired a new class of cholesterol-lowering drugs, including evolocumab and others approved from 2015 onward.
 
-Lactase persistence, from Chapter 288, remains the clearest example of a cost-free "enhancement" that spread naturally through a population. It came from an ordinary copying variation meeting the rise of dairy farming. Nobody designed it.
+Lactase persistence, from Chapter 291, remains the clearest example of a cost-free "enhancement" that spread naturally through a population. It came from an ordinary copying variation meeting the rise of dairy farming. Nobody designed it.
 
 That leaves sport and intelligence. The World Anti-Doping Agency has banned gene doping since 2003, and while it's technically plausible, no confirmed case has ever been detected. There is no known genetic "lever" for intelligence at all. Polygenic scores for educational attainment explain only something like 12 to 16 percent of the variance, and roughly half of that signal disappears within families. The "edited genius" makes a popular science-fiction premise and has no support in anything currently known about the genome.
 
-## 328. The Next Hundred Years
+## 331. The Next Hundred Years
 
 *Status: Serious but unconfirmed; the speculative tier is Speculative.*
 
@@ -1580,7 +1594,7 @@ The speculative territory includes germline editing for a narrow set of diseases
 
 The central prediction, stated plainly: by 2126, most single-gene diseases will be fixed in infancy as a matter of routine; prescribing, farming, and public health will be thoroughly genome-informed; aging will be modestly extended in healthy years more than in raw lifespan; and the species will remain, on the whole, recognizably itself. What will have changed is our relationship to our own genetic "text," from something that happens to us into something we read and carefully correct. It will never become perfectly error-free, and in the end we should not particularly want it to.
 
-## 329. A Short Timeline of Genetics
+## 332. A Short Timeline of Genetics
 
 *Status: Settled.*
 
