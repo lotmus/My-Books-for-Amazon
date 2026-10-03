@@ -1,0 +1,48 @@
+Most physics students are told that quantum electrodynamics is the most precisely tested theory in science. Very few are ever shown, line by line, how its numbers are computed. This course shows them.
+
+COMPLETE QUANTUM ELECTRODYNAMICS COURSE starts where Feynman's popular lectures start, with photons, probability arrows, and the sum over every path light could take, and ends where working physicists end: one-loop corrections, renormalization, and predictions that match experiment. In between, it rebuilds everything QED stands on, so nothing has to be taken on faith.
+
+Along the way:
+
+• Nine prologues for absolute beginners: arrows, partial reflection, bras and kets, and Feynman diagrams with no assumed background, plus a bridge from the microwave engineer's S-parameters to the S-matrix
+• The foundation, rebuilt: linear algebra, special relativity, Lagrangians, Maxwell's equations and gauge freedom, quantum mechanics, the Dirac equation, spinors, and antiparticles
+• Noether's theorem and the quantization of the scalar, Dirac, and electromagnetic fields
+• Local U(1) gauge symmetry and the QED Lagrangian, from which the vertex and the propagators are derived rather than assumed
+• The Feynman rules at work on five complete processes (electron-muon scattering, Møller scattering, electron-positron annihilation, Compton scattering, and pair production), carried all the way to cross sections and decay rates
+• Loops: vacuum polarization, self-energy, and vertex corrections; divergences, regularization, renormalization, the running electric charge, and the renormalization group
+• Ward identities, infrared divergences, and soft photons
+• The electron's g-2: why Dirac gives g = 2, and how one loop adds Schwinger's α/2π
+• The Lamb shift: why hydrogen's 2s and 2p levels split when the Dirac equation says they should not
+• Path integrals, effective actions, QED at finite temperature and in strong fields, and QED's place in the Standard Model
+
+This is a textbook, and it says exactly what it does and does not compute. It derives tree-level QED, one-loop renormalization, Schwinger's correction, and the leading Lamb-shift mechanism. It does not pretend to reproduce two-loop g-2, the full Lamb shift to kilohertz, or the weak and strong forces. Those limits are stated up front.
+
+87 lessons and 9 prologues in twelve parts. Every lesson ends with exercises, full solutions, and a mastery checklist, and every worked example is done line by line. A glossary of symbols, a consolidated formula index, a course capstone, and a bibliography close the book.
+
+You need pencil and paper. You do not need to have seen quantum field theory before. If linear algebra and ordinary quantum mechanics are willing to be rebuilt rather than assumed, this can be your first course in QED.
+
+COMPLETE QUANTUM ELECTRODYNAMICS COURSE is Volume 3 of the QUANTA, ACTUALLY series and the most technical of the three. Volume 1, THE QUANTUM WORLD, is the conceptual map. Volume 2, THE QUANTUM CONVERSATION, reads electromagnetism outward from quantum phase, and an Interlude after Lesson 41 connects the two views. Neither is required here. This course is where what they describe gets calculated.
+
+The most accurate prediction in science is a number someone worked out by hand. Here is how.
+
+----------------------------------------------------------------
+KDP METADATA (not part of the description)
+
+Title: Complete Quantum Electrodynamics Course
+Subtitle: From Mathematical Foundations to One-Loop QED
+Series: Quanta, Actually (Volume 3)
+Author: Lothar J. Musiol
+
+Keywords (7 KDP slots):
+1. quantum electrodynamics textbook
+2. QED course Feynman diagrams and Feynman rules
+3. quantum field theory for beginners self study
+4. renormalization and running coupling
+5. Dirac equation spinors gamma matrices
+6. electron g-2 anomalous magnetic moment
+7. Lamb shift vacuum polarization physics
+
+Categories:
+1. SCIENCE / Physics / Quantum Theory
+2. SCIENCE / Physics / Electromagnetism
+3. SCIENCE / Physics / Mathematical & Computational
