@@ -1,6 +1,6 @@
 # KDP listing — Your First Book That Sells
 
-Updated 1 October 2026. Platform facts were checked against KDP Help on 1 October 2026. This one listing replaces the old "Your First Book That Sells" plain edition and "How to Publish and Make Good Money"; they are now one book.
+Updated 1 October 2026. Platform facts were checked against KDP Help on 1 October 2026. This one listing replaces the old “Your First Book That Sells” plain edition and “How to Publish and Make Good Money”; they are now one book.
 
 ## Title fields
 
