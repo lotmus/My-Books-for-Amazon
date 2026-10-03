@@ -75,10 +75,10 @@ Do not reverse this block. An earlier save had every lecture paragraph backwards
 ## Names and dates in the live file
 
 - A. Eilstein. Not H. Eilstein. Not Weinstein. The physicist in a lesson may still be named Einstein.
-- Professor Max Tengelman. The Office lines say "Professor M. Tengelman". Not Tegnér.
+- Professor M. Tengelman, of the (fictional) Collegium at Brask. No first name in the text. Not modelled on any real physicist. The Office lines say "Professor M. Tengelman". In the appeal (Ch16) he produces the Office's 9 March letter of instruction.
 - Ellen Prosper, Sub-District 6, Outer Fenwick. Not Coldharrow Rise.
 - The Chapter 1 meeting is a Thursday morning in the third week of March. The case event is the fourteenth of March.
-- Ronald Dump. Do not rename him. A bad "Ronald Doughs" was corrected back to Dump.
+- President Aldous Wexley of the Galactic Counsel: a generic fictional career administrator, courteous and procedural. The earlier real-politician parody was removed entirely on Lothar's decision (2026-10-03). Do not reintroduce any parody of a real politician.
 - Jack Nashville is not Jack Bellboy. Bellboy is the Book 1 figure. The one Book 2 mention, "Bellboy's number", stays.
 - The fourteen citizens: Ellen Prosper in Peterhead, and thirteen others elsewhere.
 
@@ -118,7 +118,7 @@ Do not insert these again. Order is part of the sense.
 - Jago Flint speaks in the lobby before Lolly says "Come up." He warns that Eilstein will not take the stair unless asked, tells the 1919 stairwell story (fluorescents, Bloody Marys), and hands her Crispin Vale's unopened letter.
 - Mrs Elspeth Chain comes on the Tuesday after Fainrose says "Get her in." and before "Mrs Susie Kind arrived". She does not sit inside the Sunday letter. Lolly crosses "resolved" off Ellen Prosper's cover and clips a card: speak to her, not to the trace. She does not alter the trace.
 - Crispin Vale comes after "Beatrix has got one," and before "On the way to the session". Lolly minutes that he came anyway and refused to sign away the fourteen. She does not forgive him.
-- The Duc de Broccoli comes in after Esaki's car leaves and before "He just did to the March traces". He keeps the path. Esaki keeps the wave. The room does not choose. Chapter 15 does not settle it.
+- The Duc de Broccoli comes in after Dr Arakawa's car leaves and before "He just did to the March traces". He keeps the path. Arakawa keeps the wave. The room does not choose. Chapter 15 does not settle it.
 - Detective Inspector Albert Priddy is on the landing after the Chapter Nine backlog and before "Gideon was in the corridor with the coat". He closes the criminal file on the fourteen and does not close Ellen. His carbon is clipped beside Mrs Chain's card. He keeps his own umbrella.
 - Werner Heisenburger stands at the back of the Schwarzschild reading, before "Eilstein, summoned again". He will not name a second building until a dial moves. He carries nothing and leaves no scent.
 - Erich Schrottfinger comes up after the transit motion and before "the last piece of the department". The box has air holes and nothing in it. He refuses to be the cat in the file.
@@ -204,3 +204,9 @@ Its guide is `MANUSCRIPT_GUIDE.md` in that folder.
 The folder `Schrodingers_Paperwork/` next to the series, in `My Books for Amazon`, is not this Book 1. The parent `.gitignore` ignores it.
 
 Do not commit or push unless the user asks. The git root is `My Books for Amazon`. Do not force-push.
+
+
+## 2026-10-03 revision
+- Ch14 visitor is Dr Arakawa (fictional, 91, grew the crystals for Leo Esaki's 1957 tunnel diode at Tokyo Tsushin Kogyo). Leo Esaki appears only as documented history.
+- Ch16 has the on-page appeal (Vienna, Thursday 28 January 2027). Lolly finds the 2 March dispatch-ledger entry (the Office bought Schedule 4, the 308 margins sorted thinnest first). The fourteen are lines 1-14. Tengelman's 9 March letter shows the 14 March 'pilot realisation'. The ruling sets aside discontinuation and returns the map.
+- 9 February 2027 is a Tuesday. The register closes at 308. Schrottfinger and Mrs Kell are cut. The Ch6-15 notebook recaps are cut to the countdown line plus the final entry.
