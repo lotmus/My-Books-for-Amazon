@@ -16,7 +16,7 @@ Series-level notes (this file, `SERIES_BIBLE.md`, `SERIES_DESCRIPTION.txt`, audi
 Book 1 root: `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`, `KDP_DESCRIPTION_FINAL.txt`, `KDP_UPLOAD_READY.txt` (metadata and keywords), `KINDLE_COVER_FINAL_2560.jpg`.
 Book 2 root: `The_Permitted_Options_BOOK_2_DRAFT.docx`, `KDP_DESCRIPTION.txt`.
 
-The parent repository is `C:\Users\lomus\OneDrive\My Books for Amazon`, remote `https://github.com/lotmus/My-Books-for-Amazon.git`. The old `schrodingers-paperwork-manuscript` remote is gone. Do not pull it.
+The parent repository is `D:\My Books for Amazon`, remote `https://github.com/lotmus/My-Books-for-Amazon.git`. The old `schrodingers-paperwork-manuscript` remote is gone. Do not pull it.
 
 ## Book 1
 

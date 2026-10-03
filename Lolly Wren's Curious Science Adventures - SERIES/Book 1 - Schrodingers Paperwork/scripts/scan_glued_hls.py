@@ -5,7 +5,7 @@ import zipfile
 import re
 
 LIVE = Path(
-    r"c:\Users\lomus\OneDrive\My Books for Amazon"
+    r"D:\My Books for Amazon"
     r"\Lolly Wren's Curious Science Adventures - SERIES"
     r"\Book 1 - Schrodingers Paperwork"
     r"\Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx"

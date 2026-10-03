@@ -1,6 +1,6 @@
 # ANLEITUNG FÜR ANHANG-AUTOREN
 
-Du schreibst **einen Anhang** des Buchs „Auswandern in die USA“. Anhänge sind Nachschlage-Werkzeuge, keine Kapitel — kürzer, dichter, mehr Tabellen, kaum Fließtext, keine Boxen außer `Stand`. Projektordner: `C:\Users\lomus\OneDrive\My Books for Amazon\Auswandern in die USA`.
+Du schreibst **einen Anhang** des Buchs „Auswandern in die USA“. Anhänge sind Nachschlage-Werkzeuge, keine Kapitel — kürzer, dichter, mehr Tabellen, kaum Fließtext, keine Boxen außer `Stand`. Projektordner: `D:\My Books for Amazon\Auswandern in die USA`.
 
 ## 1. Lesen
 1. `_Konzept\00_Buchbibel.md` — Ton, Typografie, Markdown-Subset (gilt auch für Anhänge, außer wo hier abweichend beschrieben).

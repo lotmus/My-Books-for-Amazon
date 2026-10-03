@@ -3,7 +3,7 @@
 # Expects $env:TEMP\<key>_new.docx and $env:TEMP\<key>_src.tgz (front.txt + src/).
 # Backs up the master to bak\deploy\, moves chapters\<Book> to bak\chapters\, installs the new sources and master.
 param($Book,$Name,$Md5,$Tag,$Key)
-$B='C:\Users\lomus\OneDrive\My Books for Amazon'
+$B='D:\My Books for Amazon'
 $R=(Get-ChildItem $B -Directory | ? { $_.Name -like 'EE - Series*' -or $_.Name -like 'EE - SERIES*' } | Select-Object -First 1).FullName
 if(-not $R){ "ABORT series folder not found"; exit 1 }
 $s=Get-Date -Format 'yyyyMMdd-HHmm'; $f="$R\$Name.docx"; $t=$env:TEMP

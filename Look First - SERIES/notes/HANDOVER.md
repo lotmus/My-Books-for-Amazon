@@ -12,7 +12,7 @@ The numbered part files in this manuscript are the text. If `00_Status.md` disag
 
 ## Git
 
-Repo root is `C:\Users\lomus\OneDrive\My Books for Amazon` (not the Look First folder). Git dir `C:\Users\lomus\git-dirs\My-Books-for-Amazon.git`. Remote `https://github.com/lotmus/My-Books-for-Amazon.git`, branch `book-2-lectures-after-qed`. Look First lives at `My Books for Amazon\Look First - SERIES` (moved out of `Science Books` on 1 Oct 2026; " - SERIES" added 2 Oct 2026).
+Repo root is `D:\My Books for Amazon` (not the Look First folder). Git dir `C:\Users\lomus\git-dirs\My-Books-for-Amazon.git`. Remote `https://github.com/lotmus/My-Books-for-Amazon.git`, branch `book-2-lectures-after-qed`. Look First lives at `My Books for Amazon\Look First - SERIES` (moved out of `Science Books` on 1 Oct 2026; " - SERIES" added 2 Oct 2026).
 
 Other agents commit on `book-2-lectures-after-qed`, including books outside this series. Run `git status` from the repo root before assuming a file is clean or is yours. A status limited to the wrong path has reported a false clean tree.
 

@@ -1,6 +1,6 @@
 # ANLEITUNG FÜR KAPITEL-AUTOREN
 
-Du schreibst **ein Kapitel** des deutschsprachigen Buchs „Auswandern in die USA – Die Bibel für Umzug, Visum und Ankommen“ (Autor: Lothar J. Musiol). Projektordner: `C:\Users\lomus\OneDrive\My Books for Amazon\Auswandern in die USA`. Kapitelnummer, Dateiname, Wortziel und Faktenblätter stehen in deinem Auftrag.
+Du schreibst **ein Kapitel** des deutschsprachigen Buchs „Auswandern in die USA – Die Bibel für Umzug, Visum und Ankommen“ (Autor: Lothar J. Musiol). Projektordner: `D:\My Books for Amazon\Auswandern in die USA`. Kapitelnummer, Dateiname, Wortziel und Faktenblätter stehen in deinem Auftrag.
 
 ## 1. Lesen (in dieser Reihenfolge)
 1. `_Konzept\00_Buchbibel.md` — **verbindlicher Vertrag**: Ton (sachlich-respektvolles „du“), Typografie, Faktenregeln, Markdown-Subset, Boxen, Kapitel-Bauplan, Fallbeispiel-Personen, Terminologie.

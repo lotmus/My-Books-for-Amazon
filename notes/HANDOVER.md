@@ -1,6 +1,6 @@
 # Handover
 
-Several agents edit this repository at once. Pull `origin/main` before you start. Run `git status` from `C:\Users\lomus\OneDrive\My Books for Amazon`, not from a book folder. A status in the wrong folder has reported a clean tree that was not clean.
+Several agents edit this repository at once. Pull `origin/main` before you start. Run `git status` from `D:\My Books for Amazon`, not from a book folder. A status in the wrong folder has reported a clean tree that was not clean.
 
 If a book’s own note disagrees with this file, the book’s note wins inside that book. If a manuscript file disagrees with a status log, the manuscript wins.
 
