@@ -1,4 +1,4 @@
-"""Front and back covers for EE Series Books 3-7, in the design of cover_book2.png.
+"""Front covers for EE Series Books 1-7 and back covers for Books 3-7, in the design of cover_book2.png.
 
 Canvas 1600 x 2560 px (KDP Kindle ideal, 1:1.6), same as cover_book2.png.
 Measured from cover_book2.png: gold band 0-169, title cap height 93 px with a
@@ -35,6 +35,14 @@ SERIES = 'ELECTRICAL ENGINEERING SERIES'
 SERIES_MIXED = 'Electrical Engineering Series'
 
 BOOKS = {
+    1: dict(title=['FOUNDATIONS', 'OF ELECTRONICS'],
+            tags='PHYSICS · MATHEMATICS · CIRCUIT THEORY',
+            accent=(120, 170, 235), motif='found', back=None,
+            front_name='cover for book 1.jpg'),
+    2: dict(title=['CIRCUITS,', 'COMPONENTS,', 'AND CONTROL'],
+            tags='ANALOG · DIGITAL · REAL COMPONENTS',
+            accent=(215, 161, 59), motif='circ', back=None,
+            front_name='cover_book2.jpg'),
     3: dict(title=['SEMICONDUCTOR', 'PHYSICS AND', 'DEVICES'],
             tags='CARRIERS · JUNCTIONS · TRANSISTORS',
             accent=(96, 190, 204), motif='semi',
@@ -416,7 +424,59 @@ def motif_pkg(A, acc):
     A.line([(860, 1433), (910, 1433), (910, ym), (ex0, ym)], w=4)
 
 
-MOTIFS = dict(semi=motif_semi, rf=motif_rf, comms=motif_comms, power=motif_power, pkg=motif_pkg)
+def motif_found(A, acc):
+    # dipole field lines (left) and a sinusoid with its phasor (right)
+    q1, q2, y = (300, 1360), (560, 1360), 1360
+    for t in (0.35, 0.7, 1.05, 1.4):
+        for sgn in (-1, 1):
+            pts = []
+            for i in range(61):
+                u = i / 60
+                x = q1[0] + (q2[0] - q1[0]) * u
+                h = sgn * math.sin(math.pi * u) * 130 * t
+                pts.append((x, y - h))
+            A.line(pts, w=3, a=0.6)
+    for (cx, cy), sym in ((q1, '+'), (q2, '-')):
+        A.circle(cx, cy, 26, w=4, fill=(16, 36, 67), a=1.0)
+        A.circle(cx, cy, 26, w=4)
+        A.line([(cx - 12, cy), (cx + 12, cy)], w=4)
+        if sym == '+':
+            A.line([(cx, cy - 12), (cx, cy + 12)], w=4)
+    # phasor
+    pc = (760, 1360)
+    A.circle(pc[0], pc[1], 95, col=acc, w=3, a=0.8)
+    ang = math.radians(40)
+    tip = (pc[0] + 95 * math.cos(ang), pc[1] - 95 * math.sin(ang))
+    A.line([pc, tip], col=acc, w=4, a=0.95)
+    node(A, tip[0], tip[1], 7, acc, 0.95)
+    # sinusoid
+    A.line([(880, y), (1400, y)], w=3, a=0.7)
+    arrow_end(A, 1400, y, w=3, a=0.7)
+    A.line([(880, y - 130), (880, y + 130)], w=3, a=0.7)
+    A.line([(880 + i * 2, y - 95 * math.sin(ang + i * 2 / 260 * 2 * math.pi)) for i in range(256)], w=4)
+    A.line([tip, (880, tip[1])], col=acc, w=2, a=0.6)
+
+
+def motif_circ(A, acc):
+    # the Book 2 schematic: R, C, op-amp, L, logic block
+    y = 1362
+    A.line([(100, y), (262, y)], w=4)
+    zigzag(A, 262, 412, y, amp=14, n=4, w=4)
+    A.line([(412, y), (500, y)], w=4)
+    cap_v(A, 512, y, gap=10, half=30, w=4)
+    A.line([(524, y), (600, y)], w=4)
+    A.poly([(600, 1272), (600, 1452), (800, y)], w=4)
+    A.line([(800, y), (842, y)], w=4)
+    coil(A, 842, 1012, y, loops=4, w=4)
+    A.line([(1012, y), (1057, y)], w=4)
+    A.rect(1057, 1303, 1170, 1421, w=4)
+    A.line([(1113, 1338), (1113, 1386)], w=3)
+    A.line([(1103, 1346), (1113, 1338)], w=3)
+    A.line([(1170, y), (1292, y)], w=4)
+    arrow_end(A, 1292, y, w=4)
+
+
+MOTIFS = dict(found=motif_found, circ=motif_circ, semi=motif_semi, rf=motif_rf, comms=motif_comms, power=motif_power, pkg=motif_pkg)
 
 
 # ---------------------------------------------------------------- canvases
@@ -470,6 +530,11 @@ def front(n, b):
     traces(A, rng, [1665, 1732, 1760])
     MOTIFS[b['motif']](A, b['accent'])
     A.compose(im)
+
+    af = font_for_cap('bold', 34)
+    a_tr = track_for(af, 'LOTHAR J. MUSIOL', 560)
+    draw_tracked(d, af, 'LOTHAR J. MUSIOL', W / 2, 2080, a_tr, WHITE)
+    d.rectangle((740, 2160, 860, 2163), fill=GOLD)
 
     rf = _load('reg', 46)
     k = 571 / rf.getlength(SERIES_MIXED)
@@ -562,9 +627,12 @@ def main():
     for n in nums:
         b = BOOKS[n]
         f = front(n, b)
-        p = os.path.join(out, f'cover_book{n}.jpg')
+        p = os.path.join(out, b.get('front_name', f'cover_book{n}.jpg'))
         f.save(p, quality=95, dpi=(200, 200))
         del f
+        if not b.get('back'):
+            print('wrote', p)
+            continue
         bk = back(n, b)
         q = os.path.join(out, f'cover_book{n}_back.jpg')
         bk.save(q, quality=95, dpi=(200, 200))
