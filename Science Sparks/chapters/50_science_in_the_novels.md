@@ -1,4 +1,4 @@
-## 330. Special Relativity Begins by Being Rude
+## 333. Special Relativity Begins by Being Rude
 
 *Status: Strange but solid.*
 
@@ -22,7 +22,7 @@ You lean on this every time your phone shows you a blue dot on a map. GPS satell
 
 As a bonus, the same machinery resolves the famous Twin Paradox. Send one twin on a fast round trip to a nearby star while the other stays home, and the traveler comes back younger. No clock broke. Elapsed time (proper time) depends on which path you took through spacetime, and the twin who turns around takes the bent path, which simply racks up less time. Note the reversal from road-trip intuition: a scenic detour racks up more distance and burns more fuel than the direct road, but in spacetime it's the straight, unaccelerated path that racks up the most time. Either way, the total depends on the route, along with where you started and finished.
 
-## 331. Lorentz Finally Gets Involved
+## 334. Lorentz Finally Gets Involved
 
 *Status: Strange but solid.*
 
@@ -36,7 +36,7 @@ And yet the two observers aren't lost in total disagreement. One combined quanti
 
 The big lesson tucked inside all this: coordinates are descriptions of reality. Changing your coordinate system, switching who's "at rest," never changes what actually happened, only the numbers you use to write it down. And the classic trap: never add velocities the old Newtonian way once you're anywhere near light speed. Ten percent of light speed plus ten percent of light speed comes out at about 19.8 percent. The universe has opinions about that, and Newton's arithmetic isn't one of them.
 
-## 332. Enter General Relativity
+## 335. Enter General Relativity
 
 *Status: Settled.*
 
@@ -48,7 +48,7 @@ The equivalence principle is strictly local. A small enough freely falling labor
 
 Set four scenarios side by side. In a stationary elevator on the ground, a ball falls to the floor, exactly as expected. In a freely falling elevator, the same ball just floats, motionless relative to you. In an elevator drifting through deep space, far from any gravity, the ball floats too. And in an elevator accelerating upward out in deep space, the ball falls toward the floor, behaving exactly as if gravity had switched on. Pair them up and the principle appears: from inside a windowless box, the stationary elevator and the accelerating one are physically indistinguishable, and so are the freely falling one and the drifting one. That's the whole principle, right there, in an elevator shaft.
 
-## 333. The Apple
+## 336. The Apple
 
 *Status: Settled.*
 
@@ -62,7 +62,7 @@ The pleasingly backwards part is that, in this framework, standing still on the 
 
 Newton was approximately right, which is a perfectly respectable thing to be. Newtonian gravity remains an excellent, entirely serviceable approximation wherever relativistic corrections are small, which covers nearly everything you'll ever throw, drop, or launch in ordinary life.
 
-## 334. Singularities
+## 337. Singularities
 
 *Status: Settled; the white holes and wormholes are Speculative.*
 
@@ -76,7 +76,7 @@ A singularity signals the limit of General Relativity's authority, and not neces
 
 A few related characters worth knowing. Black holes are regions that hide singularities behind an event horizon, a one-way boundary nothing can cross back out of. White holes are their time-reversed mirror image: objects that can only emit, never absorb, which is a fairly good description of something nobody has ever truly seen. And wormholes are hypothetical tunnels connecting distant regions of spacetime, mathematically permitted, dramatically appealing, and (as the Wormhole entry below explains) considerably harder to build in practice than to write into a plot.
 
-## 335. Why SR and GR Don't Fight
+## 338. Why SR and GR Don't Fight
 
 *Status: Settled.*
 
@@ -86,7 +86,7 @@ The fit works like this. In any sufficiently small patch of spacetime, a freely 
 
 So if you ever run into an apparent contradiction between the two, some calculation in SR that seems to clash with one in GR, suspect an inconvenient choice of coordinates before you suspect an actual conflict between the theories. Nine times out of ten, that's exactly the case.
 
-## 336. The Door
+## 339. The Door
 
 *Status: Settled.*
 
@@ -98,7 +98,7 @@ Once two observers explain how they set up their coordinates, their two descript
 
 The same discipline carries straight over to time. A difference between two time-coordinates, two labels stamped on an event, is not automatically evidence that the observers disagree about which event occurred, or when, in any meaningful physical sense. Sometimes a gap between two numbers is just a gap between two rulers.
 
-## 337. Relativistic Travel
+## 340. Relativistic Travel
 
 *Status: Strange but solid.*
 
@@ -110,7 +110,7 @@ That's exactly what happens to a traveler who heads out at relativistic speed an
 
 Speed is only half the story; depth in a gravitational field counts too. A clock at cruising altitude sits in slightly weaker gravity and runs faster on that account, while the plane's speed slows it, so the net result depends on the flight. In 1971, atomic clocks flown around the world in both directions came home disagreeing with the clocks left on the ground, by the amounts relativity predicted. There is no master clock above the universe for anyone's watch to agree with. Time is real. It is also personal.
 
-## 338. The Cucumber
+## 341. The Cucumber
 
 *Status: Strange but solid.*
 
@@ -120,7 +120,7 @@ The part that keeps people up at night for no good reason is this: the object it
 
 Take a perfectly mundane cucumber, twenty centimeters long at rest on your kitchen counter. Now imagine an observer moving relative to it fast enough that their Lorentz factor works out to two. To that observer, your cucumber measures ten centimeters long in the direction it's traveling. Same cucumber. Same salad. Different tape measure, because the tape measure itself is doing something unusual.
 
-## 339. The Hologram
+## 342. The Hologram
 
 *Status: Serious but unconfirmed as a claim about our universe.*
 
@@ -132,31 +132,31 @@ The most precise version of this idea is an actual mathematical duality, called 
 
 This does not mean our actual universe literally is a two-dimensional projection, some cosmic cinema screen we're all living inside. It means that in specific, carefully constructed theoretical settings, two very different-looking descriptions can be mathematically identical underneath. That's a precise, narrow result, however good the sweeping version sounds at a dinner party.
 
-The narrow result still has a large implication. If a theory with gravity can be rewritten exactly as a theory without it, spacetime and gravity may be emergent, assembled from quantum information and entanglement. Emergent things are still real. Temperature, pressure and sound all emerge from jostling particles, and nobody declines to believe in a fever. Spacetime, and the cucumber from Chapter 338, could be real in exactly that way.
+The narrow result still has a large implication. If a theory with gravity can be rewritten exactly as a theory without it, spacetime and gravity may be emergent, assembled from quantum information and entanglement. Emergent things are still real. Temperature, pressure and sound all emerge from jostling particles, and nobody declines to believe in a fever. Spacetime, and the cucumber from Chapter 341, could be real in exactly that way.
 
-## 340. The Cinema Interpretation of Everything
+## 343. The Cinema Interpretation of Everything
 
 *Status: Settled.*
 
 The tangled multiverse of a certain Best Picture winner serves here purely as a metaphor, and explicitly not as any kind of working model of quantum mechanics. Its use is to make one point: what, exactly, can change in a *description* of something without changing the thing itself?
 
-Think about translation. A sentence translated from one language into another uses completely different words, different grammar, a different sound entirely, and yet the meaning survives intact. Physics does something similar. Coordinates can differ completely, entire theoretical frameworks can look unrecognizable side by side, and still describe the very same underlying, invariant reality. You've already seen two versions of this: the invariant spacetime interval from Chapter 331, and the AdS/CFT duality from Chapter 339. This is the same trick, one level more general.
+Think about translation. A sentence translated from one language into another uses completely different words, different grammar, a different sound entirely, and yet the meaning survives intact. Physics does something similar. Coordinates can differ completely, entire theoretical frameworks can look unrecognizable side by side, and still describe the very same underlying, invariant reality. You've already seen two versions of this: the invariant spacetime interval from Chapter 334, and the AdS/CFT duality from Chapter 342. This is the same trick, one level more general.
 
 That motivates a distinction worth keeping straight. An "observable" is a quantity tied to some specific measurement, and it can perfectly well be observer-dependent, the way speed depends on who's doing the measuring. An "invariant" stays fixed no matter which transformation you apply. The two get casually swapped all the time, and a lot of confused physics arguments trace back to exactly that mix-up.
 
 Which sets up the tensor, along with the almost-too-good analogy it deserves: a tensor is what happens when a vector gets promoted and starts having opinions about several directions at once. Informal, sure, but close. A tensor is a mathematical object whose individual components change depending on your coordinate system, while the object itself, and the physics it represents, stays exactly the same.
 
-## 341. Curved Corridors and Tidal Gravity
+## 344. Curved Corridors and Tidal Gravity
 
 *Status: Settled.*
 
-If gravity were perfectly uniform everywhere, the same strength and direction with no variation at all, you could always locally fake it or cancel it just by accelerating your reference frame the right way. That's the whole content of the equivalence principle from Chapter 332. Real gravitational fields vary from place to place, stronger closer to Earth's center and weaker farther out, and that variation is where the interesting physics lives.
+If gravity were perfectly uniform everywhere, the same strength and direction with no variation at all, you could always locally fake it or cancel it just by accelerating your reference frame the right way. That's the whole content of the equivalence principle from Chapter 335. Real gravitational fields vary from place to place, stronger closer to Earth's center and weaker farther out, and that variation is where the interesting physics lives.
 
 Take two objects in free fall side by side, on paths that start out perfectly parallel. Two skydivers jump together, each falling perfectly "straight down." Because "straight down" points toward Earth's center, and their two centerward directions are ever so slightly different, they drift very slightly closer together as they fall, though neither one nudges sideways on purpose. The gravitational field isn't quite the same at each of their locations, so their paths gradually converge or diverge over time.
 
 Physicists call this geodesic deviation, and it's the real, unfakeable signature of spacetime curvature. Uniform gravity can be transformed away with the right choice of accelerating frame; tidal effects, the relative drifting-together or drifting-apart of nearby free-fall paths, cannot. If you want to know whether you're really in curved spacetime, watching two nearby free-falling objects drift relative to each other is the only test that can't be faked.
 
-## 342. The Distant Train That Arrived Before It Left
+## 345. The Distant Train That Arrived Before It Left
 
 *Status: Strange but solid.*
 
@@ -168,21 +168,21 @@ The light cone keeps this straight. For any given event, it's the boundary separ
 
 So keep a diagnostic question handy for the next time a "before it left" headline crosses your desk: are the two events in fact causally connected? If there's no way a light signal could have linked them in time, a reversed ordering is just a coordinate artifact, an entirely normal feature of relativity, nothing to see here. If they are causally connected and the order still comes out reversed for some observer, that would be a real problem, and a considerably bigger one.
 
-## 343. The Dolphin and the Final Geometry
+## 346. The Dolphin and the Final Geometry
 
 *Status: Settled; the closing section on emergent spacetime is Serious but unconfirmed.*
 
-Time to properly meet tensors, after the informal introduction in Chapter 340. A scalar is just one number, a temperature, say. A vector has directional components: a velocity, with both a size and a direction. A tensor goes one step further and describes relationships that involve several directions simultaneously. Its individual components look different depending on which coordinate system you write them in, but the underlying tensor, and the physics it encodes, stays the same. Same trick as always: the description varies, the reality underneath holds still.
+Time to properly meet tensors, after the informal introduction in Chapter 343. A scalar is just one number, a temperature, say. A vector has directional components: a velocity, with both a size and a direction. A tensor goes one step further and describes relationships that involve several directions simultaneously. Its individual components look different depending on which coordinate system you write them in, but the underlying tensor, and the physics it encodes, stays the same. Same trick as always: the description varies, the reality underneath holds still.
 
 The metric tensor is spacetime's own instruction manual for measurement. It tells you how to compute distances, elapsed times, angles, and even causal relationships for any two nearby points in spacetime. Without it, you have a bare set of coordinates and no way to say how far apart anything actually is.
 
 The stress-energy tensor has earned a rather good nickname: the universe's spreadsheet. It describes, comprehensively, how energy, momentum, and stress are distributed and how they're flowing, at every point in spacetime.
 
-The Einstein field equation ties the two together into a single, extraordinarily compact statement, geometry on one side and matter and energy on the other. It compresses the whole of General Relativity into the sentence you already met in Chapter 332, which apparently bears repeating: matter tells spacetime how to curve, and spacetime tells matter how to move.
+The Einstein field equation ties the two together into a single, extraordinarily compact statement, geometry on one side and matter and energy on the other. It compresses the whole of General Relativity into the sentence you already met in Chapter 335, which apparently bears repeating: matter tells spacetime how to curve, and spacetime tells matter how to move.
 
 Is General Relativity the final word, though? Almost certainly not. It runs into real trouble with quantum-scale phenomena (the interior of black holes, the earliest moments of the universe), and that friction is exactly what drives the search for a theory of quantum gravity. One appealing possibility is that spacetime itself is emergent, arising from something deeper, the way temperature and pressure emerge from the jostling of countless individual molecules without either of those older descriptions being "wrong." Newton wasn't wrong about the apple. He just wasn't looking deep enough. General Relativity may turn out to be in the same boat.
 
-## 344. The Clock Was Lying, Precisely
+## 347. The Clock Was Lying, Precisely
 
 *Status: Settled.*
 
@@ -190,9 +190,9 @@ The final entry rests on one precise distinction. Proper time is what a clock me
 
 So when a record turns up showing a time that no watch, anywhere, ever ticked through, that's not evidence of time travel, and it's plainly not evidence of precognition. It's evidence that somebody, somewhere, mistook a coordinate label for an actual measurement. One is a real physical fact about a clock's history. The other is bookkeeping. Mixing them up doesn't bend the laws of physics; it just produces a very confusing clue.
 
-This confusion between the description of an event and the event itself is the thread running through the whole course, echoing Chapter 336's door (coordinate labels aren't invariant facts) and Chapter 331's blunt warning that coordinates are descriptions, and reality is something else. Apparently you can build an entire murder mystery out of that one mix-up, if you're patient enough.
+This confusion between the description of an event and the event itself is the thread running through the whole course, echoing Chapter 339's door (coordinate labels aren't invariant facts) and Chapter 334's blunt warning that coordinates are descriptions, and reality is something else. Apparently you can build an entire murder mystery out of that one mix-up, if you're patient enough.
 
-## 345. Relativity Terms Worth Keeping
+## 348. Relativity Terms Worth Keeping
 
 *Status: Strange but solid; traversable wormholes are Speculative.*
 
@@ -202,20 +202,20 @@ A **Manifold** is a space that looks like ordinary, flat coordinates if you zoom
 
 A **Worldline** is an object's complete path through spacetime: your biography, with fewer adjectives and more coordinates.
 
-**Decoherence** is the process by which quantum interference gets suppressed as a system becomes entangled with its environment, which is why everyday objects behave so reassuringly classically. Chapter 151 treats it properly.
+**Decoherence** is the process by which quantum interference gets suppressed as a system becomes entangled with its environment, which is why everyday objects behave so reassuringly classically. Chapter 152 treats it properly.
 
 A **Wormhole** is a hypothetical shortcut connecting distant regions of spacetime. The mathematics permits such solutions, but a *traversable* one would need exotic matter that, as far as anyone can tell, probably isn't buildable, which hasn't stopped a single novelist from building one anyway.
 
 
-## 346. Lessons Learned: What Relativity Leaves Open
+## 349. Lessons Learned: What Relativity Leaves Open
 
 *Status: Strange but solid; the closing question is open.*
 
-The cucumber in Chapter 338 was chosen precisely because it is such a boring, unglamorous object. Relativity doesn't care how exciting the thing being measured is. It applies to literally everything, cucumbers very much included.
+The cucumber in Chapter 341 was chosen precisely because it is such a boring, unglamorous object. Relativity doesn't care how exciting the thing being measured is. It applies to literally everything, cucumbers very much included.
 
 That leaves one question open. If descriptions can vary so completely while some invariant persists underneath them all, then what, exactly, is reality? Some questions are more useful unanswered.
 
-## 347. Special Relativity, Introduced as a Murder Investigation
+## 350. Special Relativity, Introduced as a Murder Investigation
 
 *Status: Strange but solid.*
 
@@ -241,7 +241,7 @@ The Lorentz transformation refuses to stay in its lane. A shift in position can 
 
 The same theory hides a sharper tool. If explaining a time discrepancy would require two observers to move faster than light relative to each other, that is no parameter you get to fudge until it works. "That," says the detective, "is Special Relativity telling you, quite firmly and without apology, that one of your premises is wrong. The frame, the event, the clock, or the photograph. Pick one."
 
-## 348. Paintings as Slices of Four Dimensions
+## 351. Paintings as Slices of Four Dimensions
 
 *Status: Strange but solid.*
 
@@ -263,7 +263,7 @@ That sign difference is exactly why spacetime resists being drawn. "We are tryin
 
 The detective tries one last flourish: the people standing in the paintings aren't merely objects occupying space, they are events. That earns a second correction. "A person is a worldline," says the physicist. "A whole string of events. You are being generous to call them one."
 
-## 349. Light Cones and the Newspaper That Was Both Right and Wrong
+## 352. Light Cones and the Newspaper That Was Both Right and Wrong
 
 *Status: Strange but solid.*
 
@@ -285,7 +285,7 @@ Physics is not breaking down. The same reasoning tames the more serious worry th
 
 One last wrinkle, tossed off almost in passing: a real train moves through curved spacetime, while simple light-cone diagrams assume flat spacetime. So General Relativity is back in the picture, and the flat-spacetime story about light cones may not be the whole story once actual gravity gets involved.
 
-## 350. Vectors, Tensors, and a Telepathic Dolphin Consultant
+## 353. Vectors, Tensors, and a Telepathic Dolphin Consultant
 
 *Status: Settled.*
 
@@ -312,7 +312,7 @@ So General Relativity contains Special Relativity, valid in every small enough n
 The voice in his head insists it is a dolphin. When the physicist finally says, "You're a very clever dolphin," it replies that it reads a great deal. Asked how it learned the physics, it explains that fish are very good listeners. It is a wink at the old science-fiction trope of dolphins as secretly hyper-intelligent observers of human affairs.
 
 
-## 351. Interpretations on Trial: Formalism, Many-Worlds, and the Wave Function's Ontology
+## 354. Interpretations on Trial: Formalism, Many-Worlds, and the Wave Function's Ontology
 
 *Status: Settled for the formalism; the interpretations are Serious but unconfirmed.*
 

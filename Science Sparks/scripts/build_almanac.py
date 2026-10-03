@@ -131,34 +131,34 @@ ALSO_BY = [
 FIGURES = {
     30: ("entropy_coins", "Entropy is counting. Of all the ways 100 coins can land, almost every one "
                          "is near half heads; the tidy extremes are a rounding error."),
-    34: ("light_cone", "A light cone. Only events inside your future cone can be affected by what "
+    35: ("light_cone", "A light cone. Only events inside your future cone can be affected by what "
                       "you do now; 'elsewhere' cannot be reached by any signal."),
-    67: ("hubble", "The farther the galaxy, the faster it recedes: the signature of space itself "
+    68: ("hubble", "The farther the galaxy, the faster it recedes: the signature of space itself "
                    "stretching. Schematic data."),
-    163: ("feynman", "The simplest Feynman diagram: two electrons repel by exchanging a photon. "
+    164: ("feynman", "The simplest Feynman diagram: two electrons repel by exchanging a photon. "
                     "A bookkeeping device for a calculation, not a photograph."),
-    55: ("bands", "Energy bands. The size of the gap decides between insulator, semiconductor "
+    56: ("bands", "Energy bands. The size of the gap decides between insulator, semiconductor "
                   "and conductor; silicon's gap is about 1.1 electron-volts."),
-    66: ("cosmic_timeline", "The universe's calendar, on a logarithmic scale. Most of the "
+    67: ("cosmic_timeline", "The universe's calendar, on a logarithmic scale. Most of the "
                             "interesting physics happened before anyone was around to be bored by it."),
-    144: ("double_slit", "Interference. With no record of which opening each particle used, hits "
-                         "pile up in stripes; keep that record and the stripes go (Chapter 148)."),
-    146: ("stern_gerlach", "Stern and Gerlach, 1922: silver atoms through a magnet land in two "
+    145: ("double_slit", "Interference. With no record of which opening each particle used, hits "
+                         "pile up in stripes; keep that record and the stripes go (Chapter 149)."),
+    147: ("stern_gerlach", "Stern and Gerlach, 1922: silver atoms through a magnet land in two "
                            "spots, not a smear. Angular momentum comes in bins."),
-    147: ("fourier_budget", "The shared budget. A wave that is narrow in time is wide in pitch, and "
+    148: ("fourier_budget", "The shared budget. A wave that is narrow in time is wide in pitch, and "
                             "the reverse; position and momentum keep the same books."),
-    150: ("bell_ceiling", "Bell's ceiling. Local prewritten answers cannot score above 2; quantum "
+    151: ("bell_ceiling", "Bell's ceiling. Local prewritten answers cannot score above 2; quantum "
                           "mechanics reaches 2.83, and experiments agree with quantum mechanics."),
-    151: ("decoherence", "Decoherence: the more the environment learns, the faster the stripes "
+    152: ("decoherence", "Decoherence: the more the environment learns, the faster the stripes "
                          "fade. Schematic."),
-    154: ("zeno", "The quantum Zeno effect. Check a slowly changing system often enough and it "
+    155: ("zeno", "The quantum Zeno effect. Check a slowly changing system often enough and it "
                   "almost never gets around to changing."),
-    155: ("hawking", "Hawking temperature falls as mass rises. A black hole of one solar mass is "
+    156: ("hawking", "Hawking temperature falls as mass rises. A black hole of one solar mass is "
                      "far colder than the microwave sky, so today it gains more than it loses."),
-    257: ("drift_selection", "Luck and selection. In a small population a neutral variant wanders "
+    259: ("drift_selection", "Luck and selection. In a small population a neutral variant wanders "
                              "until it is lost or fixed; a modest advantage in a large one wins "
                              "almost every time. Simulated."),
-    290: ("codons", "The genetic code is redundant: 64 three-letter words, 20 amino acids and a "
+    293: ("codons", "The genetic code is redundant: 64 three-letter words, 20 amino acids and a "
                     "stop signal. Some meanings have six spellings, two have only one."),
     7: ("unit_circle", "Sine and cosine are the two shadows of a point going round a circle "
                          "of radius 1."),
@@ -168,7 +168,7 @@ FIGURES = {
                   "is exactly 9."),
     22: ("square_wave", "Fourier's claim, tested: enough sine waves add up to a square wave. The "
                          "overshoot at the corners never fully goes away."),
-    331: ("simultaneity", "Two events that are simultaneous for you are not simultaneous for a "
+    334: ("simultaneity", "Two events that are simultaneous for you are not simultaneous for a "
                           "moving observer: for them, B happens first. Neither of you is wrong."),
 }
 
@@ -736,8 +736,8 @@ FOREWORD = [
     "The chapters are numbered straight through the book, so a reference such as Chapter "
     "148 means the same thing wherever you meet it, and on a Kindle you can tap it. You can "
     "read the sections in any order, but three runs reward reading front to back: Mathematics, "
-    "the opening course of Quantum Physics (Chapters 143 to 155), and the closing course "
-    "on quantum electrodynamics (Chapters 221 to 250).",
+    "the opening course of Quantum Physics (Chapters 144 to 156), and the closing course "
+    "on quantum electrodynamics (Chapters 223 to 252).",
     "Every chapter carries a status line under its title. It tells you how sure science is about "
     "the chapter's main claims. Mathematics is proved rather than measured, so its chapters are "
     "all Settled. There are four labels:",
@@ -783,25 +783,25 @@ PREFACE = [
 
 AFTERWORD_RULES = [
     ("The books balance.", "Energy, charge and momentum are conserved because the laws do not "
-     "change from place to place or moment to moment (Chapter 29 and Chapter 45). "
+     "change from place to place or moment to moment (Chapter 29 and Chapter 46). "
      "The same bookkeeping turns up as charge conservation in every circuit, and as the "
-     "accounting of a black hole's entropy (Chapter 155)."),
+     "accounting of a black hole's entropy (Chapter 156)."),
     ("Crowds are predictable; individuals are not.", "Entropy's arrow is a statement about "
      "overwhelming numbers (Chapter 30). So is radioactive decay, so is the Born rule "
-     "(Chapter 143), and so is the spread of a variant through a population (Chapter 257)."),
+     "(Chapter 144), and so is the spread of a variant through a population (Chapter 259)."),
     ("Descriptions change; invariants do not.", "Observers disagree about time and length and "
-     "agree about the interval (Chapter 331). Coordinates, gauges and phases can be chosen "
+     "agree about the interval (Chapter 334). Coordinates, gauges and phases can be chosen "
      "freely; the physics that survives every choice is the physics that is real."),
     ("Copies are never exact.", "DNA copies itself with a small error rate, and the errors are "
-     "the raw material of evolution (Chapter 292). An unknown quantum state cannot "
-     "be copied at all (Chapter 153). Culture copies too, with its own error rate, and "
-     "language and ideas evolve in the same way (Chapter 274)."),
+     "the raw material of evolution (Chapter 295). An unknown quantum state cannot "
+     "be copied at all (Chapter 154). Culture copies too, with its own error rate, and "
+     "language and ideas evolve in the same way (Chapter 276)."),
     ("Waves add before they are counted.", "Amplitudes add and then get squared "
-     "(Chapter 144). Rotating arrows add in an alternating-current circuit (Chapter 12), Fourier "
+     "(Chapter 145). Rotating arrows add in an alternating-current circuit (Chapter 12), Fourier "
      "components add into a square wave (Chapter 22), and Feynman's paths add into the one "
      "classical route."),
-    ("Knowing has a price.", "A which-path record erases the stripes (Chapter 148); position and "
-     "momentum share one budget (Chapter 147); an eavesdropper leaves fingerprints. Information "
+    ("Knowing has a price.", "A which-path record erases the stripes (Chapter 149); position and "
+     "momentum share one budget (Chapter 148); an eavesdropper leaves fingerprints. Information "
      "is physical, and the universe charges for it."),
 ]
 AFTERWORD_CLOSE = (
