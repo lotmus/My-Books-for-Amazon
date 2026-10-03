@@ -5,9 +5,9 @@ Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
 Copyright © 2026 Lothar J. Musiol. All rights reserved.
 
 Table of Contents
+How to Read This Book
 PROLOGUE
 Chapter 1 - The Surprise in the Morning
-How to Read This Book
 Chapter 2 - Case 1047
 Interlude - Sophie
 Chapter 3 - The Lorentz Transform
@@ -27,6 +27,31 @@ Chapter 16 - The Final Geometry
 EPILOGUE
 Coming Next
 COURSE (lessons, workshop, glossary, bibliography)
+
+How to Read This Book
+This is a satirical mystery with real relativity underneath. You need no physics to follow the case. The comedy is the bait. The geometry is the trap.
+The novel is Case 1047: a murder that has not happened yet, and a Bureau that files first and asks later. Derek Gent investigates a death notice with his name on it, while trying not to make the paperwork worse.
+The course lives after the novel as sixteen lessons. Most chapters, and the Epilogue, end the same way: a Rule, and a single link to your lesson. Follow it. The arrow follows the physics the chapter actually used, not the matching integer. Lesson 1 is not Chapter 1's twin by number; it is the object that chapter used. Each lesson should survive the hot-chair test: say the idea plainly to someone who has never heard the jargon — no phone, no notes, no hiding behind Greek letters.
+Three honest ways to read this book.
+For the story alone: read the chapters and stop at each Rule. You will know what the Bureau filed. You will not know why the filing was possible. That reason is the course.
+To take the class: read each chapter, then the lesson it points to. Chapters 1 and 2 share Lesson 1. After that, each chapter points at one lesson, and the lesson points back. A lesson may mention another chapter where the same idea appears. That mention is not a second arrow. Lesson 1 assumes nothing. Lesson 16 assumes you have been paying attention.
+If you are impatient: the photograph arrives on the first page of Chapter 1, and you may go straight to it. The class is still the worked solution. Skipping it will not punish the plot. It will punish the algebra.
+If you take the class out of order, take Lesson 2 before you argue with Chapter 3, and Lesson 14 before you board the train.
+One promise: where Newton cannot host this mystery, the book says so. Absolute 'now' makes Case 1047 gibberish. Relativity makes the misfiling possible — and the fear of it real.
+A companion list of films lives on the COURSE page, with a one-line reminder at the end of each lesson. None of them are required.
+Three demos, one job each, at https://lotmus.github.io/relativistic-site/ — simultaneity for Lesson 2, curvature for Lesson 5, and expansion so that "the universe stretches" is not filed under murder. The same address is repeated under Further Reading. It is not a fourth demo.
+
+Author's Note
+This novel is the first in The Relativistic Investigation Bureau series. Special and General Relativity, as used here, are settled physics. Holography is a live research programme: real in particular theoretical settings, not a proof that our universe is a cinema screen. The crimes and investigations are fictional. The jokes are mine.
+If you find yourself questioning whether time is fundamental, whether causality can be violated, or whether a sufficiently incompetent filing system could create paradoxes... congratulations. You're thinking like an investigator.
+The Bureau appreciates your attention to detail.
+
+Copyright Stuff (The Serious Part)
+No part of this book may be copied, stored, transmitted, photographed, scanned, uploaded, downloaded, teleported, interpreted through interpretive dance, or otherwise reproduced by any means without prior written permission from the publisher. Brief quotations in reviews are fine. Ripping off entire chapters and calling it "research" is not.
+
+Reality Check (Sort Of)
+This is a work of fiction. The names, characters, businesses, places, events, and assorted chaos contained herein are either products of the author's imagination or have been shamelessly fictionalised.
+Any resemblance to actual persons, living or dead, actual events, or suspiciously familiar situations is probably not coincidental. In fact, if you see yourself in these pages, you may want to spend a few minutes reflecting on the life choices that brought you here.
 
 PROLOGUE
 In Which the Universe Refuses to Behave
@@ -114,31 +139,6 @@ Penny took a pencil and wrote beside the printout Derek had just made, because s
 "I'm labelling," said Penny. "You said yourself that's what clocks do."
 Rule: A clock can lie by telling the wrong kind of truth.
 -> Lesson for this chapter: 1 - Special Relativity Is Rude
-
-How to Read This Book
-This is a satirical mystery with real relativity underneath. You need no physics to follow the case. The comedy is the bait. The geometry is the trap.
-The novel is Case 1047: a murder that has not happened yet, and a Bureau that files first and asks later. Derek Gent investigates a death notice with his name on it, while trying not to make the paperwork worse.
-The course lives after the novel as sixteen lessons. Most chapters, and the Epilogue, end the same way: a Rule, and a single link to your lesson. Follow it. The arrow follows the physics the chapter actually used, not the matching integer. Lesson 1 is not Chapter 1's twin by number; it is the object that chapter used. Each lesson should survive the hot-chair test: say the idea plainly to someone who has never heard the jargon — no phone, no notes, no hiding behind Greek letters.
-Three honest ways to read this book.
-For the story alone: read the chapters and stop at each Rule. You will know what the Bureau filed. You will not know why the filing was possible. That reason is the course.
-To take the class: read each chapter, then the lesson it points to. Chapters 1 and 2 share Lesson 1. After that, each chapter points at one lesson, and the lesson points back. A lesson may mention another chapter where the same idea appears. That mention is not a second arrow. Lesson 1 assumes nothing. Lesson 16 assumes you have been paying attention.
-If you are impatient: you already have the photograph. The class is still the worked solution. Skipping it will not punish the plot. It will punish the algebra.
-If you take the class out of order, take Lesson 2 before you argue with Chapter 3, and Lesson 14 before you board the train.
-One promise: where Newton cannot host this mystery, the book says so. Absolute 'now' makes Case 1047 gibberish. Relativity makes the misfiling possible — and the fear of it real.
-A companion list of films lives on the COURSE page, with a one-line reminder at the end of each lesson. None of them are required.
-Three demos, one job each, at https://lotmus.github.io/relativistic-site/ — simultaneity for Lesson 2, curvature for Lesson 5, and expansion so that "the universe stretches" is not filed under murder. The same address is repeated under Further Reading. It is not a fourth demo.
-
-Author's Note
-This novel is the first in The Relativistic Investigation Bureau series. Special and General Relativity, as used here, are settled physics. Holography is a live research programme: real in particular theoretical settings, not a proof that our universe is a cinema screen. The crimes and investigations are fictional. The jokes are mine.
-If you find yourself questioning whether time is fundamental, whether causality can be violated, or whether a sufficiently incompetent filing system could create paradoxes... congratulations. You're thinking like an investigator.
-The Bureau appreciates your attention to detail.
-
-Copyright Stuff (The Serious Part)
-No part of this book may be copied, stored, transmitted, photographed, scanned, uploaded, downloaded, teleported, interpreted through interpretive dance, or otherwise reproduced by any means without prior written permission from the publisher. Brief quotations in reviews are fine. Ripping off entire chapters and calling it "research" is not.
-
-Reality Check (Sort Of)
-This is a work of fiction. The names, characters, businesses, places, events, and assorted chaos contained herein are either products of the author's imagination or have been shamelessly fictionalised.
-Any resemblance to actual persons, living or dead, actual events, or suspiciously familiar situations is probably not coincidental. In fact, if you see yourself in these pages, you may want to spend a few minutes reflecting on the life choices that brought you here.
 
 Chapter 2
 Case 1047
@@ -848,7 +848,7 @@ He had done it from the single photograph, with a program that worked out depth 
 "First question," said Trevor. "Is it a real photograph, or did somebody make it? If somebody made it, with one of those programs that invents pictures, the light will be wrong. Not obviously. Quietly. Shadows that point at two different suns. Reflections that show the wrong side of things." He dragged a line from the clock's shadow back through the window. "One sun. South-south-east, about twenty-five degrees up. Which is where the sun is over Holborn at about three minutes past eleven in the middle of October. Every shadow agrees with every other shadow. It's real."
 "It's a hologram," said Tabitha, who had been watching from the corner with the air of someone who had been told the evening would involve physics and had brought a book in case.
 "It's the opposite of a hologram," said Trevor. "A hologram's a flat plate that's recorded the whole light field, so you can look round things. This is a flat photograph that's recorded almost nothing, and I'm guessing the rest. But I take your point."
-"There is a beautiful idea in physics," said Weinstein from the windowsill, where he was eating a slice of pizza with the precision of a man defusing it, "that a whole world can be written on its own walls. It works perfectly in certain model universes and has not been shown in ours, and it is not about your office. What is about your office is this. A flat thing can hold more about a solid thing than you would think, if you know how to read it. And it can lie, if you read it with the wrong dictionary."
+Weinstein, on the windowsill, ate his pizza with the precision of a man defusing it and said nothing at all, which Penny noted as a first.
 Trevor moved the room. "Second question. Who was standing here?" He put the viewpoint where the camera was, on the bookshelf, and then pulled it back and showed them the frame on the wall, the old man and the Morris Minor, and the bright reflection in its glass. He enlarged the reflection until it fell to pieces into squares, and then let it come back a little. In the glass you could see the window, and in the window's edge you could see the bookshelf, and on the bookshelf, small and white, the camera.
 "Nobody," he said. "Nobody was standing by the window. If there'd been anyone between the bookshelf and the glass, we'd see them in the reflection. It's the camera. It's only the camera. Somebody looked through it from a phone, somewhere else, and pressed capture."
 "Somewhere else could be anywhere," said Derek.
@@ -1162,19 +1162,20 @@ The page for Monday the ninth of February had four entries. A courier for the th
 "Drawer three," said Derek.
 "Drawer three," Mrs Marsh agreed. "I'll want the key back."
 She went. The stairs reported her.
-They stayed late. Nobody suggested it; nobody went home. Penny fetched food. Tabitha went to a dinner in Brixton that she said she could not get out of and promised to come back, which nobody believed, and Gucci stayed under Trevor's desk in her absence with the air of a dog guarding a confession. Weinstein took the whiteboard, because he could not be prevented, and wiped off EVENT, FRAME, TIME, and wrote instead, down the left-hand side, in his small looped hand, every event of the case in the order it had happened. Not the order they had learned it. The order it had happened.
-2019, March. Derek writes a note about an Ealing clock. Scanned.
-February. Device 3 pairs with the camera.
-September. Sophie buys a clock for four pounds.
-Wednesday 14th, ~10:45. Derek back from physio. Floor. Wheat bag. Asleep.
-11:03:17. Sophie in the doorway, leaving. Clock on the desk. Manual capture, device 3. Camera stamps: WED 11:03:17.
-11:05. Sophie gives the clock to Mrs Marsh. 11:17, bus. 12:04, register.
-Thursday 15th. Trevor breaks the glass.
-Tuesday 20th, 09:17. Sweep. CASEBOOK makes a case. "Tomorrow." "You."
-Wednesday 21st, 11:03. Nothing. 11:04. "Occurred." Notifications.
-"There," said Weinstein, and stood back. "Every arrow on that board points one way. Each thing on it could have caused the things below it and none of them could have caused the things above. That is what we mean by causal order, and here is the most important fact in relativity, which is not that time is strange: it is that this order is the same for everyone. However fast you are going, wherever you stand, if one event could have sent a signal to another, every observer in the universe agrees which came first. The only events whose order observers can argue about are events so far apart that nothing, not even light, could get from one to the other in time. Nothing on this board is like that. It is all one office, one camera, one girl, one week."
-"So where did tomorrow come from?" said Trevor.
-"From a label. The order was always right. The names were wrong. Your computer took an event from here," he tapped 11:03:17, "and wrote on it a name that belonged down here," he tapped Wednesday 21st. "It is like those people who write the year wrong in January. They have not travelled in time. They have filled in a box."
+They stayed late. Nobody suggested it; nobody went home. Penny fetched food. Tabitha went to a dinner in Brixton that she said she could not get out of and promised to come back, which nobody believed, and Gucci stayed under Trevor's desk in her absence with the air of a dog guarding a confession. Weinstein took the whiteboard, because he could not be prevented, and wiped off EVENT, FRAME, TIME. Then, instead of writing anything, he handed round the pad of sticky notes.
+"Each of you writes the part that is yours," he said. "In your own hand. Then you put it where it happened. Not where you learned it. Where it happened."
+"This is a seminar," said Penny.
+"It is a confession with stationery," said Weinstein. "Seminars have biscuits."
+Penny went first, because she always did. 2019, March. D.'s note about the Ealing clock. Scanned by me, with everything else. She stuck it at the top left of the board and then, after a second, moved it a little higher, as if seven years needed the room.
+Trevor wrote three and held them for some time before he put them up. Three years ago: weekday stamp, because the date was ugly. Appointment field: forward only. Default perpetrator: you. (A joke.) He put the last one up crooked and did not straighten it. Derek's hand went out to do it, and stopped halfway, and Trevor saw it stop.
+Derek wrote Mon 9 Feb, 14:12. Device 3 pairs. Somebody I can't name, and put it where February went, and found he had left a gap above it the width of a hand, which nobody mentioned.
+Weinstein wrote Sophie's, in his small looped hand, from what Clive had said and what Mrs Marsh had said: September: a clock, four pounds. Wed 14th, 11:01: up the stairs, quiet on the fourth step. 11:03:17: in the doorway, leaving. Capture, device 3. 11:05: the clock to Mrs Marsh. 11:17, the bus. 12:04, register. Then he gave the pad back to Derek, because there was one left, and it was his.
+Wed 14th, about 10:45. Back from physio. Floor. Wheat bag. Asleep. It was the most ordinary sentence on the board and the only one he did not want to put up, because it went above hers. He had been on the floor for all of it. He put it where it belonged and pressed it flat with his thumb.
+Trevor added Thu 15th: broke the glass. Me. Penny added the last two: Tue 20th, 09:17: CASEBOOK makes a case. Wed 21st, 11:03: nothing. 11:04: "occurred". Tuppence told.
+"There," said Weinstein, and stood back. "Every note points down. Each one could have caused the ones below it, and none of them could have caused the ones above. That order is the one thing in relativity that everybody agrees on, however fast they are going and wherever they stand. It was right all week. Only the names were wrong."
+"So where did tomorrow come from?" said Trevor, although he knew.
+Weinstein peeled Appointment field: forward only off the board and stuck it beside Sophie's 11:03:17, touching it. "From there. Your machine took a thing from up here and wrote on it a word that belonged down there. People do it with the year every January. They have not travelled in time. They have filled in a box."
+Trevor looked at the two notes side by side, his and hers. Then he reached up and straightened the crooked one, the you, and nobody stopped him.
 Penny took the last of the pizza to the window, where the street lamp made a sodium square on the glass, and Derek, who had nowhere else to be until two in the morning, came and stood beside her.
 For a while they watched the street. A fox went down the far pavement with the air of a creature who had a key.
 "You've been very calm all week," said Derek.
@@ -1220,12 +1221,79 @@ Already did. 01:00 happened twice tonight. First one was summer. Second one is w
 Like the photo, he wrote. Go to sleep, sweetheart. And this time he did not delete the word.
 Ok. A pause. Is Julian allowed to know about the extra hour?
 Everybody's allowed to know about the extra hour. That's what it's for.
-Derek had written the statement for Detective Sergeant Vance by then. It was four pages long and said everything on the whiteboard and nothing that was not there. He had left one line blank. Device 3: unidentified. He looked at that line. Somebody had looked through the camera at three minutes past eleven on a Wednesday morning and seen him asleep on the floor and his daughter in the door, and had pressed a button, and done nothing else, ever. He did not know who. He did not know why. He did not like it, and he was not going to pretend he did, and he was not going to fill the field with the nearest name he could find.
+∗
+At nineteen minutes past one, winter time, the camera woke up.
+It made no sound. It did not need to. On the front of the white cube, under the lens, there was a pinprick of blue light that came on only when somebody, somewhere, was watching the live picture. Trevor had chosen that model three years ago for that light, which he called the ethical option. Nobody in the Bureau had ever seen it lit. They had always been the ones doing the watching.
+Trevor saw it first, from the floor, where he was sitting with his back against his desk and Gucci's head in his lap. He did not say anything. He put one hand flat on the carpet, the way Derek did, and Penny, who knew that hand, turned round from the window.
+"Derek," she said, very quietly.
+He looked. Blue, and steady. A small, polite, unblinking point of attention on a bookshelf, between a dictionary of quotations and a box of staples, looking at four people and a dog in an office at twenty past one in the morning.
+"I unpaired it," said Trevor. His voice had gone up half an octave. "On Thursday. I changed the password. I unpaired device three. I did."
+"Then who's that?"
+Trevor had the laptop open on his knees, typing with the speed of a man who would rather be typing than thinking. "Not the camera. The account." He made a noise that was not a word. "Oh, you idiot. There are two lists. There's the list of phones paired with the camera, which I cleared. And there's the list of people the account is shared with, which is a different screen, in a different menu, under Family, because the people who make these things think the only person who would ever look into your house is your mum." He turned the laptop round. Under SHARED WITH there was one line. Device 3. Shared 09/02, 14:12. Last active: now. "It's been there all along. I locked the front door and left the back one on the latch."
+Nobody said you couldn't have known. Tabitha would have. Tabitha was in Brixton.
+"Can you see where they are?" said Derek.
+"No. I can see it's a phone. I can see it's watching. And the account keeps more than the camera does." Trevor scrolled. "It logs the viewer's own clock with every request. Here's the fourteenth. Our camera says eleven oh three. Their phone says three minutes past ten." He looked up. "An hour behind us. In October. We were on summer time and it wasn't. It's been on winter time all year."
+"Which means?"
+"Somewhere that stays on Greenwich time all year. Or a phone set to universal time by someone who likes universal time. That's all I've got." He swallowed. "If I leave the share open and it keeps looking, it might do something clumsy and I might get more. An address, maybe. If I revoke it, it's gone, and so's the trail."
+The blue light watched them. Derek found that he was standing up, and could not remember standing, and that his back had not been consulted.
+He knew exactly what the sensible thing was. Leave it on. Let it look. Sit very still in an office at half past one in the morning and be watched, so that Trevor could watch the watcher and find out, by Monday perhaps, a number on a phone. It was what he would have advised a client. It was, near enough, what he had paid Kenneth Greaves to do outside a school gate. It was what he had done himself on Thursday night, under a plane tree in Islington, looking at a lamp behind a blind.
+"If it is the same hand as last time," said Weinstein, gently, as if remarking on the weather in a country he was fond of, "it will look, and then it will press the button. That is all it has ever done."
+"Then let it," said Penny.
+She put down her plate. She walked across the room, round the desk, past the place on the carpet where Derek had lain on Wednesday and where, in the photograph, he had lain the Wednesday before, and she stood in front of the bookshelf, square to the camera, an arm's length from the lens, in her coat, with her arms at her sides.
+"Penny," said Derek.
+"No." She did not turn round. "I've been in this office longer than the carpet, and I'm not in a single picture of it. Not one. I'm the one who isn't in the photograph. If somebody wants a photograph of the Bureau at half past one in the morning, they can have one with me in it." She looked into the lens the way she looked at insurers. "Good evening. We can see you too. You're the little blue light. You're very rude."
+Trevor laughed, a high, frightened laugh, and put his hand over his mouth.
+Derek went and stood beside her. Not behind her. Beside. After a moment Trevor got up off the floor, and Gucci with him, and came and stood on Penny's other side, too tall for the frame and stooping to fit it. Weinstein put down his pizza and buttoned his jacket, because if he was going to be evidence he intended to be presentable evidence, and took the end of the row, by the filing cabinet, under Sophie's clock.
+They stood there, four people and a dog in a row in front of a bookshelf, like a family at a seaside photographer's who have been told not to move.
+The blue light watched. Two floors down the radiator in the lodge knocked twice. On the filing cabinet the brass clock ticked through the second half-past-one of the night.
+"You told us not to do anything memorable until two," said Weinstein, without moving his lips. "I think we have failed you."
+Trevor's phone buzzed in his pocket. He did not take it out. They all knew the sound the app made.
+Snapshot captured by Device 3. SUN 01:31.
+He showed them. A small square on the screen: four people and a dog in a row in an office at night, standing up. Penny in the middle, chin up. Derek at her side, one hand on the shelf. Trevor stooping. Weinstein presentable. In the corner of the frame a brass clock that said, if you enlarged it, thirty-one minutes past one. Nobody on the floor. Nobody in the door.
+"Well," said Penny, and her voice was nearly steady. "That's the Christmas card sorted."
+"Revoke it," said Derek.
+Trevor stared at him. "If I revoke it we lose them."
+"I know."
+"It's the only thread, Derek. It's the only thing in the whole case we haven't—"
+"I know what it is." Derek did not take his eyes off the blue light. "For a week everybody in this family has been watching somebody they love through a gap, because they were frightened and it was easier than asking. I watched my daughter's school from a car. I watched her mother's house from under a tree. Somebody has been watching us through that, and I want to know who, and I'm not going to find out by sitting very still and being looked at." He reached past Penny to the back of the cube and found the little cable with his fingers, and did not pull it yet. "Revoke the share. Then I'm unplugging it. Whoever they are, they can knock."
+Trevor typed. He pressed one key and kept his finger on it as if it might bite.
+Remove Device 3? It will no longer be able to view this camera.
+"Yes," said Trevor, and pressed it.
+The blue light went out.
+Derek pulled the cable. The cube went dark all over, the small green power light and all, and it was only a white plastic box on a bookshelf, and the office was only an office, with four people standing in a row in it at half past one in the morning like idiots.
+Nobody moved. Then Gucci sat down, because he had been standing for longer than he considered reasonable, and Weinstein unbuttoned his jacket, and Trevor put both hands over his face.
+"I'm sorry," he said through them. "I said nobody could do it again. I said it on Thursday."
+"You said it about the front door," said Penny. "You were right about the front door." She put a hand on his arm, briefly, which in Penny was an embrace. "Write down the back one. Then never do it again."
+He wrote it down. It became item ten on the list of clocks, because that was the piece of paper in his hand. Ten. Device 3. Shared 9 Feb. Viewer's clock on winter time all summer. Revoked SUN 01:33 (the second one). Last seen: us.
+Penny went back to the window and picked up her plate. Her hand was shaking, now that nobody was watching it, and she let it. Derek saw, and said nothing, and went and stood beside her, where he had stood before the clocks went back.
+"Don't straighten anything," she said, without looking at him.
+"I wasn't going to."
+"You were going to straighten me."
+He had been. He put his hands in his pockets.
+"That's the first photograph of this office with me in it," said Penny. The fox had come back and was sitting under the street lamp as if it had been told to wait there. "I look furious."
+"You look like the only one standing up straight."
+"I was. I always have been. That's the point." And then, so quietly that he nearly missed it: "Ask Trevor to send it to me."
+∗
+Derek had written the statement for Detective Sergeant Vance by then. It was four pages long and said everything on the whiteboard and nothing that was not there. Now he added a fifth, by hand: the blue light at 01:19, winter time; the shared account; the viewer's clock an hour behind all summer; the snapshot at 01:31; revoked at 01:33; unplugged by him. At the bottom he left one line blank. Device 3: unidentified. He looked at that line. Somebody had looked into this room twice, eleven days apart, and pressed a button twice, and done nothing else. He did not know who. He did not know why. He did not like it, and he was not going to pretend he did, and he was not going to fill the field with the nearest name he could find.
 There was one thing left, and it was not a fact. It was a choice. On Monday Vance would read the statement. It said, in writing, that a twelve-year-old had left school without permission in a study period, and it said where she had gone and why. Tuppence would read it after that, if he let her. Or she could hear it first, from the people it was about, at her own table.
-At half past one, for the second time that night, he texted Tuppence. Can I come round at ten tomorrow? Sophie has something to tell you, and so do I, and I'd like us to do it at the same table. Nobody's in danger. Nobody was ever in danger. It's about a clock.
+At twenty-five to two, winter time, he texted Tuppence. Can I come round at ten tomorrow? Sophie has something to tell you, and so do I, and I'd like us to do it at the same table. Nobody's in danger. Nobody was ever in danger. It's about a clock.
 He put the phone down and did not expect an answer. It came in under a minute.
 Ten. Bring the clock.
-Tabitha arrived at the door at twenty to two, winter time, wet and pleased, with a train that had arrived before it left, and found her brother asleep at his desk and her dog asleep under it and Derek Gent sitting by the window, watching the street, with the expression of a man who has finally been told what time it is.
+∗
+In Islington, Tuppence Gent had been awake since the first one o'clock.
+She had gone to bed at eleven with a novel about a woman who restored a lighthouse, and read the same page four times, and some time after midnight had given up on the lighthouse and come down to the kitchen. The hall was a corridor of Julian's boxes, labelled on two sides, stacked along the wall in an order she had stopped pretending was not alphabetical. She had put the oven clock back an hour at what it believed was two, because the oven had no opinion about summer, and then stood in her own kitchen and understood that she was going to get the same hour twice and had nothing whatever to do with it.
+She made tea and did not drink it. Upstairs the line of lamplight under Sophie's door had not gone out, and twice she had heard the small creak of the bed that meant Sophie was sitting up with the notebook on her knees. She had not gone up. She had decided, this week, to stop going up.
+When the phone lit on the table she read the message once, and typed Ten. Bring the clock., and sent it before she could improve it. That was a thing she had learned to do in the last nine years and had not been able to do in the seven before.
+Then she sat with both hands flat on the old table.
+That was the whole of it, if anybody had ever asked her properly, which nobody had until a patent examiner from Munich at the top of a disused station yesterday morning. She had not left because Derek was slow. She had married slow; slow had been the point. She had left because somewhere in the seventh year she had noticed that she had stopped saying things first. She would see a thing, the glass in a frame, the look on a face, and she would wait, because he would get there. He always got there, properly, numbered, in the right order, and by the time he did it was his. She had turned into a woman who kept her results in her bag. She had been thirty-one. She had wanted to say a thing first in her own house, and be wrong about it if necessary, at her own table.
+She had told him that once, badly, at this table, and he had listened in the careful way that made it impossible to fight, and said, "That's fair," and taken the sofa.
+Upstairs the bed creaked again.
+Sophie told her father the working and her mother the results. Tuppence had known it for years and had said it aloud on a spiral staircase yesterday morning for the first time, and it had come out tired and younger than she meant. And since the taxi on Wednesday she had known that she was frightened of the same thing as Derek: that the girl upstairs kept a column in that notebook for each of them, and kept it honestly.
+She got up and took her clipboard off the hook by the back door. Tomorrow was on it already, in her list voice. 14:00 VAN. 14:15 BOOKS (D. LIGHT ONES ONLY). 15:00 BED, S. TO SUPERVISE. Underneath, she wrote WEDNESDAYS: D., AFTER SCHOOL.
+She had meant to decide it in a week. She had meant to talk it over with Julian, and then with Derek, and then with Sophie, in that order, at a table. She had been going to do it properly.
+She did not cross it out. She wrote the time beside it, 01:40, and then, because it was that kind of night, (winter), and hung the clipboard back on its hook, where Sophie would see it on her way to breakfast and arrange her face. Then she went up past the lamplight under the door, and did not knock, and found at the top of the stairs that she was smiling, with nobody there to see it. That was all right. It was hers.
+∗
+Tabitha arrived at the door at ten to two, winter time, wet and pleased, with a train that had arrived before it left, and found her brother asleep at his desk with the list of clocks under his cheek and her dog asleep under it and Derek Gent sitting by the window, watching the street, with the expression of a man who has finally been told what time it is.
 Rule: Causal order is the same for everyone. Labels are not. A train that arrives before it leaves is a timetable, not a time machine.
 -> Lesson for this chapter: 14 - The Train Arrived Before It Left
 
@@ -1242,7 +1310,7 @@ By then it was a quarter to ten. He picked up the clock in its envelope and walk
 Tuppence's kitchen in Islington had the same table it had always had, because when they divided things up nine years ago she had wanted the table and Derek had wanted the sofa, and both of them had been wrong about what they would miss. Julian made coffee. He had rung the police on Wednesday night, and had said so to Derek on Friday, among the boxes, without apology. He said it again now, at the door, as if it needed to be on the record in this house too, and Derek said, "You were right to," and Julian looked so relieved that Derek found he liked him, which was, on the whole, inconvenient.
 Sophie sat at the end of the table with her notebook in front of her, closed, both hands flat on it. Derek put the brass clock in the middle, still in its envelope, and took it out, and set it upright. It ticked. Everybody looked at it.
 "I'll do my part first," Derek said, "because it's shorter, and because it's mine."
-He told it in order, the way Weinstein had written it on the board. He did not dress it up. A camera on a bookshelf that stamped the weekday and not the date, because Trevor had found the date ugly. A weekly sweep at seventeen minutes past nine. A classifier that had been taught that a person face down with red on their back was a homicide. A date box that only knew how to look forward. A template that said you when it had no name. A note from 2019 about a different clock. A glass in a frame that had been broken on Thursday, so that a picture with glass in it had to be older than Thursday. Sunlight in the picture and rain on the day. A girl's feet, pointing the wrong way. A timetable on a sheet of paper. A woman downstairs who kept her word. He laid each one down on the table in words, like evidence bags, and when he had finished there was nothing in the case that had not been accounted for except one number on a list of phones.
+He told it in order, the way it had gone up on the board, one sticky note at a time. He did not dress it up. A camera on a bookshelf that stamped the weekday and not the date, because Trevor had found the date ugly. A weekly sweep at seventeen minutes past nine. A classifier that had been taught that a person face down with red on their back was a homicide. A date box that only knew how to look forward. A template that said you when it had no name. A note from 2019 about a different clock. A glass in a frame that had been broken on Thursday, so that a picture with glass in it had to be older than Thursday. Sunlight in the picture and rain on the day. A girl's feet, pointing the wrong way. A timetable on a sheet of paper. A woman downstairs who kept her word. He laid each one down on the table in words, like evidence bags, and when he had finished there was nothing in the case that had not been accounted for except one number on a list of phones.
 "So nobody was murdered," said Julian.
 "Nobody was ever going to be. The email was wrong about everything except the time." Derek looked at the clock. "Three minutes past eleven on a Wednesday. That part was true. It was just a different Wednesday. Every clock in it was honest. They were all counting from different places, and nobody had written down where."
 Tuppence had listened to the whole thing without moving. Now she turned her head and looked at Sophie.
@@ -1291,8 +1359,10 @@ On the way out Tuppence walked him to the door, which she had not done in nine y
 "Who's device three?" she said.
 "I don't know."
 "Will you find out?"
-"I'll try." He looked at the street, Sunday-quiet, wet. "It might be nothing. Someone who read appendix C of a fire report and looked in once out of boredom. It might not. I'm leaving it on top of the file."
-"Don't put it in her drawer," said Tuppence. "The worry. Keep it in yours."
+"I'll try." He looked at the street, Sunday-quiet, wet. "It looked in again last night. Through a door Trevor didn't know was open. Penny told it off, and we shut the door. It might still be nothing. Somebody who read appendix C of a fire report and got bored twice. It might not. I'm leaving it on top of the file."
+"Did it look at her?"
+"Not last night. Last night it looked at us. We were standing up."
+Tuppence considered that. "Don't put it in her drawer," she said. "The worry. Keep it in yours."
 Before he went down the steps, Tuppence called after him from the hall. "Shoes," she said. "This afternoon. She needs school shoes. Black. Nothing with a logo. She'll try to get the ones with the logo."
 "Is that a test?"
 "It's a list," said Tuppence. "You said she likes lists. I'm told it runs in the family."
@@ -1314,13 +1384,30 @@ Her room was the room it had always been: the bed under the window, the desk wit
 He thought about lying, and found that he had used up his allowance for the year on Tuesday.
 "A bit," he said. "Not about Julian. About arithmetic. He'll be here on Tuesdays. I won't. That's all it is. It isn't anybody's fault, and it isn't a thing you have to fix."
 She considered this with great seriousness.
-"You could be here on Wednesdays," she said. "After school. Mum said. Not yet. She said she'd decide." She looked at the floor. "I think she's going to decide yes. She's got her yes face. She doesn't know I know what it looks like."
-"Then let her decide," said Derek. "Don't tell her you know. It's her decision. It should have her time on it."
+"You could be here on Wednesdays," she said. "After school. It's on Mum's clipboard. She wrote it in the night, with the time and everything, and she thinks I haven't seen it. She's going to tell me at tea, in the voice."
+"Then let her tell you," said Derek. "Don't tell her you know. It's her decision. It's got her time on it."
 Sophie nodded. Then she opened the notebook at the back, past PROBABLY NOTHING and PROBABLY RIGHT. ANNOYING, to a page he could not see, and wrote something, and closed it again.
 "What did you put?"
 "Data," said Sophie. "Go and carry books. Julian's doing all the heavy ones and pretending he isn't."
 ∗
-At three he went back to the Bureau. Weinstein was there, because Weinstein had decided to stay until the file was closed, which he regarded as the only kind of tourism worth the airfare. Penny had reconnected the network on the strict condition that CASEBOOK could talk to nobody but them. Trevor had changed the default perpetrator from you to a blank field that refused to save until a human being had typed something into it, and had changed the camera to stamp the full date in a font the size of a bus, and looked happier than he had all week.
+Derek went at a quarter to three, with his back on its final warning and a carrier bag of Sophie's old picture books that Tuppence had been trying to get out of the house for a year and had decided, on the doorstep, belonged in a waiting room. Julian watched him to the corner. Then he went back to the hall and opened the box that said HANGERS, and took out the sheet of paper he had put on top of them on Friday night and then lost his nerve about.
+It was one sheet of A4, in his whiteboard capitals.
+WHAT HAPPENS TONIGHT. 1. TEA AT SIX. MUM IS COOKING. I AM NOT ALLOWED TO HELP (THIS IS A RULE, NOT A SIGN). 2. MY BOOKS GO IN THE FRONT ROOM. NONE OF THEM GO IN YOURS. 3. BATHROOM: ME AT 7.15, QUICKLY. YOU AT 7.30 AS USUAL. 4. I SAY GOODNIGHT ON THE LANDING. I DON'T COME IN.
+WHAT I DON'T KNOW YET. WHETHER YOU WANT THE HANGERS. WHAT TO DO ABOUT THE OVEN. WHAT YOU CALL ME WHEN YOUR FRIENDS ARE HERE.
+For two years he had been careful, and careful had worked, because careful is what a visitor is for. A visitor brings a cake and leaves at nine. He had watched Derek on Friday among the boxes, a man who had come to accuse him and had stayed to give him the instructions instead, and had understood that he was not going to be a visitor after tonight, and that the next thing he got wrong would be in the house with them. He had written the list at midnight on Friday, and torn up the first version, which had said IT WILL BE FINE at the bottom.
+Sophie's door was open. She was sitting on the bed with the notebook, and she looked up when he knocked on the open door, which was a thing he had decided to do, and saw the paper in his hand.
+"Your dad said you'd take a list over a reassurance," said Julian. "I haven't got a reassurance. I've got this."
+She read it without taking it from him, and then took it from him and read it again, in the way she read things she meant to keep. She took the pencil from behind her ear and wrote, at the bottom of the second column, in her small fierce capitals, and handed it back.
+Under WHAT I DON'T KNOW YET she had added: WHETHER MUM IS GOING TO SAY YES ABOUT WEDNESDAYS (SHE IS. DON'T SAY).
+And beside WHETHER YOU WANT THE HANGERS: ALL OF THEM. FORTY. IN ORDER OF HOW MUCH I HATE EACH JUMPER.
+And beside WHAT YOU CALL ME: JULIAN. IT'S YOUR NAME.
+He read it again, which he had not meant to, and folded it in four and put it in his cardigan pocket, where it stayed, as it turned out, for most of the winter.
+"The oven," said Sophie, "is fourteen minutes fast."
+"Your dad told me."
+"I know. I'm telling you as well. Two sources." She closed the notebook. "Can you show me how they're made? The hangers. Mum says there's a jig."
+"There's a jig," said Julian, and he did not say it'll be fine, or of course, or anything a visitor would say. He said, "Bring the notebook. It's got measurements."
+∗
+At three he went back to the Bureau. Weinstein was there, because Weinstein had decided to stay until the file was closed, which he regarded as the only kind of tourism worth the airfare. Penny had reconnected the network on the strict condition that CASEBOOK could talk to nobody but them. Trevor had changed the default perpetrator from you to a blank field that refused to save until a human being had typed something into it, had read every menu in the camera's app twice and revoked every share on the account, including two he had forgotten he had made, had changed the camera to stamp the full date in a font the size of a bus, and had plugged it back in only after Derek said he could. He looked happier than he had all week.
 There was one thing in the office that Derek had wanted to do since Wednesday. He went to the desk. The brass clock was back on top of the filing cabinet; Sophie had sent it with him, for Trevor to look at. The photograph lay face down by the keyboard. He turned it over and looked at it properly, the way Barbarian had asked: a man asleep on a floor, a red wheat bag, a girl stepping backwards out of a door so as not to wake him. It was the gentlest picture anyone had ever taken of him. It had frightened him half to death.
 His hand went out to delete it. Penny's hand closed over his wrist before it got there.
 "Don't," she said. "It's evidence. And it's a nice picture."
@@ -1330,7 +1417,7 @@ EVENT: A GIRL BRINGING HER FATHER A CLOCK.
 DATE: WEDNESDAY 14 OCTOBER. TIME: 11:03:17, BY HER CLOCK, WHICH IS RIGHT.
 VICTIM: NONE. PERPETRATOR: NONE.
 WITNESS: MRS MARSH, WHO KEPT HER WORD.
-CAPTURE: DEVICE 3. UNIDENTIFIED.
+CAPTURE: DEVICE 3. UNIDENTIFIED. SHARE REVOKED SUN 01:33.
 STATUS: PENDING GEOMETRY. CLOSE MONDAY.
 He saved it. The little wheel turned. Nothing chimed.
 Weinstein read it over his shoulder and nodded like a man reading the claims of a patent he would have been proud to draft. "Do you know what the Einstein equation says, Derek, in words?"
@@ -1385,7 +1472,7 @@ That evening Penny ordered curry for the whole Bureau, on the grounds that a tea
 Weinstein, inevitably, ruined the silence. He observed, through a mouthful of naan, that Penny had ordered by her phone at 18:20 and the food had arrived at 18:59 by the office clock, which Trevor had put back at two in the morning and, by the radio, a minute too far, so that the Bureau had just measured a thirty-nine-minute curry with two different clocks, one at each end, which was the whole of Case 1047 again with poppadoms. Trevor asked whether the restaurant could simply hire a tachyon and skip the traffic. Weinstein said that a tachyon would arrive before it had been dispatched, refuse the order retrospectively, and leave the Bureau owing a refund to a version of itself that had never been hungry, and that this was why nothing in the universe that carries a message goes faster than light.
 Later, by the coat hooks, Derek found a text from Kenneth Greaves, sent at 17:02, in full sentences, with punctuation.
 Invoice to follow for two days' observation, Tuesday and Wednesday. I have removed Tuesday afternoon from the total, as from Tuesday lunchtime I was, I now understand, the one being observed, by a better detective than myself. Please convey my compliments to the subject. K. Greaves.
-Penny had planned a holiday, which after the week they had had she considered less a luxury than a filing requirement. She did not tell Derek the real reason, and did not intend to: that since Tuesday she had carried a photograph of his body face down in her bag, and had rehearsed, more than once and in more detail than she would admit, what she would say to Sophie if it ever stopped being a misunderstanding, and that she had done all of it standing up, in the office, on schedule, because somebody had to be the one who did not fall apart while the men talked about reference frames.
+Penny had planned a holiday, which after the week they had had she considered less a luxury than a filing requirement. She did not tell Derek the real reason, and did not intend to: that since Tuesday she had carried a photograph of his body face down in her bag, and had rehearsed, more than once and in more detail than she would admit, what she would say to Sophie if it ever stopped being a misunderstanding, and that she had done all of it standing up, in the office, on schedule, because somebody had to be the one who did not fall apart while the men talked about reference frames. On Monday morning she took that photograph out of her bag and put in the other one, the one from the second half-past-one: four people and a dog in a row, standing up, herself in the middle, furious. She did not tell him that either.
 Weinstein had rung a colleague in Lyon about the plate on the back of Sophie's clock. LGV, it turned out, stood for Ligne à Grande Vitesse, the French high-speed line, and the worn numbers underneath were an asset tag from the stations of the Paris to Lyon line, which had opened in 1981 and had sold off its old clocks at some point to people who sold them to people who sold them to a car boot in north London for four pounds. Penny was unbearable about it, at length, over the phone to Munich, on the grounds that she had said a railway thing on Tuesday. Trevor had said Local Gravitational Vector, and nobody let him forget it.
 That night, at home, before he lay down on the floor, Derek opened the drawer of the desk in the study and took out the envelope that said NOT YET, and unfolded the six pages, and added a seventh, in pencil, at the bottom of which he wrote the time, because that was what you did with a time if you wanted it to stay where it happened.
 Sunday 25 October. 17:40, winter time. Oxford Street. She took my arm.
