@@ -2,7 +2,9 @@
 
 Series: The Invasion Storybooks
 Book: 1
-Author: George Herbert Fontaine
+Author: Lothar J. Musiol
+Contributor: George Herbert Fontaine (role: Author). KDP name fields take a name only, so "writing as" stays on the cover and title page.
+Byline (cover, title page): Lothar J. Musiol writing as George Herbert Fontaine
 Title: Protocol Flamingo
 Subtitle: Earth. This year. Somebody left the sky unlocked.
 Price: $2.99
