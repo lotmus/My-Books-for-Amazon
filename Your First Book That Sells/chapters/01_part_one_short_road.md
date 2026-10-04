@@ -54,7 +54,7 @@ This chapter is the book’s one full explanation of what a sale pays. Every lat
 
 The sticker price is not your money. The keep is what is left after Amazon’s share and, on the 70 percent option, a delivery charge.
 
-**Platform rule [3] [4].** On Amazon.com an ebook can earn 70 percent when its list price is between $2.99 and $12.99 and you select the 70 percent option. The top of that band was $9.99 until 7 July 2026, so older advice to stop at $9.99 is out of date. The 70 percent royalty is 0.70 × (list price − any VAT − delivery cost). Delivery on Amazon.com is $0.15 per megabyte of the file as Amazon converts it. Outside the band, or on the 35 percent option, you earn 0.35 × (list price − any VAT), with no delivery charge.
+**Platform rule [3] [4].** On Amazon.com an ebook can earn 70 percent when its list price is between $2.99 and $12.99 and you select the 70 percent option. The top of that band was $9.99 until 7 July 2026, so older advice to stop at $9.99 is out of date. The 70 percent royalty is 0.70 × (list price − any VAT − delivery cost). VAT, value-added tax, is charged on ebook sales in some marketplaces outside the United States and is subtracted before the royalty percentage is applied; Amazon.com sales carry none. Delivery on Amazon.com is $0.15 per megabyte of the file as Amazon converts it. Outside the band, or on the 35 percent option, you earn 0.35 × (list price − any VAT), with no delivery charge.
 
 **Worked example.** 2 MB file, so $0.30 delivery; no VAT; rounded to the cent.
 
@@ -178,7 +178,7 @@ This chapter is the book’s one full statement of book-two arithmetic. Chapters
 
 One book can pay you a little. A second book can pay you again from a reader who already trusts you. That is not a reason to lose money on book one today; if book one loses money, book two is a second product, not a refund.
 
-**Worked example.** 100 people buy book one at $3.99 and she keeps about $258. Thirty of them later buy book two at the same keep: about $77 more. That is about $335, or $3.35 per first buyer. If half of those 30 buy a third book, 15 more sales add about $39, for about $3.74 per original buyer. Paying $2 to find a buyer can fit; paying $4 does not. Never count a series as if every reader buys every book.
+**Worked example.** 100 people buy book one at $3.99 and she keeps about $258. Thirty of them later buy book two at the same keep: about $77 more. That is about $335, or $3.35 per first buyer. If half of those 30 buy a third book, 15 more sales add about $39, for about $3.74 per original buyer. Paying $2 to find a buyer can fit; paying $4 does not. Never count a series as if every reader buys every book. The 30 percent who return is an assumption for this sum, not a rate to expect; real read-through varies by genre and by how good book one actually was, and only your own second book’s sales will tell you yours.
 
 ### Your action
 
