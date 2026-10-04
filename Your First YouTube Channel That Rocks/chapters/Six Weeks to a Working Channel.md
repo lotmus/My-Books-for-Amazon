@@ -14,7 +14,7 @@ Write the viewer sentence, the poor-fit sentence, and twenty titles. Pick the ei
 
 The eight jobs are the only set of videos this calendar films. Chapter 2 uses that same set. Week one does not add a second quota.
 
-Set up the channel only as far as a stranger needs: a name the viewer understands, a description whose first lines say who it helps and what arrives each week, and a banner you can read on a phone. Skip the logo exploration. Then do the switches from chapter 1 that take a minute now and a week later: 2-Step Verification, phone verification, the country, and the audience setting. In Studio, open Earn and choose to be notified when the channel is eligible. YouTube’s eligibility page says it will email you when you meet a threshold.
+Set up the channel only as far as a stranger needs: a name the viewer understands, a description whose first lines say who it helps and what arrives each week, and a banner you can read on a phone. Leave logo design for later. Then do the switches from chapter 1 that take a minute now and a week later: 2-Step Verification, phone verification, the country, and the audience setting. In Studio, open Earn and choose to be notified when the channel is eligible. YouTube’s eligibility page says it will email you when you meet a threshold.
 
 ## II. Week two: two videos, not eight
 
