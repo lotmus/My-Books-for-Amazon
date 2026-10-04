@@ -39,6 +39,11 @@ The three appearances are worth naming before starting. Lesson 5 found that a cl
 | φ, A | Scalar and vector potentials, A^μ = (φ, A) as in Lesson 8 |
 | e, m | Electron charge magnitude and mass |
 
+BOX: First pass: the result before the derivation
+Expanding the gauge-invariant Dirac Lagrangian gives the interaction −eψ̄γ^μψA_μ: the current of Lesson 28 coupled to the potential. Its non-relativistic limit is the familiar coupling to φ and A.
+One term reproduces every classical electromagnetic coupling met so far.
+ENDBOX
+
 # 1 Assembling the gauge-invariant Dirac Lagrangian
 
 ## 1.1 From the general result to the Dirac case
@@ -169,24 +174,26 @@ With this lesson, the interaction term of QED has been derived, checked against 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Starting from ℒ = ψ̄(iγ^μD_μ−m)ψ with D_μ=∂_μ+iqA_μ, expand term by term and verify every step of Section 1.2 without skipping the intermediate i²=−1 simplification. |
-| 2 | Confirm that ℒ_int of Section 2.1 is real (equal to its own complex conjugate), using that ψ̄γ^μψ is real (Lesson 22, Section 2.2, applied to Γ=γ^μ) and A_μ is a real classical field. |
-| 3 | For a muon (charge q=−e, same sign as the electron but a different mass) show that the interaction term has the same form +eψ̄_μγ^μψ_μA_μ as for the electron, with ψ_μ the muon field, illustrating the universality argument of Lesson 39, Section 3.2, for two different Dirac fields of the same charge. |
-| 4 | Write the interaction term for a hypothetical Dirac field of charge q=+e (the positron's charge, treated here as if it were a fundamental field in its own right rather than obtained by the antiparticle reinterpretation of Lesson 23) and compare its sign with the electron's. |
-| 5 | Verify Worked example 2's claim that j^μ=qψ̄γ^μψ for the electron equals the current already used in Lesson 24, Section 5.1, and Lesson 30, Section 6.1, by comparing the formulas directly. |
-| 6 | Using ℒ_int=−j^μA_μ and Lesson 8's classical relation A_μdx^μ/dt=φ−A·v (Lesson 5, Section 5.3), find the nonrelativistic-particle-language interaction −qφ+qv·A implied by ℒ_int for a classical trajectory, and compare with Lesson 5's L=(1/2)mv²−qφ+qv·A. |
-| 7 | Explain why Lesson 26's Worked example 5, deriving the point-particle coupling from a delta-function current, and this lesson's derivation from the Dirac field's own current, are not circular even though both eventually produce the same formula, by identifying what each derivation assumes and what each concludes. |
-| 8 | Show that setting q=0 in ℒ = ψ̄(iγ^μ∂_μ−m)ψ−qψ̄γ^μψA_μ recovers the free Dirac Lagrangian with no trace of A_μ, consistent with Lesson 39, Exercise 15's statement about neutral fields. |
-| 9 | Carry out the derivation of Section 4.1 in full: starting from (iγ^μD_μ−m)ψ=0, multiply by β, use γ^i=βα^i, and use A_μ=(φ,−A) to derive i∂_tψ=[α·(p̂−qA)+βm+qφ]ψ step by step. |
-| 10 | For the electron (q=−e), write h_D explicitly in terms of e rather than q, and verify it reduces to the free Hamiltonian of Lesson 20, Section 1.1, when A=φ=0. |
-| 11 | Explain, using the general structure of Lesson 6, Section 6.2's minimal coupling rule p^μ→p^μ−qA^μ, why the Hamiltonian h_D of Section 4.1 is exactly what that classical rule would produce if applied term by term to the free Dirac Hamiltonian α·p̂+βm, with p̂→p̂−qA and an added qφ (or equivalently qA^0) term. |
-| 12 | State, without performing the calculation, which earlier lesson's expansion technique (name the lesson and the specific expansion) would be needed to carry out the squaring of h_D−qφ referenced in Section 4.2. |
-| 13 | Explain in your own words why an electron bound in a hydrogen atom, whose Coulomb field is sourced by a proton, can be correctly described using only the interaction term of this lesson, with no need yet for Lesson 42's photon kinetic term. |
-| 14 | Contrast this with a process such as an electron spontaneously emitting a photon (Lesson 32, Section 1.4); explain why such a process requires A_μ to be a genuine dynamical field capable of carrying away energy and momentum of its own, which the fixed-background treatment of this lesson cannot supply. |
-| 15 | Using ℒ_int=−j^μA_μ and the continuity equation ∂_μj^μ=0 established for the Dirac current in Lesson 24, explain in one or two sentences why ℒ_int remains invariant under the residual gauge freedom A_μ→A_μ+∂_μλ for any λ satisfying □λ=0 (Lesson 8, Section 4.2), up to a total derivative that does not affect the equations of motion. |
-| 16 | Challenge: using ℒ = ψ̄(iγ^μ∂_μ−m)ψ+eψ̄γ^μψA_μ (the electron case), derive the Euler–Lagrange equation for ψ̄ (treating ψ and ψ̄ as independent fields, following the method of Lesson 27 applied to the Dirac Lagrangian), and show it reproduces the gauged Dirac equation (iγ^μ(∂_μ−ieA_μ)−m)ψ=0 directly from the variational principle, without going through the covariant-derivative shortcut of Section 1. |
+| 1 | **Extension.** Starting from ℒ = ψ̄(iγ^μD_μ−m)ψ with D_μ=∂_μ+iqA_μ, expand term by term and verify every step of Section 1.2 without skipping the intermediate i²=−1 simplification. |
+| 2 | **Core.** Confirm that ℒ_int of Section 2.1 is real (equal to its own complex conjugate), using that ψ̄γ^μψ is real (Lesson 22, Section 2.2, applied to Γ=γ^μ) and A_μ is a real classical field. |
+| 3 | **Extension.** For a muon (charge q=−e, same sign as the electron but a different mass) show that the interaction term has the same form +eψ̄_μγ^μψ_μA_μ as for the electron, with ψ_μ the muon field, illustrating the universality argument of Lesson 39, Section 3.2, for two different Dirac fields of the same charge. |
+| 4 | **Core.** Write the interaction term for a hypothetical Dirac field of charge q=+e (the positron's charge, treated here as if it were a fundamental field in its own right rather than obtained by the antiparticle reinterpretation of Lesson 23) and compare its sign with the electron's. |
+| 5 | **Core.** Verify Worked example 2's claim that j^μ=qψ̄γ^μψ for the electron equals the current already used in Lesson 24, Section 5.1, and Lesson 30, Section 6.1, by comparing the formulas directly. |
+| 6 | **Core.** Using ℒ_int=−j^μA_μ and Lesson 8's classical relation A_μdx^μ/dt=φ−A·v (Lesson 5, Section 5.3), find the nonrelativistic-particle-language interaction −qφ+qv·A implied by ℒ_int for a classical trajectory, and compare with Lesson 5's L=(1/2)mv²−qφ+qv·A. |
+| 7 | **Extension.** Explain why Lesson 26's Worked example 5, deriving the point-particle coupling from a delta-function current, and this lesson's derivation from the Dirac field's own current, are not circular even though both eventually produce the same formula, by identifying what each derivation assumes and what each concludes. |
+| 8 | **Core.** Show that setting q=0 in ℒ = ψ̄(iγ^μ∂_μ−m)ψ−qψ̄γ^μψA_μ recovers the free Dirac Lagrangian with no trace of A_μ, consistent with Lesson 39, Exercise 15's statement about neutral fields. |
+| 9 | **Extension.** Carry out the derivation of Section 4.1 in full: starting from (iγ^μD_μ−m)ψ=0, multiply by β, use γ^i=βα^i, and use A_μ=(φ,−A) to derive i∂_tψ=[α·(p̂−qA)+βm+qφ]ψ step by step. |
+| 10 | **Core.** For the electron (q=−e), write h_D explicitly in terms of e rather than q, and verify it reduces to the free Hamiltonian of Lesson 20, Section 1.1, when A=φ=0. |
+| 11 | **Core.** Explain, using the general structure of Lesson 6, Section 6.2's minimal coupling rule p^μ→p^μ−qA^μ, why the Hamiltonian h_D of Section 4.1 is exactly what that classical rule would produce if applied term by term to the free Dirac Hamiltonian α·p̂+βm, with p̂→p̂−qA and an added qφ (or equivalently qA^0) term. |
+| 12 | **Core.** State, without performing the calculation, which earlier lesson's expansion technique (name the lesson and the specific expansion) would be needed to carry out the squaring of h_D−qφ referenced in Section 4.2. |
+| 13 | **Extension.** Explain in your own words why an electron bound in a hydrogen atom, whose Coulomb field is sourced by a proton, can be correctly described using only the interaction term of this lesson, with no need yet for Lesson 42's photon kinetic term. |
+| 14 | **Extension.** Contrast this with a process such as an electron spontaneously emitting a photon (Lesson 32, Section 1.4); explain why such a process requires A_μ to be a genuine dynamical field capable of carrying away energy and momentum of its own, which the fixed-background treatment of this lesson cannot supply. |
+| 15 | **Extension.** Using ℒ_int=−j^μA_μ and the continuity equation ∂_μj^μ=0 established for the Dirac current in Lesson 24, explain in one or two sentences why ℒ_int remains invariant under the residual gauge freedom A_μ→A_μ+∂_μλ for any λ satisfying □λ=0 (Lesson 8, Section 4.2), up to a total derivative that does not affect the equations of motion. |
+| 16 | **Challenge.** Using ℒ = ψ̄(iγ^μ∂_μ−m)ψ+eψ̄γ^μψA_μ (the electron case), derive the Euler–Lagrange equation for ψ̄ (treating ψ and ψ̄ as independent fields, following the method of Lesson 27 applied to the Dirac Lagrangian), and show it reproduces the gauged Dirac equation (iγ^μ(∂_μ−ieA_μ)−m)ψ=0 directly from the variational principle, without going through the covariant-derivative shortcut of Section 1. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** ψ̄iγ^μD_μψ = ψ̄iγ^μ(∂_μψ+iqA_μψ) = ψ̄iγ^μ∂_μψ + ψ̄iγ^μ(iqA_μψ). In the second term, iγ^μ(iqA_μ) = i²qγ^μA_μ = −qγ^μA_μ (using i²=−1), so the term is −qψ̄γ^μA_μψ = −qψ̄γ^μψA_μ (A_μ commutes past the spinor indices, being an ordinary c-number field), giving ψ̄iγ^μD_μψ = ψ̄iγ^μ∂_μψ − qψ̄γ^μψA_μ, matching Section 1.2.
 
@@ -220,20 +227,6 @@ With this lesson, the interaction term of QED has been derived, checked against 
 
 **16.** Varying S=∫d⁴x ℒ with respect to ψ̄ (treating ψ and ψ̄ as independent, Lesson 27, Section 2), with ℒ=ψ̄(iγ^μ∂_μ−m)ψ+eψ̄γ^μψA_μ = ψ̄[iγ^μ∂_μ−m+eγ^μA_μ]ψ, gives directly ∂ℒ/∂ψ̄=[iγ^μ∂_μ−m+eγ^μA_μ]ψ (since ℒ is already linear in ψ̄ with no derivatives of ψ̄ appearing, the Euler–Lagrange equation ∂ℒ/∂ψ̄−∂_μ(∂ℒ/∂(∂_μψ̄))=0 reduces to just ∂ℒ/∂ψ̄=0). Setting this to zero, (iγ^μ∂_μ+eγ^μA_μ−m)ψ=0, that is iγ^μ(∂_μ−ieA_μ)ψ−mψ=0 (using eγ^μA_μ=iγ^μ(−ieA_μ), verified by iγ^μ(−ieA_μ)=−i²eγ^μA_μ=eγ^μA_μ), which is (iγ^μD_μ−m)ψ=0 with D_μ=∂_μ−ieA_μ, exactly the electron's covariant derivative with q=−e, confirmed directly from the variational principle with no reference to the covariant-derivative shortcut.
 
-# Mastery checklist
+# Mastery check
 
-- I can expand D_μ inside the Dirac Lagrangian and derive ℒ_int=−qψ̄γ^μψA_μ.
-
-- I can specialize this to the electron and state ℒ_int=+eψ̄γ^μψA_μ, matching every earlier forward reference in the course.
-
-- I can identify the current in ℒ_int as Lesson 31's Noether current and show it matches the electromagnetic current of Lessons 24 and 29.
-
-- I can trace this coupling through its three derivations, in Lessons 5, 26, and 38–39, and explain what distinguishes the third from the first two.
-
-- I can derive the Dirac Hamiltonian with minimal coupling from the gauged Dirac equation.
-
-- I can state, without deriving it, what the nonrelativistic expansion of that Hamiltonian predicts for the electron's magnetic moment.
-
-- I can explain why this lesson's interaction term alone does not make the photon dynamical, and what Lesson 42 will add.
-
-- I can write the full interacting Dirac Lagrangian for the electron from memory.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

@@ -30,16 +30,14 @@ Lesson 50 set up Compton scattering in full: the two diagrams, the vertex factor
 | s = (p+k)², u = (p−k′)² | Internal electron momenta squared, direct and crossed diagrams |
 | q_A = p+k, q_B = p−k′ | Internal electron four-momenta |
 
+BOX: First pass: the result before the derivation
+For Compton scattering the interference term cancels, leaving (1/4)Σ|ℳ|² = −2e⁴(s/u + u/s) at high energy (positive, since u < 0). With the electron mass kept, this becomes the Klein–Nishina formula, which reduces to Thomson scattering at low energy.
+Light scattering off a free electron, the basic process behind Prologue 5's glass, now computed exactly.
+ENDBOX
+
 # 1 Completing Compton scattering
 
-FIG:
-          γ(k)                 γ(k')              γ(k)                 γ(k')
-           |                    |                  |                    |
-           |                    |                  |                    |
-    e⁻ ----*--------------------*---- e⁻           e⁻ ----*--------------------*---- e⁻   
-        (p)      q_A = p+k     (p')                    (p)   q_B = p−k'     (p')
-            diagram A,  s-channel                    diagram B,  u-channel
-ENDFIG
+IMG: L57_compton.png | 6.0 | Figure 57.1. Compton scattering: the s-channel (absorb, then emit) and u-channel (emit, then absorb) diagrams.
 
 ## 1.1 Recap
 
@@ -131,6 +129,8 @@ a result depending on only two Mandelstam-like combinations, symmetric under s�
 
 Explain, referring to Lesson 56, how this lesson's final formula is related to electron-positron annihilation's 2e⁴[t/u+u/t]. The two processes are related by crossing symmetry (previewed in Lesson 56, Exercise 16): move the positron of annihilation to an outgoing electron and one outgoing photon to an incoming photon. That exchanges the roles of s and t, so annihilation's t/u+u/t becomes s/u+u/s here. Crossing one fermion also brings an overall minus sign, which turns 2e⁴(s/u+u/s) into −2e⁴(s/u+u/s). In both processes the interference trace vanishes, through the same zero q_A·q_B=0.
 
+IMG: L57_klein_nishina.png | 5.2 | Figure 57.2. The Klein–Nishina angular distribution for several photon energies: forward scattering dominates as the energy rises; at low energy it reduces to Thomson's 1 + cos²θ.
+
 # 5 Connections to QED
 
 @widths 3264 6528
@@ -159,24 +159,26 @@ Lesson 58 turns to pair production, γγ→e⁻e⁺, obtained from this process 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Restate Lesson 50's two Compton diagrams and their internal momenta, and explain why they combine with a plus, not a minus, sign. |
-| 2 | Write out T_AA, T_BB, T_AB with explicit index placement, following Section 1.2, and identify which pair of indices is "adjacent" and which is "interleaved" in each. |
-| 3 | Verify the spin-and-polarization averaging factor is 1/4, citing the two unmeasured initial degrees of freedom. |
-| 4 | Derive γ^α(p̸+m)γ_α=−2p̸+4m, following Lesson 56, Exercise 7. |
-| 5 | Expand (q̸_A+m)γ^α(p̸+m)γ_α(q̸_A+m), apply Section 2.1, and reduce to the massless leading term 32(q_A·p)(q_A·p′)−16q_A²(p·p′), following the method of Lesson 56, Exercise 8. |
-| 6 | Derive q_A·p=s/2, q_A·p′=s/2, and p·p′=−t/2, using s=(p+k)²=(p′+k′)², t=(p−p′)², and momentum conservation p+k=p′+k′, all in the massless limit. |
-| 7 | Substitute Exercise 6's values into Section 2.2's formula and derive T_AA=−8su, showing every step. |
-| 8 | Using Worked example 2's relabeling, derive T_BB=−8su without repeating Exercise 5's expansion from scratch. |
-| 9 | Derive k·k′=−t/2 from (k−k′)²=(p′−p)²=t, using k²=k′²=0. |
-| 10 | Derive p·k′=−u/2 from u=(p−k′)², using p²=k′²=0. |
-| 11 | Substitute the results of Exercises 9–10 (plus k·p=s/2) into Section 3.3's expression for q_A·q_B and verify it equals zero. |
-| 12 | Carry out Section 3.1's reversal identity explicitly for the chain [p̸γ_βq̸_B], confirming γ^α[p̸γ_βq̸_B]γ_α=−2q̸_Bγ_βp̸. |
-| 13 | Using the two-object identity γ^μγ^aγ^bγ_μ=4g^ab, verify γ^βq̸_Aq̸_Bγ_β=4(q_A·q_B)I, and combine with Exercise 11 to confirm T_AB=0. |
-| 14 | Assemble Section 4's final formula from T_AA, T_BB, T_AB, and the propagator denominators, verifying every numerical factor. |
-| 15 | Explain why (1/4)Σ|ℳ|² must be positive for physical Compton scattering, and verify Section 4's formula respects this using s>0, u<0. |
-| 16 | Challenge: using Lesson 56's crossing-symmetry preview (Exercise 16 there), state which of electron-positron annihilation's Mandelstam variables (s′, t′, u′) correspond to this lesson's s and u, and use that correspondence to obtain this lesson's result from Lesson 56's 2e⁴(t′/u′+u′/t′), including the overall sign. |
+| 1 | **Core.** Restate Lesson 50's two Compton diagrams and their internal momenta, and explain why they combine with a plus, not a minus, sign. |
+| 2 | **Core.** Write out T_AA, T_BB, T_AB with explicit index placement, following Section 1.2, and identify which pair of indices is "adjacent" and which is "interleaved" in each. |
+| 3 | **Core.** Verify the spin-and-polarization averaging factor is 1/4, citing the two unmeasured initial degrees of freedom. |
+| 4 | **Extension.** Derive γ^α(p̸+m)γ_α=−2p̸+4m, following Lesson 56, Exercise 7. |
+| 5 | **Core.** Expand (q̸_A+m)γ^α(p̸+m)γ_α(q̸_A+m), apply Section 2.1, and reduce to the massless leading term 32(q_A·p)(q_A·p′)−16q_A²(p·p′), following the method of Lesson 56, Exercise 8. |
+| 6 | **Extension.** Derive q_A·p=s/2, q_A·p′=s/2, and p·p′=−t/2, using s=(p+k)²=(p′+k′)², t=(p−p′)², and momentum conservation p+k=p′+k′, all in the massless limit. |
+| 7 | **Core.** Substitute Exercise 6's values into Section 2.2's formula and derive T_AA=−8su, showing every step. |
+| 8 | **Core.** Using Worked example 2's relabeling, derive T_BB=−8su without repeating Exercise 5's expansion from scratch. |
+| 9 | **Extension.** Derive k·k′=−t/2 from (k−k′)²=(p′−p)²=t, using k²=k′²=0. |
+| 10 | **Extension.** Derive p·k′=−u/2 from u=(p−k′)², using p²=k′²=0. |
+| 11 | **Core.** Substitute the results of Exercises 9–10 (plus k·p=s/2) into Section 3.3's expression for q_A·q_B and verify it equals zero. |
+| 12 | **Extension.** Carry out Section 3.1's reversal identity explicitly for the chain [p̸γ_βq̸_B], confirming γ^α[p̸γ_βq̸_B]γ_α=−2q̸_Bγ_βp̸. |
+| 13 | **Core.** Using the two-object identity γ^μγ^aγ^bγ_μ=4g^ab, verify γ^βq̸_Aq̸_Bγ_β=4(q_A·q_B)I, and combine with Exercise 11 to confirm T_AB=0. |
+| 14 | **Extension.** Assemble Section 4's final formula from T_AA, T_BB, T_AB, and the propagator denominators, verifying every numerical factor. |
+| 15 | **Extension.** Explain why (1/4)Σ|ℳ|² must be positive for physical Compton scattering, and verify Section 4's formula respects this using s>0, u<0. |
+| 16 | **Challenge.** Using Lesson 56's crossing-symmetry preview (Exercise 16 there), state which of electron-positron annihilation's Mandelstam variables (s′, t′, u′) correspond to this lesson's s and u, and use that correspondence to obtain this lesson's result from Lesson 56's 2e⁴(t′/u′+u′/t′), including the overall sign. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** The direct diagram has internal momentum q_A=p+k (q_A²=s); the crossed diagram has internal momentum q_B=p−k′ (q_B²=u) (Lesson 50, Sections 2.3 and 3.1). They combine with a plus sign because the two diagrams differ only in which of the two photon field insertions is paired with the incoming versus outgoing photon, a bosonic reassignment carrying no minus sign (Lesson 48, Section 2.1; Lesson 56, Section 1.2).
 
@@ -210,14 +212,6 @@ Lesson 58 turns to pair production, γγ→e⁻e⁺, obtained from this process 
 
 **16.** Crossing the incoming positron of annihilation to an outgoing electron (p₂→−p′) and the photon k₁ to an incoming photon (k₁→−k) maps t′=(p₁−k₁)² to (p+k)²=s, u′=(p₁−k₂)² to (p−k′)²=u, and s′=(p₁+p₂)² to (p−p′)²=t. Lesson 56's 2e⁴(t′/u′+u′/t′) becomes 2e⁴(s/u+u/s), and moving one fermion between the initial and final states multiplies the spin-summed square by −1, giving −2e⁴(s/u+u/s), this lesson's result. Neither process has an interference term: in both, T_AB is proportional to q_A·q_B, which vanishes in the massless limit.
 
-# Mastery checklist
+# Mastery check
 
-- I can restate Compton scattering's two diagrams and their internal momenta from Lesson 50.
-
-- I can derive T_AA=T_BB=−8su using the same method as Lesson 56.
-
-- I can show T_AB=0 by identifying q_A·q_B=0 within the interference trace's structure.
-
-- I can assemble the complete result (1/4)Σ|ℳ|²=−2e⁴(s/u+u/s) and explain why it is positive.
-
-- I can explain why Compton's two diagrams need no relative sign, unlike Lesson 55's Møller scattering.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

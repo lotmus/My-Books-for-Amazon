@@ -199,24 +199,26 @@ It quoted the LSZ reduction formula from Lesson 52 rather than deriving it insid
 
 @widths 720 9072
 | No | Problem |
-| 1 | Show that −iδ/δη̄ and iδ/δη bring down ψ and ψ̄ from exp[i∫(η̄ψ + ψ̄η)]. |
-| 2 | At order e⁰, show that the master formula gives Z₀. |
-| 3 | In Worked example 1, count the Grassmann swaps needed to bring the pairs together, and confirm that there is no sign. |
-| 4 | At order e², why does the 1/2! cancel for a diagram with two distinct vertices? |
-| 5 | Do the z integral in Section 3.1 and state the conservation law. |
-| 6 | Find L for the one-loop vertex correction and for a two-loop self-energy. |
-| 7 | For a closed loop with three vertices, count the swaps and confirm the −1. |
-| 8 | Use Furry's theorem to explain why the three-vertex loop cancels against its reversed orientation. |
-| 9 | Show that the Møller diagrams differ by one Grassmann swap. |
-| 10 | Why do the two Compton diagrams add with a plus sign? |
-| 11 | In Worked example 3, keep the spin labels, and show that ū₃γ⁰u₁ → 2m δ_{s₃s₁} as q → 0. |
-| 12 | From Ṽ(q) = e²/|q|², obtain V(r) = α/r. |
-| 13 | Derive the cubic scalar-QED vertex −iq(p + p′)^μ carefully, keeping the sign of each term. |
-| 14 | Explain the factor 2 in the seagull vertex. |
-| 15 | Show that the −¼δ₃F² counterterm gives the vertex −iδ₃(k²g^{μν} − k^μk^ν). |
-| 16 | Challenge: for scalar Compton scattering at tree level, write the three diagrams and show that replacing ε^μ by k^μ makes the sum vanish. |
+| 1 | **Extension.** Show that −iδ/δη̄ and iδ/δη bring down ψ and ψ̄ from exp[i∫(η̄ψ + ψ̄η)]. |
+| 2 | **Core.** At order e⁰, show that the master formula gives Z₀. |
+| 3 | **Extension.** In Worked example 1, count the Grassmann swaps needed to bring the pairs together, and confirm that there is no sign. |
+| 4 | **Extension.** At order e², why does the 1/2! cancel for a diagram with two distinct vertices? |
+| 5 | **Core.** Do the z integral in Section 3.1 and state the conservation law. |
+| 6 | **Core.** Find L for the one-loop vertex correction and for a two-loop self-energy. |
+| 7 | **Core.** For a closed loop with three vertices, count the swaps and confirm the −1. |
+| 8 | **Extension.** Use Furry's theorem to explain why the three-vertex loop cancels against its reversed orientation. |
+| 9 | **Extension.** Show that the Møller diagrams differ by one Grassmann swap. |
+| 10 | **Core.** Why do the two Compton diagrams add with a plus sign? |
+| 11 | **Core.** In Worked example 3, keep the spin labels, and show that ū₃γ⁰u₁ → 2m δ_{s₃s₁} as q → 0. |
+| 12 | **Core.** From Ṽ(q) = e²/|q|², obtain V(r) = α/r. |
+| 13 | **Extension.** Derive the cubic scalar-QED vertex −iq(p + p′)^μ carefully, keeping the sign of each term. |
+| 14 | **Core.** Explain the factor 2 in the seagull vertex. |
+| 15 | **Extension.** Show that the −¼δ₃F² counterterm gives the vertex −iδ₃(k²g^{μν} − k^μk^ν). |
+| 16 | **Challenge.** For scalar Compton scattering at tree level, write the three diagrams and show that replacing ε^μ by k^μ makes the sum vanish. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** δ/δη̄ of i∫η̄ψ is iψ, so −iδ/δη̄ gives ψ. For ψ̄η, move η to the left, ψ̄η = −ηψ̄, so δ/δη gives −iψ̄ and iδ/δη gives ψ̄.
 
@@ -250,16 +252,6 @@ It quoted the LSZ reduction formula from Lesson 52 rather than deriving it insid
 
 **16.** Take γ(k₁, ε₁) + φ(p) → γ(k₂, ε₂) + φ(p′). The s-channel diagram is [−iq(2p + k₁)·ε₁][i/((p + k₁)² − m²)][−iq(2p′ + k₂)·ε₂*]. The u-channel diagram is [−iq(2p′ − k₁)·ε₁][i/((p − k₂)² − m²)][−iq(2p − k₂)·ε₂*]. The seagull is 2iq²ε₁·ε₂*. Replace ε₁ by k₁. In the s-channel, (2p + k₁)·k₁ = 2p·k₁ = (p + k₁)² − m², which cancels the propagator and leaves −iq²(2p′ + k₂)·ε₂*. In the u-channel, (2p′ − k₁)·k₁ = 2p′·k₁ = 2p·k₂ = −[(p − k₂)² − m²], which leaves +iq²(2p − k₂)·ε₂*. Using p′ − p + k₂ = k₁, the two sum to −2iq²k₁·ε₂*. The seagull gives +2iq²k₁·ε₂*, and the total vanishes. Without the seagull, the amplitude would not be gauge invariant.
 
-# Mastery checklist
+# Mastery check
 
-- I can write the master formula and explain how it generates perturbation theory.
-
-- I can derive the propagators and the vertex ieγ^μ, and explain the cancellation of 1/n!.
-
-- I can derive momentum conservation and the loop count from the Fourier integrals.
-
-- I can obtain every fermion sign by reordering Grassmann variables.
-
-- I can compute the e–μ amplitude and recover the Coulomb potential.
-
-- I can read off vertices for derivative couplings, including the seagull.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

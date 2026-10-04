@@ -1,123 +1,192 @@
-TITLE: S-Parameters and the S-Matrix
-TAGLINE: The microwave engineer's incoming and outgoing waves are the same idea as ⟨f|S|i⟩: arrows from in to out
+TITLE: Kets, Bras, and the Schrödinger Equation
+TAGLINE: A ket names a situation; a bra asks it a question; the answer is one of Prologue 1's arrows. The Schrödinger equation is the stopwatch that turns those arrows as time passes
 NUM: 8
-NEXT: Prologue 9 draws Feynman diagrams as cartoons of those in-to-out arrows, slowly enough for a first reading.
+NEXT: Prologue 9 connects the engineer's S-parameters to the S-matrix ⟨f|S|i⟩ and then draws Feynman diagrams slowly, as recipes for those in-to-out arrows.
 
 # How to use this prologue
 
-If you have ever used a network analyzer, you already own half of particle physics. A two-port has incoming waves a₁, a₂ and outgoing waves b₁, b₂, packed as b=Sa. The numbers S₁₁, S₂₁ are amplitudes. Their | |² are reflected and transmitted power. Quantum electrodynamics uses the same packing for particles: in-state |i⟩, out-state |f⟩, a matrix S, an arrow ⟨f|S|i⟩. This prologue is the dictionary. Lesson 51 turns ⟨f|S|i⟩ into a cross section. Expect four to six hours.
+The symbols | ⟩ and ⟨ | look like a secret handshake. They are not. A ket is a name for a complete physical situation; a bra is a question you ask that situation; the answer is one of the arrows of Prologues 1–6, a complex number. The second half of this prologue writes the law that turns those arrows as time passes, the Schrödinger equation: iℏ times how fast the ket changes equals a machine Ĥ, the energy, acting on the ket. Lessons 10 and 12 do both properly. This is the version for someone who has never seen the notation. Expect five to eight hours.
 
 ## Learning objectives
 
-- Write b = S a for a two-port and name S₁₁ as reflection, S₂₁ as transmission.
+- Read |ψ⟩ as "the situation called ψ" and ⟨φ| as "the question: how much of φ is in this?"
 
-- Identify |S_ij|² with Prologue 1's probability (power, in the microwave case).
+- Compute P = |⟨φ|ψ⟩|² as the probability that situation ψ is found as φ.
 
-- Write the QED S-matrix element as ⟨f|S|i⟩ and compare it to S₂₁.
+- Use ⟨ψ|ψ⟩=1 as the statement that some outcome happens.
 
-- Translate Prologue 2's glass into S-parameters.
+- Expand a ket in a basis, |ψ⟩=Σ c_n |n⟩, and read c_n as arrows.
 
-- State what a particle-physics "port" is: a species, a momentum, and a spin.
+- Translate a sentence of ordinary English into a bra-ket sandwich.
+
+- Write iℏ d|ψ⟩/dt = Ĥ|ψ⟩ and say every symbol in English.
+
+- Explain a stationary state: the ket rotates, the probabilities do not.
+
+- Connect the rotation rate of Prologue 1 to E/ℏ.
+
+- State that Ĥ is the energy, and that the Schrödinger equation cannot survive relativity unchanged (Lesson 19).
 
 ## Notation and conventions
 
 @widths 2160 7632
 | Symbol | Meaning |
-| a₁, a₂ | Incoming wave amplitudes at ports 1 and 2 (microwave) |
-| b₁, b₂ | Outgoing wave amplitudes |
-| S₁₁, S₂₁ | Reflection at 1; transmission from 1 to 2 |
-| ⟨f|S|i⟩ | QED amplitude from in-state i to out-state f |
-| ℳ | The interesting part of S after removing "nothing happened" and a momentum δ-function, Lesson 50 |
+| |ψ⟩ | A ket: the whole situation, Prologue 1's "what is going on" |
+| ⟨φ| | A bra: the question that picks out one possibility |
+| ⟨φ|ψ⟩ | The arrow (complex number) from ψ to φ |
+| ⟨ψ|ψ⟩=1 | The situation is normalized: probabilities will add to 1 |
+| Ĥ | Hamiltonian: the energy machine |
+| ℏ | Planck's constant over 2π; this course often sets ℏ=1 |
+| i | Lesson 1's imaginary unit, a 90° rotation of an arrow |
+| stationary | A situation whose probabilities do not change, even though the ket rotates |
 
-# 1 The two-port you already know
+# 1 A ket is not a vector until Lesson 1 says so
 
-FIG:
-  a1 -->  [  network  ]  --> b2
-  b1 <--  [           ]  <-- a2
-ENDFIG
+Write |electron here⟩, |photon going left⟩, |click in the detector⟩. The vertical bar and the angle bracket are just a frame around a name. You can call the name anything. Physicists use Greek letters because they run out of ordinary ones, not because the idea got harder.
 
-$$ b₁ = S₁₁ a₁ + S₁₂ a₂
+The whole of quantum mechanics is: situations combine like Prologue 1's arrows. So kets add, and they can be stretched by a complex number. That is Lesson 1's vector space, postponed until the name is not scary.
 
-$$ b₂ = S₂₁ a₁ + S₂₂ a₂
+# 2 A bra is the question
 
-S₁₁ is "in at 1, back out at 1": reflection. S₂₁ is "in at 1, out at 2": transmission. If the network is lossless, the outgoing power equals the incoming power: the S matrix is unitary, which in arrows says lengths are preserved. That is Prologue 6's ⟨ψ|ψ⟩=1, written for waves on cables.
+⟨click| is the question "did the detector click?" asked of whatever ket you sandwich it onto.
+
+$$ ⟨ click | ψ ⟩
+
+is the arrow for "situation ψ produces a click." The probability is the square of that arrow's length, exactly Prologue 1.
+
+IMG: P8_braket.png | 5.6 | Figure P8.1. A ket names the situation; a bra is the question; their sandwich ⟨φ|ψ⟩ is an arrow; the detector reports only its squared length.
 
 ### Worked example 1
 
-A matched load has S₁₁=0: nothing comes back. A short has S₁₁=−1: everything comes back, arrow reversed. A piece of glass, Prologue 2, is a two-port for photons: S₁₁~0.2 (one surface), and |S₁₁|²≈0.04. Two surfaces make S₁₁ a sum of two arrows, thickness-dependent. You have been computing S-parameters with Feynman arrows since Prologue 2.
+English: "If the photon left the source, how likely is a click in patch A?" Bra-ket: P=|⟨A|source⟩|². The ket |source⟩ is the situation after emission. The bra ⟨A| is the question "in patch A?" You do not add P(A)+P(B) when A and B are two undistinguished paths to the same click; you add ⟨A_path1|source⟩+⟨A_path2|source⟩, then square. That is Prologue 2 in this notation.
 
-# 2 Particles instead of cables
+# 3 Normalization
 
-In QED the "cables" are beams. An in-state |i⟩ names every incoming particle: species, momentum, spin. An out-state |f⟩ names every outgoing one. The amplitude is
+⟨ψ|ψ⟩=1 means: if you ask "is it this situation?", and it is this situation, the arrow has length 1, P=1. If a ket is not normalized, divide by its length. Lesson 10 will write this as ∫|ψ(x)|² d³x=1. Same sentence, more furniture.
 
-$$ ⟨ f | S | i ⟩
+# 4 A basis is a complete list of questions
 
-Read it as S₂₁, with port 1 = the prepared beam and port 2 = the detector setting. If nothing happens, S acts as 1: ⟨f|i⟩, which is zero unless f is i. Scattering is the extra piece, written i(2π)⁴δ⁴(P_f−P_i)ℳ in Lesson 50. ℳ is the S-parameter after you have stripped off "the beam missed" and "momentum must balance."
+If the detector can only click in patch A or patch B, the two kets |A⟩ and |B⟩ are a basis. Any situation is
 
-# 3 Unitarity is probability accounting
+$$ |ψ⟩ = ⟨A|ψ⟩ |A⟩ + ⟨B|ψ⟩ |B⟩
 
-Microwave: if 1 watt goes in, 1 watt comes out of a lossless two-port, in some mix of b₁ and b₂. QED: if a photon goes in, the sum of |⟨f|S|i⟩|² over all possible f is 1 (on the energy shell, with the usual continuum caveats of Lesson 51). Lost probability is a missing diagram, a missed port. Optical theorem, later, is this sentence differentiated.
+The coefficients are the arrows. If you know all the arrows onto a complete list of exclusive outcomes, you know the ket.
 
-# 4 Many ports
+# 5 What this is not
 
-A 2→2 process (two particles in, two out) is a four-port if you count each particle's momentum as a port. Compton is S from the port "electron+photon in" to the port "electron+photon out." Annihilation is a different routing: electron+positron in, two photons out. The Feynman diagram of Prologue 9 is the picture of which internal cables you soldered. The S-parameter is the number that picture evaluates to.
+A ket is not a little particle. A bra is not a machine in the lab. ⟨φ|ψ⟩ is not "φ times ψ" in the sense of multiplying two waves on a blackboard until Lesson 10 says it is an integral. For this opening, sandwich = arrow.
+
+# 6 The law in one line
+
+$$ i ℏ  d|ψ⟩ / dt  =  Ĥ |ψ⟩
+
+English, left to right:
+
+- i: rotate the arrow by 90°.
+- ℏ: a conversion between energy and rotation rate. In this course, often 1.
+- d|ψ⟩/dt: how the situation is changing right now.
+- Ĥ|ψ⟩: take the situation and ask "what is its energy mix?" Ĥ is a machine, not a number, until the situation is an energy eigenstate.
+
+If Ĥ|ψ⟩=E|ψ⟩, a single energy, the solution is |ψ(t)⟩=e^{−iEt/ℏ}|ψ(0)⟩. The whole ket multiplies by a rotating arrow of length 1. Every sandwich ⟨φ|ψ(t)⟩ picks up that rotation. Probabilities, being lengths squared, do not notice a global rotation. That is a stationary state.
+
+### Worked example 3
+
+Prologue 1 said blue light's arrow rotates faster than red. Where is that in Schrödinger? A photon of energy E=hf has rotation rate E/ℏ=2πf. Blue has larger f, hence larger E, hence faster rotation. The easy QED clock hand and the Schrödinger phase are the same object.
+
+# 7 Superposition moves
+
+If |ψ⟩=|A⟩+|B⟩, two different energies, each piece rotates at its own rate. The relative arrow between A and B swings. Then |⟨click|ψ⟩|² can tick. That is every interference experiment that changes in time, and every electron that moves.
+
+# 8 What Schrödinger cannot do
+
+The equation treats time as a driver and space as a label on the wave function. Relativity will not allow that split. Lesson 18 tries Klein–Gordon, Lesson 20 succeeds with Dirac. This prologue is the nonrelativistic machine, and it is still the right machine for atoms when v≪c, including the hydrogen that Lesson 77 will shift by a loop.
 
 # Connections to QED
 
 @widths 3264 6528
 | Result of this prologue | Where it is used |
-| b=Sa | Laboratory language for ⟨f|S|i⟩ |
-| S₁₁, S₂₁ | Reflection and transmission; Prologue 2's glass |
-| ℳ | Lesson 50–51, the computed S-parameter of a process |
-| Unitarity | Probability; later, the optical theorem |
+| |ψ⟩, ⟨φ|, ⟨φ|ψ⟩ | Lesson 1 vectors; Lesson 10 Hilbert space |
+| P=\|⟨φ|ψ⟩|² | Born rule, Lesson 10 |
+| S-matrix ⟨f|S|i⟩ | Prologue 9; Lesson 51 |
+| iℏ d|ψ⟩/dt=Ĥ|ψ⟩ | Lesson 12, in full |
+| Rotation rate E/ℏ | Prologue 1 color; photon energy |
+| Stationary P | Energy eigenstates, Lesson 12 |
 
 # Summary
 
-1. S-parameters are arrows from in-waves to out-waves.
+1. A ket names a situation.
 
-2. |S_ij|² is power in the microwave, probability in QED.
+2. A bra asks a yes-amount question.
 
-3. ⟨f|S|i⟩ is the same idea for particles.
+3. The sandwich is Prologue 1's arrow.
 
-4. Glass was an S₁₁. Compton is a bigger S.
+4. Its length squared is the probability.
 
-5. Lesson 51 converts |ℳ|² into a cross section, the particle version of |S₂₁|² times a flux.
+5. Lesson 10 is this, with integrals.
+
+6. The Schrödinger equation says how a ket changes.
+
+7. Ĥ is the energy machine.
+
+8. One energy: rotate, probabilities sit still.
+
+9. Several energies: relative arrows move, interference ticks.
+
+10. Relativity will replace the equation; the idea "energy rotates arrows" stays.
 
 # Exercises
 
 @widths 720 9072
 | No | Problem |
-| 1 | What is S₁₁ in words? S₂₁? |
-| 2 | A lossless matched line: quote S₁₁ and S₂₁. |
-| 3 | Write the QED sandwich that corresponds to S₂₁. |
-| 4 | Map Prologue 2's single glass surface onto an S-parameter. |
-| 5 | What does unitarity say in one sentence? |
-| 6 | What does Lesson 50 strip off S to leave ℳ? |
-| 7 | Is a decay Γ an S-parameter? |
-| 8 | Challenge: three-port, one in, two out (a decay into two particles). Which S-column is the physics? |
+| 1 | **Core.** Translate "the atom is in the ground state" into a ket. |
+| 2 | **Core.** Translate "probability the atom is found excited" into bra-ket. |
+| 3 | **Core.** If ⟨φ|ψ⟩=i/2, what is P? |
+| 4 | **Extension.** Why is ⟨ψ|ψ⟩=1 required? |
+| 5 | **Core.** Write |ψ⟩ in a two-outcome basis. |
+| 6 | **Extension.** Where will ⟨f|S|i⟩ appear? |
+| 7 | **Extension.** Is |ψ⟩ a list of clicks? |
+| 8 | **Challenge.** Why ⟨φ|ψ⟩* = ⟨ψ|φ⟩, in Prologue 1's arrow language. |
+| 9 | **Core.** Say iℏ d|ψ⟩/dt=Ĥ|ψ⟩ in six words. |
+| 10 | **Core.** If Ĥ|ψ⟩=E|ψ⟩, write |ψ(t)⟩. |
+| 11 | **Extension.** Why don't probabilities change in a stationary state? |
+| 12 | **Extension.** Connect blue-versus-red rotation to E. |
+| 13 | **Core.** What happens if two energies are superposed? |
+| 14 | **Extension.** Why must this equation change for a fast electron? |
+| 15 | **Core.** Where is it solved in this course? |
+| 16 | **Challenge.** If ℏ=1, what is the period of the phase e^{−iEt}? |
 
 # Solutions
 
-**1.** S₁₁: reflection at port 1. S₂₁: transmission from 1 to 2.
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
-**2.** S₁₁=0, S₂₁=e^{iθ} with |S₂₁|=1 (a delay).
+**1.** |ground⟩, or |g⟩.
 
-**3.** ⟨f|S|i⟩.
+**2.** |⟨excited|atom⟩|².
 
-**4.** S₁₁≈0.2, |S₁₁|²≈0.04.
+**3.** |i/2|²=1/4.
 
-**5.** Outgoing probability (or power) equals incoming; arrows preserve length in total.
+**4.** So that the probabilities of a complete list of exclusive outcomes add to 1.
 
-**6.** The identity piece (nothing happened) and a momentum-conserving δ-function; ℳ is the rest.
+**5.** |ψ⟩=⟨A|ψ⟩|A⟩+⟨B|ψ⟩|B⟩.
 
-**7.** It is built from |ℳ|² the same way; one "in" port, several "out" ports, no flux factor, Lesson 51.
+**6.** Prologue 9 and Lesson 51: in-state to out-state.
 
-**8.** The column for that one incoming state; the two outgoing particles are two ports sharing the row.
+**7.** No. It is the situation that produces clicks with certain arrows.
 
-# Mastery checklist
+**8.** Reversing "from ψ to φ" reverses the arrow's direction, which is complex conjugation.
 
-- I can read a two-port S matrix as arrows from in to out.
+**9.** Energy rotates the situation's arrows.
 
-- I can write ⟨f|S|i⟩ as the particle version of S₂₁.
+**10.** e^{−iEt/ℏ}|ψ(0)⟩.
 
-- I can see glass, Compton, and a VNA as one idea.
+**11.** A common rotating arrow of length 1 cancels in |⟨φ|ψ⟩|².
+
+**12.** E=hf, rate E/ℏ=2πf; blue has larger f.
+
+**13.** The relative phase moves; P can tick.
+
+**14.** Time and space must enter symmetrically; Schrödinger does not.
+
+**15.** Lesson 12.
+
+**16.** T=2π/E.

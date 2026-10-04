@@ -228,24 +228,26 @@ It used the dummy-variable principle without examining boundary terms at large f
 
 @widths 720 9072
 | No | Problem |
-| 1 | Derive ∫dx f′(x) = 0 from the invariance of ∫dx f(x) under x → x + ε, and state the conditions needed. |
-| 2 | Derive ⟨δS/δφ(x)⟩_J = −J(x) from Section 1 with F = 1. |
-| 3 | Show that Z₀[J] = Z₀[0]exp(−½∫JD_FJ) satisfies [K(−iδ/δJ) + J]Z₀ = 0. |
-| 4 | Derive the contact term in ⟨(δS/δφ(x))φ(y)⟩ = iδ⁴(x − y). |
-| 5 | Using the zero-dimensional recursion with n = 5, find ⟨x⁶⟩ to first order in λ. |
-| 6 | Write the Schwinger–Dyson equation for the electron two-point function and identify the term that becomes the self-energy. |
-| 7 | Compute the change of ψ̄iγ^μ∂_μψ under ψ → e^{iα(x)}ψ, ψ̄ → e^{−iα(x)}ψ̄. |
-| 8 | Why does the interaction term eψ̄A̸ψ not contribute to δS in Section 3.1? |
-| 9 | Show that integrating Section 3.2's identity over all z gives zero, and interpret the result. |
-| 10 | Verify the momentum-space Ward–Takahashi identity at tree level. |
-| 11 | In Worked example 4, compute the order-g² change in Z without the Jacobian, and show that the Jacobian cancels it. |
-| 12 | Why do ψ and ψ̄ rotating by the same phase under a chiral rotation make a nontrivial Jacobian possible, while opposite phases do not? |
-| 13 | Recompute the π⁰ width with f_π = 92.1 MeV and convert it to a lifetime, using ℏ = 6.582×10⁻²² MeV s. |
-| 14 | In Worked example 6, show that |∂G(v^θ)/∂θ| = r at each zero, and explain the factor ½. |
-| 15 | Show that for G = ∂·A − ω, δG[A^α]/δα = ∂², and explain why this makes the QED ghosts free. |
-| 16 | Challenge: show that averaging δ(∂·A − ω) over ω with weight exp[−(i/2ξ)∫ω²] produces ℒ_gf = −(∂·A)²/2ξ, and that ξ → 0 gives Landau gauge, ∂·A = 0 exactly. |
+| 1 | **Extension.** Derive ∫dx f′(x) = 0 from the invariance of ∫dx f(x) under x → x + ε, and state the conditions needed. |
+| 2 | **Extension.** Derive ⟨δS/δφ(x)⟩_J = −J(x) from Section 1 with F = 1. |
+| 3 | **Core.** Show that Z₀[J] = Z₀[0]exp(−½∫JD_FJ) satisfies [K(−iδ/δJ) + J]Z₀ = 0. |
+| 4 | **Extension.** Derive the contact term in ⟨(δS/δφ(x))φ(y)⟩ = iδ⁴(x − y). |
+| 5 | **Core.** Using the zero-dimensional recursion with n = 5, find ⟨x⁶⟩ to first order in λ. |
+| 6 | **Extension.** Write the Schwinger–Dyson equation for the electron two-point function and identify the term that becomes the self-energy. |
+| 7 | **Core.** Compute the change of ψ̄iγ^μ∂_μψ under ψ → e^{iα(x)}ψ, ψ̄ → e^{−iα(x)}ψ̄. |
+| 8 | **Core.** Why does the interaction term eψ̄A̸ψ not contribute to δS in Section 3.1? |
+| 9 | **Extension.** Show that integrating Section 3.2's identity over all z gives zero, and interpret the result. |
+| 10 | **Core.** Verify the momentum-space Ward–Takahashi identity at tree level. |
+| 11 | **Core.** In Worked example 4, compute the order-g² change in Z without the Jacobian, and show that the Jacobian cancels it. |
+| 12 | **Extension.** Why do ψ and ψ̄ rotating by the same phase under a chiral rotation make a nontrivial Jacobian possible, while opposite phases do not? |
+| 13 | **Core.** Recompute the π⁰ width with f_π = 92.1 MeV and convert it to a lifetime, using ℏ = 6.582×10⁻²² MeV s. |
+| 14 | **Extension.** In Worked example 6, show that |∂G(v^θ)/∂θ| = r at each zero, and explain the factor ½. |
+| 15 | **Core.** Show that for G = ∂·A − ω, δG[A^α]/δα = ∂², and explain why this makes the QED ghosts free. |
+| 16 | **Challenge.** Show that averaging δ(∂·A − ω) over ω with weight exp[−(i/2ξ)∫ω²] produces ℒ_gf = −(∂·A)²/2ξ, and that ξ → 0 gives Landau gauge, ∂·A = 0 exactly. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** d/dε ∫dx f(x + ε) = ∫dx f′(x + ε) = 0 at ε = 0. This needs infinite limits, or periodic ones, and f → 0 at the boundary.
 
@@ -279,16 +281,6 @@ It used the dummy-variable principle without examining boundary terms at large f
 
 **16.** ∫Dω exp[−(i/2ξ)∫ω²]δ(∂·A − ω) = exp[−(i/2ξ)∫(∂·A)²], which is i∫ℒ_gf with ℒ_gf = −(∂·A)²/2ξ. As ξ → 0 the Gaussian becomes a delta function, ω = 0, so ∂·A = 0 exactly.
 
-# Mastery checklist
+# Mastery check
 
-- I can state the dummy-variable principle and derive the Schwinger–Dyson equations with their contact terms.
-
-- I can check Schwinger–Dyson equations against perturbation theory in a simple model.
-
-- I can derive the Ward–Takahashi identity from a local phase rotation of ψ.
-
-- I can explain why a Jacobian is an interaction, and when it can be dropped.
-
-- I can state the chiral anomaly and compute the π⁰ → γγ rate.
-
-- I can derive the QED gauge-fixing term by the Faddeev–Popov procedure, and say why QED needs no ghosts.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

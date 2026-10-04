@@ -34,6 +34,11 @@ Three earlier lessons left promises here. Lesson 40 said that the nonrelativisti
 
 The vertex is ieγ^μ, the metric diag(+1, −1, −1, −1), and the covariant derivative is D_μ = ∂_μ + iqA_μ, as in Lesson 41. In display equations, square brackets enclose function arguments and visible groupings.
 
+BOX: First pass: the result before the derivation
+Dirac's g = 2 is corrected by the vertex loop to g = 2(1 + a), with a = F₂(0) = α/(2π) ≈ 0.00116.
+The first finite prediction of QED's loops, now confirmed to parts in 10¹².
+ENDBOX
+
 # 1 g = 2 from the Dirac equation
 
 ## 1.1 Squaring the Hamiltonian
@@ -102,13 +107,7 @@ The infrared divergence of Lesson 74 also sits in F₁. It comes from the soft-p
 
 ## 4.1 The integrand
 
-FIG:
-   e⁻(p) ───*──────*─── e⁻(p′)
-             \    /
-              ~~~~    virtual photon (internal)
-               |
-            γ(q) external field
-ENDFIG
+IMG: L76_g2.png | 5.6 | Figure 76.1. The anomalous magnetic moment. The vertex correction modifies the coupling to a static field; the Pauli form factor at zero momentum transfer gives a = α/2π.
 
 Lesson 65's vertex correction combines three denominators with Feynman parameters x, y, z, x + y + z = 1, and the loop momentum is shifted to complete the square. After the shift, the numerator contains terms with γ^μ and terms with (p + p′)^μ. Using the Gordon identity to convert the second kind gives the coefficient of iσ^μν q_ν/2m. The result, quoted from the standard reduction (Exercise 13 outlines the steps), is
 
@@ -200,21 +199,23 @@ This lesson derived g = 2 and the form-factor structure, and evaluated the one-l
 
 @widths 720 9072
 | No | Problem |
-| 1 | Prove (σ·a)(σ·b) = a·b + iσ·(a × b) for operators a and b, and use [π_i, π_j] = iqε_ijkB_k to show (σ·π)² = π² − qσ·B. |
-| 2 | Derive [π_i, π_j] = iqε_ijkB_k from π = −i∇ − qA. |
-| 3 | Prove the Gordon identity, starting from ū(p′)[p̸′γ^μ + γ^μp̸]u(p) = 2mū(p′)γ^μu(p). |
-| 4 | Show that a vertex term proportional to q^μ alone would violate q_μΓ^μ = 0 for on-shell spinors. |
-| 5 | Show that g = 2(F₁(0) + F₂(0)), combining Section 2.1 with the Gordon identity. |
-| 6 | Explain why F₂ must be ultraviolet finite in a renormalizable theory. |
-| 7 | Carry out the z integral in Section 4.2, including the length of the x, y segment. |
-| 8 | Expand F₂(q²) to first order in q² near q² = 0, and show that F₂ decreases for spacelike q² (Q² > 0). |
-| 9 | Compute g − 2 for the electron to one loop, and compare with the measured value. |
-| 10 | Compute C₂(α/π)² and C₃(α/π)³, and state which digits of a_e each one affects. |
-| 11 | In a Penning trap, show that a = (ω_s − ω_c)/ω_c, given ω_s = gω_c/2. |
-| 12 | Explain why the muon anomaly is more sensitive than the electron's to heavy particles, and estimate the enhancement factor. |
-| 13 | Challenge: outline the steps that take Lesson 65's numerator to Section 4.1's integrand: Feynman parameters, the shift ℓ = k + yq − zp (or equivalent), dropping odd powers of ℓ, and the Gordon identity. Identify which terms feed F₁ and which feed F₂. |
+| 1 | **Extension.** Prove (σ·a)(σ·b) = a·b + iσ·(a × b) for operators a and b, and use [π_i, π_j] = iqε_ijkB_k to show (σ·π)² = π² − qσ·B. |
+| 2 | **Extension.** Derive [π_i, π_j] = iqε_ijkB_k from π = −i∇ − qA. |
+| 3 | **Extension.** Prove the Gordon identity, starting from ū(p′)[p̸′γ^μ + γ^μp̸]u(p) = 2mū(p′)γ^μu(p). |
+| 4 | **Core.** Show that a vertex term proportional to q^μ alone would violate q_μΓ^μ = 0 for on-shell spinors. |
+| 5 | **Extension.** Show that g = 2(F₁(0) + F₂(0)), combining Section 2.1 with the Gordon identity. |
+| 6 | **Extension.** Explain why F₂ must be ultraviolet finite in a renormalizable theory. |
+| 7 | **Extension.** Carry out the z integral in Section 4.2, including the length of the x, y segment. |
+| 8 | **Core.** Expand F₂(q²) to first order in q² near q² = 0, and show that F₂ decreases for spacelike q² (Q² > 0). |
+| 9 | **Core.** Compute g − 2 for the electron to one loop, and compare with the measured value. |
+| 10 | **Core.** Compute C₂(α/π)² and C₃(α/π)³, and state which digits of a_e each one affects. |
+| 11 | **Core.** In a Penning trap, show that a = (ω_s − ω_c)/ω_c, given ω_s = gω_c/2. |
+| 12 | **Core.** Explain why the muon anomaly is more sensitive than the electron's to heavy particles, and estimate the enhancement factor. |
+| 13 | **Challenge.** Outline the steps that take Lesson 65's numerator to Section 4.1's integrand: Feynman parameters, the shift ℓ = k + yq − zp (or equivalent), dropping odd powers of ℓ, and the Gordon identity. Identify which terms feed F₁ and which feed F₂. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** σ_iσ_j = δ_ij + iε_ijkσ_k, so (σ·a)(σ·b) = a_ib_jσ_iσ_j = a·b + iσ_kε_ijka_ib_j = a·b + iσ·(a × b). For a = b = π, (π × π)_k = ½ε_kij[π_i, π_j] = ½ε_kij iqε_ijlB_l = iqB_k. So (σ·π)² = π² + iσ·(iqB) = π² − qσ·B.
 
@@ -242,16 +243,6 @@ This lesson derived g = 2 and the form-factor structure, and evaluated the one-l
 
 **13.** Combine the three denominators with Feynman parameters, and shift k to complete the square, so the denominator becomes (ℓ² − Δ)³ with Δ = m²(1 − z)² − q²xy. Drop terms odd in ℓ, and replace ℓ^μℓ^ν by g^μνℓ²/4. The ℓ² terms are proportional to γ^μ and carry the ultraviolet divergence, so they feed F₁. The remaining terms, after the Dirac equation is used on the external spinors, contain γ^μ and (p + p′)^μ. Converting (p + p′)^μ with the Gordon identity produces the iσ^μν q_ν term, whose coefficient after the ℓ integration is Section 4.1's F₂ integrand.
 
-# Mastery checklist
+# Mastery check
 
-- I can derive g = 2 from the Dirac Hamiltonian.
-
-- I can write the vertex in terms of F₁ and F₂ and justify its structure.
-
-- I can use the Gordon identity to show g = 2(F₁(0) + F₂(0)).
-
-- I can explain why F₂ is finite in both the ultraviolet and the infrared.
-
-- I can evaluate the one-loop F₂(0) and obtain α/(2π).
-
-- I can compare a_e with experiment through several loops and explain how it determines α.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

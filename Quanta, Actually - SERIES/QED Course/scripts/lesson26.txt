@@ -41,6 +41,11 @@ The lesson is the classical counterpart of the argument made for the Dirac equat
 | j^μ | Electromagnetic four-current (Lesson 24) |
 | [X] | Mass dimension of X in natural units |
 
+BOX: First pass: the result before the derivation
+A field theory is specified by a Lagrangian density ℒ(φ, ∂_μφ), and the action is S = ∫d⁴x ℒ. Lorentz invariance of ℒ guarantees relativistic field equations.
+QED itself will be a single Lagrangian density (Lesson 42).
+ENDBOX
+
 # 1 From the Lagrangian to the Lagrangian density
 
 ## 1.1 The action as a spacetime integral
@@ -241,24 +246,26 @@ The three Lagrangian densities of Sections 4 through 6 are the building blocks o
 
 @widths 720 9072
 | No | Problem |
-| 1 | Show that d⁴x is invariant under a general proper Lorentz transformation using the determinant of the defining condition ΛᵀgΛ = g, and conclude that S is invariant if ℒ is a scalar. |
-| 2 | List all Lorentz scalars built from φ and ∂_μφ that are at most quadratic in φ, explain why φ∂_μφ and ∂_μφ cannot appear, and show that a linear term Jφ with constant J can be removed from ℒ = (1/2)∂_μφ∂^μφ − (1/2)m²φ² + Jφ by shifting φ. |
-| 3 | Compute π and ℋ for the real scalar field and verify ℋ = (1/2)π² + (1/2)(∇φ)² + (1/2)m²φ². |
-| 4 | Show that (1/2)∂_μφ∂^μφ and −(1/2)φ□φ differ by the total derivative (1/2)∂_μ(φ∂^μφ). |
-| 5 | Determine the dimension of each coupling in the terms gφ³, λφ⁴, and cφ⁶ in four spacetime dimensions, and identify which is dimensionless. |
-| 6 | Show that under φ → e^(iα(x))φ, the derivative term becomes ∂_μφ*∂^μφ + i∂^μα(φ∂_μφ* − φ*∂_μφ) + (∂α)²φ*φ, and explain why the extra terms vanish for constant α. |
-| 7 | Show that the Dirac Lagrangian density is real up to a total derivative, following Section 5.2. |
-| 8 | For ℒ = ψ̄(iγ^μ∂_μ − m)ψ, compute ∂ℒ/∂ψ̄ and ∂ℒ/∂(∂_μψ̄), and state the equation obtained by setting the Euler–Lagrange combination to zero. |
-| 9 | Compute the momentum π_ψ = ∂ℒ/∂ψ̇ for the Dirac field and show that ℋ = ψ†(−iα·∇ + βm)ψ. |
-| 10 | Verify F_μνF^μν = 2(B² − E²) for a field with only a magnetic field along z, where F₁₂ = −B and F₂₁ = B. |
-| 11 | Show that the coupling −j^μA_μ equals −ρφ + j·A and reduces to −qφ + qv·A for a point charge. |
-| 12 | Show that a photon mass term (1/2)m²A_μA^μ is not invariant under A_μ → A_μ − ∂_μχ. |
-| 13 | For V(φ) = (1/2)m²φ² + (λ/4!)φ⁴ find the stationary points, show that φ = 0 is the minimum for m² > 0 and λ > 0, and explain what goes wrong for λ < 0. |
-| 14 | Using E′_x = E_x, E′_y = γ(E_y − vB_z), E′_z = γ(E_z + vB_y) and B′_x = B_x, B′_y = γ(B_y + vE_z), B′_z = γ(B_z − vE_y) for a boost along x, show that E² − B² is invariant. |
-| 15 | Explain why terms containing second time derivatives of the field are excluded from ℒ, referring to the initial data of Lesson 25, Section 5.2. |
-| 16 | Challenge: for ℒ = (1/2)(E² − B²) in vacuum, with E = −∇φ − Ȧ, show that the momentum conjugate to A is π = −E and that the Hamiltonian density is ℋ = (1/2)(E² + B²) + E·∇φ, and show that the last term integrates to zero when ∇·E = 0 and the fields vanish at infinity. |
+| 1 | **Core.** Show that d⁴x is invariant under a general proper Lorentz transformation using the determinant of the defining condition ΛᵀgΛ = g, and conclude that S is invariant if ℒ is a scalar. |
+| 2 | **Extension.** List all Lorentz scalars built from φ and ∂_μφ that are at most quadratic in φ, explain why φ∂_μφ and ∂_μφ cannot appear, and show that a linear term Jφ with constant J can be removed from ℒ = (1/2)∂_μφ∂^μφ − (1/2)m²φ² + Jφ by shifting φ. |
+| 3 | **Core.** Compute π and ℋ for the real scalar field and verify ℋ = (1/2)π² + (1/2)(∇φ)² + (1/2)m²φ². |
+| 4 | **Core.** Show that (1/2)∂_μφ∂^μφ and −(1/2)φ□φ differ by the total derivative (1/2)∂_μ(φ∂^μφ). |
+| 5 | **Core.** Determine the dimension of each coupling in the terms gφ³, λφ⁴, and cφ⁶ in four spacetime dimensions, and identify which is dimensionless. |
+| 6 | **Extension.** Show that under φ → e^(iα(x))φ, the derivative term becomes ∂_μφ*∂^μφ + i∂^μα(φ∂_μφ* − φ*∂_μφ) + (∂α)²φ*φ, and explain why the extra terms vanish for constant α. |
+| 7 | **Extension.** Show that the Dirac Lagrangian density is real up to a total derivative, following Section 5.2. |
+| 8 | **Core.** For ℒ = ψ̄(iγ^μ∂_μ − m)ψ, compute ∂ℒ/∂ψ̄ and ∂ℒ/∂(∂_μψ̄), and state the equation obtained by setting the Euler–Lagrange combination to zero. |
+| 9 | **Core.** Compute the momentum π_ψ = ∂ℒ/∂ψ̇ for the Dirac field and show that ℋ = ψ†(−iα·∇ + βm)ψ. |
+| 10 | **Core.** Verify F_μνF^μν = 2(B² − E²) for a field with only a magnetic field along z, where F₁₂ = −B and F₂₁ = B. |
+| 11 | **Core.** Show that the coupling −j^μA_μ equals −ρφ + j·A and reduces to −qφ + qv·A for a point charge. |
+| 12 | **Extension.** Show that a photon mass term (1/2)m²A_μA^μ is not invariant under A_μ → A_μ − ∂_μχ. |
+| 13 | **Extension.** For V(φ) = (1/2)m²φ² + (λ/4!)φ⁴ find the stationary points, show that φ = 0 is the minimum for m² > 0 and λ > 0, and explain what goes wrong for λ < 0. |
+| 14 | **Extension.** Using E′_x = E_x, E′_y = γ(E_y − vB_z), E′_z = γ(E_z + vB_y) and B′_x = B_x, B′_y = γ(B_y + vE_z), B′_z = γ(B_z − vE_y) for a boost along x, show that E² − B² is invariant. |
+| 15 | **Extension.** Explain why terms containing second time derivatives of the field are excluded from ℒ, referring to the initial data of Lesson 25, Section 5.2. |
+| 16 | **Challenge.** For ℒ = (1/2)(E² − B²) in vacuum, with E = −∇φ − Ȧ, show that the momentum conjugate to A is π = −E and that the Hamiltonian density is ℋ = (1/2)(E² + B²) + E·∇φ, and show that the last term integrates to zero when ∇·E = 0 and the fields vanish at infinity. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Taking the determinant of ΛᵀgΛ = g gives (det Λ)² det g = det g, so det Λ = ±1, and proper transformations have det Λ = +1. Under x′ = Λx, d⁴x′ = |det Λ|d⁴x = d⁴x. If ℒ′(x′) = ℒ(x), then S′ = ∫d⁴x′ℒ′(x′) = ∫d⁴xℒ(x) = S.
 
@@ -292,20 +299,6 @@ The three Lagrangian densities of Sections 4 through 6 are the building blocks o
 
 **16.** The Lagrangian density contains Ȧ only through E = −∇φ − Ȧ, so ∂ℒ/∂Ȧ = E·(∂E/∂Ȧ) = −E, giving π = −E. Then ℋ = π·Ȧ − ℒ = −E·Ȧ − (1/2)E² + (1/2)B². Substituting Ȧ = −E − ∇φ, −E·Ȧ = E² + E·∇φ, so ℋ = (1/2)E² + (1/2)B² + E·∇φ. Using E·∇φ = ∇·(φE) − φ∇·E, the first term integrates to a surface term that vanishes for fields decaying at infinity, and the second vanishes when ∇·E = 0. Hence H = ∫d³x (1/2)(E² + B²), the energy density of Lesson 7, Section 6.2.
 
-# Mastery checklist
+# Mastery check
 
-- I can write the action as an integral of a Lagrangian density and explain why d⁴x is Lorentz invariant.
-
-- I can state the requirements of Lorentz invariance, locality, reality, and first derivatives, and give the reason for each.
-
-- I can construct the free real scalar Lagrangian density and compute its momentum and Hamiltonian densities.
-
-- I can show that two Lagrangian densities differing by a total derivative are equivalent.
-
-- I can write the complex scalar, Dirac, and electromagnetic Lagrangian densities and identify the symmetry of each.
-
-- I can verify that the Dirac Lagrangian density is real up to a total derivative.
-
-- I can express the electromagnetic Lagrangian density as (1/2)(E² − B²) and identify the coupling to a conserved current.
-
-- I can determine the dimension of a field and of a coupling constant from the requirement that every term have dimension four.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

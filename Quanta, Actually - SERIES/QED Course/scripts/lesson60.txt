@@ -30,6 +30,11 @@ Lesson 51 wrote down the decay-rate formula dΓ=(1/2E_i)|ℳ|²(2π)⁴δ⁴(p_i
 | p_f | Magnitude of each decay product's momentum in the parent's rest frame |
 | Γ | Total decay rate into a given final state |
 
+BOX: First pass: the result before the derivation
+A particle of mass M decaying to two bodies has dΓ/dΩ = p_f|ℳ|²/(32π²M²), with p_f fixed by the masses.
+Decay rates are the one-particle version of cross sections; the same phase-space reduction applies.
+ENDBOX
+
 # 1 Specializing to the rest frame
 
 ## 1.1 The starting formula
@@ -43,6 +48,8 @@ for a particle of four-momentum p_i decaying into two products.
 ## 1.2 Why the rest frame
 
 Choosing the frame where the parent sits still, p_i=(M,0,0,0), sets E_i=M and removes any three-momentum for the delta function to balance except what the two decay products supply between them; this is not a matter of convenience alone, it is the frame in which "the particle's lifetime" is usually defined and measured relative to, the very τ₀ of Lesson 51, Section 4.2's time-dilation result.
+
+IMG: L60_decay.png | 4.6 | Figure 60.1. A two-body decay in the parent's rest frame: back-to-back daughters with equal and opposite momenta.
 
 ### Worked example 1
 
@@ -148,24 +155,26 @@ Lesson 61 now assembles every piece: the amplitudes of Lessons 54–58, the cros
 
 @widths 720 9072
 | No | Problem |
-| 1 | Write Lesson 51's decay formula and identify each factor's role, following the pattern of Lesson 51, Worked example 3. |
-| 2 | Explain why setting p_i=(M,0,0,0) is possible for any massive particle, referring to the existence of a rest frame for any object with M>0. |
-| 3 | Carry out the d³p₂ integral against the spatial delta function, showing p₂=−p₁ in this frame. |
-| 4 | Write f(p)=M−E₁(p)−E₂(p) and compute f′(p), following Lesson 59, Exercise 6's method with the appropriate relabeling. |
-| 5 | Evaluate f′(p) at the root p_f, using E₁+E₂=M there, and simplify to −p_fM/(E₁E₂). |
-| 6 | Combine Exercises 3–5 to derive ∫p²dp δ(f(p))=p_fE₁E₂/M. |
-| 7 | Assemble Section 3.1's formula from Exercise 6 and the remaining factors of Section 2.1, tracking every numerical constant as in Lesson 59, Exercise 12. |
-| 8 | Integrate Section 3.1's formula over the full solid angle, assuming |ℳ|² constant, and derive Γ=p_f|ℳ|²/(8πM²). |
-| 9 | Solve M=√(p²+m₁²)+√(p²+m₂²) for E₁=√(p²+m₁²) by isolating one square root and squaring once, showing every step. |
-| 10 | Verify Section 4.2's equal-mass check, p_f=√(M²−4m²)/2, by a second, independent route: computing E₁=M/2 directly from symmetry and then p_f²=E₁²−m². |
-| 11 | Factor (M²+m₁²−m₂²)²−4M²m₁² into the four-term product of Section 4.1, following the difference-of-squares method twice in succession. |
-| 12 | State the threshold condition on M implied by Section 4.1's formula, and compare it with Lesson 58, Section 5.1's threshold for pair production. |
-| 13 | Explain, in your own words, why integrating over the full solid angle double-counts a final state with two identical decay products, but not one with two distinguishable products. |
-| 14 | Using Section 5's formula, restate Γ for identical decay products in terms of the same p_f and |ℳ|² used throughout this lesson. |
-| 15 | Explain why the closed-form p_f of Section 4.1 was not needed anywhere in Lesson 59's cross-section derivation. |
-| 16 | Challenge: for a three-body decay (one parent, three decay products), state which parts of this lesson's method (the rest-frame choice, the momentum delta function, the single-variable radial integral) would carry over unchanged and which would need to be replaced, referring to Lesson 59, Exercise 16's parallel discussion for the three-body scattering case. |
+| 1 | **Extension.** Write Lesson 51's decay formula and identify each factor's role, following the pattern of Lesson 51, Worked example 3. |
+| 2 | **Core.** Explain why setting p_i=(M,0,0,0) is possible for any massive particle, referring to the existence of a rest frame for any object with M>0. |
+| 3 | **Extension.** Carry out the d³p₂ integral against the spatial delta function, showing p₂=−p₁ in this frame. |
+| 4 | **Core.** Write f(p)=M−E₁(p)−E₂(p) and compute f′(p), following Lesson 59, Exercise 6's method with the appropriate relabeling. |
+| 5 | **Core.** Evaluate f′(p) at the root p_f, using E₁+E₂=M there, and simplify to −p_fM/(E₁E₂). |
+| 6 | **Extension.** Combine Exercises 3–5 to derive ∫p²dp δ(f(p))=p_fE₁E₂/M. |
+| 7 | **Extension.** Assemble Section 3.1's formula from Exercise 6 and the remaining factors of Section 2.1, tracking every numerical constant as in Lesson 59, Exercise 12. |
+| 8 | **Core.** Integrate Section 3.1's formula over the full solid angle, assuming |ℳ|² constant, and derive Γ=p_f|ℳ|²/(8πM²). |
+| 9 | **Core.** Solve M=√(p²+m₁²)+√(p²+m₂²) for E₁=√(p²+m₁²) by isolating one square root and squaring once, showing every step. |
+| 10 | **Core.** Verify Section 4.2's equal-mass check, p_f=√(M²−4m²)/2, by a second, independent route: computing E₁=M/2 directly from symmetry and then p_f²=E₁²−m². |
+| 11 | **Extension.** Factor (M²+m₁²−m₂²)²−4M²m₁² into the four-term product of Section 4.1, following the difference-of-squares method twice in succession. |
+| 12 | **Core.** State the threshold condition on M implied by Section 4.1's formula, and compare it with Lesson 58, Section 5.1's threshold for pair production. |
+| 13 | **Extension.** Explain, in your own words, why integrating over the full solid angle double-counts a final state with two identical decay products, but not one with two distinguishable products. |
+| 14 | **Core.** Using Section 5's formula, restate Γ for identical decay products in terms of the same p_f and |ℳ|² used throughout this lesson. |
+| 15 | **Extension.** Explain why the closed-form p_f of Section 4.1 was not needed anywhere in Lesson 59's cross-section derivation. |
+| 16 | **Challenge.** For a three-body decay (one parent, three decay products), state which parts of this lesson's method (the rest-frame choice, the momentum delta function, the single-variable radial integral) would carry over unchanged and which would need to be replaced, referring to Lesson 59, Exercise 16's parallel discussion for the three-body scattering case. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** dΓ=(1/2E_i)|ℳ|²(2π)⁴δ⁴(p_i−ΣP_f)dΠ: |ℳ|² supplies the process-specific physics; 1/(2E_i) is the single-particle analogue of a cross section's flux factor, from the parent's own relativistic normalization; the delta function enforces energy-momentum conservation; dΠ sums over the allowed final-state configurations.
 
@@ -199,14 +208,6 @@ Lesson 61 now assembles every piece: the amplitudes of Lessons 54–58, the cros
 
 **16.** The rest-frame choice would carry over unchanged, since any decaying particle still has a well-defined rest frame regardless of how many products it decays into. The momentum delta function would still remove three of the newly-nine spatial degrees of freedom (three particles' worth), following the identical logic as Lesson 59, Exercise 16, for the analogous three-body final state in scattering. The single-variable radial integral of Section 2.2, however, would not survive unchanged: with three independent final-state momenta remaining after using the delta function, no single remaining constraint fixes a unique radial variable, and the phase-space integral becomes a genuine multi-dimensional integral (parametrized, in the standard treatment of three-body decays, by two independent energy or invariant-mass variables) rather than reducing to a solid-angle integral over a fixed p_f.
 
-# Mastery checklist
+# Mastery check
 
-- I can specialize Lesson 51's decay formula to the parent's rest frame and explain why that frame is the natural choice.
-
-- I can reuse Lesson 59's delta-function reduction to derive dΓ/dΩ=p_f|ℳ|²/(32π²M²).
-
-- I can integrate this over solid angle to obtain Γ=p_f|ℳ|²/(8πM²) for an isotropic matrix element.
-
-- I can derive the closed-form expression for p_f and state the threshold condition M≥m₁+m₂.
-
-- I can state and justify the symmetry factor needed for identical decay products.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

@@ -82,14 +82,16 @@ def build_standalone_kind(meta, blocks, kind, out_path):
             body.remove(child)
     hdr = doc.sections[0].header
     for p in hdr.paragraphs:
-        if "QED Course" in p.text:
+        if "QED Course" in p.text or "Lesson" in p.text:
             for r in p.runs[1:]:
                 r.text = ""
-            p.runs[0].text = "QED Course   %s %s" % (kind, meta["NUM"])
+            p.runs[0].text = (bl.CHAPTER_HEAD % (kind, meta["NUM"]) if kind != "Interlude"
+                              else "A QED Course   Interlude after Lesson 41")
     b = bl.Builder(doc)
     p = b.para(meta["TITLE"], style="Title")
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    p = b.para("%s %s of the Complete Quantum Electrodynamics Course" % (kind, meta["NUM"]), style="Subtitle")
+    label = "%s %s" % (kind, meta["NUM"]) if kind != "Interlude" else "The interlude after Lesson 41"
+    p = b.para("%s of %s, Volume %d: %s" % (label, bl.SERIES, bl.SERIES_VOLUME, bl.VOLUME_TITLE), style="Subtitle")
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p = b.para(bl.AUTHOR)
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
@@ -133,7 +135,8 @@ def main():
         path = os.path.join(HERE, "prologue%02d.txt" % n)
         meta, blocks = bl.parse(path)
         prologues.append((meta, blocks, path))
-        out = os.path.join(CHAPTERS, "Prologue %02d %s.docx" % (int(meta["NUM"]), meta["TITLE"]))
+        safe = meta["TITLE"].replace(": ", " - ").replace(":", "-")  # no colons in Windows file names
+        out = os.path.join(CHAPTERS, "Prologue %02d %s.docx" % (int(meta["NUM"]), safe))
         build_standalone_kind(meta, blocks, "Prologue", out)
         print("standalone", os.path.basename(out), "blocks", len(blocks))
 
@@ -162,10 +165,12 @@ def main():
         b,
         "Part 0 — Light, arrows, and the S-matrix",
         [("para",
-          "Start here. Prologues 1–4 are Feynman's easy QED in this course's words: photons, probability arrows, "
-          "all paths, and the three actions. Prologue 5 is Maxwell as the many-photon alternative. "
-          "Prologues 6–9 name bras and kets, the Schrödinger equation, S-parameters as ⟨f|S|i⟩, and Feynman diagrams "
-          "slowly enough for a first reading. Then Lesson 1 begins the algebra. Mead's view waits until after Lesson 41.")],
+          "Start here. Prologues 1–6 are Feynman's easy QED in this course's words, with pictures and no algebra beyond "
+          "squares and angles: light as lumps carrying arrows, partial reflection, all the paths, the step from arrows to "
+          "complex numbers, the three basic actions, and the loops and infinities that make QED both precise and puzzling. "
+          "Each has short Try it now checks with answers at its end. Prologue 7 is Maxwell as the many-photon alternative; "
+          "Prologue 8 names bras and kets and the Schrödinger equation; Prologue 9 reads S-parameters as ⟨f|S|i⟩ and "
+          "Feynman diagrams slowly enough for a first reading. Then Lesson 1 begins the algebra. Mead's view waits until after Lesson 41.")],
         None,
         bookmark="Part0",
         bid=2000,

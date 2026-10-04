@@ -279,24 +279,26 @@ This lesson did not define the path-integral measure rigorously. It treated Dq a
 
 @widths 720 9072
 | No | Problem |
-| 1 | Evaluate ∫dp/2π e^{ipΔ − iεp²/2m} and confirm the short-step prefactor √(m/2πiε). |
-| 2 | Show that e^{−iε(A+B)} = e^{−iεA}e^{−iεB} + O(ε²), and explain why the error vanishes as N → ∞. |
-| 3 | For a free particle, find the typical step size |q_{k+1} − q_k| in the sliced integral, and show that the paths are not differentiable. |
-| 4 | Find the classical action for a free particle from q_i to q_f in time T, and compare with the exponent of the kernel. |
-| 5 | A baseball of 0.15 kg is thrown for 0.5 s. Estimate the width of its band of contributing paths. |
-| 6 | Carry out the rotation t = −iτ for L = mq̇²/2 − V(q) and confirm iS = −S_E. |
-| 7 | A particle in a box of width L has E_n = n²π²/2mL². Which term dominates ⟨q|e^{−Hτ}|q⟩ for τ ≫ mL², and what is the decay rate? |
-| 8 | Verify that S_E for the oscillator modes is (mτ/4)Σ(n²π²/τ² + ω²)a_n², using ∫₀^τ sin²(nπt/τ)dt = τ/2. |
-| 9 | Using Section 4.1, compute ⟨x₁⁴⟩ and ⟨x₁²x₂²⟩ for a diagonal A. |
-| 10 | Show that the iε in D_F follows from adding iεφ²/2 to ℒ. |
-| 11 | For two Grassmann pairs, expand e^{−θ̄Aθ} and verify that the integral is det A = A₁₁A₂₂ − A₁₂A₂₁. |
-| 12 | Explain why a closed fermion loop carries a factor −1 relative to a boson loop, using det A = exp[Tr log A]. |
-| 13 | Show that K^{μν} = −k²g^{μν} + k^μk^ν annihilates k_ν, and explain the consequence for the photon integral. |
-| 14 | Verify that the gauge-fixed K and the stated D_{μν} satisfy K·D = iδ. |
-| 15 | In the zero-dimensional model, compute Z = ⟨e^{−λx⁴/24}⟩₀ to order λ², and identify the figure-eight's symmetry factor 1/8. |
-| 16 | Challenge: show that the off-diagonal Euclidean oscillator kernel has exponent −mω[(q_f² + q_i²)cosh ωτ − 2q_fq_i]/(2 sinh ωτ), and that for τ → ∞ it factors into ψ₀(q_f)ψ₀(q_i)e^{−ωτ/2}. |
+| 1 | **Core.** Evaluate ∫dp/2π e^{ipΔ − iεp²/2m} and confirm the short-step prefactor √(m/2πiε). |
+| 2 | **Extension.** Show that e^{−iε(A+B)} = e^{−iεA}e^{−iεB} + O(ε²), and explain why the error vanishes as N → ∞. |
+| 3 | **Core.** For a free particle, find the typical step size |q_{k+1} − q_k| in the sliced integral, and show that the paths are not differentiable. |
+| 4 | **Core.** Find the classical action for a free particle from q_i to q_f in time T, and compare with the exponent of the kernel. |
+| 5 | **Core.** A baseball of 0.15 kg is thrown for 0.5 s. Estimate the width of its band of contributing paths. |
+| 6 | **Extension.** Carry out the rotation t = −iτ for L = mq̇²/2 − V(q) and confirm iS = −S_E. |
+| 7 | **Core.** A particle in a box of width L has E_n = n²π²/2mL². Which term dominates ⟨q|e^{−Hτ}|q⟩ for τ ≫ mL², and what is the decay rate? |
+| 8 | **Core.** Verify that S_E for the oscillator modes is (mτ/4)Σ(n²π²/τ² + ω²)a_n², using ∫₀^τ sin²(nπt/τ)dt = τ/2. |
+| 9 | **Core.** Using Section 4.1, compute ⟨x₁⁴⟩ and ⟨x₁²x₂²⟩ for a diagonal A. |
+| 10 | **Core.** Show that the iε in D_F follows from adding iεφ²/2 to ℒ. |
+| 11 | **Extension.** For two Grassmann pairs, expand e^{−θ̄Aθ} and verify that the integral is det A = A₁₁A₂₂ − A₁₂A₂₁. |
+| 12 | **Extension.** Explain why a closed fermion loop carries a factor −1 relative to a boson loop, using det A = exp[Tr log A]. |
+| 13 | **Extension.** Show that K^{μν} = −k²g^{μν} + k^μk^ν annihilates k_ν, and explain the consequence for the photon integral. |
+| 14 | **Extension.** Verify that the gauge-fixed K and the stated D_{μν} satisfy K·D = iδ. |
+| 15 | **Extension.** In the zero-dimensional model, compute Z = ⟨e^{−λx⁴/24}⟩₀ to order λ², and identify the figure-eight's symmetry factor 1/8. |
+| 16 | **Challenge.** Show that the off-diagonal Euclidean oscillator kernel has exponent −mω[(q_f² + q_i²)cosh ωτ − 2q_fq_i]/(2 sinh ωτ), and that for τ → ∞ it factors into ψ₀(q_f)ψ₀(q_i)e^{−ωτ/2}. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Complete the square, −(iε/2m)(p − mΔ/ε)² + imΔ²/2ε. The Gaussian gives √(2πm/iε), and dividing by 2π leaves √(m/2πiε) e^{imΔ²/2ε}.
 
@@ -330,16 +332,6 @@ This lesson did not define the path-integral measure rigorously. It treated Dq a
 
 **16.** The classical Euclidean path is q_cl = [q_f sinh ωτ′ + q_i sinh ω(τ − τ′)]/sinh ωτ. Its action is a boundary term, (m/2)[q q̇] from 0 to τ, which evaluates to the stated exponent. As τ → ∞, cosh/sinh → 1 and 1/sinh → 0, so the exponent becomes −mω(q_f² + q_i²)/2. With the prefactor of Worked example 3, the kernel is (mω/π)^{1/2} e^{−mωq_f²/2} e^{−mωq_i²/2} e^{−ωτ/2}.
 
-# Mastery checklist
+# Mastery check
 
-- I can derive the path integral by time slicing, including the factor per slice.
-
-- I can explain the classical limit as stationary phase and estimate the band of contributing paths.
-
-- I can rotate to Euclidean time and extract a ground-state energy from a long-time decay.
-
-- I can evaluate real and Grassmann Gaussian integrals and state Wick's theorem as a Gaussian identity.
-
-- I can obtain the scalar, Dirac, and photon propagators as iK⁻¹, and explain the role of iε and of gauge fixing.
-
-- I can write an interacting correlator as a ratio of free averages and explain why vacuum bubbles cancel.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

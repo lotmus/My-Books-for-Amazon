@@ -32,6 +32,11 @@ Lesson 21 built a complete toolkit of gamma-matrix trace identities and previewe
 | Σ_(spins) | Sum over both the initial and final spin labels |
 | (1/2)Σ_(initial) | Spin average over an unmeasured initial fermion |
 
+BOX: First pass: the result before the derivation
+Spin sums turn |ūΓu|² into traces: Σuū = p̸ + m, Σvv̄ = p̸ − m, and the photon polarization sum can be replaced by −g_μν.
+This converts every unpolarized cross section into gamma-matrix traces (Lesson 21). High-risk topic: watch the signs.
+ENDBOX
+
 # 1 Why sum and why average
 
 ## 1.1 Unmeasured spins
@@ -77,6 +82,8 @@ For the QED vertex, Γ=γ^μ, and Γ̄=γ⁰(γ^μ)†γ⁰=γ^μ, using the gam
 ## 3.2 The building-block trace
 
 For two possibly different vertex indices μ, ν (as arise when an amplitude squared involves two copies of the same diagram contracted with different external polarization indices),
+
+IMG: L52_trace.png | 6.2 | Figure 52.1. How a spin sum becomes a trace: the amplitude times its conjugate, summed with Σuū = p̸ + m, closes into Tr[…].
 
 $$ Σ_(s,s′) [ ū_s′(p′)γ^μu_s(p) ] [ ū_s′(p′)γ^νu_s(p) ]* = Tr [ γ^μ (p̸+m) γ^ν (p̸′+m) ]
 
@@ -152,24 +159,26 @@ Lesson 53 now develops the kinematic language (Mandelstam variables) needed to e
 
 @widths 720 9072
 | No | Problem |
-| 1 | Explain, in your own words, the physical difference between an unmeasured final spin and an unprepared initial spin, and why this difference leads to summing in one case and averaging in the other. |
-| 2 | For a process with two unmeasured initial fermions and no measured final spins, state the overall spin-averaging-and-summing factor, generalizing Section 1.2. |
-| 3 | Derive Γ̄=γ⁰Γ†γ⁰ by conjugating ū(p′)Γu(p) explicitly, following every step of Section 2.1. |
-| 4 | Verify Γ̄=γ^μ for Γ=γ^μ using γ⁰(γ^μ)†γ⁰=γ^μ, and state which earlier lesson established this Hermiticity property. |
-| 5 | Compute Γ̄ for Γ=I (the identity matrix), and explain why the result is unsurprising. |
-| 6 | Write out Section 2.2's derivation with explicit spinor indices (a,b,c,d), showing how the two completeness relations collapse the double spin sum into a single trace. |
-| 7 | Explain, using Worked example 2, why the specific index-contraction pattern of Section 2.2 produces a trace and not, for instance, a product of two separate traces. |
-| 8 | State Lesson 21, Section 5's trace Tr[(p̸₁+m)γ^μ(p̸₂+m)γ^ν] and use trace cyclicity to match it to Section 3.2's Tr[γ^μ(p̸+m)γ^ν(p̸′+m)]. |
-| 9 | Using Worked example 3's explicit expansion, evaluate Section 3.2's trace for the specific case μ=ν (contracting the two vertex indices together, using g_μμ=4 for the trace of the metric with itself in four dimensions), and simplify the result. |
-| 10 | Explain why Worked example 4's argument shows the master formula applies to Compton scattering's full two-vertex amplitude (Lesson 50) without any new derivation. |
-| 11 | Restate the honest photon polarization sum Σ_λε_λ^iε_λ^j=δ^ij−k̂^ik̂^j from Lesson 38, and state which lesson first used it to build a propagator (rather than an external-line sum). |
-| 12 | State the covariant replacement Σε^με^ν→−g^μν, and explain, citing Lesson 48, Section 4.2, what specific k-dependent term is being dropped when this replacement is used in place of the honest sum. |
-| 13 | Explain, in one or two sentences, why the covariant replacement is described in this lesson as only "provisionally" justified, rather than proven. |
-| 14 | State which lesson (by number) supplies the missing proof referenced in Exercise 13, and name the identity it proves. |
-| 15 | Explain why a term in an amplitude proportional to k^μ (where k is a photon's momentum) is expected to vanish when contracted with the electron current at the vertex where that photon attaches, citing the specific earlier result this relies on. |
-| 16 | Challenge: using Section 4.1's factor of 1/2 for one unmeasured initial spin, and imagining a process with one unmeasured initial fermion, one unmeasured initial photon, and unmeasured final spins for both a final fermion and a final photon, write the complete spin-and-polarization-averaged-and-summed expression schematically, indicating which sums carry an averaging factor and which do not. |
+| 1 | **Extension.** Explain, in your own words, the physical difference between an unmeasured final spin and an unprepared initial spin, and why this difference leads to summing in one case and averaging in the other. |
+| 2 | **Core.** For a process with two unmeasured initial fermions and no measured final spins, state the overall spin-averaging-and-summing factor, generalizing Section 1.2. |
+| 3 | **Extension.** Derive Γ̄=γ⁰Γ†γ⁰ by conjugating ū(p′)Γu(p) explicitly, following every step of Section 2.1. |
+| 4 | **Core.** Verify Γ̄=γ^μ for Γ=γ^μ using γ⁰(γ^μ)†γ⁰=γ^μ, and state which earlier lesson established this Hermiticity property. |
+| 5 | **Core.** Compute Γ̄ for Γ=I (the identity matrix), and explain why the result is unsurprising. |
+| 6 | **Extension.** Write out Section 2.2's derivation with explicit spinor indices (a,b,c,d), showing how the two completeness relations collapse the double spin sum into a single trace. |
+| 7 | **Extension.** Explain, using Worked example 2, why the specific index-contraction pattern of Section 2.2 produces a trace and not, for instance, a product of two separate traces. |
+| 8 | **Core.** State Lesson 21, Section 5's trace Tr[(p̸₁+m)γ^μ(p̸₂+m)γ^ν] and use trace cyclicity to match it to Section 3.2's Tr[γ^μ(p̸+m)γ^ν(p̸′+m)]. |
+| 9 | **Core.** Using Worked example 3's explicit expansion, evaluate Section 3.2's trace for the specific case μ=ν (contracting the two vertex indices together, using g_μμ=4 for the trace of the metric with itself in four dimensions), and simplify the result. |
+| 10 | **Extension.** Explain why Worked example 4's argument shows the master formula applies to Compton scattering's full two-vertex amplitude (Lesson 50) without any new derivation. |
+| 11 | **Core.** Restate the honest photon polarization sum Σ_λε_λ^iε_λ^j=δ^ij−k̂^ik̂^j from Lesson 38, and state which lesson first used it to build a propagator (rather than an external-line sum). |
+| 12 | **Extension.** State the covariant replacement Σε^με^ν→−g^μν, and explain, citing Lesson 48, Section 4.2, what specific k-dependent term is being dropped when this replacement is used in place of the honest sum. |
+| 13 | **Extension.** Explain, in one or two sentences, why the covariant replacement is described in this lesson as only "provisionally" justified, rather than proven. |
+| 14 | **Core.** State which lesson (by number) supplies the missing proof referenced in Exercise 13, and name the identity it proves. |
+| 15 | **Core.** Explain why a term in an amplitude proportional to k^μ (where k is a photon's momentum) is expected to vanish when contracted with the electron current at the vertex where that photon attaches, citing the specific earlier result this relies on. |
+| 16 | **Challenge.** Using Section 4.1's factor of 1/2 for one unmeasured initial spin, and imagining a process with one unmeasured initial fermion, one unmeasured initial photon, and unmeasured final spins for both a final fermion and a final photon, write the complete spin-and-polarization-averaged-and-summed expression schematically, indicating which sums carry an averaging factor and which do not. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** An unmeasured final spin corresponds to several physically distinct, mutually exclusive final outcomes that a spin-blind detector cannot distinguish; since these are different possible results of the same experiment, their probabilities (each |ℳ|² for that specific outcome) are added, i.e. summed. An unprepared initial spin instead describes a single experimental setup in which the incoming particle is, with equal likelihood, in either spin state before the reaction even begins; this is a statistical mixture over the experiment's own preparation, correctly handled by averaging (equally weighting and dividing by the number of possibilities), not summing.
 

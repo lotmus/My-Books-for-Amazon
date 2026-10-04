@@ -213,24 +213,26 @@ The row that carries the most weight is the eighth. The failure of the Lagrangia
 
 @widths 720 9072
 | No | Problem |
-| 1 | Show that the Dirac Lagrangian density is invariant under the constant phase ψ → e^(−iqα)ψ, and that for a position-dependent α(x) it changes by δℒ = q(∂_μα)ψ̄γ^μψ to first order. |
-| 2 | For the complex scalar with Δφ = −iqφ, derive j^μ = iq(φ*∂^μφ − φ∂^μφ*) and compute its charge density for a positive-frequency and a negative-frequency plane wave. |
-| 3 | Show that under φ → e^(−iqα(x))φ the complex scalar Lagrangian density changes by δℒ = (∂_μα)j^μ to first order, using Lesson 26, Exercise 6, with the replacement α → −qα. |
-| 4 | With Q = q∫d³y ψ†ψ and the canonical anticommutators {ψ_a(x), ψ_b†(y)} = δ_(ab)δ³(x − y) and {ψ_a, ψ_b} = 0, show that [Q, ψ(x)] = −qψ(x) and that e^(iαQ)ψe^(−iαQ) = e^(−iqα)ψ. |
-| 5 | Derive (Q_f − Q_i − q_O)⟨f\|O\|i⟩ = 0 and use it to show that ψ̄γ^μψ connects only states of equal charge while ψ changes the charge by −q. |
-| 6 | Show that charge conjugation φ ↔ φ* leaves the complex scalar Lagrangian density invariant and reverses the sign of the current j^μ. |
-| 7 | For the electron and muon fields with independent phase symmetries, write the conserved charges N_e and N_μ and the electric charge, and show that μ⁻ → e⁻γ violates N_e and N_μ separately but conserves electric charge. |
-| 8 | A fermion ψ₁ with charge 0 and a fermion ψ₂ with charge −1 (in units of e) are coupled to a complex scalar φ by the term φψ̄₁ψ₂. Use the charge rule to find the charge of φ. |
-| 9 | Using the Hamiltonian form i∂_tψ = (−iα·∇ + βm)ψ and its Hermitian conjugate, show directly that ∂_t(ψ†ψ) + ∇·(ψ†αψ) = 0. |
-| 10 | With D_μ = ∂_μ + iqA_μ, show that under ψ → e^(−iqα(x))ψ and A_μ → A_μ + ∂_μα the derivative D_μψ transforms as e^(−iqα)D_μψ, and hence that ψ̄iγ^μD_μψ is invariant. Expand it to identify the interaction −qψ̄γ^μψA_μ. |
-| 11 | Explain in a short paragraph why a constant phase change of ψ has no observable consequence but a position-dependent phase change does. |
-| 12 | Explain why the photon has no U(1) charge in QED and why the free photon Lagrangian density −(1/4)F_μνF^(μν) implies that photons do not interact with each other at the level of the free theory. |
-| 13 | State whether γ → e⁻e⁺, γ → e⁻e⁻, and e⁻ → e⁻γ are allowed by charge conservation, and give the initial and final charges. |
-| 14 | Show that j^μ = qψ̄γ^μψ has mass dimension 3 in natural units and that Q is dimensionless. |
-| 15 | Explain why the U(1) symmetry of QED does not explain why the electron and proton have charges of equal magnitude, and state the size of the observed equality. |
-| 16 | Challenge: with the classical mode expansion φ = Σ_k(2ω_kV)^(−1/2)(a_k e^(−iω_kt+ik·x) + b_k*e^(iω_kt−ik·x)) of Lesson 25, Section 4.4, generalized to a complex field, show that Q = ∫d³x iq(φ*φ̇ − φφ̇*) equals qΣ_k(\|a_k\|² − \|b_k\|²). |
+| 1 | **Core.** Show that the Dirac Lagrangian density is invariant under the constant phase ψ → e^(−iqα)ψ, and that for a position-dependent α(x) it changes by δℒ = q(∂_μα)ψ̄γ^μψ to first order. |
+| 2 | **Core.** For the complex scalar with Δφ = −iqφ, derive j^μ = iq(φ*∂^μφ − φ∂^μφ*) and compute its charge density for a positive-frequency and a negative-frequency plane wave. |
+| 3 | **Core.** Show that under φ → e^(−iqα(x))φ the complex scalar Lagrangian density changes by δℒ = (∂_μα)j^μ to first order, using Lesson 26, Exercise 6, with the replacement α → −qα. |
+| 4 | **Extension.** With Q = q∫d³y ψ†ψ and the canonical anticommutators {ψ_a(x), ψ_b†(y)} = δ_(ab)δ³(x − y) and {ψ_a, ψ_b} = 0, show that [Q, ψ(x)] = −qψ(x) and that e^(iαQ)ψe^(−iαQ) = e^(−iqα)ψ. |
+| 5 | **Extension.** Derive (Q_f − Q_i − q_O)⟨f\|O\|i⟩ = 0 and use it to show that ψ̄γ^μψ connects only states of equal charge while ψ changes the charge by −q. |
+| 6 | **Core.** Show that charge conjugation φ ↔ φ* leaves the complex scalar Lagrangian density invariant and reverses the sign of the current j^μ. |
+| 7 | **Extension.** For the electron and muon fields with independent phase symmetries, write the conserved charges N_e and N_μ and the electric charge, and show that μ⁻ → e⁻γ violates N_e and N_μ separately but conserves electric charge. |
+| 8 | **Core.** A fermion ψ₁ with charge 0 and a fermion ψ₂ with charge −1 (in units of e) are coupled to a complex scalar φ by the term φψ̄₁ψ₂. Use the charge rule to find the charge of φ. |
+| 9 | **Core.** Using the Hamiltonian form i∂_tψ = (−iα·∇ + βm)ψ and its Hermitian conjugate, show directly that ∂_t(ψ†ψ) + ∇·(ψ†αψ) = 0. |
+| 10 | **Extension.** With D_μ = ∂_μ + iqA_μ, show that under ψ → e^(−iqα(x))ψ and A_μ → A_μ + ∂_μα the derivative D_μψ transforms as e^(−iqα)D_μψ, and hence that ψ̄iγ^μD_μψ is invariant. Expand it to identify the interaction −qψ̄γ^μψA_μ. |
+| 11 | **Extension.** Explain in a short paragraph why a constant phase change of ψ has no observable consequence but a position-dependent phase change does. |
+| 12 | **Extension.** Explain why the photon has no U(1) charge in QED and why the free photon Lagrangian density −(1/4)F_μνF^(μν) implies that photons do not interact with each other at the level of the free theory. |
+| 13 | **Core.** State whether γ → e⁻e⁺, γ → e⁻e⁻, and e⁻ → e⁻γ are allowed by charge conservation, and give the initial and final charges. |
+| 14 | **Core.** Show that j^μ = qψ̄γ^μψ has mass dimension 3 in natural units and that Q is dimensionless. |
+| 15 | **Extension.** Explain why the U(1) symmetry of QED does not explain why the electron and proton have charges of equal magnitude, and state the size of the observed equality. |
+| 16 | **Challenge.** With the classical mode expansion φ = Σ_k(2ω_kV)^(−1/2)(a_k e^(−iω_kt+ik·x) + b_k*e^(iω_kt−ik·x)) of Lesson 25, Section 4.4, generalized to a complex field, show that Q = ∫d³x iq(φ*φ̇ − φφ̇*) equals qΣ_k(\|a_k\|² − \|b_k\|²). |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** For constant α, ψ̄ψ → e^(iqα)e^(−iqα)ψ̄ψ = ψ̄ψ, and ψ̄iγ^μ∂_μψ → e^(iqα)e^(−iqα)ψ̄iγ^μ∂_μψ, so ℒ is invariant. For α(x), ∂_μ(e^(−iqα)ψ) = e^(−iqα)(∂_μψ − iq(∂_μα)ψ), so ψ̄iγ^μ∂_μψ → ψ̄iγ^μ∂_μψ + ψ̄iγ^μ(−iq∂_μαψ) = ψ̄iγ^μ∂_μψ + q(∂_μα)ψ̄γ^μψ. The mass term is unchanged, so δℒ = q(∂_μα)ψ̄γ^μψ.
 
@@ -264,20 +266,6 @@ The row that carries the most weight is the eighth. The failure of the Lagrangia
 
 **16.** Write φ = Σ_k(e^(ik·x)/√V)c_k(t) with c_k(t) = (2ω_k)^(−1/2)(a_ke^(−iω_kt) + b₋ₖ*e^(iω_kt)), obtained by collecting the terms with the same spatial dependence, since the b* term at −k has the same e^(ik·x) as the a term at k. Orthogonality of the e^(ik·x) gives Q = iqΣ_k(c_k*ċ_k − c_kċ_k*). With c_k* = (2ω)^(−1/2)(a_k*e^(iωt) + b₋ₖe^(−iωt)) and ċ_k = (2ω)^(−1/2)(−iωa_ke^(−iωt) + iωb₋ₖ*e^(iωt)), c_k*ċ_k = (i/2)(|b₋ₖ|² − |a_k|²) − Im(a_k*b₋ₖ*e^(2iωt)). The second term is real, so c_k*ċ_k − c_kċ_k* = 2i Im(c_k*ċ_k) = i(|b₋ₖ|² − |a_k|²). Then Q = iq Σ_k i(|b₋ₖ|² − |a_k|²) = qΣ_k(|a_k|² − |b₋ₖ|²), and relabeling k → −k in the b sum gives Q = qΣ_k(|a_k|² − |b_k|²).
 
-# Mastery checklist
+# Mastery check
 
-- I can write the phase transformation of the Dirac and complex scalar fields and show the Lagrangian densities are invariant.
-
-- I can compute the Noether current and charge of each field with the sign convention that gives particles positive charge.
-
-- I can show that the charge generates the symmetry and derive [Q, φ] = −qφ.
-
-- I can derive and apply the charge selection rule to an interaction operator.
-
-- I can identify the charges of particles and antiparticles from the signs of the charge density of positive- and negative-frequency modes.
-
-- I can explain why separate Dirac fields have separately conserved numbers and apply this to electron and muon number.
-
-- I can compute the change of the Dirac Lagrangian density under a local phase and identify it with (∂_μα)j^μ.
-
-- I can show how the field A_μ and the covariant derivative D_μ = ∂_μ + iqA_μ cancel this change.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

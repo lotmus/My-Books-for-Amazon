@@ -4,7 +4,7 @@ ROOT = _os.path.dirname(HERE)
 import sys
 from docx import Document
 
-path = _os.path.join(ROOT, "Complete QED Course.docx")
+path = _os.path.join(ROOT, "Quantum, Actually - Volume 2.docx")
 doc = Document(path)
 out = []
 for p in doc.paragraphs:

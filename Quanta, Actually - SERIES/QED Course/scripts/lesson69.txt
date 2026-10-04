@@ -37,12 +37,14 @@ Lesson 68 absorbed a divergence into a mass nobody measures. This lesson does th
 
 The metric is Lesson 4's diag(+1, −1, −1, −1), natural units ℏ = c = 1, and ln is the natural logarithm. In display equations, square brackets enclose function arguments and visible groupings.
 
+BOX: First pass: the result before the derivation
+Resumming vacuum-polarization insertions gives an effective coupling that grows logarithmically with momentum transfer: α_eff(Q²) ≈ α/[1 − (α/3π)ln(Q²/(e^(5/3)m²))] for one lepton at large Q².
+The charge depends on how closely you look (Prologue 6, Figure P6.3; Figure 69.1 here).
+ENDBOX
+
 # 1 Putting Π back into the photon line
 
-FIG:
-  ~~~~  +  ~~~~(Π)~~~~  +  ~~~~(Π)~~~~(Π)~~~~  +  ⋯   =  ~~~~ / (1−Π)
-  bare     one insertion     two insertions               resummed D′
-ENDFIG
+IMG: L69_dyson.png | 6.2 | Figure 69.1. Dyson resummation: the dressed photon propagator is the bare one plus any number of vacuum-polarization insertions, a geometric series.
 
 ## 1.1 The series
 
@@ -226,6 +228,8 @@ The same running is built into every precision test of the electroweak theory. P
 
 This lesson has quoted, not derived, the reduction of the loop's numerator to −8x(1−x)(q²g^μν − q^μq^ν), and the gauge-respecting regulator that makes it legitimate. It has quoted the hadronic contribution from data. It has kept only one-loop insertions, so the constant 5/3 and the leptonic Δα are accurate to about one part in 10³, not to the 10⁻⁵ level of modern determinations. It has used the denominator form of α(Q²) without proving that this resummation of logarithms is the right one. Lesson 70 supplies that proof, Lesson 72 supplies the Ward identity behind transversality, and Lesson 78 returns to the small-Q² limit as a precision correction.
 
+IMG: L69_running.png | 5.2 | Figure 69.2. The running of α. The effective coupling rises logarithmically with momentum transfer, from 1/137.036 at low Q to about 1/128 at the Z mass.
+
 # 10 Connections to QED
 
 @widths 3264 6528
@@ -257,24 +261,26 @@ This lesson has quoted, not derived, the reduction of the loop's numerator to �
 
 @widths 720 9072
 | No | Problem |
-| 1 | Write the zero-, one-, and two-insertion terms of the photon-propagator series, and show that each insertion's g_μν part multiplies the bare propagator by Π(q²). |
-| 2 | Sum the series of Exercise 1. What condition on Π is needed for the sum to converge, and why is it met at every accessible energy? |
-| 3 | Show that the q_μq_ν part of an insertion gives zero when the photon line ends on a conserved current j^ν with q_ν j^ν = 0. |
-| 4 | Combine x[(k−q)² − m²] + (1−x)[k² − m²] into (k − xq)² − Δ and verify Δ = m² − x(1−x)q². |
-| 5 | Using ∫₀¹ x(1−x)dx = 1/6, derive Π(0) = −(α/3π)[ln(Λ²/m²) + C] from Section 3.1. |
-| 6 | Show that both Λ and C cancel in Π̂(q²) = Π(q²) − Π(0), and derive Section 3.3's formula. |
-| 7 | Take Λ = 10¹⁹ GeV. Evaluate Π(0) with C = 0 and the ratio e₀/e. Is the bare charge much larger than the measured one? |
-| 8 | Derive the small-Q² limit Π̂ ≈ (α/15π)Q²/m², including the integral ∫₀¹ x²(1−x)²dx = 1/30. |
-| 9 | Evaluate ∫₀¹ x(1−x)ln x dx = −5/36. Use the symmetry x ↔ 1−x to obtain ∫₀¹ x(1−x)ln[x(1−x)]dx = −5/18, and derive the −5/3 of Section 4.2. |
-| 10 | Repeat Worked example 4 at Q = 1 GeV, electron loop only. |
-| 11 | Explain why the muon loop contributes almost nothing to α(Q²) at Q = 10 MeV, using Section 4.1, and estimate its contribution there. |
-| 12 | Explain, without the word "renormalization," why the effective charge is larger at short distance. |
-| 13 | Differentiate α(Q²) = α/[1 − (α/3π)ln(Q²/m²)] with respect to ln Q, and show Q dα/dQ = 2α(Q²)²/(3π). Then convert to β(e) = e³/(12π²). |
-| 14 | Derive Q_L = m exp[3π/(2α) + 5/6] and evaluate log₁₀(Q_L/m) for α = 1/137.036. |
-| 15 | At Q = 57.77 GeV, compute the three leptonic contributions and 1/α with leptons only. Then add Δα_had ≈ 0.025 and compare both results with TOPAZ's 128.5 ± 1.9. |
-| 16 | Challenge: explain why Δα_had must be taken from e⁺e⁻ → hadrons data rather than from Section 6.1's formula with quark masses, and why a purely leptonic running is nonetheless calculable to high precision. |
+| 1 | **Core.** Write the zero-, one-, and two-insertion terms of the photon-propagator series, and show that each insertion's g_μν part multiplies the bare propagator by Π(q²). |
+| 2 | **Core.** Sum the series of Exercise 1. What condition on Π is needed for the sum to converge, and why is it met at every accessible energy? |
+| 3 | **Core.** Show that the q_μq_ν part of an insertion gives zero when the photon line ends on a conserved current j^ν with q_ν j^ν = 0. |
+| 4 | **Extension.** Combine x[(k−q)² − m²] + (1−x)[k² − m²] into (k − xq)² − Δ and verify Δ = m² − x(1−x)q². |
+| 5 | **Core.** Using ∫₀¹ x(1−x)dx = 1/6, derive Π(0) = −(α/3π)[ln(Λ²/m²) + C] from Section 3.1. |
+| 6 | **Core.** Show that both Λ and C cancel in Π̂(q²) = Π(q²) − Π(0), and derive Section 3.3's formula. |
+| 7 | **Extension.** Take Λ = 10¹⁹ GeV. Evaluate Π(0) with C = 0 and the ratio e₀/e. Is the bare charge much larger than the measured one? |
+| 8 | **Extension.** Derive the small-Q² limit Π̂ ≈ (α/15π)Q²/m², including the integral ∫₀¹ x²(1−x)²dx = 1/30. |
+| 9 | **Extension.** Evaluate ∫₀¹ x(1−x)ln x dx = −5/36. Use the symmetry x ↔ 1−x to obtain ∫₀¹ x(1−x)ln[x(1−x)]dx = −5/18, and derive the −5/3 of Section 4.2. |
+| 10 | **Extension.** Repeat Worked example 4 at Q = 1 GeV, electron loop only. |
+| 11 | **Core.** Explain why the muon loop contributes almost nothing to α(Q²) at Q = 10 MeV, using Section 4.1, and estimate its contribution there. |
+| 12 | **Core.** Explain, without the word "renormalization," why the effective charge is larger at short distance. |
+| 13 | **Core.** Differentiate α(Q²) = α/[1 − (α/3π)ln(Q²/m²)] with respect to ln Q, and show Q dα/dQ = 2α(Q²)²/(3π). Then convert to β(e) = e³/(12π²). |
+| 14 | **Extension.** Derive Q_L = m exp[3π/(2α) + 5/6] and evaluate log₁₀(Q_L/m) for α = 1/137.036. |
+| 15 | **Extension.** At Q = 57.77 GeV, compute the three leptonic contributions and 1/α with leptons only. Then add Δα_had ≈ 0.025 and compare both results with TOPAZ's 128.5 ± 1.9. |
+| 16 | **Challenge.** Explain why Δα_had must be taken from e⁺e⁻ → hadrons data rather than from Section 6.1's formula with quark masses, and why a purely leptonic running is nonetheless calculable to high precision. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Zero insertions: D_μν = −ig_μν/q². One insertion: D(iΠ)D = −i(q²g_μν − q_μq_ν)Π/q⁴, whose g_μν part is (−ig_μν/q²)Π. Two insertions: D(iΠ)D(iΠ)D. The tensor (q²g − qq)/q² is a projector, so applying it twice gives it back, and the g_μν part is (−ig_μν/q²)Π².
 

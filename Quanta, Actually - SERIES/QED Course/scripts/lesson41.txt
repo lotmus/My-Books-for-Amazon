@@ -36,6 +36,11 @@ D_μ has appeared in this course as a tool: replace ∂_μ by D_μ, and local ph
 | φ* | Complex conjugate scalar field, carries charge −q |
 | j^μ = qψ̄γ^μψ | Noether current, Lesson 31 |
 
+BOX: First pass: the result before the derivation
+Covariant derivatives do not commute: [D_μ, D_ν] = ieF_μν. The field strength is the 'curvature' of the phase connection A_μ.
+E and B are what is left when you go round a small loop and compare phases: the bridge to Mead's view in the following Interlude.
+ENDBOX
+
 # 1 The generalized Leibniz rule
 
 ## 1.1 A product of two fields
@@ -172,24 +177,26 @@ Lesson 42 now has everything needed to write the complete QED Lagrangian: Lesson
 
 @widths 720 9072
 | No | Problem |
-| 1 | Verify D_μ(φ₁φ₂)=(D_μφ₁)φ₂+φ₁(D_μφ₂) by direct component computation for two complex scalar fields of charges q₁ and q₂, following Section 1.1's derivation without skipping any step. |
-| 2 | Specialize Exercise 1 to φ₁=φ₂=φ (charge q) and confirm Worked example 1's result D_μ(φ²)=2φD_μφ, stating explicitly which charge the left-hand D_μ uses. |
-| 3 | Show that (D_μφ)* ≠ D_μ(φ*) in general (i.e. conjugating does not commute naively with the same D_μ), and state the correct relation from Section 1.2. |
-| 4 | Using Section 1.2's result, show that (D_μφ)*D^μφ is real for any complex scalar φ, connecting to Lesson 39's requirement that the kinetic term be a sensible, real Lagrangian contribution. |
-| 5 | Verify that ψ̄=ψ†γ⁰ transforms with charge −q under the electron's gauge transformation, following Lesson 22, Section 2.1's computation but with a local, x-dependent phase α(x). |
-| 6 | Using the generalized Leibniz rule with charges q (for ψ) and −q (for ψ̄), show that D_μ(ψ̄ψ) reduces to the ordinary derivative ∂_μ(ψ̄ψ), with no A_μ term surviving, and explain why this must be true given that ψ̄ψ is a gauge singlet (Lesson 31, Exercise 3). |
-| 7 | Reproduce the full computation of Section 2.1, D_μD_νφ and D_νD_μφ, keeping every term explicit, and confirm the subtraction leaves only iqF_μνφ. |
-| 8 | Explain, citing Schwarz's theorem, why ∂_μ∂_νφ−∂_ν∂_μφ=0 is used in Section 2.1, and give one earlier lesson where the same fact was used for a similar cancellation. |
-| 9 | Identify precisely which property of A_μ (as opposed to a general matrix-valued field) makes A_μA_ν−A_νA_μ=0 in Section 2.1, and state what would go wrong if A_μ did not have this property. |
-| 10 | Using Worked example 2's method, find [D_μ,D_ν] acting on a field of charge 3q, and state the general pattern for a field of charge nq. |
-| 11 | Explain, referring to Section 3.1 and 3.2, why the gauge invariance of F_μν is a consequence of D_μ's covariance rather than a coincidence requiring separate verification. |
-| 12 | Redo the direct substitution check of Lesson 8, Section 4.1 (that F_μν is unchanged under A_μ→A_μ+∂_μα), and compare the reasoning used there with this lesson's commutator-based argument in Section 3.2, noting what each approach assumes. |
-| 13 | In your own words, using the connection language of Section 4.1, explain what physical ambiguity A_μ is resolving when it appears inside D_μ. |
-| 14 | State, in one or two sentences, why photons do not interact with each other at tree level in QED, tracing the explanation to Section 4.3's observation about A_μA_ν−A_νA_μ. |
-| 15 | Carry out the algebra of Section 5.2 in full: expand ℒ_sym=(i/2)[ψ̄γ^μD_μψ−(D_μψ̄)γ^μψ] using D_μψ and D_μψ̄, and show it equals ψ̄iγ^μD_μψ minus the total derivative (i/2)∂_μ(ψ̄γ^μψ). |
-| 16 | Challenge: show that the two terms of ℒ_sym, ψ̄γ^μD_μψ and −(D_μψ̄)γ^μψ, are Hermitian conjugates of each other up to the explicit factor of i, confirming Worked example 5's claim that ℒ_sym is manifestly real without invoking Lesson 22's bilinear-reality theorem. |
+| 1 | **Core.** Verify D_μ(φ₁φ₂)=(D_μφ₁)φ₂+φ₁(D_μφ₂) by direct component computation for two complex scalar fields of charges q₁ and q₂, following Section 1.1's derivation without skipping any step. |
+| 2 | **Core.** Specialize Exercise 1 to φ₁=φ₂=φ (charge q) and confirm Worked example 1's result D_μ(φ²)=2φD_μφ, stating explicitly which charge the left-hand D_μ uses. |
+| 3 | **Core.** Show that (D_μφ)* ≠ D_μ(φ*) in general (i.e. conjugating does not commute naively with the same D_μ), and state the correct relation from Section 1.2. |
+| 4 | **Extension.** Using Section 1.2's result, show that (D_μφ)*D^μφ is real for any complex scalar φ, connecting to Lesson 39's requirement that the kinetic term be a sensible, real Lagrangian contribution. |
+| 5 | **Core.** Verify that ψ̄=ψ†γ⁰ transforms with charge −q under the electron's gauge transformation, following Lesson 22, Section 2.1's computation but with a local, x-dependent phase α(x). |
+| 6 | **Extension.** Using the generalized Leibniz rule with charges q (for ψ) and −q (for ψ̄), show that D_μ(ψ̄ψ) reduces to the ordinary derivative ∂_μ(ψ̄ψ), with no A_μ term surviving, and explain why this must be true given that ψ̄ψ is a gauge singlet (Lesson 31, Exercise 3). |
+| 7 | **Core.** Reproduce the full computation of Section 2.1, D_μD_νφ and D_νD_μφ, keeping every term explicit, and confirm the subtraction leaves only iqF_μνφ. |
+| 8 | **Core.** Explain, citing Schwarz's theorem, why ∂_μ∂_νφ−∂_ν∂_μφ=0 is used in Section 2.1, and give one earlier lesson where the same fact was used for a similar cancellation. |
+| 9 | **Core.** Identify precisely which property of A_μ (as opposed to a general matrix-valued field) makes A_μA_ν−A_νA_μ=0 in Section 2.1, and state what would go wrong if A_μ did not have this property. |
+| 10 | **Core.** Using Worked example 2's method, find [D_μ,D_ν] acting on a field of charge 3q, and state the general pattern for a field of charge nq. |
+| 11 | **Extension.** Explain, referring to Section 3.1 and 3.2, why the gauge invariance of F_μν is a consequence of D_μ's covariance rather than a coincidence requiring separate verification. |
+| 12 | **Extension.** Redo the direct substitution check of Lesson 8, Section 4.1 (that F_μν is unchanged under A_μ→A_μ+∂_μα), and compare the reasoning used there with this lesson's commutator-based argument in Section 3.2, noting what each approach assumes. |
+| 13 | **Extension.** In your own words, using the connection language of Section 4.1, explain what physical ambiguity A_μ is resolving when it appears inside D_μ. |
+| 14 | **Extension.** State, in one or two sentences, why photons do not interact with each other at tree level in QED, tracing the explanation to Section 4.3's observation about A_μA_ν−A_νA_μ. |
+| 15 | **Extension.** Carry out the algebra of Section 5.2 in full: expand ℒ_sym=(i/2)[ψ̄γ^μD_μψ−(D_μψ̄)γ^μψ] using D_μψ and D_μψ̄, and show it equals ψ̄iγ^μD_μψ minus the total derivative (i/2)∂_μ(ψ̄γ^μψ). |
+| 16 | **Challenge.** Show that the two terms of ℒ_sym, ψ̄γ^μD_μψ and −(D_μψ̄)γ^μψ, are Hermitian conjugates of each other up to the explicit factor of i, confirming Worked example 5's claim that ℒ_sym is manifestly real without invoking Lesson 22's bilinear-reality theorem. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** D_μ(φ₁φ₂) is defined with charge q₁+q₂: D_μ(φ₁φ₂)=∂_μ(φ₁φ₂)+i(q₁+q₂)A_μφ₁φ₂ = φ₂∂_μφ₁+φ₁∂_μφ₂+iq₁A_μφ₁φ₂+iq₂A_μφ₁φ₂ (splitting the combined charge term). Grouping, this is [φ₂∂_μφ₁+iq₁A_μφ₁φ₂]+[φ₁∂_μφ₂+iq₂A_μφ₁φ₂] = φ₂(∂_μφ₁+iq₁A_μφ₁)+φ₁(∂_μφ₂+iq₂A_μφ₂) = φ₂(D_μφ₁)+φ₁(D_μφ₂), matching the claim.
 

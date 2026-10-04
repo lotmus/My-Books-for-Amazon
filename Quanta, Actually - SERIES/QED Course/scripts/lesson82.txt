@@ -232,24 +232,26 @@ It assumed that the relation between φ and J can be inverted, which holds in pe
 
 @widths 720 9072
 | No | Problem |
-| 1 | Derive δΓ/δφ = −J, showing which terms cancel. |
-| 2 | Compute Γ₀ for the free scalar and confirm Γ₀ = S₀. |
-| 3 | Do the Legendre transform for a single variable with W(j) = j²/2a, and find Γ(φ). |
-| 4 | Derive Γ⁽²⁾ = iG⁻¹ from δφ/δφ = 1. |
-| 5 | Using the chain G = D + D(−iΣ)D + ⋯, show that iG⁻¹ = K − Σ. |
-| 6 | For the electron, write the condition for the physical mass as a zero of Γ⁽²⁾, and connect it to Lesson 68, Section 3.1. |
-| 7 | Derive W⁽³⁾ = W⁽²⁾W⁽²⁾W⁽²⁾Γ⁽³⁾. |
-| 8 | Draw the trees that make up the connected four-point function in terms of Γ⁽³⁾, Γ⁽⁴⁾, and G. |
-| 9 | Show that a diagram with I internal lines and V vertices is proportional to ℏ^{L−1}. |
-| 10 | Explain why the shift from φ₀ to φ does not change Γ at order ℏ. |
-| 11 | Do the k₄ integral ∫dk₄/2π (k₄² + ω²)⁻¹ = 1/2ω by contour or by substitution. |
-| 12 | Show that det(p̸ − m) = (p² − m²)² for the 4×4 Dirac matrices, and explain the factor −4 in the fermion V₁. |
-| 13 | Compute E_c = m²c³/eℏ in V/m. |
-| 14 | Show that the Euler–Heisenberg ratio to Maxwell is (α/45π)(E/E_c)², and evaluate it at E = E_c. |
-| 15 | Why does the photon tadpole vanish in QED? |
-| 16 | Challenge: for V = λφ⁴/4!, write M² and the one-loop V_eff, and explain why its φ⁴ log φ² term cannot be absorbed into the original λ. |
+| 1 | **Extension.** Derive δΓ/δφ = −J, showing which terms cancel. |
+| 2 | **Core.** Compute Γ₀ for the free scalar and confirm Γ₀ = S₀. |
+| 3 | **Extension.** Do the Legendre transform for a single variable with W(j) = j²/2a, and find Γ(φ). |
+| 4 | **Extension.** Derive Γ⁽²⁾ = iG⁻¹ from δφ/δφ = 1. |
+| 5 | **Core.** Using the chain G = D + D(−iΣ)D + ⋯, show that iG⁻¹ = K − Σ. |
+| 6 | **Core.** For the electron, write the condition for the physical mass as a zero of Γ⁽²⁾, and connect it to Lesson 68, Section 3.1. |
+| 7 | **Extension.** Derive W⁽³⁾ = W⁽²⁾W⁽²⁾W⁽²⁾Γ⁽³⁾. |
+| 8 | **Core.** Draw the trees that make up the connected four-point function in terms of Γ⁽³⁾, Γ⁽⁴⁾, and G. |
+| 9 | **Core.** Show that a diagram with I internal lines and V vertices is proportional to ℏ^{L−1}. |
+| 10 | **Core.** Explain why the shift from φ₀ to φ does not change Γ at order ℏ. |
+| 11 | **Core.** Do the k₄ integral ∫dk₄/2π (k₄² + ω²)⁻¹ = 1/2ω by contour or by substitution. |
+| 12 | **Extension.** Show that det(p̸ − m) = (p² − m²)² for the 4×4 Dirac matrices, and explain the factor −4 in the fermion V₁. |
+| 13 | **Core.** Compute E_c = m²c³/eℏ in V/m. |
+| 14 | **Extension.** Show that the Euler–Heisenberg ratio to Maxwell is (α/45π)(E/E_c)², and evaluate it at E = E_c. |
+| 15 | **Extension.** Why does the photon tadpole vanish in QED? |
+| 16 | **Challenge.** For V = λφ⁴/4!, write M² and the one-loop V_eff, and explain why its φ⁴ log φ² term cannot be absorbed into the original λ. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** δΓ/δφ(x) = ∫(δW/δJ)(δJ/δφ) − J − ∫(δJ/δφ)φ. Since δW/δJ = φ, the first and third terms are equal and opposite.
 
@@ -283,16 +285,6 @@ It assumed that the relation between φ and J can be inverted, which holds in pe
 
 **16.** M² = λφ²/2. The one-loop term contains M⁴ log M² ∝ λ²φ⁴ log φ². A φ⁴ counterterm can absorb λ²φ⁴ times a constant, but not the log φ², which is a genuine prediction. It depends on the renormalization scale through log(φ²/μ²), and the renormalization group of Lesson 70 makes the total independent of μ.
 
-# Mastery checklist
+# Mastery check
 
-- I can define Γ as a Legendre transform and derive δΓ/δφ = −J.
-
-- I can show Γ = S for a free field and Γ⁽²⁾ = K − Σ with interactions.
-
-- I can explain why derivatives of Γ are 1PI vertices and why correlators are trees of them.
-
-- I can derive the one-loop effective action and interpret it as the zero-point energy of fluctuations.
-
-- I can write Γ[A] for QED and identify vacuum polarization and the Euler–Heisenberg term.
-
-- I can estimate the size of nonlinear vacuum effects in terms of E/E_c.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

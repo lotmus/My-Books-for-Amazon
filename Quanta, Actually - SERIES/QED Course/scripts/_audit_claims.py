@@ -6,7 +6,7 @@ ROOT = _os.path.dirname(HERE)
 from docx import Document
 from docx.oxml.ns import qn
 
-course = _os.path.join(ROOT, "Complete QED Course.docx")
+course = _os.path.join(ROOT, "Quantum, Actually - Volume 2.docx")
 review = _os.path.join(ROOT, "notes", "Critical Review of the QED Course.docx")
 out = []
 

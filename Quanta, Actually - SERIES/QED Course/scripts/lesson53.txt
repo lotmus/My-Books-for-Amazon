@@ -33,11 +33,18 @@ Every tool needed to compute a QED cross section now exists except one: a langua
 | θ | Center-of-momentum scattering angle |
 | p | Magnitude of the three-momentum in the center-of-momentum frame |
 
+BOX: First pass: the result before the derivation
+For 2 → 2 processes, s = (p₁ + p₂)², t = (p₁ − p₃)², u = (p₁ − p₄)², and s + t + u is the sum of the four squared masses; in the CM frame t and u are fixed by the energy and angle.
+Every result in Part VIII is written in s, t, u, which makes crossing between processes easy.
+ENDBOX
+
 # 1 The Mandelstam variables
 
 ## 1.1 Definitions
 
 For a 2→2 process p₁+p₂→p₃+p₄,
+
+IMG: L51_kinematics.png | 5.6 | Figure 53.1. Two-to-two kinematics and the Mandelstam variables s = (p₁ + p₂)², t = (p₁ − p₃)², u = (p₁ − p₄)².
 
 $$ s = (p₁+p₂)² = (p₃+p₄)² , qquad t = (p₁−p₃)² = (p₂−p₄)² , qquad u = (p₁−p₄)² = (p₂−p₃)²
 
@@ -140,6 +147,8 @@ Explain why this conversion is not merely a notational convenience but is necess
 
 Lesson 50 found two diagrams for Compton scattering e⁻(p)+γ(k)→e⁻(p′)+γ(k′), with internal momenta p+k (Section 2.3) and p−k′ (Section 3.1). Labeling this process as p₁=p, p₂=k, p₃=p′, p₄=k′ in Section 1.1's convention, s=(p₁+p₂)²=(p+k)² and u=(p₁−p₄)²=(p−k′)²: the direct diagram's internal line carries momentum-squared exactly s, and the crossed diagram's carries exactly u. This is the origin of the informal "s-channel" and "u-channel" names for the two diagrams: each internal line's invariant square is one of the Mandelstam variables. A third possibility, a "t-channel" diagram whose internal line would carry momentum-squared t=(p₁−p₃)²=(p−p′)², does not arise for Compton scattering at this order (there is no way to connect an internal photon line between the two electron legs while leaving one photon incoming and one outgoing at a single vertex each), but the same naming pattern reappears for other processes, including the photon-exchange diagram of Lesson 55's electron-electron scattering, whose internal line does carry momentum-squared t.
 
+IMG: L53_momentum.png | 5.6 | Figure 53.2. Momentum conservation at each vertex fixes every internal momentum of a tree diagram; the channel of the exchanged line names its s, t or u dependence.
+
 ### Worked example 5
 
 State, without full derivation, which Mandelstam variable is associated with each of Lesson 50's two Compton diagrams, and why. The direct diagram's internal momentum is q=p+k, and s=(p+k)² by definition (Section 1.1, with p₁=p, p₂=k), so its internal line carries momentum-squared exactly s: the s-channel diagram. The crossed diagram's internal momentum is p−k′, and u=(p−k′)² by definition (with p₄=k′), so its internal line carries momentum-squared exactly u: the u-channel diagram.
@@ -176,24 +185,26 @@ Lesson 54 now has every tool needed — the vertex (Lesson 45), the propagators 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Verify (p₁+p₂)²=(p₃+p₄)², (p₁−p₃)²=(p₂−p₄)², and (p₁−p₄)²=(p₂−p₃)² directly from momentum conservation p₁+p₂=p₃+p₄. |
-| 2 | Explain why s, t, and u are each Lorentz scalars, citing the general principle from Lesson 43 or Lesson 52 used to justify this. |
-| 3 | Expand (p₁+p₂)² fully in terms of p₁², p₂², and p₁·p₂, and identify which piece is m₁²+m₂². |
-| 4 | Expand (p₁−p₃)² and (p₁−p₄)² the same way, identifying the mass and dot-product pieces of each. |
-| 5 | Add the three expansions of Exercises 3–4, use momentum conservation to simplify the cross terms, and derive s+t+u=m₁²+m₂²+m₃²+m₄² in full. |
-| 6 | For elastic scattering (m₁=m₃, m₂=m₄), simplify the sum rule and confirm it matches Worked example 3's result. |
-| 7 | State why specifying s and t (with u determined by the sum rule) is enough to fully describe a 2→2 process's kinematics, given fixed particle masses. |
-| 8 | Write out p₁, p₂, p₃, p₄ explicitly in the center-of-momentum frame, as in Section 4.1, and verify p₁+p₂=p₃+p₄ component by component (using E₁=E₃, E₂=E₄ and the momentum magnitudes stated). |
-| 9 | Explain, using Section 4.2's argument, why the same equation determining the initial momentum magnitude p also determines the final momentum magnitude, forcing them to be equal for elastic scattering. |
-| 10 | Carry out the algebra of Section 4.3 in full, expanding [(psinθ)²+(p−pcosθ)²] and simplifying to −2p²(1−cosθ). |
-| 11 | Evaluate t at θ=0 and θ=π, and explain the physical meaning of each limit (forward and backward scattering). |
-| 12 | Derive the remaining five relations of Section 5.2's table (beyond p₁·p₂, already derived in Section 5.1), following the identical method for each. |
-| 13 | Using Section 5.2's table, express p₃·p₄ in terms of s and the relevant masses, and explain why this should give the same functional form as p₁·p₂ (referring to Section 1.1's s=(p₃+p₄)²). |
-| 14 | Redo Section 5.3's conversion for a general (not necessarily elastic) process, expressing 16m₁m₃−8p₁·p₃ in terms of t, m₁, and m₃. |
-| 15 | Explain, referring to Worked example 4, why a cross-section formula expressed in terms of t (rather than the individual four-vectors p and p′) can be directly compared to an experimental angular distribution. |
-| 16 | Challenge: for a 2→2 process at very high energy, where all masses can be neglected (m_i≈0) compared to √s, simplify the sum rule and the center-of-momentum expression for t, and state, in this limit, what value of t corresponds to θ=π/2 (right-angle scattering). |
+| 1 | **Core.** Verify (p₁+p₂)²=(p₃+p₄)², (p₁−p₃)²=(p₂−p₄)², and (p₁−p₄)²=(p₂−p₃)² directly from momentum conservation p₁+p₂=p₃+p₄. |
+| 2 | **Extension.** Explain why s, t, and u are each Lorentz scalars, citing the general principle from Lesson 43 or Lesson 52 used to justify this. |
+| 3 | **Core.** Expand (p₁+p₂)² fully in terms of p₁², p₂², and p₁·p₂, and identify which piece is m₁²+m₂². |
+| 4 | **Core.** Expand (p₁−p₃)² and (p₁−p₄)² the same way, identifying the mass and dot-product pieces of each. |
+| 5 | **Core.** Add the three expansions of Exercises 3–4, use momentum conservation to simplify the cross terms, and derive s+t+u=m₁²+m₂²+m₃²+m₄² in full. |
+| 6 | **Core.** For elastic scattering (m₁=m₃, m₂=m₄), simplify the sum rule and confirm it matches Worked example 3's result. |
+| 7 | **Extension.** State why specifying s and t (with u determined by the sum rule) is enough to fully describe a 2→2 process's kinematics, given fixed particle masses. |
+| 8 | **Core.** Write out p₁, p₂, p₃, p₄ explicitly in the center-of-momentum frame, as in Section 4.1, and verify p₁+p₂=p₃+p₄ component by component (using E₁=E₃, E₂=E₄ and the momentum magnitudes stated). |
+| 9 | **Extension.** Explain, using Section 4.2's argument, why the same equation determining the initial momentum magnitude p also determines the final momentum magnitude, forcing them to be equal for elastic scattering. |
+| 10 | **Extension.** Carry out the algebra of Section 4.3 in full, expanding [(psinθ)²+(p−pcosθ)²] and simplifying to −2p²(1−cosθ). |
+| 11 | **Core.** Evaluate t at θ=0 and θ=π, and explain the physical meaning of each limit (forward and backward scattering). |
+| 12 | **Extension.** Derive the remaining five relations of Section 5.2's table (beyond p₁·p₂, already derived in Section 5.1), following the identical method for each. |
+| 13 | **Extension.** Using Section 5.2's table, express p₃·p₄ in terms of s and the relevant masses, and explain why this should give the same functional form as p₁·p₂ (referring to Section 1.1's s=(p₃+p₄)²). |
+| 14 | **Core.** Redo Section 5.3's conversion for a general (not necessarily elastic) process, expressing 16m₁m₃−8p₁·p₃ in terms of t, m₁, and m₃. |
+| 15 | **Extension.** Explain, referring to Worked example 4, why a cross-section formula expressed in terms of t (rather than the individual four-vectors p and p′) can be directly compared to an experimental angular distribution. |
+| 16 | **Challenge.** For a 2→2 process at very high energy, where all masses can be neglected (m_i≈0) compared to √s, simplify the sum rule and the center-of-momentum expression for t, and state, in this limit, what value of t corresponds to θ=π/2 (right-angle scattering). |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** From p₁+p₂=p₃+p₄: squaring both sides directly gives (p₁+p₂)²=(p₃+p₄)². Rearranging to p₁−p₃=p₄−p₂, squaring gives (p₁−p₃)²=(p₄−p₂)²=(p₂−p₄)² (since squaring a four-vector is insensitive to its overall sign). Rearranging to p₁−p₄=p₃−p₂, squaring gives (p₁−p₄)²=(p₃−p₂)²=(p₂−p₃)².
 
@@ -227,16 +238,6 @@ Lesson 54 now has every tool needed — the vertex (Lesson 45), the propagators 
 
 **16.** With m_i≈0, the sum rule becomes s+t+u≈0, i.e. u≈−s−t. In the massless limit, E₁≈E₂≈p≈√s/2 (each particle carrying half the total energy, with E≈p since m≈0), so t≈−2p²(1−cosθ)≈−(s/2)(1−cosθ) (using p²≈s/4). At θ=π/2, cosθ=0, giving t≈−s/2, the momentum transfer at right-angle scattering in the massless, high-energy limit.
 
-# Mastery checklist
+# Mastery check
 
-- I can define s, t, u for a 2→2 process and state the sum rule s+t+u=Σm_i².
-
-- I can derive the sum rule directly from momentum conservation.
-
-- I can set up center-of-momentum kinematics and derive t=−2p²(1−cosθ) for elastic scattering.
-
-- I can explain the physical meaning of s and t, including why t≤0 for physical scattering.
-
-- I can derive and apply the six dot-product-to-Mandelstam-variable conversion relations.
-
-- I can convert a Lesson 52-style trace result into an explicit function of s and t.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

@@ -178,24 +178,26 @@ It used the fermionic coherent-state trace without deriving it. It quoted the pr
 
 @widths 720 9072
 | No | Problem |
-| 1 | Explain why the trace makes Euclidean paths periodic. |
-| 2 | Show that antiperiodicity ψ(β) = −ψ(0) requires ω_n = (2n + 1)πT. |
-| 3 | Verify Z_B = 1/(2 sinh(βω/2)) = Σ_k e^{−β(k + ½)ω}, and find the mean energy. |
-| 4 | Show that Z_F = 2cosh(βω/2) for H = ω(b†b − ½), and give the mean occupation ⟨b†b⟩. |
-| 5 | Derive T Σ_n(ω_n² + E²)⁻¹ = (1/2E)(1 + 2n_B), using coth(x/2) = 1 + 2/(e^x − 1). |
-| 6 | Derive the fermionic sum, and show that its thermal part has the opposite sign. |
-| 7 | What happens to a thermal correction involving electrons when T = m/20? |
-| 8 | Do the integral 2T∫d³k/(2π)³ log(1 − e^{−k/T}) and confirm −π²T⁴/45. |
-| 9 | From F/V = −π²T⁴/45, derive the entropy density and the energy density. |
-| 10 | Compute the CMB photon number density from 2ζ(3)T³/π², with ζ(3) = 1.202. |
-| 11 | Show that Σ(−1)^{j+1}/j⁴ = (7/8)ζ(4). |
-| 12 | Find g_* for photons plus e⁺e⁻ plus three species of neutrinos, counting one helicity per neutrino and one per antineutrino. |
-| 13 | Derive ∂²P/∂μ² = T²/3 for massless Dirac fermions from the stated P(T, μ). |
-| 14 | Evaluate the screening length at T = 1 GeV, and explain why the massless-electron formula applies there. |
-| 15 | Why does a plasma allow Π₀₀ ≠ 0 at k → 0, when the vacuum forbids a photon mass? |
-| 16 | Challenge: show that Σ_n 1/(n² + a²) = (π/a)coth(πa) by writing π cot(πz) as a sum over poles, and explain how this generates the Bose distribution. |
+| 1 | **Extension.** Explain why the trace makes Euclidean paths periodic. |
+| 2 | **Core.** Show that antiperiodicity ψ(β) = −ψ(0) requires ω_n = (2n + 1)πT. |
+| 3 | **Extension.** Verify Z_B = 1/(2 sinh(βω/2)) = Σ_k e^{−β(k + ½)ω}, and find the mean energy. |
+| 4 | **Core.** Show that Z_F = 2cosh(βω/2) for H = ω(b†b − ½), and give the mean occupation ⟨b†b⟩. |
+| 5 | **Extension.** Derive T Σ_n(ω_n² + E²)⁻¹ = (1/2E)(1 + 2n_B), using coth(x/2) = 1 + 2/(e^x − 1). |
+| 6 | **Extension.** Derive the fermionic sum, and show that its thermal part has the opposite sign. |
+| 7 | **Core.** What happens to a thermal correction involving electrons when T = m/20? |
+| 8 | **Core.** Do the integral 2T∫d³k/(2π)³ log(1 − e^{−k/T}) and confirm −π²T⁴/45. |
+| 9 | **Core.** From F/V = −π²T⁴/45, derive the entropy density and the energy density. |
+| 10 | **Core.** Compute the CMB photon number density from 2ζ(3)T³/π², with ζ(3) = 1.202. |
+| 11 | **Core.** Show that Σ(−1)^{j+1}/j⁴ = (7/8)ζ(4). |
+| 12 | **Core.** Find g_* for photons plus e⁺e⁻ plus three species of neutrinos, counting one helicity per neutrino and one per antineutrino. |
+| 13 | **Extension.** Derive ∂²P/∂μ² = T²/3 for massless Dirac fermions from the stated P(T, μ). |
+| 14 | **Extension.** Evaluate the screening length at T = 1 GeV, and explain why the massless-electron formula applies there. |
+| 15 | **Extension.** Why does a plasma allow Π₀₀ ≠ 0 at k → 0, when the vacuum forbids a photon mass? |
+| 16 | **Challenge.** Show that Σ_n 1/(n² + a²) = (π/a)coth(πa) by writing π cot(πz) as a sum over poles, and explain how this generates the Bose distribution. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Tr O = Σ⟨q|O|q⟩ uses the same state at both ends, so the path returns to its starting point after imaginary time β.
 
@@ -229,16 +231,6 @@ It used the fermionic coherent-state trace without deriving it. It quoted the pr
 
 **16.** π cot(πz) has simple poles at z = n with residue 1, so Σ_n 1/(n² + a²) equals the sum of residues of π cot(πz)/(z² + a²) at the integers. Closing the contour picks up minus the residues at z = ±ia, which give (π/a)coth(πa). Writing coth in exponentials produces 1 + 2/(e^{2πa} − 1), the Bose factor.
 
-# Mastery checklist
+# Mastery check
 
-- I can derive the thermal path integral and its boundary conditions.
-
-- I can obtain the oscillator partition functions from Matsubara products.
-
-- I can evaluate Matsubara sums and identify their vacuum and thermal parts.
-
-- I can derive the Stefan–Boltzmann law and evaluate it for the CMB.
-
-- I can derive the Debye mass and explain why it does not contradict the Ward identity.
-
-- I can say what a Euclidean calculation gives directly, and what needs real time.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

@@ -183,24 +183,26 @@ The exchange integral K of Section 4.2 deserves particular attention going forwa
 
 @widths 720 9072
 | No | Problem |
-| 1 | Show that any two-particle state can be written as a sum of a symmetric and an antisymmetric part, ψ(1,2) = (1/2)[ψ(1,2)+ψ(2,1)] + (1/2)[ψ(1,2)−ψ(2,1)], and identify which part survives for a boson and which for a fermion. |
-| 2 | Verify that ⟨ψ_S\|ψ_S⟩ = 1 and ⟨ψ_A\|ψ_A⟩ = 1 for the states of Section 2.2, assuming \|a⟩ and \|b⟩ are orthonormal single-particle states. |
-| 3 | Show that ⟨ψ_S\|ψ_A⟩ = 0, confirming the symmetric and antisymmetric two-particle subspaces are orthogonal. |
-| 4 | For three noninteracting identical fermions in the infinite well of Worked example 3, find the ground-state total energy, and compare with what three noninteracting distinguishable particles could achieve if unrestricted. |
-| 5 | Write the exclusion-principle argument of Section 3.1 explicitly for three fermions all attempting to occupy the same single-particle state, using the Slater determinant of Section 5.2 with three identical columns. |
-| 6 | For the exchange energy formula of Section 4.2, explain physically why J is always positive for a repulsive interaction V > 0, while the sign of K is not determined by the sign of V alone. |
-| 7 | Using Section 4.3, determine whether two electrons in different orbitals φₐ ≠ φᵦ favor the spin triplet or the spin singlet, given that the exchange integral K is typically positive for a repulsive Coulomb interaction (this is the physical basis of Hund's rule in atomic physics). |
-| 8 | Show that the Slater determinant of Section 5.2 vanishes identically if any two of the single-particle states φᵢ are equal, using the property that a determinant with two identical rows is zero. |
-| 9 | Confirm, by exchanging two columns of the N=3 Slater determinant explicitly, that the sign flips, verifying antisymmetry under pairwise exchange for three fermions. |
-| 10 | For two identical bosons in single-particle states \|a⟩ and \|b⟩ (a≠b), write ψ_S and compute the probability of finding "particle 1" in state \|a⟩ upon a measurement that can distinguish which single-particle state each particle occupies (interpreting the question operationally in terms of the symmetrized state's structure). |
-| 11 | Two identical bosons are placed in the same single-particle state \|a⟩. Write the properly normalized two-boson state and show it is consistent with (not forbidden by) the symmetrization postulate. |
-| 12 | Explain, using the algebra of Section 1.3 alone, why the exchange operator's eigenvalues could not have included values other than ±1, tracing the argument back to P̂₁₂² = I. |
-| 13 | For the helium ground state of Worked example 4, state which two-electron total spin (singlet or triplet) is realized, and explain why no first excited configuration with both electrons in the 1s orbital exists. |
-| 14 | A hypothetical particle with spin 1 is found experimentally to obey Fermi statistics. Explain, citing Section 6.1 and Section 6.2, why this would be considered a serious anomaly requiring new physics, rather than dismissed as merely surprising. |
-| 15 | Show that for two identical fermions with a spin-independent interaction V, the direct integral J is the same whether the two-particle spin state is a singlet or a triplet, using that J in Section 4.2 involves only the spatial wave functions. |
-| 16 | Challenge: for N noninteracting identical fermions each of mass m in a one-dimensional infinite well of length L, find the ground-state total energy as a function of N by filling the lowest N single-particle levels (Fermi statistics), and show that for large N it scales as N³, in contrast to the N¹ scaling that would hold if all particles could occupy the ground level (as bosons could). |
+| 1 | **Extension.** Show that any two-particle state can be written as a sum of a symmetric and an antisymmetric part, ψ(1,2) = (1/2)[ψ(1,2)+ψ(2,1)] + (1/2)[ψ(1,2)−ψ(2,1)], and identify which part survives for a boson and which for a fermion. |
+| 2 | **Core.** Verify that ⟨ψ_S\|ψ_S⟩ = 1 and ⟨ψ_A\|ψ_A⟩ = 1 for the states of Section 2.2, assuming \|a⟩ and \|b⟩ are orthonormal single-particle states. |
+| 3 | **Core.** Show that ⟨ψ_S\|ψ_A⟩ = 0, confirming the symmetric and antisymmetric two-particle subspaces are orthogonal. |
+| 4 | **Core.** For three noninteracting identical fermions in the infinite well of Worked example 3, find the ground-state total energy, and compare with what three noninteracting distinguishable particles could achieve if unrestricted. |
+| 5 | **Core.** Write the exclusion-principle argument of Section 3.1 explicitly for three fermions all attempting to occupy the same single-particle state, using the Slater determinant of Section 5.2 with three identical columns. |
+| 6 | **Extension.** For the exchange energy formula of Section 4.2, explain physically why J is always positive for a repulsive interaction V > 0, while the sign of K is not determined by the sign of V alone. |
+| 7 | **Core.** Using Section 4.3, determine whether two electrons in different orbitals φₐ ≠ φᵦ favor the spin triplet or the spin singlet, given that the exchange integral K is typically positive for a repulsive Coulomb interaction (this is the physical basis of Hund's rule in atomic physics). |
+| 8 | **Extension.** Show that the Slater determinant of Section 5.2 vanishes identically if any two of the single-particle states φᵢ are equal, using the property that a determinant with two identical rows is zero. |
+| 9 | **Core.** Confirm, by exchanging two columns of the N=3 Slater determinant explicitly, that the sign flips, verifying antisymmetry under pairwise exchange for three fermions. |
+| 10 | **Extension.** For two identical bosons in single-particle states \|a⟩ and \|b⟩ (a≠b), write ψ_S and compute the probability of finding "particle 1" in state \|a⟩ upon a measurement that can distinguish which single-particle state each particle occupies (interpreting the question operationally in terms of the symmetrized state's structure). |
+| 11 | **Core.** Two identical bosons are placed in the same single-particle state \|a⟩. Write the properly normalized two-boson state and show it is consistent with (not forbidden by) the symmetrization postulate. |
+| 12 | **Core.** Explain, using the algebra of Section 1.3 alone, why the exchange operator's eigenvalues could not have included values other than ±1, tracing the argument back to P̂₁₂² = I. |
+| 13 | **Extension.** For the helium ground state of Worked example 4, state which two-electron total spin (singlet or triplet) is realized, and explain why no first excited configuration with both electrons in the 1s orbital exists. |
+| 14 | **Extension.** A hypothetical particle with spin 1 is found experimentally to obey Fermi statistics. Explain, citing Section 6.1 and Section 6.2, why this would be considered a serious anomaly requiring new physics, rather than dismissed as merely surprising. |
+| 15 | **Extension.** Show that for two identical fermions with a spin-independent interaction V, the direct integral J is the same whether the two-particle spin state is a singlet or a triplet, using that J in Section 4.2 involves only the spatial wave functions. |
+| 16 | **Challenge.** For N noninteracting identical fermions each of mass m in a one-dimensional infinite well of length L, find the ground-state total energy as a function of N by filling the lowest N single-particle levels (Fermi statistics), and show that for large N it scales as N³, in contrast to the N¹ scaling that would hold if all particles could occupy the ground level (as bosons could). |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** ψ_sym = (1/2)[ψ(1,2)+ψ(2,1)] satisfies P̂₁₂ψ_sym = (1/2)[ψ(2,1)+ψ(1,2)] = ψ_sym (eigenvalue +1), and ψ_antisym = (1/2)[ψ(1,2)−ψ(2,1)] satisfies P̂₁₂ψ_antisym = (1/2)[ψ(2,1)−ψ(1,2)] = −ψ_antisym (eigenvalue −1); their sum is ψ(1,2), confirming the decomposition. Only ψ_sym is physically realized for bosons and only ψ_antisym for fermions; the other component of a generic ψ is simply discarded as unphysical for identical particles.
 
@@ -234,20 +236,6 @@ The exchange integral K of Section 4.2 deserves particular attention going forwa
 
 **16.** Filling levels n=1 through n=N, the total energy is Σₙ₌₁^N n²π²ℏ²/(2mL²) = [N(N+1)(2N+1)/6]π²ℏ²/(2mL²), using the standard sum of squares. For large N this is approximately (π²ℏ²/2mL²)(N³/3), scaling as N³, dramatically steeper than the N¹ scaling (Nπ²ℏ²/2mL², all particles in the ground level) that unrestricted bosons could achieve; this N³ scaling is the one-dimensional toy model underlying the far more physically significant degeneracy pressure of a three-dimensional electron gas.
 
-# Mastery checklist
+# Mastery check
 
-- I can define the exchange operator, show P̂₁₂²=I, and state why its eigenvalues must be ±1.
-
-- I can state the symmetrization postulate and construct the symmetric and antisymmetric two-particle states from two single-particle states.
-
-- I can derive the Pauli exclusion principle directly from the vanishing of the antisymmetrized state when both particles share a state.
-
-- I can distinguish the direct and exchange integrals in a two-particle energy calculation and explain the physical origin of each.
-
-- I can explain how spatial and spin symmetry combine to keep the overall fermionic wave function antisymmetric, and derive a simple consequence such as Hund's rule.
-
-- I can write a Slater determinant for N fermions and explain why it enforces antisymmetry and exclusion automatically.
-
-- I can state the spin-statistics connection as an empirical rule and explain, at least in outline, where it is actually proved.
-
-- I can explain, in a sentence, why this lesson's ad hoc antisymmetrization becomes an automatic consequence of anticommutation relations once fields are quantized.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

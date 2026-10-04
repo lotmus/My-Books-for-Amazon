@@ -32,6 +32,11 @@ Three diagrams, three separate counting exercises, three different answers: Λ²
 | E_e, E_γ | Number of external electron lines, external photon lines |
 | V, I, L | Vertices, internal lines, and independent loop momenta, as in Lesson 62 |
 
+BOX: First pass: the result before the derivation
+Power counting gives the superficial degree D = 4 − (3/2)E_e − E_γ, so only diagrams with a few external legs can diverge.
+A finite list of divergences means a finite list of measured inputs can absorb them all: QED is renormalizable.
+ENDBOX
+
 # 1 Three answers, one question
 
 Lesson 63 found vacuum polarization's integral growing like Λ². Lesson 64 found electron self-energy growing like Λ. Lesson 65 found the vertex correction growing only like ln Λ. Each of these numbers came from the same kind of exercise: find how the numerator grows at large loop momentum, find how the denominator grows, subtract, and see what power of k survives after the four-dimensional measure is folded in. Doing that exercise from scratch for the fourth, fifth, or fiftieth diagram in QED would work, but it would also mean re-deriving the same reasoning over and over. This lesson asks whether the reasoning itself, not just its three outputs, can be written down once.
@@ -96,6 +101,8 @@ $$ V = 2 P_γ + E_γ
 
 Solving Section 4.2's two relations, P_e=V−E_e/2 and P_γ=(V−E_γ)/2. Lesson 62, Section 4.1, gives L=P_e+P_γ−V+1 (writing I=P_e+P_γ for the total internal lines); substituting,
 
+IMG: L66_powercount.png | 6.0 | Figure 66.1. Power counting from external lines alone. Only a handful of amplitudes have D ≥ 0; symmetry softens their actual divergences to logarithms.
+
 $$ L = (V−E_e/2) + (V−E_γ)/2 − V + 1 = V/2 − E_e/2 − E_γ/2 + 1
 
 Substituting this, together with Section 4.2's expressions for P_e and P_γ, into Section 2.3's D=4L−2P_γ−P_e (Exercise 10 carries out every term of this substitution),
@@ -156,24 +163,26 @@ Explain briefly why the fourth row of Section 5.1's table, photon-photon scatter
 
 @widths 720 9072
 | No | Problem |
-| 1 | State, from memory, the degree of divergence found for each of Lessons 63, 64, and 64, and the pattern connecting the three numbers. |
-| 2 | Explain why a photon propagator contributes −2 to D while an electron propagator contributes only −1, referring to how each one's numerator behaves at large k. |
-| 3 | Verify D=4L−2P_γ−P_e for vacuum polarization by substituting L=1, P_γ=0, P_e=2. |
-| 4 | Verify the same formula for electron self-energy, using L=1, P_γ=1, P_e=1. |
-| 5 | Verify the same formula for the vertex correction, using L=1, P_γ=1, P_e=2. |
-| 6 | Explain why passing all three checks of Exercises 3–5 is meaningful evidence for Section 2.3's formula, rather than a foregone conclusion. |
-| 7 | State how many fermion-line-ends and photon-line-ends a single QED vertex supplies, and explain why this number is fixed, referring to the specific fields appearing in the interaction term ψ̄γ^μψA_μ. |
-| 8 | Derive 2V=2P_e+E_e by counting fermion-line-ends two different ways, following Section 4.2. |
-| 9 | Derive V=2P_γ+E_γ by the identical method applied to photon-line-ends. |
-| 10 | Substitute Exercise 8 and Exercise 9's results, together with Lesson 62's L=I−V+1, into D=4L−2P_γ−P_e, and carry out the algebra step by step to derive D=4−(3/2)E_e−E_γ. |
-| 11 | Verify Section 4.3's formula against electron self-energy directly, using its external legs, E_e=2, E_γ=0. |
-| 12 | Verify Section 4.3's formula against the vertex correction directly, using E_e=2, E_γ=1. |
-| 13 | Explain why E_e must always be even in a QED diagram, referring to Lesson 49's fermion-flow arrows. |
-| 14 | List every combination of E_e and E_γ (with E_e even) giving D≥0, and confirm Section 5.1's table is complete. |
-| 15 | Explain, in one or two sentences, why a diagram with D<0 is not a source of concern for this course's purposes, even though its integral still needs to be evaluated eventually. |
-| 16 | Challenge: using D=4−(3/2)E_e−E_γ, determine the degree of divergence for a diagram with E_e=4 and E_γ=0 (four external electron legs, no external photons, such as a loop correction to electron-electron scattering), and state whether this diagram is expected to diverge. |
+| 1 | **Core.** State, from memory, the degree of divergence found for each of Lessons 63, 64, and 64, and the pattern connecting the three numbers. |
+| 2 | **Extension.** Explain why a photon propagator contributes −2 to D while an electron propagator contributes only −1, referring to how each one's numerator behaves at large k. |
+| 3 | **Core.** Verify D=4L−2P_γ−P_e for vacuum polarization by substituting L=1, P_γ=0, P_e=2. |
+| 4 | **Core.** Verify the same formula for electron self-energy, using L=1, P_γ=1, P_e=1. |
+| 5 | **Core.** Verify the same formula for the vertex correction, using L=1, P_γ=1, P_e=2. |
+| 6 | **Extension.** Explain why passing all three checks of Exercises 3–5 is meaningful evidence for Section 2.3's formula, rather than a foregone conclusion. |
+| 7 | **Core.** State how many fermion-line-ends and photon-line-ends a single QED vertex supplies, and explain why this number is fixed, referring to the specific fields appearing in the interaction term ψ̄γ^μψA_μ. |
+| 8 | **Extension.** Derive 2V=2P_e+E_e by counting fermion-line-ends two different ways, following Section 4.2. |
+| 9 | **Extension.** Derive V=2P_γ+E_γ by the identical method applied to photon-line-ends. |
+| 10 | **Extension.** Substitute Exercise 8 and Exercise 9's results, together with Lesson 62's L=I−V+1, into D=4L−2P_γ−P_e, and carry out the algebra step by step to derive D=4−(3/2)E_e−E_γ. |
+| 11 | **Core.** Verify Section 4.3's formula against electron self-energy directly, using its external legs, E_e=2, E_γ=0. |
+| 12 | **Core.** Verify Section 4.3's formula against the vertex correction directly, using E_e=2, E_γ=1. |
+| 13 | **Extension.** Explain why E_e must always be even in a QED diagram, referring to Lesson 49's fermion-flow arrows. |
+| 14 | **Extension.** List every combination of E_e and E_γ (with E_e even) giving D≥0, and confirm Section 5.1's table is complete. |
+| 15 | **Core.** Explain, in one or two sentences, why a diagram with D<0 is not a source of concern for this course's purposes, even though its integral still needs to be evaluated eventually. |
+| 16 | **Challenge.** Using D=4−(3/2)E_e−E_γ, determine the degree of divergence for a diagram with E_e=4 and E_γ=0 (four external electron legs, no external photons, such as a loop correction to electron-electron scattering), and state whether this diagram is expected to diverge. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Vacuum polarization: D=2. Electron self-energy: D=1. Vertex correction: D=0. Each is exactly one less than the diagram before it, 2 then 1 then 0.
 

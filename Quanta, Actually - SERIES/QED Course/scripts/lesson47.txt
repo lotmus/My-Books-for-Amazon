@@ -33,9 +33,16 @@ Lesson 46 built the scalar Feynman propagator by time-ordering the two-point fun
 | S_F(p) | Momentum-space electron propagator, i(p̸+m)/(p²−m²+iε) |
 | Σ_su_s(p)ū_s(p)=p̸+m | Spin-sum completeness relation, established convention |
 
+BOX: First pass: the result before the derivation
+The electron propagator is S_F(p) = i(p̸ + m)/(p² − m² + iε), obtained as (i∂̸ + m) acting on the scalar propagator, with a minus sign in fermionic time ordering.
+Its numerator p̸ + m is the spin sum Σuū, which is why internal electron lines carry every spin state.
+ENDBOX
+
 # 1 Time-ordering the Dirac field
 
 ## 1.1 The fermionic minus sign
+
+IMG: L47_electron.png | 4.2 | Figure 47.1. The electron propagator i(p̸ + m)/(p² − m² + iε): a solid line with an arrow that follows the flow of negative charge.
 
 Lesson 37, Section 6.2, established that every reordering of fermionic operators carries a sign, and Lesson 46, Exercise 16, anticipated the consequence for time-ordering: because :ψ̄(y)ψ(x):=−:ψ(x)ψ̄(y): (Lesson 37, Section 5.2), building a time-ordered product from the two orderings of a fermion bilinear must include a relative minus sign, not the plain sum used for the bosonic field in Lesson 46. The definition is fixed accordingly:
 
@@ -171,24 +178,26 @@ Lesson 48 repeats this two-lesson strategy a third time for the photon, though g
 
 @widths 720 9072
 | No | Problem |
-| 1 | State the fermionic time-ordering rule of Section 1.1 and explain, citing Lesson 37, Section 6.2, why a minus sign (not a plus sign, as for the bosonic case of Lesson 46) is required. |
-| 2 | Substitute Lesson 37, Section 5.2's ⟨0\|ψ̄(y)ψ(x)\|0⟩=−(i∂̸_x+m)D(y−x) into the definition of S_F(x−y) and derive Section 1.2's result S_F(x−y)=θ(x⁰−y⁰)S(x−y)+θ(y⁰−x⁰)(i∂̸_x+m)D(y−x). |
-| 3 | Differentiate θ(x⁰−y⁰)D(x−y) with ∂̸_x=γ⁰∂_t+γ^i∂_i, separating the time and spatial pieces, and show the delta-function term is γ⁰δ(τ)D(x−y). |
-| 4 | Do the same for θ(y⁰−x⁰)D(y−x) and show its delta-function term is −γ⁰δ(τ)D(y−x). |
-| 5 | Combine Exercises 3 and 4, use D(x−y)=D(y−x) at equal times (Lesson 33, Worked example 4), and show the two delta-function terms cancel exactly. |
-| 6 | Using Exercise 5, conclude ∂̸_xΔ_F(x−y)=θ(τ)∂̸_xD(x−y)+θ(−τ)∂̸_xD(y−x), with no extra delta-function term surviving. |
-| 7 | Multiply Exercise 6 by i, add mΔ_F, and use S(x−y)=(i∂̸_x+m)D(x−y) (Lesson 37, Section 5.1) to derive S_F(x−y)=(i∂̸_x+m)Δ_F(x−y). |
-| 8 | Using (i∂̸−m)(i∂̸+m)=−□−m² (Lesson 37, Worked example 5) and Lesson 46's (□+m²)Δ_F=−iδ⁴(x−y), derive (i∂̸_x−m)S_F(x−y)=iδ⁴(x−y). |
-| 9 | Explain, paralleling Lesson 46, Worked example 1, why S(x−y) alone cannot serve as a Green's function of the Dirac operator, referring to what equation it satisfies instead (Lesson 37, Worked example 5). |
-| 10 | Verify i∂_μe^(−ipx)=p_μe^(−ipx) directly, and use it to derive i∂̸_xe^(−ip(x−y))=p̸e^(−ip(x−y)). |
-| 11 | Substitute Exercise 10's result into (i∂̸_x+m)Δ_F(x−y)'s momentum integral to derive S_F(x−y)=∫d⁴p/(2π)⁴ i(p̸+m)/(p²−m²+iε) e^(−ip(x−y)), confirming Lesson 37's preview of S_F(p). |
-| 12 | Verify (p̸−m)(p̸+m)=p²−m² using p̸p̸=p² (Lesson 21), and use this to confirm (p̸−m)S_F(p)→i as ε→0⁺, matching Section 3.1's position-space Green's function property under the Fourier transform. |
-| 13 | Using p²−m²=(p⁰−E_p)(p⁰+E_p), show that near p⁰≈E_p, S_F(p)≈i(p̸+m)/(2E_p(p⁰−E_p+iε′)), identifying the coefficient of the simple pole. |
-| 14 | Using the completeness relation Σ_su_s(p)ū_s(p)=p̸+m, state what Exercise 13's residue equals when p is on shell (p⁰=E_p). |
-| 15 | Explain, in one or two sentences, why an internal electron line's propagator must implicitly sum over spin states, unlike an external line, which carries one definite spinor u_s(p) or ū_s(p′). |
-| 16 | Challenge: predict, by analogy with this lesson's strategy (apply a first-order differential operator to Δ_F), what general approach Lesson 48 might use to build the photon propagator from the Coulomb-gauge field of Lesson 38, and state one reason you would expect that construction to require an extra step not needed here, referring to the gauge conditions A⁰=0, ∇·A=0 already imposed in Lesson 38. |
+| 1 | **Extension.** State the fermionic time-ordering rule of Section 1.1 and explain, citing Lesson 37, Section 6.2, why a minus sign (not a plus sign, as for the bosonic case of Lesson 46) is required. |
+| 2 | **Core.** Substitute Lesson 37, Section 5.2's ⟨0\|ψ̄(y)ψ(x)\|0⟩=−(i∂̸_x+m)D(y−x) into the definition of S_F(x−y) and derive Section 1.2's result S_F(x−y)=θ(x⁰−y⁰)S(x−y)+θ(y⁰−x⁰)(i∂̸_x+m)D(y−x). |
+| 3 | **Core.** Differentiate θ(x⁰−y⁰)D(x−y) with ∂̸_x=γ⁰∂_t+γ^i∂_i, separating the time and spatial pieces, and show the delta-function term is γ⁰δ(τ)D(x−y). |
+| 4 | **Core.** Do the same for θ(y⁰−x⁰)D(y−x) and show its delta-function term is −γ⁰δ(τ)D(y−x). |
+| 5 | **Extension.** Combine Exercises 3 and 4, use D(x−y)=D(y−x) at equal times (Lesson 33, Worked example 4), and show the two delta-function terms cancel exactly. |
+| 6 | **Core.** Using Exercise 5, conclude ∂̸_xΔ_F(x−y)=θ(τ)∂̸_xD(x−y)+θ(−τ)∂̸_xD(y−x), with no extra delta-function term surviving. |
+| 7 | **Extension.** Multiply Exercise 6 by i, add mΔ_F, and use S(x−y)=(i∂̸_x+m)D(x−y) (Lesson 37, Section 5.1) to derive S_F(x−y)=(i∂̸_x+m)Δ_F(x−y). |
+| 8 | **Core.** Using (i∂̸−m)(i∂̸+m)=−□−m² (Lesson 37, Worked example 5) and Lesson 46's (□+m²)Δ_F=−iδ⁴(x−y), derive (i∂̸_x−m)S_F(x−y)=iδ⁴(x−y). |
+| 9 | **Core.** Explain, paralleling Lesson 46, Worked example 1, why S(x−y) alone cannot serve as a Green's function of the Dirac operator, referring to what equation it satisfies instead (Lesson 37, Worked example 5). |
+| 10 | **Core.** Verify i∂_μe^(−ipx)=p_μe^(−ipx) directly, and use it to derive i∂̸_xe^(−ip(x−y))=p̸e^(−ip(x−y)). |
+| 11 | **Extension.** Substitute Exercise 10's result into (i∂̸_x+m)Δ_F(x−y)'s momentum integral to derive S_F(x−y)=∫d⁴p/(2π)⁴ i(p̸+m)/(p²−m²+iε) e^(−ip(x−y)), confirming Lesson 37's preview of S_F(p). |
+| 12 | **Extension.** Verify (p̸−m)(p̸+m)=p²−m² using p̸p̸=p² (Lesson 21), and use this to confirm (p̸−m)S_F(p)→i as ε→0⁺, matching Section 3.1's position-space Green's function property under the Fourier transform. |
+| 13 | **Extension.** Using p²−m²=(p⁰−E_p)(p⁰+E_p), show that near p⁰≈E_p, S_F(p)≈i(p̸+m)/(2E_p(p⁰−E_p+iε′)), identifying the coefficient of the simple pole. |
+| 14 | **Core.** Using the completeness relation Σ_su_s(p)ū_s(p)=p̸+m, state what Exercise 13's residue equals when p is on shell (p⁰=E_p). |
+| 15 | **Extension.** Explain, in one or two sentences, why an internal electron line's propagator must implicitly sum over spin states, unlike an external line, which carries one definite spinor u_s(p) or ū_s(p′). |
+| 16 | **Challenge.** Predict, by analogy with this lesson's strategy (apply a first-order differential operator to Δ_F), what general approach Lesson 48 might use to build the photon propagator from the Coulomb-gauge field of Lesson 38, and state one reason you would expect that construction to require an extra step not needed here, referring to the gauge conditions A⁰=0, ∇·A=0 already imposed in Lesson 38. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** T{ψ(x)ψ̄(y)}=θ(x⁰−y⁰)ψ(x)ψ̄(y)−θ(y⁰−x⁰)ψ̄(y)ψ(x). Lesson 37, Section 6.2, established that every fermionic reordering carries a factor (−1)^P, with P the number of transpositions needed; swapping the order of ψ(x) and ψ̄(y) is a single transposition, so the term with the reversed ordering must carry an extra minus sign relative to the un-reversed term, exactly as written, in contrast with Lesson 46's bosonic definition, where no such sign appears because bosonic operators commute past each other freely.
 
@@ -222,16 +231,6 @@ Lesson 48 repeats this two-lesson strategy a third time for the photon, though g
 
 **16.** By analogy, Lesson 48 will likely define a time-ordered photon two-point function ⟨0|T{A^i(x)A^j(y)}|0⟩ built from the mode expansion of Lesson 38 and derive a Green's function equation for it, paralleling Sections 2–4 of this lesson. One expected complication is that Lesson 38's Coulomb-gauge conditions A⁰=0 and ∇·A=0 make the photon field manifestly non-covariant (only two of its four would-be components are independent, and the gauge choice itself is not preserved under a general Lorentz boost), so building a propagator that both matches this specific gauge's mode expansion and can be used consistently in covariant, Lorentz-invariant diagram calculations is expected to require additional care beyond the direct differential-operator method that sufficed for the scalar and Dirac cases, which had no analogous gauge redundancy to contend with.
 
-# Mastery checklist
+# Mastery check
 
-- I can state the fermionic time-ordering rule and explain the origin of its minus sign.
-
-- I can show that differentiating Δ_F with ∂̸_x produces no extra delta-function term, using D(x−y)=D(y−x) at equal times.
-
-- I can derive S_F(x−y)=(i∂̸_x+m)Δ_F(x−y) and (i∂̸_x−m)S_F(x−y)=iδ⁴(x−y).
-
-- I can derive the momentum-space form S_F(p)=i(p̸+m)/(p²−m²+iε) from Δ_F's momentum integral.
-
-- I can identify the residue of S_F(p) at its pole with the spin-sum completeness relation.
-
-- I can explain why an internal electron line's propagator must implicitly sum over spin states.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

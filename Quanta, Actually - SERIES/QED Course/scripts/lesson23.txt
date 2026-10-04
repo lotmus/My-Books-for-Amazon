@@ -39,6 +39,11 @@ This lesson is conceptually pivotal. Every negative-energy plane wave from here 
 | Dirac sea | The (in hole theory) fully occupied set of negative-energy states |
 | b†, d† | Creation operators for particle and antiparticle, previewed here and constructed in Lesson 36 |
 
+BOX: First pass: the result before the derivation
+Negative-energy solutions are reinterpreted as positive-energy antiparticles travelling forward in time: the positron.
+This is Prologue 5's 'electron running backwards in time' made exact; it is why one diagram describes pair creation, annihilation and scattering.
+ENDBOX
+
 # 1 The problem, restated precisely
 
 ## 1.1 Why a first-order equation did not fix it
@@ -171,24 +176,26 @@ The reinterpretation completed in this lesson is what makes it possible, startin
 
 @widths 720 9072
 | No | Problem |
-| 1 | Explain, in your own words, why the exclusion principle is essential to hole theory's resolution of the negative-energy catastrophe, and what would go wrong if electrons obeyed Bose statistics instead. |
-| 2 | A photon excites an electron from a negative-energy state of energy −E to a positive-energy state of energy +E′. State the energy and charge of the resulting electron-hole pair relative to the filled sea, and compare with the pair-production threshold discussion of Worked example 3. |
-| 3 | Explain why hole theory, as stated in Section 2, does not directly apply to the charged pion (a boson), and state which feature of Section 3's covariant reinterpretation avoids this limitation. |
-| 4 | Using the plane-wave convention e^(−i(Et−p·x)), rewrite e^(+i(E_pt−p·x)) in the form e^(−i(E′t−p′·x)) for some E′, p′, and identify E′ and p′ in terms of E_p and p. |
-| 5 | Using the identification of Exercise 4, state the momentum of the antiparticle described by the reinterpreted solution, and compare with the claim of Section 3.1 that the antiparticle carries momentum +p. |
-| 6 | Explain why a completely isolated photon in true vacuum cannot pair-produce an electron-positron pair, using conservation of both energy and momentum together with E=\|p\| for the photon (Lesson 3, Section 5.4). |
-| 7 | State the minimum total energy needed, in the lab frame, for a photon to pair-produce off a nucleus of mass M initially at rest, in the limit M≫m (you may quote the result qualitatively, that the threshold approaches 2m as M→∞, and explain why a very heavy nucleus makes an efficient nearly-free recoil absorber). |
-| 8 | Explain, referencing the discussion of Section 4.1, why care is needed when assigning a helicity to the physical antiparticle described by v(p), given that the spin label on v(p) was defined using the same χ convention as u(p) in Lesson 20. |
-| 9 | State, in one sentence, what physical process a Feynman diagram with an incoming electron line, an outgoing electron line, and a photon line describes, and identify the corresponding "crossed" process obtained by reinterpreting the incoming electron line as an outgoing positron line instead. |
-| 10 | Using the general argument of Section 6.1, explain why a hypothetical relativistic wave equation for a truly chargeless, truly its-own-antiparticle boson (such as, in reality, the neutral pion) is not automatically excluded by this lesson's reasoning, and identify what different feature such a particle's field must have (a hint: consider whether the field for such a particle needs to be complex or can be real, referencing Lesson 18, Exercise 15). |
-| 11 | Verify, in outline, why Cγ^μᵀC⁻¹=−γ^μ is the condition needed for the charge-conjugate spinor ψ^c=Cψ̄ᵀ to satisfy the Dirac equation with the sign of any minimal-coupling term reversed, by taking the complex conjugate and transpose of (iγ^μ∂_μ−m)ψ=0 and inserting C C⁻¹=I at the appropriate point. |
-| 12 | Explain, at a qualitative level, what "normal ordering removes an infinite constant" (Section 6.2, Worked example 6) is meant to convey, connecting it to the zero-point energy ambiguity already flagged in Lesson 12, Section 4.2, for a single oscillator, now summed over infinitely many field modes. |
-| 13 | State why the positron's discovery in 1932, shortly after Dirac's 1928 equation and Dirac's own 1930-31 hole-theory prediction, is often cited as one of the most striking successes of theoretical physics, referencing the fact that the prediction preceded the experimental discovery rather than explaining an already-known particle. |
-| 14 | Compare the logical status of this lesson's antiparticle prediction with Lesson 19's prediction of a multi-component wave function: in what sense is each a consequence of pure consistency rather than an additional physical postulate? |
-| 15 | Using charge conservation at a vertex (a principle used informally throughout Section 3.3), explain why a process creating a single electron with no accompanying antiparticle or other charged particle would violate charge conservation, and why pair creation (always in particle-antiparticle pairs) avoids this. |
-| 16 | Challenge: using the reinterpretation of Section 3 and the crossing idea previewed in Section 7, argue informally (without computing anything) why the cross section for Compton scattering (γ+e⁻→γ+e⁻, Lesson 57) and the cross section for the "crossed" process e⁺+e⁻→γ+γ (Lesson 56) might be expected to be related by the same underlying Feynman diagrams, with certain external lines reinterpreted as their antiparticle counterparts via Section 3.2's rule, even though a full derivation of this relation (the crossing relation) is deferred to later lessons. |
+| 1 | **Core.** Explain, in your own words, why the exclusion principle is essential to hole theory's resolution of the negative-energy catastrophe, and what would go wrong if electrons obeyed Bose statistics instead. |
+| 2 | **Core.** A photon excites an electron from a negative-energy state of energy −E to a positive-energy state of energy +E′. State the energy and charge of the resulting electron-hole pair relative to the filled sea, and compare with the pair-production threshold discussion of Worked example 3. |
+| 3 | **Core.** Explain why hole theory, as stated in Section 2, does not directly apply to the charged pion (a boson), and state which feature of Section 3's covariant reinterpretation avoids this limitation. |
+| 4 | **Core.** Using the plane-wave convention e^(−i(Et−p·x)), rewrite e^(+i(E_pt−p·x)) in the form e^(−i(E′t−p′·x)) for some E′, p′, and identify E′ and p′ in terms of E_p and p. |
+| 5 | **Core.** Using the identification of Exercise 4, state the momentum of the antiparticle described by the reinterpreted solution, and compare with the claim of Section 3.1 that the antiparticle carries momentum +p. |
+| 6 | **Extension.** Explain why a completely isolated photon in true vacuum cannot pair-produce an electron-positron pair, using conservation of both energy and momentum together with E=\|p\| for the photon (Lesson 3, Section 5.4). |
+| 7 | **Core.** State the minimum total energy needed, in the lab frame, for a photon to pair-produce off a nucleus of mass M initially at rest, in the limit M≫m (you may quote the result qualitatively, that the threshold approaches 2m as M→∞, and explain why a very heavy nucleus makes an efficient nearly-free recoil absorber). |
+| 8 | **Extension.** Explain, referencing the discussion of Section 4.1, why care is needed when assigning a helicity to the physical antiparticle described by v(p), given that the spin label on v(p) was defined using the same χ convention as u(p) in Lesson 20. |
+| 9 | **Core.** State, in one sentence, what physical process a Feynman diagram with an incoming electron line, an outgoing electron line, and a photon line describes, and identify the corresponding "crossed" process obtained by reinterpreting the incoming electron line as an outgoing positron line instead. |
+| 10 | **Extension.** Using the general argument of Section 6.1, explain why a hypothetical relativistic wave equation for a truly chargeless, truly its-own-antiparticle boson (such as, in reality, the neutral pion) is not automatically excluded by this lesson's reasoning, and identify what different feature such a particle's field must have (a hint: consider whether the field for such a particle needs to be complex or can be real, referencing Lesson 18, Exercise 15). |
+| 11 | **Extension.** Verify, in outline, why Cγ^μᵀC⁻¹=−γ^μ is the condition needed for the charge-conjugate spinor ψ^c=Cψ̄ᵀ to satisfy the Dirac equation with the sign of any minimal-coupling term reversed, by taking the complex conjugate and transpose of (iγ^μ∂_μ−m)ψ=0 and inserting C C⁻¹=I at the appropriate point. |
+| 12 | **Extension.** Explain, at a qualitative level, what "normal ordering removes an infinite constant" (Section 6.2, Worked example 6) is meant to convey, connecting it to the zero-point energy ambiguity already flagged in Lesson 12, Section 4.2, for a single oscillator, now summed over infinitely many field modes. |
+| 13 | **Extension.** State why the positron's discovery in 1932, shortly after Dirac's 1928 equation and Dirac's own 1930-31 hole-theory prediction, is often cited as one of the most striking successes of theoretical physics, referencing the fact that the prediction preceded the experimental discovery rather than explaining an already-known particle. |
+| 14 | **Extension.** Compare the logical status of this lesson's antiparticle prediction with Lesson 19's prediction of a multi-component wave function: in what sense is each a consequence of pure consistency rather than an additional physical postulate? |
+| 15 | **Core.** Using charge conservation at a vertex (a principle used informally throughout Section 3.3), explain why a process creating a single electron with no accompanying antiparticle or other charged particle would violate charge conservation, and why pair creation (always in particle-antiparticle pairs) avoids this. |
+| 16 | **Challenge.** Using the reinterpretation of Section 3 and the crossing idea previewed in Section 7, argue informally (without computing anything) why the cross section for Compton scattering (γ+e⁻→γ+e⁻, Lesson 57) and the cross section for the "crossed" process e⁺+e⁻→γ+γ (Lesson 56) might be expected to be related by the same underlying Feynman diagrams, with certain external lines reinterpreted as their antiparticle counterparts via Section 3.2's rule, even though a full derivation of this relation (the crossing relation) is deferred to later lessons. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** The exclusion principle prevents a positive-energy electron from dropping into an already-occupied negative-energy state, blocking the cascade. If electrons obeyed Bose statistics, any number of electrons could occupy the same negative-energy state, so "filling the sea" would provide no protection at all: a positive-energy boson could still cascade into an arbitrarily negative-energy state, since bosons show no exclusion (Lesson 17, Section 5.3), and hole theory's mechanism would fail entirely.
 
@@ -222,20 +229,6 @@ The reinterpretation completed in this lesson is what makes it possible, startin
 
 **16.** Compton scattering, γ+e⁻→γ+e⁻, and the process e⁺+e⁻→γ+γ share the same two Feynman diagrams (an electron line connecting two photon vertices, in the two possible time-orderings, Lesson 57's s- and u-channel-type diagrams), differing only in whether certain external electron lines are read, via Section 3.2's rule, as incoming/outgoing electrons or as incoming/outgoing positrons (an outgoing positron being equivalent, by the crossing rule, to an incoming electron line with reversed four-momentum, or vice versa); since the same underlying mathematical amplitude, built from the same vertex factors and propagator, describes both readings, the two physically distinct processes are expected to be related by an analytic continuation of the same formula in the relevant kinematic (Mandelstam) variables, a relation made precise once both cross sections are computed explicitly in Lessons 56 and 56.
 
-# Mastery checklist
+# Mastery check
 
-- I can state precisely what physical catastrophe the negative-energy Dirac solutions threaten and why a first-order equation alone does not prevent it.
-
-- I can explain Dirac's hole theory, including the role of the exclusion principle, and state at least one of its practical limitations.
-
-- I can state the covariant reinterpretation rule and apply it to determine the energy, momentum, and charge of the antiparticle described by a given negative-energy solution.
-
-- I can explain why v(p) can be used directly as the antiparticle spinor with no new calculation required.
-
-- I can define charge conjugation and state, at least qualitatively, the condition Cγ^μᵀC⁻¹=−γ^μ that makes it work.
-
-- I can explain, using only the general structure of a relativistic wave equation, why antiparticles are an unavoidable consequence of relativistic quantum mechanics for any charged particle.
-
-- I can explain in outline how field quantization removes the need for Dirac's infinite sea.
-
-- I can describe, at least qualitatively, the crossing relation between a process and its antiparticle-reinterpreted counterpart.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

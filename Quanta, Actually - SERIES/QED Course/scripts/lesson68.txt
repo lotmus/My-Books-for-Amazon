@@ -32,6 +32,11 @@ Every lesson since 61 has been building toward a question this one finally answe
 | S_F′(p) | The full propagator, including every self-energy insertion |
 | Z₂ | The field-renormalization constant, from the residue of S_F′(p) at its pole |
 
+BOX: First pass: the result before the derivation
+The physical mass m is the pole of the full propagator, m = m₀ + A(m₀²) at leading order; since A diverges, the unmeasured m₀ must diverge to compensate, and predictions written in terms of m are finite.
+Prologue 6's 'use the measured mass and charge' as an equation. High-risk topic: follow the bookkeeping slowly.
+ENDBOX
+
 # 1 A parameter nobody has measured
 
 ## 1.1 What is actually in the Lagrangian
@@ -112,6 +117,8 @@ with m required to be finite (it is a measured number) and A(m₀²) containing 
 
 Section 1.2 made the point that m₀ was never an independently measured quantity. A parameter that is not measured is under no obligation to be finite; it is a bookkeeping device inside a calculation, introduced in Lesson 26 to give the free-field starting point a name, and this lesson finds that the bookkeeping device must itself carry a compensating infinity for the one number that is actually checked against experiment, m, to come out right. Every prediction this course has stated in Lessons 54 through 61 was written in terms of m, the physical mass, not m₀; nothing about those predictions changes, because m₀ never appeared in any of them to begin with.
 
+IMG: L68_counterterms.png | 6.0 | Figure 68.1. Self-energy plus counterterm: the divergent part is absorbed into the bare mass, and the propagator's pole sits at the measured mass.
+
 ### Worked example 4
 
 State the general pattern this section illustrates, in a form that will reappear for the coupling constant in Lesson 69. Whenever a parameter appearing in the Lagrangian is not itself a directly measured quantity, but instead enters combined with a loop correction to produce something that is measured, any divergence in that loop correction can be absorbed into the unmeasured Lagrangian parameter, leaving the measured combination finite; the pattern does not care whether the parameter in question is a mass, a coupling constant, or a field normalization, only that it is the combination checked against experiment, not the bare Lagrangian parameter alone, that must be finite.
@@ -162,24 +169,26 @@ Lesson 66 found that only four combinations of external legs can ever produce a 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Explain, in your own words, why m₀ is called "bare" and why this lesson insists on distinguishing it from m even though both would naively be called "the electron's mass." |
-| 2 | Restate Section 1.2's definition of the physical mass in terms of a propagator's pole, without reference to any specific diagram. |
-| 3 | Draw the first three terms of Section 2.1's series (zero, one, and two self-energy insertions) and confirm each one alternates S_F and [−iΣ(p)] correctly. |
-| 4 | State the ordinary geometric series formula 1+x+x²+⋯=1/(1−x) and identify what plays the role of x in Section 2.2. |
-| 5 | Verify that Section 2.1's series, written with x=[−iΣ(p)]S_F(p), reproduces the first three explicit terms already listed there when expanded via 1+x+x²+⋯. |
-| 6 | Substitute S_F(p)=i/(p̸−m₀) into S_F′(p)=S_F(p)/(1+iΣ(p)S_F(p)) and simplify step by step to derive S_F′(p)=i/(p̸−m₀−Σ(p)). |
-| 7 | Verify Worked example 2 by setting Σ(p)=0 in Section 2.2's result and confirming it reduces to the bare propagator. |
-| 8 | Substitute Σ(p)=A(p²)+B(p²)p̸ into p̸−m₀−Σ(p)=0 and derive Section 3.1's equation m−m₀−A(m²)−B(m²)m=0. |
-| 9 | Explain why Section 3.2 sets aside the B(m²)m term rather than solving the full equation of Exercise 8, referring to the order in α each piece represents. |
-| 10 | State, in your own words, why a divergent A(m₀²) forces m₀ to be divergent, given that their sum m is required to be finite. |
-| 11 | Explain why "m₀ is infinite" does not contradict any of this course's finite predictions from Lessons 54 through 61, referring to which parameter, m or m₀, those predictions were actually written in terms of. |
-| 12 | State what B(p²) controls, physically, in the full propagator, and explain why it needs a different kind of renormalization (of the field, not the mass) than A(p²) does. |
-| 13 | Explain, in one sentence, why the divergence in vacuum polarization (Lesson 63) is expected to require renormalizing the charge rather than the mass or the field normalization. |
-| 14 | List the three parameters this lesson and Lesson 69 renormalize, and match each to the specific one-loop diagram (Lesson 63, 64, or 64) responsible for its divergence. |
-| 15 | Explain, in your own words, why Lesson 66's finding of only four divergent external-leg combinations is what makes three renormalized parameters enough for the entire theory, rather than requiring infinitely many. |
-| 16 | Challenge: suppose a hypothetical modification of QED introduced a new kind of vertex with, say, five fermion lines meeting at a single point rather than two. Using the spirit of Lesson 66's counting (without redoing the full derivation), explain qualitatively why such a vertex would be expected to make the theory's list of divergent diagrams grow without bound as more loops are added, in contrast with ordinary QED's fixed, short list. |
+| 1 | **Extension.** Explain, in your own words, why m₀ is called "bare" and why this lesson insists on distinguishing it from m even though both would naively be called "the electron's mass." |
+| 2 | **Core.** Restate Section 1.2's definition of the physical mass in terms of a propagator's pole, without reference to any specific diagram. |
+| 3 | **Core.** Draw the first three terms of Section 2.1's series (zero, one, and two self-energy insertions) and confirm each one alternates S_F and [−iΣ(p)] correctly. |
+| 4 | **Core.** State the ordinary geometric series formula 1+x+x²+⋯=1/(1−x) and identify what plays the role of x in Section 2.2. |
+| 5 | **Core.** Verify that Section 2.1's series, written with x=[−iΣ(p)]S_F(p), reproduces the first three explicit terms already listed there when expanded via 1+x+x²+⋯. |
+| 6 | **Core.** Substitute S_F(p)=i/(p̸−m₀) into S_F′(p)=S_F(p)/(1+iΣ(p)S_F(p)) and simplify step by step to derive S_F′(p)=i/(p̸−m₀−Σ(p)). |
+| 7 | **Core.** Verify Worked example 2 by setting Σ(p)=0 in Section 2.2's result and confirming it reduces to the bare propagator. |
+| 8 | **Core.** Substitute Σ(p)=A(p²)+B(p²)p̸ into p̸−m₀−Σ(p)=0 and derive Section 3.1's equation m−m₀−A(m²)−B(m²)m=0. |
+| 9 | **Extension.** Explain why Section 3.2 sets aside the B(m²)m term rather than solving the full equation of Exercise 8, referring to the order in α each piece represents. |
+| 10 | **Extension.** State, in your own words, why a divergent A(m₀²) forces m₀ to be divergent, given that their sum m is required to be finite. |
+| 11 | **Extension.** Explain why "m₀ is infinite" does not contradict any of this course's finite predictions from Lessons 54 through 61, referring to which parameter, m or m₀, those predictions were actually written in terms of. |
+| 12 | **Extension.** State what B(p²) controls, physically, in the full propagator, and explain why it needs a different kind of renormalization (of the field, not the mass) than A(p²) does. |
+| 13 | **Extension.** Explain, in one sentence, why the divergence in vacuum polarization (Lesson 63) is expected to require renormalizing the charge rather than the mass or the field normalization. |
+| 14 | **Core.** List the three parameters this lesson and Lesson 69 renormalize, and match each to the specific one-loop diagram (Lesson 63, 64, or 64) responsible for its divergence. |
+| 15 | **Extension.** Explain, in your own words, why Lesson 66's finding of only four divergent external-leg combinations is what makes three renormalized parameters enough for the entire theory, rather than requiring infinitely many. |
+| 16 | **Challenge.** Suppose a hypothetical modification of QED introduced a new kind of vertex with, say, five fermion lines meeting at a single point rather than two. Using the spirit of Lesson 66's counting (without redoing the full derivation), explain qualitatively why such a vertex would be expected to make the theory's list of divergent diagrams grow without bound as more loops are added, in contrast with ordinary QED's fixed, short list. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** m₀ is called bare because it is the mass parameter as it appears in the Lagrangian before any interaction has been switched on or any loop correction included, stripped of everything the real, physically interacting electron actually carries; m is the physical, measured mass, the number an experiment reports for a real, fully interacting electron, and this lesson's whole point is that these two need not be equal, so keeping separate names for them avoids assuming in advance what has to be derived.
 

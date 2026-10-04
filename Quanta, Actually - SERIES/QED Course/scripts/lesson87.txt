@@ -198,24 +198,26 @@ It did not derive the Higgs potential or show how the Goldstone bosons become th
 
 @widths 720 9072
 | No | Problem |
-| 1 | Find the Landau pole for one lepton, and explain why it is not a practical limitation. |
-| 2 | Check Q = T³ + Y/2 for ν_L, e_L, e_R, u_L, d_L, u_R, and d_R. |
-| 3 | Why is a mass term m ē_Le_R forbidden before symmetry breaking? |
-| 4 | Show that the lower component of ⟨Φ⟩ has Q = 0, and explain why that leaves U(1)_EM unbroken. |
-| 5 | Derive D_μ⟨Φ⟩ and |D_μ⟨Φ⟩|², and read off M_W and M_Z. |
-| 6 | Show that the combination sinθ_W W³ + cosθ_W B has no mass term. |
-| 7 | Derive e = g sinθ_W = g′cosθ_W and 1/e² = 1/g² + 1/g′². |
-| 8 | Derive the Z coupling (g/cosθ_W)(T³ − sin²θ_W Q). |
-| 9 | Find g_V and g_A for the u quark and the neutrino. |
-| 10 | Derive G_F/√2 = g²/8M_W² from W exchange at q² ≪ M_W², and find v. |
-| 11 | Using M_W = 80.37 GeV and M_Z = 91.19 GeV, compute the on-shell sin²θ_W = 1 − M_W²/M_Z², and compare it with 0.2312. |
-| 12 | Compute Δα for the τ lepton alone, and its effect on 1/α(M_Z). |
-| 13 | Verify the U(1)_Y³ anomaly cancellation, and show that it fails without color. |
-| 14 | Verify the mixed gravitational condition, Σ_L Y − Σ_R Y = 0, for one generation. |
-| 15 | Estimate the ratio of weak to electromagnetic amplitudes in e⁺e⁻ → μ⁺μ⁻ at √s = 10 GeV and at √s = M_Z, and explain the second answer. |
-| 16 | Challenge: show that with a doublet of Y = 1, the tree-level relation M_W = M_Z cosθ_W (ρ = 1) holds, and explain why it would fail for a Higgs triplet. |
+| 1 | **Core.** Find the Landau pole for one lepton, and explain why it is not a practical limitation. |
+| 2 | **Core.** Check Q = T³ + Y/2 for ν_L, e_L, e_R, u_L, d_L, u_R, and d_R. |
+| 3 | **Core.** Why is a mass term m ē_Le_R forbidden before symmetry breaking? |
+| 4 | **Core.** Show that the lower component of ⟨Φ⟩ has Q = 0, and explain why that leaves U(1)_EM unbroken. |
+| 5 | **Extension.** Derive D_μ⟨Φ⟩ and |D_μ⟨Φ⟩|², and read off M_W and M_Z. |
+| 6 | **Core.** Show that the combination sinθ_W W³ + cosθ_W B has no mass term. |
+| 7 | **Extension.** Derive e = g sinθ_W = g′cosθ_W and 1/e² = 1/g² + 1/g′². |
+| 8 | **Extension.** Derive the Z coupling (g/cosθ_W)(T³ − sin²θ_W Q). |
+| 9 | **Core.** Find g_V and g_A for the u quark and the neutrino. |
+| 10 | **Extension.** Derive G_F/√2 = g²/8M_W² from W exchange at q² ≪ M_W², and find v. |
+| 11 | **Extension.** Using M_W = 80.37 GeV and M_Z = 91.19 GeV, compute the on-shell sin²θ_W = 1 − M_W²/M_Z², and compare it with 0.2312. |
+| 12 | **Core.** Compute Δα for the τ lepton alone, and its effect on 1/α(M_Z). |
+| 13 | **Extension.** Verify the U(1)_Y³ anomaly cancellation, and show that it fails without color. |
+| 14 | **Core.** Verify the mixed gravitational condition, Σ_L Y − Σ_R Y = 0, for one generation. |
+| 15 | **Extension.** Estimate the ratio of weak to electromagnetic amplitudes in e⁺e⁻ → μ⁺μ⁻ at √s = 10 GeV and at √s = M_Z, and explain the second answer. |
+| 16 | **Challenge.** Show that with a doublet of Y = 1, the tree-level relation M_W = M_Z cosθ_W (ρ = 1) holds, and explain why it would fail for a Higgs triplet. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Q = m e^{3π/2α} ≈ 10²⁷⁷ GeV. It lies far above the Planck scale, where QED is already embedded in larger physics.
 
@@ -249,18 +251,6 @@ It did not derive the Higgs potential or show how the Goldstone bosons become th
 
 **16.** For a doublet, M_W² = g²v²/4 and M_Z² = (g² + g′²)v²/4, so M_W²/(M_Z²cos²θ_W) = 1. A real triplet with Y = 0 and vacuum value v_T adds g²v_T² to M_W² and nothing to M_Z², so ρ = 1 + 4v_T²/v² > 1. Precision data limit v_T to a few GeV at most.
 
-# Mastery checklist
+# Mastery check
 
-- I can explain why QED is part of a larger theory, and estimate its Landau pole.
-
-- I can assign Q, T³, and Y to the electron and quarks, and write the covariant derivative.
-
-- I can derive the W, Z, and photon masses from the Higgs vacuum value, and explain why the photon stays massless.
-
-- I can derive e = g sinθ_W and the Z couplings, and explain why the electron's weak vector charge is small.
-
-- I can predict M_W from G_F, α, and sin²θ_W, and run α to M_Z.
-
-- I can verify anomaly cancellation and explain why it needs three colors.
-
-- I can state when QED is the correct effective theory, and list what this volume derived and quoted.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

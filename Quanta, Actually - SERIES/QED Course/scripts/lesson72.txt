@@ -34,13 +34,14 @@ Every time this course replaced a photon polarization sum by −g_μν, dropped 
 
 The vertex factor is ieγ^μ, as in Lesson 45, and the metric is diag(+1, −1, −1, −1). In display equations, square brackets enclose function arguments and visible groupings.
 
+BOX: First pass: the result before the derivation
+Current conservation becomes k_μℳ^μ = 0 for any amplitude with an external photon, and the Ward–Takahashi identity forces Z₁ = Z₂.
+Charge renormalization comes only from the photon's own loop, so every particle's charge runs the same way. High-risk topic.
+ENDBOX
+
 # 1 The statement
 
-FIG:
- e⁻(p) ────*──── e⁻(p+k)      replace ε_μ(k) by k_μ at the vertex:
-           |                  ū(p+k) k̸ u(p) = 0 on shell
-          γ(k)
-ENDFIG
+IMG: L72_ward.png | 6.0 | Figure 72.1. The Ward identity at work. Replace a photon's polarization by its momentum k and the diagrams of a gauge-invariant set sum to zero.
 
 A QED amplitude with one external photon of momentum k and polarization ε can be written iℳ = ε_μ(k)ℳ^μ(k). The Ward identity states that
 
@@ -207,21 +208,23 @@ This lesson proved the identity explicitly at tree level for Compton scattering 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Show that shifting ε_μ → ε_μ + ck_μ leaves iℳ unchanged if k_μℳ^μ = 0. |
-| 2 | Derive S(p+k)k̸S(p) = i[S(p) − S(p+k)] from k̸ = (p̸ + k̸ − m) − (p̸ − m). |
-| 3 | Show S(p+k)k̸u(p) = iu(p) and ū(p′)k̸S(p′ − k) = −iū(p′). |
-| 4 | Carry out Section 3.2 for Compton scattering, writing each diagram explicitly. |
-| 5 | Repeat Exercise 4 contracting the outgoing photon, ε′* → k′, instead of the incoming one. |
-| 6 | For a line with three photon attachments, write the telescoping sum explicitly and show that only the end terms survive. |
-| 7 | Verify the Ward–Takahashi identity at tree level. |
-| 8 | Derive Ward's form Γ^μ(p, p) = ∂S̃⁻¹/∂p_μ from the Ward–Takahashi identity. |
-| 9 | Derive Z₁ = Z₂ from Exercise 8 and S̃⁻¹ ≈ Z₂⁻¹(p̸ − m). |
-| 10 | Show that e = e₀Z₂√Z₃/Z₁ reduces to e = √Z₃e₀, and explain why this makes the charge renormalization the same for the electron and the muon. |
-| 11 | Verify that the polarization-sum formula of Section 6.1 gives zero when contracted with k^μ, and that it reproduces ε¹ε¹ + ε²ε² for k along the z axis. |
-| 12 | Show that a term M²g^μν in Π^μν violates transversality, and conclude that the photon stays massless. |
-| 13 | Challenge: Explain why the Ward identity can fail for a single diagram even when it holds for the sum, using Compton scattering as the example, and why a regulator that broke the identity would produce a photon mass. |
+| 1 | **Core.** Show that shifting ε_μ → ε_μ + ck_μ leaves iℳ unchanged if k_μℳ^μ = 0. |
+| 2 | **Extension.** Derive S(p+k)k̸S(p) = i[S(p) − S(p+k)] from k̸ = (p̸ + k̸ − m) − (p̸ − m). |
+| 3 | **Core.** Show S(p+k)k̸u(p) = iu(p) and ū(p′)k̸S(p′ − k) = −iū(p′). |
+| 4 | **Extension.** Carry out Section 3.2 for Compton scattering, writing each diagram explicitly. |
+| 5 | **Extension.** Repeat Exercise 4 contracting the outgoing photon, ε′* → k′, instead of the incoming one. |
+| 6 | **Extension.** For a line with three photon attachments, write the telescoping sum explicitly and show that only the end terms survive. |
+| 7 | **Core.** Verify the Ward–Takahashi identity at tree level. |
+| 8 | **Extension.** Derive Ward's form Γ^μ(p, p) = ∂S̃⁻¹/∂p_μ from the Ward–Takahashi identity. |
+| 9 | **Extension.** Derive Z₁ = Z₂ from Exercise 8 and S̃⁻¹ ≈ Z₂⁻¹(p̸ − m). |
+| 10 | **Core.** Show that e = e₀Z₂√Z₃/Z₁ reduces to e = √Z₃e₀, and explain why this makes the charge renormalization the same for the electron and the muon. |
+| 11 | **Core.** Verify that the polarization-sum formula of Section 6.1 gives zero when contracted with k^μ, and that it reproduces ε¹ε¹ + ε²ε² for k along the z axis. |
+| 12 | **Core.** Show that a term M²g^μν in Π^μν violates transversality, and conclude that the photon stays massless. |
+| 13 | **Challenge.** Explain why the Ward identity can fail for a single diagram even when it holds for the sum, using Compton scattering as the example, and why a regulator that broke the identity would produce a photon mass. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** iℳ → (ε_μ + ck_μ)ℳ^μ = ε_μℳ^μ + c k_μℳ^μ = ε_μℳ^μ.
 

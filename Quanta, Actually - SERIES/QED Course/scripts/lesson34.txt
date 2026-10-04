@@ -227,24 +227,26 @@ The last row is the one that generalizes most directly. The QED interaction +eψ
 
 @widths 720 9072
 | No | Problem |
-| 1 | Prove that the eigenvalues of N = a†a are the nonnegative integers using [N, a] = −a and ‖a\|n⟩‖² = n. |
-| 2 | Show by induction that ‖(a†)ⁿ\|0⟩‖² = n!, and hence that \|n⟩ = (a†)ⁿ\|0⟩/√n! is normalized. |
-| 3 | Compute ⟨n\|aa†\|n⟩, ⟨n\|a†a\|n⟩, and ⟨n\|(a + a†)²\|n⟩, and check that the last equals 2n + 1. |
-| 4 | Show that the number of states with N quanta in M modes is C(N + M − 1, N), and evaluate it for N = 2 with M = 3 and M = 4. |
-| 5 | For \|ψ⟩ = ∫d³p/(2π)³ψ̃(p)a_p†\|0⟩, show that ⟨ψ\|ψ⟩ = ∫d³p/(2π)³\|ψ̃\|², ⟨N⟩ = ⟨ψ\|ψ⟩, and ⟨H⟩ = ∫d³p/(2π)³E_p\|ψ̃\|². |
-| 6 | Show that ⟨0\|φ(x)\|ψ⟩ = ∫d³p/((2π)³√(2E_p))ψ̃(p)e^(−ip·x) satisfies the Klein–Gordon equation, and explain why its modulus squared is not a probability density. |
-| 7 | Show that \|α⟩ = e^(−\|α\|²/2)Σα^n/√(n!) \|n⟩ is normalized and satisfies a\|α⟩ = α\|α⟩. |
-| 8 | Using e^(A+B) = e^Ae^Be^(−[A,B]/2) for [A, B] a number, show that D(α)\|0⟩ = \|α⟩ for D(α) = exp(αa† − α*a). |
-| 9 | For a coherent state of the field with a_p\|α⟩ = α_p\|α⟩, compute ⟨φ(x)⟩ and ⟨:H:⟩ and compare with the classical mode expansion and energy of Lesson 25. |
-| 10 | Show that e^(−iHt)\|α⟩ = \|αe^(−iωt)⟩ for H = ωa†a, and interpret it as classical motion in phase space. |
-| 11 | For the cubic interaction (g/3!)φ³, list which of the four kinds of terms can conserve energy and momentum for particles of a single mass m, using the invariant mass argument of Worked example 4. |
-| 12 | For the complex field, define C by Ca_pC⁻¹ = b_p and Cb_pC⁻¹ = a_p, show that Cφ(x)C⁻¹ = φ†(x), and that CQC⁻¹ = −Q for Q = q∫(a†a − b†b). |
-| 13 | Show that [N, a_p†] = a_p† for N = ∫d³p/(2π)³a_q†a_q, and that N a_p†a_q†\|0⟩ = 2a_p†a_q†\|0⟩. |
-| 14 | Show that e^(iθN)a_pe^(−iθN) = e^(−iθ)a_p, and explain how this relates to the U(1) charge of the complex field. |
-| 15 | Compute the vacuum expectation ⟨0\|φ(x)²\|0⟩ = ∫d³p/((2π)³2E_p) for a massless field with a cutoff Λ, and show that it is Λ²/(8π²), divergent as Λ → ∞. |
-| 16 | Challenge: compute the second-order correlation g² = ⟨a†a†aa⟩/⟨a†a⟩² for a coherent state \|α⟩ and for a number state \|n⟩ with n ≥ 2, and comment on what the difference means for the counting statistics of photons. |
+| 1 | **Extension.** Prove that the eigenvalues of N = a†a are the nonnegative integers using [N, a] = −a and ‖a\|n⟩‖² = n. |
+| 2 | **Core.** Show by induction that ‖(a†)ⁿ\|0⟩‖² = n!, and hence that \|n⟩ = (a†)ⁿ\|0⟩/√n! is normalized. |
+| 3 | **Core.** Compute ⟨n\|aa†\|n⟩, ⟨n\|a†a\|n⟩, and ⟨n\|(a + a†)²\|n⟩, and check that the last equals 2n + 1. |
+| 4 | **Core.** Show that the number of states with N quanta in M modes is C(N + M − 1, N), and evaluate it for N = 2 with M = 3 and M = 4. |
+| 5 | **Core.** For \|ψ⟩ = ∫d³p/(2π)³ψ̃(p)a_p†\|0⟩, show that ⟨ψ\|ψ⟩ = ∫d³p/(2π)³\|ψ̃\|², ⟨N⟩ = ⟨ψ\|ψ⟩, and ⟨H⟩ = ∫d³p/(2π)³E_p\|ψ̃\|². |
+| 6 | **Extension.** Show that ⟨0\|φ(x)\|ψ⟩ = ∫d³p/((2π)³√(2E_p))ψ̃(p)e^(−ip·x) satisfies the Klein–Gordon equation, and explain why its modulus squared is not a probability density. |
+| 7 | **Core.** Show that \|α⟩ = e^(−\|α\|²/2)Σα^n/√(n!) \|n⟩ is normalized and satisfies a\|α⟩ = α\|α⟩. |
+| 8 | **Core.** Using e^(A+B) = e^Ae^Be^(−[A,B]/2) for [A, B] a number, show that D(α)\|0⟩ = \|α⟩ for D(α) = exp(αa† − α*a). |
+| 9 | **Extension.** For a coherent state of the field with a_p\|α⟩ = α_p\|α⟩, compute ⟨φ(x)⟩ and ⟨:H:⟩ and compare with the classical mode expansion and energy of Lesson 25. |
+| 10 | **Extension.** Show that e^(−iHt)\|α⟩ = \|αe^(−iωt)⟩ for H = ωa†a, and interpret it as classical motion in phase space. |
+| 11 | **Extension.** For the cubic interaction (g/3!)φ³, list which of the four kinds of terms can conserve energy and momentum for particles of a single mass m, using the invariant mass argument of Worked example 4. |
+| 12 | **Core.** For the complex field, define C by Ca_pC⁻¹ = b_p and Cb_pC⁻¹ = a_p, show that Cφ(x)C⁻¹ = φ†(x), and that CQC⁻¹ = −Q for Q = q∫(a†a − b†b). |
+| 13 | **Core.** Show that [N, a_p†] = a_p† for N = ∫d³p/(2π)³a_q†a_q, and that N a_p†a_q†\|0⟩ = 2a_p†a_q†\|0⟩. |
+| 14 | **Extension.** Show that e^(iθN)a_pe^(−iθN) = e^(−iθ)a_p, and explain how this relates to the U(1) charge of the complex field. |
+| 15 | **Extension.** Compute the vacuum expectation ⟨0\|φ(x)²\|0⟩ = ∫d³p/((2π)³2E_p) for a massless field with a cutoff Λ, and show that it is Λ²/(8π²), divergent as Λ → ∞. |
+| 16 | **Challenge.** Compute the second-order correlation g² = ⟨a†a†aa⟩/⟨a†a⟩² for a coherent state \|α⟩ and for a number state \|n⟩ with n ≥ 2, and comment on what the difference means for the counting statistics of photons. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Suppose N|n⟩ = n|n⟩ with |n⟩ normalized. Then [N, a] = −a gives N(a|n⟩) = (n − 1)a|n⟩, so a|n⟩ is an eigenvector with eigenvalue n − 1 unless it vanishes. Its norm is ‖a|n⟩‖² = ⟨n|a†a|n⟩ = n ≥ 0, so n ≥ 0. Repeated application produces eigenvalues n − 1, n − 2, …, and if n were not an integer the sequence would eventually reach a negative eigenvalue and a state of negative norm, a contradiction. The sequence can terminate only by reaching a state with a|·⟩ = 0, whose eigenvalue is zero, so n − k = 0 for some integer k, and n is a nonnegative integer.
 
@@ -278,20 +280,6 @@ The last row is the one that generalizes most directly. The QED interaction +eψ
 
 **16.** For |α⟩, ⟨a†a†aa⟩ = ⟨α|a†²a²|α⟩ = |α|⁴ (a² → α² on the right and a†² → α*² on the left), and ⟨a†a⟩ = |α|², so g² = 1. For |n⟩, a²|n⟩ = √(n(n−1))|n − 2⟩, so ⟨n|a†²a²|n⟩ = n(n − 1) and g² = n(n − 1)/n² = 1 − 1/n < 1. A coherent state has g² = 1: the photon counts follow a Poisson distribution, uncorrelated. A number state has g² < 1, antibunched, since photons arrive with fewer coincidences than a random process, which has no classical analogue. (A thermal state has g² = 2, bunched.) The correlation g² distinguishes fields with the same mean intensity and is the basis of the Hanbury Brown and Twiss experiment.
 
-# Mastery checklist
+# Mastery check
 
-- I can prove that N has nonnegative integer eigenvalues and derive the ladder action on |n⟩.
-
-- I can construct occupation number states for several modes and count them.
-
-- I can relate box and relativistic normalizations and state what N counts.
-
-- I can build a wave-packet state from one-particle states and compute its norm, energy, and momentum.
-
-- I can define coherent states, derive their Poisson statistics, and show that the field expectation is a classical solution.
-
-- I can show that a coherent state stays coherent under free evolution.
-
-- I can identify the phase rotation generated by N with the U(1) symmetry.
-
-- I can read the monomials of an interaction Hamiltonian as processes and test them for energy and momentum conservation.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

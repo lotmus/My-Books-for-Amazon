@@ -16,7 +16,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
 files = (sorted(glob.glob("scripts/lesson*.txt"))
          + ["scripts/build_lesson.py", "scripts/insert_toc.py", "scripts/update_manifest.py",
-            "Complete QED Course.docx"])
+            "Quantum, Actually - Volume 2.docx"])
 bad = [f for f in glob.glob("*.docx") + glob.glob("chapters/*.docx") if zipfile.ZipFile(f).testzip() is not None]
 if bad:
     sys.exit("DAMAGED docx files, not updating manifest: %s" % bad)

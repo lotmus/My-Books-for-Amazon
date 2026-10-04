@@ -39,6 +39,11 @@ The lesson also introduces γ⁵, a matrix built from the product of all four ga
 | ε^μνρσ | Levi Civita symbol (Lesson 4, Section 4.4) |
 | n | Number of spacetime dimensions, fixed at 4 throughout this course |
 
+BOX: First pass: the result before the derivation
+Gamma-matrix algebra reduces to a few identities: γ_μγ^μ = 4, traces of odd numbers of γs vanish, Tr[γ^μγ^ν] = 4g^μν, and the four-γ trace formula.
+Every cross section in Lessons 54–58 is a trace evaluated with exactly these rules. This is one of the high-risk topics: keep the identity table at hand.
+ENDBOX
+
 # 1 Basic index identities
 
 ## 1.1 Contracting one index
@@ -201,24 +206,26 @@ Every one of Lesson 55 through Lesson 58's cross-section calculations begins wit
 
 @widths 720 9072
 | No | Problem |
-| 1 | Derive γ_μa̸γ^μ=−2a̸ from γ^μa̸=2a^μ−a̸γ^μ by contracting the free index μ appropriately, filling in every step. |
-| 2 | Compute γ_μa̸b̸γ^μ using the identity of Exercise 1 twice in succession (moving γ_μ past both a̸ and b̸), and express the result in terms of a·b and a̸b̸ (or b̸a̸). |
-| 3 | Show that Tr[a̸a̸] = 4a² for any four-vector a, using Worked example 2 with b=a. |
-| 4 | Compute Tr[γ^μγ^νγ^ρ] using the odd-trace vanishing rule of Section 2.2, and state the result without further calculation. |
-| 5 | Using Tr[γ^μγ^ν]=4g^μν, verify that Tr[I]=4 is consistent by setting μ=ν=0 and separately μ=ν=1, and comparing with g⁰⁰=1, g¹¹=−1. |
-| 6 | Derive Tr[γ^μγ^νγ^ργ^σ] step by step: move γ^σ past γ^ρ using the Clifford algebra, then past γ^ν, then past γ^μ, using cyclicity of the trace at the final step, and show the result matches Section 2.4. |
-| 7 | Given that γ⁰ is Hermitian and (γ⁰)²=I while (γⁱ)²=−I for i=1,2,3, show that γⁱ must be anti-Hermitian if the Dirac representation's explicit block form (Lesson 20) is assumed unitary-equivalent to a Hermitian-γ⁰, anti-Hermitian-γⁱ convention (you may verify this directly using the explicit Dirac representation of Lesson 20, Section 2.1). |
-| 8 | Using the results of Exercise 7, show that γ⁵=iγ⁰γ¹γ²γ³ is Hermitian, by taking the Hermitian conjugate of the product and reversing the order (Lesson 1, Section 6.1's rule (AB)†=B†A†, extended to four factors). |
-| 9 | Verify (γ⁵)²=I by explicit sign-counting: expand (iγ⁰γ¹γ²γ³)(iγ⁰γ¹γ²γ³) and move the second γ⁰ past γ³,γ²,γ¹ to meet the first γ⁰, tracking each anticommutation sign, then repeat for γ¹, γ², and γ³ in turn. |
-| 10 | Show that P_R²=P_R and P_LP_R=0, following the method of Worked example 6. |
-| 11 | Show that Tr[γ⁵]=0, using the same (γ⁵)²=I insertion trick used in Section 2.2 for Tr[γ^μ], but applied with an extra γ⁵ inserted appropriately (hint: use cyclicity and {γ⁵,γ^μ}=0 is not directly needed here; instead use γ⁵=γ⁵(γ^0)²(compare with the odd-trace argument) or cite that γ⁵ itself, being a product of four distinct gamma matrices, falls under a generalized even-trace rule requiring separate treatment; a full derivation uses an explicit representation, but state at minimum why Tr[γ⁵] must be a Lorentz scalar built from no external vectors and explain why this makes zero the only consistent value). |
-| 12 | Using the method of Section 2.2 (inserting (γ⁵)² and anticommuting), show that Tr[γ^μγ^νγ^ρ]=0 as well, generalizing the single-gamma-matrix argument to three. |
-| 13 | Using the fact (stated in Section 3.1) that a γ⁵ trace with fewer than four other gamma matrices vanishes, state Tr[γ⁵γ^μγ^νγ^ρ]=0 and Tr[γ⁵]=0 as special cases, consistent with Exercise 11's separate argument. |
-| 14 | Compute Tr[(p̸+m)(p̸+m)] using Tr[a̸a̸]=4a² (Exercise 3) and Tr[I]=4, and show it equals 4(p²+m²) generally, or 8m² when p is on-shell (p²=m²). |
-| 15 | Using P_L+P_R=I, show that any Dirac spinor ψ can be written as ψ=ψ_L+ψ_R with ψ_L=P_Lψ, ψ_R=P_Rψ, and verify P_Lψ_R=0 (a left projector annihilates an already-right-handed spinor), using P_LP_R=0. |
-| 16 | Challenge: using only the Clifford algebra (no explicit representation), evaluate Tr[γ^μγ^νγ^ρa̸] for a general four-vector a by writing a̸=a_σγ^σ and contracting the σ index of the four-gamma trace formula of Section 2.4 with a_σ. Verify the result is Tr[γ^μγ^νγ^ρa̸]=4(g^μνa^ρ−g^μρa^ν+g^νρa^μ), and explain why the odd-trace vanishing rule of Section 2.2 does not apply here even though only three explicit gamma matrices and one slash appear. |
+| 1 | **Extension.** Derive γ_μa̸γ^μ=−2a̸ from γ^μa̸=2a^μ−a̸γ^μ by contracting the free index μ appropriately, filling in every step. |
+| 2 | **Core.** Compute γ_μa̸b̸γ^μ using the identity of Exercise 1 twice in succession (moving γ_μ past both a̸ and b̸), and express the result in terms of a·b and a̸b̸ (or b̸a̸). |
+| 3 | **Core.** Show that Tr[a̸a̸] = 4a² for any four-vector a, using Worked example 2 with b=a. |
+| 4 | **Core.** Compute Tr[γ^μγ^νγ^ρ] using the odd-trace vanishing rule of Section 2.2, and state the result without further calculation. |
+| 5 | **Core.** Using Tr[γ^μγ^ν]=4g^μν, verify that Tr[I]=4 is consistent by setting μ=ν=0 and separately μ=ν=1, and comparing with g⁰⁰=1, g¹¹=−1. |
+| 6 | **Extension.** Derive Tr[γ^μγ^νγ^ργ^σ] step by step: move γ^σ past γ^ρ using the Clifford algebra, then past γ^ν, then past γ^μ, using cyclicity of the trace at the final step, and show the result matches Section 2.4. |
+| 7 | **Extension.** Given that γ⁰ is Hermitian and (γ⁰)²=I while (γⁱ)²=−I for i=1,2,3, show that γⁱ must be anti-Hermitian if the Dirac representation's explicit block form (Lesson 20) is assumed unitary-equivalent to a Hermitian-γ⁰, anti-Hermitian-γⁱ convention (you may verify this directly using the explicit Dirac representation of Lesson 20, Section 2.1). |
+| 8 | **Extension.** Using the results of Exercise 7, show that γ⁵=iγ⁰γ¹γ²γ³ is Hermitian, by taking the Hermitian conjugate of the product and reversing the order (Lesson 1, Section 6.1's rule (AB)†=B†A†, extended to four factors). |
+| 9 | **Extension.** Verify (γ⁵)²=I by explicit sign-counting: expand (iγ⁰γ¹γ²γ³)(iγ⁰γ¹γ²γ³) and move the second γ⁰ past γ³,γ²,γ¹ to meet the first γ⁰, tracking each anticommutation sign, then repeat for γ¹, γ², and γ³ in turn. |
+| 10 | **Core.** Show that P_R²=P_R and P_LP_R=0, following the method of Worked example 6. |
+| 11 | **Extension.** Show that Tr[γ⁵]=0, using the same (γ⁵)²=I insertion trick used in Section 2.2 for Tr[γ^μ], but applied with an extra γ⁵ inserted appropriately (hint: use cyclicity and {γ⁵,γ^μ}=0 is not directly needed here; instead use γ⁵=γ⁵(γ^0)²(compare with the odd-trace argument) or cite that γ⁵ itself, being a product of four distinct gamma matrices, falls under a generalized even-trace rule requiring separate treatment; a full derivation uses an explicit representation, but state at minimum why Tr[γ⁵] must be a Lorentz scalar built from no external vectors and explain why this makes zero the only consistent value). |
+| 12 | **Extension.** Using the method of Section 2.2 (inserting (γ⁵)² and anticommuting), show that Tr[γ^μγ^νγ^ρ]=0 as well, generalizing the single-gamma-matrix argument to three. |
+| 13 | **Core.** Using the fact (stated in Section 3.1) that a γ⁵ trace with fewer than four other gamma matrices vanishes, state Tr[γ⁵γ^μγ^νγ^ρ]=0 and Tr[γ⁵]=0 as special cases, consistent with Exercise 11's separate argument. |
+| 14 | **Core.** Compute Tr[(p̸+m)(p̸+m)] using Tr[a̸a̸]=4a² (Exercise 3) and Tr[I]=4, and show it equals 4(p²+m²) generally, or 8m² when p is on-shell (p²=m²). |
+| 15 | **Core.** Using P_L+P_R=I, show that any Dirac spinor ψ can be written as ψ=ψ_L+ψ_R with ψ_L=P_Lψ, ψ_R=P_Rψ, and verify P_Lψ_R=0 (a left projector annihilates an already-right-handed spinor), using P_LP_R=0. |
+| 16 | **Challenge.** Using only the Clifford algebra (no explicit representation), evaluate Tr[γ^μγ^νγ^ρa̸] for a general four-vector a by writing a̸=a_σγ^σ and contracting the σ index of the four-gamma trace formula of Section 2.4 with a_σ. Verify the result is Tr[γ^μγ^νγ^ρa̸]=4(g^μνa^ρ−g^μρa^ν+g^νρa^μ), and explain why the odd-trace vanishing rule of Section 2.2 does not apply here even though only three explicit gamma matrices and one slash appear. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** From γ^μa̸=2a^μ−a̸γ^μ, multiply both sides on the left by γ_μ: γ_μγ^μa̸ = 2γ_μa^μ−γ_μa̸γ^μ. Using γ_μγ^μ=4 (Section 1.1) and γ_μa^μ=a̸, the left side is 4a̸, giving 4a̸=2a̸−γ_μa̸γ^μ, so γ_μa̸γ^μ=2a̸−4a̸=−2a̸.
 

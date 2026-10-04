@@ -9,6 +9,10 @@ Every dynamical law in quantum electrodynamics is a differential equation, and e
 
 The treatment is operational. Proofs are sketched only where the idea behind the proof later becomes a calculational tool. Work every example by hand, because the manipulations here, differentiating exponentials, integrating by parts, expanding to first order, and transforming between position and momentum descriptions, are repeated hundreds of times in later lessons. A learner who has met single-variable calculus before should budget eight to twelve focused hours.
 
+BOX: Plain-language start
+This lesson is the calculus toolkit: derivatives say how fast something changes, integrals add up many small pieces, and differential equations say how a system changes from moment to moment. The one function to watch is the exponential: e^(−iωt) is Prologue 4's turning arrow, and it is the solution of the simplest differential equation, 'the rate of change is proportional to the thing itself'.
+ENDBOX
+
 ## Learning objectives
 
 - Differentiate and integrate exponential, trigonometric, and Gaussian functions fluently, including complex exponentials.
@@ -367,24 +371,26 @@ A Feynman amplitude is computed by writing plane waves for external particles, F
 
 @widths 720 9072
 | No | Problem |
-| 1 | Differentiate f(x) = x e^(−x²), g(t) = e^(−γt) cos ωt, and h(x) = ln(1 + x²). |
-| 2 | Show that y = e^(kx) satisfies y‴ = k³y. Find all complex k for which e^(kx) solves y‴ = y, and describe the resulting real solutions. |
-| 3 | Evaluate ∫₀^∞ x² e^(−x) dx by two integrations by parts. |
-| 4 | Evaluate ∫₋∞^∞ e^(−2x² + 3x) dx. |
-| 5 | Using differentiation with respect to a, find ∫₋∞^∞ x⁴ e^(−ax²) dx. |
-| 6 | For φ = xyz, compute ∇φ and ∇²φ, and verify ∇×(∇φ) = 0 component by component. |
-| 7 | For A = (−y, x, 0), compute ∇·A and ∇×A, and interpret the field geometrically. |
-| 8 | Expand 1/(1 − x) and (1 − v²/c²)^(−1/2) to second order in the small quantity. |
-| 9 | Expand cos x to order x⁴ and use the result to estimate cos(0.2) to five decimal places. |
-| 10 | Find the Fourier transform of f(x) = e^(−a\|x\|) for a > 0. |
-| 11 | Show that the transform of f″ is −k² f̃(k). Use this to solve f″ − m²f = −δ(x) in Fourier space, and invert the result using Exercise 10. |
-| 12 | Solve y′ + 3y = 6 with y(0) = 0. |
-| 13 | Solve y″ − 3y′ + 2y = 0 with y(0) = 0 and y′(0) = 1. |
-| 14 | Find a particular solution of the driven oscillator y″ + ω²y = F cos Ωt and discuss what happens as Ω approaches ω. |
-| 15 | Show that φ = e^(i(k·x − ωt)) solves (∂ₜ² − ∇² + m²)φ = 0 exactly when ω² = \|k\|² + m². Then show that F(x − ct) solves the one-dimensional wave equation for any twice differentiable F. |
-| 16 | Challenge: derive the Euler–Lagrange equation for S[y] = ∫ₐᵇ L(y, y′, x) dx, then apply it to L = (1/2)m y′² − V(y) and identify the result. |
+| 1 | **Core.** Differentiate f(x) = x e^(−x²), g(t) = e^(−γt) cos ωt, and h(x) = ln(1 + x²). |
+| 2 | **Extension.** Show that y = e^(kx) satisfies y‴ = k³y. Find all complex k for which e^(kx) solves y‴ = y, and describe the resulting real solutions. |
+| 3 | **Core.** Evaluate ∫₀^∞ x² e^(−x) dx by two integrations by parts. |
+| 4 | **Core.** Evaluate ∫₋∞^∞ e^(−2x² + 3x) dx. |
+| 5 | **Extension.** Using differentiation with respect to a, find ∫₋∞^∞ x⁴ e^(−ax²) dx. |
+| 6 | **Extension.** For φ = xyz, compute ∇φ and ∇²φ, and verify ∇×(∇φ) = 0 component by component. |
+| 7 | **Extension.** For A = (−y, x, 0), compute ∇·A and ∇×A, and interpret the field geometrically. |
+| 8 | **Core.** Expand 1/(1 − x) and (1 − v²/c²)^(−1/2) to second order in the small quantity. |
+| 9 | **Core.** Expand cos x to order x⁴ and use the result to estimate cos(0.2) to five decimal places. |
+| 10 | **Core.** Find the Fourier transform of f(x) = e^(−a\|x\|) for a > 0. |
+| 11 | **Extension.** Show that the transform of f″ is −k² f̃(k). Use this to solve f″ − m²f = −δ(x) in Fourier space, and invert the result using Exercise 10. |
+| 12 | **Core.** Solve y′ + 3y = 6 with y(0) = 0. |
+| 13 | **Core.** Solve y″ − 3y′ + 2y = 0 with y(0) = 0 and y′(0) = 1. |
+| 14 | **Extension.** Find a particular solution of the driven oscillator y″ + ω²y = F cos Ωt and discuss what happens as Ω approaches ω. |
+| 15 | **Extension.** Show that φ = e^(i(k·x − ωt)) solves (∂ₜ² − ∇² + m²)φ = 0 exactly when ω² = \|k\|² + m². Then show that F(x − ct) solves the one-dimensional wave equation for any twice differentiable F. |
+| 16 | **Challenge.** Derive the Euler–Lagrange equation for S[y] = ∫ₐᵇ L(y, y′, x) dx, then apply it to L = (1/2)m y′² − V(y) and identify the result. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** f′ = e^(−x²)(1 − 2x²); g′ = −e^(−γt)(γ cos ωt + ω sin ωt); h′ = 2x/(1 + x²).
 
@@ -418,20 +424,6 @@ A Feynman amplitude is computed by writing plane waves for external particles, F
 
 **16.** Under y → y + εη, δS = ε∫ₐᵇ [(∂L/∂y)η + (∂L/∂y′)η′] dx = ε[(∂L/∂y′)η]ₐᵇ + ε∫ₐᵇ [∂L/∂y − d/dx(∂L/∂y′)] η dx. The boundary term vanishes because η(a) = η(b) = 0, and the integral vanishes for every η only if ∂L/∂y − d/dx(∂L/∂y′) = 0. For L = (1/2)m y′² − V(y), ∂L/∂y′ = m y′ and ∂L/∂y = −V′(y), so m y″ = −V′(y): Newton's second law for a particle in the potential V.
 
-# Mastery checklist
+# Mastery check
 
-- I can differentiate any product or composition of exponentials, powers, and trigonometric functions without hesitation.
-
-- I know that on a plane wave ∂ₓ gives ik and ∂ₜ gives −iω, and I can read a dispersion relation off a linear field equation.
-
-- I can integrate by parts, state the boundary term, and say why it vanishes.
-
-- I can evaluate any Gaussian integral, including ones with a linear term or with polynomial prefactors.
-
-- I can compute gradient, divergence, curl, and Laplacian in Cartesian coordinates and use the two vanishing identities.
-
-- I can expand a function to a stated order in a named small parameter and estimate the first neglected term.
-
-- I can transform a function to wave-number space with the course convention and recognize the delta function when it appears.
-
-- I can solve a linear constant-coefficient ordinary differential equation with the exponential ansatz and fit the initial conditions.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

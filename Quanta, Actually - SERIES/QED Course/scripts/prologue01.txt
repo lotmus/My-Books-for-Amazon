@@ -1,120 +1,201 @@
-TITLE: Photons and Probability Arrows
-TAGLINE: Light arrives in lumps; the only number the theory assigns to a future click is the square of an arrow's length
+TITLE: Light Comes in Lumps, and Each Lump Carries an Arrow
+TAGLINE: No equations yet: a detector that clicks, a stopwatch hand that turns while light travels, and one rule — add the arrows, then square
 NUM: 1
-NEXT: Prologue 2 puts those arrows to work on the first real puzzle: partial reflection from glass, and why two surfaces do not simply add their four percents.
+NEXT: Prologue 2 puts the arrow rule to work on a puzzle you can see in any shop window: glass reflects about 4 photons in 100, yet a thin sheet of glass can reflect anything from none to 16, depending on its thickness.
 
 # How to use this prologue
 
-This opening follows the physics of Richard Feynman's 1985 lectures QED: The Strange Theory of Light and Matter, rewritten in this course's language and without copying that book. No Dirac matrices yet. No Lagrangian. The objects are photons, detectors that click, and arrows whose squared lengths are probabilities. Lesson 1 will name those arrows complex numbers. Expect four to six hours.
+This prologue needs no algebra beyond squaring a number and Pythagoras' theorem. Read it the way you would read about an experiment in a good popular science book, but with a pencil next to you: every few pages there is a short **Try it now** box. Do the box before reading on. The answers are at the end of the prologue, after the exercises.
+
+The approach follows the one Richard Feynman chose for his four public lectures, published in 1985 as *QED: The Strange Theory of Light and Matter*: describe what nature does, with arrows instead of equations, and be honest about what nobody understands. The words and examples here are this course's own. Lesson 1 later turns the same arrows into complex numbers; Prologue 4 builds that bridge gently first. Expect two to three hours.
 
 ## Learning objectives
 
-- State that light is detected as individual photons, each producing at most one click in an ideal detector.
+- Describe the experiment that shows light arriving in identical lumps (photons).
 
-- Distinguish a probability (a real number between 0 and 1) from an amplitude (an arrow in a plane).
+- Explain why physics can only predict the probability of a click, not which photon will click.
 
-- Compute a probability as the square of an arrow's length.
+- Draw the arrow for one way an event can happen, using the stopwatch picture.
 
-- Combine alternative ways an event can happen by adding arrows, then squaring.
+- Combine several ways by adding arrows tip to tail, and turn the final arrow into a probability by squaring its length.
 
-- Identify the rotating of an arrow with the passage of time, at a rate set by the color of the light.
+- Say plainly which parts of this rule are explained and which are simply how nature behaves.
 
-## Notation and conventions
+## Words you will need
 
-@widths 2160 7632
-| Symbol | Meaning |
-| photon | The indivisible lump in which light is detected |
-| arrow | An amplitude: a length and a direction in a plane |
-| P | Probability = (length of the final arrow)² |
-| color | How fast the arrow rotates as time passes |
+@widths 2400 7392
+| Word | What it means here |
+| photon | One lump of light. A detector either registers a whole photon or nothing. |
+| click | One detection. A photomultiplier tube makes an audible click when wired to a speaker. |
+| probability | A number from 0 (never) to 1 (always); 0.04 means 4 times in 100 on average. |
+| arrow | A drawn arrow with a length and a direction. Physicists call it an *amplitude*. |
+| final arrow | The arrow you get after adding all the arrows for an event. |
 
-# 1 Light arrives in lumps
+# 1 An experiment you could almost do at home
 
-A dim source, a photomultiplier, a click. Turn the source down and the clicks do not get quieter; they get rarer. Each click is the same size. That is the experimental fact this course starts from: light is detected in identical lumps, photons. Maxwell's wave picture of Lesson 7, which Prologue 5 will put beside this one, still describes the average of many clicks. It does not describe the click.
+Take the dimmest light you can make: a small lamp behind several sheets of dark filter. Point it at a photomultiplier, a detector so sensitive that it can respond to the smallest possible amount of light, and connect its output to a loudspeaker.
+
+With bright light the speaker makes a steady roar. Add one more filter and you would expect the roar to become a quieter roar. It does not. It breaks up into separate clicks. Add more filters: the clicks become rarer, but each click is exactly as loud as before. Light, when you look closely enough, arrives in identical lumps. The lumps are called photons.
+
+IMG: P1_clicks.png | 5.8 | Figure P1.1. The same detector with a brighter and a dimmer source. Dimming the light makes the clicks rarer, never smaller. Each click is one photon.
+
+The photoelectric effect tells the same story with electricity instead of sound. Shine light on a clean metal plate and electrons come off it. Below a certain colour of light — towards the red — no electrons come off, however bright the lamp. Above that colour they come off at once, one electron for each photon absorbed, and brighter light gives more electrons, not faster ones. A wave pouring energy smoothly onto the metal cannot explain this. Lumps of a fixed size can: each photon of visible light carries roughly two electronvolts, and an electron either receives a whole lump or none. Einstein drew this conclusion in 1905.
+
+BOX: Try it now 1
+A detector records 2000 clicks in a minute. You add a filter that lets one photon in ten through. What do you expect to hear: clicks that are ten times quieter, or about 200 clicks per minute of the same loudness?
+ENDBOX
+
+# 2 The theory predicts chances, not events
+
+Now aim the dim light at a sheet of glass, with one detector in front of the glass to catch reflected light and one behind it to catch light that went through. Out of every 100 photons, about 4 arrive at the front detector and about 96 at the back detector. (We are ignoring the second surface of the glass for the moment; Prologue 2 brings it back.)
+
+Which photons are the 4? Nobody can say. Photons from the same lamp are identical, and nothing about one photon tells you in advance whether it will be reflected. This is not a failure of our instruments. As far as anyone has been able to test, nature itself only fixes the odds. Newton already worried about partial reflection three hundred years ago; he never found a satisfactory reason for it, and neither has anyone since. What we have instead is a rule that predicts the odds exactly.
+
+So the job of the theory — of everything in this course, all the way to Lesson 87 — is to calculate probabilities like 0.04. It does that with arrows.
+
+BOX: Try it now 2
+A probability of 0.04 is predicted for reflection. In a run of 10 000 photons, roughly how many reflections do you expect? If you counted 380 in one run and 415 in the next, would that contradict the prediction?
+ENDBOX
+
+# 3 The stopwatch arrow
+
+Here is the rule, built in three small steps.
+
+**Step 1: each way gets an arrow.** For every way an event can happen — for example, "the photon goes from the lamp to the detector by bouncing off the front of the glass" — you draw one arrow.
+
+**Step 2: the direction comes from a stopwatch.** Imagine a stopwatch with a single hand that starts when the photon leaves the source and spins steadily for as long as the photon travels. When the photon arrives, you stop the watch. The direction the hand points is the direction of the arrow for that way.
+
+IMG: P1_stopwatch.png | 6.0 | Figure P1.2. The imaginary stopwatch. Its hand turns steadily while the photon travels. When the photon arrives, the hand's direction is copied as the arrow for this way. A longer trip means more turning.
+
+The hand spins very fast. For red light it makes one full turn for each wavelength of travel, roughly two-thirds of a thousandth of a millimetre — about one and a half million turns per metre. Blue light turns faster than red: about two and a quarter million turns per metre. So colour, in this picture, is just how fast the stopwatch spins.
+
+**Step 3: the length comes from how likely that way is.** For reflection from the front of glass, the arrow has length 0.2. Why 0.2? Because experiment says one surface reflects 4 photons in 100, and 0.2 × 0.2 = 0.04. (Lesson 9 derives the 0.2 from the way light slows down in glass. For now, take it from experiment.)
+
+And then the rule that turns arrows into something you can measure:
+
+**The probability is the square of the length of the final arrow.**
+
+An arrow of length 0.2 gives 0.2² = 0.04. An arrow of length 0.5 would give 0.25. An arrow of length 1 would give 1: certainty.
+
+BOX: Try it now 3
+(a) An arrow has length 0.3. What probability does it stand for? (b) An event has probability 0.09. How long is its final arrow? (c) Why can no final arrow be longer than 1?
+ENDBOX
+
+# 4 Add the arrows, then square
+
+Usually an event can happen in more than one way. A photon can reach a detector by bouncing off the front of a glass sheet or by bouncing off the back. Our everyday instinct says: add the chances. Nature says something else.
+
+**When an event can happen in several ways that you have no means of telling apart, draw an arrow for each way, add the arrows, and square the length of the final arrow.**
+
+Adding arrows means joining them tip to tail. Put the tail of the second arrow on the tip of the first, without turning it. The final arrow runs from the tail of the first to the tip of the last.
+
+IMG: P1_add.png | 6.2 | Figure P1.3. Adding two arrows of length 0.2. Same direction: final length 0.4, probability 0.16. At right angles: final length about 0.28, probability 0.08. Opposite: final length 0, probability 0.
+
+Look at what this does. Two ways that would each have a probability of 0.04 on their own can together give 0.16 — four times one of them, not twice. Or they can give 0. Or anything in between, depending only on the angle between the arrows. When arrows reinforce each other, physicists say the ways interfere constructively; when they cancel, destructively. This one rule is behind every interference pattern in optics, and behind every calculation in this course.
 
 ### Worked example 1
 
-If a detector covering a screen records 100 clicks in a run, and a small patch of the screen recorded 4 of them, what probability does the theory have to explain? P=4/100=0.04 for a photon that has left the source to be found in that patch. The theory's job is to compute 0.04, not to tell a story about a tiny billiard ball bouncing into the patch.
+Two ways each have an arrow of length 0.2, at right angles to each other. What is the probability?
 
-# 2 Arrows, not percentages, are added
+Put the arrows tip to tail. They form two sides of a right-angled triangle; the final arrow is the hypotenuse. By Pythagoras, its length squared is 0.2² + 0.2² = 0.04 + 0.04 = 0.08. So the probability is 0.08.
 
-When an event can happen in more than one way, you do not add the probabilities of the ways. You draw an arrow for each way, add the arrows tip-to-tail, and square the length of the resultant. Only that last square is a probability.
-
-FIG:
-  way A:  -->           resultant:  -->-->  (if A and B point the same way)
-  way B:  -->           P = (2 × length)²  if the two arrows are equal and aligned
-                        P = 0              if they are equal and opposite
-ENDFIG
-
-Two equal arrows that point the same way double the length and quadruple the probability. Two equal arrows that point opposite ways cancel, and the event does not happen. That is interference, and it is why this course will spend Lesson 1 on complex numbers: an arrow in a plane is a complex number.
-
-## 2.1 Where the direction comes from
-
-For a photon, the arrow associated with a path rotates as time along that path passes. Blue light rotates faster than red. Two paths that take different times arrive with arrows pointing different ways, even if each path, taken alone, would have been perfectly ordinary.
+At right angles, and only at right angles, the arrows' squares simply add. That is why ordinary "add the chances" thinking often looks right: when many arrows point in effectively random directions, the result on average is the same as adding the probabilities. The surprises come when the angles are not random.
 
 ### Worked example 2
 
-A way with arrow length 0.2 has probability 0.04 if it is the only way. A second, independent way of the same length, pointing the same direction, makes a resultant of length 0.4 and P=0.16. The same two ways pointing opposite give P=0. That 0-to-16% range, for two 4% ways, is Prologue 2's glass.
+Arrows of length 0.3 and 0.1 point in the same direction. Then the second is reversed. Compare the two probabilities.
 
-# 3 What this opening is not claiming
+Same direction: final length 0.3 + 0.1 = 0.4, probability 0.16. Reversed: final length 0.3 − 0.1 = 0.2, probability 0.04. Turning one arrow around changed the answer by a factor of four.
 
-The arrows are not little pointers living in space next to the photon. They are the theory's bookkeeping for "how much this way contributes." Lesson 1 will call the length r and the direction e^{iθ}. The path integral of Lesson 80 is the same idea written as an integral over field histories. Nothing in the later algebra replaces the rule: add first, square last.
+BOX: Try it now 4
+Two arrows of length 0.1 each. What are the largest and smallest possible probabilities? What is the probability when they are at right angles?
+ENDBOX
+
+# 5 When not to add arrows
+
+There is one condition in the rule, and it matters: the ways must be impossible to tell apart. If you put a detector on one route that tells you which way the photon went, the situation changes. Now there are two different final events — "went by way A and was seen there" and "went by way B" — and for different final events you add probabilities, not arrows. The interference disappears.
+
+This is the experimental fact behind every famous two-slit argument. It also explains why the arrow rule never shows up in daily life: large objects constantly leave traces of which way they went, so their arrows never get the chance to cancel.
+
+BOX: Try it now 5
+A photon can reach a detector by two routes, each with an arrow of length 0.2 and pointing opposite ways. (a) What is the probability if nothing records the route? (b) If a gentle marker records which route was taken without stopping the photon, what is the probability that the detector clicks?
+ENDBOX
+
+# 6 What has been explained, and what has not
+
+It is worth being clear about the status of this rule. It has not been derived from anything simpler. It is a description of how nature behaves, discovered because every other description failed. Nobody can tell you *why* the probability is the square of an arrow, or *why* the arrows add. What can be said is that the rule has been tested in every situation anyone has thought of, and it has never failed. Feynman's own stance, which this course shares, was that you are not being asked to understand nature in the sense of finding it reasonable, only to see how it behaves.
+
+The rule is also not yet complete. We have arrows for light reflecting from glass because we borrowed the 0.2 from experiment. Prologue 5 shows where such numbers come from: electrons in the glass, and three basic actions out of which everything is built.
 
 # Connections to QED
 
 @widths 3264 6528
-| Result of this prologue | Where it is used |
-| Photons as detected lumps | Lessons 38, 45, 58 |
-| P = (arrow length)² | Lesson 1, \|z\|² = z*z |
-| Add arrows for alternatives | Superposition, Lesson 10; path integral, Lesson 80 |
+| Idea in this prologue | Where it becomes exact |
+| Light comes in photons | Lesson 9 (photon counting) and Lesson 38 (the quantized electromagnetic field) |
+| Arrow = amplitude | Prologue 4 and Lesson 1: an arrow is a complex number |
+| Stopwatch turning | The phase factor e^(−iωt) of Lessons 1, 10 and 12 |
+| Add arrows, then square | Superposition and P = \|amplitude\|² (Lessons 10–11), and every cross section from Lesson 54 on |
+| Distinguishable ways add probabilities | Spin sums and averages from Lesson 54 on |
 
 # Summary
 
-1. Light is detected as photons.
+1. Light is detected in identical lumps, photons; dimmer light means fewer clicks, not smaller ones.
 
-2. A probability is the square of an arrow's length.
+2. Physics predicts only the probability of a click.
 
-3. Alternative ways add as arrows, not as probabilities.
+3. Each way an event can happen gets an arrow. Its direction comes from a stopwatch that turns while the photon travels; its length comes from how likely that way is.
 
-4. An arrow's direction records time along a path, at a rate set by color.
-
-5. Maxwell's wave language is postponed to Prologue 5 as an alternative for many photons, not as a replacement for the click.
+4. For ways that cannot be told apart: add the arrows tip to tail, then square the length of the final arrow. For ways that can be told apart, add the probabilities.
 
 # Exercises
 
+Each exercise is labelled **Core** (needed to follow the next prologue), **Extension** (deepens the idea) or **Challenge** (stretches it).
+
 @widths 720 9072
 | No | Problem |
-| 1 | Why do dimmer sources produce rarer clicks rather than smaller ones? |
-| 2 | If an arrow has length 1/2, what is P? |
-| 3 | Two arrows of length 1/2, aligned: P? Opposite: P? |
-| 4 | Why is "the photon went this way or that way, so add 4%+4%" the wrong rule? |
-| 5 | What physical quantity sets how fast an arrow rotates? |
-| 6 | Connect an arrow to a complex number in one sentence, previewing Lesson 1. |
-| 7 | When would Maxwell's Poynting-vector energy flux of Lesson 7 be the right language? |
-| 8 | Challenge: three equal arrows at 120° to each other. What is P? |
+| 1 | **Core.** Convert these arrow lengths to probabilities: 0.1, 0.2, 0.5, 0.7, 1. |
+| 2 | **Core.** Convert these probabilities to arrow lengths: 0.01, 0.04, 0.36, 0.5. |
+| 3 | **Core.** Two arrows of length 0.2 point the same way. A third arrow of length 0.2 points the opposite way. What is the final probability? |
+| 4 | **Core.** A dim source sends 50 photons per second at a glass surface that reflects with probability 0.04. How many reflected clicks do you expect in one minute? |
+| 5 | **Core.** Arrows of length 0.3 and 0.4 are at right angles. Find the final length and the probability. |
+| 6 | **Extension.** Red light makes about 1.5 million stopwatch turns per metre of travel. How many turns does the hand make while the light crosses 3 mm of air? Why does the exact number of whole turns not matter for the arrow's direction? |
+| 7 | **Extension.** Two ways have arrows of length 0.2 and 0.1. Find the largest and smallest possible probabilities and explain in one sentence why neither equals 0.04 + 0.01 = 0.05. |
+| 8 | **Extension.** Four arrows of length 0.1 point north, east, south and west. What is the probability? What does this suggest about many arrows pointing in all directions? |
+| 9 | **Challenge.** Many arrows of length 0.1 each point in random directions. Explain, using the right-angle result of Worked example 1, why the average probability is about (number of arrows) × 0.01, as if the probabilities simply added. |
+| 10 | **Challenge.** Explain why a which-way marker on one route destroys interference, even if it does not slow or deflect the photon at all. |
 
 # Solutions
 
-**1.** Each photon is identical; intensity is a rate of arrivals.
+Try each exercise on paper before you look. If you are stuck, re-read the section named in the exercise, try again, and only then read the solution below.
 
-**2.** (1/2)²=1/4.
+**1.** Square each length: 0.01, 0.04, 0.25, 0.49, 1.
 
-**3.** Aligned: length 1, P=1. Opposite: length 0, P=0.
+**2.** Take square roots: 0.1, 0.2, 0.6, and about 0.71 (because 0.71² ≈ 0.50).
 
-**4.** Probabilities of alternatives are not additive when the alternatives are not distinguished by the experiment. Amplitudes are.
+**3.** The two aligned arrows make 0.4; the opposite arrow takes away 0.2, leaving 0.2. Probability 0.2² = 0.04.
 
-**5.** The color (frequency) of the light.
+**4.** In one minute 50 × 60 = 3000 photons arrive; 0.04 × 3000 = 120 reflected clicks, give or take the natural scatter of about ±11.
 
-**6.** Length and direction in a plane are the modulus and argument of a complex number.
+**5.** Pythagoras: final length √(0.09 + 0.16) = √0.25 = 0.5. Probability 0.25.
 
-**7.** When so many photons arrive that only averages matter: radio waves, sunlight on a solar cell's power output, Lesson 7's energy density.
+**6.** 3 mm is 0.003 m, so about 1.5 × 10⁶ × 0.003 = 4500 turns. Only the leftover part of a turn changes the direction; a whole number of turns brings the hand back where it started. That is why tiny differences in path length matter so much: a change of a fraction of a wavelength changes the leftover angle.
 
-**8.** They form a closed triangle; resultant length 0; P=0.
+**7.** Largest: aligned, length 0.3, probability 0.09. Smallest: opposite, length 0.1, probability 0.01. Probabilities of ways that cannot be told apart do not add; arrows do, and the result depends on the angle.
 
-# Mastery checklist
+**8.** North and south cancel, east and west cancel: final length 0, probability 0. Many arrows spread evenly over all directions tend to cancel each other.
 
-- I can state that a click is a photon and that P is (arrow length)².
+**9.** Add the arrows one at a time. A random new arrow is just as likely to point partly along the arrow you already have as partly against it. The gain and the loss balance on average, so on average the squares simply add, exactly as they do at right angles. Each new arrow therefore adds about 0.1² = 0.01 to the probability. For N arrows the average is about N × 0.01 — the same as adding probabilities. Random angles wash out interference.
 
-- I can add arrows for undistinguished alternatives and then square.
+**10.** The marker makes the two routes distinguishable: the final situations "photon at detector, marker says A" and "photon at detector, marker says B" are different events. The rule adds arrows only for ways that end in the same final situation, so with the marker you add probabilities, and the cancelling disappears. It is the information, not a push, that matters.
 
-- I know Maxwell is coming in Prologue 5 as the many-photon alternative, not as the first language of this book.
+# Answers to Try it now
+
+**1.** About 200 clicks per minute, each as loud as before. A filter removes photons; it cannot make a photon smaller.
+
+**2.** About 0.04 × 10 000 = 400. Counts of 380 and 415 are normal scatter (roughly ±20 for 400 expected), so they agree with the prediction.
+
+**3.** (a) 0.09. (b) 0.3. (c) A probability cannot exceed 1, and the probability is the length squared.
+
+**4.** Largest: aligned, length 0.2, probability 0.04. Smallest: opposite, length 0, probability 0. At right angles: 0.01 + 0.01 = 0.02.
+
+**5.** (a) The arrows cancel: probability 0. (b) Now the routes are distinguishable, so probabilities add: 0.04 + 0.04 = 0.08.

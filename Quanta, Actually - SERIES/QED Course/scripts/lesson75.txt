@@ -34,14 +34,14 @@ Lesson 74 quoted one result and promised its derivation: the probability that a 
 
 The vertex is ieγ^μ, as in Lesson 45. Natural units, metric diag(+1, −1, −1, −1). In display equations, square brackets enclose function arguments and visible groupings.
 
+BOX: First pass: the result before the derivation
+Soft photons are emitted with the universal factor e[p′·ε/p′·k − p·ε/p·k]; their emission probability cancels the virtual infrared divergence.
+Every deflected charge radiates a cloud of soft photons; only the resolution ΔE survives in predictions.
+ENDBOX
+
 # 1 The soft factor
 
-FIG:
-   p ──────►●══════► p′+k        p ─────►══════●──────► p′
-            ‖ hard ╲                       hard ‖  ╲
-            ‖       γ(k)              p−k  ‖     γ(k)
-   emission after the hard process     emission before it
-ENDFIG
+IMG: L75_soft.png | 6.0 | Figure 75.1. Soft-photon emission from external legs. The factor e(p·ε/p·k) multiplies the non-radiative amplitude, independently of the hard process.
 
 ## 1.1 Emission after the collision
 
@@ -195,21 +195,23 @@ This lesson derived the soft factor and the single-emission probability. It quot
 
 @widths 720 9072
 | No | Problem |
-| 1 | Show that (p′ + k)² − m² = 2p′·k for p′² = m² and k² = 0. |
-| 2 | Derive the outgoing-emission factor −e p′·ε*/(p′·k), keeping track of every factor of i. |
-| 3 | Derive the incoming-emission factor +e p·ε*/(p·k). |
-| 4 | Fourier transform the classical current of a charge with velocity v for t < 0 and v′ for t > 0, inserting e^(∓εt) for convergence, and obtain Section 2.2. |
-| 5 | Collect the factors in dP: e², the phase space d³k/((2π)³2|k|), and d³k = |k|²d|k|dΩ. Show that the prefactor is α/π when the angular integral is written as ∫dΩ/4π. |
-| 6 | Show that I(p, p) = 0, so that no radiation is emitted without a deflection. |
-| 7 | In the nonrelativistic limit, show that I ≈ (2/3)|v′ − v|², and compare with Lesson 74's f_IR ≈ Q²/(3m²). |
-| 8 | For a fast electron, show that p·k̂ = E(1 − |v|cos θ) is of order E(m²/E² + θ²)/2 at small θ, and explain why this produces the collinear logarithm. |
-| 9 | Show that for two soft photons emitted from one outgoing line, the sum over the two orderings gives the product of two single-photon factors, using 1/(p·k₁)(p·(k₁+k₂)) + 1/(p·k₂)(p·(k₁+k₂)) = 1/((p·k₁)(p·k₂)). |
-| 10 | For n̄ = 0.32, compute the probabilities of emitting 0, 1, and 2 photons in the range. |
-| 11 | Repeat Worked example 3 for photons between 1 keV and 10 MeV. |
-| 12 | Expand the Sudakov exponential to first order and recover Lesson 74's one-loop measured cross section. |
-| 13 | Challenge: why does the soft factor not depend on the spin of the charged particle, while the next term in the expansion in k does? Which property of the particle would you expect to appear at that order? |
+| 1 | **Core.** Show that (p′ + k)² − m² = 2p′·k for p′² = m² and k² = 0. |
+| 2 | **Extension.** Derive the outgoing-emission factor −e p′·ε*/(p′·k), keeping track of every factor of i. |
+| 3 | **Extension.** Derive the incoming-emission factor +e p·ε*/(p·k). |
+| 4 | **Extension.** Fourier transform the classical current of a charge with velocity v for t < 0 and v′ for t > 0, inserting e^(∓εt) for convergence, and obtain Section 2.2. |
+| 5 | **Core.** Collect the factors in dP: e², the phase space d³k/((2π)³2|k|), and d³k = |k|²d|k|dΩ. Show that the prefactor is α/π when the angular integral is written as ∫dΩ/4π. |
+| 6 | **Core.** Show that I(p, p) = 0, so that no radiation is emitted without a deflection. |
+| 7 | **Core.** In the nonrelativistic limit, show that I ≈ (2/3)|v′ − v|², and compare with Lesson 74's f_IR ≈ Q²/(3m²). |
+| 8 | **Extension.** For a fast electron, show that p·k̂ = E(1 − |v|cos θ) is of order E(m²/E² + θ²)/2 at small θ, and explain why this produces the collinear logarithm. |
+| 9 | **Extension.** Show that for two soft photons emitted from one outgoing line, the sum over the two orderings gives the product of two single-photon factors, using 1/(p·k₁)(p·(k₁+k₂)) + 1/(p·k₂)(p·(k₁+k₂)) = 1/((p·k₁)(p·k₂)). |
+| 10 | **Core.** For n̄ = 0.32, compute the probabilities of emitting 0, 1, and 2 photons in the range. |
+| 11 | **Extension.** Repeat Worked example 3 for photons between 1 keV and 10 MeV. |
+| 12 | **Core.** Expand the Sudakov exponential to first order and recover Lesson 74's one-loop measured cross section. |
+| 13 | **Challenge.** Why does the soft factor not depend on the spin of the charged particle, while the next term in the expansion in k does? Which property of the particle would you expect to appear at that order? |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** (p′ + k)² − m² = p′² + 2p′·k + k² − m² = 2p′·k.
 
@@ -237,14 +239,6 @@ This lesson derived the soft factor and the single-emission probability. It quot
 
 **13.** At leading order, a soft photon has too long a wavelength to resolve anything but the total charge, so the factor depends only on charge and momentum. At the next order in k, the photon begins to resolve the current's structure, and the magnetic moment appears, which depends on spin. Lesson 76 computes how loops change that moment.
 
-# Mastery checklist
+# Mastery check
 
-- I can derive the soft factor for incoming and outgoing lines with all factors of i.
-
-- I can show that it satisfies the Ward identity and explain why it is universal.
-
-- I can relate it to the classical current of a deflected charge.
-
-- I can derive dP = (α/π)(d|k|/|k|)I and use I = 2f_IR to cancel Lesson 74's divergence.
-
-- I can explain Poisson emission and Sudakov exponentiation, and compute a mean photon number.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

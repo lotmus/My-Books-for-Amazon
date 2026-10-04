@@ -271,24 +271,26 @@ It did not prove the exponentiation of connected diagrams beyond the counting ar
 
 @widths 720 9072
 | No | Problem |
-| 1 | Derive Z(j) = Z(0)e^{½jA⁻¹j} by shifting x, and state what property of the measure is used. |
-| 2 | From e^{j²/2a}, find ⟨x⁸⟩ and check that it equals the number of pairings of eight objects divided by a⁴. |
-| 3 | Show that −iδ/δJ(x) acting on exp(i∫Jφ) brings down φ(x). |
-| 4 | Complete the square for ½φKφ + Jφ and show that Z₀[J] = Z₀[0]exp(−½∫JD_FJ), given D_F = iK⁻¹. |
-| 5 | Differentiate Z₀[J] twice and confirm ⟨Tφ(x)φ(y)⟩ = D_F(x − y), keeping every factor of i. |
-| 6 | How many terms does the free six-point function have, and why? |
-| 7 | For a static source J(x) = gδ³(x), show that the time integrals in ∫JD_FJ give 2πδ(k⁰) times T. |
-| 8 | Evaluate ∫d³k e^{ik·r}/(2π)³(|k|² + m²) = e^{−mr}/4πr by doing the angular integral and closing the contour. |
-| 9 | Two scalar sources, g each, at 1 fm, exchange a pion. Find the energy in MeV for g²/4π = 14. |
-| 10 | Explain why the gauge-dependent k^μk^ν term of the photon propagator does not contribute to ∫jDj for a conserved current. |
-| 11 | Show that Re[i/(x + iε)] = πδ(x), and use it to derive n̄ from Re∫JD_FJ. |
-| 12 | Show that W is additive for two decoupled fields, and interpret the result. |
-| 13 | Derive ⟨φ⟩_J = δW/δJ, and show that for the free field it solves (∂² + m²)φ = J. |
-| 14 | In the zero-dimensional model, compute ⟨x²⟩_c and ⟨x⁴⟩_c at first order, and confirm that ⟨x⁴⟩_c = −λ. |
-| 15 | In the single-mode Grassmann example, show that the derivatives in the opposite order give −1/a. |
-| 16 | Challenge: show that W₀[J] contains −i log det K for the Dirac field, and explain why this is a sum of closed loops with a factor −1 each relative to a boson. |
+| 1 | **Extension.** Derive Z(j) = Z(0)e^{½jA⁻¹j} by shifting x, and state what property of the measure is used. |
+| 2 | **Extension.** From e^{j²/2a}, find ⟨x⁸⟩ and check that it equals the number of pairings of eight objects divided by a⁴. |
+| 3 | **Core.** Show that −iδ/δJ(x) acting on exp(i∫Jφ) brings down φ(x). |
+| 4 | **Core.** Complete the square for ½φKφ + Jφ and show that Z₀[J] = Z₀[0]exp(−½∫JD_FJ), given D_F = iK⁻¹. |
+| 5 | **Extension.** Differentiate Z₀[J] twice and confirm ⟨Tφ(x)φ(y)⟩ = D_F(x − y), keeping every factor of i. |
+| 6 | **Core.** How many terms does the free six-point function have, and why? |
+| 7 | **Core.** For a static source J(x) = gδ³(x), show that the time integrals in ∫JD_FJ give 2πδ(k⁰) times T. |
+| 8 | **Extension.** Evaluate ∫d³k e^{ik·r}/(2π)³(|k|² + m²) = e^{−mr}/4πr by doing the angular integral and closing the contour. |
+| 9 | **Extension.** Two scalar sources, g each, at 1 fm, exchange a pion. Find the energy in MeV for g²/4π = 14. |
+| 10 | **Core.** Explain why the gauge-dependent k^μk^ν term of the photon propagator does not contribute to ∫jDj for a conserved current. |
+| 11 | **Extension.** Show that Re[i/(x + iε)] = πδ(x), and use it to derive n̄ from Re∫JD_FJ. |
+| 12 | **Core.** Show that W is additive for two decoupled fields, and interpret the result. |
+| 13 | **Extension.** Derive ⟨φ⟩_J = δW/δJ, and show that for the free field it solves (∂² + m²)φ = J. |
+| 14 | **Core.** In the zero-dimensional model, compute ⟨x²⟩_c and ⟨x⁴⟩_c at first order, and confirm that ⟨x⁴⟩_c = −λ. |
+| 15 | **Core.** In the single-mode Grassmann example, show that the derivatives in the opposite order give −1/a. |
+| 16 | **Challenge.** Show that W₀[J] contains −i log det K for the Dirac field, and explain why this is a sum of closed loops with a factor −1 each relative to a boson. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** With x = y + A⁻¹j, −½xᵀAx + jᵀx = −½yᵀAy + ½jᵀA⁻¹j, using the symmetry of A. The measure dⁿx = dⁿy is invariant under translation.
 
@@ -322,18 +324,6 @@ It did not prove the exponentiation of connected diagrams beyond the counting ar
 
 **16.** Z₀[0] = ∫Dψ̄Dψ e^{iψ̄Kψ} ∝ det K, so W₀[0] = −i log det K + constant = −i Tr log K. For a boson, Z₀[0] ∝ (det K)^{−1/2} for a real field or (det K)^{−1} for a complex one, so the sign of Tr log is reversed. Expanding Tr log(K₀ + V) in powers of V gives Tr[(K₀⁻¹V)ⁿ]/n with alternating signs, a closed loop with n insertions of the external field.
 
-# Mastery checklist
+# Mastery check
 
-- I can derive moments and Wick's theorem from a generating function.
-
-- I can define Z[J] and write any correlator as functional derivatives, with the right factors of i.
-
-- I can complete the square to obtain Z₀[J] in terms of D_F.
-
-- I can derive the Yukawa and Coulomb energies from Z = e^{−iET}, and explain the sign difference between spin 0 and spin 1.
-
-- I can relate |Z|² to the probability of emitting no quanta.
-
-- I can explain why W = −i log Z generates connected correlators and why δW/δJ is the classical field.
-
-- I can handle Grassmann sources and the ordering of their derivatives.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

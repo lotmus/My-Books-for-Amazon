@@ -33,6 +33,11 @@ Lessons 46 and 47 built the scalar and electron propagators by the same two-step
 | k̂ = k/\|k\| | Unit vector along the photon's three-momentum |
 | δ^ij−k̂^ik̂^j | Transverse projector, Lesson 38 |
 
+BOX: First pass: the result before the derivation
+The photon propagator is D_F^μν(k) = −ig^μν/(k² + iε) in Feynman gauge; the Coulomb-gauge form gives the same physical answers.
+Gauge choice changes the propagator, not the predictions; Lessons 71–73 prove this in general.
+ENDBOX
+
 # 1 The photon two-point function
 
 ## 1.1 Constructing D^ij(x−y)
@@ -103,6 +108,8 @@ Comparing D_F^ij(k)'s denominator, k²+iε, with Δ_F(k)'s k²−m²+iε (Lesson
 
 For calculations, this course uses the covariant object
 
+IMG: L48_photon.png | 4.2 | Figure 48.1. The Feynman-gauge photon propagator −ig_μν/(k² + iε): a wavy line, no arrow.
+
 $$ D_F^(μν)(k) = − i g^(μν) / (k²+iε)
 
 a single, Lorentz-covariant expression with no explicit projector, treating all four components of A_μ on an equal footing.
@@ -149,24 +156,26 @@ Lesson 49 collects this propagator, the electron propagator of Lesson 47, and th
 
 @widths 720 9072
 | No | Problem |
-| 1 | Write out A^i(x)'s mode expansion in the style of Lesson 38 and use ⟨0\|A^i(x)\|k,λ⟩=ε_λ^i(k)e^(−ikx) to derive Section 1.1's formula for D^ij(x−y), showing each step. |
-| 2 | Substitute the transverse polarization sum Σ_λε_λ^iε_λ^j=δ^ij−k̂^ik̂^j into the result of Exercise 1 to obtain D^ij(x−y)=∫d³k/((2π)³2ω)(δ^ij−k̂^ik̂^j)e^(−ik(x−y)). |
-| 3 | Explain, referring to Worked example 1, why the photon's status as its own antiparticle means D^ij(y−x) uses the identical polarization sum as D^ij(x−y), only with x and y exchanged. |
-| 4 | State the bosonic time-ordering definition for D_F^ij(x−y) and explain, citing Lesson 47, Section 1.1, why no extra minus sign appears here. |
-| 5 | Explain, referencing Lesson 38's A⁰=0 gauge choice, why this lesson's construction treats only A^i, and state what additional ingredient a fully covariant treatment would need. |
-| 6 | Verify □_xe^(−ik(x−y))=−k²e^(−ik(x−y)) for k²=(k⁰)²−\|k\|², following the method of Lesson 46, Exercise 9, adapted to the massless case. |
-| 7 | Apply □_x to the proposed D_F^ij(k) of Section 3.1 and show it reduces to −i∫d⁴k/(2π)⁴(δ^ij−k̂^ik̂^j)k²/(k²+iε)e^(−ik(x−y)), paralleling Lesson 46, Exercise 10. |
-| 8 | Explain why k²/(k²+iε)→1 as ε→0⁺ away from the pole, as in Lesson 46, Exercise 11, and use this to simplify Exercise 7's result. |
-| 9 | Separate the k⁰ integral from Exercise 8's result and show ∫dk⁰/(2π)e^(−ik⁰(x⁰−y⁰))=δ(x⁰−y⁰). |
-| 10 | Explain why the remaining three-dimensional integral, ∫d³k/(2π)³(δ^ij−k̂^ik̂^j)e^(ik·(x−y)), is not simply proportional to δ³(x−y), identifying which factor is responsible. |
-| 11 | Compare the pole structure of D_F^ij(k) (denominator k²+iε) with S_F(p) (denominator p²−m²+iε, Lesson 47) and Δ_F(k) (denominator k²−m²+iε, Lesson 46), and state what setting m=0 in the latter two would give. |
-| 12 | Write down D_F^μν(k)=−ig^μν/(k²+iε) and identify its μ=ν=0 (timelike) component, −ig⁰⁰/(k²+iε), evaluating g⁰⁰ from this course's metric convention. |
-| 13 | Using g^ij=−δ^ij, show that the spatial block of −ig^μν is iδ^ij, and compute its difference from Section 3.1's i(δ^ij−k̂^ik̂^j), confirming the difference is ik̂^ik̂^j. |
-| 14 | Explain, citing Lesson 42, Section 5, why a term proportional to k^μ in a propagator's numerator, contracted with the electron current j^μ(k) at a vertex, gives zero. |
-| 15 | State, in one sentence, the practical calculational advantage of using D_F^μν(k)=−ig^μν/(k²+iε) throughout, rather than tracking the transverse projector at every internal photon line. |
-| 16 | Challenge: explain what Section 4.3's argument assumes about current conservation that has not yet been verified at the level of a full quantum scattering amplitude, and name the lesson that supplies the missing verification. |
+| 1 | **Extension.** Write out A^i(x)'s mode expansion in the style of Lesson 38 and use ⟨0\|A^i(x)\|k,λ⟩=ε_λ^i(k)e^(−ikx) to derive Section 1.1's formula for D^ij(x−y), showing each step. |
+| 2 | **Core.** Substitute the transverse polarization sum Σ_λε_λ^iε_λ^j=δ^ij−k̂^ik̂^j into the result of Exercise 1 to obtain D^ij(x−y)=∫d³k/((2π)³2ω)(δ^ij−k̂^ik̂^j)e^(−ik(x−y)). |
+| 3 | **Extension.** Explain, referring to Worked example 1, why the photon's status as its own antiparticle means D^ij(y−x) uses the identical polarization sum as D^ij(x−y), only with x and y exchanged. |
+| 4 | **Core.** State the bosonic time-ordering definition for D_F^ij(x−y) and explain, citing Lesson 47, Section 1.1, why no extra minus sign appears here. |
+| 5 | **Extension.** Explain, referencing Lesson 38's A⁰=0 gauge choice, why this lesson's construction treats only A^i, and state what additional ingredient a fully covariant treatment would need. |
+| 6 | **Core.** Verify □_xe^(−ik(x−y))=−k²e^(−ik(x−y)) for k²=(k⁰)²−\|k\|², following the method of Lesson 46, Exercise 9, adapted to the massless case. |
+| 7 | **Core.** Apply □_x to the proposed D_F^ij(k) of Section 3.1 and show it reduces to −i∫d⁴k/(2π)⁴(δ^ij−k̂^ik̂^j)k²/(k²+iε)e^(−ik(x−y)), paralleling Lesson 46, Exercise 10. |
+| 8 | **Core.** Explain why k²/(k²+iε)→1 as ε→0⁺ away from the pole, as in Lesson 46, Exercise 11, and use this to simplify Exercise 7's result. |
+| 9 | **Core.** Separate the k⁰ integral from Exercise 8's result and show ∫dk⁰/(2π)e^(−ik⁰(x⁰−y⁰))=δ(x⁰−y⁰). |
+| 10 | **Extension.** Explain why the remaining three-dimensional integral, ∫d³k/(2π)³(δ^ij−k̂^ik̂^j)e^(ik·(x−y)), is not simply proportional to δ³(x−y), identifying which factor is responsible. |
+| 11 | **Extension.** Compare the pole structure of D_F^ij(k) (denominator k²+iε) with S_F(p) (denominator p²−m²+iε, Lesson 47) and Δ_F(k) (denominator k²−m²+iε, Lesson 46), and state what setting m=0 in the latter two would give. |
+| 12 | **Core.** Write down D_F^μν(k)=−ig^μν/(k²+iε) and identify its μ=ν=0 (timelike) component, −ig⁰⁰/(k²+iε), evaluating g⁰⁰ from this course's metric convention. |
+| 13 | **Core.** Using g^ij=−δ^ij, show that the spatial block of −ig^μν is iδ^ij, and compute its difference from Section 3.1's i(δ^ij−k̂^ik̂^j), confirming the difference is ik̂^ik̂^j. |
+| 14 | **Extension.** Explain, citing Lesson 42, Section 5, why a term proportional to k^μ in a propagator's numerator, contracted with the electron current j^μ(k) at a vertex, gives zero. |
+| 15 | **Extension.** State, in one sentence, the practical calculational advantage of using D_F^μν(k)=−ig^μν/(k²+iε) throughout, rather than tracking the transverse projector at every internal photon line. |
+| 16 | **Challenge.** Explain what Section 4.3's argument assumes about current conservation that has not yet been verified at the level of a full quantum scattering amplitude, and name the lesson that supplies the missing verification. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** A^i(x)=∫d³k/(2π)³(2ω)^(−1/2)Σ_λ[ε_λ^i(k)a_λ(k)e^(−ikx)+ε_λ^i(k)a_λ†(k)e^(ikx)] (Lesson 38's mode expansion, with real ε_λ^i since the photon is its own antiparticle). Sandwiching ⟨0|A^i(x)A^j(y)|0⟩, only the a_λ(k)-a_λ†(k′) term survives (the a_λ† piece of A^i(x) annihilates against ⟨0| and the a_λ piece of A^j(y) annihilates |0⟩ directly, leaving only the cross term), giving, after using [a_λ(k),a_λ′†(k′)]=(2π)³δ³(k−k′)δ_λλ′ to collapse one momentum integral, D^ij(x−y)=∫d³k/((2π)³2ω)Σ_λε_λ^i(k)ε_λ^j(k)e^(−ik(x−y)).
 
@@ -200,14 +209,6 @@ Lesson 49 collects this propagator, the electron propagator of Lesson 47, and th
 
 **16.** Section 4.3's argument assumes that the current j^μ(k) appearing at a given vertex inside a full scattering amplitude satisfies k_μj^μ(k)=0 exactly, treating the vertex as if it were simply the classical, conserved current of Lesson 42; it has not verified that this conservation survives intact once the vertex is embedded in a complete quantum-mechanical amplitude built from the perturbative machinery of Lesson 50 onward, including any subtleties from how internal lines and other vertices in the same diagram interact with it. This more complete verification, stated as the Ward identity, is supplied by Lesson 72.
 
-# Mastery checklist
+# Mastery check
 
-- I can construct D^ij(x−y) from Lesson 38's mode expansion and the transverse polarization sum.
-
-- I can time-order it to obtain D_F^ij(x−y), explaining why no extra sign is needed.
-
-- I can verify, in momentum space, that D_F^ij(k)=i(δ^ij−k̂^ik̂^j)/(k²+iε) has the expected Green's function property as ε→0⁺.
-
-- I can state the covariant Feynman-gauge propagator D_F^μν(k)=−ig^μν/(k²+iε) and compare its spatial block to the Coulomb-gauge result.
-
-- I can give the current-conservation argument for why the difference between the two propagators should not affect physical amplitudes, and state what is still missing from that argument.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

@@ -238,24 +238,26 @@ The Euler–Lagrange equations of this lesson are classical field equations. In 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Derive the Euler–Lagrange equation for a field from δS = 0, identifying the boundary term that is discarded and the condition on δφ that allows it to be discarded. |
-| 2 | For ℒ = (1/2)∂_μφ₁∂^μφ₁ + (1/2)∂_μφ₂∂^μφ₂ − (1/2)m₁²φ₁² − (1/2)m₂²φ₂² − (g/2)φ₁φ₂², derive the equations of motion for φ₁ and φ₂. |
-| 3 | For the real scalar field, write ℒ = (1/2)φ̇² − (1/2)(∂ᵢφ)² − (1/2)m²φ² and evaluate ∂ℒ/∂φ̇ and ∂ℒ/∂(∂ᵢφ), then obtain the Klein–Gordon equation from the component form of the Euler–Lagrange equation. |
-| 4 | For the φ⁴ theory, derive (□ + m²)φ = −(λ/6)φ³ and show that φ = constant is a solution only if the constant satisfies m²φ + (λ/6)φ³ = 0. |
-| 5 | For the complex scalar field, derive the equations for φ and φ* by varying φ* and φ respectively, and explain why the two variations are independent. |
-| 6 | Derive the adjoint Dirac equation −i(∂_μψ̄)γ^μ − mψ̄ = 0 by varying ψ in ℒ = ψ̄(iγ^μ∂_μ − m)ψ. |
-| 7 | For the Yukawa theory of Worked example 3, verify the two equations of motion and identify the source of each field. |
-| 8 | Show that ∂(F_αβF^(αβ))/∂(∂_μA_ν) = 4F^(μν) by writing F_αβF^(αβ) = 2∂_αA_β∂^αA^β − 2∂_αA_β∂^βA^α and differentiating each term. |
-| 9 | Using F₀ᵢ = Eᵢ and Fᵢⱼ = −εᵢⱼₖBₖ, show that the ν = i component of ∂_μF^(μν) = j^ν gives ∇×B − ∂_tE = j. |
-| 10 | Show that ∂_ν∂_μF^(μν) = 0 for any antisymmetric F^(μν) with smooth components, and conclude that ∂_νj^ν = 0. |
-| 11 | Show that ∂_μF^(μν) = □A^ν − ∂^ν(∂_μA^μ), and conclude that in the Lorenz gauge ∂_μA^μ = 0 the Maxwell equation reduces to □A^ν = j^ν. |
-| 12 | For the scalar Hamiltonian density, compute δH/δφ and δH/δπ, write Hamilton's equations, and eliminate π to recover the Klein–Gordon equation. |
-| 13 | Verify that (−∇² + m²)(e^(−mr)/r) = 0 for r > 0, and compute the range ℏc/(mc²) for m = 139.6 MeV using ℏc = 197.3 MeV fm. |
-| 14 | Show that the equation (□ + m²)φ = J for a static source J(x) reduces to (−∇² + m²)φ = J, and find the solution for a source J = g₁δ³(x − x₁) + g₂δ³(x − x₂) as a sum of two Yukawa functions. |
-| 15 | Explain what would be added to the derivation of Section 1 if the variation δφ did not vanish on the boundary of Ω, and why the field equation itself is unaffected. |
-| 16 | Challenge: for static sources J, show that the field energy H = ∫d³x[(1/2)(∇φ)² + (1/2)m²φ² − Jφ] evaluated on the solution equals −(1/2)∫d³x Jφ, and use the two-source solution of Exercise 14 to show that the interaction energy of the two sources is −g₁g₂e^(−mr)/(4πr) with r = \|x₁ − x₂\|. Explain why this means a scalar field attracts like sources. |
+| 1 | **Extension.** Derive the Euler–Lagrange equation for a field from δS = 0, identifying the boundary term that is discarded and the condition on δφ that allows it to be discarded. |
+| 2 | **Core.** For ℒ = (1/2)∂_μφ₁∂^μφ₁ + (1/2)∂_μφ₂∂^μφ₂ − (1/2)m₁²φ₁² − (1/2)m₂²φ₂² − (g/2)φ₁φ₂², derive the equations of motion for φ₁ and φ₂. |
+| 3 | **Core.** For the real scalar field, write ℒ = (1/2)φ̇² − (1/2)(∂ᵢφ)² − (1/2)m²φ² and evaluate ∂ℒ/∂φ̇ and ∂ℒ/∂(∂ᵢφ), then obtain the Klein–Gordon equation from the component form of the Euler–Lagrange equation. |
+| 4 | **Core.** For the φ⁴ theory, derive (□ + m²)φ = −(λ/6)φ³ and show that φ = constant is a solution only if the constant satisfies m²φ + (λ/6)φ³ = 0. |
+| 5 | **Extension.** For the complex scalar field, derive the equations for φ and φ* by varying φ* and φ respectively, and explain why the two variations are independent. |
+| 6 | **Extension.** Derive the adjoint Dirac equation −i(∂_μψ̄)γ^μ − mψ̄ = 0 by varying ψ in ℒ = ψ̄(iγ^μ∂_μ − m)ψ. |
+| 7 | **Extension.** For the Yukawa theory of Worked example 3, verify the two equations of motion and identify the source of each field. |
+| 8 | **Extension.** Show that ∂(F_αβF^(αβ))/∂(∂_μA_ν) = 4F^(μν) by writing F_αβF^(αβ) = 2∂_αA_β∂^αA^β − 2∂_αA_β∂^βA^α and differentiating each term. |
+| 9 | **Core.** Using F₀ᵢ = Eᵢ and Fᵢⱼ = −εᵢⱼₖBₖ, show that the ν = i component of ∂_μF^(μν) = j^ν gives ∇×B − ∂_tE = j. |
+| 10 | **Extension.** Show that ∂_ν∂_μF^(μν) = 0 for any antisymmetric F^(μν) with smooth components, and conclude that ∂_νj^ν = 0. |
+| 11 | **Core.** Show that ∂_μF^(μν) = □A^ν − ∂^ν(∂_μA^μ), and conclude that in the Lorenz gauge ∂_μA^μ = 0 the Maxwell equation reduces to □A^ν = j^ν. |
+| 12 | **Core.** For the scalar Hamiltonian density, compute δH/δφ and δH/δπ, write Hamilton's equations, and eliminate π to recover the Klein–Gordon equation. |
+| 13 | **Core.** Verify that (−∇² + m²)(e^(−mr)/r) = 0 for r > 0, and compute the range ℏc/(mc²) for m = 139.6 MeV using ℏc = 197.3 MeV fm. |
+| 14 | **Core.** Show that the equation (□ + m²)φ = J for a static source J(x) reduces to (−∇² + m²)φ = J, and find the solution for a source J = g₁δ³(x − x₁) + g₂δ³(x − x₂) as a sum of two Yukawa functions. |
+| 15 | **Extension.** Explain what would be added to the derivation of Section 1 if the variation δφ did not vanish on the boundary of Ω, and why the field equation itself is unaffected. |
+| 16 | **Challenge.** For static sources J, show that the field energy H = ∫d³x[(1/2)(∇φ)² + (1/2)m²φ² − Jφ] evaluated on the solution equals −(1/2)∫d³x Jφ, and use the two-source solution of Exercise 14 to show that the interaction energy of the two sources is −g₁g₂e^(−mr)/(4πr) with r = \|x₁ − x₂\|. Explain why this means a scalar field attracts like sources. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** δS = ∫d⁴x{(∂ℒ/∂φ)δφ + [∂ℒ/∂(∂_μφ)]∂_μδφ}. Writing [∂ℒ/∂(∂_μφ)]∂_μδφ = ∂_μ{[∂ℒ/∂(∂_μφ)]δφ} − ∂_μ[∂ℒ/∂(∂_μφ)]δφ, the first term is a total derivative whose integral is a surface integral of [∂ℒ/∂(∂_μφ)]δφ over the boundary of Ω. It vanishes if δφ = 0 on the boundary. What remains is δS = ∫d⁴x{∂ℒ/∂φ − ∂_μ[∂ℒ/∂(∂_μφ)]}δφ, and since δφ is arbitrary in the interior the bracket must vanish.
 
@@ -289,20 +291,6 @@ The Euler–Lagrange equations of this lesson are classical field equations. In 
 
 **16.** Using (−∇² + m²)φ = J, integrating by parts, and discarding surface terms, ∫[(1/2)(∇φ)² + (1/2)m²φ²]d³x = (1/2)∫φ(−∇² + m²)φ d³x = (1/2)∫Jφ d³x. Then H = (1/2)∫Jφ − ∫Jφ = −(1/2)∫Jφ. With J as in Exercise 14 and the Yukawa function Y(r) = e^(−mr)/(4πr), φ = g₁Y(|x−x₁|) + g₂Y(|x−x₂|), and ∫Jφ d³x = g₁[g₁Y(0) + g₂Y(r)] + g₂[g₁Y(r) + g₂Y(0)] = (g₁² + g₂²)Y(0) + 2g₁g₂Y(r). Hence H = −(1/2)(g₁² + g₂²)Y(0) − g₁g₂Y(r). The first term is a divergent self-energy independent of the separation, and the interaction energy is −g₁g₂e^(−mr)/(4πr), which is negative and decreasing in magnitude with r for g₁g₂ > 0. Energy is lowered when like sources approach one another, so a scalar field attracts like sources, in contrast with the electromagnetic potential, which repels like charges (a difference traced to the spin of the exchanged particle in Lesson 48).
 
-# Mastery checklist
+# Mastery check
 
-- I can derive the Euler–Lagrange equation for a field by varying the action and integrating by parts, stating why the boundary term vanishes.
-
-- I can compute ∂ℒ/∂(∂_μφ) with the correct index positions and check the result in components.
-
-- I can derive the Klein–Gordon equation, including the nonlinear case with a φ⁴ term.
-
-- I can treat φ and φ* (and ψ and ψ̄) as independent variables and derive both equations.
-
-- I can derive the Dirac and adjoint Dirac equations from the Dirac Lagrangian density.
-
-- I can derive ∂_μF^(μν) = j^ν and show that current conservation follows from the antisymmetry of the field tensor.
-
-- I can write Hamilton's equations for a scalar field using functional derivatives.
-
-- I can solve the static sourced Klein–Gordon equation and relate the range of the Yukawa potential to the mass of the field.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

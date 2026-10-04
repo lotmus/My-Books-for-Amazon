@@ -208,24 +208,26 @@ The algebraic technique of Section 3, purely commutator-based, generalizes direc
 
 @widths 720 9072
 | No | Problem |
-| 1 | Derive [L̂ᵧ, L̂_z] = iℏL̂ₓ from the definitions, following the method of Worked example 1. |
-| 2 | Show that [L̂ₓ, x̂] = 0, [L̂ₓ, ŷ] = iℏẑ, and [L̂ₓ, ẑ] = −iℏŷ, and interpret these as the statement that L̂ₓ rotates vectors about the x axis. |
-| 3 | Show that L̂² = L̂₋L̂₊ + L̂_z² + ℏL̂_z, deriving the identity used in Section 3.3. |
-| 4 | Using the identity of Exercise 3, find ‖L̂+\|ℓ,m⟩‖² and confirm it matches the general formula of Section 4.1. |
-| 5 | For ℓ = 2, list all allowed values of m and compute ‖L̂+\|2,1⟩‖² explicitly. |
-| 6 | Show that if \|ψ⟩ is a simultaneous eigenstate of L̂² and L̂_z with eigenvalues ℏ²ℓ(ℓ+1) and ℏℓ (the top of the ladder), then L̂+\|ψ⟩ = 0, by computing ‖L̂+\|ψ⟩‖² directly. |
-| 7 | Compute ⟨ℓ,m\|L̂ᵧ\|ℓ,m⟩ using L̂ᵧ = (L̂+−L̂−)/2i, and explain why the result is zero for the same reason as in Worked example 4. |
-| 8 | Compute ⟨ℓ,m\|L̂ₓ²\|ℓ,m⟩ using L̂ₓ = (L̂++L̂−)/2 and the matrix elements of Section 4.1, expressing the answer in terms of ℓ and m. |
-| 9 | Verify that Y₁^(1) = −√(3/8π)sin θ e^(iφ) is an eigenfunction of L̂_z with the correct eigenvalue. |
-| 10 | Show explicitly, using L̂² in spherical coordinates, that Y₀⁰ = 1/√(4π) satisfies L̂²Y₀⁰ = 0, consistent with ℓ = 0. |
-| 11 | For a particle on a ring with wave function Φ(φ) = e^(imφ) (compare Lesson 12, Exercise 2), show this is an eigenfunction of L̂_z with eigenvalue ℏm, and explain why m need not be restricted to \|m\| ≤ ℓ in this one-dimensional problem. |
-| 12 | Show that [Ĥ, L̂²] = 0 for any central potential Ĥ = p̂²/2m + V(r), by extending the argument of Worked example 6. |
-| 13 | Explain, using the compatibility of Ĥ, L̂², and L̂_z for a central potential, why hydrogen energy eigenstates can be labeled \|n,ℓ,m⟩, and state which of these three quantum numbers are guaranteed compatible by this lesson's results alone. |
-| 14 | Show that the rotation operator R_z(2π) = e^(−i2πL̂_z/ℏ) acts as the identity on every orbital angular momentum eigenstate, using that m is an integer. |
-| 15 | If instead a hypothetical system had half-integer ℓ = 1/2, show that R_z(2π) would give a state multiplied by −1 rather than +1, and note (without proof, anticipating Lesson 15) that this is exactly the behavior of a spin-1/2 particle. |
-| 16 | Challenge: prove [L̂+, L̂−] = 2ℏL̂_z from the definitions and the commutation relations of Section 1.2, and use it together with [L̂_z, L̂±] = ±ℏL̂± to re-derive the bound m² ≤ ℓ(ℓ+1) of Section 3.2 directly from the requirement that ‖L̂±\|ℓ,m⟩‖² ≥ 0 for every m on the ladder. |
+| 1 | **Extension.** Derive [L̂ᵧ, L̂_z] = iℏL̂ₓ from the definitions, following the method of Worked example 1. |
+| 2 | **Extension.** Show that [L̂ₓ, x̂] = 0, [L̂ₓ, ŷ] = iℏẑ, and [L̂ₓ, ẑ] = −iℏŷ, and interpret these as the statement that L̂ₓ rotates vectors about the x axis. |
+| 3 | **Core.** Show that L̂² = L̂₋L̂₊ + L̂_z² + ℏL̂_z, deriving the identity used in Section 3.3. |
+| 4 | **Core.** Using the identity of Exercise 3, find ‖L̂+\|ℓ,m⟩‖² and confirm it matches the general formula of Section 4.1. |
+| 5 | **Core.** For ℓ = 2, list all allowed values of m and compute ‖L̂+\|2,1⟩‖² explicitly. |
+| 6 | **Core.** Show that if \|ψ⟩ is a simultaneous eigenstate of L̂² and L̂_z with eigenvalues ℏ²ℓ(ℓ+1) and ℏℓ (the top of the ladder), then L̂+\|ψ⟩ = 0, by computing ‖L̂+\|ψ⟩‖² directly. |
+| 7 | **Core.** Compute ⟨ℓ,m\|L̂ᵧ\|ℓ,m⟩ using L̂ᵧ = (L̂+−L̂−)/2i, and explain why the result is zero for the same reason as in Worked example 4. |
+| 8 | **Extension.** Compute ⟨ℓ,m\|L̂ₓ²\|ℓ,m⟩ using L̂ₓ = (L̂++L̂−)/2 and the matrix elements of Section 4.1, expressing the answer in terms of ℓ and m. |
+| 9 | **Core.** Verify that Y₁^(1) = −√(3/8π)sin θ e^(iφ) is an eigenfunction of L̂_z with the correct eigenvalue. |
+| 10 | **Core.** Show explicitly, using L̂² in spherical coordinates, that Y₀⁰ = 1/√(4π) satisfies L̂²Y₀⁰ = 0, consistent with ℓ = 0. |
+| 11 | **Extension.** For a particle on a ring with wave function Φ(φ) = e^(imφ) (compare Lesson 12, Exercise 2), show this is an eigenfunction of L̂_z with eigenvalue ℏm, and explain why m need not be restricted to \|m\| ≤ ℓ in this one-dimensional problem. |
+| 12 | **Extension.** Show that [Ĥ, L̂²] = 0 for any central potential Ĥ = p̂²/2m + V(r), by extending the argument of Worked example 6. |
+| 13 | **Extension.** Explain, using the compatibility of Ĥ, L̂², and L̂_z for a central potential, why hydrogen energy eigenstates can be labeled \|n,ℓ,m⟩, and state which of these three quantum numbers are guaranteed compatible by this lesson's results alone. |
+| 14 | **Core.** Show that the rotation operator R_z(2π) = e^(−i2πL̂_z/ℏ) acts as the identity on every orbital angular momentum eigenstate, using that m is an integer. |
+| 15 | **Extension.** If instead a hypothetical system had half-integer ℓ = 1/2, show that R_z(2π) would give a state multiplied by −1 rather than +1, and note (without proof, anticipating Lesson 15) that this is exactly the behavior of a spin-1/2 particle. |
+| 16 | **Challenge.** Prove [L̂+, L̂−] = 2ℏL̂_z from the definitions and the commutation relations of Section 1.2, and use it together with [L̂_z, L̂±] = ±ℏL̂± to re-derive the bound m² ≤ ℓ(ℓ+1) of Section 3.2 directly from the requirement that ‖L̂±\|ℓ,m⟩‖² ≥ 0 for every m on the ladder. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** [L̂ᵧ,L̂_z] = [ẑp̂ₓ−x̂p̂_z, x̂p̂ᵧ−ŷp̂ₓ]. The surviving terms are [ẑp̂ₓ,x̂p̂ᵧ] type... following the same pattern as Worked example 1 with the cyclic relabeling x→y→z→x, the result is [L̂ᵧ,L̂_z] = iℏL̂ₓ, obtained by the identical algebra with indices cycled.
 
@@ -259,20 +261,6 @@ The algebraic technique of Section 3, purely commutator-based, generalizes direc
 
 **16.** [L̂+,L̂−] = [L̂ₓ+iL̂ᵧ, L̂ₓ−iL̂ᵧ] = −i[L̂ₓ,L̂ᵧ]+i[L̂ᵧ,L̂ₓ] = −i(iℏL̂_z)+i(−iℏL̂_z) = ℏL̂_z+ℏL̂_z = 2ℏL̂_z. For any state \|ℓ,m⟩ on the ladder, ‖L̂+\|ℓ,m⟩‖² = ℏ²[ℓ(ℓ+1)−m(m+1)] ≥ 0 requires m(m+1) ≤ ℓ(ℓ+1), and ‖L̂−\|ℓ,m⟩‖² = ℏ²[ℓ(ℓ+1)−m(m−1)] ≥ 0 requires m(m−1) ≤ ℓ(ℓ+1); together these force −ℓ ≤ m ≤ ℓ, reproducing the bound m² ≤ λ = ℓ(ℓ+1) (in fact the sharper statement m² ≤ ℓ² once ℓ is identified as the ladder's top) directly from positivity of the norm, without separately invoking ⟨L̂_z²⟩ ≤ ⟨L̂²⟩.
 
-# Mastery checklist
+# Mastery check
 
-- I can derive [L̂ᵢ, L̂ⱼ] = iℏεᵢⱼₖL̂ₖ from [x̂ᵢ, p̂ⱼ] = iℏδᵢⱼ.
-
-- I can show that L̂² commutes with each L̂ᵢ and explain what this means for simultaneous measurability.
-
-- I can define L̂± and derive the eigenvalue spectrum ℏ²ℓ(ℓ+1) and ℏm using only the commutation algebra.
-
-- I can compute matrix elements of L̂± between angular momentum eigenstates using the general formula of Section 4.1.
-
-- I can explain, using single-valuedness in φ, why orbital ℓ must be a nonnegative integer.
-
-- I can write L̂² and L̂_z as differential operators in spherical coordinates and identify the first few spherical harmonics.
-
-- I can show that a central potential commutes with L̂ and L̂², and explain the resulting conservation law.
-
-- I can explain, in one sentence, why the algebraic method used in this lesson generalizes to any operators obeying the same commutation relations.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

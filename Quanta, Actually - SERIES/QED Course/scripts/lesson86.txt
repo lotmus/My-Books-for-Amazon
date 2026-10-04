@@ -187,24 +187,26 @@ It did not carry out Schwinger's proper-time evaluation of Tr log. It quoted his
 
 @widths 720 9072
 | No | Problem |
-| 1 | Show that γ → e⁺e⁻ violates four-momentum conservation for a real photon, and find the threshold for γγ → e⁺e⁻ in head-on collisions. |
-| 2 | Explain why a coherent state with large occupation is well described by a classical field. |
-| 3 | Show that |⟨0|0⟩|² = e^{−2 Im Γ}, and explain why Im Γ > 0 for an unstable vacuum. |
-| 4 | Find the width of the forbidden gap for a pair with transverse momentum p_⊥. |
-| 5 | Evaluate ∫_{−a}^{a}√(m² − (eEz)²)dz with a = m/eE. |
-| 6 | Show that transverse momentum suppresses tunneling by e^{−πp_⊥²/eE}, and find ⟨p_⊥²⟩ for the produced pairs. |
-| 7 | Repeat the counting of Section 4.1 for a charged scalar, with no spin factor, and give the leading rate. |
-| 8 | Using log(1 − P) = −ΣPⁿ/n, show how the 1/n² of Schwinger's series arises from the Gaussian in p_⊥. |
-| 9 | Why does (eE)²/(4π)³ differ from the correct prefactor by a factor 16? |
-| 10 | Show that exp(−1/e²) has all derivatives zero at e = 0. |
-| 11 | Compute E_c in V/m, and the peak field of a 10²³ W/cm² laser. |
-| 12 | At what fraction of E_c is the rate 1 pair per cm³ per second? |
-| 13 | Show that E·B and B² − E² are Lorentz invariant, and explain why a pure magnetic field cannot produce pairs. |
-| 14 | Why does a single plane wave not produce pairs? |
-| 15 | Find the Z at which E_1s = m√(1 − (Zα)²) vanishes for a point nucleus. |
-| 16 | Challenge: show that the semiclassical argument and Schwinger's n = 1 term agree, including the factor 2 for spin, and explain why the scalar case has the alternating series Σ(−1)^{n+1}n⁻² with half the prefactor. |
+| 1 | **Core.** Show that γ → e⁺e⁻ violates four-momentum conservation for a real photon, and find the threshold for γγ → e⁺e⁻ in head-on collisions. |
+| 2 | **Core.** Explain why a coherent state with large occupation is well described by a classical field. |
+| 3 | **Extension.** Show that |⟨0|0⟩|² = e^{−2 Im Γ}, and explain why Im Γ > 0 for an unstable vacuum. |
+| 4 | **Core.** Find the width of the forbidden gap for a pair with transverse momentum p_⊥. |
+| 5 | **Core.** Evaluate ∫_{−a}^{a}√(m² − (eEz)²)dz with a = m/eE. |
+| 6 | **Core.** Show that transverse momentum suppresses tunneling by e^{−πp_⊥²/eE}, and find ⟨p_⊥²⟩ for the produced pairs. |
+| 7 | **Extension.** Repeat the counting of Section 4.1 for a charged scalar, with no spin factor, and give the leading rate. |
+| 8 | **Extension.** Using log(1 − P) = −ΣPⁿ/n, show how the 1/n² of Schwinger's series arises from the Gaussian in p_⊥. |
+| 9 | **Extension.** Why does (eE)²/(4π)³ differ from the correct prefactor by a factor 16? |
+| 10 | **Core.** Show that exp(−1/e²) has all derivatives zero at e = 0. |
+| 11 | **Core.** Compute E_c in V/m, and the peak field of a 10²³ W/cm² laser. |
+| 12 | **Extension.** At what fraction of E_c is the rate 1 pair per cm³ per second? |
+| 13 | **Extension.** Show that E·B and B² − E² are Lorentz invariant, and explain why a pure magnetic field cannot produce pairs. |
+| 14 | **Extension.** Why does a single plane wave not produce pairs? |
+| 15 | **Core.** Find the Z at which E_1s = m√(1 − (Zα)²) vanishes for a point nucleus. |
+| 16 | **Challenge.** Show that the semiclassical argument and Schwinger's n = 1 term agree, including the factor 2 for spin, and explain why the scalar case has the alternating series Σ(−1)^{n+1}n⁻² with half the prefactor. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** (p + p′)² ≥ 4m² but k² = 0. For head-on photons, s = 4ω₁ω₂ ≥ 4m², so ω₁ω₂ ≥ m².
 
@@ -238,16 +240,6 @@ It did not carry out Schwinger's proper-time evaluation of Tr log. It quoted his
 
 **16.** For spin ½, the two spin states give the factor 2 in Section 4.1, and Pauli blocking gives −log(1 − P) for the decay exponent, with all plus signs. For a scalar there is one state per mode, and Bose enhancement turns the persistence factor into 1/(1 + P). Then log(1 + P) = Σ(−1)^{n+1}Pⁿ/n alternates, and the prefactor is half.
 
-# Mastery checklist
+# Mastery check
 
-- I can explain why a real photon cannot make a pair but a classical field can.
-
-- I can set up the background-field split and the Furry picture.
-
-- I can connect pair creation to Im Γ.
-
-- I can derive the Schwinger exponent and the leading rate, prefactor included.
-
-- I can explain why the effect is invisible to perturbation theory, and evaluate it for real fields.
-
-- I can state when no pairs are produced, and what happens at supercritical Z.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

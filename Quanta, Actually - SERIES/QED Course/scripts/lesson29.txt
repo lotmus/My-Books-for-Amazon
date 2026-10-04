@@ -220,24 +220,26 @@ The theme of the lesson is that symmetry organizes everything: which quantities 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Show that (1 + iαQ/N)^N → e^(iαQ) as N → ∞, and that the U(1) transformations satisfy U(α₁)U(α₂) = U(α₁ + α₂). |
-| 2 | For small operators A and B, expand the four exponentials in e^Ae^Be^(−A)e^(−B) to second order and show that the result is 1 + [A, B]. |
-| 3 | Show that the condition ΛᵀgΛ = g, with Λ = 1 + ω, implies ω_(μν) + ω_(νμ) = 0, count the independent components, and state which are rotations and which are boosts. |
-| 4 | Verify the antisymmetry of ω_(μν) for a small rotation about y by angle θ and for a small boost along z with velocity β, taking x′ = x + θz, z′ = z − θx for the rotation and t′ = t − βz, z′ = z − βt for the boost. |
-| 5 | List the ten conserved quantities of the Poincare group and state the symmetry that gives each. |
-| 6 | Verify [σ_i/2, σ_j/2] = iε_(ijk)σ_k/2 using σ_iσ_j = δ_(ij) + iε_(ijk)σ_k from Lesson 1 and identify the structure constants. |
-| 7 | With (B_x)⁰₁ = (B_x)¹₀ = 1 and (B_y)⁰₂ = (B_y)²₀ = 1 as the only nonzero entries, compute [B_x, B_y], and show that 1 + ββ′[B_x, B_y] is a rotation about z by an angle of magnitude ββ′. |
-| 8 | Using the Jacobi identity {f, {g, h}} + {g, {h, f}} + {h, {f, g}} = 0, show that {{φ, Q_b}, Q_a} − {{φ, Q_a}, Q_b} = {φ, {Q_b, Q_a}}. |
-| 9 | A complex scalar φ has charge 1 and a Dirac field ψ has charge −1. State which of φ*φ, φ², (φ*φ)², φ³, ψ̄ψ, φψ̄ψ, φ*φψ̄ψ, and ψ̄γ^μψ A_μ are allowed by the charge rule, with A neutral. |
-| 10 | For fields φ₁ and φ₂ of charges 1 and 2 and the cubic term φ₁²φ₂*, show that a joint rotation φ₁ → e^(iα)φ₁, φ₂ → e^(2iα)φ₂ leaves the term invariant while a rotation of φ₁ alone does not, and find the Noether current of the joint symmetry in terms of the free currents j₁ and j₂. |
-| 11 | Show that S(θ) = e^(−iθΣ_z/2) with Σ_z = diag(σ_z, σ_z) is the identity at θ = 4π and minus the identity at θ = 2π. |
-| 12 | Show that the massless Dirac Lagrangian density is invariant under ψ → e^(iβγ⁵)ψ, ψ̄ → ψ̄e^(iβγ⁵), and that the mass term is not. |
-| 13 | For the doublet φ with ℒ = ∂_μφ†∂^μφ − m²φ†φ, verify invariance under φ → Uφ for unitary U, derive j_a^μ = i(∂^μφ†T_aφ − φ†T_a∂^μφ) for Δφ = iT_aφ, and show ∂_μj_a^μ = 0 on solutions. |
-| 14 | State the number of generators of O(N), U(N), and SU(N), and evaluate them for N = 2 and N = 3, using the fact that O(N) rotates N real fields into one another. |
-| 15 | Explain qualitatively why invariance of ℒ under translations, together with the integral ∫d⁴x of a product of plane waves, forces the conservation of energy and momentum at each interaction vertex. |
-| 16 | Challenge: for the Dirac field, show that the axial current j₅^μ = ψ̄γ^μγ⁵ψ satisfies ∂_μj₅^μ = 2imψ̄γ⁵ψ, using the Dirac equation and its adjoint, and conclude that it is conserved for m = 0. |
+| 1 | **Core.** Show that (1 + iαQ/N)^N → e^(iαQ) as N → ∞, and that the U(1) transformations satisfy U(α₁)U(α₂) = U(α₁ + α₂). |
+| 2 | **Extension.** For small operators A and B, expand the four exponentials in e^Ae^Be^(−A)e^(−B) to second order and show that the result is 1 + [A, B]. |
+| 3 | **Core.** Show that the condition ΛᵀgΛ = g, with Λ = 1 + ω, implies ω_(μν) + ω_(νμ) = 0, count the independent components, and state which are rotations and which are boosts. |
+| 4 | **Core.** Verify the antisymmetry of ω_(μν) for a small rotation about y by angle θ and for a small boost along z with velocity β, taking x′ = x + θz, z′ = z − θx for the rotation and t′ = t − βz, z′ = z − βt for the boost. |
+| 5 | **Core.** List the ten conserved quantities of the Poincare group and state the symmetry that gives each. |
+| 6 | **Core.** Verify [σ_i/2, σ_j/2] = iε_(ijk)σ_k/2 using σ_iσ_j = δ_(ij) + iε_(ijk)σ_k from Lesson 1 and identify the structure constants. |
+| 7 | **Extension.** With (B_x)⁰₁ = (B_x)¹₀ = 1 and (B_y)⁰₂ = (B_y)²₀ = 1 as the only nonzero entries, compute [B_x, B_y], and show that 1 + ββ′[B_x, B_y] is a rotation about z by an angle of magnitude ββ′. |
+| 8 | **Extension.** Using the Jacobi identity {f, {g, h}} + {g, {h, f}} + {h, {f, g}} = 0, show that {{φ, Q_b}, Q_a} − {{φ, Q_a}, Q_b} = {φ, {Q_b, Q_a}}. |
+| 9 | **Core.** A complex scalar φ has charge 1 and a Dirac field ψ has charge −1. State which of φ*φ, φ², (φ*φ)², φ³, ψ̄ψ, φψ̄ψ, φ*φψ̄ψ, and ψ̄γ^μψ A_μ are allowed by the charge rule, with A neutral. |
+| 10 | **Extension.** For fields φ₁ and φ₂ of charges 1 and 2 and the cubic term φ₁²φ₂*, show that a joint rotation φ₁ → e^(iα)φ₁, φ₂ → e^(2iα)φ₂ leaves the term invariant while a rotation of φ₁ alone does not, and find the Noether current of the joint symmetry in terms of the free currents j₁ and j₂. |
+| 11 | **Core.** Show that S(θ) = e^(−iθΣ_z/2) with Σ_z = diag(σ_z, σ_z) is the identity at θ = 4π and minus the identity at θ = 2π. |
+| 12 | **Extension.** Show that the massless Dirac Lagrangian density is invariant under ψ → e^(iβγ⁵)ψ, ψ̄ → ψ̄e^(iβγ⁵), and that the mass term is not. |
+| 13 | **Extension.** For the doublet φ with ℒ = ∂_μφ†∂^μφ − m²φ†φ, verify invariance under φ → Uφ for unitary U, derive j_a^μ = i(∂^μφ†T_aφ − φ†T_a∂^μφ) for Δφ = iT_aφ, and show ∂_μj_a^μ = 0 on solutions. |
+| 14 | **Core.** State the number of generators of O(N), U(N), and SU(N), and evaluate them for N = 2 and N = 3, using the fact that O(N) rotates N real fields into one another. |
+| 15 | **Extension.** Explain qualitatively why invariance of ℒ under translations, together with the integral ∫d⁴x of a product of plane waves, forces the conservation of energy and momentum at each interaction vertex. |
+| 16 | **Challenge.** For the Dirac field, show that the axial current j₅^μ = ψ̄γ^μγ⁵ψ satisfies ∂_μj₅^μ = 2imψ̄γ⁵ψ, using the Dirac equation and its adjoint, and conclude that it is conserved for m = 0. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** (1 + iαQ/N)^N = Σ_k C(N, k)(iαQ/N)^k = Σ_k [N(N−1)⋯(N−k+1)/N^k](iαQ)^k/k!, and as N → ∞ each coefficient N(N−1)⋯(N−k+1)/N^k → 1, giving Σ_k(iαQ)^k/k! = e^(iαQ). For a field of charge q, Q acts as q and U(α) = e^(iqα). Then U(α₁)U(α₂) = e^(iq(α₁+α₂)) = U(α₁ + α₂), since exponents of commuting numbers add.
 
@@ -271,20 +273,6 @@ The theme of the lesson is that symmetry organizes everything: which quantities 
 
 **16.** Using γ^μ∂_μψ = −imψ from the Dirac equation and (∂_μψ̄)γ^μ = imψ̄ from its adjoint, ∂_μ(ψ̄γ^μγ⁵ψ) = (∂_μψ̄)γ^μγ⁵ψ + ψ̄γ^μγ⁵∂_μψ = imψ̄γ⁵ψ − ψ̄γ⁵γ^μ∂_μψ, using γ^μγ⁵ = −γ⁵γ^μ in the second term. Then −ψ̄γ⁵γ^μ∂_μψ = −ψ̄γ⁵(−imψ) = imψ̄γ⁵ψ, so ∂_μj₅^μ = 2imψ̄γ⁵ψ. For m = 0 this vanishes and the axial current is conserved, consistent with the chiral symmetry of Section 5.3.
 
-# Mastery checklist
+# Mastery check
 
-- I can explain why symmetries form a group and write finite transformations by exponentiating generators.
-
-- I can derive the closure of the generators under commutation and identify the structure constants of U(1) and of rotations.
-
-- I can explain why Noether charges satisfy the algebra of the generators.
-
-- I can derive the antisymmetry of an infinitesimal Lorentz transformation and count the ten parameters of the Poincare group.
-
-- I can list the ten conserved quantities of Poincare invariance.
-
-- I can describe the structure of the Poincare algebra and explain why two boosts give a rotation.
-
-- I can distinguish internal from spacetime symmetries and global from local ones.
-
-- I can apply the charge rule to decide whether a term is allowed in a Lagrangian density.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

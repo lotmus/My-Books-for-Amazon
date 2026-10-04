@@ -40,6 +40,11 @@ Every step is elementary, but it is the pattern that matters: the same four step
 | D(x − y) | ∫d³p/((2π)³2E_p) e^(−ip·(x−y)) |
 | N | Normal ordering, placing annihilation operators to the right of creation operators |
 
+BOX: First pass: the result before the derivation
+Imposing [φ(x), π(y)] = iδ³(x − y) turns a classical field into infinitely many quantum oscillators, one per momentum, with creation and annihilation operators a_p†, a_p.
+Each quantum of an oscillator is a particle: this is where 'particles are excitations of a field' becomes a calculation.
+ENDBOX
+
 # 1 The quantization
 
 ## 1.1 The commutation relations
@@ -279,24 +284,26 @@ The function D(x − y) will reappear in Lesson 46 as the building block of the 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Differentiate the mode expansion of φ with respect to t and verify that π = φ̇ is given by the expression of Section 2.1. |
-| 2 | From [a_p, a_q†] = (2π)³δ³(p − q) and [a, a] = [a†, a†] = 0, show that [φ(x), φ(y)] = 0 and [π(x), π(y)] = 0 at equal times. |
-| 3 | Show that a_p = ∫d³x e^(−ip·x)(√(E_p/2)φ + iπ/√(2E_p)) at t = 0, and use this with the canonical relations to derive [a_p, a_q†] = (2π)³δ³(p − q). |
-| 4 | Fill in the algebra of Section 3.1: show that the coefficient of a_p†a_p and a_pa_p† in H is E_p/4 from (1/2)π² and E_p/4 from (1/2)(∇φ)² + (1/2)m²φ², so that H = ∫d³p/(2π)³(E_p/2)(a_p†a_p + a_pa_p†). |
-| 5 | Show that the coefficient of a_pa_{−p} in H vanishes, using E_p² = \|p\|² + m². |
-| 6 | Show that P = −∫d³x π∇φ equals ∫d³p/(2π)³ p a_p†a_p after normal ordering, explaining why the terms aa and a†a† vanish. |
-| 7 | Show that [H, a_p†] = E_pa_p† and [P, a_p†] = p a_p†, and conclude that a_p†\|0⟩ has energy E_p and momentum p. |
-| 8 | Show that d³p/E_p is invariant under a boost along z by verifying dp_z′/E′ = dp_z/E, and conclude that E_pδ³(p − q) is Lorentz invariant. |
-| 9 | Compute ⟨p\|φ(x)\|0⟩ = e^(ip·x) from φ(x)\|0⟩ and \|p⟩ = √(2E_p)a_p†\|0⟩. |
-| 10 | Show that the normal-ordered Hamiltonian satisfies H\|0⟩ = 0 and that energy differences between states are the same as for the unordered Hamiltonian. |
-| 11 | Show that e^(iHt)a_pe^(−iHt) = a_pe^(−iE_pt) from [H, a_p] = −E_pa_p, and hence that the mode expansion of Section 2.1 is the Heisenberg field. |
-| 12 | Using the canonical commutators, show that i[H, φ] = π and i[H, π] = ∇²φ − m²φ, and deduce (□ + m²)φ = 0. |
-| 13 | Show that D(x − y) = D(y − x) for spacelike x − y by exhibiting a proper orthochronous Lorentz transformation taking x − y to −(x − y), and explain why [φ(x), φ(y)] is a c-number. |
-| 14 | For the complex field with [a, a†] = [b, b†] = (2π)³δ³ and all others zero, show that [φ(x), φ†(y)] = D(x − y) − D(y − x) and [φ(x), φ(y)] = 0. |
-| 15 | For Q = q∫d³p/(2π)³(a_p†a_p − b_p†b_p), show that [Q, a_p†] = qa_p† and [Q, b_p†] = −qb_p†, and that [Q, φ] = −qφ. |
-| 16 | Challenge: in a box of volume V with discrete momenta, define a_k = a_p/√V and show that [a_k, a_k′†] = δ_(kk′) and H = Σ_k ω_k(a_k†a_k + 1/2), the sum of oscillator Hamiltonians of Lesson 25, Section 4.4, using (2π)³δ³(0) → V. |
+| 1 | **Core.** Differentiate the mode expansion of φ with respect to t and verify that π = φ̇ is given by the expression of Section 2.1. |
+| 2 | **Extension.** From [a_p, a_q†] = (2π)³δ³(p − q) and [a, a] = [a†, a†] = 0, show that [φ(x), φ(y)] = 0 and [π(x), π(y)] = 0 at equal times. |
+| 3 | **Extension.** Show that a_p = ∫d³x e^(−ip·x)(√(E_p/2)φ + iπ/√(2E_p)) at t = 0, and use this with the canonical relations to derive [a_p, a_q†] = (2π)³δ³(p − q). |
+| 4 | **Extension.** Fill in the algebra of Section 3.1: show that the coefficient of a_p†a_p and a_pa_p† in H is E_p/4 from (1/2)π² and E_p/4 from (1/2)(∇φ)² + (1/2)m²φ², so that H = ∫d³p/(2π)³(E_p/2)(a_p†a_p + a_pa_p†). |
+| 5 | **Core.** Show that the coefficient of a_pa_{−p} in H vanishes, using E_p² = \|p\|² + m². |
+| 6 | **Extension.** Show that P = −∫d³x π∇φ equals ∫d³p/(2π)³ p a_p†a_p after normal ordering, explaining why the terms aa and a†a† vanish. |
+| 7 | **Core.** Show that [H, a_p†] = E_pa_p† and [P, a_p†] = p a_p†, and conclude that a_p†\|0⟩ has energy E_p and momentum p. |
+| 8 | **Extension.** Show that d³p/E_p is invariant under a boost along z by verifying dp_z′/E′ = dp_z/E, and conclude that E_pδ³(p − q) is Lorentz invariant. |
+| 9 | **Core.** Compute ⟨p\|φ(x)\|0⟩ = e^(ip·x) from φ(x)\|0⟩ and \|p⟩ = √(2E_p)a_p†\|0⟩. |
+| 10 | **Core.** Show that the normal-ordered Hamiltonian satisfies H\|0⟩ = 0 and that energy differences between states are the same as for the unordered Hamiltonian. |
+| 11 | **Core.** Show that e^(iHt)a_pe^(−iHt) = a_pe^(−iE_pt) from [H, a_p] = −E_pa_p, and hence that the mode expansion of Section 2.1 is the Heisenberg field. |
+| 12 | **Extension.** Using the canonical commutators, show that i[H, φ] = π and i[H, π] = ∇²φ − m²φ, and deduce (□ + m²)φ = 0. |
+| 13 | **Extension.** Show that D(x − y) = D(y − x) for spacelike x − y by exhibiting a proper orthochronous Lorentz transformation taking x − y to −(x − y), and explain why [φ(x), φ(y)] is a c-number. |
+| 14 | **Core.** For the complex field with [a, a†] = [b, b†] = (2π)³δ³ and all others zero, show that [φ(x), φ†(y)] = D(x − y) − D(y − x) and [φ(x), φ(y)] = 0. |
+| 15 | **Core.** For Q = q∫d³p/(2π)³(a_p†a_p − b_p†b_p), show that [Q, a_p†] = qa_p† and [Q, b_p†] = −qb_p†, and that [Q, φ] = −qφ. |
+| 16 | **Challenge.** In a box of volume V with discrete momenta, define a_k = a_p/√V and show that [a_k, a_k′†] = δ_(kk′) and H = Σ_k ω_k(a_k†a_k + 1/2), the sum of oscillator Hamiltonians of Lesson 25, Section 4.4, using (2π)³δ³(0) → V. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Each term e^(∓ip·x) = e^(∓i(E_pt − p·x)) has time derivative ∓iE_p times itself. So φ̇ = ∫d³p/(2π)³(1/√(2E_p))[−iE_pa_pe^(−ip·x) + iE_pa_p†e^(ip·x)]. Since E_p/√(2E_p) = √(E_p/2), this equals ∫d³p/(2π)³(−i)√(E_p/2)[a_pe^(−ip·x) − a_p†e^(ip·x)], the stated π.
 
@@ -330,20 +337,6 @@ The function D(x − y) will reappear in Lesson 46 as the building block of the 
 
 **16.** In a box of volume V the momenta are discrete and the substitutions are ∫d³p/(2π)³ → (1/V)Σ_k and (2π)³δ³(p − q) → Vδ_(kk′). Setting a_p = √V a_k gives [a_k, a_k′†] = (1/V)[a_p, a_p′†] = (1/V)Vδ_(kk′) = δ_(kk′). Then H = ∫d³p/(2π)³E_p(a_p†a_p + (1/2)(2π)³δ³(0)) → (1/V)Σ_kE_k(Va_k†a_k + V/2) = Σ_kE_k(a_k†a_k + 1/2), the Hamiltonian of a collection of oscillators, each with the zero-point energy ω_k/2, as in Lesson 25, Section 4.4, with |a|² promoted to the number operator a†a.
 
-# Mastery checklist
+# Mastery check
 
-- I can state the canonical commutation relations for the field and write the mode expansion with operator coefficients.
-
-- I can derive [φ(x), π(y)] = iδ³(x − y) from [a_p, a_q†] = (2π)³δ³(p − q) and show the converse.
-
-- I can derive H and P in terms of the ladder operators and identify the zero-point energy.
-
-- I can define the vacuum and the one-particle states and show they have energy E_p and momentum p.
-
-- I can explain why the relativistic normalization ⟨p|q⟩ = 2E_p(2π)³δ³(p − q) is Lorentz invariant.
-
-- I can show that ⟨p|φ(x)|0⟩ = e^(ip·x) and interpret it.
-
-- I can derive the Heisenberg time dependence of the ladder operators and recover the Klein–Gordon equation as an operator equation.
-
-- I can show that [φ(x), φ(y)] vanishes at spacelike separation and explain the role of the antiparticle in the complex field.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

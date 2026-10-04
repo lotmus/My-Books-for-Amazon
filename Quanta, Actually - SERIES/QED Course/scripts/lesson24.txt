@@ -202,24 +202,26 @@ This lesson's current, j^μ=ψ̄γ^μψ, reappears verbatim, with no modificatio
 
 @widths 720 9072
 | No | Problem |
-| 1 | Verify the adjoint-equation derivation of Section 1.1 for μ=2, using γ⁰(γ²)†γ⁰=γ² and the anti-Hermiticity of γ² (Lesson 21, Exercise 7, extended to i=2). |
-| 2 | Write out ψ†ψ explicitly for ψ=(1+i, 2, 0, i)ᵀ and confirm it equals a positive real number. |
-| 3 | Show that ρ=ψ†ψ=0 only when ψ=0 (the zero vector), reinforcing that ρ is strictly positive for any nonzero solution. |
-| 4 | Verify explicitly, using the block structure of Lesson 20, that j⁰=ψ†ψ for a general four-component ψ=(ψ_A,ψ_B)ᵀ equals ψ_A†ψ_A+ψ_B†ψ_B, with no relative minus sign (contrast this with ψ̄ψ, which does carry a relative minus sign, Lesson 22, Worked example 1). |
-| 5 | Using j=ū(p)γu(p) and the explicit spinor forms, verify that the spatial current for a particle at rest (p=0) vanishes, consistent with a particle at rest carrying no net probability flow. |
-| 6 | Complete the calculation of Section 4.2, verifying j=2p using the explicit block form of u(p) and the Dirac matrices γ=(γ¹,γ²,γ³) in the representation of Lesson 20 and Lesson 21. |
-| 7 | For a negative-energy plane wave ψ=v_s(p)e^(+ip·x), compute j^μ and compare with the positive-energy result of Section 4.2, then reinterpret the result using Lesson 23, Section 3.2's antiparticle reading. |
-| 8 | Show that the total probability ∫ρ d³x is time-independent for any normalizable solution of the free Dirac equation, using ∂_μj^μ=0 and the divergence theorem, following the same argument as Lesson 10, Section 3.1, adapted to the Dirac current. |
-| 9 | Show that Tr[γ⁰]=0, first from the odd-trace rule of Lesson 21, Section 2.2, and then directly from the Dirac representation γ⁰=diag(I₂,−I₂). Explain why this vanishing trace is what removes the mass term in Exercise 10. |
-| 10 | Using the completeness relation Σₛu_s(p)ū_s(p)=p̸+m, compute Σₛj⁰_s = Σₛū_s(p)γ⁰u_s(p) and verify it equals 4E_p (twice the single-spin-state result of Section 4.2, since there are two spin states). |
-| 11 | Explain, in your own words, why the Dirac current's derivation in Section 2.1 required no arbitrary insertion of a factor of i, unlike the Klein–Gordon current of Lesson 18, Section 3.1. |
-| 12 | Sketch, without full detail, how the derivation of Section 2.1 changes when the covariant derivative D_μ=∂_μ+iqA_μ replaces ∂_μ in the Dirac equation, and confirm that the new terms proportional to A_μ cancel between the two contributions, following the logic of Worked example 6. |
-| 13 | Explain why j^μ_(EM)=−eψ̄γ^μψ, rather than j^μ=ψ̄γ^μψ itself, is the physically appropriate current to insert into the Maxwell equation ∂_μF^μν=j^ν of Lesson 7, referencing the dimensional and physical role of electric charge. |
-| 14 | State, in a sentence, why the plane-wave current's proportionality to p^μ (Section 4.2) is exactly what would be expected classically for a stream of particles of four-velocity u^μ=p^μ/m (Lesson 4, Section 5.1), each carrying probability density ρ. |
-| 15 | Contrast the phrase "positive definite" as used for ρ=ψ†ψ in this lesson with the phrase "positive definite" as it might be (mis)applied to the classical energy of the free relativistic particle in Lesson 3; explain why the two uses, while both invoking positivity, refer to different mathematical objects (a probability density here, versus an energy there). |
-| 16 | Challenge: using the current conservation law ∂_μj^μ=0 and the divergence theorem in four dimensions (a generalization of Lesson 2, Section 3.3, to spacetime), argue that the total charge Q=∫ρ d³x, computed on any spacelike slice of constant time, is the same on every such slice, provided j^μ vanishes sufficiently rapidly at spatial infinity, and relate this to the general statement of charge conservation first encountered in Lesson 7. |
+| 1 | **Core.** Verify the adjoint-equation derivation of Section 1.1 for μ=2, using γ⁰(γ²)†γ⁰=γ² and the anti-Hermiticity of γ² (Lesson 21, Exercise 7, extended to i=2). |
+| 2 | **Core.** Write out ψ†ψ explicitly for ψ=(1+i, 2, 0, i)ᵀ and confirm it equals a positive real number. |
+| 3 | **Core.** Show that ρ=ψ†ψ=0 only when ψ=0 (the zero vector), reinforcing that ρ is strictly positive for any nonzero solution. |
+| 4 | **Core.** Verify explicitly, using the block structure of Lesson 20, that j⁰=ψ†ψ for a general four-component ψ=(ψ_A,ψ_B)ᵀ equals ψ_A†ψ_A+ψ_B†ψ_B, with no relative minus sign (contrast this with ψ̄ψ, which does carry a relative minus sign, Lesson 22, Worked example 1). |
+| 5 | **Core.** Using j=ū(p)γu(p) and the explicit spinor forms, verify that the spatial current for a particle at rest (p=0) vanishes, consistent with a particle at rest carrying no net probability flow. |
+| 6 | **Extension.** Complete the calculation of Section 4.2, verifying j=2p using the explicit block form of u(p) and the Dirac matrices γ=(γ¹,γ²,γ³) in the representation of Lesson 20 and Lesson 21. |
+| 7 | **Extension.** For a negative-energy plane wave ψ=v_s(p)e^(+ip·x), compute j^μ and compare with the positive-energy result of Section 4.2, then reinterpret the result using Lesson 23, Section 3.2's antiparticle reading. |
+| 8 | **Core.** Show that the total probability ∫ρ d³x is time-independent for any normalizable solution of the free Dirac equation, using ∂_μj^μ=0 and the divergence theorem, following the same argument as Lesson 10, Section 3.1, adapted to the Dirac current. |
+| 9 | **Core.** Show that Tr[γ⁰]=0, first from the odd-trace rule of Lesson 21, Section 2.2, and then directly from the Dirac representation γ⁰=diag(I₂,−I₂). Explain why this vanishing trace is what removes the mass term in Exercise 10. |
+| 10 | **Core.** Using the completeness relation Σₛu_s(p)ū_s(p)=p̸+m, compute Σₛj⁰_s = Σₛū_s(p)γ⁰u_s(p) and verify it equals 4E_p (twice the single-spin-state result of Section 4.2, since there are two spin states). |
+| 11 | **Extension.** Explain, in your own words, why the Dirac current's derivation in Section 2.1 required no arbitrary insertion of a factor of i, unlike the Klein–Gordon current of Lesson 18, Section 3.1. |
+| 12 | **Extension.** Sketch, without full detail, how the derivation of Section 2.1 changes when the covariant derivative D_μ=∂_μ+iqA_μ replaces ∂_μ in the Dirac equation, and confirm that the new terms proportional to A_μ cancel between the two contributions, following the logic of Worked example 6. |
+| 13 | **Extension.** Explain why j^μ_(EM)=−eψ̄γ^μψ, rather than j^μ=ψ̄γ^μψ itself, is the physically appropriate current to insert into the Maxwell equation ∂_μF^μν=j^ν of Lesson 7, referencing the dimensional and physical role of electric charge. |
+| 14 | **Extension.** State, in a sentence, why the plane-wave current's proportionality to p^μ (Section 4.2) is exactly what would be expected classically for a stream of particles of four-velocity u^μ=p^μ/m (Lesson 4, Section 5.1), each carrying probability density ρ. |
+| 15 | **Extension.** Contrast the phrase "positive definite" as used for ρ=ψ†ψ in this lesson with the phrase "positive definite" as it might be (mis)applied to the classical energy of the free relativistic particle in Lesson 3; explain why the two uses, while both invoking positivity, refer to different mathematical objects (a probability density here, versus an energy there). |
+| 16 | **Challenge.** Using the current conservation law ∂_μj^μ=0 and the divergence theorem in four dimensions (a generalization of Lesson 2, Section 3.3, to spacetime), argue that the total charge Q=∫ρ d³x, computed on any spacelike slice of constant time, is the same on every such slice, provided j^μ vanishes sufficiently rapidly at spatial infinity, and relate this to the general statement of charge conservation first encountered in Lesson 7. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** γ⁰(γ²)†γ⁰ = γ⁰(−γ²)γ⁰ (using (γ²)†=−γ², anti-Hermiticity) = −γ⁰γ²γ⁰ = γ²γ⁰γ⁰ (using {γ⁰,γ²}=0) = γ² (using (γ⁰)²=I), confirming the identity for μ=2 by the same pattern as Worked example 1's μ=1 case.
 
@@ -253,20 +255,6 @@ This lesson's current, j^μ=ψ̄γ^μψ, reappears verbatim, with no modificatio
 
 **16.** Integrate ∂_μj^μ=0 over a four-dimensional spacetime region bounded by two spacelike slices at times t₁ and t₂ and, if needed, a timelike boundary at spatial infinity. The four-dimensional divergence theorem converts this to a statement that the flux of j^μ through the boundary of the region vanishes; if j vanishes at spatial infinity (so the timelike boundary contributes nothing), the flux through the t₂ slice (∫ρ(t₂)d³x, outward-pointing in time) must equal the flux through the t₁ slice (∫ρ(t₁)d³x), giving Q(t₂)=Q(t₁): the total charge is the same on every spacelike slice, precisely the statement of global charge conservation already encountered as a consequence of the local continuity equation in Lesson 7, Section 4.2, now re-derived in the fully relativistic, four-dimensional setting appropriate to the Dirac current.
 
-# Mastery checklist
+# Mastery check
 
-- I can derive the adjoint Dirac equation from the Dirac equation using γ⁰(γ^μ)†γ⁰=γ^μ.
-
-- I can derive ∂_μ(ψ̄γ^μψ)=0 by the multiply-and-subtract method, showing the mass terms cancel exactly.
-
-- I can show that ρ=ψ†ψ is a sum of squared magnitudes and explain why this guarantees positive definiteness.
-
-- I can explain, structurally, why the Dirac current avoids the sign problem that afflicted the Klein–Gordon current.
-
-- I can compute the Dirac current for a plane-wave solution and show it is proportional to the particle's four-momentum.
-
-- I can state the electromagnetic current j^μ_(EM)=−eψ̄γ^μψ and explain its role as a preview of the QED interaction term.
-
-- I can explain why current conservation survives the addition of a minimal-coupling interaction term.
-
-- I can summarize, in a short paragraph, the complete arc of Part III from the Klein–Gordon difficulty to its resolution here.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

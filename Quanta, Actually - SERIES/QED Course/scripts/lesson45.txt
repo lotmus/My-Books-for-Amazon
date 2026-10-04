@@ -34,6 +34,11 @@ The interaction term eψ̄γ^μψA_μ has appeared since Lesson 40, and the valu
 | k, λ | Incoming photon four-momentum and polarization |
 | ε_λ(k) | Photon polarization vector, Lesson 38 |
 
+BOX: First pass: the result before the derivation
+First-order perturbation theory with the mode expansions gives the vertex factor ieγ^μ (this course's sign convention) and momentum conservation at the vertex. A single vertex with all particles real cannot conserve energy and momentum.
+The vertex is a building block, not a process: real processes need at least two vertices.
+ENDBOX
+
 # 1 A first look at time-dependent perturbation theory
 
 ## 1.1 The interaction picture
@@ -98,12 +103,7 @@ $$ ⟨p′,s′| S^((1)) |p,s;k,λ⟩ = ie , ū_s′(p′) γ^μ u_s(p) , ε_λ,
 
 ## 3.3 The vertex factor
 
-FIG:
-    e⁻(p) ----*---- e⁻(p')   
-              |
-              |
-             γ(k)
-ENDFIG
+IMG: L45_vertex.png | 3.6 | Figure 45.1. The QED vertex. A fermion line enters with momentum p and leaves with p′; the photon carries q = p − p′. The vertex factor is ieγ^μ, one gamma matrix and one power of the charge.
 
 Writing this as i(2π)⁴δ⁴(p′−p−k)ℳ, the standard convention separating the universal momentum-conserving delta function from the process-specific amplitude ℳ, ℳ = e ū(p′)γ^μu(p)ε_μ(k). Stripping the external wavefunctions ū(p′), u(p), ε_μ(k), which will be replaced by whatever specific particles occupy each leg in a larger diagram, the object attached to this vertex, for every process built from it, is
 
@@ -169,24 +169,26 @@ With the vertex factor derived and its role clarified, Part VI is complete: ℒ_
 
 @widths 720 9072
 | No | Problem |
-| 1 | Starting from |ψ(t)⟩_I=U_I(t,t_0)|ψ(t_0)⟩_I and i∂_t|ψ(t)⟩_I=H_int,I(t)|ψ(t)⟩_I, derive the integral equation U_I(t,t_0)=1−i∫_(t_0)^t dt′H_int,I(t′)U_I(t′,t_0) by direct integration. |
-| 2 | Explain why replacing U_I(t′,t_0) by its zeroth-order value, 1, under the integral gives the first-order approximation U_I^(1), and state what physical assumption (weak coupling) justifies stopping at this order. |
-| 3 | Starting from H_int(t)=∫d³xℋ_int(x,t), rewrite U_I^(1)(+∞,−∞) as a single four-dimensional integral, ∫d⁴x. |
-| 4 | Using ℋ_int=−ℒ_int and ℒ_int=eψ̄γ^μψA_μ, derive Worked example 1's result S^(1)=ie∫d⁴xψ̄γ^μψA_μ. |
-| 5 | Explain why the d_s†(p) term of ψ(x)'s mode expansion does not contribute to the annihilation of an incoming electron, referring to what physical particle the d operators are associated with. |
-| 6 | Write out the specific term of ψ̄(x)'s mode expansion responsible for creating an outgoing electron of momentum p′, spin s′, and identify its exponential factor. |
-| 7 | State the mode-expansion contraction used for an incoming photon in Section 2.3, and explain why the relevant matrix element is ⟨0|A^i(x)|k,λ⟩ rather than ⟨k,λ|A^i(x)|0⟩. |
-| 8 | Carry out the x-integral of Section 3.1 explicitly, combining the three exponential factors e^(ip′x), e^(−ipx), e^(−ikx) into a single exponential and identifying its coefficient in the exponent as i(p′−p−k). |
-| 9 | Confirm that stripping ū(p′), u(p), and ε_μ(k) from ie ū(p′)γ^μu(p)ε_μ(k) leaves exactly ieγ^μ, and state which earlier lesson first quoted this value as a forward reference. |
-| 10 | Explain, referring to Section 1.2, why the overall factor of i in the vertex is not a free choice but is fixed by the same −i that appears in the ordinary time-dependent Schrödinger equation. |
-| 11 | Evaluate p·k explicitly in the electron's rest frame, p=(m,0,0,0), for a photon of energy ω and momentum k, and show p·k=mω. |
-| 12 | Using Exercise 11 and Section 4.1's result p·k=0, show that ω=0 is required, and explain why a zero-energy photon is not a physically meaningful external particle. |
-| 13 | Explain, in a sentence, why Compton scattering requires at least two vertices, referring to Worked example 4 and the fact that a single vertex cannot satisfy on-shell momentum conservation. |
-| 14 | If the initial state instead contained a positron rather than an electron, state which piece of ψ̄ (the b† or the d term) would be responsible for annihilating it, and which piece of ψ would be responsible for creating an outgoing positron. |
-| 15 | Explain why the vertex factor ieγ^μ derived in Section 3.3 contains no reference to the specific momenta p, p′, or k, and state what this implies about reusing the same vertex factor in a diagram with entirely different external momenta. |
-| 16 | Challenge: list, in order, the three inputs this lesson's derivation depended on (a formula from time-dependent perturbation theory, specific results from the field quantizations of Lessons 36 and 38, and the interaction term derived in Lesson 40), and state, for each, what would have had to be different if the derivation had instead been carried out for a hypothetical scalar (rather than Dirac) charged field interacting with the photon. |
+| 1 | **Extension.** Starting from |ψ(t)⟩_I=U_I(t,t_0)|ψ(t_0)⟩_I and i∂_t|ψ(t)⟩_I=H_int,I(t)|ψ(t)⟩_I, derive the integral equation U_I(t,t_0)=1−i∫_(t_0)^t dt′H_int,I(t′)U_I(t′,t_0) by direct integration. |
+| 2 | **Extension.** Explain why replacing U_I(t′,t_0) by its zeroth-order value, 1, under the integral gives the first-order approximation U_I^(1), and state what physical assumption (weak coupling) justifies stopping at this order. |
+| 3 | **Extension.** Starting from H_int(t)=∫d³xℋ_int(x,t), rewrite U_I^(1)(+∞,−∞) as a single four-dimensional integral, ∫d⁴x. |
+| 4 | **Core.** Using ℋ_int=−ℒ_int and ℒ_int=eψ̄γ^μψA_μ, derive Worked example 1's result S^(1)=ie∫d⁴xψ̄γ^μψA_μ. |
+| 5 | **Core.** Explain why the d_s†(p) term of ψ(x)'s mode expansion does not contribute to the annihilation of an incoming electron, referring to what physical particle the d operators are associated with. |
+| 6 | **Core.** Write out the specific term of ψ̄(x)'s mode expansion responsible for creating an outgoing electron of momentum p′, spin s′, and identify its exponential factor. |
+| 7 | **Extension.** State the mode-expansion contraction used for an incoming photon in Section 2.3, and explain why the relevant matrix element is ⟨0|A^i(x)|k,λ⟩ rather than ⟨k,λ|A^i(x)|0⟩. |
+| 8 | **Extension.** Carry out the x-integral of Section 3.1 explicitly, combining the three exponential factors e^(ip′x), e^(−ipx), e^(−ikx) into a single exponential and identifying its coefficient in the exponent as i(p′−p−k). |
+| 9 | **Core.** Confirm that stripping ū(p′), u(p), and ε_μ(k) from ie ū(p′)γ^μu(p)ε_μ(k) leaves exactly ieγ^μ, and state which earlier lesson first quoted this value as a forward reference. |
+| 10 | **Core.** Explain, referring to Section 1.2, why the overall factor of i in the vertex is not a free choice but is fixed by the same −i that appears in the ordinary time-dependent Schrödinger equation. |
+| 11 | **Core.** Evaluate p·k explicitly in the electron's rest frame, p=(m,0,0,0), for a photon of energy ω and momentum k, and show p·k=mω. |
+| 12 | **Core.** Using Exercise 11 and Section 4.1's result p·k=0, show that ω=0 is required, and explain why a zero-energy photon is not a physically meaningful external particle. |
+| 13 | **Core.** Explain, in a sentence, why Compton scattering requires at least two vertices, referring to Worked example 4 and the fact that a single vertex cannot satisfy on-shell momentum conservation. |
+| 14 | **Extension.** If the initial state instead contained a positron rather than an electron, state which piece of ψ̄ (the b† or the d term) would be responsible for annihilating it, and which piece of ψ would be responsible for creating an outgoing positron. |
+| 15 | **Extension.** Explain why the vertex factor ieγ^μ derived in Section 3.3 contains no reference to the specific momenta p, p′, or k, and state what this implies about reusing the same vertex factor in a diagram with entirely different external momenta. |
+| 16 | **Challenge.** List, in order, the three inputs this lesson's derivation depended on (a formula from time-dependent perturbation theory, specific results from the field quantizations of Lessons 36 and 38, and the interaction term derived in Lesson 40), and state, for each, what would have had to be different if the derivation had instead been carried out for a hypothetical scalar (rather than Dirac) charged field interacting with the photon. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Integrating i∂_tU_I(t,t_0)=H_int,I(t)U_I(t,t_0) from t_0 to t, using U_I(t_0,t_0)=1, gives U_I(t,t_0)−1=−i∫_(t_0)^t dt′H_int,I(t′)U_I(t′,t_0), i.e. U_I(t,t_0)=1−i∫_(t_0)^t dt′H_int,I(t′)U_I(t′,t_0), the stated integral equation, exact and not yet perturbative.
 
@@ -220,16 +222,6 @@ With the vertex factor derived and its role clarified, Part VI is complete: ℒ_
 
 **16.** The three inputs were: first, the formula S^(1)=−i∫d⁴xℋ_int from first-order time-dependent perturbation theory (Section 1), which depends only on there being some interaction Hamiltonian and not on the specific field content, and so would be unchanged for a scalar field; second, the specific mode-expansion contractions of Section 2, which for a scalar field would use the scalar field's own creation and annihilation operators and plane-wave factors e^(∓ipx) with no spinor u(p) or ū(p′) attached, since a scalar particle carries no spin degrees of freedom; third, the interaction term itself, eψ̄γ^μψA_μ for the Dirac field (Lesson 40), which for a charged scalar field would instead be the different interaction term derived for the complex scalar in Lesson 39's Solutions 9–10, −iqA^μ(φ*∂_μφ−φ∂_μφ*), producing a different-looking (momentum-dependent, rather than a fixed γ^μ) vertex factor, since that interaction term itself involves derivatives of the scalar field rather than a fixed bilinear like ψ̄γ^μψ.
 
-# Mastery checklist
+# Mastery check
 
-- I can derive S^(1)=−i∫d⁴xℋ_int from the interaction-picture Schrödinger equation.
-
-- I can identify which piece of each field's mode expansion annihilates an incoming particle or creates an outgoing one.
-
-- I can substitute these pieces into S^(1), carry out the x-integral, and read off the vertex factor ieγ^μ together with the momentum-conserving delta function.
-
-- I can show that a single vertex requires p·k=0 and explain why this rules it out as a complete physical process.
-
-- I can explain why real QED processes require at least two vertices connected by an internal line.
-
-- I can state the vertex factor from memory and sketch the derivation that produces it.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

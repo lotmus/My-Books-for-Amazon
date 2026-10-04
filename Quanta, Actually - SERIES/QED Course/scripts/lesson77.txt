@@ -35,6 +35,11 @@ In 1947 Willis Lamb and Robert Retherford measured a splitting of about 1000 MHz
 
 Natural units, and m is the electron mass. Proton recoil is neglected except where stated. In display equations, square brackets enclose function arguments and visible groupings.
 
+BOX: First pass: the result before the derivation
+Self-energy, the vertex and anomalous moment, and vacuum polarization split hydrogen's 2s₁/₂ and 2p₁/₂ levels by about 1058 MHz, dominated by Bethe's logarithm.
+The Lamb shift is the atomic-physics face of the same loops as Lessons 63–65.
+ENDBOX
+
 # 1 The Dirac degeneracy
 
 ## 1.1 The Dirac levels
@@ -48,6 +53,8 @@ The first correction is the Bohr energy. The second contains the relativistic ki
 ## 1.2 What the degeneracy means
 
 For n = 2, the states 2s₁/₂ (l = 0) and 2p₁/₂ (l = 1) both have j = ½, so the Dirac equation gives them the same energy. The 2p₃/₂ state lies higher, by the fine-structure interval of about 10,969 MHz. Any splitting between 2s₁/₂ and 2p₁/₂ is a measure of physics beyond the Dirac equation in a static Coulomb field.
+
+IMG: L77_lamb.png | 5.2 | Figure 77.1. The n = 2 levels of hydrogen: Dirac theory makes 2s₁/₂ and 2p₁/₂ degenerate; QED lifts 2s₁/₂ by about 1058 MHz.
 
 ### Worked example 1
 
@@ -180,21 +187,23 @@ This lesson derived Welton's estimate and the s-state structure of the shift, an
 
 @widths 720 9072
 | No | Problem |
-| 1 | Show from Section 1.1 that 2s₁/₂ and 2p₁/₂ are degenerate, and that 2p₃/₂ is not. |
-| 2 | Evaluate mα⁴/32 in MHz and compare it with the measured n = 2 fine structure. |
-| 3 | Explain why the 2s state is metastable, while 2p decays in about 1.6 ns. |
-| 4 | Derive ⟨E²⟩ = ∫dω ω³/(2π²) from the zero-point energy ω/2 per mode and two polarizations. |
-| 5 | Derive ⟨(δr)²⟩ = (2α/πm²)ln(ω_max/ω_min). |
-| 6 | Expand ⟨V(r + δr)⟩ to second order for isotropic δr and obtain (1/6)⟨(δr)²⟩∇²V. |
-| 7 | Show that ∇²(1/r) = −4πδ³(r), and hence ⟨∇²V⟩ = 4πZα|ψ(0)|² for V = −Zα/r. |
-| 8 | Using |ψ_2s(0)|² = (αm)³/(8π), evaluate the prefactor α⁵m/(6π) in MHz. |
-| 9 | Evaluate Bethe's shift with k₀ = 17.8 Ry and with k₀ = 16.6 Ry. |
-| 10 | Evaluate the 2s₁/₂ and 2p₁/₂ shifts from Section 5.2 and their difference. |
-| 11 | Compute the vacuum-polarization contribution to the 2s shift, and explain its sign. |
-| 12 | Explain why the finite-size effect is much larger in muonic hydrogen, using |ψ(0)|² ∝ m_reduced³. |
-| 13 | Challenge: why does Welton's argument, using only the electric field, not shift p-states, while the full result does shift 2p₁/₂ slightly? Which piece of Section 5.1 is responsible? |
+| 1 | **Core.** Show from Section 1.1 that 2s₁/₂ and 2p₁/₂ are degenerate, and that 2p₃/₂ is not. |
+| 2 | **Core.** Evaluate mα⁴/32 in MHz and compare it with the measured n = 2 fine structure. |
+| 3 | **Extension.** Explain why the 2s state is metastable, while 2p decays in about 1.6 ns. |
+| 4 | **Extension.** Derive ⟨E²⟩ = ∫dω ω³/(2π²) from the zero-point energy ω/2 per mode and two polarizations. |
+| 5 | **Extension.** Derive ⟨(δr)²⟩ = (2α/πm²)ln(ω_max/ω_min). |
+| 6 | **Core.** Expand ⟨V(r + δr)⟩ to second order for isotropic δr and obtain (1/6)⟨(δr)²⟩∇²V. |
+| 7 | **Extension.** Show that ∇²(1/r) = −4πδ³(r), and hence ⟨∇²V⟩ = 4πZα|ψ(0)|² for V = −Zα/r. |
+| 8 | **Core.** Using |ψ_2s(0)|² = (αm)³/(8π), evaluate the prefactor α⁵m/(6π) in MHz. |
+| 9 | **Core.** Evaluate Bethe's shift with k₀ = 17.8 Ry and with k₀ = 16.6 Ry. |
+| 10 | **Core.** Evaluate the 2s₁/₂ and 2p₁/₂ shifts from Section 5.2 and their difference. |
+| 11 | **Extension.** Compute the vacuum-polarization contribution to the 2s shift, and explain its sign. |
+| 12 | **Extension.** Explain why the finite-size effect is much larger in muonic hydrogen, using |ψ(0)|² ∝ m_reduced³. |
+| 13 | **Challenge.** Why does Welton's argument, using only the electric field, not shift p-states, while the full result does shift 2p₁/₂ slightly? Which piece of Section 5.1 is responsible? |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** The bracket depends only on n and j. For 2s₁/₂ and 2p₁/₂, n = 2 and j = ½, so the energies are equal. For 2p₃/₂, n/(j + ½) = 1 instead of 2, so its energy is higher.
 
@@ -222,16 +231,6 @@ This lesson derived Welton's estimate and the s-state structure of the shift, an
 
 **13.** Welton's argument smears only the Coulomb potential, which affects only states with ψ(0) ≠ 0. The 2p₁/₂ shift comes from the Bethe logarithm for l = 1, which is a small residual effect of the low-energy photons, and from the anomalous moment F₂, which changes the spin-orbit energy. The latter gives the (3/8)c/(2l + 1) term.
 
-# Mastery checklist
+# Mastery check
 
-- I can write the Dirac levels and explain why 2s₁/₂ and 2p₁/₂ are degenerate.
-
-- I can describe the Lamb–Retherford experiment.
-
-- I can derive Welton's ⟨(δr)²⟩ and the s-state shift.
-
-- I can reproduce Bethe's estimate and explain the role of mass renormalization.
-
-- I can assemble the leading QED result from F₁, F₂, and vacuum polarization, and compare it with experiment.
-
-- I can explain how the Lamb shift measures the proton radius.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

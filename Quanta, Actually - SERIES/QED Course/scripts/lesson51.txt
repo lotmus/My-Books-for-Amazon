@@ -33,6 +33,11 @@ Lesson 50 showed how to write down iℳ for a given diagram. This lesson asks wh
 | Γ, τ=1/Γ | Total decay rate and lifetime |
 | γ | Lorentz factor, E/m |
 
+BOX: First pass: the result before the derivation
+The rate of any process is |ℳ|² times a flux factor and phase space, after the (2π)⁴δ⁴ of momentum conservation has been squared and resolved.
+Squaring a delta function sounds illegal; done carefully it just gives the spacetime volume, which cancels against the flux.
+ENDBOX
+
 # 1 From amplitude to probability
 
 ## 1.1 Squaring the S-matrix element
@@ -97,6 +102,8 @@ Each outgoing particle contributes a factor d³p_f/((2π)³2E_f) to the final-st
 
 $$ dσ = (1/F) |ℳ|² (2π)⁴δ⁴(ΣP_f−ΣP_i) Π_f , d³p_f/((2π)³2E_f)
 
+IMG: L59_flow.png | 6.2 | Figure 51.1. From amplitude to measurement: |ℳ|², averaged and summed over spins, times flux and phase-space factors, gives the cross section.
+
 with the remaining volume factor of Section 2.1 having cancelled against the normalization built into F and the phase-space measure (Exercise 10 traces this cancellation structurally).
 
 ### Worked example 3
@@ -155,24 +162,26 @@ Lesson 52 now develops the tools needed to evaluate |ℳ|² explicitly, summing 
 
 @widths 720 9072
 | No | Problem |
-| 1 | State S_fi=δ_fi+i(2π)⁴δ⁴(P_f−P_i)ℳ_fi and explain why, for f≠i, only the second term contributes to \|S_fi\|². |
-| 2 | Using (2π)⁴δ⁴(P)=∫d⁴x e^(iPx), evaluate the integral at P=0 and explain why the result is the total four-volume of spacetime, VT. |
-| 3 | Combine Exercises 1 and 2 to derive \|S_fi\|²=VT(2π)⁴δ⁴(P_f−P_i)\|ℳ_fi\|². |
-| 4 | Divide Exercise 3's result by T and state the resulting expression for the transition rate. |
-| 5 | Explain, in one or two sentences, why a probability that grows linearly with T is exactly what a constant transition rate predicts, rather than a sign of an error. |
-| 6 | Explain why the leftover factor of V in the rate of Exercise 4 means this rate, by itself, is not yet a quantity two different experiments (with different beam densities) would agree on. |
-| 7 | State both forms of the flux factor F given in Section 3.2, and identify which experimental setups (name two) correspond to the collinear case where they agree. |
-| 8 | In the center-of-momentum frame, with p₁=−p₂ (equal and opposite three-momenta), write v₁=\|p₁\|/E₁ and v₂=\|p₁\|/E₂ (using \|p₂\|=\|p₁\| in this frame), and state, without full algebra, why F=4E₁E₂\|v₁−v₂\| and F=4√((p₁·p₂)²−m₁²m₂²) are expected to agree in this specific, collinear case. |
-| 9 | Explain why the phase-space measure d³p/((2π)³2E) is Lorentz invariant, citing the relativistic normalization convention u†u=2E_p already used since Lesson 20 or so. |
-| 10 | Explain, in general terms, how the leftover factor of V from Exercise 4 is expected to cancel once the flux factor F and the phase-space measure's normalization are both included in the full cross-section formula of Section 3.4. |
-| 11 | Write the complete cross-section formula from Section 3.4 and label each of its four pieces, following Worked example 3. |
-| 12 | Write the decay-rate formula of Section 4.2 and explain, in one sentence, why it has no flux factor. |
-| 13 | Explain why every factor in the decay-rate formula except 1/(2E_i) is Lorentz invariant, listing each remaining factor and its invariance property. |
-| 14 | Derive Γ=Γ_0/γ from Worked example 4's observation, using E_i=γm for a particle observed with Lorentz factor γ. |
-| 15 | Derive τ=γτ_0 from Exercise 14, and state, in a sentence, the well-known physical phenomenon this reproduces. |
-| 16 | Challenge: name the two topics (and their lesson numbers) still needed before either formula of this lesson can be evaluated explicitly and numerically for a specific QED process such as Compton scattering, and state in one sentence what each contributes. |
+| 1 | **Core.** State S_fi=δ_fi+i(2π)⁴δ⁴(P_f−P_i)ℳ_fi and explain why, for f≠i, only the second term contributes to \|S_fi\|². |
+| 2 | **Core.** Using (2π)⁴δ⁴(P)=∫d⁴x e^(iPx), evaluate the integral at P=0 and explain why the result is the total four-volume of spacetime, VT. |
+| 3 | **Extension.** Combine Exercises 1 and 2 to derive \|S_fi\|²=VT(2π)⁴δ⁴(P_f−P_i)\|ℳ_fi\|². |
+| 4 | **Core.** Divide Exercise 3's result by T and state the resulting expression for the transition rate. |
+| 5 | **Core.** Explain, in one or two sentences, why a probability that grows linearly with T is exactly what a constant transition rate predicts, rather than a sign of an error. |
+| 6 | **Core.** Explain why the leftover factor of V in the rate of Exercise 4 means this rate, by itself, is not yet a quantity two different experiments (with different beam densities) would agree on. |
+| 7 | **Core.** State both forms of the flux factor F given in Section 3.2, and identify which experimental setups (name two) correspond to the collinear case where they agree. |
+| 8 | **Extension.** In the center-of-momentum frame, with p₁=−p₂ (equal and opposite three-momenta), write v₁=\|p₁\|/E₁ and v₂=\|p₁\|/E₂ (using \|p₂\|=\|p₁\| in this frame), and state, without full algebra, why F=4E₁E₂\|v₁−v₂\| and F=4√((p₁·p₂)²−m₁²m₂²) are expected to agree in this specific, collinear case. |
+| 9 | **Extension.** Explain why the phase-space measure d³p/((2π)³2E) is Lorentz invariant, citing the relativistic normalization convention u†u=2E_p already used since Lesson 20 or so. |
+| 10 | **Extension.** Explain, in general terms, how the leftover factor of V from Exercise 4 is expected to cancel once the flux factor F and the phase-space measure's normalization are both included in the full cross-section formula of Section 3.4. |
+| 11 | **Core.** Write the complete cross-section formula from Section 3.4 and label each of its four pieces, following Worked example 3. |
+| 12 | **Core.** Write the decay-rate formula of Section 4.2 and explain, in one sentence, why it has no flux factor. |
+| 13 | **Extension.** Explain why every factor in the decay-rate formula except 1/(2E_i) is Lorentz invariant, listing each remaining factor and its invariance property. |
+| 14 | **Extension.** Derive Γ=Γ_0/γ from Worked example 4's observation, using E_i=γm for a particle observed with Lorentz factor γ. |
+| 15 | **Extension.** Derive τ=γτ_0 from Exercise 14, and state, in a sentence, the well-known physical phenomenon this reproduces. |
+| 16 | **Challenge.** Name the two topics (and their lesson numbers) still needed before either formula of this lesson can be evaluated explicitly and numerically for a specific QED process such as Compton scattering, and state in one sentence what each contributes. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** S_fi=δ_fi+i(2π)⁴δ⁴(P_f−P_i)ℳ_fi (Lesson 50). For f≠i, the initial and final states are distinct momentum configurations, so δ_fi=0 identically, leaving only the second term, and |S_fi|²=|i(2π)⁴δ⁴(P_f−P_i)ℳ_fi|²=|(2π)⁴δ⁴(P_f−P_i)|²|ℳ_fi|² (using |i|²=1).
 
@@ -206,14 +215,6 @@ Lesson 52 now develops the tools needed to evaluate |ℳ|² explicitly, summing 
 
 **16.** Lesson 52 (External Spinors and Polarization) supplies the trace technology needed to evaluate |ℳ|², summed or averaged over unmeasured spins and polarizations, as an explicit, closed-form expression rather than an abstract spinor sandwich; Lesson 53 (Momentum Conservation) supplies the kinematic bookkeeping (such as the Mandelstam variables) needed to carry out the remaining phase-space integrals of Section 3.4 or 4.2 explicitly for a specific process.
 
-# Mastery checklist
+# Mastery check
 
-- I can resolve the squared delta function [(2π)⁴δ⁴(P)]² using its Fourier representation.
-
-- I can derive the transition rate per unit time from |S_fi|² and explain why dividing by T is necessary.
-
-- I can state the cross-section formula and identify each of its four pieces.
-
-- I can state the decay-rate formula and explain why it needs no flux factor.
-
-- I can derive τ=γτ_0 directly from the 1/(2E_i) factor in the decay-rate formula.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

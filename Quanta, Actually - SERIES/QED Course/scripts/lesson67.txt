@@ -30,6 +30,11 @@ Lesson 62 asked a divergent integral to be felt, not fixed. Lessons 63 through 6
 | Δ | A stand-in combination of masses and external momenta, playing the role m² or (p−k)²-type quantities played in Lessons 63–65 |
 | Λ | The momentum cutoff: the integral is evaluated only for \|k_E\|<Λ, then Λ is sent to infinity at the very end |
 
+BOX: First pass: the result before the derivation
+After Wick rotation k⁰ = ik⁴_E and a cutoff Λ, the standard loop integral is i/(16π²)[ln(Λ²/Δ) − 1 + O(Δ/Λ²)]: a logarithm of the cutoff plus a finite part.
+Regularization makes the infinity a number you can see; renormalization (Lesson 68) then makes it disappear from predictions.
+ENDBOX
+
 # 1 What regularization means
 
 Lesson 62 wrote ∫d⁴k as an honest instruction: add up the diagram's value at every possible loop momentum. Section 3 of that lesson showed this instruction, taken completely literally, does not produce a finite number. Regularization does not change what is being asked. It changes, temporarily, how the instruction is carried out: replace "every possible k" with "every k up to some very large but finite bound Λ," compute the resulting perfectly ordinary, finite integral, and only afterward ask what happens as Λ is allowed to grow without limit. Whatever piece of the answer survives that limit and does not depend on how Λ was introduced is the physical content Lesson 68 keeps; whatever piece grows with Λ is dealt with there too, by a method this lesson does not yet need.
@@ -53,6 +58,8 @@ Explain why having poles on both sides of the real k⁰ axis, rather than both o
 ## 3.1 The idea
 
 Because the two poles sit in diagonally opposite quadrants of the complex k⁰ plane, a path that rotates the integration contour by ninety degrees, from the real axis to the imaginary axis, passes through neither quadrant containing a pole. Define a new, ordinary real variable k⁴_E by
+
+IMG: L67_wick.png | 4.6 | Figure 67.1. Wick rotation: the k⁰ contour is turned through 90° to the imaginary axis without crossing a pole, turning Minkowski into Euclidean integrals.
 
 $$ k⁰ = i k⁴_E
 
@@ -153,24 +160,26 @@ Sections 3 and 4 regularize a single-denominator integral completely. Lesson 63'
 
 @widths 720 9072
 | No | Problem |
-| 1 | State, in one sentence, the three steps regularization always involves. |
-| 2 | Explain why k²=(k⁰)²−|k⃗|² can be positive, negative, or zero depending on direction, giving a specific example of each using simple numbers. |
-| 3 | Restate Lesson 46's pole locations for a propagator's denominator, and explain why they sit in diagonally opposite quadrants of the complex k⁰ plane. |
-| 4 | Explain why a ninety-degree contour rotation, rather than some other angle, is the natural choice given Exercise 3's pole positions. |
-| 5 | Derive dk⁰=i,dk⁴_E directly from k⁰=ik⁴_E. |
-| 6 | Derive k²=−k_E² from k⁰=ik⁴_E, showing every step. |
-| 7 | Explain why k_E², unlike Minkowski k², is guaranteed non-negative for any real k⁴_E and k⃗. |
-| 8 | State Lesson 66's degree-of-divergence reasoning applied to Section 4.1's integral, and explain why treating both denominator factors as coming from the same k² gives a different, direct power count than treating them as two independent propagators. |
-| 9 | Look up or recall that the surface area of a unit sphere in n dimensions is 2π^(n/2)/Γ(n/2), and evaluate this for n=4 to confirm Section 4.3's factor of 2π². |
-| 10 | Verify the substitution k_E³dk_E=(1/2)u,du for u=k_E², by differentiating u=k_E² to find du=2k_E dk_E and rearranging. |
-| 11 | Evaluate ∫u,du/(u+Δ)² using the substitution v=u+Δ, showing every step, and confirm it gives ln(u+Δ)+Δ/(u+Δ)+C. |
-| 12 | Assemble Section 4.2 through 4.4's results into the final expression of Section 4.4, tracking every numerical factor (the 2π² from the solid angle, the (2π)⁴ from the original measure, and the 1/2 from the u-substitution). |
-| 13 | Take Section 4.4's exact result and expand ln((Λ²+Δ)/Δ) for Λ≫√Δ, confirming Worked example 3's large-Λ approximation 2lnΛ−lnΔ−1. |
-| 14 | Explain, in your own words, why the piece of Section 4.4's answer that survives as Λ→∞ unchanged is called "finite" while the ln Λ piece is not, even though both are, for any specific finite Λ, ordinary numbers. |
-| 15 | Explain why Feynman parametrization is needed for Lesson 63's vacuum polarization integral but was not needed for Section 4's toy integral, referring to how many distinct denominators each one has. |
-| 16 | Challenge: using Lesson 66's formula D=4−(3/2)E_e−E_γ together with this lesson's method, predict, without doing the calculation, whether the toy integral ∫d⁴k/(2π)⁴,1/(k²−Δ)³ (one more power of the same denominator) would converge, diverge logarithmically, or diverge as a positive power of Λ, and explain your reasoning by counting powers of k directly rather than using the external-leg formula (which does not apply to this integral, since it has no diagrammatic external legs at all). |
+| 1 | **Core.** State, in one sentence, the three steps regularization always involves. |
+| 2 | **Core.** Explain why k²=(k⁰)²−|k⃗|² can be positive, negative, or zero depending on direction, giving a specific example of each using simple numbers. |
+| 3 | **Extension.** Restate Lesson 46's pole locations for a propagator's denominator, and explain why they sit in diagonally opposite quadrants of the complex k⁰ plane. |
+| 4 | **Core.** Explain why a ninety-degree contour rotation, rather than some other angle, is the natural choice given Exercise 3's pole positions. |
+| 5 | **Extension.** Derive dk⁰=i,dk⁴_E directly from k⁰=ik⁴_E. |
+| 6 | **Extension.** Derive k²=−k_E² from k⁰=ik⁴_E, showing every step. |
+| 7 | **Core.** Explain why k_E², unlike Minkowski k², is guaranteed non-negative for any real k⁴_E and k⃗. |
+| 8 | **Extension.** State Lesson 66's degree-of-divergence reasoning applied to Section 4.1's integral, and explain why treating both denominator factors as coming from the same k² gives a different, direct power count than treating them as two independent propagators. |
+| 9 | **Core.** Look up or recall that the surface area of a unit sphere in n dimensions is 2π^(n/2)/Γ(n/2), and evaluate this for n=4 to confirm Section 4.3's factor of 2π². |
+| 10 | **Core.** Verify the substitution k_E³dk_E=(1/2)u,du for u=k_E², by differentiating u=k_E² to find du=2k_E dk_E and rearranging. |
+| 11 | **Core.** Evaluate ∫u,du/(u+Δ)² using the substitution v=u+Δ, showing every step, and confirm it gives ln(u+Δ)+Δ/(u+Δ)+C. |
+| 12 | **Extension.** Assemble Section 4.2 through 4.4's results into the final expression of Section 4.4, tracking every numerical factor (the 2π² from the solid angle, the (2π)⁴ from the original measure, and the 1/2 from the u-substitution). |
+| 13 | **Core.** Take Section 4.4's exact result and expand ln((Λ²+Δ)/Δ) for Λ≫√Δ, confirming Worked example 3's large-Λ approximation 2lnΛ−lnΔ−1. |
+| 14 | **Extension.** Explain, in your own words, why the piece of Section 4.4's answer that survives as Λ→∞ unchanged is called "finite" while the ln Λ piece is not, even though both are, for any specific finite Λ, ordinary numbers. |
+| 15 | **Extension.** Explain why Feynman parametrization is needed for Lesson 63's vacuum polarization integral but was not needed for Section 4's toy integral, referring to how many distinct denominators each one has. |
+| 16 | **Challenge.** Using Lesson 66's formula D=4−(3/2)E_e−E_γ together with this lesson's method, predict, without doing the calculation, whether the toy integral ∫d⁴k/(2π)⁴,1/(k²−Δ)³ (one more power of the same denominator) would converge, diverge logarithmically, or diverge as a positive power of Λ, and explain your reasoning by counting powers of k directly rather than using the external-leg formula (which does not apply to this integral, since it has no diagrammatic external legs at all). |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Regularization modifies a divergent integral with a temporary, removable parameter so that it becomes finite, evaluates the modified integral completely, and only then studies what survives and what depends on the parameter as it is removed.
 

@@ -35,6 +35,11 @@ Lesson 69 ended with a formula, α(Q²) = α/[1 − (α/3π) ln(Q²/m²)], and a
 
 Natural units throughout, and ln is the natural logarithm. In display equations, square brackets enclose function arguments and visible groupings.
 
+BOX: First pass: the result before the derivation
+The running is the solution of μ de/dμ = β(e) with β = e³/(12π²) > 0 for one lepton; solving it sums the leading logarithms.
+A positive β means QED gets stronger at short distances, the opposite of the strong force.
+ENDBOX
+
 # 1 From a logarithm to a derivative
 
 ## 1.1 Differentiating Lesson 69
@@ -129,6 +134,8 @@ Run 1/α from the electron mass to M_Z with the three charged leptons. Between m
 
 If β > 0, the coupling grows with μ and shrinks at long distance. This is QED, and it is screening restated. If β < 0, the coupling shrinks at short distance, which is called asymptotic freedom. The strong interaction behaves this way: its one-loop coefficient has the form 11 − (2/3)n_f, where the 11 comes from gluon self-interaction. That result is quoted here, not derived. If β = 0 at some value of the coupling, that value is a fixed point, where the theory looks the same at every scale. Lesson 69's Exercise 16 asked what Π̂ would have to be for β to vanish: independent of q², so that no logarithm appears.
 
+IMG: L70_beta.png | 5.2 | Figure 70.1. The sign of β decides the high-energy behaviour: β > 0 (QED) grows towards a Landau pole, β < 0 (QCD) weakens, β = 0 stays fixed.
+
 ## 5.2 The Landau pole as a property of the equation
 
 Setting 1/α(μ) = 0 in Section 4.2 gives
@@ -181,22 +188,24 @@ This lesson derived the one-loop β from Lesson 69's explicit loop, not from a g
 
 @widths 720 9072
 | No | Problem |
-| 1 | Starting from α(μ) = α/[1 − (α/3π)ln(μ²/m²)], compute dα/d ln μ and show it equals 2α(μ)²/(3π). |
-| 2 | Convert μ dα/dμ = 2α²/(3π) into β(e) = e³/(12π²), showing every factor. |
-| 3 | Derive Section 2.1's formula from Lesson 69's α_eff(Q²) = α/[1 − (α/3π)ln(Q²/m²)] by eliminating α in favor of α(μ). |
-| 4 | Verify Worked example 2's cancellation, keeping track of the factor of 2 from ln(Q²/μ²). |
-| 5 | Expand α/[1 − x] to third order in x = αL/3π, and say which diagrams produce each term. |
-| 6 | Integrate μ dα/dμ = bα²/(2π) from μ₀ to μ and show that b = 4/3 reproduces Lesson 69's formula. |
-| 7 | Compute b for the three charged leptons, then for leptons plus u, d, s, c, b quarks. |
-| 8 | Using Section 4.2, find 1/α at 10 GeV, starting from the leading-logarithm value 1/α(m_τ) ≈ 134.7 of Worked example 4, with the three leptons and all five lighter quarks treated as free above m_τ. Say why the result is only indicative. |
-| 9 | Explain why a fermion much heavier than μ does not appear in b, using Lesson 69's small-Q² limit. |
-| 10 | Show that matching at μ = m e^(5/6) instead of μ = m reproduces the constant −5/3 of Lesson 69. |
-| 11 | Derive μ_L = μ₀ exp[2π/(bα(μ₀))] and evaluate log₁₀(μ_L/m) for the electron alone. |
-| 12 | Using the two-loop β of Section 6, compute the ratio of the two-loop to the one-loop term at α = 1/129. |
-| 13 | Integrate μ dm/dμ = −(3α/2π)m at fixed α from 1 GeV to 100 GeV and give the fractional change in m. |
-| 14 | Challenge: explain why choosing μ = Q in a one-loop calculation does not make the calculation exact, and what the residual μ-dependence tells you. |
+| 1 | **Extension.** Starting from α(μ) = α/[1 − (α/3π)ln(μ²/m²)], compute dα/d ln μ and show it equals 2α(μ)²/(3π). |
+| 2 | **Core.** Convert μ dα/dμ = 2α²/(3π) into β(e) = e³/(12π²), showing every factor. |
+| 3 | **Extension.** Derive Section 2.1's formula from Lesson 69's α_eff(Q²) = α/[1 − (α/3π)ln(Q²/m²)] by eliminating α in favor of α(μ). |
+| 4 | **Core.** Verify Worked example 2's cancellation, keeping track of the factor of 2 from ln(Q²/μ²). |
+| 5 | **Core.** Expand α/[1 − x] to third order in x = αL/3π, and say which diagrams produce each term. |
+| 6 | **Core.** Integrate μ dα/dμ = bα²/(2π) from μ₀ to μ and show that b = 4/3 reproduces Lesson 69's formula. |
+| 7 | **Extension.** Compute b for the three charged leptons, then for leptons plus u, d, s, c, b quarks. |
+| 8 | **Extension.** Using Section 4.2, find 1/α at 10 GeV, starting from the leading-logarithm value 1/α(m_τ) ≈ 134.7 of Worked example 4, with the three leptons and all five lighter quarks treated as free above m_τ. Say why the result is only indicative. |
+| 9 | **Core.** Explain why a fermion much heavier than μ does not appear in b, using Lesson 69's small-Q² limit. |
+| 10 | **Extension.** Show that matching at μ = m e^(5/6) instead of μ = m reproduces the constant −5/3 of Lesson 69. |
+| 11 | **Extension.** Derive μ_L = μ₀ exp[2π/(bα(μ₀))] and evaluate log₁₀(μ_L/m) for the electron alone. |
+| 12 | **Core.** Using the two-loop β of Section 6, compute the ratio of the two-loop to the one-loop term at α = 1/129. |
+| 13 | **Core.** Integrate μ dm/dμ = −(3α/2π)m at fixed α from 1 GeV to 100 GeV and give the fractional change in m. |
+| 14 | **Challenge.** Explain why choosing μ = Q in a one-loop calculation does not make the calculation exact, and what the residual μ-dependence tells you. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Let D = 1 − (α/3π)L, with dL/d ln μ = 2. Then dα(μ)/d ln μ = α(α/3π)(2)/D² = (2/3π)(α/D)² = 2α(μ)²/(3π).
 

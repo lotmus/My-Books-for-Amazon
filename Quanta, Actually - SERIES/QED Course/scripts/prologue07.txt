@@ -1,111 +1,118 @@
-TITLE: The Schrödinger Equation
-TAGLINE: A ket does not sit still. The Hamiltonian is the machine that rotates its arrows as time passes
+TITLE: Maxwell's Alternative
+TAGLINE: E, B, and the wave equation are the right language when photons are many; they are not a rival theory, and they are not the first language of this book
 NUM: 7
-NEXT: Prologue 8 connects laboratory S-parameters — the microwave engineer's in-and-out arrows — to the S-matrix this course uses for particles.
+NEXT: Prologue 8 names the arrows with kets and bras and writes the Schrödinger equation, the law that turns them; Prologue 9 then connects them to the S-matrix and Feynman diagrams, still before Lesson 1's algebra.
 
 # How to use this prologue
 
-Prologue 1's arrows rotate with time. Prologue 6 named the situation |ψ⟩. This prologue writes the law that rotates it: the Schrödinger equation. Lesson 12 derives it properly and solves the free particle and the oscillator. Here is the idiot-proof version: iℏ times how fast the ket is changing equals a machine Ĥ acting on the ket. Ĥ is called the Hamiltonian because it is the energy. Expect four to six hours.
+Prologues 1–6 described light as photons and arrows, and electrons as the things that emit and absorb them. There is another complete language for the same facts when the clicks are too many to count: Maxwell's. Electric and magnetic fields, four equations, waves at speed c. Lesson 7 computes that language in full. This prologue places it as an alternative, not as a replacement, and says when to use which. Expect four to six hours.
 
 ## Learning objectives
 
-- Write iℏ d|ψ⟩/dt = Ĥ|ψ⟩ and say every symbol in English.
+- State Maxwell's four equations in words, as the alternative description of light and charge.
 
-- Explain a stationary state: the ket rotates, the probabilities do not.
+- Identify electromagnetic waves in vacuum as the many-photon limit of Prologue 1's clicks.
 
-- Connect the rotation rate of Prologue 1 to E/ℏ.
+- Explain why a single-photon interference pattern still follows Maxwell's intensities, while each detection remains a click.
 
-- State that Ĥ is the energy, and that the Schrödinger equation cannot survive relativity unchanged (Lesson 19).
+- State that this course keeps both: −¼F_μνF^{μν} in Lesson 42 is Maxwell's kinetic term, and the wavy line in a diagram is Prologue 5's photon.
+
+- Preview that E and B will be derived from A in Lesson 8, which is the door Mead's later view walks through.
 
 ## Notation and conventions
 
 @widths 2160 7632
 | Symbol | Meaning |
-| Ĥ | Hamiltonian: the energy machine |
-| ℏ | Planck's constant over 2π; this course often sets ℏ=1 |
-| i | Lesson 1's imaginary unit, a 90° rotation of an arrow |
-| stationary | A situation whose probabilities do not change, even though the ket rotates |
+| E, B | Electric and magnetic fields (Lesson 7) |
+| c | Wave speed in vacuum, one in this course's units |
+| many-photon limit | Occupation so large that only averages of clicks are seen |
 
-# 1 The law in one line
+# 1 The four equations, as an alternative
 
-$$ i ℏ  d|ψ⟩ / dt  =  Ĥ |ψ⟩
+Maxwell's alternative says: space is filled with two vector fields, E and B. Charge density is the source of E. There are no magnetic charges, so B lines close. A changing B makes a circulating E (Faraday). A current, and a changing E, make a circulating B (Ampère–Maxwell). Light is a wave of E and B that those equations permit in empty space, travelling at a speed fixed by the constants in the equations.
 
-English, left to right:
+IMG: P7_maxwell.png | 6.0 | Figure P7.1. Maxwell's four statements in pictures: field lines of E start and end on charges; lines of B never end; a changing B is circled by E; a current or changing E is circled by B. Together they allow a wave that travels at c.
 
-- i: rotate the arrow by 90°.
-- ℏ: a conversion between energy and rotation rate. In this course, often 1.
-- d|ψ⟩/dt: how the situation is changing right now.
-- Ĥ|ψ⟩: take the situation and ask "what is its energy mix?" Ĥ is a machine, not a number, until the situation is an energy eigenstate.
+That is a different inventory from "photons and arrows." It is extremely good at motors, radio antennas, and the energy in a capacitor. It does not, by itself, explain why a photomultiplier clicks in lumps.
 
-If Ĥ|ψ⟩=E|ψ⟩, a single energy, the solution is |ψ(t)⟩=e^{−iEt/ℏ}|ψ(0)⟩. The whole ket multiplies by a rotating arrow of length 1. Every sandwich ⟨φ|ψ(t)⟩ picks up that rotation. Probabilities, being lengths squared, do not notice a global rotation. That is a stationary state.
+Why fields first? Partly history. Faraday pictured lines of force filling the space around magnets and charges. Maxwell, building on him, actually gave the potentials a prominent place in his equations; it was Oliver Heaviside, in the 1880s, who tidied them into today's four equations for E and B and removed the potentials wherever he could, because fields could be measured directly and potentials could not. For classical circuits and waves that was a reasonable choice. It was a choice, though, not a law of nature, and quantum mechanics is where it stops being free (Section 4).
+
+# 2 When the alternative is the right tool
+
+If a radio antenna radiates 10³⁰ photons per second, nobody is counting clicks. The Poynting vector of Lesson 7, the wave equation, and the boundary conditions on a metal are the working theory. The arrow picture still sits underneath: each photon's arrows, added, produce an intensity that Maxwell already computed as |E|². The correspondence is:
+
+$$ (arrow length)²  ↔  energy flux in the wave  (up to a density of photons)
 
 ### Worked example 1
 
-Prologue 1 said blue light's arrow rotates faster than red. Where is that in Schrödinger? A photon of energy E=hf has rotation rate E/ℏ=2πf. Blue has larger f, hence larger E, hence faster rotation. The easy QED clock hand and the Schrödinger phase are the same object.
+A double-slit pattern built one photon at a time eventually draws the same bands Maxwell would have drawn for a continuous wave. Why is that not a contradiction? Maxwell's intensity is the probability map for the clicks. The alternative language predicts the map; the photon language predicts the lumps that fill it in. Use Maxwell for the map when the field is classical. Use arrows when the question is a single click, a single vertex, or a loop.
 
-# 2 Superposition moves
+# 3 Not a rival, a limit
 
-If |ψ⟩=|A⟩+|B⟩, two different energies, each piece rotates at its own rate. The relative arrow between A and B swings. Then |⟨click|ψ⟩|² can tick. That is every interference experiment that changes in time, and every electron that moves.
+This course will not choose Maxwell or Feynman. Lesson 42's Lagrangian contains Maxwell's field term −¼F² and the electron term that emits and absorbs the quanta of that field. Prologue 5's wavy line is a quantum of the Maxwell field. If you start from Maxwell alone you must later explain clicks. If you start from clicks you must later recover waves. Starting with clicks is the choice of this book; Lesson 7 still has to be done, because the wave equation, polarization, and energy density are how classical apparatus is calculated.
 
-# 3 What Schrödinger cannot do
+# 4 The door to potentials, and to Mead
 
-The equation treats time as a driver and space as a label on the wave function. Relativity will not allow that split. Lesson 18 tries Klein–Gordon, Lesson 20 succeeds with Dirac. This prologue is the nonrelativistic machine, and it is still the right machine for atoms when v≪c, including the hydrogen that Lesson 77 will shift by a loop.
+Maxwell can be rewritten so that E and B come from a scalar potential φ and a vector potential A (Lesson 8). That rewrite looks optional classically — a convenience for solving the wave equation. It is not optional quantum-mechanically: the Schrödinger and Dirac equations couple to A, not to E and B. Carver Mead's view, placed later as an Interlude after Lesson 41, takes that fact as primary: electromagnetism is the phase standard of charged matter, and E, B are derived. Read Prologue 7 as the classical alternative; read the Interlude as the quantum alternative to treating E and B as the primitive objects. The Feynman diagrams of Prologue 5 survive in both.
 
 # Connections to QED
 
 @widths 3264 6528
 | Result of this prologue | Where it is used |
-| iℏ d|ψ⟩/dt=Ĥ|ψ⟩ | Lesson 12, in full |
-| Rotation rate E/ℏ | Prologue 1 color; photon energy |
-| Stationary P | Energy eigenstates, Lesson 12 |
+| Maxwell as many-photon language | Lesson 7, in full |
+| Waves ↔ |E|² as probability map | Prologues 1–2 |
+| E, B from A | Lesson 8; Mead Interlude after Lesson 41 |
+| −¼F² in ℒ | Lesson 42 |
 
 # Summary
 
-1. The Schrödinger equation says how a ket changes.
+1. Maxwell's alternative: two fields, four equations, waves at c.
 
-2. Ĥ is the energy machine.
+2. It is the right tool when photons are many.
 
-3. One energy: rotate, probabilities sit still.
+3. A one-photon pattern still follows Maxwell intensities.
 
-4. Several energies: relative arrows move, interference ticks.
+4. This course's Lagrangian contains Maxwell, and its diagrams contain photons.
 
-5. Relativity will replace the equation; the idea "energy rotates arrows" stays.
+5. Potentials make E and B derived; Mead's view of that fact comes after Lesson 41.
 
 # Exercises
 
 @widths 720 9072
 | No | Problem |
-| 1 | Say iℏ d|ψ⟩/dt=Ĥ|ψ⟩ in six words. |
-| 2 | If Ĥ|ψ⟩=E|ψ⟩, write |ψ(t)⟩. |
-| 3 | Why don't probabilities change in a stationary state? |
-| 4 | Connect blue-versus-red rotation to E. |
-| 5 | What happens if two energies are superposed? |
-| 6 | Why must this equation change for a fast electron? |
-| 7 | Where is it solved in this course? |
-| 8 | Challenge: if ℏ=1, what is the period of the phase e^{−iEt}? |
+| 1 | **Extension.** State the four Maxwell equations in words. |
+| 2 | **Core.** What travels at c in the Maxwell language? |
+| 3 | **Core.** When is Maxwell the wrong first language for a photomultiplier? |
+| 4 | **Extension.** How can a one-photon double slit agree with Maxwell? |
+| 5 | **Core.** Where does this course write Maxwell into a Lagrangian? |
+| 6 | **Core.** Why will Lesson 8 bother with φ and A if E and B already work classically? |
+| 7 | **Core.** What, in one sentence, will Mead later say that this prologue does not yet say? |
+| 8 | **Challenge.** A cavity mode with mean photon number 10⁻³. Which language first? |
 
 # Solutions
 
-**1.** Energy rotates the situation's arrows.
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
-**2.** e^{−iEt/ℏ}|ψ(0)⟩.
+**1.** Gauss for E (charge sources E); Gauss for B (no magnetic charge); Faraday (changing B makes E); Ampère–Maxwell (current and changing E make B).
 
-**3.** A common rotating arrow of length 1 cancels in |⟨φ|ψ⟩|².
+**2.** A transverse wave of E and B.
 
-**4.** E=hf, rate E/ℏ=2πf; blue has larger f.
+**3.** When the question is a single click, not an average flux.
 
-**5.** The relative phase moves; P can tick.
+**4.** Maxwell's |E|² is the probability density for the clicks; the clicks still come one by one.
 
-**6.** Time and space must enter symmetrically; Schrödinger does not.
+**5.** Lesson 42, the −¼F_μνF^{μν} term.
 
-**7.** Lesson 12.
+**6.** Quantum equations couple to potentials; gauge symmetry of QED is a statement about A_μ.
 
-**8.** T=2π/E.
+**7.** That A, as the phase standard of matter, is primitive, and E, B are bookkeeping.
+
+**8.** Arrows (or the quantum field of Lesson 38): the occupation is not classical.
 
 # Mastery checklist
 
-- I can read the Schrödinger equation as "energy rotates kets."
+- I can state Maxwell's alternative in four sentences and name when to use it.
 
-- I can explain a stationary state without saying "nothing happens."
+- I can relate |E|² to (arrow length)² without erasing photons.
 
-- I know Lesson 12 is the full derivation.
+- I know Mead's A-first view is later, after Lesson 41, not a substitute for this prologue.

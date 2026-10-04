@@ -40,6 +40,11 @@ The lesson derives the equation from the minimal set of physical requirements, s
 | \|n⟩ | Number state of the harmonic oscillator |
 | ψ_H, A_H(t) | State and operator in the Heisenberg picture |
 
+BOX: First pass: the result before the derivation
+The state changes in time by iℏ ∂ψ/∂t = Ĥψ. A state of definite energy just turns its arrow, ψ(t) = φ e^(−iEt/ℏ), so its probabilities do not change; superpositions of different energies change in time.
+This is the stopwatch of Prologue 1, now with the turning rate set by energy.
+ENDBOX
+
 # 1 Deriving the equation
 
 ## 1.1 What the equation must satisfy
@@ -230,24 +235,26 @@ The single most important item in this table is the ladder operator structure of
 
 @widths 720 9072
 | No | Problem |
-| 1 | Verify that ψ = A cos(kx)e^(−iωt) does not solve the free Schrödinger equation for any single ω, but that A cos(kx) e^(−iωt) can be written as a sum of two plane waves each of which does. |
-| 2 | Solve the time-independent Schrödinger equation for a free particle confined to a ring of circumference L with periodic boundary conditions φ(x+L) = φ(x), and find the allowed energies. |
-| 3 | For the infinite well of Worked example 2, find the time-dependent wave function starting from ψ(x,0) = φ₁(x), and show \|ψ(x,t)\|² is independent of time. |
-| 4 | For the infinite well, find ψ(x,t) starting from ψ(x,0) = (φ₁(x)+φ₂(x))/√2, and compute ⟨x̂⟩(t), showing it oscillates. |
-| 5 | Find the oscillation frequency in Exercise 4 in terms of L and m, and compare it with the classical period of a particle bouncing between the walls at the corresponding energy. |
-| 6 | Show that a†\|0⟩ is normalized, that is ‖a†\|0⟩‖ = 1, using [a,a†] = 1 and a\|0⟩ = 0. |
-| 7 | Compute ⟨n\|p̂²\|n⟩ for the oscillator, using p̂ = i√(mℏω₀/2)(a†−a), and verify that ⟨H⟩ₙ = ℏω₀(n+1/2). |
-| 8 | Show that \|n⟩ = (a†)ⁿ\|0⟩/√(n!) is correctly normalized for n = 0, 1, 2 by explicit computation using [a,a†] = 1. |
-| 9 | For the two-level system of Worked example 6, find the smallest time T > 0 at which ⟨A⟩(T) returns to its initial value, and express T in terms of E₁ − E₂. |
-| 10 | Show that U(t₁)U(t₂) = U(t₁+t₂) directly from the definition U(t) = e^(−iĤt/ℏ), and explain why this composition law is required physically. |
-| 11 | Verify by direct substitution that ψ(x,t) = φₙ(x)e^(−iEₙt/ℏ) satisfies the full time-dependent Schrödinger equation, given that φₙ satisfies the time-independent one. |
-| 12 | In the Heisenberg picture, compute [x̂_H(t), p̂_H(t)] for the free particle using x̂_H(t) = x̂(0)+p̂(0)t/m and p̂_H(t) = p̂(0), and show it equals iℏ for all t. |
-| 13 | Show that the Heisenberg equation of motion reduces to Hamilton's equations of Lesson 6 in the classical limit by replacing [·,·]/iℏ with {·,·} formally. |
-| 14 | For the oscillator in the Heisenberg picture, solve dâ_H/dt = (i/ℏ)[Ĥ, â_H] = −iω₀â_H and show â_H(t) = â(0)e^(−iω₀t), matching the classical result of Lesson 6, Exercise 16. |
-| 15 | Using x̂_H(t) built from â_H(t) and â_H†(t) of Exercise 14, show that ⟨0\|x̂_H(t)\|0⟩ = 0 for all t, and explain why a system in its ground state shows no oscillation of ⟨x̂⟩. |
-| 16 | Challenge: for a general wave packet ψ(x,0) with Fourier transform φ̃(k) centered at k₀ with width Δk, use the Taylor expansion of Section 3.2 to show that the packet's spatial width grows as σ(t)² ≈ σ(0)² + (ℏt Δk/m)², and relate this to the uncertainty relation of Lesson 11. |
+| 1 | **Extension.** Verify that ψ = A cos(kx)e^(−iωt) does not solve the free Schrödinger equation for any single ω, but that A cos(kx) e^(−iωt) can be written as a sum of two plane waves each of which does. |
+| 2 | **Core.** Solve the time-independent Schrödinger equation for a free particle confined to a ring of circumference L with periodic boundary conditions φ(x+L) = φ(x), and find the allowed energies. |
+| 3 | **Core.** For the infinite well of Worked example 2, find the time-dependent wave function starting from ψ(x,0) = φ₁(x), and show \|ψ(x,t)\|² is independent of time. |
+| 4 | **Extension.** For the infinite well, find ψ(x,t) starting from ψ(x,0) = (φ₁(x)+φ₂(x))/√2, and compute ⟨x̂⟩(t), showing it oscillates. |
+| 5 | **Extension.** Find the oscillation frequency in Exercise 4 in terms of L and m, and compare it with the classical period of a particle bouncing between the walls at the corresponding energy. |
+| 6 | **Core.** Show that a†\|0⟩ is normalized, that is ‖a†\|0⟩‖ = 1, using [a,a†] = 1 and a\|0⟩ = 0. |
+| 7 | **Extension.** Compute ⟨n\|p̂²\|n⟩ for the oscillator, using p̂ = i√(mℏω₀/2)(a†−a), and verify that ⟨H⟩ₙ = ℏω₀(n+1/2). |
+| 8 | **Extension.** Show that \|n⟩ = (a†)ⁿ\|0⟩/√(n!) is correctly normalized for n = 0, 1, 2 by explicit computation using [a,a†] = 1. |
+| 9 | **Core.** For the two-level system of Worked example 6, find the smallest time T > 0 at which ⟨A⟩(T) returns to its initial value, and express T in terms of E₁ − E₂. |
+| 10 | **Extension.** Show that U(t₁)U(t₂) = U(t₁+t₂) directly from the definition U(t) = e^(−iĤt/ℏ), and explain why this composition law is required physically. |
+| 11 | **Core.** Verify by direct substitution that ψ(x,t) = φₙ(x)e^(−iEₙt/ℏ) satisfies the full time-dependent Schrödinger equation, given that φₙ satisfies the time-independent one. |
+| 12 | **Core.** In the Heisenberg picture, compute [x̂_H(t), p̂_H(t)] for the free particle using x̂_H(t) = x̂(0)+p̂(0)t/m and p̂_H(t) = p̂(0), and show it equals iℏ for all t. |
+| 13 | **Core.** Show that the Heisenberg equation of motion reduces to Hamilton's equations of Lesson 6 in the classical limit by replacing [·,·]/iℏ with {·,·} formally. |
+| 14 | **Core.** For the oscillator in the Heisenberg picture, solve dâ_H/dt = (i/ℏ)[Ĥ, â_H] = −iω₀â_H and show â_H(t) = â(0)e^(−iω₀t), matching the classical result of Lesson 6, Exercise 16. |
+| 15 | **Extension.** Using x̂_H(t) built from â_H(t) and â_H†(t) of Exercise 14, show that ⟨0\|x̂_H(t)\|0⟩ = 0 for all t, and explain why a system in its ground state shows no oscillation of ⟨x̂⟩. |
+| 16 | **Challenge.** For a general wave packet ψ(x,0) with Fourier transform φ̃(k) centered at k₀ with width Δk, use the Taylor expansion of Section 3.2 to show that the packet's spatial width grows as σ(t)² ≈ σ(0)² + (ℏt Δk/m)², and relate this to the uncertainty relation of Lesson 11. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** cos(kx)e^(−iωt) mixes e^(ikx) and e^(−ikx), which individually require ω = ℏk²/2m for the same ω since the dispersion relation depends only on k², but substituting the sum directly into the equation shows the time derivative acts uniformly while the space derivative gives −k² either way, so in fact cos(kx)e^(−iωt) does solve the equation with ω = ℏk²/2m; writing it as (1/2)(e^(ikx)+e^(−ikx))e^(−iωt) exhibits it as an equal-weight superposition of the two degenerate momentum states +ℏk and −ℏk noted in Worked example 3 of Lesson 11.
 
@@ -281,20 +288,6 @@ The single most important item in this table is the ladder operator structure of
 
 **16.** Each Fourier component near k₀ evolves with phase −ω(k)t ≈ −ω(k₀)t − ω′(k₀)(k−k₀)t − (1/2)ω″(k₀)(k−k₀)²t. The quadratic term introduces a k-dependent phase curvature that, after reassembling the packet by Fourier transform, translates into a broadening of the position-space envelope by an amount proportional to \|ω″(k₀)\|Δk·t = (ℏ/m)Δk·t, giving σ(t)² ≈ σ(0)² + (ℏΔk t/m)². Since Δk ~ 1/σ(0) by the Fourier-uncertainty relation of Lesson 2 (matching Δp ~ ℏ/σ(0), consistent with Lesson 11's uncertainty relation), the spreading rate is set by the same ℏ that bounds ΔxΔp: a more sharply localized packet, with smaller σ(0), has larger Δk and therefore spreads faster, an intrinsically quantum trade-off with no classical counterpart.
 
-# Mastery checklist
+# Mastery check
 
-- I can derive the Schrödinger equation from the correspondence rule and the classical energy relation.
-
-- I can solve the time-independent equation for a simple potential and write the corresponding stationary state.
-
-- I can explain why a free-particle wave packet spreads, using the group-velocity expansion of ω(k).
-
-- I can solve the harmonic oscillator with ladder operators and state its energy spectrum, including the zero-point energy.
-
-- I can expand a general initial state in energy eigenstates and write down its time evolution.
-
-- I can state the definition of U(t) and explain why its unitarity guarantees conservation of probability.
-
-- I can convert between the Schrödinger and Heisenberg pictures for a simple observable.
-
-- I can explain in one or two sentences why the Schrödinger equation fails to be Lorentz covariant.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

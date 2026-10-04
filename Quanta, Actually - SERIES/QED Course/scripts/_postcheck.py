@@ -5,7 +5,7 @@ ROOT = _os.path.dirname(HERE)
 from docx import Document
 from docx.oxml.ns import qn
 
-p = _os.path.join(ROOT, "Complete QED Course.docx")
+p = _os.path.join(ROOT, "Quantum, Actually - Volume 2.docx")
 d = Document(p)
 text = "\n".join(x.text for x in d.paragraphs)
 checks = [

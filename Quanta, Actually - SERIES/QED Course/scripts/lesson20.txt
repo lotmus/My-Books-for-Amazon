@@ -40,6 +40,11 @@ The reward for the effort of Lesson 19 is considerable: the equation constructed
 | σ | Two-component Pauli matrices (Lesson 1, Lesson 15), reused as 2×2 blocks |
 | χ | Two-component spinor labeling spin orientation within u(p) or v(p) |
 
+BOX: First pass: the result before the derivation
+Dirac found a first-order relativistic equation, (iγ^μ∂_μ − m)ψ = 0, whose matrices obey {γ^μ, γ^ν} = 2g^μν. Its solutions have four components, and squaring the equation gives back Klein–Gordon.
+Four components means spin up and down for both the electron and its antiparticle; the γ matrices will appear in every electron vertex.
+ENDBOX
+
 # 1 The Dirac equation in Hamiltonian form
 
 ## 1.1 Statement
@@ -246,24 +251,26 @@ The explicit spinor forms of Sections 6.2 and 6.3, u(p) and v(p), are not merely
 
 @widths 720 9072
 | No | Problem |
-| 1 | Verify {αₓ,αᵧ}=0 in the Dirac representation by explicit 2×2 block matrix multiplication. |
-| 2 | Verify {αᵧ,β}=0 in the Dirac representation, following the method of Worked example 1. |
-| 3 | Write out γ² and γ³ in the Dirac representation explicitly, using γⁱ=βαⁱ. |
-| 4 | Verify {γ⁰,γ²}=0 directly using the explicit block forms of γ⁰ and γ² from Exercise 3. |
-| 5 | Show, using only the abstract algebra {γ^μ,γ^ν}=2g^μν (not any explicit representation), that (γ⁰)²=I and (γⁱ)²=−I for i=1,2,3. |
-| 6 | For the rest-frame solutions of Section 5.2, write all four independent spinors u₁,…,u₄ explicitly as four-component column vectors, choosing χ=(1,0)ᵀ or (0,1)ᵀ in each branch. |
-| 7 | Using u(p)=N(χ,(σ·p)/(E_p+m)χ)ᵀ, verify the calculation of Worked example 6 leading to N=√(E_p+m), filling in the intermediate algebra. |
-| 8 | For p along the z axis, p=(0,0,p_z), compute σ·p=p_zσ_z explicitly, and write out u(p) for χ=(1,0)ᵀ as an explicit four-component column vector in terms of p_z, E_p, and m. |
-| 9 | Show that (σ·p)²=\|p\|²I₂ for any three-vector p, using the Pauli matrix identity σᵢσⱼ=δᵢⱼI+iεᵢⱼₖσₖ. |
-| 10 | Verify the dispersion-relation consistency check of Section 6.2, E_p(E_p+m)=\|p\|²+m(E_p+m), algebraically reduces to E_p²=\|p\|²+m². |
-| 11 | Show that as p→0, v(p) of Section 6.3 reduces to the E=−m rest-frame solution of Section 5.2, by the same limiting argument as Worked example 5. |
-| 12 | Verify explicitly that ψ=u(p)e^(−ip·x) satisfies the Klein–Gordon equation (□+m²)ψ=0 component by component, using the plane-wave differentiation rules of Lesson 4, Section 6.2, and the dispersion relation E_p²=\|p\|²+m². |
-| 13 | Show that if u(p) satisfies E_pu=(α·p+βm)u, then u also satisfies the covariant equation (p̸−m)u=0, where p̸=γ^μp_μ, by converting the Hamiltonian-form equation to gamma-matrix form using the same manipulation as Section 3.1. |
-| 14 | Using the result of Exercise 13, verify (p̸−m)(p̸+m)u=0 reduces to (p²−m²)u=0 via the Clifford algebra, confirming p²=m² (the on-shell condition) is required, consistent with E_p²=\|p\|²+m². |
-| 15 | Explain, in your own words, why the appearance of both u(p) and v(p) in Sections 6.2 and 6.3 is the direct spinor-level manifestation of the two energy branches already found for the Klein–Gordon equation in Lesson 18, Section 2.1. |
-| 16 | Challenge: show that the two positive-energy spinors u(p) built from χ=(1,0)ᵀ and χ=(0,1)ᵀ are orthogonal, u†(p;χ₁)u(p;χ₂)=0 for χ₁≠χ₂ orthogonal two-spinors, by direct computation using the block form of Section 6.2 and the orthogonality χ₁†χ₂=0. |
+| 1 | **Core.** Verify {αₓ,αᵧ}=0 in the Dirac representation by explicit 2×2 block matrix multiplication. |
+| 2 | **Core.** Verify {αᵧ,β}=0 in the Dirac representation, following the method of Worked example 1. |
+| 3 | **Core.** Write out γ² and γ³ in the Dirac representation explicitly, using γⁱ=βαⁱ. |
+| 4 | **Core.** Verify {γ⁰,γ²}=0 directly using the explicit block forms of γ⁰ and γ² from Exercise 3. |
+| 5 | **Core.** Show, using only the abstract algebra {γ^μ,γ^ν}=2g^μν (not any explicit representation), that (γ⁰)²=I and (γⁱ)²=−I for i=1,2,3. |
+| 6 | **Core.** For the rest-frame solutions of Section 5.2, write all four independent spinors u₁,…,u₄ explicitly as four-component column vectors, choosing χ=(1,0)ᵀ or (0,1)ᵀ in each branch. |
+| 7 | **Extension.** Using u(p)=N(χ,(σ·p)/(E_p+m)χ)ᵀ, verify the calculation of Worked example 6 leading to N=√(E_p+m), filling in the intermediate algebra. |
+| 8 | **Core.** For p along the z axis, p=(0,0,p_z), compute σ·p=p_zσ_z explicitly, and write out u(p) for χ=(1,0)ᵀ as an explicit four-component column vector in terms of p_z, E_p, and m. |
+| 9 | **Extension.** Show that (σ·p)²=\|p\|²I₂ for any three-vector p, using the Pauli matrix identity σᵢσⱼ=δᵢⱼI+iεᵢⱼₖσₖ. |
+| 10 | **Extension.** Verify the dispersion-relation consistency check of Section 6.2, E_p(E_p+m)=\|p\|²+m(E_p+m), algebraically reduces to E_p²=\|p\|²+m². |
+| 11 | **Core.** Show that as p→0, v(p) of Section 6.3 reduces to the E=−m rest-frame solution of Section 5.2, by the same limiting argument as Worked example 5. |
+| 12 | **Extension.** Verify explicitly that ψ=u(p)e^(−ip·x) satisfies the Klein–Gordon equation (□+m²)ψ=0 component by component, using the plane-wave differentiation rules of Lesson 4, Section 6.2, and the dispersion relation E_p²=\|p\|²+m². |
+| 13 | **Extension.** Show that if u(p) satisfies E_pu=(α·p+βm)u, then u also satisfies the covariant equation (p̸−m)u=0, where p̸=γ^μp_μ, by converting the Hamiltonian-form equation to gamma-matrix form using the same manipulation as Section 3.1. |
+| 14 | **Extension.** Using the result of Exercise 13, verify (p̸−m)(p̸+m)u=0 reduces to (p²−m²)u=0 via the Clifford algebra, confirming p²=m² (the on-shell condition) is required, consistent with E_p²=\|p\|²+m². |
+| 15 | **Extension.** Explain, in your own words, why the appearance of both u(p) and v(p) in Sections 6.2 and 6.3 is the direct spinor-level manifestation of the two energy branches already found for the Klein–Gordon equation in Lesson 18, Section 2.1. |
+| 16 | **Challenge.** Show that the two positive-energy spinors u(p) built from χ=(1,0)ᵀ and χ=(0,1)ᵀ are orthogonal, u†(p;χ₁)u(p;χ₂)=0 for χ₁≠χ₂ orthogonal two-spinors, by direct computation using the block form of Section 6.2 and the orthogonality χ₁†χ₂=0. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** αₓαᵧ = [[0,σₓ],[σₓ,0]][[0,σᵧ],[σᵧ,0]] = [[σₓσᵧ,0],[0,σₓσᵧ]]. αᵧαₓ = [[σᵧσₓ,0],[0,σᵧσₓ]]. Adding: [[σₓσᵧ+σᵧσₓ,0],[0,σₓσᵧ+σᵧσₓ]] = [[0,0],[0,0]] using {σₓ,σᵧ}=0 from Lesson 1.
 
@@ -297,20 +304,6 @@ The explicit spinor forms of Sections 6.2 and 6.3, u(p) and v(p), are not merely
 
 **16.** u(p;χ₁)†u(p;χ₂) = N²[χ₁†χ₂ + χ₁†(σ·p)†(σ·p)/(E_p+m)² χ₂] = N²[χ₁†χ₂ + χ₁†(σ·p)²/(E_p+m)²χ₂] (using (σ·p)†=σ·p, Hermiticity of the Pauli matrices) = N²[1+\|p\|²/(E_p+m)²]χ₁†χ₂ (using (σ·p)²=\|p\|²I from Exercise 9), which vanishes whenever χ₁†χ₂=0, confirming orthogonality of the two spin states carries over directly to the moving-particle spinors.
 
-# Mastery checklist
+# Mastery check
 
-- I can write the Dirac equation in Hamiltonian form and state the algebra its coefficients must satisfy.
-
-- I can write the Dirac representation of α and β explicitly and verify at least one anticommutation relation by direct block multiplication.
-
-- I can define the gamma matrices from α and β and state the Clifford algebra {γ^μ,γ^ν}=2g^μν.
-
-- I can show, using only the Clifford algebra, that the Dirac equation squares to the Klein–Gordon equation.
-
-- I can find all four rest-frame solutions of the Dirac equation and identify their energy and spin labels.
-
-- I can derive the block equations for general momentum and write down u(p) and v(p) explicitly.
-
-- I can compute u†(p)u(p) and state the standard covariant normalization convention.
-
-- I can list the three questions this lesson deliberately leaves open and name the lesson where each is resolved.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

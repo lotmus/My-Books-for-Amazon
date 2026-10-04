@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Document-level finish: retitle, copyright, map, heading surgery,
 static hyperlinked TOC, bookmarks, lesson links, gutter, bibliography.
-Run after lessons have been spliced into Complete QED Course.docx.
+Run after lessons have been spliced into Quantum, Actually - Volume 2.docx.
 """
 import copy
 import os
@@ -26,26 +26,25 @@ KEEP_H1 = re.compile(
     r"^(Lesson \d+[: ]|Part [IVX0]|Prologue \d+|Interlude[: ]|Table of Contents|Copyright|"
     r"How to read this book|Also in This Series|Glossary of symbols|Course capstone|"
     r"Consolidated formula index|Bibliography|Also by Lothar J\. Musiol$|"
-    r"Complete Quantum Electrodynamics Course$)"
+    r"Complete Quantum Electrodynamics Course$|Volume \d+ - .*$)"
 )
 LESSON_H1 = re.compile(r"^Lesson (\d+)[: ]")
 
-# Quanta, Actually series front matter (same layout as Physics, Actually):
+# Quantum, Actually series front matter (same layout as Physics, Actually):
 # Title = series name, Heading 1 = book title, subtitle, series line, author.
 SERIES = bl.SERIES
-SERIES_LINE = "Volume %d in the %s Series" % (bl.SERIES_VOLUME, SERIES)
-BOOK_TITLE = "Complete Quantum Electrodynamics Course"
+SERIES_LINE = "A Volume in the %s Series" % SERIES  # as in Math, Actually
+BOOK_TITLE = bl.VOLUME_TITLE
+VOLUME_H1 = "Volume %d - %s" % (bl.SERIES_VOLUME, bl.VOLUME_TITLE)  # Math, Actually: "Volume 1 - From Arithmetic to Calculus"
 SUBTITLE = "From Mathematical Foundations to One-Loop QED"
 SERIES_BLUE = RGBColor(0x4F, 0x81, 0xBD)
 ALSO_IN_SERIES = [
-    "Volume 1 — The Quantum World: From Quanta and Entanglement to Quantum Fields, Gravity, "
-    "and the Future of Computing. The conceptual survey: entanglement and Bell tests, quantum "
-    "fields, QED and QCD side by side, cryptography, and computing, with no calculation required.",
-    "Volume 2 — The Quantum Conversation: Phase, Light, and the Hidden Architecture of "
-    "Electromagnetism. Electromagnetism read outward from quantum phase and the potential, "
-    "the view this course's Interlude after Lesson 41 summarizes.",
-    "Volume 3 — Complete Quantum Electrodynamics Course: From Mathematical Foundations to "
-    "One-Loop QED. This book: the calculation course.",
+    "Volume 1 — Questions and Answers from the Double Slit to the Superconducting Wire. "
+    "The conceptual book, with no calculation required: interference, entanglement and Bell tests, "
+    "quantum fields, and, in its Part Two, electromagnetism read outward from quantum phase and the "
+    "potential, the view this course's Interlude after Lesson 41 summarizes.",
+    "Volume 2 — A QED Course: From Mathematical Foundations to One-Loop QED. "
+    "This book: the calculation course.",
 ]
 
 # Back matter: the canonical "Also by Lothar J. Musiol" list (same in every book; see
@@ -64,10 +63,9 @@ ALSO_BY = [
         'Math, Actually, Volume 3: From Differential Equations to Abstract Algebra',
         'Math, Actually, Volume 4: From Category Theory to the Frontier',
     ]),
-    ('Quanta, Actually', [
-        'Quanta, Actually, Volume 1: The Quantum World',
-        'Quanta, Actually, Volume 2: The Quantum Conversation',
-        'Quanta, Actually, Volume 3: Complete Quantum Electrodynamics Course',
+    ('Quantum, Actually', [
+        'Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire',
+        'Quantum, Actually, Volume 2: A QED Course',
     ]),
     ('Science Sparks', [
         'Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights',
@@ -139,24 +137,46 @@ def _series_runs(p, text):
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
 
 
+def _set_text(p, text):
+    runs = p.runs
+    if runs:
+        runs[0].text = text
+        for r in runs[1:]:
+            r.text = ""
+    else:
+        p.add_run(text)
+
+
+SERIES_LINE_RE = re.compile(r"^(Volume \d+ in the .* Series|A Volume in the .* Series)$")
+
+
 def series_title_page(doc):
-    """Idempotent: Title 'Quanta, Actually', Heading 1 book title, subtitle,
-    series line, author (bold blue 13 pt, as in Physics, Actually)."""
+    """Idempotent, Math, Actually layout: Title = series name, Heading 1 =
+    'Volume N - Title', subtitle, 'A Volume in the ... Series', author
+    (bold blue 13 pt); running head = full title."""
     paras = doc.paragraphs[:14]
     title = next((p for p in paras if p.style is not None and p.style.name == "Title"), None)
     if title is not None and title.text.strip() != SERIES:
-        new = copy.deepcopy(title._p)
-        title._p.addprevious(new)
-        ts = list(new.iter(qn("w:t")))
-        ts[0].text = SERIES
-        for t in ts[1:]:
-            t.text = ""
-        title.style = doc.styles["Heading 1"]
-        title.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        _set_text(title, SERIES)
+    for p in paras:
+        if p.style is not None and p.style.name == "Heading 1":
+            if p.text.strip() in ("Copyright", "Table of Contents"):
+                break
+            if p.text.strip() != VOLUME_H1:
+                _set_text(p, VOLUME_H1)
+            break
     paras = doc.paragraphs[:14]
+    have = False
+    for p in paras:
+        if SERIES_LINE_RE.match(p.text.strip()):
+            have = True
+            if p.text.strip() != SERIES_LINE:
+                for r in list(p.runs):
+                    r._r.getparent().remove(r._r)
+                _series_runs(p, SERIES_LINE)
     sub = next((p for p in paras if p.style is not None and p.style.name == "Subtitle"
                 and "mathematical foundations" in p.text.lower()), None)
-    if not any(p.text.strip() == SERIES_LINE for p in paras) and sub is not None:
+    if not have and sub is not None:
         line = doc.add_paragraph()
         sub._p.addnext(line._p)
         _series_runs(line, SERIES_LINE)
@@ -164,9 +184,16 @@ def series_title_page(doc):
         if p.text.strip() == bl.AUTHOR and p.style is not None and p.style.name == "Subtitle":
             p.style = doc.styles["Normal"]
             _series_runs(p, bl.AUTHOR)
-    doc.core_properties.title = BOOK_TITLE
-    doc.core_properties.subject = "%s, Volume %d" % (SERIES, bl.SERIES_VOLUME)
-    doc.core_properties.keywords = "%s; Volume %d" % (SERIES, bl.SERIES_VOLUME)
+    for sec in doc.sections:
+        for hdr in (sec.header, sec.even_page_header):
+            for p in hdr.paragraphs:
+                if "QED Course" in p.text or "Actually" in p.text:
+                    _set_text(p, bl.RUNNING_HEAD)
+    doc.core_properties.title = bl.FULL_TITLE
+    doc.core_properties.subject = "%s series, Volume %d" % (SERIES, bl.SERIES_VOLUME)
+    doc.core_properties.keywords = ("quantum electrodynamics; QED; Feynman diagrams; Dirac equation; "
+                                    "quantum field theory; renormalization; g-2; Lamb shift; exercises with solutions")
+    doc.core_properties.author = bl.AUTHOR
 LESSON_MENTION = re.compile(r"Lesson (\d+)")
 
 
@@ -502,7 +529,7 @@ def insert_front_matter(doc):
     h = b.heading("Copyright", 1)
     _bookmark_p(h._p, "Copyright", 3006)
     b.para(SERIES)
-    b.para(BOOK_TITLE)
+    b.para("Volume %d: %s" % (bl.SERIES_VOLUME, BOOK_TITLE))
     b.para(SUBTITLE)
     b.para("Lothar J. Musiol")
     b.para("First edition, 2026")
@@ -538,11 +565,23 @@ def insert_front_matter(doc):
         "Work with pencil and paper. Attempt each worked example before reading its answer, "
         "and the exercises before the solutions. Solutions sit at the end of the lesson that posed them."
     )
-    b.para("Four routes:")
+    b.para(
+        "Exercises carry three labels. Core exercises are the minimum before moving on. Extension exercises deepen the lesson "
+        "and are worth doing on a second pass. Each lesson has one Challenge, which is optional. Before most major derivations "
+        "a shaded First pass box states the result and why it matters, so that you know where the algebra is going."
+    )
+    b.para("The core track. If you want the shortest honest route from arrows to loop corrections, read Prologues 1–6 and these "
+           "35 lessons, in order, doing the Core exercises: 1, 3, 4, 5, 7, 8, 10, 12, 18, 20, 21, 22, 23, 26, 28, 33, 36, 38, "
+           "39, 42, 45, 46, 47, 48, 50, 52, 53, 54, 57, 59, 62, 63, 67, 68, 69. Skim Lessons 55 and 56 for the trace results "
+           "used later; Lesson 76 (g − 2) is the natural finish. The other lessons fill in proofs, alternatives and applications; "
+           "come back to them when a core lesson cites them.")
+    b.image("Front_route.png", 5.8, "The core track (shaded) inside the full course.")
+    b.para("Routes through the full course:")
     b.bullet(
-        "Prologues 1–9 first, always. Feynman’s easy QED in this course’s words (photons, arrows, all paths, three actions), "
-        "Maxwell as the many-photon alternative, bras and kets, the Schrödinger equation, S-parameters as ⟨f|S|i⟩, "
-        "and Feynman diagrams with no assumed background. Plan on 30–50 hours. Then Lesson 1."
+        "Prologues 1–6 first, always: Feynman’s easy QED in this course’s words (photons, arrows, partial reflection, all paths, "
+        "arrows as complex numbers, the three basic actions, loops and infinities), with no assumed background. "
+        "Prologues 7–9 add Maxwell as the many-photon alternative, bras and kets with the Schrödinger equation, "
+        "and the S-matrix with Feynman diagrams. Plan on 30–50 hours. Then Lesson 1."
     )
     b.bullet(
         "Lessons 1–38, the foundation, if complex numbers, Dirac matrices, or canonical quantization are not yet automatic. "
@@ -552,7 +591,7 @@ def insert_front_matter(doc):
     )
     b.bullet(
         "After Lesson 41, read the Interlude on Mead’s view (A as the phase standard; E and B derived). Do not move it to the front. "
-        "The Quantum Conversation (Volume 2) develops that view at book length."
+        "Volume 1, Part Two, develops that view at book length."
     )
     b.bullet(
         "Lessons 39–61, the QED spine, if the foundation is already in hand. Start at Lesson 39. "
@@ -574,10 +613,10 @@ def insert_front_matter(doc):
         "and ordinary quantum mechanics are willing to be rebuilt rather than assumed."
     )
     b.para(
-        "This is Volume 3 of Quanta, Actually and the most technical of the three. "
-        "The Quantum World (Volume 1) is the conceptual map, and The Quantum Conversation (Volume 2) "
-        "reads electromagnetism outward from quantum phase and the potential. Neither is required here; "
-        "this course is where what they describe gets calculated."
+        "This is Volume 2 of Quantum, Actually and the technical companion to Volume 1. "
+        "Volume 1 is the conceptual map, and its Part Two "
+        "reads electromagnetism outward from quantum phase and the potential. It is not required here; "
+        "this course is where what it describes gets calculated."
     )
     b.pagebreak()
 

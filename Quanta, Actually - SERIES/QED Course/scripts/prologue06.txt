@@ -1,129 +1,173 @@
-TITLE: Bras and Kets
-TAGLINE: A ket is a situation. A bra asks a question. The number they make together is Prologue 1's arrow
+TITLE: Loose Ends, and What Nobody Understands
+TAGLINE: More junctions give smaller corrections that can be computed one by one; they predict the electron's magnetism to twelve digits. Along the way come infinities, a mysterious number 1/137, and an honest list of open questions
 NUM: 6
-NEXT: Prologue 7 says how a ket changes in time: the Schrödinger equation, which is the machine that rotates arrows.
+NEXT: Prologue 7 puts Maxwell's description of light — fields and waves — beside the photon picture, and says when each is the right tool.
 
 # How to use this prologue
 
-The symbols | ⟩ and ⟨ | look like a secret handshake. They are not. A ket is a name for a complete physical situation. A bra is a question you ask that situation. The answer is one of Prologue 1's arrows, i.e. a complex number. Lesson 10 puts this on Hilbert space with integrals. This prologue is the version for someone who has never seen the notation. Expect three to five hours.
+This is the last of the four prologues that follow the spirit of Feynman's public lectures. It does two things. First, it shows that the three basic actions are not just a cartoon: combined in more elaborate ways, they predict a measured number to astonishing precision. Second, it lists, as honestly as possible, what the theory does not explain. Read it once now, and again after Lesson 79, when every statement in it will have been calculated. Expect two hours.
 
 ## Learning objectives
 
-- Read |ψ⟩ as "the situation called ψ" and ⟨φ| as "the question: how much of φ is in this?"
+- Explain how the three actions produce an infinite list of pictures, each a smaller correction than the last.
 
-- Compute P = |⟨φ|ψ⟩|² as the probability that situation ψ is found as φ.
+- State what the electron's magnetic moment is, what the simplest picture predicts for it, and how well the corrected prediction agrees with experiment.
 
-- Use ⟨ψ|ψ⟩=1 as the statement that some outcome happens.
+- Describe in plain words why infinities appear and what "renormalization" does about them.
 
-- Expand a ket in a basis, |ψ⟩=Σ c_n |n⟩, and read c_n as arrows.
+- Explain why the strength of the junction, about 1/137, is put in by hand.
 
-- Translate a sentence of ordinary English into a bra-ket sandwich.
+- List the main questions the theory leaves open, and the ones it settles.
 
-## Notation and conventions
+## Words you will need
 
-@widths 2160 7632
-| Symbol | Meaning |
-| |ψ⟩ | A ket: the whole situation, Prologue 1's "what is going on" |
-| ⟨φ| | A bra: the question that picks out one possibility |
-| ⟨φ|ψ⟩ | The arrow (complex number) from ψ to φ |
-| ⟨ψ|ψ⟩=1 | The situation is normalized: probabilities will add to 1 |
+@widths 2400 7392
+| Word | What it means here |
+| correction | A more complicated picture that adjusts the answer of a simpler one |
+| loop | A part of a picture that closes on itself, such as a photon emitted and reabsorbed by the same electron |
+| magnetic moment | How strongly a particle behaves like a tiny bar magnet |
+| g | The number that measures an electron's magnetism relative to its spin; the simplest theory gives exactly 2 |
+| renormalization | Expressing predictions in terms of the measured mass and charge, so that infinities cancel |
+| α | The fine-structure constant, about 1/137.036: j² |
 
-# 1 A ket is not a vector until Lesson 1 says so
+# 1 More junctions, smaller corrections
 
-Write |electron here⟩, |photon going left⟩, |click in the detector⟩. The vertical bar and the angle bracket are just a frame around a name. You can call the name anything. Physicists use Greek letters because they run out of ordinary ones, not because the idea got harder.
+In Prologue 5, every extra pair of junctions made a picture's arrow smaller by about 1/137. So a calculation goes like this: draw the simplest picture and work out its arrow; then add the pictures with two more junctions, which change the answer by about one percent; then those with four more, which change it by about one part in ten thousand; and so on. Each layer is harder to calculate, and each matters less.
 
-The whole of quantum mechanics is: situations combine like Prologue 1's arrows. So kets add, and they can be stretched by a complex number. That is Lesson 1's vector space, postponed until the name is not scary.
+IMG: P6_corrections.png | 6.2 | Figure P6.1. An electron interacting with a magnet (the wavy line from below). Left: the simplest picture. Middle: one extra photon emitted and reabsorbed (two more junctions, about 1/137 smaller). Right: two of the many pictures with four more junctions. The arrows of all of them are added.
 
-# 2 A bra is the question
+The new feature of these pictures is the **loop**: a photon that leaves an electron and comes back to it, or a photon that briefly turns into an electron–positron pair. Loops are made of exactly the same three actions; nothing new has been added to the theory. But they carry the theory's two most striking results: its precision and its infinities.
 
-⟨click| is the question "did the detector click?" asked of whatever ket you sandwich it onto.
+Loops also change what "empty space" means. Even with no electron present, the theory has arrows for pairs that appear and vanish again, and for the electromagnetic field's restless lowest state. One measurable consequence: two uncharged metal plates placed a fraction of a micrometre apart in a vacuum attract each other slightly. The plates restrict which field patterns fit between them, and the energy changes with the gap. This is the Casimir effect, measured accurately since the late 1990s. (It can also be described as a sum of tiny attractions between the atoms of the two plates; both descriptions give the same force.)
 
-$$ ⟨ click | ψ ⟩
+# 2 The electron's magnetism, to twelve digits
 
-is the arrow for "situation ψ produces a click." The probability is the square of that arrow's length, exactly Prologue 1.
+An electron behaves like a tiny bar magnet. How strong a magnet, for the amount of spin it has, is measured by a number called g. Dirac's theory of the electron, which is essentially the simplest picture of Figure P6.1, gives exactly g = 2.
 
-FIG:
-  |ψ⟩     a box labelled "the situation"
-  ⟨φ|     an arrow-shaped question pointed at the box
-  ⟨φ|ψ⟩   the number that comes out, an arrow in a plane
-  |⟨φ|ψ⟩|²  the only thing a detector reports
-ENDFIG
+In 1947 experiments found that g is slightly larger: about 2.0023. The next year Julian Schwinger calculated the correction from the picture with one extra photon: it raises g/2 by α/(2π) ≈ 0.00116. That was the first great success of the loop pictures.
 
-### Worked example 1
+Since then, both sides have kept going. Experimenters have trapped single electrons for months and measured their magnetism ever more precisely; theorists have added the pictures with four, six, eight and ten more junctions — more than twelve thousand pictures at the last stage, computed with large computer programs. Today the measured value is
 
-English: "If the photon left the source, how likely is a click in patch A?" Bra-ket: P=|⟨A|source⟩|². The ket |source⟩ is the situation after emission. The bra ⟨A| is the question "in patch A?" You do not add P(A)+P(B) when A and B are two undistinguished paths to the same click; you add ⟨A_path1|source⟩+⟨A_path2|source⟩, then square. That is Prologue 2 in this notation.
+$$ g/2 = 1.001 159 652 180 59 (13)
 
-# 3 Normalization
+where the (13) is the uncertainty in the last two digits. Theory and experiment agree to about one part in a trillion. It is one of the most precisely tested predictions in all of science. What limits the comparison now is not the theory's loops but how precisely α itself is known from other experiments — and two of the best of those, using caesium and rubidium atoms, disagree with each other slightly. That is an open problem, not a failure of the pictures.
 
-⟨ψ|ψ⟩=1 means: if you ask "is it this situation?", and it is this situation, the arrow has length 1, P=1. If a ket is not normalized, divide by its length. Lesson 10 will write this as ∫|ψ(x)|² d³x=1. Same sentence, more furniture.
+IMG: P6_digits.png | 5.8 | Figure P6.2. The electron's g/2, digit by digit. The simplest picture gives the first digit. Each layer of loop pictures fixes about two or three more digits. The measurement and the full calculation agree to about twelve.
 
-# 4 A basis is a complete list of questions
+BOX: Try it now 1
+Schwinger's correction is α/(2π) with α ≈ 1/137. Compute it to three significant figures, and add it to 1. How many digits of 1.001 159 652… does it get right?
+ENDBOX
 
-If the detector can only click in patch A or patch B, the two kets |A⟩ and |B⟩ are a basis. Any situation is
+# 3 Infinities, and the cure
 
-$$ |ψ⟩ = ⟨A|ψ⟩ |A⟩ + ⟨B|ψ⟩ |B⟩
+Here is the trouble. In a loop, the photon can be emitted at one point and reabsorbed at another, and the two points can be anywhere — including arbitrarily close together. When you add up the arrows for all the very close pairs of points, the sum does not settle down. It grows without limit. Taken at face value, the loop pictures predict that the electron's mass and charge are infinitely changed by its own photons.
 
-The coefficients are the arrows. If you know all the arrows onto a complete list of exclusive outcomes, you know the ket.
+The way out, found in the late 1940s by Tomonaga, Schwinger, Feynman and Dyson, starts with an observation. The "mass" and "charge" written into the three actions are not the mass and charge anyone measures. What a laboratory measures is always the electron *together with* all its loops. So rewrite every prediction in terms of the measured mass and the measured charge. When you do that, the infinite pieces cancel out of every prediction that can be compared with experiment, and what remains is finite and — as Section 2 shows — astonishingly accurate. This rewriting is called **renormalization**.
 
-# 5 What this is not
+Feynman never liked it. In his public lectures he called it "a dippy process", and worried that it might hide a mathematical inconsistency. The view that most physicists hold today, after Kenneth Wilson's work in the 1970s, is calmer. A theory is only claimed to describe nature down to some resolution; it need not know what happens at infinitely short distances. Renormalization is the precise statement of how the description changes as you turn the resolution up. One sign of this is that the electric charge itself appears slightly larger when you look at the electron from very close up: the cloud of short-lived electron–positron pairs around it screens part of its charge from a distant observer.
 
-A ket is not a little particle. A bra is not a machine in the lab. ⟨φ|ψ⟩ is not "φ times ψ" in the sense of multiplying two waves on a blackboard until Lesson 10 says it is an integral. For this opening, sandwich = arrow.
+IMG: P6_screening.png | 5.4 | Figure P6.3. Why the charge depends on how closely you look. Short-lived pairs around an electron are pulled slightly into line, partly hiding its charge. Probes that get closer see more of it. Lessons 63 and 69 compute the effect.
+
+Lessons 62–70 do this properly: where the infinities come from, how they are tamed, and how the "running" of the charge is measured.
+
+BOX: Try it now 2
+In one sentence, what is being measured when a physicist says "the charge of the electron is e"? Why does that make it reasonable to put the measured value, not a theoretical one, into the predictions?
+ENDBOX
+
+# 4 The number nobody can explain
+
+The junction number j, and so α = j² ≈ 1/137.036, is not predicted by the theory. It is measured, and then used. The same is true of the electron's mass. Feynman called the value of α "one of the greatest damn mysteries of physics". It still is. Nobody has a convincing reason why it is about 1/137 and not, say, 1/50 or 1/500 — though it is known that a world with a very different value would have very different chemistry, and perhaps no chemists.
+
+# 5 What this picture leaves out, and what is open
+
+It is worth being exact about the status of the theory you are about to learn.
+
+**Settled, and calculated in this course.** All of the behaviour of light and electrons at energies far below those of particle colliders: reflection and refraction, the colours of things, atomic spectra, the magnetism of the electron, the Lamb shift in hydrogen (Lesson 77), the scattering of light by electrons (Lesson 57).
+
+**Included, but beyond this course's calculations.** The same pattern — particles, their arrows, and junctions — describes the weak force (with W and Z particles in place of the photon) and the strong force (with quarks and gluons, where the "charge" comes in three kinds called colours). Lesson 87 shows how QED sits inside that larger Standard Model.
+
+**Genuinely open.**
+
+- Why α, and the masses of the particles, have the values they do.
+
+- What the rule "add the arrows, then square" means. It works; its interpretation — what, if anything, happens between the arrows and the click — is still debated.
+
+- How gravity fits in. Nobody has a tested quantum theory of gravity.
+
+- What happens at fantastically high energies, far beyond any experiment, where QED's charge would keep growing. Most physicists expect QED to be absorbed into a larger theory long before then.
+
+- A handful of measurements that do not yet agree perfectly with theory, such as the value of α from different atoms, and the muon's magnetism, where the leading calculations and experiment have recently been converging but the hadron contributions are still being refined (Lesson 79).
+
+That is a short list for a theory that covers almost everything you see around you. But it is not nothing, and this course will not pretend otherwise.
+
+# 6 The road from here
+
+The arrows, the three actions and the rule "add, then square" are the whole idea. The rest of this book makes them precise. Prologue 7 puts the older language of fields and waves beside them. Prologues 8 and 9 introduce the notation that the lessons use for states and for scattering. Then Lessons 1–38 build the mathematics, Lessons 39–61 turn the three actions into exact rules and compute real processes, and Lessons 62–79 compute the loops of this prologue. The front matter's "core track" is the shortest route through them.
 
 # Connections to QED
 
 @widths 3264 6528
-| Result of this prologue | Where it is used |
-| |ψ⟩, ⟨φ|, ⟨φ|ψ⟩ | Lesson 1 vectors; Lesson 10 Hilbert space |
-| P=\|⟨φ|ψ⟩|² | Born rule, Lesson 10 |
-| S-matrix ⟨f|S|i⟩ | Prologue 8; Lesson 51 |
+| Idea in this prologue | Where it becomes exact |
+| Loops: self-energy, vacuum polarization, vertex | Lessons 62–65 |
+| Infinities and their cure | Lessons 66–68 |
+| Charge depends on resolution | Lessons 69–70 (running α) and 78 (Uehling potential) |
+| g = 2, then α/2π | Lessons 20–22 and 76 |
+| Twelve-digit comparison, open problems | Lesson 79 |
+| Weak and strong forces | Lesson 87 |
 
 # Summary
 
-1. A ket names a situation.
+1. Each extra pair of junctions makes a correction about 1/137 smaller, so the pictures can be added layer by layer.
 
-2. A bra asks a yes-amount question.
+2. The simplest picture gives the electron's g = 2; one loop adds α/(2π); many loops give agreement with experiment to about one part in a trillion.
 
-3. The sandwich is Prologue 1's arrow.
+3. Loops naively give infinities; expressing predictions in terms of the measured mass and charge (renormalization) leaves finite, accurate answers.
 
-4. Its length squared is the probability.
+4. The charge looks larger from closer up, because virtual pairs screen it.
 
-5. Lesson 10 is this, with integrals.
+5. α ≈ 1/137.036 and the particle masses are measured, not explained. The meaning of the rule, gravity, and a few precision tensions remain open.
 
 # Exercises
 
 @widths 720 9072
 | No | Problem |
-| 1 | Translate "the atom is in the ground state" into a ket. |
-| 2 | Translate "probability the atom is found excited" into bra-ket. |
-| 3 | If ⟨φ|ψ⟩=i/2, what is P? |
-| 4 | Why is ⟨ψ|ψ⟩=1 required? |
-| 5 | Write |ψ⟩ in a two-outcome basis. |
-| 6 | Where will ⟨f|S|i⟩ appear? |
-| 7 | Is |ψ⟩ a list of clicks? |
-| 8 | Challenge: why ⟨φ|ψ⟩* = ⟨ψ|φ⟩, in Prologue 1's arrow language. |
+| 1 | **Core.** Roughly how much smaller is a picture with six extra junctions than the simplest picture? |
+| 2 | **Core.** What does Dirac's theory predict for g, and what does Schwinger's correction add to g/2? |
+| 3 | **Core.** Explain in two sentences why the electron's "bare" charge, the one written in the three actions, is not what experiments measure. |
+| 4 | **Core.** Name two things the theory explains and two things it does not. |
+| 5 | **Core.** What is a loop in a Feynman picture? Draw one. |
+| 6 | **Extension.** A measurement gives g/2 = 1.001 159 652 180 59 with uncertainty 0.000 000 000 000 13. What is the relative uncertainty in g, as a power of ten? |
+| 7 | **Extension.** If α were 1/100 instead of 1/137, how big would Schwinger's correction be? |
+| 8 | **Extension.** Why does the screening by virtual pairs make the charge look larger at short distances rather than smaller? |
+| 9 | **Challenge.** The four-junction-more pictures change g/2 by roughly (α/π)² times a number of order 1. Estimate (α/π)² and say in which decimal place of g/2 these pictures first matter. |
+| 10 | **Challenge.** Explain why the disagreement between two measurements of α limits the test of QED with the electron's g, even though the theory's own calculation is far more precise. |
 
 # Solutions
 
-**1.** |ground⟩, or |g⟩.
+Try each exercise on paper before you look. If you are stuck, re-read the section named in the exercise, try again, and only then read the solution below.
 
-**2.** |⟨excited|atom⟩|².
+**1.** Three extra pairs: about (1/137)³ ≈ 4 × 10⁻⁷ in the arrow.
 
-**3.** |i/2|²=1/4.
+**2.** g = 2 exactly. Schwinger adds α/(2π) ≈ 0.00116 to g/2, giving about 1.00116.
 
-**4.** So that the probabilities of a complete list of exclusive outcomes add to 1.
+**3.** Every real electron always comes with its loops; there is no way to switch them off and weigh or measure the electron without them. What experiments measure is the charge of the electron plus its loops, so that is the number that belongs in the predictions.
 
-**5.** |ψ⟩=⟨A|ψ⟩|A⟩+⟨B|ψ⟩|B⟩.
+**4.** Explained: for example, the reflection of glass and the electron's g. Not explained: for example, the value of α and how gravity fits in.
 
-**6.** Prologue 8 and Lesson 51: in-state to out-state.
+**5.** A closed part of a picture: for instance, an electron emits a photon and later reabsorbs it, so the photon line starts and ends on the same electron line. Or a photon line that turns into an electron–positron pair, which then annihilates back into a photon.
 
-**7.** No. It is the situation that produces clicks with certain arrows.
+**6.** 0.000 000 000 000 13 / 1.001 ≈ 1.3 × 10⁻¹³: about one part in ten trillion.
 
-**8.** Reversing "from ψ to φ" reverses the arrow's direction, which is complex conjugation.
+**7.** 1/(100 × 2π) ≈ 0.00159.
 
-# Mastery checklist
+**8.** The pairs line up so that the positrons lean slightly towards the electron (opposite charges attract) and the electrons away from it. From far away, part of the central charge is hidden by the nearby positrons. As the probe gets inside more of this cloud, less of the central charge is hidden, so it appears larger.
 
-- I can read | ⟩ as a situation and ⟨ | as a question.
+**9.** α/π ≈ 0.00232; squared ≈ 5.4 × 10⁻⁶. Since g/2 = 1.001 159 652…, a change of a few times 10⁻⁶ first matters in the sixth decimal place.
 
-- I can write P as |⟨φ|ψ⟩|².
+**10.** The theory gives g in terms of α. Using one measured α gives one predicted g; using the other gives a slightly different one. If the two αs disagree by more than the theory's uncertainty, the comparison can only be as good as the knowledge of α, whatever the precision of the loop calculation.
 
-- I am not frightened of the notation.
+# Answers to Try it now
+
+**1.** 1/(137 × 6.283) ≈ 0.00116. 1 + 0.00116 = 1.00116, which agrees with 1.001 159 652… in its first five decimal places (rounding 1.0011597 to 1.00116).
+
+**2.** The strength of the electron's electrical pull as seen in an experiment at some scale, including all its loops. Since that is what is measured, using it directly means the loops that the measurement already includes are not counted twice — which is what removes the infinities from the predictions.
