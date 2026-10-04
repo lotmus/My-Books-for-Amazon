@@ -1952,3 +1952,8 @@ The review fix is in the live Kindle file. Do not restore the previous wording f
 - Ch12: "This was not modesty", phone description, "stranger in a cardigan", duplicate medical facts cut.
 - Adversarial pass: "said slowly" 11 → 4; "for the first time" 13 → 8; "considered this" varied (−4); "very still" −2; "Nobody spoke/answered" beats −3; "for a long moment" −2; "opened the green notebook" varied ×2.
 - Proofread: six hard-wrapped notebook passages joined into single paragraphs; "afterward?" → "afterwards?"; "Sub-District Six" → "Sub-District 6" (house style). Ellipses consistent ("..."), no straight quotes, no double spaces in story text.
+
+## Line-edit round (2026-10-03, late)
+- Full sentence-by-sentence line edit of Prologue, Ch1–19 and Epilogue (story only; lessons/back matter untouched in size).
+- Continuity/attribution fixes: Ch1 duplicate Mrs Chain "Why?" removed; Ch2 "No one answered" before Jago answers removed; Ch5 Jago's debts "by Jago's reckoning"; Ch9/10/11 unattributed or misattributed lines fixed; Ch13 Bellboy fingers continuity; Ch16 "from the night of the vault"; Ch17 duplicate Fainrose line; Ch19 grammar.
+- Tic reduction (story, ~67.8k words): exactly 52→30, very 51→36, almost 50→33, which was 35→28, nobody 146→106 (remaining mostly thematic/dialogue), "of a man/woman who had" 8→3.
