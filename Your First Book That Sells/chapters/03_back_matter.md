@@ -239,7 +239,7 @@ Every note was checked on 3 October 2026. Platform pages change; look again befo
 
 # About the Author
 
-Lothar J. Musiol is a graduate of Munich University of Applied Sciences. He spent many years in the semiconductor industry, mostly in the United States, supporting several start-ups, where a decision was only as good as the measurement behind it and a budget was a hypothesis until the numbers came back.
+Kevin Drew Peters is a graduate of Munich University of Applied Sciences. He spent many years in the semiconductor industry, mostly in the United States, supporting several start-ups, where a decision was only as good as the measurement behind it and a budget was a hypothesis until the numbers came back.
 
 He brings that habit to publishing. That is why this book shows the arithmetic, labels every claim by kind, dates its sources, and treats every change as a bounded experiment with a cap and a stop date. He does not claim insider knowledge of Amazon’s algorithms, and this book reports no publishing results it cannot show.
 

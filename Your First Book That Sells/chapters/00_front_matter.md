@@ -2,11 +2,11 @@
 
 *How to Publish and Make Good Money on Kindle: Real Royalties, Honest Reviews, and a Catalog That Pays*
 
-**Lothar J. Musiol**
+**Kevin Drew Peters**
 
 Updated 3 October 2026
 
-Copyright © 2026 Lothar J. Musiol. All rights reserved.
+Copyright © 2026 Kevin Drew Peters. All rights reserved.
 
 No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright holder, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
@@ -30,7 +30,7 @@ It is not for everyone, and it says so now so you can decide before you spend an
 
 ## Why the arithmetic is always shown
 
-Lothar J. Musiol is a graduate of Munich University of Applied Sciences. He spent many years in the semiconductor industry, most of them in the United States, supporting several start-ups. That work teaches a habit: measure before you decide, write the arithmetic down, change one variable at a time, and put a cap on the cost of every experiment.
+Kevin Drew Peters is a graduate of Munich University of Applied Sciences. He spent many years in the semiconductor industry, most of them in the United States, supporting several start-ups. That work teaches a habit: measure before you decide, write the arithmetic down, change one variable at a time, and put a cap on the cost of every experiment.
 
 This book applies that habit to Kindle publishing. What you will get: the platform rules with their sources and dates, the arithmetic behind every price and every ad, and small bounded tests you can run on your own book. What you will not get: the author’s own sales figures held up as proof, stories of overnight success, or a claim to know how Amazon ranks books. Amazon does not publish its ranking algorithm, and nobody outside Amazon has it.
 
