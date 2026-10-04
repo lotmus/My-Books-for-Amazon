@@ -64,8 +64,7 @@ PARTS = [
      "quantum electrodynamics.",
      ["30_quantum_physics.md"]),
     ("Biology",
-     "Chemistry that copies itself, imperfectly, four billion years of what the imperfections "
-     "added up to, and the three-billion-letter text in which it was all written.",
+     'Physics and chemistry that copy themselves: the same rules of energy, information, feedback and probability, now running on a wet planet for four billion years, and the three-billion-letter text in which the results were written.',
      ["40_biology.md"]),
     ("Science in the Novels",
      "Where the plot stops so someone can explain relativity, and the explanation turns out "
@@ -174,6 +173,8 @@ FIGURES = {
 
 TOKEN_RE = re.compile(r'(\*\*.+?\*\*|\*[^*\n]+?\*)')
 STATUS_RE = re.compile(r'^\*Status: (.+?)\*$')
+LEVEL_RE = re.compile(r'^\*Level: (.+?)\*$')
+BOX_RE = re.compile(r'^> (.+)$')
 LABEL_DASH_RE = re.compile(r'^(Prologue|Epilogue|Appendix(?: [A-Z0-9]+)?) — (.+)$')
 PART_ROMAN_RE = re.compile(r'^Part (I|II|III|IV|V|VI|VII)\b')
 NUM_HEADING_RE = re.compile(r'^(\d+)\.\s')
@@ -504,11 +505,11 @@ def add_figure(doc, png, caption):
     r.font.size = Pt(9)
 
 
-def status_line(doc, label):
+def status_line(doc, label, tag='STATUS  '):
     p = doc.add_paragraph()
     flush_left(p, space_before=0, space_after=6)
     p.paragraph_format.keep_with_next = True
-    r = p.add_run('STATUS  ')
+    r = p.add_run(tag)
     r.bold = True
     r.font.size = Pt(8)
     r.font.color.rgb = GREY
@@ -516,6 +517,39 @@ def status_line(doc, label):
     r.italic = True
     r.font.size = Pt(9)
     r.font.color.rgb = GREY
+    return p
+
+
+def box_paragraph(doc, text, segment):
+    """A boxed aside ('> **Label.** text'): indented, ruled on the left, lightly shaded."""
+    p = doc.add_paragraph()
+    add_runs_from_markdown(p, text)
+    pf = p.paragraph_format
+    pf.first_line_indent = Inches(0)
+    pf.left_indent = Inches(0.3)
+    pf.right_indent = Inches(0.2)
+    pf.space_before = Pt(8)
+    pf.space_after = Pt(8)
+    ppr = p._p.get_or_add_pPr()
+    bdr = OxmlElement('w:pBdr')
+    left = OxmlElement('w:left')
+    for k, v in (('w:val', 'single'), ('w:sz', '18'), ('w:space', '8'), ('w:color', '1F4E9F')):
+        left.set(qn(k), v)
+    bdr.append(left)
+    shd = OxmlElement('w:shd')
+    for k, v in (('w:val', 'clear'), ('w:color', 'auto'), ('w:fill', 'EEF2F8')):
+        shd.set(qn(k), v)
+    # keep schema order: pBdr and shd come before tabs, spacing, ind, jc ...
+    after = ('w:tabs', 'w:suppressAutoHyphens', 'w:kinsoku', 'w:wordWrap', 'w:overflowPunct',
+             'w:topLinePunct', 'w:autoSpaceDE', 'w:autoSpaceDN', 'w:bidi', 'w:adjustRightInd',
+             'w:snapToGrid', 'w:spacing', 'w:ind', 'w:contextualSpacing', 'w:mirrorIndents',
+             'w:suppressOverlap', 'w:jc', 'w:textDirection', 'w:textAlignment',
+             'w:textboxTightWrap', 'w:outlineLvl', 'w:divId', 'w:cnfStyle', 'w:rPr',
+             'w:sectPr', 'w:pPrChange')
+    ppr.insert_element_before(bdr, *after)
+    ppr.insert_element_before(shd, *after)
+    BODY_PARAGRAPHS.append((p, segment))
+    return p
 
 
 # ---------- markdown rendering ----------
@@ -545,6 +579,14 @@ def render_markdown(doc, path):
         sm = STATUS_RE.match(line.strip())
         if sm:
             status_line(doc, sm.group(1))
+            continue
+        lm = LEVEL_RE.match(line.strip())
+        if lm:
+            BODY_PARAGRAPHS.append((status_line(doc, lm.group(1), 'LEVEL  '), segment))
+            continue
+        bm = BOX_RE.match(line.strip())
+        if bm:
+            box_paragraph(doc, bm.group(1), segment)
             continue
         if line.strip() in ('---', '***', '* * *'):
             p = doc.add_paragraph()
@@ -738,6 +780,8 @@ FOREWORD = [
     "read the sections in any order, but three runs reward reading front to back: Mathematics, "
     "the opening course of Quantum Physics (Chapters 144 to 156), and the closing course "
     "on quantum electrodynamics (Chapters 223 to 252).",
+    "This edition is updated through October 2026; claims that are likely to change are marked "
+    "\"as of 2026\".",
     "Every chapter carries a status line under its title. It tells you how sure science is about "
     "the chapter's main claims. Mathematics is proved rather than measured, so its chapters are "
     "all Settled. There are four labels:",
@@ -750,9 +794,95 @@ STATUS_LEGEND = [
 ]
 FOREWORD_CLOSE = (
     "When a chapter mixes levels, the status line says which part is which. The glossary at the "
-    "back defines the terms that trip people up and sends you to the chapter that teaches each one. "
-    "Start wherever your curiosity is loudest."
+    "back defines the terms that trip people up and sends you to the chapter that teaches each one."
 )
+
+WHO_FOR = [
+    "**This book is for curious adults and technically minded readers who want a rigorous but "
+    "readable map of mathematics, physics, life and the questions science has not yet answered.**",
+    "It is not a textbook, not a proof course and not an exhaustive encyclopedia. There are no "
+    "problem sets, the mathematics is explained rather than proved, and whole fields are left out "
+    "on purpose. Think of it as an atlas: 354 short, numbered chapters, each of which can be read "
+    "on its own, with cross-references that tell you where an idea came from and where it goes next.",
+    "Each chapter carries two labels under its title. The status line says how sure science is "
+    "about the chapter's claims; the level line says how much of the book you need to have read "
+    "first. Both are explained in the Introduction. Every chapter ends with a one-sentence "
+    "summary, and the Reader Routes after the Introduction suggest paths through the book for "
+    "five different interests.",
+    "Where a topic deserves more room than an atlas can give it, a short note points to the "
+    "deeper books in the same family: Physics, Actually (three volumes), Life, Actually, "
+    "Math, Actually (four volumes) and Quanta, Actually (The Quantum World, The Quantum "
+    "Conversation and the Complete Quantum Electrodynamics Course).",
+    "*Updated through October 2026. Statements that are likely to change, such as mission "
+    "schedules, drug approvals and the status of open measurements, are marked \"as of 2026\".*",
+]
+LEVEL_INTRO = (
+    "Under the status line sits a second label, the level. It tells you how much of the book a "
+    "chapter assumes. There are five levels:"
+)
+LEVEL_LEGEND = [
+    ("Start here", "no background needed; a good place to enter the book or a section."),
+    ("Foundation", "introduces ideas that later chapters rely on, and assumes nothing earlier."),
+    ("Builds on earlier chapters", "readable once you know the chapters it names; on a Kindle "
+     "you can tap them."),
+    ("Technical", "uses equations or formal machinery, and names the chapters to read first."),
+    ("Optional deep dive", "rewarding, but nothing later depends on it; skip it freely."),
+]
+LEVEL_CLOSE = (
+    "The two labels answer different questions. A chapter can be Settled and Technical (the "
+    "Dirac equation, Chapter 241) or Start here and partly Speculative (Chapter 57). A few chapters also carry short "
+    "boxed notes: *Why this matters*, *Engineer's view*, *Common wrong picture*, and in the "
+    "hardest chapters *Skip if you only want the idea*, which gives the main point in a few "
+    "lines so you can move on. Each part, and each large block within a part, ends with a short "
+    "Rules Check that shows where the book's recurring rules came up: conservation, symmetry, "
+    "probability, feedback and emergence, evidence beating intuition, and models that are useful "
+    "but incomplete. Start wherever your curiosity is loudest."
+)
+ROUTES_INTRO = (
+    "You can read straight through, and the order is deliberate. But the book is built as an "
+    "atlas, and most readers will get more from following a route. Five suggestions follow; the "
+    "chapter numbers are the ones printed in the headings, and every route can be left at any point."
+)
+ROUTES = [
+    ("The big picture (about thirty chapters).",
+     "Chapter 26 (How Sure Are We, Really?), Chapter 29 (Energy), Chapter 30 (the direction of "
+     "time), Chapter 35 and Chapter 36 (relativity and gravity), Chapter 46 (Symmetry), Chapter 55 "
+     "(when a crazy idea is science), Chapters 57–58 (the frontier), Chapter 59, Chapters 67–69 "
+     "(the Big Bang, expansion and the microwave background), Chapter 105 (The Honest Ending), "
+     "Chapters 144–156 (the opening course in quantum physics), Chapter 253 (What Is Life?), "
+     "Chapter 259 (Natural Selection), Chapter 261 (DNA) and Chapter 285 (the start of genetics)."),
+    ("Quantum physics.",
+     "Chapters 144–156 first: thirteen short chapters that build the working rules from a state "
+     "as a weighted list to Hawking radiation. Then Chapters 157–168 take the same ground deeper, "
+     "including fields (Chapter 162), QCD (Chapter 163) and renormalization (Chapter 164); "
+     "Chapters 169–172 are optional philosophy and alternatives. Chapters 173–222 retell "
+     "electromagnetism through phase and potentials, from a single electron to a superconducting "
+     "circuit. Chapters 223–252 are the full course in quantum electrodynamics; it assumes the "
+     "Mathematics section, especially Chapter 11, Chapter 12 and Chapter 25. Finish with Chapter "
+     "354 (Interpretations on Trial)."),
+    ("Science for science fiction.",
+     "Relativity and time: Chapter 35, Chapter 36 and Chapters 60–66 (no universal now, the block "
+     "universe). Black holes: Chapters 80–84, then Chapter 156. Wormholes and time travel: "
+     "Chapter 43 and Chapters 93–96. Multiverses: Chapters 97–101. Other worlds and interstellar "
+     "travel: Chapters 85–92. A reality check on the Moon and Mars: Chapters 126–143. Quantum "
+     "interpretation: Chapter 153 and Chapter 354. Then Science in the Novels, Chapters 333–353, "
+     "where the physics is told as a detective story."),
+    ("The engineer refreshing fundamentals.",
+     "Mathematics: Chapters 7–12 (trigonometry, the sinusoid, logarithms, the decibel, complex "
+     "numbers, Euler's formula), Chapter 14, Chapters 16–20, Chapter 22 (Fourier and the FFT), "
+     "Chapter 23 (Laplace) and Chapter 25 (matrices). Waves and fields: Chapter 49 (Light), "
+     "Chapter 52 (Optics), Chapter 229 and Chapter 230 (Maxwell's equations and potentials), and "
+     "Chapters 173–186. Quantum and QED: Chapters 144–148, Chapters 231–237, then Chapters "
+     "162–164 for the overview and Chapters 245–252 for the machinery. Devices: Chapter 56 "
+     "(Semiconductors) and Chapters 213–217 (from QED to a superconducting circuit)."),
+    ("Life and evolution.",
+     "Chapters 253–257 (what life is and how it may have started), Chapters 258–273 (evolution, "
+     "from Darwin to evolution you can watch), Chapters 274–284 (brains, minds, AI and "
+     "exobiology), then genetics, told as one continuous story: Chapters 285–299 (the molecule), "
+     "Chapters 300–304 (Mendel and his shadow), Chapters 305–320 (the tools, cloning and food), "
+     "and Chapters 321–332 (the genome, testing and the ethics of editing). For the human body, "
+     "add Chapters 107–125 on ageing and medicine."),
+]
 
 PREFACE = [
     "I spent more than forty years in the semiconductor industry, first in Germany and then "
@@ -844,6 +974,8 @@ def front_matter(doc, volume_label):
                text="All rights reserved.", size=9)
     flush_left(doc.add_paragraph(), space_before=10, align=WD_ALIGN_PARAGRAPH.CENTER,
                text="Figures drawn by the author for this book.", size=9)
+    flush_left(doc.add_paragraph(), space_before=10, align=WD_ALIGN_PARAGRAPH.CENTER,
+               text="Updated through October 2026.", size=9)
 
     new_section(doc)
     p = doc.add_paragraph()
@@ -854,6 +986,11 @@ def front_matter(doc, volume_label):
     r.font.size = Pt(24)
     r.font.name = HEADLINE_FONT
     toc_placeholder = doc.add_paragraph()
+
+    new_section(doc, 'Who This Book Is For')
+    heading(doc, 1, "Who This Book Is For")
+    for i, para in enumerate(WHO_FOR):
+        body(doc, para, first=(i == 0))
 
     new_section(doc, 'How an Engineer Decides What to Trust')
     heading(doc, 1, "Preface: How an Engineer Decides What to Trust")
@@ -870,6 +1007,24 @@ def front_matter(doc, volume_label):
         p.add_run(name).bold = True
         p.add_run(': ' + desc)
     body(doc, FOREWORD_CLOSE, first=True)
+    body(doc, LEVEL_INTRO, first=True)
+    for name, desc in LEVEL_LEGEND:
+        p = doc.add_paragraph(style='List Bullet')
+        p.paragraph_format.first_line_indent = Inches(0)
+        p.add_run(name).bold = True
+        p.add_run(': ' + desc)
+    body(doc, LEVEL_CLOSE, first=True)
+
+    new_section(doc, 'How to Use This Book')
+    heading(doc, 1, "How to Use This Book: Reader Routes")
+    body(doc, ROUTES_INTRO, first=True)
+    for name, text in ROUTES:
+        p = doc.add_paragraph()
+        flush_left(p, space_before=8)
+        p.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+        p.add_run(name + ' ').bold = True
+        p.add_run(text)
+        BODY_PARAGRAPHS.append((p, {}))
     return toc_placeholder
 
 
