@@ -28,6 +28,7 @@ PARTS = [
     "09_Part_Nine_Filter.md",
     "10_Part_Ten_Future.md",
     "11_Appendix.md",
+    "12_Notes_and_Sources.md",
 ]
 
 YAML = """---
@@ -65,7 +66,10 @@ def rewrite_images(text: str) -> tuple[str, list[int]]:
         num = re.match(r"Figure\s+(\d+)", cap or "")
         if not num:
             return m.group(0)
-        n = int(num.group(1))
+        # 3 Oct 2026: the printed figure number is the chapter number; the file id
+        # comes from the path (fig31..fig45 illustrate Chapters 32..46, fig46 Chapter 31).
+        fid = re.search(r"fig(\d+)", _old or "")
+        n = int(fid.group(1)) if fid else int(num.group(1))
         rel, found = resolve_fig(n)
         if not found:
             missing.append(n)

@@ -1,13 +1,13 @@
-113479
+107620
 docx=export\The_Universe_Has_No_Now.docx
-epub=export\The_Universe_Has_No_Now.epub
-md_images=46
-epub_images=46
-docx_images=46
-drawn_diagrams=26
-fetched_photos=fig00,fig01,fig03,fig04,fig08,fig09,fig14,fig16,fig17,fig18,fig20,fig24,fig25,fig29,fig31,fig32,fig34,fig41,fig42,fig45
+epub=not built
+md_images=47
+epub_images=n/a
+docx_images=54
+drawn_diagrams=27
+fetched_photos=fig00,fig01,fig03,fig04,fig08,fig09,fig14,fig16,fig17,fig18,fig20,fig24,fig25,fig29,fig32,fig33,fig35,fig42,fig43,fig46
 photo_placeholders=[]
 missing=[]
 broken=[]
-built=['C:\\Users\\lomus\\OneDrive\\My Books for Amazon\\Science Books\\Look First\\The Universe Has No Now - Manuscript\\export\\The_Universe_Has_No_Now.docx']
+built=['D:\\My Books for Amazon\\Look First - SERIES\\The Universe Has No Now - Manuscript\\export\\The_Universe_Has_No_Now.docx']
 cover=export\cover_typographic_v2_clockring.jpg

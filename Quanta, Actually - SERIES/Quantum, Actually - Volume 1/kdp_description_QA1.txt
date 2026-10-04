@@ -1,0 +1,33 @@
+Nature stops behaving the way you would expect — and this book is the story of exactly where, why, and what physicists actually did about it.
+
+QUANTUM, ACTUALLY takes you from the moment classical physics broke (a light bulb, a stubborn equation, and a very confused Max Planck) to the technologies being built on that break right now: quantum cryptography that can catch an eavesdropper in the act, and quantum computers that are, slowly and noisily, starting to work.
+
+Along the way:
+
+• Entanglement — and why Einstein’s “spooky action at a distance” turned out to be real, tested, and worth a Nobel Prize (2022, to Clauser, Aspect, and Zeilinger)
+• The quantum fields underneath every particle you have ever heard of, and why “empty space” is nowhere near empty
+• QCD and QED — two of the best-tested theories in the history of science, set side by side so you can see why one gets stronger at short range while the other gets weaker
+• The four leading interpretations of what the theory means — Copenhagen, many-worlds, Bohmian mechanics, and objective collapse — without pretending any of them has won
+• Part Two, One Road Through It: one question, what the electromagnetic field really is, followed all the way down. Electromagnetism read outward from the quantum phase of an electron, through the potential, the photon, and renormalization, to a superconducting circuit you could build on a bench
+
+This is not a textbook, and it is not a puff piece. Claims are labeled for what they are — established fact, well-tested theory, or genuinely open question — because the honest answer is more interesting than a confident wrong one. Every chapter opens with the question it answers, objections a careful reader would raise get answered in plain Q&A boxes, and each Part ends with the common questions.
+
+37 illustrations and diagrams. Three appendices, a working glossary, a myth-busting cheat sheet for the quantum claims you hear at parties, and the key equations decoded in plain English.
+
+Some of this is better felt than read, so the book comes with nine free interactive simulations, linked where they matter. No login. No app.
+
+• Fire electrons through a double slit and watch the interference pattern build, one dot at a time
+• Play the exact game used to show that entanglement beats every classical strategy — and watch the win rate break the 75% ceiling
+• Rotate a live qubit on its Bloch sphere, apply real gates, and measure it
+• Tune a tunneling barrier and watch the transmission probability change
+• Run quantum key distribution, then turn on an eavesdropper and watch the error trail appear
+• Watch a superposition dissolve, one air molecule at a time
+• Check the same system over and over and watch the quantum Zeno effect push survival toward certainty
+• Pull a quark and an antiquark apart and watch the flux tube snap into a new pair
+• Thicken a pane of glass and watch the reflection swing between 0% and 16%
+
+If you want the real ideas behind quantum mechanics — not dumbed down, just made clear — this is the map, and one road through it.
+
+QUANTUM, ACTUALLY — VOLUME 1: QUESTIONS AND ANSWERS FROM THE DOUBLE SLIT TO THE SUPERCONDUCTING WIRE is the first volume of QUANTUM, ACTUALLY. Volume 2, A QED COURSE, does the full calculation. Read this one first if you want the whole landscape. It also reads on its own, and it sits in the same Actually family as PHYSICS, ACTUALLY, LIFE, ACTUALLY, and MATH, ACTUALLY, which cover the classical, relativistic, particle-physics, biological, and mathematical ground around it.
+
+Reality might be the most convincing picture ever assembled. Whether the last layer is fields, information, or something we do not have a name for yet, the mystery is the point. Question the picture — including this one.

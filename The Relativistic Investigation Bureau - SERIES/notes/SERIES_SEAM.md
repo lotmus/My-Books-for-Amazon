@@ -59,7 +59,7 @@ Do not let a later book resolve which side of ten o'clock the door opened. Do no
 
 **Munich.** Weinstein's patent office is in Schwabing, cold window, trams, a blotter, a brass clock that skips. Barbarian's house is in the same city. Neither of them is "going back to Munich" from a foreign Barbarian. The S-Bahn stays in Munich.
 
-**Paris.** The Louvre basement is small, stone, too quiet, a table, a clock, a paper asking for tau. The guard is never in the same place twice. The building gets older as they go down. Do not restage it as a new mystery unless the new physics needs that room.
+**Paris.** NOT IN THE CURRENT BOOK 1 DOCX (flagged 2026-10-04) — a fresh full-text audit found no Louvre scene, Paris trip, or recurring guard anywhere in the current manuscript. The description below is kept only as a record of the originally planned scene; do not treat it as established Book 1 canon until it is either written into the book or this note is removed. The Louvre basement is small, stone, too quiet, a table, a clock, a paper asking for tau. The guard is never in the same place twice. The building gets older as they go down. Do not restage it as a new mystery unless the new physics needs that room.
 
 **Trains.** Platform Seven and the London terminus that should not exist are the anomalous railway. Paddington is a real station. Book 2 uses it for a 16:00 airport train that leaves after Weinstein boards it. Do not merge Paddington with the doorway platform. The doorway train's board can say YESTERDAY. That word is a direction. On the Monday Book 2 opens, yesterday the calendar day was Sunday.
 

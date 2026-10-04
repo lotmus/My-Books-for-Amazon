@@ -6,25 +6,15 @@ The entries are not obscure. They are countries with libraries, universities, ca
 
 Germany is the entry dolphin scholars open first. By the 19th and early 20th centuries, Germany, a country that had not existed as a single state until 1871, had become one of humanity's centers of science, philosophy, engineering, music, and industry.
 
-The dolphins watched with admiration.
-
 Germany produced Beethoven and Bach, Goethe and Kant, Einstein and a great many other groundbreaking scientists and engineers, and some of the world's leading universities.
 
-*“This was a society capable of remarkable intellectual achievement,” dolphin scholars remarked.*
+Defeat in the First World War, a hyperinflation so severe that, by the famous anecdote, the wheelbarrow was worth more than the money in it, and then the Great Depression left a young democracy short of friends and short of patience. Adolf Hitler was appointed chancellor in January 1933, after elections that had made his party the largest in parliament but never gave it a majority, and promptly arranged for there to be no more that mattered. His movement promoted dictatorship, extreme nationalism, racism, persecution, and conquest. Germany's immense industrial and scientific capabilities were increasingly directed toward war. Many of the country's finest minds, Einstein among them, fled.
 
-Yet the dolphins had learned that intelligence alone does not guarantee wisdom.
+The result was the Second World War, the most destructive conflict in human history. Somewhere between seventy and eighty-five million people died, most of them civilians.
 
-Defeat in the First World War, a hyperinflation so severe that, by the famous anecdote, the wheelbarrow was worth more than the money in it, and then the Great Depression left a young democracy short of friends and short of patience. Adolf Hitler was appointed chancellor in 1933 after a run of elections his party did not quite win, and promptly arranged for there to be no more that mattered. His movement promoted dictatorship, extreme nationalism, racism, persecution, and conquest. Germany's immense industrial and scientific capabilities were increasingly directed toward war. Many of the country's finest minds, Einstein among them, fled.
+The Holocaust murdered about six million Jews, along with Roma, disabled people, political prisoners, and others. It was carried out by a modern state, using its railways, its paperwork, its chemical industry, and its ordinary, obedient officials. At the largest of the death camps, most of the children who arrived were sent to the gas chambers the same day. Anne Frank, who had kept a diary in hiding in Amsterdam for two years, was deported in 1944 and died of typhus at Bergen-Belsen in early 1945, weeks before British troops liberated the camp. She was fifteen.
 
-The result was World War II, the most destructive conflict humans had yet created.
-
-Tens of millions died. Entire cities were destroyed.
-
-The Holocaust revealed how prejudice, propaganda, and obedience could be turned into instruments of mass murder: roughly six million Jews, along with Roma, disabled people, political prisoners, and others, killed by a modern state using its railways, its paperwork, and its ordinary, obedient officials.
-
-Dolphin scholars devoted long analyses to this period.
-
-*“The lesson was not that civilization had failed. The lesson was that civilization alone was not enough.”*
+Nothing in this book's long accumulation of capability was missing from it: the organizing state that writing made possible, the industrial chemistry of the last century, the census machinery that sorted people into categories, the railways that ran on time. Every one of those tools had been built for other purposes by people who never imagined this one. The ratchet does not choose what it carries.
 
 Germany was not alone, which is what makes the file thick.
 
@@ -42,11 +32,7 @@ Yet the story did not end there.
 
 After the war, Germany rebuilt as a democratic nation and became a strong advocate for cooperation in Europe. To dolphin historians, this recovery was almost as important as the catastrophe had been. It even acquired a word, Vergangenheitsbewältigung, the work of coming to terms with the past, which the dolphins consider the only German word whose length is entirely justified.
 
-*“A species capable of compressing an entire ethical project into one word,” dolphin historians observed, “evidently found the practice of it considerably harder than the spelling.”*
-
 Others recovered within a decade or two. Some took until the 1970s. A few are, by any fair reading, still working on it.
-
-*“Humans possess a rare ability. They can learn from disaster, though often only after experiencing it.”*
 
 ### The disappeared
 

@@ -4,7 +4,7 @@ While Mesopotamia and Egypt built the pattern of god-king and bureaucracy, a sep
 
 The Xia dynasty survives mostly as legend, its existence debated by historians and treated by dolphin scholarship the way any oral tradition without a matching written or archaeological record deserves: plausible, unconfirmed, and filed separately from certainty.
 
-The Shang dynasty, from around 1600 BCE, is not a legend. Its oracle bones — turtle shells and ox bones, heated until they cracked, the cracks read as answers from ancestors — carry the earliest confirmed Chinese writing, chiefly questions about harvests, weather, and war.
+The Shang dynasty, from around 1600 BCE, is not a legend. Its oracle bones — turtle shells and ox bones, heated until they cracked, the cracks read as answers from ancestors — carry the earliest confirmed Chinese writing, from about 1250 BCE, chiefly questions about harvests, weather, and war.
 
 The Zhou dynasty, succeeding the Shang around 1046 BCE, introduced an idea dolphin historians find unusually self-aware for its era: the Mandate of Heaven, the claim that a ruler holds power only as long as heaven approves, and that heaven's approval can be read backward from a ruler's success. A dynasty that fell, by this logic, had simply proven it never truly had the mandate to begin with.
 
@@ -20,10 +20,10 @@ Much of what is known about this chapter, Shang oracle bones aside, comes down t
 
 The Qin dynasty collapsed within four years of Qin Shi Huang's death, brutal standardization having generated exactly the resentment brutal standardization tends to generate. The Han dynasty that followed kept most of the standardization and dropped most of the brutality, a pairing dolphin historians flag as worth remembering for later chapters.
 
-One of the dynasties riding that tide left a mark still felt in how the country is run today. The Sui dynasty, which seized power in 581 CE and reunified China in 589 after nearly four centuries of division, introduced the imperial civil service examination: a test of the classical texts, open in principle to any man regardless of birth, that was meant to fill government posts by merit instead of pedigree. Refined and expanded under the Tang and Song dynasties that followed, the exam system ran for some thirteen hundred years before being abolished in 1905 — the longest-running standardized test in recorded history, and one no aristocrat's son could inherit his way past, however much some of them clearly wished otherwise.
+One of the dynasties riding that tide left a mark still felt in how the country is run today. The Sui dynasty, which seized power in 581 CE and reunified China in 589 after nearly four centuries of division, introduced the imperial civil service examination: a test of the classical texts, open in principle to any man regardless of birth, that was meant to fill government posts by merit instead of pedigree. Refined and expanded under the Tang and Song dynasties that followed, the exam system ran for some thirteen hundred years before being abolished in 1905 — very likely the longest-running standardized test in recorded history, and one no aristocrat's son could inherit his way past, however much some of them clearly wished otherwise.
 
 This pattern — unify, flourish, fracture, reunify — repeats across Chinese history for the next two thousand years with a regularity dolphin scholars compare, only half-jokingly, to a tide.
 
 **Dolphin verdict:**
 
-*No civilization in this book has matched China's combination of scale and continuity: one script, evolving but recognizable, in continuous use for more than three thousand years, across dynasties that rose and fell like weather. A later chapter will ask what happened when the twentieth century tried to interrupt that continuity on purpose. This chapter's verdict, for now, is simpler: the tide always came back in.*
+*Few civilizations in this book have matched China's combination of scale and continuity: one script, evolving but recognizable, in continuous use for more than three thousand years, across dynasties that rose and fell like weather. A later chapter will ask what happened when the twentieth century tried to interrupt that continuity on purpose. This chapter's verdict, for now, is simpler: the tide always came back in.*

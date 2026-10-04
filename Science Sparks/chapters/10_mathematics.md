@@ -2,6 +2,8 @@
 
 *Status: Settled.*
 
+*Level: Start here.*
+
 *Every later section borrows from this one. It starts with almost nothing, one number and a rule for getting the next, and ends with the matrices that run quantum mechanics and computer graphics alike.*
 
 Start with almost nothing: one number to begin with, and a rule that tells you how to get the next one. From that seed, a handful of basic axioms grow the entire system of counting numbers, one successor at a time. The real payoff is the induction axiom, one of the slickest ideas in mathematics. It lets you prove that something holds for every one of infinitely many numbers without checking them one by one, which is good, because you would be checking forever.
@@ -40,9 +42,13 @@ Infinity has its own internal structure, sizes stacked on sizes. So "something c
 
 **Worked example.** A builder lays a square patio by starting with one tile and then wrapping each new ring of tiles around two sides of the square, so the rings hold 1, 3, 5, 7 tiles and so on, always the next odd number. How many tiles are in a patio of twelve rings, and is it really a square? The twelfth odd number is 2 x 12 - 1 = 23, and adding all twelve rings gives 1 + 3 + 5 + 7 + 9 + 11 + 13 + 15 + 17 + 19 + 21 + 23 = 144, which is 12 x 12, a square twelve tiles on a side. Induction explains why this never fails. Suppose eleven rings make an 11 by 11 square of 121 tiles. The twelfth ring adds 11 tiles along each of two sides plus one corner tile, and 11 + 11 + 1 = 23. That gives 121 + 23 = 144, and the same step carries any square to the next one.
 
+> **In one sentence.** Counting, one number and a rule for the next, already contains induction, the method that proves a pattern holds forever rather than just for the cases you checked.
+
 ## 2. The Algebra of Almost
 
 *Status: Settled.*
+
+*Level: Foundation.*
 
 The most common misreading of algebra is "arithmetic, but with letters." The unknown is less a stand-in for some specific mystery number than a slot in a relationship, a pattern that stays exactly the same no matter what story dresses it up. Double a number and add three, get eleven: that exact pattern can hide behind a word problem about ages, speeds, or how many apples somebody bought, and it is always the same skeleton underneath the costume.
 
@@ -68,9 +74,13 @@ That unassuming fact, along with two simpler ones, makes absolute value the firs
 
 **Worked example.** A rectangular vegetable bed must cover 40 square meters, and its length must be 3 meters more than its width. What are its dimensions? Call the width w, so the length is w + 3 and the area is w times (w + 3) = 40. Multiplying out and moving the 40 across gives w squared + 3w - 40 = 0. Now look for two numbers that multiply to -40 and add to 3. They are 8 and -5, since 8 x (-5) = -40 and 8 + (-5) = 3. So the equation factors as (w + 8)(w - 5) = 0, and the zero product property says one factor must be zero: w = -8 or w = 5. A bed cannot be -8 meters wide, so the width is 5 meters and the length is 5 + 3 = 8 meters. Check: 5 x 8 = 40. The discriminant predicted two real solutions: 3 squared - 4 x 1 x (-40) = 9 + 160 = 169, which is positive.
 
+> **In one sentence.** An unknown is a slot in a relationship, so solving an equation means finding the values that make the relationship true, and checking them against the real situation.
+
 ## 3. Functions, Graphs and Graph Analysis
 
 *Status: Settled.*
+
+*Level: Foundation.*
 
 What makes something a function? One rule, and it is non-negotiable: every input must produce exactly one output. A vending machine works this way. Press B4 today and you get a bag of chips; press B4 tomorrow and you get the same bag of chips, never a candy bar. A machine that occasionally surprised you would be broken, and a function is held to the same standard. Feed it the same input twice and you get the same output twice.
 
@@ -96,17 +106,25 @@ Here is a small preview of something huge, still several chapters away. Take a c
 
 **Worked example.** A farmer has 60 meters of fencing to build a rectangular pen against a long barn wall, so only three sides need fence. Which shape encloses the most area? Let d be the length of each of the two sides that stick out from the wall. The side parallel to the wall gets the remaining 60 - 2d meters, so the area is the function A(d) = d times (60 - 2d) = 60d - 2d squared. The leading coefficient, -2, is negative, so this parabola opens downward and its vertex is the highest point. The area is zero at d = 0 and at d = 30, and the axis of symmetry sits halfway between, at d = 15. Then the long side is 60 - 2 x 15 = 30 meters, and the area is 15 x 30 = 450 square meters. Nudge either way to check: d = 14 gives 14 x 32 = 448, and d = 16 gives 16 x 28 = 448, both smaller.
 
+> **In one sentence.** A function gives exactly one output for each input, and its graph lets you read off where it rises, falls, peaks and crosses zero without guessing.
+
 ## 4. Functions, Graphs, and Limiting Behavior
 
 *Status: Settled.*
+
+*Level: Builds on earlier chapters: Chapter 3.*
 
 A transfer function can often be understood at a glance without plotting the whole thing. Read off its behavior at low frequency, at high frequency, and around whatever corner sits between the two. Plotted on logarithmic axes, a curving power-law relationship becomes a dead straight line, and the slope of that line directly reveals the order of the underlying system, a single number that tells you how aggressively the response rises or falls.
 
 One persistent gotcha of log axes is that they have no zero at all. Zero cannot be represented on a logarithmic scale, which trips up anyone trying to plot a response that starts from nothing. A log scale effectively counts how many times you'd have to double a number to reach some target, and no count of doublings, however large or however negative, ever lands exactly on zero. You can always halve again and still have something left over. This way of reading frequency-response plots is the everyday tool of filter design.
 
+> **In one sentence.** Reading a curve at its extremes, low frequency, high frequency and the corner between, tells an engineer most of what a transfer function does.
+
 ## 5. Coordinate Systems
 
 *Status: Settled.*
+
+*Level: Foundation.*
 
 A good coordinate system needs two properties with suitably intimidating names, surjective and injective, that each mean something dead simple. Surjective means every point in the space gets reached by some label, nothing left unlabeled. Injective means no point ever answers to two different labels, or the labels stop meaning anything. Street addresses work the same way: every house on the block needs an address, and no two houses may share one, or the mail carrier can't tell them apart.
 
@@ -128,9 +146,13 @@ That may sound like abstraction for its own sake, but it is exactly what lets co
 
 **Worked example.** A lighthouse keeper treats the lighthouse as the origin, with east along one axis and north along the other. A boat sits 6 kilometers east and 8 kilometers north. How far away is it, and in which direction? The distance formula gives the square root of 6 squared + 8 squared, that is, the square root of 36 + 64 = 100, so the boat is 10 kilometers away. Its direction is the angle whose tangent is 8 divided by 6, about 53.1 degrees north of east, so in polar coordinates the boat sits at distance 10 and angle 53.1 degrees. A second boat radios its position in polar form: 5 kilometers out at 90 degrees, due north, which on the grid is 0 east and 5 north. The two boats are then 6 - 0 = 6 kilometers apart east to west and 8 - 5 = 3 kilometers apart north to south, so the gap between them is the square root of 36 + 9 = 45, about 6.7 kilometers.
 
+> **In one sentence.** A good coordinate system labels every point once and only once, and switching between grid and polar labels changes the description, never the geometry.
+
 ## 6. Euclidean Geometry
 
 *Status: Settled.*
+
+*Level: Foundation.*
 
 Euclid's Elements did something radical for its time: it built the whole of geometry as a deductive system, starting from a small handful of postulates about points, lines, and planes and proving everything else from those, step by logical step. It works like a courtroom argument. "Everybody just knows this" is inadmissible; every claim must be built strictly from previously established facts, all the way back to the few premises everyone agreed to at the start. Mathematics still runs on that model: start from bare assumptions, prove everything else, no exceptions, no appeals to "well, it looks true."
 
@@ -158,9 +180,13 @@ All three are flatly impossible. Proving it took mathematics Euclid had no acces
 
 **Worked example.** On a sunny afternoon a person 1.8 meters tall casts a shadow 2.4 meters long, while a nearby tree casts a shadow 20 meters long. How tall is the tree? The sun's rays arrive at the same angle for both, and person and tree both stand at right angles to the flat ground, so the two triangles formed by object, shadow, and sunbeam share two angles and are similar. Their sides are therefore in proportion. The tree's shadow is 20 / 2.4, about 8.33 times longer than the person's, so the tree is 1.8 x 20 / 2.4 = 36 / 2.4 = 15 meters tall. The Pythagorean theorem then gives the length of the sunbeam from the treetop to the tip of its shadow: 15 squared + 20 squared = 225 + 400 = 625, and the square root of 625 is 25 meters. For the person, the same beam measures 3 meters, since 1.8 squared + 2.4 squared = 3.24 + 5.76 = 9, and 25 / 3 is again about 8.33, as similarity demands.
 
+> **In one sentence.** Euclid showed that a few stated assumptions, followed step by step, can carry the whole of geometry, and similar triangles are the workhorse of that system.
+
 ## 7. Trigonometry
 
 *Status: Settled.*
+
+*Level: Foundation.*
 
 Take any right triangle and pick one of its two acute angles. Here is a strange and wonderful fact: the ratio between any two of its sides depends only on that angle, never on how big you draw the triangle. Blow it up to the size of a house or shrink it to a grain of rice, and the angle stays the same, and so does the ratio. These ratios have names. The sine is the side opposite the angle divided by the longest side, the hypotenuse. The cosine is the side next to the angle divided by the hypotenuse. The tangent is the opposite side divided by the adjacent side. Flip each ratio upside down and you get three more, the cosecant, secant, and cotangent, which nobody remembers off the top of their head, and that's fine.
 
@@ -182,9 +208,13 @@ The reverse trip, from a ratio back to an angle, calls on the inverse trig funct
 
 **Worked example.** Now finish the mast. You stand 50 meters from its base on level ground, sight the top with a protractor held at eye level 1.6 meters above the ground, and read an angle of 32 degrees. How tall is the mast? The tangent of 32 degrees is about 0.6249, and the tangent is the opposite side divided by the adjacent side, so the height above your eye is 50 x 0.6249, about 31.2 meters. Adding your eye height gives 31.2 + 1.6 = 32.8 meters for the whole mast. Run the problem backward as a check: 31.2 divided by 50 is 0.624, and the inverse tangent of 0.624 comes out at about 32 degrees, the angle you measured. Walk 30 meters closer, so you stand 20 meters from the base, and the ratio becomes 31.2 / 20 = 1.56, whose inverse tangent is about 57.3 degrees. Same mast, much steeper look.
 
+> **In one sentence.** In a right triangle the ratios of the sides depend only on the angle, which is why trigonometry can measure heights and distances you cannot reach.
+
 ## 8. Trigonometry and the Sinusoid
 
 *Status: Settled.*
+
+*Level: Builds on earlier chapters: Chapter 7.*
 
 A sinusoid, however it's dressed up, is completely pinned down by three numbers: how big it swings (amplitude), how fast it oscillates (angular frequency, related to ordinary frequency and to the period of one full cycle), and where in its cycle it starts (phase). A ticking metronome carries the same three numbers. How wide its arm swings is the amplitude, how fast it ticks back and forth is the frequency, and where in its swing it happened to be when you glanced up and started your stopwatch is the phase. Those three alone pin down its whole motion from then on.
 
@@ -192,9 +222,13 @@ Radians are the required currency for calculus to work properly, while degrees r
 
 RMS, root mean square, is defined by matching heating effect, which is a different thing from simple averaging. The familiar factor of about 0.707 (one over the square root of two) applies only to sinusoids. A square wave's RMS value equals its peak, and a triangle wave's RMS value is its peak divided by the square root of three, so blindly reusing the sinusoid factor for another waveform shape is a reliable way to get the wrong answer.
 
+> **In one sentence.** A sinusoid is fixed by amplitude, frequency and phase, and the 0.707 rule for RMS values belongs to sine waves alone.
+
 ## 9. Logarithms and Potencies
 
 *Status: Settled.*
+
+*Level: Foundation.*
 
 Raising a number to a power means multiplying it by itself over and over. Fold a piece of paper in half repeatedly, and after ten folds you can work out exactly how many layers thick it has become. A logarithm asks the reverse question: how many folds does it take to reach this particular thickness? In general, instead of "what do I get if I raise this base to that power," it asks "what power must I raise this base to, to land on this particular number." So if raising some base to a certain power gives a certain result, the logarithm of that result, in that base, is exactly that power. Exponentiating and taking a logarithm in the same base undo each other completely: raise a base to the power that is the logarithm of some number in that base, and you land right back on the original number. The cancellation works from the other direction too.
 
@@ -218,9 +252,13 @@ Exponentials and logarithms have one more trick, one that seems too strange to b
 
 **Worked example.** You deposit $1,000 in an account paying 6 percent interest compounded once a year. How long until it doubles to $2,000? Each year multiplies the balance by 1.06, so after n years you hold 1,000 x 1.06 to the power n, and you need 1.06 to the power n = 2. Take the natural logarithm of both sides, and the power rule brings n down in front: n x ln 1.06 = ln 2. Since ln 2 is about 0.6931 and ln 1.06 is about 0.0583, n = 0.6931 / 0.0583, about 11.9 years. Interest arrives only at each year's end, so check whole years: after 11 years you hold about $1,898, and after 12 about $2,012, so the twelfth payment does it. Compounded continuously at the same 6 percent, the balance grows as e to the power 0.06 times t, and doubling needs 0.06 x t = 0.6931, so t is about 11.6 years, a few months sooner.
 
+> **In one sentence.** A logarithm counts how many times you must multiply to reach a number, which turns growth, doubling times and interest into simple arithmetic.
+
 ## 10. Exponentials, Logarithms, and the Decibel
 
 *Status: Settled.*
+
+*Level: Builds on earlier chapters: Chapter 9.*
 
 The exponential function has a peculiarly self-referential property: its rate of change equals itself. That single fact is the entire reason it governs every first-order RC or RL circuit.
 
@@ -228,9 +266,13 @@ Logarithms earn their keep by turning multiplication into addition. A slide rule
 
 Decibel values conveniently add up along a chain of cascaded stages, which is most of their appeal. Values in dBm, an absolute measure referenced to one milliwatt, do not add in that simple way, a distinction that trips people up more often than it should. For reference, 0 dBm corresponds to one milliwatt, +30 dBm to a full watt, and −30 dBm to a single microwatt.
 
+> **In one sentence.** The exponential is the function whose rate of change equals itself, which is why it runs every RC circuit and why decibels add along a chain.
+
 ## 11. Complex Numbers
 
 *Status: Settled.*
+
+*Level: Foundation.*
 
 A complex number carries two pieces of information in one mathematical object at once. For an engineer, that almost always means magnitude and phase bundled together.
 
@@ -240,9 +282,13 @@ Engineers write j for the square root of minus one, where mathematicians write i
 
 The complex conjugate, formed by flipping the sign of the imaginary part, is the standard trick for clearing an imaginary part out of a denominator, because a number multiplied by its own conjugate always comes out real. Multiplying by j rotates a number by ninety degrees on the complex plane, and squaring j to get minus one is that same ninety-degree rotation applied twice in a row, leaving you pointing the opposite way.
 
+> **In one sentence.** A complex number bundles magnitude and phase into one object, and multiplying by j is simply a quarter turn.
+
 ## 12. Euler's Formula and the Complex Exponential
 
 *Status: Settled.*
+
+*Level: Builds on earlier chapters: Chapter 7 and Chapter 11.*
 
 Euler's formula is the identity that ties a complex exponential to an ordinary rotating arrow. Raising the constant e to an imaginary-angle power produces exactly the point at that angle on a circle of radius one, with its real part equal to the cosine and its imaginary part equal to the sine of that same angle.
 
@@ -250,9 +296,13 @@ A real-valued sinusoid can then always be recovered as the real-part "shadow" of
 
 The payoff comes when you differentiate that spinning exponential. Doing so just multiplies it by the angular frequency and a rotation factor, converting a calculus operation into plain multiplication. That single trick, more than anything else, is why the complex-exponential approach solves AC circuits so cleanly, and it leads directly to the phasor, the engineer's standard tool for alternating current.
 
+> **In one sentence.** Euler's formula turns a complex exponential into a rotating arrow, so calculus on sinusoids becomes multiplication, which is the whole trick behind phasors.
+
 ## 13. Systems of Equations
 
 *Status: Settled.*
+
+*Level: Foundation.*
 
 A system of equations is a demand: find values for your unknowns that make every equation in the pile true at once. Each equation taken alone is usually satisfied by a whole crowd of possible answers. The system takes the overlap, the values that satisfy every equation simultaneously, and here is the important logical point: piling on more equations can only shrink that overlap or leave it the same, never grow it. Every new equation is another filter, and filters only remove candidates.
 
@@ -274,9 +324,13 @@ Systems of equations are how you translate messy real situations into something 
 
 **Worked example.** A café sells coffee at $3 a cup and muffins at $2 each. One morning it sold 50 items in all and took in $130. How many of each did it sell? Name the unknowns: c cups of coffee and m muffins. The count gives c + m = 50, and the money gives 3c + 2m = 130. Use elimination: multiply the first equation by 2 to get 2c + 2m = 100, then subtract it from the second. The muffins cancel, leaving c = 130 - 100 = 30. Substituting back, m = 50 - 30 = 20. Check against reality: 30 coffees bring in 30 x 3 = $90, 20 muffins bring in 20 x 2 = $40, and 90 + 40 = 130, from 30 + 20 = 50 items. Both answers are whole and positive, as they must be. The ratios predicted a unique answer in advance: the coefficients of c compare as 1 to 3 and those of m as 1 to 2, and since those differ, the lines cross exactly once.
 
+> **In one sentence.** A system of equations asks for the values that satisfy every equation at once, and comparing coefficients tells you in advance whether there is one answer, none or infinitely many.
+
 ## 14. Vectors and Vector Algebra
 
 *Status: Settled.*
+
+*Level: Foundation.*
 
 A vector is a peculiar kind of object: it has a size and a direction but no home address of its own. The instruction "walk three miles northeast" means exactly the same thing whether you start from your house or from the coffee shop down the street, because it specifies a distance and a direction and never a starting point. Draw a northeast arrow three inches long on one side of a page, then an identical arrow, same length and same direction, somewhere else on the page entirely, and mathematically those are the same vector drawn in two spots. A vector cares only how far it goes and which way it points. If you want the vector that carries you from one specific point to another, subtract the starting point from the ending point.
 
@@ -302,9 +356,13 @@ Vectors even hand you a slick one-line proof of the Pythagorean theorem, using t
 
 **Worked example.** A child drags a sled across a flat, snowy yard. The rope pulls with a force of 30 newtons toward the east and 40 newtons toward the north, so the pull has a total size of 50 newtons, since the square root of 30 squared plus 40 squared is 50. Meanwhile the sled moves 8 meters east and 6 meters north, a displacement of 10 meters, because the square root of 64 plus 36 is 10. How much work does the rope do? Work is the dot product of force and displacement, so multiply matching components and add: 30 times 8 is 240, 40 times 6 is 240, and the total is 480 joules. Had the rope pulled exactly along the sled's path, it would have done 50 times 10, or 500 joules. The ratio of 480 to 500 is 0.96, which is the cosine of the angle between rope and path, an angle of about 16 degrees. The shortfall of 20 joules is the price of pulling slightly off the line of travel.
 
+> **In one sentence.** A vector is a size and a direction with no fixed address, and the dot product measures how much one vector acts along another.
+
 ## 15. Limits
 
 *Status: Settled.*
+
+*Level: Builds on earlier chapters: Chapter 3.*
 
 Here is an idea that sounds almost too simple until you try to pin it down. The limit of a function, as some input approaches a particular value, is whatever number the function's output keeps crowding toward as the input creeps closer and closer to that value. Note the careful wording: the input gets close without ever landing on that value, and the function doesn't even need to be defined at that exact spot for the limit to exist there perfectly well.
 
@@ -328,9 +386,13 @@ This is exactly how you prove that the ratio of the sine of a tiny angle, measur
 
 **Worked example.** A ball rolls down a ramp so that after t seconds it has traveled t squared meters. How fast is it moving at the 3-second mark? The average speed between 3 seconds and some later time t is the distance gained, t squared minus 9, divided by the time elapsed, t minus 3. Plug in t equals 3 directly and you get 0 divided by 0, which only tells you the algebra is unfinished. Factor the top: t squared minus 9 equals t minus 3 times t plus 3. The troublesome factor of t minus 3 cancels, leaving t plus 3, which behaves perfectly well at 3. Now let t approach 3, and the expression approaches 6. So the ball is moving at 6 meters per second at that instant. As a check, over the stretch from 3 to 3.01 seconds the ball covers 0.0601 meters in 0.01 seconds, an average of 6.01 meters per second, already crowding in on 6.
 
+> **In one sentence.** A limit is the value a function crowds toward, and it is the idea that lets calculus talk about an instant without dividing by zero.
+
 ## 16. Differential
 
 *Status: Settled.*
+
+*Level: Builds on earlier chapters: Chapter 15.*
 
 Here is the basic question calculus was invented to answer: if something is changing, how fast is it changing right now, this instant? Forget the average over an hour or a year; the question is about this moment. A car's speedometer doesn't wait for the trip to end and then hand you the average. It gives a live reading, updated instant by instant, and a derivative is the mathematical machinery for extracting exactly that kind of reading from a quantity (position, cost, mass) that, left to itself, only ever hands you totals and averages.
 
@@ -362,9 +424,13 @@ Derivatives also tell you where a function is at its biggest or smallest, becaus
 
 **Worked example.** You have a square sheet of cardboard 12 centimeters on a side and want to fold it into an open-topped box by cutting an equal square from each corner and turning up the flaps. What size cut gives the biggest box? If each cut square has side x, the base is 12 minus 2x on a side and the height is x, so the volume is x times the square of 12 minus 2x. By the product and chain rules, its rate of change is the square of 12 minus 2x, minus 4x times 12 minus 2x, which factors neatly into 12 minus 2x times 12 minus 6x. That is zero when x is 6, which leaves no cardboard at all, or when x is 2. Cutting 2-centimeter squares gives a base of 8 by 8 and a height of 2, for a volume of 128 cubic centimeters. Nudge the cut to 1.9 or 2.1 centimeters and the volume drops to about 127.8 cubic centimeters either way, which is exactly what a peak should look like.
 
+> **In one sentence.** The derivative is the instantaneous rate of change, the slope of the tangent, and setting it to zero is how you find the best and the worst.
+
 ## 17. Integral
 
 *Status: Settled.*
+
+*Level: Builds on earlier chapters: Chapter 16.*
 
 If differentiation breaks a quantity down into its instantaneous rate of change, integration runs that process backward, building a whole quantity back up from a rate. A faucet's flow rate keeps changing, sped up one moment and slowed down the next. Hand someone a graph of that flow rate over time and ask how much water ended up in the bucket, and you've asked them to integrate.
 
@@ -390,9 +456,13 @@ When no exact antiderivative exists, or when you're handed a table of measured d
 
 **Worked example.** A rain barrel fills from a downspout, and as the storm builds the inflow rises steadily: 6 liters per minute at the start, increasing by 4 liters per minute every minute, so the rate after t minutes is 6 plus 4t liters per minute. How much water arrives in the first 5 minutes? The total is the integral of the rate from 0 to 5. An antiderivative of 6 plus 4t is 6t plus 2 t squared, since differentiating that gives back the rate. By the Fundamental Theorem, evaluate it at the two ends and subtract: at 5 minutes it is 30 plus 50, or 80, and at 0 it is 0. So 80 liters land in the barrel. A quick sanity check: the rate climbs in a straight line from 6 to 26 liters per minute, so its average is 16, and 16 liters per minute for 5 minutes is again 80 liters. For a rate that rises in a straight line, even the trapezoidal rule gets the answer exactly.
 
+> **In one sentence.** Integration builds a whole quantity back up from its rate of change, and the fundamental theorem says it undoes differentiation.
+
 ## 18. Multi-Variable Functions
 
 *Status: Settled.*
+
+*Level: Technical; builds on Chapter 14 and Chapter 16.*
 
 Up to now every function has eaten a single number and spat out a single number. Plenty of real quantities depend on more than one thing at once (temperature depends on both latitude and longitude, say), so we need functions that eat a whole point, a pair of numbers, and spit out one number. Graph such a function and instead of a curve you get a surface floating in three-dimensional space, a landscape of hills and valleys.
 
@@ -414,9 +484,13 @@ Finding the high and low points of a multivariable function again starts with cr
 
 **Worked example.** A hill's height in meters is 100 minus x squared minus 2 times y squared, where x is kilometers east of the summit and y is kilometers north. You stand 3 kilometers east and 2 kilometers north, at a height of 100 minus 9 minus 8, or 83 meters. Which way is steepest, and how steep? The partial derivative with respect to x is minus 2x, which is minus 6 here; with respect to y it is minus 4y, which is minus 8. So the gradient is the arrow with components minus 6 and minus 8, pointing west and south, back toward the summit. Its length is the square root of 36 plus 64, which is 10, so the steepest climb gains 10 meters per kilometer. Walk at right angles to that arrow and you stay on the 83-meter contour. The only critical point is the summit, where the second-derivative test gives minus 2 times minus 4, minus 0, which is 8: positive, with downward curvature, so a genuine peak at 100 meters.
 
+> **In one sentence.** Functions of several variables have a slope in every direction, and the gradient points the way of steepest climb.
+
 ## 19. Multi-Variable Calculus
 
 *Status: Settled.*
+
+*Level: Technical; builds on Chapter 17 and Chapter 18.*
 
 Just as ordinary integration extends the idea of a sum to a smoothly varying single-variable function, double and triple integrals extend the same rectangle-slicing idea to regions in a plane or solids in space. Instead of chopping an interval into thin slices, you chop a two-dimensional region into tiny patches, or a solid into tiny chunks, multiply the function's value on each piece by the size of that piece, add up all those products, and take the limit as the pieces shrink to nothing. To estimate the total weight of an oddly shaped loaf of bread, you could mentally chop it into tiny cubes, weigh each one, and add up the results: a triple integral in everyday clothing.
 
@@ -440,9 +514,13 @@ All three theorems are the same idea in different costumes: what happens on the 
 
 **Worked example.** A round metal plate of radius 2 meters gets thicker toward the rim, so that its density is 3 times the distance from the center, in kilograms per square meter. What is its mass? The disk begs for circular coordinates, with distance r running from 0 to 2 and the angle running all the way around, from 0 to 2 pi. The density is 3r, and the Jacobian contributes one more factor of r, so the quantity to integrate is 3 times r squared. Do the inner integral over r first: an antiderivative of 3 times r squared is r cubed, which goes from 0 to 8 as r goes from 0 to 2. Nothing depends on the angle, so the outer integral simply multiplies by 2 pi. The mass is 16 pi, about 50.3 kilograms. Forget the Jacobian and you'd integrate 3r instead, getting 6 times 2 pi, or 12 pi, about 37.7 kilograms, short by a full quarter of the true answer.
 
+> **In one sentence.** Double and triple integrals add up quantities over areas and volumes, provided you remember the Jacobian when you change coordinates.
+
 ## 20. Vector Calculus
 
 *Status: Settled.*
+
+*Level: Technical; builds on Chapter 14 and Chapter 19.*
 
 A vector field, as we've met, assigns an arrow to every point in space, such as the local wind velocity at every spot on a map. Three operators let you interrogate such a field at any point. The gradient, already familiar, starts from a plain number-valued field and produces an arrow field pointing uphill, in the direction of steepest increase.
 
@@ -464,9 +542,13 @@ A nice thought to end on: gradient, divergence, and curl look like three unrelat
 
 **Worked example.** Gas streams outward from a small source in a perfectly uniform expansion: at the point with coordinates x, y, and z (in meters), its velocity is the arrow with those same three components, in meters per second. How many cubic meters of gas per second flow out through a sphere of radius 2 meters centered on the source? The divergence adds up how fast each component changes along its own direction: 1 plus 1 plus 1, or 3, everywhere. The Divergence theorem says the outward flux equals 3 times the enclosed volume. That volume is four-thirds pi times 2 cubed, or 32 pi over 3, so the flux is 32 pi, about 100.5 cubic meters per second. Now check it from the boundary side. On the sphere the flow points straight outward with speed 2, and the sphere's area is 4 pi times 2 squared, or 16 pi. Speed times area gives 32 pi again, interior and boundary agreeing exactly.
 
+> **In one sentence.** Gradient, divergence and curl interrogate a vector field, and the divergence theorem says what flows out through a surface equals what is produced inside it.
+
 ## 21. Series
 
 *Status: Settled.*
+
+*Level: Builds on earlier chapters: Chapter 15.*
 
 A series is what you get when you add up infinitely many numbers, one after another, and ask whether the running total settles down to some fixed value as you keep going, instead of wandering off to infinity or refusing to make up its mind. Pay off a debt in installments that keep shrinking, half of what's left each time, and the running total you've paid keeps climbing without ever overshooting the original debt, settling closer and closer to it forever. When a series settles like that, we say it converges, and the value it settles to is its sum.
 
@@ -494,9 +576,13 @@ There's one famously stubborn wrinkle. Near a sudden jump in the function, the p
 
 **Worked example.** A ball dropped from 2 meters rebounds to exactly half its previous height on every bounce, forever, in the idealized version. How far does it travel in total? It first falls 2 meters. After that, each bounce is an up-and-down pair: 1 meter up and 1 down, then 0.5 and 0.5, then 0.25 and 0.25, and so on. So the bouncing adds 2 times the geometric series 1 plus one-half plus one-quarter and onward. Each term is half the one before, a ratio safely below 1, so the series converges, and its sum is 1 divided by 1 minus one-half, which is 2. The bounces therefore contribute 2 times 2, or 4 meters, and the grand total is 6 meters. After just 5 bounces the ball has covered 2 plus 2 times the sum of 1, 0.5, 0.25, 0.125, and 0.0625, which is 5.875 meters, already within an eighth of a meter of the limit, with infinitely many bounces crammed into that last eighth.
 
+> **In one sentence.** An infinite series can add up to a finite total, and testing for convergence tells you when the running sum settles down.
+
 ## 22. Fourier Transforms and FFT
 
 *Status: Settled.*
+
+*Level: Technical; builds on Chapter 8, Chapter 12 and Chapter 17.*
 
 A glass prism splits a beam of white light into a rainbow of individual colors. White light doesn't advertise which colors it's made of until something forces the split, and a Fourier transform does exactly that to a signal, splitting it into the individual frequencies it's built from.
 
@@ -520,9 +606,13 @@ Separate from that limit is the sampling theorem: to capture a signal faithfully
 
 **Worked example.** A sound clip contains 1,048,576 samples, which is 2 to the 20th power, or about 24 seconds of CD-quality audio at 44,100 samples per second. How much faster is the fast Fourier transform than the brute-force version? Brute force takes on the order of the number of samples squared, about 1.1 trillion operations. The fast transform takes on the order of the number of samples times the number of times you can halve it, which is 20 here, so about 21 million operations. The ratio is 1,048,576 divided by 20, about 52,000. On a machine doing a billion operations per second, brute force needs roughly 18 minutes, while the fast transform finishes in about two hundredths of a second. The sampling theorem adds one more number: at 44,100 samples per second, the highest pitch the recording can capture faithfully is half of that, 22,050 hertz, comfortably above the roughly 20,000 hertz limit of human hearing.
 
+> **In one sentence.** A Fourier transform splits a signal into the pure frequencies it contains, and the fast algorithm made that practical for every modern device.
+
 ## 23. Laplace Transform
 
 *Status: Settled.*
+
+*Level: Technical; builds on Chapter 22.*
 
 The Laplace transform is a close cousin of the Fourier transform with one crucial difference in attitude: instead of weighing a function equally across all of time, it discounts the future. It multiplies by a steadily decaying exponential before integrating, starting from a fixed beginning point and running forward forever. A financial analyst does the same thing when discounting future cash flows to a present value, treating a dollar promised ten years from now as worth less than a dollar in hand today, precisely so that a growing stream of future payments can still add up to a sensible, finite total.
 
@@ -544,9 +634,13 @@ Finally, package a whole linear system as a transfer function, the ratio of its 
 
 **Worked example.** A capacitor charges through a resistor so that its voltage v, starting at 0 volts, obeys a simple rule: the rate of change of v plus 2 times v always equals 4, with time in seconds. Transform both sides. The rate of change becomes s times V minus the starting value of 0, and the constant 4 becomes 4 over s. So s times V plus 2 times V equals 4 over s, and V is 4 divided by s times s plus 2. Now the cover-up trick: cover the factor s and set s to 0 in what remains, giving 4 over 2, or 2; cover the factor s plus 2 and set s to minus 2, giving 4 over minus 2, or minus 2. So V is 2 over s minus 2 over s plus 2. Reading the table backward, v equals 2 minus 2 times e to the power minus 2t. After 1 second that is 2 minus 2 times 0.135, about 1.73 volts, creeping toward 2 volts without overshoot.
 
+> **In one sentence.** The Laplace transform turns linear differential equations into algebra, so circuits and control systems can be solved by table lookup.
+
 ## 24. Integral Geometry
 
 *Status: Settled.*
+
+*Level: Optional deep dive; builds on Chapter 17.*
 
 Integral geometry flips the usual setup of calculus on its head. Instead of integrating some function over a fixed region of space, you fix a shape and integrate over an entire space of lines, or planes, or rigid motions, using that as a way of measuring the shape itself. The classic example: you can find a curve's length without measuring it directly, by asking how often, on average, randomly chosen lines cross it.
 
@@ -566,9 +660,13 @@ A related idea says that the fraction of area occupied by some material on a ran
 
 **Worked example.** A wooden floor has parallel seams 10 centimeters apart, and you drop a 5-centimeter needle on it at random. For a needle no longer than the spacing, the chance of landing across a seam is twice the needle's length divided by pi times the spacing: here 2 times 5 over pi times 10, which is 1 over pi, about 0.318. Now run the formula backward. Drop the needle 1,000 times and suppose 318 drops land across a seam. Solving for pi gives twice the length times the number of drops, divided by the spacing times the number of crossings: 10,000 over 3,180, about 3.145, within about three thousandths of the true 3.14159. Luck plays a large part, though. With 1,000 drops the number of crossings typically wobbles by about 15 either way, enough to move the estimate by roughly 0.15. Each extra decimal place of pi costs about a hundred times as many drops.
 
+> **In one sentence.** Integral geometry measures shapes by averaging over all the lines that cross them, which is why dropping needles can estimate pi.
+
 ## 25. Matrices
 
 *Status: Settled.*
+
+*Level: Builds on earlier chapters: Chapter 13 and Chapter 14.*
 
 A matrix is nothing more mysterious than a rectangular grid of numbers. It earns a whole chapter because of what that grid represents: a linear map, a rule for turning one vector into another that respects addition and scaling. Matrix multiplication pairs up a row from the first matrix with a column from the second to build each entry of the result, and it is defined that way for exactly one reason: so that applying the combined matrix to a vector gives the same answer as applying the second matrix first and then feeding the result into the first. Multiplying matrices is how you compose linear maps, the same way you compose two functions by feeding the output of one into the other.
 
@@ -593,3 +691,18 @@ Certain special families of matrices make all of this dramatically easier. For d
 And LU factorization is nothing more than the bookkeeping of ordinary Gaussian elimination, recorded once and for all as a product of two triangular matrices. Once that factorization is paid for a single time, solving the same system again and again for many different right-hand sides becomes cheap, since each new solve is a quick pass through the already-triangular pieces instead of a fresh elimination from scratch.
 
 **Worked example.** A rubber sheet is stretched by the map that sends the point with coordinates x and y to the point with coordinates 2x plus y and x plus 2y, so its matrix has rows 2, 1 and 1, 2. The determinant is 2 times 2 minus 1 times 1, or 3, so every patch of the sheet ends up with 3 times its original area. For the eigenvalues, subtract a scale factor from both diagonal entries and ask when the determinant vanishes: the square of 2 minus that factor, minus 1, equals 0, which gives factors of 3 and 1. The arrow with components 1 and 1 maps to 3 and 3, stretched threefold; the arrow with components 1 and minus 1 maps to itself, untouched. These two eigen-directions are perpendicular, as a symmetric matrix promises, and 3 times 1 recovers the determinant. Power iteration from the arrow 1 and 0 gives 2 and 1, then 5 and 4, then 14 and 13, then 41 and 40, swinging steadily toward the dominant diagonal direction.
+
+> **In one sentence.** A matrix is a linear map written as a grid, and its eigenvectors are the directions it only stretches, never turns.
+
+## Rules Check: Mathematics
+
+*Mathematics proves rather than measures, but the six rules this book keeps meeting are already here in their abstract form.*
+
+- **Conservation.** An integral is a running total (Chapter 17), and the divergence theorem of Chapter 20 says that what flows out through a closed surface equals what was produced inside. That is the mathematical shape of every conservation law in Physics.
+- **Symmetry.** The unit circle (Chapter 7) and the complex exponential (Chapter 12) turn rotation into arithmetic, and matrices (Chapter 25) handle rotations and reflections. The symmetries of later sections are written in this language.
+- **Probability.** This section does not teach probability directly. It supplies the tools, exponentials, logarithms (Chapter 10) and series (Chapter 21), that Chapter 26 and Chapter 30 use to put numbers on uncertainty.
+- **Feedback and emergence.** A quantity whose growth is proportional to itself is feedback, and its solution is the exponential of Chapter 9 and Chapter 10. The Laplace transform (Chapter 23) is the control engineer's tool for analyzing feedback loops.
+- **Evidence beats intuition.** Infinitely many terms can add up to a finite number (Chapter 21), and the overshoot at the corners of a Fourier square wave never disappears however many terms you add (Chapter 22). Careful definitions such as the limits of Chapter 15 settle questions intuition gets wrong.
+- **Useful but incomplete models.** The derivative replaces a curve by its tangent line (Chapter 16), and a truncated series replaces a function by a few terms (Chapter 21). Nearly all of applied mathematics consists of approximations that are good enough and known to be approximations.
+
+**Going deeper.** Math, Actually (four volumes) takes every topic in this section further, from arithmetic to category theory.

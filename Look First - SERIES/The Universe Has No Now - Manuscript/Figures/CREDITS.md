@@ -1,6 +1,8 @@
 # Figure credits — *The Universe Has No Now*
 
-Lothar J. Musiol. One figure per chapter plus Fig 0 (46 slots).
+Lothar J. Musiol. One figure per chapter plus Fig 0 (47 slots).
+
+**Numbering since 3 Oct 2026.** Chapter 30 was split into Chapters 30 and 31. File names did not change: the printed figure number is the chapter number, so `fig31`–`fig45` now print as Figures 32–46, and the new `fig46.png` (liquid ranges of five solvents, drawn by `draw_spacetime_figs.py`) prints as Figure 31. The table rows below use file ids. The mapping is `CHAPTER_FIG` in `build_docx.py`.
 
 **Naming contract.** Live files live in `Figures/figs/`.
 

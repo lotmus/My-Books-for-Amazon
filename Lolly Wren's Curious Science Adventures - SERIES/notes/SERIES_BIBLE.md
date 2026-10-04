@@ -99,7 +99,7 @@ Do not rename them, and do not insert their already-written scenes a second time
 - **Lieutenant K. Schwarzschild.** Does not walk on. A letter from the Russian Front, and a second half he thought too speculative to send to Einstein, addressed to whichever office concerns itself with the shape of things. He sends his regrets. The physics is the 1915–16 solution. The extended geometry is two regions joined at a throat that pinches shut. It is not, by itself, a route.
 - **Hendrik van Casteel.** Never academic. Thirty-one years at a lighting concern. The torsion balance in the Cumbrian mineshaft was his, then a company's, then nobody's, and he still visits it. "I am a lighting engineer and I find the question ludicrous." He states the Casimir force and declines to spend a week on calibration. One extravagance per experiment: the superconducting cable. When the plates move four hundred and eleven attometres, he apologises for his voice. The reading is a force. It is not a proof of an interpretation.
 - **Dr Priya Ramanathan.** Meets them at a facility outside Cheltenham. She speaks from the trace and often does not look up. She distinguishes advancing a supernova from causing one, and she would rather not have been right. She comes down with boxes and does not sleep. She characterises instruments. The Page-curve crossover in 4C's radiation is her use of Page's 1993 result, and the Page time in this story is 1961. She is not a new interpretation. At the close, thirty-one cores are still advancing and that number has not moved in six weeks.
-- **Ronald Dump.** President of the Galactic Counsel. The name stays Dump. He arrives nineteen minutes late, with six people and no papers. In December his office issues a one-line correction and hopes nobody will ask why.
+- **Aldous Wexley.** President of the Galactic Counsel (invented; not a parody of any real politician). In the manuscript he is in his seat before anyone else, with a single folder squared to the edge of the table. In December his office issues a one-line correction and hopes nobody will ask why. (Replaces the retired "Ronald Dump" entry, 3 Oct 2026: no real-politician parodies in this series.)
 - **Mrs Kell.** Eighty-three. She sits through the meeting in silence, then says to file the nine cores as in transit and not force the box. She abstains, and the minute records why: a person who proposes the sensible answer should not also get to vote for it. Do not merge her with Dorothy Kell's brother from Book 1. The manuscript does not.
 - **Mavis-9.** The department's machine in the corner. She declines to certify herself. She is not a person and not a consultant.
 
@@ -132,7 +132,7 @@ A returning person keeps the instrument, the smell, and the length of sentence t
 - **Venn** is polished procedure. The case stays teal. He is not damp, and that absence is the offence. He believes reality is a filing problem. He does not confess.
 - **Pike** began with the brightness of a person doing well inside a system she had not examined. She has read the second page. She asks what a spreadsheet actually measures. She does not go back to not knowing. In Book 2 she is at the kettle, and the fact is in the audit.
 - **Pilbeam** is weary patience and very little of the physics. The terrier is his. See the warning under his name: Nelson the dog is not Nelson Drill.
-- **People who arrived in Book 2** keep the voices already fixed in this file. Mrs Kind closes a file the way she closes a booking. Stadthof is loud, explains with chalk, and at one point sings. When he is agreed with, he declines to notice. Nashville does not raise his voice. Esaki refuses tea. Drill reaches the end of a sentence and takes a piece back. Van Casteel is a lighting engineer and finds the grand question ludicrous. Ramanathan speaks from the trace and often does not look up. Dump arrives late, with people and no papers. Mrs Kell sits through the meeting in silence, then says the sensible thing and does not vote for it. Do not give Stadthof a smell of chalk dust. Heisenburger is the one who carries none.
+- **People who arrived in Book 2** keep the voices already fixed in this file. Mrs Kind closes a file the way she closes a booking. Stadthof is loud, explains with chalk, and at one point sings. When he is agreed with, he declines to notice. Nashville does not raise his voice. Esaki refuses tea. Drill reaches the end of a sentence and takes a piece back. Van Casteel is a lighting engineer and finds the grand question ludicrous. Ramanathan speaks from the trace and often does not look up. Wexley is in his seat first, with one folder squared to the table edge. Mrs Kell sits through the meeting in silence, then says the sensible thing and does not vote for it. Do not give Stadthof a smell of chalk dust. Heisenburger is the one who carries none.
 
 ### Objects that are already theirs
 
@@ -232,7 +232,7 @@ Eilstein's own calendar of the same winter: less from ordinary feeding in Decemb
 
 The ninth of February that closes the book is the Monday about eleven months later. Mrs Kind's deadline, the date field maintenance was to cease, and the morning with no countdown are that later Monday. The entropy chapter's "February of next year" is this date. On it, Ellen's card is still on the outside of the file. Do not move that card inside. The word has not come back.
 
-In December of the case year, after the countdown chapters, the Counsel quietly reinstates the field maintenance. Dump's office issues a one-line correction. Beatrix has filed some version of the argument every month since the June ruling; somebody on the appeal panel reads it in November. Nobody tells the department; Mrs Kind tells Lolly on the ninth of February.
+In December of the case year, after the countdown chapters, the Counsel quietly reinstates the field maintenance. Wexley's office issues a one-line correction. Beatrix has filed some version of the argument every month since the June ruling; somebody on the appeal panel reads it in November. Nobody tells the department; Mrs Kind tells Lolly on the ninth of February.
 
 Counts that stay fixed at the close, as Mrs Kind reads them: 308 recovered, of the original Book 1 tally; the fourteen accounted a different way, not as a reopening of that tally; 209 of 209 dipped and returned; nine cores in transit, logged as in transit and not forced into a box; thirty-one cores still advancing, and that number has not moved in six weeks. The register closes at 411 P-9. Book 2 does not restart the 411. The fourteen are a new case.
 
@@ -333,3 +333,24 @@ A new department, a new instrument, or a new part of physics not in the tables a
 Still open, because the manuscripts leave them open: why nothing has written back; the nine cores, left unresolved rather than forced into a yes-or-no; thirty-one cores still advancing, the number unmoved for six weeks when the book ends; the 103 unrecovered; Margaret, who is inside the 308 as a record and who still did not come back as a person; Jago's unpaid debts. Nuclear shells were left open on purpose in Book 1. They are available. The fine-structure constant is not: it was stated, and it was not derived. Do not derive it in a lecture and pretend the backlog never said otherwise.
 
 Article Two's invitation clause stands, with the public schedule Eilstein asked for. Do not repeal either.
+
+
+## Continuity facts fixed 3 Oct 2026 (round 5/6)
+
+- **Eilstein's age across books.** Book 1: the man was born in Ulm in 1879. Book 2: "what he carries is eleven thousand years old". Both are true: he inherited the eleven thousand years whole when he was turned, "the way a house comes with its cellar" (Book 2, Chapter Three). Never write that Eilstein himself is eleven thousand years old.
+- **The 99 states (Book 2).** 308 states in all. 209 are on a continuous recorder; the other 99 sit on old Annex loggers that read once a day at noon. For those 99 nobody can know what happened between readings, and Pike says so ("I'm not going to guess. Sorry.").
+- **Lolly's career (Book 1).** Seven months on the complaints desk at the start, ten years at the bench before that: eleven years in the Ministry. Gideon spent three years at Halloran's packing the Ministry's relay orders.
+- **Ellen Prosper (Book 2).** Her two permitted options were a course in Newcastle or her mother's shop in Outer Fenwick. The Schwarzschild letter's second half was posted to an office and never opened.
+
+## Continuity additions (round 6/7, 2026-10-03)
+- **4C origin:** not every singularity was engineered. Some "were simply found, a good deal older than anybody's paperwork" (B1 ch6). Eilstein's horizon is one of these, inherited whole (B2 Page time 1961, 65 years).
+- **Geography:** Larchfield care home is off Pelham Road, Sub-District 6. Ellen Wren lives in Outer Fenwick, on the ridge above Sub-District 6.
+- **B1 calendar:** chapters 1–8 happen on a single Thursday in autumn. The book runs through to November.
+- **B2 countdown:** the notebook day counts run to 9 Feb 2027. The full table is in the B2 MANUSCRIPT_GUIDE, round 7.
+- **Mrs Kind's week:** Thursdays at Marsham Street; other weekdays at Kind & Farrow, Croydon.
+
+## Structure (2026-10-03, Lothar's decisions)
+- Book 1: 19 chapters. Book 2: 17 chapters. In both, the science is optional back matter titled "For Curious Readers".
+- Book 1 keeps only 7 in-chapter Rule lines and has no "Lesson for this chapter" pointers. Book 2 has no in-chapter tags.
+- Eilstein's eleven thousand years are inherited. Anything older than his own life (Ravenna 1338–1347, the ice, the Bronze Age) is memory he carries, never something he lived. He was born in Ulm in 1879.
+- Gideon's clumsiness: at most once every few chapters, and each use must escalate or pay off.

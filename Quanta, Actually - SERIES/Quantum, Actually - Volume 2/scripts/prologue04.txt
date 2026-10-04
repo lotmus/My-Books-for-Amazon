@@ -1,0 +1,239 @@
+TITLE: From Arrows to Complex Numbers
+TAGLINE: An arrow is two numbers. Adding arrows adds the numbers. "Shrink and turn" is a multiplication, and it needs a number i whose square is −1. That is all a complex number is
+NUM: 4
+NEXT: Prologue 5 brings in electrons. With them, the whole of QED at this level is three basic actions, each with its own arrow.
+
+# How to use this prologue
+
+This is the on-ramp from the drawings of Prologues 1–3 to the algebra of Lesson 1. It needs school mathematics only: coordinates on squared paper, Pythagoras' theorem, and the sine and cosine of an angle in a right-angled triangle. Nothing is assumed beyond that. If complex numbers are already familiar, read the boxes and Section 7 and move on. Expect two to four hours.
+
+## Learning objectives
+
+- Describe any arrow by two numbers, its east and north parts, and add arrows by adding those parts.
+
+- Find an arrow's length squared, and therefore a probability, from its two parts.
+
+- Combine arrows by "shrink and turn": multiply the lengths, add the angles.
+
+- Explain why "turn by a quarter" behaves like a number i with i × i = −1, and write an arrow as x + iy.
+
+- Write the stopwatch arrow at angle θ as cos θ + i sin θ, and recognise the shorthand e^(iθ).
+
+- Redo Prologue 2's glass sheet with complex numbers and get the same 0 to 16 percent.
+
+## Words you will need
+
+@widths 2400 7392
+| Word | What it means here |
+| east part, north part | How far an arrow goes across and up on squared paper |
+| unit arrow | An arrow of length 1 |
+| shrink and turn | Make an arrow shorter by some factor and rotate it by some angle |
+| i | The unit arrow pointing north; turning by a quarter turn anticlockwise |
+| complex number | An arrow written as x + iy |
+| conjugate | The mirror image of an arrow in the east–west line: x − iy |
+
+# 1 An arrow is two numbers
+
+Draw an arrow on squared paper with its tail at the origin. Its tip has two coordinates: how far east (x) and how far north (y). Those two numbers describe the arrow completely. An arrow of length 0.2 pointing north-east, for example, has x ≈ 0.141 and y ≈ 0.141.
+
+IMG: P4_components.png | 5.6 | Figure P4.1. An arrow described by its east part x and north part y. Pythagoras gives its length squared: x² + y². That is the probability, if this is a final arrow.
+
+Two things become easy.
+
+**Length.** By Pythagoras, length² = x² + y². So the probability for a final arrow is just x² + y². No ruler needed.
+
+**Adding.** To add arrows tip to tail, add their east parts and add their north parts. The arrow (0.2, 0) plus the arrow (0, 0.2) is (0.2, 0.2). Its length squared is 0.04 + 0.04 = 0.08 — the right-angle result of Prologue 1, Worked example 1, now by arithmetic.
+
+**Near-cancellation.** Take two arrows of length 1, one pointing north, (0, 1), and one pointing south, (0, −1). They add to (0, 0): two routes, each of which looks perfectly possible, and a detector that never clicks. Now tip the south arrow 10° towards the east. It becomes (0.174, −0.985), and the sum is (0.174, 0.015), of length about 0.17. Neither arrow changed its length. Only the angle between them changed, and a dark spot now gets a faint signal, about 0.03 of what one route alone would give. This is the arithmetic of every interference pattern: outcomes are decided by adding arrows, not by adding probabilities.
+
+BOX: Try it now 1
+Add the arrows (0.3, 0.1), (−0.1, 0.2) and (0, −0.1). What is the final arrow, and what probability does it represent?
+ENDBOX
+
+# 2 Shrink and turn
+
+Arrows get changed as well as added. In Prologue 2, the arrow for reflection from the front of the glass was the arrow the photon had on arrival, *shrunk* to 0.2 of its length and *turned* by half a turn. In Prologue 5, every basic action will shrink and turn the arrow of what came before.
+
+Combining two such changes is simple: **lengths multiply, angles add.** Shrinking to 0.5 and turning 30°, followed by shrinking to 0.4 and turning 60°, is the same as shrinking to 0.5 × 0.4 = 0.2 and turning 30° + 60° = 90°.
+
+IMG: P4_multiply.png | 6.0 | Figure P4.2. "Shrink and turn" twice. The first change (length 0.5, angle 30°) and the second (length 0.4, angle 60°) combine into one change of length 0.2 and angle 90°. Lengths multiply; angles add.
+
+Here is the key idea of this whole prologue. A change like "shrink to 0.5 and turn by 30°" can itself be drawn as an arrow: length 0.5, angle 30°. Then applying it to another arrow is a kind of multiplication of arrows. We are about to find out what that multiplication looks like in terms of east and north parts.
+
+BOX: Try it now 2
+An arrow of length 0.2 at angle 0° is turned by 180° and shrunk to 0.96 of its length. What are its new length and angle? Write its east and north parts.
+ENDBOX
+
+# 3 The quarter turn, and the number i
+
+The simplest turn is a quarter turn anticlockwise (90°). Look at what it does to an arrow's parts:
+
+- (1, 0), pointing east, becomes (0, 1), pointing north.
+
+- (0, 1), pointing north, becomes (−1, 0), pointing west.
+
+- In general, (x, y) becomes (−y, x).
+
+IMG: P4_quarter_turns.png | 4.4 | Figure P4.3. Four quarter turns bring an arrow back to where it started. Two quarter turns reverse it. Call the quarter turn i: then i × i = −1.
+
+Now give the quarter turn a name: **i**. Do it twice and you have a half-turn, which simply reverses an arrow — the same as multiplying it by −1. So
+
+$$ i × i = −1
+
+There is no ordinary number whose square is −1, which is why i was once called "imaginary". But there is nothing imaginary about a quarter turn. You can do one with a pencil.
+
+Now write any arrow as x + iy: "x steps east, plus y steps of the north-pointing unit arrow i". The arrow (0.3, 0.4) is 0.3 + 0.4i. This is all a **complex number** is: an arrow, written so that it can be calculated with.
+
+BOX: Try it now 3
+What is i × i × i? Which direction does it point? And i × i × i × i?
+ENDBOX
+
+# 4 Multiplying arrows is ordinary algebra with i² = −1
+
+Here is the payoff. Take two arrows, a + ib and c + id, and multiply them out the way you would at school, with brackets, treating i as a letter and replacing i × i by −1 at the end:
+
+$$ (a + ib)(c + id) = ac + iad + ibc + i²bd = (ac − bd) + i(ad + bc)
+
+That looks like an arbitrary rule. It is not: it is exactly "multiply the lengths, add the angles", written in east and north parts. You can check it on examples:
+
+- (2 + 0i) × (c + id) = 2c + 2id: multiplying by the arrow "length 2, angle 0" doubles an arrow without turning it.
+
+- i × (x + iy) = ix + i²y = −y + ix: multiplying by i turns (x, y) into (−y, x), the quarter turn of Section 3.
+
+- (1 + i) × (1 + i) = 1 + 2i + i² = 2i. The arrow 1 + i has length √2 and angle 45°. Squaring it should give length 2 and angle 90°. And 2i is exactly that.
+
+### Worked example 1
+
+Multiply 0.6 + 0.8i by 0.6 − 0.8i, and interpret the result.
+
+(0.6 + 0.8i)(0.6 − 0.8i) = 0.36 − 0.48i + 0.48i − 0.64i² = 0.36 + 0.64 = 1. The first arrow has length 1 (0.36 + 0.64 = 1) and some angle; the second is its mirror image, with the same length and the opposite angle. Lengths multiply to 1, angles cancel to 0: the product is the arrow 1. This works for every arrow, and it is how a complex number's length is found in Section 6.
+
+BOX: Try it now 4
+Compute (0.2 + 0i) × (−1 + 0i), and (0.2i) × (0.2i). Describe each result as "length, angle".
+ENDBOX
+
+# 5 The stopwatch arrow
+
+A unit arrow (length 1) at angle θ, measured anticlockwise from east, has east part cos θ and north part sin θ: that is the definition of sine and cosine in a right-angled triangle with hypotenuse 1. So
+
+$$ unit arrow at angle θ = cos θ + i sin θ
+
+IMG: P4_unit_circle.png | 4.4 | Figure P4.4. The tip of a unit arrow at angle θ lies on a circle of radius 1. Its east part is cos θ and its north part is sin θ. The stopwatch hand of Prologue 1 sweeps round this circle, clockwise, as the photon travels.
+
+@widths 1600 1600 1600 1600 1600 1792
+| θ | 0° | 30° | 45° | 60° | 90° |
+| cos θ | 1 | 0.866 | 0.707 | 0.5 | 0 |
+| sin θ | 0 | 0.5 | 0.707 | 0.866 | 1 |
+
+Multiplying two unit arrows adds their angles: (cos α + i sin α)(cos β + i sin β) = cos(α + β) + i sin(α + β). This is the familiar pattern of powers, where multiplying adds exponents: 10² × 10³ = 10⁵. Because of that, physicists write the unit arrow at angle θ with a power-like shorthand:
+
+$$ e^(iθ) = cos θ + i sin θ
+
+For now, read e^(iθ) simply as a name: "the unit arrow at angle θ" (with θ in radians, where a full turn is 2π ≈ 6.28). Lesson 1 shows why the name is deserved, and Lesson 2 shows where the e comes from. Prologue 1's stopwatch, which turns clockwise at a steady rate ω, then has the arrow e^(−iωt) after time t. That one symbol is what QED means by the phase of a particle.
+
+BOX: Try it now 5
+Using the table, write the unit arrows at 30° and at 60° as x + iy. Multiply them (use i² = −1) and check that you get the unit arrow at 90°.
+ENDBOX
+
+# 6 Length squared, the quick way
+
+Every arrow z = x + iy has a mirror image, z* = x − iy, reflected in the east–west line. As in Worked example 1:
+
+$$ z × z* = (x + iy)(x − iy) = x² + y² = length²
+
+So the probability of an event, the square of the length of its final arrow, is z × z*. Physicists write it |z|². You will see that expression on almost every page after Lesson 10.
+
+# 7 The glass sheet, redone in a few lines
+
+Prologue 2's thin glass sheet now becomes a calculation:
+
+- Front-surface arrow: length 0.2, reversed: −0.2.
+
+- Back-surface arrow: length 0.2, turned by an extra angle φ that grows with thickness: 0.2 e^(iφ) = 0.2 cos φ + 0.2i sin φ.
+
+- Final arrow: z = (−0.2 + 0.2 cos φ) + i(0.2 sin φ).
+
+$$ P = |z|² = 0.04[(cos φ − 1)² + sin² φ] = 0.08(1 − cos φ)
+
+using cos² φ + sin² φ = 1 (Pythagoras on the unit circle). Check: φ = 0 (no extra turn) gives P = 0, the black soap film; φ = 180° gives P = 0.08 × 2 = 0.16, the brightest case; φ = 90° gives 0.08. Every number of Prologue 2, without drawing an arrow.
+
+IMG: P4_glass_formula.png | 5.4 | Figure P4.5. The formula P = 0.08(1 − cos φ) against the drawings of Prologue 2. The curve is Figure P2.2; the inset arrows are the three cases φ = 0°, 90°, 180°.
+
+# 8 Why bother?
+
+With two arrows, drawing is as quick as algebra. With the thousands of arrows of the mirror in Prologue 3, or the infinitely many of later lessons, drawing is hopeless and algebra is easy. Complex numbers are not an extra layer of difficulty on top of the arrows. They are the arrows, in a form that a pencil — or a computer — can add up.
+
+# Connections to QED
+
+@widths 3264 6528
+| Idea in this prologue | Where it becomes exact |
+| Arrow = x + iy | Lesson 1: complex numbers |
+| Multiply lengths, add angles | Lesson 1: polar form re^(iθ) |
+| e^(iθ) = cos θ + i sin θ | Lesson 1 (Euler's formula) and Lesson 2 (the exponential) |
+| Stopwatch e^(−iωt) | Lessons 10 and 12: time evolution of a quantum state |
+| Probability = z z* = \|z\|² | Lesson 10 (the Born rule) and every cross section |
+
+# Summary
+
+1. An arrow is two numbers, x and y. Adding arrows adds them; length² = x² + y².
+
+2. "Shrink and turn" combines by multiplying lengths and adding angles.
+
+3. The quarter turn is a number i with i² = −1; any arrow is x + iy, a complex number.
+
+4. Multiplying complex numbers with i² = −1 is exactly shrink-and-turn.
+
+5. The unit arrow at angle θ is cos θ + i sin θ, written e^(iθ); the stopwatch is e^(−iωt).
+
+6. Probability = z z* = |z|². The glass sheet gives P = 0.08(1 − cos φ).
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | **Core.** Add the arrows 0.1 + 0.2i and 0.3 − 0.5i. Find the length squared of the result. |
+| 2 | **Core.** Write as x + iy: an arrow of length 2 pointing west; an arrow of length 0.5 pointing south; a unit arrow at 45°. |
+| 3 | **Core.** Compute (2 + i)(1 + 3i). |
+| 4 | **Core.** Compute i⁵ and i⁶. |
+| 5 | **Core.** Find z z* for z = 0.3 + 0.4i, and say what probability it represents. |
+| 6 | **Extension.** Show that multiplying any arrow by −i turns it a quarter turn clockwise. Which way does Prologue 1's stopwatch turn, and why does that make e^(−iωt), not e^(iωt), the right description? |
+| 7 | **Extension.** The arrows 1 + i and 1 − i have what lengths and angles? Multiply them and check that the lengths multiply and the angles add. |
+| 8 | **Extension.** Use P = 0.08(1 − cos φ) to find the reflection for φ = 60° and φ = 120°. |
+| 9 | **Challenge.** Using (cos α + i sin α)(cos β + i sin β), derive the school formulas for cos(α + β) and sin(α + β). |
+| 10 | **Challenge.** Twelve unit arrows point at 0°, 30°, 60°, …, 330°. Without adding them one by one, explain why their sum is zero. What does this say about a grating whose arrows turn by equal steps? |
+
+# Solutions
+
+Try each exercise on paper before you look. If you are stuck, re-read the section named in the exercise, try again, and only then read the solution below.
+
+**1.** (0.1 + 0.3) + i(0.2 − 0.5) = 0.4 − 0.3i. Length² = 0.16 + 0.09 = 0.25.
+
+**2.** −2 (that is, −2 + 0i); −0.5i; 0.707 + 0.707i.
+
+**3.** 2 + 6i + i + 3i² = 2 + 7i − 3 = −1 + 7i.
+
+**4.** i⁴ = 1, so i⁵ = i and i⁶ = i² = −1.
+
+**5.** 0.09 + 0.16 = 0.25. If z is a final arrow, the probability is 0.25.
+
+**6.** −i × (x + iy) = −ix − i²y = y − ix: the arrow (x, y) becomes (y, −x), which is a quarter turn clockwise. The stopwatch hand turns clockwise, so each moment multiplies the arrow by a clockwise turn; e^(−iωt) is a unit arrow whose angle −ωt decreases steadily, i.e. turns clockwise.
+
+**7.** Both have length √2. 1 + i is at 45°, 1 − i at −45°. Product: 1 − i + i − i² = 2. Length 2 = √2 × √2, angle 0° = 45° + (−45°).
+
+**8.** cos 60° = 0.5: P = 0.08 × 0.5 = 0.04. cos 120° = −0.5: P = 0.08 × 1.5 = 0.12. (Compare Prologue 2, Exercise 7.)
+
+**9.** Multiply out: cos α cos β + i cos α sin β + i sin α cos β + i² sin α sin β = (cos α cos β − sin α sin β) + i(sin α cos β + cos α sin β). This must equal the unit arrow at α + β, cos(α + β) + i sin(α + β). Comparing east parts and north parts: cos(α + β) = cos α cos β − sin α sin β and sin(α + β) = sin α cos β + cos α sin β.
+
+**10.** Turn the whole set by 30°: every arrow moves to the place of the next, so the set looks the same, and so does its sum. But turning the sum by 30° can only leave it unchanged if the sum is zero. Arrows that turn by equal steps round a whole number of complete turns cancel exactly — this is why the ends of a plain mirror and the dark directions of a grating contribute nothing.
+
+# Answers to Try it now
+
+**1.** (0.3 − 0.1 + 0, 0.1 + 0.2 − 0.1) = (0.2, 0.2). Probability 0.04 + 0.04 = 0.08.
+
+**2.** Length 0.2 × 0.96 = 0.192, angle 180°: the arrow points west. East part −0.192, north part 0.
+
+**3.** i³ = i² × i = −i: it points south. i⁴ = (−1)(−1) = 1: back to east.
+
+**4.** −0.2: length 0.2, angle 180° (reversed). (0.2i)(0.2i) = 0.04 i² = −0.04: length 0.04, angle 180°, since each 0.2i has angle 90° and 90° + 90° = 180°.
+
+**5.** 0.866 + 0.5i and 0.5 + 0.866i. Product: 0.433 + 0.75i + 0.25i + 0.433i² = (0.433 − 0.433) + i(0.75 + 0.25) = 0 + 1i = i, the unit arrow at 90°.
