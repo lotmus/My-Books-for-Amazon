@@ -305,7 +305,7 @@ Do not commit or push unless the user asks. The git root is `My Books for Amazon
 | Glossary | 2365 |
 | Bibliography | 2384 |
 
-## 2026-10-03 round 4, structural (current chapter map)
+## 2026-10-03 round 4, structural (chapter map superseded by round 5 below)
 
 - Ch9: Barbarian's visit now happens in his flat above a launderette in Kilburn (Fri 24 Jul, 142). The Office of the President has asked him for a written view of paragraph 11 and sent the stamp; the last collection is 17:30. Pike's Column B ratio (1 : 10¹¹) and Ramanathan's redundancy test are worked out at his kitchen table. At 17:22 he adds a postscript withdrawing paragraphs 3–9 and naming Miss A. Pike (with her permission), and posts it at 17:26. The Office therefore learns about the paragraph 11 rewrite from the department's own side (ch10 notes this).
 - Ch10: Barbarian's first government building since 1993 is Marsham Street, reached on the 98 bus.
@@ -348,3 +348,99 @@ Do not commit or push unless the user asks. The git root is `My Books for Amazon
 | Lecture. Chapter Fifteen | 2363 |
 | Glossary | 2377 |
 | Bibliography | 2396 |
+
+## 2026-10-03 round 5, lectures and honesty pass (chapter map superseded by round 6 below)
+
+Backup before the edit: `bak\The_Permitted_Options_BOOK_2_DRAFT.before-round5-20261003-1840.docx` (2,418 paragraphs, 85,649 words). Now 2,354 paragraphs, about 83,900 words. Only `word/document.xml` changed; 31 bookmarks and 36 hyperlinks are intact, no straight quotes, no empty paragraphs. The nine SourceCode paragraphs are untouched.
+
+Story chapters (the only plot-level edits):
+
+- Ch2: Dr Ramanathan now says she has a residue under the anomaly that she cannot source, that behaves as if it belonged to two files at once, and that she has been calling noise. Ch13 calls this back ("in my own words from March"); before this edit Ch13 pointed at a line that did not exist. Do not remove it.
+- Ch5: Ramanathan now says what "advance" means (a core in its last burning stages is a stack of thresholds; a push at the wrong moment tips it over one early and later stages inherit the head start), that she is confident of the sign, and that the size comes from her models. Six hours is called a rounding error on a stellar clock. Ch7 says "In my models" before the three-to-four-thousand-year figure. Lecture 5 matches. Do not go back to "six hours is enough to take it over" without the threshold explanation.
+- Titles: Ch7, 8, 9 and 10 scene titles now use the book's own title case (The Game with No Optimal Play; The Manufacture of an Agreed World; Which Way the Galaxy Is Running; The Argument from Being Here), and so do the four lecture index lines.
+
+Lectures:
+
+- Removed the unlabelled block of five or six takeaway sentences that opened Lectures 2 to 7, 9 to 13 (and a second block in 9 and 12). Their content is in the lecture bodies and in "What the reader learns". Lecture 6's point that a treaty is not an arithmetic is now said in the body paragraph "Why the legal move is not a trick". The L12 "stitching" point is now a bullet under "What the reader learns" in Lecture 12. Do not re-add the blocks.
+- Each lecture opens with one orientation line in the form "Chapter N brings in ...". Lectures 1, 6, 8, 14 and 15 already opened with their own orientation line; 1, 8, 14 and 15 are unchanged and 6 keeps its line.
+- The "What this chapter was actually showing you." recap sat under "Going deeper" in every lecture. It now sits before the heading. Lectures 9 and 12 have a second recap, labelled "What the second half of the chapter was showing you." Lecture 15 had none and now has one. Labels are bold. Lecture 14's recap no longer says "The book's argument"; it says "the whole case".
+- The "Moved from the chapter:" labels (L11 cards, L11 price of weighing, L12 Fermi question) are gone, and the Fermi note no longer talks about earlier drafts. A lecture is allowed to say "Book One" and "this book's fiction". It must not talk about drafts.
+- Lecture 9's counter-case note no longer refers to a mathematical-universe position that Tengelman never takes in the story.
+- Glossary, Casimir effect: "the story uses it", not "the book uses it".
+- The first paragraph under each lecture heading and under each "Going deeper" heading is FirstParagraph (no indent). The leading label of lecture notes is bold throughout (L11 to L13 were plain).
+
+Known and left alone:
+
+- `notes\SERIES_BIBLE.md` is stale for Book 2 (16 chapters, Mrs Kell, the retired President-parody name (now President Aldous Wexley), Schrottfinger, Heisenburger and Duc cameos, "Monday 9 Feb"). The manuscript wins. Correct the bible before anyone builds on it.
+- The "Also by" lists in both books still say "Quanta, Actually". The canonical list is `notes\ALSO_BY - canonical list.md` at the repo root (outside this folder).
+- "Precious" is a lodger's name in Ch15 here and a name in Book 1 (para 1563). "Schedule 4" means different things in the two books. Both are deliberate-looking but untested for confusion.
+- The Bibliography (20 entries, headed "Works the lessons name") omits works the lectures do cite: Cubitt, Pérez-García and Wolf (2015), Ji, Natarajan, Vidick, Wright and Yuen (2020), Toyabe et al. (2010), Koski et al. (2014), Sally Clark, RFC 6962. Add them with verified citations or reword the heading; do not add a citation from memory.
+
+| Heading | Index (1-based) |
+|---|---|
+| Chapter One | 47 |
+| Chapter Two | 144 |
+| Chapter Three | 281 |
+| Chapter Four | 410 |
+| Chapter Five | 564 |
+| Chapter Six | 738 |
+| Chapter Seven | 873 |
+| Chapter Eight | 973 |
+| Chapter Nine | 1071 |
+| Chapter Ten | 1199 |
+| Chapter Eleven | 1306 |
+| Chapter Twelve | 1437 |
+| Chapter Thirteen | 1578 |
+| Chapter Fourteen | 1682 |
+| Chapter Fifteen | 1773 |
+| The Lectures | 1940 |
+| Lecture. Chapter One | 1957 |
+| Lecture. Chapter Two | 1974 |
+| Lecture. Chapter Three | 1995 |
+| Lecture. Chapter Four | 2015 |
+| Lecture. Chapter Five | 2036 |
+| Lecture. Chapter Six | 2057 |
+| Lecture. Chapter Seven | 2076 |
+| Lecture. Chapter Eight | 2098 |
+| Lecture. Chapter Nine | 2120 |
+| Lecture. Chapter Ten | 2166 |
+| Lecture. Chapter Eleven | 2193 |
+| Lecture. Chapter Twelve | 2225 |
+| Lecture. Chapter Thirteen | 2266 |
+| Lecture. Chapter Fourteen | 2282 |
+| Lecture. Chapter Fifteen | 2298 |
+| Glossary | 2313 |
+| Bibliography | 2332 |
+
+
+## 2026-10-03 round 6, continuity and accuracy pass (current chapter map)
+
+Done by the round-5/6 revision agent on top of the uncommitted round-5 lectures/honesty work (kept intact).
+
+- All fixes listed in `notes/AUDIT_2026-10-03_after_round5.md`: register number one-forty-one; 14 March is a Saturday; Chapter Four dates moved to March; "until this week"; Wigner is "my oldest friend's" claim, not Eugenius's; Vienna schedule has three entries; Delia Price five months after Inverness; the caseworker in Dundee; Tull two years; Sandra's night bus; eleven months (not ten) in Chapter Fifteen.
+- **The 99 states**: 209 are on a continuous recorder; 99 on old Annex loggers that read once a day at noon. Pike will not guess what happened between readings.
+- **Eilstein's age** now agrees with Book 1: born 1879; what he carries is eleven thousand years old, inherited whole "the way a house comes with its cellar" (Ch3).
+- Quotations checked: Born letter now the published translation, dated 4 December 1926; EPR quotation exact; Nash's page count removed and his view of the embedding theorem hedged.
+- Also-by list: "Quanta, Actually" retired and replaced by "Quantum, Actually" (Vol 1 and Vol 2) per `notes/ALSO_BY - canonical list.md`.
+- KDP_DESCRIPTION.txt: Ellen's options corrected (course in Newcastle or her mother's shop); the letter's second half "was posted to an office and never opened".
+- Counts: 2,353 paragraphs, 84,031 words (83,898 before); 31 bookmarks, 29 internal links, 0 broken.
+
+| Heading | Paragraph index |
+|---|---|
+| Chapter One | 45 |
+| Chapter Two | 142 |
+| Chapter Three | 279 |
+| Chapter Four | 408 |
+| Chapter Five | 562 |
+| Chapter Six | 736 |
+| Chapter Seven | 871 |
+| Chapter Eight | 971 |
+| Chapter Nine | 1069 |
+| Chapter Ten | 1197 |
+| Chapter Eleven | 1304 |
+| Chapter Twelve | 1435 |
+| Chapter Thirteen | 1576 |
+| Chapter Fourteen | 1680 |
+| Chapter Fifteen | 1771 |
+| Lecture. Chapter One | 1955 |
+| Lecture. Chapter Fifteen | 2296 |
