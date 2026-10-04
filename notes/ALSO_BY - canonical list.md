@@ -1,6 +1,6 @@
 # Also by Lothar J. Musiol: canonical list
 
-Built 2 Oct 2026 from the title page of each master in this repo: one entry per real book, current titles only.
+Built 2 Oct 2026 from the title page of each master in this repo: one entry per real book, current titles only. Updated 3 Oct 2026: The Quantum Conversation was merged into The Quantum World (Part Two), so the Complete QED Course is now Quanta, Actually, Volume 2.
 Every book's "Also by Lothar J. Musiol" page uses this list, in this order, under the author name Lothar J. Musiol
 (always with the J.). Books that also carry a pen name stay in the list. Keep the books' "Also in This Series"
 pages separate.
@@ -10,7 +10,6 @@ Where a book is built by a script, the list lives in the script or its markdown 
 - Science Sparks: `scripts/build_almanac.py` (`ALSO_BY`)
 - Math, Actually: `scripts/ma_text.py` (`ALSO_BY_LIST`), used by `scripts/build_math_actually.py`
 - Life, Actually: `scripts/build_book.py` (`ALSO_BY`, the `%%ALSOBY%%` block in `chapters/12_Back_Matter.md`)
-- The Quantum Conversation: `chapters/14_Back_Matter.md`, built by `scripts/md2docx.js`
 - Complete QED Course: `scripts/_finish_book.py` (`ALSO_BY`)
 - The Dolphins' View of History: `scripts/_generate.js`, `chapters/Also by Lothar J. Musiol.md`
 - Your First Book That Sells: `chapters/04_also_by.md`, built by `scripts/build_master.py`
@@ -35,8 +34,7 @@ All other masters carry the page only in the docx. Patch them with python-docx w
 **Quanta, Actually**
 
 - Quanta, Actually, Volume 1: The Quantum World
-- Quanta, Actually, Volume 2: The Quantum Conversation
-- Quanta, Actually, Volume 3: Complete Quantum Electrodynamics Course
+- Quanta, Actually, Volume 2: Complete Quantum Electrodynamics Course
 
 **Science Sparks**
 

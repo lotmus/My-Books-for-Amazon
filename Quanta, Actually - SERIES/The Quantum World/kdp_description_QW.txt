@@ -8,11 +8,11 @@ Along the way:
 • The quantum fields underneath every particle you have ever heard of, and why “empty space” is nowhere near empty
 • QCD and QED — two of the best-tested theories in the history of science, set side by side so you can see why one gets stronger at short range while the other gets weaker
 • The four leading interpretations of what the theory means — Copenhagen, many-worlds, Bohmian mechanics, and objective collapse — without pretending any of them has won
-• An appendix on collective electrodynamics: the idea that electromagnetism itself might be readable from the collective quantum behavior of ordinary electrons. That appendix is also where Volume 2, THE QUANTUM CONVERSATION, begins.
+• Part Two, One Road Through It: one question, what the electromagnetic field really is, followed all the way down. Electromagnetism read outward from the quantum phase of an electron, through the potential, the photon, and renormalization, to a superconducting circuit you could build on a bench
 
-This is not a textbook, and it is not a puff piece. Claims are labeled for what they are — established fact, well-tested theory, or genuinely open question — because the honest answer is more interesting than a confident wrong one. A short closing dialogue between two working physicists, Alice and Bob, recaps the argument in two voices. It is a coda, not the book.
+This is not a textbook, and it is not a puff piece. Claims are labeled for what they are — established fact, well-tested theory, or genuinely open question — because the honest answer is more interesting than a confident wrong one. Every chapter opens with the question it answers, objections a careful reader would raise get answered in plain Q&A boxes, and each Part ends with the common questions.
 
-Sixteen custom illustrations. Four appendices, a working glossary, a myth-busting cheat sheet for the quantum claims you hear at parties, and the key equations decoded in plain English.
+More than thirty illustrations and diagrams. Three appendices, a working glossary, a myth-busting cheat sheet for the quantum claims you hear at parties, and the key equations decoded in plain English.
 
 Some of this is better felt than read, so the book comes with nine free interactive simulations, linked where they matter. No login. No app.
 
@@ -26,8 +26,8 @@ Some of this is better felt than read, so the book comes with nine free interact
 • Pull a quark and an antiquark apart and watch the flux tube snap into a new pair
 • Thicken a pane of glass and watch the reflection swing between 0% and 16%
 
-If you want the real ideas behind quantum mechanics — not dumbed down, just made clear — this is the map.
+If you want the real ideas behind quantum mechanics — not dumbed down, just made clear — this is the map, and one road through it.
 
-THE QUANTUM WORLD is Volume 1 of the QUANTA, ACTUALLY series. Volume 2, THE QUANTUM CONVERSATION, takes one argument from this book (phase, potentials, and electromagnetism read from the inside) and does not stop. Volume 3, the COMPLETE QUANTUM ELECTRODYNAMICS COURSE, does the full calculation. Read this one first if you want the whole landscape. It also reads on its own, and the PHYSICS, ACTUALLY series covers the classical, relativistic, and particle-physics ground around it.
+THE QUANTUM WORLD is Volume 1 of the QUANTA, ACTUALLY series. Volume 2, the COMPLETE QUANTUM ELECTRODYNAMICS COURSE, does the full calculation. Read this one first if you want the whole landscape. It also reads on its own, and the PHYSICS, ACTUALLY series covers the classical, relativistic, and particle-physics ground around it.
 
 Reality might be the most convincing picture ever assembled. Whether the last layer is fields, information, or something we do not have a name for yet, the mystery is the point. Question the picture — including this one.
