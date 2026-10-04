@@ -144,7 +144,7 @@ Write the invitation with the “not for” sentence in it, and send the file to
 
 A book can pay you in many ways, and Appendix D lists thirty-two, each with its smallest version and the number that means stop. This month, pick only three: one price, one next book (even if it is only a sentence), and one format or short extra.
 
-Run each through the keep test. Write the keep for that product. Do the smallest version that can teach you something. Write the day you will look. On that day, keep it or stop it in one sentence on your money sheet, such as “Held the $3.99 price” or “Stopped the free days; no second book yet.”
+Run each through the keep test. Write the keep for that product. Pick the smallest version that can still teach you something. Write the day you will look. On that day, keep it or stop it in one sentence on your money sheet, such as “Held the $3.99 price” or “Stopped the free days; no second book yet.”
 
 **Worked example.** Her first idea is the price. At $0.99 she sold 20 copies in four quiet weeks and kept about $7. She changed only the price, to $3.99, and over the next four weeks sold 12 copies and kept about $31. Fewer sales, more money. She held the price four more weeks before believing it.
 
