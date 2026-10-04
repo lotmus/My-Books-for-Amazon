@@ -1573,6 +1573,12 @@ Mr Quayle considered this, and his form, and the six nanoseconds, and evidently 
 He went down the stairs without once looking at the doorway. At the bottom he stopped, and they heard the small click of the laser measure leaving its holster, a pause, and the click of it going back. Nobody went to the banister to see which way he had pointed it.
 "He looked," Trevor said.
 "He didn't write it down. That's his right. It's the only right the platform's left anyone."
+Rule: You may refuse an act that has not happened. You cannot refuse a fact already in front of you.
+
+-> Lesson for this chapter: 6
+
+Chapter 20
+Acting Station Master
 Mr Pendleton came up just after lunch, at the speed of a man who has never once been sure he is in the right building, and this time he did not put his head round the outer door. He came all the way in. He was carrying a lever-arch file in both arms, the way a man carries a baby he has been told is his.
 "I have found it," he said.
 Nobody understood him at first. Mr Pendleton had been not finding things for the Bureau since Monday morning, with great thoroughness and real sorrow, and his not finding had become a fixture of the building, like the fourth step.
@@ -1639,11 +1645,11 @@ Afterwards Penny stood at the window with her arms folded and watched the buses,
 "Say it properly."
 "We're not telling her."
 "Good." Penny went back to her desk and took the itinerary out and looked at it with great attention, and Derek, who knew her, understood that the subject was closed and that it had cost her something to close it.
-Rule: You may refuse an act that has not happened. You cannot refuse a fact already in front of you.
+Rule: Read the whole form before you sign it, the back included. The back is where the rules hide.
 
 -> Lesson for this chapter: 6
 
-Chapter 20
+Chapter 21
 Ten O'Clock Cover
 The landlord came himself at five.
 Mrs Marsh brought him up. She came first, with the clipboard, and stopped on the London side of the outer doorway, and said, "Mr Haskett," in the voice she used for leaks, and stood aside. The man behind her was in his fifties, in a camel coat that had been bought to be looked at, and he turned a signet ring on his little finger as he came in, round and round, the way other men jingle change. He had a leather folder under his arm. He did not knock on the frame. It was his frame.
@@ -1760,7 +1766,7 @@ Rule: When you lack the time of an act, write the last moment it had not happene
 
 -> Lesson for this chapter: 6
 
-Chapter 21
+Chapter 22
 Return Journey
 At sixteen minutes past six Derek did what Mrs Marsh had asked, which was to put the case on paper before she locked drawer three. He opened the form, read it through once the way he read a train time he already knew, and pressed Print.
 The printer in the outer room cleared its throat, as it did, took a sheet from the tray and gave it back to him warm. He read it standing beside the printer. Then he went on standing there.
@@ -1953,7 +1959,7 @@ Quick test: You take four minutes to finish reading a warning about a door that 
 Lesson 4
 The Wrong Field
 Learning objective: Explain why a date of birth is the wrong datum for this author.
-The form asked for a birthday because it assumed a person. A person who has not been born is not in the past of the paper, so the form correctly refused tomorrow. Derek's refusal at 16:41, made at the yellow line with the carriage door open, can author that record. It has a time, and the time is after the acts it does not claim to have caused. It is not the sender of the morning sheet. The morning sheet was already in the pocket. Acts have times. A sheet that arrived earlier still needs its own account. In this case the account, found in Chapter 21, was not a sender but a printer, a carrier and a route: the form printed the sheet on Tuesday evening from fields the office had filled for other reasons, Derek carried it to the train, and it arrived on Monday morning. Every word has a source. The sentence has no author.
+The form asked for a birthday because it assumed a person. A person who has not been born is not in the past of the paper, so the form correctly refused tomorrow. Derek's refusal at 16:41, made at the yellow line with the carriage door open, can author that record. It has a time, and the time is after the acts it does not claim to have caused. It is not the sender of the morning sheet. The morning sheet was already in the pocket. Acts have times. A sheet that arrived earlier still needs its own account. In this case the account, found in Chapter 22, was not a sender but a printer, a carrier and a route: the form printed the sheet on Tuesday evening from fields the office had filled for other reasons, Derek carried it to the train, and it arrived on Monday morning. Every word has a source. The sentence has no author.
 Keep this: TIME OF ACT can be in the past of the record even when DATE OF BIRTH cannot.
 Common trap: searching the building for a baby because the field said not yet born. The field was the wrong question.
 Quick test: What did the form accept in the end, a birth or a time? A time.
@@ -1989,7 +1995,7 @@ Late. The sign on a warning that comes after the act you pair it with. You can r
 Seventeen minutes. On Sunday, the gap between an opening at 18:00 and a notice at 18:17. On Monday, the gap between noticing an open door at 10:05 and finishing the reading at 10:22. Same numeral. Not the same measurement. Not a force. See Lesson 3.
 Tense per act. The rule that one message gets a separate before-or-after for each act it is paired with.
 Time of act. The field that replaced a birthday. An author who is a refusal has one of these and does not have the other.
-Pending author. The morning sheet never gets one. Every word on it has a source (Chapter 21), but nobody wrote the sentence. The record written at 16:41 is Derek's refusal; in Chapter 21 he is recorded as the sheet's carrier, not its author.
+Pending author. The morning sheet never gets one. Every word on it has a source (Chapter 22), but nobody wrote the sentence. The record written at 16:41 is Derek's refusal; in Chapter 22 he is recorded as the sheet's carrier, not its author.
 Recipient. Whoever a file claims the next warning is for. Empty person-fields attract the nearest name. Nearness is not an act. Strike only when the act is known and is not theirs.
 Closed curve. A history in which a signal runs back and helps produce itself. In this case only the sentence does that; the paper has a printer and goes back once.
 Chronology protection. Hawking's conjecture that the laws we have do not let closed timelike curves form. Named in Lesson 5 so you do not confuse a conjecture with the subtraction that closed the file.
