@@ -4,9 +4,11 @@
 
 *Studio shows how strangers arrived, how long they stayed, and how close the channel is to the gate. Read it in that order, once a week.*
 
+*Layer: Use after publishing. Workbook: the week sheet (chapter 15, §IV) starts here.*
+
 YouTube Studio is generous with numbers. Open Analytics on a quiet Tuesday and you can find views, unique viewers, impressions, a click-through rate, average view duration, average percentage viewed, watch time, subscribers gained, new viewers, casual viewers, regular viewers, and a dozen traffic sources. Every one of them is real. Most of them are not the question this book asks.
 
-The question, before the gate, is whether strangers find the videos, stay, and come back, in numbers that add up to the thresholds in chapter 9. After the gate, chapter 11 adds the revenue reports. This chapter is how to read the counts that matter now, and how to put them on the week sheet without fooling yourself.
+The question, before the gate, is whether strangers find the videos, stay, and come back, in numbers that add up to the thresholds in chapter 9. After the gate, chapter 11 adds the revenue reports. This chapter is how to read the counts that matter now, and how to put them on the week sheet without fooling yourself. Every count and definition below is an official rule or documented guidance from YouTube’s Analytics help, cited in place.
 
 ## I. The three counts the gate asks for
 
@@ -18,22 +20,24 @@ Every Partner Program threshold is built from three counts. Each one lives in a 
 | Long-form watch hours | Earn tab progress, and watch time in Analytics | Public long-form hours in the last 365 days. Not Shorts-feed hours, not private, unlisted, or deleted videos, not ad campaigns |
 | Shorts views | Earn tab progress, and the Shorts chip in Analytics | Qualified views of public Shorts in the Shorts feed, in the last 90 days |
 
+> **Thresholds change.** Before planning around any monetization target, check the live Earn tab in YouTube Studio and YouTube’s official Partner Program eligibility page for your country. This book reflects information checked in October 2026.
+
 The Earn tab’s progress is the number the gate uses. Analytics watch time is broader: it includes hours that will never count, such as unlisted videos and hours from Shorts. When the two disagree, the Earn tab is the one to plan by. [YouTube’s eligibility page](https://support.google.com/youtube/answer/72851) lists what qualifies.
 
-Both windows roll. A video’s hours from fourteen months ago have already fallen out of the 365-day count. A channel that stops publishing can watch the hour bar shrink. Write the Earn numbers down every week, with the date, so you can see the direction, not just the level.
+Both windows roll. A video’s hours from fourteen months ago have already fallen out of the 365-day count. A channel that stops publishing can watch the hour bar shrink. Write the Earn numbers on the week sheet every week, with the date, so you can see the direction, not just the level.
 
 ## II. Impressions and the click rate, read with YouTube’s own caveats
 
 An impression, in Studio, is not every time your video exists somewhere. YouTube’s [impressions page](https://support.google.com/youtube/answer/9314486) counts one when a thumbnail is shown on YouTube for more than one second with at least half of it visible. It does not count impressions on external sites and embeds, the mobile website, the YouTube Kids and YouTube Music apps, or inside cards and end screens, or in emails and notifications. The impressions click-through rate is how often a counted impression turned into a view.
 
-YouTube’s [impressions and click-through rate FAQ](https://support.google.com/youtube/answer/7628154) gives the most useful single number Studio has to offer about this: half of all channels and videos on YouTube have an impressions click-through rate somewhere between 2% and 10%. That is a wide band on purpose. The same page says the rate depends on the content, the audience, and where the thumbnail was shown; that a video shown widely on the home page will naturally have a lower rate; and that a video seen mostly from your own channel page may have a higher one. It also says new channels and videos with fewer than 100 views can see an even wider range.
+YouTube’s [impressions and click-through rate FAQ](https://support.google.com/youtube/answer/7628154) gives one useful benchmark: half of all channels and videos on YouTube have an impressions click-through rate between 2% and 10%. That is a wide band on purpose. The same page says the rate depends on the content, the audience, and where the thumbnail was shown; that a video shown widely on the home page will naturally have a lower rate; and that a video seen mostly from your own channel page may have a higher one. It also says new channels and videos — less than a week old, or with fewer than 100 views — can see an even wider range.
 
 So read it this way:
 
-- **Wait for enough impressions.** YouTube’s FAQ says to avoid checking the rate right after uploading. On a new channel, a percentage built on forty impressions is a coin landing a few times.
+- **Wait for enough impressions.** YouTube’s FAQ says to avoid checking the rate immediately after uploading. On a new channel, a percentage built on forty impressions is a coin landing a few times.
 - **Compare a video to your own videos,** over weeks, not to a number you read on someone else’s channel.
-- **Read it next to view duration.** The same FAQ calls out the clickbait pattern: a high click rate with a low average view duration and fewer impressions than you expected. A thumbnail that wins the click and loses the viewer is not a win. It adds a view and almost no watch time.
-- **Remember what it leaves out.** Views from a forum post or a site that embeds the video are not impressions. A video can have more views than impressions if most of its traffic comes from outside YouTube. YouTube’s FAQ says so.
+- **Read it next to view duration.** The same FAQ warns against clickbait and says YouTube recommends a video when it is relevant and its average view duration shows viewers find it interesting. A thumbnail that wins the click and loses the viewer adds a view and almost no watch time.
+- **Remember what it leaves out.** Views from a forum post or a site that embeds the video are not impressions, so a video whose traffic comes mostly from outside YouTube can show more views than impressions.
 
 ## III. How they found you, and what it tells you about the viewer
 
@@ -51,7 +55,7 @@ Open a video’s Analytics and choose Reach. The report YouTube’s [reach page]
 
 Two of those deserve a weekly look.
 
-**The search terms card is the viewer talking.** It lists what people typed before they found the video. If your title says “quote checklist” and the search terms say “how much should a bathroom repair cost,” the viewer has told you their phrase. That is the next title. If the search terms are about something you do not cover, chapter 14’s diagnosis applies: the wrong people are arriving.
+**The search terms card is the viewer talking.** It lists what people typed before they found the video. If your title says “quote checklist” and the search terms say “how much should a bathroom repair cost,” the viewer has told you their phrase. That is the next title. If the search terms are about something you do not cover, the wrong people are arriving (chapter 14, §I, break 5).
 
 **Suggested videos includes your own description links and end screens.** YouTube files views that came from links in video descriptions under Suggested videos. When the path video from chapter 5 links the other seven, those taps show up here, alongside any suggestions YouTube made. The “Content suggesting this video” card names the specific videos. If your method video sends people to your proof video, it is on that card. That is the path working, and it is how one stranger becomes several sessions of watch time.
 
@@ -75,15 +79,15 @@ Note one more number: the percentage still watching when the end screen starts. 
 
 A count is only comparable to itself if it is counted the same way. YouTube changes how it counts.
 
-YouTube’s content page says that beginning August 24, 2026, views are counted the moment a video starts to play, across Shorts, long videos, and live streams. It separates that from “engaged views,” which count viewers who stayed past the initial seconds, and it says Partner Program earnings and eligibility still rest on engaged and qualified counts, not on the new view count. A view in September 2026 is not the same measurement as a view in July 2026.
+Official rule: YouTube’s content page says that beginning August 24, 2026, views are counted the moment a video starts to play, across Shorts, long videos, and live streams, and that Partner Program earnings still rest on engaged views and engaged watch hours, and eligibility on qualified views and qualified watch hours. A view in September 2026 is not the same measurement as a view in July 2026.
 
 The practical rule: when YouTube announces a change to a metric you track, write the date in the decision log. Compare a video to itself on either side of that date only with that note beside it. And plan by the Earn tab’s qualified counts, because those are the numbers the gate reads.
 
 > Worked example. These are invented numbers to show the arithmetic, not results anyone measured. In week five, the bathroom-repair deep dive has 1,000 impressions and a click-through rate of 4%, so about 40 views came from those impressions. Another 25 views came from a forum post, which Studio files under External and which were never impressions. That is 65 views. Average view duration is 4 minutes on an 11-minute video, so the deep dive added about 260 minutes, a little over 4 hours. The retention graph shows 45% still watching at the two-minute mark and 12% when the end screen starts. Suggested videos shows 3 views of the method video that came from the deep dive. Read it in order. The click is fine for a new channel. The opening loses more than half the viewers, and almost nobody reaches the path. The one change for next week is to rewrite the first thirty seconds and name the method video at minute five, inside the deep dive. Same title, same thumbnail.
 
-## VI. Fifteen minutes, once a week
+## VI. The week sheet: fifteen minutes, once a week
 
-Pick a day. Open the week sheet from chapter 15. Do this, in this order, and nothing else:
+Pick a day. Open the week sheet (chapter 15, §IV). Author recommendation: fill these lines, in this order, and nothing else:
 
 1. Subscribers, long-form watch hours, and Shorts views from the Earn tab’s progress, with the date.
 2. Watch time and average view duration on the deep dive.
@@ -94,19 +98,16 @@ Pick a day. Open the week sheet from chapter 15. Do this, in this order, and not
 
 Then close Studio. Reading the same graph every day is not research. A video’s numbers on day two are a forecast of almost nothing, and checking hourly is how a sensible plan turns into three changes before the first one had time to show.
 
-> **Key takeaway:** Plan by the Earn tab’s qualified counts. Read the click, then the stay, then whether they watched a second video. Change one thing. Note the date when YouTube changes a definition.
+*In short:* Plan by the Earn tab’s qualified counts. Read the click, then the stay, then whether they watched a second video. Change one thing. Note the date when YouTube changes a definition.
 
 ## VII. Claims that do not survive the week sheet
 
 - That Analytics watch time is the gate’s number. It includes hours that do not qualify. The Earn tab’s progress is what the gate reads.
 - That a higher click-through rate is always better. YouTube’s own FAQ names high clicks with low view duration as the clickbait pattern, and says videos shown widely naturally have lower rates.
-- That there is a good click-through rate to aim for. YouTube says half of channels and videos fall between 2% and 10%, depending on content, audience, and placement. That is a band, not a target.
+- That there is a good click-through rate to aim for. YouTube’s 2%–10% is a band, not a target.
 - That views are a stable unit. YouTube changed when a view is counted on August 24, 2026. Note dates like that one.
 - That hours, once earned, stay earned. The window rolls. Old hours fall out of the 365-day count.
-- That more data is better on day one. YouTube’s FAQ itself says to avoid reading the click rate right after upload. Read on the day you set.
-
-A last limit. This chapter will not tell you what a good number is for your channel. Nobody honest can. It will tell you which number answers which question, and refuse the habit of answering a watch-time question with a view count.
 
 ---
 
-*Sources: What counts toward the thresholds is from [YouTube’s Partner Program eligibility page](https://support.google.com/youtube/answer/72851). Impression counting rules are from [YouTube’s impressions and watch-time page](https://support.google.com/youtube/answer/9314486). The 2%–10% band, the clickbait pattern, the advice to wait before reading the rate, and views exceeding impressions are from [YouTube’s impressions and click-through rate FAQ](https://support.google.com/youtube/answer/7628154). Traffic source definitions, the search terms card, and the “Content suggesting this video” card are from [YouTube’s reach page](https://support.google.com/youtube/answer/9314355). The August 24, 2026 view-counting change, engaged views, and Key moments for audience retention are from [YouTube’s content performance page](https://support.google.com/youtube/answer/12220281). Retention basics refer to chapter 2. The worked example is invented arithmetic. Checked October 2026. Not an official YouTube publication.*
+*Sources: [Partner Program eligibility](https://support.google.com/youtube/answer/72851) (what qualifies). [Impressions and watch time](https://support.google.com/youtube/answer/9314486). [Impressions and click-through rate FAQ](https://support.google.com/youtube/answer/7628154). [Reach](https://support.google.com/youtube/answer/9314355) (traffic sources, search terms, content suggesting this video). [Content performance](https://support.google.com/youtube/answer/12220281) (August 24, 2026 view change, Key moments). The worked example is invented arithmetic. Checked October 2026.*
