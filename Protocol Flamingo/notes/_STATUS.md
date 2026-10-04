@@ -38,6 +38,24 @@ Pre-edit copies: `bak/2026-10-01 pre-lightpass backup/`. Word count unchanged, 2
 - Checked and left: front matter, series line, Also by page and About the Author agree with `KDP_LISTING.md` (The Invasion Storybooks, Book 1, George Herbert Fontaine). The KDP description matches the book (six people drop phones, eleven seconds, eighty seconds of the water tower, "the committee has been meeting since 1947", Starfall two weeks out). Spell check found no other typos.
 - Still open for Lothar: the late-2026 Texas total eclipse is invented (see above). The listing calls the book a novella (26,647 words is novella length); decide whether to sell it as a novel.
 
+## Polish pass, 3 Oct 2026 (single session, no git)
+
+Pre-edit copy: `bak/2026-10-03 pre-polish backup/`. The counts above are stale: the live Rev2 measured 2,428 paragraphs and about 77,000 words (three Books, 23 chapters) on 3 Oct, up from 376 paragraphs and 26,647 words.
+
+- Fix: "neighbours" became "neighbors" (Book Two, the Trojan-swarm dot paragraph). The Also by page had a straight apostrophe in "Hadn't"; now curly. Edited in `word/document.xml` only; every other zip entry byte-identical, paragraph count, word count, 18 links and section properties unchanged.
+- Checked and left: the title payoff (Gladys names it, Warren pencils it, the glossary explains the pink), Whitcombe's margin note in "Logistics", the closed ending, the Starfall chapters. Sweeps for Texas, Jupiter's shadow, Reno, "intern named Carl", straight quotes, double spaces and British spellings found nothing else ("burnt coffee" is fine as an American adjective).
+- Not touched: `build_docx.js` still builds only the earlier draft.
+
+## No-repeated-sentences pass, 4 Oct 2026 (single session)
+
+Lothar's rule: no sentence may recur within the same book. Pre-edit copy: `bak/2026-10-04 pre-dedupe backup/`. 170 paragraphs changed; 76,990 → 76,908 words; paragraph count (2,428), links (18) and section properties unchanged; edited in `word/document.xml` only, every other zip entry byte-identical.
+
+- Scan before: 93 repeated-sentence groups (3+ words) and 8 near-duplicates. After: none left except chapter titles that also sit in the contents list ("Eighty-Four Seconds", "The Company That Owns the Sky"), the bibliography titles that the appendix also names, and the bare interjection "I don't know,".
+- Callbacks were reworded rather than copied: Rosa's rule ("he gets told, and he decides") now appears once verbatim (Rosa's own speech) and in varied form elsewhere; "That's the deal" is kept for Dominic and Nora's exchange at the end; the pen/pencil line, "an ask, and a yes", "for the other one", "sitting next to", the authorization text read twice, and gesture beats ("He looked at her", "Nora looked at him", "He did not move") were varied. Glossary entries that copied story sentences were reworded.
+- Long shared phrases (8+ words) were checked too; the ones that were near-copies of a sentence were varied. Deliberate motifs were left (the grain of rice, "the way a man knocks wood" once, the hallway simile once).
+- Also: the straight apostrophe in "The Dolphins' View of History" (Also by page) is now curly.
+- To re-scan after any edit: split the book's text into sentences, normalize case and punctuation, and look for equal sentences of 3+ words outside headings, the contents list and the bibliography.
+
 ## Git
 
 Parent repository is `My Books for Amazon`, remote `https://github.com/lotmus/My-Books-for-Amazon.git`.
