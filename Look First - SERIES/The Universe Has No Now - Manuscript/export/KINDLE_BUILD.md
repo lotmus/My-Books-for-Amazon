@@ -57,3 +57,7 @@ python Figures\build_docx.py "export\The_Universe_Has_No_Now.docx"
 ## Notes and sources (3 Oct 2026)
 
 `12_Notes_and_Sources.md` comes after the appendix. It holds the numbered endnotes (`[^n]: …`) and a bibliography by chapter. In the chapters, the references are `[^n]` in reading order; a source cited again reuses its number. `build_docx.py` turns each reference into a superscript link to its note and makes each note’s own number a link back to the first reference. Outside links are ordinary hyperlinks (DOI, arXiv, SEP, NASA). Spacetime diagrams SD1–SD7 come from `Figures\draw_spacetime_figs.py`; run it before the build.
+
+## 46 chapters (3 Oct 2026)
+
+Chapter 30 was split into 30 and 31, so the book has 46 chapters and appendix notes A0–A46. Printed figure numbers follow chapter numbers, but figure files kept their names: `fig31`–`fig45` print as Figures 32–46, and `fig46.png` (from `Figures\draw_spacetime_figs.py`) prints as Figure 31. The mapping is `CHAPTER_FIG` in `Figures\build_docx.py`; `assemble_export.py` takes the file from the image path, not the caption number.

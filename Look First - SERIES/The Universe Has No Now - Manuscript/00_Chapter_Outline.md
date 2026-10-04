@@ -4,9 +4,9 @@ Each popular chapter has a matching appendix note. The main text stays readable.
 
 No film titles. Stories are invented scenes. String theory, if named: cannot currently be tested.
 
-**Length:** ~45 chapters, ~400 Kindle pages. Neighbors that taught the same sentence have been merged.
+**Length:** 46 chapters (Chapter 30 split into 30 and 31 on 3 Oct 2026), ~400 Kindle pages. Neighbors that taught the same sentence have been merged.
 
-**Series:** Volume 1 of *Look First*. Shared reference: `../notes/00_Series_Reference.md`. The later volume, written as its own book: *A Trip Is Not a New Life* (camps, healthspan, and the Earth you do not abandon). Chapters 31 and 32 teach the crew and the library in this book. Do not add settlement Gantt charts or fountain medicine here.
+**Series:** Volume 1 of *Look First*. Shared reference: `../notes/00_Series_Reference.md`. The later volume, written as its own book: *A Trip Is Not a New Life* (camps, healthspan, and the Earth you do not abandon). Chapters 32 and 33 teach the crew and the library in this book. Do not add settlement Gantt charts or fountain medicine here.
 
 ---
 
@@ -76,42 +76,43 @@ No film titles. Stories are invented scenes. String theory, if named: cannot cur
 | 27 | **Other Suns, Other Worlds** | **A27. Finding Worlds You Cannot See** |
 | 28 | **Where Liquid Water Can Last** | **A28. Circumstellar Habitable Zones** |
 | 29 | **Oceans Under the Ice** | **A29. Tidal Heat, Ice Shells, and Dark Seas** |
-| 30 | **A Second Origin** | **A30. Tests, Other Chemistries, Missing Body Plans** |
-| 31 | **Crews That Do Not Sleep** | **A31. Travel Time, Dose, and Autonomous Systems** |
-| 32 | **A Library of Earth** | **A32. Genome Information, Synthesis, and Planetary Protection** |
-| 33 | **Handles, and the Bill** *(was 37+38)* | **A33. Throats, Warps, and Energy Conditions** — (17) |
-| 34 | **The Watchmaker, and the Signal** *(was 39+40)* | **A34. Intervention Tests, UAP Residuals, SETI Bounds** |
+| 30 | **A Second Origin** | **A30. Second Origins, the Code, and What Life Eats** |
+| 31 | **Forms Earth Never Hired** *(split from 30, 3 Oct 2026)* | **A31. Other Chemistries, Missing Body Plans** |
+| 32 | **Crews That Do Not Sleep** | **A32. Travel Time, Dose, and Autonomous Systems** |
+| 33 | **A Library of Earth** | **A33. Genome Information, Synthesis, and Planetary Protection** |
+| 34 | **Handles, and the Bill** *(was 37+38)* | **A34. Throats, Warps, and Energy Conditions** — (17) |
+| 35 | **The Watchmaker, and the Signal** *(was 39+40)* | **A35. Intervention Tests, UAP Residuals, SETI Bounds** |
 
 ## Part VII — Loops
 
 | Ch | Popular | Appendix |
 |---:|---|---|
-| 35 | **Time Travel Is Not an Edit** *(was 39+40+41: consistency, metrics, protection)* | **A35. CTCs, Self-Consistency, Chronology Protection** |
-| 36 | **If You Could Walk Sideways Through When** | **A36. Foliations: Why a Stack Is Not a Hallway** |
+| 36 | **Time Travel Is Not an Edit** *(was 39+40+41: consistency, metrics, protection)* | **A36. CTCs, Self-Consistency, Chronology Protection** |
+| 37 | **If You Could Walk Sideways Through When** | **A37. Foliations: Why a Stack Is Not a Hallway** |
 
 ## Part VIII — All the Copies
 
 | Ch | Popular | Appendix |
 |---:|---|---|
-| 37 | **Four Kinds of Elsewhere** | **A37. Four Claims That Must Not Be Fused** |
-| 38 | **More of This Universe** | **A38. Infinite FLRW and Repeated Hubble Volumes** |
-| 39 | **Other Rooms, Other Rules** | **A39. Landscapes, Measures, and Untestable Frameworks** |
-| 40 | **Every Allowed Outcome** | **A40. Decoherence, Loops, and Why Branches Are Not Destinations** |
+| 38 | **Four Kinds of Elsewhere** | **A38. Four Claims That Must Not Be Fused** |
+| 39 | **More of This Universe** | **A39. Infinite FLRW and Repeated Hubble Volumes** |
+| 40 | **Other Rooms, Other Rules** | **A40. Landscapes, Measures, and Untestable Frameworks** |
+| 41 | **Every Allowed Outcome** | **A41. Decoherence, Loops, and Why Branches Are Not Destinations** |
 
 ## Part IX — The Filter
 
 | Ch | Popular | Appendix |
 |---:|---|---|
-| 41 | **A Filter, Not a Purpose** *(was 47+48)* | **A41. Coincidences, Weinberg’s Λ, Weak Anthropic** |
-| 42 | **No Cosmic Craftsman** | **A42. Why Strong and Final Anthropic Claims Fail** |
+| 42 | **A Filter, Not a Purpose** *(was 47+48)* | **A42. Coincidences, Weinberg’s Λ, Weak Anthropic** |
+| 43 | **No Cosmic Craftsman** | **A43. Why Strong and Final Anthropic Claims Fail** |
 
 ## Part X — What the Future Is Allowed to Be
 
 | Ch | Popular | Appendix |
 |---:|---|---|
-| 43 | **Five Ways It Can End** | **A43. w, Vacuum Decay, and Bounce Conditions** |
-| 44 | **Does Time Exist?** | **A44. The Problem of Time in Quantum Gravity** |
-| 45 | **The Honest Ending** | **A45. Inventory of Claims, by Temperature** |
+| 44 | **Five Ways It Can End** | **A44. w, Vacuum Decay, and Bounce Conditions** |
+| 45 | **Does Time Exist?** | **A45. The Problem of Time in Quantum Gravity** |
+| 46 | **The Honest Ending** | **A46. Inventory of Claims, by Temperature** |
 
 ---
 

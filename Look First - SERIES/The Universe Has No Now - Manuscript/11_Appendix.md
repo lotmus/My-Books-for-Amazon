@@ -97,7 +97,7 @@ GPS. Orbit *v ≈ 3.9 km/s* gives a special-relativistic slowing *~7 μs/day*. T
 
 At an event *p*, *I⁻(p)* is the chronological past (events that can reach *p* on a future-timelike curve), *I⁺(p)* the chronological future, and the remainder of the manifold, minus the light-cone boundary, is spacelike-separated “elsewhere.” Causal past and future *J±(p)* include the null generators. These are the verbs the loaf actually has. “Now” is not among them.
 
-A Cauchy surface is a spacelike 3-surface that intersects every inextendible causal curve exactly once. Data on a Cauchy surface determine the solution in the domain of dependence. Presentism, as a physics claim rather than a mood, wants a preferred Cauchy surface that is “the present,” advancing. General relativity does not supply a preferred one. Different foliations are different bookkeeping. In Minkowski space every inertial *t = const* is a Cauchy surface; none is privileged by the metric. In generic GR, global hyperbolicity may fail (Cauchy horizons; A35). Where it holds, you still have a stack of surfaces, not a glowing edge.
+A Cauchy surface is a spacelike 3-surface that intersects every inextendible causal curve exactly once. Data on a Cauchy surface determine the solution in the domain of dependence. Presentism, as a physics claim rather than a mood, wants a preferred Cauchy surface that is “the present,” advancing. General relativity does not supply a preferred one. Different foliations are different bookkeeping. In Minkowski space every inertial *t = const* is a Cauchy surface; none is privileged by the metric. In generic GR, global hyperbolicity may fail (Cauchy horizons; A36). Where it holds, you still have a stack of surfaces, not a glowing edge.
 
 The block — the 4-manifold plus metric as the inventory — is the default reading once you accept (1) and the Einstein equation as the dynamics of that metric. It is not a proof that “the future is already filmed” in a fatalist sense. It is a refusal to add a moving spotlight the equations do not contain. Local becoming, if you want the word, is along a worldline: proper time (A5). It is not a cosmic weather front.
 
@@ -113,7 +113,7 @@ where *K = +1, 0, −1* labels spatial slices that are *S³*, *E³*, or *H³* (c
 
 Observationally, the leftover glow is isotropic to *~10⁻⁵* after the dipole is removed (A9). Galaxy surveys (2dF, SDSS, DESI) find homogeneity on scales *≳ 100–300 Mpc*, with the usual argument about whether a given catalog is large enough. Spatial curvature *Ω_k* is consistent with 0 at the percent level or better in Planck-like fits (A11). Flat and infinite is allowed. Flat and finite (a 3-torus) is allowed and not selected. Closed with a large radius is allowed. None of those options puts you at the middle of a bomb.
 
-The “bang” is a hot, dense *state* of the slices in the past, not a point in a pre-existing box. At *a → 0* the classical description fails (A44). That failure is not a location you can visit.
+The “bang” is a hot, dense *state* of the slices in the past, not a point in a pre-existing box. At *a → 0* the classical description fails (A45). That failure is not a location you can visit.
 
 ---
 
@@ -141,7 +141,7 @@ The dipole, *ΔT ≈ 3.4 mK*, is our motion relative to the rest frame of the gl
 
 Last scattering: hydrogen recombination drops the free-electron fraction and the Thomson optical depth *τ* falls through 1. Planck-like fits put the peak of the visibility function at *z_* ≈ 1090 (1089.80 ± 0.23 in the 2018 TT,TE,EE+lowE+lensing chain; the chapter’s 1090 is the right digit). The temperature then was *T_* = *T₀ (1 + z_*) ≈ 2970 K*, which this book rounds to *3000 K*. Age at last scattering: *≈ 380,000 yr*. Helium recombination is earlier and less visible. Reionization at *z ~ 6–9* puts a small extra *τ* on the large-scale polarization; it is not a second fireball.
 
-Hot: the spectrum, the dipole as motion, the *10⁻⁵* map, last scattering at *z ~ 10³*. Warm: the detailed recombination code and the optical-depth tail. Cold: a craftsman who painted the blackbody (A34).
+Hot: the spectrum, the dipole as motion, the *10⁻⁵* map, last scattering at *z ~ 10³*. Warm: the detailed recombination code and the optical-depth tail. Cold: a craftsman who painted the blackbody (A35).
 
 ---
 
@@ -179,7 +179,7 @@ Observed *Y_p ≈ 0.24–0.25* (H II regions; primordial intercept). Deuterium, 
 
 Planck-like inventory (round numbers this book uses): *Ω_b ≈ 0.05*, *Ω_c ≈ 0.27*, *Ω_Λ ≈ 0.68*, *Ω_k ≈ 0*, photons *Ω_γ ~ 5 × 10⁻⁵*, neutrinos a comparable few × *10⁻⁵* if masses are small. Mean baryon number density *n_b ~ 0.2 m⁻³* (one proton in a box a bit more than a meter on a side). Stars and the gas you can photograph are a fraction of *Ω_b*; most baryons are in the warm–hot intergalactic medium and other faint phases. Dark matter *Ω_c* is the extra pull (A17). Dark energy *Ω_Λ* is the shove (A18). They do not trade costumes.
 
-Spatial curvature: *|Ω_k| ≲ 0.01* in standard fits, tighter if you assume the working model. That is “flat for practical purposes,” not a proof the 3-space is infinite (A38). Critical density is the density that would make a matter-only universe spatially flat. With *Λ*, the Friedmann equation still uses (5) as the unit; the geometry is *Ω_k = 1 − Σ Ω_i*.
+Spatial curvature: *|Ω_k| ≲ 0.01* in standard fits, tighter if you assume the working model. That is “flat for practical purposes,” not a proof the 3-space is infinite (A39). Critical density is the density that would make a matter-only universe spatially flat. With *Λ*, the Friedmann equation still uses (5) as the unit; the geometry is *Ω_k = 1 − Σ Ω_i*.
 
 ---
 
@@ -221,11 +221,11 @@ Hot: *A_s*, *n_s < 1*, acoustic physics. Warm: a slow-roll burst as the source. 
 
 ## A15. Eternal Inflation and the Measure Problem
 
-If the quantum kick *δφ ~ H/2π* per Hubble time exceeds the classical roll down the potential, inflation self-reproduces: volume that is still inflating grows faster than volume that has exited. Pocket nucleations in a false-vacuum sea (Coleman–De Luccia) are a related picture with bubbles instead of a slowly rolling field. Both produce a multiverse of the Level II kind (A37). Neither is a detection.
+If the quantum kick *δφ ~ H/2π* per Hubble time exceeds the classical roll down the potential, inflation self-reproduces: volume that is still inflating grows faster than volume that has exited. Pocket nucleations in a false-vacuum sea (Coleman–De Luccia) are a related picture with bubbles instead of a slowly rolling field. Both produce a multiverse of the Level II kind (A38). Neither is a detection.
 
-The measure problem is that “most” is not defined. Volume-weighted measures favor pockets that inflate longest. Pocket-weighted measures count nucleations. Observer-weighted measures try to condition on galaxies or on Boltzmann brains. They disagree, sometimes by infinite factors. Anthropic cuts on *Λ* (A41) inherit this fog: Weinberg’s upper bound is a real inequality; turning it into a probability needs a measure you do not have.
+The measure problem is that “most” is not defined. Volume-weighted measures favor pockets that inflate longest. Pocket-weighted measures count nucleations. Observer-weighted measures try to condition on galaxies or on Boltzmann brains. They disagree, sometimes by infinite factors. Anthropic cuts on *Λ* (A42) inherit this fog: Weinberg’s upper bound is a real inequality; turning it into a probability needs a measure you do not have.
 
-Borde–Guth–Vilenkin (BGV): if the average Hubble rate along a past-directed geodesic is positive, that geodesic is past-incomplete. Eternal inflation, on this theorem, is not a past-eternal block. It does not prove a kitchen-time “before.” It proves that the inflating congruence cannot be extended indefinitely into the past as a regular, expanding spacetime. What replaces the incompleteness is A44’s problem, not a filmed first tick.
+Borde–Guth–Vilenkin (BGV): if the average Hubble rate along a past-directed geodesic is positive, that geodesic is past-incomplete. Eternal inflation, on this theorem, is not a past-eternal block. It does not prove a kitchen-time “before.” It proves that the inflating congruence cannot be extended indefinitely into the past as a regular, expanding spacetime. What replaces the incompleteness is A45’s problem, not a filmed first tick.
 
 Temperature: local burst, warm (A13–A14). Eternal froth and a predictive measure, cold-to-warm at best. A landscape of string vacua as the menu, untestable by (18).
 
@@ -237,7 +237,7 @@ Inflationary *δφ* is chaotic in the colloquial sense: a *10⁻⁵* twitch, str
 
 BKL (Belinski–Khalatnikov–Lifshitz): generic spacelike singularities in classical GR show Mixmaster behavior — chaotic Bianchi IX oscillations, a sequence of Kasner epochs with exponents that bounce in a deterministic but exponentially sensitive map. Nearby spatial points lose correlation as *t → 0* (or toward a crunch). That is a theorem-level expectation of the classical theory, not a photograph of the bang.
 
-A steered crunch — the Omega Point demand that intelligence control the geometry all the way to a single *c*-boundary point — requires control of that chaos. Barrow-type results make the demand measure-zero unless extra structure is imposed: you would need to fine-tune the approach on successively smaller scales without a horizon-free handle (A23, A42). Lyapunov exponents of the Mixmaster map are positive; each Kasner epoch shrinks the set of successful steerings. Sensitivity is an engine for structure in the expanding era. It is a veto on a required final mind in a recollapse.
+A steered crunch — the Omega Point demand that intelligence control the geometry all the way to a single *c*-boundary point — requires control of that chaos. Barrow-type results make the demand measure-zero unless extra structure is imposed: you would need to fine-tune the approach on successively smaller scales without a horizon-free handle (A23, A43). Lyapunov exponents of the Mixmaster map are positive; each Kasner epoch shrinks the set of successful steerings. Sensitivity is an engine for structure in the expanding era. It is a veto on a required final mind in a recollapse.
 
 ---
 
@@ -259,7 +259,7 @@ Direct detection: LZ, XENON1T/nT, PandaX, and predecessors have not found a WIMP
 
 **(6)**  *ρ_Λ = Λ c² / (8π G)*  (constant)
 
-Naive QFT zero-point *~ M⁴* with *M* at the Planck scale (*~10¹⁹ GeV*) overshoots *ρ_Λ,obs* by ~120 orders of magnitude; even a TeV cutoff overshoots by ~60. Observed *ρ_Λ ~ (2.3 × 10⁻³ eV)⁴*, or about *6 × 10⁻²⁷ kg m⁻³* — the same order as *ρ_c* today, which is the coincidence problem. Weinberg 1987: if *ρ_Λ* is too large and positive, galaxies do not form before the shove wins; that anthropic upper bound sits within one or two decades of the measured value. A bound is not a derivation. It becomes an explanation only if an ensemble of vacua exists and a measure can be defined (A15, A41). String landscapes offered as that ensemble inherit (18).
+Naive QFT zero-point *~ M⁴* with *M* at the Planck scale (*~10¹⁹ GeV*) overshoots *ρ_Λ,obs* by ~120 orders of magnitude; even a TeV cutoff overshoots by ~60. Observed *ρ_Λ ~ (2.3 × 10⁻³ eV)⁴*, or about *6 × 10⁻²⁷ kg m⁻³* — the same order as *ρ_c* today, which is the coincidence problem. Weinberg 1987: if *ρ_Λ* is too large and positive, galaxies do not form before the shove wins; that anthropic upper bound sits within one or two decades of the measured value. A bound is not a derivation. It becomes an explanation only if an ensemble of vacua exists and a measure can be defined (A15, A42). String landscapes offered as that ensemble inherit (18).
 
 ---
 
@@ -269,7 +269,7 @@ Naive QFT zero-point *~ M⁴* with *M* at the Planck scale (*~10¹⁹ GeV*) over
 
 (for *w = −1*). Type Ia supernovae as standardizable candles (Riess et al. 1998; Perlmutter et al. 1999; Schmidt’s team sharing the 2011 Nobel) showed that luminosity distance at *z ~ 0.5–1* is too large for a matter-only decelerating universe. The leftover glow and a baryon acoustic oscillation standard ruler together prefer the same fit. BAO: the sound horizon at the drag epoch is *r_d ≈ 147 Mpc* comoving in Planck-like physics; galaxy and Lyman-*α* surveys (SDSS, BOSS, eBOSS, DESI) recover a feature at *~150 Mpc* comoving. That is a meter stick, not a metaphor.
 
-Equation (7) with *Ω_m ≈ 0.3*, *Ω_Λ ≈ 0.7*, *Ω_k ≈ 0* is the working *H(z)*. Acceleration (*q₀ < 0*) begins near *z ~ 0.6* in that fit — a few billion years ago, not at the bang. As of October 2026, DESI DR2 BAO with the CMB prefers an evolving *w(z)* (parametrized *w = w₀ + wₐ z/(1+z)*) over Λ at about 3σ, about 2.8–4.2σ when supernova samples are added; the full Dark Energy Survey result gives *w₀ ≈ −0.82* today; a Bayesian reanalysis finds the evidence not decisive. That is a possible warming of “not exactly Λ.” It is not a detection of a Big Rip, a bounce, or a required recollapse (A19, A43). *w ≈ −1* remains the working number until a survey reaches discovery strength.
+Equation (7) with *Ω_m ≈ 0.3*, *Ω_Λ ≈ 0.7*, *Ω_k ≈ 0* is the working *H(z)*. Acceleration (*q₀ < 0*) begins near *z ~ 0.6* in that fit — a few billion years ago, not at the bang. As of October 2026, DESI DR2 BAO with the CMB prefers an evolving *w(z)* (parametrized *w = w₀ + wₐ z/(1+z)*) over Λ at about 3σ, about 2.8–4.2σ when supernova samples are added; the full Dark Energy Survey result gives *w₀ ≈ −0.82* today; a Bayesian reanalysis finds the evidence not decisive. That is a possible warming of “not exactly Λ.” It is not a detection of a Big Rip, a bounce, or a required recollapse (A19, A44). *w ≈ −1* remains the working number until a survey reaches discovery strength.
 
 Hot: acceleration; *Ω_Λ ~ 0.7*; BAO ruler. Warm: Λ as a true constant rather than a slow field. Cold: we know *why* the zero-point is small.
 
@@ -281,7 +281,7 @@ Closed matter-only recollapse needs *Ω_m > 1* and no lasting shove. Observed *�
 
 FAP and the Omega Point, as a *requirement* of the laws plus data, fail here first: they need a crunch. They fail again on horizons (A23, A26): a de Sitter-like late phase has an event horizon and a finite entropy budget, not an infinite computational resource in a vanishing 3-volume. They fail a third time on BKL chaos (A16) if you grant a crunch anyway. This book keeps that failure. A poetic crunch is not a measurement.
 
-What would reopen recollapse: a measured *w(z)* that climbs through *−1/3* and stays there with *Ω_m* high enough, or a vacuum decay (A43) into a negative-*Λ* phase on a timescale shorter than the remaining expansion. Neither is in the data. The first is a research program. The second is a lifetime *Γ* that is not measured (and, in the Standard Model metastability calculation, is usually quoted as vastly longer than *t₀*, with large theoretical fog). A closed universe with *Ω_k* slightly negative and *Ω_Λ ≈ 0.7* still expands forever in the working fit; curvature does not buy you a crunch once the shove is on.
+What would reopen recollapse: a measured *w(z)* that climbs through *−1/3* and stays there with *Ω_m* high enough, or a vacuum decay (A44) into a negative-*Λ* phase on a timescale shorter than the remaining expansion. Neither is in the data. The first is a research program. The second is a lifetime *Γ* that is not measured (and, in the Standard Model metastability calculation, is usually quoted as vastly longer than *t₀*, with large theoretical fog). A closed universe with *Ω_k* slightly negative and *Ω_Λ ≈ 0.7* still expands forever in the working fit; curvature does not buy you a crunch once the shove is on.
 
 ---
 
@@ -303,7 +303,7 @@ A clock at rest at radius *r* runs slow versus a clock at infinity by that facto
 
 Kerr: spin parameter *a/M* between 0 and 1 in geometric units. The innermost stable circular orbit (ISCO) sits at *6 GM/c²* for Schwarzschild and moves in to *GM/c²* for prograde extremal spin. That is why thin-disk efficiency can reach *~40%* of rest mass for high spin versus *~6%* for a non-spinning hole. Extreme “hour versus years” ratios for a *person* beside a supermassive hole need a station near ISCO *and* *a/M* within *~10⁻¹⁴* of extremal so that the redshift factor is huge while the orbit remains stable. Allowed by the metric. Not generic. Astrophysical spins measured from iron lines and continuum fitting are high (*a/M ~ 0.7–0.98* for some AGN) and nowhere near that engineering tolerance.
 
-Frame dragging (Lense–Thirring) is measured around Earth (Gravity Probe B; LAGEOS) at the milliarcsecond-per-year level. Around a hole it is the reason the ergosphere exists (*r < 2GM/c²* at the equator for Kerr). Penrose processes and Blandford–Znajek jets can tap spin. They are not time machines (A35).
+Frame dragging (Lense–Thirring) is measured around Earth (Gravity Probe B; LAGEOS) at the milliarcsecond-per-year level. Around a hole it is the reason the ergosphere exists (*r < 2GM/c²* at the equator for Kerr). Penrose processes and Blandford–Znajek jets can tap spin. They are not time machines (A36).
 
 ---
 
@@ -351,7 +351,7 @@ Earth–Mars light time: *~3 min* at closest approach, *~22 min* near solar conj
 
 Δv: LEO to trans-Mars injection *~3.6 km/s*; Mars capture and circularization *~2 km/s* class for a propulsive orbit, plus a lander budget of several more km/s if you do not aerobrake. Aerobraking and aerocapture trade heat shield for propellant. Surface gravity *0.38 g*. Solar constant *~43%* of Earth’s. Atmosphere *~6 mbar* (6.1 mbar mean), *~95% CO₂*, argon and nitrogen in the remainder — a vacuum by kitchen standards, a resource by ISRU standards. Mean surface *T* near *−60 °C*; equatorial summer afternoons can sit near 0 °C. Water ice is mapped at mid and high latitudes (Phoenix; SHARAD; neutron spectroscopy); equatorial “dry” is not globally dry at depth.
 
-Perchlorates: Phoenix wet chemistry found *~0.5–1%* by mass in the soil, mostly as Mg/Na perchlorate. That is a toxic oxidizer and a hygroscopic brine ingredient, not a mood and not automatically a nutrient. Plant growth needs imported or generated O₂/N₂ buffers, water that has been scrubbed, and radiation shielding. GCR plus solar protons at the surface are lower than in cruise (A31) because of the planet’s bulk, higher than under Earth’s atmosphere and magnetosphere. A greenhouse on a dead world is an engineering permit. It is not a biosphere, not a city, and not a reason to treat Earth as optional.
+Perchlorates: Phoenix wet chemistry found *~0.5–1%* by mass in the soil, mostly as Mg/Na perchlorate. That is a toxic oxidizer and a hygroscopic brine ingredient, not a mood and not automatically a nutrient. Plant growth needs imported or generated O₂/N₂ buffers, water that has been scrubbed, and radiation shielding. GCR plus solar protons at the surface are lower than in cruise (A32) because of the planet’s bulk, higher than under Earth’s atmosphere and magnetosphere. A greenhouse on a dead world is an engineering permit. It is not a biosphere, not a city, and not a reason to treat Earth as optional.
 
 ---
 
@@ -387,19 +387,29 @@ HZ is a *permit for surface liquid water*, given an Earth-like atmosphere and a 
 
 Tidal power scales roughly *Ė ∝ (G M_p)² R⁵ e² / (a⁶ μ Q)* (order-of-magnitude; *e* eccentricity, *μ* rigidity, *Q* dissipation). Io–Europa–Ganymede 1:2:4 Laplace resonance maintains *e*. Io’s *Ė* is measured as heat (*~10¹⁴ W*); Europa’s is inferred. Europa: ice shell perhaps 10–30 km (thicker in some gravity/induction models), ocean *O(100) km*. Induced magnetic field (Galileo) already implies a global conductor; Hubble and JWST have argued for plumes and then argued with themselves — plumes remain warm as a claim, not a scheduled geyser. Surface in Jovian belts: *O(10²–10³) rem/day* (*~1–10 Sv/day*) — lethal; the ocean is shielded by ice and water column.
 
-Enceladus: south-polar plume (Cassini), salinity, silica nanoparticles (hydrothermal hint), H₂, organics. The plume is a sample without a landing. Ganymede: intrinsic field; possible stacked oceans separated by high-pressure ices. Titan: surface lakes are methane (A30); a deep water–ammonia ocean is a gravity/shape inference, not a beach. High-pressure ices (VI, VII) on larger worlds may limit water–rock exchange — open problem. Rogue planets: radiogenic plus primordial heat under a thick ice blanket can maintain a sea (Stevenson-type thermos). Look-first rule: induced field and plumes before slogans. Oceans are warm-to-hot. Life in them is not a detection.
+Enceladus: south-polar plume (Cassini), salinity, silica nanoparticles (hydrothermal hint), H₂, organics. The plume is a sample without a landing. Ganymede: intrinsic field; possible stacked oceans separated by high-pressure ices. Titan: surface lakes are methane (A31); a deep water–ammonia ocean is a gravity/shape inference, not a beach. High-pressure ices (VI, VII) on larger worlds may limit water–rock exchange — open problem. Rogue planets: radiogenic plus primordial heat under a thick ice blanket can maintain a sea (Stevenson-type thermos). Look-first rule: induced field and plumes before slogans. Oceans are warm-to-hot. Life in them is not a detection.
 
 ---
 
-## A30. Second Origins, Other Chemistries, Missing Body Plans
+## A30. Second Origins, the Code, and What Life Eats
 
 Sample size *N = 1*. Operational life: Darwinian replication plus a metabolism on a gradient. Viking LR (1976): labeled-release gas at *~15 °C* that did not repeat after a *160 °C* heat control, contested then and now as abiotic soil chemistry (peroxides; perchlorates, later measured) versus a metabolism. Biosignature *pair* O₂+CH₄ is a disequilibrium test, not a verdict.
 
 Universal genetic code on Earth is a LUCA signature (frozen accident ± modest error-minimization), not a cosmic typesetter. Same codon table on a second world: contamination or panspermia, not independent invention. Pairing polymers warm; exact DNA alphabet cold. LUCA, as a node, sits before *~3.5–3.8 Ga* on the terrestrial clock; that is a date for *this* tree, not a cosmic requirement.
 
+Cannibalism: common in metazoa (not a zoological ban). Human near-taboo is a filter, not a field equation. Leading meshes: species-specific pathogens/prions (kuru; BSE from intra-species feed); kin selection; retaliation in social species. Inter-trunk predation (them eating us) is not cannibalism; chirality/code mismatch still makes us a poor default lunch.
+
+Sex is not immortality: soma dies; lineage continues (Weismann). Asexual fission/clones are the common terrestrial default by time and census; sex is costly (two-fold cost of males) and still common in large parasite-exposed taxa. Warm accounts: Red Queen, Muller’s ratchet, recombinational repair — not a unique cosmic requirement. HGT is mixing without meiosis. Individual biological immortality is rare and still mutates. Expect *some* genome mixing where parasites + time exist; do not expect two sexes and a child-as-afterlife.
+
+Reward, not pamphlet: sexual pleasure as a selected carrot for an expensive shuffle (wanting/seeking vs liking/completion; pair-bond peptides as a warm extra where young are costly). Asexuality and drive variation are lottery outcomes, not cosmic defects. Pornography as supernormal stimulus (Tinbergen): cue louder than the costly act; watchfulness plus cheap infinite images is Pleistocene wiring against an industrial supply (same family as refined sugar, intermittent-reward machines). Not a universal sophont law; warm that any reward loop can be spoofed once recording is cheap. No off-switch labeled “depiction only.”
+
+---
+
+## A31. Other Chemistries, Missing Body Plans
+
 Alternative solvents are papers, not zoos. A solvent must dissolve reactants, permit transport, allow a compartment, spare the polymers, and host a gradient. Water is the hired case, not a cosmic sacrament.
 
-Titan (Cassini; Huygens, 2005): surface *T ≈ 94 K*, *P ≈ 1.45 bar*, N₂ air with CH₄ weather; lakes/seas of CH₄/C₂H₆ (radar-dark, north-polar concentration). No biosphere detection. Liquid-methane relative permittivity *ε_r ≈ 1.7* vs water *ε_r ≈ 80* at kitchen *T* — ions poorly solvated; Earth-like acid–base metabolism is mute. Kinetics: Arrhenius suppression at 94 K makes uncatalyzed lake chemistry a statue; upper-atmosphere photochemistry (CH₄ → haze) can still run. Warm papers, not detections: H₂ + C₂H₂ metabolism (McKay–Smith-type fingerprint: depleted H₂ / acetylene). Azotosomes (acrylonitrile vesicles proposed for liquid CH₄; the molecule is in the air) are cold as membranes: the stability case has gone against them. Dragonfly-class in situ is the next measurement, not a verdict in this note.
+Titan (Cassini; Huygens, 2005): surface *T ≈ 94 K*, *P ≈ 1.47 bar*, N₂ air with CH₄ weather; lakes/seas of CH₄/C₂H₆ (radar-dark, north-polar concentration). No biosphere detection. Liquid-methane relative permittivity *ε_r ≈ 1.7* vs water *ε_r ≈ 80* at kitchen *T* — ions poorly solvated; Earth-like acid–base metabolism is mute. Kinetics: Arrhenius suppression at 94 K makes uncatalyzed lake chemistry a statue; upper-atmosphere photochemistry (CH₄ → haze) can still run. Warm papers, not detections: H₂ + C₂H₂ metabolism (McKay–Smith-type fingerprint: depleted H₂ / acetylene). Azotosomes (acrylonitrile vesicles proposed for liquid CH₄; the molecule is in the air) are cold as membranes: the stability case has gone against them. Dragonfly-class in situ is the next measurement, not a verdict in this note.
 
 Ammonia: 1 atm liquid range *≈ 195–240 K* (narrower than water unless mixed or pressurized). Polar, H-bonding; NH₃–H₂O eutectics stay liquid colder. Different acid–base inventory; hostile to Earth proteins. Still a paper.
 
@@ -407,7 +417,7 @@ Concentrated H₂SO₄ cloud decks (Venus-class): liquid in a probe-accessible *
 
 Silicon chains as *flesh*: weak in water (prefer silica / mountains). Silica *scaffolds* already exist (diatoms, radiolarians) as coating, not metabolism. Homochirality: a second origin may be mirror-life; terrestrial enzymes would fail on it. “Nitrogen-breathing” as a *primary* metabolism is not an Earth pathway; N₂ fixation is costly (nitrogenase). Rapid *morphological* ascent through Earth’s taxa in days is fiction. Rapid *radiation* given short generation time and empty ecospace is ordinary (microbes; post-extinction recoveries). Contingency: Burgess-type body plans show many fired experiments; convergence (eyes, wings, torpedo bodies, cursorial hunters) shows some re-hiring.
 
-Independent *humanoid* sophonts: cold (ape bauplan is historical). Independent *cetacean* sophonts as a default: cold; aquatic nervous systems warm. “Colleague with different ears” is a cultural wish, not a morphology forecast. Planetary-scale hyphal/root nets: Earth has sketches (mycelia; plant-mycorrhizal signalling — do not oversell a global brain). Remote-worn local bodies are engineering (Ch. 31), not a second origin.
+Independent *humanoid* sophonts: cold (ape bauplan is historical). Independent *cetacean* sophonts as a default: cold; aquatic nervous systems warm. “Colleague with different ears” is a cultural wish, not a morphology forecast. Planetary-scale hyphal/root nets: Earth has sketches (mycelia; plant-mycorrhizal signalling — do not oversell a global brain). Remote-worn local bodies are engineering (Ch. 32), not a second origin.
 
 Brain *volume* is a weak predictor once you leave a clade. Cetacean brains are large; corvid and parrot pallia are small, dense, and capable (Herculano-Houzel-type neuron counts beat cubic centimeters). Packing, wiring length, the body the wires serve, cumulative culture, and clock time matter more. A ~30 cm soma is neither a law nor a ban. Warm: a small, fast, dense nervous system can outrun a human-scale skull. Whale-scale tissue without that invoice can fail to. Eusocial colonies are distributed-control sketches, not a proof of a planetary hive-person. Miniaturized humanoids remain cold as morphology.
 
@@ -417,35 +427,29 @@ Endo- vs exoskeleton: both hired (vertebrate bone/cartilage; arthropod/mollusc c
 
 Missing on Earth as *macro* habits: wheels with axial blood supply; silicon endoskeletons as *default vertebrate* habit; photosynthetic herds; terrestrial coleoid dominance; radial large terrestrial predators; several simultaneous intelligent bauplans from one radiation.
 
-Cannibalism: common in metazoa (not a zoological ban). Human near-taboo is a filter, not a field equation. Leading meshes: species-specific pathogens/prions (kuru; BSE from intra-species feed); kin selection; retaliation in social species. Inter-trunk predation (them eating us) is not cannibalism; chirality/code mismatch still makes us a poor default lunch.
-
-Sex is not immortality: soma dies; lineage continues (Weismann). Asexual fission/clones are the common terrestrial default by time and census; sex is costly (two-fold cost of males) and still common in large parasite-exposed taxa. Warm accounts: Red Queen, Muller’s ratchet, recombinational repair — not a unique cosmic requirement. HGT is mixing without meiosis. Individual biological immortality is rare and still mutates. Expect *some* genome mixing where parasites + time exist; do not expect two sexes and a child-as-afterlife.
-
-Reward, not pamphlet: sexual pleasure as a selected carrot for an expensive shuffle (wanting/seeking vs liking/completion; pair-bond peptides as a warm extra where young are costly). Asexuality and drive variation are lottery outcomes, not cosmic defects. Pornography as supernormal stimulus (Tinbergen): cue louder than the costly act; watchfulness plus cheap infinite images is Pleistocene wiring against an industrial supply (same family as refined sugar, intermittent-reward machines). Not a universal sophont law; warm that any reward loop can be spoofed once recording is cheap. No off-switch labeled “depiction only.”
-
 Population structure (ecotypes, subspecies, island morphs): hot as a pattern after isolation + selection. Human folk “races” as discrete biological kinds: a poor map of a recently expanded, highly admixed species (most variation within groups; clines). Exobiology should expect local editions, not Earth’s census boxes. Native/non-native is a timestamp, not an essence; introductions can be polite or invasive. Directed seed into an occupied biosphere = invasion (look first). Humans are range-expanders on Earth and would be the non-native on any other world.
 
 ---
 
-## A31. Travel Time, Dose, and Autonomous Systems
+## A32. Travel Time, Dose, and Autonomous Systems
 
 At *v = 0.01 c* (*3000 km/s*), α Centauri (*4.37 ly*) is a *~437 yr* cruise before deceleration; the galaxy is not a weekend. At *0.1 c*, *~44 yr* plus a deceleration burn that is itself a propulsion problem. Kinetic energy per kilogram at *0.01 c* is *~4.5 × 10¹² J/kg* (*~1 kt TNT per kilogram*); at *0.1 c*, a hundred times that. Interstellar dust and ionized gas at *0.1 c* are an energy hazard: a 10 μm grain at that speed is a bullet. This note is not a starship catalog. Those two speeds are enough to see the invoice.
 
 Dose. Galactic cosmic rays in deep space deposit *~0.3–0.6 Sv/yr* behind thin shielding, order of magnitude; cruise measurements (Mars Science Laboratory’s RAD; astronaut TEPC) sit near *0.3–0.5 Sv/yr* depending on solar modulation. A career limit of order *1 Sv* (age- and sex-dependent regulatory numbers; ICRP and NASA have moved the digit) is a few years of unshielded or lightly shielded interplanetary flesh, not a century. Solar particle events add rare, sharp sieverts unless you have a storm shelter. A planetary surface is better than cruise and worse than Earth. Europa’s surface is a non-starter for flesh (A29). Autonomy is not a slogan: error-corrected memory, rad-hard processors, in-situ repair, and a control loop that still makes sense after decades of bit flips. Present pattern engines are not a century-stable control system. The chapter is the outlook. Form (android versus drill) is interface, not physics.
 
-AI risk, temperatures: (i) misuse and scale-error by human principals — hot as a class; (ii) loss of institutional comprehension when procedures are model-generated — warm; (iii) agentic takeover via stable goals plus instrumental convergence — extra hypotheses, not a thermal-history-grade fact; treat as a design constraint for reactors, weapons, and long cruises. “Better” is task-relative. Mind as computation versus mind as non-algorithmic (the incompleteness wedge; gravity-linked objective reduction): the second is a minority research program. Both morals of incompleteness are in A40. Current pattern engines are not a someone on either reading. Alignment is local control engineering, not an Omega Point.
+AI risk, temperatures: (i) misuse and scale-error by human principals — hot as a class; (ii) loss of institutional comprehension when procedures are model-generated — warm; (iii) agentic takeover via stable goals plus instrumental convergence — extra hypotheses, not a thermal-history-grade fact; treat as a design constraint for reactors, weapons, and long cruises. “Better” is task-relative. Mind as computation versus mind as non-algorithmic (the incompleteness wedge; gravity-linked objective reduction): the second is a minority research program. Both morals of incompleteness are in A41. Current pattern engines are not a someone on either reading. Alignment is local control engineering, not an Omega Point.
 
 ---
 
-## A32. Genome Information, Synthesis, and Planetary Protection
+## A33. Genome Information, Synthesis, and Planetary Protection
 
 Haploid human genome *~3 × 10⁹* bases (*~0.75 GB* uncompressed, far less with compression and redundancy). A typical bacterium is *~10⁵–10⁷* bases. A biosphere archive is orders of magnitude larger than either if you want ecological function, not a mascot. COSPAR planetary protection: the Policy on Planetary Protection published in *Space Research Today* (January 2026 edition; Bureau approval 7 November 2025) puts icy worlds under one policy, and a landing that can erase A29’s look-first measurement stays in the strict forward-contamination categories. Mars life-detection sites are stricter than a flyby. A restricted Earth return is the invoice if a sample might still be a kitchen. Directed panspermia (Crick and Orgel, 1973, as an idea) is engineering plus ethics, not a detection. A first-ocean seed on the early Earth would be absorbed into the LUCA signature and is not presently distinguishable from a local origin. “Messages in junk DNA” have not survived as a channel nature does not use. Synthesis from sequence requires wet-lab machinery that must itself survive the trip. Eusocial Earth sketches are the scale reminder: competence at nest-size is not a colleague. Look first. Seed later. A library poured into a sea that already copies is a conquistador. The same library, on a world whose exam has already been graded empty, is a greenhouse.
 
-A closed ecology is a queue, not a portrait: a pioneer film, then a dirt that film makes, then a rooted producer that needs the shade and the soil it did not arrive with. Shipping the last organism without the first is a corpse with a pedigree. The useful first print is an assay — a metabolism whose waste you can see from outside the room (a gas, a pigment, a pH shift) — so a dead printer, a refusing room, and a corrupted recipe are three different failures. Keep at least two copies of the archive in two radiation environments, plus a key a person can still sound out when the catalog’s format has died. Do not pack a mirror biosphere “for completeness” (A30). An empty exam gets the chemistry we have run. An occupied sea gets the box left shut.
+A closed ecology is a queue, not a portrait: a pioneer film, then a dirt that film makes, then a rooted producer that needs the shade and the soil it did not arrive with. Shipping the last organism without the first is a corpse with a pedigree. The useful first print is an assay — a metabolism whose waste you can see from outside the room (a gas, a pigment, a pH shift) — so a dead printer, a refusing room, and a corrupted recipe are three different failures. Keep at least two copies of the archive in two radiation environments, plus a key a person can still sound out when the catalog’s format has died. Do not pack a mirror biosphere “for completeness” (A31). An empty exam gets the chemistry we have run. An occupied sea gets the box left shut.
 
 ---
 
-## A33. Einstein–Rosen vs Traversable Throats
+## A34. Einstein–Rosen vs Traversable Throats
 
 ER bridge: Kruskal throat, non-traversable, pinches in finite proper time (A22). Morris–Thorne (1988): static, spherically symmetric, flaring-out condition at the throat requires *ρ + p_r < 0* in the appropriate frame (exotic). Mouths appear as spheres, not holes in a floor. A traversable throat is a metric you write down, not a tunnel you have dug.
 
@@ -455,11 +459,11 @@ ER bridge: Kruskal throat, non-traversable, pinches in finite proper time (A22).
 
 **(17)**  NEC: *T_μν k^μ k^ν ≥ 0* for all null *k*. Traversable throats need NEC violation near the throat. Ford–Roman inequalities bound the magnitude × duration of negative energy in a given volume. Macroscopic, long-lived throats are likely forbidden; not a theorem covering every QFT-on-curved-space loophole.
 
-Alcubierre (1994): a shift vector that contracts the loaf ahead and expands it behind; the cabin can have small tidal forces; the ship’s *local* four-velocity stays timelike and subluminal. Effective superluminal *arrival* vs a long-way light signal is a global, not a local, fact. The bubble wall requires *T_μν* that violates the WEC/NEC (exotic). Energy estimates have been reduced by wall-shaping (van den Broeck; Natário; later “warp shells”); they remain enormous and still exotic. The forward wall is typically outside the cabin’s causal past — you do not control or ignite the geometry from inside without pre-arranging the path (or a receiver). Krasnikov tube: modify *g_μν* along an outbound worldline so the return is short; still exotic, still paving. Superluminal effective travel in GR can be arranged to yield CTCs; chronology protection (A35) is the same unpaid insurance as for wormhole mouths. No laboratory metric-engineering. “Warp” laboratory claims to date are not an Alcubierre drive.
+Alcubierre (1994): a shift vector that contracts the loaf ahead and expands it behind; the cabin can have small tidal forces; the ship’s *local* four-velocity stays timelike and subluminal. Effective superluminal *arrival* vs a long-way light signal is a global, not a local, fact. The bubble wall requires *T_μν* that violates the WEC/NEC (exotic). Energy estimates have been reduced by wall-shaping (van den Broeck; Natário; later “warp shells”); they remain enormous and still exotic. The forward wall is typically outside the cabin’s causal past — you do not control or ignite the geometry from inside without pre-arranging the path (or a receiver). Krasnikov tube: modify *g_μν* along an outbound worldline so the return is short; still exotic, still paving. Superluminal effective travel in GR can be arranged to yield CTCs; chronology protection (A36) is the same unpaid insurance as for wormhole mouths. No laboratory metric-engineering. “Warp” laboratory claims to date are not an Alcubierre drive.
 
 ---
 
-## A34. What Would Count as Evidence of Intervention
+## A35. What Would Count as Evidence of Intervention
 
 A message in a channel nature does not use (narrowband, prime-modulated, a sightline that is not geochemistry). A correlation in the CMB that is not a Gaussian twitch plus foregrounds. “It looks pretty” is not a test. Absence of such signatures is not a proof of absence; it is why the craftsman stays cold.
 
@@ -469,7 +473,7 @@ UAP residuals (public): 2004 Nimitz / Princeton — the stubborn file: Aegis rad
 
 Single-sensor IR without range cannot fix size or speed; camera rotation and parallax mimic miracles. Multi-platform leftovers still require a prior: classified terrestrial (own or adversary) is the least-new-physics fit and is already an admission of remarkable hardware if true. “I don’t know” is the correct residual for the best public cases. What would *name* the residual: range-complete multi-sensor kinematics that exceed on-board energy; physical samples with non-terrestrial isotopic/microstructural signatures; a communicative channel that can be missed.
 
-Visitor hypotheses vs this book’s physics: future-us requires CTCs or a sideways foliation (A35–A36; chronology protection warm-to-cold). Everett branches do not admit hops or signals (A40). Interstellar arrival is a Chapter 31 project, not a dogfight. Traversable “beam-in” still owes the exotic-matter bill (A33) or a local assembler (A32). Telepathy: no established extra information channel; still bounded by carriers we already have.
+Visitor hypotheses vs this book’s physics: future-us requires CTCs or a sideways foliation (A36–A37; chronology protection warm-to-cold). Everett branches do not admit hops or signals (A41). Interstellar arrival is a Chapter 32 project, not a dogfight. Traversable “beam-in” still owes the exotic-matter bill (A34) or a local assembler (A33). Telepathy: no established extra information channel; still bounded by carriers we already have.
 
 Congressional UAP sequence (public): 2017 reporting on AATIP; 2020 DoD video authentication; FY2021 intelligence authorization → 2021 ODNI preliminary assessment; 2022–24 hearings; Schumer–Rounds UAP disclosure language (thinned). Institutional motives that do not require an extraterrestrial conclusion: air-domain awareness (UAS, adversary systems), SAP/oversight ambiguity, stigma as an operational defect, reports near strategic sites. Witness claims of non-terrestrial retrieval remain claims until the hardware tests above are met.
 
@@ -481,7 +485,7 @@ Round-trip time *2d/c*: 8.7 yr for α Cen, *~4,000 yr* for a star on the far sid
 
 ---
 
-## A35. Worldlines and Self-Consistency
+## A36. Worldlines and Self-Consistency
 
 Novikov principle: the probability of events on a closed timelike curve (CTC) is consistent; paradoxical histories have measure zero. This is a consistency condition on the block, not a dynamics that “prevents” edits. There are no edits. If a CTC exists, the solution of the field equations plus matter is already a loop. You do not climb into it and change Tuesday. You discover that Tuesday was always the loop.
 
@@ -491,51 +495,51 @@ Novikov principle: the probability of events on a closed timelike curve (CTC) is
 
 Gödel (1949): a rotating dust universe with *Λ < 0* (or an equivalent tension) and vorticity *ω* tied to the density so that *4πGρ = ω²* in the original normalization. Every event lies on CTCs. Angular velocity of the matter is not a small Lense–Thirring twist; it is the geometry. Our universe is not Gödel’s. Planck-scale vorticity limits and the leftover glow’s isotropy (*10⁻⁵*) do not permit a Gödel rotation at cosmological scale. The metric is an existence proof in GR, not a map.
 
-Kerr: CTCs appear inside the inner (Cauchy) horizon in the analytic extension, in the *r < 0* region through the ring. The inner horizon is unstable (Poisson–Israel mass inflation): infalling radiation blueshifts and the idealized extension does not survive. Traversable wormhole plus time-shifted mouths (Morris–Thorne plus a twin-paradox boost of one mouth): after a finite operation the mouths become a CTC. Alcubierre and Krasnikov shortcuts can be arranged to the same end (A33). None of these are observational geometries. None are a visitor hypothesis that this book will cash (A34).
+Kerr: CTCs appear inside the inner (Cauchy) horizon in the analytic extension, in the *r < 0* region through the ring. The inner horizon is unstable (Poisson–Israel mass inflation): infalling radiation blueshifts and the idealized extension does not survive. Traversable wormhole plus time-shifted mouths (Morris–Thorne plus a twin-paradox boost of one mouth): after a finite operation the mouths become a CTC. Alcubierre and Krasnikov shortcuts can be arranged to the same end (A34). None of these are observational geometries. None are a visitor hypothesis that this book will cash (A35).
 
 ---
 
 *Chronology Protection and Cauchy Horizons*
 
-Hawking 1992 (*Phys. Rev. D* **46**, 603): as a chronology horizon forms — the first closed null curve, the Cauchy horizon that would become a CTC factory — vacuum stress-energy of quantum fields diverges. The back-reaction is expected to destroy the would-be time machine. That is a conjecture, not a theorem. It has been checked in 2D models and in some 4D examples; loopholes (cut-and-paste, compact extra dimensions, trans-Planckian excuses) get papers. A Cauchy horizon is already a loss of global predictability: the future of the surface is not determined by data on it. Chronology protection, if true, keeps the popular “edit” dead and the “consistent loop” unbuilt. If false, the block can contain loops and still contain no edits. Either way, Tuesday is not a hallway (A36).
+Hawking 1992 (*Phys. Rev. D* **46**, 603): as a chronology horizon forms — the first closed null curve, the Cauchy horizon that would become a CTC factory — vacuum stress-energy of quantum fields diverges. The back-reaction is expected to destroy the would-be time machine. That is a conjecture, not a theorem. It has been checked in 2D models and in some 4D examples; loopholes (cut-and-paste, compact extra dimensions, trans-Planckian excuses) get papers. A Cauchy horizon is already a loss of global predictability: the future of the surface is not determined by data on it. Chronology protection, if true, keeps the popular “edit” dead and the “consistent loop” unbuilt. If false, the block can contain loops and still contain no edits. Either way, Tuesday is not a hallway (A37).
 
 ---
 
-## A36. Foliations: Why a Stack Is Not a Hallway
+## A37. Foliations: Why a Stack Is Not a Hallway
 
 A foliation is a stack of 3-surfaces: a time function *t* whose level sets are the leaves. CMC slices, Gaussian-normal slices, cosmic-time slices in FLRW — different jobs, different stacks. A foliation is bookkeeping. It is not a dimension you can walk with a rocket. Proper time is along a worldline, tangent to the 4-velocity, not along the normal from leaf to leaf as if the normal were a corridor.
 
-“Walking the time direction” is a category error unless new structure is added: a fifth direction, a CTC (A35), a traversable handle (A33), or a second copy of the manifold. Each of those additions brings instabilities or exotic stress-energy or both. Gödel’s CTCs are not a walk *across* the leaves of a cosmic time; they are worldlines that are already closed, *inside* the manifold. Hawking 1992’s chronology horizon is what you meet if you try to *build* a closed worldline from a previously causal stack. FLRW cosmic time *t* is a convenient foliation because the slices are homogeneous; it is still not a hallway, and a rocket that “goes back to recombination” is a rocket that aims at our past light cone, not at a previous leaf. The popular picture of pages in a book that you flip at will is a picture of a foliation plus a privilege this book does not grant (A4, A6). You may choose a stack to write *H(z)*. You may not treat the stack as a transit system.
+“Walking the time direction” is a category error unless new structure is added: a fifth direction, a CTC (A36), a traversable handle (A34), or a second copy of the manifold. Each of those additions brings instabilities or exotic stress-energy or both. Gödel’s CTCs are not a walk *across* the leaves of a cosmic time; they are worldlines that are already closed, *inside* the manifold. Hawking 1992’s chronology horizon is what you meet if you try to *build* a closed worldline from a previously causal stack. FLRW cosmic time *t* is a convenient foliation because the slices are homogeneous; it is still not a hallway, and a rocket that “goes back to recombination” is a rocket that aims at our past light cone, not at a previous leaf. The popular picture of pages in a book that you flip at will is a picture of a foliation plus a privilege this book does not grant (A4, A6). You may choose a stack to write *H(z)*. You may not treat the stack as a transit system.
 
 ---
 
-## A37. Four Claims That Must Not Be Fused
+## A38. Four Claims That Must Not Be Fused
 
 Tegmark’s levels, as a filing cabinet this book will use and then distrust:
 
-**Level I:** more FLRW volume than our particle horizon — more of the same laws, same *a(t)*, beyond *χ_p* (A26, A38). **Level II:** other post-inflation vacua, other low-energy constants, pocket universes (A15, A39). **Level III:** Everett branches of a universal wavefunction (A40). **Level IV:** other mathematical structures as equally real worlds.
+**Level I:** more FLRW volume than our particle horizon — more of the same laws, same *a(t)*, beyond *χ_p* (A26, A39). **Level II:** other post-inflation vacua, other low-energy constants, pocket universes (A15, A40). **Level III:** Everett branches of a universal wavefunction (A41). **Level IV:** other mathematical structures as equally real worlds.
 
-I and II are cosmological hypotheses. They can, in principle, leave fossils (a bubble wall in the leftover glow; a curvature or *Λ* we can bound). They have not. A bubble collision would be a disk-like temperature or polarization feature with a specific profile; Planck searches have not named one that survived foregrounds. III is an interpretation of quantum mechanics. It does not add new constants and it does not let you hop (A40). Calling III “a parallel universe you could visit” is a Level I sentence in the wrong filing cabinet. IV is metaphysics: if every consistent math is a world, no measurement selects. Dark matter and dark energy are not levels. They are ingredients in *this* FLRW inventory (A17–A18). Fusing “the extra pull” with “a branch” or “a landscape vacuum” is a category error that makes every noun unfalsifiable at once. Give the levels separate temperatures, or do not use the cabinet.
+I and II are cosmological hypotheses. They can, in principle, leave fossils (a bubble wall in the leftover glow; a curvature or *Λ* we can bound). They have not. A bubble collision would be a disk-like temperature or polarization feature with a specific profile; Planck searches have not named one that survived foregrounds. III is an interpretation of quantum mechanics. It does not add new constants and it does not let you hop (A41). Calling III “a parallel universe you could visit” is a Level I sentence in the wrong filing cabinet. IV is metaphysics: if every consistent math is a world, no measurement selects. Dark matter and dark energy are not levels. They are ingredients in *this* FLRW inventory (A17–A18). Fusing “the extra pull” with “a branch” or “a landscape vacuum” is a category error that makes every noun unfalsifiable at once. Give the levels separate temperatures, or do not use the cabinet.
 
 ---
 
-## A38. Infinite FLRW and Repeated Hubble Volumes
+## A39. Infinite FLRW and Repeated Hubble Volumes
 
 If the spatial slice is infinite and conditions are ergodic — the same statistical ensemble of Hubble-volume states realized over infinite 3-volume — then a finite Hubble-volume configuration recurs. A Hubble volume has a finite number of modes below a cutoff. Holographic finite-state counting (area of the de Sitter horizon; A23) makes “finite” precise: *~exp(10¹²²)* states is still finite. Recurrence of a volume as detailed as “you, reading this sentence” is then a Level I expectation at distances so large they are not a travel plan.
 
-Whether the slice *is* infinite is unproven. *Ω_k* consistent with 0 does not prove infinite extent: a 3-torus can be flat and finite; a closed 3-sphere can have radius far larger than *c/H₀* and look flat. Planck-like *|Ω_k| ≲ 0.01* still allows a 3-sphere with radius tens of Hubble lengths. Topology searches in the leftover glow (matched circles; Cornish–Spergel–Starkman) have not found a small universe; the fundamental domain, if finite, is at least of order the diameter of the last-scattering surface (*~20–30 Gpc* comoving). That is a lower bound, not an infinity. Ergodicity can fail: inflation can leave residual gradients; a landscape (A39) can make distant volumes *not* the same ensemble. Level I is a maybe that follows from infinity plus sameness. Both premises are unproved. Recurrence, if it happens, is not a destination and not a copy you can greet (A26, A31).
+Whether the slice *is* infinite is unproven. *Ω_k* consistent with 0 does not prove infinite extent: a 3-torus can be flat and finite; a closed 3-sphere can have radius far larger than *c/H₀* and look flat. Planck-like *|Ω_k| ≲ 0.01* still allows a 3-sphere with radius tens of Hubble lengths. Topology searches in the leftover glow (matched circles; Cornish–Spergel–Starkman) have not found a small universe; the fundamental domain, if finite, is at least of order the diameter of the last-scattering surface (*~20–30 Gpc* comoving). That is a lower bound, not an infinity. Ergodicity can fail: inflation can leave residual gradients; a landscape (A40) can make distant volumes *not* the same ensemble. Level I is a maybe that follows from infinity plus sameness. Both premises are unproved. Recurrence, if it happens, is not a destination and not a copy you can greet (A26, A32).
 
 ---
 
-## A39. Landscapes, Measures, and Untestable Frameworks
+## A40. Landscapes, Measures, and Untestable Frameworks
 
 String compactifications are often said to yield *~10⁵⁰⁰* vacua (and larger numbers in later counts). **This is not a tested census.** It is a report about the size of a construction in a framework that **cannot currently be tested** (18). A framework that can accommodate any low-energy constants after the fact is not, so far, falsifiable. Extra dimensions and a “landscape” of possible laws inherit that status. They may be mentioned because popular physics mentions them. They are not results.
 
-Eternal inflation’s measure problem (A15) blocks quantitative “prediction” of *Λ* beyond order-of-magnitude anthropic cuts (A41). Even if you grant the landscape as a menu, you do not have a way to take attendance. Volume weighting, pocket weighting, and observer weighting disagree; some produce Boltzmann-brain domination that no one treats as a success. Other frameworks offer other menus, or one valley. The leftover glow has not chosen. Compactification moduli, if they exist, have not been seen as light scalars in the Solar System or as extra damping in the CMB. Until a unique, risky, framework-level prediction exists — a number that would kill the *whole* construction, not one vacuum — this book will not pay rent with a catalog. Row (18) is the standing rule, not a formula and not a footnote.
+Eternal inflation’s measure problem (A15) blocks quantitative “prediction” of *Λ* beyond order-of-magnitude anthropic cuts (A42). Even if you grant the landscape as a menu, you do not have a way to take attendance. Volume weighting, pocket weighting, and observer weighting disagree; some produce Boltzmann-brain domination that no one treats as a success. Other frameworks offer other menus, or one valley. The leftover glow has not chosen. Compactification moduli, if they exist, have not been seen as light scalars in the Solar System or as extra damping in the CMB. Until a unique, risky, framework-level prediction exists — a number that would kill the *whole* construction, not one vacuum — this book will not pay rent with a catalog. Row (18) is the standing rule, not a formula and not a footnote.
 
 ---
 
-## A40. Decoherence and Why Branches Are Not Destinations
+## A41. Decoherence and Why Branches Are Not Destinations
 
 Decoherence: entanglement with an environment suppresses interference between pointer states on a calculable timescale; no mind is required. A dust grain at room temperature decoheres its center-of-mass superposition in *~10⁻¹³ s* or faster once photons and air molecules correlate with position. “Observer,” operationally: any degree of freedom that holds an effectively irreversible record (pointer–environment correlation). Conscious observers are a late subset: a *strange loop* / tangled hierarchy (self-referential symbol system; meaning as inter-level isomorphism). Colony-as-mind vs worker-as-neuron is the eusocial sketch. Incompleteness has two morals in this book: (a) as a wedge that minds are not algorithms; (b) as the mechanism by which a formal system talks about itself and an “I” appears. Neither moral is a thermal-history-grade fact. A duplicate loop is a second person, not travel.
 
@@ -545,11 +549,11 @@ Everett: the global state remains a superposition; each decohered term includes 
 
 ---
 
-## A41. Dimensionless Coincidences and Weinberg’s Λ Bound
+## A42. Dimensionless Coincidences and Weinberg’s Λ Bound
 
 Fine-structure *α ≈ 1/137.036*; proton-to-electron mass *m_p/m_e ≈ 1836*; the primordial amplitude *δ_Q ~ 10⁻⁵* (*A_s* in A14); *ρ_Λ / ρ_Planck ~ 10⁻¹²³*. Many “coincidences” are selection-biased: you notice the numbers that look tuned and ignore the ones that do not. Some are genuine sensitivity: if *α* or the light-quark masses move by tens of percent, nuclear binding and chemistry change. How much they *may* move is a model of an ensemble you do not possess.
 
-Weinberg’s galaxy-formation bound (1987) is the cleanest anthropic *number*: *ρ_Λ* cannot sit much more than an order of magnitude or two above the matter density at the epoch when the first galaxies collapse, or linear growth freezes too soon. Observed *ρ_Λ* is within that window. It still needs an ensemble to be an explanation rather than a consistency check. WAP (below) is that check, done honestly. SAP and FAP (A42) are the check, promoted to a purpose.
+Weinberg’s galaxy-formation bound (1987) is the cleanest anthropic *number*: *ρ_Λ* cannot sit much more than an order of magnitude or two above the matter density at the epoch when the first galaxies collapse, or linear growth freezes too soon. Observed *ρ_Λ* is within that window. It still needs an ensemble to be an explanation rather than a consistency check. WAP (below) is that check, done honestly. SAP and FAP (A43) are the check, promoted to a purpose.
 
 ---
 
@@ -559,7 +563,7 @@ WAP (Carter; Barrow–Tipler’s wording): observed constants are restricted by 
 
 ---
 
-## A42. Why Strong and Final Anthropic Claims Fail
+## A43. Why Strong and Final Anthropic Claims Fail
 
 SAP — “the universe *must* permit life” — is either tautological (it did, so it must have been able to), ensemble-selection (WAP with a capital letter), or teleology (a purpose in the laws). The first is empty. The second is WAP again. The third is not a physical model. This book does not hire SAP.
 
@@ -569,7 +573,7 @@ What remains: WAP as a cut *if* an ensemble exists (warm as a method, not as a p
 
 ---
 
-## A43. *w*, Vacuum Decay, and Bounce Conditions
+## A44. *w*, Vacuum Decay, and Bounce Conditions
 
 *w = p/ρ*. A cosmological constant: *w = −1* exactly, *ρ* fixed, *p = −ρ*. Acceleration of the scale factor requires *w < −1/3* for the dominant component (Raychaudhuri / second Friedmann). Phantom energy: *w < −1* with no decay of the field; *ρ* grows as the universe expands and a Big Rip can form in finite time. Planck combined with supernovae and BAO gave *w = −1.03 ± 0.03* for a constant *w*. As of October 2026, DESI and DES fits that let *w* vary prefer *w* slightly above −1 today and below −1 in the past, at about 3σ (A18; Notes, Chapter 18). That is a possible warming of “not exactly Λ.” It is not a Rip, and it is not a recollapse.
 
@@ -579,7 +583,7 @@ Bounce: a passage from contraction to expansion requires NEC violation (17) or a
 
 ---
 
-## A44. The Problem of Time in Quantum Gravity
+## A45. The Problem of Time in Quantum Gravity
 
 Wheeler–DeWitt: *Ĥ Ψ = 0* — the Hamiltonian constraint of canonical GR, imposed as an operator on a wavefunctional of 3-geometries. There is no external *t* in the equation. The Schrödinger equation *iħ ∂_t Ψ = Ĥ Ψ* is what you write when a background time already exists. Here the background *is* the thing being quantized. That is the problem of time: the fundamental equation does not contain the variable the chapters used for *H(z)*.
 
@@ -589,7 +593,7 @@ Hartle–Hawking no-boundary: a path integral over compact 4-geometries with no 
 
 ---
 
-## A45. Inventory of Claims, by Temperature
+## A46. Inventory of Claims, by Temperature
 
 **Hot:** expansion, including the Hubble–Lemaître linearization at low *z*; CMB blackbody at *T₀ = 2.72548 K* plus *ΔT/T ~ 10⁻⁵* anisotropies and acoustic peaks; BBN light elements (*Y_p*, D/H) at the order the third minute predicts; *Ω_b*, *Ω_c*, *Ω_Λ* to tens of percent; horizons of the Schwarzschild/Kerr kind (orbits, shadows, ringdowns); no universal now (Hafele–Keating; GPS; muon *γ*); accelerating expansion (Type Ia; BAO; CMB).
 
@@ -631,7 +635,7 @@ Rows (1)–(17) are formulas. The last row is a rule this book refuses to disgui
 
 Years and publishers are here so a shelf can be fetched. The notes cite papers in place, with the year and the venue, and that citation is the bibliography entry. This list is the next reading, not a second copy of those notes. Together they are the shelf.
 
-**Named in the text:** Albert A. Michelson and Edward W. Morley, “On the Relative Motion of the Earth and the Luminiferous Ether,” *American Journal of Science* 34 (1887): 333–345. Henri Poincaré, “La mesure du temps,” *Revue de métaphysique et de morale* 6 (1898): 1–13. Albert Einstein, “On the Electrodynamics of Moving Bodies,” *Annalen der Physik* 17 (1905): 891–921. Hermann Minkowski, “Space and Time,” lecture, Cologne, 21 September 1908, *Physikalische Zeitschrift* 10 (1909): 104–111. J. C. Hafele and Richard E. Keating, “Around-the-World Atomic Clocks,” *Science* 177 (1972): 166–170. C. W. Rietdijk, “A Rigorous Proof of Determinism Derived from the Special Theory of Relativity,” *Philosophy of Science* 33 (1966): 341–344. Hilary Putnam, “Time and Physical Geometry,” *Journal of Philosophy* 64 (1967): 240–247. Neil Ashby, “Relativity in the Global Positioning System,” *Living Reviews in Relativity* 6 (2003): 1. The Andromeda walk is in Roger Penrose, *The Emperor’s New Mind* (Oxford University Press, 1989), also on the loops shelf below. Adam G. Riess and colleagues, “Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant,” *Astronomical Journal* 116 (1998): 1009–1038. S. Perlmutter and colleagues, “Measurements of Omega and Lambda from 42 High-Redshift Supernovae,” *Astrophysical Journal* 517 (1999): 565–586. Steven Weinberg, “Anthropic Bound on the Cosmological Constant,” *Physical Review Letters* 59 (1987): 2607–2610. Planck Collaboration, “Planck 2018 results. VI. Cosmological parameters,” *Astronomy & Astrophysics* 641 (2020): A6. J. B. Hartle and S. W. Hawking, “Wave function of the Universe,” *Physical Review D* 28 (1983): 2960–2975. Alexander Vilenkin, “Creation of Universes from Nothing,” *Physics Letters B* 117 (1982): 25–28. DESI Collaboration, “DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations,” arXiv:2404.03002 (2024), where the drifting-*w* conversation began; superseded by DESI DR2 (arXiv:2503.14738, 2025) and the 2026 analyses listed in the Notes and Sources for Chapter 18 and A43.
+**Named in the text:** Albert A. Michelson and Edward W. Morley, “On the Relative Motion of the Earth and the Luminiferous Ether,” *American Journal of Science* 34 (1887): 333–345. Henri Poincaré, “La mesure du temps,” *Revue de métaphysique et de morale* 6 (1898): 1–13. Albert Einstein, “On the Electrodynamics of Moving Bodies,” *Annalen der Physik* 17 (1905): 891–921. Hermann Minkowski, “Space and Time,” lecture, Cologne, 21 September 1908, *Physikalische Zeitschrift* 10 (1909): 104–111. J. C. Hafele and Richard E. Keating, “Around-the-World Atomic Clocks,” *Science* 177 (1972): 166–170. C. W. Rietdijk, “A Rigorous Proof of Determinism Derived from the Special Theory of Relativity,” *Philosophy of Science* 33 (1966): 341–344. Hilary Putnam, “Time and Physical Geometry,” *Journal of Philosophy* 64 (1967): 240–247. Neil Ashby, “Relativity in the Global Positioning System,” *Living Reviews in Relativity* 6 (2003): 1. The Andromeda walk is in Roger Penrose, *The Emperor’s New Mind* (Oxford University Press, 1989), also on the loops shelf below. Adam G. Riess and colleagues, “Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant,” *Astronomical Journal* 116 (1998): 1009–1038. S. Perlmutter and colleagues, “Measurements of Omega and Lambda from 42 High-Redshift Supernovae,” *Astrophysical Journal* 517 (1999): 565–586. Steven Weinberg, “Anthropic Bound on the Cosmological Constant,” *Physical Review Letters* 59 (1987): 2607–2610. Planck Collaboration, “Planck 2018 results. VI. Cosmological parameters,” *Astronomy & Astrophysics* 641 (2020): A6. J. B. Hartle and S. W. Hawking, “Wave function of the Universe,” *Physical Review D* 28 (1983): 2960–2975. Alexander Vilenkin, “Creation of Universes from Nothing,” *Physics Letters B* 117 (1982): 25–28. DESI Collaboration, “DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations,” arXiv:2404.03002 (2024), where the drifting-*w* conversation began; superseded by DESI DR2 (arXiv:2503.14738, 2025) and the 2026 analyses listed in the Notes and Sources for Chapter 18 and A44.
 
 **Start here:** Steven Weinberg, *The First Three Minutes* (Basic Books, 1977; updated edition 1993). John D. Barrow, *The Origin of the Universe* (Basic Books / Science Masters, 1994). Barbara Ryden, *Introduction to Cosmology*, 2nd ed. (Cambridge University Press, 2017). Katie Mack, *The End of Everything (Astrophysically Speaking)* (Scribner, 2020).
 
@@ -643,7 +647,7 @@ Years and publishers are here so a shelf can be fetched. The notes cite papers i
 
 **Second origins:** Stephen Jay Gould, *Wonderful Life: The Burgess Shale and the Nature of History* (W. W. Norton, 1989). Francis Crick, “The Origin of the Genetic Code,” *Journal of Molecular Biology* 38 (1968): 367–379. A. G. Cairns-Smith, *Genetic Takeover and the Mineral Origins of Life* (Cambridge University Press, 1982).
 
-**Loops, selves, and the two incompleteness morals:** Douglas Hofstadter, *Gödel, Escher, Bach* (Basic Books, 1979) and *I Am a Strange Loop* (Basic Books, 2007) — tangled hierarchies, the nest as a mind, incompleteness as self-reference. The opposite moral, mind as not a program, is Roger Penrose, *The Emperor’s New Mind* (Oxford University Press, 1989) and *Shadows of the Mind* (Oxford University Press, 1994). This book’s own statement of both morals is Appendix A40. Hugh Everett III, “Relative State Formulation of Quantum Mechanics,” *Reviews of Modern Physics* 29 (1957): 454–462. John S. Bell, “On the Einstein Podolsky Rosen Paradox,” *Physics* 1 (1964): 195–200.
+**Loops, selves, and the two incompleteness morals:** Douglas Hofstadter, *Gödel, Escher, Bach* (Basic Books, 1979) and *I Am a Strange Loop* (Basic Books, 2007) — tangled hierarchies, the nest as a mind, incompleteness as self-reference. The opposite moral, mind as not a program, is Roger Penrose, *The Emperor’s New Mind* (Oxford University Press, 1989) and *Shadows of the Mind* (Oxford University Press, 1994). This book’s own statement of both morals is Appendix A41. Hugh Everett III, “Relative State Formulation of Quantum Mechanics,” *Reviews of Modern Physics* 29 (1957): 454–462. John S. Bell, “On the Einstein Podolsky Rosen Paradox,” *Physics* 1 (1964): 195–200.
 
 **Avoid as physics:** Tipler’s Omega Point as required law; any string text that forgets the standing rule numbered (18), which is not a formula.
 
@@ -719,7 +723,7 @@ Years and publishers are here so a shelf can be fetched. The notes cite papers i
 
 **Bekenstein bound.** Entropy of a region scales with area, not volume. Chapter 23 and equation (16).
 
-**Chronology protection.** Hawking’s conjecture that a would-be time machine destroys itself. Not a theorem. Appendix A35.
+**Chronology protection.** Hawking’s conjecture that a would-be time machine destroys itself. Not a theorem. Appendix A36.
 
 **NEC.** Null energy condition. Traversable throats need it violated. Equation (17).
 
@@ -741,11 +745,11 @@ Years and publishers are here so a shelf can be fetched. The notes cite papers i
 
 **Permit.** A world you can weigh, close enough that delay, dirt, and a date are the invoice. Chapter 25. Not a downtown, and not a handle.
 
-**Look first.** Taste the plume, or melt the hole, before you open the library. Seed later. Chapter 32.
+**Look first.** Taste the plume, or melt the hole, before you open the library. Seed later. Chapter 33.
 
-**Pattern engine.** A machine that completes a phrase, folds a protein, or aims a tool. Not, by that talent, a century-stable crew. Chapter 31.
+**Pattern engine.** A machine that completes a phrase, folds a protein, or aims a tool. Not, by that talent, a century-stable crew. Chapter 32.
 
-**Azotosome.** A proposed membrane for a cold methane lake. The case that those skins would hold has gone against them. Cold. Chapter 30.
+**Azotosome.** A proposed membrane for a cold methane lake. The case that those skins would hold has gone against them. Cold. Chapter 31.
 
 **Technosignature.** A leak a civilization did not mean as a letter: waste heat, a gas out of balance, a radio we already know how to make. Not a hello.
 
@@ -757,6 +761,6 @@ Years and publishers are here so a shelf can be fetched. The notes cite papers i
 
 **Biosignature.** A disequilibrium that wants a story: two gases that should have eaten each other and have not. “It looks green” is not one.
 
-**Panspermia.** A seed that traveled, sloppy or on purpose. Our exact dictionary under someone else’s ice would be this, or contamination. Chapter 32.
+**Panspermia.** A seed that traveled, sloppy or on purpose. Our exact dictionary under someone else’s ice would be this, or contamination. Chapter 33.
 
 **Frozen accident.** Crick’s name for a working code that later edits would break all at once, because every protein in the house depends on the dictionary.

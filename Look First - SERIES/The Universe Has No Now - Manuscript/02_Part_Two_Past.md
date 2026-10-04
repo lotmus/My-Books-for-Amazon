@@ -32,7 +32,7 @@ Hot claim: the universe is expanding, and it was hotter and denser in the past. 
 
 Warm claim: the simple expanding model — same in every direction, no special place — is a superb average. Under the average there is a foam of clusters and voids, which we will meet when quantum twitches get their chapter.
 
-Cold claim, which this book will not smuggle in as fact: that the bang was a “beginning of everything” in the kitchen-clock sense, with a waiting room labeled BEFORE. The loaf may have a boundary. “Before” may not be a word that applies. Chapter 44 will sit with that until it stops itching.
+Cold claim, which this book will not smuggle in as fact: that the bang was a “beginning of everything” in the kitchen-clock sense, with a waiting room labeled BEFORE. The loaf may have a boundary. “Before” may not be a word that applies. Chapter 45 will sit with that until it stops itching.
 
 Was there really a bang?
 
@@ -170,7 +170,7 @@ When you look at Figure 9, you are not looking at a place. You are looking at a 
 
 Steven Weinberg gave this interval its fame, and he was right to. Between about a hundredth of a second and a few minutes, the universe did something we can reconstruct with the same nuclear physics we use in the Sun and in weapons labs. Before that, the story gets warmer and then cold. After that, for a long time, not much of nuclear interest happens. The three minutes are a workshop. We still own the tools.
 
-He was not the first to guess that a hot past would cook light nuclei. In 1948 Ralph Alpher and George Gamow published a paper with Hans Bethe added, as a joke, as the middle author, so the names would read α, β, γ — alpha, beta, gamma. The αβγ paper argued that the early universe could build nuclei by capturing neutrons, and that a leftover glow should still be around. The capture-chain details were wrong in ways that later work had to repair: you cannot climb the whole periodic table in three minutes, because there are no stable lodgings at five or eight nucleons. The helium insight was the seed. The leftover-glow insight was the other seed. Weinberg’s book, decades later, is the workshop with the tools calibrated. Gamow’s joke is how the idea first got a table.
+He was not the first to guess that a hot past would cook light nuclei. In 1948 Ralph Alpher and George Gamow published a paper with Hans Bethe added, as a joke, as the middle author, so the names would read α, β, γ — alpha, beta, gamma.[^29] The αβγ paper argued that the early universe could build nuclei by capturing neutrons, and that a leftover glow should still be around. The capture-chain details were wrong in ways that later work had to repair: you cannot climb the whole periodic table in three minutes, because there are no stable lodgings at five or eight nucleons. The helium insight was the seed. The leftover-glow insight was the other seed. Weinberg’s book, decades later, is the workshop with the tools calibrated. Gamow’s joke is how the idea first got a table.
 
 At a hundredth of a second, the temperature is about a hundred billion degrees. No atoms. No nuclei that last. A soup of light, electrons, positrons, neutrinos, and a few leftover nucleons — protons and neutrons — swimming in a glare that would unmake any chemistry you have a word for. The nucleons are outnumbered by photons about a billion to one. That ratio is still written in the sky. It is why the universe is so empty of atoms compared with light, and why we are a footnote in a photon’s memoir. The billion dead twins are the antimatter that did not get a chair. Food, when we get to it, is a later argument about leftovers. The first leftover is this: the soup was unfair, and the unfairness is why there is anyone to eat.
 
@@ -228,7 +228,7 @@ The lithium fight has a name on the stellar side: the Spite plateau, a floor of 
 
 Here is the detail that makes the fossil personal. Every breath you take is mostly nitrogen and oxygen, cooked in stars that died before the Sun was a cloud. The helium in a party balloon is mostly not that. Some of it leaked from Earth’s crust, where uranium and thorium have been throwing helium nuclei like litter for eons. Some of the helium in the *cosmos*, the quarter that is not a party trick, has been helium since before there was a periodic table with more than two honest entries. You cannot hold that helium. You can know it.
 
-Hot claim: the light-element abundances match a hot, expanding workshop[^29] with a known nucleon-to-photon ratio. Warm claim: the remaining lithium tension is a problem for astronomers and nuclear theorists, not a loophole for a cold beginning. Cold claim: any rival origin story that cannot produce this helium is not an origin story. It is a mood.
+Hot claim: the light-element abundances match a hot, expanding workshop[^30] with a known nucleon-to-photon ratio. Warm claim: the remaining lithium tension is a problem for astronomers and nuclear theorists, not a loophole for a cold beginning. Cold claim: any rival origin story that cannot produce this helium is not an origin story. It is a mood.
 
 The leftover glow says the universe was once a mixed, hot fog. The leftover helium says the fog did nuclear work on a three-minute clock. Two fossils, two methods, one past. That is as close as cosmology gets to a courtroom.
 
