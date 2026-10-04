@@ -699,7 +699,7 @@ None of this proves that we are not simulated. A simulator with resources beyond
 - **Evidence beats intuition.** Single particles interfere (Chapter 145), entanglement survives distance (Chapter 150 and Chapter 159), and an unknown state cannot be copied (Chapter 154).
 - **Useful but incomplete models.** The formalism works and has never failed a test, while what it means is still disputed (Chapter 153, Chapter 161 and Chapter 167). Chapter 168 sets out what we actually know.
 
-**Going deeper.** Quanta, Actually, Volume 1 (The Quantum World) covers this ground in depth.
+**Going deeper.** Quantum, Actually, Volume 1 covers this ground in depth.
 
 ## 173. A Different Way of Thinking
 
@@ -1640,7 +1640,7 @@ Finally, the fine-structure constant from Chapter 211 and the Josephson relation
 - **Evidence beats intuition.** The potential acts even where the field is zero (Chapter 174 and Chapter 177), and magnetism is relativity in disguise (Chapter 199).
 - **Useful but incomplete models.** One wire can be described at four levels (Chapter 214 and Chapter 215), each correct within its range. Chapter 220 separates what has been learned from what has not been proven.
 
-**Going deeper.** Quanta, Actually, Volume 2 (The Quantum Conversation) develops the phase-and-potential view in full.
+**Going deeper.** Quantum, Actually, Volume 1, in its second part, develops the phase-and-potential view in full.
 
 ## 223. Complex Numbers and Linear Algebra
 
@@ -2301,4 +2301,4 @@ It is the same kind of merger Maxwell made when electricity and magnetism turned
 - **Evidence beats intuition.** Infinities appear in calculations and vanish from predictions once these are written in terms of measured quantities (Chapter 250). The electron's magnetic moment then agrees with experiment to about one part in a trillion (Chapter 251).
 - **Useful but incomplete models.** QED is an effective theory: extremely accurate at its own scales, and part of the larger Standard Model (Chapter 252).
 
-**Going deeper.** Quanta, Actually, Volume 3 (Complete Quantum Electrodynamics Course) is the full version of this course.
+**Going deeper.** Quantum, Actually, Volume 2, A QED Course, is the full version of this course.

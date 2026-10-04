@@ -8,8 +8,8 @@ Gebühren, Beiträge und Steuersätze bewegen sich. Stand 30. September 2026: Di
 
 Die folgenden Titel sind auf Englisch erschienen.
 
-**Wissenschaft für alle.** *The Quantum World* · *Physics Vol. 1 — Motion, Forces, Time, and Relativity* · *Physics Vol. 2 — Gravity, Cosmology, and the Limits of Spacetime* · *Physics Vol. 3 — The Standard Model, Chaos, and the Edge of Knowledge* · *The Quantum Conversation*
+**Wissenschaft für alle.** *Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity* · *Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime* · *Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge* · *Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire* · *Quantum, Actually, Volume 2: A QED Course*
 
-**Weitere Sachbücher.** *The Mathematics Tower* · *Foundations of Electronics*
+**Weitere Sachbücher.** *Math, Actually* (vier Bände) · *Foundations of Electronics*
 
-**Romane.** *The Relativistic Investigation Bureau* · *Schrödinger’s Paperwork*
+**Romane.** *The Murder That Hadn't Happened Yet* (The Relativistic Investigation Bureau) · *Schrödinger’s Paperwork*

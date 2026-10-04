@@ -528,7 +528,7 @@ Adding more storage does not close that gap. The gap was never really about a sh
 
 ### The Zombie and What Evolution Says
 
-Philosophers keep a monster around for exactly this argument, the the philosophical zombie, a perfect copy of you that walks, talks, laughs at the right moments, and insists that it feels everything. Inside, though, there is nobody home. If a creature like that is possible even in principle, then perfect behavior is never proof of real experience, and no amount of clever engineering settles the question.
+Philosophers keep a monster around for exactly this argument, the philosophical zombie, a perfect copy of you that walks, talks, laughs at the right moments, and insists that it feels everything. Inside, though, there is nobody home. If a creature like that is possible even in principle, then perfect behavior is never proof of real experience, and no amount of clever engineering settles the question.
 
 If a creature like that is impossible, then any system that genuinely does everything you do must also feel what you feel. That single fork in the road is the whole remaining philosophical hurdle. Everything else in this chapter can, in principle, be matched by engineering without ever crossing it. Reject the zombie, and eventual equality between brains and machines becomes possible.
 

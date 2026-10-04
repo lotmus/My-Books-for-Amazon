@@ -96,10 +96,9 @@ ALSO_BY = [
         ('Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic', None),
         ('Math, Actually, Volume 3: From Differential Equations to Abstract Algebra', None),
         ('Math, Actually, Volume 4: From Category Theory to the Frontier', None)]),
-    ('Quanta, Actually', [
-        ('Quanta, Actually, Volume 1: The Quantum World', None),
-        ('Quanta, Actually, Volume 2: The Quantum Conversation', None),
-        ('Quanta, Actually, Volume 3: Complete Quantum Electrodynamics Course', None)]),
+    ('Quantum, Actually', [
+        ('Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire', None),
+        ('Quantum, Actually, Volume 2: A QED Course', None)]),
     ('Science Sparks', [
         ('Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights', None)]),
     ('Look First', [
@@ -811,8 +810,8 @@ WHO_FOR = [
     "five different interests.",
     "Where a topic deserves more room than an atlas can give it, a short note points to the "
     "deeper books in the same family: Physics, Actually (three volumes), Life, Actually, "
-    "Math, Actually (four volumes) and Quanta, Actually (The Quantum World, The Quantum "
-    "Conversation and the Complete Quantum Electrodynamics Course).",
+    "Math, Actually (four volumes) and Quantum, Actually (Volume 1, from the double slit "
+    "to the superconducting wire, and Volume 2, a QED course).",
     "*Updated through October 2026. Statements that are likely to change, such as mission "
     "schedules, drug approvals and the status of open measurements, are marked \"as of 2026\".*",
 ]

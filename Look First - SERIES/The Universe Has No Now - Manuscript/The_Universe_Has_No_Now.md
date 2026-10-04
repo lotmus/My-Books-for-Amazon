@@ -121,7 +121,7 @@ John D. Barrow’s short book *The Origin of the Universe* is the formal model: 
 
 A book like this should succeed if those recognitions arrive in the chapters, not in this note. If meaning is not scheduled for the end of time, it has to be made in the middle: this copy, this planet, this launch window.
 
-Readers of *The Quantum Conversation*, a book of mine outside this series, will notice a family resemblance: start with the variable that makes the physics simple, not the variable that got discovered first. There, the variable was phase. Here, it is the event.
+Readers of *Quantum, Actually, Volume 1*, a book of mine outside this series, will notice a family resemblance: start with the variable that makes the physics simple, not the variable that got discovered first. There, the variable was phase. Here, it is the event.
 
 ---
 
