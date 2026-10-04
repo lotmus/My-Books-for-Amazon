@@ -2,7 +2,7 @@
 
 ---
 
-## 41. A Filter, Not a Purpose
+## 42. A Filter, Not a Purpose
 
 If the strong nuclear force were a few percent different, carbon would be rarer, or stars would be ruder, or the leftover helium would be a different lie. If the cosmological constant were a few dozen times larger, the shove would have won before the twitches grew up, and there would be no spirals, no kitchens, no one to notice the shove. If electromagnetism were a little stronger, chemistry would be a smaller menu. These are the dimensionless coincidences, and they have been used to sell both wonder and sermons.
 
@@ -14,13 +14,13 @@ Hot, as coincidences go: the numbers are the numbers. *α* is 1/137-ish in every
 
 We do not have a second universe on the bench to compare. We have one leftover glow, one set of constants, one table of nuclei. In that one, water bends, carbon chains, stars last. The look of arrangement is real as a feeling. As an argument it has a hole: we are the sample. Samples taken from the places that permit samples are biased. That is not cynicism. It is how you do not get fooled by your own lungs.
 
-Dicke said a version of this in 1961,[^80] before the leftover glow had even been named in a journal. Dirac had noticed large coincidences between cosmic numbers and atomic ones and wanted a law that made them change with time. Dicke’s reply was ruder and better: observers made of carbon need a universe old enough for stars to have cooked carbon. They will find themselves in a cosmos whose age is a stellar lifetime, give or take. That is not a prediction of a changing gravity. It is a prediction of a sampling rule. Brandon Carter, a dozen years later, gave the sampling rule a name[^81] that has been causing trouble ever since: *anthropic*. The trouble is the noun. *Anthropos* sounds like a crown. The move is a mesh.
+Dicke said a version of this in 1961,[^82] before the leftover glow had even been named in a journal. Dirac had noticed large coincidences between cosmic numbers and atomic ones and wanted a law that made them change with time. Dicke’s reply was ruder and better: observers made of carbon need a universe old enough for stars to have cooked carbon. They will find themselves in a cosmos whose age is a stellar lifetime, give or take. That is not a prediction of a changing gravity. It is a prediction of a sampling rule. Brandon Carter, a dozen years later, gave the sampling rule a name[^83] that has been causing trouble ever since: *anthropic*. The trouble is the noun. *Anthropos* sounds like a crown. The move is a mesh.
 
-![Figure 41. Earth, bright against a dead horizon. A temperate world is where observers find themselves.](Figures/figs/fig41.png)
+![Figure 42. Earth, bright against a dead horizon. A temperate world is where observers find themselves.](Figures/figs/fig41.png)
 
 Weinberg’s move on the cosmological constant is the rare case where the feeling was turned into a number. If Λ is drawn from a wide range, the observers who measure it should find it small enough for galaxies, and not much smaller than that unless something else is at work. The measured value is near that edge. That is interesting. It is not a proof of a menu. It is what a filter looks like when you bother to write it down.
 
-The year was 1987. Galaxies, in the working picture, grow from the twitches of Chapter 14 only if the shove does not win too early. If vacuum energy is large, the stretch accelerates before the overdensities can collapse, and you get a thin fog with no spirals and no kitchens. Weinberg asked what values of Λ a later observer could possibly report.[^30] The answer was an upper bound: not much larger than the matter density at the epoch when galaxies form. If the prior is wide — if many values are on offer, and nothing else picks — then typical observers should find themselves near that edge, not deep in a valley of needless smallness. Eleven years later the bombs of Chapter 18 found a shove of that order. That is the interesting part. It is not a photograph of other valleys. It is a number that *looks like* a cut. Hot as a calculation: if you grant the ensemble, the bound is a bound. Warm as a hint: the measured Λ sits where a filter would put it. Cold as a proof that the ensemble exists.
+The year was 1987. Galaxies, in the working picture, grow from the twitches of Chapter 14 only if the shove does not win too early. If vacuum energy is large, the stretch accelerates before the overdensities can collapse, and you get a thin fog with no spirals and no kitchens. Weinberg asked what values of Λ a later observer could possibly report.[^31] The answer was an upper bound: not much larger than the matter density at the epoch when galaxies form. If the prior is wide — if many values are on offer, and nothing else picks — then typical observers should find themselves near that edge, not deep in a valley of needless smallness. Eleven years later the bombs of Chapter 18 found a shove of that order. That is the interesting part. It is not a photograph of other valleys. It is a number that *looks like* a cut. Hot as a calculation: if you grant the ensemble, the bound is a bound. Warm as a hint: the measured Λ sits where a filter would put it. Cold as a proof that the ensemble exists.
 
 The tidal seas belong here as a humility. We thought “arranged for life” meant a Goldilocks band and a blue marble. Then we found that most of the wet real estate in the solar system might be dark, under ice, squeezed by a giant, uninterested in sunsets. If there is life there, it did not need our sermon. If there is not, the permit was still wider than the sermon. Arrangement, if you must use the word, is sloppy and local, not a tailored suit.
 
@@ -34,9 +34,9 @@ With an ensemble — cheap copies, expensive bubbles, a menu of Λ — the weak 
 
 The Strong Anthropic Principle says the universe *must* permit life. “Must” is a smuggler. It can mean the tautology, the ensemble, or a purpose. Only the first is safe. The Final Anthropic Principle says intelligent processing must arise and must never die out. That is the Omega Point’s moral clause. Chapter 19 already broke its physics. Its morals were never physics.
 
-Unpack the smuggler. “Must,” in the tautology, means: a universe we are looking at, from inside, is one that permitted looking. Allowed. Empty of news. “Must,” in the ensemble, means: among the valleys, the occupied ones are the ones that permit occupation. That is the weak principle again, wearing a louder coat. “Must,” as purpose, means: the loaf was aimed. Aimed by whom, through which channel nature uses, with which leftover in the glow as a serial number? Chapter 34 already asked the watchmaker to clock in. The channel has not spoken. The Final principle is louder still. It does not only want a permit. It wants a forever-mind as a law. The bombs, the leftover glow, and the mixmaster of Chapter 16 declined.
+Unpack the smuggler. “Must,” in the tautology, means: a universe we are looking at, from inside, is one that permitted looking. Allowed. Empty of news. “Must,” in the ensemble, means: among the valleys, the occupied ones are the ones that permit occupation. That is the weak principle again, wearing a louder coat. “Must,” as purpose, means: the universe was aimed. Aimed by whom, through which channel nature uses, with which leftover in the glow as a serial number? Chapter 35 already asked the watchmaker to clock in. The channel has not spoken. The Final principle is louder still. It does not only want a permit. It wants a forever-mind as a law. The bombs, the leftover glow, and the mixmaster of Chapter 16 declined.
 
-The strong principle, in its purpose reading, still deserves its best case.[^82]
+The strong principle, in its purpose reading, still deserves its best case.[^84]
 
 **Its strongest case.** The coincidences are many, independent, and narrow. If one universe is all there is, “we could not have seen otherwise” does not explain why a universe permitting observers exists at all; a firing-squad survivor is right to ask why every shot missed. A purpose, or a law that favors life, would make the coincidences expected rather than lucky.
 
@@ -58,7 +58,7 @@ Do not crown this species for occupying a temperate crust while dark seas, if th
 
 ---
 
-## 42. No Cosmic Craftsman
+## 43. No Cosmic Craftsman
 
 Darwin’s trick, which this book has been circling since the prologue, is that a filter can look like a craftsman if you only see the survivors. The beaks fit the seeds. The fit looks like intent. The intent was death, repeated, in a lot of directions.
 
@@ -68,11 +68,11 @@ He did not start with the trick. He started with a notebook. Islands. Barnacles.
 
 The man on the other side was Wallace. Same mesh, different kitchen, a letter from the Malay Archipelago that arrived in time to make the announcement a joint one. That matters for the method, not for a statue. Two notebooks, two worldlines, one sentence that could have been wrong and was not. Malthus had only meant a sermon about the poor. The rate he named — more mouths than food, if nothing checks — is a filter when you let it run on beaks. Breeders had only meant prettier pigeons. The shed is a proof that a mesh, hurried by a hand, can make a pouter from a rock dove in a career. Nature’s hand is slower and has no taste. The taste is what dies.
 
-![Figure 42. One Galápagos finch on a light ground, beak readable. A filter can look like a craftsman.](Figures/figs/fig42.jpg)
+![Figure 43. One Galápagos finch on a light ground, beak readable. A filter can look like a craftsman.](Figures/figs/fig42.jpg)
 
 The cosmic version is ruder because we cannot see the deaths. If there are dead valleys, they do not send baby pictures. If there are dead tiles, they are out of reach. If there are dead branches, they do not radio. We see a leftover glow that permits spirals, a shove that waited, a nuclear force that permits carbon, a Jupiter that squeezes a moon until a sea stays wet. The craftsman story is the cheap story. The filter story is the one that does not invent a someone.
 
-Hot: this universe permits chemists. Warm: some of the coincidences of Chapter 41 are what a cut looks like, if the draws exist. Cold: a someone numbered the leftover glow. The cold claim has had centuries of poetry and no channel. Beauty is not a serial number. A blue marble is not a signature. A dark sea is a humility, not a second signature. You may still find the glow beautiful. Finding it beautiful is a fact about a worldline. It is not a telegram.
+Hot: this universe permits chemists. Warm: some of the coincidences of Chapter 42 are what a cut looks like, if the draws exist. Cold: a someone numbered the leftover glow. The cold claim has had centuries of poetry and no channel. Beauty is not a serial number. A blue marble is not a signature. A dark sea is a humility, not a second signature. You may still find the glow beautiful. Finding it beautiful is a fact about a worldline. It is not a telegram.
 
 Anthroposophy — a spiritual cosmos arranged around human becoming — is a craftsman story with incense. It does not survive the leftover glow, the three minutes, or the shove. It is not a warm claim that failed. It is a different game. This book does not play it.
 
@@ -80,13 +80,13 @@ Where, then, is God?
 
 If the word means a person who numbered the leftover glow, aimed a river kingdom’s stones, and poured a library into the first ocean — a colleague, larger — then the word is the watchmaker again. The channel nature does not use has not spoken. Beauty is not a serial number. This book will not pretend a gap in the first chemical hour is a detection.
 
-If the word means the reason there is a loaf rather than not, the question is honorable and unanswered. Naming the question is not a theory. It does not predict the helium fraction. It does not fix Λ. It does not open a handle. You may keep the name in a kitchen, the way you keep “now.” Do not promote it to a cosmology. Einstein’s habit, when he said God, was often the order itself — *Deus sive Natura*, a dignity for the metric, not a will. That habit is poetry with a good ear. It still does not give you a prayer that changes a worldline from outside the loaf.
+If the word means the reason there is a universe rather than not, the question is honorable and unanswered. Naming the question is not a theory. It does not predict the helium fraction. It does not fix Λ. It does not open a handle. You may keep the name in a kitchen, the way you keep “now.” Do not promote it to a cosmology. Einstein’s habit, when he said God, was often the order itself — *Deus sive Natura*, a dignity for the metric, not a will. That habit is poetry with a good ear. It still does not give you a prayer that changes a worldline from outside spacetime.
 
 If the word means the laws, you have renamed the equations. Allowed. Empty.
 
 Calling the Friedmann equation God does not make the stretch kinder. Calling the leftover glow a hymn does not change its temperature. Rename if the rename keeps you from treating the mesh as a someone. Do not imagine the rename added a will.
 
-The devil is the same furniture with the sign flipped. A cosmic adversary who wants the host to lose is a craftsman of evil, and Chapter 30 already fired that hire: survival at all cost is a fitness peak, not a personality. Death keeps the score. Entropy is the arrow we borrowed from a smooth beginning, not a being who likes ashes. Suffering is real. It happens on threads. It does not become a second deity because we need someone to blame who is not the filter. You may use the old words for the old dread. The field equation will not countersign them.
+The devil is the same furniture with the sign flipped. A cosmic adversary who wants the host to lose is a craftsman of evil, and Chapter 31 already fired that hire: survival at all cost is a fitness peak, not a personality. Death keeps the score. Entropy is the arrow we borrowed from a smooth beginning, not a being who likes ashes. Suffering is real. It happens on threads. It does not become a second deity because we need someone to blame who is not the filter. You may use the old words for the old dread. The field equation will not countersign them.
 
 What we *can* be is a local craftsman. The greenhouse is a beak we built for a seed we brought. The melt-probe is a beak for a dark sea. The library is a beak for a future dirt. That is not the universe arranging itself. That is a worldline arranging a room. The difference is the whole moral, if a cosmology book is allowed one: do not wait for the loaf to love you. Do not require the ending to compute you back. Grow the basil. Taste the plume. Send the machine. Admit that it may fail. Call that, if you need a word, meaning — and keep it off the gravitational field equation. Meaning, on this reading, is not scheduled at a crunch and not denied by heat death. It is a project on a thread. Projects can fail. That is what keeps them off the list of destinies.
 

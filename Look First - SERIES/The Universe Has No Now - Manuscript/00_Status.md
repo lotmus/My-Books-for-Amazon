@@ -303,3 +303,47 @@ Two reader reviews (8.6/10, then 8.7/10 with pacing 7.8) asked for source transp
 | **Total without notes** | **113,019** | **101,675** | **-10.0%** |
 
 Still for the author: check Kindle Previewer rendering of the boxes and the map table; re-check every “as of October 2026” box before publishing; decide whether to keep the deeper cuts in Chapters 3–4 and 41–42.
+
+## Pacing round 2, 3 Oct 2026
+
+Lothar’s decisions after the review revision: the Epistemic Map stays in the front matter; the deep cuts stay; the block and Everett stay as this book’s labelled preferences (the Chapter 41 summary now says “this book’s preferred interpretation and not a result”); no Kindle Previewer pass.
+
+- **Chapter 30 split.** “A Second Origin” (Chapter 30, 2,162 words: food, sex, what would count as a second origin, the visitor’s category error, false positives and negatives, the code and LUCA) and the new **Chapter 31, “Forms Earth Never Hired”** (3,072 words: body plans, minds, cities, missing forms, solvents and Titan, varieties, technosignatures). The book now has 46 chapters. Chapters 31–45 became 32–46; every “Chapter N”, “AN”, figure number, reading path, and the front-matter photo credits were renumbered and checked by script (no reference points outside 1–46 or A0–A46).
+- **Appendix.** A30 split into A30 “Second Origins, the Code, and What Life Eats” and A31 “Other Chemistries, Missing Body Plans”; A31–A45 became A32–A46.
+- **Figures.** New Figure 31 (`Figures/figs/fig46.png`, liquid ranges of five solvents at 1 atm, from `draw_spacetime_figs.py`). Printed figure numbers follow chapter numbers; file names did not change (`CHAPTER_FIG` in `build_docx.py`; note in `Figures/CREDITS.md` and `Figures/README.md`).
+- **Chapter 35 (was 34) tightened** where it re-explained Chapters 32–41 (the “where would it come from” list, the relativity/quantum paragraph, the closing). Fact fixes there: the Pentagon released the UAP videos in 2020; the 2021 intelligence assessment; a targeting pod (not a wing camera); Proxima round trip about eight and a half years.
+- **Motif thinning.** “Loaf” kept only where it introduces a distinction (handle on the loaf, local manners, a loop as a shape, the foliation line, the problem of time). Redundant “woman in the greenhouse” callbacks now use Mara’s name. Physics fix in Chapter 36: Mara can *hear* twenty minutes ago; she cannot radio it.
+- **Other fixes.** Dale Russell’s 1982 dinosauroid was tailless; theropods ran for more than 150 million years; Movile Cave wording; Titan surface 93.65 K and 1.467 bar (Huygens, new note); αβγ paper (new note). Notes now 92.
+
+| Chapter | Before (round 1) | After | Change |
+|---|---:|---:|---:|
+| Ch 30 → 30 + 31 | 5,967 | 5,234 | -12.3% |
+| Ch 25 | 1,672 | 1,673 | +0.1% |
+| Ch 26 | 1,598 | 1,590 | -0.5% |
+| Ch 27 | 1,766 | 1,754 | -0.7% |
+| Ch 28 | 1,536 | 1,526 | -0.7% |
+| Ch 29 | 1,702 | 1,701 | -0.1% |
+| Ch 31 → 32 | 1,827 | 1,827 | +0.0% |
+| Ch 32 → 33 | 1,799 | 1,799 | +0.0% |
+| Ch 33 → 34 | 1,441 | 1,428 | -0.9% |
+| Ch 34 → 35 | 2,784 | 2,228 | -20.0% |
+| Ch 35 → 36 | 2,214 | 2,149 | -2.9% |
+| Ch 36 → 37 | 1,476 | 1,462 | -0.9% |
+| Ch 37 → 38 | 1,383 | 1,383 | +0.0% |
+| Ch 38 → 39 | 1,876 | 1,876 | +0.0% |
+| Ch 39 → 40 | 1,947 | 1,947 | +0.0% |
+| Ch 40 → 41 | 2,250 | 2,247 | -0.1% |
+| Ch 41 → 42 | 1,865 | 1,865 | +0.0% |
+| Ch 42 → 43 | 1,207 | 1,206 | -0.1% |
+| Ch 43 → 44 | 1,127 | 1,127 | +0.0% |
+| Ch 44 → 45 | 1,786 | 1,781 | -0.3% |
+| Ch 45 → 46 | 1,622 | 1,619 | -0.2% |
+| **Chapters total** | **82,741** | **81,318** | **-1.7%** |
+
+| Motif | Before (round 1) | After |
+|---|---:|---:|
+| loaf | 162 | 108 |
+| greenhouse | 63 | 45 |
+| radio | 43 | 37 |
+| basil | 20 | 17 |
+| drawers | 34 | 33 |

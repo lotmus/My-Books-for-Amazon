@@ -2,6 +2,7 @@
 # Seven clean line diagrams, grayscale-safe (meaning never carried by color alone):
 #   sd1 simultaneity, sd2 light cones, sd3 twin proper time, sd4 FLRW horizons (computed),
 #   sd5 CTC vs ordinary delay, sd6 four kinds of elsewhere, sd7 foliation vs worldline.
+#   fig46 (3 Oct 2026): Chapter 31 figure, liquid ranges of five solvents at 1 atm.
 # Output: Figures/figs/sdN_*.png, 1800 x 1350 px (6 x 4.5 in at 300 dpi), RGB.
 # Run:  python Figures\draw_spacetime_figs.py
 import os, math
@@ -249,6 +250,36 @@ def sd7():
     f.suptitle("A foliation is how you file the loaf; it is not how you travel", fontsize=13, y=0.98)
     save(f, "sd7_foliation_worldline.png")
 
+def fig46():
+    # Chapter 31 figure (added 3 Oct 2026): liquid ranges at 1 atm (melting to boiling point, kelvin).
+    # Values: water 273.15-373.15; ammonia 195.4-239.8; methane 90.7-111.7; ethane 90.4-184.6;
+    # sulfuric acid (98%) about 283-610 (it decomposes near its boiling point).
+    rows = [("water", 273.15, 373.15, "solid"), ("ammonia", 195.4, 239.8, "hatch"),
+            ("methane", 90.7, 111.7, "hatch"), ("ethane", 90.4, 184.6, "hatch"),
+            ("sulfuric acid", 283.0, 610.0, "dash")]
+    f = fig(); ax = f.add_axes([0.2, 0.17, 0.74, 0.66])
+    for i, (name, lo, hi, sty) in enumerate(rows):
+        y = len(rows) - 1 - i
+        if sty == "solid":
+            ax.add_patch(Rectangle((lo, y - 0.3), hi - lo, 0.6, facecolor=K, edgecolor=K))
+        elif sty == "hatch":
+            ax.add_patch(Rectangle((lo, y - 0.3), hi - lo, 0.6, facecolor="white", edgecolor=K, hatch="///", lw=1.6))
+        else:
+            ax.add_patch(Rectangle((lo, y - 0.3), hi - lo, 0.6, facecolor=LG, edgecolor=K, lw=1.6, ls="--"))
+        ax.text(hi + 6, y, f"{lo:.0f}\u2013{hi:.0f} K", ha="left", va="center", fontsize=10, color=G,
+                bbox=dict(facecolor="white", edgecolor="none", pad=1))
+    ax.axvline(94, color=K, lw=2.2, ls=(0, (2, 2)))
+    ax.text(100, -0.75, "Titan surface, 94 K", fontsize=10, va="center")
+    ax.axvline(288, color=G, lw=1.4, ls=":")
+    ax.text(295, len(rows) - 0.45, "Earth average, about 288 K", fontsize=10, color=G, va="bottom")
+    ax.set_xlim(0, 700); ax.set_ylim(-1.0, len(rows) - 0.2)
+    ax.set_yticks([len(rows) - 1 - i for i in range(len(rows))]); ax.set_yticklabels([r[0] for r in rows], fontsize=12)
+    ax.tick_params(axis="y", length=0)
+    ax.set_xlabel("temperature (kelvin), at one atmosphere")
+    for s in ("top", "right", "left"): ax.spines[s].set_visible(False)
+    f.suptitle("Where five solvents stay liquid", fontsize=14, y=0.96)
+    save(f, "fig46.png")
+
 if __name__ == "__main__":
-    for fn in (sd1, sd2, sd3, sd4, sd5, sd6, sd7):
+    for fn in (sd1, sd2, sd3, sd4, sd5, sd6, sd7, fig46):
         fn()

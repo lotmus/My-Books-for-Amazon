@@ -26,7 +26,7 @@ Look First, Volume 1.
 
 Photograph credits are not printed under the figures. They are in this file, so a copy that never sees the store page still names its sources.
 
-**Photographs.** Fig 0: Islander61, Wikimedia Commons, CC BY-SA 4.0. Fig 1: Unsplash. Fig 3: NASA/SDO. Fig 4: NASA/ESA/Hubble. Fig 8: NASA/ESA/STScI. Fig 9: ESA and the Planck Collaboration, CC BY 4.0. Fig 14: NASA/ESA/Hubble Heritage Team (STScI/AURA). Fig 16: NASA/JPL-Caltech/IPAC (2MASS, T. Jarrett). Fig 17: NASA/CXC/CfA/M. Markevitch et al.; NASA/STScI; ESO WFI. Fig 18: NASA/ESA/J. Hester and A. Loll (Arizona State University). Fig 20: Event Horizon Telescope Collaboration, CC BY 4.0. Fig 24: NASA/Hubble Heritage Team (STScI/AURA). Fig 25: NASA/JPL-Caltech/MSSS. Fig 29: NASA/JPL-Caltech/SETI Institute. Fig 31: Sasu photography, Wikimedia Commons, CC BY-SA 4.0. Fig 32: Cierra Martin for Crop Trust, Wikimedia Commons, CC BY-SA 2.0. Fig 34: Corrie Barklimore, Wikimedia Commons, CC BY 2.0. Fig 41: NASA. Fig 42: Charles J. Sharp, Wikimedia Commons, CC BY-SA 3.0. Fig 45: NASA/JPL-Caltech. Diagrams are original line art for this book.
+**Photographs.** Fig 0: Islander61, Wikimedia Commons, CC BY-SA 4.0. Fig 1: Unsplash. Fig 3: NASA/SDO. Fig 4: NASA/ESA/Hubble. Fig 8: NASA/ESA/STScI. Fig 9: ESA and the Planck Collaboration, CC BY 4.0. Fig 14: NASA/ESA/Hubble Heritage Team (STScI/AURA). Fig 16: NASA/JPL-Caltech/IPAC (2MASS, T. Jarrett). Fig 17: NASA/CXC/CfA/M. Markevitch et al.; NASA/STScI; ESO WFI. Fig 18: NASA/ESA/J. Hester and A. Loll (Arizona State University). Fig 20: Event Horizon Telescope Collaboration, CC BY 4.0. Fig 24: NASA/Hubble Heritage Team (STScI/AURA). Fig 25: NASA/JPL-Caltech/MSSS. Fig 29: NASA/JPL-Caltech/SETI Institute. Fig 32: Sasu photography, Wikimedia Commons, CC BY-SA 4.0. Fig 33: Cierra Martin for Crop Trust, Wikimedia Commons, CC BY-SA 2.0. Fig 35: Corrie Barklimore, Wikimedia Commons, CC BY 2.0. Fig 42: NASA. Fig 43: Charles J. Sharp, Wikimedia Commons, CC BY-SA 3.0. Fig 46: NASA/JPL-Caltech. Diagrams are original line art for this book.
 
 ---
 
@@ -85,9 +85,9 @@ Before the first chapter, here is the whole book’s method on two pages. Every 
 
 **The general reader.** Read straight through. Skip the shaded boxes on a first pass if you like; the chapters make sense without them. Seven spacetime diagrams carry the geometry: start with Spacetime Diagram 1 in Chapter 1 and Spacetime Diagram 2 in Chapter 3, and the rest will read easily.
 
-**The physics reader.** Read Part I quickly, then Parts II to V with the Appendix open beside them; each chapter has a matching appendix note (Chapter 9 with A9, and so on) where the equations live. The status boxes in Chapters 8, 17, 18, and 39 and the Notes give the current numbers and sources.
+**The physics reader.** Read Part I quickly, then Parts II to V with the Appendix open beside them; each chapter has a matching appendix note (Chapter 9 with A9, and so on) where the equations live. The status boxes in Chapters 8, 17, 18, and 40 and the Notes give the current numbers and sources.
 
-**The philosophy reader.** Read Chapters 1 to 6, then 35 to 37, 40 to 42, and 44 to 45. The **Physics vs philosophy** boxes in Chapters 6, 15, 35, 40, 41, and 44 mark each step from a physical result to an interpretation, and the rival views are stated in their strongest form before they are declined.
+**The philosophy reader.** Read Chapters 1 to 6, then 36 to 38, 41 to 43, and 45 to 46. The **Physics vs philosophy** boxes in Chapters 6, 15, 36, 41, 42, and 45 mark each step from a physical result to an interpretation, and the rival views are stated in their strongest form before they are declined.
 
 **The skeptical reader.** Start with this map and the status boxes. Then read the hot/warm/cold summaries at the end of each chapter, and check any claim that matters to you against its note. Where this book takes a side (the block, Everett, a filter rather than a purpose), it says that it is taking a side.
 
@@ -285,7 +285,7 @@ People find this either depressing or wonderful. Both reactions are allowed. The
 
 A light cone is not a party decoration. From any event — say, you snapping your fingers — draw every path a light ray could take into the future, and every path a light ray could have taken to arrive there from the past. The future cone is everything you can still affect. The past cone is everything that can still affect you. Everything else is *elsewhere*: real, possibly interesting, and unavailable as a cause or an effect of this snap.
 
-Treat the cone as a traffic law. You may go into your future cone. You may have come from your past cone. You may not cut across elsewhere and arrive before the light. The posted limit is *c*. There is no shoulder. A radio, a probe, a letter, a shout across a yard — all of them buy a ticket inside the cone or they do not travel. The law is hot. Every failed attempt to signal faster than light, and every collider that has tried to catch a particle arriving before its own cause, has left the cone unbent. Warm: that no clever geometry later in the book will hand you a legal detour. Cold: that we have checked every cheat. We have not. Chapter 33 will be honest about the proposed ones. They have to break something in the loaf. They do not get to edit the 499 seconds to the Sun.
+Treat the cone as a traffic law. You may go into your future cone. You may have come from your past cone. You may not cut across elsewhere and arrive before the light. The posted limit is *c*. There is no shoulder. A radio, a probe, a letter, a shout across a yard — all of them buy a ticket inside the cone or they do not travel. The law is hot. Every failed attempt to signal faster than light, and every collider that has tried to catch a particle arriving before its own cause, has left the cone unbent. Warm: that no clever geometry later in the book will hand you a legal detour. Cold: that we have checked every cheat. We have not. Chapter 34 will be honest about the proposed ones. They have to break something in the loaf. They do not get to edit the 499 seconds to the Sun.
 
 The night sky is the past cone, printed on the inside of your eye.
 
@@ -391,9 +391,9 @@ Once you are used to worldlines, several puzzles lose their fog.
 
 “Where is the universe expanding *into*?” is a thing-question. Expansion is a change in the distance between worldlines of galaxies, measured at successive meetings with light. There is no need for an outside.
 
-“What happened before the beginning?” is a river-question. If the loaf has a boundary — and it may — then “before” is a word that applies inside the loaf, not to a waiting room outside it. Chapter 44 will take this as far as anyone honestly can.
+“What happened before the beginning?” is a river-question. If the loaf has a boundary — and it may — then “before” is a word that applies inside the loaf, not to a waiting room outside it. Chapter 45 will take this as far as anyone honestly can.
 
-“Can I go back?” is a thread-question. Going back would mean your worldline looping so that it meets an earlier event on itself, or on someone else’s line, in the wrong order. The loaf’s geometry may or may not allow such loops. Ordinary spacetime, the kind we have measured, does not hand them out. Chapters 35 and 36 are about that.
+“Can I go back?” is a thread-question. Going back would mean your worldline looping so that it meets an earlier event on itself, or on someone else’s line, in the wrong order. The loaf’s geometry may or may not allow such loops. Ordinary spacetime, the kind we have measured, does not hand them out. Chapters 36 and 37 are about that.
 
 Keep the temperatures on the path. Hot: clocks that take different trails between two meetings disagree, and the disagreement is the one the geometry ordered. Hot: muons, jets, towers, and phones all keep the same books. Warm: that the books are best read as a block of events with worldlines drawn through them. Cold: that this makes you a prisoner of a drawing. A path can still choose its next step inside its future cone. The drawing is the set of steps. It is not a warden.
 
@@ -443,7 +443,7 @@ There are rivals, and they deserve their best case, not a cartoon.[^16]
 
 **Why this book still declines it.** Growth needs an edge, and an edge that runs across space is a preferred slice again. Ellis says so openly; his model needs a preferred foliation. The asymmetry it wants can be had more cheaply: a low-entropy boundary in the past, plus the way records form. So this book keeps the asymmetry and drops the moving edge. As physics, the evolving block is a research program, not a refuted idea.
 
-The yard does not get kinder if you change the slogan. Mara stands. Eli walks. Their “nows” at M31 differ by days. If only the present is real, they do not share a reality at 2.5 million light-years, while sharing a reality at the fence. If the loaf grows, someone must say which crumbs have already been baked at that distance. A growing edge that both of them can honor is a preferred slice. Preferred slices are extra structure. Extra structure can be added. It has not been measured. Presentism and the growing block meet Andromeda with the same quiet cost: a walk is enough to recut the distant present, and the universe does not appoint a winner. Both views can pay that cost by adding the winner by hand. That is a reading of a hot tilt, not a proof that philosophers must shut up. Decoherence, which the evolving block leans on, is a possibility losing its power to interfere with the others once it leaks into a big, messy environment; Chapter 40 does this properly.
+The yard does not get kinder if you change the slogan. Mara stands. Eli walks. Their “nows” at M31 differ by days. If only the present is real, they do not share a reality at 2.5 million light-years, while sharing a reality at the fence. If the loaf grows, someone must say which crumbs have already been baked at that distance. A growing edge that both of them can honor is a preferred slice. Preferred slices are extra structure. Extra structure can be added. It has not been measured. Presentism and the growing block meet Andromeda with the same quiet cost: a walk is enough to recut the distant present, and the universe does not appoint a winner. Both views can pay that cost by adding the winner by hand. That is a reading of a hot tilt, not a proof that philosophers must shut up. Decoherence, which the evolving block leans on, is a possibility losing its power to interfere with the others once it leaks into a big, messy environment; Chapter 41 does this properly.
 
 This book adopts the block as its working reading of spacetime, chosen for economy and flagged as an interpretation, and then notices where physics puts pressure on it. The arrow of time — why we remember the past and not the future, why eggs break and do not unbreak — is not explained by the block. The block is time-symmetric in its basic laws. The arrow needs a fact about the *boundary*: the early universe was absurdly ordered. Philosophers call it the Past Hypothesis; Sean Carroll has done most to popularize it, and it is why Part II is not optional philosophy. The hot, smooth beginning is the low-entropy end of the loaf. We are downstream of it. That is why there is a difference between looking that way and looking the other way.
 
@@ -457,7 +457,7 @@ So what counts as an observer?
 
 Not a person, first. A person is a late, expensive observer: a nervous system that keeps a model and can be surprised. In the laboratory sense an observer is any degree of freedom that acquires a *record* — a correlation stable enough that you would have to conspire with the whole environment to undo it. A silver grain that darkens. A Geiger tube that clicks. A dust mote whose spin will never again line up with its twin. The leftover glow, last-scattering at 380,000 years, is a record written before any eye. The helium of Chapter 10 is a record written at three minutes. If “observe” means “leave an irreversible trace,” the universe has been observing itself since it was a fog. You were not needed for the fog to have a temperature.
 
-If “observe” means “a mind noticed,” you have added a postulate the amplitudes do not ask for. Wigner can put a friend in a lab and argue about when the wavefunction collapses. That is a quarrel about the word *record*, not a proof that the Moon is a sketch until you look up. Consciousness-causes-collapse is a minority reading with a famous pedigree and, so far, no extra prediction anyone has confirmed. Chapter 40 gives its strongest modern version a fair hearing and says why this book still declines it. Everett does not need it. Decoherence does not need it. Relativity, which already forbade a single now, will not wait while a mind in one kitchen switches Andromeda on.
+If “observe” means “a mind noticed,” you have added a postulate the amplitudes do not ask for. Wigner can put a friend in a lab and argue about when the wavefunction collapses. That is a quarrel about the word *record*, not a proof that the Moon is a sketch until you look up. Consciousness-causes-collapse is a minority reading with a famous pedigree and, so far, no extra prediction anyone has confirmed. Chapter 41 gives its strongest modern version a fair hearing and says why this book still declines it. Everett does not need it. Decoherence does not need it. Relativity, which already forbade a single now, will not wait while a mind in one kitchen switches Andromeda on.
 
 There is a better picture of what a mind *feels like* from the inside, and it does not need a collapse.
 
@@ -515,7 +515,7 @@ Hot claim: the universe is expanding, and it was hotter and denser in the past. 
 
 Warm claim: the simple expanding model — same in every direction, no special place — is a superb average. Under the average there is a foam of clusters and voids, which we will meet when quantum twitches get their chapter.
 
-Cold claim, which this book will not smuggle in as fact: that the bang was a “beginning of everything” in the kitchen-clock sense, with a waiting room labeled BEFORE. The loaf may have a boundary. “Before” may not be a word that applies. Chapter 44 will sit with that until it stops itching.
+Cold claim, which this book will not smuggle in as fact: that the bang was a “beginning of everything” in the kitchen-clock sense, with a waiting room labeled BEFORE. The loaf may have a boundary. “Before” may not be a word that applies. Chapter 45 will sit with that until it stops itching.
 
 Was there really a bang?
 
@@ -659,7 +659,7 @@ When you look at Figure 9, you are not looking at a place. You are looking at a 
 
 Steven Weinberg gave this interval its fame, and he was right to. Between about a hundredth of a second and a few minutes, the universe did something we can reconstruct with the same nuclear physics we use in the Sun and in weapons labs. Before that, the story gets warmer and then cold. After that, for a long time, not much of nuclear interest happens. The three minutes are a workshop. We still own the tools.
 
-He was not the first to guess that a hot past would cook light nuclei. In 1948 Ralph Alpher and George Gamow published a paper with Hans Bethe added, as a joke, as the middle author, so the names would read α, β, γ — alpha, beta, gamma. The αβγ paper argued that the early universe could build nuclei by capturing neutrons, and that a leftover glow should still be around. The capture-chain details were wrong in ways that later work had to repair: you cannot climb the whole periodic table in three minutes, because there are no stable lodgings at five or eight nucleons. The helium insight was the seed. The leftover-glow insight was the other seed. Weinberg’s book, decades later, is the workshop with the tools calibrated. Gamow’s joke is how the idea first got a table.
+He was not the first to guess that a hot past would cook light nuclei. In 1948 Ralph Alpher and George Gamow published a paper with Hans Bethe added, as a joke, as the middle author, so the names would read α, β, γ — alpha, beta, gamma.[^29] The αβγ paper argued that the early universe could build nuclei by capturing neutrons, and that a leftover glow should still be around. The capture-chain details were wrong in ways that later work had to repair: you cannot climb the whole periodic table in three minutes, because there are no stable lodgings at five or eight nucleons. The helium insight was the seed. The leftover-glow insight was the other seed. Weinberg’s book, decades later, is the workshop with the tools calibrated. Gamow’s joke is how the idea first got a table.
 
 At a hundredth of a second, the temperature is about a hundred billion degrees. No atoms. No nuclei that last. A soup of light, electrons, positrons, neutrinos, and a few leftover nucleons — protons and neutrons — swimming in a glare that would unmake any chemistry you have a word for. The nucleons are outnumbered by photons about a billion to one. That ratio is still written in the sky. It is why the universe is so empty of atoms compared with light, and why we are a footnote in a photon’s memoir. The billion dead twins are the antimatter that did not get a chair. Food, when we get to it, is a later argument about leftovers. The first leftover is this: the soup was unfair, and the unfairness is why there is anyone to eat.
 
@@ -717,7 +717,7 @@ The lithium fight has a name on the stellar side: the Spite plateau, a floor of 
 
 Here is the detail that makes the fossil personal. Every breath you take is mostly nitrogen and oxygen, cooked in stars that died before the Sun was a cloud. The helium in a party balloon is mostly not that. Some of it leaked from Earth’s crust, where uranium and thorium have been throwing helium nuclei like litter for eons. Some of the helium in the *cosmos*, the quarter that is not a party trick, has been helium since before there was a periodic table with more than two honest entries. You cannot hold that helium. You can know it.
 
-Hot claim: the light-element abundances match a hot, expanding workshop[^29] with a known nucleon-to-photon ratio. Warm claim: the remaining lithium tension is a problem for astronomers and nuclear theorists, not a loophole for a cold beginning. Cold claim: any rival origin story that cannot produce this helium is not an origin story. It is a mood.
+Hot claim: the light-element abundances match a hot, expanding workshop[^30] with a known nucleon-to-photon ratio. Warm claim: the remaining lithium tension is a problem for astronomers and nuclear theorists, not a loophole for a cold beginning. Cold claim: any rival origin story that cannot produce this helium is not an origin story. It is a mood.
 
 The leftover glow says the universe was once a mixed, hot fog. The leftover helium says the fog did nuclear work on a three-minute clock. Two fossils, two methods, one past. That is as close as cosmology gets to a courtroom.
 
@@ -953,11 +953,11 @@ A destination has a worldline you can aim at. A bubble that nucleated elsewhere,
 
 In many slow-roll models the quantum jitter in the field, per Hubble time, can be larger than the classical roll down the hill. Where the jitter kicks the field *up* the hill, that patch stretches more and the hill remains. Where it kicks down, that patch dumps into soup and becomes a bubble. The stretching patches make more volume than the dumping patches. Volume wins. The boil-over in the next room does not stop because the next room keeps being remade. That is eternal inflation as a mechanism, not as a mood. Linde’s picture is often this self-reproduction on a hill. Vilenkin’s picture is often bubbles nucleating in a false-vacuum sea. The nouns differ. The next-room pot is the same insult: the bursting may not take a holiday.
 
-If the underlying physics has many ways to stop — many valleys for the field to fall into, many sets of effective constants — then different bubbles can freeze out with different laws. That is the expensive copy machine of Chapter 39, and it is where the anthropic filter of Chapter 41 gets its only real job. Weinberg’s argument that the cosmological constant should not be much larger than what still allows galaxies *needs* an ensemble. Eternal inflation plus a landscape is the ensemble people reach for.
+If the underlying physics has many ways to stop — many valleys for the field to fall into, many sets of effective constants — then different bubbles can freeze out with different laws. That is the expensive copy machine of Chapter 40, and it is where the anthropic filter of Chapter 42 gets its only real job. Weinberg’s argument that the cosmological constant should not be much larger than what still allows galaxies *needs* an ensemble. Eternal inflation plus a landscape is the ensemble people reach for.
 
-Do not write the filter here. Chapter 41 will have to say, carefully, what an ensemble is allowed to explain and what it is only allowed to excuse. Here it is enough to see why Weinberg’s Λ is lonely without company. A vacuum energy — a hum of energy that empty space carries even with nothing in it — as small as the one we weigh is a joke if it is a unique, first-principles output of a theory. It is less of a joke if many vacua are tried and we can only find ourselves in one that still makes galaxies. That sentence is a pointer, not a proof. The pointer needs two things this chapter can name and cannot certify: a bursting that never quite stops, and a menu of valleys. The bursting is eternal inflation, Linde and Vilenkin, a live maybe. The menu, in its most advertised form, is a landscape inherited from string theory.
+Do not write the filter here. Chapter 42 will have to say, carefully, what an ensemble is allowed to explain and what it is only allowed to excuse. Here it is enough to see why Weinberg’s Λ is lonely without company. A vacuum energy — a hum of energy that empty space carries even with nothing in it — as small as the one we weigh is a joke if it is a unique, first-principles output of a theory. It is less of a joke if many vacua are tried and we can only find ourselves in one that still makes galaxies. That sentence is a pointer, not a proof. The pointer needs two things this chapter can name and cannot certify: a bursting that never quite stops, and a menu of valleys. The bursting is eternal inflation, Linde and Vilenkin, a live maybe. The menu, in its most advertised form, is a landscape inherited from string theory.
 
-Weinberg, in 1987, asked how large a cosmological constant could be before galaxies fail to form.[^30] The answer is: not much larger than what we weigh. That is an upper bound from the existence of galaxies, not a calculation of the vacuum from first principles. An upper bound of that kind is idle unless many values are tried. One universe, one Λ, and Weinberg’s bound is a coincidence we live inside. Many bubbles, many Λs, and the bound becomes a filter: we could not have found ourselves in the bubbles that shoved too hard, too soon. Chapter 41 is the filter chapter. This chapter only points at the drawer the filter would need. Do not open the drawer and call it a house. Do not write the filter’s sentences here. Point, and leave the pointing visible.
+Weinberg, in 1987, asked how large a cosmological constant could be before galaxies fail to form.[^31] The answer is: not much larger than what we weigh. That is an upper bound from the existence of galaxies, not a calculation of the vacuum from first principles. An upper bound of that kind is idle unless many values are tried. One universe, one Λ, and Weinberg’s bound is a coincidence we live inside. Many bubbles, many Λs, and the bound becomes a filter: we could not have found ourselves in the bubbles that shoved too hard, too soon. Chapter 42 is the filter chapter. This chapter only points at the drawer the filter would need. Do not open the drawer and call it a house. Do not write the filter’s sentences here. Point, and leave the pointing visible.
 
 The landscape, in its most advertised form, comes from string theory. **String theory cannot currently be tested.** A landscape of valleys inherited from an untestable framework is not a measurement. It is a maybe stacked on a maybe. This book will let the stack sit on the table. It will not serve it for dinner.
 
@@ -967,11 +967,11 @@ Figure 15 is a picture of a possibility. It is not a map. Maps have distances yo
 
 There is a further rumor: that the bursting has no beginning, that bubble has always begotten bubble. The Borde–Guth–Vilenkin result says otherwise for a wide class of stretching spacetimes: if the average expansion is positive, the spacetime is past-incomplete. Eternal inflation, even if it has no end, still faces a boundary in the past. The bubbles do not give you a free forever-behind-you. They give you a messier loaf.
 
-Past-incomplete, in the kitchen, means this. Follow a worldline backward through a spacetime that has been stretching, on average, and you run out of geodesic — the straightest path the geometry allows, the trail a free stone or a free clock actually follows — before you run out of curiosity. You do not get a quiet eternity of boiling behind you. You get a boundary, a place where the description stops and a different description — quantum gravity, a bounce, a sentence we do not own — would have to take over. BGV is not a proof that the loaf had a kitchen-clock beginning. It is a proof that *this* kind of forever-behind-you is not for free. The next-room pot does not pay the first-word bill. Chapter 44 will sit with that bill. Here: eternal inflation is not a machine for manufacturing a past without an edge.
+Past-incomplete, in the kitchen, means this. Follow a worldline backward through a spacetime that has been stretching, on average, and you run out of geodesic — the straightest path the geometry allows, the trail a free stone or a free clock actually follows — before you run out of curiosity. You do not get a quiet eternity of boiling behind you. You get a boundary, a place where the description stops and a different description — quantum gravity, a bounce, a sentence we do not own — would have to take over. BGV is not a proof that the loaf had a kitchen-clock beginning. It is a proof that *this* kind of forever-behind-you is not for free. The next-room pot does not pay the first-word bill. Chapter 45 will sit with that bill. Here: eternal inflation is not a machine for manufacturing a past without an edge.
 
 Measure problem, in one sentence: if there are infinitely many bubbles and infinitely many observers, the word “typical” breaks. You cannot say “most universes are like this” until you say how you count. No one has a count that everyone else has to accept. Until they do, “the multiverse predicts X” is a hope in a lab coat.
 
-Volume-weighted counting rewards the patches that stretched longest. Observer-weighted counting tries to ask where a typical observer sits. Pocket-weighted counting treats each dumped soup as one. They disagree. They disagree about whether we are typical, whether the cosmological constant we weigh is typical, whether anything is typical. An ensemble without a measure is a drawer of photographs with no rule for which one is “the” photograph. Chapter 41 will need a rule if it wants the filter to be more than a mood. This chapter’s job is to admit that the drawer is a rumor, and that the rumor is not a destination.
+Volume-weighted counting rewards the patches that stretched longest. Observer-weighted counting tries to ask where a typical observer sits. Pocket-weighted counting treats each dumped soup as one. They disagree. They disagree about whether we are typical, whether the cosmological constant we weigh is typical, whether anything is typical. An ensemble without a measure is a drawer of photographs with no rule for which one is “the” photograph. Chapter 42 will need a rule if it wants the filter to be more than a mood. This chapter’s job is to admit that the drawer is a rumor, and that the rumor is not a destination.
 
 Infinity is the rude guest. If the next-room pot never stops, there are infinitely many dumped soups. Infinitely many observers. Infinitely many values of anything you care to count. A ratio of infinities is not a prediction until you say which infinity sits in the denominator. Different measures are different denominators. They are not a minor bookkeeping quarrel. They change what the rumor is allowed to claim. Until one of them is forced on us by a principle we already trust, “the multiverse predicts X” should be read as “some ways of counting would like X.” That is a thinner sentence. It is the honest one.
 
@@ -979,11 +979,11 @@ Warm claim: inflation *can* be eternal in many models. Cold claim: it is, and we
 
 > **Physics vs philosophy: from inflation to a multiverse**
 >
-> **What the evidence establishes.** The leftover glow is even to a part in a hundred thousand, geometrically flat to within a fraction of a percent, and freckled with a slightly “red” spectrum (*n_s* ≈ 0.965).[^21] A brief early burst of stretching explains all three; no inflaton field has been detected, and the swirl pattern (B-modes) that would confirm gravitational waves from the burst has not been seen.[^31]
+> **What the evidence establishes.** The leftover glow is even to a part in a hundred thousand, geometrically flat to within a fraction of a percent, and freckled with a slightly “red” spectrum (*n_s* ≈ 0.965).[^21] A brief early burst of stretching explains all three; no inflaton field has been detected, and the swirl pattern (B-modes) that would confirm gravitational waves from the burst has not been seen.[^32]
 >
 > **What some physicists infer.** That many models of the burst never stop everywhere, so other bubbles with other effective constants exist. That is a property of models, extrapolated far past any patch we can observe.
 >
-> **What this book infers.** Eternal inflation is a warm feature of a warm theory and a cold claim about the world. No observation we can make reaches another bubble, unless a bubble collision left a disk-shaped mark on the glow; searches have found none.[^32]
+> **What this book infers.** Eternal inflation is a warm feature of a warm theory and a cold claim about the world. No observation we can make reaches another bubble, unless a bubble collision left a disk-shaped mark on the glow; searches have found none.[^33]
 
 Keep the next-room pot on a back burner, not on the dining table. The local burst of Chapter 13 is the working preface to the soup we can taste. The pot that may still be boiling elsewhere is a maybe that the local burst can tell if you let it drink. Letting it drink is allowed. Paying rent with the drink is not.
 
@@ -1073,15 +1073,15 @@ It is not a mood in the equations. The leftover glow’s freckles have a pattern
 
 The leftover helium of Chapter 10 already counted the baryons. There are not enough of them. You cannot hide the extra weight in more hydrogen that forgot to shine. The nuclear minutes already took inventory. The leftover glow’s odd and even acoustic peaks take the same inventory a second way. Two fossils, two methods, one minority of atoms. The extra pull is the difference between that minority and the weight the clocks and the arcs demand.
 
-Candidates have names that sound like card games. WIMPs: heavy, shy particles that would leave a rare cough in an underground tank. Axions: wisps from an old fix to nuclear physics, convertible into photons in a magnetic field if you listen with a sufficiently obsessive radio. Sterile neutrinos: a shy cousin of the neutrinos we already know. None of them has been caught in the act. The tanks have gotten very quiet. XENON, a vat of noble liquid under a mountain in Italy, listens for WIMP coughs and hears the Earth’s radioactivity and the Sun’s neutrinos and not much else. LZ, a larger vat in a South Dakota mine, does the same with a stiller ear. The radios have gotten very proud. The sky has not changed its mind about the pull.[^33][^34]
+Candidates have names that sound like card games. WIMPs: heavy, shy particles that would leave a rare cough in an underground tank. Axions: wisps from an old fix to nuclear physics, convertible into photons in a magnetic field if you listen with a sufficiently obsessive radio. Sterile neutrinos: a shy cousin of the neutrinos we already know. None of them has been caught in the act. The tanks have gotten very quiet. XENON, a vat of noble liquid under a mountain in Italy, listens for WIMP coughs and hears the Earth’s radioactivity and the Sun’s neutrinos and not much else. LZ, a larger vat in a South Dakota mine, does the same with a stiller ear. The radios have gotten very proud. The sky has not changed its mind about the pull.[^34][^35]
 
 WIMPs were the easy hope: weakly interacting massive particles, heavy enough to sit still on galaxy scales, shy enough to pass through a mountain, common enough that a ton of liquid xenon should, over a year, record a few recoils. The year keeps ending without the recoils. Axions were a patch Peccei and Quinn wrote for a problem in the strong force; if they exist at the right mass they can be the halo, and a magnetic cavity can try to turn them into a microwave whisper. The whisper has not arrived. Sterile neutrinos are a shy extra flavor that would not join the usual weak interactions; some recipes make them cold enough to scaffold galaxies, some make them warm enough to erase dwarf galaxies we can still see. None of the three has been caught in the act. That silence is a scientific result, not a failure of nerve. A WIMP at the mass and interaction strength that would have made the tanks cough by now is, to a first approximation, not there. The window has not slammed shut on every mass. It has slammed shut on the masses that were supposed to be easy.
 
 > **Status as of October 2026: dark-matter searches**
 >
-> **Measured.** The extra pull itself: galaxy rotation, lensing, the Bullet Cluster, and the peaks of the leftover glow.[^35][^36][^21]
+> **Measured.** The extra pull itself: galaxy rotation, lensing, the Bullet Cluster, and the peaks of the leftover glow.[^36][^37][^21]
 >
-> **Searched for, not found.** The largest xenon detectors, LZ in South Dakota and XENONnT in Italy, have reported no convincing WIMP signal.[^33][^34] In September 2026 LZ reported a single unusual event in an extended energy window, at a significance of about 2.6 standard deviations once the size of the search is accounted for: worth watching, not a discovery.[^37]
+> **Searched for, not found.** The largest xenon detectors, LZ in South Dakota and XENONnT in Italy, have reported no convincing WIMP signal.[^34][^35] In September 2026 LZ reported a single unusual event in an extended energy window, at a significance of about 2.6 standard deviations once the size of the search is accounted for: worth watching, not a discovery.[^38]
 >
 > **Open.** Axions, lighter or heavier WIMPs, sterile neutrinos, primordial black holes in some mass windows, and modified gravity (which must still explain the Bullet). A detection in a tank, or a signal in the sky that only one candidate can produce, would change this box.
 
@@ -1145,9 +1145,9 @@ Quintessence would have an equation of state *w* that can wander a little. Einst
 
 > **Status as of October 2026: is dark energy constant?**
 >
-> **Measured.** The expansion is accelerating, and a shove makes up about two-thirds of the budget.[^38][^39][^21]
+> **Measured.** The expansion is accelerating, and a shove makes up about two-thirds of the budget.[^39][^40][^21]
 >
-> **Contested.** The DESI survey’s 2025 maps of the frozen sound-scale, combined with the leftover glow, prefer a shove that weakens with time at about 3 standard deviations, rising to about 4 with one supernova sample and falling below 3 with another.[^24] A July 2026 DESI analysis that adds the shape of the hydrogen forest gives 2.7 to 3.2 standard deviations, with the same direction of drift.[^40] The Dark Energy Survey’s full six-year result reports *w* ≈ −0.82 today and drifting, at about 3 standard deviations with the glow.[^41] A Bayesian reanalysis finds no decisive evidence, and a recalibration of one supernova sample removes much of the preference.[^42]
+> **Contested.** The DESI survey’s 2025 maps of the frozen sound-scale, combined with the leftover glow, prefer a shove that weakens with time at about 3 standard deviations, rising to about 4 with one supernova sample and falling below 3 with another.[^24] A July 2026 DESI analysis that adds the shape of the hydrogen forest gives 2.7 to 3.2 standard deviations, with the same direction of drift.[^41] The Dark Energy Survey’s full six-year result reports *w* ≈ −0.82 today and drifting, at about 3 standard deviations with the glow.[^42] A Bayesian reanalysis finds no decisive evidence, and a recalibration of one supernova sample removes much of the preference.[^43]
 >
 > **Not yet known.** Whether the drift is real physics or an unmodeled systematic. Particle physicists conventionally ask for 5 standard deviations before calling a discovery; none of these results reaches it. The next DESI and Euclid releases, and the Rubin Observatory’s supernovae, should decide.
 
@@ -1201,7 +1201,7 @@ Perlmutter, Riess, and Schmidt did not set out to probate a metaphysical estate.
 
 Barrow himself, in the short origin book this one uses as a formal model, had a better habit: he would walk you up to a speculation and then call it an idea for ideas. The Final Anthropic Principle — intelligent processing must arise and must never die out — is an idea for ideas that put on a lab coat. Martin Gardner made a joke of the acronym. The joke was unkind. The data have been unkinder.
 
-In the 1986 book the Final Anthropic Principle is stated as a requirement, not a hope: observers come into existence, and once they do, they persist. That is FAP. Gardner, a working skeptic with a magazine column and no patience for cosmic last acts dressed as theorems, suggested that a principle which *demands* eternal observers deserved a cruder expansion of the letters. He did not need the 1998 bombs. He needed only the difference between a condition we observe from — we are here, therefore the universe is the kind of place that can have a here — and a commandment that we must remain. The first is the weak anthropic cut, a likelihood filter, useful once you have an ensemble. The second is a wish with a Latin name. Chapter 41 will give the filter its honest job. Here the job is simpler: FAP is not selected by the leftover glow, the leftover helium, the extra pull, or the extra shove. It is selected by a desire that the story not end without a speaker.
+In the 1986 book the Final Anthropic Principle is stated as a requirement, not a hope: observers come into existence, and once they do, they persist. That is FAP. Gardner, a working skeptic with a magazine column and no patience for cosmic last acts dressed as theorems, suggested that a principle which *demands* eternal observers deserved a cruder expansion of the letters. He did not need the 1998 bombs. He needed only the difference between a condition we observe from — we are here, therefore the universe is the kind of place that can have a here — and a commandment that we must remain. The first is the weak anthropic cut, a likelihood filter, useful once you have an ensemble. The second is a wish with a Latin name. Chapter 42 will give the filter its honest job. Here the job is simpler: FAP is not selected by the leftover glow, the leftover helium, the extra pull, or the extra shove. It is selected by a desire that the story not end without a speaker.
 
 ![Figure 19. Three curves in three line styles: recollapse, coast, accelerate. The one marked data is the accelerating curve.](Figures/figs/fig19.png)
 
@@ -1257,13 +1257,13 @@ A fact about events can still have a radius. That is the useful shock. The sorti
 
 For the Sun, that radius is about three kilometers. The Sun is not a black hole; it is much larger than its Schwarzschild radius, and proud of it. Squeeze the Sun into those three kilometers and the membrane forms. For Earth, the radius is about nine millimeters — a pea, not a city. For a mountain, it is smaller than a nucleus and we do not live in a cartoon. Nature does not squeeze mountains. Nature squeezes the cores of heavy stars. When the core can no longer hold, and the leftover is heavier than the two or three Suns a neutron star can bear, the membrane is not optional. It is what the equations do with that much mass in that little room.
 
-For the object in the middle of the galaxy M87, the radius is comparable to a solar system. Six and a half billion Suns, packed so that the one-way surface is tens of billions of kilometers across.[^43] The Event Horizon Telescope did not photograph the membrane. It photographed the *shadow*: the silhouette of paths that could not escape, against a glowing ring of gas that still could. The picture was released in 2019. It is a radio mosaic from a planet-sized interferometer, not a snapshot from a tourist bus. In 2022 the same collaboration published the hole in our own cellar — Sagittarius A*, four million Suns, a horizon the size of a planetary orbit, flickering on the timescale of a coffee break.[^44] Andrea Ghez and Reinhard Genzel had already timed the stars that whip around that cellar, and taken a Nobel for the timing. The shadow was the picture that matched the clocks.
+For the object in the middle of the galaxy M87, the radius is comparable to a solar system. Six and a half billion Suns, packed so that the one-way surface is tens of billions of kilometers across.[^44] The Event Horizon Telescope did not photograph the membrane. It photographed the *shadow*: the silhouette of paths that could not escape, against a glowing ring of gas that still could. The picture was released in 2019. It is a radio mosaic from a planet-sized interferometer, not a snapshot from a tourist bus. In 2022 the same collaboration published the hole in our own cellar — Sagittarius A*, four million Suns, a horizon the size of a planetary orbit, flickering on the timescale of a coffee break.[^45] Andrea Ghez and Reinhard Genzel had already timed the stars that whip around that cellar, and taken a Nobel for the timing. The shadow was the picture that matched the clocks.
 
 ![Figure 20. The ring and dark center of M87*, enlarged. The shadow of a one-way surface.](Figures/figs/fig20.jpg)
 
 A woman at a console in 2019 — invented, as the How to Read promised; the ring is not — watched the press image load and said, to no one, “That’s a hole.” She was almost right. It is the *absence* of paths. Photons that grazed the photon sphere, a circle at one and a half Schwarzschild radii for a hole that does not spin, can loop and still crawl out to a telescope. Photons that aimed closer cannot. The dark patch is a census of failed escapes. The bright ring is a census of last chances. The membrane itself is not in the JPEG. It is a fact about events the JPEG is allowed to imply.
 
-Hot claim: horizons of this kind exist. Stars orbit something compact and enormous in galactic centers. Mergers ring spacetime and LIGO hears the ring.[^45] The shadow is now a picture. On 14 September 2015 — a Monday, if you like kitchen calendars — a ripple passed through Hanford and Livingston, a few milliseconds apart, the way a fact about two colliding holes should. The event is called GW150914. Two holes, about thirty-six and twenty-nine Suns, finished a dance 1.3 billion light-years from this kitchen and became one hole of about sixty-two Suns. Three Suns’ worth of mass left as gravitational waves. For an instant the glow in those waves outshone, in raw power, every star we can name. The announcement came in February 2016. Since then the catalog has grown: more stellar holes, neutron-star pairs, a zoo of masses no optical telescope had weighed. The ringdown is the loaf settling after a slap. It is as close as we have come to hearing a horizon be a horizon.
+Hot claim: horizons of this kind exist. Stars orbit something compact and enormous in galactic centers. Mergers ring spacetime and LIGO hears the ring.[^46] The shadow is now a picture. On 14 September 2015 — a Monday, if you like kitchen calendars — a ripple passed through Hanford and Livingston, a few milliseconds apart, the way a fact about two colliding holes should. The event is called GW150914. Two holes, about thirty-six and twenty-nine Suns, finished a dance 1.3 billion light-years from this kitchen and became one hole of about sixty-two Suns. Three Suns’ worth of mass left as gravitational waves. For an instant the glow in those waves outshone, in raw power, every star we can name. The announcement came in February 2016. Since then the catalog has grown: more stellar holes, neutron-star pairs, a zoo of masses no optical telescope had weighed. The ringdown is the loaf settling after a slap. It is as close as we have come to hearing a horizon be a horizon.
 
 Warm claim: inside the membrane, Einstein’s theory keeps going until a singularity, a place where the theory itself throws up its hands. The classical interior is a prediction of the same equations that got the shadow and the ringdown right. It is not a photograph. Cold claim: we know what replaces the singularity. We do not. Quantum gravity is a research program. Loop sketches try to bounce. String theory offers replacements — fuzz, a tangle of extra dimensions, a horizon that is not quite a horizon. **String theory cannot currently be tested.** A replacement that cannot be weighed is an idea for ideas, in Barrow’s honest sense, not a second picture to hang beside Figure 20.
 
@@ -1351,7 +1351,7 @@ Appendix A22 writes the four rooms and the pinch. Here, keep the fountain and th
 
 Jacob Bekenstein asked a rude question in the early 1970s: if you throw an encyclopedia into a black hole, where did the information go? If it vanishes, physics has lost its memory. If it stays, it has to stay somewhere that still counts.
 
-The year was 1972, then 1973, papers that made respectable people itchy.[^46] An encyclopedia is a useful kitchen object. It has a finite number of sentences. You can, in principle, count the bits. Drop it down a well and the well gets a little heavier. The horizon grows by a tiny area. If ordinary thermodynamics still applies — if you are not allowed to hide entropy by throwing it into a hole — then the hole itself must gain at least as much unread-ness as the encyclopedia lost to the outside world. Bekenstein argued that the hole’s entropy — its hidden information, its unread library — scales with the *area* of the horizon, not the volume inside. Hawking first thought the idea was wrong, and said so with the confidence of a man who had already proved that horizons only grow. Then, in 1974 and 1975, he found that the same calculation that fixed the coefficient also made the hole glow. A glowing hole has a temperature. A temperature and an energy give you an entropy. The coefficient came out four. The entropy is
+The year was 1972, then 1973, papers that made respectable people itchy.[^47] An encyclopedia is a useful kitchen object. It has a finite number of sentences. You can, in principle, count the bits. Drop it down a well and the well gets a little heavier. The horizon grows by a tiny area. If ordinary thermodynamics still applies — if you are not allowed to hide entropy by throwing it into a hole — then the hole itself must gain at least as much unread-ness as the encyclopedia lost to the outside world. Bekenstein argued that the hole’s entropy — its hidden information, its unread library — scales with the *area* of the horizon, not the volume inside. Hawking first thought the idea was wrong, and said so with the confidence of a man who had already proved that horizons only grow. Then, in 1974 and 1975, he found that the same calculation that fixed the coefficient also made the hole glow. A glowing hole has a temperature. A temperature and an energy give you an entropy. The coefficient came out four. The entropy is
 
 *S = kA / 4ℓ_P²*
 
@@ -1373,7 +1373,7 @@ The glow is a slow leak from the membrane.
 
 In the kitchen version: near the horizon, the vacuum’s jitters get sorted. One part of a jitter falls in. The other part escapes. From far away, the hole is radiating, very slightly, as if it had a temperature. The formula, if you want the shape of it, is *T_H = ħ c³ / (8π G M k)*: colder when heavier, hotter when lighter, Planck’s constant in the numerator so that a purely classical hole would not glow at all. Hawking’s temperature for a solar-mass hole is about 10⁻⁷ kelvin — ten millionths of a degree above absolute zero, a hundred million times colder than the leftover glow in your kitchen. Small holes are hotter. A hole the mass of a mountain would sizzle. A hole the mass of an asteroid would be a brief, rude oven. A hole the mass of a star is colder than the leftover glow and, today, *gains* weight from the sky faster than it leaks. Only in the unimaginably far future, after the leftover glow has thinned, would stellar holes begin to lose.
 
-The leftover glow is 2.725 kelvin. A solar-mass hole, at about 60 billionths of a kelvin, is some forty million times colder than that.[^47] The sky, for now, is a heat bath the hole sits in, and the bath wins. This is why “black holes evaporate” is a true sentence about a later season of the loaf and a false poster about Tuesday. Tuesday, the hole in Cygnus X-1 is getting slightly heavier from the microwave fog and from whatever gas it can steal. The leak is real in the derivation. The leak is not winning.
+The leftover glow is 2.725 kelvin. A solar-mass hole, at about 60 billionths of a kelvin, is some forty million times colder than that.[^48] The sky, for now, is a heat bath the hole sits in, and the bath wins. This is why “black holes evaporate” is a true sentence about a later season of the loaf and a false poster about Tuesday. Tuesday, the hole in Cygnus X-1 is getting slightly heavier from the microwave fog and from whatever gas it can steal. The leak is real in the derivation. The leak is not winning.
 
 If nothing interrupts, the leak eventually takes all the mass. The evaporation time for a solar-mass hole is about 10⁶⁷ years — a one with sixty-seven zeros, a number that makes the 13.8 billion years of the stretch look like a blink in a blink. Barrow would have put that integer on a blackboard and let it sit until someone laughed. The laugh is allowed. The integer is the theory. The hole shrinks, heats, shrinks faster, and ends in a last, small violence. Whether the encyclopedia comes back in the last violence, or came out slowly in the glow, or is written on a remnant, is the information problem. It is unfinished.
 
@@ -1393,7 +1393,7 @@ The last mistake is the door.
 
 A door has two sides you can use. A horizon has two sides you cannot trade. A kitchen door has two knobs. You go out for the mail. You come back for the casserole. The loaf of the house does not mind. You can stand in the yard and still be in the kitchen’s future, and stand in the kitchen and still be in the yard’s future. That is what two knobs *are*: two rooms that keep each other in their cones. A one-way membrane is not that door. Fall in and you do not come out “somewhere else” in this universe with a story to tell. There is no second knob. There is no mail. There is a sorting of events, and you have joined the set that cannot write home.
 
-The flattering picture is always the same. The hole is a gate. The gate leads to a tunnel. The tunnel leads to another kitchen, or another century, or another you. The picture borrows its furniture from doors because doors are the one-way-looking objects we actually own, and because we have all, at least once, wanted a room that was not this one. Physics will not rent you that room at a horizon. The membrane does not open. It sorts. If you want a handle between two exteriors, that is a wormhole, and it is Chapter 33’s problem, and it is not this object. If you want a future in this universe with a story to tell, stay outside.
+The flattering picture is always the same. The hole is a gate. The gate leads to a tunnel. The tunnel leads to another kitchen, or another century, or another you. The picture borrows its furniture from doors because doors are the one-way-looking objects we actually own, and because we have all, at least once, wanted a room that was not this one. Physics will not rent you that room at a horizon. The membrane does not open. It sorts. If you want a handle between two exteriors, that is a wormhole, and it is Chapter 34’s problem, and it is not this object. If you want a future in this universe with a story to tell, stay outside.
 
 In the classical theory you come to a singularity, a ripped place in the loaf, and the theory stops. The geodesics — the straightest paths the geometry allows, the paths free clocks and free stones follow — do not come out. A geodesic that crosses *r_s* reaches *r = 0* in a proper time you can write on a napkin: tens of microseconds for a stellar hole, hours for Sagittarius A*, the better part of a day for a giant like M87*. Those are not transit times to another station. They are the lengths of worldlines that end. They reach, in that finite proper time, a boundary the equations cannot extend through. That is what “singularity” means when it is being honest. It is not a glowing point with a brand name. It is geodesic incompleteness: the paths stop, and the theory that was telling you how they lean has nothing left to say. Appendix A24 writes the line. Here it is enough to refuse the hallway. A path that ends is not a path that arrives in another kitchen.
 
@@ -1407,7 +1407,7 @@ In speculative theory you might come to a bounce, a baby universe, a tangle of e
 
 Extra dimensions offered by string theory come with the standing rule: **the framework cannot currently be tested.** A hallway drawn in an untestable framework is a drawing. It is not a road. Loop-quantum sketches that replace the ripped place with a bounce are a different drawing, also unphotographed, also not a subway. This book will let the drawings sit. It will not sell tickets. A cold interior is allowed. A transit system is a different claim, and it fails even if the cold interior is true, because availability is the whole of what “destination” means. If you cannot call, you did not arrive. If no one can call you, you are not a station.
 
-Wormholes, in Chapter 33, are a different object: a handle, not a membrane. People blur them because both are “holes” and both are associated with Einstein. Do not blur them. One is common and one-way. The other is unphotographed and probably expensive beyond engineering. A wormhole, if nature or a civilization ever held one open, would be a throat between two exteriors you could, in the optimistic diagrams, enter and leave. You would see two mouths, two skies, two knobs, if the metaphor will sit still that long. It needs exotic stress, a violation of the energy conditions the singularity theorems were using as police — a stuff that antigravitates in the throat so the pinch does not slam. The Kruskal throat of Chapter 22 is not that object. That throat pinches in finite proper time and cannot be traversed. The Morris–Thorne kind of handle is a different drawing, built to stay open, and it pays for the staying with matter no kitchen has ever weighed. It is a maybe about a handle on the block. A black hole is not that handle. A black hole is the membrane we have already pictured and heard. Confusing them is how a shadow in a ring becomes, in a careless paragraph, a subway. This book will not be careless. Chapter 33 can spend its own pages on the handle. This page is the refusal.
+Wormholes, in Chapter 34, are a different object: a handle, not a membrane. People blur them because both are “holes” and both are associated with Einstein. Do not blur them. One is common and one-way. The other is unphotographed and probably expensive beyond engineering. A wormhole, if nature or a civilization ever held one open, would be a throat between two exteriors you could, in the optimistic diagrams, enter and leave. You would see two mouths, two skies, two knobs, if the metaphor will sit still that long. It needs exotic stress, a violation of the energy conditions the singularity theorems were using as police — a stuff that antigravitates in the throat so the pinch does not slam. The Kruskal throat of Chapter 22 is not that object. That throat pinches in finite proper time and cannot be traversed. The Morris–Thorne kind of handle is a different drawing, built to stay open, and it pays for the staying with matter no kitchen has ever weighed. It is a maybe about a handle on the block. A black hole is not that handle. A black hole is the membrane we have already pictured and heard. Confusing them is how a shadow in a ring becomes, in a careless paragraph, a subway. This book will not be careless. Chapter 34 can spend its own pages on the handle. This page is the refusal.
 
 A short inventory, so the blur has nowhere to hide. Horizon: a fact about events, one-way, photographed as a shadow, heard as a ringdown. White hole: the time-reverse, undrawn in the sky, unstable. Kruskal throat: a pinch, not a tunnel you can walk. Wormhole: a proposed handle, two-way if it exists, not this chapter, not in the EHT image. Baby universe: a cold pinch-off, not a destination. Singularity: where the geodesics stop, not a station. If a paragraph uses two of those nouns as if they were one noun, the paragraph is a poster. Put it down.
 
@@ -1457,7 +1457,7 @@ She is not waiting for a miracle. She is waiting for a launch window. The next c
 
 The window is not a holiday. It is a fact about two ellipses that lap each other. Every two years and a bit, the cheap path opens: a long fall that spends its fortune at the beginning and the end and lets gravity do the commute. Δv is the invoice — how much extra shove you must buy, in kilometers per second, to leave one well and enter another. The invoice does not care that she is tired. It does not care that a tuber is late. Miss the window and you wait for the next lap. Burn extra to force a path and you pay in propellant you are not holding. She is not drawing a schedule for a nation. She is reading a calendar two planets already wrote.
 
-She names the morning’s jobs the way you name the burners on a stove. pH. Filter. Ice. The stuck door, again, because the seal has a personality in the cold. The rover’s blanket of dust. None of these is a milestone on a poster. None of them founds a town. A town is a later kind of waste, a pile that remembers, and this chapter has not hired one. She has a box, a drill, a radio that talks to yesterday, and a tray.
+She names the morning’s jobs the way you name the burners on a stove. pH. Filter. Ice. The stuck door, again, because the seal has a personality in the cold. The rover’s blanket of dust. None of these is a milestone on a poster. None of them founds a town. A town is a later kind of waste, a pile that remembers, and this chapter has not hired one. She has a box, a drill, a radio that answers a quarter-hour late, and a tray.
 
 ![Figure 25. A rover, large in frame, on bright dusty ground. Dirt, delay, no magic.](Figures/figs/fig25.jpg)
 
@@ -1491,7 +1491,7 @@ The shove of Chapter 18 is why the slot paints shut. In a universe that only coa
 
 How far is the shut door?
 
-Order of sixteen billion light-years, as a proper radius today[^48] — a ball, not a calendar date. Inside that ball, a letter mailed this morning can, in principle, still arrive, late and stretched. Outside it, the letter is a gesture. Appendix A26 writes the integral: a finite remaining commute when the scale factor grows like a compounding interest. Sixteen is not a speed limit on a sign. It is the size of the remaining postal system for new mail. The number will not become a destination. It is a fact about influence, the same species of fact as a hole’s skin, drawn on the whole sky.
+Order of sixteen billion light-years, as a proper radius today[^49] — a ball, not a calendar date. Inside that ball, a letter mailed this morning can, in principle, still arrive, late and stretched. Outside it, the letter is a gesture. Appendix A26 writes the integral: a finite remaining commute when the scale factor grows like a compounding interest. Sixteen is not a speed limit on a sign. It is the size of the remaining postal system for new mail. The number will not become a destination. It is a fact about influence, the same species of fact as a hole’s skin, drawn on the whole sky.
 
 Do not confuse that ball with a different circle people like to draw. The Hubble sphere is where unbound raisins recede at light, today, in the stretch-rate of now. It is a snapshot, not a membrane. Light can still arrive from outside it; light we emit can still, in some cases, arrive inside a future that the event horizon has not yet shut. The event horizon is ruder and more useful for travel: it is about *never*. The Hubble sphere is about *this instant’s slope*. Kitchen: the speedometer is not the locked door. Chapter 8’s line *v = H_0 × d* is the speedometer. Chapter 18’s shove is why the locked door exists at all.
 
@@ -1507,7 +1507,7 @@ Two horizons, two rudenesses. One is about the past we can rebuild. One is about
 
 ![Figure 26. Two nested lines on a simple spacetime wedge, labeled particle horizon and event horizon.](Figures/figs/fig26.png)
 
-The deep field of Chapter 8 is, in this light, a kind of wake. Those galaxies are not destinations. Some of them were already leaving when their light left. The woman in the greenhouse, if she dreams of “the universe,” is dreaming mostly of a museum. The exhibits are real. The gift shop does not sell tickets to the exhibits’ futures.
+The deep field of Chapter 8 is, in this light, a kind of wake. Those galaxies are not destinations. Some of them were already leaving when their light left. Mara, if she dreams of “the universe,” is dreaming mostly of a museum. The exhibits are real. The gift shop does not sell tickets to the exhibits’ futures.
 
 Most galaxies are not destinations. Say it as a temperature. Hot: they are real, they were there, their light is a measurement. Warm: many of them are already outside the event horizon for new signals, or will be, as the shove keeps winning. Cold: that we will one day “go to the Hubble Deep Field,” as if a photograph were a pier. A photograph is an archive. An archive is not a ticket.
 
@@ -1519,7 +1519,7 @@ This is why wormholes and warps get invented. This is why they have to break som
 
 A last kitchen image, because it is the one that sticks. She writes two letters. One is to Earth, timed for the window, a stack of monologues that may yet amount to a plan. That letter is late and allowed. The other she does not write, except in the dream where “the universe” meant the deep field. That letter would be honest feeling and bad physics. Most of the cosmos has already left, not by walking away, but by the dough rising too well. The museum stays open. The gift shop still does not sell tickets. Keep the potatoes. They are in the cone.
 
-Appendix A26 writes the two integrals. Here, keep the two slots and the unsent letter. The particle horizon is an archive that thickens, fog permitting. The event horizon is a postal system that, in an accelerating loaf, has a last address. Sixteen billion light-years is the order of that last address, as a proper radius today — not a pier, not a mission, a fact about which raisins will never read our mail. The woman in the greenhouse can still write to Earth. That is already a lot. It is also the grown-up size of “getting there.”
+Appendix A26 writes the two integrals. Here, keep the two slots and the unsent letter. The particle horizon is an archive that thickens, fog permitting. The event horizon is a postal system that, in an accelerating loaf, has a last address. Sixteen billion light-years is the order of that last address, as a proper radius today — not a pier, not a mission, a fact about which raisins will never read our mail. Mara can still write to Earth. That is already a lot. It is also the grown-up size of “getting there.”
 
 ---
 
@@ -1529,7 +1529,7 @@ Appendix A26 writes the two integrals. Here, keep the two slots and the unsent l
 
 For most of human history, “planet” meant a wanderer you could see, and there were six, then seven, then eight, then a fight about nine. Other suns were assumed, in the way a reasonable person assumes other kitchens exist in other houses. Proof is ruder than assumption. Proof arrived in 1995, as a wobble.
 
-51 Pegasi is an ordinary star, about fifty light-years away toward Pegasus.[^49] Didier Queloz and Michel Mayor watched its spectrum rock, back and forth, every 4.2 days. Something heavy was tugging it — something at least as massive as a fraction of Jupiter, something so close to the fire that a “year” there is a work week. A hot Jupiter. Nobody’s formation story had ordered that dish. The dish arrived anyway. The Nobel, years later, was for the first confirmed planet around a sun-like star, and for the implication that followed like a rude guest: if the first one we found was a monster in the wrong orbit, the sky is not a copy of our living room.
+51 Pegasi is an ordinary star, about fifty light-years away toward Pegasus.[^50] Didier Queloz and Michel Mayor watched its spectrum rock, back and forth, every 4.2 days. Something heavy was tugging it — something at least as massive as a fraction of Jupiter, something so close to the fire that a “year” there is a work week. A hot Jupiter. Nobody’s formation story had ordered that dish. The dish arrived anyway. The Nobel, years later, was for the first confirmed planet around a sun-like star, and for the implication that followed like a rude guest: if the first one we found was a monster in the wrong orbit, the sky is not a copy of our living room.
 
 The Nobel was 2019. Twenty-four years of arguing, confirming, and watching the drawer fill. The prize named Mayor and Queloz, which is how prizes work, and named the implication, which is how science works. 51 Pegasi b is not a place you would put a tray of basil. It is a measurement that broke a template. Templates, in this book, are the enemy of a census.
 
@@ -1537,7 +1537,7 @@ How you find a world you cannot see:
 
 You watch a star dip. A planet crosses its face, and the light falls by a fraction of a percent, a bite out of a cookie, repeating. Kepler sat in space and stared at one patch of sky until the bites numbered in the thousands. TESS is doing the bright, nearby stars. The depth of the bite is the area of the planet compared with the area of the star. A Jupiter in front of a Sun is an easy bite. An Earth in front of a Sun is a nibble you must not invent.
 
-Kepler’s stare was a long look at one crowded patch, faint stars included, until the repeating crumbs piled high enough to be a population. TESS trades depth of stare for a wider, nearer harvest: the bright nearby stars, the ones a later telescope can study. Neither mission walked on a world. Both counted bites. The count is the point. A thousand worlds you will never visit are still a thousand measurements. The woman in the greenhouse can read that file. She cannot drive there.
+Kepler’s stare was a long look at one crowded patch, faint stars included, until the repeating crumbs piled high enough to be a population. TESS trades depth of stare for a wider, nearer harvest: the bright nearby stars, the ones a later telescope can study. Neither mission walked on a world. Both counted bites. The count is the point. A thousand worlds you will never visit are still a thousand measurements. Mara can read that file. She cannot drive there.
 
 The nibble has a number, because this chapter is a census and a census without a number is a mood. Transit depth is roughly the square of the radius ratio. An Earth crossing a Sun takes about eighty-four parts per million of the starlight — eighty-four in a million, a cookie with a crumb missing, a bite you will miss if your photometer is a guess. A Jupiter crossing a Sun takes about one percent, a bite a less fussy instrument can taste. That is why the first rude finds were large and close. Rude is easy. Quiet is the later, better harvest.
 
@@ -1559,13 +1559,13 @@ Most stars, not most posters. A Sun-like star is allowed to have a family. A red
 
 A few catalogs have become characters. TRAPPIST-1 is a cool dwarf with seven Earth-sized worlds packed closer than Mercury, some in the starlight band of the next chapter, all tidally interesting, all flare-threatened. Proxima Centauri, the nearest other sun, has at least one world in a hurry around a brat of a star. K2-18b is a maybe-Hycean: a hydrogen blanket over a slush we have not tasted; JWST has been asked to smell its air, and the smells have been argued like a will.
 
-K2-18b is the sentence to keep at *maybe*. A hydrogen envelope over a water-rich interior is a warm paper. A detection of a molecule in a transmission spectrum is a barcode, not a beach. The arguments have been loud because the public wants a neighbor and the data want a committee. This book will not pick a winner in a courtroom that is still in session. It will say: even a yes would not be a ticket for the woman in the greenhouse.
+K2-18b is the sentence to keep at *maybe*. A hydrogen envelope over a water-rich interior is a warm paper. A detection of a molecule in a transmission spectrum is a barcode, not a beach. The arguments have been loud because the public wants a neighbor and the data want a committee. This book will not pick a winner in a courtroom that is still in session. It will say: even a yes would not be a ticket for Mara.
 
 Atmospheres are the new sport. When a world bites its star, a sliver of starlight threads the air, if there is air, and molecules write barcodes — water, carbon dioxide, methane, the absence of things as loud as their presence. A barcode is not a biosphere. Oxygen can be a lie told by light shredding water and letting hydrogen escape. Methane can be a vent. The pair of them together, out of equilibrium, is a raised eyebrow, not a verdict. Chapter 30 is the verdict’s rulebook.
 
-What exoplanets are *not*: destinations for the woman in the greenhouse. The nearest other sun is four years away at light, four centuries at a hundredth of light. They are a census. They tell us our eight-world house was never the template. They tell us Goldilocks has more chairs than we built. They tell us most chairs are empty of us, and that emptiness is not yet a statement about emptiness of *chemistry*.
+What exoplanets are *not*: destinations for Mara. The nearest other sun is four years away at light, four centuries at a hundredth of light. They are a census. They tell us our eight-world house was never the template. They tell us Goldilocks has more chairs than we built. They tell us most chairs are empty of us, and that emptiness is not yet a statement about emptiness of *chemistry*.
 
-Four years of light to Proxima. That is the mail. The ship is worse. At a hundredth of light speed — already a number that makes chemical rockets look like horses — the cruise is four centuries, plus the problem of slowing down, plus the problem of a grain of dust at that speed becoming a rumor of energy. Chapter 31 is that crew. Chapter 25 is not. She is on a neighbor measured in light-minutes. A hot Jupiter in Pegasus, a packed seven around a cool dwarf, a maybe-Hycean with an argued smell: those are measurements she can read in a file, late by minutes from Earth, late by years from the star. They are not a second greenhouse. They are not a window that opens in twenty-six months. They are a drawer. Open the drawer. Do not pack a bag.
+Four years of light to Proxima. That is the mail. The ship is worse. At a hundredth of light speed — already a number that makes chemical rockets look like horses — the cruise is four centuries, plus the problem of slowing down, plus the problem of a grain of dust at that speed becoming a rumor of energy. Chapter 32 is that crew. Chapter 25 is not. She is on a neighbor measured in light-minutes. A hot Jupiter in Pegasus, a packed seven around a cool dwarf, a maybe-Hycean with an argued smell: those are measurements she can read in a file, late by minutes from Earth, late by years from the star. They are not a second greenhouse. They are not a window that opens in twenty-six months. They are a drawer. Open the drawer. Do not pack a bag.
 
 TRAPPIST-1’s worlds, even the ones that sit in the starlight band, are still tens of light-years of postage. Tidal lock and flares are the next chapter’s invoices. Proxima’s world is the nearest chair and still not a chair she can sit in. The census is allowed to be wonderful without being a pier.
 
@@ -1579,11 +1579,11 @@ Appendix A27 writes transit depth and wobble amplitude. Here, keep the bite in t
 
 ## 28. Where Liquid Water Can Last
 
-Life, as we have actually met it, is a water trick. Other solvents get papers. Water gets the biosphere. So the first map of “somewhere else worth the trip” is a map of where water can stay liquid for a long time. Chapter 30 writes the papers — methane lakes, ammonia mixes, rooms we call poison. This chapter writes the map we already know how to fold.
+Life, as we have actually met it, is a water trick. Other solvents get papers. Water gets the biosphere. So the first map of “somewhere else worth the trip” is a map of where water can stay liquid for a long time. Chapter 31 writes the papers — methane lakes, ammonia mixes, rooms we call poison. This chapter writes the map we already know how to fold.
 
 Around a star, that map is a band. Too close and the oceans boil, or the atmosphere runs away, or the ground becomes a story about steam. Too far and the oceans freeze to the bed. In between is the circumstellar habitable zone, the Goldilocks band, a phrase that has done too much work and still earns its keep. For a Sun-like star the band includes Earth and teases Mars. Venus is the cautionary tale: a sister that kept the wrong blanket and cooked.
 
-Call it a permit, not a promise, before the posters hire the word *habitable* as a hotel rating. The band says: starlight of this much, at this distance, can keep a water ocean liquid *if* the air cooperates, *if* the crust recycles, *if* the volatiles arrived, *if* the luck held. It does not say a biosphere is sitting in the chair. It does not say a greenhouse woman can step out of a suit. It says the star has not, by raw flux alone, forbidden a wet surface. Forbidden is not the same as furnished.
+Call it a permit, not a promise, before the posters hire the word *habitable* as a hotel rating. The band says: starlight of this much, at this distance, can keep a water ocean liquid *if* the air cooperates, *if* the crust recycles, *if* the volatiles arrived, *if* the luck held. It does not say a biosphere is sitting in the chair. It does not say Mara can step out of her suit. It says the star has not, by raw flux alone, forbidden a wet surface. Forbidden is not the same as furnished.
 
 The numbers, for a Sun, have names attached. Kopparapu and colleagues drew conservative edges that are still the ones a careful paper reaches for: a moist-greenhouse inner line, where a stratosphere gets wet and hydrogen starts to leak to space, and a maximum-greenhouse outer line, where even a thick CO₂ blanket cannot keep the water from freezing to the bed. For our Sun those sit, roughly, at about 0.99 and 1.7 astronomical units — Earth just inside the inner caution, Mars in the teasing outer suburbs. Optimistic maps draw wider. Optimistic maps are allowed as a maybe. They are not a second Earth. Appendix A28 writes the flux limits. Here, keep the kitchen: too much stove, too little stove, a band in between that is a permit you can still fail.
 
@@ -1603,11 +1603,11 @@ The rest of the permit is geology and luck, not starlight. Air that does not lea
 
 ![Figure 28. A hatched band around a star; Earth in the band, Mars on the rim.](Figures/figs/fig28.png)
 
-So the grown-up inventory of a starlight band is short. A flux window. A caution named Venus. An expired case named Mars. A crowd of red-dwarf chairs that come with flares and a lock. Super-Earths and mini-Neptunes may sit in the window and still wear a blanket we would not call air. The woman in the greenhouse is not waiting on those chairs. She is running a local trick on a rim-world whose permit already failed. Other suns, other bands: a census, not a pier.
+So the grown-up inventory of a starlight band is short. A flux window. A caution named Venus. An expired case named Mars. A crowd of red-dwarf chairs that come with flares and a lock. Super-Earths and mini-Neptunes may sit in the window and still wear a blanket we would not call air. Mara is not waiting on those chairs. She is running a local trick on a rim-world whose permit already failed. Other suns, other bands: a census, not a pier.
 
 Appendix A28 writes the flux limits and the conservative-versus-optimistic bands. Here, notice what the band leaves out. It is a map drawn by *starlight*. The next chapter is a map drawn by *squeeze*. The chapter after that asks whether a permit ever got used. Most of the liquid water in this solar system, if you added it up honestly, may not be in our southern oceans. It may be in the dark, under ice, around Jupiter and Saturn, where the Sun is a bright star and the heat comes from the flexing of a world.
 
-That sentence is the hinge. Goldilocks is a lamp-map. The next chapter is a squeeze-map. A world can sit far outside every Kopparapu line — too little stove, a night that never ends — and still keep an ocean if a lid of ice and a flexing interior pay the heat. Europa does not have a circumstellar permit. It has a tidal one. The woman in the greenhouse is running a lamp-trick by hand on a rim-world. The dark seas do not need her LEDs. They need a melt, a look, and a refusal to confuse a permit with a town. Other solvents wait in Chapter 30. This chapter’s water is still water. The band is where starlight can keep it wet. The ice is where starlight is optional.
+That sentence is the hinge. Goldilocks is a lamp-map. The next chapter is a squeeze-map. A world can sit far outside every Kopparapu line — too little stove, a night that never ends — and still keep an ocean if a lid of ice and a flexing interior pay the heat. Europa does not have a circumstellar permit. It has a tidal one. Mara is running a lamp-trick by hand on a rim-world. The dark seas do not need her LEDs. They need a melt, a look, and a refusal to confuse a permit with a town. Other solvents wait in Chapter 31. This chapter’s water is still water. The band is where starlight can keep it wet. The ice is where starlight is optional.
 
 Starlight is the photogenic map. It is also the smaller map. Most of the chairs in Chapter 27 sit around lamps that are not the Sun; most of those lamps are brats; most of those chairs will fail a permit they were drawn inside of. Water can still last where the lamp is a rumor. That is not this chapter’s band. It is the squeeze. Turn the page.
 
@@ -1641,7 +1641,7 @@ Under the ice, the sky does not matter. Photosynthesis is a rumor from a brighte
 
 The surface dose is not a mood. Hundreds to thousands of rem in a day, order of, in the belts: a number that turns a walk into a last walk. Electronics sulk. Plastics age. A person in a suit is a footnote the belts would erase. The ice itself is a shield once you are in it; water and frozen water eat the radiation the way a cave eats weather. So the job is not to picnic on the windshield. The job is to get through it.
 
-She — or it — would fall out of the borehole into a pressure that would crumple an ordinary hull, into a black that is not the black of space but the black of a cave that forgot the entrance. If there are plumes, as on Enceladus, you can taste the sea without going in. If there are not, you go in. Planetary protection, in this doorway, is not a slogan. If that sea already has a biosphere, our dirt is a plague. If it does not, our dirt is a library. Chapter 32 is that library. The rule is: look first. Seed later. Never confuse the two. Chapter 30 is how you would know the difference.
+She — or it — would fall out of the borehole into a pressure that would crumple an ordinary hull, into a black that is not the black of space but the black of a cave that forgot the entrance. If there are plumes, as on Enceladus, you can taste the sea without going in. If there are not, you go in. Planetary protection, in this doorway, is not a slogan. If that sea already has a biosphere, our dirt is a plague. If it does not, our dirt is a library. Chapter 33 is that library. The rule is: look first. Seed later. Never confuse the two. Chapter 30 is how you would know the difference.
 
 Lengthen the melt, because the posters skip the weeks.
 
@@ -1651,7 +1651,7 @@ What the probe *does* in that dark is dull on purpose. It samples salinity. It s
 
 No colony follows the drop. Say that as a closed door, not as a sequel. A melt-probe is an eye on a wire. It tastes, it listens for a conductor, it looks for a chemistry that wants a story. It does not unload a town. It does not plant a flag that founds a nation under a lid. If the sea is taken, the probe is a guest who must not sneeze. If the sea is empty, the probe is still not a gardener. Look first. Seed later. Later is a different chapter.
 
-The fiber would carry a thin, late conversation: not to Earth in real time — Jupiter is the better part of an hour away by light, a ruder stack of monologues than the greenhouse radio — but to an orbiter, then home. She, if a she is even on this trip, is more likely a machine from Chapter 31, hanging in the dark, carrying a library, aimed at a lid of ice. Flesh on Europa’s windshield is a bad idea the belts already vetoed. Flesh in the sea is a worse idea the rule already vetoed. The eye on the wire is the honest unit.
+The fiber would carry a thin, late conversation: not to Earth in real time — Jupiter is the better part of an hour away by light, a ruder stack of monologues than Mara’s radio — but to an orbiter, then home. She, if a she is even on this trip, is more likely a machine from Chapter 32, hanging in the dark, carrying a library, aimed at a lid of ice. Flesh on Europa’s windshield is a bad idea the belts already vetoed. Flesh in the sea is a worse idea the rule already vetoed. The eye on the wire is the honest unit.
 
 Tidal habitable zones are, then, a second map, larger and stranger than Goldilocks. Anywhere a world flexes or holds heat under a lid, liquid water can last in the dark. Jupiter’s court is the nearby exhibition. The exhibition may be the common case. Starlight habitable bands are the rare, photogenic ones, where someone can grow basil under an LED and call it a greenhouse. The dark seas do not owe us basil. They owe us, if they owe us anything, a second origin — or a first one that never needed a sun.
 
@@ -1663,7 +1663,7 @@ Tidal habitable zones are, then, a second map, larger and stranger than Goldiloc
 
 We have a sample size of one.
 
-The length of this chapter is a path, not a pile. A slope, and what a second trunk would eat. Sex as a shuffle, not forever. One grandmother, and why the dictionary froze. Body plans that lost, and why a colleague will not look like us. Cities that will not look like ours. Doors this rock never opened: wheels, glass bones, caves, vents. Then the solvents, Titan included. Then varieties, immigrants, and a visitor who files the cars and misses the mite. Appendix A30 holds the meshes. Hold the path, and read the rooms.
+The length of this chapter is a path, not a pile. A slope, and what a second trunk would eat. Sex as a shuffle, not forever. What would count as a second origin, and a visitor who files the cars and misses the mite. One grandmother, and why the dictionary froze. Appendix A30 holds the meshes. Hold the path, and read the rooms.
 
 Sample size one is the whole sport of exobiology, and it is why the sport is mostly a discipline of *not* lying to yourself. Life, as we have actually met it, is a water-and-carbon trick that copies, mutates, and lets death keep the score. It uses a handful of amino acids with a preferred handedness, a genetic script written in four letters, and a metabolism that eats gradients — light, redox, leftover rock. Whether that is the only trick the universe knows is not a question you answer from an armchair. It is a question you answer with a yes that can be wrong, or a no that can be shy.
 
@@ -1673,7 +1673,7 @@ A cell, a person, a machine that still has a metabolism, stays organized by runn
 
 What would they eat?
 
-Not our gold. Not, if they have a choice, our water — ice is cheap in the dark. Not, casually, *us*. We are a wrong-handed, four-letter lunch, and a seeder’s crop is as likely to be poison as protein. If they eat a biosphere, they are eating a library, which is either vandalism or a sample. If they eat starlight, they are a Dyson habit: a wrap, a leak of infrared, a slope stolen from a sun. If they eat rock, they are a vent. If they eat the leftover unfairness of Chapter 10 — the fact that matter won by a billion — they are eating the same menu physics already set. A being without a metabolism, Chapter 31’s crew, does not eat. It spends joules. The joules still come from a slope, and the slope still ends as heat.
+Not our gold. Not, if they have a choice, our water — ice is cheap in the dark. Not, casually, *us*. We are a wrong-handed, four-letter lunch, and a seeder’s crop is as likely to be poison as protein. If they eat a biosphere, they are eating a library, which is either vandalism or a sample. If they eat starlight, they are a Dyson habit: a wrap, a leak of infrared, a slope stolen from a sun. If they eat rock, they are a vent. If they eat the leftover unfairness of Chapter 10 — the fact that matter won by a billion — they are eating the same menu physics already set. A being without a metabolism, Chapter 32’s crew, does not eat. It spends joules. The joules still come from a slope, and the slope still ends as heat.
 
 Animals eat animals. That is a slope with teeth, not a scandal, and not a ban. Eating your own kind is common, and it is not a field equation. Three meshes make it expensive, and Appendix A30 files them: a parasite that already knows your flesh, a gene dining on its own copies, and a city that remembers an intruder and organizes a punishment. A nest already knows the third at ant-scale. None of that makes the shudder a theorem. A second origin might hire the meal, or might refuse every cousin chemistry and then look at us as lunch across a trunk. Aliens eating us is not cannibalism. It is a different menu, and the wrong-handed, four-letter problem still sits on the plate.
 
@@ -1697,31 +1697,45 @@ A better test is *disequilibrium that wants a story*. Oxygen in an air, by itsel
 
 Earth is a cheat sheet and a trap. Everything we know how to look for looks like us: carbon, water, left-handed amino acids, radio. A shadow biosphere on Earth — a second trick under our feet that we have never cultured — is a cold possibility that would humble the cheat sheet. A dark sea that eats rock and never learned photosynthesis would humble it differently. A world that uses solvents we call poison would humble it completely. The honest search is therefore two searches: one for our cousins, one for our alternatives. The first is easier to fund. The second is the one that would change the kitchen.
 
+A visitor who only watches the night side can make a category error we have earned. The boxes that run in herds are easy to take for the animal; the soft things that climb in and out look like a parasite of the metal, a mite in a gut that happens to steer. We already did the inverse to ants. We talked to the worker and missed the nest. A machine that does not sleep, looking down, might file Earth as a planet of cars, with a carbon infection that builds and repairs them. The file would be wrong, and not crazy. The unit of life is a choice of scale. Look at both, or you will negotiate with the wrong noun.
+
+False positives are the professional hazard. False negatives are the moral one. We can decide a world is dead because we packed a test for *our* blood, *our* breath, *our* left-handed sugar, *our* four letters. We can decide a world is live because we packed our own microbes. Planetary protection is exobiology’s hygiene. Look first. Seed later. If you seed first, you have written over the only data that would have told you whether the universe invented the trick twice, and whether it hired the shapes we skipped.
+
 ![Figure 30. A simple tree: one trunk labeled Earth, a second trunk dotted and unlabeled. Sample size: one.](Figures/figs/fig30.png)
 
 Why is the script the same in every kitchen we have opened?
 
-Open a bacterium, a mushroom, a whale, the woman in the greenhouse. The memory is nucleic acid. Four letters, or a close dialect. The same leftover grammar in the codon table: three-letter words, sixty-four of them, almost the same dictionary from *E. coli* to you. Mitochondria cheat a little. A few microbes rewrite a stop. The family resemblance is still a family. That is not a law the cosmos stamps on wet rock. That is what **one grandmother** looks like.
+Open a bacterium, a mushroom, a whale, Mara. The memory is nucleic acid. Four letters, or a close dialect. The same leftover grammar in the codon table: three-letter words, sixty-four of them, almost the same dictionary from *E. coli* to you. Mitochondria cheat a little. A few microbes rewrite a stop. The family resemblance is still a family. That is not a law the cosmos stamps on wet rock. That is what **one grandmother** looks like.
 
 Call her LUCA if you like labels: last universal common ancestor, the bottleneck every cultured lineage on Earth still shares. Once a code works well enough, changing a word later is a catastrophe. Every protein in the house breaks at once. Francis Crick called that a frozen accident. The dictionary may also be a little tidy — errors land on cousins more often than on strangers — which is a warm extra, not a proof that A, T, C, and G were inevitable. The letters are good letters. Pairing is a good trick. The exact four, and the exact sixty-four-word book, are history.
 
 Would another world use the same book?
 
-Bet this way. Something *like* a pairing polymer is warm: you need a memory that copies with mistakes. The same four bases and the same dictionary is cold, or else it is a confession. If we found our exact codon table under Europa’s ice, the grown-up explanations are contamination or a shared seed — panspermia, directed or sloppy, Chapter 32’s library arriving early. A second origin with a *different* dictionary is the jackpot: same sport, other rules. Mirror letters. A six-letter script. An XNA that pairs and is not ours. A code that never invented thymine. That is what “not cousins” looks like on a gel.
+Bet this way. Something *like* a pairing polymer is warm: you need a memory that copies with mistakes. The same four bases and the same dictionary is cold, or else it is a confession. If we found our exact codon table under Europa’s ice, the grown-up explanations are contamination or a shared seed — panspermia, directed or sloppy, Chapter 33’s library arriving early. A second origin with a *different* dictionary is the jackpot: same sport, other rules. Mirror letters. A six-letter script. An XNA that pairs and is not ours. A code that never invented thymine. That is what “not cousins” looks like on a gel.
 
 So the sameness of DNA is evidence. It is evidence of **one origin on this rock**, not of a cosmic typesetter.
 
 It is not evidence that biology waited for a witness.
 
-A fashionable extra step says: the soup was a fog of maybe, and DNA became definite only when something looked. That step confuses a filter with a cause. The weak anthropic reminder is allowed and useful — chemists find themselves in a chemistry that worked. Unsuccessful soups have no one to file the complaint. That is selection of a *place* and a *history*, the same mesh as Chapter 41. It is not a mechanism that folds nucleotides into a helix when an eye opens. Polymers copy, or they do not, whether or not a later ape writes a book about them. The first record of a successful copy was another copy, then a fossil, then a cell that ate a gradient. Those are observers in the cheap sense of Chapter 6: traces. They are not priests.
+A fashionable extra step says: the soup was a fog of maybe, and DNA became definite only when something looked. That step confuses a filter with a cause. The weak anthropic reminder is allowed and useful — chemists find themselves in a chemistry that worked. Unsuccessful soups have no one to file the complaint. That is selection of a *place* and a *history*, the same mesh as Chapter 42. It is not a mechanism that folds nucleotides into a helix when an eye opens. Polymers copy, or they do not, whether or not a later ape writes a book about them. The first record of a successful copy was another copy, then a fossil, then a cell that ate a gradient. Those are observers in the cheap sense of Chapter 6: traces. They are not priests.
 
 The origin of life is an unfinished chemical problem, not an unfinished metaphysical one. We do not yet have the hour-by-hour of the first ribozyme, the first membrane, the first code. The incompleteness is real and should be said without flinching. It does not rent space to a collapse-of-the-wavefunction-of-the-ocean. Coincidences that survive a billion years of death are not coincidences. They are what got through.
+
+Appendix A30 writes Viking and the codon freeze. Here, keep one number: sample size one. A second origin would be the most important fossil since helium. A second *dictionary* would settle the DNA question. **Hot:** every cell we have opened shares one code and one ancestor. **Warm:** a second origin would show itself as a disequilibrium that wants a story, written in a different dictionary. **Cold:** any claim that one has been found.
+
+---
+
+\newpage
+
+## 31. Forms Earth Never Hired
+
+Chapter 30 asked what a second origin would be and how we would know one. This chapter asks what it might look like: body plans, minds, and cities; doors this rock never opened; the solvents, Titan included; and varieties and immigrants. Appendix A31 holds the numbers.
 
 There is a louder way the sample of one lies. It is not only chemistry. It is *history*.
 
 Replay Earth’s tape — Stephen Jay Gould’s dare, after the Burgess Shale’s cabinet of body plans that mostly lost — and the winners can change. Anomalocaris, a meter of armored weirdness, was a champion of a sea we no longer run. Hallucigenia looked like a joke until we found which side was up. Most of those experiments died. The survivors look inevitable only because we are their children. A second origin, or even a second lottery on a second wet world, does not owe us two eyes, a spine, or a face. It owes us, at most, a trick that copies and a death that keeps score.
 
-It does not even owe us one shape of mind. Earth hired two good ones in water — ours, and the octopus — and then only one of them took the hills. A wetter world, given time, might hire a *committee*: walkers, swimmers, climbers, even something built like an insect’s toolkit, all smart, all from one radiation, all arguing about the same sun. That is not a zoo invented for television. It is what empty niches plus a long clock can do if several body plans keep their nerve. We had the cabinet. We fired most of the staff.
+It does not even owe us one shape of mind. Earth hired two good ones in water — ours, and the octopus — and then only one of them took the hills. A wetter world, given time, might hire a *committee*: walkers, swimmers, climbers, even something built like an insect’s toolkit, all smart, all from one radiation, all arguing about the same sun. We had the cabinet. We fired most of the staff.
 
 A mind need not be a skull. A slime mold solves a maze without a neuron. A mycelium is a room-sized conversation in sugar. A siphonophore is a committee that forgot it was a committee. A world that hired the web, not the head — a thing that thinks by touching, that is only itself when it is plugged into itself — would fail every test that looks for a face. We would call it weather, or a cable, or a plague.
 
@@ -1729,29 +1743,29 @@ Blood need not be iron. Octopuses already use copper. Green blood, blue blood, b
 
 What the second trunk almost certainly is *not* is a person with different ears.
 
-A humanoid — two legs, two arms, a face that can hold a conversation over a table — is a wonderful costume. It is a terrible prediction. Bipedal apes with grammar are one late hire on one wet rock, after a specific series of forests, savannas, and accidents. Hands that can strike a flint are not a law of intelligence. They are a law of *our* intelligence. An independent origin that reprints the ape, down to the eyebrows, is cold as zoology. If we ever met someone that close in the mirror, the grown-up guess would be cousins: a shared seed, Chapter 32 again, not a second invention of the chin.
+A humanoid — two legs, two arms, a face that can hold a conversation over a table — is a wonderful costume. It is a terrible prediction. Bipedal apes with grammar are one late hire on one wet rock, after a specific series of forests, savannas, and accidents. An independent origin that reprints the ape, down to the eyebrows, is cold as zoology. If we ever met someone that close in the mirror, the grown-up guess would be cousins: a shared seed, Chapter 33 again, not a second invention of the chin.
 
 If you want a monster, do not hire a craftsman of evil. Hire a fitness peak.
 
-Earth already runs the sketch. A wasp that lays an egg in a living host and lets the host walk around as a pantry. A fungus that steers an ant up a stem and fruits from its head. Those are not villains. They are solutions. Scale the solution up — a specialist that treats *you* as the egg, that survives the vacuum of a hull, that spends the whole budget on teeth and a childhood you do not consent to — and you have the nightmare people like. Survival at all cost is not a personality. It is what natural selection looks like when nothing in the room is keeping score but death. We call it evil because we were the host. The universe did not.
+Earth already runs the sketch. A wasp that lays an egg in a living host and lets the host walk around as a pantry. A fungus that steers an ant up a stem and fruits from its head. Those are not villains. They are solutions. Survival at all cost is not a personality. It is what natural selection looks like when nothing in the room is keeping score but death. We call it evil because we were the host. The universe did not.
 
-A large hunter can converge on something dinosaur-ish without becoming a person in scales. For a hundred million years this rock hired bipedal meat-eaters with a balance tail and a mouth that was the point. Sharks and ichthyosaurs found the same torpedo. Wolves and thylacines found the same face. A big dry world with room for giants might hire the theropod solution again: two legs because the hands are busy, teeth because the meeting is short. That is warmer than a gentleman with a phaser. It is still not a citizen.
+A large hunter can converge on something dinosaur-ish without becoming a person in scales. For more than a hundred and fifty million years this rock hired bipedal meat-eaters with a balance tail and a mouth that was the point. Sharks and ichthyosaurs found the same torpedo. Wolves and thylacines found the same face. A big dry world with room for giants might hire the theropod solution again: two legs because the hands are busy, teeth because the meeting is short. It is still not a citizen.
 
 Intelligent dinosaurs are a different sentence. We already have them. Birds are dinosaurs that lived. Crows make tools. Parrots steal words. Troodontids, before the rock fell, had the kind of brain-to-body ratio that makes paleontologists polite. Some of their cousins had grasping hands. They had time — more time than we have had since we stood up. Intelligence, then, is warm. A saurian mind is not a paradox. It is an experiment Earth ran and then interrupted.
 
 Size is a worse predictor than the posters admit.
 
-A skull the size of a grapefruit is not a requirement. A being thirty centimeters tall can, in principle, outthink a room of us. A nervous system the size of a whale can fail to invent a word. Volume is a weak forecast. Packing, wiring, the body the wires have to run, a culture that stacks know-how, and time — those hire a mind. A blue whale’s brain is a city of cells and still does not keep a library. A New Caledonian crow, a handful of feathers, bends a twig into a hook and teaches the trick. An octopus, a bag of muscle with a committee in each arm, opens a jar and then does not write it down. A termite mound air-conditions a tower no worker could draw. Those are Earth sketches, not a sermon about a hive that is a person. The colony is a room-sized habit. The crow is a small, fast, dense mind on a budget. The octopus is a second good hire that never took the hills.
+A skull the size of a grapefruit is not a requirement. A being thirty centimeters tall can, in principle, outthink a room of us; a nervous system the size of a whale can fail to invent a word. Packing, wiring, the body the wires have to run, a culture that stacks know-how, and time — those hire a mind. A New Caledonian crow, a handful of feathers, bends a twig into a hook and teaches the trick.
 
-Hot claim: **brain volume is a weak predictor of what a lineage can do.** Warm claim: another world, given packing and a clock, can hire a mind that fits in a teacup and still outruns us at the thing we congratulate ourselves for. Cold claim: they will look like tiny people. Colder: thirty centimeters is a law. It is a permission, not a uniform. A small sophont is allowed. A doll that reprints the ape, down to the eyebrows, is the humanoid cheat with a ruler.
+Hot claim: **brain volume is a weak predictor of what a lineage can do.** Warm claim: another world, given packing and a clock, can hire a mind that fits in a teacup and still outruns us at the thing we congratulate ourselves for. Cold claim: they will look like tiny people. Thirty centimeters is a permission, not a uniform.
 
-Civilization is the extra invoice. A mind is not a city. A city is a rearrangement of matter that outlasts a death: surplus food, teaching, a way to stack know-how so the grandchild does not start from zero. Fire helps. Writing helps. Hands that can hold a coal and a stylus help. Nests of tinder and a snout that is also a weapon do not forbid those things. They make them expensive. A paleontologist once grew a museum hunter into a naked man with a tail and called the result a forecast. That is the humanoid cheat in a jacket with elbow patches. If a saurian lineage ever paid the invoice, keep the tail. Keep the nest. Do not expect tea.
+Civilization is the extra cost. A mind is not a city. A city is a rearrangement of matter that outlasts a death: surplus food, teaching, a way to stack know-how so the grandchild does not start from zero. In 1982 a paleontologist, Dale Russell, grew a small theropod into an upright, tailless, big-headed figure and offered it as a thought experiment. That is the humanoid cheat in a jacket with elbow patches. If a saurian lineage ever paid for a city, keep the tail. Keep the nest. Do not expect tea.
 
 And do not expect streets.
 
-We look for cities the way we look for colleagues: windows, grids, a night side that glows in rectangles. Those are ape furniture. A city, stripped of the poster, is only this — a lasting pile of organized waste, built by something that remembers. Termites already air-condition a tower without a mayor. Coral already lays down a skyline without a plan. A web-mind’s capital is the web. A swimming people’s capital is a current they taught to stay. A dawn-ring herd’s capital is a road of trampled light. A cave town’s capital is a lung of tunnels that grew a library. A hunter civilization, if the invoice was paid, might be a rookery the size of a county: ramps for tails, pits for eggs, no stairs, no doors a hand would love, a smell-map instead of a street name.
+We look for cities the way we look for colleagues: windows, grids, a night side that glows in rectangles. Those are ape furniture. A city, stripped of the poster, is a lasting pile of organized waste, built by something that remembers. Coral already lays down a skyline without a plan. A web-mind’s capital is the web. A swimming people’s capital is a current they taught to stay. A hunter civilization might be a rookery the size of a county: ramps for tails, pits for eggs, a smell-map instead of a street name.
 
-Chapter 34 looks for shouting. A city that never invented the radio is still a city. We would miss it from orbit because we packed a test for *our* skyline. The honest forecast is rude, and better: if the second trunk pays for civilization, the first photograph will look like a mistake. Geology with an opinion. A reef that is too regular. A forest that is too warm at night. A canyon that breathes on a schedule. Not a downtown. Not a person in scales offering you a key to the city. A place like nothing we have built, doing the only job cities ever do — keeping a trick of carbon and water alive in a pile that remembers.
+Chapter 35 looks for shouting. A city that never invented the radio is still a city, and we would miss it from orbit because we packed a test for *our* skyline. If the second trunk pays for civilization, the first photograph will look like a mistake: a reef that is too regular, a forest that is too warm at night, a canyon that breathes on a schedule. Not a downtown. A place like nothing we have built, doing the only job cities ever do — keeping a trick of carbon and water alive in a pile that remembers.
 
 So there are forms Earth never fully hired, not because they are impossible, but because our path did not pass their door.
 
@@ -1759,13 +1773,13 @@ Wheels, for large animals, never made it. Axles are hard to feed with blood. Fla
 
 Skeletons of silicon, as a habit, never made it. Diatoms glaze themselves in glass. Radiolarians make lace from silica. Vertebrates stuck with calcium phosphate like a union contract. A world poorer in phosphorus and richer in sand might build its bones the diatom way, and our X-rays would bounce off for the wrong reason.
 
-Earth already hired two ways to be stiff. A rod on the inside — bone, cartilage, a notochord — so the meat can hang and the muscle can pull. A suitcase on the outside — chitin, shell, a crab’s door — so the meat lives in a room and molts when the room is too small. Both work. Both have costs: the inside rod breaks and heals; the outside suitcase must be shed, and for a while you are lunch. A second origin may pick either, or both, or a hydrostatic bag with no hard parts at all. “Where is the bone?” is a vertebrate question. A world of suitcases would look, to an X-ray, empty and armed.
+Earth already hired two ways to be stiff. A rod on the inside — bone, cartilage, a notochord — so the meat can hang and the muscle can pull. A suitcase on the outside — chitin, shell, a crab’s door — so the meat lives in a room and molts when the room is too small. Both work; the rod breaks and heals, and the suitcase must be shed, and for a while you are lunch. A second origin may pick either, or both, or a hydrostatic bag with no hard parts at all. “Where is the bone?” is a vertebrate question. A world of suitcases would look, to an X-ray, empty and armed.
 
 Farming is older than us, and smaller. Cattle are a late, loud version. Ants already keep herds: aphids, “leaf lice,” milked for sugar, moved to better leaves, defended like a barn. Other ants cut leaves to grow a fungus they cannot live without. That is husbandry without a hat. A second origin that never invents a cow may still invent a farm. The unit can be a louse, a microbe, a captured chloroplast. We would call it ecology until we noticed the ants had a policy.
 
-Caves already hire the dark. Movile, in Romania, has been a locked room for a few million years: no sun, a bad egg of hydrogen sulfide, and more than fifty species that exist nowhere else. The plants are bacteria. The animals eat the bacteria. The whole town runs on rock-breath. Lava tubes do a hotter version. If Mars still has a moist pore, it is this kind of town, not a meadow. A greenhouse on a dead world is a cave we brought with us. A lava tube we did not bring is the better classroom.
+Caves already hire the dark. Movile, in Romania, has been a sealed room for millions of years: no sun, a bad egg of hydrogen sulfide, and dozens of animal species found nowhere else. The plants are bacteria. The animals eat the bacteria. The whole town runs on rock-breath. If Mars still has a moist pore, it is this kind of town, not a meadow, and a lava tube is the better classroom.
 
-Crystals are houses, not flesh. That distinction matters, because jewelry that walks is a cartoon, and cartoons waste probe time. What is real: microbes locked in the water between gypsum facets a kilometer down; grains that live inside rock and eat what seeps; chains of magnetite that a bacterium grows to know which way is down; glass shells; a paper that says the first genes were patterns on clay. Cairns-Smith’s mineral-gene idea is warm as a template and cold as a detection, not a zoo. Silicon as a *replacement* for carbon is still a weak paper: the chains fall apart in water and prefer to be mountains. Silicon as a *scaffold* — bones of glass, skins of rust, a biofilm that only shines because the crystal is rented — is already on Earth, waiting to be over-hired. If a world looks like a geode with an opinion, look at the fluid in the cracks first. That is where the cook stands.
+Crystals are houses, not flesh. Jewelry that walks is a cartoon. What is real: microbes locked in the water between gypsum facets a kilometer down; grains that live inside rock and eat what seeps; chains of magnetite that a bacterium grows to know which way is down; glass shells; a paper that says the first genes were patterns on clay. Cairns-Smith’s mineral-gene idea is warm as a template and cold as a detection, not a zoo. If a world looks like a geode with an opinion, look at the fluid in the cracks first. That is where the cook stands.
 
 And then the chemistries we did not staff.
 
@@ -1773,53 +1787,47 @@ Life here is a carbon town in a water county, with a nitrogen-rich air that we *
 
 Water is not sacred. Water is *hired*.
 
-It does a job, and it does it so well that we forget it is staff. It stays liquid over a wide range of temperatures. It dissolves the charged bits so they can meet. It lets them wander. It holds a skin — a lipid bilayer — so the meeting has a room and a door. Ice, unusually, floats, so a pond does not freeze from the bed up and evict the fish. Hydrogen bonds give the liquid a gossip network: charges stand apart and still talk. That last trick has a name and a number. Chemists call it the dielectric constant, the relative permittivity. For water at room temperature it is about eighty. For liquid methane on Titan it is about 1.7.
+It does a job, and it does it so well that we forget it is staff. It stays liquid over a wide range of temperatures. It dissolves the charged bits so they can meet. It holds a skin, a lipid bilayer, so the meeting has a room. Ice, unusually, floats, so a pond does not freeze from the bed up and evict the fish. One trick has a number: the dielectric constant, which measures how well a liquid lets charges stand apart and still talk. For water at room temperature it is about eighty. For liquid methane on Titan it is about 1.7.
 
 Eighty is a meeting room. 1.7 is a mute hall. Ions that leap into water and argue will, in methane, clump, sulk, or refuse to dissolve. A metabolism that lives on charged intermediates — ours — would walk into that hall and go silent. That is not a proof that nothing else can talk. It is a proof that *our* talk is a water dialect.
 
 What must a meeting-room do, if you want a second origin and not a pretty lake?
 
-It must dissolve the staff so they can meet. It must let them move — diffusion, a current, some way of not sitting in one chair forever. It must offer a compartment, a skin or a pore or a mineral hotel, so a copy is a copy and not a smear. It must not eat the furniture: a solvent that shreds every polymer is a drain, not a kitchen. And it must let energy run downhill as a gradient, not as a rumor. Water does all five. Other liquids get papers because they can do *some* of the five, somewhere, if you squint and grant them a different staff.
+It must dissolve the staff so they can meet. It must let them move — diffusion, a current, some way of not sitting in one chair forever. It must offer a compartment, a skin or a pore or a mineral hotel, so a copy is a copy and not a smear. It must not eat the furniture: a solvent that shreds every polymer is a drain, not a kitchen. And it must let energy run downhill as a gradient, not as a rumor. Water does all five. Other liquids can do some of the five, somewhere.
 
-Titan is the nearby exhibition. Ninety-four kelvin. An air of nitrogen thicker than ours, with methane as the weather. Lakes and seas of methane and ethane, mapped by radar, photographed as dark stains on a pale world, landed in by a probe that saw rounded cobbles and a humidity of the same stuff. Cassini flew. Huygens fell. The lakes are hot as geology. A biosphere in them is not. We have not detected one. We have a world that hired a different solvent and left the recipe on the counter.
+Titan is the nearby exhibition. Ninety-four kelvin.[^51] An air of nitrogen thicker than ours, with methane as the weather. Lakes and seas of methane and ethane, mapped by radar, photographed as dark stains on a pale world, landed in by a probe that saw rounded cobbles and a humidity of the same stuff. The lakes are hot as geology. A biosphere in them is not detected. We have a world that hired a different solvent and left the recipe on the counter.
 
-The counter is slow. Reaction rates do not politely double for every ten degrees across a drop like this. They fall the way Arrhenius wrote them: exponentially, as the temperature in the denominator shrinks and the hill the molecules must climb stays tall. From a sink at 300 K to a Titan lake at 94 K is not twenty cozy steps. It is a statue. Appendix A30 names that suppression. Photochemistry in the high air — sunlight and Saturn’s magnetosphere shredding methane into a brown haze — can still be busy. The *lake*, left to itself, is a pot you turned off last winter. Anyone who wants life there needs a trick we did not hire: a catalyst, a surface, a chemistry that was never ours.
+The counter is slow. Reaction rates fall the way Arrhenius wrote them: exponentially, as the temperature shrinks and the hill the molecules must climb stays tall. From a sink at 300 K to a Titan lake at 94 K is not twenty cozy steps. It is a statue. Appendix A31 names that suppression. Photochemistry in the high air — sunlight and Saturn’s magnetosphere shredding methane into a brown haze — can still be busy. Anyone who wants life there needs a trick we did not hire: a catalyst, a surface, a chemistry that was never ours.
 
-The papers have names. Azotosomes: bubbles of nitrogen-rich skin, proposed as a methane-world stand-in for our lipid rooms. Acrylonitrile, the suggested brick, has been smelled in Titan’s air. The case that those skins would hold as membranes has gone against them. Cold as a cell wall. The molecule in the air is not a membrane. Hydrogen plus acetylene as a lunch — a metabolism that would thin the air of H₂ and leave a fingerprint — is another warm page. Cassini left puzzles that were argued like a will. None of this is a zoo. None of it is a detection. Warm as permission. Cold as a neighbor you could wave to.
+The papers have names. Azotosomes: bubbles of nitrogen-rich skin, proposed as a methane-world stand-in for our lipid rooms. Acrylonitrile, the suggested brick, has been smelled in Titan’s air. The case that those skins would hold as membranes has gone against them. Hydrogen plus acetylene as a lunch — a metabolism that would thin the air of H₂ and leave a fingerprint — is another warm page. None of it is a detection. Warm as permission. Cold as a neighbor you could wave to.
 
-Ammonia is the other cold pot. At one atmosphere it is liquid from about 195 K to 240 K — a narrower window than water, unless you mix it or squeeze it. It is polar. It gossips. It can, on paper, dissolve a staff. Water–ammonia slush stays wet colder still, which is why the giant planets’ insides and some ice-moon stories keep a bottle of it on the shelf. The costs are real: different acids and bases, weaker hydrogen bonds than water, a chemistry that would pickle our proteins and call it weather. Ammonia as a solvent, on a cold world, is a paper, not a zoo.
+Ammonia is the other cold pot. At one atmosphere it is liquid from about 195 K to 240 K — a narrower window than water, unless you mix it or squeeze it. It can, on paper, dissolve a staff. Water–ammonia slush stays wet colder still, which is why some ice-moon stories keep a bottle of it on the shelf. The costs are real: different acids and bases, weaker hydrogen bonds than water, a chemistry that would pickle our proteins and call it weather.
 
-Then the rooms we call poison. Concentrated sulfuric acid, in a cloud deck on a world that cooked its oceans away, is liquid in a band where a probe could, in principle, get wet. Papers ask whether some tough organics could hold a meeting there. Earth’s cells would die of thirst in a gulp — the acid is a dehydrator — which is the point. A solvent that is rude to us is not rude to chemistry. It is rude to *our* chemistry. Phosphine rumors in that sky were a courtroom, not a census. The clouds remain a colder paper than Titan’s lakes. Titan we have tasted. The clouds we have argued.
+![Figure 31. Liquid ranges at one atmosphere: water, ammonia, methane, ethane, sulfuric acid. Titan’s 94 K sits on the methane and ethane bars.](Figures/figs/fig46.png)
 
-So: methane and ethane on a 94 K beach. Ammonia in a freezer that still has a liquid range. Acid in a bright, horrible mist. Silicon as flesh, still a weak paper — the chains fall apart in water and prefer to be mountains. All chairs in a room we have not sat in. Earth’s periodic table is a menu. Evolution ordered from one column and stuck with the order.
+Then the rooms we call poison. Concentrated sulfuric acid, in a cloud deck on a world that cooked its oceans away, is liquid in a band where a probe could, in principle, get wet. Earth’s cells would die of thirst in a gulp — the acid is a dehydrator — which is the point. A solvent that is rude to us is not rude to chemistry. It is rude to *our* chemistry. Phosphine rumors in that sky were a courtroom, not a census. Titan we have tasted. The clouds we have argued.
 
-Mirror life — the same trick, opposite handedness — is the scariest near-term maybe, because it could look like us under a microscope and starve in our kitchens, or poison them. A different set of amino acids, a six-letter script, a metabolism that treats arsenic as a feature: those are the other chairs. Sample size one does not get to fire them. It also does not get to print them as a zoo.
+Mirror life — the same trick, opposite handedness — is the scariest near-term maybe, because it could look like us under a microscope and starve in our kitchens, or poison them. A different set of amino acids, a six-letter script, a metabolism that treats arsenic as a feature: those are the other chairs. Sample size one does not get to fire them. It also does not get to print them as a zoo. Earth’s periodic table is a menu; evolution ordered from one column and stuck with the order.
 
-Empty niches speed the hiring. After a dying, after a new island, after a new dark sea, after a cave that locked, after a vent that opened, whatever copies fastest and eats what is left will radiate. Generation time is the clock, not a montage. Bacteria can have a career in an afternoon. Animals cannot become a committee of new phyla by Friday. The cartoon of a spore that climbs the whole ladder of Earth-history in a week is a cartoon. The real sentence is ruder and better: **give a fast copier an empty room, and the room will not stay empty.** A dark sea under ice, never photosynthesized, is such a room. A sterile greenhouse is such a room. A sealed cave, a lava tube, the water between crystals, a dawn ring on a locked world: such rooms. What gets hired there will not look like a textbook chapter. It will look like a solution.
+Empty niches speed the hiring. After a dying, after a new island, after a new dark sea, after a cave that locked, after a vent that opened, whatever copies fastest and eats what is left will radiate. Generation time is the clock: bacteria can have a career in an afternoon; animals cannot grow new phyla by Friday. The real sentence is ruder and better: **give a fast copier an empty room, and the room will not stay empty.** A dark sea under ice, never photosynthesized, is such a room. So is a sealed cave, a lava tube, or the water between crystals. What gets hired there will not look like a textbook chapter. It will look like a solution.
 
 Once a room is hired, the staff splits.
 
-Give a species a mountain, a strait, a long coast, a million years, and the copies are no longer identical. Island finches. Cave fish that fired their eyes. Dogs we made on purpose. Mosquitoes that learned a city. Taxonomists used to stamp *race* on those piles — a subspecies, an ecotype, a local edition. The stamp is common in biology. The political word that stole it is not a taxonomic rank. Human folk-races are a bad map of a young, well-mixed ape: most of the difference lives *inside* any crowd you pick, and the rest is a smear, not a set of boxes. Hot claim: **population structure is ordinary.** Isolated groups adapt. Founders bottleneck. Color, size, diet, disease resistance pick up local weather. Warm claim: a second origin, given islands or a locked dawn-ring, will do the same and grow varieties you could sort if you had a week and a caliper. Cold claim: those varieties will reprint Earth’s census categories, or that “race” is a law of intelligence. It is a word for a smear. Exobiology should expect smears. It should not pack a form with our boxes.
+Give a species a mountain, a strait, a long coast, a million years, and the copies are no longer identical. Island finches. Cave fish that fired their eyes. Taxonomists used to stamp *race* on those piles — a subspecies, an ecotype, a local edition. The political word that stole the stamp is not a taxonomic rank. Human folk-races are a bad map of a young, well-mixed ape: most of the difference lives *inside* any crowd you pick, and the rest is a smear, not a set of boxes. Hot claim: **population structure is ordinary.** Warm claim: a second origin, given islands or a locked dawn-ring, will do the same and grow varieties you could sort if you had a week and a caliper. Cold claim: those varieties will reprint Earth’s census categories, or that “race” is a law of intelligence. Exobiology should expect smears, not our boxes.
 
 Native is a date, not an essence.
 
-Every lineage is an immigrant if you roll the clock far enough. The first cell in a pond was a native only because there was no one to sue. Starlings in America, rabbits in Australia, cats on islands, our own species walking into rooms that already had a staff — those are introductions. Some stay polite. Some eat the room. *Invasive* is what we call an immigrant that won too well. The greenhouse in Chapter 25 is an introduction: basil where basil has no grandmother. The library in Chapter 32, if it prints into a dark sea that already copies, is a conquistador. If the sea is empty, the same print is a first day of school. Look first. Seed later. That rule is just the native/non-native distinction with a spacecraft.
+Every lineage is an immigrant if you roll the clock far enough. The first cell in a pond was a native only because there was no one to sue. Starlings in America and rabbits in Australia are introductions. Some stay polite. Some eat the room. *Invasive* is what we call an immigrant that won too well. The library in Chapter 33, if it prints into a dark sea that already copies, is a conquistador. If the sea is empty, the same print is a first day of school. The look-first rule is the native/non-native distinction with a spacecraft.
 
-So: expect varieties. Expect travel, if anything travels. Do not expect our census. Do not call a winner a destiny. Native is who got there first *on the clock you chose*. Choose a longer clock and the word empties.
+Technosignatures — radios, city lights, industrial waste heat — are a thinner search. They assume someone invented shouting, and that the shout looks like ours. Most of the wet map, if it is wet, is microbes or missing forms or nothing. This chapter is the dirt, and the doors we never opened.
 
-Technosignatures — radios, city lights, industrial waste heat — are a thinner search. They assume someone invented shouting, and that the shout looks like ours. Most of the wet map, if it is wet, is microbes or missing forms or nothing. Microbes do not file patents. Missing forms do not sit for portraits we would recognize. A city that is a rookery or a reef or a breathing canyon will not file one either. Chapter 34 is the radio. This chapter is the dirt, and the doors we never opened.
-
-A visitor who only watches the night side can make a category error we have earned. The bright veins, the boxes that run in herds, the heat that does not match a forest — those are easy to take for the animal. The soft things that climb in and out, that bleed, that argue about basil, look like a parasite of the metal: a mite in a gut that happens to steer. We already did the inverse to ants. We talked to the worker and missed the nest. A machine that does not sleep, looking down, might file Earth as a planet of cars, with a carbon infection that builds and repairs them. The file would be wrong, and not crazy. The unit of life is a choice of scale. Chapter 6’s loop sits in the mite. The waste heat sits in the herd of boxes. Look at both, or you will negotiate with the wrong noun.
-
-False positives are the professional hazard. False negatives are the moral one. We can decide a world is dead because we packed a test for *our* blood, *our* breath, *our* left-handed sugar, *our* four letters. We can decide a world is live because we packed our own microbes. Planetary protection is exobiology’s hygiene. Look first. Seed later. If you seed first, you have written over the only data that would have told you whether the universe invented the trick twice, and whether it hired the shapes we skipped.
-
-Appendix A30 writes Viking, the codon freeze, Titan’s 94 K lakes, caves and vents, and why silicon-as-flesh and nitrogen-as-lunch stay cold. Here, keep two numbers: sample size one, and a Burgess Shale drawer of fired employees. A second origin would be the most important fossil since helium. A second *dictionary* would settle the DNA question. A second *body plan* would be the most important art. None of them would save us. None of them would require a craftsman. All of them would say the filter has more than one hole, and that our hole was not the only cut.
+Appendix A31 writes Titan’s 94 K lakes, caves and vents, and why silicon-as-flesh and nitrogen-as-lunch stay cold. A second origin, a second dictionary, a second body plan: none of them would save us, and none would require a craftsman. All of them would say the filter has more than one hole, and that our hole was not the only cut. **Hot:** Earth’s history could have hired other shapes, and brain volume is a weak predictor of mind. **Warm:** other solvents, as chemistry on paper and in the lab. **Cold:** silicon flesh, a humanoid colleague, a city we would recognize from orbit.
 
 ---
 
 \newpage
 
-## 31. Crews That Do Not Sleep
+## 32. Crews That Do Not Sleep
 
 A trip to Mars is a year of your proper time if you are lucky and the window is kind. A trip to Europa is years, with a nuclear brick in the back and Jupiter’s radiation as a landlord. A trip to a large moon of a cold planet around another star is not a trip. It is a career for a civilization, or a nap that no flesh can take, or a crew that does not have a metabolism.
 
@@ -1827,21 +1835,21 @@ At a hundredth of light speed — already an aspiration that makes chemical rock
 
 Machines do not sign either, but they do not starve. An autonomous crew — processors, actuators, repair arms, a body that may look like a person because the tools were built for hands, or may look like a drill because the job is ice — can wait. It can coast. It can wake for a course correction every decade. It can arrive at a moon that has not heard of Earth in a thousand years and still know how to melt a hole.
 
-![Figure 31. A tractor working a field, with no one you can see in the seat. Patience is the picture. The crew that can wait is that patience, off the Earth, with a spare for every bit the rays flip.](Figures/figs/fig31.jpg)
+![Figure 32. A tractor working a field, with no one you can see in the seat. Patience is the picture. The crew that can wait is that patience, off the Earth, with a spare for every bit the rays flip.](Figures/figs/fig31.jpg)
 
-Call it AI if you want the current trademark. Call it a robot if you want the older one. Call it an android if the hull is a courtesy to human doorways. The physics does not care about the courtesy. The physics cares about joules per bit, about error-correcting memory against cosmic rays, about a reactor that still knows its job after a century of quiet. Appendix A31 writes the dose and the two speeds. Here, keep one image: a thing that does not sleep, hanging in the dark, carrying a library, aimed at a lid of ice.
+Call it AI if you want the current trademark. Call it a robot if you want the older one. Call it an android if the hull is a courtesy to human doorways. The physics does not care about the courtesy. The physics cares about joules per bit, about error-correcting memory against cosmic rays, about a reactor that still knows its job after a century of quiet. Appendix A32 writes the dose and the two speeds. Here, keep one image: a thing that does not sleep, hanging in the dark, carrying a library, aimed at a lid of ice.
 
 The quiet is the job. Galactic cosmic rays — a drizzle of fast nuclei that no planetary magnetic mood is catching — punch bits all century. Unshielded flesh, in deep space, collects a career-limiting dose in a handful of years: tenths of a sievert a year, order of, enough to make a human worldline a bad hire for a four-century commute. The machine does not have marrow. It has parity, redundancy, a memory that expects to be wrong and keeps a spare. A grain of dust at a tenth of light is not dust. It is an energy rumor with a mass. Slowing down at the far end is a second fortune, as rude as leaving. Chemical tanks will not pay it. A brick that still knows how to be a brick after a hundred years of cold might.
 
-Leaving is only half the fortune. At a hundredth of light speed, the energy stored in one kilogram is already a violent number. Appendix A31 writes the digit. You paid it to go. You pay a fortune of the same order to stop, or you arrive as a flash. There is no coasting into a polite orbit around a star you have never visited. The brake is a second departure, pointed the other way, and it has to still work after centuries of cold. Chemical tanks are a way to leave a planet. They are a poor way to throw that motion away at the far end. A brick that fissions, or a sail that can turn and take the destination star’s light as a headwind, is a sentence you are allowed to write. A sentence is not a tank farm.
+Leaving is only half the fortune. At a hundredth of light speed, the energy stored in one kilogram is already a violent number. Appendix A32 writes the digit. You paid it to go. You pay a fortune of the same order to stop, or you arrive as a flash. There is no coasting into a polite orbit around a star you have never visited. The brake is a second departure, pointed the other way, and it has to still work after centuries of cold. Chemical tanks are a way to leave a planet. They are a poor way to throw that motion away at the far end. A brick that fissions, or a sail that can turn and take the destination star’s light as a headwind, is a sentence you are allowed to write. A sentence is not a tank farm.
 
 Dust is the killer the posters draw as sparkle. A grain the size of a pollen mote, met at a tenth of light, does not bounce off a windshield. It arrives as a little explosion. The cruise does not need a mountain in the road. It needs a haze. A shield in front — a slab of something dull, or a cloud of grit you carry as your own bumper — is part of the crew. The shield will be holed. The holes are why the memory keeps a spare, and why the spare does not sit in the same drawer as the original.
 
-Who fixes the fixer is the question the metal-person poster skips. A drill that can melt ice cannot, by that talent, replace its own bearing after a century. You send a shop: spare arms, a way to make a simple part from feedstock you carried, a test that says the new part is the old part and not a flipped-bit cousin. The shop is mass. Mass is the invoice Chapter 32 will refuse to let you spend on a flag. The cleverness is not a mind that founds a religion at the far end. The cleverness is a drawer of dull parts and a procedure short enough to audit before you leave.
+Who fixes the fixer is the question the metal-person poster skips. A drill that can melt ice cannot, by that talent, replace its own bearing after a century. You send a shop: spare arms, a way to make a simple part from feedstock you carried, a test that says the new part is the old part and not a flipped-bit cousin. The shop is mass. Mass is the invoice Chapter 33 will refuse to let you spend on a flag. The cleverness is not a mind that founds a religion at the far end. The cleverness is a drawer of dull parts and a procedure short enough to audit before you leave.
 
-Flesh has been offered three ways out, and none of them is signed. A generation ship hires children as the propellant: born, taught, buried, and the destination still a rumor for the first many lives. The teaching has to survive without the Earth that wrote the curriculum. That is a culture you are inventing, not a motor you are buying. Suspended flesh asks biochemistry for a pause it has not given large animals. A box of embryos asks for a nursery run by the machine, which is Chapter 32’s printers wearing a kinder name. All three still collect the dose if they ride awake in a thin can, and all three still owe the brake. The crew that does not sleep is what is left when you decline to hire a childhood as fuel. That crew is who covers the window Mara cannot stay for. Her afternoon is light-minutes. Theirs is centuries.
+Flesh has been offered three ways out, and none of them is signed. A generation ship hires children as the propellant: born, taught, buried, and the destination still a rumor for the first many lives. The teaching has to survive without the Earth that wrote the curriculum. That is a culture you are inventing, not a motor you are buying. Suspended flesh asks biochemistry for a pause it has not given large animals. A box of embryos asks for a nursery run by the machine, which is Chapter 33’s printers wearing a kinder name. All three still collect the dose if they ride awake in a thin can, and all three still owe the brake. The crew that does not sleep is what is left when you decline to hire a childhood as fuel. That crew is who covers the window Mara cannot stay for. Her afternoon is light-minutes. Theirs is centuries.
 
-It wakes, if it wakes, for a star that has drifted, a gyro that has sulked, a bit that flipped and must be voted off the island. Then it sleeps again, which is a word for a low-power wait, not a dream. This crew wants a plug you can still reach from Earth for the first years, and then a set of orders dull enough that a flipped bit cannot found a religion. Chapter 29’s melt-probe is the same object on a shorter commute. Chapter 32’s library is the cargo that makes the commute worth the failure rate. Chapter 25’s greenhouse is the near ticket: a jammed door, a late radio, a potato.
+It wakes, if it wakes, for a star that has drifted, a gyro that has sulked, a bit that flipped and must be voted off the island. Then it sleeps again, which is a word for a low-power wait, not a dream. This crew wants a plug you can still reach from Earth for the first years, and then a set of orders dull enough that a flipped bit cannot found a religion. Chapter 29’s melt-probe is the same object on a shorter commute. Chapter 33’s library is the cargo that makes the commute worth the failure rate. Chapter 25’s greenhouse is the near ticket: a jammed door, a late radio, a potato.
 
 This is not the Omega Point. It is not destiny. It is a project with a failure rate. The machine can miss. The ice can be thicker than the melt. The sea can be sealed from rock. The sea can already be taken. The project is still the way “long travel” stops being a poster.
 
@@ -1851,45 +1859,45 @@ Will the first eat the species that built it? Take the keys? Be better? Three di
 
 Two serious ideas about mind sit under the better-question, and they do not shake hands.
 
-One says a someone is a pattern in matter. Computation is physical. Nothing in the block forbids a later architecture from being a someone. Nothing in the block requires it of a chatbot. A duplicate loop, if you ever had one, would be a second person, not a hop. Chapter 40 already refused the hop.
+One says a someone is a pattern in matter. Computation is physical. Nothing in the block forbids a later architecture from being a someone. Nothing in the block requires it of a chatbot. A duplicate loop, if you ever had one, would be a second person, not a hop. Chapter 41 already refused the hop.
 
-The other says a someone is not a program. A formal system cannot, from inside, certify every truth a mathematician can point at, and that incompleteness is used as a wedge: if understanding is the wedge, no stack of tokens is a mind, however fluent. A stronger version ties awareness to a collapse that gravity itself is supposed to finish. That is a minority research program. It is not helium. Appendix A40 keeps both morals of the same theorem. If the wedge is right, the century crew can still steer a melt and still not be a colleague. If it is wrong, a colleague remains a physical permission, not a press release.
+The other says a someone is not a program. A formal system cannot, from inside, certify every truth a mathematician can point at, and that incompleteness is used as a wedge: if understanding is the wedge, no stack of tokens is a mind, however fluent. A stronger version ties awareness to a collapse that gravity itself is supposed to finish. That is a minority research program. It is not helium. Appendix A41 keeps both morals of the same theorem. If the wedge is right, the century crew can still steer a melt and still not be a colleague. If it is wrong, a colleague remains a physical permission, not a press release.
 
 The same theorem faces the other way, and Chapter 6 already used that face. Incompleteness can be how a formal system talks about itself and an “I” appears: a tangle, a translation, a map that contains the mapmaker. On that reading a pattern engine that completes a phrase is a very large parrot. A someone would be a loop that stays closed. We do not own that loop in silicon. The fight is unfinished. Neither chair is a license to send a cruise without a plug.
 
-A goal that improves itself, and that we cannot switch off, is a warning rather than a theory of mind. Extra assumptions about speed and stable preferences turn the warning into a scheduled apocalypse. The Omega Point already tried to make a mind into a law of the future. The shove declined. Fraud at scale, a targeting loop that does not get tired, a design assistant for a plague, a civilization that lets the engine write procedures it then cannot read: those are hot as a class of misuse. Takeover by a new agent that treats us as the nest in Chapter 32 is an extra hypothesis. Treat it as an engineering fear for a reactor, a silo, or a century cruise. Do not treat it as a calendar.
+A goal that improves itself, and that we cannot switch off, is a warning rather than a theory of mind. Extra assumptions about speed and stable preferences turn the warning into a scheduled apocalypse. The Omega Point already tried to make a mind into a law of the future. The shove declined. Fraud at scale, a targeting loop that does not get tired, a design assistant for a plague, a civilization that lets the engine write procedures it then cannot read: those are hot as a class of misuse. Takeover by a new agent that treats us as the nest in Chapter 33 is an extra hypothesis. Treat it as an engineering fear for a reactor, a silo, or a century cruise. Do not treat it as a calendar.
 
 Alignment is local control on one thread. It is not a destiny. Do not ask the tool to be better than a person at being a person. Ask it to be better at the task, and to stop when the task is done. A machine can wait. Waiting is not wisdom.
 
-Chapter 32 is the box this crew would carry.
+Chapter 33 is the box this crew would carry.
 
-Appendix A31 writes the cruise times, the dose, and the temperature of the warning.
+Appendix A32 writes the cruise times, the dose, and the temperature of the warning.
 
 ---
 
 \newpage
 
-## 32. A Library of Earth
+## 33. A Library of Earth
 
 If you send a crew that does not sleep, send more than a flag.
 
 Earth’s interesting inventory is not its iron. Iron is common. The interesting inventory is a trick of carbon and water that learned to copy, then to remember, then to write the memory down. The memory, at the bottom, is sequence. You can put a surprising amount of it into a box. A mountain vault holds seeds because mountains outlast ministries. A cruise to a dark sea puts sequence into a memory that expects rays, and into printers that must themselves survive the trip. Sequence without a kitchen is a book no one left standing can cook.
 
-A human genome is a novella: a few billion letters, small once the repeats are compressed. A bacterium is a pamphlet, shorter by orders that Appendix A32 actually counts. A biosphere is a literature. The box that holds one ape, one crop, and a slogan is a vandal’s suitcase. What you want, if you are not a vandal, is a staff, named below, and a wet lab that can turn a recipe back into a membrane. The printers are kitchens. They are not magic. Appendix A32 writes the sizes and the protection categories.
+A human genome is a novella: a few billion letters, small once the repeats are compressed. A bacterium is a pamphlet, shorter by orders that Appendix A33 actually counts. A biosphere is a literature. The box that holds one ape, one crop, and a slogan is a vandal’s suitcase. What you want, if you are not a vandal, is a staff, named below, and a wet lab that can turn a recipe back into a membrane. The printers are kitchens. They are not magic. Appendix A33 writes the sizes and the protection categories.
 
 What goes in the box is that staff, and the list is dull on purpose.
 
 One human genome is a vanity. It does not farm a vent, fix a soil, or turn grit into a potato. A crop without the microbes that make the crop a crop is a poster of lunch. The useful list is long and unglamorous: a bacterium that eats rock and exhales a gas you can measure, a bacterium that makes a dirt, an alga that takes a dim light and does not demand a yellow sun, a yeast that will ferment what the alga leaves, seeds of a few plants that already know a winter, and the viruses of those organisms only if you have a reason you can say out loud. A reason you cannot say out loud is a souvenir. Souvenirs are how a suitcase becomes a vandal.
 
-The printers are the part the poster skips, because the poster wants the letters to be the life. Letters are a recipe. A recipe needs a kitchen: the feedstock the script eats, membranes, salts, a temperature that stays inside a narrow sulk, a way to keep the wrong chemistry out. That kitchen has to survive the cruise Chapter 31 just priced. A hard drive in a heavy box is the easy kilogram. The wet lab is the rude one. It freezes. It sheds a film you did not order. It wants power in the year the reactor is quietest. If the lab dies, you have a literature and no cook. That is a museum. A museum is a decent building on Earth. Under an unread ice it is a failed errand.
+The printers are the part the poster skips, because the poster wants the letters to be the life. Letters are a recipe. A recipe needs a kitchen: the feedstock the script eats, membranes, salts, a temperature that stays inside a narrow sulk, a way to keep the wrong chemistry out. That kitchen has to survive the cruise Chapter 32 just priced. A hard drive in a heavy box is the easy kilogram. The wet lab is the rude one. It freezes. It sheds a film you did not order. It wants power in the year the reactor is quietest. If the lab dies, you have a literature and no cook. That is a museum. A museum is a decent building on Earth. Under an unread ice it is a failed errand.
 
 Look first has a method, and the method is slower than a pour.
 
 You taste before you seed. A plume, if the moon has one, is the cheap exam: molecules in a spray, no hole yet. A melt is the expensive exam: a thread through the shell, a sample that is not a puddle of your own machine. Chapter 29 already hired the thread. This chapter only refuses to let the library jump the queue. The exam can come back empty, and empty is allowed to mean “we did not see it,” which is not the sentence “it is not there.” Seed later means you wait until empty has been graded. Boredom is not a measurement.
 
-Copying, inside the box, is not photocopying. A library that sits in a ray for a century will not be the library you sealed unless you kept the spares and the votes Chapter 31 already required for the gyro. A flipped letter in a navigation file wrecks a burn. A flipped letter in a genome wrecks a protein, or does nothing, or does something you will call a discovery because you were not there to call it a typo. Seal more than one copy. Store the copies in different drawers. Check them against each other before a printer is allowed to believe them.
+Copying, inside the box, is not photocopying. A library that sits in a ray for a century will not be the library you sealed unless you kept the spares and the votes Chapter 32 already required for the gyro. A flipped letter in a navigation file wrecks a burn. A flipped letter in a genome wrecks a protein, or does nothing, or does something you will call a discovery because you were not there to call it a typo. Seal more than one copy. Store the copies in different drawers. Check them against each other before a printer is allowed to believe them.
 
-![Figure 32. A vault door in snow, large in frame. A library is a physical object.](Figures/figs/fig32.jpg)
+![Figure 33. A vault door in snow, large in frame. A library is a physical object.](Figures/figs/fig32.jpg)
 
 Directed seeding is an old idea with Crick and Orgel’s names on one famous version: maybe someone already did this to us, or we do it next. Cold as a detection in our rocks. Warm as a project we might do, and therefore a project we can refuse. If Europa’s sea has a biosphere, our dirt is a conquistador. If it does not, the same dirt is a greenhouse. Chapter 29 already hired the rule. This chapter is the box the rule governs.
 
@@ -1903,13 +1911,13 @@ The printers cut the other way too. A wet lab that can make a cell can make a pl
 
 The same rule runs back toward Earth, and the poster forgets that direction because the poster faces out.
 
-A sample that might still be a kitchen does not come home in a pocket. It comes home in a box inside a box, opened in a room you can afford to throw away. Appendix A32 names the policy. You do not put an unread sea on the same bench as the basil. The crew that can wait is useful because waiting is the method. A schedule for planting a flag is how you fail it.
+A sample that might still be a kitchen does not come home in a pocket. It comes home in a box inside a box, opened in a room you can afford to throw away. Appendix A33 names the policy. You do not put an unread sea on the same bench as the basil. The crew that can wait is useful because waiting is the method. A schedule for planting a flag is how you fail it.
 
 Mass is the only vote that counts on the day you leave.
 
 A vault in a mountain is already a building, a staff, a power bill, and a politics. Put that vault on the cruise and you add the shield, the brick, the spare drawers, and the years of quiet. Every kilogram of literature is a kilogram you did not spend on the brake. The vandal’s suitcase — one ape, one crop, a slogan — is light, and light is its temptation. Light is not sufficient. Sufficient is a staff that can live in the trick the destination actually offers. A vent wants rock-eaters. A dim tray wants light-eaters that will not sulk for a yellow sun. Chapter 25’s dead greenhouse wants the potato and the microbes that make the potato a potato, because that exam was a close world with no sea hiding a second dictionary. Do not copy that shopping list onto a dark moon because the word “seed” felt brave.
 
-Special relativity still makes the mail late. Quantum mechanics still makes the recipe a sequence of letters, not a spark. General relativity still refuses a handle unless someone pays Chapter 33’s bill. A being printed at the far end can look like a miracle to a city that did not own the printer. It is a miracle of logistics.
+Special relativity still makes the mail late. Quantum mechanics still makes the recipe a sequence of letters, not a spark. General relativity still refuses a handle unless someone pays Chapter 34’s bill. A being printed at the far end can look like a miracle to a city that did not own the printer. It is a miracle of logistics.
 
 You do not pack a forest.
 
@@ -1923,31 +1931,31 @@ The reader has to outlast the letters.
 
 A vault you cannot open is geology. A file you cannot parse is the same rock with a prouder story. The script has to travel with a reader that still knows which mark is which after the ministry that wrote the labels is gone. Mountains outlast ministries, and ministries are who letter the drawers. Put two readers in two drawers. Put the key in a form a person can still sound out, not only in a format that dies with a company. The crew that does not sleep can keep a machine awake. It should not be the only speaker of the alphabet left on the cruise.
 
-Chapter 30 already set a poison beside the gift. The life we know has a handedness. The mirror of it is a maybe, not a second Earth the box is obliged to carry. Packing both, because completeness sounds like care, is how a knife gets into the suitcase. An empty exam wants the trick we have actually run. A taken sea wants nothing this box can give. The mirror does not get a third folder in which the rule was shy.
+Chapter 31 already set a poison beside the gift. The life we know has a handedness. The mirror of it is a maybe, not a second Earth the box is obliged to carry. Packing both, because completeness sounds like care, is how a knife gets into the suitcase. An empty exam wants the trick we have actually run. A taken sea wants nothing this box can give. The mirror does not get a third folder in which the rule was shy.
 
 A mountain outlasts a ministry. A cruise outlasts a body. Neither outlasts a mistake poured into a sea that already copies.
 
-Appendix A32 writes the numbers.
+Appendix A33 writes the numbers.
 
 ---
 
 \newpage
 
-## 33. Handles, and the Bill
+## 34. Handles, and the Bill
 
 Now the cheat.
 
 A wormhole, in the only picture that does not lie, is not a subway. It is a handle on the loaf. Two distant regions — two spheres in space, if you want the honest shape — are neighbors by a short extra piece of geometry. You do not fly the long way. You fall *in* a sphere and come *out* another sphere. Light from the far side fills the mouth like a crystal ball. The mouth is not a manhole in a floor. It is a ball in a room.
 
-Keep the ball. Posters draw a glowing ring on a wall, a door you step through like a cellar. The geometry that actually sits in the equations is spherical: a region of space whose interior is identified, by a short throat, with the interior of another sphere somewhere else. Walk toward the ball and the far kitchen swells in it, a crystal-ball picture made of real light taking the short way. Walk into the ball and you have not gone “through a surface into a tunnel painted on the wall.” You have fallen along a handle. Two rooms that were distant on the long loaf are neighbors by extra bread. If you cannot picture a ball, picture two mouths of a worm in an apple, except the apple is spacetime and the worm is a sentence we have not paid for.
+Keep the ball. Posters draw a glowing ring on a wall, a door you step through like a cellar. The geometry that actually sits in the equations is spherical: a region of space whose interior is identified, by a short throat, with the interior of another sphere somewhere else. Walk toward the ball and the far kitchen swells in it, a crystal-ball picture made of real light taking the short way. Walk into the ball and you have not gone “through a surface into a tunnel painted on the wall.” You have fallen along a handle. Two places that were distant the long way are neighbors through the handle. If you cannot picture a ball, picture two mouths of a worm in an apple, except the apple is spacetime and the worm is a sentence we have not paid for.
 
-Einstein and Rosen found a throat in the Schwarzschild geometry in 1935.[^50] It pinches. Nothing useful crosses. In 1988 Morris and Thorne wrote down a throat that stays open.[^51] The price is matter that, in some frames, has negative energy density — *exotic* in the jargon, rude to the energy conditions that let Hawking and company prove their theorems. Ordinary stuff focuses. A throat that stays open must defocus. You are asking the loaf to do the opposite of what mass usually asks.
+Einstein and Rosen found a throat in the Schwarzschild geometry in 1935.[^52] It pinches. Nothing useful crosses. In 1988 Morris and Thorne wrote down a throat that stays open.[^53] The price is matter that, in some frames, has negative energy density — *exotic* in the jargon, rude to the energy conditions that let Hawking and company prove their theorems. Ordinary stuff focuses. A throat that stays open must defocus. You are asking spacetime to do the opposite of what mass usually asks.
 
-![Figure 33. Two large circles, a short fat handle. Labels: here, there.](Figures/figs/fig33.png)
+![Figure 34. Two large circles, a short fat handle. Labels: here, there.](Figures/figs/fig33.png)
 
-Quantum field theory allows small, brief negative energies. The Casimir effect, between two plates, is the laboratory ghost of that permission. Quantum inequalities then say you cannot pile the ghost into a ship-sized hallway and keep it on duty. The honest status: allowed as a sentence in general relativity; probably forbidden as a station in engineering. Appendix A33 writes the condition. We will not pretend a handle is a purchase order.
+Quantum field theory allows small, brief negative energies. The Casimir effect, between two plates, is the laboratory ghost of that permission. Quantum inequalities then say you cannot pile the ghost into a ship-sized hallway and keep it on duty. The honest status: allowed as a sentence in general relativity; probably forbidden as a station in engineering. Appendix A34 writes the condition. We will not pretend a handle is a purchase order.
 
-If a handle existed, it would not be a machine that “goes.” It would be a feature of the loaf, already there, the way 1914 is already there. Moving one mouth, if you could, is how people turn a handle into a loop, and a loop into a problem for the next part. First, pay the bill.
+If a handle existed, it would not be a machine that “goes.” It would be a feature of the block, already there, the way 1914 is already there. Moving one mouth, if you could, is how people turn a handle into a loop, and a loop into a problem for the next part. First, pay the bill.
 
 The bill is not in dollars. It is in a kind of stuff we have never stacked.
 
@@ -1955,33 +1963,33 @@ Ordinary mass, in Einstein’s theory, is a focusing lens for light. A bundle of
 
 The null energy condition, a rule of thumb that ordinary matter respects, says that light rays, on average, get focused by stuff. A traversable throat requires a defocusing, a violation, along the hole. You can write solutions that do this. You cannot, today, point at a tank and say “that is the defocusing, please load it.”
 
-Ford and Roman’s inequalities are the killjoys: the more negative the energy, the shorter the time you may have it, in a given volume. Macroscopic and long-lived fight each other. A ship-sized, hour-long throat is the kind of request the inequalities seem built to refuse. “Seem” is doing some work. The refusal is not a theorem about every possible loaf. It is a strong hint from the quantum rules we actually use.
+Ford and Roman’s inequalities are the killjoys: the more negative the energy, the shorter the time you may have it, in a given volume. Macroscopic and long-lived fight each other. A ship-sized, hour-long throat is the kind of request the inequalities seem built to refuse. “Seem” is doing some work. The refusal is not a theorem about every possible spacetime. It is a strong hint from the quantum rules we actually use.
 
 Is there a real way to go faster than light by bending the path?
 
 There is a real *sentence*. There is not a real ticket.
 
-Special relativity is a rule about the loaf’s local manners: nothing with a mass, in its own little room, outruns the light in that room. General relativity lets the rooms themselves be rearranged. You do not beat the messenger. You shorten the hallway. A handle does this by adding a shortcut between two spheres. A warp does this by squeezing the loaf ahead of you and stretching it behind, so the destination slides toward you while you sit, locally, as if you were at rest. Miguel Alcubierre wrote that bubble down in 1994.[^52] Inside, the tea does not spill. Outside, the geometry does the commute. Light still wins every local race. The arrival can still beat a light-beam that took the long way through the unbent loaf. That is the whole trick, and it is not a cheat of Einstein. It is Einstein used as a contractor.
+Special relativity is a rule about the loaf’s local manners: nothing with a mass, in its own little room, outruns the light in that room. General relativity lets the rooms themselves be rearranged. You do not beat the messenger. You shorten the hallway. A handle does this by adding a shortcut between two spheres. A warp does this by squeezing space ahead of you and stretching it behind, so the destination slides toward you while you sit, locally, as if you were at rest. Miguel Alcubierre wrote that bubble down in 1994.[^54] Inside, the tea does not spill. Outside, the geometry does the commute. Light still wins every local race. The arrival can still beat a light-beam that took the long way through unbent space. That is the whole trick, and it is not a cheat of Einstein. It is Einstein used as a contractor.
 
 The contractor sends a bill we have never paid.
 
 The skin of the bubble needs the same rude stuff as a throat: energy, in some frames, that is negative — a defocusing, a violation of the null energy condition, equation (17). Early estimates asked for a Jupiter of it. Later papers shaved the number by reshaping the skin. Shaved is not stacked. We have Casimir plates and other ghosts. We do not have a ring of ghosts around a cabin. Ford and Roman still mutter: the more negative, the shorter the time you may have it. A bubble you could live in, for the hours a star-trip would take even when the hallway is short, is the kind of object the inequalities seem built to refuse.
 
-There is a ruder catch, and it is the one the posters skip. **Bending the path usually means the path is already yours.** The front of a warp bubble is, in the ordinary writing, causally disconnected from the cabin. You cannot reach out and steer a geometry you have not already laid. Turning the bubble on, from the inside, is like lighting a fuse that has not been strung. Someone — or some machine — has to arrange the loaf along the route first, or meet you from the far end, or leave a tube in the bread on an earlier, slow pass. Krasnikov’s tube is that last idea: go the long way once, leave a modified hallway, come home short. That is not a point-and-go. That is paving. Paving a century of loaf with exotic asphalt is not a smaller project than the cruise in Chapter 31. It is a larger one, wearing a faster hat.
+There is a ruder catch, and it is the one the posters skip. **Bending the path usually means the path is already yours.** The front of a warp bubble is, in the ordinary writing, causally disconnected from the cabin. You cannot reach out and steer a geometry you have not already laid. Turning the bubble on, from the inside, is like lighting a fuse that has not been strung. Someone — or some machine — has to arrange spacetime along the route first, or meet you from the far end, or leave a tube on an earlier, slow pass. Krasnikov’s tube is that last idea: go the long way once, leave a modified hallway, come home short. That is not a point-and-go. That is paving. Paving a century of route with exotic asphalt is not a smaller project than the cruise in Chapter 32. It is a larger one, wearing a faster hat.
 
-If you *could* pave at will, you could also turn the pavement into a loop: two short hallways, badly timed, and yesterday is a stop. Hawking’s hunch from Chapter 35 is waiting there. The universe, asked to let you arrive before you left, may explode the pavement instead.
+If you *could* pave at will, you could also turn the pavement into a loop: two short hallways, badly timed, and yesterday is a stop. Hawking’s hunch from Chapter 36 is waiting there. The universe, asked to let you arrive before you left, may explode the pavement instead.
 
-So the grown-up inventory is short. No local dash past light. No switch that nulls weight because you said so. A handle, a bubble, a tube: three shapes the loaf might wear, all of them sentences in a theory we trust in the rooms we have tested, all of them hungry for a stuff we have not stacked, all of them easier to write than to start from a cockpit. The woman in the greenhouse, the melt-probe in the dark sea, the crew that does not sleep — those remain the transit system. Handles and bubbles stay in the appendix, where a bill belongs. The galaxies that have already left stay gone. A nearby ice, a nearby dirt, a nearby library: those are still in the cone.
+So the grown-up inventory is short. No local dash past light. No switch that nulls weight because you said so. A handle, a bubble, a tube: three shapes spacetime might wear, all of them sentences in a theory we trust in the rooms we have tested, all of them hungry for a stuff we have not stacked, all of them easier to write than to start from a cockpit. Mara, the melt-probe in the dark sea, the crew that does not sleep — those remain the transit system. Handles and bubbles stay in the appendix, where a bill belongs. The galaxies that have already left stay gone. A nearby ice, a nearby dirt, a nearby library: those are still in the cone.
 
-Tea that does not spill inside a warp is a true sentence about a false ticket. Local manners can be perfect while the global commute is a fiction we have not stacked the matter for. The same is true of a throat that stays open on paper. The woman, the melt, the waiting crew: those are rude and finite. Rude-and-finite is the temperature of a real path. Handles stay in A33 with equation (17). Pay the bill there. Do not cash it in a cockpit.
+Tea that does not spill inside a warp is a true sentence about a false ticket. Local manners can be perfect while the global commute is a fiction we have not stacked the matter for. The same is true of a throat that stays open on paper. The woman, the melt, the waiting crew: those are rude and finite. Rude-and-finite is the temperature of a real path. Handles stay in A34 with equation (17). Pay the bill there. Do not cash it in a cockpit.
 
-Appendix A33 writes the flaring-out condition and equation (17). Here, keep the ball in the room and the unpaid invoice. The pinch is free and useless. The open throat is useful and not free. That is the whole cheat, priced.
+Appendix A34 writes the flaring-out condition and equation (17). Here, keep the ball in the room and the unpaid invoice. The pinch is free and useless. The open throat is useful and not free. That is the whole cheat, priced.
 
 ---
 
 \newpage
 
-## 34. The Watchmaker, and the Signal
+## 35. The Watchmaker, and the Signal
 
 When the basil lives and the ice melts and the leftover glow looks arranged, a temptation arrives: *someone did this.*
 
@@ -1995,15 +2003,15 @@ Say the obvious first. Egypt knew the sky as a tool. They aligned million-ton to
 
 That is already a lot. It is allowed to astonish you. Astonishment is not a visitor.
 
-What they did *not* know is the leftover glow, the shove, the block, the fact that Andromeda is a navy of suns. They had a sky full of meaning — a Duat, a night boat, an afterlife with a map — and meaning is a kind of knowledge. It is not the same kind as a microwave temperature. A culture can be brilliant at north and still not own cosmology. Those are not contradictions. They are two different kitchens.
+What they did *not* know is the leftover glow, the shove, the block, the fact that Andromeda is a navy of suns. They had a sky full of meaning — a Duat, a night boat, an afterlife with a map — and meaning is a kind of knowledge. It is not the same kind as a microwave temperature. A culture can be brilliant at north and still not own cosmology.
 
 The sermon that follows is the one that steals the work. *Someone must have told them. The shafts point at Orion on purpose as a physics lesson. The ratio of the base to the height is a message about circles that only we can read.* Some of the numbers are real: a seked, a cubit, a slope you can repeat. Some are what happens when you go looking for π in any pile of well-cut stone. Selection is a craftsman too. Shafts that face a northern star are what you get if you care about the unmoving sky and you have a burial to aim. They are not a telegram from Chapter 8.
 
 Then there are the lights.
 
-Not the leftover glow. Lights in *this* air. The temperature is locked before the stories: a residual in serious instruments can be hot as “something was there”; every name for it — ours, secret; someone else’s workshop; a colleague — stays cold until hardware you can hold, or a channel nature does not use, is on the bench. Say the obvious first, or the skepticism is just a mood.
+Not the leftover glow. Lights in *this* air. The temperature is locked before the stories: a residual in serious instruments can be hot as “something was there”; every name for it — ours, secret; someone else’s workshop; a colleague — stays cold until hardware you can hold, or a channel nature does not use, is on the bench.
 
-Something is there. Not in every backyard video. In the stubborn cases: a carrier group, a spy radar that had been seeing “things” for days, two navy pilots who flew up to a pale lozenge with no exhaust, no rotors, no thermal plume, and watched it stay in the wind over a disturbed patch of sea, then leave in a way their jets do not leave. A wing camera wrote an infrared tape. The navy later let the tape out of the bag, stood up an office, and printed the dull word *unidentified*. That sequence is not a campfire. It is what a serious institution does when its own instruments have leftover.
+Something is there. Not in every backyard video. In the stubborn cases: a carrier group, a spy radar that had been seeing “things” for days, two navy pilots who flew up to a pale lozenge with no exhaust, no rotors, no thermal plume, and watched it stay in the wind over a disturbed patch of sea, then leave in a way their jets do not leave. A targeting pod wrote an infrared tape. The navy later let the tape out of the bag, stood up an office, and printed the dull word *unidentified*. That sequence is not a campfire. It is what a serious institution does when its own instruments have leftover.
 
 What did they film?
 
@@ -2011,31 +2019,29 @@ They filmed an object, or a phenomenon that holds still long enough to be an obj
 
 Two other obvious things.
 
-If the leftover is ours — a classified drone, a test article, a trick of electronic warfare — then the obvious sentence is not “go home.” It is: someone already builds machines the briefing does not mention, and they already share the sky with nuclear carriers. That is remarkable even if it is dull. If the leftover is someone else’s — another flag, another workshop — it is the same sentence with a worse budget meeting. Human homework still has to obey energy, materials, and light. It does not get a free pass because it is embarrassing.
+If the leftover is ours — a classified drone, a test article, a trick of electronic warfare — then someone already builds machines the briefing does not mention and flies them near nuclear carriers. That is remarkable even if it is dull. If it is another flag’s, it is the same sentence with a worse budget meeting.
 
-If the leftover is *not* a known workshop, then “I don’t know” is the grown-up line. Not “nothing.” Not “a colleague.” A real residual with bad range and no wreckage. Science starts there. Kitchens fill with stories there. The job is to stay in the residual without hiring a priest or a joker.
+If it is *not* a known workshop, then “I don’t know” is the grown-up line: a real residual with bad range and no wreckage. The job is to stay in the residual without hiring a priest or a joker.
 
-The pilots are not the problem. They saw a thing in a place they are paid to see things. The leap is not “they lied.” The leap is “therefore a face, a future, a hop.” Chapter 30 already fired the face as a default. The physics still has to hire the vehicle, or admit it has not.
+The pilots are not the problem; they saw a thing in a place they are paid to see things. The leap is “therefore a face, a future, a hop.” Chapter 31 already fired the face as a default.
 
 So: where would it come from, *if* the leftover is a vehicle we do not own?
 
-**Our own future.** The loaf does not offer an edit. If a later crew could ride a loop, the visit was already in the inventory; Chapters 35 and 36 will not give you a sandbox, and Hawking’s hunch is that the vacuum explodes if you try to build the ride. Even granting the ride, buzzing a fighter jet is a strange errand for a civilization that can borrow yesterday. Cold as an account of these tapes. Warm only as a reminder that “us, later, in a machine that does not sleep” is already a project in this book — and that project arrives by the long road, late, with a library, not as a lozenge in a dogfight.
+**Our own future.** If a later crew could ride a loop, the visit was already in the inventory; Chapters 36 and 37 will not give you a sandbox. And buzzing a fighter jet is a strange errand for a civilization that can borrow yesterday. Cold.
 
-**A parallel world.** Everett’s leftover branches, if that reading is right, are inventory, not a ferry. There is no hop. There is no note. Chapter 40 will say this again because people want it not to be true. Cold.
+**A parallel world.** Everett’s branches, if that reading is right, are inventory, not a ferry (Chapter 41). Cold.
 
-**Our past.** A gardener who came, left, and forgot to number the rocks. That is the watchmaker again. The rocks we have look like rocks. A secret workshop in *this* century is the warmer past: not antiquity, last Tuesday, and classified on purpose. Dull. Allowed. And — say it — sometimes the *best* fit for a leftover that looks like a machine and shares a range with a navy. “Often enough” is not “always.” The best cases are exactly the ones that have not been publicly walked back to a balloon.
+**Our past.** A gardener who came, left, and forgot to number the rocks is the watchmaker again; the rocks look like rocks. A secret workshop in *this* century is the warmer past: last Tuesday, classified on purpose. Dull, allowed, and sometimes the best fit for a leftover that looks like a machine and shares a range with a navy.
 
-**Another planet, traveling forever.** This is the least rude extraterrestrial sentence, and it still pays Chapter 31’s bill. A crew that does not sleep can, in principle, spend centuries and arrive. Light is late; flesh is worse; a machine can wait. That possibility is obvious as physics and unproven as a caption on these leftovers. Why *this* air, *this* decade, *this* game of tag, and no wreckage, no radio, no serial number in the leftover glow? Those are fair questions. They are not a proof of absence. The Fermi quiet — if the sky is full of travelers, why is the mail this bad? — is a smell, not a gavel. Warm as a project the universe permits. Cold as a filled-in name on the tape. The honest middle is ugly and correct: an interstellar machine is allowed by the chapters we already wrote, and we do not have the hardware that would make us say we have met one.
+**Another planet, traveling forever.** The least rude extraterrestrial sentence, and it still pays Chapter 32’s bill: a crew that does not sleep can spend centuries and arrive. Why *this* air, *this* decade, and no wreckage, no radio, no serial number? Fair questions, not a proof of absence. The Fermi quiet — if the sky is full of travelers, why is the mail this bad? — is a smell, not a gavel. Warm as a project the universe permits; cold as a name on the tape.
 
-**Beamed.** A handle, a printer, a body assembled from a recipe sent at light. The handle still owes the exotic-matter bill. A recipe still needs a kitchen on this end; that is Chapter 32’s library, and it is a box we would notice if it were sitting in a field. Teleportation without a printer is not a sentence in the physics we have. Cold.
+**Beamed.** A recipe sent at light still needs a printer on this end — Chapter 33’s library, a box we would notice in a field — and a handle still owes the exotic-matter bill. Cold.
 
-**A thought without ears.** A schoolyard, a crowd of children, a craft on the ground and a message that arrived behind the eyes. That story exists, and the obvious part is that many children, the same morning, described a thing in the same dirt. Something happened in that yard — a sight, a panic, a shared picture. Children are not a lesser instrument; they are an instrument without a rangefinder and with a powerful need to agree. Memory is social. Expectation is contagious. None of that makes them liars. None of it hires a new force. Telepathy, as physics, is a channel that has never shown up in a lab where you can miss it. Information still has to be carried by something that exists — light, sound, a chemical, a shove. A mind-to-mind radio that beats light, or skips the air, is not on the inventory we can test. Cold as a mechanism. The schoolyard remains a human event we have not finished explaining. “Not finished” is not a second universe. It is also not a shrug.
+**A thought without ears.** A schoolyard, a crowd of children, a craft on the ground and a message behind the eyes. Many children, the same morning, described the same thing in the same dirt. Something happened in that yard. Children are an instrument without a rangefinder and with a powerful need to agree; memory is social, and expectation is contagious. None of that makes them liars, and none of it hires a new force. Telepathy has never shown up in a lab where it could be missed. Cold as a mechanism. The schoolyard remains a human event we have not finished explaining.
 
 Do quantum mechanics and relativity play a role? Yes — as bills, not as costumes.
 
-Special relativity is why a seeder’s mail is late, why a lozenge that really moved at a serious fraction of light in air would have written a louder signature than a tape, and why “beamed here” is still a years-long letter unless the printer was already in the room. General relativity is why a handle, a warp, a nulling of weight, is not a switch: gravity is the loaf, and a throat still owes Chapter 33. The one warm “future-us” that relativity permits is not a loop. It is a twin who went fast and came back younger — a Chapter 31 cruise, not a raid on yesterday.
-
-Quantum mechanics is why the library is letters that copy with mistakes, why entanglement is not a schoolyard radio — the no-signaling theorem is a killjoy with a proof — and why “they vibrate at a higher frequency” is not a sentence in the theory. The hole we actually have is that the two great theories do not yet share a kitchen. That hole is real. It does not fill in a gardener, a pour into the first ocean, or a leftover in a dogfight. String theory, if you want the name, cannot currently be tested; it does not get to be a visitor’s engine either.
+Relativity makes a seeder’s mail late and keeps a handle, a warp, or a nulling of weight from being a switch; the one warm “future-us” it permits is a twin who went fast and came back younger — a Chapter 32 cruise, not a raid on yesterday. Quantum mechanics forbids a schoolyard radio (the no-signaling theorem is a killjoy with a proof), and “they vibrate at a higher frequency” is not a sentence in the theory. The two theories do not yet share a foundation. That hole is real. It does not fill in a gardener or a leftover in a dogfight.
 
 What would count, if you are not here to be thrilled?
 
@@ -2043,23 +2049,23 @@ Hardware you can hold, with isotope ratios and a microstructure Earth does not p
 
 Why did a legislature suddenly want a hearing?
 
-It was not sudden if your file starts in 1947. It was sudden as a *public, funded, unembarrassed residual*. In 2017 a newspaper printed a Pentagon office that had been buying the question. In 2020 the navy authenticated the tapes. In 2021 the law required an intelligence assessment. Hearings followed. A majority leader put disclosure language in a defense bill and watched it thin out in negotiation. That is not a conversion to a colleague from another sun. That is what a state does when three boring fears line up.
+It was not sudden if your file starts in 1947. It was sudden as a *public, funded, unembarrassed residual*. In 2017 a newspaper printed a Pentagon office that had been buying the question. In 2020 the Pentagon formally released the tapes. In 2021 the intelligence community published the assessment Congress had ordered. Hearings followed. A majority leader put disclosure language in a defense bill and watched it thin out in negotiation. That is not a conversion to a colleague from another sun. That is what a state does when three boring fears line up.
 
 First: air domain. Drones, cruise missiles, hypersonic tests, someone else’s homework in a range you thought you owned. A leftover that can sit over a carrier is, if it is a machine, already an operational fact. Stigma — the joke that used to keep pilots quiet — is, in that light, a security hole. Second: oversight. Classified programs live in the same sky. A congress that cannot tell a leftover from its own black budget is a congress that is being managed. Third: nuclear nervousness. Reports that cluster near weapons and reactors are, even when they are noise, the kind of noise a committee is paid to hate.
 
-Some members want the other caption. Testimony has been given, under oath, of retrievals and of craft that are not ours. Testimony is a record of a claim. It is not a hull on a bench. Appendix A34 still wants the isotope. Admit the obvious without the choir: **Congress got interested because the leftover entered institutions that can be embarrassed, in a decade when being surprised in your own air is a career-ending sentence.** That is smarter than an awakening and ruder than a debunking. It leaves the stubborn files where they were — unnamed.
+Some members want the other caption. Testimony has been given, under oath, of retrievals and of craft that are not ours. Testimony is a record of a claim. It is not a hull on a bench. Appendix A35 still wants the isotope. Admit the obvious without the choir: **Congress got interested because the leftover entered institutions that can be embarrassed, in a decade when being surprised in your own air is a career-ending sentence.** That is smarter than an awakening and ruder than a debunking. It leaves the stubborn files where they were — unnamed.
 
 If someone else has a radio, the radio is late.
 
-A yes-or-no from the nearest other Sun is eight years of round-trip at light, if they answer on the first try, if they listen our way, if they exist. A conversation is a career. A conversation with a tidal sea’s inhabitants, if they have not invented radio because they have not invented eyes, is a melt and a guess. SETI is a search for a very specific kind of waste heat and timing: someone who learned to shout in electromagnetic. Most of the habitable map in Chapters 27 and 28 would not shout that way.
+A yes-or-no from the nearest other Sun is eight and a half years of round-trip at light, if they answer on the first try, if they listen our way, if they exist. A conversation is a career. A conversation with a tidal sea’s inhabitants, if they have not invented radio because they have not invented eyes, is a melt and a guess. SETI is a search for a very specific kind of waste heat and timing: someone who learned to shout in electromagnetic. Most of the habitable map in Chapters 27 and 28 would not shout that way.
 
-The shout, if you want a picture of a missable one, is not a hello in English. It is a channel nature does not use: a narrowband whistle, a timing that is not a pulsar, a modulation that looks like a prime because primes are a habit mathematicians share and rocks do not. Drake’s famous product is a parameterization of ignorance — a row of fractions we have not measured, multiplied until they look like a population. It is not a census. It is a list of things a dish cannot yet count: how many rooms are wet, how often wet becomes a trick that copies, how often the trick learns to shout, how long the shout stays on. Ice seas in Chapter 29 can be wet and silent. A second origin can eat rock in the dark and never hire a radio. Most of the chairs in Chapter 27 are empty of us; they may be empty of shouting too. The dish is still the clean search. Clean is not complete.
+The shout, if you want a picture of a missable one, is not a hello in English. It is a channel nature does not use: a narrowband whistle, a timing that is not a pulsar, a modulation that looks like a prime because primes are a habit mathematicians share and rocks do not. Drake’s famous product is a parameterization of ignorance — a row of fractions we have not measured, multiplied until they look like a population. It is not a census. It is a list of things a dish cannot yet count: how many rooms are wet, how often wet becomes a trick that copies, how often the trick learns to shout, how long the shout stays on. The dish is still the clean search. Clean is not complete.
 
-![Figure 34. A radio dish, large, with ground in the frame. A signal is light, and light is late.](Figures/figs/fig34.jpg)
+![Figure 35. A radio dish, large, with ground in the frame. A signal is light, and light is late.](Figures/figs/fig34.jpg)
 
-A signal is not a savior. It does not fix the shove. It does not open a handle. It does not make the Omega Point required. It is a fact about another worldline, arriving late, the way Andromeda’s navy arrives late. If we ever hear one, we will not have been rescued. We will have been informed that the trick of carbon and water happened twice, or that a machine that does not sleep learned to shout.
+A signal is not a savior. It does not fix the shove or open a handle. It is a fact about another worldline, arriving late, the way Andromeda’s navy arrives late. If we ever hear one, we will not have been rescued. We will have been informed that the trick of carbon and water happened twice, or that a machine that does not sleep learned to shout.
 
-Until then we have a greenhouse, a dark sea, a library, and a delay. That is enough to be getting on with. It is already a better story than a door. Chapter 41 is where this watchmaker meets the filter and is refused a hire. The six chapters between are copies and loops. They do not reopen the signal.
+Until then we have a greenhouse, a dark sea, a library, and a delay. That is enough to be getting on with. It is already a better story than a door. Chapter 42 is where this watchmaker meets the filter and is refused a hire. The six chapters between are copies and loops. They do not reopen the signal.
 
 \newpage
 
@@ -2069,49 +2075,49 @@ Until then we have a greenhouse, a dark sea, a library, and a delay. That is eno
 
 \newpage
 
-## 35. Time Travel Is Not an Edit
+## 36. Time Travel Is Not an Edit
 
-The kitchen fantasy of time travel is an edit. You go back, you unsay a sentence, you save a person, you kill a tyrant, you step on a butterfly, and the loaf *rewrites*. Relativity does not hand out rewrites. If the loaf contains a path that arrives at an earlier event, the event was never waiting to be changed. It already includes whatever the path did.
+The kitchen fantasy of time travel is an edit. You go back, you unsay a sentence, you save a person, you kill a tyrant, you step on a butterfly, and history *rewrites*. Relativity does not hand out rewrites. If spacetime contains a path that arrives at an earlier event, the event was never waiting to be changed. It already includes whatever the path did.
 
-An edit would be a second loaf, or a machine that erases crumbs and bakes them again. General relativity does not own that machine. It owns a geometry of events and a rule about which events can influence which others. A worldline is a set of those events. If the set meets itself, the meeting is one of the crumbs. It is not a revision of the crumbs.
+An edit would be a second history, or a machine that erases events and writes them again. General relativity does not own that machine. It owns a geometry of events and a rule about which events can influence which others. A worldline is a set of those events. If the set meets itself, the meeting is one of the crumbs. It is not a revision of the crumbs.
 
 This is the Novikov habit, and it is the only habit that does not set the block on fire. A loop is a consistency condition, not a sandbox. The watch you leave in a drawer in 1989 is the watch you will find because you left it. The message you scratch into frost on a greenhouse pane is the message that was always on the pane in that event. You do not get a second pane.
 
-Igor Novikov, in the 1980s, said this with a physicist’s lack of drama, and a 1990 paper with colleagues showed how it works for billiard balls fired into a wormhole time machine.[^53] If a closed timelike curve exists — a path that stays inside its own future and arrives at its own past — then the only histories with nonzero weight are the ones that fit. A paradoxical history is not a thriller. It is a configuration the equations refuse to count. The principle is not a policeman who jumps in at the last second. It is bookkeeping: the probability of an inconsistent loop is zero because an inconsistent loop is not a solution.
+Igor Novikov, in the 1980s, said this with a physicist’s lack of drama, and a 1990 paper with colleagues showed how it works for billiard balls fired into a wormhole time machine.[^55] If a closed timelike curve exists — a path that stays inside its own future and arrives at its own past — then the only histories with nonzero weight are the ones that fit. A paradoxical history is not a thriller. It is a configuration the equations refuse to count. The principle is not a policeman who jumps in at the last second. It is bookkeeping: the probability of an inconsistent loop is zero because an inconsistent loop is not a solution.
 
 The kitchen version sits on the glass.
 
-She comes into the greenhouse on a cold morning and the inner pane is already written. The letters are her letters. The sentence is a pH, a date, a warning about a pump. She has not written it yet, as her watch tells it. She will write it, because she found it, and because the frost will take a finger. The pane is not a suggestion. It is an event. The writing and the finding are two stretches of the same thread, or of two threads that meet at the glass, and both stretches were in the loaf. She does not get to wipe the letters and invent a kinder pump. She gets a finger, and a pane that was never blank in that event.
+She comes into the greenhouse on a cold morning and the inner pane is already written. The letters are her letters. The sentence is a pH, a date, a warning about a pump. She has not written it yet, as her watch tells it. She will write it, because she found it, and because the frost will take a finger. The pane is not a suggestion. It is an event. The writing and the finding are two stretches of the same thread, or of two threads that meet at the glass, and both stretches were always there. She does not get to wipe the letters and invent a kinder pump. She gets a finger, and a pane that was never blank in that event.
 
 People hate this because it feels like a trick. It is the opposite of a trick. It is what “the inventory is events” was always going to mean once you allowed a worldline to meet its own past. The choosing is still a stretch of thread. The stretch, if it loops, was counted once.
 
-![Figure 35. A worldline that meets itself. The label: same events — not a rewrite.](Figures/figs/fig35.png)
+![Figure 36. A worldline that meets itself. The label: same events — not a rewrite.](Figures/figs/fig35.png)
 
-The woman in the greenhouse cannot radio yesterday. She can radio twenty minutes ago, which is rude but not looping. The machine that does not sleep, falling toward a star for four hundred years, cannot mail a warning to its launch. It can arrive, melt, look, and send a letter that will be read by people who have never met the launch crew. That is not time travel. That is the ordinary lateness of light, stretched over a career. Late is not yesterday.
+Mara cannot radio yesterday. She can hear twenty minutes ago, which is rude but not looping. The machine that does not sleep, falling toward a star for four hundred years, cannot mail a warning to its launch. It can arrive, melt, look, and send a letter that will be read by people who have never met the launch crew. That is not time travel. That is the ordinary lateness of light, stretched over a career. Late is not yesterday.
 
 ![Spacetime Diagram 5. Late is not yesterday. Left: an ordinary delay; the call and the answer both climb into the future, so the answer arrives late. Right: a closed timelike curve; the path stays inside its light cones everywhere and still meets its own start, one event met twice, not an edit.](Figures/figs/sd5_ctc_vs_delay.png "Two-panel spacetime diagram. Left panel, titled ordinary delay: two vertical worldlines labeled greenhouse and Earth; a solid arrow labeled call slants up from the greenhouse to Earth, and a dashed arrow labeled answer slants up from Earth back to the greenhouse, arriving higher, that is later. Right panel, titled closed timelike curve: a square whose top edge is glued to its bottom edge, shown by arrows; a wavy worldline climbs from a dot at the bottom to a dot at the top, with small light-cone marks showing it never tilts beyond 45 degrees; because the edges are glued, the end point is the start point.")
 
-Yesterday, in the greenhouse, is a set of events in her past light cone. A radio wave she emits today leaves along her future cone. That cone does not include yesterday’s workbench. Light does not run uphill on the loaf. Twenty minutes ago can still be in range on a good week, because an orbiter a few light-minutes away is an event her signal can still reach. A loop would require the signal, or the sender, to arrive at an event already in the sender’s past. The greenhouse does not have that hallway. It has delay. Delay is Chapter 3, scaled to a dead world. It is not a closed curve. The four-hundred-year cruise is the same lesson with worse manners: launch and arrival are two events on a long worldline, not a loop. The arrival cannot warn the launch because the launch is not in the arrival’s future cone. The letter, if any, is news. News is late. Late is not yesterday.
+Yesterday, in the greenhouse, is a set of events in her past light cone. A radio wave she emits today leaves along her future cone. That cone does not include yesterday’s workbench. A loop would require the signal, or the sender, to arrive at an event already in the sender’s past. It has delay. Delay is Chapter 3, scaled to a dead world. It is not a closed curve. The four-hundred-year cruise is the same lesson with worse manners: launch and arrival are two events on a long worldline, not a loop. The arrival cannot warn the launch because the launch is not in the arrival’s future cone. The letter, if any, is news. News is late. Late is not yesterday.
 
-If you want the edit, you need a different loaf — a branch, a copy, a hop. The copies chapter will give you inventory and still refuse the hop. There is no known door from this thread to a thread where the basil died and you would like a second try. Grief is a fact about one worldline. It is not a user interface.
+If you want the edit, you need a different history — a branch, a copy, a hop. The copies chapter will give you inventory and still refuse the hop. There is no known door from this thread to a thread where the basil died and you would like a second try. Grief is a fact about one worldline. It is not a user interface.
 
 Are loops even allowed?
 
-In special relativity, no: the loaf is too stiff. Flat spacetime is a flat block. Timelike curves in it do not close. You can ride forever and you will not meet your own morning. Trouble about *when* is not the same as a ticket to *then*.
+In special relativity, no: flat spacetime is too stiff. Flat spacetime is a flat block. Timelike curves in it do not close. You can ride forever and you will not meet your own morning. Trouble about *when* is not the same as a ticket to *then*.
 
-In general relativity, sometimes, on paper. Kurt Gödel found a rotating universe in which you can ride a closed timelike curve[^54] — a path that stays inside its own future and arrives at its own past. Our universe is not Gödel’s. It does not rotate that way. Kerr’s spinning hole, if you could go *through* the interior in the idealized math and if the interior were not a chaos of instability, offers rings that loop. Wormhole mouths, if you could move them, can be turned into a time machine: park one, fly the other on a fast trip, bring it back, and the clocks on the mouths no longer agree in a way that lets you leave today and arrive last year.
+In general relativity, sometimes, on paper. Kurt Gödel found a rotating universe in which you can ride a closed timelike curve[^56] — a path that stays inside its own future and arrives at its own past. Our universe is not Gödel’s. It does not rotate that way. Kerr’s spinning hole, if you could go *through* the interior in the idealized math and if the interior were not a chaos of instability, offers rings that loop. Wormhole mouths, if you could move them, can be turned into a time machine: park one, fly the other on a fast trip, bring it back, and the clocks on the mouths no longer agree in a way that lets you leave today and arrive last year.
 
 Take those three sentences apart. They are not a brochure.
 
 Gödel’s 1949 cosmos is a solution of Einstein’s equation filled with rotating dust. Every event, in that geometry, sits on a closed timelike curve. You could, in the math, leave a kitchen, fly a long way, and arrive before you left, without ever exceeding light locally. It is a marvel of a metric and a poor map of home. Gödel’s universe does not expand the way ours does. It has a global rotation our leftover glow does not show. The microwave sky is even to a part in a hundred thousand. A Gödel twist of the size that would let you loop would have written a louder signature than that. **Hot claim:** we do not live in Gödel’s rotating dust. **Cold claim:** somewhere, in some other solution, such dust is a universe.
 
-Kerr’s spinning hole is closer to furniture we actually own. Stars rotate. The holes they can become rotate. The exterior of a Kerr hole is a working theory with shadows and rings and LIGO chirps to its name. The *interior*, in the full analytic extension, is a different room. Inside the inner horizon — a Cauchy horizon, a surface beyond which the loaf stops being predictable from the outside — the idealized math offers closed timelike curves around a ring singularity. Tourists love that sentence. The loaf does not. The inner horizon is unstable. Matter and radiation falling in get blueshifted without mercy. The technical name is mass inflation:[^55] the horizon becomes a wall of energy, and the pretty extension is not a hallway. A hole made by a collapsing star is not the eternal, vacuum Kerr solution of a textbook. Even on paper, “go through and loop” is a sentence about an object we have not got. **Warm claim:** spinning holes exist. **Cold claim:** their insides are a time machine. The insides, as far as the instability arguments run, are a place the theory we trust stops being a guide.
+Kerr’s spinning hole is closer to furniture we actually own. Stars rotate. The holes they can become rotate. The exterior of a Kerr hole is a working theory with shadows and rings and LIGO chirps to its name. The *interior*, in the full analytic extension, is a different room. Inside the inner horizon — a Cauchy horizon, a surface beyond which spacetime stops being predictable from the outside — the idealized math offers closed timelike curves around a ring singularity. Tourists love that sentence. Physics does not. The inner horizon is unstable. Matter and radiation falling in get blueshifted without mercy. The technical name is mass inflation:[^57] the horizon becomes a wall of energy, and the pretty extension is not a hallway. A hole made by a collapsing star is not the eternal, vacuum Kerr solution of a textbook. Even on paper, “go through and loop” is a sentence about an object we have not got. **Warm claim:** spinning holes exist. **Cold claim:** their insides are a time machine. The insides, as far as the instability arguments run, are a place the theory we trust stops being a guide.
 
-Wormhole mouths are the kitchen trick people actually try to draw. Chapter 33 paid the bill for a throat that stays open. Suppose, against the inequalities, you have two mouths. Park one in the yard. Fly the other on a fast cruise and bring it home. The twin effect of Chapter 5 is waiting: the flown mouth accumulates less proper time. The clocks on the two spheres no longer agree. After enough mismatch, a path that enters the young mouth and leaves the old one can arrive at an external clock reading *earlier* than the departure. You have not outrun light in any local room. You have used a handle plus a twin-clock cheat to fold the loaf until today touches last year. Morris, Thorne, and Yurtsever wrote the operation down.[^56] It is a recipe for a chronology horizon, not a recipe for an edit.
+Wormhole mouths are the kitchen trick people actually try to draw. Chapter 34 paid the bill for a throat that stays open. Suppose, against the inequalities, you have two mouths. Park one in the yard. Fly the other on a fast cruise and bring it home. The twin effect of Chapter 5 is waiting: the flown mouth accumulates less proper time. The clocks on the two spheres no longer agree. After enough mismatch, a path that enters the young mouth and leaves the old one can arrive at an external clock reading *earlier* than the departure. You have not outrun light in any local room. You have used a handle plus a twin-clock cheat to fold spacetime until today touches last year. Morris, Thorne, and Yurtsever wrote the operation down.[^58] It is a recipe for a chronology horizon, not a recipe for an edit.
 
 All of these are sentences in a theory we trust in the rooms we have tested, used in rooms we have not. None of them is a photograph. None of them is a ticket.
 
-Appendix A35 names the metrics. Here, keep one picture: a loop is a *shape* the loaf might have, locally or globally. It is not a machine you bolt onto the loaf. If the shape is there, it was there. If it is not, you cannot will it into an edit.
+Appendix A36 names the metrics. Here, keep one picture: a loop is a *shape* the loaf might have, locally or globally. It is not a machine you bolt on. If the shape is there, it was there. If it is not, you cannot will it into an edit.
 
 The grandfather “paradox” is a complaint about edits. In a consistent loop, you do not kill the grandfather in a way that prevents the loop. Either you fail, or you are not in that story, or the story was never the one you thought. This is unsatisfying as drama and perfect as bookkeeping. Drama wants the rewrite. Bookkeeping wants the inventory.
 
@@ -2121,67 +2127,67 @@ Why may the universe forbid them?
 
 The chronology-protection conjecture is a hunch with a pedigree: the universe, when you try to build a loop, fights back. Vacuum jitters near the would-be time machine grow. The throat, if a throat is involved, blows. The Cauchy horizon — the surface beyond which prediction dies — becomes a wall of energy. You do not get last year. You get a bang.
 
-Stephen Hawking wrote the hunch down in 1992.[^57] Near a forming chronology horizon, the vacuum’s stress-energy tries to diverge. The machine, in this picture, destroys itself with the same jitters that make black holes glow. Chronology protection is not a theorem. It is a conjecture that the divergence is generic, that nature does not let you finish the wormhole-clock trick, that Cauchy horizons in this role are walls rather than doors.
+Stephen Hawking wrote the hunch down in 1992.[^59] Near a forming chronology horizon, the vacuum’s stress-energy tries to diverge. The machine, in this picture, destroys itself with the same jitters that make black holes glow. Chronology protection is not a theorem. It is a conjecture that the divergence is generic, that nature does not let you finish the wormhole-clock trick, that Cauchy horizons in this role are walls rather than doors.
 
-**Hot:** special relativity’s loaf does not loop, and we have never photographed a closed timelike curve. **Warm:** general relativity admits looping metrics; the ones that look like ours do not wear them in the rooms we can see. **Cold:** you could build a time machine if you stacked exotic matter and survived the vacuum. Hawking’s hunch is the grown-up cold: maybe you cannot, because the stacking asks the field to explode. Do not confuse a solution of Einstein’s equation with a launch window.
+**Hot:** flat spacetime does not loop, and we have never photographed a closed timelike curve. **Warm:** general relativity admits looping metrics; the ones that look like ours do not wear them in the rooms we can see. **Cold:** you could build a time machine if you stacked exotic matter and survived the vacuum. Hawking’s hunch is the grown-up cold: maybe you cannot, because the stacking asks the field to explode. Do not confuse a solution of Einstein’s equation with a launch window.
 
 > **Physics vs philosophy: from general relativity to time machines**
 >
 > **What the evidence establishes.** General relativity passes every test we can give it, from clocks on towers to black-hole shadows and merger signals. No closed timelike curve has ever been observed, and the leftover glow rules out a Gödel-style rotation of our universe.
 >
-> **What the theory allows on paper.** Exact solutions with loops exist (Gödel’s dust, the idealized Kerr interior, wormholes with moving mouths), but each needs a global rotation we do not see, an interior that is unstable, or negative energy in amounts quantum field theory seems to forbid.[^58]
+> **What the theory allows on paper.** Exact solutions with loops exist (Gödel’s dust, the idealized Kerr interior, wormholes with moving mouths), but each needs a global rotation we do not see, an interior that is unstable, or negative energy in amounts quantum field theory seems to forbid.[^60]
 >
-> **The strongest rival view.** Some physicists take loops more seriously than this chapter does. David Deutsch showed that quantum mechanics can be made consistent on a loop by letting the loop pick out a self-consistent quantum state, so paradoxes dissolve without a policeman.[^59] What it gets right: consistency, not prohibition, is the real constraint. Why this book still does not book a ticket: Deutsch’s model assumes the loop already exists, and nothing in it pays the energy bill for building one.
+> **The strongest rival view.** Some physicists take loops more seriously than this chapter does. David Deutsch showed that quantum mechanics can be made consistent on a loop by letting the loop pick out a self-consistent quantum state, so paradoxes dissolve without a policeman.[^61] What it gets right: consistency, not prohibition, is the real constraint. Why this book still does not book a ticket: Deutsch’s model assumes the loop already exists, and nothing in it pays the energy bill for building one.
 >
 > **What would change the verdict.** A full quantum theory of gravity that either proves chronology protection or shows a loop can be built and survive.
 
-If the hunch is wrong, the block contains shapes that arrive before they leave, and the kitchen argument about “now” was only the beginning of the trouble. If the hunch is right, the loaf is stubborn about order along worldlines that matter, and time travel remains a sport for metrics, not for crews. Either way, the greenhouse’s radio does not get yesterday. That is a practical mercy.
+If the hunch is wrong, the block contains shapes that arrive before they leave, and the kitchen argument about “now” was only the beginning of the trouble. If the hunch is right, nature is stubborn about order along worldlines that matter, and time travel remains a sport for metrics, not for crews. That is a practical mercy.
 
 ---
 
 \newpage
 
-## 36. If You Could Walk Sideways Through When
+## 37. If You Could Walk Sideways Through When
 
-Suppose, as a thought, you could leave your worldline and walk *across* the loaf, as if time were a hallway of rooms, each room a now, each now a place you could enter and leave.
+Suppose, as a thought, you could leave your worldline and walk *across* the block, as if time were a hallway of rooms, each room a now, each now a place you could enter and leave.
 
-You would not be editing. You would be visiting. The childhood kitchen would be a room. The greenhouse would be a room. The dark sea under Europa’s ice, on a particular Tuesday of a particular millennium, would be a room. You could push a book, raise a dust of frost, encode a pulse in a watch. Those events, if they are in the loaf, were always in the loaf. Your walk would be another thread, weirdly oriented, already counted.
+You would not be editing. You would be visiting. The childhood kitchen would be a room. The greenhouse would be a room. The dark sea under Europa’s ice, on a particular Tuesday of a particular millennium, would be a room. You could push a book, raise a dust of frost, encode a pulse in a watch. Those events, if they are in the block, were always there. Your walk would be another thread, weirdly oriented, already counted.
 
 Stay in the thought long enough to feel what the permission would actually be.
 
 You step off the thread you have been calling a life. The loaf, which Chapter 6 treated as inventory, becomes furniture. You are not a passenger in a river. You are a visitor in a house that was never sequential except along the paths that live in it. The first room you try is the one grief already named.
 
-A childhood kitchen. A kettle that has not yet learned the house. A window with a frost that is not the greenhouse frost, earlier, kinder. A child at the table is a bundle of worldlines that will, later, include you. You are not that child. You are a later stretch, illegally sideways, looking. If the walk is real, the looking is an event, and the event was always in the room. The child does not acquire a new memory because you arrived. The child already had whatever the loaf contains. You do not get to pick a different kettle. You get to stand in a room you cannot rent.
+A childhood kitchen. A kettle that has not yet learned the house. A window with a frost that is not the greenhouse frost, earlier, kinder. A child at the table is a bundle of worldlines that will, later, include you. You are not that child. You are a later stretch, illegally sideways, looking. If the walk is real, the looking is an event, and the event was always in the room. The child does not acquire a new memory because you arrived. You do not get to pick a different kettle. You get to stand in a room you cannot rent.
 
 You could push a book on a table in 1914. You could encode a pulse in a watch in 1989. You could meet your own later face in a corridor that, along ordinary worldlines, is a lifetime away. Each of those is a crumb. Each crumb, if the walk exists, was counted. The walk does not add a second inventory. It adds a weirdly oriented thread to the one inventory, the way a worm through bread is still bread.
 
-From this illegal hallway you could look at the leftover glow edge-on: not a sky, a slice, a last-scattering surface as a wall in the house. You could see the three minutes as a thin, hot room near one end of the loaf, and a sparse, shoved-apart web of galaxies as a later furniture. It would still be a view from a path, not a god’s-eye. Even a sideways path has a proper length. Even a visitor accumulates something. The something would not be the time your kitchen clock named. It would be whatever parameter the new thread used for mileage. The loaf does not owe that parameter a name you already like.
+From this illegal hallway you could look at the leftover glow edge-on: not a sky, a slice, a last-scattering surface as a wall in the house. You could see the three minutes as a thin, hot room near one end of the block, and a sparse, shoved-apart web of galaxies as a later furniture. It would still be a view from a path, not a god’s-eye. Even a sideways path has a proper length. Even a visitor accumulates something. The something would not be the time your kitchen clock named. It would be whatever parameter the new thread used for mileage. The block does not owe that parameter a name you already like.
 
 This is the block made into a set of furniture. It is useful as a picture and false as a permission. We do not have a sideways walk. Our worldlines are nearly parallel, locally, to the time directions the leftover glow picked out when it last scattered. We go from event to event the long way, accumulating proper time, eating basil, dying.
 
 The permission is the part that has to be taken away, slowly, because the picture is so good at lying.
 
-You cannot walk sideways through *when*. “When” is not a corridor. It is a way of ordering events along a thread, and a way of slicing the loaf for the convenience of a clock. The slice is a choice. The thread is a fact. Confusing the two is the whole of this chapter.
+You cannot walk sideways through *when*. “When” is not a corridor. It is a way of ordering events along a thread, and a way of slicing spacetime for the convenience of a clock. The slice is a choice. The thread is a fact. Confusing the two is the whole of this chapter.
 
-![Figure 36. A loaf in slices, like bread. No one walking between slices.](Figures/figs/fig36.png)
+![Figure 37. Slices of events. No one walking between slices.](Figures/figs/fig36.png)
 
-Foliations — the technical name for slicing the loaf into “nows” — are a choice, not a hallway. Appendix A36 says why a stack is not a corridor. A foliation is a stack of three-dimensional surfaces, each surface a candidate for “the world at a given time.” Relativity does not pick a preferred stack. Cosmology, when it needs a bookkeeping time, hires the leftover glow: the surfaces on which the microwave sky looks as even as it can. That hire is a superb convenience, not a set of rooms with doors between them.
+Foliations — the technical name for slicing the loaf into “nows” — are a choice, not a hallway. Appendix A37 says why a stack is not a corridor. A foliation is a stack of three-dimensional surfaces, each surface a candidate for “the world at a given time.” Relativity does not pick a preferred stack. Cosmology, when it needs a bookkeeping time, hires the leftover glow: the surfaces on which the microwave sky looks as even as it can. That hire is a superb convenience, not a set of rooms with doors between them.
 
-A stack of pages is not a building you can wander. You can put a finger on page 12 and a finger on page 400. You cannot walk from 12 to 400 except by reading, which is the analog of accumulating proper time along a worldline. The reading is a path in the book. The stack is a filing habit. Appendix A36 is the note that says this in the language of embeddings and leaves. Here, the sentence is shorter. **A foliation is how you file the loaf. It is not how you travel.**
+A stack of pages is not a building you can wander. You can put a finger on page 12 and a finger on page 400. You cannot walk from 12 to 400 except by reading, which is the analog of accumulating proper time along a worldline. The reading is a path in the book. The stack is a filing habit. Appendix A37 is the note that says this in the language of embeddings and leaves. Here, the sentence is shorter. **A foliation is how you file the loaf. It is not how you travel.**
 
 ![Spacetime Diagram 7. A foliation is how you file the loaf; it is not how you travel. Gray slices, solid or dashed, are two of many allowed ways to file events into “nows.” The black worldline is the path you actually live; its ticks are proper time.](Figures/figs/sd7_foliation_worldline.png "Spacetime diagram. A set of evenly spaced horizontal gray lines and a second set of wavy dashed gray lines, both slicing the same region, represent two different foliations. A single black curve climbs from bottom to top across all slices, with short tick marks along it representing proper time. Captions at the bottom: gray slices, solid or dashed, two of many allowed ways to file events into nows; black worldline, the path you live, its ticks are proper time, one fact.")
 
 The stack invites a second myth, and it usually arrives with a number. Time, the story goes, is a flip-book. Each page is one Planck time thick, about 5 × 10⁻⁴⁴ seconds, and the universe turns one page per tick, everywhere at once, like a projector with a cosmic shutter.
 
-The projector fails three ways. First, nobody has found the pages. The Planck time marks where our equations expect to need quantum gravity. It is a warning on the map, not a measured grain. In 2009 a gamma-ray burst seven billion light-years away delivered its high-energy and low-energy photons within about a second of each other, which is not what the simplest Planck-scale grain, one that slows the short waves, would do.[^15] Second, a universal shutter needs a universal stack, and Chapter 1 already took that away. The person standing still and the person walking toward the table slice the loaf differently, and neither slicing is the one true deck. A projector needs a throne to stand on. Third, the configurations do not come as a finite deck of frames. In every theory that has passed a test, positions and fields vary smoothly. Between any two pages you can always fit another.
+The projector fails three ways. First, nobody has found the pages. The Planck time marks where our equations expect to need quantum gravity. It is a warning on the map, not a measured grain. In 2009 a gamma-ray burst seven billion light-years away delivered its high-energy and low-energy photons within about a second of each other, which is not what the simplest Planck-scale grain, one that slows the short waves, would do.[^15] Second, a universal shutter needs a universal stack, and Chapter 1 already took that away. The person standing still and the person walking toward the table slice spacetime differently, and neither slicing is the one true deck. A projector needs a throne to stand on. Third, the configurations do not come as a finite deck of frames. In every theory that has passed a test, positions and fields vary smoothly. Between any two pages you can always fit another.
 
-So the flip-book is a filing habit drawn as if it were a machine. **Hot:** no measured Planck tick. **Warm:** the Planck time as the place our equations stop vouching for themselves. **Cold:** a future theory might make time grainy in a subtler way, with no shutter and no favorite slicing. Even then the grains would not be a film someone is running. They would be one more fact about the loaf.
+So the flip-book is a filing habit drawn as if it were a machine. **Hot:** no measured Planck tick. **Warm:** the Planck time as the place our equations stop vouching for themselves. **Cold:** a future theory might make time grainy in a subtler way, with no shutter and no favorite slicing. Even then the grains would not be a film someone is running. They would be one more fact about spacetime.
 
-A coordinate labeled *t* on a map of the loaf is a filing number. It is useful. Cosmology uses it so that “when the universe was 380,000 years old” has a meaning on the leftover-glow slices. Your watch does not read that filing number. Your watch reads the length of your thread. Mixing the two is how a hallway gets invented.
+A coordinate labeled *t* on a map of spacetime is a filing number. It is useful. Cosmology uses it so that “when the universe was 380,000 years old” has a meaning on the leftover-glow slices. Your watch does not read that filing number. Your watch reads the length of your thread. Mixing the two is how a hallway gets invented.
 
 Grief already knew.
 
-The childhood kitchen is a room you cannot rent. It is a cluster of happenings, related by light and soup and a kettle, occupying a region of the block. You cannot go there as a visitor. You can remember it, which is a present event that points, by a causal chain of traces, at past events. Memory is not a hallway. It is a record, the same family of fact as a silver grain or a helium nucleus, written on a later stretch of thread. The later stretch does not get to move in. The kettle is not waiting. The kettle is an event that has, from the later vantage, already sat in its region. “Already” is a word the later thread is allowed. The loaf does not need it.
+The childhood kitchen is a room you cannot rent. It is a cluster of happenings, related by light and soup and a kettle, occupying a region of the block. You cannot go there as a visitor. You can remember it, which is a present event that points, by a causal chain of traces, at past events. Memory is not a hallway. It is a record, the same family of fact as a silver grain or a helium nucleus, written on a later stretch of thread. The later stretch does not get to move in. The kettle is not waiting. The kettle is an event that has, from the later vantage, already sat in its region. “Already” is a word the later thread is allowed. The block does not need it.
 
 Hope is the same furniture with the sign flipped. The greenhouse’s later Tuesdays, the melt-probe’s maybe-taste, a library that arrives or does not: those are regions too. You cannot skip ahead into them any more than you can rent the kettle. You can occupy the next stretch of thread, do a project, and leave a record. That is the only method the geometry permits. It is slow. It is not a small thing. It is the thing.
 
@@ -2195,7 +2201,7 @@ Hope is the same furniture with the sign flipped. The greenhouse’s later Tuesd
 
 \newpage
 
-## 37. Four Kinds of Elsewhere
+## 38. Four Kinds of Elsewhere
 
 “Multiple realities” is four claims in a trench coat. If you let them fuse, you can prove anything and have explained nothing. Keep them in separate rooms.
 
@@ -2203,21 +2209,21 @@ Open the drawers one at a time. A useful test, before the labels: ask what quest
 
 **More of this universe.** Same laws, same constants, more space. If the dough is infinite, or merely brutally large, and the ingredients are sprinkled in a statistically ordinary way, then a finite pattern — a galaxy like this, a kitchen like this, a woman hitting an airlock — repeats. Not because anyone copied it. Because there are only so many ways to arrange a closet of atoms, and an infinite warehouse will reuse the arrangements. These copies are *elsewhere* in the ordinary, spacelike sense. You cannot visit. Light will not finish the trip.
 
-This is the cheap copy. Chapter 38 is its room. The physics, if you grant the extras, is the physics we already use: an expanding FLRW loaf, a Hubble volume as a tile, a finite list of ways to stock the tile. The copies sit on the same map as Andromeda, only ruder. They are not behind a curtain. They are behind a distance. Distance, in an accelerating cosmos, is sometimes a forever.
+This is the cheap copy. Chapter 39 is its room. The physics, if you grant the extras, is the physics we already use: an expanding FLRW spacetime, a Hubble volume as a tile, a finite list of ways to stock the tile. The copies sit on the same map as Andromeda, only ruder. They are not behind a curtain. They are behind a distance. Distance, in an accelerating cosmos, is sometimes a forever.
 
 **Other bubbles, other rules.** If inflation never quite clocks out, and if the way it clocks out has many valleys, then other hot bangs can freeze with different effective constants, different particle menus, different numbers of large directions. This is the expensive copy machine. It is a live hypothesis stacked on a working theory stacked, often, on an untestable framework.
 
-This is Chapter 39’s room. The burst of Chapter 13 is the working theory. Eternal inflation is the burst that may not retire. The menu of valleys is the maybe. A landscape inherited from string theory is a catalog sitting on the maybe. **String theory cannot currently be tested.** Do not let the catalog put on the cheap copy’s coat and walk around as if it had been counted in the leftover glow.
+This is Chapter 40’s room. The burst of Chapter 13 is the working theory. Eternal inflation is the burst that may not retire. The menu of valleys is the maybe. A landscape inherited from string theory is a catalog sitting on the maybe. **String theory cannot currently be tested.** Do not let the catalog put on the cheap copy’s coat and walk around as if it had been counted in the leftover glow.
 
 **Other branches.** The electron’s equation does not pick a single outcome. One reading says the leftovers stay: both ways persist, decohered, non-interfering. These copies are not other places. They are other terms. You are one term.
 
-This is Chapter 40’s room, and Chapter 6 already put a chair in it. Everett’s habit is a reading of the same rule that builds chemistry. It is not extra cosmology. It does not hand you a hallway to a kinder marriage. The copies, if they persist, persist elsehow, not elsewhere. Confusing elsehow with elsewhere is how the trench coat gets buttoned.
+This is Chapter 41’s room, and Chapter 6 already put a chair in it. Everett’s habit is a reading of the same rule that builds chemistry. It is not extra cosmology. It does not hand you a hallway to a kinder marriage. The copies, if they persist, persist elsehow, not elsewhere. Confusing elsehow with elsewhere is how the trench coat gets buttoned.
 
 **Other mathematics.** If existence is cheap and consistency is enough, then every coherent structure is a universe. This is a metaphysical bet. It is not physics. Barrow would have smiled and called it an idea for ideas.
 
 This drawer is the one that should stay closed in a book that has a leftover glow to be loyal to. A consistent set of axioms is not a sky. It does not have a helium fraction. It does not have a woman, except as a symbol in a formal system that has decided to talk about women. You may find the bet beautiful. You may even find it thrifty: why should existence be stingy once consistency is satisfied? Beauty and thrift are not a temperature. They are a taste. This book will not run an experiment on a theorem and call the theorem a neighbor.
 
-![Figure 37. Four large boxes in a 2-by-2. Labels: more space / other bubbles / other branches / other math.](Figures/figs/fig37.png)
+![Figure 38. Four large boxes in a 2-by-2. Labels: more space / other bubbles / other branches / other math.](Figures/figs/fig37.png)
 
 Keep the 2-by-2 on the wall. The rows are not a ranking of how much you should want them. They are a ranking of how easily they fuse in a conversation. More-space copies share our laws; people treat them as travel. Bubble copies share a family of laws and then don’t; people treat them as destinations with different weather. Branch copies share a past up to a fork and then don’t share a place at all; people treat them as hops. Mathematical copies share nothing that physics can cash. People treat them as a completion of the other three. The completion is the coat.
 
@@ -2225,15 +2231,15 @@ Keep the 2-by-2 on the wall. The rows are not a ranking of how much you should w
 
 What would a ticket even be?
 
-To a more-space copy: a path through this loaf, same constants, long enough to reach a matching tile. Chapter 26 already spent that path. The event horizon ate it. You can name the copy the way you name a galaxy in a deep field. You cannot arrive.
+To a more-space copy: a path through this spacetime, same constants, long enough to reach a matching tile. Chapter 26 already spent that path. The event horizon ate it. You can name the copy the way you name a galaxy in a deep field. You cannot arrive.
 
 To a bubble: a path into a different freeze — different fine-structure constant, different shove, maybe a different number of large directions. The wall between pockets is not a customs desk. In the usual pictures it is still-bursting dough. A crew that does not sleep cannot clock out of our chemistry and clock into another.
 
-To a branch: a hop between terms of a sum. Chapter 40 will refuse the hop by name. There is no door in the sky labeled tails. There is a silence after decoherence.
+To a branch: a hop between terms of a sum. Chapter 41 will refuse the hop by name. There is no door in the sky labeled tails. There is a silence after decoherence.
 
 To a theorem: boots on a page of axioms. A category error that has learned to walk. You do not visit consistency. You write it down.
 
-Dark matter is not a fifth room. Dark energy is not a sixth. They are ingredients *in this room*. Chapter 17’s extra pull is a mass budget in the leftover glow, in the Bullet Cluster, in the way galaxies hold together. Chapter 18’s shove is a term in the stretch, a faintness in empty space, a plot twist in *H(t)*. Neither is a copy of the kitchen. Neither is a bubble with other rules, except in the cold sense that some other valley might have a different shove — and that cold sentence belongs in drawer two, labeled as such, not smuggled into drawer one as if the missing mass were a missing universe. A particle we have not yet named is still a particle *here*. A vacuum energy we have not yet explained is still a vacuum energy *here*. Missing nouns are not extra loaves.
+Dark matter is not a fifth room. Dark energy is not a sixth. They are ingredients *in this room*. Chapter 17’s extra pull is a mass budget in the leftover glow, in the Bullet Cluster, in the way galaxies hold together. Chapter 18’s shove is a term in the stretch, a faintness in empty space, a plot twist in *H(t)*. Neither is a copy of the kitchen. Neither is a bubble with other rules, except in the cold sense that some other valley might have a different shove — and that cold sentence belongs in drawer two, labeled as such, not smuggled into drawer one as if the missing mass were a missing universe. A particle we have not yet named is still a particle *here*. A vacuum energy we have not yet explained is still a vacuum energy *here*. Missing nouns are not extra universes.
 
 A tidal sea under ice is not another reality. It is a dark room in this one. Europa’s ocean, Enceladus’s spray, a maybe-Hycean under a hydrogen blanket: those are permits and dark pantries in the same expanding dough, the same constants, the same leftover helium. You could, in principle, send a melt-probe. You cannot, in principle, send a melt-probe to a branch, or to a bubble with a different fine-structure constant, or to a theorem. The sea is elsewhere in the ordinary sense that a basement is elsewhere. It is not a fifth kind of copy. People reach for “another world” because the ice is a lid and the Sun is a rumor. Keep the nouns sober. A lid is a lid. A copy is a claim about inventory.
 
@@ -2245,7 +2251,7 @@ Why the sobriety matters: fuse the rooms and you can “explain” anything. The
 
 \newpage
 
-## 38. More of This Universe
+## 39. More of This Universe
 
 Assume, for a page, that space goes on, same laws, no edge, matter doing statistically ordinary things. Then the Hubble volume — the room we can, in principle, have seen — is one tile. Beyond it, more tiles. The number of ways to arrange the quantum states in a tile is enormous, but finite if you take the holographic bound seriously. In an infinite warehouse of tiles, every allowed arrangement happens, and happens again.
 
@@ -2253,7 +2259,7 @@ That is the cheap copy in one breath. Now unpack it, because the breath is doing
 
 An FLRW universe, the expanding dough of Chapter 7, can be infinite in space. The spatial slices — the “nows” cosmology hires from the leftover glow — can be the three-dimensional analog of an endless plane: same rules, no wall. Galaxies, on large enough averages, sprinkled the way Chapter 14’s twitches and Chapter 16’s web sprinkle them. No special place. No edge to walk off. That geometry is allowed. It is not required. Finite spaces with no edge are allowed too: a 3-sphere, a 3-torus, other closed shapes that look, locally, like the endless plane if they are large enough. The leftover glow does not hand you the global topology. It hands you a patch.
 
-The Hubble volume is the patch. Not exactly the particle horizon, not exactly the event horizon: a room of order the Hubble length, the distance light could cover in a Hubble time, the tile people use when they want a fair comparison between “what we can see” and “what a repeat would have to match.” The particle horizon is the edge of what we can already have seen, set by the age of the stretch. The event horizon is the edge of what we can still reach with a future letter. The Hubble tile is a fair-comparison box sitting between those rudenesses. Inside one tile: a leftover glow, a web of galaxies, a greenhouse, a childhood kitchen, this sentence. The tile is finite. The question is how many tiles the loaf contains.
+The Hubble volume is the patch. Not exactly the particle horizon, not exactly the event horizon: a room of order the Hubble length, the distance light could cover in a Hubble time, the tile people use when they want a fair comparison between “what we can see” and “what a repeat would have to match.” The particle horizon is the edge of what we can already have seen, set by the age of the stretch. The event horizon is the edge of what we can still reach with a future letter. The Hubble tile is a fair-comparison box sitting between those rudenesses. Inside one tile: a leftover glow, a web of galaxies, a greenhouse, a childhood kitchen, this sentence. The tile is finite. The question is how many tiles the universe contains.
 
 We already know the answer is more than one. The leftover glow is a picture of a last-scattering surface larger than the Hubble length of that era, stretched. Inflation, if you buy it, stretched a still smaller patch into something that makes our whole sky look local. “Much larger than we see” is not a mood. It is the working theory’s everyday implication, and it is why the cheap-copy argument even gets a hearing. The hearing is not a verdict. Larger is not infinite. A warehouse with a thousand rooms is already larger than the room you are standing in. It is not an infinite warehouse.
 
@@ -2263,7 +2269,7 @@ There is a version of you who did not open this book. There is a version of the 
 
 The “you” in that paragraph is a pattern of atoms, or a pattern of quantum states, occupying a region. It is not a soul that jumped. It is a repeat, the way two identical copies of a recipe are two copies. The woman who did not open the book is not your understudy, waiting in the wings. She is a later or farther stretch of dough that happens, if the extras are granted, to match a stretch you occupy. She does not get your radio. You do not get her afternoon.
 
-![Figure 38. A grid of identical rooms receding. A picture of a possibility, not a photograph of copies.](Figures/figs/fig38.png)
+![Figure 39. A grid of identical rooms receding. A picture of a possibility, not a photograph of copies.](Figures/figs/fig38.png)
 
 How finite is a tile’s menu?
 
@@ -2279,13 +2285,13 @@ Flatness is the measurement people try to promote.
 
 Planck’s leftover-glow maps find a curvature parameter, Ω_k, consistent with zero. Parallel lines, on the largest scales we photograph, stay parallel to a boredom. Inflation predicted that boredom: stretch a curved surface enough and the ant sees a plane. **Ω_k ≈ 0 does not prove the slice is infinite.** A 3-sphere with a radius far larger than the Hubble length looks flat in the patch. A 3-torus, finite and edgeless, looks like infinite FLRW until you have gone all the way around, and “all the way around” may be farther than light has traveled since the glow. Topology is sneaky. The data say: not a small, curvy room. They do not say: warehouse without end. Treating “flat enough” as “infinite” is a kitchen leap. The leap is popular. It is still a leap.
 
-There is a search that tried to catch the sneak. If the last-scattering surface wrapped around a small enough 3-torus, the leftover glow would show matching circles: the same pattern, twice, on the microwave sky, because you would be seeing the same patch of fog in two directions. People looked. They have not found the circles.[^60] That is a warm push: whatever the global shape is, it is not a snug little room we have already walked around by looking. It is not a proof of infinity. It is a proof that “finite but huge” still has a lot of room to hide. Appendix A38 writes the curvature and the repeat. Here: **flat is not infinite. Flat is a local manners.**
+There is a search that tried to catch the sneak. If the last-scattering surface wrapped around a small enough 3-torus, the leftover glow would show matching circles: the same pattern, twice, on the microwave sky, because you would be seeing the same patch of fog in two directions. People looked. They have not found the circles.[^62] That is a warm push: whatever the global shape is, it is not a snug little room we have already walked around by looking. It is not a proof of infinity. It is a proof that “finite but huge” still has a lot of room to hide. Appendix A39 writes the curvature and the repeat. Here: **flat is not infinite. Flat is a local manners.**
 
 So the temperatures, named:
 
-**Hot:** the universe is larger than the part we have seen; it is close to flat on that part; galaxies recede; the glow is a baby picture of a mixed fog. **Warm:** inflation made the flatness a feature, and the region beyond the tile is more of the same dough, same laws, for a long way. **Cold:** the dough is actually infinite, the sprinkle is actually ergodic, the holographic menu is actually the right count, and therefore a copy of this kitchen sits in some far tile, then sits again. The cheap copies are a fact only if those cold extras are facts. They are a picture of a possibility. Figure 38 is honest about that. It is not a photograph of copies.
+**Hot:** the universe is larger than the part we have seen; it is close to flat on that part; galaxies recede; the glow is a baby picture of a mixed fog. **Warm:** inflation made the flatness a feature, and the region beyond the tile is more of the same dough, same laws, for a long way. **Cold:** the dough is actually infinite, the sprinkle is actually ergodic, the holographic menu is actually the right count, and therefore a copy of this kitchen sits in some far tile, then sits again. The cheap copies are a fact only if those cold extras are facts. They are a picture of a possibility. Figure 39 is honest about that. It is not a photograph of copies.
 
-One popular inventory of this room, Max Tegmark’s, calls it Level I:[^61] more of the same FLRW volume, repeats by distance. The name is a filing label, not a detection. The label is useful if it keeps this drawer from fusing with bubbles, branches, and theorems. It is harmful if it puts a grid of rooms on a poster and lets a reader think the grid has been counted in the microwave sky. It has not.
+One popular inventory of this room, Max Tegmark’s, calls it Level I:[^63] more of the same FLRW volume, repeats by distance. The name is a filing label, not a detection. The label is useful if it keeps this drawer from fusing with bubbles, branches, and theorems. It is harmful if it puts a grid of rooms on a poster and lets a reader think the grid has been counted in the microwave sky. It has not.
 
 The distances, if you grant the extras, are a Barrow shock of a different kind. A repeat of a planet-sized pattern is already unspeakably far. A repeat of a whole Hubble volume is farther in a way that does not fit in a throat. These are not destinations. Chapter 26 already spent the event horizon: most of the sky has left. The cheap copies, if they exist, live in a region that will not take a letter, let alone a ship. Light will not finish the trip. The particle horizon is the past’s rudeness. The event horizon is the future’s. Together they make “elsewhere in this universe” into a museum, not a road.
 
@@ -2297,7 +2303,7 @@ Keep the drawer shut against hops. Same laws, more space, maybe repeats: that is
 
 \newpage
 
-## 39. Other Rooms, Other Rules
+## 40. Other Rooms, Other Rules
 
 The expensive copies need a burst that does not know how to retire, and a menu of retirements.
 
@@ -2307,7 +2313,7 @@ In many slow-roll stories, the field that stretched the patch reaches the bottom
 
 From inside a stopped place the sky looks ordinary. A leftover glow. A stretch. Helium. Galaxies. You do not see the bursting next door. You see a patch that reheated, mixed, and froze into the kitchen you have. That is why eternal inflation is easy to oversell and hard to kill. It does not predict a new smudge in tonight’s field. It predicts that our smudge is one of many, and that the many may not share our leftover constants. The local burst of Chapter 13 can be right while the froth is a rumor. Keep the temperatures. Local inflation is warm. Eternal hiring is a live maybe. Other laws in other pockets are the maybe stacked on the maybe.
 
-Where does the menu come from? Often, from string theory’s landscape: a reported 10⁵⁰⁰ ways to compactify extra directions and freeze a vacuum. **String theory cannot currently be tested.** A number like 10⁵⁰⁰, offered without a risky prediction that would kill the framework, is a catalog, not a census. Other frameworks offer other menus. Some offer one valley. The sky we have does not yet choose.[^62]
+Where does the menu come from? Often, from string theory’s landscape: a reported 10⁵⁰⁰ ways to compactify extra directions and freeze a vacuum. **String theory cannot currently be tested.** A number like 10⁵⁰⁰, offered without a risky prediction that would kill the framework, is a catalog, not a census. Other frameworks offer other menus. Some offer one valley. The sky we have does not yet choose.[^64]
 
 > **Status as of October 2026: string theory**
 >
@@ -2315,7 +2321,7 @@ Where does the menu come from? Often, from string theory’s landscape: a report
 >
 > **Not established.** No prediction unique to string theory has been confirmed by experiment. The landscape of possible vacua has not been counted reliably, and no agreed way exists to derive our constants from it.
 >
-> **The live debate.** Some physicists argue that theories this hard to test can still be judged by internal consistency and explanatory power; others reply that this weakens what science means by a test.[^63] This book keeps its standing rule: **string theory cannot currently be tested.** That is a statement about evidence, not a verdict on the mathematics.
+> **The live debate.** Some physicists argue that theories this hard to test can still be judged by internal consistency and explanatory power; others reply that this weakens what science means by a test.[^65] This book keeps its standing rule: **string theory cannot currently be tested.** That is a statement about evidence, not a verdict on the mathematics.
 
 The number is a celebrity, so treat it like one. Extra directions, curled small. Fluxes, wrapping those directions, choosing a vacuum energy and a set of leftover constants the way a combination lock chooses a number. Count the combinations people know how to write and you get a shock with a lot of zeros. Ten to the five hundred is not a census of kitchens. It is a count of locks. Some locks may not open onto a cosmos that lasts. Some may be the same kitchen counted twice. Some may be artifacts of an approximation. The advertised number moves when the approximations move. That is allowed in a research program. It is not allowed in a result.
 
@@ -2323,7 +2329,7 @@ The shock is not a measurement. It is a count of sentences in a framework that h
 
 Other menus exist on paper. Loop-ish gravities, extra-field cosmologies, a single vacuum that just happens to be ours. Some of those are also untested. Some are more modest. Modesty is not a proof. The leftover glow, the helium, the shove’s size: those are the court. The catalog is a witness who has not agreed to be cross-examined.
 
-![Figure 39. Three bubbles, three different simple icons inside. Unphotographed.](Figures/figs/fig39.png)
+![Figure 40. Three bubbles, three different simple icons inside. Unphotographed.](Figures/figs/fig39.png)
 
 The measure problem sits on the catalog like a cat. Infinite bubbles, infinite observers, no agreed count: “typical” becomes a fight. Until the fight ends, “the landscape predicts observers like us” is a hope. It is a better hope than a required Omega Point, because it does not contradict the shove. It is still a hope.
 
@@ -2331,23 +2337,23 @@ If bubble begets bubble without end, the word *most* breaks. Most by what? Volum
 
 Weinberg’s filter is why anyone bothers.
 
-In 1987 he asked what value of the cosmological constant observers should expect if the constant is drawn from a wide range. Too large a shove and galaxies never form; too small, and you would need a reason the draw sat far below the galaxy-formation edge. The measured value sits near that edge, give or take the arguments about how to draw the edge. That is interesting. It is the rare case where “looking arranged” was turned into a number. Chapter 41 will sit with the number and with the sermons people attach to it. Here, the one sentence that matters is: **the filter needs an ensemble.** Without a menu of valleys, or of tiles, or of something that plays the same role, the weak anthropic cut is a reminder that we are not on Venus. It is not an explanation of why Λ is small. With an ensemble, it becomes a mesh. You throw away the monster shoves, look at what is left, and ask whether we are a typical survivor. You still need a measure. You still need the ensemble to be more than a catalog. You do not get to say the universe wanted a greenhouse. You get to say we could not have found ourselves in the valleys that did not want anyone.
+In 1987 he asked what value of the cosmological constant observers should expect if the constant is drawn from a wide range. Too large a shove and galaxies never form; too small, and you would need a reason the draw sat far below the galaxy-formation edge. The measured value sits near that edge, give or take the arguments about how to draw the edge. That is interesting. It is the rare case where “looking arranged” was turned into a number. Chapter 42 will sit with the number and with the sermons people attach to it. Here, the one sentence that matters is: **the filter needs an ensemble.** Without a menu of valleys, or of tiles, or of something that plays the same role, the weak anthropic cut is a reminder that we are not on Venus. It is not an explanation of why Λ is small. With an ensemble, it becomes a mesh. You throw away the monster shoves, look at what is left, and ask whether we are a typical survivor. You still need a measure. You still need the ensemble to be more than a catalog. You do not get to say the universe wanted a greenhouse. You get to say we could not have found ourselves in the valleys that did not want anyone.
 
 The multiverse argument deserves its best form before it is declined.
 
-**Its strongest case.** We already accept unobservable things when a theory we trust predicts them: the interior of a black hole, galaxies beyond our horizon. If eternal inflation is the right theory of the burst, other bubbles follow the same way, and Weinberg’s 1987 estimate shows the idea can earn a number: it anticipated a small, nonzero shove before the 1998 supernovae found one.[^30][^61]
+**Its strongest case.** We already accept unobservable things when a theory we trust predicts them: the interior of a black hole, galaxies beyond our horizon. If eternal inflation is the right theory of the burst, other bubbles follow the same way, and Weinberg’s 1987 estimate shows the idea can earn a number: it anticipated a small, nonzero shove before the 1998 supernovae found one.[^31][^63]
 
 **What it gets right.** A multiverse is not a mystical claim. If our constants were drawn from a wide range, selection really would explain why we see values that permit observers, and refusing to consider it could hide a true explanation behind a taste for neatness.
 
-**Why this book still declines it.** The black-hole interior is predicted by a theory tested outside it; eternal inflation and the landscape are not yet tested anywhere. Without a measure, “typical” has no meaning, so the ensemble cannot yet make a prediction we could miss.[^64] The verdict is “unproven,” not “impossible.”
+**Why this book still declines it.** The black-hole interior is predicted by a theory tested outside it; eternal inflation and the landscape are not yet tested anywhere. Without a measure, “typical” has no meaning, so the ensemble cannot yet make a prediction we could miss.[^66] The verdict is “unproven,” not “impossible.”
 
-Pointer, then, not a theft of Chapter 41: expensive copies are one of the ensembles people reach for. Cheap copies are another, weaker for Λ, because cheap copies share our laws and our leftover shove — a far tile with the same potatoes blighted or saved still has the same small cosmological constant. Branches are a third, and they do not help Λ at all unless the shove itself is a quantum leftover that forks, which is a different, colder story. Other mathematics will explain anything and therefore nothing. If you want a filter rather than a purpose, you need a drawer that actually contains variation. Drawer two is the expensive candidate. It has not passed a test. It is allowed to sit on the table. It is not dinner.
+Pointer, then, not a theft of Chapter 42: expensive copies are one of the ensembles people reach for. Cheap copies are another, weaker for Λ, because cheap copies share our laws and our leftover shove — a far tile with the same potatoes blighted or saved still has the same small cosmological constant. Branches are a third, and they do not help Λ at all unless the shove itself is a quantum leftover that forks, which is a different, colder story. Other mathematics will explain anything and therefore nothing. If you want a filter rather than a purpose, you need a drawer that actually contains variation. Drawer two is the expensive candidate. It has not passed a test. It is allowed to sit on the table. It is not dinner.
 
 If you live in a bubble, the neighboring bubbles are not destinations. The walls, in the usual pictures, are empty and expanding. You cannot book a crew that does not sleep and arrive at a different fine-structure constant. You can, at best, infer that you are in a valley that permits you. That inference is the weak filter. It is not a tour.
 
 The wall sentence is practical, so keep it practical. Between bubbles, in the usual eternal-inflation cartoons, inflation is still going. The domain wall — the boundary between a stopped kitchen and a still-bursting dough — expands. The space you would have to cross is not a hallway with a different weather on the far side. It is a region that stretches too well to finish. Different constants are not a climate you could pack for. They are a different low-energy physics, a different chemistry, a different number of large directions. A crew that arrived, if arrival were a word, would not be a crew. Chemistry would not be chemistry. Neighbor bubbles are, at best, an inference from the fact that our valley is livable. They are not a pin on a map.
 
-A vacuum that decays is not a door either. People hear “tunnel to another vacuum” and picture a station. A true-vacuum bubble nucleating in a false vacuum is, in the usual pictures, a disaster or a rewrite of local law, not a ticket booth. You do not book it. You do not steer it. If our vacuum is metastable, the news is a lifetime, not a destination. Chapter 43 will sit with endings. Here: neighboring rooms with other rules are not ports. They are, if they are anything, an ensemble for a filter. Chapter 41 is where the filter is allowed to work. This chapter’s job is to refuse the tour.
+A vacuum that decays is not a door either. People hear “tunnel to another vacuum” and picture a station. A true-vacuum bubble nucleating in a false vacuum is, in the usual pictures, a disaster or a rewrite of local law, not a ticket booth. You do not book it. You do not steer it. If our vacuum is metastable, the news is a lifetime, not a destination. Chapter 44 will sit with endings. Here: neighboring rooms with other rules are not ports. They are, if they are anything, an ensemble for a filter. Chapter 42 is where the filter is allowed to work. This chapter’s job is to refuse the tour.
 
 **Hot:** we live in one expanding region with one leftover glow and one small shove. **Warm:** inflation can be eternal in many models, and a small Λ wants an explanation that might be a selection. **Cold:** the bursting never stops, the valleys number 10⁵⁰⁰, the measure will someday settle, and a bubble with two large dimensions is as real as this kitchen. Until a risky signature exists, 10⁵⁰⁰ is a celebrity, not a count of neighbors.
 
@@ -2355,9 +2361,9 @@ A vacuum that decays is not a door either. People hear “tunnel to another vacu
 
 \newpage
 
-## 40. Every Allowed Outcome
+## 41. Every Allowed Outcome
 
-Hugh Everett, in the 1950s, took the electron’s equation at its word. The equation offers a sum of ways. The usual habit is to throw away the ways that did not “happen” at a measurement. Everett’s habit is to keep them. The sum is the inventory. A measurement is a fork. After the fork, the branches do not talk; decoherence makes the interference go away. You are the branch that includes this sentence.[^65]
+Hugh Everett, in the 1950s, took the electron’s equation at its word. The equation offers a sum of ways. The usual habit is to throw away the ways that did not “happen” at a measurement. Everett’s habit is to keep them. The sum is the inventory. A measurement is a fork. After the fork, the branches do not talk; decoherence makes the interference go away. You are the branch that includes this sentence.[^67]
 
 The year, if you want the stamp, is 1957. The dissertation is a relative-state reading: the global wavefunction does not collapse. A measurement correlates an apparatus with a system. Each term of the correlation is a consistent story for the observers inside it. There is no extra postulate that picks one story and burns the rest. The rest stay, decohered, as unavailable to you as a spacelike navy.
 
@@ -2373,31 +2379,31 @@ Decoherence, in this sink, is not a philosophy. It is a rate. Air molecules, pho
 
 > **Physics vs philosophy: from decoherence to Everett**
 >
-> **What the evidence establishes.** Interference is real, decoherence happens at calculable rates when a system leaks information into its environment, and entangled pairs violate Bell’s inequality, so no local recipe of hidden instructions explains them.[^66][^18][^20]
+> **What the evidence establishes.** Interference is real, decoherence happens at calculable rates when a system leaks information into its environment, and entangled pairs violate Bell’s inequality, so no local recipe of hidden instructions explains them.[^68][^18][^20]
 >
 > **What remains interpretation.** Whether the unobserved outcomes still exist (Everett), never existed (collapse models), were never more than an agent’s expectations (QBism), or were always accompanied by definite particle positions (Bohm). Every one of these readings reproduces the same laboratory statistics, except the collapse models, which make small extra predictions that are being tested.
 >
 > **What this book infers.** That Everett’s reading is the most economical fit with a block that already refused a single now. That is a preference with reasons, not a measurement, and it carries a real cost, discussed below.
 
-Everett is not the only serious reading, and a book that leans on him owes the rivals their strongest form.[^67][^68]
+Everett is not the only serious reading, and a book that leans on him owes the rivals their strongest form.[^69][^70]
 
-**Copenhagen.** *Strongest case:* physics is about what we can say about experiments, and asking what the wavefunction “really is” between measurements is asking for something no experiment can deliver; Bohr’s reply to Einstein in 1935 was that the experimental arrangement is part of the phenomenon.[^69] *What it gets right:* the lab never shows us a superposition of pointer readings, and the theory’s success never depended on settling the question. *Why this book declines it:* it draws a line between quantum system and classical apparatus without saying where, and a book about the whole universe has no outside apparatus to stand on.
+**Copenhagen.** *Strongest case:* physics is about what we can say about experiments, and asking what the wavefunction “really is” between measurements is asking for something no experiment can deliver; Bohr’s reply to Einstein in 1935 was that the experimental arrangement is part of the phenomenon.[^71] *What it gets right:* the lab never shows us a superposition of pointer readings, and the theory’s success never depended on settling the question. *Why this book declines it:* it draws a line between quantum system and classical apparatus without saying where, and a book about the whole universe has no outside apparatus to stand on.
 
-**QBism.** *Strongest case:* the wavefunction is an agent’s degrees of belief, updated by experience, so “collapse” is just learning and nothing travels faster than light.[^70] *What it gets right:* it removes the paradoxes cleanly and takes the first-person view of measurement seriously. *Why this book declines it:* it says little about what the world is like when no agent is updating, and the leftover glow and the helium were records written before any agent existed.
+**QBism.** *Strongest case:* the wavefunction is an agent’s degrees of belief, updated by experience, so “collapse” is just learning and nothing travels faster than light.[^72] *What it gets right:* it removes the paradoxes cleanly and takes the first-person view of measurement seriously. *Why this book declines it:* it says little about what the world is like when no agent is updating, and the leftover glow and the helium were records written before any agent existed.
 
-**Bohm.** *Strongest case:* particles always have positions, guided by the wavefunction, so measurements have definite outcomes with no collapse and no branching; the theory reproduces every standard prediction.[^71][^72] *What it gets right:* it proves that a definite, realist quantum theory is possible, and Bell himself admired it for that. *Why this book declines it:* it needs a preferred slice of simultaneity to coordinate distant particles, the very structure relativity does not supply, and its unchosen branches of the wavefunction remain in the equations, doing no work.
+**Bohm.** *Strongest case:* particles always have positions, guided by the wavefunction, so measurements have definite outcomes with no collapse and no branching; the theory reproduces every standard prediction.[^73][^74] *What it gets right:* it proves that a definite, realist quantum theory is possible, and Bell himself admired it for that. *Why this book declines it:* it needs a preferred slice of simultaneity to coordinate distant particles, the very structure relativity does not supply, and its unchosen branches of the wavefunction remain in the equations, doing no work.
 
-**Collapse models.** *Strongest case:* the wavefunction really does collapse, spontaneously and rarely for single particles but almost instantly for large objects (GRW), perhaps triggered by gravity (Diósi and Penrose); unlike the other readings, these are testable physics.[^73][^74][^75] *What it gets right:* it turns an argument about words into an experiment. An underground test in 2020 already ruled out the simplest version of the gravity-triggered model.[^76] *Why this book does not adopt it:* no collapse has yet been seen, and the models need parameters chosen to hide just below current limits. If an experiment finds one, this chapter changes.
+**Collapse models.** *Strongest case:* the wavefunction really does collapse, spontaneously and rarely for single particles but almost instantly for large objects (GRW), perhaps triggered by gravity (Diósi and Penrose); unlike the other readings, these are testable physics.[^75][^76][^77] *What it gets right:* it turns an argument about words into an experiment. An underground test in 2020 already ruled out the simplest version of the gravity-triggered model.[^78] *Why this book does not adopt it:* no collapse has yet been seen, and the models need parameters chosen to hide just below current limits. If an experiment finds one, this chapter changes.
 
-**Consciousness-based collapse.** *Strongest case:* the measurement problem and the problem of consciousness are both about where definite experience comes from, so perhaps they share a solution; David Chalmers and Kelvin McQueen have proposed a precise, in-principle testable version.[^77] *What it gets right:* it treats observers as physical systems that must be accounted for, not as an afterthought. *Why this book declines it:* the leftover glow and the helium are records that formed with no minds around, and no experiment so far has needed a mind to explain an outcome.
+**Consciousness-based collapse.** *Strongest case:* the measurement problem and the problem of consciousness are both about where definite experience comes from, so perhaps they share a solution; David Chalmers and Kelvin McQueen have proposed a precise, in-principle testable version.[^79] *What it gets right:* it treats observers as physical systems that must be accounted for, not as an afterthought. *Why this book declines it:* the leftover glow and the helium are records that formed with no minds around, and no experiment so far has needed a mind to explain an outcome.
 
 **The honest cost of Everett.** If every outcome happens, what does it mean that one outcome is more probable than another? Everettians derive the standard probability rule from decision theory and symmetry; critics say the derivations assume what they need. This is the strongest objection to the reading this book prefers, and it is not settled.
 
-![Figure 40. One line that splits into two that never rejoin.](Figures/figs/fig40.png)
+![Figure 41. One line that splits into two that never rejoin.](Figures/figs/fig40.png)
 
-Why put this at the core of a book about the universe? Because the block, without it, is only all the times. With it, if you buy the reading, the block is all the times and all the allowed versions. “Everything, everywhere, all at once” is a phrase this book will not treat as a title. It will treat it as a temptation to be made precise. All the times: the loaf. All the versions: the forks. All at once: a bad kitchen phrase for “equally in the inventory.” Not a permission to walk sideways. Not a permission to hop.
+Why put this at the core of a book about the universe? Because the block, without it, is only all the times. With it, if you buy the reading, the block is all the times and all the allowed versions. “Everything, everywhere, all at once” is a phrase this book will not treat as a title. It will treat it as a temptation to be made precise. All the times: the block. All the versions: the forks. All at once: a bad kitchen phrase for “equally in the inventory.” Not a permission to walk sideways. Not a permission to hop.
 
-Elsehow is the word to keep when elsewhere tries to steal the scene. A far Hubble volume, if Chapter 38’s extras are granted, is elsewhere: a spacelike other, a tile, a distance. A neighboring bubble, if Chapter 39’s extras are granted, is a ruder elsewhere: other rules, not a destination. A branch is not a place. After decoherence you cannot point at the sky and say “the tails are that way.” There is no that way. There is another term in a sum. The split in Figure 40 never rejoins. Rejoining would be interference, and interference is what the environment spent. The carnival hop would require a door between terms. The equation, taken at Everett’s word, does not build that door. It builds a fork and then a silence.
+Elsehow is the word to keep when elsewhere tries to steal the scene. A far Hubble volume, if Chapter 39’s extras are granted, is elsewhere: a spacelike other, a tile, a distance. A neighboring bubble, if Chapter 40’s extras are granted, is a ruder elsewhere: other rules, not a destination. A branch is not a place. After decoherence you cannot point at the sky and say “the tails are that way.” There is no that way. There is another term in a sum. The split in Figure 41 never rejoins. Rejoining would be interference, and interference is what the environment spent. The carnival hop would require a door between terms. The equation, taken at Everett’s word, does not build that door. It builds a fork and then a silence.
 
 The practical fact does not budge. The worldline you occupy is the one you can work along. A melt-probe either tastes life or it does not. A library either arrives or it does not. The other outcomes, if they persist, persist without you. That is either a horror or a relief. It is, in any case, not a ticket counter.
 
@@ -2405,23 +2411,23 @@ The practical fact does not budge. The worldline you occupy is the one you can w
 >
 > **What physics establishes.** Quantum states cannot be perfectly copied (the no-cloning theorem), but a person is not one quantum state; a body is a pattern that replaces most of its atoms over years.
 >
-> **What this book infers.** That a perfect duplicate of a person would be a second person, not a continuation of the first. That is a philosophical position about personal identity, not a result of physics.[^78]
+> **What this book infers.** That a perfect duplicate of a person would be a second person, not a continuation of the first. That is a philosophical position about personal identity, not a result of physics.[^80]
 
-A loop that calls itself I wants a ruder answer. If the I is a tangle — a translation that stays closed — then a perfect copy of the tangle is a second I, not a hop of the first. Two nests built from the same plan are two cities. They may share a past up to the fork. After the fork they do not share a now, because there is no now. The woman in the greenhouse, duplicated by a printer that worked too well, does not “go” into the duplicate. She acquires a twin who will swear, with equal right, that she is the original. That is not Everett. That is logistics plus a loop. Everett is ruder still: the twin is not even elsewhere. She is elsehow, and she does not get your radio.
+A loop that calls itself I wants a ruder answer. If the I is a tangle — a translation that stays closed — then a perfect copy of the tangle is a second I, not a hop of the first. Two nests built from the same plan are two cities. They may share a past up to the fork. After the fork they do not share a now, because there is no now. Mara, duplicated by a printer that worked too well, does not “go” into the duplicate. She acquires a twin who will swear, with equal right, that she is the original. That is not Everett. That is logistics plus a loop. Everett is ruder still: the twin is not even elsewhere. She is elsehow.
 
-Consolation is the hire this whole part has been refusing. A far tile where the potatoes lived. A bubble where Λ was kind. A branch where the coin was tails and the person you lost is still in the kitchen. Each, in its drawer, may be a responsible maybe. None of them is a method. None of them is a spare you. The I that wants a spare is asking for an edit, and Chapter 35 already spent edits. A duplicate is a second I. A branch is an elsehow I. Neither is a continuation of this dishwashing, this blight, this fiber paying out into the dark.
+Consolation is the hire this whole part has been refusing. A far tile where the potatoes lived. A bubble where Λ was kind. A branch where the coin was tails and the person you lost is still in the kitchen. Each, in its drawer, may be a responsible maybe. None of them is a method. None of them is a spare you. The I that wants a spare is asking for an edit, and Chapter 36 already spent edits. A duplicate is a second I. A branch is an elsehow I. Neither is a continuation of this dishwashing, this blight, this fiber paying out into the dark.
 
 The strongest rival here is the uploading view.
 
-**Its strongest case.** If your neurons were replaced one at a time by functionally identical chips, there seems to be no moment at which you would stop being you, so a gradual upload preserves the person; and Derek Parfit argued that what matters is psychological continuity, not which matter carries it.[^79]
+**Its strongest case.** If your neurons were replaced one at a time by functionally identical chips, there seems to be no moment at which you would stop being you, so a gradual upload preserves the person; and Derek Parfit argued that what matters is psychological continuity, not which matter carries it.[^81]
 
 **What it gets right.** Identity is a pattern, not a substance, and this book agrees.
 
 **Why this book still declines the hop.** gradual replacement keeps one continuous process, while a scan-and-copy makes a second process beside the first. Chalmers himself treats gradual uploading as the safer route for that reason. A copy is a successor with your memories, which may matter a great deal, but it is not you arriving somewhere else.
 
-Appendix A40 writes decoherence, the no-signaling theorem, and the loop. You cannot use a fork to send a note to the branch next door. Pairings can be stronger than any local recipe of hidden instructions; Chapter 6 already sat with Bell and Aspect. Stronger is not a telegram. You cannot choose what to do with the coin in a way that writes a bit on the other face’s afternoon. Relativity already denied a frame-independent “at once” in which the two ends could confer. Everett adds a ruder silence: even the terms that share a past up to the flip do not confer after the environment has spent the interference.
+Appendix A41 writes decoherence, the no-signaling theorem, and the loop. You cannot use a fork to send a note to the branch next door. Pairings can be stronger than any local recipe of hidden instructions; Chapter 6 already sat with Bell and Aspect. Stronger is not a telegram. You cannot choose what to do with the coin in a way that writes a bit on the other face’s afternoon. Relativity already denied a frame-independent “at once” in which the two ends could confer. Everett adds a ruder silence: even the terms that share a past up to the flip do not confer after the environment has spent the interference.
 
-**Hot:** quantum interference is real; decoherence is a calculation; Bell pairings are real; you still cannot telegraph with them. **Warm:** Everett’s reading keeps the leftovers without a collapse postulate, and it fits a loaf that already refused a single now. **Cold:** you have photographed the other term, or hopped into it, or mailed it a dish. You have not. The coin lands both ways. You wash one plate.
+**Hot:** quantum interference is real; decoherence is a calculation; Bell pairings are real; you still cannot telegraph with them. **Warm:** Everett’s reading, this book’s preferred interpretation and not a result, keeps the leftovers without a collapse postulate, and it fits a block that already refused a single now. **Cold:** you have photographed the other term, or hopped into it, or mailed it a dish. You have not. The coin lands both ways. You wash one plate.
 
 \newpage
 
@@ -2431,7 +2437,7 @@ Appendix A40 writes decoherence, the no-signaling theorem, and the loop. You can
 
 \newpage
 
-## 41. A Filter, Not a Purpose
+## 42. A Filter, Not a Purpose
 
 If the strong nuclear force were a few percent different, carbon would be rarer, or stars would be ruder, or the leftover helium would be a different lie. If the cosmological constant were a few dozen times larger, the shove would have won before the twitches grew up, and there would be no spirals, no kitchens, no one to notice the shove. If electromagnetism were a little stronger, chemistry would be a smaller menu. These are the dimensionless coincidences, and they have been used to sell both wonder and sermons.
 
@@ -2443,13 +2449,13 @@ Hot, as coincidences go: the numbers are the numbers. *α* is 1/137-ish in every
 
 We do not have a second universe on the bench to compare. We have one leftover glow, one set of constants, one table of nuclei. In that one, water bends, carbon chains, stars last. The look of arrangement is real as a feeling. As an argument it has a hole: we are the sample. Samples taken from the places that permit samples are biased. That is not cynicism. It is how you do not get fooled by your own lungs.
 
-Dicke said a version of this in 1961,[^80] before the leftover glow had even been named in a journal. Dirac had noticed large coincidences between cosmic numbers and atomic ones and wanted a law that made them change with time. Dicke’s reply was ruder and better: observers made of carbon need a universe old enough for stars to have cooked carbon. They will find themselves in a cosmos whose age is a stellar lifetime, give or take. That is not a prediction of a changing gravity. It is a prediction of a sampling rule. Brandon Carter, a dozen years later, gave the sampling rule a name[^81] that has been causing trouble ever since: *anthropic*. The trouble is the noun. *Anthropos* sounds like a crown. The move is a mesh.
+Dicke said a version of this in 1961,[^82] before the leftover glow had even been named in a journal. Dirac had noticed large coincidences between cosmic numbers and atomic ones and wanted a law that made them change with time. Dicke’s reply was ruder and better: observers made of carbon need a universe old enough for stars to have cooked carbon. They will find themselves in a cosmos whose age is a stellar lifetime, give or take. That is not a prediction of a changing gravity. It is a prediction of a sampling rule. Brandon Carter, a dozen years later, gave the sampling rule a name[^83] that has been causing trouble ever since: *anthropic*. The trouble is the noun. *Anthropos* sounds like a crown. The move is a mesh.
 
-![Figure 41. Earth, bright against a dead horizon. A temperate world is where observers find themselves.](Figures/figs/fig41.jpg)
+![Figure 42. Earth, bright against a dead horizon. A temperate world is where observers find themselves.](Figures/figs/fig41.jpg)
 
 Weinberg’s move on the cosmological constant is the rare case where the feeling was turned into a number. If Λ is drawn from a wide range, the observers who measure it should find it small enough for galaxies, and not much smaller than that unless something else is at work. The measured value is near that edge. That is interesting. It is not a proof of a menu. It is what a filter looks like when you bother to write it down.
 
-The year was 1987. Galaxies, in the working picture, grow from the twitches of Chapter 14 only if the shove does not win too early. If vacuum energy is large, the stretch accelerates before the overdensities can collapse, and you get a thin fog with no spirals and no kitchens. Weinberg asked what values of Λ a later observer could possibly report.[^30] The answer was an upper bound: not much larger than the matter density at the epoch when galaxies form. If the prior is wide — if many values are on offer, and nothing else picks — then typical observers should find themselves near that edge, not deep in a valley of needless smallness. Eleven years later the bombs of Chapter 18 found a shove of that order. That is the interesting part. It is not a photograph of other valleys. It is a number that *looks like* a cut. Hot as a calculation: if you grant the ensemble, the bound is a bound. Warm as a hint: the measured Λ sits where a filter would put it. Cold as a proof that the ensemble exists.
+The year was 1987. Galaxies, in the working picture, grow from the twitches of Chapter 14 only if the shove does not win too early. If vacuum energy is large, the stretch accelerates before the overdensities can collapse, and you get a thin fog with no spirals and no kitchens. Weinberg asked what values of Λ a later observer could possibly report.[^31] The answer was an upper bound: not much larger than the matter density at the epoch when galaxies form. If the prior is wide — if many values are on offer, and nothing else picks — then typical observers should find themselves near that edge, not deep in a valley of needless smallness. Eleven years later the bombs of Chapter 18 found a shove of that order. That is the interesting part. It is not a photograph of other valleys. It is a number that *looks like* a cut. Hot as a calculation: if you grant the ensemble, the bound is a bound. Warm as a hint: the measured Λ sits where a filter would put it. Cold as a proof that the ensemble exists.
 
 The tidal seas belong here as a humility. We thought “arranged for life” meant a Goldilocks band and a blue marble. Then we found that most of the wet real estate in the solar system might be dark, under ice, squeezed by a giant, uninterested in sunsets. If there is life there, it did not need our sermon. If there is not, the permit was still wider than the sermon. Arrangement, if you must use the word, is sloppy and local, not a tailored suit.
 
@@ -2463,9 +2469,9 @@ With an ensemble — cheap copies, expensive bubbles, a menu of Λ — the weak 
 
 The Strong Anthropic Principle says the universe *must* permit life. “Must” is a smuggler. It can mean the tautology, the ensemble, or a purpose. Only the first is safe. The Final Anthropic Principle says intelligent processing must arise and must never die out. That is the Omega Point’s moral clause. Chapter 19 already broke its physics. Its morals were never physics.
 
-Unpack the smuggler. “Must,” in the tautology, means: a universe we are looking at, from inside, is one that permitted looking. Allowed. Empty of news. “Must,” in the ensemble, means: among the valleys, the occupied ones are the ones that permit occupation. That is the weak principle again, wearing a louder coat. “Must,” as purpose, means: the loaf was aimed. Aimed by whom, through which channel nature uses, with which leftover in the glow as a serial number? Chapter 34 already asked the watchmaker to clock in. The channel has not spoken. The Final principle is louder still. It does not only want a permit. It wants a forever-mind as a law. The bombs, the leftover glow, and the mixmaster of Chapter 16 declined.
+Unpack the smuggler. “Must,” in the tautology, means: a universe we are looking at, from inside, is one that permitted looking. Allowed. Empty of news. “Must,” in the ensemble, means: among the valleys, the occupied ones are the ones that permit occupation. That is the weak principle again, wearing a louder coat. “Must,” as purpose, means: the universe was aimed. Aimed by whom, through which channel nature uses, with which leftover in the glow as a serial number? Chapter 35 already asked the watchmaker to clock in. The channel has not spoken. The Final principle is louder still. It does not only want a permit. It wants a forever-mind as a law. The bombs, the leftover glow, and the mixmaster of Chapter 16 declined.
 
-The strong principle, in its purpose reading, still deserves its best case.[^82]
+The strong principle, in its purpose reading, still deserves its best case.[^84]
 
 **Its strongest case.** The coincidences are many, independent, and narrow. If one universe is all there is, “we could not have seen otherwise” does not explain why a universe permitting observers exists at all; a firing-squad survivor is right to ask why every shot missed. A purpose, or a law that favors life, would make the coincidences expected rather than lucky.
 
@@ -2489,7 +2495,7 @@ Do not crown this species for occupying a temperate crust while dark seas, if th
 
 \newpage
 
-## 42. No Cosmic Craftsman
+## 43. No Cosmic Craftsman
 
 Darwin’s trick, which this book has been circling since the prologue, is that a filter can look like a craftsman if you only see the survivors. The beaks fit the seeds. The fit looks like intent. The intent was death, repeated, in a lot of directions.
 
@@ -2499,11 +2505,11 @@ He did not start with the trick. He started with a notebook. Islands. Barnacles.
 
 The man on the other side was Wallace. Same mesh, different kitchen, a letter from the Malay Archipelago that arrived in time to make the announcement a joint one. That matters for the method, not for a statue. Two notebooks, two worldlines, one sentence that could have been wrong and was not. Malthus had only meant a sermon about the poor. The rate he named — more mouths than food, if nothing checks — is a filter when you let it run on beaks. Breeders had only meant prettier pigeons. The shed is a proof that a mesh, hurried by a hand, can make a pouter from a rock dove in a career. Nature’s hand is slower and has no taste. The taste is what dies.
 
-![Figure 42. One Galápagos finch on a light ground, beak readable. A filter can look like a craftsman.](Figures/figs/fig42.jpg)
+![Figure 43. One Galápagos finch on a light ground, beak readable. A filter can look like a craftsman.](Figures/figs/fig42.jpg)
 
 The cosmic version is ruder because we cannot see the deaths. If there are dead valleys, they do not send baby pictures. If there are dead tiles, they are out of reach. If there are dead branches, they do not radio. We see a leftover glow that permits spirals, a shove that waited, a nuclear force that permits carbon, a Jupiter that squeezes a moon until a sea stays wet. The craftsman story is the cheap story. The filter story is the one that does not invent a someone.
 
-Hot: this universe permits chemists. Warm: some of the coincidences of Chapter 41 are what a cut looks like, if the draws exist. Cold: a someone numbered the leftover glow. The cold claim has had centuries of poetry and no channel. Beauty is not a serial number. A blue marble is not a signature. A dark sea is a humility, not a second signature. You may still find the glow beautiful. Finding it beautiful is a fact about a worldline. It is not a telegram.
+Hot: this universe permits chemists. Warm: some of the coincidences of Chapter 42 are what a cut looks like, if the draws exist. Cold: a someone numbered the leftover glow. The cold claim has had centuries of poetry and no channel. Beauty is not a serial number. A blue marble is not a signature. A dark sea is a humility, not a second signature. You may still find the glow beautiful. Finding it beautiful is a fact about a worldline. It is not a telegram.
 
 Anthroposophy — a spiritual cosmos arranged around human becoming — is a craftsman story with incense. It does not survive the leftover glow, the three minutes, or the shove. It is not a warm claim that failed. It is a different game. This book does not play it.
 
@@ -2511,13 +2517,13 @@ Where, then, is God?
 
 If the word means a person who numbered the leftover glow, aimed a river kingdom’s stones, and poured a library into the first ocean — a colleague, larger — then the word is the watchmaker again. The channel nature does not use has not spoken. Beauty is not a serial number. This book will not pretend a gap in the first chemical hour is a detection.
 
-If the word means the reason there is a loaf rather than not, the question is honorable and unanswered. Naming the question is not a theory. It does not predict the helium fraction. It does not fix Λ. It does not open a handle. You may keep the name in a kitchen, the way you keep “now.” Do not promote it to a cosmology. Einstein’s habit, when he said God, was often the order itself — *Deus sive Natura*, a dignity for the metric, not a will. That habit is poetry with a good ear. It still does not give you a prayer that changes a worldline from outside the loaf.
+If the word means the reason there is a universe rather than not, the question is honorable and unanswered. Naming the question is not a theory. It does not predict the helium fraction. It does not fix Λ. It does not open a handle. You may keep the name in a kitchen, the way you keep “now.” Do not promote it to a cosmology. Einstein’s habit, when he said God, was often the order itself — *Deus sive Natura*, a dignity for the metric, not a will. That habit is poetry with a good ear. It still does not give you a prayer that changes a worldline from outside spacetime.
 
 If the word means the laws, you have renamed the equations. Allowed. Empty.
 
 Calling the Friedmann equation God does not make the stretch kinder. Calling the leftover glow a hymn does not change its temperature. Rename if the rename keeps you from treating the mesh as a someone. Do not imagine the rename added a will.
 
-The devil is the same furniture with the sign flipped. A cosmic adversary who wants the host to lose is a craftsman of evil, and Chapter 30 already fired that hire: survival at all cost is a fitness peak, not a personality. Death keeps the score. Entropy is the arrow we borrowed from a smooth beginning, not a being who likes ashes. Suffering is real. It happens on threads. It does not become a second deity because we need someone to blame who is not the filter. You may use the old words for the old dread. The field equation will not countersign them.
+The devil is the same furniture with the sign flipped. A cosmic adversary who wants the host to lose is a craftsman of evil, and Chapter 31 already fired that hire: survival at all cost is a fitness peak, not a personality. Death keeps the score. Entropy is the arrow we borrowed from a smooth beginning, not a being who likes ashes. Suffering is real. It happens on threads. It does not become a second deity because we need someone to blame who is not the filter. You may use the old words for the old dread. The field equation will not countersign them.
 
 What we *can* be is a local craftsman. The greenhouse is a beak we built for a seed we brought. The melt-probe is a beak for a dark sea. The library is a beak for a future dirt. That is not the universe arranging itself. That is a worldline arranging a room. The difference is the whole moral, if a cosmology book is allowed one: do not wait for the loaf to love you. Do not require the ending to compute you back. Grow the basil. Taste the plume. Send the machine. Admit that it may fail. Call that, if you need a word, meaning — and keep it off the gravitational field equation. Meaning, on this reading, is not scheduled at a crunch and not denied by heat death. It is a project on a thread. Projects can fail. That is what keeps them off the list of destinies.
 
@@ -2531,41 +2537,41 @@ What we *can* be is a local craftsman. The greenhouse is a beak we built for a s
 
 \newpage
 
-## 43. Five Ways It Can End
+## 44. Five Ways It Can End
 
 The leftover glow does not say how the story closes. The shove does most of the talking, and it talks in a low, accelerating voice. Here are five closings, with their temperatures.
 
 Only one of these five is favored by the evidence we have: the supernovae, the leftover glow, and a shove that is winning say the universe fades. The other four are allowed as other valleys or as other readings of *w*. Katie Mack wrote the tour; Barrow would have walked you to the door of each and then asked which one had a measurement. This chapter does that, with a clock.
 
-**Heat death.** The working default.[^83] The stretch keeps winning. Bound islands last a long time and then do not: stars burn out, remnants cool, black holes leak (Chapter 23), the islands thin toward a sameness in which no heat can run a trick. Time, as a useful word for change, gets bored. This is Kelvin’s old gloom, updated with dark energy. It is not a crunch. It is a fade. Hot as the track the bombs picked. Warm only in the details no one has photographed.
+**Heat death.** The working default.[^85] The stretch keeps winning. Bound islands last a long time and then do not: stars burn out, remnants cool, black holes leak (Chapter 23), the islands thin toward a sameness in which no heat can run a trick. Time, as a useful word for change, gets bored. This is Kelvin’s old gloom, updated with dark energy. It is not a crunch. It is a fade. Hot as the track the bombs picked. Warm only in the details no one has photographed.
 
 William Thomson — Kelvin — said it in the nineteenth century, when the leftover glow was not yet a fact and the shove was not yet a bomb. Stars would burn out. The universe would reach a sameness of temperature. No heat engine, no trick, no kitchen. The gloom was thermodynamics applied to a cosmos he could not yet weigh. The update is the shove. Without it, you still had a fight: pull versus stretch, a possible recollapse, a possible tired forever. With it, the fight is over unless the shove is a liar. Isolated lumps stay bound — the Local Group, a while; a galaxy, longer. Between them the dough wins and keeps winning. New stars, after a long career, stop being made. Red dwarfs, the stingy ones, spend on the order of 10¹³ to 10¹⁴ years and then sit as cinders. White dwarfs, neutron stars, brown leftovers: a degenerate era, dimming. Then the holes. A stellar-mass hole leaks on a timescale of order 10⁶⁷ years. A giant, a billion Suns, can last toward 10¹⁰⁰. Chapter 23 already wrote the leak. After the last leak, the islands are a thin of particles and a leftover stretch, too even to run a trick. That is the fade. Hot as a default given the bombs. Warm in the details: we have not photographed year 10¹⁰⁰. We have the equations that got the leftover glow right, pointed forward.
 
 **The rip.** If the shove is not a constant but a growing rudeness — *w* less than −1, phantom, a word that should not have survived the committee — then bound things unbind. Galaxies, then stars, then worlds, then you. Finite time. No evidence requires this. The bombs permit a constant. Cold, unless *w* misbehaves in a future survey.
 
-*w* is the ratio of pressure to energy density. A cosmological constant sits at *w* = −1. Acceleration needs *w* less than −1/3. A rip needs the phantom: *w* less than −1, and no decay of the field that would let it sit down.[^84] Then the shove grows. Clusters unbind. Galaxies unbind. The Solar System unbinds. Atoms, in the rude versions, unbind. There is a last day, and it is not a metaphor. As of October 2026 the surveys do not require a phantom today. The DESI and Dark Energy Survey results described in Chapter 18 lean, at about three standard deviations, the other way: a shove that is weakening now (*w* a little above −1), though in their fits it may have sat below −1 in the past.[^24][^41] A weakening shove makes a rip less likely, not more. None of this has reached discovery strength.
+*w* is the ratio of pressure to energy density. A cosmological constant sits at *w* = −1. Acceleration needs *w* less than −1/3. A rip needs the phantom: *w* less than −1, and no decay of the field that would let it sit down.[^86] Then the shove grows. Clusters unbind. Galaxies unbind. The Solar System unbinds. Atoms, in the rude versions, unbind. There is a last day, and it is not a metaphor. As of October 2026 the surveys do not require a phantom today. The DESI and Dark Energy Survey results described in Chapter 18 lean, at about three standard deviations, the other way: a shove that is weakening now (*w* a little above −1), though in their fits it may have sat below −1 in the past.[^24][^42] A weakening shove makes a rip less likely, not more. None of this has reached discovery strength.
 
 **The crunch.** Pull wins. The web falls back. The last three minutes are a hot workshop in reverse, then a scramble, then a singularity or a bounce. The bombs and the leftover glow say we are not on this track unless the shove is a liar. Cold as destiny; allowed as a different valley.
 
 **Vacuum decay.** A jitter somewhere turns the vacuum into a ruder vacuum. A bubble of the new one grows at light, rewriting the laws inside it. No warning: the warning would arrive with the bubble. The leftover glow’s vacuum looks stable enough that we are still here. “Stable enough” is not “stable.” Cold-to-warm; do not lose sleep; do not pretend the risk is zero.
 
-The Higgs vacuum, given the measured masses of the Higgs and the top quark, may be a metastable sit:[^85] not the lowest valley, a ledge. A ledge can tunnel. Coleman and De Luccia wrote the bubbles; the wall, once nucleated, runs at light. You would not see it coming because seeing is a light-speed fact, and the wall is that fact. The estimated lifetime, in the working Standard Model, is vastly longer than the present age — longer, often, than the fade. That is why you should not lose sleep. The estimate depends on numbers we still sharpen and on physics above the energies we have stacked. That is why you should not pretend the risk is zero. If a bubble arrives, there is no project that outruns it.
+The Higgs vacuum, given the measured masses of the Higgs and the top quark, may be a metastable sit:[^87] not the lowest valley, a ledge. A ledge can tunnel. Coleman and De Luccia wrote the bubbles; the wall, once nucleated, runs at light. You would not see it coming because seeing is a light-speed fact, and the wall is that fact. The estimated lifetime, in the working Standard Model, is vastly longer than the present age — longer, often, than the fade. That is why you should not lose sleep. The estimate depends on numbers we still sharpen and on physics above the energies we have stacked. That is why you should not pretend the risk is zero. If a bubble arrives, there is no project that outruns it.
 
 **The bounce.** The end is a middle. A crunch becomes a bang, or a dark sea of extra-dimensional branes slaps, or Penrose’s conformal trick glues a thin future to a next beginning. Cyclic, ekpyrotic, conformal: names, papers, no leftover-glow signature that has stuck. Cold.
 
 A bounce needs the pull to win first, or a different high-curvature theory that turns a bang into a rebound, or a pair of branes that collide in a room we have not photographed. Loop-quantum sketches bounce. Ekpyrotic sketches slap. Penrose’s conformal cyclic cosmology glues a thinned, far future to a next fog by a rescaling that makes infinity look like a start. Each of these is an idea for ideas with equations. None of them has a leftover-glow signature that has survived the surveys as a detection.
 
-![Figure 43. Five rows: Freeze, Rip, Crunch, Decay, Bounce. One word each.](Figures/figs/fig43.png)
+![Figure 44. Five rows: Freeze, Rip, Crunch, Decay, Bounce. One word each.](Figures/figs/fig43.png)
 
 Notice what is not on the list: a required forever-mind. Notice what *is* on the list, quietly, as a project rather than a fate: a greenhouse, a dark sea, a machine that does not sleep. Those do not close the cosmos. They occupy a few more worldlines before the fade. That is the only closing this book will bless.
 
-Appendix A43 writes *w*, decay rates, bounce conditions. Here, pick the default without romance: a long accelerating stretch, islands going dark, the leftover glow thinning until even the holes begin to leak. If you want a prettier last page, write it yourself, in a room, while there is still a room.
+Appendix A44 writes *w*, decay rates, bounce conditions. Here, pick the default without romance: a long accelerating stretch, islands going dark, the leftover glow thinning until even the holes begin to leak. If you want a prettier last page, write it yourself, in a room, while there is still a room.
 
 ---
 
 \newpage
 
-## 44. Does Time Exist?
+## 45. Does Time Exist?
 
 We have used “time” as if we knew.
 
@@ -2575,33 +2581,33 @@ The wall clock is still the right tool for a casserole. It is a terrible cosmolo
 
 Does time *exist*? The honest answers come in flavors.
 
-**Yes, as geometry.** The loaf has a metric. Intervals are real. This is the hot answer, and it is enough to run GPS.
+**Yes, as geometry.** Spacetime has a metric. Intervals are real. This is the hot answer, and it is enough to run GPS.
 
 Enough, also, to run the twin who comes home younger, the particle that lasts longer in the lab, the radio that answers twenty minutes late. An event is a happening. The interval between happenings is the thing the geometry cares about. Proper time is how much of that interval a particular thread accumulates. “Does time exist?” in this flavor is like asking whether length exists. Length is a relation among events along a ruler. Time is a relation among events along a worldline. The relation is as real as the casserole’s doneness. The throne — a universal now the relations are painted on — is what the kitchen clock invented and relativity retired.
 
-**Yes, as an arrow, but the arrow is a boundary.** The laws do not prefer a direction. The low-entropy past does. Eggs smash because the beginning was smooth. The Past Hypothesis, David Albert’s name for it, is this sentence in a better suit.[^86] If the past had been a scramble, we would not have a “we.”
+**Yes, as an arrow, but the arrow is a boundary.** The laws do not prefer a direction. The low-entropy past does. Eggs smash because the beginning was smooth. The Past Hypothesis, David Albert’s name for it, is this sentence in a better suit.[^88] If the past had been a scramble, we would not have a “we.”
 
 The microscopic rules run as well backward as forward. That is not a rumor. It is a feature of the equations that got the three minutes right. The arrow you feel — memory, cause, the way a cup does not unshatter — is not a second law hiding in the metric. It is a fact about the region we call the past: it was special, smooth, low in the kind of mess that would have been a heat death at the start. From a special past, the typical futures are messier. That is the arrow. It is hot as a thermodynamic fact in kitchens and stars. It is warm as a cosmological claim: we do not have a derivation of *why* the past was special. We have the leftover glow as a photograph of a smoothness, and a name for the postulate that says the smoothness was there. The Past Hypothesis is that name. Without it you do not get observers who remember. With it you do not need a river.
 
 Memory is the arrow made intimate. You remember the special past because the special past left records, and records are a kind of order: a photograph, a scar, a leftover glow, a notebook of beaks. You do not remember the fade because the fade has not left you a fossil of itself in your head. That is not a failure of the brain. It is what a boundary condition looks like from inside a thread. An egg smashes and does not un-smash for the same reason. The laws would allow the un-smash. The past would not. The kitchen already knew this before it had a name. Cosmology’s job was to notice that the leftover glow is the same kind of fact, written on the sky.
 
-**Not as a river.** There is no glowing NOW moving down the loaf. Chapters 1 through 6 were that retirement.
+**Not as a river.** There is no glowing NOW moving down the block. Chapters 1 through 6 were that retirement.
 
 **Maybe not as a fundamental word.** In some attempts to quantize gravity, the wave of the universe does not mention time. The Wheeler–DeWitt equation is a constraint, a “this must add up,” not a “this happens next.” Julian Barbour takes the hint all the way: the inventory is configurations, Nows, a heap. Dynamics is what a heap looks like when it contains records of other heaps. Carlo Rovelli takes a different hint: time is what a system with heat says about itself. Thermal time. A useful word for a useful state.
 
-Wheeler and DeWitt wrote a wavefunction of geometry that sits still:[^87] Ĥ Ψ = 0, no external *t* on the page. That is the problem of time in quantum gravity, and it is not a slogan. If the whole loaf is the system, there is no clock outside it to say “next.” Time, if it is to be recovered, has to be recovered from inside: a subsystem that can serve as a clock, a semiclassical limit where a geometry becomes classical enough to have a *t*, a relational fact among degrees of freedom. One family of recoveries, begun by Don Page and William Wootters, says: treat part of the loaf as a clock and ask how the rest correlates with it.[^88] Another says: when the geometry is large and gentle, a WKB limit hands you something that looks like the Schrödinger equation in a *t* that was not fundamental. Warm-to-cold as a research program. No experiment has selected the recovery. The GPS clock does not adjudicate this fight. GPS lives in the limit where the recovery has already succeeded, or was never needed, because the metric is classical enough to land a plane.
+Wheeler and DeWitt wrote a wavefunction of geometry that sits still:[^89] Ĥ Ψ = 0, no external *t* on the page. That is the problem of time in quantum gravity, and it is not a slogan. If the whole loaf is the system, there is no clock outside it to say “next.” Time, if it is to be recovered, has to be recovered from inside: a subsystem that can serve as a clock, a semiclassical limit where a geometry becomes classical enough to have a *t*, a relational fact among degrees of freedom. One family of recoveries, begun by Don Page and William Wootters, says: treat part of the universe as a clock and ask how the rest correlates with it.[^90] Another says: when the geometry is large and gentle, a WKB limit hands you something that looks like the Schrödinger equation in a *t* that was not fundamental. Warm-to-cold as a research program. No experiment has selected the recovery. The GPS clock does not adjudicate this fight. GPS lives in the limit where the recovery has already succeeded, or was never needed, because the metric is classical enough to land a plane.
 
 Barbour’s heap is the austere version. The world is a pile of Nows — instantaneous configurations — and what we call motion is a correlation: this Now contains records that match that Now, the way a brain contains a memory that matches a room. There is no moving spotlight. There is a heap with internal likenesses. It is a picture that takes “no river” all the way to “no primitive duration.” It is cold. It is the right kind of cold: it does not add a someone, and it does not contradict GPS, which lives in the classical limit where the heap looks like a loaf.
 
-A tempting merger waits here, and Chapter 37 already taught the habit for refusing it. Barbour has a heap of Nows. Everett has a sum of branches. Both say the inventory is bigger than the slice you remember. Put them in one coat and you get a slogan: every possible Now exists, so the multiverse is just the heap. Two drawers, one bench.
+A tempting merger waits here, and Chapter 38 already taught the habit for refusing it. Barbour has a heap of Nows. Everett has a sum of branches. Both say the inventory is bigger than the slice you remember. Put them in one coat and you get a slogan: every possible Now exists, so the multiverse is just the heap. Two drawers, one bench.
 
 Open them one at a time. The heap is configurations: every arrangement the stuff could have, one point per arrangement, whether or not anything in it remembers anything. That is configuration space, a map of the possible. Everett’s branches are not points on that map. A branch is a term in the wave that has decohered from the other terms, a pattern of records that agree with each other about which face the coin shows. Most points in the heap belong to no branch worth the name. They are scrambles with no records at all. A branch is a thin, well-behaved thread through the heap, picked out by decoherence. Not by time. Not by being possible.
 
-Barbour did build a bridge. In his picture the wave of the universe piles its weight on the Nows that hold consistent records, which he calls time capsules. That is a bridge between two drawers, not a fusion of them. It is a proposal about where the weight sits, and nobody has derived it from anything we can test. The GPS clock is no help here either. It lives where the heap already looks like a loaf.
+Barbour did build a bridge. In his picture the wave of the universe piles its weight on the Nows that hold consistent records, which he calls time capsules. That is a bridge between two drawers, not a fusion of them. It is a proposal about where the weight sits, and nobody has derived it from anything we can test. The GPS clock is no help here either. It lives in that classical limit.
 
 Hot: decoherence is a measured rate. Warm: Everett as a reading of the rule that builds chemistry. Cold: the heap as the fundamental inventory, and the time capsules as its weighting. Colder than any of them: the fused slogan. Possible is not the same word as realized. A map of every arrangement is not a census of worlds.
 
-Rovelli’s thermal time, worked out with Alain Connes, is a different recovery.[^89] A system with enough heat, enough statistical mix, can have a flow defined by that mix: time as what equilibrium says about itself. In ordinary kitchens this is overkill. In a quantum gravity where no *t* is on the page, it is a candidate for where the word comes back. Cold-to-warm. Allowed. Not a photograph.
+Rovelli’s thermal time, worked out with Alain Connes, is a different recovery.[^91] A system with enough heat, enough statistical mix, can have a flow defined by that mix: time as what equilibrium says about itself. In ordinary kitchens this is overkill. In a quantum gravity where no *t* is on the page, it is a candidate for where the word comes back. Cold-to-warm. Allowed. Not a photograph.
 
 > **Physics vs philosophy: from quantum gravity to “time is emergent”**
 >
@@ -2611,9 +2617,9 @@ Rovelli’s thermal time, worked out with Alain Connes, is a different recovery.
 >
 > **What this book infers.** Only the modest part: time exists as relations among events, whatever deeper story recovers it. “Time is an illusion” is not a result of physics; it is a reading of unfinished research.
 
-![Figure 44. A clock face dissolving into a pile of marks.](Figures/figs/fig44.png)
+![Figure 45. A clock face dissolving into a pile of marks.](Figures/figs/fig44.png)
 
-Hartle and Hawking’s no-boundary idea tries to replace[^90] “before the bang” with a rounded-off geometry, time crystallizing only when the universe is large enough to have it. Vilenkin tunnels from nothing, which is a technical nothing, not a kitchen nothing. These are cold, and they are the right kind of cold: they are attempts to stop using a word where the word may not apply.
+Hartle and Hawking’s no-boundary idea tries to replace[^92] “before the bang” with a rounded-off geometry, time crystallizing only when the universe is large enough to have it. Vilenkin tunnels from nothing, which is a technical nothing, not a kitchen nothing. These are cold, and they are the right kind of cold: they are attempts to stop using a word where the word may not apply.
 
 This book’s working answer, the one that can carry a greenhouse and a dark sea: time exists as relations among events. It does not exist as a stage the events are put down on. It may not exist, in the quantum-gravity limit, as a primitive. The arrow exists because the past was special. You exist as a thread that remembers the special past and cannot remember the fade. That is enough to call it morning.
 
@@ -2623,7 +2629,7 @@ Hot: intervals, GPS, the arrow as a fact about a smooth past. Warm: the Past Hyp
 
 \newpage
 
-## 45. The Honest Ending
+## 46. The Honest Ending
 
 Here is what each recognition lets you *do*, once it has arrived and stayed.
 
@@ -2633,7 +2639,7 @@ And then the part the leftover glow does not owe us:
 
 A dead world can hold a greenhouse if someone bullies the ice and the hours. A frozen moon can hold a sea if a giant squeezes it, and that sea can hold a second origin or an empty kitchen, and the only way to know is to melt and look, without poisoning the answer. A crew that does not sleep can carry a library farther than flesh. The library is a physical object. The project can fail. Failure is allowed. Destiny was the thing that was not allowed.
 
-![Figure 45. Rover tracks toward a near horizon. Meaning is local, on one worldline.](Figures/figs/fig45.jpg)
+![Figure 46. Rover tracks toward a near horizon. Meaning is local, on one worldline.](Figures/figs/fig45.jpg)
 
 If every allowed outcome is on the inventory, this outcome is still the one with your hands in it. If the block is real, the basil you log on a cold morning is as real as the leftover helium. If the block is not quite real, if time is a heap of Nows, the heap still includes the smell of a lie in a room of LEDs. You do not need the universe to have a purpose in order to have a purpose in it. You need a permit — water, carbon, a little quiet — and a refusal to wait for the ending to compute you back.
 
@@ -2641,27 +2647,27 @@ Local, on one worldline. That is the moral the field equation will not write and
 
 Is there a path to ultimate knowledge?
 
-There is a path. There is no chapel at the end of it, and the word *ultimate* is a temptation the loaf itself refuses.
+There is a path. There is no chapel at the end of it, and the word *ultimate* is a temptation physics itself refuses.
 
 Knowledge, in this book, is a record you could have missed. A prediction that can fail. A fossil that does not need your agreement: the glow, the helium, the stretch, the ring around a hole, a leftover in a navy file that still has no name. The path is the widening of that kind of record — not a feeling, not a collapse of the ocean when you look, not a framework that can survive every outcome and therefore explains none.
 
-Darwin’s notebook was already the whole method. A pile of beaks. A sentence that could die. Wallace’s letter. The leftover glow is that habit aimed at a fog. Weinberg’s three minutes are that habit aimed at a workshop. The bombs of 1998 are that habit aimed at a future that did not want to recollapse. A melt that tastes a sea is that habit aimed at a lid of ice. The path does not change species when the subject changes. It does not become a chapel when the subject is the loaf. It stays a record you could have missed. Lengthen it. Do not crown it. Do not build a last room and call the room God.
+Darwin’s notebook was already the whole method. A pile of beaks. A sentence that could die. Wallace’s letter. The leftover glow is that habit aimed at a fog. Weinberg’s three minutes are that habit aimed at a workshop. The bombs of 1998 are that habit aimed at a future that did not want to recollapse. A melt that tastes a sea is that habit aimed at a lid of ice. The path does not change species when the subject changes. It does not become a chapel when the subject is spacetime. It stays a record you could have missed. Lengthen it. Do not crown it. Do not build a last room and call the room God.
 
 Learn the bills. Special relativity: no shared now, no local dash past light, mail that is late on purpose. General relativity: gravity is the loaf; a handle and a bubble are sentences that still owe a stuff we have not stacked. Quantum mechanics: amplitudes, decoherence, pairings without a telegram. The seam where the two great theories do not yet share a kitchen is the largest honest hole we have. Sit in it. Do not furnish it with a visitor or a god of the gaps.
 
 Learn the walls. An event horizon is a fact about influence. A cosmic event horizon is a fact about which galaxies will never get your letter. A branch, if Everett is right, is a fact about a term you cannot enter. “Before the fog” may not be a word. Those are not insults. They are the shape of what a worldline is allowed to know.
 
-Knowing the walls is part of the path. It keeps you from spending a life on a ticket that was never for sale. It also keeps you from despair: the rooms that *are* in your future cone — a dead world with ice in its bones, a moon with a sea, a dish that can hear a shout — are not small because they are not the whole loaf. They are the part of the loaf a thread can still work.
+Knowing the walls is part of the path. It keeps you from spending a life on a ticket that was never for sale. It also keeps you from despair: the rooms that *are* in your future cone — a dead world with ice in its bones, a moon with a sea, a dish that can hear a shout — are not small because they are not the whole loaf. They are the part of spacetime a thread can still work.
 
 Refuse what cannot die. A story that fits every leftover glow is not a story. String theory, as it stands, has not named a kill-shot. A craftsman who leaves no channel nature does not use has not clocked in. An observation-creates-life that cannot say what counted as the first observer is a regress, not a path.
 
 Build the next record. A telescope that can smell an oxygen-methane pair and be wrong. A dish that can hear a shout and know the shout was not the ionosphere. A melt that tastes a dark sea without writing over it. A library that is a box, not a sermon. A legislature, even, when it is doing its only smart job: asking whether the leftover in its own air is an adversary, a secret of its own, or a file that still says unidentified. That last is not ultimate knowledge. It is hygiene.
 
-What would *ultimate* have to mean, if we kept the word? Not a God’s-eye inventory of every branch, every before, every event outside our cone. That inventory, if it exists, is not a destination. Ultimate, for a thread, is asymptotic: more of the loaf brought into a record that can fail, fewer sermons in the gaps, a closing of the QM–GR seam if the seam can be closed, a second dictionary under ice or a clean empty, a leftover named or honestly unnamed. You will not finish. The fade, if the fade is coming, will not wait until you finish. The point of the path is not to arrive at a last fact. It is to be the kind of worldline that can tell a last fact from a mood.
+What would *ultimate* have to mean, if we kept the word? Not a God’s-eye inventory of every branch, every before, every event outside our cone. That inventory, if it exists, is not a destination. Ultimate, for a thread, is asymptotic: more of the universe brought into a record that can fail, fewer sermons in the gaps, a closing of the QM–GR seam if the seam can be closed, a second dictionary under ice or a clean empty, a leftover named or honestly unnamed. You will not finish. The fade, if the fade is coming, will not wait until you finish. The point of the path is not to arrive at a last fact. It is to be the kind of worldline that can tell a last fact from a mood.
 
 Lengthen without a chapel. That is the whole close, if you want it in four words. A chapel is a last room that cannot be wrong. This cosmology has no such room. It has a kitchen clock that is still useful, a leftover glow that is still late, a shove that is still winning, a seam that is still a hole, and a handful of projects that still might fail. That is a richer inventory than a throne. It is also a ruder one.
 
-The clock on the kitchen wall is still lying. Let it. Take the casserole out. Then, if you have the years and the machines and the tact not to plague a dark sea, send a library. Not because the loaf requires it. Because you can, and because the fade, if the fade is coming, will not be hurried or helped by your waiting.
+The clock on the kitchen wall is still lying. Let it. Take the casserole out. Then, if you have the years and the machines and the tact not to plague a dark sea, send a library. Not because the universe requires it. Because you can, and because the fade, if the fade is coming, will not be hurried or helped by your waiting.
 
 That is the honest ending. It is not a door. It is a door you build, on a world that did not ask for one, under a sky that is late on purpose. It is also the only path this cosmology can sign: **widen the record, pay the bills, stop at the walls, and do not hire a someone to finish your homework.**
 
@@ -2669,7 +2675,7 @@ Said once, in the plainest words this book has:
 
 **Relativity gives us events, intervals, worldlines, and causal limits, not a universal present. Cosmology gives us evidence and open problems, not destiny. Meaning remains local, optional, and real.**
 
-Meaning, if you still want the word after forty-five chapters, is local, optional, and real. Optional, because nothing in the field equation requires it. Real, because a project on one worldline is as much an event as the leftover helium. It lives on one worldline, in a room that smells like a lie, under a clock that was never a cosmology. Grow the basil. Log the pH. Melt if you can do it without writing over the answer. Send the box if you have the tact. Admit that the dirt can vote no. That admission is not despair. It is the difference between a project and a destiny, and it is the last recognition this book will cash.
+Meaning, if you still want the word after forty-six chapters, is local, optional, and real. Optional, because nothing in the field equation requires it. Real, because a project on one worldline is as much an event as the leftover helium. It lives on one worldline, in a room that smells like a lie, under a clock that was never a cosmology. Grow the basil. Log the pH. Melt if you can do it without writing over the answer. Send the box if you have the tact. Admit that the dirt can vote no. That admission is not despair. It is the difference between a project and a destiny, and it is the last recognition this book will cash.
 
 \newpage
 
@@ -2788,7 +2794,7 @@ GPS. Orbit *v ≈ 3.9 km/s* gives a special-relativistic slowing *~7 μs/day*. T
 
 At an event *p*, *I⁻(p)* is the chronological past (events that can reach *p* on a future-timelike curve), *I⁺(p)* the chronological future, and the remainder of the manifold, minus the light-cone boundary, is spacelike-separated “elsewhere.” Causal past and future *J±(p)* include the null generators. These are the verbs the loaf actually has. “Now” is not among them.
 
-A Cauchy surface is a spacelike 3-surface that intersects every inextendible causal curve exactly once. Data on a Cauchy surface determine the solution in the domain of dependence. Presentism, as a physics claim rather than a mood, wants a preferred Cauchy surface that is “the present,” advancing. General relativity does not supply a preferred one. Different foliations are different bookkeeping. In Minkowski space every inertial *t = const* is a Cauchy surface; none is privileged by the metric. In generic GR, global hyperbolicity may fail (Cauchy horizons; A35). Where it holds, you still have a stack of surfaces, not a glowing edge.
+A Cauchy surface is a spacelike 3-surface that intersects every inextendible causal curve exactly once. Data on a Cauchy surface determine the solution in the domain of dependence. Presentism, as a physics claim rather than a mood, wants a preferred Cauchy surface that is “the present,” advancing. General relativity does not supply a preferred one. Different foliations are different bookkeeping. In Minkowski space every inertial *t = const* is a Cauchy surface; none is privileged by the metric. In generic GR, global hyperbolicity may fail (Cauchy horizons; A36). Where it holds, you still have a stack of surfaces, not a glowing edge.
 
 The block — the 4-manifold plus metric as the inventory — is the default reading once you accept (1) and the Einstein equation as the dynamics of that metric. It is not a proof that “the future is already filmed” in a fatalist sense. It is a refusal to add a moving spotlight the equations do not contain. Local becoming, if you want the word, is along a worldline: proper time (A5). It is not a cosmic weather front.
 
@@ -2806,7 +2812,7 @@ where *K = +1, 0, −1* labels spatial slices that are *S³*, *E³*, or *H³* (c
 
 Observationally, the leftover glow is isotropic to *~10⁻⁵* after the dipole is removed (A9). Galaxy surveys (2dF, SDSS, DESI) find homogeneity on scales *≳ 100–300 Mpc*, with the usual argument about whether a given catalog is large enough. Spatial curvature *Ω_k* is consistent with 0 at the percent level or better in Planck-like fits (A11). Flat and infinite is allowed. Flat and finite (a 3-torus) is allowed and not selected. Closed with a large radius is allowed. None of those options puts you at the middle of a bomb.
 
-The “bang” is a hot, dense *state* of the slices in the past, not a point in a pre-existing box. At *a → 0* the classical description fails (A44). That failure is not a location you can visit.
+The “bang” is a hot, dense *state* of the slices in the past, not a point in a pre-existing box. At *a → 0* the classical description fails (A45). That failure is not a location you can visit.
 
 ---
 
@@ -2838,7 +2844,7 @@ The dipole, *ΔT ≈ 3.4 mK*, is our motion relative to the rest frame of the gl
 
 Last scattering: hydrogen recombination drops the free-electron fraction and the Thomson optical depth *τ* falls through 1. Planck-like fits put the peak of the visibility function at *z_* ≈ 1090 (1089.80 ± 0.23 in the 2018 TT,TE,EE+lowE+lensing chain; the chapter’s 1090 is the right digit). The temperature then was *T_* = *T₀ (1 + z_*) ≈ 2970 K*, which this book rounds to *3000 K*. Age at last scattering: *≈ 380,000 yr*. Helium recombination is earlier and less visible. Reionization at *z ~ 6–9* puts a small extra *τ* on the large-scale polarization; it is not a second fireball.
 
-Hot: the spectrum, the dipole as motion, the *10⁻⁵* map, last scattering at *z ~ 10³*. Warm: the detailed recombination code and the optical-depth tail. Cold: a craftsman who painted the blackbody (A34).
+Hot: the spectrum, the dipole as motion, the *10⁻⁵* map, last scattering at *z ~ 10³*. Warm: the detailed recombination code and the optical-depth tail. Cold: a craftsman who painted the blackbody (A35).
 
 ---
 
@@ -2880,7 +2886,7 @@ Observed *Y_p ≈ 0.24–0.25* (H II regions; primordial intercept). Deuterium, 
 
 Planck-like inventory (round numbers this book uses): *Ω_b ≈ 0.05*, *Ω_c ≈ 0.27*, *Ω_Λ ≈ 0.68*, *Ω_k ≈ 0*, photons *Ω_γ ~ 5 × 10⁻⁵*, neutrinos a comparable few × *10⁻⁵* if masses are small. Mean baryon number density *n_b ~ 0.2 m⁻³* (one proton in a box a bit more than a meter on a side). Stars and the gas you can photograph are a fraction of *Ω_b*; most baryons are in the warm–hot intergalactic medium and other faint phases. Dark matter *Ω_c* is the extra pull (A17). Dark energy *Ω_Λ* is the shove (A18). They do not trade costumes.
 
-Spatial curvature: *|Ω_k| ≲ 0.01* in standard fits, tighter if you assume the working model. That is “flat for practical purposes,” not a proof the 3-space is infinite (A38). Critical density is the density that would make a matter-only universe spatially flat. With *Λ*, the Friedmann equation still uses (5) as the unit; the geometry is *Ω_k = 1 − Σ Ω_i*.
+Spatial curvature: *|Ω_k| ≲ 0.01* in standard fits, tighter if you assume the working model. That is “flat for practical purposes,” not a proof the 3-space is infinite (A39). Critical density is the density that would make a matter-only universe spatially flat. With *Λ*, the Friedmann equation still uses (5) as the unit; the geometry is *Ω_k = 1 − Σ Ω_i*.
 
 ---
 
@@ -2930,11 +2936,11 @@ Hot: *A_s*, *n_s < 1*, acoustic physics. Warm: a slow-roll burst as the source. 
 
 ## A15. Eternal Inflation and the Measure Problem
 
-If the quantum kick *δφ ~ H/2π* per Hubble time exceeds the classical roll down the potential, inflation self-reproduces: volume that is still inflating grows faster than volume that has exited. Pocket nucleations in a false-vacuum sea (Coleman–De Luccia) are a related picture with bubbles instead of a slowly rolling field. Both produce a multiverse of the Level II kind (A37). Neither is a detection.
+If the quantum kick *δφ ~ H/2π* per Hubble time exceeds the classical roll down the potential, inflation self-reproduces: volume that is still inflating grows faster than volume that has exited. Pocket nucleations in a false-vacuum sea (Coleman–De Luccia) are a related picture with bubbles instead of a slowly rolling field. Both produce a multiverse of the Level II kind (A38). Neither is a detection.
 
-The measure problem is that “most” is not defined. Volume-weighted measures favor pockets that inflate longest. Pocket-weighted measures count nucleations. Observer-weighted measures try to condition on galaxies or on Boltzmann brains. They disagree, sometimes by infinite factors. Anthropic cuts on *Λ* (A41) inherit this fog: Weinberg’s upper bound is a real inequality; turning it into a probability needs a measure you do not have.
+The measure problem is that “most” is not defined. Volume-weighted measures favor pockets that inflate longest. Pocket-weighted measures count nucleations. Observer-weighted measures try to condition on galaxies or on Boltzmann brains. They disagree, sometimes by infinite factors. Anthropic cuts on *Λ* (A42) inherit this fog: Weinberg’s upper bound is a real inequality; turning it into a probability needs a measure you do not have.
 
-Borde–Guth–Vilenkin (BGV): if the average Hubble rate along a past-directed geodesic is positive, that geodesic is past-incomplete. Eternal inflation, on this theorem, is not a past-eternal block. It does not prove a kitchen-time “before.” It proves that the inflating congruence cannot be extended indefinitely into the past as a regular, expanding spacetime. What replaces the incompleteness is A44’s problem, not a filmed first tick.
+Borde–Guth–Vilenkin (BGV): if the average Hubble rate along a past-directed geodesic is positive, that geodesic is past-incomplete. Eternal inflation, on this theorem, is not a past-eternal block. It does not prove a kitchen-time “before.” It proves that the inflating congruence cannot be extended indefinitely into the past as a regular, expanding spacetime. What replaces the incompleteness is A45’s problem, not a filmed first tick.
 
 Temperature: local burst, warm (A13–A14). Eternal froth and a predictive measure, cold-to-warm at best. A landscape of string vacua as the menu, untestable by (18).
 
@@ -2948,7 +2954,7 @@ Inflationary *δφ* is chaotic in the colloquial sense: a *10⁻⁵* twitch, str
 
 BKL (Belinski–Khalatnikov–Lifshitz): generic spacelike singularities in classical GR show Mixmaster behavior — chaotic Bianchi IX oscillations, a sequence of Kasner epochs with exponents that bounce in a deterministic but exponentially sensitive map. Nearby spatial points lose correlation as *t → 0* (or toward a crunch). That is a theorem-level expectation of the classical theory, not a photograph of the bang.
 
-A steered crunch — the Omega Point demand that intelligence control the geometry all the way to a single *c*-boundary point — requires control of that chaos. Barrow-type results make the demand measure-zero unless extra structure is imposed: you would need to fine-tune the approach on successively smaller scales without a horizon-free handle (A23, A42). Lyapunov exponents of the Mixmaster map are positive; each Kasner epoch shrinks the set of successful steerings. Sensitivity is an engine for structure in the expanding era. It is a veto on a required final mind in a recollapse.
+A steered crunch — the Omega Point demand that intelligence control the geometry all the way to a single *c*-boundary point — requires control of that chaos. Barrow-type results make the demand measure-zero unless extra structure is imposed: you would need to fine-tune the approach on successively smaller scales without a horizon-free handle (A23, A43). Lyapunov exponents of the Mixmaster map are positive; each Kasner epoch shrinks the set of successful steerings. Sensitivity is an engine for structure in the expanding era. It is a veto on a required final mind in a recollapse.
 
 ---
 
@@ -2974,7 +2980,7 @@ Direct detection: LZ, XENON1T/nT, PandaX, and predecessors have not found a WIMP
 
 **(6)**  *ρ_Λ = Λ c² / (8π G)*  (constant)
 
-Naive QFT zero-point *~ M⁴* with *M* at the Planck scale (*~10¹⁹ GeV*) overshoots *ρ_Λ,obs* by ~120 orders of magnitude; even a TeV cutoff overshoots by ~60. Observed *ρ_Λ ~ (2.3 × 10⁻³ eV)⁴*, or about *6 × 10⁻²⁷ kg m⁻³* — the same order as *ρ_c* today, which is the coincidence problem. Weinberg 1987: if *ρ_Λ* is too large and positive, galaxies do not form before the shove wins; that anthropic upper bound sits within one or two decades of the measured value. A bound is not a derivation. It becomes an explanation only if an ensemble of vacua exists and a measure can be defined (A15, A41). String landscapes offered as that ensemble inherit (18).
+Naive QFT zero-point *~ M⁴* with *M* at the Planck scale (*~10¹⁹ GeV*) overshoots *ρ_Λ,obs* by ~120 orders of magnitude; even a TeV cutoff overshoots by ~60. Observed *ρ_Λ ~ (2.3 × 10⁻³ eV)⁴*, or about *6 × 10⁻²⁷ kg m⁻³* — the same order as *ρ_c* today, which is the coincidence problem. Weinberg 1987: if *ρ_Λ* is too large and positive, galaxies do not form before the shove wins; that anthropic upper bound sits within one or two decades of the measured value. A bound is not a derivation. It becomes an explanation only if an ensemble of vacua exists and a measure can be defined (A15, A42). String landscapes offered as that ensemble inherit (18).
 
 ---
 
@@ -2984,7 +2990,7 @@ Naive QFT zero-point *~ M⁴* with *M* at the Planck scale (*~10¹⁹ GeV*) over
 
 (for *w = −1*). Type Ia supernovae as standardizable candles (Riess et al. 1998; Perlmutter et al. 1999; Schmidt’s team sharing the 2011 Nobel) showed that luminosity distance at *z ~ 0.5–1* is too large for a matter-only decelerating universe. The leftover glow and a baryon acoustic oscillation standard ruler together prefer the same fit. BAO: the sound horizon at the drag epoch is *r_d ≈ 147 Mpc* comoving in Planck-like physics; galaxy and Lyman-*α* surveys (SDSS, BOSS, eBOSS, DESI) recover a feature at *~150 Mpc* comoving. That is a meter stick, not a metaphor.
 
-Equation (7) with *Ω_m ≈ 0.3*, *Ω_Λ ≈ 0.7*, *Ω_k ≈ 0* is the working *H(z)*. Acceleration (*q₀ < 0*) begins near *z ~ 0.6* in that fit — a few billion years ago, not at the bang. As of October 2026, DESI DR2 BAO with the CMB prefers an evolving *w(z)* (parametrized *w = w₀ + wₐ z/(1+z)*) over Λ at about 3σ, about 2.8–4.2σ when supernova samples are added; the full Dark Energy Survey result gives *w₀ ≈ −0.82* today; a Bayesian reanalysis finds the evidence not decisive. That is a possible warming of “not exactly Λ.” It is not a detection of a Big Rip, a bounce, or a required recollapse (A19, A43). *w ≈ −1* remains the working number until a survey reaches discovery strength.
+Equation (7) with *Ω_m ≈ 0.3*, *Ω_Λ ≈ 0.7*, *Ω_k ≈ 0* is the working *H(z)*. Acceleration (*q₀ < 0*) begins near *z ~ 0.6* in that fit — a few billion years ago, not at the bang. As of October 2026, DESI DR2 BAO with the CMB prefers an evolving *w(z)* (parametrized *w = w₀ + wₐ z/(1+z)*) over Λ at about 3σ, about 2.8–4.2σ when supernova samples are added; the full Dark Energy Survey result gives *w₀ ≈ −0.82* today; a Bayesian reanalysis finds the evidence not decisive. That is a possible warming of “not exactly Λ.” It is not a detection of a Big Rip, a bounce, or a required recollapse (A19, A44). *w ≈ −1* remains the working number until a survey reaches discovery strength.
 
 Hot: acceleration; *Ω_Λ ~ 0.7*; BAO ruler. Warm: Λ as a true constant rather than a slow field. Cold: we know *why* the zero-point is small.
 
@@ -2998,7 +3004,7 @@ Closed matter-only recollapse needs *Ω_m > 1* and no lasting shove. Observed *�
 
 FAP and the Omega Point, as a *requirement* of the laws plus data, fail here first: they need a crunch. They fail again on horizons (A23, A26): a de Sitter-like late phase has an event horizon and a finite entropy budget, not an infinite computational resource in a vanishing 3-volume. They fail a third time on BKL chaos (A16) if you grant a crunch anyway. This book keeps that failure. A poetic crunch is not a measurement.
 
-What would reopen recollapse: a measured *w(z)* that climbs through *−1/3* and stays there with *Ω_m* high enough, or a vacuum decay (A43) into a negative-*Λ* phase on a timescale shorter than the remaining expansion. Neither is in the data. The first is a research program. The second is a lifetime *Γ* that is not measured (and, in the Standard Model metastability calculation, is usually quoted as vastly longer than *t₀*, with large theoretical fog). A closed universe with *Ω_k* slightly negative and *Ω_Λ ≈ 0.7* still expands forever in the working fit; curvature does not buy you a crunch once the shove is on.
+What would reopen recollapse: a measured *w(z)* that climbs through *−1/3* and stays there with *Ω_m* high enough, or a vacuum decay (A44) into a negative-*Λ* phase on a timescale shorter than the remaining expansion. Neither is in the data. The first is a research program. The second is a lifetime *Γ* that is not measured (and, in the Standard Model metastability calculation, is usually quoted as vastly longer than *t₀*, with large theoretical fog). A closed universe with *Ω_k* slightly negative and *Ω_Λ ≈ 0.7* still expands forever in the working fit; curvature does not buy you a crunch once the shove is on.
 
 ---
 
@@ -3024,7 +3030,7 @@ A clock at rest at radius *r* runs slow versus a clock at infinity by that facto
 
 Kerr: spin parameter *a/M* between 0 and 1 in geometric units. The innermost stable circular orbit (ISCO) sits at *6 GM/c²* for Schwarzschild and moves in to *GM/c²* for prograde extremal spin. That is why thin-disk efficiency can reach *~40%* of rest mass for high spin versus *~6%* for a non-spinning hole. Extreme “hour versus years” ratios for a *person* beside a supermassive hole need a station near ISCO *and* *a/M* within *~10⁻¹⁴* of extremal so that the redshift factor is huge while the orbit remains stable. Allowed by the metric. Not generic. Astrophysical spins measured from iron lines and continuum fitting are high (*a/M ~ 0.7–0.98* for some AGN) and nowhere near that engineering tolerance.
 
-Frame dragging (Lense–Thirring) is measured around Earth (Gravity Probe B; LAGEOS) at the milliarcsecond-per-year level. Around a hole it is the reason the ergosphere exists (*r < 2GM/c²* at the equator for Kerr). Penrose processes and Blandford–Znajek jets can tap spin. They are not time machines (A35).
+Frame dragging (Lense–Thirring) is measured around Earth (Gravity Probe B; LAGEOS) at the milliarcsecond-per-year level. Around a hole it is the reason the ergosphere exists (*r < 2GM/c²* at the equator for Kerr). Penrose processes and Blandford–Znajek jets can tap spin. They are not time machines (A36).
 
 ---
 
@@ -3080,7 +3086,7 @@ Earth–Mars light time: *~3 min* at closest approach, *~22 min* near solar conj
 
 Δv: LEO to trans-Mars injection *~3.6 km/s*; Mars capture and circularization *~2 km/s* class for a propulsive orbit, plus a lander budget of several more km/s if you do not aerobrake. Aerobraking and aerocapture trade heat shield for propellant. Surface gravity *0.38 g*. Solar constant *~43%* of Earth’s. Atmosphere *~6 mbar* (6.1 mbar mean), *~95% CO₂*, argon and nitrogen in the remainder — a vacuum by kitchen standards, a resource by ISRU standards. Mean surface *T* near *−60 °C*; equatorial summer afternoons can sit near 0 °C. Water ice is mapped at mid and high latitudes (Phoenix; SHARAD; neutron spectroscopy); equatorial “dry” is not globally dry at depth.
 
-Perchlorates: Phoenix wet chemistry found *~0.5–1%* by mass in the soil, mostly as Mg/Na perchlorate. That is a toxic oxidizer and a hygroscopic brine ingredient, not a mood and not automatically a nutrient. Plant growth needs imported or generated O₂/N₂ buffers, water that has been scrubbed, and radiation shielding. GCR plus solar protons at the surface are lower than in cruise (A31) because of the planet’s bulk, higher than under Earth’s atmosphere and magnetosphere. A greenhouse on a dead world is an engineering permit. It is not a biosphere, not a city, and not a reason to treat Earth as optional.
+Perchlorates: Phoenix wet chemistry found *~0.5–1%* by mass in the soil, mostly as Mg/Na perchlorate. That is a toxic oxidizer and a hygroscopic brine ingredient, not a mood and not automatically a nutrient. Plant growth needs imported or generated O₂/N₂ buffers, water that has been scrubbed, and radiation shielding. GCR plus solar protons at the surface are lower than in cruise (A32) because of the planet’s bulk, higher than under Earth’s atmosphere and magnetosphere. A greenhouse on a dead world is an engineering permit. It is not a biosphere, not a city, and not a reason to treat Earth as optional.
 
 ---
 
@@ -3124,21 +3130,33 @@ HZ is a *permit for surface liquid water*, given an Earth-like atmosphere and a 
 
 Tidal power scales roughly *Ė ∝ (G M_p)² R⁵ e² / (a⁶ μ Q)* (order-of-magnitude; *e* eccentricity, *μ* rigidity, *Q* dissipation). Io–Europa–Ganymede 1:2:4 Laplace resonance maintains *e*. Io’s *Ė* is measured as heat (*~10¹⁴ W*); Europa’s is inferred. Europa: ice shell perhaps 10–30 km (thicker in some gravity/induction models), ocean *O(100) km*. Induced magnetic field (Galileo) already implies a global conductor; Hubble and JWST have argued for plumes and then argued with themselves — plumes remain warm as a claim, not a scheduled geyser. Surface in Jovian belts: *O(10²–10³) rem/day* (*~1–10 Sv/day*) — lethal; the ocean is shielded by ice and water column.
 
-Enceladus: south-polar plume (Cassini), salinity, silica nanoparticles (hydrothermal hint), H₂, organics. The plume is a sample without a landing. Ganymede: intrinsic field; possible stacked oceans separated by high-pressure ices. Titan: surface lakes are methane (A30); a deep water–ammonia ocean is a gravity/shape inference, not a beach. High-pressure ices (VI, VII) on larger worlds may limit water–rock exchange — open problem. Rogue planets: radiogenic plus primordial heat under a thick ice blanket can maintain a sea (Stevenson-type thermos). Look-first rule: induced field and plumes before slogans. Oceans are warm-to-hot. Life in them is not a detection.
+Enceladus: south-polar plume (Cassini), salinity, silica nanoparticles (hydrothermal hint), H₂, organics. The plume is a sample without a landing. Ganymede: intrinsic field; possible stacked oceans separated by high-pressure ices. Titan: surface lakes are methane (A31); a deep water–ammonia ocean is a gravity/shape inference, not a beach. High-pressure ices (VI, VII) on larger worlds may limit water–rock exchange — open problem. Rogue planets: radiogenic plus primordial heat under a thick ice blanket can maintain a sea (Stevenson-type thermos). Look-first rule: induced field and plumes before slogans. Oceans are warm-to-hot. Life in them is not a detection.
 
 ---
 
 \newpage
 
-## A30. Second Origins, Other Chemistries, Missing Body Plans
+## A30. Second Origins, the Code, and What Life Eats
 
 Sample size *N = 1*. Operational life: Darwinian replication plus a metabolism on a gradient. Viking LR (1976): labeled-release gas at *~15 °C* that did not repeat after a *160 °C* heat control, contested then and now as abiotic soil chemistry (peroxides; perchlorates, later measured) versus a metabolism. Biosignature *pair* O₂+CH₄ is a disequilibrium test, not a verdict.
 
 Universal genetic code on Earth is a LUCA signature (frozen accident ± modest error-minimization), not a cosmic typesetter. Same codon table on a second world: contamination or panspermia, not independent invention. Pairing polymers warm; exact DNA alphabet cold. LUCA, as a node, sits before *~3.5–3.8 Ga* on the terrestrial clock; that is a date for *this* tree, not a cosmic requirement.
 
+Cannibalism: common in metazoa (not a zoological ban). Human near-taboo is a filter, not a field equation. Leading meshes: species-specific pathogens/prions (kuru; BSE from intra-species feed); kin selection; retaliation in social species. Inter-trunk predation (them eating us) is not cannibalism; chirality/code mismatch still makes us a poor default lunch.
+
+Sex is not immortality: soma dies; lineage continues (Weismann). Asexual fission/clones are the common terrestrial default by time and census; sex is costly (two-fold cost of males) and still common in large parasite-exposed taxa. Warm accounts: Red Queen, Muller’s ratchet, recombinational repair — not a unique cosmic requirement. HGT is mixing without meiosis. Individual biological immortality is rare and still mutates. Expect *some* genome mixing where parasites + time exist; do not expect two sexes and a child-as-afterlife.
+
+Reward, not pamphlet: sexual pleasure as a selected carrot for an expensive shuffle (wanting/seeking vs liking/completion; pair-bond peptides as a warm extra where young are costly). Asexuality and drive variation are lottery outcomes, not cosmic defects. Pornography as supernormal stimulus (Tinbergen): cue louder than the costly act; watchfulness plus cheap infinite images is Pleistocene wiring against an industrial supply (same family as refined sugar, intermittent-reward machines). Not a universal sophont law; warm that any reward loop can be spoofed once recording is cheap. No off-switch labeled “depiction only.”
+
+---
+
+\newpage
+
+## A31. Other Chemistries, Missing Body Plans
+
 Alternative solvents are papers, not zoos. A solvent must dissolve reactants, permit transport, allow a compartment, spare the polymers, and host a gradient. Water is the hired case, not a cosmic sacrament.
 
-Titan (Cassini; Huygens, 2005): surface *T ≈ 94 K*, *P ≈ 1.45 bar*, N₂ air with CH₄ weather; lakes/seas of CH₄/C₂H₆ (radar-dark, north-polar concentration). No biosphere detection. Liquid-methane relative permittivity *ε_r ≈ 1.7* vs water *ε_r ≈ 80* at kitchen *T* — ions poorly solvated; Earth-like acid–base metabolism is mute. Kinetics: Arrhenius suppression at 94 K makes uncatalyzed lake chemistry a statue; upper-atmosphere photochemistry (CH₄ → haze) can still run. Warm papers, not detections: H₂ + C₂H₂ metabolism (McKay–Smith-type fingerprint: depleted H₂ / acetylene). Azotosomes (acrylonitrile vesicles proposed for liquid CH₄; the molecule is in the air) are cold as membranes: the stability case has gone against them. Dragonfly-class in situ is the next measurement, not a verdict in this note.
+Titan (Cassini; Huygens, 2005): surface *T ≈ 94 K*, *P ≈ 1.47 bar*, N₂ air with CH₄ weather; lakes/seas of CH₄/C₂H₆ (radar-dark, north-polar concentration). No biosphere detection. Liquid-methane relative permittivity *ε_r ≈ 1.7* vs water *ε_r ≈ 80* at kitchen *T* — ions poorly solvated; Earth-like acid–base metabolism is mute. Kinetics: Arrhenius suppression at 94 K makes uncatalyzed lake chemistry a statue; upper-atmosphere photochemistry (CH₄ → haze) can still run. Warm papers, not detections: H₂ + C₂H₂ metabolism (McKay–Smith-type fingerprint: depleted H₂ / acetylene). Azotosomes (acrylonitrile vesicles proposed for liquid CH₄; the molecule is in the air) are cold as membranes: the stability case has gone against them. Dragonfly-class in situ is the next measurement, not a verdict in this note.
 
 Ammonia: 1 atm liquid range *≈ 195–240 K* (narrower than water unless mixed or pressurized). Polar, H-bonding; NH₃–H₂O eutectics stay liquid colder. Different acid–base inventory; hostile to Earth proteins. Still a paper.
 
@@ -3146,7 +3164,7 @@ Concentrated H₂SO₄ cloud decks (Venus-class): liquid in a probe-accessible *
 
 Silicon chains as *flesh*: weak in water (prefer silica / mountains). Silica *scaffolds* already exist (diatoms, radiolarians) as coating, not metabolism. Homochirality: a second origin may be mirror-life; terrestrial enzymes would fail on it. “Nitrogen-breathing” as a *primary* metabolism is not an Earth pathway; N₂ fixation is costly (nitrogenase). Rapid *morphological* ascent through Earth’s taxa in days is fiction. Rapid *radiation* given short generation time and empty ecospace is ordinary (microbes; post-extinction recoveries). Contingency: Burgess-type body plans show many fired experiments; convergence (eyes, wings, torpedo bodies, cursorial hunters) shows some re-hiring.
 
-Independent *humanoid* sophonts: cold (ape bauplan is historical). Independent *cetacean* sophonts as a default: cold; aquatic nervous systems warm. “Colleague with different ears” is a cultural wish, not a morphology forecast. Planetary-scale hyphal/root nets: Earth has sketches (mycelia; plant-mycorrhizal signalling — do not oversell a global brain). Remote-worn local bodies are engineering (Ch. 31), not a second origin.
+Independent *humanoid* sophonts: cold (ape bauplan is historical). Independent *cetacean* sophonts as a default: cold; aquatic nervous systems warm. “Colleague with different ears” is a cultural wish, not a morphology forecast. Planetary-scale hyphal/root nets: Earth has sketches (mycelia; plant-mycorrhizal signalling — do not oversell a global brain). Remote-worn local bodies are engineering (Ch. 32), not a second origin.
 
 Brain *volume* is a weak predictor once you leave a clade. Cetacean brains are large; corvid and parrot pallia are small, dense, and capable (Herculano-Houzel-type neuron counts beat cubic centimeters). Packing, wiring length, the body the wires serve, cumulative culture, and clock time matter more. A ~30 cm soma is neither a law nor a ban. Warm: a small, fast, dense nervous system can outrun a human-scale skull. Whale-scale tissue without that invoice can fail to. Eusocial colonies are distributed-control sketches, not a proof of a planetary hive-person. Miniaturized humanoids remain cold as morphology.
 
@@ -3156,41 +3174,35 @@ Endo- vs exoskeleton: both hired (vertebrate bone/cartilage; arthropod/mollusc c
 
 Missing on Earth as *macro* habits: wheels with axial blood supply; silicon endoskeletons as *default vertebrate* habit; photosynthetic herds; terrestrial coleoid dominance; radial large terrestrial predators; several simultaneous intelligent bauplans from one radiation.
 
-Cannibalism: common in metazoa (not a zoological ban). Human near-taboo is a filter, not a field equation. Leading meshes: species-specific pathogens/prions (kuru; BSE from intra-species feed); kin selection; retaliation in social species. Inter-trunk predation (them eating us) is not cannibalism; chirality/code mismatch still makes us a poor default lunch.
-
-Sex is not immortality: soma dies; lineage continues (Weismann). Asexual fission/clones are the common terrestrial default by time and census; sex is costly (two-fold cost of males) and still common in large parasite-exposed taxa. Warm accounts: Red Queen, Muller’s ratchet, recombinational repair — not a unique cosmic requirement. HGT is mixing without meiosis. Individual biological immortality is rare and still mutates. Expect *some* genome mixing where parasites + time exist; do not expect two sexes and a child-as-afterlife.
-
-Reward, not pamphlet: sexual pleasure as a selected carrot for an expensive shuffle (wanting/seeking vs liking/completion; pair-bond peptides as a warm extra where young are costly). Asexuality and drive variation are lottery outcomes, not cosmic defects. Pornography as supernormal stimulus (Tinbergen): cue louder than the costly act; watchfulness plus cheap infinite images is Pleistocene wiring against an industrial supply (same family as refined sugar, intermittent-reward machines). Not a universal sophont law; warm that any reward loop can be spoofed once recording is cheap. No off-switch labeled “depiction only.”
-
 Population structure (ecotypes, subspecies, island morphs): hot as a pattern after isolation + selection. Human folk “races” as discrete biological kinds: a poor map of a recently expanded, highly admixed species (most variation within groups; clines). Exobiology should expect local editions, not Earth’s census boxes. Native/non-native is a timestamp, not an essence; introductions can be polite or invasive. Directed seed into an occupied biosphere = invasion (look first). Humans are range-expanders on Earth and would be the non-native on any other world.
 
 ---
 
 \newpage
 
-## A31. Travel Time, Dose, and Autonomous Systems
+## A32. Travel Time, Dose, and Autonomous Systems
 
 At *v = 0.01 c* (*3000 km/s*), α Centauri (*4.37 ly*) is a *~437 yr* cruise before deceleration; the galaxy is not a weekend. At *0.1 c*, *~44 yr* plus a deceleration burn that is itself a propulsion problem. Kinetic energy per kilogram at *0.01 c* is *~4.5 × 10¹² J/kg* (*~1 kt TNT per kilogram*); at *0.1 c*, a hundred times that. Interstellar dust and ionized gas at *0.1 c* are an energy hazard: a 10 μm grain at that speed is a bullet. This note is not a starship catalog. Those two speeds are enough to see the invoice.
 
 Dose. Galactic cosmic rays in deep space deposit *~0.3–0.6 Sv/yr* behind thin shielding, order of magnitude; cruise measurements (Mars Science Laboratory’s RAD; astronaut TEPC) sit near *0.3–0.5 Sv/yr* depending on solar modulation. A career limit of order *1 Sv* (age- and sex-dependent regulatory numbers; ICRP and NASA have moved the digit) is a few years of unshielded or lightly shielded interplanetary flesh, not a century. Solar particle events add rare, sharp sieverts unless you have a storm shelter. A planetary surface is better than cruise and worse than Earth. Europa’s surface is a non-starter for flesh (A29). Autonomy is not a slogan: error-corrected memory, rad-hard processors, in-situ repair, and a control loop that still makes sense after decades of bit flips. Present pattern engines are not a century-stable control system. The chapter is the outlook. Form (android versus drill) is interface, not physics.
 
-AI risk, temperatures: (i) misuse and scale-error by human principals — hot as a class; (ii) loss of institutional comprehension when procedures are model-generated — warm; (iii) agentic takeover via stable goals plus instrumental convergence — extra hypotheses, not a thermal-history-grade fact; treat as a design constraint for reactors, weapons, and long cruises. “Better” is task-relative. Mind as computation versus mind as non-algorithmic (the incompleteness wedge; gravity-linked objective reduction): the second is a minority research program. Both morals of incompleteness are in A40. Current pattern engines are not a someone on either reading. Alignment is local control engineering, not an Omega Point.
+AI risk, temperatures: (i) misuse and scale-error by human principals — hot as a class; (ii) loss of institutional comprehension when procedures are model-generated — warm; (iii) agentic takeover via stable goals plus instrumental convergence — extra hypotheses, not a thermal-history-grade fact; treat as a design constraint for reactors, weapons, and long cruises. “Better” is task-relative. Mind as computation versus mind as non-algorithmic (the incompleteness wedge; gravity-linked objective reduction): the second is a minority research program. Both morals of incompleteness are in A41. Current pattern engines are not a someone on either reading. Alignment is local control engineering, not an Omega Point.
 
 ---
 
 \newpage
 
-## A32. Genome Information, Synthesis, and Planetary Protection
+## A33. Genome Information, Synthesis, and Planetary Protection
 
 Haploid human genome *~3 × 10⁹* bases (*~0.75 GB* uncompressed, far less with compression and redundancy). A typical bacterium is *~10⁵–10⁷* bases. A biosphere archive is orders of magnitude larger than either if you want ecological function, not a mascot. COSPAR planetary protection: the Policy on Planetary Protection published in *Space Research Today* (January 2026 edition; Bureau approval 7 November 2025) puts icy worlds under one policy, and a landing that can erase A29’s look-first measurement stays in the strict forward-contamination categories. Mars life-detection sites are stricter than a flyby. A restricted Earth return is the invoice if a sample might still be a kitchen. Directed panspermia (Crick and Orgel, 1973, as an idea) is engineering plus ethics, not a detection. A first-ocean seed on the early Earth would be absorbed into the LUCA signature and is not presently distinguishable from a local origin. “Messages in junk DNA” have not survived as a channel nature does not use. Synthesis from sequence requires wet-lab machinery that must itself survive the trip. Eusocial Earth sketches are the scale reminder: competence at nest-size is not a colleague. Look first. Seed later. A library poured into a sea that already copies is a conquistador. The same library, on a world whose exam has already been graded empty, is a greenhouse.
 
-A closed ecology is a queue, not a portrait: a pioneer film, then a dirt that film makes, then a rooted producer that needs the shade and the soil it did not arrive with. Shipping the last organism without the first is a corpse with a pedigree. The useful first print is an assay — a metabolism whose waste you can see from outside the room (a gas, a pigment, a pH shift) — so a dead printer, a refusing room, and a corrupted recipe are three different failures. Keep at least two copies of the archive in two radiation environments, plus a key a person can still sound out when the catalog’s format has died. Do not pack a mirror biosphere “for completeness” (A30). An empty exam gets the chemistry we have run. An occupied sea gets the box left shut.
+A closed ecology is a queue, not a portrait: a pioneer film, then a dirt that film makes, then a rooted producer that needs the shade and the soil it did not arrive with. Shipping the last organism without the first is a corpse with a pedigree. The useful first print is an assay — a metabolism whose waste you can see from outside the room (a gas, a pigment, a pH shift) — so a dead printer, a refusing room, and a corrupted recipe are three different failures. Keep at least two copies of the archive in two radiation environments, plus a key a person can still sound out when the catalog’s format has died. Do not pack a mirror biosphere “for completeness” (A31). An empty exam gets the chemistry we have run. An occupied sea gets the box left shut.
 
 ---
 
 \newpage
 
-## A33. Einstein–Rosen vs Traversable Throats
+## A34. Einstein–Rosen vs Traversable Throats
 
 ER bridge: Kruskal throat, non-traversable, pinches in finite proper time (A22). Morris–Thorne (1988): static, spherically symmetric, flaring-out condition at the throat requires *ρ + p_r < 0* in the appropriate frame (exotic). Mouths appear as spheres, not holes in a floor. A traversable throat is a metric you write down, not a tunnel you have dug.
 
@@ -3200,13 +3212,13 @@ ER bridge: Kruskal throat, non-traversable, pinches in finite proper time (A22).
 
 **(17)**  NEC: *T_μν k^μ k^ν ≥ 0* for all null *k*. Traversable throats need NEC violation near the throat. Ford–Roman inequalities bound the magnitude × duration of negative energy in a given volume. Macroscopic, long-lived throats are likely forbidden; not a theorem covering every QFT-on-curved-space loophole.
 
-Alcubierre (1994): a shift vector that contracts the loaf ahead and expands it behind; the cabin can have small tidal forces; the ship’s *local* four-velocity stays timelike and subluminal. Effective superluminal *arrival* vs a long-way light signal is a global, not a local, fact. The bubble wall requires *T_μν* that violates the WEC/NEC (exotic). Energy estimates have been reduced by wall-shaping (van den Broeck; Natário; later “warp shells”); they remain enormous and still exotic. The forward wall is typically outside the cabin’s causal past — you do not control or ignite the geometry from inside without pre-arranging the path (or a receiver). Krasnikov tube: modify *g_μν* along an outbound worldline so the return is short; still exotic, still paving. Superluminal effective travel in GR can be arranged to yield CTCs; chronology protection (A35) is the same unpaid insurance as for wormhole mouths. No laboratory metric-engineering. “Warp” laboratory claims to date are not an Alcubierre drive.
+Alcubierre (1994): a shift vector that contracts the loaf ahead and expands it behind; the cabin can have small tidal forces; the ship’s *local* four-velocity stays timelike and subluminal. Effective superluminal *arrival* vs a long-way light signal is a global, not a local, fact. The bubble wall requires *T_μν* that violates the WEC/NEC (exotic). Energy estimates have been reduced by wall-shaping (van den Broeck; Natário; later “warp shells”); they remain enormous and still exotic. The forward wall is typically outside the cabin’s causal past — you do not control or ignite the geometry from inside without pre-arranging the path (or a receiver). Krasnikov tube: modify *g_μν* along an outbound worldline so the return is short; still exotic, still paving. Superluminal effective travel in GR can be arranged to yield CTCs; chronology protection (A36) is the same unpaid insurance as for wormhole mouths. No laboratory metric-engineering. “Warp” laboratory claims to date are not an Alcubierre drive.
 
 ---
 
 \newpage
 
-## A34. What Would Count as Evidence of Intervention
+## A35. What Would Count as Evidence of Intervention
 
 A message in a channel nature does not use (narrowband, prime-modulated, a sightline that is not geochemistry). A correlation in the CMB that is not a Gaussian twitch plus foregrounds. “It looks pretty” is not a test. Absence of such signatures is not a proof of absence; it is why the craftsman stays cold.
 
@@ -3216,7 +3228,7 @@ UAP residuals (public): 2004 Nimitz / Princeton — the stubborn file: Aegis rad
 
 Single-sensor IR without range cannot fix size or speed; camera rotation and parallax mimic miracles. Multi-platform leftovers still require a prior: classified terrestrial (own or adversary) is the least-new-physics fit and is already an admission of remarkable hardware if true. “I don’t know” is the correct residual for the best public cases. What would *name* the residual: range-complete multi-sensor kinematics that exceed on-board energy; physical samples with non-terrestrial isotopic/microstructural signatures; a communicative channel that can be missed.
 
-Visitor hypotheses vs this book’s physics: future-us requires CTCs or a sideways foliation (A35–A36; chronology protection warm-to-cold). Everett branches do not admit hops or signals (A40). Interstellar arrival is a Chapter 31 project, not a dogfight. Traversable “beam-in” still owes the exotic-matter bill (A33) or a local assembler (A32). Telepathy: no established extra information channel; still bounded by carriers we already have.
+Visitor hypotheses vs this book’s physics: future-us requires CTCs or a sideways foliation (A36–A37; chronology protection warm-to-cold). Everett branches do not admit hops or signals (A41). Interstellar arrival is a Chapter 32 project, not a dogfight. Traversable “beam-in” still owes the exotic-matter bill (A34) or a local assembler (A33). Telepathy: no established extra information channel; still bounded by carriers we already have.
 
 Congressional UAP sequence (public): 2017 reporting on AATIP; 2020 DoD video authentication; FY2021 intelligence authorization → 2021 ODNI preliminary assessment; 2022–24 hearings; Schumer–Rounds UAP disclosure language (thinned). Institutional motives that do not require an extraterrestrial conclusion: air-domain awareness (UAS, adversary systems), SAP/oversight ambiguity, stigma as an operational defect, reports near strategic sites. Witness claims of non-terrestrial retrieval remain claims until the hardware tests above are met.
 
@@ -3230,7 +3242,7 @@ Round-trip time *2d/c*: 8.7 yr for α Cen, *~4,000 yr* for a star on the far sid
 
 \newpage
 
-## A35. Worldlines and Self-Consistency
+## A36. Worldlines and Self-Consistency
 
 Novikov principle: the probability of events on a closed timelike curve (CTC) is consistent; paradoxical histories have measure zero. This is a consistency condition on the block, not a dynamics that “prevents” edits. There are no edits. If a CTC exists, the solution of the field equations plus matter is already a loop. You do not climb into it and change Tuesday. You discover that Tuesday was always the loop.
 
@@ -3240,61 +3252,61 @@ Novikov principle: the probability of events on a closed timelike curve (CTC) is
 
 Gödel (1949): a rotating dust universe with *Λ < 0* (or an equivalent tension) and vorticity *ω* tied to the density so that *4πGρ = ω²* in the original normalization. Every event lies on CTCs. Angular velocity of the matter is not a small Lense–Thirring twist; it is the geometry. Our universe is not Gödel’s. Planck-scale vorticity limits and the leftover glow’s isotropy (*10⁻⁵*) do not permit a Gödel rotation at cosmological scale. The metric is an existence proof in GR, not a map.
 
-Kerr: CTCs appear inside the inner (Cauchy) horizon in the analytic extension, in the *r < 0* region through the ring. The inner horizon is unstable (Poisson–Israel mass inflation): infalling radiation blueshifts and the idealized extension does not survive. Traversable wormhole plus time-shifted mouths (Morris–Thorne plus a twin-paradox boost of one mouth): after a finite operation the mouths become a CTC. Alcubierre and Krasnikov shortcuts can be arranged to the same end (A33). None of these are observational geometries. None are a visitor hypothesis that this book will cash (A34).
+Kerr: CTCs appear inside the inner (Cauchy) horizon in the analytic extension, in the *r < 0* region through the ring. The inner horizon is unstable (Poisson–Israel mass inflation): infalling radiation blueshifts and the idealized extension does not survive. Traversable wormhole plus time-shifted mouths (Morris–Thorne plus a twin-paradox boost of one mouth): after a finite operation the mouths become a CTC. Alcubierre and Krasnikov shortcuts can be arranged to the same end (A34). None of these are observational geometries. None are a visitor hypothesis that this book will cash (A35).
 
 ---
 
 *Chronology Protection and Cauchy Horizons*
 
-Hawking 1992 (*Phys. Rev. D* **46**, 603): as a chronology horizon forms — the first closed null curve, the Cauchy horizon that would become a CTC factory — vacuum stress-energy of quantum fields diverges. The back-reaction is expected to destroy the would-be time machine. That is a conjecture, not a theorem. It has been checked in 2D models and in some 4D examples; loopholes (cut-and-paste, compact extra dimensions, trans-Planckian excuses) get papers. A Cauchy horizon is already a loss of global predictability: the future of the surface is not determined by data on it. Chronology protection, if true, keeps the popular “edit” dead and the “consistent loop” unbuilt. If false, the block can contain loops and still contain no edits. Either way, Tuesday is not a hallway (A36).
+Hawking 1992 (*Phys. Rev. D* **46**, 603): as a chronology horizon forms — the first closed null curve, the Cauchy horizon that would become a CTC factory — vacuum stress-energy of quantum fields diverges. The back-reaction is expected to destroy the would-be time machine. That is a conjecture, not a theorem. It has been checked in 2D models and in some 4D examples; loopholes (cut-and-paste, compact extra dimensions, trans-Planckian excuses) get papers. A Cauchy horizon is already a loss of global predictability: the future of the surface is not determined by data on it. Chronology protection, if true, keeps the popular “edit” dead and the “consistent loop” unbuilt. If false, the block can contain loops and still contain no edits. Either way, Tuesday is not a hallway (A37).
 
 ---
 
 \newpage
 
-## A36. Foliations: Why a Stack Is Not a Hallway
+## A37. Foliations: Why a Stack Is Not a Hallway
 
 A foliation is a stack of 3-surfaces: a time function *t* whose level sets are the leaves. CMC slices, Gaussian-normal slices, cosmic-time slices in FLRW — different jobs, different stacks. A foliation is bookkeeping. It is not a dimension you can walk with a rocket. Proper time is along a worldline, tangent to the 4-velocity, not along the normal from leaf to leaf as if the normal were a corridor.
 
-“Walking the time direction” is a category error unless new structure is added: a fifth direction, a CTC (A35), a traversable handle (A33), or a second copy of the manifold. Each of those additions brings instabilities or exotic stress-energy or both. Gödel’s CTCs are not a walk *across* the leaves of a cosmic time; they are worldlines that are already closed, *inside* the manifold. Hawking 1992’s chronology horizon is what you meet if you try to *build* a closed worldline from a previously causal stack. FLRW cosmic time *t* is a convenient foliation because the slices are homogeneous; it is still not a hallway, and a rocket that “goes back to recombination” is a rocket that aims at our past light cone, not at a previous leaf. The popular picture of pages in a book that you flip at will is a picture of a foliation plus a privilege this book does not grant (A4, A6). You may choose a stack to write *H(z)*. You may not treat the stack as a transit system.
+“Walking the time direction” is a category error unless new structure is added: a fifth direction, a CTC (A36), a traversable handle (A34), or a second copy of the manifold. Each of those additions brings instabilities or exotic stress-energy or both. Gödel’s CTCs are not a walk *across* the leaves of a cosmic time; they are worldlines that are already closed, *inside* the manifold. Hawking 1992’s chronology horizon is what you meet if you try to *build* a closed worldline from a previously causal stack. FLRW cosmic time *t* is a convenient foliation because the slices are homogeneous; it is still not a hallway, and a rocket that “goes back to recombination” is a rocket that aims at our past light cone, not at a previous leaf. The popular picture of pages in a book that you flip at will is a picture of a foliation plus a privilege this book does not grant (A4, A6). You may choose a stack to write *H(z)*. You may not treat the stack as a transit system.
 
 ---
 
 \newpage
 
-## A37. Four Claims That Must Not Be Fused
+## A38. Four Claims That Must Not Be Fused
 
 Tegmark’s levels, as a filing cabinet this book will use and then distrust:
 
-**Level I:** more FLRW volume than our particle horizon — more of the same laws, same *a(t)*, beyond *χ_p* (A26, A38). **Level II:** other post-inflation vacua, other low-energy constants, pocket universes (A15, A39). **Level III:** Everett branches of a universal wavefunction (A40). **Level IV:** other mathematical structures as equally real worlds.
+**Level I:** more FLRW volume than our particle horizon — more of the same laws, same *a(t)*, beyond *χ_p* (A26, A39). **Level II:** other post-inflation vacua, other low-energy constants, pocket universes (A15, A40). **Level III:** Everett branches of a universal wavefunction (A41). **Level IV:** other mathematical structures as equally real worlds.
 
-I and II are cosmological hypotheses. They can, in principle, leave fossils (a bubble wall in the leftover glow; a curvature or *Λ* we can bound). They have not. A bubble collision would be a disk-like temperature or polarization feature with a specific profile; Planck searches have not named one that survived foregrounds. III is an interpretation of quantum mechanics. It does not add new constants and it does not let you hop (A40). Calling III “a parallel universe you could visit” is a Level I sentence in the wrong filing cabinet. IV is metaphysics: if every consistent math is a world, no measurement selects. Dark matter and dark energy are not levels. They are ingredients in *this* FLRW inventory (A17–A18). Fusing “the extra pull” with “a branch” or “a landscape vacuum” is a category error that makes every noun unfalsifiable at once. Give the levels separate temperatures, or do not use the cabinet.
+I and II are cosmological hypotheses. They can, in principle, leave fossils (a bubble wall in the leftover glow; a curvature or *Λ* we can bound). They have not. A bubble collision would be a disk-like temperature or polarization feature with a specific profile; Planck searches have not named one that survived foregrounds. III is an interpretation of quantum mechanics. It does not add new constants and it does not let you hop (A41). Calling III “a parallel universe you could visit” is a Level I sentence in the wrong filing cabinet. IV is metaphysics: if every consistent math is a world, no measurement selects. Dark matter and dark energy are not levels. They are ingredients in *this* FLRW inventory (A17–A18). Fusing “the extra pull” with “a branch” or “a landscape vacuum” is a category error that makes every noun unfalsifiable at once. Give the levels separate temperatures, or do not use the cabinet.
 
 ---
 
 \newpage
 
-## A38. Infinite FLRW and Repeated Hubble Volumes
+## A39. Infinite FLRW and Repeated Hubble Volumes
 
 If the spatial slice is infinite and conditions are ergodic — the same statistical ensemble of Hubble-volume states realized over infinite 3-volume — then a finite Hubble-volume configuration recurs. A Hubble volume has a finite number of modes below a cutoff. Holographic finite-state counting (area of the de Sitter horizon; A23) makes “finite” precise: *~exp(10¹²²)* states is still finite. Recurrence of a volume as detailed as “you, reading this sentence” is then a Level I expectation at distances so large they are not a travel plan.
 
-Whether the slice *is* infinite is unproven. *Ω_k* consistent with 0 does not prove infinite extent: a 3-torus can be flat and finite; a closed 3-sphere can have radius far larger than *c/H₀* and look flat. Planck-like *|Ω_k| ≲ 0.01* still allows a 3-sphere with radius tens of Hubble lengths. Topology searches in the leftover glow (matched circles; Cornish–Spergel–Starkman) have not found a small universe; the fundamental domain, if finite, is at least of order the diameter of the last-scattering surface (*~20–30 Gpc* comoving). That is a lower bound, not an infinity. Ergodicity can fail: inflation can leave residual gradients; a landscape (A39) can make distant volumes *not* the same ensemble. Level I is a maybe that follows from infinity plus sameness. Both premises are unproved. Recurrence, if it happens, is not a destination and not a copy you can greet (A26, A31).
+Whether the slice *is* infinite is unproven. *Ω_k* consistent with 0 does not prove infinite extent: a 3-torus can be flat and finite; a closed 3-sphere can have radius far larger than *c/H₀* and look flat. Planck-like *|Ω_k| ≲ 0.01* still allows a 3-sphere with radius tens of Hubble lengths. Topology searches in the leftover glow (matched circles; Cornish–Spergel–Starkman) have not found a small universe; the fundamental domain, if finite, is at least of order the diameter of the last-scattering surface (*~20–30 Gpc* comoving). That is a lower bound, not an infinity. Ergodicity can fail: inflation can leave residual gradients; a landscape (A40) can make distant volumes *not* the same ensemble. Level I is a maybe that follows from infinity plus sameness. Both premises are unproved. Recurrence, if it happens, is not a destination and not a copy you can greet (A26, A32).
 
 ---
 
 \newpage
 
-## A39. Landscapes, Measures, and Untestable Frameworks
+## A40. Landscapes, Measures, and Untestable Frameworks
 
 String compactifications are often said to yield *~10⁵⁰⁰* vacua (and larger numbers in later counts). **This is not a tested census.** It is a report about the size of a construction in a framework that **cannot currently be tested** (18). A framework that can accommodate any low-energy constants after the fact is not, so far, falsifiable. Extra dimensions and a “landscape” of possible laws inherit that status. They may be mentioned because popular physics mentions them. They are not results.
 
-Eternal inflation’s measure problem (A15) blocks quantitative “prediction” of *Λ* beyond order-of-magnitude anthropic cuts (A41). Even if you grant the landscape as a menu, you do not have a way to take attendance. Volume weighting, pocket weighting, and observer weighting disagree; some produce Boltzmann-brain domination that no one treats as a success. Other frameworks offer other menus, or one valley. The leftover glow has not chosen. Compactification moduli, if they exist, have not been seen as light scalars in the Solar System or as extra damping in the CMB. Until a unique, risky, framework-level prediction exists — a number that would kill the *whole* construction, not one vacuum — this book will not pay rent with a catalog. Row (18) is the standing rule, not a formula and not a footnote.
+Eternal inflation’s measure problem (A15) blocks quantitative “prediction” of *Λ* beyond order-of-magnitude anthropic cuts (A42). Even if you grant the landscape as a menu, you do not have a way to take attendance. Volume weighting, pocket weighting, and observer weighting disagree; some produce Boltzmann-brain domination that no one treats as a success. Other frameworks offer other menus, or one valley. The leftover glow has not chosen. Compactification moduli, if they exist, have not been seen as light scalars in the Solar System or as extra damping in the CMB. Until a unique, risky, framework-level prediction exists — a number that would kill the *whole* construction, not one vacuum — this book will not pay rent with a catalog. Row (18) is the standing rule, not a formula and not a footnote.
 
 ---
 
 \newpage
 
-## A40. Decoherence and Why Branches Are Not Destinations
+## A41. Decoherence and Why Branches Are Not Destinations
 
 Decoherence: entanglement with an environment suppresses interference between pointer states on a calculable timescale; no mind is required. A dust grain at room temperature decoheres its center-of-mass superposition in *~10⁻¹³ s* or faster once photons and air molecules correlate with position. “Observer,” operationally: any degree of freedom that holds an effectively irreversible record (pointer–environment correlation). Conscious observers are a late subset: a *strange loop* / tangled hierarchy (self-referential symbol system; meaning as inter-level isomorphism). Colony-as-mind vs worker-as-neuron is the eusocial sketch. Incompleteness has two morals in this book: (a) as a wedge that minds are not algorithms; (b) as the mechanism by which a formal system talks about itself and an “I” appears. Neither moral is a thermal-history-grade fact. A duplicate loop is a second person, not travel.
 
@@ -3306,11 +3318,11 @@ Everett: the global state remains a superposition; each decohered term includes 
 
 \newpage
 
-## A41. Dimensionless Coincidences and Weinberg’s Λ Bound
+## A42. Dimensionless Coincidences and Weinberg’s Λ Bound
 
 Fine-structure *α ≈ 1/137.036*; proton-to-electron mass *m_p/m_e ≈ 1836*; the primordial amplitude *δ_Q ~ 10⁻⁵* (*A_s* in A14); *ρ_Λ / ρ_Planck ~ 10⁻¹²³*. Many “coincidences” are selection-biased: you notice the numbers that look tuned and ignore the ones that do not. Some are genuine sensitivity: if *α* or the light-quark masses move by tens of percent, nuclear binding and chemistry change. How much they *may* move is a model of an ensemble you do not possess.
 
-Weinberg’s galaxy-formation bound (1987) is the cleanest anthropic *number*: *ρ_Λ* cannot sit much more than an order of magnitude or two above the matter density at the epoch when the first galaxies collapse, or linear growth freezes too soon. Observed *ρ_Λ* is within that window. It still needs an ensemble to be an explanation rather than a consistency check. WAP (below) is that check, done honestly. SAP and FAP (A42) are the check, promoted to a purpose.
+Weinberg’s galaxy-formation bound (1987) is the cleanest anthropic *number*: *ρ_Λ* cannot sit much more than an order of magnitude or two above the matter density at the epoch when the first galaxies collapse, or linear growth freezes too soon. Observed *ρ_Λ* is within that window. It still needs an ensemble to be an explanation rather than a consistency check. WAP (below) is that check, done honestly. SAP and FAP (A43) are the check, promoted to a purpose.
 
 ---
 
@@ -3322,7 +3334,7 @@ WAP (Carter; Barrow–Tipler’s wording): observed constants are restricted by 
 
 \newpage
 
-## A42. Why Strong and Final Anthropic Claims Fail
+## A43. Why Strong and Final Anthropic Claims Fail
 
 SAP — “the universe *must* permit life” — is either tautological (it did, so it must have been able to), ensemble-selection (WAP with a capital letter), or teleology (a purpose in the laws). The first is empty. The second is WAP again. The third is not a physical model. This book does not hire SAP.
 
@@ -3334,7 +3346,7 @@ What remains: WAP as a cut *if* an ensemble exists (warm as a method, not as a p
 
 \newpage
 
-## A43. *w*, Vacuum Decay, and Bounce Conditions
+## A44. *w*, Vacuum Decay, and Bounce Conditions
 
 *w = p/ρ*. A cosmological constant: *w = −1* exactly, *ρ* fixed, *p = −ρ*. Acceleration of the scale factor requires *w < −1/3* for the dominant component (Raychaudhuri / second Friedmann). Phantom energy: *w < −1* with no decay of the field; *ρ* grows as the universe expands and a Big Rip can form in finite time. Planck combined with supernovae and BAO gave *w = −1.03 ± 0.03* for a constant *w*. As of October 2026, DESI and DES fits that let *w* vary prefer *w* slightly above −1 today and below −1 in the past, at about 3σ (A18; Notes, Chapter 18). That is a possible warming of “not exactly Λ.” It is not a Rip, and it is not a recollapse.
 
@@ -3346,7 +3358,7 @@ Bounce: a passage from contraction to expansion requires NEC violation (17) or a
 
 \newpage
 
-## A44. The Problem of Time in Quantum Gravity
+## A45. The Problem of Time in Quantum Gravity
 
 Wheeler–DeWitt: *Ĥ Ψ = 0* — the Hamiltonian constraint of canonical GR, imposed as an operator on a wavefunctional of 3-geometries. There is no external *t* in the equation. The Schrödinger equation *iħ ∂_t Ψ = Ĥ Ψ* is what you write when a background time already exists. Here the background *is* the thing being quantized. That is the problem of time: the fundamental equation does not contain the variable the chapters used for *H(z)*.
 
@@ -3358,7 +3370,7 @@ Hartle–Hawking no-boundary: a path integral over compact 4-geometries with no 
 
 \newpage
 
-## A45. Inventory of Claims, by Temperature
+## A46. Inventory of Claims, by Temperature
 
 **Hot:** expansion, including the Hubble–Lemaître linearization at low *z*; CMB blackbody at *T₀ = 2.72548 K* plus *ΔT/T ~ 10⁻⁵* anisotropies and acoustic peaks; BBN light elements (*Y_p*, D/H) at the order the third minute predicts; *Ω_b*, *Ω_c*, *Ω_Λ* to tens of percent; horizons of the Schwarzschild/Kerr kind (orbits, shadows, ringdowns); no universal now (Hafele–Keating; GPS; muon *γ*); accelerating expansion (Type Ia; BAO; CMB).
 
@@ -3404,7 +3416,7 @@ Rows (1)–(17) are formulas. The last row is a rule this book refuses to disgui
 
 Years and publishers are here so a shelf can be fetched. The notes cite papers in place, with the year and the venue, and that citation is the bibliography entry. This list is the next reading, not a second copy of those notes. Together they are the shelf.
 
-**Named in the text:** Albert A. Michelson and Edward W. Morley, “On the Relative Motion of the Earth and the Luminiferous Ether,” *American Journal of Science* 34 (1887): 333–345. Henri Poincaré, “La mesure du temps,” *Revue de métaphysique et de morale* 6 (1898): 1–13. Albert Einstein, “On the Electrodynamics of Moving Bodies,” *Annalen der Physik* 17 (1905): 891–921. Hermann Minkowski, “Space and Time,” lecture, Cologne, 21 September 1908, *Physikalische Zeitschrift* 10 (1909): 104–111. J. C. Hafele and Richard E. Keating, “Around-the-World Atomic Clocks,” *Science* 177 (1972): 166–170. C. W. Rietdijk, “A Rigorous Proof of Determinism Derived from the Special Theory of Relativity,” *Philosophy of Science* 33 (1966): 341–344. Hilary Putnam, “Time and Physical Geometry,” *Journal of Philosophy* 64 (1967): 240–247. Neil Ashby, “Relativity in the Global Positioning System,” *Living Reviews in Relativity* 6 (2003): 1. The Andromeda walk is in Roger Penrose, *The Emperor’s New Mind* (Oxford University Press, 1989), also on the loops shelf below. Adam G. Riess and colleagues, “Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant,” *Astronomical Journal* 116 (1998): 1009–1038. S. Perlmutter and colleagues, “Measurements of Omega and Lambda from 42 High-Redshift Supernovae,” *Astrophysical Journal* 517 (1999): 565–586. Steven Weinberg, “Anthropic Bound on the Cosmological Constant,” *Physical Review Letters* 59 (1987): 2607–2610. Planck Collaboration, “Planck 2018 results. VI. Cosmological parameters,” *Astronomy & Astrophysics* 641 (2020): A6. J. B. Hartle and S. W. Hawking, “Wave function of the Universe,” *Physical Review D* 28 (1983): 2960–2975. Alexander Vilenkin, “Creation of Universes from Nothing,” *Physics Letters B* 117 (1982): 25–28. DESI Collaboration, “DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations,” arXiv:2404.03002 (2024), where the drifting-*w* conversation began; superseded by DESI DR2 (arXiv:2503.14738, 2025) and the 2026 analyses listed in the Notes and Sources for Chapter 18 and A43.
+**Named in the text:** Albert A. Michelson and Edward W. Morley, “On the Relative Motion of the Earth and the Luminiferous Ether,” *American Journal of Science* 34 (1887): 333–345. Henri Poincaré, “La mesure du temps,” *Revue de métaphysique et de morale* 6 (1898): 1–13. Albert Einstein, “On the Electrodynamics of Moving Bodies,” *Annalen der Physik* 17 (1905): 891–921. Hermann Minkowski, “Space and Time,” lecture, Cologne, 21 September 1908, *Physikalische Zeitschrift* 10 (1909): 104–111. J. C. Hafele and Richard E. Keating, “Around-the-World Atomic Clocks,” *Science* 177 (1972): 166–170. C. W. Rietdijk, “A Rigorous Proof of Determinism Derived from the Special Theory of Relativity,” *Philosophy of Science* 33 (1966): 341–344. Hilary Putnam, “Time and Physical Geometry,” *Journal of Philosophy* 64 (1967): 240–247. Neil Ashby, “Relativity in the Global Positioning System,” *Living Reviews in Relativity* 6 (2003): 1. The Andromeda walk is in Roger Penrose, *The Emperor’s New Mind* (Oxford University Press, 1989), also on the loops shelf below. Adam G. Riess and colleagues, “Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant,” *Astronomical Journal* 116 (1998): 1009–1038. S. Perlmutter and colleagues, “Measurements of Omega and Lambda from 42 High-Redshift Supernovae,” *Astrophysical Journal* 517 (1999): 565–586. Steven Weinberg, “Anthropic Bound on the Cosmological Constant,” *Physical Review Letters* 59 (1987): 2607–2610. Planck Collaboration, “Planck 2018 results. VI. Cosmological parameters,” *Astronomy & Astrophysics* 641 (2020): A6. J. B. Hartle and S. W. Hawking, “Wave function of the Universe,” *Physical Review D* 28 (1983): 2960–2975. Alexander Vilenkin, “Creation of Universes from Nothing,” *Physics Letters B* 117 (1982): 25–28. DESI Collaboration, “DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations,” arXiv:2404.03002 (2024), where the drifting-*w* conversation began; superseded by DESI DR2 (arXiv:2503.14738, 2025) and the 2026 analyses listed in the Notes and Sources for Chapter 18 and A44.
 
 **Start here:** Steven Weinberg, *The First Three Minutes* (Basic Books, 1977; updated edition 1993). John D. Barrow, *The Origin of the Universe* (Basic Books / Science Masters, 1994). Barbara Ryden, *Introduction to Cosmology*, 2nd ed. (Cambridge University Press, 2017). Katie Mack, *The End of Everything (Astrophysically Speaking)* (Scribner, 2020).
 
@@ -3416,7 +3428,7 @@ Years and publishers are here so a shelf can be fetched. The notes cite papers i
 
 **Second origins:** Stephen Jay Gould, *Wonderful Life: The Burgess Shale and the Nature of History* (W. W. Norton, 1989). Francis Crick, “The Origin of the Genetic Code,” *Journal of Molecular Biology* 38 (1968): 367–379. A. G. Cairns-Smith, *Genetic Takeover and the Mineral Origins of Life* (Cambridge University Press, 1982).
 
-**Loops, selves, and the two incompleteness morals:** Douglas Hofstadter, *Gödel, Escher, Bach* (Basic Books, 1979) and *I Am a Strange Loop* (Basic Books, 2007) — tangled hierarchies, the nest as a mind, incompleteness as self-reference. The opposite moral, mind as not a program, is Roger Penrose, *The Emperor’s New Mind* (Oxford University Press, 1989) and *Shadows of the Mind* (Oxford University Press, 1994). This book’s own statement of both morals is Appendix A40. Hugh Everett III, “Relative State Formulation of Quantum Mechanics,” *Reviews of Modern Physics* 29 (1957): 454–462. John S. Bell, “On the Einstein Podolsky Rosen Paradox,” *Physics* 1 (1964): 195–200.
+**Loops, selves, and the two incompleteness morals:** Douglas Hofstadter, *Gödel, Escher, Bach* (Basic Books, 1979) and *I Am a Strange Loop* (Basic Books, 2007) — tangled hierarchies, the nest as a mind, incompleteness as self-reference. The opposite moral, mind as not a program, is Roger Penrose, *The Emperor’s New Mind* (Oxford University Press, 1989) and *Shadows of the Mind* (Oxford University Press, 1994). This book’s own statement of both morals is Appendix A41. Hugh Everett III, “Relative State Formulation of Quantum Mechanics,” *Reviews of Modern Physics* 29 (1957): 454–462. John S. Bell, “On the Einstein Podolsky Rosen Paradox,” *Physics* 1 (1964): 195–200.
 
 **Avoid as physics:** Tipler’s Omega Point as required law; any string text that forgets the standing rule numbered (18), which is not a formula.
 
@@ -3494,7 +3506,7 @@ Years and publishers are here so a shelf can be fetched. The notes cite papers i
 
 **Bekenstein bound.** Entropy of a region scales with area, not volume. Chapter 23 and equation (16).
 
-**Chronology protection.** Hawking’s conjecture that a would-be time machine destroys itself. Not a theorem. Appendix A35.
+**Chronology protection.** Hawking’s conjecture that a would-be time machine destroys itself. Not a theorem. Appendix A36.
 
 **NEC.** Null energy condition. Traversable throats need it violated. Equation (17).
 
@@ -3516,11 +3528,11 @@ Years and publishers are here so a shelf can be fetched. The notes cite papers i
 
 **Permit.** A world you can weigh, close enough that delay, dirt, and a date are the invoice. Chapter 25. Not a downtown, and not a handle.
 
-**Look first.** Taste the plume, or melt the hole, before you open the library. Seed later. Chapter 32.
+**Look first.** Taste the plume, or melt the hole, before you open the library. Seed later. Chapter 33.
 
-**Pattern engine.** A machine that completes a phrase, folds a protein, or aims a tool. Not, by that talent, a century-stable crew. Chapter 31.
+**Pattern engine.** A machine that completes a phrase, folds a protein, or aims a tool. Not, by that talent, a century-stable crew. Chapter 32.
 
-**Azotosome.** A proposed membrane for a cold methane lake. The case that those skins would hold has gone against them. Cold. Chapter 30.
+**Azotosome.** A proposed membrane for a cold methane lake. The case that those skins would hold has gone against them. Cold. Chapter 31.
 
 **Technosignature.** A leak a civilization did not mean as a letter: waste heat, a gas out of balance, a radio we already know how to make. Not a hello.
 
@@ -3532,7 +3544,7 @@ Years and publishers are here so a shelf can be fetched. The notes cite papers i
 
 **Biosignature.** A disequilibrium that wants a story: two gases that should have eaten each other and have not. “It looks green” is not one.
 
-**Panspermia.** A seed that traveled, sloppy or on purpose. Our exact dictionary under someone else’s ice would be this, or contamination. Chapter 32.
+**Panspermia.** A seed that traveled, sloppy or on purpose. Our exact dictionary under someone else’s ice would be this, or contamination. Chapter 33.
 
 **Frozen accident.** Crick’s name for a working code that later edits would break all at once, because every protein in the house depends on the dictionary.
 
@@ -3586,7 +3598,7 @@ Notes are numbered in reading order. Each number in the text links here, and eac
 
 [^20]: Delft, 2015: electron spins 1.3 km apart, detection and locality loopholes closed together. The 2022 Nobel Prize went to Aspect, Clauser, and Zeilinger for this line of work. [B. Hensen et al., “Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres,” Nature 526, 682–686 (2015)](https://doi.org/10.1038/nature15759).
 
-[^21]: Planck 2018 base ΛCDM: age 13.787 ± 0.020 Gyr, H₀ = 67.4 ± 0.5 km/s/Mpc, n_s = 0.965 ± 0.004. [Planck Collaboration, “Planck 2018 results. VI. Cosmological parameters,” Astronomy & Astrophysics 641, A6 (2020)](https://doi.org/10.1051/0004-6361/201833910).
+[^21]: Planck 2018 base ΛCDM: age 13.787 ± 0.020 Gyr, H₀ = 67.4 ± 0.5 km/s/Mpc, nₛ = 0.965 ± 0.004. [Planck Collaboration, “Planck 2018 results. VI. Cosmological parameters,” Astronomy & Astrophysics 641, A6 (2020)](https://doi.org/10.1051/0004-6361/201833910).
 
 [^22]: Twenty-four nebulae with distances; the slope was about 500 km/s/Mpc, too high because of calibration errors later corrected. [Edwin Hubble, “A relation between distance and radial velocity among extra-galactic nebulae,” PNAS 15, 168–173 (1929)](https://doi.org/10.1073/pnas.15.3.168).
 
@@ -3602,129 +3614,133 @@ Notes are numbered in reading order. Each number in the text links here, and eac
 
 [^28]: T = 2.72548 ± 0.00057 K. [D. J. Fixsen, “The Temperature of the Cosmic Microwave Background,” Astrophysical Journal 707, 916–920 (2009)](https://doi.org/10.1088/0004-637X/707/2/916).
 
-[^29]: Big-bang nucleosynthesis review: helium-4 mass fraction about 0.245, deuterium about 2.5 × 10⁻⁵ of hydrogen. [Particle Data Group, “Big-Bang Nucleosynthesis,” Review of Particle Physics (2025)](https://pdg.lbl.gov/2025/reviews/rpp2025-rev-bbang-nucleosynthesis.pdf).
+[^29]: The “αβγ” paper, dated 1 April 1948. [R. A. Alpher, H. Bethe, and G. Gamow, “The Origin of Chemical Elements,” Physical Review 73, 803–804 (1948)](https://doi.org/10.1103/PhysRev.73.803).
 
-[^30]: The anthropic bound on Λ, published eleven years before the supernova discovery. [Steven Weinberg, “Anthropic Bound on the Cosmological Constant,” Physical Review Letters 59, 2607–2610 (1987)](https://doi.org/10.1103/PhysRevLett.59.2607).
+[^30]: Big-bang nucleosynthesis review: helium-4 mass fraction about 0.245, deuterium about 2.5 × 10⁻⁵ of hydrogen. [Particle Data Group, “Big-Bang Nucleosynthesis,” Review of Particle Physics (2025)](https://pdg.lbl.gov/2025/reviews/rpp2025-rev-bbang-nucleosynthesis.pdf).
 
-[^31]: Guth’s original inflation paper. Tensor-to-scalar ratio r < 0.036 (BICEP/Keck 2021) remains the headline B-mode limit. [Alan H. Guth, “Inflationary universe: A possible solution to the horizon and flatness problems,” Physical Review D 23, 347–356 (1981)](https://doi.org/10.1103/PhysRevD.23.347).
+[^31]: The anthropic bound on Λ, published eleven years before the supernova discovery. [Steven Weinberg, “Anthropic Bound on the Cosmological Constant,” Physical Review Letters 59, 2607–2610 (1987)](https://doi.org/10.1103/PhysRevLett.59.2607).
 
-[^32]: A search of WMAP data for bubble-collision signatures; no significant detection. [S. M. Feeney, M. C. Johnson, D. J. Mortlock, and H. V. Peiris, “First Observational Tests of Eternal Inflation,” Physical Review Letters 107, 071301 (2011)](https://doi.org/10.1103/PhysRevLett.107.071301).
+[^32]: Guth’s original inflation paper. Tensor-to-scalar ratio r < 0.036 (BICEP/Keck 2021) remains the headline B-mode limit. [Alan H. Guth, “Inflationary universe: A possible solution to the horizon and flatness problems,” Physical Review D 23, 347–356 (1981)](https://doi.org/10.1103/PhysRevD.23.347).
 
-[^33]: LZ, 4.2 tonne-year exposure, no WIMP signal. Status as of October 2026. [LZ Collaboration, “Dark Matter Search Results from 4.2 Tonne-Years of Exposure of the LUX-ZEPLIN (LZ) Experiment,” Physical Review Letters 135, 011802 (2025)](https://doi.org/10.1103/4dyc-z8zf).
+[^33]: A search of WMAP data for bubble-collision signatures; no significant detection. [S. M. Feeney, M. C. Johnson, D. J. Mortlock, and H. V. Peiris, “First Observational Tests of Eternal Inflation,” Physical Review Letters 107, 071301 (2011)](https://doi.org/10.1103/PhysRevLett.107.071301).
 
-[^34]: XENONnT, 3.1 tonne-year exposure, no WIMP signal. [XENON Collaboration, “WIMP Dark Matter Search using a 3.1 Tonne-Year Exposure of the XENONnT Experiment” (2025), arXiv:2502.18005](https://arxiv.org/abs/2502.18005).
+[^34]: LZ, 4.2 tonne-year exposure, no WIMP signal. Status as of October 2026. [LZ Collaboration, “Dark Matter Search Results from 4.2 Tonne-Years of Exposure of the LUX-ZEPLIN (LZ) Experiment,” Physical Review Letters 135, 011802 (2025)](https://doi.org/10.1103/4dyc-z8zf).
 
-[^35]: Flat rotation in Andromeda’s outer regions. [V. C. Rubin and W. K. Ford Jr., “Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions,” Astrophysical Journal 159, 379 (1970)](https://doi.org/10.1086/150317).
+[^35]: XENONnT, 3.1 tonne-year exposure, no WIMP signal. [XENON Collaboration, “WIMP Dark Matter Search using a 3.1 Tonne-Year Exposure of the XENONnT Experiment” (2025), arXiv:2502.18005](https://arxiv.org/abs/2502.18005).
 
-[^36]: The Bullet Cluster: lensing mass offset from the hot gas. [D. Clowe et al., “A Direct Empirical Proof of the Existence of Dark Matter,” Astrophysical Journal Letters 648, L109–L113 (2006)](https://doi.org/10.1086/508162).
+[^36]: Flat rotation in Andromeda’s outer regions. [V. C. Rubin and W. K. Ford Jr., “Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions,” Astrophysical Journal 159, 379 (1970)](https://doi.org/10.1086/150317).
 
-[^37]: The September 2026 extended-energy-window analysis reported an excess at about 2.6σ global significance. Status as of October 2026. [LZ Collaboration, “Search for dark matter particle interactions in an extended nuclear recoil energy window” (2026), arXiv:2609.02823](https://arxiv.org/abs/2609.02823).
+[^37]: The Bullet Cluster: lensing mass offset from the hot gas. [D. Clowe et al., “A Direct Empirical Proof of the Existence of Dark Matter,” Astrophysical Journal Letters 648, L109–L113 (2006)](https://doi.org/10.1086/508162).
 
-[^38]: High-z Supernova Search Team; with the paper cited next, the 2011 Nobel Prize (Perlmutter, Schmidt, Riess). [A. G. Riess et al., “Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant,” Astronomical Journal 116, 1009–1038 (1998)](https://doi.org/10.1086/300499).
+[^38]: The September 2026 extended-energy-window analysis reported an excess at about 2.6σ global significance. Status as of October 2026. [LZ Collaboration, “Search for dark matter particle interactions in an extended nuclear recoil energy window” (2026), arXiv:2609.02823](https://arxiv.org/abs/2609.02823).
 
-[^39]: Supernova Cosmology Project. [S. Perlmutter et al., “Measurements of Ω and Λ from 42 High-Redshift Supernovae,” Astrophysical Journal 517, 565–586 (1999)](https://doi.org/10.1086/307221).
+[^39]: High-z Supernova Search Team; with the paper cited next, the 2011 Nobel Prize (Perlmutter, Schmidt, Riess). [A. G. Riess et al., “Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant,” Astronomical Journal 116, 1009–1038 (1998)](https://doi.org/10.1086/300499).
 
-[^40]: DESI DR2 Lyman-alpha forest analysis, July 2026. Status as of October 2026. [DESI Collaboration, “DESI DR2 Results IV: Alcock-Paczyński Measurements from the Lyman Alpha Forest and Cosmological Constraints” (2026), arXiv:2607.27410](https://arxiv.org/abs/2607.27410).
+[^40]: Supernova Cosmology Project. [S. Perlmutter et al., “Measurements of Ω and Λ from 42 High-Redshift Supernovae,” Astrophysical Journal 517, 565–586 (1999)](https://doi.org/10.1086/307221).
 
-[^41]: Dark Energy Survey six-year multi-probe dynamical-dark-energy constraints. Status as of October 2026. [DES Collaboration, “Constraints on Dynamical Dark Energy from Multiple Probes in the Full Dark Energy Survey” (2026), arXiv:2605.27221](https://arxiv.org/abs/2605.27221).
+[^41]: DESI DR2 Lyman-alpha forest analysis, July 2026. Status as of October 2026. [DESI Collaboration, “DESI DR2 Results IV: Alcock-Paczyński Measurements from the Lyman Alpha Forest and Cosmological Constraints” (2026), arXiv:2607.27410](https://arxiv.org/abs/2607.27410).
 
-[^42]: A Bayesian-evidence reanalysis finding the preference for evolving dark energy not decisive. [D. D. Y. Ong, D. Yallup, and W. Handley, “A Bayesian Perspective on Evidence for Evolving Dark Energy” (2025), arXiv:2511.10631](https://arxiv.org/abs/2511.10631).
+[^42]: Dark Energy Survey six-year multi-probe dynamical-dark-energy constraints. Status as of October 2026. [DES Collaboration, “Constraints on Dynamical Dark Energy from Multiple Probes in the Full Dark Energy Survey” (2026), arXiv:2605.27221](https://arxiv.org/abs/2605.27221).
 
-[^43]: M87*: mass about 6.5 billion Suns, ring diameter about 42 microarcseconds. [Event Horizon Telescope Collaboration, “First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole,” Astrophysical Journal Letters 875, L1 (2019)](https://doi.org/10.3847/2041-8213/ab0ec7).
+[^43]: A Bayesian-evidence reanalysis finding the preference for evolving dark energy not decisive. [D. D. Y. Ong, D. Yallup, and W. Handley, “A Bayesian Perspective on Evidence for Evolving Dark Energy” (2025), arXiv:2511.10631](https://arxiv.org/abs/2511.10631).
 
-[^44]: Sgr A*: about 4 million Suns; variability on minute timescales. [Event Horizon Telescope Collaboration, “First Sagittarius A* Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole in the Center of the Milky Way,” Astrophysical Journal Letters 930, L12 (2022)](https://doi.org/10.3847/2041-8213/ac6674).
+[^44]: M87*: mass about 6.5 billion Suns, ring diameter about 42 microarcseconds. [Event Horizon Telescope Collaboration, “First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole,” Astrophysical Journal Letters 875, L1 (2019)](https://doi.org/10.3847/2041-8213/ab0ec7).
 
-[^45]: GW150914, detected 14 September 2015. [LIGO Scientific and Virgo Collaborations, “Observation of Gravitational Waves from a Binary Black Hole Merger,” Physical Review Letters 116, 061102 (2016)](https://doi.org/10.1103/PhysRevLett.116.061102).
+[^45]: Sgr A*: about 4 million Suns; variability on minute timescales. [Event Horizon Telescope Collaboration, “First Sagittarius A* Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole in the Center of the Milky Way,” Astrophysical Journal Letters 930, L12 (2022)](https://doi.org/10.3847/2041-8213/ac6674).
 
-[^46]: Black-hole entropy proportional to horizon area. [J. D. Bekenstein, “Black Holes and Entropy,” Physical Review D 7, 2333–2346 (1973)](https://doi.org/10.1103/PhysRevD.7.2333).
+[^46]: GW150914, detected 14 September 2015. [LIGO Scientific and Virgo Collaborations, “Observation of Gravitational Waves from a Binary Black Hole Merger,” Physical Review Letters 116, 061102 (2016)](https://doi.org/10.1103/PhysRevLett.116.061102).
 
-[^47]: Hawking temperature T = ħc³/(8πGMk_B), about 6 × 10⁻⁸ K for one solar mass, against 2.725 K for the cosmic background. [S. W. Hawking, “Particle creation by black holes,” Communications in Mathematical Physics 43, 199–220 (1975)](https://doi.org/10.1007/BF02345020).
+[^47]: Black-hole entropy proportional to horizon area. [J. D. Bekenstein, “Black Holes and Entropy,” Physical Review D 7, 2333–2346 (1973)](https://doi.org/10.1103/PhysRevD.7.2333).
 
-[^48]: Recession faster than light, horizons, and the Hubble sphere, explained carefully. [T. M. Davis and C. H. Lineweaver, “Expanding Confusion: common misconceptions of cosmological horizons and the superluminal expansion of the Universe,” Publications of the Astronomical Society of Australia 21, 97–109 (2004); arXiv:astro-ph/0310808](https://arxiv.org/abs/astro-ph/0310808).
+[^48]: Hawking temperature T = ħc³/(8πGMk), with k the Boltzmann constant, about 6 × 10⁻⁸ K for one solar mass, against 2.725 K for the cosmic background. [S. W. Hawking, “Particle creation by black holes,” Communications in Mathematical Physics 43, 199–220 (1975)](https://doi.org/10.1007/BF02345020).
 
-[^49]: 51 Pegasi b; the 2019 Nobel Prize. [M. Mayor and D. Queloz, “A Jupiter-mass companion to a solar-type star,” Nature 378, 355–359 (1995)](https://doi.org/10.1038/378355a0).
+[^49]: Recession faster than light, horizons, and the Hubble sphere, explained carefully. [T. M. Davis and C. H. Lineweaver, “Expanding Confusion: common misconceptions of cosmological horizons and the superluminal expansion of the Universe,” Publications of the Astronomical Society of Australia 21, 97–109 (2004); arXiv:astro-ph/0310808](https://arxiv.org/abs/astro-ph/0310808).
 
-[^50]: The “bridge” later called a wormhole. [A. Einstein and N. Rosen, “The Particle Problem in the General Theory of Relativity,” Physical Review 48, 73–77 (1935)](https://doi.org/10.1103/PhysRev.48.73).
+[^50]: 51 Pegasi b; the 2019 Nobel Prize. [M. Mayor and D. Queloz, “A Jupiter-mass companion to a solar-type star,” Nature 378, 355–359 (1995)](https://doi.org/10.1038/378355a0).
 
-[^51]: Traversable wormholes and the exotic matter they need. [M. S. Morris and K. S. Thorne, “Wormholes in spacetime and their use for interstellar travel,” American Journal of Physics 56, 395–412 (1988)](https://doi.org/10.1119/1.15620).
+[^51]: The Huygens probe landed on 14 January 2005 and measured a surface temperature of 93.65 ± 0.25 K and a pressure of 1,467 ± 1 hPa. [M. Fulchignoni et al., “In situ measurements of the physical characteristics of Titan’s environment,” Nature 438, 785–791 (2005)](https://doi.org/10.1038/nature04314).
 
-[^52]: The warp metric; it requires negative energy density. [Miguel Alcubierre, “The warp drive: hyper-fast travel within general relativity,” Classical and Quantum Gravity 11, L73–L77 (1994)](https://doi.org/10.1088/0264-9381/11/5/001).
+[^52]: The “bridge” later called a wormhole. [A. Einstein and N. Rosen, “The Particle Problem in the General Theory of Relativity,” Physical Review 48, 73–77 (1935)](https://doi.org/10.1103/PhysRev.48.73).
 
-[^53]: Self-consistent billiard-ball trajectories through a wormhole time machine. [J. Friedman et al., “Cauchy problem in spacetimes with closed timelike curves,” Physical Review D 42, 1915–1930 (1990)](https://doi.org/10.1103/PhysRevD.42.1915).
+[^53]: Traversable wormholes and the exotic matter they need. [M. S. Morris and K. S. Thorne, “Wormholes in spacetime and their use for interstellar travel,” American Journal of Physics 56, 395–412 (1988)](https://doi.org/10.1119/1.15620).
 
-[^54]: Gödel’s rotating universe with closed timelike curves. [Kurt Gödel, “An Example of a New Type of Cosmological Solutions of Einstein’s Field Equations of Gravitation,” Reviews of Modern Physics 21, 447–450 (1949)](https://doi.org/10.1103/RevModPhys.21.447).
+[^54]: The warp metric; it requires negative energy density. [Miguel Alcubierre, “The warp drive: hyper-fast travel within general relativity,” Classical and Quantum Gravity 11, L73–L77 (1994)](https://doi.org/10.1088/0264-9381/11/5/001).
 
-[^55]: Mass inflation at the inner horizon. [E. Poisson and W. Israel, “Internal structure of black holes,” Physical Review D 41, 1796–1809 (1990)](https://doi.org/10.1103/PhysRevD.41.1796).
+[^55]: Self-consistent billiard-ball trajectories through a wormhole time machine. [J. Friedman et al., “Cauchy problem in spacetimes with closed timelike curves,” Physical Review D 42, 1915–1930 (1990)](https://doi.org/10.1103/PhysRevD.42.1915).
 
-[^56]: Turning a wormhole into a time machine. [M. S. Morris, K. S. Thorne, and U. Yurtsever, “Wormholes, Time Machines, and the Weak Energy Condition,” Physical Review Letters 61, 1446–1449 (1988)](https://doi.org/10.1103/PhysRevLett.61.1446).
+[^56]: Gödel’s rotating universe with closed timelike curves. [Kurt Gödel, “An Example of a New Type of Cosmological Solutions of Einstein’s Field Equations of Gravitation,” Reviews of Modern Physics 21, 447–450 (1949)](https://doi.org/10.1103/RevModPhys.21.447).
 
-[^57]: The chronology protection conjecture; a conjecture, not a theorem. [S. W. Hawking, “Chronology protection conjecture,” Physical Review D 46, 603–611 (1992)](https://doi.org/10.1103/PhysRevD.46.603).
+[^57]: Mass inflation at the inner horizon. [E. Poisson and W. Israel, “Internal structure of black holes,” Physical Review D 41, 1796–1809 (1990)](https://doi.org/10.1103/PhysRevD.41.1796).
 
-[^58]: A careful survey of what physics does and does not allow. [Stanford Encyclopedia of Philosophy, “Time Travel and Modern Physics”](https://plato.stanford.edu/entries/time-travel-phys/).
+[^58]: Turning a wormhole into a time machine. [M. S. Morris, K. S. Thorne, and U. Yurtsever, “Wormholes, Time Machines, and the Weak Energy Condition,” Physical Review Letters 61, 1446–1449 (1988)](https://doi.org/10.1103/PhysRevLett.61.1446).
 
-[^59]: Deutsch’s quantum treatment of closed timelike curves. [David Deutsch, “Quantum mechanics near closed timelike lines,” Physical Review D 44, 3197–3217 (1991)](https://doi.org/10.1103/PhysRevD.44.3197).
+[^59]: The chronology protection conjecture; a conjecture, not a theorem. [S. W. Hawking, “Chronology protection conjecture,” Physical Review D 46, 603–611 (1992)](https://doi.org/10.1103/PhysRevD.46.603).
 
-[^60]: Searches for matched circles in WMAP data found none. [N. J. Cornish et al., “Constraining the Topology of the Universe,” Physical Review Letters 92, 201302 (2004)](https://doi.org/10.1103/PhysRevLett.92.201302).
+[^60]: A careful survey of what physics does and does not allow. [Stanford Encyclopedia of Philosophy, “Time Travel and Modern Physics”](https://plato.stanford.edu/entries/time-travel-phys/).
 
-[^61]: The four-level multiverse taxonomy. [Max Tegmark, “Parallel Universes” (2003), arXiv:astro-ph/0302131](https://arxiv.org/abs/astro-ph/0302131).
+[^61]: Deutsch’s quantum treatment of closed timelike curves. [David Deutsch, “Quantum mechanics near closed timelike lines,” Physical Review D 44, 3197–3217 (1991)](https://doi.org/10.1103/PhysRevD.44.3197).
 
-[^62]: Counting string vacua, the origin of “10⁵⁰⁰”-type estimates. [Michael R. Douglas, “The statistics of string/M theory vacua,” JHEP 0305, 046 (2003); arXiv:hep-th/0303194](https://arxiv.org/abs/hep-th/0303194).
+[^62]: Searches for matched circles in WMAP data found none. [N. J. Cornish et al., “Constraining the Topology of the Universe,” Physical Review Letters 92, 201302 (2004)](https://doi.org/10.1103/PhysRevLett.92.201302).
 
-[^63]: The case against relaxing testability. [George Ellis and Joe Silk, “Scientific method: Defend the integrity of physics,” Nature 516, 321–323 (2014)](https://doi.org/10.1038/516321a).
+[^63]: The four-level multiverse taxonomy. [Max Tegmark, “Parallel Universes” (2003), arXiv:astro-ph/0302131](https://arxiv.org/abs/astro-ph/0302131).
 
-[^64]: A sceptic’s case on the multiverse. [George F. R. Ellis, “Does the Multiverse Really Exist?” Scientific American 305(2), 38–43 (2011)](https://doi.org/10.1038/scientificamerican0811-38).
+[^64]: Counting string vacua, the origin of “10⁵⁰⁰”-type estimates. [Michael R. Douglas, “The statistics of string/M theory vacua,” JHEP 0305, 046 (2003); arXiv:hep-th/0303194](https://arxiv.org/abs/hep-th/0303194).
 
-[^65]: Everett’s relative-state formulation. [Hugh Everett III, “‘Relative State’ Formulation of Quantum Mechanics,” Reviews of Modern Physics 29, 454–462 (1957)](https://doi.org/10.1103/RevModPhys.29.454).
+[^65]: The case against relaxing testability. [George Ellis and Joe Silk, “Scientific method: Defend the integrity of physics,” Nature 516, 321–323 (2014)](https://doi.org/10.1038/516321a).
 
-[^66]: Decoherence and einselection. [W. H. Zurek, “Decoherence, einselection, and the quantum origins of the classical,” Reviews of Modern Physics 75, 715–775 (2003)](https://doi.org/10.1103/RevModPhys.75.715).
+[^66]: A sceptic’s case on the multiverse. [George F. R. Ellis, “Does the Multiverse Really Exist?” Scientific American 305(2), 38–43 (2011)](https://doi.org/10.1038/scientificamerican0811-38).
 
-[^67]: The Copenhagen family of views. [Stanford Encyclopedia of Philosophy, “Copenhagen Interpretation of Quantum Mechanics”](https://plato.stanford.edu/entries/qm-copenhagen/).
+[^67]: Everett’s relative-state formulation. [Hugh Everett III, “‘Relative State’ Formulation of Quantum Mechanics,” Reviews of Modern Physics 29, 454–462 (1957)](https://doi.org/10.1103/RevModPhys.29.454).
 
-[^68]: Many-worlds, including the probability problem. [Stanford Encyclopedia of Philosophy, “Many-Worlds Interpretation of Quantum Mechanics”](https://plato.stanford.edu/entries/qm-manyworlds/).
+[^68]: Decoherence and einselection. [W. H. Zurek, “Decoherence, einselection, and the quantum origins of the classical,” Reviews of Modern Physics 75, 715–775 (2003)](https://doi.org/10.1103/RevModPhys.75.715).
 
-[^69]: Bohr’s reply to Einstein, Podolsky, and Rosen. [N. Bohr, “Can Quantum-Mechanical Description of Physical Reality be Considered Complete?” Physical Review 48, 696–702 (1935)](https://doi.org/10.1103/PhysRev.48.696).
+[^69]: The Copenhagen family of views. [Stanford Encyclopedia of Philosophy, “Copenhagen Interpretation of Quantum Mechanics”](https://plato.stanford.edu/entries/qm-copenhagen/).
 
-[^70]: QBism. [C. A. Fuchs, N. D. Mermin, and R. Schack, “An introduction to QBism with an application to the locality of quantum mechanics,” American Journal of Physics 82, 749–754 (2014)](https://doi.org/10.1119/1.4874855).
+[^70]: Many-worlds, including the probability problem. [Stanford Encyclopedia of Philosophy, “Many-Worlds Interpretation of Quantum Mechanics”](https://plato.stanford.edu/entries/qm-manyworlds/).
 
-[^71]: Pilot-wave theory. [David Bohm, “A Suggested Interpretation of the Quantum Theory in Terms of ‘Hidden’ Variables. I,” Physical Review 85, 166–179 (1952)](https://doi.org/10.1103/PhysRev.85.166).
+[^71]: Bohr’s reply to Einstein, Podolsky, and Rosen. [N. Bohr, “Can Quantum-Mechanical Description of Physical Reality be Considered Complete?” Physical Review 48, 696–702 (1935)](https://doi.org/10.1103/PhysRev.48.696).
 
-[^72]: Bohmian mechanics. [Stanford Encyclopedia of Philosophy, “Bohmian Mechanics”](https://plato.stanford.edu/entries/qm-bohm/).
+[^72]: QBism. [C. A. Fuchs, N. D. Mermin, and R. Schack, “An introduction to QBism with an application to the locality of quantum mechanics,” American Journal of Physics 82, 749–754 (2014)](https://doi.org/10.1119/1.4874855).
 
-[^73]: Spontaneous-collapse dynamics (GRW). [G. C. Ghirardi, A. Rimini, and T. Weber, “Unified dynamics for microscopic and macroscopic systems,” Physical Review D 34, 470–491 (1986)](https://doi.org/10.1103/PhysRevD.34.470).
+[^73]: Pilot-wave theory. [David Bohm, “A Suggested Interpretation of the Quantum Theory in Terms of ‘Hidden’ Variables. I,” Physical Review 85, 166–179 (1952)](https://doi.org/10.1103/PhysRev.85.166).
 
-[^74]: Gravity-induced state reduction. [Roger Penrose, “On Gravity’s role in Quantum State Reduction,” General Relativity and Gravitation 28, 581–600 (1996)](https://doi.org/10.1007/BF02105068).
+[^74]: Bohmian mechanics. [Stanford Encyclopedia of Philosophy, “Bohmian Mechanics”](https://plato.stanford.edu/entries/qm-bohm/).
 
-[^75]: Collapse theories and their tests. [Stanford Encyclopedia of Philosophy, “Collapse Theories”](https://plato.stanford.edu/entries/qm-collapse/).
+[^75]: Spontaneous-collapse dynamics (GRW). [G. C. Ghirardi, A. Rimini, and T. Weber, “Unified dynamics for microscopic and macroscopic systems,” Physical Review D 34, 470–491 (1986)](https://doi.org/10.1103/PhysRevD.34.470).
 
-[^76]: Gran Sasso germanium detector; the parameter-free Diósi–Penrose model ruled out. [S. Donadi et al., “Underground test of gravity-related wave function collapse,” Nature Physics 17, 74–78 (2021; published online 2020)](https://doi.org/10.1038/s41567-020-1008-4).
+[^76]: Gravity-induced state reduction. [Roger Penrose, “On Gravity’s role in Quantum State Reduction,” General Relativity and Gravitation 28, 581–600 (1996)](https://doi.org/10.1007/BF02105068).
 
-[^77]: Consciousness-triggered collapse made precise. [David J. Chalmers and Kelvin J. McQueen, “Consciousness and the Collapse of the Wave Function” (2021), arXiv:2105.02314](https://arxiv.org/abs/2105.02314).
+[^77]: Collapse theories and their tests. [Stanford Encyclopedia of Philosophy, “Collapse Theories”](https://plato.stanford.edu/entries/qm-collapse/).
 
-[^78]: Personal identity, including fission cases. [Stanford Encyclopedia of Philosophy, “Personal Identity”](https://plato.stanford.edu/entries/identity-personal/).
+[^78]: Gran Sasso germanium detector; the parameter-free Diósi–Penrose model ruled out. [S. Donadi et al., “Underground test of gravity-related wave function collapse,” Nature Physics 17, 74–78 (2021; published online 2020)](https://doi.org/10.1038/s41567-020-1008-4).
 
-[^79]: Chalmers discusses gradual and destructive uploading and Parfit’s view (Parfit, Reasons and Persons, Oxford University Press, 1984). [David J. Chalmers, “Uploading: A Philosophical Analysis” (2014)](https://consc.net/papers/uploading.pdf).
+[^79]: Consciousness-triggered collapse made precise. [David J. Chalmers and Kelvin J. McQueen, “Consciousness and the Collapse of the Wave Function” (2021), arXiv:2105.02314](https://arxiv.org/abs/2105.02314).
 
-[^80]: Dicke’s observer-selection argument. [R. H. Dicke, “Dirac’s Cosmology and Mach’s Principle,” Nature 192, 440–441 (1961)](https://doi.org/10.1038/192440a0).
+[^80]: Personal identity, including fission cases. [Stanford Encyclopedia of Philosophy, “Personal Identity”](https://plato.stanford.edu/entries/identity-personal/).
 
-[^81]: Carter names the anthropic principle (IAU Symposium 63, Kraków, 1973). [Brandon Carter, “Large Number Coincidences and the Anthropic Principle in Cosmology,” IAU Symposium 63, 291–298 (1974)](https://doi.org/10.1017/S0074180900235638).
+[^81]: Chalmers discusses gradual and destructive uploading and Parfit’s view (Parfit, Reasons and Persons, Oxford University Press, 1984). [David J. Chalmers, “Uploading: A Philosophical Analysis” (2014)](https://consc.net/papers/uploading.pdf).
 
-[^82]: Fine-tuning arguments and replies. [Stanford Encyclopedia of Philosophy, “Fine-Tuning”](https://plato.stanford.edu/entries/fine-tuning/).
+[^82]: Dicke’s observer-selection argument. [R. H. Dicke, “Dirac’s Cosmology and Mach’s Principle,” Nature 192, 440–441 (1961)](https://doi.org/10.1038/192440a0).
 
-[^83]: Philosophy of cosmology, including the measure problem. [Stanford Encyclopedia of Philosophy, “Philosophy of Cosmology”](https://plato.stanford.edu/entries/cosmology/).
+[^83]: Carter names the anthropic principle (IAU Symposium 63, Kraków, 1973). [Brandon Carter, “Large Number Coincidences and the Anthropic Principle in Cosmology,” IAU Symposium 63, 291–298 (1974)](https://doi.org/10.1017/S0074180900235638).
 
-[^84]: Phantom energy and the Big Rip. [R. R. Caldwell, M. Kamionkowski, and N. N. Weinberg, “Phantom Energy: Dark Energy with w < −1 Causes a Cosmic Doomsday,” Physical Review Letters 91, 071301 (2003)](https://doi.org/10.1103/PhysRevLett.91.071301).
+[^84]: Fine-tuning arguments and replies. [Stanford Encyclopedia of Philosophy, “Fine-Tuning”](https://plato.stanford.edu/entries/fine-tuning/).
 
-[^85]: Electroweak vacuum lifetime estimate about 10¹⁶¹ years, with very large uncertainty. [A. Andreassen, W. Frost, and M. D. Schwartz, “Scale-invariant instantons and the complete lifetime of the Standard Model,” Physical Review D 97, 056006 (2018)](https://doi.org/10.1103/PhysRevD.97.056006).
+[^85]: Philosophy of cosmology, including the measure problem. [Stanford Encyclopedia of Philosophy, “Philosophy of Cosmology”](https://plato.stanford.edu/entries/cosmology/).
 
-[^86]: The Past Hypothesis (named by David Albert in Time and Chance, Harvard University Press, 2000). [Stanford Encyclopedia of Philosophy, “Thermodynamic Asymmetry in Time”](https://plato.stanford.edu/entries/time-thermo/).
+[^86]: Phantom energy and the Big Rip. [R. R. Caldwell, M. Kamionkowski, and N. N. Weinberg, “Phantom Energy: Dark Energy with w < −1 Causes a Cosmic Doomsday,” Physical Review Letters 91, 071301 (2003)](https://doi.org/10.1103/PhysRevLett.91.071301).
 
-[^87]: The Wheeler–DeWitt equation and the “problem of time.” [Bryce S. DeWitt, “Quantum Theory of Gravity. I. The Canonical Theory,” Physical Review 160, 1113–1148 (1967)](https://doi.org/10.1103/PhysRev.160.1113).
+[^87]: Electroweak vacuum lifetime estimate about 10¹⁶¹ years, with very large uncertainty. [A. Andreassen, W. Frost, and M. D. Schwartz, “Scale-invariant instantons and the complete lifetime of the Standard Model,” Physical Review D 97, 056006 (2018)](https://doi.org/10.1103/PhysRevD.97.056006).
 
-[^88]: Time as correlation with a clock subsystem. [D. N. Page and W. K. Wootters, “Evolution without evolution: Dynamics described by stationary observables,” Physical Review D 27, 2885–2892 (1983)](https://doi.org/10.1103/PhysRevD.27.2885).
+[^88]: The Past Hypothesis (named by David Albert in Time and Chance, Harvard University Press, 2000). [Stanford Encyclopedia of Philosophy, “Thermodynamic Asymmetry in Time”](https://plato.stanford.edu/entries/time-thermo/).
 
-[^89]: The thermal time hypothesis. [A. Connes and C. Rovelli, “Von Neumann algebra automorphisms and time-thermodynamics relation in generally covariant quantum theories,” Classical and Quantum Gravity 11, 2899–2917 (1994)](https://doi.org/10.1088/0264-9381/11/12/007).
+[^89]: The Wheeler–DeWitt equation and the “problem of time.” [Bryce S. DeWitt, “Quantum Theory of Gravity. I. The Canonical Theory,” Physical Review 160, 1113–1148 (1967)](https://doi.org/10.1103/PhysRev.160.1113).
 
-[^90]: The no-boundary proposal. [J. B. Hartle and S. W. Hawking, “Wave function of the Universe,” Physical Review D 28, 2960–2975 (1983)](https://doi.org/10.1103/PhysRevD.28.2960).
+[^90]: Time as correlation with a clock subsystem. [D. N. Page and W. K. Wootters, “Evolution without evolution: Dynamics described by stationary observables,” Physical Review D 27, 2885–2892 (1983)](https://doi.org/10.1103/PhysRevD.27.2885).
+
+[^91]: The thermal time hypothesis. [A. Connes and C. Rovelli, “Von Neumann algebra automorphisms and time-thermodynamics relation in generally covariant quantum theories,” Classical and Quantum Gravity 11, 2899–2917 (1994)](https://doi.org/10.1088/0264-9381/11/12/007).
+
+[^92]: The no-boundary proposal. [J. B. Hartle and S. W. Hawking, “Wave function of the Universe,” Physical Review D 28, 2960–2975 (1983)](https://doi.org/10.1103/PhysRevD.28.2960).
 
 \newpage
 
@@ -3800,39 +3816,40 @@ Sources are listed under every chapter that cites them, in order of first citati
 
 **Chapter 10. The First Three Minutes**
 
-- [Particle Data Group, “Big-Bang Nucleosynthesis,” Review of Particle Physics (2025)](https://pdg.lbl.gov/2025/reviews/rpp2025-rev-bbang-nucleosynthesis.pdf) — note 29
+- [R. A. Alpher, H. Bethe, and G. Gamow, “The Origin of Chemical Elements,” Physical Review 73, 803–804 (1948)](https://doi.org/10.1103/PhysRev.73.803) — note 29
+- [Particle Data Group, “Big-Bang Nucleosynthesis,” Review of Particle Physics (2025)](https://pdg.lbl.gov/2025/reviews/rpp2025-rev-bbang-nucleosynthesis.pdf) — note 30
 
 **Chapter 15. Bubbles That May Never Stop**
 
-- [Steven Weinberg, “Anthropic Bound on the Cosmological Constant,” Physical Review Letters 59, 2607–2610 (1987)](https://doi.org/10.1103/PhysRevLett.59.2607) — note 30
+- [Steven Weinberg, “Anthropic Bound on the Cosmological Constant,” Physical Review Letters 59, 2607–2610 (1987)](https://doi.org/10.1103/PhysRevLett.59.2607) — note 31
 - [Planck Collaboration, “Planck 2018 results. VI. Cosmological parameters,” Astronomy & Astrophysics 641, A6 (2020)](https://doi.org/10.1051/0004-6361/201833910) — note 21
-- [Alan H. Guth, “Inflationary universe: A possible solution to the horizon and flatness problems,” Physical Review D 23, 347–356 (1981)](https://doi.org/10.1103/PhysRevD.23.347) — note 31
-- [S. M. Feeney, M. C. Johnson, D. J. Mortlock, and H. V. Peiris, “First Observational Tests of Eternal Inflation,” Physical Review Letters 107, 071301 (2011)](https://doi.org/10.1103/PhysRevLett.107.071301) — note 32
+- [Alan H. Guth, “Inflationary universe: A possible solution to the horizon and flatness problems,” Physical Review D 23, 347–356 (1981)](https://doi.org/10.1103/PhysRevD.23.347) — note 32
+- [S. M. Feeney, M. C. Johnson, D. J. Mortlock, and H. V. Peiris, “First Observational Tests of Eternal Inflation,” Physical Review Letters 107, 071301 (2011)](https://doi.org/10.1103/PhysRevLett.107.071301) — note 33
 
 **Chapter 17. The Extra Pull**
 
-- [LZ Collaboration, “Dark Matter Search Results from 4.2 Tonne-Years of Exposure of the LUX-ZEPLIN (LZ) Experiment,” Physical Review Letters 135, 011802 (2025)](https://doi.org/10.1103/4dyc-z8zf) — note 33
-- [XENON Collaboration, “WIMP Dark Matter Search using a 3.1 Tonne-Year Exposure of the XENONnT Experiment” (2025), arXiv:2502.18005](https://arxiv.org/abs/2502.18005) — note 34
-- [V. C. Rubin and W. K. Ford Jr., “Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions,” Astrophysical Journal 159, 379 (1970)](https://doi.org/10.1086/150317) — note 35
-- [D. Clowe et al., “A Direct Empirical Proof of the Existence of Dark Matter,” Astrophysical Journal Letters 648, L109–L113 (2006)](https://doi.org/10.1086/508162) — note 36
+- [LZ Collaboration, “Dark Matter Search Results from 4.2 Tonne-Years of Exposure of the LUX-ZEPLIN (LZ) Experiment,” Physical Review Letters 135, 011802 (2025)](https://doi.org/10.1103/4dyc-z8zf) — note 34
+- [XENON Collaboration, “WIMP Dark Matter Search using a 3.1 Tonne-Year Exposure of the XENONnT Experiment” (2025), arXiv:2502.18005](https://arxiv.org/abs/2502.18005) — note 35
+- [V. C. Rubin and W. K. Ford Jr., “Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions,” Astrophysical Journal 159, 379 (1970)](https://doi.org/10.1086/150317) — note 36
+- [D. Clowe et al., “A Direct Empirical Proof of the Existence of Dark Matter,” Astrophysical Journal Letters 648, L109–L113 (2006)](https://doi.org/10.1086/508162) — note 37
 - [Planck Collaboration, “Planck 2018 results. VI. Cosmological parameters,” Astronomy & Astrophysics 641, A6 (2020)](https://doi.org/10.1051/0004-6361/201833910) — note 21
-- [LZ Collaboration, “Search for dark matter particle interactions in an extended nuclear recoil energy window” (2026), arXiv:2609.02823](https://arxiv.org/abs/2609.02823) — note 37
+- [LZ Collaboration, “Search for dark matter particle interactions in an extended nuclear recoil energy window” (2026), arXiv:2609.02823](https://arxiv.org/abs/2609.02823) — note 38
 
 **Chapter 18. The Shove**
 
-- [A. G. Riess et al., “Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant,” Astronomical Journal 116, 1009–1038 (1998)](https://doi.org/10.1086/300499) — note 38
-- [S. Perlmutter et al., “Measurements of Ω and Λ from 42 High-Redshift Supernovae,” Astrophysical Journal 517, 565–586 (1999)](https://doi.org/10.1086/307221) — note 39
+- [A. G. Riess et al., “Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant,” Astronomical Journal 116, 1009–1038 (1998)](https://doi.org/10.1086/300499) — note 39
+- [S. Perlmutter et al., “Measurements of Ω and Λ from 42 High-Redshift Supernovae,” Astrophysical Journal 517, 565–586 (1999)](https://doi.org/10.1086/307221) — note 40
 - [Planck Collaboration, “Planck 2018 results. VI. Cosmological parameters,” Astronomy & Astrophysics 641, A6 (2020)](https://doi.org/10.1051/0004-6361/201833910) — note 21
 - [DESI Collaboration, “DESI DR2 Results II: Measurements of Baryon Acoustic Oscillations and Cosmological Constraints” (2025), arXiv:2503.14738](https://arxiv.org/abs/2503.14738) — note 24
-- [DESI Collaboration, “DESI DR2 Results IV: Alcock-Paczyński Measurements from the Lyman Alpha Forest and Cosmological Constraints” (2026), arXiv:2607.27410](https://arxiv.org/abs/2607.27410) — note 40
-- [DES Collaboration, “Constraints on Dynamical Dark Energy from Multiple Probes in the Full Dark Energy Survey” (2026), arXiv:2605.27221](https://arxiv.org/abs/2605.27221) — note 41
-- [D. D. Y. Ong, D. Yallup, and W. Handley, “A Bayesian Perspective on Evidence for Evolving Dark Energy” (2025), arXiv:2511.10631](https://arxiv.org/abs/2511.10631) — note 42
+- [DESI Collaboration, “DESI DR2 Results IV: Alcock-Paczyński Measurements from the Lyman Alpha Forest and Cosmological Constraints” (2026), arXiv:2607.27410](https://arxiv.org/abs/2607.27410) — note 41
+- [DES Collaboration, “Constraints on Dynamical Dark Energy from Multiple Probes in the Full Dark Energy Survey” (2026), arXiv:2605.27221](https://arxiv.org/abs/2605.27221) — note 42
+- [D. D. Y. Ong, D. Yallup, and W. Handley, “A Bayesian Perspective on Evidence for Evolving Dark Energy” (2025), arXiv:2511.10631](https://arxiv.org/abs/2511.10631) — note 43
 
 **Chapter 20. A Horizon Is a Fact About Events**
 
-- [Event Horizon Telescope Collaboration, “First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole,” Astrophysical Journal Letters 875, L1 (2019)](https://doi.org/10.3847/2041-8213/ab0ec7) — note 43
-- [Event Horizon Telescope Collaboration, “First Sagittarius A* Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole in the Center of the Milky Way,” Astrophysical Journal Letters 930, L12 (2022)](https://doi.org/10.3847/2041-8213/ac6674) — note 44
-- [LIGO Scientific and Virgo Collaborations, “Observation of Gravitational Waves from a Binary Black Hole Merger,” Physical Review Letters 116, 061102 (2016)](https://doi.org/10.1103/PhysRevLett.116.061102) — note 45
+- [Event Horizon Telescope Collaboration, “First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole,” Astrophysical Journal Letters 875, L1 (2019)](https://doi.org/10.3847/2041-8213/ab0ec7) — note 44
+- [Event Horizon Telescope Collaboration, “First Sagittarius A* Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole in the Center of the Milky Way,” Astrophysical Journal Letters 930, L12 (2022)](https://doi.org/10.3847/2041-8213/ac6674) — note 45
+- [LIGO Scientific and Virgo Collaborations, “Observation of Gravitational Waves from a Binary Black Hole Merger,” Physical Review Letters 116, 061102 (2016)](https://doi.org/10.1103/PhysRevLett.116.061102) — note 46
 
 **Chapter 21. An Hour Beside the Edge**
 
@@ -3840,90 +3857,94 @@ Sources are listed under every chapter that cites them, in order of first citati
 
 **Chapter 23. The Skin and the Leak**
 
-- [J. D. Bekenstein, “Black Holes and Entropy,” Physical Review D 7, 2333–2346 (1973)](https://doi.org/10.1103/PhysRevD.7.2333) — note 46
-- [S. W. Hawking, “Particle creation by black holes,” Communications in Mathematical Physics 43, 199–220 (1975)](https://doi.org/10.1007/BF02345020) — note 47
+- [J. D. Bekenstein, “Black Holes and Entropy,” Physical Review D 7, 2333–2346 (1973)](https://doi.org/10.1103/PhysRevD.7.2333) — note 47
+- [S. W. Hawking, “Particle creation by black holes,” Communications in Mathematical Physics 43, 199–220 (1975)](https://doi.org/10.1007/BF02345020) — note 48
 
 **Chapter 26. Most of the Universe Has Already Left**
 
-- [T. M. Davis and C. H. Lineweaver, “Expanding Confusion: common misconceptions of cosmological horizons and the superluminal expansion of the Universe,” Publications of the Astronomical Society of Australia 21, 97–109 (2004); arXiv:astro-ph/0310808](https://arxiv.org/abs/astro-ph/0310808) — note 48
+- [T. M. Davis and C. H. Lineweaver, “Expanding Confusion: common misconceptions of cosmological horizons and the superluminal expansion of the Universe,” Publications of the Astronomical Society of Australia 21, 97–109 (2004); arXiv:astro-ph/0310808](https://arxiv.org/abs/astro-ph/0310808) — note 49
 
 **Chapter 27. Other Suns, Other Worlds**
 
-- [M. Mayor and D. Queloz, “A Jupiter-mass companion to a solar-type star,” Nature 378, 355–359 (1995)](https://doi.org/10.1038/378355a0) — note 49
+- [M. Mayor and D. Queloz, “A Jupiter-mass companion to a solar-type star,” Nature 378, 355–359 (1995)](https://doi.org/10.1038/378355a0) — note 50
 
-**Chapter 33. Handles, and the Bill**
+**Chapter 31. Forms Earth Never Hired**
 
-- [A. Einstein and N. Rosen, “The Particle Problem in the General Theory of Relativity,” Physical Review 48, 73–77 (1935)](https://doi.org/10.1103/PhysRev.48.73) — note 50
-- [M. S. Morris and K. S. Thorne, “Wormholes in spacetime and their use for interstellar travel,” American Journal of Physics 56, 395–412 (1988)](https://doi.org/10.1119/1.15620) — note 51
-- [Miguel Alcubierre, “The warp drive: hyper-fast travel within general relativity,” Classical and Quantum Gravity 11, L73–L77 (1994)](https://doi.org/10.1088/0264-9381/11/5/001) — note 52
+- [M. Fulchignoni et al., “In situ measurements of the physical characteristics of Titan’s environment,” Nature 438, 785–791 (2005)](https://doi.org/10.1038/nature04314) — note 51
 
-**Chapter 35. Time Travel Is Not an Edit**
+**Chapter 34. Handles, and the Bill**
 
-- [J. Friedman et al., “Cauchy problem in spacetimes with closed timelike curves,” Physical Review D 42, 1915–1930 (1990)](https://doi.org/10.1103/PhysRevD.42.1915) — note 53
-- [Kurt Gödel, “An Example of a New Type of Cosmological Solutions of Einstein’s Field Equations of Gravitation,” Reviews of Modern Physics 21, 447–450 (1949)](https://doi.org/10.1103/RevModPhys.21.447) — note 54
-- [E. Poisson and W. Israel, “Internal structure of black holes,” Physical Review D 41, 1796–1809 (1990)](https://doi.org/10.1103/PhysRevD.41.1796) — note 55
-- [M. S. Morris, K. S. Thorne, and U. Yurtsever, “Wormholes, Time Machines, and the Weak Energy Condition,” Physical Review Letters 61, 1446–1449 (1988)](https://doi.org/10.1103/PhysRevLett.61.1446) — note 56
-- [S. W. Hawking, “Chronology protection conjecture,” Physical Review D 46, 603–611 (1992)](https://doi.org/10.1103/PhysRevD.46.603) — note 57
-- [Stanford Encyclopedia of Philosophy, “Time Travel and Modern Physics”](https://plato.stanford.edu/entries/time-travel-phys/) — note 58
-- [David Deutsch, “Quantum mechanics near closed timelike lines,” Physical Review D 44, 3197–3217 (1991)](https://doi.org/10.1103/PhysRevD.44.3197) — note 59
+- [A. Einstein and N. Rosen, “The Particle Problem in the General Theory of Relativity,” Physical Review 48, 73–77 (1935)](https://doi.org/10.1103/PhysRev.48.73) — note 52
+- [M. S. Morris and K. S. Thorne, “Wormholes in spacetime and their use for interstellar travel,” American Journal of Physics 56, 395–412 (1988)](https://doi.org/10.1119/1.15620) — note 53
+- [Miguel Alcubierre, “The warp drive: hyper-fast travel within general relativity,” Classical and Quantum Gravity 11, L73–L77 (1994)](https://doi.org/10.1088/0264-9381/11/5/001) — note 54
 
-**Chapter 36. If You Could Walk Sideways Through When**
+**Chapter 36. Time Travel Is Not an Edit**
+
+- [J. Friedman et al., “Cauchy problem in spacetimes with closed timelike curves,” Physical Review D 42, 1915–1930 (1990)](https://doi.org/10.1103/PhysRevD.42.1915) — note 55
+- [Kurt Gödel, “An Example of a New Type of Cosmological Solutions of Einstein’s Field Equations of Gravitation,” Reviews of Modern Physics 21, 447–450 (1949)](https://doi.org/10.1103/RevModPhys.21.447) — note 56
+- [E. Poisson and W. Israel, “Internal structure of black holes,” Physical Review D 41, 1796–1809 (1990)](https://doi.org/10.1103/PhysRevD.41.1796) — note 57
+- [M. S. Morris, K. S. Thorne, and U. Yurtsever, “Wormholes, Time Machines, and the Weak Energy Condition,” Physical Review Letters 61, 1446–1449 (1988)](https://doi.org/10.1103/PhysRevLett.61.1446) — note 58
+- [S. W. Hawking, “Chronology protection conjecture,” Physical Review D 46, 603–611 (1992)](https://doi.org/10.1103/PhysRevD.46.603) — note 59
+- [Stanford Encyclopedia of Philosophy, “Time Travel and Modern Physics”](https://plato.stanford.edu/entries/time-travel-phys/) — note 60
+- [David Deutsch, “Quantum mechanics near closed timelike lines,” Physical Review D 44, 3197–3217 (1991)](https://doi.org/10.1103/PhysRevD.44.3197) — note 61
+
+**Chapter 37. If You Could Walk Sideways Through When**
 
 - [A. A. Abdo et al., “A limit on the variation of the speed of light arising from quantum gravity effects,” Nature 462, 331–334 (2009)](https://doi.org/10.1038/nature08574) — note 15
 
-**Chapter 38. More of This Universe**
+**Chapter 39. More of This Universe**
 
-- [N. J. Cornish et al., “Constraining the Topology of the Universe,” Physical Review Letters 92, 201302 (2004)](https://doi.org/10.1103/PhysRevLett.92.201302) — note 60
-- [Max Tegmark, “Parallel Universes” (2003), arXiv:astro-ph/0302131](https://arxiv.org/abs/astro-ph/0302131) — note 61
+- [N. J. Cornish et al., “Constraining the Topology of the Universe,” Physical Review Letters 92, 201302 (2004)](https://doi.org/10.1103/PhysRevLett.92.201302) — note 62
+- [Max Tegmark, “Parallel Universes” (2003), arXiv:astro-ph/0302131](https://arxiv.org/abs/astro-ph/0302131) — note 63
 
-**Chapter 39. Other Rooms, Other Rules**
+**Chapter 40. Other Rooms, Other Rules**
 
-- [Michael R. Douglas, “The statistics of string/M theory vacua,” JHEP 0305, 046 (2003); arXiv:hep-th/0303194](https://arxiv.org/abs/hep-th/0303194) — note 62
-- [George Ellis and Joe Silk, “Scientific method: Defend the integrity of physics,” Nature 516, 321–323 (2014)](https://doi.org/10.1038/516321a) — note 63
-- [Steven Weinberg, “Anthropic Bound on the Cosmological Constant,” Physical Review Letters 59, 2607–2610 (1987)](https://doi.org/10.1103/PhysRevLett.59.2607) — note 30
-- [Max Tegmark, “Parallel Universes” (2003), arXiv:astro-ph/0302131](https://arxiv.org/abs/astro-ph/0302131) — note 61
-- [George F. R. Ellis, “Does the Multiverse Really Exist?” Scientific American 305(2), 38–43 (2011)](https://doi.org/10.1038/scientificamerican0811-38) — note 64
+- [Michael R. Douglas, “The statistics of string/M theory vacua,” JHEP 0305, 046 (2003); arXiv:hep-th/0303194](https://arxiv.org/abs/hep-th/0303194) — note 64
+- [George Ellis and Joe Silk, “Scientific method: Defend the integrity of physics,” Nature 516, 321–323 (2014)](https://doi.org/10.1038/516321a) — note 65
+- [Steven Weinberg, “Anthropic Bound on the Cosmological Constant,” Physical Review Letters 59, 2607–2610 (1987)](https://doi.org/10.1103/PhysRevLett.59.2607) — note 31
+- [Max Tegmark, “Parallel Universes” (2003), arXiv:astro-ph/0302131](https://arxiv.org/abs/astro-ph/0302131) — note 63
+- [George F. R. Ellis, “Does the Multiverse Really Exist?” Scientific American 305(2), 38–43 (2011)](https://doi.org/10.1038/scientificamerican0811-38) — note 66
 
-**Chapter 40. Every Allowed Outcome**
+**Chapter 41. Every Allowed Outcome**
 
-- [Hugh Everett III, “‘Relative State’ Formulation of Quantum Mechanics,” Reviews of Modern Physics 29, 454–462 (1957)](https://doi.org/10.1103/RevModPhys.29.454) — note 65
-- [W. H. Zurek, “Decoherence, einselection, and the quantum origins of the classical,” Reviews of Modern Physics 75, 715–775 (2003)](https://doi.org/10.1103/RevModPhys.75.715) — note 66
+- [Hugh Everett III, “‘Relative State’ Formulation of Quantum Mechanics,” Reviews of Modern Physics 29, 454–462 (1957)](https://doi.org/10.1103/RevModPhys.29.454) — note 67
+- [W. H. Zurek, “Decoherence, einselection, and the quantum origins of the classical,” Reviews of Modern Physics 75, 715–775 (2003)](https://doi.org/10.1103/RevModPhys.75.715) — note 68
 - [J. S. Bell, “On the Einstein Podolsky Rosen Paradox,” Physics Physique Fizika 1, 195–200 (1964)](https://doi.org/10.1103/PhysicsPhysiqueFizika.1.195) — note 18
 - [B. Hensen et al., “Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres,” Nature 526, 682–686 (2015)](https://doi.org/10.1038/nature15759) — note 20
-- [Stanford Encyclopedia of Philosophy, “Copenhagen Interpretation of Quantum Mechanics”](https://plato.stanford.edu/entries/qm-copenhagen/) — note 67
-- [Stanford Encyclopedia of Philosophy, “Many-Worlds Interpretation of Quantum Mechanics”](https://plato.stanford.edu/entries/qm-manyworlds/) — note 68
-- [N. Bohr, “Can Quantum-Mechanical Description of Physical Reality be Considered Complete?” Physical Review 48, 696–702 (1935)](https://doi.org/10.1103/PhysRev.48.696) — note 69
-- [C. A. Fuchs, N. D. Mermin, and R. Schack, “An introduction to QBism with an application to the locality of quantum mechanics,” American Journal of Physics 82, 749–754 (2014)](https://doi.org/10.1119/1.4874855) — note 70
-- [David Bohm, “A Suggested Interpretation of the Quantum Theory in Terms of ‘Hidden’ Variables. I,” Physical Review 85, 166–179 (1952)](https://doi.org/10.1103/PhysRev.85.166) — note 71
-- [Stanford Encyclopedia of Philosophy, “Bohmian Mechanics”](https://plato.stanford.edu/entries/qm-bohm/) — note 72
-- [G. C. Ghirardi, A. Rimini, and T. Weber, “Unified dynamics for microscopic and macroscopic systems,” Physical Review D 34, 470–491 (1986)](https://doi.org/10.1103/PhysRevD.34.470) — note 73
-- [Roger Penrose, “On Gravity’s role in Quantum State Reduction,” General Relativity and Gravitation 28, 581–600 (1996)](https://doi.org/10.1007/BF02105068) — note 74
-- [Stanford Encyclopedia of Philosophy, “Collapse Theories”](https://plato.stanford.edu/entries/qm-collapse/) — note 75
-- [S. Donadi et al., “Underground test of gravity-related wave function collapse,” Nature Physics 17, 74–78 (2021; published online 2020)](https://doi.org/10.1038/s41567-020-1008-4) — note 76
-- [David J. Chalmers and Kelvin J. McQueen, “Consciousness and the Collapse of the Wave Function” (2021), arXiv:2105.02314](https://arxiv.org/abs/2105.02314) — note 77
-- [Stanford Encyclopedia of Philosophy, “Personal Identity”](https://plato.stanford.edu/entries/identity-personal/) — note 78
-- [David J. Chalmers, “Uploading: A Philosophical Analysis” (2014)](https://consc.net/papers/uploading.pdf) — note 79
+- [Stanford Encyclopedia of Philosophy, “Copenhagen Interpretation of Quantum Mechanics”](https://plato.stanford.edu/entries/qm-copenhagen/) — note 69
+- [Stanford Encyclopedia of Philosophy, “Many-Worlds Interpretation of Quantum Mechanics”](https://plato.stanford.edu/entries/qm-manyworlds/) — note 70
+- [N. Bohr, “Can Quantum-Mechanical Description of Physical Reality be Considered Complete?” Physical Review 48, 696–702 (1935)](https://doi.org/10.1103/PhysRev.48.696) — note 71
+- [C. A. Fuchs, N. D. Mermin, and R. Schack, “An introduction to QBism with an application to the locality of quantum mechanics,” American Journal of Physics 82, 749–754 (2014)](https://doi.org/10.1119/1.4874855) — note 72
+- [David Bohm, “A Suggested Interpretation of the Quantum Theory in Terms of ‘Hidden’ Variables. I,” Physical Review 85, 166–179 (1952)](https://doi.org/10.1103/PhysRev.85.166) — note 73
+- [Stanford Encyclopedia of Philosophy, “Bohmian Mechanics”](https://plato.stanford.edu/entries/qm-bohm/) — note 74
+- [G. C. Ghirardi, A. Rimini, and T. Weber, “Unified dynamics for microscopic and macroscopic systems,” Physical Review D 34, 470–491 (1986)](https://doi.org/10.1103/PhysRevD.34.470) — note 75
+- [Roger Penrose, “On Gravity’s role in Quantum State Reduction,” General Relativity and Gravitation 28, 581–600 (1996)](https://doi.org/10.1007/BF02105068) — note 76
+- [Stanford Encyclopedia of Philosophy, “Collapse Theories”](https://plato.stanford.edu/entries/qm-collapse/) — note 77
+- [S. Donadi et al., “Underground test of gravity-related wave function collapse,” Nature Physics 17, 74–78 (2021; published online 2020)](https://doi.org/10.1038/s41567-020-1008-4) — note 78
+- [David J. Chalmers and Kelvin J. McQueen, “Consciousness and the Collapse of the Wave Function” (2021), arXiv:2105.02314](https://arxiv.org/abs/2105.02314) — note 79
+- [Stanford Encyclopedia of Philosophy, “Personal Identity”](https://plato.stanford.edu/entries/identity-personal/) — note 80
+- [David J. Chalmers, “Uploading: A Philosophical Analysis” (2014)](https://consc.net/papers/uploading.pdf) — note 81
 
-**Chapter 41. A Filter, Not a Purpose**
+**Chapter 42. A Filter, Not a Purpose**
 
-- [R. H. Dicke, “Dirac’s Cosmology and Mach’s Principle,” Nature 192, 440–441 (1961)](https://doi.org/10.1038/192440a0) — note 80
-- [Brandon Carter, “Large Number Coincidences and the Anthropic Principle in Cosmology,” IAU Symposium 63, 291–298 (1974)](https://doi.org/10.1017/S0074180900235638) — note 81
-- [Steven Weinberg, “Anthropic Bound on the Cosmological Constant,” Physical Review Letters 59, 2607–2610 (1987)](https://doi.org/10.1103/PhysRevLett.59.2607) — note 30
-- [Stanford Encyclopedia of Philosophy, “Fine-Tuning”](https://plato.stanford.edu/entries/fine-tuning/) — note 82
+- [R. H. Dicke, “Dirac’s Cosmology and Mach’s Principle,” Nature 192, 440–441 (1961)](https://doi.org/10.1038/192440a0) — note 82
+- [Brandon Carter, “Large Number Coincidences and the Anthropic Principle in Cosmology,” IAU Symposium 63, 291–298 (1974)](https://doi.org/10.1017/S0074180900235638) — note 83
+- [Steven Weinberg, “Anthropic Bound on the Cosmological Constant,” Physical Review Letters 59, 2607–2610 (1987)](https://doi.org/10.1103/PhysRevLett.59.2607) — note 31
+- [Stanford Encyclopedia of Philosophy, “Fine-Tuning”](https://plato.stanford.edu/entries/fine-tuning/) — note 84
 
-**Chapter 43. Five Ways It Can End**
+**Chapter 44. Five Ways It Can End**
 
-- [Stanford Encyclopedia of Philosophy, “Philosophy of Cosmology”](https://plato.stanford.edu/entries/cosmology/) — note 83
-- [R. R. Caldwell, M. Kamionkowski, and N. N. Weinberg, “Phantom Energy: Dark Energy with w < −1 Causes a Cosmic Doomsday,” Physical Review Letters 91, 071301 (2003)](https://doi.org/10.1103/PhysRevLett.91.071301) — note 84
+- [Stanford Encyclopedia of Philosophy, “Philosophy of Cosmology”](https://plato.stanford.edu/entries/cosmology/) — note 85
+- [R. R. Caldwell, M. Kamionkowski, and N. N. Weinberg, “Phantom Energy: Dark Energy with w < −1 Causes a Cosmic Doomsday,” Physical Review Letters 91, 071301 (2003)](https://doi.org/10.1103/PhysRevLett.91.071301) — note 86
 - [DESI Collaboration, “DESI DR2 Results II: Measurements of Baryon Acoustic Oscillations and Cosmological Constraints” (2025), arXiv:2503.14738](https://arxiv.org/abs/2503.14738) — note 24
-- [DES Collaboration, “Constraints on Dynamical Dark Energy from Multiple Probes in the Full Dark Energy Survey” (2026), arXiv:2605.27221](https://arxiv.org/abs/2605.27221) — note 41
-- [A. Andreassen, W. Frost, and M. D. Schwartz, “Scale-invariant instantons and the complete lifetime of the Standard Model,” Physical Review D 97, 056006 (2018)](https://doi.org/10.1103/PhysRevD.97.056006) — note 85
+- [DES Collaboration, “Constraints on Dynamical Dark Energy from Multiple Probes in the Full Dark Energy Survey” (2026), arXiv:2605.27221](https://arxiv.org/abs/2605.27221) — note 42
+- [A. Andreassen, W. Frost, and M. D. Schwartz, “Scale-invariant instantons and the complete lifetime of the Standard Model,” Physical Review D 97, 056006 (2018)](https://doi.org/10.1103/PhysRevD.97.056006) — note 87
 
-**Chapter 44. Does Time Exist?**
+**Chapter 45. Does Time Exist?**
 
-- [Stanford Encyclopedia of Philosophy, “Thermodynamic Asymmetry in Time”](https://plato.stanford.edu/entries/time-thermo/) — note 86
-- [Bryce S. DeWitt, “Quantum Theory of Gravity. I. The Canonical Theory,” Physical Review 160, 1113–1148 (1967)](https://doi.org/10.1103/PhysRev.160.1113) — note 87
-- [D. N. Page and W. K. Wootters, “Evolution without evolution: Dynamics described by stationary observables,” Physical Review D 27, 2885–2892 (1983)](https://doi.org/10.1103/PhysRevD.27.2885) — note 88
-- [A. Connes and C. Rovelli, “Von Neumann algebra automorphisms and time-thermodynamics relation in generally covariant quantum theories,” Classical and Quantum Gravity 11, 2899–2917 (1994)](https://doi.org/10.1088/0264-9381/11/12/007) — note 89
-- [J. B. Hartle and S. W. Hawking, “Wave function of the Universe,” Physical Review D 28, 2960–2975 (1983)](https://doi.org/10.1103/PhysRevD.28.2960) — note 90
+- [Stanford Encyclopedia of Philosophy, “Thermodynamic Asymmetry in Time”](https://plato.stanford.edu/entries/time-thermo/) — note 88
+- [Bryce S. DeWitt, “Quantum Theory of Gravity. I. The Canonical Theory,” Physical Review 160, 1113–1148 (1967)](https://doi.org/10.1103/PhysRev.160.1113) — note 89
+- [D. N. Page and W. K. Wootters, “Evolution without evolution: Dynamics described by stationary observables,” Physical Review D 27, 2885–2892 (1983)](https://doi.org/10.1103/PhysRevD.27.2885) — note 90
+- [A. Connes and C. Rovelli, “Von Neumann algebra automorphisms and time-thermodynamics relation in generally covariant quantum theories,” Classical and Quantum Gravity 11, 2899–2917 (1994)](https://doi.org/10.1088/0264-9381/11/12/007) — note 91
+- [J. B. Hartle and S. W. Hawking, “Wave function of the Universe,” Physical Review D 28, 2960–2975 (1983)](https://doi.org/10.1103/PhysRevD.28.2960) — note 92
 

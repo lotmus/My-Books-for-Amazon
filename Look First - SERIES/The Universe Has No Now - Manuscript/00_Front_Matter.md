@@ -16,7 +16,7 @@ Look First, Volume 1.
 
 Photograph credits are not printed under the figures. They are in this file, so a copy that never sees the store page still names its sources.
 
-**Photographs.** Fig 0: Islander61, Wikimedia Commons, CC BY-SA 4.0. Fig 1: Unsplash. Fig 3: NASA/SDO. Fig 4: NASA/ESA/Hubble. Fig 8: NASA/ESA/STScI. Fig 9: ESA and the Planck Collaboration, CC BY 4.0. Fig 14: NASA/ESA/Hubble Heritage Team (STScI/AURA). Fig 16: NASA/JPL-Caltech/IPAC (2MASS, T. Jarrett). Fig 17: NASA/CXC/CfA/M. Markevitch et al.; NASA/STScI; ESO WFI. Fig 18: NASA/ESA/J. Hester and A. Loll (Arizona State University). Fig 20: Event Horizon Telescope Collaboration, CC BY 4.0. Fig 24: NASA/Hubble Heritage Team (STScI/AURA). Fig 25: NASA/JPL-Caltech/MSSS. Fig 29: NASA/JPL-Caltech/SETI Institute. Fig 31: Sasu photography, Wikimedia Commons, CC BY-SA 4.0. Fig 32: Cierra Martin for Crop Trust, Wikimedia Commons, CC BY-SA 2.0. Fig 34: Corrie Barklimore, Wikimedia Commons, CC BY 2.0. Fig 41: NASA. Fig 42: Charles J. Sharp, Wikimedia Commons, CC BY-SA 3.0. Fig 45: NASA/JPL-Caltech. Diagrams are original line art for this book.
+**Photographs.** Fig 0: Islander61, Wikimedia Commons, CC BY-SA 4.0. Fig 1: Unsplash. Fig 3: NASA/SDO. Fig 4: NASA/ESA/Hubble. Fig 8: NASA/ESA/STScI. Fig 9: ESA and the Planck Collaboration, CC BY 4.0. Fig 14: NASA/ESA/Hubble Heritage Team (STScI/AURA). Fig 16: NASA/JPL-Caltech/IPAC (2MASS, T. Jarrett). Fig 17: NASA/CXC/CfA/M. Markevitch et al.; NASA/STScI; ESO WFI. Fig 18: NASA/ESA/J. Hester and A. Loll (Arizona State University). Fig 20: Event Horizon Telescope Collaboration, CC BY 4.0. Fig 24: NASA/Hubble Heritage Team (STScI/AURA). Fig 25: NASA/JPL-Caltech/MSSS. Fig 29: NASA/JPL-Caltech/SETI Institute. Fig 32: Sasu photography, Wikimedia Commons, CC BY-SA 4.0. Fig 33: Cierra Martin for Crop Trust, Wikimedia Commons, CC BY-SA 2.0. Fig 35: Corrie Barklimore, Wikimedia Commons, CC BY 2.0. Fig 42: NASA. Fig 43: Charles J. Sharp, Wikimedia Commons, CC BY-SA 3.0. Fig 46: NASA/JPL-Caltech. Diagrams are original line art for this book.
 
 ---
 
@@ -69,9 +69,9 @@ Before the first chapter, here is the whole book’s method on two pages. Every 
 
 **The general reader.** Read straight through. Skip the shaded boxes on a first pass if you like; the chapters make sense without them. Seven spacetime diagrams carry the geometry: start with Spacetime Diagram 1 in Chapter 1 and Spacetime Diagram 2 in Chapter 3, and the rest will read easily.
 
-**The physics reader.** Read Part I quickly, then Parts II to V with the Appendix open beside them; each chapter has a matching appendix note (Chapter 9 with A9, and so on) where the equations live. The status boxes in Chapters 8, 17, 18, and 39 and the Notes give the current numbers and sources.
+**The physics reader.** Read Part I quickly, then Parts II to V with the Appendix open beside them; each chapter has a matching appendix note (Chapter 9 with A9, and so on) where the equations live. The status boxes in Chapters 8, 17, 18, and 40 and the Notes give the current numbers and sources.
 
-**The philosophy reader.** Read Chapters 1 to 6, then 35 to 37, 40 to 42, and 44 to 45. The **Physics vs philosophy** boxes in Chapters 6, 15, 35, 40, 41, and 44 mark each step from a physical result to an interpretation, and the rival views are stated in their strongest form before they are declined.
+**The philosophy reader.** Read Chapters 1 to 6, then 36 to 38, 41 to 43, and 45 to 46. The **Physics vs philosophy** boxes in Chapters 6, 15, 36, 41, 42, and 45 mark each step from a physical result to an interpretation, and the rival views are stated in their strongest form before they are declined.
 
 **The skeptical reader.** Start with this map and the status boxes. Then read the hot/warm/cold summaries at the end of each chapter, and check any claim that matters to you against its note. Where this book takes a side (the block, Everett, a filter rather than a purpose), it says that it is taking a side.
 
