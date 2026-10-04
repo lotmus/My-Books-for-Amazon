@@ -348,3 +348,9 @@ Article Two's invitation clause stands, with the public schedule Eilstein asked 
 - **B1 calendar:** chapters 1–8 happen on a single Thursday in autumn. The book runs through to November.
 - **B2 countdown:** the notebook day counts run to 9 Feb 2027. The full table is in the B2 MANUSCRIPT_GUIDE, round 7.
 - **Mrs Kind's week:** Thursdays at Marsham Street; other weekdays at Kind & Farrow, Croydon.
+
+## Structure (2026-10-03, Lothar's decisions)
+- Book 1: 19 chapters. Book 2: 17 chapters. In both, the science is optional back matter titled "For Curious Readers".
+- Book 1 keeps only 7 in-chapter Rule lines and has no "Lesson for this chapter" pointers. Book 2 has no in-chapter tags.
+- Eilstein's eleven thousand years are inherited. Anything older than his own life (Ravenna 1338–1347, the ice, the Bronze Age) is memory he carries, never something he lived. He was born in Ulm in 1879.
+- Gideon's clumsiness: at most once every few chapters, and each use must escalate or pay off.
