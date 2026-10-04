@@ -20,7 +20,7 @@ FIGURES = ROOT / "figures"
 OUTPUT = ROOT / "Your First Book That Sells.docx"
 TITLE = "Your First Book That Sells"
 SUBTITLE = "How to Publish and Make Good Money on Kindle: Real Royalties, Honest Reviews, and a Catalog That Pays"
-AUTHOR = "Lothar J. Musiol"
+AUTHOR = "Kevin Drew Peters"
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.*)$")
 IMAGE_RE = re.compile(r"^!\[([^\]]*)\]\(([^)]+\.(?:png|jpg|jpeg))\)$", re.I)
