@@ -341,3 +341,10 @@ Article Two's invitation clause stands, with the public schedule Eilstein asked 
 - **The 99 states (Book 2).** 308 states in all. 209 are on a continuous recorder; the other 99 sit on old Annex loggers that read once a day at noon. For those 99 nobody can know what happened between readings, and Pike says so ("I'm not going to guess. Sorry.").
 - **Lolly's career (Book 1).** Seven months on the complaints desk at the start, ten years at the bench before that: eleven years in the Ministry. Gideon spent three years at Halloran's packing the Ministry's relay orders.
 - **Ellen Prosper (Book 2).** Her two permitted options were a course in Newcastle or her mother's shop in Outer Fenwick. The Schwarzschild letter's second half was posted to an office and never opened.
+
+## Continuity additions (round 6/7, 2026-10-03)
+- **4C origin:** not every singularity was engineered. Some "were simply found, a good deal older than anybody's paperwork" (B1 ch6). Eilstein's horizon is one of these, inherited whole (B2 Page time 1961, 65 years).
+- **Geography:** Larchfield care home is off Pelham Road, Sub-District 6. Ellen Wren lives in Outer Fenwick, on the ridge above Sub-District 6.
+- **B1 calendar:** chapters 1–8 happen on a single Thursday in autumn. The book runs through to November.
+- **B2 countdown:** the notebook day counts run to 9 Feb 2027. The full table is in the B2 MANUSCRIPT_GUIDE, round 7.
+- **Mrs Kind's week:** Thursdays at Marsham Street; other weekdays at Kind & Farrow, Croydon.

@@ -444,3 +444,26 @@ Done by the round-5/6 revision agent on top of the uncommitted round-5 lectures/
 | Chapter Fifteen | 1771 |
 | Lecture. Chapter One | 1955 |
 | Lecture. Chapter Fifteen | 2296 |
+
+## Round 7 (2026-10-03, full-read continuity pass)
+- Geography: Ellen lives in Outer Fenwick, on the ridge above Sub-District 6. Larchfield is off Pelham Road (Sub-District 6), as in Book 1.
+- Countdown to 9 Feb 2027, recomputed for every notebook entry. Dates are 2026.
+
+  | Date | Days left |
+  |---|---|
+  | 9 Jul | 215 |
+  | 15 Jul | ~210 (Fainrose 209) |
+  | 17 Jul | 207 |
+  | 28 Aug | 165 |
+  | 29 Aug | 164 |
+  | 7 Sep | 155 |
+  | 18 Sep | 144 |
+  | Mon 28 Sep | 134 |
+  | Tue 13 Oct (Arakawa week) | 119 |
+  | Sat 24 Oct (Options Day) | 108 |
+
+  Any new notebook count must fit this table.
+- Mrs Kind works at the department on Thursdays, so Delia Price visits Kind & Farrow on a Friday.
+- Tengelman: Lolly met him at the Board of Inquiry (Book 1). The Counsel keeps him on a retainer through the Collegium at Brask.
+- Eilstein says he "carries" eleven thousand years. He does not claim to be that old (ch1 framing).
+- Science wording tightened: spectral-gap undecidability ("no general algorithm"); Arakawa/Esaki dates checked (1957 at age 22, Nobel 16 years later); Kruskal 1960; Casimir sign. Fact-checked the Mental Capacity Act 2005 references s.4(4), s.4(6)(a), s.4(7)(b) and s.1(6).

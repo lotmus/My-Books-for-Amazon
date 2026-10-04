@@ -1865,3 +1865,10 @@ The review fix is in the live Kindle file. Do not restore the previous wording f
 - Lesson 6: the tunnelling derivation gives the Hawking temperature "at leading order"; Unruh works "without needing a black hole" (the accelerating observer still has her own horizon). Same in What sticks.
 - Also-by: Quanta, Actually retired; Quantum, Actually Vol 1 and Vol 2 listed. Straight quotes in the list fixed.
 - Counts: 3,945 paragraphs, 91,475 words (91,405 before); 281 bookmarks, 303 links, 0 broken; TOC matches headings.
+
+## Round 6 (2026-10-03, full-read continuity pass)
+- Timeline: chapters 1–8 happen on one Thursday. Later references now say "yesterday" or "since yesterday morning", not "on Thursday" or "all week".
+- Seasons: the story runs from autumn to November. The office daffodils are silk, and the late light is October light.
+- Eilstein cannot endorse or dismiss Many-Worlds from experience (Everett 1957 came after his 1955 death). His line now reads "being dead has not improved my opinion". The Feynman reference is also worded so the timing works.
+- 4C origin: some singularities "were simply found, a good deal older than anybody's paperwork" (Fainrose, ch6). von Wittenberg's black hole is "small", not "engineered". This matches the 1961 Page time in Book 2.
+- Line fixes in ch4–13: Venn's "Miss—"; the mirror story; the wallpaper colour; notebook word counts; the CHSH "four combinations"; de Broccoli's greeting; one duplicate sentence removed; Dev's fiver is "three years", not a second "since 2019".
