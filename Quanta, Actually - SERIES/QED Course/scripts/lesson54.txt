@@ -32,15 +32,14 @@ Every tool this course has built is now put to use at once. Electron-muon scatte
 | q = p₁−p₃ | Internal photon momentum |
 | L_e^μν, L_μ^μν | Electron and muon tensors |
 
+BOX: First pass: the result before the derivation
+Single-photon exchange gives, at high energy, (1/4)Σ|ℳ|² = 2e⁴(s² + u²)/t² for electron–muon scattering.
+The 1/t² is the photon propagator squared: a strong forward peak, Rutherford's formula in relativistic dress.
+ENDBOX
+
 # 1 The diagram and amplitude
 
-FIG:
-    e⁻(p1) ----*---- e⁻(p3)   
-               |
-               |  γ*  q = p1 − p3
-               |
-    μ⁻(p2) ----*---- μ⁻(p4)   
-ENDFIG
+IMG: L54_emu.png | 3.8 | Figure 54.1. Electron–muon scattering at lowest order: one diagram, one photon in the t-channel, q = p₁ − p₃.
 
 ## 1.1 The process
 
@@ -184,24 +183,26 @@ Lesson 55 now asks what changes when the two colliding particles are identical, 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Explain why the term ψ̄_eγ^μψ_eA_μ(x₁)ψ̄_eγ^νψ_eA_ν(x₂) (both vertices electron-type) does not contribute to electron-muon scattering, and state what process it would instead contribute to. |
-| 2 | Verify the combinatorial factor of 2 in Section 1.2, following the identical reasoning used in Lesson 50, Exercise 8, for Compton scattering. |
-| 3 | Carry out the x₁ and x₂ integrals of Section 1.3 explicitly and derive q=p₁−p₃ from the resulting delta functions. |
-| 4 | Confirm q²=t using Lesson 53's definition t=(p₁−p₃)². |
-| 5 | Verify the overall power of i and factor of e² in Section 1.3's amplitude, following the bookkeeping method of Lesson 50, Worked example 2. |
-| 6 | State the spin-averaging-and-summing factor used in Section 2.1 and explain, citing Lesson 52, Section 1.2, why it is 1/4 rather than 1/2. |
-| 7 | Explain, in your own words, why Section 2.2's factorization into L_e^μν and L_μ,μν would fail if the electron and muon were replaced by two electrons instead. |
-| 8 | Write out Lesson 21, Section 5's general trace formula and substitute p₁→p₁, p₂→p₃ (both electron momenta) to derive Section 3.1's L_e^μν. |
-| 9 | Repeat Exercise 8 for the muon, substituting p₁→p₂, p₂→p₄, m→m_μ, to derive Section 3.2's L_μ,μν. |
-| 10 | Expand L_e^μνL_μ,μν into its nine terms explicitly, following the pattern AA′, AB′, AC′, and so on used in Section 4.1's derivation, and verify at least three of the nine. |
-| 11 | Verify explicitly that the three terms proportional to (p₁·p₃)(p₂·p₄) sum to zero, using the −2, −2, +4 coefficients found in the derivation. |
-| 12 | Verify explicitly that the m_e²m_μ² terms cancel, using the same method as Exercise 11. |
-| 13 | Substitute Lesson 53, Section 5.2's six dot-product relations into Section 4.1's result and derive Section 4.2's expression in terms of s, t, u, m_e, and m_μ. |
-| 14 | Take the m_e,m_μ→0 limit of Section 4.2's result and verify it reduces to 2e⁴(s²+u²)/t². |
-| 15 | Using s+t+u≈0 in the massless limit (Lesson 53, Exercise 16), rewrite 2e⁴(s²+u²)/t² using u≈−s−t, and verify the result is symmetric under s↔u only after this substitution is undone (i.e. confirm the original expression's manifest s↔u symmetry is a genuine property of the physics, not an artifact of the massless approximation). |
-| 16 | Challenge: explain, referring to Worked example 1 and Lesson 50's Compton calculation, why a process between two distinguishable particles never requires the −1 fermion-loop-type sign or the combinatorial doubling associated with identical-particle exchange, previewing the contrast Lesson 55 will draw out in full. |
+| 1 | **Extension.** Explain why the term ψ̄_eγ^μψ_eA_μ(x₁)ψ̄_eγ^νψ_eA_ν(x₂) (both vertices electron-type) does not contribute to electron-muon scattering, and state what process it would instead contribute to. |
+| 2 | **Core.** Verify the combinatorial factor of 2 in Section 1.2, following the identical reasoning used in Lesson 50, Exercise 8, for Compton scattering. |
+| 3 | **Extension.** Carry out the x₁ and x₂ integrals of Section 1.3 explicitly and derive q=p₁−p₃ from the resulting delta functions. |
+| 4 | **Core.** Confirm q²=t using Lesson 53's definition t=(p₁−p₃)². |
+| 5 | **Core.** Verify the overall power of i and factor of e² in Section 1.3's amplitude, following the bookkeeping method of Lesson 50, Worked example 2. |
+| 6 | **Core.** State the spin-averaging-and-summing factor used in Section 2.1 and explain, citing Lesson 52, Section 1.2, why it is 1/4 rather than 1/2. |
+| 7 | **Extension.** Explain, in your own words, why Section 2.2's factorization into L_e^μν and L_μ,μν would fail if the electron and muon were replaced by two electrons instead. |
+| 8 | **Core.** Write out Lesson 21, Section 5's general trace formula and substitute p₁→p₁, p₂→p₃ (both electron momenta) to derive Section 3.1's L_e^μν. |
+| 9 | **Extension.** Repeat Exercise 8 for the muon, substituting p₁→p₂, p₂→p₄, m→m_μ, to derive Section 3.2's L_μ,μν. |
+| 10 | **Core.** Expand L_e^μνL_μ,μν into its nine terms explicitly, following the pattern AA′, AB′, AC′, and so on used in Section 4.1's derivation, and verify at least three of the nine. |
+| 11 | **Core.** Verify explicitly that the three terms proportional to (p₁·p₃)(p₂·p₄) sum to zero, using the −2, −2, +4 coefficients found in the derivation. |
+| 12 | **Extension.** Verify explicitly that the m_e²m_μ² terms cancel, using the same method as Exercise 11. |
+| 13 | **Extension.** Substitute Lesson 53, Section 5.2's six dot-product relations into Section 4.1's result and derive Section 4.2's expression in terms of s, t, u, m_e, and m_μ. |
+| 14 | **Core.** Take the m_e,m_μ→0 limit of Section 4.2's result and verify it reduces to 2e⁴(s²+u²)/t². |
+| 15 | **Extension.** Using s+t+u≈0 in the massless limit (Lesson 53, Exercise 16), rewrite 2e⁴(s²+u²)/t² using u≈−s−t, and verify the result is symmetric under s↔u only after this substitution is undone (i.e. confirm the original expression's manifest s↔u symmetry is a genuine property of the physics, not an artifact of the massless approximation). |
+| 16 | **Challenge.** Explain, referring to Worked example 1 and Lesson 50's Compton calculation, why a process between two distinguishable particles never requires the −1 fermion-loop-type sign or the combinatorial doubling associated with identical-particle exchange, previewing the contrast Lesson 55 will draw out in full. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** This term would connect two electron-current insertions to each other, requiring the external states to include four electron-related particles (some combination of incoming/outgoing electrons or positrons) at the two vertices, with no muon involved at all; it contributes instead to processes such as electron-electron scattering (Lesson 55) or electron self-energy loops (Lesson 64), not to a process with an external muon.
 
@@ -235,16 +236,6 @@ Lesson 55 now asks what changes when the two colliding particles are identical, 
 
 **16.** A −1 sign or combinatorial doubling of the kind Lesson 37 associated with fermion loops, or that Lesson 55 will associate with identical-particle exchange, arises specifically when two field operators of the same type could be contracted with either of two indistinguishable external states, producing genuinely distinct Wick-contraction terms that must be added (with a relative sign, for fermions) or when a closed loop requires a cyclic reordering; here, Worked example 1 already established that only one contraction is possible at all, since ψ_e can never be confused with ψ_μ, so neither phenomenon has any opportunity to arise, and the calculation proceeds with a single term and no exchange-related sign.
 
-# Mastery checklist
+# Mastery check
 
-- I can derive the electron-muon scattering amplitude from the interaction Hamiltonian's Wick contraction, identifying q=p₁−p₃ and q²=t.
-
-- I can state the spin-averaging-and-summing factor and show the calculation factorizes into an electron tensor and a muon tensor.
-
-- I can write down both tensors directly from Lesson 21's trace formula.
-
-- I can contract the two tensors and convert the result into Mandelstam variables, obtaining the general massive result and its massless limit.
-
-- I can combine this lesson's |ℳ|² with the two-body cross-section formula to state an explicit differential cross section.
-
-- I can explain why this process has exactly one diagram, in contrast with Compton scattering or electron-electron scattering.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

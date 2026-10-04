@@ -229,24 +229,26 @@ The propagator S(x − y) constructed in Section 5 is not yet the object used in
 
 @widths 720 9072
 | No | Problem |
-| 1 | Write out the b-b† and d-d† terms of {ψ_a(x), ψ̄_b(y)} explicitly using the mode expansion, and identify which spinor completeness relation of Lesson 22 is used for each. |
-| 2 | Verify (i∂̸_x + m)e^(−ip·(x−y)) = (p̸ + m)e^(−ip·(x−y)) and (i∂̸_x + m)e^(+ip·(x−y)) = (−p̸ + m)e^(+ip·(x−y)) by direct differentiation. |
-| 3 | Using Section 2.1's result, verify that {ψ(x), ψ̄(y)} reduces to the equal-time relation δ³(x − y) postulated in Lesson 36, Section 1.2, when x⁰ = y⁰ (you may quote D(0, x − y) = D(0, y − x) from Lesson 33, Worked example 4, and note that only the ∂_x⁰ piece of i∂̸_x need be tracked at equal times, since the spatial pieces multiply an already-symmetric function). |
-| 4 | Explain in one or two sentences why a differential operator applied to a function that is identically zero throughout an open set gives a function that is still zero throughout that set, and why this justifies the step from "D(x−y)−D(y−x) = 0 for spacelike x − y" to "{ψ(x), ψ̄(y)} = 0 for spacelike x − y." |
-| 5 | Show that [ψ(x), ψ̄(y)] = (i∂̸_x + m)[D(x−y) + D(y−x)] using [d†, d] = −(2π)³δ³ (opposite sign from the anticommutator), filling in the steps of Section 2.3. |
-| 6 | Sketch why quantizing the real scalar field with anticommutators, {a_p, a_q†} = (2π)³δ³ instead of the commutator of Lesson 33, would give a field commutator built from D(x−y) + D(y−x) rather than D(x−y) − D(y−x), and would therefore fail to vanish at spacelike separation. |
-| 7 | For three modes with a fixed order 1, 2, 3, compute c_3†c_1†|0⟩ using the sign rule of Section 4.2, and check the answer by anticommuting c_3† past c_1† directly. |
-| 8 | Show that c_k c_k†|…, 0_k, …⟩ = |…, 0_k, …⟩ and c_k†c_k|…, 1_k, …⟩ = |…, 1_k, …⟩ using the sign rule, and explain why the sign (−1)^(Σ_(i<k)n_i) always cancels between a c_k and a following c_k† acting on the same state. |
-| 9 | Add the results of Sections 5.1 and 5.2 to re-derive {ψ(x), ψ̄(y)} = S(x−y) − (i∂̸_x+m)D(y−x), and confirm it matches Section 2.1's formula. |
-| 10 | Verify (i∂̸_x − m)(i∂̸_x + m) = −□_x − m² using ∂̸_x∂̸_x = □_x (you may cite the identity from Lesson 20 or Lesson 21 that gives γ^μγ^ν∂_μ∂_ν = □ for a symmetric second derivative). |
-| 11 | Using Worked example 5's method, show that S(x−y) also satisfies (i∂̸_x − m)S(x−y) = 0 when the mass in the operator matches the mass used to build D from Lesson 32's dispersion relation, and state why a mismatched mass would spoil the cancellation. |
-| 12 | In the four-point calculation of Section 6.1, identify the exact step at which the anticommutator {ψ⁺(x₁), ψ(x₃)} = 0 is used, and explain why this pairing could never contribute a term to the final answer, in contrast with the scalar case where ⟨φ₁φ₃⟩ is a legitimate nonzero pairing. |
-| 13 | Compute ⟨0|ψ(x₁)ψ̄(x₂)|0⟩⟨0|ψ(x₃)ψ̄(x₄)|0⟩ − ⟨0|ψ(x₁)ψ̄(x₄)|0⟩⟨0|ψ̄(x₂)ψ(x₃)|0⟩ symbolically in terms of S and confirm it matches the boxed result of Section 6.1. |
-| 14 | Using the sign rule of Wick's theorem (Section 6.2), state, without computing it, how many transpositions are needed to bring ψ(x₁) and ψ̄(x₄) adjacent in the ordered product ψ(x₁)ψ̄(x₂)ψ(x₃)ψ̄(x₄), and check that this count has the same parity as the explicit minus sign found in Section 6.1. |
-| 15 | Explain, referencing Lesson 35, Worked example 3, why a six-fermion vacuum expectation value would have 15 terms just as the six-boson case does, but with a definite sign attached to each of the 15, rather than all the same sign. |
-| 16 | Challenge: using the occupation-number sign rule of Section 4.2, show that Q = q(N_b − N_d) commutes with every b_k and d_k (up to the expected eigenvalue shift), by verifying that the sign factor (−1)^(Σ_(i<k)n_i) is unaffected by which mode is being counted by N_b or N_d, so that Q is diagonal in the occupation-number basis with no extra sign complication. |
+| 1 | **Core.** Write out the b-b† and d-d† terms of {ψ_a(x), ψ̄_b(y)} explicitly using the mode expansion, and identify which spinor completeness relation of Lesson 22 is used for each. |
+| 2 | **Core.** Verify (i∂̸_x + m)e^(−ip·(x−y)) = (p̸ + m)e^(−ip·(x−y)) and (i∂̸_x + m)e^(+ip·(x−y)) = (−p̸ + m)e^(+ip·(x−y)) by direct differentiation. |
+| 3 | **Extension.** Using Section 2.1's result, verify that {ψ(x), ψ̄(y)} reduces to the equal-time relation δ³(x − y) postulated in Lesson 36, Section 1.2, when x⁰ = y⁰ (you may quote D(0, x − y) = D(0, y − x) from Lesson 33, Worked example 4, and note that only the ∂_x⁰ piece of i∂̸_x need be tracked at equal times, since the spatial pieces multiply an already-symmetric function). |
+| 4 | **Core.** Explain in one or two sentences why a differential operator applied to a function that is identically zero throughout an open set gives a function that is still zero throughout that set, and why this justifies the step from "D(x−y)−D(y−x) = 0 for spacelike x − y" to "{ψ(x), ψ̄(y)} = 0 for spacelike x − y." |
+| 5 | **Extension.** Show that [ψ(x), ψ̄(y)] = (i∂̸_x + m)[D(x−y) + D(y−x)] using [d†, d] = −(2π)³δ³ (opposite sign from the anticommutator), filling in the steps of Section 2.3. |
+| 6 | **Extension.** Sketch why quantizing the real scalar field with anticommutators, {a_p, a_q†} = (2π)³δ³ instead of the commutator of Lesson 33, would give a field commutator built from D(x−y) + D(y−x) rather than D(x−y) − D(y−x), and would therefore fail to vanish at spacelike separation. |
+| 7 | **Core.** For three modes with a fixed order 1, 2, 3, compute c_3†c_1†|0⟩ using the sign rule of Section 4.2, and check the answer by anticommuting c_3† past c_1† directly. |
+| 8 | **Extension.** Show that c_k c_k†|…, 0_k, …⟩ = |…, 0_k, …⟩ and c_k†c_k|…, 1_k, …⟩ = |…, 1_k, …⟩ using the sign rule, and explain why the sign (−1)^(Σ_(i<k)n_i) always cancels between a c_k and a following c_k† acting on the same state. |
+| 9 | **Core.** Add the results of Sections 5.1 and 5.2 to re-derive {ψ(x), ψ̄(y)} = S(x−y) − (i∂̸_x+m)D(y−x), and confirm it matches Section 2.1's formula. |
+| 10 | **Core.** Verify (i∂̸_x − m)(i∂̸_x + m) = −□_x − m² using ∂̸_x∂̸_x = □_x (you may cite the identity from Lesson 20 or Lesson 21 that gives γ^μγ^ν∂_μ∂_ν = □ for a symmetric second derivative). |
+| 11 | **Extension.** Using Worked example 5's method, show that S(x−y) also satisfies (i∂̸_x − m)S(x−y) = 0 when the mass in the operator matches the mass used to build D from Lesson 32's dispersion relation, and state why a mismatched mass would spoil the cancellation. |
+| 12 | **Extension.** In the four-point calculation of Section 6.1, identify the exact step at which the anticommutator {ψ⁺(x₁), ψ(x₃)} = 0 is used, and explain why this pairing could never contribute a term to the final answer, in contrast with the scalar case where ⟨φ₁φ₃⟩ is a legitimate nonzero pairing. |
+| 13 | **Core.** Compute ⟨0|ψ(x₁)ψ̄(x₂)|0⟩⟨0|ψ(x₃)ψ̄(x₄)|0⟩ − ⟨0|ψ(x₁)ψ̄(x₄)|0⟩⟨0|ψ̄(x₂)ψ(x₃)|0⟩ symbolically in terms of S and confirm it matches the boxed result of Section 6.1. |
+| 14 | **Extension.** Using the sign rule of Wick's theorem (Section 6.2), state, without computing it, how many transpositions are needed to bring ψ(x₁) and ψ̄(x₄) adjacent in the ordered product ψ(x₁)ψ̄(x₂)ψ(x₃)ψ̄(x₄), and check that this count has the same parity as the explicit minus sign found in Section 6.1. |
+| 15 | **Core.** Explain, referencing Lesson 35, Worked example 3, why a six-fermion vacuum expectation value would have 15 terms just as the six-boson case does, but with a definite sign attached to each of the 15, rather than all the same sign. |
+| 16 | **Challenge.** Using the occupation-number sign rule of Section 4.2, show that Q = q(N_b − N_d) commutes with every b_k and d_k (up to the expected eigenvalue shift), by verifying that the sign factor (−1)^(Σ_(i<k)n_i) is unaffected by which mode is being counted by N_b or N_d, so that Q is diagonal in the occupation-number basis with no extra sign complication. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** The b-b† term is ∫d³p/((2π)³2E_p) u_s(p)_a ū_s(p)_b e^(−ip·(x−y)), using Σ_s u_s(p)ū_s(p) = p̸ + m (Lesson 22, Section 6.1, the u-completeness relation). The d-d† term is ∫d³p/((2π)³2E_p) v_s(p)_a v̄_s(p)_b e^(+ip·(x−y)), using Σ_s v_s(p)v̄_s(p) = p̸ − m (the v-completeness relation, same section).
 
@@ -280,20 +282,6 @@ The propagator S(x − y) constructed in Section 5 is not yet the object used in
 
 **16.** Q = q(N_b − N_d) with N_b = Σ_k b_k†b_k (schematically, one mode per momentum and spin) is diagonal in the occupation-number basis, with eigenvalue q Σ_k(n_(b,k) − n_(d,k)) on |{n_(b,k)}, {n_(d,k)}⟩. Acting with a single b_j on such an eigenstate, the sign factor (−1)^(Σ_(i<j)n_i) from Section 4.2 depends only on which modes with label less than j are occupied, a property of the state itself, not of which operator (b_j, b_j†, or any N_k in the sum defining Q) is being applied; since every term of Q is itself diagonal (built from b_k†b_k or d_k†d_k, each of which returns the same state up to its eigenvalue, with no net sign, by Exercise 8), Q passes through the sign factor unchanged, and one finds [Q, b_j] = −q b_j and [Q, d_j] = +q d_j, the expected charge-lowering and charge-raising commutators, with no extra complication from the ordering sign.
 
-# Mastery checklist
+# Mastery check
 
-- I can state, in outline, why the constrained structure of the Dirac Lagrangian favors a symmetric bracket, without needing the full Grassmann formalism.
-
-- I can derive {ψ(x), ψ̄(y)} = (i∂̸_x+m)[D(x−y)−D(y−x)] from the mode expansion and the spinor completeness relations.
-
-- I can explain why this anticommutator vanishes at spacelike separation and why the corresponding commutator would not.
-
-- I can state the spin-statistics theorem and name the two arguments, boundedness and causality, that verify it for the free Dirac and scalar fields.
-
-- I can apply the sign rule for creation and annihilation operators on an ordered occupation-number state and relate it to the sign of a determinant under column exchange.
-
-- I can define S(x−y) and show it satisfies the free Dirac equation.
-
-- I can derive the four-fermion vacuum expectation value and identify where its relative minus sign comes from.
-
-- I can explain, at least in outline, why a closed fermion loop in a Feynman diagram carries an overall minus sign.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

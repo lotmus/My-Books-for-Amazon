@@ -158,24 +158,26 @@ Lesson 44 turns from the field itself to the constant e sitting in front of the 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Verify F_21=B_z, F_13=B_y, and F_32=B_x from F_ij=−ε_ijkB_k, extending Worked example 1's method to each. |
-| 2 | Confirm F^0i=−E_i and F^i0=E_i by explicitly raising the indices of F_0i=E_i and F_i0=−E_i using the metric diag(+,−,−,−). |
-| 3 | State why F^ij=F_ij (no sign change) while F^0i=−F_0i, using the general rule for how each type of index raises under this metric. |
-| 4 | Count the number of independent nonzero entries in the F_μν matrix directly by inspection, and confirm it equals six, matching Section 1.2. |
-| 5 | Explain briefly why F_μν's six components are gauge invariant (state which earlier lesson established this) even though A_μ, from which F_μν is built, is not. |
-| 6 | Write out F_μν=∂_μA_ν−∂_νA_μ explicitly in matrix form for a purely time-independent, purely electric configuration (A_i=0, A_0=φ(x) only) and verify it matches the E-only entries of Section 1.1's general matrix with B=0. |
-| 7 | Expand ∂_λF_μν+∂_μF_νλ+∂_νF_λμ in terms of A_μ and show explicitly that every one of the six resulting terms cancels against another, confirming the identity of Section 2.1. |
-| 8 | Choose (λ,μ,ν)=(0,2,3) and (0,3,1) in Section 2.1's identity and derive the remaining two components of Faraday's law, completing the derivation begun in Section 2.2 for the z-component. |
-| 9 | Reproduce the full computation of F_μνF^μν=2(B²−E²) by summing all sixteen terms of the product F_μνF^μν explicitly, grouping them as in Section 4.1. |
-| 10 | Confirm ∇×B−∂E/∂t=j (Section 3.2) reduces, in a static situation with ∂E/∂t=0, to the familiar magnetostatic Ampère's law ∇×B=j, and state what physical assumption (steady currents, no time-varying fields) justifies dropping the displacement current in that limit. |
-| 11 | Using the matrix of F^μν from Section 1.1, verify directly that ∂_jF^ji=(∇×B)_i by writing out the i=1 (x) component explicitly in terms of ∂_yB_z and ∂_zB_y. |
-| 12 | Compute F̃^02 and F̃^03 directly from the definition F̃^μν=(1/2)ε^μνρσF_ρσ, following the method used for F̃^01 in Section 4.2, and confirm both equal −B_2 and −B_3 respectively. |
-| 13 | Compute F̃^12 directly from the definition, and confirm it equals E_z, completing the pattern used to state F_μνF̃^μν=−4E·B in Section 4.2. |
-| 14 | Explain, in one or two sentences, why F_μνF^μν and F_μνF̃^μν, despite being built by contracting all four indices of tensors that individually depend on the observer's frame, are themselves frame-independent numbers. |
-| 15 | For a plane wave configuration with E and B equal in magnitude and perpendicular (E·B=0, E²=B²), evaluate both invariants and explain, using Section 4.3, why no boost can change either value away from zero. |
-| 16 | Challenge: for a general field configuration with both invariants nonzero, F_μνF^μν=2(B²−E²)=C₁ and F_μνF̃^μν=−4E·B=C₂, explain (without solving explicitly for the boost) why, if C₁>0 and C₂=0, some boost exists making E=0 everywhere (a purely magnetic frame), while if C₁<0 and C₂=0, some boost instead makes B=0 everywhere (a purely electric frame); state which case corresponds to a purely electrostatic configuration as in Worked example 4. |
+| 1 | **Core.** Verify F_21=B_z, F_13=B_y, and F_32=B_x from F_ij=−ε_ijkB_k, extending Worked example 1's method to each. |
+| 2 | **Core.** Confirm F^0i=−E_i and F^i0=E_i by explicitly raising the indices of F_0i=E_i and F_i0=−E_i using the metric diag(+,−,−,−). |
+| 3 | **Core.** State why F^ij=F_ij (no sign change) while F^0i=−F_0i, using the general rule for how each type of index raises under this metric. |
+| 4 | **Core.** Count the number of independent nonzero entries in the F_μν matrix directly by inspection, and confirm it equals six, matching Section 1.2. |
+| 5 | **Core.** Explain briefly why F_μν's six components are gauge invariant (state which earlier lesson established this) even though A_μ, from which F_μν is built, is not. |
+| 6 | **Core.** Write out F_μν=∂_μA_ν−∂_νA_μ explicitly in matrix form for a purely time-independent, purely electric configuration (A_i=0, A_0=φ(x) only) and verify it matches the E-only entries of Section 1.1's general matrix with B=0. |
+| 7 | **Core.** Expand ∂_λF_μν+∂_μF_νλ+∂_νF_λμ in terms of A_μ and show explicitly that every one of the six resulting terms cancels against another, confirming the identity of Section 2.1. |
+| 8 | **Extension.** Choose (λ,μ,ν)=(0,2,3) and (0,3,1) in Section 2.1's identity and derive the remaining two components of Faraday's law, completing the derivation begun in Section 2.2 for the z-component. |
+| 9 | **Extension.** Reproduce the full computation of F_μνF^μν=2(B²−E²) by summing all sixteen terms of the product F_μνF^μν explicitly, grouping them as in Section 4.1. |
+| 10 | **Extension.** Confirm ∇×B−∂E/∂t=j (Section 3.2) reduces, in a static situation with ∂E/∂t=0, to the familiar magnetostatic Ampère's law ∇×B=j, and state what physical assumption (steady currents, no time-varying fields) justifies dropping the displacement current in that limit. |
+| 11 | **Core.** Using the matrix of F^μν from Section 1.1, verify directly that ∂_jF^ji=(∇×B)_i by writing out the i=1 (x) component explicitly in terms of ∂_yB_z and ∂_zB_y. |
+| 12 | **Extension.** Compute F̃^02 and F̃^03 directly from the definition F̃^μν=(1/2)ε^μνρσF_ρσ, following the method used for F̃^01 in Section 4.2, and confirm both equal −B_2 and −B_3 respectively. |
+| 13 | **Extension.** Compute F̃^12 directly from the definition, and confirm it equals E_z, completing the pattern used to state F_μνF̃^μν=−4E·B in Section 4.2. |
+| 14 | **Extension.** Explain, in one or two sentences, why F_μνF^μν and F_μνF̃^μν, despite being built by contracting all four indices of tensors that individually depend on the observer's frame, are themselves frame-independent numbers. |
+| 15 | **Extension.** For a plane wave configuration with E and B equal in magnitude and perpendicular (E·B=0, E²=B²), evaluate both invariants and explain, using Section 4.3, why no boost can change either value away from zero. |
+| 16 | **Challenge.** For a general field configuration with both invariants nonzero, F_μνF^μν=2(B²−E²)=C₁ and F_μνF̃^μν=−4E·B=C₂, explain (without solving explicitly for the boost) why, if C₁>0 and C₂=0, some boost exists making E=0 everywhere (a purely magnetic frame), while if C₁<0 and C₂=0, some boost instead makes B=0 everywhere (a purely electric frame); state which case corresponds to a purely electrostatic configuration as in Worked example 4. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** F_21=−F_12=−(−B_z)=B_z. For F_13: F_13=−ε_13kB_k, nonzero only for k=2, and ε_132=−1 (an odd permutation of 123, swapping the last two indices), so F_13=−(−1)B_2=B_y. For F_32: F_32=−F_23=−(−B_x)=B_x, using F_23=−ε_23kB_k with k=1, ε_231=+1 (a cyclic, even permutation of 123), giving F_23=−B_x.
 
@@ -209,18 +211,6 @@ Lesson 44 turns from the field itself to the constant e sitting in front of the 
 
 **16.** If C₁=2(B²−E²)>0 with C₂=−4E·B=0, then B²>E², and it is a standard fact that a boost exists reducing E to zero exactly when E·B=0 and B²>E² in some frame (with the resulting frame's field being purely the leftover magnetic part); with C₂=0 as given, this condition is satisfied, so a purely magnetic frame exists. If instead C₁<0 (E²>B²) with C₂=0, the analogous boost instead removes B, leaving a purely electric frame; this second case, E²>B² with B=0 already in one frame, matches exactly the purely electrostatic configuration of Worked example 4, where C₁=−2E²<0 and C₂=0 were found directly.
 
-# Mastery checklist
+# Mastery check
 
-- I can write the full matrix of F_μν and F^μν in terms of E and B from the established sign convention.
-
-- I can derive ∂_λF_μν+∂_μF_νλ+∂_νF_λμ=0 and explain why it requires no dynamics.
-
-- I can show this identity reproduces ∇·B=0 and Faraday's law.
-
-- I can reduce ∂_μF^μν=j^ν to Gauss's law and the Ampère-Maxwell law explicitly.
-
-- I can compute F_μνF^μν=2(B²−E²) directly from the matrix components.
-
-- I can define the dual tensor and state F_μνF̃^μν=−4E·B.
-
-- I can explain, using these two invariants, why a plane wave's E=B, E·B=0 property is frame-independent.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

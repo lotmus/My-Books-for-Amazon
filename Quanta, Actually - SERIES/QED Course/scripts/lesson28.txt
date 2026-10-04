@@ -40,6 +40,11 @@ The theorem is the reason electric charge is conserved, and the reason it is nat
 | T^μ_ν | Canonical energy-momentum tensor, the Noether current of translations |
 | ℋ | Hamiltonian density |
 
+BOX: First pass: the result before the derivation
+Every continuous symmetry of the action gives a conserved current: ∂_μj^μ = 0. For the phase symmetry ψ → e^(iα)ψ of the electron field, the current is ψ̄γ^μψ.
+Charge conservation is a consequence of a phase symmetry. Making that phase local is the step that creates QED (Lesson 39).
+ENDBOX
+
 # 1 Symmetry and conservation
 
 ## 1.1 What a symmetry is
@@ -217,24 +222,26 @@ The most important entry is the seventh. When the parameter of a global symmetry
 
 @widths 720 9072
 | No | Problem |
-| 1 | Starting from δℒ = ε∂_μK^μ and the Euler–Lagrange equations, derive ∂_μj^μ = 0 for j^μ = Σ_a[∂ℒ/∂(∂_μφ_a)]Δφ_a − K^μ, filling in each step of Section 2.2. |
-| 2 | For ℒ = (1/2)∂_μφ∂^μφ − (1/2)m²φ², show that the shift φ → φ + ε changes ℒ by −εm²φ, that this is not a total derivative for m ≠ 0, and verify that j^μ = ∂^μφ is then not conserved: compute ∂_μj^μ using the Klein–Gordon equation. |
-| 3 | For the complex scalar, verify ∂_μj^μ = 0 for j^μ = −i(φ*∂^μφ − φ∂^μφ*) using the equations (□ + m²)φ = 0 and (□ + m²)φ* = 0. |
-| 4 | For two real scalars of masses m₁ and m₂, show that j^μ = φ₁∂^μφ₂ − φ₂∂^μφ₁ has ∂_μj^μ = (m₁² − m₂²)φ₁φ₂ and explain what this says about the O(2) rotation symmetry. |
-| 5 | For the Dirac field with Δψ = iψ, derive j^μ = −ψ̄γ^μψ and verify ∂_μj^μ = 0 using the Dirac equation and its adjoint. |
-| 6 | For L = (1/2)q̇² − gq, find K for the shift q → q + ε and verify that q̇ + gt is conserved. |
-| 7 | For a particle Lagrangian L(q, q̇) with no explicit time dependence, use the transformation δq = εq̇, for which δL = ε dL/dt, to show that the Noether quantity is the energy function h = q̇∂L/∂q̇ − L of Lesson 5, Section 4.2. |
-| 8 | For the complex scalar, compute the momenta π = ∂ℒ/∂φ̇ and π* = ∂ℒ/∂φ̇*, write Q = ∫d³x(πΔφ + π*Δφ*) with Δφ = iφ, and show {φ(x), Q} = iφ(x) using {φ(x), π(y)} = δ³(x − y) and {φ(x), π*(y)} = 0. |
-| 9 | For the complex scalar, compute dQ/dt directly from Q = ∫d³x i(φ∂_tφ* − φ*∂_tφ) using the field equations and the divergence theorem, and confirm it vanishes. |
-| 10 | Under φ → e^(iε(x))φ, use Lesson 26, Exercise 6, to show that δℒ = (∂_με)i(φ∂^μφ* − φ*∂^μφ) to first order in ε, and identify the current as the coefficient of ∂_με. |
-| 11 | Show that if j^μ is conserved and A^(νμ) is antisymmetric, then j′^μ = j^μ + ∂_νA^(νμ) is conserved, and that j′ and j give the same charge Q when A^(ν0) vanishes at infinity. |
-| 12 | Explain why parity, which maps φ(t, x) → φ(t, −x), has no infinitesimal parameter and so gives no Noether current. |
-| 13 | Show that the rescaling φ → (1 + ε)φ maps solutions of the free Klein–Gordon equation to solutions, but changes ℒ by 2εℒ, which is not a total derivative for general field configurations, so Noether's theorem gives no conserved current from it. |
-| 14 | For N real scalar fields of equal mass, show that J^μ_(ab) = φ_a∂^μφ_b − φ_b∂^μφ_a is conserved for every pair a < b, and count the independent conserved currents. |
-| 15 | In natural units the fields have the dimensions found in Lesson 26, Section 7. Show that j^μ for the complex scalar has dimension 3 and that Q = ∫d³x j⁰ is dimensionless. |
-| 16 | Challenge: for the free real scalar field, compute T^μ_ν = [∂ℒ/∂(∂_μφ)]∂_νφ − δ^μ_νℒ, show that T^(μν) = ∂^μφ∂^νφ − g^(μν)ℒ, verify T^(00) = ℋ, and verify ∂_μT^(μν) = 0 using the Klein–Gordon equation. |
+| 1 | **Extension.** Starting from δℒ = ε∂_μK^μ and the Euler–Lagrange equations, derive ∂_μj^μ = 0 for j^μ = Σ_a[∂ℒ/∂(∂_μφ_a)]Δφ_a − K^μ, filling in each step of Section 2.2. |
+| 2 | **Extension.** For ℒ = (1/2)∂_μφ∂^μφ − (1/2)m²φ², show that the shift φ → φ + ε changes ℒ by −εm²φ, that this is not a total derivative for m ≠ 0, and verify that j^μ = ∂^μφ is then not conserved: compute ∂_μj^μ using the Klein–Gordon equation. |
+| 3 | **Core.** For the complex scalar, verify ∂_μj^μ = 0 for j^μ = −i(φ*∂^μφ − φ∂^μφ*) using the equations (□ + m²)φ = 0 and (□ + m²)φ* = 0. |
+| 4 | **Extension.** For two real scalars of masses m₁ and m₂, show that j^μ = φ₁∂^μφ₂ − φ₂∂^μφ₁ has ∂_μj^μ = (m₁² − m₂²)φ₁φ₂ and explain what this says about the O(2) rotation symmetry. |
+| 5 | **Core.** For the Dirac field with Δψ = iψ, derive j^μ = −ψ̄γ^μψ and verify ∂_μj^μ = 0 using the Dirac equation and its adjoint. |
+| 6 | **Core.** For L = (1/2)q̇² − gq, find K for the shift q → q + ε and verify that q̇ + gt is conserved. |
+| 7 | **Core.** For a particle Lagrangian L(q, q̇) with no explicit time dependence, use the transformation δq = εq̇, for which δL = ε dL/dt, to show that the Noether quantity is the energy function h = q̇∂L/∂q̇ − L of Lesson 5, Section 4.2. |
+| 8 | **Core.** For the complex scalar, compute the momenta π = ∂ℒ/∂φ̇ and π* = ∂ℒ/∂φ̇*, write Q = ∫d³x(πΔφ + π*Δφ*) with Δφ = iφ, and show {φ(x), Q} = iφ(x) using {φ(x), π(y)} = δ³(x − y) and {φ(x), π*(y)} = 0. |
+| 9 | **Core.** For the complex scalar, compute dQ/dt directly from Q = ∫d³x i(φ∂_tφ* − φ*∂_tφ) using the field equations and the divergence theorem, and confirm it vanishes. |
+| 10 | **Core.** Under φ → e^(iε(x))φ, use Lesson 26, Exercise 6, to show that δℒ = (∂_με)i(φ∂^μφ* − φ*∂^μφ) to first order in ε, and identify the current as the coefficient of ∂_με. |
+| 11 | **Extension.** Show that if j^μ is conserved and A^(νμ) is antisymmetric, then j′^μ = j^μ + ∂_νA^(νμ) is conserved, and that j′ and j give the same charge Q when A^(ν0) vanishes at infinity. |
+| 12 | **Extension.** Explain why parity, which maps φ(t, x) → φ(t, −x), has no infinitesimal parameter and so gives no Noether current. |
+| 13 | **Extension.** Show that the rescaling φ → (1 + ε)φ maps solutions of the free Klein–Gordon equation to solutions, but changes ℒ by 2εℒ, which is not a total derivative for general field configurations, so Noether's theorem gives no conserved current from it. |
+| 14 | **Extension.** For N real scalar fields of equal mass, show that J^μ_(ab) = φ_a∂^μφ_b − φ_b∂^μφ_a is conserved for every pair a < b, and count the independent conserved currents. |
+| 15 | **Core.** In natural units the fields have the dimensions found in Lesson 26, Section 7. Show that j^μ for the complex scalar has dimension 3 and that Q = ∫d³x j⁰ is dimensionless. |
+| 16 | **Challenge.** For the free real scalar field, compute T^μ_ν = [∂ℒ/∂(∂_μφ)]∂_νφ − δ^μ_νℒ, show that T^(μν) = ∂^μφ∂^νφ − g^(μν)ℒ, verify T^(00) = ℋ, and verify ∂_μT^(μν) = 0 using the Klein–Gordon equation. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Compute δℒ = ε{(∂ℒ/∂φ_a)Δφ_a + [∂ℒ/∂(∂_μφ_a)]∂_μΔφ_a}, summed over a. On solutions ∂ℒ/∂φ_a = ∂_μ[∂ℒ/∂(∂_μφ_a)], so δℒ = ε{∂_μ[∂ℒ/∂(∂_μφ_a)]Δφ_a + [∂ℒ/∂(∂_μφ_a)]∂_μΔφ_a} = ε∂_μ{[∂ℒ/∂(∂_μφ_a)]Δφ_a} by the product rule. The symmetry condition gives δℒ = ε∂_μK^μ. Equating and dividing by ε, ∂_μ{[∂ℒ/∂(∂_μφ_a)]Δφ_a − K^μ} = 0.
 
@@ -268,20 +275,6 @@ The most important entry is the seventh. When the parameter of a global symmetry
 
 **16.** With ℒ = (1/2)∂_αφ∂^αφ − (1/2)m²φ², ∂ℒ/∂(∂_μφ) = ∂^μφ, so T^μ_ν = ∂^μφ∂_νφ − δ^μ_νℒ, and raising the index gives T^(μν) = ∂^μφ∂^νφ − g^(μν)ℒ. Then T^(00) = φ̇² − ℒ = φ̇² − (1/2)φ̇² + (1/2)(∇φ)² + (1/2)m²φ² = (1/2)φ̇² + (1/2)(∇φ)² + (1/2)m²φ² = ℋ. For the divergence, ∂_μT^(μν) = □φ∂^νφ + ∂^μφ∂_μ∂^νφ − ∂^νℒ. Using □φ = −m²φ and ∂^νℒ = ∂_μφ∂^ν∂^μφ − m²φ∂^νφ, this is −m²φ∂^νφ + ∂^μφ∂^ν∂_μφ − ∂_μφ∂^ν∂^μφ + m²φ∂^νφ = 0.
 
-# Mastery checklist
+# Mastery check
 
-- I can state Noether's theorem and write the conserved current for a given continuous symmetry.
-
-- I can derive the current from the equations of motion and the symmetry condition δℒ = ε∂_μK^μ.
-
-- I can derive the same current from a position-dependent symmetry parameter and explain why this version leads to gauge invariance.
-
-- I can compute the Noether current of the shift symmetry, the complex scalar phase symmetry, and the Dirac phase symmetry.
-
-- I can handle a symmetry for which the Lagrangian changes by a total derivative by including K^μ.
-
-- I can show that the charge Q is conserved and that it generates the symmetry through {φ_a, Q} = Δφ_a.
-
-- I can identify the energy density as the time component of the Noether current of time translation.
-
-- I can say what the theorem does not cover: discrete symmetries, symmetries of the equations alone, and the ambiguity of the current.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

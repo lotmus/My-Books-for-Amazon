@@ -9,6 +9,10 @@ The Lagrangian formulation of Lesson 5 is the natural language for writing down 
 
 The lesson moves from the Legendre transformation to Hamilton's equations, then to phase space and Poisson brackets, and ends with the two examples that matter most for QED: the harmonic oscillator in complex variables, and the charged particle with its minimal coupling rule. The final section states the rule that turns all of it into quantum mechanics. Expect six to eight focused hours.
 
+BOX: Plain-language start
+The Hamiltonian is the energy written in terms of positions and momenta. It is the bridge to quantum mechanics: in Lesson 12 the same Hamiltonian becomes the machine that turns the arrows of a quantum state.
+ENDBOX
+
 ## Learning objectives
 
 - Perform the Legendre transformation from the Lagrangian to the Hamiltonian.
@@ -265,24 +269,26 @@ The photon field in Lesson 38 is quantized by writing it as a sum of oscillators
 
 @widths 720 9072
 | No | Problem |
-| 1 | For L = (1/2)mq̇² − V(q), find H, write Hamilton's equations, and show they are equivalent to Newton's law. |
-| 2 | Solve Hamilton's equations for the oscillator with q(0) = q₀ and p(0) = 0. Find the semi-axes of the phase-space ellipse and verify that its area is 2πE/ω. |
-| 3 | Find the Hamiltonian of the free relativistic particle from L = −m√(1 − v²). |
-| 4 | Write the Hamiltonian of the pendulum, find the energy of the separatrix, and describe the two kinds of trajectory. |
-| 5 | Show from Hamilton's equations that dH/dt = ∂H/∂t. |
-| 6 | Prove Liouville's theorem by computing the divergence of the phase-space velocity field. |
-| 7 | Compute {q², p}, {q, p²}, and {f(q), p} for an arbitrary function f. |
-| 8 | Show that {L², Lᵢ} = 0 using {Lᵢ, Lⱼ} = εᵢⱼₖLₖ and the Leibniz rule. |
-| 9 | For H = p²/2m + V(r) with r = \|x\|, show that {L_z, H} = 0 and hence that L_z is conserved. |
-| 10 | Show that δf = ε{f, L_z} rotates the coordinates: δx = −εy, δy = εx, δz = 0. |
-| 11 | With a = (mωq + ip)/√(2mω), verify H = ωa*a and derive ȧ = −iωa from Hamilton's equation for a. |
-| 12 | From H = (p − qA)²/2m + qφ, write Hamilton's equations and show they give m dv/dt = q(E + v × B). |
-| 13 | For a uniform magnetic field with A = (−By, 0, 0), find the conserved momenta, the cyclotron frequency, and the center of the circular orbit. |
-| 14 | Derive H = √((p − qA)² + m²) + qφ from L = −m√(1 − v²) − qφ + q v·A. |
-| 15 | Show that Q = p, P = −q is a canonical transformation ({Q, P} = 1) and write Hamilton's equations for the oscillator in the new variables. |
-| 16 | Challenge: with [q, p] = i, show that [a, a†] = 1 for a = (mωq + ip)/√(2mω), that H = ω(a†a + 1/2), and that the Heisenberg equation gives a(t) = a(0)e^(−iωt). |
+| 1 | **Core.** For L = (1/2)mq̇² − V(q), find H, write Hamilton's equations, and show they are equivalent to Newton's law. |
+| 2 | **Core.** Solve Hamilton's equations for the oscillator with q(0) = q₀ and p(0) = 0. Find the semi-axes of the phase-space ellipse and verify that its area is 2πE/ω. |
+| 3 | **Core.** Find the Hamiltonian of the free relativistic particle from L = −m√(1 − v²). |
+| 4 | **Extension.** Write the Hamiltonian of the pendulum, find the energy of the separatrix, and describe the two kinds of trajectory. |
+| 5 | **Core.** Show from Hamilton's equations that dH/dt = ∂H/∂t. |
+| 6 | **Extension.** Prove Liouville's theorem by computing the divergence of the phase-space velocity field. |
+| 7 | **Core.** Compute {q², p}, {q, p²}, and {f(q), p} for an arbitrary function f. |
+| 8 | **Core.** Show that {L², Lᵢ} = 0 using {Lᵢ, Lⱼ} = εᵢⱼₖLₖ and the Leibniz rule. |
+| 9 | **Extension.** For H = p²/2m + V(r) with r = \|x\|, show that {L_z, H} = 0 and hence that L_z is conserved. |
+| 10 | **Core.** Show that δf = ε{f, L_z} rotates the coordinates: δx = −εy, δy = εx, δz = 0. |
+| 11 | **Core.** With a = (mωq + ip)/√(2mω), verify H = ωa*a and derive ȧ = −iωa from Hamilton's equation for a. |
+| 12 | **Extension.** From H = (p − qA)²/2m + qφ, write Hamilton's equations and show they give m dv/dt = q(E + v × B). |
+| 13 | **Extension.** For a uniform magnetic field with A = (−By, 0, 0), find the conserved momenta, the cyclotron frequency, and the center of the circular orbit. |
+| 14 | **Extension.** Derive H = √((p − qA)² + m²) + qφ from L = −m√(1 − v²) − qφ + q v·A. |
+| 15 | **Extension.** Show that Q = p, P = −q is a canonical transformation ({Q, P} = 1) and write Hamilton's equations for the oscillator in the new variables. |
+| 16 | **Challenge.** With [q, p] = i, show that [a, a†] = 1 for a = (mωq + ip)/√(2mω), that H = ω(a†a + 1/2), and that the Heisenberg equation gives a(t) = a(0)e^(−iωt). |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** p = mq̇, H = p²/(2m) + V(q). Hamilton's equations: q̇ = p/m and ṗ = −V′(q). Combining, mq̈ = −V′(q).
 
@@ -316,20 +322,6 @@ The photon field in Lesson 38 is quantized by writing it as a sum of oscillators
 
 **16.** [a, a†] = (1/2mω)[mωq + ip, mωq − ip] = (1/2mω)(−imω[q, p] + imω[p, q]) = (1/2mω)(mω + mω) = 1. Substituting q = (a + a†)/√(2mω) and p = −i√(mω/2)(a − a†) into H gives H = (ω/2)(aa† + a†a) = ω(a†a + 1/2) using aa† = a†a + 1. The Heisenberg equation ȧ = i[H, a] = iω[a†a, a] = iω(−a) = −iωa, so a(t) = a(0)e^(−iωt), as in the classical case.
 
-# Mastery checklist
+# Mastery check
 
-- I can perform the Legendre transformation for any Lagrangian with an invertible velocity dependence.
-
-- I can write Hamilton's equations from memory with the correct signs and solve them for the oscillator.
-
-- I can draw the phase portrait of the oscillator and the pendulum and locate the separatrix.
-
-- I can compute Poisson brackets of polynomials in q and p and of angular momentum components.
-
-- I can state the relation df/dt = {f, H} and use it to test whether a quantity is conserved.
-
-- I can rewrite the oscillator with a and a*, obtain H = ωa*a, and derive a(t) = a(0)e^(−iωt).
-
-- I can write the charged-particle Hamiltonian and state the minimal coupling rule in four-vector form.
-
-- I can state Dirac's quantization rule and apply it to obtain [a, a†] = 1 and the zero-point energy.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

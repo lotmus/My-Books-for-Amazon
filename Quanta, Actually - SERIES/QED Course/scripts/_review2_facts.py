@@ -5,7 +5,7 @@ ROOT = _os.path.dirname(HERE)
 from docx import Document
 from collections import Counter
 
-p = _os.path.join(ROOT, "Complete QED Course.docx")
+p = _os.path.join(ROOT, "Quantum, Actually - Volume 2.docx")
 d = Document(p)
 paras = d.paragraphs
 words = sum(len(x.text.split()) for x in paras)

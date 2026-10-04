@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Replace the capstone and formula index in Complete QED Course.docx
+"""Replace the capstone and formula index in Quantum, Actually - Volume 2.docx
 with text that matches the written lessons, and insert a glossary."""
 import os
 import sys
@@ -35,7 +35,7 @@ def find_start(body, prefix):
 GLOSSARY = [
     ("arrow", "Prologue 1 amplitude: a length and a direction in a plane. Probability = (length)²."),
     ("diagram", "Cartoon of the three QED actions; one term in ℳ (Prologue 9, Lesson 50). Not a bubble-chamber photograph."),
-    ("S-parameter", "Microwave in-to-out amplitude; laboratory cousin of ⟨f|S|i⟩ (Prologue 8)."),
+    ("S-parameter", "Microwave in-to-out amplitude; laboratory cousin of ⟨f|S|i⟩ (Prologue 9)."),
     ("α", "Fine-structure constant, α=e²/4π≈1/137.036 at low energy (Lesson 44). Runs with q² (Lesson 69)."),
     ("α(q²)", "Effective coupling at momentum transfer q, Lesson 69."),
     ("β(e)", "μ de/dμ. One-loop QED, one charged fermion: e³/(12π²) (Lesson 70)."),

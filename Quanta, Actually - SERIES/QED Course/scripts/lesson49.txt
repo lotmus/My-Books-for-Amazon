@@ -111,6 +111,8 @@ Explain why the photon's incoming and outgoing factors differ only in the sign o
 | Incoming photon, momentum k, polarization λ | ε_λ,μ(k) |
 | Outgoing photon, momentum k, polarization λ | ε_λ,μ(k) |
 
+IMG: L52_external.png | 6.0 | Figure 49.1. The six external-line factors at a glance: u and ū for electrons, v̄ and v for positrons, ε and ε* for photons.
+
 ## 5.2 Assembling e⁻e⁺→γ at a single vertex
 
 Consider an incoming electron of momentum p, spin s, an incoming positron of momentum p_+, spin s_+, and an outgoing photon of momentum k, polarization λ, meeting at a single vertex. Following the fermion line through the vertex (incoming electron enters, incoming positron's line continues through as if it were an outgoing electron running backward, per the antiparticle reinterpretation of Lesson 23), the amplitude is built by placing the barred spinor on the left of the vertex factor and the unbarred spinor on the right:
@@ -128,6 +130,8 @@ State the general placement rule illustrated by comparing Lesson 45's assembly w
 ## 6.1 The vertex does not "know" which legs are attached
 
 The derivation of Lesson 45, Section 3, extracted ieγ^μ only after every leg-specific factor had been stripped away; nothing about that extraction referred to whether the legs involved were electrons, positrons, or photons, or whether they were incoming or outgoing. The vertex factor is a property of the interaction term ψ̄γ^μψA_μ itself, fixed once and for all, while Section 5.1's table supplies whatever is attached to each of its three legs in a specific diagram.
+
+IMG: L49_vertices.png | 6.0 | Figure 49.2. One vertex, several processes. Rotating the same vertex gives emission, absorption, pair creation and annihilation.
 
 ## 6.2 Consistency with universality
 
@@ -165,24 +169,26 @@ Lesson 50 now has every ingredient needed to state the complete, formal Feynman 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Restate, from Lesson 45, the incoming- and outgoing-electron leg factors, and explain why Lesson 45's derivation did not depend on which specific process they were used in. |
-| 2 | Conjugate ψ(x)'s b_s(p)u_s(p)e^(−ipx) term explicitly and show it becomes b_s†(p)u_s†(p)e^(ipx) in ψ†(x). |
-| 3 | Conjugate ψ(x)'s d_s†(p)v_s(p)e^(ipx) term explicitly and show it becomes d_s(p)v_s†(p)e^(−ipx) in ψ†(x). |
-| 4 | Multiply the result of Exercise 3 by γ⁰ and use v̄=v†γ⁰ to derive the d_s(p)v̄_s(p)e^(−ipx) term of ψ̄(x). |
-| 5 | Explain why this term, not any term of ψ(x), is the one responsible for annihilating an incoming positron. |
-| 6 | State which term of ψ(x) is responsible for creating an outgoing positron, and its contribution v_s′(p′)e^(ip′x). |
-| 7 | Using Worked example 1's mnemonic, explain in your own words why dagger-ing a field always swaps both creation/annihilation and particle/antiparticle roles simultaneously, never just one. |
-| 8 | Derive the outgoing-photon factor ε_λ,μ(k)e^(ikx) from the creation piece of A^i(x)'s mode expansion, paralleling Lesson 45, Section 2.3's derivation of the incoming-photon factor. |
-| 9 | Explain why this course's real-polarization convention (Lesson 38) means no separate notation (such as ε*) is needed to distinguish the outgoing-photon factor from the incoming one, beyond the sign of the exponent. |
-| 10 | Write out Section 5.1's six-line table from memory, then check it against the lesson text. |
-| 11 | For the process e⁻(p)+e⁺(p_+)→γ(k) at a single vertex, identify which of the six factors attaches to each of the three legs, and assemble the amplitude ie v̄(p_+)γ^μu(p)ε_μ(k). |
-| 12 | Verify the general placement rule (barred spinor left, unbarred spinor right) holds for both Lesson 45's ū(p′)γ^μu(p) and this lesson's v̄(p_+)γ^μu(p), and state the rule in one sentence. |
-| 13 | Show that e⁻(p)+e⁺(p_+)→γ(k) cannot conserve momentum for on-shell particles at a single vertex, by squaring p+p_+=k and showing this requires p·p_+=−m², while p·p_+≥m² always holds for two on-shell, positive-energy four-momenta of mass m (evaluate p·p_+ in the rest frame of the electron to establish the inequality). |
-| 14 | State, without deriving it, how many vertices the actual process studied in Lesson 56 (electron-positron annihilation into two photons) is expected to require, based on Exercise 13's conclusion. |
-| 15 | Explain why Section 5.2's amplitude uses the same numerical coupling e as Lesson 45's electron-photon amplitude, rather than a separate constant for the positron leg, citing Lesson 44. |
-| 16 | Challenge: write, by analogy with Lesson 45's derivation, the single-vertex amplitude for μ⁻(p)+γ(k)→μ⁻(p′) (replacing the electron with a muon), and explain, citing Lesson 44, Section 3, why the vertex factor is literally ieγ^μ again rather than requiring a new, muon-specific constant. |
+| 1 | **Core.** Restate, from Lesson 45, the incoming- and outgoing-electron leg factors, and explain why Lesson 45's derivation did not depend on which specific process they were used in. |
+| 2 | **Core.** Conjugate ψ(x)'s b_s(p)u_s(p)e^(−ipx) term explicitly and show it becomes b_s†(p)u_s†(p)e^(ipx) in ψ†(x). |
+| 3 | **Core.** Conjugate ψ(x)'s d_s†(p)v_s(p)e^(ipx) term explicitly and show it becomes d_s(p)v_s†(p)e^(−ipx) in ψ†(x). |
+| 4 | **Core.** Multiply the result of Exercise 3 by γ⁰ and use v̄=v†γ⁰ to derive the d_s(p)v̄_s(p)e^(−ipx) term of ψ̄(x). |
+| 5 | **Core.** Explain why this term, not any term of ψ(x), is the one responsible for annihilating an incoming positron. |
+| 6 | **Core.** State which term of ψ(x) is responsible for creating an outgoing positron, and its contribution v_s′(p′)e^(ip′x). |
+| 7 | **Extension.** Using Worked example 1's mnemonic, explain in your own words why dagger-ing a field always swaps both creation/annihilation and particle/antiparticle roles simultaneously, never just one. |
+| 8 | **Extension.** Derive the outgoing-photon factor ε_λ,μ(k)e^(ikx) from the creation piece of A^i(x)'s mode expansion, paralleling Lesson 45, Section 2.3's derivation of the incoming-photon factor. |
+| 9 | **Extension.** Explain why this course's real-polarization convention (Lesson 38) means no separate notation (such as ε*) is needed to distinguish the outgoing-photon factor from the incoming one, beyond the sign of the exponent. |
+| 10 | **Core.** Write out Section 5.1's six-line table from memory, then check it against the lesson text. |
+| 11 | **Core.** For the process e⁻(p)+e⁺(p_+)→γ(k) at a single vertex, identify which of the six factors attaches to each of the three legs, and assemble the amplitude ie v̄(p_+)γ^μu(p)ε_μ(k). |
+| 12 | **Extension.** Verify the general placement rule (barred spinor left, unbarred spinor right) holds for both Lesson 45's ū(p′)γ^μu(p) and this lesson's v̄(p_+)γ^μu(p), and state the rule in one sentence. |
+| 13 | **Extension.** Show that e⁻(p)+e⁺(p_+)→γ(k) cannot conserve momentum for on-shell particles at a single vertex, by squaring p+p_+=k and showing this requires p·p_+=−m², while p·p_+≥m² always holds for two on-shell, positive-energy four-momenta of mass m (evaluate p·p_+ in the rest frame of the electron to establish the inequality). |
+| 14 | **Extension.** State, without deriving it, how many vertices the actual process studied in Lesson 56 (electron-positron annihilation into two photons) is expected to require, based on Exercise 13's conclusion. |
+| 15 | **Extension.** Explain why Section 5.2's amplitude uses the same numerical coupling e as Lesson 45's electron-photon amplitude, rather than a separate constant for the positron leg, citing Lesson 44. |
+| 16 | **Challenge.** Write, by analogy with Lesson 45's derivation, the single-vertex amplitude for μ⁻(p)+γ(k)→μ⁻(p′) (replacing the electron with a muon), and explain, citing Lesson 44, Section 3, why the vertex factor is literally ieγ^μ again rather than requiring a new, muon-specific constant. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Incoming electron: u_s(p)e^(−ipx), from the b_s(p) term of ψ(x); outgoing electron: ū_s′(p′)e^(ip′x), from the b_s′†(p′) term of ψ̄(x) (Lesson 45, Sections 2.1–2.2). The derivation extracted the vertex factor ieγ^μ only after stripping away these leg-specific factors entirely (Lesson 45, Section 3.3), so nothing about ieγ^μ itself depends on which process the legs belong to.
 
@@ -216,16 +222,6 @@ Lesson 50 now has every ingredient needed to state the complete, formal Feynman 
 
 **16.** By the identical derivation as Lesson 45, Section 3, applied to a muon field of the same charge −e, the amplitude is ie ū_μ(p′)γ^μu_μ(p)ε_μ(k) (using u_μ, ū_μ for the muon's spinors, distinguished from the electron's only by the muon's different mass entering its own on-shell condition p²=m_μ²). Lesson 44, Section 3.1, established that the coupling constant multiplying the interaction term depends only on a field's charge, and the muon carries the same charge −e as the electron, so the identical constant e, not a new muon-specific coupling, appears in its vertex factor.
 
-# Mastery checklist
+# Mastery check
 
-- I can state all six external-line factors: u, ū, v̄, v, and ε (incoming and outgoing).
-
-- I can derive the positron factors by conjugating the Dirac field's mode expansion and explain the ψ/ψ̄ role reversal.
-
-- I can derive the outgoing-photon factor from the creation piece of A_μ's mode expansion.
-
-- I can state and apply the fermion-flow placement rule (barred spinor left, unbarred spinor right).
-
-- I can assemble a single-vertex amplitude for a process involving a positron and explain why it is not yet a complete physical process.
-
-- I can explain why the same coupling e appears in every leg combination.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

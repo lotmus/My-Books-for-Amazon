@@ -196,24 +196,26 @@ The photon is the case where the argument was historically clearest. The quantiz
 
 @widths 720 9072
 | No | Problem |
-| 1 | Compute the Compton wavelength ℏ/(mc) of the electron and of the muon (mc² = 105.66 MeV) using ℏc = 197.3 MeV fm. |
-| 2 | Estimate the energy involved in localizing an electron to Δx = λ_C/4 using ΔE ~ 1/Δx, and compare with the pair-creation threshold 2m. |
-| 3 | Verify D(0, r) → 1/(4π²r²) for m = 0 by performing the angular integral of ∫d³p e^(ip·r)/((2π)³2p) with a convergence factor e^(−εp). |
-| 4 | Using a†\|n⟩ = √(n+1)\|n+1⟩ and a\|n⟩ = √n\|n−1⟩, compute the ratio of the emission probability to the absorption probability for a mode with n quanta, and evaluate it for n = 0, 1, 10. |
-| 5 | Estimate the zero-point energy density of a massless field with a momentum cutoff Λ by evaluating ∫d³k/(2π)³ (1/2)k up to \|k\| = Λ, and show that it scales as Λ⁴. |
-| 6 | Complete the dictionary of Section 5.2 for the number operator: write N = a†a for one oscillator and N = Σ_k a_k†a_k for the field, and state its eigenvalue on \|{n_k}⟩. |
-| 7 | Show that a state with a single quantum of momentum k, energy ω_k = √(k² + m²), satisfies E² − \|k\|² = m², and that a state with two quanta of momenta k₁ and k₂ has energy ω_(k₁) + ω_(k₂). |
-| 8 | Explain qualitatively why the Klein paradox appears only for V₀ > E + m, referring to the negative-energy states of Lesson 20 and the pair-creation threshold. |
-| 9 | Explain why the identity of all electrons is natural in field theory but must be assumed in single-particle quantum mechanics. |
-| 10 | Show that the number of modes with wave number less than K in a volume V is VK³/(6π²), and interpret it as the number of oscillators with frequency below K for a massless field. |
-| 11 | For two events with Δt = 1 and Δx = 2 (c = 1), find the boost velocity for which they are simultaneous, and verify the invariance of the interval for v = 0.8. |
-| 12 | Show that D(0, x − y) = D(0, y − x), so that the equal-time commutator [φ̂(x), φ̂(y)] = D(x − y) − D(y − x) vanishes even though D itself does not. |
-| 13 | Show that D(x − y) = ∫d³p/((2π)³2E_p) e^(−ip·(x−y)) has mass dimension 2 in natural units. |
-| 14 | From the classical mode energy H = ω\|a\|² of Lesson 25, Section 4.4, argue that a mode in a state with n quanta corresponds to \|a\|² = n and that the amplitude of the classical field grows as √n. |
-| 15 | Explain in a short paragraph the difference between the position operator x̂ of single-particle quantum mechanics and the position label x of a field. |
-| 16 | Challenge: for a two-level atom in equilibrium with radiation of mean occupation n̄ = 1/(e^(ω/T) − 1), use emission rate ∝ n̄ + 1 and absorption rate ∝ n̄ to show N₂/N₁ = e^(−ω/T), and show that omitting the spontaneous term would give N₂ = N₁ at all temperatures. |
+| 1 | **Core.** Compute the Compton wavelength ℏ/(mc) of the electron and of the muon (mc² = 105.66 MeV) using ℏc = 197.3 MeV fm. |
+| 2 | **Core.** Estimate the energy involved in localizing an electron to Δx = λ_C/4 using ΔE ~ 1/Δx, and compare with the pair-creation threshold 2m. |
+| 3 | **Extension.** Verify D(0, r) → 1/(4π²r²) for m = 0 by performing the angular integral of ∫d³p e^(ip·r)/((2π)³2p) with a convergence factor e^(−εp). |
+| 4 | **Core.** Using a†\|n⟩ = √(n+1)\|n+1⟩ and a\|n⟩ = √n\|n−1⟩, compute the ratio of the emission probability to the absorption probability for a mode with n quanta, and evaluate it for n = 0, 1, 10. |
+| 5 | **Core.** Estimate the zero-point energy density of a massless field with a momentum cutoff Λ by evaluating ∫d³k/(2π)³ (1/2)k up to \|k\| = Λ, and show that it scales as Λ⁴. |
+| 6 | **Core.** Complete the dictionary of Section 5.2 for the number operator: write N = a†a for one oscillator and N = Σ_k a_k†a_k for the field, and state its eigenvalue on \|{n_k}⟩. |
+| 7 | **Extension.** Show that a state with a single quantum of momentum k, energy ω_k = √(k² + m²), satisfies E² − \|k\|² = m², and that a state with two quanta of momenta k₁ and k₂ has energy ω_(k₁) + ω_(k₂). |
+| 8 | **Extension.** Explain qualitatively why the Klein paradox appears only for V₀ > E + m, referring to the negative-energy states of Lesson 20 and the pair-creation threshold. |
+| 9 | **Extension.** Explain why the identity of all electrons is natural in field theory but must be assumed in single-particle quantum mechanics. |
+| 10 | **Core.** Show that the number of modes with wave number less than K in a volume V is VK³/(6π²), and interpret it as the number of oscillators with frequency below K for a massless field. |
+| 11 | **Core.** For two events with Δt = 1 and Δx = 2 (c = 1), find the boost velocity for which they are simultaneous, and verify the invariance of the interval for v = 0.8. |
+| 12 | **Extension.** Show that D(0, x − y) = D(0, y − x), so that the equal-time commutator [φ̂(x), φ̂(y)] = D(x − y) − D(y − x) vanishes even though D itself does not. |
+| 13 | **Core.** Show that D(x − y) = ∫d³p/((2π)³2E_p) e^(−ip·(x−y)) has mass dimension 2 in natural units. |
+| 14 | **Extension.** From the classical mode energy H = ω\|a\|² of Lesson 25, Section 4.4, argue that a mode in a state with n quanta corresponds to \|a\|² = n and that the amplitude of the classical field grows as √n. |
+| 15 | **Extension.** Explain in a short paragraph the difference between the position operator x̂ of single-particle quantum mechanics and the position label x of a field. |
+| 16 | **Challenge.** For a two-level atom in equilibrium with radiation of mean occupation n̄ = 1/(e^(ω/T) − 1), use emission rate ∝ n̄ + 1 and absorption rate ∝ n̄ to show N₂/N₁ = e^(−ω/T), and show that omitting the spontaneous term would give N₂ = N₁ at all temperatures. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Electron: λ_C = 197.3 MeV fm/0.511 MeV = 386 fm. Muon: λ_C = 197.3 MeV fm/105.66 MeV = 1.87 fm.
 
@@ -247,20 +249,6 @@ The photon is the case where the argument was historically clearest. The quantiz
 
 **16.** At equilibrium the number of upward transitions per unit time, N₁ × (absorption ∝ n̄), equals the number of downward transitions, N₂ × (emission ∝ n̄ + 1). So N₂/N₁ = n̄/(n̄ + 1). With n̄ = 1/(e^(ω/T) − 1), n̄ + 1 = e^(ω/T)/(e^(ω/T) − 1), and the ratio is 1/e^(ω/T) = e^(−ω/T), the Boltzmann factor. If emission were proportional to n̄ alone, with no spontaneous term, the balance N₂n̄ = N₁n̄ would give N₂ = N₁ for every temperature, which contradicts thermal equilibrium at any finite temperature, where the upper level must be less populated. Spontaneous emission is therefore required.
 
-# Mastery checklist
+# Mastery check
 
-- I can estimate the distance below which a relativistic particle cannot be localized and explain why.
-
-- I can explain why processes that change particle number require a field description.
-
-- I can derive the enhancement factors n + 1 for emission and n for absorption from the ladder operators.
-
-- I can show that the emission and absorption factors reproduce the Boltzmann ratio in thermal equilibrium.
-
-- I can state the causality problem of the single-particle propagator and how antiparticles resolve it.
-
-- I can explain why identical particles are natural in a field theory.
-
-- I can list the four steps of canonical quantization and the oscillator-to-field dictionary.
-
-- I can distinguish the position label of a field from the position operator of quantum mechanics.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

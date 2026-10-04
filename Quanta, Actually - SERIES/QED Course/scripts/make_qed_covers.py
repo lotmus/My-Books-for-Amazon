@@ -1,5 +1,5 @@
-"""Front and back covers for Quanta, Actually Volume 3,
-'Complete Quantum Electrodynamics Course' by Lothar J. Musiol.
+"""Front and back covers for Quanta, Actually Volume 2,
+'Quantum, Actually — Volume 2: A QED Course' by Lothar J. Musiol.
 
 Matches the series covers (The Quantum World front/back, The Quantum
 Conversation back): 2202 x 3520 px portrait, black star field with blue
@@ -300,21 +300,20 @@ def front():
     frame(d)
 
     f = F('cinzel', 92)
-    text_c(d, (W / 2, 150), 'QUANTA, ACTUALLY', f, CREAM, track=14)
+    text_c(d, (W / 2, 150), 'QUANTUM, ACTUALLY', f, CREAM, track=14)
     ornament(d, W / 2, 285, 300)
 
-    gold_text(img, W / 2, 360, 'COMPLETE', F('cinzel_b', 150), track=10)
-    gold_text(img, W / 2, 560, 'QUANTUM', F('cinzel_b', 300), track=6)
-    gold_text(img, W / 2, 920, 'ELECTRODYNAMICS', F('cinzel_b', 172), track=0)
-    gold_text(img, W / 2, 1135, 'COURSE', F('cinzel_b', 150), track=10)
+    gold_text(img, W / 2, 380, 'A', F('cinzel_b', 170), track=0)
+    gold_text(img, W / 2, 590, 'QED', F('cinzel_b', 400), track=20)
+    gold_text(img, W / 2, 1060, 'COURSE', F('cinzel_b', 170), track=14)
     d = ImageDraw.Draw(img)
     vf = F('cinzel', 66)
-    text_c(d, (W / 2, 1330), 'VOLUME 3', vf, GOLD, track=12)
+    text_c(d, (W / 2, 1330), 'VOLUME 2', vf, GOLD, track=12)
     ornament(d, W / 2, 1356, 460)
     # put the label back over the ornament line
-    vw = tw(vf, 'VOLUME 3', 12)
+    vw = tw(vf, 'VOLUME 2', 12)
     d.rectangle((W / 2 - vw / 2 - 30, 1320, W / 2 + vw / 2 + 30, 1400), fill=(6, 8, 20))
-    text_c(d, (W / 2, 1330), 'VOLUME 3', vf, GOLD, track=12)
+    text_c(d, (W / 2, 1330), 'VOLUME 2', vf, GOLD, track=12)
 
     sf = F('serif', 82)
     text_c(d, (W / 2, 1455), 'From Mathematical Foundations', sf, CREAM)
@@ -429,10 +428,9 @@ def back():
     d = ImageDraw.Draw(img)
     frame(d)
     f = F('cinzel', 76)
-    text_c(d, (W / 2, 140), 'QUANTA, ACTUALLY \u00b7 VOLUME 3', f, GOLD, track=10)
+    text_c(d, (W / 2, 140), 'QUANTUM, ACTUALLY \u00b7 VOLUME 2', f, GOLD, track=10)
     ornament(d, W / 2, 255, 260)
-    gold_text(img, W / 2, 310, 'COMPLETE QUANTUM', F('cinzel_b', 150), track=4)
-    gold_text(img, W / 2, 500, 'ELECTRODYNAMICS COURSE', F('cinzel_b', 120), track=2)
+    gold_text(img, W / 2, 380, 'A QED COURSE', F('cinzel_b', 170), track=8)
     d = ImageDraw.Draw(img)
     sf = F('serif', 72)
     text_c(d, (W / 2, 690), 'From Mathematical Foundations to One-Loop QED', sf, CREAM)
@@ -491,7 +489,7 @@ def back():
 
 def main():
     out = sys.argv[1] if len(sys.argv) > 1 else '.'
-    stem = 'Complete_QED_Course - 2202 x 3520 Portrait.jpg'
+    stem = 'Quantum, Actually - Volume 2 - 2202 x 3520 Portrait.jpg'
     p = os.path.join(out, 'Front Cover of ' + stem)
     front().save(p, quality=93, dpi=(300, 300))
     q = os.path.join(out, 'Back Cover of ' + stem)

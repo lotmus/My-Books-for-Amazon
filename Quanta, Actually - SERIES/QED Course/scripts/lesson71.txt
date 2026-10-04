@@ -33,6 +33,11 @@ Lesson 38 quantized the photon in Coulomb gauge, keeping only the two transverse
 
 The metric is diag(+1, −1, −1, −1). In display equations, square brackets enclose function arguments and visible groupings.
 
+BOX: First pass: the result before the derivation
+Adding −(∂·A)²/(2ξ) makes the photon propagator exist: D_μν = −i[g_μν − (1 − ξ)k_μk_ν/k²]/(k² + iε). ξ = 1 is Feynman gauge, ξ = 0 Landau gauge.
+The extra ξ-dependent piece never reaches a physical answer (Lessons 72–73).
+ENDBOX
+
 # 1 The problem without gauge fixing
 
 ## 1.1 A vanishing momentum
@@ -42,6 +47,8 @@ The Maxwell Lagrangian ℒ = −¼F_μνF^μν contains time derivatives of A^i 
 ## 1.2 An operator without an inverse
 
 The same problem appears in momentum space. Integrating by parts, the Maxwell action is
+
+IMG: L71_gauge_orbits.png | 5.2 | Figure 71.1. Gauge orbits. All potentials on one orbit describe the same physics; gauge fixing chooses one representative per orbit.
 
 $$ S = ∫ d⁴x ½ A_μ [∂² g^(μν) − ∂^μ ∂^ν] A_ν
 
@@ -178,21 +185,23 @@ This lesson has derived the propagator for every ξ and checked ξ-independence 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Show that F^00 = 0, and conclude that π⁰ = 0 for the Maxwell Lagrangian. |
-| 2 | Integrate −¼F_μνF^μν by parts and obtain ½A_μ[∂²g^μν − ∂^μ∂^ν]A_ν, stating which surface terms are dropped. |
-| 3 | Vary −¼F² − (∂·A)²/(2ξ) − j·A with respect to A_ν and derive Section 2.3's field equation. |
-| 4 | Verify P_T + P_L = g, P_T² = P_T, P_L² = P_L, and P_TP_L = 0, contracting indices explicitly. |
-| 5 | Multiply O^μν = −k²g^μν + (1 − 1/ξ)k^μk^ν by D_νρ(k; ξ) and show the product is iδ^μ_ρ. |
-| 6 | Show that without gauge fixing (1/ξ → 0) the coefficient of P_L in O vanishes, and explain why this is Section 1.2's problem restated. |
-| 7 | Compute k^μD_μν(k; ξ) for general ξ and interpret the result. |
-| 8 | Show that ξ → 0 forces ∂·A = 0, the Lorenz condition of Lesson 8. |
-| 9 | Explain why Coulomb gauge cannot be reached by any value of ξ. |
-| 10 | Verify q_μū(p′)γ^μu(p) = 0 for q = p′ − p, using the Dirac equation for both spinors. |
-| 11 | Write the ξ-dependent part of the electron-muon amplitude explicitly and show it vanishes. |
-| 12 | Explain why Z₃ at one loop cannot depend on ξ, by inspecting which propagators appear in Lesson 63's diagram. |
-| 13 | Challenge: in Feynman gauge, show that the timelike polarization state has negative norm, starting from [a_μ, a_ν†] ∝ −g_μν, and explain why this does not make the theory inconsistent. |
+| 1 | **Core.** Show that F^00 = 0, and conclude that π⁰ = 0 for the Maxwell Lagrangian. |
+| 2 | **Extension.** Integrate −¼F_μνF^μν by parts and obtain ½A_μ[∂²g^μν − ∂^μ∂^ν]A_ν, stating which surface terms are dropped. |
+| 3 | **Extension.** Vary −¼F² − (∂·A)²/(2ξ) − j·A with respect to A_ν and derive Section 2.3's field equation. |
+| 4 | **Extension.** Verify P_T + P_L = g, P_T² = P_T, P_L² = P_L, and P_TP_L = 0, contracting indices explicitly. |
+| 5 | **Core.** Multiply O^μν = −k²g^μν + (1 − 1/ξ)k^μk^ν by D_νρ(k; ξ) and show the product is iδ^μ_ρ. |
+| 6 | **Core.** Show that without gauge fixing (1/ξ → 0) the coefficient of P_L in O vanishes, and explain why this is Section 1.2's problem restated. |
+| 7 | **Core.** Compute k^μD_μν(k; ξ) for general ξ and interpret the result. |
+| 8 | **Extension.** Show that ξ → 0 forces ∂·A = 0, the Lorenz condition of Lesson 8. |
+| 9 | **Extension.** Explain why Coulomb gauge cannot be reached by any value of ξ. |
+| 10 | **Core.** Verify q_μū(p′)γ^μu(p) = 0 for q = p′ − p, using the Dirac equation for both spinors. |
+| 11 | **Core.** Write the ξ-dependent part of the electron-muon amplitude explicitly and show it vanishes. |
+| 12 | **Extension.** Explain why Z₃ at one loop cannot depend on ξ, by inspecting which propagators appear in Lesson 63's diagram. |
+| 13 | **Challenge.** In Feynman gauge, show that the timelike polarization state has negative norm, starting from [a_μ, a_ν†] ∝ −g_μν, and explain why this does not make the theory inconsistent. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** F^00 = ∂⁰A⁰ − ∂⁰A⁰ = 0. Since ℒ depends on ∂₀A₀ only through F^00, π⁰ = ∂ℒ/∂(∂₀A₀) = 0.
 

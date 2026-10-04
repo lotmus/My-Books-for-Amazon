@@ -35,6 +35,11 @@ Lesson 45 closed Part VI with a warning: a single vertex can never be a complete
 | θ(τ) | Heaviside step function, 1 for τ>0, 0 for τ<0 |
 | π = φ̇ | Canonical momentum conjugate to φ, Lesson 33 |
 
+BOX: First pass: the result before the derivation
+The Feynman propagator Δ_F = i/(p² − m² + iε) is the Green's function of the Klein–Gordon operator; the iε chooses positive energies forward in time and negative energies backward.
+This is Prologue 5's 'goes from point to point' with a formula; Figure 46.1 shows where the iε moves the poles.
+ENDBOX
+
 # 1 Why a new object is needed
 
 ## 1.1 The internal-line problem
@@ -60,6 +65,8 @@ $$ T { φ(x) φ(y) } = θ(x⁰−y⁰) φ(x)φ(y) + θ(y⁰−x⁰) φ(y)φ(x)
 ## 2.2 The Feynman propagator
 
 $$ Δ_F(x−y) := ⟨0| T{φ(x)φ(y)} |0⟩ = θ(x⁰−y⁰) D(x−y) + θ(y⁰−x⁰) D(y−x)
+
+IMG: L46_scalar.png | 4.6 | Figure 46.1. The scalar Feynman propagator: positive energy propagates forward in time, negative energy backward; the time-ordered product handles both cases.
 
 using ⟨0|φ(x)φ(y)|0⟩=D(x−y) and ⟨0|φ(y)φ(x)|0⟩=D(y−x), both already established in Lesson 35, Section 4.1. Δ_F(x−y) is, by construction, the amplitude for a particle to propagate from whichever point is earlier to whichever point is later, with no preferred direction built in ahead of time; this is the property an internal line needs.
 
@@ -127,6 +134,8 @@ Explain why this is a meaningful, nontrivial check rather than a circular one. S
 
 Writing p²−m²=(p⁰)²−E_p², with E_p=√(|p|²+m²), the denominator p²−m²+iε factors, for small ε, as (p⁰−E_p+iε′)(p⁰+E_p−iε′) with ε′=ε/(2E_p) (Exercise 12 verifies this factorization). The two poles of the p⁰ integrand sit at p⁰=E_p−iε′, just below the real axis, and p⁰=−E_p+iε′, just above it.
 
+IMG: L46_poles.png | 4.6 | Figure 46.2. Poles of the propagator in the complex k⁰ plane. The iε places them at ±(ω − iε'); the Feynman contour passes below the left pole and above the right one.
+
 ## 5.2 Closing the contour
 
 For x⁰−y⁰=τ>0, the exponential factor e^(−ip⁰τ) decays as Im(p⁰)→−∞, so the p⁰ contour may be closed in the lower half-plane, enclosing only the pole at p⁰=E_p−iε′ (Exercise 13). Evaluating the residue there reproduces, after performing the remaining spatial integral, exactly ∫d³p/((2π)³2E_p)e^(−ip·(x−y))=D(x−y), the θ(τ>0)D(x−y) piece of Section 2.2's definition. For τ<0, closing instead in the upper half-plane encloses the pole at p⁰=−E_p+iε′ and reproduces D(y−x), the other piece. The iε prescription, chosen so that the poles sit on opposite sides of the real axis in exactly this pattern, is precisely what makes the momentum-space integral automatically reconstruct the time-ordered, both-directions object defined in position space in Section 2.2.
@@ -167,24 +176,26 @@ Lesson 47 repeats this lesson's construction for the Dirac field, building the e
 
 @widths 720 9072
 | No | Problem |
-| 1 | State the defining property of θ(τ) used in Section 3.1 and its derivative, dθ/dτ=δ(τ), and explain where this derivative is used in the first differentiation of Δ_F. |
-| 2 | Carry out the first differentiation of Δ_F with respect to x⁰ explicitly, and show the delta-function term vanishes using D(x−y)=D(y−x) at equal times. |
-| 3 | Carry out the second differentiation and identify the surviving delta-function term as δ(τ)⟨0\|[π(x),φ(y)]\|0⟩. |
-| 4 | Using [φ(t,x),π(t,y)]=iδ³(x−y) from Lesson 33, derive [π(t,x),φ(t,y)]=−iδ³(x−y). |
-| 5 | Combine Exercises 3 and 4 to show the second-derivative delta-function term equals −iδ⁴(x−y). |
-| 6 | Explain why the θ(τ)(□+m²)D(x−y) and θ(−τ)(□+m²)D(y−x) terms of Section 3.2 vanish, citing the specific earlier result used. |
-| 7 | Assemble Exercises 5 and 6 into the full result (□+m²)Δ_F(x−y)=−iδ⁴(x−y). |
-| 8 | Explain, in your own words, why Section 3's result identifies Δ_F, not D(x−y), as the Green's function of the Klein–Gordon operator. |
-| 9 | Verify (□_x+m²)e^(−ip(x−y))=(m²−p²)e^(−ip(x−y)) directly, using □e^(−ipx)=−p²e^(−ipx). |
-| 10 | Substitute the momentum-space Δ_F of Section 4.1 into (□+m²)Δ_F and show it reduces to −i∫d⁴p/(2π)⁴ (p²−m²)/(p²−m²+iε) e^(−ip(x−y)). |
-| 11 | Explain why (p²−m²)/(p²−m²+iε)→1 as ε→0⁺ away from the pole, and complete the verification that the momentum-space Δ_F solves the same equation as Section 3.2. |
-| 12 | Verify the factorization p²−m²+iε=(p⁰−E_p+iε′)(p⁰+E_p−iε′) for small ε′=ε/(2E_p), by expanding the right-hand side and dropping terms of order (ε′)². |
-| 13 | For τ=x⁰−y⁰>0, explain why the p⁰ contour should be closed in the lower half-plane, and identify which of the two poles of Exercise 12 is enclosed. |
-| 14 | For τ<0, carry out the analogous analysis for the upper half-plane and identify the enclosed pole. |
-| 15 | Explain, in one or two sentences, why an internal line in a Feynman diagram must be built from Δ_F rather than from D(x−y) alone. |
-| 16 | Challenge: Lesson 37 already defined S(x−y)=⟨0\|ψ(x)ψ̄(y)\|0⟩, the un-time-ordered fermionic two-point function, previewing S_F(p)=i(p̸+m)/(p²−m²+iε) for Lesson 47. Based on this lesson's construction, state what the time-ordered fermionic propagator should be defined as (in terms of S(x−y) and its reverse ordering), and predict, without deriving it, whether you expect a relative sign between the two orderings analogous to Lesson 37, Section 5.2's minus sign, given the general fermionic sign rule of Lesson 37, Section 6.2. |
+| 1 | **Core.** State the defining property of θ(τ) used in Section 3.1 and its derivative, dθ/dτ=δ(τ), and explain where this derivative is used in the first differentiation of Δ_F. |
+| 2 | **Extension.** Carry out the first differentiation of Δ_F with respect to x⁰ explicitly, and show the delta-function term vanishes using D(x−y)=D(y−x) at equal times. |
+| 3 | **Extension.** Carry out the second differentiation and identify the surviving delta-function term as δ(τ)⟨0\|[π(x),φ(y)]\|0⟩. |
+| 4 | **Core.** Using [φ(t,x),π(t,y)]=iδ³(x−y) from Lesson 33, derive [π(t,x),φ(t,y)]=−iδ³(x−y). |
+| 5 | **Extension.** Combine Exercises 3 and 4 to show the second-derivative delta-function term equals −iδ⁴(x−y). |
+| 6 | **Core.** Explain why the θ(τ)(□+m²)D(x−y) and θ(−τ)(□+m²)D(y−x) terms of Section 3.2 vanish, citing the specific earlier result used. |
+| 7 | **Extension.** Assemble Exercises 5 and 6 into the full result (□+m²)Δ_F(x−y)=−iδ⁴(x−y). |
+| 8 | **Core.** Explain, in your own words, why Section 3's result identifies Δ_F, not D(x−y), as the Green's function of the Klein–Gordon operator. |
+| 9 | **Core.** Verify (□_x+m²)e^(−ip(x−y))=(m²−p²)e^(−ip(x−y)) directly, using □e^(−ipx)=−p²e^(−ipx). |
+| 10 | **Core.** Substitute the momentum-space Δ_F of Section 4.1 into (□+m²)Δ_F and show it reduces to −i∫d⁴p/(2π)⁴ (p²−m²)/(p²−m²+iε) e^(−ip(x−y)). |
+| 11 | **Extension.** Explain why (p²−m²)/(p²−m²+iε)→1 as ε→0⁺ away from the pole, and complete the verification that the momentum-space Δ_F solves the same equation as Section 3.2. |
+| 12 | **Core.** Verify the factorization p²−m²+iε=(p⁰−E_p+iε′)(p⁰+E_p−iε′) for small ε′=ε/(2E_p), by expanding the right-hand side and dropping terms of order (ε′)². |
+| 13 | **Extension.** For τ=x⁰−y⁰>0, explain why the p⁰ contour should be closed in the lower half-plane, and identify which of the two poles of Exercise 12 is enclosed. |
+| 14 | **Core.** For τ<0, carry out the analogous analysis for the upper half-plane and identify the enclosed pole. |
+| 15 | **Extension.** Explain, in one or two sentences, why an internal line in a Feynman diagram must be built from Δ_F rather than from D(x−y) alone. |
+| 16 | **Challenge.** Lesson 37 already defined S(x−y)=⟨0\|ψ(x)ψ̄(y)\|0⟩, the un-time-ordered fermionic two-point function, previewing S_F(p)=i(p̸+m)/(p²−m²+iε) for Lesson 47. Based on this lesson's construction, state what the time-ordered fermionic propagator should be defined as (in terms of S(x−y) and its reverse ordering), and predict, without deriving it, whether you expect a relative sign between the two orderings analogous to Lesson 37, Section 5.2's minus sign, given the general fermionic sign rule of Lesson 37, Section 6.2. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** θ(τ)=1 for τ>0 and 0 for τ<0, with a jump of size 1 at τ=0; its derivative is the Dirac delta function, dθ/dτ=δ(τ). This derivative appears whenever a theta function inside Δ_F is differentiated with respect to x⁰ (which enters τ=x⁰−y⁰ with coefficient 1), producing a delta-function term at each differentiation.
 
@@ -218,16 +229,6 @@ Lesson 47 repeats this lesson's construction for the Dirac field, building the e
 
 **16.** By direct analogy with Section 2.2, the time-ordered fermionic propagator should be defined as S_F(x−y)=θ(x⁰−y⁰)S(x−y)−θ(y⁰−x⁰)⟨0|ψ̄(y)ψ(x)|0⟩ (or equivalently written using Lesson 37, Section 5.2's expression for the reversed ordering), with an explicit relative minus sign between the two theta-function terms; this sign is expected, and not merely possible, because Lesson 37, Section 6.2, established that fermionic reorderings always carry a sign, so building a time-ordered product out of two orderings of fermion fields should pick up the same kind of minus sign already seen between the two terms of Lesson 37, Section 5.2's :ψ̄(y)ψ(x):=−:ψ(x)ψ̄(y): relation.
 
-# Mastery checklist
+# Mastery check
 
-- I can define the time-ordered product and the Feynman propagator Δ_F(x−y) in terms of D(x−y).
-
-- I can derive (□+m²)Δ_F(x−y)=−iδ⁴(x−y) by direct differentiation, using the canonical commutation relation.
-
-- I can explain why D(x−y) alone cannot serve as a Green's function.
-
-- I can write and verify the momentum-space form Δ_F(x−y)=∫d⁴p/(2π)⁴ i/(p²−m²+iε) e^(−ip(x−y)).
-
-- I can locate the poles of the momentum-space propagator and explain how contour closure reproduces the position-space time ordering.
-
-- I can explain why an internal line in a Feynman diagram requires the time-ordered propagator rather than D(x−y) alone.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

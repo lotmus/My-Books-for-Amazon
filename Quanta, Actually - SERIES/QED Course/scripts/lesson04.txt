@@ -9,6 +9,10 @@ Lesson 3 established the physics of special relativity in one space dimension wi
 
 This lesson is a notation lesson in the same sense that Lesson 1 was. The ideas are few, but the habits must become reflexes: raising and lowering indices, summing repeated indices, and reading off invariants. Work in natural units with ℏ = c = 1 throughout, as agreed in Lesson 3. Expect six to eight focused hours.
 
+BOX: Plain-language start
+A four-vector is just four numbers (a time part and three space parts) that change in a fixed way when you change observer. The lesson's one trick is a 'dot product' with a minus sign, which gives numbers that every observer agrees on, such as a particle's mass.
+ENDBOX
+
 ## Learning objectives
 
 - Write four-vectors in contravariant and covariant form and convert between them with the metric.
@@ -41,6 +45,11 @@ This lesson is a notation lesson in the same sense that Lesson 1 was. The ideas 
 | a·b | Scalar product a^μ b_μ = a⁰b⁰ − a·b |
 | ∂_μ | Four-gradient ∂/∂x^μ = (∂_t, ∇) |
 | □ | d'Alembertian ∂_μ∂^μ = ∂_t² − ∇² |
+
+BOX: First pass: the result before the derivation
+Four-vectors x^μ, p^μ transform with one matrix Λ, and the metric g = diag(1, −1, −1, −1) turns any pair into an invariant a·b = a⁰b⁰ − a·b. For a particle, p·p = E² − |p|² = m².
+Every amplitude in Lessons 50–79 is built from such dot products, so learning to contract indices here pays off on every later page.
+ENDBOX
 
 # 1 Index notation and the metric
 
@@ -282,24 +291,26 @@ The QED Lagrangian of Lesson 42 is a sum of three fully contracted expressions: 
 
 @widths 720 9072
 | No | Problem |
-| 1 | For x^μ = (3, 1, −2, 0) write x_μ and compute x·x. For a^μ = (2, 1, 0, 0) and b^μ = (1, 1, 0, 0) compute a·b, a·a, and b·b, and classify each vector. |
-| 2 | Write the boost matrix for β = 0.6 numerically and apply it to x^μ = (5, 3, 0, 0). Compare with Worked example 3 of Lesson 3. |
-| 3 | Show that the product of two boosts along x with rapidities φ₁ and φ₂ is a boost with rapidity φ₁ + φ₂. |
-| 4 | Using the chain rule, show that ∂_μ transforms as a covariant vector. |
-| 5 | Verify ∂_μ x^ν = δ^ν_μ and use it to compute ∂_μ(a·x) for a constant four-vector a. |
-| 6 | Show that ∂_μ∂^μ e^(−ik·x) = −(k·k) e^(−ik·x), and conclude that e^(−ik·x) solves the Klein–Gordon equation only when k·k = m². |
-| 7 | Prove that S^μν A_μν = 0 whenever S is symmetric and A is antisymmetric. |
-| 8 | A tensor T^μν has components T^01 = 2 and T^10 = −2, all others zero. Find its symmetric and antisymmetric parts and its trace g_μν T^μν. |
-| 9 | Find the four-velocity of a particle with v = (0.6, 0, 0) and verify u·u = 1. Then find its four-momentum if m = 2 GeV. |
-| 10 | Show that the four-acceleration a^μ = du^μ/dτ satisfies a·u = 0, and interpret this for a particle instantaneously at rest. |
-| 11 | A photon has k^μ = ω(1, cos θ, sin θ, 0). Find its frequency for an observer moving with speed β along x, and evaluate at θ = 0, 90°, and 180°. |
-| 12 | Two particles of mass m have four-momenta p₁ and p₂. Show that s = 2m² + 2p₁·p₂. Evaluate s for a head-on collision with energies E each and for a beam of energy E on a target at rest. |
-| 13 | Prove s + t + u = m₁² + m₂² + m₃² + m₄² using p₁ + p₂ = p₃ + p₄. |
-| 14 | Write ∂_μ j^μ = 0 in components for j^μ = (ρ, j) and explain why the equation is Lorentz invariant. |
-| 15 | Show that Λ⁻¹ = g⁻¹ Λᵀ g follows from ΛᵀgΛ = g, and use it to write the inverse of the boost matrix of Section 2.1. |
-| 16 | Challenge: from the 00 component of ΛᵀgΛ = g show that (Λ⁰₀)² ≥ 1, and from the determinant show det Λ = ±1. Explain why the Lorentz group therefore has four disconnected pieces, and name a transformation in each. |
+| 1 | **Core.** For x^μ = (3, 1, −2, 0) write x_μ and compute x·x. For a^μ = (2, 1, 0, 0) and b^μ = (1, 1, 0, 0) compute a·b, a·a, and b·b, and classify each vector. |
+| 2 | **Core.** Write the boost matrix for β = 0.6 numerically and apply it to x^μ = (5, 3, 0, 0). Compare with Worked example 3 of Lesson 3. |
+| 3 | **Extension.** Show that the product of two boosts along x with rapidities φ₁ and φ₂ is a boost with rapidity φ₁ + φ₂. |
+| 4 | **Core.** Using the chain rule, show that ∂_μ transforms as a covariant vector. |
+| 5 | **Core.** Verify ∂_μ x^ν = δ^ν_μ and use it to compute ∂_μ(a·x) for a constant four-vector a. |
+| 6 | **Core.** Show that ∂_μ∂^μ e^(−ik·x) = −(k·k) e^(−ik·x), and conclude that e^(−ik·x) solves the Klein–Gordon equation only when k·k = m². |
+| 7 | **Extension.** Prove that S^μν A_μν = 0 whenever S is symmetric and A is antisymmetric. |
+| 8 | **Core.** A tensor T^μν has components T^01 = 2 and T^10 = −2, all others zero. Find its symmetric and antisymmetric parts and its trace g_μν T^μν. |
+| 9 | **Core.** Find the four-velocity of a particle with v = (0.6, 0, 0) and verify u·u = 1. Then find its four-momentum if m = 2 GeV. |
+| 10 | **Core.** Show that the four-acceleration a^μ = du^μ/dτ satisfies a·u = 0, and interpret this for a particle instantaneously at rest. |
+| 11 | **Extension.** A photon has k^μ = ω(1, cos θ, sin θ, 0). Find its frequency for an observer moving with speed β along x, and evaluate at θ = 0, 90°, and 180°. |
+| 12 | **Extension.** Two particles of mass m have four-momenta p₁ and p₂. Show that s = 2m² + 2p₁·p₂. Evaluate s for a head-on collision with energies E each and for a beam of energy E on a target at rest. |
+| 13 | **Extension.** Prove s + t + u = m₁² + m₂² + m₃² + m₄² using p₁ + p₂ = p₃ + p₄. |
+| 14 | **Extension.** Write ∂_μ j^μ = 0 in components for j^μ = (ρ, j) and explain why the equation is Lorentz invariant. |
+| 15 | **Extension.** Show that Λ⁻¹ = g⁻¹ Λᵀ g follows from ΛᵀgΛ = g, and use it to write the inverse of the boost matrix of Section 2.1. |
+| 16 | **Challenge.** From the 00 component of ΛᵀgΛ = g show that (Λ⁰₀)² ≥ 1, and from the determinant show det Λ = ±1. Explain why the Lorentz group therefore has four disconnected pieces, and name a transformation in each. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** x_μ = (3, −1, 2, 0) and x·x = 9 − 1 − 4 = 4, timelike. a·b = 2 − 1 = 1; a·a = 4 − 1 = 3, timelike; b·b = 1 − 1 = 0, lightlike.
 
@@ -333,20 +344,6 @@ The QED Lagrangian of Lesson 42 is a sum of three fully contracted expressions: 
 
 **16.** The 00 component reads Σ_μ g_μμ (Λ^μ₀)² = 1, that is (Λ⁰₀)² − Σᵢ(Λⁱ₀)² = 1, so (Λ⁰₀)² ≥ 1. The determinant gives (det Λ)² det g = det g, so det Λ = ±1. Neither sign of det Λ nor sign of Λ⁰₀ can change continuously, giving four pieces: the identity (proper orthochronous), parity P = diag(1, −1, −1, −1) with det = −1, time reversal T = diag(−1, 1, 1, 1) with Λ⁰₀ = −1, and PT = −I with det = +1 and Λ⁰₀ = −1.
 
-# Mastery checklist
+# Mastery check
 
-- I can lower and raise indices without hesitation and I know which components change sign.
-
-- I never write an equation with unmatched free indices or an index repeated three times.
-
-- I can write the boost matrix along any axis and verify ΛᵀgΛ = g.
-
-- I know that ∂_μ = (∂_t, ∇) and ∂^μ = (∂_t, −∇), and I can check the sign with ∂_μ x^ν = δ^ν_μ.
-
-- I can count the components of symmetric and antisymmetric tensors and explain why F^μν holds E and B.
-
-- I can build u^μ and p^μ for a given velocity and use p·p = m² to check a boost.
-
-- I can compute i∂^μ acting on e^(−ip·x) and state the sign convention for positive frequency.
-
-- I can compute s, t, and u for a simple process and verify their sum.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

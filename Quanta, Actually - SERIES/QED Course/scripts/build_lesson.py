@@ -2,7 +2,7 @@
 
 Usage:  python build_lesson.py lessonNN.txt [--no-complete]
 Produces "chapters/Lesson NN Title.docx" and replaces the
-matching lesson section inside "Complete QED Course.docx".
+matching lesson section inside "Quantum, Actually - Volume 2.docx".
 
 Markup (one block per line, blank lines separate blocks):
   TITLE: ...      TAGLINE: ...      NUM: 2      NEXT: text for "Next lesson"
@@ -14,10 +14,14 @@ Markup (one block per line, blank lines separate blocks):
   @widths 2160 7632   column widths in twips for the following table
   **N.** text     solution paragraph (bold lead)
   \\pagebreak      page break
+  IMG: file.png | width_inches | caption   figure from ../figures (centred, captioned)
+  BOX: Title      shaded box; following lines until ENDBOX are its paragraphs
+                  ("- " bullets and "$$ " display lines allowed inside)
   anything else   Normal paragraph
 """
 import os
 import re
+import unicodedata
 import sys
 
 from docx import Document
@@ -35,11 +39,15 @@ ROOT = os.path.dirname(HERE)
 CHAPTERS = os.path.join(ROOT, "chapters")
 TEMPLATE = os.path.join(CHAPTERS, "Lesson 01 Complex Numbers and Linear Algebra.docx")
 AUTHOR = "Lothar J. Musiol"
-# Quanta, Actually series (Volume 3). Heading numbering follows the Physics,
+# Quantum, Actually series (Volume 2: A QED Course). Heading numbering follows the Physics,
 # Actually books ("Chapter N: Title"): "Lesson N: Title", "Prologue N: Title",
 # "Part I — Title", "Interlude: Title". Matchers accept the old space form too.
-SERIES = "Quanta, Actually"
-SERIES_VOLUME = 3
+SERIES = "Quantum, Actually"
+SERIES_VOLUME = 2
+VOLUME_TITLE = "A QED Course"
+FULL_TITLE = "%s — Volume %d: %s" % (SERIES, SERIES_VOLUME, VOLUME_TITLE)
+RUNNING_HEAD = FULL_TITLE
+CHAPTER_HEAD = "A QED Course   %s %s"  # standalone chapter files
 
 
 def lesson_heading(num, title):
@@ -49,11 +57,13 @@ def lesson_heading(num, title):
 def is_lesson_heading(text, num):
     return re.match(r"^Lesson %d[: ]" % int(num), text or "") is not None
 EDITION = "First edition, 2026"
-COMPLETE = os.path.join(ROOT, "Complete QED Course.docx")
+COMPLETE = os.path.join(ROOT, "Quantum, Actually - Volume 2.docx")
 M_NS = "http://schemas.openxmlformats.org/officeDocument/2006/math"
 XML_SPACE = "{http://www.w3.org/XML/1998/namespace}space"
 PAGE_WIDTH = 9792  # twips of text width (12240 - 1296 - 1152)
 HEADER_FILL, BAND_FILL = "1F4E78", "EAF2F8"
+BOX_FILL, BOX_LINE = "F3F7FB", "7FA7CF"
+FIGURES = os.path.join(ROOT, "figures")
 
 
 # ---------------------------------------------------------------- parsing
@@ -110,6 +120,25 @@ def parse(path):
                     i = j
             blocks.append(("numbered", items))
             continue
+        if line.startswith("IMG:"):
+            parts = [x.strip() for x in line[4:].split("|", 2)]
+            while len(parts) < 3:
+                parts.append("")
+            blocks.append(("image", parts[0], float(parts[1] or 5.5), parts[2]))
+            i += 1
+            continue
+        if line.startswith("BOX:"):
+            title = line[4:].strip()
+            body = []
+            i += 1
+            while i < len(lines) and lines[i].strip() != "ENDBOX":
+                if lines[i].strip():
+                    body.append(lines[i].strip())
+                i += 1
+            if i < len(lines):
+                i += 1
+            blocks.append(("box", title, body))
+            continue
         if line.startswith("FIG:"):
             fig = []
             i += 1
@@ -158,8 +187,131 @@ def _cell_margins(tc_pr, w=100):
     tc_pr.append(mar)
 
 
+_GREEK_IDX = "μνρσαβλκτ"
+_LATIN_LO = "abcdefghijklmnopqrstuvwxyz"
+_SUB_WORDS = {"int", "eff", "sym", "ext", "max", "min", "cl", "gf", "fi", "if", "tot", "phys", "ren",
+              "kin", "em", "out", "in", "obs", "rad", "th", "free", "bare", "exp", "lab", "cm", "rel", "loc", "ij", "ik", "jk"}
+_SCRIPT_RE = re.compile(r"(?<=[^\s^_])([\^_])(?=[^\s,.;:)\]}|])")
+
+
+def _script_token(text, i):
+    """Return (content, end) for the index starting at text[i] (just after ^ or _)."""
+    c = text[i]
+    pairs = {"(": ")", "{": "}"}
+    if c in pairs:
+        depth, j = 0, i
+        while j < len(text):
+            if text[j] == c:
+                depth += 1
+            elif text[j] == pairs[c]:
+                depth -= 1
+                if depth == 0:
+                    inner = text[i + 1:j]
+                    # S^(2), x^(n): a perturbative order keeps its brackets
+                    if c == "(" and re.fullmatch(r"\d+|[a-zA-Z]", inner):
+                        return text[i:j + 1], j + 1
+                    return inner, j + 1
+            j += 1
+        return None, i
+    j = i + 1
+    if c in _GREEK_IDX:
+        while j < len(text) and text[j] in _GREEK_IDX:
+            j += 1
+    elif c.isdigit():
+        while j < len(text) and (text[j].isdigit() or text[j] in "ijk"):
+            j += 1
+    elif c in "+−-":
+        while j < len(text) and text[j].isdigit():
+            j += 1
+    elif c in _LATIN_LO:
+        k = j
+        while k < len(text) and text[k] in _LATIN_LO:
+            k += 1
+        word = text[i:k]
+        if k < len(text) and unicodedata.category(text[k]) == "Mn" and len(word) > 1:
+            word = word[:-1]; k -= 1  # k̂ after an index letter belongs to the base
+        if word in _SUB_WORDS or (len(word) <= 3 and set(word) <= set("ijkl0")):
+            j = k
+        elif len(word) > 4 and not any(word.startswith(w) for w in _SUB_WORDS):
+            return None, i  # an ordinary word joined by an underscore
+    elif c.isupper():
+        k = j
+        while k < len(text) and text[k].isupper() and text[k].isascii():
+            k += 1
+        if k - i >= 2 and (k >= len(text) or not text[k].isalpha()):
+            j = k
+    elif c in "*†′" or c.isalpha():
+        pass
+    else:
+        return None, i
+    while j < len(text) and unicodedata.category(text[j]) == "Mn":
+        j += 1
+    while j < len(text) and text[j] in "*†′":
+        j += 1
+    return text[i:j], j
+
+
+_UNI_SUB = dict(zip("0123456789+−-=()aeoxhklmnpstijruvβγρφχ", "₀₁₂₃₄₅₆₇₈₉₊₋₋₌₍₎ₐₑₒₓₕₖₗₘₙₚₛₜᵢⱼᵣᵤᵥᵦᵧᵨᵩᵪ"))
+_UNI_SUP = dict(zip("0123456789+−-=()inabcdefghjklmoprstuvwxyzβγδθφχ", "⁰¹²³⁴⁵⁶⁷⁸⁹⁺⁻⁻⁼⁽⁾ⁱⁿᵃᵇᶜᵈᵉᶠᵍʰʲᵏˡᵐᵒᵖʳˢᵗᵘᵛʷˣʸᶻᵝᵞᵟᶿᵠᵡ"))
+
+
+def _flatten_nested(content):
+    """Inside a super/subscript, a nested index is written with Unicode
+    sub/superscript letters where they exist; otherwise the markup is kept."""
+    out = []
+    for seg, vert in _script_segments(content, nested=True):
+        if vert is None:
+            out.append(seg)
+        else:
+            table = _UNI_SUB if vert == "subscript" else _UNI_SUP
+            if all(ch in table for ch in seg):
+                out.append("".join(table[ch] for ch in seg))
+            else:
+                out.append(("_" if vert == "subscript" else "^") + (seg if len(seg) == 1 else "(" + seg + ")"))
+    return "".join(out)
+
+
+def _script_segments(text, nested=False):
+    """Split plain text into (string, vert) pieces: inline x^μ, A_μ, e^(ipx), S_{fi}
+    become superscript/subscript runs instead of raw markup."""
+    out, buf, i = [], [], 0
+    while i < len(text):
+        ch = text[i]
+        if ch in "^_" and i > 0 and not text[i - 1].isspace() and i + 1 < len(text) \
+                and not text[i + 1].isspace() and text[i - 1] not in "^_" and not text[i-1].isdigit() or \
+                (ch in "^_" and i > 0 and text[i - 1].isdigit() and ch == "^"):
+            content, j = _script_token(text, i + 1)
+            if content:
+                if buf:
+                    out.append(("".join(buf), None)); buf = []
+                if not nested and ("^" in content or "_" in content):
+                    content = _flatten_nested(content)
+                out.append((content, "superscript" if ch == "^" else "subscript"))
+                i = j
+                continue
+        buf.append(ch)
+        i += 1
+    if buf:
+        out.append(("".join(buf), None))
+    return out
+
+
+def _add_runs(paragraph, text, bold=False, italic=False):
+    for seg, vert in _script_segments(text):
+        r = paragraph.add_run(seg)
+        if bold:
+            r.bold = True
+        if italic:
+            r.italic = True
+        if vert == "superscript":
+            r.font.superscript = True
+        elif vert == "subscript":
+            r.font.subscript = True
+
+
 def add_rich_text(paragraph, text):
-    """Tiny inline markup: **bold** and *italic*."""
+    """Tiny inline markup: **bold** and *italic*; inline ^ and _ indices become
+    real superscripts and subscripts."""
     # \| is the table escape for a literal bar; outside a table it is a bar.
     # A lone * is complex conjugation (φ*, ε*, ℳ_u^*), so *italic* needs a
     # space or opening bracket before it and a space or punctuation after.
@@ -167,14 +319,14 @@ def add_rich_text(paragraph, text):
     pos = 0
     for m in re.finditer(r"\*\*(.+?)\*\*|(?<![^\s(“\"])\*(?=[^\s*])(.+?)(?<=[^\s*])\*(?=[\s.,;:!?)”\"]|$)", text):
         if m.start() > pos:
-            paragraph.add_run(text[pos:m.start()])
+            _add_runs(paragraph, text[pos:m.start()])
         if m.group(1) is not None:
-            paragraph.add_run(m.group(1)).bold = True
+            _add_runs(paragraph, m.group(1), bold=True)
         else:
-            paragraph.add_run(m.group(2)).italic = True
+            _add_runs(paragraph, m.group(2), italic=True)
         pos = m.end()
     if pos < len(text):
-        paragraph.add_run(text[pos:])
+        _add_runs(paragraph, text[pos:])
 
 
 class Builder:
@@ -276,6 +428,78 @@ class Builder:
                 rfonts.set(qn(a), "Consolas")
         self.elements.append(p._p)
 
+    def image(self, name, width, caption):
+        from docx.shared import Inches
+        path = os.path.join(FIGURES, name)
+        p = self.doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        p.paragraph_format.space_before = Pt(8)
+        p.paragraph_format.space_after = Pt(2)
+        p.paragraph_format.keep_with_next = True
+        p.add_run().add_picture(path, width=Inches(width))
+        self.elements.append(p._p)
+        if caption:
+            c = self.doc.add_paragraph()
+            c.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            c.paragraph_format.space_after = Pt(10)
+            add_rich_text(c, caption)
+            for r in c.runs:
+                r.italic = True
+                r.font.size = Pt(9.5)
+            self.elements.append(c._p)
+
+    def box(self, title, body):
+        tbl = self.doc.add_table(rows=1, cols=1)
+        tbl.alignment = WD_TABLE_ALIGNMENT.CENTER
+        tbl.autofit = False
+        tbl_pr = tbl._tbl.tblPr
+        for child in list(tbl_pr):
+            if child.tag == qn("w:tblStyle"):
+                tbl_pr.remove(child)
+        borders = OxmlElement("w:tblBorders")
+        for side in ("top", "left", "bottom", "right"):
+            el = OxmlElement("w:" + side)
+            el.set(qn("w:val"), "single")
+            el.set(qn("w:sz"), "8")
+            el.set(qn("w:color"), BOX_LINE)
+            borders.append(el)
+        tbl_pr.append(borders)
+        for gc in tbl._tbl.tblGrid.findall(qn("w:gridCol")):
+            gc.set(qn("w:w"), str(PAGE_WIDTH - 400))
+        cell = tbl.cell(0, 0)
+        cell.width = Twips(PAGE_WIDTH - 400)
+        tc_pr = cell._tc.get_or_add_tcPr()
+        _shade(tc_pr, BOX_FILL)
+        _cell_margins(tc_pr, 140)
+        p = cell.paragraphs[0]
+        r = p.add_run(title)
+        r.bold = True
+        r.font.color.rgb = RGBColor(0x1F, 0x4E, 0x78)
+        for line in body:
+            if line.startswith("- "):
+                q = cell.add_paragraph(style="List Bullet")
+                add_rich_text(q, line[2:])
+            elif line.startswith("$$"):
+                q = cell.add_paragraph()
+                q.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                omp = etree.SubElement(q._p, "{%s}oMathPara" % M_NS)
+                om = etree.SubElement(omp, "{%s}oMath" % M_NS)
+                try:
+                    from omath import fill_omath
+                    fill_omath(om, line[2:].strip())
+                except Exception:
+                    rr = etree.SubElement(om, "{%s}r" % M_NS)
+                    t = etree.SubElement(rr, "{%s}t" % M_NS)
+                    t.text = line[2:].strip()
+            else:
+                q = cell.add_paragraph()
+                add_rich_text(q, line)
+            q.paragraph_format.space_after = Pt(3)
+        self.elements.append(tbl._tbl)
+        spacer = self.doc.add_paragraph()
+        spacer.paragraph_format.space_after = Pt(4)
+        self.elements.append(spacer._p)
+
     def solution(self, lead, text):
         p = self.doc.add_paragraph()
         p.add_run(lead).bold = True
@@ -358,6 +582,10 @@ class Builder:
                 self.solution(b[1], b[2])
             elif kind == "figure":
                 self.figure(b[1])
+            elif kind == "image":
+                self.image(b[1], b[2], b[3])
+            elif kind == "box":
+                self.box(b[1], b[2])
             elif kind == "pagebreak":
                 self.pagebreak()
             elif kind == "para":
@@ -392,14 +620,14 @@ def build_standalone(meta, blocks, out_path):
             body.remove(child)
     hdr = doc.sections[0].header
     for p in hdr.paragraphs:
-        if "QED Course" in p.text:
+        if "QED Course" in p.text or "Lesson" in p.text:
             for r in p.runs[1:]:
                 r.text = ""
-            p.runs[0].text = "QED Course   Lesson %s" % meta["NUM"]
+            p.runs[0].text = CHAPTER_HEAD % ("Lesson", meta["NUM"])
     b = Builder(doc)
     p = b.para(meta["TITLE"], style="Title")
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    p = b.para("Lesson %s of the Complete Quantum Electrodynamics Course" % meta["NUM"], style="Subtitle")
+    p = b.para("Lesson %s of %s, Volume %d: %s" % (meta["NUM"], SERIES, SERIES_VOLUME, VOLUME_TITLE), style="Subtitle")
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p = b.para(AUTHOR)
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER

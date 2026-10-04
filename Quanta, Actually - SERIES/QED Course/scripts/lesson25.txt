@@ -278,24 +278,26 @@ The most important single statement in this lesson is Section 4.2: a free field 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Derive the equation m q̈ₙ = κ(qₙ₊₁ − 2qₙ + qₙ₋₁) from the Lagrangian of Section 2.1 using the Euler–Lagrange equations, showing explicitly which two potential terms contain qₙ. |
-| 2 | Show that (1/2)κ(qₙ₊₁ − qₙ)² → (1/2)Ta(φ′)² with T = κa, and that the kinetic term becomes (1/2)μaφ̇² with μ = m/a. Then show that the resulting wave speed satisfies c² = T/μ = κa²/m. |
-| 3 | With μ = T = 1, show that ℒ = (1/2)(φ̇² − φ′²) equals (1/2)∂_μφ∂^μφ in one space dimension, and write the corresponding Euler–Lagrange equation in the form □φ = 0. |
-| 4 | Find the dimension of a real scalar field in natural units for d = 2, 3, and 4 spacetime dimensions, using the requirement that the action be dimensionless. |
-| 5 | Show that if φ(x) solves (□ + m²)φ = 0, then so does φ′(x) = φ(Λ⁻¹x), using the invariance of □ under Lorentz transformations. |
-| 6 | Show that ∫₀^L dx e^(i(k−k′)x)/L = δ_(kk′) for k = 2πn/L and k′ = 2πn′/L, and use it to prove ∫dx φ̇² = Σ_k \|q̇_k\|² for the real field φ = Σ_k q_k e^(ikx)/√L. |
-| 7 | Show that reality of φ requires q₋ₖ = q_k*, by comparing the expansion of φ with that of φ*. |
-| 8 | Substitute the mode expansion into (∂_t² − ∂ₓ² + m²)φ = 0 and derive q̈_k + ω_k²q_k = 0, explaining why each coefficient must vanish separately. |
-| 9 | For m = 0, find ω_k and the lowest nonzero frequency for a box of length L = 1, and describe the k = 0 mode. |
-| 10 | For q_k = (1/√(2ω))(A + B) with A = a_k e^(−iωt) and B = a₋ₖ* e^(iωt), show that \|q̇_k\|² + ω²\|q_k\|² = ω(\|a_k\|² + \|a₋ₖ\|²). |
-| 11 | Show that the number of modes with \|k\| < K in three dimensions is VK³/(6π²), and evaluate it for V = 1 cm³ and λ = 1 μm. |
-| 12 | Write the complex scalar field as φ = (φ₁ + iφ₂)/√2 and show that ∂_μφ*∂^μφ − m²φ*φ = (1/2)(∂_μφ₁∂^μφ₁ + ∂_μφ₂∂^μφ₂) − (1/2)m²(φ₁² + φ₂²), so a complex field is two real fields. |
-| 13 | For the complex field of Exercise 12, express the Klein–Gordon current j^μ = i(φ*∂^μφ − φ∂^μφ*) in terms of φ₁ and φ₂, and explain why it vanishes when φ₂ = 0 (compare Lesson 18, Exercise 14). |
-| 14 | For a string wave φ = A cos(kx − ωt) with ω = ck, show that the energy density (1/2)μφ̇² + (1/2)Tφ′² equals μA²ω²sin²(kx − ωt), and find its average over one wavelength. |
-| 15 | In a short paragraph, explain three differences between the classical Klein–Gordon field of this lesson and the Klein–Gordon wave function of Lesson 18. |
-| 16 | Challenge: for the massless field in one space dimension, show that a solution φ = F(x − t) + G(x + t) vanishing at infinity has energy H = ∫dx (1/2)(φ̇² + φ′²) = ∫dx (F′² + G′²), so that the right-moving and left-moving energies are separately conserved. |
+| 1 | **Extension.** Derive the equation m q̈ₙ = κ(qₙ₊₁ − 2qₙ + qₙ₋₁) from the Lagrangian of Section 2.1 using the Euler–Lagrange equations, showing explicitly which two potential terms contain qₙ. |
+| 2 | **Core.** Show that (1/2)κ(qₙ₊₁ − qₙ)² → (1/2)Ta(φ′)² with T = κa, and that the kinetic term becomes (1/2)μaφ̇² with μ = m/a. Then show that the resulting wave speed satisfies c² = T/μ = κa²/m. |
+| 3 | **Core.** With μ = T = 1, show that ℒ = (1/2)(φ̇² − φ′²) equals (1/2)∂_μφ∂^μφ in one space dimension, and write the corresponding Euler–Lagrange equation in the form □φ = 0. |
+| 4 | **Core.** Find the dimension of a real scalar field in natural units for d = 2, 3, and 4 spacetime dimensions, using the requirement that the action be dimensionless. |
+| 5 | **Extension.** Show that if φ(x) solves (□ + m²)φ = 0, then so does φ′(x) = φ(Λ⁻¹x), using the invariance of □ under Lorentz transformations. |
+| 6 | **Extension.** Show that ∫₀^L dx e^(i(k−k′)x)/L = δ_(kk′) for k = 2πn/L and k′ = 2πn′/L, and use it to prove ∫dx φ̇² = Σ_k \|q̇_k\|² for the real field φ = Σ_k q_k e^(ikx)/√L. |
+| 7 | **Core.** Show that reality of φ requires q₋ₖ = q_k*, by comparing the expansion of φ with that of φ*. |
+| 8 | **Extension.** Substitute the mode expansion into (∂_t² − ∂ₓ² + m²)φ = 0 and derive q̈_k + ω_k²q_k = 0, explaining why each coefficient must vanish separately. |
+| 9 | **Core.** For m = 0, find ω_k and the lowest nonzero frequency for a box of length L = 1, and describe the k = 0 mode. |
+| 10 | **Core.** For q_k = (1/√(2ω))(A + B) with A = a_k e^(−iωt) and B = a₋ₖ* e^(iωt), show that \|q̇_k\|² + ω²\|q_k\|² = ω(\|a_k\|² + \|a₋ₖ\|²). |
+| 11 | **Core.** Show that the number of modes with \|k\| < K in three dimensions is VK³/(6π²), and evaluate it for V = 1 cm³ and λ = 1 μm. |
+| 12 | **Extension.** Write the complex scalar field as φ = (φ₁ + iφ₂)/√2 and show that ∂_μφ*∂^μφ − m²φ*φ = (1/2)(∂_μφ₁∂^μφ₁ + ∂_μφ₂∂^μφ₂) − (1/2)m²(φ₁² + φ₂²), so a complex field is two real fields. |
+| 13 | **Extension.** For the complex field of Exercise 12, express the Klein–Gordon current j^μ = i(φ*∂^μφ − φ∂^μφ*) in terms of φ₁ and φ₂, and explain why it vanishes when φ₂ = 0 (compare Lesson 18, Exercise 14). |
+| 14 | **Core.** For a string wave φ = A cos(kx − ωt) with ω = ck, show that the energy density (1/2)μφ̇² + (1/2)Tφ′² equals μA²ω²sin²(kx − ωt), and find its average over one wavelength. |
+| 15 | **Extension.** In a short paragraph, explain three differences between the classical Klein–Gordon field of this lesson and the Klein–Gordon wave function of Lesson 18. |
+| 16 | **Challenge.** For the massless field in one space dimension, show that a solution φ = F(x − t) + G(x + t) vanishing at infinity has energy H = ∫dx (1/2)(φ̇² + φ′²) = ∫dx (F′² + G′²), so that the right-moving and left-moving energies are separately conserved. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** The Lagrangian is L = Σₙ[(1/2)mq̇ₙ² − (1/2)κ(qₙ₊₁−qₙ)²]. The coordinate qₙ appears in the term with (qₙ₊₁−qₙ)² and in the term with (qₙ−qₙ₋₁)². Then ∂L/∂q̇ₙ = mq̇ₙ, and ∂L/∂qₙ = −κ(qₙ−qₙ₋₁) + κ(qₙ₊₁−qₙ) = κ(qₙ₊₁−2qₙ+qₙ₋₁). The Euler–Lagrange equation d/dt(∂L/∂q̇ₙ) = ∂L/∂qₙ gives mq̈ₙ = κ(qₙ₊₁−2qₙ+qₙ₋₁).
 
@@ -329,20 +331,6 @@ The most important single statement in this lesson is Section 4.2: a free field 
 
 **16.** For φ = F(x−t)+G(x+t), φ̇ = −F′+G′ and φ′ = F′+G′, so φ̇²+φ′² = (−F′+G′)²+(F′+G′)² = 2F′²+2G′². Thus H = (1/2)∫dx(2F′²+2G′²) = ∫dx[F′(x−t)²+G′(x+t)²]. Each integral is unchanged by shifting the integration variable, so ∫F′(x−t)²dx and ∫G′(x+t)²dx are independent of t. The cross terms cancel identically, so the energy of the right-moving wave and that of the left-moving wave are separately conserved.
 
-# Mastery checklist
+# Mastery check
 
-- I can explain why a field has infinitely many degrees of freedom and why relativity favors local interactions mediated by fields.
-
-- I can take the continuum limit of the chain of oscillators and identify the Lagrangian density and the wave speed.
-
-- I can write the free scalar field Lagrangian density and equation of motion and state the dimension of the field in four dimensions.
-
-- I can distinguish the classical field of this lesson from the wave function of Lesson 18.
-
-- I can expand a free field in modes in a box and show that each mode obeys the harmonic oscillator equation with ω_k = √(k²+m²).
-
-- I can write the field energy as a sum over modes and identify H = Σ ω_k|a_k|².
-
-- I can count the modes in a given range of wave number and explain the measure d³k/(2π)³.
-
-- I can state the Lorentz transformation law of a scalar, a vector, and a spinor field.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

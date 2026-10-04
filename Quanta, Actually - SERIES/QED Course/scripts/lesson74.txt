@@ -34,6 +34,11 @@ Every divergence this course has met so far lived at large loop momentum. Lesson
 
 Natural units, metric diag(+1, −1, −1, −1). In display equations, square brackets enclose function arguments and visible groupings.
 
+BOX: First pass: the result before the derivation
+A massless photon makes the vertex integral diverge at small k; the probability of scattering with no radiation at all is zero.
+The cure is physical, not mathematical: a detector cannot see arbitrarily soft photons, and the rates it can measure are finite (Lesson 75).
+ENDBOX
+
 # 1 Three things called infrared
 
 ## 1.1 The forward Coulomb singularity
@@ -52,13 +57,7 @@ The third effect is a logarithm of the electron mass, ln(Q²/m²), which grows w
 
 ## 2.1 The vertex integral at small k
 
-FIG:
-   e⁻(p) ───*────────*─── e⁻(p′)
-             \      /
-              ~~~~~~      soft virtual photon, momentum k → 0
-                 |
-               γ*(q)
-ENDFIG
+IMG: L74_ir.png | 6.0 | Figure 74.1. Infrared divergences: the virtual-photon correction and the real soft-photon emission diverge separately; only their sum, at fixed detector resolution, is finite.
 
 Lesson 65's vertex correction has three denominators: the photon k², and the two electron propagators (p′ − k)² − m² and (p − k)² − m². With p² = p′² = m², these are k² − 2p′·k and k² − 2p·k. When k is small compared with m and with the momenta, the k² terms in the electron denominators are negligible, and the numerator reduces to the tree-level vertex multiplied by 4p·p′ (Exercise 2). The integral becomes
 
@@ -179,21 +178,23 @@ This lesson quoted, rather than derived, the infrared part of the vertex correct
 
 @widths 720 9072
 | No | Problem |
-| 1 | Classify each as forward Coulomb, soft, or collinear: the 1/t² growth of dσ/dΩ in eμ → eμ; ln λ in the vertex correction; ln(Q²/m²) in f_IR at large Q². |
-| 2 | Show that at small k the numerator of the vertex correction reduces to ū(p′)γ^μu(p) × 4p·p′, using ū(p′)γ^ν(p̸′ + m) = 2p′^ν ū(p′) and the analogous identity on the right. |
-| 3 | Sketch why ∫d⁴k/[(k² − λ²)(2p·k)(2p′·k)] is proportional to ln(1/λ) at small λ, by power counting with the photon mass as the lower cutoff. |
-| 4 | Expand f_IR(q²) for small Q² = −q² and show that f_IR ≈ Q²/(3m²). |
-| 5 | Show that f_IR(0) = 0, and explain physically why no soft logarithm can appear at zero momentum transfer. |
-| 6 | Explain why a photon mass is an acceptable regulator in QED but would not be acceptable if the photon coupled to a non-conserved current. |
-| 7 | Add the virtual and real corrections of Sections 3.1 and 4.2 and verify Section 4.3. |
-| 8 | Repeat Worked example 3 with E_l = 100 MeV, and comment on how the answer depends on E_l. |
-| 9 | Using the classical argument of Worked example 2, show that the energy radiated between ω₁ and ω₂ is finite as ω₁ → 0 while the photon number is not. |
-| 10 | Explain why the exclusive cross section for eμ → eμ with no photons is not an observable. |
-| 11 | For Q² = (100 GeV)², electron mass, and E_l = 1 GeV, compute the one-loop double-logarithmic correction and its exponentiated value. |
-| 12 | Explain why an infrared-divergent phase in the amplitude does not affect the cross section. |
-| 13 | Challenge: as m → 0 at fixed Q², f_IR diverges. Which additional undetected final states must be summed to obtain a finite answer in that limit, and what is that statement called? |
+| 1 | **Core.** Classify each as forward Coulomb, soft, or collinear: the 1/t² growth of dσ/dΩ in eμ → eμ; ln λ in the vertex correction; ln(Q²/m²) in f_IR at large Q². |
+| 2 | **Extension.** Show that at small k the numerator of the vertex correction reduces to ū(p′)γ^μu(p) × 4p·p′, using ū(p′)γ^ν(p̸′ + m) = 2p′^ν ū(p′) and the analogous identity on the right. |
+| 3 | **Extension.** Sketch why ∫d⁴k/[(k² − λ²)(2p·k)(2p′·k)] is proportional to ln(1/λ) at small λ, by power counting with the photon mass as the lower cutoff. |
+| 4 | **Core.** Expand f_IR(q²) for small Q² = −q² and show that f_IR ≈ Q²/(3m²). |
+| 5 | **Core.** Show that f_IR(0) = 0, and explain physically why no soft logarithm can appear at zero momentum transfer. |
+| 6 | **Extension.** Explain why a photon mass is an acceptable regulator in QED but would not be acceptable if the photon coupled to a non-conserved current. |
+| 7 | **Core.** Add the virtual and real corrections of Sections 3.1 and 4.2 and verify Section 4.3. |
+| 8 | **Extension.** Repeat Worked example 3 with E_l = 100 MeV, and comment on how the answer depends on E_l. |
+| 9 | **Core.** Using the classical argument of Worked example 2, show that the energy radiated between ω₁ and ω₂ is finite as ω₁ → 0 while the photon number is not. |
+| 10 | **Extension.** Explain why the exclusive cross section for eμ → eμ with no photons is not an observable. |
+| 11 | **Extension.** For Q² = (100 GeV)², electron mass, and E_l = 1 GeV, compute the one-loop double-logarithmic correction and its exponentiated value. |
+| 12 | **Core.** Explain why an infrared-divergent phase in the amplitude does not affect the cross section. |
+| 13 | **Challenge.** As m → 0 at fixed Q², f_IR diverges. Which additional undetected final states must be summed to obtain a finite answer in that limit, and what is that statement called? |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Forward Coulomb, soft, collinear.
 
@@ -221,14 +222,6 @@ This lesson quoted, rather than derived, the infrared part of the vertex correct
 
 **13.** As m → 0, an electron and a photon moving exactly parallel cannot be distinguished from a single electron of the same total momentum. The finite answer requires summing over such collinear final states, and also over the corresponding initial states. That is the Kinoshita–Lee–Nauenberg theorem.
 
-# Mastery checklist
+# Mastery check
 
-- I can distinguish the forward Coulomb singularity, soft divergences, and collinear logarithms.
-
-- I can locate the soft divergence by power counting at small k and explain why it cannot be renormalized.
-
-- I can write the virtual correction with a photon mass and evaluate f_IR in both limits.
-
-- I can state the Bloch–Nordsieck theorem and show how λ is replaced by E_l.
-
-- I can estimate a Sudakov double logarithm and explain why it must be exponentiated.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

@@ -40,6 +40,11 @@ Perturbation theory is not a peripheral technique. It is the method by which QED
 | Hₘₙ′ | Matrix element ⟨m⁽⁰⁾\|H′\|n⁽⁰⁾⟩ |
 | a₀ | Bohr radius, ℏ/(αmₑ) in natural units (Lesson 3, Worked example 5) |
 
+BOX: First pass: the result before the derivation
+When the Hamiltonian is a solvable part plus a small extra piece, energies and states can be expanded in powers of the small piece: E⁽¹⁾ = ⟨n|H′|n⟩, and E⁽²⁾ = Σ|H′ₘₙ|²/(Eₙ − Eₘ).
+QED's whole calculational method, from Lesson 45 on, is this idea with the small piece being the electron–photon coupling e.
+ENDBOX
+
 # 1 Setting up the expansion
 
 ## 1.1 The perturbed Hamiltonian
@@ -220,24 +225,26 @@ The pattern set in Section 2, first-order shift as an expectation value, second-
 
 @widths 720 9072
 | No | Problem |
-| 1 | Diagonalize H = [[E₁,V],[V,E₂]] exactly and expand the exact eigenvalues to second order in V, comparing with the perturbative result of Worked example 1. |
-| 2 | Derive the second-order energy formula of Section 2.3 by taking the λ² equation's inner product with ⟨n⁽⁰⁾\| and using Hermiticity of H₀, filling in every step. |
-| 3 | Show that the choice ⟨n⁽⁰⁾\|n⁽¹⁾⟩ = 0 (excluding the m=n term from the expansion of \|n⁽¹⁾⟩) can always be made without loss of generality, by absorbing any nonzero value into a redefinition of the overall normalization of \|n⟩. |
-| 4 | A perturbation H′ has only two nonzero matrix elements, H₁₂′ = H₂₁′* = V, connecting nondegenerate states 1 and 2. Find E₁⁽²⁾ and E₂⁽²⁾ and verify E₁⁽²⁾ + E₂⁽²⁾ = 0. |
-| 5 | For the degenerate perturbation of Worked example 2, find the first-order corrected states explicitly and verify they diagonalize H′ exactly, not just to leading order, given that H′ itself has no other matrix elements. |
-| 6 | Explain why, in the Stark effect of Section 4, the states \|2,1,1⟩ and \|2,1,−1⟩ receive no first-order shift, using the Δm = 0 selection rule quoted there. |
-| 7 | Using the eigenvectors found in Section 4.3, describe qualitatively (without computing the integral) why the state (\|2,0,0⟩−\|2,1,0⟩)/√2 has an electric dipole moment while neither \|2,0,0⟩ nor \|2,1,0⟩ alone does, given that each individually is a parity eigenstate. |
-| 8 | Verify the claim of Worked example 3 that ⟨1,0,0\|z\|1,0,0⟩ = 0 using the parity argument, stating explicitly which operator's eigenstate \|1,0,0⟩ is and what eigenvalue it has. |
-| 9 | For the two-level system H₀=diag(E₁,E₂) perturbed by H′=V σₓ (in the {\|1⟩,\|2⟩} basis), use the exact 2×2 diagonalization to find the exact eigenvalues, and expand to confirm they match Eᵢ⁽⁰⁾+Eᵢ⁽²⁾ from ordinary (nondegenerate) perturbation theory for small V. |
-| 10 | Using L·S = (J²−L²−S²)/2, find the spin-orbit energy shift (in units of ℏ²/2) for ℓ=1, j=3/2 and for ℓ=1, j=1/2, and compute their difference. |
-| 11 | Show that for ℓ=0 there is no spin-orbit splitting (only j=1/2 is possible), consistent with L·S necessarily vanishing when L=0. |
-| 12 | Using the addition rule of Lesson 15, list the allowed j values for ℓ=2, and find the spin-orbit factor j(j+1)−ℓ(ℓ+1)−3/4 for each. |
-| 13 | Estimate the order of magnitude of the fine-structure splitting in hydrogen using E_(n=2) ≈ −3.4 eV and the α² suppression factor of Worked example 5, and compare with the observed splitting of the n=2 level, of order 10⁻⁵ eV. |
-| 14 | Explain in one or two sentences why an energy denominator Eₙ⁽⁰⁾−Eₘ⁽⁰⁾ appearing in Section 2 is structurally similar to the propagator denominator p²−m² that will appear in Lesson 46, without deriving the field-theory result. |
-| 15 | For a perturbation H′ that is diagonal in the unperturbed basis, H′\|n⁽⁰⁾⟩ = hₙ\|n⁽⁰⁾⟩, show that perturbation theory gives the exact answer at first order, with no corrections needed at any higher order. |
-| 16 | Challenge: for the degenerate perturbation theory of Section 3.2, show that if H′ is diagonalized within the degenerate subspace with eigenvalues Eᵢ⁽¹⁾ all distinct, then the resulting "correct" zeroth-order states \|n⁽⁰⁾ᵢ⟩ automatically have vanishing first-order mixing with each other in the sense of Section 2.2 (that is, the formula there, applied within the formerly degenerate subspace, gives no divergence), by identifying why the numerator Hᵢⱼ′ vanishes between the new, diagonalizing basis states for i≠j. |
+| 1 | **Core.** Diagonalize H = [[E₁,V],[V,E₂]] exactly and expand the exact eigenvalues to second order in V, comparing with the perturbative result of Worked example 1. |
+| 2 | **Extension.** Derive the second-order energy formula of Section 2.3 by taking the λ² equation's inner product with ⟨n⁽⁰⁾\| and using Hermiticity of H₀, filling in every step. |
+| 3 | **Core.** Show that the choice ⟨n⁽⁰⁾\|n⁽¹⁾⟩ = 0 (excluding the m=n term from the expansion of \|n⁽¹⁾⟩) can always be made without loss of generality, by absorbing any nonzero value into a redefinition of the overall normalization of \|n⟩. |
+| 4 | **Core.** A perturbation H′ has only two nonzero matrix elements, H₁₂′ = H₂₁′* = V, connecting nondegenerate states 1 and 2. Find E₁⁽²⁾ and E₂⁽²⁾ and verify E₁⁽²⁾ + E₂⁽²⁾ = 0. |
+| 5 | **Extension.** For the degenerate perturbation of Worked example 2, find the first-order corrected states explicitly and verify they diagonalize H′ exactly, not just to leading order, given that H′ itself has no other matrix elements. |
+| 6 | **Extension.** Explain why, in the Stark effect of Section 4, the states \|2,1,1⟩ and \|2,1,−1⟩ receive no first-order shift, using the Δm = 0 selection rule quoted there. |
+| 7 | **Extension.** Using the eigenvectors found in Section 4.3, describe qualitatively (without computing the integral) why the state (\|2,0,0⟩−\|2,1,0⟩)/√2 has an electric dipole moment while neither \|2,0,0⟩ nor \|2,1,0⟩ alone does, given that each individually is a parity eigenstate. |
+| 8 | **Extension.** Verify the claim of Worked example 3 that ⟨1,0,0\|z\|1,0,0⟩ = 0 using the parity argument, stating explicitly which operator's eigenstate \|1,0,0⟩ is and what eigenvalue it has. |
+| 9 | **Core.** For the two-level system H₀=diag(E₁,E₂) perturbed by H′=V σₓ (in the {\|1⟩,\|2⟩} basis), use the exact 2×2 diagonalization to find the exact eigenvalues, and expand to confirm they match Eᵢ⁽⁰⁾+Eᵢ⁽²⁾ from ordinary (nondegenerate) perturbation theory for small V. |
+| 10 | **Core.** Using L·S = (J²−L²−S²)/2, find the spin-orbit energy shift (in units of ℏ²/2) for ℓ=1, j=3/2 and for ℓ=1, j=1/2, and compute their difference. |
+| 11 | **Core.** Show that for ℓ=0 there is no spin-orbit splitting (only j=1/2 is possible), consistent with L·S necessarily vanishing when L=0. |
+| 12 | **Core.** Using the addition rule of Lesson 15, list the allowed j values for ℓ=2, and find the spin-orbit factor j(j+1)−ℓ(ℓ+1)−3/4 for each. |
+| 13 | **Core.** Estimate the order of magnitude of the fine-structure splitting in hydrogen using E_(n=2) ≈ −3.4 eV and the α² suppression factor of Worked example 5, and compare with the observed splitting of the n=2 level, of order 10⁻⁵ eV. |
+| 14 | **Extension.** Explain in one or two sentences why an energy denominator Eₙ⁽⁰⁾−Eₘ⁽⁰⁾ appearing in Section 2 is structurally similar to the propagator denominator p²−m² that will appear in Lesson 46, without deriving the field-theory result. |
+| 15 | **Extension.** For a perturbation H′ that is diagonal in the unperturbed basis, H′\|n⁽⁰⁾⟩ = hₙ\|n⁽⁰⁾⟩, show that perturbation theory gives the exact answer at first order, with no corrections needed at any higher order. |
+| 16 | **Challenge.** For the degenerate perturbation theory of Section 3.2, show that if H′ is diagonalized within the degenerate subspace with eigenvalues Eᵢ⁽¹⁾ all distinct, then the resulting "correct" zeroth-order states \|n⁽⁰⁾ᵢ⟩ automatically have vanishing first-order mixing with each other in the sense of Section 2.2 (that is, the formula there, applied within the formerly degenerate subspace, gives no divergence), by identifying why the numerator Hᵢⱼ′ vanishes between the new, diagonalizing basis states for i≠j. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** The exact eigenvalues of [[E₁,V],[V,E₂]] are E± = (E₁+E₂)/2 ± √[((E₁−E₂)/2)²+V²]. Expanding the square root for small V using the binomial series of Lesson 2, E± ≈ (E₁+E₂)/2 ± [(E₁−E₂)/2 + V²/(E₁−E₂)] (taking the + root to expand around E₁), giving E₁ ≈ E₁+V²/(E₁−E₂) and E₂ ≈ E₂+V²/(E₂−E₁), matching Eᵢ⁽²⁾ from Worked example 1 exactly.
 
@@ -271,20 +278,6 @@ The pattern set in Section 2, first-order shift as an expectation value, second-
 
 **16.** By construction, the diagonalizing basis states \|n⁽⁰⁾ᵢ⟩ are the eigenvectors of the g×g matrix Hᵢⱼ′ restricted to the degenerate subspace; a Hermitian matrix's eigenvectors for distinct eigenvalues are automatically orthogonal (Lesson 1, Section 5.1) and, crucially, the off-diagonal matrix elements of H′ between them, evaluated in this new basis, are exactly zero by the defining property of diagonalization (a diagonal matrix has zero off-diagonal entries by definition). Hence the numerator Hᵢⱼ′ in the analogue of Section 2.2's formula, applied within the (now non-degenerate, since the eigenvalues Eᵢ⁽¹⁾ are assumed distinct) split subspace, vanishes identically for i≠j, so no spurious divergence from the original degeneracy remains once the correct basis is used.
 
-# Mastery checklist
+# Mastery check
 
-- I can set up H = H₀+λH′ and derive the order-by-order equations from the eigenvalue equation.
-
-- I can compute a first-order energy shift as an expectation value and a first-order state correction as a sum over intermediate states.
-
-- I can compute a second-order energy shift and explain why it always represents level repulsion.
-
-- I can recognize a degenerate situation and correctly diagonalize H′ within the degenerate subspace before proceeding.
-
-- I can work through the Stark effect example and explain why hydrogen shows a linear rather than quadratic effect.
-
-- I can explain spin-orbit coupling qualitatively and use L·S = (J²−L²−S²)/2 to compute its eigenvalues in the j basis.
-
-- I can state the combined fine-structure formula and explain its order of magnitude in powers of α.
-
-- I can explain, in a sentence, why an asymptotic perturbation series can still be extremely accurate in practice.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

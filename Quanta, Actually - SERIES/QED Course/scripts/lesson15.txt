@@ -201,24 +201,26 @@ The two-component spinor of this lesson is, quite literally, half of the object 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Verify [Ŝᵧ,Ŝ_z] = iℏŜₓ by explicit matrix multiplication, following the method of Worked example 1. |
-| 2 | Compute Ŝ² directly from the matrix forms of Ŝₓ, Ŝᵧ, Ŝ_z and confirm Ŝ² = (3ℏ²/4)I. |
-| 3 | Find the eigenvalues and normalized eigenvectors of Ŝᵧ, and verify they match the general formula of Section 3.2 with the appropriate θ and φ. |
-| 4 | For χ = (3/5, 4i/5)ᵀ, verify normalization and compute ⟨Ŝ_z⟩ and ⟨Ŝₓ⟩. |
-| 5 | Show that Ŝ = Ŝ⁽¹⁾+Ŝ⁽²⁾ for two independent spin-1/2 particles satisfies [Ŝᵢ,Ŝⱼ] = iℏεᵢⱼₖŜₖ, using that operators for particle 1 commute with all operators for particle 2. |
-| 6 | Verify that \|↑↑⟩ is an eigenstate of Ŝ² with eigenvalue 2ℏ² (that is, S=1), by direct computation using Ŝ² = (Ŝ⁽¹⁾+Ŝ⁽²⁾)² = Ŝ⁽¹⁾²+Ŝ⁽²⁾²+2Ŝ⁽¹⁾·Ŝ⁽²⁾. |
-| 7 | Show that the singlet (\|↑↓⟩−\|↓↑⟩)/√2 is an eigenstate of Ŝ² with eigenvalue 0 (S=0), using the same expansion as Exercise 6. |
-| 8 | Show explicitly that the triplet M=0 state is symmetric and the singlet is antisymmetric under exchanging the labels of particles 1 and 2. |
-| 9 | Two spin-1/2 particles are prepared in the singlet state. If particle 1 is measured along z and found spin-up, what is the state of particle 2, and what would a subsequent z-measurement on particle 2 certainly find? |
-| 10 | Using the addition rule of Section 6.3, find the possible total angular momenta for two spin-1 particles (such as two photons, ignoring their masslessness for this counting exercise). |
-| 11 | Using the addition rule, find the possible total j for ℓ = 2 combined with s = 1/2, and verify the dimension count 2(2)+1 times 2 equals the sum of 2j+1 over the allowed j. |
-| 12 | Show that (n̂·σ)² = I for any unit vector n̂, using σᵢσⱼ = δᵢⱼI + iεᵢⱼₖσₖ from Lesson 1. |
-| 13 | Find the matrix representing the rotation operator R_z(α) = e^(−iαŜ_z/ℏ) for spin-1/2, expanding the exponential using Ŝ_z² = (ℏ²/4)I, and show R_z(2π) = −I, matching the prediction of Lesson 14, Exercise 15. |
-| 14 | Show that ⟨Ŝₓ⟩² + ⟨Ŝᵧ⟩² + ⟨Ŝ_z⟩² = (ℏ/2)² for any normalized spin-1/2 state χ = (a,b)ᵀ, confirming that the expectation value vector always has length ℏ/2 (lies exactly on the Bloch sphere). |
-| 15 | A spin-1/2 particle is prepared in \|↑⟩ and a magnetic field along x causes it to precess according to iℏ∂_tχ = (ℏω₀/2)σₓχ. Solve for χ(t) and find the probability of measuring spin up along z as a function of time. |
-| 16 | Challenge: using the general Clebsch Gordan structure implied by Section 6.3 and the explicit triplet/singlet states of Section 6.2, verify the completeness relation \|↑↑⟩⟨↑↑\|+\|T,0⟩⟨T,0\|+\|↓↓⟩⟨↓↓\|+\|S,0⟩⟨S,0\| = I on the four-dimensional product space, where \|T,0⟩ and \|S,0⟩ are the triplet and singlet M=0 states. |
+| 1 | **Core.** Verify [Ŝᵧ,Ŝ_z] = iℏŜₓ by explicit matrix multiplication, following the method of Worked example 1. |
+| 2 | **Core.** Compute Ŝ² directly from the matrix forms of Ŝₓ, Ŝᵧ, Ŝ_z and confirm Ŝ² = (3ℏ²/4)I. |
+| 3 | **Extension.** Find the eigenvalues and normalized eigenvectors of Ŝᵧ, and verify they match the general formula of Section 3.2 with the appropriate θ and φ. |
+| 4 | **Core.** For χ = (3/5, 4i/5)ᵀ, verify normalization and compute ⟨Ŝ_z⟩ and ⟨Ŝₓ⟩. |
+| 5 | **Extension.** Show that Ŝ = Ŝ⁽¹⁾+Ŝ⁽²⁾ for two independent spin-1/2 particles satisfies [Ŝᵢ,Ŝⱼ] = iℏεᵢⱼₖŜₖ, using that operators for particle 1 commute with all operators for particle 2. |
+| 6 | **Extension.** Verify that \|↑↑⟩ is an eigenstate of Ŝ² with eigenvalue 2ℏ² (that is, S=1), by direct computation using Ŝ² = (Ŝ⁽¹⁾+Ŝ⁽²⁾)² = Ŝ⁽¹⁾²+Ŝ⁽²⁾²+2Ŝ⁽¹⁾·Ŝ⁽²⁾. |
+| 7 | **Extension.** Show that the singlet (\|↑↓⟩−\|↓↑⟩)/√2 is an eigenstate of Ŝ² with eigenvalue 0 (S=0), using the same expansion as Exercise 6. |
+| 8 | **Core.** Show explicitly that the triplet M=0 state is symmetric and the singlet is antisymmetric under exchanging the labels of particles 1 and 2. |
+| 9 | **Extension.** Two spin-1/2 particles are prepared in the singlet state. If particle 1 is measured along z and found spin-up, what is the state of particle 2, and what would a subsequent z-measurement on particle 2 certainly find? |
+| 10 | **Core.** Using the addition rule of Section 6.3, find the possible total angular momenta for two spin-1 particles (such as two photons, ignoring their masslessness for this counting exercise). |
+| 11 | **Core.** Using the addition rule, find the possible total j for ℓ = 2 combined with s = 1/2, and verify the dimension count 2(2)+1 times 2 equals the sum of 2j+1 over the allowed j. |
+| 12 | **Core.** Show that (n̂·σ)² = I for any unit vector n̂, using σᵢσⱼ = δᵢⱼI + iεᵢⱼₖσₖ from Lesson 1. |
+| 13 | **Core.** Find the matrix representing the rotation operator R_z(α) = e^(−iαŜ_z/ℏ) for spin-1/2, expanding the exponential using Ŝ_z² = (ℏ²/4)I, and show R_z(2π) = −I, matching the prediction of Lesson 14, Exercise 15. |
+| 14 | **Extension.** Show that ⟨Ŝₓ⟩² + ⟨Ŝᵧ⟩² + ⟨Ŝ_z⟩² = (ℏ/2)² for any normalized spin-1/2 state χ = (a,b)ᵀ, confirming that the expectation value vector always has length ℏ/2 (lies exactly on the Bloch sphere). |
+| 15 | **Extension.** A spin-1/2 particle is prepared in \|↑⟩ and a magnetic field along x causes it to precess according to iℏ∂_tχ = (ℏω₀/2)σₓχ. Solve for χ(t) and find the probability of measuring spin up along z as a function of time. |
+| 16 | **Challenge.** Using the general Clebsch Gordan structure implied by Section 6.3 and the explicit triplet/singlet states of Section 6.2, verify the completeness relation \|↑↑⟩⟨↑↑\|+\|T,0⟩⟨T,0\|+\|↓↓⟩⟨↓↓\|+\|S,0⟩⟨S,0\| = I on the four-dimensional product space, where \|T,0⟩ and \|S,0⟩ are the triplet and singlet M=0 states. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Ŝᵧ Ŝ_z = (ℏ²/4)[[0,−i],[i,0]][[1,0],[0,−1]] = (ℏ²/4)[[0,i],[i,0]]. Ŝ_z Ŝᵧ = (ℏ²/4)[[1,0],[0,−1]][[0,−i],[i,0]] = (ℏ²/4)[[0,−i],[−i,0]]. Subtracting: [Ŝᵧ,Ŝ_z] = (ℏ²/4)[[0,2i],[2i,0]] = iℏ(ℏ/2)[[0,1],[1,0]] = iℏŜₓ.
 
@@ -252,20 +254,6 @@ The two-component spinor of this lesson is, quite literally, half of the object 
 
 **16.** Each of the four listed states is normalized and, by explicit computation, pairwise orthogonal (the triplet states are orthogonal to each other by construction, and the singlet is orthogonal to every triplet state since it is built from the antisymmetric combination while the M=0 triplet uses the symmetric one, and the M=±1 triplet states involve no superposition to overlap with). Four mutually orthogonal normalized vectors in a four-dimensional space form a complete basis, so the sum of their projectors equals the identity, as the resolution of the identity Σₙ\|n⟩⟨n\|=I was established in general in Lesson 1 and Lesson 10.
 
-# Mastery checklist
+# Mastery check
 
-- I can explain, using the Stern Gerlach experiment, why spin must exist and why it cannot be orbital angular momentum.
-
-- I can write Ŝ = (ℏ/2)σ and verify the angular momentum algebra by direct matrix computation.
-
-- I can find the spin eigenstates along an arbitrary axis n̂ and compute measurement probabilities from their overlaps.
-
-- I can construct and use the spin raising and lowering operators on the two-dimensional spin-1/2 space.
-
-- I can describe what a sequence of Stern Gerlach measurements along different axes would show and why.
-
-- I can construct the singlet and triplet combinations of two spin-1/2 particles and state their exchange symmetry.
-
-- I can apply the general angular momentum addition rule to find the possible total j for any two given angular momenta.
-
-- I can explain, in a sentence or two, why the two-component spinor of this lesson is half of what the Dirac equation will need.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

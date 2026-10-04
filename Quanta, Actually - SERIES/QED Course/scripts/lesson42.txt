@@ -33,6 +33,11 @@ Every piece is now in hand. Lesson 38 quantized the free photon field, with Lagr
 | j^μ = qψ̄γ^μψ | Noether current, Lesson 31 |
 | q = −e | Electron charge, e > 0 |
 
+BOX: First pass: the result before the derivation
+ℒ_QED = ψ̄(iγ^μD_μ − m)ψ − ¼F_μνF^μν. Varying ψ̄ gives the Dirac equation with the photon coupling; varying A gives Maxwell's equations with the electron current as source.
+This one line is the whole theory. Everything from Lesson 43 on is extracting its consequences.
+ENDBOX
+
 # 1 Assembling the complete Lagrangian
 
 ## 1.1 The two pieces
@@ -178,24 +183,26 @@ With ℒ_QED assembled and both its field equations derived, Lesson 43 looks mor
 
 @widths 720 9072
 | No | Problem |
-| 1 | Write ℒ_QED fully expanded, with D_μ written out explicitly, and label each of its four terms with the lesson where it was first derived. |
-| 2 | Verify Worked example 1's claim by setting q=0 directly in the expanded form of Exercise 1 and confirming the two remaining terms are the free Lagrangians of Lessons 26 and 37. |
-| 3 | Derive the adjoint equation of Section 3.2 in full: vary ℒ_QED with respect to ψ (not ψ̄), using integration by parts on the derivative terms as in Lesson 27, and show it gives i∂_μψ̄γ^μ+qψ̄γ^μA_μ+mψ̄=0. |
-| 4 | Confirm that Section 3.2's equation is the Hermitian conjugate of Section 3.1's equation by taking the conjugate of (iγ^μD_μ−m)ψ=0 directly and relating the result to ψ̄ via γ⁰, following the method of Lesson 22, Exercise 8. |
-| 5 | Reproduce the computation of Section 4.1, ∂F_αβ/∂(∂_μA_ν)=δ^μ_αδ^ν_β−δ^μ_βδ^ν_α, by writing out F_αβ=∂_αA_β−∂_βA_α and differentiating term by term with respect to the independent variable ∂_μA_ν. |
-| 6 | Carry through the full chain-rule computation ∂[−(1/4)F_αβF^αβ]/∂(∂_μA_ν) step by step, including the factor of 2 from differentiating a quadratic expression, and confirm the final result −F^μν. |
-| 7 | Verify ∂ℒ_QED/∂A_ν=eψ̄γ^νψ directly from the expanded Lagrangian of Exercise 1, and show it equals −j^ν using j^ν=qψ̄γ^νψ with q=−e. |
-| 8 | Assemble Sections 4.1 and 4.2 into the full Euler–Lagrange equation and confirm every sign in the final result ∂_μF^μν=j^ν. |
-| 9 | Explain why ∂_μF^μν=j^ν, rather than ∂_μF^μν=−j^ν, is the physically correct sign by checking Worked example 3's ν=0 component against the known sign of Gauss's law from Lesson 8. |
-| 10 | Verify the identity ∂_ν∂_μF^μν=0 directly using the explicit antisymmetry F^μν=−F^νμ and the symmetry of ∂_ν∂_μ, following the argument of Section 5.1 with the index relabeling spelled out. |
-| 11 | Explain, in your own words, why the vanishing of ∂_ν∂_μF^μν is described as a structural or algebraic fact, in contrast with the Noether-theorem derivation of the same conservation law, which relies on the electron field's specific dynamics. |
-| 12 | State what would go wrong with the consistency of Section 5 if the photon field equation had instead come out as ∂_μF^μν = k j^ν for some current k^ν not equal to the Noether current of Lesson 31, in terms of the resulting equation for ∂_νk^ν. |
-| 13 | For the classical, non-quantized field equations of Section 6.1, explain in one or two sentences what physical process (already discussed elsewhere in the course) these equations would describe if ψ were taken to be a classical wave packet rather than an operator-valued field. |
-| 14 | List the three technical ingredients (name each by the lesson that supplies it) that will be needed to turn ℒ_QED's interaction term into a quantitative prediction, such as a scattering probability, in Part VII. |
-| 15 | Explain why the interaction term eψ̄γ^μψA_μ makes it impossible to simply repeat the mode-expansion quantization of Lessons 36 and 38 unchanged for the full, interacting theory. |
-| 16 | Challenge: using the Euler–Lagrange equations of both Sections 3 and 4 together, show that the electron equation, multiplied on the left by ψ̄ and combined with its adjoint from Section 3.2, gives ∂_μj^μ=0 directly from the matter sector alone (i.e. reproduce Lesson 31's Noether conservation law as a direct consequence of the two Dirac-sector equations of motion, without invoking Noether's theorem by name). |
+| 1 | **Core.** Write ℒ_QED fully expanded, with D_μ written out explicitly, and label each of its four terms with the lesson where it was first derived. |
+| 2 | **Core.** Verify Worked example 1's claim by setting q=0 directly in the expanded form of Exercise 1 and confirming the two remaining terms are the free Lagrangians of Lessons 26 and 37. |
+| 3 | **Extension.** Derive the adjoint equation of Section 3.2 in full: vary ℒ_QED with respect to ψ (not ψ̄), using integration by parts on the derivative terms as in Lesson 27, and show it gives i∂_μψ̄γ^μ+qψ̄γ^μA_μ+mψ̄=0. |
+| 4 | **Extension.** Confirm that Section 3.2's equation is the Hermitian conjugate of Section 3.1's equation by taking the conjugate of (iγ^μD_μ−m)ψ=0 directly and relating the result to ψ̄ via γ⁰, following the method of Lesson 22, Exercise 8. |
+| 5 | **Core.** Reproduce the computation of Section 4.1, ∂F_αβ/∂(∂_μA_ν)=δ^μ_αδ^ν_β−δ^μ_βδ^ν_α, by writing out F_αβ=∂_αA_β−∂_βA_α and differentiating term by term with respect to the independent variable ∂_μA_ν. |
+| 6 | **Extension.** Carry through the full chain-rule computation ∂[−(1/4)F_αβF^αβ]/∂(∂_μA_ν) step by step, including the factor of 2 from differentiating a quadratic expression, and confirm the final result −F^μν. |
+| 7 | **Core.** Verify ∂ℒ_QED/∂A_ν=eψ̄γ^νψ directly from the expanded Lagrangian of Exercise 1, and show it equals −j^ν using j^ν=qψ̄γ^νψ with q=−e. |
+| 8 | **Extension.** Assemble Sections 4.1 and 4.2 into the full Euler–Lagrange equation and confirm every sign in the final result ∂_μF^μν=j^ν. |
+| 9 | **Core.** Explain why ∂_μF^μν=j^ν, rather than ∂_μF^μν=−j^ν, is the physically correct sign by checking Worked example 3's ν=0 component against the known sign of Gauss's law from Lesson 8. |
+| 10 | **Core.** Verify the identity ∂_ν∂_μF^μν=0 directly using the explicit antisymmetry F^μν=−F^νμ and the symmetry of ∂_ν∂_μ, following the argument of Section 5.1 with the index relabeling spelled out. |
+| 11 | **Extension.** Explain, in your own words, why the vanishing of ∂_ν∂_μF^μν is described as a structural or algebraic fact, in contrast with the Noether-theorem derivation of the same conservation law, which relies on the electron field's specific dynamics. |
+| 12 | **Extension.** State what would go wrong with the consistency of Section 5 if the photon field equation had instead come out as ∂_μF^μν = k j^ν for some current k^ν not equal to the Noether current of Lesson 31, in terms of the resulting equation for ∂_νk^ν. |
+| 13 | **Core.** For the classical, non-quantized field equations of Section 6.1, explain in one or two sentences what physical process (already discussed elsewhere in the course) these equations would describe if ψ were taken to be a classical wave packet rather than an operator-valued field. |
+| 14 | **Core.** List the three technical ingredients (name each by the lesson that supplies it) that will be needed to turn ℒ_QED's interaction term into a quantitative prediction, such as a scattering probability, in Part VII. |
+| 15 | **Extension.** Explain why the interaction term eψ̄γ^μψA_μ makes it impossible to simply repeat the mode-expansion quantization of Lessons 36 and 38 unchanged for the full, interacting theory. |
+| 16 | **Challenge.** Using the Euler–Lagrange equations of both Sections 3 and 4 together, show that the electron equation, multiplied on the left by ψ̄ and combined with its adjoint from Section 3.2, gives ∂_μj^μ=0 directly from the matter sector alone (i.e. reproduce Lesson 31's Noether conservation law as a direct consequence of the two Dirac-sector equations of motion, without invoking Noether's theorem by name). |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** ℒ_QED = −(1/4)F_μνF^μν + ψ̄(iγ^μ∂_μ−m)ψ + eψ̄γ^μψA_μ. The first term is the free photon Lagrangian (Lessons 26, Section 6.1, and 37, Section 3.1); the second is the free Dirac kinetic term (Lesson 26, Section 4); the third is the Dirac mass term, contained inside the same expression via −mψ̄ψ (Lesson 26, Section 4); the fourth is the interaction term (Lesson 40, Section 2.2).
 
@@ -229,18 +236,6 @@ With ℒ_QED assembled and both its field equations derived, Lesson 43 looks mor
 
 **16.** Multiplying Section 3.1's equation, iγ^μ∂_μψ−qγ^μA_μψ−mψ=0, on the left by ψ̄ gives ψ̄iγ^μ∂_μψ−qψ̄γ^μA_μψ−mψ̄ψ=0. Multiplying Section 3.2's equation, i∂_μψ̄γ^μ+qψ̄γ^μA_μ+mψ̄=0, on the right by ψ gives i(∂_μψ̄)γ^μψ+qψ̄γ^μA_μψ+mψ̄ψ=0. Adding the two: ψ̄iγ^μ∂_μψ+i(∂_μψ̄)γ^μψ+(mψ̄ψ−mψ̄ψ)+(−qψ̄γ^μA_μψ+qψ̄γ^μA_μψ)=0, and the last two groups cancel exactly, leaving i[ψ̄γ^μ∂_μψ+(∂_μψ̄)γ^μψ]=0, i.e. i∂_μ(ψ̄γ^μψ)=0 (recognizing the product rule), i.e. ∂_μ(ψ̄γ^μψ)=0, which is ∂_μj^μ=0 after multiplying by the constant q, reproducing current conservation directly from the two Dirac-sector Euler–Lagrange equations with no reference to Noether's theorem.
 
-# Mastery checklist
+# Mastery check
 
-- I can write ℒ_QED in full and identify the lesson that derived each of its terms.
-
-- I can explain why ℒ_QED is gauge invariant as a consequence of its two pieces being separately invariant under the same transformation.
-
-- I can derive the gauged Dirac equation and its adjoint from the Euler–Lagrange equations for ψ̄ and ψ.
-
-- I can compute ∂ℒ_QED/∂(∂_μA_ν) from the F² term and derive ∂_μF^μν=j^ν.
-
-- I can show that current conservation follows from the antisymmetry of F^μν alone, independent of Noether's theorem, and explain why this is a meaningful consistency check.
-
-- I can state what classical field theory the two coupled equations of motion describe, and what is still needed to make quantitative quantum predictions from ℒ_QED.
-
-- I can write ℒ_QED and both of its equations of motion from memory.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

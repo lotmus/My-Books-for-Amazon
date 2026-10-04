@@ -210,24 +210,26 @@ Wick's theorem is the statement that connects this lesson to Part VII. Every Fey
 
 @widths 720 9072
 | No | Problem |
-| 1 | Derive ⟨p′, q′\|p, q⟩ = 4E_pE_q(2π)⁶[δ³(p′ − p)δ³(q′ − q) + δ³(p′ − q)δ³(q′ − p)] for the two-particle states of Section 1.2. |
-| 2 | For \|ψ⟩ = (1/√2)∫∫ d³pd³q/(2π)⁶ ψ̃(p, q)a_p†a_q†\|0⟩ with symmetric ψ̃, show that ⟨ψ\|ψ⟩ = ∫∫d³pd³q/(2π)⁶\|ψ̃\|². |
-| 3 | Verify the two-particle term of the completeness relation by acting on \|r, s⟩ and using the result of Exercise 1. |
-| 4 | Show that O = ∫∫d³pd³q/(2π)⁶ o(p, q)a_p†a_q satisfies O a_k†\|0⟩ = ∫d³p/(2π)³ o(p, k)a_p†\|0⟩, and identify o for the number operator. |
-| 5 | Show that ⟨0\|:A:\|0⟩ = 0 for any product A of at least one ladder operator, and compute :a_pa_q†:, :a_p†a_q:, and :a_p†a_qa_r†:. |
-| 6 | Show that φ(x)φ(y) = :φ(x)φ(y): + D(x − y) by splitting each field into φ⁺ and φ⁻. |
-| 7 | Show that [φ⁺(x), φ⁻(y)] = D(x − y) from the ladder commutator, and that [φ⁺(x), φ⁺(y)] = [φ⁻(x), φ⁻(y)] = 0. |
-| 8 | Derive ⟨0\|φ(x₁)φ(x₂)φ(x₃)φ(x₄)\|0⟩ = D₁₂D₃₄ + D₁₃D₂₄ + D₁₄D₂₃ by moving φ⁺(x₁) to the right. |
-| 9 | Set all four points equal in Exercise 8 to show ⟨0\|φ⁴\|0⟩ = 3D(0)² and explain why ⟨0\|:φ⁴:\|0⟩ = 0. |
-| 10 | Compute the Casimir pressure π²ℏc/(240a⁴) for a = 1 μm and a = 100 nm, using ℏc = 3.16 × 10⁻²⁶ J m. |
-| 11 | Show by dimensional analysis that the Casimir energy per unit area scales as ℏc/a³ and that the force per area scales as ℏc/a⁴, and explain why the force is attractive if the energy is negative and grows in magnitude as a decreases. |
-| 12 | Describe the Fock space of a complex scalar field, state the charge of the state a_p†b_q†\|0⟩ and of a_p†a_q†\|0⟩, and show that N_a and N_b commute. |
-| 13 | Show that a state annihilated by every a_k in a box is proportional to the vacuum. |
-| 14 | Using e^(iP·a)\|0⟩ = \|0⟩ and φ(x + a) = e^(iP·a)φ(x)e^(−iP·a), show that ⟨0\|φ(x + a)φ(y + a)\|0⟩ = ⟨0\|φ(x)φ(y)\|0⟩. |
-| 15 | Explain what the equal-time massless value ⟨0\|φ(t, x)φ(t, y)\|0⟩ = 1/(4π²r²) says about the vacuum, and why it is not an operator equation. |
-| 16 | Challenge: show that the number of states in Fock space with at most N_max quanta distributed among M modes is C(N_max + M, M), and evaluate it for M = 3, N_max = 2 by summing the sectors. |
+| 1 | **Extension.** Derive ⟨p′, q′\|p, q⟩ = 4E_pE_q(2π)⁶[δ³(p′ − p)δ³(q′ − q) + δ³(p′ − q)δ³(q′ − p)] for the two-particle states of Section 1.2. |
+| 2 | **Core.** For \|ψ⟩ = (1/√2)∫∫ d³pd³q/(2π)⁶ ψ̃(p, q)a_p†a_q†\|0⟩ with symmetric ψ̃, show that ⟨ψ\|ψ⟩ = ∫∫d³pd³q/(2π)⁶\|ψ̃\|². |
+| 3 | **Core.** Verify the two-particle term of the completeness relation by acting on \|r, s⟩ and using the result of Exercise 1. |
+| 4 | **Core.** Show that O = ∫∫d³pd³q/(2π)⁶ o(p, q)a_p†a_q satisfies O a_k†\|0⟩ = ∫d³p/(2π)³ o(p, k)a_p†\|0⟩, and identify o for the number operator. |
+| 5 | **Extension.** Show that ⟨0\|:A:\|0⟩ = 0 for any product A of at least one ladder operator, and compute :a_pa_q†:, :a_p†a_q:, and :a_p†a_qa_r†:. |
+| 6 | **Core.** Show that φ(x)φ(y) = :φ(x)φ(y): + D(x − y) by splitting each field into φ⁺ and φ⁻. |
+| 7 | **Core.** Show that [φ⁺(x), φ⁻(y)] = D(x − y) from the ladder commutator, and that [φ⁺(x), φ⁺(y)] = [φ⁻(x), φ⁻(y)] = 0. |
+| 8 | **Extension.** Derive ⟨0\|φ(x₁)φ(x₂)φ(x₃)φ(x₄)\|0⟩ = D₁₂D₃₄ + D₁₃D₂₄ + D₁₄D₂₃ by moving φ⁺(x₁) to the right. |
+| 9 | **Extension.** Set all four points equal in Exercise 8 to show ⟨0\|φ⁴\|0⟩ = 3D(0)² and explain why ⟨0\|:φ⁴:\|0⟩ = 0. |
+| 10 | **Core.** Compute the Casimir pressure π²ℏc/(240a⁴) for a = 1 μm and a = 100 nm, using ℏc = 3.16 × 10⁻²⁶ J m. |
+| 11 | **Extension.** Show by dimensional analysis that the Casimir energy per unit area scales as ℏc/a³ and that the force per area scales as ℏc/a⁴, and explain why the force is attractive if the energy is negative and grows in magnitude as a decreases. |
+| 12 | **Core.** Describe the Fock space of a complex scalar field, state the charge of the state a_p†b_q†\|0⟩ and of a_p†a_q†\|0⟩, and show that N_a and N_b commute. |
+| 13 | **Extension.** Show that a state annihilated by every a_k in a box is proportional to the vacuum. |
+| 14 | **Core.** Using e^(iP·a)\|0⟩ = \|0⟩ and φ(x + a) = e^(iP·a)φ(x)e^(−iP·a), show that ⟨0\|φ(x + a)φ(y + a)\|0⟩ = ⟨0\|φ(x)φ(y)\|0⟩. |
+| 15 | **Extension.** Explain what the equal-time massless value ⟨0\|φ(t, x)φ(t, y)\|0⟩ = 1/(4π²r²) says about the vacuum, and why it is not an operator equation. |
+| 16 | **Challenge.** Show that the number of states in Fock space with at most N_max quanta distributed among M modes is C(N_max + M, M), and evaluate it for M = 3, N_max = 2 by summing the sectors. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** With |p, q⟩ = √(2E_p2E_q)a_p†a_q†|0⟩ the bra is ⟨0|a_qa_p√(2E_p2E_q), so ⟨p′, q′|p, q⟩ = √(2E_p′2E_q′2E_p2E_q)⟨0|a_(q′)a_(p′)a_p†a_q†|0⟩. Using [a_p, a_q†] = (2π)³δ³ and a|0⟩ = 0, ⟨0|a_(q′)a_(p′)a_p†a_q†|0⟩ = (2π)⁶[δ³(p′ − p)δ³(q′ − q) + δ³(p′ − q)δ³(q′ − p)]. On the support of either product of delta functions the energies match, so the square root is 4E_pE_q, and the result follows.
 
@@ -261,20 +263,6 @@ Wick's theorem is the statement that connects this lesson to Part VII. Every Fey
 
 **16.** The number of states with exactly N quanta in M modes is C(N + M − 1, N). Summing over N = 0, …, N_max gives Σ_N C(N + M − 1, N) = C(N_max + M, M), by the hockey stick identity. For M = 3 and N_max = 2: 1 + 3 + 6 = 10 = C(5, 3) = 10.
 
-# Mastery checklist
+# Mastery check
 
-- I can define the Fock space as a direct sum and explain why the symmetry of its states follows from the ladder commutators.
-
-- I can compute the norm and inner products of two-particle states and write the completeness relation with the factor 1/n!.
-
-- I can write the number, energy, and momentum operators as one-body operators.
-
-- I can normal order a product of ladder operators and show it removes the zero-point energy without changing energy differences.
-
-- I can split the field into φ⁺ and φ⁻ and derive φ(x)φ(y) = :φ(x)φ(y): + D(x − y).
-
-- I can derive the four-point vacuum expectation value as a sum over pairings and count the pairings for 2n fields.
-
-- I can explain the Casimir effect and estimate its size.
-
-- I can describe the Fock space for several species as a tensor product.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

@@ -1,17 +1,23 @@
-TITLE: Feynman Diagrams for Absolute Beginners
-TAGLINE: A diagram is a cartoon of Prologue 3's three actions. Each cartoon is one arrow. Add the cartoons, then square
+TITLE: The S-Matrix and Feynman Diagrams
+TAGLINE: The engineer's in-and-out waves are the same idea as ⟨f|S|i⟩: arrows from in to out. A Feynman diagram is a recipe for one of those arrows, built from Prologue 5's three actions. Add the recipes, then square
 NUM: 9
-NEXT: Lesson 1 starts the algebra: those arrows are complex numbers. The diagrams return as a precise recipe in Lesson 50.
+NEXT: Lesson 1 starts the algebra: the arrows of the prologues are complex numbers, now with full rules. The diagrams return as a precise recipe in Lesson 50.
 
 # How to use this prologue
 
-This is the long, slow, no-shame explanation of Feynman diagrams. If you have never seen one, you are the intended reader. If you have seen them and they still feel like magic, you are also the intended reader.
-
-A diagram is not a photograph of particles. It is not a bubble-chamber track. It is not a proof. It is a cartoon of which of Prologue 3's three actions you used, in which order. Each cartoon stands for one arrow (one S-parameter, Prologue 8). You add the arrows from every allowed cartoon, then square. Lesson 50 will turn the cartoon into +ieγ^μ and a propagator. Here you only have to learn to read the pictures and not lie to yourself about what they are.
-
-Expect six to ten hours. Draw every figure with your own pencil. Do not skip the "illegal" section: spotting a fake diagram is half the skill.
+If you have ever used a network analyzer, you already own half of particle physics. A two-port has incoming waves a₁, a₂ and outgoing waves b₁, b₂, packed as b = Sa; the numbers S₁₁, S₂₁ are arrows, and their squared lengths are reflected and transmitted power. QED uses the same packing for particles: an in-state |i⟩, an out-state |f⟩, a matrix S, an arrow ⟨f|S|i⟩. The first half of this prologue is that dictionary. The second half is a long, slow explanation of Feynman diagrams, the pictures of Prologue 5 used as recipes for ⟨f|S|i⟩: if you have never seen one, or have and they still feel like magic, you are the intended reader. Lesson 50 later turns each picture into exact factors such as ieγ^μ. Draw every figure with your own pencil, and do not skip the section on illegal diagrams: spotting a fake is half the skill. Expect eight to twelve hours.
 
 ## Learning objectives
+
+- Write b = S a for a two-port and name S₁₁ as reflection, S₂₁ as transmission.
+
+- Identify |S_ij|² with Prologue 1's probability (power, in the microwave case).
+
+- Write the QED S-matrix element as ⟨f|S|i⟩ and compare it to S₂₁.
+
+- Translate Prologue 2's glass into S-parameters.
+
+- State what a particle-physics "port" is: a species, a momentum, and a spin.
 
 - Recognize a straight line as "electron goes" and a wavy line as "photon goes."
 
@@ -35,7 +41,12 @@ Expect six to ten hours. Draw every figure with your own pencil. Do not skip the
 
 @widths 2160 7632
 | Symbol | Meaning |
-| straight line | Electron (or positron) goes, Prologue 3 |
+| a₁, a₂ | Incoming wave amplitudes at ports 1 and 2 (microwave) |
+| b₁, b₂ | Outgoing wave amplitudes |
+| S₁₁, S₂₁ | Reflection at 1; transmission from 1 to 2 |
+| ⟨f|S|i⟩ | QED amplitude from in-state i to out-state f |
+| ℳ | The interesting part of S after removing "nothing happened" and a momentum δ-function, Lesson 50 |
+| straight line | Electron (or positron) goes, Prologue 5 |
 | wavy line | Photon goes |
 | dot, vertex | Electron emits or absorbs a photon |
 | external | A line that ends on a real in or out particle |
@@ -43,41 +54,53 @@ Expect six to ten hours. Draw every figure with your own pencil. Do not skip the
 | tree | A cartoon with no closed loop |
 | loop | A closed road of internal lines |
 
-# 1 The only idea, said before any picture
+# 1 The two-port you already know
 
-Prologue 3 gave you three allowed actions and nothing else:
+IMG: P9_twoport.png | 5.0 | Figure P9.1. A two-port network: incoming waves a₁, a₂ and outgoing waves b₁, b₂, related by b = Sa.
 
-1. A photon goes from place to place.
+$$ b₁ = S₁₁ a₁ + S₁₂ a₂
 
-2. An electron goes from place to place.
+$$ b₂ = S₂₁ a₁ + S₂₂ a₂
 
-3. An electron emits or absorbs a photon.
-
-A Feynman diagram is those three sentences drawn as marks on a page. That is the whole invention. The rest of this prologue is how to look at the marks without inventing extra physics.
-
-If you remember only one sentence, remember this: **each legal cartoon is one arrow; undistinguished cartoons add; then you square.**
-
-# 2 The only three marks you need
-
-Forget art. You are allowed three marks.
-
-FIG:
-  electron goes     ----------
-  photon goes       ~~~~~~~~~~
-  vertex            a dot where one wavy line meets two straight lines
-ENDFIG
-
-That is the whole alphabet. If you ever see four lines meeting at a point in this course, you have drawn a mistake: QED has no four-photon vertex and no four-electron vertex. Gravity would; we are not doing gravity. The strong force has a three-gluon vertex; we are not doing that either. Here, a vertex is always "electron emits or absorbs a photon," which is three lines: two straight, one wavy.
+S₁₁ is "in at 1, back out at 1": reflection. S₂₁ is "in at 1, out at 2": transmission. If the network is lossless, the outgoing power equals the incoming power: the S matrix is unitary, which in arrows says lengths are preserved. That is Prologue 6's ⟨ψ|ψ⟩=1, written for waves on cables.
 
 ### Worked example 1
 
+A matched load has S₁₁=0: nothing comes back. A short has S₁₁=−1: everything comes back, arrow reversed. A piece of glass, Prologue 2, is a two-port for photons: S₁₁~0.2 (one surface), and |S₁₁|²≈0.04. Two surfaces make S₁₁ a sum of two arrows, thickness-dependent. You have been computing S-parameters with Feynman arrows since Prologue 2.
+
+# 2 Particles instead of cables
+
+In QED the "cables" are beams. An in-state |i⟩ names every incoming particle: species, momentum, spin. An out-state |f⟩ names every outgoing one. The amplitude is
+
+$$ ⟨ f | S | i ⟩
+
+Read it as S₂₁, with port 1 = the prepared beam and port 2 = the detector setting. If nothing happens, S acts as 1: ⟨f|i⟩, which is zero unless f is i. Scattering is the extra piece, written i(2π)⁴δ⁴(P_f−P_i)ℳ in Lesson 50. ℳ is the S-parameter after you have stripped off "the beam missed" and "momentum must balance."
+
+# 3 Unitarity is probability accounting
+
+Microwave: if 1 watt goes in, 1 watt comes out of a lossless two-port, in some mix of b₁ and b₂. QED: if a photon goes in, the sum of |⟨f|S|i⟩|² over all possible f is 1 (on the energy shell, with the usual continuum caveats of Lesson 51). Lost probability is a missing diagram, a missed port. Optical theorem, later, is this sentence differentiated.
+
+# 4 Many ports
+
+A 2→2 process (two particles in, two out) is a four-port if you count each particle's momentum as a port. Compton is S from the port "electron+photon in" to the port "electron+photon out." Annihilation is a different routing: electron+positron in, two photons out. The Feynman diagram of Prologue 9 is the picture of which internal cables you soldered. The S-parameter is the number that picture evaluates to.
+
+# 5 The only three marks you need
+
+Forget art. You are allowed three marks.
+
+IMG: P9_marks.png | 5.6 | Figure P9.2. The only three marks: a straight line with an arrowhead (an electron goes), a wavy line (a photon goes), and a dot where one wavy line meets two straight lines (a vertex).
+
+That is the whole alphabet. If you ever see four lines meeting at a point in this course, you have drawn a mistake: QED has no four-photon vertex and no four-electron vertex. Gravity would; we are not doing gravity. The strong force has a three-gluon vertex; we are not doing that either. Here, a vertex is always "electron emits or absorbs a photon," which is three lines: two straight, one wavy.
+
+### Worked example 3
+
 Can two wavy lines join a straight line with no second straight line? No. The vertex is "electron emits or absorbs a photon." Absorbing, the electron is still an electron: two straight, one wavy. There is no "photon turns into an electron" vertex without a positron (a second straight line, Lesson 23). Charge is conserved at every dot. That is not a slogan. It is which marks are legal.
 
-### Worked example 2
+### Worked example 4
 
 Can two straight lines join with no wavy line? No. That would be "two electrons touch and something happens with no photon." QED has no such action. Electrons talk only by exchanging photons (or by being the same electron going). If you want two electrons to scatter, you must draw a photon connecting them.
 
-# 3 A useless analogy that actually helps
+# 6 A useless analogy that actually helps
 
 Think of a cooking recipe, not a movie.
 
@@ -91,7 +114,7 @@ A Feynman diagram is the recipe, not a photograph of the kitchen. Two different 
 
 A subway map is the same idea. The map is not the city. The map tells you which lines connect which stations. An internal line is a tunnel with no station the passenger is allowed to get off at.
 
-# 4 How to look at the page
+# 7 How to look at the page
 
 People argue about time pointing up or to the right. This course, matching Lesson 50, draws the process as incoming on the left and outgoing on the right when it can, and does not fuss if a figure is rotated. What matters is labels:
 
@@ -105,19 +128,11 @@ People argue about time pointing up or to the right. This course, matching Lesso
 
 The small arrow drawn on an electron line is **charge flow**, not "the direction of time" in a philosophical sense. A positron is a straight line with the charge arrow reversed (Lesson 23). You may ignore positrons until that lesson, except to know they are legal marks and that an electron line with the arrow pointing the "wrong" way relative to left-to-right is how this course will later draw a positron.
 
-FIG:
-  left = in, right = out (this course's habit)
-
-  e⁻(p) ------>---- * ------>---- e⁻(p')
-                    |
-                    ~
-                    ~
-                   γ(k)
-ENDFIG
+IMG: L45_vertex.png | 4.6 | Figure P9.3. One vertex, read left to right: an electron comes in with momentum p, absorbs or emits the photon, and leaves with p′.
 
 That one-vertex cartoon is not a finished scattering process: one incoming electron plus one incoming photon becoming one outgoing electron leaves energy and momentum unmatched for real, on-shell particles (Lesson 45). It is still the legal **piece**. Compton, below, uses two such pieces glued by an internal electron.
 
-# 5 Walk a diagram the way you walk a sentence
+# 8 Walk a diagram the way you walk a sentence
 
 Take any cartoon. Read it as English before you read it as math.
 
@@ -129,41 +144,31 @@ If you can say that sentence, you have read the diagram. The later algebra is th
 
 Order of reading on the page (left to right) is a convenience. Nature does not print a page. What is physical is: these external particles, these vertices, this pattern of connections.
 
-# 6 External versus internal: the one idea that saves you
+# 9 External versus internal: the one idea that saves you
 
 An **external** line sticks out of the cartoon and is labelled with a real particle that a detector could in principle catch. It is on the mass shell: for an electron, E² − |p|² = m²; for a photon, k² = 0.
 
 An **internal** line is a segment between two vertices. Nobody catches it. It is a way of saying "the three actions happened twice, connected." Its momentum is whatever conservation at the dots forces. It is allowed to be **off shell**: k² need not equal 0, p² need not equal m². That is what "virtual" means. Not fake. Not imaginary in the i sense. Just not a detected, on-shell particle.
 
-FIG:
-  e⁻(p) ----*~~~~*---- e⁻(p')     the internal photon is the middle wavy piece
-            |    |                 the two dots are two vertices
-           γ(k)  γ(k')             four external lines: two electrons, two photons
-ENDFIG
+IMG: L57_compton.png | 6.0 | Figure P9.4. Four external lines (two electrons, two photons), two vertices, and one internal electron line between them. The two diagrams are the two orderings of Compton scattering.
 
-Wait: the figure above is Møller-like if both wavy lines are external photons attached to two electrons? No — look again. If both photons are external and both electrons are external, the internal piece is the electron line between the two dots... or the photon, depending which cartoon you drew. The labels tell you. Never trust an unlabeled scribble.
+In Figure P9.4 every wavy line is external: the photons come in and go out. The only internal line is the electron segment between the two dots. Which line is internal depends on the labels, never on the shape: never trust an unlabelled scribble.
 
 Here is the same idea drawn as **electron-electron scattering** (Møller): two electrons in, two electrons out, one internal photon.
 
-FIG:
-  e⁻(p1) ----*---- e⁻(p3)
-             ~
-             ~          internal photon (virtual)
-             ~
-  e⁻(p2) ----*---- e⁻(p4)
-ENDFIG
+IMG: L53_momentum.png | 5.6 | Figure P9.5. Electron–electron (or electron–muon) scattering by one internal photon: the momentum bookkeeping at each dot.
 
 Four external electron lines. Zero external photons. One internal photon. Two vertices. That is "they scattered by exchanging a photon."
 
-### Worked example 3
+### Worked example 5
 
 Is the internal line optional decoration? No. If you omit it you have two vertices that are not a process: you have not said how the two electrons knew about each other. The internal line is the photon-goes action connecting them. Rutherford's 1/t is that internal photon going nearly on shell in the t-channel (Lesson 61).
 
-### Worked example 4
+### Worked example 6
 
 A student says "virtual particles are particles that exist for a time Δt ~ 1/ΔE allowed by the uncertainty principle." That slogan is a mnemonic, not a law used in this course. The calculation never integrates a lifetime. It integrates a momentum. Virtual means: internal line, off shell, not detected. Keep the slogan if it helps you remember off-shell; throw it away if it makes you picture a tiny real photon hiding between the dots.
 
-# 7 A vertex is a number, a line is a number
+# 10 A vertex is a number, a line is a number
 
 Each mark will become a factor in Lesson 50. You do not need the formulae yet. You need the habit: the cartoon is a **product** of factors, hence **one** arrow.
 
@@ -181,22 +186,19 @@ Two cartoons: two arrows. Add them. Then square.
 
 Counting powers: each vertex brings one e. Two vertices: e², which is one power of α up to 4π. Four vertices: e⁴ ~ α², a loop or a more elaborate tree. Smaller, usually. That is why this course computes trees first.
 
-### Worked example 5
+### Worked example 7
 
 A diagram with three vertices: is it allowed? Yes as a drawing, if each vertex is two-straight-plus-one-wavy. For an ordinary 2-to-2 process (two particles in, two out) you cannot make a connected cartoon with an odd number of vertices while keeping charge and the photon count consistent in the simple cases of this prologue. You will see even vertex counts in Compton, Møller, and annihilation at the first interesting order. If you draw three vertices for Compton, you have added an extra emit-and-absorb that belongs to a higher-order correction. Legal, smaller, later.
 
-# 8 Conservation at a dot, like traffic at a T-junction
+# 11 Conservation at a dot, like traffic at a T-junction
 
-At every vertex, four-momentum is conserved: what flows in equals what flows out. Charge is conserved because the marks already force it (two electron lines, one photon).
+At every vertex, four-momentum is conserved: what flows in equals what flows out.
 
-FIG:
-  p_in + k_in = p_out     at an absorb-a-photon vertex
-  p_in = p_out + k_out    at an emit-a-photon vertex
-ENDFIG
+$$ p_in + k_in = p_out (absorb a photon),   p_in = p_out + k_out (emit a photon) Charge is conserved because the marks already force it (two electron lines, one photon).
 
 For an internal line, you do not get to pick its momentum freely once the externals and the other internals are fixed: the dots decide. In a tree, every internal momentum is determined by the externals. In a loop, one momentum around the loop is **not** determined; you will integrate it (Lesson 62). That is the only reason loops are harder. Not mysticism. An unfixed k.
 
-# 9 Compton, drawn slowly
+# 12 Compton, drawn slowly
 
 Process: electron in, photon in; electron out, photon out. External lines: e⁻(p), γ(k), e⁻(p′), γ(k′).
 
@@ -204,27 +206,11 @@ You need **two** cartoons at the first interesting order (two vertices, one inte
 
 Cartoon A, "absorb the incoming photon first, emit the outgoing photon later":
 
-FIG:
-  incoming γ hits the electron, electron is internal for a while, then emits the outgoing γ
-
-  e⁻(p) ----*----------*---- e⁻(p')
-            |          |
-           γ(k)       γ(k')
-           in          out
-ENDFIG
+IMG: L57_compton.png | 6.0 | Figure P9.6. Compton scattering. Left: the incoming photon is absorbed first. Right: the outgoing photon is emitted first. Both diagrams are required.
 
 Sentence: photon in is absorbed; the electron goes virtually; photon out is emitted.
 
 Cartoon B, "emit the outgoing photon first, absorb the incoming photon later":
-
-FIG:
-  electron emits the outgoing γ first, then absorbs the incoming γ
-
-  e⁻(p) ----*----------*---- e⁻(p')
-            |          |
-           γ(k')      γ(k)
-           out         in
-ENDFIG
 
 Sentence: photon out is emitted first; the electron goes virtually with a different internal momentum; photon in is absorbed.
 
@@ -232,37 +218,25 @@ Why both? Because the three actions do not care which photon is "the incoming on
 
 Lesson 57 computes the sum and finds a miracle: the interference between A and B vanishes in the massless limit, leaving −2e⁴(s/u + u/s). You are not asked to believe the miracle. You are asked to keep both cartoons. The miracle is a result, not a reason to drop B from the start.
 
-### Worked example 6
+### Worked example 8
 
 Could there be a cartoon with an internal photon instead, for Compton? That would be: electron emits a photon that becomes the outgoing photon while the incoming photon... no. Compton's external particles are one electron and one photon on each side. The two-vertex connected cartoons that do that are A and B above, with an internal **electron**. A cartoon with an internal photon and four external lines of the Compton type is a different process or a disconnected doodle. Draw it; you will find you have changed who is in and who is out.
 
-# 10 Møller, drawn slowly
+# 13 Møller, drawn slowly
 
 Process: two electrons in, two electrons out. No photons in the initial or final list. They still scatter, because they exchange a photon that nobody detects.
 
 Cartoon (t-channel exchange):
 
-FIG:
-  e⁻(p1) ----*---- e⁻(p3)
-             ~
-             ~   virtual photon
-             ~
-  e⁻(p2) ----*---- e⁻(p4)
-ENDFIG
+IMG: L55_moller.png | 6.0 | Figure P9.7. Møller scattering: two identical electrons, two diagrams, a relative minus sign (Prologue 5, Section 4).
 
 There is a second cartoon (u-channel): the outgoing labels p3 and p4 swapped, because the two outgoing electrons are identical and you cannot say which incoming electron became which outgoing one. Identical fermions: add with a minus (Lesson 34, Lesson 55). This prologue only needs: **two cartoons again, because the particles are indistinguishable.** Add, then square.
 
-# 11 Annihilation and pair production: the same marks, rotated
+# 14 Annihilation and pair production: the same marks, rotated
 
 e⁺e⁻ → γγ (annihilation to two photons):
 
-FIG:
-  e⁻ ----*~~~~ γ
-         |
-         |   internal electron
-         |
-  e⁺ ----*~~~~ γ
-ENDFIG
+IMG: L56_annihilation.png | 6.0 | Figure P9.8. Electron–positron annihilation into two photons: the Compton marks rotated.
 
 Plus the cartoon with the two photons swapped.
 
@@ -270,37 +244,25 @@ Plus the cartoon with the two photons swapped.
 
 The idiot-proof slogan: **crossing** means you rotate which lines are incoming and outgoing; the marks stay legal. Lesson 53 will name s, t, u as the invariants that make those rotations precise.
 
-# 12 Trees and loops, without panic
+# 15 Trees and loops, without panic
 
 If the cartoon can be drawn on a page without any closed road, it is a **tree**. Compton at this order is a tree. Møller at this order is a tree. Trees have every internal momentum fixed by the externals.
 
 If a photon is emitted and later absorbed on the same electron line, you have drawn a **loop**.
 
-FIG:
-  external e⁻ ----*~~~~*---- external e⁻
-                  |    |      a photon emitted and reabsorbed
-                  ~~~~~~      that closed photon road is a loop
-ENDFIG
+IMG: L62_topologies.png | 6.0 | Figure P9.9. The three one-loop building blocks: a photon briefly becoming a pair (vacuum polarization), an electron emitting and reabsorbing a photon (self-energy), and a photon spanning a vertex (vertex correction).
 
-That picture is the electron self-energy (Lesson 64). The electron that enters and the electron that leaves are still external if they hit a detector. The loop is an insertion on the line. It shifts the mass; Lesson 68 absorbs the shift into m₀.
+The middle picture of Figure P9.9 is the electron self-energy (Lesson 64). The electron that enters and the electron that leaves are still external if they hit a detector. The loop is an insertion on the line. It shifts the mass; Lesson 68 absorbs the shift into m₀.
 
-Another loop: a photon line with an electron circuit sitting on it.
+The left picture is a photon line with an electron circuit sitting on it. That is how the charge runs with q² (Lesson 69). A loop is extra vertices, hence extra factors of e, hence smaller at ordinary energies, and it needs an integral over the unfixed loop momentum (Lesson 62). Trees first. Loops in Part IX. Anyone who tells you QED "is all loops" is skipping the part you can compute with a pencil this year.
 
-FIG:
-  γ ~~~~*----*~~~~ γ
-        |    |      electron goes around and meets itself
-        ------      vacuum polarization, Lesson 63
-ENDFIG
-
-That is how the charge runs with q² (Lesson 69). A loop is extra vertices, hence extra factors of e, hence smaller at ordinary energies, and it needs an integral over the unfixed loop momentum (Lesson 62). Trees first. Loops in Part IX. Anyone who tells you QED "is all loops" is skipping the part you can compute with a pencil this year.
-
-# 13 One Feynman diagram is already several time-orderings
+# 16 One Feynman diagram is already several time-orderings
 
 Cartoon A for Compton is one Feynman diagram. If you insist on a movie with a clock, "absorb then emit" and the internal electron going forward in time is one movie; there are related movies once positrons are allowed. The Feynman diagram adds those movies for you. That is why one diagram is allowed to look as if "the photon was emitted before it was absorbed" without anyone owing you a time machine. The diagram is not a timeline. It is a term.
 
 If you need a clock picture, draw two time-ordered graphs and add them. If you are willing to let Lesson 47's propagator do that sum, draw one Feynman diagram. This course draws Feynman diagrams.
 
-# 14 Illegal cartoons, so you can spot them
+# 17 Illegal cartoons, so you can spot them
 
 - A photon line that splits into two photon lines and nothing else: not QED. (A photon does not decay into two photons at a point.)
 
@@ -314,23 +276,7 @@ If you need a clock picture, draw two time-ordered graphs and add them. If you a
 
 - Drawing a bubble-chamber helix and labelling it "the Feynman diagram for that event": a track is many real ionizations, each a detected photon-or-atom interaction. A diagram is one term in a sum of arrows for a specified in and out.
 
-# 15 The reading rule, once more, louder
-
-1. Write down the external particles you care about (the in list and the out list).
-
-2. List every legal cartoon that has exactly those external lines, at the order (number of vertices) you are working.
-
-3. For each cartoon, imagine (later: write) one arrow, a product of one factor per mark.
-
-4. Add the arrows.
-
-5. Square the length. That is |ℳ|² up to the bookkeeping of Lesson 51.
-
-6. Never square a cartoon and then add those probabilities, unless the experiment distinguished the cartoons (it almost never did).
-
-That is the same rule as Prologue 2's two surfaces of glass. Diagrams are glass, with more kinds of bounce.
-
-# 16 What the idiot version is allowed to skip
+# 18 What a first reading may skip
 
 Spin, γ-matrices, iε in the propagator, gauge fixing, minus signs for closed fermion loops, ghost stories from other theories. All real, all later. If you can look at a Compton page and say "two vertices, one internal electron, two cartoons, add then square," you have passed this prologue. Lesson 50 is the same sentence with the factors filled in.
 
@@ -338,7 +284,11 @@ Spin, γ-matrices, iε in the propagator, gauge fixing, minus signs for closed f
 
 @widths 3264 6528
 | Result of this prologue | Where it is used |
-| Three marks | Prologue 3; Lesson 50 recipe |
+| b=Sa | Laboratory language for ⟨f|S|i⟩ |
+| S₁₁, S₂₁ | Reflection and transmission; Prologue 2's glass |
+| ℳ | Lesson 50–51, the computed S-parameter of a process |
+| Unitarity | Probability; later, the optical theorem |
+| Three marks | Prologue 5; Lesson 50 recipe |
 | External vs internal | Virtual photons, Lesson 48; Lesson 61 poles |
 | Two Compton cartoons | Lessons 50 and 57 |
 | Møller exchange | Lesson 55 |
@@ -348,83 +298,105 @@ Spin, γ-matrices, iε in the propagator, gauge fixing, minus signs for closed f
 
 # Summary
 
-1. Straight = electron goes. Wavy = photon goes. Dot = vertex. Only two-straight-plus-one-wavy dots are legal.
+1. S-parameters are arrows from in-waves to out-waves.
 
-2. A diagram is a recipe for one arrow, not a photograph of a collision.
+2. |S_ij|² is power in the microwave, probability in QED.
 
-3. External lines are real on-shell particles; internal lines are virtual cables, off shell, not detected.
+3. ⟨f|S|i⟩ is the same idea for particles.
 
-4. Each cartoon is one arrow. Add every undistinguished cartoon, then square.
+4. Glass was an S₁₁. Compton is a bigger S.
 
-5. Compton needs two cartoons (internal electron). Møller needs exchange cartoons (internal photon). Annihilation is the same alphabet rotated.
+5. Lesson 51 converts |ℳ|² into a cross section, the particle version of |S₂₁|² times a flux.
 
-6. Trees first. Loops are extra dots plus an unfixed momentum. Lesson 50 writes the numbers.
+6. Straight = electron goes. Wavy = photon goes. Dot = vertex. Only two-straight-plus-one-wavy dots are legal.
+
+7. A diagram is a recipe for one arrow, not a photograph of a collision.
+
+8. External lines are real on-shell particles; internal lines are virtual cables, off shell, not detected.
+
+9. Each cartoon is one arrow. Add every undistinguished cartoon, then square.
+
+10. Compton needs two cartoons (internal electron). Møller needs exchange cartoons (internal photon). Annihilation is the same alphabet rotated.
+
+11. Trees first. Loops are extra dots plus an unfixed momentum. Lesson 50 writes the numbers.
 
 # Exercises
 
 @widths 720 9072
 | No | Problem |
-| 1 | Draw the three legal marks and write the English sentence for each. |
-| 2 | Why is a four-line vertex illegal in QED? |
-| 3 | In one sentence, what is a virtual line? |
-| 4 | Why must Compton's two cartoons be added before squaring? |
-| 5 | Count vertices, external lines, and internal lines on Møller (two electrons in, two out, one photon exchanged). |
-| 6 | Is a bubble-chamber track a Feynman diagram? Say why in two sentences. |
-| 7 | What S-parameter is a diagram computing, in Prologue 8's language? |
-| 8 | Draw, as words or marks, e⁺e⁻ → two photons, including the crossed cartoon. |
-| 9 | Why can a single on-shell photon not become e⁺e⁻ by itself? |
-| 10 | Challenge: a loop on an external electron. Is the electron that hits the detector still external? What later lesson names the loop? |
-| 11 | A student draws two wavy lines meeting two wavy lines at a point and calls it photon-photon scattering at tree level in QED. What is wrong, and what would a legal QED cartoon for γγ → γγ need? |
-| 12 | For Compton cartoon A, write the four-momentum at each vertex in terms of p, k, p′, k′. |
-| 13 | How many powers of e does a two-vertex tree carry? How many does a one-loop self-energy insertion on an electron line carry? |
-| 14 | Distinguish charge-flow arrows on electron lines from "time points to the right." Give one sentence for a positron. |
-| 15 | Why does adding a disconnected "nothing happens" electron line next to a photon-goes line not describe Compton scattering? |
-| 16 | Challenge: two electrons in, two electrons out, two internal photons, four vertices, a box. Is that a tree? What process is it a correction to? |
+| 1 | **Core.** What is S₁₁ in words? S₂₁? |
+| 2 | **Core.** A lossless matched line: quote S₁₁ and S₂₁. |
+| 3 | **Core.** Write the QED sandwich that corresponds to S₂₁. |
+| 4 | **Core.** Map Prologue 2's single glass surface onto an S-parameter. |
+| 5 | **Core.** What does unitarity say in one sentence? |
+| 6 | **Core.** What does Lesson 50 strip off S to leave ℳ? |
+| 7 | **Core.** Is a decay Γ an S-parameter? |
+| 8 | **Challenge.** Three-port, one in, two out (a decay into two particles). Which S-column is the physics? |
+| 9 | **Core.** Draw the three legal marks and write the English sentence for each. |
+| 10 | **Extension.** Why is a four-line vertex illegal in QED? |
+| 11 | **Extension.** In one sentence, what is a virtual line? |
+| 12 | **Core.** Why must Compton's two cartoons be added before squaring? |
+| 13 | **Core.** Count vertices, external lines, and internal lines on Møller (two electrons in, two out, one photon exchanged). |
+| 14 | **Extension.** Is a bubble-chamber track a Feynman diagram? Say why in two sentences. |
+| 15 | **Core.** What S-parameter is a diagram computing, in the first half of this prologue's language? |
+| 16 | **Extension.** Draw, as words or marks, e⁺e⁻ → two photons, including the crossed cartoon. |
+| 17 | **Extension.** Why can a single on-shell photon not become e⁺e⁻ by itself? |
+| 18 | **Challenge.** A loop on an external electron. Is the electron that hits the detector still external? What later lesson names the loop? |
+| 19 | **Extension.** A student draws two wavy lines meeting two wavy lines at a point and calls it photon-photon scattering at tree level in QED. What is wrong, and what would a legal QED cartoon for γγ → γγ need? |
+| 20 | **Extension.** For Compton cartoon A, write the four-momentum at each vertex in terms of p, k, p′, k′. |
+| 21 | **Core.** How many powers of e does a two-vertex tree carry? How many does a one-loop self-energy insertion on an electron line carry? |
+| 22 | **Extension.** Distinguish charge-flow arrows on electron lines from "time points to the right." Give one sentence for a positron. |
+| 23 | **Extension.** Why does adding a disconnected "nothing happens" electron line next to a photon-goes line not describe Compton scattering? |
+| 24 | **Challenge.** Two electrons in, two electrons out, two internal photons, four vertices, a box. Is that a tree? What process is it a correction to? |
 
 # Solutions
 
-**1.** Straight: electron goes. Wavy: photon goes. Dot: electron emits or absorbs a photon (two straights, one wavy).
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
-**2.** The only interaction is electron emits/absorbs photon; that is three lines. Four lines at a point would be a different theory.
+**1.** S₁₁: reflection at port 1. S₂₁: transmission from 1 to 2.
 
-**3.** An internal line between vertices, not a detected on-shell particle; its k² or p² need not be the mass-shell value.
+**2.** S₁₁=0, S₂₁=e^{iθ} with |S₂₁|=1 (a delay).
 
-**4.** The experiment does not distinguish the two orders; undistinguished ways add as arrows, then you square the sum.
+**3.** ⟨f|S|i⟩.
 
-**5.** Two vertices, four external electron lines, one internal photon, zero external photons.
+**4.** S₁₁≈0.2, |S₁₁|²≈0.04.
 
-**6.** No. A track is a history of many real ionizations, each already a detected event. A diagram is a term in a sum of arrows for specified in and out particles.
+**5.** Outgoing probability (or power) equals incoming; arrows preserve length in total.
 
-**7.** A contribution to ⟨f|S|i⟩, i.e. to ℳ.
+**6.** The identity piece (nothing happened) and a momentum-conserving δ-function; ℳ is the rest.
 
-**8.** Two vertices; an internal electron connecting them; two incoming fermion lines (electron and positron); two outgoing photons; plus the crossed cartoon with the two photons swapped.
+**7.** It is built from |ℳ|² the same way; one "in" port, several "out" ports, no flux factor, Lesson 51.
 
-**9.** One vertex cannot do it, and even with more structure a single real photon has q² = 0 while a pair has s ≥ 4m² (Lessons 45, 58). An external field can, Lesson 86.
+**8.** The column for that one incoming state; the two outgoing particles are two ports sharing the row.
 
-**10.** The line that reaches the detector is still external. The loop is a self-energy insertion, Lesson 64; it is absorbed into m in Lesson 68.
+**9.** Straight: electron goes. Wavy: photon goes. Dot: electron emits or absorbs a photon (two straights, one wavy).
 
-**11.** QED has no four-photon vertex. Light-by-light scattering at the first legal order is a one-loop box of electrons (four vertices, four internal electron lines). It is not a tree.
+**10.** The only interaction is electron emits/absorbs photon; that is three lines. Four lines at a point would be a different theory.
 
-**12.** Absorb vertex: p + k = p_internal. Emit vertex: p_internal = p′ + k′. Together p + k = p′ + k′, overall conservation. Cartoon B uses a different internal: p − k′ at the first vertex.
+**11.** An internal line between vertices, not a detected on-shell particle; its k² or p² need not be the mass-shell value.
 
-**13.** Two-vertex tree: e². Self-energy insertion: two extra vertices, so extra e² relative to the bare line, one loop.
+**12.** The experiment does not distinguish the two orders; undistinguished ways add as arrows, then you square the sum.
 
-**14.** The arrow on a fermion line is charge flow. Time-to-the-right is a drawing habit. A positron is the same straight line with charge flow opposite to the electron's.
+**13.** Two vertices, four external electron lines, one internal photon, zero external photons.
 
-**15.** Disconnected pieces factor. "Photon goes" beside "electron goes" with no vertex is two separate do-nothings, not Compton. Compton needs the vertices that connect the electron to both photons.
+**14.** No. A track is a history of many real ionizations, each already a detected event. A diagram is a term in a sum of arrows for specified in and out particles.
 
-**16.** A box with a closed road is a loop (two-loop? No: four vertices, four internal lines forming one loop is one loop by L = I − V + 1 = 4 − 4 + 1 = 1). It is a one-loop correction to Møller scattering (or a related 2-to-2 process), not a tree.
+**15.** A contribution to ⟨f|S|i⟩, i.e. to ℳ.
 
-# Mastery checklist
+**16.** Two vertices; an internal electron connecting them; two incoming fermion lines (electron and positron); two outgoing photons; plus the crossed cartoon with the two photons swapped.
 
-- I can draw the three marks and reject illegal vertices.
+**17.** One vertex cannot do it, and even with more structure a single real photon has q² = 0 while a pair has s ≥ 4m² (Lessons 45, 58). An external field can, Lesson 86.
 
-- I can tell external from internal and say "virtual" without mysticism.
+**18.** The line that reaches the detector is still external. The loop is a self-energy insertion, Lesson 64; it is absorbed into m in Lesson 68.
 
-- I can tell the Compton story with two cartoons and the add-then-square rule.
+**19.** QED has no four-photon vertex. Light-by-light scattering at the first legal order is a one-loop box of electrons (four vertices, four internal electron lines). It is not a tree.
 
-- I can draw Møller as photon exchange and annihilation as the same alphabet rotated.
+**20.** Absorb vertex: p + k = p_internal. Emit vertex: p_internal = p′ + k′. Together p + k = p′ + k′, overall conservation. Cartoon B uses a different internal: p − k′ at the first vertex.
 
-- I know a loop is extra dots plus an unfixed momentum, not a different kind of particle.
+**21.** Two-vertex tree: e². Self-energy insertion: two extra vertices, so extra e² relative to the bare line, one loop.
 
-- I know Lesson 50 is this prologue with the algebra filled in.
+**22.** The arrow on a fermion line is charge flow. Time-to-the-right is a drawing habit. A positron is the same straight line with charge flow opposite to the electron's.
+
+**23.** Disconnected pieces factor. "Photon goes" beside "electron goes" with no vertex is two separate do-nothings, not Compton. Compton needs the vertices that connect the electron to both photons.
+
+**24.** A box with a closed road is a loop (two-loop? No: four vertices, four internal lines forming one loop is one loop by L = I − V + 1 = 4 − 4 + 1 = 1). It is a one-loop correction to Møller scattering (or a related 2-to-2 process), not a tree.

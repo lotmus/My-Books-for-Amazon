@@ -34,6 +34,11 @@ Every term of ℒ_QED has now been derived except one number: the size of e itse
 | α = e²/(4π) | Fine-structure constant, Heaviside–Lorentz units |
 | a = (g−2)/2 | Anomalous magnetic moment, previewed in Lesson 40, Section 4.2 |
 
+BOX: First pass: the result before the derivation
+The coupling e is dimensionless in natural units, with α = e²/4π ≈ 1/137. Each vertex brings one power of e, so amplitudes are series in α.
+Prologue 5's j ≈ −0.1 is √α up to convention; smallness of α is why perturbation theory works.
+ENDBOX
+
 # 1 The dimension of the coupling constant
 
 ## 1.1 Fixing [ψ] and [A_μ]
@@ -141,24 +146,26 @@ With the coupling constant's size and role now established, Lesson 45 derives th
 
 @widths 720 9072
 | No | Problem |
-| 1 | Starting from [ℒ]=mass⁴ and the free Dirac kinetic term ψ̄iγ^μ∂_μψ, derive [ψ]=mass^(3/2), showing every step. |
-| 2 | Starting from [ℒ]=mass⁴ and the free photon kinetic term −(1/4)F_μνF^μν, derive [A_μ]=mass, showing every step. |
-| 3 | Combine Exercises 1 and 2 with the interaction term eψ̄γ^μψA_μ to derive [e]=mass⁰. |
-| 4 | Verify that α=e²/(4π) is dimensionless using the result of Exercise 3, and explain why this is necessary given that α is defined and measured as a pure number in every unit system. |
-| 5 | Using α≈1/137.036, compute e=√(4πα) to three significant figures, showing the intermediate numerical steps. |
-| 6 | Compute α/(2π) to four significant figures and compare it with the value 0.00116 quoted in Worked example 2. |
-| 7 | State, in one or two sentences and without deriving it, why a dimensionless coupling constant is considered especially favorable for a quantum field theory to be well-behaved at all energy scales (a property called renormalizability, beyond this course's scope). |
-| 8 | Using Lesson 39, Section 3.2, explain why a hypothetical new charge-(−e) Dirac field, discovered tomorrow, would be predicted, without any new input, to couple to the photon with exactly the measured value of e, not some new, independently adjustable constant. |
-| 9 | Explain why Worked example 3's distinction (same e, different mass) means that measuring how strongly two different charged particles are deflected by a given magnetic field cannot, by itself, be used to measure two different values of e. |
-| 10 | Using Section 4.1, state the order in α of the probability associated with a six-vertex process, and compare its numerical size to the two-vertex and four-vertex estimates of Worked example 4. |
-| 11 | Estimate α³ numerically and state how many orders of magnitude smaller it is than α, illustrating the suppression pattern of Section 4.2 for an odd number of vertex-pairs (relevant when an amplitude itself, not just a probability, is being estimated). |
-| 12 | Contrast, in general terms, the situation described in Section 4.2 (small coupling, rapidly convergent-looking perturbative series) with a hypothetical theory whose analogous dimensionless coupling constant were equal to 3, explaining briefly why a perturbative expansion would not be a useful tool in that hypothetical case. |
-| 13 | Using a=(g−2)/2≈α/(2π) from Worked example 2, compute the predicted value of g itself to five decimal places, and compare it in one sentence to the tree-level Dirac value g=2 previewed in Lesson 40. |
-| 14 | Explain why, if e had turned out to carry a nonzero mass dimension (as it would in a spacetime with a different number of dimensions), the numerical value of "e" alone would not be a meaningful, unit-independent statement, in contrast with the dimensionless case of actual QED. |
-| 15 | State, in one or two sentences and without deriving it, what physicists mean by saying the fine-structure constant "runs" with energy, and why this does not contradict Section 2.1's statement that α≈1/137.036 is a precisely measured number (hint: at what energy scale is that particular value measured). |
-| 16 | Challenge: consider the hypothetical interaction term (1/M)ψ̄ψA_μA^μ, with M some constant needed to fix its dimensions. First, using Exercises 1 and 2, find the mass dimension required of M for this term to have [ℒ]=mass⁴. Second, independent of the dimensional question, explain why this term is forbidden in ℒ_QED for an entirely different reason, referring to how A_μA^μ transforms under a gauge transformation. |
+| 1 | **Extension.** Starting from [ℒ]=mass⁴ and the free Dirac kinetic term ψ̄iγ^μ∂_μψ, derive [ψ]=mass^(3/2), showing every step. |
+| 2 | **Extension.** Starting from [ℒ]=mass⁴ and the free photon kinetic term −(1/4)F_μνF^μν, derive [A_μ]=mass, showing every step. |
+| 3 | **Extension.** Combine Exercises 1 and 2 with the interaction term eψ̄γ^μψA_μ to derive [e]=mass⁰. |
+| 4 | **Extension.** Verify that α=e²/(4π) is dimensionless using the result of Exercise 3, and explain why this is necessary given that α is defined and measured as a pure number in every unit system. |
+| 5 | **Core.** Using α≈1/137.036, compute e=√(4πα) to three significant figures, showing the intermediate numerical steps. |
+| 6 | **Core.** Compute α/(2π) to four significant figures and compare it with the value 0.00116 quoted in Worked example 2. |
+| 7 | **Extension.** State, in one or two sentences and without deriving it, why a dimensionless coupling constant is considered especially favorable for a quantum field theory to be well-behaved at all energy scales (a property called renormalizability, beyond this course's scope). |
+| 8 | **Core.** Using Lesson 39, Section 3.2, explain why a hypothetical new charge-(−e) Dirac field, discovered tomorrow, would be predicted, without any new input, to couple to the photon with exactly the measured value of e, not some new, independently adjustable constant. |
+| 9 | **Extension.** Explain why Worked example 3's distinction (same e, different mass) means that measuring how strongly two different charged particles are deflected by a given magnetic field cannot, by itself, be used to measure two different values of e. |
+| 10 | **Core.** Using Section 4.1, state the order in α of the probability associated with a six-vertex process, and compare its numerical size to the two-vertex and four-vertex estimates of Worked example 4. |
+| 11 | **Core.** Estimate α³ numerically and state how many orders of magnitude smaller it is than α, illustrating the suppression pattern of Section 4.2 for an odd number of vertex-pairs (relevant when an amplitude itself, not just a probability, is being estimated). |
+| 12 | **Core.** Contrast, in general terms, the situation described in Section 4.2 (small coupling, rapidly convergent-looking perturbative series) with a hypothetical theory whose analogous dimensionless coupling constant were equal to 3, explaining briefly why a perturbative expansion would not be a useful tool in that hypothetical case. |
+| 13 | **Core.** Using a=(g−2)/2≈α/(2π) from Worked example 2, compute the predicted value of g itself to five decimal places, and compare it in one sentence to the tree-level Dirac value g=2 previewed in Lesson 40. |
+| 14 | **Core.** Explain why, if e had turned out to carry a nonzero mass dimension (as it would in a spacetime with a different number of dimensions), the numerical value of "e" alone would not be a meaningful, unit-independent statement, in contrast with the dimensionless case of actual QED. |
+| 15 | **Extension.** State, in one or two sentences and without deriving it, what physicists mean by saying the fine-structure constant "runs" with energy, and why this does not contradict Section 2.1's statement that α≈1/137.036 is a precisely measured number (hint: at what energy scale is that particular value measured). |
+| 16 | **Challenge.** Consider the hypothetical interaction term (1/M)ψ̄ψA_μA^μ, with M some constant needed to fix its dimensions. First, using Exercises 1 and 2, find the mass dimension required of M for this term to have [ℒ]=mass⁴. Second, independent of the dimensional question, explain why this term is forbidden in ℒ_QED for an entirely different reason, referring to how A_μA^μ transforms under a gauge transformation. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** [ℒ]=mass⁴ (from [S]=mass⁰ and [d⁴x]=mass⁻⁴). The kinetic term ψ̄iγ^μ∂_μψ has dimension [ψ̄][γ^μ][∂_μ][ψ]; γ^μ is a fixed numerical matrix with [γ^μ]=mass⁰, and [ψ̄]=[ψ] (the adjoint involves only a constant matrix γ⁰ and complex conjugation, neither changing the mass dimension), so the term's dimension is [ψ]²·mass¹. Setting [ψ]²·mass=mass⁴ gives [ψ]²=mass³, so [ψ]=mass^(3/2).
 
@@ -192,18 +199,6 @@ With the coupling constant's size and role now established, Lesson 45 derives th
 
 **16.** Dimensionally, (1/M)ψ̄ψA_μA^μ has field content [ψ̄ψ]=mass³ (Exercise 1) times [A_μA^μ]=mass² (Exercise 2, squared), giving mass⁵ from the fields alone; requiring the whole term to have dimension mass⁴ forces [1/M]=mass⁻¹, i.e. [M]=mass, an ordinary mass scale rather than a dimensionless number, unlike e. Independent of this dimensional issue, A_μA^μ is not gauge invariant: under A_μ→A_μ+∂_μα, A_μA^μ→(A_μ+∂_μα)(A^μ+∂^μα), which contains extra terms in ∂_μα that do not cancel for a generic α(x) (unlike F_μνF^μν, shown gauge invariant in Lesson 41), so a term built from A_μA^μ alone, such as this hypothetical one, cannot appear in a gauge-invariant Lagrangian at all; this is exactly the reason, familiar from the general study of gauge theories, that a photon mass term is forbidden by U(1) gauge invariance.
 
-# Mastery checklist
+# Mastery check
 
-- I can derive [ψ]=mass^(3/2) and [A_μ]=mass from the free Lagrangians, and [e]=mass⁰ from the interaction term.
-
-- I can state α=e²/(4π) and compute both α and e numerically from α≈1/137.036.
-
-- I can compute α/(2π) and connect it to the leading correction to the electron's magnetic moment previewed in Lesson 40 and derived in Lesson 76.
-
-- I can explain why universality forces every charge-(−e) Dirac field to share the same coupling e.
-
-- I can explain, via vertex counting, why higher-order contributions to a QED process are suppressed by powers of α.
-
-- I can explain why e's dimensionlessness makes α a pure, unit-independent number.
-
-- I can state the numerical size of e and α from memory and explain, in outline, why this smallness is the reason QED perturbation theory works.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

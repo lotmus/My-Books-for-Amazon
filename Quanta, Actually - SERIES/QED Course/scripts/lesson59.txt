@@ -30,6 +30,11 @@ Every calculation in Part VIII so far has ended with a spin-summed |ℳ|² and a
 | f(p) | The energy-balance function whose root fixes p_f |
 | √s | Total center-of-momentum energy |
 
+BOX: First pass: the result before the derivation
+For 2 → 2 in the CM frame, dσ/dΩ = |ℳ|²/(64π²s) (equal masses, or high energy).
+This one formula turns every |ℳ|² of Lessons 54–58 into a number a detector can check.
+ENDBOX
+
 # 1 What remains to be done
 
 ## 1.1 The starting point
@@ -43,6 +48,8 @@ for a 2→2 process, leaving both the flux factor F and the six-dimensional phas
 ## 1.2 Choosing the center-of-momentum frame
 
 Working in the frame where p₁+p₂=0 turns the delta function's spatial part into a statement purely about p₃ and p₄, and lets the flux factor take the simple form found in Section 4; every quantity in the final result is built from Lorentz scalars or from p_i, p_f (themselves fixed once s and the masses are given), so the formula, once derived here, applies without modification to a measurement made in any frame, converted back through the invariants alone.
+
+IMG: L59_cm.png | 5.2 | Figure 59.1. Two-body final state in the CM frame. Energy fixes |p_f|; only the direction, within dΩ, is free.
 
 ### Worked example 1
 
@@ -153,24 +160,26 @@ Lesson 61 uses this formula, applied to the results already computed, to state t
 
 @widths 720 9072
 | No | Problem |
-| 1 | Restate Lesson 51's general cross-section formula and identify each of its four structural pieces, following Lesson 51, Worked example 3. |
-| 2 | Carry out the d³p₄ integral against the spatial delta function explicitly, showing it sets p₄=p₁+p₂−p₃. |
-| 3 | Show that p₁+p₂−p₃ reduces to −p₃ specifically in the center-of-momentum frame, using p₁+p₂=0 there. |
-| 4 | Write out d³p₃ in spherical coordinates, p²dp dΩ, and state which variable the remaining delta function constrains. |
-| 5 | Derive δ(f(p))=δ(p−p₀)/\|f′(p₀)\| from the defining property ∫δ(x)g(x)dx=g(0), using a change of variable x=f(p) near the root p₀. |
-| 6 | Compute f′(p) for f(p)=√s−√(p²+m₃²)−√(p²+m₄²), showing each step of the differentiation. |
-| 7 | Evaluate f′(p) at the root p=p_f, using E₃+E₄=√s there, and simplify to −p_f√s/(E₃E₄). |
-| 8 | Combine Exercises 4–7 to derive ∫p²dp δ(f(p))=p_fE₃E₄/√s. |
-| 9 | State the general definition of the flux factor from Lesson 51, and write v₁, v₂ in the center-of-momentum frame in terms of p_i, E₁, E₂. |
-| 10 | Derive \|v₁−v₂\|=p_i√s/(E₁E₂) from Exercise 9, using E₁+E₂=√s. |
-| 11 | Substitute Exercise 10 into F=4E₁E₂\|v₁−v₂\| and confirm the E₁E₂ factors cancel, leaving F=4p_i√s. |
-| 12 | Assemble Section 5.1's formula from Sections 2.2, 3.2, and 4, tracking every numerical factor of 2π and every power of the various energies. |
-| 13 | Confirm the elastic special case using p_f=p_i (Lesson 53, Section 4.2), and state why that equality holds only when the final-state masses equal the initial ones. |
-| 14 | Explain, referring to Lesson 54, why the formula of Section 5.2, not the more general Section 5.1, was the appropriate one to quote there. |
-| 15 | For a hypothetical process with unequal initial and final masses, state what additional factor Section 5.1's formula would contribute that Section 5.2's would miss, and describe the physical effect this factor captures. |
-| 16 | Challenge: sketch, without carrying out the full calculation, how Section 1 through 5's method would need to change for a final state with three particles rather than two, identifying which step (the delta function accounting, the radial integral, or the flux factor) would require the most substantial revision. |
+| 1 | **Core.** Restate Lesson 51's general cross-section formula and identify each of its four structural pieces, following Lesson 51, Worked example 3. |
+| 2 | **Extension.** Carry out the d³p₄ integral against the spatial delta function explicitly, showing it sets p₄=p₁+p₂−p₃. |
+| 3 | **Core.** Show that p₁+p₂−p₃ reduces to −p₃ specifically in the center-of-momentum frame, using p₁+p₂=0 there. |
+| 4 | **Core.** Write out d³p₃ in spherical coordinates, p²dp dΩ, and state which variable the remaining delta function constrains. |
+| 5 | **Extension.** Derive δ(f(p))=δ(p−p₀)/\|f′(p₀)\| from the defining property ∫δ(x)g(x)dx=g(0), using a change of variable x=f(p) near the root p₀. |
+| 6 | **Core.** Compute f′(p) for f(p)=√s−√(p²+m₃²)−√(p²+m₄²), showing each step of the differentiation. |
+| 7 | **Core.** Evaluate f′(p) at the root p=p_f, using E₃+E₄=√s there, and simplify to −p_f√s/(E₃E₄). |
+| 8 | **Extension.** Combine Exercises 4–7 to derive ∫p²dp δ(f(p))=p_fE₃E₄/√s. |
+| 9 | **Core.** State the general definition of the flux factor from Lesson 51, and write v₁, v₂ in the center-of-momentum frame in terms of p_i, E₁, E₂. |
+| 10 | **Extension.** Derive \|v₁−v₂\|=p_i√s/(E₁E₂) from Exercise 9, using E₁+E₂=√s. |
+| 11 | **Core.** Substitute Exercise 10 into F=4E₁E₂\|v₁−v₂\| and confirm the E₁E₂ factors cancel, leaving F=4p_i√s. |
+| 12 | **Extension.** Assemble Section 5.1's formula from Sections 2.2, 3.2, and 4, tracking every numerical factor of 2π and every power of the various energies. |
+| 13 | **Extension.** Confirm the elastic special case using p_f=p_i (Lesson 53, Section 4.2), and state why that equality holds only when the final-state masses equal the initial ones. |
+| 14 | **Core.** Explain, referring to Lesson 54, why the formula of Section 5.2, not the more general Section 5.1, was the appropriate one to quote there. |
+| 15 | **Extension.** For a hypothetical process with unequal initial and final masses, state what additional factor Section 5.1's formula would contribute that Section 5.2's would miss, and describe the physical effect this factor captures. |
+| 16 | **Challenge.** Sketch, without carrying out the full calculation, how Section 1 through 5's method would need to change for a final state with three particles rather than two, identifying which step (the delta function accounting, the radial integral, or the flux factor) would require the most substantial revision. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** dσ=(1/F)|ℳ|²(2π)⁴δ⁴(ΣP_f−ΣP_i)dΠ (Lesson 51, Section 3.4): |ℳ|² carries the process-specific physics; 1/F removes the beam-density dependence; the delta function enforces overall energy-momentum balance; dΠ sums over the kinematically allowed final states.
 
@@ -204,14 +213,6 @@ Lesson 61 uses this formula, applied to the results already computed, to state t
 
 **16.** With three particles in the final state, the phase-space integral has nine momentum components rather than six; only four can be removed by the full four-dimensional delta function (fixing, for instance, one particle's momentum entirely in terms of the other two), leaving a five-dimensional integral with no single remaining delta function to collapse it to a point, unlike the two-body case where one delta function was enough to fix the entire radial variable. The radial-integral step of Section 3 would therefore need the most substantial revision, since there is no longer a single unknown magnitude for a delta function to determine uniquely; the flux factor of Section 4, built only from the two initial particles, is unaffected by how many particles occupy the final state.
 
-# Mastery checklist
+# Mastery check
 
-- I can restate Lesson 51's general cross-section formula and identify what remained to be derived.
-
-- I can use the spatial delta function to remove the p₄ integral and reduce the calculation to a single radial variable.
-
-- I can apply the delta-function-of-a-function rule to evaluate the radial integral in terms of p_f.
-
-- I can derive the center-of-momentum flux factor F=4p_i√s.
-
-- I can assemble the complete formula dσ/dΩ=(p_f/p_i)|ℳ|²/(64π²s) and its elastic special case.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

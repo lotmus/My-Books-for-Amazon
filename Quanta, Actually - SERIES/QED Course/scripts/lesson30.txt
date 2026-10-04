@@ -212,24 +212,26 @@ The exchange of momentum between field and matter in Section 6 is the classical 
 
 @widths 720 9072
 | No | Problem |
-| 1 | For the free scalar field, derive T^(μν) = ∂^μφ∂^νφ − g^(μν)ℒ from the general formula, and verify T^(00) = ℋ and T^(0i) = −φ̇∂ᵢφ. |
-| 2 | For φ = A cos(k·x − ωt) with ω² = \|k\|² + m², compute the cycle-averaged T^(00) and T^(0i), and show that their ratio is the group velocity k/ω of the wave. |
-| 3 | For the Dirac field, show that ℒ = 0 on solutions of the Dirac equation and that T^(00) = ψ†Ĥ_Dψ. |
-| 4 | Show that the Dirac momentum density is T^(0i) = ψ†(−i∂ᵢ)ψ, and that for ψ = u(p)e^(−ip·x) the momentum per particle is p^i. |
-| 5 | Derive the canonical electromagnetic tensor T_c^(μν) = −F^(μλ)∂^νA_λ + (1/4)g^(μν)F_αβF^(αβ) from the general formula. |
-| 6 | Show that T_Θ^(μν) − T_c^(μν) = F^(μλ)∂_λA^ν = ∂_λ(F^(μλ)A^ν) in vacuum, and that T_Θ^(μν) is symmetric and gauge invariant. |
-| 7 | With F^(0i) = −Eᵢ and F^(ij) = −ε_(ijk)B_k, compute T_Θ^(00) and T_Θ^(0i) and verify that they equal (1/2)(E² + B²) and (E × B)ᵢ. |
-| 8 | Show that T_Θ^μ_μ = 0 for the electromagnetic field, and compute T^μ_μ for the canonical scalar tensor to show it does not vanish even for m = 0. |
-| 9 | For the Dirac plane wave ψ = u(p)e^(−ip·x), show T^(0i) = T^(i0) = 2Ep^i using ūγ^μu = 2p^μ. |
-| 10 | Show that K^i = ∫d³x(x^iT^(00) − tT^(0i)) is conserved if ∂_μT^(μν) = 0 and T^(0i) = T^(i0), and interpret this as motion of the center of energy. |
-| 11 | For a Dirac particle at rest with ψ = u₁e^(−imt), show that the spin part of J_z = ∫ψ†(Σ_z/2)ψ equals 1/2 per particle, using Σ_zu₁ = u₁. |
-| 12 | Derive Poynting's theorem ∂_tu + ∇·S = −E·j from ∂_μT_Θ^(μ0) = −F^(0λ)j_λ, and show that the ν = i component gives the momentum loss rate −(ρE + j × B)ᵢ. |
-| 13 | For a single-particle wave function normalized to ∫ψ†ψ d³x = 1, show that Q = −e∫ψ†ψ d³x = −e, and explain why the covariantly normalized plane wave with ψ†ψ = 2E needs a factor 1/√(2EV) in a box of volume V. |
-| 14 | Show that under A_λ → A_λ + ∂_λχ the canonical tensor changes by −F^(μλ)∂^ν∂_λχ, that this is a total derivative in vacuum, and explain why the total momentum P^ν is gauge invariant up to surface terms even though the local density is not. |
-| 15 | For a plane electromagnetic wave with E ⊥ B and \|E\| = \|B\|, show that \|T^(0i)\| = T^(00), and relate this to E = \|p\| for the photon. |
-| 16 | Challenge: for the scalar field, show that M^(μαβ) = x^αT^(μβ) − x^βT^(μα) satisfies ∂_μM^(μαβ) = 0, and identify the charge J^(ij) = ∫d³x M^(0ij) with the angular momentum, expressing it in terms of φ. |
+| 1 | **Core.** For the free scalar field, derive T^(μν) = ∂^μφ∂^νφ − g^(μν)ℒ from the general formula, and verify T^(00) = ℋ and T^(0i) = −φ̇∂ᵢφ. |
+| 2 | **Core.** For φ = A cos(k·x − ωt) with ω² = \|k\|² + m², compute the cycle-averaged T^(00) and T^(0i), and show that their ratio is the group velocity k/ω of the wave. |
+| 3 | **Core.** For the Dirac field, show that ℒ = 0 on solutions of the Dirac equation and that T^(00) = ψ†Ĥ_Dψ. |
+| 4 | **Core.** Show that the Dirac momentum density is T^(0i) = ψ†(−i∂ᵢ)ψ, and that for ψ = u(p)e^(−ip·x) the momentum per particle is p^i. |
+| 5 | **Extension.** Derive the canonical electromagnetic tensor T_c^(μν) = −F^(μλ)∂^νA_λ + (1/4)g^(μν)F_αβF^(αβ) from the general formula. |
+| 6 | **Extension.** Show that T_Θ^(μν) − T_c^(μν) = F^(μλ)∂_λA^ν = ∂_λ(F^(μλ)A^ν) in vacuum, and that T_Θ^(μν) is symmetric and gauge invariant. |
+| 7 | **Extension.** With F^(0i) = −Eᵢ and F^(ij) = −ε_(ijk)B_k, compute T_Θ^(00) and T_Θ^(0i) and verify that they equal (1/2)(E² + B²) and (E × B)ᵢ. |
+| 8 | **Extension.** Show that T_Θ^μ_μ = 0 for the electromagnetic field, and compute T^μ_μ for the canonical scalar tensor to show it does not vanish even for m = 0. |
+| 9 | **Core.** For the Dirac plane wave ψ = u(p)e^(−ip·x), show T^(0i) = T^(i0) = 2Ep^i using ūγ^μu = 2p^μ. |
+| 10 | **Extension.** Show that K^i = ∫d³x(x^iT^(00) − tT^(0i)) is conserved if ∂_μT^(μν) = 0 and T^(0i) = T^(i0), and interpret this as motion of the center of energy. |
+| 11 | **Core.** For a Dirac particle at rest with ψ = u₁e^(−imt), show that the spin part of J_z = ∫ψ†(Σ_z/2)ψ equals 1/2 per particle, using Σ_zu₁ = u₁. |
+| 12 | **Extension.** Derive Poynting's theorem ∂_tu + ∇·S = −E·j from ∂_μT_Θ^(μ0) = −F^(0λ)j_λ, and show that the ν = i component gives the momentum loss rate −(ρE + j × B)ᵢ. |
+| 13 | **Core.** For a single-particle wave function normalized to ∫ψ†ψ d³x = 1, show that Q = −e∫ψ†ψ d³x = −e, and explain why the covariantly normalized plane wave with ψ†ψ = 2E needs a factor 1/√(2EV) in a box of volume V. |
+| 14 | **Extension.** Show that under A_λ → A_λ + ∂_λχ the canonical tensor changes by −F^(μλ)∂^ν∂_λχ, that this is a total derivative in vacuum, and explain why the total momentum P^ν is gauge invariant up to surface terms even though the local density is not. |
+| 15 | **Core.** For a plane electromagnetic wave with E ⊥ B and \|E\| = \|B\|, show that \|T^(0i)\| = T^(00), and relate this to E = \|p\| for the photon. |
+| 16 | **Challenge.** For the scalar field, show that M^(μαβ) = x^αT^(μβ) − x^βT^(μα) satisfies ∂_μM^(μαβ) = 0, and identify the charge J^(ij) = ∫d³x M^(0ij) with the angular momentum, expressing it in terms of φ. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** With ∂ℒ/∂(∂_μφ) = ∂^μφ, T^μ_ν = ∂^μφ∂_νφ − δ^μ_νℒ, and raising ν gives T^(μν) = ∂^μφ∂^νφ − g^(μν)ℒ. Then T^(00) = φ̇² − ℒ = φ̇² − (1/2)φ̇² + (1/2)(∇φ)² + (1/2)m²φ² = ℋ. For T^(0i) = ∂⁰φ∂^iφ = φ̇(−∂ᵢφ) = −φ̇∂ᵢφ.
 
@@ -263,20 +265,6 @@ The exchange of momentum between field and matter in Section 6 is the classical 
 
 **16.** By the product rule, ∂_μ(x^αT^(μβ)) = δ^α_μT^(μβ) + x^α∂_μT^(μβ) = T^(αβ), using ∂_μT^(μβ) = 0. So ∂_μM^(μαβ) = T^(αβ) − T^(βα) = 0 because T^(αβ) = ∂^αφ∂^βφ − g^(αβ)ℒ is symmetric. The charge J^(ij) = ∫d³x(x^iT^(0j) − x^jT^(0i)) = −∫d³x π(x^i∂ⱼ − x^j∂ᵢ)φ, using T^(0j) = −π∂ⱼφ. The angular momentum vector is J^k = (1/2)ε_(kij)J^(ij) = −∫d³x π(x × ∇φ)_k, the moment x × (−π∇φ) of the momentum density T^(0i) = −π∂ᵢφ of Section 2.1, which is what the angular momentum of a distribution of momentum should be.
 
-# Mastery checklist
+# Mastery check
 
-- I can write the canonical energy-momentum tensor for a given Lagrangian density and identify the energy and momentum densities.
-
-- I can compute T^(μν) for the scalar and Dirac fields and check the results against earlier quantities.
-
-- I can explain why the canonical electromagnetic tensor is not acceptable and construct the symmetric, gauge-invariant tensor.
-
-- I can derive T^(00) = (1/2)(E² + B²) and T^(0i) = (E × B)^i from F^(μν).
-
-- I can show that a symmetric energy-momentum tensor gives conserved angular momentum and boost charges.
-
-- I can explain the spin contribution to the angular momentum of the Dirac field.
-
-- I can derive ∂_μT^(μν) = −F^(νλ)j_λ and recognize Poynting's theorem and the Lorentz force in it.
-
-- I can state the electromagnetic current and charge of the Dirac field.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

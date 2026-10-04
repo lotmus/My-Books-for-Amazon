@@ -11,6 +11,10 @@ This lesson is the bridge from those classical waves to the photons of the prolo
 
 A reader who knows undergraduate optics can skim Sections 1 to 3 and work Sections 4 to 6 carefully; Lessons 10 and 80 lean on them. Expect five to seven hours.
 
+BOX: Plain-language start
+This lesson connects the prologues' arrows to classical optics: why glass slows light, where Prologue 2's arrow of length 0.2 comes from, why every path contributes, and how a classical wave is many photons. Nothing in it needs more than Lessons 1–8.
+ENDBOX
+
 ## Learning objectives
 
 - Show that a linear medium turns Lesson 7's wave equation into one with phase speed c/n, and explain normal dispersion with a driven-electron model.
@@ -54,7 +58,7 @@ $$ ∇²E − (n²/c²) ∂²E/∂t² = 0,    n = √(ε_r μ_r)
 
 A plane wave e^(i(k·x−ωt)) solves it with |k| = nω/c. The frequency is fixed by the source and is the same on both sides of any boundary; the phase speed is v = c/n and the wavelength shrinks to λ = λ₀/n. Air has n=1.0003, water 1.33, crown glass about 1.52, diamond 2.42.
 
-The slowing has a microscopic picture that matters for QED. The incident wave drives the bound electrons, each driven electron radiates, and in the forward direction the sum of their radiated waves lags the drive. Added to the incident wave, it produces a wave whose phase advances more slowly. The "slower light" is the original wave plus the forward scattering of the electrons, which is how Feynman explains refraction in QED with the electron–photon action of Prologue 3.
+The slowing has a microscopic picture that matters for QED. The incident wave drives the bound electrons, each driven electron radiates, and in the forward direction the sum of their radiated waves lags the drive. Added to the incident wave, it produces a wave whose phase advances more slowly. The "slower light" is the original wave plus the forward scattering of the electrons, which is how Feynman explains refraction in QED with the electron–photon action of Prologue 5.
 
 ## 1.2 Dispersion
 
@@ -234,7 +238,7 @@ A photomultiplier, an avalanche photodiode or a single pixel of a phone camera i
 
 ### Worked example 7
 
-How many photons per second does a 1 mW helium–neon laser emit at 633 nm, and how many fall on each square meter in full sunlight (1000 W m⁻², take a mean λ of 550 nm)? The laser: 10⁻³/(3.14×10⁻¹⁹) = 3.2×10¹⁵ photons per second. Sunlight: one 550 nm photon carries 2.25 eV = 3.61×10⁻¹⁹ J, so 1000/(3.61×10⁻¹⁹) = 2.8×10²¹ photons per second per square meter. At these numbers the lumps are invisible, which is why Maxwell's smooth field describes everyday light so well (Prologue 5).
+How many photons per second does a 1 mW helium–neon laser emit at 633 nm, and how many fall on each square meter in full sunlight (1000 W m⁻², take a mean λ of 550 nm)? The laser: 10⁻³/(3.14×10⁻¹⁹) = 3.2×10¹⁵ photons per second. Sunlight: one 550 nm photon carries 2.25 eV = 3.61×10⁻¹⁹ J, so 1000/(3.61×10⁻¹⁹) = 2.8×10²¹ photons per second per square meter. At these numbers the lumps are invisible, which is why Maxwell's smooth field describes everyday light so well (Prologue 7).
 
 ## 6.2 Fringes one photon at a time
 
@@ -263,7 +267,7 @@ The photon of this section is a rule for detection, not yet a theory. Stimulated
 @widths 3264 6528
 | Result of this lesson | Where it is used next |
 | r=(n₁−n₂)/(n₁+n₂), R=r² | Prologue 2's 0.2 arrow: R is the probability per photon, and the arrow rule is the first term of the multiple-reflection series |
-| n from forward scattering by driven electrons | Prologue 3's electron–photon action repeated over many electrons; Lesson 63 treats the vacuum as a weakly polarizable medium, and Lesson 69 turns that into the running coupling |
+| n from forward scattering by driven electrons | Prologue 5's electron–photon action repeated over many electrons; Lesson 63 treats the vacuum as a weakly polarizable medium, and Lesson 69 turns that into the running coupling |
 | Huygens–Fresnel integral and its 1/(iλ) | A propagator: the amplitude to go from one point to another, composed by integrating over intermediate points, as in Lessons 46 to 48 |
 | Sum over light paths, stationary phase | Lesson 80's path integral ∫Dq e^(iS/ℏ), whose stationary path is the classical one |
 | |U|² as a probability per photon | Lesson 10's Born rule for wave functions |
@@ -289,24 +293,26 @@ The photon of this section is a rule for detection, not yet a theory. Stimulated
 
 @widths 720 9072
 | No | Problem |
-| 1 | Starting from Maxwell's equations with ε₀→ε₀ε_r and no free charge or current, derive the wave equation of Section 1.1 and the relation \|k\|=nω/c. |
-| 2 | Light of vacuum wavelength 633 nm enters glass with n=1.52. Find its frequency, its speed and its wavelength in the glass. |
-| 3 | A ray in glass (n=1.52) meets a glass–water boundary (n=1.333). Find the critical angle. |
-| 4 | For light of λ₀=500 nm in glass (n=1.5) striking a glass–air surface at 45°, find the decay length 1/κ of the evanescent wave. |
-| 5 | From 1+r=t and n₁(1−r)=n₂t, derive r and t at normal incidence and verify R+T=1 for any n₁, n₂. |
-| 6 | Show that r_p=0 together with Snell's law implies θ₁+θ₂=90°, and hence tan θ_B=n₂/n₁. |
-| 7 | For λ=600 nm and z=2.0 m, find ρ₁ and ρ₁₀, and the number of Fresnel zones in a circular opening of radius 5 mm. |
-| 8 | Show that an opening passing only the first Fresnel zone gives four times the unobstructed intensity on the axis, and that one passing the first two gives nearly zero. |
-| 9 | Find the Fresnel number of a circular aperture of radius 1 mm lit at 500 nm, seen from 2 m and from 200 m. In which case is the Fraunhofer formula of Section 4.3 accurate? |
-| 10 | Starting from the Gaussian integral ∫e^(−ax²/2)dx=√(2π/a) of Lesson 2, continue a to −iα with α>0 and obtain ∫e^(iαx²/2)dx=√(2πi/α). Which branch of the square root is meant? |
-| 11 | Repeat Section 5.3 with a=b=1.0 m and λ₀=500 nm. Find the half-width of the reflecting strip. |
-| 12 | A CD (track pitch 1.6 μm) is lit at normal incidence. Find the first-order angles for 450 nm and 650 nm light. |
-| 13 | A green laser pointer emits 1 mW at 532 nm. Find the photon energy in eV and the photon rate. |
-| 14 | A single-photon two-slit experiment records photons into bins across one fringe. How many photons per bin are needed for a 1% statistical uncertainty in each bin's count? |
-| 15 | Challenge: sum the multiple reflections inside a slab with surface coefficients −r and +r and round-trip phase δ, and show that the reflected fraction is R=F sin²(δ/2)/(1+F sin²(δ/2)) with F=4r²/(1−r²)². Find its maximum for r=0.2. |
-| 16 | Explain, in terms of Prologue 2's arrows and Section 6.2, why a film much thinner than the wavelength reflects almost no photons. |
+| 1 | **Extension.** Starting from Maxwell's equations with ε₀→ε₀ε_r and no free charge or current, derive the wave equation of Section 1.1 and the relation \|k\|=nω/c. |
+| 2 | **Core.** Light of vacuum wavelength 633 nm enters glass with n=1.52. Find its frequency, its speed and its wavelength in the glass. |
+| 3 | **Core.** A ray in glass (n=1.52) meets a glass–water boundary (n=1.333). Find the critical angle. |
+| 4 | **Core.** For light of λ₀=500 nm in glass (n=1.5) striking a glass–air surface at 45°, find the decay length 1/κ of the evanescent wave. |
+| 5 | **Core.** From 1+r=t and n₁(1−r)=n₂t, derive r and t at normal incidence and verify R+T=1 for any n₁, n₂. |
+| 6 | **Extension.** Show that r_p=0 together with Snell's law implies θ₁+θ₂=90°, and hence tan θ_B=n₂/n₁. |
+| 7 | **Core.** For λ=600 nm and z=2.0 m, find ρ₁ and ρ₁₀, and the number of Fresnel zones in a circular opening of radius 5 mm. |
+| 8 | **Extension.** Show that an opening passing only the first Fresnel zone gives four times the unobstructed intensity on the axis, and that one passing the first two gives nearly zero. |
+| 9 | **Extension.** Find the Fresnel number of a circular aperture of radius 1 mm lit at 500 nm, seen from 2 m and from 200 m. In which case is the Fraunhofer formula of Section 4.3 accurate? |
+| 10 | **Extension.** Starting from the Gaussian integral ∫e^(−ax²/2)dx=√(2π/a) of Lesson 2, continue a to −iα with α>0 and obtain ∫e^(iαx²/2)dx=√(2πi/α). Which branch of the square root is meant? |
+| 11 | **Extension.** Repeat Section 5.3 with a=b=1.0 m and λ₀=500 nm. Find the half-width of the reflecting strip. |
+| 12 | **Core.** A CD (track pitch 1.6 μm) is lit at normal incidence. Find the first-order angles for 450 nm and 650 nm light. |
+| 13 | **Core.** A green laser pointer emits 1 mW at 532 nm. Find the photon energy in eV and the photon rate. |
+| 14 | **Core.** A single-photon two-slit experiment records photons into bins across one fringe. How many photons per bin are needed for a 1% statistical uncertainty in each bin's count? |
+| 15 | **Challenge.** Sum the multiple reflections inside a slab with surface coefficients −r and +r and round-trip phase δ, and show that the reflected fraction is R=F sin²(δ/2)/(1+F sin²(δ/2)) with F=4r²/(1−r²)². Find its maximum for r=0.2. |
+| 16 | **Extension.** Explain, in terms of Prologue 2's arrows and Section 6.2, why a film much thinner than the wavelength reflects almost no photons. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** In the medium, ∇·E=0, ∇·B=0, ∇×E=−∂B/∂t and ∇×B=μ₀ε₀ε_r ∂E/∂t. Taking the curl of the third, ∇×(∇×E)=∇(∇·E)−∇²E=−∇²E=−∂(∇×B)/∂t=−(ε_r/c²)∂²E/∂t², so ∇²E−(n²/c²)∂²E/∂t²=0 with n²=ε_r. A plane wave e^(i(k·x−ωt)) gives −k²+n²ω²/c²=0, so |k|=nω/c.
 
@@ -340,16 +346,6 @@ The photon of this section is a rule for detection, not yet a theory. Stimulated
 
 **16.** The front-surface arrow has a half-turn and the back-surface arrow does not. When the film is so thin that the extra path adds almost no rotation, the two arrows of nearly equal length point in opposite directions and cancel. The amplitude for one photon to reflect is nearly zero, so the probability is nearly zero for every color, and only the averages over many photons look like a smooth dark film.
 
-# Mastery checklist
+# Mastery check
 
-- I can derive the wave equation in a linear medium and state what n changes and what it leaves alone.
-
-- I can derive Snell's law from phase matching and from Fermat's principle, and compute critical angles and evanescent decay lengths.
-
-- I can derive r=(n₁−n₂)/(n₁+n₂), recover Prologue 2's arrow of length 0.2, and find Brewster's angle.
-
-- I can state the Huygens–Fresnel integral and derive its 1/(iλ) from Fresnel zones.
-
-- I can turn the integral into a sum over light paths and evaluate it by stationary phase.
-
-- I can convert optical power to a photon rate and explain why single-photon fringes make |U|² a probability.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

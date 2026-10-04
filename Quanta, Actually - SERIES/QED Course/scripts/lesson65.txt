@@ -32,16 +32,14 @@ Two loops have been built by hand, one attached to a photon line and one attache
 | k | The loop momentum, carried by the internal virtual photon |
 | D | Degree of divergence: the power of the cutoff Λ the diagram grows as |
 
+BOX: First pass: the result before the derivation
+The vertex correction inserts a photon across the vertex; it diverges only logarithmically, and its finite part contains the anomalous magnetic moment.
+This diagram, finished in Lesson 76, gives Schwinger's α/2π.
+ENDBOX
+
 # 1 The diagram
 
-FIG:
-    e⁻(p) ----*~~~~~~~~~~~~~~~*---- e⁻(p')   
-               \             /
-                \           /
-                 *---------     virtual photon k
-                 |
-                γ(q)
-ENDFIG
+IMG: L65_vertex.png | 6.0 | Figure 65.1. The one-loop vertex correction: a virtual photon spans the vertex. Its magnetic part gives the anomalous moment of Lesson 76.
 
 ## 1.1 What it looks like
 
@@ -146,24 +144,26 @@ State what is and is not being claimed in Section 5. It is being claimed, as an 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Draw the vertex-correction diagram from memory, labeling its three vertices and three internal lines. |
-| 2 | Verify L=I−V+1=1 for this diagram using V=3, I=3, following Lesson 62, Section 4.1. |
-| 3 | Explain, referring to Section 1.2, why this diagram needs neither a trace nor a closed-loop minus sign, contrasting it with vacuum polarization on both points. |
-| 4 | Multiply (ie)³, the two propagator numerators' i·i, and the photon propagator's −i together step by step, confirming the total prefactor e³ of Section 2.2. |
-| 5 | State Lesson 55's three-object reversal identity from memory, then check it against Section 3.1. |
-| 6 | Identify A, B, and C in Section 3.1's application of the reversal identity, and verify the substitution matches Section 2.1's expression. |
-| 7 | Expand [(p̸′−k̸)+m]γ^μ[(p̸−k̸)+m] into its four terms, following the method of Lesson 56, Exercise 9. |
-| 8 | Apply the appropriate contraction identity (three-object, two-object, or one-object) to each of Exercise 7's four terms after sandwiching with γ^β⋯γ_β. |
-| 9 | Assemble Exercise 8's four results into Section 3.2's complete numerator, tracking every numerical factor. |
-| 10 | Explain why, at large k, only Section 3.1's leading term matters for the power-counting of Section 4.1, even though Section 3.2's complete numerator has three additional pieces. |
-| 11 | Verify that each electron propagator and the photon propagator grows like k² at large k, and combine all three to confirm the denominator grows like k⁶. |
-| 12 | Combine Section 4.1's k² numerator growth with Exercise 11's k⁶ denominator growth to confirm the integrand behaves like 1/k⁴. |
-| 13 | Derive Section 4.2's logarithmic divergence from Exercise 12's 1/k⁴ integrand and the measure d⁴k∼k³dk. |
-| 14 | State the degree of divergence found for each of vacuum polarization, self-energy, and vertex correction, and verify the pattern decreases by exactly one each time. |
-| 15 | Explain, in one or two sentences, why Section 5 introduces the anomalous magnetic moment without deriving it, referring to what specific tool is still missing. |
-| 16 | Challenge: using only the pattern of Worked example 3 (each additional vertex or propagator reduces the degree of divergence in a specific way), predict, without doing the calculation, whether a one-loop diagram with four vertices and four internal lines (one more virtual photon inserted than this lesson's vertex correction) would diverge, converge, or do something in between, and explain your reasoning. |
+| 1 | **Extension.** Draw the vertex-correction diagram from memory, labeling its three vertices and three internal lines. |
+| 2 | **Core.** Verify L=I−V+1=1 for this diagram using V=3, I=3, following Lesson 62, Section 4.1. |
+| 3 | **Core.** Explain, referring to Section 1.2, why this diagram needs neither a trace nor a closed-loop minus sign, contrasting it with vacuum polarization on both points. |
+| 4 | **Core.** Multiply (ie)³, the two propagator numerators' i·i, and the photon propagator's −i together step by step, confirming the total prefactor e³ of Section 2.2. |
+| 5 | **Core.** State Lesson 55's three-object reversal identity from memory, then check it against Section 3.1. |
+| 6 | **Core.** Identify A, B, and C in Section 3.1's application of the reversal identity, and verify the substitution matches Section 2.1's expression. |
+| 7 | **Core.** Expand [(p̸′−k̸)+m]γ^μ[(p̸−k̸)+m] into its four terms, following the method of Lesson 56, Exercise 9. |
+| 8 | **Extension.** Apply the appropriate contraction identity (three-object, two-object, or one-object) to each of Exercise 7's four terms after sandwiching with γ^β⋯γ_β. |
+| 9 | **Extension.** Assemble Exercise 8's four results into Section 3.2's complete numerator, tracking every numerical factor. |
+| 10 | **Extension.** Explain why, at large k, only Section 3.1's leading term matters for the power-counting of Section 4.1, even though Section 3.2's complete numerator has three additional pieces. |
+| 11 | **Core.** Verify that each electron propagator and the photon propagator grows like k² at large k, and combine all three to confirm the denominator grows like k⁶. |
+| 12 | **Extension.** Combine Section 4.1's k² numerator growth with Exercise 11's k⁶ denominator growth to confirm the integrand behaves like 1/k⁴. |
+| 13 | **Extension.** Derive Section 4.2's logarithmic divergence from Exercise 12's 1/k⁴ integrand and the measure d⁴k∼k³dk. |
+| 14 | **Core.** State the degree of divergence found for each of vacuum polarization, self-energy, and vertex correction, and verify the pattern decreases by exactly one each time. |
+| 15 | **Extension.** Explain, in one or two sentences, why Section 5 introduces the anomalous magnetic moment without deriving it, referring to what specific tool is still missing. |
+| 16 | **Challenge.** Using only the pattern of Worked example 3 (each additional vertex or propagator reduces the degree of divergence in a specific way), predict, without doing the calculation, whether a one-loop diagram with four vertices and four internal lines (one more virtual photon inserted than this lesson's vertex correction) would diverge, converge, or do something in between, and explain your reasoning. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** The electron enters at momentum p, and near the start of the diagram emits a virtual photon (vertex 1) carrying momentum k away, continuing as an internal line with momentum p−k; further along, it absorbs the external photon (vertex 2, momentum q, external), continuing with momentum p−k+q; finally, it reabsorbs the virtual photon (vertex 3), emerging with momentum p′=p+q. The three internal lines are the two electron-propagator segments (momenta p−k and p−k+q=p′−k) and the virtual photon propagator (momentum k) connecting vertices 1 and 3.
 
@@ -197,16 +197,6 @@ State what is and is not being claimed in Section 5. It is being claimed, as an 
 
 **16.** Each additional vertex-and-propagator pair inserted into a diagram, following the pattern already seen across vacuum polarization (two propagators, no vertex-only structure to compare), self-energy, and vertex correction, tends to add one propagator's worth of extra 1/k² suppression to the integrand for roughly the same or a smaller increase in numerator growth, so a diagram with one more virtual photon inserted than the vertex correction would be expected to converge outright (a negative degree of divergence), continuing the Λ²,Λ,ln Λ,(finite) pattern one step further; this expectation is confirmed properly, and stated as a general rule rather than inferred case by case, in Lesson 66.
 
-# Mastery checklist
+# Mastery check
 
-- I can draw the vertex-correction diagram and identify its three vertices and three internal lines.
-
-- I can explain why this diagram needs no trace and no closed-loop minus sign while still carrying a free Lorentz index.
-
-- I can assemble the loop's numerator and reduce its leading piece using Lesson 55's three-object reversal identity.
-
-- I can extend that reduction to include the electron mass, following Lesson 56's expansion method.
-
-- I can count powers of k to show this integral diverges only logarithmically, and state the full Λ², Λ, ln Λ pattern across Lessons 63 through 64.
-
-- I can state, without deriving it, that this diagram's two form factors include the source of the anomalous magnetic moment, and name the lesson that completes the calculation.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

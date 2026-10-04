@@ -32,14 +32,14 @@ Lesson 54 computed electron-muon scattering by exchanging one photon between two
 | m | Electron mass (both incoming and outgoing lines) |
 | γ^μγ^aγ^bγ^cγ_μ=−2γ^cγ^bγ^a | The key contraction identity this lesson derives and uses |
 
+BOX: First pass: the result before the derivation
+Identical electrons need two diagrams, t- and u-channel, with a relative minus sign; the squared amplitude includes an interference trace.
+This is Prologue 5's reversed arrow for swapped electrons, now with spinors.
+ENDBOX
+
 # 1 Two diagrams, one relative sign
 
-FIG:
-    e⁻(p1) ----*~~~~γ~~~~*---- e⁻(p3)            e⁻(p1) ----*~~~~γ~~~~*---- e⁻(p4)   
-               |         |                                  |         |
-    e⁻(p2) ----*         *---- e⁻(p4)            e⁻(p2) ----*         *---- e⁻(p3)   
-            ℳ_t, photon in t                     ℳ_u, photon in u, relative minus
-ENDFIG
+IMG: L55_moller.png | 6.0 | Figure 55.1. Møller scattering. Identical electrons give a direct (t-channel) and an exchange (u-channel) diagram with a relative minus sign.
 
 ## 1.1 A second Wick contraction
 
@@ -195,24 +195,26 @@ Lesson 56 turns to electron-positron scattering, where crossing symmetry relates
 
 @widths 720 9072
 | No | Problem |
-| 1 | Explain, referring to Lesson 37, Section 6.2, why the exchange contraction of Section 1.1 requires exactly one more fermionic transposition than the direct contraction. |
-| 2 | Verify that ℳ_u is obtained from ℳ_t by exchanging p₃ and p₄ everywhere, including in the propagator denominator (t becoming u). |
-| 3 | Write out |ℳ_t|² and |ℳ_u|² spin-averaged and summed, citing Lesson 54, Section 4.2, with m_e=m_μ=m substituted. |
-| 4 | State |ℳ|²=|ℳ_t|²+|ℳ_u|²−2Re(ℳ_tℳ_u^*) and explain why the cross term carries a minus sign, given ℳ=ℳ_t−ℳ_u. |
-| 5 | Conjugate ℳ_u using Γ̄=γ^ν for Γ=γ^ν (Lesson 52, Section 3.1) and derive Section 2.2's expression for ℳ_u^*. |
-| 6 | Write out Σ_(spins)ℳ_tℳ_u^* with explicit spinor indices, following Lesson 52, Section 2.2's method, and show every index closes into a single chain rather than two separate ones. |
-| 7 | Verify Section 3.2's first step, γ^cγ_μ=2δ^c_μ−γ_μγ^c, directly from the Clifford algebra {γ^c,γ_μ}=2δ^c_μ. |
-| 8 | Carry out every step of Section 3.2's derivation explicitly, confirming the two 4g^abγ^c terms cancel exactly. |
-| 9 | Using Worked example 3, expand (p̸₁+m)γ^ν(p̸₄+m) into its four terms (p̸₁γ^νp̸₄, mp̸₁γ^ν, mγ^νp̸₄, m²γ^ν) and apply Section 3.1's identity to each, tracking the different number of "slashed objects" in each term. |
-| 10 | Verify γ^νp̸₁p̸₂γ_ν=4(p₁·p₂)I directly from Lesson 21's γ^μγ^aγ^bγ_μ=4g^ab identity, contracting with the momentum components of p₁ and p₂. |
-| 11 | Carry out Section 4.1's full reduction, from the original interference trace to −8(p₁·p₂)(p₃·p₄), showing each intermediate step explicitly. |
-| 12 | Using Exercise 9's expansion and the general (not necessarily massless) dot-product relations of Lesson 53, derive the general massive interference trace, −8(s−2m²)(s−6m²), stated in Section 5.2. |
-| 13 | Verify p₁·p₂=p₃·p₄=s/2 in the massless limit, using Lesson 53, Section 5.2, with m_1=m_2=m_3=m_4=0. |
-| 14 | Assemble Section 5.1's full result from its three pieces (Lesson 54's t-channel and u-channel terms, plus the interference term of Section 4.2), verifying the overall numerical factors combine correctly. |
-| 15 | Verify that Section 5.1's formula is symmetric under t↔u (with s held fixed), and explain why this symmetry must hold given the electrons' indistinguishability. |
-| 16 | Challenge: explain, using Worked example 5's argument, why no analogous u=0 divergence would appear if this were instead a calculation for electron-muon scattering (Lesson 54), even though that calculation also has a well-defined Mandelstam variable u. |
+| 1 | **Extension.** Explain, referring to Lesson 37, Section 6.2, why the exchange contraction of Section 1.1 requires exactly one more fermionic transposition than the direct contraction. |
+| 2 | **Core.** Verify that ℳ_u is obtained from ℳ_t by exchanging p₃ and p₄ everywhere, including in the propagator denominator (t becoming u). |
+| 3 | **Core.** Write out |ℳ_t|² and |ℳ_u|² spin-averaged and summed, citing Lesson 54, Section 4.2, with m_e=m_μ=m substituted. |
+| 4 | **Core.** State |ℳ|²=|ℳ_t|²+|ℳ_u|²−2Re(ℳ_tℳ_u^*) and explain why the cross term carries a minus sign, given ℳ=ℳ_t−ℳ_u. |
+| 5 | **Core.** Conjugate ℳ_u using Γ̄=γ^ν for Γ=γ^ν (Lesson 52, Section 3.1) and derive Section 2.2's expression for ℳ_u^*. |
+| 6 | **Extension.** Write out Σ_(spins)ℳ_tℳ_u^* with explicit spinor indices, following Lesson 52, Section 2.2's method, and show every index closes into a single chain rather than two separate ones. |
+| 7 | **Core.** Verify Section 3.2's first step, γ^cγ_μ=2δ^c_μ−γ_μγ^c, directly from the Clifford algebra {γ^c,γ_μ}=2δ^c_μ. |
+| 8 | **Extension.** Carry out every step of Section 3.2's derivation explicitly, confirming the two 4g^abγ^c terms cancel exactly. |
+| 9 | **Core.** Using Worked example 3, expand (p̸₁+m)γ^ν(p̸₄+m) into its four terms (p̸₁γ^νp̸₄, mp̸₁γ^ν, mγ^νp̸₄, m²γ^ν) and apply Section 3.1's identity to each, tracking the different number of "slashed objects" in each term. |
+| 10 | **Core.** Verify γ^νp̸₁p̸₂γ_ν=4(p₁·p₂)I directly from Lesson 21's γ^μγ^aγ^bγ_μ=4g^ab identity, contracting with the momentum components of p₁ and p₂. |
+| 11 | **Extension.** Carry out Section 4.1's full reduction, from the original interference trace to −8(p₁·p₂)(p₃·p₄), showing each intermediate step explicitly. |
+| 12 | **Extension.** Using Exercise 9's expansion and the general (not necessarily massless) dot-product relations of Lesson 53, derive the general massive interference trace, −8(s−2m²)(s−6m²), stated in Section 5.2. |
+| 13 | **Core.** Verify p₁·p₂=p₃·p₄=s/2 in the massless limit, using Lesson 53, Section 5.2, with m_1=m_2=m_3=m_4=0. |
+| 14 | **Extension.** Assemble Section 5.1's full result from its three pieces (Lesson 54's t-channel and u-channel terms, plus the interference term of Section 4.2), verifying the overall numerical factors combine correctly. |
+| 15 | **Extension.** Verify that Section 5.1's formula is symmetric under t↔u (with s held fixed), and explain why this symmetry must hold given the electrons' indistinguishability. |
+| 16 | **Challenge.** Explain, using Worked example 5's argument, why no analogous u=0 divergence would appear if this were instead a calculation for electron-muon scattering (Lesson 54), even though that calculation also has a well-defined Mandelstam variable u. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Lesson 37, Section 6.2, states that a vacuum expectation value of fermionic field operators equals a sum over complete pairings, each weighted by (−1)^P for P transpositions needed to bring the paired operators adjacent, in their original order. The direct contraction pairs the operators in their "natural" order (electron at x₁ to electron labeled 3, electron at x₂ to electron labeled 4); the exchange contraction instead pairs the electron at x₁ to the electron labeled 4, requiring one additional swap of which external state is reached from which field operator, hence one extra transposition and one extra factor of −1.
 
@@ -246,16 +248,6 @@ Lesson 56 turns to electron-positron scattering, where crossing symmetry relates
 
 **16.** Electron-muon scattering has only the direct, t-channel diagram (Lesson 54, Worked example 1); there is no exchange diagram and hence no interference term, so nothing in that calculation produces a term singular at u=0. Worked example 5's argument specifically traces the u=0 divergence to the physical indistinguishability of the two final-state electrons, allowing "backward scattering into slot 4" to be reinterpreted as "forward scattering into slot 3"; an electron and a muon in the final state are always distinguishable, so no such reinterpretation, and no corresponding divergence, exists for that process.
 
-# Mastery checklist
+# Mastery check
 
-- I can explain why identical particles force a second Wick contraction and derive the resulting relative minus sign.
-
-- I can write ℳ_t and ℳ_u and show how one is obtained from the other.
-
-- I can explain why the direct and exchange terms reuse Lesson 54's result while the interference term requires a new, single trace.
-
-- I can derive and apply the identity γ^μγ^aγ^bγ^cγ_μ=−2γ^cγ^bγ^a.
-
-- I can reduce the interference trace to −8s² in the massless limit and assemble the complete Møller scattering formula.
-
-- I can explain why the resulting cross section diverges at both t=0 and u=0.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

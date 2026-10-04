@@ -39,6 +39,11 @@ It also uncovers, honestly and in full, the equation's central difficulty: the p
 | N(k) | Normalization factor for a relativistic plane wave |
 | ω_p | Alternative notation for E_p, used interchangeably with it |
 
+BOX: First pass: the result before the derivation
+Turning E² = p² + m² into a wave equation gives the Klein–Gordon equation (□ + m²)φ = 0. It is relativistic, but it allows negative energies and a probability density that can be negative.
+The problem is real, not a mistake in the derivation; Lessons 20, 23 and 32 resolve it.
+ENDBOX
+
 # 1 Deriving the equation
 
 ## 1.1 Direct promotion of the energy relation
@@ -193,24 +198,26 @@ Although the electron, the particle central to QED, is a spin-1/2 fermion descri
 
 @widths 720 9072
 | No | Problem |
-| 1 | Verify by direct substitution that φ = N e^(−i(Et−p·x)) solves (∂_t²−∇²+m²)φ=0 exactly when E²=\|p\|²+m². |
-| 2 | Show that φ = A cos(E_pt)e^(ip·x) (a real combination of the two energy branches) solves the Klein–Gordon equation, and identify it as a superposition of the two plane waves of Section 2.1. |
-| 3 | Compute ρ = j^0 for the state of Exercise 2 and show it oscillates in time rather than being constant, in contrast with the single-plane-wave case of Section 3.2. |
-| 4 | Verify, by direct differentiation, that ∂_μj^μ=0 for j^μ=i(φ*∂^μφ−φ∂^μφ*) whenever φ solves the Klein–Gordon equation, filling in the steps sketched in Section 3.1. |
-| 5 | For the plane wave of Section 2.1 with positive energy, compute the spatial current j and show j = 2E_p\|N\|² v, where v = p/E_p is the classical velocity (Lesson 3), matching the nonrelativistic form j=ρv found for the Schrödinger current in Lesson 10. |
-| 6 | Find the normalization N such that the positive-energy plane wave has ρ = 1 (a natural, if not unique, normalization convention), and express N in terms of E_p. |
-| 7 | Show that a Klein–Gordon particle in a one-dimensional box of length L with Dirichlet boundary conditions φ(0)=φ(L)=0 has quantized momenta p_n = nπ/L, and write the corresponding energies E_(n) = ±√((nπ/L)²+m²). |
-| 8 | Using the nonrelativistic expansion of Lesson 3, Worked example 5, expand E_(n) of Exercise 7 to first subleading order in (nπ/L)/m, and identify the rest-mass and kinetic-energy pieces. |
-| 9 | Verify the intermediate step of Section 5.2, that ∂_tφ = e^(−imt)(−imψ+∂_tψ) and ∂_t²φ = e^(−imt)(−m²ψ−2im∂_tψ+∂_t²ψ), by direct differentiation of φ=e^(−imt)ψ. |
-| 10 | Estimate, as in Worked example 6, the size of the neglected term \|∂_t²ψ\|/(m\|∂_tψ\|) for a particle with kinetic energy equal to 1% of its rest mass, and comment on whether the nonrelativistic approximation remains good. |
-| 11 | Show that if φ solves the Klein–Gordon equation, so does φ* (with the sign of the exponent in each plane-wave component reversed relative to φ), and relate this to the existence of both energy branches. |
-| 12 | For the superposition φ = ae^(−iE_pt+ipx)+be^(iE_pt+ipx) of Worked example 4, compute the full time-dependent ρ(t), including the oscillating interference terms, and identify the frequency of oscillation. |
-| 13 | Explain, using the second-order character of the equation, why specifying φ(x,0) alone (without also specifying ∂_tφ(x,0)) is insufficient to determine the future evolution of a Klein–Gordon wave function, in contrast with the Schrödinger case. |
-| 14 | Show that a real solution of the Klein–Gordon equation (φ=φ*) automatically has j^μ=0 everywhere, and explain why this makes real solutions unsuitable as single-particle probability amplitudes for a charged particle. |
-| 15 | Using the result of Exercise 14, explain why a real Klein–Gordon field is the natural candidate for describing a neutral (uncharged) spin-0 particle, anticipating Lesson 31's discussion of which fields can carry a conserved U(1) charge. |
-| 16 | Challenge: show that the energy-momentum structure Eₚ² = \|p\|²+m² for the Klein–Gordon equation, combined with the requirement of a Lorentz-invariant normalization for plane-wave states, forces the natural covariant normalization ⟨p\|p′⟩ = 2E_p(2π)³δ³(p−p′) rather than the naive (2π)³δ³(p−p′) used for the nonrelativistic momentum eigenstates of Lesson 13, by showing that 2E_p transforms correctly to compensate for the noninvariance of the naive delta-function measure under a boost (a full derivation is not required; a plausibility argument based on how d³p/E_p is known to be Lorentz invariant suffices). |
+| 1 | **Core.** Verify by direct substitution that φ = N e^(−i(Et−p·x)) solves (∂_t²−∇²+m²)φ=0 exactly when E²=\|p\|²+m². |
+| 2 | **Core.** Show that φ = A cos(E_pt)e^(ip·x) (a real combination of the two energy branches) solves the Klein–Gordon equation, and identify it as a superposition of the two plane waves of Section 2.1. |
+| 3 | **Extension.** Compute ρ = j^0 for the state of Exercise 2 and show it oscillates in time rather than being constant, in contrast with the single-plane-wave case of Section 3.2. |
+| 4 | **Extension.** Verify, by direct differentiation, that ∂_μj^μ=0 for j^μ=i(φ*∂^μφ−φ∂^μφ*) whenever φ solves the Klein–Gordon equation, filling in the steps sketched in Section 3.1. |
+| 5 | **Core.** For the plane wave of Section 2.1 with positive energy, compute the spatial current j and show j = 2E_p\|N\|² v, where v = p/E_p is the classical velocity (Lesson 3), matching the nonrelativistic form j=ρv found for the Schrödinger current in Lesson 10. |
+| 6 | **Core.** Find the normalization N such that the positive-energy plane wave has ρ = 1 (a natural, if not unique, normalization convention), and express N in terms of E_p. |
+| 7 | **Core.** Show that a Klein–Gordon particle in a one-dimensional box of length L with Dirichlet boundary conditions φ(0)=φ(L)=0 has quantized momenta p_n = nπ/L, and write the corresponding energies E_(n) = ±√((nπ/L)²+m²). |
+| 8 | **Core.** Using the nonrelativistic expansion of Lesson 3, Worked example 5, expand E_(n) of Exercise 7 to first subleading order in (nπ/L)/m, and identify the rest-mass and kinetic-energy pieces. |
+| 9 | **Core.** Verify the intermediate step of Section 5.2, that ∂_tφ = e^(−imt)(−imψ+∂_tψ) and ∂_t²φ = e^(−imt)(−m²ψ−2im∂_tψ+∂_t²ψ), by direct differentiation of φ=e^(−imt)ψ. |
+| 10 | **Core.** Estimate, as in Worked example 6, the size of the neglected term \|∂_t²ψ\|/(m\|∂_tψ\|) for a particle with kinetic energy equal to 1% of its rest mass, and comment on whether the nonrelativistic approximation remains good. |
+| 11 | **Extension.** Show that if φ solves the Klein–Gordon equation, so does φ* (with the sign of the exponent in each plane-wave component reversed relative to φ), and relate this to the existence of both energy branches. |
+| 12 | **Extension.** For the superposition φ = ae^(−iE_pt+ipx)+be^(iE_pt+ipx) of Worked example 4, compute the full time-dependent ρ(t), including the oscillating interference terms, and identify the frequency of oscillation. |
+| 13 | **Extension.** Explain, using the second-order character of the equation, why specifying φ(x,0) alone (without also specifying ∂_tφ(x,0)) is insufficient to determine the future evolution of a Klein–Gordon wave function, in contrast with the Schrödinger case. |
+| 14 | **Extension.** Show that a real solution of the Klein–Gordon equation (φ=φ*) automatically has j^μ=0 everywhere, and explain why this makes real solutions unsuitable as single-particle probability amplitudes for a charged particle. |
+| 15 | **Extension.** Using the result of Exercise 14, explain why a real Klein–Gordon field is the natural candidate for describing a neutral (uncharged) spin-0 particle, anticipating Lesson 31's discussion of which fields can carry a conserved U(1) charge. |
+| 16 | **Challenge.** Show that the energy-momentum structure Eₚ² = \|p\|²+m² for the Klein–Gordon equation, combined with the requirement of a Lorentz-invariant normalization for plane-wave states, forces the natural covariant normalization ⟨p\|p′⟩ = 2E_p(2π)³δ³(p−p′) rather than the naive (2π)³δ³(p−p′) used for the nonrelativistic momentum eigenstates of Lesson 13, by showing that 2E_p transforms correctly to compensate for the noninvariance of the naive delta-function measure under a boost (a full derivation is not required; a plausibility argument based on how d³p/E_p is known to be Lorentz invariant suffices). |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** ∂_t²φ = −E²φ and ∇²φ = −\|p\|²φ (each derivative brings down the corresponding factor of −iE or ip, and two derivatives give minus the square). Substituting: −E²φ+\|p\|²φ+m²φ = 0, satisfied exactly when E²=\|p\|²+m².
 
@@ -244,20 +251,6 @@ Although the electron, the particle central to QED, is a spin-1/2 fermion descri
 
 **16.** The three-momentum integration measure d³p transforms nontrivially under a boost (momenta parallel to the boost direction are stretched or compressed, as in the velocity addition and energy transformation formulas of Lesson 3), but the combination d³p/E_p is known (and can be shown, though the full proof uses the four-dimensional delta function δ(p²−m²) restricted to positive energy, a standard but lengthy manipulation) to be invariant under Lorentz transformations, essentially because it is the surviving three-dimensional measure after integrating a manifestly invariant four-dimensional measure d⁴p δ(p²−m²)θ(p⁰) over p⁰. Since ordinary nonrelativistic completeness used δ³(p−p′) with the flat measure d³p, a relativistically sensible completeness relation must instead pair 2E_p with δ³(p−p′) so that the combined object (2E_p)⁻¹ × [2E_pδ³(p−p′)] integrates correctly against the invariant measure d³p/(2E_p): concretely, ⟨p\|p′⟩ = 2E_p(2π)³δ³(p−p′) is the normalization compatible with ∫d³p/((2π)³2E_p) \|p⟩⟨p\| = I, the covariant resolution of the identity used throughout Lesson 46 onward.
 
-# Mastery checklist
+# Mastery check
 
-- I can derive the Klein–Gordon equation from E²=\|p\|²+m² by the same operator substitution used for the Schrödinger equation.
-
-- I can verify the equation's Lorentz covariance using the transformation properties of □.
-
-- I can find both energy branches of the plane-wave solution and explain why both must be present.
-
-- I can construct the Klein–Gordon current and show explicitly that its time component can be negative.
-
-- I can explain, in a sentence or two, why the sign problem is tied to the equation being second order in time.
-
-- I can recover the free Schrödinger equation from the Klein–Gordon equation in the nonrelativistic limit.
-
-- I can state why restricting to positive-energy solutions by hand fails once interactions are present.
-
-- I can describe, at least qualitatively, how reinterpreting φ as a field resolves the probability problem.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

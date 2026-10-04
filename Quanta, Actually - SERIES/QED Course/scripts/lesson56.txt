@@ -32,14 +32,14 @@ Lesson 45 first raised electron-positron annihilation into a photon as an exampl
 | t = (p₁−k₁)², u = (p₁−k₂)² | Internal electron momenta squared for the two diagrams |
 | q_A = p₁−k₁, q_B = p₁−k₂ | Internal electron four-momenta |
 
+BOX: First pass: the result before the derivation
+e⁺e⁻ → γγ has two diagrams with a relative plus sign; at high energy (1/4)Σ|ℳ|² = 2e⁴[t/u + u/t].
+Bosons in the final state add without the Møller minus sign.
+ENDBOX
+
 # 1 The process and its two diagrams
 
-FIG:
-    e⁻(p1) ----*----------------*---- e⁺(p2)           e⁻(p1) ----*----------------*---- e⁺(p2)   
-               |                |                                 |                |
-              γ(k1)            γ(k2)                             γ(k2)            γ(k1)
-                 diagram A, t-channel                               diagram B, u-channel
-ENDFIG
+IMG: L56_annihilation.png | 6.0 | Figure 56.1. Electron–positron annihilation into two photons: the t-channel and u-channel diagrams with an internal electron line.
 
 ## 1.1 The Wick contraction
 
@@ -173,24 +173,26 @@ Lesson 57 shows that Compton scattering's amplitude can be obtained from this le
 
 @widths 720 9072
 | No | Problem |
-| 1 | Explain why ψ̄(x₂), not ψ(x₂), is the field contracted against the incoming positron, citing Lesson 49, Section 3.1's corrected role-reversal. |
-| 2 | Explain why the second Wick contraction (Section 1.2) exchanges which photon field is contracted with which outgoing photon, rather than exchanging any fermionic assignment. |
-| 3 | Verify q_A²=(p₁−k₁)²=t and q_B²=(p₁−k₂)²=u directly from the definitions in Section 1.3. |
-| 4 | Write ℳ_B explicitly by relabeling ℳ_A's indices and internal momentum as in Worked example 2, and verify it matches Section 1.3's stated form. |
-| 5 | State the positron completeness relation used in Section 2.1 and the electron completeness relation, and explain why the positron's carries a minus sign in front of m. |
-| 6 | Explain, citing Lesson 52, Section 5.2, why using −g_μν in place of the honest transverse photon polarization sum is only provisionally justified at this point in the course. |
-| 7 | Derive γ^α(p̸₁+m)γ_α=−2p̸₁+4m directly from γ^μγ^aγ_μ=−2γ^a and γ^μγ_μ=4. |
-| 8 | Expand (q̸_A+m)(−2p̸₁+4m)(q̸_A+m) fully into its nine terms, following the method of Lesson 55, Exercise 9, and apply the appropriate contraction identity to each after sandwiching with γ^β⋯γ_β. |
-| 9 | Derive q_A·p₁=t/2, q_A·p₂=−t/2, and q_A²=t from the definitions q_A=p₁−k₁, t=(p₁−k₁)²=(p₂−k₂)², using p₁²=k₁²=0 in the massless limit. |
-| 10 | Substitute Exercise 9's values into T_AA=32(q_A·p₁)(q_A·p₂)−16q_A²(p₁·p₂) and derive T_AA=8tu, showing every step. |
-| 11 | Using Worked example 3's relabeling argument, write out the analogous derivation confirming T_BB=8tu without repeating Exercise 8's full expansion. |
-| 12 | Starting from T_AB in Section 2.2, with its interleaved indices, set m=0 and apply the contraction identities of Section 4.1 to show that T_AB=−32(q_A·q_B)(p₁·p₂). |
-| 13 | Verify q_A·q_B=0 in the massless limit, using q_A=p₁−k₁, q_B=p₁−k₂, p₁²=0, p₁·k₁=−t/2, p₁·k₂=−u/2, and k₁·k₂=s/2 (from (k₁+k₂)²=s with k₁²=k₂²=0). |
-| 14 | Assemble Section 5's final formula from T_AA, T_BB, T_AB, and the appropriate propagator denominators, verifying every numerical factor. |
-| 15 | Prove that r+1/r≥2 for any r>0, and use this to confirm Section 5's formula is positive for physical (t,u<0) scattering. |
-| 16 | Challenge: explain, in general terms, what "crossing symmetry" means by comparing this lesson's process (two incoming fermions, two outgoing photons) with Compton scattering (one incoming and one outgoing fermion, one incoming and one outgoing photon), and predict which sign changes you would expect when relating the two processes' Mandelstam-like variables. |
+| 1 | **Core.** Explain why ψ̄(x₂), not ψ(x₂), is the field contracted against the incoming positron, citing Lesson 49, Section 3.1's corrected role-reversal. |
+| 2 | **Extension.** Explain why the second Wick contraction (Section 1.2) exchanges which photon field is contracted with which outgoing photon, rather than exchanging any fermionic assignment. |
+| 3 | **Core.** Verify q_A²=(p₁−k₁)²=t and q_B²=(p₁−k₂)²=u directly from the definitions in Section 1.3. |
+| 4 | **Core.** Write ℳ_B explicitly by relabeling ℳ_A's indices and internal momentum as in Worked example 2, and verify it matches Section 1.3's stated form. |
+| 5 | **Core.** State the positron completeness relation used in Section 2.1 and the electron completeness relation, and explain why the positron's carries a minus sign in front of m. |
+| 6 | **Core.** Explain, citing Lesson 52, Section 5.2, why using −g_μν in place of the honest transverse photon polarization sum is only provisionally justified at this point in the course. |
+| 7 | **Extension.** Derive γ^α(p̸₁+m)γ_α=−2p̸₁+4m directly from γ^μγ^aγ_μ=−2γ^a and γ^μγ_μ=4. |
+| 8 | **Extension.** Expand (q̸_A+m)(−2p̸₁+4m)(q̸_A+m) fully into its nine terms, following the method of Lesson 55, Exercise 9, and apply the appropriate contraction identity to each after sandwiching with γ^β⋯γ_β. |
+| 9 | **Extension.** Derive q_A·p₁=t/2, q_A·p₂=−t/2, and q_A²=t from the definitions q_A=p₁−k₁, t=(p₁−k₁)²=(p₂−k₂)², using p₁²=k₁²=0 in the massless limit. |
+| 10 | **Core.** Substitute Exercise 9's values into T_AA=32(q_A·p₁)(q_A·p₂)−16q_A²(p₁·p₂) and derive T_AA=8tu, showing every step. |
+| 11 | **Core.** Using Worked example 3's relabeling argument, write out the analogous derivation confirming T_BB=8tu without repeating Exercise 8's full expansion. |
+| 12 | **Extension.** Starting from T_AB in Section 2.2, with its interleaved indices, set m=0 and apply the contraction identities of Section 4.1 to show that T_AB=−32(q_A·q_B)(p₁·p₂). |
+| 13 | **Core.** Verify q_A·q_B=0 in the massless limit, using q_A=p₁−k₁, q_B=p₁−k₂, p₁²=0, p₁·k₁=−t/2, p₁·k₂=−u/2, and k₁·k₂=s/2 (from (k₁+k₂)²=s with k₁²=k₂²=0). |
+| 14 | **Extension.** Assemble Section 5's final formula from T_AA, T_BB, T_AB, and the appropriate propagator denominators, verifying every numerical factor. |
+| 15 | **Extension.** Prove that r+1/r≥2 for any r>0, and use this to confirm Section 5's formula is positive for physical (t,u<0) scattering. |
+| 16 | **Challenge.** Explain, in general terms, what "crossing symmetry" means by comparing this lesson's process (two incoming fermions, two outgoing photons) with Compton scattering (one incoming and one outgoing fermion, one incoming and one outgoing photon), and predict which sign changes you would expect when relating the two processes' Mandelstam-like variables. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Lesson 49, Section 3.1 (as corrected), showed that ψ̄(x)=ψ†(x)γ⁰ contains a d_s(p) term, an annihilation operator for the positron, while ψ(x) contains only d_s†(p), a creation operator; since annihilating an incoming positron requires an annihilation operator, only ψ̄(x₂) can be contracted against it.
 
@@ -224,14 +226,6 @@ Lesson 57 shows that Compton scattering's amplitude can be obtained from this le
 
 **16.** Crossing symmetry relates processes obtained from one another by moving a particle from the initial state to the final state (or vice versa) and reversing the sign of its four-momentum, since an outgoing particle of momentum k is treated, in the crossed process, as an incoming particle of momentum −k; comparing this lesson's process (incoming e⁻,e⁺; outgoing γ,γ) to Compton scattering (incoming e⁻,γ; outgoing e⁻,γ), moving the incoming positron to an outgoing electron and one outgoing photon to an incoming photon relates the two; the Mandelstam-like variables built from momentum differences would be expected to map into each other with some combination of sign flips and relabelings (for instance, this lesson's s, built from the two incoming momenta p₁+p₂, would be expected to correspond to a t-like or u-like variable of Compton scattering, built from a momentum difference instead of a sum, once the crossed momentum's sign is flipped), the precise details of which Lesson 57 works out explicitly.
 
-# Mastery checklist
+# Mastery check
 
-- I can derive the two Wick contractions for e⁻e⁺→γγ and explain why they combine with a plus sign.
-
-- I can write ℳ_A and ℳ_B and identify their internal momenta with t and u.
-
-- I can reduce |ℳ|² to three traces using positron completeness and the covariant photon polarization sum.
-
-- I can apply Lesson 55's contraction identity to derive T_AA=T_BB=8tu and T_AB=0 in the massless limit.
-
-- I can assemble the complete result (1/4)Σ|ℳ|²=2e⁴[t/u+u/t] and explain why it is positive.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

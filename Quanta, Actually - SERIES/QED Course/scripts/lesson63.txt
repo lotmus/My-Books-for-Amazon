@@ -30,21 +30,14 @@ Before any algebra, a picture. The vacuum of quantum electrodynamics is not empt
 | q | The external photon's four-momentum, fixed and given |
 | D | The degree of divergence: how many powers of the integration variable survive as it grows large |
 
+BOX: First pass: the result before the derivation
+The vacuum-polarization loop is iΠ^μν(q) = −e²∫d⁴k/(2π)⁴ Tr[γ^μ(k̸ + m)γ^ν(k̸ − q̸ + m)]/[(k² − m²)((k − q)² − m²)], which naively grows like Λ².
+A photon briefly becoming a pair is what makes the charge run (Lesson 69).
+ENDBOX
+
 # 1 Assembling the diagram, piece by piece
 
-FIG:
-          γ(q)
-           |
-           *
-          / \
-         /   \
-        |     |   electron loop, momenta k and k−q
-         \   /
-          \ /
-           *
-           |
-          γ(q)
-ENDFIG
+IMG: L63_vp.png | 6.0 | Figure 63.1. Vacuum polarization. The photon briefly becomes an electron–positron pair; loop momenta k and k − q; the closed fermion loop gives a trace and a minus sign.
 
 ## 1.1 What already exists
 
@@ -157,30 +150,32 @@ Three separate jobs remain, and this course does not do all three at once. First
 
 5. Physical consistency with current conservation suggests the finished Π^μν(q) should be transverse, q_μΠ^μν(q)=0, which would soften the divergence once properly imposed — an expectation, not yet a proof.
 
-6. Lessons 67, 68, and 68 in turn regularize the integral, extract its physical content, and use that content to describe how the electron's effective charge depends on distance or energy.
+6. Lessons 67, 68, and 69 in turn regularize the integral, extract its physical content, and use that content to describe how the electron's effective charge depends on distance or energy.
 
 # Exercises
 
 @widths 720 9072
 | No | Problem |
-| 1 | List the four ingredients of Section 1.1 and, for each one, name the earlier lesson that first derived it. |
-| 2 | Explain, in your own words, why a closed loop with no external spinor legs must be traced, referring to how an external line's spinor was used in Lesson 52's calculations by contrast. |
-| 3 | Verify Worked example 1's bookkeeping: multiply out (ie)(ie)(i)(i)(−1) step by step and confirm the result is −e². |
-| 4 | State Lesson 21's trace formula for Tr[(p̸₁+m)γ^μ(p̸₂+m)γ^ν] from memory, then check it against the lesson text. |
-| 5 | Use cyclicity of the trace to rewrite Tr[γ^μ(k̸+m)γ^ν((k̸−q̸)+m)] with the third factor moved to the front, matching Section 2.1's step exactly. |
-| 6 | Substitute p₁=k−q, p₂=k into Lesson 21's formula and derive Section 2.2's result explicitly. |
-| 7 | Explain why no new gamma-matrix identity was needed anywhere in Section 2, referring to Worked example 2's argument about what Lesson 21's derivation actually assumed. |
-| 8 | For large k, explain why (k−q)≈k, and use this to justify Section 3.1's claim that each term of the trace grows like k². |
-| 9 | Explain why each propagator denominator, k²−m² or (k−q)²−m², grows like k² at large k, and combine both to justify the claim that the full denominator grows like k⁴. |
-| 10 | Combine Exercises 8 and 9 to confirm the integrand behaves like 1/k² at large k. |
-| 11 | State the four-dimensional volume element in spherical coordinates, and explain why it contributes a factor of k³dk to the radial integral. |
-| 12 | Combine Exercise 10 and Exercise 11 to derive Section 3.2's result, that the radial integral grows like ∫k dk, and state how this compares to a logarithmic divergence. |
-| 13 | Verify that q_μ(q²g^μν−q^μq^ν)=0 by direct substitution, confirming this specific combination satisfies the transversality condition of Section 4.1. |
-| 14 | Explain, in your own words, why an object proportional to q^μ alone (rather than the combination of Exercise 13) would fail to be transverse, and why Section 4.1 rules such a term out on physical grounds. |
-| 15 | Restate, in one or two sentences each, the three separate jobs Section 5 identifies as still needing to be done, and name the lesson responsible for each. |
-| 16 | Challenge: explain why Worked example 4's caution (that transversality is expected, not yet proven, for this specific integral) matters for how a reader should treat any physics claim introduced with words like "should" or "is expected to," contrasting this with a claim this lesson actually proved, such as Section 2.2's trace. |
+| 1 | **Core.** List the four ingredients of Section 1.1 and, for each one, name the earlier lesson that first derived it. |
+| 2 | **Extension.** Explain, in your own words, why a closed loop with no external spinor legs must be traced, referring to how an external line's spinor was used in Lesson 52's calculations by contrast. |
+| 3 | **Core.** Verify Worked example 1's bookkeeping: multiply out (ie)(ie)(i)(i)(−1) step by step and confirm the result is −e². |
+| 4 | **Core.** State Lesson 21's trace formula for Tr[(p̸₁+m)γ^μ(p̸₂+m)γ^ν] from memory, then check it against the lesson text. |
+| 5 | **Core.** Use cyclicity of the trace to rewrite Tr[γ^μ(k̸+m)γ^ν((k̸−q̸)+m)] with the third factor moved to the front, matching Section 2.1's step exactly. |
+| 6 | **Core.** Substitute p₁=k−q, p₂=k into Lesson 21's formula and derive Section 2.2's result explicitly. |
+| 7 | **Extension.** Explain why no new gamma-matrix identity was needed anywhere in Section 2, referring to Worked example 2's argument about what Lesson 21's derivation actually assumed. |
+| 8 | **Core.** For large k, explain why (k−q)≈k, and use this to justify Section 3.1's claim that each term of the trace grows like k². |
+| 9 | **Core.** Explain why each propagator denominator, k²−m² or (k−q)²−m², grows like k² at large k, and combine both to justify the claim that the full denominator grows like k⁴. |
+| 10 | **Extension.** Combine Exercises 8 and 9 to confirm the integrand behaves like 1/k² at large k. |
+| 11 | **Extension.** State the four-dimensional volume element in spherical coordinates, and explain why it contributes a factor of k³dk to the radial integral. |
+| 12 | **Extension.** Combine Exercise 10 and Exercise 11 to derive Section 3.2's result, that the radial integral grows like ∫k dk, and state how this compares to a logarithmic divergence. |
+| 13 | **Core.** Verify that q_μ(q²g^μν−q^μq^ν)=0 by direct substitution, confirming this specific combination satisfies the transversality condition of Section 4.1. |
+| 14 | **Extension.** Explain, in your own words, why an object proportional to q^μ alone (rather than the combination of Exercise 13) would fail to be transverse, and why Section 4.1 rules such a term out on physical grounds. |
+| 15 | **Extension.** Restate, in one or two sentences each, the three separate jobs Section 5 identifies as still needing to be done, and name the lesson responsible for each. |
+| 16 | **Challenge.** Explain why Worked example 4's caution (that transversality is expected, not yet proven, for this specific integral) matters for how a reader should treat any physics claim introduced with words like "should" or "is expected to," contrasting this with a claim this lesson actually proved, such as Section 2.2's trace. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** The vertex factor ieγ^μ: Lesson 45. The fermion propagators i(k̸+m)/(k²−m²+iε): Lesson 47. The trace over the closed loop: the general spin-sum technology of Lesson 52, here applied with no external spinors to contract against. The closed-loop minus sign: Lesson 37, Section 6.2.
 
@@ -214,14 +209,6 @@ Three separate jobs remain, and this course does not do all three at once. First
 
 **16.** Section 2.2's trace was derived by direct, explicit substitution into an already-proven formula, with every step shown and nothing left to a later lesson; Section 4.1's transversality, by contrast, is introduced with the word "should," flagged explicitly in Section 4.3 as an expectation borrowed from physical reasoning rather than a result derived from the integral actually in front of the reader. A careful reader should treat the first kind of claim as settled and the second as a signpost toward work still to be done, exactly the distinction this course has tried to keep visible since its treatment of provisional results such as the covariant photon propagator in Lesson 48.
 
-# Mastery checklist
+# Mastery check
 
-- I can assemble the vacuum polarization integral from its four ingredients, each traced to the lesson that derived it.
-
-- I can compute the loop's trace by direct substitution into Lesson 21's already-established formula.
-
-- I can count powers of the loop momentum to show the integral grows like Λ² at large momentum.
-
-- I can explain, in physical terms, why the finished answer is expected to be transverse, and state plainly that this expectation is not yet a proof.
-
-- I can list the three tasks that remain and name the lesson that completes each one.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

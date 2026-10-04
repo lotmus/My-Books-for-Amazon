@@ -40,6 +40,11 @@ This lesson removes it by fixing the Coulomb gauge, the same choice introduced c
 | \|k, λ⟩ = √(2ω_k) a_(k,λ)†\|0⟩ | One-photon state with relativistic normalization |
 | −g^μν | The effective polarization sum used inside a squared amplitude with conserved currents |
 
+BOX: First pass: the result before the derivation
+Gauge freedom removes two of the four components of A_μ; in Coulomb gauge the photon has two transverse polarizations, each an oscillator with a†_kλ, a_kλ.
+Two polarizations per momentum is the photon of Prologues 1–6, now as a quantized field. Lesson 71 returns to the gauge choice covariantly.
+ENDBOX
+
 # 1 The obstruction: gauge freedom is a constraint
 
 ## 1.1 The vanishing momentum conjugate to A⁰
@@ -209,24 +214,26 @@ With this lesson, all three free fields needed for QED, the scalar field of Less
 
 @widths 720 9072
 | No | Problem |
-| 1 | Starting from ℒ = −(1/4)F_μνF^μν = −(1/4)F_αβF^αβ, vary with respect to ∂_0A_ν (holding A_ν itself fixed) and show that π^ν = ∂ℒ/∂(∂_0A_ν) = −F^(0ν), filling in the factor-of-four bookkeeping from the antisymmetry of F. |
-| 2 | Using F^(0i) = −F_(0i) = −E^i (Lesson 26, Section 6.2), confirm π^i = E^i from Exercise 1. |
-| 3 | Show that k·A(k) = 0 follows from ∇·A(x) = 0 applied to a single Fourier mode A(x) ∝ A(k)e^(ik·x). |
-| 4 | For k along the x axis, choose ε_1(k) = ŷ and ε_2(k) = ẑ, and verify the orthonormality and transversality conditions of Section 2.2. |
-| 5 | Verify by direct differentiation that A^i(x) of Section 3.1 satisfies ∇·A = 0 identically, using only ε_λ(k)·k = 0 for each λ. |
-| 6 | Differentiate the mode expansion of A^i once with respect to t and confirm it matches the E^i of Section 3.2 up to the overall sign convention E = −∂A/∂t. |
-| 7 | Show that Σ_λ ε_λ^i(k)ε_λ^j(k) is symmetric in i, j and has trace 2 (sum over i = j), and interpret the trace as the number of physical polarizations. |
-| 8 | Verify the polarization sum identity of Section 4.2 for k along an arbitrary direction n̂, by choosing any orthonormal transverse pair and using the general fact that {ε_1, ε_2, n̂} is a complete orthonormal basis of three-dimensional space (Lesson 1, Section 3.3). |
-| 9 | Using [a_(k,λ), a_(k′,λ′)†] = (2π)³δ³(k−k′)δ_λλ′ and the mode expansions of A^i and E^j, reproduce the first line of Section 4.1's commutator calculation, following the method of Lesson 33, Section 7.1. |
-| 10 | Show that H commutes with the total photon number operator N = Σ_λ∫(d³k/(2π)³)a_(k,λ)†a_(k,λ), and explain why this means the number of photons is conserved for the free field (though not once interactions are introduced in Lesson 40). |
-| 11 | Compute ⟨k,λ\|H\|k,λ⟩ using the normalized one-photon state and confirm it equals ω_k, the expected single-photon energy. |
-| 12 | Using Lesson 35, Worked example 4's scalar-field result and Section 4.3's factor of two, find the numerical vacuum energy density of the photon field for a cutoff Λ = 1 GeV (you need not interpret the physical meaning of this cutoff beyond stating the number). |
-| 13 | Show that ⟨0\|A^i(x)\|k,λ⟩ = ε_λ^i(k)e^(−ik·x) follows from the mode expansion of Section 3.1 and ⟨0\|a_(k′,λ′)a_(k,λ)†\|0⟩ = (2π)³δ³(k−k′)δ_λλ′. |
-| 14 | Explain, referencing Lesson 23, Exercise 10, and Lesson 31, Section 5.1, why a Hermitian field cannot carry a nonzero conserved U(1) charge, and connect this to the photon's electrical neutrality. |
-| 15 | For an amplitude M^μ satisfying the Ward identity k_μM^μ = 0, argue in words why any term in Σ_λε_λ^με_λ^ν proportional to k^μ or k^ν vanishes once contracted with M_μ or M_ν*, motivating the replacement of Section 6.2. |
-| 16 | Challenge: using Σ_λε_λ^i(k)ε_λ^j(k) = δ^(ij) − k̂^ik̂^j and the four-vector identity −g^μν = diag(1,1,1,1) acting only on spatial indices in this frame convention (that is, −g^(ij) = δ^(ij) for spatial i,j), identify the extra term k̂^ik̂^j that must be shown to drop out for Section 6.2's replacement to hold, and state (without deriving the full four-dimensional Ward identity) what property of a conserved current would be needed to eliminate exactly this term. |
+| 1 | **Extension.** Starting from ℒ = −(1/4)F_μνF^μν = −(1/4)F_αβF^αβ, vary with respect to ∂_0A_ν (holding A_ν itself fixed) and show that π^ν = ∂ℒ/∂(∂_0A_ν) = −F^(0ν), filling in the factor-of-four bookkeeping from the antisymmetry of F. |
+| 2 | **Core.** Using F^(0i) = −F_(0i) = −E^i (Lesson 26, Section 6.2), confirm π^i = E^i from Exercise 1. |
+| 3 | **Core.** Show that k·A(k) = 0 follows from ∇·A(x) = 0 applied to a single Fourier mode A(x) ∝ A(k)e^(ik·x). |
+| 4 | **Core.** For k along the x axis, choose ε_1(k) = ŷ and ε_2(k) = ẑ, and verify the orthonormality and transversality conditions of Section 2.2. |
+| 5 | **Core.** Verify by direct differentiation that A^i(x) of Section 3.1 satisfies ∇·A = 0 identically, using only ε_λ(k)·k = 0 for each λ. |
+| 6 | **Core.** Differentiate the mode expansion of A^i once with respect to t and confirm it matches the E^i of Section 3.2 up to the overall sign convention E = −∂A/∂t. |
+| 7 | **Core.** Show that Σ_λ ε_λ^i(k)ε_λ^j(k) is symmetric in i, j and has trace 2 (sum over i = j), and interpret the trace as the number of physical polarizations. |
+| 8 | **Extension.** Verify the polarization sum identity of Section 4.2 for k along an arbitrary direction n̂, by choosing any orthonormal transverse pair and using the general fact that {ε_1, ε_2, n̂} is a complete orthonormal basis of three-dimensional space (Lesson 1, Section 3.3). |
+| 9 | **Extension.** Using [a_(k,λ), a_(k′,λ′)†] = (2π)³δ³(k−k′)δ_λλ′ and the mode expansions of A^i and E^j, reproduce the first line of Section 4.1's commutator calculation, following the method of Lesson 33, Section 7.1. |
+| 10 | **Extension.** Show that H commutes with the total photon number operator N = Σ_λ∫(d³k/(2π)³)a_(k,λ)†a_(k,λ), and explain why this means the number of photons is conserved for the free field (though not once interactions are introduced in Lesson 40). |
+| 11 | **Extension.** Compute ⟨k,λ\|H\|k,λ⟩ using the normalized one-photon state and confirm it equals ω_k, the expected single-photon energy. |
+| 12 | **Core.** Using Lesson 35, Worked example 4's scalar-field result and Section 4.3's factor of two, find the numerical vacuum energy density of the photon field for a cutoff Λ = 1 GeV (you need not interpret the physical meaning of this cutoff beyond stating the number). |
+| 13 | **Core.** Show that ⟨0\|A^i(x)\|k,λ⟩ = ε_λ^i(k)e^(−ik·x) follows from the mode expansion of Section 3.1 and ⟨0\|a_(k′,λ′)a_(k,λ)†\|0⟩ = (2π)³δ³(k−k′)δ_λλ′. |
+| 14 | **Extension.** Explain, referencing Lesson 23, Exercise 10, and Lesson 31, Section 5.1, why a Hermitian field cannot carry a nonzero conserved U(1) charge, and connect this to the photon's electrical neutrality. |
+| 15 | **Extension.** For an amplitude M^μ satisfying the Ward identity k_μM^μ = 0, argue in words why any term in Σ_λε_λ^με_λ^ν proportional to k^μ or k^ν vanishes once contracted with M_μ or M_ν*, motivating the replacement of Section 6.2. |
+| 16 | **Challenge.** Using Σ_λε_λ^i(k)ε_λ^j(k) = δ^(ij) − k̂^ik̂^j and the four-vector identity −g^μν = diag(1,1,1,1) acting only on spatial indices in this frame convention (that is, −g^(ij) = δ^(ij) for spatial i,j), identify the extra term k̂^ik̂^j that must be shown to drop out for Section 6.2's replacement to hold, and state (without deriving the full four-dimensional Ward identity) what property of a conserved current would be needed to eliminate exactly this term. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** F_αβF^αβ = g^(αμ)g^(βν)F_αβF_μν, so ∂(F_αβF^αβ)/∂(∂_0A_ν) = 2F^(αβ)(∂F_αβ/∂(∂_0A_ν)). Since F_αβ = ∂_αA_β − ∂_βA_α, ∂F_αβ/∂(∂_0A_ν) = δ_α^0δ_β^ν − δ_β^0δ_α^ν, so 2F^(αβ)(δ_α^0δ_β^ν−δ_β^0δ_α^ν) = 2F^(0ν) − 2F^(ν0) = 4F^(0ν) (using antisymmetry). So ∂ℒ/∂(∂_0A_ν) = −(1/4)(4F^(0ν)) = −F^(0ν).
 
@@ -260,20 +267,6 @@ With this lesson, all three free fields needed for QED, the scalar field of Less
 
 **16.** The extra term to be shown to drop out is k̂^ik̂^j (or its four-dimensional, frame-dependent generalization built from k^μ and the preferred time direction of the Coulomb gauge). For it to vanish upon contraction with the rest of a physical amplitude, the amplitude must satisfy the Ward identity, k_μM^μ(k) = 0: the current to which the photon couples must be conserved, so that any piece of the polarization sum proportional to the photon's own momentum contracts to zero against the amplitude, the property (established in general only in Lesson 72, but already used implicitly for the classical current of Lesson 24) that removes the gauge-dependent, unphysical part of the polarization sum from every physical prediction.
 
-# Mastery checklist
+# Mastery check
 
-- I can show that π⁰ vanishes for the electromagnetic Lagrangian and explain why this blocks naive canonical quantization.
-
-- I can state the Coulomb gauge condition and count the resulting physical degrees of freedom.
-
-- I can write the mode expansion of the transverse vector potential and its conjugate electric field in terms of polarization vectors and ladder operators.
-
-- I can state the photon commutation relations and derive the transverse-delta-function form of the field commutator from them.
-
-- I can compute the photon Hamiltonian and relate its vacuum energy to the factor of two in the electromagnetic Casimir force.
-
-- I can write the one-photon matrix element of the field and explain its role as an external-line factor.
-
-- I can explain why the photon is its own antiparticle, using the same reasoning applied earlier to the real Klein–Gordon field.
-
-- I can state the polarization sum replacement Σε_λ^με_λ^ν → −g^μν and explain, at least qualitatively, what property of an amplitude justifies it.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

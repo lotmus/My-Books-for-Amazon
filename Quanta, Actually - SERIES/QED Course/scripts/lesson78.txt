@@ -34,6 +34,11 @@ Lesson 69 described vacuum polarization as a running coupling, α(Q²), probed b
 
 Natural units, ℏc = 197.327 MeV fm. In display equations, square brackets enclose function arguments and visible groupings.
 
+BOX: First pass: the result before the derivation
+Vacuum polarization modifies Coulomb's law within about one electron Compton wavelength (the Uehling potential), lowering hydrogen's 2s level by about 27 MHz and dominating the Lamb shift in muonic hydrogen.
+Running α seen in an atom.
+ENDBOX
+
 # 1 From Π̂ to a potential
 
 ## 1.1 The static potential
@@ -93,6 +98,8 @@ with γ_E = 0.5772 Euler's constant. This short-distance logarithm is Lesson 69'
 ## 2.3 The picture
 
 The two limits describe one physical object, a cloud of virtual pairs surrounding the charge with a size of about 1/(2m). Outside the cloud, the charge is fully screened and appears as α ≈ 1/137, with an exponentially small correction. Inside it, the probe sees more of the bare charge, and the effective coupling grows logarithmically. A hydrogen atom, whose size is about 5×10⁴ fm, lies far outside the cloud. That is why the contact approximation of Section 1.2 is accurate for it.
+
+IMG: L78_uehling.png | 5.2 | Figure 78.1. The Uehling potential. Vacuum polarization strengthens the Coulomb attraction at distances shorter than the electron Compton wavelength.
 
 ### Worked example 2
 
@@ -169,21 +176,23 @@ This lesson derived the contact term, its hydrogen shift, and the limits of the 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Show that the Fourier transform of −4πZα/Q² is −Zα/r. |
-| 2 | Show that a constant C in momentum space corresponds to Cδ³(r) in position space. |
-| 3 | Derive δV = −(4Zα²/15m²)δ³(r) from Π̂ ≈ (α/15π)Q²/m². |
-| 4 | Derive ΔE_ns = −4α(Zα)⁴m/(15πn³) and check that it equals −1/5 of Lesson 77's prefactor. |
-| 5 | Evaluate the 1s and 2s shifts in MHz for hydrogen. |
-| 6 | Evaluate the 1s shift in hydrogen-like ions with Z = 10 and Z = 50, and comment on whether the contact approximation remains valid. |
-| 7 | Compute 1/(2m_e) in fm, and compare it with the Bohr radii of hydrogen and muonic hydrogen. |
-| 8 | Show that the short-distance limit of the Uehling potential corresponds to an effective coupling α[1 + (2α/3π)ln(1/(mr))], and match it to Lesson 69 with Q = 1/r. |
-| 9 | Compute the reduced mass and Bohr radius of muonic hydrogen. |
-| 10 | Repeat Worked example 3 and explain why the estimate is too large. |
-| 11 | Using 206.03 meV − 5.23 meV × (r/fm)² = 202.37 meV, solve for r_p. |
-| 12 | Estimate the electron-loop contribution to a_μ from (1/3)ln(m_μ/m_e) − 25/36. |
-| 13 | Challenge: explain why the hadronic contribution to a_μ is dominated by low-energy hadronic states, such as the ρ meson, and what this means for its calculation. |
+| 1 | **Core.** Show that the Fourier transform of −4πZα/Q² is −Zα/r. |
+| 2 | **Core.** Show that a constant C in momentum space corresponds to Cδ³(r) in position space. |
+| 3 | **Extension.** Derive δV = −(4Zα²/15m²)δ³(r) from Π̂ ≈ (α/15π)Q²/m². |
+| 4 | **Extension.** Derive ΔE_ns = −4α(Zα)⁴m/(15πn³) and check that it equals −1/5 of Lesson 77's prefactor. |
+| 5 | **Core.** Evaluate the 1s and 2s shifts in MHz for hydrogen. |
+| 6 | **Extension.** Evaluate the 1s shift in hydrogen-like ions with Z = 10 and Z = 50, and comment on whether the contact approximation remains valid. |
+| 7 | **Extension.** Compute 1/(2m_e) in fm, and compare it with the Bohr radii of hydrogen and muonic hydrogen. |
+| 8 | **Extension.** Show that the short-distance limit of the Uehling potential corresponds to an effective coupling α[1 + (2α/3π)ln(1/(mr))], and match it to Lesson 69 with Q = 1/r. |
+| 9 | **Core.** Compute the reduced mass and Bohr radius of muonic hydrogen. |
+| 10 | **Extension.** Repeat Worked example 3 and explain why the estimate is too large. |
+| 11 | **Core.** Using 206.03 meV − 5.23 meV × (r/fm)² = 202.37 meV, solve for r_p. |
+| 12 | **Core.** Estimate the electron-loop contribution to a_μ from (1/3)ln(m_μ/m_e) − 25/36. |
+| 13 | **Challenge.** Explain why the hadronic contribution to a_μ is dominated by low-energy hadronic states, such as the ρ meson, and what this means for its calculation. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** ∫d³Q/(2π)³ e^(iQ·r)(4π/Q²) = 1/r, the standard Coulomb transform, so −4πZα/Q² → −Zα/r.
 
@@ -211,14 +220,6 @@ This lesson derived the contact term, its hydrogen shift, and the limits of the 
 
 **13.** The kernel K(s)/s falls rapidly with s, roughly as m_μ²/s², so the integral is dominated by the lowest energies at which R(s) is large: the ρ resonance near 775 MeV, which accounts for about three-quarters of the total. That region is fully nonperturbative. It must be taken from precise measurements of e⁺e⁻ → π⁺π⁻, or from lattice QCD, and the precision of either one limits the muon g − 2 comparison.
 
-# Mastery checklist
+# Mastery check
 
-- I can write the static potential including vacuum polarization and derive the contact term.
-
-- I can compute the s-state shift and match it to the −1/5 of Lesson 77.
-
-- I can state the Uehling potential's limits and connect the short-distance one to running α.
-
-- I can explain why vacuum polarization dominates muonic hydrogen and how it measures the proton radius.
-
-- I can identify the electron-loop and hadronic vacuum-polarization contributions to a_μ.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

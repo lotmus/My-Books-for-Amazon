@@ -5,9 +5,13 @@ NEXT: Lesson 9 closes Part I with optics: Lesson 7's waves in glass and water, P
 
 # How to use this lesson
 
-Lesson 7 wrote the Maxwell equations directly in terms of E and B. This lesson rewrites them in terms of potentials φ and A, from which E and B are derived rather than fundamental: the rewrite Prologue 5 promised, and the objects the Interlude after Lesson 41 will read as Mead's claim that A is primitive. The rewriting looks like a technical convenience, and at the level of classical mechanics it is one. It stops being a convenience and becomes essential the moment quantum mechanics enters, because the Schrödinger and Dirac equations are written for a charged particle in terms of the potentials, not the fields, through the minimal coupling rule of Lesson 6. The freedom to change the potentials without changing the physics, gauge freedom, is therefore not a footnote; it is the freedom that QED elevates into its defining symmetry in Lesson 39.
+Lesson 7 wrote the Maxwell equations directly in terms of E and B. This lesson rewrites them in terms of potentials φ and A, from which E and B are derived rather than fundamental: the rewrite Prologue 7 promised, and the objects the Interlude after Lesson 41 will read as Mead's claim that A is primitive. The rewriting looks like a technical convenience, and at the level of classical mechanics it is one. It stops being a convenience and becomes essential the moment quantum mechanics enters, because the Schrödinger and Dirac equations are written for a charged particle in terms of the potentials, not the fields, through the minimal coupling rule of Lesson 6. The freedom to change the potentials without changing the physics, gauge freedom, is therefore not a footnote; it is the freedom that QED elevates into its defining symmetry in Lesson 39.
 
 This lesson is shorter than most, because the ideas are few and the payoff is concentrated: by the end, the two Maxwell curl equations will be solved identically, and the two divergence equations will become two wave equations with sources, differing from Lesson 2's wave equation only by that source term. Expect five to seven focused hours.
+
+BOX: Plain-language start
+Instead of the fields E and B, describe electromagnetism by potentials: a 'height' φ and a 'flow' A from which the fields follow. The potentials have a built-in freedom, gauge freedom, which looks like a technicality here and becomes the founding principle of QED in Lesson 39.
+ENDBOX
 
 ## Learning objectives
 
@@ -40,6 +44,11 @@ This lesson is shorter than most, because the ideas are few and the payoff is co
 | G(x, t; x′, t′) | Retarded Green's function of the wave operator |
 | t_r | Retarded time t − \|x − x′\| |
 | F_μν | Field tensor ∂_μA_ν − ∂_νA_μ |
+
+BOX: First pass: the result before the derivation
+E and B can be written as E = −∇φ − ∂A/∂t and B = ∇ × A, and the potentials can be shifted by a gauge transformation A → A + ∇λ, φ → φ − ∂λ/∂t without changing E or B.
+The freedom looks like a nuisance classically. In Lesson 39 it becomes the principle that generates the whole electron–photon interaction.
+ENDBOX
 
 # 1 Constructing the potentials
 
@@ -251,24 +260,26 @@ The argument of Section 8 is, in outline, the entire logical structure of quantu
 
 @widths 720 9072
 | No | Problem |
-| 1 | Verify directly that E = −∇φ − ∂A/∂t and B = ∇×A satisfy ∇·B = 0 and ∇×E = −∂B/∂t for arbitrary φ and A. |
-| 2 | Find φ and A for a uniform static magnetic field B₀ẑ using the symmetric choice A = (1/2)B₀ × x, and verify ∇×A = B₀ẑ and ∇·A = 0. |
-| 3 | Show that A′ = A + ∇χ, φ′ = φ − ∂χ/∂t leaves E and B unchanged, filling in the cancellation explicitly. |
-| 4 | Starting from φ, A satisfying neither gauge condition, write the equation that χ must satisfy to reach the Lorenz gauge, and identify its type. |
-| 5 | Show that if ∇·A + ∂φ/∂t = 0 and χ satisfies □χ = 0, then A′ = A + ∇χ, φ′ = φ − ∂χ/∂t also satisfies the Lorenz condition. |
-| 6 | A charge distribution oscillates as ρ(x, t) = ρ₀(x) cos ωt. Using the retarded solution, explain qualitatively why the potential at a distant point r lags the source by a phase ωr (with c = 1). |
-| 7 | Starting from the Coulomb-gauge equation ∇²φ = −ρ/ε₀, find φ for a point charge and show it equals the instantaneous Coulomb potential with no retardation. |
-| 8 | Show that Fᵢⱼ = ∂ᵢAⱼ − ∂ⱼAᵢ has only three independent components in three dimensions and that they can be written as −εᵢⱼₖBₖ, using Aᵢ = −Aⁱ from lowering the index. |
-| 9 | Verify F_0i = Eᵢ from A^μ = (φ, A) and the metric convention of Lesson 4, being careful with the sign from lowering the index on A_0. |
-| 10 | Show explicitly, by writing out ∂_μF^μν, that this covariant expression reproduces both ∇·E = ρ (ν = 0) and the Ampere Maxwell law (ν = i) with j^μ = (ρ, j). |
-| 11 | For the residual gauge freedom of Section 4.2, show that χ = χ₀cos(k·x − ωt) with ω = |k| satisfies □χ = 0, and describe the resulting change to A and φ. |
-| 12 | Find the gauge function χ relating the symmetric gauge A = (1/2)B₀×x and the Landau gauge A = (−B₀y, 0, 0) for a uniform field B₀ẑ (compare Exercise 8 of Lesson 5), and verify it by direct differentiation. |
-| 13 | Expand (∂_μ + iq(A_μ − ∂_μχ))(e^(iqχ)ψ) with the product rule and show that the terms proportional to (∂_μχ)ψ cancel, leaving e^(iqχ)(∂_μ + iqA_μ)ψ. |
-| 14 | Show that under ψ → e^(iqχ)ψ alone, without transforming A_μ, the ordinary derivative ∂_μψ does not transform proportionally to ψ, and identify the extra term. |
-| 15 | Using the Green's function of Section 5.1, write the retarded scalar potential of a charge that exists only for 0 < t′ < T at the origin, and describe the potential observed at distance r > 0 as a function of t. |
-| 16 | Challenge: show that the Lorenz-gauge equation □A^μ = j^μ together with the gauge condition ∂_μA^μ = 0 is consistent with charge conservation, that is, that ∂_μj^μ = 0 is required for a solution to exist, by taking ∂_ν of both sides. |
+| 1 | **Core.** Verify directly that E = −∇φ − ∂A/∂t and B = ∇×A satisfy ∇·B = 0 and ∇×E = −∂B/∂t for arbitrary φ and A. |
+| 2 | **Core.** Find φ and A for a uniform static magnetic field B₀ẑ using the symmetric choice A = (1/2)B₀ × x, and verify ∇×A = B₀ẑ and ∇·A = 0. |
+| 3 | **Core.** Show that A′ = A + ∇χ, φ′ = φ − ∂χ/∂t leaves E and B unchanged, filling in the cancellation explicitly. |
+| 4 | **Extension.** Starting from φ, A satisfying neither gauge condition, write the equation that χ must satisfy to reach the Lorenz gauge, and identify its type. |
+| 5 | **Core.** Show that if ∇·A + ∂φ/∂t = 0 and χ satisfies □χ = 0, then A′ = A + ∇χ, φ′ = φ − ∂χ/∂t also satisfies the Lorenz condition. |
+| 6 | **Core.** A charge distribution oscillates as ρ(x, t) = ρ₀(x) cos ωt. Using the retarded solution, explain qualitatively why the potential at a distant point r lags the source by a phase ωr (with c = 1). |
+| 7 | **Extension.** Starting from the Coulomb-gauge equation ∇²φ = −ρ/ε₀, find φ for a point charge and show it equals the instantaneous Coulomb potential with no retardation. |
+| 8 | **Extension.** Show that Fᵢⱼ = ∂ᵢAⱼ − ∂ⱼAᵢ has only three independent components in three dimensions and that they can be written as −εᵢⱼₖBₖ, using Aᵢ = −Aⁱ from lowering the index. |
+| 9 | **Core.** Verify F_0i = Eᵢ from A^μ = (φ, A) and the metric convention of Lesson 4, being careful with the sign from lowering the index on A_0. |
+| 10 | **Extension.** Show explicitly, by writing out ∂_μF^μν, that this covariant expression reproduces both ∇·E = ρ (ν = 0) and the Ampere Maxwell law (ν = i) with j^μ = (ρ, j). |
+| 11 | **Core.** For the residual gauge freedom of Section 4.2, show that χ = χ₀cos(k·x − ωt) with ω = |k| satisfies □χ = 0, and describe the resulting change to A and φ. |
+| 12 | **Extension.** Find the gauge function χ relating the symmetric gauge A = (1/2)B₀×x and the Landau gauge A = (−B₀y, 0, 0) for a uniform field B₀ẑ (compare Exercise 8 of Lesson 5), and verify it by direct differentiation. |
+| 13 | **Extension.** Expand (∂_μ + iq(A_μ − ∂_μχ))(e^(iqχ)ψ) with the product rule and show that the terms proportional to (∂_μχ)ψ cancel, leaving e^(iqχ)(∂_μ + iqA_μ)ψ. |
+| 14 | **Core.** Show that under ψ → e^(iqχ)ψ alone, without transforming A_μ, the ordinary derivative ∂_μψ does not transform proportionally to ψ, and identify the extra term. |
+| 15 | **Extension.** Using the Green's function of Section 5.1, write the retarded scalar potential of a charge that exists only for 0 < t′ < T at the origin, and describe the potential observed at distance r > 0 as a function of t. |
+| 16 | **Challenge.** Show that the Lorenz-gauge equation □A^μ = j^μ together with the gauge condition ∂_μA^μ = 0 is consistent with charge conservation, that is, that ∂_μj^μ = 0 is required for a solution to exist, by taking ∂_ν of both sides. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** ∇·B = ∇·(∇×A) = 0 identically, by the vector identity of Lesson 2, for any A. ∇×E = ∇×(−∇φ − ∂A/∂t) = −∇×(∂A/∂t) = −∂(∇×A)/∂t = −∂B/∂t, since ∇×∇φ = 0 identically and space and time derivatives commute.
 
@@ -302,20 +313,6 @@ The argument of Section 8 is, in outline, the entire logical structure of quantu
 
 **16.** Taking ∂_ν of □A^ν = j^ν gives □(∂_νA^ν) = ∂_νj^ν. In the Lorenz gauge the left side vanishes because ∂_νA^ν = 0 identically, so consistency requires ∂_νj^ν = 0: the field equations can only be solved in the Lorenz gauge if the source obeys charge conservation, exactly the condition derived independently in Lesson 7.
 
-# Mastery checklist
+# Mastery check
 
-- I can write B = ∇×A and E = −∇φ − ∂A/∂t and explain which two Maxwell equations they solve automatically.
-
-- I can perform a gauge transformation and verify by direct computation that E and B are unchanged.
-
-- I can state the Lorenz gauge condition and the resulting wave equations for φ and A.
-
-- I can explain retardation in one sentence and identify the retarded time in a given formula.
-
-- I can state the Coulomb gauge condition and explain why φ is instantaneous there without violating causality.
-
-- I can write A^μ, the gauge transformation A_μ → A_μ − ∂_μχ, and F_μν = ∂_μA_ν − ∂_νA_μ from memory.
-
-- I can show F_μν is gauge invariant while A_μ is not.
-
-- I can state the local phase transformation ψ → e^(iqχ)ψ paired with A_μ → A_μ − ∂_μχ and explain why the covariant derivative is the object that transforms simply.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

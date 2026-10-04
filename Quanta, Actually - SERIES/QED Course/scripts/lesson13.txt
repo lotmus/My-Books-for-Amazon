@@ -217,24 +217,26 @@ The free-particle propagator of Section 5 deserves special notice. Its structure
 
 @widths 720 9072
 | No | Problem |
-| 1 | Carry out the Gaussian integral of Worked example 1 explicitly to find the normalization constant of ψ̃(p) for ψ(x) = (πa²)^(−1/4)e^(−x²/2a²), and verify ∫(dp/2πℏ)\|ψ̃(p)\|² = 1. |
-| 2 | Find ψ̃(p) for ψ(x) = √(2/L)sin(πx/L) on 0 < x < L (zero outside), the ground state of the infinite well, and identify the two momenta that dominate the distribution. |
-| 3 | Show that ⟨p̂⟩ computed from ψ̃(p) for the well ground state of Exercise 2 equals zero, and explain this physically in terms of the two dominant momenta found there. |
-| 4 | Starting from ψ(x) = ∫(dp/2πℏ)ψ̃(p)e^(ipx/ℏ), differentiate under the integral sign to show x̂ψ̃(p) = iℏdψ̃/dp is the correct operator to reproduce multiplication by x in position space. |
-| 5 | Verify by direct substitution that ψ̃(p,t) = ψ̃(p,0)e^(−ip²t/2mℏ) solves iℏ∂ₜψ̃ = (p²/2m)ψ̃. |
-| 6 | For a particle with ψ̃(p,0) = C for \|p\| < P and 0 otherwise (a momentum-space square pulse), find ψ(x,0) using the Fourier transform, and comment on its spatial extent. |
-| 7 | Show that the propagator K(x,t;x′,0) of Section 5.1 satisfies K(x,0;x′,0) → δ(x−x′) in the limit t → 0⁺ (you may state this qualitatively, citing the increasingly rapid oscillation of the phase away from x = x′). |
-| 8 | Use the propagator to write ψ(x,t) for an initial delta-function state ψ(x,0) = δ(x−x₀), and compare the result with K itself. |
-| 9 | Verify [x̂,p̂] = iℏ using x̂ = iℏd/dp and p̂ = p (multiplication) directly, without reference to position space. |
-| 10 | Find σₓσₚ for ψ(x) = A e^(−\|x\|/b) of Lesson 10, Exercise 1, using ψ̃(p) = 2Ab/(1+(pb/ℏ)²) (a Lorentzian; you may quote this transform), and show the product exceeds ℏ/2, consistent with Section 4.2. |
-| 11 | Derive φ̃₀(p) for the oscillator directly from âφ̃₀ = 0 in the momentum representation, filling in the steps only sketched in Section 6.2. |
-| 12 | Show that ⟨p|p′⟩ = 2πℏδ(p−p′) using the plane-wave overlap ∫dx e^(i(p′−p)x/ℏ) and the delta-function representation of Lesson 2, Section 5.4. |
-| 13 | Using ⟨x\|p⟩ = e^(ipx/ℏ), verify ∫dp/2πℏ \|p⟩⟨p\| = I formally by showing its action on ψ(x) reproduces ψ(x) via the Fourier inversion formula. |
-| 14 | For the oscillator excited state \|1⟩, find φ̃₁(p) by applying the momentum-space raising operator to φ̃₀(p), and verify it is orthogonal to φ̃₀(p). |
-| 15 | Show that the free-particle propagator satisfies K(x,t;x′,0) = K(x′,−t;x,0)*, and interpret this as time-reversal symmetry of free-particle propagation. |
-| 16 | Challenge: use the momentum-space free Schrödinger equation to show that the exact time evolution of the Gaussian packet in Worked example 3 has σₓ(t)² = σₓ(0)² + (ℏt/(2mσₓ(0)))², and verify this matches the a(t) formula of Lesson 12 with σₓ(0) = a/√2. |
+| 1 | **Extension.** Carry out the Gaussian integral of Worked example 1 explicitly to find the normalization constant of ψ̃(p) for ψ(x) = (πa²)^(−1/4)e^(−x²/2a²), and verify ∫(dp/2πℏ)\|ψ̃(p)\|² = 1. |
+| 2 | **Extension.** Find ψ̃(p) for ψ(x) = √(2/L)sin(πx/L) on 0 < x < L (zero outside), the ground state of the infinite well, and identify the two momenta that dominate the distribution. |
+| 3 | **Core.** Show that ⟨p̂⟩ computed from ψ̃(p) for the well ground state of Exercise 2 equals zero, and explain this physically in terms of the two dominant momenta found there. |
+| 4 | **Extension.** Starting from ψ(x) = ∫(dp/2πℏ)ψ̃(p)e^(ipx/ℏ), differentiate under the integral sign to show x̂ψ̃(p) = iℏdψ̃/dp is the correct operator to reproduce multiplication by x in position space. |
+| 5 | **Core.** Verify by direct substitution that ψ̃(p,t) = ψ̃(p,0)e^(−ip²t/2mℏ) solves iℏ∂ₜψ̃ = (p²/2m)ψ̃. |
+| 6 | **Core.** For a particle with ψ̃(p,0) = C for \|p\| < P and 0 otherwise (a momentum-space square pulse), find ψ(x,0) using the Fourier transform, and comment on its spatial extent. |
+| 7 | **Extension.** Show that the propagator K(x,t;x′,0) of Section 5.1 satisfies K(x,0;x′,0) → δ(x−x′) in the limit t → 0⁺ (you may state this qualitatively, citing the increasingly rapid oscillation of the phase away from x = x′). |
+| 8 | **Core.** Use the propagator to write ψ(x,t) for an initial delta-function state ψ(x,0) = δ(x−x₀), and compare the result with K itself. |
+| 9 | **Core.** Verify [x̂,p̂] = iℏ using x̂ = iℏd/dp and p̂ = p (multiplication) directly, without reference to position space. |
+| 10 | **Extension.** Find σₓσₚ for ψ(x) = A e^(−\|x\|/b) of Lesson 10, Exercise 1, using ψ̃(p) = 2Ab/(1+(pb/ℏ)²) (a Lorentzian; you may quote this transform), and show the product exceeds ℏ/2, consistent with Section 4.2. |
+| 11 | **Extension.** Derive φ̃₀(p) for the oscillator directly from âφ̃₀ = 0 in the momentum representation, filling in the steps only sketched in Section 6.2. |
+| 12 | **Core.** Show that ⟨p|p′⟩ = 2πℏδ(p−p′) using the plane-wave overlap ∫dx e^(i(p′−p)x/ℏ) and the delta-function representation of Lesson 2, Section 5.4. |
+| 13 | **Core.** Using ⟨x\|p⟩ = e^(ipx/ℏ), verify ∫dp/2πℏ \|p⟩⟨p\| = I formally by showing its action on ψ(x) reproduces ψ(x) via the Fourier inversion formula. |
+| 14 | **Core.** For the oscillator excited state \|1⟩, find φ̃₁(p) by applying the momentum-space raising operator to φ̃₀(p), and verify it is orthogonal to φ̃₀(p). |
+| 15 | **Extension.** Show that the free-particle propagator satisfies K(x,t;x′,0) = K(x′,−t;x,0)*, and interpret this as time-reversal symmetry of free-particle propagation. |
+| 16 | **Challenge.** Use the momentum-space free Schrödinger equation to show that the exact time evolution of the Gaussian packet in Worked example 3 has σₓ(t)² = σₓ(0)² + (ℏt/(2mσₓ(0)))², and verify this matches the a(t) formula of Lesson 12 with σₓ(0) = a/√2. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** ψ̃(p) = (πa²)^(−1/4)∫e^(−x²/2a²)e^(−ipx/ℏ)dx = (πa²)^(−1/4)√(2πa²) e^(−a²p²/2ℏ²) = (4πa²)^(1/4)e^(−a²p²/2ℏ²), matching the lesson body. Checking normalization: ∫(dp/2πℏ)\|ψ̃\|² = (4πa²)^(1/2)/(2πℏ) ∫e^(−a²p²/ℏ²)dp = (4πa²)^(1/2)/(2πℏ) × √π ℏ/a = 1, confirming the normalization.
 
@@ -268,20 +270,6 @@ The free-particle propagator of Section 5 deserves special notice. Its structure
 
 **16.** From ψ̃(p,t) = ψ̃(p,0)e^(−ip²t/2mℏ), the position-space packet is obtained by Fourier transform; carrying out the same completed-square Gaussian integral as in Worked example 3 with the complex width a²+iℏt/m, and translating to σₓ(0) = a/√2, gives \|σₓ(t)\|² = σₓ(0)²(1+(ℏt/2mσₓ(0)²)²) = σₓ(0)² + (ℏt/(2mσₓ(0)))², matching the stated form and, after substituting σₓ(0) = a/√2, reproducing a(t)² = a²(1+(ℏt/ma²)²) of Lesson 12 term by term.
 
-# Mastery checklist
+# Mastery check
 
-- I can compute the momentum-space wave function of a given ψ(x) using the Fourier convention of this lesson.
-
-- I can state the Born rule for momentum and compute ⟨p̂⟩ and ⟨p̂²⟩ from ψ̃(p) directly.
-
-- I can write and solve the free Schrödinger equation in momentum space.
-
-- I can derive σₓσₚ ≥ ℏ/2 from the reciprocal-width property of the Fourier transform, and I know the Gaussian saturates it.
-
-- I can write down the free-particle propagator and explain what it represents physically.
-
-- I can find the momentum-space representation of a simple bound state, such as the oscillator ground state.
-
-- I can state ⟨x|p⟩ = e^(ipx/ℏ) and use it to move between representations.
-
-- I can explain, without hesitation, why position and momentum space are equally valid and physically equivalent descriptions of the same state.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

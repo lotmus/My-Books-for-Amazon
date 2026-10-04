@@ -44,6 +44,11 @@ Expect eight to ten focused hours. The algebra of Sections 3 and 4 is longer tha
 | q | Charge of the field quantum; q = −e for the electron with e > 0 (Lesson 31) |
 | P, S | Momentum and spin operators of the field |
 
+BOX: First pass: the result before the derivation
+The Dirac field is expanded in operators b (destroy electrons) and d† (create positrons) that anticommute, {b, b†} = (2π)³δ³; no state holds two identical fermions.
+These operators are the electron lines of every diagram; the anticommutation is the origin of the relative minus signs in Lessons 55 and 63.
+ENDBOX
+
 # 1 The classical field and the plan
 
 ## 1.1 What Part IV supplied
@@ -296,24 +301,26 @@ The free electron field has now been constructed in full: its algebra, its Hamil
 
 @widths 720 9072
 | No | Problem |
-| 1 | For a single fermionic mode with {c, c†} = 1, show that N = c†c satisfies N² = N, that c†\|0⟩ has N = 1, and that c†c†\|0⟩ = 0. |
-| 2 | For two modes with H = ω₁c₁†c₁ + ω₂c₂†c₂, list the four states and energies, and verify that c₂†c₁†\|0⟩ = −c₁†c₂†\|0⟩. |
-| 3 | Show that H = (ω/2)(c†c − cc†) = ω(c†c − 1/2) for a fermionic mode, and find its eigenvalues. |
-| 4 | For p = (0, 0, p) and χ = (1, 0)ᵀ, write u(p) and v(−p) explicitly and verify u†(p)v(−p) = 0. |
-| 5 | Using Σ_s u_s ū_s = p̸ + m and Σ_s v_s v̄_s = p̸ − m (Lesson 22), show that Σ_s[u_s(p)u_s†(p) + v_s(−p)v_s†(−p)] = 2E_p · 1. |
-| 6 | Derive b_(p,s) = (2E_p)^(−1/2)∫d³x e^(−ip·x)u_s†(p)ψ(0, x), showing that the d† term drops out. |
-| 7 | From {ψ_a(x), ψ_b†(y)} = δ_abδ³(x − y) derive {d_(p,s), d_(k,r)†} = (2π)³δ³(p − k)δ_sr and {b_(p,s), d_(k,r)} = 0. |
-| 8 | Insert the mode expansion into {ψ_a(x), ψ_b†(y)} and verify that it equals δ_abδ³(x − y), using the completeness relation of Exercise 5. |
-| 9 | Insert the expansion into H = ∫d³xψ†hψ, show that the cross terms vanish, and find the constant left after reordering the d term. |
-| 10 | Show that [H, b_p†] = E_pb_p† and [H, d_p†] = E_pd_p† for the normal-ordered H, and deduce the time dependence b(t) = b e^(−iE_pt). |
-| 11 | Derive iψ̇ = hψ from the Heisenberg equation, using [A, BC] = {A, B}C − B{A, C}. |
-| 12 | Show that :∫ψ†ψ: = N_b − N_d, and give the charge, in units of e, of the states b†\|0⟩, d†\|0⟩, and b†d†\|0⟩. |
-| 13 | Show that P b_p†\|0⟩ = p b_p†\|0⟩ and P d_p†\|0⟩ = p d_p†\|0⟩, and explain why the constant left over from the d term vanishes. |
-| 14 | Compute S_z = (1/2)∫ψ†Σ_zψ on the p = 0 one-particle states and find the S_z of b_1†\|0⟩, b_2†\|0⟩, d_1†\|0⟩, d_2†\|0⟩. |
-| 15 | Compute the vacuum energy density of the massless Dirac field with cutoff Λ and its ratio to that of a real scalar field. |
-| 16 | Challenge: suppose b and d obey commutators. Show that H is unbounded below, that Q = N_b + N_d + const, and that b†b†\|0⟩ is symmetric, in conflict with the electron being a fermion. |
+| 1 | **Core.** For a single fermionic mode with {c, c†} = 1, show that N = c†c satisfies N² = N, that c†\|0⟩ has N = 1, and that c†c†\|0⟩ = 0. |
+| 2 | **Core.** For two modes with H = ω₁c₁†c₁ + ω₂c₂†c₂, list the four states and energies, and verify that c₂†c₁†\|0⟩ = −c₁†c₂†\|0⟩. |
+| 3 | **Core.** Show that H = (ω/2)(c†c − cc†) = ω(c†c − 1/2) for a fermionic mode, and find its eigenvalues. |
+| 4 | **Core.** For p = (0, 0, p) and χ = (1, 0)ᵀ, write u(p) and v(−p) explicitly and verify u†(p)v(−p) = 0. |
+| 5 | **Core.** Using Σ_s u_s ū_s = p̸ + m and Σ_s v_s v̄_s = p̸ − m (Lesson 22), show that Σ_s[u_s(p)u_s†(p) + v_s(−p)v_s†(−p)] = 2E_p · 1. |
+| 6 | **Extension.** Derive b_(p,s) = (2E_p)^(−1/2)∫d³x e^(−ip·x)u_s†(p)ψ(0, x), showing that the d† term drops out. |
+| 7 | **Extension.** From {ψ_a(x), ψ_b†(y)} = δ_abδ³(x − y) derive {d_(p,s), d_(k,r)†} = (2π)³δ³(p − k)δ_sr and {b_(p,s), d_(k,r)} = 0. |
+| 8 | **Extension.** Insert the mode expansion into {ψ_a(x), ψ_b†(y)} and verify that it equals δ_abδ³(x − y), using the completeness relation of Exercise 5. |
+| 9 | **Extension.** Insert the expansion into H = ∫d³xψ†hψ, show that the cross terms vanish, and find the constant left after reordering the d term. |
+| 10 | **Extension.** Show that [H, b_p†] = E_pb_p† and [H, d_p†] = E_pd_p† for the normal-ordered H, and deduce the time dependence b(t) = b e^(−iE_pt). |
+| 11 | **Extension.** Derive iψ̇ = hψ from the Heisenberg equation, using [A, BC] = {A, B}C − B{A, C}. |
+| 12 | **Extension.** Show that :∫ψ†ψ: = N_b − N_d, and give the charge, in units of e, of the states b†\|0⟩, d†\|0⟩, and b†d†\|0⟩. |
+| 13 | **Core.** Show that P b_p†\|0⟩ = p b_p†\|0⟩ and P d_p†\|0⟩ = p d_p†\|0⟩, and explain why the constant left over from the d term vanishes. |
+| 14 | **Core.** Compute S_z = (1/2)∫ψ†Σ_zψ on the p = 0 one-particle states and find the S_z of b_1†\|0⟩, b_2†\|0⟩, d_1†\|0⟩, d_2†\|0⟩. |
+| 15 | **Core.** Compute the vacuum energy density of the massless Dirac field with cutoff Λ and its ratio to that of a real scalar field. |
+| 16 | **Challenge.** Suppose b and d obey commutators. Show that H is unbounded below, that Q = N_b + N_d + const, and that b†b†\|0⟩ is symmetric, in conflict with the electron being a fermion. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** With cc† = 1 − c†c, N² = c†cc†c = c†(1 − c†c)c = c†c − c†c†cc = N, since c² = 0. Then c†|0⟩ has Nc†|0⟩ = c†cc†|0⟩ = c†(1 − c†c)|0⟩ = c†|0⟩, so N = 1. Also c†c†|0⟩ = 0 since (c†)² = (1/2){c†, c†} = 0.
 
@@ -347,20 +354,6 @@ The free electron field has now been constructed in full: its algebra, its Hamil
 
 **16.** With commutators, the reordering d d† = d†d + (2π)³δ³(0) gives H = ∫E_pΣ(b†b − d†d) + const, and the state (d_p†)ⁿ|0⟩ has energy −nE_p + const, unbounded below as n grows. The charge ∫ψ†ψ = ∫Σ(b†b + d†d) + const = N_b + N_d + const does not distinguish the two kinds of quantum. And [b†, b†] = 0 makes b_p†b_k†|0⟩ = b_k†b_p†|0⟩ symmetric, and b_p†b_p†|0⟩ ≠ 0, so two electrons could occupy the same state, contradicting the Pauli principle of Lesson 17.
 
-# Mastery checklist
+# Mastery check
 
-- I can derive N² = N for a fermionic mode and explain why no mode can hold two quanta.
-
-- I can write the mode expansion of the Dirac field and state which operator annihilates an electron and which creates a positron.
-
-- I can state the four spinor identities and verify u†(p)v(−p) = 0 for an explicit choice of p and χ.
-
-- I can derive the anticommutators of b and d from the equal-time anticommutator of the field, and verify the converse.
-
-- I can compute the Hamiltonian, momentum, and charge in terms of ladder operators and show the Hamiltonian is bounded below.
-
-- I can derive the Dirac equation as a Heisenberg equation of the quantized field.
-
-- I can state which of u, ū, v, v̄ corresponds to an incoming or outgoing electron or positron.
-
-- I can explain why commutators would give a Hamiltonian unbounded below.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

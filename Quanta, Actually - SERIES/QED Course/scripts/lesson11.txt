@@ -206,24 +206,26 @@ The step from classical Poisson brackets to quantum commutators, taken concretel
 
 @widths 720 9072
 | No | Problem |
-| 1 | Show that if A is Hermitian, ⟨A⟩_ψ is real for every normalized ψ. |
-| 2 | Compute ⟨p̂⟩ and ⟨p̂²⟩ for ψ(x) = (πa²)^(−1/4)e^(−x²/2a²) and verify ⟨p̂⟩ = 0. |
-| 3 | Using the result of Exercise 2 and Δx = a/√2 from Lesson 10, verify that Δx·Δp = ℏ/2 for this state (you may use Δp² = ⟨p̂²⟩ from Exercise 2). |
-| 4 | Prove [x̂, p̂²] = 2iℏp̂ directly by acting on a test function ψ(x), without using the commutator identity of Worked example 2. |
-| 5 | Compute [p̂, x̂²] using the identity [A, BC] = [A, B]C + B[A, C] and compare with the Poisson bracket {p, q²} of Lesson 6. |
-| 6 | Show that any function f(x̂) commutes with x̂, and that any function g(p̂) commutes with p̂. |
-| 7 | For the harmonic oscillator operators a, a† of Lesson 6 quantized as [a, a†] = 1, compute [a†a, a] and [a†a, a†]. |
-| 8 | Show that if [A, B] = 0 and |ψ⟩ is a nondegenerate eigenstate of A, then B|ψ⟩ is also an eigenstate of A with the same eigenvalue, and explain why this forces B|ψ⟩ to be proportional to |ψ⟩. |
-| 9 | A system has H with nondegenerate eigenstates |n⟩ and eigenvalues Eₙ. Show that ⟨n|A|m⟩ = 0 for any conserved observable A whenever Eₙ ≠ Eₘ. |
-| 10 | Prove the Cauchy Schwarz inequality \|⟨φ\|ψ⟩\|² ≤ ⟨φ\|φ⟩⟨ψ\|ψ⟩ (you may cite Exercise 16 of Lesson 1), and use it to sketch the proof of ΔA·ΔB ≥ (1/2)\|⟨[A,B]⟩\| by applying it to (A−⟨A⟩)ψ and (B−⟨B⟩)ψ. |
-| 11 | Using Ehrenfest's theorem, show that d⟨x̂⟩/dt = ⟨p̂⟩/m for H = p²/2m + V(x). |
-| 12 | Continuing Exercise 11, show that d⟨p̂⟩/dt = −⟨V′(x̂)⟩, and comment on how this relates to Newton's second law in the classical limit. |
-| 13 | Show that the parity operator Π, defined by (Πψ)(x) = ψ(−x), is Hermitian and satisfies Π² = I, and find its eigenvalues. |
-| 14 | For a Hamiltonian with V(−x) = V(x), show that [H, Π] = 0, and explain why energy eigenstates can be chosen to have definite parity. |
-| 15 | Two commuting Hermitian operators A and B act on a two-dimensional space. If A has eigenvalues 1 and −1 with eigenvectors (1,0)ᵀ and (0,1)ᵀ, and B commutes with A, show that B must be diagonal in this basis. |
-| 16 | Challenge: prove the generalized uncertainty relation. Define f = (A−⟨A⟩)ψ and g = (B−⟨B⟩)ψ. Apply Cauchy Schwarz to get ‖f‖²‖g‖² ≥ \|⟨f\|g⟩\|². Show ⟨f\|g⟩ = ⟨AB⟩ − ⟨A⟩⟨B⟩, split it into Hermitian and anti-Hermitian parts using the commutator and anticommutator, and conclude ΔA²ΔB² ≥ (1/4)\|⟨[A,B]⟩\|². |
+| 1 | **Core.** Show that if A is Hermitian, ⟨A⟩_ψ is real for every normalized ψ. |
+| 2 | **Core.** Compute ⟨p̂⟩ and ⟨p̂²⟩ for ψ(x) = (πa²)^(−1/4)e^(−x²/2a²) and verify ⟨p̂⟩ = 0. |
+| 3 | **Core.** Using the result of Exercise 2 and Δx = a/√2 from Lesson 10, verify that Δx·Δp = ℏ/2 for this state (you may use Δp² = ⟨p̂²⟩ from Exercise 2). |
+| 4 | **Extension.** Prove [x̂, p̂²] = 2iℏp̂ directly by acting on a test function ψ(x), without using the commutator identity of Worked example 2. |
+| 5 | **Core.** Compute [p̂, x̂²] using the identity [A, BC] = [A, B]C + B[A, C] and compare with the Poisson bracket {p, q²} of Lesson 6. |
+| 6 | **Extension.** Show that any function f(x̂) commutes with x̂, and that any function g(p̂) commutes with p̂. |
+| 7 | **Core.** For the harmonic oscillator operators a, a† of Lesson 6 quantized as [a, a†] = 1, compute [a†a, a] and [a†a, a†]. |
+| 8 | **Core.** Show that if [A, B] = 0 and |ψ⟩ is a nondegenerate eigenstate of A, then B|ψ⟩ is also an eigenstate of A with the same eigenvalue, and explain why this forces B|ψ⟩ to be proportional to |ψ⟩. |
+| 9 | **Extension.** A system has H with nondegenerate eigenstates |n⟩ and eigenvalues Eₙ. Show that ⟨n|A|m⟩ = 0 for any conserved observable A whenever Eₙ ≠ Eₘ. |
+| 10 | **Extension.** Prove the Cauchy Schwarz inequality \|⟨φ\|ψ⟩\|² ≤ ⟨φ\|φ⟩⟨ψ\|ψ⟩ (you may cite Exercise 16 of Lesson 1), and use it to sketch the proof of ΔA·ΔB ≥ (1/2)\|⟨[A,B]⟩\| by applying it to (A−⟨A⟩)ψ and (B−⟨B⟩)ψ. |
+| 11 | **Core.** Using Ehrenfest's theorem, show that d⟨x̂⟩/dt = ⟨p̂⟩/m for H = p²/2m + V(x). |
+| 12 | **Extension.** Continuing Exercise 11, show that d⟨p̂⟩/dt = −⟨V′(x̂)⟩, and comment on how this relates to Newton's second law in the classical limit. |
+| 13 | **Core.** Show that the parity operator Π, defined by (Πψ)(x) = ψ(−x), is Hermitian and satisfies Π² = I, and find its eigenvalues. |
+| 14 | **Extension.** For a Hamiltonian with V(−x) = V(x), show that [H, Π] = 0, and explain why energy eigenstates can be chosen to have definite parity. |
+| 15 | **Extension.** Two commuting Hermitian operators A and B act on a two-dimensional space. If A has eigenvalues 1 and −1 with eigenvectors (1,0)ᵀ and (0,1)ᵀ, and B commutes with A, show that B must be diagonal in this basis. |
+| 16 | **Challenge.** Prove the generalized uncertainty relation. Define f = (A−⟨A⟩)ψ and g = (B−⟨B⟩)ψ. Apply Cauchy Schwarz to get ‖f‖²‖g‖² ≥ \|⟨f\|g⟩\|². Show ⟨f\|g⟩ = ⟨AB⟩ − ⟨A⟩⟨B⟩, split it into Hermitian and anti-Hermitian parts using the commutator and anticommutator, and conclude ΔA²ΔB² ≥ (1/4)\|⟨[A,B]⟩\|². |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** ⟨A⟩* = ⟨ψ\|A\|ψ⟩* = ⟨Aψ\|ψ⟩ = ⟨ψ\|A†ψ⟩ = ⟨ψ\|Aψ⟩ = ⟨A⟩, using A† = A, so ⟨A⟩ equals its own conjugate and is real.
 
@@ -257,20 +259,6 @@ The step from classical Poisson brackets to quantum commutators, taken concretel
 
 **16.** ⟨f\|g⟩ = ⟨(A−⟨A⟩)ψ\|(B−⟨B⟩)ψ⟩ = ⟨ψ\|(A−⟨A⟩)(B−⟨B⟩)\|ψ⟩ = ⟨AB⟩ − ⟨A⟩⟨B⟩ (the Hermiticity of A−⟨A⟩ moves it across the inner product). Write AB = (1/2){A,B} + (1/2)[A,B], where {A,B} = AB+BA is Hermitian and [A,B] is anti-Hermitian (its own adjoint is its negative). So ⟨f\|g⟩ = (1/2)⟨{A,B}⟩ − ⟨A⟩⟨B⟩ + (1/2)⟨[A,B]⟩, with the first two terms real and the last purely imaginary (since ⟨[A,B]⟩* = −⟨[A,B]⟩ for anti-Hermitian [A,B]). Therefore \|⟨f\|g⟩\|² equals the sum of the squares of its real and imaginary parts, which in particular is at least the square of the imaginary part alone: \|⟨f\|g⟩\|² ≥ (1/4)\|⟨[A,B]⟩\|². Combined with Cauchy Schwarz, ΔA²ΔB² = ‖f‖²‖g‖² ≥ \|⟨f\|g⟩\|² ≥ (1/4)\|⟨[A,B]⟩\|².
 
-# Mastery checklist
+# Mastery check
 
-- I can state the measurement postulate precisely: observables are Hermitian operators, outcomes are eigenvalues, and ⟨A⟩ is an ensemble average.
-
-- I can compute [x̂, p̂] from the definitions and use the Leibniz identity to find commutators of products.
-
-- I can distinguish discrete and continuous spectra and state how each is normalized.
-
-- I can derive the position-momentum uncertainty relation from the general Cauchy Schwarz argument.
-
-- I can determine whether two given operators are compatible and explain the physical consequence either way.
-
-- I can state and use the Ehrenfest theorem to find the time derivative of an expectation value.
-
-- I can identify a conserved observable from its commutator with the Hamiltonian without solving the equations of motion.
-
-- I can explain, using parity as an example, why a symmetry of H implies a compatible observable and a useful quantum number.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

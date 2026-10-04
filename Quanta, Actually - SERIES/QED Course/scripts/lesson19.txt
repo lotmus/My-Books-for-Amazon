@@ -189,24 +189,26 @@ This lesson's method, converting a physical requirement into a precise algebraic
 
 @widths 720 9072
 | No | Problem |
-| 1 | Expand m√(1+p̂²/m²) to the next order beyond Worked example 1 (the p̂⁴ term) and verify it matches the relativistic correction of Lesson 3, Worked example 5, applied as an operator. |
-| 2 | Explain, in your own words, why an equation containing infinitely many spatial derivatives is considered nonlocal, contrasting it with the finite number of derivatives in the Schrödinger and Klein–Gordon equations. |
-| 3 | Verify that squaring Ĥ_D=α·p̂+βm as in Section 3.2 produces no terms with an odd total number of momentum factors beyond the ones shown, by expanding (α·p̂+βm)² fully and grouping terms by degree in p̂. |
-| 4 | Show that the condition {αᵢ,β}=0 requires tr(αᵢ)=0 by an argument directly analogous to Worked example 4, using β²=I in place of αᵧ²=I. |
-| 5 | If αₓ and β were both ordinary real numbers satisfying αₓ²=1, β²=1, and {αₓ,β}=2αₓβ=0, show this forces αₓβ=0, and hence at least one of them is zero, contradicting both being nonzero as required. |
-| 6 | Show that {σᵢ,σⱼ}=2δᵢⱼI for the Pauli matrices, verifying the claim of Worked example 3 that they satisfy the first of the three conditions of Section 3.2. |
-| 7 | Attempt to find a 2×2 matrix β satisfying {σₓ,β}={σᵧ,β}={σ_z,β}=0 and β²=I. Using β=aI+bσₓ+cσᵧ+dσ_z (the general Hermitian 2×2 form), show that anticommuting with σₓ forces a=0 and b=0 (using {σₓ,σₓ}=2I and {σₓ,σᵧ}=0 for the Pauli matrices' known behavior), and similarly derive c=0 and d=0 from the other two conditions, leaving only β=0, which fails β²=I. |
-| 8 | Using the result of Exercise 7, state in one sentence why 2×2 matrices cannot supply a fourth mutually anticommuting matrix alongside the three Pauli matrices. |
-| 9 | Verify the trace argument of Section 5.2 using αᵧ and α_z instead of αₓ and αᵧ, showing tr(αᵧ)=0 by the same steps as Worked example 4. |
-| 10 | Explain why an odd-dimensional Hermitian matrix squaring to the identity must have a nonzero trace unless the number of +1 and −1 eigenvalues can be equal, and why equality is impossible for an odd total dimension. |
-| 11 | Suppose a valid set of 4×4 matrices αₓ,αᵧ,α_z,β has been found. Explain why ψ must then have (at least) four components for the equation i∂_tψ=(α·p̂+βm)ψ to make sense as a matrix equation. |
-| 12 | Using only the algebra {αᵢ,αⱼ}=2δᵢⱼI, {αᵢ,β}=0, β²=I (not any explicit matrix representation), show that αᵢ²=I for each i, and that this, combined with tr(αᵢ)=0 (Exercise 9), means each αᵢ has equal numbers of +1 and −1 eigenvalues. |
-| 13 | If αᵢ has equal numbers of +1 and −1 eigenvalues (Exercise 12) and is N×N, explain why N must be even, consistent with the minimum size found in Section 5. |
-| 14 | Contrast this lesson's derivation of the necessity of a multi-component wave function with Lesson 15's introduction of spin: in Lesson 15, spin was motivated empirically (the Stern Gerlach experiment); here, argue that the multi-component structure is instead forced by pure consistency with special relativity, independent of any specific experiment. |
-| 15 | Summarize, in your own words and without using any equation, the logical chain from "want a first-order equation" to "the wave function must have several components," identifying the one step in the chain that specifically requires noncommuting objects. |
-| 16 | Challenge: using only the anticommutation algebra of Section 3.2 (not an explicit representation), show that if λ is an eigenvalue of αᵢ with eigenvector v, then αⱼv (for j≠i) is an eigenvector of αᵢ with eigenvalue −λ, using {αᵢ,αⱼ}=0. Use this to give an alternative argument for why the eigenvalues of αᵢ must come in pairs ±1 (given that αᵢ²=I restricts eigenvalues to ±1 in the first place), reinforcing the equal-eigenvalue-count conclusion of Exercise 12 by an eigenvector-pairing argument rather than a trace argument. |
+| 1 | **Core.** Expand m√(1+p̂²/m²) to the next order beyond Worked example 1 (the p̂⁴ term) and verify it matches the relativistic correction of Lesson 3, Worked example 5, applied as an operator. |
+| 2 | **Extension.** Explain, in your own words, why an equation containing infinitely many spatial derivatives is considered nonlocal, contrasting it with the finite number of derivatives in the Schrödinger and Klein–Gordon equations. |
+| 3 | **Extension.** Verify that squaring Ĥ_D=α·p̂+βm as in Section 3.2 produces no terms with an odd total number of momentum factors beyond the ones shown, by expanding (α·p̂+βm)² fully and grouping terms by degree in p̂. |
+| 4 | **Core.** Show that the condition {αᵢ,β}=0 requires tr(αᵢ)=0 by an argument directly analogous to Worked example 4, using β²=I in place of αᵧ²=I. |
+| 5 | **Core.** If αₓ and β were both ordinary real numbers satisfying αₓ²=1, β²=1, and {αₓ,β}=2αₓβ=0, show this forces αₓβ=0, and hence at least one of them is zero, contradicting both being nonzero as required. |
+| 6 | **Core.** Show that {σᵢ,σⱼ}=2δᵢⱼI for the Pauli matrices, verifying the claim of Worked example 3 that they satisfy the first of the three conditions of Section 3.2. |
+| 7 | **Extension.** Attempt to find a 2×2 matrix β satisfying {σₓ,β}={σᵧ,β}={σ_z,β}=0 and β²=I. Using β=aI+bσₓ+cσᵧ+dσ_z (the general Hermitian 2×2 form), show that anticommuting with σₓ forces a=0 and b=0 (using {σₓ,σₓ}=2I and {σₓ,σᵧ}=0 for the Pauli matrices' known behavior), and similarly derive c=0 and d=0 from the other two conditions, leaving only β=0, which fails β²=I. |
+| 8 | **Core.** Using the result of Exercise 7, state in one sentence why 2×2 matrices cannot supply a fourth mutually anticommuting matrix alongside the three Pauli matrices. |
+| 9 | **Core.** Verify the trace argument of Section 5.2 using αᵧ and α_z instead of αₓ and αᵧ, showing tr(αᵧ)=0 by the same steps as Worked example 4. |
+| 10 | **Extension.** Explain why an odd-dimensional Hermitian matrix squaring to the identity must have a nonzero trace unless the number of +1 and −1 eigenvalues can be equal, and why equality is impossible for an odd total dimension. |
+| 11 | **Extension.** Suppose a valid set of 4×4 matrices αₓ,αᵧ,α_z,β has been found. Explain why ψ must then have (at least) four components for the equation i∂_tψ=(α·p̂+βm)ψ to make sense as a matrix equation. |
+| 12 | **Core.** Using only the algebra {αᵢ,αⱼ}=2δᵢⱼI, {αᵢ,β}=0, β²=I (not any explicit matrix representation), show that αᵢ²=I for each i, and that this, combined with tr(αᵢ)=0 (Exercise 9), means each αᵢ has equal numbers of +1 and −1 eigenvalues. |
+| 13 | **Core.** If αᵢ has equal numbers of +1 and −1 eigenvalues (Exercise 12) and is N×N, explain why N must be even, consistent with the minimum size found in Section 5. |
+| 14 | **Extension.** Contrast this lesson's derivation of the necessity of a multi-component wave function with Lesson 15's introduction of spin: in Lesson 15, spin was motivated empirically (the Stern Gerlach experiment); here, argue that the multi-component structure is instead forced by pure consistency with special relativity, independent of any specific experiment. |
+| 15 | **Extension.** Summarize, in your own words and without using any equation, the logical chain from "want a first-order equation" to "the wave function must have several components," identifying the one step in the chain that specifically requires noncommuting objects. |
+| 16 | **Challenge.** Using only the anticommutation algebra of Section 3.2 (not an explicit representation), show that if λ is an eigenvalue of αᵢ with eigenvector v, then αⱼv (for j≠i) is an eigenvector of αᵢ with eigenvalue −λ, using {αᵢ,αⱼ}=0. Use this to give an alternative argument for why the eigenvalues of αᵢ must come in pairs ±1 (given that αᵢ²=I restricts eigenvalues to ±1 in the first place), reinforcing the equal-eigenvalue-count conclusion of Exercise 12 by an eigenvector-pairing argument rather than a trace argument. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** m√(1+p̂²/m²) = m[1+p̂²/2m²−p̂⁴/8m⁴+⋯] = m+p̂²/2m−p̂⁴/8m³+⋯, so the next term beyond p̂²/2m is −p̂⁴/8m³, matching exactly the −p⁴/8m³c² relativistic correction term found in Lesson 3, Worked example 5 (with c=1), now understood as an operator acting on ψ rather than a classical number.
 
@@ -240,20 +242,6 @@ This lesson's method, converting a physical requirement into a precise algebraic
 
 **16.** From {αᵢ,αⱼ}=0 (i≠j), αᵢαⱼ=−αⱼαᵢ. If αᵢv=λv, then αᵢ(αⱼv) = (αᵢαⱼ)v = (−αⱼαᵢ)v = −αⱼ(αᵢv) = −αⱼ(λv) = −λ(αⱼv), showing αⱼv is an eigenvector of αᵢ with eigenvalue −λ (provided αⱼv≠0, which holds since αⱼ is invertible, being its own inverse from αⱼ²=I). Since αⱼ is invertible, it maps the +1 eigenspace of αᵢ bijectively onto the −1 eigenspace (and vice versa), so the two eigenspaces must have the same dimension, reproducing the equal-eigenvalue-count conclusion of Exercise 12 without reference to the trace at all.
 
-# Mastery checklist
+# Mastery check
 
-- I can state precisely why the Schrödinger and Klein–Gordon equations each fail to meet both of the two requirements simultaneously.
-
-- I can explain why a naive square root of p̂²+m² produces a nonlocal equation.
-
-- I can derive the three anticommutation conditions on αᵢ and β from squaring the linear ansatz and matching to p̂²+m².
-
-- I can show that ordinary numbers cannot satisfy these conditions while keeping every coefficient nonzero.
-
-- I can explain, using a trace argument, why the minimum matrix size satisfying the algebra is even, and specifically why 2×2 fails and 4×4 is needed.
-
-- I can state that a 4×4 matrix algebra forces a four-component wave function.
-
-- I can list, without looking them up, the requirements a successful relativistic equation for spin-1/2 must satisfy.
-
-- I can explain, in a sentence, why this lesson's derivation of multi-component structure is a mathematical necessity rather than an empirical discovery, in contrast with Lesson 15's treatment of spin.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

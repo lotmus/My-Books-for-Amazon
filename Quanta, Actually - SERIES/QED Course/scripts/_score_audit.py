@@ -3,12 +3,12 @@ import os as _os
 import re
 HERE = _os.path.dirname(_os.path.abspath(__file__))
 ROOT = _os.path.dirname(HERE)
-"""Audit the finished Complete QED Course.docx for the scorecard."""
+"""Audit the finished Quantum, Actually - Volume 2.docx for the scorecard."""
 from collections import Counter
 from docx import Document
 from docx.oxml.ns import qn
 
-path = _os.path.join(ROOT, "Complete QED Course.docx")
+path = _os.path.join(ROOT, "Quantum, Actually - Volume 2.docx")
 doc = Document(path)
 lines = []
 

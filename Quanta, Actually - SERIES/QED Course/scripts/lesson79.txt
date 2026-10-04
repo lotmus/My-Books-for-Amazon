@@ -40,6 +40,8 @@ Numerical values are quoted with their uncertainties in the last digits in paren
 
 QED with electrons alone has two parameters: the charge and the mass. Adding nuclei, muons, and hadrons adds their masses, the proton's size, and the hadronic contributions of Lessons 69 and 77. None of these is predicted by QED. Each must be measured. A single experiment, interpreted through QED, can only determine one combination of them. Prediction begins when a second, independent experiment determines the same combination.
 
+IMG: L79_map.png | 6.0 | Figure 79.1. How precision tests interlock: measured inputs (α, masses) enter QED; outputs (g − 2, hydrogen, muonium, positronium, colliders) are compared with experiment.
+
 ## 1.2 The logic of consistency
 
 The most precise example is α. It can be extracted from the electron's anomaly using the five-loop QED series of Lesson 76. It can also be extracted, with almost no QED at all, from the recoil velocity of an atom that absorbs a photon, combined with measured mass ratios. If QED were wrong at the level of its five-loop terms, the two values of α would differ. The agreement, or lack of it, between such independent determinations is the test.
@@ -167,20 +169,22 @@ This lesson quoted all experimental values and all calculations beyond those of 
 
 @widths 720 9072
 | No | Problem |
-| 1 | Compute the relative difference between the one-loop α/(2π) and the measured a_e, and compare it with the expected size of the two-loop term. |
-| 2 | Repeat Worked example 2 for the rubidium value of α. |
-| 3 | If a_e were measured ten times more precisely, what precision in α would be needed to use the improvement as a test of QED? |
-| 4 | In Worked example 3, list the corrections that separate (3/4)R∞c(1 + m/M)⁻¹ from the measured 1s–2s frequency, and give the sign of each. |
-| 5 | Show that the Bohr frequency of the 1s → 2s transition is (3/4)R∞c, ignoring recoil. |
-| 6 | Explain why two transitions are needed to determine both R∞ and r_p. |
-| 7 | Explain why muonium is a cleaner test of bound-state QED than hydrogen. |
-| 8 | Name a diagram that contributes to the energy levels of positronium but not to those of hydrogen. |
-| 9 | Evaluate the Dirac bound-electron g factor (2/3)[1 + 2√(1 − (Zα)²)] for Z = 6 and Z = 14. |
-| 10 | Convert Λ = 200 GeV and Λ = 1 TeV into lengths. |
-| 11 | Estimate the contribution to a_μ of a new particle with mass 500 GeV and electromagnetic-strength coupling, using (α/π)(m_μ/M)². Compare with the experimental uncertainty of about 1.5×10⁻¹⁰. |
-| 12 | Challenge: Explain why the statement "QED is tested to 10⁻¹²" is ambiguous, and rewrite it in a form that names the quantity and the inputs. |
+| 1 | **Core.** Compute the relative difference between the one-loop α/(2π) and the measured a_e, and compare it with the expected size of the two-loop term. |
+| 2 | **Extension.** Repeat Worked example 2 for the rubidium value of α. |
+| 3 | **Core.** If a_e were measured ten times more precisely, what precision in α would be needed to use the improvement as a test of QED? |
+| 4 | **Extension.** In Worked example 3, list the corrections that separate (3/4)R∞c(1 + m/M)⁻¹ from the measured 1s–2s frequency, and give the sign of each. |
+| 5 | **Core.** Show that the Bohr frequency of the 1s → 2s transition is (3/4)R∞c, ignoring recoil. |
+| 6 | **Extension.** Explain why two transitions are needed to determine both R∞ and r_p. |
+| 7 | **Core.** Explain why muonium is a cleaner test of bound-state QED than hydrogen. |
+| 8 | **Extension.** Name a diagram that contributes to the energy levels of positronium but not to those of hydrogen. |
+| 9 | **Extension.** Evaluate the Dirac bound-electron g factor (2/3)[1 + 2√(1 − (Zα)²)] for Z = 6 and Z = 14. |
+| 10 | **Core.** Convert Λ = 200 GeV and Λ = 1 TeV into lengths. |
+| 11 | **Core.** Estimate the contribution to a_μ of a new particle with mass 500 GeV and electromagnetic-strength coupling, using (α/π)(m_μ/M)². Compare with the experimental uncertainty of about 1.5×10⁻¹⁰. |
+| 12 | **Challenge.** Explain why the statement "QED is tested to 10⁻¹²" is ambiguous, and rewrite it in a form that names the quantity and the inputs. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** (0.00116141 − 0.00115965)/0.00115965 = 1.52×10⁻³. The two-loop term is C₂(α/π)²/(α/2π) = 2C₂(α/π) = 2 × 0.328 × 2.32×10⁻³ = 1.53×10⁻³, which accounts for it.
 
@@ -206,16 +210,6 @@ This lesson quoted all experimental values and all calculations beyond those of 
 
 **12.** Without naming a quantity, the statement has no meaning. A precise version is: "the electron anomaly, measured to 1.1×10⁻¹⁰ of its value, agrees with the five-loop QED prediction when α is taken from rubidium atom recoil, at the level of the combined uncertainty of about 2×10⁻¹⁰ of a_e." That names the observable, the input, and the level.
 
-# Mastery checklist
+# Mastery check
 
-- I can explain a precision test as a consistency check of inputs.
-
-- I can convert a difference in α into a difference in a_e, and back.
-
-- I can explain how hydrogen spectroscopy determines R∞ and r_p.
-
-- I can say what muonium, positronium, and highly charged ions test.
-
-- I can convert a collider bound Λ into a length.
-
-- I can state the open comparisons and what a discrepancy would mean.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

@@ -9,6 +9,10 @@ Quantum electrodynamics is not formulated with forces. It is formulated with a L
 
 The lesson proceeds from Newton's law to the action principle, then applies the Euler–Lagrange equations to a sequence of systems chosen for what they teach later. The charged particle in an electromagnetic field and the relativistic particle are not optional examples; they contain the classical version of the QED interaction. Expect eight to ten focused hours, with most of the time spent on the worked examples and on Exercises 7, 13, and 16.
 
+BOX: Plain-language start
+Instead of forces, describe motion by a single number for each possible path, the action, and ask which path makes it stationary. This is Prologue 3's 'least time' rule, applied to particles instead of light, and it is how every theory in this course is written down.
+ENDBOX
+
 ## Learning objectives
 
 - Define generalized coordinates, the Lagrangian, and the action.
@@ -40,6 +44,11 @@ The lesson proceeds from Newton's law to the action principle, then applies the 
 | φ, A | Scalar and vector potentials, A^μ = (φ, A) |
 | E, B | Electric and magnetic fields |
 | τ | Proper time; natural units ℏ = c = 1 throughout |
+
+BOX: First pass: the result before the derivation
+Nature's path makes the action S = ∫L dt stationary, and that one requirement gives the Euler–Lagrange equation d/dt(∂L/∂q̇) = ∂L/∂q, which reproduces Newton's laws.
+This is Prologue 3's 'least time' for particles. The same rule, applied to fields in Lessons 26–27, gives every field equation in the course.
+ENDBOX
 
 # 1 From forces to the action
 
@@ -273,24 +282,26 @@ The single most important formula in this lesson is the interaction −q A_μ dx
 
 @widths 720 9072
 | No | Problem |
-| 1 | For a free particle with L = (1/2)m ẋ², show that the stationary path from x₁ at t = 0 to x₂ at t = T is x = x₁ + (x₂ − x₁)t/T, and compute the action along it. |
-| 2 | Show explicitly that L′ = L + dF(q, t)/dt gives the same Euler–Lagrange equations as L. |
-| 3 | Derive the pendulum equation from its Lagrangian. Find the period for small oscillations with l = 1.00 m and g = 9.81 m/s². |
-| 4 | A particle moves in two dimensions with V = (1/2)k(x² + y²). Write L in polar coordinates, identify the cyclic coordinate, and state the conserved quantity. |
-| 5 | Derive both Euler–Lagrange equations for L = (1/2)m(ṙ² + r²θ̇²) − V(r) and show that the radial motion is governed by the effective potential V(r) + ℓ²/(2mr²). |
-| 6 | For the effective potential with V = −k/r, find the radius of the circular orbit for given ℓ and the frequency of small radial oscillations about it. |
-| 7 | Starting from L = (1/2)mv² − qφ + q v·A, derive m dv/dt = q(E + v × B), stating where the identity ∇(v·A) − (v·∇)A = v × (∇ × A) is used. |
-| 8 | A particle of charge q moves in a uniform magnetic field B along z, described by A = (1/2)B × x. Show that the y component of the canonical momentum is conserved when A = (−By, 0, 0) is used instead, and explain why the two choices of A describe the same physics. |
-| 9 | Show that dh/dt = −∂L/∂t along any solution of the Euler–Lagrange equations. |
-| 10 | From L = −m√(1 − v²), derive p = γmv and h = γm, and verify h² − p² = m². |
-| 11 | Expand −m√(1 − v²) to order v⁴ and identify each term. |
-| 12 | Show that S = −m∫dτ is unchanged when the worldline is reparametrized by λ with t = t(λ), and unchanged under a Lorentz transformation. |
-| 13 | For the relativistic charged particle, show that the canonical momentum is γmv + qA and the energy function is γm + qφ. |
-| 14 | Find the normal mode frequencies of two equal masses between fixed walls with springs k, κ, k, and sketch the motion in each mode. |
-| 15 | For the chain m ẍₙ = κ(xₙ₊₁ − 2xₙ + xₙ₋₁), try xₙ = e^(i(kna − ωt)) and find the exact dispersion relation ω(k). Show it reduces to ω = ck for small ka and find c. |
-| 16 | Challenge: vary the action S = ∫(−m dτ − qA_μ dx^μ) with respect to the worldline x^μ(τ) and derive m du_μ/dτ = qF_μν u^ν. |
+| 1 | **Core.** For a free particle with L = (1/2)m ẋ², show that the stationary path from x₁ at t = 0 to x₂ at t = T is x = x₁ + (x₂ − x₁)t/T, and compute the action along it. |
+| 2 | **Core.** Show explicitly that L′ = L + dF(q, t)/dt gives the same Euler–Lagrange equations as L. |
+| 3 | **Extension.** Derive the pendulum equation from its Lagrangian. Find the period for small oscillations with l = 1.00 m and g = 9.81 m/s². |
+| 4 | **Core.** A particle moves in two dimensions with V = (1/2)k(x² + y²). Write L in polar coordinates, identify the cyclic coordinate, and state the conserved quantity. |
+| 5 | **Extension.** Derive both Euler–Lagrange equations for L = (1/2)m(ṙ² + r²θ̇²) − V(r) and show that the radial motion is governed by the effective potential V(r) + ℓ²/(2mr²). |
+| 6 | **Extension.** For the effective potential with V = −k/r, find the radius of the circular orbit for given ℓ and the frequency of small radial oscillations about it. |
+| 7 | **Extension.** Starting from L = (1/2)mv² − qφ + q v·A, derive m dv/dt = q(E + v × B), stating where the identity ∇(v·A) − (v·∇)A = v × (∇ × A) is used. |
+| 8 | **Extension.** A particle of charge q moves in a uniform magnetic field B along z, described by A = (1/2)B × x. Show that the y component of the canonical momentum is conserved when A = (−By, 0, 0) is used instead, and explain why the two choices of A describe the same physics. |
+| 9 | **Core.** Show that dh/dt = −∂L/∂t along any solution of the Euler–Lagrange equations. |
+| 10 | **Core.** From L = −m√(1 − v²), derive p = γmv and h = γm, and verify h² − p² = m². |
+| 11 | **Core.** Expand −m√(1 − v²) to order v⁴ and identify each term. |
+| 12 | **Core.** Show that S = −m∫dτ is unchanged when the worldline is reparametrized by λ with t = t(λ), and unchanged under a Lorentz transformation. |
+| 13 | **Core.** For the relativistic charged particle, show that the canonical momentum is γmv + qA and the energy function is γm + qφ. |
+| 14 | **Extension.** Find the normal mode frequencies of two equal masses between fixed walls with springs k, κ, k, and sketch the motion in each mode. |
+| 15 | **Extension.** For the chain m ẍₙ = κ(xₙ₊₁ − 2xₙ + xₙ₋₁), try xₙ = e^(i(kna − ωt)) and find the exact dispersion relation ω(k). Show it reduces to ω = ck for small ka and find c. |
+| 16 | **Challenge.** Vary the action S = ∫(−m dτ − qA_μ dx^μ) with respect to the worldline x^μ(τ) and derive m du_μ/dτ = qF_μν u^ν. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** The Euler–Lagrange equation is m ẍ = 0, so x is linear in t; the endpoint conditions fix x = x₁ + (x₂ − x₁)t/T. Along it ẋ = (x₂ − x₁)/T is constant, so S = (1/2)m(x₂ − x₁)²/T² × T = m(x₂ − x₁)²/(2T).
 
@@ -324,20 +335,6 @@ The single most important formula in this lesson is the interaction −q A_μ dx
 
 **16.** Under x^μ → x^μ + δx^μ, δ(dτ) = δ√(dx·dx) = (dx_μ d(δx^μ))/dτ = u_μ d(δx^μ), and δ(A_μ dx^μ) = (∂_νA_μ)δx^ν dx^μ + A_μ d(δx^μ). Integrating the terms containing d(δx^μ) by parts, with δx^μ vanishing at the ends, gives δS = ∫[m (du_μ/dτ) δx^μ − q(∂_νA_μ)δx^ν u^μ + q(dA_μ/dτ)δx^μ] dτ. Using dA_μ/dτ = (∂_νA_μ)u^ν and relabeling dummy indices, the coefficient of δx^μ is m du_μ/dτ − q(∂_μA_ν − ∂_νA_μ)u^ν. Setting it to zero gives m du_μ/dτ = qF_μν u^ν with F_μν = ∂_μA_ν − ∂_νA_μ.
 
-# Mastery checklist
+# Mastery check
 
-- I can write the Lagrangian of a mechanical system in any convenient coordinates and derive its equations of motion.
-
-- I can explain in one sentence why adding a total time derivative to L changes nothing.
-
-- I can spot a cyclic coordinate and write down the conserved momentum without further calculation.
-
-- I can derive the Lorentz force from the charged-particle Lagrangian, including the vector identity step.
-
-- I know that the canonical momentum of a charged particle is mv + qA, not mv, and why the difference matters.
-
-- I can derive p = γmv and E = γm from L = −m√(1 − v²).
-
-- I can write the covariant interaction −qA_μ dx^μ and state what it becomes in QED.
-
-- I can find the normal modes of two coupled oscillators and take the continuum limit of a chain.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

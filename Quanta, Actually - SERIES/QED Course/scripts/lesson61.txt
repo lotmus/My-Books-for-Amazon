@@ -80,6 +80,8 @@ Explain why the pair-production and annihilation rows of Section 1's table, buil
 | e⁻μ⁻ and Møller | Photon propagator, ~1/t | Massless photon, long-range Coulomb force |
 | Annihilation, Compton, pair production | Fermion propagator, ~1/s, 1/t, or 1/u | Internal electron on shell when a photon and a fermion are collinear |
 
+IMG: L61_angular.png | 5.6 | Figure 61.1. Angular distributions of three Part VIII processes in the high-energy limit (log scale). Photon exchange in the t-channel gives the steep forward peak; fermion exchange gives the collinear rises. At fixed angle every curve falls as 1/s.
+
 Lesson 74's infrared problem for photon exchange is the first row: arbitrarily soft photons, arbitrarily small deflections. The second row is a collinear divergence, still infrared, still requiring an inclusive measurement, but not a statement about the range of the Coulomb field. The bookkeeping of Mandelstam variables can make the two look similar, because a collinear configuration can send t or u to zero; the diagrams are not similar.
 
 # 3 A shared feature: falling with energy
@@ -148,24 +150,26 @@ Starting from the vertex and propagators of Part VII, Part VIII derived five com
 
 @widths 720 9072
 | No | Problem |
-| 1 | Verify the electron-muon row of Section 1's table by substituting Lesson 54's (1/4)Σ|ℳ|²=2e⁴(s²+u²)/t² into dσ/dΩ=|ℳ|²/(64π²s). |
-| 2 | Do the same for the Compton row, using Lesson 57's (1/4)Σ|ℳ|²=−2e⁴(s/u+u/s). |
-| 3 | Explain why Worked example 1's two rows (annihilation and pair production) carry the same function of t and u, tracing it to the vanishing interference traces of Lesson 56, Section 4.2, and Lesson 58, Section 3. |
-| 4 | Derive 1−cosθ=2sin²(θ/2) from the double-angle identity cos(2x)=1−2sin²(x), setting x=θ/2. |
-| 5 | Substitute Exercise 4 into t=−2p²(1−cosθ) to derive t=−4p²sin²(θ/2). |
-| 6 | State, without derivation, the classical Rutherford scattering formula's angular dependence, and compare it directly with Exercise 5's result for t². |
-| 7 | Explain, in your own words, why a force carried by a massive mediator would not produce the same small-angle divergence, referring to how a mass term would change the propagator's denominator. |
-| 8 | Using dΩ=2π sinθ dθ (azimuthal symmetry) and t²∝sin⁴(θ/2), write the integral ∫dσ that would give the total cross section for a 1/t² differential cross section. |
-| 9 | Show that near θ=0, sin(θ/2)≈θ/2, so the integrand of Exercise 8 behaves as 1/θ³, and confirm this integral diverges as the lower limit of integration approaches zero. |
-| 10 | Explain why the divergence found in Exercise 9 is described in this lesson as a statement about physics, not an error, referring to the range of the Coulomb force. |
-| 11 | Using p²≈s/4 at high energy (both incoming particles effectively massless compared to √s), show that t=−2p²(1−cosθ) is proportional to s at fixed θ. |
-| 12 | Using Exercise 11's result, explain why s²/t² approaches a fixed, s-independent value at fixed θ as s→∞. |
-| 13 | Combine Exercise 12 with the explicit 1/(64π²s) factor in dσ/dΩ to justify Section 3.2's conclusion that dσ/dΩ∝1/s at fixed angle. |
-| 14 | State, for each of the five processes in Section 1's table, one real experimental or observational setting in which it plays a role, without repeating any single answer twice. |
-| 15 | Explain why positron emission tomography (Section 4.3) relies specifically on the two-photon nature of Lesson 56's process rather than some other annihilation channel. |
-| 16 | Challenge: using Section 5's summary, state in a few sentences what physical assumption every calculation in Part VIII shared (referring to the diagrams actually computed in Lessons 50 and 54–58), and what kind of diagram Part IX introduces that none of those calculations included. |
+| 1 | **Core.** Verify the electron-muon row of Section 1's table by substituting Lesson 54's (1/4)Σ|ℳ|²=2e⁴(s²+u²)/t² into dσ/dΩ=|ℳ|²/(64π²s). |
+| 2 | **Core.** Do the same for the Compton row, using Lesson 57's (1/4)Σ|ℳ|²=−2e⁴(s/u+u/s). |
+| 3 | **Core.** Explain why Worked example 1's two rows (annihilation and pair production) carry the same function of t and u, tracing it to the vanishing interference traces of Lesson 56, Section 4.2, and Lesson 58, Section 3. |
+| 4 | **Extension.** Derive 1−cosθ=2sin²(θ/2) from the double-angle identity cos(2x)=1−2sin²(x), setting x=θ/2. |
+| 5 | **Core.** Substitute Exercise 4 into t=−2p²(1−cosθ) to derive t=−4p²sin²(θ/2). |
+| 6 | **Core.** State, without derivation, the classical Rutherford scattering formula's angular dependence, and compare it directly with Exercise 5's result for t². |
+| 7 | **Extension.** Explain, in your own words, why a force carried by a massive mediator would not produce the same small-angle divergence, referring to how a mass term would change the propagator's denominator. |
+| 8 | **Core.** Using dΩ=2π sinθ dθ (azimuthal symmetry) and t²∝sin⁴(θ/2), write the integral ∫dσ that would give the total cross section for a 1/t² differential cross section. |
+| 9 | **Core.** Show that near θ=0, sin(θ/2)≈θ/2, so the integrand of Exercise 8 behaves as 1/θ³, and confirm this integral diverges as the lower limit of integration approaches zero. |
+| 10 | **Extension.** Explain why the divergence found in Exercise 9 is described in this lesson as a statement about physics, not an error, referring to the range of the Coulomb force. |
+| 11 | **Extension.** Using p²≈s/4 at high energy (both incoming particles effectively massless compared to √s), show that t=−2p²(1−cosθ) is proportional to s at fixed θ. |
+| 12 | **Core.** Using Exercise 11's result, explain why s²/t² approaches a fixed, s-independent value at fixed θ as s→∞. |
+| 13 | **Extension.** Combine Exercise 12 with the explicit 1/(64π²s) factor in dσ/dΩ to justify Section 3.2's conclusion that dσ/dΩ∝1/s at fixed angle. |
+| 14 | **Extension.** State, for each of the five processes in Section 1's table, one real experimental or observational setting in which it plays a role, without repeating any single answer twice. |
+| 15 | **Extension.** Explain why positron emission tomography (Section 4.3) relies specifically on the two-photon nature of Lesson 56's process rather than some other annihilation channel. |
+| 16 | **Challenge.** Using Section 5's summary, state in a few sentences what physical assumption every calculation in Part VIII shared (referring to the diagrams actually computed in Lessons 50 and 54–58), and what kind of diagram Part IX introduces that none of those calculations included. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** Substituting Lesson 54's result directly: dσ/dΩ=[2e⁴(s²+u²)/t²]/(64π²s)=2e⁴(s²+u²)/(64π²st²)=e⁴(s²+u²)/(32π²st²), matching Section 1's table.
 
@@ -199,16 +203,6 @@ Starting from the vertex and propagators of Part VII, Part VIII derived five com
 
 **16.** Every calculation in Part VIII, from the Compton setup in Lesson 50 through pair production in Lesson 58, used diagrams built from tree-level structure only: a small number of vertices connected by internal lines with no closed loop anywhere in the diagram, meaning the internal momenta were always fixed uniquely by the external momenta (Lesson 50, Section 2.3's vertex-conservation mechanism), never requiring an unresolved integral over an undetermined momentum. Part IX introduces loop diagrams, in which an internal line closes back on itself, leaving one or more internal momenta undetermined by the external data alone and requiring the integral over that momentum, ∫d⁴q/(2π)⁴, that every calculation in this course has so far avoided.
 
-# Mastery checklist
+# Mastery check
 
-- I can assemble the explicit differential cross section for each of Lessons 54–58's processes.
-
-- I can rewrite t in terms of the scattering angle and recognize the Rutherford sin⁻⁴(θ/2) form for photon-exchange processes.
-
-- I can distinguish a photon-propagator pole from a collinear fermion-propagator pole, and I know which of the five processes is which.
-
-- I can derive the 1/s falloff of these cross sections at fixed angle and high energy.
-
-- I can name at least one real use of each of the five processes studied in Part VIII.
-
-- I can state what Part VIII's calculations assumed about diagram structure, and what Part IX adds.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

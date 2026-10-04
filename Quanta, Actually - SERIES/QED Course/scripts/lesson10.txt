@@ -40,6 +40,11 @@ Two things are being asked of the reader at once. The first is a physical postul
 | j(x, t) | Probability current density |
 | σₓ | Standard deviation of position in a given state |
 
+BOX: First pass: the result before the derivation
+A quantum state is a vector |ψ⟩ in a complex vector space; amplitudes are inner products ⟨φ|ψ⟩; probabilities are |⟨φ|ψ⟩|²; and states must be normalized, ⟨ψ|ψ⟩ = 1.
+These are Prologue 8's bras and kets with the full rules attached.
+ENDBOX
+
 # 1 The physical postulate
 
 ## 1.1 Why a probabilistic description is needed
@@ -210,24 +215,26 @@ Every scattering amplitude computed in Part VIII is, in the end, an inner produc
 
 @widths 720 9072
 | No | Problem |
-| 1 | Normalize ψ(x) = A e^(−|x|/b) in one dimension and find A in terms of b. |
-| 2 | For the normalized wave function of Exercise 1, find the probability of finding the particle in −b < x < b. |
-| 3 | Show that if ψ is normalized, so is e^(iθ)ψ for any real constant θ, and explain why this does not represent a different physical state. |
-| 4 | For two functions ψ₁ and ψ₂ in L², verify by direct computation that ⟨ψ₁ + ψ₂\|ψ₁ + ψ₂⟩ = ⟨ψ₁\|ψ₁⟩ + ⟨ψ₂\|ψ₂⟩ + 2Re⟨ψ₁\|ψ₂⟩. |
-| 5 | Show that the Cauchy Schwarz inequality of Lesson 1, Exercise 16, applied to L², implies that any ψ ∈ L² normalized against a normalized φ has \|⟨φ\|ψ⟩\| ≤ 1. |
-| 6 | Two one-dimensional Gaussians of width a are centered at x = 0 and x = 3a. Estimate their overlap ⟨φ\|ψ⟩ using Worked example 2 and comment on whether they are "nearly orthogonal." |
-| 7 | Derive the probability current for a general complex wave function ψ = R e^(iS) with R and S real, and show that j = (ℏ/m)R²∇S. |
-| 8 | Using the result of Exercise 7, show that a wave function with real ψ everywhere carries zero probability current. |
-| 9 | For the infinite well basis uₙ(x) = √(2/L)sin(nπx/L), verify ⟨u₁\|u₂⟩ = 0 by direct integration. |
-| 10 | A particle is in the state ψ = (u₁ + u₂)/√2 in the infinite well basis. Show ψ is normalized and state the probability of finding the particle with energy corresponding to n = 1. |
-| 11 | Compute ⟨x⟩ for ψ(x) = A e^(−x²/2a²) e^(ik₀x) and explain why the extra phase factor does not shift the position expectation value. |
-| 12 | Compute σₓ² for the Gaussian of Exercise 11 and show it is unchanged by the phase factor e^(ik₀x). |
-| 13 | Verify that δ(x − x₀) formally satisfies ∫δ(x−x₀)ψ(x)dx = ψ(x₀), and explain in one sentence why δ(x−x₀) itself is not in L². |
-| 14 | For the superposition of Worked example 6, write out \|ψ\|² explicitly at x = 0 assuming ψ₁ and ψ₂ are both real and positive there, and compare with \|ψ₁\|² + \|ψ₂\|² alone. |
-| 15 | Prove that if φ, ψ ∈ L², then αφ + βψ ∈ L² for any complex α, β, using the triangle inequality ‖φ+ψ‖ ≤ ‖φ‖+‖ψ‖ (assume this form of the inequality). |
-| 16 | Challenge: for a general (not necessarily Gaussian) normalized ψ(x), show that the probability of finding the particle outside \[⟨x⟩ − nσₓ, ⟨x⟩ + nσₓ\] is at most 1/n² (Chebyshev's inequality), and evaluate the bound for n = 3. |
+| 1 | **Core.** Normalize ψ(x) = A e^(−|x|/b) in one dimension and find A in terms of b. |
+| 2 | **Core.** For the normalized wave function of Exercise 1, find the probability of finding the particle in −b < x < b. |
+| 3 | **Extension.** Show that if ψ is normalized, so is e^(iθ)ψ for any real constant θ, and explain why this does not represent a different physical state. |
+| 4 | **Core.** For two functions ψ₁ and ψ₂ in L², verify by direct computation that ⟨ψ₁ + ψ₂\|ψ₁ + ψ₂⟩ = ⟨ψ₁\|ψ₁⟩ + ⟨ψ₂\|ψ₂⟩ + 2Re⟨ψ₁\|ψ₂⟩. |
+| 5 | **Core.** Show that the Cauchy Schwarz inequality of Lesson 1, Exercise 16, applied to L², implies that any ψ ∈ L² normalized against a normalized φ has \|⟨φ\|ψ⟩\| ≤ 1. |
+| 6 | **Core.** Two one-dimensional Gaussians of width a are centered at x = 0 and x = 3a. Estimate their overlap ⟨φ\|ψ⟩ using Worked example 2 and comment on whether they are "nearly orthogonal." |
+| 7 | **Extension.** Derive the probability current for a general complex wave function ψ = R e^(iS) with R and S real, and show that j = (ℏ/m)R²∇S. |
+| 8 | **Core.** Using the result of Exercise 7, show that a wave function with real ψ everywhere carries zero probability current. |
+| 9 | **Extension.** For the infinite well basis uₙ(x) = √(2/L)sin(nπx/L), verify ⟨u₁\|u₂⟩ = 0 by direct integration. |
+| 10 | **Core.** A particle is in the state ψ = (u₁ + u₂)/√2 in the infinite well basis. Show ψ is normalized and state the probability of finding the particle with energy corresponding to n = 1. |
+| 11 | **Extension.** Compute ⟨x⟩ for ψ(x) = A e^(−x²/2a²) e^(ik₀x) and explain why the extra phase factor does not shift the position expectation value. |
+| 12 | **Core.** Compute σₓ² for the Gaussian of Exercise 11 and show it is unchanged by the phase factor e^(ik₀x). |
+| 13 | **Extension.** Verify that δ(x − x₀) formally satisfies ∫δ(x−x₀)ψ(x)dx = ψ(x₀), and explain in one sentence why δ(x−x₀) itself is not in L². |
+| 14 | **Extension.** For the superposition of Worked example 6, write out \|ψ\|² explicitly at x = 0 assuming ψ₁ and ψ₂ are both real and positive there, and compare with \|ψ₁\|² + \|ψ₂\|² alone. |
+| 15 | **Extension.** Prove that if φ, ψ ∈ L², then αφ + βψ ∈ L² for any complex α, β, using the triangle inequality ‖φ+ψ‖ ≤ ‖φ‖+‖ψ‖ (assume this form of the inequality). |
+| 16 | **Challenge.** For a general (not necessarily Gaussian) normalized ψ(x), show that the probability of finding the particle outside \[⟨x⟩ − nσₓ, ⟨x⟩ + nσₓ\] is at most 1/n² (Chebyshev's inequality), and evaluate the bound for n = 3. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** ∫|ψ|²dx = A²∫e^(−2|x|/b)dx = A² × b = 1 (using ∫₀^∞e^(−2x/b)dx = b/2 on each half-line), so A = 1/√b.
 
@@ -261,20 +268,6 @@ Every scattering amplitude computed in Part VIII is, in the end, an inner produc
 
 **16.** Chebyshev's inequality for any probability distribution states P(\|x−⟨x⟩\| ≥ nσₓ) ≤ 1/n², proved by noting σₓ² = ∫(x−⟨x⟩)²\|ψ\|²dx ≥ ∫_(|x−⟨x⟩|≥nσₓ) (x−⟨x⟩)²\|ψ\|²dx ≥ n²σₓ² P(\|x−⟨x⟩\|≥nσₓ), and dividing by n²σₓ². For n = 3, the probability of finding the particle more than three standard deviations from the mean is at most 1/9 ≈ 0.111, a bound that holds for every normalizable wave function, however exotic its shape.
 
-# Mastery checklist
+# Mastery check
 
-- I can state the Born rule precisely, including what it does and does not say about a single measurement.
-
-- I can verify that a given wave function is normalizable and compute its normalization constant.
-
-- I can write the L² inner product and check that it satisfies the axioms of Lesson 1.
-
-- I can derive the probability current from a wave function written in polar form R e^(iS).
-
-- I can expand a wave function in an orthonormal basis and interpret \|cₙ\|² as a probability.
-
-- I can compute ⟨x⟩ and σₓ for a simple wave function and state what they mean statistically.
-
-- I can compute an interference term explicitly and explain why it has no classical counterpart.
-
-- I can explain, in one sentence, why an overall phase on ψ has no physical consequence.
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

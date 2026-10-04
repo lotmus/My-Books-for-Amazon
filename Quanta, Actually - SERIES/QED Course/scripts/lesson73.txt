@@ -33,9 +33,16 @@ Lesson 71 introduced the gauge parameter ξ, and Lesson 72 proved k_μℳ^μ = 0
 
 The metric is diag(+1, −1, −1, −1). In display equations, square brackets enclose function arguments and visible groupings.
 
+BOX: First pass: the result before the derivation
+The S-matrix is the same in every gauge, covariant or Coulomb, even though Green's functions are not.
+Gauge is a choice of description; cross sections do not depend on it. High-risk topic.
+ENDBOX
+
 # 1 Four layers of invariance
 
 ## 1.1 The Lagrangian
+
+IMG: L73_map.png | 6.0 | Figure 73.1. Four layers of gauge invariance, from the Lagrangian to the S-matrix, and what each protects.
 
 Lesson 42's ℒ = ψ̄(iD̸ − m)ψ − ¼F_μνF^μν is invariant under ψ → e^(−ieχ(x))ψ together with A_μ → A_μ + ∂_μχ, with D_μ = ∂_μ + ieA_μ as in Lesson 41. This was the starting point of Part VI.
 
@@ -185,21 +192,23 @@ This lesson gave the ξ-independence argument in outline, relying on Lesson 72's
 
 @widths 720 9072
 | No | Problem |
-| 1 | Show that ℒ = ψ̄(iD̸ − m)ψ − ¼F² is invariant under ψ → e^(−ieχ)ψ, A_μ → A_μ + ∂_μχ. |
-| 2 | Show that ℒ_gf = −(∂·A)²/(2ξ) changes under the same transformation unless ∂²χ = 0. |
-| 3 | Differentiate D_μν(k; ξ) with respect to ξ and confirm Section 2.1. |
-| 4 | Show explicitly that the ξ-derivative of the tree-level electron-muon amplitude vanishes. |
-| 5 | Derive Section 3.2 by computing the 00, 0i, and ij components of D^C − D^F. |
-| 6 | Explain why D₀₀^C has no pole at k² = 0, and identify the interaction it describes in position space. |
-| 7 | List the gauge-invariant subsets of one-loop diagrams in electron-muon scattering. |
-| 8 | Using Section 5.1, find the value of ξ that makes Z₂ finite at one loop, and explain why this cannot make any physical prediction finite that was not already. |
-| 9 | Explain why δm must be gauge independent, using the fact that the pole mass is measurable. |
-| 10 | Show that the open-path phase e∫A·dl is not gauge invariant, but that the closed-path phase is. |
-| 11 | For an electron (charge magnitude e), compute the flux that shifts the Aharonov–Bohm pattern by one full period, in webers, using h/e. |
-| 12 | Show that ½M²A_μA^μ is not gauge invariant, and that F_μνF^μν and ψ̄σ^μνψF_μν are. |
-| 13 | Challenge: the electron propagator at p² ≠ m² is gauge dependent, yet Lesson 68 used its pole to define m. Explain why the location of the pole is gauge independent even though the propagator is not. |
+| 1 | **Core.** Show that ℒ = ψ̄(iD̸ − m)ψ − ¼F² is invariant under ψ → e^(−ieχ)ψ, A_μ → A_μ + ∂_μχ. |
+| 2 | **Core.** Show that ℒ_gf = −(∂·A)²/(2ξ) changes under the same transformation unless ∂²χ = 0. |
+| 3 | **Core.** Differentiate D_μν(k; ξ) with respect to ξ and confirm Section 2.1. |
+| 4 | **Core.** Show explicitly that the ξ-derivative of the tree-level electron-muon amplitude vanishes. |
+| 5 | **Extension.** Derive Section 3.2 by computing the 00, 0i, and ij components of D^C − D^F. |
+| 6 | **Extension.** Explain why D₀₀^C has no pole at k² = 0, and identify the interaction it describes in position space. |
+| 7 | **Extension.** List the gauge-invariant subsets of one-loop diagrams in electron-muon scattering. |
+| 8 | **Extension.** Using Section 5.1, find the value of ξ that makes Z₂ finite at one loop, and explain why this cannot make any physical prediction finite that was not already. |
+| 9 | **Extension.** Explain why δm must be gauge independent, using the fact that the pole mass is measurable. |
+| 10 | **Core.** Show that the open-path phase e∫A·dl is not gauge invariant, but that the closed-path phase is. |
+| 11 | **Core.** For an electron (charge magnitude e), compute the flux that shifts the Aharonov–Bohm pattern by one full period, in webers, using h/e. |
+| 12 | **Extension.** Show that ½M²A_μA^μ is not gauge invariant, and that F_μνF^μν and ψ̄σ^μνψF_μν are. |
+| 13 | **Challenge.** The electron propagator at p² ≠ m² is gauge dependent, yet Lesson 68 used its pole to define m. Explain why the location of the pole is gauge independent even though the propagator is not. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** D_μψ → (∂_μ + ieA_μ + ie∂_μχ)(e^(−ieχ)ψ) = e^(−ieχ)(∂_μψ − ie∂_μχψ + ieA_μψ + ie∂_μχψ) = e^(−ieχ)D_μψ. Then ψ̄iD̸ψ and mψ̄ψ are invariant, and F_μν is unchanged.
 

@@ -40,6 +40,11 @@ The payoff is a principle rather than a calculation. Once the covariant derivati
 | Local (gauge) symmetry | A transformation whose parameter is an arbitrary function of spacetime |
 | Internal symmetry | A symmetry acting on the values a field takes, not on spacetime itself, contrasted with the Poincaré symmetries of Lesson 4 |
 
+BOX: First pass: the result before the derivation
+Demanding that physics be unchanged under a phase rotation that differs from point to point, ψ → e^(iα(x))ψ, forces a new field A_μ and the covariant derivative D_μ = ∂_μ + ieA_μ.
+The electromagnetic interaction is not added by hand: it is the price of a local phase freedom. This is a high-risk topic; the derivation is worth doing twice.
+ENDBOX
+
 # 1 Global versus local, internal versus spacetime
 
 ## 1.1 Two independent distinctions
@@ -159,24 +164,26 @@ Lesson 40 now specializes this general machinery to the Dirac field specifically
 
 @widths 720 9072
 | No | Problem |
-| 1 | State, for each of the following, whether it is a global or local symmetry and whether it is an internal or spacetime symmetry: a spatial rotation (Lesson 4), the phase rotation ψ → e^(−iqα)ψ with constant α (Lesson 31), and a Lorentz boost. |
-| 2 | Verify Section 2.1's calculation, ∂_μ(e^(−iqα(x))φ) = e^(−iqα(x))[∂_μφ − iq(∂_μα)φ], by direct application of the product rule. |
-| 3 | Repeat Section 2.1's calculation for the complex-conjugate field, φ* → e^(iqα(x))φ*, and show that ∂_μφ* picks up the opposite-sign extra term +iq(∂_μα)φ*. |
-| 4 | Using the result of Exercise 3, show that D_μφ* = (∂_μ − iqA_μ)φ* transforms as D_μφ* → e^(iqα)D_μφ*, with A_μ transforming as in Section 2.3. |
-| 5 | Show that D_μ(φ*φ) = ∂_μ(φ*φ) for the D_μ of Section 2.3 and the D_μ of Exercise 4 acting together as an ordinary Leibniz-rule derivative on the product, and interpret this as the statement that the gauge-invariant combination φ*φ needs no covariant derivative to remain gauge invariant. |
-| 6 | Derive the transformation rule for D_μφ* stated in Exercise 4 directly, by an argument parallel to Section 2.3's, rather than by conjugating the result for φ. |
-| 7 | For two independent charged fields φ₁ (charge q₁) and φ₂ (charge q₂) coupled to the same A_μ via D_μφ_i = (∂_μ + iq_iA_μ)φ_i, show that D_μφ_i transforms correctly for each i under the single shared transformation A_μ → A_μ + ∂_μα, ψ_i → e^(−iq_iα)ψ_i. |
-| 8 | Explain why the argument of Exercise 7 would fail if φ₁ and φ₂ were required to use two different gauge parameters α_1 ≠ α_2 while still sharing a single A_μ. |
-| 9 | Write the gauge-invariant Lagrangian density for a charged scalar field explicitly, D_μφ*D^μφ − m²φ*φ, and expand D_μ to identify the three terms: the free scalar Lagrangian, an interaction term linear in A_μ, and a term quadratic in A_μ. |
-| 10 | Compare the linear-in-A_μ term found in Exercise 9 with the Klein–Gordon current of Lesson 31, Section 1.3, and show it equals −j^μA_μ with j^μ the current found there. |
-| 11 | Explain why the term quadratic in A_μ found in Exercise 9 has no analogue in the Dirac case, tracing the difference to the fact that D_μ appears twice, on two derivatives, in the scalar kinetic term D_μφ*D^μφ, but only once in the Dirac kinetic term ψ̄iγ^μD_μψ. |
-| 12 | Using [∂_μ, ∂_ν] = 0, show that the commutator [D_μ, D_ν]φ, expanded using D_μ = ∂_μ + iqA_μ, has its ∂_μ∂_ν and ∂_ν∂_μ pieces cancel, leaving only terms with a single derivative acting on A_μ or A_ν. |
-| 13 | Complete the calculation of Exercise 12 to verify [D_μ, D_ν] = iq(∂_μA_ν − ∂_νA_μ) = iqF_μν, filling in the preview of Section 5. |
-| 14 | Explain, referencing Lesson 4, Section 4.4, why F_μν appearing as the commutator of two covariant derivatives is consistent with F_μν being an antisymmetric tensor. |
-| 15 | Suppose a theory had a field of charge q = 0. Show that its covariant derivative reduces to the ordinary derivative, D_μ = ∂_μ, and explain why such a field, if it exists, does not couple to A_μ at all in this minimal-coupling scheme. |
-| 16 | Challenge: using the general argument of Section 2, applied not to a U(1) phase but formally to a transformation φ → φ + α(x)v for a constant vector v (an additive rather than multiplicative local shift), determine what form a compensating "covariant derivative" D_μφ = ∂_μφ − (∂_μα)v would need instead, and explain in one or two sentences why this alternative structure does not describe the electromagnetic case, to clarify by contrast what was special about the multiplicative, phase-rotation structure used throughout this lesson. |
+| 1 | **Core.** State, for each of the following, whether it is a global or local symmetry and whether it is an internal or spacetime symmetry: a spatial rotation (Lesson 4), the phase rotation ψ → e^(−iqα)ψ with constant α (Lesson 31), and a Lorentz boost. |
+| 2 | **Core.** Verify Section 2.1's calculation, ∂_μ(e^(−iqα(x))φ) = e^(−iqα(x))[∂_μφ − iq(∂_μα)φ], by direct application of the product rule. |
+| 3 | **Extension.** Repeat Section 2.1's calculation for the complex-conjugate field, φ* → e^(iqα(x))φ*, and show that ∂_μφ* picks up the opposite-sign extra term +iq(∂_μα)φ*. |
+| 4 | **Core.** Using the result of Exercise 3, show that D_μφ* = (∂_μ − iqA_μ)φ* transforms as D_μφ* → e^(iqα)D_μφ*, with A_μ transforming as in Section 2.3. |
+| 5 | **Core.** Show that D_μ(φ*φ) = ∂_μ(φ*φ) for the D_μ of Section 2.3 and the D_μ of Exercise 4 acting together as an ordinary Leibniz-rule derivative on the product, and interpret this as the statement that the gauge-invariant combination φ*φ needs no covariant derivative to remain gauge invariant. |
+| 6 | **Extension.** Derive the transformation rule for D_μφ* stated in Exercise 4 directly, by an argument parallel to Section 2.3's, rather than by conjugating the result for φ. |
+| 7 | **Extension.** For two independent charged fields φ₁ (charge q₁) and φ₂ (charge q₂) coupled to the same A_μ via D_μφ_i = (∂_μ + iq_iA_μ)φ_i, show that D_μφ_i transforms correctly for each i under the single shared transformation A_μ → A_μ + ∂_μα, ψ_i → e^(−iq_iα)ψ_i. |
+| 8 | **Extension.** Explain why the argument of Exercise 7 would fail if φ₁ and φ₂ were required to use two different gauge parameters α_1 ≠ α_2 while still sharing a single A_μ. |
+| 9 | **Core.** Write the gauge-invariant Lagrangian density for a charged scalar field explicitly, D_μφ*D^μφ − m²φ*φ, and expand D_μ to identify the three terms: the free scalar Lagrangian, an interaction term linear in A_μ, and a term quadratic in A_μ. |
+| 10 | **Core.** Compare the linear-in-A_μ term found in Exercise 9 with the Klein–Gordon current of Lesson 31, Section 1.3, and show it equals −j^μA_μ with j^μ the current found there. |
+| 11 | **Extension.** Explain why the term quadratic in A_μ found in Exercise 9 has no analogue in the Dirac case, tracing the difference to the fact that D_μ appears twice, on two derivatives, in the scalar kinetic term D_μφ*D^μφ, but only once in the Dirac kinetic term ψ̄iγ^μD_μψ. |
+| 12 | **Extension.** Using [∂_μ, ∂_ν] = 0, show that the commutator [D_μ, D_ν]φ, expanded using D_μ = ∂_μ + iqA_μ, has its ∂_μ∂_ν and ∂_ν∂_μ pieces cancel, leaving only terms with a single derivative acting on A_μ or A_ν. |
+| 13 | **Core.** Complete the calculation of Exercise 12 to verify [D_μ, D_ν] = iq(∂_μA_ν − ∂_νA_μ) = iqF_μν, filling in the preview of Section 5. |
+| 14 | **Extension.** Explain, referencing Lesson 4, Section 4.4, why F_μν appearing as the commutator of two covariant derivatives is consistent with F_μν being an antisymmetric tensor. |
+| 15 | **Core.** Suppose a theory had a field of charge q = 0. Show that its covariant derivative reduces to the ordinary derivative, D_μ = ∂_μ, and explain why such a field, if it exists, does not couple to A_μ at all in this minimal-coupling scheme. |
+| 16 | **Challenge.** Using the general argument of Section 2, applied not to a U(1) phase but formally to a transformation φ → φ + α(x)v for a constant vector v (an additive rather than multiplicative local shift), determine what form a compensating "covariant derivative" D_μφ = ∂_μφ − (∂_μα)v would need instead, and explain in one or two sentences why this alternative structure does not describe the electromagnetic case, to clarify by contrast what was special about the multiplicative, phase-rotation structure used throughout this lesson. |
 
 # Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
 
 **1.** A spatial rotation is a global (all points rotated by the same angle) spacetime symmetry. The phase rotation with constant α is a global internal symmetry. A Lorentz boost is a global spacetime symmetry (though, unlike a rotation, it also mixes time and space).
 
