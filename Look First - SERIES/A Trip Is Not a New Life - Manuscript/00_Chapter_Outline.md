@@ -117,7 +117,7 @@ These two chapters also live in *The Universe Has No Now*, as chapters 31 and 32
 |---:|---|---|
 | 43 | **Medicine’s Invoices** | **A43** |
 | 44 | **Adjusting Is Not Spare Capacity** | **A44** |
-| 45 | **Copies, Uploads, and Cold Immortality** | **A45** |
+| 45 | **Copies, Uploads, and the Continuity View I Defend** | **A45** |
 | 46 | **The Honest Body** | **A46** |
 
 ---

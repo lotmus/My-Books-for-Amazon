@@ -1,5 +1,17 @@
 # Status — *A Trip Is Not a New Life*
 
+**Revision, 3 October 2026 (review response; Perplexity overall 8.4).** Kitchen date for the text is now October 2026. Backups of every pre-revision file: `D:\bak\2026-10-03 trip revision\` (SHA256SUMS.txt).
+
+- Front matter: fourth tag **Contested** (consciousness, uploading, long-range economics, social forecasts); new one-page **Claims Guide** table (claim, temperature, evidence, uncertainty, where sourced); helium defined as a word for claims, not people.
+- New `12_Notes.md`: 49 numbered endnotes with working links (DOIs checked through Crossref; NASA, ESA, ISRO, JAXA, NHGRI and journal pages checked 3 Oct 2026). Markers are `[^key]` in the md; the builder numbers them by first appearance and adds back-links.
+- New `13_Also_By.md`: the Also-by page, now built from source (it was patched into the docx on 2 Oct).
+- Chapter 12: seven-loop scorecard table (Figure 12a: sortie, ISS-like outpost, Antarctic base, lunar camp, city claim). "Cargo-cult test" renamed **cut-cable test** everywhere.
+- Chapter 45 rewritten as **Copies, Uploads, and the Continuity View I Defend** (psychological continuity, pattern identity and Parfit given first; tagged Contested). A45 has a case table.
+- Refrains: one per area (airlock: opening and space; seven rows: settlement; receipt: Ch 43; file vs worldline: Ch 45). Repeated restatement blocks cut in Ch 12, 28, 43, 44.
+- Optimists steelmanned before disagreement (Ch 2, 4, 10–12, 33, 39); poster, founder, helium, cargo cult and inventory fraud mostly gone.
+- Fact updates: Artemis II flown (Apr 2026); Artemis III Earth-orbit test, landing 2028 and 20 Sep memo; Gateway paused (Mar 2026); SpaceX Moon-first (Feb 2026); ER-100 first patient dosed (Jun 2026); TAME not yet enrolling; genome cost (NHGRI: about $2.7B, under $1,500 by 2015); GPS clock numbers per Ashby; US Mars landing record; ISS water recovery about 98%; Jonathan about 194.
+- Builder: one paragraph per source line (the old docx had paragraphs up to 23,000 characters), run-in subheads, linked TOC, linked notes, figure bookmarks and List of Figures, Index of Key Concepts, Kindle-legible tables.
+
 **Current, 30 September 2026.** Shared series reference: `../notes/00_Series_Reference.md`. Cast, places, and the joke: `../notes/00_Series_Cast.md`. Handover: `../notes/HANDOVER.md`. The part files win if this log disagrees.
 
 Book 1 teaches the crew and the library again in its own chapters 31 and 32. Those chapters are lessons, not bridges. This book keeps the same subjects as chapters 25 and 26. Do not tell Book 1 to cut them back.
