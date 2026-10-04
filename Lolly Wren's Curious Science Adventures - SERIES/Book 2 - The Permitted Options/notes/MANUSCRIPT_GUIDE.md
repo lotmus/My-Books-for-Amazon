@@ -562,3 +562,10 @@ Done by the round-5/6 revision agent on top of the uncommitted round-5 lectures/
 - Four 4,718 → 4,489; Twelve 4,735 → 4,562. Total 82,236 → 81,823.
 - Four: merged duplicate Gideon-at-the-kitchen-table paragraphs; removed repeated "two steps wrong, one interestingly" (now only in Fainrose's dialogue); trimmed Mrs Chain re-description, Mrs Kind Thursdays, Eilstein recap.
 - Twelve: removed duplicate account of Soccermann's illness from Eilstein's speech; trimmed Jago drive, Maxwell-demon sentence, van Casteel gallery, notebook drive home.
+
+## Round 13 (2026-10-03) — scene cuts, Ravenna clarity, adversarial reread
+- Four 4,489 → 3,962; Eleven → 3,985; Twelve 4,562 → 3,971 (all under 4k).
+- Four: Fainrose-at-home scene merged to two paragraphs (green-ink warning kept for Ch17); her unfinished letter now reads "Dear Mrs Chain, I am writing to" (matches Thirteen). Mrs Kind accent/Thursdays beats, diode exchange, Eilstein call (merged, "nothing at all" kept), bus scene trimmed. Mrs Chain Tuesday "Not resolved. Speak to her." card kept.
+- Eleven: "list that ends" exchange, board paragraph, repeated "688 years" cut; "Earthed at both ends, son" kept (Ch14 callback).
+- Twelve: Ravenna line keeps "before I was born" and now states the inheritance in place ("I have that winter only as the one who carried this before me left it to me, with the rest of what I carry"). Gideon stairwell, Miss Pike "outnumbered", "truth or something better" exchange, cylinder thought cut; Soccermann bio, Jago drive, Mullard paragraph, mine-cage ending trimmed. Continuity: "under Miss Pike's seven steps" → "beside the bench".
+- Adversarial: three "Nobody said/moved/spoke" filler beats removed; minor redundancies trimmed.
