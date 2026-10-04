@@ -10,7 +10,7 @@ Hungary supplied the clearest self-description of the trend. Viktor Orbán, in p
 
 *Saying the strategy's name out loud in advance did not appear to blunt its effectiveness in the slightest, which dolphin scholarship considers the most unsettling detail in this chapter.*
 
-In the United States, a crowd seeking to overturn the certified result of the 2020 presidential election stormed the Capitol building on January 6, 2021, the first time since the War of 1812 that the building had been breached by force.
+In the United States, a crowd seeking to overturn the certified result of the 2020 presidential election stormed the Capitol building on January 6, 2021, the first time the building had been overrun since British troops burned it in 1814.
 
 Dolphin historians find “backsliding” a rather gentle word for the phenomenon it describes, in the tradition of calling a collapsing bridge “structurally disappointing,” but concede the restraint is at least consistent with how this species prefers to name its own unravelings.
 
@@ -20,10 +20,10 @@ There is a precedent, and it is not comforting. The last time a new medium made 
 
 The COVID-19 pandemic, beginning in late 2019 and killing at least seven million people worldwide by confirmed counts alone (excess-mortality estimates run substantially higher), served as an unplanned stress test of institutional trust across nearly every country on Earth simultaneously, and the results varied enormously by country in ways that tracked existing measures of institutional trust more closely than they tracked wealth or scientific capacity.
 
-The old habits were not retired, only mislaid. In February 2022, Russia launched a full-scale invasion of Ukraine, the largest war in Europe since 1945, and for well over a decade before it the annual surveys of political freedom had recorded more countries declining than improving. Dolphin historians, who have seen this pattern before, decline to say how it ends.
+The old habits were not retired, only mislaid. In February 2022, Russia launched a full-scale invasion of Ukraine, the largest war in Europe since 1945. Dolphin historians, who have seen this pattern before, decline to say how it ends.
 
-*“This chapter is deliberately left less resolved than the others,” dolphin historians noted, “because the humans involved have not resolved it yet. Dolphin scholarship declines to render a verdict on an argument still in progress.”*
+The ratchet, meanwhile, has not paused. The same decades produced machine learning systems that write, draw, and argue, synthetic biology that can be ordered by mail, and weapons that choose their own targets. The capabilities arrive as global products. The judgment about using them is still exercised one country, one company, and one election at a time.
 
 **Dolphin verdict:**
 
-*Every prior chapter in this book describing a struggle over how power should be organized reached some kind of resolution in the end, however costly or incomplete. This is the first chapter dolphin historians close without one, because the argument it describes is still being had, in real time, in the same news cycles the argument itself runs on. History has not finished grading this chapter's outcome, and neither, honestly, have the dolphins.*
+*Nearly every earlier chapter in this book describing a struggle over how power should be organized reached some kind of resolution in the end, however costly or incomplete. This one dolphin historians close without any, because the argument it describes is still being had, in real time, in the same news cycles the argument itself runs on. History has not finished grading this chapter's outcome, and neither, honestly, have the dolphins.*

@@ -2,11 +2,11 @@
 
 For nearly all of Homo sapiens' existence, there was no such thing as home in the modern sense — only a range, walked and re-walked with the seasons.
 
-That changed, independently, in several places at once, starting around 10,000 BCE, in what looks in hindsight like the least likely revolution in the whole book: humans decided to stay near where the wild wheat and barley already grew, in the Fertile Crescent stretching through parts of today's Iraq, Syria, Turkey, and the Levant.
+That changed, independently, in several places over several thousand years, starting around 10,000 BCE, in what looks in hindsight like the least likely revolution in the whole book: humans decided to stay near where the wild wheat and barley already grew, in the Fertile Crescent stretching through parts of today's Iraq, Syria, Turkey, and the Levant.
 
-The story is not quite as tidy as fields first, temples later. At Göbekli Tepe in southeastern Turkey, hunter-gatherers who had not yet domesticated a single crop raised rings of carved limestone pillars, some weighing many tons, around 9600 BCE, more than a thousand years before farming is currently dated in the same region. Whether feeding the crowds who gathered to build it helped tip the balance toward planting deliberately, reversing the usual story in which farming comes first and temples follow, is a question archaeologists have not settled.
+The story is not quite as tidy as fields first, temples later. At Göbekli Tepe in southeastern Turkey, hunter-gatherers raised rings of carved limestone pillars, some weighing many tons, around 9600 BCE, before any fully domesticated crop appears in the region. Whether feeding the crowds who gathered to build it helped tip the balance toward planting deliberately, reversing the usual story in which farming comes first and temples follow, is a question archaeologists have not settled.
 
-Rice was domesticated separately in China, starting by roughly 8000 BCE. Maize, beans, and squash came together in Mesoamerica. Yams and taro were domesticated in New Guinea. None of these groups had contact with each other. All arrived, on their own clocks, at the same idea.
+Rice was brought under cultivation separately in China's Yangtze valley, in a process that was under way by about 7000 BCE and took thousands of years to produce fully domesticated rice. Maize, beans, and squash came together in Mesoamerica. Yams and taro were domesticated in New Guinea. None of these groups had contact with each other. All arrived, on their own clocks, at the same idea.
 
 One domestication in this chapter predates all of them and involved no crop whatsoever. Wolves and humans had struck their own bargain at least 15,000 years ago, well before the first wheat was ever planted on purpose, arriving uninvited to a chapter otherwise about fields and grain as proof that not every alliance in this book needed a harvest to get started.
 
@@ -30,7 +30,9 @@ What farming lacked in individual health it made up in sheer output. A patch of 
 
 *“This was the book's first trade of quality for quantity,” dolphin historians noted. “It would not be the last.”*
 
-*“The hunter-gatherers,” the Society recorded, “voluntarily tied themselves to fields and spent the next ten thousand years worrying about property.”*
+**From the minutes of the Society:**
+
+*Motion: that farming was a mistake. For: eleven pods. Against: nine. Abstaining: four, on the grounds that without farming there would be no fishing fleets, and the Society has never decided how it feels about fishing fleets. Human scholars divide the same way. The geographer Jared Diamond called agriculture “the worst mistake in the history of the human race” in a 1987 essay; most archaeologists consider the verdict too sweeping, since the same fields fed the cities, the writing, and the medicine that later chapters describe. The motion was carried, narrowly, by the half of the quorum that was awake.*
 
 Villages could not be un-invented once the population had grown to fit them. There was no more room upstream to walk back to.
 

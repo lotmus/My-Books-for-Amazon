@@ -12,7 +12,7 @@ Fire did three things at once, and dolphins rank them in order of surprise.
 
 It cooked food. Cooking breaks down tough fibers and denatures proteins before a single tooth gets involved, meaning more calories extracted per bite and less of the day spent chewing. Some researchers tie this directly to the brain's later growth spurt — a brain is metabolically expensive, and cooking may have been what first paid the bill.
 
-The primatologist Richard Wrangham has argued at length that cooking did more than feed the brain: it reshaped the whole animal, shrinking the teeth and the gut and freeing hours of the day, and made Homo erectus, in a sense, a species defined by dinner. The argument is contested, as most arguments about deep time are, and dolphin scholarship finds it entirely plausible.
+The primatologist Richard Wrangham has argued at length that cooking did more than feed the brain: it reshaped the whole animal, shrinking the teeth and the gut and freeing hours of the day, and made Homo erectus, in a sense, a species defined by dinner. The argument is contested, as most arguments about deep time are, because firm evidence of controlled fire is patchy at the very date the theory needs it most. Dolphin scholarship finds it plausible and not proved.
 
 It pushed back the night. A fire is the first porch light: a circle of visibility and warmth a hominin band could sit inside after dark, when every other diurnal (day-active) primate was hiding.
 
@@ -24,9 +24,7 @@ By 1.7 million years ago, Homo erectus was making the Acheulean hand axe: a symm
 
 Fire did one more thing that took stone tools by surprise. At Pinnacle Point on South Africa's coast, toolmakers learned to bury certain stone in a bed of coals for a slow, controlled bake before knapping it, a heat treatment that made silcrete flake more predictably into sharper, thinner blades. The earliest confirmed example dates to around 164,000 years ago. Cooking improved the meal; this improved the knife that helped make the meal possible — heat spent on the tool instead of the dinner, a use nobody, dolphin or human, would have predicted from a species that had only just learned to keep a flame alive.
 
-Language almost certainly came later and slower than either fire or stone, and dolphins are candid that nobody, human or dolphin, knows exactly when. What is certain is that a species sitting in circles, handling shared tools, teaching a hand axe's proportions to the next generation without a single word written down, already needed something well beyond grunts.
-
-Dolphins, watching all this from offshore for once quite literally, since early hominin sites cluster near African lakes and rivers, noted the smoke first.
+Language is the hardest of the three to date, because words leave no bones. Some researchers think the capacity for complex speech was already present in the common ancestor of Neanderthals and modern humans, more than half a million years ago; others argue for something much later. Nobody, human or dolphin, knows. What the evidence does show is a species sitting in circles, handling shared tools, and teaching a hand axe's proportions to the next generation, and that already required some way of sharing what one mind knew with another.
 
 **Dolphin verdict:**
 
