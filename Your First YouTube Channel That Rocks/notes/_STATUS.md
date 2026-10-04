@@ -2,6 +2,13 @@
 
 ## Current state
 
+**Update 2026-10-04, re-auditing my own fixes caught two new problems:** Asked to audit again after the Thaler fix. Re-reading my own prior edits (not just the mechanical checks) turned up two self-inflicted issues:
+
+1. The Deep Pocket Monster reframe (fix #2 below) had turned into a dense, grammatically-correct-but-ugly run-on with a redundant "on its own... by itself" said twice in one sentence. Split it into two plain sentences and cut the duplicate phrase.
+2. The Colin-and-Samir cross-reference (fix #5 below) was worse than the problem it solved: it inserted meta-commentary about the book's own citation choices ("cited again here because...not because their numbers repeat by accident") directly into the `> Case study:` callout's narrative voice — no other case study in the book talks about why the book is citing it. Moved that acknowledgment out of the case study and into the chapter's Sources paragraph, where this kind of methodological note already lives (next to "this book has not independently audited them"), and restored the case study itself to clean narrative prose matching every other one.
+
+Lesson for next time: a fix for an audit finding needs its own quick adversarial read before it ships, not just confirmation that the original finding is gone.
+
 **Update 2026-10-04, one more fix (on top of PR 63 below):** User flagged that the *Thaler v. Perlmutter* in-text mention named two individuals (Thaler, the AI developer; Perlmutter, the Register of Copyrights) who are not YouTube creators and have no channel to lead with instead — unlike the case-study convention's exception, this citation isn't a case study at all, just a legal citation supporting the human-authorship rule in ch10 §VII. Reworded the body sentence to describe the ruling without naming the case ("a case over copyright for a purely AI-generated image" instead of "*Thaler v. Perlmutter*"); left the full case citation, names included, in the Sources paragraph only, where a legal citation needs the real case name — same treatment the h3h3Productions case study already gets (channel name in the body, the case's party names only in Sources).
 
 **Update 2026-10-04, adversarial review pass (supersedes nothing, adds fixes on top of PR 62):** Asked to review the merged book as a deliberately critical reviewer rather than a mechanical checker. Found and fixed six issues:
