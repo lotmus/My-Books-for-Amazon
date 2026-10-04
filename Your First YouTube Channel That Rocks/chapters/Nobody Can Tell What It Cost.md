@@ -80,11 +80,16 @@ Chapter 4, §IV has the checklist for recording a screen people can read.
 
 ## VII. The side door: generated footage, presenters, and voices
 
-Text-to-video tools, generated presenters, and voice tools change monthly, so this edition names none. Use one only for the shot the default stack cannot make. Before you do, answer the five questions in §I, plus three more:
+Text-to-video tools, generated presenters, and voice tools change monthly. Use one only for the shot the default stack cannot make. Before you do, answer the five questions in §I, plus three more:
 
 - **Can free-tier output be monetized?** Some tools reserve commercial use for paid plans. The pricing page is not the license.
 - **Does the result look real?** Realistic generated people, places, or events need the AI use setting (chapter 10, §VII).
 - **Whose face or voice is it?** See the callout below.
+
+Two examples, so the questions have something to bite on. They are not endorsements, and both pages were read in October 2026; plans and credits change, so open them again before you choose.
+
+- **Voice: [ElevenLabs](https://elevenlabs.io/pricing).** Text to speech, sound effects, music, and voice cloning. The pricing page lists a free plan at $0 with 10,000 credits a month, and puts the Commercial License and Instant Voice Cloning on the paid Starter plan ($6 a month) and above. That answers the first extra question: free-tier narration is for trying the tool, not for a monetized video.
+- **Footage: [Runway](https://runway.com/pricing).** Text-to-video and image generation. The pricing page lists a free plan with 125 one-time credits, and a Standard plan at $15 a month ($12 billed yearly) with 625 credits a month, listing “No watermarks” among its features. Runway’s [terms of use](https://runway.com/terms-of-use) say the company does not claim ownership of your outputs and does not restrict their commercial use, subject to the agreement, and that inputs and outputs may be used to train its models. Do not upload footage you have no right to share.
 
 If a tool accepts reference images, attach the same set to every shot in one video, so a host looks like one person. Expect two or three regenerations per usable clip. Free tiers reliably make abstract motion and stylized animation, and reliably fail at realistic faces, lip sync, and more than a few consistent seconds (creator heuristic).
 
@@ -109,4 +114,4 @@ Official rule: [YouTube’s monetization page](https://support.google.com/youtub
 
 ---
 
-*Sources: [YouTube recommended upload encoding settings](https://support.google.com/youtube/answer/1722171). [Audio Library](https://support.google.com/youtube/answer/3376882). [Monetization overview](https://support.google.com/youtube/answer/94522) (rights statement). [Supported caption formats](https://support.google.com/youtube/answer/2734698) and [automatic captions](https://support.google.com/youtube/answer/6373554). [Disclosing AI use](https://support.google.com/youtube/answer/14328491). Tool facts are from each tool’s own page, opened October 2026: [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [CapCut Terms of Service](https://www.capcut.com/clause/terms-of-service), [Pexels license](https://www.pexels.com/license/), [Pixabay content license](https://pixabay.com/service/license-summary/), [Uppbeat pricing](https://uppbeat.io/pricing) and [user agreement](https://uppbeat.io/user-agreement), [OBS Studio](https://obsproject.com/). Pricing, licenses, and features change.*
+*Sources: [YouTube recommended upload encoding settings](https://support.google.com/youtube/answer/1722171). [Audio Library](https://support.google.com/youtube/answer/3376882). [Monetization overview](https://support.google.com/youtube/answer/94522) (rights statement). [Supported caption formats](https://support.google.com/youtube/answer/2734698) and [automatic captions](https://support.google.com/youtube/answer/6373554). [Disclosing AI use](https://support.google.com/youtube/answer/14328491). Tool facts are from each tool’s own page, opened October 2026: [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [CapCut Terms of Service](https://www.capcut.com/clause/terms-of-service), [Pexels license](https://www.pexels.com/license/), [Pixabay content license](https://pixabay.com/service/license-summary/), [Uppbeat pricing](https://uppbeat.io/pricing) and [user agreement](https://uppbeat.io/user-agreement), [OBS Studio](https://obsproject.com/). AI examples: [ElevenLabs pricing](https://elevenlabs.io/pricing), [Runway pricing](https://runway.com/pricing) and [terms of use](https://runway.com/terms-of-use). Pricing, licenses, and features change.*
