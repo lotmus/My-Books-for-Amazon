@@ -19,7 +19,7 @@ Merged 1 October 2026. This folder is the only home of the KDP/self-publishing b
 
 ## Rules
 
-- Author: Lothar J. Musiol.
+- Author: the pen name “Kevin Drew Peters” alone, as Lothar decided on 2026-10-03. Use it on the cover, title page, copyright line, also-by heading, About the Author, KDP files and the build script (`AUTHOR`); no real name in the book.
 - The companion *Your First YouTube Channel That Rocks* (formerly *…That Sells*) is a separate book in its own folder.
 - Facts last rechecked 3 October 2026 (see `notes/REVISION_2026-10-03.md`). Recheck KDP Help before every upload.
 - Every platform claim carries a numbered note [n]; every claim is labelled Platform rule / Worked example / Field practice / Recommendation / Test it yourself.
