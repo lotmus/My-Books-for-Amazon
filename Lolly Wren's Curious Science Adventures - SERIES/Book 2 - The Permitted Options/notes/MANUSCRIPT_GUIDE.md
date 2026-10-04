@@ -569,3 +569,10 @@ Done by the round-5/6 revision agent on top of the uncommitted round-5 lectures/
 - Eleven: "list that ends" exchange, board paragraph, repeated "688 years" cut; "Earthed at both ends, son" kept (Ch14 callback).
 - Twelve: Ravenna line keeps "before I was born" and now states the inheritance in place ("I have that winter only as the one who carried this before me left it to me, with the rest of what I carry"). Gideon stairwell, Miss Pike "outnumbered", "truth or something better" exchange, cylinder thought cut; Soccermann bio, Jago drive, Mullard paragraph, mine-cage ending trimmed. Continuity: "under Miss Pike's seven steps" → "beside the bench".
 - Adversarial: three "Nobody said/moved/spoke" filler beats removed; minor redundancies trimmed.
+
+## Line-edit round (2026-10-03, late)
+- Full sentence-by-sentence line edit of Chapters One–Seventeen (story only; lectures and back matter untouched in size; "Also by" list kept).
+- Length: Seven 4,416→4,178 (Gödel citizenship anecdote compressed; Ellen Prosper restatement paragraph cut); Fourteen 4,268→4,187 (Schwarzschild exposition de-duplicated). Ten, Twelve, Thirteen now under 4k.
+- Warm beats restored (short): Four — Mrs Kind's Thursday early closing ("waiting for something worth closing for"); Twelve — Gideon sits two steps below Lolly in the stairwell after Soccermann.
+- Fixes: multi-paragraph speeches no longer close quotes mid-speech (Six, Seven, Eight, Ten, Eleven, Thirteen, Fourteen); merged-quote glitches joined (Four, Twelve); Fourteen contradiction removed (Lolly both "careful to record" and "let it go unrecorded"); Arakawa double attribution; van Casteel named on the Cumbria phone call; Ramanathan attribution in Twelve; Jago "not since 1919" → 2009; repeated "read it twice" device varied.
+- Tic reduction (story, ~63.7k words): exactly 46→34, very 78→51, which was 54→41, nobody 132→95, "of a man/woman who had" 9→2.
