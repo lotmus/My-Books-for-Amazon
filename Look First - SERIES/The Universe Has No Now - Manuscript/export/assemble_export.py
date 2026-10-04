@@ -28,6 +28,7 @@ PARTS = [
     "09_Part_Nine_Filter.md",
     "10_Part_Ten_Future.md",
     "11_Appendix.md",
+    "12_Notes_and_Sources.md",
 ]
 
 YAML = """---

@@ -36,9 +36,44 @@ A few scenes in this book are stories: a greenhouse on a dead planet, a radio th
 
 The main chapters keep the math in the sentence, the way a good explainer talks at a table. A handful of relations are important enough to number. Those numbered equations live in the Appendix, where the treatment is actually technical: the Friedmann equation, the spacetime interval, the helium calculation, the Bekenstein bound, the energy condition a wormhole has to break. If you want the scaffolding, it is there. If you want the story, you can finish the book without opening the back.
 
-This edition is longer than a Barrow pamphlet on purpose — about four hundred Kindle pages of teaching, not two hundred of outline. The extra is not padding. It is the second trunk, the leftover in the air, the crew that does not sleep, the loop that calls itself I, and a path that refuses a last chapel. The sentences stay short. The inventory grew.
+This edition is longer than a Barrow pamphlet on purpose — a few hundred Kindle pages of teaching, not an outline. The extra is not padding. It is the second trunk, the leftover in the air, the crew that does not sleep, the loop that calls itself I, and a path that refuses a last chapel. The sentences stay short. The inventory grew.
 
 You do not need a physics degree. You need curiosity and a willingness to let “now” come apart.
+
+---
+
+## An Epistemic Map
+
+Before the first chapter, here is the whole book’s method on two pages. Every sentence in it is one of six kinds of claim. The kinds differ in what would have to happen for the claim to be wrong.
+
+| Kind of claim | What makes it that kind | Temperature | Examples in this book |
+|---|---|---|---|
+| **Measurement** | A number read off an instrument, repeated by others | Hot | GPS clocks gain about 38 microseconds a day without correction; the leftover glow is 2.725 K; the ring around M87* |
+| **Tested theory** | A theory that predicted measurements before they were made, in the regime where it was tested | Hot | Special and general relativity in tested regimes; the hot, expanding past; the helium made in the first minutes |
+| **Theoretical extrapolation** | A tested theory pushed into regimes no one has measured | Warm | Black-hole interiors; inflation; the far future of heat death |
+| **Interpretation** | A reading of what a tested theory says exists, which no experiment can yet separate from its rivals | Labeled separately | The block universe; Everett’s branches; Bohm; QBism; presentism |
+| **Open research** | A question being actively measured, where the answer may change soon | Warm, dated | Whether dark energy changes with time; the Hubble tension; what dark matter is; quantum gravity and emergent time |
+| **Speculation** | Allowed by some equations, not selected by any data | Cold | Time machines; hopping between branches; other bubbles; continuity through uploading |
+
+**How hot, warm, and cold map onto it.** Hot covers the first two rows: measurements and theories that have survived the tests they could have failed. Warm covers the third and the fifth: extrapolations of good theories, and open research that the next survey may settle. Cold is the last row. Interpretations sit to one side, because their temperature is not about evidence at all. The block universe, for instance, is not warmer or colder than a hidden “now”; both fit every measurement. This book prefers the block for reasons of economy and says so. Whenever the text crosses from physics into interpretation, a shaded box marked **Physics vs philosophy** shows where the line falls: what the evidence establishes, what this book infers, and what would change the verdict.
+
+**Dated claims.** Open research moves. Boxes marked **Status as of October 2026** give the numbers for dark energy, the Hubble tension, dark-matter searches, and string theory as they stood when this edition was finished. If you are reading much later, check those boxes first.
+
+**Where rivals get heard.** When the book declines a view (presentism, Copenhagen, QBism, Bohm, collapse models, the strong anthropic principle, multiverse arguments, survival by uploading), it first gives the view’s strongest case, then what the view gets right, then why the book still declines it.
+
+**Notes.** Superscript numbers link to the Notes and Sources at the back, which give the primary paper or an authoritative review for each key claim, with links, followed by a bibliography arranged by chapter. Tap the number at the start of a note to return to the page you came from.
+
+---
+
+## Four Reading Paths
+
+**The general reader.** Read straight through. Skip the shaded boxes on a first pass if you like; the chapters make sense without them. Seven spacetime diagrams carry the geometry: start with Spacetime Diagram 1 in Chapter 1 and Spacetime Diagram 2 in Chapter 3, and the rest will read easily.
+
+**The physics reader.** Read Part I quickly, then Parts II to V with the Appendix open beside them; each chapter has a matching appendix note (Chapter 9 with A9, and so on) where the equations live. The status boxes in Chapters 8, 17, 18, and 39 and the Notes give the current numbers and sources.
+
+**The philosophy reader.** Read Chapters 1 to 6, then 35 to 37, 40 to 42, and 44 to 45. The **Physics vs philosophy** boxes in Chapters 6, 15, 35, 40, 41, and 44 mark each step from a physical result to an interpretation, and the rival views are stated in their strongest form before they are declined.
+
+**The skeptical reader.** Start with this map and the status boxes. Then read the hot/warm/cold summaries at the end of each chapter, and check any claim that matters to you against its note. Where this book takes a side (the block, Everett, a filter rather than a purpose), it says that it is taking a side.
 
 ---
 
@@ -84,7 +119,11 @@ This book is about what replaces the kitchen clock once you take Einstein seriou
 
 If you have ever stood outside at night and felt, for a second, that the dark was not empty but *late* — that you were looking into travel time — you already have the instinct this book is going to use.
 
-The kitchen already contains a proof, if you will let a phone be a proof. GPS clocks in orbit run fast compared with clocks on the ground, once you have subtracted the special-relativistic slowing that comes from their speed. The two corrections are tens of microseconds a day, opposite in sign, and if you skip them your map slides into a ditch. Those microseconds are the same mathematics that refuses a shared now on Andromeda. The casserole still comes out on time. The cosmos does not share the timer.
+The kitchen already contains a proof, if you will let a phone be a proof. GPS clocks in orbit run fast compared with clocks on the ground, once you have subtracted the special-relativistic slowing that comes from their speed. The two corrections are tens of microseconds a day, opposite in sign, and if you skip them your map slides into a ditch.[^1] Those microseconds are the same mathematics that refuses a shared now on Andromeda. The casserole still comes out on time. The cosmos does not share the timer.
+
+Here is the whole argument in three sentences, so you can hold the book to it:
+
+**Relativity gives us events, intervals, worldlines, and causal limits, not a universal present. Cosmology gives us evidence and open problems, not destiny. Meaning remains local, optional, and real.**
 
 Mara will leave that kitchen. Eli will keep the clock. The dark, if you have stood outside and felt it, is not empty. It is late.
 
