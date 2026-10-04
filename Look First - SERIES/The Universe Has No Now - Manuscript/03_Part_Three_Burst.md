@@ -8,10 +8,6 @@ The leftover glow and the leftover helium make the hot, expanding past look inev
 
 The first is the *horizon problem*. Look at the microwave sky in two opposite directions. The temperatures match to a part in a hundred thousand. For two patches to agree that tightly, they usually need to have talked — to have exchanged light, mixed, come to terms. In the simple hot bang, those opposite patches have never been in each other’s past light cones. They are like two strangers who have never met and have never had a friend in common, wearing the same shirt to the same size. You can call it a coincidence. Physicists get hives.
 
-The kitchen version is two thermometers.
-
-Tape one to the wall above the stove. Tape the other to the wall by the back door. They agree to a part in 10⁵. In an ordinary kitchen that is not a miracle. Air mixed. Light bounced. The fan ran. The two walls have been in conversational range for hours. Now shrink the time the kitchen has existed until light from the stove has not yet had a chance to reach the door. The thermometers still agree. That is the horizon problem, moved off the sky and onto tile.
-
 At 380,000 years, when the fog lifted and the leftover glow set out, a causal horizon — the farthest a light signal could have traveled since the simple bang began — was a small patch on the sky we photograph now. A couple of degrees. A thumbnail at arm’s length. The whole dome of the microwave sky is not a couple of degrees. Opposite patches sit a hundred thumbnails apart, and then some. The causal horizon at last scattering is much smaller than the sky. In the simple bang, the patches labeled A and B in Figure 12 have never been in each other’s past light cones. They did not mix. They did not come to terms. They still match, to one part in 10⁵, as if agreement were free.
 
 You can try to rescue the simple bang by saying the universe started already even, on scales that had never talked. That is not a solution. That is a shrug wearing a lab coat. It pushes the evenness into the initial conditions and then looks innocent. Physics is supposed to *make* evenness, or at least to inherit it from a time when talking was possible. The simple bang, run backward from the leftover glow, does not give you that time. The leftover glow is a photograph of a single age, the entire sky at 380,000 years. The photograph is too even for the age.
@@ -37,10 +33,6 @@ A magnetic monopole, in this context, is not a bar magnet you can put on the fri
 They are not underfoot. That is a fact you can take to the mailbox. So either the grand theories are wrong about the knots, or the knots were never cooked in our past, or something diluted them by a ridiculous factor — 10²⁵ in entropy, says the appendix, if you want a number to flinch at. Inflation was built, in part, as a dilution machine. Guth was thinking about monopoles when he started. The even sky and the pebble came along as bonuses. The bonuses are now the famous posters. The monopoles are the quiet third bill.
 
 ![Figure 12. A circle for the last-scattering sky. Two opposite patches, A and B. A short mark showing they never met in the simple bang.](Figures/figs/fig12.png)
-
-Imagine the kitchen table at the end of Weinberg’s workshop.
-
-Three envelopes were already paid. The leftover glow exists. The leftover helium exists. The stretch exists. Those are receipts. You can put them in a drawer. Then three more envelopes sit where the casserole should be, unpaid, the kind of bills that do not go away because you cooked a good dinner. One says HORIZON. One says FLATNESS. One says RELICS. The three-minute workshop did not write checks for them. It was not that kind of workshop. It reconstructed a soup. It did not explain why the soup’s bowl was so round, so even, and so empty of monsters.
 
 Weinberg paid the nuclear minutes. He paid them with the same nuclear physics we still use in stars and in laboratories, and the helium still sits in the account. These three remain. They are not evidence that the workshop was a fiction. They are evidence that the workshop started with a table already set, and nobody at the table could say who set it.
 
@@ -92,8 +84,6 @@ Repulsive, here, is not a personality. Einstein’s gravity, for ordinary stuff,
 
 Alan Guth’s first version had a graceful-exit problem: the burst did not know how to stop without making a mess. Andrei Linde, and independently Albrecht and Steinhardt, found a smoother hill for the field to roll down — *slow-roll*. Linde later suggested that the starting values of the field could be chaotic, different in different places, some patches inflating a lot, some not. That idea will grow a maybe-multiverse in Chapter 15. Do not let it jump the line. The *local* burst is the working theory. The froth of other bursts is a rumor the local burst can tell if you let it drink.
 
-The graceful-exit problem, said without kindness, is this. Guth’s 1980 boil-over happened in pockets. True-vacuum bubbles nucleated in a false-vacuum sea and did not fill space without leaving walls and wreckage. The burst that was supposed to set the table set a junkyard instead. In 1982, Linde, and independently Albrecht and Steinhardt, flattened the hill. The whole patch rolls slowly together. New inflation, slow-roll. That is the working picture, the one whose job description still fits the leftover glow. Old inflation is a historical kindness we owe Guth for asking the question. It is not the pot we cook with.
-
 What inflation has not done: name the field. We have no particle in a detector called the inflaton. We have a shape that works and a sky that looks like the shape predicted. That is more than a mood and less than a conviction. Appendix A13 writes the e-folds and the slow-roll parameters. Here it is enough to know that “inflation” is not a brand. It is a job description: a brief, repulsive stretch that sets the table for the hot bang we can actually reconstruct.
 
 A humility from 2014 belongs on this page, because poster-inflation hates humility and the sky does not.
@@ -136,8 +126,6 @@ Mukhanov’s name is on the variable that lets you quantize the twitch in an exp
 
 ![Figure 14. One nearby spiral, disk filling the frame. A quantum twitch, stretched and pulled for thirteen billion years.](Figures/figs/fig14.png)
 
-A detail that should not be allowed to stay abstract: the twitch is not a metaphor for “something small.” It is the same kind of uncertainty that keeps an electron from having a definite path in a wire. Inflation is the amplifier. Gravity is the sculptor. You are a later exhibit.
-
 The timeline of exhibits, kept at the right temperature:
 
 Hot: the leftover glow has freckles whose statistics we have measured. Their amplitude and tilt are numbers, not adjectives.
@@ -158,8 +146,6 @@ Between the freckles and the first stars there is a long, dark kitchen.
 
 Last scattering is 380,000 years. The first stars, warm, are 100 to 200 million years. In between, the universe is not empty of stuff. It is empty of light worth a name. Neutral hydrogen, leftover helium, the extra pull gathering in the dark, the stretch still going. Lumps that were 10⁻⁵ too dense in the glow become, slowly, lumps that can cool. Cooling is the unglamorous step. Gravity pulls. Gas that can radiate away its heat can keep falling. Gas that cannot stays puffy and fails. The first stars are the first successful coolers, not the first lumps. JWST’s later exhibits have already inherited metals from coolers that died. That inheritance is why a sharp galaxy at high redshift is not a photograph of the nick. It is a photograph of a kitchen after several meals.
 
-You cannot, in a laboratory, stretch a quantum jitter until it is a spiral and then wait out the sculptor. The amplifier is a burst we cannot turn on. The sculptor’s hours are cosmological. What we can do is measure the intermediate photograph, write *P(k)* with *A_s* ~ 2 × 10⁻⁹ and *n_s* ≈ 0.965, and check that gravity, given that score, grows a web that looks like the surveys of Chapter 16 and a disk that looks like Figure 14. That check is the warm claim at its most responsible. It is not a time-lapse. It is a courtroom with two exhibits and a lot of math between them.
-
 Hot claim: the leftover glow has a pattern of freckles whose statistics we have measured. Warm claim: those freckles are stretched quantum jitters, grown by gravity into galaxies. Cold claim: we have watched a twitch become a spiral in a laboratory. We have not. We have watched the intermediate photograph and done the math. That is allowed to be enough, if we say so.
 
 ---
@@ -174,7 +160,7 @@ This is eternal inflation, Linde’s and Vilenkin’s child, Guth’s grown rumo
 
 The kitchen is a pot that keeps boiling in the next room.
 
-You live in the room where the pot already dumped into soup. The soup is the leftover glow, the leftover helium, the stretch, the galaxies. In the next room — a room whose door is not a door, because the stretch between rooms is not a hallway you can walk — the original pot may still be boiling over. New dumps, new soups, new leftover glows that are not ours. You cannot go there. A bubble is not a destination. It is not a planet with a pad. It is a volume that reheated, or a volume that has not, separated from you by a stretch that does not sell tickets. Chapter 25 will talk about greenhouses on worlds you can, in principle, point at. This chapter is not that chapter. Bubbles are a maybe about the loaf, not a travel brochure.
+You live in the room where the pot already dumped into soup. The soup is the leftover glow, the leftover helium, the stretch, the galaxies. In the next room — a room whose door is not a door, because the stretch between rooms is not a hallway you can walk — the original pot may still be boiling over. New dumps, new soups, new leftover glows that are not ours. You cannot go there. A bubble is not a destination. It is not a planet with a pad. It is a volume that reheated, or a volume that has not, separated from you by a stretch that does not sell tickets. Bubbles are a maybe about the loaf, not a travel brochure.
 
 A destination has a worldline you can aim at. A bubble that nucleated elsewhere, behind a stretch that has been doubling for longer than our soup has existed, does not. Light from that bubble does not arrive. A ship does not arrive. The word “neighbor” in the cold claim at the end of this chapter is a courtesy and a trap. Neighbors, on Earth, share a street. These would share only a mathematics.
 
@@ -184,15 +170,13 @@ If the underlying physics has many ways to stop — many valleys for the field t
 
 Do not write the filter here. Chapter 41 will have to say, carefully, what an ensemble is allowed to explain and what it is only allowed to excuse. Here it is enough to see why Weinberg’s Λ is lonely without company. A vacuum energy — a hum of energy that empty space carries even with nothing in it — as small as the one we weigh is a joke if it is a unique, first-principles output of a theory. It is less of a joke if many vacua are tried and we can only find ourselves in one that still makes galaxies. That sentence is a pointer, not a proof. The pointer needs two things this chapter can name and cannot certify: a bursting that never quite stops, and a menu of valleys. The bursting is eternal inflation, Linde and Vilenkin, a live maybe. The menu, in its most advertised form, is a landscape inherited from string theory.
 
-Weinberg, in 1987, asked how large a cosmological constant could be before galaxies fail to form. The answer is: not much larger than what we weigh. That is an upper bound from the existence of galaxies, not a calculation of the vacuum from first principles. An upper bound of that kind is idle unless many values are tried. One universe, one Λ, and Weinberg’s bound is a coincidence we live inside. Many bubbles, many Λs, and the bound becomes a filter: we could not have found ourselves in the bubbles that shoved too hard, too soon. Chapter 41 is the filter chapter. This chapter only points at the drawer the filter would need. Do not open the drawer and call it a house. Do not write the filter’s sentences here. Point, and leave the pointing visible.
+Weinberg, in 1987, asked how large a cosmological constant could be before galaxies fail to form.[^30] The answer is: not much larger than what we weigh. That is an upper bound from the existence of galaxies, not a calculation of the vacuum from first principles. An upper bound of that kind is idle unless many values are tried. One universe, one Λ, and Weinberg’s bound is a coincidence we live inside. Many bubbles, many Λs, and the bound becomes a filter: we could not have found ourselves in the bubbles that shoved too hard, too soon. Chapter 41 is the filter chapter. This chapter only points at the drawer the filter would need. Do not open the drawer and call it a house. Do not write the filter’s sentences here. Point, and leave the pointing visible.
 
 The landscape, in its most advertised form, comes from string theory. **String theory cannot currently be tested.** A landscape of valleys inherited from an untestable framework is not a measurement. It is a maybe stacked on a maybe. This book will let the stack sit on the table. It will not serve it for dinner.
 
 ![Figure 15. Three large circles in a spreading field. A picture of a possibility.](Figures/figs/fig15.png)
 
 Figure 15 is a picture of a possibility. It is not a map. Maps have distances you can travel. These circles do not.
-
-If you find yourself packing a bag for a bubble, put the bag down. Chapter 6 already took away a single now. Chapter 3 already made light late on purpose. A bubble that is not in your past light cone is not late mail. It is elsewhere, in the technical sense, and then some: the stretch between dumped soups can put them out of every future cone you will ever occupy. That is why bubbles are not destinations. Destinations, even cruel ones, sit on a worldline you can still draw. These do not.
 
 There is a further rumor: that the bursting has no beginning, that bubble has always begotten bubble. The Borde–Guth–Vilenkin result says otherwise for a wide class of stretching spacetimes: if the average expansion is positive, the spacetime is past-incomplete. Eternal inflation, even if it has no end, still faces a boundary in the past. The bubbles do not give you a free forever-behind-you. They give you a messier loaf.
 
@@ -204,9 +188,15 @@ Volume-weighted counting rewards the patches that stretched longest. Observer-we
 
 Infinity is the rude guest. If the next-room pot never stops, there are infinitely many dumped soups. Infinitely many observers. Infinitely many values of anything you care to count. A ratio of infinities is not a prediction until you say which infinity sits in the denominator. Different measures are different denominators. They are not a minor bookkeeping quarrel. They change what the rumor is allowed to claim. Until one of them is forced on us by a principle we already trust, “the multiverse predicts X” should be read as “some ways of counting would like X.” That is a thinner sentence. It is the honest one.
 
-Past-incompleteness and the measure problem are not the same bill. BGV is about the loaf having an edge behind you. The measure is about not knowing how to average the rooms in front of you, or beside you, if the boiling never stops. You can have an edge in the past and an uncountable froth in the future. That combination is allowed. It is not a comfort. It is a messier loaf, as the earlier paragraph said, and messier is not the same as mapped.
-
 Warm claim: inflation *can* be eternal in many models. Cold claim: it is, and we live in a bubble with neighbors we will never meet. The sky we have does not require the neighbors. It permits them. Permission is not a postcard.
+
+> **Physics vs philosophy: from inflation to a multiverse**
+>
+> **What the evidence establishes.** The leftover glow is even to a part in a hundred thousand, geometrically flat to within a fraction of a percent, and freckled with a slightly “red” spectrum (*n_s* ≈ 0.965).[^21] A brief early burst of stretching explains all three; no inflaton field has been detected, and the swirl pattern (B-modes) that would confirm gravitational waves from the burst has not been seen.[^31]
+>
+> **What some physicists infer.** That many models of the burst never stop everywhere, so other bubbles with other effective constants exist. That is a property of models, extrapolated far past any patch we can observe.
+>
+> **What this book infers.** Eternal inflation is a warm feature of a warm theory and a cold claim about the world. No observation we can make reaches another bubble, unless a bubble collision left a disk-shaped mark on the glow; searches have found none.[^32]
 
 Keep the next-room pot on a back burner, not on the dining table. The local burst of Chapter 13 is the working preface to the soup we can taste. The pot that may still be boiling elsewhere is a maybe that the local burst can tell if you let it drink. Letting it drink is allowed. Paying rent with the drink is not.
 
@@ -226,8 +216,6 @@ The kitchen is a dropped tray of yeast.
 
 Same flour. Same water. Same yeast. The tray hits the floor and the grains go everywhere. Two bakers, starting from two almost identical spills, do not bake the same loaf. One kitchen gets a dense crumb. The other gets holes like a sponge. The ingredients did not change. The sensitivity did the work. Lyapunov, if you want the surname on the sensitivity, is the person who taught mathematics to measure how fast nearby starts stop being nearby. A Lyapunov time is a clock for forgetting. Weather forgets in days. A mixmaster crunch would forget in a scramble of axes. A quantum twitch, stretched and then pulled by gravity for 13.8 billion years, forgets the subatomic room and remembers only a web.
 
-Take two trays. Spill them as identically as a human can. Watch. In a Lyapunov system the difference that was a grain of yeast becomes, after enough doublings of error, a different city of holes in the crumb. The number that measures the doubling is a Lyapunov exponent; its inverse is a time. Weather’s time is short, which is why the kitchen radio stops pretending on day ten. The stretch’s time, for the average expansion, is long, which is why Friedmann still works as a forecast. The mixmaster’s time, near a crunch, is short in the only way that matters: too short to steer. Nearby starts, unrecognizable rooms: that is the whole definition, with a surname attached so nobody can pretend chaos meant “messy feelings.”
-
 At the beginning, chaos is an engine.
 
 The quantum twitch of Chapter 14 is sensitivity as a gift. Stretch it, and you get a web. The cosmic web — filaments of galaxies around voids like holes in a sponge — is what gravity does with a nearly scale-invariant jitter after thirteen billion years. It is not a design. It is what you get when pull is allowed to run on noise.
@@ -235,8 +223,6 @@ The quantum twitch of Chapter 14 is sensitivity as a gift. Stretch it, and you g
 Same engine, two temperatures. At the start, sensitivity is how a nick of size 10⁻⁵ becomes a sponge you can survey. At a hypothetical crunch, sensitivity is how a last decimal becomes a mixer nobody holds. The mathematics is cousin to itself. The moral is not. One gift. One theft. Do not let a poster collapse them into “chaos means we cannot know anything.” We can know the leftover glow. We can know the web’s family. We cannot know, from a grain of yeast, which hole in which loaf. That is the precise kind of not-knowing. It is enough.
 
 The web is not a drawing. It is a survey. The Sloan Digital Sky Survey and the Two-degree-Field survey mapped enough galaxies that the sponge became a fact you could crop and print. Figure 16 is that crop: filaments as dark on light, voids as the light, a later exhibit of the same jitter that freckled the leftover glow. Two nearby starts in the primordial noise — two almost identical spills of yeast — would not grow the same rooms. They would still grow a web. Still a sponge. Different holes. That is chaos as an engine: the family of outcomes is stable, the particular kitchen is not.
-
-A survey is a census, not an anecdote. 2dF, from Australia, and SDSS, from a telescope in New Mexico, redshifted enough galaxies that the sponge stopped being a theorist’s sketch. Filaments, walls, voids: the same family of pattern the leftover glow’s freckles asked for, grown. You can still argue about the second digit of how much extra pull sits in the filaments. You cannot argue that the web is a mood. Figure 16 is a measurement, cropped so a page can hold it. The yeast on the floor is the same measurement, earlier, before gravity baked. Same ingredients. Different loaves, if you spilled twice. One loaf, because we spilled once.
 
 ![Figure 16. A cropped survey map of galaxies, thresholded so the filaments read as dark on light. A web grown from twitches.](Figures/figs/fig16.png)
 
@@ -254,12 +240,8 @@ In the middle — which is where we live — chaos is why forecasts have horizon
 
 Weather versus stretch is the distinction worth taking home. Weather is Lyapunov’s child: a breath here, a different storm next week. The stretch is not that kind of forecast. The Friedmann equations, fed a budget of pull and shove, do not forget their nearby starts on a weather clock. They tell you the dough will keep rising, and, with the shove in the account, rising faster. You can be wrong about the second digit of the Hubble number and still be right that the voids will get ruder. You cannot be a little wrong about a hurricane’s seed and still be right about next Tuesday. Do not confuse the two clocks. One is why you pack an umbrella. The other is why the cosmic web is a fossil in progress.
 
-A kitchen radio that promised you Tuesday’s rain from Monday’s steam would be lying by Wednesday if the Lyapunov time had already run out. A cosmology that promised you the leftover glow from the three minutes is not lying: the soup was mixed, the laws were simple, the clock was short and hot. A cosmology that promised you the weather inside a particular spiral in year 10¹² would be the radio. The stretch forecast is closer to the soup than to the rain. Dull and huge, as the earlier paragraph said. Mercy, if you like mercy. A fossil, if you like fossils. The web we map with SDSS and 2dF is the baking caught mid-loaf. The shove will finish the bake by stretching the tins apart until no new filaments form. That end of the engine is Chapter 18’s personality change. This chapter’s personality is the engine itself.
-
 Barrow would have called the Omega Point an idea for ideas and then, if he were in a kind mood, walked you to the mixmaster and let the mixer do the unkindness. Chapter 19 will do the data. Here the mixer is enough: crunch chaos is a second lock on that door. Nearby starts, unrecognizable rooms. No steering wheel survives the last decimals.
 
 Keep chaos in the book as a tool, not a vibe. It made the rooms. It will not let anyone own the ending. It is the opposite of a watchmaker and the opposite of a destiny. It is what a twitch can do when the universe gives it time.
-
-The dropped tray is still on the floor. Same ingredients. Different loaves. You live in one of them. The leftover glow is the photograph of the spill before the baking. The survey map is the photograph after. In between, gravity did what gravity does with a nick of size 10⁻⁵ and a lot of idle hours. That is an engine. It does not owe you a particular loaf. It owes you the family: webs, not destiny; sensitivity, not mood; a mixer at the far end that nobody steers.
 
 If you want a last kitchen instruction: pick up the tray. Notice that picking it up does not unspill the yeast. The web is already baked into the surveys. The leftover glow is already on the antenna. Chaos, as an engine, has already done the morning’s work. What it will not do, tonight or in a crunch, is hand you a recipe that steers the last decimal. Barrow’s pebble, Guth’s unpaid bills, Mukhanov’s twitch, Linde’s next-room pot, and this dropped tray are one family of honesties. The universe is sensitive. It is not a mood. It is how rooms get made, and why nobody owns the ending.
