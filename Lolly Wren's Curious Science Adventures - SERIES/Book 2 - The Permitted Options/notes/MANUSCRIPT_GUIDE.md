@@ -259,7 +259,7 @@ Do not commit or push unless the user asks. The git root is `My Books for Amazon
 | Glossary | 2330 |
 | Bibliography | 2348 |
 
-## 2026-10-03 round 3, structural (current chapter map)
+## 2026-10-03 round 3, structural (chapter map superseded by round 4 below)
 - 15 chapters and 15 lectures (was 14). Old Chapter Fourteen (10.1k words) is split: Ch14 *The Remaining Possibilities* (the bench, the no-throat call, one folded meeting for liability, the nine and Eilstein's clause, Mrs Tull, the suspension; ends on the unused Post Office pad) and new Ch15 *The Fifteenth Line* (Best Interests meeting, Pike's ledger, Jago's docket, Tengelman, Vienna, the inquiry, Ellen, Larchfield, 9 Feb). Bookmarks ch00-ch14 / lec00-lec14; the lecture list links Chapter Fifteen to lec14.
 - Lolly drives the "who held the pen" thread from Ch10: Fri 14 Aug (127 days) she asks Mavis-9, who reports one certified copy of Schedule 4, requester withheld under Registry Rule 40, sort order non-standard, and tells the requester she asked. Lolly files Form R/40 (refused twice by the Office). Sat 15 Aug Miss Pike tells her "The system says withheld" and does not open her ledger (Pike's concealment, owned in Ch15: "And August.").
 - Suspension (Mon 9 Nov) cuts off the system route: pass stops at 11:02, Mavis-9 says the R/40 appeal has lapsed. After the BI meeting (Thu 12 Nov) Lolly asks Pike as a private person ("Not the system. Your book."). Pike: "I've known since August. I need to be ready." Pike brings the ledger in January; Lolly then asks Jago about his dockets.
@@ -304,3 +304,47 @@ Do not commit or push unless the user asks. The git root is `My Books for Amazon
 | Lecture. Chapter Fifteen | 2351 |
 | Glossary | 2365 |
 | Bibliography | 2384 |
+
+## 2026-10-03 round 4, structural (current chapter map)
+
+- Ch9: Barbarian's visit now happens in his flat above a launderette in Kilburn (Fri 24 Jul, 142). The Office of the President has asked him for a written view of paragraph 11 and sent the stamp; the last collection is 17:30. Pike's Column B ratio (1 : 10¹¹) and Ramanathan's redundancy test are worked out at his kitchen table. At 17:22 he adds a postscript withdrawing paragraphs 3–9 and naming Miss A. Pike (with her permission), and posts it at 17:26. The Office therefore learns about the paragraph 11 rewrite from the department's own side (ch10 notes this).
+- Ch10: Barbarian's first government building since 1993 is Marsham Street, reached on the 98 bus.
+- Ch11: van Casteel's weighing happens on the page in his potash mine west of Whitehaven (340 m, whitewashed gallery; Thu 10 Sep, 108). The Concordance's delegate, Ysolde Marr, brings the archive (a brass cylinder). Weighing spends the part weighed, so she chooses which year to burn: the 212th, a plague year, the best kept. The control archive (bus-timetable marks) reads zero. Fainrose chalks the clause and "A.P." on the gallery wall. The Concordance now holds 399 years. The dewatering pump (40 on / 20 off) is a vibration problem here; ch14's ground loop is a different, electrical one. Mrs Chain's cake moves to Friday; the ch11 countdown ends at 107.
+- Ch12: Drill's 1935 demonstration is condensed into one paragraph.
+- Lecture 11: new note "the price of weighing" (feedback work spends the mutual information; Toyabe et al. 2010, Koski et al. 2014).
+
+| Heading | Index (1-based) |
+|---|---|
+| Chapter One | 47 |
+| Chapter Two | 144 |
+| Chapter Three | 280 |
+| Chapter Four | 409 |
+| Chapter Five | 563 |
+| Chapter Six | 737 |
+| Chapter Seven | 872 |
+| Chapter Eight | 972 |
+| Chapter Nine | 1070 |
+| Chapter Ten | 1198 |
+| Chapter Eleven | 1305 |
+| Chapter Twelve | 1436 |
+| Chapter Thirteen | 1577 |
+| Chapter Fourteen | 1681 |
+| Chapter Fifteen | 1772 |
+| The Lectures | 1939 |
+| Lecture. Chapter One | 1956 |
+| Lecture. Chapter Two | 1973 |
+| Lecture. Chapter Three | 1999 |
+| Lecture. Chapter Four | 2024 |
+| Lecture. Chapter Five | 2051 |
+| Lecture. Chapter Six | 2077 |
+| Lecture. Chapter Seven | 2101 |
+| Lecture. Chapter Eight | 2128 |
+| Lecture. Chapter Nine | 2150 |
+| Lecture. Chapter Ten | 2206 |
+| Lecture. Chapter Eleven | 2238 |
+| Lecture. Chapter Twelve | 2275 |
+| Lecture. Chapter Thirteen | 2326 |
+| Lecture. Chapter Fourteen | 2347 |
+| Lecture. Chapter Fifteen | 2363 |
+| Glossary | 2377 |
+| Bibliography | 2396 |
