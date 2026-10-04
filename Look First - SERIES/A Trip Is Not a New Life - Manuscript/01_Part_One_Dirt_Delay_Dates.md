@@ -70,7 +70,7 @@ Appendix A1 writes delay, dirt, and why this kitchen is not a loaf. Here, keep t
 
 ## 2. A Program Is Not a Poster
 
-A program is not a poster. That is the first temperature.
+A funded program and a pretty picture are different objects. That is the first temperature.
 Hot: people and firms are spending real money to put crews around the Moon, to land on it, to throw a heavy stack that might, if it learns manners, throw more mass than the old horses. Uncrewed landers have already kissed dust in this century. Sample capsules have already come home. China has picked up far-side rock and talked, with partners, about a camp they name like a station. The American ledger has a name too, and a habit of printing a date that later needs a new page. The hardware is not a rumor. The downtown is.
 
 Figure 2. Two stacked panels: a flown stack on a pad in daylight; a skyline rendering. The first is inventory. The second is a wish.
