@@ -26,7 +26,7 @@ plan that uses tools from all of them. The anchor is safely decoupled; 308 of 41
 recovered; the book ends on themes of honest incompleteness ("recoverable, not unharmed") and the
 long cosmological future ("There is no lid").
 
-Structure: Prologue + 18 chapters + Epilogue (the story), then an Appendix of 18 physics lectures
+Structure: Prologue + 19 chapters + Epilogue (the story), then optional back matter titled "For Curious Readers": the Physics Prologue and 18 lessons (Chapter 14 has two, Chapter 15 has none of its own). Since round 8 (2026-10-03).
 (Chapter 14 has two: strings, then entropy and holography), then back
 matter (Glossary, Further Reading, Who Is Who, Author's Note, About the Series).
 
@@ -1872,3 +1872,35 @@ The review fix is in the live Kindle file. Do not restore the previous wording f
 - Eilstein cannot endorse or dismiss Many-Worlds from experience (Everett 1957 came after his 1955 death). His line now reads "being dead has not improved my opinion". The Feynman reference is also worded so the timing works.
 - 4C origin: some singularities "were simply found, a good deal older than anybody's paperwork" (Fainrose, ch6). von Wittenberg's black hole is "small", not "engineered". This matches the 1961 Page time in Book 2.
 - Line fixes in ch4–13: Venn's "Miss—"; the mirror story; the wallpaper colour; notebook word counts; the CHSH "four combinations"; de Broccoli's greeting; one duplicate sentence removed; Dev's fiver is "three years", not a second "since 2019".
+
+## Round 8 (2026-10-03, Lothar's structural decisions)
+- **Chapter 15 split** at the scene break after the Dennis/Gideon radio scene:
+  - Ch15 *It’s Always the Cap*: the Bell result and the radio repair.
+  - Ch16 *Final State Pending*: Beatrix's night, the injunction, the plan, Mrs Chain.
+  - Old 16–18 are now 17–19.
+- **Bookmarks renamed to match:**
+  - Chapter15AlwaysTheCap, Chapter16FinalStatePending, Chapter17TheDecision, Chapter18VeryGoodObituary, Chapter19ThereIsNoLid.
+  - The TOC (19 numbered entries), the lesson back-links ("← Back to Chapter 16: Final State Pending" etc.) and the glossary "(Chapter N)" tags are renumbered.
+  - The glossary's Landauer entry now cites "Lesson 16’s aside on Maxwell’s demon".
+- **Rule/Lesson tags:**
+  - All 18 "Lesson for this chapter" lines are removed, along with the "→ Black-Hole Entropy and Holography" line.
+  - 7 of 18 Rule lines stay, the ones that land as jokes or plot beats: ch6 (4C hotter, smaller, harder to forgive), ch10 (moon / forty-one signatures), ch13 (a committee cannot talk it away), ch14 (the apparatus shares the Ministry's clock), ch17 (cannot unspend the heat), ch18 (seventy-eight per cent of a life), ch19 (there is no lid).
+  - Do not reinstate the others.
+- **Back matter is optional:**
+  - TOC section label "For Curious Readers (Optional)".
+  - Heading "For Curious Readers: The Lessons" (was "Appendix: Lessons").
+  - The intro says it is optional and for after the novel.
+  - The front matter is cut to one short "How to Read This Book": "Three Honest Ways to Read This Book" is removed, along with its TOC entry and the glThree bookmark, which had no links pointing to it.
+- **Links in the novel:**
+  - The 47 visible in-text glossary hyperlinks inside the novel (Prologue to Epilogue) were unwrapped to plain text: no in-text nagging toward the back matter.
+  - The invisible chapter video links stay; 15 remain (ch8, ch16 and ch17 lost theirs in earlier edits).
+  - The glossary entries and bookmarks are untouched.
+- **Gideon's clumsiness gag:**
+  - Setup: ch1 doorframe (shoe-on-threshold cut).
+  - ch2 bus/pram apology cut.
+  - ch9 "before I walked into anything".
+  - Payoffs: ch15 Dennis ("the one who walks into things", "before you walk into something you can't fix") and ch17 Lolly's stock-room door.
+  - The ch16 "did not spill" beat is cut.
+- **Humour:**
+  - Voller-room "direct debit / bank on fire" line.
+  - The panel's "very quiet" is now Pilbeam putting down his pen.

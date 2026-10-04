@@ -13,7 +13,7 @@ Verified 1 October 2026. The novel reads straight through. The lectures follow Q
 
 2044 paragraphs (2 October 2026, after the Preston petition and the two-departments scene), including the title page and the Also by list. Styles in use include Body Text, First Paragraph, Heading 3, Heading 2, Source Code, and Author.
 The 1 October 2026 restore put the cut notebook pages and lecture sections back. Curly quotes were balanced at that save. Re-count them before relying on an older open and close figure.
-Bookmarks `ch00`–`ch15` are Chapter One through Chapter Sixteen. Lecture bookmarks are `lectures` and `lec00`–`lec15`. Glossary terms and the lecture list use those anchors. Eight bibliography entries carry a stable DOI or arXiv link.
+Bookmarks `ch00`–`ch16` are Chapter One through Chapter Seventeen. Lecture bookmarks are `lectures` and `lec00`–`lec14` (15 lectures; `lec04` covers Chapters Five and Six, `lec14` covers Sixteen and Seventeen). Glossary terms and the lecture list use those anchors. Eight bibliography entries carry a stable DOI or arXiv link.
 Heading 2 count of 35 is the check: 16 chapter titles, `The Lectures`, 16 `Lecture. Chapter` titles, `Glossary`, `Bibliography`. There is no Heading 2 called `Physics`.
 
 ## Book format
@@ -61,7 +61,7 @@ The novel's last two story paragraphs are Body Text, not headings: "The Permitte
 Kept on purpose:
 
 - In-story physics explanations
-- The lectures, after Q.E.D., one to a chapter, in chapter order
+- The lectures, after Q.E.D., under "For Curious Readers: The Lectures", in chapter order; two are shared by a pair of chapters (5–6 and 16–17)
 - "What the reader learns", "Going deeper", and "What this chapter was actually showing you", inside the lectures
 - The end-of-chapter notebook recaps
 - Lesson headings say `Lecture. Chapter …` and `What the reader learns`. They do not say `Physics`, `Physics and mathematics`, or `What sticks`.
@@ -467,3 +467,55 @@ Done by the round-5/6 revision agent on top of the uncommitted round-5 lectures/
 - Tengelman: Lolly met him at the Board of Inquiry (Book 1). The Counsel keeps him on a retainer through the Collegium at Brask.
 - Eilstein says he "carries" eleven thousand years. He does not claim to be that old (ch1 framing).
 - Science wording tightened: spectral-gap undecidability ("no general algorithm"); Arakawa/Esaki dates checked (1957 at age 22, Nobel 16 years later); Kruskal 1960; Casimir sign. Fact-checked the Mental Capacity Act 2005 references s.4(4), s.4(6)(a), s.4(7)(b) and s.1(6).
+
+## Round 9 (2026-10-03, Lothar's structural decisions)
+- **17 chapters, 15 lectures.**
+  - Old Ch5 is split at the scene break before the Vienna session: Ch5 *Mrs Kind Reads the Footnotes* (the Counsel's name, Kind & Farrow, the three papers, Vale) and Ch6 *The Motion Was Carried* (the session, the vote, Tengelman's tram, Ramanathan).
+  - Old Ch15 is split after the Vienna appeal: Ch16 *The Fifteenth Line* (the Best Interests meeting, the ledger, the docket, Tengelman's letter, the appeal) and Ch17 *Nothing Happens on the Ninth* (the Tull inquiry, Ellen, Larchfield, the ninth, the last notebook entry).
+  - Old 6–14 are now 7–15.
+  - Bookmarks ch05–ch14 became ch06–ch15. The new ch05 and ch16 sit on the new headings. The glossary "Monogamy" link points to ch05.
+  - All "Chapter N" references in the lectures and glossary are shifted, except "Book One, Chapter …".
+- **Chapter map:**
+
+  | Chapter | Para |
+  |---|---|
+  | One | 45 |
+  | Two | 142 |
+  | Three | 279 |
+  | Four | 408 |
+  | Five | 562 |
+  | Six | 648 |
+  | Seven | 737 |
+  | Eight | 872 |
+  | Nine | 972 |
+  | Ten | 1070 |
+  | Eleven | 1198 |
+  | Twelve | 1305 |
+  | Thirteen | 1436 |
+  | Fourteen | 1577 |
+  | Fifteen | 1681 |
+  | Sixteen | 1772 |
+  | Seventeen | 1869 |
+  | For Curious Readers: The Lectures | 1940 |
+
+- **Lectures:**
+  - Retitled "For Curious Readers: The Lectures", with an optional-reading intro.
+  - Lecture headings "Lecture. Chapters Five and Six" and "Lecture. Chapters Sixteen and Seventeen".
+- **Eilstein's Ravenna** now reads as inherited:
+  - The widow sat with "the one who carried this before me".
+  - The lie was his predecessor's, and Eilstein "inherited the lie".
+  - Nashville says "whoever was carrying it".
+  - Soccermann says "a woman he had never met and remembered anyway".
+  - Eilstein: "nobody had asked three times since Ravenna, which was before I was born".
+  - "what I carry has been about since the ice went back".
+  - "nothing that carried them has been thin since the Bronze Age".
+  - Keep this framing.
+- **The 209 is deliberate:** Fainrose hears her "two hundred and nine days" match Miss Pike's 209 recorders and has it minuted.
+- **Gideon:**
+  - The ch1 doorframe clank is the setup (the chipped mug is cut).
+  - The ch2 rack/"Furniture had been warned" escalates it (the ch2 clank echo is now "a radio, and Gideon arguing with it").
+  - The ch15 knuckle on the ladder raises the stakes, and it pays off in ch17.
+  - No other clumsiness beats.
+- **"Because":** 48 of the weakest narration uses rewritten (about a third of the ~150 narration uses); the narrator's comic triples are kept.
+- **Humour:** Mrs Kind's Lourdes/Benidorm air (Nashville); Miss Pike boxing "eight times in nine"; Stadthof "promised no more mathematics after the Braid" and the window-sill key.
+- **Continuity:** Nashville's "seven weeks early" is now "five weeks" (matching paragraph 11 "five weeks ago").
