@@ -7,7 +7,7 @@ Reference only — not for publication. Compiled 2026-09-24 from what's actually
 ## Main cast
 
 ### Derek Gent — protagonist, Bureau founder
-- **Age**: late 30s. Seventeen years in the field (Ch1: *"I have been working in this field for seventeen years"*; echoed in the Epilogue).
+- **Age**: late 30s (38, per the Series Seam). Seventeen years in the field (Prologue: *"In seventeen years nobody had ever filed anything in drawer three"*; echoed in the Epilogue — corrected 2026-10-04, the line is in the Prologue, not Chapter 1).
 - **Looks**: build from walking everywhere (no driving licence, mentioned often and unprompted). Same three or four shirts in rotation, always a day past "smart."
 - **Sound**: voice that barely changes register regardless of the news it carries — *"I've been murdered"* and *"would you like tea"* land almost identically. Reads as either extremely calm or extremely alarming depending how well you know him.
 - **Smell**: [not established]
@@ -40,7 +40,7 @@ Reference only — not for publication. Compiled 2026-09-24 from what's actually
 - **Looks**: smaller and neater than Weinstein, precise in a way that reads as buttoned-up rather than fussy. Immaculate handwriting (Trevor once photographed a page of it out of professional jealousy).
 - **Sound**: dry, unhurried, faint Bavarian clip — "learned his English from textbooks and refused, on principle, to soften it for anyone's comfort."
 - **Smell**: [not established]
-- **Attitude**: was once **Weinstein's mathematics professor** (new this session — echoes the real, well-documented Minkowski/Einstein history where Minkowski reportedly called young Einstein a "lazy dog"). Holds the standing, frequently reconfirmed opinion that Weinstein is **"very, very smart and very, very lazy"** — grading his coursework decades ago was the first reliable evidence for both. Works in careful steps where Weinstein works in leaps, and considers this the more honest method. The existing "Three-eighths is not more precise... It's easier, Herbert" exchange (Ch7 Louvre scene) is this exact dynamic already playing out on the page.
+- **Attitude**: was once **Weinstein's mathematics professor** (new this session — echoes the real, well-documented Minkowski/Einstein history where Minkowski reportedly called young Einstein a "lazy dog"). Holds the standing, frequently reconfirmed opinion that Weinstein is **"very, very smart and very, very lazy"** — grading his coursework decades ago was the first reliable evidence for both. Works in careful steps where Weinstein works in leaps, and considers this the more honest method. The existing "Three-eighths is not more precise... It's easier, Herbert" exchange (Ch6, "The Apple Problem" — not a Louvre scene; see the flagged entry below) is this exact dynamic already playing out on the page.
 
 ### Julius Barbarian — Barbour analog (relational/timeless physics). Do **not** name Julian Barbour as the character's "real name" in the novel. The bibliography may cite *The End of Time*. The extra Julian in Derek's life is Tuppence's.
 - **Age**: late 60s/early 70s.
@@ -95,8 +95,10 @@ Already richly described: looks like it was "designed by someone who had once be
 ### Weinstein's Munich patent-attorney office
 Cold window overlooking a busy Munich street (trams, cyclists, delivery carts). A blotter, a desk, a brass clock that "skips." **Smell: [not established].**
 
-### The room beneath the Louvre
+### The room beneath the Louvre — NOT IN THE CURRENT BOOK 1 DOCX (flagged 2026-10-04)
 Small, stone-walled, "entirely too quiet." A table, a clock, a piece of paper asking for a value of τ. Reached via a staircase behind a security guard who never appears in the same place twice, through a corridor with no tourists, no paintings, no signs, the building visibly getting older the deeper they go.
+
+A fresh full-text audit of the canonical docx (2026-10-04) found no Louvre scene, no Paris trip, no coordinate-paper puzzle, and no recurring guard anywhere in the current Chapters 6-7 (which are "The Apple Problem" and "The Fourth Coordinate" — Munich/Heathrow and the Piccadilly line, not Paris). This entry, the continuity chart's clue-table row for it, and the Seam's Paris note all describe content that was either cut in a later revision or never actually written. Either restore the scene into Ch6-7, or remove this entry and the other two references — do not treat this as established canon for Book 2/3 planning until one of those happens.
 
 ### Platform Seven / the mysterious train
 A departure board that rearranges its own letters without anyone touching it (ARRIVAL → DEPARTURE → briefly DEATH → settling back to normal). The platform "shouldn't exist." Recurring site for the book's biggest anomalies.
