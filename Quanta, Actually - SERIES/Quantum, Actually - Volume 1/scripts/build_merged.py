@@ -8,7 +8,7 @@ from xml.sax.saxutils import escape
 import qa_content as QA
 
 SRC = sys.argv[1]  # the PRE-merge master, from D:\\bak\\2026-10-03 quanta merge\\
-OUT = sys.argv[2] if len(sys.argv) > 2 else 'build/The Quantum World.docx'
+OUT = sys.argv[2] if len(sys.argv) > 2 else 'build/Quantum, Actually - Volume 1.docx'
 MD = 'chapters/'; BACK = 'chapters/back/'; FIG = 'Figures/'
 NS = ('xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" '
       'xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" '
@@ -251,7 +251,7 @@ insert_at(i + 1, [body_para('Chapters 26 and 27 take renormalization apart prope
 i = idx(starts('If you want to see how far this picture can be pushed'), s7)
 cut(i, i + 2, 'Series and cross-references', SRC7, 'Old pointers to Appendix 4 and to the QED Course as Volume 3')
 insert_at(i, [body_para('If you want to see how far this picture can be pushed — electromagnetism itself read outward from the quantum phase of matter, rather than assumed as a starting point — Part Two of this book takes exactly that road, starting with Chapter 10.'),
-              body_para('If you would rather calculate than picture it, the *Complete Quantum Electrodynamics Course* (Volume 2) derives this chapter’s results with pencil and paper: the Feynman rules, renormalization, and the electron’s magnetic moment.')])
+              body_para('If you would rather calculate than picture it, *A QED Course* (Volume 2) derives this chapter’s results with pencil and paper: the Feynman rules, renormalization, and the electron’s magnetic moment.')])
 
 # --- Ch9 superconducting-circuit pointer
 i = idx(starts('A superconducting circuit is a small loop of very cold metal'))
@@ -411,12 +411,12 @@ for t in xp(els()[i], './/w:t'):
 assert txt(els()[i]).strip() == 'Quanta, Actually, Volume 2: Complete Quantum Electrodynamics Course', txt(els()[i])
 i = idx(starts('The Quantum Conversation (Volume 2) — if this book'))
 cut(i, i + 1, 'Series and cross-references', 'The Quantum World, "Where this series goes next"', 'Old series pointer')
-insert_at(i, [body_para('*Complete Quantum Electrodynamics Course* (Volume 2) — if Part Two left you wanting to calculate rather than picture, Volume 2 does the full calculation: from complex numbers and the Dirac equation to Feynman rules, renormalization, the electron’s anomalous magnetic moment, and the Lamb shift.')])
+insert_at(i, [body_para('*A QED Course* (Volume 2) — if Part Two left you wanting to calculate rather than picture, Volume 2 does the full calculation: from complex numbers and the Dirac equation to Feynman rules, renormalization, the electron’s anomalous magnetic moment, and the Lamb shift.')])
 
 # =============== 5. Front matter ===============
 i = idx(starts('Volume 2 — The Quantum Conversation'))
 cut(i, i + 2, 'Series and cross-references', 'The Quantum World, "Also in This Series"', 'Old Volume 2 and Volume 3 entries')
-insert_at(i, [body_para('Volume 2 — *Complete Quantum Electrodynamics Course: From Mathematical Foundations to One-Loop QED*. The calculation course: from complex numbers and the Dirac equation to Feynman rules, renormalization, the electron’s anomalous magnetic moment, and the Lamb shift, derived step by step.')])
+insert_at(i, [body_para('Volume 2 — *A QED Course*. The calculation course: from complex numbers and the Dirac equation to Feynman rules, renormalization, the electron’s anomalous magnetic moment, and the Lamb shift, derived step by step.')])
 i = idx(starts('Volume 1 — The Quantum World'))
 for t in xp(els()[i], './/w:t'):
     if 'This book: the survey' in t.text:
@@ -480,6 +480,115 @@ insert_at(i, Q)
 hdr = els()[idx(h1('Also in This Series'))]
 if not xp(hdr, './w:pPr/w:pageBreakBefore'):
     xp(hdr, './w:pPr')[0].insert(1, X('<w:pageBreakBefore/>'))
+
+# =============== 6. Title: Quantum, Actually — Volume 1 ===============
+SUBT = 'Questions and Answers from the Double Slit to the Superconducting Wire'
+def set_text(el, new):
+    ts = xp(el, './/w:t'); ts[0].text = new
+    for t in ts[1:]: t.text = ''
+E = els()
+tp = [k for k in range(0, 40) if txt(E[k]).strip()]
+exp = ['Quanta, Actually', 'The Quantum World', 'From Quanta and Entanglement to Quantum Fields, Gravity, and the Future of Computing', 'Volume 1 in the Quanta, Actually Series', 'Lothar J. Musiol']
+assert [txt(E[k]).strip() for k in tp[:5]] == exp, [txt(E[k]) for k in tp[:5]]
+for k, new in zip(tp[:4], ['Quantum, Actually', 'Volume 1', SUBT, 'A Volume in the Quantum, Actually Series']):
+    set_text(E[k], new)
+i = idx(lambda el: txt(el).strip() == 'Quanta, Actually series'); set_text(els()[i], 'Quantum, Actually series')
+# copyright page carries the full title, as in Physics, Actually
+i = idx(starts('Copyright © 2026 Lothar J. Musiol'))
+cp = els()[i]
+def cline(t, b=False):
+    p = copy.deepcopy(cp); set_text(p, t)
+    if b:
+        for r in xp(p, './/w:r'):
+            rp = xp(r, './w:rPr')
+            if not rp: r.insert(0, X('<w:rPr/>')); rp = xp(r, './w:rPr')
+            rp[0].insert(0, X('<w:b/>'))
+    return p
+insert_at(i, [cline('Quantum, Actually', True), cline('Volume 1 — ' + SUBT), empty()])
+# keep the copyright block where it was: drop as many blank lines above it as were added
+for _ in range(3):
+    prev = els()[i - 1]
+    assert prev.tag == W + 'p' and not txt(prev).strip() and not xp(prev, './/w:sectPr|.//w:br|.//w:drawing|.//w:bookmarkStart'), 'no blank line to drop'
+    body.remove(prev); i -= 1
+# prologue line that used the old title as a name
+i = idx(lambda el: txt(el).strip() == 'That is where Quantum World begins')
+for t in xp(els()[i], './/w:t'):
+    t.text = t.text.replace('That is where Quantum World begins', 'That is where the quantum world begins')
+# Also in This Series, Volume 1 entry
+i = idx(starts('Volume 1 — The Quantum World'))
+ts = xp(els()[i], './/w:t'); full = ''.join(t.text for t in ts)
+old = 'The Quantum World: From Quanta and Entanglement to Quantum Fields, Gravity, and the Future of Computing'
+assert old in full, full
+for t in ts:
+    if old in t.text: t.text = t.text.replace(old, SUBT); break
+else:
+    k = full.index(old); raise SystemExit('Volume 1 entry split across runs: ' + repr([t.text for t in ts]))
+# closing blurb
+i = idx(lambda el: is_style(el, 'Heading1') and txt(el).strip() == 'The Quantum World')
+set_text(els()[i], 'Quantum, Actually')
+i = idx(starts('An electron does not know which slit it went through'))
+for t in xp(els()[i], './/w:t'):
+    if 'The Quantum World takes readers' in t.text:
+        t.text = t.text.replace('The Quantum World takes readers', 'Quantum, Actually takes readers'); break
+else: raise SystemExit('blurb title not found')
+# Also by: Quanta group -> Quantum, Actually
+for old, new in [('Quanta, Actually', 'Quantum, Actually'),
+                 ('Quanta, Actually, Volume 1: The Quantum World', 'Quantum, Actually, Volume 1: ' + SUBT),
+                 ('Quanta, Actually, Volume 2: Complete Quantum Electrodynamics Course', 'Quantum, Actually, Volume 2: A QED Course')]:
+    i = idx(lambda el, o=old: txt(el).strip() == o, idx(h1('Also by Lothar J. Musiol')))
+    set_text(els()[i], new)
+# core properties
+cpp = d.core_properties
+cpp.title = 'Quantum, Actually — Volume 1: ' + SUBT
+cpp.subject = 'Quantum, Actually, Volume 1'
+cpp.keywords = 'Quantum, Actually; Volume 1'
+# leftover check
+for el in els():
+    t = txt(el)
+    for bad in ('Quanta, Actually', 'Electrodynamics Course', 'Quantum Conversation'):
+        assert bad not in t, (bad, t[:200])
+
+# =============== 7. Bibliography: Part Two sources ===============
+BIB_NEW = [
+ 'Abrikosov, A. A. “On the Magnetic Properties of Superconductors of the Second Group.” Soviet Physics JETP 5, no. 6 (1957): 1174–1182.',
+ 'Aharonov, Yakir, and David Bohm. “Significance of Electromagnetic Potentials in the Quantum Theory.” Physical Review 115, no. 3 (1959): 485–491.',
+ 'Blais, Alexandre, Arne L. Grimsmo, S. M. Girvin, and Andreas Wallraff. “Circuit Quantum Electrodynamics.” Reviews of Modern Physics 93, no. 2 (2021): 025005.',
+ 'Casimir, H. B. G. “On the Attraction Between Two Perfectly Conducting Plates.” Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen 51 (1948): 793–795.',
+ 'Dirac, P. A. M. “Quantised Singularities in the Electromagnetic Field.” Proceedings of the Royal Society of London A 133, no. 821 (1931): 60–72.',
+ 'Einstein, Albert. “Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt.” Annalen der Physik 17 (1905): 132–148.',
+ 'Fan, X., T. G. Myers, B. A. D. Sukra, and G. Gabrielse. “Measurement of the Electron Magnetic Moment.” Physical Review Letters 130, no. 7 (2023): 071801.',
+ 'Feynman, Richard P. “Space-Time Approach to Non-Relativistic Quantum Mechanics.” Reviews of Modern Physics 20, no. 2 (1948): 367–387.',
+ 'Grangier, P., G. Roger, and A. Aspect. “Experimental Evidence for a Photon Anticorrelation Effect on a Beam Splitter: A New Light on Single-Photon Interferences.” Europhysics Letters 1, no. 4 (1986): 173–179.',
+ 'Griffiths, David J. Introduction to Electrodynamics. 4th ed. Cambridge: Cambridge University Press, 2017.',
+ 'Josephson, B. D. “Possible New Effects in Superconductive Tunnelling.” Physics Letters 1, no. 7 (1962): 251–253.',
+ 'Lamb, Willis E., Jr., and Robert C. Retherford. “Fine Structure of the Hydrogen Atom by a Microwave Method.” Physical Review 72, no. 3 (1947): 241–243.',
+ 'Lamoreaux, S. K. “Demonstration of the Casimir Force in the 0.6 to 6 μm Range.” Physical Review Letters 78, no. 1 (1997): 5–8.',
+ 'Noether, Emmy. “Invariante Variationsprobleme.” Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen, Mathematisch-Physikalische Klasse (1918): 235–257. English translation by M. A. Tavel, “Invariant Variation Problems,” Transport Theory and Statistical Physics 1, no. 3 (1971): 186–207.',
+ 'Schwartz, Matthew D. Quantum Field Theory and the Standard Model. Cambridge: Cambridge University Press, 2014.',
+ 'Schwinger, Julian. “On Quantum-Electrodynamics and the Magnetic Moment of the Electron.” Physical Review 73, no. 4 (1948): 416–417.',
+ 'Tinkham, Michael. Introduction to Superconductivity. 2nd ed. New York: McGraw-Hill, 1996.',
+ 'Tonomura, Akira, Nobuyuki Osakabe, Tsuyoshi Matsuda, Takeshi Kawasaki, Junji Endo, Shinichiro Yano, and Hiroji Yamada. “Evidence for Aharonov-Bohm Effect with Magnetic Field Completely Shielded from Electron Wave.” Physical Review Letters 56, no. 8 (1986): 792–795.',
+ 'Wheeler, John Archibald, and Richard P. Feynman. “Interaction with the Absorber as the Mechanism of Radiation.” Reviews of Modern Physics 17, no. 2–3 (1945): 157–181.',
+ 'Wheeler, John Archibald, and Richard P. Feynman. “Classical Electrodynamics in Terms of Direct Interparticle Action.” Reviews of Modern Physics 21, no. 3 (1949): 425–433.',
+]
+def bkey(t): return re.sub(r'^[’\'‘\s]+', '', t).lower().replace('.', '!')  # single author sorts before co-authored
+b0 = idx(h1('Bibliography')); b1 = idx(h1('About the Author'), b0)
+ex = [k for k in range(b0 + 1, b1) if txt(els()[k]).strip()][1:]   # skip the intro paragraph
+assert txt(els()[ex[0]]).startswith('Arndt'), txt(els()[ex[0]])
+have = {bkey(txt(els()[k]))[:60] for k in ex}
+def bib_para(t):
+    return X(f'<w:p><w:pPr><w:jc w:val="both"/></w:pPr><w:r><w:rPr><w:i/></w:rPr><w:t xml:space="preserve">{escape(t)}</w:t></w:r></w:p>')
+BIB_ADDED = []
+for t in BIB_NEW:
+    if bkey(t)[:60] in have: continue
+    b0 = idx(h1('Bibliography')); b1 = idx(h1('About the Author'), b0)
+    ex = [k for k in range(b0 + 1, b1) if txt(els()[k]).strip()][1:]
+    after = [k for k in ex if bkey(txt(els()[k])) < bkey(t)]
+    pos = (after[-1] + 1) if after else ex[0]
+    insert_at(pos, [bib_para(t)] if not after else [empty(), bib_para(t)])
+    if not after: insert_at(pos + 1, [empty()])
+    BIB_ADDED.append(t.split('.')[0])
+print('bibliography added', len(BIB_ADDED))
 
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
 d.save(OUT)
