@@ -2,6 +2,8 @@
 
 ## Current state
 
+**Update 2026-10-04, one more fix (on top of PR 63 below):** User flagged that the *Thaler v. Perlmutter* in-text mention named two individuals (Thaler, the AI developer; Perlmutter, the Register of Copyrights) who are not YouTube creators and have no channel to lead with instead — unlike the case-study convention's exception, this citation isn't a case study at all, just a legal citation supporting the human-authorship rule in ch10 §VII. Reworded the body sentence to describe the ruling without naming the case ("a case over copyright for a purely AI-generated image" instead of "*Thaler v. Perlmutter*"); left the full case citation, names included, in the Sources paragraph only, where a legal citation needs the real case name — same treatment the h3h3Productions case study already gets (channel name in the body, the case's party names only in Sources).
+
 **Update 2026-10-04, adversarial review pass (supersedes nothing, adds fixes on top of PR 62):** Asked to review the merged book as a deliberately critical reviewer rather than a mechanical checker. Found and fixed six issues:
 
 1. A grammar bug introduced while stripping the personal name out of the MrBeast case study (ch2) — "In one test the team has talked about publicly, it compared…" was missing a relative pronoun and had an ambiguous "it." Rewritten as a clean sentence.
