@@ -1,5 +1,8 @@
 # Builds the Kindle-ready Word manuscript for "The Universe Has No Now"
-# from the Markdown part files. One figure per chapter (Fig 0 + Fig 1-45), per 00_Figure_Plan.md.
+# from the Markdown part files. One figure per chapter (Fig 0 + Fig 1-46), per 00_Figure_Plan.md.
+# 3 Oct 2026: Chapter 30 was split into 30 and 31. Figure files keep their old ids
+# (fig31..fig45 now illustrate Chapters 32..46; fig46 is the new Chapter 31 figure).
+# CHAPTER_FIG maps chapter number -> figure-file id; captions use the chapter number.
 # Photos: if figs/figNN.jpg exists it is used; otherwise figs/figNN_slot.png (framed placeholder).
 import io, os, re, glob, sys
 from PIL import Image, ImageDraw, ImageFont
@@ -9,6 +12,7 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
 from docx.enum.table import WD_TABLE_ALIGNMENT
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
+from docx.opc.constants import RELATIONSHIP_TYPE as RT
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.dirname(HERE)  # was hardcoded to D:\...; now follows wherever this script actually lives
@@ -61,7 +65,7 @@ FIG = {
  33: ("diagram", "Two large circles joined by a short, fat handle: here and there. A wormhole would be a handle on the block, not a subway.", ""),
  34: ("photo", "A radio dish with ground in the frame. A signal is light, and light is late.", ""),
  35: ("diagram", "A worldline that meets itself. Same events, not a rewrite.", ""),
- 36: ("diagram", "A loaf in slices. No one walks between the slices.", ""),
+ 36: ("diagram", "Slices of events, stacked like pages. No one walks between the slices.", ""),
  37: ("diagram", "Four kinds of elsewhere in a two-by-two: more space, other bubbles, other branches, other math.", ""),
  38: ("diagram", "Identical rooms receding. A picture of a possibility, not a photograph of copies.", ""),
  39: ("diagram", "Three bubbles, three different icons. Other rooms, other rules, unphotographed.", ""),
@@ -71,7 +75,12 @@ FIG = {
  43: ("diagram", "Five rows, one word each: Freeze, Rip, Crunch, Decay, Bounce.", ""),
  44: ("diagram", "A clock face dissolving into marks. A clock is a habit of events, not a river.", ""),
  45: ("photo", "Rover tracks toward a near horizon. Meaning is local, on one worldline.", "Credit: NASA/JPL-Caltech"),
+ 46: ("diagram", "Liquid ranges at one atmosphere. Water is one solvent among several; Titan’s 94 K sits on the methane and ethane bars.", ""),
 }
+
+CHAPTER_FIG = {c: c for c in range(0, 31)}
+CHAPTER_FIG[31] = 46
+CHAPTER_FIG.update({c: c - 1 for c in range(32, 47)})
 
 def fig_path(n):
     kind = FIG[n][0]
@@ -130,13 +139,16 @@ def word_picture_stream(path):
 # ---------------- parse markdown into blocks ----------------
 def parse_all():
     files = ["00_Front_Matter.md"] + sorted(os.path.basename(f) for f in glob.glob(os.path.join(SRC, "0[1-9]_*.md")) + glob.glob(os.path.join(SRC, "10_*.md"))) + ["11_Appendix.md"]
+    # 3 Oct 2026: notes and bibliography live in their own file after the appendix.
+    if os.path.exists(os.path.join(SRC, "12_Notes_and_Sources.md")):
+        files.append("12_Notes_and_Sources.md")
     blocks = []
     chapter = None          # current popular chapter number (0 for prologue)
     chapter_has_fig = {}
     in_appendix = False
     for fname in files:
         front = fname.startswith("00_")
-        in_appendix = fname.startswith("11_")
+        in_appendix = fname.startswith("11_") or fname.startswith("12_")
         lines = open(os.path.join(SRC, fname), encoding="utf-8").read().splitlines()
         i = 0
         while i < len(lines):
@@ -169,8 +181,29 @@ def parse_all():
                 else:
                     blocks.append(("h2", t, "other"))
                 i += 1; continue
+            if line.startswith(">"):
+                paras, cur_p = [], []
+                while i < len(lines) and lines[i].startswith(">"):
+                    t = lines[i][1:].strip()
+                    if t:
+                        cur_p.append(t)
+                    elif cur_p:
+                        paras.append(" ".join(cur_p)); cur_p = []
+                    i += 1
+                if cur_p: paras.append(" ".join(cur_p))
+                blocks.append(("box", paras)); continue
+            mnote = re.match(r"^\[\^(\d+)\]:\s*(.*)$", line)
+            if mnote:
+                txt = [mnote.group(2).strip()]
+                i += 1
+                while i < len(lines) and lines[i].startswith("    ") and lines[i].strip():
+                    txt.append(lines[i].strip()); i += 1
+                blocks.append(("note", int(mnote.group(1)), " ".join(txt))); continue
+            mdia = re.match(r'^!\[(Spacetime Diagram \d+\.[^\]]*)\]\(([^)\s]+)(?:\s+"([^"]*)")?\)', line)
+            if mdia:
+                blocks.append(("diagram", mdia.group(1), mdia.group(2), mdia.group(3) or mdia.group(1))); i += 1; continue
             if line.startswith("!["):
-                if chapter is not None and chapter in FIG and not chapter_has_fig.get(chapter):
+                if chapter is not None and chapter in CHAPTER_FIG and not chapter_has_fig.get(chapter):
                     blocks.append(("fig", chapter)); chapter_has_fig[chapter] = True
                 i += 1; continue
             if line.startswith("|"):
@@ -189,7 +222,7 @@ def parse_all():
             # paragraph: gather until blank line (markdown two-space line breaks are kept as breaks)
             para = [line]
             i += 1
-            while i < len(lines) and lines[i].strip() and not re.match(r"^(#|!\[|\||---|%%)", lines[i]):
+            while i < len(lines) and lines[i].strip() and not re.match(r"^(#|!\[|\||---|%%|>|\[\^\d+\]:)", lines[i]):
                 para.append(lines[i].rstrip("\n")); i += 1
             blocks.append(("p", para))
     # chapters with no inline figure ref (e.g. 14): add the plan figure at chapter end
@@ -208,6 +241,8 @@ def parse_all():
 # ---------------- inline formatting ----------------
 TOKEN = re.compile(
     r"(\uE003"
+    r"|\[\^\d+\]"
+    r"|\[[^\]\n]+\]\(https?://[^)\s]+\)"
     r"|\*\*.+?\*\*"
     r"|\*[^*\n]+?\*"
     r"|\^\{[^}]*\}"
@@ -235,6 +270,13 @@ def add_runs(par, text, bold=False, italic=False, sup=False, sub=False, size=Non
         if m.start() > pos:
             _run(par, text[pos:m.start()], bold, italic, sup, sub, size)
         tok = m.group(0)
+        if tok.startswith("[^"):
+            add_note_ref(par, int(tok[2:-1]), size=size)
+            pos = m.end(); continue
+        if tok.startswith("["):
+            lt, url = re.match(r"\[([^\]]+)\]\((\S+)\)", tok).groups()
+            add_external_link(par, lt, url, italic=italic, size=size)
+            pos = m.end(); continue
         if tok.startswith("**"):
             add_runs(par, tok[2:-2], True, italic, sup, sub, size)
         elif tok.startswith("*"):
@@ -329,6 +371,60 @@ def add_internal_link(par, text, anchor, bold=False, size=None):
     t = OxmlElement("w:t"); t.text = text; t.set(qn("xml:space"), "preserve"); r.append(t)
     h.append(r); par._p.append(h)
 
+_note_refs_done = set()
+def add_note_ref(par, n, size=None):
+    """Superscript note number linking to the note; bookmarked so the note can link back."""
+    first = n not in _note_refs_done
+    if first:
+        _bm_id[0] += 1
+        st = OxmlElement("w:bookmarkStart"); st.set(qn("w:id"), str(_bm_id[0])); st.set(qn("w:name"), f"ref_{n}")
+        par._p.append(st)
+    h = OxmlElement("w:hyperlink"); h.set(qn("w:anchor"), f"note_{n}"); h.set(qn("w:history"), "1")
+    r = OxmlElement("w:r"); rpr = OxmlElement("w:rPr")
+    va = OxmlElement("w:vertAlign"); va.set(qn("w:val"), "superscript"); rpr.append(va)
+    color = OxmlElement("w:color"); color.set(qn("w:val"), "0563C1"); rpr.append(color)
+    r.append(rpr); t = OxmlElement("w:t"); t.text = str(n); r.append(t); h.append(r); par._p.append(h)
+    if first:
+        en = OxmlElement("w:bookmarkEnd"); en.set(qn("w:id"), str(_bm_id[0])); par._p.append(en)
+        _note_refs_done.add(n)
+
+def add_external_link(par, text, url, italic=False, size=None):
+    r_id = par.part.relate_to(url, RT.HYPERLINK, is_external=True)
+    h = OxmlElement("w:hyperlink"); h.set(qn("r:id"), r_id); h.set(qn("w:history"), "1")
+    r = OxmlElement("w:r"); rpr = OxmlElement("w:rPr")
+    if italic:
+        rpr.append(OxmlElement("w:i"))
+    if size:
+        sz = OxmlElement("w:sz"); sz.set(qn("w:val"), str(int(size*2))); rpr.append(sz)
+    color = OxmlElement("w:color"); color.set(qn("w:val"), "0563C1"); rpr.append(color)
+    u = OxmlElement("w:u"); u.set(qn("w:val"), "single"); rpr.append(u)
+    r.append(rpr); t = OxmlElement("w:t"); t.text = text; t.set(qn("xml:space"), "preserve"); r.append(t)
+    h.append(r); par._p.append(h)
+
+def set_box(par, first, last):
+    """Bordered, lightly shaded paragraph; consecutive box paragraphs render as one box."""
+    ppr = par._p.get_or_add_pPr()
+    bdr = OxmlElement("w:pBdr")
+    for side in ("top", "left", "bottom", "right"):
+        e = OxmlElement(f"w:{side}"); e.set(qn("w:val"), "single"); e.set(qn("w:sz"), "6")
+        e.set(qn("w:space"), "4"); e.set(qn("w:color"), "0C2D5A"); bdr.append(e)
+    ppr.append(bdr)
+    shd = OxmlElement("w:shd"); shd.set(qn("w:val"), "clear"); shd.set(qn("w:color"), "auto"); shd.set(qn("w:fill"), "EEF2F7")
+    ppr.append(shd)
+
+def add_diagram(doc, caption, path, alt):
+    full = os.path.join(SRC, path.replace("/", os.sep))
+    stream, ext = word_picture_stream(full)
+    stream.name = os.path.basename(full)
+    p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p.paragraph_format.first_line_indent = Inches(0); p.paragraph_format.space_before = Pt(10); p.paragraph_format.keep_with_next = True
+    r = p.add_run(); shape = r.add_picture(stream, width=Inches(4.5))
+    title = caption.split(".")[0]
+    shape._inline.docPr.set("descr", alt); shape._inline.docPr.set("title", title)
+    c = doc.add_paragraph(style="Figure Caption")
+    c.add_run(title + ". ").bold = True
+    add_runs(c, caption[len(title) + 1:].strip())
+
 # Filled in build() from heading bookmarks. Keys: "31", "A31".
 XREF_ANCHORS = {}
 XREF_RE = re.compile(
@@ -394,13 +490,20 @@ def setup_styles(doc):
     cp.paragraph_format.first_line_indent = Inches(0); cp.paragraph_format.space_after = Pt(8)
     t1 = mk("TOC Part"); set_style_font(t1, size=11, bold=True); t1.paragraph_format.first_line_indent = Inches(0); t1.paragraph_format.space_before = Pt(8); t1.paragraph_format.space_after = Pt(2)
     t2 = mk("TOC Chapter"); set_style_font(t2, size=10.5); t2.paragraph_format.first_line_indent = Inches(0); t2.paragraph_format.left_indent = Inches(0.3); t2.paragraph_format.space_after = Pt(1)
+    bx = mk("Box"); set_style_font(bx, size=10); bx.paragraph_format.first_line_indent = Inches(0)
+    bx.paragraph_format.left_indent = Inches(0.1); bx.paragraph_format.right_indent = Inches(0.1)
+    bx.paragraph_format.space_after = Pt(4); bx.paragraph_format.line_spacing = 1.1
+    nt = mk("Note"); set_style_font(nt, size=9.5); nt.paragraph_format.first_line_indent = Inches(0)
+    nt.paragraph_format.space_after = Pt(4); nt.paragraph_format.line_spacing = 1.05
     li = mk("List Item"); li.paragraph_format.first_line_indent = Inches(-0.2); li.paragraph_format.left_indent = Inches(0.4); li.paragraph_format.space_after = Pt(3)
 
 def add_figure(doc, n):
-    kind, caption, credit = FIG[n]
-    path, real = fig_path(n)
+    # n is the chapter number (the printed figure number); fid is the figure-file id.
+    fid = CHAPTER_FIG[n]
+    kind, caption, credit = FIG[fid]
+    path, real = fig_path(fid)
     if not path or not os.path.exists(path):
-        path = make_slot_png(n, caption)
+        path = make_slot_png(fid, caption)
         real = False
     stream, ext = word_picture_stream(path)
     stream.name = f"figure_{n:02d}.{ext}"
@@ -480,8 +583,8 @@ def build():
             prev = "head"; continue
         if kind == "h2":
             # Bug fixed 26 Sep 2026: this used to only break before b[2]=="chapter"
-            # (the 45 numbered popular chapters), silently skipping every appendix
-            # note (b[2]=="appendix": A0-A45) and every other H2 (b[2]=="other":
+            # (the 46 numbered popular chapters), silently skipping every appendix
+            # note (b[2]=="appendix": A0-A46) and every other H2 (b[2]=="other":
             # How to Read These Notes, Equations at a Glance, Further Reading,
             # Glossary) -- 51 headings in total ran on with no page break.
             if b[2] in ("chapter", "appendix", "other"): page_break(doc)
@@ -492,6 +595,21 @@ def build():
             prev = "fig"; continue
         if kind == "table":
             add_table(doc, b[1]); prev = "table"; continue
+        if kind == "box":
+            sp = doc.add_paragraph(style="No Indent"); sp.paragraph_format.space_after = Pt(2)
+            for j, t in enumerate(b[1]):
+                p = doc.add_paragraph(style="Box"); add_runs(p, t); set_box(p, j == 0, j == len(b[1]) - 1)
+            sp = doc.add_paragraph(style="No Indent"); sp.paragraph_format.space_after = Pt(2)
+            prev = "box"; continue
+        if kind == "note":
+            p = doc.add_paragraph(style="Note")
+            add_bookmark(p, f"note_{b[1]}")
+            add_internal_link(p, str(b[1]), f"ref_{b[1]}", bold=True)
+            p.add_run(". ")
+            add_runs(p, b[2])
+            prev = "note"; continue
+        if kind == "diagram":
+            add_diagram(doc, b[1], b[2], b[3]); prev = "fig"; continue
         if kind == "list":
             for it in b[1]:
                 p = doc.add_paragraph(style="List Item"); p.add_run("•  "); add_runs(p, it)

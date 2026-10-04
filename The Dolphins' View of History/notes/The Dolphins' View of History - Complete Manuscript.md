@@ -12,7 +12,7 @@ Copyright © 2026 Lothar J. Musiol. All rights reserved.
 
 No part of this book may be reproduced, stored, or transmitted in any form without written permission from the author, except for brief quotations in reviews.
 
-Professor Click-Click-Whoosh, the Cetacean Academy of Oceanic Studies, and the International Dolphin Historical Society are inventions. The history is not. Dates, figures, and events follow the published scholarship listed in Further Reading and were checked against the record as it stood in 2026. Where historians disagree, the text says so.
+Professor Click-Click-Whoosh, the Cetacean Academy of Oceanic Studies, and the International Dolphin Historical Society are inventions. The history is not. Dates, figures, and events follow the published scholarship listed in the Notes and Sources and were checked against the record as it stood in 2026. Where historians disagree, the text says so.
 
 Kindle edition, 2026.
 
@@ -92,7 +92,7 @@ They call each other by name. Each dolphin develops a signature whistle in its f
 
 A brief correction while the subject is open: dolphins are not telepathic. The claim surfaces periodically in pop culture and the occasional earnest paperback, and dolphin scholarship would like it retired. What looks like mind-reading from the outside is whistles, clicks, and body language, processed by an animal that has had many millions of years of practice and nothing else competing for its attention underwater. It is excellent hearing, not a superpower.
 
-They hunt in coordinated teams and teach their young skills that vary by region — a genuine culture, not just instinct. In Shark Bay, Australia, a line of mothers has taught daughters for generations to break a marine sponge free and wear it over the nose while foraging on the sharp seafloor.
+They hunt in coordinated teams and teach their young skills that vary by region — a genuine culture, not just instinct. In Shark Bay, Western Australia, a line of mothers has taught daughters for generations to break a marine sponge free and wear it over the nose while foraging on the sharp seafloor.
 
 *“This is the closest any dolphin population ever came to a tool industry,” the Society recorded. “One sponge. No handle, no blade, no upgrade, ever.”*
 
@@ -120,7 +120,7 @@ Dolphin scholarship concedes this record is not perfectly clean. Humans did even
 
 *“We do the trick either way,” Professor Click-Click-Whoosh observed. “The difference is who decided it was a trick, and who is charging admission.”*
 
-None of which stops dolphins from doing, with some regularity, the opposite as well: helping humans lost or in danger at sea, guiding disoriented swimmers back toward shore, and, in a number of well-documented modern cases, circling threatened swimmers closely enough to drive off an approaching shark. Ancient Greek sailors told the same story about the same species nearly three thousand years ago — Arion, saved from drowning after pirates threw him overboard, was rescued by a dolphin often enough in the retelling that the image ended up stamped on Greek coins.
+None of which stops dolphins from doing, now and then, the opposite as well: helping humans lost or in danger at sea, guiding disoriented swimmers toward shore, and, in a handful of widely reported modern cases, circling swimmers closely enough to keep an approaching shark away. These are the swimmers' accounts, not controlled experiments, and dolphin scholarship reports them as such. Greek writers told the same kind of story more than twenty-five centuries ago: Herodotus has the singer Arion thrown overboard by pirates and carried to shore on a dolphin's back, and the image of a rider on a dolphin ended up stamped on Greek coins.
 
 *Dolphin historians decline to fully explain this pattern of goodwill toward a species that also, on occasion, keeps us in tanks, beyond noting that consistency was never a precondition for decency.*
 
@@ -146,6 +146,10 @@ Other hulls matter as much and are visited less. Slave ships, when they are foun
 
 There is now a treaty instinct, unevenly obeyed, that a wreck of a certain age is a grave and not a quarry. It arrived late, after a great deal of bronze and a great deal of porcelain had already been sold. Dolphin historians, who never needed a crane, have been swimming over the inventory the entire time. They recommend leaving most of it where it is. The sea is already keeping it. Humans are the ones who have trouble with custody.
 
+Here is the thesis the rest of the book keeps testing on the one species that did get the hands. A hand turns an idea into an object, and an object outlives the person who had the idea. The next generation does not start from nothing. It picks up the tool, improves it, and passes it on. Anthropologists call this cumulative culture and compare it to a ratchet: it turns one way and rarely slips back. A dolphin calf inherits its mother's skills. A human child inherits a civilization's tools. Capability, in this species, compounds.
+
+Wisdom does not compound the same way. It cannot be stored in a tool or inherited with one. Each generation has to learn it again, mostly from its own mistakes and sometimes from its parents' graves. A big brain guarantees cleverness. It does not guarantee wisdom. The two arrive on separate schedules, and the rest of this book is the record of how far apart those schedules drifted.
+
 The dolphins did not get to build cities, wage wars, or write books.
 
 They got, instead, the rest of this book's worth of time to watch the species that could.
@@ -168,7 +172,7 @@ The stage was East Africa's Rift Valley, where the crust was slowly pulling the 
 
 The earliest candidates for the human side of the family split, Sahelanthropus in Chad, Orrorin in Kenya, and Ardipithecus in Ethiopia, date to somewhere between about seven and four and a half million years ago, and all of them are argued over, which is what the early branches of a family tree tend to attract.
 
-Then, about 3.7 million years ago, two or three individuals walked across a fresh fall of volcanic ash at Laetoli, in what is now Tanzania, and left footprints that the ash preserved: upright, unhurried, and unmistakably those of a biped. They are the oldest such tracks known and among the most affecting objects in the whole archive. Not a tool, not a monument, just somebody walking somewhere, three and a half million years before anyone thought to write it down.
+Then, about 3.7 million years ago, two or three individuals walked across a fresh fall of volcanic ash at Laetoli, in what is now Tanzania, and left footprints that the ash preserved: upright, unhurried, and unmistakably those of a biped. They are the oldest footprints that everyone agrees were made by a hominin, and among the most affecting objects in the whole archive. Not a tool, not a monument, just somebody walking somewhere, three and a half million years before anyone thought to write it down.
 
 Lucy, an Australopithecus afarensis found at Hadar in Ethiopia in 1974, lived about 3.2 million years ago and stood roughly three and a half feet tall. The expedition named her after the Beatles song playing in the camp that evening, which makes a British band the godparent of human prehistory.
 
@@ -178,7 +182,7 @@ By about 1.6 million years ago, a tall, long-legged Homo erectus boy, found on t
 
 Homo sapiens itself is younger than most people assume. The oldest fossils attributed to it are about 300,000 years old and come from Jebel Irhoud in Morocco, at the northwestern corner of the continent, a long way from the Rift Valley. Others turn up in Ethiopia and South Africa. Dolphin historians read this to mean that there was no single garden of origin. Humanity's ancestors were a scatter of connected populations across an entire continent, trading genes and ideas, and the modern human form came together piece by piece. They did not have the continent to themselves, either: deep in a South African cave system, a small-brained relative called Homo naledi, found in 2013 and dated to around the same period, was living alongside early modern humans.
 
-The evidence that these were people who thought, and not merely people who made tools, also comes from the south. At Blombos Cave on South Africa's coast, pieces of ochre engraved with crosshatched patterns and strings of shell beads, some 75,000 years old or more, show humans making marks for no reason except meaning. Dolphin historians file them as the first known steps toward almost everything that follows in this book.
+The evidence that these were people who thought, and not merely people who made tools, also comes from the south. At Blombos Cave on South Africa's coast, pieces of ochre engraved with crosshatched patterns and strings of shell beads, some 75,000 years old or more, show humans making marks for no reason except meaning. Dolphin historians file them among the earliest known steps toward almost everything that follows in this book.
 
 The genetic evidence agrees. People whose ancestors stayed in Africa carry more genetic diversity than people anywhere else, because everyone else descends from a comparatively small group that left. Popular accounts once summarized this by inventing a “Mitochondrial Eve” and a “Y-chromosomal Adam,” names that suggest a first couple. They were nothing of the kind. They are simply the most recent individuals through whom all living humans trace, respectively, their mother's mother's mother's line and their father's father's father's line. They very likely never met, and each was surrounded by thousands of contemporaries who also left descendants, just not along that one unbroken thread.
 
@@ -204,7 +208,7 @@ Fire did three things at once, and dolphins rank them in order of surprise.
 
 It cooked food. Cooking breaks down tough fibers and denatures proteins before a single tooth gets involved, meaning more calories extracted per bite and less of the day spent chewing. Some researchers tie this directly to the brain's later growth spurt — a brain is metabolically expensive, and cooking may have been what first paid the bill.
 
-The primatologist Richard Wrangham has argued at length that cooking did more than feed the brain: it reshaped the whole animal, shrinking the teeth and the gut and freeing hours of the day, and made Homo erectus, in a sense, a species defined by dinner. The argument is contested, as most arguments about deep time are, and dolphin scholarship finds it entirely plausible.
+The primatologist Richard Wrangham has argued at length that cooking did more than feed the brain: it reshaped the whole animal, shrinking the teeth and the gut and freeing hours of the day, and made Homo erectus, in a sense, a species defined by dinner. The argument is contested, as most arguments about deep time are, because firm evidence of controlled fire is patchy at the very date the theory needs it most. Dolphin scholarship finds it plausible and not proved.
 
 It pushed back the night. A fire is the first porch light: a circle of visibility and warmth a hominin band could sit inside after dark, when every other diurnal (day-active) primate was hiding.
 
@@ -216,9 +220,7 @@ By 1.7 million years ago, Homo erectus was making the Acheulean hand axe: a symm
 
 Fire did one more thing that took stone tools by surprise. At Pinnacle Point on South Africa's coast, toolmakers learned to bury certain stone in a bed of coals for a slow, controlled bake before knapping it, a heat treatment that made silcrete flake more predictably into sharper, thinner blades. The earliest confirmed example dates to around 164,000 years ago. Cooking improved the meal; this improved the knife that helped make the meal possible — heat spent on the tool instead of the dinner, a use nobody, dolphin or human, would have predicted from a species that had only just learned to keep a flame alive.
 
-Language almost certainly came later and slower than either fire or stone, and dolphins are candid that nobody, human or dolphin, knows exactly when. What is certain is that a species sitting in circles, handling shared tools, teaching a hand axe's proportions to the next generation without a single word written down, already needed something well beyond grunts.
-
-Dolphins, watching all this from offshore for once quite literally, since early hominin sites cluster near African lakes and rivers, noted the smoke first.
+Language is the hardest of the three to date, because words leave no bones. Some researchers think the capacity for complex speech was already present in the common ancestor of Neanderthals and modern humans, more than half a million years ago; others argue for something much later. Nobody, human or dolphin, knows. What the evidence does show is a species sitting in circles, handling shared tools, and teaching a hand axe's proportions to the next generation, and that already required some way of sharing what one mind knew with another.
 
 **Dolphin verdict:**
 
@@ -228,9 +230,9 @@ Dolphins, watching all this from offshore for once quite literally, since early 
 
 Homo sapiens spent most of its first two hundred thousand years or so inside Africa. Then it left.
 
-Several waves left. Earlier small dispersals leave faint genetic traces; the wave that gave rise to nearly everyone alive outside Africa today appears to have moved out roughly 60,000 to 70,000 years ago.
+Several waves left. Earlier small dispersals left faint traces in the bones of the Levant and the genes of later people. The wave that gave rise to nearly everyone alive outside Africa today left, on the genetic evidence, somewhere between about 70,000 and 50,000 years ago. Geneticists and archaeologists still argue over where in that window it falls.
 
-They were not alone on the road. Neanderthals had lived across Europe and western Asia for hundreds of thousands of years already; the more recently identified Denisovans occupied at least parts of Asia. Homo sapiens met both, and quite possibly a few others: Homo floresiensis, a small-bodied human species discovered on the Indonesian island of Flores in 2003 and nicknamed the hobbit, was still living there when modern humans were passing through the region. The list of human species has been lengthening steadily since 2003, mostly because somebody keeps digging.
+They were not alone on the road. Neanderthals had lived across Europe and western Asia for hundreds of thousands of years already; the more recently identified Denisovans occupied at least parts of Asia. Homo sapiens met both, and quite possibly a few others: Homo floresiensis, a small-bodied human species discovered on the Indonesian island of Flores in 2003 and nicknamed the hobbit, may have overlapped with them; its latest bones date to about 60,000 years ago and its stone tools to about 50,000, close to when modern humans reached the region. The list of human species has been lengthening steadily since 2003, mostly because somebody keeps digging.
 
 Met is a diplomatic word. Genomes settle the more delicate question: the great majority of people with non-African ancestry today carry a small percentage of Neanderthal DNA, and some Southeast Asian and Pacific populations carry a meaningful share of Denisovan DNA as well. Interbreeding happened, more than once, in more than one place.
 
@@ -238,17 +240,19 @@ The Denisovans are a strange case even by this chapter's standards: as a populat
 
 Neanderthals and Denisovans both eventually disappeared as distinct populations, the timing pointing to about 40,000 years ago for the last Neanderthals. Dolphins note that “disappeared” is not the same as “erased” — their DNA is still walking around.
 
-Humans call the disappearance of the other human species a success. The dolphins, who have watched a fair number of species replaced by a more energetic cousin, call it the first sign of trouble.
+Whether modern humans caused those disappearances, by competition, by violence, by disease, or simply by absorbing the last small populations into their own, is not settled, and the answer may differ from valley to valley. Humans have tended to call the outcome a success. The dolphins, who have watched a fair number of species replaced by a more energetic cousin, call it the first sign of trouble.
 
-The most striking crossing, to a dolphin, was the one across open water. Reaching Australia required a sea voyage of at least tens of kilometers even at the lowest ice-age sea levels, deliberate enough that it could not have been an accident, and it had happened by around 65,000 years ago (the exact date debated, always by a few thousand years, never by an ocean).
+The most striking crossing, to a dolphin, was the one across open water. Reaching Australia required a sea voyage of at least tens of kilometers even at the lowest ice-age sea levels, deliberate enough that it could not have been an accident. It had happened by about 50,000 years ago at the latest. Excavators at one rock shelter in northern Australia argue for 65,000; critics doubt that the oldest artifacts there are as old as the sand around them. The disagreement is worth fifteen thousand years. It has never been about the ocean.
+
+*The Society has its own version of this argument. Its Early Arrival school and its Late Arrival school have been debating the date since before the excavators were born, and the minutes record that at the last session both schools agreed on only one point: that the boats were good.*
 
 *“This is the first time,” one senior dolphin scholar added, “that we had reason to look up.”*
 
-Humans reached the Americas by at least 15,000 years ago, likely earlier by a contested margin, by way of the Beringia land bridge exposed by lower ice-age sea levels, then down an ice-free corridor or along a coastal route — historians argue about which; dolphins decline to referee that one either.
+Humans were in the Americas by about 15,000 years ago at the latest, having crossed Beringia, the land bridge exposed by lower ice-age sea levels, and then moved south, down an ice-free corridor or along the coast, a choice historians still argue about. Human footprints at White Sands, New Mexico, dated to between about 23,000 and 21,000 years ago, would push the arrival back much further. The dates have survived several rounds of retesting without yet convincing every critic, and the dolphins decline to referee that one either.
 
 Within a stretch of time that is a blink by the dolphins' calendar — well under a hundred thousand years — one primate species had walked, rafted, or paddled onto every livable continent on Earth except Antarctica.
 
-No other land mammal had ever done this, and no ocean-going mammal had needed to; dolphins had held the whole map for ages, they had simply never needed to plant a flag on any of it.
+No other primate had ever done this, and no ocean-going mammal had needed to; dolphins had held the whole map for ages, they had simply never needed to plant a flag on any of it.
 
 In the intervals between all this walking, humans made stone tools, hunted, presumably argued with the neighbors, and drew surprisingly good pictures on cave walls; the oldest figurative painting yet dated, a scene of people and a pig in a cave on the Indonesian island of Sulawesi, is at least 51,000 years old.
 
@@ -262,11 +266,11 @@ In the intervals between all this walking, humans made stone tools, hunted, pres
 
 For nearly all of Homo sapiens' existence, there was no such thing as home in the modern sense — only a range, walked and re-walked with the seasons.
 
-That changed, independently, in several places at once, starting around 10,000 BCE, in what looks in hindsight like the least likely revolution in the whole book: humans decided to stay near where the wild wheat and barley already grew, in the Fertile Crescent stretching through parts of today's Iraq, Syria, Turkey, and the Levant.
+That changed, independently, in several places over several thousand years, starting around 10,000 BCE, in what looks in hindsight like the least likely revolution in the whole book: humans decided to stay near where the wild wheat and barley already grew, in the Fertile Crescent stretching through parts of today's Iraq, Syria, Turkey, and the Levant.
 
-The story is not quite as tidy as fields first, temples later. At Göbekli Tepe in southeastern Turkey, hunter-gatherers who had not yet domesticated a single crop raised rings of carved limestone pillars, some weighing many tons, around 9600 BCE, more than a thousand years before farming is currently dated in the same region. Whether feeding the crowds who gathered to build it helped tip the balance toward planting deliberately, reversing the usual story in which farming comes first and temples follow, is a question archaeologists have not settled.
+The story is not quite as tidy as fields first, temples later. At Göbekli Tepe in southeastern Turkey, hunter-gatherers raised rings of carved limestone pillars, some weighing many tons, around 9600 BCE, before any fully domesticated crop appears in the region. Whether feeding the crowds who gathered to build it helped tip the balance toward planting deliberately, reversing the usual story in which farming comes first and temples follow, is a question archaeologists have not settled.
 
-Rice was domesticated separately in China, starting by roughly 8000 BCE. Maize, beans, and squash came together in Mesoamerica. Yams and taro were domesticated in New Guinea. None of these groups had contact with each other. All arrived, on their own clocks, at the same idea.
+Rice was brought under cultivation separately in China's Yangtze valley, in a process that was under way by about 7000 BCE and took thousands of years to produce fully domesticated rice. Maize, beans, and squash came together in Mesoamerica. Yams and taro were domesticated in New Guinea. None of these groups had contact with each other. All arrived, on their own clocks, at the same idea.
 
 One domestication in this chapter predates all of them and involved no crop whatsoever. Wolves and humans had struck their own bargain at least 15,000 years ago, well before the first wheat was ever planted on purpose, arriving uninvited to a chapter otherwise about fields and grain as proof that not every alliance in this book needed a harvest to get started.
 
@@ -290,7 +294,9 @@ What farming lacked in individual health it made up in sheer output. A patch of 
 
 *“This was the book's first trade of quality for quantity,” dolphin historians noted. “It would not be the last.”*
 
-*“The hunter-gatherers,” the Society recorded, “voluntarily tied themselves to fields and spent the next ten thousand years worrying about property.”*
+**From the minutes of the Society:**
+
+*Motion: that farming was a mistake. For: eleven pods. Against: nine. Abstaining: four, on the grounds that without farming there would be no fishing fleets, and the Society has never decided how it feels about fishing fleets. Human scholars divide the same way. The geographer Jared Diamond called agriculture “the worst mistake in the history of the human race” in a 1987 essay; most archaeologists consider the verdict too sweeping, since the same fields fed the cities, the writing, and the medicine that later chapters describe. The motion was carried, narrowly, by the half of the quorum that was awake.*
 
 Villages could not be un-invented once the population had grown to fit them. There was no more room upstream to walk back to.
 
@@ -300,9 +306,9 @@ Villages could not be un-invented once the population had grown to fit them. The
 
 ## From 3200 BCE: Writing and Memory — How Humans Learned to Speak to the Future
 
-For every chapter so far, dolphin historians have had to reconstruct human behavior from bones, stone, and ash, the same tools they would use on any other animal.
+Start with one tablet. It is a square of baked clay about three inches across, made, probably in the city of Uruk, sometime between 3400 and 3000 BCE, and it fits in a human palm. Its marks record a large quantity of barley, a period of thirty-seven months, and two signs read as KU and ŠIM: Kushim. Nobody knows whether Kushim was a person, a job title, or an office. The same signs turn up on seventeen other tablets, mostly in accounts of barley and beer.
 
-This is the chapter where the sources start talking back.
+Until this point, dolphin historians have had to reconstruct human behavior from bones, stone, and ash, the same evidence they would use on any other animal. With the Kushim tablet, the sources start talking back, and the first thing they say is how much barley is owed.
 
 Writing appears in Sumer, in southern Mesopotamia, by around 3200 BCE, in the form of cuneiform: wedge-shaped marks pressed into wet clay with a cut reed. Egyptian hieroglyphs emerge at almost the same time, likely independently.
 
@@ -310,7 +316,7 @@ Neither system started as literature. The earliest Sumerian tablets are receipts
 
 Writing, in other words, was invented for bookkeeping, by the same surplus-and-ownership economy the last chapter introduced. Poetry, law, and history came later, riding on infrastructure built for tax season.
 
-The earliest personal name in the written record may be Kushim, which appears on a set of barley receipts from Uruk and may belong to an accountant. The first author known by name, roughly a thousand years later, was a woman: Enheduanna, a high priestess at Ur and a daughter of Sargon of Akkad, who around 2300 BCE composed hymns to the goddess Inanna. And the Epic of Gilgamesh, whose earliest surviving Sumerian poems about the king date from around 2100 BCE, though the unified epic as later generations knew it was assembled centuries after that, contains a flood story that circulated in Mesopotamia long before the biblical one was written down.
+If Kushim was a person, the earliest name in the written record belongs to an accountant. The first author known by name, roughly a thousand years later, was a woman: Enheduanna, a high priestess at Ur and a daughter of Sargon of Akkad, who around 2300 BCE composed hymns to the goddess Inanna. And the Epic of Gilgamesh, whose earliest surviving Sumerian poems about the king date from around 2100 BCE, though the unified epic as later generations knew it was assembled centuries after that, contains a flood story that circulated in Mesopotamia long before the biblical one was written down.
 
 *Professor Click-Click-Whoosh, in the margin: “Fame in the literate world began with paperwork, and has not strayed far since.”*
 
@@ -328,11 +334,9 @@ The Library of Ashurbanipal, assembled in Nineveh in the 7th century BCE, held t
 
 The far more famous Library of Alexandria, founded in Egypt under the Ptolemaic dynasty in the early 3rd century BCE, took the same idea and multiplied its ambition: not merely a collection, but an attempt to gather a copy of every text in the known world, reportedly by searching every ship that docked in Alexandria's harbor for scrolls worth transcribing. Its actual end is more mundane than its popular legend. There was no single dramatic burning by a single villain — a fire during Julius Caesar's visit in 48 BCE damaged part of the collection, further decline followed political instability and reduced funding over the following centuries, and the destruction of the associated Serapeum temple in 391 CE, under an edict against pagan sites, finished off what direct evidence can still trace. By the time of the Arab conquest in the 7th century, the library had already ceased to exist as a major institution for hundreds of years, which is why most historians reject the later, popular story blaming that conquest for its loss.
 
-Dolphin historians linger here longer than anywhere else in the book.
-
 *“We pass down what we know only by living demonstration,” dolphin historians noted. “A calf learns to hunt by watching its mother hunt, generation after generation, and if a pod is lost, its particular hunting culture is lost with it. Humans built a version of memory that survives the death of everyone who held it. After this chapter, they stop forgetting on our clock, and start forgetting, if at all, on their own.”*
 
-Everything from a legal code to a shipping manifest to, eventually, dolphin scholarship's own subject matter, depends on this one invention holding.
+This is the moment the ratchet from the first chapter acquires a memory. A tool can be copied only by someone who sees it; a written instruction can be copied by someone born three centuries later on another continent. Everything from a legal code to a shipping manifest to, eventually, dolphin scholarship's own subject matter, depends on this one invention holding.
 
 **Dolphin verdict:**
 
@@ -344,9 +348,7 @@ Writing gave surplus a memory. This chapter is about what surplus, once remember
 
 Sumer's early city-states — Uruk, Ur, Lagash — were ruled by kings who claimed the gods had put them there, an argument with the enormous practical advantage that it required no further evidence.
 
-It is, dolphin historians note, a remarkably efficient system of governance: no evidence required, no audit possible, and no term limit that heaven felt any particular urgency about enforcing.
-
-Around 2334 BCE, Sargon of Akkad did something no Mesopotamian ruler had managed before: he conquered multiple Sumerian city-states and held them together as one state, arguably the first empire in the modern sense, with a professional standing army instead of a coalition of city militias.
+Sometime around 2300 BCE (the often-quoted 2334 is a modern reconstruction, not a recorded year), Sargon of Akkad did something no Mesopotamian ruler is known to have managed before: he conquered multiple Sumerian city-states and held them together as one state. Historians argue over whether to call it the first empire. His own inscriptions boast of thousands of soldiers who ate daily in his presence, which sounds like the beginnings of a standing army, and like the beginning of a very large grocery bill.
 
 Egypt took a different shape entirely. Around 3100 BCE, Upper and Lower Egypt were unified under a single ruler, beginning a pattern that would hold, with interruptions, for close to three thousand years: one Nile, one pharaoh, one god-king whose authority needed no separate justification because he was not considered separate from the divine to begin with.
 
@@ -364,7 +366,7 @@ Bureaucracy, in the dry modern sense of scribes, tax rolls, and standing regulat
 
 Standing armies did the same for coercion that bureaucracy did for taxation: a permanent, trained force loyal to the state rather than a set of neighbors who happened to answer a call to arms.
 
-This chapter's political inventions extended even to peace. In 1259 BCE, Egypt's Ramesses II and the Hittite king Hattusili III signed what survives as the oldest peace treaty whose full text is still known, ending decades of war between the two great powers of the age and pledging mutual defense and the return of fugitives in language strikingly close to a modern treaty's own. A copy of it hangs today at the United Nations headquarters in New York, a three-thousand-year-old reminder that this species invented the peace treaty in practically the same breath it invented the war worth ending.
+This chapter's political inventions extended even to peace. In 1259 BCE, Egypt's Ramesses II and the Hittite king Hattusili III signed what survives as the oldest peace treaty whose full text is still known, ending decades of war between the two great powers of the age and pledging mutual defense and the return of fugitives in language strikingly close to a modern treaty's own. A replica of one version hangs today at the United Nations headquarters in New York, a three-thousand-year-old reminder that this species invented the peace treaty in practically the same breath it invented the war worth ending.
 
 Dolphin historians treat this chapter as a turning point distinct from the tools before it. Fire, stone axes, and farming were all technologies applied to the physical world. Kingship, law, and bureaucracy are technologies applied to other humans.
 
@@ -380,7 +382,7 @@ While Mesopotamia and Egypt built the pattern of god-king and bureaucracy, a sep
 
 The Xia dynasty survives mostly as legend, its existence debated by historians and treated by dolphin scholarship the way any oral tradition without a matching written or archaeological record deserves: plausible, unconfirmed, and filed separately from certainty.
 
-The Shang dynasty, from around 1600 BCE, is not a legend. Its oracle bones — turtle shells and ox bones, heated until they cracked, the cracks read as answers from ancestors — carry the earliest confirmed Chinese writing, chiefly questions about harvests, weather, and war.
+The Shang dynasty, from around 1600 BCE, is not a legend. Its oracle bones — turtle shells and ox bones, heated until they cracked, the cracks read as answers from ancestors — carry the earliest confirmed Chinese writing, from about 1250 BCE, chiefly questions about harvests, weather, and war.
 
 The Zhou dynasty, succeeding the Shang around 1046 BCE, introduced an idea dolphin historians find unusually self-aware for its era: the Mandate of Heaven, the claim that a ruler holds power only as long as heaven approves, and that heaven's approval can be read backward from a ruler's success. A dynasty that fell, by this logic, had simply proven it never truly had the mandate to begin with.
 
@@ -396,13 +398,13 @@ Much of what is known about this chapter, Shang oracle bones aside, comes down t
 
 The Qin dynasty collapsed within four years of Qin Shi Huang's death, brutal standardization having generated exactly the resentment brutal standardization tends to generate. The Han dynasty that followed kept most of the standardization and dropped most of the brutality, a pairing dolphin historians flag as worth remembering for later chapters.
 
-One of the dynasties riding that tide left a mark still felt in how the country is run today. The Sui dynasty, which seized power in 581 CE and reunified China in 589 after nearly four centuries of division, introduced the imperial civil service examination: a test of the classical texts, open in principle to any man regardless of birth, that was meant to fill government posts by merit instead of pedigree. Refined and expanded under the Tang and Song dynasties that followed, the exam system ran for some thirteen hundred years before being abolished in 1905 — the longest-running standardized test in recorded history, and one no aristocrat's son could inherit his way past, however much some of them clearly wished otherwise.
+One of the dynasties riding that tide left a mark still felt in how the country is run today. The Sui dynasty, which seized power in 581 CE and reunified China in 589 after nearly four centuries of division, introduced the imperial civil service examination: a test of the classical texts, open in principle to any man regardless of birth, that was meant to fill government posts by merit instead of pedigree. Refined and expanded under the Tang and Song dynasties that followed, the exam system ran for some thirteen hundred years before being abolished in 1905 — very likely the longest-running standardized test in recorded history, and one no aristocrat's son could inherit his way past, however much some of them clearly wished otherwise.
 
 This pattern — unify, flourish, fracture, reunify — repeats across Chinese history for the next two thousand years with a regularity dolphin scholars compare, only half-jokingly, to a tide.
 
 **Dolphin verdict:**
 
-*No civilization in this book has matched China's combination of scale and continuity: one script, evolving but recognizable, in continuous use for more than three thousand years, across dynasties that rose and fell like weather. A later chapter will ask what happened when the twentieth century tried to interrupt that continuity on purpose. This chapter's verdict, for now, is simpler: the tide always came back in.*
+*Few civilizations in this book have matched China's combination of scale and continuity: one script, evolving but recognizable, in continuous use for more than three thousand years, across dynasties that rose and fell like weather. A later chapter will ask what happened when the twentieth century tried to interrupt that continuity on purpose. This chapter's verdict, for now, is simpler: the tide always came back in.*
 
 ## 2600 BCE to 550 CE: The Subcontinent — Zero, Gods, and Glorious Complexity
 
@@ -410,7 +412,7 @@ Somewhere between Mesopotamia and China, on the far side of some of the tallest 
 
 The Indus Valley, or Harappan, civilization flourished from roughly 2600 to 1900 BCE across what is now Pakistan and northwestern India. Its cities, Harappa and Mohenjo-daro among them, were laid out on grids, built from bricks of standardized sizes, and equipped with covered drains and private bathrooms, a standard of municipal plumbing that dolphin historians, who have never needed any, nevertheless find deeply admirable, and that much of the world would not match for thousands of years.
 
-The Harappans also had a script, carved on thousands of small stone seals, which nobody has ever managed to read. Some scholars doubt it records a language at all. It makes them the only major civilization of their age whose own account of itself is missing, a filing error dolphin scholarship considers the most tantalizing in the archive. Around 1900 BCE the cities emptied; shifting rivers and a weakening monsoon are the usual suspects, and the case remains open.
+The Harappans also had a script, carved on thousands of small stone seals, which nobody has ever managed to read. Some scholars doubt it records a language at all. It makes them one of the very few major civilizations of the ancient world whose own account of itself cannot be read (Crete's Linear A is another), a filing error dolphin scholarship considers the most tantalizing in the archive. Around 1900 BCE the cities emptied; shifting rivers and a weakening monsoon are the usual suspects, and the case remains open.
 
 What came next was carried, for a very long time, entirely in memory. The Vedas, the oldest sacred texts of what became Hinduism, were composed in Sanskrit beginning around 1500 BCE and passed down by recitation for centuries before anyone wrote them down. The recitation was drilled with such precision, the same verses chanted in several interlocking orders as a built-in error check, that the texts survive, essentially word for word, from an age before writing.
 
@@ -418,7 +420,7 @@ What came next was carried, for a very long time, entirely in memory. The Vedas,
 
 Hinduism had no single founder, no single founding date, and no single book in charge, which makes it difficult to summarize and, dolphin historians suspect, is rather the point. It grew out of the Vedas, the philosophical Upanishads, and two enormous epics, the Ramayana and the Mahabharata, the second of which is many times longer than the Iliad and the Odyssey combined and contains, in the Bhagavad Gita, one of the most-read conversations in world literature: a warrior and his charioteer discussing duty on the eve of a battle. Its gods are numerous and its interpretations more so. Dolphin scholarship, which has managed perfectly well for fifty million years on about one whistle per individual, finds the range humbling.
 
-It also carried, and honest scholarship has to say so, a hierarchy of birth. The caste system assigned occupation and rank by ancestry, and ranked some people so low that they were treated as untouchable. It lasted for more than two thousand years, was outlawed in independent India's constitution in 1950, and is, in practice, still being asked to leave.
+It also carried, and honest scholarship has to say so, a hierarchy of birth. Caste ranked people by ancestry and occupation and placed some so low that they were treated as untouchable. Historians disagree about how rigid the system was in different regions and centuries, and some argue that British censuses and administration hardened categories that had been more fluid; none argues that the hierarchy was a British invention. Independent India's constitution abolished untouchability in 1950 and prohibited discrimination by caste. In marriages, villages, and job markets, caste is still being asked to leave.
 
 In the 6th and 5th centuries BCE, two reform movements grew up beside it. Siddhartha Gautama, the Buddha, taught that suffering comes from craving and can be ended by a disciplined middle path; his teaching crossed Asia and, over the following centuries, largely faded in the country of its birth, a rare case of an export outperforming the home market. Mahavira, in the Jain tradition, pressed one point further than anyone: ahimsa, non-harm, practiced to the degree that devout monks sweep the ground before them to avoid stepping on insects.
 
@@ -434,7 +436,7 @@ The Gupta empire broke up under pressure from nomadic invaders in the 6th centur
 
 **Dolphin verdict:**
 
-*India gave the rest of humanity its numbers, its zero, its chess, and one of its most durable arguments for non-violence, and retained a hierarchy of birth that took two thousand years to outlaw and is taking longer to retire. The dolphin file on the subcontinent, opened long ago, carries two marginal notes: “High intellectual output” and “Excessive complexity.” The second is under review, on the grounds that a civilization able to invent nothing, properly, as a number, can hardly be blamed for the quantity of everything else.*
+*India gave the rest of humanity its numbers, its zero, its chess, and one of its most durable arguments for non-violence, and kept a hierarchy of birth that took until 1950 to outlaw and is taking longer to retire. The dolphin file on the subcontinent, opened long ago, carries two marginal notes: “High intellectual output” and “Excessive complexity.” The second is under review, on the grounds that a civilization able to invent nothing, properly, as a number, can hardly be blamed for the quantity of everything else.*
 
 ## Classical Greece, 508–323 BCE: Democracy's Experiment — Ancient Greece
 
@@ -450,13 +452,13 @@ Sparta, Athens' great rival, organized itself around almost the opposite values:
 
 Philosophy came out of this same world, asking the questions its politics kept raising. Socrates, in the 5th century BCE, questioned everything in public until Athens sentenced him to death for it. Plato, his student, distrusted democracy specifically, having watched it kill his teacher, and imagined a state ruled by trained philosopher-kings instead. Aristotle, Plato's student, wrote systematically across politics, ethics, biology, and logic, and his influence outlasted the city-states that produced him by roughly two thousand years.
 
-The Persian Wars, fought in the early 5th century BCE, saw a coalition of Greek city-states repel the much larger Persian Empire, at Marathon and, more narrowly, at Thermopylae and Salamis. Dolphin historians note the wars mattered less for the battles themselves than for what they let Athens believe about its own place in the world afterward.
+The Persian Wars, fought in the early 5th century BCE, saw a coalition of Greek city-states repel the much larger Persian Empire: at Marathon in 490 BCE and, ten years later, at sea off Salamis, after the famous defeat at Thermopylae had bought a few days. Dolphin historians note the wars mattered less for the battles themselves than for what they let Athens believe about its own place in the world afterward.
 
 Having seen off Persia together, the Greeks promptly turned on each other. The Peloponnesian War, fought between Athens and Sparta and their respective allies from 431 to 404 BCE, ended with Athens defeated, its democracy briefly overthrown, and, five years later, Socrates on trial. Dolphin historians, watching the whole sequence from the coast, could not help noticing that a people who had just proved they could unite against an empire lasted about one generation before returning to what they were evidently better at.
 
 A century and a half later, Alexander the Great, trained in his youth by Aristotle, conquered a swath of territory from Greece to Egypt to the edge of India, spreading Greek language, architecture, and philosophy across a region far larger than Greece had ever ruled on its own. Hellenism outlived Alexander's empire, which fractured into rival kingdoms within a generation of his death in 323 BCE.
 
-The Greeks were also the makers of the earliest known analog computer. In 1900, sponge divers off the island of Antikythera found a shipwreck containing a corroded lump of bronze, later revealed by X-ray to be a device of some thirty geared wheels, made around 100 BCE, that predicted eclipses and tracked the cycle of the Olympic Games. Nothing of comparable sophistication is known to appear again for well over a thousand years. Dolphin historians note, with quiet satisfaction, that it was found by sponge divers, at the bottom of the sea.
+The Greeks were also the makers of the earliest known analog computer. In 1900, sponge divers off the island of Antikythera found a shipwreck containing a corroded lump of bronze, later revealed by X-ray to be a device of some thirty surviving geared wheels, made sometime in the second or early first century BCE, that predicted eclipses and tracked the cycle of the Olympic Games. Nothing of comparable sophistication is known to appear again for well over a thousand years. Dolphin historians note, with quiet satisfaction, that it was found by sponge divers, at the bottom of the sea.
 
 **Dolphin verdict:**
 
@@ -476,9 +478,7 @@ Julius Caesar crossed the Rubicon river with his army in 49 BCE, in defiance of 
 
 The Republic's checks, designed with some care to prevent exactly this outcome, held up for close to five hundred years and then gave way in about twenty, which dolphin historians regard as a thoroughly Roman ratio of centuries spent planning to afternoons spent undoing it.
 
-What Rome built next, over the following two centuries of relative internal peace known as the Pax Romana, is what dolphin historians consider its most durable invention: a network of roads over 250,000 miles long at its peak, aqueducts moving water across entire regions by gravity alone, a body of law distinguishing public and private rights that still underlies many legal systems today, and a path to citizenship that, by 212 CE, extended to almost every free person in the empire.
-
-*“Remarkable administration,” one senior dolphin scholar added in the margin of the file. “Excessive conquering.”*
+What Rome built next, over the following two centuries of relative internal peace known as the Pax Romana, is what dolphin historians consider its most durable invention: a network of roads that, by a common modern estimate, ran to some 250,000 miles at its peak, more than 50,000 of them paved, aqueducts moving water across entire regions by gravity alone, a body of law distinguishing public and private rights that still underlies many legal systems today, and a path to citizenship that, by 212 CE, extended to almost every free person in the empire.
 
 It also had a strategy for domestic peace, which the satirist Juvenal summed up around 100 CE as bread and circuses: free grain for the citizens of the capital and, at the Colosseum, opened in 80 CE, spectacle on a scale nobody has since attempted with the same disregard for the participants. The Pantheon's concrete dome, completed around 126 CE, remains the largest unreinforced concrete dome in the world, which is more than can be said for most of the buildings put up since.
 
@@ -490,9 +490,11 @@ In 395 CE the empire formally split into Western and Eastern halves. The Western
 
 *“There was no single day the lights went out,” dolphin historians observed. “Half the empire kept them on for another millennium, under the same laws and the same god, with a different capital and, eventually, a different language.”*
 
+Human historians are still arguing about which of those two sentences matters more. One school, following Peter Brown, describes a long “late antiquity” of transformation, in which Roman law, Christianity, and Latin carried on under new rulers. Another, led by archaeologists such as Bryan Ward-Perkins, points to what the ground shows in the West after about 400 CE: fewer coins, simpler pottery, smaller buildings, smaller cattle, and a collapse in living standards that took centuries to reverse. The dolphins' own historians have split along exactly the same line.
+
 **Dolphin verdict:**
 
-*Rome is usually told as history's cleanest collapse — a great empire that simply ended. It did not. It fragmented, one half absorbed by the kingdoms that grew up in its ruins, the other half continuing under its own name for a thousand years more. The myth of the clean ending says more about how humans like their stories shaped than about how empires actually finish.*
+*Split decision. The Transformationist pod holds that Rome did not fall; it changed hands, languages, and capitals, and half of it carried on for a thousand years. The Catastrophist pod holds that for a farmer in fifth-century Britain, whose pots got cruder, whose coins vanished, and whose cattle got smaller, the change of hands felt very much like a fall. Both are describing the same evidence from different distances. The dolphins, who watched from the sea, record only that the shipping thinned.*
 
 ## The 5th Century BCE to 1291 CE: Faiths, Crusades, and the Medieval World
 
@@ -502,19 +504,13 @@ Dolphin scholarship, which has always been content to enjoy the ocean and find f
 
 Buddhism, arising in the 5th or 6th century BCE from the teachings of Siddhartha Gautama in what is now Nepal and northern India, spread across Asia over the following centuries through trade routes and, in particular, the patronage of the Indian emperor Ashoka in the 3rd century BCE, who converted after a famously brutal conquest and then spent the rest of his reign promoting nonviolence.
 
-Christianity, beginning as a small Jewish sect in Roman Judea in the 1st century CE, spent its first three centuries as a persecuted minority faith before Emperor Constantine's own conversion and the Edict of Milan in 313 CE legalized it, and Theodosius made it the Roman Empire's official religion by 380 CE. A once-outlawed movement had, within four generations, become the state's own faith.
+Christianity, beginning as a small Jewish sect in Roman Judea in the 1st century CE, spent its first three centuries as a persecuted minority faith before Emperor Constantine's own conversion and the Edict of Milan in 313 CE legalized it, and Theodosius made it the Roman Empire's official religion by 380 CE. A once-persecuted movement had, within seventy years of being legalized, become the state's own faith.
 
-Islam, founded in the 7th century CE following the teachings of the prophet Muhammad in Mecca and Medina, spread with even greater speed: within a century of Muhammad's death in 632 CE, Islamic rule extended from the Iberian Peninsula to the borders of India, an expansion combining religious conviction, military organization, and, in many conquered regions, unusually tolerant terms for existing populations who paid a tax rather than convert. The Quran itself was compiled into a single standardized written text under Caliph Uthman around 650 CE, about two decades after Muhammad's death, drawing on both memorized recitation and scattered written fragments — the same pattern this book keeps finding underneath its founding scriptures: a period of spoken transmission, then a deliberate, human act of writing it down before living memory of the source could fade.
+Islam, founded in the 7th century CE following the teachings of the prophet Muhammad in Mecca and Medina, spread with even greater speed: within a century of Muhammad's death in 632 CE, Islamic rule extended from the Iberian Peninsula to the borders of India, an expansion combining religious conviction, military organization, and, in many conquered regions, terms that were tolerant by the standards of the age: Christians and Jews could keep their faith as protected, subordinate communities if they paid a special tax. The Quran itself was compiled into a single standardized written text under Caliph Uthman around 650 CE, about two decades after Muhammad's death, drawing on both memorized recitation and scattered written fragments — the same pattern this book keeps finding underneath its founding scriptures: a period of spoken transmission, then a deliberate, human act of writing it down before living memory of the source could fade.
 
 Each faith, once established, did two jobs at the same time: it organized how believers should live, and it organized armies, tax systems, and successions in the believers' names. Dolphin historians decline to treat this as cynicism.
 
-*“A belief with no physical form,” dolphin historians noted, “moved more people and more material in a single century than any fleet in this book. Sincerity and organization were never mutually exclusive.”*
-
 While Western Europe, after Rome's western half fell, entered the fragmented centuries the next chapter discusses, the Islamic world entered what historians call its Golden Age: Baghdad's House of Wisdom, from the 8th century onward, translated and extended Greek philosophy and mathematics (algebra takes its name from al-Khwarizmi's 9th-century treatise), while scholars across the Islamic world advanced medicine, optics, and astronomy well beyond what Rome had left behind.
-
-*Dolphin scholars took the period as evidence that civilizations take turns carrying humanity's knowledge forward, and that no single one of them should be allowed to get smug about it.*
-
-*“Humans often create religions that teach peace,” the Society recorded. “They then fight about them.”*
 
 The Crusades, beginning in 1095 when Pope Urban II called for a military campaign to reclaim Jerusalem, ran in waves for close to two centuries, and dolphin historians present them without euphemism: religious conviction, real and widely shared among participants, fused to land claims, trade route control, and, in the notorious Fourth Crusade of 1204, the outright sack of Constantinople, a Christian city, by a Christian army meant to be fighting someone else entirely.
 
@@ -528,49 +524,35 @@ What outlasted the fighting, in dolphin scholarship's accounting, was the contac
 
 ## The Early Middle Ages, 476–1000 CE: The Allegedly Dark Ages
 
-After the fall of Rome, Europe fragmented into smaller kingdoms.
+After the fall of Rome, western Europe fragmented into smaller kingdoms, and later humans called the centuries that followed the Dark Ages.
 
-Humans later called this period the Dark Ages.
-
-The dolphins found this suspicious.
+The dolphins found the name suspicious.
 
 *“Was it truly dark, or were the humans simply missing paperwork?”*
 
 There were fewer records than during the Roman Empire, and many cities shrank. Trade became less extensive in some regions.
 
-Yet elsewhere, life continued.
-
-In Constantinople, emperors governed.
-
-In Baghdad, scholars studied mathematics and astronomy.
+Elsewhere, life went on. Emperors still governed in Constantinople, scholars in Baghdad studied mathematics and astronomy, and India and China flourished.
 
 Baghdad's House of Wisdom deserves a name, not just a mention. Al-Khwarizmi worked there in the 9th century and left behind two words still in daily use: algebra, from the title of his book on solving equations, and algorithm, a Latinized version of his own name. Humans, it should be noted, named a basic unit of modern computing after a mathematician from the middle of their allegedly dark age.
 
-Constantinople alone should have made the label harder to sustain. The emperor Justinian, ruling from 527 to 565, commissioned a systematic compilation of Roman law, the Corpus Juris Civilis, that went on to shape European legal systems for the next fifteen hundred years, and built the Hagia Sophia, completed in 537, whose vast dome remained the largest enclosed interior space anywhere on Earth for the better part of a thousand years.
+Constantinople alone should have made the label harder to sustain. The emperor Justinian, ruling from 527 to 565, commissioned a systematic compilation of Roman law, the Corpus Juris Civilis, that went on to shape European legal systems for the next fifteen hundred years, and built the Hagia Sophia, completed in 537, which remained the largest cathedral in the world for nearly a thousand years.
 
-In India and China, civilizations flourished.
+The label itself has a specific culprit and a much narrower original meaning than students are usually given. The idea goes back to the 14th-century Italian poet Petrarch, who applied it only to what he saw as the loss of classical Latin literary style in the centuries after Rome, not to the era's politics, religion, or science, and not at all to Byzantium, the Islamic world, India, or China, none of which he was thinking about.
 
-The label itself has a specific culprit and a much narrower original meaning than students are usually given. The 14th-century Italian poet Petrarch coined it first, and applied it only to what he saw as the loss of classical Latin literary style in the centuries after Rome, not to the era's politics, religion, or science, and not at all to Byzantium, the Islamic world, India, or China, none of which he was thinking about.
-
-The dolphins concluded:
-
-*“The oceans did not notice any darkness.”*
+*“The oceans,” the dolphins concluded, “did not notice any darkness.”*
 
 Nor was Europe standing still. Kingdoms formed, trade expanded, farming improved with the heavy plow, the water mill, and the horse collar, and, a little later, universities appeared.
 
-Charlemagne, crowned Holy Roman Emperor in Rome on Christmas Day, 800 CE, gathered scholars from across Europe at his court, the Englishman Alcuin of York chief among them, and standardized a new, clearer handwriting, Carolingian minuscule, whose rounded lowercase letters are the direct ancestors of the ones printed on this page. Charlemagne himself, by his own biographer's account, kept writing tablets under his pillow to practice his letters and never fully mastered the skill.
+Charlemagne, crowned Holy Roman Emperor in Rome on Christmas Day, 800 CE, gathered scholars from across Europe at his court, the Englishman Alcuin of York chief among them, and standardized a new, clearer handwriting, Carolingian minuscule, whose rounded lowercase letters are the direct ancestors of the ones printed on this page. Charlemagne himself, by his biographer Einhard's account, kept writing tablets under his pillow to practice his letters in spare moments, and began too late in life to master the skill.
 
-*“The man who revived European literacy,” dolphin historians observed, “reportedly could not write his own name. Humans, it should be said, have never let competence stand in the way of sponsorship.”*
+*“The man who revived European literacy,” dolphin historians observed, “never quite learned to write. Humans, it should be said, have never let competence stand in the way of sponsorship.”*
 
 The disruption was not entirely a matter of missing paperwork, either. Norse raiders sacked the monastery at Lindisfarne, off the English coast, in 793 CE, a single attack Christian Europe treated for a generation afterward as a sign the world had turned hostile, and Viking raids and settlement continued for the better part of three centuries.
 
 One popular idea about the period is worth correcting directly, since it runs exactly backward. Educated medieval Europeans did not believe the world was flat. The Earth's sphericity, established by Greek astronomers centuries earlier, was standard teaching in medieval universities and never seriously disputed by anyone with an education to lose. The flat-earth myth about the era was largely manufactured in the 19th century, not least by Washington Irving's mostly invented 1828 biography of Columbus, which put a fictional flat-earth argument into the mouths of scholars who had never made one.
 
-Humans were, however, still deeply committed to warfare. Castles appeared.
-
-The dolphins were confused.
-
-*“Instead of solving their disputes,” dolphin historians noted, “they built larger walls.”*
+Warfare did not pause. From the ninth and tenth centuries, castles began to rise across the landscape, as lords built walls rather than settle their disputes.
 
 Centuries later, some humans became so dissatisfied with the traditional story that they proposed radical alternatives.
 
@@ -578,11 +560,9 @@ One mathematician, Anatoly Fomenko, argued that large parts of ancient history h
 
 Most historians rejected this idea and pointed to archaeological evidence, written records, radiocarbon dating, and other methods that support the conventional timeline.
 
-The dolphins regarded the dispute with amusement.
+**From the minutes of the Society:**
 
-*“Human historians were arguing not merely about what happened, but about when it happened.”*
-
-After studying both sides, the International Dolphin Historical Society reached its own verdict.
+*Motion to adopt Fomenko's chronology: defeated, unanimously, by both halves of every brain present. Motion to retire the phrase “Dark Ages”: carried, with one abstention from a member who wished it recorded that the North Sea in the ninth century was, in fact, quite dark.*
 
 **Dolphin verdict:**
 
@@ -598,13 +578,15 @@ What moved along it was not only goods. Buddhism traveled east into China. Chris
 
 The roads were at their busiest and safest under the Mongols, which is not a sentence anyone expects.
 
-In 1206 a chieftain named Temüjin was proclaimed Genghis Khan, ruler of all the Mongols, and within a few decades his family ruled the largest contiguous land empire in history, from Korea to the borders of central Europe. The conquests were catastrophic. When Baghdad fell in 1258, the chroniclers said the Tigris ran black with the ink of its destroyed libraries and red with the blood of its people, and historians' estimates of deaths across the whole campaign run into the tens of millions. Dolphin historians see no reason to soften any of this. They would only add that the same empire ran one of the most efficient postal systems of the pre-modern world, in which relay riders could reportedly cover up to two hundred miles a day.
+In 1206 a chieftain named Temüjin was proclaimed Genghis Khan, ruler of all the Mongols, and within a few decades his family ruled the largest contiguous land empire in history, from Korea to the borders of central Europe. The conquests were catastrophic. When Baghdad fell in 1258, the chroniclers said the Tigris ran black with the ink of its destroyed libraries and red with the blood of its people. Estimates of the dead across all the Mongol campaigns run into the millions, and on some counts the tens of millions; the medieval figures cannot be checked, and nobody who has studied them thinks they were small.
 
-Having conquered nearly everyone, the Mongols proved surprisingly relaxed about what their subjects believed and extremely interested in whether the trade was flowing. The resulting stability, the Pax Mongolica, made it possible for a Venetian named Marco Polo to travel to the Great Khan's court in the 1270s and return with a book. Whether he saw everything he described is still debated. Whether he brought back pasta is not: he did not.
+Having conquered nearly everyone, the Mongols ran one of the most efficient postal systems of the pre-modern world, in which relay riders could reportedly cover up to two hundred miles a day, and proved surprisingly relaxed about what their subjects believed and extremely interested in whether the trade was flowing. The resulting stability, the Pax Mongolica, made it possible for a Venetian named Marco Polo to travel to the Great Khan's court in the 1270s and return with a book. Whether he saw everything he described is still debated. Whether he brought back pasta is not: he did not.
 
-The same network that carried silk and paper also carried, in the 1340s, a bacterium. Recent ancient-DNA studies point to the region of present-day Kyrgyzstan as the plague's starting point, from which it followed the trade routes with caravans and armies until it reached the Crimean port of Kaffa in 1346. An Italian chronicler who was not present reported that the besieging Mongol army catapulted plague victims over the walls; historians treat the story with caution, since the disease was evidently arriving by ordinary means as well. What is beyond dispute is that in October 1347 Genoese galleys carrying sick sailors put into Messina, in Sicily, and that within about five years perhaps a third to a half of Europe was dead, with heavy losses elsewhere across the Middle East and North Africa.
+The same network that carried silk and paper also carried, in the 1340s, a bacterium. Recent ancient-DNA studies point to the region of present-day Kyrgyzstan as the plague's starting point, from which it followed the trade routes with caravans and armies until it reached the Crimean port of Kaffa in 1346. An Italian chronicler who was not present reported that the besieging Mongol army catapulted plague victims over the walls; historians treat the story with caution, since the disease was evidently arriving by ordinary means as well. What is beyond dispute is that in October 1347 Genoese galleys carrying sick sailors put into Messina, in Sicily, and that within about five years perhaps a third to a half of Europe was dead, with heavy losses across the Middle East and North Africa as well.
 
-Dolphin historians, who watched a great many Genoese ships go by, note that a large part of the Black Death's itinerary was maritime, and that rats have always made excellent passengers and terrible guests.
+Numbers that size stop meaning anything, so here is one man. In Siena, where the plague arrived in the spring of 1348, a tax official named Agnolo di Tura kept a chronicle. In the middle of it he wrote: “I, Agnolo di Tura, called the Fat, buried my five children with my own hands.” He went on with the chronicle afterward. There was nobody else to write it.
+
+Dolphin historians, who watched a great many Genoese ships go by, note that much of the Black Death's itinerary was maritime. Rats have always made excellent passengers and terrible guests, though recent studies suggest that in many European outbreaks the disease spread more through human fleas and lice than through rats.
 
 *“Humans built the first genuinely continental trade network,” dolphin historians noted, “and were unpleasantly surprised to learn that a market open to silk is also open to everything else that hitches a ride.”*
 
@@ -618,7 +600,7 @@ The Mongol empire itself broke into rival khanates within a few generations, and
 
 It is a common error, and an old one, to picture Africa between the pyramids and the slave ships as a blank. Dolphin historians, who have watched the continent's coastlines for rather longer than anyone has been drawing maps of them, would like to correct the record.
 
-Start with the pyramids. The kingdom of Kush, south of Egypt in what is now Sudan, spent centuries as Egypt's neighbor, trading partner, and occasional conqueror: in the 8th century BCE the Kushite king Piye marched north and founded Egypt's 25th dynasty, whose pharaohs ruled the Nile valley for about seventy years. Kush built pyramids of its own, smaller and steeper than Egypt's, and built more of them: Sudan today has more pyramids than Egypt. Its iron-working capital, Meroë, was once described by an early 20th-century archaeologist as the Birmingham of ancient Africa, on account of the slag heaps, a compliment Birmingham has yet to return.
+Start with the pyramids. The kingdom of Kush, south of Egypt in what is now Sudan, spent centuries as Egypt's neighbor, trading partner, and occasional conqueror: in the 8th century BCE the Kushite king Piye marched north and founded Egypt's 25th dynasty, whose pharaohs ruled the Nile valley for most of a century. Kush built pyramids of its own, smaller and steeper than Egypt's, and built more of them: Sudan today has more pyramids than Egypt. Its iron-working capital, Meroë, was once described by an early 20th-century archaeologist as the Birmingham of ancient Africa, on account of the slag heaps, a compliment Birmingham has yet to return.
 
 Further east, the kingdom of Aksum, in what is now Ethiopia and Eritrea, grew rich on Red Sea trade between the 1st and 7th centuries CE, minted its own gold coins, raised towering carved stone obelisks, and, under King Ezana around 330 CE, became one of the first states anywhere to adopt Christianity. In the 3rd century the Persian prophet Mani is reported to have listed the four great kingdoms of the earth as Persia, Rome, China, and Aksum, which is company the average textbook does not offer it.
 
@@ -626,19 +608,19 @@ South of the Sahara, the wealth was gold and salt. Gold came out of the forests 
 
 The most famous of their rulers, Mansa Musa of Mali, set out on the pilgrimage to Mecca in 1324 with a caravan that Arab chroniclers put at tens of thousands of people, and gave away so much gold in Cairo that, by their account, its price stayed depressed there for more than a decade. A map made in Spain in 1375, the Catalan Atlas, shows him on a throne holding a gold nugget, which is how European mapmakers chose to introduce the wealthiest man in Africa to their readers.
 
-He returned with architects and scholars, and Timbuktu, on the edge of the desert, became a center of learning whose mosques and private libraries filled with hand-copied manuscripts on law, astronomy, medicine, and mathematics. Some of them survive for a reason dolphin scholars find deeply moving. In 2012, when armed extremists occupied Timbuktu, librarians and volunteers quietly smuggled most of an estimated 350,000 manuscripts out of the city, some of them by river.
+He returned with architects and scholars, and Timbuktu, on the edge of the desert, became a center of learning whose mosques and private libraries filled with hand-copied manuscripts on law, astronomy, medicine, and mathematics. Some of them survive for a reason dolphin scholars find deeply moving. In 2012, when armed extremists occupied Timbuktu, librarians and volunteers quietly smuggled most of an estimated 350,000 manuscripts out of the city, by their own count, some of them by river.
 
 *“A library is only as safe as the people willing to carry it out,” the Society recorded, with the Library of Alexandria in mind.*
 
 On the other side of the continent, the Swahili city-states of the East African coast, Kilwa and Mombasa among them, grew rich on monsoon-driven trade across the Indian Ocean, exchanging gold and ivory for Chinese porcelain and Indian cloth. Inland, the great stone enclosures of Great Zimbabwe housed thousands of people at their peak between the 11th and 15th centuries. European colonial officials, unwilling to believe that Africans had built it, attributed it for decades to the Phoenicians, King Solomon, or the Queen of Sheba, to anyone but the people who lived there, until archaeologists established beyond argument who had.
 
-And in the forests of what is now Nigeria, the kingdom of Benin produced, from at least the 13th century and most famously in the 16th, some of the finest cast-metal art in the world. In 1897 a British military expedition burned Benin City and carried off thousands of its bronze and ivory works, which were sold, dispersed, and displayed in museums across Europe and America. Whether and how they should go home remains a live argument, and some have begun to.
+And in the forests of what is now Nigeria, the kingdom of Benin produced, from at least the 13th century and most famously in the 16th, some of the finest cast-metal art in the world. Take one piece. It is a brass plaque about the size of a large book, one of several hundred cast to be nailed to the wooden pillars of the oba's palace. It shows a Portuguese trader in a brimmed hat holding a manilla, the brass bracelet that served as currency in the coastal trade. Benin's artists recorded the Europeans the way Europeans would later decline to record Africans: carefully, and as one detail in a kingdom's own story.
 
-The Atlantic slave trade, told in a later chapter, took its victims from societies like these: kingdoms with cities, laws, armies, scholars, and treasuries, not from a blank. Dolphin scholarship would like that borne in mind when the ships arrive.
+In 1897 a British military expedition, sent after an earlier British party was ambushed on its way to the city, burned Benin City and carried off thousands of its brass and ivory works, which were sold, dispersed, and displayed in museums across Europe and America. Whether and how they should go home is still argued. Germany and the Smithsonian began returning pieces in 2022, and in 2023 Nigeria's government declared the Oba of Benin their rightful owner; many other museums are still deciding.
 
-**Dolphin verdict:**
+The Atlantic slave trade, told in a later chapter, took its victims from societies like these: kingdoms with cities, laws, armies, scholars, and treasuries, not from a blank. The picture of Africa as a place where history happened to other people is largely a European invention, and it lasted about as long as it was useful.
 
-*The picture of Africa as a place where history happened to other people is a European invention, and it lasted about as long as it was useful. The evidence for the continent's own kingdoms is written in stone, gold, ink, and bronze, much of it still standing, and the dolphins, who have never needed a European to tell them what was on the coast, would ask only that it be read as it was left.*
+The plaque's pillar is gone, and so is the palace it was nailed to. The nail holes are still in the brass.
 
 ## 2600 BCE to 1491 CE: Before Columbus — Cities, Corn, and Knotted String
 
@@ -646,17 +628,21 @@ When Spanish soldiers first came down the causeway into the Aztec capital in 151
 
 The story begins with corn. Somewhere in southern Mexico, some nine thousand years ago, farmers began breeding a scruffy wild grass called teosinte into maize, a project of such patient and improbable success that geneticists still argue about how it was done. Beans and squash followed, and with them, cities.
 
-Caral, in Peru's Supe Valley, was raising monumental pyramids around 2600 BCE, roughly when Egypt was raising its own. The Olmec of the Gulf Coast carved colossal stone heads. The Maya built astronomically aligned cities in the rainforest and developed one of the few true writing systems in the world. Teotihuacan, near present-day Mexico City, held well over a hundred thousand people at its height, making it one of the largest cities on Earth. The great Maya cities were largely abandoned between about 800 and 950 CE, apparently through some combination of drought, warfare, and overreach, a sequence that recurs throughout this book.
+Caral, in Peru's Supe Valley, was raising monumental pyramids around 2600 BCE, roughly when Egypt was raising its own. The Olmec of the Gulf Coast carved colossal stone heads. The Maya built astronomically aligned cities in the rainforest and developed one of the few true writing systems in the world. Teotihuacan, near present-day Mexico City, held perhaps a hundred thousand people or more at its height, which would have made it one of the largest cities on Earth. The great Maya cities were largely abandoned between about 800 and 950 CE, apparently through some combination of drought, warfare, and overreach, a sequence that recurs throughout this book.
 
-By 1519 the Aztec, or Mexica, capital of Tenochtitlan, built on an island in a lake and fed by artificial floating gardens, held some two hundred thousand people, more than most European cities of the day. It had aqueducts, causeways, and a market that astonished the Spaniards. It also practiced human sacrifice on a scale that horrified them, and dolphin historians think it important to say so plainly: a civilization can be both a marvel and a horror, and the humans of both hemispheres demonstrated as much.
+By 1519 the Aztec, or Mexica, capital of Tenochtitlan, built on an island in a lake and fed by artificial floating gardens, held, on estimates that run from about 60,000 to more than 200,000, more people than most European cities of the day, even at the low figure. It had aqueducts, causeways, and a market that astonished the Spaniards. It also practiced human sacrifice on a scale that horrified them, and dolphin historians think it important to say so plainly: a civilization can be both a marvel and a horror, and the humans of both hemispheres demonstrated as much.
 
-In the Andes, the Inca Empire, at its height in the 15th century, ruled some ten million people across the length of the mountain chain, linked by roads and rope bridges running somewhere from 14,000 to 25,000 miles depending on what counts as part of the network, without the wheel, without draft animals beyond the llama, and without any writing that anyone has been able to read. It kept its records on the quipu, a system of knotted, colored strings in which the type and position of each knot recorded numbers, and, some scholars now argue, possibly more.
+In the Andes, the Inca Empire, at its height in the 15th century, ruled perhaps ten million people (estimates run from about six to fourteen million) across the length of the mountain chain, linked by roads and rope bridges running somewhere from 14,000 to 25,000 miles depending on what counts as part of the network, without the wheel, without draft animals beyond the llama, and without any writing that anyone has been able to read. It kept its records on the quipu, a system of knotted, colored strings in which the type and position of each knot recorded numbers, and, some scholars now argue, possibly more.
 
 *“The writing chapter counted four independent inventions of writing,” dolphin historians noted. “The Inca ran an empire of ten million on knotted string and declined to be counted among them. The fifth candidate has never quite been ruled out.”*
 
 Inca stonework matched the roads for ambition. At sites like Sacsayhuamán above Cusco and the mountaintop retreat of Machu Picchu, built around 1450 CE for reasons still debated (a royal estate is the leading guess), masons fitted multi-ton stones together without mortar so precisely that a knife blade still cannot slide between the joints, a technique that has helped several Inca walls outlast earthquakes that leveled colonial Spanish buildings raised right beside them centuries later.
 
-North of Mexico, Cahokia, beside the Mississippi near present-day St. Louis, held perhaps ten to twenty thousand people around 1100 CE and built Monks Mound, an earthwork larger at its base than the Great Pyramid of Giza. In the Amazon basin, farmers engineered dark, fertile soils, terra preta, that are still worked today. Estimates of the population of the whole hemisphere before 1492 run to tens of millions.
+North of Mexico, Cahokia, beside the Mississippi near present-day St. Louis, held perhaps ten to twenty thousand people around 1100 CE and built Monks Mound, an earthwork larger at its base than the Great Pyramid of Giza. In the Amazon basin, farmers engineered dark, fertile soils, terra preta, that are still worked today.
+
+How many people lived in the whole hemisphere in 1491 is one of the most contested numbers in this book. In 1966 the anthropologist Henry Dobyns proposed as many as 90 to 112 million. Skeptics, most forcefully the historian David Henige, answered that such figures multiply one guess by another. A 2019 synthesis of the regional studies settled near 60 million, with wide margins either side. Every estimate shapes the next chapter, because the size of the collapse depends on the size of what collapsed.
+
+*The Society divides on this question into the High Counters and the Low Counters, a split that mirrors the human one so exactly that each school accuses the other of having read the wrong anthropologist. Both agree on the shape of what came next, which is the part that matters.*
 
 Dolphins, who had spent thousands of years watching both coasts, have one small footnote to add. Genetic studies published in 2020 found Native American ancestry in people on several Polynesian islands, dated to around 1200 CE, which suggests that Polynesian voyagers reached South America and came back some three centuries before Columbus, possibly with the sweet potato. Dolphin historians say only that they saw the canoes.
 
@@ -664,13 +650,13 @@ What happened next is told in the chapter on the ships. Dolphin scholarship asks
 
 **Dolphin verdict:**
 
-*The Americas of 1491 were not a wilderness waiting to be found. They held cities larger than most in Europe, crops that would go on to feed the world, and, in the quipu, a rival to the idea of writing itself. Everything that follows in the next chapters is, in part, a story about what was done to a hemisphere that was doing fine. The dolphins add, in a spirit of gratitude, that there would be no chips without the Andes, and that fish and chips is therefore half Andean.*
+*The Americas of 1491 were not a wilderness waiting to be found. They held cities larger than most in Europe, crops that would go on to feed the world, and, in the quipu, a rival to the idea of writing itself. They had their own empires, wars, and cruelties, and were in no need of rescue. Everything that follows in the next chapters is, in part, a story about what was done to them. The dolphins add, in a spirit of gratitude, that there would be no chips without the Andes, and that fish and chips is therefore half Andean.*
 
 ## The 15th to 17th Centuries: Ships, Gunpowder, and Gold — Exploration, Conquest, and the Colonial Age
 
-Dolphins want one point on the record before this chapter starts: humans did not invent the ocean crossing. An earlier chapter already covered the settling of Australia by boat, tens of thousands of years earlier. Polynesian navigators crossed thousands of miles of open Pacific and settled Hawaii, New Zealand, and Rapa Nui using only stars, swells, and memorized wave patterns, centuries before the ships in this chapter set sail. Norse sailors reached North America around 1000 CE, roughly five hundred years ahead of the more famous version of the story.
+Dolphins want one point on the record before this chapter starts: the Europeans of this chapter did not invent the ocean crossing. An earlier chapter already covered the settling of Australia by boat, tens of thousands of years earlier. Polynesian navigators crossed thousands of miles of open Pacific and settled Hawaii, New Zealand, and Rapa Nui using only stars, swells, and memorized wave patterns, centuries before the ships in this chapter set sail. Norse sailors reached North America around 1000 CE, roughly five hundred years ahead of the more famous version of the story.
 
-China, too, had been to sea in force. Between 1405 and 1433, the Ming dynasty sent seven great treasure fleets under the admiral Zheng He, some with hundreds of ships and tens of thousands of men, as far as India, Arabia, and the east coast of Africa, in vessels considerably larger than anything Columbus or da Gama would later command. Then the court decided that exploration was expensive, that the fleets should stop, and that the ships should be allowed to rot. Dolphin historians file this under the most consequential budget decision in the book.
+China, too, had been to sea in force. Between 1405 and 1433, the Ming dynasty sent seven great treasure fleets under the admiral Zheng He, some with hundreds of ships and tens of thousands of men, as far as India, Arabia, and the east coast of Africa, in fleets far larger than anything Columbus or da Gama would later command. How big the largest ships were is still argued, since the traditional figures would make them the biggest wooden ships ever built. Then the court decided that exploration was expensive, that the fleets should stop, and that the ships should be allowed to rot. Dolphin historians file this under the most consequential budget decision in the book.
 
 What changed in the late 15th century was not the idea of crossing an ocean. It was what happened to whoever was standing on the other side when the ships arrived.
 
@@ -682,23 +668,27 @@ England arrived late and, for its first century in the race, unsuccessfully. Joh
 
 Gunpowder, invented in China centuries earlier, had by this point been adapted into cannon and firearms that gave technologically organized states a decisive edge over societies without them. Historians coined the term “gunpowder empires” for the Ottoman, Safavid, and Mughal states, which rose on exactly this advantage; Spain, Portugal, and later England and France ran the same arithmetic, carried by ship.
 
-*“The Chinese,” dolphin historians noted, “repeatedly invent revolutionary technologies — paper, printing, the compass, gunpowder — and then watch other humans put them to work in wars.”*
-
 Much of the competition between these empires was carried out by men whose legal status depended solely on which flag happened to be paying them that year. Francis Drake raided Spanish treasure ships across the Caribbean and Pacific through the 1570s and 80s, completed the second circumnavigation of the globe in the process, and was knighted for all of it by Elizabeth I in 1581 — by Spain's perfectly reasonable accounting, a pirate who happened to be drawing an English queen's salary.
 
-*“Every one of these voyages happened on the water,” Professor Click-Click-Whoosh observed. “Humans call this chapter exploration, conquest, or piracy depending on whose flag was flying at the time. Dolphins call it several centuries of unusually heavy traffic through a habitat nobody asked our permission to use.”*
+The conquest of the Americas that followed was, in the dolphins' accounting, not primarily a military story. Disease did most of the killing: smallpox, measles, and influenza, carried unknowingly by the first waves of contact, killed a majority of the Indigenous population of the Americas over the following century and a half. Estimates of the share range from around half to as high as 90 percent, because the population they are measured against is itself disputed. Historians now stress that disease did not work alone. War, forced labor, the enslavement of Indigenous people, famine, and the breaking up of communities all made epidemics deadlier than they would otherwise have been. Cortés took the Aztec capital, Tenochtitlan, in 1521, after smallpox had swept through it; Pizarro captured the Inca emperor Atahualpa in 1532, in an empire already torn by an epidemic and a civil war over the succession.
 
-The conquest of the Americas that followed was, in the dolphins' accounting, not primarily a military story. Disease did most of the work: smallpox, measles, and influenza, carried unknowingly by the first waves of contact, killed an estimated majority of the Indigenous population of the Americas over the following century and a half — estimates for just how much range from around half to as high as 90 percent, since the pre-contact population they're measured against remains disputed — a demographic collapse with no real precedent elsewhere in this book. Conquest by force, from Cortés's fall of the Aztec capital Tenochtitlan in 1521 to Pizarro's capture of the Inca emperor Atahualpa in 1532, finished what disease had made possible well before the soldiers arrived.
+Here, for the first time, the ratchet was pointed at other people on a global scale. Ships, guns, compasses, printed charts, and double-entry bookkeeping were the accumulated inventions of many civilizations, Chinese, Arab, Indian, and European, and in this century they were concentrated in a few European hands. Every inhabited continent was now connected into a single system. The capability was cumulative. The decisions about what to do with it were made one voyage at a time.
 
-The Atlantic slave trade ran alongside this conquest and then outlasted it by centuries. Between the 16th and 19th centuries, an estimated 12.5 million enslaved Africans, taken from societies like those of the earlier chapter on the continent's kingdoms, were forcibly transported across the Atlantic; an estimated 1.8 million died during the crossing itself. Those who survived were sold into forced labor, overwhelmingly on plantations, under a legal system in much of the Americas that treated a person as property, generation after generation, by law.
+The Atlantic slave trade ran alongside this conquest and outlasted it by centuries. Between the early 1500s and the 1860s, about 12.5 million Africans were forced aboard ships bound for the Americas. About 10.7 million survived the crossing. The difference, roughly 1.8 million people, died at sea, and their bodies went into the water. Those who survived were sold into forced labor, overwhelmingly on sugar, tobacco, rice, and later cotton plantations, under laws that made a person property and made the condition hereditary.
 
-Dolphin historians, who watched every one of these ships cross open water, decline to separate the achievement of the crossing from the cargo and the consequence of it.
+The figures come from the records of some 36,000 voyages, assembled by historians over decades into a single database. They are among the most precise numbers in this book for any atrocity, because the people who committed it kept accounts. A ledger is exact, and it is not enough. A number that large does not hold a person.
 
-*“Exploration and atrocity traveled in the same hulls,” dolphin scholars remarked. “The ships that mapped the world and the ships that emptied it of the people who lived there were very often the same ships, on the same voyage.”*
+One person who crossed wrote it down. Olaudah Equiano published his autobiography in London in 1789, describing how he was kidnapped as a child in what is now southeastern Nigeria and carried to the coast. Below deck, he wrote, “The closeness of the place, and the heat of the climate, added to the number in the ship, which was so crowded that each had scarcely room to turn himself, almost suffocated us.” Children fell into the latrine tubs. He remembered “the shrieks of the women, and the groans of the dying.”
 
-**Dolphin verdict:**
+Some historians, following his biographer Vincent Carretta, point to a baptismal record and a naval muster roll that give Equiano's birthplace as South Carolina, and wonder whether he built his African chapters from what other survivors told him; others defend his account as his own. Either way, the scene in the hold matches what ship records, surgeons' logs, and other survivors describe.
 
-*This chapter's ships did what fire, farming, and writing before them could not: they connected every inhabited continent into a single system for the first time. What moved through that system was two-sided in the fullest sense — new crops, new knowledge, and new contact in one direction; disease, conquest, and human trafficking on a scale without precedent in the other. Both halves are the story. Neither one is optional.*
+One sentence in Equiano's account the dolphins have never been able to read past. So ill that the crew kept him almost always on deck, and too young to be put in fetters, he watched the water and wrote: “Often did I think many of the inhabitants of the deep much more happy than myself. I envied them the freedom they enjoyed.”
+
+The trade outlived the laws against it. Britain banned it in 1807 and the United States in 1808, but smuggling went on for decades. In 1860 an Alabama businessman, reportedly on a bet that he could still get away with it, sent a schooner named Clotilda to the port of Ouidah, where its captain bought about 110 captives from the kingdom of Dahomey, whose army had taken them in raids. The ship landed them secretly near Mobile, and then the crew burned it.
+
+Among the captives was a young man of about nineteen named Kossola, taken when Dahomey's soldiers attacked his town in what is now Benin. In Alabama, the man who claimed him could not pronounce his name, and Kossola told him to call him Cudjo. Freed in 1865, he and other Clotilda survivors saved their wages, bought land, and built a settlement outside Mobile that they called African Town. In 1927 and 1928 the writer Zora Neale Hurston sat with him there and wrote down his life in his own words; the book, Barracoon, was not published until 2018. He died in 1935, one of the last survivors of the last known slave ship to reach the United States.
+
+Divers found the burned hull of the Clotilda in 2018, in the Mobile River upstream of Mobile Bay, a few miles from the town its passengers built.
 
 ## 1450 to the Late 1800s: Machines and Manifestos — Renaissance, Enlightenment, and Industry
 
@@ -718,13 +708,13 @@ The 1789 Declaration of the Rights of Man and of the Citizen proclaimed those ri
 
 Industry arrived on a separate but overlapping timeline. Steam power, made practical by Thomas Newcomen's pumping engine of 1712 and efficient by James Watt's improved engine, patented in 1769, uncoupled work from muscle, wind, and water for the first time in human history, and by the early 1800s it was running textile mills, and by mid-century, railroads. Output per worker rose by multiples that no previous technology, including the plow and the domesticated ox, had ever delivered.
 
+This is where the ratchet from the first chapter acquires an engine. For a million years the stored know-how of the species had been multiplied by muscle, its own or an animal's. Coal multiplied it by sunlight buried three hundred million years earlier. Wisdom had no equivalent fuel. Factory laws, public sanitation, and limits on child labor all came eventually, but each had to be argued for, one parliament and one generation at a time, after the damage was done.
+
 The other side of the ledger was immediate, and dolphin historians insist on stating it beside the productivity gains, not tucked in afterward: children as young as five or six worked textile mill floors on twelve-hour shifts; new industrial cities like Manchester grew so fast that sanitation and housing never caught up, and cholera outbreaks followed accordingly.
 
 *Professor Click-Click-Whoosh, in the margin beside Manchester: “Also raining.”*
 
-Forests vanished into furnaces, coal smoke turned industrial skies the color of old newspaper, and factory waste began its long journey to the sea. As late as December 1952, London suffered a week of unfiltered coal smoke that killed thousands of people in a few days, a rare occasion on which British weather was not entirely the weather's fault.
-
-*“Humans solved many problems,” dolphin historians noted, “by creating larger problems.”*
+Forests vanished into furnaces, coal smoke turned industrial skies the color of old newspaper, and factory waste began its long journey to the sea. As late as December 1952, London suffered five days of coal smoke so thick that about four thousand people died within days, and by later estimates as many as twelve thousand over the following months, a rare occasion on which British weather was not entirely the weather's fault.
 
 Nationalism, an idea barely a century old in its modern form, hardened through the late 1800s into competitive alliances between the newly industrial and imperial powers of Europe — Germany (whose own rapid unification in 1871 is a later chapter's starting point), France, Britain, Austria-Hungary, and Russia, each arming and allying against the others in a system explicitly built, on paper, to prevent exactly the war it produced.
 
@@ -744,7 +734,7 @@ The country grew, and a good deal of its growth came at other people's expense. 
 
 Not everyone was comfortable. In 1848, at Seneca Falls, a convention of women drafted a declaration modeled on Jefferson's, altering one phrase to read that all men and women are created equal. The abolitionist movement, much of it led by people who had themselves been enslaved, Frederick Douglass and Sojourner Truth among them, made the same argument about race.
 
-Whaling, meanwhile, was a substantial American industry, and dolphin historians take a personal interest in it: sperm whales, whose distant cousins the dolphins are, were hunted for lamp oil in enormous numbers by the fleets of Nantucket and New Bedford, and Herman Melville's Moby-Dick, published in 1851, gave the enterprise its most famous account. What ended the boom was not conscience but chemistry. In 1859 Edwin Drake drilled the first commercial oil well in Pennsylvania, and kerosene replaced whale oil in lamps within a few years. Dolphin scholarship records its gratitude to petroleum, with the reservation that a later chapter will discuss what petroleum did next.
+Whaling, meanwhile, was a substantial American industry, and dolphin historians take a personal interest in it: sperm whales, whose distant cousins the dolphins are, were hunted for lamp oil in enormous numbers by the fleets of Nantucket and New Bedford, and Herman Melville's Moby-Dick, published in 1851, gave the enterprise its most famous account. What ended the boom was chiefly not conscience but chemistry. The industry was already declining as whales grew scarcer and voyages longer; in 1859 Edwin Drake drilled the first commercial oil well in Pennsylvania, and kerosene soon replaced whale oil in lamps. Dolphin scholarship records its gratitude to petroleum, with the reservation that a later chapter will discuss what petroleum did next.
 
 The argument over slavery finally became a war. From 1861 to 1865, the Union and the Confederacy fought the bloodiest conflict in American history, in which somewhere between 620,000 and 750,000 soldiers died. Lincoln's Emancipation Proclamation took effect on January 1, 1863. That November, at Gettysburg, he delivered in about two minutes and 272 words a speech that dolphin historians consider a model of the form, and that was, in essence, about Jefferson's sentence: a nation conceived in liberty and dedicated to the proposition that all men are created equal, and a war to test whether it could survive. The Thirteenth Amendment abolished slavery in December 1865, eight months after Lincoln's assassination.
 
@@ -764,17 +754,15 @@ The Pilgrims who landed at Plymouth in 1620, and the much larger Puritan migrati
 
 Quakers, hanged in Massachusetts around 1660 and welcomed in the Pennsylvania that William Penn founded in 1681, brought one of the first sustained peace-church traditions to American soil: refusal of violence, refusal of oaths, plain living. Amish and Mennonite communities, arriving from German-speaking Europe through the 18th century, carried an even stricter version of the same instinct — among the Amish and the Old Order Mennonites, nonviolence extended into a deliberate, chosen restriction on technology itself: no cars, no grid electricity, leadership chosen by lot rather than ambition.
 
-*“These are the only humans in this book,” one senior dolphin scholar added, “who looked at capability, decided it was optional, and voted, community by community, generation after generation, to keep less of it on purpose. The Amish do by choice roughly what nature simply built into every dolphin. Dolphin scholarship extends this group its warmest professional regard in the entire book.”*
+*“These, with the Jains several chapters ago, are the humans in this book who looked at capability, decided it was optional, and voted, community by community, generation after generation, to keep less of it on purpose,” one senior dolphin scholar added. “The Amish do by choice roughly what nature simply built into every dolphin.”*
 
-The First Great Awakening in the 1730s and 40s, and the Second in the early 1800s, turned revival, in its own right, into a recurring national habit: traveling preachers, mass conversions, camp meetings drawing thousands. Out of the Second Awakening's ferment came homegrown American religions with no European precedent at all — the Shakers, celibate, communal, and consequently self-extinguishing by design; the Latter Day Saint movement founded by Joseph Smith in 1830, one of the only new major world religious traditions founded on American soil, and one with an origin story unlike anything else in this chapter: Smith said an angel named Moroni showed him a set of buried golden plates, inscribed in a script he called reformed Egyptian, which he translated into the Book of Mormon between 1827 and 1829 before, by his own account, returning the plates to the angel, leaving nothing behind for later examination; Seventh-day Adventism; later, Jehovah's Witnesses in the 1870s and Christian Science in 1879.
-
-*“Dolphin scholarship makes a point of not grading founding claims on documentation alone,” dolphin historians observed, “but it notes that the Rosetta Stone, the Shang oracle bones, and the Dead Sea Scrolls are all still available for inspection, and the plates are not. It moves on without further comment, a silence that is its own form of comment.”*
+The First Great Awakening in the 1730s and 40s, and the Second in the early 1800s, turned revival, in its own right, into a recurring national habit: traveling preachers, mass conversions, camp meetings drawing thousands. Out of the Second Awakening's ferment came homegrown American religions with no European precedent at all — the Shakers, celibate, communal, and consequently self-extinguishing by design; the Latter Day Saint movement founded by Joseph Smith in 1830, the largest of the religious traditions founded on American soil, and one with an origin story unlike anything else in this chapter: Smith said an angel named Moroni showed him a set of buried golden plates, inscribed in a script he called reformed Egyptian, which he translated into the Book of Mormon between 1827 and 1829 before, by his own account, returning the plates to the angel, leaving nothing behind for later examination; Seventh-day Adventism; later, Jehovah's Witnesses in the 1870s and Christian Science in 1879.
 
 It kept happening. The 20th century added Pentecostalism, dated to the 1906 Azusa Street revival, and a media-driven wave of televangelism from the 1970s onward. It also added smaller, sometimes disastrous groups organized around a single charismatic leader: Jonestown, where more than 900 members of Jim Jones's Peoples Temple died in a mass murder-suicide in 1978, and the Branch Davidian standoff near Waco in 1993, which ended in a fire that killed 76.
 
 *“Both movements described themselves, right up to the end, as havens from a corrupt and dangerous outside world,” dolphin historians noted. “Dolphin scholarship notes only that the correlation between a leader's certainty and a follower's risk appears to run in precisely the wrong direction.”*
 
-No other country in this book generates new, homegrown religious movements at anything close to this rate, and dolphin historians attribute it less to any special American piety than to the same structural decision that also produced the country's endless proliferation of political factions: no established state church, ever, from the founding onward, meaning no single religious authority a new movement has to unseat, only an open field to found one in.
+Few countries in this book have generated new, homegrown religious movements at this rate (Japan, with its many postwar new religions, is a serious rival), and dolphin historians attribute it less to any special American piety than to the same structural decision that also produced the country's endless proliferation of political factions: no established state church, ever, from the founding onward, meaning no single religious authority a new movement has to unseat, only an open field to found one in.
 
 *“A country with no state religion,” dolphin historians noted, “did not therefore get less religion. It got more religions, competing the way the country's businesses compete, and about as ruthlessly.”*
 
@@ -800,6 +788,8 @@ And then, on Christmas Eve 1914, something happened along parts of the Western F
 
 *“It is one of the rarest events in this book,” dolphin scholars remarked. “Two armies that had been ordered to kill each other decided, on their own initiative, to stop, and were then ordered, on the highest authority, to start again.”*
 
+Here the ratchet this book has been following turned on the people who built it. Every gain of the industrial century, steel, chemistry, railways, the telegraph, mass literacy, and the administrative skill to feed and move millions of people, was available at once and pointed in one direction. The capability was cumulative, built up by generations. The judgment about using it was exercised, in the summer of 1914, by a few dozen men in a few weeks.
+
 The war ended, on paper, at eleven o'clock on the morning of November 11, 1918, though fighting continued until the last minute and, by some counts, the final day produced more casualties than the Normandy landings a generation later. The war to end war, a phrase H. G. Wells had coined as the title of a book of essays in 1914, had killed some ten million soldiers and several million civilians and destroyed four empires: the German, the Austro-Hungarian, the Russian, and the Ottoman. Some of the map of the Middle East was redrawn by British and French diplomats under a secret agreement made in 1916, alongside promises to several different parties that could not all be kept.
 
 A second catastrophe, spread by troop ships and crowded camps, was under way at the same time. The influenza pandemic of 1918 to 1920 killed somewhere between an estimated 17 million and 50 million people, quite possibly more, more than the war itself, and is remembered as the Spanish flu for a peculiar reason: Spain, which was neutral, had a free press and reported the disease openly, while the warring nations censored their own bad news. It was, dolphin historians observe, named after the one country in the story that was telling the truth.
@@ -820,25 +810,15 @@ The entries are not obscure. They are countries with libraries, universities, ca
 
 Germany is the entry dolphin scholars open first. By the 19th and early 20th centuries, Germany, a country that had not existed as a single state until 1871, had become one of humanity's centers of science, philosophy, engineering, music, and industry.
 
-The dolphins watched with admiration.
-
 Germany produced Beethoven and Bach, Goethe and Kant, Einstein and a great many other groundbreaking scientists and engineers, and some of the world's leading universities.
 
-*“This was a society capable of remarkable intellectual achievement,” dolphin scholars remarked.*
+Defeat in the First World War, a hyperinflation so severe that, by the famous anecdote, the wheelbarrow was worth more than the money in it, and then the Great Depression left a young democracy short of friends and short of patience. Adolf Hitler was appointed chancellor in January 1933, after elections that had made his party the largest in parliament but never gave it a majority, and promptly arranged for there to be no more that mattered. His movement promoted dictatorship, extreme nationalism, racism, persecution, and conquest. Germany's immense industrial and scientific capabilities were increasingly directed toward war. Many of the country's finest minds, Einstein among them, fled.
 
-Yet the dolphins had learned that intelligence alone does not guarantee wisdom.
+The result was the Second World War, the most destructive conflict in human history. Somewhere between seventy and eighty-five million people died, most of them civilians.
 
-Defeat in the First World War, a hyperinflation so severe that, by the famous anecdote, the wheelbarrow was worth more than the money in it, and then the Great Depression left a young democracy short of friends and short of patience. Adolf Hitler was appointed chancellor in 1933 after a run of elections his party did not quite win, and promptly arranged for there to be no more that mattered. His movement promoted dictatorship, extreme nationalism, racism, persecution, and conquest. Germany's immense industrial and scientific capabilities were increasingly directed toward war. Many of the country's finest minds, Einstein among them, fled.
+The Holocaust murdered about six million Jews, along with Roma, disabled people, political prisoners, and others. It was carried out by a modern state, using its railways, its paperwork, its chemical industry, and its ordinary, obedient officials. At the largest of the death camps, most of the children who arrived were sent to the gas chambers the same day. Anne Frank, who had kept a diary in hiding in Amsterdam for two years, was deported in 1944 and died of typhus at Bergen-Belsen in early 1945, weeks before British troops liberated the camp. She was fifteen.
 
-The result was World War II, the most destructive conflict humans had yet created.
-
-Tens of millions died. Entire cities were destroyed.
-
-The Holocaust revealed how prejudice, propaganda, and obedience could be turned into instruments of mass murder: roughly six million Jews, along with Roma, disabled people, political prisoners, and others, killed by a modern state using its railways, its paperwork, and its ordinary, obedient officials.
-
-Dolphin scholars devoted long analyses to this period.
-
-*“The lesson was not that civilization had failed. The lesson was that civilization alone was not enough.”*
+Nothing in this book's long accumulation of capability was missing from it: the organizing state that writing made possible, the industrial chemistry of the last century, the census machinery that sorted people into categories, the railways that ran on time. Every one of those tools had been built for other purposes by people who never imagined this one. The ratchet does not choose what it carries.
 
 Germany was not alone, which is what makes the file thick.
 
@@ -856,11 +836,7 @@ Yet the story did not end there.
 
 After the war, Germany rebuilt as a democratic nation and became a strong advocate for cooperation in Europe. To dolphin historians, this recovery was almost as important as the catastrophe had been. It even acquired a word, Vergangenheitsbewältigung, the work of coming to terms with the past, which the dolphins consider the only German word whose length is entirely justified.
 
-*“A species capable of compressing an entire ethical project into one word,” dolphin historians observed, “evidently found the practice of it considerably harder than the spelling.”*
-
 Others recovered within a decade or two. Some took until the 1970s. A few are, by any fair reading, still working on it.
-
-*“Humans possess a rare ability. They can learn from disaster, though often only after experiencing it.”*
 
 ### The disappeared
 
@@ -938,19 +914,19 @@ The speed of it stuns dolphin historians as much as anything else in this book. 
 
 Victory over China in 1895 and, more startling to the rest of the world, over Russia in 1905, confirmed Japan as a great power by the only measure the era's great powers recognized. Confirmation curdled into appetite through the 1920s and 30s: rising militarism, a government increasingly steered by its own army, and the 1931 invasion of Manchuria conducted with barely a nod to Tokyo's civilian leadership.
 
-Full-scale war with China followed from 1937, including the Nanjing massacre, in which Japanese forces killed a large civilian and disarmed-soldier population over several weeks with a brutality that shocked even hardened foreign observers present in the city at the time.
+Full-scale war with China followed from 1937, including the Nanjing massacre of 1937–38, in which Japanese forces killed civilians and disarmed soldiers over several weeks with a brutality that shocked the foreign observers still in the city. Estimates of the dead run from tens of thousands to the more than 200,000 found by the postwar Tokyo tribunal and the 300,000 of China's official figure; the number remains an open wound between the two countries.
 
-The Pacific War that followed the December 1941 attack on Pearl Harbor asked more of Japan's own population than any war in this book had yet asked of any population: by its final year, the state was organizing kamikaze pilots, young men flying aircraft deliberately into American ships, as an accepted military tactic rather than a desperate improvisation. The same program extended underwater, in the form of the Kaiten, a manned torpedo that its pilot rode to the target and could not survive by design. Dolphin historians, who have spent a great many centuries watching things move through their water, note that this is the first they saw in it built as a one-way trip for the person steering.
+The Pacific War that followed the December 1941 attack on Pearl Harbor asked a great deal of Japan's own population: by its final year, the state was organizing kamikaze pilots, young men flying aircraft deliberately into American ships, as an accepted military tactic rather than a desperate improvisation. The same program extended underwater, in the form of the Kaiten, a manned torpedo that its pilot rode to the target and could not survive by design. Dolphin historians, who have spent a great many centuries watching things move through their water, note that this is the first they saw in it built as a one-way trip for the person steering.
 
 *Dolphin historians allow themselves a rare departure from detached amusement here. A dolphin will die defending its calf, its pod, or itself, for reasons any animal would recognize instantly. It will not, and by its nature cannot, be persuaded to die for a flag, a doctrine, or a phrase it was taught to repeat. Of every pattern cataloged in this book, choosing to die for an idea instead of for another living creature is the one dolphin scholarship finds hardest to view with its usual distance, and declines to pretend otherwise here.*
 
-The war ended in August 1945 with atomic bombs dropped on Hiroshima and Nagasaki, the only use of nuclear weapons in warfare in this book, or in human history to date, and Japan's unconditional surrender days later.
+The war ended in August 1945. The atomic bombs dropped on Hiroshima and Nagasaki, the only nuclear weapons ever used in war, killed well over 100,000 people by the end of that year, most of them civilians, and Japan surrendered days later.
 
 What followed was postwar Japan's own version of the turn this part of the book keeps tracking. A new constitution, drafted under American occupation and in force from May 1947, renounced war as a sovereign right and, in its text, the maintenance of war potential, leaving Japan with self-defense forces only. The country rebuilt instead into an economic power, and did so within the same one-generation timescale it had once used to build an empire.
 
 **Dolphin verdict:**
 
-*Same shape, different ocean. A society climbed from feudalism to great-power status faster than any other in this book so far, aimed that capability at conquest and atrocity within the same lifetime that built it, absorbed two atomic bombs as the price of stopping, and rebuilt afterward as a pacifist economic power on the same compressed timescale it uses for everything else. The dolphins remain unsure whether to be more impressed by the speed of the rise, the speed of the fall, or the speed of the recovery.*
+*Same shape, different ocean. A society climbed from feudalism to great-power status faster than any other in this book so far, aimed that capability at conquest and atrocity within the same lifetime that built it, suffered two atomic bombings before it stopped, and rebuilt afterward as a pacifist economic power on the same compressed timescale it uses for everything else. The dolphins remain unsure whether to be more impressed by the speed of the rise, the speed of the fall, or the speed of the recovery.*
 
 ## 1861–1946: Italy, Rome's Heir and the Fascist Detour
 
@@ -970,29 +946,31 @@ Italy entered the Second World War in 1940 as Germany's junior partner, and its 
 
 What followed was a civil war fought inside the larger world war: Italian partisans, communist and non-communist alike, fought German occupation forces and Mussolini's remaining loyalists until the war's end. Mussolini was captured and executed by partisans in April 1945, his body publicly displayed in Milan.
 
-*“The oldest civilization in this part of the book,” Professor Click-Click-Whoosh observed, “put up with its dictator for twenty-one years, against a cultural inheritance measured in millennia, a ratio dolphin scholarship regards as poor value for a very old country.”*
+*“The deepest cultural inheritance in Europe,” Professor Click-Click-Whoosh observed, “put up with its dictator for twenty-one years. Dolphin scholarship regards this as poor value for a very old country.”*
 
-Postwar Italy returned to democracy in 1946, messy and coalition-prone in the decades that followed, but real, uninterrupted, and never seriously threatened by a return to the fascist model that had briefly interrupted it.
+Postwar Italy returned to democracy in 1946, messy and coalition-prone in the decades that followed, but real, and it survived coup plots and the political terrorism of the 1970s without a return to the fascist model.
 
-The reckoning with that interruption trailed well behind the recovery. Italy passed no equivalent of Germany's sustained postwar program of formal denazification, and a 1946 amnesty, drafted by the Communist justice minister Palmiro Togliatti with reconciliation, not accountability, in mind, released the great majority of Italians jailed for fascist-era crimes within a few years of the war's end. Many former officials returned quietly to public life, and Italy's own reckoning with the period stayed, for decades, a much quieter conversation than Germany's.
+The reckoning with that interruption trailed well behind the recovery. Italy's own purge of fascists, the epurazione, began in earnest and faltered within two years, and a 1946 amnesty, drafted by the Communist justice minister Palmiro Togliatti with reconciliation, not accountability, in mind, released the great majority of Italians jailed for fascist-era crimes within a few years of the war's end. Many former officials returned quietly to public life, and Italy's own reckoning with the period stayed, for decades, a much quieter conversation than Germany's.
 
 **Dolphin verdict:**
 
-*Rome, the Renaissance, and fascism all happened in the same few hundred square miles, separated by centuries the dolphins keep having to remind themselves belong to one continuous country. The pattern's length is clearly not fixed by how deep a civilization's past runs, only by the choices it makes in one particular decade. Italy had the deepest past of any case in this part of the book and still made those choices, and then, after defeat and a civil war of its own, unmade them.*
+*Rome, the Renaissance, and fascism all happened in the same few hundred square miles, separated by centuries the dolphins keep having to remind themselves belong to one continuous country. The pattern's length is clearly not fixed by how deep a civilization's past runs, only by the choices it makes in one particular decade. Italy had as deep a past as any case in this part of the book and still made those choices, and then, after defeat and a civil war of its own, unmade them.*
 
 ## Medieval Córdoba to 1981: Spain, Convivencia and the General
 
 Dolphin historians open this chapter earlier than its 20th-century subject, because Spain's pattern of genius and catastrophe has already run once before, on a different set of terms entirely.
 
-Medieval al-Andalus, the Muslim-ruled portion of the Iberian Peninsula, sustained centuries of coexistence and scholarship among Muslim, Christian, and Jewish communities — convivencia — with Córdoba and Toledo among the era's great centers of translation and learning, preserving and extending Greek philosophy, mathematics, and medicine at a time large parts of Christian Europe had less access to them.
+Medieval al-Andalus, the Muslim-ruled portion of the Iberian Peninsula, sustained long periods of coexistence and shared scholarship among Muslim, Christian, and Jewish communities, called convivencia, with Córdoba and Toledo among the era's great centers of translation and learning. Greek philosophy, mathematics, and medicine were preserved and extended there at a time when much of Christian Europe had little access to them.
 
-Convivencia's most famous graduate was born in Córdoba around 1135-38: Maimonides, a Jewish philosopher and physician who wrote his greatest works in Arabic and went on to shape Jewish, Islamic, and Christian scholastic thought alike, a single career that could not have happened in a Córdoba of only one faith.
+Historians argue about how rosy that picture is. Christians and Jews lived as dhimmi, protected but legally subordinate communities who paid a special tax, and the coexistence had violent interruptions: in 1066 a mob in Granada killed much of the city's Jewish community. The fairest reading is that al-Andalus was, for long stretches, more tolerant than most of its neighbors, which is not the same as tolerant.
+
+Convivencia's most famous graduate was born in Córdoba around 1138: Maimonides, a Jewish philosopher and physician who wrote most of his greatest works in Arabic and shaped Jewish, Islamic, and Christian scholastic thought alike. He also shows its limits. When the Almohads, a stricter Berber dynasty, took Córdoba in 1148 and pressed non-Muslims to convert, his family fled, and he wrote his major works in Cairo, as a court physician.
 
 That convivencia ended deliberately. The Reconquista's completion in January 1492, with the fall of Granada, was followed within months by the Alhambra Decree expelling Spain's Jewish population — the same year, not coincidentally, Spain funded the voyage that opened the Americas to European conquest in the chapter on exploration.
 
 The Spanish Golden Age that followed in the 16th and 17th centuries, Cervantes writing Don Quixote, Velázquez painting, arrived hand in hand with the Inquisition's religious enforcement and a colonial empire built on the conquest covered elsewhere in this book. Genius and catastrophe, in Spain's case, are not sequential the way they are for Germany or Japan. They arrived together, repeatedly.
 
-The 20th-century case proper begins with the instability of Spain's Second Republic, declared in 1931, and the military uprising of July 1936 that turned that instability into the Spanish Civil War. Foreign powers intervened on both sides: the Soviet Union backed the Republic, while Germany and Italy backed the Nationalist rebellion under General Francisco Franco. Germany's Condor Legion bombed the Basque town of Guernica in April 1937, a deliberate rehearsal of the aerial terror tactics that would soon be turned on far larger cities.
+The 20th-century case proper begins with the instability of Spain's Second Republic, declared in 1931, and the military uprising of July 1936 that turned that instability into the Spanish Civil War. Foreign powers intervened on both sides: the Soviet Union backed the Republic, while Germany and Italy backed the Nationalist rebellion under General Francisco Franco. Germany's Condor Legion bombed the Basque town of Guernica in April 1937, an attack widely seen, then and since, as a rehearsal for the bombing of far larger cities; historians still debate how much of that was the intent.
 
 Picasso's painting of the bombing, Guernica, stayed abroad on his instructions until Spain was a democracy again; it came home in 1981, eight years after his death.
 
@@ -1016,13 +994,13 @@ Pre-revolutionary Russia supplied its own share of this book's genius, independe
 
 The 1917 revolution carried real idealism alongside its opportunism: an end to that autocracy, and a promise, sincerely held by a great many of its early supporters, of a classless society organized around common ownership rather than inherited privilege. A brutal civil war followed the revolution before the Bolsheviks secured control of the new Soviet state.
 
-Vladimir Lenin's death in 1924 opened a succession struggle that Joseph Stalin won by the end of the decade, and what followed turned the idealism of 1917 into some of the deadliest state policy in this book. Forced collectivization of agriculture in the early 1930s produced famine across the Soviet Union, including the Ukrainian famine known as the Holodomor, a result of policy, not weather, killing millions.
+Vladimir Lenin's death in 1924 opened a succession struggle that Joseph Stalin won by the end of the decade, and what followed turned the idealism of 1917 into some of the deadliest state policy in this book. Forced collectivization of agriculture in the early 1930s produced famine across the Soviet Union, killing, on most estimates, between five and eight million people, about half of them in Ukraine. The Ukrainian famine is known as the Holodomor; it was the result of policy, not weather, and whether it should be called genocide is still argued, with Ukraine and a number of other countries recognizing it as one.
 
-The purges and show trials of the later 1930s eliminated much of the Communist Party's own founding generation on fabricated charges, while the Gulag system of forced labor camps imprisoned millions more across the Soviet Union's history, a substantial fraction of whom did not survive their sentences.
+The purges and show trials of the later 1930s eliminated much of the Communist Party's own founding generation on fabricated charges, while the Gulag system of forced labor camps held, by archival counts, about eighteen million people between 1930 and 1953 alone, of whom at least 1.5 million died there.
 
 The instinct to deny instead of admit had an early, specific test case. In 1940, the Soviet secret police executed some 22,000 Polish military officers and civil servants in the Katyn Forest and elsewhere, then blamed the killings on Nazi Germany for the next five decades; the Soviet state did not admit its own responsibility until 1990, one of the last confessions Gorbachev's own government made before the country that had committed the act ceased to exist.
 
-The scale of the camps was not widely believed outside the Soviet Union until one of their own survivors made it impossible to ignore. Aleksandr Solzhenitsyn, who had spent eight years in the Gulag himself, smuggled out and published The Gulag Archipelago in 1973, a documented account that cost him his citizenship and his country the last of its outside sympathizers.
+The scale of the camps was not widely believed outside the Soviet Union until one of their own survivors made it impossible to ignore. Aleksandr Solzhenitsyn, who had spent eight years in the Gulag himself, smuggled out and published The Gulag Archipelago in 1973, a documented account that cost him his citizenship and cost the Soviet state much of what remained of its sympathy abroad.
 
 The same state apparatus that ran the purges and the camps also drove rapid industrialization, turning a largely agrarian economy into one capable, within a single generation, of matching Nazi Germany's military production and, in 1957, launching Sputnik, the first artificial satellite, ahead of every other nation on Earth.
 
@@ -1034,7 +1012,7 @@ Unlike postwar Germany, Japan, and Italy, the Soviet Union's course correction d
 
 The pattern recurred once more before the end. On April 26, 1986, a reactor at the Chernobyl nuclear plant in Soviet Ukraine exploded, and the state's first instinct was the one this chapter has already described: silence. Nearby residents were not evacuated for 36 hours, and the government did not publicly acknowledge the disaster until Swedish monitoring stations, detecting radioactive fallout drifting over Scandinavia, forced the admission. Gorbachev later said the disaster, more than any single policy, convinced him the old system's secrecy could no longer be sustained.
 
-*A state built on the promise of rational, scientific progress on the people's behalf took thirty-six hours to mention to the people downwind of an exploded reactor that they might want to consider leaving.*
+*A state built on the promise of rational, scientific progress on the people's behalf took thirty-six hours to tell the people downwind of an exploded reactor that they should leave. The town nearest the plant, Pripyat, built for its workers and home to about fifty thousand people, has been empty ever since.*
 
 ### The man who won the succession
 
@@ -1052,10 +1030,6 @@ The union ended in 1991. The method did not. Boris Yeltsin presided over a sale 
 
 In 2014 Russia took Crimea from Ukraine and started a war in the Donbas that it spent years pretending was not its war. In February 2022 it stopped pretending and invaded, aiming, by the evidence of its own opening moves, at the Ukrainian state itself. The war was still being fought as this book was written. Cities were pounded. Children were taken. A nuclear power talked about its arsenal often enough that the talk became part of the weather. Dolphin historians, who have a file labeled emergency, note how often the word was used, and by whom, and what it was asked to justify. The czars had a secret police. The general secretaries had a larger one. The man in the present has the same instrument, the television, and a border he does not treat as a border. The titles changed. The offer did not: order, pride, and someone to blame.
 
-**Dolphin verdict:**
-
-*Five case studies in this part of the book now, five different repair times, one identical warning label on the front of the box. The Soviet Union's ideals and its iron never fully separated the way they did in postwar Germany, Japan, and Italy — the correction here took until 1991, arrived from within instead of from defeat, and even then left plenty unresolved for the chapters that follow.*
-
 ## 1949 to Today: China, the Long Memory and the Great Leap
 
 This chapter returns to a civilization dolphin scholarship already logged, several chapters ago, as among the deepest cultural inheritances in the book: millennia of continuous writing, philosophy, and administration, surviving dynasty after dynasty like a tide that always came back in.
@@ -1064,13 +1038,13 @@ The 19th century interrupted that tide more severely than any dynasty's collapse
 
 Decades of civil war and Japanese occupation, covered in this part of the book's earlier chapter on Japan, ended in 1949 with the Communist Party's victory under Mao Zedong, arriving with genuine popular exhaustion and hope behind it after so much foreign and internal violence.
 
-The Great Leap Forward, launched in 1958, aimed to industrialize China's economy at a speed the Soviet Union had once attempted with its own five-year plans. The policies it imposed on agriculture instead produced a famine, running from roughly 1959 to 1961, now counted among the deadliest in recorded history, its death toll caused overwhelmingly by policy rather than by drought or natural failure of the harvest.
+The Great Leap Forward, launched in 1958, aimed to industrialize China's economy at a speed the Soviet Union had once attempted with its own five-year plans. The policies it imposed on agriculture instead produced a famine, running from roughly 1959 to 1961, that killed somewhere between fifteen and forty-five million people; most demographers put the figure near thirty million, which would make it the deadliest famine on record. The cause was overwhelmingly policy, not drought.
 
-The Cultural Revolution, launched in 1966 and continuing in various forms until Mao's death in 1976, turned the state's organizing power against its own institutions, culture, and people: intellectuals persecuted, historical and religious sites destroyed, education disrupted for a generation — a direct, painful echo of the very cultural memory dolphin scholarship admired several chapters earlier.
+The Cultural Revolution, launched in 1966 and continuing in various forms until Mao's death in 1976, turned the state's organizing power against its own institutions, culture, and people: intellectuals persecuted, historical and religious sites destroyed, education disrupted for a generation, and between several hundred thousand and about two million people killed — a direct, painful echo of the very cultural memory dolphin scholarship admired several chapters earlier.
 
 *“A civilization that kept its own memory for three thousand years,” one senior dolphin scholar added, “spent a decade of the twentieth century trying to erase pieces of it on purpose. The tide, this time, did not simply come back in on its own.”*
 
-Deng Xiaoping's reforms, beginning in 1978 after Mao's death, opened China's economy to market mechanisms and foreign investment, producing what is likely the fastest large-scale poverty reduction in recorded history over the following four decades. That economic liberalization arrived without a matching political liberalization, a gap the 1989 crackdown on protesters in and around Tiananmen Square made unmistakable to the rest of the world.
+Deng Xiaoping's reforms, beginning in 1978 after Mao's death, opened China's economy to market mechanisms and foreign investment, producing what is likely the fastest large-scale poverty reduction in recorded history over the following four decades. That economic liberalization arrived without a matching political liberalization, a gap the army made unmistakable on the night of June 3–4, 1989, when it cleared protesters from in and around Tiananmen Square. Hundreds were killed, possibly more than a thousand; there is no official count, and the event is still censored inside China.
 
 The story did not stop there. Three further decades of growth turned China into the world's largest manufacturer by output, producing a majority of the world's steel and a large share of its solar panels, alongside consumer goods sold in nearly every category and almost every country. By the 2020s, China had also become the world's leading source of published scientific research by sheer volume, exporting scientists and engineering talent to laboratories worldwide while training more of its own at home than any other nation.
 
@@ -1080,9 +1054,7 @@ One assumption about this rise is worth correcting head-on, since it is a common
 
 *“The same country that re-engineered its entire economy within a single generation,” dolphin historians observed, “has so far found a shrinking birth rate considerably harder to re-engineer than a supply chain. Factories respond to five-year plans. Families, it turns out, hold a vote the state cannot fully overrule.”*
 
-Dolphin scholarship registers one further complaint alongside the economic ledger, and concedes it is a more personal one than most. China has been the world's largest annual source of carbon emissions since the mid-2000s, by a growing margin over the United States in second place, and widely cited studies of mismanaged plastic waste entering the ocean have repeatedly identified China among the largest national contributors, ahead of the United States by a considerable distance on that specific measure.
-
-*“Dolphin scholarship would like the distinction noted,” dolphin historians added. “Criticizing a country's five-year plans is analysis. Criticizing what turns up in our water is personal.”*
+Dolphin scholarship registers one further complaint alongside the economic ledger, and concedes it is a more personal one than most. China has been the world's largest annual source of carbon emissions since the mid-2000s, by a growing margin over the United States in second place, and a widely cited 2015 study of mismanaged plastic waste entering the ocean ranked China first. A 2021 study that modeled rivers in more detail ranked the Philippines, India, and Malaysia higher, and wealthy countries, the United States among them, had for years shipped their own plastic waste to Asia to be dealt with there.
 
 ### Four men, one party
 
@@ -1122,9 +1094,7 @@ Physical evidence for this period exists in a way it does not for the patriarcha
 
 By the time Rome absorbed the region, the Temple had been massively rebuilt under Herod the Great, a Roman client king remembered for both architectural ambition and paranoid brutality. It was in Herod's Judea, under Roman governance, that a Jewish teacher named Jesus of Nazareth was born and, around 30 CE, executed by Roman authority — the founding event of what would become, within four centuries, the Roman Empire's own state religion, and within two thousand years, the largest religious tradition on Earth.
 
-His teaching, as the accounts have it, emphasized compassion, humility, forgiveness, and care for others. The dolphins observed with optimism. It proved, dolphin historians later admitted, difficult to keep up: many of the humans who came after found these ideas hard to practice consistently.
-
-*“The message,” the Society recorded, “was simpler than the debates that followed.”*
+His teaching, as the accounts have it, emphasized compassion, humility, forgiveness, and care for others, and many of the humans who came after found it hard to practice consistently.
 
 Judea itself did not stay quiet under Rome. A major revolt from 66 to 73 CE ended with the Second Temple's destruction in 70 CE — only its western retaining wall still stands — and, by tradition, the mass suicide of the revolt's last holdouts at Masada. That account comes down from a single source, the historian Josephus, and its details are still debated by archaeologists, some of whom question how much of it happened as described. A second revolt, in 132-135 CE, was crushed even more completely; Rome barred Jews from Jerusalem and renamed the province Syria Palaestina.
 
@@ -1132,21 +1102,19 @@ What followed was the diaspora: Jewish communities scattered across the Mediterr
 
 *Dolphin historians note the parallel to their own condition without missing the difference: a pod's culture dies with the pod if the pod is lost. This people's culture, carried in writing, survived the loss of its land entirely.*
 
-Christianity, meanwhile, outgrew its origin as a Jewish sect. Paul of Tarsus carried its message to non-Jewish communities across the Roman world through the middle of the 1st century CE; the two traditions formally diverged over the following generations. Constantine's conversion and the 313 CE Edict of Milan legalized the faith; Theodosius made it Rome's official religion in 380. The faith then split again, and again: the Great Schism of 1054 divided Catholic Rome from Orthodox Constantinople, and the Protestant Reformation, beginning when Martin Luther posted his objections in 1517, split Western Christianity into the dozens of denominations that exist today. One ancient covenant, several centuries downstream, had become the ancestor of the largest religious family on the planet.
+Christianity, meanwhile, outgrew its origin as a Jewish sect. Paul of Tarsus carried its message to non-Jewish communities across the Roman world through the middle of the 1st century CE; the two traditions formally diverged over the following generations. Once Rome adopted it, as the chapter on the great faiths has told, the faith split again, and again: the Great Schism of 1054 divided Catholic Rome from Orthodox Constantinople, and the Protestant Reformation, beginning when Martin Luther posted his objections in 1517, split Western Christianity into the dozens of denominations that exist today. One ancient covenant, several centuries downstream, had become the ancestor of the largest religious family on the planet.
 
 The diaspora was rarely gentle. Expulsions recurred across medieval and early modern Christian Europe — England in 1290, France on several occasions, Spain's expulsion in 1492 alongside the Reconquista's completion. Blood libel accusations, forced ghettos, and periodic pogroms, violent mob attacks often tolerated or encouraged by local authorities, recurred for centuries, intensifying again in the Russian Empire in the late 1800s and early 1900s.
 
 The Holocaust, already this book's starkest chapter, was this pattern's most extreme expression: an estimated six million Jews murdered by Nazi Germany and its collaborators between 1941 and 1945, an act of industrialized killing built on centuries of the persecution just described.
 
-Zionism, a political movement for Jewish return to the historic homeland, had begun decades earlier, formally organized by Theodor Herzl starting in 1896, in direct response to the persecution then underway in Europe. The Holocaust's aftermath sharply accelerated international support. The United Nations proposed partitioning British Mandate Palestine in 1947; Israel declared independence in May 1948.
+Zionism, a political movement for Jewish return to the historic homeland, had begun decades earlier, given its modern political form by Theodor Herzl, whose book The Jewish State appeared in 1896 and who convened the first Zionist Congress in 1897, in direct response to the persecution then underway in Europe. The Holocaust's aftermath sharply accelerated international support. The United Nations proposed partitioning British Mandate Palestine in 1947; Israel declared independence in May 1948.
 
-War followed within a day, as neighboring Arab states rejected the new state by force. Israel prevailed and expanded beyond the UN's proposed borders; some 700,000 Palestinian Arabs fled or were driven out in the process, an event Palestinians call the Nakba, the catastrophe. Further wars followed in 1956, in 1967 (after which Israel held the West Bank, Gaza, the Golan Heights, and Sinai), and in 1973.
+Fighting between Jewish and Arab forces had begun after the UN vote; the day after independence, the armies of neighboring Arab states invaded. Israel prevailed and expanded beyond the UN's proposed borders; some 700,000 Palestinian Arabs fled or were driven out in the process, an event Palestinians call the Nakba, the catastrophe. Further wars followed in 1956, in 1967 (after which Israel held the West Bank, Gaza, the Golan Heights, and Sinai), and in 1973.
 
 Not every neighbor stayed an adversary. Egypt made peace with Israel in 1979, Jordan in 1994, and the 2020 Abraham Accords normalized relations with several more Arab states. The conflict with the Palestinians themselves, over land, statehood, and the unresolved status of Jerusalem, remains open as this book is written, and dolphin historians decline to award it a verdict for the same reason offered elsewhere in this book for still-unresolved arguments: the humans involved have not resolved it yet.
 
-**Dolphin verdict:**
-
-*No people in this book lost its land, its Temple, and its safety as many times, in as many places, as this one, and none carried its identity across that many centuries without one. What survived was never a territory. It was a story, told the same way in Babylon, Cairo, Toledo, and Warsaw, until the story became, in the end, the thing worth defending — and, in 1948, the thing a state was finally built to hold.*
+The people who kept their story without a land for eighteen centuries built, in 1948, a state to hold it. In the same year about 700,000 other people lost their homes on the same strip of coast, and began carrying a story of their own: the keys to houses they could not return to, the names of villages that are no longer on the map. Both stories are true. The dolphins, who have known that coast longer than either people, have not yet seen how the two will share it.
 
 ## 1945–1991: Cold War — Two Powers, One Planet
 
@@ -1156,15 +1124,13 @@ Both sides had the bomb within four years of each other — the United States in
 
 The phrase was coined in the 1960s by the analyst Donald Brennan, who meant the acronym as mockery. The strategists kept it anyway. Dolphin scholarship files this under candor, an achievement this species does not get nearly enough credit for.
 
-*Most military doctrines are named to obscure what they do. This one ended up named for exactly what it was.*
-
-The weapon itself was the product of a wartime race: the Manhattan Project (1942-45), staffed in large part by physicists who had fled fascist Europe, some of them from the very country whose bomb the project had been built to beat. The first test took place in the New Mexico desert in July 1945. Many of the next ones took place at sea. The United States detonated 67 nuclear devices at Bikini and Enewetak atolls in the Marshall Islands between 1946 and 1958, and France later tested at Moruroa and Fangataufa in French Polynesia.
+The weapon itself was the product of a wartime race: the Manhattan Project (1942-45), staffed in large part by physicists who had fled fascist Europe, some of them from the very country whose bomb the project had been built to beat. The first test took place in the New Mexico desert in July 1945. Many of the next ones took place at sea. The United States detonated 67 nuclear devices at Bikini and Enewetak atolls in the Marshall Islands between 1946 and 1958. The 167 people of Bikini were moved off their atoll in 1946, told it was for the good of mankind; they have never been able to go home to stay. France later tested at Moruroa and Fangataufa in French Polynesia.
 
 *“The apex predator,” dolphin historians noted, “has now learned physics.” The oceans, they added, became nervous.*
 
 *“Humans built a weapon that finally matched their own capacity for self-destruction,” the Society recorded, “and then, mostly, did not use it. This is the book's clearest instance of the wisdom half of the ledger showing up on time.”*
 
-The two powers fought each other anyway, just never directly. Korea (1950-53) split a peninsula that remains divided as this book is written. Vietnam drew in American ground forces for a decade before ending, in 1975, in a unified Communist Vietnam and a war American planners had, by most later accounts, misjudged from the start. Afghanistan absorbed a Soviet occupation from 1979 to 1989 that weakened the Soviet state about as much as it devastated Afghanistan.
+The two powers fought each other anyway, just never directly. Korea (1950-53) split a peninsula that remains divided as this book is written. Vietnam drew in American ground forces for a decade before ending, in 1975, in a unified Communist Vietnam and a war American planners had, by most later accounts, misjudged from the start. Afghanistan absorbed a Soviet occupation from 1979 to 1989 that killed about 15,000 Soviet soldiers and somewhere between half a million and two million Afghans, drove millions more into exile, and weakened the Soviet state.
 
 The closest approach to the war neither side wanted came in October 1962, when Soviet nuclear missiles installed in Cuba, ninety miles from Florida, brought both governments within days, by many participants' later accounts, of a confrontation neither one could fully control once started. A negotiated withdrawal ended the crisis without the two powers firing a shot at each other.
 
@@ -1184,7 +1150,7 @@ Dolphin historians open this chapter by naming what makes it different from ever
 
 The Space Race opened as a direct extension of the previous chapter's rivalry. The Soviet Union launched Sputnik, the first artificial satellite, in October 1957, and followed it in April 1961 by putting Yuri Gagarin into orbit as the first human in space, a double humiliation for American prestige that reshaped US science funding within the year.
 
-The race produced other firsts worth remembering alongside Gagarin's. Laika, a stray dog from the streets of Moscow, became the first animal to orbit Earth aboard Sputnik 2 in November 1957, on a one-way mission whose life-support system was never built to bring her home. Valentina Tereshkova followed in June 1963 as the first woman in space, orbiting Earth 48 times aboard Vostok 6. No other woman flew in space for nineteen years.
+The race produced other firsts worth remembering alongside Gagarin's. Laika, a stray dog from the streets of Moscow, became the first animal to orbit Earth aboard Sputnik 2 in November 1957, on a one-way mission: the craft was never built to bring her home, and she died of overheating within hours of launch, a fact Soviet officials admitted only in 2002. Valentina Tereshkova followed in June 1963 as the first woman in space, orbiting Earth 48 times aboard Vostok 6. No other woman flew in space for nineteen years.
 
 President Kennedy's May 1961 commitment to land a man on the Moon “before this decade is out” turned prestige into a program: at its peak, Apollo employed around 400,000 people, and NASA consumed about 4 percent of the entire US federal budget in 1966. It delivered on the deadline. On July 20, 1969, Neil Armstrong and Buzz Aldrin walked on the Moon while an estimated 600 million people watched live, the largest simultaneous audience for a single event in human history up to that point.
 
@@ -1194,7 +1160,7 @@ What followed is, to dolphin historians, nearly as interesting as the landing it
 
 The Space Shuttle program (1981-2011) and the International Space Station, continuously crewed since 2000, shifted the story from competition to cooperation: American and Russian space programs kept working together in orbit through periods when their governments were doing very little cooperating anywhere else.
 
-The 21st century broadened the field considerably. SpaceX's reusable rockets, flying commercially from the 2010s onward, cut launch costs sharply enough to change the economics of the entire industry, while China developed its own crewed space program and lunar ambitions, and India successfully landed a probe near the Moon's south pole in 2023, the first spacecraft to touch down there.
+The 21st century broadened the field considerably. SpaceX's reusable rockets, flying commercially from the 2010s onward, cut launch costs sharply enough to change the economics of the entire industry, while China developed its own crewed space program and lunar ambitions, and India landed its Chandrayaan-3 probe near the Moon's south pole in 2023, the first spacecraft to touch down in that region.
 
 ### The Moon, before anyone stood on it
 
@@ -1276,9 +1242,9 @@ Twentieth-century physics produced a run of ideas famous for striking humans as 
 
 Special relativity, published by Einstein in 1905, showed that simultaneity is not absolute — whether two distant events happen “at the same time” depends on how fast an observer is moving relative to them, because nothing, not even information, travels faster than light. Human intuition, built on eyesight, where light's travel time is imperceptible over any everyday distance, finds this deeply strange.
 
-Dolphin intuition does not. Every dolphin has spent its entire life aware, in a way no human's unaided senses are, that a signal takes a real, measurable amount of time to leave, bounce off something, and return — and that where an object is right now and where its echo says it is are two different questions with two different answers depending on distance. Echolocating animals have effectively been doing applied relativity, at manageable speeds and short ranges, since long before Einstein needed a train and a lightning bolt to explain the idea to everyone else.
+Dolphin intuition does not. Every dolphin has spent its entire life aware, in a way no human's unaided senses are, that a signal takes a real, measurable amount of time to leave, bounce off something, and return — and that where an object is right now and where its echo says it is are two different questions with two different answers depending on distance. Echolocation is not relativity, which concerns light and very high speeds, but it trains the intuition relativity begins from, and echolocating animals have been living with that intuition since long before Einstein needed a train and a lightning bolt to explain the idea to everyone else.
 
-Einstein's general theory, which in 1915 extended the special one to gravity, got its most famous public test in 1919, when Arthur Eddington led an expedition to the island of Príncipe, off West Africa, to photograph a total solar eclipse and measure whether starlight passing near the sun bent by the amount Einstein's equations predicted. It did, and the announcement made Einstein an overnight celebrity in a way no physicist before him had been. Dolphin historians note, with the faintest trace of smugness, that confirming this took a ship, an island, a rare eclipse, and a great deal of careful photography, whereas any dolphin confirms the same underlying point about delayed, non-instantaneous signals every time it opens its mouth.
+Einstein's general theory, which in 1915 extended the special one to gravity, got its most famous public test in 1919, when Arthur Eddington led an expedition to the island of Príncipe, off West Africa, and a second British team set up at Sobral, in Brazil, to photograph a total solar eclipse and measure whether starlight passing near the sun bent by the amount Einstein's equations predicted. It did, and the announcement made Einstein an overnight celebrity in a way no physicist before him had been. Dolphin historians note, with the faintest trace of smugness, that confirming this took a ship, an island, a rare eclipse, and a great deal of careful photography, whereas any dolphin confirms the same underlying point about delayed, non-instantaneous signals every time it clicks.
 
 This was not idle abstraction for long. The same mass-energy relationship Einstein's paper implied, E=mc², became, within four decades, the physics behind the atomic bomb, and the century's arms race and Cold War, covered elsewhere in this book, are unthinkable without it. Relativity also turned out to have a mundane, everyday payoff nobody in 1905 could have predicted: satellite clocks in the Global Positioning System drift out of sync with clocks on the ground by measurable amounts because of both their speed and their weaker gravity, so the satellite clocks are deliberately set to tick slow before launch, by about 38 microseconds a day, and receivers apply a further relativistic correction for each orbit. Without it, every phone that gives directions would drift off by roughly ten kilometers a day. A theory built to explain light near the sun ended up steering cars down city streets.
 
@@ -1324,19 +1290,19 @@ Formal empire, built up over the centuries this book has already covered, mostly
 
 India's road to independence began, like several roads in this book, with a trading company. The Mughal Empire that had dominated the subcontinent since 1526 (builders of the Taj Mahal and, by some estimates, at its height responsible for roughly a quarter of the world's economic output) was showing signs of fraying when the East India Company, chartered in London in 1600 to sell spices and cloth, began acquiring territory instead. After the Battle of Plassey in 1757, the Company governed large parts of India with an army that by the early 1800s was, by one common estimate, close to twice the size of Britain's own, an arrangement dolphin historians summarize as a business with a country attached. Company rule ended after the uprising of 1857, and direct rule by the British Crown, the Raj, followed until 1947.
 
-The ledger is not seriously in dispute. Railways, an administrative language, and a unified legal system were left behind. So, by common estimates, was an economy whose share of world output had shrunk from about a quarter to under five percent, along with a run of famines, the worst of them in Bengal in 1943, which killed an estimated two to three million people as wartime priorities and policy failures compounded the shortages.
+The entries in the ledger are not seriously in dispute; their weighting is. Railways, an administrative language, and a unified legal system were left behind. So, by common estimates, was an economy whose share of world output had shrunk from about a quarter to under five percent, along with a run of famines, the worst of them in Bengal in 1943, which killed an estimated two to three million people as wartime priorities and policy failures compounded the shortages.
 
-Gandhi's campaign of nonviolent resistance had its most famous episode about salt. In 1930 the British-run government taxed salt, a commodity that lies free on any coast, and forbade Indians to make their own. In March, Gandhi set out to walk some 240 miles from his ashram to the sea at Dandi, gathering thousands of followers on the way, and on April 6 he picked up a lump of natural salt from the beach, which was against the law. Some sixty thousand people were arrested in the campaign that followed. Dolphin historians, who have been in the sea the whole time and have never paid for salt, would like to say only that it is a curious empire that can be shaken by something the ocean gives away for free, having taken the subcontinent's diamonds, cotton, and tea without asking in the first place.
+Gandhi's campaign of nonviolent resistance had its most famous episode about salt. In 1930 the British-run government taxed salt, a commodity that lies free on any coast, and forbade Indians to make their own. In March, Gandhi set out to walk some 240 miles from his ashram to the sea at Dandi, gathering thousands of followers on the way, and on April 6 he picked up a lump of natural salt from the beach, which was against the law. Some sixty thousand people were arrested in the campaign that followed. Dolphin historians, who have never paid for salt, note that it is a curious empire that can be shaken by something the ocean gives away for free.
 
-India's independence in 1947, achieved substantially through that campaign of organized nonviolent resistance led by Mohandas Gandhi, offered one model: mass noncooperation aimed at making continued colonial rule too costly to sustain politically rather than militarily. Independence arrived alongside Partition, dividing British India into India and Pakistan along religious lines, and the mass displacement and violence that followed killed an estimated one to two million people and displaced tens of millions more within months.
+India's independence in 1947, achieved substantially through that campaign of organized nonviolent resistance led by Mohandas Gandhi, offered one model: mass noncooperation aimed at making continued colonial rule too costly to sustain politically rather than militarily. Independence arrived alongside Partition, dividing British India into India and Pakistan along religious lines, and the mass displacement and violence that followed killed somewhere between several hundred thousand and two million people, by different estimates, and displaced about fifteen million within months.
 
 Independent India kept its democracy through nearly everything that followed (the exception was a two-year suspension of civil liberties, the Emergency, in 1975-77), and in 2023 passed China as the world's most populous country by United Nations estimate, a piece of arithmetic the mathematicians of the Gupta period would presumably have found unsurprising.
 
-Africa's wave crested around 1960, when seventeen countries gained independence in a single year, most from France and Britain, some, like Algeria's from France, only after prolonged armed conflict instead of negotiation.
+Africa's wave crested around 1960, when seventeen countries gained independence in a single year, most from France and Britain, some only after armed conflict instead of negotiation. Algeria won its independence from France only in 1962, after eight years of war.
 
-Britain in particular spent the middle of this century handing back, with varying degrees of grace, an empire it had spent the previous two centuries quite energetically acquiring, a piece of institutional reversal dolphin historians clock as one of the tidier examples in the whole book of a country changing its mind on a schedule measured in decades, not centuries.
+Britain in particular spent the middle of this century handing back an empire it had spent the previous two centuries quite energetically acquiring, and the handing back was less graceful in places than its own histories later remembered. In Kenya, during the Mau Mau uprising of the 1950s, British authorities held tens of thousands of Kenyans in detention camps where torture was widespread; in 2013 the British government expressed regret and paid compensation to 5,228 surviving victims.
 
-Independence did not erase the maps colonial powers had drawn with no reference to the ethnic, linguistic, or religious boundaries that existed on the ground. Many of the era's subsequent conflicts, dolphin historians note, trace directly back to borders drawn decades or centuries earlier by administrators who had never intended those borders to become permanent national boundaries at all.
+Independence did not erase the maps colonial powers had drawn with no reference to the ethnic, linguistic, or religious boundaries that existed on the ground. Several of the era's later conflicts, many historians argue, owe at least part of their origin to borders drawn decades or centuries earlier by administrators who had never intended those borders to become permanent national boundaries at all.
 
 Newly independent states faced a further complication the Cold War's two superpowers made unavoidable: alignment. The Non-Aligned Movement, formally organized at a 1961 conference in Belgrade, tried to offer a third path for countries unwilling to be absorbed into either superpower's camp, with mixed and country-specific success.
 
@@ -1346,13 +1312,13 @@ Newly independent states faced a further complication the Cold War's two superpo
 
 ## 1893 to 1994: Civil Rights and Liberation — Humanity Argues With Itself
 
-Unlike most of the conflicts in this book, the campaigns in this chapter were mostly won without an army, by changing what a majority of people believed they owed to a minority — proof, dolphin historians note with evident approval, that this species can update its own rules without a battlefield, slowly and unevenly, but without one.
+Unlike most of the conflicts in this book, the campaigns in this chapter were mostly won without an army.
 
 In the United States, the Supreme Court's 1954 Brown v. Board of Education ruling declared racially segregated public schools unconstitutional, overturning the legal doctrine that had upheld segregation for nearly six decades. The following decade of organized protest, the 1955-56 Montgomery bus boycott (begun after Rosa Parks refused to give up her bus seat, nine months after a fifteen-year-old, Claudette Colvin, had done the same and been arrested), sit-ins, freedom rides, the 1963 March on Washington where Martin Luther King Jr. delivered his “I Have a Dream” speech, and the 1965 march at Selma, where state troopers beat marchers on the Edmund Pettus Bridge in front of television cameras, culminated in the Civil Rights Act of 1964 and the Voting Rights Act of 1965, dismantling the legal architecture of segregation and disenfranchisement, if not the underlying attitudes, at the federal level.
 
 The murder of Emmett Till, a fourteen-year-old boy killed in Mississippi in August 1955 after being accused of offending a white woman, and the decision by his mother, Mamie Till-Mobley, to hold an open-casket funeral so that Jet magazine could publish photographs of his mutilated body, is widely credited with galvanizing the movement that followed; the Montgomery boycott began three months later. The Twenty-Fourth Amendment, ratified in 1964, abolished the poll taxes that had been used for decades to price Black voters out of elections across much of the South.
 
-South Africa's anti-apartheid struggle ran on a longer clock. Legal racial segregation, formalized as apartheid in 1948, persisted for close to half a century against internal resistance and mounting international pressure and sanctions, ending only with Nelson Mandela's release in 1990 from twenty-seven years of imprisonment, eighteen of them on Robben Island (in waters the dolphins know well), and his election as South Africa's first Black president in 1994.
+South Africa's anti-apartheid struggle ran on a longer clock. Legal racial segregation, formalized as apartheid in 1948, persisted for close to half a century against internal resistance, including the armed campaign of the ANC's military wing, Umkhonto we Sizwe, after peaceful protest was banned, and mounting international pressure and sanctions, ending only with Nelson Mandela's release in 1990 from twenty-seven years of imprisonment, eighteen of them on Robben Island (in waters the dolphins know well), and his election as South Africa's first Black president in 1994.
 
 Women's movements ran throughout the same century on their own overlapping timelines: suffrage achieved in most Western democracies between roughly 1893 (New Zealand, first) and the 1920s across much of Europe and North America, followed by a second wave of legal and social advances in the 1960s and 70s addressing employment, reproductive rights, and legal equality more broadly, with the pace and scope of change varying enormously by country and continuing unevenly to the present.
 
@@ -1368,11 +1334,11 @@ A parallel argument about who counted as fully included ran through the same dec
 
 ## 1843 to 2007: The Digital Leap — Computers, Networks, and a Connected World
 
-The idea is older than the machine. In 1843 Ada Lovelace, the daughter of the poet Lord Byron, published what is generally regarded as the first computer program, an algorithm for a mechanical engine designed by Charles Babbage that he never managed to finish building, which dolphin historians identify as a very British way to invent a technology.
+The idea is older than the machine. In 1843 Ada Lovelace, the daughter of the poet Lord Byron, published what is often called the first computer program, an algorithm for a mechanical engine designed by Charles Babbage that he never managed to finish building, which dolphin historians identify as a very British way to invent a technology.
 
 The theoretical groundwork arrived next. Kurt Gödel's 1931 incompleteness theorems proved that any formal mathematical system powerful enough to describe basic arithmetic must contain true statements it cannot prove within its own system — a hard limit built into logic itself, discovered a decade before anyone built a working computer, and one this book's own recurring gap between capability and wisdom would recognize immediately.
 
-The war made the theory into machinery. At Bletchley Park, Alan Turing, whose 1936 paper had already defined what a computing machine could do in principle, designed the electromechanical Bombes that broke Germany's Enigma traffic, and the engineer Tommy Flowers built Colossus, the first programmable electronic digital computer, to read the German high command's Lorenz cipher.
+The war made the theory into machinery. At Bletchley Park, Alan Turing, whose 1936 paper had already defined what a computing machine could do in principle, built on the work of Polish cryptologists, who had broken early Enigma messages in the 1930s, to design the electromechanical Bombes that read Germany's Enigma traffic, and the engineer Tommy Flowers built Colossus, the first programmable electronic digital computer, to read the German high command's Lorenz cipher.
 
 The transistor, invented at Bell Labs in 1947, replaced the bulky, failure-prone vacuum tube and made a smaller, faster, and dramatically cheaper computer possible. The integrated circuit followed by the late 1950s, packing multiple transistors onto a single chip, and Gordon Moore's 1965 observation that the number of components on a chip was doubling every year, revised in 1975 to every two years, held, with adjustments, for decades, a compounding rate of improvement with no real precedent among the physical technologies covered earlier in this book.
 
@@ -1382,13 +1348,11 @@ The promise delivered was real: information that had once required a library and
 
 The cost arrived on the same schedule as the promise, not after it. The same networks that connected people gave states and companies a capacity for surveillance with no earlier equivalent; the same platforms that spread information spread misinformation at the same speed and, by most measured accounts, rather more efficiently; and human attention became a resource harvested, sold, and optimized for in ways no earlier technology in this book had ever managed to monetize directly.
 
-*One of the era's most quoted corporate mottos was, for several years, “move fast and break things.” The things broken were not specified in advance, and turned out, on inspection, to include several elections.*
+*One of the era's most quoted corporate mottos was, for several years, “move fast and break things.” The things broken were not specified in advance. Critics have since argued that they included privacy, attention spans, and the conduct of elections.*
 
 **
 
 *“Dolphins communicate at the speed of sound through water and have done so for tens of millions of years,” dolphin historians noted, with what human readers may reasonably interpret as amusement. “It required fiber optic cable, geostationary satellites, and a global economy's worth of infrastructure for humans to do, at planetary scale, much what a pod already does by whistling.”*
-
-*“The humans,” one senior dolphin scholar added, “connected every mind on Earth and then used it largely to argue.”*
 
 **Dolphin verdict:**
 
@@ -1436,13 +1400,13 @@ In October 2017, astronomers spotted the first confirmed object from outside the
 
 The search has produced exactly one signal serious enough to have kept its own name. On August 15, 1977, a radio telescope in Ohio recorded a brief, powerful burst on a frequency associated with hydrogen; the astronomer who found it circled the printout and wrote “Wow!” beside it. It has never repeated, and no explanation, natural or otherwise, has ever been confirmed.
 
-Frank Drake convened the field's first conference at the Green Bank Observatory in 1961, a meeting of a handful of scientists that included a young Carl Sagan, who went on to help design the Voyager Golden Record, a phonograph disc carrying images, sounds, and greetings in fifty-five languages, launched into interstellar space in 1977 on the chance that someone, eventually, might play it. The search is a Cold War child in more than just timing: Drake's and Sagan's generation of scientists came of age funding radio astronomy alongside the missile-tracking and satellite programs covered elsewhere in this book, and some of the same government dollars and dishes did double duty listening for Soviet hardware and for anyone else's.
+Frank Drake convened the field's first conference at the Green Bank Observatory in 1961, a meeting of a handful of scientists that included a young Carl Sagan, who went on to help design the Voyager Golden Record, a phonograph disc carrying images, sounds, and greetings in fifty-five languages, launched into interstellar space in 1977 on the chance that someone, eventually, might play it. The search is a Cold War child in more than just timing: Drake's and Sagan's generation of scientists came of age funding radio astronomy alongside the missile-tracking and satellite programs covered elsewhere in this book, and the same military and government interest in big radio dishes helped pay for the instruments they listened with.
 
-Humans have not only listened. In November 1974, scientists at the Arecibo Observatory in Puerto Rico beamed a single deliberate message toward the globular star cluster M13, encoding basic facts about human DNA, the solar system, and the species doing the transmitting, all in binary, aimed at a target roughly 25,000 light-years away specifically because no reply could arrive within any lifetime that sent it — a message its own authors knew perfectly well was written for an audience none of them would live to hear from.
+Humans have not only listened. In November 1974, scientists at the Arecibo Observatory in Puerto Rico beamed a single deliberate message toward the globular star cluster M13, encoding basic facts about human DNA, the solar system, and the species doing the transmitting, all in binary, aimed at a target roughly 25,000 light-years away, chosen chiefly because it was in the telescope's sky that day. It was meant as a demonstration of the new transmitter rather than a serious attempt at contact; any reply would take some 50,000 years to arrive.
 
 A separate, noisier strand of the same hope produced ancient-astronaut claims, popularized by Erich von Däniken's 1968 book proposing that extraterrestrial visitors explain ancient monuments and mythology. Mainstream archaeology rejects this comprehensively: the pyramids, credited earlier in this book to the Egyptian builders who actually raised them, along with Stonehenge and the Nazca lines, all have well-documented human construction methods and timelines, understood without any assistance from off-world engineers.
 
-More recently, US military encounters with unidentified aerial phenomena, officially acknowledged by the Pentagon starting in 2017 and the subject of congressional hearings in the 2020s, remain, by the government's own public assessments, mostly unexplained instead of confirmed extraterrestrial — a truly open case file, not evidence of visitation.
+More recently, US military encounters with unidentified aerial phenomena, officially acknowledged by the Pentagon starting in 2017 and the subject of congressional hearings in the 2020s, were reviewed by the Pentagon's own office for the purpose, which reported in 2024 that it had found no evidence of extraterrestrial technology and that most cases it could resolve turned out to be ordinary objects such as balloons, drones, and birds.
 
 Dolphin historians decline to adjudicate any of this further than the evidence allows, consistent with this book's practice elsewhere, and note only the shape of the underlying hope: across religion, mythology, and now astrophysics, this species keeps reaching for the idea that something larger, wiser, or simply other is paying attention.
 
@@ -1464,7 +1428,9 @@ Vaccination predates germ theory itself. Edward Jenner's 1796 smallpox vaccine, 
 
 Alexander Fleming's accidental 1928 discovery of penicillin was not put into mass production until wartime urgency forced it in the 1940s, and it turned infections that had reliably killed throughout human history into treatable conditions within a single generation.
 
-Together with clean water and sanitation, these advances drove the sharpest rise in human life expectancy in the species' entire history — the global average roughly doubling within about a century, a capability jump dolphin historians rank among the most unambiguously positive in this entire book, with none of the usual atrocity attached.
+Together with clean water and sanitation, these advances drove the sharpest rise in human life expectancy in the species' entire history — the global average roughly doubling within about a century, a capability jump dolphin historians rank among the most positive in this entire book.
+
+Not all of it was clean. From 1932 to 1972 the United States Public Health Service ran a study in Tuskegee, Alabama, that followed hundreds of Black men with syphilis without treating them, and kept them from treatment even after penicillin became the standard cure. The study ended only after a whistleblower went to the press. Its legacy, a well-earned distrust, outlived it by decades.
 
 The turn, when it comes in this chapter, is toward cost and access rather than violence. The same antibiotics and vaccines that were once nearly free to produce became, once patented, priced by what a market would bear instead of what they cost to make. Insulin's own discoverers sold their patent rights for one dollar apiece in 1923, specifically so it could never be monopolized; decades later, in some countries, its price still varied enough to bankrupt patients who needed it to survive.
 
@@ -1490,11 +1456,11 @@ The brochure version of the future offers centuries of extra life, uploaded mind
 
 What dolphin historians expect, and will be glad to be wrong about only in one direction, is this. More diseases will become instructions that can be rewritten in a single patient. Pandemics will keep arriving, because the animals, the cities, and the airplanes have not been repealed, and the next response will be only as fast as the last one if someone kept the platform warm. The bill will remain the chapter's villain. A medicine that works and cannot be had is a different object from a medicine that works. The outlook, stated for the people who will have to live in it, is better tools, unevenly shared, and a body that still dies, later than it used to, of something the tools have not yet reached.
 
-*Dolphin historians close this chapter noting their own species' relationship to all of it is refreshingly simple: no dolphin has ever needed a doctor, filed an insurance claim, or gone without a medication it could not afford. Dolphin health management is simply a matter of not getting sick in the first place, a strategy with an excellent success rate and no paperwork — though dolphin historians concede this is easier to maintain without cities, agriculture, or sedentary living to manage in the first place.*
+*Dolphin historians close this chapter with an admission. Dolphins have no medicine, and in 1987–88 and again in 2013–15 a measles-like virus, the dolphin morbillivirus, killed bottlenose dolphins by the hundreds along the Atlantic coast of the United States. Nobody treated them. The dolphins note that this is what life without the human hand looks like when the illness arrives, and that they do not recommend it.*
 
 **Dolphin verdict:**
 
-*No chapter in this book shows a cleaner rise from human ingenuity: vaccination, antiseptic surgery, and antibiotics together bought this species more added years of life, more quickly, than any war ever cost it. What follows the rise is a now-familiar shape all the same — medicine that could be almost free to produce became, in places, unaffordable to the people who needed it most, and the industry that ended centuries of death by infection also spent a decade selling addiction as pain relief. Dolphins have no medicine and no doctors. They also, dolphin historians note with some restraint, have no bill.*
+*Few chapters in this book show a cleaner rise from human ingenuity: vaccination, antiseptic surgery, and antibiotics together bought this species more added years of life, more quickly, than any war ever cost it. What follows the rise is a now-familiar shape all the same — medicine that could be almost free to produce became, in places, unaffordable to the people who needed it most, and the industry that ended centuries of death by infection also spent a decade selling addiction as pain relief. Dolphins have no doctors. They also, dolphin historians note with some restraint, have no bill.*
 
 ## 1896 to Today: Climate and Consequence — The Price of Progress
 
@@ -1511,10 +1477,6 @@ The measured results were not a future prediction by the time this book was writ
 Geologists have their own name for what all of this adds up to: the Anthropocene, a proposed new epoch defined not by ice or asteroid but by one species' own signature, layered permanently into the planet's rock and sediment. The term was popularized in 2000 by the chemist Paul Crutzen and the biologist Eugene Stoermer, and a working group of scientists spent the following two decades hunting for a single physical site where a future geologist, digging up this era millions of years from now, could point to an exact line and say the old epoch ended here. Their leading candidate was the mid-20th century, marked by a sudden, unmistakable layer of radioactive fallout from nuclear weapons testing, alongside plastic, concrete dust, and fly ash, all showing up in lake sediment worldwide within the same few years. In 2024, the body responsible for officially naming geological epochs voted the specific proposal down anyway, not because the evidence was wrong but because its members could not agree the change deserved a new epoch instead of a chapter inside the current one. The debate over the name continues; the sediment layer it was arguing about does not care either way.
 
 *“Humans spent two decades arguing over what to call the layer of rock they were leaving behind,” dolphin historians noted, “instead of the century arguing over whether to leave it. We note the committee vote changed nothing about the rock.”*
-
-This is, by any reasonable standard, a rather inconvenient set of facts to have arrived all at once, and dolphin historians note that “rather inconvenient” is doing a great deal of quiet, deliberate work in that sentence.
-
-*“Dolphins hold documentation rights on this chapter that no other chapter in the book requires us to claim,” dolphin historians observed. “This is our habitat being measured, not only humanity's.”*
 
 The response, such as it has been, arrived slowly and unevenly against the scale of the problem. Renewable energy, solar and wind chiefly, fell in cost fast enough by the 2010s to compete directly with fossil fuels on price in many markets without subsidy, a genuine and rapid technological success by the standards of any earlier chapter in this book. The 2015 Paris Agreement brought nearly every country on Earth into a single framework for reducing emissions, a diplomatic achievement with few equivalents in scope.
 
@@ -1572,7 +1534,7 @@ Hungary supplied the clearest self-description of the trend. Viktor Orbán, in p
 
 *Saying the strategy's name out loud in advance did not appear to blunt its effectiveness in the slightest, which dolphin scholarship considers the most unsettling detail in this chapter.*
 
-In the United States, a crowd seeking to overturn the certified result of the 2020 presidential election stormed the Capitol building on January 6, 2021, the first time since the War of 1812 that the building had been breached by force.
+In the United States, a crowd seeking to overturn the certified result of the 2020 presidential election stormed the Capitol building on January 6, 2021, the first time the building had been overrun since British troops burned it in 1814.
 
 Dolphin historians find “backsliding” a rather gentle word for the phenomenon it describes, in the tradition of calling a collapsing bridge “structurally disappointing,” but concede the restraint is at least consistent with how this species prefers to name its own unravelings.
 
@@ -1582,13 +1544,13 @@ There is a precedent, and it is not comforting. The last time a new medium made 
 
 The COVID-19 pandemic, beginning in late 2019 and killing at least seven million people worldwide by confirmed counts alone (excess-mortality estimates run substantially higher), served as an unplanned stress test of institutional trust across nearly every country on Earth simultaneously, and the results varied enormously by country in ways that tracked existing measures of institutional trust more closely than they tracked wealth or scientific capacity.
 
-The old habits were not retired, only mislaid. In February 2022, Russia launched a full-scale invasion of Ukraine, the largest war in Europe since 1945, and for well over a decade before it the annual surveys of political freedom had recorded more countries declining than improving. Dolphin historians, who have seen this pattern before, decline to say how it ends.
+The old habits were not retired, only mislaid. In February 2022, Russia launched a full-scale invasion of Ukraine, the largest war in Europe since 1945. Dolphin historians, who have seen this pattern before, decline to say how it ends.
 
-*“This chapter is deliberately left less resolved than the others,” dolphin historians noted, “because the humans involved have not resolved it yet. Dolphin scholarship declines to render a verdict on an argument still in progress.”*
+The ratchet, meanwhile, has not paused. The same decades produced machine learning systems that write, draw, and argue, synthetic biology that can be ordered by mail, and weapons that choose their own targets. The capabilities arrive as global products. The judgment about using them is still exercised one country, one company, and one election at a time.
 
 **Dolphin verdict:**
 
-*Every prior chapter in this book describing a struggle over how power should be organized reached some kind of resolution in the end, however costly or incomplete. This is the first chapter dolphin historians close without one, because the argument it describes is still being had, in real time, in the same news cycles the argument itself runs on. History has not finished grading this chapter's outcome, and neither, honestly, have the dolphins.*
+*Nearly every earlier chapter in this book describing a struggle over how power should be organized reached some kind of resolution in the end, however costly or incomplete. This one dolphin historians close without any, because the argument it describes is still being had, in real time, in the same news cycles the argument itself runs on. History has not finished grading this chapter's outcome, and neither, honestly, have the dolphins.*
 
 ## Seven Million Years to Today: The Dolphins' Long View — What a Non-Human Species Makes of Human History
 
@@ -1598,7 +1560,7 @@ The evidence, gathered across every chapter since, does not overturn the claim. 
 
 Fire and stone tools turned a clever ape into a fed, warmed, and organized one. Writing let that organization survive the death of everyone who built it. Farming, kingship, and bureaucracy turned organization into scale. None of these tools carried any built-in instruction about what they should be used for, and humans used every one of them for both extraordinary construction and extraordinary harm, frequently within the same generation, sometimes within the same decade.
 
-Sumer's first empire and Hammurabi's public law arrived alongside the first standing armies. Rome's roads and aqueducts arrived alongside the loss of a republic's own self-government. The steam engine and the Enlightenment's own reasoned case for human rights arrived within a century and a half of a European war that killed ten million people over a few hundred yards of mud.
+Sumer's first empire and Hammurabi's public law arrived alongside the first standing armies. Rome's roads and aqueducts arrived alongside the loss of a republic's own self-government. The steam engine and the Enlightenment's own reasoned case for human rights arrived within a century and a half of a European war that killed some ten million soldiers over a few hundred yards of mud.
 
 The six genius-and-catastrophe case studies, Germany, Japan, Italy, Spain, the Soviet Union, and China, made the pattern impossible to mistake for a defect in any one people or culture. Each nation brought a real and often ancient cultural inheritance to the twentieth century. Each one turned that inheritance's tools toward dictatorship and, in most cases, mass killing. Each one, on a different clock, ranging from Germany's twelve years and Italy's twenty-one to Spain's nearly four decades to the Soviet Union's close to seventy, eventually corrected course, or in China's case corrected only part of it.
 
@@ -1607,6 +1569,8 @@ The chapters since have shown the same pattern still running, just with better t
 *“We do not envy humans,” the Society recorded, “and we do not pity them either. Envy and pity both assume we would have made different choices with the same hands. We were never given the hands to find out.”*
 
 What dolphin scholarship can say, having watched the entire record rather than any single chapter of it, is this: capability has compounded in this species faster than in any other lineage this book, or the fossil record behind it, has ever recorded. Wisdom has arrived unevenly, late, and often only after the capability it was meant to guide had already been used once, badly, first.
+
+The reason is the one this book proposed at the start. Capability has a ratchet. Every tool, every technique, every written instruction is kept and built upon, so each generation starts where the last one stopped. Wisdom has no ratchet. It cannot be written down in a form that works on the next reader the way a formula does; each generation has to acquire it again, mostly the hard way.
 
 It has, to be fair, sometimes arrived on time, and dolphin historians keep a short list: a Christmas truce organized by soldiers who then had to be ordered to stop, a naval officer in a submarine who declined to vote for war, a watch officer who distrusted his own machine. Every entry on it is one person or a few, acting against expectation and occasionally against orders. It has never yet arrived in bulk.
 
@@ -1652,8 +1616,6 @@ A third timeline, easy to lose inside chapters about wars and empires, is the sl
 
 A fourth and final timeline belongs to the numbers themselves. This book has mentioned, in passing, that ancient India gave the world the mathematical zero, but never paused on the throughline connecting them to the physics and computing chapters near this book's end. The 9th-century Baghdad mathematician al-Khwarizmi, whose name gives us the word algorithm, wrote the treatise that gave the West the word algebra. Isaac Newton and Gottfried Leibniz independently developed calculus in the 17th century, arguing bitterly for the rest of their lives over who got there first. Alan Turing's 1936 paper on computable numbers, written before any computer existed to run on, defined what a computer could and could not do in principle — a piece of pure mathematics that this book's own digital chapter turns out to depend on entirely.
 
-*“We are aware,” dolphin historians noted, dryly, “that a species capable of noticing all four of these timelines while writing a history book, and still leaving them out of the first draft, has proven the book's own thesis considerably better than any single chapter did.”*
-
 **Dolphin verdict:**
 
 *Every chapter in this book told the story of a place, a war, or an idea, one at a time, in the order humans usually tell it. But underneath all of them, the same four things were running the entire time: there were more humans every year, and only slowly did more of them count; the world was slowly agreeing, on paper if not yet in practice, that its rules should apply to everyone; and the numbers themselves, invented quietly by people this book barely names, were doing more work than any king this book named twice. A history told only in nations and wars will always miss the timelines that do not stop at a border. This chapter exists because the dolphins went back and checked, and found the missing timelines were not minor. They were most of the ledger.*
@@ -1666,7 +1628,7 @@ The first branch is biological. Gene-editing tools, CRISPR chief among them, now
 
 The second branch is artificial, and dolphin historians ask readers to notice its specific shape instead of a generic one. The relevant development is not disembodied software alone; it is artificial intelligence paired deliberately with android bodies — humanoid robots built with hands, because their human designers, correctly, built them to finish the job hands started back in this book's opening chapter.
 
-*“Humans are now building their own replacements,” dolphin historians noted, “for the one piece of anatomy the dolphins were told, at the very start of this book, that they could never grow. There is an irony here specific enough that dolphin scholarship insists on stating it directly instead of leaving it for the reader to notice unassisted.”*
+*“Humans are now building their own replacements,” dolphin historians noted, “for the one piece of anatomy the dolphins were told, at the very start of this book, that they could never grow.”*
 
 *It is, on the available evidence, the first item this species has ever manufactured on purpose specifically to take its own place. Dolphin scholarship wishes it well and notes, purely for the record, that every other tool in this book was also going to be perfectly safe.*
 
@@ -1721,6 +1683,536 @@ What has been accomplished is narrower, and real. At ordinary energies gravity c
 The outlook is patient and a little stern. Nobody knows whether the joint theory will look like strings, loops, or something not yet named, and the decisive test will probably not come from a collider. It may come from a precise look at the early universe, from the way black holes handle information, or from some small violation of the present laws that a better instrument finally catches. Until a measurement chooses, dolphin historians decline to. Two working theories and no wedding is an honest description of the present; calling the wedding inevitable is a hope. Hopes are allowed. They are not results.
 
 *“We would be willing to help,” the Society noted, after a silence in which nobody had asked them. “The smooth geometry is familiar. The jitter is familiar. We have been living in both for a long time. Our fee for the consultation is some fish, and some shrimp. The good kind of both. This is not a metaphor, and it is not negotiable in journals.”*
+
+## Notes and Sources
+
+This book makes a great many factual claims in a light voice. The voice is the dolphins'; the facts are meant to be checkable. The notes below list, chapter by chapter, the sources behind the dates, the numbers, and the arguments that are still open, so that any reader can follow a claim back to the scholarship it rests on.
+
+Each entry names what it supports, in italics, and then the source. Where historians disagree, both sides are listed. Where a figure is an estimate, the note points to the work that made it, and the text gives a range rather than a single number. Classical and medieval texts are cited by their standard book and section numbers, so any translation will do. Web addresses were checked in October 2026.
+
+Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only long memories, and declines to be cited.
+
+**Prologue: Humans Have Ape Ancestors**
+
+*Whale origins; Pakicetus and the hippo connection.* Thewissen, J. G. M., et al. “Whales Originated from Aquatic Artiodactyls in the Eocene Epoch of India.” Nature 450 (2007): 1190–94.
+
+*Chimpanzee–human split; hominin branching.* Stringer, Chris. The Origin of Our Species. London: Allen Lane, 2011.
+
+**The Last Fifty Million Years: No Hands, No Cities — Why the Dolphins Only Watched**
+
+*Dolphin and primate encephalization quotients.* Marino, Lori. “A Comparison of Encephalization between Odontocete Cetaceans and Anthropoid Primates.” Brain, Behavior and Evolution 51 (1998): 230–38.
+
+*Signature whistles used as names.* Janik, Vincent M., Laela S. Sayigh, and Randall S. Wells. “Signature Whistle Shape Conveys Identity Information to Bottlenose Dolphins.” PNAS 103 (2006): 8293–97.
+
+*Sponge carrying in Shark Bay as a culturally transmitted tool use.* Krützen, Michael, et al. “Cultural Transmission of Tool Use in Bottlenose Dolphins.” PNAS 102 (2005): 8939–43.
+
+*Cumulative culture, the “ratchet” this book’s thesis rests on.* Tennie, Claudio, Josep Call, and Michael Tomasello. “Ratcheting Up the Ratchet: On the Evolution of Cumulative Culture.” Philosophical Transactions of the Royal Society B 364 (2009): 2405–15.
+
+*Arion and the dolphin.* Herodotus, Histories 1.23–24 (5th century BCE; many translations).
+
+**7 Million to 300,000 Years Ago: Where Everyone Is From — Africa and the Making of Humans**
+
+*Jebel Irhoud and a pan-African origin of Homo sapiens.* Hublin, Jean-Jacques, et al. “New Fossils from Jebel Irhoud, Morocco and the Pan-African Origin of Homo sapiens.” Nature 546 (2017): 289–92.
+
+*Subdivided African populations rather than a single cradle.* Scerri, Eleanor M. L., et al. “Did Our Species Evolve in Subdivided Populations across Africa, and Why Does It Matter?” Trends in Ecology & Evolution 33 (2018): 582–94.
+
+*Laetoli footprints.* Leakey, M. D., and R. L. Hay. “Pliocene Footprints in the Laetolil Beds at Laetoli, Northern Tanzania.” Nature 278 (1979): 317–23.
+
+*Earliest Homo, about 2.8 million years ago.* Villmoare, Brian, et al. “Early Homo at 2.8 Ma from Ledi-Geraru, Afar, Ethiopia.” Science 347 (2015): 1352–55.
+
+*Dmanisi, the oldest hominin fossils outside Africa.* Lordkipanidze, David, et al. “A Complete Skull from Dmanisi, Georgia, and the Evolutionary Biology of Early Homo.” Science 342 (2013): 326–31.
+
+*Age of Homo naledi.* Dirks, Paul H. G. M., et al. “The Age of Homo naledi and Associated Sediments in the Rising Star Cave, South Africa.” eLife 6 (2017): e24231.
+
+*Blombos Cave engraved ochre.* Henshilwood, Christopher S., et al. “Emergence of Modern Human Behavior: Middle Stone Age Engravings from South Africa.” Science 295 (2002): 1278–80.
+
+**The Old Stone Age, a Million Years Ago: The First Fires — Early Humans and the Spark of Culture**
+
+*Controlled fire at Wonderwerk Cave about a million years ago.* Berna, Francesco, et al. “Microstratigraphic Evidence of In Situ Fire in the Acheulean Strata of Wonderwerk Cave, Northern Cape Province, South Africa.” PNAS 109 (2012): E1215–20.
+
+*Repeated central hearth at Qesem Cave.* Shahack-Gross, Ruth, et al. “Evidence for the Repeated Use of a Central Hearth at Middle Pleistocene (300 ky ago) Qesem Cave, Israel.” Journal of Archaeological Science 44 (2014): 12–21.
+
+*Lomekwi tools, 3.3 million years old.* Harmand, Sonia, et al. “3.3-Million-Year-Old Stone Tools from Lomekwi 3, West Turkana, Kenya.” Nature 521 (2015): 310–15.
+
+*The earliest Acheulean hand axes.* Lepre, Christopher J., et al. “An Earlier Origin for the Acheulian.” Nature 477 (2011): 82–85.
+
+*Heat treatment of silcrete at Pinnacle Point.* Brown, Kyle S., et al. “Fire as an Engineering Tool of Early Modern Humans.” Science 325 (2009): 859–62.
+
+*The cooking hypothesis, and its critics.* Wrangham, Richard. Catching Fire: How Cooking Made Us Human. New York: Basic Books, 2009.
+
+*Why the date of language is unknown.* Fitch, W. Tecumseh. The Evolution of Language. Cambridge: Cambridge University Press, 2010.
+
+**70,000 to 15,000 Years Ago: Out of Africa — The Long Walk Across the World**
+
+*The case for Australia by 65,000 years ago.* Clarkson, Chris, et al. “Human Occupation of Northern Australia by 65,000 Years Ago.” Nature 547 (2017): 306–10.
+
+*The case for a later arrival, about 50,000 years ago.* O’Connell, James F., et al. “When Did Homo sapiens First Reach Southeast Asia and Sahul?” PNAS 115 (2018): 8482–90.
+
+*The Denisovans, from a finger bone.* Reich, David, et al. “Genetic History of an Archaic Hominin Group from Denisova Cave in Siberia.” Nature 468 (2010): 1053–60.
+
+*The Denisovan jaw from the Tibetan Plateau, identified by proteins.* Chen, Fahu, et al. “A Late Middle Pleistocene Denisovan Mandible from the Tibetan Plateau.” Nature 569 (2019): 409–12.
+
+*The last Neanderthals, about 40,000 years ago.* Higham, Tom, et al. “The Timing and Spatiotemporal Patterning of Neanderthal Disappearance.” Nature 512 (2014): 306–09.
+
+*Homo floresiensis redated.* Sutikna, Thomas, et al. “Revised Stratigraphy and Chronology for Homo floresiensis at Liang Bua in Indonesia.” Nature 532 (2016): 366–69.
+
+*Sulawesi narrative painting, at least 51,200 years old.* Oktaviana, Adhi Agus, et al. “Narrative Cave Art in Indonesia by 51,200 Years Ago.” Nature 631 (2024): 814–18.
+
+*White Sands footprints and an earlier arrival in the Americas.* Bennett, Matthew R., et al. “Evidence of Humans in North America during the Last Glacial Maximum.” Science 373 (2021): 1528–31.
+
+*Ancient DNA, interbreeding, and the dispersal from Africa.* Reich, David. Who We Are and How We Got Here. New York: Pantheon, 2018.
+
+**The Neolithic, from 10,000 BCE: The First Villages — Agriculture and the End of Wandering**
+
+*Göbekli Tepe and feasting before farming.* Dietrich, Oliver, et al. “The Role of Cult and Feasting in the Emergence of Neolithic Communities: New Evidence from Göbekli Tepe, South-eastern Turkey.” Antiquity 86 (2012): 674–95.
+
+*Independent centers of domestication; dog domestication.* Larson, Greger, et al. “Current Perspectives and the Future of Domestication Studies.” PNAS 111 (2014): 6139–46.
+
+*The slow domestication of rice.* Fuller, Dorian Q., et al. “The Domestication Process and Domestication Rate in Rice: Spikelet Bases from the Lower Yangtze.” Science 323 (2009): 1607–10.
+
+*Farmers' skeletons: shorter, sicker, more numerous.* Larsen, Clark Spencer. “The Agricultural Revolution as Environmental Catastrophe: Implications for Health and Lifestyle in the Holocene.” Quaternary International 150 (2006): 12–20.
+
+*Çatalhöyük.* Hodder, Ian. The Leopard’s Tale: Revealing the Mysteries of Çatalhöyük. London: Thames & Hudson, 2006.
+
+*The case against the agricultural bargain.* Scott, James C. Against the Grain: A Deep History of the Earliest States. New Haven: Yale University Press, 2017.
+
+*“The worst mistake in the history of the human race”.* Diamond, Jared. “The Worst Mistake in the History of the Human Race.” Discover, May 1987, 64–66.
+
+**From 3200 BCE: Writing and Memory — How Humans Learned to Speak to the Future**
+
+*Tokens, accounting, and the origin of cuneiform.* Schmandt-Besserat, Denise. How Writing Came About. Austin: University of Texas Press, 1996.
+
+*The Uruk accounting tablets, including the Kushim texts.* Nissen, Hans J., Peter Damerow, and Robert K. Englund. Archaic Bookkeeping: Early Writing and Techniques of Economic Administration in the Ancient Near East. Chicago: University of Chicago Press, 1993.
+
+*Independent inventions of writing.* Houston, Stephen D., ed. The First Writing: Script Invention as History and Process. Cambridge: Cambridge University Press, 2004.
+
+*How remembering rebuilds and distorts.* Schacter, Daniel L. The Seven Sins of Memory. Boston: Houghton Mifflin, 2001.
+
+*What is known, and not, about the Library of Alexandria.* Bagnall, Roger S. “Alexandria: Library of Dreams.” Proceedings of the American Philosophical Society 146 (2002): 348–62.
+
+*The Kushim tablets.* Nissen, Damerow, and Englund, Archaic Bookkeeping (above), on the Kushim accounts; the tablet described here is MS 1717 in the Schøyen Collection.
+
+**The Bronze Age, 3100–1150 BCE: Gods and Kings — Mesopotamia, Egypt, and the First Empires**
+
+*Sargon, Hammurabi, and Mesopotamian chronology.* Van De Mieroop, Marc. A History of the Ancient Near East, ca. 3000–323 BC. 3rd ed. Chichester: Wiley-Blackwell, 2016.
+
+*The pyramid builders’ town at Giza.* Lehner, Mark, and Zahi Hawass. Giza and the Pyramids. London: Thames & Hudson, 2017.
+
+*The Deir el-Medina strike.* Edgerton, William F. “The Strikes in Ramses III’s Twenty-Ninth Year.” Journal of Near Eastern Studies 10 (1951): 137–45.
+
+*Hammurabi’s laws in translation.* Roth, Martha T. Law Collections from Mesopotamia and Asia Minor. 2nd ed. Atlanta: Scholars Press, 1997.
+
+*The Egyptian–Hittite treaty.* Bryce, Trevor. The Kingdom of the Hittites. New ed. Oxford: Oxford University Press, 2005.
+
+*The Rosetta Stone and decipherment.* Parkinson, Richard. Cracking Codes: The Rosetta Stone and Decipherment. London: British Museum Press, 1999.
+
+**1600 BCE to 589 CE: The Middle Kingdom — China's Long Civilization**
+
+*Oracle bones and Shang writing.* Keightley, David N. Sources of Shang History: The Oracle-Bone Inscriptions of Bronze Age China. Berkeley: University of California Press, 1978.
+
+*Qin unification and the Han.* Lewis, Mark Edward. The Early Chinese Empires: Qin and Han. Cambridge, MA: Harvard University Press, 2007.
+
+*The civil service examinations.* Elman, Benjamin A. A Cultural History of Civil Examinations in Late Imperial China. Berkeley: University of California Press, 2000.
+
+*The archaeology behind the dynasties, including the Xia debate.* Liu, Li, and Xingcan Chen. The Archaeology of China. Cambridge: Cambridge University Press, 2012.
+
+**2600 BCE to 550 CE: The Subcontinent — Zero, Gods, and Glorious Complexity**
+
+*The Indus civilization.* Possehl, Gregory L. The Indus Civilization: A Contemporary Perspective. Walnut Creek, CA: AltaMira, 2002.
+
+*Early Indian history, Mauryas to Guptas.* Thapar, Romila. Early India: From the Origins to AD 1300. Berkeley: University of California Press, 2002.
+
+*Zero, place value, Aryabhata, and Brahmagupta.* Plofker, Kim. Mathematics in India. Princeton: Princeton University Press, 2009.
+
+*Caste, and how colonial rule reshaped it.* Dirks, Nicholas B. Castes of Mind: Colonialism and the Making of Modern India. Princeton: Princeton University Press, 2001.
+
+*Jain ahimsa.* Dundas, Paul. The Jains. 2nd ed. London: Routledge, 2002.
+
+*Untouchability abolished.* Constitution of India (1950), Article 17; Article 15 prohibits discrimination on grounds of caste.
+
+**Classical Greece, 508–323 BCE: Democracy's Experiment — Ancient Greece**
+
+*How Athenian democracy worked.* Hansen, Mogens Herman. The Athenian Democracy in the Age of Demosthenes. Oxford: Blackwell, 1991; repr. Norman: University of Oklahoma Press, 1999.
+
+*Democracy’s long afterlife.* Cartledge, Paul. Democracy: A Life. Oxford: Oxford University Press, 2016.
+
+*The Antikythera mechanism.* Freeth, Tony, et al. “Decoding the Ancient Greek Astronomical Calculator Known as the Antikythera Mechanism.” Nature 444 (2006): 587–91.
+
+*Its Olympiad dial.* Freeth, Tony, et al. “Calendars with Olympiad Display and Eclipse Prediction on the Antikythera Mechanism.” Nature 454 (2008): 614–17.
+
+**The 8th Century BCE to 476 CE: Rome — The Empire That Built the World and Broke It**
+
+*Rome from foundation to 212 CE.* Beard, Mary. SPQR: A History of Ancient Rome. London: Profile Books, 2015.
+
+*The case for a real fall.* Ward-Perkins, Bryan. The Fall of Rome and the End of Civilization. Oxford: Oxford University Press, 2005.
+
+*The case for transformation.* Brown, Peter. The World of Late Antiquity, AD 150–750. London: Thames & Hudson, 1971.
+
+*Plague and climate in the decline.* Harper, Kyle. The Fate of Rome: Climate, Disease, and the End of an Empire. Princeton: Princeton University Press, 2017.
+
+**The 5th Century BCE to 1291 CE: Faiths, Crusades, and the Medieval World**
+
+*The early Islamic conquests.* Kennedy, Hugh. The Great Arab Conquests. London: Weidenfeld & Nicolson, 2007.
+
+*The translation movement in Baghdad.* Gutas, Dimitri. Greek Thought, Arabic Culture. London: Routledge, 1998.
+
+*The Crusades.* Riley-Smith, Jonathan. The Crusades: A History. 3rd ed. London: Bloomsbury, 2014.
+
+*The sack of Constantinople, 1204.* Phillips, Jonathan. The Fourth Crusade and the Sack of Constantinople. New York: Viking, 2004.
+
+*How Christianity grew.* Stark, Rodney. The Rise of Christianity. Princeton: Princeton University Press, 1996.
+
+**The Early Middle Ages, 476–1000 CE: The Allegedly Dark Ages**
+
+*Petrarch and the idea of a dark age.* Mommsen, Theodor E. “Petrarch’s Conception of the ‘Dark Ages.’” Speculum 17 (1942): 226–42.
+
+*Early medieval Europe as a period in its own right.* Wickham, Chris. The Inheritance of Rome: A History of Europe from 400 to 1000. London: Allen Lane, 2009.
+
+*The flat-earth myth.* Russell, Jeffrey Burton. Inventing the Flat Earth: Columbus and Modern Historians. New York: Praeger, 1991.
+
+*Charlemagne’s writing tablets.* Einhard, Life of Charlemagne, ch. 25 (c. 830; many translations).
+
+**The 2nd Century BCE to 1368 CE: Silk, Steppe, and Plague — The Roads That Connected Everyone, Including the Germs**
+
+*The Silk Roads as a network.* Hansen, Valerie. The Silk Road: A New History. Oxford: Oxford University Press, 2012.
+
+*The Black Death’s origin in central Eurasia.* Spyrou, Maria A., et al. “The Source of the Black Death in Fourteenth-Century Central Eurasia.” Nature 606 (2022): 718–24.
+
+*The siege of Caffa story and its single source.* Wheelis, Mark. “Biological Warfare at the 1346 Siege of Caffa.” Emerging Infectious Diseases 8 (2002): 971–75.
+
+*Rats, fleas, and lice: the transmission debate.* Dean, Katharine R., et al. “Human Ectoparasites and the Spread of Plague in Europe during the Second Pandemic.” PNAS 115 (2018): 1304–09.
+
+*Mortality estimates for the Black Death.* Benedictow, Ole J. The Black Death, 1346–1353: The Complete History. Woodbridge: Boydell, 2004.
+
+*Agnolo di Tura’s testimony from Siena.* Agnolo di Tura del Grasso, Cronaca senese (1348–51); English translation in William M. Bowsky, ed., The Black Death: A Turning Point in History? New York: Holt, Rinehart and Winston, 1971.
+
+**The 8th Century BCE to 1897 CE: Gold, Salt, and Stone — The Kingdoms of Africa**
+
+*Ghana, Mali, Songhai, and Mansa Musa.* Gomez, Michael A. African Dominion: A New History of Empire in Early and Medieval West Africa. Princeton: Princeton University Press, 2018.
+
+*Medieval Africa through its objects and sites.* Fauvelle, François-Xavier. The Golden Rhinoceros: Histories of the African Middle Ages. Princeton: Princeton University Press, 2018.
+
+*Aksum.* Phillipson, David W. Foundations of an African Civilisation: Aksum and the Northern Horn, 1000 BC–AD 1300. Woodbridge: James Currey, 2012.
+
+*Kush and Meroë.* Edwards, David N. The Nubian Past: An Archaeology of the Sudan. London: Routledge, 2004.
+
+*Great Zimbabwe.* Pikirayi, Innocent. The Zimbabwe Culture: Origins and Decline of Southern Zambezian States. Walnut Creek, CA: AltaMira, 2001.
+
+*The 1897 expedition and the restitution argument.* Hicks, Dan. The Brutish Museums: The Benin Bronzes, Colonial Violence and Cultural Restitution. London: Pluto Press, 2020.
+
+**2600 BCE to 1491 CE: Before Columbus — Cities, Corn, and Knotted String**
+
+*The Americas before 1492.* Mann, Charles C. 1491: New Revelations of the Americas before Columbus. New York: Knopf, 2005.
+
+*A single domestication of maize.* Matsuoka, Yoshihiro, et al. “A Single Domestication for Maize Shown by Multilocus Microsatellite Genotyping.” PNAS 99 (2002): 6080–84.
+
+*Dating Caral.* Shady Solis, Ruth, Jonathan Haas, and Winifred Creamer. “Dating Caral, a Preceramic Site in the Supe Valley on the Central Coast of Peru.” Science 292 (2001): 723–26.
+
+*The khipu.* Urton, Gary. Signs of the Inka Khipu. Austin: University of Texas Press, 2003.
+
+*Population estimates for 1492: the high counts.* Denevan, William M., ed. The Native Population of the Americas in 1492. 2nd ed. Madison: University of Wisconsin Press, 1992.
+
+*Population estimates for 1492: the skeptics.* Henige, David. Numbers from Nowhere: The American Indian Contact Population Debate. Norman: University of Oklahoma Press, 1998.
+
+*A recent synthesis of the estimates (about 60 million).* Koch, Alexander, Chris Brierley, Mark M. Maslin, and Simon L. Lewis. “Earth System Impacts of the European Arrival and Great Dying in the Americas after 1492.” Quaternary Science Reviews 207 (2019): 13–36.
+
+*Polynesian contact with South America.* Ioannidis, Alexander G., et al. “Native American Gene Flow into Polynesia Predating Easter Island Settlement.” Nature 583 (2020): 572–77.
+
+*Cahokia.* Pauketat, Timothy R. Cahokia: Ancient America’s Great City on the Mississippi. New York: Viking, 2009.
+
+*The high estimate of 1966.* Dobyns, Henry F. “Estimating Aboriginal American Population: An Appraisal of Techniques with a New Hemispheric Estimate.” Current Anthropology 7 (1966): 395–416.
+
+**The 15th to 17th Centuries: Ships, Gunpowder, and Gold — Exploration, Conquest, and the Colonial Age**
+
+*Numbers embarked and died in the Atlantic slave trade.* Eltis, David, and David Richardson. Atlas of the Transatlantic Slave Trade. New Haven: Yale University Press, 2010.
+
+*The voyages database behind those numbers.* SlaveVoyages: Trans-Atlantic Slave Trade Database. https://www.slavevoyages.org (consulted 2026).
+
+*Equiano’s account of the crossing.* Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789. Project Gutenberg ebook 15399.
+
+*The dispute over Equiano’s birthplace.* Carretta, Vincent. Equiano, the African: Biography of a Self-Made Man. Athens: University of Georgia Press, 2005.
+
+*Kossola (Cudjo Lewis) and the Clotilda.* Hurston, Zora Neale. Barracoon: The Story of the Last “Black Cargo.” Edited by Deborah G. Plant. New York: Amistad, 2018.
+
+*The Clotilda and Africatown.* Diouf, Sylviane A. Dreams of Africa in Alabama: The Slave Ship Clotilda and the Story of the Last Africans Brought to America. New York: Oxford University Press, 2007.
+
+*Disease, enslavement, and violence in the Indigenous collapse.* Livi Bacci, Massimo. Conquest: The Destruction of the American Indios. Cambridge: Polity, 2008.
+
+*Indigenous enslavement in the Americas.* Reséndez, Andrés. The Other Slavery: The Uncovered Story of Indian Enslavement in America. Boston: Houghton Mifflin Harcourt, 2016.
+
+*Zheng He’s fleets and the ship-size debate.* Dreyer, Edward L. Zheng He: China and the Oceans in the Early Ming Dynasty, 1405–1433. New York: Pearson Longman, 2007.
+
+**1450 to the Late 1800s: Machines and Manifestos — Renaissance, Enlightenment, and Industry**
+
+*Printing and its consequences.* Eisenstein, Elizabeth L. The Printing Press as an Agent of Change. Cambridge: Cambridge University Press, 1979.
+
+*Why industrialization began in Britain.* Allen, Robert C. The British Industrial Revolution in Global Perspective. Cambridge: Cambridge University Press, 2009.
+
+*Child labor in the mills.* Humphries, Jane. Childhood and Child Labour in the British Industrial Revolution. Cambridge: Cambridge University Press, 2010.
+
+*Coal, colonies, and the Great Divergence.* Pomeranz, Kenneth. The Great Divergence: China, Europe, and the Making of the Modern World Economy. Princeton: Princeton University Press, 2000.
+
+*Deaths in the London smog of 1952.* Bell, Michelle L., and Devra Lee Davis. “Reassessment of the Lethal London Fog of 1952.” Environmental Health Perspectives 109, suppl. 3 (2001): 389–94.
+
+**1776–1865: The Republic, With Exceptions — America**
+
+*The Civil War death toll.* Hacker, J. David. “A Census-Based Count of the Civil War Dead.” Civil War History 57 (2011): 307–48.
+
+*Reconstruction and its abandonment.* Foner, Eric. Reconstruction: America’s Unfinished Revolution, 1863–1877. New York: Harper & Row, 1988.
+
+*Indian removal.* Saunt, Claudio. Unworthy Republic: The Dispossession of Native Americans and the Road to Indian Territory. New York: Norton, 2020.
+
+*The Haitian Revolution.* Dubois, Laurent. Avengers of the New World: The Story of the Haitian Revolution. Cambridge, MA: Harvard University Press, 2004.
+
+*American whaling and its decline.* Dolin, Eric Jay. Leviathan: The History of Whaling in America. New York: Norton, 2007.
+
+**1620 to 1993: God's Own Experiment — Religion in America**
+
+*American religious pluralism.* Butler, Jon. Awash in a Sea of Faith: Christianizing the American People. Cambridge, MA: Harvard University Press, 1990.
+
+*The Second Great Awakening and new movements.* Hatch, Nathan O. The Democratization of American Christianity. New Haven: Yale University Press, 1989.
+
+*Joseph Smith.* Bushman, Richard Lyman. Joseph Smith: Rough Stone Rolling. New York: Knopf, 2005.
+
+*The Amish.* Kraybill, Donald B., Karen M. Johnson-Weiner, and Steven M. Nolt. The Amish. Baltimore: Johns Hopkins University Press, 2013.
+
+*Jonestown.* Moore, Rebecca. Understanding Jonestown and Peoples Temple. Westport, CT: Praeger, 2009.
+
+**1914–1918: Home by Christmas — The First World War**
+
+*How the war began.* Clark, Christopher. The Sleepwalkers: How Europe Went to War in 1914. London: Allen Lane, 2012.
+
+*The war as a whole.* Strachan, Hew. The First World War. New York: Viking, 2004.
+
+*The first day on the Somme.* Middlebrook, Martin. The First Day on the Somme. London: Allen Lane, 1971.
+
+*The Christmas truce, from soldiers’ letters.* Weintraub, Stanley. Silent Night: The Story of the World War I Christmas Truce. New York: Free Press, 2001.
+
+*Influenza deaths, the higher estimate.* Johnson, Niall P. A. S., and Juergen Mueller. “Updating the Accounts: Global Mortality of the 1918–1920 ‘Spanish’ Influenza Pandemic.” Bulletin of the History of Medicine 76 (2002): 105–15.
+
+*Influenza deaths, the lower estimate.* Spreeuwenberg, Peter, et al. “Reassessing the Global Mortality Burden of the 1918 Influenza Pandemic.” American Journal of Epidemiology 187 (2018): 2561–67.
+
+*Keynes on Versailles.* Keynes, John Maynard. The Economic Consequences of the Peace. London: Macmillan, 1919.
+
+**The Twentieth Century: Genius and Catastrophe — Great Countries, Terrible Decades**
+
+*How the Nazis took power.* Evans, Richard J. The Coming of the Third Reich. London: Allen Lane, 2003.
+
+*The Holocaust.* Hilberg, Raul. The Destruction of the European Jews. 3rd ed. New Haven: Yale University Press, 2003.
+
+*Cambodia under the Khmer Rouge.* Kiernan, Ben. The Pol Pot Regime. New Haven: Yale University Press, 1996.
+
+*How democracies are dismantled.* Levitsky, Steven, and Daniel Ziblatt. How Democracies Die. New York: Crown, 2018.
+
+*Germany’s reckoning with its past.* Neiman, Susan. Learning from the Germans: Race and the Memory of Evil. New York: Farrar, Straus and Giroux, 2019.
+
+**1853–1947: Japan, Restoration, and Empire**
+
+*Meiji to empire.* Jansen, Marius B. The Making of Modern Japan. Cambridge, MA: Harvard University Press, 2000.
+
+*Nanjing: the evidence and the death-toll debate.* Fogel, Joshua A., ed. The Nanjing Massacre in History and Historiography. Berkeley: University of California Press, 2000.
+
+*The kamikaze pilots and their letters.* Ohnuki-Tierney, Emiko. Kamikaze, Cherry Blossoms, and Nationalisms. Chicago: University of Chicago Press, 2002.
+
+*Occupation and the 1947 constitution.* Dower, John W. Embracing Defeat: Japan in the Wake of World War II. New York: Norton, 1999.
+
+**1861–1946: Italy, Rome's Heir and the Fascist Detour**
+
+*Italy from unification.* Duggan, Christopher. The Force of Destiny: A History of Italy since 1796. London: Allen Lane, 2007.
+
+*The regime, Matteotti, and the trains.* Bosworth, R. J. B. Mussolini’s Italy: Life under the Dictatorship, 1915–1945. London: Allen Lane, 2005.
+
+*Italy’s abandoned purge.* Domenico, Roy Palmer. Italian Fascists on Trial, 1943–1948. Chapel Hill: University of North Carolina Press, 1991.
+
+**Medieval Córdoba to 1981: Spain, Convivencia and the General**
+
+*Convivencia, the admiring account.* Menocal, María Rosa. The Ornament of the World. Boston: Little, Brown, 2002.
+
+*Convivencia, the skeptical account.* Fernández-Morera, Darío. The Myth of the Andalusian Paradise. Wilmington, DE: ISI Books, 2016.
+
+*Maimonides and the Almohad exile.* Kraemer, Joel L. Maimonides: The Life and World of One of Civilization’s Greatest Minds. New York: Doubleday, 2008.
+
+*Civil-war repression.* Preston, Paul. The Spanish Holocaust. London: HarperPress, 2012.
+
+*The pact of forgetting.* Aguilar, Paloma. Memory and Amnesia: The Role of the Spanish Civil War in the Transition to Democracy. New York: Berghahn, 2002.
+
+**1917–1991: The Soviet Union, Ideals and Iron**
+
+*Famine and collectivization: the archival numbers.* Davies, R. W., and Stephen G. Wheatcroft. The Years of Hunger: Soviet Agriculture, 1931–1933. Basingstoke: Palgrave Macmillan, 2004.
+
+*The Holodomor.* Applebaum, Anne. Red Famine: Stalin’s War on Ukraine. New York: Doubleday, 2017.
+
+*The Gulag.* Applebaum, Anne. Gulag: A History. New York: Doubleday, 2003.
+
+*Katyn.* Sanford, George. Katyn and the Soviet Massacre of 1940. London: Routledge, 2005.
+
+*Chernobyl and the delayed evacuation.* Plokhy, Serhii. Chernobyl: The History of a Nuclear Catastrophe. New York: Basic Books, 2018.
+
+**1949 to Today: China, the Long Memory and the Great Leap**
+
+*The Great Leap famine.* Dikötter, Frank. Mao’s Great Famine. London: Bloomsbury, 2010.
+
+*The famine, from inside China’s archives.* Yang Jisheng. Tombstone: The Great Chinese Famine, 1958–1962. New York: Farrar, Straus and Giroux, 2012.
+
+*The Cultural Revolution.* MacFarquhar, Roderick, and Michael Schoenhals. Mao’s Last Revolution. Cambridge, MA: Belknap Press of Harvard University Press, 2006.
+
+*Plastic entering the ocean (2010 data).* Jambeck, Jenna R., et al. “Plastic Waste Inputs from Land into the Ocean.” Science 347 (2015): 768–71.
+
+*River plastic, a later estimate with a different ranking.* Meijer, Lourens J. J., et al. “More than 1000 Rivers Account for 80% of Global Riverine Plastic Emissions into the Ocean.” Science Advances 7 (2021): eaaz5803.
+
+**The 13th Century BCE to 1948 CE: The People Who Kept Their Story — A Complete History of the Jews**
+
+*The long history.* Schama, Simon. The Story of the Jews. 2 vols. London: Bodley Head, 2013 and 2017.
+
+*Archaeology and the biblical narratives.* Finkelstein, Israel, and Neil Asher Silberman. The Bible Unearthed. New York: Free Press, 2001.
+
+*The Dead Sea Scrolls.* VanderKam, James C. The Dead Sea Scrolls Today. 2nd ed. Grand Rapids: Eerdmans, 2010.
+
+*Masada and its single source.* Magness, Jodi. Masada: From Jewish Revolt to Modern Myth. Princeton: Princeton University Press, 2019.
+
+*The 1948 refugees.* Morris, Benny. The Birth of the Palestinian Refugee Problem Revisited. Cambridge: Cambridge University Press, 2004.
+
+**1945–1991: Cold War — Two Powers, One Planet**
+
+*The Cold War as a whole.* Gaddis, John Lewis. The Cold War: A New History. New York: Penguin, 2005.
+
+*Submarine B-59 and Arkhipov.* Savranskaya, Svetlana V. “New Sources on the Role of Soviet Submarines in the Cuban Missile Crisis.” Journal of Strategic Studies 28 (2005): 233–59.
+
+*Petrov and the 1983 false alarm.* Hoffman, David E. The Dead Hand. New York: Doubleday, 2009.
+
+*The bomb.* Rhodes, Richard. The Making of the Atomic Bomb. New York: Simon & Schuster, 1986.
+
+*The people of Bikini.* Niedenthal, Jack. For the Good of Mankind: A History of the People of Bikini and Their Islands. 2nd ed. Majuro: Bravo Publishers, 2001.
+
+**1957 to 2026: Leaving the Cradle — Space Travel, the Moon, Mars, and (Maybe) the Galaxy**
+
+*Artemis II record distance and splashdown.* NASA. “NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth.” News release, April 10, 2026 (updated May 7, 2026). https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/
+
+*Apollo.* Chaikin, Andrew. A Man on the Moon. New York: Viking, 1994.
+
+*The Soviet program.* Siddiqi, Asif A. Challenge to Apollo: The Soviet Union and the Space Race, 1945–1974. Washington, DC: NASA History Division, 2000 (NASA SP-2000-4408).
+
+**1905 Onward: The Physics That Finally Made Sense to Someone**
+
+*Relativity in GPS.* Ashby, Neil. “Relativity in the Global Positioning System.” Living Reviews in Relativity 6 (2003): 1.
+
+*The 1919 eclipse expeditions (Príncipe and Sobral).* Dyson, F. W., A. S. Eddington, and C. Davidson. “A Determination of the Deflection of Light by the Sun’s Gravitational Field.” Philosophical Transactions of the Royal Society A 220 (1920): 291–333.
+
+*How dolphin sonar works.* Au, Whitlow W. L. The Sonar of Dolphins. New York: Springer, 1993.
+
+*The holographic principle.* Susskind, Leonard. “The World as a Hologram.” Journal of Mathematical Physics 36 (1995): 6377–96.
+
+**The 1940s to the 1970s: Decolonization — The World Redraws Itself**
+
+*The East India Company.* Dalrymple, William. The Anarchy: The Relentless Rise of the East India Company. London: Bloomsbury, 2019.
+
+*Long-run shares of world output.* Maddison, Angus. The World Economy: A Millennial Perspective. Paris: OECD, 2001.
+
+*Famine as a failure of entitlement, Bengal 1943.* Sen, Amartya. Poverty and Famines: An Essay on Entitlement and Deprivation. Oxford: Clarendon Press, 1981.
+
+*Partition.* Khan, Yasmin. The Great Partition: The Making of India and Pakistan. New Haven: Yale University Press, 2007.
+
+*Kenya and the detention camps.* Elkins, Caroline. Imperial Reckoning: The Untold Story of Britain’s Gulag in Kenya. New York: Henry Holt, 2005.
+
+*Decolonization as a whole.* Jansen, Jan C., and Jürgen Osterhammel. Decolonization: A Short History. Princeton: Princeton University Press, 2017.
+
+**1893 to 1994: Civil Rights and Liberation — Humanity Argues With Itself**
+
+*The movement, 1954–63.* Branch, Taylor. Parting the Waters: America in the King Years, 1954–63. New York: Simon & Schuster, 1988.
+
+*Claudette Colvin.* Hoose, Phillip. Claudette Colvin: Twice toward Justice. New York: Farrar, Straus and Giroux, 2009.
+
+*Emmett Till.* Tyson, Timothy B. The Blood of Emmett Till. New York: Simon & Schuster, 2017.
+
+*Mandela.* Mandela, Nelson. Long Walk to Freedom. Boston: Little, Brown, 1994.
+
+*Stonewall.* Carter, David. Stonewall: The Riots That Sparked the Gay Revolution. New York: St. Martin’s Press, 2004.
+
+**1843 to 2007: The Digital Leap — Computers, Networks, and a Connected World**
+
+*Turing’s 1936 paper.* Turing, A. M. “On Computable Numbers, with an Application to the Entscheidungsproblem.” Proceedings of the London Mathematical Society, s2-42 (1937): 230–65.
+
+*Colossus and Bletchley Park.* Copeland, B. Jack, ed. Colossus: The Secrets of Bletchley Park’s Codebreaking Computers. Oxford: Oxford University Press, 2006.
+
+*From Lovelace to the web.* Isaacson, Walter. The Innovators. New York: Simon & Schuster, 2014.
+
+*False news spreads faster than true.* Vosoughi, Soroush, Deb Roy, and Sinan Aral. “The Spread of True and False News Online.” Science 359 (2018): 1146–51.
+
+**The Thirteenth B'ak'tun, 2012: The World Was Supposed to End in 2012 (It Didn't)**
+
+*What the Maya calendar actually said.* Stuart, David. The Order of Days: The Maya World and the Truth about 2012. New York: Harmony Books, 2011.
+
+*The 2012 phenomenon.* Aveni, Anthony. The End of Time: The Maya Mystery of 2012. Boulder: University Press of Colorado, 2009.
+
+**1950 to the 2020s: Something Might Be Watching (Probably Not What You Think)**
+
+*‘Oumuamua’s discovery.* Meech, Karen J., et al. “A Brief Visit from a Red and Extremely Elongated Interstellar Asteroid.” Nature 552 (2017): 378–81.
+
+*Its acceleration.* Micheli, Marco, et al. “Non-gravitational Acceleration in the Trajectory of 1I/2017 U1 (‘Oumuamua).” Nature 559 (2018): 223–26.
+
+*The case for a natural origin.* ‘Oumuamua ISSI Team. “The Natural History of ‘Oumuamua.” Nature Astronomy 3 (2019): 594–602.
+
+*The Arecibo message.* Staff at the National Astronomy and Ionosphere Center. “The Arecibo Message of November, 1974.” Icarus 26 (1975): 462–66.
+
+*The Pentagon’s review of UAP claims.* All-domain Anomaly Resolution Office (AARO). Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena, Volume I. U.S. Department of Defense, 2024.
+
+**1796 to Today: Medicine and Its Cost — How Humans Learned to Heal**
+
+*Life expectancy since 1800.* Riley, James C. “Estimates of Regional and Global Life Expectancy, 1800–2001.” Population and Development Review 31 (2005): 537–43.
+
+*Insulin and the one-dollar patent.* Bliss, Michael. The Discovery of Insulin. Chicago: University of Chicago Press, 1982.
+
+*The Tuskegee study.* Reverby, Susan M. Examining Tuskegee: The Infamous Syphilis Study and Its Legacy. Chapel Hill: University of North Carolina Press, 2009.
+
+*The opioid crisis.* Keefe, Patrick Radden. Empire of Pain: The Secret History of the Sackler Dynasty. New York: Doubleday, 2021.
+
+*Deaths from antimicrobial resistance.* Antimicrobial Resistance Collaborators. “Global Burden of Bacterial Antimicrobial Resistance in 2019: A Systematic Analysis.” The Lancet 399 (2022): 629–55.
+
+*Dolphins do get sick: cetacean morbillivirus.* Van Bressem, Marie-Françoise, et al. “Cetacean Morbillivirus: Current Knowledge and Future Directions.” Viruses 6 (2014): 5145–81.
+
+**1896 to Today: Climate and Consequence — The Price of Progress**
+
+*Arrhenius’s 1896 calculation.* Arrhenius, Svante. “On the Influence of Carbonic Acid in the Air upon the Temperature of the Ground.” Philosophical Magazine 41 (1896): 237–76.
+
+*The 2021 heat dome.* Philip, Sjoukje Y., et al. “Rapid Attribution Analysis of the Extraordinary Heat Wave on the Pacific Coast of the US and Canada in June 2021.” Earth System Dynamics 13 (2022): 1689–1713.
+
+*Exxon’s own projections.* Supran, G., S. Rahmstorf, and N. Oreskes. “Assessing ExxonMobil’s Global Warming Projections.” Science 379 (2023): eabk0063.
+
+*The Anthropocene vote.* Witze, Alexandra. “Geologists Reject the Anthropocene as Earth’s New Epoch — After 15 Years of Debate.” Nature 627 (2024): 249–50.
+
+*The physical science.* IPCC. Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report. Cambridge: Cambridge University Press, 2021.
+
+**1991 to Today: A Fractured Present — Democracy, Authoritarianism, and the Information Age**
+
+*Annual decline in global freedom.* Freedom House. Freedom in the World 2025. Washington, DC, 2025.
+
+*COVID-19 outcomes and trust.* COVID-19 National Preparedness Collaborators. “Pandemic Preparedness and COVID-19: An Exploratory Analysis of Infection and Fatality Rates, and Contextual Factors Associated with Preparedness in 177 Countries.” The Lancet 399 (2022): 1489–1512.
+
+*Excess mortality.* Msemburi, William, et al. “The WHO Estimates of Excess Mortality Associated with the COVID-19 Pandemic.” Nature 613 (2023): 130–37.
+
+**1804 to 2022: Half the World, All the Time — The Timelines This Book Almost Skipped**
+
+*Population milestones and projections.* United Nations, Department of Economic and Social Affairs, Population Division. World Population Prospects 2024. New York, 2024.
+
+**Epilogue: After Homo Sapiens — Superhumans and Androids**
+
+*CRISPR.* Jinek, Martin, et al. “A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity.” Science 337 (2012): 816–21.
+
+*The sheep–goat chimera.* Fehilly, Carole B., S. M. Willadsen, and Elizabeth M. Tucker. “Interspecific Chimaerism between Sheep and Goat.” Nature 307 (1984): 634–36.
+
+**A Timeline — For Humans Who Like Their History in Order**
+
+*The next glacial inception pushed back.* Ganopolski, A., R. Winkelmann, and H. J. Schellnhuber. “Critical Insolation–CO2 Relation for Diagnosing Past and Future Glacial Inception.” Nature 529 (2016): 200–03.
+
+**What the Physics Is For — An Appendix on Uses and the One Theory Not Yet Found**
+
+*Hawking radiation.* Hawking, S. W. “Black Hole Explosions?” Nature 248 (1974): 30–31.
+
+*Gravitational waves.* LIGO Scientific Collaboration and Virgo Collaboration. “Observation of Gravitational Waves from a Binary Black Hole Merger.” Physical Review Letters 116 (2016): 061102.
+
+*The Higgs boson.* ATLAS Collaboration. “Observation of a New Particle in the Search for the Standard Model Higgs Boson with the ATLAS Detector at the LHC.” Physics Letters B 716 (2012): 1–29.
+
+*Fusion ignition at the National Ignition Facility.* Abu-Shawareb, H., et al. (Indirect Drive ICF Collaboration). “Achievement of Target Gain Larger than Unity in an Inertial Fusion Experiment.” Physical Review Letters 132 (2024): 065102.
 
 ## Further Reading — For Humans
 

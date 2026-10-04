@@ -1,0 +1,370 @@
+TITLE: Special Relativity
+TAGLINE: Lorentz transformations, the invariant interval, relativistic energy and momentum, and natural units
+NUM: 3
+NEXT: Lesson 4 develops the four-vector formalism: index notation, the metric tensor, upper and lower indices, Lorentz transformations as matrices, and the invariant scalar products that make relativistic equations compact and manifestly covariant.
+
+# How to use this lesson
+
+Quantum electrodynamics is a relativistic theory. Its central equations are built to look the same to every inertial observer, its particles carry energy and momentum related by E² − |p|² = m², and its calculations are done in units where the speed of light and the reduced Planck constant equal one. This lesson supplies those three things: the transformation rules of special relativity, the relativistic mechanics of energy and momentum, and the system of natural units used for the rest of the course.
+
+The presentation uses one space dimension wherever possible, because every essential idea appears there. The four-vector notation that makes the theory elegant is deferred to Lesson 4; here the goal is physical understanding and numerical fluency. Expect six to ten focused hours, and keep a calculator at hand, because the exercises ask for numbers.
+
+BOX: Plain-language start
+Two observers moving past each other disagree about lengths and times, but agree about the speed of light. Everything in this lesson follows from taking that fact seriously. If you have only school algebra, read Sections 1–2 slowly with the worked examples; the rest builds on them.
+ENDBOX
+
+## Learning objectives
+
+- State the two postulates of special relativity and explain why they are incompatible with Galilean transformations.
+
+- Derive time dilation and length contraction and apply them to particle lifetimes.
+
+- Derive the Lorentz transformation in one space dimension and use it to add velocities.
+
+- Compute the invariant interval, classify pairs of events, and relate proper time to coordinate time.
+
+- Use rapidity to compose boosts.
+
+- Define relativistic momentum and energy and derive the invariant E² − |p|²c² = m²c⁴.
+
+- Work in natural units with ℏ = c = 1 and convert results back to laboratory units.
+
+- Compute invariant masses and two-body decay kinematics.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| c | Speed of light, 2.998 × 10⁸ m/s, set to 1 from Section 6 onward |
+| β | Velocity in units of c, β = v/c |
+| γ | Lorentz factor 1/√(1 − β²) |
+| S, S′ | Inertial frames; S′ moves with velocity v along the x axis of S |
+| τ | Proper time, measured by a clock carried with the object |
+| s² | Invariant interval c²Δt² − Δx² − Δy² − Δz² |
+| φ | Rapidity, tanh φ = β |
+| E, p, m | Energy, momentum, and rest mass |
+| ℏ | Reduced Planck constant, 6.582 × 10⁻²² MeV s, set to 1 from Section 6 |
+
+BOX: First pass: the result before the derivation
+Space and time intervals depend on the observer, but the interval s² = (ct)² − x² − y² − z² does not. Moving clocks run slow by γ = 1/√(1 − v²/c²) and moving rods shrink by the same factor.
+The invariant interval is the seed of every Lorentz-invariant quantity in QED, from p² = m² to the Mandelstam variables.
+ENDBOX
+
+# 1 The two postulates
+
+## 1.1 The principle of relativity
+
+The laws of physics take the same form in every inertial frame. No experiment performed inside a closed laboratory can determine whether the laboratory is at rest or moving uniformly. Newtonian mechanics already satisfies this principle under Galilean transformations, x′ = x − vt and t′ = t, because accelerations are unchanged by a constant velocity shift.
+
+## 1.2 The constancy of the speed of light
+
+The speed of light in vacuum is the same in every inertial frame, independent of the motion of the source. This postulate comes from electromagnetism: the Maxwell equations (Lesson 7) predict waves traveling at c = 1/√(μ₀ε₀) with no reference to a preferred frame, and experiments confirm that the prediction holds for moving sources and moving observers alike.
+
+## 1.3 Why the Galilean transformation fails
+
+Under x′ = x − vt, a light pulse with x = ct has x′ = (c − v)t, so its speed would be c − v in S′. The two postulates together therefore cannot be satisfied by Galilean transformations. Something in the transformation of time must give, and the rest of this lesson works out exactly what.
+
+# 2 Time dilation and length contraction
+
+## 2.1 The light clock
+
+Consider a clock in which a light pulse bounces between two mirrors separated by a distance L perpendicular to the direction of motion. In the rest frame of the clock, one round trip takes the proper time Δτ = 2L/c. Viewed from a frame in which the clock moves at speed v, the pulse travels along two slanted legs of length √(L² + (vΔt/2)²) each, at the same speed c, taking a longer time Δt.
+
+$$ cΔt = 2√(L² + (vΔt/2)²)  ⇒  Δt = Δτ / √(1 − v²/c²) = γΔτ
+
+A moving clock runs slow by the factor γ. The effect is symmetric: each observer sees the other's clocks run slow, and there is no contradiction because the two observers compare different pairs of events.
+
+### Worked example 1
+
+Muons produced in the upper atmosphere have a proper lifetime τ = 2.20 μs. At speed 0.98c, γ = 1/√(1 − 0.9604) = 5.03, so the laboratory lifetime is 11.1 μs and the mean distance traveled is 0.98 × (3.00 × 10⁸ m/s) × 11.1 μs ≈ 3.3 km. Without time dilation the distance would be 0.65 km and few muons would reach the ground. In the muon's own frame the explanation is different: its lifetime is 2.20 μs, but the atmosphere is contracted by the factor γ.
+
+## 2.2 Length contraction
+
+Let a rod of proper length L₀ be at rest in S′ and move at speed v through S. An observer in S measures its length by timing how long the rod takes to pass a fixed point: L = vΔt, where Δt is a proper time in S because both events occur at the same place. In S′ the point moves past the whole rod in time L₀/v, and this is the dilated time, L₀/v = γΔt. Combining,
+
+$$ L = L₀/γ
+
+Lengths along the direction of motion are contracted; lengths perpendicular to the motion are unchanged, as the light-clock argument assumed.
+
+## 2.3 Relativity of simultaneity
+
+Two events at different places that are simultaneous in one frame are not simultaneous in another. This is the deepest of the three effects, and it is what removes the apparent paradoxes: statements such as "the moving clock is slow" always compare one clock with two synchronized clocks, and different frames disagree about which clocks are synchronized. The Lorentz transformation of the next section makes the effect quantitative.
+
+# 3 The Lorentz transformation
+
+## 3.1 Derivation
+
+Let S′ move at velocity v along the x axis of S, with origins coinciding at t = t′ = 0. The transformation must be linear, so that uniform motion maps to uniform motion. The origin of S′ is the line x = vt, so x′ must be proportional to x − vt; by the principle of relativity the inverse has the same form with v → −v and the same coefficient γ.
+
+$$ x′ = γ(x − vt),    x = γ(x′ + vt′)
+
+Now impose the second postulate. A light pulse leaving the common origin satisfies x = ct and x′ = ct′. Substituting, ct′ = γt(c − v) and ct = γt′(c + v). Multiplying the two equations and canceling tt′ gives c² = γ²(c² − v²), hence
+
+$$ γ = 1/√(1 − v²/c²)
+
+Finally solve the second relation for t′ and eliminate x′ using the first. The identity 1/γ² − 1 = −v²/c² gives the transformation of time.
+
+$$ t′ = γ(t − vx/c²),    x′ = γ(x − vt),    y′ = y,    z′ = z
+
+The term −vx/c² is the relativity of simultaneity: events with the same t but different x acquire different t′.
+
+## 3.2 The inverse transformation and the low-speed limit
+
+The inverse is obtained by replacing v with −v: t = γ(t′ + vx′/c²) and x = γ(x′ + vt′). For v ≪ c the factor γ tends to one and the transformation reduces to the Galilean form, provided also that vx/c² is small compared with t. Newtonian physics is the limit of small speeds and, less obviously, of small distances compared with c times the relevant time.
+
+## 3.3 Velocity addition
+
+Let a particle move with velocity u = dx/dt in S. Differentiating the transformation, dx′ = γ(dx − v dt) and dt′ = γ(dt − v dx/c²). Dividing,
+
+$$ u′ = (u − v) / (1 − uv/c²)
+
+If u = c then u′ = (c − v)/(1 − v/c) = c: the speed of light is the same in both frames, as required. Two speeds below c always combine to a speed below c.
+
+### Worked example 2
+
+A spacecraft moves at 0.6c relative to Earth and launches a probe forward at 0.6c relative to itself. In the formula with S′ the Earth frame, v = −0.6c and u = 0.6c, so the probe's speed relative to Earth is (0.6 + 0.6)c/(1 + 0.36) = 0.882c, not 1.2c.
+
+# 4 The invariant interval
+
+## 4.1 Invariance
+
+Compute the combination c²t′² − x′² using the Lorentz transformation with β = v/c.
+
+$$ c²t′² − x′² = γ²[(ct − βx)² − (x − βct)²] = γ²(1 − β²)(c²t² − x²) = c²t² − x²
+
+The quantity s² = c²Δt² − Δx² − Δy² − Δz² between two events is the same in every inertial frame. It plays the role that distance plays in Euclidean geometry, with one crucial difference: the minus signs. Every relativistic invariant met later in the course, including E² − |p|²c² and the scalar products of four-vectors, is an instance of this structure.
+
+## 4.2 Timelike, spacelike, and lightlike separations
+
+@widths 2160 2880 4752
+| Interval | Name | Physical meaning |
+| s² > 0 | Timelike | A signal slower than light can connect the events; there is a frame in which they occur at the same place; their time order is absolute |
+| s² = 0 | Lightlike | Only light can connect the events |
+| s² < 0 | Spacelike | No signal can connect them; there is a frame in which they are simultaneous; their time order depends on the frame |
+
+Causality in relativity is the statement that influences propagate only along timelike or lightlike separations. In quantum field theory this becomes the requirement that field operators at spacelike separation commute or anticommute (Lesson 37), and it is one of the structural reasons antiparticles must exist (Lesson 23).
+
+## 4.3 Proper time
+
+Along the worldline of a moving object, consecutive events are timelike separated. The proper time between them is the interval divided by c.
+
+$$ dτ² = dt² − dx²/c²  ⇒  dτ = dt/γ
+
+Proper time is what a clock carried with the object measures. It is an invariant, so every observer agrees on how much a moving clock has advanced, even though they disagree on how much coordinate time has passed. Time dilation, Δt = γΔτ, is this relation read backward.
+
+## 4.4 Rapidity
+
+Because γ² − γ²β² = 1, one may write γ = cosh φ and γβ = sinh φ, so that β = tanh φ. The Lorentz transformation then takes the form of a hyperbolic rotation.
+
+$$ ct′ = ct cosh φ − x sinh φ,    x′ = x cosh φ − ct sinh φ
+
+The parameter φ is the rapidity. Two successive boosts along the same axis compose by adding rapidities, φ = φ₁ + φ₂, and the identity tanh(φ₁ + φ₂) = (tanh φ₁ + tanh φ₂)/(1 + tanh φ₁ tanh φ₂) is exactly the velocity addition formula. Rapidity is the natural variable in collider physics and in the treatment of Lorentz transformations as a group (Lesson 4).
+
+### Worked example 3
+
+Two events have coordinates (ct, x) = (0, 0) and (5 m, 3 m) in S. The interval is s² = 25 − 9 = 16 m², timelike. A frame moving at β = x/(ct) = 0.6 brings the events to the same place, and in it the elapsed time is √16 m/c = 4 m/c = 1.33 × 10⁻⁸ s, the proper time. Check with the transformation: γ = 1.25, ct′ = 1.25(5 − 0.6 × 3) = 4 m and x′ = 1.25(3 − 0.6 × 5) = 0.
+
+# 5 Relativistic momentum and energy
+
+## 5.1 Momentum
+
+Newtonian momentum mv is not conserved in collisions when velocities transform by the relativistic rule. The quantity that is conserved replaces the coordinate time in v = dx/dt by proper time.
+
+$$ p = m dx/dτ = γmv
+
+For small v this reduces to mv. As v → c the momentum grows without bound, which is why no massive particle can be accelerated to the speed of light.
+
+## 5.2 Energy
+
+The work-energy argument, or the requirement that energy and momentum transform together, leads to
+
+$$ E = γmc²,    T = E − mc² = (γ − 1)mc²
+
+The total energy E includes the rest energy mc², which is present even for a particle at rest, and the kinetic energy T. Expanding γ for small velocity, as in Worked example 5 of Lesson 2, gives T = mv²/2 + 3mv⁴/(8c²) + ⋯, so the Newtonian kinetic energy is the leading term.
+
+## 5.3 The energy-momentum invariant
+
+Squaring the definitions and using γ²(1 − β²) = 1,
+
+$$ E² − |p|²c² = γ²m²c⁴(1 − β²) = m²c⁴
+
+The combination E² − |p|²c² has the same form as c²t² − x², and it is invariant for the same reason: energy and momentum transform under boosts exactly as ct and x do (Lesson 4). Its value identifies the particle. Two further relations follow directly from the definitions and are used constantly.
+
+$$ v/c = pc/E,    γ = E/mc²
+
+## 5.4 Massless particles
+
+Setting m = 0 in the invariant gives E = |p|c, and then v/c = pc/E = 1: a massless particle always moves at the speed of light and has no rest frame. Its energy is not fixed by its mass but by its frequency, E = ℏω, so a photon of any energy travels at c. Photons, the quanta of the electromagnetic field, are the massless particles of QED, and the relation E = |p|c is the dispersion relation ω = c|k| of Lesson 2 in disguise.
+
+### Worked example 4
+
+An electron (mc² = 0.511 MeV) has kinetic energy 1.000 MeV. Its total energy is E = 1.511 MeV, so γ = E/mc² = 2.957 and β = √(1 − 1/γ²) = 0.941. The momentum follows from the invariant: pc = √(E² − m²c⁴) = √(2.283 − 0.261) MeV = 1.422 MeV. The Newtonian formula p = √(2mT) would give pc = 1.011 MeV, an error of nearly 30 percent. Electrons in QED experiments are almost always relativistic, and the correct formula is not optional.
+
+# 6 Natural units
+
+## 6.1 Setting ℏ = c = 1
+
+From this point onward the course uses units in which c = 1 and ℏ = 1. The speed of light disappears from every formula: E² − |p|² = m², E = γm, p = γmv, and velocities are pure numbers between 0 and 1. Setting ℏ = 1 identifies energy with frequency and momentum with wave number, so E = ω and p = k. Every physical quantity is then a power of energy.
+
+@widths 3264 3264 3264
+| Quantity | Natural-unit dimension | Typical unit |
+| Energy, mass, momentum, frequency | [energy] | MeV or GeV |
+| Length, time | [energy]⁻¹ | MeV⁻¹ or fm |
+| Velocity, angle, action, charge | dimensionless | pure number |
+| Cross section | [energy]⁻² | GeV⁻² or barn |
+| Field φ in four dimensions | [energy] | see Lesson 26 |
+
+## 6.2 Conversion factors
+
+Two numbers convert any natural-unit result to laboratory units.
+
+$$ ℏc = 197.327 MeV fm,    ℏ = 6.582 × 10⁻²² MeV s
+
+A length of 1 MeV⁻¹ is 197.3 fm, and a time of 1 MeV⁻¹ is 6.58 × 10⁻²² s. A cross section of 1 GeV⁻² is 0.3894 mb, where 1 barn = 10⁻²⁸ m². To restore units in a formula, insert powers of ℏ and c until the dimensions are correct; there is always exactly one way to do so.
+
+## 6.3 The fine structure constant
+
+In natural units the electric charge is dimensionless, and the strength of electromagnetism is measured by
+
+$$ α = e²/(4π) ≈ 1/137.036
+
+with e² written in Heaviside–Lorentz units, which absorb the factor 4πε₀. The smallness of α is the reason QED can be treated by perturbation theory (Lesson 44). The same constant is e²/(4πε₀ℏc) in SI units, which shows that α is a pure number in any system of units.
+
+### Worked example 5
+
+The Compton wavelength of the electron is 1/m in natural units. Restoring units, ℏ/(mc) = 197.3 MeV fm / 0.511 MeV = 386 fm. The classical electron radius is α/m = 386 fm/137.04 = 2.82 fm, and the Bohr radius is 1/(αm) = 386 fm × 137.04 = 5.29 × 10⁴ fm = 0.529 Å. Three length scales of atomic physics differ by successive factors of α, which is why α organizes the hierarchy of corrections in the hydrogen atom (Lesson 77).
+
+# 7 Transformation of energy and momentum
+
+## 7.1 The boost formulas
+
+Energy and momentum transform under a boost along x exactly like t and x, with c = 1.
+
+$$ E′ = γ(E − v pₓ),    pₓ′ = γ(pₓ − v E),    pᵧ′ = pᵧ,    p_z′ = p_z
+
+The proof is outlined in Lesson 4; for now it can be checked in the case of a particle at rest in S′, where the formulas reproduce E = γm and pₓ = γmv. The invariance of E² − |p|² under these formulas is verified in the same way as the interval.
+
+## 7.2 The relativistic Doppler effect
+
+A photon moving in the +x direction has E = pₓ. For an observer receding along +x at speed v, the boost formula gives E′ = γ(1 − v)E, and since γ(1 − v) = √((1 − v)/(1 + v)),
+
+$$ ω′ = ω √((1 − v)/(1 + v))
+
+The observed frequency is lowered for a receding observer and raised for an approaching one (v → −v). The formula is exact, contains the transverse effect through γ, and is a special case of the Lorentz transformation of the photon's four-momentum (Lesson 4).
+
+# 8 Invariant mass and two-body decays
+
+## 8.1 Invariant mass of a system
+
+For a collection of particles with total energy E and total momentum p, the invariant mass is defined through
+
+$$ s = M² = E² − |p|²
+
+It is the same in every frame and equals the energy available in the center-of-momentum frame, where p = 0. For two colliding beams of equal energy E meeting head-on, √s = 2E; for a beam of energy E striking a target of mass m at rest, s = m₁² + m² + 2Em, which grows only as the square root of the beam energy. This is why colliders reach far higher effective energies than fixed-target machines.
+
+## 8.2 Two-body decay at rest
+
+A particle of mass M at rest decays into particles of masses m₁ and m₂. Conservation gives E₁ + E₂ = M and p₁ = −p₂, so |p₁| = |p₂| = p. Writing E₂² = M² − 2ME₁ + E₁² and using E₂² = p² + m₂² together with p² = E₁² − m₁²,
+
+$$ E₁ = (M² + m₁² − m₂²)/(2M),    p = √(E₁² − m₁²)
+
+Both decay products carry fixed energies; a two-body decay produces a line spectrum. A three-body decay produces a continuous spectrum, which is how the neutrino was inferred from beta decay. Decay rates are computed in Lesson 60, and this kinematics supplies the phase space.
+
+### Worked example 6
+
+The neutral pion (M = 135.0 MeV) decays into two photons. With m₁ = m₂ = 0, each photon has E = M/2 = 67.5 MeV in the pion rest frame. If the pion moves with γ = 10 along x and one photon is emitted forward, the Doppler formula of Section 7.2 with v → −v, or the boost formula directly, gives E′ = γ(1 + v)E = 10 × 1.995 × 67.5 MeV = 1.35 GeV, while the backward photon has E′ = γ(1 − v)E = 10 × 0.005 × 67.5 MeV = 3.4 MeV.
+
+# 9 Connections to QED
+
+@widths 3264 6528
+| Relativistic idea | Later role in QED |
+| Principle of relativity | Field equations and the Lagrangian must be Lorentz invariant (Lessons 4, 20, 26) |
+| Invariant interval | Scalar products of four-vectors and the light cone structure of propagators |
+| Causality of spacelike separations | Commutation and anticommutation relations of fields at equal times; necessity of antiparticles |
+| E² − \|p\|² = m² | Klein–Gordon operator, on-shell external particles, and the poles of propagators |
+| Massless particles with E = \|p\| | Photons, gauge invariance, and the two physical polarization states |
+| Natural units and α = e²/4π | Expansion parameter of every perturbative calculation |
+| Boost of energy and momentum | Transformation of amplitudes and cross sections between laboratory and center-of-momentum frames |
+| Invariant mass | Mandelstam variable s, resonances, and collider kinematics |
+| Two-body decay kinematics | Phase space in decay rates and cross sections (Lessons 59, 60) |
+
+The Schrödinger equation is built on E = |p|²/2m and cannot be Lorentz invariant. Quantum electrodynamics begins with the question of what replaces it when E² = |p|² + m² is imposed instead. Every answer, from the Klein–Gordon equation through the Dirac equation to the quantized field, is shaped by the invariants introduced in this lesson.
+
+# 10 Summary
+
+1. The two postulates, the relativity principle and the constancy of c, are incompatible with Galilean transformations and force the mixing of space and time.
+
+2. Moving clocks run slow by γ, moving rods are contracted by γ, and simultaneity depends on the frame.
+
+3. The Lorentz transformation is linear, reduces to the Galilean form at low speed, and composes velocities so that c is never exceeded.
+
+4. The interval c²Δt² − Δx² is invariant; its sign classifies event pairs and defines causal structure.
+
+5. Proper time is the invariant time along a worldline, and rapidity turns boosts into hyperbolic rotations that add.
+
+6. Relativistic momentum and energy are p = γmv and E = γmc², with the invariant E² − |p|²c² = m²c⁴.
+
+7. Massless particles move at c with E = |p|c; photons are the example that matters for QED.
+
+8. In natural units ℏ = c = 1, every quantity is a power of energy, and α = e²/4π ≈ 1/137 measures the strength of electromagnetism.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | **Core.** Compute γ for β = 0.6, 0.8, and 0.99. |
+| 2 | **Core.** A charged pion has proper lifetime 26.0 ns and moves with γ = 10. Find its laboratory lifetime, its speed, and the mean distance it travels before decaying. |
+| 3 | **Extension.** A rod of proper length 2.00 m moves lengthwise at 0.8c. What length is measured in the laboratory? What length does an observer on the rod assign to a 2.00 m laboratory rod? |
+| 4 | **Extension.** Show that the Lorentz transformation reduces to the Galilean transformation when v ≪ c and vx/c² ≪ t. Give an example where v ≪ c but the second condition fails. |
+| 5 | **Extension.** Combine two collinear velocities of 0.7c. Show algebraically that if u = c then u′ = c for any v. |
+| 6 | **Core.** Two events are simultaneous in S and separated by Δx = 1.00 km. Find their time separation in a frame moving at 0.6c along x, including its sign. |
+| 7 | **Core.** Verify algebraically that c²t′² − x′² = c²t² − x² under the Lorentz transformation. |
+| 8 | **Extension.** Classify the separations between (ct, x) = (0, 0) and each of (3 m, 4 m), (5 m, 3 m), and (2 m, 2 m). For the timelike pair, find the frame speed in which the events coincide in space and the proper time between them. |
+| 9 | **Extension.** Find the rapidity of β = 0.6, and use rapidity addition to compose two such boosts. Compare with Worked example 2. |
+| 10 | **Core.** A proton (mc² = 938.3 MeV) has γ = 3. Find its kinetic energy, momentum, and speed. |
+| 11 | **Extension.** Starting from E = γmc² and p = γmv, prove E² − p²c² = m²c⁴ and v/c = pc/E. |
+| 12 | **Core.** A photon has energy 1.00 eV. Find its momentum in eV/c and its wavelength in nanometers, and show that pc²/E = c. |
+| 13 | **Core.** Express 1 GeV⁻¹ in meters and in seconds. Express a cross section of 1 GeV⁻² in millibarns. |
+| 14 | **Core.** A source emits light of frequency f. Find the observed frequency when the observer recedes at 0.6c and when the observer approaches at 0.6c. |
+| 15 | **Extension.** Compare the invariant mass available when a 10.0 GeV electron collides head-on with a 10.0 GeV positron and when it strikes a positron at rest. |
+| 16 | **Challenge.** Derive the two-body decay formula of Section 8.2 and apply it to π⁺ → μ⁺ν with M = 139.57 MeV, m_μ = 105.66 MeV, and m_ν ≈ 0. Find the muon energy and momentum. |
+
+# Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
+
+**1.** γ = 1.25, 5/3 ≈ 1.667, and 7.09.
+
+**2.** The laboratory lifetime is 10 × 26.0 ns = 260 ns. The speed is β = √(1 − 1/100) = 0.995. The mean distance is 0.995 × (3.00 × 10⁸ m/s) × 260 ns ≈ 77.6 m.
+
+**3.** With γ = 5/3, the laboratory measures 2.00 m × 3/5 = 1.20 m. By symmetry, the observer on the rod measures the laboratory rod as 1.20 m as well; each frame sees the other's lengths contracted.
+
+**4.** As v/c → 0, γ → 1, so x′ → x − vt. The time formula becomes t′ = t − vx/c², which reduces to t′ = t only if vx/c² ≪ t. For v = 1 m/s and t = 1 s, the condition fails when x is comparable to c²/v ≈ 10¹⁷ m: for events far apart, even slow frames disagree noticeably about simultaneity.
+
+**5.** (0.7 + 0.7)c/(1 + 0.49) = 0.940c. With u = c, u′ = (c − v)/(1 − v/c) = c(c − v)/(c − v) = c.
+
+**6.** Δt′ = γ(Δt − vΔx/c²) = −1.25 × 0.6 × 1000 m/(3.00 × 10⁸ m/s) = −2.5 μs. The event at larger x occurs earlier in the moving frame.
+
+**7.** c²t′² − x′² = γ²[(ct − βx)² − (x − βct)²] = γ²[c²t²(1 − β²) − x²(1 − β²)] = c²t² − x², since the cross terms 2βctx cancel and γ²(1 − β²) = 1.
+
+**8.** (3, 4): s² = 9 − 16 = −7 m², spacelike. (5, 3): s² = 16 m², timelike. (2, 2): s² = 0, lightlike. For the timelike pair, β = 3/5 = 0.6 brings the events together, and the proper time is 4 m/c = 1.33 × 10⁻⁸ s.
+
+**9.** φ = tanh⁻¹(0.6) = (1/2) ln(1.6/0.4) = (1/2) ln 4 = 0.693. Two boosts give φ = ln 4 = 1.386, and tanh(ln 4) = (4 − 1/4)/(4 + 1/4) = 15/17 = 0.882, in agreement with Worked example 2.
+
+**10.** T = (γ − 1)mc² = 2 × 938.3 MeV = 1876.6 MeV. pc = mc²√(γ² − 1) = 938.3 × √8 MeV = 2654 MeV. β = √8/3 = 0.943.
+
+**11.** E² − p²c² = γ²m²c⁴ − γ²m²v²c² = γ²m²c⁴(1 − v²/c²) = m²c⁴. Also pc/E = γmvc/(γmc²) = v/c.
+
+**12.** p = E/c = 1.00 eV/c. λ = hc/E = 1240 eV nm/1.00 eV = 1240 nm, in the near infrared. From v = pc²/E with E = pc, v = c.
+
+**13.** 1 GeV⁻¹ = ℏc/(1 GeV) = 0.1973 fm = 1.973 × 10⁻¹⁶ m, and 1 GeV⁻¹ = ℏ/(1 GeV) = 6.58 × 10⁻²⁵ s. 1 GeV⁻² = (1.973 × 10⁻¹⁶ m)² = 3.89 × 10⁻³² m² = 0.389 mb.
+
+**14.** Receding: f √(0.4/1.6) = f/2. Approaching: f √(1.6/0.4) = 2f.
+
+**15.** Head-on: √s = 2E = 20.0 GeV. Fixed target: s = 2m² + 2Em ≈ 2 × 10.0 GeV × 0.000511 GeV = 0.01022 GeV², so √s = 0.101 GeV = 101 MeV. The collider provides about two hundred times more energy for creating new particles.
+
+**16.** From E₂ = M − E₁ and E₂² = p² + m₂² = E₁² − m₁² + m₂², expand (M − E₁)² = M² − 2ME₁ + E₁² and cancel E₁² to get 2ME₁ = M² + m₁² − m₂². For the pion, E_μ = (139.57² + 105.66²)/(2 × 139.57) MeV = 30644/279.14 MeV = 109.78 MeV, and p = √(109.78² − 105.66²) MeV = √887.6 MeV = 29.79 MeV. The muon kinetic energy is only 4.12 MeV; most of the released energy goes to the neutrino.
+
+# Mastery check
+
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

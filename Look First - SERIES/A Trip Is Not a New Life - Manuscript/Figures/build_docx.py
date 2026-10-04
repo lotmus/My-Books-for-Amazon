@@ -9,6 +9,7 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
 from docx.enum.table import WD_TABLE_ALIGNMENT
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
+from docx.opc.constants import RELATIONSHIP_TYPE as RT
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.dirname(HERE)
@@ -41,7 +42,13 @@ CH_ANCHORS = {}
 NOTE_ANCHORS = {}
 NOTE_LINK = re.compile(
     r"Appendix\s+A(\d+)|[Ss]ee\s+A(\d+)|\(A(\d+)\)|(?<!Book 1 )Chapter\s+(\d+)"
+    r"|\[\^([\w-]+)\]|(?<![\w.])Figure\s+(\d+[a-z]?)\b(?!\.\s)"
 )
+MARKER = re.compile(r"\[\^([\w-]+)\]")
+NOTE_TEXT = {}
+NOTE_NUM = {}
+REF_PLACED = set()
+FIG_ANCHORS = {}
 
 
 def font(name, size):
@@ -404,11 +411,14 @@ def parse_all():
         ["00_Front_Matter.md"]
         + sorted(os.path.basename(f) for f in glob.glob(os.path.join(SRC, "0[1-9]_*.md")) + glob.glob(os.path.join(SRC, "10_*.md")))
         + ["11_Appendix.md"]
+        + [f for f in ("12_Notes.md", "13_Also_By.md") if os.path.isfile(os.path.join(SRC, f))]
     )
     blocks = []
     for fname in files:
         front = fname.startswith("00_")
         in_appendix = fname.startswith("11_")
+        in_notes = fname.startswith("12_")
+        in_also = fname.startswith("13_")
         lines = open(os.path.join(SRC, fname), encoding="utf-8").read().splitlines()
         i = 0
         while i < len(lines):
@@ -431,8 +441,17 @@ def parse_all():
             if line.startswith("---"):
                 i += 1
                 continue
+            mnote = re.match(r"^\[\^([\w-]+)\]:\s*(.+)$", line) if in_notes else None
+            if mnote:
+                blocks.append(("note", mnote.group(1), mnote.group(2).strip()))
+                i += 1
+                continue
+            if in_also and not line.startswith("# "):
+                blocks.append(("plain", line.strip()))
+                i += 1
+                continue
             if line.startswith("# "):
-                kind = "appendix" if in_appendix else "part"
+                kind = "appendix" if in_appendix else ("notes" if in_notes else "part")
                 blocks.append(("h1", line[2:].strip(), kind, new_anchor()))
                 i += 1
                 continue
@@ -482,7 +501,7 @@ def parse_all():
                 continue
             para = [line]
             i += 1
-            while i < len(lines) and lines[i].strip() and not re.match(r"^(#|!\[|Figure\s+\d+\.\s|\||---|%%|A\d)", lines[i]) and lines[i].strip() not in APPENDIX_HEADS:
+            while para[-1].endswith("  ") and i < len(lines) and lines[i].strip() and not re.match(r"^(#|!\[|Figure\s+\d+\.\s|\||---|%%|A\d)", lines[i]) and lines[i].strip() not in APPENDIX_HEADS:
                 para.append(lines[i].rstrip("\n"))
                 i += 1
             blocks.append(("p", para))
@@ -573,11 +592,36 @@ def add_bookmark(par, name):
     par._p.append(end)
 
 
-def add_runs_linked(par, text, bold=False, italic=False, size=None):
+def add_runs_linked(par, text, bold=False, italic=False, size=None, table=False):
     pos = 0
     for m in NOTE_LINK.finditer(text):
         if m.start() > pos:
             add_runs(par, text[pos:m.start()], bold=bold, italic=italic, size=size)
+        if m.group(5) is not None:
+            key = m.group(5)
+            num = NOTE_NUM.get(key)
+            if num is None:
+                print("UNKNOWN NOTE KEY", key)
+            else:
+                if num not in REF_PLACED:
+                    REF_PLACED.add(num)
+                    add_bookmark(par, f"ref_{num}")
+                if table:
+                    if m.start() > 0 and text[m.start() - 1] not in " (":
+                        add_runs(par, " ", size=size)
+                    add_internal_link(par, f"Note {num}", f"note_{num}", size=size or 11)
+                else:
+                    add_internal_link(par, str(num), f"note_{num}", size=size or 11, sup=True)
+            pos = m.end()
+            continue
+        if m.group(6) is not None:
+            anchor = FIG_ANCHORS.get(m.group(6))
+            if anchor:
+                add_internal_link(par, m.group(0), anchor, bold=bold, size=size or 11)
+            else:
+                add_runs(par, m.group(0), bold=bold, italic=italic, size=size)
+            pos = m.end()
+            continue
         note = m.group(1) or m.group(2) or m.group(3)
         ch = m.group(4)
         anchor = None
@@ -596,7 +640,53 @@ def add_runs_linked(par, text, bold=False, italic=False, size=None):
         add_runs(par, text[pos:], bold=bold, italic=italic, size=size)
 
 
-def add_internal_link(par, text, anchor, bold=False, size=None):
+def _link_run(text, bold=False, size=None, sup=False):
+    r = OxmlElement("w:r")
+    rpr = OxmlElement("w:rPr")
+    rf = OxmlElement("w:rFonts")
+    for a in ("w:ascii", "w:hAnsi", "w:cs"):
+        rf.set(qn(a), BODY_FONT)
+    rpr.append(rf)
+    if bold:
+        rpr.append(OxmlElement("w:b"))
+    col = OxmlElement("w:color")
+    col.set(qn("w:val"), "0563C1")
+    rpr.append(col)
+    sz = OxmlElement("w:sz")
+    sz.set(qn("w:val"), str(int((size or 11) * 2)))
+    rpr.append(sz)
+    u = OxmlElement("w:u")
+    u.set(qn("w:val"), "single")
+    rpr.append(u)
+    if sup:
+        va = OxmlElement("w:vertAlign")
+        va.set(qn("w:val"), "superscript")
+        rpr.append(va)
+    r.append(rpr)
+    t = OxmlElement("w:t")
+    t.text = text
+    t.set(qn("xml:space"), "preserve")
+    r.append(t)
+    return r
+
+
+def add_external_link(par, url, text=None, size=None):
+    rid = par.part.relate_to(url, RT.HYPERLINK, is_external=True)
+    h = OxmlElement("w:hyperlink")
+    h.set(qn("r:id"), rid)
+    h.set(qn("w:history"), "1")
+    h.append(_link_run(text or url, size=size))
+    par._p.append(h)
+
+
+def add_internal_link(par, text, anchor, bold=False, size=None, sup=False):
+    if sup:
+        h = OxmlElement("w:hyperlink")
+        h.set(qn("w:anchor"), anchor)
+        h.set(qn("w:history"), "1")
+        h.append(_link_run(text, bold=bold, size=size, sup=True))
+        par._p.append(h)
+        return
     h = OxmlElement("w:hyperlink")
     h.set(qn("w:anchor"), anchor)
     h.set(qn("w:history"), "1")
@@ -732,6 +822,20 @@ def setup_styles(doc):
     t2.paragraph_format.first_line_indent = Inches(0)
     t2.paragraph_format.left_indent = Inches(0.25)
     t2.paragraph_format.space_after = Pt(1)
+    ne = mk("Note Entry")
+    set_style_font(ne, size=10)
+    ne.paragraph_format.first_line_indent = Inches(0)
+    ne.paragraph_format.space_after = Pt(5)
+    ix = mk("Index Entry")
+    set_style_font(ix, size=10.5)
+    ix.paragraph_format.first_line_indent = Inches(-0.25)
+    ix.paragraph_format.left_indent = Inches(0.25)
+    ix.paragraph_format.space_after = Pt(3)
+    rh = mk("Run-in Head")
+    rh.paragraph_format.first_line_indent = Inches(0)
+    rh.paragraph_format.space_before = Pt(10)
+    rh.paragraph_format.space_after = Pt(2)
+    rh.paragraph_format.keep_with_next = True
     li = mk("List Item")
     li.paragraph_format.first_line_indent = Inches(-0.2)
     li.paragraph_format.left_indent = Inches(0.4)
@@ -750,6 +854,7 @@ def add_figure(doc, n, caption):
     p.paragraph_format.space_before = Pt(8)
     p.paragraph_format.keep_with_next = True
     shape = p.add_run().add_picture(stream, width=Inches(4.5))
+    add_bookmark(p, f"fig_{n}")
     alt = f"Figure {n}. {caption}"[:120]
     shape._inline.docPr.set("descr", alt)
     shape._inline.docPr.set("title", f"Figure {n}")
@@ -775,7 +880,13 @@ def add_table(doc, rows):
             par = cell.paragraphs[0]
             par.paragraph_format.first_line_indent = Inches(0)
             par.paragraph_format.line_spacing = 1.0
-            add_runs_linked(par, row[ci] if ci < len(row) else "", bold=(ri == 0), size=9)
+            add_runs_linked(par, row[ci] if ci < len(row) else "", bold=(ri == 0), size=9 if ncol < 6 else 8.5, table=True)
+    if ncol >= 5:
+        tr = t.rows[0]._tr
+        trpr = tr.get_or_add_trPr()
+        th = OxmlElement("w:tblHeader")
+        th.set(qn("w:val"), "true")
+        trpr.append(th)
     doc.add_paragraph(style="No Indent")
 
 
@@ -789,9 +900,123 @@ def heading_anchor(block):
     return None
 
 
+INDEX_TERMS = [
+    ("Access and delivery (who gets the fix)", r"zip code|\bwho pays\b|\baccess\b"),
+    ("Alzheimer’s antibody drugs", r"lecanemab|donanemab"),
+    ("Artemis program", r"Artemis"),
+    ("Artemis Accords and the Outer Space Treaty", r"Artemis Accords|Outer Space Treaty"),
+    ("Basil and the pH log", r"\bbasil\b|pH log|logs the pH"),
+    ("Biosphere 2", r"Biosphere 2"),
+    ("Carrot (the seek loop with no off-switch)", r"\b[Cc]arrot\b"),
+    ("Claims Guide", r"Claims Guide"),
+    ("Clocks of aging (many clocks, not one fuse)", r"many clocks|epigenetic clock"),
+    ("Contested (fourth tag)", r"\b[Cc]ontested\b"),
+    ("Continuity view of personal identity", r"continuity view|psychological continuity|Parfit"),
+    ("Cut-cable test", r"[Cc]ut-cable"),
+    ("Expected value (long-range forecasts)", r"expected value"),
+    ("Gateway (lunar station)", r"\bGateway\b"),
+    ("Healthspan versus lifespan", r"healthspan"),
+    ("Helium (this book’s word for a cold claim sold as ready)", r"\bhelium\b"),
+    ("Hot, warm, cold (the three temperatures)", r"[Hh]ot, warm,? (and )?cold|three temperatures|temperature hygiene"),
+    ("Inequality as a clock", r"[Ii]nequality"),
+    ("ISRU (making supplies on site)", r"\bISRU\b"),
+    ("Kessler cascade", r"Kessler"),
+    ("Light-time and delay", r"[Ll]ight-time"),
+    ("Local fix (this gene, this tissue, this bill)", r"[Ll]ocal fix"),
+    ("Mara’s habitat", r"\bMara\b"),
+    ("MOXIE (oxygen from Mars air)", r"MOXIE"),
+    ("Naked mole-rat", r"mole-rat"),
+    ("Negligible senescence", r"[Nn]egligible senescence"),
+    ("Plasticity", r"[Pp]lasticity"),
+    ("Priya’s clinic", r"\bPriya\b"),
+    ("Proper time and worldlines", r"[Pp]roper time|worldline"),
+    ("Reprogramming (partial, cellular)", r"[Rr]eprogramming"),
+    ("Rohan", r"\bRohan\b"),
+    ("S-curves", r"S-curve"),
+    ("Seven loops (air, water, food, power, medicine, spares, law)", r"seven (loops|rows)|seven-loop|seven-row"),
+    ("Sickle-cell gene edits", r"[Ss]ickle-cell"),
+    ("Sortie, outpost, settlement", r"[Ss]ortie"),
+    ("Technology readiness levels", r"readiness level|\bTRL\b"),
+    ("Ten-percent brain myth", r"ten-percent|10% brain"),
+    ("Time dilation (moving and low clocks)", r"atomic clocks|Hafele|muons?\b|time dilation"),
+    ("Torpor and hibernation", r"[Tt]orpor|hibernat"),
+    ("Trials and their phases", r"Phase [123]\b|\btrials?\b"),
+    ("Uploading and copies of a mind", r"\bupload"),
+]
+
+
+def block_texts(b):
+    if b[0] == "p":
+        return [" ".join(b[1])]
+    if b[0] in ("list",):
+        return list(b[1])
+    if b[0] == "table":
+        return [c for r in b[1] for c in r]
+    if b[0] == "fig":
+        return [b[2]]
+    return []
+
+
+def build_index(blocks):
+    entries = []
+    sections = []
+    cur = None
+    for b in blocks:
+        if b[0] == "h1" and b[2] in ("notes", "gen"):
+            break
+        if b[0] == "h1" and b[2] == "front":
+            cur = (plain_text(b[1]), b[3])
+        elif b[0] == "h1" and b[2] == "part":
+            cur = (plain_text(b[1]).split(":")[0], b[3])
+        elif b[0] == "h2" and b[2] == "chapter":
+            cur = (f"Ch {b[3]}", b[4])
+        elif b[0] == "h2":
+            m = re.match(r"(A\d+)", b[1])
+            cur = (m.group(1) if m else plain_text(b[1]), b[3])
+        elif cur:
+            sections.append((cur, " ".join(block_texts(b))))
+    for term, rx in INDEX_TERMS:
+        r = re.compile(rx)
+        locs = []
+        for sec, txt in sections:
+            if sec not in locs and r.search(txt):
+                locs.append(sec)
+        if locs:
+            entries.append((term, locs[:10]))
+    return entries
+
+
 def build():
     draw_missing()
     blocks = parse_all()
+    gen = [("h1", "List of Figures", "gen", "figlist"), ("genfigs",),
+           ("h1", "Index of Key Concepts", "gen", "index"), ("genindex",)]
+    pos = next((k for k, b in enumerate(blocks) if b[0] == "h1" and b[1].startswith("Also by")), len(blocks))
+    blocks[pos:pos] = gen
+    NOTE_TEXT.clear(); NOTE_NUM.clear(); REF_PLACED.clear(); FIG_ANCHORS.clear()
+    fig_list = []
+    for b in blocks:
+        if b[0] == "note":
+            NOTE_TEXT[b[1]] = b[2]
+        elif b[0] == "fig":
+            FIG_ANCHORS[str(b[1])] = f"fig_{b[1]}"
+            fig_list.append((str(b[1]), b[2]))
+        elif b[0] == "p":
+            m = re.match(r"^Figure\s+(\d+[a-z])\.\s+(.+)$", b[1][0].strip())
+            if m:
+                FIG_ANCHORS[m.group(1)] = f"fig_{m.group(1)}"
+                fig_list.append((m.group(1), m.group(2)))
+    for tables in (False, True):
+        for b in blocks:
+            if (b[0] == "table") != tables:
+                continue
+            for txt in block_texts(b):
+                for k in MARKER.findall(txt):
+                    if k not in NOTE_NUM:
+                        NOTE_NUM[k] = len(NOTE_NUM) + 1
+    print("NOTES used", len(NOTE_NUM), "unknown", [k for k in NOTE_NUM if k not in NOTE_TEXT],
+          "unused", [k for k in NOTE_TEXT if k not in NOTE_NUM])
+    index_entries = build_index(blocks)
     chapters = [b for b in blocks if b[0] == "h2" and b[2] == "chapter"]
     figs = [b[1] for b in blocks if b[0] == "fig"]
     missing_ch = [b[3] for b in chapters if b[3] not in figs]
@@ -830,8 +1055,60 @@ def build():
     ):
         doc.add_paragraph(line, style="Copyright")
     prev = "start"
-    for b in blocks:
+    notes_done = False
+    for bi, b in enumerate(blocks):
         kind = b[0]
+        if kind == "note":
+            if notes_done:
+                continue
+            notes_done = True
+            for key, num in sorted(NOTE_NUM.items(), key=lambda kv: kv[1]):
+                txt = NOTE_TEXT.get(key)
+                if txt is None:
+                    continue
+                p = doc.add_paragraph(style="Note Entry")
+                add_bookmark(p, f"note_{num}")
+                lead = p.add_run(f"{num}. ")
+                lead.bold = True
+                lead.font.name = BODY_FONT
+                q = 0
+                for um in re.finditer(r"https?://\S+", txt):
+                    if um.start() > q:
+                        add_runs(p, txt[q:um.start()], size=10)
+                    add_external_link(p, um.group(0), size=10)
+                    q = um.end()
+                if q < len(txt):
+                    add_runs(p, txt[q:], size=10)
+                p.add_run(" ")
+                add_internal_link(p, "Back to text", f"ref_{num}", size=10)
+            prev = "note"
+            continue
+        if kind == "plain":
+            p = doc.add_paragraph(style="No Indent")
+            add_runs(p, b[1])
+            prev = "plain"
+            continue
+        if kind == "genfigs":
+            for n, cap in fig_list:
+                p = doc.add_paragraph(style="TOC Chapter")
+                first = re.split(r"(?<=[.!?])\s", plain_text(MARKER.sub("", cap)), maxsplit=1)[0]
+                add_internal_link(p, f"Figure {n}. {first}", f"fig_{n}", size=10.5)
+            prev = "gen"
+            continue
+        if kind == "genindex":
+            p = doc.add_paragraph(style="No Indent")
+            add_runs(p, "Each entry links to the chapters (Ch) and appendix notes (A) where the idea is developed; the first link is usually the place it is introduced.", italic=True, size=10)
+            for term, locs in index_entries:
+                p = doc.add_paragraph(style="Index Entry")
+                r = p.add_run(term + ": ")
+                r.bold = True
+                r.font.name = BODY_FONT
+                for j, (label, anchor) in enumerate(locs):
+                    if j:
+                        p.add_run(", ").font.name = BODY_FONT
+                    add_internal_link(p, label, anchor, size=10.5)
+            prev = "gen"
+            continue
         if kind in ("title", "titleline"):
             continue
         if kind == "toc":
@@ -894,6 +1171,31 @@ def build():
                 prev = "p"
                 continue
             text = " ".join(l.strip() for l in b[1])
+            mcap = re.match(r"^Figure\s+(\d+[a-z])\.\s+(.+)$", text)
+            if mcap:
+                c = doc.add_paragraph(style="Figure Caption")
+                c.paragraph_format.keep_with_next = True
+                add_bookmark(c, f"fig_{mcap.group(1)}")
+                lead = c.add_run(f"Figure {mcap.group(1)}. ")
+                lead.italic = False
+                lead.bold = True
+                lead.font.name = BODY_FONT
+                add_runs_linked(c, mcap.group(2))
+                prev = "fig"
+                continue
+            nxt = blocks[bi + 1] if bi + 1 < len(blocks) else None
+            is_head = (
+                len(b[1]) == 1 and len(text) <= 70 and re.search(r"[.:?]$", text)
+                and not re.search(r"[.!?]\s", text[:-1]) and not text.startswith(("(", "*", "Rule"))
+                and "[^" not in text and prev != "head"
+                and (text.endswith((":", "?")) or not re.search(r"\b(is|are|was|were|ended|does|do|did|has|have|had|can|will|would)\b", text))
+                and nxt is not None and nxt[0] == "p" and len(" ".join(nxt[1])) > 150
+            )
+            if is_head:
+                p = doc.add_paragraph(style="Run-in Head")
+                add_runs_linked(p, text, bold=True)
+                prev = "head"
+                continue
             if re.match(r"^\**\(\d+\)\**", text):
                 style = "Equation"
             elif text.startswith("**") or text.startswith("*(") or text.lower().startswith("*where") or text.lower().startswith("where "):

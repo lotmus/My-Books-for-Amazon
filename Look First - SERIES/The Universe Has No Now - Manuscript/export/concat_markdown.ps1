@@ -15,7 +15,8 @@ $files = @(
   "08_Part_Eight_Copies.md",
   "09_Part_Nine_Filter.md",
   "10_Part_Ten_Future.md",
-  "11_Appendix.md"
+  "11_Appendix.md",
+  "12_Notes_and_Sources.md"
 )
 
 $yaml = @"

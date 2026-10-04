@@ -6,7 +6,7 @@ The evidence, gathered across every chapter since, does not overturn the claim. 
 
 Fire and stone tools turned a clever ape into a fed, warmed, and organized one. Writing let that organization survive the death of everyone who built it. Farming, kingship, and bureaucracy turned organization into scale. None of these tools carried any built-in instruction about what they should be used for, and humans used every one of them for both extraordinary construction and extraordinary harm, frequently within the same generation, sometimes within the same decade.
 
-Sumer's first empire and Hammurabi's public law arrived alongside the first standing armies. Rome's roads and aqueducts arrived alongside the loss of a republic's own self-government. The steam engine and the Enlightenment's own reasoned case for human rights arrived within a century and a half of a European war that killed ten million people over a few hundred yards of mud.
+Sumer's first empire and Hammurabi's public law arrived alongside the first standing armies. Rome's roads and aqueducts arrived alongside the loss of a republic's own self-government. The steam engine and the Enlightenment's own reasoned case for human rights arrived within a century and a half of a European war that killed some ten million soldiers over a few hundred yards of mud.
 
 The six genius-and-catastrophe case studies, Germany, Japan, Italy, Spain, the Soviet Union, and China, made the pattern impossible to mistake for a defect in any one people or culture. Each nation brought a real and often ancient cultural inheritance to the twentieth century. Each one turned that inheritance's tools toward dictatorship and, in most cases, mass killing. Each one, on a different clock, ranging from Germany's twelve years and Italy's twenty-one to Spain's nearly four decades to the Soviet Union's close to seventy, eventually corrected course, or in China's case corrected only part of it.
 
@@ -15,6 +15,8 @@ The chapters since have shown the same pattern still running, just with better t
 *“We do not envy humans,” the Society recorded, “and we do not pity them either. Envy and pity both assume we would have made different choices with the same hands. We were never given the hands to find out.”*
 
 What dolphin scholarship can say, having watched the entire record rather than any single chapter of it, is this: capability has compounded in this species faster than in any other lineage this book, or the fossil record behind it, has ever recorded. Wisdom has arrived unevenly, late, and often only after the capability it was meant to guide had already been used once, badly, first.
+
+The reason is the one this book proposed at the start. Capability has a ratchet. Every tool, every technique, every written instruction is kept and built upon, so each generation starts where the last one stopped. Wisdom has no ratchet. It cannot be written down in a form that works on the next reader the way a formula does; each generation has to acquire it again, mostly the hard way.
 
 It has, to be fair, sometimes arrived on time, and dolphin historians keep a short list: a Christmas truce organized by soldiers who then had to be ordered to stop, a naval officer in a submarine who declined to vote for war, a watch officer who distrusted his own machine. Every entry on it is one person or a few, acting against expectation and occasionally against orders. It has never yet arrived in bulk.
 

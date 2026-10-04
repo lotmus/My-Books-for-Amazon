@@ -1,0 +1,268 @@
+TITLE: Fock Space
+TAGLINE: The Hilbert space of many particles, symmetric wave functions and completeness, operators on Fock space, normal ordering and Wick's theorem, and the physical meaning of the vacuum energy
+NUM: 35
+NEXT: Lesson 36 quantizes the Dirac field. The four steps of Lesson 32 are repeated, but with anticommutators in place of commutators, giving fermionic ladder operators, a Hamiltonian bounded below, and antiparticles as independent excitations.
+
+# How to use this lesson
+
+Lessons 33 and 34 gave the ladder operators of the free scalar field and the states built from them. This lesson assembles those states into a single Hilbert space, the Fock space, in which states with any number of particles coexist, and studies the operators that act on it. Three ideas matter for what follows. The first is the structure of the space itself and its relation to the symmetrized many-particle wave functions of Lesson 17. The second is normal ordering, and its generalization, Wick's theorem, which turns the expectation value of a product of free fields into a sum of products of two-point functions and is the source of the combinatorics of Feynman diagrams. The third is the physical status of the vacuum energy, which normal ordering discards and which nevertheless has an observable consequence, the Casimir effect.
+
+Expect seven to nine focused hours. The algebra is light, but the ideas of Sections 3 and 4 are used in almost every later lesson.
+
+## Learning objectives
+
+- Define the Fock space as a direct sum of symmetric n-particle spaces and relate its states to symmetrized momentum-space wave functions.
+
+- Compute the norm and inner products of two-particle states and write the completeness relation in the Fock space.
+
+- Write one-body operators, including the number, energy, and momentum operators, in terms of ladder operators.
+
+- Define normal ordering and show that it removes the zero-point energy without changing energy differences.
+
+- Split the field into positive- and negative-frequency parts, and derive φ(x)φ(y) = :φ(x)φ(y): + D(x − y).
+
+- Derive the vacuum expectation value of four free fields as a sum over pairings.
+
+- Explain the Casimir effect as an observable consequence of differences of zero-point energy and estimate its size.
+
+- Describe the Fock space for several species of particles as a tensor product.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| ℱ = ⊕ₙ ℋₙ | Fock space, the direct sum of the n-particle spaces |
+| \|p, q⟩ = √(2E_p 2E_q) a_p†a_q†\|0⟩ | Two-particle state with relativistic normalization |
+| :A: | Normal-ordered product, creation operators to the left of annihilation operators |
+| φ⁺, φ⁻ | Positive-frequency (annihilation) and negative-frequency (creation) parts of φ |
+| D_(ij) = D(x_i − x_j) | Two-point function ⟨0\|φ(x_i)φ(x_j)\|0⟩ |
+| ⟨φ_iφ_j⟩ | Contraction, the vacuum expectation value of φ(x_i)φ(x_j) |
+| E_Cas | Casimir energy |
+| N_a, N_b | Number operators for particles and antiparticles |
+
+# 1 The space of many particles
+
+## 1.1 A direct sum
+
+The states of Lesson 34 fall into sectors labeled by the number of quanta. The vacuum spans ℋ₀, the one-particle states span ℋ₁, the states with two quanta span ℋ₂, and so on. The Fock space is the direct sum of all these sectors.
+
+$$ ℱ = ℋ₀ ⊕ ℋ₁ ⊕ ℋ₂ ⊕ ⋯
+
+with ℋ₀ one dimensional, ℋ₁ the space of single-particle wave functions ψ̃(p), and ℋₙ the space of symmetric functions of n momenta. The symmetry is not an extra rule: it follows from the commutation [a_p†, a_q†] = 0, which makes a_p†a_q†|0⟩ = a_q†a_p†|0⟩. Lesson 17 imposed symmetry on the wave functions of identical bosons as a postulate, and here it is a consequence of the structure of the field. A state in ℱ can have components in several sectors, and a state with a definite number of particles lies in a single ℋₙ.
+
+The creation operators map one sector into the next, a†: ℋₙ → ℋₙ₊₁, and the annihilation operators map it back, a: ℋₙ → ℋₙ₋₁, with a|0⟩ = 0. The operators that change the particle number are therefore built directly into the space, which is the feature that single-particle quantum mechanics lacked.
+
+## 1.2 The n-particle states
+
+An n-particle state is specified by a symmetric momentum-space function ψ̃(p₁, …, pₙ).
+
+$$ |ψ⟩ = (1/√n!) ∫ Π_i d³p_i/(2π)³ ψ̃(p₁, …, pₙ) a_(p₁)†⋯a_(pₙ)†|0⟩
+
+The factor 1/√n! compensates for the n! equal contributions to the norm. The overlap ⟨0|a_(q₁)⋯a_(qₙ)a_(p₁)†⋯a_(pₙ)†|0⟩ is a sum over the n! permutations of products of delta functions, (2π)^(3n)Σ_σΠ_iδ³(q_i − p_(σ(i))), and for symmetric ψ̃ each permutation gives the same contribution, so
+
+$$ ⟨ψ|ψ⟩ = ∫ Π_i d³p_i/(2π)³ |ψ̃(p₁, …, pₙ)|²
+
+which is the norm of the wave function in momentum space, as expected for n identical bosons. The function ψ̃ is the same object as the symmetrized many-particle momentum-space wave function of Lesson 17 and Lesson 13.
+
+### Worked example 1
+
+Compute the inner product of two-particle states. With |p, q⟩ = √(2E_p2E_q)a_p†a_q†|0⟩,
+
+$$ ⟨p′, q′|p, q⟩ = 4E_pE_q (2π)⁶ [ δ³(p′ − p)δ³(q′ − q) + δ³(p′ − q)δ³(q′ − p) ]
+
+using ⟨0|a_(q′)a_(p′)a_p†a_q†|0⟩ = (2π)⁶[δ³(p′ − p)δ³(q′ − q) + δ³(p′ − q)δ³(q′ − p)] and setting the energy factors equal on the support of the delta functions. The two terms are the direct and exchange contributions, reflecting that the two identical particles can be assigned to the two momenta in two ways. The state |p, q⟩ is symmetric under p ↔ q, and the normalization is the product of the one-particle normalizations, symmetrized.
+
+## 1.3 Completeness
+
+The identity operator on the Fock space is the sum of the identities on the sectors.
+
+$$ 1 = |0⟩⟨0| + ∫ d³p/((2π)³ 2E_p) |p⟩⟨p| + (1/2!) ∫∫ d³p d³q/((2π)⁶ 2E_p 2E_q) |p, q⟩⟨p, q| + ⋯
+
+The factor 1/2! in the two-particle term compensates for the double counting of the two orderings of the identical momenta, and in general the n-particle term carries 1/n!. Acting on |r, s⟩, the two-particle term gives (1/2)(|r, s⟩ + |s, r⟩) = |r, s⟩ (Exercise 3). This completeness relation is the tool used in Part VII to insert intermediate states.
+
+# 2 Operators on Fock space
+
+## 2.1 One-body operators
+
+A one-body operator, one that acts on each particle separately, has the form
+
+$$ O = ∫ d³p d³q/(2π)⁶ o(p, q) a_p†a_q
+
+with o(p, q) the matrix element of the corresponding single-particle operator. The number operator has o(p, q) = (2π)³δ³(p − q), the Hamiltonian has o = E_p(2π)³δ³(p − q), and the momentum operator has o = p(2π)³δ³(p − q), all diagonal (Lesson 33 and Lesson 34). On a one-particle state, O a_k†|0⟩ = ∫d³p/(2π)³ o(p, k)a_p†|0⟩ (Exercise 4), so the operator reproduces the single-particle matrix elements, and on an n-particle state it acts as the sum of its action on each particle. These operators conserve the particle number.
+
+## 2.2 Number-changing operators
+
+Operators with unequal numbers of creation and annihilation operators change the particle number, as found in Lesson 34, Section 6.3. The field itself is such an operator, φ = φ⁺ + φ⁻, with φ⁻ creating a particle and φ⁺ annihilating one. A smeared field φ(f) = ∫d³x f(x)φ(x) is a well-defined operator on Fock space for a suitable function f, whereas the field at a point is not, since it has infinite vacuum fluctuations (Lesson 34, Exercise 15).
+
+## 2.3 Several species
+
+For several kinds of particles, each with its own ladder operators, the Fock space is the tensor product of the Fock spaces of the species. The complex scalar field has particles created by a_p† and antiparticles created by b_p†, and ℱ = ℱ_a ⊗ ℱ_b, with [a, b] = [a, b†] = 0 so that operators of different species commute. The states are labeled by two sets of occupation numbers. The state a_p†b_q†|0⟩, with one particle and one antiparticle, has charge Q₀(1 − 1) = 0, with Q₀ the charge carried by one particle, and both N_a and N_b are separately conserved in the free theory. The Fock space of QED will be a tensor product of the spaces of electrons, positrons, and photons (Lessons 36 and 38).
+
+# 3 Normal ordering
+
+## 3.1 Definition
+
+The normal-ordered product :A: of a product A of ladder operators is obtained by rearranging the factors so that all creation operators stand to the left of all annihilation operators, as if the operators commuted.
+
+$$ :a_pa_q†: = a_q†a_p,    :a_p†a_q: = a_p†a_q,    :a_pa_q: = a_pa_q
+
+Normal ordering does not add or subtract any operator except by reordering; it is a definition of a new operator, and it differs from the original product by c-number terms, since the commutators of ladder operators are numbers. The vacuum expectation value of a normal-ordered product of at least one operator vanishes, ⟨0|:A:|0⟩ = 0, because each term has either an annihilation operator standing on the right, where it acts on |0⟩, or a creation operator standing on the left, where it acts on ⟨0| (Exercise 5).
+
+## 3.2 The Hamiltonian
+
+The Hamiltonian of Lesson 33, Section 3.1, is defined as the normal-ordered form,
+
+$$ H = :∫ d³x [ (1/2)π² + (1/2)(∇φ)² + (1/2)m²φ² ]: = ∫ d³p/(2π)³ E_p a_p†a_p
+
+The discarded quantity is the infinite constant (1/2)∫d³p E_pδ³(0). The choice is justified because the constant is the same for every state, so that energy differences, the only quantities that enter transition rates, are unchanged (Lesson 33, Exercise 10). A constant added to the Hamiltonian has no effect on the dynamics: it multiplies every state by a common phase e^(−iEt), which cancels in every probability. The vacuum energy matters only if gravity is included, since gravity couples to the total energy, and this is the origin of the cosmological constant problem, which is beyond this course.
+
+### Worked example 2
+
+Normal order φ² for the free field. Writing φ = φ⁺ + φ⁻ with φ⁺ = ∫d³p/(2π)³(2E_p)^(−1/2)a_pe^(−ip·x) containing annihilation operators and φ⁻ = ∫d³p/(2π)³(2E_p)^(−1/2)a_p†e^(ip·x) containing creation operators, φ² = φ⁺φ⁺ + φ⁺φ⁻ + φ⁻φ⁺ + φ⁻φ⁻, and
+
+$$ :φ²: = φ⁺φ⁺ + 2φ⁻φ⁺ + φ⁻φ⁻
+
+The middle term φ⁺φ⁻ is reordered to φ⁻φ⁺, which differs from the original by the commutator [φ⁺, φ⁻] = D(0), the infinite vacuum expectation value ⟨0|φ²|0⟩ of Lesson 34, Exercise 15. So φ² = :φ²: + D(0), and the normal-ordered φ² has vanishing vacuum expectation value: it is the physically meaningful operator, with the divergent constant removed.
+
+# 4 Wick's theorem for free fields
+
+## 4.1 The two-point function
+
+Consider the product of two free fields at different points. Split each field into its positive- and negative-frequency parts as above. The only obstruction to normal ordering is the term φ⁺(x)φ⁻(y), with an annihilation operator on the left of a creation operator, and
+
+$$ [φ⁺(x), φ⁻(y)] = ∫∫ d³p d³q/(2π)⁶ (4E_pE_q)^(−1/2) [a_p, a_q†] e^(−ip·x + iq·y) = ∫ d³p/((2π)³2E_p) e^(−ip·(x−y)) = D(x − y)
+
+a number. Therefore φ⁺(x)φ⁻(y) = φ⁻(y)φ⁺(x) + D(x − y), and
+
+$$ φ(x)φ(y) = :φ(x)φ(y): + D(x − y)
+
+The number D(x − y) is the vacuum expectation value ⟨0|φ(x)φ(y)|0⟩, since the normal-ordered term vanishes in the vacuum. It is called the contraction of the two fields, written ⟨φ(x)φ(y)⟩ = D(x − y), and it is the amplitude for a particle to propagate from y to x (Lesson 32, Section 3.1).
+
+## 4.2 The four-point function
+
+Consider ⟨0|φ(x₁)φ(x₂)φ(x₃)φ(x₄)|0⟩. On the left only the annihilation part of φ(x₁) can contribute, since ⟨0|φ⁻ = 0, and on the right only the creation part of φ(x₄), since φ⁺|0⟩ = 0, so the quantity is ⟨0|φ⁺(x₁)φ(x₂)φ(x₃)φ⁻(x₄)|0⟩. Now move φ⁺(x₁) to the right through the other fields, using [φ⁺(x₁), φ(x_j)] = [φ⁺(x₁), φ⁻(x_j)] = D(x₁ − x_j), a number. Each commutation leaves a c-number times the remaining fields, and the term with φ⁺(x₁) standing at the far right vanishes because it annihilates the vacuum.
+
+$$ ⟨φ₁φ₂φ₃φ₄⟩ = D₁₂⟨φ₃φ₄⟩ + D₁₃⟨φ₂φ₄⟩ + D₁₄⟨φ₂φ₃⟩ = D₁₂D₃₄ + D₁₃D₂₄ + D₁₄D₂₃
+
+The vacuum expectation value of a product of four free fields is the sum over all the ways of pairing the fields, the product of the contractions of each pair, with the order within each pair the same as in the original product. This is Wick's theorem for the vacuum expectation value. The general form of the theorem states that a product of free fields equals the sum of all normal-ordered products with any number of pairs contracted, and, for 2n fields in the vacuum expectation value, it gives the sum over the (2n − 1)!! complete pairings.
+
+### Worked example 3
+
+Count the pairings of six fields. A pairing is a way of dividing six objects into three unordered pairs. The first field can pair with any of the other five, the next unpaired field with any of the remaining three, and the last two are paired, giving 5 × 3 × 1 = 15 = 5!! pairings. So ⟨φ₁⋯φ₆⟩ is a sum of 15 terms, each a product of three two-point functions. The rapid growth of the number of pairings is what the diagrams of Part VII organize.
+
+## 4.3 Coincident points
+
+Setting all the points equal in Section 4.2 gives ⟨0|φ(x)⁴|0⟩ = 3D(0)², which is infinite since D(0) diverges (Lesson 34, Exercise 15), while the normal-ordered product has ⟨0|:φ⁴:|0⟩ = 0. The relation between the two is φ⁴ = :φ⁴: + 6D(0):φ²: + 3D(0)², obtained by applying Wick's theorem with contractions at the same point (Exercise 9). In an interacting theory the divergent constants and factors of D(0) are what produce the loop diagrams of Part IX and the need for renormalization, and normal ordering of the interaction is the first and simplest device for removing some of them.
+
+# 5 The vacuum and its energy
+
+## 5.1 Properties of the vacuum
+
+The vacuum |0⟩ is the unique state annihilated by all a_p (Exercise 13), it has no momentum and no energy in the normal-ordered convention, and it is invariant under translations and Lorentz transformations. Its invariance under translations means that the two-point function depends only on the difference of the points: ⟨0|φ(x + a)φ(y + a)|0⟩ = ⟨0|φ(x)φ(y)|0⟩ (Exercise 14), and this is D(x − y). The vacuum is not empty in the sense that the field vanishes with certainty: ⟨0|φ(x)|0⟩ = 0, but ⟨0|φ(x)φ(y)|0⟩ = D(x − y) ≠ 0. The field fluctuates in the vacuum, with correlations that fall off like 1/(4π²r²) for a massless field (Lesson 32, Worked example 3).
+
+## 5.2 The Casimir effect
+
+The zero-point energy that normal ordering discards is not devoid of physical content, because it depends on the environment. Consider a quantized field between two parallel perfectly conducting plates separated by a distance a. The boundary conditions on the plates allow only the modes with wave number k_z = nπ/a perpendicular to the plates, so the zero-point energy Σ(1/2)ω_k of the modes between the plates differs from that of the same region in free space. The infinite parts cancel when the difference is taken with a smooth cutoff, and what remains is finite and negative. For the electromagnetic field with its two polarizations, the energy per unit area of the plates is
+
+$$ E_Cas/A = − π²ℏc/(720 a³),    F/A = − ∂(E_Cas/A)/∂a = − π²ℏc/(240 a⁴)
+
+an attractive force per unit area (the derivation, by subtracting the free-space energy with a regulator, is not given here). For a single scalar field with Dirichlet conditions the coefficients are half as large. The force is the difference of zero-point energies, exactly the quantity that normal ordering does not remove: the constant per unit volume is discarded, but its dependence on the geometry is not.
+
+### Worked example 4
+
+Estimate the Casimir force per unit area for a = 1 μm. With ℏc = 3.16 × 10⁻²⁶ J m, F/A = π²ℏc/(240a⁴) = (9.87/240)(3.16 × 10⁻²⁶ J m)/(10⁻⁶ m)⁴ = 0.0411 × 3.16 × 10⁻² J/m³ = 1.3 × 10⁻³ Pa, about a millipascal. Since F/A scales as a⁻⁴, at a = 100 nm the pressure is 10⁴ times larger, 13 Pa, and at a = 10 nm it reaches about 10⁵ Pa, atmospheric pressure. The force has been measured at the few percent level, which confirms that the zero-point fluctuations of the field, and hence the operator structure of the quantized field of Lesson 33, are physical.
+
+# 6 Connections to QED
+
+@widths 3264 6528
+| Fock space idea | Later role in QED |
+| ℱ = ⊕ℋₙ and number-changing operators | The state space of QED: electrons, positrons, and photons in any number (Lesson 51) |
+| Symmetric wave functions from [a†, a†] = 0 | Automatic bosonic symmetry for photons; the analogous antisymmetry for fermions in Lesson 37 |
+| Completeness relation with the factor 1/n! | Insertion of intermediate states between vertices, giving the phase-space integrals of cross sections (Lessons 59 and 60) |
+| Tensor product for several species | The Fock space ℱ_e ⊗ ℱ_ē ⊗ ℱ_γ of electron, positron, and photon |
+| Normal ordering | Definition of the interaction Hamiltonian and of the currents; cancellation of vacuum diagrams (Lesson 51) |
+| Wick's theorem and contractions D(x − y) | Feynman propagators as contractions; the rules for combining them into diagrams (Lessons 46 and 50) |
+| Coincident contractions D(0) | Tadpole and self-energy loops and the divergences of Part IX |
+| Vacuum fluctuations and correlations | Vacuum polarization: virtual pairs screening the charge (Lesson 63) |
+| Casimir effect | Observable consequence of vacuum energy; related to the Lamb shift as an effect of vacuum fluctuations (Lesson 77) |
+
+Wick's theorem is the statement that connects this lesson to Part VII. Every Feynman diagram is a way of drawing one term in the pairing expansion: the fields at vertices are contracted in pairs, and each contraction becomes a line. Learning to count pairings, as in Worked example 3, is learning the combinatorics of diagrams, and the two-point function D(x − y) is the propagator in its simplest form.
+
+# 7 Summary
+
+1. The Fock space is ℱ = ⊕ℋₙ, with ℋₙ the space of symmetric n-particle functions; symmetry follows from [a†, a†] = 0.
+
+2. An n-particle state ∫ψ̃ a†⋯a†|0⟩/√n! has norm ∫|ψ̃|², the norm of the symmetrized wave function.
+
+3. The completeness relation in the Fock space is a sum over sectors, with a factor 1/n! for n identical particles.
+
+4. One-body operators have the form ∫o(p, q)a_p†a_q and conserve particle number; operators with unequal numbers of a† and a change it.
+
+5. Normal ordering places creation operators to the left, removes the zero-point energy, and gives ⟨0|:A:|0⟩ = 0; energy differences are unaffected.
+
+6. The commutator [φ⁺(x), φ⁻(y)] = D(x − y) gives φ(x)φ(y) = :φ(x)φ(y): + D(x − y).
+
+7. The vacuum expectation value of 2n free fields is the sum over the (2n − 1)!! pairings of products of contractions D_(ij), Wick's theorem.
+
+8. The vacuum is unique, invariant, and correlated, and differences of zero-point energy are observable: the Casimir force per area is −π²ℏc/(240a⁴) for the electromagnetic field.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | **Extension.** Derive ⟨p′, q′\|p, q⟩ = 4E_pE_q(2π)⁶[δ³(p′ − p)δ³(q′ − q) + δ³(p′ − q)δ³(q′ − p)] for the two-particle states of Section 1.2. |
+| 2 | **Core.** For \|ψ⟩ = (1/√2)∫∫ d³pd³q/(2π)⁶ ψ̃(p, q)a_p†a_q†\|0⟩ with symmetric ψ̃, show that ⟨ψ\|ψ⟩ = ∫∫d³pd³q/(2π)⁶\|ψ̃\|². |
+| 3 | **Core.** Verify the two-particle term of the completeness relation by acting on \|r, s⟩ and using the result of Exercise 1. |
+| 4 | **Core.** Show that O = ∫∫d³pd³q/(2π)⁶ o(p, q)a_p†a_q satisfies O a_k†\|0⟩ = ∫d³p/(2π)³ o(p, k)a_p†\|0⟩, and identify o for the number operator. |
+| 5 | **Extension.** Show that ⟨0\|:A:\|0⟩ = 0 for any product A of at least one ladder operator, and compute :a_pa_q†:, :a_p†a_q:, and :a_p†a_qa_r†:. |
+| 6 | **Core.** Show that φ(x)φ(y) = :φ(x)φ(y): + D(x − y) by splitting each field into φ⁺ and φ⁻. |
+| 7 | **Core.** Show that [φ⁺(x), φ⁻(y)] = D(x − y) from the ladder commutator, and that [φ⁺(x), φ⁺(y)] = [φ⁻(x), φ⁻(y)] = 0. |
+| 8 | **Extension.** Derive ⟨0\|φ(x₁)φ(x₂)φ(x₃)φ(x₄)\|0⟩ = D₁₂D₃₄ + D₁₃D₂₄ + D₁₄D₂₃ by moving φ⁺(x₁) to the right. |
+| 9 | **Extension.** Set all four points equal in Exercise 8 to show ⟨0\|φ⁴\|0⟩ = 3D(0)² and explain why ⟨0\|:φ⁴:\|0⟩ = 0. |
+| 10 | **Core.** Compute the Casimir pressure π²ℏc/(240a⁴) for a = 1 μm and a = 100 nm, using ℏc = 3.16 × 10⁻²⁶ J m. |
+| 11 | **Extension.** Show by dimensional analysis that the Casimir energy per unit area scales as ℏc/a³ and that the force per area scales as ℏc/a⁴, and explain why the force is attractive if the energy is negative and grows in magnitude as a decreases. |
+| 12 | **Core.** Describe the Fock space of a complex scalar field, state the charge of the state a_p†b_q†\|0⟩ and of a_p†a_q†\|0⟩, and show that N_a and N_b commute. |
+| 13 | **Extension.** Show that a state annihilated by every a_k in a box is proportional to the vacuum. |
+| 14 | **Core.** Using e^(iP·a)\|0⟩ = \|0⟩ and φ(x + a) = e^(iP·a)φ(x)e^(−iP·a), show that ⟨0\|φ(x + a)φ(y + a)\|0⟩ = ⟨0\|φ(x)φ(y)\|0⟩. |
+| 15 | **Extension.** Explain what the equal-time massless value ⟨0\|φ(t, x)φ(t, y)\|0⟩ = 1/(4π²r²) says about the vacuum, and why it is not an operator equation. |
+| 16 | **Challenge.** Show that the number of states in Fock space with at most N_max quanta distributed among M modes is C(N_max + M, M), and evaluate it for M = 3, N_max = 2 by summing the sectors. |
+
+# Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
+
+**1.** With |p, q⟩ = √(2E_p2E_q)a_p†a_q†|0⟩ the bra is ⟨0|a_qa_p√(2E_p2E_q), so ⟨p′, q′|p, q⟩ = √(2E_p′2E_q′2E_p2E_q)⟨0|a_(q′)a_(p′)a_p†a_q†|0⟩. Using [a_p, a_q†] = (2π)³δ³ and a|0⟩ = 0, ⟨0|a_(q′)a_(p′)a_p†a_q†|0⟩ = (2π)⁶[δ³(p′ − p)δ³(q′ − q) + δ³(p′ − q)δ³(q′ − p)]. On the support of either product of delta functions the energies match, so the square root is 4E_pE_q, and the result follows.
+
+**2.** ⟨ψ|ψ⟩ = (1/2)∫∫∫∫ψ̃*(p′, q′)ψ̃(p, q)⟨0|a_(q′)a_(p′)a_p†a_q†|0⟩ over the measures. The overlap has two terms, each giving ∫∫|ψ̃|² once, the second after relabeling p ↔ q and using the symmetry ψ̃(p, q) = ψ̃(q, p). So ⟨ψ|ψ⟩ = (1/2)(2)∫∫d³pd³q/(2π)⁶|ψ̃|² = ∫∫|ψ̃|².
+
+**3.** Acting on |r, s⟩: (1/2)∫∫d³pd³q/((2π)⁶4E_pE_q)|p, q⟩⟨p, q|r, s⟩. With ⟨p, q|r, s⟩ = 4E_pE_q(2π)⁶[δ³(p − r)δ³(q − s) + δ³(p − s)δ³(q − r)] the integral gives (1/2)(|r, s⟩ + |s, r⟩). Since |s, r⟩ = |r, s⟩, this equals |r, s⟩, as required for the identity.
+
+**4.** a_qa_k†|0⟩ = [a_q, a_k†]|0⟩ = (2π)³δ³(q − k)|0⟩. So Oa_k†|0⟩ = ∫∫d³pd³q/(2π)⁶o(p, q)a_p†(2π)³δ³(q − k)|0⟩ = ∫d³p/(2π)³o(p, k)a_p†|0⟩. For the number operator, o(p, q) = (2π)³δ³(p − q), which gives Na_k†|0⟩ = a_k†|0⟩.
+
+**5.** Each term of :A: has the form (creation operators)(annihilation operators). If there is at least one annihilation operator, it stands at the right and gives a_p|0⟩ = 0. If there are none, there is at least one creation operator at the left, and ⟨0|a_p† = 0. So ⟨0|:A:|0⟩ = 0. Explicitly, :a_pa_q†: = a_q†a_p, :a_p†a_q: = a_p†a_q, and :a_p†a_qa_r†: = a_p†a_r†a_q.
+
+**6.** φ(x)φ(y) = φ⁺(x)φ⁺(y) + φ⁺(x)φ⁻(y) + φ⁻(x)φ⁺(y) + φ⁻(x)φ⁻(y). The normal-ordered product is :φ(x)φ(y): = φ⁺(x)φ⁺(y) + φ⁻(y)φ⁺(x) + φ⁻(x)φ⁺(y) + φ⁻(x)φ⁻(y). The difference is φ⁺(x)φ⁻(y) − φ⁻(y)φ⁺(x) = [φ⁺(x), φ⁻(y)] = D(x − y). Hence φ(x)φ(y) = :φ(x)φ(y): + D(x − y).
+
+**7.** [φ⁺(x), φ⁻(y)] = ∫∫d³pd³q/(2π)⁶(4E_pE_q)^(−1/2)[a_p, a_q†]e^(−ip·x+iq·y) = ∫d³p/((2π)³2E_p)e^(−ip·(x−y)) = D(x − y). The commutators [φ⁺, φ⁺] and [φ⁻, φ⁻] involve [a, a] = 0 and [a†, a†] = 0 and vanish.
+
+**8.** ⟨0|φ₁φ₂φ₃φ₄|0⟩ = ⟨0|φ₁⁺φ₂φ₃φ₄⁻|0⟩, since ⟨0|φ⁻ = 0 and φ⁺|0⟩ = 0. Moving φ₁⁺ to the right, φ₁⁺φ₂φ₃φ₄⁻ = [φ₁⁺, φ₂]φ₃φ₄⁻ + φ₂φ₁⁺φ₃φ₄⁻ = D₁₂φ₃φ₄⁻ + φ₂([φ₁⁺, φ₃]φ₄⁻ + φ₃φ₁⁺φ₄⁻) = D₁₂φ₃φ₄⁻ + D₁₃φ₂φ₄⁻ + φ₂φ₃(D₁₄ + φ₄⁻φ₁⁺). In the vacuum expectation value the term with φ₁⁺ at the right vanishes, and ⟨φ_iφ_j⟩ = D_ij, so the result is D₁₂D₃₄ + D₁₃D₂₄ + D₁₄D₂₃.
+
+**9.** With x₁ = x₂ = x₃ = x₄ = x, each D_ij = D(0), so the sum is 3D(0)². Since D(0) = ⟨0|φ²|0⟩ = ∫d³p/((2π)³2E_p) diverges, ⟨0|φ⁴|0⟩ is infinite. The normal-ordered product :φ⁴: has every annihilation operator to the right and every creation operator to the left, so ⟨0|:φ⁴:|0⟩ = 0 by Exercise 5.
+
+**10.** F/A = π²ℏc/(240a⁴). With π²/240 = 0.0411 and ℏc = 3.16 × 10⁻²⁶ J m, at a = 10⁻⁶ m: 0.0411 × 3.16 × 10⁻²⁶/10⁻²⁴ = 1.3 × 10⁻³ Pa. At a = 10⁻⁷ m: 0.0411 × 3.16 × 10⁻²⁶/10⁻²⁸ = 13 Pa.
+
+**11.** Energy per area has dimensions of energy over length squared. In natural units with ℏc, the only length scale is a, so E/A ∝ ℏc/a³ (energy ℏc/a divided by area a²). The force per area is −∂(E/A)/∂a ∝ ℏc/a⁴. With E/A negative and proportional to −1/a³, the energy is lower for smaller a, so the plates lower their energy by approaching, and the force is attractive.
+
+**12.** ℱ = ℱ_a ⊗ ℱ_b, states specified by occupation numbers of a and b quanta. With Q = Q₀(N_a − N_b), the state a_p†b_q†|0⟩ has charge Q₀(1 − 1) = 0, and a_p†a_q†|0⟩ has charge 2Q₀. Since [a, b] = [a, b†] = 0, the number operators N_a = ∫a†a and N_b = ∫b†b commute.
+
+**13.** Expand |ψ⟩ in the occupation number basis, |ψ⟩ = Σc_{n}|{n}⟩. Then a_k|ψ⟩ = Σc_{n}√(n_k)|{n} with n_k lowered by 1⟩. Different {n} with n_k ≥ 1 give different states, so a_k|ψ⟩ = 0 requires c_{n}√(n_k) = 0, that is c_{n} = 0 whenever n_k ≥ 1. Requiring this for every k leaves only the component with all n_k = 0, so |ψ⟩ = c|0⟩.
+
+**14.** Since P^μ|0⟩ = 0 in the normal-ordered convention, e^(iP·a)|0⟩ = |0⟩ and ⟨0|e^(−iP·a) = ⟨0|. Then ⟨0|φ(x + a)φ(y + a)|0⟩ = ⟨0|e^(iP·a)φ(x)e^(−iP·a)e^(iP·a)φ(y)e^(−iP·a)|0⟩ = ⟨0|φ(x)φ(y)|0⟩. This is why the two-point function depends only on x − y.
+
+**15.** The equal-time value 1/(4π²r²) is a correlation between the values of the field at two points a distance r apart in the vacuum: the vacuum is a state of the field in which the values at nearby points are correlated, falling as the inverse square of the distance. It is not an operator equation but the value of a vacuum expectation value, a number, obtained from the contraction of two operators.
+
+**16.** The number of states with exactly N quanta in M modes is C(N + M − 1, N). Summing over N = 0, …, N_max gives Σ_N C(N + M − 1, N) = C(N_max + M, M), by the hockey stick identity. For M = 3 and N_max = 2: 1 + 3 + 6 = 10 = C(5, 3) = 10.
+
+# Mastery check
+
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

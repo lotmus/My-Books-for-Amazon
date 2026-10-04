@@ -514,3 +514,33 @@ changed; hyperlinks (994) and bookmarks (589) unchanged; backup in
   1 mm³ of water holds about 3.3 × 10¹⁹ molecules; spacetime tested to about
   10⁻¹⁹ m against the Planck length 1.6 × 10⁻³⁵ m; no graininess detected, none
   ruled out at the Planck scale (260 words).
+
+## 14. 3 Oct 2026, morning: American-spelling stragglers (all four volumes)
+
+Approved by Lothar. No git was run, so the four masters show as modified in the
+monorepo and are uncommitted. Backup before the edits:
+`D:\bak\2026-10-03 Math Actually spelling stragglers\` (four volumes and this file).
+Only `word/document.xml` changed; hyperlinks, bookmarks and pictures are unchanged.
+
+41 British spellings fixed, found by a scan of the body text, headers, footers,
+alt text and document properties. Edits were made letter by letter inside the
+existing runs. Checks: the whole text after the edit equals the original with
+only these words changed; the OOXML schema validator passes; a separate pandoc
+comparison shows exactly 41 changed words and unchanged token counts.
+- V1 (4): flavour, recognising, behaviour, millimetres.
+- V2 (9): centre ×6, centred, equaliser, idealised.
+- V3 (16): abelianisation ×3, optimisation ×2, neighbours ×2, centre, minimise,
+  minimisation, optimise, labour, programme(s) ×2, diagonalisation, metrisable.
+- V4 (12): behaviour ×2, organise, colour, summarised, minimises, generalises,
+  modelled, travelling, analyse, metrisable, kilometres.
+
+Left alone for Lothar to decide: "towards" (V2 2, V3 20, against about 195 uses
+of "toward"), "disc" and "disk" (both used; V2 has "disc" 91 times and "disk" 15),
+"analogue" (28; both dialects use it), and one "fortnight" in V4.
+
+The stale nested `.git` that sat inside this folder (a 5-commit repo from early
+September; all five commits are already in the monorepo's history on GitHub) was
+moved to `D:\bak\2026-10-03 stale nested git (Math Actually)\.git` and checked with
+`git fsck`. Git run from inside this folder now uses the monorepo. (The first move
+attempts hit transient "Permission denied" errors and left the repo split in two for
+a few minutes; moving the subfolders one at a time finished it.)

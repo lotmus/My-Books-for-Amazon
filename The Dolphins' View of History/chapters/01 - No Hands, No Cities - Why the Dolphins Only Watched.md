@@ -8,7 +8,7 @@ They call each other by name. Each dolphin develops a signature whistle in its f
 
 A brief correction while the subject is open: dolphins are not telepathic. The claim surfaces periodically in pop culture and the occasional earnest paperback, and dolphin scholarship would like it retired. What looks like mind-reading from the outside is whistles, clicks, and body language, processed by an animal that has had many millions of years of practice and nothing else competing for its attention underwater. It is excellent hearing, not a superpower.
 
-They hunt in coordinated teams and teach their young skills that vary by region — a genuine culture, not just instinct. In Shark Bay, Australia, a line of mothers has taught daughters for generations to break a marine sponge free and wear it over the nose while foraging on the sharp seafloor.
+They hunt in coordinated teams and teach their young skills that vary by region — a genuine culture, not just instinct. In Shark Bay, Western Australia, a line of mothers has taught daughters for generations to break a marine sponge free and wear it over the nose while foraging on the sharp seafloor.
 
 *“This is the closest any dolphin population ever came to a tool industry,” the Society recorded. “One sponge. No handle, no blade, no upgrade, ever.”*
 
@@ -36,7 +36,7 @@ Dolphin scholarship concedes this record is not perfectly clean. Humans did even
 
 *“We do the trick either way,” Professor Click-Click-Whoosh observed. “The difference is who decided it was a trick, and who is charging admission.”*
 
-None of which stops dolphins from doing, with some regularity, the opposite as well: helping humans lost or in danger at sea, guiding disoriented swimmers back toward shore, and, in a number of well-documented modern cases, circling threatened swimmers closely enough to drive off an approaching shark. Ancient Greek sailors told the same story about the same species nearly three thousand years ago — Arion, saved from drowning after pirates threw him overboard, was rescued by a dolphin often enough in the retelling that the image ended up stamped on Greek coins.
+None of which stops dolphins from doing, now and then, the opposite as well: helping humans lost or in danger at sea, guiding disoriented swimmers toward shore, and, in a handful of widely reported modern cases, circling swimmers closely enough to keep an approaching shark away. These are the swimmers' accounts, not controlled experiments, and dolphin scholarship reports them as such. Greek writers told the same kind of story more than twenty-five centuries ago: Herodotus has the singer Arion thrown overboard by pirates and carried to shore on a dolphin's back, and the image of a rider on a dolphin ended up stamped on Greek coins.
 
 *Dolphin historians decline to fully explain this pattern of goodwill toward a species that also, on occasion, keeps us in tanks, beyond noting that consistency was never a precondition for decency.*
 
@@ -61,6 +61,10 @@ The famous one is younger. Titanic struck an iceberg in April 1912 and broke apa
 Other hulls matter as much and are visited less. Slave ships, when they are found, are graves and evidence both. The Clotilda, burned and sunk in Alabama in 1860 after carrying captive Africans on what is generally called the last illegal American slave voyage, was identified in the mud of the Mobile River. Warships from both world wars lie in lines across the Atlantic and the Pacific. Two American nuclear submarines, Thresher and Scorpion, went down in the 1960s with all hands and stayed down. A confederate submarine from the older war, Hunley, was raised with her crew still at their stations. Dolphin historians do not rank these by ticket sales. A hull is a hull. The difference is whether the people on shore decided the dead were worth the crane.
 
 There is now a treaty instinct, unevenly obeyed, that a wreck of a certain age is a grave and not a quarry. It arrived late, after a great deal of bronze and a great deal of porcelain had already been sold. Dolphin historians, who never needed a crane, have been swimming over the inventory the entire time. They recommend leaving most of it where it is. The sea is already keeping it. Humans are the ones who have trouble with custody.
+
+Here is the thesis the rest of the book keeps testing on the one species that did get the hands. A hand turns an idea into an object, and an object outlives the person who had the idea. The next generation does not start from nothing. It picks up the tool, improves it, and passes it on. Anthropologists call this cumulative culture and compare it to a ratchet: it turns one way and rarely slips back. A dolphin calf inherits its mother's skills. A human child inherits a civilization's tools. Capability, in this species, compounds.
+
+Wisdom does not compound the same way. It cannot be stored in a tool or inherited with one. Each generation has to learn it again, mostly from its own mistakes and sometimes from its parents' graves. A big brain guarantees cleverness. It does not guarantee wisdom. The two arrive on separate schedules, and the rest of this book is the record of how far apart those schedules drifted.
 
 The dolphins did not get to build cities, wage wars, or write books.
 

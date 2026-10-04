@@ -2,128 +2,116 @@
 
 # Nobody Can Tell What It Cost
 
-*A tour of the free and near-free tools that generate footage, cut it together, score it, and put a voice on it — and the one habit none of them will build for you: checking what you are actually allowed to use.*
+*How to choose free and near-free tools for each job — editing, footage, music, captions, screen recording — and the one habit none of them will build for you: checking what you are allowed to do with the result.*
 
-A viewer who finishes your video cannot tell whether it cost four hundred dollars or four dollars. They saw a thumbnail. They saw the first seconds. They saw a finished video. The budget did not survive the upload.
+*Layer: Start now. Workbook: the rights log (chapter 15, §VII), one line for everything you did not make.*
 
-Every job a first channel needs has a free or near-free tool: footage, a cut, music, a voice, an export. The gap between free and paid shows up in your time. It does not show up in what the viewer sees.
+A viewer who finishes your video cannot tell whether it cost four hundred dollars or four. They saw a thumbnail, the first seconds, and a finished video. The budget did not survive the upload. Every job a first channel needs has a free or near-free tool. The gap between free and paid shows up in your time, not in what the viewer sees.
 
-A free tool will not tell you what you are allowed to do with its output. That check is yours, every time. It runs through every section below.
+The eight videos in chapter 5 have to be cheap enough to finish, and the gates in chapter 9 count a year of publishing. Make the video in front of you. The tools are how, not a second hobby of collecting apps.
 
-You are here because the eight videos in chapter 5 have to be cheap enough to finish, and a channel only reaches the gates in chapter 9 if it keeps publishing for a year. Make the one video in front of you. The tools are how. They are not a second hobby of collecting apps.
+Author recommendation: start with a default stack of four. Your own voice, or a text-to-speech voice that is not a clone of someone else. One track from YouTube’s Audio Library. One editor that exports the whole video. Footage you filmed, drew, or photographed, or one stock clip after you have read its license. Open anything else only when those four cannot make the shot.
 
-The default stack is four things. Your voice, or a text-to-speech voice that is not a clone of someone else. One track from YouTube’s Audio Library. One editor that will export the whole video: [CapCut](https://www.capcut.com/) is enough. Footage you filmed, drew, or photographed, or one stock clip after you have read that clip’s license. Finish with that stack. The rest of this chapter is what to open when the stack cannot make the shot. Read the license before you publish.
+![The default stack: four steps — your voice or text-to-speech that is not a clone, one YouTube Audio Library track, one editor that exports the whole length, and footage you filmed, drew, or photographed or one licensed clip — then a side door for a generator, only when those four cannot make the shot. A banner reads: a free tool is not permission to monetize the result. Read the license page before you publish.](../figures/free-production-pipeline.svg)
 
-![The default stack: four steps — your voice or text-to-speech that is not a clone, one YouTube Audio Library track, CapCut exporting the whole length, and footage you filmed, drew, or photographed or one licensed clip — then a side door for section I, Sora 2, InVideo, or Magic Hour, only when those four cannot make the shot. A banner reads: a free tool is not permission to monetize the result. Read the license page before you publish.](../figures/free-production-pipeline.svg)
+*Figure 3.1 — The four things to finish with. Generators are the side door in section VII, used when this stack cannot make the shot.*
 
-*Figure 3.1 — The four things to finish with. Generators are the side door in section I, used when this stack cannot make the shot.*
+## I. Five questions for every tool
 
-## I. Generating footage without a camera
+Tool lineups change faster than anything else in this book, so this chapter gives criteria first and one or two examples second. Answer these five on the tool’s own license or terms page — not its pricing page — before a file from it goes into a video you will monetize.
 
-Describe a shot. A text-to-video tool gives you a few seconds that did not exist an hour ago. Use one tool for the shot the default stack cannot film, then stop.
+| Question | What to look for | Why it matters |
+| --- | --- | --- |
+| Commercial rights | Does the license allow use in a video that earns money? | Official rule: turning ads on confirms you hold the rights to the video’s visual and audio elements. |
+| Attribution | Is a credit required, where, and in what words? | A missing credit can void a free license or trigger a claim. |
+| Watermark | Does the free tier stamp the export? | A watermark is visible to every viewer and hard to remove honestly. |
+| Export cap | Is there a limit on length, resolution, or exports per day? | A one-minute cap will not finish an eleven-minute deep dive. |
+| Cross-posting | Does the license cover other sites, or only YouTube? | Chapter 14 reposts the same video elsewhere. A grant that names one platform may not name another. |
 
-- [Sora 2](https://openai.com/sora/) makes the clip from the description.
-- [InVideo](https://invideo.io/), [Media.io](https://www.media.io/), [VEED](https://www.veed.io/), and [Magic Hour](https://magichour.ai/) do that job in a browser.
-- [HeyGen](https://www.heygen.com/) and [Synthesys](https://synthesys.io/) put a generated presenter on screen from a script, when the video needs a person at a desk and you are not filming yourself.
+Author recommendation: write the five answers and the date in the rights log, with a screenshot of the license page. Terms change. The screenshot shows what they said on the day you relied on them.
 
-Expect to regenerate a clip two or three times before one is usable. What you may do with the output is in that tool’s terms: use in a monetized video, posting the same file on another site. Those terms differ, and they change. Read the commercial-use section before you publish. The pricing page is not the license.
+## II. Editors
 
-A tier advertised as free forever — no login, no credit cap — is usually still a quality cap, and the “unlimited” label moves. What those generators reliably produce is abstract motion, stylized animation, and short simple clips. What they reliably do not produce is a realistic human face, accurate lip sync, or more than a few consistent seconds. Use that tier for background motion and concept visuals. Pay only for the shot that actually needs the extra realism, and read the current limit on the tool’s own page before you plan a video around “unlimited.”
+What matters most: no watermark, an export cap longer than your longest video, and clear terms for any music or effects bundled inside the editor.
 
-If the tool lets you attach reference images, attach the same set to every shot in one video. Same character. Same setting. The host then looks like one person. It costs nothing extra.
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) has a free version. Blackmagic Design’s page says it works with most 8-bit formats at up to 60 frames per second and resolutions up to Ultra HD, 3840 by 2160. It is a desktop program and asks more of an older computer than a browser editor does.
+- [CapCut](https://www.capcut.com/) runs in a browser, on a desktop, and on a phone. Its terms say whether its built-in music, effects, and templates can be used commercially depends on the product and is set out in the CapCut Materials License Agreement. Read that agreement before you use its library in a monetized video, or bring your own audio and footage.
 
-Free tiers are usually measured. Read the number on the tool’s own page before you plan a video around it. At the time of the author’s research, InVideo’s free tier was about ten AI minutes a week, and HeyGen’s was three avatar videos a month, three minutes each. Those figures are not a budget. Confirm them. They move as often as prices do.
+Whatever editor exports the file, match [YouTube’s recommended upload settings](https://support.google.com/youtube/answer/1722171). Official guidance: an MP4 with H.264 video and AAC-LC audio at 48 kHz; for 1080p at 24, 25, or 30 frames per second, 8 Mbps; for 1440p, 16 Mbps; stereo audio at 384 kbps. A Short uses the same settings with the frame turned vertical, 1080 by 1920. Creator heuristic: a higher-resolution upload gets a better playback encode. That page does not promise it. Upload the resolution you have. Do not upscale a soft file in the hope of a better encode.
 
-## II. The free stock library, and the license attached to each clip
+## III. Stock footage and photos
 
-For footage and photos you did not generate yourself, several libraries offer genuinely free, high-quality clips with no subscription required:
+What matters most: commercial rights, attribution, whether people or brands in the frame limit the use, and cross-posting.
 
-| Library | Attribution required | Note |
-|---|---|---|
-| [Pexels](https://www.pexels.com/videos/) | No | Free for commercial use, no signup needed to browse. |
-| [Pixabay](https://pixabay.com/videos/) | No | Video, photo, and music under one shared license. |
-| [Mixkit](https://mixkit.co/free-stock-video/) | No | Smaller, cinematic-quality library; also free music and editing templates. |
-| [Coverr](https://coverr.co/) | No | Film-style background clips, personal and commercial use. |
-| [Videezy](https://www.videezy.com/) | Varies by clip | Free and paid mixed together — check each clip’s own license page. |
-| [Vecteezy](https://www.vecteezy.com/) | Varies by asset | Free tier exists; read the specific asset’s terms before use. |
-| [Videvo](https://www.videvo.net/) | Varies by clip | Mixes its own royalty-free license with Creative Commons clips — check each one. |
-| [Life of Vids](https://www.lifeofvids.com/) | No | Free for personal and commercial use, but caps how many of its clips you may re-host on another site. |
-| [Mazwai](https://mazwai.com/) | Requested | Smaller, cinematic-style library; free to use, credit appreciated. |
-| [Dareful](https://dareful.com/) | Requested | 4K footage, free with credit. |
-| [Envato Elements](https://elements.envato.com/stock-video) / [iStock](https://www.istockphoto.com) | Paid | Subscription libraries — worth it once the free libraries stop covering a niche, not before. |
+- [Pexels](https://www.pexels.com/license/): its license says all photos and videos are free to use and attribution is not required. It does not allow showing identifiable people in a bad light, implying endorsement by the people or brands pictured, or selling unaltered copies.
+- [Pixabay](https://pixabay.com/service/license-summary/): its content license allows use without crediting the author. It bars selling or distributing content on a standalone basis, and using content with recognizable trademarks or brands commercially in relation to goods and services.
 
-[Unsplash](https://unsplash.com/) covers photos on similar terms to the no-attribution rows above: free for commercial and non-commercial use under its own license, no permission required.
+Libraries that mix free and paid clips, or their own license with Creative Commons, need a check on each clip. “No attribution required” is a library’s current policy, not a permanent grant on the file you downloaded last year.
 
-Treat “no attribution required” as that library’s current policy, not a permanent guarantee attached to every clip forever — it can change going forward. The habit worth building is reading the license line on a library before a batch download, not assuming last year’s library still works the same way this year.
+## IV. Music and sound effects
 
-## III. Free music and sound effects, and the one library built for this platform
+What matters most: whether the track can be claimed through Content ID, the exact credit required, and, for generated music, the disclosure rule.
 
-Start with **YouTube’s own Audio Library**. [YouTube’s help page](https://support.google.com/youtube/answer/3376882) says it lives in YouTube Studio, on the left menu as Audio library, and also at [youtube.com/audiolibrary](https://www.youtube.com/audiolibrary). If your menu says Creator Music instead, the same help pages say the Audio Library tracks are in there, with a way back to the Audio Library. The library includes a Sound effects tab. YouTube says music and effects from that library are the ones it knows to be copyright-safe, and that it is not responsible for “royalty-free” tracks from anywhere else. It is the safest default, and the page still tells you to read the attribution line on a track that asks for credit.
+- **YouTube’s Audio Library.** Official rule: [YouTube’s help page](https://support.google.com/youtube/answer/3376882) says music and sound effects from the Audio Library are copyright-safe and will not be claimed through Content ID, and that a track with a Creative Commons license must be credited in the description. It also says YouTube is not responsible for “royalty-free” music from anywhere else. It is the safest default.
+- **[Uppbeat](https://uppbeat.io/pricing).** Its own pages say a free account gets three downloads a month for individual use on your own channels, and that a free user must include the track’s Uppbeat credit in every video that uses it, or the video may be claimed. Paid plans add a channel safelist.
 
-Beyond it: [Pixabay Music](https://pixabay.com/music/) and [FreePD](https://freepd.com/) are free with no attribution required, the latter because its tracks are public domain outright. Sites built around a specific composer’s catalog, like [Incompetech](https://incompetech.com/), or a named creator’s free tier, like [Bensound](https://www.bensound.com/), commonly require crediting that person by name in the video description even when the track itself costs nothing — read the attribution wording on the specific track, not just its price. For a sound effect that is not in that tab, [sounddino.com](https://sounddino.com/) is one library of effects; read its license the same way you read a stock clip’s. [mp3cut.net](https://mp3cut.net) trims a track to length once you have picked one. A MIDI file is not a sound effect, and a board of other people’s voice clips is not a license. Do not treat either as safe audio.
+> **Copyright and Content ID.** A claim on a ten-second music bed can send a whole video’s ad money to someone else and switch off its Super Thanks. A dispute without a valid reason can become a copyright strike. Use audio you can document, keep the license screenshot in the rights log, and read chapter 10, §III–IV before you dispute anything.
 
-[Uppbeat](https://uppbeat.io/) clears its free tracks for monetized use if you keep a one-line credit, unless you pay to drop the credit. [Jamendo](https://www.jamendo.com/music) hosts independent artists. Filter for the Creative Commons tracks. The rest of that library is not yours to use. [Purple Planet](https://www.purple-planet.com/) is a smaller instrumental library on the same trade: free if you give the credit the page asks for.
+Mixing habits matter more than the track (author recommendation). Keep the voice at or near full on the editor’s fader. Start the music fader at about a tenth to a fifth of the way up — a fader position, not a loudness measurement — and listen back until every word is clear. Use one instrumental bed per video, no sung lyrics under a voiceover, and few sound effects, each on the visual it marks. Leave a fraction of a second of near-silence before a key line.
 
-A generator can also build the track for you instead of you searching one out: pick a genre, a mood, and a tempo, and an AI music tool turns that into an original, loopable instrumental roughly matched to your video’s length. That is worth reaching for specifically when nothing in a library matches the tone you want, or when a video is long enough that a short stock loop would otherwise repeat noticeably.
+A generator can also write a track from a genre, a mood, and a tempo, and some tools write full songs with vocals. Read that tool’s commercial-use terms before the track leaves the edit; the legal status of generated music is less settled than that of generated video. Official rule: YouTube’s AI disclosure page lists music that is the main focus of the video among the things you must disclose (chapter 10, §VII).
 
-A full song with vocals is a different job. [Suno](https://suno.com/) and [Udio](https://www.udio.com/) are the two established tools for it. The prompt is your own lyrics, or a short idea for the tool to turn into lyrics, plus a genre, a mood, and usually a tempo. Keep the text to a line or two. Generate several takes. Quality varies the same way it does for the video tools in §I.
+## V. Captions
 
-A generated song can sit under a voiceover. It can also be the video: a jingle built around one idea. Read that tool’s commercial-use terms before the song leaves the edit. The legal status of generated music is less settled than the legal status of generated video. YouTube’s AI disclosure page also lists AI-generated music among the things you must disclose, so a generated song means AI use is set to Yes. Chapter 10 has the setting. A video with a music claim is also not eligible for Super Thanks, and a channel with many of them can lose memberships, which chapter 12 explains. If the song and the on-screen performer come from two tools, mute the picture and keep the song. Line the mouth up to that track. Throw away the picture’s own audio.
+What matters most: accuracy on names and numbers, a file format YouTube accepts, and cost.
 
-Whichever source the music comes from, a few mixing habits do more for how professional a video sounds than which track you picked. Keep the voice at or near full on the editor’s fader, and never let music or effects compete with it. In a typical editor, start the music fader at about a tenth to a fifth of the way up that same scale. That is a fader position, not a loudness measurement: a fader at one fifth is much louder, to the ear, than one fifth of the voice. Listen back. Every word should stay clear. Use one instrumental bed for the whole video: no sung lyrics under a voiceover, and no sudden drop in the middle of a sentence. Sound effects stay rare. Put one on the visual it marks, and leave the rest of the timeline quiet. And leave a fraction of a second of near-silence right before a punchline or a key line; it is a cheap way to make a script’s turn land harder, and it costs nothing but attention to timing.
+- **YouTube Studio’s own subtitle editor**, with automatic captions to start from. Free. Official guidance: review and edit automatic captions before you rely on them.
+- **A caption file you make yourself.** YouTube’s [supported-formats page](https://support.google.com/youtube/answer/2734698) recommends basic `.srt` or `.sbv` files in plain UTF-8, and accepts `.vtt` and others. If you scripted the video, the script is most of the file.
 
-## IV. Getting a voice into the video without recording one
+A transcription tool that turns a recording into text mishears the same way automatic captions do. Review it the same way. Chapter 2, §IV has the order of options.
 
-[FineVoice](https://finevoice.ai/) and [Revoicer](https://revoicer.com/) turn a script into a voiceover. A free tier is enough to hear whether the script works. Pay for a final render after that, not before.
+## VI. Screen recorders
 
-ElevenLabs is the name creators most often call the most natural, as of this writing. Its free tier covers several short scripts a month. That reputation is creator talk. Listen to a sample on [its own page](https://elevenlabs.io/) before you pick it. [NaturalReader](https://www.naturalreaders.com/) and [Speechify](https://speechify.com/) do the same job more simply. The voice sounds less natural. If your editor already speaks a script from the timeline, try that first. It skips a second export.
+What matters most: no watermark, no length cap, the microphone recorded with the screen, and nothing private on display.
 
-Turboscribe does the reverse. A recording becomes text. That text can go into the caption workflow in chapter 2. You do not need a second transcription pass.
+- [OBS Studio](https://obsproject.com/) is free and open-source recording and streaming software for Windows, macOS, and Linux. It records the screen and the microphone together.
 
-Not using a voice at all is a legitimate third option, not a compromise. A short built from on-screen text, still images, and music asks the viewer to read. Plenty of people scroll with the sound off, so a video that still makes sense muted is a finished format. Whether that format is watched as often as a narrated one is not a ranking result this book can cite.
+Chapter 4, §IV has the checklist for recording a screen people can read.
 
-Voice cloning deserves a harder line than the rest of this chapter. Cloning your own voice to save recording time is the low-risk version of this feature. Cloning someone else’s — a narrator whose style you like, a public figure, a relative — moves into consent and, in a growing number of places, legal territory that a hobbyist tool’s terms of service does not resolve on your behalf. If a tool offers voice cloning as a feature, that permission question is yours to answer before you use it, not the tool’s.
+## VII. The side door: generated footage, presenters, and voices
 
-## V. The free engine editing everything else runs on
+Text-to-video tools, generated presenters, and voice tools change monthly. Use one only for the shot the default stack cannot make. Before you do, answer the five questions in §I, plus three more:
 
-Trimming, a vertical frame, a join, a burned-in caption, and a format YouTube will take: one browser editor can do those at no cost. [CapCut](https://www.capcut.com/) is the default. [123apps](https://123apps.com/), [EZGIF](https://ezgif.com/), and [Clideo](https://clideo.com/) cover a single job when CapCut will not. [online-video-cutter.com](https://online-video-cutter.com/) is enough when all you need is a trim. [CloudConvert](https://cloudconvert.com/) turns one file format into another when the editor’s export list does not include the one you need.
+- **Can free-tier output be monetized?** Some tools reserve commercial use for paid plans. The pricing page is not the license.
+- **Does the result look real?** Realistic generated people, places, or events need the AI use setting (chapter 10, §VII).
+- **Whose face or voice is it?** See the callout below.
 
-A free tier often stops at the export. Clideo’s watermark lifts on a paid plan. At the time of the author’s research that plan was about $6 to $9 a month. That range is not a budget. Confirm the live price. A free editor can also stop at length. If the free export ends at about a minute, it will not finish a long video. Join and trim in a tool that exports the whole length. Browser cutters often cap how many joins you get in a day. That cap moves. Test one full export on day one.
+Two examples, so the questions have something to bite on. They are not endorsements, and both pages were read in October 2026; plans and credits change, so open them again before you choose.
 
-Underneath nearly all of these, doing the actual video processing, is [FFmpeg](https://ffmpeg.org/) — the same free, open-source engine much commercial editing software is built on. It has no graphical interface of its own and no watermark or subscription either; **Shutter Encoder** wraps it in one for anyone not ready to type commands. Worth learning once uploading is a weekly habit, not before — the browser tools above cover everything a first month of videos actually needs.
+- **Voice: [ElevenLabs](https://elevenlabs.io/pricing).** Text to speech, sound effects, music, and voice cloning. The pricing page lists a free plan at $0 with 10,000 credits a month, and puts the Commercial License and Instant Voice Cloning on the paid Starter plan ($6 a month) and above. That answers the first extra question: free-tier narration is for trying the tool, not for a monetized video.
+- **Footage: [Runway](https://runway.com/pricing).** Text-to-video and image generation. The pricing page lists a free plan with 125 one-time credits, and a Standard plan at $15 a month ($12 billed yearly) with 625 credits a month, listing “No watermarks” among its features. Runway’s [terms of use](https://runway.com/terms-of-use) say the company does not claim ownership of your outputs and does not restrict their commercial use, subject to the agreement, and that inputs and outputs may be used to train its models. Do not upload footage you have no right to share.
 
-Whatever tool does the final export, match [YouTube’s recommended upload settings](https://support.google.com/youtube/answer/1722171). That page recommends an MP4, H.264 video, and AAC-LC audio at a 48 kHz sample rate. For 1080p at 24, 25, or 30 frames per second, the recommended video bitrate is 8 Mbps. For 1440p at those frame rates, it is 16 Mbps. 1440p has about 1.8 times as many pixels as 1080p, which is why the recommended bitrate is higher, and it is not a casual doubling of some other number. Stereo audio on that page is recommended at 384 kbps. Confirm the live table before you export. A Short uses the same settings with the frame turned vertical: 1080×1920 instead of 1920×1080.
+If a tool accepts reference images, attach the same set to every shot in one video, so a host looks like one person. Expect two or three regenerations per usable clip. Free tiers reliably make abstract motion and stylized animation, and reliably fail at realistic faces, lip sync, and more than a few consistent seconds (creator heuristic).
 
-Creators often say YouTube’s encoder gives a higher-resolution upload a better playback encode. That page does not promise it. Upload the resolution you actually have, at the bitrate the page recommends for that resolution. Do not upscale a soft 1080p file to 1440p in the hope of a better encode.
+> **AI voice and likeness.** Cloning your own voice is the low-risk version, and YouTube does not require AI disclosure for it. Cloning anyone else’s voice, or swapping in anyone else’s face, needs that person’s written agreement. The tool’s terms do not supply it, and a disclosure does not replace it.
 
-## VI. The workflow that does not borrow someone else’s work
+Not using a voice at all is a legitimate format. A video built from on-screen text, stills, and music still makes sense with the sound off. Whether it is watched as often as a narrated one is not something this book can cite.
 
-Every tool in this chapter comes with a permissions question attached to it. There is one path that does not borrow another person’s words, voice, or picture: take an idea, rewrite it entirely in your own words, record it in your own voice, and pair it with visuals you filmed, drew, or photographed yourself. Nothing in that chain belongs to someone else.
+## VIII. The workflow that never needs a rights check
 
-Three common additions are allowed, and none of them skips the check. A text-to-speech voice is usable when it is not a clone of someone else’s voice. A stock clip is usable after you have read that clip’s license. Footage from a generator is usable after you have read that tool’s commercial-use terms. Section I is the check for generated footage. Section II is the check for a library. Section IV is the check for a voice. “I generated it” is not a substitute for any of those readings.
+One path borrows nobody’s words, voice, or picture: rewrite an idea entirely in your own words, record it in your own voice, and pair it with visuals you filmed, drew, or photographed. Everything else in this chapter adds a check. A text-to-speech voice is usable when it is not a clone of someone else. A stock clip is usable after you have read its license. Generated footage is usable after you have read the tool’s commercial-use terms. “I generated it” replaces none of those readings.
 
-Monetization adds a reason to read. [YouTube’s monetization page](https://support.google.com/youtube/answer/94522) says that by turning on ads for a video, you confirm you have all the necessary rights to its visual and audio elements. A clip you were not allowed to use is not only a claim risk. It is a statement you made when you switched ads on.
+Official rule: [YouTube’s monetization page](https://support.google.com/youtube/answer/94522) says that by turning on ads you confirm you have all the necessary rights to the video’s visual and audio elements. A clip you were not allowed to use is not only a claim risk. It is a statement you made when you switched ads on.
 
-Before you post the same file on another site, read the license for that site. A grant that names YouTube does not automatically name every other logo. If the license is silent, do not post the file there.
+*In short:* Choose each tool by its license, not its price. Record the five answers in the rights log. Finish with the default stack, and open the side door only for the shot it cannot make.
 
-A face swap, or a voice cloned from someone else, fails this check unless that person has agreed in writing. The tool’s terms do not supply that agreement. Do not build the video around either one.
+## IX. Claims that do not survive a license page
 
-> **Key takeaway:** A free tool can do each job. Read that tool’s license before you publish. Footage you generated still needs that reading.
-
-## VII. Claims that do not survive checking a license page
-
-- That “free” and “free to use commercially” mean the same thing. They frequently do not — an AI generator’s free tier and a stock clip’s license can each carry restrictions a price tag alone does not disclose.
-- That every clip in a “no attribution required” library carries that status forever, unchanged. It is the library’s current policy, not a permanent grant attached to the file you downloaded last year.
-- That professional-looking video requires paid software. Every job in this chapter — generation, footage, music, voice, editing — has a free tool doing it competently; money buys convenience and polish, not a capability a free tier lacks entirely.
-- That an AI-cloned voice is fine to use as long as the result sounds good. Sounding good and having the right to use that voice are unrelated questions, and only one of them is checkable by ear.
-- That auto-transcribed narration is caption-ready the moment it is generated. It still needs the same review pass chapter 2 describes for automatic captions — a transcription tool mishears the same way a captioning one does.
-- That a muted, text-only Short is an unfinished narrated video. It is a different format. Many people watch with the sound off. This book does not claim it is watched as often as a narrated one.
-- That a free-forever AI video generator is simply a slower version of the paid ones. The gap is usually in what it can render reliably, not just how fast — realistic faces and lip sync are frequently where the free tier stops.
-
-A last limit. This chapter names specific tools because specific tools are what a first video actually needs, not because any one of them is guaranteed to still exist, still be free, or still carry the same terms by the time you read this. Confirm the current price, license, and terms of service on any tool or library named here before you build a video on top of it — tool lineups change faster than platform policy does.
+- That “free” and “free to use commercially” mean the same thing. A free tier and a stock license can each carry limits a price tag does not show.
+- That crediting the artist makes a track legal to use. Credit is one term of a license, not the license.
+- That professional-looking video needs paid software. Each job in this chapter has a free option. Money buys convenience, not a capability.
+- That a cloned voice is fine if it sounds good. Sounding good and having the right to the voice are unrelated questions.
 
 ---
 
-*Sources: Tool names and URLs in this chapter are drawn from the author’s own working bookmark lists of video, footage, music, and voice tools, current at the time of writing. Reference-image consistency, mixing as a fader position rather than a loudness law, and the workflow in §VI were taken as general technique from the author’s saved notes; specific projects were not used. Export settings are [YouTube’s recommended upload encoding settings](https://support.google.com/youtube/answer/1722171). The rights statement made when ads are turned on is from [YouTube’s monetization page](https://support.google.com/youtube/answer/94522). The Audio Library location is [YouTube’s Audio Library help](https://support.google.com/youtube/answer/3376882). The claim that a higher upload resolution receives a better playback encode is labeled as creator talk, not as that page’s promise. Pricing, license terms, and feature availability change. Not legal advice on licensing, attribution, or AI-generated content rights.*
-
-*Not an official YouTube publication.*
+*Sources: [YouTube recommended upload encoding settings](https://support.google.com/youtube/answer/1722171). [Audio Library](https://support.google.com/youtube/answer/3376882). [Monetization overview](https://support.google.com/youtube/answer/94522) (rights statement). [Supported caption formats](https://support.google.com/youtube/answer/2734698) and [automatic captions](https://support.google.com/youtube/answer/6373554). [Disclosing AI use](https://support.google.com/youtube/answer/14328491). Tool facts are from each tool’s own page, opened October 2026: [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [CapCut Terms of Service](https://www.capcut.com/clause/terms-of-service), [Pexels license](https://www.pexels.com/license/), [Pixabay content license](https://pixabay.com/service/license-summary/), [Uppbeat pricing](https://uppbeat.io/pricing) and [user agreement](https://uppbeat.io/user-agreement), [OBS Studio](https://obsproject.com/). AI examples: [ElevenLabs pricing](https://elevenlabs.io/pricing), [Runway pricing](https://runway.com/pricing) and [terms of use](https://runway.com/terms-of-use). Pricing, licenses, and features change.*

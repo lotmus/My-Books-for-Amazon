@@ -1,0 +1,185 @@
+TITLE: Partial Reflection: The Puzzle of the Glass Sheet
+TAGLINE: One glass surface reflects 4 photons in 100. Two surfaces reflect anything from 0 to 16, depending on thickness. The arrows explain it; the reflection probability per surface does not
+NUM: 2
+NEXT: Prologue 3 lets light take every path at once — off a mirror, through a lens, across a diffraction grating — and shows why the familiar "angle in equals angle out" is what survives when arrows cancel.
+
+# How to use this prologue
+
+Prologue 1 gave you the whole rule: one arrow per way, a stopwatch for the direction, add the arrows, square the final one. This prologue applies it to one real puzzle, slowly, until it feels mechanical. You will need a ruler and a protractor, or squared paper. Expect two to three hours.
+
+## Learning objectives
+
+- State the experimental facts of partial reflection from one surface and from a thin sheet of glass.
+
+- Explain why "4 percent per surface" cannot account for a sheet that reflects 0 percent or 16 percent.
+
+- Draw the two arrows for a thin sheet, including the half-turn for the front surface, and add them.
+
+- Predict how reflection changes as the sheet gets thicker, and why a very thin film reflects almost nothing.
+
+- Explain the colours of soap bubbles and the purpose of lens coatings with the same two arrows.
+
+## Words you will need
+
+@widths 2400 7392
+| Word | What it means here |
+| front surface | Where light first meets the glass (air to glass) |
+| back surface | Where light leaves the glass on the far side (glass to air) |
+| half-turn | Reversing an arrow: turning it through 180 degrees |
+| thickness | The distance between the front and back surfaces |
+| wavelength | The distance light travels while the stopwatch makes one turn |
+
+# 1 One surface: four in a hundred
+
+Start with a block of glass so thick that its back surface plays no part (or a back surface painted black, so nothing comes back from it). Send in photons one at a time. About 4 in every 100 bounce back from the front surface; the rest go into the glass.
+
+IMG: P2_one_surface.png | 5.6 | Figure P2.1. One glass surface. Of every 100 photons, about 4 are reflected to detector A and about 96 enter the glass and reach detector B. Which photons are reflected cannot be predicted.
+
+In the language of Prologue 1, the arrow for "reflected from the front surface" has length 0.2, because 0.2² = 0.04.
+
+# 2 Two surfaces: the puzzle
+
+Now use a thin sheet of glass with two clean surfaces. The obvious guess is that each surface reflects 4 percent, so the sheet should reflect about 8 percent. For a thick, slightly uneven pane in white light, that is roughly what you measure.
+
+But make the sheet very flat, use light of one colour (a laser, say), and measure sheets of slightly different thickness, and something strange appears. For some thicknesses the sheet reflects almost nothing. For others it reflects about 16 percent — four times one surface, twice the guess. As the thickness grows, the reflection goes up and down, again and again, between 0 and 16 percent.
+
+IMG: P2_thickness.png | 5.8 | Figure P2.2. Measured partial reflection from a thin glass sheet in red light, as the sheet gets thicker. The reflection cycles between 0 and about 16 percent. The 8 percent line is what "4 percent per surface" would predict.
+
+Think about how strange this is if you picture a photon as a little ball. A photon that bounces off the front surface never goes near the back surface. How could the distance to the back surface decide whether it bounces? Newton saw such effects (they produce the coloured rings named after him) and invented "fits of easy reflection and easy transmission" to describe them. It was a label, not an explanation.
+
+BOX: Try it now 1
+A sheet happens to reflect 16 photons out of 100. How many go through? If a different sheet reflects none, what happens to all the photons?
+ENDBOX
+
+# 3 Two arrows
+
+Use the rule. A photon can reach detector A in two ways that we cannot tell apart: by bouncing off the front surface, or by going through the front surface and bouncing off the back. So there are two arrows to add.
+
+**The lengths.** Each is about 0.2. (The back arrow is very slightly shorter, because the photon has to cross the front surface twice; Lesson 9 computes this. We ignore it here.)
+
+**The directions.** Use the stopwatch. The photon that bounces off the back surface travels farther — twice the thickness of the glass, there and back — so its stopwatch has turned further when it arrives. And there is one extra rule that experiment forces on us: **for reflection at the front surface, where light goes from air into glass, reverse the arrow (a half-turn)**. Reflection from the back surface, going from glass towards air, gets no such reversal.
+
+IMG: P2_two_surfaces.png | 6.0 | Figure P2.3. A thin sheet gives two ways to reach detector A. The front-surface arrow is reversed. The back-surface arrow has turned a little further because its path is longer. The final arrow is their sum.
+
+**The sum.** Put the arrows tip to tail and measure the final arrow. Square it. That is the reflection probability.
+
+### Worked example 1
+
+Suppose the extra trip through the glass makes the back arrow turn exactly half a turn more than the front arrow did before reversing. What does the sheet reflect?
+
+Before the special rule, the two arrows point opposite ways (half a turn apart). Reversing the front arrow turns it to point the same way as the back arrow. Now they line up: final length 0.2 + 0.2 = 0.4, probability 0.16. This is the brightest case.
+
+### Worked example 2
+
+Now suppose the extra trip makes exactly one whole extra turn. Before the special rule, the two arrows point the same way. Reversing the front arrow makes them opposite: final length 0, probability 0. The sheet reflects nothing; every photon goes through.
+
+BOX: Try it now 2
+The extra trip makes a quarter of a turn. Before the reversal the two arrows are at right angles; reversing one keeps them at right angles. What is the reflection probability? (Hint: Prologue 1, Worked example 1.)
+ENDBOX
+
+# 4 Thicker and thicker
+
+Light moves more slowly inside glass, about 1.5 times more slowly than in air. The stopwatch keeps turning at the same rate in time, so per millimetre of glass it turns about 1.5 times as much as per millimetre of air. For red light (about 650 nm in air) that means one turn for each 430 nanometres or so of glass.
+
+The back-surface trip goes through the glass twice. So each extra 215 nanometres or so of thickness adds one full extra turn to the back arrow, and the cycle repeats. As the sheet thickens, the back arrow sweeps round and round while the front arrow stays put: the final arrow grows from 0 to 0.4 and shrinks back to 0, over and over.
+
+IMG: P2_cycle.png | 6.2 | Figure P2.4. As the sheet gets thicker, the back-surface arrow (solid) turns relative to the reversed front-surface arrow (dashed). The final arrow (blue) swings between length 0 and 0.4, so the probability swings between 0 and 0.16.
+
+That is the whole explanation of Figure P2.2. The photon does not "know" the thickness by visiting the back surface. Rather, the probability of reflection is the square of a sum of two arrows, and one of those arrows depends on the thickness.
+
+BOX: Try it now 3
+Why does a very thick, slightly uneven window in white light reflect about 8 percent, not something between 0 and 16 that depends on the window? (Think about many colours and many slightly different thicknesses at once, and Prologue 1, Exercise 9.)
+ENDBOX
+
+# 5 Very thin films reflect almost nothing
+
+Make the film thinner and thinner. The extra trip shrinks to nothing, so the back arrow points almost exactly where the front arrow pointed before its reversal. After the reversal they are opposite. They cancel. A film much thinner than a wavelength reflects almost no light at all.
+
+You can see this. A soap film held vertically drains and gets thinner at the top. Just before it bursts, the top turns black: it has become too thin to reflect. Lower down, where the film is thicker, it shows colours.
+
+# 6 Colours: soap bubbles and coated lenses
+
+Why colours? Each colour has its own stopwatch speed. For a given film thickness, the extra trip may give red light a half-turn (bright reflection) and blue light nearly a whole turn (almost no reflection). White light contains all colours, so the film reflects some colours strongly and others weakly, and you see the strong ones. Where the thickness changes, the colour changes. That is why a soap bubble or an oil slick on a wet road shows bands of colour.
+
+IMG: P2_soap.png | 5.6 | Figure P2.5. Reflection from a soap film 400 nm thick, colour by colour (water: light about 1.33 times slower). Some colours are reflected strongly, others hardly at all.
+
+Camera lenses and spectacles use the same effect in reverse. A very thin transparent coating, about a quarter of a wavelength thick in the coating material, is applied to the glass. Light reflected from the top of the coating and light reflected from the glass beneath come back with arrows that nearly cancel, so less light is lost to reflection and fewer ghost images appear.
+
+BOX: Try it now 4
+A coating is designed for green light. Will it also cancel reflection perfectly for red and blue light? What colour do you expect a coated lens to look in reflection, given that the green reflection is removed best?
+ENDBOX
+
+# 7 What this does and does not explain
+
+The arrows explain every number in this prologue: 4 percent, 0 percent, 16 percent, the cycle, the colours. They do not explain *why* reflection happens at all, or why the length is 0.2. Those come later. Prologue 5 replaces "the surface reflects" with what really happens: the photon is absorbed and re-emitted by electrons throughout the glass, and the 0.2 arrow is what is left when all their little arrows are added. Lesson 9 does the same thing with Maxwell's equations and derives the number.
+
+# Connections to QED
+
+@widths 3264 6528
+| Idea in this prologue | Where it becomes exact |
+| Arrow of length 0.2 for one surface | Lesson 9: r = (n₁−n₂)/(n₁+n₂) = −0.2 for glass |
+| The half-turn at the front surface | Lesson 9: the minus sign in r |
+| Back arrow turns with thickness | Lesson 9: thin-film interference, phase 2nkd |
+| Many colours average to 8 percent | Averaging over phases; the same step appears in cross sections |
+| Glass reflection comes from electrons | Prologue 5; Lesson 9 (forward scattering) |
+
+# Summary
+
+1. One glass surface reflects about 4 photons in 100: an arrow of length 0.2.
+
+2. A thin sheet has two ways to reflect: from the front and from the back. Their arrows add.
+
+3. The front-surface arrow is reversed; the back-surface arrow turns further because its trip is longer.
+
+4. As the sheet thickens, reflection cycles between 0 and 16 percent. Very thin films reflect almost nothing.
+
+5. Different colours turn at different rates, which gives soap-film colours and makes lens coatings work.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | **Core.** A surface reflects 9 photons in 100. What is the length of its arrow? |
+| 2 | **Core.** Two arrows of length 0.2: the front one reversed, the back one turned so that after the reversal the two point the same way. What is the reflection probability? What is the transmission probability? |
+| 3 | **Core.** Explain in two sentences why "4 percent per surface, so 8 percent per sheet" fails for a thin, flat sheet in laser light. |
+| 4 | **Core.** A sheet reflects 0 percent. Draw the two arrows. Then the sheet is made slightly thicker, so that the back arrow turns a little. Does the reflection go up or down? |
+| 5 | **Core.** Why does the top of a draining soap film look black just before it bursts? |
+| 6 | **Extension.** For red light in glass, one extra turn of the back arrow needs about 215 nm of extra thickness. How many full reflection cycles do you pass through going from 0 to 0.01 mm of thickness? |
+| 7 | **Extension.** The two arrows are at 60 degrees to each other (after the reversal). Use a careful drawing, or the fact that two equal arrows at 60° form two sides of an equilateral triangle, to find the probability. |
+| 8 | **Extension.** A coating reduces reflection from 4 percent to 1 percent for green light. What percentage of the light that was being lost to reflection is now transmitted instead? |
+| 9 | **Challenge.** The back-surface arrow is really about 0.192 long, not 0.2 (Lesson 9). What are the true smallest and largest reflection probabilities for the sheet? |
+| 10 | **Challenge.** Explain why the half-turn rule cannot simply be dropped: what would very thin films do if neither arrow were reversed? Does that match the black soap film? |
+
+# Solutions
+
+Try each exercise on paper before you look. If you are stuck, re-read the section named in the exercise, try again, and only then read the solution below.
+
+**1.** √0.09 = 0.3.
+
+**2.** Aligned: 0.2 + 0.2 = 0.4, probability 0.16. The photons that are not reflected go through, so transmission is 1 − 0.16 = 0.84.
+
+**3.** Probabilities only add for ways that can be told apart; front and back reflections end at the same detector and cannot be told apart, so their arrows add instead. The angle between the arrows depends on the thickness, so the result can be anything from 0 to 16 percent.
+
+**4.** At 0 percent the arrows are equal and opposite. Turning one of them a little leaves a small gap between the tip and the tail: the final arrow grows from 0, so the reflection goes up.
+
+**5.** The film there is much thinner than a wavelength. The back arrow points almost exactly opposite to the reversed front arrow, so they cancel and almost no light is reflected; with nothing reflected, the film looks dark against a dark background.
+
+**6.** 0.01 mm = 10 000 nm. 10 000 / 215 ≈ 46 cycles.
+
+**7.** Two equal arrows of length 0.2 at 60° (tip to tail, the angle between their directions is 60°) give a final arrow that is the long diagonal: length 0.2 × √3 ≈ 0.346. Probability ≈ 0.12. (If you drew the arrows tail to tail at 60°, the side of the equilateral triangle is the difference, not the sum; the sum is the longer diagonal of the rhombus.)
+
+**8.** 3 of the 4 percent are saved, which is 75 percent of the light that was being lost. That light is now transmitted.
+
+**9.** Smallest: 0.2 − 0.192 = 0.008, probability 0.000064, essentially zero. Largest: 0.392, probability about 0.154.
+
+**10.** Without any reversal, a very thin film would give two arrows pointing the same way: length 0.4, reflection 16 percent, the brightest possible. Very thin soap films would shine brightly instead of turning black. Experiment says they turn black, so one of the two reflections must carry the half-turn.
+
+# Answers to Try it now
+
+**1.** 84 go through. If none are reflected, all 100 go through (ignoring absorption).
+
+**2.** Arrows of 0.2 at right angles: 0.04 + 0.04 = 0.08.
+
+**3.** Each colour and each slightly different thickness gives a different angle between the two arrows. Averaged over many effectively random angles, the arrows' squares add (Prologue 1, Exercise 9): 0.04 + 0.04 = 0.08.
+
+**4.** No: the extra trip gives a different turn for each colour, so red and blue are cancelled less well. They are reflected a little, and coated lenses typically look purple or magenta in reflection (red plus blue).

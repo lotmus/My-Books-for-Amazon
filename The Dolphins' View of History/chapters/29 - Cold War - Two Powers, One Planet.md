@@ -6,15 +6,13 @@ Both sides had the bomb within four years of each other — the United States in
 
 The phrase was coined in the 1960s by the analyst Donald Brennan, who meant the acronym as mockery. The strategists kept it anyway. Dolphin scholarship files this under candor, an achievement this species does not get nearly enough credit for.
 
-*Most military doctrines are named to obscure what they do. This one ended up named for exactly what it was.*
-
-The weapon itself was the product of a wartime race: the Manhattan Project (1942-45), staffed in large part by physicists who had fled fascist Europe, some of them from the very country whose bomb the project had been built to beat. The first test took place in the New Mexico desert in July 1945. Many of the next ones took place at sea. The United States detonated 67 nuclear devices at Bikini and Enewetak atolls in the Marshall Islands between 1946 and 1958, and France later tested at Moruroa and Fangataufa in French Polynesia.
+The weapon itself was the product of a wartime race: the Manhattan Project (1942-45), staffed in large part by physicists who had fled fascist Europe, some of them from the very country whose bomb the project had been built to beat. The first test took place in the New Mexico desert in July 1945. Many of the next ones took place at sea. The United States detonated 67 nuclear devices at Bikini and Enewetak atolls in the Marshall Islands between 1946 and 1958. The 167 people of Bikini were moved off their atoll in 1946, told it was for the good of mankind; they have never been able to go home to stay. France later tested at Moruroa and Fangataufa in French Polynesia.
 
 *“The apex predator,” dolphin historians noted, “has now learned physics.” The oceans, they added, became nervous.*
 
 *“Humans built a weapon that finally matched their own capacity for self-destruction,” the Society recorded, “and then, mostly, did not use it. This is the book's clearest instance of the wisdom half of the ledger showing up on time.”*
 
-The two powers fought each other anyway, just never directly. Korea (1950-53) split a peninsula that remains divided as this book is written. Vietnam drew in American ground forces for a decade before ending, in 1975, in a unified Communist Vietnam and a war American planners had, by most later accounts, misjudged from the start. Afghanistan absorbed a Soviet occupation from 1979 to 1989 that weakened the Soviet state about as much as it devastated Afghanistan.
+The two powers fought each other anyway, just never directly. Korea (1950-53) split a peninsula that remains divided as this book is written. Vietnam drew in American ground forces for a decade before ending, in 1975, in a unified Communist Vietnam and a war American planners had, by most later accounts, misjudged from the start. Afghanistan absorbed a Soviet occupation from 1979 to 1989 that killed about 15,000 Soviet soldiers and somewhere between half a million and two million Afghans, drove millions more into exile, and weakened the Soviet state.
 
 The closest approach to the war neither side wanted came in October 1962, when Soviet nuclear missiles installed in Cuba, ninety miles from Florida, brought both governments within days, by many participants' later accounts, of a confrontation neither one could fully control once started. A negotiated withdrawal ended the crisis without the two powers firing a shot at each other.
 

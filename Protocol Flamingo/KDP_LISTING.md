@@ -2,7 +2,9 @@
 
 Series: The Invasion Storybooks
 Book: 1
-Author: George Herbert Fontaine
+Author: Lothar J. Musiol
+Contributor: George Herbert Fontaine (role: Author). KDP name fields take a name only, so "writing as" stays on the cover and title page.
+Byline (cover, title page): Lothar J. Musiol writing as George Herbert Fontaine
 Title: Protocol Flamingo
 Subtitle: Earth. This year. Somebody left the sky unlocked.
 Price: $2.99
@@ -21,16 +23,16 @@ Cover file: Protocol_Flamingo_cover_front.jpg (front only, 1650 x 2550 px, 300 d
 3. humorous science fiction
 4. generation ship
 5. UFO fiction
-6. science fiction novella
+6. first contact comedy
 7. wedding mystery
 
 ## Description
 
-Nora Calder films a wedding in Lissome, Indiana. The best man stops talking for eleven seconds. Six phones hit the floor. An alpaca walks the aisle. She posts eighty seconds of the water tower, and the clip will not stay deleted.
+Nora Calder films a wedding in Lissome, Indiana. The best man stops talking for eleven seconds. Six phones hit the floor. An alpaca turns up out of nowhere and will not go within ten feet of the groom. She posts eighty seconds of the water tower, and the clip will not stay deleted.
 
-The office that answers the phone is a basement under a passport line. The company that owns the sky sells internet from a dead mall. Two weeks out, a light show called Starfall is going to ring every quiet bell on the continent at once.
+The office that answers the phone is a basement under a passport line. The company that owns the sky sells internet from a dead mall. On 12 August, under a real total eclipse low over the plain outside Zaragoza, a light show called Starfall is going to ring every quiet bell in the world at once, and Nora is the only person close enough to ask the question that might stop it.
 
-Protocol Flamingo is a science-fiction novella about a wedding video, a committee that has been meeting since 1947, and the difference between a broadcast and a question. It is the first of the Invasion Storybooks.
+Protocol Flamingo is a science-fiction novel about a wedding video, a committee that has been meeting since 1947, and the difference between a broadcast and a question. It is the first of the Invasion Storybooks.
 
 For readers who want first contact without a speech from a hangar, and a joke that knows it is also a filing problem.
 

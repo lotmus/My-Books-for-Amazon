@@ -26,7 +26,7 @@ plan that uses tools from all of them. The anchor is safely decoupled; 308 of 41
 recovered; the book ends on themes of honest incompleteness ("recoverable, not unharmed") and the
 long cosmological future ("There is no lid").
 
-Structure: Prologue + 18 chapters + Epilogue (the story), then an Appendix of 18 physics lectures
+Structure: Prologue + 19 chapters + Epilogue (the story), then optional back matter titled "For Curious Readers": the Physics Prologue and 18 lessons (Chapter 14 has two, Chapter 15 has none of its own). Since round 8 (2026-10-03).
 (Chapter 14 has two: strings, then entropy and holography), then back
 matter (Glossary, Further Reading, Who Is Who, Author's Note, About the Series).
 
@@ -1846,3 +1846,114 @@ The review fix is in the live Kindle file. Do not restore the previous wording f
 - Jago pays one Cardiff chit during the eleven weeks. Venn leaves the tape roll out the week before the frame is found. The epilogue still does not have him confess.
 - The book ends on THE END. Do not put the one-word Obviously back after it.
 
+
+## Round 4: voices and cuts (3 Oct 2026)
+
+- Venn speaks in numbered points, says "with respect", and cites the Manual by section. He keeps the barometer beat in Chapter 4: his mother's barometer in Swindon has said CHANGE since 1986, and "I file things. I do not want anything." Do not give him jokes.
+- Pike apologises ("sorry"), counts exactly ("Nine thousand two hundred and six rows"), and times her own work ("The formula took me four minutes"). Her mum's kettle has two receipts. She asks for a copy of anything she signs. This seeds the Book 2 ledger, so keep it.
+- Chapters 11 to 13 are about 8% shorter (12,752 to 11,788 words). The Bellboy corridor word in Chapter 13 has been cut, and Lolly now writes her note "against the corridor wall". Do not put the repeated recaps back, or the second explanation of the Inquiry.
+- Eilstein's arrival keeps "No relation." Beatrix's reason to work with the vampire is now one speech that ends "So. We work with the vampire."
+
+
+## Round 5: continuity and accuracy (3 Oct 2026)
+
+- Ch6: "around Tuesday" became "around the airing cupboard" (Tuesday predated the story).
+- Lolly's career arithmetic fixed: ten years at the bench, then seven months on the complaints desk (Ch15 and Epilogue no longer say she wasted ten years at the desk). Gideon's "three years reading requisition forms" is now three years at Halloran's packing the Ministry's relay orders.
+- One overused Gideon clumsiness gag (the filing-cabinet walk) cut.
+- Ch16: the junction box is found "on the Thursday, as promised".
+- Lessons intro: the quotation once given to "a Californian lecturer" is now "attributed to several famous physicists and reliably traced to none of them".
+- Lesson 6: the tunnelling derivation gives the Hawking temperature "at leading order"; Unruh works "without needing a black hole" (the accelerating observer still has her own horizon). Same in What sticks.
+- Also-by: Quanta, Actually retired; Quantum, Actually Vol 1 and Vol 2 listed. Straight quotes in the list fixed.
+- Counts: 3,945 paragraphs, 91,475 words (91,405 before); 281 bookmarks, 303 links, 0 broken; TOC matches headings.
+
+## Round 6 (2026-10-03, full-read continuity pass)
+- Timeline: chapters 1–8 happen on one Thursday. Later references now say "yesterday" or "since yesterday morning", not "on Thursday" or "all week".
+- Seasons: the story runs from autumn to November. The office daffodils are silk, and the late light is October light.
+- Eilstein cannot endorse or dismiss Many-Worlds from experience (Everett 1957 came after his 1955 death). His line now reads "being dead has not improved my opinion". The Feynman reference is also worded so the timing works.
+- 4C origin: some singularities "were simply found, a good deal older than anybody's paperwork" (Fainrose, ch6). von Wittenberg's black hole is "small", not "engineered". This matches the 1961 Page time in Book 2.
+- Line fixes in ch4–13: Venn's "Miss—"; the mirror story; the wallpaper colour; notebook word counts; the CHSH "four combinations"; de Broccoli's greeting; one duplicate sentence removed; Dev's fiver is "three years", not a second "since 2019".
+
+## Round 8 (2026-10-03, Lothar's structural decisions)
+- **Chapter 15 split** at the scene break after the Dennis/Gideon radio scene:
+  - Ch15 *It’s Always the Cap*: the Bell result and the radio repair.
+  - Ch16 *Final State Pending*: Beatrix's night, the injunction, the plan, Mrs Chain.
+  - Old 16–18 are now 17–19.
+- **Bookmarks renamed to match:**
+  - Chapter15AlwaysTheCap, Chapter16FinalStatePending, Chapter17TheDecision, Chapter18VeryGoodObituary, Chapter19ThereIsNoLid.
+  - The TOC (19 numbered entries), the lesson back-links ("← Back to Chapter 16: Final State Pending" etc.) and the glossary "(Chapter N)" tags are renumbered.
+  - The glossary's Landauer entry now cites "Lesson 16’s aside on Maxwell’s demon".
+- **Rule/Lesson tags:**
+  - All 18 "Lesson for this chapter" lines are removed, along with the "→ Black-Hole Entropy and Holography" line.
+  - 7 of 18 Rule lines stay, the ones that land as jokes or plot beats: ch6 (4C hotter, smaller, harder to forgive), ch10 (moon / forty-one signatures), ch13 (a committee cannot talk it away), ch14 (the apparatus shares the Ministry's clock), ch17 (cannot unspend the heat), ch18 (seventy-eight per cent of a life), ch19 (there is no lid).
+  - Do not reinstate the others.
+- **Back matter is optional:**
+  - TOC section label "For Curious Readers (Optional)".
+  - Heading "For Curious Readers: The Lessons" (was "Appendix: Lessons").
+  - The intro says it is optional and for after the novel.
+  - The front matter is cut to one short "How to Read This Book": "Three Honest Ways to Read This Book" is removed, along with its TOC entry and the glThree bookmark, which had no links pointing to it.
+- **Links in the novel:**
+  - The 47 visible in-text glossary hyperlinks inside the novel (Prologue to Epilogue) were unwrapped to plain text: no in-text nagging toward the back matter.
+  - The invisible chapter video links stay; 15 remain (ch8, ch16 and ch17 lost theirs in earlier edits).
+  - The glossary entries and bookmarks are untouched.
+- **Gideon's clumsiness gag:**
+  - Setup: ch1 doorframe (shoe-on-threshold cut).
+  - ch2 bus/pram apology cut.
+  - ch9 "before I walked into anything".
+  - Payoffs: ch15 Dennis ("the one who walks into things", "before you walk into something you can't fix") and ch17 Lolly's stock-room door.
+  - The ch16 "did not spill" beat is cut.
+- **Humour:**
+  - Voller-room "direct debit / bank on fire" line.
+  - The panel's "very quiet" is now Pilbeam putting down his pen.
+
+## Round 9 (2026-10-03, copyedit, humour and opening pass)
+- **Master:** 91,033 words, 19 chapters (structure unchanged). Glossary links stay out of the story text; the 15 invisible video links are kept.
+- **Opening pages (Kindle sample):**
+  - Prologue: the collapse paragraph is tightened ("It worked anyway. That was the alarming part.").
+  - Prologue: the universe now reads the handbook "looking for the clause that said it couldn't".
+  - Prologue: the second "There was, unfortunately" is cut.
+  - Ch1: the tea and "celestial harmony to local government without a return ticket" sigh is rewritten.
+  - Ch1: Gideon's description now sits in his introduction ("built for a lab stool"), which removes the third "workbench".
+  - Ch1: doorframe line changed to "It's been in the same place for eleven years. I keep hoping."
+  - Ch1: Mrs Chain sits "as though the chair were on probation".
+- **Humour (replaced, not added):**
+  - Priddy and "the doubtful sausage".
+  - Fainrose/Sloan "like certain tins at the back of a cupboard" (echoes the spotted dick tin).
+  - Fainrose "rationing her alarm since breakfast".
+  - Pilot-wave panel "comfortable" replaces the second "which was worse"; the third, in ch16 (Beatrix), is replaced too.
+  - Dennis "said decoration as though it were a diagnosis" removes the doubled "the way other men said".
+  - Beatrix's "voice she kept for barristers who had asked for five minutes".
+- **Copyedit:** British spellings made consistent (afterwards ×3, seat belt, acknowledgement, rigour). Close repeats of entirely, particular and merely fixed. The lint found no unbalanced quotes or doubled words in the story; the open-quote paragraphs are multi-paragraph speeches. Enquiry/inquiry follows the British split (question/investigation).
+
+## Round 10 (2026-10-03, front matter and ch13–14 humour)
+- **Front matter (Lothar's call):**
+  - The free sample now opens on the story. Title page and copyright are followed by a short Table of Contents (Prologue, 19 chapters, Epilogue), then a back-matter block, then the Prologue (about page 4 of the render).
+  - The back-matter block lists How to Read This Book, Cast of Characters, Physics Prologue, For Curious Readers: The Lessons, Glossary, Further Reading, A Note on the Author and If You Enjoyed This Book.
+  - Dropped from the TOC: Title Page, the 18 lesson lines plus The Shape of This Course (which links to every lesson group itself), Backlog, A Word on Who Is Who, About the Series and If This Made You Curious. Kindle's navigation still reaches them through their headings.
+- **How to Read This Book** and **Cast of Characters** (with the In the novel / In reality table) now sit after THE END, just before the Physics Prologue. Wording changed for the new place: "the pages that follow hold an optional course".
+- **Ch13 humour, beat by beat:**
+  - Bellboy's entrance: "the room's temperature dropped to meet him"; accent "sanded down by decades of being right at people who wished he wasn't". This removes a second "in rooms" formula.
+  - "a silence of the kind that gets minuted as a pause", answered later by "This silence nobody would have minuted as a pause".
+  - Bellboy/Tengelman: "That isn't the compliment you think it is." / "I know … but I'll take it." This replaces a muddled "No".
+  - "Here's the point of it" fixes a non sequitur.
+  - Continuity fix: "the Duc's guiding wave" (was "her").
+- **Ch14 humour:**
+  - Von Wittenberg "put his small pencil down … the most emphatic thing he ever did" replaces a recycled Bellboy simile (he was not at the panel).
+  - Sandra hands over the carbon "without looking at it, which at Larchfield was how you did a thing you meant to be proud of later".
+
+## Round 11 (2026-10-03) — pacing and humour pass
+- Words: 90,937 → 90,176 (−761). No plot facts removed.
+- Compression targets: redundant call-and-response (Ch6 temperature Q&A, Ch9 "Yes." run), restated beats (Ch2 sorting recap, poster/hinge line, Ch4 Priddy coda and duplicate "upstairs/downstairs", Ch10 notebook formula), Ch11 Jago depot detail, Ch12 de Broccoli 1911 preamble and Larchfield phone exposition, Ch17 montage opener, Ch19 lecture repetitions.
+- Humour: replaced weak beats (Ch1 "sounds dreadful" → queue line; Ch5 "miss private thought", "grows tired"; Ch6 "vindictive edges", "Marvellous sentence"; Ch7 "so little understanding", "work for a noun"; Ch16 "universe doesn't appear to have asked"; Epilogue "Allegedly/Obviously"; Ch19 QED "chair" line). Chapters 13–14 untouched.
+- Fixed: "afterward" → "afterwards" (Ch12).
+
+## Round 12 (2026-10-03) — scene cuts, adversarial reread, proofread
+- Ch11 → 3,968 words; Ch12 → 3,972 (both under 4k). Total ~89,670 incl. back matter.
+- Ch11: Jago car section and Dennis bio compressed; Ealing paragraph, underline-"nine", voice-accent, photographic-plate and Sandra courier exchange cut (courier facts kept in Jago section and Sandra's letter line). 137/Room motif and "never sign without certainty" kept.
+- Ch12: "This was not modesty", phone description, "stranger in a cardigan", duplicate medical facts cut.
+- Adversarial pass: "said slowly" 11 → 4; "for the first time" 13 → 8; "considered this" varied (−4); "very still" −2; "Nobody spoke/answered" beats −3; "for a long moment" −2; "opened the green notebook" varied ×2.
+- Proofread: six hard-wrapped notebook passages joined into single paragraphs; "afterward?" → "afterwards?"; "Sub-District Six" → "Sub-District 6" (house style). Ellipses consistent ("..."), no straight quotes, no double spaces in story text.
+
+## Line-edit round (2026-10-03, late)
+- Full sentence-by-sentence line edit of Prologue, Ch1–19 and Epilogue (story only; lessons/back matter untouched in size).
+- Continuity/attribution fixes: Ch1 duplicate Mrs Chain "Why?" removed; Ch2 "No one answered" before Jago answers removed; Ch5 Jago's debts "by Jago's reckoning"; Ch9/10/11 unattributed or misattributed lines fixed; Ch13 Bellboy fingers continuity; Ch16 "from the night of the vault"; Ch17 duplicate Fainrose line; Ch19 grammar.
+- Tic reduction (story, ~67.8k words): exactly 52→30, very 51→36, almost 50→33, which was 35→28, nobody 146→106 (remaining mostly thematic/dialogue), "of a man/woman who had" 8→3.

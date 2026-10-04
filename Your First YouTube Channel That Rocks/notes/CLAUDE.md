@@ -98,8 +98,15 @@ emerges to diverge: terse, declarative, second person. Capital-roman-numeral
 sections, each a complete argument. Concrete numbers over adjectives.
 Platform rules are stated as fact only when checkable directly in the
 product's own interface or published policy; anything about ranking or the
-algorithm's actual behavior is explicitly labeled as inference or creator
-consensus, not fact — this platform is if anything more opaque about its own
+algorithm's actual behavior is explicitly labeled as a creator heuristic, not fact — this platform is if anything more opaque about its own
 mechanics than KDP is, so this distinction matters even more here. Curly
-quotes and apostrophes, spaced em dashes. A chapter ends with a myths section
-and a one-line sources/disclaimer paragraph.
+quotes and apostrophes, spaced em dashes. A chapter ends with an italic *In short:* line, a myths section,
+and a one-line sources paragraph (no per-chapter disclaimer; the one disclaimer is in Start here).
+
+## Conventions added 2026-10-03
+
+- **Layer line.** Every chapter opens (after the italic standfirst) with `*Layer: … Workbook: … (chapter 15, §N).*`. Layers: Start now / Use after publishing / Set up before monetization / Use after eligibility.
+- **Claim labels.** Official rule / Documented platform guidance / Creator heuristic / Author recommendation. Use the label in the sentence where the kind is not obvious from the citation.
+- **Bold callouts only for real risks:** thresholds, copyright and Content ID, AI voice and likeness, paid promotion and affiliate disclosure, made for kids, country availability, taxes. The thresholds callout text is fixed, word for word: “**Thresholds change.** Before planning around any monetization target, check the live Earn tab in YouTube Studio and YouTube’s official Partner Program eligibility page for your country. This book reflects information checked in October 2026.” It sits at every threshold table.
+- **Examples:** generic people and general kinds of channels only. No personal names, no named creators, none of Lothar’s own titles.
+- **Front matter** lives in `chapters/Start Here.md` and `chapters/Start This Week.md`, listed in `FRONT` in the builder (unnumbered).

@@ -2,6 +2,8 @@
 
 *Status: Strange but solid.*
 
+*Level: Start here.*
+
 *The book closes where science meets story. The next chapters follow the sixteen chapters of a comic detective novel, one relativity concept each; read straight through, they make a short course in relativity.*
 
 Special Relativity starts from two rules, and the first one is almost embarrassingly modest: the laws of physics look the same to anyone moving at a constant velocity. Run any experiment you like in a sealed, smoothly moving lab, and nothing will tell you whether you're "really" sitting still or cruising along at a thousand miles an hour. Fine. Reasonable. Newton would have nodded along.
@@ -22,9 +24,13 @@ You lean on this every time your phone shows you a blue dot on a map. GPS satell
 
 As a bonus, the same machinery resolves the famous Twin Paradox. Send one twin on a fast round trip to a nearby star while the other stays home, and the traveler comes back younger. No clock broke. Elapsed time (proper time) depends on which path you took through spacetime, and the twin who turns around takes the bent path, which simply racks up less time. Note the reversal from road-trip intuition: a scenic detour racks up more distance and burns more fuel than the direct road, but in spacetime it's the straight, unaccelerated path that racks up the most time. Either way, the total depends on the route, along with where you started and finished.
 
+> **In one sentence.** Special relativity starts from the constancy of light's speed, and the straight path through spacetime is the one that collects the most time.
+
 ## 334. Lorentz Finally Gets Involved
 
 *Status: Strange but solid.*
+
+*Level: Builds on earlier chapters: Chapter 333.*
 
 Once you accept that light's speed is non-negotiable, you need some way to translate between what two differently moving observers measure. That's the job of the Lorentz transformation, the mathematical dictionary connecting one observer's space and time coordinates to another's. Skip the symbols; the effect is easy to describe. At everyday speeds the correction it applies is so tiny you'd never notice it. As an object's velocity climbs toward the speed of light, that correction factor grows and grows, eventually dominating everything.
 
@@ -36,9 +42,13 @@ And yet the two observers aren't lost in total disagreement. One combined quanti
 
 The big lesson tucked inside all this: coordinates are descriptions of reality. Changing your coordinate system, switching who's "at rest," never changes what actually happened, only the numbers you use to write it down. And the classic trap: never add velocities the old Newtonian way once you're anywhere near light speed. Ten percent of light speed plus ten percent of light speed comes out at about 19.8 percent. The universe has opinions about that, and Newton's arithmetic isn't one of them.
 
+> **In one sentence.** The Lorentz transformation translates between observers, and velocities near light speed do not simply add.
+
 ## 335. Enter General Relativity
 
 *Status: Settled.*
+
+*Level: Foundation.*
 
 General Relativity begins with what Einstein called the happiest thought of his life: a person in free fall doesn't feel their own weight. The modern retelling puts you in an elevator whose cable has just snapped. As you fall, you float: weightless, no sense of "up" or "down," nothing pressing you against any wall. Now compare that to floating in a spaceship drifting through empty space, light-years from the nearest star. From the inside, with no windows, could you tell the two apart? Einstein's answer, the equivalence principle, is no. Locally, free fall in a gravitational field is indistinguishable from drifting weightlessly with no gravity around at all.
 
@@ -48,9 +58,13 @@ The equivalence principle is strictly local. A small enough freely falling labor
 
 Set four scenarios side by side. In a stationary elevator on the ground, a ball falls to the floor, exactly as expected. In a freely falling elevator, the same ball just floats, motionless relative to you. In an elevator drifting through deep space, far from any gravity, the ball floats too. And in an elevator accelerating upward out in deep space, the ball falls toward the floor, behaving exactly as if gravity had switched on. Pair them up and the principle appears: from inside a windowless box, the stationary elevator and the accelerating one are physically indistinguishable, and so are the freely falling one and the drifting one. That's the whole principle, right there, in an elevator shaft.
 
+> **In one sentence.** The equivalence principle, that free fall feels like no gravity, is the starting point of general relativity.
+
 ## 336. The Apple
 
 *Status: Settled.*
+
+*Level: Builds on earlier chapters: Chapter 335.*
 
 Newton looked at a falling apple and reached for a force: gravity pulls on the apple, the apple falls. Perfectly sensible, and it worked brilliantly for centuries. Einstein looked at the same apple and reframed the whole story: nothing is pulling the apple. It's following its geodesic, the straightest possible path available to it through curved spacetime. An ant walking as straight as it possibly can across a globe still ends up tracing a great circle, simply because the surface is curved beneath its feet. No force required, just geometry doing what geometry does.
 
@@ -62,9 +76,13 @@ The pleasingly backwards part is that, in this framework, standing still on the 
 
 Newton was approximately right, which is a perfectly respectable thing to be. Newtonian gravity remains an excellent, entirely serviceable approximation wherever relativistic corrections are small, which covers nearly everything you'll ever throw, drop, or launch in ordinary life.
 
+> **In one sentence.** Einstein replaced Newton's pull with curved spacetime, and Newton remains an excellent approximation where gravity is weak.
+
 ## 337. Singularities
 
 *Status: Settled; the white holes and wormholes are Speculative.*
+
+*Level: Builds on earlier chapters: Chapter 336.*
 
 People tend to hear "singularity" and picture a place where gravity is simply cranked up to an extreme. The actual definition is more interesting. Think of a road on a map that stops short because the map itself doesn't extend any further, with no wall in sight. That's closer to the real idea than infinitely dense matter crammed into a point.
 
@@ -76,9 +94,13 @@ A singularity signals the limit of General Relativity's authority, and not neces
 
 A few related characters worth knowing. Black holes are regions that hide singularities behind an event horizon, a one-way boundary nothing can cross back out of. White holes are their time-reversed mirror image: objects that can only emit, never absorb, which is a fairly good description of something nobody has ever truly seen. And wormholes are hypothetical tunnels connecting distant regions of spacetime, mathematically permitted, dramatically appealing, and (as the Wormhole entry below explains) considerably harder to build in practice than to write into a plot.
 
+> **In one sentence.** A singularity is where the theory's map stops, not a point of infinite force, and white holes and wormholes remain speculative.
+
 ## 338. Why SR and GR Don't Fight
 
 *Status: Settled.*
+
+*Level: Builds on earlier chapters: Chapter 335.*
 
 Readers sometimes come away thinking Special and General Relativity must be rivals, two competing theories that somehow both got taught in the same course. General Relativity contains Special Relativity. It absorbs it, the way a wide-angle map contains your local street map as one small piece of a bigger picture.
 
@@ -86,9 +108,13 @@ The fit works like this. In any sufficiently small patch of spacetime, a freely 
 
 So if you ever run into an apparent contradiction between the two, some calculation in SR that seems to clash with one in GR, suspect an inconvenient choice of coordinates before you suspect an actual conflict between the theories. Nine times out of ten, that's exactly the case.
 
+> **In one sentence.** General relativity contains special relativity, so apparent conflicts usually come from coordinates.
+
 ## 339. The Door
 
 *Status: Settled.*
+
+*Level: Foundation.*
 
 Here's a deceptively simple scene: a door, and two people standing in the same room, each measuring how far that door is from their own chosen starting point, their zero. One of them gets four meters. The other gets two. Both are correct. Neither is lying. The door hasn't moved an inch.
 
@@ -98,9 +124,13 @@ Once two observers explain how they set up their coordinates, their two descript
 
 The same discipline carries straight over to time. A difference between two time-coordinates, two labels stamped on an event, is not automatically evidence that the observers disagree about which event occurred, or when, in any meaningful physical sense. Sometimes a gap between two numbers is just a gap between two rulers.
 
+> **In one sentence.** Coordinates are labels, so two observers can assign different numbers to the same event without disagreeing about what happened.
+
 ## 340. Relativistic Travel
 
 *Status: Strange but solid.*
+
+*Level: Builds on earlier chapters: Chapter 334.*
 
 Take a spaceship up to a serious fraction of light speed, and the Lorentz factor becomes the single number that governs the whole trip. It's the bridge between proper time, what the ship's own onboard clock ticks through, and the quite different elapsed time that somebody watching from Earth would clock for the same journey. At everyday speeds this factor sits so close to one it's not worth mentioning. Push velocity toward light speed, though, and it grows sharply, producing both time dilation (the ship's clock runs slow, as judged from Earth) and length contraction along the direction of travel (the ship looks squashed, as judged from Earth).
 
@@ -110,9 +140,13 @@ That's exactly what happens to a traveler who heads out at relativistic speed an
 
 Speed is only half the story; depth in a gravitational field counts too. A clock at cruising altitude sits in slightly weaker gravity and runs faster on that account, while the plane's speed slows it, so the net result depends on the flight. In 1971, atomic clocks flown around the world in both directions came home disagreeing with the clocks left on the ground, by the amounts relativity predicted. There is no master clock above the universe for anyone's watch to agree with. Time is real. It is also personal.
 
+> **In one sentence.** At high speed the Lorentz factor sets how much less time the traveler's clock records, and flown atomic clocks have confirmed it.
+
 ## 341. The Cucumber
 
 *Status: Strange but solid.*
+
+*Level: Builds on earlier chapters: Chapter 340.*
 
 Length contraction, stripped of the algebra: an object moving relative to you has its measured length, along its direction of travel only, shrunk by the same factor that stretched out its clock's ticks. The faster it moves relative to you, the shorter it measures.
 
@@ -120,9 +154,13 @@ The part that keeps people up at night for no good reason is this: the object it
 
 Take a perfectly mundane cucumber, twenty centimeters long at rest on your kitchen counter. Now imagine an observer moving relative to it fast enough that their Lorentz factor works out to two. To that observer, your cucumber measures ten centimeters long in the direction it's traveling. Same cucumber. Same salad. Different tape measure, because the tape measure itself is doing something unusual.
 
+> **In one sentence.** A moving object is measured shorter along its motion by the same factor that slows its clock.
+
 ## 342. The Hologram
 
 *Status: Serious but unconfirmed as a claim about our universe.*
+
+*Level: Optional deep dive; builds on Chapter 83.*
 
 This one starts with black holes behaving in a way that should strike you as deeply odd. A black hole's entropy (roughly, a count of how many microscopic internal configurations are compatible with what you can see of it from outside) is proportional to the *area* of its event horizon. Compare an ordinary sphere: double its radius, and its volume multiplies by eight, while its surface area only quadruples. Black holes follow the surface. Their "information budget" scales with an area, and that is a deeply strange thing for a three-dimensional object to do.
 
@@ -134,9 +172,13 @@ This does not mean our actual universe literally is a two-dimensional projection
 
 The narrow result still has a large implication. If a theory with gravity can be rewritten exactly as a theory without it, spacetime and gravity may be emergent, assembled from quantum information and entanglement. Emergent things are still real. Temperature, pressure and sound all emerge from jostling particles, and nobody declines to believe in a fever. Spacetime, and the cucumber from Chapter 341, could be real in exactly that way.
 
+> **In one sentence.** Black-hole entropy grows with area, which suggests space and gravity may emerge from quantum information, an idea not yet confirmed for our universe.
+
 ## 343. The Cinema Interpretation of Everything
 
 *Status: Settled.*
+
+*Level: Builds on earlier chapters: Chapter 339.*
 
 The tangled multiverse of a certain Best Picture winner serves here purely as a metaphor, and explicitly not as any kind of working model of quantum mechanics. Its use is to make one point: what, exactly, can change in a *description* of something without changing the thing itself?
 
@@ -146,9 +188,13 @@ That motivates a distinction worth keeping straight. An "observable" is a quanti
 
 Which sets up the tensor, along with the almost-too-good analogy it deserves: a tensor is what happens when a vector gets promoted and starts having opinions about several directions at once. Informal, sure, but close. A tensor is a mathematical object whose individual components change depending on your coordinate system, while the object itself, and the physics it represents, stays exactly the same.
 
+> **In one sentence.** A tensor's components change with coordinates while the object, and the physics, stays the same.
+
 ## 344. Curved Corridors and Tidal Gravity
 
 *Status: Settled.*
+
+*Level: Builds on earlier chapters: Chapter 335.*
 
 If gravity were perfectly uniform everywhere, the same strength and direction with no variation at all, you could always locally fake it or cancel it just by accelerating your reference frame the right way. That's the whole content of the equivalence principle from Chapter 335. Real gravitational fields vary from place to place, stronger closer to Earth's center and weaker farther out, and that variation is where the interesting physics lives.
 
@@ -156,9 +202,13 @@ Take two objects in free fall side by side, on paths that start out perfectly pa
 
 Physicists call this geodesic deviation, and it's the real, unfakeable signature of spacetime curvature. Uniform gravity can be transformed away with the right choice of accelerating frame; tidal effects, the relative drifting-together or drifting-apart of nearby free-fall paths, cannot. If you want to know whether you're really in curved spacetime, watching two nearby free-falling objects drift relative to each other is the only test that can't be faked.
 
+> **In one sentence.** Uniform gravity can be removed by changing frames, but tidal effects cannot, and they are the true signature of curvature.
+
 ## 345. The Distant Train That Arrived Before It Left
 
 *Status: Strange but solid.*
+
+*Level: Builds on earlier chapters: Chapter 334.*
 
 Here's a puzzle that deserves to be taken seriously: how can an effect apparently arrive before its cause without the universe breaking? Usually it's no causality violation at all. It's a misunderstanding of what "before" means once you take relativity seriously.
 
@@ -168,9 +218,13 @@ The light cone keeps this straight. For any given event, it's the boundary separ
 
 So keep a diagnostic question handy for the next time a "before it left" headline crosses your desk: are the two events in fact causally connected? If there's no way a light signal could have linked them in time, a reversed ordering is just a coordinate artifact, an entirely normal feature of relativity, nothing to see here. If they are causally connected and the order still comes out reversed for some observer, that would be a real problem, and a considerably bigger one.
 
+> **In one sentence.** A reversed order of events is harmless unless the events are causally connected, which relativity never allows.
+
 ## 346. The Dolphin and the Final Geometry
 
 *Status: Settled; the closing section on emergent spacetime is Serious but unconfirmed.*
+
+*Level: Technical; builds on Chapter 343.*
 
 Time to properly meet tensors, after the informal introduction in Chapter 343. A scalar is just one number, a temperature, say. A vector has directional components: a velocity, with both a size and a direction. A tensor goes one step further and describes relationships that involve several directions simultaneously. Its individual components look different depending on which coordinate system you write them in, but the underlying tensor, and the physics it encodes, stays the same. Same trick as always: the description varies, the reality underneath holds still.
 
@@ -182,9 +236,13 @@ The Einstein field equation ties the two together into a single, extraordinarily
 
 Is General Relativity the final word, though? Almost certainly not. It runs into real trouble with quantum-scale phenomena (the interior of black holes, the earliest moments of the universe), and that friction is exactly what drives the search for a theory of quantum gravity. One appealing possibility is that spacetime itself is emergent, arising from something deeper, the way temperature and pressure emerge from the jostling of countless individual molecules without either of those older descriptions being "wrong." Newton wasn't wrong about the apple. He just wasn't looking deep enough. General Relativity may turn out to be in the same boat.
 
+> **In one sentence.** Tensors and the metric are the language of general relativity, which may itself turn out to be an emergent description.
+
 ## 347. The Clock Was Lying, Precisely
 
 *Status: Settled.*
+
+*Level: Builds on earlier chapters: Chapter 339.*
 
 The final entry rests on one precise distinction. Proper time is what a clock measures, ticking along its own worldline, second by real second. An event coordinate is just a label: a number attached to a record, inside whatever description of spacetime somebody happened to be using when they wrote it down.
 
@@ -192,9 +250,13 @@ So when a record turns up showing a time that no watch, anywhere, ever ticked th
 
 This confusion between the description of an event and the event itself is the thread running through the whole course, echoing Chapter 339's door (coordinate labels aren't invariant facts) and Chapter 334's blunt warning that coordinates are descriptions, and reality is something else. Apparently you can build an entire murder mystery out of that one mix-up, if you're patient enough.
 
+> **In one sentence.** Proper time is what a clock measures, and a coordinate time is only a label, a distinction a whole mystery novel can turn on.
+
 ## 348. Relativity Terms Worth Keeping
 
 *Status: Strange but solid; traversable wormholes are Speculative.*
+
+*Level: Foundation.*
 
 **Causal Structure** is the pattern of which events can influence which others. Light cones fix it permanently, unlike a coordinate system, which is entirely up for negotiation.
 
@@ -206,18 +268,25 @@ A **Worldline** is an object's complete path through spacetime: your biography, 
 
 A **Wormhole** is a hypothetical shortcut connecting distant regions of spacetime. The mathematics permits such solutions, but a *traversable* one would need exotic matter that, as far as anyone can tell, probably isn't buildable, which hasn't stopped a single novelist from building one anyway.
 
+> **In one sentence.** Causal structure, proper time, invariants and their companions are the few terms needed to read relativity correctly.
 
 ## 349. Lessons Learned: What Relativity Leaves Open
 
 *Status: Strange but solid; the closing question is open.*
 
+*Level: Start here.*
+
 The cucumber in Chapter 341 was chosen precisely because it is such a boring, unglamorous object. Relativity doesn't care how exciting the thing being measured is. It applies to literally everything, cucumbers very much included.
 
 That leaves one question open. If descriptions can vary so completely while some invariant persists underneath them all, then what, exactly, is reality? Some questions are more useful unanswered.
 
+> **In one sentence.** Relativity applies to everything, and the question of what reality is beneath its invariants stays open.
+
 ## 350. Special Relativity, Introduced as a Murder Investigation
 
 *Status: Strange but solid.*
+
+*Level: Start here.*
 
 *The last chapters are scenes from the novels themselves, in which a character stops the plot to explain the physics, and the plot waits politely.*
 
@@ -241,9 +310,13 @@ The Lorentz transformation refuses to stay in its lane. A shift in position can 
 
 The same theory hides a sharper tool. If explaining a time discrepancy would require two observers to move faster than light relative to each other, that is no parameter you get to fudge until it works. "That," says the detective, "is Special Relativity telling you, quite firmly and without apology, that one of your premises is wrong. The frame, the event, the clock, or the photograph. Pick one."
 
+> **In one sentence.** Told as a murder investigation, special relativity shows that a contradiction about time means one of your premises is wrong.
+
 ## 351. Paintings as Slices of Four Dimensions
 
 *Status: Strange but solid.*
+
+*Level: Builds on earlier chapters: Chapter 350.*
 
 *The Louvre scene: a detective walks a physicist colleague through a gallery to explain spacetime's geometry.*
 
@@ -263,9 +336,13 @@ That sign difference is exactly why spacetime resists being drawn. "We are tryin
 
 The detective tries one last flourish: the people standing in the paintings aren't merely objects occupying space, they are events. That earns a second correction. "A person is a worldline," says the physicist. "A whole string of events. You are being generous to call them one."
 
+> **In one sentence.** A painting is a slice of four-dimensional spacetime, and a person is a whole worldline, not a single event.
+
 ## 352. Light Cones and the Newspaper That Was Both Right and Wrong
 
 *Status: Strange but solid.*
+
+*Level: Builds on earlier chapters: Chapter 351.*
 
 *Later chapters: the Underground train and a very confused newspaper.*
 
@@ -285,9 +362,13 @@ Physics is not breaking down. The same reasoning tames the more serious worry th
 
 One last wrinkle, tossed off almost in passing: a real train moves through curved spacetime, while simple light-cone diagrams assume flat spacetime. So General Relativity is back in the picture, and the flat-spacetime story about light cones may not be the whole story once actual gravity gets involved.
 
+> **In one sentence.** Light cones decide which events can influence which, and real gravity complicates the flat-spacetime picture.
+
 ## 353. Vectors, Tensors, and a Telepathic Dolphin Consultant
 
 *Status: Settled.*
+
+*Level: Technical; builds on Chapter 346.*
 
 *Final act: a telepathic dolphin consultant and the physicist build up the mathematics of General Relativity from scratch for two colleagues.*
 
@@ -311,10 +392,13 @@ So General Relativity contains Special Relativity, valid in every small enough n
 
 The voice in his head insists it is a dolphin. When the physicist finally says, "You're a very clever dolphin," it replies that it reads a great deal. Asked how it learned the physics, it explains that fish are very good listeners. It is a wink at the old science-fiction trope of dolphins as secretly hyper-intelligent observers of human affairs.
 
+> **In one sentence.** The mathematics of general relativity can be built from vectors and tensors step by step, even with a dolphin as consultant.
 
 ## 354. Interpretations on Trial: Formalism, Many-Worlds, and the Wave Function's Ontology
 
 *Status: Settled for the formalism; the interpretations are Serious but unconfirmed.*
+
+*Level: Builds on earlier chapters: Chapter 153.*
 
 *Expert-panel chapter: three physicists give three different answers to the same question.*
 
@@ -335,3 +419,18 @@ He also gets the sharpest line. "The word 'measurement' sounds like a special cl
 The human rebuttal carries just as much weight, and it is the more affecting of the positions. When the many-worlds physicist insists that no one was truly lost, the woman whose sister was erased from the record answers him. "I am here. I am the one who noticed."
 
 However many decohered branches might still "contain" her sister, the branch she is living in has lost her. A many-worlds picture, however mathematically elegant, does not by itself make a real loss un-happen for the person living through it. The physics may be symmetric across branches; the grief, inconveniently, is not. The many-worlds physicist concedes it is the one objection he has never answered well.
+
+> **In one sentence.** The quantum formalism is agreed, its interpretations are not, and many-worlds does not undo a loss for the person who lives it.
+
+## Rules Check: Science in the Novels
+
+*The stories make the rules hard to forget.*
+
+- **Conservation.** The interval between two events is the same for every observer (Chapter 334); that invariance plays the role conservation plays elsewhere.
+- **Symmetry.** The laws are the same in every inertial frame (Chapter 333), and the equivalence principle extends this to free fall (Chapter 335).
+- **Probability.** The quantum trial (Chapter 354) argues about what probability means when every outcome may occur.
+- **Feedback and emergence.** Each novel's plot depends on a light cone: what can affect what (Chapter 352).
+- **Evidence beats intuition.** Clocks run slow (Chapter 340), cucumbers shrink (Chapter 341), and a train can seem to arrive before it left without breaking causality (Chapter 345).
+- **Useful but incomplete models.** Newton is approximately right (Chapter 336), singularities mark where general relativity breaks down (Chapter 337), and spacetime may itself be emergent (Chapter 346).
+
+**Going deeper.** For relativity told as fiction at full length, see the Relativistic Investigation Bureau novels, The Murder That Hadn't Happened Yet and The Warning That Was Sent Too Late.
