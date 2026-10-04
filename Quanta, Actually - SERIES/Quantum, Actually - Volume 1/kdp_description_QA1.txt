@@ -1,6 +1,6 @@
 Nature stops behaving the way you would expect — and this book is the story of exactly where, why, and what physicists actually did about it.
 
-THE QUANTUM WORLD takes you from the moment classical physics broke (a light bulb, a stubborn equation, and a very confused Max Planck) to the technologies being built on that break right now: quantum cryptography that can catch an eavesdropper in the act, and quantum computers that are, slowly and noisily, starting to work.
+QUANTUM, ACTUALLY takes you from the moment classical physics broke (a light bulb, a stubborn equation, and a very confused Max Planck) to the technologies being built on that break right now: quantum cryptography that can catch an eavesdropper in the act, and quantum computers that are, slowly and noisily, starting to work.
 
 Along the way:
 
@@ -12,7 +12,7 @@ Along the way:
 
 This is not a textbook, and it is not a puff piece. Claims are labeled for what they are — established fact, well-tested theory, or genuinely open question — because the honest answer is more interesting than a confident wrong one. Every chapter opens with the question it answers, objections a careful reader would raise get answered in plain Q&A boxes, and each Part ends with the common questions.
 
-More than thirty illustrations and diagrams. Three appendices, a working glossary, a myth-busting cheat sheet for the quantum claims you hear at parties, and the key equations decoded in plain English.
+37 illustrations and diagrams. Three appendices, a working glossary, a myth-busting cheat sheet for the quantum claims you hear at parties, and the key equations decoded in plain English.
 
 Some of this is better felt than read, so the book comes with nine free interactive simulations, linked where they matter. No login. No app.
 
@@ -28,6 +28,6 @@ Some of this is better felt than read, so the book comes with nine free interact
 
 If you want the real ideas behind quantum mechanics — not dumbed down, just made clear — this is the map, and one road through it.
 
-THE QUANTUM WORLD is Volume 1 of the QUANTA, ACTUALLY series. Volume 2, the COMPLETE QUANTUM ELECTRODYNAMICS COURSE, does the full calculation. Read this one first if you want the whole landscape. It also reads on its own, and the PHYSICS, ACTUALLY series covers the classical, relativistic, and particle-physics ground around it.
+QUANTUM, ACTUALLY — VOLUME 1: QUESTIONS AND ANSWERS FROM THE DOUBLE SLIT TO THE SUPERCONDUCTING WIRE is the first volume of QUANTUM, ACTUALLY. Volume 2, A QED COURSE, does the full calculation. Read this one first if you want the whole landscape. It also reads on its own, and it sits in the same Actually family as PHYSICS, ACTUALLY, LIFE, ACTUALLY, and MATH, ACTUALLY, which cover the classical, relativistic, particle-physics, biological, and mathematical ground around it.
 
 Reality might be the most convincing picture ever assembled. Whether the last layer is fields, information, or something we do not have a name for yet, the mystery is the point. Question the picture — including this one.

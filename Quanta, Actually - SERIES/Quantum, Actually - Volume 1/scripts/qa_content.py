@@ -12,7 +12,7 @@ Q_PART1={
 Q_PART2={
 11:"If electromagnetism is about forces, why does quantum mechanics keep talking about phase instead?",
 12:"Can a magnetic field an electron never touches still change what the electron does?",
-13:"What happens when billions of electrons start sharing a single phase?",
+13:"What happens when an enormous number of electrons start sharing a single phase?",
 14:"What does an electron's momentum mean once a potential is present, and where does the potential itself come from?",
 15:"What is a photon, and what does it mean to say that an electron takes every path?",
 16:"If the story starts with phase and potential, where did the electric and magnetic fields go?",
@@ -45,7 +45,7 @@ COMMON1=[
 ("Why is QED called the best-tested theory in science?",
  "Because its predictions for quantities such as the electron's magnetic moment agree with measurement to roughly one part in a trillion. Few theories in any science have been checked so hard. Chapter 7 told the story in Feynman's arrows and diagrams; Part Two shows where that precision comes from."),
 ("Will quantum computers break all encryption?",
- "No. A large, error-corrected quantum computer could break today's most widely used public-key methods, such as RSA. It would not break everything: new post-quantum methods have already been standardized, and quantum key distribution rests on physics rather than on hard mathematics. Today's machines are still far too small and noisy for the attack."),
+ "No. A large, error-corrected quantum computer could break today's most widely used public-key methods, such as RSA and elliptic-curve cryptography. It would not break everything: in August 2024 NIST published the first post-quantum standards (FIPS 203, 204, and 205), built on mathematical problems that no known quantum algorithm solves efficiently, and quantum key distribution rests on physics rather than on hard mathematics. Today's machines are still far too small and noisy for the attack."),
 ]
 COMMON2=[
 ("Do I need Part Two to understand Part One?",
@@ -53,13 +53,13 @@ COMMON2=[
 ("Is Mead's collective electrodynamics a replacement for QED?",
  "No. It is a powerful way of looking at coherent systems, superconductors above all, where quantum phase becomes something you can measure. QED remains the theory of photons, particle creation, radiative corrections, and precision tests. Part Two holds the two in one frame without pretending they were ever the same theory."),
 ("Why start with phase and potential instead of fields?",
- "Because quantum mechanics couples charged matter to the potential directly, and the potential shows up in experiments such as Aharonov–Bohm even where the field is zero. Starting there, the fields and Maxwell's equations come out as consequences rather than being assumed. Maxwell's equations are not the casualty of telling the story backward."),
+ "Because quantum mechanics couples charged matter to the potential directly, and the potential shows up in experiments such as Aharonov–Bohm even where the field is zero. Starting there, the fields and Maxwell's equations come out as consequences rather than being assumed, and nothing in Maxwell's equations is lost by telling the story in this order."),
 ("What is a superconductor, in this book's language?",
- "A material in which an enormous number of paired electrons share one coherent quantum phase. That phase can be read with a voltmeter, trapped in a loop in whole units of h/2e, and engineered into circuits. It is the place where quantum phase becomes something you can hold in your hand."),
+ "A material in which an enormous number of paired electrons share one coherent quantum phase. A steady voltage across a thin barrier makes the phase difference wind at a rate fixed by 2e/h, so exactly that standards laboratories use it to realize the volt. The same phase traps magnetic flux in a loop in whole units of h/2e, and it can be engineered into circuits. It is the place where quantum phase becomes something you can hold in your hand."),
 ("Is the wavy line in a Feynman diagram a real photon flying between two electrons?",
- "Not literally. An internal line is part of an amplitude, a term in a calculation, not a detectable particle in flight. Diagrams are an extraordinarily good bookkeeping of what the theory predicts. Like every vivid picture in this book, they come with their own correction attached, as Feynman himself kept insisting."),
+ "Not literally. An internal line is part of an amplitude, a term in a calculation, not a detectable particle in flight. Diagrams are an extraordinarily good bookkeeping of what the theory predicts. Like every vivid picture in this book, they come with their own correction attached."),
 ("Where can I go from here?",
- "The Complete Quantum Electrodynamics Course, Volume 2 of the Quanta, Actually series, does the calculation that Part Two describes: from complex numbers and the Dirac equation to Feynman rules, renormalization, the electron's anomalous magnetic moment, and the Lamb shift, with every step worked through rather than described."),
+ "Volume 2 of Quantum, Actually, *A QED Course*, does the calculation that Part Two describes: from complex numbers and the Dirac equation to Feynman rules, renormalization, the electron's anomalous magnetic moment, and the Lamb shift, with every step worked through rather than described."),
 ]
 APP2=[
 ("So have we reached the end?",
@@ -69,7 +69,7 @@ APP2=[
 ("So after all these chapters, what is the universe?",
  "We do not know, and we know that more precisely than anyone did a century ago. The mystery has not shrunk. It has become better organized: a vague mystery has been replaced by precise questions, which is what science does."),
 ("Will anything look different tomorrow?",
- "Quite a lot. A laser pointer, a padlock nobody can pick, a chip humming away in a very cold refrigerator, a superconducting wire carrying current without loss: each is quantum physics at work, and each looks a little different once you know what is going on inside it."),
+ "Quite a lot. A laser pointer, a lock whose security rests on physics rather than on hard mathematics, a chip humming away in a very cold refrigerator, a superconducting wire carrying current without loss: each is quantum physics at work, and each looks a little different once you know what is going on inside it."),
 ("What is the lesson above everything else?",
  "The universe is under no obligation to be intuitive, or simple, or to fit anyone's favorite theory. It does keep giving us fascinating things to argue about, and that is the reason to keep doing physics. Go outside, look at the sky, ask questions, and don't believe everything you hear."),
 ]
