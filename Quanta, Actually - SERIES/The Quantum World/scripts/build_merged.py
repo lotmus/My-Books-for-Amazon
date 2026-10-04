@@ -36,7 +36,7 @@ def idx(pred, start=0, end=None):
 def is_style(el, s):
     v = xp(el, './w:pPr/w:pStyle/@w:val'); return bool(v) and v[0] == s
 def h1(text):
-    return lambda el: is_style(el, 'Heading1') and txt(el).strip() == text
+    return lambda el: is_style(el, 'Heading1') and txt(el).strip().casefold() == text.casefold()
 def starts(text):
     return lambda el: txt(el).strip().startswith(text)
 def bm_idx(name):
@@ -423,7 +423,7 @@ for t in xp(els()[i], './/w:t'):
         t.text = t.text.replace('This book: the survey, from the break with classical physics to quantum fields, QED, cryptography, and computing.',
             'This book: in Part One, the survey, from the break with classical physics to quantum fields, QED, cryptography, and computing; in Part Two, one road through it, electromagnetism read outward from quantum phase and the potential.')
 assert 'Part Two, one road' in txt(els()[i]), txt(els()[i])
-i = idx(starts('Near the back, Quantum mechanics at a party'))
+i = idx(starts('Near the back, Quantum'))
 insert_at(i + 1, [empty(), body_para('The book comes in two Parts. Part One, The Map, is the survey. Part Two, One Road Through It, follows a single question, what the electromagnetic field really is, from the phase of one electron to a superconducting circuit. Part Two is a step up in density, and Chapter 10 is the bridge: it hands over the small toolkit the rest of Part Two needs.'),
                   empty(), body_para('Every chapter opens with the question it answers, and “Questions This Book Answers,” just after the contents, lists them all. Boxes headed QUESTION AND ANSWER take an objection a careful reader would raise and answer it directly, and each Part ends with a box of common questions.')])
 i = idx(lambda el: is_style(el, 'Heading2') and txt(el).strip() == '5. Turn weirdness into information')
@@ -432,8 +432,9 @@ h2tpl = copy.deepcopy(els()[i - 1]); ntpl = copy.deepcopy(els()[i])
 insert_at(i + 1, [retext(h2tpl, '6. Take one road through it'),
                   retext(ntpl, 'Part Two follows one question, what the electromagnetic field is, from an electron’s phase to a superconducting circuit.')])
 i = idx(starts('6. Name the collision'))
-for t in xp(els()[i], './/w:t'):
-    if '6. Name' in t.text: t.text = t.text.replace('6. Name', '7. Name')
+ts = xp(els()[i], './/w:t')
+assert ts[0].text.startswith('6'), ts[0].text
+ts[0].text = '7' + ts[0].text[1:]
 i = idx(starts('The Alice and Bob dialogue in Appendix 2 is explicitly fictional'))
 cut(i, i + 1, 'The Alice and Bob coda', 'The Quantum World, front matter "About this book"', 'Line about the fictional dialogue')
 insert_at(i, [body_para('Appendix 2 closes the book with a last round of questions, asked and answered plainly.')])
@@ -459,8 +460,8 @@ for n in range(10, 32): L.append(toc_entry(f'Chapter {n} — {titles[n]}', f'qch
 for a, lab in [('appendix_1', 'Appendix 1'), ('appendix_2', 'Appendix 2'), ('appendix_3', 'Appendix 3')]:
     L.append(toc_entry(f'{lab} — ' + txt(els()[bm_idx(a)]).strip(), a))
 L.append(toc_entry('Epilogue — ' + txt(els()[bm_idx('epilogue')]).strip(), 'epilogue'))
-for a, lab in [('glossary', 'Glossary'), ('translate_field', 'Translate this to your field'), ('party_cheatsheet', 'Quantum mechanics at a party: a myth-busting cheat sheet'),
-               ('math_appendix', 'The equations, decoded'), ('notes_sources', 'Notes on Sources'), ('further_reading', 'Further reading'), ('bibliography', 'Bibliography'), ('about_author', 'About the author')]:
+for a, lab in [('glossary', 'Glossary'), ('translate_field', 'Translate This to Your Field'), ('party_cheatsheet', 'Quantum Mechanics at a Party: A Myth-Busting Cheat Sheet'),
+               ('math_appendix', 'The Equations, Decoded'), ('notes_sources', 'Notes on Sources'), ('further_reading', 'Further Reading'), ('bibliography', 'Bibliography'), ('about_author', 'About the Author')]:
     L.append(toc_entry(lab, a))
 insert_at(first, L)
 
