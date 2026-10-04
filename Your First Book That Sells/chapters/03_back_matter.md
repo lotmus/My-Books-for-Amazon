@@ -60,6 +60,7 @@ Platform rules on Amazon.com, checked 3 October 2026. Check the live pages befor
 | Paperback, Amazon | 60% of list price at $9.99 and above, 50% below, minus printing cost. |
 | Paperback, Expanded Distribution | 40% of list price, minus printing cost. |
 | Hardcover, Amazon | 60% at $9.99 and above, 50% below, minus printing cost. |
+| Hardcover, Expanded Distribution | Not offered; hardcovers sell only directly through Amazon. |
 | Printing cost | Depends on marketplace, page count, and ink; for hardcover, also trim size. Use KDP’s calculator. |
 | Payment | About 60 days after month end (90 for Expanded Distribution) [20]. |
 
@@ -74,7 +75,7 @@ The two formulas worth remembering:
 
 KDP does not require you to buy an ISBN. A Kindle ebook needs none; Amazon identifies it with an ASIN. A paperback or hardcover needs an ISBN, and KDP can assign one free when you publish. Anyone charging a fee “so you can get an ISBN and publish” is billing you for something KDP gives away (Chapter 28).
 
-A free KDP ISBN lists KDP’s imprint as publisher and can be used only for KDP print. Buying your own, from [Bowker](https://www.myidentifiers.com/identify-protect-your-book/isbn/buy-isbn) in the United States or your country’s ISBN agency elsewhere, lists you or your imprint as publisher and lets you print the same edition elsewhere. For a book that stays with KDP print, the free ISBN is a reasonable choice.
+A free KDP ISBN lists the publisher as “Independently Published” and can be used only for KDP print. Buying your own, from [Bowker](https://www.myidentifiers.com/identify-protect-your-book/isbn/buy-isbn) in the United States or your country’s ISBN agency elsewhere, lists you or your imprint as publisher and lets you print the same edition elsewhere. For a book that stays with KDP print, the free ISBN is a reasonable choice.
 
 ### Wide distribution
 
@@ -111,7 +112,7 @@ Each idea gives the smallest version and the sign to stop. Keeps are the Chapter
 
 6. **Write the next book while this one is warm.** Smallest version: one sentence at the end of book one saying who book two is for. Stop if that sentence describes book one again.
 7. **Use a series page.** Smallest version: two finished books, each linking to the other. Stop if a reader of book one would not want book two next.
-8. **Sell a box set after three books.** Three sales at $3.99 keep about $7.74; a set at $7.99 keeps about $5.38. Smallest version: three finished files and that sum. Stop if the set’s keep is one you would not accept.
+8. **Sell a box set after three books.** Three sales at $3.99 keep about $7.74; a set at $7.99 keeps about $5.38 — less, but only for a reader who would have bought all three anyway. A box set’s real job is the reader who would have bought none of them at full price. Smallest version: three finished files and that sum. Stop if the set’s keep is one you would not accept.
 9. **Open a pre-order you can finish.** Rules in Chapter 24 [14]. Smallest version: a date and a file that is already done. Stop if the file is not done.
 10. **Write one seasonal short.** Smallest version: the season and the date it must be on sale. Stop if that date has passed.
 11. **Publish a second edition for a real reason.** Smallest version: three fixes a past reader would be glad to hear about. Stop if you cannot name three.
@@ -172,6 +173,8 @@ KDP Select. A 90-day, ebook-only exclusive enrolment that adds Kindle Unlimited 
 Seventy percent band. On Amazon.com, list prices from $2.99 to $12.99 where the 70 percent royalty can apply. The top was $9.99 until 7 July 2026. Chapter 3.
 
 Thumbnail test. Whether the title can be read when the cover is shown tiny. Chapter 5.
+
+VAT. Value-added tax, charged on ebook sales in some marketplaces outside the United States and subtracted before the royalty percentage is applied. Chapter 3.
 
 # Notes
 

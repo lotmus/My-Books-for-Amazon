@@ -9,7 +9,7 @@ Updated 3 October 2026. Platform facts were checked against KDP Help on 3 Octobe
 - **Author (cover, title page, KDP files):** Kevin Drew Peters
 - **Series:** none
 - **Edition:** Updated 3 October 2026
-- **Length:** about 17,800 words; 32 chapters in eight parts, four appendices, glossary, 30 dated notes, 12 figures with alt text
+- **Length:** about 17,200 words (per `scripts/build_master.py`’s own count on the current source — rebuild and recheck if the chapters change); 32 chapters in eight parts, four appendices, glossary, 30 dated notes, 12 figures with alt text
 - **Master file:** `Your First Book That Sells.docx` (book root). Docx only.
 
 ## Subtitle options (decision pending; the book and this listing still use the current subtitle)
@@ -27,7 +27,7 @@ If the subtitle changes, update `SUBTITLE` in `scripts/build_master.py`, line 3 
 
 You finished the book. Now you need to know what one sale actually leaves you.
 
-Your First Book That Sells is for first-time and early independent authors publishing a serious ebook on Amazon. Part I is the short road: one action per chapter, following one first-time author and her mystery novel through a month of real decisions, ending with seven things to do this week. Parts II to VIII are the full guide, with the arithmetic shown every time.
+Your First Book That Sells is for first-time and early independent authors publishing a serious ebook on Amazon. Part I is the short road: one action per chapter, following one first-time author and her mystery novel through a month of decisions, ending with seven things to do this week. Parts II to VIII are the full guide, with the arithmetic shown every time.
 
 Inside you will learn how to:
 
@@ -42,7 +42,7 @@ Inside you will learn how to:
 • Avoid vanity presses, fake reviews, and copyright traps
 • Plan book two and a first year you can actually keep to
 
-Every claim is labelled: a platform rule with a dated note to the official page, a worked example, field practice, or a recommendation you can test yourself.
+Every claim is labelled: a platform rule with a dated note to the official page, a worked example, field practice, a recommendation, or a question you can test yourself.
 
 This book is not an advanced Amazon Ads manual, a writing-craft course, a guide to selling on every other store, or a system for publishing at high volume with AI. It promises no income. It shows you the arithmetic so that every decision you make can be checked.
 
@@ -55,7 +55,7 @@ If you want a first book that pays you honestly, start here.
 3. how to get honest reviews for authors
 4. marketing for new authors
 5. launch plan checklist for a debut
-6. amazon ads for authors on a budget
+6. advertising a book on a budget
 7. publishing a second novel or guide
 
 Keyword rules followed: no “Kindle Unlimited”, “KDP Select”, or other program names; no words already in the title or subtitle where avoidable; no other authors’ names or claims about sales rank.
@@ -81,7 +81,7 @@ Answer KDP’s AI-content question for what was actually done. If an AI tool cre
 
 - 70% ebook band on Amazon.com: $2.99–$12.99 (top was $9.99 until 7 July 2026); ebook must be at least 20% below print list price; existing books are not switched automatically. Delivery $0.15/MB (US).
 - 35% minimum price depends on file size: $0.99 (<3 MB), $1.99 (3–10 MB), $2.99 (≥10 MB); maximum $200.
-- Paperback and hardcover: 60% at $9.99 and up on Amazon.com, 50% below, minus printing cost; Expanded Distribution 40%.
+- Paperback and hardcover: 60% at $9.99 and up on Amazon.com, 50% below, minus printing cost. Expanded Distribution: 40% for paperbacks; not offered for hardcovers.
 - KDP Select: 90-day exclusive ebook terms, auto-renewing; KU pays from a monthly fund by KENP read (max 3,000 pages per customer per title); July 2026 fund $67.6 million. Amazon publishes no fixed per-page rate. Per term, up to 5 free days or one Countdown Deal.
 - Pre-orders: up to 18 months ahead for books created from 2 September 2026; final file at least 72 hours before release; maximum 10 active.
 - New titles: two per format per week (reset Sunday midnight UTC), from 21 September 2026.
