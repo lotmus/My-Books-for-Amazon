@@ -208,7 +208,7 @@ These are your words, not a script for a viewer’s comment and not a fake testi
 
 **What you do not say.** Do not say a video will change their life, guarantee results, or “blow up” their own channel. Do not ask viewers to comment a keyword to inflate the comment count. Do not stack subscribe, like, membership, and sponsor into one closing breath. One ask. Do not paste a review you wrote yourself. If a viewer tells you a result, ask before you quote them, and do not enlarge the result.
 
-*In short:* Write the number down. Keep each stream on its own line. Change one thing. Look again on the date you set. Paste the words, replace every bracket, and delete any line you cannot say out loud.
+*In short:* Write the number down. Keep the streams on separate lines. Adjust one variable at a time. Look again on the date you set. Paste the words, replace every bracket, and delete any line you cannot say out loud.
 
 ## X. Claims that do not survive the sheet
 
