@@ -1853,3 +1853,22 @@ The review fix is in the live Kindle file. Do not restore the previous wording f
 - Pike apologises ("sorry"), counts exactly ("Nine thousand two hundred and six rows"), and times her own work ("The formula took me four minutes"). Her mum's kettle has two receipts. She asks for a copy of anything she signs. This seeds the Book 2 ledger, so keep it.
 - Chapters 11 to 13 are about 8% shorter (12,752 to 11,788 words). The Bellboy corridor word in Chapter 13 has been cut, and Lolly now writes her note "against the corridor wall". Do not put the repeated recaps back, or the second explanation of the Inquiry.
 - Eilstein's arrival keeps "No relation." Beatrix's reason to work with the vampire is now one speech that ends "So. We work with the vampire."
+
+
+## Round 5: continuity and accuracy (3 Oct 2026)
+
+- Ch6: "around Tuesday" became "around the airing cupboard" (Tuesday predated the story).
+- Lolly's career arithmetic fixed: ten years at the bench, then seven months on the complaints desk (Ch15 and Epilogue no longer say she wasted ten years at the desk). Gideon's "three years reading requisition forms" is now three years at Halloran's packing the Ministry's relay orders.
+- One overused Gideon clumsiness gag (the filing-cabinet walk) cut.
+- Ch16: the junction box is found "on the Thursday, as promised".
+- Lessons intro: the quotation once given to "a Californian lecturer" is now "attributed to several famous physicists and reliably traced to none of them".
+- Lesson 6: the tunnelling derivation gives the Hawking temperature "at leading order"; Unruh works "without needing a black hole" (the accelerating observer still has her own horizon). Same in What sticks.
+- Also-by: Quanta, Actually retired; Quantum, Actually Vol 1 and Vol 2 listed. Straight quotes in the list fixed.
+- Counts: 3,945 paragraphs, 91,475 words (91,405 before); 281 bookmarks, 303 links, 0 broken; TOC matches headings.
+
+## Round 6 (2026-10-03, full-read continuity pass)
+- Timeline: chapters 1–8 happen on one Thursday. Later references now say "yesterday" or "since yesterday morning", not "on Thursday" or "all week".
+- Seasons: the story runs from autumn to November. The office daffodils are silk, and the late light is October light.
+- Eilstein cannot endorse or dismiss Many-Worlds from experience (Everett 1957 came after his 1955 death). His line now reads "being dead has not improved my opinion". The Feynman reference is also worded so the timing works.
+- 4C origin: some singularities "were simply found, a good deal older than anybody's paperwork" (Fainrose, ch6). von Wittenberg's black hole is "small", not "engineered". This matches the 1961 Page time in Book 2.
+- Line fixes in ch4–13: Venn's "Miss—"; the mirror story; the wallpaper colour; notebook word counts; the CHSH "four combinations"; de Broccoli's greeting; one duplicate sentence removed; Dev's fiver is "three years", not a second "since 2019".
