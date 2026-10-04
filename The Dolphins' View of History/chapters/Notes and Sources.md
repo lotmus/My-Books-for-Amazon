@@ -302,7 +302,7 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Brazil’s abolition of slavery in 1888.* Conrad, Robert Edgar. The Destruction of Brazilian Slavery, 1850–1888. Berkeley: University of California Press, 1972.
 
-*Brazil’s share of the Atlantic slave trade.* SlaveVoyages: Trans-Atlantic Slave Trade Database. https://www.slavevoyages.org (consulted 2026).
+*Brazil’s share of the Atlantic slave trade.* The voyages database cited under the Ships, Gunpowder, and Gold chapter, filtered to disembarkations in Brazil.
 
 *The Monroe Doctrine and the United States in the hemisphere.* Smith, Peter H. Talons of the Eagle: Latin America, the United States, and the World. New York: Oxford University Press, 1996.
 

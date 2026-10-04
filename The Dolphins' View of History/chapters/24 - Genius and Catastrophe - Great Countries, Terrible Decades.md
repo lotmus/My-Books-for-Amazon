@@ -34,7 +34,7 @@ After the war, Germany rebuilt as a democratic nation and became a strong advoca
 
 Others recovered within a decade or two. Some took until the 1970s. A few are, by any fair reading, still working on it.
 
-The file also has thin pages, and dolphin historians check those as carefully as the full ones. Scandinavia spent the twentieth century with the same offer on the table, order, pride, and someone to blame, and mostly declined it. It was not innocent. Sweden stayed neutral in the Second World War and sold iron ore to Germany, and sterilized tens of thousands of its own citizens under a public-health program that ran into the 1970s; Norway produced Quisling, whose name became a word. Denmark, occupied, got most of its Jews to Sweden in a few nights in October 1943. A thin page in a thick file is an achievement, and it was not an accident.
+The file also has thin pages, and dolphin historians check those as carefully as the full ones. Scandinavia spent the twentieth century with the same offer on the table, and mostly declined it. It was not innocent. Sweden stayed neutral in the Second World War and sold iron ore to Germany, and sterilized tens of thousands of its own citizens under a public-health program that ran into the 1970s; Norway produced Quisling, whose name became a word. Denmark, occupied, got most of its Jews to Sweden in a few nights in October 1943. A thin page in a thick file is an achievement, and it was not an accident.
 
 **Dolphin verdict:**
 

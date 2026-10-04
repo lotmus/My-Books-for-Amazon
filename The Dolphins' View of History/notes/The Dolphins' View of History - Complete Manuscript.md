@@ -126,7 +126,7 @@ None of which stops dolphins from doing, now and then, the opposite as well: hel
 
 Here is the thesis the rest of the book keeps testing on the one species that did get the hands. A hand turns an idea into an object, and an object outlives the person who had the idea. The next generation does not start from nothing. It picks up the tool, improves it, and passes it on. Anthropologists call this cumulative culture and compare it to a ratchet: it turns one way and rarely slips back. A dolphin calf inherits its mother's skills. A human child inherits a civilization's tools. Capability, in this species, compounds.
 
-Wisdom does not compound the same way. It cannot be stored in a tool or inherited with one. Each generation has to learn it again, mostly from its own mistakes and sometimes from its parents' graves. A big brain guarantees cleverness. It does not guarantee wisdom. The two arrive on separate schedules, and the rest of this book is the record of how far apart those schedules drifted.
+Wisdom does not compound the same way. It cannot be stored in a tool or inherited with one. Each generation has to learn it again, mostly from its own mistakes and sometimes from its parents' graves. A big brain guarantees cleverness. It does not guarantee wisdom. The two arrive on separate schedules, and the chapters that follow trace how far apart those schedules drifted.
 
 The dolphins did not get to build cities, wage wars, or write books.
 
@@ -272,7 +272,7 @@ What farming lacked in individual health it made up in sheer output. A patch of 
 
 *“This was the book's first trade of quality for quantity,” dolphin historians noted. “It would not be the last.”*
 
-**From the minutes of the Society:**
+**From the minutes of the Society, on the question of farming:**
 
 *Motion: that farming was a mistake. For: eleven pods. Against: nine. Abstaining: four, on the grounds that without farming there would be no fishing fleets, and the Society has never decided how it feels about fishing fleets. Human scholars divide the same way. The geographer Jared Diamond called agriculture “the worst mistake in the history of the human race” in a 1987 essay; most archaeologists consider the verdict too sweeping, since the same fields fed the cities, the writing, and the medicine that later chapters describe. The motion was carried, narrowly, by the half of the quorum that was awake.*
 
@@ -538,7 +538,7 @@ One mathematician, Anatoly Fomenko, argued that large parts of ancient history h
 
 Most historians rejected this idea and pointed to archaeological evidence, written records, radiocarbon dating, and other methods that support the conventional timeline.
 
-**From the minutes of the Society:**
+**From the minutes of the Society, on the question of the Dark Ages:**
 
 *Motion to adopt Fomenko's chronology: defeated, unanimously, by both halves of every brain present. Motion to retire the phrase “Dark Ages”: carried, with one abstention from a member who wished it recorded that the North Sea in the ninth century was, in fact, quite dark.*
 
@@ -686,9 +686,9 @@ The 1789 Declaration of the Rights of Man and of the Citizen proclaimed those ri
 
 Industry arrived on a separate but overlapping timeline. Steam power, made practical by Thomas Newcomen's pumping engine of 1712 and efficient by James Watt's improved engine, patented in 1769, uncoupled work from muscle, wind, and water for the first time in human history, and by the early 1800s it was running textile mills, and by mid-century, railroads. Output per worker rose by multiples that no previous technology, including the plow and the domesticated ox, had ever delivered.
 
-This is where the ratchet from the first chapter acquires an engine. For a million years the stored know-how of the species had been multiplied by muscle, its own or an animal's. Coal multiplied it by sunlight buried three hundred million years earlier. Wisdom had no equivalent fuel. Factory laws, public sanitation, and limits on child labor all came eventually, but each had to be argued for, one parliament and one generation at a time, after the damage was done.
+The ratchet found an engine. For a million years the stored know-how of the species had been multiplied by muscle, its own or an animal's. Coal multiplied it by sunlight buried three hundred million years earlier. Wisdom had no equivalent fuel. Factory laws, public sanitation, and limits on child labor all came eventually, but each had to be argued for, one parliament and one generation at a time, after the damage was done.
 
-The other side of the ledger was immediate, and dolphin historians insist on stating it beside the productivity gains, not tucked in afterward: children as young as five or six worked textile mill floors on twelve-hour shifts; new industrial cities like Manchester grew so fast that sanitation and housing never caught up, and cholera outbreaks followed accordingly.
+The other side of the ledger was immediate, and dolphin historians set it beside the productivity gains, not tucked in afterward: children as young as five or six worked textile mill floors on twelve-hour shifts; new industrial cities like Manchester grew so fast that sanitation and housing never caught up, and cholera outbreaks followed accordingly.
 
 *Professor Click-Click-Whoosh, in the margin beside Manchester: “Also raining.”*
 
@@ -868,7 +868,7 @@ After the war, Germany rebuilt as a democratic nation and became a strong advoca
 
 Others recovered within a decade or two. Some took until the 1970s. A few are, by any fair reading, still working on it.
 
-The file also has thin pages, and dolphin historians check those as carefully as the full ones. Scandinavia spent the twentieth century with the same offer on the table, order, pride, and someone to blame, and mostly declined it. It was not innocent. Sweden stayed neutral in the Second World War and sold iron ore to Germany, and sterilized tens of thousands of its own citizens under a public-health program that ran into the 1970s; Norway produced Quisling, whose name became a word. Denmark, occupied, got most of its Jews to Sweden in a few nights in October 1943. A thin page in a thick file is an achievement, and it was not an accident.
+The file also has thin pages, and dolphin historians check those as carefully as the full ones. Scandinavia spent the twentieth century with the same offer on the table, and mostly declined it. It was not innocent. Sweden stayed neutral in the Second World War and sold iron ore to Germany, and sterilized tens of thousands of its own citizens under a public-health program that ran into the 1970s; Norway produced Quisling, whose name became a word. Denmark, occupied, got most of its Jews to Sweden in a few nights in October 1943. A thin page in a thick file is an achievement, and it was not an accident.
 
 **Dolphin verdict:**
 
@@ -1374,7 +1374,7 @@ The Soviet Union's 1991 dissolution produced a mood, widely shared among Western
 
 A number of countries that had appeared to be consolidating democratic institutions in the 1990s and 2000s instead saw those institutions weakened from within during the 2010s and 20s: independent courts and press curtailed, elections held but their fairness eroded, and power concentrated in ways that stopped well short of the outright dictatorships examined earlier in this book but moved unmistakably in that direction. Political scientists gave this pattern a name, democratic backsliding, distinct from the sudden coups that had ended democracies in earlier chapters.
 
-Freedom House, the organization most often cited for these annual surveys, recorded a net decline in global political rights and civil liberties every single year from 2006 onward, a streak unbroken for close to two decades by the time this book was written — long enough that an entire generation of political scientists has spent its career studying backsliding instead of the steady consolidation the 1990s mood assumed would be the field's real subject.
+Freedom House, the organization most often cited for these annual surveys, recorded a net decline in global political rights and civil liberties every single year from 2006 onward, a streak unbroken for close to two decades at the time of writing — long enough that an entire generation of political scientists has spent its career studying backsliding instead of the steady consolidation the 1990s mood assumed would be the field's real subject.
 
 Hungary supplied the clearest self-description of the trend. Viktor Orbán, in power since 2010, announced in a 2014 speech that he intended to build an “illiberal state” within the European Union, a label most of the leaders this chapter describes have preferred not to apply to themselves.
 
@@ -1834,7 +1834,7 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Brazil’s abolition of slavery in 1888.* Conrad, Robert Edgar. The Destruction of Brazilian Slavery, 1850–1888. Berkeley: University of California Press, 1972.
 
-*Brazil’s share of the Atlantic slave trade.* SlaveVoyages: Trans-Atlantic Slave Trade Database. https://www.slavevoyages.org (consulted 2026).
+*Brazil’s share of the Atlantic slave trade.* The voyages database cited under the Ships, Gunpowder, and Gold chapter, filtered to disembarkations in Brazil.
 
 *The Monroe Doctrine and the United States in the hemisphere.* Smith, Peter H. Talons of the Eagle: Latin America, the United States, and the World. New York: Oxford University Press, 1996.
 
