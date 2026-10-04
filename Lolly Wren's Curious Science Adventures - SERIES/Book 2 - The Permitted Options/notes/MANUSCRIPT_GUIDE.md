@@ -519,3 +519,26 @@ Done by the round-5/6 revision agent on top of the uncommitted round-5 lectures/
 - **"Because":** 48 of the weakest narration uses rewritten (about a third of the ~150 narration uses); the narrator's comic triples are kept.
 - **Humour:** Mrs Kind's Lourdes/Benidorm air (Nashville); Miss Pike boxing "eight times in nine"; Stadthof "promised no more mathematics after the Braid" and the window-sill key.
 - **Continuity:** Nashville's "seven weeks early" is now "five weeks" (matching paragraph 11 "five weeks ago").
+
+## Round 10 (2026-10-03, tightening, copyedit and opening pass)
+- **Master:** 83,887 words, 17 chapters (structure unchanged, no split; no chapter had a clean break worth renumbering the lectures for).
+- **Opening:** Chapter One now opens on the hook: "On the fourteenth of March, inside the same six hours, fourteen people … It took the Department of Remaining Possibilities most of a week to notice, and it was the department whose job it was." The Marsham Street description moves to the second paragraph. Miss Pike's stray "sir" is removed.
+- **Ch10:**
+  - Ramanathan's redundancy speech no longer repeats the Column B arithmetic from Miss Pike's scene.
+  - Pronoun fixed ("so that Barbarian could read it").
+  - Stadthof's window-sill break paragraph is cut. The earlier "promised no more mathematics" beat is kept.
+- **Ch12:**
+  - The Pike/Lolly "Column B on a Tuesday" tea scene is cut (it re-ran Kilburn), so the chapter now opens on the Vienna occupancy schedule.
+  - Repeated "at sixty-two" removed.
+  - "by August" corrected to "by September" (155 days before 10 Feb is about 8 Sep).
+  - Eilstein's biography recap is shortened.
+  - "since the Bronze Age" is now "since before anybody wrote anything down" (11,000 years predates the Bronze Age).
+  - The notebook's third telling of the "two worst things" line is cut.
+- **Ch13:**
+  - Continuity: the "Then Eilstein's determinism is dead" line is now Ramanathan's. Barbarian does not enter government buildings.
+  - The muddled "took until Thursday / Wednesday evening" line is cut.
+  - Lolly's second-guessing of Ramanathan is cut.
+  - Arakawa's exit is tightened, and Fainrose's restating summary is cut to "Our confidence was."
+- **Copyedit:**
+  - Notebook "He went 688 years without an outside check".
+  - Lecture "afterwards".

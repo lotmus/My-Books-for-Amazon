@@ -1904,3 +1904,22 @@ The review fix is in the live Kindle file. Do not restore the previous wording f
 - **Humour:**
   - Voller-room "direct debit / bank on fire" line.
   - The panel's "very quiet" is now Pilbeam putting down his pen.
+
+## Round 9 (2026-10-03, copyedit, humour and opening pass)
+- **Master:** 91,033 words, 19 chapters (structure unchanged). Glossary links stay out of the story text; the 15 invisible video links are kept.
+- **Opening pages (Kindle sample):**
+  - Prologue: the collapse paragraph is tightened ("It worked anyway. That was the alarming part.").
+  - Prologue: the universe now reads the handbook "looking for the clause that said it couldn't".
+  - Prologue: the second "There was, unfortunately" is cut.
+  - Ch1: the tea and "celestial harmony to local government without a return ticket" sigh is rewritten.
+  - Ch1: Gideon's description now sits in his introduction ("built for a lab stool"), which removes the third "workbench".
+  - Ch1: doorframe line changed to "It's been in the same place for eleven years. I keep hoping."
+  - Ch1: Mrs Chain sits "as though the chair were on probation".
+- **Humour (replaced, not added):**
+  - Priddy and "the doubtful sausage".
+  - Fainrose/Sloan "like certain tins at the back of a cupboard" (echoes the spotted dick tin).
+  - Fainrose "rationing her alarm since breakfast".
+  - Pilot-wave panel "comfortable" replaces the second "which was worse"; the third, in ch16 (Beatrix), is replaced too.
+  - Dennis "said decoration as though it were a diagnosis" removes the doubled "the way other men said".
+  - Beatrix's "voice she kept for barristers who had asked for five minutes".
+- **Copyedit:** British spellings made consistent (afterwards ×3, seat belt, acknowledgement, rigour). Close repeats of entirely, particular and merely fixed. The lint found no unbalanced quotes or doubled words in the story; the open-quote paragraphs are multi-paragraph speeches. Enquiry/inquiry follows the British split (question/investigation).
