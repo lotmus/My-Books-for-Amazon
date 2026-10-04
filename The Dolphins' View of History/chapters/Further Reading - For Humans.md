@@ -10,7 +10,11 @@ Dolphin scholarship is obliged to disclose that it has not read any of the follo
 
 **1491, by Charles C. Mann (2005). **The Americas before Columbus, and how much of what humans thought they knew about them was wrong.
 
+**Simón Bolívar: A Life, by John Lynch (2006). **The liberator without the marble, and the sea he said he was plowing.
+
 **The Silk Roads, by Peter Frankopan (2015). **The caravans, the Mongols, and the argument that history has been facing the wrong way.
+
+**Osman's Dream, by Caroline Finkel (2005). **The Ottoman Empire from the inside, all six centuries of it, with the gate's own paperwork for company.
 
 **A Fistful of Shells, by Toby Green (2019). **West African history told from West Africa.
 
@@ -23,6 +27,8 @@ Dolphin scholarship is obliged to disclose that it has not read any of the follo
 **The Sleepwalkers, by Christopher Clark (2012). **How Europe walked into 1914, in slow motion, with its eyes open.
 
 **The Guns of August, by Barbara Tuchman (1962). **The first month of the First World War, told as tragedy, and the standard popular history still tries to meet.
+
+**The Fall of the Ottomans, by Eugene Rogan (2015). **The First World War as it looked from Gallipoli, Baghdad, and Mecca, the front most Western histories skip.
 
 **The Coming of the Third Reich, by Richard J. Evans (2003). **How a cultured country handed power to Hitler, in the detail a summary chapter cannot afford.
 

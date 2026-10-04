@@ -18,6 +18,8 @@ Britain in particular spent the middle of this century handing back an empire it
 
 Independence did not erase the maps colonial powers had drawn with no reference to the ethnic, linguistic, or religious boundaries that existed on the ground. Several of the era's later conflicts, many historians argue, owe at least part of their origin to borders drawn decades or centuries earlier by administrators who had never intended those borders to become permanent national boundaries at all.
 
+Colonial administrators drew categories as well as borders. In Rwanda, which Belgium took over from Germany after the First World War, an old and flexible distinction between Tutsi and Hutu was hardened into a fixed one, and in the 1930s every Rwandan was issued an identity card naming a group. In 1994, after the plane carrying the president was shot down, extremist officials and militias used those categories, and the lists that went with them, to kill an estimated 500,000 to 800,000 Tutsi and moderate Hutu in about a hundred days, while the United Nations force on the ground was reduced instead of reinforced.
+
 Newly independent states faced a further complication the Cold War's two superpowers made unavoidable: alignment. The Non-Aligned Movement, formally organized at a 1961 conference in Belgrade, tried to offer a third path for countries unwilling to be absorbed into either superpower's camp, with mixed and country-specific success.
 
 **Dolphin verdict:**

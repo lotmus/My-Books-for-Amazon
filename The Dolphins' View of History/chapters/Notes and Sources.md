@@ -292,6 +292,74 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Jonestown.* Moore, Rebecca. Understanding Jonestown and Peoples Temple. Westport, CT: Praeger, 2009.
 
+**1808 to Today: Liberators and Generals — Latin America After the Empires**
+
+*Independence and the liberators.* Lynch, John. The Spanish American Revolutions, 1808–1826. 2nd ed. New York: Norton, 1986.
+
+*Bolívar, and the line about plowing the sea.* Lynch, John. Simón Bolívar: A Life. New Haven: Yale University Press, 2006.
+
+*Haiti and the indemnity of 1825.* Dubois, Laurent. Haiti: The Aftershocks of History. New York: Metropolitan Books, 2012.
+
+*Brazil’s abolition of slavery in 1888.* Conrad, Robert Edgar. The Destruction of Brazilian Slavery, 1850–1888. Berkeley: University of California Press, 1972.
+
+*Brazil’s share of the Atlantic slave trade.* SlaveVoyages: Trans-Atlantic Slave Trade Database. https://www.slavevoyages.org (consulted 2026).
+
+*The Monroe Doctrine and the United States in the hemisphere.* Smith, Peter H. Talons of the Eagle: Latin America, the United States, and the World. New York: Oxford University Press, 1996.
+
+*Guatemala, 1954.* Schlesinger, Stephen, and Stephen Kinzer. Bitter Fruit: The Untold Story of the American Coup in Guatemala. Garden City, NY: Doubleday, 1982.
+
+*The boto in Amazonian folklore.* Slater, Candace. Dance of the Dolphin: Transformation and Disenchantment in the Amazonian Imagination. Chicago: University of Chicago Press, 1994.
+
+*The vaquita’s decline and its cause.* Taylor, Barbara L., et al. “Extinction Is Imminent for Mexico’s Endemic Porpoise unless Fishery Bycatch Is Eliminated.” Conservation Letters 10 (2017): 588–95.
+
+*The vaquita’s numbers now.* NOAA Fisheries. “Vaquita.” https://www.fisheries.noaa.gov/species/vaquita (consulted 2026).
+
+*Brazil’s military regime, 1964–1985.* Skidmore, Thomas E. The Politics of Military Rule in Brazil, 1964–1985. New York: Oxford University Press, 1988.
+
+*Argentina: the disappeared and the commission’s count.* Comisión Nacional sobre la Desaparición de Personas. Nunca más: Informe de la CONADEP. Buenos Aires: EUDEBA, 1984.
+
+*Argentina: the trial of the commanders in 1985.* Nino, Carlos Santiago. Radical Evil on Trial. New Haven: Yale University Press, 1996.
+
+*The Mothers of the Plaza de Mayo.* Bouvard, Marguerite Guzman. Revolutionizing Motherhood: The Mothers of the Plaza de Mayo. Wilmington, DE: Scholarly Resources, 1994.
+
+*Chile: the coup, Operation Condor, and the American role.* Kornbluh, Peter. The Pinochet File: A Declassified Dossier on Atrocity and Accountability. New York: New Press, 2003.
+
+*Víctor Jara.* Jara, Joan. Victor: An Unfinished Song. London: Jonathan Cape, 1983.
+
+*Cuba and the embargo.* LeoGrande, William M., and Peter Kornbluh. Back Channel to Cuba: The Hidden History of Negotiations between Washington and Havana. Chapel Hill: University of North Carolina Press, 2014.
+
+*Tlatelolco, 1968.* Poniatowska, Elena. Massacre in Mexico. Translated by Helen R. Lane. New York: Viking, 1975.
+
+*The Iguala case.* Hernández, Anabel. A Massacre in Mexico: The True Story behind the Missing 43 Students. London: Verso, 2018.
+
+*Mexico’s register of the missing.* Secretaría de Gobernación (Mexico). “Registro Nacional de Personas Desaparecidas y No Localizadas.” https://versionpublicarnpdno.segob.gob.mx/Dashboard/Index (consulted 2026).
+
+**1299 to Today: The Sublime Porte — The Ottoman Empire and the Map It Left**
+
+*The empire as a whole, and the Janissary levy.* Finkel, Caroline. Osman’s Dream: The Story of the Ottoman Empire, 1300–1923. New York: Basic Books, 2005.
+
+*The fall of Constantinople.* Crowley, Roger. 1453: The Holy War for Constantinople and the Clash of Islam and the West. New York: Hyperion, 2005.
+
+*The millet system.* Barkey, Karen. Empire of Difference: The Ottomans in Comparative Perspective. Cambridge: Cambridge University Press, 2008.
+
+*Salonica and the Sephardic refuge.* Mazower, Mark. Salonica, City of Ghosts: Christians, Muslims and Jews, 1430–1950. New York: Knopf, 2005.
+
+*The Armenian genocide.* Suny, Ronald Grigor. “They Can Live in the Desert but Nowhere Else”: A History of the Armenian Genocide. Princeton: Princeton University Press, 2015.
+
+*Lemkin and the word genocide.* Power, Samantha. “A Problem from Hell”: America and the Age of Genocide. New York: Basic Books, 2002.
+
+*The 1923 population exchange.* Hirschon, Renée, ed. Crossing the Aegean: An Appraisal of the 1923 Compulsory Population Exchange between Greece and Turkey. New York: Berghahn Books, 2003.
+
+*Gallipoli, the war in the Middle East, and the end of the empire.* Rogan, Eugene. The Fall of the Ottomans: The Great War in the Middle East. New York: Basic Books, 2015.
+
+*The mandates and the borders.* Barr, James. A Line in the Sand: The Anglo-French Struggle for the Middle East, 1914–1948. New York: Simon & Schuster, 2011.
+
+*The Kurds, Sèvres, and Lausanne.* McDowall, David. A Modern History of the Kurds. 3rd ed. London: I. B. Tauris, 2004.
+
+*The 1953 coup in Iran.* Abrahamian, Ervand. The Coup: 1953, the CIA, and the Roots of Modern U.S.–Iranian Relations. New York: New Press, 2013.
+
+*The Iran–Iraq War and Halabja.* Razoux, Pierre. The Iran–Iraq War. Cambridge, MA: Belknap Press of Harvard University Press, 2015.
+
 **1914–1918: Home by Christmas — The First World War**
 
 *How the war began.* Clark, Christopher. The Sleepwalkers: How Europe Went to War in 1914. London: Allen Lane, 2012.
@@ -319,6 +387,10 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *How democracies are dismantled.* Levitsky, Steven, and Daniel Ziblatt. How Democracies Die. New York: Crown, 2018.
 
 *Germany’s reckoning with its past.* Neiman, Susan. Learning from the Germans: Race and the Memory of Evil. New York: Farrar, Straus and Giroux, 2019.
+
+*Denmark’s rescue of its Jews, 1943.* Yahil, Leni. The Rescue of Danish Jewry: Test of a Democracy. Philadelphia: Jewish Publication Society of America, 1969.
+
+*Sweden’s sterilization program.* Broberg, Gunnar, and Nils Roll-Hansen, eds. Eugenics and the Welfare State: Sterilization Policy in Denmark, Sweden, Norway, and Finland. East Lansing: Michigan State University Press, 1996.
 
 **1853–1947: Japan, Restoration, and Empire**
 
@@ -362,6 +434,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Chernobyl and the delayed evacuation.* Plokhy, Serhii. Chernobyl: The History of a Nuclear Catastrophe. New York: Basic Books, 2018.
 
+*The 1939 pact and the invasion of 1941.* Roberts, Geoffrey. Stalin’s Wars: From World War to Cold War, 1939–1953. New Haven: Yale University Press, 2006.
+
 **1949 to Today: China, the Long Memory and the Great Leap**
 
 *The Great Leap famine.* Dikötter, Frank. Mao’s Great Famine. London: Bloomsbury, 2010.
@@ -373,6 +447,12 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Plastic entering the ocean (2010 data).* Jambeck, Jenna R., et al. “Plastic Waste Inputs from Land into the Ocean.” Science 347 (2015): 768–71.
 
 *River plastic, a later estimate with a different ranking.* Meijer, Lourens J. J., et al. “More than 1000 Rivers Account for 80% of Global Riverine Plastic Emissions into the Ocean.” Science Advances 7 (2021): eaaz5803.
+
+*Xi Jinping’s rise and the anti-corruption campaign.* Economy, Elizabeth C. The Third Revolution: Xi Jinping and the New Chinese State. New York: Oxford University Press, 2018.
+
+*The 2018 end of the presidential term limit.* Amendment to the Constitution of the People’s Republic of China, adopted by the National People’s Congress, March 11, 2018.
+
+*Hong Kong’s national-security law.* Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region, promulgated June 30, 2020.
 
 **The 13th Century BCE to 1948 CE: The People Who Kept Their Story — A Complete History of the Jews**
 
@@ -406,6 +486,14 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The Soviet program.* Siddiqi, Asif A. Challenge to Apollo: The Soviet Union and the Space Race, 1945–1974. Washington, DC: NASA History Division, 2000 (NASA SP-2000-4408).
 
+*Water in the LCROSS plume.* Colaprete, Anthony, et al. “Detection of Water in the LCROSS Ejecta Plume.” Science 330 (2010): 463–68.
+
+*Mars: the canals that were never there.* Sheehan, William. The Planet Mars: A History of Observation and Discovery. Tucson: University of Arizona Press, 1996.
+
+*Curiosity and the lake at Gale Crater.* Grotzinger, John P., et al. “A Habitable Fluvio-Lacustrine Environment at Yellowknife Bay, Gale Crater, Mars.” Science 343 (2014): 1242777.
+
+*Perseverance and the delta at Jezero Crater.* Mangold, Nicolas, et al. “Perseverance Rover Reveals an Ancient Delta-Lake System and Flood Deposits at Jezero Crater, Mars.” Science 374 (2021): 711–17.
+
 **1905 Onward: The Physics That Finally Made Sense to Someone**
 
 *Relativity in GPS.* Ashby, Neil. “Relativity in the Global Positioning System.” Living Reviews in Relativity 6 (2003): 1.
@@ -429,6 +517,10 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Kenya and the detention camps.* Elkins, Caroline. Imperial Reckoning: The Untold Story of Britain’s Gulag in Kenya. New York: Henry Holt, 2005.
 
 *Decolonization as a whole.* Jansen, Jan C., and Jürgen Osterhammel. Decolonization: A Short History. Princeton: Princeton University Press, 2017.
+
+*Rwanda, 1994, and the United Nations’ withdrawal.* Des Forges, Alison. Leave None to Tell the Story: Genocide in Rwanda. New York: Human Rights Watch, 1999.
+
+*Rwanda’s colonial categories and identity cards.* Newbury, Catharine. The Cohesion of Oppression: Clientship and Ethnicity in Rwanda, 1860–1960. New York: Columbia University Press, 1988.
 
 **1893 to 1994: Civil Rights and Liberation — Humanity Argues With Itself**
 
@@ -484,6 +576,10 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Dolphins do get sick: cetacean morbillivirus.* Van Bressem, Marie-Françoise, et al. “Cetacean Morbillivirus: Current Knowledge and Future Directions.” Viruses 6 (2014): 5145–81.
 
+*Polio and its vaccines.* Oshinsky, David M. Polio: An American Story. New York: Oxford University Press, 2005.
+
+*The first messenger-RNA vaccine trial.* Polack, Fernando P., et al. “Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine.” New England Journal of Medicine 383 (2020): 2603–15.
+
 **1896 to Today: Climate and Consequence — The Price of Progress**
 
 *Arrhenius’s 1896 calculation.* Arrhenius, Svante. “On the Influence of Carbonic Acid in the Air upon the Temperature of the Ground.” Philosophical Magazine 41 (1896): 237–76.
@@ -495,6 +591,14 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *The Anthropocene vote.* Witze, Alexandra. “Geologists Reject the Anthropocene as Earth’s New Epoch — After 15 Years of Debate.” Nature 627 (2024): 249–50.
 
 *The physical science.* IPCC. Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report. Cambridge: Cambridge University Press, 2021.
+
+*Greenland’s ice and its sea-level equivalent.* Morlighem, Mathieu, et al. “BedMachine v3: Complete Bed Topography and Ocean Bathymetry Mapping of Greenland from Multibeam Echo Sounding Combined with Mass Conservation.” Geophysical Research Letters 44 (2017): 11051–61.
+
+*Greenland’s mass loss.* IMBIE Team. “Mass Balance of the Greenland Ice Sheet from 1992 to 2018.” Nature 579 (2020): 233–39.
+
+*West Antarctica and marine ice-sheet retreat.* Joughin, Ian, Benjamin E. Smith, and Brooke Medley. “Marine Ice Sheet Collapse Potentially under Way for the Thwaites Glacier Basin, West Antarctica.” Science 344 (2014): 735–38.
+
+*The Antarctic Treaty.* Secretariat of the Antarctic Treaty. “The Antarctic Treaty.” Signed at Washington, December 1, 1959; in force June 23, 1961. https://www.ats.aq/e/antarctictreaty.html (consulted 2026).
 
 **1991 to Today: A Fractured Present — Democracy, Authoritarianism, and the Information Age**
 
