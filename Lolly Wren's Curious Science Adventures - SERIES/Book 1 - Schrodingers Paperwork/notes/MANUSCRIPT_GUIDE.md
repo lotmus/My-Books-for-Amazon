@@ -1939,3 +1939,9 @@ The review fix is in the live Kindle file. Do not restore the previous wording f
 - **Ch14 humour:**
   - Von Wittenberg "put his small pencil down … the most emphatic thing he ever did" replaces a recycled Bellboy simile (he was not at the panel).
   - Sandra hands over the carbon "without looking at it, which at Larchfield was how you did a thing you meant to be proud of later".
+
+## Round 11 (2026-10-03) — pacing and humour pass
+- Words: 90,937 → 90,176 (−761). No plot facts removed.
+- Compression targets: redundant call-and-response (Ch6 temperature Q&A, Ch9 "Yes." run), restated beats (Ch2 sorting recap, poster/hinge line, Ch4 Priddy coda and duplicate "upstairs/downstairs", Ch10 notebook formula), Ch11 Jago depot detail, Ch12 de Broccoli 1911 preamble and Larchfield phone exposition, Ch17 montage opener, Ch19 lecture repetitions.
+- Humour: replaced weak beats (Ch1 "sounds dreadful" → queue line; Ch5 "miss private thought", "grows tired"; Ch6 "vindictive edges", "Marvellous sentence"; Ch7 "so little understanding", "work for a noun"; Ch16 "universe doesn't appear to have asked"; Epilogue "Allegedly/Obviously"; Ch19 QED "chair" line). Chapters 13–14 untouched.
+- Fixed: "afterward" → "afterwards" (Ch12).

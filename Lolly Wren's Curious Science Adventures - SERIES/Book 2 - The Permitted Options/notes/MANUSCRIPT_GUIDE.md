@@ -557,3 +557,8 @@ Done by the round-5/6 revision agent on top of the uncommitted round-5 lectures/
 - **Front matter:**
   - B2 had no TOC, How to Read or Cast. It now has title page → copyright and fiction notice → a short "Contents" (17 linked chapter lines plus For Curious Readers: The Lectures) → Chapter One.
   - The 38-line "Also by Lothar J. Musiol" list moved to the very end of the book, after the Bibliography, so the free sample reaches the story at once.
+
+## Round 12 (2026-10-03) — Four and Twelve tightened
+- Four 4,718 → 4,489; Twelve 4,735 → 4,562. Total 82,236 → 81,823.
+- Four: merged duplicate Gideon-at-the-kitchen-table paragraphs; removed repeated "two steps wrong, one interestingly" (now only in Fainrose's dialogue); trimmed Mrs Chain re-description, Mrs Kind Thursdays, Eilstein recap.
+- Twelve: removed duplicate account of Soccermann's illness from Eilstein's speech; trimmed Jago drive, Maxwell-demon sentence, van Casteel gallery, notebook drive home.
