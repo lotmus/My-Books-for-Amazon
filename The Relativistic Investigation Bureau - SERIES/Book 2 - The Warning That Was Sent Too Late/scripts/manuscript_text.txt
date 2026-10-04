@@ -1810,6 +1810,7 @@ CARRIER: D. GENT, UNDER FORM PL/9, NOTE 7. ROUTE: THE FIRST SEAT, TUESDAY 18:24;
 THE SHEET RECEIVED ON MONDAY: THE SAME SHEET, TWO DAYS OLDER. FOR DRAWER THREE.
 BOARDING: REFUSED. STILL.
 SUNDAY SLIP: SENDER UNKNOWN. NO MECHANISM. NO RING. LEFT BLANK.
+VOICE: SOURCE UNKNOWN. NO MECHANISM. LEFT BLANK.
 He saved it. The little wheel turned. The status line changed once more on its own, the last thing it ever did on its own.
 CASE STATUS: OCCURRED.
 On the stairs below, a dog's claws, and a woman's voice telling the dog that the stairs were not a democracy.
