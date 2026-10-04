@@ -542,3 +542,18 @@ Done by the round-5/6 revision agent on top of the uncommitted round-5 lectures/
 - **Copyedit:**
   - Notebook "He went 688 years without an outside check".
   - Lecture "afterwards".
+
+## Round 11 (2026-10-03, ch10/ch13 to about 4k; front matter)
+- **Chapter Ten** is now about 4,010 words.
+  - Jack Nashville's Vienna call (the verdict "it does not matter why he did it", plus Eilstein's question about invitations and the notebook entry) now opens Chapter Eleven. That chapter already began with Nashville "still in Vienna in a room with two chairs". Ten ends on Fainrose: "Ask me on the tenth of February."
+  - The Department of Small/Large Things exchange is cut. Barbarian's "nothing has been left out" carries on from there.
+  - The Eugenius housekeeping and the Pike-ledger and redundancy paragraphs are compressed. All plot facts are kept: the ceiling of 4 and the 3.4 cheat; the 209 minuted; screens buying classicality; Barbarian's postscript naming Miss A. Pike; the Office learning of the paragraph 11 rewrite; the Vienna room becoming a working part of the protocol.
+- **Chapter Eleven** is now about 4,160 words.
+- **Chapter Thirteen** is now about 4,020 words.
+  - Drill's lecture is compressed. The EPR bench is one paragraph, Kochen–Specker after soup is one paragraph (it still ends "Fixed … belongs to a system and an arrangement together"), and the Fainrose board is tightened.
+  - Arakawa's Esaki story and barrier explanation are compressed.
+  - Ferrous, Fainrose's letter and Beatrix's Mental Capacity Act letter are each tightened.
+  - Continuity: the rescue Monday is now "when Drill came back to hear the reply", because Drill is present for it.
+- **Front matter:**
+  - B2 had no TOC, How to Read or Cast. It now has title page → copyright and fiction notice → a short "Contents" (17 linked chapter lines plus For Curious Readers: The Lectures) → Chapter One.
+  - The 38-line "Also by Lothar J. Musiol" list moved to the very end of the book, after the Bibliography, so the free sample reaches the story at once.

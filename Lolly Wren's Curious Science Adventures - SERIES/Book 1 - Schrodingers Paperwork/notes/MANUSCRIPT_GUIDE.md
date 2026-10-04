@@ -1923,3 +1923,19 @@ The review fix is in the live Kindle file. Do not restore the previous wording f
   - Dennis "said decoration as though it were a diagnosis" removes the doubled "the way other men said".
   - Beatrix's "voice she kept for barristers who had asked for five minutes".
 - **Copyedit:** British spellings made consistent (afterwards ×3, seat belt, acknowledgement, rigour). Close repeats of entirely, particular and merely fixed. The lint found no unbalanced quotes or doubled words in the story; the open-quote paragraphs are multi-paragraph speeches. Enquiry/inquiry follows the British split (question/investigation).
+
+## Round 10 (2026-10-03, front matter and ch13–14 humour)
+- **Front matter (Lothar's call):**
+  - The free sample now opens on the story. Title page and copyright are followed by a short Table of Contents (Prologue, 19 chapters, Epilogue), then a back-matter block, then the Prologue (about page 4 of the render).
+  - The back-matter block lists How to Read This Book, Cast of Characters, Physics Prologue, For Curious Readers: The Lessons, Glossary, Further Reading, A Note on the Author and If You Enjoyed This Book.
+  - Dropped from the TOC: Title Page, the 18 lesson lines plus The Shape of This Course (which links to every lesson group itself), Backlog, A Word on Who Is Who, About the Series and If This Made You Curious. Kindle's navigation still reaches them through their headings.
+- **How to Read This Book** and **Cast of Characters** (with the In the novel / In reality table) now sit after THE END, just before the Physics Prologue. Wording changed for the new place: "the pages that follow hold an optional course".
+- **Ch13 humour, beat by beat:**
+  - Bellboy's entrance: "the room's temperature dropped to meet him"; accent "sanded down by decades of being right at people who wished he wasn't". This removes a second "in rooms" formula.
+  - "a silence of the kind that gets minuted as a pause", answered later by "This silence nobody would have minuted as a pause".
+  - Bellboy/Tengelman: "That isn't the compliment you think it is." / "I know … but I'll take it." This replaces a muddled "No".
+  - "Here's the point of it" fixes a non sequitur.
+  - Continuity fix: "the Duc's guiding wave" (was "her").
+- **Ch14 humour:**
+  - Von Wittenberg "put his small pencil down … the most emphatic thing he ever did" replaces a recycled Bellboy simile (he was not at the panel).
+  - Sandra hands over the carbon "without looking at it, which at Larchfield was how you did a thing you meant to be proud of later".
