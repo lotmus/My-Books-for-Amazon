@@ -4,7 +4,7 @@ Every government examined so far in this book has run on the same basic claim: o
 
 Athens, starting with reforms under Cleisthenes in 508 BCE, tried something dolphin historians had not filed under any prior category: a large body of citizens deciding collectively, in person, by majority vote, in an assembly any citizen could attend and speak in.
 
-The qualifier matters more than the achievement, and dolphin historians insist on stating it first rather than last. “Citizen” in Athens meant adult free men born to Athenian parents — excluding women, enslaved people (who made up a large share of the city's population), and foreign residents, however long they had lived there. Democracy's first draft governed a minority and called it everyone.
+The qualifier matters more than the achievement, and dolphin historians put it first on purpose rather than burying it at the end. “Citizen” in Athens meant adult free men born to Athenian parents — excluding women, enslaved people (who made up a large share of the city's population), and foreign residents, however long they had lived there. Democracy's first draft governed a minority and called it everyone.
 
 Within that limit, the invention was still real. Many public offices were filled by lot, sortition, in place of election, on the theory that any citizen was fit to serve and that voting for office invited wealthy or persuasive candidates to dominate it. Ostracism let the assembly exile a citizen, no crime required, for ten years, if enough people simply voted that his influence had grown dangerous.
 

@@ -24,7 +24,7 @@ Farming went on to create cities, governments, armies, taxes, and, inevitably, a
 
 Villages appeared where surplus made them possible. Çatalhöyük in Anatolia, occupied from about 7500 BCE, housed several thousand people in mudbrick homes packed so tightly that residents entered through the roof.
 
-The trade-offs were real, and dolphin historians insist on stating them plainly rather than skipping straight to the population boom. Skeletal evidence from early farming communities generally shows shorter stature, worse teeth, and more infectious disease than the hunter-gatherer populations that came before, likely from a narrower diet and closer contact with penned animals and each other.
+The trade-offs were real, and dolphin historians would rather name them plainly than skip straight to the population boom. Skeletal evidence from early farming communities generally shows shorter stature, worse teeth, and more infectious disease than the hunter-gatherer populations that came before, likely from a narrower diet and closer contact with penned animals and each other.
 
 What farming lacked in individual health it made up in sheer output. A patch of land that could feed a handful of foragers could feed many times as many farmers, and populations rose accordingly, even if the average farmer was, by several measures, worse off than the average forager had been.
 

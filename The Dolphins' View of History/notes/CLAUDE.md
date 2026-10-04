@@ -18,9 +18,10 @@ touching, say so and wait to be asked — don't go do it.
 
 - **Two parallel content tracks exist and must be kept in sync by hand:**
   1. Numbered `.md` chapter files in `chapters/` (`00 - Prologue...md`
-     through `41 - ...md`, plus `Epilogue...md` and `Further Reading...md`,
-     moved there from the top level on 2026-09-27 to sit next to their
-     `.docx` counterparts) and the concatenated
+     through `40 - ...md` — file 41 was folded into 40 on 2026-10-04, see
+     below — plus `Epilogue...md` and `Further Reading...md`, moved there
+     from the top level on 2026-09-27 to sit next to their `.docx`
+     counterparts) and the concatenated
      `notes/The Dolphins' View of History - Complete Manuscript.md` — the
      human-readable/diffable track. Everything per-chapter is in
      `chapters/`.
@@ -66,10 +67,45 @@ touching, say so and wait to be asked — don't go do it.
     then two new eras, "The Near Future" and "The Far Future," extending it
     out to the heat death of the universe — sourced from Wikipedia's
     Timeline of the far future, 3rd millennium, and Anthropocene articles.
-  - The "Half the World, All the Time" chapter (file 41) and the Prologue's ancestor
-    passages (Pakicetus/Ambulocetus/the hippo connection, the primate
-    lineage) are confirmed in sync across both tracks and rebuilt as of
-    2026-09-27; `chapters/*.docx` is current for every chapter including 41.
+  - The "Half the World, All the Time" chapter (file 41) no longer exists as
+    a standalone chapter (2026-10-04 mean-reviewer fix): it sat between the
+    thesis-summarizing Long View chapter and the Epilogue, breaking the
+    book's momentum right before its climax with a chapter whose own text
+    admits it's a catch-up chapter ("this chapter is the dolphins going back
+    for them"). Its four timelines (population, suffrage, the UDHR, the
+    history of zero/algebra/calculus) are now folded into the Long View
+    chapter's body and verdict, in both tracks and `_generate.js`; the
+    Epilogue follows the Long View directly again. Do not re-add file 41 as
+    a standalone chapter without re-solving this placement problem first.
+    The Prologue's ancestor passages (Pakicetus/Ambulocetus/the hippo
+    connection, the primate lineage) are unaffected and remain in sync
+    across both tracks.
+- **Flagged 2026-10-04, not yet fixed — the `.md` tracks have grown ahead
+    of `_generate.js` in more than one place, not just the Soviet Union
+    chapter:**
+  - The Soviet Union chapter's `.md` track (`chapters/26 - ...md` and the
+    Complete Manuscript) carries two entire `###` subsections not present
+    in `_generate.js` at all — "The man who won the succession" (Stalin)
+    and "The man who came back" (Yeltsin/Putin, including the 2014/2022
+    Ukraine war) — several hundred words the generator's `chapter17` never
+    received. `_generate.js`'s heading still reads "1917–1991," matching
+    its own unexpanded content; the `.md` tracks' chapter now runs well
+    past 1991.
+  - Leaving the Cradle's `.md` track (`chapters/30 - ...md`) has a full
+    SpaceX paragraph (reusable-booster landings in detail, the NASA
+    contract dispute) that `_generate.js`'s `chapter23space` only
+    summarizes in one sentence.
+  - Both need a deliberate port (with each chapter's own word-count rule
+    re-checked once ported, the way Genius and Catastrophe's overrun
+    needs the same treatment — see the Book Plan) rather than a quick
+    copy-paste; there may be others not yet found. Made two small fixes
+    in the meantime, in all tracks that had them: the `.md`-only line "The
+    titles changed. The offer did not: order, pride, and someone to
+    blame," which exactly repeated the Genius and Catastrophe chapter's
+    own diagnosis, now reads as an explicit callback; and one of two
+    near-identical "which dolphin historians regard as a[n] ___" lines in
+    Leaving the Cradle (44 lines apart) was reworded to break the repeated
+    scaffolding.
 - Back matter "Notes and Sources" (2026-10-03) sits between the physics
     appendix and Further Reading, in `_generate.js` (`const notes`, built with
     the `note(supports, citation)` helper), in `chapters/Notes and Sources.md`

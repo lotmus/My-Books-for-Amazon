@@ -1,6 +1,6 @@
 # What the Physics Is For — An Appendix on Uses and the One Theory Not Yet Found
 
-The physics chapter made the case that several of the twentieth century's strangest physical ideas sound, to a species that hears its world, rather ordinary. It left two larger questions on the table, because a history book is the wrong place to settle them: what the subject is actually for, and why its two best theories still refuse to become one. Dolphin scholarship takes them up here, at the back, where readers who like their arithmetic straight can find them without the rest of human history waiting in the corridor.
+Dolphin scholarship takes up the two questions here, at the back, where readers who like their arithmetic straight can find them without the rest of human history waiting in the corridor.
 
 ### What the physics is for
 

@@ -10,7 +10,7 @@ The system worked, more or less, for nearly five hundred years, before its own s
 
 Julius Caesar crossed the Rubicon river with his army in 49 BCE, in defiance of the Senate's explicit order to disband it, and won the civil war that followed. His assassination in 44 BCE, by senators trying to save the Republic, instead finished killing it. His adopted heir, Octavian, emerged from the next round of civil war as Rome's first emperor, taking the name Augustus in 27 BCE.
 
-The Republic's checks, designed with some care to prevent exactly this outcome, held up for close to five hundred years and then gave way in about twenty, which dolphin historians regard as a thoroughly Roman ratio of centuries spent planning to afternoons spent undoing it.
+The Republic's checks, designed with some care to prevent exactly this outcome, held up for close to five hundred years and then gave way in about twenty, a ratio dolphin historians consider thoroughly Roman: centuries spent planning, afternoons spent undoing it.
 
 What Rome built next, over the following two centuries of relative internal peace known as the Pax Romana, is what dolphin historians consider its most durable invention: a network of roads that, by a common modern estimate, ran to some 250,000 miles at its peak, more than 50,000 of them paved, aqueducts moving water across entire regions by gravity alone, a body of law distinguishing public and private rights that still underlies many legal systems today, and a path to citizenship that, by 212 CE, extended to almost every free person in the empire.
 
