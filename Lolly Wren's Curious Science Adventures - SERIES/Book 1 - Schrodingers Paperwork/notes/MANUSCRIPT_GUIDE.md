@@ -1846,3 +1846,10 @@ The review fix is in the live Kindle file. Do not restore the previous wording f
 - Jago pays one Cardiff chit during the eleven weeks. Venn leaves the tape roll out the week before the frame is found. The epilogue still does not have him confess.
 - The book ends on THE END. Do not put the one-word Obviously back after it.
 
+
+## Round 4: voices and cuts (3 Oct 2026)
+
+- Venn speaks in numbered points, says "with respect", and cites the Manual by section. He keeps the barometer beat in Chapter 4: his mother's barometer in Swindon has said CHANGE since 1986, and "I file things. I do not want anything." Do not give him jokes.
+- Pike apologises ("sorry"), counts exactly ("Nine thousand two hundred and six rows"), and times her own work ("The formula took me four minutes"). Her mum's kettle has two receipts. She asks for a copy of anything she signs. This seeds the Book 2 ledger, so keep it.
+- Chapters 11 to 13 are about 8% shorter (12,752 to 11,788 words). The Bellboy corridor word in Chapter 13 has been cut, and Lolly now writes her note "against the corridor wall". Do not put the repeated recaps back, or the second explanation of the Inquiry.
+- Eilstein's arrival keeps "No relation." Beatrix's reason to work with the vampire is now one speech that ends "So. We work with the vampire."
