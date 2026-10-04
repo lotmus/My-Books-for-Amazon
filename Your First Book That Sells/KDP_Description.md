@@ -1,6 +1,6 @@
 # KDP listing — Your First Book That Sells
 
-Updated 3 October 2026. Platform facts were checked against KDP Help on 3 October 2026 (see the Notes in the book). One master: `Your First Book That Sells.docx`; "How to Publish and Make Good Money" is the same book.
+Updated 3 October 2026. Platform facts were checked against KDP Help on 3 October 2026 (see the Notes in the book). One master: `Your First Book That Sells.docx`; “How to Publish and Make Good Money” is the same book.
 
 ## Title fields
 
@@ -14,14 +14,14 @@ Updated 3 October 2026. Platform facts were checked against KDP Help on 3 Octobe
 
 ## Subtitle options for Lothar (decision pending; the book and this listing still use the current subtitle)
 
-The review found that "Make Good Money" overpromises against a book that promises no income. Options:
+The review found that “Make Good Money” overpromises against a book that promises no income. Options:
 
 1. The No-Hype Guide to Kindle Royalties, Honest Reviews, and a Catalog That Earns
 2. How to Price, Launch, and Build a Kindle Catalog Without Wasting Money
-3. A First-Time Author's Guide to Kindle Pricing, Honest Reviews, and Book Two
+3. A First-Time Author’s Guide to Kindle Pricing, Honest Reviews, and Book Two
 4. Real Royalties, Honest Reviews, and a Catalog That Pays: Kindle Publishing with the Arithmetic Shown
 
-If the subtitle changes, update `SUBTITLE` in `scripts/build_master.py`, line 3 of `chapters/00_front_matter.md`, and this file, then rebuild. Avoid the words "Kindle Unlimited" and "KDP Select" in the subtitle; KDP's metadata rules restrict program names in title fields.
+If the subtitle changes, update `SUBTITLE` in `scripts/build_master.py`, line 3 of `chapters/00_front_matter.md`, and this file, then rebuild. Avoid Amazon program names such as “Kindle Unlimited” and “KDP Select” in the subtitle, and check KDP’s Metadata Guidelines before changing it.
 
 ## Description (paste into KDP; plain paragraphs, under 4,000 characters)
 
@@ -31,14 +31,14 @@ Your First Book That Sells is for first-time and early independent authors publi
 
 Inside you will learn how to:
 
-• Work out the "keep," the money one sale leaves you, under KDP's 35% and 70% royalty options, including the delivery charge and the 70% price band
+• Work out the “keep,” the money one sale leaves you, under KDP’s 35% and 70% royalty options, including the delivery charge and the 70% price band
 • See why a $0.99 ebook can earn a seventh of what a $3.99 one does
-• Price a paperback against KDP's royalty rates and the printing cost
+• Price a paperback against KDP’s royalty rates and the printing cost
 • Ask for honest reviews the way Amazon allows, and avoid the offers that get reviews removed
 • Write the first two lines of a description, test a cover at thumbnail size, and choose keywords and categories readers actually use
 • Run a small, capped ad test and work out your break-even cost per click before you spend
 • Decide between KDP Select and selling everywhere with one 90-day test instead of a guess
-• Answer KDP's AI-content question correctly and know who owns AI-written text
+• Answer KDP’s AI-content question correctly and know who owns AI-written text
 • Avoid vanity presses, fake reviews, and copyright traps
 • Plan book two and a first year you can actually keep to
 
@@ -58,9 +58,9 @@ If you want a first book that pays you honestly, start here.
 6. amazon ads for authors on a budget
 7. publishing a second novel or guide
 
-Keyword rules followed: no "Kindle Unlimited", "KDP Select", or other program names; no words already in the title or subtitle where avoidable; no other authors' names or claims about sales rank.
+Keyword rules followed: no “Kindle Unlimited”, “KDP Select”, or other program names; no words already in the title or subtitle where avoidable; no other authors’ names or claims about sales rank.
 
-## Categories (three; choose the closest accurate shelves in KDP's category picker)
+## Categories (three; choose the closest accurate shelves in KDP’s category picker)
 
 Candidates to look for in the picker (confirm the exact current names there):
 
@@ -71,11 +71,11 @@ Candidates to look for in the picker (confirm the exact current names there):
 ## Price
 
 - Ebook: $4.99 suggested, inside the 70% band on Amazon.com, keeping about $3.28 on a 2 MB file. Keep the ebook at least 20% below any print list price.
-- Paperback: run KDP's printing-cost calculator on the final page count first; on Amazon.com the rate is 60% at $9.99 and above, 50% below, minus printing cost.
+- Paperback: run KDP’s printing-cost calculator on the final page count first; on Amazon.com the rate is 60% at $9.99 and above, 50% below, minus printing cost.
 
 ## AI disclosure
 
-Answer KDP's AI-content question for what was actually done. If an AI tool created text, cover art, interior images, or translations, that is "AI-generated" even after heavy editing and must be declared. Editing, checking, and brainstorming on your own writing is "AI-assisted" and need not be declared. Lothar decides the answer before upload.
+Answer KDP’s AI-content question for what was actually done. If an AI tool created text, cover art, interior images, or translations, that is “AI-generated” even after heavy editing and must be declared. Editing, checking, and brainstorming on your own writing is “AI-assisted” and need not be declared. Lothar decides the answer before upload.
 
 ## Platform facts used in the book (checked 3 October 2026)
 

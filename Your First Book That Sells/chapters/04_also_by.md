@@ -41,11 +41,11 @@
 
 **History**
 
-- The Dolphins' View of History
+- The Dolphins’ View of History
 
 **Fiction**
 
-- The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1)
+- The Murder That Hadn’t Happened Yet (The Relativistic Investigation Bureau, Book 1)
 - The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2)
 - Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1)
 - The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2)

@@ -206,7 +206,7 @@ Misleading keywords are not a grey area; KDP states a zero-tolerance policy for 
 
 **Platform rule [30] [17].** The description field holds up to 4,000 characters, including any HTML tags, and supports simple formatting such as bold, italics, headings, and lists. It may not contain review quotes or testimonials, requests for reviews, prices or availability, time-sensitive offers, links, or keyword lists.
 
-![Six boxes showing how a shopper reads a product page: thumbnail, title and subtitle, first two lines, bullets and fit, sample, and price and reviews, each with the shopper's question; below, the content KDP does not allow in a description.](../figures/product_page_flow.png)
+![Six boxes showing how a shopper reads a product page: thumbnail, title and subtitle, first two lines, bullets and fit, sample, and price and reviews, each with the shopper’s question; below, the content KDP does not allow in a description.](../figures/product_page_flow.png)
 
 **Recommendation.** A shape that works for most nonfiction:
 
