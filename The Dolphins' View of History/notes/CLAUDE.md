@@ -70,6 +70,14 @@ touching, say so and wait to be asked — don't go do it.
     passages (Pakicetus/Ambulocetus/the hippo connection, the primate
     lineage) are confirmed in sync across both tracks and rebuilt as of
     2026-09-27; `chapters/*.docx` is current for every chapter including 41.
+- Back matter "Notes and Sources" (2026-10-03) sits between the physics
+    appendix and Further Reading, in `_generate.js` (`const notes`, built with
+    the `note(supports, citation)` helper), in `chapters/Notes and Sources.md`
+    and in the Complete Manuscript `.md`. Every entry was verified (Crossref,
+    Open Library, publisher or official page). Add a source only after
+    verifying it; never invent one. A `minutes(label, text)` helper renders
+    Society minutes (bold label, italic text). Four chapters deliberately end
+    without a verdict (Africa's kingdoms, Ships, Soviet Union, Jewish history).
 - **`notes/00 - Book Plan - The Dolphins' View of History.md`** is the book
   bible: premise, part/chapter arc, running themes (war, greed, and racism
   named plainly wherever they're the real reason something happened; a
