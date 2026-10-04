@@ -1945,3 +1945,10 @@ The review fix is in the live Kindle file. Do not restore the previous wording f
 - Compression targets: redundant call-and-response (Ch6 temperature Q&A, Ch9 "Yes." run), restated beats (Ch2 sorting recap, poster/hinge line, Ch4 Priddy coda and duplicate "upstairs/downstairs", Ch10 notebook formula), Ch11 Jago depot detail, Ch12 de Broccoli 1911 preamble and Larchfield phone exposition, Ch17 montage opener, Ch19 lecture repetitions.
 - Humour: replaced weak beats (Ch1 "sounds dreadful" → queue line; Ch5 "miss private thought", "grows tired"; Ch6 "vindictive edges", "Marvellous sentence"; Ch7 "so little understanding", "work for a noun"; Ch16 "universe doesn't appear to have asked"; Epilogue "Allegedly/Obviously"; Ch19 QED "chair" line). Chapters 13–14 untouched.
 - Fixed: "afterward" → "afterwards" (Ch12).
+
+## Round 12 (2026-10-03) — scene cuts, adversarial reread, proofread
+- Ch11 → 3,968 words; Ch12 → 3,972 (both under 4k). Total ~89,670 incl. back matter.
+- Ch11: Jago car section and Dennis bio compressed; Ealing paragraph, underline-"nine", voice-accent, photographic-plate and Sandra courier exchange cut (courier facts kept in Jago section and Sandra's letter line). 137/Room motif and "never sign without certainty" kept.
+- Ch12: "This was not modesty", phone description, "stranger in a cardigan", duplicate medical facts cut.
+- Adversarial pass: "said slowly" 11 → 4; "for the first time" 13 → 8; "considered this" varied (−4); "very still" −2; "Nobody spoke/answered" beats −3; "for a long moment" −2; "opened the green notebook" varied ×2.
+- Proofread: six hard-wrapped notebook passages joined into single paragraphs; "afterward?" → "afterwards?"; "Sub-District Six" → "Sub-District 6" (house style). Ellipses consistent ("..."), no straight quotes, no double spaces in story text.
