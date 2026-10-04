@@ -1400,7 +1400,7 @@ Celera, meanwhile, found it could not profitably sell access to a genome the pub
 
 *Status: Settled.*
 
-A famous betting pool on how many genes the human genome contains drew guesses from 26,000 to well over 150,000. It was won by the lowest realistic guess, around 25,947. The real figure settled lower still, at close to 20,000 protein-coding genes, comparable to and in some cases barely different from far simpler organisms like roundworms and fruit flies.
+A famous betting pool on how many genes the human genome contains drew guesses from under 26,000 to well over 150,000. It was won by the lowest realistic guess, around 25,947. The real figure settled lower still, at close to 20,000 protein-coding genes, comparable to and in some cases barely different from far simpler organisms like roundworms and fruit flies.
 
 Human complexity comes from doing more with the genes available. Alternative splicing (introduced in Chapter 293) lets some 20,000 genes generate over 100,000 distinct proteins, and the regulatory sequences controlling when and where those genes switch on occupy more of the genome than the genes themselves.
 

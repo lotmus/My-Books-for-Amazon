@@ -14,7 +14,7 @@
 
 **Anthropic principle.** The observation that we can only find ourselves in a universe whose conditions allow observers, which explains some apparent fine-tuning without requiring that anyone did the tuning. *See* Chapter 101.
 
-**Antiparticle.** A particle with the same mass as its partner but opposite charge; when the two meet, they can annihilate into radiation. *See* Chapter 39; Chapter 244.
+**Antiparticle.** A particle with the same mass as its partner but opposite values of properties like charge; when the two meet, they can annihilate into radiation. Some, like the photon, are their own antiparticle. *See* Chapter 39; Chapter 244.
 
 **Arrow of time.** The one-way direction of everyday events from past to future, which physics traces to entropy rising from an unusually orderly beginning. *See* Chapter 30; Chapter 34.
 
@@ -133,6 +133,8 @@
 
 **Gene.** A stretch of DNA that carries the instructions for one product, usually a protein, and is passed from parent to offspring. *See* Chapter 262; Chapter 293.
 
+**Genotype.** The genetic instructions an organism carries at a given gene or across its whole genome, as opposed to how those instructions are actually expressed. *See* Chapter 298; Chapter 301.
+
 **Genetic drift.** Change in gene frequencies by pure chance rather than selection, strongest in small populations. *See* Chapter 259.
 
 **Genome.** The complete set of DNA in an organism; the human version runs to about three billion letters. *See* Chapter 294; Chapter 322.
@@ -222,6 +224,8 @@
 
 **Nucleosynthesis.** The forging of atomic nuclei; in the first few minutes after the Big Bang it made most of the universe's helium. *See* Chapter 70.
 
+**Nucleotide.** The basic building block of DNA and RNA: a sugar, a phosphate, and one of the four bases, linked end to end to form the strand. *See* Chapter 290; Chapter 291.
+
 ## O
 
 
@@ -233,6 +237,8 @@
 **Panspermia.** The idea that life, or its ingredients, could travel between planets on meteorites or dust, so that Earth's life might have started elsewhere. *See* Chapter 284.
 
 **Pauli exclusion principle.** The rule that no two identical fermions can occupy the same quantum state, which gives atoms their shell structure and the periodic table its shape. *See* Chapter 162; Chapter 238.
+
+**Phenotype.** The observable traits an organism actually ends up with, produced by its genotype interacting with its environment and development. *See* Chapter 298; Chapter 301.
 
 
 **Photon.** The smallest possible packet of light or other electromagnetic energy. *See* Chapter 158; Chapter 182.
@@ -261,7 +267,7 @@
 
 **Quantum Zeno effect.** The freezing of a quantum system's change by measuring it often enough; a watched quantum pot really does not boil, though an ordinary one is unimpressed. *See* Chapter 155.
 
-**Quark.** One of the fundamental particles that make up protons and neutrons, held together in threes by the strong force and never seen alone. *See* Chapter 163.
+**Quark.** One of the fundamental particles that make up protons, neutrons, and other particles, bound together in twos or threes by the strong force and never seen alone. *See* Chapter 163.
 
 **Qubit.** A quantum bit, which can be in a superposition of 0 and 1 until measured. *See* Chapter 166.
 
