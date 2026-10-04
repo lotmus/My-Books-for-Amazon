@@ -3,7 +3,6 @@ A Relativistic Investigation Bureau Mystery
 Book One
 Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
 Copyright © 2026 Lothar J. Musiol. All rights reserved.
-
 Table of Contents
 How to Read This Book
 PROLOGUE
@@ -27,7 +26,6 @@ Chapter 16 - The Final Geometry
 EPILOGUE
 Coming Next
 COURSE (lessons, workshop, glossary, bibliography)
-
 How to Read This Book
 This is a satirical mystery with real relativity underneath. You need no physics to follow the case. The comedy is the bait. The geometry is the trap.
 The novel is Case 1047: a murder that has not happened yet, and a Bureau that files first and asks later. Derek Gent investigates a death notice with his name on it, while trying not to make the paperwork worse.
@@ -40,26 +38,21 @@ If you take the class out of order, take Lesson 2 before you argue with Chapter 
 One promise: where Newton cannot host this mystery, the book says so. Absolute 'now' makes Case 1047 gibberish. Relativity makes the misfiling possible — and the fear of it real.
 A companion list of films lives on the COURSE page, with a one-line reminder at the end of each lesson. None of them are required.
 Three demos, one job each, at https://lotmus.github.io/relativistic-site/ — simultaneity for Lesson 2, curvature for Lesson 5, and expansion so that "the universe stretches" is not filed under murder. The same address is repeated under Further Reading. It is not a fourth demo.
-
 Author's Note
 This novel is the first in The Relativistic Investigation Bureau series. Special and General Relativity, as used here, are settled physics. Holography is a live research programme: real in particular theoretical settings, not a proof that our universe is a cinema screen. The crimes and investigations are fictional. The jokes are mine.
 If you find yourself questioning whether time is fundamental, whether causality can be violated, or whether a sufficiently incompetent filing system could create paradoxes... congratulations. You're thinking like an investigator.
 The Bureau appreciates your attention to detail.
-
 Copyright Stuff (The Serious Part)
 No part of this book may be copied, stored, transmitted, photographed, scanned, uploaded, downloaded, teleported, interpreted through interpretive dance, or otherwise reproduced by any means without prior written permission from the publisher. Brief quotations in reviews are fine. Ripping off entire chapters and calling it "research" is not.
-
 Reality Check (Sort Of)
 This is a work of fiction. The names, characters, businesses, places, events, and assorted chaos contained herein are either products of the author's imagination or have been shamelessly fictionalised.
 Any resemblance to actual persons, living or dead, actual events, or suspiciously familiar situations is probably not coincidental. In fact, if you see yourself in these pages, you may want to spend a few minutes reflecting on the life choices that brought you here.
-
 PROLOGUE
 In Which the Universe Refuses to Behave
 A form can be finished before the event it names. Derek Gent had not learned that yet. He would learn it on a Tuesday, when the form used his name.
 The Relativistic Investigation Bureau had a drawer for most things. Murder was drawer one. Pending Geometry was drawer three. In seventeen years nobody had ever filed anything in drawer three, and Mrs Marsh, who kept the keys, regarded that as a sign the system was working.
 By the end of the week Derek would know what had happened at eleven minutes past eleven, at four minutes past twelve, and, above all, at three minutes past eleven on a Wednesday. He would know which clocks had disagreed and why none of them had lied. He would not know everything. Nobody ever does. But he would know which drawer it went in.
 Rule: A murder that has not happened yet is still a filing. Treat the paperwork as evidence.
-
 Chapter 1
 The Surprise in the Morning
 At seventeen minutes past nine on a Tuesday morning at the end of October, Derek Gent received an email informing him that he had been murdered.
@@ -139,7 +132,6 @@ Penny took a pencil and wrote beside the printout Derek had just made, because s
 "I'm labelling," said Penny. "You said yourself that's what clocks do."
 Rule: A clock can lie by telling the wrong kind of truth.
 -> Lesson for this chapter: 1 - Special Relativity Is Rude
-
 Chapter 2
 Case 1047
 The email had a case number in its footer, which emails from the Bureau were not supposed to have, because emails from the Bureau were not supposed to exist. Derek opened CASEBOOK on his own screen and typed it in. 1047.
@@ -214,7 +206,6 @@ Trevor held out his hand for the clock, the way a man holds out his hand for a s
 "I know," said Derek. "That's what worries me."
 Rule: When a file fills its own blanks, ask what it filled them with.
 -> Lesson for this chapter: 1 - Special Relativity Is Rude
-
 Interlude
 Sophie
 Sophie Gent was small for twelve and treated this as a technicality rather than a fact, the way she treated most inconvenient data. She wore her dark hair scraped back hard enough to argue with, on the theory that anything loose was a distraction, and she had her father's habit of going very still when she was thinking, which teachers mistook for daydreaming and which her father would have recognised at once.
@@ -232,7 +223,6 @@ She had not laughed. She had said, "Okay." Then she had gone upstairs and writte
 Julian was fine. That was the problem. He was quiet and kind and he taught geography at a school in Hackney and wore cardigans as if it were a political position, and he never once pretended to be her father, and he never asked to see the notebook. If he had been awful she could have been angry, and anger was at least a thing you could write down. Fine was harder. Fine went in no column at all.
 Dad did not know yet. Mum was going to tell him at the weekend. Sophie knew this because Mum had said so on the phone to Auntie Ros, in the garden, in the voice she thought did not carry. At the weekend, Ros. At a table. He'll be very reasonable about it, and then he'll go home and lie on the floor.
 She had done the stupid thing the morning after Mum told her. The Wednesday. She did not think the two facts were connected. She had written them on different pages, to make sure.
-
 Chapter 3
 The Lorentz Transform
 By ten o'clock the whiteboard said EVENT, FRAME, TIME, in that order, in Derek's capitals, and Trevor had been forbidden to write anything under them until he had a number.
@@ -312,7 +302,6 @@ Trevor booked three seats on the half past one from Heathrow without being asked
 He locked the door. He tried the handle twice, which he never did, and then a third time, which he was ashamed of, and went down the stairs, and on the fourth step the step made its noise.
 Rule: If the algebra demands v > c, the premise is the suspect, not the universe.
 -> Lesson for this chapter: 2 - Lorentz Finally Gets Involved
-
 Chapter 4
 The Weight of Time
 At a quarter to twelve, Munich time, Alfred Weinstein was sitting in a patent attorney's office in Schwabing, being bored on purpose.
@@ -329,7 +318,7 @@ He looked up from the print at the clocks in his own office, because a man who h
 There were three. The wall clock was radio-controlled and took its time every night from the long-wave transmitter at Mainflingen, near Frankfurt, which was in turn steered by the atomic clocks in Braunschweig. His wristwatch was mechanical and gained six seconds a day, which he forgave because it had been his father's. The clock on his secretary's desk had been set by hand by his secretary, who had views about punctuality and none about accuracy. They said, respectively, 11:52:40, 11:52:58 and 11:49.
 Three honest clocks, three different times. Not one of them was lying. Each was reporting a fact about itself: where it took its orders from, how its spring had been treated, who had set it and how carefully. That was the first thing you had to understand about clocks, and almost nobody did.
 The second thing was stranger, and it was true.
-If he took the radio clock off the wall and put it on the floor, it would run slow compared with a twin left on the wall. Not because the floor was cold or the battery was tired, but because it was a metre deeper in the Earth's gravity, and time itself, measured by any clock at all, runs more slowly deeper in a gravitational field. Einstein had predicted it. Pound and Rebka had measured it in 1959 by firing gamma rays up a tower at Harvard. In 2010 a group in Boulder had seen it with two optical clocks a third of a metre apart in height. One metre of height was worth about one part in ten thousand million million: about a quarter of a millionth of a second over a human lifetime. The effect was real, and it was useless for murder. No difference in height on any floor in London could put a day and three quarters between a photograph and a room.
+If he took the radio clock off the wall and put it on the floor, it would run slow compared with a twin left on the wall. Not because the floor was cold or the battery was tired, but because it was a metre deeper in the Earth's gravity, and time itself, measured by any clock at all, runs more slowly deeper in a gravitational field. Einstein had predicted it. Pound and Rebka had measured it in 1960 by firing gamma rays up a tower at Harvard. In 2010 a group in Boulder had seen it with two optical clocks a third of a metre apart in height. One metre of height was worth about one part in ten thousand million million: about a quarter of a millionth of a second over a human lifetime. The effect was real, and it was useless for murder. No difference in height on any floor in London could put a day and three quarters between a photograph and a room.
 Height is cheap, he thought. Disagreement is not. If honest clocks disagree by a day, you are not looking at physics. You are looking at somebody's paperwork.
 He wrote that in the margin of the regulator application, which he would have to erase later, and then wrote underneath it: The file is a clock too. Who set it?
 The senior partner came back. The inventor had said ordinary steel. Weinstein nodded, as a doctor nods at a symptom he expected, and stood up and put on the jacket he had not taken off.
@@ -348,7 +337,6 @@ In the corridor Herbert Matkowski was waiting with his coat over his arm and an 
 Weinstein followed him down. He did not argue. He had been graded by this man in public since he was nineteen, and the man had been right about the pencil every time.
 Rule: Height is cheap. A day's disagreement between honest clocks is paperwork, not gravity.
 -> Lesson for this chapter: 4 - Enter General Relativity
-
 Chapter 5
 The Man Who Had Mislaid Time
 Julius Barbarian lived in a house in Bogenhausen that looked as if it had been designed by someone who had once been told what a house was and had decided to improvise. There was no sign on the gate. Beside the front door there was a small brass plaque that said, in German and then in English, PLEASE DO NOT ASK WHAT TIME IT IS.
@@ -409,7 +397,6 @@ He thought, for no reason, of teaching Sophie to tell the time. She had been fiv
 He lay back on the hotel bed in the dark. The photograph glowed on the blanket beside him until the screen timed out, and then it was only a dark rectangle, and he found he could look at that.
 Rule: A photograph is already finished. Ask it when, and don't let the caption answer.
 -> Lesson for this chapter: 3 - Time May Be Less Fundamental
-
 Chapter 6
 The Apple Problem
 At twenty to six on Wednesday morning Alfred Weinstein was on the S-Bahn to the airport, thinking about apples, because Derek Gent had decided at a quarter to five that he was going home.
@@ -445,7 +432,6 @@ Sweetheart. Whatever Trevor was meant to look at, he can look at it. Whatever yo
 It was true, and it would have frightened her more than anything in the photograph, so he saved it as a draft and put the phone away, and looked out of the window at a sky that was very blue and very far away and entirely uninterested in Wednesday.
 Rule: Nothing can tell from inside what its own fall means. You need a second object to compare.
 -> Lesson for this chapter: 5 - The Apple
-
 Chapter 7
 The Fourth Coordinate
 London met them at Heathrow with the rain Matkowski had promised: steady, cold, without ambition, the kind that has decided to stay all day and sees no reason to make a fuss about it. They took the Piccadilly line because Derek did not drive and had never held a licence, a fact he attributed to an instructor who had failed him twice for excessive philosophical hesitation at junctions, and because a taxi from Heathrow at that hour would have cost the Bureau a month of Greaves.
@@ -495,7 +481,6 @@ Penny had worked her way down the carriage. She did not ask what Sophie had said
 At Holborn they came up the escalators into the rain. It was twenty to eleven. The building was a hundred yards away, wet and grey and entirely ordinary, with its second-floor window looking down at the street like a face that had not yet decided on an expression.
 Rule: A file with no date has told you exactly where it stops knowing. Respect the gap.
 -> Lesson for this chapter: 6 - Singularities
-
 Chapter 8
 The Cold Rain
 The café across the road was called Bean There, which Derek had objected to for six years on grammatical grounds and visited for six years on caffeinated ones. He sat in the window with a flat white he did not want. Trevor sat beside him with his laptop open on the camera feed, so that the two of them could watch, in a small square at the corner of the screen, the inside of the room they were not in: the desk, the filing cabinet, the door, and Penny, in her coat, sitting on the corner of the desk with her arms folded, looking straight at the camera as if she knew they were watching, which she did.
@@ -559,7 +544,6 @@ It was raining on the window. There was no sunlight on the desk. The frame on th
 Sophie answered the phone. "Mum," she said. "Mum, he's fine, he's on the floor, it's his back—" and then held the phone away from her ear, because the noise coming out of it could be heard by everyone in the room, including, very probably, the dolphin.
 Rule: The deadline came and nothing happened. That is not the end of a case. It is data.
 -> Lesson for this chapter: 7 - Why SR and GR Don't Fight
-
 Chapter 9
 The Open-Door Principle
 The Bureau had a rule about doors, and like most of its rules it had begun as a joke and hardened into law. If an office door was open, the person who worked behind it was out, whatever it looked like. If it was closed, they were in and were not to be disturbed, whatever it sounded like. Penny had written it on a card in 2019 after Trevor walked in on Derek asleep on the floor with a wheat bag on him and screamed. Visitors found the rule baffling. Staff found it restful. It meant you never had to knock, and you never had to explain why someone was lying on the carpet.
@@ -667,7 +651,6 @@ She said it all the way through, once, quietly. Then she folded the printout in 
 She texted nobody. She went to bed. In the morning she went in early and had the kettle on before anyone could ask.
 Rule: Two people can put different numbers on the same door. Ask where each of them started counting.
 -> Lesson for this chapter: 8 - The Door
-
 Chapter 10
 The Relativistic Ride
 On Thursday morning Derek went to physio, because the alternative was crawling.
@@ -749,7 +732,6 @@ Priya looked at her with the seriousness of a girl who had once made a spreadshe
 "Monday," said Priya, and finished the satsuma, and pushed the peel into her blazer pocket, where it would remain, she said, as evidence.
 Rule: Honest clocks disagree because they took different paths. Trace the path before you blame the clock.
 -> Lesson for this chapter: 9 - Relativistic Travel
-
 Chapter 11
 The Ordinary Cucumber Problem
 Penny had bought a cucumber on Tuesday morning, on her way in, because she had been planning a salad and had not been planning a murder. It had spent the intervening days on the windowsill above the radiator, through Munich and the rain and Tuppence, and on Thursday afternoon she picked it up to throw it away and stopped.
@@ -807,7 +789,6 @@ He waited.
 She rang off. He stayed in the stairwell. Below him, in the street door, Mrs Marsh was explaining to a courier that a parcel addressed to the second floor was not the same thing as a parcel delivered to the second floor, and that he could take the stairs like a Christian. Derek listened to the whole argument, and found it soothing, and went back up.
 Rule: A length is both ends at once. A date and a time from different places are not an event.
 -> Lesson for this chapter: 10 - The Cucumber
-
 Chapter 12
 The Hologram Problem
 On Thursday evening they questioned the only two people outside the Bureau who had ever had a reason to touch the camera.
@@ -900,7 +881,6 @@ Clock fine. On the filing cabinet. Trevor not near it.
 Good, wrote Sophie, and then, a minute later: I worked out why it's good. Not telling you yet. Want to see your face.
 Rule: A flat record can hold depth if you read it with the right dictionary. Ask which way the feet are pointing.
 -> Lesson for this chapter: 11 - The Hologram
-
 Chapter 13
 The Wrong Kind of Multiverse
 On Friday morning, because Vance was not coming until two and because he could not sit in the office with the photograph any longer, Derek went to find the man who had sold his daughter a clock.
@@ -1030,7 +1010,6 @@ Tuppence looked at him, and then, to her own surprise, laughed, in the car, in t
 "Yes," said Tuppence. "Someone's got to stand at the back and count the stairs." She got out of the car and took the umbrella from him, and held it over the books, which was the correct order of priorities, and they went in.
 Rule: If everything happens everywhere, measure what must still agree.
 -> Lesson for this chapter: 12 - Not Actually a Multiverse
-
 Chapter 14
 The Station Wasn't Quite There
 In July, when nothing was wrong, Derek had booked two tickets for a Saturday morning tour of Aldwych station, which had closed in 1994 and had been kept ever since as a piece of London that was there and not there: a station with a ticket hall and lifts and platforms and no trains, used for films and for wartime storage and for people like Sophie, who liked things that had been left exactly as they were.
@@ -1131,7 +1110,6 @@ Derek walked beside him without answering. Then he said, "Did your father ever m
 "Then he is already halfway," said Weinstein. "The back is where a man keeps his questions. Every physiotherapist in Bavaria will tell you so."
 Rule: Gravity hides in a falling box. It shows itself in the difference between two places.
 -> Lesson for this chapter: 13 - Curved Corridors and Tides
-
 Chapter 15
 The Train Arrived Before It Left
 In the afternoon, because Aldwych had left him restless and Weinstein had gone back to his hotel to sleep like a man who had been awake since 1972, Derek went home and stood in the study in his coat. Sophie's pencil case. The ruler. The library book on timekeeping, seventeen days overdue now, which he put by the front door to take back on Monday. The calendar on the wall, with Car boot written in September on a Sunday, and October still empty apart from the clocks-go-back symbol the printer had put on the twenty-fifth, a little curved arrow pointing backwards.
@@ -1296,7 +1274,6 @@ She did not cross it out. She wrote the time beside it, 01:40, and then, because
 Tabitha arrived at the door at ten to two, winter time, wet and pleased, with a train that had arrived before it left, and found her brother asleep at his desk with the list of clocks under his cheek and her dog asleep under it and Derek Gent sitting by the window, watching the street, with the expression of a man who has finally been told what time it is.
 Rule: Causal order is the same for everyone. Labels are not. A train that arrives before it leaves is a timetable, not a time machine.
 -> Lesson for this chapter: 14 - The Train Arrived Before It Left
-
 Chapter 16
 The Final Geometry
 He used the extra hour.
@@ -1446,7 +1423,6 @@ WITNESSED.
 "He'll want mackerel," said Penny, and went to fill in the form.
 Rule: When a file fills its own blanks, close it by hand. Leave honest gaps empty.
 -> Lesson for this chapter: 15 - The Dolphin and Final Geometry
-
 EPILOGUE
 The Relativistic Investigation Bureau Discovers That
 Solving One Mystery Is Merely an Invitation to Acquire Another
@@ -1500,7 +1476,6 @@ Trevor went towards the kettle. Derek did not call after him. A week ago he had 
 He sat down at his desk and put his hand flat on the Case 1047 folder, which was fat and buff and finished, and looked at the photograph on top of it one last time: a man asleep on a floor, and a girl stepping backwards out of a door so as not to wake him. Then he closed the folder, and listened to the kettle, and waited for ten o'clock.
 Rule: Some cases end not with an arrest but with a kettle. Pending Geometry is the correct drawer.
 -> Lesson for this chapter: 16 - Capstone: The Clock Was Lying
-
 Coming Next in the Relativistic Investigation Bureau Series
 At ten to ten on a Monday morning the Relativistic Investigation Bureau was closing Case 1047. Derek lifted Penny's mug off the folder and slid the folder across to the out-tray.
 "That's it," he said.
@@ -1517,7 +1492,6 @@ From somewhere inside the carriage came a voice, and it was his own.
 This time nobody had misfiled anything. This time it was not a camera, or a template, or a girl with a clock. Herbert Matkowski calls it a coordinate problem. Alfred Weinstein calls it interesting. Penny calls it Monday. Tabitha, when asked, changed the subject, and at home Gucci had already worked it out and was refusing to discuss it either.
 The Relativistic Investigation Bureau returns in Book Two, The Warning That Was Sent Too Late.
 -> If you skipped the course: Lesson 16 - Capstone: The Clock Was Lying
-
 COURSE
 Spacetime for Investigators
 A Short Course from the Relativistic Investigation Bureau
@@ -1554,7 +1528,6 @@ Lesson 13 — Gravity: tides, not a single downward force.
 Lesson 14 — Primer (third time, now with a light cone): order can reverse only when nothing causal connects the events.
 Lesson 15 — Arrival (again): the messenger is not the geometry.
 Lesson 16 — The Clock (Christian Marclay): looking at a time is not the same as ticking it.
-
 Syllabus Map
 Module A
 Foundations of Special Relativity (Lessons 1-3):
@@ -1582,11 +1555,9 @@ Causality & Capstone (Lessons 14-16):
 Causal Structure
 Einstein Equation
 Event Coordinate
-
 WORKSHOP
 The Twin Paradox
 Do this after Lesson 2, once you have the interval. The problem is printed there.
-
 Lesson 1
 Special Relativity Is Rude
 Module A · Foundations of Special Relativity · Case link: Chapters 1-3. Learning objective: State Einstein's two postulates and explain why constant c forces space and time to transform together. The first thing to understand about Special Relativity is that it does not begin with the statement:
@@ -1642,7 +1613,6 @@ No. The disagreement is what the frames are for. A broken clock is a different f
 → Glossary: Simultaneity
 <- Chapter for this lesson: Chapter 1
 Film: Primer — patience as a coordinate system.
-
 Lesson 2
 Lorentz Finally Gets Involved
 Module A · Foundations of Special Relativity · Case link: Chapter 3. Learning objective: Use the Lorentz transformation to relate coordinates between inertial frames and name at least one invariant.
@@ -1660,6 +1630,7 @@ A's teal line passes through both events. A says they happen at the same time.
 B's red line passes through Event 1, but Event 2 lies below it. B says Event 2 happened earlier than Event 1.
 Event 2 does not belong on the red line because B does not consider it simultaneous with Event 1. The coloured lines represent equal times, not paths that the events must follow.
 This disagreement is not simply about light taking time to reach someone's eyes. It remains after each observer accounts for light travel time.
+
 Different observers can therefore disagree about distances, elapsed times, and whether two separated events happened simultaneously.
 Drag the velocity yourself and watch the red and teal lines tilt apart at the simultaneity demo.
 They do not, however, disagree about everything.
@@ -1682,7 +1653,6 @@ Exit Form
 What stays the same for all inertial observers?
 The speed of light in vacuum, and the spacetime interval between the same two events.
 Film: Interstellar (docking) — Lorentz is not a mood.
-
 WORKSHOP
 The Twin Paradox
  (do this after Lesson 2)
@@ -1695,7 +1665,6 @@ Workshop result: proper time depends on the path taken.
 The same idea reappears in the novel whenever two honest clocks disagree.
 Trevor still wants it filed under Pending Geometry. Mrs Marsh still refuses to stamp the form.
 Proceed to Lesson 3.
-
 Lesson 3
 Time May Be Less Fundamental
 Module A · Foundations of Special Relativity
@@ -1731,7 +1700,6 @@ Exit Form
 Can two clocks follow different paths through spacetime and accumulate different proper times?
 Yes. Proper time is the time along a path. Two paths between the same events need not carry the same amount of it.
 Film: Arrival — a label is not a sequence.
-
 Lesson 4
 Enter General Relativity
 Module B · Gravity as Geometry · Case link: Chapter 4. Learning objective: Explain gravity as spacetime geometry and state what the equivalence principle does and does not allow. Special Relativity deals with inertial frames and flat spacetime. But gravity causes a problem.
@@ -1759,7 +1727,7 @@ That difference is the tell, and it has a name: a tidal effect. Locally — in a
 → Glossary: Tidal Force
 This is why General Relativity cannot simply be "acceleration, but everywhere." A single accelerating frame can cancel gravity inside one small lift. No single frame cancels it in every lift on Earth at once, because the leftover — what no accelerating frame can absorb — is the actual curvature of spacetime. Chapter 14 puts Derek in a corridor built entirely out of that leftover: two clocks agreeing perfectly nearby and disagreeing badly forty-seven metres away, for exactly this reason.
 → Glossary: Curvature
-Pound and Rebka, 1960, Harvard. A gamma-ray source and an absorber separated by 22.5 metres of tower. The frequency shift matched gravitational time dilation to about ten percent. Height is cheap. Disagreement between honest clocks is not. The Bureau's anomaly is larger than a tower. That is the interesting part, not a licence to invent a new theory before lunch.
+Pound and Rebka, 1960, Harvard. A gamma-ray source and an absorber separated by 22.5 metres of tower. The frequency shift matched gravitational time dilation to about ten per cent. Height is cheap. Disagreement between honest clocks is not. The Bureau's anomaly is larger than a tower. That is the interesting part, not a licence to invent a new theory before lunch.
 Lesson checkpoint
 General Relativity replaces flat spacetime with a dynamical geometry that responds to matter and energy.
 <- Chapter for this lesson: Chapter 4
@@ -1769,7 +1737,6 @@ Exit Form
 What tells you that a gravitational field cannot be removed everywhere just by choosing an accelerating frame?
 Tidal effects.
 Film: Apollo 13 — height is cheap; honest clocks still disagree.
-
 Lesson 5
 The Apple
 Module B · Gravity as Geometry
@@ -1793,6 +1760,7 @@ The apple was therefore not really falling because gravity "pulled" it downward 
 It was following the geometry.
 Newton wasn't wrong.
 He had simply discovered an extraordinarily good approximation to something deeper.
+
 Weinstein nearly lectured Derek on reconstructing the trajectory from the ground up — position, velocity, field, geometry, the whole local configuration — and then remembered he was on a train. The reconstruction is still the right homework. If you run the path backwards, you find you cannot recover the apple without recovering its environment: the geometry contains the matter, the matter contains the geometry, and a falling body is a probe of both. That is why Chapter 6 lets the pencil and the clock disagree and then stops. The essay belongs here, not in the interrogation.
 Watch a particle trace its geodesic around an adjustable mass, with no force pushing it anywhere, at the curvature demo.
 <- Chapter for this lesson: Chapter 6
@@ -1803,7 +1771,6 @@ Exit Form
 Why do astronauts feel weightless in orbit?
 They and their spacecraft are in free fall.
 Film: 2001: A Space Odyssey — a geodesic with better lighting.
-
 Lesson 6
 Singularities
 Module B · Gravity as Geometry
@@ -1841,7 +1808,6 @@ Exit Form
 What should a singularity make you suspect?
 That the classical theory has reached its limit.
 Film: Event Horizon — the map running out, not a villain's lair.
-
 Lesson 7
 Why SR and GR Don't Fight
 Module B · Gravity as Geometry
@@ -1866,8 +1832,8 @@ Exit Form
 Why can a small freely falling laboratory behave approximately like Special Relativity?
 Because curvature effects become negligible over a sufficiently small region.
 Film: The Martian — local physics still works while the planet does not.
-
 Lesson 8
+
 The Door
 Module C · Labels, Paths, Experiments
 Case link: Chapter 9.
@@ -1890,7 +1856,6 @@ Exit Form
 If two coordinate systems assign different numbers to the same event, does that automatically mean two different events occurred?
 No.
 Film: Primer again, for the door — two numbers, one event.
-
 Lesson 9
 Relativistic Travel
 Module C · Labels, Paths, Experiments · Case link: Chapter 10. Learning objective: Compute the idea of proper-time difference along unequal worldlines (twin paradox logic). The Lorentz transformation connects the space and time coordinates of the same events in the Earth and spaceship frames.
@@ -1914,7 +1879,6 @@ Exit Form
 If Derek travels fast and reunites with Earth, can he have aged less than someone who stayed behind?
 Yes, if his path is the one that turned around. The clocks are not broken. The routes are unequal.
 Film: Twelve Monkeys — a worldline is not a timetable.
-
 Lesson 10
 The Cucumber
 Module C · Labels, Paths, Experiments
@@ -1940,8 +1904,8 @@ Exit Form
 If the ordinary cucumber is 31 cm long in its rest frame and γ = 2, what length does an observer measure along the direction of motion due to contraction?
 15.5 cm.
 Film: The Fly (1986) — length is a pair of ends at the same time.
-
 Lesson 11
+
 The Hologram
 Module D · Dual Descriptions
 Case link: Chapter 12
@@ -1949,6 +1913,7 @@ Learning objective: State the area-law clue for black-hole entropy and what holo
 Derek's filing cabinet was full. This was an established fact, supported by the drawer that no longer shut.
 Ordinarily, the remedy would be a larger cabinet. Double its width, height and depth, and there would be eight times as much room for files. Trevor would fill it in a fortnight, but that was a staffing problem.
 Black-hole physics suggests a stranger kind of accounting. When physicists calculate a black hole's entropy (roughly: how disordered or unpredictable its microscopic details are), the quantity that matters is the area of its horizon. That unexpected result helped inspire the holographic principle: a theory describing a region with gravity may have an equivalent description on a boundary with one fewer spatial dimension.
+
 → Glossary: Holographic Principle
 The filing cabinet is an analogy. Please do not attempt the experiment with the Bureau's furniture.
 What the black holes tell us: A black hole's event horizon is the boundary beyond which light cannot escape to distant observers. It is not a solid shell.
@@ -1985,7 +1950,6 @@ Exit Form
 If a spherical black hole's horizon radius doubles, what happens to its Bekenstein-Hawking entropy?
 It becomes four times as large, because the horizon area becomes four times as large.
 Film: The Matrix — a boundary description is not proof you are imaginary.
-
 Lesson 12
 Not Actually a Multiverse
 Module D · Dual Descriptions
@@ -2029,7 +1993,6 @@ No. A story about many worlds is not a measurement that many worlds exist.
 What does it mean to say a tensor's components "transform" when coordinates change?
 The individual numbers change; the physical relationship they express does not.
 Film: Everything Everywhere All at Once — metaphor, not evidence.
-
 Lesson 13
 Curved Corridors and Tides
 Module B · Gravity as Geometry
@@ -2055,7 +2018,6 @@ Exit Form
 What survives as evidence of curvature when a uniform gravitational field can be mimicked by acceleration?
 Tidal effects.
 Film: Gravity — tides, not a single downward force.
-
 Lesson 14
 The Train Arrived Before It Left
 Module E · Causality & Capstone
@@ -2081,7 +2043,6 @@ Exit Form
 If two events are causally connected, can an inertial observer simply transform them into the opposite temporal order?
 No. If a signal can run from one to the other, every inertial frame keeps that order.
 Film: Primer (third time, now with a light cone) — order can reverse only when nothing causal connects the events.
-
 Lesson 15
 The Dolphin and Final Geometry
 Module E · Causality & Capstone
@@ -2154,7 +2115,6 @@ Exit Form
 What is on the geometric side of Einstein's field equation?
 Curvature, packaged in the Einstein tensor plus the cosmological-constant term.
 Film: Arrival (again) — the messenger is not the geometry.
-
 Lesson 16
 Capstone: The Clock Was Lying
 Module E · Causality & Capstone · Case link: Epilogue / Case 1047. Learning objective (capstone): Distinguish event coordinates from proper time; explain how Case 1047 can look like a completed murder without a murderer.
@@ -2177,7 +2137,6 @@ If a clock shows a value nobody's watch actually ticked through, is the clock ly
 The clock isn't lying. Somebody's reading a coordinate as if it were a measurement.
 <- Chapter for this lesson: Epilogue
 Film: The Clock (Christian Marclay) — looking at a time is not the same as ticking it.
-
 SUMMARY
 Final exam (open book, closed superstition): In one paragraph, explain why Case 1047 can present a completed murder photograph without a murderer, using only: event, reference frame, event coordinate, proper time, and causal structure. If your answer works equally well with magic instead of relativity, you have failed the course — retake Module E.
 → Glossary: Causal Structure
@@ -2201,7 +2160,6 @@ There is, however, one final question. Derek's question. The question that has b
 Well. That's the problem.
 We haven't finished.
 But the good news is that neither has the universe. Which is rather reassuring.
-
 GLOSSARY
 Andromeda Paradox. Penrose's illustration that a small change of velocity on Earth can swing a distant "now"-slice across days on Andromeda. It is a statement about simultaneity for spacelike separation, not a method for sending news to Andromeda.
 Block Universe. The view that past, present, and future events are equally part of a four-dimensional whole. Relativity's geometry is friendly to it; it is not a theorem that free will is a clerical error.
@@ -2234,7 +2192,6 @@ Time Dilation. Differences in clock rates associated with relative motion or gra
 White Hole. The time-reverse of a black hole in the equations: a region from which matter and light can only emerge, never enter. A mathematical solution, not an observed object. Lesson 6 names it so the Underground's bad day is not promoted into one.
 Worldline. The path an object traces through spacetime: where it is and when it is there. Your biography, with fewer adjectives and more coordinates.
 Wormhole. A hypothetical connection between otherwise separate or distant regions of spacetime. Some solutions of general relativity contain wormholes, but traversable versions typically require exotic stress-energy. Mathematical availability does not guarantee a usable passage. Lesson 6 names it so the impossible station is not promoted into one.
-
 About the Author
 The alleged author Spezala Genara Relavi (S.G.R.) has never been formally accused of understanding General Relativity, though several of her fictitious colleagues maintain that she understands it, she hopes, better than she does the Special One. She divides her time between London, Munich, and a rather small pink filing cabinet labelled
 [ PRE-TRANSFORMATION / DO NOT OBSERVE ]
@@ -2242,7 +2199,6 @@ Spezala Genara Relavi is the author of The Relativistic Investigation Bureau ser
 Ms Relavi has not yet been murdered, although she understands this might be subject to change without further notice, possibly.
 The real author, Lothar J. Musiol, exists in a more conventional sense and is responsible for the nonfiction behind the weird work of fiction.
 He is German by birth, American by choice, and writes in British because he regards it as the most awkward American dialect — and because the Bureau would not survive a transatlantic spelling argument in the same week as a clock.
-
 FURTHER READING
 Start here, in this order:
 Gamow, Mr Tompkins in Wonderland — what living inside Special Relativity might feel like.
@@ -2255,13 +2211,11 @@ Sten Odenwald's relativity questions, reprinted by Gravity Probe B. Objections, 
 Norton, Einstein for Everyone. Open the contents and start at special relativity, not at the front door: https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/index.html
 The three demos named in How to Read: https://lotmus.github.io/relativistic-site/
 The full shelf, with difficulties, is the Bibliography.
-
 ACKNOWLEDGEMENTS
 Thanks are owed to General Relativity, for holding up long enough to be explained; to Special Relativity, for the same, on a shorter and faster-moving basis; and to the ordinary cucumber, for its continued and largely uncomplaining service to physics education — and then some, as Penny might agree.
 I'd call it mission accomplished if this book managed to spark some interest in a reader who had none. I would be rather less pleased if it managed to put out a reader who arrived already lit.
 Anyway, kudos to everyone who read an early version of this manuscript and did not, in fact, ask for their afternoon back. Their forbearance was noted and is filed under Pending Gratitude.
 And to you, the reader, thanks for making it this far without once asking the Bureau for a refund. The Bureau appreciates this more than its paperwork will admit.
-
 BIBLIOGRAPHY
 Einstein, Albert. Relativity: The Special and General Theory. Translated by Robert W. Lawson. Methuen, 1920. Originally published in German in 1916. COMMENT: Einstein's original exposition. Difficulty: High — dense and mathematical, but this is where the real physics lives. Patience required.
 Epstein, Lewis Carroll. Relativity Visualized. Insight Press, 1985. COMMENT: Visual approach to relativity. Difficulty: Medium — highly recommended for intuitive understanding, much more accessible than Einstein's original.
@@ -2280,7 +2234,6 @@ Penrose, Roger. The Emperor's New Mind. Oxford University Press, 1989. COMMENT: 
 Rovelli, Carlo. The Order of Time. Riverhead Books, 2018. COMMENT: A working physicist arguing that time's apparent flow is not fundamental. Difficulty: Low-Medium. File next to Barbour, not on top of him — they are not the same programme.
 Schutz, Bernard. A First Course in General Relativity. 3rd ed., Cambridge University Press, 2022. The 1985 first edition is a different printing. COMMENT: The standard next course after this one. Difficulty: High.
 Taylor, Edwin F., and John Archibald Wheeler. Spacetime Physics. W. H. Freeman, 1992. COMMENT: The cleanest introductory drill on intervals, proper time, and diagrams. Difficulty: Medium. This is Lesson 2 with homework.
-
 Also by Lothar J. Musiol
 Physics, Actually
 Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity
@@ -2313,14 +2266,13 @@ History
 The Dolphins' View of History
 Fiction
 The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1)
-The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2)
-Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1)
-The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2)
+The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2) — coming soon
+Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1)
+The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2)
 Protocol Flamingo (The Invasion Storybooks, Book 1), as George Herbert Fontaine
 How-To
 Your First Book That Sells
 Your First YouTube Channel That Rocks
-
 One Last Thing
 If you enjoyed this book, a short review wherever you bought it helps other readers find the Bureau.
 Readers who would like the mathematics behind Derek's cases explained directly can find it in Lothar J. Musiol's nonfiction Physics, Actually series, which covers relativity with equations and considerably fewer fictional clocks.
