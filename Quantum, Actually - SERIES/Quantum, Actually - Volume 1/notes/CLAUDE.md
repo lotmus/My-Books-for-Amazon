@@ -4,7 +4,7 @@
 
 This folder is its own book: *Quantum, Actually — Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire*
 (titled *The Quantum World* until 2026-10-03), canonically at
-https://github.com/lotmus/My-Books-for-Amazon/tree/main/Quanta%2C%20Actually%20-%20SERIES/Quantum%2C%20Actually%20-%20Volume%201
+https://github.com/lotmus/My-Books-for-Amazon/tree/main/Quantum%2C%20Actually%20-%20SERIES/Quantum%2C%20Actually%20-%20Volume%201
 
 **Do not leave this folder.** Don't read, edit, or comment on any other book,
 folder, or repo in this account (the almanac *Lothar's Holistic Brain Farts*,
@@ -48,9 +48,9 @@ seems worth touching, say so and wait to be asked — don't go do it.
   the copyright page opens with "Quantum, Actually" and "Volume 1 — subtitle"
   and ends with "Quantum, Actually series". The book has no running heads
   (empty headers, page number in the footer); keep it that way. Refer to the
-  QED Course as "*A QED Course* (Volume 2)". The series folder is still named
-  `Quanta, Actually - SERIES` because it also holds the QED Course; renaming it
-  is Lothar's call.
+  QED Course as "*A QED Course* (Volume 2)". The series folder was renamed
+  `Quantum, Actually - SERIES` on 2026-10-04 (git mv, Lothar's call); it
+  also holds the QED Course.
 - **Merge (2026-10-03, Lothar's decision):** *The Quantum Conversation* was
   merged into this book as **Part Two, "One Road Through It"** (Chapters
   10–31, condensed from its 47 chapters). Part One, "The Map", is the original
