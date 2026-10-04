@@ -1,0 +1,78 @@
+Q_PART1={
+1:"Why does the everyday picture of little balls and smooth waves break down for light and electrons?",
+2:"What does it mean for two particles to be entangled, and why did Einstein call it spooky?",
+3:"How did experiments settle whether a hidden classical explanation lies behind quantum correlations, and what does teleportation actually send?",
+4:"What does quantum mechanics say about reality, and how can a philosopher's tools keep us from saying more than we know?",
+5:"If particles are not the bottom layer of the world, what is underneath them?",
+6:"What holds the atomic nucleus together, and why can no one ever pull a single quark loose?",
+7:"How do light and matter interact, and why is this the most precisely tested theory in science?",
+8:"How can quantum physics protect a secret so that no eavesdropper can listen in unnoticed?",
+9:"What can a quantum computer really do, and where might the technology be in a thousand years?",
+}
+Q_PART2={
+11:"If electromagnetism is about forces, why does quantum mechanics keep talking about phase instead?",
+12:"Can a magnetic field an electron never touches still change what the electron does?",
+13:"What happens when billions of electrons start sharing a single phase?",
+14:"What does an electron's momentum mean once a potential is present, and where does the potential itself come from?",
+15:"What is a photon, and what does it mean to say that an electron takes every path?",
+16:"If the story starts with phase and potential, where did the electric and magnetic fields go?",
+17:"How do Maxwell's equations come out of this picture, and why does the classical world still work?",
+18:"Could the electromagnetic field be a record of relationships between charges rather than a thing in its own right?",
+19:"Where is the energy when two charges push each other apart, and what does quantum electrodynamics add that phase alone cannot?",
+20:"What does the potential look like as geometry, and what does it mean to call one description more fundamental than another?",
+21:"Why is charge conserved, why does the classical path win, and what is really in empty space?",
+22:"What does it mean for a phase to wind, and what single equation sits behind the whole story?",
+23:"What do Feynman's diagrams really show, and how does the ordinary Coulomb force come out of them?",
+24:"How can one relationship describe both a single electron and a supercurrent in a wire?",
+25:"What happens when light meets matter, and why does the loop keep coming back?",
+26:"Is an electron ever really alone, and is renormalization a cheat?",
+27:"What is renormalization actually doing, if it is not hiding infinities?",
+28:"How does quantum electrodynamics turn into a circuit you can build on a laboratory bench?",
+29:"What does a single electron carry with it, and what is left of it inside a superconductor?",
+30:"Is the field real, and how do we climb from one electron to a person seeing the world?",
+31:"What has this road actually established, and what has it not?",
+}
+Q_PART2[10]="Part One drew the map. What does it take to walk one road through it, from an electron's phase all the way to a circuit you can build?"
+COMMON1=[
+("Is quantum mechanics only about tiny things?",
+ "Its rules apply everywhere, but their strangest effects usually wash out in large, warm, jostling objects. Part One showed where they survive anyway: in lasers, in entangled photons sent across many kilometers for Bell tests, and in the chilled qubits of today's quantum computers. Size matters less than isolation and coherence."),
+("Can entanglement send a message faster than light?",
+ "No. Measurements on entangled particles are correlated, but each result on its own looks random. The correlation only appears when the two records are compared, and comparing them needs an ordinary channel that is no faster than light. That is why quantum teleportation needs a classical message, and why relativity survives."),
+("What did the Bell tests actually rule out?",
+ "Every theory in which outcomes are fixed in advance by local hidden information. Experiments from Aspect's onward, and the loophole-free tests of 2015, found correlations stronger than any such theory allows. They did not decide between interpretations of quantum mechanics. They closed the door on a whole family of classical explanations."),
+("Which is more basic, particles or fields?",
+ "In modern physics, fields. A particle is a quantized excitation of a field that fills all of space: electrons of the electron field, photons of the electromagnetic field, quarks and gluons of theirs. Part Two takes this question further for electromagnetism and asks how real the field itself is."),
+("Why is QED called the best-tested theory in science?",
+ "Because its predictions for quantities such as the electron's magnetic moment agree with measurement to roughly one part in a trillion. Few theories in any science have been checked so hard. Chapter 7 told the story in Feynman's arrows and diagrams; Part Two shows where that precision comes from."),
+("Will quantum computers break all encryption?",
+ "No. A large, error-corrected quantum computer could break today's most widely used public-key methods, such as RSA. It would not break everything: new post-quantum methods have already been standardized, and quantum key distribution rests on physics rather than on hard mathematics. Today's machines are still far too small and noisy for the attack."),
+]
+COMMON2=[
+("Do I need Part Two to understand Part One?",
+ "No. Part One stands on its own as a survey of the quantum world. Part Two takes one question that Chapter 7 left open, what the electromagnetic field really is, and follows it all the way down to the phase of an electron and back up to a circuit on a laboratory bench."),
+("Is Mead's collective electrodynamics a replacement for QED?",
+ "No. It is a powerful way of looking at coherent systems, superconductors above all, where quantum phase becomes something you can measure. QED remains the theory of photons, particle creation, radiative corrections, and precision tests. Part Two holds the two in one frame without pretending they were ever the same theory."),
+("Why start with phase and potential instead of fields?",
+ "Because quantum mechanics couples charged matter to the potential directly, and the potential shows up in experiments such as Aharonov–Bohm even where the field is zero. Starting there, the fields and Maxwell's equations come out as consequences rather than being assumed. Maxwell's equations are not the casualty of telling the story backward."),
+("What is a superconductor, in this book's language?",
+ "A material in which an enormous number of paired electrons share one coherent quantum phase. That phase can be read with a voltmeter, trapped in a loop in whole units of h/2e, and engineered into circuits. It is the place where quantum phase becomes something you can hold in your hand."),
+("Is the wavy line in a Feynman diagram a real photon flying between two electrons?",
+ "Not literally. An internal line is part of an amplitude, a term in a calculation, not a detectable particle in flight. Diagrams are an extraordinarily good bookkeeping of what the theory predicts. Like every vivid picture in this book, they come with their own correction attached, as Feynman himself kept insisting."),
+("Where can I go from here?",
+ "The Complete Quantum Electrodynamics Course, Volume 2 of the Quanta, Actually series, does the calculation that Part Two describes: from complex numbers and the Dirac equation to Feynman rules, renormalization, the electron's anomalous magnetic moment, and the Lamb shift, with every step worked through rather than described."),
+]
+APP2=[
+("So have we reached the end?",
+ "Of the argument, nearly. Of physics, no: physicists ruined the word \"end\" a long time ago, and the appendix and the epilogue are still ahead. Appendix 1 has already replayed the book chapter by chapter, so this page asks only what actually matters."),
+("What is the one thing to keep?",
+ "Separate the map from the territory. A theory is a map, and a beautiful map can be extraordinarily accurate. It is still a description, not the thing itself. Part Two made the same point about the electromagnetic field: asking which variable is \"real\" matters less than asking what each description lets us calculate."),
+("So after all these chapters, what is the universe?",
+ "We do not know, and we know that more precisely than anyone did a century ago. The mystery has not shrunk. It has become better organized: a vague mystery has been replaced by precise questions, which is what science does."),
+("Will anything look different tomorrow?",
+ "Quite a lot. A laser pointer, a padlock nobody can pick, a chip humming away in a very cold refrigerator, a superconducting wire carrying current without loss: each is quantum physics at work, and each looks a little different once you know what is going on inside it."),
+("What is the lesson above everything else?",
+ "The universe is under no obligation to be intuitive, or simple, or to fit anyone's favorite theory. It does keep giving us fascinating things to argue about, and that is the reason to keep doing physics. Go outside, look at the sky, ask questions, and don't believe everything you hear."),
+]
+if __name__=='__main__':
+    for name,L in [('COMMON1',COMMON1),('COMMON2',COMMON2),('APP2',APP2)]:
+        for q,a in L: print(name,len(a.split()),q[:40])
