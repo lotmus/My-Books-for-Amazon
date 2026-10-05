@@ -1,10 +1,10 @@
 # Your First Book That Sells
 
-*How to Publish and Make Good Money on Kindle: Real Royalties, Honest Reviews, and a Catalog That Pays*
+*How to Publish and Know What Every Sale Pays You on Kindle: Real Royalties, Honest Reviews, and a Catalog That Pays*
 
 **Kevin Drew Peters**
 
-Updated 3 October 2026
+Updated 5 October 2026
 
 Copyright © 2026 Kevin Drew Peters. All rights reserved.
 
@@ -22,9 +22,9 @@ This book is for first-time and early independent authors who have written, or a
 
 It is not for everyone, and it says so now so you can decide before you spend an evening on it.
 
-- It is not an advanced Amazon Ads manual. Chapter 25 stops at the first profitable campaign.
+- It is not an advanced Amazon Ads manual. Chapter 26 stops at the first profitable campaign.
 - It is not a writing-craft book. It will not teach plot, structure, or style.
-- It is not a manual for publishing wide on every store. Chapter 27 helps you choose between KDP Select and going wide; the store-by-store work is left to those stores’ own guides.
+- It is not a manual for publishing wide on every store. Chapter 28 helps you choose between KDP Select and going wide; the store-by-store work is left to those stores’ own guides.
 - It is not a system for publishing many books quickly, with or without AI.
 - It does not promise income. No method can, and this one does not try.
 

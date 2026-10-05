@@ -14,11 +14,10 @@
 - Math, Actually, Volume 3: From Differential Equations to Abstract Algebra
 - Math, Actually, Volume 4: From Category Theory to the Frontier
 
-**Quanta, Actually**
+**Quantum, Actually**
 
-- Quanta, Actually, Volume 1: The Quantum World
-- Quanta, Actually, Volume 2: The Quantum Conversation
-- Quanta, Actually, Volume 3: Complete Quantum Electrodynamics Course
+- Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire
+- Quantum, Actually, Volume 2: A QED Course
 
 **Science Sparks**
 

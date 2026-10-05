@@ -50,11 +50,11 @@ Write the two sentences and the five shared phrases before Friday. If they are b
 
 ## Chapter 3: The number you keep
 
-This chapter is the book’s one full explanation of what a sale pays. Every later chapter that mentions “the keep” assumes you have done this sum.
+Every later chapter that mentions “the keep” assumes you have done this sum.
 
 The sticker price is not your money. The keep is what is left after Amazon’s share and, on the 70 percent option, a delivery charge.
 
-**Platform rule [3] [4].** On Amazon.com an ebook can earn 70 percent when its list price is between $2.99 and $12.99 and you select the 70 percent option. The top of that band was $9.99 until 7 July 2026, so older advice to stop at $9.99 is out of date. The 70 percent royalty is 0.70 × (list price − any VAT − delivery cost). Delivery on Amazon.com is $0.15 per megabyte of the file as Amazon converts it. Outside the band, or on the 35 percent option, you earn 0.35 × (list price − any VAT), with no delivery charge.
+**Platform rule [3] [4].** On Amazon.com an ebook can earn 70 percent when its list price is between $2.99 and $12.99 and you select the 70 percent option. The top of that band was $9.99 until 7 July 2026, so older advice to stop at $9.99 is out of date. The 70 percent royalty is 0.70 × (list price − any VAT − delivery cost). VAT, value-added tax, is charged on ebook sales in some marketplaces outside the United States and is subtracted before the royalty percentage is applied; Amazon.com sales carry none. Delivery on Amazon.com is $0.15 per megabyte of the file as Amazon converts it. Outside the band, or on the 35 percent option, you earn 0.35 × (list price − any VAT), with no delivery charge.
 
 **Worked example.** 2 MB file, so $0.30 delivery; no VAT; rounded to the cent.
 
@@ -96,19 +96,17 @@ Show your first two sentences to one stranger. If they cannot say who the book i
 
 ## Chapter 5: Cover, keywords, and categories
 
-**The thumbnail test.** This is the book’s one full statement of it. Shrink your cover until it is about the size of a postage stamp, or look at it on your phone’s screen at arm’s length. You must still read the title, and you must still know what kind of book it is. A quiet mystery should not look like a thriller or a textbook. Do not rely on colour alone; some screens show the cover in gray. If the title fails, the rest of the design does not matter yet. Chapter 21 covers genre conventions, hierarchy, and what covers cost.
+**The thumbnail test.** Shrink your cover until it is about the size of a postage stamp, or look at it on your phone’s screen at arm’s length. You must still read the title, and you must still know what kind of book it is. A quiet mystery should not look like a thriller or a textbook. Do not rely on colour alone; some screens show the cover in gray. If the title fails, the rest of the design does not matter yet. Chapter 22 covers genre conventions, hierarchy, and what covers cost.
 
 **Keywords.** KDP gives you seven keyword boxes. Fill them with short phrases a reader would type, like the shared phrases from Chapter 2, not single words such as “book.” Her seven: small town cozy mystery, amateur sleuth inn mystery, clean mystery no gore, village puzzle mystery, quiet village detective, gentle puzzle novel, weekend mystery book.
 
-**Categories.** You choose up to three. Pick the closest true shelves where your five comparison books sit, not the biggest shelf in the store. Chapter 22 has the rules and the reasons.
+**Categories.** You choose up to three. Pick the closest true shelves where your five comparison books sit, not the biggest shelf in the store. Chapter 23 has the rules and the reasons.
 
 ### Your action
 
 Run the thumbnail test on your phone today. If the title fails, fix the cover before launch week.
 
 ## Chapter 6: Ask for an honest review
-
-This chapter is the book’s one full statement of the review rule. Later chapters point back here.
 
 **Platform rule [1] [2].** You may give readers a free or discounted copy as long as you do not require a review and do not try to influence it. Offering anything beyond the book, such as a gift card, a refund, or a favour, invalidates the review. Amazon does not allow reviews from the author, or from friends, relatives, employers, business associates, competitors, or anyone with a financial interest in the book. Do not buy reviews, trade reviews with other authors, or ask anyone to change a rating.
 
@@ -118,7 +116,7 @@ So the request is simple, and it is the same for every reader: a review is welco
 
 A bad line: “I gave you this book, so please post five stars by Friday or I cannot send you the next one.” A clean line: “An honest review after publication is welcome and optional. No rating is requested. You can stop reading or say nothing.”
 
-Not every willing reader can post on Amazon; Chapter 31 explains who can, and why many cannot.
+Not every willing reader can post on Amazon; Chapter 32 explains who can, and why many cannot.
 
 ### Your action
 
@@ -134,7 +132,7 @@ Tell them the subject, the length, the format, and the dates, and give them a wa
 
 She sent her copy to a reader who had asked for a thriller. He wrote back that the chess piece wasted his evening. She had skipped the sentence about who the book is not for.
 
-Send four notes at most: a confirmation, the file, the store link once reviews can be posted, and one gentle follow-up. Chapter 13 has the words. If your ebook is in KDP Select, or about to be, read Chapter 27 before you email it; a public giveaway of the full ebook can break the exclusivity terms.
+Send four notes at most: a confirmation, the file, the store link once reviews can be posted, and one gentle follow-up. Chapter 13 has the words. If your ebook is in KDP Select, or about to be, read Chapter 28 before you email it; a public giveaway of the full ebook can break the exclusivity terms.
 
 ### Your action
 
@@ -144,7 +142,7 @@ Write the invitation with the “not for” sentence in it, and send the file to
 
 A book can pay you in many ways, and Appendix D lists thirty-two, each with its smallest version and the number that means stop. This month, pick only three: one price, one next book (even if it is only a sentence), and one format or short extra.
 
-Run each through the keep test. Write the keep for that product. Do the smallest version that can teach you something. Write the day you will look. On that day, keep it or stop it in one sentence on your money sheet, such as “Held the $3.99 price” or “Stopped the free days; no second book yet.”
+Run each through the keep test. Write the keep for that product. Pick the smallest version that can still teach you something. Write the day you will look. On that day, keep it or stop it in one sentence on your money sheet, such as “Held the $3.99 price” or “Stopped the free days; no second book yet.”
 
 **Worked example.** Her first idea is the price. At $0.99 she sold 20 copies in four quiet weeks and kept about $7. She changed only the price, to $3.99, and over the next four weeks sold 12 copies and kept about $31. Fewer sales, more money. She held the price four more weeks before believing it.
 
@@ -154,7 +152,7 @@ Circle three ideas in Appendix D, one of each kind, and write a look-date next t
 
 ## Chapter 9: A small ad test
 
-This chapter is the book’s one full statement of the ad cap. Chapter 25 adds campaign structure and ACOS; it does not repeat the cap.
+Chapter 26 adds campaign structure and ACOS; it does not repeat the cap.
 
 You do not need many reviews to run a tiny test. You do need a cover that passes the thumbnail test, two true description lines, and a keep written down.
 
@@ -174,11 +172,9 @@ Write the keep, the cap, and the stop date before you open the ads console. If a
 
 ## Chapter 10: The next book
 
-This chapter is the book’s one full statement of book-two arithmetic. Chapters 18, 23, and 29 build on it.
-
 One book can pay you a little. A second book can pay you again from a reader who already trusts you. That is not a reason to lose money on book one today; if book one loses money, book two is a second product, not a refund.
 
-**Worked example.** 100 people buy book one at $3.99 and she keeps about $258. Thirty of them later buy book two at the same keep: about $77 more. That is about $335, or $3.35 per first buyer. If half of those 30 buy a third book, 15 more sales add about $39, for about $3.74 per original buyer. Paying $2 to find a buyer can fit; paying $4 does not. Never count a series as if every reader buys every book.
+**Worked example.** 100 people buy book one at $3.99 and she keeps about $258. Thirty of them later buy book two at the same keep: about $77 more. That is about $335, or $3.35 per first buyer. If half of those 30 buy a third book, 15 more sales add about $39, for about $3.74 per original buyer. Paying $2 to find a buyer can fit; paying $4 does not. Never count a series as if every reader buys every book. The 30 percent who return is an assumption for this sum, not a rate to expect; real read-through varies by genre and by how good book one actually was, and only your own second book’s sales will tell you yours.
 
 ### Your action
 
@@ -271,7 +267,7 @@ Before you press publish, check the title, subtitle, author name, description, c
 
 Three more rules belong on the same checklist.
 
-**Platform rule [8].** Each time you publish or republish, KDP asks whether the book contains AI-generated text, images, or translations. Answer for what you actually did. Chapter 32 gives the full rule and a decision chart.
+**Platform rule [8].** Each time you publish or republish, KDP asks whether the book contains AI-generated text, images, or translations. Answer for what you actually did. Chapter 33 gives the full rule and a decision chart.
 
 **Platform rule [11].** KDP lets you create only two new titles per format each week: two ebooks, two paperbacks, and two hardcovers. Amazon announced the limit in the KDP Community on 21 September 2026, down from ten, with the count resetting each Sunday at midnight UTC. Editing a live book does not use a slot.
 
