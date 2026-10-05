@@ -1,14 +1,16 @@
-## Kapitel 34: Kleidung: Was man trägt, was man kauft, was man mitnimmt
+## Kapitel 34: Kleidung in den USA, Kanada, Australien und Neuseeland
 
-Am ersten Arbeitstag steht der Abteilungsleiter in Jeans und Kapuzenpullover im Flur, die Kollegin trägt Leggings und Sneaker, und der Einzige mit Sakko bist du. Im Supermarkt schiebt jemand im Schlafanzugoberteil den Einkaufswagen, und niemand dreht sich um. Kleidung ist eines der wenigen Themen, bei denen du den Unterschied zu Deutschland schon am ersten Tag siehst. Die Regeln dahinter stehen selten irgendwo geschrieben, aber man kann sie gut beobachten.
+Am ersten Arbeitstag steht der Abteilungsleiter in Jeans und Kapuzenpullover im Flur, die Kollegin trägt Leggings und Sneaker, und der Einzige mit Sakko bist du. Im Supermarkt schiebt jemand im Schlafanzugoberteil den Einkaufswagen, und niemand dreht sich um. Kleidung ist eines der wenigen Themen, bei denen du den Unterschied zu Deutschland schon am ersten Tag siehst – in allen vier Ländern dieses Buches, nur mit unterschiedlicher Note: in den USA vor allem Legerheit, in Kanada Kälteschutz, in Australien und Neuseeland Sonnenschutz und Schuluniform. Die Regeln dahinter stehen selten irgendwo geschrieben, aber man kann sie gut beobachten.
 
 > **Kurz gesagt:**
-> - Komfort geht vor Anlass: Im Alltag und in den meisten Büros ist Legeres normal. Anzüge bleiben Finanzen, Recht und formellen Anlässen vorbehalten.
+> - Komfort geht vor Anlass: In allen vier Ländern ist Legeres im Alltag und in den meisten Büros normal. Anzüge bleiben Finanzen, Recht und formellen Anlässen vorbehalten.
 > - Einen Dresscode findest du selten schriftlich. Frag nach und komm zum Vorstellungsgespräch eine Stufe formeller als der Firmenalltag.
-> - US-Größen schwanken je Marke. Die Tabellen in diesem Kapitel sind ein Startpunkt, anprobieren bleibt Pflicht.
+> - Größen schwanken je Marke und je Land – US-Größen unterscheiden sich von den UK-basierten Größen in Australien und Neuseeland, Kanada mischt beide Systeme. Die Tabellen in diesem Kapitel sind ein Startpunkt, anprobieren bleibt Pflicht.
 > - Basics, Kinderkleidung und Kleidung für ein anderes Klima kaufst du vor Ort, oft im Sale oder gebraucht.
 > - Mitnehmen lohnen gute Schuhe, eine warme Jacke für kalte Regionen, ein bis zwei Business-Outfits, Tracht und Outdoor-Ausrüstung.
-> - Am Strand und im Pool ist Badebekleidung Pflicht, FKK gibt es nur an wenigen gekennzeichneten Orten.
+> - Am Strand und im Pool ist Badebekleidung in den USA und Kanada Pflicht; Australien und Neuseeland sind an einzelnen Stränden etwas entspannter. FKK gibt es überall nur an wenigen gekennzeichneten Orten.
+
+## USA
 
 ### Das Grundprinzip: Komfort vor Anlass
 
@@ -189,4 +191,99 @@ Frag Arbeitgeber und Schule nach dem Üblichen, notiere deine Maße in Zoll und 
 - American Academy of Dermatology — Sonnenschutz ([aad.org](https://www.aad.org))
 - Finanzbehörden der Bundesstaaten — Verkaufssteuer auf Kleidung, z. B. New York ([tax.ny.gov](https://www.tax.ny.gov)) und Massachusetts ([mass.gov/dor](https://www.mass.gov/orgs/massachusetts-department-of-revenue))
 
-> **Stand:** September 2026. Steuerregeln für Kleidung, Rückgaberegeln der Händler und Schul-Dresscodes ändern sich; die Größentabellen sind Näherungswerte. Prüfe vor dem Kauf die Maßtabelle der Marke, die Return Policy des Händlers und die Steuerregeln deines Bundesstaats.
+## Kanada
+
+### Grundprinzip und Dresscode
+
+Wie in den USA gilt in kanadischen Büros meist Business Casual oder lockerer; ein Anzug ist außerhalb von Banken, Kanzleien und Gerichtsterminen eher die Ausnahme. Der spürbarste Unterschied zu den USA ist nicht der Dresscode, sondern das Klima: Kanada zwingt zu einer ernsthaften Winterausstattung, die in den meisten US-Bundesstaaten außer dem Norden niemand braucht.
+
+### Kinder und Schule
+
+Schuluniformen sind an kanadischen öffentlichen Schulen die Ausnahme, an privaten und katholischen Schulen dagegen üblich. Wie in den USA gilt „kostenlos“ nur für den Unterricht; für Sportuniformen, Musikinstrumente und Exkursionen fällt eine „freiwillige“ Schulgebühr an (mehr dazu: Kapitel zu Kindern, Schule und Sprache im Kanada-Teil). Wichtiger als die Uniform ist die Winterausrüstung für den Schulweg: Schneehose, wasserdichte Winterstiefel, Fäustlinge statt Fingerhandschuhe für sehr kalte Tage, und eine Mütze, die Ohren bedeckt – viele Schulen schicken Kinder bis weit in den Winter hinein zur Pause nach draußen.
+
+### Größen umrechnen
+
+Kanada mischt US- und metrische Größen: Kleidung trägt oft US-Größen (Damen 0–16, Herren in Zoll), während Schuhe teils in US-, teils in UK-Größen ausgezeichnet sind – ein Blick auf die cm-Angabe im Etikett schafft Klarheit, wo sie vorhanden ist. Wichtig für den Kleidungskauf: Kanadisches Recht (*Textile Labelling Act*) verlangt zweisprachige Pflegeetiketten in Englisch und Französisch, unabhängig von der Provinz.
+
+### Wo du einkaufst, Steuern
+
+Neben US-Ketten wie Costco, Old Navy und Winners (die kanadische Variante von TJ Maxx) ist Canadian Tire für Winterausrüstung, Arbeitskleidung und Gummistiefel eine feste Adresse, Value Village die bekannteste Second-Hand-Kette. Ob auf Kleidung Verkaufssteuer anfällt, hängt von der Provinz ab: Alberta erhebt gar keine Provinzsteuer, Ontario befreit Kinderkleidung und -schuhe unter einer bestimmten Größe von seinem Provinzanteil der HST, British Columbia und Québec besteuern Kleidung regulär. Die genaue Regel deiner Provinz steht auf der Seite ihrer Steuerbehörde.
+
+### Klimagarderobe
+
+Das Schichtenprinzip aus dem USA-Abschnitt gilt in Kanada noch dringlicher: Basisschicht, wärmende Mittelschicht, winddichte Außenschicht. In weiten Teilen Kanadas – Prairie-Provinzen, Québec, Ontario außerhalb der Großstädte – unterschreiten die Temperaturen im Januar regelmäßig −20 °C, mit Windchill-Werten, die Erfrierungsgefahr binnen Minuten bedeuten können. Ein echter Winterparka (bis etwa −30 °C ausgelegt), isolierte Winterstiefel und Fäustlinge sind keine Kür, sondern Pflicht. An der Westküste (Vancouver) und im Süden Ontarios fällt der Winter deutlich milder aus, dafür regnet es dort häufiger.
+
+### Was du mitnimmst
+
+Mitnehmen lohnt sich vor allem bei Outdoor-Ausrüstung und eingelaufenen Wanderschuhen; einen hochwertigen Winterparka kaufst du dagegen besser vor Ort, weil kanadische Marken (Canada Goose, Arc’teryx und preisgünstigere Alternativen bei Canadian Tire oder Costco) gezielt auf das dortige Klima ausgelegt sind und die Auswahl größer ist.
+
+## Australien
+
+### Grundprinzip und Dresscode
+
+Australische Büros sind, wie in den USA und Kanada, überwiegend leger: Business Casual ist Standard, und Flip-Flops – in Australien „thongs“ genannt, ein Wort, das anderswo etwas ganz anderes bedeutet – sind selbst beim Bankbesuch ein normaler Anblick (mehr zum Alltagsstil: Kapitel zur Alltagskultur im Australien-Teil). Was den australischen Kleidungsalltag wirklich prägt, ist nicht der Dresscode, sondern die Sonne.
+
+### Sonnenschutz: keine Option, sondern Alltag
+
+Australien hat die höchste Hautkrebsrate der Welt, und das zeigt sich in der Kleidung: Die staatliche Kampagne „Slip, Slop, Slap, Seek, Slide“ (Shirt anziehen, Sonnencreme auftragen, Hut aufsetzen, Schatten suchen, Sonnenbrille tragen) ist Allgemeinwissen, nicht Werbesprache. Schulen verlangen fast überall Sonnenhüte nach dem „No Hat, No Play“-Prinzip – ohne Hut keine Pause im Freien. UPF-Kleidung (Lichtschutzfaktor von Textilien) ist im normalen Handel üblich, nicht nur bei Outdoor-Spezialisten, und ein breitkrempiger Hut gehört für Kinder zur Standardausstattung, nicht zum Extra.
+
+### Kinder und Schule
+
+Schuluniformen sind an staatlichen wie privaten Schulen die Regel, inklusive Sonnenhut und oft einer eigenen Sportuniform (mehr dazu und zu den Kosten: Kapitel zu Kindern, Schule und Sprache im Australien-Teil). Für die Grundausstattung lohnt sich der Second-Hand-Markt der Schule.
+
+### Größen umrechnen
+
+Australische Kleidergrößen folgen dem britischen System, nicht dem amerikanischen: Eine australische Damengröße 10 entspricht etwa einer deutschen Größe 38, eine US-Größe 10 dagegen eher einer deutschen 40. Schuhe werden meist in AU/UK-Größen ausgezeichnet, die von US-Größen leicht abweichen (AU/UK-Herrengröße 9 ≈ US-Größe 10). Beim Online-Kauf bei US-Anbietern lohnt daher immer der Blick auf die cm-Angabe im Etikett.
+
+### Wo du einkaufst
+
+Kmart und Target Australia (unabhängig vom US-Target) sind die Anlaufstellen für günstige Basics und Kinderkleidung, Big W ebenso. Op-Shops (Second-Hand-Läden von Wohlfahrtsorganisationen wie Vinnies oder der Salvos) sind gesellschaftlich völlig normal und oft die günstigste Quelle für Kinderkleidung und Verkleidungen. Ein gesetzliches Widerrufsrecht wie in Deutschland gibt es auch hier nicht, dafür garantiert das *Australian Consumer Law* bei tatsächlich fehlerhafter Ware einen Anspruch auf Reparatur, Ersatz oder Erstattung, unabhängig von der Kulanzregel des Händlers.
+
+### Klimagarderobe
+
+Das Klima reicht von tropisch (Darwin, Cairns) über subtropisch-feucht (Brisbane) und gemäßigt-wechselhaft (Melbourne, mit seinem sprichwörtlichen „four seasons in one day“) bis gemäßigt-trocken (Adelaide, Perth) und alpin in den Bergen Victorias und New South Wales’ im Winter. Leichte, luftige, UV-schützende Kleidung ist über weite Teile des Jahres Standard; eine echte Winterjacke brauchst du nur in den südlichen Bundesstaaten und dort nur für wenige Wochen.
+
+### Baden
+
+Am Strand ist Badebekleidung Pflicht, oben ohne ist an einigen ausgewiesenen Stränden (etwa Teilen von Sydneys South Head oder Victorias Strände mit entsprechender Kennzeichnung) toleriert, bundesweit einheitlich geregelt ist das nicht. FKK ist, wie in den USA, nur an einzelnen gekennzeichneten Orten erlaubt.
+
+## Neuseeland
+
+### Grundprinzip und Dresscode
+
+Neuseeland ist, wie im Kapitel zur Alltagskultur beschrieben, eines der informellsten Länder dieses Buches: Eine Anzugpflicht gibt es außerhalb von Kanzleien und Banken kaum, und der Umgangston passt zur Kleidung. Was dagegen auffällt: Gummistiefel (meist die Marke Red Band) sind nicht nur Landarbeits-, sondern durchaus auch Alltagskleidung, besonders außerhalb der großen Städte.
+
+### Sprachliche Fallen: Togs, Jandals, Jumper
+
+Wie in Australien unterscheidet sich das englische Vokabular für Kleidung von US- und UK-Englisch: Badebekleidung heißt „togs“ (nicht „swimsuit“ oder „bathers“), Flip-Flops heißen „jandals“ (nicht „thongs“ wie in Australien), ein Pullover ist ein „jumper“. Wer mit US-Englisch aus der Schule kommt, versteht sich trotzdem, braucht aber beim ersten Einkauf etwas Geduld.
+
+### Kinder und Schule
+
+Schuluniformen sind an staatlichen wie privaten Schulen praktisch überall üblich (ausführlich, inklusive Kosten: Kapitel zu Kindern, Schule und Sprache im Neuseeland-Teil). Für Sonnenschutz gilt dieselbe Ernsthaftigkeit wie in Australien: Neuseeland hat eine der höchsten Hautkrebsraten weltweit, Schulen verlangen meist Sonnenhüte in der warmen Jahreszeit.
+
+### Größen umrechnen
+
+Wie Australien folgt Neuseeland dem britischen Größensystem, nicht dem amerikanischen – dieselben Umrechnungen wie im Australien-Abschnitt gelten auch hier (NZ-Damengröße 10 ≈ deutsche 38).
+
+### Wo du einkaufst
+
+Kmart und The Warehouse sind die Anlaufstellen für günstige Basics, Op-Shops (Second-Hand) sind – wie in Australien – gesellschaftlich normal und verbreitet, oft angeschlossen an wohltätige Organisationen wie das Hospiz. Merinowolle aus heimischer Produktion (Marken wie Icebreaker oder Macpac) ist hochwertig, aber teurer als Importware und lohnt sich vor allem für Outdoor- und Winterkleidung. Das *Consumer Guarantees Act* garantiert, ähnlich wie in Australien, einen Mindeststandard unabhängig von der Kulanz des Händlers.
+
+### Klimagarderobe
+
+Neuseeland ist, wie Melbourne, berühmt für sein wechselhaftes Wetter – „four seasons in one day“ gilt hier ebenso wie in Victoria, besonders in Wellington mit seinem Wind. Das Schichtenprinzip ist Standard. Der Süden der Südinsel (Queenstown, Dunedin) bringt echte Winter mit Schnee, der Norden der Nordinsel (Auckland, Northland) bleibt meist mild bis subtropisch. Eine gute Regenjacke ist landesweit wichtiger als eine Winterjacke.
+
+### Was jetzt zu tun ist (Kanada, Australien, Neuseeland)
+
+Frag beim neuen Arbeitgeber nach dem Dresscode, notiere deine Maße und das passende Größensystem (US für Kanada, UK-basiert für Australien und Neuseeland), und entscheide, was mit Container oder Koffer kommt. Für Kanada zusätzlich: Winterausrüstung vor dem ersten Winter vollständig besorgt, nicht erst, wenn die Kälte schon da ist. Für Australien und Neuseeland zusätzlich: Sonnenhut und UPF-Kleidung für Kinder von Anfang an einplanen, nicht erst nachkaufen.
+
+### Quellen und weiterführende Links (Kanada, Australien, Neuseeland)
+
+- Kanada: Competition Bureau / Textile Labelling Act — zweisprachige Pflegeetiketten ([ised-isde.canada.ca](https://ised-isde.canada.ca))
+- Kanada: Environment and Climate Change Canada — Windchill-Warnstufen ([canada.ca/en/environment-climate-change](https://www.canada.ca/en/environment-climate-change-canada.html))
+- Australien: SunSmart / Cancer Council — Slip, Slop, Slap, Seek, Slide ([sunsmart.com.au](https://www.sunsmart.com.au))
+- Australien: Australian Competition and Consumer Commission (ACCC) — Australian Consumer Law, Garantierechte ([accc.gov.au](https://www.accc.gov.au))
+- Neuseeland: Sun Smart / Health New Zealand — Sonnenschutz an Schulen ([sunsmart.org.nz](https://www.sunsmart.org.nz))
+- Neuseeland: Consumer Protection — Consumer Guarantees Act ([consumerprotection.govt.nz](https://www.consumerprotection.govt.nz))
+
+> **Stand:** September 2026. Steuerregeln für Kleidung, Rückgaberegeln der Händler, Schul-Dresscodes und Größentabellen ändern sich oder bleiben Näherungswerte. Prüfe vor dem Kauf die Maßtabelle der Marke, die Return- oder Garantieregel des Händlers und die Steuerregel deiner Provinz oder deines Bundesstaats.

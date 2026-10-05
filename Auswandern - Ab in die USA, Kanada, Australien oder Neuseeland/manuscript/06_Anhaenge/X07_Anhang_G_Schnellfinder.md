@@ -169,6 +169,7 @@ Für Kanada reicht ein kompakterer Überblick als für die USA. Die folgenden ru
 ### Kanada: Alltag und Kinder
 | Deine Frage oder Situation | Mehr dazu |
 |---|---|
+| Was ziehe ich im kanadischen Büro an, und wie überlebe ich den Winter kleidungsmäßig? | Kapitel 34 (USA-Teil, länderübergreifend) |
 | Warum entschuldigt sich in Kanada jeder ständig, auch wenn er gar nichts falsch gemacht hat? | Kanada: Alltagskultur |
 | Muss meine Familie in Québec zwingend Französisch lernen? | Kanada: Alltagskultur |
 | Wie finde ich in Kanada schnell Anschluss und Freunde? | Kanada: Freunde, Kulturschock |
@@ -225,6 +226,7 @@ Für Kanada reicht ein kompakterer Überblick als für die USA. Die folgenden ru
 ### Australien: Alltag und Kinder
 | Deine Frage oder Situation | Mehr dazu |
 |---|---|
+| Was bedeutet „No Hat, No Play“, und wie wichtig ist Sonnenschutz-Kleidung wirklich? | Kapitel 34 (USA-Teil, länderübergreifend) |
 | Warum nennt mich hier jeder „mate“, und heißt das schon, dass wir befreundet sind? | Australien: Alltagskultur |
 | Wie unterscheidet sich der australische Kommunikationsstil vom deutschen, direkten Ton? | Australien: Alltagskultur |
 | Wie finde ich in Australien schnell Anschluss und Freunde? | Australien: Freunde, Kulturschock |
@@ -281,6 +283,7 @@ Für Kanada reicht ein kompakterer Überblick als für die USA. Die folgenden ru
 ### Neuseeland: Alltag und Kinder
 | Deine Frage oder Situation | Mehr dazu |
 |---|---|
+| Was sind „togs“ und „jandals“, und muss mein Kind eine Schuluniform tragen? | Kapitel 34 (USA-Teil, länderübergreifend) |
 | Wie informell ist der Umgangston in Neuseeland wirklich, und darf ich meinen Chef beim Vornamen nennen? | Neuseeland: Alltagskultur |
 | Was muss ich über Te Ao Māori und Begrüßungen wie „Kia ora“ wissen? | Neuseeland: Alltagskultur |
 | Wie finde ich in Neuseeland schnell Anschluss und Freunde? | Neuseeland: Freunde, Kulturschock |
@@ -298,4 +301,4 @@ Für Kanada reicht ein kompakterer Überblick als für die USA. Die folgenden ru
 | Wie lange dauert es, bis ich mich in Neuseeland einbürgern lassen kann? | Neuseeland: Staatsbürgerschaft, Steuerresidenz |
 | Verliere ich meinen deutschen Pass, wenn ich Neuseeländer werde, und muss ich nach einer Rückkehr weiter neuseeländische Steuern zahlen? | Neuseeland: Staatsbürgerschaft, Steuerresidenz |
 
-> **Stand:** 1. Oktober 2026. Kapitelnummern und -zuordnungen können sich bis zur Veröffentlichung noch leicht verschieben; prüfe bei Unstimmigkeiten das Inhaltsverzeichnis.
+> **Stand:** September 2026. Kapitelnummern und -zuordnungen können sich bis zur Veröffentlichung noch leicht verschieben; prüfe bei Unstimmigkeiten das Inhaltsverzeichnis.
