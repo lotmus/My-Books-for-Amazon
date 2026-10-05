@@ -2,7 +2,7 @@
 
 Dieses Buch hat vier Länderteile: USA, Kanada, Australien und Neuseeland, plus den gemeinsamen Teil zu Deutschland. Der USA-Teil ist das lange Visumhandbuch. Die anderen drei Länder sind eigene Wege für Ausreise, Ankunft, Arbeit und Berufsanerkennung.
 
-Gebühren, Beiträge und Steuersätze bewegen sich. Stand 30. September 2026: Die Beträge stehen nicht in diesem Buch. Die aktuelle Zahl veröffentlicht die genannte Stelle, etwa USCIS (uscis.gov/g-1055), die eigene Krankenkasse, IRD (ird.govt.nz), IRCC, Home Affairs oder Inland Revenue. Prüfe sie, bevor du zahlst oder kündigst.
+Gebühren, Beiträge und Steuersätze bewegen sich. Stand 1. Oktober 2026: Die Beträge stehen nicht in diesem Buch. Die aktuelle Zahl veröffentlicht die genannte Stelle, etwa USCIS (uscis.gov/g-1055), die eigene Krankenkasse, IRD (ird.govt.nz), IRCC, Home Affairs oder Inland Revenue. Prüfe sie, bevor du zahlst oder kündigst.
 
 ### Weitere Bücher des Autors
 

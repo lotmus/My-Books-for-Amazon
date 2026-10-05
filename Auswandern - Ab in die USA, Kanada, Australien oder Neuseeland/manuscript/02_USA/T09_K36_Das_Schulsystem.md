@@ -1,6 +1,6 @@
 ## Kapitel 36: Das amerikanische Schulsystem verstehen
 
-Die erste Frage der Maklerin gilt nicht dem Budget, sondern den Kindern: „Which school district are you looking at?" In Deutschland suchst du erst die Wohnung und dann die Schule. In den USA ist es meist umgekehrt, denn die Adresse bestimmt, welche öffentliche Schule dein Kind besucht. Wer das früh versteht, spart Umzüge, Enttäuschungen und einen guten Teil der Sorgen, die Eltern beim Auswandern am stärksten beschäftigen.
+Die erste Frage der Maklerin gilt nicht dem Budget, sondern den Kindern: „Which school district are you looking at?“ In Deutschland suchst du erst die Wohnung und dann die Schule. In den USA ist es meist umgekehrt, denn die Adresse bestimmt, welche öffentliche Schule dein Kind besucht. Wer das früh versteht, spart Umzüge, Enttäuschungen und einen guten Teil der Sorgen, die Eltern beim Auswandern am stärksten beschäftigen.
 
 > **Kurz gesagt:**
 > - Bildung regeln die Bundesstaaten und ihre Schuldistrikte; ein einheitliches Schulsystem gibt es nicht.
@@ -67,7 +67,7 @@ Die Schule läuft damit bis in den Nachmittag, aber ohne Hort im deutschen Sinn:
 | Privat oder religiös | Bewerbung | Schulgeld | 5,5 Mio. Schüler (Herbst 2021) |
 | Homeschooling | keine Zuweisung | Materialkosten | ca. 3,3 % der Schüler |
 
-„Kostenlos" gilt nur für den Unterricht der öffentlichen Schule; für Sport, Ausflüge, Instrumente und Materiallisten (*School Supply Lists*) zahlst du oft dazu.
+„Kostenlos“ gilt nur für den Unterricht der öffentlichen Schule; für Sport, Ausflüge, Instrumente und Materiallisten (*School Supply Lists*) zahlst du oft dazu.
 
 *Charter-Schulen* sind öffentlich finanziert und gebührenfrei, arbeiten aber unabhängig von der Distriktverwaltung. 2021–22 gab es rund 7.800 mit 3,7 Mio. Schülern (7 % der öffentlichen Schüler). Charter-Gesetze gelten in 45 Staaten und Washington, D.C., wo 45 % der öffentlichen Schüler eine Charter-Schule besuchen (Arizona: 20 %). Bewerbungsfristen für Charter- und Magnet-Schulen liegen oft zwischen Dezember und Februar; gibt es mehr Bewerber als Plätze, entscheidet meist das Los.
 
@@ -95,11 +95,11 @@ Das brauchst du meist:
 - **Zeugnisse:** die letzten Zeugnisse (*Transcripts*), an der High School mit Fächern und Stunden, am besten mit englischer Übersetzung.
 - **Ausweis der Sorgeberechtigten** und der Fragebogen zur Familiensprache (*Home Language Survey*), dessen Antworten einen Sprachtest auslösen können (Kapitel 37).
 
-Die Anmeldung läuft heute meist online über das Portal des Distrikts, danach folgt ein Termin im Schulbüro. Eine bundesweite Frist gibt es nicht: Die reguläre Anmeldung liegt meist zwischen Januar und Mai, wer später zuzieht, meldet sich unterjährig an. Suche die Seite „Enrollment" deines Distrikts.
+Die Anmeldung läuft heute meist online über das Portal des Distrikts, danach folgt ein Termin im Schulbüro. Eine bundesweite Frist gibt es nicht: Die reguläre Anmeldung liegt meist zwischen Januar und Mai, wer später zuzieht, meldet sich unterjährig an. Suche die Seite „Enrollment“ deines Distrikts.
 
 > **Achtung:** Ohne den geforderten Impfnachweis nimmt die Schule dein Kind meist nicht auf, bis er vollständig ist. Lass den Impfpass vor dem Abflug vom Kinderarzt gegen die Liste des Zielstaats abgleichen und packe Zeugnisse, Impfpass und Geburtsurkunde ins Handgepäck.
 
-> **Praxisbeispiel:** Familie Brandt (fiktiv) sucht ihr Haus im Großraum Detroit nach dem Schulbezirk aus. Anna, in Deutschland Grundschullehrerin, vergleicht drei Distrikte, liest die Schulberichte des Staates und achtet auf den Lernfortschritt statt nur auf die Gesamtnote. Zwei Schulen besuchen die Brandts. Bei einer Besichtigung fragt Anna die Rektorin offen: „What happens with a child who barely speaks English?" – die Antwort, ein fester Förderplan ab dem ersten Schultag, gibt am Ende den Ausschlag. Der Distrikt bestätigt per E-Mail, welche Grundschule zur Adresse gehört; erst dann unterschreiben sie den Mietvertrag. Nach dem Einzug melden sie Strom sofort an. Mit Mietvertrag, erster Stromrechnung, Impfpässen, Geburtsurkunden und Lenas Zeugnis gehen sie zur Anmeldung. Lena (9) kommt in Grade 4, Jonas (5) in den Kindergarten; rund vier Wochen nach der Landung sitzen beide im Klassenzimmer.
+> **Praxisbeispiel:** Familie Brandt (fiktiv) sucht ihr Haus im Großraum Detroit nach dem Schulbezirk aus. Anna, in Deutschland Grundschullehrerin, vergleicht drei Distrikte, liest die Schulberichte des Staates und achtet auf den Lernfortschritt statt nur auf die Gesamtnote. Zwei Schulen besuchen die Brandts. Bei einer Besichtigung fragt Anna die Rektorin offen: „What happens with a child who barely speaks English?“ – die Antwort, ein fester Förderplan ab dem ersten Schultag, gibt am Ende den Ausschlag. Der Distrikt bestätigt per E-Mail, welche Grundschule zur Adresse gehört; erst dann unterschreiben sie den Mietvertrag. Nach dem Einzug melden sie Strom sofort an. Mit Mietvertrag, erster Stromrechnung, Impfpässen, Geburtsurkunden und Lenas Zeugnis gehen sie zur Anmeldung. Lena (9) kommt in Grade 4, Jonas (5) in den Kindergarten; rund vier Wochen nach der Landung sitzen beide im Klassenzimmer.
 
 ### Lehrplan, Tests, Noten und Abschluss
 
@@ -121,7 +121,7 @@ Hausaufgaben (*Homework*) sind üblich, ihr Umfang schwankt: in der Grundschule 
 
 Sport und Clubs gehören zur Schule, nicht zum Verein: Schulteams (*Varsity* für die erste Mannschaft, *Junior Varsity* für die zweite), dazu Orchester, Chor, Theater, Robotik, Debattierclub und Schülerzeitung. Am *Friday Night Football* zeigt sich das am deutlichsten: Marschkapelle, Cheerleader, der Geruch von Popcorn und gegrilltem Fleisch, und ein guter Teil der Kleinstadt sitzt auf der Tribüne – Schulsport ist hier auch Gemeinschaftsereignis. Für ein Team gibt es Probetrainings (*Tryouts*), vor der Saison meist eine sportärztliche Untersuchung (*Sports Physical*), und viele Distrikte erheben Gebühren fürs Mitmachen (*Pay to Play*). Clubs zählen zudem für spätere College-Bewerbungen (*Extracurriculars*) und sind für Kinder mit wenig Englisch oft der schnellste Weg zu Freunden (Kapitel 32).
 
-Die *PTA* (*Parent Teacher Association*) oder die unabhängige *PTO* organisiert Feste und Spendenaktionen (*Fundraiser*) und finanziert Extras; wer mithilft (*Volunteering*), lernt Eltern und Lehrkräfte schnell kennen. Elternportale und Apps informieren über Noten, Termine und Fehlzeiten. Elternsprechtage (*Parent-Teacher Conferences*) gibt es meist ein- bis zweimal im Jahr, Zeugnisse (*Report Cards*) mehrmals. Lehrkräfte werden mit „Mrs.", „Mr." oder „Ms." und Nachnamen angesprochen; kurze, freundliche E-Mails sind der übliche Weg.
+Die *PTA* (*Parent Teacher Association*) oder die unabhängige *PTO* organisiert Feste und Spendenaktionen (*Fundraiser*) und finanziert Extras; wer mithilft (*Volunteering*), lernt Eltern und Lehrkräfte schnell kennen. Elternportale und Apps informieren über Noten, Termine und Fehlzeiten. Elternsprechtage (*Parent-Teacher Conferences*) gibt es meist ein- bis zweimal im Jahr, Zeugnisse (*Report Cards*) mehrmals. Lehrkräfte werden mit „Mrs.“, „Mr.“ oder „Ms.“ und Nachnamen angesprochen; kurze, freundliche E-Mails sind der übliche Weg.
 
 ### Sicherheit: Lockdown-Übungen und Schulschießereien
 

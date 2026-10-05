@@ -298,4 +298,4 @@ Für Kanada reicht ein kompakterer Überblick als für die USA. Die folgenden ru
 | Wie lange dauert es, bis ich mich in Neuseeland einbürgern lassen kann? | Neuseeland: Staatsbürgerschaft, Steuerresidenz |
 | Verliere ich meinen deutschen Pass, wenn ich Neuseeländer werde, und muss ich nach einer Rückkehr weiter neuseeländische Steuern zahlen? | Neuseeland: Staatsbürgerschaft, Steuerresidenz |
 
-> **Stand:** September 2026. Kapitelnummern und -zuordnungen können sich bis zur Veröffentlichung noch leicht verschieben; prüfe bei Unstimmigkeiten das Inhaltsverzeichnis.
+> **Stand:** 1. Oktober 2026. Kapitelnummern und -zuordnungen können sich bis zur Veröffentlichung noch leicht verschieben; prüfe bei Unstimmigkeiten das Inhaltsverzeichnis.

@@ -1,6 +1,6 @@
 ## Anhang E: Budgetbeispiele
 
-Die folgenden Budgets sind Haushaltsillustrationen, keine aktuellen Behördenpreise. Beiträge, Selbstbehalte und Steuersätze stehen auf der Seite der Krankenkasse, des US-Plans, der KFF und der Steuerbehörde. Prüfe sie, bevor du zahlst oder kündigst. Stand der Hinweise: 30. September 2026. Die gerundeten Beträge unten ersetzen keine eigene Rechnung.
+Die folgenden Budgets sind Haushaltsillustrationen, keine aktuellen Behördenpreise. Beiträge, Selbstbehalte und Steuersätze stehen auf der Seite der Krankenkasse, des US-Plans, der KFF und der Steuerbehörde. Prüfe sie, bevor du zahlst oder kündigst. Stand der Hinweise: 1. Oktober 2026. Die gerundeten Beträge unten ersetzen keine eigene Rechnung.
 
 ### Annahmen für alle drei Budgets
 
@@ -124,4 +124,4 @@ Auch die neuseeländische Referenzfamilie hält dieselbe Konstellation: Ehepaar 
 | Sonstiges | 300 NZD | Schätzung: Haftpflicht, Freizeit, freiwillige Schulspende |
 | **Netto verfügbares Einkommen** | **4.239 NZD** | entspricht 47,1 % des Nettos nach Steuern |
 
-> **Stand:** September 2026. Diese Budgets sind vereinfachte Näherungen auf Basis der in Kapitel 3, 12, 13, 14, 27, 28, 35 und 38 geprüften Zahlen; sie ersetzen keine individuelle Berechnung mit dem eigenen Gehalt, Wohnort und der eigenen Familiengröße. Mieten, Krankenversicherungsprämien, Lebensmittelpreise und Steuersätze ändern sich laufend – rechne vor jeder Entscheidung mit aktuellen Zahlen. Die Budgets für Kanada, Australien und Neuseeland beruhen ebenso vereinfacht auf den Steuer-, Gesundheits- und Wohnen-Kapiteln der jeweiligen Länderteile; Nebenkosten und Lebensmittel sind dort mangels landesspezifischer Zahlen grobe, gekennzeichnete Schätzungen.
+> **Stand:** 1. Oktober 2026. Diese Budgets sind vereinfachte Näherungen auf Basis der in Kapitel 3, 12, 13, 14, 27, 28, 35 und 38 geprüften Zahlen; sie ersetzen keine individuelle Berechnung mit dem eigenen Gehalt, Wohnort und der eigenen Familiengröße. Mieten, Krankenversicherungsprämien, Lebensmittelpreise und Steuersätze ändern sich laufend – rechne vor jeder Entscheidung mit aktuellen Zahlen. Die Budgets für Kanada, Australien und Neuseeland beruhen ebenso vereinfacht auf den Steuer-, Gesundheits- und Wohnen-Kapiteln der jeweiligen Länderteile; Nebenkosten und Lebensmittel sind dort mangels landesspezifischer Zahlen grobe, gekennzeichnete Schätzungen.

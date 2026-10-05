@@ -353,4 +353,4 @@ Dieses Buch erklärt englische Fachbegriffe bei ihrem ersten Auftreten im jeweil
 | Warrant of Fitness (WoF) | neuseeländisches Pendant zum TÜV, bei Verkauf höchstens einen Monat alt | Neuseeland: Führerschein |
 | Working Holiday Visa | Germany Working Holiday Visa für deutsche Staatsangehörige. Altersgrenze zum Stand des Neuseeland-Kapitels 18 bis 30 Jahre, nur auf immigration.govt.nz verbindlich. Nicht die australische Subclass 417 (dort im Kapitel 18 bis 35 seit 1. Juli 2026). Kein Weg zum Daueraufenthalt | Neuseeland: Einwanderung |
 
-> **Stand:** September 2026. Gesetze, Formularnummern und Programmdetails ändern sich; prüfe bei einem konkreten Vorhaben die aktuelle Fassung auf der zuständigen Behördenseite.
+> **Stand:** 1. Oktober 2026. Gesetze, Formularnummern und Programmdetails ändern sich; prüfe bei einem konkreten Vorhaben die aktuelle Fassung auf der zuständigen Behördenseite.
