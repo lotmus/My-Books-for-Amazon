@@ -1632,7 +1632,7 @@ The same illusion makes it seem that restaurants surviving their first year must
 
 Darwin's own working method is the model for evidence-based inference: comparative observation across island populations, painstaking barnacle taxonomy, pigeon breeding, and the Malthusian pressure of population outstripping resources. Another naturalist reached the same idea entirely independently, in parallel.
 
-Anthroposophy is "a craftsman story with incense." It may be internally coherent on its own terms, but it never once engages with empirical cosmological evidence, which disqualifies it as a competing scientific theory before the question of whether it is wrong even arises.
+Creationism is "a craftsman story with incense." It may be internally coherent on its own terms, but it never once engages with empirical cosmological evidence, which disqualifies it as a competing scientific theory before the question of whether it is wrong even arises.
 
 "Where is God?" gets an answer in the temperature labels. A literal designer-deity has no observed mechanism behind it, so it is cold, or undetected. Renaming the physical laws themselves "God," in the Einsteinian pantheist sense, is permitted as poetic reframing and adds no explanatory power.
 
