@@ -99,7 +99,7 @@ Du hast eine konkrete Frage oder steckst mitten in einer Situation und willst sc
 | Warum lädt mich niemand spontan nach Feierabend ein? | Kapitel 32 |
 | Ich fühle mich seit Monaten fremd und unglücklich – ist das normal? | Kapitel 33 |
 | An wen wende ich mich, wenn es mir psychisch richtig schlecht geht? | Kapitel 33 |
-| Muss ich für den Job einen Anzug kaufen? | Kulturunterschiede, Kapitel 31. Ein eigenes Kleidungskapitel ist kein Ziel |
+| Muss ich für den Job einen Anzug kaufen? | Kapitel 34 |
 | Wo kaufe ich günstig Lebensmittel ein? | Kapitel 35 |
 | Ab welchem Alter darf ich in den USA Alkohol kaufen? | Kapitel 35 |
 
