@@ -620,7 +620,7 @@ Where this stands: OBSERVED — confirmed independently by multiple methods sinc
 
 Here comes another surprise. For a long time, physicists expected gravity to slow the expansion of the universe. Gravity attracts. So perhaps the expansion should gradually lose speed.
 
-Observations of distant supernovae — exploding stars introduced properly in Chapter 5 — told a different story. The expansion of the universe is accelerating. Something appears to be driving that acceleration. We call it dark energy.
+Observations of distant supernovae — exploding stars introduced properly in Chapter 5 — told a different story. Instead of slowing down, the expansion is speeding up. Something appears to be driving that acceleration. We call it dark energy.
 
 The name is honest about our ignorance. “Dark energy” does not mean we have identified a new substance sitting in a cosmic tank. It is a label for the phenomenon associated with accelerated cosmic expansion. Whatever the underlying explanation turns out to be, the universe is doing something we did not expect.
 

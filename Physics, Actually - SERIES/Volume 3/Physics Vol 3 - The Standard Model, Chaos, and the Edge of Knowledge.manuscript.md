@@ -130,7 +130,7 @@ Einstein's equation makes the conversion possible:
 
 E = mc²
 
-Because c² is enormous, a minuscule change in mass corresponds to a huge amount of energy. Run the actual arithmetic on one gram: multiply by c² — about 9×10¹⁶ in SI units — and that single gram, fully converted, is worth roughly 9×10¹³ joules. That is in the range of a small nuclear weapon, released from a scrap of mass you could balance on a coin.
+Here m is the mass and c is the speed of light — about 300,000 kilometers per second. Because c² is enormous, a minuscule change in mass corresponds to a huge amount of energy. Run the actual arithmetic on one gram: multiply by c² — about 9×10¹⁶ in SI units — and that single gram, fully converted, is worth roughly 9×10¹³ joules. That is in the range of a small nuclear weapon, released from a scrap of mass you could balance on a coin.
 
 This is why nuclear physics can produce energies that chemistry cannot approach.
 
@@ -382,7 +382,7 @@ So neutrinos have mass. That was a major clue that the simplest Standard Model i
 
 The up and down quarks make ordinary protons and neutrons. The strange and charm quarks appeared in heavier unstable particles. The bottom and top quarks are even heavier. The top quark is particularly strange.
 
-It is so massive that it decays before it can form ordinary hadrons. We therefore do not find top-quark atoms or top-quark nuclei. We detect the top through the products of its extremely rapid decay.
+It is so massive that it decays before it can form ordinary hadrons — the bound states, such as protons and pions, that quarks make when the strong force glues them together. We therefore do not find top-quark atoms or top-quark nuclei. We detect the top through the products of its extremely rapid decay.
 
 ### Antimatter
 
@@ -394,7 +394,7 @@ When a particle and its antiparticle meet, they can annihilate into other partic
 
 The Standard Model also contains particles associated with interactions. The photon carries the electromagnetic interaction. The gluons carry the strong interaction. The W and Z bosons carry the weak interaction.
 
-The Higgs boson is different. It is the quantum excitation of the Higgs field and is associated with the Higgs mechanism that gives mass to the W and Z bosons and contributes to the masses of elementary fermions. Gravity is missing from this list. That omission is not a typo.
+The Higgs boson is different. It is the quantum excitation of the Higgs field and is associated with the Higgs mechanism that gives mass to the W and Z bosons and contributes to the masses of elementary fermions — the matter particles, such as quarks and electrons, that everything around you is built from. Gravity is missing from this list. That omission is not a typo.
 
 ### The photon
 
@@ -444,17 +444,17 @@ Quarks feel the strong, weak, and electromagnetic interactions according to thei
 
 Gluons interact strongly. The W and Z mediate weak interactions. And the Higgs belongs to the mechanism that gives mass to several elementary fields.
 
-### Why three forces fit together
+### How the Forces Are Related
 
 The Standard Model is built from quantum gauge theories. Quantum electrodynamics describes electromagnetism. Quantum chromodynamics describes the strong interaction. The electroweak theory unifies the electromagnetic and weak interactions at sufficiently high energies.
 
-At ordinary energies, the electroweak symmetry is broken and the familiar photon, W, and Z appear as distinct particles. This is one of the great conceptual achievements of twentieth-century physics. Three apparently different interactions turn out to be manifestations of a common mathematical structure at high energy.
+At ordinary energies, the electroweak symmetry is broken and the familiar photon, W, and Z appear as distinct particles. This is one of the great conceptual achievements of twentieth-century physics: two apparently different interactions turn out to be manifestations of a single mathematical structure at high energy. The strong interaction, described separately by quantum chromodynamics, has not been folded into that structure — only proposed, in the grand unified theories Part III returns to.
 
 ### The particle zoo becomes a theory
 
 The Standard Model did something remarkable. It turned a collection of experimental discoveries into a framework with a relatively small number of ingredients. There are quantum fields. There are symmetries.
 
-There are coupling constants. There are particle masses and mixing parameters. There are rules for how the fields interact. From those ingredients, the theory predicts a huge range of observed phenomena.
+There are coupling constants — numbers that fix how strongly each force pulls. There are particle masses and mixing parameters. There are rules for how the fields interact. From those ingredients, the theory predicts a huge range of observed phenomena.
 
 The zoo has become an ecosystem.
 
