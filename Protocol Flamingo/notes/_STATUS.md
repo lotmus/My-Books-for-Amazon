@@ -1,6 +1,6 @@
 # STATUS — Protocol Flamingo
 
-Last updated: 2026-10-01. The live book is the expanded manuscript, not the generator.
+Last updated: 2026-10-04. The live book is the expanded manuscript, not the generator.
 
 ## Live file
 
@@ -55,6 +55,18 @@ Lothar's rule: no sentence may recur within the same book. Pre-edit copy: `bak/2
 - Long shared phrases (8+ words) were checked too; the ones that were near-copies of a sentence were varied. Deliberate motifs were left (the grain of rice, "the way a man knocks wood" once, the hallway simile once).
 - Also: the straight apostrophe in "The Dolphins' View of History" (Also by page) is now curly.
 - To re-scan after any edit: split the book's text into sentences, normalize case and punctuation, and look for equal sentences of 3+ words outside headings, the contents list and the bibliography.
+
+## Outside-review pass, 4 Oct 2026 (single session)
+
+An outside review (8.9/10) was checked against the live book before anything changed; see `notes/MYSTERY_MAP.md`. Pre-edit copy: `bak/2026-10-04 pre-review backup/`. 76,908 → 76,581 words; paragraphs 2,427 → 2,428 (one added); links (18) and section properties unchanged; edited in `word/document.xml` only.
+
+- Not done, on purpose: no change to Dominic's nature (canon), Jesse stays at the end of Book One, no new agencies or lore. The review's “10–15% too long before Book Two” does not hold: Book One is the shortest part (about 18k of 72.8k story words). The six longest chapters (Aboard, The Pretzel Corridor, Logistics, The Bowl, Eighty-Four Seconds, What Jesse Found in the Desert) were read in full; they are tight set pieces and only line-level trims were made (about −235 words).
+- Chapter 1 trimmed by about 205 words (6.6%): barn and parking-lot texture, the wine-glass beat, the groomsman selfie, one great-aunt repeat. Protected: the pickle, “It's a medical condition,” the light, the eleven seconds, the alpaca aisle and chaperone, Huff's Tuesday (now “since the Reagan administration”).
+- Book One ending (Ch 7): one new paragraph after the agreement to find whoever pulled the video. Nora sends Mabs's plate photograph to Jesse; he promises to keep it off the air. It gives the ending a cost to Mabs and foreshadows his voice memo in Ch 16 (The Pretzel Corridor).
+- Title thread: “Flamingo” now also appears as the tab on the Desk's file in Brussels, as “Protocol Flamingo” at the head of every page of the Directorate's finding, and as the heading Dana uses in the final log entry. The glossary now says Gladys said it on the phone and Warren wrote it in pencil (it said Gladys wrote it in the margin).
+- Callback: Dana's “He gets told. He decides.” in Logistics is now “That's Rosa's rule.” Rosa's own line stays the only verbatim version.
+- Danger scenes (pink strip, diner parking lot, face-smear, the muster) already use short beats and white space; no rhythm edits were needed.
+- Repeated-sentence scan after the pass: clean, apart from the usual headings and bibliography titles.
 
 ## Git
 
