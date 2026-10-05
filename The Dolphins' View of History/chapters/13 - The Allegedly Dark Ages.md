@@ -36,7 +36,7 @@ One mathematician, Anatoly Fomenko, argued that large parts of ancient history h
 
 Most historians rejected this idea and pointed to archaeological evidence, written records, radiocarbon dating, and other methods that support the conventional timeline.
 
-**From the minutes of the Society:**
+**From the minutes of the Society, on the question of the Dark Ages:**
 
 *Motion to adopt Fomenko's chronology: defeated, unanimously, by both halves of every brain present. Motion to retire the phrase “Dark Ages”: carried, with one abstention from a member who wished it recorded that the North Sea in the ninth century was, in fact, quite dark.*
 

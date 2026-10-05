@@ -30,7 +30,7 @@ What farming lacked in individual health it made up in sheer output. A patch of 
 
 *“This was the book's first trade of quality for quantity,” dolphin historians noted. “It would not be the last.”*
 
-**From the minutes of the Society:**
+**From the minutes of the Society, on the question of farming:**
 
 *Motion: that farming was a mistake. For: eleven pods. Against: nine. Abstaining: four, on the grounds that without farming there would be no fishing fleets, and the Society has never decided how it feels about fishing fleets. Human scholars divide the same way. The geographer Jared Diamond called agriculture “the worst mistake in the history of the human race” in a 1987 essay; most archaeologists consider the verdict too sweeping, since the same fields fed the cities, the writing, and the medicine that later chapters describe. The motion was carried, narrowly, by the half of the quorum that was awake.*
 
