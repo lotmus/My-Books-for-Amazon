@@ -70,7 +70,7 @@ Der Vergleich mit der GKV ist nicht eins zu eins möglich: Die GKV rechnet nach 
 | Beitrag | Satz und Zusatzbeitrag nennt die Krankenkasse. Dieses Kapitel druckt sie nicht | Fester Betrag je Plan, unabhängig vom Gehalt. Den Betrag nennt der Plan |
 | Selbstbeteiligung | Nur kleine Zuzahlungen, kein Selbstbehalt | Deductible, Copays und Coinsurance bis zum Out-of-Pocket-Maximum |
 | Arztwahl | Freie Wahl unter allen Kassenärzten | Nur Netzwerk; außerhalb teurer oder ungedeckt |
-| Wartezeit auf Termine | Facharzttermine dauern oft Wochen | Hausarzttermine dauern je nach Stadt. Die aktuelle Umfrage nennt die KFF oder der Anbieter |
+| Wartezeit auf Termine | Facharzttermine dauern oft Wochen | Hausarzttermine dauern unterschiedlich lang je nach Stadt; aktuelle Zahlen nennt die KFF oder der Versicherer |
 | Familie | Kinder und nicht erwerbstätige Partner beitragsfrei mitversichert | Familientarif; Partner und Kinder müssen angemeldet und bezahlt werden |
 | Bürokratie | Gesundheitskarte, kaum Rechnungen | EOBs, mehrere Rechnungen, Netzwerkprüfung, Vorabgenehmigungen |
 | Kosten im Notfall | Rettungsdienst und Klinik über die Karte | Notaufnahme oft bis zum Selbstbehalt aus eigener Tasche; Krankenwagen extra |

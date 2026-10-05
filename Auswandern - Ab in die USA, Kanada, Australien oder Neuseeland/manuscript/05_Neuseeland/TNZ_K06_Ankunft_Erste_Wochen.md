@@ -25,7 +25,7 @@ Bargeld und Reiseschecks über einem bestimmten Gesamtwert meldest du in der NZT
 
 ### Jetlag und die ersten Tage
 
-Neuseeland liegt, je nach Sommer- oder Winterzeit auf beiden Seiten der Erde, rund elf bis zwölf Stunden vor der deutschen Zeit – ein Sprung, der sich nicht mit einer Mütze Schlaf im Flugzeug erledigt. Plane die ersten zwei, drei Tage bewusst ohne wichtige Termine ein: kein Bankgespräch am Ankunftstag, keine Wohnungsbesichtigung mit Kopfschmerzen vom Nachtflug. Tageslicht, ein kurzer Spaziergang und das bewusste Durchhalten bis zum lokalen Abend helfen dem Rhythmus spürbar schneller auf die Sprünge als noch eine Tasse Kaffee.
+Neuseeland liegt, je nach Sommer- oder Winterzeit auf beiden Seiten der Erde, rund elf bis zwölf Stunden vor der deutschen Zeit – der größte Zeitsprung aller vier Länder in diesem Buch, der sich nicht mit einer Mütze Schlaf im Flugzeug erledigt. Setz dir deshalb für die ersten zwei, drei Tage eine feste Regel: keine Termine mit Behörde, Bank oder Vermieter, bei denen ein unausgeschlafener Kopf etwas kostet. Was am meisten hilft, ist simpel und wenig überraschend – Tageslicht tanken, sich bewegen, und bis zum lokalen Abend wach bleiben, statt mittags ins Bett zu fallen.
 
 > **Merke:** Wer gleich am zweiten Tag zum wichtigen Behördentermin will, überschätzt meist die eigene Tagesform. Ein, zwei Tage Puffer zahlen sich in jedem Gespräch aus, bei dem es auf Konzentration ankommt.
 
