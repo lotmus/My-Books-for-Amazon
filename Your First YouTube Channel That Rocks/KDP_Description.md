@@ -1,6 +1,6 @@
 # KDP listing — Your First YouTube Channel That Rocks
 
-Updated 2 October 2026. Refocused on monetizing the channel itself. YouTube facts in the description were checked against YouTube Help and the YouTube Blog in October 2026.
+Updated 3 October 2026 (revision: Start This Week plan, layered sections, workbook at the centre, claim labels). Refocused on monetizing the channel itself. YouTube facts in the description were checked against YouTube Help and the YouTube Blog in October 2026.
 
 ## Title fields
 
@@ -18,6 +18,7 @@ Your First YouTube Channel That Rocks is a working guide for creators who want a
 
 Inside you will learn how to:
 
+• Start this week with a five-day plan, and know which chapters you can ignore until you need them
 • Name the one viewer your channel serves, and set up the switches the Partner Program will ask for later
 • Win the click with titles, descriptions, thumbnails, and captions, and keep viewers past the first thirty seconds
 • Make videos cheaply with free tools, and read the licenses that keep the money from going to someone else
@@ -27,7 +28,7 @@ Inside you will learn how to:
 • Switch on memberships and Supers, price a sponsorship from your own numbers, and disclose every deal correctly
 • Find the earliest break when the counts stall, and spread the income so no single rule change ends the channel
 
-Every platform rule is tied to YouTube’s own help pages. Anything about the algorithm is labeled as creator consensus, not fact. The worked numbers are arithmetic, not promises of income.
+Every platform rule is tied to YouTube’s own help pages, and every claim is labeled: official rule, documented platform guidance, creator heuristic, or author recommendation. A channel workbook keeps the record. The worked numbers are arithmetic, not promises of income.
 
 Independent guide. Not affiliated with or endorsed by YouTube.
 

@@ -12,9 +12,7 @@ Julius Caesar crossed the Rubicon river with his army in 49 BCE, in defiance of 
 
 The Republic's checks, designed with some care to prevent exactly this outcome, held up for close to five hundred years and then gave way in about twenty, which dolphin historians regard as a thoroughly Roman ratio of centuries spent planning to afternoons spent undoing it.
 
-What Rome built next, over the following two centuries of relative internal peace known as the Pax Romana, is what dolphin historians consider its most durable invention: a network of roads over 250,000 miles long at its peak, aqueducts moving water across entire regions by gravity alone, a body of law distinguishing public and private rights that still underlies many legal systems today, and a path to citizenship that, by 212 CE, extended to almost every free person in the empire.
-
-*“Remarkable administration,” one senior dolphin scholar added in the margin of the file. “Excessive conquering.”*
+What Rome built next, over the following two centuries of relative internal peace known as the Pax Romana, is what dolphin historians consider its most durable invention: a network of roads that, by a common modern estimate, ran to some 250,000 miles at its peak, more than 50,000 of them paved, aqueducts moving water across entire regions by gravity alone, a body of law distinguishing public and private rights that still underlies many legal systems today, and a path to citizenship that, by 212 CE, extended to almost every free person in the empire.
 
 It also had a strategy for domestic peace, which the satirist Juvenal summed up around 100 CE as bread and circuses: free grain for the citizens of the capital and, at the Colosseum, opened in 80 CE, spectacle on a scale nobody has since attempted with the same disregard for the participants. The Pantheon's concrete dome, completed around 126 CE, remains the largest unreinforced concrete dome in the world, which is more than can be said for most of the buildings put up since.
 
@@ -26,6 +24,8 @@ In 395 CE the empire formally split into Western and Eastern halves. The Western
 
 *“There was no single day the lights went out,” dolphin historians observed. “Half the empire kept them on for another millennium, under the same laws and the same god, with a different capital and, eventually, a different language.”*
 
+Human historians are still arguing about which of those two sentences matters more. One school, following Peter Brown, describes a long “late antiquity” of transformation, in which Roman law, Christianity, and Latin carried on under new rulers. Another, led by archaeologists such as Bryan Ward-Perkins, points to what the ground shows in the West after about 400 CE: fewer coins, simpler pottery, smaller buildings, smaller cattle, and a collapse in living standards that took centuries to reverse. The dolphins' own historians have split along exactly the same line.
+
 **Dolphin verdict:**
 
-*Rome is usually told as history's cleanest collapse — a great empire that simply ended. It did not. It fragmented, one half absorbed by the kingdoms that grew up in its ruins, the other half continuing under its own name for a thousand years more. The myth of the clean ending says more about how humans like their stories shaped than about how empires actually finish.*
+*Split decision. The Transformationist pod holds that Rome did not fall; it changed hands, languages, and capitals, and half of it carried on for a thousand years. The Catastrophist pod holds that for a farmer in fifth-century Britain, whose pots got cruder, whose coins vanished, and whose cattle got smaller, the change of hands felt very much like a fall. Both are describing the same evidence from different distances. The dolphins, who watched from the sea, record only that the shipping thinned.*

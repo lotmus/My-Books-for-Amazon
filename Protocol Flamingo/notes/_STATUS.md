@@ -1,6 +1,6 @@
 # STATUS — Protocol Flamingo
 
-Last updated: 2026-10-01. The live book is the expanded manuscript, not the generator.
+Last updated: 2026-10-04. The live book is the expanded manuscript, not the generator.
 
 ## Live file
 
@@ -37,6 +37,36 @@ Pre-edit copies: `bak/2026-10-01 pre-lightpass backup/`. Word count unchanged, 2
 - Fix: "pencilled" became "penciled" (Chapter V diner; American spelling). Edited in `word/document.xml` only; zip, paragraph count (376) and links unchanged.
 - Checked and left: front matter, series line, Also by page and About the Author agree with `KDP_LISTING.md` (The Invasion Storybooks, Book 1, George Herbert Fontaine). The KDP description matches the book (six people drop phones, eleven seconds, eighty seconds of the water tower, "the committee has been meeting since 1947", Starfall two weeks out). Spell check found no other typos.
 - Still open for Lothar: the late-2026 Texas total eclipse is invented (see above). The listing calls the book a novella (26,647 words is novella length); decide whether to sell it as a novel.
+
+## Polish pass, 3 Oct 2026 (single session, no git)
+
+Pre-edit copy: `bak/2026-10-03 pre-polish backup/`. The counts above are stale: the live Rev2 measured 2,428 paragraphs and about 77,000 words (three Books, 23 chapters) on 3 Oct, up from 376 paragraphs and 26,647 words.
+
+- Fix: "neighbours" became "neighbors" (Book Two, the Trojan-swarm dot paragraph). The Also by page had a straight apostrophe in "Hadn't"; now curly. Edited in `word/document.xml` only; every other zip entry byte-identical, paragraph count, word count, 18 links and section properties unchanged.
+- Checked and left: the title payoff (Gladys names it, Warren pencils it, the glossary explains the pink), Whitcombe's margin note in "Logistics", the closed ending, the Starfall chapters. Sweeps for Texas, Jupiter's shadow, Reno, "intern named Carl", straight quotes, double spaces and British spellings found nothing else ("burnt coffee" is fine as an American adjective).
+- Not touched: `build_docx.js` still builds only the earlier draft.
+
+## No-repeated-sentences pass, 4 Oct 2026 (single session)
+
+Lothar's rule: no sentence may recur within the same book. Pre-edit copy: `bak/2026-10-04 pre-dedupe backup/`. 170 paragraphs changed; 76,990 → 76,908 words; paragraph count (2,428), links (18) and section properties unchanged; edited in `word/document.xml` only, every other zip entry byte-identical.
+
+- Scan before: 93 repeated-sentence groups (3+ words) and 8 near-duplicates. After: none left except chapter titles that also sit in the contents list ("Eighty-Four Seconds", "The Company That Owns the Sky"), the bibliography titles that the appendix also names, and the bare interjection "I don't know,".
+- Callbacks were reworded rather than copied: Rosa's rule ("he gets told, and he decides") now appears once verbatim (Rosa's own speech) and in varied form elsewhere; "That's the deal" is kept for Dominic and Nora's exchange at the end; the pen/pencil line, "an ask, and a yes", "for the other one", "sitting next to", the authorization text read twice, and gesture beats ("He looked at her", "Nora looked at him", "He did not move") were varied. Glossary entries that copied story sentences were reworded.
+- Long shared phrases (8+ words) were checked too; the ones that were near-copies of a sentence were varied. Deliberate motifs were left (the grain of rice, "the way a man knocks wood" once, the hallway simile once).
+- Also: the straight apostrophe in "The Dolphins' View of History" (Also by page) is now curly.
+- To re-scan after any edit: split the book's text into sentences, normalize case and punctuation, and look for equal sentences of 3+ words outside headings, the contents list and the bibliography.
+
+## Outside-review pass, 4 Oct 2026 (single session)
+
+An outside review (8.9/10) was checked against the live book before anything changed; see `notes/MYSTERY_MAP.md`. Pre-edit copy: `bak/2026-10-04 pre-review backup/`. 76,908 → 76,581 words; paragraphs 2,427 → 2,428 (one added); links (18) and section properties unchanged; edited in `word/document.xml` only.
+
+- Not done, on purpose: no change to Dominic's nature (canon), Jesse stays at the end of Book One, no new agencies or lore. The review's “10–15% too long before Book Two” does not hold: Book One is the shortest part (about 18k of 72.8k story words). The six longest chapters (Aboard, The Pretzel Corridor, Logistics, The Bowl, Eighty-Four Seconds, What Jesse Found in the Desert) were read in full; they are tight set pieces and only line-level trims were made (about −235 words).
+- Chapter 1 trimmed by about 205 words (6.6%): barn and parking-lot texture, the wine-glass beat, the groomsman selfie, one great-aunt repeat. Protected: the pickle, “It's a medical condition,” the light, the eleven seconds, the alpaca aisle and chaperone, Huff's Tuesday (now “since the Reagan administration”).
+- Book One ending (Ch 7): one new paragraph after the agreement to find whoever pulled the video. Nora sends Mabs's plate photograph to Jesse; he promises to keep it off the air. It gives the ending a cost to Mabs and foreshadows his voice memo in Ch 16 (The Pretzel Corridor).
+- Title thread: “Flamingo” now also appears as the tab on the Desk's file in Brussels, as “Protocol Flamingo” at the head of every page of the Directorate's finding, and as the heading Dana uses in the final log entry. The glossary now says Gladys said it on the phone and Warren wrote it in pencil (it said Gladys wrote it in the margin).
+- Callback: Dana's “He gets told. He decides.” in Logistics is now “That's Rosa's rule.” Rosa's own line stays the only verbatim version.
+- Danger scenes (pink strip, diner parking lot, face-smear, the muster) already use short beats and white space; no rhythm edits were needed.
+- Repeated-sentence scan after the pass: clean, apart from the usual headings and bibliography titles.
 
 ## Git
 

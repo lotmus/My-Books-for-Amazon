@@ -6,6 +6,18 @@
 
 A channel that pays leaves a trail: who it was for, what each video cost in hours, what the counts did, and what each stream paid. Memory is a poor record. The point of these sheets is to stop you from “improving” three things at once and then guessing which one mattered. The templates at the end are words you can paste and then make true.
 
+*Layer: all layers. This is the centre of the book; each chapter tells you which sheet to open.*
+
+| Sheet | Start it | Used in |
+|---|---|---|
+| I. Viewer sheet | Day 1 | Chapter 1; revisit in chapter 14 |
+| II. Set-up sheet | Day 2 | Chapter 1; chapter 10 for the audience setting |
+| III. Video-job sheet | Before each upload | Chapters 2, 4, and 5 |
+| IV. Week sheet | After the first upload | Chapters 6 to 8 |
+| V. Money sheet | First upload, even at zero | Chapters 9 to 13 |
+| VI. Decision log | First change you make | Chapters 6, 7, and 14 |
+| VII. Rights log | First clip or track | Chapters 3 and 10 |
+
 ## I. Viewer sheet
 
 Who the channel is for:
@@ -36,9 +48,25 @@ Audience setting, channel and default for uploads: made for kids / not made for 
 
 Earn tab notification switched on: yes / no
 
-## III. The eight videos
+## III. Video-job sheet
 
-For each, write the job, the working title, and the one action at the end.
+One sheet per video. Fill it before you record.
+
+Job (one of the eight in chapter 5):
+
+Working title, with the viewer’s phrase:
+
+Thumbnail words, readable on a phone:
+
+Opening, first fifteen seconds — the promise, the result, the start:
+
+The hard step, the one to slow down:
+
+The one action at the end:
+
+The next video, named inside the video and on the end screen:
+
+The eight jobs, as a checklist for the first eight sheets:
 
 1. Who it is for —
 2. The problem in their words —
@@ -117,7 +145,23 @@ What you will do next:
 
 A useful line sounds like this: “Rewrote only the first thirty seconds of the deep dive. Same title, same thumbnail. Fourteen days. Thirty-second retention went from 41% to 58%. Average view duration from 3:50 to 5:10. Hold everything else. Look again in fourteen days.” That is more useful than “openings do not work.”
 
-## VII. One filled example
+## VII. Rights log
+
+One line for every outside asset and every disclosure, kept for as long as the video is public.
+
+Clip, track, image, or generated asset — where it came from, the license or terms, the date downloaded, and a screenshot of the license page:
+
+Attribution the license asks for, and where in the description it appears:
+
+Altered or synthetic content setting, if used, and why:
+
+Paid promotion setting, sponsor, and date:
+
+Affiliate links, and the disclosure line beside each:
+
+Copyright claims and notices received, the date, and what you did:
+
+## VIII. One filled example
 
 This uses the same bathroom-repair illustration as chapter 2. It is a shape, so the blanks above have something to resemble. It is not an assignment to start a repair channel. If your viewer is someone else, every line changes and the shape stays.
 
@@ -131,7 +175,7 @@ The phrase they would type into search: price a bathroom repair.
 
 One proof you actually have: one quote you wrote, with only the numbers you are allowed to show. If you have never written that quote, this line stays blank and you do not publish the proof video yet.
 
-The eight videos, each with a working title and one action:
+The video-job sheets, each with a working title and one action:
 
 1. Who it is for — “Price a bathroom repair: who this is for.” Action: leave if you want a design tour.
 2. The problem, in their words — “Price a bathroom repair when the quote leaves out the tile.” Action: name the missing line.
@@ -144,7 +188,7 @@ The eight videos, each with a working title and one action:
 
 A first money line, a year later, still hypothetical: Partner Program accepted in month ten. Ads and Premium on the month’s 40,000 long-form views at an invented RPM of $5: $200. Twelve members at $4.99: about $42 at YouTube’s 70% share, less any sales tax and app-store fees. One affiliate commission from a moisture meter used in the deep dive. No sponsor yet. Hours that month: thirty. Write all of it down. The point is not the size. It is that four streams now exist, and none of them is the whole channel.
 
-## VIII. Words to paste
+## IX. Words to paste
 
 These are your words, not a script for a viewer’s comment and not a fake testimonial. If a sentence overclaims, cut it. A channel that lasts says a smaller true thing.
 
@@ -164,18 +208,15 @@ These are your words, not a script for a viewer’s comment and not a fake testi
 
 **What you do not say.** Do not say a video will change their life, guarantee results, or “blow up” their own channel. Do not ask viewers to comment a keyword to inflate the comment count. Do not stack subscribe, like, membership, and sponsor into one closing breath. One ask. Do not paste a review you wrote yourself. If a viewer tells you a result, ask before you quote them, and do not enlarge the result.
 
-> **Key takeaway:** Write the number down. Keep each stream on its own line. Change one thing. Look again on the date you set. Paste the words, replace every bracket, and delete any line you cannot say out loud.
+*In short:* Write the number down. Keep the streams on separate lines. Adjust one variable at a time. Look again on the date you set. Paste the words, replace every bracket, and delete any line you cannot say out loud.
 
-## IX. Claims that do not survive the sheet
+## X. Claims that do not survive the sheet
 
 - That you will remember what you changed. You will not. Write it.
 - That likes are a substitute for the watch-time line. Likes are polite. Hours and returning viewers are what the gate and the advertisers count.
 - That the money sheet is pointless before the gate. Before the gate it records the hours. After the gate it tells you which of those hours paid.
-- That a template is finished when the brackets are filled. It is finished when every sentence is true.
 - That the filled bathroom example is the niche to copy. Your viewer, your proof, and your numbers replace every line.
-
-A last limit. Blank sheets do not make a channel pay. Filled sheets make the next decision obvious, including the decision to change course.
 
 ---
 
-*Sources: This workbook is editorial structure for the rest of this book. The bathroom-repair sheet and its money line are hypothetical illustrations, not a measured channel. The membership share is YouTube’s 70% after taxes and fees, from chapter 12. Affiliate disclosure follows chapter 13 and the FTC’s [Endorsement Guides, 16 CFR Part 255](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255). Not accounting or tax advice; keep whatever records your own situation requires.*
+*Sources: This workbook is the author’s structure for the rest of this book. The bathroom-repair sheet and its money line are hypothetical illustrations, not a measured channel. The membership share is YouTube’s 70% after taxes and fees, from chapter 12. Affiliate disclosure follows chapter 13 and the FTC’s [Endorsement Guides, 16 CFR Part 255](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255).*

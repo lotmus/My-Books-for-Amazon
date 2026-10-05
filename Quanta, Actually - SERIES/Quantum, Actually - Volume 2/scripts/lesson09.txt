@@ -1,0 +1,351 @@
+TITLE: Wave Optics, Light Paths, and Photons
+TAGLINE: Maxwell's waves in glass and water, Huygens and Fresnel's wavelets, the sum over every path light could take, and the photon that this sum describes one detection at a time
+NUM: 9
+NEXT: Part II turns from classical fields to quantum mechanics. Lesson 10 gives the electron what this lesson gave the photon: an amplitude whose squared magnitude is a probability. It develops wave functions and Hilbert spaces, the probabilistic interpretation, and the inner product that puts quantum states on the same footing as the vectors of Lesson 1.
+
+# How to use this lesson
+
+Watch the Sun set over the sea. When its lower edge seems to touch the horizon, the Sun you would find by drawing a straight line is already below it: the air has bent the light over the curve of the Earth by about half a degree, close to the Sun's own width. Optics is the study of what light does on its way to the eye, and every such effect comes from Lesson 7's waves changing speed and adding up.
+
+This lesson is the bridge from those classical waves to the photons of the prologues, and it makes the bridge out of mathematics, not analogy. It takes four steps. First, waves in matter: the refractive index, Snell's law, and the Fresnel coefficient r = (n₁−n₂)/(n₁+n₂), which gives the 0.2 arrow that Prologue 2 measured but did not derive. Second, Huygens and Fresnel: the field at a point is a sum of wavelets from an earlier wavefront, with a definite factor 1/(iλ) that we derive. Third, the same sum applied again and again becomes a sum over every path from source to detector, each weighted by e^(ik₀L) with L the optical path length; its stationary path is Fermat's ray, and its other paths explain diffraction. Fourth, photons: light is detected in lumps of energy ℏω, the fringes survive when the lumps arrive one at a time, and so the sum over paths must be the amplitude for one photon. That is Prologue 2's rule, now derived from Maxwell's equations.
+
+A reader who knows undergraduate optics can skim Sections 1 to 3 and work Sections 4 to 6 carefully; Lessons 10 and 80 lean on them. Expect five to seven hours.
+
+BOX: Plain-language start
+This lesson connects the prologues' arrows to classical optics: why glass slows light, where Prologue 2's arrow of length 0.2 comes from, why every path contributes, and how a classical wave is many photons. Nothing in it needs more than Lessons 1–8.
+ENDBOX
+
+## Learning objectives
+
+- Show that a linear medium turns Lesson 7's wave equation into one with phase speed c/n, and explain normal dispersion with a driven-electron model.
+
+- Derive Snell's law from phase matching at a boundary, and compute critical angles and evanescent decay lengths.
+
+- Derive r=(n₁−n₂)/(n₁+n₂) at normal incidence, recover Prologue 2's arrow of length 0.2 for glass, and locate Brewster's angle.
+
+- State the Huygens–Fresnel integral, derive its prefactor 1/(iλ) from Fresnel zones, and use zones to explain the bright spot behind a disc.
+
+- Compute far-field patterns of a slit, two slits and a circular aperture, including the limit θ≈1.22λ/D.
+
+- Write the field at a detector as a sum over light paths weighted by e^(ik₀L), evaluate it by stationary phase, and obtain Fermat's principle and the width of the strip of a mirror that does the reflecting.
+
+- Convert between optical power and photon rate with E=ℏω, and explain why single-photon interference forces the field amplitude to be a probability amplitude.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| n | Refractive index, n=c/v for the phase speed v; n=√(ε_r μ_r) |
+| λ₀, λ | Vacuum wavelength and wavelength in the medium, λ=λ₀/n |
+| k₀, k | Vacuum wavenumber 2π/λ₀ and wavenumber in the medium, k=nk₀ |
+| θ₁, θ₂ | Angles from the normal on the incident and transmitted sides |
+| r, t | Amplitude reflection and transmission coefficients for the electric field |
+| R, T | Reflected and transmitted fractions of the power, R+T=1 |
+| U | Complex scalar amplitude of one field component, time dependence e^(−iωt) understood |
+| L | Optical path length ∫n ds along a path; the phase along the path is k₀L=ωT |
+| ρ_m | Radius of the m-th Fresnel zone |
+| ℏω, ℏk | Energy and momentum of one photon |
+
+SI units are kept in this lesson because optical constants are tabulated that way; n is a pure number, and every result is the same in the Heaviside–Lorentz units of Lesson 7, Section 7. Polarization is ignored from Section 4 on: each Cartesian component of E obeys the same scalar wave equation, and the scalar theory is accurate when apertures are much larger than λ.
+
+# 1 Light in a medium
+
+## 1.1 The refractive index
+
+In a linear, non-magnetic, uncharged medium the polarization of the material is proportional to the field, so ε₀ in Lesson 7's equations becomes ε₀ε_r. Repeating the curl-of-curl step of Lesson 7, Section 5.1, gives
+
+$$ ∇²E − (n²/c²) ∂²E/∂t² = 0,    n = √(ε_r μ_r)
+
+A plane wave e^(i(k·x−ωt)) solves it with |k| = nω/c. The frequency is fixed by the source and is the same on both sides of any boundary; the phase speed is v = c/n and the wavelength shrinks to λ = λ₀/n. Air has n=1.0003, water 1.33, crown glass about 1.52, diamond 2.42.
+
+The slowing has a microscopic picture that matters for QED. The incident wave drives the bound electrons, each driven electron radiates, and in the forward direction the sum of their radiated waves lags the drive. Added to the incident wave, it produces a wave whose phase advances more slowly. The "slower light" is the original wave plus the forward scattering of the electrons, which is how Feynman explains refraction in QED with the electron–photon action of Prologue 5.
+
+## 1.2 Dispersion
+
+Model each bound electron as a damped oscillator of natural frequency ω_j driven by the field (the Lorentz model). Solving the driven oscillator of Lesson 2 for N electrons per unit volume gives
+
+$$ n²(ω) = 1 + (N e²/(ε₀ m)) Σ_j f_j/(ω_j² − ω² − iγ_j ω)
+
+with oscillator strengths f_j and damping rates γ_j. Glass and water have their strong resonances in the ultraviolet, so across the visible band ω < ω_j and n grows with ω. This is normal dispersion: water has n≈1.331 for red and n≈1.343 for violet light, so violet bends more, and a rainbow puts red on the outside at about 42° and violet inside at about 40°. Near a resonance the imaginary part of n describes absorption.
+
+### Worked example 1
+
+Yellow sodium light has λ₀=589 nm. Find its frequency and its wavelength in water (n=1.333). The frequency is f=c/λ₀=(2.998×10⁸ m/s)/(589×10⁻⁹ m)=5.09×10¹⁴ Hz, in air and in water alike. The wavelength in water is λ=λ₀/n=589/1.333≈442 nm. A diver sees the same yellow, because the eye responds to frequency, not to the wavelength in the medium.
+
+## 1.3 Scattering and the blue sky
+
+A bound electron driven far below its resonance (ω ≪ ω_j) responds with a dipole moment p₀ independent of frequency, and an oscillating dipole radiates the time-averaged power
+
+$$ P = p₀² ω⁴/(12π ε₀ c³)
+
+Molecules therefore scatter in proportion to ω⁴, or 1/λ⁴. Blue light at 450 nm is scattered (700/450)⁴≈5.9 times more strongly than red at 700 nm, so the sky away from the Sun is blue, and at sunset the long path through air strips the blue from the direct beam. Violet is scattered even more but is weaker in sunlight and in the eye's response. A dipole does not radiate along its own axis, so light scattered through 90° is strongly polarized. Cloud droplets are much larger than λ, the 1/λ⁴ law does not apply to them, and clouds are white.
+
+# 2 Boundaries: Snell's law
+
+## 2.1 Phase matching
+
+Let a plane wave meet a flat boundary between media n₁ and n₂. The boundary conditions that follow from the integral forms of Lesson 7's equations (tangential E continuous and, for non-magnetic media, tangential B continuous) must hold at every point of the surface and at every instant. That is possible only if the incident, reflected and transmitted waves have the same frequency and the same component of k along the surface. With |k| = nω/c on each side,
+
+$$ n₁ sin θ₁ = n₂ sin θ₂
+
+which is Snell's law. The reflected wave has the same |k| as the incident one, so its angle equals the angle of incidence. Section 5.2 derives the same law a second way, from a sum over paths.
+
+## 2.2 Total internal reflection
+
+Going from the denser medium into the less dense one, sin θ₂ = (n₁/n₂) sin θ₁ reaches 1 at the critical angle
+
+$$ sin θ_c = n₂/n₁
+
+Beyond θ_c no transmitted wave can match the tangential k, and all of the power is reflected; an optical fiber guides light by bouncing it off its core boundary beyond θ_c. The field on the far side does not vanish. It decays as e^(−κz) with
+
+$$ κ = (ω/c) √(n₁² sin²θ₁ − n₂²)
+
+an evanescent wave that carries no power on average but can leak through a second, nearby boundary. This is frustrated total internal reflection, the optical twin of quantum tunneling.
+
+### Worked example 2
+
+Find the critical angles of water, crown glass and diamond against air, and the escape angle of a ray leaving water at 30°. Water: θ_c=arcsin(1/1.333)=48.6°. Glass (n=1.52): arcsin(1/1.52)=41.1°. Diamond: arcsin(1/2.42)=24.4°, which is why a cut diamond traps light and returns it through the top. For the ray at 30° in water, sin θ₂=1.333×0.5=0.667, so θ₂=41.8°. The ray bends away from the normal, and an eye tracing it back in a straight line places a submerged object higher than it is: the straw in a glass looks broken at the surface.
+
+# 3 How much reflects: the Fresnel equations
+
+## 3.1 Normal incidence
+
+At normal incidence write the incident, reflected and transmitted fields as E₀, rE₀ and tE₀. Continuity of E gives 1 + r = t. For a plane wave in a non-magnetic medium the magnetic field is proportional to nE and reverses with the direction of travel, so continuity of tangential B gives n₁(1 − r) = n₂ t. Solving the pair,
+
+$$ r = (n₁ − n₂)/(n₁ + n₂),    t = 2n₁/(n₁ + n₂)
+
+The reflected power fraction is R = r², and the transmitted fraction is T = (n₂/n₁) t², the factor n₂/n₁ coming from the different energy flux per unit field in the two media. One checks R + T = 1.
+
+### Worked example 3
+
+Derive Prologue 2's arrow for glass. With n₁=1 and n₂=1.5, r=(1−1.5)/(1+1.5)=−0.2, so R=0.04: four parts in a hundred, an arrow of length 0.2. The transmitted fraction is T=1.5×(2/2.5)²=0.96, and 0.04+0.96=1. The minus sign is a half-turn of the arrow on reflection from the denser side; from inside the glass, going back towards air, r=(1.5−1)/2.5=+0.2 with no half-turn. This is Prologue 2's 0.2, derived from ε_r=n²=2.25. Section 6 explains why a classical power fraction can be read as a probability per photon.
+
+## 3.2 Oblique incidence and Brewster's angle
+
+At oblique incidence the two polarizations differ. With the field perpendicular to the plane of incidence (s) and in it (p),
+
+$$ r_s = (n₁ cos θ₁ − n₂ cos θ₂)/(n₁ cos θ₁ + n₂ cos θ₂)
+
+$$ r_p = (n₂ cos θ₁ − n₁ cos θ₂)/(n₂ cos θ₁ + n₁ cos θ₂)
+
+The overall sign of r_p depends on how the p field's direction is defined, and textbooks differ; R_p = r_p² does not. The p coefficient vanishes when n₂ cos θ₁ = n₁ cos θ₂. Combined with Snell's law this means θ₁ + θ₂ = 90°, and
+
+$$ tan θ_B = n₂/n₁
+
+At Brewster's angle the reflected light is purely s-polarized. For water θ_B=arctan 1.333=53.1°, for glass 56.3°. Glare from a lake or a wet road is therefore mostly horizontally polarized, and polarizing sunglasses, whose transmission axis is vertical, remove most of it.
+
+# 4 Huygens, Fresnel, and the diffraction integral
+
+## 4.1 Wavelets
+
+Huygens (1678) proposed that every point of a wavefront acts as a source of secondary wavelets and that the later wavefront is their envelope. Fresnel (1818) added what Huygens lacked: the wavelets have phases and interfere. In modern form, for a monochromatic scalar amplitude U known on a surface Σ, the amplitude at a point P beyond it is
+
+$$ U(P) = (1/(iλ)) ∫_Σ U(Q) (e^(ikr)/r) cos χ dA
+
+where r is the distance from the surface point Q to P and χ is the angle between the line QP and the normal to Σ. Each wavelet is a spherical wave e^(ikr)/r, as Lesson 7's wave equation requires of a point source. The obliquity factor cos χ suppresses wavelets sent sideways; this form follows from the wave equation (the Rayleigh–Sommerfeld result), and Kirchhoff's older (1+cos χ)/2 agrees with it for the near-forward directions that matter here. The prefactor 1/(iλ) looks arbitrary. The next section derives it from the requirement that an unobstructed plane wave stays a plane wave.
+
+## 4.2 Fresnel zones
+
+Let a plane wave U₀ fall on an open plane Σ and let P lie on the axis a distance z ≫ λ behind it. Divide Σ into rings by the distance r to P: the m-th Fresnel zone is the ring where z + (m−1)λ/2 < r < z + mλ/2. Since r² = z² + ρ², its outer radius is
+
+$$ ρ_m = √(mλz)
+
+for mλ ≪ z, and every zone has nearly the same area πλz. Wavelets from neighbouring zones arrive half a period apart, so the zones contribute with alternating signs. Compute the first one. With dA = 2πρ dρ = 2πr dr and cos χ ≈ 1,
+
+$$ ∫_(zone 1) (e^(ikr)/r) dA = 2π ∫_z^(z+λ/2) e^(ikr) dr = (2π/(ik)) e^(ikz)(e^(iπ) − 1) = 2iλ e^(ikz)
+
+The alternating series of zone contributions, each slightly smaller than the last because of the obliquity factor and 1/r, sums to half of the first term. The whole open plane therefore contributes iλ e^(ikz) U₀, and the prefactor 1/(iλ) turns this into U(P) = U₀ e^(ikz): the plane wave arrives unchanged, as it must. Both the 1/λ and the extra quarter-turn −i = 1/i are fixed by this requirement.
+
+The zones also predict something no ray picture can. An aperture that passes only the first zone gives twice the unobstructed amplitude, four times the intensity, on the axis. A small opaque disc that blocks the first few zones leaves the rest, whose sum is half of the first unblocked zone, so the centre of the shadow is bright. Poisson raised this as an absurd consequence of Fresnel's theory in 1818; Arago looked and found the spot.
+
+### Worked example 4
+
+How large is the patch of a wavefront that delivers light from a distant lamp to your eye 1 m away from a window, for λ=500 nm? The first zone has ρ₁=√(500×10⁻⁹×1)=7.1×10⁻⁴ m, a disc 1.4 mm across. Most of the amplitude comes from zones near this size; a pinhole of radius ρ₁ in a card held 1 m from the eye makes the on-axis spot four times brighter than no card at all, while a pinhole of radius ρ₂=1.0 mm makes it nearly dark. The second claim is the strangest and is easy to check with a laser: two zones cancel.
+
+## 4.3 Far field: Fourier transforms of apertures
+
+Far behind an aperture of size a, in the regime of small Fresnel number N_F = a²/(λz) ≪ 1, the distance r in the phase can be expanded to first order in the aperture coordinate x: r ≈ R − x sin θ. The integral becomes a sum of wavelets with phases −k x sin θ across the aperture, which is the Fourier transform of the aperture of Lesson 2. For a slit of width a the zeros are at a sin θ = mλ with m = ±1, ±2, …. For a circular aperture of diameter D the first zero of the transform, a Bessel function, lies at
+
+$$ sin θ₁ = 1.22 λ/D
+
+Two point sources closer in angle than θ₁ blur into one (Rayleigh's criterion). No lens design can beat this for a given aperture; only a larger D or a shorter λ can.
+
+### Worked example 5
+
+The eye in daylight has a pupil of D≈3 mm; take λ=550 nm. Then θ₁=1.22×550×10⁻⁹/(3×10⁻³)=2.2×10⁻⁴ rad, about 0.8 arcminute, close to the one-arcminute acuity of normal vision. Two car headlights 1.5 m apart are resolved out to 1.5/(2.2×10⁻⁴)≈6.7 km. The Hubble Space Telescope (D=2.4 m) reaches 1.22×550×10⁻⁹/2.4=2.8×10⁻⁷ rad, about 0.06 arcsecond.
+
+## 4.4 Two slits and thin films
+
+Two slits are the Huygens integral with only two small patches of Σ open. Two waves of the same frequency with intensities I₁, I₂ and a phase difference δ add to
+
+$$ I = I₁ + I₂ + 2 √(I₁ I₂) cos δ
+
+The last term is interference, the classical form of adding two arrows before squaring. For slits a distance d apart, a point at height y on a screen at distance L_s ≫ d sees a path difference d y/L_s, so bright fringes are spaced by
+
+$$ Δy = λ L_s/d
+
+A thin film of index n and thickness d in air, at normal incidence, returns one wave from the front surface with r=(1−n)/(1+n)<0 and one from the back with r=(n−1)/(n+1)>0, delayed by the round trip. Their phase difference is δ = 4πnd/λ₀ + π, the π being the relative half-turn of Section 3.1. The film is bright where 2nd = (m + 1/2)λ₀ and dark where 2nd = mλ₀. A film much thinner than λ is dark for every color, which is the black patch at the top of a soap bubble just before it bursts.
+
+### Worked example 6
+
+A glass sheet n=1.5, both surfaces counted. Prologue 2 said that two arrows of length 0.2 give a reflection between 0 and 0.16 depending on thickness. Including the transmission factor 0.96 for the back-surface wave, which crosses the front surface twice, the two-wave maximum is (0.2+0.96×0.2)²=0.154. Summing all multiple reflections inside the sheet (Exercise 15) gives a maximum of 4r²/(1+r²)²=0.16/1.0816=0.148, and still exactly 0 at the dark thicknesses. Prologue 2's arrow rule is the first term of this series.
+
+# 5 The sum over light paths
+
+## 5.1 From wavelets to paths
+
+Apply Section 4.1 twice. The amplitude on a surface Σ₁ is a sum of wavelets from the source S; the amplitude at P is a sum of wavelets from Σ₁. Inserting the first into the second,
+
+$$ U(P) ∝ ∫_(Σ₁) dA₁ (e^(ik r(S,Q₁))/r(S,Q₁)) (e^(ik r(Q₁,P))/r(Q₁,P))
+
+a sum over two-segment paths S→Q₁→P, each weighted by the phase of its total length. Nothing stops us from inserting more surfaces Σ₂, Σ₃, …, Σ_N between S and P, in vacuum or inside glass. Each insertion adds an integral over one more intermediate point, and with many surfaces the integrand is a sum over finely broken paths that can wander anywhere. The weight of each path is the product of its segment phases, e^(ik₀L), where in a medium each segment contributes n times its length:
+
+$$ U(P) ∝ Σ_(paths S→P) (slowly varying factor) × e^(ik₀L[path]),    L = ∫ n ds = cT
+
+The phase k₀L is ω times the travel time T along the path. This is Prologue 2's rule with its stopwatch made explicit: every path contributes an arrow, the arrow turns at the light's frequency for as long as the light is on the path, and the arrows are added. Here it has been derived from the wave equation, not assumed.
+
+## 5.2 Stationary phase and Fermat's principle
+
+Most paths cancel. Label a family of paths by a parameter x, say the point where a path crosses a boundary, and expand the optical length about a path where dL/dx = 0: L(x) ≈ L₀ + (1/2)L″x². The sum over the family becomes a Fresnel integral, the Gaussian integral of Lesson 2, Section 2.3, with an imaginary exponent:
+
+$$ ∫ dx e^(ik₀L″x²/2) = √(2πi/(k₀L″)) = √(iλ₀/L″)
+
+Only paths with |x| ≲ √(λ₀/L″) contribute coherently; beyond that the phase turns by more than π and neighbouring arrows cancel. Far from a stationary path dL/dx ≠ 0, the phase changes linearly, and the arrows cancel almost completely. When λ₀ is small compared with the scales of the problem, the sum is dominated by paths near those of stationary optical length. That statement is Fermat's principle, δ∫n ds = 0, and it is the whole of geometric optics.
+
+Take A at height a above a boundary in medium n₁ and B at depth b below it in medium n₂, separated along the boundary by D, and let a path cross at distance x from the foot of A. Its optical length is
+
+$$ L(x) = n₁ √(a² + x²) + n₂ √(b² + (D − x)²)
+
+and dL/dx = 0 gives n₁ x/√(a²+x²) = n₂ (D−x)/√(b²+(D−x)²), which is n₁ sin θ₁ = n₂ sin θ₂. The phase-matching argument of Section 2.1 and the stationary path of the sum agree, as they must, since both come from the same wave equation.
+
+## 5.3 Which part of a mirror reflects
+
+Put a source S and a detector P at height a = 0.5 m above a flat mirror, b = 0.5 m on either side of the point O between them, and use λ₀ = 500 nm. A path that bounces at distance x from O has length L(x) = √((x+b)²+a²) + √((x−b)²+a²), stationary at x=0, the equal-angle bounce. Its curvature there is
+
+$$ L″(0) = 2a²/(a²+b²)^(3/2) = 2×0.25/(0.5)^(1.5) = 1.41 m⁻¹
+
+The phase has turned by π, and the arrows begin to cancel, at x = √(λ₀/L″) = √(5×10⁻⁷/1.41) = 0.59 mm. In the plane of the figure, a strip about 1.2 mm wide around O does the reflecting; the rest of the mirror contributes arrows that circle and cancel. They are still there. Scrape away the strips of the far part of the mirror whose arrows point one way, keep those that point the other, and that part reflects light into a direction that is not the equal-angle one. That is a reflection grating, with maxima where d sin θ = mλ₀ for strip spacing d. The track pitch of a CD is 1.6 μm, so green light of 550 nm comes off at sin θ = 0.344, θ ≈ 20° in first order, and white light fans out into the colors seen on its surface.
+
+## 5.4 What the sum does not yet say
+
+Everything so far is classical. U is a field amplitude, |U|² is an intensity, and the sum over paths is a rewriting of Huygens' integral. Nothing in it says that light arrives in pieces, and nothing says what the intensity means when the light is very faint. Experiment decides that.
+
+# 6 Photons
+
+## 6.1 Light comes in lumps
+
+A photomultiplier, an avalanche photodiode or a single pixel of a phone camera in the dark does not register a smooth flow of energy from faint light. It clicks. Each click delivers the energy E = ℏω = hf, the relation Einstein drew from the photoelectric effect in 1905, and the light carries momentum p = ℏk in the direction of travel, E = pc as Lesson 3 requires of a massless particle. With hc = 1240 eV nm, a photon of red light at 633 nm carries 1240/633 = 1.96 eV = 3.14×10⁻¹⁹ J.
+
+### Worked example 7
+
+How many photons per second does a 1 mW helium–neon laser emit at 633 nm, and how many fall on each square meter in full sunlight (1000 W m⁻², take a mean λ of 550 nm)? The laser: 10⁻³/(3.14×10⁻¹⁹) = 3.2×10¹⁵ photons per second. Sunlight: one 550 nm photon carries 2.25 eV = 3.61×10⁻¹⁹ J, so 1000/(3.61×10⁻¹⁹) = 2.8×10²¹ photons per second per square meter. At these numbers the lumps are invisible, which is why Maxwell's smooth field describes everyday light so well (Prologue 7).
+
+## 6.2 Fringes one photon at a time
+
+In 1909 G. I. Taylor photographed the diffraction pattern of a needle with light so feeble that an exposure took months; the fringes were as sharp as with bright light. Modern experiments use sources that emit one photon at a time and check, with two detectors behind a beam splitter, that a single photon never fires both (Grangier, Roger and Aspect, 1986). Sent through an interferometer or a pair of slits, such photons arrive as single dots at random places, and the dots build up the fringe pattern of Section 4.4. Block one slit, or arrange to learn which slit each photon used, and the fringes disappear.
+
+A single photon cannot interfere with a different photon it never meets, so each one must interfere with itself. The only consistent reading is the one Prologue 1 took as its starting point: the classical amplitude U(P), built from the sum over all paths, is a probability amplitude for one photon, and
+
+$$ probability of detection near P ∝ |U(P)|²
+
+with the proportionality fixed by requiring the probabilities to add to one. The intensity of classical optics is the photon rate times ℏω. The Fresnel R = 0.04 is the probability that one photon reflects from glass; each photon is either reflected or transmitted whole, and only the averages are smooth.
+
+## 6.3 Counting and the classical limit
+
+If N photons are detected from a laser beam, the counts fluctuate by about √N, the Poisson spread. The relative fluctuation is 1/√N: 10% for a hundred photons, 0.1% for a million. Classical optics is the limit in which N is so large that this graininess is invisible. The phase of the field and the number of photons cannot both be sharp, which is why a beam with a definite classical phase has an uncertain photon number. Lesson 34 builds such coherent states from the ladder operators a and a†.
+
+## 6.4 From optical path to action
+
+The phase of a path, k₀L = ωT, can be written with the photon's own quantities. In vacuum ωT = kL = pL/ℏ, and in general the phase along a path is (1/ℏ)∫p·dl: momentum times distance, divided by ℏ. Fermat's stationary optical path is the stationary value of this quantity, the abbreviated action ∫p·dq of classical mechanics, whose stationarity at fixed energy (Maupertuis' principle) is a close cousin of Hamilton's principle in Lesson 5. A massive particle has a momentum too, and de Broglie's λ = h/p gives it a wavelength. The step from this lesson to quantum mechanics is to let an electron's amplitude be a sum over its paths with the same kind of phase. Lesson 10 starts from the resulting wave function, and Lesson 80 writes the sum over paths for any system as ∫Dq e^(iS[q]/ℏ), with Fermat's principle replaced by Hamilton's.
+
+## 6.5 What still needs a quantized field
+
+The photon of this section is a rule for detection, not yet a theory. Stimulated emission, in which a photon in a mode makes an excited atom more likely to emit another into the same mode, and which makes the laser possible, needs the number states of a quantized field. So does the zero-point energy of the vacuum, and so does any process in which photons are created or destroyed. Lesson 38 quantizes the electromagnetic field and finds that its excitations are exactly these lumps, with E = ℏω and p = ℏk per quantum.
+
+# 7 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used next |
+| r=(n₁−n₂)/(n₁+n₂), R=r² | Prologue 2's 0.2 arrow: R is the probability per photon, and the arrow rule is the first term of the multiple-reflection series |
+| n from forward scattering by driven electrons | Prologue 5's electron–photon action repeated over many electrons; Lesson 63 treats the vacuum as a weakly polarizable medium, and Lesson 69 turns that into the running coupling |
+| Huygens–Fresnel integral and its 1/(iλ) | A propagator: the amplitude to go from one point to another, composed by integrating over intermediate points, as in Lessons 46 to 48 |
+| Sum over light paths, stationary phase | Lesson 80's path integral ∫Dq e^(iS/ℏ), whose stationary path is the classical one |
+| |U|² as a probability per photon | Lesson 10's Born rule for wave functions |
+| E=ℏω, p=ℏk | Lesson 38's quantized field; the photon four-momentum in every Feynman diagram from Lesson 50 on |
+| Evanescent waves | The classical twin of tunneling, met again in Lesson 86's pair production in a strong field |
+| Dipole scattering ∝ ω⁴ | Bound electrons far below resonance; a free electron scatters with no ω dependence at low frequency, the classical limit of Compton scattering in Lesson 57 |
+
+# 8 Summary
+
+1. In a linear medium Lesson 7's waves travel at c/n with n=√(ε_r μ_r); the frequency is unchanged at a boundary, and driven bound electrons make n rise with frequency across the visible band.
+
+2. Phase matching gives n₁ sin θ₁ = n₂ sin θ₂; beyond sin θ_c = n₂/n₁ reflection is total and an evanescent field remains.
+
+3. At normal incidence r=(n₁−n₂)/(n₁+n₂), so r=−0.2 and R=0.04 for glass, deriving Prologue 2's arrow; r_p vanishes at tan θ_B = n₂/n₁.
+
+4. The Huygens–Fresnel integral U(P)=(1/(iλ))∫U (e^(ikr)/r) cos χ dA has its prefactor fixed by Fresnel zones of radius √(mλz); in the far field it is the Fourier transform of the aperture, with limit sin θ₁=1.22λ/D.
+
+5. Composing the integral gives a sum over all light paths weighted by e^(ik₀L), L=∫n ds; stationary phase picks out Fermat's paths, and the coherent region around them has width √(λ₀/L″).
+
+6. Light is detected in quanta E=ℏω, p=ℏk; single-photon interference makes U a probability amplitude with probability ∝ |U|², and classical optics is the large-N limit.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | **Extension.** Starting from Maxwell's equations with ε₀→ε₀ε_r and no free charge or current, derive the wave equation of Section 1.1 and the relation \|k\|=nω/c. |
+| 2 | **Core.** Light of vacuum wavelength 633 nm enters glass with n=1.52. Find its frequency, its speed and its wavelength in the glass. |
+| 3 | **Core.** A ray in glass (n=1.52) meets a glass–water boundary (n=1.333). Find the critical angle. |
+| 4 | **Core.** For light of λ₀=500 nm in glass (n=1.5) striking a glass–air surface at 45°, find the decay length 1/κ of the evanescent wave. |
+| 5 | **Core.** From 1+r=t and n₁(1−r)=n₂t, derive r and t at normal incidence and verify R+T=1 for any n₁, n₂. |
+| 6 | **Extension.** Show that r_p=0 together with Snell's law implies θ₁+θ₂=90°, and hence tan θ_B=n₂/n₁. |
+| 7 | **Core.** For λ=600 nm and z=2.0 m, find ρ₁ and ρ₁₀, and the number of Fresnel zones in a circular opening of radius 5 mm. |
+| 8 | **Extension.** Show that an opening passing only the first Fresnel zone gives four times the unobstructed intensity on the axis, and that one passing the first two gives nearly zero. |
+| 9 | **Extension.** Find the Fresnel number of a circular aperture of radius 1 mm lit at 500 nm, seen from 2 m and from 200 m. In which case is the Fraunhofer formula of Section 4.3 accurate? |
+| 10 | **Extension.** Starting from the Gaussian integral ∫e^(−ax²/2)dx=√(2π/a) of Lesson 2, continue a to −iα with α>0 and obtain ∫e^(iαx²/2)dx=√(2πi/α). Which branch of the square root is meant? |
+| 11 | **Extension.** Repeat Section 5.3 with a=b=1.0 m and λ₀=500 nm. Find the half-width of the reflecting strip. |
+| 12 | **Core.** A CD (track pitch 1.6 μm) is lit at normal incidence. Find the first-order angles for 450 nm and 650 nm light. |
+| 13 | **Core.** A green laser pointer emits 1 mW at 532 nm. Find the photon energy in eV and the photon rate. |
+| 14 | **Core.** A single-photon two-slit experiment records photons into bins across one fringe. How many photons per bin are needed for a 1% statistical uncertainty in each bin's count? |
+| 15 | **Challenge.** Sum the multiple reflections inside a slab with surface coefficients −r and +r and round-trip phase δ, and show that the reflected fraction is R=F sin²(δ/2)/(1+F sin²(δ/2)) with F=4r²/(1−r²)². Find its maximum for r=0.2. |
+| 16 | **Extension.** Explain, in terms of Prologue 2's arrows and Section 6.2, why a film much thinner than the wavelength reflects almost no photons. |
+
+# Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
+
+**1.** In the medium, ∇·E=0, ∇·B=0, ∇×E=−∂B/∂t and ∇×B=μ₀ε₀ε_r ∂E/∂t. Taking the curl of the third, ∇×(∇×E)=∇(∇·E)−∇²E=−∇²E=−∂(∇×B)/∂t=−(ε_r/c²)∂²E/∂t², so ∇²E−(n²/c²)∂²E/∂t²=0 with n²=ε_r. A plane wave e^(i(k·x−ωt)) gives −k²+n²ω²/c²=0, so |k|=nω/c.
+
+**2.** f=c/λ₀=2.998×10⁸/(633×10⁻⁹)=4.74×10¹⁴ Hz; v=c/n=1.97×10⁸ m/s; λ=633/1.52=416 nm.
+
+**3.** sin θ_c=1.333/1.52=0.877, θ_c=61.3°.
+
+**4.** κ=(2π/λ₀)√(n₁²sin²θ−1)=(2π/500 nm)√(2.25×0.5−1)=(2π/500 nm)×0.354=4.44×10⁻³ nm⁻¹, so 1/κ≈225 nm, less than half a wavelength.
+
+**5.** Adding n₂ times the first equation to the second: n₁−n₁r=n₂+n₂r, so r=(n₁−n₂)/(n₁+n₂) and t=1+r=2n₁/(n₁+n₂). Then R+T=[(n₁−n₂)²+4n₁n₂]/(n₁+n₂)²=1.
+
+**6.** r_p=0 means n₂cos θ₁=n₁cos θ₂. Multiplying by n₁sin θ₁=n₂sin θ₂ gives sin θ₁cos θ₁=sin θ₂cos θ₂, so sin 2θ₁=sin 2θ₂; since θ₁≠θ₂ for n₁≠n₂, 2θ₁=180°−2θ₂ and θ₁+θ₂=90°. Then sin θ₂=cos θ₁, and Snell's law gives tan θ₁=n₂/n₁.
+
+**7.** ρ₁=√(600×10⁻⁹×2.0)=√(1.2×10⁻⁶)=1.10 mm; ρ₁₀=√10×1.10=3.46 mm. The number of zones is ρ²/(λz)=(5×10⁻³)²/(1.2×10⁻⁶)=20.8, about 21.
+
+**8.** By Section 4.2 the first zone alone gives (1/(iλ))×2iλe^(ikz)U₀=2U₀e^(ikz), twice the unobstructed amplitude, so the intensity is 4|U₀|². The second zone has nearly the same magnitude and the opposite sign, so two zones give nearly zero.
+
+**9.** N_F=a²/(λz)=(10⁻³)²/(500×10⁻⁹×2)=1.0 at 2 m, and 0.01 at 200 m. The Fraunhofer formula needs N_F≪1, so it holds at 200 m; at 2 m the pattern is a Fresnel (near-field) pattern.
+
+**10.** The Gaussian result holds for complex a with Re a>0 and continues to Re a=0. With a=−iα, √(2π/a)=√(2π/(−iα))=√(2πi/α). The branch is the one with positive real part, √i=e^(iπ/4), reached by approaching the imaginary axis from Re a>0; the integral converges conditionally because the integrand oscillates ever faster.
+
+**11.** L″=2a²/(a²+b²)^(3/2)=2/(2)^(1.5)=0.707 m⁻¹, and x=√(λ₀/L″)=√(5×10⁻⁷/0.707)=8.4×10⁻⁴ m, a half-width of 0.84 mm.
+
+**12.** sin θ=λ/d: 450/1600=0.281, θ=16.3°; 650/1600=0.406, θ=24.0°. Red is diffracted further than blue, the reverse of a prism.
+
+**13.** E=1240/532=2.33 eV=3.73×10⁻¹⁹ J; rate=10⁻³/(3.73×10⁻¹⁹)=2.7×10¹⁵ photons per second.
+
+**14.** The relative uncertainty is 1/√N=0.01, so N=10⁴ photons per bin.
+
+**15.** The reflected amplitude is −r+(1−r²)r e^(iδ)[1+r²e^(iδ)+r⁴e^(2iδ)+⋯]=−r+(1−r²)r e^(iδ)/(1−r²e^(iδ))=−r(1−e^(iδ))/(1−r²e^(iδ)). Its squared magnitude is r²·2(1−cos δ)/(1−2r²cos δ+r⁴)=4r²sin²(δ/2)/[(1−r²)²+4r²sin²(δ/2)], which is F sin²(δ/2)/(1+F sin²(δ/2)). The maximum, at sin²(δ/2)=1, is F/(1+F)=4r²/(1+r²)²=0.148 for r=0.2.
+
+**16.** The front-surface arrow has a half-turn and the back-surface arrow does not. When the film is so thin that the extra path adds almost no rotation, the two arrows of nearly equal length point in opposite directions and cancel. The amplitude for one photon to reflect is nearly zero, so the probability is nearly zero for every color, and only the averages over many photons look like a smooth dark film.
+
+# Mastery check
+
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

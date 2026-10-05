@@ -1,0 +1,31 @@
+## 1450 to the Late 1800s: Machines and Manifestos — Renaissance, Enlightenment, and Industry
+
+Before the method came the mood. Beginning in fourteenth-century Italy and spreading north, a revival of interest in the classical world, the Renaissance, put painters, engineers, and scholars in the same rooms and, eventually, on the same pages. Leonardo da Vinci, who painted, dissected, and filled notebooks with flying machines that would not fly for four centuries, impressed the dolphins enormously, though they note that he finished remarkably little of what he started.
+
+Around 1450, in the German city of Mainz, Johannes Gutenberg's press with movable metal type made books cheap enough that ideas could begin to travel faster than the authorities who disliked them. Movable type had been invented in China and Korea centuries earlier; Gutenberg's version, built around an alphabet of a few dozen letters rather than thousands of characters, was the one that scaled. By 1500, by common estimates, more than ten million volumes had been printed in Europe, and within a generation the press was carrying Martin Luther's objections to the Church across the continent faster than the Church could answer them.
+
+In the century and a half after Copernicus proposed, in 1543, that the Earth orbited the sun, not the other way around, a working method had crystallized out of arguments like his: test a claim against observation and evidence, not against who holds the authority to state it. Galileo, Kepler, and finally Isaac Newton, whose 1687 laws of motion and gravitation unified the falling apple and the orbiting moon under one set of equations, gave the method its proof of concept.
+
+Over the following two centuries the method swallowed most of nature: electricity, chemistry, and, in 1859, biology, when Charles Darwin published On the Origin of Species and told humans, in print and at length, what the dolphins had been privately assuming since the Prologue: that they were apes. Reception among humans was mixed. Dolphin scholarship approved of the whole period without reservation, and would like the record to show that it does not say that often.
+
+The Enlightenment took that method and pointed it at government itself. If nature ran on discoverable, testable laws instead of divine whim, philosophers including Locke, Rousseau, and Voltaire argued, perhaps legitimate government did too — resting on the consent of the governed, not a monarch's claimed mandate from heaven.
+
+Those arguments left the page. The American colonies declared independence from Britain in 1776 on language drawn almost directly from Locke; the French Revolution, beginning in 1789, went considerably further and faster, ending not just a king's rule but, for a time, the king himself, at the guillotine in 1793, and unleashing a period of revolutionary terror before settling, after considerable further upheaval, into a very different Europe than the one that started the century.
+
+The 1789 Declaration of the Rights of Man and of the Citizen proclaimed those rights universal in its title and meant, on close reading, men. Olympe de Gouges published a parallel Declaration of the Rights of Woman in 1791, pointing out the omission in the driest possible terms; the revolutionary tribunal had her guillotined in 1793, officially for her political pamphlets, and dolphin scholarship notes only that a government inventing universal rights from first principles found the principle easier to state than to extend.
+
+Industry arrived on a separate but overlapping timeline. Steam power, made practical by Thomas Newcomen's pumping engine of 1712 and efficient by James Watt's improved engine, patented in 1769, uncoupled work from muscle, wind, and water for the first time in human history, and by the early 1800s it was running textile mills, and by mid-century, railroads. Output per worker rose by multiples that no previous technology, including the plow and the domesticated ox, had ever delivered.
+
+The ratchet found an engine. For a million years the stored know-how of the species had been multiplied by muscle, its own or an animal's. Coal multiplied it by sunlight buried three hundred million years earlier. Wisdom had no equivalent fuel. Factory laws, public sanitation, and limits on child labor all came eventually, but each had to be argued for, one parliament and one generation at a time, after the damage was done.
+
+The other side of the ledger was immediate, and dolphin historians set it beside the productivity gains, not tucked in afterward: children as young as five or six worked textile mill floors on twelve-hour shifts; new industrial cities like Manchester grew so fast that sanitation and housing never caught up, and cholera outbreaks followed accordingly.
+
+*Professor Click-Click-Whoosh, in the margin beside Manchester: “Also raining.”*
+
+Forests vanished into furnaces, coal smoke turned industrial skies the color of old newspaper, and factory waste began its long journey to the sea. As late as December 1952, London suffered five days of coal smoke so thick that about four thousand people died within days, and by later estimates as many as twelve thousand over the following months, a rare occasion on which British weather was not entirely the weather's fault.
+
+Nationalism, an idea barely a century old in its modern form, hardened through the late 1800s into competitive alliances between the newly industrial and imperial powers of Europe — Germany (whose own rapid unification in 1871 is a later chapter's starting point), France, Britain, Austria-Hungary, and Russia, each arming and allying against the others in a system explicitly built, on paper, to prevent exactly the war it produced.
+
+**Dolphin verdict:**
+
+*Reason, applied to nature, produced science. Reason, applied to government, produced revolutions. Reason, applied to labor, produced an industrial output that could arm a continent faster than any war before it needed weapons found or forged. Within a little over two centuries of Newton's laws, the same continent that produced them had assembled an alliance system, an arms industry, and a railway timetable that made a general war very nearly automatic. The tools got better. This chapter is the first sign the wisdom to match them had not kept pace.*

@@ -235,3 +235,115 @@ Front matter: the Barrow line now reads “a clean line between a measurement an
 - `export\cover_typographic.jpg` (light cone) moved to `D:\bak\2026-10-01 Look First Book 1 cover\` as `cover_typographic_v3_lightcone.jpg`. Its script is there as `make_cover_v3_lightcone.py.bak`.
 - `Figures\make_cover.py` is the clock-ring script again (from `bak\Figures\make_cover_v2_clockring.py.bak`). It now writes `export\cover_typographic_v2_clockring.jpg`.
 - References updated in `export\KINDLE_BUILD.md`, `export\assemble_export.py` (stamp line), `export\WORD_COUNT.txt` and `../notes/HANDOVER.md`. The docx does not embed a cover, so it was not rebuilt.
+
+## Review revision, 3 Oct 2026
+
+Two reader reviews (8.6/10, then 8.7/10 with pacing 7.8) asked for source transparency, steelmen, a compression pass, and verified claims. Done in the masters (`00_Front_Matter.md` to `11_Appendix.md`) plus a new `12_Notes_and_Sources.md`. Backup of the pre-revision folder: `D:\bak\2026-10-03 universe revision\` (SHA256 manifest inside).
+
+- **Thesis, verbatim twice.** The canonical thesis is bold in the Prologue and again in Chapter 45 before the last paragraph.
+- **Epistemic map and reading paths.** New front-matter sections “An Epistemic Map” (what is measured / inferred / interpreted / speculated, tied to Hot/Warm/Cold) and “Four Reading Paths”.
+- **Physics vs philosophy boxes** (Ch 6, 15, 17, 18, 35, 39, 40, 41, 44) and **dated status boxes** marked “as of October 2026” (Hubble tension Ch 8; dark matter Ch 17; dark energy Ch 18; *w* Ch 43; A18, A43 in the appendix).
+- **Steelmen** for presentism, growing/evolving block, Copenhagen, QBism, Bohm, collapse models, consciousness-collapse, Deutsch CTCs, strong anthropic reasoning, multiverse, uploading.
+- **Compression pass** (no rewrite): Chapters 1–6 −17%, Chapters 1–45 −13%. Repeated second and third metaphors cut; kitchen/loaf/invoice/airlock/radio motifs trimmed.
+- **Notes.** 90 numbered endnotes, every one with a checked DOI, arXiv, SEP, NASA, BIPM or PDG link (checked 3 Oct 2026), and a bibliography by chapter. In the markdown the notes are `[^n]`; the Word builder links each reference to its note and each note back to its first reference.
+- **Seven spacetime diagrams** (SD1–SD7) with alt text; see `Figures\README.md`.
+- **Fact fixes.** Einstein’s popular book 1916; SI metre; Jupiter light time 33–54 min; Voyager 1 one light-day on 18 Nov 2026 (NASA); Mars light time 3–22 min everywhere; muon about 660 m; Gravity Probe A 1976; GPS about 11 km/day; Andromeda 2.5 million light-years; age 13.79 Gyr; CMB 2.725 K; Hawking temperature about 60 nK; Past Hypothesis named by David Albert; αβγ paper with Bethe as middle author; Higgs-vacuum lifetime now cites Andreassen et al. (about 10^161 yr). Removed: the truck-bed clock claim (no source found) and duplicate Hafele–Keating/Pound–Rebka/GPS retellings.
+
+| Section | Before | After | Change |
+|---|---:|---:|---:|
+| Front | 1,314 | 2,070 | +57.5% |
+| Prologue | 357 | 401 | +12.3% |
+| Ch 1 | 1,994 | 1,572 | -21.2% |
+| Ch 2 | 1,925 | 1,529 | -20.6% |
+| Ch 3 | 1,862 | 1,324 | -28.9% |
+| Ch 4 | 1,797 | 1,328 | -26.1% |
+| Ch 5 | 2,115 | 1,655 | -21.7% |
+| Ch 6 | 2,086 | 2,362 | +13.2% |
+| Ch 7 | 2,090 | 1,923 | -8.0% |
+| Ch 8 | 2,063 | 1,950 | -5.5% |
+| Ch 9 | 1,864 | 1,711 | -8.2% |
+| Ch 10 | 1,987 | 1,912 | -3.8% |
+| Ch 11 | 1,992 | 1,663 | -16.5% |
+| Ch 12 | 1,989 | 1,784 | -10.3% |
+| Ch 13 | 2,018 | 1,918 | -5.0% |
+| Ch 14 | 1,884 | 1,723 | -8.5% |
+| Ch 15 | 1,934 | 1,897 | -1.9% |
+| Ch 16 | 1,899 | 1,428 | -24.8% |
+| Ch 17 | 2,144 | 2,235 | +4.2% |
+| Ch 18 | 1,901 | 1,818 | -4.4% |
+| Ch 19 | 1,941 | 1,748 | -9.9% |
+| Ch 20 | 2,058 | 1,823 | -11.4% |
+| Ch 21 | 1,986 | 1,570 | -20.9% |
+| Ch 22 | 1,966 | 1,525 | -22.4% |
+| Ch 23 | 1,927 | 1,820 | -5.6% |
+| Ch 24 | 1,920 | 1,678 | -12.6% |
+| Ch 25 | 1,853 | 1,672 | -9.8% |
+| Ch 26 | 1,844 | 1,598 | -13.3% |
+| Ch 27 | 1,851 | 1,766 | -4.6% |
+| Ch 28 | 1,845 | 1,536 | -16.7% |
+| Ch 29 | 1,807 | 1,702 | -5.8% |
+| Ch 30 | 6,863 | 5,967 | -13.1% |
+| Ch 31 | 2,010 | 1,827 | -9.1% |
+| Ch 32 | 1,956 | 1,799 | -8.0% |
+| Ch 33 | 1,941 | 1,441 | -25.8% |
+| Ch 34 | 3,037 | 2,784 | -8.3% |
+| Ch 35 | 2,166 | 2,214 | +2.2% |
+| Ch 36 | 2,198 | 1,476 | -32.8% |
+| Ch 37 | 2,057 | 1,383 | -32.8% |
+| Ch 38 | 2,158 | 1,876 | -13.1% |
+| Ch 39 | 2,045 | 1,947 | -4.8% |
+| Ch 40 | 2,040 | 2,250 | +10.3% |
+| Ch 41 | 2,172 | 1,865 | -14.1% |
+| Ch 42 | 1,928 | 1,207 | -37.4% |
+| Ch 43 | 1,400 | 1,127 | -19.5% |
+| Ch 44 | 2,277 | 1,786 | -21.6% |
+| Ch 45 | 2,215 | 1,622 | -26.8% |
+| Appendix | 16,343 | 16,463 | +0.7% |
+| Notes and Sources (new) | — | 5,162 | new |
+| **Total without notes** | **113,019** | **101,675** | **-10.0%** |
+
+Still for the author: check Kindle Previewer rendering of the boxes and the map table; re-check every “as of October 2026” box before publishing; decide whether to keep the deeper cuts in Chapters 3–4 and 41–42.
+
+## Pacing round 2, 3 Oct 2026
+
+Lothar’s decisions after the review revision: the Epistemic Map stays in the front matter; the deep cuts stay; the block and Everett stay as this book’s labelled preferences (the Chapter 41 summary now says “this book’s preferred interpretation and not a result”); no Kindle Previewer pass.
+
+- **Chapter 30 split.** “A Second Origin” (Chapter 30, 2,162 words: food, sex, what would count as a second origin, the visitor’s category error, false positives and negatives, the code and LUCA) and the new **Chapter 31, “Forms Earth Never Hired”** (3,072 words: body plans, minds, cities, missing forms, solvents and Titan, varieties, technosignatures). The book now has 46 chapters. Chapters 31–45 became 32–46; every “Chapter N”, “AN”, figure number, reading path, and the front-matter photo credits were renumbered and checked by script (no reference points outside 1–46 or A0–A46).
+- **Appendix.** A30 split into A30 “Second Origins, the Code, and What Life Eats” and A31 “Other Chemistries, Missing Body Plans”; A31–A45 became A32–A46.
+- **Figures.** New Figure 31 (`Figures/figs/fig46.png`, liquid ranges of five solvents at 1 atm, from `draw_spacetime_figs.py`). Printed figure numbers follow chapter numbers; file names did not change (`CHAPTER_FIG` in `build_docx.py`; note in `Figures/CREDITS.md` and `Figures/README.md`).
+- **Chapter 35 (was 34) tightened** where it re-explained Chapters 32–41 (the “where would it come from” list, the relativity/quantum paragraph, the closing). Fact fixes there: the Pentagon released the UAP videos in 2020; the 2021 intelligence assessment; a targeting pod (not a wing camera); Proxima round trip about eight and a half years.
+- **Motif thinning.** “Loaf” kept only where it introduces a distinction (handle on the loaf, local manners, a loop as a shape, the foliation line, the problem of time). Redundant “woman in the greenhouse” callbacks now use Mara’s name. Physics fix in Chapter 36: Mara can *hear* twenty minutes ago; she cannot radio it.
+- **Other fixes.** Dale Russell’s 1982 dinosauroid was tailless; theropods ran for more than 150 million years; Movile Cave wording; Titan surface 93.65 K and 1.467 bar (Huygens, new note); αβγ paper (new note). Notes now 92.
+
+| Chapter | Before (round 1) | After | Change |
+|---|---:|---:|---:|
+| Ch 30 → 30 + 31 | 5,967 | 5,234 | -12.3% |
+| Ch 25 | 1,672 | 1,673 | +0.1% |
+| Ch 26 | 1,598 | 1,590 | -0.5% |
+| Ch 27 | 1,766 | 1,754 | -0.7% |
+| Ch 28 | 1,536 | 1,526 | -0.7% |
+| Ch 29 | 1,702 | 1,701 | -0.1% |
+| Ch 31 → 32 | 1,827 | 1,827 | +0.0% |
+| Ch 32 → 33 | 1,799 | 1,799 | +0.0% |
+| Ch 33 → 34 | 1,441 | 1,428 | -0.9% |
+| Ch 34 → 35 | 2,784 | 2,228 | -20.0% |
+| Ch 35 → 36 | 2,214 | 2,149 | -2.9% |
+| Ch 36 → 37 | 1,476 | 1,462 | -0.9% |
+| Ch 37 → 38 | 1,383 | 1,383 | +0.0% |
+| Ch 38 → 39 | 1,876 | 1,876 | +0.0% |
+| Ch 39 → 40 | 1,947 | 1,947 | +0.0% |
+| Ch 40 → 41 | 2,250 | 2,247 | -0.1% |
+| Ch 41 → 42 | 1,865 | 1,865 | +0.0% |
+| Ch 42 → 43 | 1,207 | 1,206 | -0.1% |
+| Ch 43 → 44 | 1,127 | 1,127 | +0.0% |
+| Ch 44 → 45 | 1,786 | 1,781 | -0.3% |
+| Ch 45 → 46 | 1,622 | 1,619 | -0.2% |
+| **Chapters total** | **82,741** | **81,318** | **-1.7%** |
+
+| Motif | Before (round 1) | After |
+|---|---:|---:|
+| loaf | 162 | 108 |
+| greenhouse | 63 | 45 |
+| radio | 43 | 37 |
+| basil | 20 | 17 |
+| drawers | 34 | 33 |

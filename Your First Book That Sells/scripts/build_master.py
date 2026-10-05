@@ -19,8 +19,8 @@ CHAPTERS = sorted((ROOT / "chapters").glob("0*.md"))
 FIGURES = ROOT / "figures"
 OUTPUT = ROOT / "Your First Book That Sells.docx"
 TITLE = "Your First Book That Sells"
-SUBTITLE = "How to Publish and Make Good Money on Kindle: Real Royalties, Honest Reviews, and a Catalog That Pays"
-AUTHOR = "Lothar J. Musiol"
+SUBTITLE = "How to Publish and Know What Every Sale Pays You on Kindle: Real Royalties, Honest Reviews, and a Catalog That Pays"
+AUTHOR = "Kevin Drew Peters"
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.*)$")
 IMAGE_RE = re.compile(r"^!\[([^\]]*)\]\(([^)]+\.(?:png|jpg|jpeg))\)$", re.I)
@@ -55,26 +55,96 @@ def add_link(paragraph, text, url=None, anchor=None):
     h.append(r); paragraph._p.append(h)
 
 
+AUTO_RE = re.compile(
+    r"(https?://[^\s)]+[^\s).,;])"
+    r"|\b(Chapters?)\s+(\d+(?:(?:,\s*and\s+|,\s*|\s+and\s+)\d+)*)"
+    r"|\b(Appendix)\s+([A-D])\b"
+    r"|\[(\d{1,2})\](?!\()"
+)
+LINKS = {"on": True}
+
+
+def styled_run(paragraph, text, bold=False, italic=False):
+    r = paragraph.add_run(text)
+    if bold:
+        r.bold = True
+    if italic:
+        r.italic = True
+
+
+def link_run(paragraph, text, url=None, anchor=None, bold=False, italic=False):
+    add_link(paragraph, text, url=url, anchor=anchor)
+    r = paragraph._p[-1][-1]
+    rpr = r.find(qn("w:rPr"))
+    if bold:
+        rpr.append(OxmlElement("w:b"))
+    if italic:
+        rpr.append(OxmlElement("w:i"))
+
+
+def auto(paragraph, text, bold=False, italic=False):
+    """Plain text with automatic links: URLs, Chapter N, Appendix X, [n]."""
+    if not LINKS["on"]:
+        styled_run(paragraph, text, bold, italic); return
+    pos = 0
+    for m in AUTO_RE.finditer(text):
+        if m.start() > pos:
+            styled_run(paragraph, text[pos:m.start()], bold, italic)
+        if m.group(1) and "YOURASIN" in m.group(1):
+            styled_run(paragraph, m.group(1), bold, italic)
+        elif m.group(1):
+            link_run(paragraph, m.group(1), url=m.group(1), bold=bold, italic=italic)
+        elif m.group(2):
+            nums = m.group(3)
+            parts = re.split(r"(\d+)", nums)
+            first = True
+            for part in parts:
+                if not part:
+                    continue
+                if part.isdigit():
+                    label = (m.group(2) + " " + part) if first else part
+                    link_run(paragraph, label, anchor="ch_" + part, bold=bold, italic=italic)
+                    first = False
+                else:
+                    styled_run(paragraph, part, bold, italic)
+        elif m.group(4):
+            link_run(paragraph, m.group(0), anchor="app_" + m.group(5), bold=bold, italic=italic)
+        else:
+            link_run(paragraph, m.group(0), anchor="note_" + m.group(6), bold=bold, italic=italic)
+        pos = m.end()
+    if pos < len(text):
+        styled_run(paragraph, text[pos:], bold, italic)
+
+
 def inline(paragraph, text):
     pos = 0
     for m in INLINE_RE.finditer(text):
         if m.start() > pos:
-            paragraph.add_run(text[pos:m.start()])
+            auto(paragraph, text[pos:m.start()])
         tok = m.group(0)
         lm = LINK_RE.match(tok)
         if lm:
             add_link(paragraph, lm.group(1), url=lm.group(2))
         elif tok.startswith("***"):
-            r = paragraph.add_run(tok[3:-3]); r.bold = True; r.italic = True
+            auto(paragraph, tok[3:-3], True, True)
         elif tok.startswith("**"):
-            paragraph.add_run(tok[2:-2]).bold = True
+            auto(paragraph, tok[2:-2], True, False)
         else:
-            paragraph.add_run(tok[1:-1]).italic = True
+            auto(paragraph, tok[1:-1], False, True)
         pos = m.end()
     if pos < len(text):
-        paragraph.add_run(text[pos:])
-    # bare URLs become links
+        auto(paragraph, text[pos:])
     return paragraph
+
+
+def anchor_for(text):
+    m = re.match(r"Chapter (\d+):", text)
+    if m:
+        return "ch_" + m.group(1)
+    m = re.match(r"Appendix ([A-D])\b", text)
+    if m:
+        return "app_" + m.group(1)
+    return slug(text)
 
 
 BOOKMARK_ID = [1]
@@ -127,7 +197,7 @@ def main():
     doc.add_paragraph(SUBTITLE, "Subtitle").alignment = WD_ALIGN_PARAGRAPH.CENTER
     p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     r = p.add_run(AUTHOR); r.bold = True; r.font.size = Pt(16)
-    p = doc.add_paragraph("Updated 1 October 2026"); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p = doc.add_paragraph("Updated 3 October 2026"); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p.add_run().add_break(WD_BREAK.PAGE)
     # skip title block lines in the md (up to the copyright line)
     i = next(k for k, l in enumerate(lines) if l.startswith("Copyright"))
@@ -136,10 +206,11 @@ def main():
     toc = []
     for l in lines[i:]:
         m = HEADING_RE.match(l.strip())
-        if m and (len(m.group(1)) == 1 or m.group(2).startswith("Chapter ")):
+        if m and len(m.group(1)) <= 2:
             toc.append((len(m.group(1)), m.group(2)))
 
     toc_done = False
+    in_notes = False
     n = len(lines)
     while i < n:
         s = lines[i].strip()
@@ -156,11 +227,14 @@ def main():
                     cp.paragraph_format.space_after = Pt(2)
                     if lv == 2:
                         cp.paragraph_format.left_indent = Inches(0.3)
-                    add_link(cp, t, anchor=slug(t))
+                    add_link(cp, t, anchor=anchor_for(t))
             h = doc.add_heading(level=min(level, 5))
+            LINKS["on"] = False
             inline(h, text)
-            if level == 1 or text.startswith("Chapter "):
-                bookmark(h, slug(text))
+            LINKS["on"] = True
+            in_notes = (level == 1 and text == "Notes") or (in_notes and level > 1)
+            if level <= 2:
+                bookmark(h, anchor_for(text))
             i += 1; continue
         if s.startswith("|"):
             rows = []
@@ -200,12 +274,21 @@ def main():
             inline(p, s.lstrip(">").strip()); i += 1; continue
         if re.match(r"^https?://\S+$", s):
             p = doc.add_paragraph(); add_link(p, s, url=s); i += 1; continue
+        nm2 = re.match(r"^\[(\d{1,2})\]\s+(.*)$", s)
+        if in_notes and nm2:
+            p = doc.add_paragraph(); p.add_run("[" + nm2.group(1) + "] ")
+            bookmark(p, "note_" + nm2.group(1)); inline(p, nm2.group(2)); i += 1; continue
         inline(doc.add_paragraph(), s)
         i += 1
 
     cp = doc.core_properties
     cp.title, cp.subject, cp.author, cp.last_modified_by = TITLE, SUBTITLE, AUTHOR, AUTHOR
     doc.save(str(OUTPUT))
+    body = doc.element.body
+    names = {b.get(qn("w:name")) for b in body.iter(qn("w:bookmarkStart"))}
+    targets = {h.get(qn("w:anchor")) for h in body.iter(qn("w:hyperlink")) if h.get(qn("w:anchor"))}
+    missing = sorted(targets - names)
+    print("internal links:", len(targets), "missing anchors:", missing)
     words = sum(len(p.text.split()) for p in doc.paragraphs)
     print(f"Wrote {OUTPUT.name}: {OUTPUT.stat().st_size:,} bytes, about {words:,} words")
 

@@ -1,167 +1,249 @@
 # A Closing Word
 
-Nothing in this book is complicated on its own. Royalty math is arithmetic. Keyword slots are a form field. A launch is a calendar with the same events moved closer together. What makes self-publishing hard isn’t any individual step — it’s that all thirty-two chapters’ worth of steps land on one person, and it’s tempting to skip the unglamorous ones (a real editing pass, an honest category choice, the tax interview) in favor of the exciting one (hitting publish).
+Nothing in this book is complicated on its own. Royalty maths is arithmetic. Keyword slots are a form field. A launch is a calendar with the same events moved closer together. What makes self-publishing hard is that every step lands on one person, and it is tempting to skip the unglamorous ones (a real editing pass, an honest category, the tax interview) in favour of the exciting one: pressing Publish.
 
-The authors who make good money at this aren’t the ones who found a secret Amazon doesn’t want you to know. They’re the ones who did the plain, checkable, occasionally tedious work in every chapter of this book, on purpose, in order, and then did it again for the next book — because by the second time, most of it was already fixed cost, paid off. That’s the whole secret, and it was never actually a secret.
+This book cannot promise you money, and it has tried not to. What it can promise is that every number in it can be checked: the platform rules against the dated notes, the worked examples with a calculator, and your own results against your own money sheet.
 
-If you remember one thing from both halves of this book, make it the keep test from Part I: before you spend money or a week, write what one sale leaves you, who the book is for and who it is not for, and the one change you will make and the day you will look. Every chapter after that is the same three lines, worked out in more detail. The checklist, the royalty reference, and the official sources follow, for the day you sit down to publish. Go write something worth finding.
+If you remember one thing, make it the keep test from the start of Part I. Before you spend money or a week, write what one sale leaves you, who the book is for and who it is not for, and the one change you will make and the day you will look. Every chapter after that is the same three lines worked out in more detail. The checklist, the royalty reference, the thirty-two ideas, and the notes follow, for the day you sit down to publish. Go write something worth finding.
 
 # Appendix A — The One-Page Launch Checklist
 
-- [ ] Manuscript
+### Manuscript
 
-- [ ] Developmental, line, copy, and proofread passes complete (Chapter 19)
-
+- [ ] Developmental, line, copy, and proofreading passes complete (Chapter 20)
 - [ ] At least one pass done by someone other than you
-
 - [ ] Every number and cross-reference checked
 
-- [ ] Format
+### Format
 
-- [ ] Ebook: real Heading 1/2 styles used throughout; no page-numbered TOC; no index (Chapter 20)
-
-- [ ] Print: page numbers, running headers, correct trim size and margins; spine width from KDP’s calculator, not hand-calculated (Chapter 20)
-
-- [ ] Checked in KDP’s online previewer on more than one device size
-
+- [ ] Ebook: real heading styles throughout, a linked table of contents, no page numbers or index (Chapter 21)
+- [ ] Print: page numbers, running heads, correct trim and margins; spine and cover size from KDP’s templates (Chapter 21)
+- [ ] Checked in KDP’s previewer on more than one device size
 - [ ] Physical proof ordered and read, for any print edition
 
-- [ ] Cover
+### Cover
 
-- [ ] Passes the thumbnail test at actual small size (Chapter 21)
-
-- [ ] Matches genre/category conventions on purpose, not by accident
-
+- [ ] Passes the thumbnail test at real size (Chapter 5)
+- [ ] Follows the shelf’s conventions on purpose (Chapter 22)
 - [ ] Title readable, one clear focal point
 
-- [ ] Metadata
+### Metadata
 
-- [ ] All seven backend keyword slots used, as full phrases, none repeating title/subtitle words (Chapter 22)
+- [ ] Seven keyword slots used as reader phrases, with no program names, no title words, and nothing misleading (Chapter 23)
+- [ ] Three accurate categories chosen (Chapter 23)
+- [ ] Description with no review quotes, review requests, prices, time-limited claims, or links (Chapter 23)
+- [ ] Price set on purpose inside, or knowingly outside, the 70 percent band (Chapters 3 and 24)
 
-- [ ] Most specific honest category chosen in all three slots — chosen with care (Chapter 22)
+### Compliance
 
-- [ ] Price set deliberately inside (or intentionally outside) the 70% band, not by default (Chapter 23)
+- [ ] Tax interview completed and treaty claimed if it applies (Chapter 27)
+- [ ] AI-content question answered truthfully (Chapter 33)
+- [ ] KDP Select enrolment, and its renewal date, decided on purpose (Chapter 28)
 
-- [ ] Compliance
+### Launch
 
-- [ ] Tax interview (W-9 / W-8BEN / W-8BEN-E) completed and correct (Chapter 26)
-
-- [ ] AI-content disclosure answered honestly, if applicable (Chapter 19; Chapter 32 has the full disclosure rule and the trap to avoid)
-
-- [ ] KDP Select enrollment decided on purpose, not left on autopilot (Chapter 27)
-
-- [ ] Launch
-
-- [ ] ARC team recruited, copies out with enough lead time to finish reading
-
-- [ ] Reviews and personal-network purchases coordinated to land at/near launch, not trickled (Chapter 24)
-
-- [ ] Ad campaign (auto, small budget) ready to start on launch day, if using one (Chapter 25)
+- [ ] Advance readers recruited and files sent two to three weeks ahead (Chapters 7, 11, and 31)
+- [ ] Every request for a review says it is optional and asks for an honest one (Chapter 6)
+- [ ] If running ads: keep, conversion assumption, cap, and stop date written first (Chapters 9 and 26)
 
 # Appendix B — Royalty Quick Reference
 
-- [ ] Ebook
+Platform rules on Amazon.com, checked 3 October 2026. Check the live pages before you act [3] [4] [7] [13] [19].
 
-- [ ] 70% royalty band: list price $2.99–$12.99 (US), with a delivery fee (~$0.15 per MB of file size) taken off the price before the 70% applies — the top of the band expanded from $9.99 in July 2026; existing titles priced $10–$12.99 must be switched to the new band by hand in Rights & Pricing
+| Item | Rule |
+|---|---|
+| Ebook, 70% option | List price $2.99–$12.99 and at least 20% below the print list price. Royalty = 0.70 × (price − VAT − delivery). Delivery $0.15 per MB on Amazon.com. |
+| Ebook, 35% option | Royalty = 0.35 × (price − VAT), no delivery charge. Minimum price $0.99 under 3 MB, $1.99 for 3–10 MB, $2.99 for 10 MB and over; maximum $200. |
+| Ebook, always 35% | Public-domain works; a sale price-matched below the 70% band. |
+| Ebook, 70% only in Select | Sales in Brazil, Japan, Mexico, and India. |
+| Kindle Unlimited | Share of a monthly fund by KENP pages read for the first time, up to 3,000 pages per title per customer. No fixed rate; July 2026 fund $67.6 million [10]. |
+| Paperback, Amazon | 60% of list price at $9.99 and above, 50% below, minus printing cost. |
+| Paperback, Expanded Distribution | 40% of list price, minus printing cost. |
+| Hardcover, Amazon | 60% at $9.99 and above, 50% below, minus printing cost. |
+| Hardcover, Expanded Distribution | Not offered; hardcovers sell only directly through Amazon. |
+| Printing cost | Depends on marketplace, page count, and ink; for hardcover, also trim size. Use KDP’s calculator. |
+| Payment | About 60 days after month end (90 for Expanded Distribution) [20]. |
 
-- [ ] 35% royalty: any price outside that band ($0.99–$200), no delivery fee subtracted
+The two formulas worth remembering:
 
-- [ ] Kindle Unlimited / KOLL: paid per KENPC page read, from a shared monthly fund; rate varies month to month (historically roughly $0.004–$0.005/page) — check your Reports dashboard for the actual current rate
-
-- [ ] Print
-
-- [ ] Paperback (Amazon channel): 60% of list price at $9.99 and up on Amazon.com (50% below), minus printing cost
-
-- [ ] Paperback (expanded distribution): 40% of list price, minus printing cost
-
-- [ ] Hardcover (Amazon channel): 60% of list price, minus printing cost
-
-- [ ] Printing cost depends on page count, trim size, ink (B&W vs. color), and paper choice — always confirm with KDP’s own price calculator before setting a list price
-
-- [ ] The one formula worth memorizing
-
-- [ ] Break-even ACOS ≈ Royalty per copy ÷ Sale price × 100%
+- Break-even cost per click = keep × conversion rate (Chapter 9).
+- Break-even ACOS = keep ÷ price × 100% (Chapter 26).
 
 # Appendix C — ISBNs, Wide Distribution, and Further Reading
 
 ### ISBNs
 
-**KDP does not require you to buy an ISBN, for any format, ever.** A Kindle ebook needs no ISBN at all — it’s identified by its Amazon-assigned ASIN instead. A paperback or hardcover does need an ISBN to exist, but KDP assigns one to you automatically, at no charge, the moment you publish, if you don’t supply your own. Anyone charging you a fee “so you can get an ISBN and publish” is billing you for something KDP already gives away free — the same trap Chapter 28 names directly.
+KDP does not require you to buy an ISBN. A Kindle ebook needs none; Amazon identifies it with an ASIN. A paperback or hardcover needs an ISBN, and KDP can assign one free when you publish. Anyone charging a fee “so you can get an ISBN and publish” is billing you for something KDP gives away (Chapter 29).
 
-The only reason to buy your own ISBN instead is control, not permission. A free KDP ISBN lists KDP as the book’s publisher of record and ties that specific ISBN to Amazon’s own print service. Buying your own — from [Bowker](https://www.myidentifiers.com/identify-protect-your-book/isbn/buy-isbn), the official U.S. ISBN Agency, or your own country’s national ISBN agency elsewhere — costs money, but lists you as the publisher of record and lets you move the same edition to a different print provider later without changing its identifying number. For a book staying on KDP print indefinitely, the free ISBN is a perfectly reasonable choice; buy your own only if you specifically want to be recorded as your own imprint, or expect to need print-provider flexibility later.
+A free KDP ISBN lists the publisher as “Independently Published” and can be used only for KDP print. Buying your own, from [Bowker](https://www.myidentifiers.com/identify-protect-your-book/isbn/buy-isbn) in the United States or your country’s ISBN agency elsewhere, lists you or your imprint as publisher and lets you print the same edition elsewhere. For a book that stays with KDP print, the free ISBN is a reasonable choice.
 
-### Wide distribution tools
+### Wide distribution
 
-For authors choosing to go wide (Chapter 27) rather than enroll in KDP Select, common legitimate routes include distributing directly to individual retailers (Apple Books, Kobo, Barnes & Noble Press) or through an aggregator that handles multiple retailers and library platforms from a single upload — Draft2Digital and PublishDrive are widely used examples. For wider print distribution into bookstores and libraries beyond KDP’s own expanded distribution option, IngramSpark is the most commonly used print-on-demand and distribution service in the indie-publishing space.
+If you go wide (Chapter 28), you can upload to each retailer directly (for example Apple Books, Kobo, and Barnes & Noble Press) or use a distributor that reaches several retailers and library platforms from one upload; Draft2Digital and PublishDrive are widely used examples. IngramSpark is a common choice for wider print distribution to bookshops and libraries.
 
-### Further reading and legitimate resources
+### Further reading
 
-KDP’s own Help pages and KDP University — the single best free, authoritative, continuously updated source for exact current policies, price bands, and thresholds. When any number in this book conflicts with what KDP’s own pages currently say, trust KDP’s pages — this book’s arithmetic will still be correct, but specific figures (delivery fee rates, payment thresholds, category lists) are exactly the kind of detail that changes over time.
+KDP’s own help pages are the authoritative, free, continuously updated source. When a figure in this book disagrees with them, trust the help page; the arithmetic in this book still works with the new figure.
 
-Author communities built around self-publishing craft and business (genre-specific writing organizations, indie-author forums and groups) are a good source of current, lived experience — read them the same way Chapter 28 recommends reading anything: with an eye for whether a claim is documented policy or someone’s unverified theory about “the algorithm.”
+Author communities are a good source of current experience. Read them as Chapter 29 recommends: ask whether a claim is a documented rule or a theory about the algorithm.
 
-A tax professional familiar with royalty or self-employment income, for the specific questions Chapter 26 deliberately declined to answer in general terms.
+For tax questions specific to you, a professional who handles royalty or cross-border income (Chapter 27).
+
+# Appendix D — Thirty-Two Ways a Book Can Pay You
+
+Chapter 8 asks you to pick three of these: one price, one next book, one format or extra. Run each through the same four steps:
+
+1. Write the keep for that product, from Chapter 3 or KDP’s estimate.
+2. Do the smallest version that can teach you something.
+3. Write down the day you will look, two or four weeks out, before you start.
+4. On that day, keep it or stop it, in one sentence on the money sheet. Do not start the next idea until that sentence exists.
+
+Each idea gives the smallest version and the sign to stop. Keeps are the Chapter 3 worked examples (2 MB file, no VAT); your own estimate wins. All are **Recommendations** unless marked otherwise.
+
+### Price
+
+1. **Charge a real ebook price.** Smallest version: change only the price, to one inside the 70 percent band, for four weeks. Stop if the keep on the sheet falls.
+2. **Make book one the introduction.** Smallest version: write both books’ prices on one line (Chapter 24). Stop if book two still has no date.
+3. **Run a short Countdown Deal, then restore the price.** A Select book only, under the rules in Chapter 28 [6]. Smallest version: one deal, with the morning the full price returns written down. Stop if book two is not linked.
+4. **Make book one free only when book two is live.** A free download keeps $0. Smallest version: book two live and linked, then free days [28]. Stop if book two is not live.
+5. **Revisit each price once a year.** Smallest version: the current keep of the oldest book, on the sheet. Stop if you find yourself changing prices every month.
+
+### The next book
+
+6. **Write the next book while this one is warm.** Smallest version: one sentence at the end of book one saying who book two is for. Stop if that sentence describes book one again.
+7. **Use a series page.** Smallest version: two finished books, each linking to the other. Stop if a reader of book one would not want book two next.
+8. **Sell a box set after three books.** Three sales at $3.99 keep about $7.74; a set at $7.99 keeps about $5.38 — less, but only for a reader who would have bought all three anyway. A box set’s real job is the reader who would have bought none of them at full price. Smallest version: three finished files and that sum. Stop if the set’s keep is one you would not accept.
+9. **Open a pre-order you can finish.** Rules in Chapter 25 [14]. Smallest version: a date and a file that is already done. Stop if the file is not done.
+10. **Write one seasonal short.** Smallest version: the season and the date it must be on sale. Stop if that date has passed.
+11. **Publish a second edition for a real reason.** Smallest version: three fixes a past reader would be glad to hear about. Stop if you cannot name three.
+
+### Formats and extras
+
+12. **Add a paperback.** Keep = rate × list price − printing cost (Chapter 17). Smallest version: one price in KDP’s calculator, then a proof. Stop if the keep is below the ebook’s and nobody has asked for paper.
+13. **Add large print.** Smallest version: copy the paperback setup with larger type and rerun the calculator. Stop if the keep falls below the ebook’s.
+14. **Add a hardcover.** Smallest version: one price in the calculator. Stop if the keep is below the ebook’s, or you have not yet held a paperback proof.
+15. **Price a paperback libraries can buy.** **Worked example.** At $14.99 with a hypothetical $4 printing cost, Amazon’s 60 percent keeps about $5 and Expanded Distribution’s 40 percent about $2. Smallest version: one Expanded Distribution price and its keep. Stop if printing cost eats the keep.
+16. **Record audio after the ebook has readers** (Chapter 30). Smallest version: ask readers who finished whether they would listen. Stop if they would not.
+17. **Translate one book that already sells.** Smallest version: one chapter checked by a fluent reader before paying for the rest. Stop if the book has no readers yet.
+18. **Sell a workbook beside the main book.** Smallest version: ten prompts that are not already chapters. Stop if you cannot list ten.
+19. **Sell a one-sitting extra,** such as a field guide or troubleshooting list. Smallest version: one sentence and a price in the 70 percent band. Stop if you cannot say it in one line.
+20. **Sell a template pack from your own site.** Smallest version: the file names and the price. Stop if the book would not stand alone without it.
+21. **Give away a short extra, not the whole book.** Smallest version: the extra outlined on one page. Stop if the paid book’s first two lines are not done.
+
+### Reach
+
+22. **Choose a shelf where you can be seen.** Smallest version: one accurate category and the five books on it (Chapter 23). Stop if those five are not books your reader buys.
+23. **Put the promise in the first two lines** of the description (Chapter 4). Smallest version: show them to one stranger. Stop when that person can say who the book is for.
+24. **Try Kindle Unlimited on purpose** (Chapter 28). Smallest version: read the terms and write the renewal date. Stop at day 90 if page-read money did not replace the sales you gave up.
+25. **Sell the ebook in more than one store** when not in Select. Smallest version: one other store and its royalty page. Stop while you are inside a Select term.
+26. **Open one more Amazon marketplace price.** Smallest version: one country where your reader lives, with its own price and estimate. Stop if you are about to change five countries on one day.
+27. **Write to readers who asked** (Chapter 30). Smallest version: one sentence in the back of the book and one place to join. Stop if you never write to them.
+28. **Offer the book to a group you already know,** such as a club or a class. Smallest version: one letter to one group. Stop if the offer has to promise reviews, grades, or income.
+29. **Teach the chapter once.** Smallest version: a one-hour outline and a fee. Stop if you cannot name ten people who would care.
+30. **Share a bundle or a mention with one other author.** Smallest version: one book you would hand your own reader. Stop if you have not read it, or the other author wants a review swap.
+31. **Spend on ads only after the keep is written down** (Chapter 9). Smallest version: the keep line filled before you open the ads console. Stop if that line is blank.
+32. **Leave the old books up, working.** Smallest version: open each live sample on your phone. Stop leaving a book up when its sample is broken: fix it that week or unpublish it.
+
+Leave these for later: merchandise, paid fan clubs, and large courses with no audience. They add work and rarely add a keep until strangers already want the book.
 
 # Glossary
 
-One line each. The chapter that teaches the word is named.
+One line each, with the chapter that teaches the word.
 
-Advance copy. A free book you send before publication. A review is optional. Chapter 6.
+ACOS. Advertising cost of sale: ad spend divided by ad-attributed sales. Chapter 26.
 
-Backlist. The books you already published and left on sale. Idea 20 in chapter 8.
+Advance copy. A free copy sent before publication; any review stays optional. Chapters 6 and 32.
 
-Countdown. A short, scheduled price cut, up to seven days, for books in KDP Select on Amazon.com and Amazon.co.uk. It keeps the 70 percent rate below $2.99 if the book is on that option. Idea 9 in chapter 8. [6]
+ASIN. Amazon’s identifier for a product, including a Kindle ebook. Appendix C.
 
-Delivery. A per-megabyte charge taken off before the 70 percent cut. Not taken off in the 35 percent band. Chapter 3.
+Backlist. Books you published earlier and left on sale. Appendix D.
 
-Expanded distribution. The wider paperback channel. Its rate is lower than a sale on Amazon’s own store. Idea 22 in chapter 8.
+Countdown Deal. A scheduled, time-limited price cut for KDP Select books on Amazon.com and Amazon.co.uk. Chapter 28.
 
-Keep. What one sale leaves you after the percentage and, when it applies, delivery. Chapter 3.
+Delivery cost. A per-megabyte charge taken off the price before the 70 percent royalty; not charged on the 35 percent option. Chapter 3.
 
-KDP Select. A 90-day enrollment. Page reads may pay you. The ebook stays exclusive to Kindle for the term. Idea 8 in chapter 8; chapter 27 in full. [5]
+Expanded Distribution. KDP’s wider paperback channel to other retailers and libraries, at a lower royalty rate. Chapter 17.
 
-Seventy percent band. On Amazon.com, as checked on 1 October 2026, the usual ebook prices from $2.99 to $12.99 where a 70 percent royalty can apply. The top was $9.99 until 7 July 2026. Chapter 3. [3]
+Keep. What one sale leaves you after Amazon’s share and, where it applies, delivery. Chapter 3.
 
-Thumbnail test. Whether the title can be read when the cover is tiny. Chapter 5.
+KENP. Kindle Edition Normalized Pages, the page count Amazon uses to pay Kindle Unlimited reads. Chapter 17.
 
-# Official sources
+KDP Select. A 90-day, ebook-only exclusive enrolment that adds Kindle Unlimited and promotions. Chapter 28.
 
-These links support the platform rules named above. The thirty-two ideas, the sample months, and the rounded keeps are teaching tools, not Amazon rules. Checked 1 October 2026. Look again before you publish.
+Seventy percent band. On Amazon.com, list prices from $2.99 to $12.99 where the 70 percent royalty can apply. The top was $9.99 until 7 July 2026. Chapter 3.
 
-[1] Amazon KDP Customer Reviews
-https://kdp.amazon.com/en_US/help/topic/G202101910
+Thumbnail test. Whether the title can be read when the cover is shown tiny. Chapter 5.
 
-[2] Amazon Community Guidelines
-https://www.amazon.com/gp/help/customer/display.html?nodeId=GLHXEX85MENUE4XF
+VAT. Value-added tax, charged on ebook sales in some marketplaces outside the United States and subtracted before the royalty percentage is applied. Chapter 3.
 
-[3] Amazon KDP eBook List Price Requirements
-https://kdp.amazon.com/en_US/help/topic/G200634560
+# Notes
 
-[4] Amazon KDP Digital Book Pricing Page
-https://kdp.amazon.com/en_US/help/topic/G200634500
+Every note was checked on 3 October 2026. Platform pages change; look again before you act. Worked examples, field practice, and recommendations in this book are not Amazon rules and are not sourced to these pages.
 
-[5] Amazon KDP Select
-https://kdp.amazon.com/en_US/select
+[1] Amazon KDP Help, “Customer Reviews.” https://kdp.amazon.com/en_US/help/topic/G202101910
 
-[6] Amazon KDP Kindle Countdown Deals
-https://kdp.amazon.com/en_US/help/topic/G201293780
+[2] Amazon, “Community Guidelines.” https://www.amazon.com/gp/help/customer/display.html?nodeId=GLHXEX85MENUE4XF
 
-[7] Amazon KDP Paperback Royalty
-https://kdp.amazon.com/en_US/help/topic/G201834330
+[3] Amazon KDP Help, “eBook List Price Requirements.” https://kdp.amazon.com/en_US/help/topic/G200634560
 
-[8] Amazon KDP Content Guidelines
-https://kdp.amazon.com/en_US/help/topic/G200672390
+[4] Amazon KDP Help, “Digital Book Pricing Page.” https://kdp.amazon.com/en_US/help/topic/G200634500
 
-[9] Amazon KDP Kindle Publishing Guidelines
-https://kdp.amazon.com/en_US/help/topic/GU72M65VRFPH43L6
+[5] Amazon KDP Help, “KDP Select.” https://kdp.amazon.com/en_US/help/topic/G200798990
 
-[10] KDP Select Global Fund and All Stars Bonus Update, July 2026
-https://www.kdpcommunity.com/s/article/KDP-Select-Global-Fund-and-All-Stars-Bonus-Update---July-2026
+[6] Amazon KDP Help, “Kindle Countdown Deals.” https://kdp.amazon.com/en_US/help/topic/G201293780
 
-[11] Amazon KDP Create a Book (title creation limit)
-https://kdp.amazon.com/en_US/help/topic/G202172740
+[7] Amazon KDP Help, “Paperback Royalty.” https://kdp.amazon.com/en_US/help/topic/G201834330
 
-[12] Amazon KDP Digital Rights Management
-https://kdp.amazon.com/en_US/help/topic/GDDXGH9VR22ACM8U
+[8] Amazon KDP Help, “Content Guidelines.” https://kdp.amazon.com/en_US/help/topic/G200672390
+
+[9] Amazon KDP Help, “Kindle Publishing Guidelines.” https://kdp.amazon.com/en_US/help/topic/GU72M65VRFPH43L6
+
+[10] KDP Community, “KDP Select Global Fund and All Stars Bonus Update – July 2026.” https://www.kdpcommunity.com/s/article/KDP-Select-Global-Fund-and-All-Stars-Bonus-Update---July-2026
+
+[11] Amazon KDP Help, “Create a Book” (title creation limit). https://kdp.amazon.com/en_US/help/topic/G202172740
+
+[12] Amazon KDP Help, “Digital Rights Management (DRM).” https://kdp.amazon.com/en_US/help/topic/GDDXGH9VR22ACM8U
+
+[13] Amazon KDP Help, “Royalties in Kindle Unlimited.” https://kdp.amazon.com/en_US/help/topic/G201541130
+
+[14] Amazon KDP Help, “Pre-Order.” https://kdp.amazon.com/en_US/help/topic/G201499380
+
+[15] Amazon KDP Help, “Categories.” https://kdp.amazon.com/en_US/help/topic/G200652170
+
+[16] Goodreads Blog, “Improving Ratings and Reviews on Goodreads: Updated Guidelines for Pre-Publication Books,” 15 December 2025. https://www.goodreads.com/blog/show/3057-improving-ratings-and-reviews-on-goodreads-updated-guidelines-for-pre-p
+
+[17] Amazon KDP Help, “Metadata Guidelines for Books.” https://kdp.amazon.com/en_US/help/topic/G201097560
+
+[18] Amazon KDP Help, “Keywords.” https://kdp.amazon.com/en_US/help/topic/G201298500
+
+[19] Amazon KDP Help, “Hardcover Royalty.” https://kdp.amazon.com/en_US/help/topic/G77F3WPD3KQLJTFS
+
+[20] Amazon KDP Help, “When Will I Get Paid?” https://kdp.amazon.com/en_US/help/topic/GK2MKZUL6U3SFBPZ
+
+[21] Amazon KDP Help, “Tax Withholding.” https://kdp.amazon.com/en_US/help/topic/G201274690
+
+[22] U.S. Federal Trade Commission, “Consumer Reviews and Testimonials Rule: Questions and Answers.” https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers
+
+[23] Supreme Court of the United States, docket 25-449, *Thaler v. Perlmutter* (certiorari denied 2 March 2026). https://www.supremecourt.gov/docket/docketfiles/html/public/25-449.html
+
+[24] U.S. Copyright Office, *Copyright and Artificial Intelligence, Part 2: Copyrightability*, January 2025. https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf
+
+[25] U.S. Code, Title 17, Chapter 1, § 102 (subject matter of copyright). https://www.copyright.gov/title17/92chap1.html
+
+[26] U.S. Copyright Office, “Fair Use Index.” https://www.copyright.gov/fair-use/
+
+[27] U.S. Copyright Office, Circular 15A, “Duration of Copyright.” https://www.copyright.gov/circs/circ15a.pdf
+
+[28] Amazon KDP Help, “Free Book Promotions.” https://kdp.amazon.com/en_US/help/topic/G201298240
+
+[29] Amazon Help, “Send to Kindle.” https://www.amazon.com/gp/help/customer/display.html?nodeId=G7NECT4B4ZWHQ8WV
+
+[30] Amazon KDP Help, “Write a Book Description.” https://kdp.amazon.com/en_US/help/topic/G201189630
+
+# About the Author
+
+Kevin Drew Peters is a graduate of Munich University of Applied Sciences. He spent many years in the semiconductor industry, mostly in the United States, supporting several start-ups, where a decision was only as good as the measurement behind it and a budget was a hypothesis until the numbers came back.
+
+He brings that habit to publishing. That is why this book shows the arithmetic, labels every claim by kind, dates its sources, and treats every change as a bounded experiment with a cap and a stop date. He does not claim insider knowledge of Amazon’s algorithms, and this book reports no publishing results it cannot show.
 
 Independent guide. Not affiliated with or endorsed by Amazon. Check the live help pages before you act.

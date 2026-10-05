@@ -6,7 +6,7 @@ The first branch is biological. Gene-editing tools, CRISPR chief among them, now
 
 The second branch is artificial, and dolphin historians ask readers to notice its specific shape instead of a generic one. The relevant development is not disembodied software alone; it is artificial intelligence paired deliberately with android bodies — humanoid robots built with hands, because their human designers, correctly, built them to finish the job hands started back in this book's opening chapter.
 
-*“Humans are now building their own replacements,” dolphin historians noted, “for the one piece of anatomy the dolphins were told, at the very start of this book, that they could never grow. There is an irony here specific enough that dolphin scholarship insists on stating it directly instead of leaving it for the reader to notice unassisted.”*
+*“Humans are now building their own replacements,” dolphin historians noted, “for the one piece of anatomy the dolphins were told, at the very start of this book, that they could never grow.”*
 
 *It is, on the available evidence, the first item this species has ever manufactured on purpose specifically to take its own place. Dolphin scholarship wishes it well and notes, purely for the record, that every other tool in this book was also going to be perfectly safe.*
 

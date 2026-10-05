@@ -18,7 +18,9 @@ touching, say so and wait to be asked — don't go do it.
 
 - **Two parallel content tracks exist and must be kept in sync by hand:**
   1. Numbered `.md` chapter files in `chapters/` (`00 - Prologue...md`
-     through `41 - ...md`, plus `Epilogue...md` and `Further Reading...md`,
+     through `44 - ...md` as of 2026-10-05 — the count keeps shifting as
+     chapters get inserted; check `ls chapters/` rather than trust a number
+     written here — plus `Epilogue...md` and `Further Reading...md`,
      moved there from the top level on 2026-09-27 to sit next to their
      `.docx` counterparts) and the concatenated
      `notes/The Dolphins' View of History - Complete Manuscript.md` — the
@@ -58,6 +60,20 @@ touching, say so and wait to be asked — don't go do it.
     carries two sections the build never had ("The rest of the ledger",
     "The outlook, without a trumpet"); Lothar decides whether they go into
     the build or are cut.
+  - 2026-10-04 coverage pass: the chapter `.md` files match the build again, except for the physics chapter's two
+    documented sections. Chapters 21 and 22 are new (Latin America; the Ottoman Empire and the Middle East), so
+    everything after them moved up by two. `notes/Held Back - Sections Written but Not in the Build.md` keeps the
+    text of the sections that had been written for the `.md` track on 2026-10-01 and never ported, including two
+    held for Lothar's decision (the Xi/Winnie-the-Pooh passage and the Greenland purchase-offer passage). Never add
+    a section to a chapter `.md` without adding it to `_generate.js` in the same change, and give every new factual
+    section matching entries in "Notes and Sources" (`chapters/Notes and Sources.md` and the `notes` array in
+    `_generate.js`), each checked against Open Library, Crossref, or the publisher before it goes in.
+  - **No repeated sentences** (Lothar, 2026-10-04): no sentence appears twice anywhere in the book, and a Timeline,
+    Notes, or Further Reading entry may not restate a sentence from its chapter. Near-copies count. After every
+    build, run `node scripts/check_repeats.js`; it reads `chapters/*.docx` and must report nothing. Its `ALLOWED`
+    list holds the only exemptions (the Professor's "in the margin" lead-in, the Society-minutes label, Jefferson's
+    phrase in the American Republic chapter, a Timeline date label shared by two events); add to it only for
+    something that is repeated on purpose.
   - The back-matter appendix "A Timeline — For Humans Who Like Their
     History in Order" is the one exception: it exists only inside
     `_generate.js` (built via the `grade(date, description)` helper,
@@ -66,10 +82,28 @@ touching, say so and wait to be asked — don't go do it.
     then two new eras, "The Near Future" and "The Far Future," extending it
     out to the heat death of the universe — sourced from Wikipedia's
     Timeline of the far future, 3rd millennium, and Anthropocene articles.
-  - The "Half the World, All the Time" chapter (file 41) and the Prologue's ancestor
-    passages (Pakicetus/Ambulocetus/the hippo connection, the primate
-    lineage) are confirmed in sync across both tracks and rebuilt as of
-    2026-09-27; `chapters/*.docx` is current for every chapter including 41.
+  - The "Half the World, All the Time" chapter does NOT exist as a standalone
+    chapter (re-fixed 2026-10-05, after an earlier fix to the same effect did
+    not survive a subsequent restructuring): it used to sit between the
+    thesis-summarizing Long View chapter and the Epilogue, a catch-up chapter
+    whose own text admits it's a catch-up chapter, breaking the book's
+    momentum right before its climax. Its four timelines (population,
+    suffrage, the UDHR, the history of zero/algebra/calculus) are folded
+    into the Long View chapter's body and verdict, in both tracks and
+    `_generate.js`; the Epilogue follows the Long View directly. Do not
+    re-add it as a standalone chapter without re-solving this placement
+    problem first — `scripts/check_repeats.js` will catch the reintroduced
+    duplication if someone does. The Prologue's ancestor passages
+    (Pakicetus/Ambulocetus/the hippo connection, the primate lineage) are
+    unaffected and remain in sync across both tracks.
+- Back matter "Notes and Sources" (2026-10-03) sits between the physics
+    appendix and Further Reading, in `_generate.js` (`const notes`, built with
+    the `note(supports, citation)` helper), in `chapters/Notes and Sources.md`
+    and in the Complete Manuscript `.md`. Every entry was verified (Crossref,
+    Open Library, publisher or official page). Add a source only after
+    verifying it; never invent one. A `minutes(label, text)` helper renders
+    Society minutes (bold label, italic text). Four chapters deliberately end
+    without a verdict (Africa's kingdoms, Ships, Soviet Union, Jewish history).
 - **`notes/00 - Book Plan - The Dolphins' View of History.md`** is the book
   bible: premise, part/chapter arc, running themes (war, greed, and racism
   named plainly wherever they're the real reason something happened; a
@@ -95,4 +129,4 @@ touching, say so and wait to be asked — don't go do it.
   `_africa_rich.md`, `_america_19.md`, `_america_later.md`) are in
   `bak/scratch 2026-10-01/`. `bak/` is gitignored.
 - Build/deps: `node scripts/_generate.js` (only dependency is `docx`;
-  `node_modules/` is already present).
+  `node_modules/` is already present; `scripts/check_repeats.js` also uses `jszip`, which `docx` installs).

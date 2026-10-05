@@ -1,0 +1,231 @@
+TITLE: Electron-Positron Annihilation
+TAGLINE: Two photons from annihilation, a plus sign where Møller scattering had a minus, and a final result of striking simplicity: 2e⁴[t/u+u/t]
+NUM: 56
+NEXT: Lesson 57 turns to Compton scattering itself, the process this lesson's diagrams are the crossed, annihilation-channel partners of, and shows how much of that calculation follows immediately from this one by crossing symmetry.
+
+# How to use this lesson
+
+Lesson 45 first raised electron-positron annihilation into a photon as an example of a process no single vertex could complete on its own. This lesson finishes the job properly: e⁻(p₁)+e⁺(p₂)→γ(k₁)+γ(k₂), a genuine, two-vertex process with an internal electron line connecting the two photon emissions. The calculation reuses almost everything already built, the positron completeness relation from Lesson 22, the photon polarization sum from Lesson 52, and the contraction identity derived in Lesson 55, but combines them in a new configuration, with two diagrams that add with a plus sign rather than Lesson 55's minus, since it is the two photons, not the fermion line, that can be emitted in either order. The final result is remarkably compact. Expect eight to ten hours.
+
+## Learning objectives
+
+- Derive the two Wick contractions for e⁻e⁺→γγ and show they combine with a plus sign, in contrast with Lesson 55's fermionic minus sign.
+
+- Write both amplitudes ℳ_A, ℳ_B explicitly, identifying their internal photon-emission momenta with the Mandelstam-like variables t=(p₁−k₁)² and u=(p₁−k₂)².
+
+- Use Lesson 22's positron completeness relation Σv(p)v̄(p)=p̸−m and Lesson 52's covariant photon polarization sum to reduce |ℳ|² to a sum of traces.
+
+- Apply Lesson 55's contraction identity to reduce the direct-squared trace to 8tu in the massless limit.
+
+- Show by the same method that the interference trace vanishes in the massless limit, and assemble the complete result (1/4)Σ|ℳ|²=2e⁴[t/u+u/t].
+
+- Explain why this process's two diagrams carry a relative plus sign while Lesson 55's carried a minus sign.
+
+- Reproduce the complete calculation, and the final formula, from memory.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| p₁, p₂ | Incoming electron, positron momenta |
+| k₁, k₂ | Outgoing photon momenta, polarizations ε₁, ε₂ |
+| t = (p₁−k₁)², u = (p₁−k₂)² | Internal electron momenta squared for the two diagrams |
+| q_A = p₁−k₁, q_B = p₁−k₂ | Internal electron four-momenta |
+
+BOX: First pass: the result before the derivation
+e⁺e⁻ → γγ has two diagrams with a relative plus sign; at high energy (1/4)Σ|ℳ|² = 2e⁴[t/u + u/t].
+Bosons in the final state add without the Møller minus sign.
+ENDBOX
+
+# 1 The process and its two diagrams
+
+IMG: L56_annihilation.png | 6.0 | Figure 56.1. Electron–positron annihilation into two photons: the t-channel and u-channel diagrams with an internal electron line.
+
+## 1.1 The Wick contraction
+
+Following Lesson 50's method, at second order the interaction term e²[ψ̄γ^αψA_α](x₁)[ψ̄γ^βψA_β](x₂) contracts ψ(x₁) with the incoming electron (u(p₁)e^(−ip₁x₁), Lesson 49, Section 2.1), ψ̄(x₂) with the incoming positron (v̄(p₂)e^(−ip₂x₂), using ψ̄'s d-term per the corrected assignment of Lesson 49, Section 3.2), and A_α(x₁), A_β(x₂) with the two outgoing photons (ε_α(k₁)e^(ik₁x₁), ε_β(k₂)e^(ik₂x₂), Lesson 49, Section 4.2). The remaining fields, ψ̄(x₁) and ψ(x₂), contract into the internal propagator S_F.
+
+## 1.2 A plus sign, not a minus
+
+A second, equally valid contraction exchanges which vertex emits which photon (k₁ from x₂, k₂ from x₁ instead). Unlike Lesson 55's exchange of two identical fermions, this exchange involves the two photon fields A_α(x₁), A_β(x₂), which are bosonic; Lesson 48, Section 2.1, established that no minus sign accompanies reordering bosonic field operators, so this second diagram enters with a plain plus sign.
+
+## 1.3 The two amplitudes
+
+Carrying out the spacetime integrals as in Lesson 50, Section 2, the two vertex delta functions fix the internal momentum of the first diagram to q_A=p₁−k₁ (with q_A²=t) and, for the second, q_B=p₁−k₂ (with q_B²=u):
+
+$$ i ℳ_A = (ie)² , v̄(p₂) γ^β [ i(q̸_A+m)/(q_A²−m²+iε) ] γ^α u(p₁) , ε_α(k₁) ε_β(k₂)
+
+$$ i ℳ_B = (ie)² , v̄(p₂) γ^α [ i(q̸_B+m)/(q_B²−m²+iε) ] γ^β u(p₁) , ε_α(k₁) ε_β(k₂)
+
+$$ ℳ = ℳ_A + ℳ_B
+
+### Worked example 1
+
+State the general principle this lesson's plus sign and Lesson 55's minus sign both illustrate. Whether two diagrams contributing to the same process combine with a plus or a minus sign is fixed entirely by the statistics of whichever particle's role is being exchanged between the two diagrams, bosonic exchange (as here, between the two photons) giving a plus sign and fermionic exchange (as in Lesson 55, between the two final-state electrons) giving a minus sign; the number of diagrams alone never determines the sign.
+
+# 2 Squaring and summing
+
+## 2.1 Spin and polarization sums
+
+Spin-averaging over the initial electron and positron and using the positron completeness relation Σ_sv_s(p)v̄_s(p)=p̸−m (Lesson 22, Section 6.1) alongside the electron's Σu_s(p)ū_s(p)=p̸+m, and summing over final photon polarizations using the covariant replacement Σε_με_ν→−g_μν (Lesson 52, Section 5.2), reduces (1/4)Σ|ℳ|² to a sum of three traces, one each for |ℳ_A|², |ℳ_B|², and the interference term 2Re(ℳ_Aℳ_B^*).
+
+## 2.2 The three traces
+
+$$ T_(AA) = Tr[ γ^β(q̸_A+m)γ^α(p̸₁+m)γ_α(q̸_A+m)γ_β(p̸₂−m) ]
+
+$$ T_(BB) = Tr[ γ^α(q̸_B+m)γ^β(p̸₁+m)γ_β(q̸_B+m)γ_α(p̸₂−m) ]
+
+$$ T_(AB) = Tr[ γ^β(q̸_A+m)γ^α(p̸₁+m)γ_β(q̸_B+m)γ_α(p̸₂−m) ]
+
+with Σ|ℳ|²=e⁴[T_AA/(q_A²−m²)² + T_BB/(q_B²−m²)² + 2T_AB/((q_A²−m²)(q_B²−m²))], so that (1/4)Σ|ℳ|²=(e⁴/4)[T_AA/(q_A²−m²)² + T_BB/(q_B²−m²)² + 2T_AB/((q_A²−m²)(q_B²−m²))], the explicit factor of 1/4 accounting for averaging over the two unmeasured initial spins (Lesson 52, Section 1.2).
+
+### Worked example 2
+
+Explain why T_BB is obtained from T_AA simply by exchanging α↔β and q_A↔q_B, without a fresh calculation. ℳ_B has the same structure as ℳ_A with the two vertex indices and the internal momentum relabeled (Section 1.3), so squaring and spin-summing it reproduces T_AA's calculation verbatim under this relabeling, as Lesson 55, Worked example 2, noted for a different pair of amplitudes.
+
+# 3 Reducing the direct trace
+
+## 3.1 The α-contraction
+
+Using γ^μγ^aγ_μ=−2γ^a and γ^μγ_μ=4 (Lesson 21),
+
+$$ γ^α(p̸₁+m)γ_α = −2p̸₁ + 4m
+
+reducing T_AA to a trace of (q̸_A+m)(−2p̸₁+4m)(q̸_A+m) sandwiched by γ^β⋯γ_β and multiplied by (p̸₂−m).
+
+## 3.2 The massless result
+
+Expanding fully (Exercise 8 carries out every term) and applying Lesson 55's identity γ^μABCγ_μ=−2CBA together with the two- and one-object contraction identities to each resulting piece, then setting m=0,
+
+$$ T_(AA) = 32(q_A·p₁)(q_A·p₂) − 16 q_A²(p₁·p₂)
+
+Using q_A·p₁=t/2, q_A·p₂=−t/2, q_A²=t, and p₁·p₂=s/2 (all massless relations derived from t=(p₁−k₁)²=(p₂−k₂)² and u=(p₁−k₂)²=(p₂−k₁)², Exercise 9),
+
+$$ T_(AA) = 32(t/2)(−t/2) − 16t(s/2) = −8t² − 8ts = −8t(t+s) = 8tu
+
+using s+t+u=0 (Lesson 53's sum rule, all four particles taken massless in this limit) to write t+s=−u.
+
+### Worked example 3
+
+State, by Worked example 2's relabeling, the value of T_BB. Exchanging t↔u throughout Section 3.2's derivation (since T_BB's own internal momentum is q_B, with q_B²=u playing the role q_A²=t played for T_AA) gives T_BB=8ut=8tu, the identical numerical expression, since multiplication does not care about the order t,u are written in.
+
+# 4 The interference trace
+
+## 4.1 Setting up
+
+T_AB is not T_AA with one q̸_A replaced by q̸_B. In ℳ_B the photon indices sit the other way round, ℳ_B ∝ v̄(p₂)γ^α(q̸_B+m)γ^βu(p₁), so its conjugate is ū(p₁)γ^β(q̸_B+m)γ^αv(p₂). After the polarization sums, γ_β stands next to (p̸₁+m) and γ_α next to (p̸₂−m): the two index pairs interleave, which is the pattern written in Section 2.2. With m=0, Lesson 55's three-object reversal removes the α pair, γ^αp̸₁γ_βq̸_Bγ_α=−2q̸_Bγ_βp̸₁, and the two-object identity then removes the β pair, γ^βq̸_Aq̸_Bγ_β=4(q_A·q_B). Exercise 12 works through both steps.
+
+## 4.2 The massless result
+
+Setting m=0, the two contractions leave a single scalar,
+
+$$ T_(AB) = −8 (q_A·q_B) Tr[ p̸₁p̸₂ ] = −32 (q_A·q_B)(p₁·p₂)
+
+and q_A·q_B=0 in the massless limit (Exercise 13 verifies this, using k₁·k₂=s/2), so
+
+$$ T_(AB) = −32 · 0 · (s/2) = 0
+
+### Worked example 4
+
+State the single most useful simplification found along the way to Section 4.2's result. q_A·q_B=0 in the massless limit, and it is the whole of the interference term: after the two contractions T_AB is proportional to q_A·q_B, which vanishes once k₁·k₂=s/2 (from (k₁+k₂)²=s with both photons massless) is substituted. Compton scattering (Lesson 57) and pair production (Lesson 58) meet the same zero.
+
+# 5 Assembling the result
+
+$$ Σ|ℳ|² = e⁴ [ 8tu/t² + 8tu/u² + 0 ] = 8 e⁴ [ u/t + t/u ]
+
+Dividing by 4 for the spin average (Section 2.2),
+
+$$ (1/4) Σ|ℳ|² = 2 e⁴ [ t/u + u/t ]
+
+a strikingly compact result: no explicit s-dependence at all once expressed this way (s enters only implicitly, through the sum rule s+t+u=0 constraining t and u together), symmetric under t↔u, and positive, since t/u+u/t≥2 for any two same-signed real numbers (Exercise 15), so (1/4)Σ|ℳ|²≥4e⁴, with equality only at t=u. It is the same function Lesson 58 finds for γγ→e⁻e⁺, as it must be: the two processes are time reverses of each other, and each averages over four initial spin or polarization states.
+
+### Worked example 5
+
+Explain why (1/4)Σ|ℳ|² must be non-negative, and confirm Section 5's formula respects this on general grounds, independent of the specific algebra. A spin-averaged, spin-summed squared amplitude is, by construction, a sum of quantities each of the form |ℳ|² for a specific spin and polarization configuration, and a sum of non-negative numbers is non-negative; Section 5's formula, 2e⁴(t/u+u/t), is positive because t and u are both negative for physical scattering (Lesson 53, Section 3.2, extended to this process), making t/u a positive ratio, and any positive ratio r satisfies r+1/r≥2 (Exercise 15), so the bracket is never less than 2.
+
+# 6 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used next |
+| Plus sign between diagrams (bosonic photon exchange) | Contrasted directly with Lesson 55's fermionic minus sign |
+| T_AA=T_BB=8tu, T_AB=0 (massless) | A clean, memorable set of building-block results |
+| (1/4)Σ\|ℳ\|²=2e⁴[t/u+u/t] | Related by crossing symmetry to Compton scattering's amplitude, Lesson 57 |
+| q_A·q_B=0 (massless) | The reason the interference term vanishes; it returns in Lessons 57 and 58 |
+| Non-negativity of the final formula | A general consistency check applicable to any spin-summed \|ℳ\|² |
+
+Lesson 57 shows that Compton scattering's amplitude can be obtained from this lesson's result by crossing symmetry, reinterpreting an outgoing photon as an incoming one (and vice versa) with a corresponding sign change in its momentum.
+
+# 7 Summary
+
+1. Electron-positron annihilation into two photons proceeds through two diagrams, differing in which vertex emits which photon, combining with a plus sign since the exchanged particles (photons) are bosonic.
+
+2. The two amplitudes ℳ_A, ℳ_B have internal electron momenta q_A=p₁−k₁ (q_A²=t) and q_B=p₁−k₂ (q_B²=u).
+
+3. Spin and polarization sums, using positron completeness and the covariant photon polarization sum, reduce |ℳ|² to three traces, T_AA, T_BB, T_AB.
+
+4. Lesson 55's contraction identity reduces each trace, in the massless limit, to T_AA=T_BB=8tu and T_AB=0.
+
+5. The complete result is (1/4)Σ|ℳ|²=2e⁴[t/u+u/t], compact, symmetric under t↔u, and positive.
+
+6. This same amplitude structure, related by crossing symmetry, gives Compton scattering's result in Lesson 57.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | **Core.** Explain why ψ̄(x₂), not ψ(x₂), is the field contracted against the incoming positron, citing Lesson 49, Section 3.1's corrected role-reversal. |
+| 2 | **Extension.** Explain why the second Wick contraction (Section 1.2) exchanges which photon field is contracted with which outgoing photon, rather than exchanging any fermionic assignment. |
+| 3 | **Core.** Verify q_A²=(p₁−k₁)²=t and q_B²=(p₁−k₂)²=u directly from the definitions in Section 1.3. |
+| 4 | **Core.** Write ℳ_B explicitly by relabeling ℳ_A's indices and internal momentum as in Worked example 2, and verify it matches Section 1.3's stated form. |
+| 5 | **Core.** State the positron completeness relation used in Section 2.1 and the electron completeness relation, and explain why the positron's carries a minus sign in front of m. |
+| 6 | **Core.** Explain, citing Lesson 52, Section 5.2, why using −g_μν in place of the honest transverse photon polarization sum is only provisionally justified at this point in the course. |
+| 7 | **Extension.** Derive γ^α(p̸₁+m)γ_α=−2p̸₁+4m directly from γ^μγ^aγ_μ=−2γ^a and γ^μγ_μ=4. |
+| 8 | **Extension.** Expand (q̸_A+m)(−2p̸₁+4m)(q̸_A+m) fully into its nine terms, following the method of Lesson 55, Exercise 9, and apply the appropriate contraction identity to each after sandwiching with γ^β⋯γ_β. |
+| 9 | **Extension.** Derive q_A·p₁=t/2, q_A·p₂=−t/2, and q_A²=t from the definitions q_A=p₁−k₁, t=(p₁−k₁)²=(p₂−k₂)², using p₁²=k₁²=0 in the massless limit. |
+| 10 | **Core.** Substitute Exercise 9's values into T_AA=32(q_A·p₁)(q_A·p₂)−16q_A²(p₁·p₂) and derive T_AA=8tu, showing every step. |
+| 11 | **Core.** Using Worked example 3's relabeling argument, write out the analogous derivation confirming T_BB=8tu without repeating Exercise 8's full expansion. |
+| 12 | **Extension.** Starting from T_AB in Section 2.2, with its interleaved indices, set m=0 and apply the contraction identities of Section 4.1 to show that T_AB=−32(q_A·q_B)(p₁·p₂). |
+| 13 | **Core.** Verify q_A·q_B=0 in the massless limit, using q_A=p₁−k₁, q_B=p₁−k₂, p₁²=0, p₁·k₁=−t/2, p₁·k₂=−u/2, and k₁·k₂=s/2 (from (k₁+k₂)²=s with k₁²=k₂²=0). |
+| 14 | **Extension.** Assemble Section 5's final formula from T_AA, T_BB, T_AB, and the appropriate propagator denominators, verifying every numerical factor. |
+| 15 | **Extension.** Prove that r+1/r≥2 for any r>0, and use this to confirm Section 5's formula is positive for physical (t,u<0) scattering. |
+| 16 | **Challenge.** Explain, in general terms, what "crossing symmetry" means by comparing this lesson's process (two incoming fermions, two outgoing photons) with Compton scattering (one incoming and one outgoing fermion, one incoming and one outgoing photon), and predict which sign changes you would expect when relating the two processes' Mandelstam-like variables. |
+
+# Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
+
+**1.** Lesson 49, Section 3.1 (as corrected), showed that ψ̄(x)=ψ†(x)γ⁰ contains a d_s(p) term, an annihilation operator for the positron, while ψ(x) contains only d_s†(p), a creation operator; since annihilating an incoming positron requires an annihilation operator, only ψ̄(x₂) can be contracted against it.
+
+**2.** The two photon fields A_α(x₁) and A_β(x₂) are the only fields in the interaction term whose external assignment (to k₁ or k₂) is not already fixed by particle type (unlike the fermion fields, which are fixed by which annihilates an electron and which annihilates a positron); Wick's theorem therefore produces two distinct terms differing in which photon field is paired with which external photon momentum.
+
+**3.** By direct substitution, q_A²=(p₁−k₁)·(p₁−k₁)=(p₁−k₁)², matching the definition t=(p₁−k₁)² given in the notation table; similarly q_B²=(p₁−k₂)²=u by definition.
+
+**4.** Exchanging which vertex carries which photon index in ℳ_A's expression (α↔β) together with the corresponding internal momentum (q_A→q_B) gives ie·v̄(p₂)γ^α[i(q̸_B+m)/(q_B²−m²+iε)]γ^βu(p₁)ε_α(k₁)ε_β(k₂), matching Section 1.3's stated ℳ_B.
+
+**5.** Σ_su_s(p)ū_s(p)=p̸+m (electron) and Σ_sv_s(p)v̄_s(p)=p̸−m (positron), both established in Lesson 22, Section 6.1; the positron's carries a minus sign because it was derived directly from the explicit block structure of the negative-energy (v-type) solutions to the free Dirac equation, a structural difference from the positive-energy u-type solutions, not an arbitrary convention.
+
+**6.** Lesson 52, Section 5.3, explained that the covariant replacement Σε_με_ν→−g_μν is only justified by a partial, qualitative argument (that terms proportional to k^μ vanish against a conserved current), with the complete proof deferred to Lesson 72's Ward identity; using it here for a genuine physical calculation relies on that same provisional justification, not yet a completed proof.
+
+**7.** γ^α(p̸₁+m)γ_α=γ^αp̸₁γ_α+mγ^αγ_α; the first term is γ^μγ^aγ_μ=−2γ^a applied with a↔p₁ (i.e. contracted with p₁'s components), giving −2p̸₁; the second uses γ^αγ_α=4 (Lesson 21), giving 4m; summing gives −2p̸₁+4m.
+
+**8.** Expanding (q̸_A+m)(−2p̸₁+4m)(q̸_A+m) produces terms with zero, one, or two powers of m multiplying products of zero, one, two, or three slashed vectors; applying γ^β⋯γ_β to each (using the three-object reversal for the pure q̸_Ap̸₁q̸_A term, the two-object identity γ^μγ^aγ^bγ_μ=4g^ab for terms with two slashed factors, and the one-object identity for single slashed or scalar terms) reduces every term to a combination of slashed vectors and scalars ready for the final trace against (p̸₂−m), exactly the steps summarized in Section 3.2's stated massless result once m is set to zero (eliminating every term but the leading q̸_Ap̸₁q̸_A piece).
+
+**9.** With p₁²=k₁²=0 (electron treated massless in this limit, photon exactly massless), t=(p₁−k₁)²=p₁²−2p₁·k₁+k₁²=−2p₁·k₁, so p₁·k₁=−t/2. Then q_A·p₁=(p₁−k₁)·p₁=p₁²−k₁·p₁=0−(−t/2)=t/2. Using t=(p₂−k₂)² as well (Lesson 53-style equivalent definition), p₂·k₂=−t/2 similarly, giving q_A·p₂=(p₁−k₁)·p₂=p₁·p₂−k₁·p₂; using k₁·p₂=p₂·k₁=−u/2 (from u=(p₂−k₁)²=−2p₂·k₁) and p₁·p₂=s/2, q_A·p₂=s/2−(−u/2)=(s+u)/2=−t/2 (using s+t+u=0). And q_A²=t directly from Exercise 3.
+
+**10.** T_AA=32(t/2)(−t/2)−16t(s/2)=32(−t²/4)−8ts=−8t²−8ts=−8t(t+s). Using s+t+u=0, t+s=−u, giving T_AA=−8t(−u)=8tu.
+
+**11.** By Worked example 3's relabeling (α↔β, q_A↔q_B, hence t↔u throughout Section 3.2's derivation), T_BB=32(q_B·p₁)(q_B·p₂)−16q_B²(p₁·p₂)=32(u/2)(−u/2)−16u(s/2)=−8u²−8us=−8u(u+s)=−8u(−t)=8ut=8tu, the identical numerical value.
+
+**12.** With m=0, T_AB=Tr[γ^βq̸_Aγ^αp̸₁γ_βq̸_Bγ_αp̸₂]. The α pair surrounds the three objects p̸₁γ_βq̸_B, so the reversal identity gives γ^αp̸₁γ_βq̸_Bγ_α=−2q̸_Bγ_βp̸₁, and T_AB=−2Tr[γ^βq̸_Aq̸_Bγ_βp̸₁p̸₂]. The β pair now surrounds two objects, γ^βq̸_Aq̸_Bγ_β=4(q_A·q_B), so T_AB=−8(q_A·q_B)Tr[p̸₁p̸₂]=−32(q_A·q_B)(p₁·p₂).
+
+**13.** q_A·q_B=(p₁−k₁)·(p₁−k₂)=p₁²−p₁·k₂−k₁·p₁+k₁·k₂=0−(−u/2)−(−t/2)+s/2=u/2+t/2+s/2=(s+t+u)/2=0, using s+t+u=0.
+
+**14.** Σ|ℳ|²=e⁴[T_AA/t²+T_BB/u²+2T_AB/(tu)]=e⁴[8tu/t²+8tu/u²+0]=e⁴[8u/t+8t/u]=8e⁴[u/t+t/u]. Dividing by 4 for the spin average over the two unmeasured initial spins (Section 2.2), (1/4)Σ|ℳ|²=2e⁴[t/u+u/t], matching Section 5 exactly.
+
+**15.** For r>0, r+1/r−2=(√r−1/√r)²≥0 (a perfect square, since expanding (√r−1/√r)²=r−2+1/r), with equality only at r=1; so r+1/r≥2 for all r>0. For physical scattering, t<0 and u<0 (Lesson 53, Section 3.2, extended to this process's photon legs), so t/u=r is a ratio of two negative numbers, hence positive, and the inequality applies directly, confirming t/u+u/t≥2 and hence (1/4)Σ|ℳ|²≥4e⁴>0.
+
+**16.** Crossing symmetry relates processes obtained from one another by moving a particle from the initial state to the final state (or vice versa) and reversing the sign of its four-momentum, since an outgoing particle of momentum k is treated, in the crossed process, as an incoming particle of momentum −k; comparing this lesson's process (incoming e⁻,e⁺; outgoing γ,γ) to Compton scattering (incoming e⁻,γ; outgoing e⁻,γ), moving the incoming positron to an outgoing electron and one outgoing photon to an incoming photon relates the two; the Mandelstam-like variables built from momentum differences would be expected to map into each other with some combination of sign flips and relabelings (for instance, this lesson's s, built from the two incoming momenta p₁+p₂, would be expected to correspond to a t-like or u-like variable of Compton scattering, built from a momentum difference instead of a sum, once the crossed momentum's sign is flipped), the precise details of which Lesson 57 works out explicitly.
+
+# Mastery check
+
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.
