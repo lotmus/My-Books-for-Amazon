@@ -1,27 +1,22 @@
 # KDP listing — Your First Book That Sells
 
-Updated 3 October 2026. Platform facts were checked against KDP Help on 3 October 2026 (see the Notes in the book). One master: `Your First Book That Sells.docx`; “How to Publish and Make Good Money” is the same book.
+Updated 5 October 2026. Platform facts were checked against KDP Help on 3 October 2026 (see the Notes in the book). One master: `Your First Book That Sells.docx`; “How to Publish and Make Good Money” is the same book.
 
 ## Title fields
 
 - **Title:** Your First Book That Sells
-- **Subtitle (current, unchanged):** How to Publish and Make Good Money on Kindle: Real Royalties, Honest Reviews, and a Catalog That Pays
+- **Subtitle (updated 5 October 2026):** How to Publish and Know What Every Sale Pays You on Kindle: Real Royalties, Honest Reviews, and a Catalog That Pays
 - **Author (cover, title page, KDP files):** Kevin Drew Peters
 - **Series:** none
-- **Edition:** Updated 3 October 2026
-- **Length:** about 17,200 words (per `scripts/build_master.py`’s own count on the current source — rebuild and recheck if the chapters change); 32 chapters in eight parts, four appendices, glossary, 30 dated notes, 12 figures with alt text
+- **Edition:** Updated 5 October 2026
+- **Length:** about 17,800 words (per `scripts/build_master.py`’s own count on the current source — rebuild and recheck if the chapters change); 33 chapters in eight parts, four appendices, glossary, 30 dated notes, 12 figures with alt text
 - **Master file:** `Your First Book That Sells.docx` (book root). Docx only.
 
-## Subtitle options (decision pending; the book and this listing still use the current subtitle)
+## Subtitle (resolved 5 October 2026)
 
-The review found that “Make Good Money” overpromises against a book that promises no income. Options:
+An earlier review found that “Make Good Money” overpromises against a book that promises no income. Resolved by replacing it with “Know What Every Sale Pays You,” which states what the book actually delivers: the arithmetic, not a result. (Three other options considered at the time are preserved in git history.)
 
-1. The No-Hype Guide to Kindle Royalties, Honest Reviews, and a Catalog That Earns
-2. How to Price, Launch, and Build a Kindle Catalog Without Wasting Money
-3. A First-Time Author’s Guide to Kindle Pricing, Honest Reviews, and Book Two
-4. Real Royalties, Honest Reviews, and a Catalog That Pays: Kindle Publishing with the Arithmetic Shown
-
-If the subtitle changes, update `SUBTITLE` in `scripts/build_master.py`, line 3 of `chapters/00_front_matter.md`, and this file, then rebuild. Avoid Amazon program names such as “Kindle Unlimited” and “KDP Select” in the subtitle, and check KDP’s Metadata Guidelines before changing it.
+If the subtitle changes again, update `SUBTITLE` in `scripts/build_master.py`, line 3 of `chapters/00_front_matter.md`, and this file, then rebuild. Avoid Amazon program names such as “Kindle Unlimited” and “KDP Select” in the subtitle, and check KDP’s Metadata Guidelines before changing it.
 
 ## Description (paste into KDP; plain paragraphs, under 4,000 characters)
 

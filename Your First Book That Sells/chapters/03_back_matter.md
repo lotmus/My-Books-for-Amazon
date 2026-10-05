@@ -10,41 +10,41 @@ If you remember one thing, make it the keep test from the start of Part I. Befor
 
 ### Manuscript
 
-- [ ] Developmental, line, copy, and proofreading passes complete (Chapter 19)
+- [ ] Developmental, line, copy, and proofreading passes complete (Chapter 20)
 - [ ] At least one pass done by someone other than you
 - [ ] Every number and cross-reference checked
 
 ### Format
 
-- [ ] Ebook: real heading styles throughout, a linked table of contents, no page numbers or index (Chapter 20)
-- [ ] Print: page numbers, running heads, correct trim and margins; spine and cover size from KDP’s templates (Chapter 20)
+- [ ] Ebook: real heading styles throughout, a linked table of contents, no page numbers or index (Chapter 21)
+- [ ] Print: page numbers, running heads, correct trim and margins; spine and cover size from KDP’s templates (Chapter 21)
 - [ ] Checked in KDP’s previewer on more than one device size
 - [ ] Physical proof ordered and read, for any print edition
 
 ### Cover
 
 - [ ] Passes the thumbnail test at real size (Chapter 5)
-- [ ] Follows the shelf’s conventions on purpose (Chapter 21)
+- [ ] Follows the shelf’s conventions on purpose (Chapter 22)
 - [ ] Title readable, one clear focal point
 
 ### Metadata
 
-- [ ] Seven keyword slots used as reader phrases, with no program names, no title words, and nothing misleading (Chapter 22)
-- [ ] Three accurate categories chosen (Chapter 22)
-- [ ] Description with no review quotes, review requests, prices, time-limited claims, or links (Chapter 22)
-- [ ] Price set on purpose inside, or knowingly outside, the 70 percent band (Chapters 3 and 23)
+- [ ] Seven keyword slots used as reader phrases, with no program names, no title words, and nothing misleading (Chapter 23)
+- [ ] Three accurate categories chosen (Chapter 23)
+- [ ] Description with no review quotes, review requests, prices, time-limited claims, or links (Chapter 23)
+- [ ] Price set on purpose inside, or knowingly outside, the 70 percent band (Chapters 3 and 24)
 
 ### Compliance
 
-- [ ] Tax interview completed and treaty claimed if it applies (Chapter 26)
-- [ ] AI-content question answered truthfully (Chapter 32)
-- [ ] KDP Select enrolment, and its renewal date, decided on purpose (Chapter 27)
+- [ ] Tax interview completed and treaty claimed if it applies (Chapter 27)
+- [ ] AI-content question answered truthfully (Chapter 33)
+- [ ] KDP Select enrolment, and its renewal date, decided on purpose (Chapter 28)
 
 ### Launch
 
 - [ ] Advance readers recruited and files sent two to three weeks ahead (Chapters 7, 11, and 31)
 - [ ] Every request for a review says it is optional and asks for an honest one (Chapter 6)
-- [ ] If running ads: keep, conversion assumption, cap, and stop date written first (Chapters 9 and 25)
+- [ ] If running ads: keep, conversion assumption, cap, and stop date written first (Chapters 9 and 26)
 
 # Appendix B — Royalty Quick Reference
 
@@ -67,27 +67,27 @@ Platform rules on Amazon.com, checked 3 October 2026. Check the live pages befor
 The two formulas worth remembering:
 
 - Break-even cost per click = keep × conversion rate (Chapter 9).
-- Break-even ACOS = keep ÷ price × 100% (Chapter 25).
+- Break-even ACOS = keep ÷ price × 100% (Chapter 26).
 
 # Appendix C — ISBNs, Wide Distribution, and Further Reading
 
 ### ISBNs
 
-KDP does not require you to buy an ISBN. A Kindle ebook needs none; Amazon identifies it with an ASIN. A paperback or hardcover needs an ISBN, and KDP can assign one free when you publish. Anyone charging a fee “so you can get an ISBN and publish” is billing you for something KDP gives away (Chapter 28).
+KDP does not require you to buy an ISBN. A Kindle ebook needs none; Amazon identifies it with an ASIN. A paperback or hardcover needs an ISBN, and KDP can assign one free when you publish. Anyone charging a fee “so you can get an ISBN and publish” is billing you for something KDP gives away (Chapter 29).
 
 A free KDP ISBN lists the publisher as “Independently Published” and can be used only for KDP print. Buying your own, from [Bowker](https://www.myidentifiers.com/identify-protect-your-book/isbn/buy-isbn) in the United States or your country’s ISBN agency elsewhere, lists you or your imprint as publisher and lets you print the same edition elsewhere. For a book that stays with KDP print, the free ISBN is a reasonable choice.
 
 ### Wide distribution
 
-If you go wide (Chapter 27), you can upload to each retailer directly (for example Apple Books, Kobo, and Barnes & Noble Press) or use a distributor that reaches several retailers and library platforms from one upload; Draft2Digital and PublishDrive are widely used examples. IngramSpark is a common choice for wider print distribution to bookshops and libraries.
+If you go wide (Chapter 28), you can upload to each retailer directly (for example Apple Books, Kobo, and Barnes & Noble Press) or use a distributor that reaches several retailers and library platforms from one upload; Draft2Digital and PublishDrive are widely used examples. IngramSpark is a common choice for wider print distribution to bookshops and libraries.
 
 ### Further reading
 
 KDP’s own help pages are the authoritative, free, continuously updated source. When a figure in this book disagrees with them, trust the help page; the arithmetic in this book still works with the new figure.
 
-Author communities are a good source of current experience. Read them as Chapter 28 recommends: ask whether a claim is a documented rule or a theory about the algorithm.
+Author communities are a good source of current experience. Read them as Chapter 29 recommends: ask whether a claim is a documented rule or a theory about the algorithm.
 
-For tax questions specific to you, a professional who handles royalty or cross-border income (Chapter 26).
+For tax questions specific to you, a professional who handles royalty or cross-border income (Chapter 27).
 
 # Appendix D — Thirty-Two Ways a Book Can Pay You
 
@@ -103,8 +103,8 @@ Each idea gives the smallest version and the sign to stop. Keeps are the Chapter
 ### Price
 
 1. **Charge a real ebook price.** Smallest version: change only the price, to one inside the 70 percent band, for four weeks. Stop if the keep on the sheet falls.
-2. **Make book one the introduction.** Smallest version: write both books’ prices on one line (Chapter 23). Stop if book two still has no date.
-3. **Run a short Countdown Deal, then restore the price.** A Select book only, under the rules in Chapter 27 [6]. Smallest version: one deal, with the morning the full price returns written down. Stop if book two is not linked.
+2. **Make book one the introduction.** Smallest version: write both books’ prices on one line (Chapter 24). Stop if book two still has no date.
+3. **Run a short Countdown Deal, then restore the price.** A Select book only, under the rules in Chapter 28 [6]. Smallest version: one deal, with the morning the full price returns written down. Stop if book two is not linked.
 4. **Make book one free only when book two is live.** A free download keeps $0. Smallest version: book two live and linked, then free days [28]. Stop if book two is not live.
 5. **Revisit each price once a year.** Smallest version: the current keep of the oldest book, on the sheet. Stop if you find yourself changing prices every month.
 
@@ -113,7 +113,7 @@ Each idea gives the smallest version and the sign to stop. Keeps are the Chapter
 6. **Write the next book while this one is warm.** Smallest version: one sentence at the end of book one saying who book two is for. Stop if that sentence describes book one again.
 7. **Use a series page.** Smallest version: two finished books, each linking to the other. Stop if a reader of book one would not want book two next.
 8. **Sell a box set after three books.** Three sales at $3.99 keep about $7.74; a set at $7.99 keeps about $5.38 — less, but only for a reader who would have bought all three anyway. A box set’s real job is the reader who would have bought none of them at full price. Smallest version: three finished files and that sum. Stop if the set’s keep is one you would not accept.
-9. **Open a pre-order you can finish.** Rules in Chapter 24 [14]. Smallest version: a date and a file that is already done. Stop if the file is not done.
+9. **Open a pre-order you can finish.** Rules in Chapter 25 [14]. Smallest version: a date and a file that is already done. Stop if the file is not done.
 10. **Write one seasonal short.** Smallest version: the season and the date it must be on sale. Stop if that date has passed.
 11. **Publish a second edition for a real reason.** Smallest version: three fixes a past reader would be glad to hear about. Stop if you cannot name three.
 
@@ -123,7 +123,7 @@ Each idea gives the smallest version and the sign to stop. Keeps are the Chapter
 13. **Add large print.** Smallest version: copy the paperback setup with larger type and rerun the calculator. Stop if the keep falls below the ebook’s.
 14. **Add a hardcover.** Smallest version: one price in the calculator. Stop if the keep is below the ebook’s, or you have not yet held a paperback proof.
 15. **Price a paperback libraries can buy.** **Worked example.** At $14.99 with a hypothetical $4 printing cost, Amazon’s 60 percent keeps about $5 and Expanded Distribution’s 40 percent about $2. Smallest version: one Expanded Distribution price and its keep. Stop if printing cost eats the keep.
-16. **Record audio after the ebook has readers** (Chapter 29). Smallest version: ask readers who finished whether they would listen. Stop if they would not.
+16. **Record audio after the ebook has readers** (Chapter 30). Smallest version: ask readers who finished whether they would listen. Stop if they would not.
 17. **Translate one book that already sells.** Smallest version: one chapter checked by a fluent reader before paying for the rest. Stop if the book has no readers yet.
 18. **Sell a workbook beside the main book.** Smallest version: ten prompts that are not already chapters. Stop if you cannot list ten.
 19. **Sell a one-sitting extra,** such as a field guide or troubleshooting list. Smallest version: one sentence and a price in the 70 percent band. Stop if you cannot say it in one line.
@@ -132,12 +132,12 @@ Each idea gives the smallest version and the sign to stop. Keeps are the Chapter
 
 ### Reach
 
-22. **Choose a shelf where you can be seen.** Smallest version: one accurate category and the five books on it (Chapter 22). Stop if those five are not books your reader buys.
+22. **Choose a shelf where you can be seen.** Smallest version: one accurate category and the five books on it (Chapter 23). Stop if those five are not books your reader buys.
 23. **Put the promise in the first two lines** of the description (Chapter 4). Smallest version: show them to one stranger. Stop when that person can say who the book is for.
-24. **Try Kindle Unlimited on purpose** (Chapter 27). Smallest version: read the terms and write the renewal date. Stop at day 90 if page-read money did not replace the sales you gave up.
+24. **Try Kindle Unlimited on purpose** (Chapter 28). Smallest version: read the terms and write the renewal date. Stop at day 90 if page-read money did not replace the sales you gave up.
 25. **Sell the ebook in more than one store** when not in Select. Smallest version: one other store and its royalty page. Stop while you are inside a Select term.
 26. **Open one more Amazon marketplace price.** Smallest version: one country where your reader lives, with its own price and estimate. Stop if you are about to change five countries on one day.
-27. **Write to readers who asked** (Chapter 29). Smallest version: one sentence in the back of the book and one place to join. Stop if you never write to them.
+27. **Write to readers who asked** (Chapter 30). Smallest version: one sentence in the back of the book and one place to join. Stop if you never write to them.
 28. **Offer the book to a group you already know,** such as a club or a class. Smallest version: one letter to one group. Stop if the offer has to promise reviews, grades, or income.
 29. **Teach the chapter once.** Smallest version: a one-hour outline and a fee. Stop if you cannot name ten people who would care.
 30. **Share a bundle or a mention with one other author.** Smallest version: one book you would hand your own reader. Stop if you have not read it, or the other author wants a review swap.
@@ -150,15 +150,15 @@ Leave these for later: merchandise, paid fan clubs, and large courses with no au
 
 One line each, with the chapter that teaches the word.
 
-ACOS. Advertising cost of sale: ad spend divided by ad-attributed sales. Chapter 25.
+ACOS. Advertising cost of sale: ad spend divided by ad-attributed sales. Chapter 26.
 
-Advance copy. A free copy sent before publication; any review stays optional. Chapters 6 and 31.
+Advance copy. A free copy sent before publication; any review stays optional. Chapters 6 and 32.
 
 ASIN. Amazon’s identifier for a product, including a Kindle ebook. Appendix C.
 
 Backlist. Books you published earlier and left on sale. Appendix D.
 
-Countdown Deal. A scheduled, time-limited price cut for KDP Select books on Amazon.com and Amazon.co.uk. Chapter 27.
+Countdown Deal. A scheduled, time-limited price cut for KDP Select books on Amazon.com and Amazon.co.uk. Chapter 28.
 
 Delivery cost. A per-megabyte charge taken off the price before the 70 percent royalty; not charged on the 35 percent option. Chapter 3.
 
@@ -168,7 +168,7 @@ Keep. What one sale leaves you after Amazon’s share and, where it applies, del
 
 KENP. Kindle Edition Normalized Pages, the page count Amazon uses to pay Kindle Unlimited reads. Chapter 17.
 
-KDP Select. A 90-day, ebook-only exclusive enrolment that adds Kindle Unlimited and promotions. Chapter 27.
+KDP Select. A 90-day, ebook-only exclusive enrolment that adds Kindle Unlimited and promotions. Chapter 28.
 
 Seventy percent band. On Amazon.com, list prices from $2.99 to $12.99 where the 70 percent royalty can apply. The top was $9.99 until 7 July 2026. Chapter 3.
 

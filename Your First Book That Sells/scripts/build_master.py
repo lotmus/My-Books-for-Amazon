@@ -19,7 +19,7 @@ CHAPTERS = sorted((ROOT / "chapters").glob("0*.md"))
 FIGURES = ROOT / "figures"
 OUTPUT = ROOT / "Your First Book That Sells.docx"
 TITLE = "Your First Book That Sells"
-SUBTITLE = "How to Publish and Make Good Money on Kindle: Real Royalties, Honest Reviews, and a Catalog That Pays"
+SUBTITLE = "How to Publish and Know What Every Sale Pays You on Kindle: Real Royalties, Honest Reviews, and a Catalog That Pays"
 AUTHOR = "Kevin Drew Peters"
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.*)$")
