@@ -1,5 +1,12 @@
 # STATUS — Your First YouTube Channel That Rocks
 
+**Update 2026-10-05, two of tier 3's cheap items, picked out and done now:** User agreed two tier-3 items were cheap, in-scope manuscript edits worth doing immediately rather than deferring: the glossary "why it matters" column, and shorter paragraphs in the policy-heavy chapters (3, 10, 11).
+
+- **Glossary.** `build_docx.py`'s `GLOSSARY` list (46 terms) changed from (term, definition) pairs to (term, definition, why_it_matters) triples; the render loop prints the third element as an italic "Why it matters:" clause after the definition, in the same flowing paragraph — not a new table, so the existing layout and the rest of the builder are untouched. Wrote one new sentence per term explaining why a reader should care, not just what the term means.
+- **Paragraph length.** Split the longest plain-prose paragraphs (85+ words, excluding bullets, callouts, and Sources paragraphs, which keep their existing one-block conventions) at natural idea boundaries: 2 splits in ch3 (`Nobody Can Tell What It Cost`), 5 in ch10 (`The Rules That Can Switch Off the Money`, the chapter the review named as most policy-dense), 1 in ch11 (`Ads, RPM, and the Shorts Pool`). No wording changed, no facts moved between paragraphs — purely a readability break.
+
+Re-ran the duplicate-sentence scan (zero flagged) and rebuilt the docx (31,980 words; glossary entries confirmed rendering with the bold-term/italic-label formatting intact).
+
 **Update 2026-10-05, acted on an external review (Perplexity, 8.6/10), tiers 1–2 of 3:** User pasted a fresh external review scoring the merged book 8.6/10 with a 5-pass revision plan to reach 9.6–9.8. Asked how much to act on; user chose tiers 1 ("quick wins") and 2 ("quick wins + trim repetition") now, with tier 3 left as a list for later (below). Note: some of the review's complaints are about choices this book already made deliberately and documented (the "Checked October 2026" dateline, the single-running-example convention, the named-creator carve-out) — did not undo those on the review's say-so alone.
 
 Implemented:

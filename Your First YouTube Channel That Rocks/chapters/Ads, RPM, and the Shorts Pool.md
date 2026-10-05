@@ -23,7 +23,9 @@ The ad formats page also describes “Watch While” ads on mobile, which serve 
 
 ## II. YouTube Premium and Premium Lite
 
-A viewer who pays for YouTube Premium sees no ads, and still pays your channel. YouTube’s August 2026 announcement and its Changes page describe the split: 30% of net Premium subscription revenue, and 60% of net Premium Lite revenue, goes into a pool distributed to creators by member watch time and views. From that distribution, creators receive 55% for long-form and 45% for Shorts. The same post says Premium Lite is expanding to every country where YouTube offers Premium, and that when a viewer signs up for Premium, partners on average earn more than when that viewer was watching ads.
+A viewer who pays for YouTube Premium sees no ads, and still pays your channel. YouTube’s August 2026 announcement and its Changes page describe the split: 30% of net Premium subscription revenue, and 60% of net Premium Lite revenue, goes into a pool distributed to creators by member watch time and views. From that distribution, creators receive 55% for long-form and 45% for Shorts.
+
+The same post says Premium Lite is expanding to every country where YouTube offers Premium, and that when a viewer signs up for Premium, partners on average earn more than when that viewer was watching ads.
 
 You do not switch Premium revenue on separately. It comes with the Watch Page module for long videos and the Shorts module for Shorts.
 
