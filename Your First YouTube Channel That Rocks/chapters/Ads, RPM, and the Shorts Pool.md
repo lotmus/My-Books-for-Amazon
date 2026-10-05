@@ -23,7 +23,9 @@ The ad formats page also describes “Watch While” ads on mobile, which serve 
 
 ## II. YouTube Premium and Premium Lite
 
-A viewer who pays for YouTube Premium sees no ads, and still pays your channel. YouTube’s August 2026 announcement and its Changes page describe the split: 30% of net Premium subscription revenue, and 60% of net Premium Lite revenue, goes into a pool distributed to creators by member watch time and views. From that distribution, creators receive 55% for long-form and 45% for Shorts. The same post says Premium Lite is expanding to every country where YouTube offers Premium, and that when a viewer signs up for Premium, partners on average earn more than when that viewer was watching ads.
+A viewer who pays for YouTube Premium sees no ads, and still pays your channel. YouTube’s August 2026 announcement and its Changes page describe the split: 30% of net Premium subscription revenue, and 60% of net Premium Lite revenue, goes into a pool distributed to creators by member watch time and views. From that distribution, creators receive 55% for long-form and 45% for Shorts.
+
+The same post says Premium Lite is expanding to every country where YouTube offers Premium, and that when a viewer signs up for Premium, partners on average earn more than when that viewer was watching ads.
 
 You do not switch Premium revenue on separately. It comes with the Watch Page module for long videos and the Shorts module for Shorts.
 
@@ -72,9 +74,6 @@ Three rules matter for planning.
 
 - **The module date.** Shorts revenue accrues from the day you accept the Shorts Monetization Module. Views before that date earn nothing.
 - **The 2027 floor.** From 1 February 2027, a channel earns Shorts ad and Premium revenue in a month only if it had at least 10 million qualified Shorts views in the 90 days ending on the 15th of the previous month. Below that, the channel stays in the program and keeps earning on long-form. Shorts revenue resumes automatically above the line.
-
-> **Thresholds change.** Before planning around any monetization target, check the live Earn tab in YouTube Studio and YouTube’s official Partner Program eligibility page for your country. This book reflects information checked in October 2026.
-
 - **What is ineligible.** Unedited clips of others’ films or TV, reuploads, compilations with nothing original added, bot views, and views of Shorts that are not advertiser-friendly do not count. Shorts over one minute that contain claimed content are blocked from monetization.
 
 The same page adds one 2027 change: from 1 February 2027, Shorts ads targeted to groups of five or fewer channels earn direct revenue, with the creator keeping 45% of that ad’s net revenue, on top of the Creator Pool.

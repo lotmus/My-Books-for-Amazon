@@ -8,6 +8,17 @@
 
 **Days 3 and 4 — Record and finish.** Record with the microphone close, in the softest room you have, with the fridge off. Trim any part that does not teach. Add captions from your script, or review the automatic ones before you publish them. Add video chapters to the description: 00:00 first, at least three. Name the next video inside the video and on the end screen. Write an honest description: the first two lines say what the video does, and any sponsor or affiliate link is disclosed beside it. Chapters 2, 3, and 4. Video-job sheet.
 
+## Publish when these six things are true
+
+- The title leads with the viewer’s own phrase, not a label for the topic.
+- The thumbnail is readable at phone size.
+- The first thirty seconds say, in your own words, what you are about to show.
+- The video shows or says the result before it ends, not just a description of one.
+- Every clip, track, and voice you did not make yourself is logged and licensed.
+- It names one next video, inside the video and on the end screen.
+
+If all six are true, publish it. Fix what this video got wrong in the next one, not by holding this one back.
+
 **Day 5 — Publish, and leave the brand alone.** Publish video one. Do not redesign the banner, rename the channel, or start a logo this week. Write the date and what you published on the week sheet. Chapter 7.
 
 **Week 2 — The deep dive, and three honest viewers.** Publish the deep dive. Show both videos to three people who match the viewer sentence, not three people who like you. Ask each one where they would have stopped watching. Write the three answers in the decision log, and change nothing else until you have them. Chapter 6 takes over from week three.

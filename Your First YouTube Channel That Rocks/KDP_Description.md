@@ -1,6 +1,6 @@
 # KDP listing — Your First YouTube Channel That Rocks
 
-Updated 3 October 2026 (revision: Start This Week plan, layered sections, workbook at the centre, claim labels). Refocused on monetizing the channel itself. YouTube facts in the description were checked against YouTube Help and the YouTube Blog in October 2026.
+Updated 5 October 2026 (finalization pass: merged the parallel revision and case-study branches, reconciled the no-named-creators convention, acted on an external review's quick-win and repetition-trim items, added the glossary's "why it matters" column). Refocused on monetizing the channel itself. YouTube facts in the description were checked against YouTube Help and the YouTube Blog in October 2026.
 
 ## Title fields
 
@@ -10,7 +10,7 @@ Updated 3 October 2026 (revision: Start This Week plan, layered sections, workbo
 - **Series:** none. Companion to *Your First Book That Sells*, not part of a numbered series, unless Lothar decides otherwise.
 - **Edition:** Updated October 2026
 
-## Description (paste into KDP; plain paragraphs, about 1,750 characters)
+## Description (paste into KDP; plain paragraphs, about 1,900 characters)
 
 Views are not income. YouTube pays for something more specific: subscribers, public watch hours, and qualified Shorts views, counted in rolling windows, and then a review.
 

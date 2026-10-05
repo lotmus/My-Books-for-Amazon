@@ -37,7 +37,9 @@ What matters most: no watermark, an export cap longer than your longest video, a
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) has a free version. Blackmagic Design’s page says it works with most 8-bit formats at up to 60 frames per second and resolutions up to Ultra HD, 3840 by 2160. It is a desktop program and asks more of an older computer than a browser editor does.
 - [CapCut](https://www.capcut.com/) runs in a browser, on a desktop, and on a phone. Its terms say whether its built-in music, effects, and templates can be used commercially depends on the product and is set out in the CapCut Materials License Agreement. Read that agreement before you use its library in a monetized video, or bring your own audio and footage.
 
-Whatever editor exports the file, match [YouTube’s recommended upload settings](https://support.google.com/youtube/answer/1722171). Official guidance: an MP4 with H.264 video and AAC-LC audio at 48 kHz; for 1080p at 24, 25, or 30 frames per second, 8 Mbps; for 1440p, 16 Mbps; stereo audio at 384 kbps. A Short uses the same settings with the frame turned vertical, 1080 by 1920. Creator heuristic: a higher-resolution upload gets a better playback encode. That page does not promise it. Upload the resolution you have. Do not upscale a soft file in the hope of a better encode.
+Whatever editor exports the file, match [YouTube’s recommended upload settings](https://support.google.com/youtube/answer/1722171). Official guidance: an MP4 with H.264 video and AAC-LC audio at 48 kHz; for 1080p at 24, 25, or 30 frames per second, 8 Mbps; for 1440p, 16 Mbps; stereo audio at 384 kbps. A Short uses the same settings with the frame turned vertical, 1080 by 1920.
+
+Creator heuristic: a higher-resolution upload gets a better playback encode. That page does not promise it. Upload the resolution you have. Do not upscale a soft file in the hope of a better encode.
 
 ## III. Stock footage and photos
 
@@ -57,7 +59,9 @@ What matters most: whether the track can be claimed through Content ID, the exac
 
 > **Copyright and Content ID.** A claim on a ten-second music bed can send a whole video’s ad money to someone else and switch off its Super Thanks. A dispute without a valid reason can become a copyright strike. Use audio you can document, keep the license screenshot in the rights log, and read chapter 10, §III–IV before you dispute anything.
 
-Mixing habits matter more than the track (author recommendation). Keep the voice at or near full on the editor’s fader. Start the music fader at about a tenth to a fifth of the way up — a fader position, not a loudness measurement — and listen back until every word is clear. Use one instrumental bed per video, no sung lyrics under a voiceover, and few sound effects, each on the visual it marks. Leave a fraction of a second of near-silence before a key line.
+Mixing habits matter more than the track (author recommendation). Keep the voice at or near full on the editor’s fader. Start the music fader at about a tenth to a fifth of the way up — a fader position, not a loudness measurement — and listen back until every word is clear.
+
+Use one instrumental bed per video, no sung lyrics under a voiceover, and few sound effects, each on the visual it marks. Leave a fraction of a second of near-silence before a key line.
 
 A generator can also write a track from a genre, a mood, and a tempo, and some tools write full songs with vocals. Read that tool’s commercial-use terms before the track leaves the edit; the legal status of generated music is less settled than that of generated video. Official rule: YouTube’s AI disclosure page lists music that is the main focus of the video among the things you must disclose (chapter 10, §VII).
 

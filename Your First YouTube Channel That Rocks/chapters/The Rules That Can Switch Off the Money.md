@@ -6,7 +6,9 @@
 
 *Layer: Set up before monetization — except the checklist in §XI, which starts with your first upload. Workbook: the rights log (chapter 15, §VII).*
 
-A channel heading for the gate has more to lose from a rule than a hobby channel does. A hobby channel that loses a video loses a video. A monetizing channel can lose the ads on its best video, lose its place in the review queue because of an active strike, or lose the Partner Program itself for a pattern it did not notice. The rules are not mysterious. YouTube publishes them, with the penalties and the clocks. Most first-time trouble comes from confusing one kind of problem with another and answering it the wrong way.
+A channel heading for the gate has more to lose from a rule than a hobby channel does. A hobby channel that loses a video loses a video. A monetizing channel can lose the ads on its best video, lose its place in the review queue because of an active strike, or lose the Partner Program itself for a pattern it did not notice.
+
+The rules are not mysterious. YouTube publishes them, with the penalties and the clocks. Most first-time trouble comes from confusing one kind of problem with another and answering it the wrong way.
 
 This chapter is the short map. Everything in it is an official rule from the policy page each section names, unless labeled otherwise.
 
@@ -62,7 +64,9 @@ Three copyright strikes within 90 days make the channel subject to termination. 
 
 ## IV. Content ID claims: the video, not the channel
 
-A Content ID claim is generated automatically when an upload matches a reference file a rights holder has given YouTube. YouTube’s [claims page](https://support.google.com/youtube/answer/6013276) says the rights holder chooses what happens: monetize, track, or block. Monetize is the most common choice for music. A claimed video longer than three minutes that is tracked or monetized stays up. A Short between one and three minutes long with an active claim is blocked, whatever the policy. YouTube says claims affect videos and usually do not affect the channel, and that a claim is not a strike.
+A Content ID claim is generated automatically when an upload matches a reference file a rights holder has given YouTube. YouTube’s [claims page](https://support.google.com/youtube/answer/6013276) says the rights holder chooses what happens: monetize, track, or block. Monetize is the most common choice for music.
+
+A claimed video longer than three minutes that is tracked or monetized stays up. A Short between one and three minutes long with an active claim is blocked, whatever the policy. YouTube says claims affect videos and usually do not affect the channel, and that a claim is not a strike.
 
 The trap is in the dispute. The same page says that if you dispute a claim without a valid reason, the rights holder can send a removal request, and if that request is valid, the channel gets a copyright strike. A claim you could have lived with becomes a strike you cannot ignore.
 
@@ -90,7 +94,9 @@ A subject with a cost is still allowed. Chapter 1 asked you to know that cost be
 
 If a video features branded content, sponsorships, endorsements, or other commercial relationships, YouTube’s [paid promotion page](https://support.google.com/youtube/answer/154235) says you have to tell YouTube by selecting the paid promotion option in the video’s details. In the upload flow it appears under “Paid promotion.” YouTube then adds a disclosure label at the start of the video. YouTube’s [branded content policies](https://support.google.com/youtube/answer/17596007) add that if its systems detect undisclosed branded content, they may apply the label themselves and notify you.
 
-The label is not the whole disclosure. The paid promotion page says you and the partners you work with are responsible for complying with all applicable legal requirements, and the branded content policies say you are ultimately responsible for making the disclosure clear and prominent. The sponsor sentence in chapter 13 — “[Sponsor] paid for this video. The link is theirs.” — is the part a viewer hears. The FTC pages in the sources are the US guidance on what clear means. Do both: the setting for YouTube, the sentence for the person watching.
+The label is not the whole disclosure. The paid promotion page says you and the partners you work with are responsible for complying with all applicable legal requirements, and the branded content policies say you are ultimately responsible for making the disclosure clear and prominent. The sponsor sentence in chapter 13 — “[Sponsor] paid for this video. The link is theirs.” — is the part a viewer hears.
+
+The FTC pages in the sources are the US guidance on what clear means. Do both: the setting for YouTube, the sentence for the person watching.
 
 An affiliate link alone is a commission on a sale, not necessarily a paid placement. Whether your particular arrangement also needs the paid promotion setting is a question for the paid promotion page and the affiliate program’s own terms. The disclosure next to the link, which this book already requires, is not optional either way.
 
@@ -108,7 +114,11 @@ Two changes are worth knowing. YouTube’s [May 2026 update on AI labels](https:
 
 > **AI voice and likeness.** When a video meets the bar, set AI use to Yes. A disclosure does not make cloning someone else’s voice, or using someone else’s face, acceptable. That needs their written agreement (chapter 3, §VII).
 
-A disclosure settles what the viewer is told. It does not settle who owns the words. In the United States, copyright needs a human author: the U.S. Court of Appeals for the D.C. Circuit held so in March 2025, in a case over copyright for a purely AI-generated image, and the Supreme Court declined to review that ruling on March 2, 2026. A tool’s terms may say a generated script is yours to use. That is permission, not ownership. A script an assistant wrote, read out word for word, is yours to perform and nobody’s to own, and another channel could reuse the same sentences. The lines you wrote yourself, and your own creative rewrites of a draft, are protected as usual, and so are the delivery, the edit, and the footage you shot. The practical rule (author recommendation): put your own explanation on the track. It is what the inauthentic-content policy in §VIII rewards, and it is the only part of a script anyone can be stopped from copying.
+A disclosure settles what the viewer is told. It does not settle who owns the words. In the United States, copyright needs a human author: the U.S. Court of Appeals for the D.C. Circuit held so in March 2025, in a case over copyright for a purely AI-generated image, and the Supreme Court declined to review that ruling on March 2, 2026.
+
+A tool’s terms may say a generated script is yours to use. That is permission, not ownership. A script an assistant wrote, read out word for word, is yours to perform and nobody’s to own, and another channel could reuse the same sentences. The lines you wrote yourself, and your own creative rewrites of a draft, are protected as usual, and so are the delivery, the edit, and the footage you shot.
+
+The practical rule (author recommendation): put your own explanation on the track. It is what the inauthentic-content policy in §VIII rewards, and it is the only part of a script anyone can be stopped from copying.
 
 ## VIII. The monetization policies: rules for the whole channel
 
@@ -125,7 +135,9 @@ The review looks at the channel as a whole. A channel with forty near-identical 
 
 > **Made for kids.** The audience setting is a legal statement under US law, not a reach setting. Set it for who the video is directed to. A wrong answer either way is your risk, and “made for kids” switches off comments, end screens, personalized ads, memberships, and Supers.
 
-Every channel and every video has an audience setting: made for kids, or not. YouTube’s [audience setting page](https://support.google.com/youtube/answer/9527654) says the setting exists to comply with the US Children’s Online Privacy Protection Act, COPPA, and other laws. When a video is set as made for kids, YouTube turns off a long list of features on it. The list includes comments, cards and end screens, the notification bell, personalized advertising, the miniplayer, and saving to a playlist or Watch Later. A channel set as made for kids also loses posts and channel memberships, among others, and Super Chat, Super Stickers, and Super Thanks are not available on made-for-kids videos.
+Every channel and every video has an audience setting: made for kids, or not. YouTube’s [audience setting page](https://support.google.com/youtube/answer/9527654) says the setting exists to comply with the US Children’s Online Privacy Protection Act, COPPA, and other laws.
+
+When a video is set as made for kids, YouTube turns off a long list of features on it. The list includes comments, cards and end screens, the notification bell, personalized advertising, the miniplayer, and saving to a playlist or Watch Later. A channel set as made for kids also loses posts and channel memberships, among others, and Super Chat, Super Stickers, and Super Thanks are not available on made-for-kids videos.
 
 For most channels in this book the answer is plainly no. The viewer is an adult with a question. The setting describes who the video is directed to, not who it helps in the end. A channel teaching parents how to choose a reading tutor is directed to parents. A cartoon of the alphabet song is directed to children, whatever the parent who pressed play intended.
 
@@ -133,7 +145,9 @@ If your videos really are directed to children, the setting is not a marketing c
 
 ## X. Keep the rights log
 
-Nothing in this chapter needs a lawyer to follow. It does need a memory you will not have in two years. The rights log in chapter 15, §VII has three parts: licenses (every clip, image, and track you did not make, with a dated screenshot), disclosures (paid promotion, AI use, audience setting, affiliate line, per video), and notices (every warning, strike, claim, or limited-ads label, with the date its clock runs out). The notices part tells you, before you upload a borderline video, whether the channel has room for a mistake this month. With an active strike, it does not, and a Partner Program application waits too.
+Nothing in this chapter needs a lawyer to follow. It does need a memory you will not have in two years. The rights log in chapter 15, §VII has three parts: licenses (every clip, image, and track you did not make, with a dated screenshot), disclosures (paid promotion, AI use, audience setting, affiliate line, per video), and notices (every warning, strike, claim, or limited-ads label, with the date its clock runs out).
+
+The notices part tells you, before you upload a borderline video, whether the channel has room for a mistake this month. With an active strike, it does not, and a Partner Program application waits too.
 
 *In short:* A limited-ads label is about one video’s money. A warning has a training. A strike has a 90-day clock and blocks an application. A copyright strike is a legal request. A claim is about one video. The monetization policies judge the whole channel.
 
