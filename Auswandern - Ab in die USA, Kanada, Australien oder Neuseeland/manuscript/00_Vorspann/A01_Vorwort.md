@@ -12,7 +12,7 @@ Vier Dinge solltest du von Anfang an wissen.
 
 **Zweitens: Jedes dieser Länder ist mehrere Länder in einem.** Die USA bestehen aus fünfzig Bundesstaaten, Kanada aus zehn Provinzen und drei Territorien, Australien aus sechs Bundesstaaten und Territorien; selbst das kleinere, zentraler regierte Neuseeland kennt regionale Unterschiede. Führerschein, Schule, Steuern, Mietrecht und vieles mehr regelt vielerorts die jeweilige Region selbst. Wo das der Fall ist, erkläre ich das Prinzip und zeige es an einigen Beispielen. Für deinen Ort gilt am Ende die Regel deines Bundesstaates, deiner Provinz oder deines Territoriums.
 
-**Drittens: Die vier Länder sind nicht austauschbar.** Ein schneller, planbarer Weg zum unbefristeten Aufenthaltstitel, ein staatliches Gesundheitssystem, die Nähe zu Deutschland oder das höchste Gehaltsniveau – das alles bekommst du nicht in einem Land gleichzeitig. Das Kapitel „Welches Land passt zu dir?" hilft dir, deine eigenen Prioritäten zu ordnen, bevor du dich in die Tiefe eines einzelnen Länder-Teils stürzt.
+**Drittens: Die vier Länder sind nicht austauschbar.** Ein schneller, planbarer Weg zum unbefristeten Aufenthaltstitel, ein staatliches Gesundheitssystem, die Nähe zu Deutschland oder das höchste Gehaltsniveau – das alles bekommst du nicht in einem Land gleichzeitig. Das Kapitel „Welches Land passt zu dir?“ hilft dir, deine eigenen Prioritäten zu ordnen, bevor du dich in die Tiefe eines einzelnen Länder-Teils stürzt.
 
 **Viertens: Dieses Buch ist keine Beratung.** Bei Visum, Steuern, Immobilien und Vorsorge gilt: Lass dich von Fachleuten beraten, die deine Situation kennen. Was du hier lernst, hilft dir, die richtigen Fragen zu stellen und Angebote einzuordnen. Das spart Geld und schützt vor teuren Fehlern.
 
