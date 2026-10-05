@@ -164,4 +164,4 @@ Dieses Buch nennt für die USA, Kanada, Australien und Neuseeland eine Reihe von
 | ANZSCO | Berufsklassifikationscode, maßgeblich für Green List und AEWV-Lohnschwellen | INZ/Stats NZ | Neuseeland: Arbeit |
 | Job Check | Prüfverfahren des Arbeitgebers vor jedem AEWV-Antrag | INZ | Neuseeland: Arbeit |
 
-> **Stand:** 1. Oktober 2026. Formularnummern, Gebühren und Zuständigkeiten ändern USCIS, DOS und IRS für die USA sowie IRCC, ATO/INZ und die jeweiligen Steuerbehörden für Kanada, Australien und Neuseeland regelmäßig; prüfe vor jeder Antragstellung die aktuelle Fassung auf der jeweiligen Behördenseite.
+> **Stand:** September 2026. Formularnummern, Gebühren und Zuständigkeiten ändern USCIS, DOS und IRS für die USA sowie IRCC, ATO/INZ und die jeweiligen Steuerbehörden für Kanada, Australien und Neuseeland regelmäßig; prüfe vor jeder Antragstellung die aktuelle Fassung auf der jeweiligen Behördenseite.

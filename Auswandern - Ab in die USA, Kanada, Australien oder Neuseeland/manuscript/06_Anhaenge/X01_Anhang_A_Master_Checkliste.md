@@ -338,4 +338,4 @@ Die Schritte, die in Deutschland für alle vier Zielländer gleich sind, stehen 
 - [ ] Notfallset für mindestens drei Tage angelegt, GeoNet-App und Emergency Mobile Alert installiert (Neuseeland: Recht/Sicherheit)
 - [ ] Festen Videotelefonie-Termin mit der Familie in Deutschland trotz der 10 bis 12 Stunden Zeitverschiebung eingerichtet, Heimatbesuche zu Feiertagen früh gebucht (Neuseeland: Freunde/Kulturschock)
 
-> **Stand:** 1. Oktober 2026. Fristen, Gebühren und Bearbeitungszeiten in dieser Checkliste ändern sich häufig; prüfe vor jeder Kündigung, Buchung oder Behördenfahrt die aktuellen Angaben im jeweiligen Kapitel und auf den offiziellen Seiten.
+> **Stand:** September 2026. Fristen, Gebühren und Bearbeitungszeiten in dieser Checkliste ändern sich häufig; prüfe vor jeder Kündigung, Buchung oder Behördenfahrt die aktuellen Angaben im jeweiligen Kapitel und auf den offiziellen Seiten.
