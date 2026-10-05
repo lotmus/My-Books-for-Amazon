@@ -1,5 +1,15 @@
 # STATUS — Your First YouTube Channel That Rocks
 
+**Update 2026-10-05, finalize-for-KDP pass:** Asked to finalize the manuscript for KDP. The builder's front/back matter was already in good shape (title page with series line, author, copyright; auto-generated Contents; per-chapter annotated Sources backmatter; Glossary; Also by Lothar J. Musiol) — this pass was a final completeness and proofing check, not new infrastructure.
+
+Found and fixed one real gap: the backmatter "Official sources and updates" section had an annotated one-line summary for every chapter 1–14 but skipped chapter 15 (`The Channel Workbook`) entirely. Added the missing `*Chapter 15. ...*` line in `build_docx.py`'s `SOURCES` list, matching the existing style and cross-referencing chapters 12–13 per the workbook's own in-chapter Sources paragraph.
+
+Checked and found clean: no TODO/FIXME/placeholder text, no stray unrendered markdown, no double-spaced text, all `[bracket]` placeholders remaining are the intentional fill-in-the-blank template brackets in the workbook and Start This Week's viewer-sentence templates. The docx structure is complete end to end (Contents → Start here → Start this week → chapters 1–15 → The last word → Glossary → Sources → Also by). `KDP_Description.md`'s listing copy still accurately describes the final content; updated its revision date and corrected its character-count note (actual ~1,900, not ~1,750 — still well under KDP's 4,000-character limit).
+
+One item flagged, not fixed, because fixing it would mean leaving this folder: `build_docx.py`'s hardcoded `ALSO_BY` list is supposed to mirror a canonical list the author maintains at the repo root (`notes/ALSO_BY - canonical list.md`), per this book's own CLAUDE.md comment. This folder's scope rule says not to read or touch files outside it, so this pass could not verify that list is still in sync with the canonical one — worth a manual check by the author, or an explicit ask to this session to cross-check it.
+
+Re-ran the duplicate-sentence scan and stacked-callout check (both zero) and rebuilt the docx: 32,030 words, 46 tables total (9 case studies among them), all chapters present in order.
+
 **Update 2026-10-05, two of tier 3's cheap items, picked out and done now:** User agreed two tier-3 items were cheap, in-scope manuscript edits worth doing immediately rather than deferring: the glossary "why it matters" column, and shorter paragraphs in the policy-heavy chapters (3, 10, 11).
 
 - **Glossary.** `build_docx.py`'s `GLOSSARY` list (46 terms) changed from (term, definition) pairs to (term, definition, why_it_matters) triples; the render loop prints the third element as an italic "Why it matters:" clause after the definition, in the same flowing paragraph — not a new table, so the existing layout and the rest of the builder are untouched. Wrote one new sentence per term explaining why a reader should care, not just what the term means.
