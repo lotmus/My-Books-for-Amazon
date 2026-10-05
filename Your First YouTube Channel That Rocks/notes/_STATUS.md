@@ -1,6 +1,24 @@
 # STATUS — Your First YouTube Channel That Rocks
 
-## Current state
+**Update 2026-10-05, acted on an external review (Perplexity, 8.6/10), tiers 1–2 of 3:** User pasted a fresh external review scoring the merged book 8.6/10 with a 5-pass revision plan to reach 9.6–9.8. Asked how much to act on; user chose tiers 1 ("quick wins") and 2 ("quick wins + trim repetition") now, with tier 3 left as a list for later (below). Note: some of the review's complaints are about choices this book already made deliberately and documented (the "Checked October 2026" dateline, the single-running-example convention, the named-creator carve-out) — did not undo those on the review's say-so alone.
+
+Implemented:
+- **New: "Which path are you on?"** in `Start Here.md` — a symptom-based entry table (no channel yet / not found / found-but-leaving / no second video / near the gate / monetized-but-thin / about to use AI-sponsors-affiliates-stock), each row pointing at the actual chapters and sections that fix it. Replaces the old single-case "if you already post, start with ch14 §I" line, which is now one row of the table instead of a standalone redundant sentence.
+- **New: "Publish when these six things are true"** in `Start This Week.md`, right before Day 5. A concrete minimum-viable-publish gate built from what Days 1–4 already taught (viewer-phrase title, phone-size thumbnail, kept opening promise, shown result, logged rights, named next video) rather than inventing new criteria.
+- **New: a five-row diagnostic table** in `Read the Count.md` §VI (symptom → likely break → fix to test first), so the week sheet routine ends in a decision, not just six recorded numbers.
+- **Trimmed the "Thresholds change" callout** from 8 occurrences to 6: removed it from two places where it wasn't actually next to a threshold table (Ads/RPM §V, Grow Toward the Gate §I) and replaced the second with a one-line pointer back to Start Here. Left it full everywhere it sits beside an actual table of numbers (Start Here, Name the Viewer §III, Read the Count §I, Keep It Paying's multi-platform list, both tables in The Gates and the Review) — CLAUDE.md documents that as the actual rule ("it sits at every threshold table"), so the other two were over-application, not the rule itself.
+- **Softened four absolute-sounding lines** the review quoted, keeping the book's terse voice rather than the review's wordier suggested rewrites: "Nobody watches a video because it is good" (ch2), "A Short that never points at a long video ends there" (ch2), "A well-paid subject you cannot make fifty videos about pays nothing" (ch1), "Nobody records eleven clean minutes" (ch4). Left two the review also quoted — the thumbnail-click-vs-watch-time line and the "subscriber who never watches" line — unchanged, since both already carry a hedge ("almost no," "weaker signal") and aren't actually absolute in the current text.
+
+Re-ran the duplicate-sentence scan (zero flagged) and the stacked-callout check (zero) after these edits, and rebuilt the docx (31,066 words; both new tables confirmed rendering with the right row counts; all 9 case-study tables still present).
+
+**Tier 3 — not done, listed for a future pass if wanted:**
+1. Verification/dating pass: add a "verified on" date to every policy-sensitive table individually (right now the dates live in each chapter's one Sources paragraph, not per-table).
+2. A single visual "channel flywheel" diagram (viewer → click → kept promise → next video → watch hours → monetization), with the workbook sheets mapped onto it.
+3. Chapter-10 internal restructuring by urgency (never-skip-this / per-video risk / channel-wide risk / records to keep) rather than its current section order.
+4. Rewriting each chapter's "Claims that do not survive…" ending into a "Do this next" (one action today / one metric to check later / one mistake to avoid) format.
+5. A broader repetition cut (10–18% target) across the whole manuscript, not just the one callout handled above — the review specifically flagged repeated long-form-vs-Shorts explanations and repeated "don't chase tags/views" reminders across chapters as candidates.
+6. Two or three new permission-based mini case studies in a wider variety of niches, to reduce reliance on the bathroom-repair example as the one recurring illustration (the review's complaint here is in tension with CLAUDE.md's existing "no personal names, no named creators" convention for invented examples — any new ones would need to be generic/anonymized, not real creators, to stay consistent with that rule).
+7. Accessibility pass: shorter paragraphs in policy-heavy chapters, a consistent callout icon/visual language, editable-format workbook downloads, a "why it matters" column added to the glossary.
 
 **Update 2026-10-04, re-auditing my own fixes caught two new problems:** Asked to audit again after the Thaler fix. Re-reading my own prior edits (not just the mechanical checks) turned up two self-inflicted issues:
 

@@ -25,7 +25,7 @@ Test it on paper. Write twenty video titles for your viewer in one sitting, each
 Two more checks decide what the channel can earn later.
 
 - **Advertiser-friendly by default.** YouTube’s advertiser-friendly guidelines treat some subjects with caution, and a video in a sensitive category can run with limited ads or none. Chapter 10 has the rules. A channel can cover a hard subject. It should know, before the first upload, that the subject has a cost.
-- **What the audience is worth to an advertiser.** YouTube’s ad revenue page says advertisers pay different amounts by time of year, viewer location, and available ad formats. Chapter 11 explains the numbers. A well-paid subject you cannot make fifty videos about pays nothing.
+- **What the audience is worth to an advertiser.** YouTube’s ad revenue page says advertisers pay different amounts by time of year, viewer location, and available ad formats. Chapter 11 explains the numbers. A well-paid subject earns nothing if you run out of videos to make in it before the gate arrives.
 
 ## III. The money map
 

@@ -15,7 +15,19 @@ You do not need every chapter today. Each chapter opens with a layer label, so y
 
 One part of a later layer starts with your first video: the before-every-upload checklist in chapter 10, §XI. Copyright, AI disclosure, paid-promotion disclosure, and the audience setting apply from upload one.
 
-If you already post, start with chapter 14, §I. It finds the earliest break in the channel and sends you to the chapter that fixes it.
+## Which path are you on?
+
+The four layers sort chapters by topic. This sorts them by what is actually wrong today, so you can start reading at the break instead of at chapter 1.
+
+| If you are… | Start here |
+| --- | --- |
+| Starting from zero, no channel yet | Chapters 1–6, in order, then the six-week plan |
+| Publishing, but strangers are not finding the videos | Chapter 2, then chapter 7, §II–III |
+| Found, but viewers leave in the first seconds | Chapter 4, then chapter 7, §IV |
+| Watched, but nobody comes back for a second video | Chapter 5, §IV, then chapter 8 |
+| Near or past the eligibility gate | Chapters 9 and 10, then 11–13 |
+| Monetized, but the income is thin or one stream | Chapter 14, §I finds the earliest break and sends you on from there |
+| About to use AI tools, stock footage, a sponsor, or an affiliate link | Chapters 3 and 10, before your next upload |
 
 ## The workbook is the spine
 

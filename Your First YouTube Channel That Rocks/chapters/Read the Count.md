@@ -100,6 +100,16 @@ Pick a day. Open the week sheet (chapter 15, §IV). Author recommendation: fill 
 
 Then close Studio. Reading the same graph every day is not research. A video’s numbers on day two are a forecast of almost nothing, and checking hourly is how a sensible plan turns into three changes before the first one had time to show.
 
+Six numbers do not say what to fix on their own. Match the pattern to the likely break before you change anything, and test one line of the sheet at a time.
+
+| Pattern on the sheet | Likely break | Fix to test first |
+| --- | --- | --- |
+| Few people see it at all | A packaging or discovery problem | Rewrite the title around the search terms card’s exact phrasing |
+| Seen, but few click | Title or thumbnail mismatch | Change one of the two — not both in the same week |
+| Clicked, but they leave in the first seconds | The opening did not keep the title’s promise | Rewrite the first thirty seconds to show the result sooner |
+| They stay, but few watch a second video | No clear next step | Name the next video earlier, and link it from the end screen |
+| Watch hours climb, but the gate stalls | The wrong route, or not enough videos yet | Recheck which hour bar applies (chapter 9), and whether all eight videos exist |
+
 *In short:* Plan by the Earn tab’s qualified counts. Read the click, then the stay, then whether they watched a second video. Change one thing. Note the date when YouTube changes a definition.
 
 ## VII. Claims that do not survive the week sheet

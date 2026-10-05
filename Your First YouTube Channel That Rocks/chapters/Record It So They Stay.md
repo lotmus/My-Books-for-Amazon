@@ -92,7 +92,7 @@ Many of the eight jobs are better as a screen than as a face: the spreadsheet, t
 
 ## V. Record in pieces, cut for pace
 
-Nobody records eleven clean minutes. Record the video one section at a time, following the script’s shape from §II. If you stumble, pause, and start that sentence again from the beginning. Do not stop the recording. The pause is easy to find in the edit, and a clean restart is easier to cut than a correction mid-sentence.
+Few people record eleven clean minutes in one take. Record the video one section at a time, following the script’s shape from §II. If you stumble, pause, and start that sentence again from the beginning. Do not stop the recording. The pause is easy to find in the edit, and a clean restart is easier to cut than a correction mid-sentence.
 
 In the edit, the job is pace, not polish:
 

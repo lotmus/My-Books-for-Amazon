@@ -6,7 +6,7 @@
 
 *Layer: Start now. Workbook: the title and opening lines of the video-job sheet (chapter 15, §III).*
 
-Nobody watches a video because it is good. They watch because a thumbnail and a title won a contest that lasted under a second. If the video loses that contest, nobody finds out it was good. This chapter is about winning it honestly. A few facts decide whether the win holds: a character limit, a category of words, a caption file. You can check each one in the upload form.
+A good video does not win the click on its own. A thumbnail and a title win a contest that lasts under a second, and only then does the video get a chance to prove it was worth it. If it loses that contest, nobody finds out it was good. This chapter is about winning it honestly. A few facts decide whether the win holds: a character limit, a category of words, a caption file. You can check each one in the upload form.
 
 Every count the Partner Program asks for starts here. An impression that never becomes a view adds no watch hours and no subscribers. The title and the thumbnail are how the viewer from chapter 1 recognizes their own problem and clicks. Packaging for nobody in particular gets clicks from nobody in particular.
 
@@ -70,7 +70,7 @@ Documented platform guidance: [YouTube’s recommendation-system page](https://s
 
 ## VI. Shorts and long videos together
 
-A Short can find a new viewer. The long video is where they can stay, and official rule: only long-form time fills the watch-hour bar (chapter 9). A Short that never points at a long video ends there.
+A Short can find a new viewer. The long video is where they can stay, and official rule: only long-form time fills the watch-hour bar (chapter 9). A Short that never points at a long video is attention that never reaches the bar.
 
 Connect them in two ways. Set the long video as the Short’s related video, and say the destination out loud inside the Short. Official rule: a Short’s description and comments are not clickable, including a pinned comment ([sharing-links page](https://support.google.com/youtube/answer/13748639)).
 
