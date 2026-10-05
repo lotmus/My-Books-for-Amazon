@@ -268,4 +268,4 @@ Bei Kleider- und Schuhgrößen orientiert sich Neuseeland eng an Australien, mit
 
 > **Achtung:** Frag beim Schuhkauf in Neuseeland im Zweifel nach, ob die angegebene Größe „AU“ oder „US“ meint. Beide Systeme sind im Umlauf, und bei Herrenschuhen liegt genau eine Nummer dazwischen.
 
-> **Stand:** 1. Oktober 2026. Physikalische Umrechnungen (Temperatur, Länge, Gewicht, Volumen) sind zeitlos. Kleider- und Schuhgrößen bleiben markenabhängige Näherungswerte; prüfe vor dem Kauf immer die Maßtabelle des Anbieters. Für Kanada gilt bei Stecker und Spannung dieselbe Logik wie für die USA (Typ A/B, 120 V, 60 Hz); für Australien und Neuseeland der eigene Steckertyp I (230 V, 50 Hz).
+> **Stand:** September 2026. Physikalische Umrechnungen (Temperatur, Länge, Gewicht, Volumen) sind zeitlos. Kleider- und Schuhgrößen bleiben markenabhängige Näherungswerte; prüfe vor dem Kauf immer die Maßtabelle des Anbieters. Für Kanada gilt bei Stecker und Spannung dieselbe Logik wie für die USA (Typ A/B, 120 V, 60 Hz); für Australien und Neuseeland der eigene Steckertyp I (230 V, 50 Hz).
