@@ -125,7 +125,7 @@ Das Bulletin nennt Stichtage, aber nicht die Verfahrenszeit davor und danach. Di
 | Weg (Deutschland) | Gesamtdauer ab Start | Was den Ausschlag gibt |
 |---|---|---|
 | PERM, EB-2 | ca. 2,5–4,5 Jahre | Analystenprüfung, I-485 |
-| PERM, EB-3 | wie EB-2, plus Wartezeit | Stichtag 1. September 2024 |
+| PERM, EB-3 | wie EB-2, plus Wartezeit | Stichtag 15. Mai 2024 |
 | EB-1C, EB-1A, NIW | ca. 1–2,5 Jahre bei Genehmigung | Ablehnungsrisiko |
 | Ehepartner eines US-Bürgers | ca. 20–24 Monate | I-130 ca. 17 Monate, dann Konsulat |
 | Indien, EB-3 | ca. 12–13 Jahre Rückstand | Stichtag 2014 |
