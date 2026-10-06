@@ -1,6 +1,6 @@
 # A Closing Word
 
-Nothing in this book is complicated on its own. Royalty maths is arithmetic. Keyword slots are a form field. A launch is a calendar with the same events moved closer together. What makes self-publishing hard is that every step lands on one person, and it is tempting to skip the unglamorous ones (a real editing pass, an honest category, the tax interview) in favour of the exciting one: pressing Publish.
+Nothing in this book is complicated on its own. Royalty math is arithmetic. Keyword slots are a form field. A launch is a calendar with the same events moved closer together. What makes self-publishing hard is that every step lands on one person, and it is tempting to skip the unglamorous ones (a real editing pass, an honest category, the tax interview) in favor of the exciting one: pressing Publish.
 
 This book cannot promise you money, and it has tried not to. What it can promise is that every number in it can be checked: the platform rules against the dated notes, the worked examples with a calculator, and your own results against your own money sheet.
 
@@ -38,11 +38,11 @@ If you remember one thing, make it the keep test from the start of Part I. Befor
 
 - [ ] Tax interview completed and treaty claimed if it applies (Chapter 27)
 - [ ] AI-content question answered truthfully (Chapter 33)
-- [ ] KDP Select enrolment, and its renewal date, decided on purpose (Chapter 28)
+- [ ] KDP Select enrollment, and its renewal date, decided on purpose (Chapter 28)
 
 ### Launch
 
-- [ ] Advance readers recruited and files sent two to three weeks ahead (Chapters 7, 11, and 31)
+- [ ] Advance readers recruited and files sent two to three weeks ahead (Chapters 7, 11, and 32)
 - [ ] Every request for a review says it is optional and asks for an honest one (Chapter 6)
 - [ ] If running ads: keep, conversion assumption, cap, and stop date written first (Chapters 9 and 26)
 
@@ -91,7 +91,7 @@ For tax questions specific to you, a professional who handles royalty or cross-b
 
 # Appendix D — Thirty-Two Ways a Book Can Pay You
 
-Chapter 8 asks you to pick three of these: one price, one next book, one format or extra. Run each through the same four steps:
+Chapter 8 asks you to pick three of these, each from a different section. Run each through the same four steps:
 
 1. Write the keep for that product, from Chapter 3 or KDP’s estimate.
 2. Do the smallest version that can teach you something.
@@ -144,7 +144,7 @@ Each idea gives the smallest version and the sign to stop. Keeps are the Chapter
 31. **Spend on ads only after the keep is written down** (Chapter 9). Smallest version: the keep line filled before you open the ads console. Stop if that line is blank.
 32. **Leave the old books up, working.** Smallest version: open each live sample on your phone. Stop leaving a book up when its sample is broken: fix it that week or unpublish it.
 
-Leave these for later: merchandise, paid fan clubs, and large courses with no audience. They add work and rarely add a keep until strangers already want the book.
+Leave these for later: merchandise, paid fan clubs, and large courses with no audience. They add work, and none has a keep you can write down until strangers already want the book.
 
 # Glossary
 
@@ -168,9 +168,15 @@ Keep. What one sale leaves you after Amazon’s share and, where it applies, del
 
 KENP. Kindle Edition Normalized Pages, the page count Amazon uses to pay Kindle Unlimited reads. Chapter 17.
 
-KDP Select. A 90-day, ebook-only exclusive enrolment that adds Kindle Unlimited and promotions. Chapter 28.
+KDP Select. A 90-day, ebook-only exclusive enrollment that adds Kindle Unlimited and promotions. Chapter 28.
+
+Negative keyword. A search term you tell the ad system never to show your ad for. Chapter 26.
+
+Read-through. The share of readers of one book who go on to buy the next. Chapters 10 and 24.
 
 Seventy percent band. On Amazon.com, list prices from $2.99 to $12.99 where the 70 percent royalty can apply. The top was $9.99 until 7 July 2026. Chapter 3.
+
+Sponsored Products. Amazon’s pay-per-click ads for individual books. Chapters 9 and 26.
 
 Thumbnail test. Whether the title can be read when the cover is shown tiny. Chapter 5.
 
@@ -178,7 +184,7 @@ VAT. Value-added tax, charged on ebook sales in some marketplaces outside the Un
 
 # Notes
 
-Every note was checked on 3 October 2026. Platform pages change; look again before you act. Worked examples, field practice, and recommendations in this book are not Amazon rules and are not sourced to these pages.
+Notes [1] to [30] were checked on 3 October 2026; notes [31] to [33] on 6 October 2026. Platform pages change; look again before you act. Worked examples, field practice, and recommendations in this book are not Amazon rules and are not sourced to these pages.
 
 [1] Amazon KDP Help, “Customer Reviews.” https://kdp.amazon.com/en_US/help/topic/G202101910
 
@@ -239,6 +245,12 @@ Every note was checked on 3 October 2026. Platform pages change; look again befo
 [29] Amazon Help, “Send to Kindle.” https://www.amazon.com/gp/help/customer/display.html?nodeId=G7NECT4B4ZWHQ8WV
 
 [30] Amazon KDP Help, “Write a Book Description.” https://kdp.amazon.com/en_US/help/topic/G201189630
+
+[31] Amazon KDP Help, “Timelines.” https://kdp.amazon.com/en_US/help/topic/G202173620
+
+[32] ACX Help, “How royalties work.” https://help.acx.com/s/article/how-royalties-work
+
+[33] Amazon KDP Help, “Audiobooks with virtual voice eligibility and troubleshooting.” https://kdp.amazon.com/en_US/help/topic/GJSXT4GZLP4PL62B
 
 # About the Author
 

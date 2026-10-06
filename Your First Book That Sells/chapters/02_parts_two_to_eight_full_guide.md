@@ -2,19 +2,19 @@
 
 ## Before the Full Guide
 
-Part I walked one book through one month with one action per chapter. The full guide goes back over the same ground in production order and adds what Part I left out: the edge cases, the marketplace detail, the reasons, and the tests. It does not re-teach Part I. Where a rule was given there in full, the chapters here name the chapter and assume the figure is already on your sheet.
+Part I walked one book through its first months with one action per chapter. The full guide goes back over the same ground in production order and adds what Part I left out: the edge cases, the marketplace detail, the reasons, and the tests. It does not re-teach Part I. Where a rule was given there in full, the chapters here name the chapter and assume the figure is already on your sheet.
 
 One thing comes before every chapter that follows: categories, keywords, price, ads, and reviews only work on a book a reader wants to finish. No amount of keyword research rescues a book that does not keep its cover’s promise.
 
 ## Chapter 16: Why Self-Publish
 
-Self-publishing through Kindle Direct Publishing (KDP) turns a long chain of agents, editors, and contracts into one step: you upload a file, set a price, and the book usually goes on sale within about 72 hours, with no one’s permission but your own. The barrier to publishing dropped to almost nothing. The barrier to publishing well did not move. This book is about the second barrier.
+Self-publishing through Kindle Direct Publishing (KDP) turns a long chain of agents, editors, and contracts into one step: you upload a file, set a price, and, after KDP’s review, the book can take up to 72 hours to go live [31]. No agent or publisher has to say yes. Putting a book on sale takes little; publishing it well takes work, and this book is about the second part.
 
 ### The three doors
 
-Traditional publishing pays an advance and a royalty set by contract, provides editing, design, and distribution, and takes control of price, cover, and timing. It moves on a timeline of years, and for a debut author without a platform the door is narrow.
+Traditional publishing pays an advance and a royalty set by contract, provides editing, design, and distribution, and takes control of price, cover, and timing. It moves on a timeline of years, and for a debut author without a platform the door can be hard to open.
 
-Hybrid and vanity publishers charge the author to publish. A few are transparent about what each fee buys. Many charge high prices for things that cost little or nothing to do yourself, such as an ISBN, an ebook conversion, or a KDP upload. Chapter 29 shows how to tell them apart.
+Hybrid and vanity publishers charge the author to publish. Some are transparent about what each fee buys. Others charge high prices for things that cost little or nothing to do yourself, such as an ISBN, an ebook conversion, or a KDP upload. Chapter 29 shows how to tell them apart.
 
 Self-publishing makes you the publisher. Nobody stops you and nobody helps you, unless you hire the help. In exchange you keep your rights, earn the royalties in Chapter 3 and Chapter 17, and can change a price or fix a typo the same day. The cost is that editing, cover, formatting, metadata, pricing, launch, and advertising become your job, in your own hours or your own money.
 
@@ -67,7 +67,7 @@ EU prices include VAT, and the royalty is figured on the price without VAT, so t
 
 ### Kindle Unlimited and the page-read fund
 
-**Platform rule [13] [10].** If your ebook is in KDP Select, Kindle Unlimited subscribers can borrow it and you are paid for pages read, measured in Kindle Edition Normalized Pages (KENP), not your Word page count. Each month Amazon sets a KDP Select Global Fund, splits it among countries, and divides each country’s share by the pages read there. You can earn for at most 3,000 pages per title per customer. For July 2026 Amazon announced a fund of $67.6 million. KDP also runs a separate, discretionary monthly All Stars bonus for Select titles that reach certain customer-engagement marks, with its own pool size announced alongside the fund each month. Amazon does not publish a single per-page rate; your own royalty report shows what your pages earned, and monthly figures are finalised around the 15th of the following month.
+**Platform rule [13] [10].** If your ebook is in KDP Select, Kindle Unlimited subscribers can borrow it and you are paid for pages read, measured in Kindle Edition Normalized Pages (KENP), not your Word page count. Each month Amazon sets a KDP Select Global Fund, splits it among countries, and divides each country’s share by the pages read there. You can earn for at most 3,000 pages per title per customer. For July 2026 Amazon announced a fund of $67.6 million. KDP also runs a separate, discretionary monthly All Stars bonus for Select titles that reach certain customer-engagement marks, with its own pool size announced alongside the fund each month. Amazon does not publish a single per-page rate; your own royalty report shows what your pages earned, and monthly figures are finalized around the 15th of the following month.
 
 **Worked example.** At a hypothetical $0.0045 per page, one full read of a 300-page (KENP) book pays 300 × $0.0045 = $1.35. That is less than the $3.28 kept on a $4.99 sale, but it may come from a reader who would never have paid $4.99. Whether that trade suits your book is the question in Chapter 28.
 
@@ -99,7 +99,7 @@ Chapter 4’s two-sentence test still applies to both: a stranger should be able
 
 **Platform rule [1] [2].** The review rule itself does not change: optional, honest, no rating requested, the same roster-and-invitation method from Chapters 6 and 7 for every genre. What changes is what you are screening advance readers for. A novel needs readers who read in that genre and will judge the story on its own terms. A nonfiction book needs readers who either have the problem it solves or enough standing in the subject to judge whether the solution actually works; a glowing review from someone who never had the problem is worth less than a flat one from someone who did.
 
-**Field practice.** Nonfiction authors often publish from an existing platform — a blog, a podcast, a channel — built before the book exists. Pat Flynn’s Smart Passive Income site, built years before his own books, is a widely known example of an audience preceding the book rather than the book building the audience cold, the way Part I’s launch does for a debut novelist with no list yet. Neither path is required, and the launch chapters (Chapters 6, 7, and 25) assume no existing audience on purpose; a platform mainly changes which of those steps you have already done before you start.
+**Field practice.** Nonfiction authors often publish from an existing platform — a blog, a podcast, a channel — built before the book exists. In that case the audience comes before the book, rather than the book building an audience cold, as Part I’s launch does for a debut novelist with no list yet. Neither path is required, and the launch chapters (Chapters 6, 7, and 25) assume no existing audience on purpose; a platform mainly changes which of those steps you have already done before you start.
 
 ### A catalog means something different in each case
 
@@ -117,18 +117,18 @@ Price bands, delivery charges, the review rule, the ad cap, the AI-disclosure ru
 
 ### Four checks in the store
 
-**Field practice.** These are common checks, not Amazon rules. In the category you are considering:
+**Recommendation.** These are suggested checks, not Amazon rules. In the category you are considering:
 
 - Compare Best Sellers with Hot New Releases. Long-standing bestsellers show past demand; recent releases that already have reviews show demand now.
 - Compare review counts with publication dates. Many reviews on an old book show the category had readers; a fair number on a book a few months old shows readers are buying now.
 - Look at who publishes there. A shelf held by a few large publishers with deep backlists is hard to enter. A shelf of single-book authors is easier to be seen on, though sometimes it is fragmented because demand is small.
 - Read the one- and two-star reviews of the current leaders. They tell you what readers wanted and did not get. That gap can become your outline.
 
-**Field practice.** A hypothetical beginner’s hobby guide: the top of the list is held by three books six to ten years old; two books published in the last 90 days already have dozens of reviews; four single-book authors sit in the top twenty; and the low-star reviews of all three leaders complain that there is no troubleshooting for humid climates. None of that guarantees a sale. It does give you a shelf with live buyers and one checkable gap to lead with in your subtitle and description (Chapter 23).
+**Worked example.** A hypothetical beginner’s hobby guide: the top of the list is held by three books six to ten years old; two books published in the last 90 days already have dozens of reviews; four single-book authors sit in the top twenty; and the low-star reviews of all three leaders complain that there is no troubleshooting for humid climates. None of that guarantees a sale. It does give you a shelf with live buyers and one checkable gap to lead with in your subtitle and description (Chapter 23).
 
 ### Write to a shelf
 
-Writing to a shelf means knowing, before you draft, which existing shelf your book belongs on and what a reader there expects. It is the opposite of chasing a trend: by the time a trend shows on the charts, many authors have seen it. A book for one clearly defined reader, with a specific level, goal, and constraint, gives its cover, title, and sample one message to send.
+Writing to a shelf means knowing, before you draft, which existing shelf your book belongs on and what a reader there expects. It is the opposite of chasing a trend: by the time a trend shows on the charts, other authors have already seen it. A book for one clearly defined reader, with a specific level, goal, and constraint, gives its cover, title, and sample one message to send.
 
 ### Standalone or series
 
@@ -136,7 +136,7 @@ A standalone earns once per reader. A series or a set of related guides can earn
 
 ## Chapter 20: From Draft to Manuscript
 
-A finished draft and a finished manuscript are not the same object. The gap between them is where most self-published books lose readers, because the person who wrote a book reads what they meant, not what is on the page.
+A finished draft and a finished manuscript are not the same object. The gap between them is where books lose readers, because the person who wrote a book reads what they meant, not what is on the page.
 
 ### The passes, in order
 
@@ -150,7 +150,7 @@ These are different skills. **Recommendation.** If you can hire only one, hire t
 ### A minimum revision checklist
 
 - Read the book aloud, or have text-to-speech read it to you.
-- Check every number and every cross-reference after the last reorganisation.
+- Check every number and every cross-reference after the last reorganization.
 - Run one adversarial pass, looking only for claims you cannot back up and promises the book does not keep.
 - Give the book to one reader who has never seen it and ask where they got confused or bored.
 - Run at least one pass that is not simply reading again: a fact-check against sources, a search for repeated words, or a consistency script.
@@ -188,19 +188,19 @@ Chapter 5 gives the thumbnail test; this chapter assumes your title passes it an
 
 ### Genre conventions exist because readers use them
 
-Shoppers scan a category page by pattern: they have learned what a thriller looks like, and what a business book looks like. **Recommendation.** Before you commission or design a cover, open the current bestsellers in your exact subcategory and note what they share: palette, type weight, how much is image and how much is type, and where the author name sits. Break a convention only on purpose, after you know what it signals.
+Shoppers may scan a category page by pattern, recognizing what a thriller or a business book usually looks like. **Recommendation.** Before you commission or design a cover, open the current bestsellers in your exact subcategory and note what they share: palette, type weight, how much is image and how much is type, and where the author name sits. Break a convention only on purpose, after you know what it signals.
 
 ### Hierarchy: title, subtitle, author
 
 For most nonfiction the eye should move from title (the hook) to subtitle (the specific promise) to author name. Put your name first only if readers already search for it. If all three are the same size, the eye has nowhere to start.
 
-**Platform rule [17].** The title, subtitle, and author name on the cover must match what you enter in KDP, and a cover may not closely imitate another book’s layout, colours, fonts, or images.
+**Platform rule [17].** The title, subtitle, and author name on the cover must match what you enter in KDP, and a cover may not closely imitate another book’s layout, colors, fonts, or images.
 
 ### DIY, template, or designer
 
-- KDP’s Cover Creator is free and recognisable as a template: fine for testing, rarely enough for a book you will advertise.
-- Premade templates and freelancers working from a brief range, as **field practice**, from tens of dollars to a few hundred, and can look professional if the template was built for your genre.
-- A designer who works in your category costs more, often several hundred dollars and up, and knows the conventions without being told.
+- KDP’s Cover Creator is free and recognizable as a template: fine for testing.
+- Premade templates and freelancers working from a brief cost less than a custom designer and can look professional if the template was built for your genre.
+- A designer who works in your category costs more and may already know the conventions.
 
 Whichever you choose, the finished cover goes through the thumbnail test before you pay the final invoice.
 
@@ -212,7 +212,7 @@ A shopper finds a book by searching or by browsing. Keywords serve the first pat
 
 ### Keywords
 
-**Platform rule [18] [17].** KDP gives you up to seven keywords or short phrases; KDP recommends phrases of two or three words. KDP asks you to avoid:
+**Platform rule [18] [17].** KDP gives you up to seven keywords or short phrases. KDP asks you to avoid:
 
 - words already in your title, contributor names, or chosen categories;
 - claims about quality or rank, such as “best” or “bestselling,” and promotional words such as “free”;
@@ -220,7 +220,7 @@ A shopper finds a book by searching or by browsing. Keywords serve the first pat
 - other authors’ names, other books’ titles, and brands you do not own;
 - Amazon program names such as “Kindle Unlimited” or “KDP Select.”
 
-Misleading keywords are not a grey area; KDP states a zero-tolerance policy for metadata meant to mislead.
+Misleading keywords are not a gray area; KDP states a zero-tolerance policy for metadata meant to mislead.
 
 **Recommendation.** Build your seven from two free sources: the suggestions that appear as you type in Amazon’s search bar, and the words readers use in reviews of comparable books. Search each phrase on Amazon before you keep it; if the results are not books like yours, drop it. Keywords can be changed as often as you like, so revisit them once the book has a few weeks of data.
 
@@ -228,7 +228,7 @@ Misleading keywords are not a grey area; KDP states a zero-tolerance policy for 
 
 **Platform rule [15].** You choose up to three categories in KDP, based on your primary marketplace and audience, and you can change them later under Edit details; a change can take up to 72 hours to show. Categories differ by marketplace and format. KDP may move a book whose category does not match its content, and KDP Support does not recommend categories.
 
-**Field practice.** Many authors choose the most specific true category they can, because a book with modest sales is more visible near the top of a small category than lost in a large one, and a high place in a small category can earn a “Best Seller” badge on that category’s list. Amazon does not publish how its ranks are calculated. **Recommendation.** Choose for accuracy first; a wrong shelf brings the wrong readers, and KDP does not tolerate misleading categorisation.
+**Recommendation.** Choose the most specific category that is still true: a book can be easier to see near the top of a small category than lost in a large one. Amazon does not publish how its ranks are calculated, and nothing here guarantees a badge. Choose for accuracy first; a wrong shelf brings the wrong readers, and KDP does not tolerate misleading categorization.
 
 ### Your product page
 
@@ -255,7 +255,7 @@ Chapter 3 gives the keep and Chapter 17 the cliff and the edge cases; this chapt
 
 ### The default range
 
-**Recommendation.** For most first nonfiction ebooks on Amazon.com, start between $3.99 and $6.99: inside the 70 percent band, high enough not to look slight, and low enough to be an easy decision against a felt problem. A narrow professional or technical book solving an expensive problem can test higher in the band. A first novel usually sits between $2.99 and $4.99.
+**Recommendation.** For most first nonfiction ebooks on Amazon.com, start between $3.99 and $6.99: inside the 70 percent band, high enough not to look slight, and low enough to be an easy decision against a felt problem. A narrow professional or technical book solving an expensive problem can test higher in the band. A first novel can start between $2.99 and $4.99.
 
 **Test it yourself.** Change only the price, by one step, and hold it for at least two to four weeks before you judge (the keep test’s date line). Compare money kept, not copies sold.
 
@@ -279,7 +279,7 @@ KDP sets a minimum print list price so the royalty cannot go negative (Chapter 1
 
 ### When to move the price
 
-- Raise when proof exists, when a sequel launches, when a promotion ends, or when comparable books on your shelf have moved. Raise a dollar at a time and wait a full week before deciding again.
+- Raise when proof exists, when a sequel launches, when a promotion ends, or when comparable books on your shelf have moved. Raise a dollar at a time and wait the same two to four weeks before deciding again.
 - Cut for a scheduled promotion you can announce, not out of impatience on a quiet day.
 - Never tie a price cut to a review. The free or discounted copy is the only concession allowed (Chapter 6).
 
@@ -287,7 +287,7 @@ KDP sets a minimum print list price so the royalty cannot go negative (Chapter 1
 
 A launch does not need a large existing audience. It needs concentration: the reviews, the purchases from people who asked to hear from you, and any promotion you run, landing in the same short window.
 
-**Field practice.** A concentrated launch is widely used because recent sales can improve a book’s place on Amazon’s best-seller and new-release lists, which are recalculated often. Amazon does not disclose the full ranking algorithm, so treat the size of the effect as unknown and do not pay for a launch on the promise of a ranking.
+**Recommendation.** Concentrate your launch effort in one short window. Amazon does not disclose whether or how recent sales affect a book’s place on its lists, so treat any effect as unknown and do not pay for a launch on the promise of a ranking.
 
 ### Pre-orders: a deadline you set for yourself
 
@@ -301,7 +301,7 @@ Chapter 6 gives the review rule, and Chapter 7 the invitation. Chapter 32 covers
 
 ### Launch week
 
-**Recommendation.** Put the review link, the note to your list, and any capped ad (Chapter 9) on the same publication day rather than spreading them out. Use the six-week calendar in Chapter 11. A specific, accurate category (Chapter 23) gives a small burst of sales the best chance to be visible; it does not guarantee a badge.
+**Recommendation.** Put the review link, the note to your list, and any capped ad (Chapter 9) on the same publication day rather than spreading them out. Use the six-week calendar in Chapter 11. A specific, accurate category (Chapter 23) may make a small burst of sales easier to see; it does not guarantee a badge.
 
 ## Chapter 26: Amazon Ads Without Wasting Money
 
@@ -309,7 +309,7 @@ Chapter 9 sets the cap and the break-even click price; this chapter assumes thos
 
 ### Automatic first, manual second
 
-**Field practice.** Many authors start with one automatic-targeting Sponsored Products campaign, in which Amazon chooses where to show the ad from the book’s own details. After a couple of weeks its search-term report shows which customer searches led to clicks and sales. Phrases that converted move into a manual campaign where you set each bid; phrases that spent without selling become negative keywords. The loop then repeats.
+**Recommendation.** Start with one automatic-targeting Sponsored Products campaign, in which Amazon chooses where to show the ad from the book’s own details. After a couple of weeks its search-term report shows which customer searches led to clicks and sales. Phrases that converted move into a manual campaign where you set each bid; phrases that spent without selling become negative keywords. The loop then repeats.
 
 ### Break-even ACOS
 
@@ -333,7 +333,7 @@ Break-even is a line, not a target. A small, deliberate loss during launch week 
 
 ## Chapter 27: Getting Paid: Taxes, Payments, and Reporting
 
-The most common reason a first royalty payment is late or smaller than expected has nothing to do with sales: it is an incomplete tax interview. This chapter is the plumbing that makes sure the money reaches you at the rate it should.
+A first royalty payment can be late or smaller than expected for reasons that have nothing to do with sales, such as an incomplete tax interview. This chapter is the plumbing that makes sure the money reaches you at the rate it should.
 
 ### The tax interview sets your withholding
 
@@ -378,7 +378,7 @@ Once a book is ready, you decide whether its ebook is sold only through Amazon o
 
 ### What going wide gives you
 
-Going wide means selling the ebook through other retailers and library platforms, by uploading to each store yourself or through a distributor that reaches several for a share of the sales. Your income no longer depends on one platform’s rules, and some readerships buy more often elsewhere or borrow through libraries. You give up page-read income and Select’s promotions, and you manage more accounts.
+Going wide means selling the ebook through other retailers and library platforms, by uploading to each store yourself or through a distributor that reaches several for a share of the sales. Your income no longer depends on one platform’s rules, and your readers may buy or borrow elsewhere, including through libraries. You give up page-read income and Select’s promotions, and you manage more accounts.
 
 ![Two boxes comparing KDP Select and wide, both leading to one 90-day test; renew Select if page reads carry real weight, or untick renewal and go wide if other stores or libraries matter more.](../figures/select_vs_wide.png)
 
@@ -386,17 +386,17 @@ Going wide means selling the ebook through other retailers and library platforms
 
 **Test it yourself.** Enroll the first book for one term. Record sales, pages read, and the page-read money from the final monthly reports. At the end of the term, decide the next term from those numbers.
 
-**Worked example.** A 300-page (KENP) ebook at $4.99 keeps $3.28 per sale. Suppose 300 readers in one term. If all 300 buy it, wide or in Select, the term keeps 300 × $3.28 = $984. If instead 120 of them read it in full through Kindle Unlimited at a hypothetical $0.0045 per page, the term keeps 180 × $3.28 + 120 × 300 × $0.0045 = $590.40 + $162 = $752.40. That same $752.40 is a loss or a gain depending on one fact only you can know: if those 120 would have bought the book anyway, Select cost you $984 − $752.40 = $231.60; if they would never have paid $4.99 at all, Select earned you $752.40 that wide would have earned nothing on. Select wins only if it brings readers who would not have paid $4.99 at all, and that number is exactly what one real term tells you.
+**Worked example.** A 300-page (KENP) ebook at $4.99 keeps $3.28 per sale. Suppose 300 readers in one term. If all 300 buy it, wide or in Select, the term keeps 300 × $3.28 = $984. If instead 120 of them read it in full through Kindle Unlimited at a hypothetical $0.0045 per page, the term keeps 180 × $3.28 + 120 × 300 × $0.0045 = $590.40 + $162 = $752.40. Whether that $752.40 is a loss or a gain depends on one fact only you can know. If those 120 would have bought the book anyway, Select cost you $984 − $752.40 = $231.60. If they would never have paid $4.99, the 180 buyers pay you $590.40 either way, and Select added only the $162 in page reads. Select wins only if the page reads from readers who would not have bought outweigh the sales it displaces, and one real term shows you which it is.
 
-**Field practice.** Authors widely report that Kindle Unlimited matters most for fast-reading series fiction such as romance, fantasy, and thrillers, and less for many nonfiction categories. That is a pattern, not a rule, and your own term is the only evidence that counts for your book.
+**Test it yourself.** Whether Kindle Unlimited suits your book depends on your genre and your readers. Your own term is the only evidence that counts.
 
 ## Chapter 29: Avoiding the Traps
 
-Everything in this book so far is free and documented. That is exactly what a set of scams and shortcuts is built to hide. None of the traps below requires bad intent; most are walked into by authors who meant well.
+Everything in this book so far is free and documented. That is exactly what a set of scams and shortcuts is built to hide. None of the traps below requires bad intent.
 
 ### Vanity and predatory publishers
 
-The shape repeats: a fee, from hundreds to many thousands of dollars, for things that cost nothing (an ISBN, a KDP upload, a basic conversion) or cost far less elsewhere. Warning signs:
+The shape repeats: a fee for things that cost nothing (an ISBN, a KDP upload, a basic conversion) or cost far less elsewhere. Warning signs can include:
 
 - Unsolicited praise for a manuscript you never sent them.
 - Upfront fees for “access” to distribution that KDP already gives you free.
@@ -410,22 +410,22 @@ Buying reviews, trading them, or paying for a “ranking boost” breaks Amazon�
 
 ### Volume publishing and AI flooding
 
-Mass-producing thin, lightly reviewed books to flood a category is the same trap at scale. KDP now limits every account to two new titles per format per week (Chapter 15), requires disclosure of AI-generated content (Chapter 33), and removes books that create a poor customer experience [8]. A flood of weak books under one name also damages trust in your better books, because a reader’s next click is often “more by this author.”
+Mass-producing thin, lightly reviewed books to flood a category is the same trap at scale. KDP now limits every account to two new titles per format per week (Chapter 15), requires disclosure of AI-generated content (Chapter 33), and removes books that create a poor customer experience [8]. A flood of weak books under one name can also hurt your better books, because readers who dislike one may not try another.
 
 ### Copyright and licensing traps
 
-Two mistakes recur. The first is assuming something is public domain when it is not: status depends on dates and on the country, and a translation, annotation, or edited edition of an old work can carry its own copyright (Chapter 33). The second is using an image without a licence that covers commercial use in a book. Read the licence for every image, every time.
+Two mistakes recur. The first is assuming something is public domain when it is not: status depends on dates and on the country, and a translation, annotation, or edited edition of an old work can carry its own copyright (Chapter 33). The second is using an image without a license that covers commercial use in a book. Read the license for every image, every time.
 
 ### Two triggers that need no bad intent
 
-- Duplicate or near-duplicate content: the same book, or a lightly reworded version, under a new title, cover, or account. A relaunch that changes only the cover can look like this.
+- Undifferentiated public-domain editions: KDP does not allow them when a free version is available in its store [8].
 - Breaking Select exclusivity by forgetting: a book enrolled months ago, later included in a website giveaway or a bundle elsewhere (Chapter 28).
 
-Add misleading keywords (Chapter 23) and a skipped AI disclosure (Chapter 33), and you have the common causes of account trouble that need no malice at all. Run them as a checklist before every launch.
+Add misleading keywords (Chapter 23) and a skipped AI disclosure (Chapter 33), and you have several ways to get into account trouble without any malice. Run them as a checklist before every launch.
 
 ### The best filter
 
-Many paid courses sell information that KDP’s own help pages give away. **Recommendation.** Before paying for any course that claims to know “the algorithm,” spend twenty minutes checking whether its claims are just KDP policy with a mark-up. Amazon does not publish its ranking algorithm, so nobody can sell it to you.
+Some paid courses may sell information that KDP’s own help pages give away. **Recommendation.** Before paying for any course that claims to know “the algorithm,” spend twenty minutes checking whether its claims are just KDP policy with a mark-up. Amazon does not publish its ranking algorithm, so a claim to know it cannot be checked.
 
 # Part VI — Playing the Long Game
 
@@ -435,11 +435,11 @@ Chapter 10 has the book-two sum; this chapter assumes it and adds the other ways
 
 ### Why a catalog outearns its parts
 
-A reader who finishes one of your books sees your others on your author page, in “more by this author,” and in Amazon’s recommendations, at no extra marketing cost. Five related books are not five separate problems of finding readers; they are one problem followed by four chances to sell again.
+A reader who finishes one of your books may see your others on your author page and in “more by this author,” at no extra marketing cost. Five related books are not five separate problems of finding readers; they are one problem followed by four chances to sell again.
 
-The fixed costs of learning are also paid once. Learning KDP’s upload flow, your ad account, a cover style for your shelf, and how to run advance readers does not reset for book two. **Field practice.** Authors commonly report that a second book takes less effort to launch than the first, mostly because the learning is already paid for.
+The fixed costs of learning are also paid once. Learning KDP’s upload flow, your ad account, a cover style for your shelf, and how to run advance readers does not reset for book two. **Recommendation.** Expect the second launch to need less learning than the first; the setup is already done.
 
-**Field practice.** A beginner’s hobby guide planned from the start as three short books (getting started, common mistakes, a first big project) gives each finished book a place to send its readers, instead of waiting years for one large volume. An author running two unrelated lines, say cozy mysteries and regional cookbooks, spreads risk instead: a slow month in one category does not empty the other. Both apply the same principle to different situations.
+**Worked example.** A beginner’s hobby guide planned from the start as three short books (getting started, common mistakes, a first big project) gives each finished book a place to send its readers, instead of waiting years for one large volume. An author running two unrelated lines, say cozy mysteries and regional cookbooks, spreads risk instead: a slow month in one category does not empty the other. Both apply the same principle to different situations.
 
 ### Bundles and an owned audience
 
@@ -447,7 +447,7 @@ A box set of existing books is a new product at almost no creation cost (Chapter
 
 ### Audiobooks
 
-ACX is Amazon’s audiobook platform, distributing to Audible, Amazon, and Apple Books. There are three ways to get a finished audiobook there:
+ACX is Amazon’s audiobook platform, distributing to Audible, Amazon, and Apple Books [32]. There are three ways to get a finished audiobook there:
 
 - Narrate it yourself: your time and decent recording equipment. A real option for nonfiction if your voice suits it.
 - Royalty share: no upfront fee; you and the narrator split the royalty. The narrator is, in effect, betting on the book too.
@@ -455,13 +455,13 @@ ACX is Amazon’s audiobook platform, distributing to Audible, Amazon, and Apple
 
 **Worked example.** At a hypothetical $300 per finished hour, a six-hour audiobook costs $1,800 upfront. Royalty share costs nothing upfront but halves every future audio royalty. Paying per hour suits a book with proven sales; royalty share suits a first audiobook on an unproven title, because it caps the downside at zero.
 
-KDP also offers audiobooks with virtual voice, a beta that turns eligible ebooks into AI-narrated audio at little cost; check your KDP account for eligibility before planning around it. ACX pays more for exclusive distribution than non-exclusive; check ACX’s current royalty table before you choose, because it has changed before.
+**Platform rule [33].** KDP offers audiobooks with virtual voice as an invite-only beta for eligible ebooks; check your KDP account for eligibility before planning around it. **Platform rule [32].** ACX pays a higher royalty for exclusive distribution than for non-exclusive: 40 percent against 25 percent on its legacy model, and 50 percent against 30 percent on its new model, which applies to newly claimed titles from 26 May 2026 and to all titles after 2026. In a royalty-share deal the exclusive rate is split equally with the narrator. Check ACX’s current table before you choose.
 
 Not every book belongs in audio. A book that leans on charts and worked numbers, like this one, loses much of its value without the page. Narrative nonfiction, memoir, and fiction do not.
 
 ## Chapter 31: A Realistic First-Year Plan
 
-**Field practice.** Self-publishing income is very uneven. A small share of books and authors earn well, and a large share earn little or do not cover their costs. Nothing in this book changes that distribution. What it can change is your odds within it, by doing the plain, checkable work: real editing, an accurate category, honest reviews, capped spending, and a second book.
+This book cannot predict what a first book will earn. What it can do is help you do the plain, checkable work: real editing, an accurate category, honest reviews, capped spending, and a second book.
 
 **Recommendation.** Treat the first book as tuition, not a lottery ticket. Its most valuable output may be what you learn about your shelf, your readers, and your process, which book two then applies at lower cost.
 
@@ -469,11 +469,11 @@ Not every book belongs in audio. A book that leans on charts and worked numbers,
 
 | Months | Work | Chapters |
 |---|---|---|
-| 1–2 | Write, and confirm the shelf and the reader against the store before the draft is finished | 18, 2 |
-| 3 | Edit, design the cover, open advance-reader sign-ups | 19, 21, 7 |
-| 4 | Format, set metadata and price, launch | 20, 22, 23, 24 |
-| 5–6 | Read the final reports, run a capped ad test, decide on Select renewal | 9, 25, 26, 27 |
-| 7–12 | Start the next book; build the list and, once there are three books, a box set | 10, 29 |
+| 1–2 | Write, and confirm the shelf and the reader against the store before the draft is finished | 19, 2 |
+| 3 | Edit, design the cover, open advance-reader sign-ups | 20, 22, 7 |
+| 4 | Format, set metadata and price, launch | 21, 23, 24, 25 |
+| 5–6 | Read the final reports, run a capped ad test, decide on Select renewal | 9, 26, 27, 28 |
+| 7–12 | Start the next book; build the list and, once there are three books, a box set | 10, 30 |
 
 The months will stretch around real life. The order matters more: research before writing, editing before launch, data before the next decision.
 
@@ -487,11 +487,11 @@ This chapter assumes the review rule from Chapter 6 and the invitation from Chap
 
 ### Why proof comes before spending
 
-A book with an empty review section asks every stranger to be the first to trust it. **Field practice.** Many authors find that ads and paid promotions perform poorly on pages with no reviews, and many promotional newsletters require a minimum number of reviews before they will feature a book. Amazon does not publish whether or how review count affects ranking, and this book does not guess. The case does not need a hidden formula: shoppers see the empty section, newsletter editors use it as a gate, and conversion is what turns paid clicks into kept money (Chapter 9).
+A book with an empty review section asks every stranger to be the first to trust it. Amazon does not publish whether or how review count affects ranking, and this book does not guess. The case does not need a hidden formula: shoppers can see an empty review section, some promotional newsletters ask for a minimum number of reviews (check each one’s terms), and conversion is what turns paid clicks into kept money (Chapter 9).
 
 So the order is: honest reviews from readers who asked to read the book, then traffic. Recruit while the file is still a draft, because readers cannot post until the book is live and cannot read a book overnight.
 
-**Field practice.** Free days on KDP Select tend to produce downloads rather than reviews. A small group of readers who applied to read the book in its genre is a different population. Authors who count report much higher posting rates from such a group than from anonymous free downloads, but no published study gives a figure you can plan on. **Test it yourself.** Count invitations sent, files opened, and reviews posted for your own first campaign, and plan the second from that.
+**Test it yourself.** Free days on KDP Select produce downloads; whether any become reviews, and whether a small group of readers who applied to read the book does better, only your own counts can show. Count invitations sent, files opened, and reviews posted for your first campaign, and plan the second from that.
 
 ### Who is allowed to post on Amazon
 
@@ -521,13 +521,13 @@ Send an EPUB, not a Word file, and lock the text before anyone reads it; a revie
 
 **Platform rule [29].** A Kindle reader can email the EPUB to their own Send to Kindle address, from an email address they have approved in their Amazon account settings, or open it in a reading app that supports EPUB.
 
-**Field practice.** Delivery services such as BookFunnel exist so that you do not have to teach this to each reader. Reader-matching services such as BookSirens or Booksprout can supply readers when you have no list; NetGalley reaches librarians and reviewers. They sell downloads by interested readers, not reviews, and a review must stay optional. **Recommendation.** If you pay for one, use one service on one title, with a cap, and judge it by the three numbers above.
+**Field practice.** Delivery services such as BookFunnel exist so that you do not have to teach this to each reader. BookSirens, Booksprout, and NetGalley are examples of services that connect authors with readers; read each one’s terms, and remember that a review must stay optional. **Recommendation.** If you pay for one, use one service on one title, with a cap, and judge it by the three numbers above.
 
 ### The first bad review
 
 **Platform rule [1] [2].** Amazon removes reviews that break its guidelines, for example spam, harassment, private information, conflicts of interest, or compensated reviews. A critical review from a reader who disliked the book breaks none of them and will not be removed for being negative.
 
-**Recommendation.** Do not reply. A public reply stays under the review and usually reads worse than the review. If the review names a real fault, such as a broken table or a missing chapter, fix the file; that helps every later reader. A page of nothing but praise can look as if nobody felt free to be honest, so recruit for honest reactions, not unanimous ones.
+**Recommendation.** Do not reply. A public reply stays under the review and can read worse than the review. If the review names a real fault, such as a broken table or a missing chapter, fix the file; that helps every later reader. A page of nothing but praise may look as if nobody felt free to be honest, so recruit for honest reactions, not unanimous ones.
 
 ### A sequence that keeps the money
 
@@ -545,8 +545,8 @@ The letters for every step are in Chapter 13. The live-page letter can link stra
 
 - That a debut should open at $0.99 to get reviews. Reviews come from people who agreed to read, not from a keep of $0.35.
 - That $1.99 is a friendly compromise. It is on the 35 percent option and keeps less than $2.99 does (Chapter 3).
-- That free days produce reviews. They produce downloads.
-- That a hundred reviews are needed before anyone buys. The costly gap is zero.
+- That free days produce reviews. They produce downloads; count whether any turn into reviews.
+- That a hundred reviews are needed before anyone buys. This book names no number; its point is only that an empty review section is a gap you can close honestly.
 - That reviews from family, if disclosed, are a plan. Amazon does not allow them.
 
 # Part VIII — Using AI Well
@@ -562,7 +562,7 @@ Used as a fast first pass that a person then judges, AI is useful at most stages
 - Cover concepts (Chapter 22): rough directions to react to before a designer makes the real one. An AI-generated final cover image is AI-generated content and must be declared.
 - Description and ad-copy drafts (Chapters 23 and 26): several variants for you to choose from and rewrite.
 - Keyword brainstorming (Chapter 23): candidate phrases that you then test in Amazon’s search bar and check against KDP’s keyword rules.
-- Research support: explaining a concept, testing your understanding, or summarising your own notes, after which you write the explanation yourself.
+- Research support: explaining a concept, testing your understanding, or summarizing your own notes, after which you write the explanation yourself.
 
 ### Building background knowledge, legitimately
 
@@ -587,9 +587,9 @@ Disclosure answers what Amazon needs to know. Ownership is a separate question, 
 
 **Platform rule [23] [24].** The U.S. Copyright Office will not register material whose expressive content was generated by a machine. In *Thaler v. Perlmutter* the U.S. Court of Appeals for the D.C. Circuit held in March 2025 that the Copyright Act requires a human author, and on 2 March 2026 the Supreme Court declined to hear the appeal, which leaves that ruling in place. Declining a case is not a ruling on the merits, but the practical position is clear: a work with no human author has no copyright.
 
-That does not leave AI-assisted books unprotected. The same ruling says the requirement does not bar works made with the help of AI; what counts is the human contribution. Your own sentences are yours, and so are your creative selection, arrangement, and changes. In its January 2025 report on copyrightability, the Copyright Office concluded that prompts alone, however detailed, do not make you the author of what comes back. How much human shaping turns AI material into your work is still being argued, so do not plan a business around the generous end of that line. Other countries draw it differently; the United Kingdom, for one, has a separate rule for computer-generated works.
+That does not leave AI-assisted books unprotected. The same ruling says the requirement does not bar works made with the help of AI; what counts is the human contribution. Your own sentences are yours, and so are your creative selection, arrangement, and changes. In its January 2025 report on copyrightability, the Copyright Office concluded that prompts alone, however detailed, do not make you the author of what comes back. How much human shaping turns AI material into your work is still being argued, so do not plan a business around the generous end of that line. Other countries draw it differently.
 
-An AI service’s terms typically say the output is yours to use. That is permission, not ownership: the company promises not to claim the text against you, but it cannot give you a copyright the law says does not exist. You may publish the output; you cannot stop others from copying the parts no human wrote.
+An AI service’s terms may say the output is yours to use. That is permission, not ownership: the company promises not to claim the text against you, but it cannot give you a copyright the law says does not exist. You may publish the output; you cannot stop others from copying the parts no human wrote.
 
 Take a tempting case: a long, sharp conversation with a chatbot, say about whether time is real, that you want to turn into a book.
 
@@ -603,7 +603,7 @@ Take a tempting case: a long, sharp conversation with a chatbot, say about wheth
 
 One pattern deserves a name because it is packaged to look like professional workflow: take a few existing books on a subject, have AI condense and merge them, then run a “similarity audit” to find and remove close parallels with those particular sources until the draft no longer looks derived.
 
-The audit step is the tell. Legitimate research has no reason to scrub a manuscript against a short list of specific books; that step exists because the process expects resemblance and is built to hide it. Facts and ideas are not protected by copyright, but an author’s expression of them, including wording, analogies, and structure, is [25]. A workflow whose last step erases detectable similarity to particular copyrighted books produces a derivative work dressed to pass inspection, and “an AI tool did the condensing” is no defence. It also puts the whole account at risk (Chapter 29), not just one title.
+The audit step is the tell. Legitimate research has no reason to scrub a manuscript against a short list of specific books; a step whose only job is to remove detectable resemblance suggests that resemblance is expected. Facts and ideas are not protected by copyright, but an author’s expression of them, including wording, analogies, and structure, is [25]. A workflow whose last step erases detectable similarity to particular copyrighted books produces a derivative work dressed to pass inspection, and “an AI tool did the condensing” does not by itself make it lawful (see below). It could also put the whole account at risk (Chapter 29), not just one title.
 
 ### What copyright protects, and two legitimate ways to build on another work
 
@@ -619,6 +619,6 @@ None of these, on its own, makes a derivative work lawful:
 - “Only the structure is the same.” Structure can be expression.
 - “It’s a parody.” Parody is a narrow category that must comment on its source; the label does not create it.
 
-There are two legitimate ways to build directly on someone else’s work: get a licence from the rights holder, or adapt a work that is verifiably in the public domain in every country where you will sell. Duration rules vary by country, and a modern translation, introduction, annotations, or cover art on an old edition can carry their own copyright. Verify the exact edition, and every layer of it, before you build on it.
+There are two legitimate ways to build directly on someone else’s work: get a license from the rights holder, or adapt a work that is verifiably in the public domain in every country where you will sell. Duration rules vary by country, and a modern translation, introduction, annotations, or cover art on an old edition can carry their own copyright. Verify the exact edition, and every layer of it, before you build on it.
 
 *General principles only, not legal advice. For a specific manuscript, ask a lawyer.*

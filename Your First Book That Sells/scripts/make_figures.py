@@ -147,10 +147,10 @@ def workflow():
     f = fig(16, 10); head(f, "The self-publishing pipeline in this book",
                           "Each stage is one chapter of the full guide. Part I walks the same path faster.")
     ax = canvas(f, (0.03, 0.03, 0.94, 0.82))
-    steps = [("Choose and write", "Ch. 18–19"), ("Format", "Ch. 20"), ("Cover", "Ch. 21"),
-             ("Metadata,\npage", "Ch. 22"), ("Price", "Ch. 23"), ("Launch", "Ch. 24"),
-             ("Ads (optional)", "Ch. 25"), ("Get paid", "Ch. 26"), ("Select or wide", "Ch. 27"),
-             ("Next book", "Ch. 29–30")]
+    steps = [("Choose and write", "Ch. 19–20"), ("Format", "Ch. 21"), ("Cover", "Ch. 22"),
+             ("Metadata,\npage", "Ch. 23"), ("Price", "Ch. 24"), ("Launch", "Ch. 25"),
+             ("Ads (optional)", "Ch. 26"), ("Get paid", "Ch. 27"), ("Select or wide", "Ch. 28"),
+             ("Next book", "Ch. 30")]
     for i, (a, b) in enumerate(steps):
         r, c = divmod(i, 5)
         x = 1 + c * 20; y = 58 - r * 44
@@ -159,7 +159,7 @@ def workflow():
         if c < 4:
             arrow(ax, x + 16.6, y + 11, x + 19.6, y + 11)
     arrow(ax, 89, 57.5, 9, 36.5)
-    ax.text(50, 47, "then back to the start for book two", ha="center", fontsize=15, color=MUTED)
+    ax.text(50, 47, "then on to launch", ha="center", fontsize=15, color=MUTED)
     save(f, "workflow.png")
 
 
@@ -193,10 +193,10 @@ def product_page():
     f = fig(16, 10); head(f, "How a shopper reads a product page",
                           "Each step must answer the shopper's question before they move on.")
     ax = canvas(f, (0.03, 0.03, 0.94, 0.82))
-    steps = [("Thumbnail", "Can I read the title?\nWhat kind of book?", "Ch. 5, 21"),
-             ("Title and subtitle", "Is the promise\nfor me?", "Ch. 22"),
+    steps = [("Thumbnail", "Can I read the title?\nWhat kind of book?", "Ch. 5, 22"),
+             ("Title and subtitle", "Is the promise\nfor me?", "Ch. 23"),
              ("First two lines", "Who is it for?\nWhat do I get?", "Ch. 4"),
-             ("Bullets and fit", "What exactly is\ninside? Who is it\nnot for?", "Ch. 22"),
+             ("Bullets and fit", "What exactly is\ninside? Who is it\nnot for?", "Ch. 23"),
              ("Sample", "Do I reach what\nI came for fast?", "Ch. 4"),
              ("Price and reviews", "Is it worth the\nprice? Do others\nagree?", "Ch. 3, 6")]
     for i, (a, b, c) in enumerate(steps):
@@ -329,7 +329,7 @@ def ai_disclosure():
     arrow(ax, 80, 23.5, 80, 15.5, "Yes", 3, 0, GO)
     box(ax, 62, 1, 36, 14, "AI-ASSISTED\nNo declaration required.", fill=LIGHT, edge=GO, color=GO, size=16, bold=True)
     box(ax, 2, 1, 54, 17, "Either way: you are responsible for the content, its accuracy,\nand its rights. "
-        "In the U.S., machine-written expression\nhas no copyright owner (Chapter 32).", fill="white", size=14)
+        "In the U.S., machine-written expression\nhas no copyright owner (Chapter 33).", fill="white", size=14)
     save(f, "ai_disclosure.png")
 
 

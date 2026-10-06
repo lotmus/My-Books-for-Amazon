@@ -1,8 +1,8 @@
-# Part I — The Short Road: One Month with One Book
+# Part I — The Short Road: One Book, One Action at a Time
 
 ## Start here
 
-Picture a first-time author with a finished cozy mystery and a price of $0.99 in her head. She has not asked what one sale would leave her. Part I is the month she finds out. She is a teaching example, and every number in her month is a worked example, not a report.
+Picture a first-time author with a finished cozy mystery and a price of $0.99 in her head. She has not asked what one sale would leave her. Part I is how she finds out. She is a teaching example, and every number in her story is a worked example, not a report.
 
 Each chapter gives one action. Do it, then turn the page. The reasons, the exceptions, and the marketplace detail live in Parts II to VIII; Part I points to them and moves on.
 
@@ -40,9 +40,9 @@ This book is a poor fit for people who want [something else].
 
 Her pair reads: “This book entertains readers who like a gentle small-town mystery and a heroine who solves it without a gun. It is a poor fit for people who want a thriller, a romance with no puzzle, or a joke on every page.”
 
-The second sentence matters as much as the first. A wrong buyer does not become a fan; they become a return, or a review saying the book was not what the page promised.
+The second sentence matters as much as the first. A wrong buyer is unlikely to become a fan; they may return the book or write a review saying it was not what the page promised.
 
-Then look at five books your reader already buys and write down the words those books share and their readers use. For her shelf: small town cozy mystery, amateur sleuth inn mystery, clean mystery no gore, village puzzle mystery, quiet village detective. Those phrases come back in Chapter 5 and in the ad test. Never use another book’s title or author as one of your phrases.
+Then look at five books your reader already buys and write down the words those books share and their readers use. For her shelf: small town sleuth, amateur detective inn, clean no gore, village puzzle, quiet village detective. Those phrases come back in Chapter 5 and in the ad test. Never use another book’s title or author as one of your phrases.
 
 ### Your action
 
@@ -82,7 +82,7 @@ Her three lines now read. Keep: about $0.35 at $0.99 today; about $2.58 at $3.99
 
 ## Chapter 4: A page a stranger can trust
 
-The cover, the description, the sample, and the book must promise the same thing. The first two sentences of the description do most of the work, because shoppers on a phone rarely reach paragraph four.
+The cover, the description, the sample, and the book must promise the same thing. Put the promise in the first two sentences of the description, because they are what a shopper on a phone sees first.
 
 A weak opening: “This incredible novel will change your life. A must-read for everyone who loves a good story.” It names no reader and no promise.
 
@@ -96,9 +96,9 @@ Show your first two sentences to one stranger. If they cannot say who the book i
 
 ## Chapter 5: Cover, keywords, and categories
 
-**The thumbnail test.** Shrink your cover until it is about the size of a postage stamp, or look at it on your phone’s screen at arm’s length. You must still read the title, and you must still know what kind of book it is. A quiet mystery should not look like a thriller or a textbook. Do not rely on colour alone; some screens show the cover in gray. If the title fails, the rest of the design does not matter yet. Chapter 22 covers genre conventions, hierarchy, and what covers cost.
+**The thumbnail test.** Shrink your cover until it is about the size of a postage stamp, or look at it on your phone’s screen at arm’s length. You must still read the title, and you must still know what kind of book it is. A quiet mystery should not look like a thriller or a textbook. Do not rely on color alone; some screens show the cover in gray. If the title fails, the rest of the design does not matter yet. Chapter 22 covers genre conventions, hierarchy, and what covers cost.
 
-**Keywords.** KDP gives you seven keyword boxes. Fill them with short phrases a reader would type, like the shared phrases from Chapter 2, not single words such as “book.” Her seven: small town cozy mystery, amateur sleuth inn mystery, clean mystery no gore, village puzzle mystery, quiet village detective, gentle puzzle novel, weekend mystery book.
+**Keywords.** KDP gives you seven keyword boxes. Fill them with short phrases a reader would type, like the shared phrases from Chapter 2, not single words such as “book.” Her seven: small town sleuth, amateur detective inn, clean no gore, village puzzle, quiet village detective, gentle puzzle novel, weekend read. She leaves out the word “mystery”, because her category already carries it (Chapter 23).
 
 **Categories.** You choose up to three. Pick the closest true shelves where your five comparison books sit, not the biggest shelf in the store. Chapter 23 has the rules and the reasons.
 
@@ -108,7 +108,7 @@ Run the thumbnail test on your phone today. If the title fails, fix the cover be
 
 ## Chapter 6: Ask for an honest review
 
-**Platform rule [1] [2].** You may give readers a free or discounted copy as long as you do not require a review and do not try to influence it. Offering anything beyond the book, such as a gift card, a refund, or a favour, invalidates the review. Amazon does not allow reviews from the author, or from friends, relatives, employers, business associates, competitors, or anyone with a financial interest in the book. Do not buy reviews, trade reviews with other authors, or ask anyone to change a rating.
+**Platform rule [1] [2].** You may give readers a free or discounted copy as long as you do not require a review and do not try to influence it. Offering anything beyond the book, such as a gift card, a refund, or a favor, invalidates the review. Amazon does not allow reviews from the author, or from friends, relatives, employers, business associates, competitors, or anyone with a financial interest in the book. Do not buy reviews, trade reviews with other authors, or ask anyone to change a rating.
 
 **Platform rule [22].** In the United States the FTC’s rule on consumer reviews, in force since 21 October 2024, forbids a business from offering an incentive on condition that the review be positive, whether that condition is said out loud or implied.
 
@@ -140,15 +140,15 @@ Write the invitation with the “not for” sentence in it, and send the file to
 
 ## Chapter 8: Pick three ways to be paid
 
-A book can pay you in many ways, and Appendix D lists thirty-two, each with its smallest version and the number that means stop. This month, pick only three: one price, one next book (even if it is only a sentence), and one format or short extra.
+A book can pay you in many ways, and Appendix D lists thirty-two, each with its smallest version and the sign to stop. This month, pick only three, each from a different section: Price, The next book, Formats and extras, or Reach.
 
 Run each through the keep test. Write the keep for that product. Pick the smallest version that can still teach you something. Write the day you will look. On that day, keep it or stop it in one sentence on your money sheet, such as “Held the $3.99 price” or “Stopped the free days; no second book yet.”
 
-**Worked example.** Her first idea is the price. At $0.99 she sold 20 copies in four quiet weeks and kept about $7. She changed only the price, to $3.99, and over the next four weeks sold 12 copies and kept about $31. Fewer sales, more money. She held the price four more weeks before believing it.
+**Worked example.** Her first idea is the price. At $0.99 she sold 20 copies in four quiet weeks and kept about $7. She changed only the price, to $3.99, and over the next four weeks sold 12 copies and kept about $31. Fewer sales, more money. She held the price through her ad test in Chapter 9 before believing it.
 
 ### Your action
 
-Circle three ideas in Appendix D, one of each kind, and write a look-date next to each.
+Circle three ideas in Appendix D, each from a different section, and write a look-date next to each.
 
 ## Chapter 9: A small ad test
 
@@ -240,7 +240,7 @@ For a guide: “This book helps [specific reader] do [specific job] without [the
 
 ## Chapter 14: A filled money sheet
 
-Copy this shape and fill in your own lines. Her numbers are a worked example, not a report.
+Copy this shape and fill in your own lines. Her numbers are a worked example, not a report. This is her third month, after the price test in Chapter 8 and with the ad from Chapter 9.
 
 | Line | Her month (worked example) | Yours |
 |---|---|---|
