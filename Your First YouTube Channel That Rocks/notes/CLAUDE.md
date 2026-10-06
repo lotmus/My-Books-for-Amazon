@@ -81,7 +81,7 @@ anymore; do not restore that folder to copy its style.
 - `## I. Section title` — a section. The builder turns this into Heading 2. Do not use `###` for those sections. A `###` line is not a heading in this builder; it would be printed as plain text, hashes included.
 - `> **Key takeaway:** …` — a chapter's summary-style callout.
 - `> Worked example. …` — a numbers-shown worked calculation.
-- `> Case study: …` — a real, generic-but-true illustrative example (never
+- `> Case study: …` — (6 Oct 2026: only when every figure is checked against a primary source; name the channel, never a person; two remain, ch10 and ch12.) A real, generic-but-true illustrative example (never
   identifying another book in this account's catalog by name or inferable
   detail — that rule applies account-wide, not just to the KDP book).
 - `![figure](../figures/fileName.png)` followed by an italic
@@ -100,7 +100,7 @@ Platform rules are stated as fact only when checkable directly in the
 product's own interface or published policy; anything about ranking or the
 algorithm's actual behavior is explicitly labeled as a creator heuristic, not fact — this platform is if anything more opaque about its own
 mechanics than KDP is, so this distinction matters even more here. Curly
-quotes and apostrophes, spaced em dashes. A chapter ends with an italic *In short:* line, a myths section,
+quotes and apostrophes, spaced em dashes. A chapter ends with an italic *In short:* line, a “Claims that do not survive…” section,
 and a one-line sources paragraph (no per-chapter disclaimer; the one disclaimer is in Start here).
 
 ## Conventions added 2026-10-03
