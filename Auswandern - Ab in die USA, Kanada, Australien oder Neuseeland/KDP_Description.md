@@ -2,7 +2,7 @@
 
 **Titel:** Auswandern in die USA, nach Kanada, Australien oder Neuseeland
 **Untertitel:** Vier Wege, ein gemeinsamer Abflug aus Deutschland
-**Autor:** Lothar J. Musiol
+**Autor:** Wolfgang Viktor Gottlieb
 **Sprache:** Deutsch
 **Reihe:** keine (Einzelband; KDP-Reihenfeld leer lassen)
 **Stand der Angaben im Buch:** 1. Oktober 2026

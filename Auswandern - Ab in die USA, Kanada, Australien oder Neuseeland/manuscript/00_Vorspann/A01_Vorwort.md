@@ -18,4 +18,4 @@ Vier Dinge solltest du von Anfang an wissen.
 
 Wenn dieses Buch dazu beiträgt, dass du eine gute Entscheidung triffst, sei es für den Umzug oder bewusst dagegen, hat es seinen Zweck erfüllt. Die deutsche Seite einer Rückkehr, Krankenkasse, Anmeldung, Kindergeld, Schule und Rente, steht im Kapitel **Die Rückkehr nach Deutschland** im gemeinsamen Teil. Der USA-Teil behält nur, was an Green Card und US-Steuer hängt. Ich wünsche dir einen klaren Kopf, gute Nerven und einen guten Start, wo auch immer du ihn machst.
 
-*Lothar J. Musiol*
+*Wolfgang Viktor Gottlieb*

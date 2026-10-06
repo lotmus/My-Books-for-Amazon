@@ -1,7 +1,7 @@
 %%TITLEPAGE%%
 
 %%SMALL%%
-Copyright © 2026 Lothar J. Musiol. Alle Rechte vorbehalten. Kein Teil dieses Buches darf ohne schriftliche Genehmigung des Autors vervielfältigt, gespeichert oder übertragen werden, auch nicht auszugsweise.
+Copyright © 2026 Wolfgang Viktor Gottlieb. Alle Rechte vorbehalten. Kein Teil dieses Buches darf ohne schriftliche Genehmigung des Autors vervielfältigt, gespeichert oder übertragen werden, auch nicht auszugsweise.
 
 **Stand der Angaben: September 2026.** Einwanderungs-, Steuer-, Sozialversicherungs- und Gesundheitsrecht der USA, Kanadas, Australiens, Neuseelands und Deutschlands sowie Gebühren und Fristen ändern sich häufig. Prüfe vor jeder Entscheidung die in den Kapiteln genannten offiziellen Quellen.
 
