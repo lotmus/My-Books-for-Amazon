@@ -1,6 +1,6 @@
 # KDP listing — Your First Book That Sells
 
-Updated 5 October 2026. Platform facts were checked against KDP Help on 3 October 2026 (see the Notes in the book). One master: `Your First Book That Sells.docx`; “How to Publish and Make Good Money” is the same book.
+Updated 6 October 2026. Platform facts were checked against KDP Help on 3 October 2026 (see the Notes in the book). One master: `Your First Book That Sells.docx`; “How to Publish and Make Good Money” is the same book.
 
 ## Title fields
 
@@ -8,8 +8,8 @@ Updated 5 October 2026. Platform facts were checked against KDP Help on 3 Octobe
 - **Subtitle (updated 5 October 2026):** How to Publish and Know What Every Sale Pays You on Kindle: Real Royalties, Honest Reviews, and a Catalog That Pays
 - **Author (cover, title page, KDP files):** Kevin Drew Peters
 - **Series:** none
-- **Edition:** Updated 5 October 2026
-- **Length:** about 17,800 words (per `scripts/build_master.py`’s own count on the current source — rebuild and recheck if the chapters change); 33 chapters in eight parts, four appendices, glossary, 30 dated notes, 12 figures with alt text
+- **Edition:** Updated 6 October 2026
+- **Length:** about 17,800 words (per `scripts/build_master.py`’s own count on the current source — rebuild and recheck if the chapters change); 33 chapters in eight parts, four appendices, glossary, 33 dated notes, 12 figures with alt text
 - **Master file:** `Your First Book That Sells.docx` (book root). Docx only.
 
 ## Subtitle (resolved 5 October 2026)
@@ -22,12 +22,12 @@ If the subtitle changes again, update `SUBTITLE` in `scripts/build_master.py`, l
 
 You finished the book. Now you need to know what one sale actually leaves you.
 
-Your First Book That Sells is for first-time and early independent authors publishing a serious ebook on Amazon. Part I is the short road: one action per chapter, following one first-time author and her mystery novel through a month of decisions, ending with seven things to do this week. Parts II to VIII are the full guide, with the arithmetic shown every time.
+Your First Book That Sells is for first-time and early independent authors publishing a serious ebook on Amazon. Part I is the short road: one action per chapter, following one first-time author and her mystery novel through her first months of decisions, ending with seven things to do this week. Parts II to VIII are the full guide, with the arithmetic shown every time.
 
 Inside you will learn how to:
 
 • Work out the “keep,” the money one sale leaves you, under KDP’s 35% and 70% royalty options, including the delivery charge and the 70% price band
-• See why a $0.99 ebook can earn a seventh of what a $3.99 one does
+• See why the lowest ebook price can leave you a fraction of what a price inside the 70% band does
 • Price a paperback against KDP’s royalty rates and the printing cost
 • Ask for honest reviews the way Amazon allows, and avoid the offers that get reviews removed
 • Write the first two lines of a description, test a cover at thumbnail size, and choose keywords and categories readers actually use
@@ -45,13 +45,13 @@ If you want a first book that pays you honestly, start here.
 
 ## Keywords (seven boxes; reader phrases; no program names, no title words, nothing misleading)
 
-1. self publishing for beginners
-2. ebook royalties and pricing
-3. how to get honest reviews for authors
-4. marketing for new authors
-5. launch plan checklist for a debut
-6. advertising a book on a budget
-7. publishing a second novel or guide
+1. beginner author guide
+2. ebook pricing strategy
+3. advance reader recruiting
+4. marketing for debut authors
+5. launch checklist
+6. sponsored ads for authors
+7. planning a second release
 
 Keyword rules followed: no “Kindle Unlimited”, “KDP Select”, or other program names; no words already in the title or subtitle where avoidable; no other authors’ names or claims about sales rank.
 

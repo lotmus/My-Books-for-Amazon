@@ -10,7 +10,7 @@ Merged 1 October 2026. This folder is the only home of the KDP/self-publishing b
   - `00_front_matter.md` — title page, copyright, How to Read This Book (who it is for and not for, author positioning, the five claim labels)
   - `01_part_one_short_road.md` — Part I, chapters 1–15: one action per chapter, ending with "Do these seven things this week"
   - `02_parts_two_to_eight_full_guide.md` — Parts II–VIII, chapters 16–32 (the old *How to Publish and Make Good Money*, chapters 1–17, renumbered +15, with cross-references and figure numbers updated)
-  - `03_back_matter.md` — A Closing Word, Appendices A–D (D = thirty-two ways a book can pay you), Glossary, Notes [1]–[30] (checked 3 October 2026), About the Author
+  - `03_back_matter.md` — A Closing Word, Appendices A–D (D = thirty-two ways a book can pay you), Glossary, Notes [1]–[33] ([1]–[30] checked 3 October 2026, [31]–[33] on 6 October 2026), About the Author
   - `04_also_by.md` — shared Also-by list (canonical; do not edit here)
 - `figures/` — every picture used by either half.
 - `scripts/build_master.py` — rebuilds the master from `chapters/`. `scripts/make_figures.py` draws all 12 figures used by the book (matplotlib). Older figures (fig01–fig15, etc.) are no longer referenced and kept for history.
