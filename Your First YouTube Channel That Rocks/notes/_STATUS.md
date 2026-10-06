@@ -2,6 +2,8 @@
 
 ## Current state
 
+**Update 2026-10-06, audit fixes:** Removed seven case studies whose figures came only from unfetched or secondary sources (Deep Pocket Monster, Colin and Samir ×2, Weezer, Ali Abdaal, MrBeast thumbnails, Primitive Technology), with their Sources sentences, and the “most new channels” generalizations in ch4, ch8 and ch11. Re-checked the two remaining against primary pages: the h3h3Productions case (ch10) was wrong, because a takedown notice and counter notification came first, then the suit; rewritten from the US Copyright Office summary (No. 16-CV-3081, 23 Aug 2017). The memberships case (ch12) is cut to what YouTube’s post says and no longer names the creator. House rule from Lothar: channels only, no personal names. Added the thresholds callout to ch12, corrected the KDP character count, fixed the author line in open question 4. Older entries below that praise the removed case studies are history, not current.
+
 **Update 2026-10-04, re-auditing my own fixes caught two new problems:** Asked to audit again after the Thaler fix. Re-reading my own prior edits (not just the mechanical checks) turned up two self-inflicted issues:
 
 1. The Deep Pocket Monster reframe (fix #2 below) had turned into a dense, grammatically-correct-but-ugly run-on with a redundant "on its own... by itself" said twice in one sentence. Split it into two plain sentences and cut the duplicate phrase.
@@ -277,9 +279,7 @@ used now.
    on named, checkable creator case studies; this book doesn't have any yet
    because no session has done that research pass. Worth doing before this
    book is called complete.
-4. Author confirmed same pen name (Kevin Drew Peters) applies here; not
-   independently reconfirmed for this specific book, carried over from the
-   Kindle book's session.
+4. Author is Lothar J. Musiol (set 1 Oct 2026); the earlier pen name is retired.
 5. Author confirmed (session 2) that this book should match the Kindle
    book's choice of visible, non-cloaked inline hyperlinks and colorful
    workflow diagrams — now used in the *Create* chapter.

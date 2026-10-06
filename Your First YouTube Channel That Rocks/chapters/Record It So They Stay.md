@@ -107,7 +107,7 @@ Before you export, watch the whole video once at normal speed, as the stranger. 
 
 ## VI. The end is one ask and one door
 
-The last minute of a teaching video is where most channels stack everything: subscribe, like, comment, the other channel, the newsletter, the sponsor. Author recommendation: one ask and one next video.
+The last minute of a teaching video is where it is tempting to stack everything: subscribe, like, comment, the other channel, the newsletter, the sponsor. Author recommendation: one ask and one next video.
 
 End like this. Summarize the result in one sentence. Give one reason to subscribe, tied to what the next video will teach. Name the one video to watch next, by its title. Stop. A viewer who starts that video adds watch time to the same session.
 
