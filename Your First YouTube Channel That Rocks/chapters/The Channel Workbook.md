@@ -188,6 +188,14 @@ The video-job sheets, each with a working title and one action:
 
 A first money line, a year later, still hypothetical: Partner Program accepted in month ten. Ads and Premium on the month’s 40,000 long-form views at an invented RPM of $5: $200. Twelve members at $4.99: about $42 at YouTube’s 70% share, less any sales tax and app-store fees. One affiliate commission from a moisture meter used in the deep dive. No sponsor yet. Hours that month: thirty. Write all of it down. The point is not the size. It is that four streams now exist, and none of them is the whole channel.
 
+The same channel on the other sheets, with invented numbers:
+
+Set-up sheet, day 2: channel name, handle, and banner readable on a phone: yes. Description’s first lines say who it helps: no, rewrite them. 2-Step Verification: yes. Phone verification and advanced features: yes. Country: yes. Audience setting: not made for kids. Earn tab notification: yes.
+
+Week sheet, week three: published the method video. Earn tab: 212 subscribers, 61 long-form watch hours, no Shorts. Deep dive: average view duration 3:50, 41% still watching at thirty seconds, end screen starts at 9:40. Views from your own videos: 38, nearly all under Suggested videos. Top search terms: “bathroom repair quote template,” “what should a repair quote include,” “price a bathroom repair.” Change next: the first thirty seconds of the deep dive, looking again on the fourteenth day. Not changing this week: titles and thumbnails.
+
+Rights log, one video: a Pexels clip of a tiled wall, downloaded on the upload date, with a screenshot of the license page saved. Attribution: none required, so none in the description. Own voice and own screen recording. Altered or synthetic content: none, so the setting stays No. Paid promotion: no sponsor. Affiliate links: one moisture meter, with “This is an affiliate link. I earn a commission if you buy, at no extra cost to you.” on the line above it. Copyright claims: none.
+
 ## IX. Words to paste
 
 These are your words, not a script for a viewer’s comment and not a fake testimonial. If a sentence overclaims, cut it. A channel that lasts says a smaller true thing.
