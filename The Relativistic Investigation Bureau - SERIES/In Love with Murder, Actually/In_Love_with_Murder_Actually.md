@@ -534,6 +534,20 @@ She came out onto the dock, thinner than in the photograph, with a lantern in on
 
 "I did say," said Mara drily, reaching the dock, "that quiet people listen."
 
+"Quiet people also read the accounts," said Inês. She lowered the shotgun and looked Tobias up and down, the way one inspects a delivery that is smaller than ordered. "You are the writer. I have read your book. Both of them. The second one is better, but that is not saying much."
+
+"Thank you," said Tobias.
+
+"It was not a compliment. I was a bookkeeper for nine years. I notice when numbers lie, and I notice when sentences do. Yours do, a little, in chapter four."
+
+"She is very intelligent," Catarina explained, in a tone that suggested this was a medical condition.
+
+"I am very tired," said Inês. "Intelligent is how I got here. Nobody who is not intelligent would spend six months in a boathouse with a duck for company."
+
+"The duck," said Mara, "was a pelican."
+
+"I know what it was," said Inês. "I was being kind."
+
 Hale did not run. He stood at the end of his own jetty in his beautiful coat and watched the boat come in, and the constables walk toward him, and the tape recorder pass from Tobias's hands to Mara's.
 
 "It was only paper," he said, almost to himself. "Contracts. Receipts. A few silly pages in the water."
@@ -576,7 +590,9 @@ Fernanda was the eldest. She had driven eleven hours from Porto in a van that sa
 
 "I'm perfectly..."
 
-"I FEED YOU," Fernanda repeated, with the finality of a judge, and opened the cool-box. Inside, under a tea towel, lay a roast chicken, a dish of rice, two custard tarts and a bottle of something without a label. "Eat. Then we discuss the wedding."
+"I FEED YOU," Fernanda repeated, with the finality of a judge, and opened the cool-box.
+
+"Resistance is useless," Inês murmured behind him, in English, for his benefit alone. "I tried for thirty-four years. The only winning move is to be hungry." She helped herself to a custard tart. "Welcome to the family. It is a hostage situation, but the food is good." Inside, under a tea towel, lay a roast chicken, a dish of rice, two custard tarts and a bottle of something without a label. "Eat. Then we discuss the wedding."
 
 "We haven't discussed a wedding," said Tobias.
 
