@@ -2,7 +2,7 @@
 
 *A crime thriller with a slow-burning love story: one murder, one theft, one scam, and a great deal of tea*
 
-> **A note on the languages.** Tobias Lind is English, from Leeds. Aurelia Santos is Portuguese, from a fishing town near Porto. At the start they share almost no words. Early on, her Portuguese is shown in italics with the meaning in square brackets. As Tobias learns, the brackets disappear. As Aurelia learns, her English slowly stops breaking.
+> **A note on the languages.** Tobias Lind is English, from Leeds. Catarina Vidal is Portuguese, from a fishing town near Porto. At the start they share almost no words. Early on, her Portuguese is shown in italics with the meaning in square brackets. As Tobias learns, the brackets disappear. As Catarina learns, her English slowly stops breaking.
 
 ---
 
@@ -74,7 +74,7 @@ She stopped, water streaming from her sleeves, and looked at him as though he ha
 
 "*Não é só papel,*" she said. [It's not only paper.]
 
-It was the first thing Aurelia Santos ever said to him. He would not understand it for another three weeks.
+It was the first thing Catarina Vidal ever said to him. He would not understand it for another three weeks.
 
 ### Chapter 2: The Housekeeper
 
@@ -82,7 +82,7 @@ She had come to the lake house in September, sent by an agency in the city. Tobi
 
 That morning she spread the ruined pages across the kitchen table, on every towel the house possessed, and dried them one by one with the same grim patience she gave to scrubbing the stove.
 
-"Aurelia, you really don't have to."
+"Catarina, you really don't have to."
 
 She held up a sheet. The ink had run into grey rivers. "*Escrito,*" she said [Written], and pointed at him. Then at the page, then at the lake, then shrugged. *Lost, then.*
 
@@ -116,7 +116,7 @@ Tobias had never believed it. Elise had once refused to cross a puddle on the gr
 
 Now the pages that named him were gone.
 
-He looked up. Aurelia was standing in the doorway with a basket of linen, watching him read. For the first time she did not look away.
+He looked up. Catarina was standing in the doorway with a basket of linen, watching him read. For the first time she did not look away.
 
 "*Livro bom?*" she asked quietly. [Good book?]
 
@@ -136,7 +136,7 @@ Inspector Mara Quill came to the lake house the following afternoon. She had bee
 
 "A neighbour rang in a splash and a shout last night," she told him on the porch. "At the jetty. Would that be you?"
 
-"The wind took my manuscript. Aurelia went in after it."
+"The wind took my manuscript. Catarina went in after it."
 
 "Your manuscript was on paper," said Mara.
 
@@ -148,7 +148,7 @@ Inspector Mara Quill came to the lake house the following afternoon. She had bee
 
 "It also has no backup." She closed the notebook, not unkindly. "In my experience, Mr Lind, the people who distrust the cloud always end up in the lake."
 
-"Ah." Mara looked past him through the open door, where Aurelia was pegging pages to a line strung across the kitchen. "She knows the lake, then."
+"Ah." Mara looked past him through the open door, where Catarina was pegging pages to a line strung across the kitchen. "She knows the lake, then."
 
 "I'm not sure she knows anything. She barely speaks English."
 
@@ -158,7 +158,7 @@ Inspector Mara Quill came to the lake house the following afternoon. She had bee
 
 "You're holding a pen."
 
-When she had gone, Tobias drove into the village, bought two dictionaries and a children's phrasebook, and carried them back to the kitchen. He set them on the table between himself and Aurelia like a peace offering.
+When she had gone, Tobias drove into the village, bought two dictionaries and a children's phrasebook, and carried them back to the kitchen. He set them on the table between himself and Catarina like a peace offering.
 
 She opened the first one. She read slowly, with a finger under each word, and then said, with the care of a woman laying stones across a river:
 
@@ -236,7 +236,7 @@ It was the first sentence she had said all afternoon that he understood complete
 
 On the third day Tobias announced that he would scan the pages.
 
-"Scan," said Aurelia, to the dictionary. "*Digitalizar.*" She considered this. "You will put the paper in a machine and the machine will write it again."
+"Scan," said Catarina, to the dictionary. "*Digitalizar.*" She considered this. "You will put the paper in a machine and the machine will write it again."
 
 "Precisely. It reads the words and turns them into text. Optical character recognition. Then I'll have a proper copy, saved, safe, backed up."
 
@@ -248,7 +248,7 @@ Madame Fournier owned a printer-scanner, which she kept in the back kitchen unde
 
 He read it aloud. "'*She was already dead when the clock struck, which is why nobody believed the clock.*' The computer says: 'Shoe was alley dread when the cloak stuck, which is why no body believed the cluck.'"
 
-"*Cluck,*" said Aurelia, delighted. "Like a hen."
+"*Cluck,*" said Catarina, delighted. "Like a hen."
 
 "It has also changed 'murder' to 'mother' in six places."
 
@@ -258,7 +258,7 @@ He tried the next page. It produced an elegant paragraph about a man named Geral
 
 "The ink ran," Tobias said, with the dignity of a man defending his work against an appliance. "It's the water damage. It can't cope."
 
-Aurelia took the printout, held it at arm's length, squinted at the damp original, and read the same line aloud, slowly, in her careful English, with every word right.
+Catarina took the printout, held it at arm's length, squinted at the damp original, and read the same line aloud, slowly, in her careful English, with every word right.
 
 "*She was already dead when the clock struck.*" She looked up. "The machine is stupid. I am better."
 
@@ -284,7 +284,7 @@ At noon she left a tray outside his door. She never knocked. Sometimes there was
 
 *THE SOUP IS HOT. (NOT IS THE SOUP.)*
 
-He began leaving notes of his own. *Thank you.* *Good morning.* Later, haltingly, with the phrasebook open on his knee: *Bom dia, Aurelia. Como está?*
+He began leaving notes of his own. *Thank you.* *Good morning.* Later, haltingly, with the phrasebook open on his knee: *Bom dia, Catarina. Como está?*
 
 The reply came under his door that night, in pencil, with a line of Portuguese crossed out and written again in English:
 
@@ -302,7 +302,7 @@ And there were birds. Tobias had not expected so many birds.
 
 Herons stood in the reeds on one leg, like retired bank managers considering a transaction. Coots paddled in the shallows with the fuss of men who have lost their keys. Swallows stitched the air above the jetty at dusk, and once, at dawn, a kingfisher went past the study window in a single blue streak, so brilliantly that Tobias dropped his pen.
 
-"*Guarda-rios,*" said Aurelia, behind him, with a tea towel over her shoulder. [Kingfisher.]
+"*Guarda-rios,*" said Catarina, behind him, with a tea towel over her shoulder. [Kingfisher.]
 
 "Sorry?"
 
@@ -314,7 +314,7 @@ Herons stood in the reeds on one leg, like retired bank managers considering a t
 
 "We have a lot of kings."
 
-"You have *one* king," said Aurelia, "and two hundred tea."
+"You have *one* king," said Catarina, "and two hundred tea."
 
 So it became their game. In the evenings they sat on the jetty with a flask and the binoculars from the hall cupboard and traded names. The heron was *garça* for her and *heron* for him. The swallow was *andorinha*, a lovely word that he practised for days and still got wrong. The hoopoe, which strutted across the lawn one morning in a crown and a barred coat and the confidence of a man who has never once been criticised, was *poupa*.
 
@@ -334,11 +334,11 @@ And there was the pelican.
 
 It arrived on the fourth evening, a large white bird the size of a small sofa, which landed on the end of the jetty with the air of a man arriving late to his own surprise party. There are no wild pelicans in the south of France. Tobias said so, aloud, to the bird.
 
-"*Pelicano,*" said Aurelia, unimpressed. "He is lost."
+"*Pelicano,*" said Catarina, unimpressed. "He is lost."
 
 "He's a long way from home."
 
-"Everyone here," said Aurelia, "is a long way from home."
+"Everyone here," said Catarina, "is a long way from home."
 
 Madame Fournier, consulted over the garden wall, shrugged with the whole of her waistcoat. "He has been here since the summer. He escaped from a zoo in Montpellier. He likes the jetty, and he does not pay rent." She considered the bird. "He is the only honest tenant I have."
 
@@ -352,11 +352,11 @@ He had been watching the birds. It had seemed more important at the time.
 
 It happened for the first time over a burnt pan.
 
-Tobias was in the kitchen at one in the morning, hunting for a biscuit, when the smoke alarm went off. Aurelia came down the stairs in her dressing gown at the very same moment. They both stopped in the doorway, looked at the black pan on the stove, then at each other, and both said, in their own languages, at the same instant:
+Tobias was in the kitchen at one in the morning, hunting for a biscuit, when the smoke alarm went off. Catarina came down the stairs in her dressing gown at the very same moment. They both stopped in the doorway, looked at the black pan on the stove, then at each other, and both said, in their own languages, at the same instant:
 
 "Who left the stove on?" / "*Quem deixou o fogão ligado?*"
 
-Neither understood the other's words. Both understood perfectly. They stood with their mouths half open, and then Aurelia began to laugh, and Tobias, helplessly, did too.
+Neither understood the other's words. Both understood perfectly. They stood with their mouths half open, and then Catarina began to laugh, and Tobias, helplessly, did too.
 
 After that it kept happening.
 
@@ -364,7 +364,7 @@ He would reach for the dictionary just as she reached for the page. She would st
 
 "This is ridiculous," Tobias said one evening to the empty room. "I can't say one true thing to her. And she always knows what I mean."
 
-In the kitchen below, Aurelia put down her wooden spoon and said quietly to the stove: "*Não consigo dizer-lhe uma coisa verdadeira. E ele percebe sempre.*" [I can't say one true thing to him. And he always understands.]
+In the kitchen below, Catarina put down her wooden spoon and said quietly to the stove: "*Não consigo dizer-lhe uma coisa verdadeira. E ele percebe sempre.*" [I can't say one true thing to him. And he always understands.]
 
 Neither heard. The rain came down on the roof between them, saying it for both.
 
@@ -402,7 +402,7 @@ She let that sit for exactly as long as was cruel, then added: "Your Portuguese 
 
 "Mr Lind," said Mara kindly, "I don't speak Portuguese, but I'm fairly certain that is not how a person says that."
 
-He found out that evening. Aurelia, stirring the pot, asked him in her shining new English how he was, and he answered, with great dignity, "*Eu sou quente.*"
+He found out that evening. Catarina, stirring the pot, asked him in her shining new English how he was, and he answered, with great dignity, "*Eu sou quente.*"
 
 She dropped the spoon. She turned the colour of a ripe tomato and then began to laugh so hard that she had to hold onto the stove.
 
@@ -410,7 +410,7 @@ She dropped the spoon. She turned the colour of a ripe tomato and then began to 
 
 "Oh God."
 
-"Is okay," said Aurelia, wiping her eyes. "I think. Is a little bit true."
+"Is okay," said Catarina, wiping her eyes. "I think. Is a little bit true."
 
 They stood there, the Englishman and the Portuguese housekeeper, both scarlet to the ears, neither of them saying a word, and neither of them looking away.
 
@@ -428,11 +428,11 @@ He was a handsome, silver-haired man with a warm voice and a very expensive coat
 
 "Tragic. Do be careful with that house. The jetty is rotten. I'd hate to lose another guest."
 
-Tobias felt the sentence like a blade laid against his skin. But Hale was already smiling, already turning, already looking past him at Aurelia, who stood in the hall holding a tray of tea and watching the publisher with an expression Tobias could not read.
+Tobias felt the sentence like a blade laid against his skin. But Hale was already smiling, already turning, already looking past him at Catarina, who stood in the hall holding a tray of tea and watching the publisher with an expression Tobias could not read.
 
 "And you must be the new housekeeper. Where did you say you were from?"
 
-Aurelia's face went blank and polite. "*Não percebo,*" she said. [I don't understand.]
+Catarina's face went blank and polite. "*Não percebo,*" she said. [I don't understand.]
 
 Hale kept smiling. "No matter." Tobias noticed that he smiled the way other men checked their watches.
 
@@ -440,7 +440,7 @@ But later, when the car had gone, Tobias found her at the kitchen sink with her 
 
 ### Chapter 9: The Photograph
 
-It was Aurelia herself who told him in the end, and it took the whole of one long evening.
+It was Catarina herself who told him in the end, and it took the whole of one long evening.
 
 She sat him at the kitchen table, put the dictionaries between them, and laid a photograph beside them. A younger woman with her smile, standing on this same jetty in summer.
 
@@ -448,11 +448,11 @@ She sat him at the kitchen table, put the dictionaries between them, and laid a 
 
 Word by painful word, with the dictionary and drawings on the back of an envelope, the story came out in a mixture of English and Portuguese that neither of them could have spoken the week before.
 
-"My sister, she work here. Two year. *Para o Hale.* In March, she telephone me. Night. She is..." Aurelia searched. "*Assustada.* Afraid. She say, *I saw something. I cannot stay. Do not tell anyone.* Then she is gone."
+"My sister, she work here. Two year. *Para o Hale.* In March, she telephone me. Night. She is..." Catarina searched. "*Assustada.* Afraid. She say, *I saw something. I cannot stay. Do not tell anyone.* Then she is gone."
 
 "She saw Elise," Tobias said slowly. "She saw what happened at the jetty."
 
-Aurelia nodded. Tears stood in her eyes and she did not wipe them.
+Catarina nodded. Tears stood in her eyes and she did not wipe them.
 
 "You came to find her. That's why you took the job."
 
@@ -462,7 +462,7 @@ He reached across the table and covered her hand with his. Neither of them moved
 
 "Then we will find her together," said Tobias.
 
-At the very same moment Aurelia said, in Portuguese, "*Então vamos encontrá-la juntos.*"
+At the very same moment Catarina said, in Portuguese, "*Então vamos encontrá-la juntos.*"
 
 The same sentence, in two languages, arriving across the table together. They stared at each other.
 
@@ -470,7 +470,7 @@ The same sentence, in two languages, arriving across the table together. They st
 
 They worked in the study from then on, side by side.
 
-Tobias rebuilt the manuscript chapter by chapter. Aurelia sat opposite with her sister's old keys, her sister's old address book, and her own quiet sharp memory of every detail Inês had ever mentioned. She was the one who noticed that the lost chapters had a gap: the night of Elise's death, between ten and midnight, which the original manuscript had covered in a single page.
+Tobias rebuilt the manuscript chapter by chapter. Catarina sat opposite with her sister's old keys, her sister's old address book, and her own quiet sharp memory of every detail Inês had ever mentioned. She was the one who noticed that the lost chapters had a gap: the night of Elise's death, between ten and midnight, which the original manuscript had covered in a single page.
 
 "This page. Where?"
 
@@ -488,7 +488,7 @@ And then, a few seconds later, Hale's voice. Smooth. Almost kind.
 
 *"Come down to the jetty, Elise, and we'll talk about it."*
 
-Aurelia was crying openly now, the recorder cupped in both hands. Tobias took it gently, set it on the desk, and did what he had wanted to do for weeks. He put his arms round her.
+Catarina was crying openly now, the recorder cupped in both hands. Tobias took it gently, set it on the desk, and did what he had wanted to do for weeks. He put his arms round her.
 
 She stiffened. Then she let her forehead drop against his shoulder and said, in a voice too soft to hear, a word he did not need a dictionary for.
 
@@ -502,21 +502,21 @@ She stiffened. Then she let her forehead drop against his shoulder and said, in 
 
 Hale came back on a Sunday night, uninvited, with his headlights off.
 
-Tobias heard him first. He was in the study with Aurelia, translating Inês's notebook, when the third stair creaked. He put a finger to his lips and killed the lamp.
+Tobias heard him first. He was in the study with Catarina, translating Inês's notebook, when the third stair creaked. He put a finger to his lips and killed the lamp.
 
 "Mr Lind?" Hale's voice drifted up the stairwell, pleasant as ever, in the tone of a man who has never once been refused a second helping. "I thought we might talk about your novel. I understand you've been recovering the lost chapters."
 
-Aurelia gripped his wrist in the dark and mouthed one word. "*Janela.*" [Window.]
+Catarina gripped his wrist in the dark and mouthed one word. "*Janela.*" [Window.]
 
 They went out through the study window onto the porch roof, and down the old trellis, and across the wet lawn toward the lake. Behind them a door slammed. A torch swung across the grass.
 
-"Jetty," Aurelia whispered. "Boat."
+"Jetty," Catarina whispered. "Boat."
 
-There was an old rowing boat, half sunk at the pilings. They shoved it free and rowed for the middle of the lake with the tape in Tobias's coat and the notebook inside Aurelia's blouse, while Hale stood at the end of the jetty with his torch and his smile.
+There was an old rowing boat, half sunk at the pilings. They shoved it free and rowed for the middle of the lake with the tape in Tobias's coat and the notebook inside Catarina's blouse, while Hale stood at the end of the jetty with his torch and his smile.
 
 "You can't row forever, Tobias," his voice came, calm over the water. "And your friend can't swim, can she?"
 
-"*Eu nado,*" said Aurelia through her teeth. [I swim.] Then, in English, louder, for Hale's benefit: "I swim, you *bloody* man."
+"*Eu nado,*" said Catarina through her teeth. [I swim.] Then, in English, louder, for Hale's benefit: "I swim, you *bloody* man."
 
 She stood up in the rocking boat, took the notebook from her blouse, and held it high.
 
@@ -526,7 +526,7 @@ And from the far shore, a light answered.
 
 ### Chapter 12: The Far Shore
 
-Inês Santos had been living in the boathouse on the other side of the lake since March.
+Inês Vidal had been living in the boathouse on the other side of the lake since March.
 
 She came out onto the dock, thinner than in the photograph, with a lantern in one hand and a shotgun in the other. Behind her, running down the lane with blue lights flashing, came Inspector Quill and four constables.
 
@@ -542,7 +542,7 @@ Hale did not run. He stood at the end of his own jetty in his beautiful coat and
 
 Hale's smile faltered for the first time. "I'm a cashier, Inspector," he said. "A very well-dressed cashier. If you think I'm the one who decides, you've read the wrong book."
 
-"No," said Aurelia, stepping onto the dock, soaked and shaking, and putting an arm round her sister. "*Não é só papel.*"
+"No," said Catarina, stepping onto the dock, soaked and shaking, and putting an arm round her sister. "*Não é só papel.*"
 
 She said it again in English, slowly, so that everyone could hear.
 
@@ -558,13 +558,13 @@ The trial was in March, one year to the day after Elise Marchetti died.
 
 Hale, who turned out to be a better witness than a villain, gave up the name by the second week: Armand Vial, chairman of the Vial-Sorel Group of Marseille, who had been using the Verrane Award, and a dozen other prizes and foundations like it, to wash money through the entry fees of people who only wanted to be read. Vial was arrested at Marseille airport trying to board a flight to Geneva with a single suitcase and a signed first edition. The first edition was of Tobias's previous novel. It was the only copy he had ever seen sold at full price.
 
-Hale was convicted on every count: murder, theft of the Marchetti estate, and fraud against 11,400 hopeful writers, each of whom had paid £60 to be told they had not won. The judge remarked that it was the first time the Verrane Award had ever delivered what it promised, which was a disappointment for everybody. Tobias gave evidence for two hours. Aurelia gave hers for four, in English that was still careful but no longer broken, with her sister beside her, and when the judge thanked her for her courage she answered in a clear voice, "I only read the pages."
+Hale was convicted on every count: murder, theft of the Marchetti estate, and fraud against 11,400 hopeful writers, each of whom had paid £60 to be told they had not won. The judge remarked that it was the first time the Verrane Award had ever delivered what it promised, which was a disappointment for everybody. Tobias gave evidence for two hours. Catarina gave hers for four, in English that was still careful but no longer broken, with her sister beside her, and when the judge thanked her for her courage she answered in a clear voice, "I only read the pages."
 
 Afterwards, on the courthouse steps, in the cold bright light, Tobias held out a thin bound manuscript.
 
 "It's finished. The book. I rewrote the lost chapters from your notes and Inês's, and the tape, and everything we found."
 
-Aurelia took it. The title page read: *The Lake House Manuscript. For Aurelia, who went in after it.*
+Catarina took it. The title page read: *The Lake House Manuscript. For Catarina, who went in after it.*
 
 She was quiet for a long time. Then she looked up at him with her serious dark eyes, and he saw that she was trying not to laugh.
 
@@ -576,7 +576,7 @@ She was quiet for a long time. Then she looked up at him with her serious dark e
 
 "That," said Tobias, "is a very low bar."
 
-"Is the lowest in Europe," Aurelia agreed. "I check."
+"Is the lowest in Europe," Catarina agreed. "I check."
 
 She stepped closer. She put the manuscript under her arm. She took his face in both hands, and she said, first in Portuguese and then in English, slowly, so there could be no mistake:
 
@@ -586,11 +586,11 @@ He opened his mouth and found that for once in his career he had no words at all
 
 "*Eu amo-te,*" said Tobias Lind, in terrible Portuguese.
 
-"I love you," said Aurelia Santos, in English, at exactly the same moment, as she always had.
+"I love you," said Catarina Vidal, in English, at exactly the same moment, as she always had.
 
 They stopped. Each had spoken the other's language, and neither had planned to.
 
-"*Terrible,*" said Aurelia, laughing, finally laughing, with her sister clapping on the steps and the spring wind lifting her hair. "Both of us. Very bad. I love it."
+"*Terrible,*" said Catarina, laughing, finally laughing, with her sister clapping on the steps and the spring wind lifting her hair. "Both of us. Very bad. I love it."
 
 She kissed him then, in the cold sun, in front of the whole courthouse. A single stray page of an old draft, blown loose from nowhere, spun up over their heads, caught the light, and drifted away down the street. Somewhere in the distance, quite impossibly, a pelican was heard to clear its throat.
 
