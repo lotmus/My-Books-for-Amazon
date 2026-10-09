@@ -4,6 +4,23 @@
 
 > **A note on the languages.** Tobias Lind is English, from Leeds. Catarina Vidal is Portuguese, from a fishing town near Porto. At the start they share almost no words. Early on, her Portuguese is shown in italics with the meaning in square brackets. As Tobias learns, the brackets disappear. As Catarina learns, her English slowly stops breaking.
 
+> **Cast of characters.**
+> **Tobias Lind**, a writer. Wet.
+> **Catarina Vidal**, a housekeeper. Not wet, unless provoked.
+> **Inês Vidal**, her sister. Sarcastic. Has read everything.
+> **Fernanda Vidal**, the eldest sister. Has opinions. Has a van.
+> **Madame Odile Fournier**, 73. Owns the house, the lake, the gatepost and, legally, a tractor.
+> **Inspector Mara Quill**, who has seen things, mostly Tobias.
+> **Captain Anselm Brunner**, Pontifical Swiss Guard. Armed with an umbrella.
+> **Victor Hale**, a publisher. Dreams of a Porsche. Does not have one.
+> **Armand Vial**, a gangster. Does the dishes.
+> **Gaston and Gaston**, henchmen. Not related. Both answer to either.
+> **Nigel and Priscilla Pemberton-Hayes**, English abroad. Nigel is the back half of a horse.
+> **A pelican**, as himself.
+> **A snake**, whereabouts unknown.
+>
+> *No animals were harmed in the writing of this book. The snake has not been found, so we cannot confirm his condition.*
+
 ---
 
 ## Prologue: Leeds, a Tuesday
@@ -90,7 +107,7 @@ She held up a sheet. The ink had run into grey rivers. "*Escrito,*" she said [Wr
 
 She shook her head firmly and went on drying.
 
-He sat across from her for an hour and said nothing, because he had nothing in a language she could use. At the end of it she put a mug of tea in front of him, much too weak, in a cup with a chip in it, and walked out. He realised it was the kindest thing anyone had done for him in a year.
+He sat across from her for an hour and said nothing, because he had nothing in a language she could use. At the end of it she put a mug of tea in front of him, so weak that the tea bag had clearly been introduced to the water only briefly, in a cup with a chip in it, and walked out. He realised it was the kindest thing anyone had done for him in a year.
 
 "Thank you," he called after her. "*Obrigado,*" he added, proud of his one word.
 
@@ -108,9 +125,13 @@ It was a crime novel, the best he had written, and it was built on something tru
 
 There was more. Elise's last emails had mentioned a literary prize, the Verrane Foundation Award, which charged hopeful writers a £60 entry fee and had never once, in nine years, awarded anything. She had also mentioned that her late mother's estate, including the rights to a bestselling backlist, had somehow ended up in the hands of her publisher. Tobias had read the emails four times. Murder, theft and a scam, he thought, and all of it with excellent letterhead.
 
+He rang the Foundation's hotline, to be sure. A man answered in the most aristocratic voice Tobias had ever heard, a voice like a cashmere blanket being lowered onto a duke, and said, "Welcome to the Verrane Award, where every writer is a winner." In the background, a hundred voices were murmuring the same sentence in the same velvet tone. Tobias asked, innocently, how many prizes had actually been awarded. There was a pause, and the voice slipped, just for one second, into the flat bark of a Marseille docker. "*Putain,*" it said, "*qui c'est, celui-là?*" Then the velvet came back down, and the line went dead.
+
 Then, with the help of a newspaper archive and a very long afternoon, he found the other two. In April an auditor named Pascal Aubry had fallen from a hotel balcony in Lyon. In June a notary, Maître Giraud, had driven off a bridge near Avignon. Both deaths were ruled accidents. Both men, Tobias discovered, had spent their last weeks examining the accounts of the Verrane Foundation. Nobody had ever put the three names on one page. That, he realised, was what his manuscript was: the first page they were all on.
 
 It was a terrible thing to have written, and a worse thing to have lost, and he was rather proud of it.
+
+He had pinned the three names to the study wall with red string, as detectives do in films. It was a dramatic arrangement. He stepped back to admire it, and the string, the pins, the three photographs and, as it turned out, the left-hand curtain all came down on him at once, and he stood for some time in a shroud of toile de Jouy, wondering where it had all gone wrong.
 
 Tobias had never believed it. Elise had once refused to cross a puddle on the grounds that it looked ambitious. He had come to the lake house to prove it, and the novel was his method, because it was the only way he knew how to think. Every chapter reconstructed the night she died, and he had disguised the real names so thinly that anyone who knew the story would spot the villain on the first page.
 
@@ -170,7 +191,7 @@ She opened the first one. She read slowly, with a finger under each word, and th
 
 It was the best definition of *welcome* he had ever heard. He wrote it down.
 
-### Chapter 4½: The Wrong Side of the Road
+### Chapter 5: The Wrong Side of the Road
 
 Lake Verrane was in the south of France, which Tobias had known for several weeks and had somehow still failed to prepare for.
 
@@ -232,7 +253,7 @@ Madame Fournier set down the coffee pot with a small, precise click.
 
 It was the first sentence she had said all afternoon that he understood completely, in any language.
 
-### Chapter 4¾: Optical Character Recognition
+### Chapter 6: Optical Character Recognition
 
 On the third day Tobias announced that he would scan the pages.
 
@@ -270,7 +291,7 @@ He looked at the printout, then at her, then at the machine blinking its small g
 
 He put the laptop back in its bag. For the first time in his life, he typed the next chapter on the Olivetti on purpose.
 
-### Chapter 5: The Study Window
+### Chapter 7: The Study Window
 
 They fell into a routine that neither would have called a routine.
 
@@ -292,7 +313,7 @@ The reply came under his door that night, in pencil, with a line of Portuguese c
 
 He laughed until his tea went cold. He learned later that she had meant to write *a cow on holiday*, which in her mind was a kindness. In Portuguese it would have been a compliment. In English it was merely a cow.
 
-### Chapter 5½: Birds
+### Chapter 8: Birds
 
 The lake lay at the bottom of a valley in the French countryside, and it did not appear to be aware that anyone was writing a murder mystery on its shore.
 
@@ -348,7 +369,7 @@ He would think about those evenings later, when he was sitting in a courtroom in
 
 He had been watching the birds. It had seemed more important at the time.
 
-### Chapter 5¾: The Snake
+### Chapter 9: The Snake
 
 On the fifth day of October, at approximately eleven in the morning, Tobias saw a snake.
 
@@ -388,7 +409,77 @@ But everyone, ever after, felt it. In the evenings, when the light went, Tobias 
 
 The snake, as far as anybody ever learned, was never found.
 
-### Chapter 6: The Same Thought
+### Chapter 10: The Hotel
+
+The leaflet arrived on a Wednesday, pushed under the door by a postman who would not meet Tobias's eye.
+
+*HÔTEL DU COUPLE,* it said, in a cheerful font. *A place for the unattached. Reserve your stay now. Rules apply.*
+
+"It's for single people," said Madame Fournier, over the wall, in the voice of a woman describing a public health measure. "It is on the hill. A very big hotel. You have forty-five days to find a partner. If you do not, you are turned into an animal."
+
+"I'm sorry?"
+
+"An animal of your choice. It is in the contract." She shrugged her whole waistcoat. "Lucien went in 2011. He was a widower for six weeks. He chose a pelican."
+
+Tobias looked at the lawn. On the Germans' sun lounger the pelican regarded him with an expression of ancient and ruined patience.
+
+"Is that why..."
+
+"I do not say," said Madame Fournier. "I only say that he stands like Lucien."
+
+Within the hour Tobias had received a second note, on the hotel's thick cream paper, informing him that his single status had been recorded at the border and that he had been admitted to the trial period. He had until the end of the month. He was to report to the front desk by four o'clock, where he would be assigned a partner or a hutch.
+
+"They cannot do this," said Catarina, who had come out of the kitchen with her fists on her hips. "This is not legal."
+
+"They're French," said Tobias. "I think it might be."
+
+The Hôtel du Couple was a vast white building on a hill, with a swimming pool, a view and the faint smell of fear. The manager, a woman of terrifying composure named Madame Dubois, received them at the desk with a clipboard.
+
+"Mr Lind. You have been alone for a very long time."
+
+"Eight weeks."
+
+"That is a very long time." She made a note. "And this lady?"
+
+"This is Catarina. We are..." He stopped. "We are, ah."
+
+"A couple?"
+
+"We don't, um. We haven't, as yet."
+
+"Then she must be assessed." Madame Dubois led them to a room with two chairs, a lamp and a pair of hard-faced guards in white. "In this hotel, a couple must have a defining trait in common. A limp. A nosebleed. A tendency to weep. Without this they cannot be sure they are *compatible.* What is yours?"
+
+Tobias and Catarina looked at each other. They said nothing for a long moment.
+
+"We're both terrible at languages," said Tobias.
+
+"Both appalling," said Catarina, in an English that was rapidly becoming magnificent.
+
+"That is not a trait," said Madame Dubois. "That is a condition."
+
+"We think the same thing," said Tobias, "at the same time."
+
+"Show me."
+
+The guard in white produced a card. It said *SOMETHING IS ABOUT TO HAPPEN.* He held it up behind Madame Dubois's head. Tobias and Catarina glanced at it, then at each other, and said together, in two languages, and in one voice: "Behind you."
+
+Madame Dubois turned. The guard, who had not been told to expect this, dropped the card.
+
+There was a long silence. The clipboard trembled.
+
+"You may go," said Madame Dubois, faintly. "You are, God help us, a couple. I have never seen such a bad one."
+
+They walked back down the hill in the late sun, side by side, not touching, not speaking. At the bottom, Tobias took a very deep breath.
+
+"Catarina. I think we should clear something up."
+
+"I know," said Catarina, quickly. "I also."
+
+"I mean to say, I'd really rather not be a hedgehog."
+
+"No," said Catarina, with what might have been disappointment, and might have been relief. "No. Nor I."
+
+### Chapter 11: The Same Thought
 
 It happened for the first time over a burnt pan.
 
@@ -408,7 +499,7 @@ In the kitchen below, Catarina put down her wooden spoon and said quietly to the
 
 Neither heard. The rain came down on the roof between them, saying it for both.
 
-### Chapter 6½: The Pemberton-Hayeses
+### Chapter 12: The Pemberton-Hayeses
 
 The neighbours who had telephoned the police were an English couple called Nigel and Priscilla Pemberton-Hayes. They had retired to France eleven years ago to "live more simply," and had since built a conservatory, a wine cellar and a second conservatory in which to store the first.
 
@@ -488,7 +579,7 @@ Catarina considered this for a long time. "The English," she said at last, "are 
 
 "That," said Catarina, "is the most English part."
 
-### Chapter 7: Bloody Hell
+### Chapter 13: Bloody Hell
 
 Her English improved in jumps, and always by theft.
 
@@ -536,7 +627,7 @@ They stood there, the Englishman and the Portuguese housekeeper, both scarlet to
 
 ---
 
-### Chapter 7½: Stars
+### Chapter 14: Stars
 
 The power cut came back that night, as power cuts do, and this time it took the whole valley with it.
 
@@ -600,7 +691,7 @@ From the far end of the jetty came a long, offended clearing of the throat. The 
 
 ---
 
-### Chapter 7¾: A Day Off
+### Chapter 15: A Day Off
 
 "I am not allowed a holiday," said Catarina.
 
@@ -664,11 +755,13 @@ The scream could be heard in Arles.
 
 "Is only a flamingo," called Catarina over her shoulder, kindly. "He is not rude. He is just pink."
 
+By the second bottle of rosé Tobias had become convinced that the flamingos were organised. He said so, loudly, to a waiter. He said they were in formation, that they had a leader, a sergeant-flamingo with a tragic face, and that one of them, the third from the left, had the very expression of his old accountant in Harrogate. "He knows what I did with the receipts," he whispered. Catarina led him gently to the car by the elbow, murmuring in Portuguese, and the rest of the lunch has never been spoken of.
+
 Afterwards they drove home with the windows down, sunburnt, sticky, slightly drunk on rosé, and so happy that neither of them spoke for the entire hour. At a red light, Tobias looked across at her and found her looking at him, and for a moment neither of them could say what they were both thinking.
 
 It was the first holiday she had taken since 2019. He did not mention that it was also his.
 
-### Chapter 7⅞: Cézanne's Light
+### Chapter 16: Cézanne's Light
 
 They went to Aix on a Sunday, with no purpose at all, which Catarina regarded as the most decadent thing she had ever done.
 
@@ -724,7 +817,7 @@ She nodded slowly, leaning against his shoulder, watching the light go. She did 
 
 ## Part Three: The Sister
 
-### Chapter 8: The Visitor
+### Chapter 17: The Visitor
 
 Victor Hale arrived on a Friday, in a silver Porsche that was far too low for the lane. It scraped on every pothole with a noise like a rich man clearing his throat.
 
@@ -744,7 +837,7 @@ Hale kept smiling. "No matter." Tobias noticed that he smiled the way other men 
 
 But later, when the car had gone, Tobias found her at the kitchen sink with her hands clenched white on the edge of the basin, and he understood that she had understood every word.
 
-### Chapter 8½: Lobster
+### Chapter 18: Lobster
 
 Inspector Mara Quill did not take holidays. She took leave, which is different. On the Saturday she drove to Marseille, to the old harbour, on the pretext of a dentist.
 
@@ -772,11 +865,11 @@ Mara watched him lift a claw and smile at it, and thought of eleven thousand wri
 
 She did not finish the thought. She had never been a woman for speeches. She paid for her coffee, left a generous tip for a waiter who would never know why, and went out into the grey Mediterranean light, and made a telephone call that would take eleven weeks to come to anything at all.
 
-### Chapter 9: The Photograph
+### Chapter 19: The Photograph
 
 It was Catarina herself who told him in the end, and it took the whole of one long evening.
 
-She sat him at the kitchen table, put the dictionaries between them, and laid a photograph beside them. A younger woman with her smile, standing on this same jetty in summer.
+She sat him at the kitchen table, put the dictionaries between them, and laid a photograph beside them. A younger woman with her smile, standing on this same jetty in summer. Tobias, trying to be helpful, drew her on the back of an envelope. Catarina looked at the drawing for a long moment and said, "This is not a woman. This is a lamppost with an opinion."
 
 "Inês," she said. "*Minha irmã.*" [My sister.]
 
@@ -800,7 +893,7 @@ At the very same moment Catarina said, in Portuguese, "*Então vamos encontrá-l
 
 The same sentence, in two languages, arriving across the table together. They stared at each other.
 
-### Chapter 10: The Rewriting
+### Chapter 20: The Rewriting
 
 They worked in the study from then on, side by side.
 
@@ -814,11 +907,37 @@ Tobias rebuilt the manuscript chapter by chapter. Catarina sat opposite with her
 
 They found it at midnight. Inside the false back, wrapped in oilskin, lay a notebook in Inês's handwriting and a small tape recorder.
 
+They had to borrow a cassette player from Madame Fournier's kitchen. It turned out to be built into a radio, and the first button Tobias pressed played Édith Piaf at full volume for four minutes, through the open window, over the lake, to the great alarm of a heron. The second button was the right one.
+
 On the tape, Elise Marchetti's voice, clear and frightened:
 
 *"Victor, I know you took the Marchetti estate. I know the Verrane Award is a fraud and you've pocketed eleven thousand entry fees. I have the contracts and the bank statements. If you don't give the rights back and close the foundation, I'll take them to the press tomorrow."*
 
-And then, a few seconds later, Hale's voice. Smooth. Almost kind.
+Behind the false back of the cabinet there was, they now saw, a second door.
+
+It was a very small door, about three feet high, painted the same colour as the wainscot, with a tiny brass handle. Inês had left a note on the inside: *DO NOT USE. TRUST ME.* Tobias, being a man who had never once followed a warning in his life, opened it.
+
+It led to a damp, low, rather dark tunnel, smelling of aftershave. At the end was a flicker of light. He crawled through it on his hands and knees and found himself, with a wet little *pop,* looking out through someone else's eyes.
+
+He was in the dining room of a very large house. He was eating a croissant. He was wearing a silk dressing gown, which was warm and expensive, and in his mind there was a single steady thought, like a drum beating in a cave: *Porsche. Porsche. Porsche. Porsche.* Beneath it, much fainter, in a small boy's voice, came another: *Don't break it this time.*
+
+It was Victor Hale. Tobias was inside Victor Hale's head.
+
+He had fifteen minutes. He used them well. He read the calendar on the wall, which said that Mr Hale would be visiting the lake house on Sunday at nine in the evening. He looked into the safe in the corner of the study, whose combination, Hale was thinking, was 1-9-6-4, the year of his first toy Porsche, which his brother had broken. He saw the whole of the Verrane account, a long list in neat numbers. And he watched Hale reach out, pick up a telephone, and say in a smooth voice, to someone called Armand, "Everything is under control."
+
+Then there was a rush of air, a flash of light, and a great grinding noise, and Tobias was spat out of a ditch beside the A7 motorway near Orange, wet, shaken, and covered in Hale's hair.
+
+He hitchhiked home. It took three hours, a lift from a lorry full of ducks, and a long, silent conversation with a nun. When he got back, Catarina took one look at him and said only: "Inês said not to use the door."
+
+"I know."
+
+"Was it good?"
+
+"Extremely," said Tobias. "He's thinking about his Porsche, mostly. Also, he's very sad about his brother."
+
+"We are all very sad about our brothers," said Catarina, and made him tea.
+
+They listened to the tape again, then. On it, a few seconds after Elise had finished, they heard Hale's voice. Smooth. Almost kind.
 
 *"Come down to the jetty, Elise, and we'll talk about it."*
 
@@ -832,7 +951,7 @@ She stiffened. Then she let her forehead drop against his shoulder and said, in 
 
 ## Part Four: The Lake
 
-### Chapter 10½: The Long Way to Aix
+### Chapter 21: The Long Way to Aix
 
 Inês's notebook ended with an address in Aix-en-Provence: *Maître Lucien Barbier, Notaire, 14 rue Gaston de Saporta, 17h00.* Beneath it, underlined twice: *the originals.*
 
@@ -882,7 +1001,7 @@ He understood every word.
 
 They did not reach Aix until half past six. The plane trees along the Cours Mirabeau were already throwing their long shadows, the fountains were running gold, and number fourteen, rue Gaston de Saporta, was a tall honey-coloured house with its shutters closed and a small brass plate that said MAÎTRE BARBIER, NOTAIRE.
 
-The door was ajar. Inside, the office had been taken to pieces. Drawers upended, files on the floor, a safe standing open and empty. A neighbour in a dressing gown told them in rapid French that two men in dark coats had come at a quarter to five, left at five, and that Maître Barbier, a gentleman of eighty, was at that moment in the hospital with a bruised arm and extremely bad temper.
+The door was ajar. Inside, the office had been taken to pieces. Drawers upended, files on the floor, a safe standing open and empty. A neighbour in a dressing gown told them in rapid French that two men in dark coats had come at a quarter to five. They were, she said, extremely loud for burglars. One had kept shouting "Gaston!", and the other had replied "Oui?", and the first had said, "Not you, the other Gaston!", and for a while it had gone on like that. They had left at five, taking a safe, an umbrella stand and, for reasons the neighbour could not explain, a stuffed owl. And that Maître Barbier, a gentleman of eighty, was at that moment in the hospital with a bruised arm and extremely bad temper.
 
 "At five," said Tobias slowly.
 
@@ -924,7 +1043,7 @@ Catarina picked it up. Tobias took it from her very gently and snapped it in two
 
 "No," said Catarina. "He is a man who has never once been in a boat."
 
-### Chapter 10¾: The Man from Rome
+### Chapter 22: The Man from Rome
 
 He arrived at the lake house at eight o'clock that evening, on foot, in the rain, with an umbrella held at the precise angle of a bayonet.
 
@@ -951,6 +1070,26 @@ They sat him in the kitchen. He declined tea, accepted water, declined the glass
 "We know," said Tobias.
 
 "In her estate was an item. A manuscript. A book of hours, written in Avignon in the year 1347, with illuminations of the highest quality. It is known as the Marchetti Codex. It belonged, until the French Revolution, to the Apostolic Library. It was *stolen* from the Apostolic Library in 1793, by a man with a very bad character and a very good coat." He paused. "The Holy See has been looking for it for two hundred and thirty years. We are not hasty."
+
+"Couldn't you just go back and stop him?" said Tobias. It was meant as a joke.
+
+Captain Brunner did not smile. He put his hands flat on the table and looked, for the first time, uncomfortable.
+
+"Mr Lind. There is, in the basement of the Apostolic Palace, between the gift shop stockroom and a very old boiler, a machine. It was built by Leonardo da Vinci, who was a genius and a poor communicator. It is not on any plan. Very few people know. The Swiss Guard are the only people permitted to touch it."
+
+"A time machine," said Catarina.
+
+"A *historical correction apparatus.* It works only on Tuesdays, and only as far as 1517, and the last time we used it, England became Protestant and the Swiss became cheesemakers." He sighed. "We tried to put it right. We tried to back the Bavarians. It did not go well. Since then, there is a rule. We may observe. We may not change anything. A single drop moved in a lake, as one of my superiors says, and the whole lake is somebody else's."
+
+"But you *could,*" said Tobias, slowly.
+
+"I could go back to 1793, yes. I could catch the thief by his good coat." Brunner looked at the window. "I could also go back to March of this year, to a jetty, at night, and stop a woman from going down to talk to a publisher."
+
+Nobody spoke. The rain came down on the roof.
+
+"I have thought about it," said Brunner quietly. "I think about it often. It is not allowed, and it would not work, and Elise Marchetti would not be the woman who gave Mr Lind his first book, or, in a way I do not fully understand, brought Miss Vidal to a lake." He turned his umbrella over once in his large hands. "So I will not. I will find the book. It is the only repair I am permitted."
+
+Catarina put her hand on his sleeve, as she had once put it on Tobias's. Brunner looked at it, then at her, and for the first time that evening his stern, severe, Swiss face came apart in an expression of enormous gratitude.
 
 "You were not told the whole of it," said Brunner. "Hale is a cashier. The man who decides is Armand Vial, chairman of a group in Marseille which the Italian and French police both describe, in their confidential reports, as a criminal organisation of the old kind. They have the usual interests. Ports, concrete, restaurants, and a number of people who are no longer available for comment." He did not raise his voice. "Eighteen months ago, the Vial-Sorel Group donated two million euros to the restoration fund of the Apostolic Library. They were given a private tour. They were photographed with a cardinal. It was, I am told, a very warm afternoon."
 
@@ -980,6 +1119,10 @@ Inspector Mara Quill, summoned by a worried Tobias, arrived within the hour and 
 
 "None whatever, Inspector. I have no jurisdiction anywhere, except a very small country with a lovely garden." He met her eye without a flicker. "I wish only to ask where a book is. If it is found, I wish to carry it home. I do not wish to arrest anybody. I am not able. I could hit them with the umbrella, but I believe this would be irregular."
 
+"It's a very firm umbrella," said Tobias.
+
+"It is more than an umbrella." Brunner turned the handle, and a small blade slid out of it, followed by a corkscrew, a pair of tweezers, a toothpick, a tiny saw, a torch, a signal flare, a fondue fork, a spirit level, a bottle opener, a magnifying glass, a cuckoo clock and, finally, to the astonishment of everyone present, a small cheerful flag of the Swiss Confederation, which flew up the length of the ribs and flapped. "It was a gift from my mother. She is very practical. I have been told it is not normal for an umbrella to have a cheese grater." He looked at it with deep tenderness. "But what is normal, after all, in the service of God?"
+
 "You'd be surprised how irregular I can be," said Mara, with a trace of respect.
 
 "I have been told," said Brunner, "that the English are very good at it."
@@ -998,7 +1141,97 @@ It was Catarina who found the missing piece. She had been turning the old calend
 
 "I am Swiss," said Brunner, with a small, weary, dignified smile. "I have spent my whole life being mocked by the French. It is how they show affection."
 
-### Chapter 11: The Trap
+### Chapter 23: Home Alone, Mostly
+
+Hugo Pemberton-Hayes was nine, and large for his age in the head.
+
+He had been left at the lake house for the night, because Nigel and Priscilla were at a technical rehearsal of *Dick Whittington* (Priscilla as the Dame, Nigel as the back half of a horse, and the horse, by all accounts, dreadful), and Chloe had a date with a roofer. Hugo had been delivered at six with a rucksack, a torch, a library copy of *Poisonous Plants of the Mediterranean,* and an expression of immense and unnatural calm. He had spent the afternoon reading all of Tobias's published novels, which was four books, and which had taken him two hours.
+
+"They're quite good," he told Tobias, at supper. "The second one has a plot hole."
+
+"I've been told."
+
+"The murderer couldn't have been in the library at ten, because he's on the stairs at nine fifty-eight in chapter six. And the poison's wrong. It's *belladonna,* not *foxglove.* I looked it up."
+
+"I'll bear that in mind."
+
+"You do that," said Hugo kindly, and went to bed with the torch.
+
+At half past nine Tobias and Catarina walked over to Madame Fournier's to collect the key to the bank, leaving Hugo asleep upstairs with the pelican on guard on the porch. At ten past ten, a van with no lights pulled up at the bottom of the lane.
+
+Two men got out. They wore dark coats, balaclavas and the stiff, hunted air of the professionally unlucky.
+
+"Gaston," whispered the first one.
+
+"Oui?"
+
+"Not you. The other one."
+
+"There is no other one, Gaston! It is only the two of us!"
+
+They crept up to the lake house door, which was unlocked, because Tobias was English and believed in people. Inside, the hall was dark. The first Gaston stepped forward, and his foot came down on a layer of marbles.
+
+What followed was a precise geometry of misfortune. Gaston One's legs went east. Gaston Two, reaching out to catch him, grasped the hall coat-stand, which toppled neatly, and brought down the umbrella stand, two walking sticks and a brass gong that Madame Fournier had always said was "a decoration," which it was not. The sound rang through the valley like a call to arms. Both men slid together down the length of the corridor on their backs, shouting in French, and arrived at the kitchen door in a tangle of coats and elbows.
+
+They sat up.
+
+"Gaston," said Gaston One, in the voice of a man who has seen the face of fate. "I believe there is a child in the house."
+
+"*Un enfant?*"
+
+"I heard a small sound. A little *giggle.*"
+
+Upstairs, in the dark, a torch clicked on beneath a chin.
+
+They did not find the stairs easily, as each step had been waxed with olive oil from the six litres Catarina had bought at the mill. They climbed on hands and knees. At the top, they met a paint pot. Hugo had tied the pot to a length of Tobias's typewriter ribbon, and the pot, released from the landing, swung down in a long dignified arc and met Gaston Two in the face with the sound of a bell. He sat down in a cloud of emulsion. It was a very handsome shade of duck-egg blue.
+
+"The study!" hissed Gaston One. "The originals are in the study!"
+
+The door of the study was hot. Someone had left the iron on its flat side in front of it and then, with great ingenuity, tied it to the handle. Gaston One put out his hand, grasped the handle, shouted something that has not appeared in print, and let go. Gaston Two, ducking past, stepped on a tray of Catarina's cold custard, and shot across the floor on it like a man on a toboggan, and went out through the study window with a long, thin, receding cry and landed in the lake.
+
+From the window seat, in the dark, a small voice spoke.
+
+"I'm nine," said Hugo. "My father's a solicitor. I know all about trespass."
+
+Gaston One turned. In the beam of the torch he saw a child in pyjamas, sitting upright with the *Poisonous Plants* open on his knee, flanked by a kettle, a bag of flour, a pot of glue and what appeared to be the house's entire supply of Christmas lights.
+
+"Little boy," said Gaston One, very gently. "Where are your parents?"
+
+"At rehearsal," said Hugo. "Dad's the back half of a horse."
+
+"I see. And you are alone."
+
+"Not exactly," said Hugo. He raised one hand and pointed at the ceiling.
+
+Gaston One looked up. The study ceiling was hung from end to end with the lights, and from the lights, on a series of pulleys, with the dignified expression of a large and extremely cross bird, hung the Olivetti, all fifteen kilos of it, balanced precariously on a single piece of string.
+
+"That's my father's best typewriter," said Hugo, who was fond of drama. "Mr Lind says he'd rather lose a kidney."
+
+Gaston One said, in perfect English, "Please, no."
+
+He did not get his wish. Ten minutes later, when Tobias and Catarina came back along the lane with the key, they found a white van abandoned with its doors open, two men sitting on the lawn in the moonlight wrapped from neck to ankle in fairy lights, glued to each other, covered in feathers, flour, and duck-egg blue, one of them still wearing a custard tray and the other with a pelican standing on his chest. In the porch sat Hugo, in his pyjamas, with a mug of cocoa, reading, under the watchful eye of the bird.
+
+"I rang the Inspector," said Hugo, not looking up. "She's on her way. I did my father's voice, so she thought I was a gangster. She's very cross."
+
+"Hugo," said Tobias slowly, "did you use the Olivetti?"
+
+"I thought about it. It's not the sort of thing you can rig properly. Also I ate your biscuits." He turned a page. "Mr Lind, I'm sorry, you're out of biscuits. Also the dead washing machine's been moved to the front door."
+
+"It was a good washing machine," said Catarina, with dignity, and went to look.
+
+The Gastons were arrested at midnight by an Inspector in her dressing gown. They did not resist. They were beyond resistance. As they were led, still glittering, to the car, the first Gaston was heard to say, in a voice of broken wonder, "Gaston. I think we should go to New York."
+
+"Why New York?" said the second.
+
+"It is a big city. We will be anonymous."
+
+"And the children?"
+
+"There are no children in New York," said Gaston One, and the car door closed on him.
+
+(This was, as it proved, not the case. The Gastons were out on bail by Sunday lunchtime, released by a magistrate who was on his way to a restaurant and signed the form without looking up.)
+
+### Chapter 24: The Trap
 
 Hale came back on a Sunday night, uninvited, with his headlights off.
 
@@ -1018,13 +1251,25 @@ There was an old rowing boat, half sunk at the pilings. They shoved it free and 
 
 "*Eu nado,*" said Catarina through her teeth. [I swim.] Then, in English, louder, for Hale's benefit: "I swim, you *bloody* man."
 
+Two figures had already launched from the far side of the jetty in pursuit, in the only craft available: a pedalo in the shape of a swan, rented in summer to children, with a smiling plastic head and one large staring eye. They pedalled with the grim, magnificent synchrony of two men who had never agreed on anything.
+
+"Faster, Gaston!"
+
+"I am pedalling, Gaston!"
+
+"Not you, the other Gaston!"
+
+"There is only one other Gaston, Gaston!"
+
+The swan made it forty feet. Then, with a wet, tired, sorrowful noise, it filled quietly with lake and sank by the tail, leaving the two men sitting up to their chests in the water, still pedalling, with the swan's smiling head bobbing between them like a third accomplice. From the reeds, a pelican lifted its head and watched them with the face of a judge who has seen it all and will be taking notes.
+
 She stood up in the rocking boat, took the notebook from her blouse, and held it high.
 
 "*INÊS!*" she shouted across the water. "*ESTOU AQUI!*"
 
 And from the far shore, a light answered.
 
-### Chapter 12: The Far Shore
+### Chapter 25: The Far Shore
 
 Inês Vidal had been living in the boathouse on the other side of the lake since March.
 
@@ -1066,7 +1311,93 @@ She said it again in English, slowly, so that everyone could hear.
 
 ## Part Five: The Last Page
 
-### Chapter 12½: The Germans
+### Chapter 26: The Opera at Aix
+
+With Hale in a cell and singing like a canary, the French police had everything they needed on Vial except Vial.
+
+He was a hard man to catch. He did not own a telephone. He did not use a bank. He moved between Marseille, Monaco and a yacht called the *Pénélope,* and trusted no one under the age of sixty. But Captain Brunner had an informant, a Vatican accountant who spoke very softly and was afraid of lifts, and the informant had a date: on Saturday, at the Aix summer opera, in the Théâtre de l'Archevêché, Armand Vial would meet Cardinal Montefalco.
+
+"A cardinal," said Mara.
+
+"The Cardinal Treasurer, to be exact." Brunner's face was grave. "He is not a wicked man. He is a vain one, which is worse. He has a taste for fine wine and bespoke vestments and has been, I am sorry to say, the personal friend of a number of unsuitable people. Last year he accepted two million euros from the Vial-Sorel Group for the restoration fund, and spent a part of it on a villa."
+
+"On a *villa?*"
+
+"He calls it a retreat." Brunner closed his eyes. "It has a pool."
+
+So on Saturday, at eight, in borrowed evening wear, six people went to the opera. Mara wore a black dress she described as "an insult to the family." Tobias wore Nigel Pemberton-Hayes's second-best dinner jacket, which had been designed for a man two sizes smaller and an inch of arm longer. Catarina wore a deep green dress that had been, until Thursday, a tablecloth in Madame Fournier's dining room, and that made several men in the courtyard walk into pillars. Brunner wore a suit and carried the umbrella, which he said was "for the sake of continuity."
+
+The courtyard was open to the stars. Fairy lights hung in the plane trees. On the stage, in front of a painted Sicilian village, an opera company was performing *Cavalleria rusticana* with great passion and a fairly low budget, and among the chorus, in a shawl and a moustache, singing off-key with his whole heart, stood Nigel Pemberton-Hayes, who had been told by the director that he had the "face of a peasant."
+
+"He's very good," whispered Tobias.
+
+"He's dreadful," whispered Priscilla, from the row behind. "I'm so proud."
+
+In the second row of the stalls, in a seat that cost two hundred euros, sat Cardinal Montefalco, magnificent in black and scarlet, with a large soft face and a manner of such oily benevolence that Catarina took an involuntary step backward. Beside him, in a beautifully cut dinner suit, with silver hair and a face like a closed door, sat Armand Vial.
+
+"Good evening, Eminence," said Vial, in a deep, quiet, slightly rueful voice. "I wished to speak with you about my soul."
+
+"Of course, my son," said the Cardinal, and glanced at the briefcase between his feet. "These things take time. And, ah, a degree of *generosity.*"
+
+"I wish to be forgiven," said Vial. "I have done many things. I wish to make a full confession. I wish to give everything to the Church and go and live in a small house, with a dog."
+
+"A dog," said the Cardinal, in the tone of a man at a bank.
+
+"And a hen."
+
+"These are very worthy intentions."
+
+"And I want," said Vial, with a breaking voice, "to go back to the old life never. Never again. I am tired. I am sixty-four. I wish to be clean."
+
+Three rows behind, Catarina turned to Tobias with enormous wet eyes. "He is a gangster," she whispered, "but he is a gangster with a heart. It is very sad."
+
+"He's a murderer, Catarina."
+
+"Yes, but he wants a hen."
+
+It was at this moment that the trouble started, and it started in the way trouble does in operas, which is to say, with a young man in a white scarf.
+
+He was perhaps twenty-five, handsome, hot-blooded and badly shaved, and he had come in the back with a bunch of red carnations and a pistol. His name was Vincent Sorel, nephew of Armand, who had grown up on stories of his uncle's greatness and could not forgive him for giving it up. He stood at the end of the row, trembling with passion. Behind him the chorus rose to the great intermezzo, the music swelled, and he shouted, in a voice that carried to the back of the house:
+
+"*Zio!* You are weak! You are *finished!* The family will not forgive you!"
+
+"Vincent," said Armand, wearily. "Sit down."
+
+"I will not sit down! I will do what must be done!"
+
+He raised the pistol. The auditorium gasped. The Cardinal, with a speed remarkable for a man of his shape, slid down beneath his seat. The tubist in the orchestra pit, who had been counting bars with the stern gaze of a man who has no idea what is going on, looked up. Vincent fired.
+
+Captain Brunner rose without haste from the third row. He took two long steps into the aisle, and with the calm reflexes of five hundred years of papal protocol, opened his umbrella.
+
+*Clang.*
+
+The bullet struck the ribs, which were very firm. It flew off at a right angle, whistled over the heads of the string section, hit the bell of the tuba with a note like the end of the world, and lodged in the proscenium arch, where it remained, to the interest of later generations of opera historians.
+
+The tubist fainted. The audience screamed. The chorus sang louder. Somewhere, a woman in the fourth row began to clap, thought better of it, and stopped.
+
+Vincent, white with horror, dropped the carnations and ran. He ran up the aisle, out of the courtyard and down the great stone steps of the theatre, three at a time, with Mara and two constables in pursuit. Halfway down he stepped on a paper bag, which had been dropped by an usher, which contained three hundred calissons, which burst, and the steps of the Théâtre de l'Archevêché were instantly covered by a rolling carpet of small almond sweets, and Vincent Sorel, in his white scarf, his hot blood and his Italian leather shoes, went the full length of the staircase on his back, flat as a tray, and was fetched up in a large green municipal bin.
+
+"*Mamma mia,*" said a voice from inside it.
+
+By the time Mara had reached him and inspected the situation, the Cardinal had vanished from his seat. So had Armand Vial. The briefcase was gone. In its place, on the velvet cushion of the second row, lay a single sheet of paper in a neat hand. It read: *I wished to be forgiven. Perhaps another time. A.V.*
+
+"The yacht," said Brunner, arriving at the top of the steps with the umbrella still open, a little bent, and the faintest glimmer of triumph on his stern Swiss face. "He will go to the yacht."
+
+"Then we'll go to the yacht," said Mara.
+
+They went to the yacht. It had gone. In the Marseille harbour, in the grey dawn, they found only a Cardinal in a dressing gown, sitting on a bollard, looking out to sea with the face of a man who has just learned something about himself, and a briefcase containing, it was later found, the sum of two million euros in used notes and a postcard of Lourdes.
+
+"I am a sinner," said Cardinal Montefalco, with tears running into his chins. "I have sold my soul for a swimming pool."
+
+"Eminence," said Brunner, with enormous gentleness, "you have a swimming pool. I should think the sale is concluded."
+
+The Cardinal was returned to Rome in a nondescript car, and given six months of silence in a monastery in the Abruzzi. It was said that he took to gardening. Within a year he had grown marrows the size of children, and was happier than he had ever been. The villa and the pool were left to the nuns.
+
+The *Pénélope* was found three days later, drifting off Portugal, with the engine running and the champagne open.
+
+At the opera, it should be said, the performance of the Sicilian peasants ran to its end. Nigel Pemberton-Hayes, who had sung through the entire disturbance without once breaking character, took his bow to a standing ovation, and the critic of *Le Provençal* wrote that he had "never seen a peasant so convincingly terrified."
+
+### Chapter 27: The Germans
 
 After the scandal, Madame Odile Fournier decided to sell the lake house.
 
@@ -1152,7 +1483,7 @@ The next morning, a note appeared on the garden gate in beautifully upright hand
 
 By noon the pelican was sitting on it. The *À VENDRE* sign, which nobody ever stood back up, lay in the long grass by the gate with a single enormous footprint in the middle of it, like a signature.
 
-### Chapter 12¾: Drip
+### Chapter 28: Drip
 
 The storm came on the night after the Germans left, as if it had been waiting politely in the next valley for them to finish.
 
@@ -1222,7 +1553,7 @@ She picked one olive and held it out on her palm. A single drop ran off the end 
 
 *Plink.*
 
-### Chapter 12⅞: The Roofers
+### Chapter 29: The Roofers
 
 The roofers arrived on Thursday, in a white van with a Polish number plate and a sticker on the back window that said, in English, *WE FIX THINGS. WE DO NOT TALK ABOUT IT.*
 
@@ -1292,7 +1623,7 @@ Tomasz leaned out of the van window and gave her a wide, wet, delighted smile.
 
 "It means," he said, "that he likes tea very much."
 
-### Chapter 13: Spring
+### Chapter 30: Spring
 
 The trial was held in March, one year to the day after Elise Marchetti died, in the Palais de Justice at Aix-en-Provence: a handsome, pale, pillared building facing a square of plane trees, where on Tuesdays a market sold lavender, sausage and tragic cheese. Tobias had been in Aix twice by then. He found that the town looked very different when it was trying to put a man in prison.
 
@@ -1301,6 +1632,10 @@ Hale, who turned out to be a better witness than a villain, gave up the name by 
 The Marchetti Codex was recovered from a safe-deposit box in Avignon by a very tall Swiss gentleman with an umbrella, and carried back to Rome in a padded case on his own lap, in economy class, for reasons of principle. It now rests in the Apostolic Library once more. The pelican on the cover, curators say, looks pleased.
 
 The Holy See issued its own statement three days later. It was two paragraphs long and extremely polite. It announced that the Vial-Sorel Group, together with its subsidiaries, associates, affiliates, foundations, prizes and cousins, was henceforth banned from entering Vatican City, the Vatican Museums, the Apostolic Library, St Peter's Square and, at the particular request of Captain Brunner, the gift shop. The two million euros were returned, with a note. The note said: *Thank you. We have prayed for you. It was not enough.*
+
+The two Gastons were sentenced to eighteen months each, to be served concurrently, which they appealed on the grounds that it was one Gaston's idea. The court found this unconvincing, and asked them which one.
+
+In Rome, three weeks later, Captain Brunner stood in the private office of the Holy Father's secretary, presenting his report on the Codex. In the middle of the report he raised his umbrella, as one raises a pointer, and said, "Allow me to demonstrate the firmness of the item," and opened it. A long, brown, entirely unhurried grass snake dropped from the folds and landed on the secretary's desk, where it looked about at the frescoes with the polite expression of a lodger who has been there longer than the landlord. It was the first anyone had seen of it since the fifth of October. The secretary, who had served under three popes, said nothing. The snake went home to Provence by registered post. The time machine, for the record, was not used. It remains in the basement, between the boiler and the gift shop stockroom, switched off, with a small sign on it in Brunner's handwriting that reads: *TUESDAYS ONLY. PLEASE DO NOT.*
 
 Hale was convicted on every count: murder, theft of the Marchetti estate, and fraud against 11,400 hopeful writers, each of whom had paid £60 to be told they had not won. The judge remarked that it was the first time the Verrane Award had ever delivered what it promised, which was a disappointment for everybody. Tobias gave evidence for two hours. Catarina gave hers for four, in English that was still careful but no longer broken, with her sister beside her, and when the judge thanked her for her courage she answered in a clear voice, "I only read the pages."
 
@@ -1331,6 +1666,18 @@ Fernanda was the eldest. She had driven eleven hours from Porto in a van that sa
 She sat him on the courthouse steps in front of the whole of Aix-en-Provence's legal profession and fed him until he could not speak. By the third tart he had been told that he would marry in Portugal, that the priest was a cousin, that the soup would be served at one and the dancing would start at four, and that if he ever made her sister cry, she would drive eleven hours the other way with a very large pan.
 
 It was the longest conversation Tobias had ever had in which he was only allowed to say "Yes." He found, to his surprise, that he enjoyed every minute.
+
+One thing more happened on the steps that day. Through the crowd, in a brown tweed jacket that was rather better than anything Tobias owned, came a tall, sheepish man with a golf umbrella and a woman in a very large hat, both apparently on holiday in Aix and lost. It was Gerald, and it was Camilla.
+
+"Tobias!" said Gerald. "Ah. What a coincidence. We're, ah. On a short break."
+
+"Hello, Gerald."
+
+"I wanted to say. About the duvet."
+
+He did not get any further, because Fernanda, who had seen a thin man and a pale woman standing near a cool-box, had taken him by the elbow and sat him down. "TOO. THIN. I FEED YOU." Gerald was fed chicken, rice and three custard tarts before he could draw breath. Camilla was fed the rest. By the end they were both weeping, with their mouths full, and Gerald told Fernanda that he had never understood until that moment what it was to be truly loved by a stranger, and left with a Tupperware and the impression that he was now somehow engaged to Portugal.
+
+They did not mention the duvet again. Camilla, as far as anyone knows, still has it.
 
 When Fernanda had finally finished with him, he wiped his hands, took Catarina a little apart, and held out a thin bound manuscript.
 
@@ -1370,7 +1717,7 @@ Neither of them chased it. It was only paper.
 
 ---
 
-### Chapter 13½: Margaret and Derek
+### Chapter 31: Margaret and Derek
 
 Tobias's parents arrived the morning after the verdict, unannounced, in a hired Vauxhall Corsa, with a suitcase, a Tupperware of flapjacks, and the expression of two people who have been on a plane for the first time since 1998.
 
@@ -1456,7 +1803,7 @@ By evening they were in the kitchen together, Margaret and Catarina, shoulder to
 
 It was, Tobias reflected, the longest speech his father had made since the christening.
 
-### Chapter 14: The Night Train
+### Chapter 32: The Night Train
 
 Fernanda had decreed that they would go to Portugal by train.
 
@@ -1465,6 +1812,20 @@ Fernanda had decreed that they would go to Portugal by train.
 So on a Friday evening in April, six of them boarded the sleeper at Hendaye: Tobias, Catarina, Fernanda, Inês, Zé the great-uncle with his guitar, and a very large cool-box that Fernanda would not allow out of her sight, and which she referred to, with great tenderness, as *o bebé.*
 
 The train climbed all night. In the last of the light it ran along the Basque coast, grey sea on one side and green hills on the other, then turned inland, and the mountains began. They came up out of the dusk like the backs of sleeping animals: black ridges and tumbling forests and, here and there, a high white village hanging off a crag with one lit window. The line went round them and through them. It dived into tunnels, long and short, and came out into sudden moonlit valleys where a river ran silver at the bottom of a cliff, and plunged in again.
+
+At the Spanish border a Guardia Civil officer boarded in a green uniform, with a moustache and a clipboard, and asked Fernanda, with great formality, what was in the cool-box.
+
+"*O bebé,*" said Fernanda. [The baby.]
+
+The officer looked at the box. He looked at Fernanda. He had been a policeman for twenty-six years and had never, in all of them, been asked to inspect a baby in a cool-box.
+
+"Open it, please."
+
+She opened it. Inside, under the tea towel, lay a roast chicken, a dish of rice and four custard tarts. The officer looked at them for a long time.
+
+"EAT," said Fernanda.
+
+He ate. He ate a custard tart with the hat in one hand and the clipboard in the other, and he closed his eyes. Then he drew himself up, saluted the cool-box, and went away down the corridor, singing. The train was waved through three borders that night without being asked a single question.
 
 Tobias and Catarina had the compartment at the end of the carriage. The others were three doors down. Fernanda had arranged this herself, with an expression of such tremendous, naked innocence that Inês had been obliged to look out of the window.
 
@@ -1591,6 +1952,46 @@ He looked at her. The lanterns swung. The sea beat its patient drum against the 
 "*Estou muito casado,*" said Tobias, quietly, to her alone, in the worst accent in Portugal.
 
 "*Eu também,*" said Catarina. [Me too.]
+
+It was then that Great-uncle Zé, who had been looking for a way to end the evening, picked up his guitar and began to play a slow, aching piece of Italian opera: the intermezzo from *Cavalleria rusticana,* played with feeling, and very badly, and in the wrong key.
+
+At the far end of the room, a tall, silver-haired man in a borrowed white jacket stopped with a plate in each hand.
+
+He stood very still. The music rose. He stared at the lamplight as though it had said something. Something moved in his face, a door opening in a long house, and the plates began to shake.
+
+"I remember," said Armand Vial.
+
+Nobody breathed.
+
+"I remember everything." His voice was low and cracked and enormously tired. "The ports. The concrete. The restaurants. The... the people who are no longer available for comment." He looked down at his hands, red from the sink. "I have done terrible things. Terrible. I wished only to be respectable. I wished only to give the money to the Church, to be forgiven, to be *clean.* And every time I tried to get out..."
+
+"Armando," said Fernanda.
+
+"Yes, Fernanda?"
+
+"The dishes."
+
+"Yes, Fernanda."
+
+He turned, with the grave, trembling dignity of a king in his last act, and carried the plates back to the kitchen. At the table Inspector Mara Quill rose, took a pair of handcuffs from her handbag, and followed him through the swing door.
+
+They were gone for some time. When they came out, Vial's hands were dry, the plates were stacked, and there was a tea towel over the Inspector's shoulder.
+
+"He wished to finish the washing-up first," said Mara.
+
+"He finishes the washing-up," said Fernanda.
+
+"And he wishes to make a confession," said Mara.
+
+At the end of the table, a plump young priest in a black soutane, who was Fernanda's cousin and had been waiting all evening for the dessert, put down his fork with a sigh of infinite suffering.
+
+"After the pudding," said Padre Américo.
+
+Avó Rosa said something in the harsh music of the north. Inês, without turning her head, translated for the English.
+
+"She says he washes very well. She wants him back after the prison."
+
+So Armand Vial, once the most feared man in Marseille, went into the cells of the French justice system that spring with a clean conscience, a small bag, and instructions from three women in Portugal to bring back the good plates. He wrote every week. His letters were about the food.
 
 Out on the quay, the pelican, who had followed them all the way from France by means that nobody has ever explained, lifted one enormous foot, set it down on the cobbles, and went on watching the sea.
 
