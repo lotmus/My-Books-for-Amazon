@@ -344,7 +344,7 @@ Madame Fournier, consulted over the garden wall, shrugged with the whole of her 
 
 The pelican stayed. It fished at dawn, stood about at noon looking gravely at nothing, and bobbed its enormous beak whenever Tobias went by, as if it knew exactly what he was writing and had notes.
 
-He would think about those evenings later, when he was sitting in a Marseille courtroom being asked to describe the lake. He would say that it was very quiet. That it was very beautiful. That he had not, at first, noticed anything sinister about it at all.
+He would think about those evenings later, when he was sitting in a courtroom in Aix-en-Provence being asked to describe the lake. He would say that it was very quiet. That it was very beautiful. That he had not, at first, noticed anything sinister about it at all.
 
 He had been watching the birds. It had seemed more important at the time.
 
@@ -628,6 +628,58 @@ Afterwards they drove home with the windows down, sunburnt, sticky, slightly dru
 
 It was the first holiday she had taken since 2019. He did not mention that it was also his.
 
+### Chapter 7⅞: Cézanne's Light
+
+They went to Aix on a Sunday, with no purpose at all, which Catarina regarded as the most decadent thing she had ever done.
+
+It was a town built for walking. The Cours Mirabeau ran down the middle of it like a green tunnel, two rows of enormous plane trees whose branches met overhead and let the sun fall in coins; there were cafés on one side, honey-coloured mansions on the other, and fountains at every turn, one of them so furred with green moss that it looked like an animal dozing in the heat. Students on bicycles flowed past in ones and twos. An old man sat on a bench reading a newspaper from the previous Thursday with the satisfaction of someone who has never needed to know what happened next.
+
+They ate *calissons* from a paper bag: little pale almond sweets in the shape of boats, so sweet that Catarina went silent for ten seconds and then announced, "These are illegal," and bought a second bag.
+
+In the afternoon they climbed the hill to Cézanne's studio, a plain room with north light, a hat on a peg, a few withered apples on a table, and the faint smell of a man who had been very difficult to live with. A small group of tourists stood in a respectful half-circle round the apples. Tobias felt that something should be said.
+
+"*Maçã,*" he offered, pointing. [Apple.]
+
+"*Maçã,*" agreed Catarina, delighted. "Good. Very good. And this?"
+
+"*Mulher.*" It was a painting of a woman. He had meant to say *woman.*
+
+"*Mulher,*" she agreed, her mouth twitching. "And this?"
+
+It was a painting of a mountain. Tobias thought. He had a feeling that the word for *mountain* began with an *m*, and that Portuguese had a strong view about its vowels. "*Montanha,*" he said, with great confidence.
+
+"*Montanha,*" said Catarina gravely. "Correct. And this?"
+
+It was a painting of three bathers. Tobias looked at them for a very long time, at their pale, strange, geometric limbs.
+
+"*Banho,*" he said. [Bath.]
+
+"Yes."
+
+"*Três... pessoas... em... banho.*"
+
+"Three people in a bath," said Catarina, translating for the room, because the tourists had begun to listen. "He is saying, there are three people in a bath. It is a very modern interpretation."
+
+"I'm doing my best."
+
+"I know." She slipped her arm through his. "It is why I do not correct you more."
+
+In the late afternoon the light turned amber, as it does in Provence, and began to slide from the walls like honey off a spoon. They sat on the steps of the cathedral square with the last of the *calissons*, watching the pigeons argue and the shadows lengthen, and Catarina said, almost to herself:
+
+"Cézanne painted the same mountain eighty times."
+
+"Yes."
+
+"Why?"
+
+"I think," said Tobias, "he kept wanting to get it right."
+
+"And did he?"
+
+"No. That was rather the point."
+
+She nodded slowly, leaning against his shoulder, watching the light go. She did not say anything else. She did not need to. It was the kind of silence that two people only arrive at after months of trying to find words in two languages, and then finding that the silence was a language too.
+
 ---
 
 ## Part Three: The Sister
@@ -808,6 +860,30 @@ On the way out they picked up the single object the thieves had overlooked: a ca
 
 "Odile," said Catarina. "Odile has the key."
 
+They were halfway to the car when a long black saloon pulled up silently at the kerb, and a man got out. He was about fifty, immaculate, in a charcoal suit and a tie the colour of old claret, and he carried an umbrella although it had not rained in Provence since June.
+
+"Mr Lind," he said, in perfect, pleasant English. "I am so glad. I had hoped we might meet."
+
+"I don't think we've..."
+
+"Maître Edouard Delacroix-Roux. I act for certain persons whose names you may know." He smiled. His teeth were extraordinary. "I wished to say, as a professional courtesy, how much I admire your novel."
+
+"You've read it?"
+
+"I have *not* read it. I have read a *summary,* which I understand is all that is left." He turned the umbrella slowly in his fingers. "It must be a great grief to lose two years of work. One would hate for anything similar to happen to the people one loves."
+
+"Is that a threat?" said Catarina, in her very plainest English.
+
+"A threat? Certainly not." Maître Delacroix-Roux looked at her with a tenderness so artificial it might have been varnished. "I was merely observing that the roads of Provence are most dangerous at dusk, mademoiselle. And that some people, for want of a decent education, cannot tell a landmark from a trap." He glanced up at the dark windows of the notary's house, then back to her. "Do give my regards to your *sister.* I understand she has been missing for some time. How very distressing."
+
+He bowed, as one bows to a wedding guest, and got back into the car. It purred away down the Cours Mirabeau under the plane trees, and in the gutter behind it lay one fallen leaf, and the umbrella, which he had left behind on purpose.
+
+Catarina picked it up. Tobias took it from her very gently and snapped it in two.
+
+"I don't like him," said Tobias.
+
+"No," said Catarina. "He is a man who has never once been in a boat."
+
 ### Chapter 11: The Trap
 
 Hale came back on a Sunday night, uninvited, with his headlights off.
@@ -878,7 +954,7 @@ She said it again in English, slowly, so that everyone could hear.
 
 ### Chapter 13: Spring
 
-The trial was in March, one year to the day after Elise Marchetti died.
+The trial was held in March, one year to the day after Elise Marchetti died, in the Palais de Justice at Aix-en-Provence: a handsome, pale, pillared building facing a square of plane trees, where on Tuesdays a market sold lavender, sausage and tragic cheese. Tobias had been in Aix twice by then. He found that the town looked very different when it was trying to put a man in prison.
 
 Hale, who turned out to be a better witness than a villain, gave up the name by the second week: Armand Vial, chairman of the Vial-Sorel Group of Marseille, who had been using the Verrane Award, and a dozen other prizes and foundations like it, to wash money through the entry fees of people who only wanted to be read. Hale's silver Porsche, it emerged, had been leased in his name and never paid for; he had been dreaming about it for forty years and owned it for eleven days. Vial himself was not at Marseille airport. Vial had vanished the night before the warrant, aboard his yacht, the *Pénélope*, which was found three days later drifting off the Portuguese coast with the engine running, the champagne open and nobody on board. The French police announced that he was missing, presumed drowned. Inspector Quill announced nothing, but crossed the word *drowned* out of her notebook and wrote *DOUBT* beside it.
 
@@ -908,7 +984,7 @@ Fernanda was the eldest. She had driven eleven hours from Porto in a van that sa
 
 "You have discussed," said Fernanda. "You do not know yet. That is why I am here."
 
-She sat him on the courthouse steps in front of the whole of Marseille's legal profession and fed him until he could not speak. By the third tart he had been told that he would marry in Portugal, that the priest was a cousin, that the soup would be served at one and the dancing would start at four, and that if he ever made her sister cry, she would drive eleven hours the other way with a very large pan.
+She sat him on the courthouse steps in front of the whole of Aix-en-Provence's legal profession and fed him until he could not speak. By the third tart he had been told that he would marry in Portugal, that the priest was a cousin, that the soup would be served at one and the dancing would start at four, and that if he ever made her sister cry, she would drive eleven hours the other way with a very large pan.
 
 It was the longest conversation Tobias had ever had in which he was only allowed to say "Yes." He found, to his surprise, that he enjoyed every minute.
 
