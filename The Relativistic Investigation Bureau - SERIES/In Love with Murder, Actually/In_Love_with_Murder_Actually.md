@@ -430,7 +430,7 @@ There was a long, ringing pause. Then the orthodontist began to laugh. The woman
 
 "I will be Dame," said Priscilla, "and you will be the back half of the horse." She turned to Tobias, her face quite calm. "I do apologise. It's always like this at rehearsals."
 
-On the walk home through the dark lane Tobias passed the garden wall of the lake house and thought about it all. Two people lay in the earth, he thought, and a third was a stranger in a tea towel, and the whole of English married life stood somehow between them like a loaf of bread.
+On the walk home through the dark lane Tobias passed the garden wall of the lake house and thought about it all. Three people were dead and a murderer was still at large, he thought, and the village's great scandal of the week was a man in a bonnet. It struck him as the most English thing he had ever heard.
 
 He told Catarina about it in the kitchen. She listened with her chin on her hand.
 
