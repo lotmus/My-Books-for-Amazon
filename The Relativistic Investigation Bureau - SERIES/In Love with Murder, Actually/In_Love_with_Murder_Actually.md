@@ -638,4 +638,54 @@ She kissed him then, in the cold sun, in front of the whole courthouse. A single
 
 Neither of them chased it. It was only paper.
 
+---
+
+## Epilogue: Restaurante Vidal
+
+The Vidals came from Afurada, a fishing village on the south bank of the Douro, where the boats come in at dusk and the grandmothers still scrub the stoops before breakfast. Everything in the village smelled of charcoal, salt and sardines. The sea was grey, the washing lines were bright, and every window had an opinion.
+
+The wedding was held in the restaurant, because Fernanda had said so. Restaurante Vidal had twelve tables, a plastic awning, a tiled mural of a saint nobody could identify, and a menu that had not changed since 1974 because, as Fernanda put it, a recipe that works does not need a second opinion. They pushed all twelve tables into one. They hung paper lanterns from the awning. The neighbours brought chairs, the fishermen brought fish, and a great-uncle called Zé brought a guitar and a grudge.
+
+Tobias arrived in a suit that Fernanda had inspected and declared "adequate, for an English," and was seated at the head of the table next to a very small, very old woman in black who turned out to be the grandmother, *Avó* Rosa. She did not speak. She looked at him for the whole of the first course. She looked at him throughout the cod. At the end of the soup, she leaned across and spoke a single sentence in the Portuguese of the north, which sounds like a drawer of cutlery being thrown down a staircase.
+
+"What did she say?" he whispered.
+
+"She says you have a good forehead," said Inês, in English, from the next seat, without turning her head. "For a man with nothing in it."
+
+"That's rather harsh."
+
+"She is ninety-four. She earned it." Inês picked a bone from her fish. "She also said you are too pale and you will die in a year. This is a good sign. It means she likes you."
+
+The speeches began at nine. Zé stood and sang something so mournful that three fishermen wept into their wine, and one of them was not a fisherman at all but the postman, who had come for the free food. Fernanda stood and said that her sister was marrying an Englishman, that this was a punishment for a sin nobody could name, and that she would be keeping the recipe for the cod. Inês stood and said, in a perfectly level voice, that she had read the whole of the groom's work and could confirm that he was a man of fine feeling and indifferent plotting, and that she wished them both a long life, since she did not intend to arrange another one.
+
+And then Tobias stood.
+
+He had been practising. For three weeks, in the study, he had rehearsed a speech in Portuguese, with a phrasebook on one knee and a pelican watching through the window, and he had it off by heart. He tapped his glass. The whole restaurant, forty-one people in the hot lamplight, went quiet.
+
+"*Boa noite,*" said Tobias Lind. "*Eu sou muito feliz. Estou muito casado.*"
+
+There was a pause. Then the great-uncle dropped his guitar.
+
+"Oh no," said Catarina, covering her face.
+
+"I said I'm very happy," said Tobias. "I'm very... married."
+
+"*Casado* means married," Inês explained, loudly, for the room. "But *muito casado* is a thing an old man says about a wife with a bad temper. He has told forty people, in front of his wife, that he is *extremely* married."
+
+The room exploded. Fernanda had to sit down. The postman wept again, with different feelings. Avó Rosa, at the head of the table, put a hand over her mouth, and her shoulders began to shake, and Tobias realised with a sort of horror that the oldest woman in the village was laughing at him so hard she might need the doctor.
+
+"I'll start again," he said.
+
+"*No,*" said forty-one voices.
+
+"No, no, no," said Catarina, wiping her eyes, crossing the floor between the tables and taking his hand in front of the whole of Afurada. "Is perfect. Is the best thing you have ever said. Say it again."
+
+He looked at her. The lanterns swung. The sea beat its patient drum against the wall of the quay.
+
+"*Estou muito casado,*" said Tobias, quietly, to her alone, in the worst accent in Portugal.
+
+"*Eu também,*" said Catarina. [Me too.]
+
+Out on the quay, the pelican, who had followed them all the way from France by means that nobody has ever explained, lifted one enormous foot, set it down on the cobbles, and went on watching the sea.
+
 *The End*
