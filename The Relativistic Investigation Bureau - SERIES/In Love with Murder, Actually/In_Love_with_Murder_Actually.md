@@ -952,6 +952,12 @@ They sat him in the kitchen. He declined tea, accepted water, declined the glass
 
 "In her estate was an item. A manuscript. A book of hours, written in Avignon in the year 1347, with illuminations of the highest quality. It is known as the Marchetti Codex. It belonged, until the French Revolution, to the Apostolic Library. It was *stolen* from the Apostolic Library in 1793, by a man with a very bad character and a very good coat." He paused. "The Holy See has been looking for it for two hundred and thirty years. We are not hasty."
 
+"You were not told the whole of it," said Brunner. "Hale is a cashier. The man who decides is Armand Vial, chairman of a group in Marseille which the Italian and French police both describe, in their confidential reports, as a criminal organisation of the old kind. They have the usual interests. Ports, concrete, restaurants, and a number of people who are no longer available for comment." He did not raise his voice. "Eighteen months ago, the Vial-Sorel Group donated two million euros to the restoration fund of the Apostolic Library. They were given a private tour. They were photographed with a cardinal. It was, I am told, a very warm afternoon."
+
+"They wanted the Codex," said Catarina.
+
+"They wanted a respectable address for their money. The Codex was the cherry." He allowed himself the smallest sigh. "The Holy See does not enjoy being used as a laundromat. It has long experience of the other kind."
+
 "And it was in the estate."
 
 "It was in the estate. And then it was in the possession of a publisher named Victor Hale. And now," said Brunner, "I am told that it is in the possession of no one at all."
@@ -1294,6 +1300,8 @@ Hale, who turned out to be a better witness than a villain, gave up the name by 
 
 The Marchetti Codex was recovered from a safe-deposit box in Avignon by a very tall Swiss gentleman with an umbrella, and carried back to Rome in a padded case on his own lap, in economy class, for reasons of principle. It now rests in the Apostolic Library once more. The pelican on the cover, curators say, looks pleased.
 
+The Holy See issued its own statement three days later. It was two paragraphs long and extremely polite. It announced that the Vial-Sorel Group, together with its subsidiaries, associates, affiliates, foundations, prizes and cousins, was henceforth banned from entering Vatican City, the Vatican Museums, the Apostolic Library, St Peter's Square and, at the particular request of Captain Brunner, the gift shop. The two million euros were returned, with a note. The note said: *Thank you. We have prayed for you. It was not enough.*
+
 Hale was convicted on every count: murder, theft of the Marchetti estate, and fraud against 11,400 hopeful writers, each of whom had paid £60 to be told they had not won. The judge remarked that it was the first time the Verrane Award had ever delivered what it promised, which was a disappointment for everybody. Tobias gave evidence for two hours. Catarina gave hers for four, in English that was still careful but no longer broken, with her sister beside her, and when the judge thanked her for her courage she answered in a clear voice, "I only read the pages."
 
 Afterwards, on the courthouse steps, Tobias met the third Vidal sister.
@@ -1528,7 +1536,7 @@ Margaret and Derek had come too, by aeroplane, over Fernanda's protests. Margare
 
 The speeches began at nine. Zé stood and sang something so mournful that three fishermen wept into their wine, and one of them was not a fisherman at all but the postman, who had come for the free food. Fernanda stood and said that her sister was marrying an Englishman, that this was a punishment for a sin nobody could name, and that she would be keeping the recipe for the cod. Inês stood and said, in a perfectly level voice, that she had read the whole of the groom's work and could confirm that he was a man of fine feeling and indifferent plotting, and that she wished them both a long life, since she did not intend to arrange another one.
 
-Somewhere around the cod, the waiter arrived.
+Somewhere around the cod, the waiter arrived. He was banned from the Vatican, though he did not know it, and was at that moment the most contented man in Portugal.
 
 He was a tall, silver-haired man of about sixty, in a borrowed white jacket two sizes too small, and he served the fish with the grave, delighted attention of a man who has discovered, late in life, that rice can be a joy. He had a tan, a slight stoop, and enormous soft hands, red from hot water. He hummed. He was the happiest waiter anyone in Afurada had ever seen.
 
