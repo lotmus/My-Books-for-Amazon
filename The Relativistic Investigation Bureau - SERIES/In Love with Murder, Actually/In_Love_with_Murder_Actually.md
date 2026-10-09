@@ -558,6 +558,78 @@ From the far end of the jetty came a long, offended clearing of the throat. The 
 
 "Even so," she said. "Even a pelican has manners."
 
+---
+
+### Chapter 7¾: A Day Off
+
+"I am not allowed a holiday," said Catarina.
+
+"Everybody is allowed a holiday."
+
+"*Férias.*" She tried the word in both languages. "In my family, a holiday is when you stay at home and the stove is lit but nobody is angry. I had one in 2019. It was a Tuesday."
+
+"Then you're overdue," said Tobias. "Tomorrow. I'll drive."
+
+"No," said Catarina, with the swiftness of a woman who has read the file on the gatepost. "I will drive."
+
+The Camargue lay an hour to the south, where the Rhône spread out into the sea and the land gave up all pretence of hills. It was an unseasonable thirty-four degrees. The sky was a hard blue lid. White horses stood knee-deep in the marsh with an air of complete indifference, rice paddies glittered like sheets of green glass, and in the salt pans the water turned a faint, impossible pink.
+
+"What is making the water pink?"
+
+"Algae," said Tobias. "Tiny shrimps eat the algae, and the flamingos eat the shrimps, and that's what makes the flamingos pink."
+
+"So the pink is..." She searched. "A rumour. Passed along."
+
+"Yes."
+
+"I like this country," said Catarina, with great conviction. "Everyone is pink because of what they eat."
+
+And then they came round a bend in the track and the flamingos were there. Thousands of them. They stood in the shallows on one leg, tipped over, heads upside down in the water, a vast pink parliament in the sunshine, muttering. A few lifted into the air as the car stopped, long necks stretched, legs trailing, black-tipped wings opening like lit lampshades.
+
+Catarina got out and stood with her hand over her mouth. She did not say anything for a long time.
+
+"*Flamingos,*" she said finally.
+
+"The same word," said Tobias. "In both languages."
+
+"Then we cannot get it wrong," said Catarina, and took his hand.
+
+They ate lunch at an inn on the water's edge, under a vine. It was the best meal Tobias had had in years. It came in small, unhurried waves: salty little clams from the sea, a *gardiane* of bull stewed in red wine until it fell apart at a look, black rice with a streak of orange pepper, a goat's cheese so fresh it was almost a rumour itself, and a bottle of cold rosé that sweated gently in the heat. They ate all of it. Catarina closed her eyes at the stew and said something very quietly in Portuguese that sounded like a prayer.
+
+It was a perfect lunch, and the English family at the next table did their best to spoil it.
+
+They were the Hargreaveses: a father in a Panama hat, a mother in a very large pair of sunglasses, and two teenage children in a state of advanced, sullen boredom. They had been complaining for twenty minutes about the heat, the flies, the prices, the bread, and the French in general, whom they regarded as a minor but persistent illness.
+
+"Is she with him?" said Mrs Hargreaves, loudly, in the tone of a woman describing a fox in her garden. She was looking at Catarina. "She's very *dark* for that sort of man. Is she the maid or something?"
+
+"Probably the guide," said Mr Hargreaves. "They always have a girl. Does she speak English, do you think?"
+
+Catarina set down her glass. She dabbed her mouth with her napkin, rose, and walked the four steps to their table with the elegant stillness of a heron about to take a fish.
+
+"A little," she said, in her careful, beautiful, almost entirely correct English. "Enough to hear you."
+
+There was a very long silence. The Panama hat sank slowly toward the table. One of the teenagers made a small noise, quite possibly of joy.
+
+"I am Catarina Vidal," she continued, pleasantly. "I am not the guide. I am not the maid. I am the woman who is going to take the last of your bread, because you do not like it." She lifted the basket off their table. "Enjoy the flies."
+
+She returned, sat down, and buttered a roll. Tobias, who had been holding his breath for most of it, let it out as a kind of wheeze.
+
+"That," he said, "was magnificent."
+
+"Is not magnificent. Is only a little rude." She bit the bread and chewed, considering. "It *is* good bread."
+
+At that moment, fate intervened, as fate in the south of France often does, in the form of a bird. A flamingo that had been wading in the shallows beyond the terrace for some time with a look of mild interest decided that the Hargreaveses' table was an excellent place to be, strolled up the steps with the confidence of a bailiff, and lowered its enormous bent beak into Mr Hargreaves's soup.
+
+The scream could be heard in Arles.
+
+"Is only a flamingo," called Catarina over her shoulder, kindly. "He is not rude. He is just pink."
+
+Afterwards they drove home with the windows down, sunburnt, sticky, slightly drunk on rosé, and so happy that neither of them spoke for the entire hour. At a red light, Tobias looked across at her and found her looking at him, and for a moment neither of them could say what they were both thinking.
+
+It was the first holiday she had taken since 2019. He did not mention that it was also his.
+
+---
+
 ## Part Three: The Sister
 
 ### Chapter 8: The Visitor
