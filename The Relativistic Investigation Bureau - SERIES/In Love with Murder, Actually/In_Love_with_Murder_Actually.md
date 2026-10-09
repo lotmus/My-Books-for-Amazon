@@ -2060,7 +2060,97 @@ At this point the three aunts rose. They moved with the slow inevitability of co
 
 The Sorel cousins were sentenced to community service in the parks department of the city of Aix, where they spent eighteen months weeding the Cours Mirabeau, and where they became, to the astonishment of the council, the best gardeners the city ever employed. Vincent, in particular, developed a gift for roses. He wrote to his uncle Armand every Sunday. He asked about the hen.
 
-### Chapter 34: Spring
+### Chapter 34: The Fundamental Interconnectedness of Things
+
+It was Inês who worked it out, naturally, in the first week of December, with a roll of lining paper, a box of coloured pens and a bottle of Madame Fournier's plum brandy.
+
+She pinned the paper across the whole of the study wall, over the place where Tobias's string had once come down, and began to draw. Circles for people. Squares for events. Arrows for what she called "the dependencies." By midnight the wall looked like the diagram of a very ambitious railway. By two it looked like a map of the human brain. By three, when Tobias and Catarina came in with tea, it looked like a large, furious, multi-coloured spider.
+
+"Don't touch it," said Inês, without turning round. "I am nearly at the bottom of it."
+
+"Of what?"
+
+"Everything."
+
+She stepped back. In the lamplight she was tired, thin and entirely triumphant, like a woman who has found the last piece of a thousand-piece jigsaw of the sky.
+
+"I am a bookkeeper," she said. "I do not believe in coincidence. I believe in errors in the ledger. And in this ledger there are far too many."
+
+She pointed with the pen.
+
+"The pelican. The kangaroo. The wallaby, the collie, the horse and the dolphin. A snake. A swan pedalo. A Swiss man, a Polish man and a German man. A balcony. A washing machine. And one hermit who has never been on the mountain before." She circled each in red as she spoke. "Why does this valley have so many *things?* Why is every animal in the south of France in this one place? And all of them in the same *year?*"
+
+"It's a big lake," said Tobias, weakly.
+
+"It is a *small* lake. I measured it." She snapped the cap on the pen. "I looked up the Montpellier zoo. The pelican escaped on the fourteenth of March. So did the kangaroo. So did a wallaby, two flamingos, a snake, a pair of owls and a very large tortoise. The same night. The same hour. A power cut, they said, and a gate left open."
+
+There was a long silence.
+
+"The fourteenth of March," said Catarina slowly.
+
+"The night that Elise went down to the jetty," said Inês.
+
+"But that's..." Tobias stopped. "That's a coincidence."
+
+"There are no coincidences. Only things nobody has yet connected." She tapped the wall. "Vial's men cut the power to the whole district on the fourteenth. They wanted the jetty dark. They wanted the telephones dead. They wanted nobody to see a woman go into a lake. And to do it they cut a cable, and the cable fed the zoo. And the gate opened. And the animals went out into the night and, because they were animals, and had no sense of occasion, they walked to the only water for twenty miles."
+
+"The lake," whispered Catarina.
+
+"The lake. The murderers made a hole in the dark, and the dark let in the whole of Africa, and a good bit of Australia." Inês spread her hands. "The pelican came to the jetty because it was the nearest water. And he *stayed* because he was the only witness there that night who has never been bribed."
+
+Nobody said anything for a very long time. The brandy glowed in its bottle. Outside, the lake lay under the stars, motionless, with a large white shape on the end of the planks.
+
+"So the pelican..." said Tobias.
+
+"Saw it. I suspect he saw all of it. Hale, the jetty, the splash." Inês looked at the window. "I am not saying he can testify. I am saying he has been looking at you for four months with a face that says, *I know something, and nobody has asked me.*"
+
+"He's a bird," said Tobias.
+
+"So was the one in the Bible who told Noah," said Inês, "and nobody laughed at *him.*"
+
+Inspector Quill, summoned at four in the morning, studied the wall for fifteen minutes in silence, with her coat on.
+
+"That is not evidence," she said.
+
+"It is a method," said Inês.
+
+"It's a, a..." Mara searched. "A conspiracy of weather and livestock."
+
+"It is *holistic,*" said Inês, with enormous dignity. "It is the only type of detection which allows for the possibility that the world is a good deal stranger than the police."
+
+Mara sat down on the arm of the sofa, which was at that moment wedged in the study doorway, where it had been since October, having been delivered by Nigel Pemberton-Hayes as a "loan" and turned out to be, geometrically, impossible to move in either direction. She took out her notebook. She looked at the wall. She wrote one word and underlined it.
+
+*Pelican.*
+
+"I am going to need a bigger notebook," she said.
+
+Catarina, who had been counting without being asked, put down her tea.
+
+"There are forty-two arrows," she said.
+
+Everybody turned to look at the wall.
+
+"Forty-two," said Tobias.
+
+"I did not plan it," said Inês, with a slight frown. "I drew as many as were required."
+
+"Forty-two," said Mara, and sat very still. "Of course there are."
+
+"Why 'of course'?" said Tobias.
+
+"I have no idea," said Mara. "It just seems like the right number. It feels like the answer to something." She stared at the notebook. "I think it may be the meaning of life."
+
+"Don't be ridiculous," said Inês. "It is a number of arrows on lining paper."
+
+But nobody in the room looked entirely convinced, and for the rest of the night, in the lamplight, they sat looking at the wall and the diagram and the pelican in the window, and nobody could think of a better answer.
+
+"You will need a very large towel," said Madame Fournier, from the doorway, who had come over the wall to see what the lights were. "My husband always said so. A person should know where their towel is. Everything else is a detail." She looked at the wall, and the animals, and the arrows. "It is all connected, you know. It always was. I only wondered when somebody would draw it."
+
+She went away again, over the wall, with her secateurs.
+
+In the garden, in the dark, a pelican shifted his weight and turned his head very slightly toward the study window, as if he had been waiting nine months for somebody to ask.
+
+### Chapter 35: Spring
 
 The trial was held in March, one year to the day after Elise Marchetti died, in the Palais de Justice at Aix-en-Provence: a handsome, pale, pillared building facing a square of plane trees, where on Tuesdays a market sold lavender, sausage and tragic cheese. Tobias had been in Aix twice by then. He found that the town looked very different when it was trying to put a man in prison.
 
@@ -2156,7 +2246,7 @@ Neither of them chased it. It was only paper.
 
 ---
 
-### Chapter 35: Margaret and Derek
+### Chapter 36: Margaret and Derek
 
 Tobias's parents arrived the morning after the verdict, unannounced, in a hired Vauxhall Corsa, with a suitcase, a Tupperware of flapjacks, and the expression of two people who have been on a plane for the first time since 1998.
 
@@ -2242,7 +2332,7 @@ By evening they were in the kitchen together, Margaret and Catarina, shoulder to
 
 It was, Tobias reflected, the longest speech his father had made since the christening.
 
-### Chapter 36: The Night Train
+### Chapter 37: The Night Train
 
 Fernanda had decreed that they would go to Portugal by train.
 
