@@ -1234,6 +1234,106 @@ It was Catarina who found the missing piece. She had been turning the old calend
 
 "I am Swiss," said Brunner, with a small, weary, dignified smile. "I have spent my whole life being mocked by the French. It is how they show affection."
 
+### Interlude: Brunner in Bavaria
+
+*(Written, for one chapter only, in a different manner. The reader is asked not to hold it against the rest of the book.)*
+
+Brunner took the train to Bavaria because a name in a Latin letter had said Bavaria.
+
+It rained. In Bavaria it always rains on the Swiss.
+
+The village was called Unterwiesenhausen. Nobody had ever been to it on purpose. There was a church, a pub, a swan and a man. The swan was in charge.
+
+"Servus," said the man.
+
+"Grüss Gott," said Brunner. He was a Swiss Guard. He said Grüss Gott to everything, including walls.
+
+"I'm not God," said the man.
+
+"No."
+
+"He doesn't live here. We asked. He's in Rome. They've got a good wine there." The man looked at the umbrella. "What's that?"
+
+"An umbrella."
+
+"Looks like a cheese grater."
+
+"It is also a cheese grater."
+
+"Well then," said the man, with deep satisfaction, as if that explained the war.
+
+There was a priest. He sat on a bench outside the church and sulked. He had been sulking since 1974. Nobody remembered why. The people of Unterwiesenhausen said it was a theological matter. The priest said it was the weather. The swan said nothing, being a swan, but with great authority.
+
+"I am looking," said Brunner, "for a book."
+
+"We don't have books," said the priest. "We have a calendar. It has a different picture every month. March is a cow."
+
+"A very old book. A book of hours."
+
+"What hours?"
+
+"All of them."
+
+"That's too many," said the priest, and went back to sulking.
+
+Brunner went into the pub. The landlord was a large woman with a face like a fist, and she was polishing a glass that had been clean since the Franco-Prussian War.
+
+"A Weissbier," said Brunner. He did not drink on duty. He drank it anyway.
+
+"You're not from here."
+
+"I'm from Lucerne."
+
+"That's not here either," said the landlord, and gave him the beer, and a look. It was the look a mountain gives a rabbit. "What do you want?"
+
+"A man took a book in 1793. I think his family came from this valley."
+
+"Hm." She put down the glass. "There was a Brunner."
+
+"I am Brunner."
+
+"Not you. The other one." She thought about it. She thought about it for eleven minutes. In Bavaria this is called a conversation. "He had a very good coat."
+
+"Yes!"
+
+"He drank here. He drank a lot. He said he'd stolen something from the Pope. Everyone laughed. Then he went to America."
+
+"To America?"
+
+"Or Munich. It's the same." She shrugged. "He left the book with the swan."
+
+Brunner went outside. The swan was standing in the rain, perfectly still, on one leg. It looked at him. It had the expression of a bureaucrat who has been waiting a thousand years for the right form.
+
+"Where is the book?" said Brunner.
+
+The swan said nothing.
+
+"I am a Captain of the Pontifical Swiss Guard."
+
+The swan said nothing.
+
+"I have a firm umbrella."
+
+The swan turned its head and looked at the church, and the priest, and the cow in March, and the rain, and the whole of Bavaria, in a single slow gaze, and then it looked back at him and put its head under its wing.
+
+That was all.
+
+Brunner stood there for an hour. A boy came by on a bicycle. The boy said, "It's an animal." The boy went away. A farmer came, and looked at the umbrella, and spat. A cloud came and sat on the church. The priest said, from the bench, to nobody:
+
+"It's about the Church, you know."
+
+"What is?"
+
+"All of it." He sighed. "I wanted to be a gardener."
+
+Brunner put the umbrella up. It was raining. He had his name, and his coat, and his orders, and he had nothing. In the distance, somebody was singing, badly, something about a king who never came.
+
+He went home. In the train, between Munich and Verona, he wrote in his notebook: *Bavaria: no book. Swan: unhelpful. Priest: sad. Beer: good.*
+
+Then he crossed out *good*, and wrote *very good*, and went to sleep.
+
+When he woke, in Rome, the book was on his seat. Nobody could say how it got there. It was the wrong book. It was a calendar. March was a cow.
+
 ### Chapter 24: Home Alone, Mostly
 
 Hugo Pemberton-Hayes was nine, and large for his age in the head.
