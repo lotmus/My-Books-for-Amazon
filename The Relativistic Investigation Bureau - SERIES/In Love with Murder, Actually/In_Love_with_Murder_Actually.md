@@ -958,6 +958,10 @@ After the scandal, Madame Odile Fournier decided to sell the lake house.
 
 "It has been a house of murder, fraud and Englishmen," she told Tobias, over coffee. "I am seventy-three. I wish to live somewhere with a small garden and no pelican."
 
+She planted a sign at the gate, white with red letters: *À VENDRE.* Every morning she went out and looked at it. Every morning she went back inside and said nothing, and Tobias, who had learned in this family to read silence, understood that she was waiting for someone to tell her she was right.
+
+"I asked Lucien," she said once, to the coffee pot. Lucien had been her husband, and had been dead since 2011. "I said, *if I am to sell, give me a sign.* He never was good at signs. He was a man of very few opinions."
+
 Within a week there were buyers: Herr Dieter and Frau Brigitta Brandt of Stuttgart, who arrived on a Monday at exactly nine o'clock, because nine o'clock was the time agreed. They were both tall, grey-haired, in matching beige walking trousers, and between them they carried a measuring tape, a spirit level, a folder labelled *VORSCHLAG* [Proposal], and a spreadsheet.
 
 "We are very interested in the property," said Herr Brandt, in precise English, shaking Tobias's hand once, firmly, at a ninety-degree angle. "We will need to take the measurements."
@@ -981,6 +985,8 @@ On the jetty, in the late sun, stood the pelican.
 It was not doing anything. It was standing at the end of the planks on one leg with its enormous beak resting on its chest, gazing out over the lake with a look of ancient, ridiculous, uncomplaining loyalty. A heron stood beside it. The mist was coming up. Somewhere, Catarina was singing in the kitchen, off-key, with the radio.
 
 Madame Fournier put down the pen.
+
+"I asked for a sign," she said, to nobody in particular. "This morning. I said, *Lucien, one sign.* And I looked out, and the sign at the gate had been blown flat in the night, and there was nothing on it." She turned from the window. "And now there is a pelican on the jetty, looking at the lake as he used to. Lucien also stood like that. For the whole of every Sunday."
 
 "No," she said.
 
@@ -1030,7 +1036,7 @@ On the doorstep, Herr Brandt turned and said to Tobias, with immense sadness:
 
 The next morning, a note appeared on the garden gate in beautifully upright handwriting. *Dear Madame Fournier. Thank you for the cheese. It was excellent. We will leave a sun lounger on the jetty for the pelican. Yours faithfully, D. & B. Brandt.*
 
-By noon the pelican was sitting on it.
+By noon the pelican was sitting on it. The *À VENDRE* sign, which nobody ever stood back up, lay in the long grass by the gate with a single enormous footprint in the middle of it, like a signature.
 
 ### Chapter 13: Spring
 
