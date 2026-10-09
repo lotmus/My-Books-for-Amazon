@@ -34,7 +34,7 @@ It was the first thing Aurelia Santos ever said to him. He would not understand 
 
 ### Chapter 2: The Housekeeper
 
-She had come to the lake house in September, sent by an agency in the city. Tobias had rented the place for the autumn from its owner, a publisher named Victor Hale, who had been generous about the price. Too generous, in hindsight. The house came with a housekeeper, and the housekeeper was Portuguese, spoke perhaps thirty words of English, and had never looked at him for longer than politeness required.
+She had come to the lake house in September, sent by an agency in the city. Tobias had rented the place for the autumn from a publisher named Victor Hale, who had been very generous about the price, and who had implied, in several warm emails, that the house was his. Too generous, in hindsight. The house came with a housekeeper, and the housekeeper was Portuguese, spoke perhaps thirty words of English, and had never looked at him for longer than politeness required.
 
 That morning she spread the ruined pages across the kitchen table, on every towel the house possessed, and dried them one by one with the same grim patience she gave to scrubbing the stove.
 
@@ -111,6 +111,68 @@ She opened the first one. She read slowly, with a finger under each word, and th
 "Is... *welcome.*" She repeated it twice, testing the shape of it. "Is a good word. Is like a house."
 
 It was the best definition of *welcome* he had ever heard. He wrote it down.
+
+### Chapter 4½: The Wrong Side of the Road
+
+Lake Verrane was in the south of France, which Tobias had known for several weeks and had somehow still failed to prepare for.
+
+He had hired a small car in the village. The man at the garage had handed over the keys with the expression of a vet releasing a pet to an owner he did not trust. "*À droite,*" the man had said, three times, pointing at the road. [On the right.] Tobias had nodded three times and driven out of the yard on the left.
+
+The tractor was the first casualty of the afternoon, in the sense that it had to stop. The hen was the second, in the sense that it had to run. By the roundabout he had discovered that French drivers regard the indicator as a form of admission, and by the second roundabout, which he entered the wrong way round, he had discovered what the French regard as a suitable response to that. It involved a great deal of horn and one grandmother in a Citroën who leaned out of her window and said something that, even in a language he did not speak, lost nothing in translation.
+
+He reached the gates of the lake house at four o'clock, parked, got out, and watched the car roll gently forward into the stone gatepost.
+
+It was a small noise. A polite one. The kind of noise a car makes when it would like to apologise.
+
+"*Monsieur.*"
+
+Behind him, on the gravel, stood a woman of about seventy-three, in a quilted waistcoat and gardening gloves, holding a pair of secateurs and a look of enormous patience. This, he understood at once, was Madame Odile Fournier. She was the owner of the gatepost. She was also, as he would shortly learn, the owner of the house, the jetty, the lake and, in a legal sense, the tractor.
+
+Tobias rehearsed the sentence he had learned from the phrasebook on the way over, and delivered it with his hand on his heart.
+
+"*Bonjour, Madame. Je suis très excité de vous rencontrer.*"
+
+Madame Fournier looked at him for a long moment.
+
+"*Ah,*" she said. "*Moi aussi, monsieur. Mais j'ai soixante-treize ans, alors, soyons raisonnables.*" [Me too, monsieur. But I am seventy-three, so let us be reasonable.]
+
+"I... sorry?"
+
+"*Excité,*" said Madame Fournier, in the voice of a woman explaining a fire extinguisher to a child. "It does not mean *excited.* It means *excited.*" She nodded gravely at his trousers. "You understand."
+
+Tobias went the colour of a boiled beetroot and changed the subject, which is to say he made it worse.
+
+"*Mon voiture,*" he said, gesturing at the gatepost, "*est dans le... le... pilier.*" [My car is in the pillar.]
+
+"*Ma voiture,*" said Madame Fournier. "*Ma.* It is feminine. Like me, and like this gatepost. The three of us you treat very badly."
+
+"*Je suis désolé.*"
+
+"That one is correct. Congratulations." She stepped over the gravel to inspect the stone, tapped it twice with the secateurs, and turned back to him. "Come. I make coffee. You look like a man who has eaten nothing since the war."
+
+"*Non, merci,*" said Tobias, with great dignity. "*Je suis plein.*"
+
+Madame Fournier stopped on the step.
+
+"You are *plein,*" she repeated slowly.
+
+"Full. I am full."
+
+"*Plein.* For a cow, monsieur, it means she is expecting." She looked him up and down with enormous sympathy. "I wish you the best. The doctor is in the village, on Tuesdays."
+
+By now he had stopped answering. He followed her into the kitchen with the bearing of a man marching to a firing squad, and sat where she pointed, and drank the coffee she gave him, and was mocked quietly, steadily and with real skill, for the next forty minutes.
+
+It was only when she was refilling his cup that she mentioned the rent.
+
+"Victor Hale pays me eleven hundred euros a month for this house," she said. "He tells me he rents it to a very quiet English writer."
+
+"I pay him three thousand."
+
+Madame Fournier set down the coffee pot with a small, precise click.
+
+"*Ah,*" she said, in a very different voice. "Monsieur Lind. We should talk about this *Monsieur Hale.*"
+
+It was the first sentence she had said all afternoon that he understood completely, in any language.
 
 ### Chapter 5: The Study Window
 
