@@ -232,6 +232,44 @@ Madame Fournier set down the coffee pot with a small, precise click.
 
 It was the first sentence she had said all afternoon that he understood completely, in any language.
 
+### Chapter 4¾: Optical Character Recognition
+
+On the third day Tobias announced that he would scan the pages.
+
+"Scan," said Aurelia, to the dictionary. "*Digitalizar.*" She considered this. "You will put the paper in a machine and the machine will write it again."
+
+"Precisely. It reads the words and turns them into text. Optical character recognition. Then I'll have a proper copy, saved, safe, backed up."
+
+"Like a man with a cow who builds a fence after the cow is in the lake."
+
+"Yes. Exactly like that."
+
+Madame Fournier owned a printer-scanner, which she kept in the back kitchen under a lace cloth, like a relative she did not wish to discuss. Tobias fed it the first dried page. The machine groaned, thought about it, and displayed its verdict on the laptop he had finally, grudgingly, retrieved from its drawer.
+
+He read it aloud. "'*She was already dead when the clock struck, which is why nobody believed the clock.*' The computer says: 'Shoe was alley dread when the cloak stuck, which is why no body believed the cluck.'"
+
+"*Cluck,*" said Aurelia, delighted. "Like a hen."
+
+"It has also changed 'murder' to 'mother' in six places."
+
+"Perhaps it knows something."
+
+He tried the next page. It produced an elegant paragraph about a man named Gerald (the machine had, for reasons known only to itself, mistaken a water stain for the word) and a long passage in a language that appeared to be Finnish. Page twelve came back entirely as a row of tiny cats.
+
+"The ink ran," Tobias said, with the dignity of a man defending his work against an appliance. "It's the water damage. It can't cope."
+
+Aurelia took the printout, held it at arm's length, squinted at the damp original, and read the same line aloud, slowly, in her careful English, with every word right.
+
+"*She was already dead when the clock struck.*" She looked up. "The machine is stupid. I am better."
+
+"You're reading my handwriting, which is a typewriter."
+
+"Is also a kind of handwriting." She set down the page. "Every day I read the stove. The stove is more difficult than this."
+
+He looked at the printout, then at her, then at the machine blinking its small green light under the lace cloth, and understood that the pages could not be saved by clever software. They would have to be saved the way she had saved them in the first place, one at a time, by someone who could read.
+
+He put the laptop back in its bag. For the first time in his life, he typed the next chapter on the Olivetti on purpose.
+
 ### Chapter 5: The Study Window
 
 They fell into a routine that neither would have called a routine.
