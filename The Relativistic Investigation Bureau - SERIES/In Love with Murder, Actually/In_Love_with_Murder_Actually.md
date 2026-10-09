@@ -31,7 +31,7 @@ Tobias Lind came home early from the Hull book fair, where he had sold four copi
 
 The house was quiet. The hall light was off. There was a man's jacket on the banister, a brown tweed one, much better than anything Tobias owned, and on the table by the door sat a bottle of wine he had been saving for their anniversary, already open.
 
-He stood in the hall for a while, holding his overnight bag, and listened to the house tell him things.
+He stood in the hall for a while, holding his overnight bag, and listened to the house tell him things. It was telling him, in a slow, rhythmic creak of bed springs from the upstairs room, a good deal more than he had hoped.
 
 Then he went upstairs, because it was his house, and found his fiancée, Camilla, in his bed, with a man he recognised as Gerald from the golf club.
 
@@ -1634,7 +1634,7 @@ She said it again in English, slowly, so that everyone could hear.
 
 With Hale in a cell and singing like a canary, the French police had everything they needed on Vial except Vial.
 
-He was a hard man to catch. He did not own a telephone. He did not use a bank. He moved between Marseille, Monaco and a yacht called the *Pénélope,* and trusted no one under the age of sixty. But Captain Brunner had an informant, a Vatican accountant who spoke very softly and was afraid of lifts, and the informant had a date: on Saturday, at the Aix summer opera, in the Théâtre de l'Archevêché, Armand Vial would meet Cardinal Montefalco.
+He was a hard man to catch. He did not own a telephone. He did not use a bank. He moved between Marseille, Monaco and a yacht called the *Pénélope,* and trusted no one under the age of sixty. But Captain Brunner had an informant, a Vatican accountant who spoke very softly and was afraid of lifts, and the informant had a date: on Saturday, at the Aix autumn gala, in the Théâtre de l'Archevêché (a last open-air performance of the season, for which the audience brought blankets and the nobility brought hot-water bottles), Armand Vial would meet Cardinal Montefalco.
 
 "A cardinal," said Mara.
 
@@ -2152,6 +2152,8 @@ In the garden, in the dark, a pelican shifted his weight and turned his head ver
 
 ### Chapter 35: Spring
 
+It was spring. Tobias, who by now had experienced the season, the mattress and the metaphor in a single year, felt on the whole that he preferred the season.
+
 The trial was held in March, one year to the day after Elise Marchetti died, in the Palais de Justice at Aix-en-Provence: a handsome, pale, pillared building facing a square of plane trees, where on Tuesdays a market sold lavender, sausage and tragic cheese. Tobias had been in Aix twice by then. He found that the town looked very different when it was trying to put a man in prison.
 
 Hale, who turned out to be a better witness than a villain, gave up the name by the second week: Armand Vial, chairman of the Vial-Sorel Group of Marseille, who had been using the Verrane Award, and a dozen other prizes and foundations like it, to wash money through the entry fees of people who only wanted to be read. Hale's silver Porsche, it emerged, had been leased in his name and never paid for; he had been dreaming about it for forty years and owned it for eleven days. Vial himself was not at Marseille airport. Vial had vanished the night before the warrant, aboard his yacht, the *Pénélope*, which was found three days later drifting off the Portuguese coast with the engine running, the champagne open and nobody on board. The French police announced that he was missing, presumed drowned. Inspector Quill announced nothing, but crossed the word *drowned* out of her notebook and wrote *DOUBT* beside it.
@@ -2202,7 +2204,13 @@ One thing more happened on the steps that day. Through the crowd, in a brown twe
 
 "Hello, Gerald."
 
-"I wanted to say. About the duvet."
+"I wanted to say. About the duvet. And the, ah. The springs. They were rather loud."
+
+"I know," said Tobias. "I could hear them from the hall. I thought it was the pipes."
+
+"It was not the pipes," said Camilla, from under the hat.
+
+"I'm sorry about the duvet."
 
 He did not get any further, because Fernanda, who had seen a thin man and a pale woman standing near a cool-box, had taken him by the elbow and sat him down. "TOO. THIN. I FEED YOU." Gerald was fed chicken, rice and three custard tarts before he could draw breath. Camilla was fed the rest. By the end they were both weeping, with their mouths full, and Gerald told Fernanda that he had never understood until that moment what it was to be truly loved by a stranger, and left with a Tupperware and the impression that he was now somehow engaged to Portugal.
 
