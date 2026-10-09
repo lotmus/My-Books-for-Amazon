@@ -348,6 +348,46 @@ He would think about those evenings later, when he was sitting in a courtroom in
 
 He had been watching the birds. It had seemed more important at the time.
 
+### Chapter 5¾: The Snake
+
+On the fifth day of October, at approximately eleven in the morning, Tobias saw a snake.
+
+It was in the study, under the window seat. It was long, brown and entirely unhurried, and it looked at him with the polite expression of a lodger who has been there longer than the landlord. Then it slid behind the bookcase and was gone.
+
+He ran downstairs at a speed he had not achieved since school.
+
+"*Cobra!*" said Catarina, dropping a tea towel, when he had explained, in four languages, by miming. "*Cobra,* in the house?"
+
+"Under the window seat. Behind the bookcase. About a metre."
+
+"Is a *metre?*"
+
+"Possibly more."
+
+They returned to the study in a tight formation, Catarina with the broom, Tobias with the Olivetti's dust cover held out in front of him as a shield. They moved the bookcase. There was nothing behind it. They moved the window seat. Nothing. They shook the curtains, the cushions, the blanket box and the rug. They took the books off the shelves one by one and looked inside each, which Tobias felt was a little excessive.
+
+The snake could not be found.
+
+Madame Fournier was summoned. She came over the garden wall with her secateurs, examined the study with a face of bottomless calm, and announced: "It is a grass snake. It is harmless. It eats frogs and mice and the occasional mouse's idea of a nice evening. You are lucky. It is good luck."
+
+"Where is it, then?"
+
+"Who knows? It is a snake." She shrugged with the whole waistcoat. "It is not lost. It is only *not where you are looking.*"
+
+They did not find it. They did not find it for the rest of the week. Nigel Pemberton-Hayes came to search with a butterfly net and a sense of mission. Mara Quill, called by Priscilla, searched with a torch and visible disbelief. Chloe brought a book on British reptiles, and was thanked, and ignored. Three roofers, a postman, a German couple and a pelican at various times were said to have looked into the matter, and nobody saw so much as a tail.
+
+But everyone, ever after, felt it. In the evenings, when the light went, Tobias would sit at the Olivetti with his feet drawn carefully up onto the chair. In the kitchen, Catarina would open a cupboard and wait a long moment before she looked in. Something was in the house with them: patient, brown, a metre or more, and perfectly content.
+
+"It does not matter," said Catarina, one night, with great dignity, stepping over a loose slipper in the hall as if it were a bomb. "We are not afraid."
+
+"No," said Tobias, lifting his feet.
+
+"It is only a snake."
+
+"Yes. It's only a snake."
+
+The snake, as far as anybody ever learned, was never found.
+
 ### Chapter 6: The Same Thought
 
 It happened for the first time over a burnt pan.
@@ -1252,6 +1292,152 @@ Neither of them chased it. It was only paper.
 
 ---
 
+### Chapter 13½: Margaret and Derek
+
+Tobias's parents arrived the morning after the verdict, unannounced, in a hired Vauxhall Corsa, with a suitcase, a Tupperware of flapjacks, and the expression of two people who have been on a plane for the first time since 1998.
+
+"Mum. Dad."
+
+"We saw it on the news," said his mother, Margaret, kissing the air near his left ear. She was small and neat, in a beige raincoat, with the posture of a woman who had once been a head of department. "The *Yorkshire Post* had a piece. 'Local Author Solves Murder.' We thought, well, we had better come and see."
+
+"You could have rung."
+
+"We did ring. We got a woman who said *não percebo.*"
+
+"That's Catarina."
+
+"Is it?" said Margaret. "Is that the cleaner?"
+
+There was a short, ringing pause.
+
+"She's my... that is, she's the housekeeper," said Tobias. "And also, ah."
+
+Catarina, who had been coming round the corner of the house with a basket of laundry on her hip, stopped. She took in the Vauxhall, the raincoat, the Tupperware and Tobias's complexion, which had gone the colour of a boiled ham. She put down the basket, wiped her hands carefully on her apron, and advanced with her hand out.
+
+"Good morning," she said, in her very best English. "You are Margaret. You are Derek. I am very pleased. You are welcome. Welcome is a good word. It is like a house."
+
+"Ah," said Derek, a large, mild, silent man in a cagoule, who had been looking at the pelican over the garden wall. "That's a pelican."
+
+"He is called Lucien," said Catarina. "He lives here."
+
+"Right," said Derek, and said nothing else for four hours.
+
+Lunch was a masterpiece of polite catastrophe. Margaret sat at the kitchen table with her handbag on her knee and asked a series of questions with the grave courtesy of a woman interviewing for a position she did not intend to fill.
+
+"And your family, Catarina. Are they in the... hospitality industry?"
+
+"They have a restaurant."
+
+"How nice. In Portugal?"
+
+"Yes."
+
+"I see. And were you intending to go back there? When Tobias has finished his, ah. His *work.*"
+
+"Mum," said Tobias.
+
+"I'm only asking, dear. We just wouldn't want anyone to get *hurt.*" She sipped her tea, which was too weak, in a cup with a chip. "Camilla was such a lovely girl. Apart from the Gerald business."
+
+"Mum, she was in bed with Gerald."
+
+"People make mistakes."
+
+"She was in my *bed.* On your duvet."
+
+"The duvet was very good quality," said Margaret, and everyone, for a moment, looked at the table.
+
+It was Catarina who broke the silence. She put down her cup, folded her hands, and spoke slowly and deliberately, in a calm voice, with each word placed like a stone.
+
+"Margaret. I know what you think. You think, *a woman from another country, with no money, who cleans his house.* You think I will take your son and break his heart, or that he will take me and break mine." She paused. "You are right to be afraid. I am also afraid. In my family, a woman who marries a foreigner is a woman who has lost her mind." She smiled. "But I have read all of his books. Many times. The first one is not good. The second is better. And in the last, he wrote a page about a woman who goes into the lake for a manuscript, and I thought: *this man, he knows how to love a person he has not met yet.* And I thought: *I would like to be met.*"
+
+Nobody spoke. Derek looked up from the pelican.
+
+"I'll be damned," he said quietly.
+
+Margaret opened her handbag, closed it, and opened it again. She took out a small embroidered handkerchief, dabbed one eye, folded the handkerchief with precision, and put it back.
+
+"You'll need to learn how to make a proper cup of tea," she said at last.
+
+"I have been told this."
+
+"It's not hard. You warm the pot."
+
+"*Warm* the pot," said Catarina, with the air of a woman receiving a state secret.
+
+"And you let it stand." Margaret rose, took the teapot from the table, tipped the weak brown liquid into the sink, and rinsed it with a face of such ferocious purpose that Tobias felt an almost religious calm descend on the room. "Give me that kettle. Derek, stop looking at the bird."
+
+"It's a very good bird," said Derek.
+
+By evening they were in the kitchen together, Margaret and Catarina, shoulder to shoulder at the stove, one demonstrating a roux and the other a *caldo verde,* each insisting in her own language that the other was doing it wrong. Derek sat on the jetty with the pelican, in companionable silence, sharing a flapjack.
+
+"He's a decent chap," Derek told Tobias later, in the low voice of a man confiding his most intimate secret. "The pelican."
+
+"Yes, Dad."
+
+"Your mother likes her. She won't say it. She'll say it in about a fortnight, in the car." He considered the lake. "Tobias. I've never said this before. I think you've done all right."
+
+It was, Tobias reflected, the longest speech his father had made since the christening.
+
+### Chapter 14: The Night Train
+
+Fernanda had decreed that they would go to Portugal by train.
+
+"Aeroplanes," she said, "are for people who do not wish to arrive properly. The body must travel at the speed of the heart. Also the cool-box does not fit in the overhead locker."
+
+So on a Friday evening in April, six of them boarded the sleeper at Hendaye: Tobias, Catarina, Fernanda, Inês, Zé the great-uncle with his guitar, and a very large cool-box that Fernanda would not allow out of her sight, and which she referred to, with great tenderness, as *o bebé.*
+
+The train climbed all night. In the last of the light it ran along the Basque coast, grey sea on one side and green hills on the other, then turned inland, and the mountains began. They came up out of the dusk like the backs of sleeping animals: black ridges and tumbling forests and, here and there, a high white village hanging off a crag with one lit window. The line went round them and through them. It dived into tunnels, long and short, and came out into sudden moonlit valleys where a river ran silver at the bottom of a cliff, and plunged in again.
+
+Tobias and Catarina had the compartment at the end of the carriage. The others were three doors down. Fernanda had arranged this herself, with an expression of such tremendous, naked innocence that Inês had been obliged to look out of the window.
+
+"Eleven hours," said Catarina, closing the door.
+
+"Eleven and a half, in Spain."
+
+"And in the morning we are in Porto."
+
+"Yes."
+
+"It is a very long time," said Catarina slowly, "to sit opposite a man and say nothing."
+
+"I wasn't planning to say nothing."
+
+"No?"
+
+"I was planning," said Tobias, with a courage he had not known he possessed, "to say a great many things. In my worst Portuguese. All night."
+
+She laughed, low, in the dark, and the train gave a long, rocking lurch round a bend, and she was suddenly in his lap, or he was suddenly on the floor, nobody afterwards could say exactly which, and the thing they had been holding back for eight months, through the lake, the lobster, the flamingos, the storm, the roof and the snake, simply stopped being held.
+
+It was not simmering. They had simmered enough. They had simmered through a murder trial, a failed scan, a ransacked notary, a funeral of a washing machine and a hundred and eleven shared cups of tea. This was a boil, and it came over the side of the pan all at once.
+
+"*Eu amo-te,*" said Tobias, into her hair, in terrible Portuguese.
+
+"I love you," said Catarina, in English, against his mouth.
+
+The train plunged into the longest tunnel in the Pyrenees. The lamp went out. The whole carriage filled with the rushing, roaring, thunderous black, and for four minutes, in the dark, there was no language, no accent, no mistake, and no need of a phrasebook. There was only the noise of the wheels, and the beat of two hearts, going at exactly the same speed.
+
+When the train came out into the moonlight, on the far side of the mountain, they were sitting on opposite seats, in perfect order, with their hands folded and their hair rather wild. Somebody tapped on the door.
+
+"*Entre,*" said Catarina, in a voice that was not entirely steady.
+
+It was Inês. She stood in the doorway with a flask and two cups, and her face was a masterpiece of composed neutrality.
+
+"Fernanda sends tea," she said, in English. "She also sends a message. She says the tunnel was *very* long, and that she would like it understood that she is a very light sleeper and a very heavy cook."
+
+"Thank you," said Tobias.
+
+"Don't thank me." Inês set down the flask. "I am a sarcastic woman, Tobias. I shall make a remark about this at the wedding." She paused at the door. "I shall make it in front of Avó Rosa."
+
+"Please don't."
+
+"Of course I shall. It is what sisters are for."
+
+She shut the door behind her. A few seconds later, down the corridor, three doors along, they heard a loud and unmistakable cheer, and a guitar, and Zé's voice singing something hoarse and triumphant about the sea.
+
+They looked at each other and began to laugh. Outside, the mountains rolled by in the silver dark, one after another, like a long procession of friends.
+
+---
+
 ## Epilogue: Restaurante Vidal
 
 The Vidals came from Afurada, a fishing village on the south bank of the Douro, where the boats come in at dusk and the grandmothers still scrub the stoops before breakfast. Everything in the village smelled of charcoal, salt and sardines. The sea was grey, the washing lines were bright, and every window had an opinion.
@@ -1267,6 +1453,8 @@ Tobias arrived in a suit that Fernanda had inspected and declared "adequate, for
 "That's rather harsh."
 
 "She is ninety-four. She earned it." Inês picked a bone from her fish. "She also said you are too pale and you will die in a year. This is a good sign. It means she likes you."
+
+Margaret and Derek had come too, by aeroplane, over Fernanda's protests. Margaret sat at Avó Rosa's right hand in a hat the size of a dinner plate and, after two glasses of port, had been persuaded by Zé to dance. She danced remarkably well. Derek watched from his seat with his glass in his hand and the expression of a man who has just discovered something about his wife of forty-one years, and is not at all sure he wants to know it.
 
 The speeches began at nine. Zé stood and sang something so mournful that three fishermen wept into their wine, and one of them was not a fisherman at all but the postman, who had come for the free food. Fernanda stood and said that her sister was marrying an Englishman, that this was a punishment for a sin nobody could name, and that she would be keeping the recipe for the cod. Inês stood and said, in a perfectly level voice, that she had read the whole of the groom's work and could confirm that he was a man of fine feeling and indifferent plotting, and that she wished them both a long life, since she did not intend to arrange another one.
 
