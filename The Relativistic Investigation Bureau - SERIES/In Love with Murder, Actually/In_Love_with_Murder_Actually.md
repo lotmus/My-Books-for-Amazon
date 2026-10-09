@@ -815,11 +815,119 @@ In the late afternoon the light turned amber, as it does in Provence, and began 
 
 She nodded slowly, leaning against his shoulder, watching the light go. She did not say anything else. She did not need to. It was the kind of silence that two people only arrive at after months of trying to find words in two languages, and then finding that the silence was a language too.
 
+### Chapter 17: Thus Spoke the Hermit
+
+"We climb the mountain," said Catarina, "because you said you wanted to see the thing Cézanne kept painting."
+
+"I said I'd *look* at it."
+
+"It is better from the top. Everything is." She laced her boots. "This is also true of people."
+
+Mont Sainte-Victoire rose out of the plain east of Aix like a great pale ship run aground, a long white limestone ridge with a cross on its summit and a view, it was said, of the whole of Provence. They started at six, with water, bread, a hat and a camera. By eight the sun was a hammer. By nine Tobias had developed an intimate understanding of the word *gradient.*
+
+At ten they reached the ridge, and the sun came over the rim of the world, and it did the thing the sun does at the top of mountains in films. The sky went white. The valley below turned gold. A single vast cloud lit up from inside, like a lamp.
+
+In Tobias's head, with enormous brass and a drum, someone began to play the opening of *Also sprach Zarathustra.* He did not know why. He had not asked for it. He only knew that three low notes, a rising trumpet and the whole thundering sunrise of the Richard Strauss tone poem were suddenly, unstoppably, in his skull.
+
+"*Dum,*" he hummed, involuntarily. "*Dum. Dum. DUM.*"
+
+"Stop that," said Catarina.
+
+"I can't."
+
+"You look like a man who has seen God."
+
+"I've seen a rock," said Tobias. "A very large rock, in extremely good lighting."
+
+That was when the hermit came over the ridge.
+
+He was seventy, or perhaps four hundred. He wore a goatskin, a long grey beard, a pair of Birkenstocks and a hat with a feather in it. He walked with a staff. Behind him, at the end of a rope, came a small, patient, apricot-coloured donkey with a rucksack. On the hermit's shoulder sat a young eagle, who looked as if it had been assured that this was a prestige position. And round his neck, in several loose loops like a scarf, lay a long green snake.
+
+He stopped on the ridge, spread his arms, and addressed the sun.
+
+"*Du grosses Gestirn!*" he cried. "Thou great star! What would be thy happiness, if thou hadst not those for whom thou shinest?"
+
+"That's a quotation," whispered Tobias.
+
+"I know," whispered Catarina. "I have a degree."
+
+"I have come down from the mountain," said the hermit, in surprisingly good English, "to teach men the Overman!"
+
+"You haven't come down," said Catarina. "You've come up."
+
+The hermit paused. He looked down at his sandals, then up at the ridge, then back at her, with deep suspicion.
+
+"The point stands," he said.
+
+His name, it emerged over lunch (they had bread, he had lentils, the eagle had a lizard), was Professor Hubert Zarathoustre. He had been, in a former life, a professor of Philosophy at the University of Aix, until a regrettable incident with a seminar and a bonfire. For nineteen years he had lived on the mountain with his donkey, his eagle and a snake called Gérard. He came down once a month for wine and to be told by the villagers that he was mad.
+
+"And are you?" said Tobias.
+
+"A little," said the professor, with dignity. "It is a sign of quality."
+
+He shared his teaching. It came in short, fierce bursts, between mouthfuls of lentil.
+
+"*Man is a rope,*" he said, "stretched between beast and Overman. A rope over an abyss."
+
+"I think it's a bridge," said Catarina.
+
+"It is a rope."
+
+"It was a bridge when I read it."
+
+"Then you read it in a *translation,*" said the professor, in the voice of a man on the edge of tears.
+
+"*God is dead,*" he announced.
+
+"Oh dear," said Tobias.
+
+"Do not tell Captain Brunner," said Catarina, who had developed in recent weeks an almost maternal protectiveness toward the Swiss. "He will be very upset."
+
+"He is dead *to us.* To the modern man. It is a metaphor."
+
+"Brunner does not understand metaphor," said Catarina. "He is Swiss. He only understands umbrellas."
+
+The professor looked at her for a long time. Then he turned to the eagle and said, with real sorrow: "This one has a *degree.*"
+
+The eagle shrugged, which for an eagle is a considerable physical achievement.
+
+The snake, Gérard, slid slowly down the professor's arm and across the bread. Tobias, who had been waiting for a chance to ask, leaned forward.
+
+"This is a, er, an unusual snake. We lost one. In October. Brown, about a metre, very polite. Under a window seat. Is it..."
+
+"This is Gérard," said the professor stiffly. "He is green. He does not do window seats."
+
+"Ah."
+
+"Your snake," said Professor Zarathoustre, looking at him with enormous kindness, "is an *Eternal Recurrence.* It will come back. It is the nature of snakes. Everything you have lost will come back, and you will live it all again, exactly as before, for ever."
+
+There was a long silence. A distant bell rang in a village.
+
+"I would like very much," said Tobias, slowly, "for this *not* to be true of the last eighteen months."
+
+"Then you must say Yes to it," said the professor. "To all of it. The duvet. The jetty. The lake. The pelican."
+
+"How do you know about the pelican?"
+
+"Everyone knows about the pelican." The professor reached for the lentils. "It is the most important animal in the south of France. It is, in a sense, *our* eagle."
+
+Catarina put her hand in Tobias's. They sat on the ridge in the heat, with their feet over the abyss, and the sun on their shoulders, and the whole plain of Provence spread out below like a painting that nobody had yet finished.
+
+"I would say it again," said Catarina. "All of it. Even the snake."
+
+"Even the snake?"
+
+"Especially the snake. It was the most dramatic part."
+
+On the way down the hermit asked for a lift. He climbed into the back of Tobias's hire car with the donkey, the eagle and Gérard, and sat there in a dignified silence all the way to Aix, where he got out in front of a small bar called Le Dernier Homme and said, to nobody, "Thus spoke Zarathustra."
+
+"Thus paid for the petrol," said Tobias, but the professor was already inside, ordering a glass of red, and the eagle was eating the olives off the counter, and the whole place went quiet to listen to him.
+
 ---
 
 ## Part Three: The Sister
 
-### Chapter 17: The Visitor
+### Chapter 18: The Visitor
 
 Victor Hale arrived on a Friday, in a silver Porsche that was far too low for the lane. It scraped on every pothole with a noise like a rich man clearing his throat.
 
@@ -839,7 +947,7 @@ Hale kept smiling. "No matter." Tobias noticed that he smiled the way other men 
 
 But later, when the car had gone, Tobias found her at the kitchen sink with her hands clenched white on the edge of the basin, and he understood that she had understood every word.
 
-### Chapter 18: Lobster
+### Chapter 19: Lobster
 
 Inspector Mara Quill did not take holidays. She took leave, which is different. On the Saturday she drove to Marseille, to the old harbour, on the pretext of a dentist.
 
@@ -867,7 +975,7 @@ Mara watched him lift a claw and smile at it, and thought of eleven thousand wri
 
 She did not finish the thought. She had never been a woman for speeches. She paid for her coffee, left a generous tip for a waiter who would never know why, and went out into the grey Mediterranean light, and made a telephone call that would take eleven weeks to come to anything at all.
 
-### Chapter 19: The Photograph
+### Chapter 20: The Photograph
 
 It was Catarina herself who told him in the end, and it took the whole of one long evening.
 
@@ -895,7 +1003,7 @@ At the very same moment Catarina said, in Portuguese, "*Então vamos encontrá-l
 
 The same sentence, in two languages, arriving across the table together. They stared at each other.
 
-### Chapter 20: The Rewriting
+### Chapter 21: The Rewriting
 
 They worked in the study from then on, side by side.
 
@@ -953,7 +1061,7 @@ She stiffened. Then she let her forehead drop against his shoulder and said, in 
 
 ## Part Four: The Lake
 
-### Chapter 21: The Chipped Cup
+### Chapter 22: The Chipped Cup
 
 Tobias caught a cold in the ditch beside the A7, and by midnight it had become a fever.
 
@@ -1043,7 +1151,7 @@ He took it, and held it in both hands, and looked at it for a long moment.
 
 She laughed, and sat on the edge of the bed, and for a while neither of them said anything at all. Outside, in the long grass, the clock in the hall struck eight. On the desk the Olivetti, who has never been a talker, stayed discreetly silent, and if one of its keys had a glimmer of smug about it, no one noticed but the cup.
 
-### Chapter 22: The Long Way to Aix
+### Chapter 23: The Long Way to Aix
 
 Inês's notebook ended with an address in Aix-en-Provence: *Maître Étienne Barbier, Notaire, 14 rue Gaston de Saporta, 17h00.* Beneath it, underlined twice: *the originals.*
 
@@ -1135,7 +1243,7 @@ Catarina picked it up. Tobias took it from her very gently and snapped it in two
 
 "No," said Catarina. "He is a man who has never once been in a boat."
 
-### Chapter 23: The Man from Rome
+### Chapter 24: The Man from Rome
 
 He arrived at the lake house at eight o'clock that evening, on foot, in the rain, with an umbrella held at the precise angle of a bayonet.
 
@@ -1334,7 +1442,7 @@ Then he crossed out *good*, and wrote *very good*, and went to sleep.
 
 When he woke, in Rome, the book was on his seat. Nobody could say how it got there. It was the wrong book. It was a calendar. March was a cow.
 
-### Chapter 24: Home Alone, Mostly
+### Chapter 25: Home Alone, Mostly
 
 Hugo Pemberton-Hayes was nine, and large for his age in the head.
 
@@ -1424,7 +1532,7 @@ The Gastons were arrested at midnight by an Inspector in her dressing gown. They
 
 (This was, as it proved, not the case. The Gastons were out on bail by Sunday lunchtime, released by a magistrate who was on his way to a restaurant and signed the form without looking up.)
 
-### Chapter 25: The Trap
+### Chapter 26: The Trap
 
 Hale came back on a Sunday night, uninvited, with his headlights off.
 
@@ -1462,7 +1570,7 @@ She stood up in the rocking boat, took the notebook from her blouse, and held it
 
 And from the far shore, a light answered.
 
-### Chapter 26: The Far Shore
+### Chapter 27: The Far Shore
 
 Inês Vidal had been living in the boathouse on the other side of the lake since March.
 
@@ -1522,7 +1630,7 @@ She said it again in English, slowly, so that everyone could hear.
 
 ## Part Five: The Last Page
 
-### Chapter 27: The Opera at Aix
+### Chapter 28: The Opera at Aix
 
 With Hale in a cell and singing like a canary, the French police had everything they needed on Vial except Vial.
 
@@ -1616,7 +1724,7 @@ The *Pénélope* was found three days later, drifting off Portugal, with the eng
 
 At the opera, it should be said, the performance of the Sicilian peasants ran to its end. Nigel Pemberton-Hayes, who had sung through the entire disturbance without once breaking character, took his bow to a standing ovation, and the critic of *Le Provençal* wrote that he had "never seen a peasant so convincingly terrified."
 
-### Chapter 28: The Germans
+### Chapter 29: The Germans
 
 After the scandal, Madame Odile Fournier decided to sell the lake house.
 
@@ -1634,7 +1742,7 @@ Within a week there were buyers: Herr Dieter and Frau Brigitta Brandt of Stuttga
 
 "Everything."
 
-They took them. They measured the kitchen, the jetty, the conservatory, the cellar and the gap between the stairs and the banister, with a quiet, devout concentration that Tobias found oddly moving. Frau Brandt tested every tap, every light switch and every window, nodding to herself, and made a note on her clipboard each time. Herr Brandt stood in the garden with the spirit level and announced, with real grief, that the lawn sloped by one and a half degrees.
+They took them. They measured the kitchen, the jetty, the conservatory, the cellar, the first-floor balcony (which Herr Brandt declared "sound, in a general sense") and the gap between the stairs and the banister, with a quiet, devout concentration that Tobias found oddly moving. Frau Brandt tested every tap, every light switch and every window, nodding to herself, and made a note on her clipboard each time. Herr Brandt stood in the garden with the spirit level and announced, with real grief, that the lawn sloped by one and a half degrees.
 
 "Is this a problem?" said Tobias.
 
@@ -1702,7 +1810,15 @@ The next morning, a note appeared on the garden gate in beautifully upright hand
 
 By noon the pelican was sitting on it. The *À VENDRE* sign, which nobody ever stood back up, lay in the long grass by the gate with a single enormous footprint in the middle of it, like a signature.
 
-### Chapter 29: Drip
+The balcony fell off at four o'clock that afternoon.
+
+It did so quite without warning, with a long, tearing, comic noise that Frau Brandt later described, in a very polite letter, as *rattatta zong.* One moment the first-floor balcony of the lake house stood where it had stood since 1911, with a geranium on it. The next it was lying in the rose bed, in pieces, with the geranium still upright and a faint puff of plaster rising from the wreckage like a ghost leaving a party. Nobody was hurt. Madame Fournier, from her window, regarded it for some time.
+
+"Lucien always said it was sound," she said at last.
+
+The Brandts' letter arrived a week later. It was two pages long, set out in numbered paragraphs, and it concluded: *We do not wish to say we told you so. We wish only to note that we measured it at 41 kilograms over the rated load, and that we were, in the matter of the lawn, entirely correct. Yours faithfully, D. & B. Brandt.*
+
+### Chapter 30: Drip
 
 The storm came on the night after the Germans left, as if it had been waiting politely in the next valley for them to finish.
 
@@ -1772,7 +1888,7 @@ She picked one olive and held it out on her palm. A single drop ran off the end 
 
 *Plink.*
 
-### Chapter 30: The Roofers
+### Chapter 31: The Roofers
 
 The roofers arrived on Thursday, in a white van with a Polish number plate and a sticker on the back window that said, in English, *WE FIX THINGS. WE DO NOT TALK ABOUT IT.*
 
@@ -1842,7 +1958,7 @@ Tomasz leaned out of the van window and gave her a wide, wet, delighted smile.
 
 "It means," he said, "that he likes tea very much."
 
-### Chapter 31: The Witness Is Nine
+### Chapter 32: The Witness Is Nine
 
 The trial of the two Gastons began on a Monday, in a small wood-panelled courtroom in Aix-en-Provence with a high ceiling, a creaking floor and a portrait of Marianne that seemed to disapprove of everyone.
 
@@ -1898,7 +2014,7 @@ He did it with great politeness. He pointed out that his earlier statement on th
 
 The Gastons were convicted that afternoon. The Judge, in a gesture unprecedented in the history of the Aix court, offered Hugo a seat on the bench for the sentencing, where he sat on two cushions with a gavel and gave the defendants eighteen months with great gravity. Afterwards, in the corridor, Maître Delacroix-Roux was seen sitting on a bench with his head in his hands, being offered a custard tart by a very large Portuguese woman who had been there all morning, and who had, he said later, been the only person in the building to show him any kindness.
 
-### Chapter 32: The Sorel Cousins
+### Chapter 33: The Sorel Cousins
 
 The trial of the Sorel family began the following Monday, and it took a little time to find a room big enough.
 
@@ -1944,7 +2060,7 @@ At this point the three aunts rose. They moved with the slow inevitability of co
 
 The Sorel cousins were sentenced to community service in the parks department of the city of Aix, where they spent eighteen months weeding the Cours Mirabeau, and where they became, to the astonishment of the council, the best gardeners the city ever employed. Vincent, in particular, developed a gift for roses. He wrote to his uncle Armand every Sunday. He asked about the hen.
 
-### Chapter 33: Spring
+### Chapter 34: Spring
 
 The trial was held in March, one year to the day after Elise Marchetti died, in the Palais de Justice at Aix-en-Provence: a handsome, pale, pillared building facing a square of plane trees, where on Tuesdays a market sold lavender, sausage and tragic cheese. Tobias had been in Aix twice by then. He found that the town looked very different when it was trying to put a man in prison.
 
@@ -2040,7 +2156,7 @@ Neither of them chased it. It was only paper.
 
 ---
 
-### Chapter 34: Margaret and Derek
+### Chapter 35: Margaret and Derek
 
 Tobias's parents arrived the morning after the verdict, unannounced, in a hired Vauxhall Corsa, with a suitcase, a Tupperware of flapjacks, and the expression of two people who have been on a plane for the first time since 1998.
 
@@ -2126,7 +2242,7 @@ By evening they were in the kitchen together, Margaret and Catarina, shoulder to
 
 It was, Tobias reflected, the longest speech his father had made since the christening.
 
-### Chapter 35: The Night Train
+### Chapter 36: The Night Train
 
 Fernanda had decreed that they would go to Portugal by train.
 
