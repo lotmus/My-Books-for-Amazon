@@ -368,6 +368,86 @@ In the kitchen below, Catarina put down her wooden spoon and said quietly to the
 
 Neither heard. The rain came down on the roof between them, saying it for both.
 
+### Chapter 6½: The Pemberton-Hayeses
+
+The neighbours who had telephoned the police were an English couple called Nigel and Priscilla Pemberton-Hayes. They had retired to France eleven years ago to "live more simply," and had since built a conservatory, a wine cellar and a second conservatory in which to store the first.
+
+They invited Tobias to supper on Thursday. Priscilla called it "nothing fancy, just a few friends." There were four friends, none of them French.
+
+"We never really mix," Nigel confided, over the sherry. "The locals are charming, but one can't *tell* what they're thinking."
+
+"They're thinking about the tractor you backed into," said Priscilla, from the kitchen.
+
+"That was one time."
+
+It was a Thursday of marvellous, suffocating politeness. Tobias sat between a retired orthodontist and a woman who wished to discuss the royal family, and ate a vol-au-vent the size and texture of an ear. At ten past nine, Priscilla rose, tapped her glass, and announced that she was going to pop to the village hall, for a committee thing about the Christmas pantomime, and would be back at eleven. Nigel would look after everyone. Chloe, the babysitter, was upstairs with Hugo, and would be no trouble.
+
+At twenty to ten, with a rattle of keys, Priscilla came back.
+
+She stood in the hall in her coat and silk scarf with a face like a barometer falling. "The committee was cancelled," she said. "Mavis had a cold. I thought I'd surprise..."
+
+She stopped.
+
+From the top of the stairs came a thump, a muffled yelp, and the sound of someone saying "Not there, not there, mind the lamp." A door opened. Down the stairs, in the following order, came: a nineteen-year-old babysitter named Chloe, flushed to the roots of her hair and holding a pillow in front of her, and Nigel, in his shirtsleeves, with his trousers on back to front and a tea towel tied round his head like a turban.
+
+The room went very quiet. The orthodontist put down his sherry. Somewhere on the mantelpiece, a clock considered chiming and thought better of it.
+
+"Priscilla," said Nigel.
+
+"Nigel."
+
+"It's not what it looks like."
+
+"It looks like," said Priscilla, in a voice of marmalade and steel, "my husband and the babysitter coming downstairs in a state of disorder, with a pillow."
+
+"There's a perfectly good explanation."
+
+"I'm sure there is. I've known you thirty years, Nigel. I'm sure it's a very *good* one." She unbuttoned her glove, finger by finger. "You may begin."
+
+Nigel opened his mouth. Chloe, behind him, whispered, "Tell her, Mr Pemberton-Hayes."
+
+"We were rehearsing!" Nigel burst out.
+
+"Rehearsing what?"
+
+"The pantomime! *Dick Whittington!* You said Mavis couldn't do the Dame this year, because of her hip, and I thought, well, someone must, and I've always had a certain *flair,* and Chloe was good enough to run the lines, and I was trying on the costume, you see, and the skirt got stuck, and she was helping me out of the, ah, the corset..."
+
+He held up the tea towel. It was, on closer inspection, a very large floral bonnet. Chloe, from behind the pillow, produced a script and a pair of enormous false eyelashes.
+
+"Not there," said Priscilla slowly. "Not *there.* That was the line."
+
+"It's a very difficult scene," said Chloe in a small voice. "He has to fall off the ladder."
+
+There was a long, ringing pause. Then the orthodontist began to laugh. The woman who liked the royal family laughed. Tobias, to his shame, was laughing already, helplessly, into a vol-au-vent. And Priscilla, who had stood in her coat through the whole of it with the stillness of a Roman senator, drew a long breath and said, with great dignity:
+
+"Nigel. You are a *terrible* Dame."
+
+"Yes," said Nigel miserably.
+
+"The skirt's on back to front. And the orthodontist can see your knees."
+
+"Yes, dear."
+
+"I will be Dame," said Priscilla, "and you will be the back half of the horse." She turned to Tobias, her face quite calm. "I do apologise. It's always like this at rehearsals."
+
+On the walk home through the dark lane Tobias passed the garden wall of the lake house and thought about it all. Two people lay in the earth, he thought, and a third was a stranger in a tea towel, and the whole of English married life stood somehow between them like a loaf of bread.
+
+He told Catarina about it in the kitchen. She listened with her chin on her hand.
+
+"He was in the dress?"
+
+"In the dress."
+
+"And the wife, she is not angry?"
+
+"She was horribly angry," said Tobias. "And then she wasn't. She's going to be the Dame."
+
+Catarina considered this for a long time. "The English," she said at last, "are the only people in Europe who can be caught with the babysitter and say, *it was for the pantomime,* and *everybody believes.*"
+
+"The remarkable thing," said Tobias, "is that it was true."
+
+"That," said Catarina, "is the most English part."
+
 ### Chapter 7: Bloody Hell
 
 Her English improved in jumps, and always by theft.
