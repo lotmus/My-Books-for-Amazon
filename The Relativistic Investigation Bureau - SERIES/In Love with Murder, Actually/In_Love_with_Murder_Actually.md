@@ -106,6 +106,10 @@ It was a crime novel, the best he had written, and it was built on something tru
 
 There was more. Elise's last emails had mentioned a literary prize, the Verrane Foundation Award, which charged hopeful writers a £60 entry fee and had never once, in nine years, awarded anything. She had also mentioned that her late mother's estate, including the rights to a bestselling backlist, had somehow ended up in the hands of her publisher. Tobias had read the emails four times. Murder, theft and a scam, he thought, and all of it with excellent letterhead.
 
+Then, with the help of a newspaper archive and a very long afternoon, he found the other two. In April an auditor named Pascal Aubry had fallen from a hotel balcony in Lyon. In June a notary, Maître Giraud, had driven off a bridge near Avignon. Both deaths were ruled accidents. Both men, Tobias discovered, had spent their last weeks examining the accounts of the Verrane Foundation. Nobody had ever put the three names on one page. That, he realised, was what his manuscript was: the first page they were all on.
+
+It was a terrible thing to have written, and a worse thing to have lost, and he was rather proud of it.
+
 Tobias had never believed it. Elise had once refused to cross a puddle on the grounds that it looked ambitious. He had come to the lake house to prove it, and the novel was his method, because it was the only way he knew how to think. Every chapter reconstructed the night she died, and he had disguised the real names so thinly that anyone who knew the story would spot the villain on the first page.
 
 Now the pages that named him were gone.
@@ -428,6 +432,10 @@ Hale did not run. He stood at the end of his own jetty in his beautiful coat and
 
 "It was only paper," he said, almost to himself. "Contracts. Receipts. A few silly pages in the water."
 
+"It was three dead people," said Mara. "Aubry. Giraud. Marchetti. You didn't do this for a house, Mr Hale. You haven't the imagination."
+
+Hale's smile faltered for the first time. "I'm a cashier, Inspector," he said. "A very well-dressed cashier. If you think I'm the one who decides, you've read the wrong book."
+
 "No," said Aurelia, stepping onto the dock, soaked and shaking, and putting an arm round her sister. "*Não é só papel.*"
 
 She said it again in English, slowly, so that everyone could hear.
@@ -441,6 +449,8 @@ She said it again in English, slowly, so that everyone could hear.
 ### Chapter 13: Spring
 
 The trial was in March, one year to the day after Elise Marchetti died.
+
+Hale, who turned out to be a better witness than a villain, gave up the name by the second week: Armand Vial, chairman of the Vial-Sorel Group of Marseille, who had been using the Verrane Award, and a dozen other prizes and foundations like it, to wash money through the entry fees of people who only wanted to be read. Vial was arrested at Marseille airport trying to board a flight to Geneva with a single suitcase and a signed first edition. The first edition was of Tobias's previous novel. It was the only copy he had ever seen sold at full price.
 
 Hale was convicted on every count: murder, theft of the Marchetti estate, and fraud against 11,400 hopeful writers, each of whom had paid £60 to be told they had not won. The judge remarked that it was the first time the Verrane Award had ever delivered what it promised, which was a disappointment for everybody. Tobias gave evidence for two hours. Aurelia gave hers for four, in English that was still careful but no longer broken, with her sister beside her, and when the judge thanked her for her courage she answered in a clear voice, "I only read the pages."
 
