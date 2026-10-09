@@ -242,6 +242,48 @@ The reply came under his door that night, in pencil, with a line of Portuguese c
 
 He laughed until his tea went cold. He learned later that she had meant to write *a cow on holiday*, which in her mind was a kindness. In Portuguese it would have been a compliment. In English it was merely a cow.
 
+### Chapter 5½: Birds
+
+The lake lay at the bottom of a valley in the French countryside, and it did not appear to be aware that anyone was writing a murder mystery on its shore.
+
+In the mornings, mist lay on the water like a held breath. Plane trees lined the lane, their bark peeling in grey-and-cream patches, as though the trees were quietly undressing. Beyond the garden wall the land rolled away in vineyards, then lavender gone to seed, then a field of sunflowers all facing the wrong way in autumn, heads bowed, looking like a congregation that had been told the sermon would be long.
+
+And there were birds. Tobias had not expected so many birds.
+
+Herons stood in the reeds on one leg, like retired bank managers considering a transaction. Coots paddled in the shallows with the fuss of men who have lost their keys. Swallows stitched the air above the jetty at dusk, and once, at dawn, a kingfisher went past the study window in a single blue streak, so brilliantly that Tobias dropped his pen.
+
+"*Guarda-rios,*" said Aurelia, behind him, with a tea towel over her shoulder. [Kingfisher.]
+
+"Sorry?"
+
+"*Guarda-rios.* River... watch-man." She mimed a small figure with a clipboard. "He guard the river."
+
+"Kingfisher," said Tobias. "He is a kingfisher."
+
+"*King. Fisher.*" She gave it a moment's serious thought. "In Portuguese he is a policeman. In English he is a *king.* English people, they make everything a king."
+
+"We have a lot of kings."
+
+"You have *one* king," said Aurelia, "and two hundred tea."
+
+So it became their game. In the evenings they sat on the jetty with a flask and the binoculars from the hall cupboard and traded names. The heron was *garça* for her and *heron* for him. The swallow was *andorinha*, a lovely word that he practised for days and still got wrong. The hoopoe, which strutted across the lawn one morning in a crown and a barred coat and the confidence of a man who has never once been criticised, was *poupa*.
+
+"You say it," she said. "*Poupa.*"
+
+"Poo... pa."
+
+"*Poupa.*"
+
+"Poo-pah."
+
+"*Meu Deus.*" She closed her eyes, delighted and appalled. "The bird is better at saying it."
+
+The hoopoe, on cue, said *oop-oop-oop* from the lawn, perfectly, and looked at him with something very like pity.
+
+He would think about those evenings later, when he was sitting in a Marseille courtroom being asked to describe the lake. He would say that it was very quiet. That it was very beautiful. That he had not, at first, noticed anything sinister about it at all.
+
+He had been watching the birds. It had seemed more important at the time.
+
 ### Chapter 6: The Same Thought
 
 It happened for the first time over a burnt pan.
