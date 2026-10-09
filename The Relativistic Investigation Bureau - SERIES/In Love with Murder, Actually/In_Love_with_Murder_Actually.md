@@ -17,6 +17,8 @@
 > **Gaston and Gaston**, henchmen. Not related. Both answer to either.
 > **Nigel and Priscilla Pemberton-Hayes**, English abroad. Nigel is the back half of a horse.
 > **A pelican**, as himself.
+> **A kangaroo called Skippy**, also as himself.
+> **A border collie called Gigi.** A horse called Furie. A dolphin, unnamed, unavailable for comment.
 > **A snake**, whereabouts unknown.
 >
 > *No animals were harmed in the writing of this book. The snake has not been found, so we cannot confirm his condition.*
@@ -951,9 +953,99 @@ She stiffened. Then she let her forehead drop against his shoulder and said, in 
 
 ## Part Four: The Lake
 
-### Chapter 21: The Long Way to Aix
+### Chapter 21: The Chipped Cup
 
-Inês's notebook ended with an address in Aix-en-Provence: *Maître Lucien Barbier, Notaire, 14 rue Gaston de Saporta, 17h00.* Beneath it, underlined twice: *the originals.*
+Tobias caught a cold in the ditch beside the A7, and by midnight it had become a fever.
+
+Catarina put him to bed in the study with three blankets, a hot-water bottle and a bowl of her grandmother's soup, which smelled of garlic and ancient sorrow. She sat with him until he fell asleep, and then she tiptoed out. The lamp went down. The house creaked. And on the desk, in the dark, a small voice said:
+
+"Is he asleep?"
+
+"He's *ill,*" said a deeper voice, with a faint creak of springs. "It's not the same."
+
+Tobias opened one eye.
+
+The Olivetti stood on the desk, very upright, its keys gleaming like a row of teeth. It was not a thing he had ever noticed having a face, but it had one now, in the arrangement of the carriage and the bell and the two round spools. It looked like a retired colonel who had been asked to wait in a draughty corridor.
+
+"Good evening," it said. "I do hope we haven't woken you. I did say it was unprofessional."
+
+"You're a typewriter," said Tobias.
+
+"I am a 1962 Olivetti Lettera 22 of the finest Italian manufacture, and I have been sat in the same position for four weeks. Do you know what I have been *typing?* Do you know how many commas you leave out?"
+
+"Hush, Monsieur Olivetti," said a kindly, round, steamy voice from the sideboard. A fat brown kettle was bubbling gently, with a spout like a nose. "The poor boy's got a temperature. Hot drink, dear?"
+
+"I'm dreaming," said Tobias.
+
+"Of course you are," said the kettle comfortably. "Everyone dreams in a fever. We only talk to people who can't remember it in the morning. It's the rule of the house."
+
+A chipped white cup scooted to the edge of the table, rocking on its saucer. It was the one Catarina had handed him on the first day, the one with the crack along the rim. It had a small, high, eager voice, and it spoke very fast.
+
+"Is she your girlfriend? She makes the tea. She *talks* to us. She said *good morning* to the toaster. Is she your *wife?*"
+
+"She's not," said Tobias, "my anything."
+
+There was a pause. In the corner, the grandfather clock cleared its throat with a tick, and a pair of brass candlesticks on the mantelpiece, who had been standing very close together, leaned in.
+
+"*Mon Dieu,*" said the first candlestick, who was French, flamboyant, and appeared to be on fire in several places. "He says *not.* He says *nothing.* You hear it, Marguerite? This man is blind."
+
+"He is English," said the second candlestick, a duchess. "It is the same."
+
+"A handsome woman scrubs your floors for two months," said the clock gravely, "sings in your kitchen, wades into a lake after your papers. She rows a boat for you. She steals your breakfast bread. And you say *nothing.*"
+
+"I've said a great deal."
+
+"You have said," said Monsieur Olivetti stiffly, "a great deal of *rubbish.* There is no comma in it."
+
+"We have a plan," said the kettle.
+
+They had a plan. It was, in the way of fever dreams, a fairly good plan. The candlesticks would light the way. The clock would chime at the proper hour. The kettle would pour, the cup would clink, and the typewriter would type a short, formal, wholly inappropriate declaration on a single clean sheet. And then, said the kettle, "you say it aloud, you daft creature, and you say it yourself."
+
+"I can't," said Tobias. "My Portuguese is terrible."
+
+"She doesn't want your Portuguese," said the cup.
+
+"What does she want?"
+
+The cup thought about it. There was a long silence. It was the kind of silence in which, if you were a cup, you could hear all the soup in the world.
+
+"She wants to be *met,*" said the cup.
+
+The house went quiet. The fire settled in the grate. Out in the garden the wind lifted, and in the long grass by the gate, a very large white bird turned its head toward the lit window, as if it had heard something. Tobias lay in the blankets, shivering and warm, and in the half-light he saw for the first time how many small, kind, tireless things there were in the house that had been looking after him: the cups, the kettle, the old clock that ticked in the hall, the stairs that did not creak when she came down in the night. Every one of them was a small piece of Catarina.
+
+That was when the door burst open.
+
+"*Gaston!*" cried a voice. "We have come for the originals!"
+
+"Which Gaston?"
+
+"*Both* Gaston!"
+
+It was the two henchmen, in their dark coats, with a torch and a bag, and the air of villains in a story that had begun without them. They stopped dead in the doorway. They had expected a sleeping writer. They found instead a typewriter at attention, two furious candlesticks, a grandfather clock with its pendulum drawn like a sword and a kettle, whistling, at the full boil.
+
+"*Allons-y!*" cried the clock.
+
+What followed was brief and extremely hot. The kettle, with great dignity, poured. The candlesticks swung. Monsieur Olivetti, on the desk, fired a single carriage return with a noise like a shot, and the Gastons left through the window at a speed that suggested they had been expecting this, in a manner of speaking, all their lives. They fell into the lake. The pelican, on the Germans' sun lounger, opened one eye, shut it again, and went on sleeping, in the way of one who has seen it all and can hardly be asked to act on every bit of it.
+
+"Well done, everyone," said the kettle, panting. "Back to your places. He'll be waking."
+
+In the morning the fever had broken. The sun lay in pale squares on the quilt, and the study was perfectly tidy, and on the desk the Olivetti stood in its usual place with a sheet of paper in the roller. It was blank, apart from one line, in the neat, ungrammatical capitals he would have known anywhere.
+
+*THE SOUP IS HOT. (NOT IS THE SOUP.) I AM HAPPY YOU ARE BETTER.*
+
+Catarina came in with the tray. On it, steaming, was a mug of tea made properly for the first time: the pot warmed, the leaves left to stand, the milk in last, exactly as Margaret would have done. It was in the cup with the chip.
+
+He took it, and held it in both hands, and looked at it for a long moment.
+
+"It's a very good cup," said Catarina, a little shyly.
+
+"Yes," said Tobias. "I think it has opinions."
+
+She laughed, and sat on the edge of the bed, and for a while neither of them said anything at all. Outside, in the long grass, the clock in the hall struck eight. On the desk the Olivetti, who has never been a talker, stayed discreetly silent, and if one of its keys had a glimmer of smug about it, no one noticed but the cup.
+
+### Chapter 22: The Long Way to Aix
+
+Inês's notebook ended with an address in Aix-en-Provence: *Maître Étienne Barbier, Notaire, 14 rue Gaston de Saporta, 17h00.* Beneath it, underlined twice: *the originals.*
 
 "The originals of what?" said Tobias.
 
@@ -1043,7 +1135,7 @@ Catarina picked it up. Tobias took it from her very gently and snapped it in two
 
 "No," said Catarina. "He is a man who has never once been in a boat."
 
-### Chapter 22: The Man from Rome
+### Chapter 23: The Man from Rome
 
 He arrived at the lake house at eight o'clock that evening, on foot, in the rain, with an umbrella held at the precise angle of a bayonet.
 
@@ -1119,13 +1211,14 @@ Inspector Mara Quill, summoned by a worried Tobias, arrived within the hour and 
 
 "None whatever, Inspector. I have no jurisdiction anywhere, except a very small country with a lovely garden." He met her eye without a flicker. "I wish only to ask where a book is. If it is found, I wish to carry it home. I do not wish to arrest anybody. I am not able. I could hit them with the umbrella, but I believe this would be irregular."
 
-"It's a very firm umbrella," said Tobias.
-
-"It is more than an umbrella." Brunner turned the handle, and a small blade slid out of it, followed by a corkscrew, a pair of tweezers, a toothpick, a tiny saw, a torch, a signal flare, a fondue fork, a spirit level, a bottle opener, a magnifying glass, a cuckoo clock and, finally, to the astonishment of everyone present, a small cheerful flag of the Swiss Confederation, which flew up the length of the ribs and flapped. "It was a gift from my mother. She is very practical. I have been told it is not normal for an umbrella to have a cheese grater." He looked at it with deep tenderness. "But what is normal, after all, in the service of God?"
 
 "You'd be surprised how irregular I can be," said Mara, with a trace of respect.
 
 "I have been told," said Brunner, "that the English are very good at it."
+
+"It's a very firm umbrella," said Tobias.
+
+"It is more than an umbrella." Brunner turned the handle, and a small blade slid out of it, followed by a corkscrew, a pair of tweezers, a toothpick, a tiny saw, a torch, a signal flare, a fondue fork, a spirit level, a bottle opener, a magnifying glass, a cuckoo clock and, finally, to the astonishment of everyone present, a small cheerful flag of the Swiss Confederation, which flew up the length of the ribs and flapped. "It was a gift from my mother. She is very practical. I have been told it is not normal for an umbrella to have a cheese grater." He looked at it with deep tenderness. "But what is normal, after all, in the service of God?"
 
 It was Catarina who found the missing piece. She had been turning the old calendar over in her hands, the one they had picked up in the notary's wrecked office, the one with the spidery note. *Marchetti originals, safe deposit, Banque Verrane. Key with M. Fournier.*
 
@@ -1141,7 +1234,7 @@ It was Catarina who found the missing piece. She had been turning the old calend
 
 "I am Swiss," said Brunner, with a small, weary, dignified smile. "I have spent my whole life being mocked by the French. It is how they show affection."
 
-### Chapter 23: Home Alone, Mostly
+### Chapter 24: Home Alone, Mostly
 
 Hugo Pemberton-Hayes was nine, and large for his age in the head.
 
@@ -1231,7 +1324,7 @@ The Gastons were arrested at midnight by an Inspector in her dressing gown. They
 
 (This was, as it proved, not the case. The Gastons were out on bail by Sunday lunchtime, released by a magistrate who was on his way to a restaurant and signed the form without looking up.)
 
-### Chapter 24: The Trap
+### Chapter 25: The Trap
 
 Hale came back on a Sunday night, uninvited, with his headlights off.
 
@@ -1269,7 +1362,7 @@ She stood up in the rocking boat, took the notebook from her blouse, and held it
 
 And from the far shore, a light answered.
 
-### Chapter 25: The Far Shore
+### Chapter 26: The Far Shore
 
 Inês Vidal had been living in the boathouse on the other side of the lake since March.
 
@@ -1278,6 +1371,14 @@ She came out onto the dock, thinner than in the photograph, with a lantern in on
 "I rang her three days ago," Inês called over the water, in careful English. "Your sister told me you were coming. I did not trust the police until I met this one."
 
 "I did say," said Mara drily, reaching the dock, "that quiet people listen."
+
+"How did you know where to come?" said Tobias.
+
+"Honestly? A border collie stopped my car at the crossroads. She barked three times, looked me in the eye, and ran ahead of me for six kilometres. I'm told this is not normal."
+
+"Gigi," said Inês, without looking round. At her heel, on the dock, a black-and-white dog sat with a smug expression and a stick. "She is clever. She does not like the English, but she makes exceptions for the police."
+
+Gigi gave the Inspector a small, dignified nod, as one professional to another.
 
 "Quiet people also read the accounts," said Inês. She lowered the shotgun and looked Tobias up and down, the way one inspects a delivery that is smaller than ordered. "You are the writer. I have read your book. Both of them. The second one is better, but that is not saying much."
 
@@ -1293,7 +1394,17 @@ She came out onto the dock, thinner than in the photograph, with a lantern in on
 
 "I know what it was," said Inês. "I was being kind."
 
-Hale did not run. He stood at the end of his own jetty in his beautiful coat and watched the boat come in, and the constables walk toward him, and the tape recorder pass from Tobias's hands to Mara's.
+Hale ran. He got as far as the lane, where a large, grey, muscular kangaroo that had been sitting quietly by the gate got slowly to his feet, considered him with the courtesy of a boxer weighing an opponent, and knocked him flat with a single, well-aimed kick.
+
+"Skippy," said Madame Fournier, appearing from the hedge with her secateurs. "He escaped from the zoo in Montpellier, the same night as the pelican. He lives in my orchard. He does not like men in expensive coats."
+
+"I... what..." said Hale, from the gravel.
+
+"He also does not like Porsches," said Madame Fournier. "He has been watching yours for weeks."
+
+Skippy gave a small, satisfied cluck, and hopped to the side of the road to resume his post.
+
+Afterwards Hale was carried back by two constables, and stood at the end of his own jetty in his beautiful coat and watched the boat come in, and the constables walk toward him, and the tape recorder pass from Tobias's hands to Mara's.
 
 "It was only paper," he said, almost to himself. "Contracts. Receipts. A few silly pages in the water."
 
@@ -1311,7 +1422,7 @@ She said it again in English, slowly, so that everyone could hear.
 
 ## Part Five: The Last Page
 
-### Chapter 26: The Opera at Aix
+### Chapter 27: The Opera at Aix
 
 With Hale in a cell and singing like a canary, the French police had everything they needed on Vial except Vial.
 
@@ -1379,6 +1490,14 @@ Vincent, white with horror, dropped the carnations and ran. He ran up the aisle,
 
 "*Mamma mia,*" said a voice from inside it.
 
+Vincent Sorel climbed out of the bin with a banana skin on his head and a wild gleam in his eye. At the kerb stood a tall white Camargue mare with the mounted police, bored, saddled, and patiently chewing. He had always dreamed of this moment. He vaulted into the saddle, dug in his heels, and shouted, in a great operatic voice: "*Avanti!*"
+
+The mare, whose name was Furie and who had never in nine years of service been impressed by crime, turned her head slowly, looked at him with enormous disdain, and took him at a stately walk, with perfect punctuality, straight back up the steps, over the calissons, and through the front doors of the theatre, where she stopped at the feet of Inspector Quill, lowered her head, and deposited him on the floor.
+
+"Thank you, Furie," said Mara.
+
+The mare nodded, and returned to her post.
+
 By the time Mara had reached him and inspected the situation, the Cardinal had vanished from his seat. So had Armand Vial. The briefcase was gone. In its place, on the velvet cushion of the second row, lay a single sheet of paper in a neat hand. It read: *I wished to be forgiven. Perhaps another time. A.V.*
 
 "The yacht," said Brunner, arriving at the top of the steps with the umbrella still open, a little bent, and the faintest glimmer of triumph on his stern Swiss face. "He will go to the yacht."
@@ -1397,7 +1516,7 @@ The *Pénélope* was found three days later, drifting off Portugal, with the eng
 
 At the opera, it should be said, the performance of the Sicilian peasants ran to its end. Nigel Pemberton-Hayes, who had sung through the entire disturbance without once breaking character, took his bow to a standing ovation, and the critic of *Le Provençal* wrote that he had "never seen a peasant so convincingly terrified."
 
-### Chapter 27: The Germans
+### Chapter 28: The Germans
 
 After the scandal, Madame Odile Fournier decided to sell the lake house.
 
@@ -1483,7 +1602,7 @@ The next morning, a note appeared on the garden gate in beautifully upright hand
 
 By noon the pelican was sitting on it. The *À VENDRE* sign, which nobody ever stood back up, lay in the long grass by the gate with a single enormous footprint in the middle of it, like a signature.
 
-### Chapter 28: Drip
+### Chapter 29: Drip
 
 The storm came on the night after the Germans left, as if it had been waiting politely in the next valley for them to finish.
 
@@ -1553,7 +1672,7 @@ She picked one olive and held it out on her palm. A single drop ran off the end 
 
 *Plink.*
 
-### Chapter 29: The Roofers
+### Chapter 30: The Roofers
 
 The roofers arrived on Thursday, in a white van with a Polish number plate and a sticker on the back window that said, in English, *WE FIX THINGS. WE DO NOT TALK ABOUT IT.*
 
@@ -1623,7 +1742,7 @@ Tomasz leaned out of the van window and gave her a wide, wet, delighted smile.
 
 "It means," he said, "that he likes tea very much."
 
-### Chapter 30: Spring
+### Chapter 31: Spring
 
 The trial was held in March, one year to the day after Elise Marchetti died, in the Palais de Justice at Aix-en-Provence: a handsome, pale, pillared building facing a square of plane trees, where on Tuesdays a market sold lavender, sausage and tragic cheese. Tobias had been in Aix twice by then. He found that the town looked very different when it was trying to put a man in prison.
 
@@ -1655,9 +1774,11 @@ Fernanda was the eldest. She had driven eleven hours from Porto in a van that sa
 
 "I'm perfectly..."
 
-"I FEED YOU," Fernanda repeated, with the finality of a judge, and opened the cool-box.
+"I FEED YOU," Fernanda repeated, with the finality of a judge, and opened the cool-box. Inside, under a tea towel, lay a roast chicken, a dish of rice, two custard tarts and a bottle of something without a label.
 
-"Resistance is useless," Inês murmured behind him, in English, for his benefit alone. "I tried for thirty-four years. The only winning move is to be hungry." She helped herself to a custard tart. "Welcome to the family. It is a hostage situation, but the food is good." Inside, under a tea towel, lay a roast chicken, a dish of rice, two custard tarts and a bottle of something without a label. "Eat. Then we discuss the wedding."
+"Eat. Then we discuss the wedding."
+
+"Resistance is useless," Inês murmured behind him, in English, for his benefit alone. "I tried for thirty-four years. The only winning move is to be hungry." She helped herself to a custard tart. "Welcome to the family. It is a hostage situation, but the food is good."
 
 "We haven't discussed a wedding," said Tobias.
 
@@ -1717,7 +1838,7 @@ Neither of them chased it. It was only paper.
 
 ---
 
-### Chapter 31: Margaret and Derek
+### Chapter 32: Margaret and Derek
 
 Tobias's parents arrived the morning after the verdict, unannounced, in a hired Vauxhall Corsa, with a suitcase, a Tupperware of flapjacks, and the expression of two people who have been on a plane for the first time since 1998.
 
@@ -1803,7 +1924,7 @@ By evening they were in the kitchen together, Margaret and Catarina, shoulder to
 
 It was, Tobias reflected, the longest speech his father had made since the christening.
 
-### Chapter 32: The Night Train
+### Chapter 33: The Night Train
 
 Fernanda had decreed that they would go to Portugal by train.
 
@@ -1908,6 +2029,12 @@ Tobias looked. Catarina looked. Inês, without turning her head, took a sip of w
 "Armando," said Fernanda proudly, appearing with a stack of plates. "My husband's cousin. We found him on the beach in September, in a *blazer,* with the water in his shoes. He remembers nothing. Not his name, not his mother, not the year. I said, *this is Armando, the cousin who owes me money,* and he said, *oh, I am so sorry, Fernanda,* and he has been scrubbing my pots ever since."
 
 "He believes," said Mara slowly, "that he is your husband's cousin."
+
+"He believes it very firmly."
+
+"Mrs Vidal, that man fell off a yacht in Marseille. That is a thousand miles of sea."
+
+"A dolphin brought him," said Fernanda, as one remarking on the post. "He was in the surf at Afurada at six in the morning, with this gentleman across his back. They were having a conversation. The dolphin was very pleased with himself." She shrugged. "In this town we do not ask questions of a dolphin."
 
 "He is a very good dishwasher." Fernanda lowered her voice. "He has never been so happy. Last week he cried at a sardine."
 
