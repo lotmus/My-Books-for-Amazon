@@ -6,6 +6,48 @@
 
 ---
 
+## Prologue: Leeds, a Tuesday
+
+Tobias Lind came home early from the Hull book fair, where he had sold four copies of his last novel, three of them to the same man, who had wanted to complain about the ending.
+
+The house was quiet. The hall light was off. There was a man's jacket on the banister, a brown tweed one, much better than anything Tobias owned, and on the table by the door sat a bottle of wine he had been saving for their anniversary, already open.
+
+He stood in the hall for a while, holding his overnight bag, and listened to the house tell him things.
+
+Then he went upstairs, because it was his house, and found his fiancée, Camilla, in his bed, with a man he recognised as Gerald from the golf club.
+
+Nobody spoke. Gerald pulled the duvet up to his chin with the dignity of a man who has made a decision he will have time to regret. Camilla sat up. She had the expression of someone who has been interrupted during a documentary.
+
+"Tobias," she said. "You're early."
+
+"Yes," said Tobias. "The fair was very quiet."
+
+"We were going to tell you."
+
+"Were you." He looked at Gerald. "Is that my duvet?"
+
+"It's, ah," said Gerald. "It's a good duvet."
+
+"It was a gift from my mother."
+
+There was a long silence, in which a cuckoo clock downstairs chose, with great tact, not to strike.
+
+"I think," Tobias said at last, "that I'll go and get some air."
+
+"You've only just got here," said Camilla.
+
+"I know. It's been very educational."
+
+He went downstairs, put the wine back in the fridge out of habit, took it out again out of dignity, and drank two thirds of it standing at the kitchen sink. Then he found the folder marked ELISE, which he had been avoiding for six months, and a map of the south of France, and a postcard of a lake that his late friend had once sent him with the words *You should see this place. It lies beautifully.*
+
+That was the end of that.
+
+He wrote Camilla a note in the hall. It said *Gone to France. Keep the duvet.* He considered adding something about love and betrayal, then decided that it was not the sort of note a person could improve with adjectives.
+
+By nightfall he was on the ferry. By the next evening he had hired the worst car in Provence. It is possible, looking back, that a more settled man would not have done any of it.
+
+---
+
 ## Part One: The Pages
 
 ### Chapter 1: The Jetty
