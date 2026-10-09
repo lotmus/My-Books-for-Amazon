@@ -2154,6 +2154,40 @@ In the garden, in the dark, a pelican shifted his weight and turned his head ver
 
 It was spring. Tobias, who by now had experienced the season, the mattress and the metaphor in a single year, felt on the whole that he preferred the season.
 
+The summons had arrived in January, on pale lilac paper, in an envelope with no stamp and no sender. It said that Monsieur Tobias Lind was required to attend the Palais de Justice at Aix-en-Provence, Room 14, on the first Monday of March, at nine o'clock. It did not say why.
+
+He rang the number at the bottom. A woman answered, said "It is being clarified," and put the phone down.
+
+He rang again. A man answered, said "It is being clarified," and put the phone down.
+
+He rang a third time and got a recorded message, in a pleasant voice, saying, "Your call is important to us. The matter is being clarified. Please hold." He held for forty minutes. A violin played. At the end, it said, "Thank you for waiting," and put the phone down.
+
+"What have I done?" he asked Catarina.
+
+"Perhaps something," said Catarina, who had been brought up Catholic and believed in being charged first. "You will find out."
+
+He found out nothing. In Room 14, at nine, he was shown to a bench by an usher who would not meet his eye, and sat for three hours among a number of silent, well-dressed strangers, each of whom appeared to be waiting for a verdict on something. At noon a clerk read a name from a list and nobody got up. At one the clerk read it again. At two, he read it a third time, and Tobias, who had never, in his whole life, been able to sit quietly while a name was read, put up his hand.
+
+"Lind," said the clerk. "Tobias."
+
+"Yes?"
+
+"It is not you."
+
+"It's, I'm sorry. It's my name."
+
+"It is a different Tobias Lind." The clerk consulted a document, which turned out on closer inspection to be the menu of a restaurant. "It is Tobias Lindt. With a *t.* He is a chocolatier from Zurich. He is accused of being too good at chocolate."
+
+"That's not a crime."
+
+"It is in the Canton of Vaud," said the clerk, with great weariness. "It is a very old law. You may go. Your case, in any event, has been withdrawn."
+
+"What case?"
+
+"You were not told?" The clerk looked genuinely distressed. "I am so sorry. You were never accused of anything. It was a clerical error. The paper was sent in the wrong envelope. The envelope was sent in the wrong post. The post was sent to you on the wrong year." He drew himself up. "It has been *clarified.*"
+
+Tobias left the Palais de Justice at half past two, blinking in the light. At the foot of the steps a small, tearful man in an apron pressed a large, beautifully wrapped box into his arms, and said, "Thank you, thank you, I'll never forget you," and ran away into the plane trees. It contained thirty-six hand-made truffles. They were the best Tobias had ever tasted. He never found out why.
+
 The trial was held in March, one year to the day after Elise Marchetti died, in the Palais de Justice at Aix-en-Provence: a handsome, pale, pillared building facing a square of plane trees, where on Tuesdays a market sold lavender, sausage and tragic cheese. Tobias had been in Aix twice by then. He found that the town looked very different when it was trying to put a man in prison.
 
 Hale, who turned out to be a better witness than a villain, gave up the name by the second week: Armand Vial, chairman of the Vial-Sorel Group of Marseille, who had been using the Verrane Award, and a dozen other prizes and foundations like it, to wash money through the entry fees of people who only wanted to be read. Hale's silver Porsche, it emerged, had been leased in his name and never paid for; he had been dreaming about it for forty years and owned it for eleven days. Vial himself was not at Marseille airport. Vial had vanished the night before the warrant, aboard his yacht, the *Pénélope*, which was found three days later drifting off the Portuguese coast with the engine running, the champagne open and nobody on board. The French police announced that he was missing, presumed drowned. Inspector Quill announced nothing, but crossed the word *drowned* out of her notebook and wrote *DOUBT* beside it.
