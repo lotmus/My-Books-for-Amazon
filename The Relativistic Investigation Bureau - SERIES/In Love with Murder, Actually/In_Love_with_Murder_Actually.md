@@ -2150,7 +2150,87 @@ She went away again, over the wall, with her secateurs.
 
 In the garden, in the dark, a pelican shifted his weight and turned his head very slightly toward the study window, as if he had been waiting nine months for somebody to ask.
 
-### Chapter 35: Spring
+### Chapter 35: The Witness for the Prosecution
+
+On the ninth day of the trial, a pelican walked into Room 3.
+
+Nobody stopped him. The usher said afterwards that there was no regulation. The doors had been propped open for the heat, and the bird came in on his enormous flat feet, down the centre aisle, past the gallery, past the Gastons' empty bench and the reporters, and past the clerk, who had looked up from his typewriter and decided not to see it. He did not hurry. He had the air of a witness arriving late to his own testimony.
+
+"Lucien," whispered Tobias.
+
+"I did not bring him," whispered Catarina, with her hand over her eyes. "I swear on my mother. He followed the train."
+
+The Judge, the large, tired, red-faced Judge, lowered his spectacles.
+
+"Is that," he said, "a *pelican?*"
+
+"It is, Monsieur le Président," said the Prosecutor, rising with the stunned calm of a man who has been waiting his whole career for something unusual to happen. "It would appear to be a bird."
+
+It was a difficult morning for the defence. Maître Edouard Delacroix-Roux, for Mr Victor Hale, had spent nine days in court dismantling the case with a long, patient charm, in his charcoal suit and his claret silk tie. He had cast doubt on the tape ("an old cassette, in an old kitchen, played over an old radio, to the strains of Piaf"). He had cast doubt on the notebook ("the scribblings of a missing woman who did not present herself"). He had suggested, in a hurt and reasonable voice, that the whole sorry business had been the invention of an unstable crime writer who could not tell fact from his own plots. He had done it well. A visible tide of doubt had begun to move across the jury.
+
+"Monsieur le Président," he said now, with a faint, indulgent smile, "I must object to this *circus.* The defence is perfectly happy to pause while the animal is removed."
+
+The pelican stopped at the centre of the room. He turned his head, slowly, left, then right, taking in the high ceiling, the portrait of Marianne, the rows of faces. He looked at the Judge. He looked at the Prosecutor. He looked at Hale, in the dock, who lowered his eyes.
+
+And then he looked at Maître Delacroix-Roux.
+
+He did not do anything for a moment. He simply stood, on one leg, in the centre of Room 3, with his great beak on his chest, and looked at the tie.
+
+It was a very good tie. It was silk, the colour of old claret, tied in a Windsor knot of impeccable precision. A little ripple went through the pelican's feathers, as of a memory travelling a long way.
+
+"Monsieur le Président," said Maître Delacroix-Roux, "I really must..."
+
+The pelican screamed.
+
+It was not a sound that anyone in the room had heard a pelican make, since pelicans are, as a rule, silent birds. It was a long, hoarse, furious, ancient cry, with all of March in it, and it filled the courtroom to the rafters. The bird spread his wings. They went out to either side like the sails of a ship. He flapped once, twice, and rose from the floor with a roar of air and a whirl of paper, and came down on the table of the defence with all the weight of his eleven kilograms.
+
+"*Aaah!* Get it off! Get it OFF!"
+
+"Order!" cried the Judge.
+
+"It's attacking the tie!"
+
+It was. The pelican had the claret silk in his beak and was shaking it with passionate, methodical rage, with the lawyer attached. Papers flew. A water carafe went over. Maître Delacroix-Roux, a man who had not raised his voice since 1996, was now backing round the table, slapping at the bird with a file, with the dignity of a drowning bishop.
+
+"I didn't touch you!" he shrieked. "I only put out a hand! She was *going* to the press! She was going to *ruin* us!"
+
+The room went completely silent.
+
+The pelican released the tie. He settled his wings, folded them with a faint rustle, and sat down, quite calmly, on the defence table, among the scattered papers, with the expression of a bird who has made his point and does not intend to be asked twice.
+
+Maître Delacroix-Roux stood there, with his tie in ribbons and his hair on end, looking at the faces. His mouth opened. He closed it.
+
+"Counsel," said the Judge, very gently. "Are you confessing?"
+
+"I am being attacked by a bird!"
+
+"That," said the Judge, "is not an answer."
+
+"She slipped," said Maître Delacroix-Roux, faintly. "She only... on the jetty. I put out a hand. It was a *very small push.*"
+
+"And Pascal Aubry?" said the Prosecutor, quite quietly.
+
+"A loose bolt. A hotel balcony. A maintenance matter. It was only a very, very loose bolt." The lawyer put a hand to his forehead. "And Giraud's brakes... a small adjustment, a trifle... I have never been so *insulted* by an animal in my life."
+
+Inspector Quill, in the second row, rose and walked down the aisle, taking from her handbag a pair of handcuffs and a small cough lozenge. Beside her came Captain Brunner, six foot four, with the umbrella furled across his arm like a ceremonial sword, and an expression of enormous Swiss satisfaction.
+
+"Maître Edouard Delacroix-Roux," said Mara. "I am arresting you for the murders of Pascal Aubry, Maître Giraud and Elise Marchetti."
+
+"He was in a claret tie that night," said Hale, from the dock, in a low, shaking voice, to nobody. "I told them. I told them I only called her down. I didn't know he'd be on the jetty. I thought he'd just *talk* to her. I thought it would all be so *civilised.*"
+
+"It generally is," said Inspector Quill, "until it isn't."
+
+The pelican, on the table, shifted his weight and gave a single satisfied clack of his beak. The Judge, with the grave courtesy of a man in the presence of an authority, bowed his head.
+
+"Let the record show," said the Judge, "that the witness for the prosecution has identified the accused."
+
+"He doesn't speak, Monsieur le Président," said the Prosecutor.
+
+"He has said," said the Judge, "quite enough."
+
+Outside, in the corridor, Inês Vidal was waiting with a notebook and a custard tart. She watched Maître Delacroix-Roux go by in handcuffs, with a pelican's feather stuck behind one ear. She waited until he had passed, and then, with the placid satisfaction of a bookkeeper at the close of the financial year, she drew a single line under the last column on her list, and wrote in her careful hand: *Balanced.*
+
+### Chapter 36: Spring
 
 It was spring. Tobias, who by now had experienced the season, the mattress and the metaphor in a single year, felt on the whole that he preferred the season.
 
@@ -2200,7 +2280,7 @@ The two Gastons were sentenced to eighteen months each, to be served concurrentl
 
 In Rome, three weeks later, Captain Brunner stood in the private office of the Holy Father's secretary, presenting his report on the Codex. In the middle of the report he raised his umbrella, as one raises a pointer, and said, "Allow me to demonstrate the firmness of the item," and opened it. A long, brown, entirely unhurried grass snake dropped from the folds and landed on the secretary's desk, where it looked about at the frescoes with the polite expression of a lodger who has been there longer than the landlord. It was the first anyone had seen of it since the fifth of October. The secretary, who had served under three popes, said nothing. The snake went home to Provence by registered post. The time machine, for the record, was not used. It remains in the basement, between the boiler and the gift shop stockroom, switched off, with a small sign on it in Brunner's handwriting that reads: *TUESDAYS ONLY. PLEASE DO NOT.*
 
-Hale was convicted on every count: murder, theft of the Marchetti estate, and fraud against 11,400 hopeful writers, each of whom had paid £60 to be told they had not won. The judge remarked that it was the first time the Verrane Award had ever delivered what it promised, which was a disappointment for everybody. Tobias gave evidence for two hours. Catarina gave hers for four, in English that was still careful but no longer broken, with her sister beside her, and when the judge thanked her for her courage she answered in a clear voice, "I only read the pages."
+Maître Edouard Delacroix-Roux was convicted of the murders of Pascal Aubry, Maître Giraud and Elise Marchetti, the first on the strength of a loose bolt, the second a trifling adjustment to a set of brakes, and the third on the testimony of a pelican. Hale, who had never touched anyone, was convicted of theft of the Marchetti estate, as an accessory to murder, and of fraud against 11,400 hopeful writers, each of whom had paid £60 to be told they had not won. The judge remarked that it was the first time the Verrane Award had ever delivered what it promised, which was a disappointment for everybody. Tobias gave evidence for two hours. Catarina gave hers for four, in English that was still careful but no longer broken, with her sister beside her, and when the judge thanked her for her courage she answered in a clear voice, "I only read the pages."
 
 Afterwards, on the courthouse steps, Tobias met the third Vidal sister.
 
@@ -2288,7 +2368,7 @@ Neither of them chased it. It was only paper.
 
 ---
 
-### Chapter 36: Margaret and Derek
+### Chapter 37: Margaret and Derek
 
 Tobias's parents arrived the morning after the verdict, unannounced, in a hired Vauxhall Corsa, with a suitcase, a Tupperware of flapjacks, and the expression of two people who have been on a plane for the first time since 1998.
 
@@ -2374,7 +2454,7 @@ By evening they were in the kitchen together, Margaret and Catarina, shoulder to
 
 It was, Tobias reflected, the longest speech his father had made since the christening.
 
-### Chapter 37: The Night Train
+### Chapter 38: The Night Train
 
 Fernanda had decreed that they would go to Portugal by train.
 
