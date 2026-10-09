@@ -1742,7 +1742,109 @@ Tomasz leaned out of the van window and gave her a wide, wet, delighted smile.
 
 "It means," he said, "that he likes tea very much."
 
-### Chapter 31: Spring
+### Chapter 31: The Witness Is Nine
+
+The trial of the two Gastons began on a Monday, in a small wood-panelled courtroom in Aix-en-Provence with a high ceiling, a creaking floor and a portrait of Marianne that seemed to disapprove of everyone.
+
+They were charged with breaking and entering, attempted burglary, unlawful use of a swan and, at the particular insistence of the Prosecutor, "wilful ignorance of the ways of a child." The Gastons sat in the dock in matching suits, which did not fit, with the haunted expression of two men who suspect that everything about them is about to be explained.
+
+Their lawyer was Maître Edouard Delacroix-Roux, in a charcoal suit and a claret tie, with teeth like a row of expensive tombstones. He rose to his feet, smiling, and addressed the court in the smooth honeyed voice of a man who has never lost to anyone under the age of forty.
+
+"Monsieur le Président. My clients are the victims of a most extraordinary series of misunderstandings. I intend to call the prosecution's only witness, who is, I understand, a *child.*"
+
+"I'm nine," said Hugo Pemberton-Hayes, from the witness box, in a white shirt, with his hair brushed flat and a library book under one arm. "Nine and three-quarters."
+
+"Quite." Maître Delacroix-Roux inclined his head with a gracious smile. "Hugo. May I call you Hugo?"
+
+"You may call me Mr Pemberton-Hayes."
+
+There was a pause. In the gallery, Priscilla put a hand over her mouth. Beside her, Nigel, who was in the costume of the back half of a horse, having come directly from rehearsal, said, "That's my boy," in an unfortunate whisper that was heard by the whole room.
+
+"Mr Pemberton-Hayes," said the lawyer. "It is your testimony that on the evening in question, you were alone in a house with two grown men."
+
+"It is."
+
+"And you were not frightened."
+
+"I was not."
+
+"A child of nine," said Maître Delacroix-Roux, turning to the jury with open hands, "alone in a dark house. Two men at the door. And you, Mr Pemberton-Hayes, were not frightened. Is it not far more likely that you *invented* this entire tale? That you are, forgive me, a boy with a vivid imagination?"
+
+"Objection," said Hugo.
+
+"You cannot object. You are the witness."
+
+"Then I'd like to put it on the record." Hugo opened the library book, which turned out to be a copy of the Code of Criminal Procedure, with an index finger already holding the page. "Article 331. A witness who has been called a liar by counsel is entitled to say why he is not one. Do I have the court's permission?"
+
+The Judge, a large, tired, red-faced man who had presided over eleven hundred trials without once being surprised, put down his pen.
+
+"Granted," he said faintly.
+
+For the next twenty minutes, Hugo Pemberton-Hayes took Maître Delacroix-Roux to pieces.
+
+He did it with great politeness. He pointed out that his earlier statement on the marbles had been entered in the record as "ball bearings," which was a different weight class. He corrected the lawyer's spelling of "pedalo" in the evidence list. He explained, with diagrams on the judge's own notepad, the physics of a paint pot on a pulley, the coefficient of friction of olive oil on waxed oak, and why it is a poor idea to leave a hot iron tied to a door if one wishes to remain anonymous. He identified the first Gaston as "the one who shouts" and the second as "the one who falls," and both Gastons, in the dock, nodded.
+
+"Finally," said Hugo, "I would like to say that I did not use the typewriter. Mr Lind said he would rather lose a kidney. I respected this."
+
+"I have no further questions," whispered Maître Delacroix-Roux, who was grey.
+
+"I have one," said the Judge, leaning forward. "Mr Pemberton-Hayes. How old did you say you were?"
+
+"Nine and three-quarters."
+
+"And what, if I may ask, do you intend to do when you are older?"
+
+"Be a barrister," said Hugo. "Or a Dame."
+
+The Gastons were convicted that afternoon. The Judge, in a gesture unprecedented in the history of the Aix court, offered Hugo a seat on the bench for the sentencing, where he sat on two cushions with a gavel and gave the defendants eighteen months with great gravity. Afterwards, in the corridor, Maître Delacroix-Roux was seen sitting on a bench with his head in his hands, being offered a custard tart by a very large Portuguese woman who had been there all morning, and who had, he said later, been the only person in the building to show him any kindness.
+
+### Chapter 32: The Sorel Cousins
+
+The trial of the Sorel family began the following Monday, and it took a little time to find a room big enough.
+
+There were eleven of them. Vincent was the hot-headed one, in the white scarf. His cousin Vincenzo was the quiet one. Vince was the lawyer. Vinnie was the accountant. Enzo ran a pizza restaurant in Marseille as a front for something not quite pizza, and another cousin named Vincent, who was no relation, had come by mistake and was now unwilling to leave in case it looked bad. There were also three aunts and an uncle, who sat at the back in black, with enormous handbags, saying nothing and radiating the power of a small nation.
+
+"State your name," said the Clerk.
+
+"Vincent Sorel," said eleven voices.
+
+"One at a time."
+
+"Vincent Sorel." "Vincent." "Vince." "Vinnie." "It's Enzo, actually." "Vincent, but I'm not with them."
+
+The Judge, who had been in the room for six minutes and already regretted it, rubbed his eyes. "Let the record show that there are, ah, a number of Vincents."
+
+The charges were read. Attempted murder of a cardinal, discharge of a firearm in a theatre, damage to a tuba and the unlawful use of a municipal bin. Vincent, in the dock, listened with the proud, tragic expression of a man who believes his sufferings to be operatic.
+
+"I wish," he said, rising, "to make a statement."
+
+"You may not," said the Judge.
+
+"It is a matter of *honour.*"
+
+"It is a matter of a tuba."
+
+"My uncle," said Vincent, in a ringing voice, ignoring him, "has betrayed the family. He went to the Church. He wanted a hen. A *hen!* Is this the man who built the port of Marseille? Is this the man who taught me the family trade?" His voice broke. "He said to me once, *Vincent, if I ever go soft, you must put me out of my misery.* And I said, *Zio, I will.* And I did. I mean, I tried."
+
+"You hit the tuba."
+
+"I was aiming at the Cardinal's hat."
+
+"You hit the tuba, Mr Sorel."
+
+"The tuba," said Vincent, with an airy wave, "was in the way."
+
+At this point the three aunts rose. They moved with the slow inevitability of continental drift, and they surrounded the dock, and the oldest, a tiny woman in black with a face like a walnut, took Vincent by the ear. She spoke to him in a rapid rolling Sicilian that sounded like a thunderstorm in a drawer. It lasted four minutes. The Judge did not interrupt. Neither did the Prosecutor. At the end of it Vincent was weeping, with his chin on his chest.
+
+"She says," translated Vince the lawyer, in a small voice, "that she brought him up better than this. And that the next time he fires a gun in a theatre, she will tell his mother."
+
+"His mother," said the Judge, "is not present."
+
+"She's in the car park," said Vince. "She's been in the car park since nine."
+
+The Sorel cousins were sentenced to community service in the parks department of the city of Aix, where they spent eighteen months weeding the Cours Mirabeau, and where they became, to the astonishment of the council, the best gardeners the city ever employed. Vincent, in particular, developed a gift for roses. He wrote to his uncle Armand every Sunday. He asked about the hen.
+
+### Chapter 33: Spring
 
 The trial was held in March, one year to the day after Elise Marchetti died, in the Palais de Justice at Aix-en-Provence: a handsome, pale, pillared building facing a square of plane trees, where on Tuesdays a market sold lavender, sausage and tragic cheese. Tobias had been in Aix twice by then. He found that the town looked very different when it was trying to put a man in prison.
 
@@ -1838,7 +1940,7 @@ Neither of them chased it. It was only paper.
 
 ---
 
-### Chapter 32: Margaret and Derek
+### Chapter 34: Margaret and Derek
 
 Tobias's parents arrived the morning after the verdict, unannounced, in a hired Vauxhall Corsa, with a suitcase, a Tupperware of flapjacks, and the expression of two people who have been on a plane for the first time since 1998.
 
@@ -1924,7 +2026,7 @@ By evening they were in the kitchen together, Margaret and Catarina, shoulder to
 
 It was, Tobias reflected, the longest speech his father had made since the christening.
 
-### Chapter 33: The Night Train
+### Chapter 35: The Night Train
 
 Fernanda had decreed that they would go to Portugal by train.
 
@@ -2123,3 +2225,65 @@ So Armand Vial, once the most feared man in Marseille, went into the cells of th
 Out on the quay, the pelican, who had followed them all the way from France by means that nobody has ever explained, lifted one enormous foot, set it down on the cobbles, and went on watching the sea.
 
 *The End*
+
+---
+
+## Second Epilogue: The Offspring
+
+They had three children. This was not planned, but then very little about the Lind-Vidal household had been planned, and the children, who inherited the family talent for improvisation, did not seem to mind.
+
+The twins came first: Elise, who was serious, and Inês, who was sarcastic, and who by the age of four could reduce a visiting uncle to silence by raising one eyebrow. Then came Lucien, who was quiet, sunny, round-faced and obsessed with birds, and who spoke his first sentence at fourteen months. It was in Portuguese. It was, *Não é só papel.*
+
+"It's only paper," said Tobias, dazed with love, from the kitchen floor.
+
+"*Não,*" said Lucien, firmly.
+
+Their upbringing was conducted in three languages, none of which anyone spoke correctly. Tobias addressed them in English, with the occasional shocking Portuguese noun. Catarina replied in a tide of Portuguese and increasingly colourful English. The children spoke all of it at once, in the same sentence, a babble that could be understood by no one outside the family, and by Fernanda only when she wanted to.
+
+"Mamã," said Elise, at five, putting her head round the door, "Papá says the soup is hot."
+
+"It is hot."
+
+"No. He says *the soup is hot, not is the soup.*"
+
+"*Meu Deus,*" said Catarina, delighted. "He has taught them my sentence."
+
+They put the household through trials, as children do. They put Tobias through the Test of the Bath, the Test of the Missing Shoe, and the Great Trial of the Bedtime Story, in which Tobias, a professional author, was required to invent a new one every night, and criticised, in a clear small voice, for plot holes. Elise had inherited Hugo's index finger. By eight she was pointing out the timeline.
+
+"Papá. The murderer couldn't have been in the library at ten."
+
+"I know."
+
+"You should fix it."
+
+"I'll bear it in mind."
+
+"That's what you always say," said Elise. "I will check."
+
+Out on the lake, nature took its course.
+
+It began in the spring after the wedding, when Lucien the pelican, who had been seen to bob his enormous beak at a flamingo at the far end of the reeds, and then to bob it again with rather more emphasis, was discovered to have found something to do on the sun lounger. Scientists were consulted. Scientists said it was impossible. The pelican, as far as anyone could tell, did not read the scientists.
+
+In June there was an egg. In July there were two chicks. They were large, pale, awkward and unmistakably pink about the beak, and they stood in the shallows together, long-legged and long-billed, as if a pelican and a flamingo had agreed to compromise. Madame Fournier looked at them for a long time with her secateurs in her hand.
+
+"Pink," she said, "because of what they eat."
+
+Catarina, standing next to her, began to laugh.
+
+The farm up the lane saw some matches of its own. Furie, the white mare of the Aix police, was retired after a long and distinguished career and sent to Madame Fournier's orchard, where, to the great surprise of everybody, including the donkey, she fell in love with the donkey. A foal arrived the following spring. It was grey, long-eared, stubborn, charming, and thoroughly unclassifiable, and was named Furie Junior by Lucien the boy, who rode it, badly, up and down the lane, in a helmet that was too big.
+
+Skippy the kangaroo, for his part, made a friend of a small wallaby who had escaped from the Montpellier zoo the following summer, and they were seen together, one evening, hopping side by side in the long grass, in a manner that Madame Fournier described as "the exact walk of Lucien and me in 1974." Their joey, when it arrived, was tiny, ginger, extremely determined, and had its father's way of looking at Englishmen in expensive coats.
+
+"The whole valley," said Inês, when she visited, "has become an experiment."
+
+"It is a beautiful experiment," said Catarina.
+
+"It is a *zoo,*" said Inês, who was watching a pink pelican-flamingo chick try to eat a custard tart. "But I admit the food is good."
+
+Tobias wrote it all down, of course. He wrote it on the Olivetti, one letter at a time, in the study with the window open, with the lake below and the children shrieking on the lawn and the smell of Catarina's soup coming up the stairs. The book was called *In Love with Murder, Actually,* and it was a rather better book than the one that had gone into the lake. It had a plot. It had comedy. It had all the characters he loved, and one or two of the animals.
+
+On the last page, because he had been taught, he left a single line.
+
+*And the pelican, who had followed them all the way from France, lifted one enormous foot, and set it down, and went on watching the sea.*
+
+*The End. Again.*
