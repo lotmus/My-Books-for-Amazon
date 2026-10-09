@@ -1038,6 +1038,76 @@ The next morning, a note appeared on the garden gate in beautifully upright hand
 
 By noon the pelican was sitting on it. The *À VENDRE* sign, which nobody ever stood back up, lay in the long grass by the gate with a single enormous footprint in the middle of it, like a signature.
 
+### Chapter 12¾: Drip
+
+The storm came on the night after the Germans left, as if it had been waiting politely in the next valley for them to finish.
+
+It began with a wind, and then a single cold drop on the study window, and then the sky simply opened, with a roar like an enormous crowd in a distant stadium. The lake went white. The pelican, who had been enjoying the sun lounger, retired to the boathouse with the dignity of a retiring judge. At ten past one a fork of lightning came down so close to the garden that every light in the house flickered, every dog in the valley began to howl, and from the back kitchen came a long, dreadful noise.
+
+It was the washing machine.
+
+It had been Madame Fournier's washing machine for nineteen years, a heavy white Brandt (no relation), and it had survived eleven winters, a flood and Tobias. It did not survive the thunderbolt. It gave a groan like a dying ox, shuddered through one last spin cycle with the door still locked, belched a thin grey cloud of smoke from its soap drawer, and died, quite visibly, with a tiny clink, its drum full of Catarina's tea towels.
+
+Catarina stood in the doorway in her dressing gown, holding a candle, and looked at the corpse.
+
+"*Morreu,*" she said. [It's dead.]
+
+"I'm sorry."
+
+"It was a good machine." She said it in the voice of a woman at a graveside. "It washed the sheets of seven tenants. It never complained. It only sang on Thursdays."
+
+"We'll buy a new one."
+
+"You do not *buy* a washing machine in the middle of the night." She turned. "You mourn. Then you buy."
+
+They mourned for approximately four minutes, by candlelight, in the smoking kitchen, until the second noise.
+
+*Plink.*
+
+They both looked at the ceiling.
+
+*Plink.*
+
+A slow, round, perfect drop was swelling on the plaster above the kitchen table. It grew, trembled, and fell. Another formed beside it. In the stairwell, something went *plonk*. In the study, something larger went *plunk.* By two in the morning the whole of the lake house had begun to drip, from a dozen unseen places, in a dozen different keys.
+
+"The roof," said Tobias.
+
+"The *roof,*" agreed Catarina, with real wonder.
+
+They did what anyone does. They ran about with saucepans. They put the big copper pot under the kitchen leak, the soup tureen on the stairs, a mixing bowl in the study, and a wine-cooler on the Olivetti, which Tobias refused to have rained on and defended like a man guarding a child. By half past two there were nine containers placed across the house, and the sound they made, together, was extraordinary.
+
+*Plink. Plunk. Plink-plonk. Pling.*
+
+They stopped, side by side, in the dark kitchen, with one candle, and listened.
+
+"It's a tune," said Tobias, in surprise.
+
+"Is a fado," said Catarina, and tilted her head, listening. "Is a very sad one."
+
+"Is it?"
+
+"Of course. Everything that drips in the night is a fado." She began to hum, softly, beneath it, in time with the pot, and then to sing, the old low rising song of the fishing villages, about a boat and a woman at a window, and the water kept time on the tureen and the bowl. Tobias stood quite still. Outside, the thunder rolled up the valley and away. He thought it was the most beautiful music he had ever heard, and he would not have exchanged it for the Berlin Philharmonic.
+
+They sat up until dawn. They did not talk. Once she put her head on his shoulder, and once his arm found its way, quite naturally, round the back of her chair, and the drips went on, a little slower, a little softer, until the pots were no longer a nuisance but a kind of clock.
+
+In the morning the world was washed clean.
+
+The sky was the colour of a pearl. The lake lay perfectly flat. The gravel steamed, the plane trees dripped, the grass shone, and every leaf in the garden stood out sharp as a cut jewel. They went out in their dressing gowns, cold-footed, with the smell of wet earth rising all round them, and walked to the bottom of the garden, past the wall, to the old terrace where Madame Fournier's husband had planted something eleven years before.
+
+It was a grove of olive trees. Twenty-two of them, silver-leaved, crooked, no taller than a man. They had never given a fruit. Madame Fournier had told Tobias so with the resignation of a woman describing a difficult in-law. They were Lucien's, she said, the last thing he planted, and they had sulked for eleven years.
+
+They were covered in olives.
+
+Hundreds of them, small and green and glossy, hanging on every branch, fat with rain, shining in the early light. Catarina walked slowly among the trees with her hands held out, touching a leaf here, a branch there, and said nothing at all.
+
+"The drought," said Tobias, finally. "It must have been the drought. They needed the water."
+
+"They needed a *sign,*" said Catarina softly.
+
+She picked one olive and held it out on her palm. A single drop ran off the end of a leaf above it and fell on it, bright as a coin.
+
+*Plink.*
+
 ### Chapter 13: Spring
 
 The trial was held in March, one year to the day after Elise Marchetti died, in the Palais de Justice at Aix-en-Provence: a handsome, pale, pillared building facing a square of plane trees, where on Tuesdays a market sold lavender, sausage and tragic cheese. Tobias had been in Aix twice by then. He found that the town looked very different when it was trying to put a man in prison.
