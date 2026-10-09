@@ -280,6 +280,20 @@ So it became their game. In the evenings they sat on the jetty with a flask and 
 
 The hoopoe, on cue, said *oop-oop-oop* from the lawn, perfectly, and looked at him with something very like pity.
 
+And there was the pelican.
+
+It arrived on the fourth evening, a large white bird the size of a small sofa, which landed on the end of the jetty with the air of a man arriving late to his own surprise party. There are no wild pelicans in the south of France. Tobias said so, aloud, to the bird.
+
+"*Pelicano,*" said Aurelia, unimpressed. "He is lost."
+
+"He's a long way from home."
+
+"Everyone here," said Aurelia, "is a long way from home."
+
+Madame Fournier, consulted over the garden wall, shrugged with the whole of her waistcoat. "He has been here since the summer. He escaped from a zoo in Montpellier. He likes the jetty, and he does not pay rent." She considered the bird. "He is the only honest tenant I have."
+
+The pelican stayed. It fished at dawn, stood about at noon looking gravely at nothing, and bobbed its enormous beak whenever Tobias went by, as if it knew exactly what he was writing and had notes.
+
 He would think about those evenings later, when he was sitting in a Marseille courtroom being asked to describe the lake. He would say that it was very quiet. That it was very beautiful. That he had not, at first, noticed anything sinister about it at all.
 
 He had been watching the birds. It had seemed more important at the time.
@@ -528,7 +542,7 @@ They stopped. Each had spoken the other's language, and neither had planned to.
 
 "*Terrible,*" said Aurelia, laughing, finally laughing, with her sister clapping on the steps and the spring wind lifting her hair. "Both of us. Very bad. I love it."
 
-She kissed him then, in the cold sun, in front of the whole courthouse. A single stray page of an old draft, blown loose from nowhere, spun up over their heads, caught the light, and drifted away down the street.
+She kissed him then, in the cold sun, in front of the whole courthouse. A single stray page of an old draft, blown loose from nowhere, spun up over their heads, caught the light, and drifted away down the street. Somewhere in the distance, quite impossibly, a pelican was heard to clear its throat.
 
 Neither of them chased it. It was only paper.
 
