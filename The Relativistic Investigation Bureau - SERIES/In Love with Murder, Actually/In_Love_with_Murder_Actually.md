@@ -952,6 +952,86 @@ She said it again in English, slowly, so that everyone could hear.
 
 ## Part Five: The Last Page
 
+### Chapter 12½: The Germans
+
+After the scandal, Madame Odile Fournier decided to sell the lake house.
+
+"It has been a house of murder, fraud and Englishmen," she told Tobias, over coffee. "I am seventy-three. I wish to live somewhere with a small garden and no pelican."
+
+Within a week there were buyers: Herr Dieter and Frau Brigitta Brandt of Stuttgart, who arrived on a Monday at exactly nine o'clock, because nine o'clock was the time agreed. They were both tall, grey-haired, in matching beige walking trousers, and between them they carried a measuring tape, a spirit level, a folder labelled *VORSCHLAG* [Proposal], and a spreadsheet.
+
+"We are very interested in the property," said Herr Brandt, in precise English, shaking Tobias's hand once, firmly, at a ninety-degree angle. "We will need to take the measurements."
+
+"Of what?"
+
+"Everything."
+
+They took them. They measured the kitchen, the jetty, the conservatory, the cellar and the gap between the stairs and the banister, with a quiet, devout concentration that Tobias found oddly moving. Frau Brandt tested every tap, every light switch and every window, nodding to herself, and made a note on her clipboard each time. Herr Brandt stood in the garden with the spirit level and announced, with real grief, that the lawn sloped by one and a half degrees.
+
+"Is this a problem?" said Tobias.
+
+"It is not a problem," said Herr Brandt, with the air of a man being brave. "It is a *character.*"
+
+"We love it," said Frau Brandt, and her face, for the first time, did something that in a less disciplined person would have been a smile. "It is exactly as we pictured it. We have a sun lounger. We will put it here." She pointed at a square of grass. "And one for the other here. And a towel. To reserve."
+
+By Thursday the paperwork was ready. By Friday they were all in Madame Fournier's front room, with a notary from Avignon, a bottle of good wine and a contract of forty-three pages. The Brandts had initialled forty-two of them. Madame Fournier picked up the pen, held it over the last line, and looked out of the window.
+
+On the jetty, in the late sun, stood the pelican.
+
+It was not doing anything. It was standing at the end of the planks on one leg with its enormous beak resting on its chest, gazing out over the lake with a look of ancient, ridiculous, uncomplaining loyalty. A heron stood beside it. The mist was coming up. Somewhere, Catarina was singing in the kitchen, off-key, with the radio.
+
+Madame Fournier put down the pen.
+
+"No," she said.
+
+"Verzeihung?" said Herr Brandt.
+
+"I am very sorry. I have changed my mind." She folded her hands. "I cannot sell the house. It would not be correct."
+
+There was a long silence. The notary from Avignon, who had seen a great deal in forty years, looked politely at the ceiling.
+
+"We have a contract," said Frau Brandt, very quietly.
+
+"You have forty-two initialled pages and one blank line."
+
+"There is a deposit."
+
+"I will return it. With interest. And a cheese."
+
+Herr Brandt rose slowly to his full height. He did not shout. He took a long, calm, German breath, and said, in the voice of a man who has been wounded in the one place he cannot be wounded:
+
+"Madame. This is not in the *plan.*"
+
+"The pelican," said Madame Fournier, "is not in the plan either."
+
+"What pelican?"
+
+She pointed. The Brandts looked. The pelican, on cue, lifted its great head, regarded them for a moment with mild contempt, and sneezed.
+
+"I see," said Herr Brandt, after a very long time.
+
+"It was here before you, and before me," said Madame Fournier. "I cannot sell the house from under a bird."
+
+The Brandts looked at each other. A whole conversation passed between them in the silence, in the manner of a couple married forty years. At last Frau Brandt unfolded her hands and said to her husband, in German, so quietly that Tobias understood only the one word *Pelikan:*
+
+"*Er sieht aus wie dein Onkel Hermann.*" [He looks like your uncle Hermann.]
+
+"*Ja,*" said Herr Brandt heavily. "*Das stimmt.*" [Yes. That's true.]
+
+They did not argue. They folded the contract into the folder, shook hands with Madame Fournier at exactly the same angle, and thanked her for her time. They were gracious right to the end, which was almost the worst part.
+
+On the doorstep, Herr Brandt turned and said to Tobias, with immense sadness:
+
+"The lawn slopes by one and a half degrees. I would have fixed it."
+
+"I know," said Tobias. "I'm sorry."
+
+"It is not your fault." He drew himself up. "We will buy the house in Alsace. It is flatter."
+
+The next morning, a note appeared on the garden gate in beautifully upright handwriting. *Dear Madame Fournier. Thank you for the cheese. It was excellent. We will leave a sun lounger on the jetty for the pelican. Yours faithfully, D. & B. Brandt.*
+
+By noon the pelican was sitting on it.
+
 ### Chapter 13: Spring
 
 The trial was held in March, one year to the day after Elise Marchetti died, in the Palais de Justice at Aix-en-Provence: a handsome, pale, pillared building facing a square of plane trees, where on Tuesdays a market sold lavender, sausage and tragic cheese. Tobias had been in Aix twice by then. He found that the town looked very different when it was trying to put a man in prison.
