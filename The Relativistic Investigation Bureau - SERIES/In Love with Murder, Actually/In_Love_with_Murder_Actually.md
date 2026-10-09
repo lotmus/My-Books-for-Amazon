@@ -416,11 +416,73 @@ They stood there, the Englishman and the Portuguese housekeeper, both scarlet to
 
 ---
 
+### Chapter 7½: Stars
+
+The power cut came back that night, as power cuts do, and this time it took the whole valley with it.
+
+Tobias was in the study with a candle and the Olivetti. He had typed six words and deleted five, which on a typewriter is a matter of correction fluid and character. Then he heard the kitchen door, and a light step on the gravel, and went to the window.
+
+Catarina was walking down toward the jetty with a blanket under her arm.
+
+He took his coat. He did not decide to. His coat simply happened to be on him.
+
+She was lying on her back at the end of the planks, wrapped in the blanket, and she did not seem surprised when he arrived. She moved over, a small movement, enough for one more person if that person was careful, and he lay down beside her, with a polite foot of cold air between them, and looked up.
+
+He had not seen a sky like it in his life. In Leeds the sky was a sort of lid. Here there was no light for twenty miles, and the stars were not points but a crowd, hundreds and hundreds, and then thousands, and then, as his eyes learned, a pale river of them poured from one horizon to the other.
+
+"*Via Láctea,*" said Catarina softly. [The Milky Way.]
+
+"The Milky Way."
+
+"The milk road." She frowned at the translation. "In English is a chocolate bar."
+
+"In English," said Tobias, "everything is a chocolate bar."
+
+She laughed, a quiet one, that went out across the water and did not come back. Beside them, in the dark, the lake made small private sounds. Somewhere a heron shifted its weight.
+
+She raised an arm and drew a line in the sky.
+
+"*As Três Marias,*" she said. [The Three Marys.] "You see? Three stars, in a line. My grandmother says they are three women who wait for a ship."
+
+"We call them Orion's Belt."
+
+"Orion's... *cinto.* A belt. For what?"
+
+"It's a hunter. He's supposed to be a very large man with a club."
+
+"In Portugal," said Catarina, "we have three women waiting. In England, you have a man with a club." She nodded gravely at the sky. "I think this explains many things."
+
+He turned his head and looked at her, her profile pale against the dark, the blanket pulled up to her chin, the faint pencil line of a smile. He thought: *there is a great deal I could say.* He thought of the dictionary, which was in the study. He thought of the phrasebook. He thought, with desperate clarity, that no phrasebook in the world had a chapter for this.
+
+She turned her head at the same moment and looked at him.
+
+Neither of them said anything. Neither of them needed to. A star fell, long and white, from one end of the sky to the other, and they both drew a breath, and both said, at the same instant, in their own languages, the same thing:
+
+"Make a wish." / "*Pede um desejo.*"
+
+She laughed, softly, and held out her hand, palm up, on the blanket between them. He looked at it for a long moment. Then he put his own over it, and she closed her fingers, and they lay there on the cold planks under ten thousand stars, not speaking, holding hands like two people carrying something very fragile across a very long room.
+
+"What did you wish?" he asked at last.
+
+"Is not allowed to say. Is the rule."
+
+"Then I won't tell you mine."
+
+"Good." She squeezed his hand. "I think they are the same one."
+
+From the far end of the jetty came a long, offended clearing of the throat. The pelican, who had been standing there in the dark the whole time, shifted its feet, turned its enormous head away with great dignity, and gazed pointedly at the lake.
+
+"He is shy," whispered Catarina.
+
+"He's a pelican."
+
+"Even so," she said. "Even a pelican has manners."
+
 ## Part Three: The Sister
 
 ### Chapter 8: The Visitor
 
-Victor Hale arrived on a Friday, in a car too large for the lane.
+Victor Hale arrived on a Friday, in a silver Porsche that was far too low for the lane. It scraped on every pothole with a noise like a rich man clearing his throat.
 
 He was a handsome, silver-haired man with a warm voice and a very expensive coat, and he shook Tobias's hand for slightly too long. "How's the great novel? I hear there was a mishap."
 
@@ -437,6 +499,34 @@ Catarina's face went blank and polite. "*Não percebo,*" she said. [I don't unde
 Hale kept smiling. "No matter." Tobias noticed that he smiled the way other men checked their watches.
 
 But later, when the car had gone, Tobias found her at the kitchen sink with her hands clenched white on the edge of the basin, and he understood that she had understood every word.
+
+### Chapter 8½: Lobster
+
+Inspector Mara Quill did not take holidays. She took leave, which is different. On the Saturday she drove to Marseille, to the old harbour, on the pretext of a dentist.
+
+She was not at the dentist. She was at a table by the window of a restaurant called Le Homard Bleu, where the tablecloths were starched, the waiters moved like surgeons, and a lobster cost a hundred and forty euros, a price printed on the menu in smaller type than the rest, in the way a bank prints its fees.
+
+At the corner table, under a brass lamp, sat Victor Hale.
+
+He was eating lobster. He ate it with enormous attention, cracking each claw as if it owed him money, and across the table from him a second man, silver-haired, older, with a face like a closed door, was telling him something at length. Mara could not see the face clearly. She could see the hands. They were large, patient, tanned hands, and they were buttering a roll with the unhurried precision of a man who has never been in a hurry in his life, because other people have always been in it for him.
+
+She photographed the pair of them with her phone, as one photographs a menu.
+
+She could not hear the conversation. She did not need to. A waiter, bringing a second bottle of white, said it for her, because he was French and could not help himself.
+
+"*Et pour la Porsche, monsieur Hale?*" he asked, pouring. "*Elle est prête?*" [And the Porsche, Monsieur Hale? Is it ready?]
+
+"Not yet," said Hale, with the shy, burning joy of a man who has been dreaming about a thing since boyhood. "Soon. Two more months. One more good autumn."
+
+"Ah," said the waiter kindly. "*Il faut de la patience.*"
+
+"I have waited forty years," said Hale.
+
+Mara watched him lift a claw and smile at it, and thought of eleven thousand writers sitting at kitchen tables from Dundee to Durban, each of whom had put sixty pounds in an envelope along with a hopeful short story about a lighthouse. She thought of a man on a jetty with an Olivetti. She thought of Elise Marchetti, who had once, according to a letter in the file, refused to cross a puddle because it looked ambitious.
+
+*Some of us,* thought Mara, *eat lobster.*
+
+She did not finish the thought. She had never been a woman for speeches. She paid for her coffee, left a generous tip for a waiter who would never know why, and went out into the grey Mediterranean light, and made a telephone call that would take eleven weeks to come to anything at all.
 
 ### Chapter 9: The Photograph
 
@@ -570,7 +660,7 @@ She said it again in English, slowly, so that everyone could hear.
 
 The trial was in March, one year to the day after Elise Marchetti died.
 
-Hale, who turned out to be a better witness than a villain, gave up the name by the second week: Armand Vial, chairman of the Vial-Sorel Group of Marseille, who had been using the Verrane Award, and a dozen other prizes and foundations like it, to wash money through the entry fees of people who only wanted to be read. Vial was arrested at Marseille airport trying to board a flight to Geneva with a single suitcase and a signed first edition. The first edition was of Tobias's previous novel. It was the only copy he had ever seen sold at full price.
+Hale, who turned out to be a better witness than a villain, gave up the name by the second week: Armand Vial, chairman of the Vial-Sorel Group of Marseille, who had been using the Verrane Award, and a dozen other prizes and foundations like it, to wash money through the entry fees of people who only wanted to be read. Hale's silver Porsche, it emerged, had been leased in his name and never paid for; he had been dreaming about it for forty years and owned it for eleven days. Vial was arrested at Marseille airport trying to board a flight to Geneva with a single suitcase and a signed first edition. The first edition was of Tobias's previous novel. It was the only copy he had ever seen sold at full price.
 
 Hale was convicted on every count: murder, theft of the Marchetti estate, and fraud against 11,400 hopeful writers, each of whom had paid £60 to be told they had not won. The judge remarked that it was the first time the Verrane Award had ever delivered what it promised, which was a disappointment for everybody. Tobias gave evidence for two hours. Catarina gave hers for four, in English that was still careful but no longer broken, with her sister beside her, and when the judge thanked her for her courage she answered in a clear voice, "I only read the pages."
 
