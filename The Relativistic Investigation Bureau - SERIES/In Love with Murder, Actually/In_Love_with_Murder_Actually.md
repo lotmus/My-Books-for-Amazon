@@ -740,7 +740,7 @@ She said it again in English, slowly, so that everyone could hear.
 
 The trial was in March, one year to the day after Elise Marchetti died.
 
-Hale, who turned out to be a better witness than a villain, gave up the name by the second week: Armand Vial, chairman of the Vial-Sorel Group of Marseille, who had been using the Verrane Award, and a dozen other prizes and foundations like it, to wash money through the entry fees of people who only wanted to be read. Hale's silver Porsche, it emerged, had been leased in his name and never paid for; he had been dreaming about it for forty years and owned it for eleven days. Vial was arrested at Marseille airport trying to board a flight to Geneva with a single suitcase and a signed first edition. The first edition was of Tobias's previous novel. It was the only copy he had ever seen sold at full price.
+Hale, who turned out to be a better witness than a villain, gave up the name by the second week: Armand Vial, chairman of the Vial-Sorel Group of Marseille, who had been using the Verrane Award, and a dozen other prizes and foundations like it, to wash money through the entry fees of people who only wanted to be read. Hale's silver Porsche, it emerged, had been leased in his name and never paid for; he had been dreaming about it for forty years and owned it for eleven days. Vial himself was not at Marseille airport. Vial had vanished the night before the warrant, aboard his yacht, the *Pénélope*, which was found three days later drifting off the Portuguese coast with the engine running, the champagne open and nobody on board. The French police announced that he was missing, presumed drowned. Inspector Quill announced nothing, but crossed the word *drowned* out of her notebook and wrote *DOUBT* beside it.
 
 Hale was convicted on every count: murder, theft of the Marchetti estate, and fraud against 11,400 hopeful writers, each of whom had paid £60 to be told they had not won. The judge remarked that it was the first time the Verrane Award had ever delivered what it promised, which was a disappointment for everybody. Tobias gave evidence for two hours. Catarina gave hers for four, in English that was still careful but no longer broken, with her sister beside her, and when the judge thanked her for her courage she answered in a clear voice, "I only read the pages."
 
@@ -827,6 +827,34 @@ Tobias arrived in a suit that Fernanda had inspected and declared "adequate, for
 "She is ninety-four. She earned it." Inês picked a bone from her fish. "She also said you are too pale and you will die in a year. This is a good sign. It means she likes you."
 
 The speeches began at nine. Zé stood and sang something so mournful that three fishermen wept into their wine, and one of them was not a fisherman at all but the postman, who had come for the free food. Fernanda stood and said that her sister was marrying an Englishman, that this was a punishment for a sin nobody could name, and that she would be keeping the recipe for the cod. Inês stood and said, in a perfectly level voice, that she had read the whole of the groom's work and could confirm that he was a man of fine feeling and indifferent plotting, and that she wished them both a long life, since she did not intend to arrange another one.
+
+Somewhere around the cod, the waiter arrived.
+
+He was a tall, silver-haired man of about sixty, in a borrowed white jacket two sizes too small, and he served the fish with the grave, delighted attention of a man who has discovered, late in life, that rice can be a joy. He had a tan, a slight stoop, and enormous soft hands, red from hot water. He hummed. He was the happiest waiter anyone in Afurada had ever seen.
+
+"That," said Inspector Quill, who had driven fourteen hours in a rented Fiat to attend, with a bottle of English gin as a gift, "is Armand Vial."
+
+Tobias looked. Catarina looked. Inês, without turning her head, took a sip of wine.
+
+"Armando," said Fernanda proudly, appearing with a stack of plates. "My husband's cousin. We found him on the beach in September, in a *blazer,* with the water in his shoes. He remembers nothing. Not his name, not his mother, not the year. I said, *this is Armando, the cousin who owes me money,* and he said, *oh, I am so sorry, Fernanda,* and he has been scrubbing my pots ever since."
+
+"He believes," said Mara slowly, "that he is your husband's cousin."
+
+"He is a very good dishwasher." Fernanda lowered her voice. "He has never been so happy. Last week he cried at a sardine."
+
+At the end of the table, Armando put down the cod and beamed at Mara. "*Boa noite, senhora,*" he said. "Is the fish all right?"
+
+"It's perfect," said Mara, with the fixed expression of a woman balancing eleven weeks of work against a plate of very good cod. "Thank you, Mr... Armando."
+
+"He is not a criminal," said Inês quietly, over the rim of her glass. "He is a man who fell overboard and became a better person. It happens. It is rare, and I do not trust it, but it happens."
+
+"He is the chairman of a criminal organisation."
+
+"He is the chairman of the *dishes.*" Inês shrugged. "Finish your fish, Inspector. I will arrest nobody on an empty stomach. The cousin can be dealt with in the morning."
+
+Mara looked at the man in the white jacket, humming over the potatoes. She looked at her wine. She sighed, picked up her fork, and ate.
+
+It was, she would admit afterwards, the best fish of her life.
 
 And then Tobias stood.
 
