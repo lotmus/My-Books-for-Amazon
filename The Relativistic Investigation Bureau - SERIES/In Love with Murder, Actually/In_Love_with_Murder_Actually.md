@@ -560,7 +560,33 @@ Hale, who turned out to be a better witness than a villain, gave up the name by 
 
 Hale was convicted on every count: murder, theft of the Marchetti estate, and fraud against 11,400 hopeful writers, each of whom had paid £60 to be told they had not won. The judge remarked that it was the first time the Verrane Award had ever delivered what it promised, which was a disappointment for everybody. Tobias gave evidence for two hours. Catarina gave hers for four, in English that was still careful but no longer broken, with her sister beside her, and when the judge thanked her for her courage she answered in a clear voice, "I only read the pages."
 
-Afterwards, on the courthouse steps, in the cold bright light, Tobias held out a thin bound manuscript.
+Afterwards, on the courthouse steps, Tobias met the third Vidal sister.
+
+Fernanda was the eldest. She had driven eleven hours from Porto in a van that said RESTAURANTE VIDAL on the side, and she filled the doorway of it as she filled most rooms: broad, warm, loud, in a flowered dress and a coat the colour of a tomato, carrying a cool-box the size of a small child. She had run the family restaurant for twenty years. She had raised her two sisters on a diet of rice, opinions and the occasional slap. She kissed Inês on both cheeks, Catarina on both cheeks and then once more for luck, and turned to Tobias with the look of a customs officer.
+
+"*Então,*" said Fernanda. "*Este é o inglês.*" [So. This is the Englishman.]
+
+"*Bom dia,*" said Tobias. "*Muito prazer.*"
+
+"His accent is a crime," Fernanda said, in Portuguese, to the street. "They should arrest him. Is he eating?"
+
+"He eats," said Catarina, in the same language, glowing. "He eats biscuits."
+
+"*Biscoitos!*" Fernanda threw up her hands. She said something fast and long to heaven, took Tobias's face in both hands, turned it left, then right, and said in slow loud English, as if to a deaf child: "TOO. THIN. I FEED YOU."
+
+"I'm perfectly..."
+
+"I FEED YOU," Fernanda repeated, with the finality of a judge, and opened the cool-box. Inside, under a tea towel, lay a roast chicken, a dish of rice, two custard tarts and a bottle of something without a label. "Eat. Then we discuss the wedding."
+
+"We haven't discussed a wedding," said Tobias.
+
+"You have discussed," said Fernanda. "You do not know yet. That is why I am here."
+
+She sat him on the courthouse steps in front of the whole of Marseille's legal profession and fed him until he could not speak. By the third tart he had been told that he would marry in Portugal, that the priest was a cousin, that the soup would be served at one and the dancing would start at four, and that if he ever made her sister cry, she would drive eleven hours the other way with a very large pan.
+
+It was the longest conversation Tobias had ever had in which he was only allowed to say "Yes." He found, to his surprise, that he enjoyed every minute.
+
+When Fernanda had finally finished with him, he wiped his hands, took Catarina a little apart, and held out a thin bound manuscript.
 
 "It's finished. The book. I rewrote the lost chapters from your notes and Inês's, and the tape, and everything we found."
 
