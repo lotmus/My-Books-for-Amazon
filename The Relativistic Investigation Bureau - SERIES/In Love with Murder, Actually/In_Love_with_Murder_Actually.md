@@ -740,6 +740,74 @@ She stiffened. Then she let her forehead drop against his shoulder and said, in 
 
 ## Part Four: The Lake
 
+### Chapter 10½: The Long Way to Aix
+
+Inês's notebook ended with an address in Aix-en-Provence: *Maître Lucien Barbier, Notaire, 14 rue Gaston de Saporta, 17h00.* Beneath it, underlined twice: *the originals.*
+
+"The originals of what?" said Tobias.
+
+"Of everything he stole," said Catarina. "If a lawyer keeps the contracts, then the lawyer is the one who can open the door." She tapped the page. "It is an hour. We go tomorrow. We are there by five."
+
+They left at ten. They were not there by five.
+
+The first delay was a stall at the side of the road, run by a woman in a straw hat selling peaches out of a wheelbarrow. "We stop for one minute," said Catarina, who knew about peaches. They stopped for forty. The peaches were enormous and warm and tasted of a summer that had not yet finished with anyone, and the woman in the hat insisted that Tobias taste the apricots, and the plums, and a small yellow fruit nobody could name in any language, and by the time they drove off the back seat was a fruit bowl.
+
+"This was a mistake," said Tobias, with juice running down his wrist. "We're going to be late."
+
+"Paris can wait," said Catarina, with her mouth full.
+
+"We're not going to Paris."
+
+"Then the lawyer can wait."
+
+The second delay was a goat farm, because there was a sign. The third was a ruined abbey on a hill, because Tobias remarked that it looked Romanesque, and Catarina said "*Românico*," and they both spent twenty minutes standing in an empty nave where the roof had fallen in and the sky had come to live, whispering because it seemed to demand it. The fourth was an olive mill, where an old man in a blue apron poured them a thimble of oil so green and peppery that Catarina coughed, wiped her eyes, and bought six litres.
+
+"It is for the restaurant," she said defensively. "Fernanda will say it is too expensive. Then she will use all of it."
+
+The fifth delay was a flat tyre.
+
+It happened on a quiet road between two vineyards, in the full heat of the afternoon, with the cicadas screaming in the pines like a machine nobody could turn off. Tobias stood over the spare wheel with the expression of a man reading a document in Latin.
+
+"I have never changed a tyre," he said.
+
+"You are English. You have a man."
+
+"I did have a man. He was called the AA."
+
+"*Afasta-te,*" said Catarina, rolling up her sleeves. [Move.] She was four minutes with the jack and the spanner, glistening, singing a tune from the radio under her breath, and when it was done she wiped her hands on her skirt and looked at him, hot and happy and absurdly beautiful, with oil on her cheek.
+
+"What?" she said.
+
+"Nothing," said Tobias. "I was thinking I should have married a mechanic."
+
+"You are not married."
+
+"No," said Tobias. "I was thinking it in advance."
+
+She stood very still. A cicada, somewhere, chose that moment to stop. Then Catarina turned, very pink, picked up the spanner, put it in the boot with extraordinary care, and said to the air in Portuguese, quite clearly, "*Meu Deus, ele disse isso a sério.*" [My God, he said that seriously.]
+
+He understood every word.
+
+They did not reach Aix until half past six. The plane trees along the Cours Mirabeau were already throwing their long shadows, the fountains were running gold, and number fourteen, rue Gaston de Saporta, was a tall honey-coloured house with its shutters closed and a small brass plate that said MAÎTRE BARBIER, NOTAIRE.
+
+The door was ajar. Inside, the office had been taken to pieces. Drawers upended, files on the floor, a safe standing open and empty. A neighbour in a dressing gown told them in rapid French that two men in dark coats had come at a quarter to five, left at five, and that Maître Barbier, a gentleman of eighty, was at that moment in the hospital with a bruised arm and extremely bad temper.
+
+"At five," said Tobias slowly.
+
+"We would have been there at five," said Catarina. She had gone very pale. "Exactly at five. Like the notebook says."
+
+They stood in the ransacked office in the late honey light. Somewhere outside, an accordion began to play. Neither said what both were thinking. If they had been punctual, if they had been sensible, if they had not stopped for the peaches, and the goats, and the abbey, and the oil, and the tyre, and the three minutes in which a man had said something aloud that should have waited...
+
+"Paris," said Catarina at last, in a small voice, "can wait."
+
+"Yes," said Tobias. "Apparently, so can everything else."
+
+On the way out they picked up the single object the thieves had overlooked: a calendar on the old man's desk, where a note in a spidery hand read: *Marchetti originals, safe deposit, Banque Verrane. Key with M. Fournier.*
+
+"Madame Fournier," said Tobias.
+
+"Odile," said Catarina. "Odile has the key."
+
 ### Chapter 11: The Trap
 
 Hale came back on a Sunday night, uninvited, with his headlights off.
