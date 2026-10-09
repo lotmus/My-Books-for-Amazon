@@ -924,6 +924,74 @@ Catarina picked it up. Tobias took it from her very gently and snapped it in two
 
 "No," said Catarina. "He is a man who has never once been in a boat."
 
+### Chapter 10¾: The Man from Rome
+
+He arrived at the lake house at eight o'clock that evening, on foot, in the rain, with an umbrella held at the precise angle of a bayonet.
+
+He was about thirty-five. He was six foot four. He had a close fair haircut, a face carved out of cheese and honesty, and a dark overcoat buttoned to the throat. He stood on the porch, dripped politely on the mat, and bowed from the waist, which no one had done to Tobias since he was a child at a pantomime.
+
+"Good evening," he said, in English with a faint Swiss-German edge. "I am Captain Anselm Brunner of the Pontifical Swiss Guard. I regret the hour. I regret the weather. I regret, in a more general sense, that I am here at all."
+
+"The Swiss Guard," said Tobias.
+
+"Yes."
+
+"The ones with the... the striped trousers."
+
+"Those are for ceremonies." Captain Brunner looked down at his coat, with faint sorrow. "I am not permitted to wear them on investigations. Or to carry the halberd. I was given this." He lifted the umbrella. "It is very firm."
+
+It was Catarina, behind Tobias in the doorway, who recovered first. She crossed herself, almost involuntarily, and said in a small voice, "*Meu Deus.* The Pope sends the police."
+
+"Not the Pope," said Brunner gravely. "The Holy See. And not the police. I am a special investigator. It is a new post. There are, at present, two of us, and the other one is in Malta."
+
+They sat him in the kitchen. He declined tea, accepted water, declined the glass and drank from the tap cup with his back very straight. He then took from his coat an envelope, an old Latin letter, a photograph and a notebook, and laid them in a row on the table, in order of size.
+
+"Two years ago," he said, "a woman named Valentina Marchetti died in Lyon, aged ninety-one. She was the mother of Elise Marchetti."
+
+"We know," said Tobias.
+
+"In her estate was an item. A manuscript. A book of hours, written in Avignon in the year 1347, with illuminations of the highest quality. It is known as the Marchetti Codex. It belonged, until the French Revolution, to the Apostolic Library. It was *stolen* from the Apostolic Library in 1793, by a man with a very bad character and a very good coat." He paused. "The Holy See has been looking for it for two hundred and thirty years. We are not hasty."
+
+"And it was in the estate."
+
+"It was in the estate. And then it was in the possession of a publisher named Victor Hale. And now," said Brunner, "I am told that it is in the possession of no one at all."
+
+He opened the photograph. It showed a small, thick, ancient book, bound in cracked blue leather, with a gold stamp on the cover: a bird, wings spread, bending its long neck to pierce its own breast. Beneath it, three tiny chicks, beaks open.
+
+"A pelican," said Catarina softly.
+
+"The pelican in her piety," said Brunner. "In the old iconography, the pelican feeds her young with her own blood. It is a figure of sacrifice. It is also, I understand, a figure of..." He frowned. "You have one here. In the garden. I was told in the village."
+
+"Lucien," said Tobias.
+
+"Lucien," said Brunner, as one repeating the name of a saint. He looked out of the window at the lawn, where in the rain, on the Germans' sun lounger, a vast white bird sat motionless on one leg. A long, long silence stretched out. The Captain of the Swiss Guard, who had stood in the presence of cardinals without moving his eyelid, took out a clean white handkerchief and blew his nose.
+
+"I am sorry," he said. "It has been a long journey."
+
+Inspector Mara Quill, summoned by a worried Tobias, arrived within the hour and eyed Brunner across the kitchen table the way a cat eyes a different breed of cat.
+
+"You've no jurisdiction here, Captain."
+
+"None whatever, Inspector. I have no jurisdiction anywhere, except a very small country with a lovely garden." He met her eye without a flicker. "I wish only to ask where a book is. If it is found, I wish to carry it home. I do not wish to arrest anybody. I am not able. I could hit them with the umbrella, but I believe this would be irregular."
+
+"You'd be surprised how irregular I can be," said Mara, with a trace of respect.
+
+"I have been told," said Brunner, "that the English are very good at it."
+
+It was Catarina who found the missing piece. She had been turning the old calendar over in her hands, the one they had picked up in the notary's wrecked office, the one with the spidery note. *Marchetti originals, safe deposit, Banque Verrane. Key with M. Fournier.*
+
+"Captain," she said slowly. "If the book was in the originals..."
+
+"Then the originals are in a box in a bank," said Brunner. "In the Banque Verrane. Which I believe is a building, in Avignon, owned by a Foundation, controlled by a Mr Hale." His blue eyes lit with the first fire of the evening. "And the key."
+
+"Is with Madame Fournier."
+
+"Then," said the Captain of the Swiss Guard, rising with a great clatter of chair and umbrella, "I will go and speak to her at once. In my best French. With great politeness."
+
+"She will mock your French," said Tobias.
+
+"I am Swiss," said Brunner, with a small, weary, dignified smile. "I have spent my whole life being mocked by the French. It is how they show affection."
+
 ### Chapter 11: The Trap
 
 Hale came back on a Sunday night, uninvited, with his headlights off.
@@ -1223,6 +1291,8 @@ Tomasz leaned out of the van window and gave her a wide, wet, delighted smile.
 The trial was held in March, one year to the day after Elise Marchetti died, in the Palais de Justice at Aix-en-Provence: a handsome, pale, pillared building facing a square of plane trees, where on Tuesdays a market sold lavender, sausage and tragic cheese. Tobias had been in Aix twice by then. He found that the town looked very different when it was trying to put a man in prison.
 
 Hale, who turned out to be a better witness than a villain, gave up the name by the second week: Armand Vial, chairman of the Vial-Sorel Group of Marseille, who had been using the Verrane Award, and a dozen other prizes and foundations like it, to wash money through the entry fees of people who only wanted to be read. Hale's silver Porsche, it emerged, had been leased in his name and never paid for; he had been dreaming about it for forty years and owned it for eleven days. Vial himself was not at Marseille airport. Vial had vanished the night before the warrant, aboard his yacht, the *Pénélope*, which was found three days later drifting off the Portuguese coast with the engine running, the champagne open and nobody on board. The French police announced that he was missing, presumed drowned. Inspector Quill announced nothing, but crossed the word *drowned* out of her notebook and wrote *DOUBT* beside it.
+
+The Marchetti Codex was recovered from a safe-deposit box in Avignon by a very tall Swiss gentleman with an umbrella, and carried back to Rome in a padded case on his own lap, in economy class, for reasons of principle. It now rests in the Apostolic Library once more. The pelican on the cover, curators say, looks pleased.
 
 Hale was convicted on every count: murder, theft of the Marchetti estate, and fraud against 11,400 hopeful writers, each of whom had paid £60 to be told they had not won. The judge remarked that it was the first time the Verrane Award had ever delivered what it promised, which was a disappointment for everybody. Tobias gave evidence for two hours. Catarina gave hers for four, in English that was still careful but no longer broken, with her sister beside her, and when the judge thanked her for her courage she answered in a clear voice, "I only read the pages."
 
