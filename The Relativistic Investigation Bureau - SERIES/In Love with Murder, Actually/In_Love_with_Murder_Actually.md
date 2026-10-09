@@ -58,6 +58,8 @@ Tobias Lind had carried the manuscript out to the end of the jetty because the l
 
 Four hundred pages went up, turned once in the grey light, and settled on the lake like a flock of gulls.
 
+Yes, pages. Real ones. Tobias wrote on a 1962 Olivetti typewriter, bought from a man in Harrogate, on the principle that nothing worth saying should be easy to delete. He owned a laptop. It was in a drawer, in Leeds, being respected from a distance. When people asked whether he backed anything up, he said that he had a very good memory, which was true, and a very poor sense of danger, which was why he was now standing on a jetty.
+
 He did not shout. He was English, and Leeds-born, and the family instinct in a disaster was to say nothing and put the kettle on. He stood very still and watched two years of his life drift away. It was, he reflected, a fairly standard Tuesday.
 
 Then a woman ran past him along the planks and into the lake.
@@ -135,6 +137,16 @@ Inspector Mara Quill came to the lake house the following afternoon. She had bee
 "A neighbour rang in a splash and a shout last night," she told him on the porch. "At the jetty. Would that be you?"
 
 "The wind took my manuscript. Aurelia went in after it."
+
+"Your manuscript was on paper," said Mara.
+
+"It was typed."
+
+"On paper. In a satchel. On a jetty. In a wind." She wrote something in her notebook. "I'm sure there's a reason."
+
+"It has no notifications."
+
+"It also has no backup." She closed the notebook, not unkindly. "In my experience, Mr Lind, the people who distrust the cloud always end up in the lake."
 
 "Ah." Mara looked past him through the open door, where Aurelia was pegging pages to a line strung across the kitchen. "She knows the lake, then."
 
