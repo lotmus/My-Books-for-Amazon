@@ -1108,6 +1108,76 @@ She picked one olive and held it out on her palm. A single drop ran off the end 
 
 *Plink.*
 
+### Chapter 12⅞: The Roofers
+
+The roofers arrived on Thursday, in a white van with a Polish number plate and a sticker on the back window that said, in English, *WE FIX THINGS. WE DO NOT TALK ABOUT IT.*
+
+There were three of them. Marek, the foreman, was fifty, broad as a door and nearly as talkative, with forearms like cured hams and a moustache that expressed opinions on his behalf. Tomasz, the middle one, was thirty-five, bald, cheerful and always singing, in a deep and mournful voice, something that sounded like a hymn and turned out to be a washing-powder advertisement. And Pawel, the youngest, was twenty-three, very tall, shy and fair, with a face like a startled choirboy and the manners of a person raised by his grandmother.
+
+"Dzień dobry," said Marek, to the lake house. He looked up at the roof for a long time, as a doctor looks at a patient who has not followed advice. "*Dach jest chory.*" [The roof is sick.]
+
+"What did he say?" said Tobias.
+
+"He says," said Tomasz, who had some English, "that the roof is sick."
+
+"Can you cure it?"
+
+Marek appeared to consider the question deeply. "Yes," he said, in English, and nothing else, and went up the ladder.
+
+They worked for two days, in the full hammering light of the autumn, tearing off broken tiles and passing new ones hand to hand along the ladder in a chain of such precision that Catarina stood and watched them for an hour from the garden with her arms folded, quietly approving. They ate lunch on the lawn: enormous sandwiches of dark bread, sausage and pickled cucumber the size of a forearm, unwrapped from silver foil with solemn ceremony, accompanied by a thermos of black tea so strong it could have held up the roof on its own.
+
+"They work like Portuguese," said Catarina to Tobias, in tones of the highest praise. "No talking. Many sandwiches."
+
+It was on the second afternoon that Pawel fell in love.
+
+It happened with great suddenness. Chloe, the Pemberton-Hayeses' babysitter, nineteen and glowing, had been sent over by Priscilla with a plate of shortbread as a goodwill gesture, "since those poor men must be famished." She walked up the garden path in a yellow dress with the plate in both hands, looked up the ladder, and said, in her clear schoolgirl voice:
+
+"Hello! Would anyone like a biscuit?"
+
+Pawel, at the top, turned his head. A tile slipped from his fingers, whistled past Tomasz's ear, and broke into eleven pieces on the gravel.
+
+"*Pawel!*" said Marek, from the ridge.
+
+"Przepraszam," said Pawel faintly. [Sorry.] He was staring at Chloe. He had gone entirely red, from the collar of his work shirt to the tips of his ears. "I... hello. Yes. Biscuit."
+
+"I'm Chloe."
+
+"Pawel."
+
+"Pavel?"
+
+"*Pa-wel.*"
+
+"Pa-vel," said Chloe, and smiled so brightly that Tomasz put his hand on his heart and began to hum a hymn, which was, once again, the washing-powder advertisement.
+
+What followed was the most stately courtship Tobias had ever witnessed, conducted in three languages, none of which anyone fully spoke. Chloe had school French and a little Spanish; Pawel had Polish, some German from his mother's side, and English he had learned from American films. They met on the lawn at four every afternoon, with the shortbread. He told her, in carefully constructed sentences, that Poland had many trees. She told him, in the same tone, that she liked horses. He said "Very nice." She said "Very nice." There was a long silence, filled with the sweetest tension, and then she said, in desperation, "Do you like tea?" and he answered, with the whole of his heart, "I like tea very much."
+
+"They are in love," said Catarina, watching from the kitchen window, with her chin in her hand.
+
+"They've said eleven words."
+
+"Is plenty. We said fewer."
+
+By Saturday the roof was done. It was a handsome roof, red and new, tight as a drum, and for the first time in a month the lake house stood silent when it rained. The nine pots were emptied and stacked in the cupboard. The drips had stopped, and Catarina, standing in the kitchen at dusk with the empty copper pot in her arms, was surprised to find that she minded.
+
+"I miss the fado," she said.
+
+"I know."
+
+"It was a terrible roof," said Catarina. "But it had a very good voice."
+
+Marek loaded the van at six. He shook Tobias's hand once, firmly, and said in English, "Roof will not leak. You will not thank me. This is correct." Tomasz kissed Catarina's hand, which she permitted. Pawel, standing a little apart, held something in his hands, rolled and rolled again, and finally, at the last moment, with extraordinary courage, took three steps down the path and gave it to Chloe, who had come to say goodbye in a different yellow dress.
+
+It was a note, written in careful block capitals, with a phone number.
+
+*I WILL COME BACK IN THE SPRING,* it said. *I DO NOT HAVE MANY WORDS. THESE ARE THE BEST ONES. KOCHAM CIĘ.*
+
+"What does the last one mean?" said Chloe.
+
+Tomasz leaned out of the van window and gave her a wide, wet, delighted smile.
+
+"It means," he said, "that he likes tea very much."
+
 ### Chapter 13: Spring
 
 The trial was held in March, one year to the day after Elise Marchetti died, in the Palais de Justice at Aix-en-Provence: a handsome, pale, pillared building facing a square of plane trees, where on Tuesdays a market sold lavender, sausage and tragic cheese. Tobias had been in Aix twice by then. He found that the town looked very different when it was trying to put a man in prison.
