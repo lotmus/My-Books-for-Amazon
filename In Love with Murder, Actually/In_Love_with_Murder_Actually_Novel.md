@@ -582,13 +582,13 @@ Madame Fournier was summoned. She came over the garden wall with her secateurs, 
 
 "Where is it, then?"
 
-"Who knows? It is a snake." She shrugged with the whole waistcoat. "It is not lost. It is only not where you are looking."
+"Who knows? It is a snake." She lifted the secateurs an inch, which in that valley counted as a shrug. "It is not lost. It is only not where you are looking."
 
 They did not find it. They did not find it for the rest of the week. The neighbour from the big house up the lane, a retired Englishman with two conservatories whom Tobias had not yet officially met, came to search with a butterfly net and a sense of mission. Mara Quill, called by the neighbour's wife, searched with a torch and visible disbelief. A postman looked under the mat, which was his contribution to natural history. The pelican, consulted, declined to assist.
 
-But everyone, ever after, felt it. In the evenings, when the light went, Tobias would sit at the Olivetti with his feet drawn carefully up onto the chair. In the kitchen, Catarina would open a cupboard and wait a long moment before she looked in. Something was in the house with them: patient, brown, a metre or more, and perfectly content.
+But everyone, ever after, felt it. In the evenings, when the light went, Tobias would sit at the Olivetti with his feet drawn carefully up onto the chair. In the kitchen, Catarina would open a cupboard and count to three before she looked in. Something was in the house with them: patient, brown, a metre or more, and perfectly content.
 
-"It does not matter," said Catarina, one night, with great dignity, stepping over a loose slipper in the hall as if it were a bomb. "We are not afraid."
+"It does not matter," said Catarina, one night, stepping over a loose slipper in the hall as if it were a bomb. "We are not afraid."
 
 "No," said Tobias, lifting his feet.
 
@@ -598,7 +598,7 @@ But everyone, ever after, felt it. In the evenings, when the light went, Tobias 
 
 The snake was not found that autumn, nor that winter, by anybody.
 
-What Tobias did find, when they lifted the window seat and found no snake, was that the board beneath it had already been lifted. The dust was disturbed in a clean rectangle, the size of a hand. Catarina saw him see it. She put the cushion back with great care, as if the cushion were the point, and said nothing. He said nothing. The house was getting very good at that.
+What Tobias did find, when they lifted the window seat and found no snake, was that the board beneath it had already been lifted. The dust was disturbed in a clean rectangle, the size of a paperback. Catarina saw him see it. She put the cushion back with great care, as if the cushion were the point, and said nothing. He said nothing. The house was getting very good at that.
 
 ## Chapter 9: The Leaflet
 
@@ -610,7 +610,7 @@ LA MAISON DES CŒURS, it said, in a cheerful font. A residence for the recently 
 
 "I'm sorry?"
 
-"It is in the contract." She shrugged her whole waistcoat. "Lucien, who had the bakery before the van, went in 2011. He was a widower for six weeks. He went to count the birds, and he did not come back."
+"It is in the contract," she said, as if she had read it twice. "Lucien, who had the bakery before the van, went in 2011. He was a widower for six weeks. He went to count the birds, and he did not come back."
 
 Tobias looked at the lawn. On a sun lounger left by the last tenants, the pelican regarded him with an expression of ancient and ruined patience.
 
@@ -678,7 +678,7 @@ They invited Tobias to supper on Thursday. Priscilla called it "nothing fancy, j
 
 "That was one time."
 
-It was a Thursday of marvellous, suffocating politeness. Tobias sat between a retired orthodontist and a woman who wished to discuss the royal family, and ate a vol-au-vent the size and texture of an ear.
+It was an evening of marvellous, suffocating politeness. Tobias sat between a retired orthodontist and a woman who wished to discuss the royal family, and ate a vol-au-vent the size and texture of an ear.
 
 The Frenchman sat opposite. He was about fifty, immaculate, with silver at the temples and a tie the colour of old claret, and he had arrived with a furled black umbrella on a night when there had not been a cloud over the valley for a week. He was, Nigel said, "our notaire, well, our lawyer, Edouard, did the house for us, marvellous chap, terribly busy, sits on boards." Edouard smiled at this as a man smiles at a dog that has brought him the wrong stick.
 
@@ -730,7 +730,7 @@ He held up the tea towel. It was, on closer inspection, a very large floral bonn
 
 "It's a very difficult scene," said Chloe in a small voice. "He has to fall off the ladder."
 
-There was a long, ringing pause. Then the orthodontist began to laugh. The woman who liked the royal family laughed. Tobias, to his shame, was laughing already, helplessly, into a vol-au-vent. And Priscilla, who had stood in her coat through the whole of it with the stillness of a Roman senator, drew a long breath and said, with great dignity:
+There was a long, ringing pause. Then the orthodontist began to laugh. The woman who liked the royal family laughed. Tobias, to his shame, was laughing already, helplessly, into a vol-au-vent. And Priscilla, who had stood in her coat through the whole of it with the stillness of a Roman senator, drew a long breath and said:
 
 "Nigel. You are a terrible Dame."
 
@@ -742,7 +742,7 @@ There was a long, ringing pause. Then the orthodontist began to laugh. The woman
 
 "I will be Dame," said Priscilla, "and you will be the back half of the horse." She turned to Tobias, her face quite calm. "I do apologise. It's always like this at rehearsals."
 
-On the walk home through the dark lane Tobias passed the garden wall of the lake house and thought about it all. Three people were dead and a murderer was still at large, he thought, and the village's great scandal of the week was a man in a bonnet. It struck him as the most English thing he had ever heard.
+Walking home down the dark lane, Tobias thought about it. Three people were dead, a murderer was at large, and the village's great scandal of the week was a man in a bonnet. It struck him as the most English thing he had ever heard.
 
 He told Catarina about it in the kitchen. She listened with her chin on her hand.
 
@@ -754,7 +754,7 @@ He told Catarina about it in the kitchen. She listened with her chin on her hand
 
 "She was horribly angry," said Tobias. "And then she wasn't. She's going to be the Dame."
 
-Catarina considered this for a long time. "The English," she said at last, "are the only people in Europe who can be caught with the babysitter and say, it was for the pantomime, and everybody believes."
+Catarina considered this. "The English," she said at last, "are the only people in Europe who can be caught with the babysitter and say, it was for the pantomime, and everybody believes."
 
 "The remarkable thing," said Tobias, "is that it was true."
 
@@ -794,7 +794,7 @@ She let that sit for exactly as long as was cruel, then added: "Your Portuguese 
 
 "Mr Lind," said Mara kindly, "I don't speak Portuguese, but I'm fairly certain that is not how a person says that."
 
-He found out that evening. Catarina, stirring the pot, asked him in her shining new English how he was, and he answered, with great dignity, "Eu sou quente."
+He found out that evening. Catarina, stirring the pot, asked him in her shining new English how he was, and he answered, carefully, "Eu sou quente."
 
 She dropped the spoon. She turned the colour of a ripe tomato and then began to laugh so hard that she had to hold onto the stove.
 
@@ -864,9 +864,9 @@ She said a poem then, the one her grandmother said to the sea when the boats wer
 
 Três estrelas à espera, um barco que não vem, e eu, que fico na pedra, a fazer de ninguém.
 
-Three stars waiting. A boat that does not come. And I, on the stone, practising being no one. He learned the meaning years later. By then he had already known it.
+Three stars waiting. A boat that does not come. And I, on the stone, practising being no one. He learned the words weeks later, in the dark, in a cheap hotel in Lyon. By then he had already known what they meant.
 
-From the far end of the jetty came a long, offended clearing of the throat. The pelican, who had been standing there in the dark the whole time, shifted its feet, turned its enormous head away with great dignity, and gazed pointedly at the lake.
+From the far end of the jetty came a long, offended clearing of the throat. The pelican, who had been standing there in the dark the whole time, shifted its feet, turned its enormous head away, and gazed pointedly at the lake.
 
 "He is shy," whispered Catarina.
 
@@ -956,7 +956,7 @@ She drove a white Renault 4 that was older than Catarina and had been Henri's, a
 
 Tobias had been to markets. He had been to Leeds Kirkgate Market every Saturday for nine years, and bought his cheese from the same man, and his fish from the same woman, and had considered himself, in a modest way, a connoisseur. He understood within about four minutes in Apt that he had been to a rehearsal.
 
-There were stalls in every street. There were stalls in every square, and down every alley, and up the steps of the church, and spilling into the doorways of shops that had given up and joined in. There was cheese, goat's cheese mostly, in small white rounds and logs and pyramids, some rolled in ash, some in herbs, some wrapped in chestnut leaves and tied with raffia like presents from a very small, very serious aunt. There were olives in tubs, thirty kinds, black and green and violet and wrinkled, in oil and in brine and with garlic and with fennel and with orange peel. There were sausages hanging in garlands. There were the last tomatoes of the year, enormous and lumpen and cracked, and the first mushrooms of the autumn, in baskets, with the earth still on them. There was honey, from lavender and chestnut and thyme and rosemary and something called garrigue, which was apparently a kind of hillside. There was a man selling nothing but garlic, and another selling nothing but knives, and a woman selling nothing but candied fruit, glowing in their trays like stained glass, for which, Madame Fournier said, Apt was famous, and which, she said, nobody in Apt ever ate.
+There were stalls in every street. There were stalls in every square, and down every alley, and up the steps of the church, and spilling into the doorways of shops that had given up and joined in. There was cheese, goat's cheese mostly, in small white rounds and logs and pyramids, some rolled in ash, some in herbs, some wrapped in chestnut leaves and tied with raffia like presents from a very small, very serious aunt. There were olives in tubs, thirty kinds, black and green and violet, with garlic, with fennel, with orange peel. There were sausages hanging in garlands. There were the last tomatoes of the year, enormous and lumpen and cracked, and the first mushrooms of the autumn, in baskets, with the earth still on them. There was honey, from lavender and chestnut and thyme and rosemary and something called garrigue, which was apparently a kind of hillside. There was a man selling nothing but garlic, and another selling nothing but knives, and a woman selling nothing but candied fruit, glowing in their trays like stained glass, for which, Madame Fournier said, Apt was famous, and which, she said, nobody in Apt ever ate.
 
 And everywhere there were people: farmers in caps, and Parisians in linen, and English couples with baskets looking anxious, and old women in black who moved through the crowd like icebreakers, and children, and dogs, and a man with an accordion playing a tune that Tobias was nearly sure was by the Beatles.
 
@@ -1006,7 +1006,7 @@ Catarina said nothing all the way back up the market. She walked very straight, 
 
 At the top of the market, by the church, where the accordion man had moved on from the Beatles to something that might have been Piaf, Catarina stopped.
 
-She stood for a long moment looking at nothing. Then she said, in a voice so low that he had to lean in to hear it over the accordion:
+She stood looking at nothing. Then she said, in a voice so low that he had to lean in to hear it over the accordion:
 
 "Tobias. A heron does not eat bread."
 
@@ -1026,7 +1026,7 @@ Catarina lifted her head and looked at him, and for a moment, in the noise and t
 
 ---
 
-They drove home with the windows open and the market in string bags on the back seat, and Madame Fournier drove the Renault 4 like a tractor through a field that had insulted her, and said nothing until they were back in the valley, at the top of the lane, with the lake below them, flat and grey under a sky that was making up its mind.
+They drove home with the windows open and the market in string bags on the back seat, and Madame Fournier drove the Renault 4 home in second gear, all the way, on principle, and said nothing until they were back in the valley, at the top of the lane, with the lake below them, flat and grey under a sky that was making up its mind.
 
 Then she said, without turning round:
 
@@ -1038,7 +1038,7 @@ That evening she made a stew with the two large eels, and garlic, and the lemons
 
 The third eel, the small one, in its single sheet of newspaper, she put in the cold larder, on a shelf by itself. In the morning, it was still there. She looked at it for some time, and then she put it back.
 
-It was still there on the Monday, when the telephone rang and a voice like cashmere being lowered onto a duke said that it would be grateful if what came out of the water were not read.
+It was still there on the Monday, when the telephone rang.
 
 ## Chapter 14: The Mountain
 
@@ -1062,7 +1062,7 @@ It was a print of a mountain. Tobias thought. He had a feeling that the word for
 
 "Montanha," said Catarina gravely. "Correct. And this?"
 
-It was a print of some bathers, three of them in the foreground. Tobias looked at them for a very long time, at their pale, strange, geometric limbs.
+It was a print of some bathers, three of them in the foreground. Tobias looked at them for some time, at their pale, strange, geometric limbs.
 
 "Banho," he said.
 
@@ -1092,7 +1092,7 @@ In the late afternoon the light turned amber, as it does in Provence, and began 
 
 "No. That was rather the point."
 
-She nodded slowly, leaning against his shoulder, watching the light go. She did not say anything else. She did not need to. It was the kind of silence that two people only arrive at after weeks of trying to find words in two languages, and then finding that the silence was a language too.
+She nodded slowly, leaning against his shoulder, watching the light go, and said nothing else. It was the kind of silence that two people only arrive at after weeks of trying to find words in two languages, and then finding that the silence was a language too.
 
 They did not climb Mont Sainte-Victoire. Catarina said that a thing Cézanne had painted eighty times was worth seeing from the top, and Tobias said it was worth seeing from a café, which was where Cézanne had been sensible enough to sit, and the café won, narrowly, on a vote of one and a half to one.
 
@@ -1176,7 +1176,7 @@ He was eating lobster. He ate it with enormous attention, cracking each claw as 
 
 She photographed the pair of them with her phone, as one photographs a menu.
 
-She could not hear the conversation. She did not need to. A waiter, bringing a second bottle of white, said it for her, because he was French and could not help himself.
+She could not hear the conversation. A waiter, bringing a second bottle of white, supplied the only part of it she needed, because he was French and could not help himself.
 
 "Et la vieille, monsieur Hale?" he asked, pouring. "La 1973? Elle est prête?"
 
@@ -1186,13 +1186,13 @@ She could not hear the conversation. She did not need to. A waiter, bringing a s
 
 "I have waited forty years," said Hale.
 
-Mara watched him lift a claw and smile at it, and thought of eleven thousand four hundred writers sitting at kitchen tables from Dundee to Durban, each of whom had put sixty pounds in an envelope along with a hopeful short story about a lighthouse. She thought of a man on a jetty with an Olivetti. She thought of Elise Marchetti, who had once, according to a letter in the file, refused to cross a puddle because it looked ambitious. She thought of the commandant who had closed the file in April with his very good pen, and who played golf, she happened to know, on Thursday mornings at a club outside Marseille where the membership list was not published.
+Mara watched him lift a claw and smile at it, and thought of eleven thousand four hundred writers sitting at kitchen tables from Dundee to Durban, each of whom had put sixty pounds in an envelope along with a hopeful short story about a dead wife's garden. She thought of a man on a jetty with an Olivetti. She thought of Elise Marchetti, who had once, according to a letter in the file, refused to cross a puddle because it looked ambitious. She thought of the commandant who had closed the file in April with his very good pen, and who played golf, she happened to know, on Thursday mornings at a club outside Marseille where the membership list was not published.
 
 Some of us, thought Mara, eat lobster.
 
 She did not finish the thought. She had never been a woman for speeches. She paid for her coffee, left a generous tip for a waiter who would never know why, and went out into the grey Mediterranean light, and made a telephone call to an old colleague in Lyon that would take some weeks to come to anything at all.
 
-On the lake, that evening, the pelican stood at the end of the jetty and did not fish. Catarina stood at the kitchen window and did not sing. Tobias sat with the pages in a stack, drying at the edges, and did not type. The house had been a place to begin again. It had remembered, overnight, what it was for.
+That evening Catarina stood at the kitchen window and did not sing. Tobias sat with the pages in a stack, drying at the edges, and did not type. In the reeds, even the heron did not fish. The house had been a place to begin again. It had remembered, overnight, what it was for.
 
 # Part Two: The Paper Trail
 
