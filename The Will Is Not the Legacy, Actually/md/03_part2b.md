@@ -41,6 +41,8 @@ A note on the statute itself: the California law that authorises these deeds is 
 - What happens if the person I name is in debt, divorcing, or ill when I die?
 - Who gets a copy, and who knows it exists?
 
+**If it has already happened.** If a parent's deed named one sibling and the will named all of you, talk before anyone sells, borrows against, or moves into the house. The named sibling owns it, but may be willing to share, and the cleanest way to share is usually to sell and divide the proceeds by written agreement, with a tax adviser's view on how the sharing is reported. If the deed was signed when the parent was frail, or after pressure, a lawyer can tell you whether it can be challenged; California's TOD deed law has its own rules and deadlines for contests, so ask promptly.
+
 **What to do.**
 
 - Before you sign any deed, form, or designation, ask: does this match my will?
@@ -89,6 +91,8 @@ For the practical problem of selling the property later, a durable power of atto
 - What is the tax effect now, and what would it be if they inherited instead?
 - If I change my mind, can I undo it, and at what cost?
 
+**If it has already happened.** If you added a child to your title years ago, do not panic and do not sign a new deed in a hurry. Ask a lawyer and a tax adviser together what your options are: leaving it as it is, having the child transfer their share back (which is itself a gift, with its own reporting), or restructuring into a trust. The right answer depends on the value, the child's circumstances, and your health. If the child is already in debt or divorcing, the options narrow, which is one more reason to look now.
+
 **What to do.**
 
 - Do not add a child to the title of your home "to avoid probate" without advice. In California, a TOD deed or a trust usually does the job better.
@@ -134,6 +138,8 @@ The siblings could also have held the cabin through a family limited liability c
 - Who decides on repairs and who pays for them?
 - What happens if one co-owner's share passes to a spouse or child we have never met?
 
+**If it has already happened.** If you now co-own family property with a sibling's widow, ex-spouse, or child, start by finding out what they want. Many new co-owners simply want fair value, and a buy-out at an appraised price, paid over time if necessary, is almost always cheaper than a partition lawsuit. Get an independent appraisal that everyone accepts in advance. Put the terms in writing. And then, before anything else, sign a co-ownership agreement among the people who remain, so it does not happen twice.
+
 **What to do.**
 
 - If you co-own property with anyone other than a spouse, know how the title is held: joint tenancy (survivorship) or tenancy in common (no survivorship).
@@ -173,6 +179,8 @@ They made an uneasy arrangement: George would stay, pay the taxes and repairs, a
 - If one of us dies, where does the survivor live, and on what money?
 - After both of us die, who gets what, and do we both agree?
 - Can the survivor change the plan for the first spouse's half? Do we want that?
+
+**If it has already happened.** If you have inherited half of a house in which the deceased's spouse still lives, the worst move is a quick ultimatum. Get a valuation. Find out what the surviving spouse can afford: a buy-out, a rent, a life-long arrangement with the sale at the end. Put any arrangement in writing, with who pays taxes, insurance, and repairs, and what happens at the next death. A written co-ownership agreement among people who are not family is not a sign of mistrust. It is the only thing that keeps the peace.
 
 **What to do.**
 
@@ -215,6 +223,8 @@ Sophie, who had never wanted to take anything from her brother, told him at the 
 **The plain-language version.** In Germany, close family members have a floor under their inheritance. You can lower what they get, but you cannot take it below the floor without their agreement. Gifts in the last ten years are counted back in, a little less each year. If you want to treat children unequally, even for very good reasons, the time to sort it out is while you are alive and everyone can sit at the same table.
 
 **The California version.** California has no compulsory share for children. A California parent can disinherit an adult child entirely, as long as the will makes the intention clear. That freedom is real, and it is also why California wills are more often challenged on other grounds, such as lack of capacity or undue influence, by the children who were left out. Freedom to disinherit is not freedom from family disputes.
+
+**If it has already happened.** If you are the child who received a lifetime gift and now face a sibling's compulsory share claim, get the facts straight before the argument starts: the date of the gift, its value at the time, the value of the estate, and any evidence of care or payments you made. Ask a lawyer to calculate the claim, including any credit for care, before you negotiate. If you are the sibling with the claim, remember that the deadline matters: German compulsory share claims are generally subject to the regular three-year limitation period, running from the end of the year in which you learned of the death and of the will that excluded you. Neither of you benefits from waiting for the other to blink.
 
 **What to do.**
 

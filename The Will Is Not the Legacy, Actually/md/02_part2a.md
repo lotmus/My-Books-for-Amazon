@@ -36,6 +36,16 @@ The marriage to Ruth was a trigger for a second reason. Many employer plans give
 
 **Why this one hurts so much.** Most estate mistakes cost money. This one costs money and forces two people who have no reason to like each other into a negotiation about a man they both loved at different times. Ruth did not lose only the account. She lost the chance to grieve without a lawyer on speed dial. A one-page form would have bought her that.
 
+**If it has already happened.** If you are the surviving spouse and the form names someone else, do not assume the matter is closed, and do not assume it is open either. Ask the plan administrator, in writing, for a copy of the beneficiary designation on file and the plan's claims procedure; ERISA plans must have one, with deadlines. Find the divorce judgment and any settlement agreement, because their exact words about retirement accounts matter. Then see a lawyer who handles ERISA claims, quickly, before the money is paid out if possible. Some plans will hold a payment briefly when they are told of a dispute; most will not hold it for long.
+
+If you are the former spouse who has been named, you may be legally entitled to the money and still face a claim based on what you agreed in the divorce. Get your own advice before you spend it.
+
+**Questions to ask your plan or your lawyer.**
+
+- Who is named as primary and contingent beneficiary on each of my retirement accounts today?
+- Does my current spouse have rights to this account that I cannot change alone?
+- If I die tomorrow, would the payment go to the person I want, without anyone going to court?
+
 **What to do.**
 
 - List every retirement account you have ever had, including the forgotten ones from old employers. Appendix D has a beneficiary audit for exactly this.
@@ -69,6 +79,14 @@ Second, a will. Many German couples with children use a joint will in which each
 **The plain-language version of the German rules.** Without a will, German law makes the family a team of co-owners of everything the deceased left, called a community of heirs (*Erbengemeinschaft*). Nobody owns a particular thing; everyone owns a share of everything, and important decisions need agreement. When some of the co-owners are children, a parent acts for them, but only within limits the family court supervises. That is not a punishment. It is the system's way of making sure that a widow who is struggling, or a widower who remarries, does not spend the children's inheritance on the household by accident. It is also, from the inside, exhausting.
 
 **What it cost.** Karin estimated later that the correspondence, the advice, and the delay cost her about three months of evenings and a modest fee. The real cost was something else. Every time she wanted to make a decision about the house in that first year, she had to ask whether it was hers to make. Thomas had wanted to protect her. One word on a form, "Karin" instead of "my heirs," would have done it.
+
+**If it has already happened.** If a policy names "my heirs" or "my estate" and there are minor children, the surviving parent should get advice early, before spending any of the money, even on obviously sensible things like the mortgage. Ask the insurer exactly whom it will pay and what documents it needs; it will usually want a certificate of inheritance (*Erbschein*) or a certified copy of a notarial will with the opening record. Ask the family court, or a lawyer who knows it, which transactions involving the children's share need approval. Keep a separate account for the children's money, and keep receipts. Courts are far friendlier to a parent who arrives with a clear record than to one who arrives with explanations.
+
+**Questions to ask your insurer.**
+
+- Whom will you pay if I die tomorrow, and on what documents?
+- Can I name a primary and a contingent beneficiary, and can I change them online?
+- If I name my children, what happens while they are minors?
 
 **What to do.**
 
@@ -104,6 +122,10 @@ If Margaret had also wanted the accounts to skip probate at death, she could hav
 **The German version.** In Germany, joint accounts between spouses are common, and joint accounts with adult children exist too. Whether the money in a joint account belongs to the survivor after a death is a question of the bank contract and of what the account holders agreed between themselves, and it can be argued about in the same way. Separately, any amount that counts as a gift to the child may be added back when a disinherited sibling calculates a compulsory share (BGB § 2325). The safe tool for help with bills is the same: a power of attorney (*Vollmacht*), ideally on the bank's own form or a lasting power of attorney (Chapter 20), which gives authority without ownership.
 
 **A conversation worth having.** The deeper failure here was silence. Margaret never told her sons what she had done, because she did not think she had done anything. Ellen never told her brothers, because she thought of herself as the one who paid the bills. A ten-minute family phone call, "I've given Ellen access to my accounts so she can help; the will still divides everything three ways," would have exposed the problem while Margaret could still fix it.
+
+**If it has already happened.** If your parent has died and one sibling was a joint owner of accounts that the will meant to share, start with a calm conversation, not a lawyer's letter. The joint owner may be as surprised as you are. Gather the facts: the account-opening forms, the dates, who paid in, who withdrew, any notes or emails in which the parent said why the sibling was added. If the joint owner agrees the money was meant to be shared, the simplest course is a written agreement among the siblings, with advice on any gift tax reporting the sharing sibling may need to do. If there is no agreement, a lawyer can tell you whether the evidence is likely to meet the clear-and-convincing standard. Often it does not, and knowing that early saves years.
+
+If you are the sibling on the account, remember that what you do now will define your family for decades. The law may say the money is yours. Your brothers will remember what you did with it.
 
 **What to do.**
 
@@ -145,6 +167,14 @@ Third, a line on the Family List. If Lena had known the IRA existed, the custodi
 
 **The plain-language version.** Think of every account with a beneficiary form as a separate little will, kept in a drawer at the institution. It does what it says on the day you die, with no regard for anything else. If the person it names has died, it does whatever the institution's small print says, which is usually "go to court."
 
+**If it has already happened.** If you are the heir of someone who held accounts in another country, start by finding out exactly what exists: statements, tax forms, old emails, a forwarding address. Contact each institution's estate or bereavement department, not general customer service, and ask for its written list of requirements for a foreign estate. Ask early whether it accepts a European Certificate of Succession or a German certificate of inheritance with an apostille and certified translation. Keep every letter. Engage a tax adviser who knows both countries before any money moves, because the choice of how and when to take a distribution can change the tax.
+
+**Questions to ask each institution, while you are alive.**
+
+- Who is named on this account, and is there a contingent?
+- What would my heirs need to send you if I died while living abroad?
+- Can I update my contact details and beneficiaries online, from another country?
+
 **What to do.**
 
 - Name a contingent beneficiary on every form. Every one.
@@ -180,6 +210,14 @@ On the money, there were several better options.
 - **A named adult beneficiary with a moral understanding.** Some people name the intended guardian directly as beneficiary, trusting them to use the money for the child. This avoids court but gives the money to the adult outright, exposed to that adult's creditors, divorce, and honesty. It works only with complete trust, and even then it can go wrong if the adult dies.
 
 **The plain-language version.** A child needs two kinds of grown-up after a parent dies: one to raise them and one to look after their money. They can be the same person. Both should be named in writing, by the parent, before anyone has to ask a judge.
+
+**If it has already happened.** If a parent has died without naming a guardian, the relative who is caring for the child should contact the court's self-help centre or a family lawyer immediately, because temporary guardianship can often be arranged quickly while the full process runs. Gather anything that shows what the parent wanted: emails, texts, letters, the names of friends who heard the parent say it. Courts listen. For the money, tell the insurer that the beneficiary is a minor and ask exactly what it requires. Do not accept the money personally on the child's behalf unless a lawyer has told you that you may; it may be the child's, held in trust, and you will have to account for it.
+
+**Questions to ask yourself if you are a parent.**
+
+- If both of us died tomorrow, who would raise our children? Have we asked them?
+- Who would manage the money, and is that the same person?
+- At what age should our children receive what is left, and do our documents say so?
 
 **What to do.**
 

@@ -42,6 +42,8 @@ None of this replaces advice. It does make the difference between a document a c
 
 **The California version.** In California a typed will can be perfectly valid, but only if it is witnessed by two people (Probate Code § 6110). Uwe's document, typed and signed but unwitnessed, would have failed in California too, unless the family could show by clear and convincing evidence that he intended it as his will, which California allows courts to accept in some cases. California also gives no intestate rights to an unmarried partner who is not a registered domestic partner. Both countries agree: if you are not married, you must write it down, properly.
 
+**If it has already happened.** If you are the unmarried partner of someone who has died with an invalid will, or none, get advice immediately about your own position: whether you have any rights in the home under a tenancy or a contract, whether any accounts were joint, whether life insurance names you. Ask the heirs, early and in writing, for time. Many heirs will agree to a period of months if asked respectfully; few agree when they first hear from a lawyer.
+
 **What to do.**
 
 - In Germany: handwrite every word, or see a notary. Never type and sign.
@@ -84,6 +86,8 @@ Alternatively, she could have written the whole will by hand, from "This is my w
 
 That is all. Ten minutes, two neighbours, one pen. It is the most underused free legal document in the state.
 
+**If it has already happened.** If you find a parent's will on a printed form, unwitnessed, do not throw it away and do not try to "fix" it by adding witnesses afterwards; that can make things worse. Take the original, untouched, to a probate lawyer. Whoever has it must deliver it to the court within thirty days of learning of the death in any case (§ 8200). The lawyer can tell you whether it is likely to stand as a holographic will, and whether the family members who would inherit without it are willing to honour it voluntarily. Families often are, when they understand what the parent wanted and what a court fight would cost.
+
 **What to do.**
 
 - Use the California statutory will form or a lawyer-drafted will, and sign it in front of two adult witnesses who are present together.
@@ -114,6 +118,16 @@ The more subtle prevention would have been a conversation. Frank could have told
 **Choosing witnesses well.** A good witness is an adult who receives nothing under the will, is not married or closely related to anyone who does, knows you slightly or not at all, and is likely to be findable for years. A colleague from another department, a neighbour two doors down, staff at a lawyer's office. Lawyers usually include an attestation clause: a short paragraph above the witnesses' signatures in which they confirm that the testator declared the document to be their will and signed it in their presence. It is useful evidence if questions arise later, and it can spare the witnesses from being tracked down years afterwards to remember an ordinary afternoon.
 
 **The German version.** German private wills need no witnesses at all; the handwriting does that job. For notarial wills, the law excludes notaries and certain persons from taking part in recording a will that benefits them or their relatives. The underlying idea is the same as California's: the people who make the document official should not be the people who profit from it.
+
+**What the paperwork should have looked like.** A will that leaves a specific item to someone who helped the testator is perfectly normal. What protects it is the evidence around it. Frank's lawyer, had he used one, would have met Frank alone, asked why he wanted Kevin to have the car, and written down the answer. The will itself might have said, "I give my 1967 convertible to my son-in-law Kevin, who spent four years helping me restore it; I make this gift with love for both my daughters, who will share the rest of my estate equally." The signing would have taken place at the lawyer's office, with two staff members as witnesses, and Kevin at home. None of that costs much. All of it makes a challenge look unpromising.
+
+**If it has already happened.** If you are named in a will you witnessed, tell the executor and get your own advice. Gather the evidence that shows the testator's wish was genuinely theirs: messages, photographs, conversations other people heard, notes from anyone who drafted the will. If you are the family member who suspects pressure, ask yourself honestly what you would gain from a challenge, after costs, and whether the testator's reasons, once you hear them, might be ones you can live with.
+
+**Questions to ask before anyone signs.**
+
+- Does either witness, or the spouse of either witness, receive anything under this will?
+- Will both witnesses be reachable in ten years?
+- Is there anyone who might be surprised by a gift? Have I told them?
 
 **What to do.**
 
@@ -149,6 +163,16 @@ A notarial will would have been registered in the same way.
 **How official custody works in practice.** In Germany, you take your handwritten will to the local court (*Amtsgericht*) of your choice, usually the one where you live. The court puts it in a sealed envelope, records it, registers it in the Central Register of Wills, and gives you a deposit receipt. You can take a handwritten will back out of custody at any time; for a handwritten will, taking it back does not revoke it, but for a notarial will, taking it back out of official custody counts as revoking it (BGB § 2256), which surprises people. If you want to change a will in custody, the simplest course is to write a new one and deposit that as well; a later will overrides an earlier one to the extent they conflict.
 
 **On the Family List.** One line: "Original will: in official custody at the local court in Passau, deposit receipt in binder, section 1." Or, in California: "Original will: with our lawyer at [office], copy in binder."
+
+**What it cost.** The cost in money was small; in Germany, an estate without a will is often cheaper to settle than one with a disputed will. The cost to Lea was everything Elisabeth had meant her to have, and the knowledge that her grandmother had tried. The sons, who would both have honoured the will if it had been found, were left to decide on their own how generous to be, which is a burden nobody should inherit. One of them still wonders whether the folder in the cellar was really the will at all.
+
+**If it has already happened.** If you believe a will existed but cannot find it, search thoroughly and systematically: desks, safes, files, books, the deceased's car, safe deposit boxes, the lawyer or notary the person used, and the local probate court, which can check whether a will is held in official custody. In Germany, the court will also learn from the Central Register of Wills whether any registered will exists. Write down who saw what, when, and what they remember it saying, as soon as possible, while memories are fresh. Look for copies, drafts, photographs, or letters that mention it. Then ask a lawyer whether that evidence is enough. Sometimes it is.
+
+**Questions to ask now.**
+
+- Where exactly is the original of my will?
+- Who knows where it is?
+- Would it survive a flood, a fire, or a well-meaning relative clearing the house?
 
 **What to do.**
 
@@ -187,6 +211,8 @@ She contested. The case turned on the evidence of Victor's capacity and on wheth
 Undue influence is a different question. A person can have full capacity and still be pressured into a will that is not really theirs. California's courts look at the whole picture: how vulnerable the person was, how much authority and access the influencer had, what the influencer actually did, and whether the result was fair. Two weeks after a stroke, a new will drafted at home, with the main beneficiary arranging the meeting and sitting in on it, ticks too many of those boxes to ignore. A lawyer who sees those boxes ticked should slow down.
 
 **The German version.** German law has no exact equivalent, but wills often contain a so-called *Pflichtteilsstrafklausel* in a couple's joint will: a child who claims their compulsory share after the first parent's death is limited to the compulsory share after the second death too. It deters for the same reason as the California clause, and fails for the same reason: if the child has more to gain from claiming than from waiting, the clause will not stop them.
+
+**If it has already happened.** If you are the child left with a small gift and a no-contest clause, do not decide in anger. Get a lawyer's view on whether you have probable cause, and on what you would realistically recover after costs. If you are the main beneficiary of a will signed in doubtful circumstances, take a challenge seriously from the first letter, and consider early mediation. Will contests are often settled in the end; settling them early saves the most.
 
 **What to do.**
 

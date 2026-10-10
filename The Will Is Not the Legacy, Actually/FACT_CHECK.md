@@ -72,3 +72,6 @@
 - BGB 2256: return of notarial will from official custody = revocation; handwritten will withdrawn from 2248 custody is not revoked. 1925 second order: parents and their descendants.
 - CA Prob 4129 springing POA: principal may designate persons whose written declaration under penalty of perjury conclusively establishes the event. 4780 POLST (signed by patient/decisionmaker and physician/NP/PA; not an AHCD).
 - BGB 1814 Betreuer appointment; 1827 Patientenverfügung (since 2023); BGH XII ZB 61/16 (6 Jul 2016): "keine lebenserhaltenden Maßnahmen" alone not specific enough.
+- BGH III ZR 183/17 (12 Jul 2018): social network user contract passes to heirs (§1922); heirs may demand full account access incl. messages.
+- BGB 2287 applied by analogy to binding joint-will provisions: final heir can reclaim lifetime gifts made by survivor with intent to impair, absent legitimate lifetime self-interest; claim arises at survivor's death.
+- Pflichtteil claims: regular 3-year limitation (BGB 195), from end of year in which claimant learned of death and of the excluding disposition (199; 2332 since 2010 covers only claims vs donee).
