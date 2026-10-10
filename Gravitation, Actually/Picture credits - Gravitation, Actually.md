@@ -1,6 +1,6 @@
 # Picture credits: Gravitation, Actually
 
-Recorded 2026-10-10. Every picture in `Gravitation, Actually - Rev6.docx` is listed here.
+Recorded 2026-10-10. Every picture in `Gravitation, Actually - Rev7.docx` is listed here (Rev7 added four diagrams on 2026-10-10).
 
 ## Real images (credited, licence checked)
 
@@ -19,6 +19,13 @@ Both were resized (and M87 cropped) for print at 300 dpi. Licence wording was ch
 - GPS clock budget (Chapter 3)
 - Gravitational lensing (Chapter 6, replaces the murky galaxies picture)
 - L-shaped LIGO layout (Chapter 8, replaces the wrong picture)
+
+Added in Rev7 (`diagrams2.py`). These illustrate teaching ideas from Taylor & Wheeler, *Spacetime Physics* (1992), Taylor, Wheeler & Bertschinger, *Exploring Black Holes*, and Misner, Thorne & Wheeler, *Gravitation* (1973). They are drawn new and do not copy any figure from those books:
+
+- Two surveyors / two observers (Chapter 2)
+- Gradient as a stack of clock-rate surfaces (Chapter 4)
+- Embedding diagram of the Schwarzschild space slice, after Flamm 1916 (Chapter 7)
+- Kruskal–Szekeres map (Chapter 7)
 
 ## Illustrations (made for this book, not photographs)
 
