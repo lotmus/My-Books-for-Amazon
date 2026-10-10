@@ -1,0 +1,11 @@
+# Bavarian Cooking: git snapshot while Claude is still working on it (2026-10-10).
+# Tracked: docx masters, md/txt sources, notes. Everything else stays local only.
+*.epub
+*.pdf
+# working folders: build scripts/caches, photo downloads, original sources (incl. the 157 MB original-copy docx)
+build/
+source/
+photos/*
+!photos/*.md
+*.jpg
+*.png
