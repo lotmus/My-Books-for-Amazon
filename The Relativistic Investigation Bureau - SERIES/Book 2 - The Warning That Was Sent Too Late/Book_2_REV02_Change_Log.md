@@ -25,3 +25,56 @@ Base: `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV01.docx` (REV01 = the DRAFT 
 - 48 bookmarks and 33 internal links, all resolved. The book renders to 122 Letter pages in LibreOffice.
 - No Trump references.
 - The byline is unchanged: "Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)".
+
+---
+
+# REV02 pass 2 (2026-10-09, Lothar's decisions)
+
+REV02 is the master. Before this pass, the integration-pass REV02 docx was backed up to `D:\bak\2026-10-09 RIB2 integrate\REV02_before_pass2\`.
+
+## Retired files
+
+Moved, with SHA-256 checked, to `D:\bak\2026-10-09 RIB2 integrate\retired\`:
+
+- `The_Warning_That_Was_Sent_Too_Late_BOOK_2_DRAFT.docx`
+- `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV01.docx`
+- `scripts/manuscript_text.txt`. This was an old export: compared with the docx, it holds nothing the docx lacks, only the earlier wording and one duplicated text message that the docx had already removed. Note that `scripts/build_book2_docx.py` reads this file, so that script is now obsolete. The docx is edited directly.
+
+The move is recorded in git on `book-2-lectures-after-qed` (6dfcb48) and on `main` (8f186e3).
+
+## Line edit (whole book, with chapters 5-12 first)
+
+201 sentence-level edits, each replacing one exact phrase. There are no plot changes. Rates are per 10,000 words of story, before → after:
+
+| Phrase | Before | After |
+|---|---|---|
+| "the way" | 72 (14.8) | 23 (4.7) |
+| "which was" | 53 (10.9) | 22 (4.5) |
+| "very" | 66 (13.5) | 23 (4.7) |
+| "looked at" | 123 (25.2) | 71 (14.6) |
+| "of a man who" | 19 | 5 |
+| "the expression of" | 8 | 1 |
+
+Kept on purpose:
+- "nobody" (95). Most uses are the book's theme: the sender is nobody, and nobody boarded.
+- The Ch2/Ch20 callback "at the speed of a man who has never once been sure he is in the right building".
+- "Herbert did not look at it. He looked at the table." (Ch18).
+
+Story words: 48,807 → 48,516.
+
+## Front matter
+
+- **How to Read This Book** (new, Heading 1, with a TOC link) goes before the Prologue, in the same pattern as Book 1. It includes the reading note that **Lesson 6 is the capstone**: Lessons 1-5 cover the Prologue and Chapters 1-9, and from Chapter 10 to the Epilogue every link points to Lesson 6 on purpose. Lesson 6 was not split.
+- **Author's Note** (new, Heading 2, inside How to Read, as in Book 1). It sets out what is real and what is invented, and gives the Sud Expresso facts: it ran overnight from Hendaye/Irún across Spain to Lisbon, entered Portugal at Vilar Formoso, and was suspended on 17 March 2020. Portugal was on Spain's time from September 1992 to 1996.
+
+## Checked
+
+- 50 bookmarks and 52 internal links, all resolved, with no duplicate IDs.
+- The book renders to 124 Letter pages.
+- Total words: 52,935.
+- The byline is unchanged. No Trump references.
+
+## New notes
+
+- `notes/Book 3 seeds.md`: the doors, the horn and the night-train stop, with their sources and the series rules each would have to obey.
+- `KDP.md`: description, 7 keywords, categories and the fields still open.
