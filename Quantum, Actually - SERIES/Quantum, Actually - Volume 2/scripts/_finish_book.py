@@ -50,12 +50,18 @@ ALSO_IN_SERIES = [
 # Back matter: the canonical "Also by Lothar J. Musiol" list (same in every book; see
 # notes/ALSO_BY - canonical list.md at the repo root). Titles as on each master's title page.
 ALSO_BY_HEADING = "Also by Lothar J. Musiol"
+# Rebuilt 10 Oct 2026 from notes/ALSO_BY - canonical list.md. The book itself is left out; Kevin Drew
+# Peters books never appear on a Lothar J. Musiol page.
 ALSO_BY = [
     ('Physics, Actually', [
         'Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity',
         'Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime',
         'Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge',
         'Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere',
+    ]),
+    ('More Actually Books', [
+        'Gravitation, Actually: A Short Book on Gravity',
+        'The Universe, Actually: What Humanity Currently Understands About Reality',
     ]),
     ('Math, Actually', [
         'Math, Actually, Volume 1: From Arithmetic to Calculus',
@@ -65,7 +71,6 @@ ALSO_BY = [
     ]),
     ('Quantum, Actually', [
         'Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire',
-        'Quantum, Actually, Volume 2: A QED Course',
     ]),
     ('Science Sparks', [
         'Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights',
@@ -87,15 +92,15 @@ ALSO_BY = [
         "The Dolphins' View of History",
     ]),
     ('Fiction', [
-        "The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1)",
-        'The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2)',
-        'Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1)',
-        'The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2)',
-        'Protocol Flamingo (The Invasion Storybooks, Book 1), as George Herbert Fontaine',
+        "The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)",
+        'The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)',
+        "Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)",
+        "The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)",
+        'Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine',
+        'In Love with Murder, Actually: A Comic Mystery, Lothar J. Musiol writing as Romuald Livingston',
     ]),
-    ('How-To', [
-        'Your First Book That Sells',
-        'Your First YouTube Channel That Rocks',
+    ('In German', [
+        'Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?',
     ]),
 ]
 
