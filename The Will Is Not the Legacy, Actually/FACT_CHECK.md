@@ -52,3 +52,8 @@
 - BGB 1782 parents name Vormund by will; 1783 court may pass over only on listed grounds. 2233 minors: only notary. 2087 heir vs legacy; 2174 legacy claim; 2048 Teilungsanordnung. 2267 joint holographic: one writes, both sign. 2296 notarial revocation. LPartG 10(4) partners joint will.
 - BGB 331: benefit to third party on death acquired at death (life insurance etc.). ErbStG 14: gifts aggregated over 10 years.
 - BGH XI ZR 401/12 (8.10.2013): bank AGB requiring Erbschein invalid; BGH XI ZR 440/15 (5.4.2016): opened handwritten will can suffice if unambiguous.
+- CA unclaimed property: bank deposits reported to State Controller after >3 years inactivity; claimable (sco.ca.gov/upd_about_unclaimed_property.html). BGB 1936: state inherits if no relative/spouse/partner.
+- CA Penal Code 632: recording confidential communication requires consent of all parties.
+- StGB 201: unauthorised recording of non-public spoken word punishable. KUG 22: publishing a person's image needs consent; for 10 years after death, consent of relatives (spouse/partner & children, else parents). KUG 23 exceptions.
+- GDPR Art 2(2)(c): purely personal/household activity excluded; publication to the public is not household.
+- CA Prob 876: content disclosure if user consented or court directs; 877 catalogue only.
