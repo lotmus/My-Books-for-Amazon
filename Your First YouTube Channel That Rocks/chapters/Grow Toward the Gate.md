@@ -16,15 +16,13 @@ Work the numbers once, with your own average view duration from chapter 7.
 
 > Worked example. These are planning numbers, not a forecast. 4,000 hours is 240,000 minutes. If the average long-form view on your channel lasts 4 minutes, that is 60,000 views in a year, about 165 a day, every day. A channel that applies on or after 1 February 2027 needs 8,000 hours: 120,000 views at the same 4 minutes, about 330 a day. Raise the average view to 6 minutes and the 8,000-hour bar needs 80,000 views, about 220 a day. On the Shorts route, 10 million qualified views in 90 days is about 111,000 a day, and the 2027 route of 20 million is about 222,000 a day.
 
-Every input in that arithmetic — which hour bar applies, where the Shorts floor sits — is a number YouTube can move without warning you first.
-
 > **Thresholds change.** Before planning around any monetization target, check the live Earn tab in YouTube Studio and YouTube’s official Partner Program eligibility page for your country. This book reflects information checked in October 2026.
 
 Two lessons sit inside that arithmetic.
 
 First, view duration is a lever as strong as views. Moving the average view from 4 minutes to 6 cuts the views needed by a third. That is chapter 4’s work — the opening, the pace, the hard step slowed down — and it costs no reach at all.
 
-Second, the routes are different sizes. In the example above, the long-form route needs 165 to 330 views a day. The 2027 Shorts route needs about 222,000. That is not a rule against Shorts. It is a reason to choose the route on purpose.
+Second, the routes are different sizes. Most new channels can picture 220 long-form views a day sooner than 222,000 Shorts views. That is not a rule against Shorts. It is a reason to choose the route on purpose.
 
 ## II. Pick a route, and keep the counters separate
 
@@ -32,7 +30,7 @@ Long-form means public videos whose hours accumulate. Shorts means public Shorts
 
 If the route is long-form, a Short’s job is to send a viewer to a long video: the related-video link and the spoken pointer from chapter 2. If the route is Shorts, the long videos still help: they hold the viewers who want more, and they are where the hours accumulate in case the route changes.
 
-Shorts money also has its own floor from 1 February 2027 (chapter 11, §V). For a channel below that floor, that makes long-form the near-term income route either way.
+Shorts money also has its own floor from 1 February 2027 (chapter 11, §V). For most new channels, that makes long-form the near-term income route either way.
 
 ## III. Ask for the subscription with a reason
 

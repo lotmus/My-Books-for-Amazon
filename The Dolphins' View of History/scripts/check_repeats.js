@@ -26,7 +26,6 @@ const ALLOWED = [
 ];
 const ALLOWED_EXACT = [
   "50 000 years",                                           // Timeline label shared by two events
-  "africa is rich",                                         // deliberate opening/closing bookend, The Richness Moved
 ];
 
 const ABBR = /\b(Mr|Mrs|Ms|Dr|St|Jr|Sr|vs|etc|No|Fig|Vol|Ch|ed|eds|cf|ca|approx|Mt|Gen|Col|Lt|Capt|Sgt|Rev|Prof|U\.S|U\.K|e\.g|i\.e)\./g;

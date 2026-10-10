@@ -92,7 +92,7 @@ Das deutsche Vereinswesen gibt es in den USA kaum; stattdessen findest du offene
 - *Community Colleges* (zweijährige, lokal getragene Hochschulen) mit Weiterbildungskursen, etwa Kochen, Fotografie oder Sprachen, auch ohne Abschluss.
 - Toastmasters-Clubs, in denen du das freie Sprechen auf Englisch übst.
 
-**Kinder als Türöffner.** Wie im Abschnitt „Mit Kindern“ beschrieben, ist das oft der schnellste Zugang: Trainingszeiten, Elternabende und die Autoschlange beim Abholen (*Carpool Line*) bringen dieselben Gesichter so regelmäßig zusammen, dass Small Talk fast von selbst zur Bekanntschaft wird (Kapitel 36 und 38).
+**Kinder als Türöffner.** Wie im Abschnitt „Mit Kindern" beschrieben, ist das oft der schnellste Zugang: Trainingszeiten, Elternabende und die Autoschlange beim Abholen (*Carpool Line*) bringen dieselben Gesichter so regelmäßig zusammen, dass Small Talk fast von selbst zur Bekanntschaft wird (Kapitel 36 und 38).
 
 > **Spartipp:** Bibliotheksprogramme, Laufgruppen und Wanderungen kosten meist nichts, kommunale Kurse und Ligen wenig, und ein Kaffee zu zweit ein paar Dollar. Für den Aufbau eines Freundeskreises brauchst du kein Restaurantbudget.
 

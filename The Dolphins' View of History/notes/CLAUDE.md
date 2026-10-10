@@ -18,9 +18,7 @@ touching, say so and wait to be asked — don't go do it.
 
 - **Two parallel content tracks exist and must be kept in sync by hand:**
   1. Numbered `.md` chapter files in `chapters/` (`00 - Prologue...md`
-     through `44 - ...md` as of 2026-10-05 — the count keeps shifting as
-     chapters get inserted; check `ls chapters/` rather than trust a number
-     written here — plus `Epilogue...md` and `Further Reading...md`,
+     through `43 - ...md`, plus `Epilogue...md` and `Further Reading...md`,
      moved there from the top level on 2026-09-27 to sit next to their
      `.docx` counterparts) and the concatenated
      `notes/The Dolphins' View of History - Complete Manuscript.md` — the
@@ -82,20 +80,10 @@ touching, say so and wait to be asked — don't go do it.
     then two new eras, "The Near Future" and "The Far Future," extending it
     out to the heat death of the universe — sourced from Wikipedia's
     Timeline of the far future, 3rd millennium, and Anthropocene articles.
-  - The "Half the World, All the Time" chapter does NOT exist as a standalone
-    chapter (re-fixed 2026-10-05, after an earlier fix to the same effect did
-    not survive a subsequent restructuring): it used to sit between the
-    thesis-summarizing Long View chapter and the Epilogue, a catch-up chapter
-    whose own text admits it's a catch-up chapter, breaking the book's
-    momentum right before its climax. Its four timelines (population,
-    suffrage, the UDHR, the history of zero/algebra/calculus) are folded
-    into the Long View chapter's body and verdict, in both tracks and
-    `_generate.js`; the Epilogue follows the Long View directly. Do not
-    re-add it as a standalone chapter without re-solving this placement
-    problem first — `scripts/check_repeats.js` will catch the reintroduced
-    duplication if someone does. The Prologue's ancestor passages
-    (Pakicetus/Ambulocetus/the hippo connection, the primate lineage) are
-    unaffected and remain in sync across both tracks.
+  - The "Half the World, All the Time" chapter (file 43) and the Prologue's ancestor
+    passages (Pakicetus/Ambulocetus/the hippo connection, the primate
+    lineage) are confirmed in sync across both tracks and rebuilt as of
+    2026-09-27; `chapters/*.docx` is current for every chapter, including that one.
 - Back matter "Notes and Sources" (2026-10-03) sits between the physics
     appendix and Further Reading, in `_generate.js` (`const notes`, built with
     the `note(supports, citation)` helper), in `chapters/Notes and Sources.md`

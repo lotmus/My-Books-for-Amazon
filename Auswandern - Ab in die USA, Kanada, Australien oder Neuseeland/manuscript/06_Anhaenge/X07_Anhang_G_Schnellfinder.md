@@ -99,7 +99,7 @@ Du hast eine konkrete Frage oder steckst mitten in einer Situation und willst sc
 | Warum lädt mich niemand spontan nach Feierabend ein? | Kapitel 32 |
 | Ich fühle mich seit Monaten fremd und unglücklich – ist das normal? | Kapitel 33 |
 | An wen wende ich mich, wenn es mir psychisch richtig schlecht geht? | Kapitel 33 |
-| Muss ich für den Job einen Anzug kaufen? | Kapitel 34 |
+| Muss ich für den Job einen Anzug kaufen? | Kulturunterschiede, Kapitel 31. Ein eigenes Kleidungskapitel ist kein Ziel |
 | Wo kaufe ich günstig Lebensmittel ein? | Kapitel 35 |
 | Ab welchem Alter darf ich in den USA Alkohol kaufen? | Kapitel 35 |
 
@@ -169,7 +169,6 @@ Für Kanada reicht ein kompakterer Überblick als für die USA. Die folgenden ru
 ### Kanada: Alltag und Kinder
 | Deine Frage oder Situation | Mehr dazu |
 |---|---|
-| Was ziehe ich im kanadischen Büro an, und wie überlebe ich den Winter kleidungsmäßig? | Kapitel 34 (USA-Teil, länderübergreifend) |
 | Warum entschuldigt sich in Kanada jeder ständig, auch wenn er gar nichts falsch gemacht hat? | Kanada: Alltagskultur |
 | Muss meine Familie in Québec zwingend Französisch lernen? | Kanada: Alltagskultur |
 | Wie finde ich in Kanada schnell Anschluss und Freunde? | Kanada: Freunde, Kulturschock |
@@ -226,7 +225,6 @@ Für Kanada reicht ein kompakterer Überblick als für die USA. Die folgenden ru
 ### Australien: Alltag und Kinder
 | Deine Frage oder Situation | Mehr dazu |
 |---|---|
-| Was bedeutet „No Hat, No Play“, und wie wichtig ist Sonnenschutz-Kleidung wirklich? | Kapitel 34 (USA-Teil, länderübergreifend) |
 | Warum nennt mich hier jeder „mate“, und heißt das schon, dass wir befreundet sind? | Australien: Alltagskultur |
 | Wie unterscheidet sich der australische Kommunikationsstil vom deutschen, direkten Ton? | Australien: Alltagskultur |
 | Wie finde ich in Australien schnell Anschluss und Freunde? | Australien: Freunde, Kulturschock |
@@ -283,7 +281,6 @@ Für Kanada reicht ein kompakterer Überblick als für die USA. Die folgenden ru
 ### Neuseeland: Alltag und Kinder
 | Deine Frage oder Situation | Mehr dazu |
 |---|---|
-| Was sind „togs“ und „jandals“, und muss mein Kind eine Schuluniform tragen? | Kapitel 34 (USA-Teil, länderübergreifend) |
 | Wie informell ist der Umgangston in Neuseeland wirklich, und darf ich meinen Chef beim Vornamen nennen? | Neuseeland: Alltagskultur |
 | Was muss ich über Te Ao Māori und Begrüßungen wie „Kia ora“ wissen? | Neuseeland: Alltagskultur |
 | Wie finde ich in Neuseeland schnell Anschluss und Freunde? | Neuseeland: Freunde, Kulturschock |

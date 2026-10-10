@@ -61,7 +61,7 @@ Diese Gelassenheit zeigt sich auch im Umgang mit den klimatischen Risiken des La
 
 ### Kleidungsstil und die entspannte Bürokratie
 
-Formelle Kleidung ist im australischen Alltag eher die Ausnahme als die Regel. In vielen Büros gilt „business casual“ auch dort, wo in Deutschland ein Anzug erwartet würde, und Flip-Flops – in Australien „thongs“ genannt, ein Wort, das anderswo etwas ganz anderes bedeutet und für manche Verwechslung sorgt – sind selbst beim Einkaufen oder auf dem Weg zur Bank ein völlig normaler Anblick. Wer sich für den ersten Behördengang bewusst „ordentlich“ anzieht, fällt eher auf, als dass es honoriert wird. Mehr zu Sonnenschutz-Kleidung, Schuluniformen und Größenumrechnung: Kapitel 34 im USA-Teil, das Kleidung länderübergreifend behandelt.
+Formelle Kleidung ist im australischen Alltag eher die Ausnahme als die Regel. In vielen Büros gilt „business casual“ auch dort, wo in Deutschland ein Anzug erwartet würde, und Flip-Flops – in Australien „thongs“ genannt, ein Wort, das anderswo etwas ganz anderes bedeutet und für manche Verwechslung sorgt – sind selbst beim Einkaufen oder auf dem Weg zur Bank ein völlig normaler Anblick. Wer sich für den ersten Behördengang bewusst „ordentlich“ anzieht, fällt eher auf, als dass es honoriert wird.
 
 Dieselbe Gelassenheit gilt oft für Termine: Ein Handwerker mit einem angekündigten Zeitfenster von „irgendwann zwischen 9 und 13 Uhr“ ist keine Ausnahme, sondern eher die Regel, und Behördengänge dauern gefühlt einen Tick länger, als die Ankündigung vermuten ließ – beides wird mit derselben „she’ll be right“-Gelassenheit hingenommen, mit der auch sonst auf Verzögerungen reagiert wird.
 

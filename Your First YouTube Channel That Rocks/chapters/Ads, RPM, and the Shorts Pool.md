@@ -49,9 +49,7 @@ The analytics page names three reasons CPM moves, and they explain most of what 
 - **Where the viewers are.** Advertisers choose geographies, and ad markets differ by country. A shift in where your views come from shifts CPM.
 - **Which ad formats are available.** Different formats carry different prices.
 
-To those, add the ones you control: whether the video is advertiser-friendly (chapter 10), whether it is long enough for mid-rolls, and whether viewers stay long enough to see a second break. The subject matters too, through which advertisers want that audience. That is why chapter 1 warned against choosing a subject only for its rate. You cannot hold an audience you do not want to make videos for.
-
-Advertiser demand moves the price per view. It does not change the arithmetic that turns a view into a payment, which is worth walking through once.
+To those, add the ones you control: whether the video is advertiser-friendly (chapter 10), whether it is long enough for mid-rolls, and whether viewers stay long enough to see a second break. The subject matters too, through which advertisers want that audience. That is why chapter 1 warned against choosing a subject only for its rate.
 
 > Worked example. Invented numbers, to show the arithmetic only. A long-form channel has 100,000 views in a month. 60% of the views show at least one ad, so there are 60,000 monetized playbacks, carrying 80,000 ad impressions. Advertisers pay a CPM of $10, so they spend $800. The channel’s 55% is $440. Premium viewers add $60 from the subscription pool. Revenue: $500 on 100,000 views, an RPM of $5. Now the same channel’s next video passes eight minutes with two honest breakpoints, and the impressions per monetized playback rise from 1.33 to 1.6: 96,000 impressions, $960 of advertiser spend, $528 of ad revenue for the channel, $588 with the same Premium share: an RPM of about $5.90. Same views. The difference is length the job needed and breaks placed where the viewer was already pausing.
 
@@ -77,7 +75,7 @@ Three rules matter for planning.
 
 The same page adds one 2027 change: from 1 February 2027, Shorts ads targeted to groups of five or fewer channels earn direct revenue, with the creator keeping 45% of that ad’s net revenue, on top of the Creator Pool.
 
-For a channel below 10 million Shorts views every 90 days, the practical reading (author recommendation): from February 2027, long-form is the ad income, and Shorts are how strangers find the long videos.
+For a channel below 10 million Shorts views every 90 days — most new channels — the practical reading (author recommendation): from February 2027, long-form is the ad income, and Shorts are how strangers find the long videos.
 
 ## VI. Reading the Revenue tab
 

@@ -214,18 +214,6 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The 1897 expedition and the restitution argument.* Hicks, Dan. The Brutish Museums: The Benin Bronzes, Colonial Violence and Cultural Restitution. London: Pluto Press, 2020.
 
-**1482 to Today: The Richness Moved — Africa's Resources and Who Took Them**
-
-*The Kingdom of Kongo and the Portuguese letters.* Thornton, John K. The Kongolese Saint Anthony: Dona Beatriz Kimpa Vita and the Antonian Movement, 1684-1706. Cambridge: Cambridge University Press, 1998.
-
-*Asante, the Golden Stool, and the 1900 war.* McCaskie, T. C. State and Society in Pre-Colonial Asante. Cambridge: Cambridge University Press, 1995.
-
-*The Congo Free State's rubber regime.* Hochschild, Adam. King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa. Boston: Houghton Mifflin, 1998.
-
-*The scramble for Africa generally.* Pakenham, Thomas. The Scramble for Africa. New York: Random House, 1991.
-
-*Cobalt mining in the present-day Congo.* Kara, Siddharth. Cobalt Red: How the Blood of the Congo Powers Our Lives. New York: St. Martin's Press, 2023.
-
 **2600 BCE to 1491 CE: Before Columbus — Cities, Corn, and Knotted String**
 
 *The Americas before 1492.* Mann, Charles C. 1491: New Revelations of the Americas before Columbus. New York: Knopf, 2005.
@@ -291,20 +279,6 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *The Haitian Revolution.* Dubois, Laurent. Avengers of the New World: The Story of the Haitian Revolution. Cambridge, MA: Harvard University Press, 2004.
 
 *American whaling and its decline.* Dolin, Eric Jay. Leviathan: The History of Whaling in America. New York: Norton, 2007.
-
-*Jamestown, tobacco, and 1619.* Horn, James. A Land as God Made It: Jamestown and the Birth of America. New York: Basic Books, 2005.
-
-*The 1787 Constitutional Convention and the slavery bargain.* Wilentz, Sean. No Property in Man: Slavery and Antislavery at the Nation's Founding. Cambridge, MA: Harvard University Press, 2018.
-
-**1865 to Today: After the Bargain — America's Long Account**
-
-*Lynching in America.* Equal Justice Initiative. Lynching in America: Confronting the Legacy of Racial Terror. 3rd ed. Montgomery, AL: EJI, 2017.
-
-*Plessy v. Ferguson and Jim Crow law.* Woodward, C. Vann. The Strange Career of Jim Crow. 3rd ed. New York: Oxford University Press, 1974.
-
-*Japanese American incarceration and Korematsu.* Robinson, Greg. By Order of the President: FDR and the Internment of Japanese Americans. Cambridge, MA: Harvard University Press, 2001.
-
-*The 2008 financial crisis.* Blinder, Alan S. After the Music Stopped: The Financial Crisis, the Response, and the Work Ahead. New York: Penguin Press, 2013.
 
 **1620 to 1993: God's Own Experiment — Religion in America**
 

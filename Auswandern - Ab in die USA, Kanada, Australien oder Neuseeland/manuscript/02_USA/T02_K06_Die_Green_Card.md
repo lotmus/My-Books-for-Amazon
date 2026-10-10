@@ -1,11 +1,11 @@
 ## Kapitel 6: Die Green Card
 
-Im Visa Bulletin für Oktober 2026, der monatlichen Stichtagsliste des State Department, steht bei der zweiten Arbeitskategorie (EB-2) in der Spalte „Rest der Welt“ der 1. Januar 2025. Wer seinen Platz in der Warteschlange vor diesem Tag gesichert hat, ist an der Reihe. In der Spalte für Indien steht dagegen der 1. November 2013. Gleicher Beruf, gleiche Qualifikation, anderes Geburtsland, und aus Monaten werden Jahre, bei Indien mehr als ein Jahrzehnt. Für Deutsche ist die Green Card deshalb weniger eine Frage der Warteschlange als der Vorbereitung: Wer früh, schriftlich abgesichert und mit der passenden Kategorie startet, kommt in der Regel gut durch.
+Im Visa Bulletin für Oktober 2026, der monatlichen Stichtagsliste des State Department, steht bei der zweiten Arbeitskategorie (EB-2) in der Spalte „Rest der Welt" der 1. Januar 2025. Wer seinen Platz in der Warteschlange vor diesem Tag gesichert hat, ist an der Reihe. In der Spalte für Indien steht dagegen der 1. November 2013. Gleicher Beruf, gleiche Qualifikation, anderes Geburtsland, und aus Monaten werden Jahre, bei Indien mehr als ein Jahrzehnt. Für Deutsche ist die Green Card deshalb weniger eine Frage der Warteschlange als der Vorbereitung: Wer früh, schriftlich abgesichert und mit der passenden Kategorie startet, kommt in der Regel gut durch.
 
 > **Kurz gesagt:**
 > - Die Green Card (*Lawful Permanent Residence*, LPR) ist ein unbefristetes Aufenthaltsrecht mit freier Arbeitswahl. Die Plastikkarte gilt zehn Jahre und wird erneuert, der Status bleibt, solange die USA dein Lebensmittelpunkt sind.
 > - Der Regelweg für Fachkräfte führt über den Arbeitgeber: Arbeitsmarktprüfung (*PERM*), Petition I-140, dann Statusanpassung I-485 im Inland oder Einwanderungsvisum über das Konsulat.
-> - Stand Oktober 2026: EB-1 ist für „Rest der Welt“ (also die meisten Deutschen) ohne Wartezeit. EB-2 wurde zum Start des Fiskaljahres 2027 zurückgestuft und gilt für Priority Dates vor dem 1. Januar 2025, EB-3 für solche vor dem 15. Mai 2024.
+> - Stand Oktober 2026: EB-1 ist für „Rest der Welt" (also die meisten Deutschen) ohne Wartezeit. EB-2 wurde zum Start des Fiskaljahres 2027 zurückgestuft und gilt für Priority Dates vor dem 1. Januar 2025, EB-3 für solche vor dem 15. Mai 2024.
 > - Die Zeit steckt im Verfahren, nicht im Stichtag: bei PERM rund 2,5–4,5 Jahre ab Start. Selbstpetitionen (NIW, EB-1A) gehen schneller, wurden 2026 aber nur zu etwa 49 % bzw. 41 % genehmigt.
 > - Die Kosten der Arbeitsmarktprüfung trägt der Arbeitgeber, du zahlst die I-485-Gebühren für dich und deine Familie: 1.440 $ je Erwachsenem, 950 $ je Kind unter 14 (Papierantrag).
 > - Als Green-Card-Inhaber wirst du weltweit in den USA besteuert, und Auslandsaufenthalte von mehr als 180 Tagen gefährden den Status.
@@ -88,7 +88,7 @@ Ist deine Kategorie current oder dein Priority Date erreicht, führen zwei Türe
 | Ärztliche Prüfung | Formular I-693 bei einem *Civil Surgeon* in den USA | Zugelassener Arzt (*Panel Physician*) in Deutschland |
 | Ergebnis | Green Card per Post | Visum im Pass, nach der Einreise Green Card per Post |
 
-Die Beträge des Konsulats stammen aus Kanzleiangaben, die aktuelle Gebühr steht auf travel.state.gov. Das Einwanderungsvisum gilt meist sechs Monate; in dieser Zeit musst du einreisen. Fürs Interview brauchst du unter anderem Pass, Geburts-, gegebenenfalls Heiratsurkunde und ein polizeiliches Führungszeugnis – das deutsche ab 16 Jahren beim Bundesamt für Justiz (fuehrungszeugnis.bund.de), Verwendungszweck „zur Vorlage bei einer ausländischen Behörde“. Ob eine Übersetzung nötig ist, klärt das Konsulat (Näheres zu Übersetzungen und Apostillen in Kapitel 19). Bei gut belegten arbeitsbasierten Fällen entscheidet USCIS im Inland häufig ohne Interview.
+Die Beträge des Konsulats stammen aus Kanzleiangaben, die aktuelle Gebühr steht auf travel.state.gov. Das Einwanderungsvisum gilt meist sechs Monate; in dieser Zeit musst du einreisen. Fürs Interview brauchst du unter anderem Pass, Geburts-, gegebenenfalls Heiratsurkunde und ein polizeiliches Führungszeugnis – das deutsche ab 16 Jahren beim Bundesamt für Justiz (fuehrungszeugnis.bund.de), Verwendungszweck „zur Vorlage bei einer ausländischen Behörde". Ob eine Übersetzung nötig ist, klärt das Konsulat (Näheres zu Übersetzungen und Apostillen in Kapitel 19). Bei gut belegten arbeitsbasierten Fällen entscheidet USCIS im Inland häufig ohne Interview.
 
 In der Praxis wählen Beschäftigte, die schon im Land sind, meist den I-485. Das Konsulat passt, wenn du noch in Deutschland lebst, etwa nach einem genehmigten NIW. Bei current-Kategorie kann es nach der I-140 schneller gehen, verlangt aber die Ausreise.
 
@@ -102,7 +102,7 @@ Die Zahl der Green Cards ist pro Kategorie gedeckelt, kein Land darf mehr als ru
 - **Stichtag** (*Cutoff Date*): Nur wer ein PD davor hat, ist an der Reihe: C steht für *current* (alle dran), U für *unavailable* (keine Visa).
 - **Zwei Tabellen:** *Final Action Dates* zeigen, ab wann genehmigt werden darf, *Dates for Filing*, ab wann du einreichen darfst. Welche Tabelle für den I-485 zählt, legt USCIS monatlich fest: Für Oktober 2026 gilt bei arbeits- und familienbasierten Anträgen die Dates-for-Filing-Tabelle (uscis.gov/green-card). Genehmigt wird trotzdem erst, wenn das Priority Date auch vor dem Final Action Date liegt.
 
-Die geltende Spalte bestimmt dein Geburtsland (*Country of Chargeability*), nicht dein Pass – eine in Indien geborene Deutsche zählt zur Spalte Indien; die Zurechnung über den Ehepartner klärt im Zweifel die Kanzlei. „Rest der Welt“ ist die Spalte „All Chargeability Areas Except Those Listed“.
+Die geltende Spalte bestimmt dein Geburtsland (*Country of Chargeability*), nicht dein Pass – eine in Indien geborene Deutsche zählt zur Spalte Indien; die Zurechnung über den Ehepartner klärt im Zweifel die Kanzlei. „Rest der Welt" ist die Spalte „All Chargeability Areas Except Those Listed".
 
 | Final Action Dates, Oktober 2026 | Rest der Welt | China | Indien |
 |---|---|---|---|
@@ -125,7 +125,7 @@ Das Bulletin nennt Stichtage, aber nicht die Verfahrenszeit davor und danach. Di
 | Weg (Deutschland) | Gesamtdauer ab Start | Was den Ausschlag gibt |
 |---|---|---|
 | PERM, EB-2 | ca. 2,5–4,5 Jahre | Analystenprüfung, I-485 |
-| PERM, EB-3 | wie EB-2, plus Wartezeit | Stichtag 15. Mai 2024 |
+| PERM, EB-3 | wie EB-2, plus Wartezeit | Stichtag 1. September 2024 |
 | EB-1C, EB-1A, NIW | ca. 1–2,5 Jahre bei Genehmigung | Ablehnungsrisiko |
 | Ehepartner eines US-Bürgers | ca. 20–24 Monate | I-130 ca. 17 Monate, dann Konsulat |
 | Indien, EB-3 | ca. 12–13 Jahre Rückstand | Stichtag 2014 |
@@ -137,7 +137,7 @@ Bei EB-2/EB-3 addieren sich Lohnbescheid (rund vier Monate), Stellensuche (zwei 
 - **Ehepartner eines US-Bürgers:** Als *Immediate Relatives* (unmittelbare Angehörige) unterliegen sie keiner Quote, keinem Stichtag. Ablauf: Petition I-130 (675 $ Papier, 625 $ online), NVC (DS-260 325 $, Verpflichtungserklärung I-864 mit 120 $ Prüfgebühr), Interview in Frankfurt, Immigrant Fee 235 $ – laut Kanzleien 2026 rund 17 Monate für die I-130, dann drei bis sechs beim Konsulat; bei rechtmäßiger Einreise geht auch der I-485 im Inland. Ehepartner eines Green-Card-Inhabers (Kategorie F2A) haben im Oktober 2026 das Final Action Date 22. September 2026, in der Filing-Tabelle sind sie current – Engpass ist die I-130-Bearbeitung (mehr in Kapitel 9 und 10).
 - **Investor (EB-5):** 800.000 $ in einem Zielgebiet (ländlich oder mit hoher Arbeitslosigkeit) beziehungsweise 1.050.000 $ sonst, dazu mindestens zehn Vollzeitstellen – die gesetzlichen Beträge seit dem Reformgesetz von 2022. Die USCIS-Übersichtsseite nannte bei Redaktionsschluss noch höhere Werte einer älteren Regel (900.000 $ und 1,8 Millionen $): prüfe beides vor jeder Investition. Für Fachkräfte kein realistischer Weg (Kapitel 9).
 - **Lotterie (Diversity Visa):** 55.000 Green Cards pro Jahr. Die Vergabe war seit Dezember 2025 ausgesetzt und läuft nach einem Gerichtsbeschluss vom 28. August 2026 wieder; das Programmjahr 2026 endet am 30. September, die Registrierung für 2027 ist nicht eröffnet. Als Plan taugt sie nicht (Kapitel 9).
-- **Gold Card:** Nur als Randnotiz: 1 Million $ „Geschenk“ (Firmen: 2 Millionen $ je Angestelltem) plus 15.000 $ Gebühr, eingeordnet in EB-1 oder EB-2. Bis Mitte 2026 war nur eine Genehmigung bekannt, eine Klage ist anhängig. Für Deutsche ist die Wartezeit ohnehin kaum ein Argument, weil EB-1 derzeit current ist und EB-2 im Oktober 2026 nur gut 21 Monate Rückstand hatte – wer eine Million Dollar übrig hat, braucht für die Green Card eher einen Steuerberater als einen Ratgeber.
+- **Gold Card:** Nur als Randnotiz: 1 Million $ „Geschenk" (Firmen: 2 Millionen $ je Angestelltem) plus 15.000 $ Gebühr, eingeordnet in EB-1 oder EB-2. Bis Mitte 2026 war nur eine Genehmigung bekannt, eine Klage ist anhängig. Für Deutsche ist die Wartezeit ohnehin kaum ein Argument, weil EB-1 derzeit current ist und EB-2 im Oktober 2026 nur gut 21 Monate Rückstand hatte – wer eine Million Dollar übrig hat, braucht für die Green Card eher einen Steuerberater als einen Ratgeber.
 
 ### Rechte und Pflichten
 
@@ -172,7 +172,7 @@ Aufgabe (*Abandonment*): Du ziehst mit der Absicht weg, dauerhaft im Ausland zu 
 
 ### Die bedingte Green Card
 
-Ist die Ehe mit dem US-Partner bei der Genehmigung jünger als zwei Jahre, erhältst du zunächst eine auf zwei Jahre befristete („bedingte“) Green Card (Kategorie CR-1); in den 90 Tagen vor Ablauf beantragst du gemeinsam mit dem Partner die Aufhebung der Bedingung mit Form I-751 (750 $ Papier, 700 $ online) – versäumst du die Frist, droht der Verlust des Status. EB-5-Investoren erhalten ebenfalls zunächst eine bedingte Karte (Aufhebung mit I-829, 3.750 $).
+Ist die Ehe mit dem US-Partner bei der Genehmigung jünger als zwei Jahre, erhältst du zunächst eine auf zwei Jahre befristete („bedingte") Green Card (Kategorie CR-1); in den 90 Tagen vor Ablauf beantragst du gemeinsam mit dem Partner die Aufhebung der Bedingung mit Form I-751 (750 $ Papier, 700 $ online) – versäumst du die Frist, droht der Verlust des Status. EB-5-Investoren erhalten ebenfalls zunächst eine bedingte Karte (Aufhebung mit I-829, 3.750 $).
 
 ### Steuern: Ab der Green Card weltweit
 
@@ -226,7 +226,7 @@ Klär zuerst, welche Kategorie zu dir passt: Stelle mit Masteranforderung (EB-2)
 - [uscis.gov/g-1055](https://uscis.gov/g-1055) — Gebührenverzeichnis von USCIS
 - [flag.dol.gov/processingtimes](https://flag.dol.gov/processingtimes) — Bearbeitungszeiten für Lohnbescheid und PERM
 - [de.usembassy.gov](https://de.usembassy.gov) — Botschaft und Konsulate in Deutschland (Einwanderungsvisa)
-- [federalregister.gov](https://federalregister.gov) — Suche „Public Charge Ground of Inadmissibility“ (91 FR 45324)
+- [federalregister.gov](https://federalregister.gov) — Suche „Public Charge Ground of Inadmissibility" (91 FR 45324)
 - [irs.gov/individuals/international-taxpayers](https://irs.gov/individuals/international-taxpayers) — Steuerpflicht und Exit Tax
 - [sss.gov](https://sss.gov) — Selective Service: Registrierungspflicht
 

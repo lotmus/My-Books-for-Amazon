@@ -22,7 +22,7 @@ CHAPTER_TITLE_FIX = {50: 'Where Mathematics Meets the World'}
 TOPIC_OVERRIDE = {}
 
 ALSO_BY = ('Also by Lothar J. Musiol: *Physics, Actually*, the companion series on the physical world, '
-           'and *Quanta, Actually*, on the quantum world. Every title is listed on the Also by Lothar J. Musiol '
+           'and *Quantum, Actually*, on the quantum world. Every title is listed on the Also by Lothar J. Musiol '
            'page at the back of this volume.')
 
 # Back matter: the canonical 'Also by Lothar J. Musiol' list (same in every book; see
@@ -41,10 +41,9 @@ ALSO_BY_LIST = [
         'Math, Actually, Volume 3: From Differential Equations to Abstract Algebra',
         'Math, Actually, Volume 4: From Category Theory to the Frontier',
     ]),
-    ('Quanta, Actually', [
-        'Quanta, Actually, Volume 1: The Quantum World',
-        'Quanta, Actually, Volume 2: The Quantum Conversation',
-        'Quanta, Actually, Volume 3: Complete Quantum Electrodynamics Course',
+    ('Quantum, Actually', [
+        'Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire',
+        'Quantum, Actually, Volume 2: A QED Course',
     ]),
     ('Science Sparks', [
         'Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights',
