@@ -50,7 +50,7 @@ Married couples often own their home and accounts jointly, and the survivor take
 
 ### The surprise
 
-Adding someone who is not your spouse to a title or account is usually a present gift (Case 7). Their creditors may reach it. Their divorce may involve it. You may need their signature to sell or refinance. It may carry worse tax consequences than an inheritance would. And it overrides what your will says (Case 3).
+Adding someone who is not your spouse to the title of real estate as a joint tenant is usually a present gift (Case 7). Bank accounts work differently in California: while everyone is alive, a joint account belongs to the owners in proportion to what each put in (Probate Code § 5301), but at death the survivor takes what is left unless there is clear and convincing evidence of a different intent (§ 5302). Their creditors may reach it. Their divorce may involve it. You may need their signature to sell or refinance. It may carry worse tax consequences than an inheritance would. And it overrides what your will says (Case 3).
 
 Tenancy in common is different: no survivorship, so your share passes through your estate, possibly to people your co-owners would never have chosen (Case 8). In California, a married person's will controls only their half of community property (Case 9).
 

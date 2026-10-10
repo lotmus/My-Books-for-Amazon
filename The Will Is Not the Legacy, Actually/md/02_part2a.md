@@ -1,71 +1,190 @@
 # Part Two: Twenty-Four Cases
 
-*Educational guide, not legal advice. Every family here is invented. The rules they run into are real, and where a case names California or Germany, the rule was checked against the statute.*
+*Educational guide, not legal advice. Every family here is invented. The rules they run into are real, and where a case names California or Germany, the rule was checked against the statute or an official court source.*
 
-The short version of this book says what a will does not control. This part shows what happens next. Each case has the same four pieces: the facts, the move that seemed sensible, the document that actually decided the outcome, and what should have been signed instead. Read them in order or dip in. If one of them makes you put the book down and go and find a folder, it has done its job.
+The short version of this book says what a will does not control. This part shows what happens next. Each case has the same five pieces: the situation; what the family assumed; what actually happened, and why; what would have prevented it; and a short "what to do" at the end. Read them in order or dip in. If one of them makes you put the book down and go and find a folder, it has done its job.
+
+A word about the legal explanations. Where a case turns on a statute, I name it once, so you or your lawyer can look it up, and then explain in plain words what it does. You do not need to remember section numbers. You need to remember the shape of the trap.
 
 ## Chapter 3. Forms That Beat the Will
 
 ### Case 1: The retirement account that remembered the first marriage
 
-**The facts.** Daniel, a project manager in San Diego, married young, divorced at thirty-four, and remarried at thirty-nine. He opened a 401(k) at his first employer at twenty-six and named his first wife as beneficiary, because that is what you do at twenty-six. He changed jobs twice, but the plan stayed with the first employer's provider, quietly compounding. At fifty-five he and his second wife, Ruth, signed new wills leaving everything to each other.
+**The situation.** Daniel was a project manager in San Diego, the sort of man who kept his receipts in labelled envelopes and his car tyres at the correct pressure. He married young, at twenty-five, to a woman he had met at university. At twenty-six he started his first proper job, and in his first week a cheerful person from human resources handed him a stack of forms. One was the enrolment for the company's 401(k) retirement plan. It asked for a beneficiary. Daniel wrote his wife's name, because who else would he write, and went back to learning where the coffee machine was.
 
-**The move.** Daniel assumed the divorce had sorted it out. He vaguely remembered that California cancels gifts to a former spouse after divorce. He was half right, which in estate planning is the most expensive way to be right.
+The marriage ended when he was thirty-four. It was not a dramatic divorce. They divided the furniture, sold the flat, and agreed that each would keep their own retirement savings. Daniel changed jobs twice in the following years. The old 401(k) stayed with the first employer's plan provider, because moving it seemed like paperwork, and the statements went to an email address he checked twice a year. It grew steadily, the way untouched money does.
 
-**What governed.** California does revoke will provisions in favour of a former spouse after a divorce (Probate Code § 6122), and it also makes many nonprobate transfers to a former spouse fail (§ 5040). But a 401(k) is an employer plan governed by the federal Employee Retirement Income Security Act. In *Egelhoff v. Egelhoff*, 532 U.S. 141 (2001), the U.S. Supreme Court held that ERISA overrides a state statute that automatically revoked a former spouse's beneficiary designation on divorce. The plan administrator pays the person named in the plan documents. The beneficiary form named the first wife.
+At thirty-nine he married Ruth. They bought a house, had a daughter, and at fifty-five did what responsible people do: they went to a lawyer and signed new wills. Each left everything to the other, and then to their daughter. The lawyer asked them to bring a list of their assets. Daniel listed the old 401(k) by its approximate value. Nobody asked who was named on it.
 
-Whether the first wife could keep the money, or whether Ruth had any claim against her afterwards, became a question for lawyers, which is another way of saying a question that took two years and a noticeable slice of the account.
+Daniel died of a heart attack at fifty-eight.
 
-**What should have been signed.** A new beneficiary form, filed with the plan, the week the divorce was final, and checked again after the second marriage. Federal law also gives a current spouse rights in many employer plans, so the remarriage was another trigger to review the form. Total cost: one page and a stamp.
+**What the family assumed.** Ruth assumed the will covered everything, because that is what wills are for. Daniel, when he had thought about it at all, had assumed the divorce took care of the old form. He had a vague memory of reading that California cancels gifts to an ex-spouse after a divorce. That memory was correct, which made it more dangerous, not less.
 
-**The lesson.** The will never sees the 401(k). The form does. When your life changes, the form is the first document to update, not the last.
+**What actually happened, and why.** California does have such a rule. When a marriage is dissolved, the Probate Code (§ 6122) revokes gifts to the former spouse in a will, and a separate section (§ 5040) makes many transfers that happen outside the will, such as payable-on-death accounts, fail if they name a former spouse. If Daniel's old account had been an ordinary bank account with a payable-on-death designation, his ex-wife would probably have been treated as if she had died before him.
 
-### Case 2: The life insurance that paid the estate
+But a 401(k) is not an ordinary account. It is an employer retirement plan, and those are governed by a federal law, the Employee Retirement Income Security Act, usually shortened to ERISA. Federal law outranks state law where they conflict. In *Egelhoff v. Egelhoff*, 532 U.S. 141 (2001), the U.S. Supreme Court considered a state statute very like California's, one that automatically cancelled an ex-spouse's beneficiary designation after divorce, and held that ERISA overrode it for ERISA plans. The reasoning, in plain words: plan administrators must be able to pay according to the plan documents, without studying the family law of fifty states. So the administrator pays the person on the form.
 
-**The facts.** Karin and Thomas, both teachers in Bavaria, had two young children. Thomas took out a term life policy when the first child was born and, unsure whom to name, wrote "meine Erben" (my heirs) on the form. They had no will.
+The form named Daniel's first wife.
 
-**The move.** Leaving it to "the heirs" sounded fair and flexible.
+The plan paid her. Ruth's lawyer explored whether Ruth had any claim against the ex-wife after the payment, perhaps based on the divorce agreement in which each spouse kept their own retirement savings. That question is complicated, depends heavily on the exact wording of the divorce papers, and is the kind of thing courts disagree about. What is not complicated is the cost: two years, a substantial legal bill, and a widow negotiating with her late husband's first wife about money he had meant for his second family. The two women had met once before, at a funeral. This was not an improvement.
 
-**What governed.** When Thomas died, the money went to his heirs under the statutory rules, because there was no will. Under BGB § 1931 a surviving spouse inherits one quarter alongside children, and in the default German matrimonial property regime (the community of accrued gains) § 1371 raises that by another quarter. So Karin inherited half and the two children shared the other half. The children were minors. Money belonging to minors in Germany is managed by their parents, but certain transactions need approval from the family court, and the court takes an interest in how a child's inheritance is used. Karin, who had expected to use the policy to pay off the house, found that half of it was not hers to spend freely.
+**What would have prevented it.** One page. A new beneficiary designation, filed with the plan administrator, naming Ruth as primary beneficiary and their daughter (or a trust for her) as contingent. The ideal moment was the week the divorce became final. The second-best moment was the marriage to Ruth. The third was the visit to the lawyer at fifty-five. Any of them would have worked.
 
-**What should have been signed.** A named beneficiary: Karin, with the children as contingent beneficiaries if she died first. Ideally a will as well, naming Karin as sole heir with a plan for the children after the second death, or a joint spouses' will (Chapter 11 explains the *Berliner Testament*). Because life insurance with a named beneficiary generally pays that beneficiary directly under the policy, the money would have been Karin's to use.
+The marriage to Ruth was a trigger for a second reason. Many employer plans give a current spouse rights to the account that the employee cannot waive alone, so remarriage should prompt a review of every retirement form anyway. The lawyer's checklist could also have prevented it. A lawyer who asks "who is named on each of these?" and asks for printouts of the forms will catch this kind of thing in five minutes.
 
-**The lesson.** "My heirs" is not a neutral choice. It means "whatever the statute says," and the statute does not know about your mortgage.
+**The other side of the Atlantic.** A German version of Daniel's story would turn out differently in its details but not in its moral. German law also cancels gifts to a spouse in a will once the marriage has ended, and even when a divorce was pending and the conditions for it were met (BGB § 2077). But a life insurance or private pension contract that names a beneficiary is a contract for the benefit of a third party, and the named person acquires the right to the money at the death (§ 331). Whether a divorce changes that depends on the contract and on what the parties agreed, which is exactly the kind of question you do not want your widow to be asking. The safe answer is the same in both countries: change the form, in writing, with the institution, the week the divorce is final.
+
+**Why this one hurts so much.** Most estate mistakes cost money. This one costs money and forces two people who have no reason to like each other into a negotiation about a man they both loved at different times. Ruth did not lose only the account. She lost the chance to grieve without a lawyer on speed dial. A one-page form would have bought her that.
+
+**What to do.**
+
+- List every retirement account you have ever had, including the forgotten ones from old employers. Appendix D has a beneficiary audit for exactly this.
+- Ask each plan administrator for written confirmation of the beneficiary on file. Do not rely on memory.
+- After a divorce, change every form the same week. Do not rely on state law to do it for you; for many employer plans, it cannot.
+- After a marriage, a birth, or a death, check again.
+- Bring the printouts to your lawyer. The will never sees the 401(k). The form does.
+
+### Case 2: The life insurance that paid "my heirs"
+
+**The situation.** Karin and Thomas were both teachers in a small town in Bavaria. When their first child was born, Thomas did the sensible thing and took out a term life insurance policy, large enough to pay off the mortgage on their terraced house if he died. The form asked who should receive the money. Thomas hesitated. Karin, obviously. But what if they both died? What if they divorced? What if, what if. In the end he wrote "meine Erben", my heirs, which felt flexible and fair and meant he did not have to think about it any more.
+
+They had a second child. They never made a will, because they were in their thirties, and wills were for people with grey hair and holiday homes.
+
+Thomas died at forty-one, in a cycling accident, on a Sunday morning, on a road he had ridden a thousand times.
+
+**What the family assumed.** Karin assumed the insurance money was hers, to pay off the house, as they had planned. Her friends assumed so too. One of them helpfully explained that, in Germany, the spouse gets everything anyway.
+
+**What actually happened, and why.** In Germany, when there is no will, the Civil Code (BGB) decides who the heirs are. A surviving spouse inherits one quarter of the estate alongside children (§ 1931). Most German couples, unless they signed a marriage contract choosing otherwise, live in the default property regime called the community of accrued gains (*Zugewinngemeinschaft*), and in that regime the spouse's share is increased by another quarter on death (§ 1371). So Karin inherited one half. The two children, aged eleven and eight, inherited the other half between them (§ 1924, which makes children heirs in equal shares).
+
+Because Thomas had named "my heirs" as beneficiaries, the insurance money followed the same split. Half to Karin; one quarter each to the children.
+
+Here is where it became complicated. Money belonging to minor children in Germany is managed by their parents, which meant Karin, as the surviving parent. But she manages it for them, not for herself. And for a range of significant transactions involving a child's assets, German law requires the approval of the family court (BGB § 1643, which applies to parents many of the same approval requirements that apply to court-appointed guardians). Using the children's half of the insurance to pay off a mortgage on a house that belonged to Thomas's estate and to Karin was not simply Karin's decision. It involved questions about whether the children were getting fair value, how their interests in the house were recorded, and whether the court needed to approve.
+
+Karin, in her first year of widowhood, found herself in correspondence with a court about her own children's money. Nobody did anything wrong. The court was protecting the children, which is its job. But it was not what Thomas had intended, and it was not what Karin needed.
+
+**What would have prevented it.** First, a named beneficiary: "my wife, Karin," with the children named as contingent beneficiaries if she died first. Life insurance with a named beneficiary is a contract in favour of a third party, and under BGB § 331 the named person acquires the right to the payment at the death. The money would have gone to Karin directly.
+
+Second, a will. Many German couples with children use a joint will in which each spouse names the other as sole heir and the children as heirs after the second death, the so-called *Berliner Testament* (Chapter 11). That would have made Karin sole heir of everything else Thomas owned too. The children would still have had a compulsory share (*Pflichtteil*) they could claim, worth half of their statutory share, but children rarely claim against a parent in practice, and a well-drafted will can discourage it.
+
+**The plain-language version of the German rules.** Without a will, German law makes the family a team of co-owners of everything the deceased left, called a community of heirs (*Erbengemeinschaft*). Nobody owns a particular thing; everyone owns a share of everything, and important decisions need agreement. When some of the co-owners are children, a parent acts for them, but only within limits the family court supervises. That is not a punishment. It is the system's way of making sure that a widow who is struggling, or a widower who remarries, does not spend the children's inheritance on the household by accident. It is also, from the inside, exhausting.
+
+**What it cost.** Karin estimated later that the correspondence, the advice, and the delay cost her about three months of evenings and a modest fee. The real cost was something else. Every time she wanted to make a decision about the house in that first year, she had to ask whether it was hers to make. Thomas had wanted to protect her. One word on a form, "Karin" instead of "my heirs," would have done it.
+
+**What to do.**
+
+- Never write "my heirs" or "my estate" on a life insurance or pension form unless a lawyer has told you why that is what you want.
+- Name a person as primary beneficiary and at least one contingent.
+- If you have young children, think about what happens if both parents die. A contingent beneficiary that is a minor child brings the same management and court questions. A trust (in the United States) or a carefully drafted will with an executor (in Germany) may be better; ask.
+- Make a will even if you are young. Especially if you are young and have children.
 
 ### Case 3: The account with the daughter's name on it
 
-**The facts.** Margaret, a widow in Sacramento, had three adult children. Her daughter Ellen lived nearby and helped with bills, so Margaret added Ellen to her checking and savings accounts "for convenience." The bank opened them as joint accounts with right of survivorship, which is what the bank's standard form said, in a typeface designed to be ignored. Margaret's will, signed years earlier, left everything equally to all three children.
+**The situation.** Margaret was eighty-one, a widow in Sacramento, sharp as a tack and increasingly unable to see small print. She had three adult children. Her daughter Ellen lived ten minutes away and came by on Tuesdays and Fridays. Her son Robert lived in Oregon and phoned on Sundays. Her other son, Philip, lived in Texas and sent beautiful cards on her birthday and at Christmas.
 
-**The move.** Make it easy for Ellen to pay the bills. Margaret never thought of it as a gift.
+When Margaret's eyesight made paying bills difficult, she and Ellen went to the bank together. Margaret said she wanted Ellen to be able to write cheques and check the balances. The bank employee was helpful and quick. He produced a form, Margaret signed where he pointed, and Ellen was added to both the checking and the savings accounts. The form, in a typeface designed to be ignored, made the accounts joint accounts with right of survivorship.
 
-**What governed.** At Margaret's death, the accounts belonged to Ellen as surviving joint owner. California's courts recognise that a joint account can be rebutted by evidence that the decedent intended something else, but that means litigation. The California courts' own self-help guidance tells survivors that bank accounts owned jointly pass to the surviving owner and are left out when valuing a small estate. Two-thirds of Margaret's cash went to one child. The will divided what was left, which was mostly a car and some furniture.
+Margaret's will, signed fifteen years earlier, left everything equally to her three children.
 
-Ellen, to her credit, offered to share. Her husband, less to his credit, wanted to talk about it first. The siblings have not spent Christmas together since.
+She died at eighty-four. The accounts held about 190,000 dollars. Her other assets were a car, some furniture, and a small amount of jewellery.
 
-**What should have been signed.** A power of attorney giving Ellen authority to manage the accounts (Chapter 20), which lets her pay bills without owning the money. Or a convenience signer arrangement if the bank offers one. If Margaret had wanted the accounts to pass outside probate, a payable-on-death designation naming all three children equally would have done it.
+**What the family assumed.** Margaret assumed she had arranged help with paperwork. Robert and Philip assumed the will divided everything three ways, because that is what the will said. Ellen, if she thought about it, assumed she was the person who paid Mum's bills.
 
-**The lesson.** Adding a name to an account is not a filing decision. It is, very often, a decision about who inherits.
+**What actually happened, and why.** A joint account with right of survivorship belongs to the surviving owner when one owner dies. It does not pass under the will, and it does not go through probate. The California courts' own self-help pages tell survivors that bank accounts owned by more than one person, including the person who died, are left out when working out whether an estate is small enough for simplified procedures, precisely because they pass directly to the surviving owner.
 
-### Case 4: The forgotten pension and the beneficiary who died first
+So the 190,000 dollars became Ellen's on the day Margaret died. The will divided what was left: a car, some furniture, some jewellery, about 12,000 dollars in total. Each child got a third of that.
 
-**The facts.** Helmut worked for twenty years in the United States before retiring to Passau. He had a small American IRA. He named his brother as sole beneficiary in 1995 and never added a contingent beneficiary. His brother died in 2019. Helmut died in 2026, with a German will naming his partner, Lena, as sole heir.
+Could Robert and Philip challenge this? Possibly, but the law puts the burden on them. California's rules for multiple-party bank accounts say two things worth knowing. While everyone is alive, a joint account belongs to the owners in proportion to what each actually put in (Probate Code § 5301), so Ellen did not own half of her mother's money while Margaret was alive; she simply had access to it. At death, however, whatever remains belongs to the surviving owner unless there is *clear and convincing evidence* of a different intent (§ 5302). Clear and convincing is a high standard, higher than the usual 'more likely than not.' If there were strong evidence that Margaret added Ellen only for convenience and never meant her to inherit, a court might be persuaded. But that means a lawsuit among siblings, with Ellen as defendant, about their mother's intentions, with the evidence being a bank form Margaret signed and the memories of people who disagree.
 
-**The move.** None. Helmut forgot the IRA existed, which is easier than it sounds when the statements go to an old address.
+Ellen offered to share. Her husband, who had views about how many Tuesdays and Fridays Ellen had driven across town, wanted to talk about it first. The conversation took a long time. Robert and Philip have not spent a Christmas with Ellen since.
 
-**What governed.** With the only named beneficiary dead and no contingent named, the IRA custodian's account agreement decided where the money went. Many agreements default to the account owner's estate. That meant the IRA had to be claimed by Helmut's estate, which required the custodian to accept documents proving who was entitled to act for it. The custodian, an American institution, asked for American-style probate paperwork. Lena had a German *Erbschein* (a certificate of inheritance from the probate court, BGB § 2353). Translating, apostilling, and persuading the custodian took most of a year. Paying the IRA to the estate also meant losing some of the tax deferral a named individual beneficiary might have kept.
+**What would have prevented it.** The goal was help with bills. The right tool for help with bills is a power of attorney (Chapter 20), which lets an agent manage the accounts without owning them. California's Uniform Statutory Form Power of Attorney (Probate Code § 4401) is designed for exactly this, and banks are used to it. Some banks also offer a "convenience signer" or "authorised signer" arrangement, which gives signing authority without ownership; whether a given bank offers it, and what its form says, is something to ask directly and in writing.
 
-**What should have been signed.** A current beneficiary form naming Lena, with a contingent beneficiary, filed with the custodian. And a line on the Family List (Appendix C) for every foreign account, with the custodian's phone number.
+If Margaret had also wanted the accounts to skip probate at death, she could have added a payable-on-death designation naming all three children in equal shares. That would have matched her will.
 
-**The lesson.** Contingent beneficiaries matter as much as primary ones. A primary beneficiary who dies first is simply a blank form in disguise.
+**The German version.** In Germany, joint accounts between spouses are common, and joint accounts with adult children exist too. Whether the money in a joint account belongs to the survivor after a death is a question of the bank contract and of what the account holders agreed between themselves, and it can be argued about in the same way. Separately, any amount that counts as a gift to the child may be added back when a disinherited sibling calculates a compulsory share (BGB § 2325). The safe tool for help with bills is the same: a power of attorney (*Vollmacht*), ideally on the bank's own form or a lasting power of attorney (Chapter 20), which gives authority without ownership.
 
-### Case 5: The minor named outright
+**A conversation worth having.** The deeper failure here was silence. Margaret never told her sons what she had done, because she did not think she had done anything. Ellen never told her brothers, because she thought of herself as the one who paid the bills. A ten-minute family phone call, "I've given Ellen access to my accounts so she can help; the will still divides everything three ways," would have exposed the problem while Margaret could still fix it.
 
-**The facts.** Rosa, a single mother in Fresno, named her twelve-year-old son, Mateo, as beneficiary of her life insurance. It seemed the obvious, loving choice.
+**What to do.**
 
-**The move.** Name the child directly, so the money goes to him.
+- Never add someone to an account "for convenience" without asking: does this make them an owner? Does it give them the account when I die?
+- For help with bills, use a power of attorney or a signer-only arrangement.
+- If you want accounts to pass outside probate, use payable-on-death designations that match your will.
+- If you have already added a child as joint owner, ask a lawyer whether to change it. The longer it stays, the more it looks like a gift.
+- Tell the other children what you have done and why. Surprise is the fuel of family disputes.
 
-**What governed.** Insurance companies generally will not hand a large sum to a twelve-year-old, and in California a minor cannot manage property in his own name. Someone has to be appointed to receive and manage the money for him, which may require a court proceeding for a guardianship of the estate, with reports to the court and restrictions on spending. Rosa's sister, who was raising Mateo, had to go to court to get access to money meant for his care. And when Mateo turned eighteen, whatever was left became his outright, at an age when most of us would have spent it on a car with a spoiler.
+### Case 4: The forgotten IRA and the beneficiary who died first
 
-**What should have been signed.** A trust for Mateo, either a simple testamentary trust created by Rosa's will or a revocable trust, named as beneficiary of the policy, with Rosa's sister as trustee and distribution ages Rosa chose. Alternatively, many states, including California, allow a custodian to be named for a minor under the Uniform Transfers to Minors Act; ask the lawyer whether that fits.
+**The situation.** Helmut was an engineer from Lower Bavaria who spent twenty years working in the United States, mostly in Texas and California, before he retired to a house on the edge of Passau with a view of the Danube and a neighbour who disapproved of his lawn. Like many people who work abroad, he collected accounts the way other people collect fridge magnets. One of them was a small Individual Retirement Account, an IRA, opened in 1995 with an American brokerage. On the beneficiary form he named his younger brother, Josef, because at the time Helmut was single and Josef was the person he trusted most.
 
-**The lesson.** A child needs a grown-up between them and the money. Name the grown-up, in writing, before a court has to.
+He did not name a contingent beneficiary. The form had a box for one. He left it empty, because Josef was younger and healthy and the possibility of Josef dying first was the sort of thing you do not write on forms.
+
+Years later Helmut met Lena, a retired pharmacist, and they lived together in the Passau house for fourteen years without marrying. "We're too old to need a piece of paper," Lena liked to say. Helmut did, however, need a piece of paper for the inheritance, and he knew it. He wrote a German will by hand, properly dated and signed, naming Lena as his sole heir.
+
+Josef died in 2019. Helmut grieved, went to the funeral, and never thought about the IRA, whose statements went to an old email address he no longer used.
+
+Helmut died in 2026.
+
+**What the family assumed.** Lena assumed the will made her heir to everything, which, as far as German law was concerned, it did. Helmut's nephews, Josef's sons, did not know the IRA existed.
+
+**What actually happened, and why.** The will governed Helmut's estate. But the IRA was not simply part of the estate. An IRA passes according to its beneficiary designation, and the designation named only Josef, who was dead. When the only named beneficiary has died and there is no contingent, the custodian's own account agreement says what happens. Many agreements default to the account owner's estate; some default to a spouse, then the estate. Helmut had no spouse. The IRA was payable to his estate.
+
+That sounds fine: the estate went to Lena. In practice it meant that an American financial institution had to be satisfied about who was entitled to act for the estate of a man who died in Germany. American custodians are used to American documents: letters of administration from a probate court, a small-estate affidavit, or a trust certificate. Lena had a German certificate of inheritance (*Erbschein*), issued by the probate court under BGB § 2353, which states who the heirs are and in what shares. It is an official document. It is also written in German, by a court the custodian's compliance department had never heard of.
+
+The months that followed involved certified translations, an apostille to authenticate the German court's document internationally, forms designed for American estates, and a great deal of waiting on hold to a call centre in a time zone nine hours behind. There were also tax consequences. American retirement accounts get favourable treatment when they pass to a named individual beneficiary. Paid to an estate, the money generally has to come out faster, which can mean more tax sooner. And the estate, as the owner of a payment from an American account, raised questions for both the American and German tax authorities that Lena needed an adviser to answer.
+
+It took most of a year. Lena eventually received the money. She estimated that the fees took about a fifth of it.
+
+**What would have prevented it.** Three things, each simple.
+
+First, a contingent beneficiary on the original form. If Helmut had named Josef's sons, or a charity, or anyone as contingent, the account would have gone to them directly when Josef died. That would not have helped Lena, but it would have avoided the estate route.
+
+Second, a review of the form after Josef's death, naming Lena as the new primary beneficiary. The custodian would then have paid her directly, on a death certificate and a claim form, with the favourable tax treatment a named individual beneficiary can get.
+
+Third, a line on the Family List. If Lena had known the IRA existed, the custodian's name, and where the statements went, she could at least have started the process quickly, and Helmut, writing the list, would probably have noticed the problem himself. Writing a Family List is, among other things, an audit. People find their own mistakes while doing it.
+
+**The plain-language version.** Think of every account with a beneficiary form as a separate little will, kept in a drawer at the institution. It does what it says on the day you die, with no regard for anything else. If the person it names has died, it does whatever the institution's small print says, which is usually "go to court."
+
+**What to do.**
+
+- Name a contingent beneficiary on every form. Every one.
+- When a beneficiary dies, update the form within weeks.
+- Keep foreign accounts on your Family List with the institution, the account type, the last four digits of the number, and a phone number that works from abroad.
+- If you live in one country and have accounts in another, ask an adviser whether it is simpler to consolidate. Fewer accounts in fewer countries make life easier for everyone, including you.
+- Update your email address with every institution. A statement that goes to a dead inbox is a reminder that never arrives.
+
+### Case 5: The twelve-year-old beneficiary
+
+**The situation.** Rosa was a single mother in Fresno, a dental hygienist with a good sense of humour and a twelve-year-old son, Mateo, who was the centre of her world. Mateo's father had not been involved for years. When Rosa started a new job with good benefits, she enrolled in the employer's group life insurance and bought an additional term policy of her own. On both forms, under "beneficiary," she wrote "Mateo," with his date of birth, and felt a quiet satisfaction. Whatever happened, he would be looked after.
+
+Rosa's sister, Carmen, lived nearby, and the two had a firm understanding: if anything happened to Rosa, Mateo would live with Carmen. They had talked about it many times. They had never written it down.
+
+Rosa died at thirty-eight, of an aggressive cancer, eight months after the diagnosis. She was too ill, in those months, to think about paperwork, and nobody wanted to bring it up.
+
+**What the family assumed.** Carmen assumed she would raise Mateo, because that was what Rosa wanted and everyone knew it. She assumed the insurance money would be available for his care, because it was his.
+
+**What actually happened, and why.** Two separate problems arrived at once, both rooted in the fact that Mateo was a child.
+
+The first was custody. With no parent able to care for him, Mateo needed a legal guardian. California allows a parent to nominate a guardian for a minor child, in a will or another signed writing (Probate Code § 1500), and courts generally give that nomination great weight. Rosa had not made one. Carmen had to petition the court for guardianship of Mateo's person. The court process involved an investigation and notice to relatives, including Mateo's father, who had not seen his son in years but now had views. In the end the court appointed Carmen, because it was plainly in Mateo's interest, but it took months, and for those months nobody quite knew whether Mateo would stay where he was.
+
+The second problem was the money. Insurance companies do not hand large sums to twelve-year-olds, and a minor in California cannot legally manage significant property in his own name. Someone had to be appointed to receive and manage the money for him. That generally means a guardianship of the estate, which is a separate court role from guardianship of the person, with its own requirements: a bond or a restricted account, inventories, periodic accountings to the court, and court permission for significant spending. Carmen, who had been named by nobody for anything, now needed court authority to use money meant for Mateo's own care, and had to account for how she spent it.
+
+Then there was the far end of the problem. When a minor's estate is managed under court supervision, the protection generally ends when the child turns eighteen. At eighteen, Mateo would receive whatever was left, outright, at an age when most of us would have spent it on a car with a spoiler and a sound system that could be heard from orbit.
+
+**What would have prevented it.** On custody: a signed nomination of Carmen as guardian of Mateo's person, in a will or other writing, with a backup. It costs nothing but a conversation.
+
+On the money, there were several better options.
+
+- **A trust for Mateo.** Rosa could have created a trust, either in her will (a testamentary trust) or as a separate revocable living trust, and named the trust as beneficiary of both insurance policies. She could have named Carmen as trustee and chosen the age at which Mateo would receive what was left: twenty-five, say, or one-third at twenty-five, one-third at thirty, and the rest at thirty-five. The trustee could spend on his health, education, and support without asking a court.
+- **A custodian under the Uniform Transfers to Minors Act.** California, like most states, has a version of this act, which allows property to be held by a named custodian for a minor without a court guardianship. It is simpler than a trust. The custodianship ends at an age the law sets, which is younger than many parents would choose, so ask a lawyer whether it fits.
+- **A named adult beneficiary with a moral understanding.** Some people name the intended guardian directly as beneficiary, trusting them to use the money for the child. This avoids court but gives the money to the adult outright, exposed to that adult's creditors, divorce, and honesty. It works only with complete trust, and even then it can go wrong if the adult dies.
+
+**The plain-language version.** A child needs two kinds of grown-up after a parent dies: one to raise them and one to look after their money. They can be the same person. Both should be named in writing, by the parent, before anyone has to ask a judge.
+
+**What to do.**
+
+- If you have children under eighteen, nominate a guardian in writing, today, and ask the person first. Name a backup.
+- Do not name a minor child directly as beneficiary of life insurance or retirement accounts. Name a trust, a custodian, or an adult, after advice.
+- Choose an age at which the child should receive money outright, and make sure your documents actually say it.
+- Write a guardian brief (Appendix E) for the person you name: the child's routines, health, friends, and the things only you know.
+- Tell the child, if they are old enough, who would look after them. Children worry about this more than adults think.

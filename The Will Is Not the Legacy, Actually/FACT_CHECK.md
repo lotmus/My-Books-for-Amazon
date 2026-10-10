@@ -59,3 +59,4 @@
 - CA Prob 876: content disclosure if user consented or court directs; 877 catalogue only.
 - Copyright: US 17 USC 302 life+70 (works since 1978); DE UrhG 64 life+70.
 - ErbStG 30: report taxable acquisition to Finanzamt within 3 months (exceptions).
+- CA Prob 5301 joint account owned during life per net contributions; 5302 survivor takes at death unless clear and convincing evidence of different intent.
