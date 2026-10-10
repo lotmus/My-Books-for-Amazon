@@ -1,7 +1,0 @@
-# About the Author
-
-## English
-Lothar J. Musiol is a graduate of Munich University of Applied Sciences and has spent many years in the semiconductor industry. Meanwhile, he studied science with enough depth to know exactly where he simplifies in his explanations, and where he does not. He gained most of his experience in the United States, where he supported several start-ups. Today, he makes good use of his dual citizenship and divides his time between San Clemente (California) and Passau (Bavaria). His goal is to present complex relationships more clearly and engagingly than many treatments manage, without obscuring their true complexity.
-
-## Deutsch (German)
-Lothar J. Musiol ist Absolvent der Hochschule München und verbrachte mehr als vier Jahrzehnte in der Halbleiterindustrie. Parallel dazu studierte er Physik mit der nötigen Tiefe, um genau zu wissen, wo er in seinen Erklärungen vereinfacht — und wo nicht. Nach seiner Tätigkeit bei dem damals führenden deutschen Unternehmen der Branche sammelte er die meisten seiner Erfahrungen in den USA, wo er mehrere Start-ups unterstützte. Heute nutzt er seine doppelte Staatsbürgerschaft und lebt abwechselnd in San Clemente (Kalifornien) und Passau (Bayern), wo er die Gesellschaft seiner Tochter und elf Hühner genießt — mit Österreich direkt hinter dem Gartenzaun. Sein Ziel ist es, komplexe Zusammenhänge klarer und ansprechender darzustellen, als es viele andere Darstellungen vermögen, ohne ihre tatsächliche Komplexität zu verschleiern.
