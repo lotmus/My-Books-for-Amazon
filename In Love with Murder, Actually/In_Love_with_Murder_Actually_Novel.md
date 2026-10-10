@@ -237,7 +237,7 @@ She went down the steps, and then turned at the bottom, as people in her trade d
 
 "Unofficially I would like a copy." She got into the car. "Typed. On paper. Kept somewhere dry."
 
-Lake Verrane was in the south of France, which Tobias had known for several weeks and had somehow still failed to prepare for.
+Lake Verrane was in the south of France, which Tobias had known for twelve days and had somehow still failed to prepare for.
 
 When she had gone, he walked to the garage in the village and hired a small car, because there was a bookshop in the next town and he needed, urgently, to be able to say more to his housekeeper than thank you in the voice of her aunt. The man at the garage had handed over the keys with the expression of a vet releasing a pet to an owner he did not trust. "À droite," the man had said, three times, pointing at the road. Tobias had nodded three times and driven out of the yard on the left.
 
