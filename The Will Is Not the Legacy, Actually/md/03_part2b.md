@@ -182,6 +182,8 @@ They made an uneasy arrangement: George would stay, pay the taxes and repairs, a
 
 **If it has already happened.** If you have inherited half of a house in which the deceased's spouse still lives, the worst move is a quick ultimatum. Get a valuation. Find out what the surviving spouse can afford: a buy-out, a rent, a life-long arrangement with the sale at the end. Put any arrangement in writing, with who pays taxes, insurance, and repairs, and what happens at the next death. A written co-ownership agreement among people who are not family is not a sign of mistrust. It is the only thing that keeps the peace.
 
+**Why couples skip the joint meeting.** In second marriages, people often prefer to see lawyers separately, out of tact. Nobody wants to discuss, in front of their spouse, how much they are leaving to their own children. That tact is exactly what produced Patricia's will. A good estate lawyer can see a couple together, explain the conflicts openly, and help them reach a plan both can sign. If one spouse wants separate advice as well, that is fine. But the plan for the house they share should be made in the same room, with both of them reading the same draft.
+
 **What to do.**
 
 - In a community property state, remember that your will controls your half of the community property, not the whole.
@@ -230,5 +232,5 @@ Sophie, who had never wanted to take anything from her brother, told him at the 
 
 - If you are in Germany and want to treat your children unequally, see a notary about compulsory shares before you give anything away.
 - Ask the child who will receive less whether they would sign a waiver, and what would make it fair.
-- Write down why you are doing what you are doing. Appendix G has a template for an unequal-gift letter.
+- Write down why you are doing what you are doing. Chapter 34 shows how to write a letter for an unequal gift.
 - If one child is caring for you, record it: dates, hours, what was done. It may matter later, and it will matter to them now that you noticed.

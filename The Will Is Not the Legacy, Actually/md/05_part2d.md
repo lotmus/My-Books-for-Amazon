@@ -38,6 +38,8 @@ California's Uniform Statutory Form Power of Attorney (Probate Code § 4401), si
 
 **If it has already happened.** If you are named in a springing power and cannot get it to spring, ask the doctors precisely what they need to see, in writing, and whether a formal capacity assessment can be expedited. Ask the bank what it will accept in the meantime. Ask the principal, on a clear day, whether they would sign a new, immediately effective power; if they have capacity to do that, it may be the fastest fix. Keep a record of every bill and payment, so that when you do have authority you can show exactly what you did.
 
+**The wider lesson about trust.** Carol's real question was never about doctors. It was whether she trusted Eric. Estate planning forces people to answer that question in writing, and many would rather not. A springing power, a co-agent who must sign everything jointly, a requirement for court approval: all of these are ways of saying "I trust you, but." Sometimes those safeguards are wise. When the agent is the person you would actually call from the hospital, they are usually just friction. Decide whom you trust, name them plainly, and build in a second pair of eyes if you want one, such as a requirement to share statements with a sibling.
+
 **What to do.**
 
 - If you trust the person enough to name them, consider making the power effective now.
@@ -85,6 +87,8 @@ Robert might also have considered a will, since Denise would have inherited noth
 
 **The German version.** Germany has the same gap. Without a *Vorsorgevollmacht*, the court appoints a legal guardian (*Betreuer*) for an adult who cannot manage their affairs (BGB § 1814). The court must consider the person's wishes and close relationships, and a long-term partner is often appointed, but it takes time, and the court supervises. The 2023 spouse's emergency right (Case 18) does not help unmarried partners at all.
 
+**The documents in practice.** An advance health care directive in California does two jobs: it names an agent, and it lets you write down instructions. The statutory form takes about half an hour to complete, and a notary or two qualified adult witnesses complete it. Some restrictions apply to who may witness; the form explains them. Keep the original at home, give copies to your agent and your doctor, and ask the doctor to put a copy in your medical record. A financial power of attorney is longer, needs a notary, and is worth having a lawyer review if you own a business or real estate. Together, they are the most valuable afternoon most adults will ever spend on paperwork.
+
 **What to do.**
 
 - Sign a durable power of attorney and an advance health care directive now, whatever your age.
@@ -127,6 +131,8 @@ German law requires the power of attorney to be in writing, and to mention expre
 **The California version.** California has no equivalent automatic spouse power for finances. Without a power of attorney, a spouse may need a conservatorship to manage the other spouse's separate property, and some transactions involving community property can also require court involvement when one spouse cannot sign. The cure is the same: sign the documents while you can.
 
 **If it has already happened.** If you are using the spouse's emergency right now, note the date on the doctor's confirmation and count six months forward. Apply to the guardianship court early, well before the deadline, and propose yourself as guardian; the court will hear the patient where possible and ask about their wishes. If the patient has lucid periods, ask a notary whether a *Vorsorgevollmacht* could still be signed; notaries are used to assessing capacity, and many will visit a hospital.
+
+**Why the six-month limit exists.** The German legislature chose a narrow emergency right on purpose. A spouse is often the right person to decide in the first days after an accident, but marriages differ, and the law did not want to give every spouse sweeping long-term power by default. For anything longer or wider, it expects either a power of attorney chosen by the person themselves or a guardian appointed and supervised by a court. Seen that way, the six-month limit is not a trap. It is the law telling married couples, politely, to make their own arrangements.
 
 **What to do.**
 
@@ -176,6 +182,10 @@ Write the answers down in your own words. Then take them to the form. Appendix F
 
 **If it has already happened.** If you are the agent and the directive is vague, ask the doctors for a family meeting, and ask them to explain the realistic outcomes of each option, not only the risks. Bring the people who knew the patient best and ask a single question: what would she have said, if she could hear this conversation? Write down the reasons for whatever you decide. You will want them later, when you lie awake. And remember that a vague directive is still a gift: it named you because she trusted you to decide.
 
+**Why slogans feel enough.** "No heroic measures," "no machines," "let me go with dignity": these phrases feel complete to the person who writes them, because they know what they mean. They are shorthand for a whole picture of a good and a bad death. The people left behind do not have the picture, only the shorthand. Good directives replace the shorthand with the picture: concrete situations, specific treatments, and a sentence or two about values, such as "I care more about being at home and comfortable than about living longer."
+
+**What Joan wishes she had asked.** Years later, Joan said the hardest part was not the decision but the loneliness of it. She wished she had asked her mother one question while she could: "If you got pneumonia and could not tell us what you wanted, would you want antibiotics?" It is not a morbid question. It is the kind of question a daughter can ask over lunch, and the answer would have been worth more than any form.
+
 **What to do.**
 
 - Write your wishes as situations and treatments, not slogans.
@@ -219,6 +229,8 @@ Once Ingrid had died without such a clause, Hans had one more option: a notarise
 
 **If it has already happened.** If you are a widow or widower bound by a joint will and want to provide for a new partner, see a notary before making any gift or new will. Ask whether the old will contains a change clause, whether your children would agree to a notarised arrangement, and whether a gift you are thinking of making could be reclaimed later. If you are the new spouse, ask to see the old will, gently, before you give up your own home.
 
+**Why the Berliner Testament is so popular anyway.** It is simple, it protects the surviving spouse, and it postpones the children's inheritance until both parents have died, which is what many parents want. Its binding effect is a feature as well as a risk: it protects the children from a survivor who might otherwise be persuaded to change everything. The trouble arises only when life after the first death turns out differently from what the couple imagined. A change clause costs a sentence. Most couples who later need one would have written it gladly, if anyone had asked.
+
 **What to do.**
 
 - Before you write a joint will in Germany, decide whether the survivor should be free to change the final heirs. Write that decision into the will.
@@ -255,6 +267,8 @@ So the two systems pulled in different directions. Helga, as heir in Germany, fa
 **The plain-language version.** If you live in one country and own property in another, you have not two estates but one, seen through two pairs of glasses. Each country will apply its own rules about which law applies. The European rule is simple: where you live decides, unless you choose your nationality's law in writing.
 
 **If it has already happened.** If someone has died with assets in two countries, the heirs should agree early on one coordinating lawyer, usually in the country of habitual residence, who works with a counterpart in the other. Collect the death certificate in multiple certified copies, with apostilles; you will need more than you think. Apply for a European Certificate of Succession for the European assets if the institutions abroad will accept it. Get cross-border tax advice before any money moves between countries.
+
+**Living between countries, honestly.** Many people move abroad in retirement without thinking of themselves as emigrants. They keep a house, a bank, and a doctor in the old country and treat the new country as a long holiday. The law does not see it that way. After a few years, habitual residence usually follows your daily life, not your sentiment. If you have moved, assume your succession will be governed by the law of where you now live, unless you choose otherwise in writing, and plan accordingly.
 
 **What to do.**
 
@@ -304,6 +318,8 @@ Part Six and Chapter 38 describe how to set this up without writing passwords on
 - Which accounts would my family need first, and do they know which ones?
 - Have I turned on legacy-contact or inactive-account settings anywhere?
 
+**Why this case grows more common every year.** A generation ago, a family clearing out a house found the important papers in a drawer: bank statements, insurance policies, photographs, letters. Today, for many people, the drawer is a phone. The documents still exist, but behind a passcode, inside encrypted storage, linked to accounts that require a code sent to the same phone. Each layer of security protects you while you are alive. Each one becomes a locked door for your family after your death, unless you leave a key with someone you trust.
+
 **What to do.**
 
 - Turn on legacy-contact or inactive-account settings in your main accounts today.
@@ -343,6 +359,8 @@ Daniel and Luis, who had nodded at every word, discovered after their father's d
 **What a good companion video looks like.** If Raymond had signed a valid will, his video could have done three useful things. It could have shown his capacity: he knew the date, his family, his property, and what he was doing. It could have explained his reasons: why Alicia, who had cared for him, should have the house. And it could have spoken to each child directly, so that nobody had to guess how he felt about them. The best companion videos are short, made close in time to the signing, and recorded without the main beneficiary in the room. A lawyer may advise against a video if the person is visibly confused, because a poor video can harm a will as much as a good one helps it. Chapters 29 and 31 cover how to record, store, and share them.
 
 **If it has already happened.** If someone you love has left a video that says what they wanted but no valid will, the law will not follow the video, but the family can. Heirs under the old will or the intestacy rules can choose to honour the wishes in a video by agreement, with advice on how to document it and on any tax reporting. That choice is a moral one, not a legal one. It is easier to make when the video is watched together, calmly, and early.
+
+**Why a video feels like a will.** It has everything a will seems to need: the person, the words, the date, witnesses who heard it. What it lacks is the one thing both legal systems insist on: a document whose integrity can be checked and which shows that the person meant this, finally, as their will, by signing or by writing it out. Videos can be edited, cut, and recorded in many takes. Paper with a signature and witnesses, or a whole page in one's own hand, is old technology, but it is the technology the law trusts.
 
 **What to do.**
 
@@ -387,6 +405,10 @@ Chapter 24 describes the general pattern: secrets go in secure storage; document
 - If I died tonight, would anyone know these assets exist?
 - Could they recover them without me, using only what I have left behind?
 - Could anyone else recover them by reading a document they should not have seen?
+
+**The general pattern.** Oliver's problem is not limited to cryptocurrency. The same rule applies to anything that works like a key: online banking passwords, PINs, safe combinations, the answers to security questions, the code to a gun safe, the password to a business server. None of them belongs in a will. All of them belong on a list that is kept securely, updated regularly, and can be reached by the right person at the right time. That is what Part Six of this book is about.
+
+**The family conversation.** Priya was not a developer. When the lawyer asked whether she would know what to do with a hardware wallet if Oliver died, she laughed and said she did not know what one looked like. That was the most useful moment of the meeting. A plan for digital assets that only its author understands is not a plan. Oliver spent a Sunday afternoon showing her the device, the storage, and the instructions, and rewrote the instructions twice until she could follow them on her own. He described it as the most humbling code review of his career.
 
 **What to do.**
 

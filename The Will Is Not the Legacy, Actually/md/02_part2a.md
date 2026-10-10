@@ -2,7 +2,7 @@
 
 *Educational guide, not legal advice. Every family here is invented. The rules they run into are real, and where a case names California or Germany, the rule was checked against the statute or an official court source.*
 
-The short version of this book says what a will does not control. This part shows what happens next. Each case has the same five pieces: the situation; what the family assumed; what actually happened, and why; what would have prevented it; and a short "what to do" at the end. Read them in order or dip in. If one of them makes you put the book down and go and find a folder, it has done its job.
+The short version of this book says what a will does not control. This part shows what happens next. Each case has the same backbone: the situation; what the family assumed; what actually happened, and why; what would have prevented it; and a short "what to do" at the end. Most cases also show how the same story would play out on the other side of the Atlantic, and what to do if it has already happened in your family. Read them in order or dip in. If one of them makes you put the book down and go and find a folder, it has done its job.
 
 A word about the legal explanations. Where a case turns on a statute, I name it once, so you or your lawyer can look it up, and then explain in plain words what it does. You do not need to remember section numbers. You need to remember the shape of the trap.
 
@@ -105,7 +105,7 @@ Margaret's will, signed fifteen years earlier, left everything equally to her th
 
 She died at eighty-four. The accounts held about 190,000 dollars. Her other assets were a car, some furniture, and a small amount of jewellery.
 
-**What the family assumed.** Margaret assumed she had arranged help with paperwork. Robert and Philip assumed the will divided everything three ways, because that is what the will said. Ellen, if she thought about it, assumed she was the person who paid Mum's bills.
+**What the family assumed.** Margaret assumed she had arranged help with paperwork. Robert and Philip assumed the will divided everything three ways, because that is what the will said. Ellen, if she thought about it, assumed she was the person who paid Mom's bills.
 
 **What actually happened, and why.** A joint account with right of survivorship belongs to the surviving owner when one owner dies. It does not pass under the will, and it does not go through probate. The California courts' own self-help pages tell survivors that bank accounts owned by more than one person, including the person who died, are left out when working out whether an estate is small enough for simplified procedures, precisely because they pass directly to the surviving owner.
 
@@ -175,6 +175,8 @@ Third, a line on the Family List. If Lena had known the IRA existed, the custodi
 - What would my heirs need to send you if I died while living abroad?
 - Can I update my contact details and beneficiaries online, from another country?
 
+**Why Helmut's mistake is so common.** People who work abroad open accounts for practical reasons: a retirement plan with an employer, a brokerage account for savings, a bank account for the salary. When they move on, closing those accounts is a chore with no deadline, so it waits. Twenty years later, the person who opened the account has changed countries, partners, and email addresses, and the account has not changed at all. Every one of those accounts is a small time capsule of the person you were when you opened it. Open them once a year and check that they still describe the person you are.
+
 **What to do.**
 
 - Name a contingent beneficiary on every form. Every one.
@@ -218,6 +220,8 @@ On the money, there were several better options.
 - If both of us died tomorrow, who would raise our children? Have we asked them?
 - Who would manage the money, and is that the same person?
 - At what age should our children receive what is left, and do our documents say so?
+
+**The second parent.** Rosa's story had one more thread. Mateo's father was alive. In both California and Germany, a surviving parent generally has strong rights to custody, even after years of absence, unless a court finds that custody with that parent would harm the child. A guardian nomination by the parent who died does not cut those rights off. It does tell the court what that parent wanted, and it carries weight. If you are a single parent and the other parent is absent or unsuitable, say so, calmly and factually, in a letter kept with the nomination, and ask a family lawyer what else you can do. The aim is not to win a fight from beyond the grave. It is to give the judge the information you would give if you could still be in the room.
 
 **What to do.**
 

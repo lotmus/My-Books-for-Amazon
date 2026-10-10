@@ -88,6 +88,8 @@ That is all. Ten minutes, two neighbours, one pen. It is the most underused free
 
 **If it has already happened.** If you find a parent's will on a printed form, unwitnessed, do not throw it away and do not try to "fix" it by adding witnesses afterwards; that can make things worse. Take the original, untouched, to a probate lawyer. Whoever has it must deliver it to the court within thirty days of learning of the death in any case (§ 8200). The lawyer can tell you whether it is likely to stand as a holographic will, and whether the family members who would inherit without it are willing to honour it voluntarily. Families often are, when they understand what the parent wanted and what a court fight would cost.
 
+**Why kits are tempting and what to look for.** Will kits sell because they promise a finished document in an evening. Some are perfectly good, if they are written for your state and you follow their signing instructions exactly. The danger lies in the gap between buying the kit and signing it properly. If you use one, read the signing page first, before you fill anything in, and book the witnesses before you start. A kit that tells you only to sign and date is either written for a different jurisdiction or relying on handwriting rules it does not explain.
+
 **What to do.**
 
 - Use the California statutory will form or a lawyer-drafted will, and sign it in front of two adult witnesses who are present together.
@@ -129,10 +131,12 @@ The more subtle prevention would have been a conversation. Frank could have told
 - Will both witnesses be reachable in ten years?
 - Is there anyone who might be surprised by a gift? Have I told them?
 
+**Why it was the car, not the money.** Disputes over estates are rarely about the largest asset. They are about the object that carries a story: the car, the ring, the piano, the cabin. Maria did not need the car. She wanted the afternoons she remembered sitting in it with her father, and the will seemed to give those afternoons to her brother-in-law. A gift with a story needs the story told, in the will or beside it, and if possible to the person who will be disappointed, while the giver is alive to tell it kindly.
+
 **What to do.**
 
 - Choose witnesses who receive nothing under the will and are not married to anyone who does.
-- If a gift might surprise someone, tell them while you are alive, and write a short letter explaining why (Appendix G).
+- If a gift might surprise someone, tell them while you are alive, and write a short letter explaining why (Chapter 34).
 - For a gift to someone who helped you, describe the help in the will or the letter. "Because he helped me rebuild it" was a good line. A few more sentences would have been better.
 - Keep the will boring. Boring wills are the ones that survive.
 
