@@ -1,7 +1,7 @@
 # Nested repositories with their own history (commit/push them separately)
 /Schrodingers_Paperwork/
-/Quanta, Actually - SERIES/The Quantum Conversation/The Quantum Conversation - Manuscript/
-/Quanta, Actually - SERIES/The Quantum Conversation/quantum-conversation-backup.git/
+/Quantum, Actually - SERIES/The Quantum Conversation/The Quantum Conversation - Manuscript/
+/Quantum, Actually - SERIES/The Quantum Conversation/quantum-conversation-backup.git/
 
 # Office lock files and temporaries
 ~$*
