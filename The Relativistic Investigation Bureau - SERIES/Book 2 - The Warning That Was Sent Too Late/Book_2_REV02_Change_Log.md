@@ -78,3 +78,16 @@ Story words: 48,807 → 48,516.
 
 - `notes/Book 3 seeds.md`: the doors, the horn and the night-train stop, with their sources and the series rules each would have to obey.
 - `KDP.md`: description, 7 keywords, categories and the fields still open.
+
+---
+
+# REV02 follow-ups (2026-10-09, 22:35 PT request)
+
+- **Also by:** removed this book's own entry from its Also-by list. Book 1 is still listed.
+- **Pace pass, chapters 5-11 (the Paddington stretch):** 21 cuts of repeated beats, with no plot, clue or scene removed. The stretch went from 12,322 to 12,030 words.
+  - **Penny's argument:** her "if we strike her now, the fear wrote it" case appeared twice (Ch9 at the tea shelf and again on the chairs). It is now made once.
+  - **Repeated habits:** Sophie's "too big to look at directly" habit was described twice (Ch8 and Ch9). It is kept once, in Ch9, from Derek's side.
+  - **Pigeon jokes:** two of them are gone.
+  - **Repeat descriptions:** Sherlock's mackerel accounting (already given a sentence earlier), the board's city list (it comes again later in the chapter), Tabitha's "where London is" (already said), the doubled school-phone logistics, and several padded clauses.
+  - **Size:** the docx is now 52,629 words and 123 Letter pages. All 52 internal links resolve.
+- **`SERIES_SEAM.md`** (series notes) now names REV02 as Book 2's master and records that DRAFT, REV01 and the old `manuscript_text.txt` export were retired. The worktree copy was identical to `origin/main`, so there were no uncommitted changes from another agent.
