@@ -98,7 +98,7 @@ Leeds, that afternoon, was doing its best. The brick was the colour of a biscuit
 
 The hall light was off. A jacket hung on the banister, brown tweed, better than anything he owned. On the table by the door the anniversary wine stood open. He had been saving it since March. He stood with his keys in his hand and listened to the bed springs tell him what the jacket had already said.
 
-He went up because it was his house. Camilla was there. Gerald, from the golf club, was there. The duvet was his. He asked if it was, because the other questions were too large for the landing. Nobody answered usefully. He went down. He put the wine back in the fridge, out of habit, took it out again, out of dignity, and drank it at the sink. He wrote a note. Gone to France. Keep the duvet. He considered adjectives, and refused them. A person cannot improve that sort of note. He put the Olivetti in its case, and the only copy of the new book in a satchel, and a postcard from a dead friend in his breast pocket, and left the lamps.
+He went up because it was his house. Camilla was there. Gerald, from the golf club, was there. The duvet was his. He asked if it was, because the other questions were too large for the landing. Nobody answered usefully. He went down. He put the wine back in the fridge, out of habit, took it out again, out of dignity, and drank it at the sink. He wrote a note. Gone to France. Keep the duvet. He considered adjectives, and refused them. A person cannot improve that sort of note. He put the Olivetti in its case, and the only copy of the new book in a satchel, and a postcard from a dead friend in his breast pocket, and left the lamps on.
 
 The house in France had been booked since June. He had taken it for the autumn, from a publisher who had been very kind about the price, because a friend of his had drowned in front of it in March and he did not believe she had slipped. A novel was the only instrument he had ever owned for finding things out. He had meant to go on the first of October, with a packed lunch and a plan. Camilla had simply moved the date.
 
@@ -108,17 +108,17 @@ He caught the last train to London and, in the morning, the first train that wen
 
 The wind off the pond took the first page at 6:42 on a Tuesday morning.
 
-It was a pond. The advertisement had said lake, because a lake can be let by the week and a pond cannot. Madame Fournier called it the étang and did not discuss it. Tobias called it the lake for eleven days, because he was English and recently ruined and needed a body of water large enough to have taken a friend. It was not. You could see the far reeds from the jetty. You could wade it, if you were angry, or pushed, or simply unwilling to let paper go. A heron used it. A pelican would later occupy it, and look too big, which was the pond's opinion of grandeur.
+It was a pond. The advertisement had said lake, because a lake can be let by the week and a pond cannot. Madame Fournier called it the étang and did not discuss it. Tobias called it the lake, because he was English and recently ruined and needed a body of water large enough to have taken a friend. It was not. You could see the far reeds from the jetty. You could wade it, if you were angry, or pushed, or simply unwilling to let paper go. A heron used it. A pelican would later occupy it, and look too big, which was the pond's opinion of grandeur.
 
 He had arrived eleven days earlier, by train to Avignon and by taxi up the valley, and had been let in by a brisk young woman from a letting agency who gave him three keys, a Wi-Fi password that did not work, and the information that the old lady in the house next door was away at her sister's in Lyon and was, the young woman said, choosing her words, *formidable*. The house had a study, a kitchen with a stove like a locomotive, a jetty, and a housekeeper. Nobody had mentioned the housekeeper.
 
-Tobias Lind had carried the manuscript out to the end of the jetty because the house was too quiet to read in. He wanted wind and cold and the sound of something bigger than his own failure. The pond did not provide the sound. It provided a surface. He sat down with the satchel on his knees, a Thermos of tea at his elbow, and a gust came across the water and opened the bag like a hand.
+He had carried the manuscript out to the end of the jetty because the house was too quiet to read in. He wanted wind and cold and the sound of something bigger than his own failure. The pond did not provide the sound. It provided a surface. He sat down with the satchel on his knees, a Thermos of tea at his elbow, and a gust came across the water and opened the bag like a hand.
 
 Four hundred pages went up, turned once in the grey light, and settled on the lake like a flock of gulls.
 
 Yes, pages. Real ones. Tobias wrote on a 1962 Olivetti typewriter, bought from a man in Harrogate, on the principle that nothing worth saying should be easy to delete. He owned a laptop. It was in a drawer, in Leeds, being respected from a distance. When people asked whether he backed anything up, he said that he had a very good memory, which was true, and a very poor sense of danger, which was why he was now standing on a jetty.
 
-He did not shout. He was English, and Leeds-born, and the family instinct in a disaster was to say nothing and put the kettle on. He stood very still and watched two years of his life drift away. It was, he reflected, a fairly standard Tuesday.
+He did not shout. He was English, and Leeds-born, and the family instinct in a disaster was to say nothing and put the kettle on. He stood on the planks and watched two years of his life drift away. It was, he reflected, a fairly standard Tuesday.
 
 Then a woman ran past him along the planks and into the lake.
 
@@ -136,9 +136,9 @@ It was the first thing Catarina Vidal ever said to him. He would not understand 
 
 ## Chapter 3: The Housekeeper
 
-She had come to the lake house in September, sent by an agency in the city. Tobias had rented the place for the autumn from a publisher named Victor Hale, who had been very generous about the price, and who had implied, in several warm emails, that the house was his. Too generous, in hindsight. The house came with a housekeeper, and the housekeeper was Portuguese, spoke perhaps thirty words of English, and had never looked at him for longer than politeness required.
+She had come to the lake house a few days before him, sent by an agency in the city. Victor Hale's emails, which had been warm, and had implied that the house was his, had said a great deal about the light and nothing about her. She was Portuguese, spoke perhaps thirty words of English, and had never looked at him for longer than politeness required.
 
-For eleven days they had circled each other like two cats who have been left in the same house by people who did not consult them. She cooked; he ate. She cleaned the study while he walked by the pond; he walked by the pond so that she could clean the study. She said *bom dia* in the mornings and *boa noite* at night, and in between she said nothing at all, and he, who did not know whether she understood English and was too embarrassed to find out, said *thank you* to everything, the soup, the towels, the bread, a door held open, in the overgrateful voice of a man who has been raised to believe that a housekeeper is a kind of weather. Once he found her standing in the study doorway, looking at the satchel on the chair. She went red, and said *pó*, dust, and dusted the doorframe very hard. He thought nothing of it. He thought nothing of anything that fortnight. He was a man who had recently been ruined, and the ruined are very bad at noticing.
+For eleven days they had circled each other like two cats who have been left in the same house by people who did not consult them. She cooked; he ate. She cleaned the study while he walked by the pond; he walked by the pond so that she could clean the study. She said *bom dia* in the mornings and *boa noite* at night, and in between she said nothing at all, and he, who did not know whether she understood English and was too embarrassed to find out, said *thank you* to everything, the soup, the towels, the bread, a door held open, in the overgrateful voice of a man who has been raised to believe that a housekeeper is a kind of weather. Once he found her standing in the study doorway, looking at the satchel on the chair. She went red, and said *pó*, dust, and dusted the doorframe very hard. He thought nothing of it. He thought nothing of anything that month. He was a man who had recently been ruined, and the ruined are very bad at noticing.
 
 That morning she spread the drowned pages across the kitchen table, on every towel the house possessed, and dried them one by one with the same grim patience she gave to scrubbing the stove.
 
@@ -150,7 +150,7 @@ She held up a sheet. The ink had run into grey rivers. "Escrito," she said, and 
 
 She shook her head firmly and went on drying.
 
-He sat across from her for an hour and said nothing, because he had nothing in a language she could use. At the end of it she put a mug of tea in front of him, so weak that the tea bag had clearly been introduced to the water only briefly, in a cup with a chip in it, and walked out. He realised it was the kindest thing anyone had done for him in a year.
+He sat across from her for an hour and said nothing, because he had nothing in a language she could use. At the end of it she put a cup of tea in front of him, so weak that the bag had clearly been introduced to the water only briefly. The cup had a chip in the rim. Then she walked out. He realised it was the kindest thing anyone had done for him in a year.
 
 "Thank you," he called after her. "Obrigada," he added, proud of his one word. He had heard her say it to the baker's van that morning, and had been practising.
 
@@ -164,7 +164,7 @@ He understood, eventually, that a man who learns his first word of a language by
 
 ## Chapter 4: What the Water Left
 
-By noon only a third of the pages could be read, and Tobias was struck by what he was reading.
+By noon only a third of the pages could be read, and Tobias, reading them, remembered why he had written them.
 
 It was a crime novel, the best he had written, and it was built on something true. In March a woman named Elise Marchetti had drowned in this lake. She was a literary editor, forty-one years old, and she had been Tobias's friend. The police had called it an accident. She had slipped from the jetty at night, the report said, after a few glasses of wine.
 
@@ -180,7 +180,7 @@ It was a terrible thing to have written, and a worse thing to have lost, and he 
 
 He had pinned the three names to the study wall with red string, as detectives do in films. It was a dramatic arrangement. He stepped back to admire it, and the string, the pins, the three photographs and, as it turned out, the left-hand curtain all came down on him at once, and he stood for some time in a shroud of toile de Jouy, wondering where it had all gone wrong.
 
-Now the pages that named the villain were floating in a pond, or drying on a towel, illegibly.
+Now the pages that named the villain were in a pond, or on a towel, illegible.
 
 He went up to the study to see what the water had spared, and found he was not the first person there.
 
@@ -202,7 +202,7 @@ Later she came back with the linen she had pretended to be fetching, and stood i
 
 She did not understand the words. She understood his face. She put down the basket, crossed the kitchen, and laid one wet hand briefly on his sleeve.
 
-Then she went back to work, and he sat very still for a long time. The name stayed where she had left it. Inês. He wrote it on the back of an envelope, so that he would not lose it the way he lost everything else, and put the envelope under the Olivetti, and did not look at it again that day.
+Then she went back to work, and he sat where he was until the light moved off the table. The name stayed where she had left it. Inês. He wrote it on the back of an envelope, so that he would not lose it the way he lost everything else, and put the envelope under the Olivetti, and did not look at it again that day.
 
 ## Chapter 5: The Gatepost
 
@@ -242,9 +242,7 @@ She went down the steps, and then turned at the bottom, as people in her trade d
 
 "Unofficially I would like a copy." She got into the car. "Typed. On paper. Kept somewhere dry."
 
-Lake Verrane was in the south of France, which Tobias had known for twelve days and had somehow still failed to prepare for.
-
-When she had gone, he walked to the garage in the village and hired a small car, because there was a bookshop in the next town and he needed, urgently, to be able to say more to his housekeeper than thank you in the voice of her aunt. The man at the garage had handed over the keys with the expression of a vet releasing a pet to an owner he did not trust. "À droite," the man had said, three times, pointing at the road. Tobias had nodded three times and driven out of the yard on the left.
+When she had gone, he walked to the garage in the village and hired a small car, because there was a bookshop in the next town and he needed, urgently, to be able to say more to his housekeeper than thank you in the voice of her aunt. The man at the garage handed over the keys with the expression of a vet releasing a pet to an owner he did not trust. "À droite," he said, three times, pointing at the road. Tobias nodded three times and drove out of the yard on the left.
 
 The tractor was the first casualty of the afternoon, in the sense that it had to stop. The hen was the second, in the sense that it had to run. By the roundabout he had discovered that French drivers regard the indicator as a form of admission, and by the second roundabout, which he entered the wrong way round, he had discovered what the French regard as a suitable response to that. It involved a great deal of horn and one grandmother in a Citroën who leaned out of her window and said something that, even in a language he did not speak, lost nothing in translation.
 
@@ -260,7 +258,7 @@ Tobias rehearsed the sentence he had learned from the phrasebook on the way over
 
 "Bonjour, Madame. Je suis très excité de vous rencontrer."
 
-Madame Fournier looked at him for a long moment.
+Madame Fournier looked at him.
 
 "Ah," she said. "Moi aussi, monsieur. Mais j'ai soixante-treize ans, alors, soyons raisonnables."
 
@@ -278,7 +276,7 @@ Tobias went the colour of a boiled beetroot and changed the subject, which is to
 
 "That one is correct. Congratulations." She stepped over the gravel to inspect the stone, tapped it twice with the secateurs, and turned back to him. "Come. I make coffee. You look like a man who has eaten nothing since the war."
 
-"Non, merci," said Tobias, with great dignity. "Je suis plein."
+"Non, merci," said Tobias, with what he hoped was dignity. "Je suis plein."
 
 Madame Fournier stopped on the step.
 
@@ -338,7 +336,7 @@ He read it aloud. "'She was already dead when the clock struck, which is why nob
 
 He tried the next page. It produced an elegant paragraph about a man named Gerald (the machine had, for reasons known only to itself, mistaken a water stain for the word) and a long passage in a language that appeared to be Finnish. Page twelve came back entirely as a row of tiny cats.
 
-"The ink ran," Tobias said, with the dignity of a man defending his work against an appliance. "It's the water damage. It can't cope."
+"The ink ran," said Tobias, defending his work against an appliance. "It's the water damage. It can't cope."
 
 Catarina took the printout, held it at arm's length, squinted at the damp original, and read the same line aloud, slowly, in her careful English, with every word right.
 
@@ -350,7 +348,7 @@ Catarina took the printout, held it at arm's length, squinted at the damp origin
 
 He looked at the printout, then at her, then at the machine blinking its small green light under the lace cloth, and understood that the pages could not be saved by clever software. They would have to be saved the way she had saved them in the first place, one at a time, by someone who could read.
 
-He gave the laptop back to Madame Fournier, who put it under the lace cloth with the scanner, so that they could keep each other company in disgrace. For the first time in his life, he typed the next chapter on the Olivetti on purpose.
+He gave the laptop back to Madame Fournier, who put it under the lace cloth with the scanner, so that they could keep each other company in disgrace. Then he went upstairs and typed the next chapter on the Olivetti, with the relief of a man returning to a bad habit that has been proved right.
 
 They fell into a routine that neither would have called a routine.
 
@@ -394,7 +392,7 @@ She did not answer at once. She put down her fork, and looked at the cutting, an
 
 ---
 
-They began in the study at twenty to eleven, with the lamp on and the Olivetti uncovered, because Elise had been working, the inquest said, until late; there had been a page in her typewriter, unfinished. Tobias had always wondered what had been on it. Nobody had thought to say.
+They began in the study at twenty to eleven, with the lamp on and the Olivetti uncovered, because Elise had been working, the inquest said, until late; there had been a notebook open on the desk, mid-sentence. Tobias had always wondered what the sentence was. Nobody had thought to say.
 
 "Now," said Catarina, with her wrist turned to the light.
 
@@ -420,7 +418,7 @@ It was eleven metres long. He knew because he had measured it, on his second day
 
 "Four minutes. And twenty." Catarina came out along the planks to stand beside him. Her face was a pale shape. "Is very slow."
 
-"She was very slow. In the dark. In March." He looked down at the water, which was black and very still and made small private sounds against the piles. "Four minutes from the study. She left at twenty to eleven. The splash was at eleven. That leaves fifteen minutes on the jetty."
+"She was very slow. In the dark. In March." He looked down at the water, which was black and flat and made small private sounds against the piles. "Four minutes from the study. She left at twenty to eleven. The splash was at eleven. That leaves fifteen minutes on the jetty."
 
 "Fifteen minutes is a long time to stand in the cold."
 
@@ -430,7 +428,7 @@ Neither of them said anything for a while. Somewhere in the reeds, a bird that s
 
 "Hale says the jetty is rotten," said Catarina.
 
-He had been thinking the same thing. He had been thinking it since June, when Hale's welcome email had ended, in a cheerful postscript, *do be careful of the jetty, it's rotten, I'd hate to lose another guest*. Catarina had found the same postscript on a card propped against the kettle when she arrived. Hale, it seemed, said it to everybody. He knelt down on the planks and put his hand flat on the wood, and then on the next plank, and the next, as Catarina had put her hand on the window seat on the day of the curtain, as if the wood might have something to say. The planks were cold and slightly damp and absolutely sound. He knocked on one. It gave back a dull, solid, unimpressed sound, like a well-fed man being asked for money.
+He had been thinking the same thing. He had been thinking it since June, when Hale's welcome email had ended, in a cheerful postscript, *do be careful of the jetty, it's rotten, I'd hate to lose another guest*. Catarina had found the same postscript on a card propped against the kettle when she arrived. Hale, it seemed, said it to everybody. He knelt and put his hand flat on the planks, one after another, as if the wood might have something to say. The planks were cold and slightly damp and absolutely sound. He knocked on one. It gave back a dull, solid, unimpressed sound, like a well-fed man being asked for money.
 
 "It's not rotten," he said. "It's oak. It's the most solid thing in the valley."
 
@@ -448,7 +446,7 @@ He sat back on his heels.
 
 "If she was awake," said Catarina.
 
-He looked at her. In the torchlight her face was very pale and very still, and she was looking not at him but at the house, at the one lit window, high up, like an eye.
+He looked at her. In the torchlight her face was pale, and she was looking not at him but at the house, at the one lit window, high up, like an eye.
 
 "The newspaper," she said. "Read me the rest. The part about the house."
 
@@ -478,7 +476,7 @@ She looked at the hand. Then she took it, and he pulled her up, and she stood fo
 
 "Why?"
 
-He thought about it, honestly, because she deserved an honest answer and he was not sure he had one.
+He took his time, because she deserved an honest answer and he was not sure he had one.
 
 "Because you'd tell me in Portuguese," he said at last, "and I wouldn't understand it. And I'd like to understand it. When you tell me." He let go of her hand. "I can wait. I'm English. We're very good at standing about in the cold not saying things. It's our national sport."
 
@@ -490,7 +488,7 @@ She made a sound that was not quite a laugh and not quite anything else.
 
 ---
 
-They walked back up the jetty and the three stone steps and the dark lawn, not touching, at the pace of a woman who did not like the dark. In the kitchen, in the yellow light, Catarina put the kettle on, and stood with her back to him while it boiled, and her shoulders were very straight.
+They walked back up the jetty and the three stone steps and the dark lawn, not touching, at the pace of a woman who did not like the dark. In the kitchen, in the yellow light, Catarina put the kettle on, and stood with her back to him while it boiled, her shoulders straight.
 
 When she turned round, she had two cups, and she put one in front of him, in the cup with the chip, and kept the other in both hands.
 
