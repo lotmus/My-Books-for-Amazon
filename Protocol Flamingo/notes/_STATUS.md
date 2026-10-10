@@ -76,6 +76,18 @@ Lothar sent a newer `Protocol_Flamingo_Rev2.docx` from the local Windows copy (l
 - Checked before committing: zip is clean, title page and author properties still say Protocol Flamingo / Lothar J. Musiol, and all 18 hyperlinks survived.
 - Not checked: canon list below, repeated-sentence scan, appendix citations. Whoever edits next should treat the canon list as unverified against this file until someone reads it, since +3,156 words of untracked local passes went in without a session here confirming them against it.
 
+## Audit and fix pass on the synced version, 10 Oct 2026 (informally "REV11")
+
+A critical-reviewer audit of the REV10 sync above (mechanical checks by this session, close literary reads of each Book plus the appendix by parallel sub-agents) turned up and fixed several real defects, all confirmed via a full before/after paragraph diff (36 paragraphs touched, all accounted for; word count, paragraph count, and all 18 hyperlinks unchanged):
+
+- Four chapter openings — "Brussels, Badly Lit", "Aboard", "Zaragoza", "Third Contact" — had picked up a `Heading 2` style on body paragraphs that aren't headings (21 paragraphs total). Root cause, confirmed from the raw XML: each paragraph still carried `pStyle="Heading2"` but with manual overrides (bold off, color reset, body-sized text) making it *look* like body text in Word, which is why it wasn't caught by eye — but the underlying style tag was still wrong, which is what this repo's new docx-validation CI, Kindle's table-of-contents generator, and any screen reader would all have seen. Fixed by removing the stray `pStyle` tag; left the (already-correct-looking) direct formatting alone.
+- "Zaragoza"'s actual chapter-title paragraph had been demoted from `Heading 2` to plain body text, with a hand-typed bold/centered approximation in the wrong font (Arial instead of the book's Georgia) and a slightly different blue. Rebuilt it from the "Brussels, Badly Lit" template so it now matches every other chapter title exactly.
+- Page breaks had drifted along with the above: "Brussels, Badly Lit" and "Zaragoza" no longer started on a fresh page (they shared a page with their Book divider), while "Aboard" and "Third Contact" had an extra, erroneous page break stranding their new opening paragraphs on their own mid-chapter page. Moved the breaks back to immediately before each chapter title, matching every other chapter in the book.
+- Continuity: the aliens' braking-and-arrival math didn't add up on its own terms — "spent the next thirty years braking" after hearing Earth in 1947, but "arrived in about 1979" (1947+30=1977, not 1979). Changed "thirty years" to "thirty-two years" so it lines up exactly with the stated 1979 arrival; updated the canon list below and the two Kade/Dana references to match. (Judgment call: this moves away from the older locked "thirty-three years" figure rather than reverting the 1979 date — if the thirty-three-year figure was the one meant to survive, say so and the 1979 date can be changed instead.)
+- Two canon-list entries below were already stale before this sync and are now corrected to match the book as written: "Chapter XI is The Pretzel Corridor" (the book has always had it at Chapter XVI, since the early-October restructure) and "Thanksgiving is two days later" (the book switched to "Fourth of July" in an early-October pass; the canon list was never updated to match).
+- Minor text fixes: a doubled space in "A NOTE  ON THE COUSINS" and in all nine "(coming  soon)" entries on the Also-By page, a trailing space on one Also-By entry, a stray two-space paragraph at the Book Two/Three boundary, and a trailing empty paragraph at the very end of the file that had inherited a `Heading 1` style for no reason (harmless, but it's exactly what the new CI check watches for, so cleaned it up too).
+- Not fixed here, by design: subjective story-content findings (pacing, dialogue, "yada yada" vs. sharp points) from the literary read are reported separately rather than rewritten unilaterally, since those are editorial/creative calls.
+
 ## Git
 
 Parent repository is `My Books for Amazon`, remote `https://github.com/lotmus/My-Books-for-Amazon.git`.
@@ -95,13 +107,13 @@ Curly apostrophes and curly quotes. American spelling. The British lean is voice
 ## Canon — do not reopen
 
 - The intern is Evan. Dr. Carl Daniels is the only Carl.
-- Saturday wedding. Sunday post. Tuesday the video comes down. Tuesday night Mabs calls, then the flyer. Nora does not meet Jesse that night. Thanksgiving is two days later.
+- Saturday wedding. Sunday post. Tuesday the video comes down. Tuesday night Mabs calls, then the flyer. Nora does not meet Jesse that night. Fourth of July is two days later.
 - The first meeting with Jesse is the diner in Chapter V, because she finally uses the time on the flyer.
 - The man in the parking lot leaves once. Jesse then puts the recorder away.
 - Mabs calls the morning the cars will not leave the block. The diner refers to that call.
 - Confetti is eleven thousand pieces. The stadium seats eighty thousand. “Several thousand people quietly like him” means hybrids in that stadium, not the crowd.
 - “Four days later” is correct twice: Dana’s scene after the wedding, and the alpaca visit after Gladys’s notes.
-- The Boat is a dark hull a few kilometers across, in the Trojan swarm sixty degrees ahead of Jupiter. It is not in Jupiter’s shadow and it is not moon-sized. They noticed Earth’s noise in 1947 and waited thirty-three years. Forty-six years before this story, they came closer and took samples.
+- The Boat is a dark hull a few kilometers across, in the Trojan swarm sixty degrees ahead of Jupiter. It is not in Jupiter’s shadow and it is not moon-sized. They noticed Earth’s noise in 1947 and waited thirty-two years, arriving about 1979. Forty-six years before this story, they came closer and took samples.
 - The eleven missing hours are a sedated rendezvous with a shore boat already in high orbit. There is no faster-than-light trip. Nora did not agree to the sedative. She tells Dana the hours were taken. The Boat stays at the Trojans, about three-quarters of an hour away at the speed of light.
 - Starfall’s reply comes from the shore boat, which is close enough to answer in seconds. The Boat hears the outcome later.
 - The Dipstick reads one marker. Crew bodies make it in bulk. A hybrid leaks it. Steve smells the same marker. Gladys names the pink FLAMINGO. That is the title.
@@ -109,13 +121,13 @@ Curly apostrophes and curly quotes. American spelling. The British lean is voice
 - The implant is neural-dust scale (Seo and colleagues, Neuron, 2016). It talks to a nearby hull, not to Jupiter. Bracewell’s 1960 Nature paper is the citation for the patient probe.
 - The ending is closed. Curtis calls back. The Manitoba file closes. The Escort is alive on the shore boat. Nowak was a clerk in that office, and Dana stops looking. The badges work again on Wednesday. Halvorsen refuses Contingent Illumination. Whitcombe’s line stays in the file. Dominic goes home. Mabs keeps the napkin and the photograph of the plate, and she tells Nora to bring back the man who carved the turkey, not a file. Milo’s school note is on the refrigerator. He is not told the rest.
 - Jesse sends a producer a voice memo that names Dominic. Nora does not forgive it that morning. The producer posts a cold open with no surname: Lissome, and eleven seconds. Mabs hears her town before Nora can warn her. At the stadium Jesse does not say the town again. Nora does not thank him.
-- Kade tells Dana the hull, the swarm, the thirty-three-year wait, and the date. He does not explain the children. The escort does, on the ship.
+- Kade tells Dana the hull, the swarm, the thirty-two-year wait, and the date. He does not explain the children. The escort does, on the ship.
 - The second aircraft costs one Starfall sail. The ring in Texas is short that sail. Kade does not explain the gap.
 - A Starfall flyer is on Nora’s windshield the night of the wedding. The Tuesday on it is wrong. The town is not.
 - Dominic, the week after Thanksgiving, finds the napkin and asks for seats that face the screen.
 - Curtis is answered after Starfall, from the garage in Fort Wayne.
 - Three Handbook epigraphs remain: weddings, evidence, and fraternization. The cast list is gone. The glossary stays.
-- Chapter XI is The Pretzel Corridor.
+- Chapter XVI is The Pretzel Corridor.
 - The note to the reader and the cast list sit in the back, beside the cousins. The nine cousins are films, not books on sale. The series name a shopper can follow is The Invasion Storybooks.
 
 ## Still true, and not a defect
