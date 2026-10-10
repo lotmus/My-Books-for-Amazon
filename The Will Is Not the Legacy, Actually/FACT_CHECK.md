@@ -59,3 +59,19 @@
 - CA Prob 876: content disclosure if user consented or court directs; 877 catalogue only.
 - Copyright: US 17 USC 302 life+70 (works since 1978); DE UrhG 64 life+70.
 - ErbStG 30: report taxable acquisition to Finanzamt within 3 months (exceptions).
+- CA Prob 5301 joint account owned during life per net contributions; 5302 survivor takes at death unless clear and convincing evidence of different intent.
+- CA Prob 5600(c): TOD deed Part 4 sunsets 1 Jan 2032 unless extended (SB 315, Stats 2021 ch 215); covers 1-4 units, condo, ag ≤40 acres w/ house (5610).
+- CA Fam Code 770: inheritance/gift = separate property.
+- CA CCP 872.210: co-owner may bring partition action.
+- 26 USC 1014 inherited basis = FMV at death; gift basis = donor's adjusted basis (IRS Pub 551). Annual gift exclusion 2025 $19,000 (Pub 551 example).
+- BGB 311b notarisation of land contracts; 2042 any co-heir may demand partition at any time; 753 partition of land by forced auction.
+- CA Prob 100: at death, half of community property belongs to surviving spouse, half to decedent. Civ 682.1 community property with right of survivorship (instruments on/after 1 Jul 2001).
+- BGB 2325(3): ten-year period for gifts to spouse starts only on dissolution of marriage. 2057a care by descendant compensated among descendants; 2316 carries into Pflichtteil (testator may exclude; BGH IV ZR 269/20, 24.03.2021). 2346/2348 notarised Pflichtteil waiver.
+- ErbStG 16(1)(7): class III allowance 20,000 EUR (unmarried partner); class III rate from 30%; spouse 500,000.
+- CA Prob 6124: lost will last in testator's possession presumed revoked (rebuttable). 6454 stepchild intestate rule (minority, continued, clear and convincing evidence of intended adoption but for legal barrier). 6100.5 capacity elements. 21311(b) probable cause definition.
+- BGB 2256: return of notarial will from official custody = revocation; handwritten will withdrawn from 2248 custody is not revoked. 1925 second order: parents and their descendants.
+- CA Prob 4129 springing POA: principal may designate persons whose written declaration under penalty of perjury conclusively establishes the event. 4780 POLST (signed by patient/decisionmaker and physician/NP/PA; not an AHCD).
+- BGB 1814 Betreuer appointment; 1827 Patientenverfügung (since 2023); BGH XII ZB 61/16 (6 Jul 2016): "keine lebenserhaltenden Maßnahmen" alone not specific enough.
+- BGH III ZR 183/17 (12 Jul 2018): social network user contract passes to heirs (§1922); heirs may demand full account access incl. messages.
+- BGB 2287 applied by analogy to binding joint-will provisions: final heir can reclaim lifetime gifts made by survivor with intent to impair, absent legitimate lifetime self-interest; claim arises at survivor's death.
+- Pflichtteil claims: regular 3-year limitation (BGB 195), from end of year in which claimant learned of death and of the excluding disposition (199; 2332 since 2010 covers only claims vs donee).

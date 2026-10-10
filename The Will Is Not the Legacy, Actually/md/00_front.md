@@ -8,7 +8,7 @@ The title is the argument. A will is a piece of paper that tells a court who get
 
 Part One is the short version. If time is short, read Chapter 1 and do what it says. It is a sequence, not a philosophy.
 
-Part Two is twenty-four worked cases. Each one shows a family, the move that seemed sensible, the document that actually decided the outcome, and what should have been signed instead. These are the chapters readers remember, because they are where the rules stop being abstract and start costing real money.
+Part Two is twenty-four worked cases. Each one shows a family, what they assumed, what actually happened and which document or rule decided it, what would have prevented it, and what to do, including what to do if it has already happened to you. These are the chapters readers remember, because they are where the rules stop being abstract and start costing real money.
 
 Part Three walks through a sample will clause by clause, then plans the same estate three different ways, and ends with the formalities that make a will valid or useless in California and in Germany.
 

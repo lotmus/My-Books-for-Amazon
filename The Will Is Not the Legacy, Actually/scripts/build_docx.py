@@ -7,7 +7,7 @@ from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 
 TITLE="The Will Is Not the Legacy, Actually"
-SUB="Wills, the real alternatives, and how to keep your thoughts usable after you are gone"
+SUB="Wills, the real alternatives, video messages, and the family list that keeps it all usable"
 AUTHOR="Lothar J. Musiol"
 md_files=sorted(glob.glob('/workspace/will/md/*.md'))
 
@@ -194,6 +194,6 @@ fp=sec.footer.paragraphs[0]; fp.alignment=WD_ALIGN_PARAGRAPH.CENTER
 r=fp.add_run(); f1=OxmlElement('w:fldChar'); f1.set(qn('w:fldCharType'),'begin'); r._r.append(f1)
 it=OxmlElement('w:instrText'); it.text='PAGE'; r._r.append(it)
 f2=OxmlElement('w:fldChar'); f2.set(qn('w:fldCharType'),'end'); r._r.append(f2)
-doc.core_properties.title=TITLE; doc.core_properties.author=AUTHOR
+doc.core_properties.title=TITLE; doc.core_properties.subject=SUB; doc.core_properties.author=AUTHOR
 out='/workspace/will/out/The_Will_Is_Not_the_Legacy_Actually_MASTER.docx'
 doc.save(out); print(out, len(heads), 'headings')
