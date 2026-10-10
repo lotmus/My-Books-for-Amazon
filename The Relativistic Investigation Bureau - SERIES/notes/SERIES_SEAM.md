@@ -2,7 +2,7 @@
 
 Not for publication. Read this before writing any later book. It is the list of things that are already true, so the next manuscript sounds like the same office rather than a reboot.
 
-Book 1 is `Book 1 - The Murder That Hadnt Happened Yet/` (master `FINAL_REV10_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`; build text `scripts/manuscript_text.txt`). Book 2 is `Book 2 - The Warning That Was Sent Too Late/` (master `The_Warning_That_Was_Sent_Too_Late_BOOK_2_DRAFT.docx`; build text `scripts/manuscript_text.txt`). Since the 2 Oct 2026 audit (`notes/audit_2026-10-02.md`) the docx is the master in both books and the text files are behind it. Looks and rooms in detail live in `CHARACTER_AND_SETTING_BIBLE.md`. Case clocks live in `SERIES_BIBLE_continuity_chart.md`. This file is the seam: tone, habits, places, and what must not be reinvented.
+Book 1 is `Book 1 - The Murder That Hadnt Happened Yet/` (master `FINAL_REV10_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`; build text `scripts/manuscript_text.txt`). Book 2 is `Book 2 - The Warning That Was Sent Too Late/` (master `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV02.docx` since 9 Oct 2026, edited directly; the DRAFT and REV01 docx and the old `scripts/manuscript_text.txt` export are retired to `D:\bak\2026-10-09 RIB2 integrate\retired\`). Since the 2 Oct 2026 audit (`notes/audit_2026-10-02.md`) the docx is the master in both books and the text files are behind it. Looks and rooms in detail live in `CHARACTER_AND_SETTING_BIBLE.md`. Case clocks live in `SERIES_BIBLE_continuity_chart.md`. This file is the seam: tone, habits, places, and what must not be reinvented.
 
 Physics is the plot. Private lives are invented. The physicists they echo are not their names. Julius is not Julian Barbour. The other Julian is Tuppence's, and he makes clothes hangers.
 
@@ -59,7 +59,7 @@ Do not let a later book resolve which side of ten o'clock the door opened. Do no
 
 **Munich.** Weinstein's patent office is in Schwabing, cold window, trams, a blotter, a brass clock that skips. Barbarian's house is in the same city. Neither of them is "going back to Munich" from a foreign Barbarian. The S-Bahn stays in Munich.
 
-**Paris.** The Louvre basement is small, stone, too quiet, a table, a clock, a paper asking for tau. The guard is never in the same place twice. The building gets older as they go down. Do not restage it as a new mystery unless the new physics needs that room.
+**Paris.** NOT IN THE CURRENT BOOK 1 DOCX (flagged 2026-10-04) — a fresh full-text audit found no Louvre scene, Paris trip, or recurring guard anywhere in the current manuscript. The description below is kept only as a record of the originally planned scene; do not treat it as established Book 1 canon until it is either written into the book or this note is removed. The Louvre basement is small, stone, too quiet, a table, a clock, a paper asking for tau. The guard is never in the same place twice. The building gets older as they go down. Do not restage it as a new mystery unless the new physics needs that room.
 
 **Trains.** Platform Seven and the London terminus that should not exist are the anomalous railway. Paddington is a real station. Book 2 uses it for a 16:00 airport train that leaves after Weinstein boards it. Do not merge Paddington with the doorway platform. The doorway train's board can say YESTERDAY. That word is a direction. On the Monday Book 2 opens, yesterday the calendar day was Sunday.
 

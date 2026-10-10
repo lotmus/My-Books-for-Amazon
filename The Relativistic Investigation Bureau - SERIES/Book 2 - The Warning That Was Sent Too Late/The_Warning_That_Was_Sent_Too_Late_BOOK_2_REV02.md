@@ -992,7 +992,7 @@ At the corner of Praed Street she slowed, and stopped, and did not go further.
 
 "Then I'll be here in an hour."
 
-Paddington was doing Monday in the ordinary way. Brunel's great roof hung over everything in its long arches of iron and glass, letting in a grey light that made the whole concourse look like it had been developed slightly too long. Pigeons conducted their business at ankle height with the air of tenants who had been there first. The departure board changed for reasons, as departure boards do, rearranging Reading and Oxford and Bristol Temple Meads with no apparent malice. Among them, in the same tired white as everything else, was a train to the airport at 16:00, with Weinstein's name not on it because he had not yet bought the ticket.
+Paddington was doing Monday in the ordinary way. Brunel's great roof hung over everything in its long arches of iron and glass, letting in a grey light that made the whole concourse look like it had been developed slightly too long. Pigeons conducted their business at ankle height with the air of tenants who had been there first. On the board, in the same tired white as everything else, was a train to the airport at 16:00, with Weinstein's name not on it because he had not yet bought the ticket.
 
 He bought the ticket. He did it at a machine, standing bolt upright, and for the forty seconds it took he looked briefly like a member of the public, which he resented and Penny enjoyed more than anything that had happened since the weekend.
 
@@ -1024,7 +1024,7 @@ She made it as she made most decisions, once, and put the itinerary back in her 
 
 "Because if a station has anything that doesn't belong to it, that's where it keeps it."
 
-Lost property, at Paddington, was a window and a man who had already decided their problem was not his. His moustache had once meant to be a better one, and had settled. He was not Pendleton. Pendleton was a specialist; Pendleton had spent decades refining the art of a form being in another building. This man was merely tired. He had the tiredness of someone who had spent twenty years being handed umbrellas by people who were sure they had left a violin.
+Lost property, at Paddington, was a window and a man who had already decided their problem was not his. His moustache had once meant to be a better one, and had settled. He was not Pendleton, who had spent decades refining the art of a form being in another building. This man was merely tired. He had the tiredness of someone who had spent twenty years being handed umbrellas by people who were sure they had left a violin.
 
 "Bureau," Penny said, and laid nothing on the counter, because they had nothing he was obliged to take.
 
@@ -1098,7 +1098,7 @@ It did not put a child on it. It put cities on it, one after another, in the pat
 
 He stopped. Mostly.
 
-Tabitha had come as far as the pavement and no further. She was exactly where she had said she would be, on Praed Street, by a bollard, and had plainly not moved except to be rained on. She had said she would stand where London was, and Paddington's pavement qualified.
+Tabitha had come as far as the pavement and no further. She was exactly where she had said she would be, on Praed Street, by a bollard, and had plainly not moved except to be rained on.
 
 She did not ask what the slip said. She asked him.
 
@@ -1140,7 +1140,7 @@ Herbert Matkowski answered on the second ring, as if the telephone were a blackb
 
 "I know where you are. Alfred told me on Saturday that he was staying in London to be polite for a week, and I told him he had never in his life been polite for a week, and that something would happen to rescue him. What has happened to rescue him?"
 
-Derek told him. He had rehearsed it on the walk without meaning to, like a phone call to a bank, and it came out in the order the morning had taught him: Sunday's slip, the sheet, the door, the voice, and two seventeens that were not the same.
+Derek told him. It came out in the order the morning had taught him: Sunday's slip, the sheet, the door, the voice, and two seventeens that were not the same.
 
 There was a silence on the line. It was not an empty silence. It was the silence of a man drawing something.
 
@@ -1206,7 +1206,7 @@ There was a short pause, and when Barbarian spoke again, the amusement had gone 
 
 Sherlock came in as Sherlock always came in: not in person. Sherlock was a bottlenose dolphin who had consulted for the Bureau on Case 1047, by methods nobody at the Bureau had ever been able to explain, and who had been paid, at his own insistence, in mackerel.
 
-Trevor's phone woke on his knee without being touched. The screen did not show a number. Nobody had ever seen Sherlock's number, and Accounts had stopped asking; the line on the Bureau's books still read Miscellaneous Marine, and the receipts were for mackerel. A single line of text arrived in the middle of a white screen, the way a stone arrives at the bottom of a pond.
+Trevor's phone woke on his knee without being touched. The screen did not show a number; nobody had ever seen Sherlock's number, and on the Bureau's books he was still Miscellaneous Marine. A single line of text arrived in the middle of a white screen, the way a stone arrives at the bottom of a pond.
 
 No.
 
@@ -1232,7 +1232,7 @@ Derek looked at the name on Trevor's envelope. Trevor had written it down in the
 
 "You're asking me to do something with it. Your face is asking. Nothing is what we do with it. For now."
 
-They did not ring Sophie again. The school had been told. The gate had been refused, twice, by the two people with the right to refuse it. The name sat on Trevor's envelope, unstruck, unexplained and unmoved. Derek thought it the most honest thing on the page; it was the only line on it that did not pretend to know more than it did.
+They did not ring Sophie again. The gate had been refused, twice, by the two people with the right to refuse it. The name sat on Trevor's envelope, unstruck, unexplained and unmoved. Derek thought it the most honest thing on the page; it was the only line on it that did not pretend to know more than it did.
 
 The board above them clicked over. The 16:00 to the airport moved up a place. Somewhere in Munich, a man with excellent handwriting had gone back to his afternoon, and another had gone back to his clocks, and in an office in London a train that was going nowhere was costing the landlord a fortune in metaphor.
 
@@ -1282,7 +1282,7 @@ She took it. She took the lid off and looked at it and put the lid back on, as s
 
 "It's a station board. It's only allowed to say places."
 
-Tabitha considered the traffic. A bus came and went. A man with a suitcase walked past them twice, in opposite directions, with the air of someone who had been given directions by a pigeon.
+Tabitha considered the traffic. A bus came and went.
 
 "You texted me."
 
@@ -1344,7 +1344,7 @@ Tabitha said nothing for a while. The rain went on attending.
 
 "So the sheet—"
 
-"The sheet doesn't need a sender who's been born. It needs somebody who did something, before five past ten this morning, that put it in the room. That's all. That's the field. Not when were you born. When did you write it." He took his glasses off. The rain got on them immediately, and he regarded them in his hand as if they had betrayed him, and put them in his pocket. "We don't know who. We might never know who. But we've been asking the wrong question since lunch."
+"The sheet doesn't need a sender who's been born. It needs somebody who did something, before five past ten this morning, that put it in the room. That's all. That's the field. Not when were you born. When did you write it." He took his glasses off, and the rain got on them at once, and he put them in his pocket. "We don't know who. We might never know who. But we've been asking the wrong question since lunch."
 
 "Then go back in and tell them the right one."
 
@@ -1414,7 +1414,7 @@ That was all she saw: a grey banner at the top of the screen, the Bureau's name 
 
 She did not tap it.
 
-She sat on the wall with the sandwich in one hand and the phone in the other and watched the heron. Priya, beside her, was explaining at length why Mr Okafor was frightened of fractions, a theory that involved his childhood, a divorce, and a pizza. Sophie was not listening. She was doing what her father did when a thing was too big to look at directly, which she had never once admitted to having got from him, and which she had never once pretended not to know about either.
+She sat on the wall with the sandwich in one hand and the phone in the other and watched the heron. Priya, beside her, was explaining at length why Mr Okafor was frightened of fractions, a theory that involved his childhood, a divorce, and a pizza. Sophie was not listening.
 
 A heading had arrived from the Bureau. The Bureau did not send her things. The Bureau was not supposed to send anybody things; her father had a rule about it, and the rule had been broken once before, on a Tuesday, and that Tuesday had gone on for about a week and had ended with him eating a curry he talked about afterwards as though it had been a religious experience.
 
@@ -1454,7 +1454,7 @@ Mr Okafor looked at her like a man who has been hoping, all term, that somebody 
 
 "Which way," said Mr Okafor, and wrote it on the board, under the line, in capitals. WHICH WAY. "Thank you, Sophie. Somebody remember that for the test."
 
-She did not know why it made her feel better. It was Year Seven work. But it did, a little: the idea that a thing could be exactly as big as another thing and still point somewhere else entirely, and that the sign was just a direction, and that you could tell which direction by looking where you were standing.
+It was Year Seven work, and it made her feel better anyway: the idea that a thing could be exactly as big as another thing and still point somewhere else entirely, and that the sign was just a direction, and that you could tell which direction by looking where you were standing.
 
 At twenty past one there was a face at the glass panel in the classroom door.
 
@@ -1464,7 +1464,7 @@ Sophie noted the time on the classroom clock. It was the old kind, with a red se
 
 Mr Okafor was asking whether you could subtract a bigger number from a smaller one. Most of the room thought you could not. Sophie, for once, did not answer first. She was thinking about Mrs Halloran.
 
-Somebody had rung the school. Her mother, almost certainly; the school always rang her mother first, and her mother had probably rung back to check, because that was what her mother did. And then somebody else had rung, and the school had sent Mrs Halloran to look, and Mrs Halloran had looked, and gone away without fetching her.
+Somebody had rung the school. Her mother, almost certainly; the school always rang her mother first. And then somebody else had rung, and the school had sent Mrs Halloran to look, and Mrs Halloran had looked, and gone away without fetching her.
 
 So someone had asked the school not to fetch her.
 
@@ -1506,7 +1506,7 @@ Rule: You cannot be made to have read what you did not open, and staying where y
 
 What She Didn't Write
 
-The hour between the calls and the end of school was the longest of the day, and none of them filled it with anything useful. Weinstein bought a newspaper he did not read and a coffee he described, after one sip, as an argument against the European project. Trevor, back from the pavement with an empty paper cup he would not throw away, sat with the slip and recopied the times onto a second envelope in case the first was confiscated by a pigeon. Penny rang Mrs Marsh twice and was told, twice, that the platform was still a platform, and on the second occasion that the landlord had now sent a second email, in capitals, which Mrs Marsh did not hold with. Derek stood. When he sat, he got up again. Every time a family went past with a child in a school jumper, he looked, and every time he made himself look away, and every time Penny watched him do it and said nothing at all. That was its own kind of commentary.
+The hour between the calls and the end of school was the longest of the day, and none of them filled it with anything useful. Weinstein bought a newspaper he did not read and a coffee he described, after one sip, as an argument against the European project. Trevor, back from the pavement with an empty paper cup he would not throw away, sat with the slip and recopied the times onto a second envelope in case the first went missing. Penny rang Mrs Marsh twice and was told, twice, that the platform was still a platform, and on the second occasion that the landlord had now sent a second email, in capitals, which Mrs Marsh did not hold with. Derek could not sit. Every time a family went past with a child in a school jumper, he looked, and every time he made himself look away, and every time Penny watched him do it and said nothing at all. That was its own kind of commentary.
 
 At twenty to three, Penny took him by the sleeve to a coffee stand under the clock and bought two teas he had not asked for. She did not ask how he took it. She put one sugar in, stirred it with the wooden stick the stand provided in place of a spoon, and handed it to him lid-first, as if it were evidence.
 
@@ -1518,7 +1518,7 @@ At twenty to three, Penny took him by the sleeve to a coffee stand under the clo
 
 He looked down. Trevor's envelope was in his left hand, folded on the crease, and the crease was sharp enough to cut.
 
-They stood at a shelf by the window where people stood when they did not have the time to sit and did not have the courage to say so. Outside, a taxi rank shuffled forward a car at a time. Penny put her handbag on the shelf, opened it, and took out the photograph.
+They stood at a shelf by the window. Outside, a taxi rank shuffled forward a car at a time. Penny put her handbag on the shelf, opened it, and took out the photograph.
 
 She did not turn it over. She laid it face-down between their two cups, the white back of it with nothing written on it, and left her hand flat on top.
 
@@ -1574,13 +1574,13 @@ It was the quiet he went into himself, when a problem was too large to be looked
 
 She hung up. She was twelve. She was not on a train.
 
-Derek sat down on a station chair as if the chair had been recommended by a doctor. It was a metal chair with holes in it, bolted to three others in a row, designed by somebody who had wanted people to wait but not to enjoy it. He sat in it with his elbows on his knees and the phone in both hands.
+Derek sat down on a station chair as if the chair had been recommended by a doctor. It was a metal chair with holes in it, designed by somebody who had wanted people to wait but not to enjoy it. He sat with his elbows on his knees and the phone in both hands.
 
 "She won't file it."
 
 "Then she has no act on the sheet," Penny said.
 
-Penny had remained standing. Penny generally did, in stations; she regarded a seat on a concourse as an admission that the railway had won. She stood over him now with her handbag on her arm and the photograph in it and the itinerary under the photograph, and she did not touch his shoulder, which he was grateful for, because if she had he would have had to notice that he needed it.
+Penny had remained standing. Penny generally did, in stations; she regarded a seat on a concourse as an admission that the railway had won. She stood over him now with her handbag on her arm, and she did not touch his shoulder, which he was grateful for, because if she had he would have had to notice that he needed it.
 
 "The prohibition we were given names boarding. It does not name a notebook. It does not name a heading on a phone. The board named her anyway."
 
@@ -1600,7 +1600,7 @@ Penny held up a hand. "Don't solve 1047 again."
 
 "We haven't struck her yet."
 
-"Not till four," Penny said. "The open act is still boarding. If we strike her now, the fear did it, and the next time a board puts a name up we'll strike that one too, and one day it'll be a name that did have an act. At four we strike her because it's true, not because it's soothing."
+"Not till four," Penny said. "The open act is still boarding. At four we strike her because it's true, not because it's soothing."
 
 Weinstein, who had been standing with his back to a pillar glaring at the departure board as though it owed him money, turned round. "She is right about the loop, the girl," he said. "Your daughter. Not Penny. Penny is also right, but your daughter is right first, and she is right about the harder thing."
 
@@ -1628,13 +1628,13 @@ The Sign on the Gap
 
 They did not write anything at first. It was the station that started them.
 
-At twenty past three the public address system cleared its throat, as public address systems do everywhere, and a woman's voice, recorded so long ago that she might by now have retired to the coast, apologised for the late running of the 12:52 from Cardiff Central. The 12:52 from Cardiff Central was already in. It had been in for six minutes. Its passengers were streaming past them towards the Underground, with the faces of people who have done their suffering and do not wish to hear about it again.
+At twenty past three the public address system cleared its throat, and a woman's voice, recorded so long ago that she might by now have retired to the coast, apologised for the late running of the 12:52 from Cardiff Central. The 12:52 from Cardiff Central was already in. It had been in for six minutes. Its passengers were streaming past them towards the Underground, with the faces of people who have done their suffering and do not wish to hear about it again.
 
 "She's apologising for something that's finished," Trevor said.
 
 "Railways do that. It's how you know they're sincere."
 
-Two minutes later the same recorded voice announced that the 15:36 to Worcester Foregate Street was expected to depart eleven minutes late. A small and thoroughly English groan went up from a cluster of people by the coffee stand. One man said something to his phone that the phone did not deserve. A woman with a pushchair turned it round, decisively, and went off to find a sandwich, because the board had told her she had time.
+Two minutes later the same recorded voice announced that the 15:36 to Worcester Foregate Street was expected to depart eleven minutes late. A small and thoroughly English groan went up from a cluster of people by the coffee stand. A woman with a pushchair turned it round, decisively, and went off to find a sandwich, because the board had told her she had time.
 
 Weinstein watched all of this with delight, like a man unexpectedly handed a demonstration apparatus.
 
@@ -1892,7 +1892,7 @@ His phone rang before they had reached the chairs. Weinstein, moving already; De
 
 He was gone to an airport, and from the airport to a city where he had a door.
 
-They did not go straight back to the chairs. Penny stopped by the barrier, after the phone call, and stood looking down the length of the empty platform where the airport train had been, the rails shining under Brunel's glass and nothing on them at all.
+They did not go straight back to the chairs. Penny stood at the barrier looking down the length of the empty platform where the airport train had been, the rails shining under Brunel's glass and nothing on them at all.
 
 Derek stood beside her and kept his mouth shut, which he had learned at a wedding when they were nine was the correct response to Penny looking at something.
 
@@ -1916,7 +1916,7 @@ Derek stood beside her and kept his mouth shut, which he had learned at a weddin
 
 "He bought her a mistake on page forty."
 
-"That's what I said." Penny turned away from the platform and hitched the bag on her arm, the photograph and the itinerary and whatever else lived in it. "Come on. Trevor's guarding a slip of paper from pigeons and he's going to want a reason to stand up."
+"That's what I said." Penny turned away from the platform and hitched the bag on her arm. "Come on. Trevor's guarding a slip of paper from pigeons and he's going to want a reason to stand up."
 
 Trevor stood up when they reached him and held out the slip, as if returning something he had borrowed under protest. "He got on before it left. I watched the board. It said departed at sixteen hundred. Not sixteen hundred and seventeen. I checked."
 
@@ -4149,8 +4149,6 @@ The Dolphins' View of History
 Fiction
 
 The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1)
-
-The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2)
 
 Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1)
 
