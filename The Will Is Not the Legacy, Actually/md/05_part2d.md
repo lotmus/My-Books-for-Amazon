@@ -1,52 +1,181 @@
 ## Chapter 6. The Gap Before Death
 
+Most estate planning imagines a clean line: alive, then dead. Real life often has a long, untidy middle, months or years in which a person is alive but cannot sign, decide, or explain. The four cases in this chapter happen in that middle. None of them is about a will. All of them are about the documents people mean to sign "later."
+
 ### Case 16: The springing power that would not spring
 
-**The facts.** Carol, in San Jose, signed a financial power of attorney naming her son, Eric, as agent. Wary of giving him power too soon, she had it drafted to take effect only if two doctors certified in writing that she could no longer manage her affairs. Two years later she had a series of small strokes. Some days she was clear; some days she was not.
+**The situation.** Carol was a retired accountant in San Jose, seventy-six, independent to the point of stubbornness and proud of never having missed a bill in her life. Her son, Eric, lived nearby and was the obvious person to help if she ever needed it. Her daughter lived in Boston.
 
-**The move.** A "springing" power, which feels safer.
+When Carol saw a lawyer about her estate plan, the lawyer suggested a durable power of attorney for finances naming Eric as her agent. Carol hesitated. She trusted Eric, she said, but she did not like the idea of his being able to sign for her while she was perfectly capable of signing for herself. "What if he sells my house while I'm on a cruise?" she asked, only half joking. The lawyer offered a solution: a "springing" power, effective only if two licensed physicians certified in writing that Carol could no longer manage her financial affairs. Carol liked that. It felt like a lock on the door.
 
-**What governed.** The document governed, exactly as written. Eric needed two physicians' written certifications. Carol's neurologist was cautious about certifying incapacity in a patient whose condition fluctuated; the second doctor wanted a fresh assessment. Meanwhile, Carol's property tax bill came due, an insurance premium lapsed, and her bank, perfectly reasonably, would not let Eric act without the certifications. It took eleven weeks.
+Two years later Carol had a series of small strokes. On some days she was clear and sharp. On others she was confused about the date and could not follow a bank statement. Her property tax instalment was due. Her long-term care insurance premium was due. A contractor wanted payment for a repair to her roof.
 
-**What should have been signed.** An immediately effective durable power of attorney, if Carol trusted Eric, which she did, with a second agent named as backup. If she did not want Eric acting while she was well, the honest answer was to choose a different agent, not to make the trusted one jump through hoops at the worst moment. California law includes a Uniform Statutory Form Power of Attorney (Probate Code § 4401), signed and acknowledged before a notary, which banks are used to seeing.
+**What the family assumed.** Eric assumed he could step in, because his mother had signed a power of attorney naming him. His sister assumed the same.
 
-**The lesson.** Springing powers sound safe and work slowly. The real protection is choosing the right agent.
+**What actually happened, and why.** A power of attorney does exactly what it says. Carol's said it took effect only on two physicians' written certifications. California law permits this: a principal can make a power of attorney effective on a future event, and can name the people who decide, by a written declaration under penalty of perjury, that the event has happened (Probate Code § 4129). Carol's document named two doctors.
+
+Carol's neurologist was cautious. Carol's condition fluctuated; on the day of her appointment she was lucid, and the neurologist was unwilling to certify incapacity in a patient who had just discussed her own medication intelligently. Her primary care doctor wanted a formal cognitive assessment first, which had a six-week waiting list. Meanwhile, the bank, reasonably, would not accept Eric's signature without the certifications the document required. The property tax went unpaid and incurred a penalty. The insurance premium lapsed; reinstating the policy took months and medical paperwork Carol was in no state to provide. It was eleven weeks before Eric could act.
+
+**What would have prevented it.** The honest answer is that Carol's lock was on the wrong door. Her fear was that Eric might misuse the power. A springing power does not stop a dishonest agent from misusing it once it springs. It only slows down an honest one at the moment of greatest need.
+
+- **An immediately effective durable power of attorney**, naming Eric, with Carol's daughter as successor agent. Carol could have kept the original in her own files, handing it to Eric only when needed, which gives some practical control without legal delay.
+- **A different trigger.** If Carol really wanted a springing power, she could have named Eric and her daughter together as the people who declare the trigger, instead of two doctors with professional reasons for caution.
+- **Accountability built in.** A power of attorney can require the agent to account to someone else, for example to send monthly statements to the daughter. That protects against misuse far better than a trigger.
+
+California's Uniform Statutory Form Power of Attorney (Probate Code § 4401), signed and acknowledged before a notary, is widely recognised by banks. Many banks also have their own forms and may be quicker to accept them. Ask your bank, in writing, what it will accept, before you need it.
+
+**What it cost.** The tax penalty was a few hundred dollars. The lapsed long-term care policy was the real loss: Carol had paid premiums on it for fifteen years, precisely so that it would pay for care like the care she now needed, and for several months it paid nothing while the insurer reviewed her reinstatement. Eric paid the roofer from his own savings and was never quite sure whether he was allowed to pay himself back. Carol, on her clear days, was furious at the delay, and on her unclear days did not understand why her son was asking doctors to call her incompetent. That, more than the money, is what he remembers.
+
+**Questions to ask your lawyer about a power of attorney.**
+
+- When does this power take effect, and what exactly has to happen first?
+- Who decides that it has happened, and how quickly can they do it?
+- Will my bank, my brokerage, and my insurer accept this document? Should I also sign their forms?
+- What powers does it include: gifts, changing beneficiaries, dealing with trusts, digital accounts? Do I want those included?
+- How can I make my agent accountable without making the power useless?
+
+**The German version.** A German *Vorsorgevollmacht* can also be made conditional on a future incapacity, and German advisers warn against it for the same reason: banks and others cannot easily check whether the condition has happened. The usual German advice is to make the power effective immediately and to control the risk through the choice of agent and an internal agreement about when it will be used.
+
+**What to do.**
+
+- If you trust the person enough to name them, consider making the power effective now.
+- If you do not trust them enough for that, name someone else.
+- Name a backup agent, and consider requiring the agent to report to a second person.
+- Ask your bank which forms it accepts, and get its answer in writing.
 
 ### Case 17: No power at all
 
-**The facts.** Robert, sixty-one, a self-employed electrician in Bakersfield, had a severe stroke. He was unmarried. His partner of twelve years, Denise, lived with him. He had no power of attorney and no healthcare directive.
+**The situation.** Robert was sixty-one, a self-employed electrician in Bakersfield with a van, two part-time employees, and a reputation for turning up when he said he would. He had lived for twelve years with Denise, a dental receptionist, in a house he owned. They had never married; they had both been married before and saw no reason to do it again.
 
-**The move.** None. "I'm sixty-one, I'm fine."
+Robert did not have a power of attorney or an advance health care directive. When Denise mentioned it once, he said, "I'm sixty-one, I'm fine," and changed the subject.
 
-**What governed.** Without a power of attorney, nobody had legal authority to handle Robert's bank accounts, his business, or his house. Denise could not pay his business suppliers or sign for his clients. For medical decisions, hospitals look for a surrogate when a patient has no directive, and an unmarried partner may or may not be accepted depending on the circumstances; Robert's brother, who lived in another state and had not seen Robert in years, flew in and disagreed with Denise about almost everything. For the money, Denise ultimately had to petition the court for a conservatorship, a public court process with filings, an investigation, court supervision, and fees. Robert recovered partially after five months. His business did not.
+On a Thursday in February he had a severe stroke at a job site.
 
-**What should have been signed.** A durable power of attorney for finances naming Denise, and an advance health care directive naming Denise as his healthcare agent. In California, an advance health care directive is valid if signed and either notarised or witnessed by two qualified adults, and it can be registered voluntarily with the California Secretary of State's registry. Cost of all this: an afternoon.
+**What the family assumed.** Denise assumed she would handle things, because she was his partner and they shared everything. Robert's brother, Gary, who lived in Arizona and had not seen Robert in several years, assumed that as next of kin he was in charge.
 
-**The lesson.** Unmarried couples are invisible to many default rules. Paper makes them visible.
+**What actually happened, and why.** Two separate gaps opened at once: health and money.
+
+On the health side, Robert could not speak for himself, and he had not named anyone to speak for him. When a patient has no directive and no agent, hospitals turn to a surrogate, someone close to the patient who can make decisions in the patient's interest, and they look at who knows the patient's values. An unmarried partner may well be accepted, especially after twelve years, but it is not guaranteed, and when relatives disagree, hospitals are cautious. Gary flew in and disagreed with Denise about almost everything: about the rehabilitation facility, about a feeding tube, about whether Robert would have wanted to be moved closer to Arizona. The hospital's ethics committee met twice. Denise, who had shared Robert's bed for twelve years, found herself pleading with strangers to listen to her.
+
+On the money side, the gap was worse. Without a power of attorney, nobody had legal authority to sign for Robert. Denise could not access his business account to pay his employees or suppliers, could not cash cheques from clients, could not deal with his van lease, and could not deal with the mortgage on his house. The bills kept coming. The employees left.
+
+The only way to get authority was a conservatorship: a court proceeding in which a judge appoints someone to manage the affairs of an adult who cannot. In California, a conservatorship involves a petition, notice to relatives, an investigation by a court investigator, a hearing, a bond in many cases, inventories, accountings, and ongoing court supervision. It is public. It is slow. And it is contested more easily than people expect: Gary filed his own petition to be appointed instead. The court appointed Denise in the end, but it took months, and the fees came out of Robert's money.
+
+Robert recovered partially after five months. He could walk with a cane and speak slowly. His business did not recover at all.
+
+**What would have prevented it.** Two documents and one afternoon.
+
+- **A durable power of attorney for finances** naming Denise, with a backup agent, effective immediately, covering his business accounts.
+- **An advance health care directive** naming Denise as his agent for healthcare decisions, with a sentence or two about what Robert would want. In California, a directive is valid if it is signed and either notarised or witnessed by two qualified adults, and it can be voluntarily registered with the California Secretary of State's registry. The California statutory form is free.
+- **A business continuity note.** For a sole trader, a one-page note on the Family List saying who his key clients and suppliers were, where the business banking was, and who could finish open jobs would have saved much of the business.
+
+Robert might also have considered a will, since Denise would have inherited nothing if he had died; as in Case 11, unmarried partners do not inherit under the default rules.
+
+**The plain-language version.** The law has a default list of who decides for you. It is built around spouses, parents, and children. If the person who actually knows you best is not on that list, only paper can put them there.
+
+**What it cost.** The court fees, the investigator's fee, the bond premium, two sets of lawyers' fees for the competing petitions, and the lost business added up to more than Robert earned in a year. The emotional bill was larger. Robert, as he recovered, learned that his brother and his partner had spent his hospital months in a courtroom arguing about him. He has not spoken to Gary since. He signed a power of attorney and a directive, naming Denise, within a week of coming home. He also asked her to marry him, which, she pointed out, was the most romantic thing a stroke had ever produced.
+
+**Questions to ask yourself.**
+
+- If I could not speak tomorrow, who would the hospital ask? Is that the person I would choose?
+- If I could not sign tomorrow, who could pay my bills, run my business, or sell my car?
+- Does anyone in my family disagree with my partner about how I should be cared for? Have I told them, in writing, whom I trust?
+
+**The German version.** Germany has the same gap. Without a *Vorsorgevollmacht*, the court appoints a legal guardian (*Betreuer*) for an adult who cannot manage their affairs (BGB § 1814). The court must consider the person's wishes and close relationships, and a long-term partner is often appointed, but it takes time, and the court supervises. The 2023 spouse's emergency right (Case 18) does not help unmarried partners at all.
+
+**What to do.**
+
+- Sign a durable power of attorney and an advance health care directive now, whatever your age.
+- If you are not married, treat these documents as essential, not optional.
+- If you run a business alone, make sure your agent's power covers it, and write a one-page continuity note.
+- Tell your relatives whom you have named, so they hear it from you and not from a hospital.
 
 ### Case 18: The German spouse who could decide, but only for a while
 
-**The facts.** Martin and Petra, married and living in Nuremberg, had never signed a *Vorsorgevollmacht* (a lasting power of attorney) because they had read in the newspaper that since 2023 spouses could represent each other automatically. When Martin fell into a coma after a cycling accident, Petra did indeed make decisions about his treatment.
+**The situation.** Martin and Petra had been married for twenty-six years and lived in a terraced house in Nuremberg, which they owned jointly. Martin was an IT administrator and a keen weekend cyclist; Petra taught primary school. They had talked, vaguely, about signing powers of attorney for each other, but then they read in the newspaper that since 2023 spouses in Germany could represent each other automatically in a medical emergency. That seemed to settle it.
 
-**The move.** Rely on the statutory spouse's emergency right.
+In April, Martin was hit by a car on a country road. He had a serious head injury and spent three weeks in an induced coma, followed by months of rehabilitation in which he could communicate only with difficulty.
 
-**What governed.** Since 1 January 2023, BGB § 1358 gives a spouse a right to represent the other in health matters if the other is unconscious or too ill to handle them: consenting to or refusing examinations and treatment, signing hospital contracts, and similar. But the statute is narrow. It covers health matters, not money. It requires a doctor's written confirmation. It does not apply if the spouses live apart. And it ends, at the latest, six months after the time the doctor certifies. Martin's coma became a long rehabilitation. After six months, Petra's authority expired. She had never had authority over his bank accounts or his share of their house. She had to apply to the guardianship court for appointment as Martin's legal guardian (*Betreuerin*), with the court process and supervision that brings.
+**What the family assumed.** Petra assumed she could handle everything as his wife. Their adult daughter assumed the same.
 
-**What should have been signed.** A *Vorsorgevollmacht* from each spouse naming the other, covering health and finances, with a *Patientenverfügung* (advance directive) stating treatment wishes. German law requires a power of attorney to be in writing and to mention certain serious medical decisions expressly if the agent is to make them (§ 1820). Notarising it is not always required, but it is wise if the power must be used for real estate, and banks often prefer their own form or a notarised one. The power can be registered in the Central Register of Lasting Powers of Attorney (*Zentrales Vorsorgeregister*), also run by the Federal Chamber of Notaries, so that courts can find it.
+**What actually happened, and why.** At first, the newspaper was right. Since 1 January 2023, BGB § 1358 has given a spouse a right to represent the other in health matters when the other is unconscious or too ill to handle them. Petra could consent to or refuse examinations and treatment, sign the hospital and rehabilitation contracts, and receive information from the doctors, who were released from confidentiality towards her for that purpose.
 
-**The lesson.** The spouse's emergency right is a bridge, not a road. Sign the real document.
+But the statute is deliberately narrow. Its conditions are strict: a doctor must confirm in writing that the conditions are met and that the patient's incapacity is the reason; the spouses must not be living apart; and the right does not apply if the patient has refused it or has already appointed someone else. Its scope is limited to health matters and closely related contracts. It gives no authority over money, the bank account, the house, or the car insurance. And it ends, at the latest, six months after the date the doctor confirmed.
+
+Martin's rehabilitation took nine months. After six, Petra's statutory authority ended. Meanwhile, Martin's salary account was in his sole name. His share of the house could not be mortgaged or dealt with without him. The car insurance claim against the driver needed his signature or someone with authority to act for him.
+
+Petra had to apply to the guardianship court for appointment as Martin's legal guardian (*Betreuerin*). The court heard Martin as far as possible, obtained a medical report, and appointed Petra, but with the supervision a guardianship brings: an inventory of Martin's assets, annual reports, and court approval for certain transactions involving the house. Petra described it later as being audited for loving her husband.
+
+**What would have prevented it.** A *Vorsorgevollmacht* from each spouse naming the other, with their daughter as backup, covering both health and finances, plus a *Patientenverfügung* stating Martin's own treatment wishes.
+
+German law requires the power of attorney to be in writing, and to mention expressly certain serious medical decisions (such as decisions about treatment where there is a risk of death or serious harm) if the agent is to make them (§ 1820). A power of attorney that is only signed by hand is valid, but banks often prefer their own forms or a notarised power, and a power that is to be used for real estate generally needs to be notarised or officially certified to be accepted by the land registry. The power can be registered in the Central Register of Lasting Powers of Attorney (*Zentrales Vorsorgeregister*), run by the Federal Chamber of Notaries, so that a guardianship court will find it before appointing anyone else.
+
+**The plain-language version.** The 2023 law is an emergency bridge for the first weeks in hospital. It was never meant to replace a power of attorney, and it stops at the hospital door and at the six-month mark.
+
+**What it cost.** Less money than in Robert's case, because the German guardianship court appointed Petra quickly and the fees were modest. The cost was time and supervision. For a year Petra kept receipts for everything she spent from Martin's account, filed reports, and waited for court approval before she could refinance the house when interest rates fell. Martin recovered enough to sign a *Vorsorgevollmacht* himself the following spring; the guardianship was lifted soon afterwards. Both of them now carry, in their wallets, a small card saying that a power of attorney exists and where it is.
+
+**Questions to ask a German notary or adviser.**
+
+- Should our powers cover both health and finances, and should each of us name a backup?
+- Do we need notarisation because we own property?
+- Will our banks accept the power, or should we also sign their own forms?
+- Should we register the powers in the Central Register of Lasting Powers of Attorney?
+- Do our advance directives describe specific situations and treatments clearly enough?
+
+**The California version.** California has no equivalent automatic spouse power for finances. Without a power of attorney, a spouse may need a conservatorship to manage the other spouse's separate property, and some transactions involving community property can also require court involvement when one spouse cannot sign. The cure is the same: sign the documents while you can.
+
+**What to do.**
+
+- In Germany, sign a *Vorsorgevollmacht* and a *Patientenverfügung*, even if you are married.
+- Notarise or certify the power if you own property, and register it.
+- Ask your bank whether it accepts your power, or whether you also need its own form.
+- Review it every few years, and when circumstances change.
 
 ### Case 19: "No heroic measures"
 
-**The facts.** Edith, eighty-four, in Santa Barbara, had an advance directive that said only: "I do not want heroic measures." After a fall, she developed pneumonia. Her daughter, Joan, her agent, believed antibiotics were ordinary care. Her son, Tim, believed his mother had meant no hospital at all. The doctors asked who decided.
+**The situation.** Edith was eighty-four, a retired librarian in Santa Barbara, sharp-witted and allergic to fuss. Years earlier, after watching a friend die slowly in intensive care, she had filled in an advance directive. She named her daughter, Joan, as her healthcare agent. In the space for instructions she wrote one sentence: "I do not want heroic measures." She showed it to Joan, said "You know what I mean," and put it in a drawer.
 
-**The move.** A short, well-meaning sentence.
+Her son, Tim, lived in Denver. He knew about the directive. He had never read it.
 
-**What governed.** The directive named Joan as agent, so Joan had authority. But the instruction was vague, and Tim, who disagreed, made the hospital's ethics committee his second home for a week. Joan felt she was guessing, and still does.
+At eighty-four, Edith fell in her kitchen, broke her hip, and in hospital developed pneumonia. She became confused and feverish. The doctors asked whether to start antibiotics, and whether, if her breathing worsened, she should be intubated and moved to intensive care.
 
-**What should have been signed.** A directive that says, in plain words, what Edith wanted in specific situations: antibiotics for an infection if recovery to her present state was likely; no ventilator; no resuscitation; comfort care at home if a cure was not the goal. California's statutory form includes spaces for exactly this. Appendix F has a worksheet that translates your wishes into ordinary language before you sit down with the form. And a conversation, with both children in the room, so nobody has to interpret a sentence alone.
+**What the family assumed.** Joan assumed "heroic measures" meant things like ventilators and resuscitation, not antibiotics; antibiotics seemed ordinary. Tim, who flew in the next day, assumed "no heroic measures" meant no aggressive treatment of any kind, and that his mother would have wanted to go home and be comfortable.
 
-**The lesson.** Write what you mean, in situations, not slogans. Then say it out loud to the people who will have to carry it out.
+**What actually happened, and why.** Legally, the directive worked. It named Joan as agent, and in California a healthcare agent has authority to make decisions in accordance with the patient's instructions and, where those are unclear, the patient's best interest as the agent understands her values. The doctors deferred to Joan.
+
+Practically, it failed. "Heroic measures" has no fixed medical meaning. Is an antibiotic heroic? A feeding tube? A trip to intensive care for two days with a good chance of recovery? Joan authorised antibiotics. Edith recovered from the pneumonia but not fully from the hip fracture, and spent her last eight months in a nursing home, which she had always said she dreaded. Tim believed his sister had overridden their mother's wishes and said so, often, to the hospital staff, the ethics committee, and his own children. Joan felt she was guessing, and still does.
+
+**What would have prevented it.** A directive that described situations, not slogans. For example:
+
+- "If I have an infection and the doctors think I am likely to return to roughly my current condition, treat it, including with antibiotics."
+- "If I am unlikely to recover the ability to recognise my family and communicate, I do not want to be kept alive by a ventilator or a feeding tube. Keep me comfortable."
+- "I do not want resuscitation (CPR) if my heart stops."
+- "If a cure is no longer the goal, I would rather be at home, with hospice care, than in a hospital."
+
+California's statutory advance directive form has spaces for exactly these kinds of choices. Appendix F has a worksheet that helps you translate your wishes into ordinary language before you sit down with the form.
+
+There is also a separate form for people who are seriously ill: a POLST (Physician Orders for Life-Sustaining Treatment), completed with a doctor. It is a medical order, not just a statement of wishes, and emergency staff can follow it immediately. For someone of Edith's age and health, her doctor might well have suggested one.
+
+And the conversation. Edith could have sat with both children, with the directive on the table, and said, "This is what I mean." It would have taken twenty minutes. It would have spared her daughter years of doubt.
+
+**A conversation, not a form.** Many people find the advance directive form intimidating because it asks them to imagine their own decline. A better place to start is a set of questions you can talk through over coffee with the people you are likely to name:
+
+- What makes a day worth living for me? What would make it not worth living?
+- How do I feel about hospitals, and about dying at home?
+- If I could not recognise my family, would I want to be kept alive?
+- Are there treatments I would always want, or never want?
+- Who should be with me, and who should not make decisions for me?
+
+Write the answers down in your own words. Then take them to the form. Appendix F does exactly this.
+
+**The German version.** German law has the same problem, and German courts have said so plainly. The Federal Court of Justice has held that a general phrase such as "no life-prolonging measures" is not, on its own, specific enough to be binding as a *Patientenverfügung*; it needs to refer to particular treatments or particular situations (BGH, decision of 6 July 2016, XII ZB 61/16). German law defines an advance directive as written decisions about specific examinations, treatments, or medical interventions for a future situation in which the person cannot consent (BGB § 1827). Vagueness hands the decision back to the agent or the court.
+
+**What to do.**
+
+- Write your wishes as situations and treatments, not slogans.
+- Discuss them with your agent and with everyone else who will be in the room.
+- If you are seriously ill or frail, ask your doctor about a POLST (in California) or a detailed *Patientenverfügung* (in Germany).
+- Review the directive every few years, and after any major diagnosis.
 
 ## Chapter 7. Families, Borders, and the Digital Locker
 

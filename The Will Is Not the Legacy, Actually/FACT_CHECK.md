@@ -70,3 +70,5 @@
 - ErbStG 16(1)(7): class III allowance 20,000 EUR (unmarried partner); class III rate from 30%; spouse 500,000.
 - CA Prob 6124: lost will last in testator's possession presumed revoked (rebuttable). 6454 stepchild intestate rule (minority, continued, clear and convincing evidence of intended adoption but for legal barrier). 6100.5 capacity elements. 21311(b) probable cause definition.
 - BGB 2256: return of notarial will from official custody = revocation; handwritten will withdrawn from 2248 custody is not revoked. 1925 second order: parents and their descendants.
+- CA Prob 4129 springing POA: principal may designate persons whose written declaration under penalty of perjury conclusively establishes the event. 4780 POLST (signed by patient/decisionmaker and physician/NP/PA; not an AHCD).
+- BGB 1814 Betreuer appointment; 1827 Patientenverfügung (since 2023); BGH XII ZB 61/16 (6 Jul 2016): "keine lebenserhaltenden Maßnahmen" alone not specific enough.
