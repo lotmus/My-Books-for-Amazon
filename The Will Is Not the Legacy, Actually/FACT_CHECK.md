@@ -67,3 +67,6 @@
 - BGB 311b notarisation of land contracts; 2042 any co-heir may demand partition at any time; 753 partition of land by forced auction.
 - CA Prob 100: at death, half of community property belongs to surviving spouse, half to decedent. Civ 682.1 community property with right of survivorship (instruments on/after 1 Jul 2001).
 - BGB 2325(3): ten-year period for gifts to spouse starts only on dissolution of marriage. 2057a care by descendant compensated among descendants; 2316 carries into Pflichtteil (testator may exclude; BGH IV ZR 269/20, 24.03.2021). 2346/2348 notarised Pflichtteil waiver.
+- ErbStG 16(1)(7): class III allowance 20,000 EUR (unmarried partner); class III rate from 30%; spouse 500,000.
+- CA Prob 6124: lost will last in testator's possession presumed revoked (rebuttable). 6454 stepchild intestate rule (minority, continued, clear and convincing evidence of intended adoption but for legal barrier). 6100.5 capacity elements. 21311(b) probable cause definition.
+- BGB 2256: return of notarial will from official custody = revocation; handwritten will withdrawn from 2248 custody is not revoked. 1925 second order: parents and their descendants.
