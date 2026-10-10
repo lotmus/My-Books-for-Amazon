@@ -1,6 +1,6 @@
 # STATUS — Protocol Flamingo
 
-Last updated: 2026-10-04. The live book is the expanded manuscript, not the generator.
+Last updated: 2026-10-10. The live book is the expanded manuscript, not the generator.
 
 ## Live file
 
@@ -67,6 +67,14 @@ An outside review (8.9/10) was checked against the live book before anything cha
 - Callback: Dana's “He gets told. He decides.” in Logistics is now “That's Rosa's rule.” Rosa's own line stays the only verbatim version.
 - Danger scenes (pink strip, diner parking lot, face-smear, the muster) already use short beats and white space; no rhythm edits were needed.
 - Repeated-sentence scan after the pass: clean, apart from the usual headings and bibliography titles.
+
+## Sync from Lothar's local copy, 10 Oct 2026
+
+Lothar sent a newer `Protocol_Flamingo_Rev2.docx` from the local Windows copy (last saved by M365 Copilot, file named `Protocol_Flamingo_REV10.docx` there — that number is the local save-iteration count, not a new repo revision; the file keeps the repo's `Rev2.docx` name). This is a straight sync, not an edit made in this session: no line-level changes were made here, and this session has no changelog for what changed in the local passes since the last git sync.
+
+- 76,581 → 79,737 words; 2,428 → 2,548 paragraphs (both counted by this session, not carried over from the source). The pre-sync version is preserved in git history (the "outside-review pass" commit, `747a4d0`) if anything needs to be recovered or diffed against.
+- Checked before committing: zip is clean, title page and author properties still say Protocol Flamingo / Lothar J. Musiol, and all 18 hyperlinks survived.
+- Not checked: canon list below, repeated-sentence scan, appendix citations. Whoever edits next should treat the canon list as unverified against this file until someone reads it, since +3,156 words of untracked local passes went in without a session here confirming them against it.
 
 ## Git
 
