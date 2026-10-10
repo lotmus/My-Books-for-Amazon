@@ -60,3 +60,10 @@
 - Copyright: US 17 USC 302 life+70 (works since 1978); DE UrhG 64 life+70.
 - ErbStG 30: report taxable acquisition to Finanzamt within 3 months (exceptions).
 - CA Prob 5301 joint account owned during life per net contributions; 5302 survivor takes at death unless clear and convincing evidence of different intent.
+- CA Prob 5600(c): TOD deed Part 4 sunsets 1 Jan 2032 unless extended (SB 315, Stats 2021 ch 215); covers 1-4 units, condo, ag ≤40 acres w/ house (5610).
+- CA Fam Code 770: inheritance/gift = separate property.
+- CA CCP 872.210: co-owner may bring partition action.
+- 26 USC 1014 inherited basis = FMV at death; gift basis = donor's adjusted basis (IRS Pub 551). Annual gift exclusion 2025 $19,000 (Pub 551 example).
+- BGB 311b notarisation of land contracts; 2042 any co-heir may demand partition at any time; 753 partition of land by forced auction.
+- CA Prob 100: at death, half of community property belongs to surviving spouse, half to decedent. Civ 682.1 community property with right of survivorship (instruments on/after 1 Jul 2001).
+- BGB 2325(3): ten-year period for gifts to spouse starts only on dissolution of marriage. 2057a care by descendant compensated among descendants; 2316 carries into Pflichtteil (testator may exclude; BGH IV ZR 269/20, 24.03.2021). 2346/2348 notarised Pflichtteil waiver.
