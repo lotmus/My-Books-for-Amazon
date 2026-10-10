@@ -5,7 +5,7 @@
 **Author:** Lothar J. Musiol
 **Byline in the book:** Lothar J. Musiol, “as told by Professor Click-Click-Whoosh, Cetacean Academy of Oceanic Studies.” The professor is a narrator persona, not a contributor; do not add him in the KDP contributor fields.
 **Series:** none (standalone; leave the KDP series field blank)
-**Front and back matter:** copyright page after the title page; “Also by Lothar J. Musiol” at the end, using the same groups and titles as the Brain Farts almanac list (Physics, Look First, the quantum books, Life, Mathematics and engineering, Novels), with Look First Book 2 under its current title, *A Trip Is Not a New Life*.
+**Front and back matter:** copyright page after the title page; “Also by Lothar J. Musiol” at the end, using the canonical list in `notes/ALSO_BY - canonical list.md` at the repo root (rebuilt 10 October 2026), without this book.
 
 ## Product description
 

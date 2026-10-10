@@ -1715,7 +1715,7 @@ const furtherReading = [
 // ---------------------------------------------------------------------
 // Back matter: Also by
 // ---------------------------------------------------------------------
-// Canonical list, same in every book: notes/ALSO_BY - canonical list.md at the repo root.
+// Canonical list (rebuilt 10 Oct 2026): notes/ALSO_BY - canonical list.md at the repo root; this book is left out.
 const alsoBy = [
   heading("Also by Lothar J. Musiol"),
   new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "Physics, Actually", bold: true })] }),
@@ -1723,6 +1723,9 @@ const alsoBy = [
   new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime", italics: true })] }),
   new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge", italics: true })] }),
   new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere", italics: true })] }),
+  new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "More Actually Books", bold: true })] }),
+  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Gravitation, Actually: A Short Book on Gravity", italics: true })] }),
+  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "The Universe, Actually: What Humanity Currently Understands About Reality", italics: true })] }),
   new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "Math, Actually", bold: true })] }),
   new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Math, Actually, Volume 1: From Arithmetic to Calculus", italics: true })] }),
   new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic", italics: true })] }),
@@ -1744,17 +1747,15 @@ const alsoBy = [
   new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Communications, Wireless, and SDR (Book 5)", italics: true })] }),
   new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Power and Energy (Book 6)", italics: true })] }),
   new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Packaging, Layout, EMC, and Test (Book 7)", italics: true })] }),
-  new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "History", bold: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "The Dolphins' View of History", italics: true })] }),
   new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "Fiction", bold: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1)", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2)", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1)", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2)", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Protocol Flamingo (The Invasion Storybooks, Book 1), as George Herbert Fontaine", italics: true })] }),
-  new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "How-To", bold: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Your First Book That Sells", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Your First YouTube Channel That Rocks", italics: true })] }),
+  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)", italics: true })] }),
+  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)", italics: true })] }),
+  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)", italics: true })] }),
+  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)", italics: true })] }),
+  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine", italics: true })] }),
+  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "In Love with Murder, Actually: A Comic Mystery, Lothar J. Musiol writing as Romuald Livingston", italics: true })] }),
+  new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "In German", bold: true })] }),
+  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?", italics: true })] }),
 ];
 
 (async () => {
