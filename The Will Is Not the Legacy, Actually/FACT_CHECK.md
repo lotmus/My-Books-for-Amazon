@@ -57,3 +57,5 @@
 - StGB 201: unauthorised recording of non-public spoken word punishable. KUG 22: publishing a person's image needs consent; for 10 years after death, consent of relatives (spouse/partner & children, else parents). KUG 23 exceptions.
 - GDPR Art 2(2)(c): purely personal/household activity excluded; publication to the public is not household.
 - CA Prob 876: content disclosure if user consented or court directs; 877 catalogue only.
+- Copyright: US 17 USC 302 life+70 (works since 1978); DE UrhG 64 life+70.
+- ErbStG 30: report taxable acquisition to Finanzamt within 3 months (exceptions).
