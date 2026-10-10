@@ -48,3 +48,7 @@
 - EU 650/2012 Art 83: deaths on/after 17 Aug 2015.
 - CA Prob 4401 Uniform Statutory Form POA, acknowledged (notary); financial only.
 - Telefonseelsorge 0800 111 0 111 / 0800 111 0 222 / 116 123 (telefonseelsorge.de); US 988.
+- CA Prob 10800 executor fee same scale as 10810. CA no estate/inheritance tax for deaths since 1 Jan 2005 (sco.ca.gov/ardtax_estate_tax.html). Prob 6100 age 18 sound mind; 1500 parent may nominate guardian in will.
+- BGB 1782 parents name Vormund by will; 1783 court may pass over only on listed grounds. 2233 minors: only notary. 2087 heir vs legacy; 2174 legacy claim; 2048 Teilungsanordnung. 2267 joint holographic: one writes, both sign. 2296 notarial revocation. LPartG 10(4) partners joint will.
+- BGB 331: benefit to third party on death acquired at death (life insurance etc.). ErbStG 14: gifts aggregated over 10 years.
+- BGH XI ZR 401/12 (8.10.2013): bank AGB requiring Erbschein invalid; BGH XI ZR 440/15 (5.4.2016): opened handwritten will can suffice if unambiguous.
