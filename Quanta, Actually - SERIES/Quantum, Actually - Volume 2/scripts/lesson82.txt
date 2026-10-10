@@ -1,0 +1,290 @@
+TITLE: Effective Actions
+TAGLINE: The Legendre transform Γ[φ] of W[J]: its derivatives are the one-particle-irreducible vertices, its stationary point is the true vacuum, its one-loop term is (i/2)Tr log S″ (the zero-point energy of fluctuations), and for QED it contains vacuum polarization and the Euler–Heisenberg scattering of light by light
+NUM: 82
+NEXT: Lesson 83 turns these objects into working tools: field insertions at nonzero source, the Schwinger–Dyson equations, and Ward identities obtained by changing integration variables.
+
+# How to use this lesson
+
+Lesson 81 built Z[J], which generates all correlators, and W[J] = −i log Z, which generates the connected ones. This lesson takes one more step. The Legendre transform of W, the effective action Γ[φ], generates the one-particle-irreducible (1PI) diagrams, the blobs Lesson 68 summed into the corrected propagator and Lesson 69 summed into the running charge. Γ is also physics in its own right. It is the classical action corrected by quantum fluctuations: its stationary point is the true vacuum, its second derivative is the inverse of the full propagator, and its value for a constant field is the energy density. The lesson derives these properties, computes the one-loop term as a functional determinant, and shows that for constant fields the determinant is the zero-point energy of the fluctuations. It then writes the QED effective action for the photon, which contains vacuum polarization at quadratic order and the scattering of light by light at quartic order. Expect six to eight hours.
+
+## Learning objectives
+
+- Define Γ[φ] = W[J] − ∫Jφ with φ = δW/δJ, and derive δΓ/δφ = −J.
+
+- Show that Γ = S exactly for a free field, and that Γ⁽²⁾ = iG⁻¹, so that its zero is the physical mass.
+
+- Derive the relation between the connected three-point function and Γ⁽³⁾, and state that every connected correlator is a tree built from vertices of Γ.
+
+- Count powers of ℏ by loops, and derive Γ = S + (iℏ/2)Tr log S″ + O(ℏ²).
+
+- Show that the one-loop effective potential is Σω_k/2 for a boson and −4Σω_k/2 for a Dirac fermion.
+
+- Write the QED effective action for the photon, identify its quadratic term with Lesson 69's Π, and estimate the Euler–Heisenberg term.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| φ | Mean field ⟨φ⟩_J = δW/δJ, the argument of Γ (written φ_cl in Lesson 81) |
+| Γ[φ] | Effective action, W − ∫Jφ |
+| Γ⁽ⁿ⁾ | nth functional derivative of Γ at the vacuum value of φ |
+| G | Full connected two-point function, ⟨Tφφ⟩_c |
+| 1PI | One-particle irreducible: still connected after any single internal line is cut |
+| S″ | Second functional derivative of the classical action |
+| V_eff | Effective potential, Γ = −∫d⁴x V_eff for constant φ |
+| Tr | Trace over spacetime and any internal indices |
+
+Natural units, with ℏ restored in Section 4. In display equations, square brackets enclose function arguments and visible groupings.
+
+# 1 Why another functional
+
+A connected diagram can come apart when one internal line is cut. The two-point function, for instance, is a chain of self-energy blobs joined by bare propagators. All the dynamics is in the blobs. The lines between them are free propagation, so a description that keeps only the blobs loses nothing and is much more economical. The blobs are the 1PI diagrams. Lesson 68 found them by hand for the electron, and Lesson 69 for the photon. The effective action generates them all at once.
+
+The analogy from thermodynamics is exact. W[J] is like a free energy as a function of an applied field, such as a magnet's free energy F(H) in a field H. Its derivative is the response, the magnetization M = −∂F/∂H. Often the natural question is the reverse: what does it cost to hold the system at a given M? The answer is the Legendre transform, G(M) = F + HM, whose derivative returns the field needed. Γ[φ] is that transform for a field theory. It answers: what source must act to hold the mean field at φ? Where no source is needed, Γ is stationary, and that is the vacuum.
+
+# 2 The Legendre transform
+
+## 2.1 Definition and the quantum equation of motion
+
+Lesson 81 gave φ(x) = δW/δJ(x). Assume this can be inverted for J as a functional of φ, and define
+
+$$ Γ[φ] = W[J] − ∫ d⁴x J[x] φ[x]
+
+Differentiate with respect to φ(x). J depends on φ, so the chain rule gives three terms:
+
+$$ (δΓ)/(δφ[x]) = ∫ d⁴y (δW)/(δJ[y]) (δJ[y])/(δφ[x]) − J[x] − ∫ d⁴y (δJ[y])/(δφ[x]) φ[y] = − J[x]
+
+The first and third terms cancel, because δW/δJ(y) = φ(y). With no source, J = 0, so
+
+$$ (δΓ)/(δφ[x]) = 0
+
+The vacuum value of the field is a stationary point of Γ, just as a classical solution is a stationary point of S. This is the quantum equation of motion. It contains every loop correction.
+
+### Worked example 1
+
+Find Γ for the free scalar.
+
+Lesson 81 gave W₀ = (i/2)∫JD_FJ and φ = iD_FJ. With D_F = iK⁻¹, φ = −K⁻¹J, so J = −Kφ. Then W₀ = (i/2)(i)∫JK⁻¹J = −½∫JK⁻¹J = −½∫φKφ, and
+
+$$ Γ_0[φ] = − ½ ∫ φ K φ + ∫ φ K φ = ½ ∫ φ K φ = S_0[φ]
+
+The effective action of a free field is its classical action, exactly. δΓ₀/δφ = Kφ = −J is the classical field equation with the source on the right. Every difference between Γ and S comes from interactions, and Section 4 shows that every difference comes from loops.
+
+## 2.2 Inverting the relation
+
+The Legendre transform requires W to be a convex enough functional that φ ↔ J is one-to-one. In perturbation theory this holds near the vacuum. Section 6 notes what happens when it fails.
+
+# 3 The derivatives of Γ
+
+## 3.1 The two-point function
+
+Differentiate φ(x) = δW/δJ(x) with respect to φ(z). The chain rule gives the identity
+
+$$ ∫ d⁴y (δ²W)/(δJ[x] δJ[y]) (δJ[y])/(δφ[z]) = δ⁴[x − z]
+
+Lesson 81, Section 5.1, gives δ²W/δJδJ = iG, where G is the full connected propagator. Section 2.1 gives δJ/δφ = −Γ⁽²⁾. So iG times −Γ⁽²⁾ is the unit operator, and
+
+$$ Γ^(2) = i G^(−1)
+
+For the free field, G = D_F = iK⁻¹, so Γ⁽²⁾ = K, in agreement with Worked example 1. With interactions, Lesson 68's geometric series gives, for a scalar with 1PI self-energy −iΣ(p²), G = i/(p² − m₀² − Σ). Then
+
+$$ Γ^(2)[p] = p² − m_0² − Σ[p²]
+
+The self-energy appears in Γ directly, with no resummation needed. The physical mass is the zero of Γ⁽²⁾, where the full propagator has its pole. For the electron, in Lesson 68's convention, Γ⁽²⁾ = p̸ − m₀ − Σ(p). For the photon, Lesson 69's D′ = −ig_{μν}/[q²(1 − Π)] gives Γ⁽²⁾_{μν} = −q²[1 − Π(q²)]g_{μν} in the transverse part. Charge renormalization is the statement that the coefficient of the photon's kinetic term in Γ is fixed at q² = 0.
+
+### Worked example 2
+
+Show by diagrams why Γ⁽²⁾ contains only the 1PI self-energy.
+
+G is the sum of chains D + D(−iΣ)D + D(−iΣ)D(−iΣ)D + ⋯. Each link of the chain is reducible: cutting the bare line between two blobs separates them. In operator language the sum is D[1 − (−iΣ)D]⁻¹, so G⁻¹ = D⁻¹ + iΣ. Multiplying by i, iG⁻¹ = iD⁻¹ − Σ = K − Σ, because iD⁻¹ = K. The inverse of a geometric series of chains is one term, with no chains. Inverting G strips away every reducible link and leaves only the irreducible blob.
+
+## 3.2 Three and four points
+
+Differentiate the identity of Section 3.1 once more with respect to J. The derivative of Γ⁽²⁾ with respect to J is Γ⁽³⁾ times δφ/δJ = W⁽²⁾. Rearranging and using (Γ⁽²⁾)⁻¹ = −W⁽²⁾,
+
+$$ W^(3)_(xyz) = ∫ W^(2)_(x x′) W^(2)_(y y′) W^(2)_(z z′) Γ^(3)_(x′ y′ z′)
+
+The connected three-point function is three full propagators attached to Γ⁽³⁾. Γ⁽³⁾ is therefore the three-point function with its full external propagators removed, the amputated vertex. It cannot be cut into pieces by one line, because no internal line connects two external points. In QED, Γ⁽³⁾ is Lesson 76's vertex function, ieΓ^μ, with Γ^μ = γ^μF₁ + (iσ^{μν}q_ν/2m)F₂.
+
+One more derivative gives the four-point function. It is four full propagators on Γ⁽⁴⁾, plus three terms in which two Γ⁽³⁾ vertices are joined by one full propagator, one term for each way of splitting the four points into pairs. Those are exactly the tree diagrams with Γ⁽³⁾ and Γ⁽⁴⁾ as vertices and G as propagator. The pattern continues to all orders. Every connected correlator is a sum of tree diagrams built from the vertices of Γ, joined by full propagators. Γ is the action whose classical (tree) theory reproduces the full quantum theory.
+
+# 4 The loop expansion
+
+## 4.1 Counting ℏ
+
+Restore ℏ, so that the weight is exp[(i/ℏ)(S + ∫Jφ)]. Each propagator is the inverse of the kinetic operator in S/ℏ, so it carries a factor ℏ. Each vertex comes from S/ℏ, so it carries 1/ℏ. A connected diagram with I internal lines and V vertices has L = I − V + 1 loops, so it is proportional to ℏ^{I−V} = ℏ^{L−1}. Writing Z = e^{iW/ℏ}, the expansion of W, and of Γ, in powers of ℏ is an expansion in the number of loops. Tree diagrams are order ℏ⁰, the classical theory. One-loop terms are order ℏ. A loop expansion is a semiclassical expansion, not an expansion in a coupling, although in QED the two coincide because each loop costs a factor α.
+
+## 4.2 The one-loop effective action
+
+Evaluate Z[J] by stationary phase, the method of Lesson 80, Section 2. Let φ₀ be the classical solution with the source, δS/δφ + J = 0, and write φ = φ₀ + η. The linear term in η vanishes, so
+
+$$ Z[J] ≈ e^((i/ℏ)[S[φ_0] + ∫Jφ_0]) ∫ Dη e^((i/2ℏ) ∫ η S″[φ_0] η) ∝ e^((i/ℏ)[S[φ_0] + ∫Jφ_0]) det[S″[φ_0]]^(−1/2)
+
+Take −iℏ log, using log det = Tr log:
+
+$$ W[J] = S[φ_0] + ∫ J φ_0 + (iℏ/2) Tr[log[S″[φ_0]]] + O[ℏ²]
+
+Now Legendre-transform. The mean field φ differs from φ₀ by order ℏ, but S + ∫Jφ is stationary at φ₀, so that shift changes W − ∫Jφ only at order ℏ². Therefore
+
+$$ Γ[φ] = S[φ] + (iℏ/2) Tr[log[S″[φ]]] + O[ℏ²]
+
+The one-loop correction is the logarithm of the determinant of the fluctuation operator, evaluated in the background φ. For a fermion, Lesson 80's Grassmann integral puts det K in the numerator, and the correction is −iℏ Tr log K[φ], with the opposite sign and without the ½.
+
+## 4.3 Constant fields: the effective potential
+
+For a constant φ, translation invariance makes Γ proportional to the spacetime volume VT. Since S = ∫[½(∂φ)² − V(φ)], define V_eff by Γ = −VT·V_eff(φ). For constant φ, S″ = −∂² − V″(φ). Write M² = V″(φ), the mass of a fluctuation in that background. In momentum space,
+
+$$ (i/2) Tr[log[− ∂² − M²]] = (i/2) V T ∫ (d⁴k)/((2π)⁴) log[k² − M² + iε]
+
+Rotate k⁰ = ik₄, so d⁴k = i d⁴k_E and k² = −k_E². Up to a constant independent of φ,
+
+$$ V_eff = V[φ] + ½ ∫ (d⁴k_E)/((2π)⁴) log[k_E² + M²]
+
+### Worked example 3
+
+Show that the one-loop term is the zero-point energy of the fluctuations, ½Σω_k per unit volume, with ω_k = √(|k|² + M²).
+
+Differentiate with respect to M². The one-loop term gives ½∫d⁴k_E/(2π)⁴ 1/(k_E² + M²). Do the k₄ integral first: ∫dk₄/2π 1/(k₄² + ω_k²) = 1/(2ω_k). That leaves ½∫d³k/(2π)³ 1/(2ω_k). Since ∂ω_k/∂M² = 1/(2ω_k), this is the M² derivative of
+
+$$ V_1 = ∫ (d³k)/((2π)³) ω_k / 2
+
+Up to a constant, the one-loop effective potential is the sum of ½ω_k over all modes of the field fluctuating about φ. Lesson 80's oscillator had E₀ = ω/2 from its fluctuation determinant, and this is the same calculation with one oscillator per momentum. The integral diverges like k⁴, k²M², and M⁴ log k. Renormalization (Lesson 67) absorbs the divergences into the constant, mass, and coupling terms of V. The finite remainder depends on φ through M²(φ), and this dependence can move the minimum of V_eff away from the classical one. That is the Coleman–Weinberg mechanism.
+
+For a Dirac field, det(p̸ − m) = (p² − m²)² over the four spinor components. Combined with the factor −i in place of i/2, this gives V₁ = −4∫d³k/(2π)³ ω_k/2. The four counts two spin states each for particle and antiparticle. The minus sign is the Fermi sea: filling the negative-energy states lowers the vacuum energy. Lesson 80's closed-loop sign has become a sign in an energy.
+
+# 5 The QED effective action for the photon
+
+## 5.1 Integrating out the electron
+
+Hold the photon field A fixed and do the electron integral exactly. It is Gaussian, with kinetic operator K[A] = i∂̸ + eA̸ − m, from the covariant derivative D_μ = ∂_μ + iqA_μ with q = −e. The result is
+
+$$ Γ[A] = S_Maxwell[A] − i Tr[log[i ∂̸ + e A̸ − m]]
+
+at one electron loop. Expanding the logarithm in powers of eA̸ produces closed electron loops with any number of photon legs attached. Furry's theorem (Lesson 63) removes the odd numbers. Gauge invariance makes the result a functional of F_{μν} alone.
+
+## 5.2 Quadratic order: vacuum polarization
+
+The term with two photon legs is the one-loop vacuum polarization of Lesson 69. In momentum space, the photon part of Γ becomes
+
+$$ Γ_2[A] = − ¼ ∫ (d⁴q)/((2π)⁴) F̃_(μν)[−q] [1 − Π̂[q²]] F̃^(μν)[q]
+
+after the charge is renormalized so that Π̂(0) = 0. The running charge of Lesson 69 is this momentum-dependent coefficient of the Maxwell term. At low momentum, Π̂(q²) ≈ −(α/15π)q²/m², which is Lesson 78's (α/15π)Q²/m² for spacelike q² = −Q². It gives a local term (α/60πm²)F_{μν}∂²F^{μν} in the effective Lagrangian. That is the Uehling term of Lesson 78, now written as a correction to the classical action.
+
+## 5.3 Quartic order: light scatters light
+
+For fields that vary slowly on the scale of the Compton wavelength 1/m, the four-photon terms can be written as a local Lagrangian. Euler and Heisenberg found it in 1936:
+
+$$ ℒ_eff = ½ [E² − B²] + (2α²/45m⁴) [[E² − B²]² + 7 (E·B)²] + ⋯
+
+in Heaviside–Lorentz units. Classical electrodynamics is linear, so two light beams pass through each other. This term is not linear. Virtual electron pairs make the vacuum a nonlinear optical medium, so light can scatter off light.
+
+### Worked example 4
+
+How large is the Euler–Heisenberg term compared with the Maxwell term for an intense laser with E = 10¹⁴ V/m?
+
+The ratio for a pure electric field is (2α²/45m⁴)E⁴/(½E²) = (4α²/45)E²/m⁴. Write eE/m² = E/E_c, where E_c = m²c³/(eℏ) = 1.32×10¹⁸ V/m is the field that does work mc² on an electron over one Compton wavelength. Then E²/m⁴ = (E/E_c)²/e², with e² = 4πα. So the ratio is (α/45π)(E/E_c)². For E = 10¹⁴ V/m, E/E_c = 7.6×10⁻⁵, and the ratio is 5.2×10⁻⁵ × 5.7×10⁻⁹ ≈ 3×10⁻¹³. Even the strongest lasers barely disturb the linearity of the vacuum. The effect has been seen in collisions of lead nuclei at the LHC, whose Coulomb fields briefly exceed E_c. ATLAS reported evidence for γγ → γγ there in 2017 and an observation in 2019, and CMS reported evidence in 2019. Near E_c the expansion fails, and Lesson 86 shows that Γ[A] then acquires an imaginary part: the vacuum decays into pairs.
+
+# 6 Symmetry and the vacuum
+
+## 6.1 Tadpoles
+
+Section 2.1 says δΓ/δφ = 0 at the vacuum. The first derivative of Γ is the 1PI one-point function, the tadpole. If the tadpole is not zero at the assumed vacuum, that vacuum is wrong, and the field must be shifted until it is. In QED the photon tadpole vanishes by Furry's theorem, so A = 0 is the vacuum. In the Higgs sector of Lesson 87, the condition fixes the vacuum expectation value, order by order in loops.
+
+## 6.2 Symmetries carry over
+
+If S and the measure are invariant under a linear transformation of the fields, then so is Γ. Gauge invariance therefore constrains Γ directly. Lesson 72's Ward–Takahashi identity, q_μΓ^μ(p + q, p) = S′⁻¹(p + q) − S′⁻¹(p), is a relation between Γ⁽³⁾ and Γ⁽²⁾ of the electron. Its consequence Z₁ = Z₂ is the reason the electric charge is renormalized only by the photon's Γ⁽²⁾, Section 3.1. Lesson 83 derives such identities from a change of variables in the path integral.
+
+# 7 What this lesson has not done
+
+It assumed that the relation between φ and J can be inverted, which holds in perturbation theory near the vacuum. Beyond it, the true effective potential is convex, and the loop-expanded one need not be. The lesson did not resolve that subtlety. It derived the one-loop formula but did not compute two-loop terms. It quoted the Euler–Heisenberg Lagrangian and the low-momentum form of Π̂ rather than deriving them from Tr log, and it did not renormalize the effective potential explicitly. The LHC observations were quoted.
+
+# 8 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used next |
+| Γ = W − ∫Jφ, δΓ/δφ = −J | Schwinger–Dyson equations, Lesson 83 |
+| Γ⁽²⁾ = iG⁻¹ = K − Σ | Lessons 68 and 69 restated; renormalization conditions |
+| Correlators are trees of Γ vertices | Why only 1PI pieces are renormalized |
+| Γ = S + (iℏ/2)Tr log S″ | Thermal effective potential, Lesson 85 |
+| V₁ = Σω/2, fermions −4Σω/2 | Vacuum energy; Higgs potential, Lesson 87 |
+| Γ[A] = S_Maxwell − i Tr log K[A] | Schwinger pair production, Lesson 86 |
+| Euler–Heisenberg term | Light-by-light scattering; strong fields, Lesson 86 |
+
+# 9 Summary
+
+1. Γ[φ] = W[J] − ∫Jφ is the Legendre transform of W, and δΓ/δφ = −J. The vacuum is a stationary point of Γ.
+
+2. For a free field, Γ = S exactly.
+
+3. Γ⁽²⁾ = iG⁻¹ = K − Σ. The self-energy appears directly, and the physical mass is the zero of Γ⁽²⁾.
+
+4. Higher derivatives of Γ are the amputated 1PI vertices. Every connected correlator is a tree built from them.
+
+5. Each loop costs one power of ℏ. To one loop, Γ = S + (iℏ/2)Tr log S″, and for fermions the term is −iℏ Tr log K.
+
+6. For constant fields, the one-loop effective potential is the zero-point energy Σω_k/2 of the fluctuations, and −4Σω_k/2 for a Dirac fermion.
+
+7. Integrating out the electron gives Γ[A]. Its quadratic term is vacuum polarization and the running charge. Its quartic term is the Euler–Heisenberg Lagrangian, a ratio (α/45π)(E/E_c)² to Maxwell.
+
+8. Symmetries of S and the measure are symmetries of Γ. Ward identities are relations among its vertices.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | **Extension.** Derive δΓ/δφ = −J, showing which terms cancel. |
+| 2 | **Core.** Compute Γ₀ for the free scalar and confirm Γ₀ = S₀. |
+| 3 | **Extension.** Do the Legendre transform for a single variable with W(j) = j²/2a, and find Γ(φ). |
+| 4 | **Extension.** Derive Γ⁽²⁾ = iG⁻¹ from δφ/δφ = 1. |
+| 5 | **Core.** Using the chain G = D + D(−iΣ)D + ⋯, show that iG⁻¹ = K − Σ. |
+| 6 | **Core.** For the electron, write the condition for the physical mass as a zero of Γ⁽²⁾, and connect it to Lesson 68, Section 3.1. |
+| 7 | **Extension.** Derive W⁽³⁾ = W⁽²⁾W⁽²⁾W⁽²⁾Γ⁽³⁾. |
+| 8 | **Core.** Draw the trees that make up the connected four-point function in terms of Γ⁽³⁾, Γ⁽⁴⁾, and G. |
+| 9 | **Core.** Show that a diagram with I internal lines and V vertices is proportional to ℏ^{L−1}. |
+| 10 | **Core.** Explain why the shift from φ₀ to φ does not change Γ at order ℏ. |
+| 11 | **Core.** Do the k₄ integral ∫dk₄/2π (k₄² + ω²)⁻¹ = 1/2ω by contour or by substitution. |
+| 12 | **Extension.** Show that det(p̸ − m) = (p² − m²)² for the 4×4 Dirac matrices, and explain the factor −4 in the fermion V₁. |
+| 13 | **Core.** Compute E_c = m²c³/eℏ in V/m. |
+| 14 | **Extension.** Show that the Euler–Heisenberg ratio to Maxwell is (α/45π)(E/E_c)², and evaluate it at E = E_c. |
+| 15 | **Extension.** Why does the photon tadpole vanish in QED? |
+| 16 | **Challenge.** For V = λφ⁴/4!, write M² and the one-loop V_eff, and explain why its φ⁴ log φ² term cannot be absorbed into the original λ. |
+
+# Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
+
+**1.** δΓ/δφ(x) = ∫(δW/δJ)(δJ/δφ) − J − ∫(δJ/δφ)φ. Since δW/δJ = φ, the first and third terms are equal and opposite.
+
+**2.** Worked example 1: J = −Kφ, W₀ = −½φKφ, and Γ₀ = −½φKφ + φKφ = ½φKφ.
+
+**3.** φ = W′ = j/a, so j = aφ, and Γ = j²/2a − jφ = −aφ²/2. Then Γ′ = −aφ = −j. This toy has weight e^{−ax²/2 + jx} with no factors of i, so Γ comes out as the exponent −aφ²/2 itself, which is minus the Euclidean action. With the course's e^{iS} weight, Γ = +S, as in Worked example 1.
+
+**4.** δφ(x)/δφ(z) = δ⁴(x − z) = ∫(δ²W/δJδJ)(δJ/δφ) = ∫(iG)(−Γ⁽²⁾), so Γ⁽²⁾ = −(iG)⁻¹ = iG⁻¹.
+
+**5.** G = D[1 + iΣD]⁻¹ gives G⁻¹ = D⁻¹ + iΣ, and iG⁻¹ = iD⁻¹ − Σ. With D = iK⁻¹, iD⁻¹ = K.
+
+**6.** Γ⁽²⁾ = p̸ − m₀ − A(p²) − B(p²)p̸ vanishes at p̸ = m: m − m₀ − A(m²) − mB(m²) = 0. To leading order m² can be replaced by m₀² inside A and B.
+
+**7.** Differentiate ∫W⁽²⁾_{xy}(−Γ⁽²⁾_{yz}) = δ_{xz} with respect to J_w. This gives W⁽³⁾Γ⁽²⁾ + W⁽²⁾Γ⁽³⁾W⁽²⁾ = 0, using δ/δJ = W⁽²⁾δ/δφ. Multiply by (Γ⁽²⁾)⁻¹ = −W⁽²⁾.
+
+**8.** One term has four G's on a Γ⁽⁴⁾. Three terms have two Γ⁽³⁾ joined by one G, in the s, t, and u pairings, with G on every external leg.
+
+**9.** Each of the I lines gives ℏ and each of the V vertices 1/ℏ, a total ℏ^{I−V}. Euler's relation for a connected graph gives L = I − V + 1.
+
+**10.** S + ∫Jφ is stationary at φ₀, so a shift δφ of order ℏ changes it by order (δφ)², which is ℏ². The change in the one-loop term is ℏ × ℏ.
+
+**11.** Substitute k₄ = ω tan θ: ∫dθ/(2πω) over (−π/2, π/2) gives 1/2ω.
+
+**12.** (p̸ − m)(p̸ + m) = p² − m². det(p̸ + m) = det(p̸ − m), by conjugating with γ⁵, so det(p̸ − m)² = (p² − m²)⁴. The −i Tr log then gives 2 × (−i) × log(p² − m²) per momentum, which is −4 times the boson's (i/2) log.
+
+**13.** (9.109×10⁻³¹)²(2.998×10⁸)³/(1.602×10⁻¹⁹ × 1.055×10⁻³⁴) = 1.32×10¹⁸ V/m.
+
+**14.** From Worked example 4, the ratio is (4α²/45)(E/E_c)²/(4πα) = (α/45π)(E/E_c)². At E = E_c it is 5.2×10⁻⁵. Even there the nonlinearity is small, but the imaginary part of Lesson 86 is no longer negligible.
+
+**15.** A one-photon 1PI function is a closed electron loop with one photon attached. Furry's theorem cancels odd numbers of photon legs, because A is C-odd.
+
+**16.** M² = λφ²/2. The one-loop term contains M⁴ log M² ∝ λ²φ⁴ log φ². A φ⁴ counterterm can absorb λ²φ⁴ times a constant, but not the log φ², which is a genuine prediction. It depends on the renormalization scale through log(φ²/μ²), and the renormalization group of Lesson 70 makes the total independent of μ.
+
+# Mastery check
+
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.

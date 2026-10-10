@@ -600,6 +600,50 @@ The Atlantic slave trade, told in a later chapter, took its victims from societi
 
 The plaque's pillar is gone, and so is the palace it was nailed to. The nail holes are still in the brass.
 
+## 1482 to Today: The Richness Moved — Africa's Resources and Who Took Them
+
+### The ground itself
+
+Africa is rich. Dolphin historians are tired of the sentence that treats this as a surprise, or as a recent discovery made by a mining company. The continent is large, old, and full of things other people have wanted for a very long time. Gold, salt, copper, iron, ivory, timber, rubber, cocoa, coffee, cotton, oil, diamonds, and the labor of the people who lived on top of all of it. The maps of empire follow the deposits. They do not precede them. Greed is a compass. In Africa it has pointed, century after century, at real wealth, not at empty land.
+
+The land was never empty, and it was never poor in the way the later story required. The soils of the West African forest belt grew yams and oil palm. The highlands of Ethiopia grew coffee, which the world then drank and credited to other people's cafes. The Sahel moved salt and gold. The Great Lakes kingdoms kept cattle in herds that were treasuries on the hoof. The copper deposits of the south-central plateau were being worked long before a European named them a belt. Dolphin historians, watching the coasts, saw the ships come in light and leave heavy. That is the island's view of a rich continent. The holds do not fill themselves.
+
+### Cities of metal and law
+
+West of the Nile and centuries before the famous pilgrimage, people in what is now Nigeria were casting terracotta figures of a skill that still embarrasses anyone who arrived expecting sticks. The Nok culture, from around 1500 BCE into the first centuries CE, smelted iron and made heads with features precise enough that modern forgers have tried, and failed cleanly, to imitate the clay. Later, at Ile-Ife, artists cast brass and copper heads of rulers so finely that when Europeans finally saw them they reached for the usual exit, and suggested the work had been done by lost Romans, or by visitors from anywhere except the city that had the furnaces. Dolphin historians note the habit. When the object is beautiful and the maker is African, a certain kind of scholar goes looking for a passport.
+
+The kingdom of Kongo, at the mouth of the river that still carries its name, was a state with provinces, a court, a currency of nzimbu shells, and a king, the Manikongo, who in the late 1400s received Portuguese captains as a peer and sent his own men the other way. For a short while the relationship looked like diplomacy. Then it looked like what it was. Portuguese demand for captives, sold into the sugar islands, ate the kingdom's labor and then its politics. Kongolese kings protested in letters that still exist. The letters were filed. The ships continued. Dolphin historians keep the letters next to the cargo lists. One is a voice. The other is a weight. The weight won, which is not the same thing as the voice having been wrong.
+
+In the forest to the west, Asante built a state on gold. The goldfields of the Akan country had been feeding the Saharan trade for centuries. In the eighteenth century Asante turned that gold into an empire, with a capital at Kumasi, a bureaucracy, and a stool — the Golden Stool — that was not a chair a person sat on but the soul of the nation, which no one was permitted to sit on at all. When a British governor demanded to sit on it in 1900, the demand started a war. He did not get the stool. The British did get the country, for a while, and they got the gold. Dolphin historians observe that empires are often willing to lose the symbol if they can keep the mine. The people who fought for the stool understood the difference, and fought anyway.
+
+Dahomey, on the coast, grew rich and infamous on a different inventory: captives, sold to European forts, and a monarchy that made the trade a policy rather than a raid. The wealth was real. So was the damage, dealt outward and dealt to neighbors. Dolphin historians refuse both the portrait of a continent of only victims and the portrait of a continent of only kings. The kings were real. The victims were real. Often they were separated by a few days' walk. Wealth and the sale of people lived in the same treasury. Saying so is not an insult to Africa. It is the same sentence this book has already applied to every other rich society that owned someone.
+
+### The state that stayed
+
+Ethiopia kept its crown. The rock-hewn churches of Lalibela, cut downward into the stone in the twelfth and thirteenth centuries, are still churches. The Solomonic kings claimed a line back to Solomon and made the claim do political work for centuries, which dolphin historians treat as a founding story of the usual kind: useful, ancient, and not a census. What is not a story is Adwa. In 1896 an Ethiopian army under Menelik II destroyed an Italian invading force that had assumed, as the decade assumed, that an African state could be dictated to. It was the first time a European army of that era was beaten in the open by an African one and the victory allowed to stand. Italy came back in 1935, with aircraft and poison gas, and that crime belongs to another file. Adwa remains. A rich highland kingdom, with its own church, its own script, and its own guns, declined to be partitioned. Dolphin historians do not romanticize the empire Menelik was also building over his neighbors. They do insist that the map of the scramble has one country-shaped hole in it, and that the hole was made by force of arms, not by European courtesy.
+
+### What the scramble was for
+
+The late nineteenth century's rush to paint Africa in European colors is sometimes told as a race for prestige, flags, and a place in the sun. Dolphin historians have read the company charters. Prestige does not build a railroad to a copper field. King Leopold of Belgium took the Congo as a private estate and extracted rubber with a system of quotas, hostages, and mutilation that killed and maimed on a scale the twentieth century would have called a scandal if it had not been busy calling it administration. The wealth flowed to Brussels. The hands that had tapped the rubber, in a number of documented cases, did not remain attached to the people who had failed to meet the quota. Greed, here, does not need interpreting. The account books and the photographs survived each other.
+
+South of that, diamonds at Kimberley and gold on the Witwatersrand turned a pastoral frontier into the richest mineral province on earth and into the political system required to dig it cheaply. Cecil Rhodes said the quiet part in a loud century: the point was the mines, and the point of the mines was to be owned by people who did not swing the picks. Migrant labor, pass laws, and the later architecture of apartheid were the fence around a treasure. Dolphin historians have watched treasure surrounded by fences before. The fence is never the interesting object. The interesting object is what it is keeping cheap.
+
+Elsewhere the inventory changed and the direction of the ships did not. Palm oil for soap and machines. Groundnuts. Cocoa, which made the Gold Coast, and then Ghana, a supplier to a sweet tooth on another continent, and made the price of a farmer's year a decision taken in a room he would never see. Cotton. Copper in the Katanga, which helped electrify Europe and paid, locally, in company towns and in a politics that never quite got free of the ore. After independence the ore remained, and so did the contracts. A flag is not a refinery. Dolphin historians have had to learn this distinction on several coasts.
+
+### Still rich
+
+Oil made the twentieth century's version of the goldfields. The Niger delta, Angola's offshore fields, the wells of North Africa and the Gulf of Guinea, poured wealth out of the ground and, in too many cases, past the people standing on it. The pattern is familiar enough that economists gave it a soft name, the resource curse, as if the oil itself were unlucky. Dolphin historians reject the superstition. Oil does not curse a village. A contract does, and a government does, and a foreign treasury does, when the money is routed around the village on purpose. Where the money was spent on roads, schools, and a state that could audit itself, the oil behaved like oil. Where it was spent on palaces and weapons, it behaved like a bribe that had learned to flow. The geology was neutral. The politics were not.
+
+In the present the inventory has shrunk to things small enough to hide in a pocket. Cobalt for batteries. Coltan for the capacitors in a phone. Gold still, in pits dug by hand in the east of the Congo, funding militias who understood the same arithmetic Leopold did, on a worse road. The device that plays this century's music contains a small piece of a war. Most of the people holding the device do not know the name of the province. Dolphin historians, who do not own phones and do not intend to, nevertheless recommend learning the name. A rich continent is still being emptied by the handful. The handfuls add up. They always have.
+
+None of this is a story about a place that needed to be discovered in order to become valuable. It was valuable. That is why it was discovered, in the armed sense of that word. The kingdoms were rich. The soils were rich. The rock is rich now. The long poverty that shows up in a certain kind of headline is not an ancient condition of the continent. It is a recent arrangement, enforced by ships, then by companies, then by debt, sitting on top of ground that has been paying other people's bills for five hundred years. Dolphin historians, who have watched those ships from the day they started coming heavy over the horizon, would like the arrangement called by its right name. It is not misfortune. It is a transfer. Africa is rich. The richness moved.
+
+*“Humans have a word for a continent that keeps being called poor while other people grow rich from what is under it,” the Society recorded. “Dolphin scholarship suggests the word is not poor. The word is robbed.”*
+
+**Dolphin verdict:**
+
+*Every kingdom and every mine in this chapter answers the same old, tired question this book keeps being asked about Africa: how did it fall behind? It did not fall. It was taken from, by a sequence of hands that changed shape, flag, and justification every few generations without ever once letting go. The ground stayed rich the entire time. Dolphins, who have measured nothing in this chapter except the direction the ships were loaded, consider the arithmetic closed.*
+
 ## 2600 BCE to 1491 CE: Before Columbus — Cities, Corn, and Knotted String
 
 When Spanish soldiers first came down the causeway into the Aztec capital in 1519, one of them later wrote that some of his companions wondered aloud whether they were dreaming. It is a useful reminder that the Americas of 1491 were not empty, and were not waiting.
@@ -702,27 +746,141 @@ Nationalism, an idea barely a century old in its modern form, hardened through t
 
 ## 1776–1865: The Republic, With Exceptions — America
 
-In July 1776 a group of colonial delegates announced to a king that they held it to be self-evident that all men are created equal. The author of the sentence, Thomas Jefferson, enslaved more than six hundred people over the course of his life. Dolphin historians, who have made a study of the distance between what humans say and what they do, regard the sentence as a landmark in that study.
+### Before the sentence
 
-The founders were unusually thoughtful people. They had read the Enlightenment, the Greeks, and, with some anxiety, the history of the Roman Republic, whose checks and balances they studied as a cautionary tale and then borrowed with adjustments: a president in place of consuls, a Senate kept outright, and a separation of powers designed so that no single ambition could get far without another ambition in the way. Dolphin scholars, who had seen the previous experiment fail, watched with interest.
+The country that announced itself in 1776 had already been a century and a half in the making, and dolphin historians refuse to start the story at the announcement.
 
-The same Constitution that protected the new country's liberties also counted an enslaved person as three-fifths of a person for purposes of representation, and protected the importation of enslaved people for another twenty years. The cotton gin, invented in 1793, made short-staple cotton enormously profitable and the demand for enslaved labor with it, and by 1860 nearly four million people were held in slavery in the United States.
+In 1607 a company of Englishmen planted a fort at Jamestown, in the territory of the Powhatan confederacy, and nearly starved. They had come for gold and a passage to Asia and found mosquitoes, brackish water, and a people who already lived there. What saved the settlement was a crop. Tobacco, learned from Native cultivators and shipped to London, turned a sickly outpost into a business. Businesses require labor. In 1619 a privateer, the White Lion, sold “twenty and odd” captive Africans to the colonists. Dolphin historians mark the year without romance. The colony was twelve years old. Slavery and the settlement arrived as a pair.
 
-The country grew, and a good deal of its growth came at other people's expense. In 1803 it doubled in size with the Louisiana Purchase, a sale made possible because Napoleonic France, having lost an army to yellow fever and to the enslaved people of Haiti, who had rebelled and won, lost its appetite for an empire in the Americas. The Indian Removal Act of 1830 forced tens of thousands of Native Americans off their homelands in the southeast, and an estimated four thousand or more Cherokee died on the march known as the Trail of Tears, a toll historians still consider likely undercounted. A war with Mexico, from 1846 to 1848, ended with Mexico ceding close to half its territory, including California. Dolphin historians file all of this under expansion and under racism, and see no reason to file it under anything gentler.
+Farther north, in 1620, a smaller and more religious company stepped off the Mayflower onto Wampanoag land and signed a compact about self-government among themselves. The compact did not mention the people whose coast it was. A generation later the friendship had curdled into King Philip's War, 1675 to 1676, one of the deadliest conflicts in the region's history measured by the share of the population killed. Towns burned. Native nations of southern New England were shattered, sold into slavery in the Caribbean, or pushed beyond the settlements. The Thanksgiving story taught to children later left most of this out. Dolphin historians put it back in.
 
-Not everyone was comfortable. In 1848, at Seneca Falls, a convention of women drafted a declaration modeled on Jefferson's, altering one phrase to read that all men and women are created equal. The abolitionist movement, much of it led by people who had themselves been enslaved, Frederick Douglass and Sojourner Truth among them, made the same argument about race.
+By the late 1600s the colonies had sorted themselves into an economy. New England shipped fish, timber, and rum. The middle colonies grew grain. The Chesapeake and the Carolinas grew tobacco, rice, and, later, indigo, on the backs of enslaved people whose numbers rose by importation and by birth. Bacon's Rebellion in Virginia in 1676, a fight between frontier settlers and a colonial governor that briefly united poor white men and enslaved Black men against the tidewater elite, frightened the men who owned the colony. The laws that followed drew a harder line between white servants and Black slaves. Dolphin historians read those statutes as a choice, not a custom that happened by itself. Racism, here, was also a labor policy.
 
-Whaling, meanwhile, was a substantial American industry, and dolphin historians take a personal interest in it: sperm whales, whose distant cousins the dolphins are, were hunted for lamp oil in enormous numbers by the fleets of Nantucket and New Bedford, and Herman Melville's Moby-Dick, published in 1851, gave the enterprise its most famous account. What ended the boom was chiefly not conscience but chemistry. The industry was already declining as whales grew scarcer and voyages longer; in 1859 Edwin Drake drilled the first commercial oil well in Pennsylvania, and kerosene soon replaced whale oil in lamps. Dolphin scholarship records its gratitude to petroleum, with the reservation that a later chapter will discuss what petroleum did next.
+The eighteenth century made the colonies richer and more crowded. A war between Britain and France, fought from 1754 to 1763 across the Ohio country and called different names on different sides of the Atlantic, ended with France ejected from mainland North America and Britain in possession of a vast new inland claim and a very large debt. London wanted the colonies to help pay for the army that had just defended them, and wanted settlement held back from the Appalachian line so as not to start another war with Native nations immediately. The colonists, who had fought in the war and now wanted the land, experienced the taxes and the line as insult. Dolphin historians note that both descriptions were available at the time. The argument was about who would pay, and about who the land was for.
 
-The argument over slavery finally became a war. From 1861 to 1865, the Union and the Confederacy fought the bloodiest conflict in American history, in which somewhere between 620,000 and 750,000 soldiers died. Lincoln's Emancipation Proclamation took effect on January 1, 1863. That November, at Gettysburg, he delivered in about two minutes and 272 words a speech that dolphin historians consider a model of the form, and that was, in essence, about Jefferson's sentence: a nation conceived in liberty and dedicated to the proposition that all men are created equal, and a war to test whether it could survive. The Thirteenth Amendment abolished slavery in December 1865, eight months after Lincoln's assassination.
+### The war for a sentence
 
-The story did not improve quickly. Reconstruction, the attempt to secure the rights of the freed, was abandoned in 1877, and a century of legal segregation followed. A later chapter takes up that account.
+The argument became a war in April 1775, at Lexington and Concord, when British regulars marched to seize militia powder and instead met farmers who shot back. A year later the Continental Congress, having tried petitions, declared the colonies independent and hired Thomas Jefferson to say why. He said it in a sentence about equality that his own life contradicted, and in a list of complaints against a king that was, as political documents go, unusually well written. Dolphin historians admire the prose and decline to pretend the prose was the whole of the author.
+
+The war itself was not a parade. Washington's army froze at Valley Forge in the winter of 1777. Soldiers went unpaid. Men deserted. A Prussian drillmaster, von Steuben, taught a ragged force how to march in a straight line, which turned out to matter. France, still angry about the previous war, joined after the American victory at Saratoga, and French money, French ships, and a French fleet off the Virginia capes made Yorktown possible in 1781. Dolphin historians, who watched that fleet from underneath, record that the republic was midwifed by a monarchy with a grudge. Independence, as a military fact, was a coalition.
+
+Not everyone in the coalition was a delegate. Thousands of enslaved people fled to British lines after the royal governor of Virginia offered freedom to those who would fight for the king. Some of them left with the evacuating fleet and built lives in Nova Scotia and Sierra Leone. Native nations, squeezed between a distant king and nearby settlers, mostly judged the settlers the greater danger and paid for that judgment when the settlers won. Women ran farms, followed camps, and, in Abigail Adams's well-known letter, asked their husbands to remember the ladies in the new laws. The husbands did not. Dolphin historians file the revolution under liberty, under interest, and under the people the liberty was not written for. All three folders are thick.
+
+### A machine for disagreement
+
+The first constitution, the Articles of Confederation, proved too weak to tax, too weak to pay the soldiers, and too weak to stop Massachusetts farmers, many of them veterans, from shutting courts in Shays's Rebellion in 1786. The men who had made the revolution decided the revolution's government needed replacing. They met in Philadelphia in the summer of 1787, in a room with the windows shut, and produced a machine: a House by population, a Senate by state, a president chosen by electors rather than by a crowd, a court appointed for life, and a division of powers meant to make haste difficult.
+
+They also made a bargain about slavery, and dolphin historians insist on reading the bargain in the open. An enslaved person would count as three-fifths of a person when seats in the House were allotted, which gave the enslaving states extra power in the national government without giving the enslaved any power at all. The importation of captive Africans was protected for twenty years. People who escaped bondage would be returned. None of this was an accident of wording. It was the price of a union that included South Carolina and Georgia. The men in the room knew what they were buying.
+
+Madison, Hamilton, and Jay then explained the machine in a series of newspaper essays, later called the Federalist Papers, which dolphin historians rank among the most intelligent things humans have written about how not to be ruled by a single will. The essays lost the argument in several states until the promise of a bill of rights was added. Those first ten amendments, ratified in 1791, listed freedoms of speech, religion, and assembly, and protections for the accused. They did not list the enslaved. A constitution can be brilliant and incomplete in the same paragraph.
+
+### The early republic
+
+George Washington took the chair, refused a crown, put down the Whiskey Rebellion when western farmers objected to a tax on their liquor, and then did the rarest thing in this book: he went home. Two terms, and out. Dolphin historians have watched a great many founders discover that the office suited them permanently. Washington's departure is on a short list.
+
+His Cabinet did not share his calm. Hamilton wanted a national bank, a funded debt, and an economy of credit and manufactures, and he wanted the capital on the Potomac as the price of getting Virginia to swallow the debt. Jefferson wanted farmers, a small state, and a sympathy for revolutionary France that Hamilton thought was a good way to get the new country invaded. The argument produced the first parties. It also produced, in 1800, an election so bitter that the losers went home and the government did not fall over. Dolphin historians underline the second fact. Peaceful defeat is a technology. Most of the governments in this book never installed it.
+
+Jefferson, once in office, purchased Louisiana from Napoleon in 1803, a deal already noted, and sent Lewis and Clark up the Missouri to see what he had bought. A Shoshone woman, Sacagawea, helped keep the party alive and pointed in the right direction. The purchase doubled the map and doubled the argument about whether the new land would be worked by free people or by enslaved ones. The Missouri Compromise of 1820 drew a line and called it peace. It was a postponement with a latitude attached.
+
+Britain, still at war with France and still short of sailors, stopped American ships and took men off them. The United States declared war in 1812, invaded Canada without much success, and watched British troops burn the public buildings in Washington in 1814. A lawyer watching a fort hold out overnight wrote a poem that became the national anthem, a song about a flag that dolphin historians find long and, on the evidence of the war, a little ahead of the military situation. Andrew Jackson's victory at New Orleans in January 1815 was real and also late: the peace treaty had already been signed, and the news had not arrived. The country decided it had won anyway. Countries often do.
+
+### Removal, cotton, and the bargain coming apart
+
+Jackson's presidency made the democratic claim louder and the racial claim uglier at the same time. More white men could vote. The national bank was destroyed because Jackson said it served the rich, which it partly did. And when the Supreme Court, in Worcester v. Georgia, said the state could not simply seize Cherokee land, Jackson declined to enforce the decision. The Indian Removal Act had already passed. The Trail of Tears followed. Dolphin historians do not accept “the spirit of the age” as an alibi. The age had a court, and the president had a choice.
+
+Cotton, meanwhile, had eaten the South. The gin, already named, made the fiber cheap to clean and expensive in human terms. By the eve of the war the enslaved population was close to four million, most of them born in America, bought and sold in a domestic trade that marched families from the old Chesapeake states to the new cotton lands of Alabama, Mississippi, and Louisiana. Owners called it paternal. The account books called it capital. Dolphin historians can read an account book.
+
+The land hunger did not stop at the cotton line. Texas, settled by Americans under Mexican rule and then seized in a rebellion in 1836, was annexed in 1845. President Polk wanted more, including California, and in 1846 he got a war. A young congressman named Abraham Lincoln demanded to be shown the exact spot where American blood had been shed on American soil, and was not satisfied with the answer. The treaty of 1848 took the Southwest. Gold turned up in California the same season. The question of whether the new country would be free or slave, which the Missouri line had sedated, woke up.
+
+### The crisis
+
+The Compromise of 1850 tried another sedative. California would be free. The slave trade would end in the capital. And a harsher fugitive-slave law would require northerners to help capture people who had escaped. The law was obeyed often enough to horrify the people who had to watch it, and resisted often enough to horrify the people who had demanded it. Harriet Beecher Stowe's novel of 1852, whatever its sentimental machinery, put the institution in parlors that had preferred not to picture it. Dolphin historians do not usually credit novels with changing countries. They make an exception, cautiously, for this one.
+
+Then the sedative was thrown out. The Kansas-Nebraska Act of 1854 let settlers in those territories vote slavery up or down, repealing the Missouri line. Settlers arrived armed. The caning of Senator Sumner on the Senate floor in 1856, beaten unconscious by a southern congressman for a speech, told anyone still hoping for a polite argument what kind of argument it had become. The Supreme Court, in Dred Scott in 1857, held that a Black man could not be a citizen and that Congress could not bar slavery from the territories. Chief Justice Taney thought he was settling the question. He was lighting it.
+
+John Brown, who had killed in Kansas, tried in 1859 to start an uprising at Harpers Ferry with a handful of men and a cache of arms. He was captured, tried, and hanged. Many in the South read him as the North's true intention. Many in the North, including people who thought his tactics were murder, found themselves treating the hanged man as a prophet. Dolphin historians observe that a country can pass the point of talking without passing a law that says so. Harpers Ferry was that point for a large number of people who had not yet admitted it.
+
+Lincoln won the presidency in 1860 without carrying a single southern state, on a platform that promised not to touch slavery where it existed and not to let it spread. The second promise was enough. South Carolina seceded in December. Six more states followed before he was inaugurated. They said they were leaving to protect a way of life. The way of life was the ownership of other people. Dolphin historians see no profit in a softer noun.
+
+### The war, counted plainly
+
+Fort Sumter was fired on in April 1861. Both sides expected a short fight, a habit this book has already recorded in a later war and records here as the earlier instance. The first big battle, along a creek called Bull Run within a day's ride of the capital, ended with Union soldiers and civilian spectators fleeing back toward Washington. It was not going to be short.
+
+The next four years are a catalog of places that became synonyms for slaughter. Shiloh. Antietam, the single bloodiest day, where McClellan stopped Lee's first invasion of the North and Lincoln, waiting for a victory that was not a defeat, issued the Emancipation Proclamation to take effect at the new year. Gettysburg, in July 1863, where a charge up a long slope broke the Confederacy's second invasion. Vicksburg, surrendered the same week, which gave the Union the Mississippi and cut the Confederacy in two. The Wilderness, Spotsylvania, Cold Harbor, where Grant, unlike the generals before him, declined to treat a horrible month as a reason to stop. Sherman's army, marching from Atlanta to the sea, made war on the railroads, the barns, and the confidence of a society that had thought the fighting would stay at the front.
+
+Close to 180,000 Black men served in the Union army and navy, many of them newly freed, paid less than white soldiers for much of the war and buried, when they were buried with honor, in their own sections of the cemeteries. The Confederacy, late and desperate, argued about arming enslaved men and never did so in any numbers that mattered. One side was willing, at last, to let the people the war was about fight in it. Dolphin historians consider the contrast sufficient.
+
+Lee surrendered at Appomattox in April 1865. Lincoln was shot in a theater five days later by an actor who thought he was saving a country. The Thirteenth Amendment, already in motion, abolished slavery that December. The Fourteenth, ratified in 1868, wrote birthright citizenship and equal protection into the Constitution, aimed squarely at the people the original text had counted as fractions. The Fifteenth, in 1870, forbade denying the vote on account of race. For a few years, in the Reconstruction governments of the South, Black men voted, held office, and wrote constitutions that funded public schools. Then the violence arrived in force. The Ku Klux Klan and its cousins murdered, whipped, and intimidated. Washington tired of the expense and of the subject. In 1877 the last federal troops left the South in a political bargain, and the amendments stayed on paper while the state governments set about nullifying them in practice. A later chapter follows what that meant. Dolphin historians note here only that the war had ended, and the sentence had not yet won.
 
 *“The founders wrote a sentence that was larger than they were,” Professor Click-Click-Whoosh observed. “It took a war, a great many people who had not been in the room, and several further generations to find out what it meant. The sentence, to its credit, did not change.”*
 
 **Dolphin verdict:**
 
 *A country founded by men who wrote that all men are created equal, and in many cases did not act as if they meant it, turned out to have written something that could be used against them. It is the strongest case in this book for the power of a well-chosen idea, and the strongest case against trusting any idea to enforce itself. The dolphins, who have no founding documents, only habits, find the story sobering and, on balance, rather moving.*
+
+## 1865 to Today: After the Bargain — America's Long Account
+
+### After the bargain
+
+The republic that abandoned Reconstruction did not become quiet. It became inventive about exclusion. State after state in the old Confederacy wrote new constitutions in the 1890s that never said “Black people may not vote” and achieved that result with poll taxes, literacy tests graded by white registrars, and grandfather clauses that waived the tests for men whose grandfathers had voted, which is to say white men. The Supreme Court, in Plessy v. Ferguson in 1896, approved racial segregation on the theory that separate could be equal. It was not equal. Dolphin historians have read the railroad-car budgets. The lie was in the numbers before it was in the photographs.
+
+Alongside the paperwork ran the rope. Between the 1880s and the middle of the twentieth century, several thousand Black Americans were lynched, often in public, sometimes announced in advance, sometimes with photographs sold as souvenirs. Ida B. Wells, a journalist who had been run out of Memphis for documenting it, spent decades saying what the souvenirs already showed: this was not the work of a few criminals. It was a system of terror with an audience. Dolphin historians, who do not use the word lightly, call it terrorism.
+
+The same decades built the other America, the one of steel and rail. The transcontinental railroad, finished in 1869 with Irish and Chinese labor and federal land grants, tied the coasts together and broke the independence of the Native nations of the Plains. The buffalo were shot down to a remnant, partly for hides and partly as a strategy. At Wounded Knee in 1890, soldiers killed several hundred Lakota, many of them women and children, in the last large massacre of the Indian wars. The Dawes Act of 1887 broke tribal land into individual allotments and sold off the “surplus.” It was described as civilization. It functioned as dispossession. Dolphin historians file it next to the Trail of Tears and do not accept the change of century as a change of subject.
+
+Industry produced fortunes that still have names: Carnegie in steel, Rockefeller in oil, Morgan in money. It also produced towns where the company owned the houses, the store, and the sheriff. At Homestead in 1892, Carnegie Steel locked out its union and brought in armed guards. At Pullman in 1894, a strike against a company town became a national railroad strike, and the federal government sent troops. Workers died. The men who owned the mills called it order. The men who worked in them called it what it was. Greed, in this chapter, does not require a metaphor.
+
+People kept arriving. Ellis Island, from 1892, processed millions from southern and eastern Europe. At the same time Congress barred Chinese laborers, in the Exclusion Act of 1882, the first federal law to shut a gate by race, and mobs in western towns had already made the same point with fire. A country that advertised itself as a refuge wrote, in statute, the list of who was not invited. Dolphin historians keep both documents. The advertisement and the statute are a pair.
+
+### Empire, briefly, and the progressive repair
+
+In 1898 the United States went to war with Spain over Cuba, won quickly, and came home with Puerto Rico, Guam, and the Philippines. The Filipino war that followed, against people who had expected liberation and received a new flag, killed hundreds of thousands, most of them civilians, by violence, hunger, and disease. It was an imperial war. Calling it a civilizing mission did not change the graves. Dolphin historians have heard that mission described on several coasts in this book. The accent changes. The fleet does not.
+
+At home a generation of reformers, alarmed by the trusts, the slums, and the corruption of city machines, tried to sand the roughest edges off industrial capitalism without abolishing it. Journalists exposed the meatpacking plants and the oil monopoly. States passed laws on child labor, hours, and railroad rates. The federal income tax arrived by amendment in 1913, and so did the direct election of senators. None of this ended the fortunes. It did establish that a democracy might tax them and inspect them. Dolphin historians regard inspection as a modest technology and a real one.
+
+Women, who had been told since Seneca Falls to wait, stopped waiting in an organized way. They marched, picketed the White House, went to jail, and in 1920 won the national vote. The victory was incomplete in the way American victories often are: Black women in the Jim Crow states inherited a right they were then violently prevented from using. Dolphin historians count the amendment and the polling-place threat as parts of the same event.
+
+### Crash, and the state that answered
+
+The 1920s speculated. Florida land, then stocks, bought with borrowed money, on the theory that a rising price is a reason for a rising price. In October 1929 the theory ended. Banks failed. Savings vanished. By 1933 a quarter of the workforce was unemployed, and the people living in shacks on the edge of cities named the shacks after the president who had not caused the crash and had not stopped it. A army of veterans, the Bonus Army, marched on Washington to ask for money they had been promised for their war service and was burned out of its camp by the army they had served in. Dolphin historians note the symmetry without enjoyment.
+
+Franklin Roosevelt took office in 1933 and treated the emergency as a license to experiment. Banks were closed and reopened under new rules. Young men were hired to plant trees and cut trails. The Social Security Act of 1935 promised old people a pension and the unemployed a temporary wage, funded by a tax on payrolls, and excluded, at the start, large numbers of agricultural and domestic workers, which is to say a large share of Black workers in the South. The exclusion was not an oversight. It was the price of southern votes in Congress. A reform can be historic and discriminatory in the same section of the statute. This one was.
+
+The Dust Bowl, made of drought and of plows that had torn up prairie that should have stayed grass, blew the topsoil of the plains as far as the ships offshore. Dolphin historians, who do not farm, nevertheless recognize a species that had mistaken a wet decade for a permanent fact. Hundreds of thousands of people drove west. The country that received them did not always want them.
+
+Roosevelt tried, in 1937, to add justices to a Supreme Court that had been striking his laws down. He lost the fight and won several of the cases anyway, as the Court changed its mind and its membership. Dolphin historians record both outcomes. A president who loses a grab for the court, and accepts the loss, is a data point in favor of the machine built in 1787. They do not have many such data points, and they keep the ones they have.
+
+### A war at home, including against its own
+
+The attack on Pearl Harbor in December 1941, told more fully among the Pacific chapters, ended the argument about whether the country would fight. It also began an argument the country conducted against some of its own citizens. In 1942 the government ordered the removal of more than 100,000 people of Japanese ancestry from the West Coast, most of them citizens, and confined them in camps in the interior. No comparable order swept up German or Italian Americans in those numbers. The Supreme Court, in Korematsu, declined to stop it. Decades later the country apologized and paid reparations that did not match the loss. Dolphin historians classify the episode under racism and under fear, and note that fear was the reason offered at the time by people who were, in many cases, also pleased to take the farms.
+
+Sixteen million Americans served. Women entered factories in numbers the previous economy had insisted were impossible, and were told, when the men came home, that the impossibility had been restored. Black soldiers fought in a segregated army for a country that segregated the buses they rode to the camp. A labor leader, A. Philip Randolph, forced Roosevelt to bar discrimination in defense plants by threatening a march on the capital. The bargain was called a victory against fascism abroad and against hypocrisy at home. The hypocrisy survived the victory. Dolphin historians have seen this sequence often enough to recognize it on sight.
+
+The men who came back met a law, the GI Bill, that paid for college, homes, and businesses, and built a middle class with remarkable speed. They also met, if they were Black and in the wrong town, a banker and a university that had read the same law and found a way not to apply it. The suburbs that spread along the new highways were, in large part, a federal project with a whites-only gate. Dolphin historians add the gate to the file. Prosperity in this country has rarely been as general as the photographs.
+
+### The long war in Asia, and the president who resigned
+
+Vietnam was a French colonial war that the United States inherited, funded, and then fought. The official story was a line of dominoes. The practice was a decade of bombing, conscription, and a countryside that did not become less Vietnamese under the bombs. The Gulf of Tonkin resolution in 1964 handed the president a war without quite declaring one. The Tet offensive of 1968 convinced a large television audience that the official optimism was false. At Kent State in 1970, National Guard troops shot students during a protest, killing four. The draft ended. The war did not, until 1973 for American troops and 1975 for the government they had been holding up. Dolphin historians do not pretend to a precise count of the Vietnamese dead. The honest ranges run into the millions, soldiers and civilians, and the precise number would not change the conclusion. A great power fought a long war, did not win it, and was changed by it anyway.
+
+While that war was still on, a burglary at an office complex called Watergate grew, by way of lies told in sequence, into a constitutional crisis. Richard Nixon resigned in August 1974, the first president to do so, rather than be removed. His successor pardoned him. Dolphin historians, who have watched a great many leaders treat the law as a suggestion, pause over a system that forced one of them out with hearings, tapes, and the threat of a vote. They also pause over the pardon. Accountability, in this species, often arrives and then negotiates.
+
+### The late century
+
+The 1970s ended in inflation, gasoline lines, and a hostage crisis in Iran that a failed rescue made worse. Ronald Reagan won in 1980 on a promise that government was the problem, cut taxes, fired striking air-traffic controllers, and presided over a boom, a rise in inequality, and a military buildup. The Soviet Union, already rotting from inside, did not survive the decade. Americans were invited to believe they had won the century. Dolphin historians, who had watched the rotting, are willing to grant the outcome and unwilling to grant a simple cause. Empires usually assist in their own endings. This one did.
+
+The 1990s were rich, armed, and punitive. A crime bill in 1994 lengthened sentences and helped fill prisons, with consequences that fell heaviest on Black and poor defendants and were defended at the time, by both parties, as seriousness. Welfare was cut. A president was impeached over a lie about sex and acquitted. The stock market rose. Dolphin historians note a country that had become very good at counting money and very reluctant to count prisoners.
+
+On a clear morning in September 2001, hijackers flew airliners into the World Trade Center and the Pentagon, and passengers forced a fourth plane into a field in Pennsylvania. Nearly three thousand people died. The country went to war in Afghanistan, where the attackers had been sheltered, and then in Iraq, which had not attacked it and did not have the weapons the war was sold on. The second war broke a state, killed hundreds of thousands, and produced a successor chaos from which a new and uglier faction later emerged. Dolphin historians separate the grief, which was real, from the policy, which was a choice. Grief is not a strategy. It was used as one.
+
+A financial collapse in 2008, built out of mortgages that could not be paid and bets laid on top of those mortgages, wiped out savings and jobs and was answered with public money for the institutions that had made the bets. The institutions survived. A great many households did not, on anything like the same schedule. Dolphin historians recognize the pattern from earlier panics and from the mills. When the machine fails, the people nearest the machine are rescued first. Greed writes that order of operations. It does not usually sign it.
+
+The years since have been an argument, still open, about who the country is for. Elections have been close. One of them was followed by a crowd in the Capitol, already recorded. Courts have been remade. The sentence from 1776 is still larger than the people reciting it, and still in active use as both a boast and a demand. Dolphin historians decline to close the file. They have learned what a closed file looks like, and this is not one.
+
+*“We do not know of another document this species has kept arguing with for two and a half centuries,” dolphin historians noted, “without once agreeing to retire it. Most arguments this long end in divorce. This one keeps renewing the lease.”*
+
+**Dolphin verdict:**
+
+*Reconstruction promised the sentence would finally mean what it said, and the promise was withdrawn within a generation, piece by legal piece, enforced where withdrawal failed by a rope. The country that did this also built railroads, admitted millions, split the atom, and reached the Moon, often in the same decades it was failing its own founding sentence by a different name each time: removal, exclusion, internment, redlining, a crime bill. Dolphins do not find the contradiction surprising. They have watched capability and wisdom travel on separate schedules in every other chapter of this book. This is simply the chapter where the same country supplies both halves of the comparison, over and over, for a hundred and sixty years and counting.*
 
 ## 1620 to 1993: God's Own Experiment — Religion in America
 
@@ -1746,6 +1904,18 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The 1897 expedition and the restitution argument.* Hicks, Dan. The Brutish Museums: The Benin Bronzes, Colonial Violence and Cultural Restitution. London: Pluto Press, 2020.
 
+**1482 to Today: The Richness Moved — Africa's Resources and Who Took Them**
+
+*The Kingdom of Kongo and the Portuguese letters.* Thornton, John K. The Kongolese Saint Anthony: Dona Beatriz Kimpa Vita and the Antonian Movement, 1684-1706. Cambridge: Cambridge University Press, 1998.
+
+*Asante, the Golden Stool, and the 1900 war.* McCaskie, T. C. State and Society in Pre-Colonial Asante. Cambridge: Cambridge University Press, 1995.
+
+*The Congo Free State's rubber regime.* Hochschild, Adam. King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa. Boston: Houghton Mifflin, 1998.
+
+*The scramble for Africa generally.* Pakenham, Thomas. The Scramble for Africa. New York: Random House, 1991.
+
+*Cobalt mining in the present-day Congo.* Kara, Siddharth. Cobalt Red: How the Blood of the Congo Powers Our Lives. New York: St. Martin's Press, 2023.
+
 **2600 BCE to 1491 CE: Before Columbus — Cities, Corn, and Knotted String**
 
 *The Americas before 1492.* Mann, Charles C. 1491: New Revelations of the Americas before Columbus. New York: Knopf, 2005.
@@ -1811,6 +1981,20 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *The Haitian Revolution.* Dubois, Laurent. Avengers of the New World: The Story of the Haitian Revolution. Cambridge, MA: Harvard University Press, 2004.
 
 *American whaling and its decline.* Dolin, Eric Jay. Leviathan: The History of Whaling in America. New York: Norton, 2007.
+
+*Jamestown, tobacco, and 1619.* Horn, James. A Land as God Made It: Jamestown and the Birth of America. New York: Basic Books, 2005.
+
+*The 1787 Constitutional Convention and the slavery bargain.* Wilentz, Sean. No Property in Man: Slavery and Antislavery at the Nation's Founding. Cambridge, MA: Harvard University Press, 2018.
+
+**1865 to Today: After the Bargain — America's Long Account**
+
+*Lynching in America.* Equal Justice Initiative. Lynching in America: Confronting the Legacy of Racial Terror. 3rd ed. Montgomery, AL: EJI, 2017.
+
+*Plessy v. Ferguson and Jim Crow law.* Woodward, C. Vann. The Strange Career of Jim Crow. 3rd ed. New York: Oxford University Press, 1974.
+
+*Japanese American incarceration and Korematsu.* Robinson, Greg. By Order of the President: FDR and the Internment of Japanese Americans. Cambridge, MA: Harvard University Press, 2001.
+
+*The 2008 financial crisis.* Blinder, Alan S. After the Music Stopped: The Financial Crisis, the Response, and the Work Ahead. New York: Penguin Press, 2013.
 
 **1620 to 1993: God's Own Experiment — Religion in America**
 
@@ -2226,10 +2410,11 @@ Dolphin scholarship is obliged to disclose that it has not read any of the follo
 - *Math, Actually, Volume 3: From Differential Equations to Abstract Algebra*
 - *Math, Actually, Volume 4: From Category Theory to the Frontier*
 
-**Quantum, Actually**
+**Quanta, Actually**
 
-- *Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire*
-- *Quantum, Actually, Volume 2: A QED Course*
+- *Quanta, Actually, Volume 1: The Quantum World*
+- *Quanta, Actually, Volume 2: The Quantum Conversation*
+- *Quanta, Actually, Volume 3: Complete Quantum Electrodynamics Course*
 
 **Science Sparks**
 

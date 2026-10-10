@@ -1,0 +1,337 @@
+TITLE: Path Integrals
+TAGLINE: The amplitude as a sum over histories weighted by exp(iS): time slicing, the classical limit, Euclidean time and the ground state, Gaussian integrals that return the scalar, Dirac, and photon propagators, and interactions as an average of exp(iS_int)
+NUM: 80
+NEXT: Lesson 81 adds sources J coupled to the fields, so that Z becomes a functional Z[J] and every correlator becomes a functional derivative of it.
+
+# How to use this lesson
+
+This course built QED from operators: canonical quantization, the Dyson series, and Wick's theorem. The path integral is an equivalent starting point. An amplitude is written as an integral over every history of the system, each weighted by the phase exp(iS). This lesson derives that statement in quantum mechanics, where every step can be checked, and then carries it to fields. Gaussian integrals do almost all the work. They return the free-particle kernel, the oscillator's zero-point energy, and the scalar, Dirac, and photon propagators the course already has. Interactions then reappear as averages of exp(iS_int) in the free theory, which Lesson 84 turns into Feynman rules. The lesson does not replace Parts V to VIII. It rederives their results from a second direction, and Lessons 81 to 86 use that direction. Expect seven to nine hours.
+
+## Learning objectives
+
+- Derive ⟨q_f|e^{−iHT}|q_i⟩ = ∫Dq e^{iS[q]} by time slicing, including the normalization of each slice.
+
+- Explain the classical limit as stationary phase, and estimate the size of the quantum fluctuations about the classical path.
+
+- Rotate to Euclidean time, and show that a long Euclidean path integral projects onto the ground state; obtain E₀ = ω/2 for the oscillator from a fluctuation determinant.
+
+- Evaluate Gaussian integrals over real and Grassmann variables, and identify the two-point average with i times the inverse of the kinetic operator.
+
+- Recover the Feynman propagators i/(k² − m² + iε), i/(p̸ − m + iε), and −ig_{μν}/(k² + iε), and explain why the photon integral needs gauge fixing.
+
+- Write an interacting correlator as a ratio of free averages, and show in a zero-dimensional model how vacuum bubbles cancel.
+
+## Notation and conventions
+
+@widths 2160 7632
+| Symbol | Meaning |
+| S[q], S[φ] | The action, ∫dt L or ∫d⁴x ℒ (Lesson 26) |
+| ε | Time step T/N in Section 1; also the iε of the propagators, as context makes clear |
+| Dq, Dφ | The limit of the product of integrals over the variable at every time slice or spacetime point |
+| S_E | Euclidean action, defined by iS = −S_E after t = −iτ |
+| K | Kinetic operator, S₀ = ½∫φKφ |
+| θ, θ̄ | Grassmann (anticommuting) variables |
+| ⟨…⟩₀ | Average in the free theory, normalized so ⟨1⟩₀ = 1 |
+
+Natural units, ℏ = 1, except in Section 2, where ℏ is restored to show the classical limit. In display equations, square brackets enclose function arguments and visible groupings.
+
+# 1 Time slicing
+
+## 1.1 One short step
+
+Take a particle with H = p²/2m + V(q). Split the time T into N steps of length ε = T/N. For small ε, e^{−iεH} = e^{−iεp²/2m} e^{−iεV} up to terms of order ε², which vanish in total as N → ∞. The potential factor acts on a position eigenstate as a number. The kinetic factor is evaluated by inserting momentum states, ⟨q′|p⟩ = e^{ipq′}, ∫dp/2π |p⟩⟨p| = 1:
+
+$$ ⟨q′| e^(− i ε p²/2m) |q⟩ = ∫ (dp/2π) e^(i p [q′ − q] − i ε p²/2m) = √[m/(2πiε)] e^(i m (q′ − q)²/2ε)
+
+The p integral is a Gaussian, made convergent by giving ε a small negative imaginary part. So one step is
+
+$$ ⟨q′| e^(− i ε H) |q⟩ ≈ √[m/(2πiε)] exp[ i ε [ (m/2) [(q′ − q)/ε]² − V[q] ] ]
+
+The exponent is iε times the Lagrangian evaluated on the straight segment from q to q′.
+
+## 1.2 Assembling the steps
+
+Write e^{−iHT} as N factors e^{−iεH} and insert ∫dq_k |q_k⟩⟨q_k| = 1 between them, for k = 1, …, N − 1. Each matrix element is the short-step result, and the exponents add:
+
+$$ ⟨q_f | e^(− i H T) |q_i ⟩ = lim [m/(2πiε)]^(N/2) ∫ dq_1 … dq_(N−1) exp[ i Σ_k ε L[q_k, (q_(k+1) − q_k)/ε] ]
+
+with q_0 = q_i and q_N = q_f. The sum in the exponent becomes the action of the broken-line path through the points q_k. The integrals range over every such path. The shorthand is
+
+$$ ⟨q_f | e^(− i H T) |q_i ⟩ = ∫ Dq e^(i S[q])
+
+where Dq includes the factors (m/2πiε)^{1/2}. Two remarks keep this honest. First, Dq is defined by the limit, not as a measure in the mathematician's sense. Second, the paths that dominate are continuous but nowhere differentiable: a typical step has q_{k+1} − q_k of order √(ε/m), so (Δq/ε)² grows like 1/ε. The Gaussian factors are what make the limit finite.
+
+### Worked example 1
+
+Show that the free-particle kernel K(q′, q; t) = √(m/2πit) e^{im(q′ − q)²/2t} composes correctly: integrating over an intermediate point gives the kernel for the total time.
+
+The product K(q₂, q₁; t₂)K(q₁, q₀; t₁) has exponent (im/2)[(q₂ − q₁)²/t₂ + (q₁ − q₀)²/t₁]. As a function of q₁ this is a Gaussian with coefficient (im/2)a, a = 1/t₁ + 1/t₂ = (t₁ + t₂)/t₁t₂. Completing the square, the stationary point is q₁* = (q₂t₁ + q₀t₂)/(t₁ + t₂). The value of the exponent there is (im/2)(q₂ − q₀)²/(t₁ + t₂). The Gaussian integral over q₁ gives √(2πi/ma) = √(2πit₁t₂/m(t₁ + t₂)). Multiplying by the two prefactors, m/(2πi√(t₁t₂)), leaves √(m/2πi(t₁ + t₂)). So
+
+$$ ∫ dq_1 K[q_2, q_1; t_2] K[q_1, q_0; t_1] = K[q_2, q_0; t_1 + t_2]
+
+Applying this N − 1 times to the time-sliced integral gives the exact free kernel for any N. The exponent of the answer, m(q_f − q_i)²/2T, is the action of the classical straight-line path. For a quadratic Lagrangian the path integral is always e^{iS_cl} times a prefactor that does not depend on the endpoints.
+
+# 2 The classical limit
+
+## 2.1 Stationary phase
+
+Restore ℏ. The weight is e^{iS/ℏ}. When S changes by much more than ℏ between neighboring paths, their phases oscillate rapidly and cancel. The contributions that survive come from paths near a point where S is stationary, δS = 0. Those are the solutions of the Euler–Lagrange equation. Classical mechanics is therefore the stationary-phase approximation to quantum mechanics. Paths that differ from the classical one by enough to change S by about ℏ still contribute coherently. That band of paths is where quantum behavior lives.
+
+Expanding about the classical path, q = q_cl + η with η = 0 at both ends, the action is S_cl plus a term quadratic in η, because the linear term vanishes at a stationary point. For a Lagrangian at most quadratic in q, nothing else appears, and the stationary-phase approximation is exact.
+
+## 2.2 How wide is the band?
+
+For a free particle, a path that deviates by η over a time T changes the action by about mη²/T. Setting this equal to ℏ gives the width η ≈ √(ℏT/m). This is the same √(ε/m) scaling seen in Section 1.2, now for the whole interval.
+
+### Worked example 2
+
+Estimate the width of the band of contributing paths for a dust grain of mass 1 μg over 1 s, and for an electron over 1 fs.
+
+For the grain, √(ℏT/m) = √(1.055×10⁻³⁴ × 1 / 10⁻⁹) m = 3.2×10⁻¹³ m, smaller than a nucleus is wide. Only the classical trajectory matters. For the electron, √(1.055×10⁻³⁴ × 10⁻¹⁵ / 9.11×10⁻³¹) m = 3.4×10⁻¹⁰ m, the size of an atom. That is the time it takes an atomic electron to go around once, so atomic physics cannot be done with classical orbits. The criterion compares S with ℏ, not the size of the object.
+
+# 3 Euclidean time and the ground state
+
+## 3.1 The rotation
+
+Set t = −iτ. Then dt = −i dτ and dq/dt = i dq/dτ, so
+
+$$ i S = i ∫ dt [ (m/2) q̇² − V ] → − ∫ dτ [ (m/2) (dq/dτ)² + V ] ≡ − S_E
+
+For a potential bounded below, S_E is bounded below. The weight e^{−S_E} is real and positive and damps wild paths, so Euclidean integrals converge where Minkowski ones only oscillate. Lesson 67 used this rotation for loop integrals. Here it is applied to whole histories.
+
+## 3.2 Projection onto the ground state
+
+Insert energy eigenstates into the Euclidean amplitude:
+
+$$ ⟨q_f | e^(− H τ) |q_i ⟩ = Σ_n ψ_n[q_f] ψ_n^*[q_i] e^(− E_n τ)
+
+As τ → ∞, the lowest state dominates. The ground-state energy is the decay rate, and the ground-state wave function is the shape of the amplitude. The same projection happens in real time if T is given a small negative imaginary part, T(1 − iε). That is the path-integral origin of the iε in every Feynman propagator: it selects the vacuum at both ends.
+
+### Worked example 3
+
+Find E₀ for the harmonic oscillator, V = mω²q²/2, from the Euclidean path integral with q_i = q_f = 0.
+
+The classical path with these endpoints is q_cl = 0, so S_E = S_E[η] is exactly quadratic. Expand the fluctuation in the modes that vanish at both ends, η(τ′) = Σ_n a_n sin(nπτ′/τ), n = 1, 2, …. Then S_E = (mτ/4)Σ_n(n²π²/τ² + ω²)a_n². Each a_n is a Gaussian integral giving a factor proportional to (n²π²/τ² + ω²)^{−1/2}. Divide by the same product for the free particle (ω = 0), whose answer √(m/2πτ) is known from Worked example 1 rotated to Euclidean time. The infinite normalizations cancel in the ratio:
+
+$$ K_E[0, 0; τ] = √[m/(2πτ)] Π_n [1 + (ω²τ²)/(n²π²)]^(−1/2) = √[mω/(2π sinh[ωτ])]
+
+using the product formula Π(1 + x²/n²π²) = sinh x / x. For large τ, sinh ωτ → e^{ωτ}/2 and
+
+$$ K_E[0, 0; τ] → √[mω/π] e^(− ωτ/2)
+
+Comparing with Section 3.2, the decay rate is E₀ = ω/2, and |ψ₀(0)|² = √(mω/π), the value at q = 0 of the Gaussian ground state of Lesson 12. The zero-point energy appears as an infinite product of fluctuation modes. In a field, each momentum mode is such an oscillator, which is why the vacuum energy of Lesson 34 is a sum of ω_k/2.
+
+# 4 Gaussian integrals and the propagator
+
+## 4.1 Finite dimensions
+
+For a real symmetric positive matrix A acting on x ∈ ℝⁿ,
+
+$$ ∫ dⁿx e^(− ½ xᵀ A x) = (2π)^(n/2) det[A]^(−1/2)
+
+and the normalized averages are
+
+$$ ⟨x_i x_j ⟩ = [A^(−1)]_(ij) ,  ⟨x_i x_j x_k x_l ⟩ = [A^(−1)]_(ij) [A^(−1)]_(kl) + [A^(−1)]_(ik) [A^(−1)]_(jl) + [A^(−1)]_(il) [A^(−1)]_(jk)
+
+Every higher average is the sum over all ways to pair the indices. This is Wick's theorem, now a property of Gaussian integrals rather than of operator orderings. The oscillatory version, weight e^{(i/2)xᵀKx}, is the case A = −iK, with the convergence supplied by an iε. Its two-point average is
+
+$$ ⟨x_i x_j ⟩ = i [K^(−1)]_(ij)
+
+## 4.2 Why time ordering appears
+
+In the sliced integral, a factor q(t₁)q(t₂) inside ∫Dq e^{iS} sits at definite slices. Reading the slices from right to left reconstructs the operators in the order of their times, whichever of t₁ and t₂ is larger:
+
+$$ ∫ Dq q[t_1] q[t_2] e^(i S) = ⟨q_f | e^(−iH[T − t_>]) q̂ e^(−iH[t_> − t_<]) q̂ e^(−iH t_<) |q_i ⟩
+
+So the path integral computes time-ordered products automatically. With T(1 − iε) projecting onto the vacuum at both ends, and dividing by the integral without insertions to remove the overlaps ψ₀(q_f)ψ₀*(q_i),
+
+$$ ⟨Ω| T q̂[t_1] q̂[t_2] |Ω⟩ = (∫ Dq q[t_1] q[t_2] e^(iS))/(∫ Dq e^(iS))
+
+The same formula, with q(t) replaced by φ(x), defines every correlator in field theory.
+
+## 4.3 The free scalar field
+
+For ℒ = ½∂_μφ∂^μφ − ½m²φ², integrating by parts gives S₀ = ½∫d⁴x φ(−∂² − m²)φ. So K = −(∂² + m²). Discretize spacetime, and the field integral is the finite-dimensional Gaussian with x_i → φ(x). Section 4.1 then gives ⟨φ(x)φ(y)⟩ = i K⁻¹(x, y). In momentum space, ∂ → −ik, so K → k² − m², and
+
+$$ D_F[k] = i / (k² − m² + iε)
+
+The iε is the T(1 − iε) of Section 3.2: it adds iεφ²/2 to ℒ, so the weight acquires e^{−ε∫φ²/2} and the Gaussian converges. This is Lesson 46's Feynman propagator, obtained without commutators, mode expansions, or the step functions of time ordering.
+
+### Worked example 4
+
+Check, using the Fourier representation, that D_F(x − y) = ∫d⁴k/(2π)⁴ e^{−ik(x−y)} i/(k² − m² + iε) is i times the inverse of K.
+
+Act with K = −(∂_x² + m²). Each ∂_x brings down −ik, so ∂_x² → −k² and K → k² − m². The operator cancels the denominator:
+
+$$ K D_F[x − y] = ∫ (d⁴k)/((2π)⁴) e^(−ik·[x − y]) i = i δ⁴[x − y]
+
+So D_F = iK⁻¹, which is the Gaussian two-point average. The four-point function of the free field is then the three pairings of Section 4.1, the result Lesson 46 obtained by Wick contraction of operators.
+
+# 5 Fermions
+
+## 5.1 Grassmann integration
+
+The Dirac field anticommutes (Lesson 37), so its path integral is over anticommuting numbers. Grassmann variables satisfy θ_iθ_j = −θ_jθ_i, so θ² = 0, and every function is a polynomial. Integration is defined by ∫dθ 1 = 0 and ∫dθ θ = 1, which make ∫dθ invariant under shifts θ → θ + η. With independent θ and θ̄, and the order ∫dθ̄ dθ with the dθ integral done first,
+
+$$ ∫ dθ̄ dθ e^(− θ̄ a θ) = ∫ dθ̄ dθ [1 − θ̄ a θ] = a
+
+because the exponential series stops at the linear term. For n pairs the result is
+
+$$ ∫ Π_i dθ̄_i dθ_i e^(− θ̄ A θ) = det[A]
+
+The determinant is in the numerator, where a bosonic complex Gaussian puts it in the denominator. Writing det A = exp[Tr log A], a fermion integral contributes +Tr log where a boson contributes −Tr log. That relative sign is the minus sign of every closed fermion loop (Lesson 55).
+
+### Worked example 5
+
+Find ⟨θθ̄⟩ for the one-pair weight e^{−θ̄aθ}.
+
+The numerator is ∫dθ̄ dθ θθ̄ e^{−θ̄aθ}. Because θ² = 0, the exponential multiplies θθ̄ by 1 only. Doing the dθ integral first, ∫dθ θθ̄ = θ̄, and then ∫dθ̄ θ̄ = 1. The denominator is a, from Section 5.1. So ⟨θθ̄⟩ = 1/a = A⁻¹, the same inverse-of-the-kinetic-operator rule as for bosons. With the oscillatory weight e^{iθ̄Kθ}, a = −iK and ⟨θθ̄⟩ = iK⁻¹.
+
+## 5.2 The Dirac propagator
+
+The free Dirac action is S₀ = ∫d⁴x ψ̄(i∂̸ − m)ψ, so K = i∂̸ − m, which becomes p̸ − m in momentum space. Section 5.1 gives
+
+$$ ⟨ψ[x] ψ̄[y]⟩ = i K^(−1) ,  S_F[p] = i / (p̸ − m + iε)
+
+which is the course's electron propagator. The Grassmann integral also explains Fermi statistics. Exchanging two external fermions in a correlator is exchanging two Grassmann variables, which costs a minus sign. That is the relative sign of the two Møller diagrams.
+
+# 6 The photon
+
+## 6.1 A Gaussian with a flat direction
+
+For ℒ = −¼F_{μν}F^{μν}, integrating by parts gives S = ½∫A_μ(g^{μν}∂² − ∂^μ∂^ν)A_ν. In momentum space,
+
+$$ K^(μν) = − k² g^(μν) + k^μ k^ν
+
+This operator annihilates every pure gauge, K^{μν}k_ν = −k²k^μ + k²k^μ = 0. A Gaussian with a zero eigenvalue has det K = 0 and no inverse. The integral over A runs along each gauge orbit A → A + ∂α, where the action does not change, and the volume of each orbit is infinite. The photon path integral, taken naively, counts every physical configuration infinitely many times.
+
+## 6.2 Gauge fixing restores the inverse
+
+Lesson 71 adds −(1/2ξ)(∂_μA^μ)² to ℒ. In momentum space this adds −(1/ξ)k^μk^ν to K:
+
+$$ K^(μν) = − k² g^(μν) + [1 − 1/ξ] k^μ k^ν
+
+Now the inverse exists. Multiplying out confirms that
+
+$$ D_(μν)[k] = i K^(−1) = (− i)/(k² + iε) [ g_(μν) − [1 − ξ] (k_μ k_ν)/k² ]
+
+and ξ = 1 gives the Feynman-gauge propagator −ig_{μν}/(k² + iε). The careful version, due to Faddeev and Popov, inserts 1 = ∫Dα δ(G[A^α]) det(δG/δα) into the integral. This factors out the infinite orbit volume and leaves a determinant. For an abelian theory with G = ∂·A, the determinant does not depend on A, so in QED it is a constant that cancels in every ratio. In non-abelian theories it does depend on A, and it is represented by ghost fields.
+
+# 7 Interactions
+
+## 7.1 Correlators as free averages
+
+Split S = S₀ + S_int. Every interacting correlator is a ratio,
+
+$$ ⟨Ω| T O |Ω⟩ = (⟨O e^(i S_int)⟩_0)/(⟨e^(i S_int)⟩_0)
+
+where ⟨…⟩₀ is the free Gaussian average. Expanding the exponential in powers of the coupling and applying Wick's theorem to each term gives the perturbation series. For the electron in QED, q = −e and ℒ_int = eψ̄γ^μψA_μ. One power of iS_int brings down i∫d⁴z eψ̄(z)γ^μψ(z)A_μ(z). That is the vertex factor ieγ^μ at a point z integrated over spacetime, which after Fourier transformation imposes momentum conservation at the vertex. Lesson 84 carries this through.
+
+## 7.2 Vacuum bubbles cancel
+
+The denominator ⟨e^{iS_int}⟩₀ is the sum of vacuum diagrams, those with no external points. In the numerator, every diagram factors into a piece connected to the external points times vacuum pieces, and the vacuum pieces sum to the same series as the denominator. The ratio keeps only diagrams in which every part is connected to an external point. This is the path-integral version of the bubble cancellation of Lesson 50.
+
+### Worked example 6
+
+Test this in zero dimensions, where the "field" is one real variable x with weight e^{−x²/2 − λx⁴/24}. Find ⟨x²⟩ to first order in λ.
+
+Free averages are ⟨x^{2n}⟩₀ = (2n − 1)!!, the number of pairings. To first order,
+
+$$ ⟨x²⟩ = (⟨x²⟩_0 − (λ/24) ⟨x⁶⟩_0)/(1 − (λ/24) ⟨x⁴⟩_0) = (1 − 15λ/24)/(1 − 3λ/24) ≈ 1 − λ/2
+
+Of the 15 pairings in ⟨x²·x⁴⟩₀, three pair the two external x's with each other and leave a vacuum bubble, a figure eight, at the vertex. The denominator removes exactly those three. The remaining 12 connect the external points to the vertex, and 12/24 = 1/2. At λ = 0.1, the first-order result is 0.950. The second-order coefficient is 2/3, giving 0.957. Direct numerical integration gives 0.9556. The coefficients of this series grow factorially at high order, because ⟨x^{4k}⟩₀ grows like (4k)!!. The series is asymptotic rather than convergent, and the same is believed true of QED's expansion in α.
+
+# 8 What this lesson has not done
+
+This lesson did not define the path-integral measure rigorously. It treated Dq as a limit of slicings and handled infinite constants by taking ratios. It did not derive the operator ordering ambiguities that arise in time slicing for Hamiltonians with products of p and q, and it did not treat curved configuration spaces. It quoted the infinite-product formula for sinh x / x and the exact oscillator kernel off the diagonal. It gave the Faddeev–Popov procedure in outline and asserted, without proof, that its determinant is field-independent in QED. It did not show that the fermion measure can fail to be invariant under chiral rotations. That failure is the chiral anomaly, which the path integral exposes most cleanly.
+
+# 9 Connections to QED
+
+@widths 3264 6528
+| Result of this lesson | Where it is used next |
+| ∫Dq e^{iS} from time slicing | Euclidean, thermal version, Lesson 85 |
+| Ratio of integrals = time-ordered correlator | Sources and Z[J], Lesson 81 |
+| Gaussian average = i K⁻¹ | Propagators, Lessons 81 and 84 |
+| Grassmann det in the numerator | Fermion loops, effective action, Lessons 82 and 86 |
+| Photon zero mode and gauge fixing | Lesson 71 revisited; Ward identities, Lesson 83 |
+| ⟨O e^{iS_int}⟩₀ / ⟨e^{iS_int}⟩₀ | Feynman rules from the path integral, Lesson 84 |
+| Long Euclidean time projects onto ground state | Finite temperature, Lesson 85 |
+
+# 10 Summary
+
+1. Slicing e^{−iHT} into short steps and inserting position states gives ⟨q_f|e^{−iHT}|q_i⟩ = ∫Dq e^{iS[q]}, with a Gaussian factor √(m/2πiε) per step.
+
+2. Classical mechanics is the stationary-phase limit. Paths within a band of width √(ℏT/m) of the classical one contribute coherently.
+
+3. With t = −iτ, iS = −S_E. A long Euclidean time projects onto the ground state, and the decay rate is E₀. For the oscillator, the fluctuation determinant gives E₀ = ω/2.
+
+4. Gaussian integrals give Wick's theorem. The two-point average is i times the inverse of the kinetic operator, and insertions come out time-ordered.
+
+5. The scalar, Dirac, and gauge-fixed photon propagators are iK⁻¹ for their kinetic operators. The iε is the vacuum projection.
+
+6. Grassmann integrals give det A in the numerator, which is the origin of the fermion-loop minus sign.
+
+7. The photon kinetic operator has a zero mode along gauge orbits. Gauge fixing removes it, and in QED the Faddeev–Popov determinant is a constant.
+
+8. Interacting correlators are ratios of free averages of e^{iS_int}, and vacuum bubbles cancel in the ratio.
+
+# Exercises
+
+@widths 720 9072
+| No | Problem |
+| 1 | **Core.** Evaluate ∫dp/2π e^{ipΔ − iεp²/2m} and confirm the short-step prefactor √(m/2πiε). |
+| 2 | **Extension.** Show that e^{−iε(A+B)} = e^{−iεA}e^{−iεB} + O(ε²), and explain why the error vanishes as N → ∞. |
+| 3 | **Core.** For a free particle, find the typical step size |q_{k+1} − q_k| in the sliced integral, and show that the paths are not differentiable. |
+| 4 | **Core.** Find the classical action for a free particle from q_i to q_f in time T, and compare with the exponent of the kernel. |
+| 5 | **Core.** A baseball of 0.15 kg is thrown for 0.5 s. Estimate the width of its band of contributing paths. |
+| 6 | **Extension.** Carry out the rotation t = −iτ for L = mq̇²/2 − V(q) and confirm iS = −S_E. |
+| 7 | **Core.** A particle in a box of width L has E_n = n²π²/2mL². Which term dominates ⟨q|e^{−Hτ}|q⟩ for τ ≫ mL², and what is the decay rate? |
+| 8 | **Core.** Verify that S_E for the oscillator modes is (mτ/4)Σ(n²π²/τ² + ω²)a_n², using ∫₀^τ sin²(nπt/τ)dt = τ/2. |
+| 9 | **Core.** Using Section 4.1, compute ⟨x₁⁴⟩ and ⟨x₁²x₂²⟩ for a diagonal A. |
+| 10 | **Core.** Show that the iε in D_F follows from adding iεφ²/2 to ℒ. |
+| 11 | **Extension.** For two Grassmann pairs, expand e^{−θ̄Aθ} and verify that the integral is det A = A₁₁A₂₂ − A₁₂A₂₁. |
+| 12 | **Extension.** Explain why a closed fermion loop carries a factor −1 relative to a boson loop, using det A = exp[Tr log A]. |
+| 13 | **Extension.** Show that K^{μν} = −k²g^{μν} + k^μk^ν annihilates k_ν, and explain the consequence for the photon integral. |
+| 14 | **Extension.** Verify that the gauge-fixed K and the stated D_{μν} satisfy K·D = iδ. |
+| 15 | **Extension.** In the zero-dimensional model, compute Z = ⟨e^{−λx⁴/24}⟩₀ to order λ², and identify the figure-eight's symmetry factor 1/8. |
+| 16 | **Challenge.** Show that the off-diagonal Euclidean oscillator kernel has exponent −mω[(q_f² + q_i²)cosh ωτ − 2q_fq_i]/(2 sinh ωτ), and that for τ → ∞ it factors into ψ₀(q_f)ψ₀(q_i)e^{−ωτ/2}. |
+
+# Solutions
+
+*Attempt each exercise before reading its solution. If you are stuck, read only the first sentence of the solution, then try again.*
+
+**1.** Complete the square, −(iε/2m)(p − mΔ/ε)² + imΔ²/2ε. The Gaussian gives √(2πm/iε), and dividing by 2π leaves √(m/2πiε) e^{imΔ²/2ε}.
+
+**2.** By the Baker–Campbell–Hausdorff formula the difference is −(ε²/2)[A, B] + O(ε³). There are N = T/ε factors, so the accumulated error is of order Nε² = Tε → 0.
+
+**3.** The Gaussian e^{imΔ²/2ε} has width |Δ| ~ √(ε/m). Then Δ/ε ~ 1/√(mε) diverges as ε → 0, so the velocity of a typical path is undefined.
+
+**4.** The classical path is a straight line with velocity (q_f − q_i)/T, so S_cl = m(q_f − q_i)²/2T, the exponent of the kernel.
+
+**5.** √(ℏT/m) = √(1.055×10⁻³⁴ × 0.5 / 0.15) m ≈ 1.9×10⁻¹⁷ m. Only the classical trajectory matters.
+
+**6.** dt = −idτ and q̇² = −(dq/dτ)², so i∫dt[mq̇²/2 − V] = i(−i)∫dτ[−m(dq/dτ)²/2 − V] = −∫dτ[m(dq/dτ)²/2 + V].
+
+**7.** The n = 1 term, ψ₁(q)²e^{−E₁τ}. The decay rate is E₁ = π²/2mL². The condition τ ≫ mL² ensures (E₂ − E₁)τ ≫ 1.
+
+**8.** S_E = ∫dτ′[(m/2)η̇² + (mω²/2)η²]. Cross terms between modes vanish by orthogonality. Each mode gives (m/2)a_n²(n²π²/τ² + ω²)(τ/2).
+
+**9.** ⟨x₁⁴⟩ = 3(A⁻¹)₁₁² and ⟨x₁²x₂²⟩ = (A⁻¹)₁₁(A⁻¹)₂₂, because the cross pairings involve (A⁻¹)₁₂ = 0.
+
+**10.** iS gains i·(iε/2)∫φ² = −(ε/2)∫φ², a damping factor. K becomes −∂² − m² + iε, so in momentum space it is k² − m² + iε.
+
+**11.** Only the term (θ̄Aθ)²/2 in the expansion contains all four variables. Its integral gives A₁₁A₂₂ − A₁₂A₂₁, with the minus sign from reordering the Grassmann variables.
+
+**12.** A boson integral gives (det A)^{−1} = exp[−Tr log A], and a fermion integral gives exp[+Tr log A]. Tr log A expands as a sum of closed loops, so each fermion loop has the opposite sign.
+
+**13.** K^{μν}k_ν = −k²k^μ + k^μk² = 0. The Gaussian has a zero eigenvalue for every k, so det K = 0 and the integral over pure-gauge directions diverges.
+
+**14.** The kk/k² terms in K·D carry the coefficient (1 − ξ) + (1 − 1/ξ) − (1 − ξ)(1 − 1/ξ). The product (1 − ξ)(1 − 1/ξ) equals 2 − ξ − 1/ξ, which is also the sum of the first two terms, so the coefficient is zero and K·D = iδ.
+
+**15.** Z = 1 − (λ/24)·3 + (λ²/1152)·105 = 1 − λ/8 + 35λ²/384. At first order, 3/24 = 1/8. The three pairings of a single vertex all draw the same figure eight, whose symmetry factor is 1/8.
+
+**16.** The classical Euclidean path is q_cl = [q_f sinh ωτ′ + q_i sinh ω(τ − τ′)]/sinh ωτ. Its action is a boundary term, (m/2)[q q̇] from 0 to τ, which evaluates to the stated exponent. As τ → ∞, cosh/sinh → 1 and 1/sinh → 0, so the exponent becomes −mω(q_f² + q_i²)/2. With the prefactor of Worked example 3, the kernel is (mω/π)^{1/2} e^{−mωq_f²/2} e^{−mωq_i²/2} e^{−ωτ/2}.
+
+# Mastery check
+
+Before moving on, do the Core exercises without looking at the solutions and state this lesson's main result from memory. If both go smoothly, continue; if not, reread the sections the missed exercises cite.
