@@ -1,6 +1,6 @@
 # KDP listing — How to Publish Your First Kindle Book
 
-Updated 7 October 2026. Title changed from *Your First Book That Sells*. Platform facts in the manuscript were checked against KDP Help on 6 October 2026 (see the Notes in the book). Master: `How to Publish Your First Kindle Book_REV39_title-updated.docx`.
+Updated 7 October 2026. Title changed from *Your First Book That Sells*. Platform facts in the manuscript were checked against KDP Help on 6 October 2026 (see the Notes in the book). Master: `How to Publish Your First Kindle Book_REV40_2026-10-10.docx` (REV40, 10 October 2026: Oct 6 audit fixes; REV39 is in the local bak folder).
 
 ## Title fields
 
@@ -9,7 +9,7 @@ Updated 7 October 2026. Title changed from *Your First Book That Sells*. Platfor
 - **Author (cover, title page, KDP files):** Kevin Drew Peters
 - **Series:** none
 - **Edition:** Title updated 7 October 2026
-- **Master file:** `How to Publish Your First Kindle Book_REV39_title-updated.docx`
+- **Master file:** `How to Publish Your First Kindle Book_REV40_2026-10-10.docx`
 
 The earlier subtitle “How to Publish and Know What Every Sale Pays You…” repeated the new title and described a royalty-arithmetic book this manuscript is not. The line above matches the title page after the title change. Avoid Amazon program names such as “Kindle Unlimited” and “KDP Select” in the subtitle, and check KDP’s Metadata Guidelines before changing it. Cover title, title page, and these fields must match.
 

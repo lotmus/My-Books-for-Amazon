@@ -38,55 +38,12 @@ FRONT = [
 TITLE = "Your First YouTube Channel That Rocks"
 SUBTITLE = "Grow Watch Time and Subscribers, Reach the Partner Program, and Earn From Ads, Fans, and Sponsors"
 SERIES = "A working guide for creators who want a channel, not a hobby."
-# Back matter: the canonical "Also by Lothar J. Musiol" list (same in every book; see
-# notes/ALSO_BY - canonical list.md at the repo root). Titles as on each master's title page.
-ALSO_BY_HEADING = "Also by Lothar J. Musiol"
+# Back matter: Kevin Drew Peters books only (see notes/ALSO_BY - canonical list.md at the repo root).
+# Never list Lothar J. Musiol books here, and never put his name in this book's files.
+ALSO_BY_HEADING = "Also by Kevin Drew Peters"
 ALSO_BY = [
-    ('Physics, Actually', [
-        'Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity',
-        'Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime',
-        'Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge',
-        'Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere',
-    ]),
-    ('Math, Actually', [
-        'Math, Actually, Volume 1: From Arithmetic to Calculus',
-        'Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic',
-        'Math, Actually, Volume 3: From Differential Equations to Abstract Algebra',
-        'Math, Actually, Volume 4: From Category Theory to the Frontier',
-    ]),
-    ('Quantum, Actually', [
-        'Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire',
-        'Quantum, Actually, Volume 2: A QED Course',
-    ]),
-    ('Science Sparks', [
-        'Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights',
-    ]),
-    ('Look First', [
-        'Look First, Volume 1: The Universe Has No Now',
-        'Look First, Volume 2: A Trip Is Not a New Life',
-    ]),
-    ('Electrical Engineering Series', [
-        'Foundations of Electronics (Book 1)',
-        'Circuits, Components, and Control (Book 2)',
-        'Semiconductor Physics and Devices (Book 3)',
-        'RF, Microwave, and Transceivers (Book 4)',
-        'Communications, Wireless, and SDR (Book 5)',
-        'Power and Energy (Book 6)',
-        'Packaging, Layout, EMC, and Test (Book 7)',
-    ]),
-    ('History', [
-        "The Dolphins' View of History",
-    ]),
-    ('Fiction', [
-        "The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1)",
-        'The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2)',
-        'Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1)',
-        'The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2)',
-        'Protocol Flamingo (The Invasion Storybooks, Book 1), as George Herbert Fontaine',
-    ]),
     ('How-To', [
-        'Your First Book That Sells',
-        'Your First YouTube Channel That Rocks',
+        'How to Publish Your First Kindle Book',
     ]),
 ]
 TOKEN = re.compile(r"(\*\*[^*]+?\*\*|\*[^*]+?\*|`[^`]+`|\[[^\]]+?\]\([^)]+?\))")
@@ -515,9 +472,9 @@ def main():
     )
     doc.add_paragraph(SERIES)
     author_line = doc.add_paragraph()
-    author_line.add_run("Lothar J. Musiol").bold = True
+    author_line.add_run("Kevin Drew Peters").bold = True
     doc.add_paragraph("Updated October 2026")
-    doc.add_paragraph("Copyright \u00a9 2026 Lothar J. Musiol. All rights reserved.")
+    doc.add_paragraph("Copyright \u00a9 2026 Kevin Drew Peters. All rights reserved.")
 
     contents_section = doc.add_section(WD_SECTION.NEW_PAGE)
     set_running_head(contents_section, "Contents")
@@ -582,7 +539,7 @@ def main():
 
     insert_contents(doc, contents_anchor)
     doc.core_properties.title = TITLE
-    doc.core_properties.author = "Lothar J. Musiol"
+    doc.core_properties.author = "Kevin Drew Peters"
     doc.core_properties.subject = SUBTITLE
     doc.core_properties.keywords = "YouTube Partner Program; monetization; RPM; channel memberships; Super Thanks; sponsorships"
     out = ROOT / f"{TITLE}.docx"
