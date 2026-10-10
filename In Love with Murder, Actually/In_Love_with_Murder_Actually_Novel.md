@@ -4159,6 +4159,11 @@ Even a pelican has manners.
 - Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge
 - Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere
 
+**More Actually Books**
+
+- Gravitation, Actually: A Short Book on Gravity
+- The Universe, Actually: What Humanity Currently Understands About Reality
+
 **Math, Actually**
 
 - Math, Actually, Volume 1: From Arithmetic to Calculus
@@ -4196,13 +4201,12 @@ Even a pelican has manners.
 
 **Fiction**
 
-- The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1)
-- The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2)
-- Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1)
-- The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2)
-- Protocol Flamingo (The Invasion Storybooks, Book 1), as George Herbert Fontaine
+- The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+- The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+- Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+- The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+- Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine
 
-**How-To**
+**In German**
 
-- Your First Book That Sells
-- Your First YouTube Channel That Rocks
+- Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?
