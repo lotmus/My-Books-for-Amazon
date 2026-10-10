@@ -154,7 +154,8 @@ names (`sec_N_M`, `ch_N`, `sec_18_9_tables`). Leave them as they are.
 - Done once by `scripts\build_math_actually.py` (Python 3 + lxml, see
   `scripts\README_build.md`). It reads the old Tower masters, so do not re-run it
   on the new masters. From now on the masters are edited directly.
-- Open: the cover images still show the Tower title; 87 sections still open
+- The covers have carried the Math, Actually title since 2 Oct 2026 (section 15).
+  Open: 87 sections still open
   “cold” (under 50 words before the first formula) and need new on-ramps, as
   listed in `Math, Actually - Sections Needing On-ramps.md`.
 - **Older sections below are a historical log and keep the old names**
@@ -544,3 +545,44 @@ moved to `D:\bak\2026-10-03 stale nested git (Math Actually)\.git` and checked w
 `git fsck`. Git run from inside this folder now uses the monorepo. (The first move
 attempts hit transient "Permission denied" errors and left the repo split in two for
 a few minutes; moving the subfolders one at a time finished it.)
+
+## 15. 3 Oct 2026, evening: disk, toward, and the covers
+
+Lothar asked “usa dis?” about the items left open in section 14, and “update
+covers”. Read as: use the American forms, and check the covers. No git write was
+run, so the changed files show as modified in the monorepo and are uncommitted.
+Backup before the edits: `D:\bak\2026-10-03 Math Actually disk, toward and covers\`
+(Volumes 2–4, this file, and every cover file).
+
+**Words.** Only `word/document.xml` changed, in V2–V4; hyperlinks, bookmarks and
+pictures are unchanged. 197 single-letter edits inside the existing runs, plus one
+phrase inside one run.
+- disc → disk and discs → disks: V2 104, V3 54, V4 17 (V1 already used disk). Every
+  hit was the geometric disk (unit disk, flat disk, a disk of radius r); none was a
+  compact disc or any other object, so none was skipped. Totals now: V1 12, V2 122,
+  V3 77, V4 18 uses of disk(s), and no disc anywhere.
+- towards → toward: V2 2, V3 20. No “towards” is left in any volume.
+- “a fortnight abroad” → “two weeks abroad” (V4).
+- Still left alone: “analogue” (28; American mathematical writing uses it too).
+- The checks are those of section 14: the whole text after the edit equals the
+  original with only these words changed; the OOXML schema validator passes on all
+  three volumes; a pandoc comparison of old and new agrees. The house-style line in
+  the Series Reference now reads “toward, disk”.
+
+**Covers.** The four ebook covers (`Cover  Volume 1–4.jpg`), `back cover.png` and the
+five `Cover Art\` PNGs already carried the Math, Actually title: they were redone on
+2 Oct 2026 (the Tower originals are in `D:\bak\2026-10-02 Math covers\`). The line in
+section 0 that said they still showed the Tower title was out of date and is
+corrected. The subtitles and chapter ranges on the covers match the title pages and
+`KDP_Description.md`. Fifty chapters and “more than 1,500 worked examples” on the
+back cover match the volumes as last counted (1,573, section 12).
+- One leftover found and fixed: on the Volume 4 cover the coffee mug carried an “MT”
+  monogram with a tower icon, the old Mathematics Tower mark. It is painted out with
+  the mug's own shading. The file keeps 1600×2560, 300 dpi and the original JPEG
+  tables; away from the mug the pixels differ from the old file by 9 levels at most
+  (re-encoding rounding, invisible). The original is in the backup folder.
+- Left alone, for Lothar to decide: the pictures on Volumes 1–4 and the back cover
+  still draw a building (a glass tower entrance, a lounge with a staircase, a
+  top-floor balcony, and on the back cover a tower with floor lines). No Tower,
+  floor or building wording is on any cover; whether the picture itself should
+  change is an art decision, and it would mean new illustrations.
